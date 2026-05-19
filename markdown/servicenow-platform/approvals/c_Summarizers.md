@@ -19,10 +19,10 @@ From the left navigation pane, select **System UI** &gt; **UI Macros**. Summariz
 
 Each summarizer is written in Jelly script, which is used to define internal forms. The script is stored in the large XML field at the bottom of the UI Macro form.
 
--   **[Change an approval summarizer](../task/t_ChangeASummarizer.md)**  
+-   **[Change an approval summarizer](t_ChangeASummarizer.md)**  
 You can modify existing approval summaries to include additional information.
--   **[Create a new custom approval summarizer](../task/t_CreateANewCustomSummarizer.md)**  
+-   **[Create a new custom approval summarizer](t_CreateANewCustomSummarizer.md)**  
 After you add a new table that has approvals to an instance, you can add a custom activity formatter by creating a new UI macro and then add it to the appropriate form.
 
-**Parent Topic:**[Approval summarizer formatter](../reference/r_ApprovalSummarizerFormatter.md)
+**Parent Topic:**[Approval summarizer formatter](r_ApprovalSummarizerFormatter.md)
 

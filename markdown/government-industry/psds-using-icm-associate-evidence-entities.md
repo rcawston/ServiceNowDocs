@@ -19,7 +19,7 @@ Role required: icm.investigator, supervisory\_agent, admin
 
 With ICM Evidence Management, investigators can create and associate the record for an item of evidence to other entities within the case, all from one workspace.
 
-Before you can link an entity to an evidence record, make sure an entity record has been created for it **within** the case. For more information on how to create an entity record for a related person, property, vehicle, or other entity and associate it with the case, see [Add entities to an investigative case using Investigative Case Management Entity Management](../concept/psds-using-icm-add-entities.md#).
+Before you can link an entity to an evidence record, make sure an entity record has been created for it **within** the case. For more information on how to create an entity record for a related person, property, vehicle, or other entity and associate it with the case, see [Add entities to an investigative case using Investigative Case Management Entity Management](psds-using-icm-add-entities.md#).
 
 ## Procedure
 

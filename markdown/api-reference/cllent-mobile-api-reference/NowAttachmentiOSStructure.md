@@ -49,7 +49,7 @@ String
 
 </td><td>
 
-Computed digest for the attachment data.This computed digest is used to [validate](NowAttachmentiOSStructure.md#) the attachment by comparing it to the known digest stored in the [attachment metadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#). Calculating the computed digest is expensive; avoid using it in the UI. Instead, consider using the hash property in the [NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#) class. If you must use the computed hash, use it sparingly, and consider caching it.
+Computed digest for the attachment data.This computed digest is used to [validate](NowAttachmentiOSStructure.md#) the attachment by comparing it to the known digest stored in the [attachment metadata](NowAttachmentMetadataiOSStructure.md#). Calculating the computed digest is expensive; avoid using it in the UI. Instead, consider using the hash property in the [NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#) class. If you must use the computed hash, use it sparingly, and consider caching it.
 
 </td></tr><tr><td>
 
@@ -57,14 +57,14 @@ metadata
 
 </td><td>
 
-[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataiOSStructure.md#)
+[NowAttachmentMetadata](NowAttachmentMetadataiOSStructure.md#)
 
 </td><td>
 
 Metadata associated with the attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAttachment - validate\(\)
 

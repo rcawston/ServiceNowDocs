@@ -80,5 +80,5 @@ Configuration that the category is referencing.
 **Related topics**  
 
 
-[Customize Lists in Strategic Planning Workspace](../task/customize-lists-strategic-planning-workspace.md)
+[Customize Lists in Strategic Planning Workspace](customize-lists-strategic-planning-workspace.md)
 

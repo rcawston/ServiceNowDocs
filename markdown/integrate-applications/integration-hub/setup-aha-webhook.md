@@ -115,7 +115,7 @@ Role required: admin
 
 ### About this task
 
-The default routing policy in the Aha Webhook Decision Policy module triggers the Process Aha webhooks subflow and notifies the ServiceNow app when certain events occur in Aha!. See [Aha! Spoke](../concept/aha-spoke.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
+The default routing policy in the Aha Webhook Decision Policy module triggers the Process Aha webhooks subflow and notifies the ServiceNow app when certain events occur in Aha!. See [Aha! Spoke](aha-spoke.md) for information about the fields that the default routing policy and subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
 
 ### Procedure
 

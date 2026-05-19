@@ -278,5 +278,5 @@ Default limit for IRM GlideRecord getter. \[sn\_irm\_shared\_cmn.config.get\_gli
 -   Default value: 1000
 
 </td></tr></tbody>
-</table>**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+</table>**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

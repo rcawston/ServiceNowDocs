@@ -25,15 +25,15 @@ See how to launch AI Data Explorer, ask questions in an exploration, and share t
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable AI Data Explorer and supplementary skills for an instance](../task/activate-now-ass-explorer.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable AI Data Explorer and supplementary skills for an instance](activate-now-ass-explorer.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Create data visualizations and share them with collaborators](../concept/use-now-assist-explorer.md)
+[Use![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Create data visualizations and share them with collaborators](use-now-assist-explorer.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles, tables, and domain separation support](../concept/now-assist-explorer-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles, tables, and domain separation support](now-assist-explorer-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

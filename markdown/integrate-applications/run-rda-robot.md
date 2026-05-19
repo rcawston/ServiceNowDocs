@@ -15,20 +15,20 @@ Run an attended robot to execute the attended bot process \(attended automations
 
 ## Before you begin
 
-Create a package. For more information, see [Create a package to assign to a bot process](../../rpa-hub/task/create-package.md#).
+Create a package. For more information, see [Create a package to assign to a bot process](create-package.md#).
 
-Ensure that the licenses are available. For more information, see [Robot license distribution in RPA Hub](../../rpa-hub/concept/license-rpa-hub.md).
+Ensure that the licenses are available. For more information, see [Robot license distribution in RPA Hub](license-rpa-hub.md).
 
-If the auto assignment system property **sn\_rpa\_fdn.allow\_rda\_robot\_auto\_assignment** is false, the attended robot record must be available for the assigned RPA Assisted User. If the auto assignment system property is true, attended robots license must be available to auto create attended robot record at the time of automation execution. For more information about this system property, see [Configure RPA Hub properties](../../rpa-hub/reference/rpahub-sys-properties.md).
+If the auto assignment system property **sn\_rpa\_fdn.allow\_rda\_robot\_auto\_assignment** is false, the attended robot record must be available for the assigned RPA Assisted User. If the auto assignment system property is true, attended robots license must be available to auto create attended robot record at the time of automation execution. For more information about this system property, see [Configure RPA Hub properties](rpahub-sys-properties.md).
 
-Create a bot process. Select the **Process Type** field as **Attended** on the Bot process form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../../rpa-hub/concept/create-botprocess.md) and [Bot Process form in RPA Hub](../../rpa-hub/task/select-botprocess.md#).
+Create a bot process. Select the **Process Type** field as **Attended** on the Bot process form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md) and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 Ensure that the following conditions are met to execute a robot:
 
 -   The life cycle stage status of the associated bot process must be **Published**.
 -   The life cycle stage status of the executing robot must be **In-Use**.
 
-Assign an attended user or a group to an attended bot process. For more information, see [Assign an attended user or group to an attended bot process](../../rpa-hub/task/assign-rda-users-botprocess.md).
+Assign an attended user or a group to an attended bot process. For more information, see [Assign an attended user or group to an attended bot process](assign-rda-users-botprocess.md).
 
 Establish a connection between the Attended Robot and ServiceNow RPA Hub instance. For more information, see [Set up Attended Robot](set-up-rda-runtime.md).
 
@@ -64,7 +64,7 @@ You can run an automation using an attended robot in two ways. Do these tasks af
 
 1.  In the Attended Robot dialog box, select the attended bot process that you want to run.
 
-    Bot processes with Embedded Task Automation enabled are not displayed in this list. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+    Bot processes with Embedded Task Automation enabled are not displayed in this list. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 2.  To run an attended robot, do any one of the following actions.
 
@@ -94,7 +94,7 @@ Select the Desktop In Desktop icon \(![Desktop In Desktop icon.](../image/rda-ru
 
  This option is useful when you want to work simultaneously while running an automation.
 
-This option appears only when you select the **Enable Desktop In Desktop** check box on the Bot process form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../../rpa-hub/concept/create-botprocess.md) and [Bot Process form in RPA Hub](../../rpa-hub/task/select-botprocess.md#).
+This option appears only when you select the **Enable Desktop In Desktop** check box on the Bot process form, while you are creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md) and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 **Important:** If an automation is executed in Desktop In Desktop, the Zscaler connection is lost in the main session and the connection is established in a bot session. This can lead to unresponsive state of the robot. For more information about the Zscaler limitation, see [https://help.zscaler.com/zpa/understanding-client-connector-support-multiple-tenants](https://help.zscaler.com/zpa/understanding-client-connector-support-multiple-tenants).
 
@@ -110,5 +110,5 @@ If the Desktop In Desktop feature prompts you to enter credentials unexpectedly 
     2.  In the Confirmation dialog box, select **Yes**.
 
 
-**Parent Topic:**[Using Attended Robot](../concept/using-rda-runtime.md)
+**Parent Topic:**[Using Attended Robot](using-rda-runtime.md)
 

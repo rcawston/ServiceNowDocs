@@ -26,5 +26,5 @@ Create work items to be added to the process steps involved in the product purch
 -   **[Link work items with process steps](link-work-items-with-process-steps.md)**  
 Establish the relationship between the process steps and their work items.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

@@ -20,7 +20,7 @@ The analyze service health skill uses generative AI to provide an analysis of al
 Before activating the Now Assist skills, you must install the following:
 
 -   Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   Service Observability. For more information, see [Install Service Observability](../../service-observability/task/install-service-observability.md).
+-   Service Observability. For more information, see [Install Service Observability](../service-observability/install-service-observability.md).
 
 You must configure the following settings:
 

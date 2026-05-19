@@ -23,9 +23,9 @@ Role required: it\_demand\_manager
 
 You create demand tasks to plan the work for demands rather than for the target work entity such as a project, change, defect, or enhancement. The resources assigned to a demand task can submit the time spent on it using a time card.
 
-**Note:** If you’re creating a demand task with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, additional fields are available. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Next Experience for Demand Management reference](../reference/multicurrency-in-dw-reference.md).
+**Note:** If you’re creating a demand task with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, additional fields are available. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Next Experience for Demand Management reference](multicurrency-in-dw-reference.md).
 
-For more information about demand tasks, see [Demand tasks](../reference/demand-tasks-dw.md).
+For more information about demand tasks, see [Demand tasks](demand-tasks-dw.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ For more information about demand tasks, see [Demand tasks](../reference/demand-
     -   To update the details of an existing demand task, select the record.
 5.  On the Create New Demand Task form, fill in the fields.
 
-    For a description of the field names, see [Create demand task form](../reference/demand-task-form-dw.md).
+    For a description of the field names, see [Create demand task form](demand-task-form-dw.md).
 
 6.  Select **Save**.
 
@@ -55,7 +55,7 @@ For more information about demand tasks, see [Demand tasks](../reference/demand-
     -   Alternatively, you can create, edit, or delete demand tasks using the **Add demand tasks** playbook activity. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
     After completing your work on the demand task, use the breadcrumb navigation to return to the **Demand Tasks** tab.
 
-    **Note:** Team members can access demand tasks assigned to them from Collaborative Work Management. For more information, see [Managing SPM work in Collaborative Work Management](../../collab-work-mgmt/concept/cwm-team-member-roles.md).
+    **Note:** Team members can access demand tasks assigned to them from Collaborative Work Management. For more information, see [Managing SPM work in Collaborative Work Management](../collaborative-work-management/cwm-team-member-roles.md).
 
 
 **Related topics**  
@@ -63,7 +63,7 @@ For more information about demand tasks, see [Demand tasks](../reference/demand-
 
 [Use Playbooks](use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages.md)
 
-[Create demand task form](../reference/demand-task-form-dw.md)
+[Create demand task form](demand-task-form-dw.md)
 

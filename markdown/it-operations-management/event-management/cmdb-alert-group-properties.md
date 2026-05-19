@@ -17,7 +17,7 @@ Learn about the key properties and functionality of CMDB alert grouping, which f
 
 ## Properties for managing CMDB alert group creation
 
-Use the properties listed in the following tables to control CMDB alert group creation. For more information, see [Configure scheduled job-based alert grouping](../task/enable-alert-grouping.md).
+Use the properties listed in the following tables to control CMDB alert group creation. For more information, see [Configure scheduled job-based alert grouping](enable-alert-grouping.md).
 
 <table id="table_pjt_5lh_vdb"><thead><tr><th>
 

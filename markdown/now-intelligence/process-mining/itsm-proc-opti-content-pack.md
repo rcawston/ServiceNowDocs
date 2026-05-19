@@ -28,18 +28,18 @@ The ITSM Process Mining content pack \(sn\_itsm\_po\) adds prebuilt Process Mini
 
 The pack also includes the predefined Continual Improvement Management \(CIM\) initiative for incident and change processes. The improvement initiative and Process Mining projects are automatically linked.
 
-To enable this content pack, go to the ServiceNow Store. For more detail, see [Activate content packs](../task/activate-po-content-pack.md).
+To enable this content pack, go to the ServiceNow Store. For more detail, see [Activate content packs](activate-po-content-pack.md).
 
 ## Dashboards
 
 You can use the default KPI dashboard for projects in the ITSM Process Mining Content Pack. You can also create dashboards and add elements to them according to your requirements.
 
--   **[Cluster analysis configurations for ITSM work items](../reference/itsm-cluster-analysis-po.md)**  
+-   **[Cluster analysis configurations for ITSM work items](itsm-cluster-analysis-po.md)**  
 The Process Mining application provides solution definitions for incidents, problems, change requests, and requested items. You can use these definitions to configure cluster analysis for those work items.
--   **[Configure KPIs for ITSM work items in the Process Mining dashboard](../task/configure-kpi-itsm-po.md)**  
+-   **[Configure KPIs for ITSM work items in the Process Mining dashboard](configure-kpi-itsm-po.md)**  
 Add the desired Key Performance Indicators \(KPIs\) to monitor the performance of the ITSM work items in the Process Mining Summary and insights page. Remove the indicators that you no longer want to use.
--   **[Configure ITSM insights in the Process Mining dashboard](../task/configure-insights-itsm-po.md)**  
+-   **[Configure ITSM insights in the Process Mining dashboard](configure-insights-itsm-po.md)**  
 Configure rule definitions for incidents, problems, change requests, or request items to discover insights in the Summary and insights page.
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 

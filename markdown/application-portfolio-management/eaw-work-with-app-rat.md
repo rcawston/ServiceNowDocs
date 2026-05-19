@@ -19,7 +19,7 @@ You can view all the business applications in a bubble chart view or in a list v
 The bubble chart view visually positions applications across four quadrants using configurable X and Y axes. The color-coded bubbles reflect planned disposition values to quickly identify which applications align with strategic goals.
 -   **[Use list view](eaw-using-app-rat-list-view.md)**  
 Manage demands, business applications, add lifecycle data, planned disposition and modify associated demands and project details for business applications.
--   **[Apply filters on the Application Rationalization page](../../task/eaw-task/eaw-apply-filters-app-rat.md)**  
+-   **[Apply filters on the Application Rationalization page](eaw-apply-filters-app-rat.md)**  
 You can apply filters on the Application Rationalization page in the Enterprise Architecture Workspace. Based on the applied filters, the bubble chart and list view are updated so that you can view data for a specific business application. Your filter preferences are saved and applied the next time you visit the page.
 
 **Parent Topic:**[Managing Enterprise Architecture Workspace](eaw-managing-ea-workspace.md)

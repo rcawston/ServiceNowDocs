@@ -41,9 +41,9 @@ Implement the following steps to configure Upgrade Console.
 
 Implement the following to experience the guided upgrade for a seamless upgrade on your instance.
 
--   **[Access guided upgrade on a non-production instance](../task/um-guided-tour-implement.md)**  
+-   **[Access guided upgrade on a non-production instance](um-guided-tour-implement.md)**  
 Follow the guided upgrade steps to experience the seamless upgrade on your non-production instance.
--   **[Access guided upgrade on a production instance](../task/um-guided-tour-implement-prod.md)**  
+-   **[Access guided upgrade on a production instance](um-guided-tour-implement-prod.md)**  
 Follow the guided upgrade steps to experience the seamless upgrade on your production instance.
 
 **Parent Topic:**[Upgrade Console](um-landing-page.md)

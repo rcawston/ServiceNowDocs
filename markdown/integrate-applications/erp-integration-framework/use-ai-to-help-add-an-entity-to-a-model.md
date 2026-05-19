@@ -57,5 +57,5 @@ When adding an entity to a model operation in Zero Copy Connector for ERP \(Ente
     ![Entity suggestions with previous AI responses list highlighted.](../../now-assist-zero-copy-connector/images/erp-entity-ask-ai3.png)
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

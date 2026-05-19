@@ -22,7 +22,7 @@ Your latest employment details for all the companies you’ve worked with.
 
 ![Alumni other employment details](../image/alumni-profile-emp-details.png)
 
-For more information, see [Add other employment details](../task/add-other-emp-details.md).
+For more information, see [Add other employment details](add-other-emp-details.md).
 
 ## Past employment details
 
@@ -40,7 +40,7 @@ Your personal details are retrieved and displayed here automatically from your e
 
 ![Personal details](../image/alumni-profile-personal-details.png)
 
-For more information, see [Edit personal details](../task/edit-personal-details.md).
+For more information, see [Edit personal details](edit-personal-details.md).
 
 ## Documents
 

@@ -21,9 +21,9 @@ Role required: action\_designer or admin
 
 ## About this task
 
-When a REST step is added to the Request section of a Data Stream action, you can use the REST step's **Test REST Step** button to auto-generate the Parsing section and Outputs. The Parsing section includes the splitter step and parser step. Auto-generating also puts complex object output in the Outputs section. To learn more about the parts of a Data Stream action, see [Data Stream actions and pagination](../concept/data-stream-actions.md).
+When a REST step is added to the Request section of a Data Stream action, you can use the REST step's **Test REST Step** button to auto-generate the Parsing section and Outputs. The Parsing section includes the splitter step and parser step. Auto-generating also puts complex object output in the Outputs section. To learn more about the parts of a Data Stream action, see [Data Stream actions and pagination](data-stream-actions.md).
 
-**Note:** Auto-generating the Parsing phase only applies to REST steps within a Data Stream action. It doesn't apply to other types of steps, such as SOAP or JDBC steps. For REST steps outside of a Data Stream action, the **Run Test** button [tests the step](../../flow-designer/reference/rest-request-action-designer.md).
+**Note:** Auto-generating the Parsing phase only applies to REST steps within a Data Stream action. It doesn't apply to other types of steps, such as SOAP or JDBC steps. For REST steps outside of a Data Stream action, the **Run Test** button [tests the step](rest-request-action-designer.md).
 
 To auto-generate the Parsing section requires the following.
 
@@ -37,7 +37,7 @@ The following procedure starts in the REST step of a Data Stream action. For ste
 
 1.  Navigate to the REST step in your Data Stream action and fill out the fields.
 
-    For field descriptions, see [REST step](../../flow-designer/reference/rest-request-action-designer.md).
+    For field descriptions, see [REST step](rest-request-action-designer.md).
 
 2.  Select the **Test REST step** button.
 
@@ -55,5 +55,5 @@ The following procedure starts in the REST step of a Data Stream action. For ste
 
 The splitter step, parser step, and outputs are automatically generated. All three can be edited if needed.
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
 

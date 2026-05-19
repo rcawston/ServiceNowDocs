@@ -29,5 +29,5 @@ In the following table, the `HBase Instance@*hostname*` source may contain the i
 |HBase Home|cmdb\_ci\_db\_hbase\_instance|hbase\_home|running process|
 |ZooKeeper Quorum|cmdb\_ci\_db\_hbase\_instance|zookeeper|hbase-site.xml|
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 

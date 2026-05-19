@@ -23,7 +23,7 @@ When you finish all the Day 1 and Day 2 tasks, see the [Cloud Services Catalog a
 
 -   **[Set up Amazon Web Services on Cloud Services Catalog](setting-up-aws-on-cloud-services-catalog.md)**  
 Integrate Cloud Services Catalog with your Amazon Web Services account as a part of the Day 1 configuration task of setting up the application for the first time.
--   **[Setting up Google Cloud Platform on Cloud Services Catalog](../task/setting-up-google-cloud-platform-on-cloud-services-catalog.md)**  
+-   **[Setting up Google Cloud Platform on Cloud Services Catalog](setting-up-google-cloud-platform-on-cloud-services-catalog.md)**  
 Integrate Cloud Services Catalog with your Google Cloud Platform account as a part of the Day 1 configuration task toward setting up CSC for the first time.
 -   **[Set up Microsoft Azure Cloud on Cloud Services Catalog](setting-up-azure-cloud-on-cloud-services-catalog.md)**  
 Integrate Cloud Services Catalog with your Microsoft Azure account as a part of the Day 1 configuration task toward setting up CSC for the first time.

@@ -53,7 +53,7 @@ In the EA Workspace version 2.2.0 or later, the unified map for the selected bus
 -   **[View the unified map for a business application in Enterprise Modeling and Visualization](eaw-view-unified-map-in-modeling-tool.md)**  
 You can view and model the unified map for your business applications, using Enterprise Modeling and Visualization. Using the Enterprise Modeling and Visualization \[com.snc.apm\_modelling\_tool\] functionality in Enterprise Architecture Workspace, you can modify your existing applications hierarchy and associate them with architectural artifacts.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

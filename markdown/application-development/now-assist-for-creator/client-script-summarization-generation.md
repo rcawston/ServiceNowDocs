@@ -62,14 +62,14 @@ A concise summary, information about where the client script is triggered, and a
 |-------|------------|----------|
 |Explain Code panel does not appear|Client script summarization skill is disabled, or user lacks the ui\_builder\_admin role.|Activate Client script summarization skill in Now Assist Admin. Confirm the user has the ui\_builder\_admin role.|
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](using-ui-generation.md)
 
 **Related topics**  
 
 
 [Client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/client-scripts.md)
 
-[Client script summarization](../concept/client-script-summarization.md)
+[Client script summarization](client-script-summarization.md)
 
-[Use case: Summarize a client script using Now Assist](../concept/use-case-client-script-summarization.md)
+[Use case: Summarize a client script using Now Assist](use-case-client-script-summarization.md)
 

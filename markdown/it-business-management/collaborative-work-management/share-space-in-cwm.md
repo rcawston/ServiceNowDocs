@@ -103,7 +103,7 @@ An email invite is sent to the users that you shared this Space with.
 
 ## What to do next
 
-Start working on tasks for your team using Boards. See [Managing work using Boards in CWM](../concept/cwm-boards.md).
+Start working on tasks for your team using Boards. See [Managing work using Boards in CWM](cwm-boards.md).
 
-**Parent Topic:**[Collaborating with Spaces in CWM](../concept/cwm-spaces.md)
+**Parent Topic:**[Collaborating with Spaces in CWM](cwm-spaces.md)
 

@@ -18,7 +18,7 @@ Use the Lease Administration dashboard to get insight into the number of total c
 ## Prerequisites for accessing the Lease Administration dashboard
 
 -   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](install-workplace-central.md)
--   Ensure that the Workplace Lease Administration \(sn\_wsd\_la\) application is installed. For more information, see [Activate Workplace Lease Administration](../../workplace-lease-administration/task/install-lease-administration.md)
+-   Ensure that the Workplace Lease Administration \(sn\_wsd\_la\) application is installed. For more information, see [Activate Workplace Lease Administration](../workplace-lease-administration/install-lease-administration.md)
 -   Ensure that the Workplace Central and Workplace Lease Administration applications and all of their associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 ## Accessing the dashboard
@@ -41,7 +41,7 @@ The following default scorecards are available on the dashboard. Select the card
 -   **Draft Contracts** - Displays the number of workplace contracts in the Draft state.
 -   **Expiring in 60 days** - Displays the number of workplace contracts that expire within the next 60 days.
 
-For more information, see [Workplace Lease Administration](../../workplace-lease-administration/concept/workplace-lease-admin-feat.md).
+For more information, see [Workplace Lease Administration](../workplace-lease-administration/workplace-lease-admin-feat.md).
 
 ## Reports
 
@@ -51,17 +51,17 @@ For more information, see [Workplace Lease Administration](../../workplace-lease
 
     Benefits:
 
-    Displays a consolidated view of the number of workplace contracts expiring so you can renew them on time. For more information, see [Renew workplace contract in Core UI](../../workplace-lease-administration/task/renew-lease-workplace-contracts.md).
+    Displays a consolidated view of the number of workplace contracts expiring so you can renew them on time. For more information, see [Renew workplace contract in Core UI](../workplace-lease-administration/renew-lease-workplace-contracts.md).
 
 
-**Parent Topic:**[Working with Workplace Analytics](../concept/working-with-workplace-analytics.md)
+**Parent Topic:**[Working with Workplace Analytics](working-with-workplace-analytics.md)
 
 **Related topics**  
 
 
 [View Space Optimization metrics](view-space-opt-analytics.md)
 
-[View Occupancy Dashboard](../../workplace-connectors/task/view-badging-tables.md)
+[View Occupancy Dashboard](view-badging-tables.md)
 
 [View Maintenance Management metrics](view-maintenence-mgmt-analytics.md)
 

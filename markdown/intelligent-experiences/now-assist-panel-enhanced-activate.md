@@ -23,7 +23,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 You must have the now\_assist\_panel\_user role to have access to the Now Assist panel once you turn it on.
 
-To learn more about the Now Assist panel, and how it can assist your agents, see [Now Assist panel](../concept/now-assist-panel-overview.md).
+To learn more about the Now Assist panel, and how it can assist your agents, see [Now Assist panel](now-assist-panel-overview.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ For examples of the Now Assist panel in action for Now Assist applications, see 
 -   [Summarize an issue using Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/summarize-an-issue.md)
 -   [Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/gen-kb-now-assisthr.md)
 
-**Parent Topic:**[Configuring Now Assist Admin features](../../now-assist-admin/concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](configuring-na-landing.md)
 

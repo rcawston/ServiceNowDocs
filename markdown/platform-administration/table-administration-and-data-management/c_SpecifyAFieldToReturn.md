@@ -44,11 +44,11 @@ When you restrict fields, you must create a View Field record for the join field
 
 ## What to do next
 
-Verify your changes using the **Try It** related link in the database view record. See [Test the database view](../task/t_TestTheDatabaseView.md).
+Verify your changes using the **Try It** related link in the database view record. See [Test the database view](t_TestTheDatabaseView.md).
 
-**Parent Topic:**[Joining tables using database views](../task/c_CreatingDatabaseViews.md)
+**Parent Topic:**[Joining tables using database views](c_CreatingDatabaseViews.md)
 
-**Previous topic:**[Example left join in creating a database view](../task/example-left-join-db-view.md)
+**Previous topic:**[Example left join in creating a database view](example-left-join-db-view.md)
 
-**Next topic:**[Relabel a column](../task/t_RelabelAColumn.md)
+**Next topic:**[Relabel a column](t_RelabelAColumn.md)
 

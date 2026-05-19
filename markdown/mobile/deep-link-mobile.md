@@ -20,7 +20,7 @@ You can activate mobile deep link URLs to navigate users into any screen type wi
 
 Mobile deep links are activated through the mobile deep link generator. The mobile deep link generator operates as a platform script include, within the global application scope. For additional information see, [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
--   **[Mobile deep link structure](../reference/deep-link-mobile-structure.md)**  
+-   **[Mobile deep link structure](deep-link-mobile-structure.md)**  
 Familiarize yourself with how to construct and use mobile deep links in any screen type within a mobile app.
 
 **Parent Topic:**[Mobile URLs](mobile-urls.md)

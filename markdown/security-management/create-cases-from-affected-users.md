@@ -55,7 +55,7 @@ You need to navigate to the users you want to use to create a case.
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[Affected users in cases](../concept/cases-from-affected-users.md)
+**Parent Topic:**[Affected users in cases](cases-from-affected-users.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ The following logical diagram shows the tables and their relationships within th
 
 ![Public Sector Digital Services Grants Management Data Model](../image/psds-datamodel-grants.png "Grants Management Data Model")
 
--   **[Tables installed with Grants Management](../reference/psds-data-model-gm-tables.md)**  
+-   **[Tables installed with Grants Management](psds-data-model-gm-tables.md)**  
 This section describes the tables installed with the Grants Management application and shows how they store and manage information.
 
 **Parent Topic:**[Public Sector Digital Services Data Model](public-sector-digital-services-data-model.md)

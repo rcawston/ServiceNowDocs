@@ -199,5 +199,5 @@ Closing an incident from **Actions** list adds the same close note to all the in
 
 Service desk agents can close multiple incidents using **Close incidents** in the **Actions** list below the Incident list.
 
-**Parent Topic:**[Incident resolution and closure](../concept/c_IncidentResolutionAndRecovery.md)
+**Parent Topic:**[Incident resolution and closure](c_IncidentResolutionAndRecovery.md)
 

@@ -34,7 +34,7 @@ Role required: sn\_ni\_core.inventory\_agent
 5.  Select **Save**.
 
 
-**Parent Topic:**[Attribute pack for CI records](../concept/using-pack-table-ci-record.md)
+**Parent Topic:**[Attribute pack for CI records](using-pack-table-ci-record.md)
 
 **Related topics**  
 

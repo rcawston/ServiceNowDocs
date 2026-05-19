@@ -76,7 +76,7 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
 10. Click **Add a permission** to add the required permissions to access the APIs.
 
-    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](../concept/ms-entra-ent-mgmt-spk.md#section_d3k_1vt_33c).
+    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](ms-entra-ent-mgmt-spk.md#section_d3k_1vt_33c).
 
     ![Add API permissions.](../../integrationhub/images/ms-azure-ad-api-perm.png)
 
@@ -104,7 +104,7 @@ Role required: admin.
 4.  Locate the alias for **EntraEntitlementManagement** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Entra Entitlement Management spoke, click **View Details**.
-    -   To manage more than one Entra Entitlement Management spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Entra Entitlement Management spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
 5.  On the form, fill in these fields:

@@ -81,6 +81,6 @@ Select **Apply**, after you define your filtering and sorting options.
 ![Filter with selected conditions](../image/mobile-filters-5.png)
 
 </td></tr></tbody>
-</table>3.  Bookmark your filter and sorting selections for easy access. See, [Mobile saved views](../concept/saved-views-mobile.md).
+</table>3.  Bookmark your filter and sorting selections for easy access. See, [Mobile saved views](saved-views-mobile.md).
 
 

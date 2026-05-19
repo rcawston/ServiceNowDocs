@@ -138,7 +138,7 @@ A user can assign a trigger condition to a survey if the user belongs to the Glo
 
 If there is no domain path for a trigger condition, users from any domain can view the trigger condition. For example, in the `asmt_condition` table that has no column for the domain path, users from the Acme domain can view the trigger condition created by the Cisco domain users.
 
-**Parent Topic:**[Surveys reference](../reference/survey-reference.md)
+**Parent Topic:**[Surveys reference](survey-reference.md)
 
 **Related topics**  
 

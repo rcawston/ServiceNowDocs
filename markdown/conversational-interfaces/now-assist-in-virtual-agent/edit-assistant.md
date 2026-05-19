@@ -65,7 +65,7 @@ When editing a chat assistant, actions may differ.
     1.  To edit chat features, select the **Edit chat features** link. The **Settings** &gt; **Additional chat features** page is displayed. For more information about web search mode, response streaming, document uploads, closed chats and voice input, see [Enable additional chat features](additional-chat-features.md).
     2.  Customize assistant settings by selecting **Go to settings** link. For more information, see [Create a chat assistant](create-assistant.md).
     3.  To add a display experience, select the **Go to display experiences** link. For more information, see [Display your chat assistant on a portal, channel, or mobile app](display-assistant-portal-channel.md). For Now Assist panel assistants, see [Display your assistant on Platform or ServiceNow Studio](display-nap-assistant.md).
-    4.  To migrate NLU topics, select the **Migrate topics** link. The Topic Migration application opens a new browser tab. For more information, see [Migrate NLU topics to LLM topics](../../virtual-agent/task/migrate-nlu-llm.md).
+    4.  To migrate NLU topics, select the **Migrate topics** link. The Topic Migration application opens a new browser tab. For more information, see [Migrate NLU topics to LLM topics](../virtual-agent/migrate-nlu-llm.md).
     5.  To manage promoted assets, select the **Manage** button. The **Information sources** &gt; **Promoted** page is displayed. All the assets that have been manually promoted for the assistant are shown.
 4.  From the **Information sources** tab, select the page that needs editing.
 

@@ -30,7 +30,7 @@ Admins can check the Experience Configurations table \[sn\_udc\_experience\_conf
 
 **Important:** No matter what your role is \(including admin and delegated developer roles\), if you have one of the Creator Studio roles, you won't be able to access ServiceNow Studio or ServiceNow IDE.
 
-If you want to give non-default roles access to products in the experience switcher, you must do so in the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\]. For more information, see [Configure non-default access to the experience switcher](../task/configure-access-experience-switcher.md).
+If you want to give non-default roles access to products in the experience switcher, you must do so in the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\]. For more information, see [Configure non-default access to the experience switcher](configure-access-experience-switcher.md).
 
 ## Product installation determines access
 
@@ -44,7 +44,7 @@ To appear in the experience switcher, all products must be on the Yokohama versi
 
 For example, if you choose Creator Studio in the experience switcher but have the Xanadu version of Creator Studio installed, selecting it displays a page directing you to update the version.
 
--   **[Configure non-default access to the experience switcher](../task/configure-access-experience-switcher.md)**  
+-   **[Configure non-default access to the experience switcher](configure-access-experience-switcher.md)**  
 Control which roles have access to the experience switcher in ServiceNow Studio. The experience switcher enables you to easily switch between development environments to use the right tool for your task.
 
 **Parent Topic:**[Configuring ServiceNow Studio](configuring-servicenow-studio.md)

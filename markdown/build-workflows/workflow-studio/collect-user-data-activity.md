@@ -25,7 +25,7 @@ Use the Collect User Data activity if:
 
 If you already have a table to store the collected data, use the [User Form activity](user-form-activity.md).
 
-The key input for this activity is the **User form for data collection** field, under the [Inputs](collect-user-data-activity.md#collect-user-data_inputs) section. To provide this input, you must [create a data definition](../task/create-data-definition.md) first.
+The key input for this activity is the **User form for data collection** field, under the [Inputs](collect-user-data-activity.md#collect-user-data_inputs) section. To provide this input, you must [create a data definition](create-data-definition.md) first.
 
 ## Roles and availability
 
@@ -123,7 +123,7 @@ Option to wait for a duration of time before running an activity or stage. When 
 
 Many of these inputs are common to activities in Playbooks. The key input for this activity is **User form for data collection** field.
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 <table id="table_cjj_sr3_plb"><thead><tr><th>
 
@@ -171,7 +171,7 @@ Choice
 
 </td><td>
 
-Type of input form used to collect data. Playbook authors define the data that they want agents or fulfillers to collect during a playbook run in the `sys_flow_data_definition` table. When the information is collected, it is stored in the `sys_flow_data` table for use later in the playbook run, instead of in the record table. To define the data you want an agent or fulfiller to collect, see [Create a Data Definition](../task/create-data-definition.md).
+Type of input form used to collect data. Playbook authors define the data that they want agents or fulfillers to collect during a playbook run in the `sys_flow_data_definition` table. When the information is collected, it is stored in the `sys_flow_data` table for use later in the playbook run, instead of in the record table. To define the data you want an agent or fulfiller to collect, see [Create a Data Definition](create-data-definition.md).
 
 </td></tr><tr><td>
 

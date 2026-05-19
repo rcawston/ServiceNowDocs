@@ -133,5 +133,5 @@ The **Secret access key** that you generated on the AWS Management Console, such
 
 Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](create-aws-service-accounts.md).
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 

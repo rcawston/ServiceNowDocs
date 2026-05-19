@@ -88,10 +88,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Predictive Intelligence for Incident](../concept/pi-for-incident.md)**  
+-   **[Predictive Intelligence for Incident](pi-for-incident.md)**  
 Use your instance records to build Incident Management -specific solutions.
 
-**Parent Topic:**[Machine learning solutions for IT Service Management](../../it-service-management/concept/machine-learning-itsm.md)
+**Parent Topic:**[Machine learning solutions for IT Service Management](machine-learning-itsm.md)
 
 **Related topics**  
 

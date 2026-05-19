@@ -36,5 +36,5 @@ The following collection jobs collect the data that is shown on the Operational 
     Collection job that occurs daily for unassigned vulnerable items, closed vulnerable items, summed duration of closed vulnerable items, and critical deferred vulnerable items.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

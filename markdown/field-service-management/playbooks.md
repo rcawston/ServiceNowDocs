@@ -36,7 +36,7 @@ Playbooks are organized in stages to provide a guided experience. They direct yo
 5.  Verify work completion
 6.  Close work order task
 
-For more information, see [Playbooks on ServiceNow Agent](playbooks-now-mobile-agent-app.md).
+For more information, see [Playbooks on ServiceNow Agent](work-order-management/playbooks-now-mobile-agent-app.md).
 
 ## Request apps on the Store
 
@@ -45,5 +45,5 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[Configuring Playbooks for Field Service Management](configuring-playbooks-fsm.md)
+[Configuring Playbooks for Field Service Management](work-order-management/configuring-playbooks-fsm.md)
 

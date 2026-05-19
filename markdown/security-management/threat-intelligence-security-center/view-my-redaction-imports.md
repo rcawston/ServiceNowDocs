@@ -32,7 +32,7 @@ Role required: sn\_sec\_tisc.admin
 4.  View the summary of the import records that are imported by the logged in user.
 
 
-**Parent Topic:**[Viewing Redaction Imports](../concept/tisc-radaction-imports.md)
+**Parent Topic:**[Viewing Redaction Imports](tisc-radaction-imports.md)
 
 **Related topics**  
 

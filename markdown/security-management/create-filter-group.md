@@ -135,5 +135,5 @@ Use the [condition builder](https://raw.githubusercontent.com/ServiceNow/Service
     2.  If you changed the criteria, refresh the list by right-clicking in the form header and selecting **Refresh List**.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 

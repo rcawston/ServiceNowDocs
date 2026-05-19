@@ -36,7 +36,7 @@ Role required: it\_project\_manager, resource\_user
 
 The resource plan moves to the Requested state and is ready for review by the resource manager.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -71,7 +71,7 @@ The resource plan moves to the Requested state and is ready for review by the re
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

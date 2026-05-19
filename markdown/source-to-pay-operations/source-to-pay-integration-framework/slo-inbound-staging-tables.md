@@ -15,15 +15,15 @@ breadcrumb: [Inbound staging tables, Source-to-Pay integration framework, Integr
 
 The inbound staging tables for Supplier Lifecycle Operations temporarily store supplier data before it is sent to the SLO primary data tables.
 
--   **[Supplier Contact inbound staging table](../reference/slo-supp-contact-inbound-table.md)**  
+-   **[Supplier Contact inbound staging table](slo-supp-contact-inbound-table.md)**  
 The Supplier contact inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound\] staging table temporarily stores important data about a supplier contact before this data is sent to the Supplier Contact \[vm\_vdr\_contact\] primary table.
--   **[Supplier inbound staging table](../reference/slo-supplier-inbound-table.md)**  
+-   **[Supplier inbound staging table](slo-supplier-inbound-table.md)**  
 The Supplier inbound \[sn\_fcms\_intg\_imp\_supplier\] staging table temporarily stores important data about the supplier before this data is sent to the Supplier \[sn\_fin\_supplier\] primary table.
--   **[Supplier Legal Entity mapping inbound staging table](../reference/slo-legal-entity-inbound-table.md)**  
+-   **[Supplier Legal Entity mapping inbound staging table](slo-legal-entity-inbound-table.md)**  
 The Supplier legal entity mapping inbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_inbound\] staging table temporarily stores important data about the legal entities of a supplier before this data is sent to the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) primary table.
--   **[Supplier Location inbound staging table](../reference/slo-supp-location-inbound-table.md)**  
+-   **[Supplier Location inbound staging table](slo-supp-location-inbound-table.md)**  
 The Supplier location inbound \[sn\_fcms\_intg\_supplier\_location\_inbound\] staging table temporarily stores important data about the geographical location of a supplier before this data is sent to the Supplier Location \[sn\_slm\_m2m\_location\] and Location \[cmn\_location\] primary tables.
--   **[Supplier Payment inbound staging table](../reference/slo-supp-payment-inbound-table.md)**  
+-   **[Supplier Payment inbound staging table](slo-supp-payment-inbound-table.md)**  
 The Supplier payment inbound \[sn\_fcms\_intg\_supplier\_payment\_inbound\_stage\] staging table temporarily stores important data about the payment information of a supplier before this data is sent to the Supplier Payment Information \[sn\_fin\_supplier\_payment\] primary table.
 
 **Parent Topic:**[Inbound staging tables for Source-to-Pay Operations](s2p-inbound-staging-tables.md)
@@ -33,5 +33,5 @@ The Supplier payment inbound \[sn\_fcms\_intg\_supplier\_payment\_inbound\_stage
 
 [Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
-[Inbound staging tables for Accounts Payable Operations](../../accounts-payable-operations/concept/inbound-staging-tables-for-apo.md)
+[Inbound staging tables for Accounts Payable Operations](inbound-staging-tables-for-apo.md)
 

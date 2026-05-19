@@ -38,11 +38,11 @@ The Time Card form and the Time Sheet form have a Field Service view. For users 
 
 The steps for setting up Time Recording for Field Service are:
 
-1.  [Activate Time Recording for Field Service](../task/Activate-time-recording.md)
+1.  [Activate Time Recording for Field Service](Activate-time-recording.md)
 
     Install the Time Recording for Field Service plugin \(com.snc.wm\_time\_recording\) for if you have the admin role.
 
-2.  [Configure time recording categories for Field Service Management](../task/configure-time-categories.md)
+2.  [Configure time recording categories for Field Service Management](configure-time-categories.md)
 
     Create time recording categories to accurately track the work that Field Service technicians do. For example, you may want to create a category called Training if there are regular trainings technicians complete.
 

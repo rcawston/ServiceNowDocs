@@ -35,5 +35,5 @@ You can configure whether to show the context menu in the syntax editor with the
 
 **Note:** Context menu options can be accessed only if the browser supports SharedWorker, such as Google Chrome and Mozilla Firefox.
 
-**Parent Topic:**[Using the JavaScript syntax editor](../reference/r_EdtJvaScptWSyntxEdtr.md)
+**Parent Topic:**[Using the JavaScript syntax editor](r_EdtJvaScptWSyntxEdtr.md)
 

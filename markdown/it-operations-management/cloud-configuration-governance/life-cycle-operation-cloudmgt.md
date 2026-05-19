@@ -56,7 +56,7 @@ Only Google Cloud Platform and IBM Cloud support the Virtual Machine Store Exten
 
     For Windows VMs, the InfuseKey operation adds key credentials \(public and private key pair values\) to the VM.
 
-    As a result, you can view the credentials on the Properties list of the Windows VM and can use the credentials to perform VM operations. For instructions on generating a key, see [Create an SSH key](../task/cloudmgt-create-ssh-key.md).
+    As a result, you can view the credentials on the Properties list of the Windows VM and can use the credentials to perform VM operations. For instructions on generating a key, see [Create an SSH key](cloudmgt-create-ssh-key.md).
 
     To add key credentials to a Windows VM:
 

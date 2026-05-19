@@ -69,17 +69,17 @@ The **Open** tab displays a list of existing open asset audits
 </td></tr></tbody>
 </table>2.  Select the stockroom or location audit number.
 
-    The Asset audit results are displayed. For more information about audit result fields, see [Audit results](../reference/audit-results.md).
+    The Asset audit results are displayed. For more information about audit result fields, see [Audit results](audit-results.md).
 
     ![Audit Results shows a pie chart of assets grouped by state](../image/ham-asset-audit.png)
 
     **Note:** In the Hardware Asset Workspace, on the Asset audits form under the **Details** tab, the audit result-related field values are populated. In the ServiceNow Agent app, you can find audit results on the Asset Audits screen under the **Details** tab.
 
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 
 
-[Audit results](../reference/audit-results.md)
+[Audit results](audit-results.md)
 

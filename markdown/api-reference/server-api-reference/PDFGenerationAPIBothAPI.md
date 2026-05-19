@@ -47,10 +47,10 @@ The methods in this class enable the following tasks:
 
 Related APIs:
 
--   [PdfMergeSignRequestor](../../PdfMergeSignRequestorBoth/concept/PdfMergeSignRequestorBothAPI.md#)
--   [SVGToPDFConversionAPI](../../SVGToPDFConversionAPIBoth/concept/SVGToPDFConversionAPBothAPI.md#)
+-   [PdfMergeSignRequestor](PdfMergeSignRequestorBothAPI.md#)
+-   [SVGToPDFConversionAPI](SVGToPDFConversionAPBothAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PDFGenerationAPI – PDFGenerationAPI\(\)
 
@@ -2360,7 +2360,7 @@ requestor
 
 </td><td>
 
-[PdfMergeSign​Requestor](../../PdfMergeSignRequestorBoth/concept/PdfMergeSignRequestorBothAPI.md#)
+[PdfMergeSign​Requestor](PdfMergeSignRequestorBothAPI.md#)
 
 </td><td>
 

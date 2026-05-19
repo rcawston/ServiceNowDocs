@@ -193,5 +193,5 @@ Risk rating for the risk of impact to integrity. Impact to integrity has consequ
 -   **[Approve, reject, or delete a business process](review-a-business-process.md)**  
 If a new business process has identified approvers, then the approvers must review and approve the process before it can be published. The approvers can also reject or delete the process as necessary.
 
-**Parent Topic:**[Manage a business process](../concept/use-business-process.md)
+**Parent Topic:**[Manage a business process](use-business-process.md)
 

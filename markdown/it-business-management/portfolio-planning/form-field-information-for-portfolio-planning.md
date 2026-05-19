@@ -17,7 +17,7 @@ Field information for forms used in the Portfolio Planning application.
 
 -   **[Action Assignment form](action-assignment-form.md)**  
 Learn about the fields of the Action Assignment form. Use this form to add the **New** action button to the APW List Menu Configuration page.
--   **[Choice map form](../../apw-internal-integrations/reference/choice-map-form-ppw.md)**  
+-   **[Choice map form](choice-map-form-ppw.md)**  
 Understand the fields of the choice map form. This form is used to create choice maps.
 -   **[Create cost plan form](create-cost-plan-form-pp.md)**  
 Use this form to create cost plans for your planning items.
@@ -25,7 +25,7 @@ Use this form to create cost plans for your planning items.
 Use this form to create expense lines for your actual expense.
 -   **[Dependency form](dependency-form-portfolio-planning.md)**  
 Learn about the fields of the dependency form. Use this form to add and establish dependencies between planning items on the roadmap in Portfolio Planning .
--   **[Field map form](../../apw-internal-integrations/reference/field-map-form-ppw.md)**  
+-   **[Field map form](field-map-form-ppw.md)**  
 Understand the fields of the field map form. This form is used to create mappings for a corresponding table map.
 -   **[Demand planning item form](demand-form-portfolio-planning.md)**  
 Learn about the fields of the demand form. Use this form to create or edit the details of a planning item of the type Demand in Portfolio Planning.
@@ -45,7 +45,7 @@ Learn about the fields of the planning item milestone form. Use this form to cre
 Learn about the fields of the project form. Use this form to create or edit the details of a planning item of the type Project in Portfolio Planning.
 -   **[Roadmap configuration form](roadmap-configuration-form.md)**  
 Learn about the fields of the roadmap configuration form. Use this form to add new tables to roadmap preferences and configure their details in Portfolio Planning.
--   **[Table map form](../../apw-internal-integrations/reference/table-map-form-ppw.md)**  
+-   **[Table map form](table-map-form-ppw.md)**  
 Understand the fields of the table map form. This form is used to create a new custom table map for any record to integrate with Agile Development 2.0, SAFe, and PPM.
 -   **[Roadmap milestone form](roadmap-milestone-form.md)**  
 Learn about the fields of the roadmap milestone form. Use this form to create a milestone for the timeline of your roadmap in Portfolio Planning.
@@ -56,5 +56,5 @@ Learn about the fields of the UX List Category form. Use this form to create add
 -   **[UX List form](ux-list-form-portfolio-planning.md)**  
 Learn about the fields of the UX List form. Use this form to create additional lists in the Lists menu of Portfolio Planning workspaces.
 
-**Parent Topic:**[Portfolio Planning reference](../concept/portfolio-planning-reference.md)
+**Parent Topic:**[Portfolio Planning reference](portfolio-planning-reference.md)
 

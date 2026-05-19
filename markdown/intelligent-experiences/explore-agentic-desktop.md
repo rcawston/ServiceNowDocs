@@ -45,11 +45,11 @@ You can trigger AI agents from the Now Assist panel while impersonating another 
 
 To learn more about configuring and using AI Desktop Actions, see:
 
--   [Configure AI Desktop Actions](../task/configure-agentic-desktop.md)
+-   [Configure AI Desktop Actions](configure-agentic-desktop.md)
 -   [Defined path desktop actions in AI Desktop Actions](desktop-actions-designer-workspace-ad.md)
 -   [Creating AI agents for AI Desktop Actions](create-ai-agents-ad.md)
 -   [Examples of creating desktop actions](examples-of-agentic-desktop-automation.md)
 -   [Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
--   [Components installed with AI Desktop Actions](../reference/components-installed-with-agentic-desktop.md)
--   [System requirements and limitations in AI Desktop Actions](../reference/sys-req-limitations-ad.md)
+-   [Components installed with AI Desktop Actions](components-installed-with-agentic-desktop.md)
+-   [System requirements and limitations in AI Desktop Actions](sys-req-limitations-ad.md)
 

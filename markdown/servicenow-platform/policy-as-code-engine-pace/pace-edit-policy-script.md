@@ -21,7 +21,7 @@ Role required: sn\_pace.code\_editor
 
 ## About this task
 
-**Important:** For further information about testing your policy script, see [Use the Test Playground for PaCE policies](../concept/pace-use-test-playground.md).
+**Important:** For further information about testing your policy script, see [Use the Test Playground for PaCE policies](pace-use-test-playground.md).
 
 ## Procedure
 

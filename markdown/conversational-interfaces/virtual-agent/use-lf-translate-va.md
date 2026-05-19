@@ -17,7 +17,7 @@ Use the ServiceNow Localization Framework to manage the process of localizing Vi
 
 ## Before you begin
 
-Check the prerequisites for translating Virtual Agent components. For more information, see [Localizing Virtual Agent conversations](../concept/localize-va-topic.md).
+Check the prerequisites for translating Virtual Agent components. For more information, see [Localizing Virtual Agent conversations](localize-va-topic.md).
 
 Make sure that your Virtual Agent topics are published and performing the way you want them to. Make any adjustments before you send them to localization.
 
@@ -53,5 +53,5 @@ When translations are complete, Virtual Agent admins can view, unlock, or edit t
 
 Once translations are published, they are made available to Virtual Agent topics that use keywords dynamically.
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
 

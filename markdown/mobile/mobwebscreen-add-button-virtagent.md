@@ -55,5 +55,5 @@ To add a button to your mobile web screen, you must use UI Builder. For more inf
 
 In your mobile web screen on your device, refresh the mobile app to display the button you added for Virtual Agent.
 
-**Parent Topic:**[Mobile web screen](../concept/url-screen.md)
+**Parent Topic:**[Mobile web screen](url-screen.md)
 

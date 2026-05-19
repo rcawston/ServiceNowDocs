@@ -46,5 +46,5 @@ The data product is published. After the metadata collector runs, it appears in 
 
 To move the data product to production instance, see [Move data interfaces and data products to production](move-data-interfaces-products-to-prod-wdf.md)
 
-**Parent Topic:**[Managing data products](../concept/manage-data-products-wdf.md)
+**Parent Topic:**[Managing data products](manage-data-products-wdf.md)
 

@@ -58,5 +58,5 @@ Optionally, you can update the `sn_mfg_common.ot_cmdb_search_trigger_words` syst
 3.  Select **Save**.
 
 
-**Parent Topic:**[Configuring the OT Manager Foundation](../concept/configuring-na-otm.md)
+**Parent Topic:**[Configuring the OT Manager Foundation](configuring-na-otm.md)
 

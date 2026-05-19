@@ -77,5 +77,5 @@ Action
 7.  Click **Merge with current**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

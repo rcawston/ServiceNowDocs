@@ -61,7 +61,7 @@ Import SSL Certificate pattern
 
 </td><td>
 
-Allows you to discover certificates by importing certificates from files. [Run Certificate Discovery via certificate file import](../task/run-cert-inventory-mgmt-import.md).
+Allows you to discover certificates by importing certificates from files. [Run Certificate Discovery via certificate file import](run-cert-inventory-mgmt-import.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Allows you to discover certificates by importing certificates from files. [Run C
 
 </td><td>
 
-Discovers certificates as part of AWS Cloud discovery. [AWS Certificate Manager discovery](../../service-mapping/reference/aws-certificate-manager-discovery-pattern.md).
+Discovers certificates as part of AWS Cloud discovery. [AWS Certificate Manager discovery](aws-certificate-manager-discovery-pattern.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Discovers certificates as part of AWS Cloud discovery. [AWS Certificate Manager 
 
 </td><td>
 
-Discovers certificates as part of GCP Cloud discovery. [GCP Certificate Manager discovery](../../service-mapping/reference/gcp-certificate-discovery-pattern.md).
+Discovers certificates as part of GCP Cloud discovery. [GCP Certificate Manager discovery](gcp-certificate-discovery-pattern.md).
 
 </td></tr><tr><td>
 
@@ -105,16 +105,16 @@ Java KeyStore and Windows Certificates
 
 </td><td>
 
-Discovers certificates in the Java KeyStore or Windows Certificate Store. [Java KeyStore and Windows Certificate Store discovery](../../service-mapping/reference/x509-certificates-discovery.md).
+Discovers certificates in the Java KeyStore or Windows Certificate Store. [Java KeyStore and Windows Certificate Store discovery](x509-certificates-discovery.md).
 
 </td></tr></tbody>
-</table>-   **[AWS Certificate Manager discovery](../../service-mapping/reference/aws-certificate-manager-discovery-pattern.md)**  
+</table>-   **[AWS Certificate Manager discovery](aws-certificate-manager-discovery-pattern.md)**  
 Cloud Discovery uses Patterns to discover certificate data that the Amazon AWS Cloud Certificate Manager \(ACM\) manages. Discovering this data requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
--   **[GCP Certificate Manager discovery](../../service-mapping/reference/gcp-certificate-discovery-pattern.md)**  
+-   **[GCP Certificate Manager discovery](gcp-certificate-discovery-pattern.md)**  
 Cloud Discovery uses Patterns to discover certificate data that the GCP Certificate Manager manages. Discovering this data requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
 -   **[Azure Key Vault certificate discovery](azure-certificate-discovery-pattern.md)**  
 Cloud Discovery uses Patterns to discover Azure Key Vault certificates. Discovering this data requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
--   **[Java KeyStore and Windows Certificate Store discovery](../../service-mapping/reference/x509-certificates-discovery.md)**  
+-   **[Java KeyStore and Windows Certificate Store discovery](x509-certificates-discovery.md)**  
 Discovery uses the **Collect Certificates** extension section of the **Linux Server** and **Windows OS – Servers** patterns to discover certificates stored in the Java KeyStore or Windows Certificate Store. Discovering the certificate information requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
 
 **Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)

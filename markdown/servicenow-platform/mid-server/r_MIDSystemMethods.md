@@ -33,18 +33,18 @@ This example writes a message to the log:
 
 `ms.log('Attempting to log in with user: ' + this.getParameter('user'));`
 
-**Parent Topic:**[MID Server reference](../concept/mid-server-reference-information.md)
+**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
 
 **Related topics**  
 
 
 [MID Server system requirements](r_MIDServerSystemRequirements.md)
 
-[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
 [Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](../concept/c_MIDServerDashboard.md)
+[MID Server dashboard](c_MIDServerDashboard.md)
 
 [MID Server properties](r_MIDServerProperties.md#)
 
@@ -52,17 +52,17 @@ This example writes a message to the log:
 
 [MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
-[MID Server File Cleaner](../concept/mid_file_cleaner.md)
+[MID Server File Cleaner](mid_file_cleaner.md)
 
 [MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
-[MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#)
+[MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
 [MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 

@@ -133,5 +133,5 @@ Alerts start flowing from Grafana into the Event Management plugin. The plugin e
 -   For Grafana v7.4.3, you may see extra clear events coming into ServiceNow which aren’t bound to an alert. Ignore them as they’re created to overcome the issue of Grafana not sending information in the clear notification.
 -   A severity parameter is added which is used only for Grafana 8 and above. The provided value is used as a severity for an event if the severity isn’t passed in custom labels.
 
-**Parent Topic:**[Integrate Grafana events](../concept/grafana-integration.md)
+**Parent Topic:**[Integrate Grafana events](grafana-integration.md)
 

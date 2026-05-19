@@ -100,5 +100,5 @@ From the navigation menu of the Asset operations view, navigate to **Provider** 
 -   The inbound asset order line moves to the Completed stage.
 -   The state of the asset changes to In Transit.
 
-**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md)
+**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md)
 

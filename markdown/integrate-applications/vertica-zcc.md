@@ -18,5 +18,5 @@ A connection admin can create a connection to an OpenText Analytics Database \(V
 **Related topics**  
 
 
-[Create an OpenText Analytics Database \(Vertica\) connection](../task/create-vertica-connection-zcc.md)
+[Create an OpenText Analytics Database \(Vertica\) connection](create-vertica-connection-zcc.md)
 

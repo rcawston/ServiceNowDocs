@@ -38,16 +38,16 @@ Administrators and catalog administrators can design a home page in any of the f
 
 -   **[Configure search and navigation](c_ConfigSrchNavUseProps.md)**  
 You can use service catalog properties to configure search and navigation within the service catalog homepage.
--   **[Configure preview](../task/t_ConfigureMoreInformationDisplays.md#)**  
+-   **[Configure preview](t_ConfigureMoreInformationDisplays.md#)**  
 Configure the number of items that have the **Preview** section expanded to display item details. You can also change the default number \(5\) of items and categories that display, and hide the **Exists in categories** information.
--   **[Create a renderer](../task/t_CreatingOrModifyingRenderers.md#)**  
+-   **[Create a renderer](t_CreatingOrModifyingRenderers.md#)**  
 Create or modify renderers using UI macros to provide the rendering instructions. Renderers define a specific look and feel for a catalog or category.
--   **[Customize a catalog homepage](../task/t_CustomizingTheHomepageForACatalog.md#)**  
+-   **[Customize a catalog homepage](t_CustomizingTheHomepageForACatalog.md#)**  
 Customize a catalog homepage to provide end users with access to catalogs from one homepage.
--   **[Customize the multi-catalog homepage](../task/t_CustomizeTheMultiCatalogHomepage.md)**  
+-   **[Customize the multi-catalog homepage](t_CustomizeTheMultiCatalogHomepage.md)**  
 Customize the multi-catalog homepage to provide end users with access to multiple catalogs from one homepage.
--   **[Show item details in sections or pop-ups](../task/t_ShowItemDetlsCollapsSect.md)**  
+-   **[Show item details in sections or pop-ups](t_ShowItemDetlsCollapsSect.md)**  
 By default, a service catalog category displays the first two items with the preview section expanded to show item details. You can change the number of items that are previewed, or change the preview to appear in a pop-up window.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 

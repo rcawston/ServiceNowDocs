@@ -30,7 +30,7 @@ Example
 
 </th></tr></thead><tbody><tr><td>
 
-[Image-based link](../task/ec-content-library-portal-image.md)
+[Image-based link](ec-content-library-portal-image.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ An picture or graphic that redirects employees to an internal or external web pa
 
 </td></tr><tr><td>
 
-[Banner](../task/ec-content-library-portal-banner.md)
+[Banner](ec-content-library-portal-banner.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ An image with text that appears at the top of the portal homepage.
 
 </td></tr><tr><td>
 
-[Calendar](../task/ec-content-library-portal-calendar.md#)
+[Calendar](ec-content-library-portal-calendar.md#)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Displays upcoming company holidays.**Note:** Employees can download content as a
 
 </td></tr><tr><td>
 
-[Event](../task/ec-content-library-portal-events.md)
+[Event](ec-content-library-portal-events.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Provides employees with a quick view of upcoming company events.**Note:** Employ
 
 </td></tr><tr><td>
 
-[Rich text](../task/ec-content-library-portal-richtext.md)
+[Rich text](ec-content-library-portal-richtext.md)
 
 </td><td>
 
@@ -90,7 +90,7 @@ Blocks of formatted text and images.
 
 </td></tr><tr><td>
 
-[Styled content](../task/ec-content-library-portal-styled.md)
+[Styled content](ec-content-library-portal-styled.md)
 
 </td><td>
 
@@ -102,7 +102,7 @@ A banner, video, or block of rich text.
 
 </td></tr><tr><td>
 
-[URL](../task/ec-content-library-portal-url.md)
+[URL](ec-content-library-portal-url.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ A text-based link that redirects employees to an internal or external web page.
 
 </td></tr><tr><td>
 
-[Video](../task/ec-content-library-portal-video.md)
+[Video](ec-content-library-portal-video.md)
 
 </td><td>
 

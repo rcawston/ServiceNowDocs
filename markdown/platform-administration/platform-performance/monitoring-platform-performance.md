@@ -27,8 +27,8 @@ A response time indicator \(clock\) appears at the end of many forms and lists.
 Identify and debug the root causes for a problematic transaction by recording, and then reviewing, its call chain. A call chain consists shows the ordered series of scripts executed during the life cycle of a transaction.
 -   **[Thread performance monitoring](c_MonitorPerformanceOnThreads.md)**  
 The instance tracks the performance of individual threads, which administrators can view in the transaction log.
--   **[Monitoring instance usage](../../subscription-management/concept/usage-analytics-module-subscription.md)**  
+-   **[Monitoring instance usage](usage-analytics-module-subscription.md)**  
 You can track application usage on your instance through the Application Usage Overview and the ServiceNow Store Usage overview dashboards.
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 

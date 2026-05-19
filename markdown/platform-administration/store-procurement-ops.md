@@ -29,7 +29,7 @@ Description
 
 If the provider requires it, you might have to receive approval before starting a 30-day trial of an application. Trials are available for non-production instances only.
 
- For more information, see [Start an application trial from the ServiceNow Store](../task/start-trial.md).
+ For more information, see [Start an application trial from the ServiceNow Store](start-trial.md).
 
 </td></tr><tr><td>
 
@@ -39,7 +39,7 @@ If the provider requires it, you might have to receive approval before starting 
 
 Initiate the start of a trial period to test an application on non-production instances.
 
- For more information, see [Start an application trial from the ServiceNow Store](../task/start-trial.md).
+ For more information, see [Start an application trial from the ServiceNow Store](start-trial.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Initiate the start of a trial period to test an application on non-production in
 
 After initiating a trial, you can choose which non-production instances have access to the application.
 
- For more information, see [Start an application trial from the ServiceNow Store](../task/start-trial.md).
+ For more information, see [Start an application trial from the ServiceNow Store](start-trial.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ If an application has custom terms and conditions, review and accept them as par
 
 Applications that are available at no additional cost might need to be requested and approved by the provider before they can be installed. These applications can be installed on production or non-production instances.
 
- For more information, see [Get a free application](../task/store-get-free-app.md).
+ For more information, see [Get a free application](store-get-free-app.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Applications that are available at no additional cost might need to be requested
 
 Some applications must be requested and approved by the provider before they can be purchased. If approved and purchased, these applications can be installed on production or non-production instances.
 
- For more information, see [Buy a ServiceNow application](../task/buy-servicenow-app.md) or [Buy a partner application](../task/buy-partner-app.md).
+ For more information, see [Buy a ServiceNow application](buy-servicenow-app.md) or [Buy a partner application](buy-partner-app.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Some applications must be requested and approved by the provider before they can
 
 Initiate the purchase process for an application that you have received approval to purchase, or an application that doesn't require approval. The application can be installed on production or non-production instances
 
- For more information, see [Buy a partner application](../task/buy-partner-app.md).
+ For more information, see [Buy a partner application](buy-partner-app.md).
 
 </td></tr></tbody>
 </table>

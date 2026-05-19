@@ -28,5 +28,5 @@ Risk administrators, managers, or users can monitor critical vulnerabilities by 
 5.  As risks are identified, issues are generated and assigned to the appropriate business service owners.
 6.  Dashboards provide an up-to-date view for business stakeholders as risks are identified and remediated.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

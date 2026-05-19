@@ -36,15 +36,15 @@ Watch this three-minute video to learn how to manage approval requests in the mo
 
 This mobile application runs on the ServiceNow® mobile platform. You should activate the ITSM Mobile Experience \(com.sn\_itsm\_mobile\) plugin that enables the ITSM mobile application.
 
--   **[Get started with the mobile app for Approvals](../task/get-started-mobile-cat-requests.md)**  
+-   **[Get started with the mobile app for Approvals](get-started-mobile-cat-requests.md)**  
 Access the My Approvals application instance on your mobile app to manage approval requests using your mobile device.
--   **[Manage a catalog request approval](../task/manage-cat-approval-request-mobile.md)**  
+-   **[Manage a catalog request approval](manage-cat-approval-request-mobile.md)**  
 Manage your assigned catalog request or requested item by approving or rejecting it from anywhere using your mobile device.
 
-**Parent Topic:**[Service Catalog in mobile](../../../product/service-catalog-management/concept/catalog-experience-mobile.md)
+**Parent Topic:**[Service Catalog in mobile](catalog-experience-mobile.md)
 
 **Related topics**  
 
 
-[Request experience in Now Mobile](../../../product/service-catalog-management/concept/now-mobile-catalog.md)
+[Request experience in Now Mobile](now-mobile-catalog.md)
 

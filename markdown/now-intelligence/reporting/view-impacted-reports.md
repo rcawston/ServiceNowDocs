@@ -55,7 +55,7 @@ DBView Referenced ACL Table
 
 </td><td>
 
-When this column is populated, the report is affected because of an ACL on one of the tables that the [database view](../../performance-analytics/concept/performance-analytics-glossary.md#) is based on.Sometimes an affected report is based on a database view with an ACL. In this case, the name of the database view appears below the name of the table in the Table column.
+When this column is populated, the report is affected because of an ACL on one of the tables that the [database view](../performance-analytics/performance-analytics-glossary.md#) is based on.Sometimes an affected report is based on a database view with an ACL. In this case, the name of the database view appears below the name of the table in the Table column.
 
 </td></tr><tr><td>
 
@@ -189,5 +189,5 @@ Click the link to view the column ACLs that apply to the impacted report. The **
 </table>2.  Address the affected reports and users as described in [Manage Report ACL assessments](view-report-acl-remediation.md#).
 
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 

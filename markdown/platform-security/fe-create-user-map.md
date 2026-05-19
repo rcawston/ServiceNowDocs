@@ -56,5 +56,5 @@ The hash field stores a SHA-256 fingerprint of an attachment's content. Even tho
 
 Because of this, duplicate detection doesn't work for encrypted attachments, since ServiceNow uses the hash field to prevent identical attachments from being added to a record.
 
-**Parent Topic:**[Module access policies for inbound email attachment encryption](../concept/fe-maps-inbound-email-attachment-encryption.md)
+**Parent Topic:**[Module access policies for inbound email attachment encryption](fe-maps-inbound-email-attachment-encryption.md)
 

@@ -37,7 +37,7 @@ You can roll back the last installation or upgrade of all applications that are 
 4.  In the custom application record, click the **Rollback** related link.
 
 
-**Parent Topic:**[Rolling back and removing applications](../concept/c_RemovingApplications.md)
+**Parent Topic:**[Rolling back and removing applications](c_RemovingApplications.md)
 
 **Related topics**  
 

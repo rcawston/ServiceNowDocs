@@ -41,7 +41,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     Data type: **Slush Bucket**
 
-    The list of catalog variables whose values you want to get from the requested item record. Each catalog variable that you select is displayed as a data pill in the data pane. You can define flow-specific variables that are displayed in the Available list. To define flow-specific variables, see [Create flow Service Catalog variables](../task/create-flow-catalog-variables.md).
+    The list of catalog variables whose values you want to get from the requested item record. Each catalog variable that you select is displayed as a data pill in the data pane. You can define flow-specific variables that are displayed in the Available list. To define flow-specific variables, see [Create flow Service Catalog variables](create-flow-catalog-variables.md).
 
 
 ## Outputs
@@ -65,5 +65,5 @@ In this example, a flow runs when someone requests an item from the Service Cata
 
 The flow execution details show that the Submitted Request links to a request for a standard laptop. Of the three catalog variables, the string variable is empty and the two Boolean variables are false.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

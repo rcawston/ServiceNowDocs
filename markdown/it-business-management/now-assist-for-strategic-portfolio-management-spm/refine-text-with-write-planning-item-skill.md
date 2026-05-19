@@ -17,7 +17,7 @@ Improve record quality by enabling AI-assisted text refinement in the text field
 
 ## Before you begin
 
-The Refine record skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+The Refine record skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](configuring-na-spm.md).
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles and also add those custom roles to the In product role.
 
@@ -105,12 +105,12 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../images/icon-co
     |sn\_align\_core\_demand|sn\_align\_core.apw\_user|
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](../concept/exploring-now-assist-for-spm.md)
+[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](exploring-now-assist-for-spm.md)
 
-[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](../reference/skill-inputs-for-now-assist-for-spm.md)
+[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](skill-inputs-for-now-assist-for-spm.md)
 

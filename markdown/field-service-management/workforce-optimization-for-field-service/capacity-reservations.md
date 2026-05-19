@@ -94,7 +94,7 @@ Demand Channel
 
 </td><td>
 
-Select the demand channel for the reservation rule. For more information, see [Create a demand channel](../task/create-a-demand-channel.md). **Note:** Applies only if territory plugin is installed.
+Select the demand channel for the reservation rule. For more information, see [Create a demand channel](create-a-demand-channel.md). **Note:** Applies only if territory plugin is installed.
 
 </td><td>
 

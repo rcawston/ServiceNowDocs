@@ -34,5 +34,5 @@ Each crawl history entry for an external content connector's user permission cra
 |----------------------------|-----------|
 |Average crawl speed|Score shows the average speed of the user permission crawl, expressed in users processed per second of crawl time.|
 
-**Parent Topic:**[External Content Connectors reference](../concept/reference-ext-cont-connectors.md)
+**Parent Topic:**[External Content Connectors reference](reference-ext-cont-connectors.md)
 

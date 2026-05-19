@@ -52,5 +52,5 @@ Role required: admin
 10. Select **Update**.
 
 
-**Parent Topic:**[Configuring Virtual Agent API](../concept/configure-virtual-agent-api.md)
+**Parent Topic:**[Configuring Virtual Agent API](configure-virtual-agent-api.md)
 

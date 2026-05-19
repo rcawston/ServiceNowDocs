@@ -51,7 +51,7 @@ Data source
 
 </td><td>
 
-Only table data sources listed in the Semantic Table Configuration table are supported. See [Add a table to the semantic data layer](../task/add-table-semantic-layer.md#).
+Only table data sources listed in the Semantic Table Configuration table are supported. See [Add a table to the semantic data layer](add-table-semantic-layer.md#).
 
 </td></tr><tr><td>
 
@@ -132,5 +132,5 @@ Data visualizations can be added only to dashboards that are created in the inli
 -   Specify a single time period per query.
 -   Avoid multiple conditions in a single query.
 
-**Parent Topic:**[Generate visualizations in the Now Assist panel](../task/use-dv-generation.md)
+**Parent Topic:**[Generate visualizations in the Now Assist panel](use-dv-generation.md)
 

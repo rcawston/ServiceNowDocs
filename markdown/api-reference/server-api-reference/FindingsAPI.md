@@ -24,7 +24,7 @@ See also:
 -   [Getting started with checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-intro-health-check.md)
 -   [Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-findings.md)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Findings - increment\(\)
 
@@ -61,7 +61,7 @@ Use this method in the Script field in the [Linter Check form](https://raw.githu
 See also:
 
 -   [Advanced linter check scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-linter-check-scripts.md)
--   [LinterCheckAstNode API](../../LinterCheckAstNode/concept/LinterCheckAstNodeAPIBoth.md#)
+-   [LinterCheckAstNode API](LinterCheckAstNodeAPIBoth.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -71,7 +71,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to increment linter type nodes in a linter check. For information on using linter check methods, see [LinterCheckAstNode API](../../LinterCheckAstNode/concept/LinterCheckAstNodeAPIBoth.md#).
+The following example shows how to increment linter type nodes in a linter check. For information on using linter check methods, see [LinterCheckAstNode API](LinterCheckAstNodeAPIBoth.md#).
 
 ```
 (function(engine) {

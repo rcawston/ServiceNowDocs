@@ -310,7 +310,7 @@ Verify a service cannot move forward to Catalog phase without a service portfoli
 Paris
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Service Portfolio Management](../../../product/service-portfolio-management2/concept/SPM2-configuring.md)
+</table>**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
 
 **Related topics**  
 

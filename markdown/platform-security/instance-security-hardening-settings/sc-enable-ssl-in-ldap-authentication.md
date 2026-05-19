@@ -99,7 +99,7 @@ References
 
 </td><td>
 
-[Lightweight Directory Access Protocol integration](../../../integrate/ldap/concept/c_LDAPIntegration.md)
+[Lightweight Directory Access Protocol integration](../ldap-integration/c_LDAPIntegration.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](sc-authentication.md)

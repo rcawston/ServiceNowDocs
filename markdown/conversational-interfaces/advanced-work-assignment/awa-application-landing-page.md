@@ -23,7 +23,7 @@ Advanced Work Assignment \(AWA\) automatically assigns work items to your agents
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Advanced Work Assignment \(AWA\) and activate relevant plugins. Set up AWA to automatically assign work items to qualified agents using defined work item queues, routing conditions, and assignment criteria.](../task/installing-awa.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install Advanced Work Assignment \(AWA\) and activate relevant plugins. Set up AWA to automatically assign work items to qualified agents using defined work item queues, routing conditions, and assignment criteria.](installing-awa.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Advanced Work Assignment \(AWA\) automatically assigns work items to your agents
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Advanced Work Assignment \(AWA\) details for domain separation, components, and properties.](../reference/reference-awa.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Advanced Work Assignment \(AWA\) details for domain separation, components, and properties.](reference-awa.md)
 
 </td><td>
 

@@ -27,7 +27,7 @@ As an agent manager, you can access an interaction record of type Zoom to view t
 
 As a customer, you can join a Zoom meeting with an agent regardless of whether you have a Zoom account.
 
-To get started with the Chat Zoom Connector application, see [Configure Chat Zoom Connector](../task/config-chat-zoom-connector.md).
+To get started with the Chat Zoom Connector application, see [Configure Chat Zoom Connector](config-chat-zoom-connector.md).
 
 ## Key features
 

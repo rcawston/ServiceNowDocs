@@ -17,7 +17,7 @@ Classic approvals are a legacy process to require authorization on tasks before 
 
 Administrators can define classic approval logic by navigating to **All** &gt; **System Policy** &gt; **Rules** &gt; **Approvals**.
 
-**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../workflow-studio/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 Administrators can see all approval requests by navigating to **All** &gt; **Self-Service** &gt; **My Approvals** and removing the list filter.
 

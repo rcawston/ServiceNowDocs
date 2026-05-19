@@ -59,7 +59,7 @@ You can configure Dependency Views to display CIs that have no relationship reco
     |Active|Check box to enable or disable this record.|
 
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -74,7 +74,7 @@ You can configure Dependency Views to display CIs that have no relationship reco
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

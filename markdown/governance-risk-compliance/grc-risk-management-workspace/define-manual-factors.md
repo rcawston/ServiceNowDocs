@@ -177,5 +177,5 @@ Guidance on how to respond to the factor. If the risk assessor does not understa
 
 The factor is published and is ready for use in a Risk Assessment Methodology.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

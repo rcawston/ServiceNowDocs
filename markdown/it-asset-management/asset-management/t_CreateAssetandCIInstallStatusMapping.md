@@ -48,5 +48,5 @@ Asset synchronization does not update this field when hardware assets are update
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

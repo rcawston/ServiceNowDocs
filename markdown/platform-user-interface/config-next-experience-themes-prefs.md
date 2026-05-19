@@ -35,8 +35,8 @@ Override the Next Experience theme with your custom theme.
 A toast message provides simple feedback about an operation in a small pop-up. Choose which corner of the screen that you would like your notification toast message banners to appear in for the purpose of improving usability.
 -   **[Preserve your custom Next Experience theme during a clone](preserve-next-experience-theme-during-clone.md)**  
 Preserve your custom Next Experience theme during a clone by using a data preserver.
--   **[Multi-theme management](../concept/multi-theme-management.md)**  
+-   **[Multi-theme management](multi-theme-management.md)**  
 Next Experience multi-theme management offers a more personalized experience by enabling users to choose a theme that aligns with their personal preferences.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
 

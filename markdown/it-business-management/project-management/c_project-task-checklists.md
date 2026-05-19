@@ -30,7 +30,7 @@ Checklists, as well as tasks, are copied into a project template. You also have 
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -48,13 +48,13 @@ Checklists, as well as tasks, are copied into a project template. You also have 
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[Use a project task checklist](../task/t_CreateAProjectTaskChecklist.md)
+[Use a project task checklist](t_CreateAProjectTaskChecklist.md)
 
-[Save a checklist as a template](../task/t_SaveAChecklistAsATemplate.md)
+[Save a checklist as a template](t_SaveAChecklistAsATemplate.md)
 

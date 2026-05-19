@@ -35,8 +35,8 @@ The Alerts table displays all of the relevant issues in the system.
 
 3.  Select an alert to receive more information about the alert.
 
-    For details on the displayed additional information, see [Alerts in Service Operations Workspace](../../service-operations-workspace-itom/concept/view-alert-workspace-itom.md).
+    For details on the displayed additional information, see [Alerts in Service Operations Workspace](../service-operations-workspace-for-itom-apps/view-alert-workspace-itom.md).
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

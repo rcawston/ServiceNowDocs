@@ -50,5 +50,5 @@ Create Scoring Framework attribute.
 
 [Create a final score attribute](create-a-final-score-attribute.md)
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](custom-scoring-frameworks-in-strategic-planning.md)
 

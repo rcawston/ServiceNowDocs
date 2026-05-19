@@ -138,7 +138,7 @@ This timer alerts the agent to a severe SLA breach by changing the color of an i
 **Note:** The length of time for the Level 3 timer must be greater than the Level 2 timer.
 
 </td></tr></tbody>
-</table>For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+</table>For more information, see [Configure chat session tabs](csm-workspace-chat-session-tabs-configure.md).
 
 ## Tab colors
 
@@ -151,7 +151,7 @@ Virtual agent admins can configure up to three SLA threshold levels for chat ses
 
 The background tab color changes when an inactive tab with unread messages reaches the first SLA threshold level. The tab maintains the current color until the timer reaches the next configured SLA threshold level.
 
-For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs](csm-workspace-chat-session-tabs-configure.md).
 
 ## Unread message counters
 
@@ -220,5 +220,5 @@ Users with the Virtual agent admin role can enable the chat sessions tab feature
 
 When this feature is enabled, chat session tabs display colors to indicate the chat status. These colors are determined by SLA threshold timers that alert agents to impending SLA breaches.
 
-For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs](csm-workspace-chat-session-tabs-configure.md).
 

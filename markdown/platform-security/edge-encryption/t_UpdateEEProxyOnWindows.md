@@ -50,5 +50,5 @@ Role required: security\_admin or local administrator on the host machine
 5.  Check the proxy log in the new directory and the instance to verify that the proxy has been updated and is running.
 
 
-**Parent Topic:**[Upgrading Edge Encryption](../concept/c_UpdateEdgeEncryptionProxy.md)
+**Parent Topic:**[Upgrading Edge Encryption](c_UpdateEdgeEncryptionProxy.md)
 

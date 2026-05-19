@@ -19,9 +19,9 @@ Quick start test for Firewall Audits and Reporting to validate configuration ite
 |----|-----------|
 |Firewall Discovery|Firewall Discovery is performed on a firewall endpoint. Discovery brings the firewall manager, policies and devices, and persists them to the cmdb\_ci tables. This test validates the firewall manager, policies, and devices data in the cmdb\_ci tables and output and discovery errors during the discovery run.|
 
-To learn more, see [Firewall Audits and Reporting](../../../product/discovery/reference/firewall-audit-reporting.md).
+To learn more, see [Firewall Audits and Reporting](firewall-audit-reporting.md).
 
-**Parent Topic:**[Firewall Audits and Reporting reference](../../../product/discovery/reference/firewall-audit-report-reference.md)
+**Parent Topic:**[Firewall Audits and Reporting reference](firewall-audit-report-reference.md)
 
 **Related topics**  
 

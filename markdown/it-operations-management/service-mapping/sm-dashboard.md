@@ -43,11 +43,11 @@ Navigate to **Workspaces** &gt; **Service Mapping**.
 
 -   **Create a service instance or a unified service**
     -   Create a service instance to leverage your resources in unmapped services.
-    -   Create a unified service from various sources. For more information, see: [Multi-source service mapping](../concept/multi-source-service-mapping.md).
+    -   Create a unified service from various sources. For more information, see: [Multi-source service mapping](multi-source-service-mapping.md).
 
 **Important:**
 
-Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](../task/install-service-mapping-plus.md).
+Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](install-service-mapping-plus.md).
 
 ## Key Metrics
 
@@ -162,7 +162,7 @@ Server \[cmdb\_ci\_server\]
 
 A bar report that presents unmapped servers that have been matched to an application service candidate as well as those servers with no candidate.
 
- Select **Unmapped servers with candidate** to view servers you can use to create an application service. For more information, see [Create an application service for unmapped servers](../task/unmapped-servers.md).
+ Select **Unmapped servers with candidate** to view servers you can use to create an application service. For more information, see [Create an application service for unmapped servers](unmapped-servers.md).
 
 </td></tr><tr><td>
 
@@ -220,11 +220,11 @@ For more information about application readiness, see [Application service readi
 **Related topics**  
 
 
-[Automated Service Suggestions](../concept/auto-serv-suggest.md)
+[Automated Service Suggestions](auto-serv-suggest.md)
 
-[Map application services based on Automated Service Suggestions](../task/map-application-suggestion.md)
+[Map application services based on Automated Service Suggestions](map-application-suggestion.md)
 
 [Name suggestions for application service candidates](app-services-name-suggestions.md)
 
-[Map your application services using tags in the Service Mapping Workspace](../task/map-tag-based-services-workspace.md)
+[Map your application services using tags in the Service Mapping Workspace](map-tag-based-services-workspace.md)
 

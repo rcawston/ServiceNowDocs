@@ -37,7 +37,7 @@ Role required: sn\_wsd\_kiosk.admin
 
 3.  On the Kiosk configuration form, fill in the fields.
 
-    For a description of the field values, see [Kiosk configuration form](../reference/kiosk-configuration-form.md).
+    For a description of the field values, see [Kiosk configuration form](kiosk-configuration-form.md).
 
 4.  Select **Submit**.
 
@@ -69,7 +69,7 @@ Module configuration
 
 Configuration record for the kiosk module.For more information about creating a module, see [Create a kiosk module](create-kiosk-module.md).
 
-For more information about creating a map configuration, see [Configure map features for kiosk](../../workplace-central/task/config-map-features.md).
+For more information about creating a map configuration, see [Configure map features for kiosk](../workplace-central/config-map-features.md).
 
 </td></tr><tr><td>
 
@@ -112,5 +112,5 @@ Order of preference of the kiosk module.
 
 You have configured a kiosk configuration and linked it to a kiosk module.
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

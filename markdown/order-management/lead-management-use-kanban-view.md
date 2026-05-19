@@ -32,5 +32,5 @@ Role required: sales\_agent
     -   You can take various actions for your leads, such as creating a lead task, assigning a lead, and composing an email by selecting the three vertical dots ![](../image/icon-three-dots.png) either on a lead card or vertical leads stage header.
     -   To create a new lead directly from this page, select **New** button. To learn more, see [Create a lead](create-new-lead.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

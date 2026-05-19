@@ -103,5 +103,5 @@ This field only appears after you select **Append Encoded Query** in the **Condi
 
 ## What to do next
 
-For more information on how parameters pass values between screens, see [Parametrized list screens](../concept/list-applet-parameters.md).
+For more information on how parameters pass values between screens, see [Parametrized list screens](list-applet-parameters.md).
 

@@ -19,13 +19,13 @@ Decrease the credit limit of a customer's credit card as per the credit card ser
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
 When a credit card service case for a decrease in the credit limit is created, the Decrease Credit Limit flow is triggered. This flow automatically creates a credit card task in the **Tasks** tab of the case to decrease the credit limit for the customer.
 
-For more information on the flows that are installed with the Financial Services Card Operations application, see [Designer flows for Financial Services Operations applications](../../fso-common/reference/flow-designer-flows-fso-apps.md).
+For more information on the flows that are installed with the Financial Services Card Operations application, see [Designer flows for Financial Services Operations applications](../flow-designer-flows-fso-apps.md).
 
 ## Procedure
 

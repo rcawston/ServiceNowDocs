@@ -17,13 +17,13 @@ Install and integrate the WSD for Microsoft places application with Microsoft Te
 
 To register and integrate the WSD for Microsoft places application with Microsoft Teams, perform the following procedures in an order:
 
--   Register the **WSD for MS Places** application [Register the WSD for Microsoft places application](../task/installing-wsd-ms-places.md)
--   Download Manifest files [Download manifest files](../task/download-manifest-files.md)
--   Modify the Manifest file \(.json\) [Modify the manifest file](../task/modify-the-manifest-file.md)
--   Upload the application [Upload the WSD for Microsoft places application](../task/upload-the-app.md)
+-   Register the **WSD for MS Places** application [Register the WSD for Microsoft places application](installing-wsd-ms-places.md)
+-   Download Manifest files [Download manifest files](download-manifest-files.md)
+-   Modify the Manifest file \(.json\) [Modify the manifest file](modify-the-manifest-file.md)
+-   Upload the application [Upload the WSD for Microsoft places application](upload-the-app.md)
 
 **Related topics**  
 
 
-[WSD for Microsoft places- Key features and actions](../references/wsd-for-ms-places-key-features-and-actions.md)
+[WSD for Microsoft places- Key features and actions](wsd-for-ms-places-key-features-and-actions.md)
 

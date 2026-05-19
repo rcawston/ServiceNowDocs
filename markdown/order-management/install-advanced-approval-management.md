@@ -28,7 +28,7 @@ The following items are installed with Advanced Approval Management:
 -   Tables
 -   Scheduled jobs
 
-For more information, see [Components installed with Advanced Approval Management](../reference/components-installed-advanced-approval-management-for-sales.md).
+For more information, see [Components installed with Advanced Approval Management](components-installed-advanced-approval-management-for-sales.md).
 
 ## Procedure
 

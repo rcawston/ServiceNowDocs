@@ -24,13 +24,13 @@ Using custom shapes in the Enterprise Modeling and Visualization ensures that yo
 **Related topics**  
 
 
-[Storing shapes or images to the database](../../task/eaw-task/eaw-modeling-store-image-databse.md)
+[Storing shapes or images to the database](eaw-modeling-store-image-databse.md)
 
-[Create a diagram action for a custom shape](../../task/eaw-task/eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](eaw-modeling-action-custom-shape.md)
 
-[Add a custom shape library](../../task/eaw-task/eaw-modeling-add-custom-shape-library.md)
+[Add a custom shape library](eaw-modeling-add-custom-shape-library.md)
 
-[Add a shape library element for a custom shape](../../task/eaw-task/eaw-modeling-custom-shape-element.md)
+[Add a shape library element for a custom shape](eaw-modeling-custom-shape-element.md)
 
-[Custom shapes example](../../task/eaw-task/eaw-modeling-custom-shape-example.md)
+[Custom shapes example](eaw-modeling-custom-shape-example.md)
 

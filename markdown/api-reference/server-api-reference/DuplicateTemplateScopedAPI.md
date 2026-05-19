@@ -19,7 +19,7 @@ De-duplication task remediation can be more time consuming than desirable when h
 
 When an instance detects duplicate configuration items \(CIs\) during identification and reconciliation, it groups each set of duplicate CIs into a de-duplication task for review and remediation. De-duplication tasks provide details about the duplication, including a list of all duplicate CIs. For information, see [Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md).
 
-See also: [IdentificationEngine - Scoped](../../IdentificationEngineScoped/concept/IdentificationEngineScopedAPI.md#)
+See also: [IdentificationEngine - Scoped](IdentificationEngineScopedAPI.md#)
 
 -   **Template life cycle**
     1.  Use the [CreateTemplate\(\)](DuplicateTemplateScopedAPI.md#) method to create a template in the draft state.
@@ -33,7 +33,7 @@ See also: [IdentificationEngine - Scoped](../../IdentificationEngineScoped/conce
 
         **Note:** Use the [unPublishTemplate\(\)](DuplicateTemplateScopedAPI.md#) method to return a published template to draft state and update the template.
 
-    3.  Optional. Use the [CMDBDuplicateTemplateUtil](../../CMDBDuplicateTemplateUtils/concept/CMDBDuplicateTemplateUtilAPI.md#) script include to add or remove tasks.
+    3.  Optional. Use the [CMDBDuplicateTemplateUtil](CMDBDuplicateTemplateUtilAPI.md#) script include to add or remove tasks.
     4.  Use the [runTemplate\(\)](DuplicateTemplateScopedAPI.md#) method to run the template.
 
         To cancel a running task, use the [requestCancellation\(\)](DuplicateTemplateScopedAPI.md#) method.
@@ -46,7 +46,7 @@ See also: [IdentificationEngine - Scoped](../../IdentificationEngineScoped/conce
     1.  Use the [previewTemplate\(\)](DuplicateTemplateScopedAPI.md#) method to preview the remediation of a single-task with a template.
     2.  Use the [remediateTask\(\)](DuplicateTemplateScopedAPI.md#) method to remediate the de-duplication task with a template.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DuplicateTemplate - canAddTasksToTemplate\(Array taskIds, String templatId\)
 

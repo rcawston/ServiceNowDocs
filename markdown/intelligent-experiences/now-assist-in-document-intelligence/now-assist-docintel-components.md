@@ -20,13 +20,13 @@ Components are installed with the activation of Now Assist in Document Intellige
 
 There are no roles installed with Now Assist in Document Intelligence. It uses the same roles included with the Document Intelligence application.
 
-For more information, see [Components installed with Document Intelligence](installed-with-document-intelligence.md).
+For more information, see [Components installed with Document Intelligence](../document-intelligence/installed-with-document-intelligence.md).
 
 ## Tables installed
 
 Now Assist in Document Intelligence uses the same tables included with the Document Intelligence application.
 
-For more information, see [Components installed with Document Intelligence](installed-with-document-intelligence.md).
+For more information, see [Components installed with Document Intelligence](../document-intelligence/installed-with-document-intelligence.md).
 
 **Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
 

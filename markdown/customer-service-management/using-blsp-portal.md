@@ -156,9 +156,9 @@ View a list of the most viewed articles.
 **Related topics**  
 
 
-[Add staff members to a business location in the Business Location Service Portal](../task/add-staff-memers-to-biz-location.md)
+[Add staff members to a business location in the Business Location Service Portal](add-staff-memers-to-biz-location.md)
 
-[Create cases for a business location in the Business Location Service Portal](../task/report-cases-on-behalf-of-biz-location.md)
+[Create cases for a business location in the Business Location Service Portal](report-cases-on-behalf-of-biz-location.md)
 
 [Track cases on the Business Location Service Portal](track-cases-for-blsp-portal.md)
 

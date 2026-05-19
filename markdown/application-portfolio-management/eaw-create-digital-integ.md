@@ -37,7 +37,7 @@ Role required: sn\_apm.apm\_analyst
     -   To update an existing digital integration, select the digital integration, select **Edit**.
 6.  On the **Digital Integration** form, fill in the fields.
 
-    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](../../reference/eaw-reference/eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](../../reference/eaw-reference/eaw-update-digital-integration-form.md).
+    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](eaw-update-digital-integration-form.md).
 
 7.  Select **Add** or **Update**.
 
@@ -46,7 +46,7 @@ Role required: sn\_apm.apm\_analyst
 
 After submission of the form, within the CMDB platform, a CI relationship \(Interfaces::Interfaced By\) gets created between provider and subscriber business applications. In the case where the digital interface has no relation to a business application \(using Open or Public API\), the digital integration is created between the subscriber business application and a standalone digital interface.
 
-**Parent Topic:**[Working with digital integrations](../../concept/eaw-concept/eaw-work-with-digital-integrations.md)
+**Parent Topic:**[Working with digital integrations](eaw-work-with-digital-integrations.md)
 
 **Related topics**  
 

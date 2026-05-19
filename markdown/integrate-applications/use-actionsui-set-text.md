@@ -21,7 +21,7 @@ Role required: none
 
 The Set Text component uses inter-process communication \(IPC\) to interact with application controls. You can use it to enter any text data, such as a user name, an address, or a survey response, in any situation where text entry is accepted.
 
-You can configure the properties for the Set Text component. For more information about these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+You can configure the properties for the Set Text component. For more information about these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ You can configure the properties for the Set Text component. For more informatio
 
 7.  Add an anchor to the captured image by doing the following actions:
 
-    An anchor is a unique identifier that enables the Set Text component to identify the location where the text is set. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Set Text component treats the whole captured image as an anchor. For more information on anchor, see [Anchor](../concept/anchor.md).
+    An anchor is a unique identifier that enables the Set Text component to identify the location where the text is set. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Set Text component treats the whole captured image as an anchor. For more information on anchor, see [Anchor](anchor.md).
 
     1.  In the Set Text component, right-click the image, and click **Add Anchor**.
 
@@ -106,5 +106,5 @@ The name is set in the Name field, as shown in the image.
 
 ![Name set in the field.](../image/ActionSet_SetText_4.PNG)
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

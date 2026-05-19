@@ -218,5 +218,5 @@ Perform a search for all Remediation tasks where an issue identified on the reme
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[NIST CSF Use Case Accelerator](../concept/grc-csf-usecase-accelerator.md)
+**Parent Topic:**[NIST CSF Use Case Accelerator](grc-csf-usecase-accelerator.md)
 

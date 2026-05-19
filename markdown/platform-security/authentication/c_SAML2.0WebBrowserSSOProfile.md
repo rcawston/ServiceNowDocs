@@ -21,5 +21,5 @@ The [SAML 2.0](http://saml.xml.org/saml-specifications) integration enables SSO 
 
 If you are using the SAML 2.0 plugin for SSO authentication, you must set the glide.ui.rotate\_sessions property to false. Otherwise, it interferes with the session information sharing that takes place between the instance and the Identity Provider. Users with the security\_admin elevated privilege can access this property.
 
-**Note:** It is recommended that customers using an existing SAML 2.0 integration upgrade to the [Multi-Provider SSO plugin.](../../single-sign-on/task/t_ActivateMultipleProviderSSO.md)
+**Note:** It is recommended that customers using an existing SAML 2.0 integration upgrade to the [Multi-Provider SSO plugin.](t_ActivateMultipleProviderSSO.md)
 

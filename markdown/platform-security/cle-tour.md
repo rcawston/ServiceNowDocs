@@ -34,5 +34,5 @@ Role required: sn\_kmf.crypto\_manager or security\_admin
     ![The Column Level Encryption tour.](../../key-management-framework/image/tour_image.png)
 
 
-**Parent Topic:**[Exploring Column Level Encryption](../concept/exploring-column-level-encryption.md)
+**Parent Topic:**[Exploring Column Level Encryption](exploring-column-level-encryption.md)
 

@@ -19,7 +19,7 @@ A Threat Groupings object could also be used to assert that the referenced STIX 
 
 The Threat Grouping SDO contains a list of references to SDOs, SCOs, and SROs, along with an explicit statement of the context shared by the content, a textual description, and the name of the grouping.
 
--   **[Define threat groupings](../task/define-threat-groupings.md)**  
+-   **[Define threat groupings](define-threat-groupings.md)**  
 Define threat groupings as objects that have a shared context.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

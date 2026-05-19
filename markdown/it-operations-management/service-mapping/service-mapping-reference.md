@@ -29,9 +29,9 @@ Review the information on the dashboard to confirm that you’re ready to discov
 Several types of components are installed with activation of the Service Mapping Plus plugin, including tables and scheduled jobs.
 -   **[Components installed with Service Mapping](components-installed-with-service-mapping.md)**  
 Several types of components are installed with activation of the Service Mapping plugin, including tables, user roles, properties, and scheduled jobs.
--   **[Domain separation and Service Mapping](../concept/domain-separation-service-mapping.md)**  
+-   **[Domain separation and Service Mapping](domain-separation-service-mapping.md)**  
 Domain separation is supported in Service Mapping. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Service Mapping Recomputation](../concept/recomputation.md)**  
+-   **[Service Mapping Recomputation](recomputation.md)**  
 Keep application services up to date and track changes to services through the recomputation capability of the Application Service feature of Service Mapping. Recomputation jobs recalculate mapped application services when changes occur to an associated configuration item \(CI\) within the Configuration Management Database \(CMDB\).
 -   **[Connection Suggestions list](connection-suggestions-list.md)**  
 Review details of connection suggestions to decide which connections are relevant for application services.

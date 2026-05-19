@@ -25,12 +25,12 @@ Role required: admin
 
 3.  On the Corrective Action form, fill in the fields.
 
-    For a description of the field values, see [Corrective action form for PQI](../reference/mco-corrective-action-form-for-pqi.md).
+    For a description of the field values, see [Corrective action form for PQI](mco-corrective-action-form-for-pqi.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for quality issues](../concept/mco-related-list-for-pqi.md)
+**Parent Topic:**[Related list for quality issues](mco-related-list-for-pqi.md)
 
 **Related topics**  
 

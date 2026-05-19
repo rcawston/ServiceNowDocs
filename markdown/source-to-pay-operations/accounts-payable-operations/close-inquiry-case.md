@@ -57,5 +57,5 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
     Depending on the option that you selected in step 5, the state of the case updates to Close complete or Closed incomplete.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](work-with-inquiry-cases.md)
 

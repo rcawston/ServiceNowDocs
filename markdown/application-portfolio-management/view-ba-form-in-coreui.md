@@ -31,10 +31,10 @@ Role required: admin
 
 6.  Select the more actions icon \(![More actions icon.](../../image/icon-three-dot-menu-eaw.png)\) and select **View form in Core UI**.
 
-    For field information, see [Business application form](../../reference/eaw-reference/eaw-apprat-business-application-form.md).
+    For field information, see [Business application form](eaw-apprat-business-application-form.md).
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

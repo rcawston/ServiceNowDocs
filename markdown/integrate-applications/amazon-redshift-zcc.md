@@ -55,5 +55,5 @@ The following table lists supported Amazon Redshift data types and the default m
 **Related topics**  
 
 
-[Create an Amazon Redshift connection](../task/create-amazon-redshift-connection-zcc.md)
+[Create an Amazon Redshift connection](create-amazon-redshift-connection-zcc.md)
 

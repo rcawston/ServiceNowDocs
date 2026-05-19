@@ -36,7 +36,7 @@ Role required: Any
 4.  Use your browser functionality to export or print the printer-friendly dashboard copy.
 
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -47,11 +47,11 @@ Role required: Any
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

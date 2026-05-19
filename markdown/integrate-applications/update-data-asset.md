@@ -50,5 +50,5 @@ Enrich assets with descriptions, business context, and organizational metadata t
 8.  Select **Save**. ![Edit a data asset](../image/dc-data-asset-edits.png)
 
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](manage-data-catalog.md)
 

@@ -26,14 +26,14 @@ For a detailed description of Log Analytics alerts , see [Types of Health Log An
     ![Identified issue appears here and in alert title.](../image/identified-issue-card-loganalytics-alert.png "Identified issue")
 
     -   Select **Details** for more information about the alert.
-    -   Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    -   Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](hla-op-surrounding-logs-view-sow.md).
 -   **Configuration Items**
 
-    To view more detailed information on the CI that is associated with the alert, click the **Configuration Items** tab or click **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view more detailed information on the CI that is associated with the alert, click the **Configuration Items** tab or click **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](../event-management/operator-phase-acknowledge-analyze.md).
 
 -   **Impacted services**
 
-    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](../event-management/operator-phase-acknowledge-analyze.md).
 
 -   **Anomaly**
 
@@ -72,5 +72,5 @@ For a detailed description of Log Analytics alerts , see [Types of Health Log An
     ![Top incidents shows counts of total results, incidents on CI, and incidents on related CIs.](../image/top-incidents-card.png "Top incidents")
 
 
-**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](../../health-log-analytics-admin/concept/hla-alert-overview-tab.md)
+**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](hla-alert-overview-tab.md)
 

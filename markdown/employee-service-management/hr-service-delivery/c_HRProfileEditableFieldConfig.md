@@ -19,7 +19,7 @@ Typically, organizations allow employees to update certain personal information,
 
 **Note:** Use the configurable allow list to add fields that users can modify themselves. This allow list is a system property and accessed by going to **All** &gt; **HR Administration** &gt; **Properties**. The list of user editable fields appears as comma separated list. The property name is **sn\_hr\_core.hr\_profile\_editable\_fields**.
 
-For more information about adding or modifying HR profiles, see [Add or modify an HR profile](../task/t_CreateOrModifyAUserProfile.md)
+For more information about adding or modifying HR profiles, see [Add or modify an HR profile](t_CreateOrModifyAUserProfile.md)
 
 The **HR profile fields that users or managers can edit without HR approval include &lt;number of fields&gt;** option in Human Resources Configuration provides the list of editable HR profile fields. The following list of fields indicates which of the configurable fields contain personal and which contain sensitive and employment information.
 

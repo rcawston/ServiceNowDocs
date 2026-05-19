@@ -21,7 +21,7 @@ With Virtual Agent, you can offer continuous support, improve response times, an
 
 ## Activation
 
-Virtual Agent activates automatically when you enable it for Customer Service Management \(CSM\). Once activated, by default it integrates seamlessly with your CSM and CSP portals. For more information, see [Activate Virtual Agent for Customer Service Management](../task/activate-virtual-agent-csm.md).
+Virtual Agent activates automatically when you enable it for Customer Service Management \(CSM\). Once activated, by default it integrates seamlessly with your CSM and CSP portals. For more information, see [Activate Virtual Agent for Customer Service Management](activate-virtual-agent-csm.md).
 
 **Related topics**  
 

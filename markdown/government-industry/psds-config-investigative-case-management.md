@@ -13,13 +13,13 @@ breadcrumb: [Playbooks and Solutions, Configure agent workspaces, Configure, Pub
 
 Install the Investigative Case Management application, which enables investigators and supervisors to initiate and manage investigative cases, view the full context of an investigation, and get relevant recommendations.
 
-As a user with the admin role, complete the following configuration tasks to set up Investigative Case Management, after you install the [Public Sector Digital Services Core](../task/install-public-sector-digital-services-core.md) application.
+As a user with the admin role, complete the following configuration tasks to set up Investigative Case Management, after you install the [Public Sector Digital Services Core](install-public-sector-digital-services-core.md) application.
 
 |Task|Description|
 |----|-----------|
 |[Install Investigative Case Management](psds-install-icm.md)|Install Investigative Case Management \(sn\_gsm\_icm\) from the ServiceNow® Store.|
 |[Assign user personas, roles, groups, and responsibilities](psds-config-icm-assign-user-roles-responsibilities.md)|Assign user persona roles and groups in Investigative Case Management, as well as gain an understanding of user configurations at the case level, such as case teams and responsibilities.|
-|[Create a case team for an investigative case](../task/psds-config-icm-create-case-team.md)|Create a case team to organize a team and delegate access to users at the case level.|
+|[Create a case team for an investigative case](psds-config-icm-create-case-team.md)|Create a case team to organize a team and delegate access to users at the case level.|
 |[Configure the investigative case narrative refinement skill](now-assist-psds-config-nar-refin.md)|Configure the Now Assist for PSDS case narrative refinement generative AI skill that can be used in the Investigative Case Management workspace.|
 |[Configure the investigative case summarization skill](now-assist-psds-config-inv-case-summ.md)|Configure the Now Assist for PSDS case summarization generative AI skill that can be used in the Investigative Case Management workspace.|
 |[Configure relationship types for an evidence record](psds-config-icm-evidence-relationship-type.md)|Add or remove the relationship types used to classify the relationship between a piece of evidence and another entity related to the case.|

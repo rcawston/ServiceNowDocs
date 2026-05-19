@@ -284,12 +284,12 @@ This KPI is activated only when the following conditions are met:
 -   You must have access to the data tables for extracting data for automated KPIs.
 -   If the automated KPI collection fails to extract data, manual KPI data collection tasks are created and assigned to the supplier manager.
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 **Related topics**  
 
 
 [Create KPIs by adding suppliers to a KPI template](add-supplier-kpi-template.md)
 
-[Create KPI units](../concept/create-kpi-units.md)
+[Create KPI units](create-kpi-units.md)
 

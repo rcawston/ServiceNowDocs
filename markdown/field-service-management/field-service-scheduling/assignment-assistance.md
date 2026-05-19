@@ -21,7 +21,7 @@ Assignment assistance
 
 Role required: wm\_dispatcher
 
-Dynamic Scheduling must be enabled in order to use Assignment assistance. For more information see, [Configuring Dynamic Scheduling](../concept/Configure-dynamic-scheduling.md).
+Dynamic Scheduling must be enabled in order to use Assignment assistance. For more information see, [Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md).
 
 ## Procedure
 

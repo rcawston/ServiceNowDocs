@@ -107,11 +107,11 @@ To enable search across multiple tables, you:
 
     8.  In **Attribute name**, select the magnifying glass and select an attribute.
 
-        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](../reference/index-attributes.md).
+        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](index-attributes.md).
 
     9.  In **Value** enter a value and select **Submit**.
 
-        Valid values depend on the attribute. For information on valid values, see [Zing index and search attributes](../reference/index-attributes.md).
+        Valid values depend on the attribute. For information on valid values, see [Zing index and search attributes](index-attributes.md).
 
     10. Repeat this procedure to define additional search engine parameters for other tables in the text index group.
 
@@ -133,7 +133,7 @@ To enable search across multiple tables, you:
 
     5.  In **Attribute name**, select a search engine parameter, enter a value for that parameter in **Value**, and select **Submit**.
 
-        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](../reference/index-attributes.md).
+        To see the list of attributes, enter `ts_configuration_attribute.list` in the application navigator. For attribute definitions, see [Zing index and search attributes](index-attributes.md).
 
     6.  In **Column**, specify the name of the column in the selected table you want to apply the search attribute to.
 
@@ -172,18 +172,18 @@ To enable search across multiple tables, you:
 
 You can query the tables in the text index group for string matches using the `GlideRecord.addQuery(name, value)` or `GlideRecord.addEncodedQuery(name, value)` methods with the `123TEXTINDEXGROUP321` reserved name. For more information about querying text index groups for string matches, see [Querying tables in script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_UsingGlideRecordToQueryTables.md).
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
 [Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](index-attributes.md)
 
 [Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
 
@@ -197,7 +197,7 @@ You can query the tables in the text index group for string matches using the `G
 
 [Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](r_ViewTextIndexingStatsAndStatus.md)
 
 [Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
 

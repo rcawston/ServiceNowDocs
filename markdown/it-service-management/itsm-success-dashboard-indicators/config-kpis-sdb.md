@@ -55,5 +55,5 @@ Create a cost savings indicator in ITSM Success Dashboard to determine and displ
 -   **[Modify the currency code for ITSM Success Dashboard indicators](customize-currency-code.md)**  
 Modify the currency code for ITSM Success Dashboard indicators.
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](admin-console-sd.md)
 

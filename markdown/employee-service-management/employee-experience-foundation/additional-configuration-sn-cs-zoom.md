@@ -57,11 +57,11 @@ If there is an interaction record associated with the parent record then interac
 
 -   **[Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat](oncall-users-start-zoom-chat.md)**  
 On-call Scheduling users will be shown for Start Zoom Team Chat for an incident record.
--   **[Customize the Zoom chat form](../task/create-chat-config-customize-zoom-chat-form.md)**  
+-   **[Customize the Zoom chat form](create-chat-config-customize-zoom-chat-form.md)**  
 Customize the chat form for additional ServiceNow® Collaboration services tables by creating a chat configuration.
--   **[Create requester mapping](../task/create-requester-mapping-zoom.md)**  
+-   **[Create requester mapping](create-requester-mapping-zoom.md)**  
 Create a requester mapping to extend the Zoom chat functionality to other tables.
--   **[Define how a Zoom chat is closed](../task/configure-close-condition-zoom.md)**  
+-   **[Define how a Zoom chat is closed](configure-close-condition-zoom.md)**  
 Define the way a Zoom chat is closed.
 
 **Parent Topic:**[Enhance employee experience by integrating ServiceNow with Zoom](enhance-emp-exp-integrating-sn-zoom.md)

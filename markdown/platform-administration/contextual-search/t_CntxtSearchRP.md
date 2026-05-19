@@ -49,5 +49,5 @@ The base system **Create New Incident** record producer is configured to use con
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

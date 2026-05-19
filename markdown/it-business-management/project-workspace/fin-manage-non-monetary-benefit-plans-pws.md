@@ -31,10 +31,10 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 4.  On the Benefit Plan form, fill the fields.
 
-    For a description of the field names, see [Non-monetary benefit plans form](../../project-management/reference/non-monetary-benefit-plans-form.md).
+    For a description of the field names, see [Non-monetary benefit plans form](../project-management/non-monetary-benefit-plans-form.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](using-financials-prj-wrkspc.md)
 

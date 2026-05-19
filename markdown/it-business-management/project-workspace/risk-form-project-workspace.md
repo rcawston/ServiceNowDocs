@@ -93,7 +93,7 @@ Risk rank
 
 </td><td>
 
-A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../../project-management/task/risk-value-lookup-project.md).
+A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../project-management/risk-value-lookup-project.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Risk value
 
 </td><td>
 
-A value calculated from the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../../project-management/task/risk-value-lookup-project.md).
+A value calculated from the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../project-management/risk-value-lookup-project.md).
 
 </td></tr><tr><td>
 

@@ -95,7 +95,7 @@ In the **Refresh method** field, select **Ship**.**Note:** The form shows your c
 
 Your Zero Touch Refresh request is successfully submitted.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 

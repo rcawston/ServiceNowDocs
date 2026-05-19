@@ -26,9 +26,9 @@ For additional information on creating mail scripts, see [Notification Email Scr
 **Related topics**  
 
 
-[Mail script variables](../reference/r_MailScriptAPI.md)
+[Mail script variables](r_MailScriptAPI.md)
 
-[Example scripting for email notifications](../reference/r_ExScptEmlNtfn.md)
+[Example scripting for email notifications](r_ExScptEmlNtfn.md)
 
-[Useful attachment scripts](../../useful-scripts/reference/r_UsefulAttachmentScripts.md)
+[Useful attachment scripts](r_UsefulAttachmentScripts.md)
 

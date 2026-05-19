@@ -54,8 +54,8 @@ Message to display in the Flow log \[sys\_flow\_log\] table. Enter text or drag 
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

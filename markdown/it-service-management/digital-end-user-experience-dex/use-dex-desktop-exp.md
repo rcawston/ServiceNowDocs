@@ -48,7 +48,7 @@ Sections
 
 Sections help you search for items by arranging them sequentially and in logical groups. By default, ServiceNow provides the My resources and Quick links sections.
 
- Desktop Assistant administrators can configure additional sections for the home page. For more information, see [Add a section in the Desktop Assistant home page](../task/add-home-page-section.md).
+ Desktop Assistant administrators can configure additional sections for the home page. For more information, see [Add a section in the Desktop Assistant home page](add-home-page-section.md).
 
 </td></tr><tr><td>
 
@@ -56,12 +56,12 @@ Cards
 
 </td><td>
 
-Desktop Assistant provides the following cards with the base system:-   Device health check: Monitor and self-resolve common device health issues. For more information, see [Check device health using Desktop Assistant](../task/check-your-device-s-health-using-desktop-assistant.md).
--   Network test: Run network diagnostic tests. For more information, see [Test network connectivity of your device](../task/test-internet-connection.md).
--   Employee Center: Access the Employee Center portal. For more information, see [Open Employee Center from Desktop Assistant](../task/open-employee-center.md).
--   Outages: View outages on Employee Center. For more information, see [View outages from Desktop Assistant](../task/open-outages.md).
+Desktop Assistant provides the following cards with the base system:-   Device health check: Monitor and self-resolve common device health issues. For more information, see [Check device health using Desktop Assistant](../digital-end-user-experience-self-service/check-your-device-s-health-using-desktop-assistant.md).
+-   Network test: Run network diagnostic tests. For more information, see [Test network connectivity of your device](test-internet-connection.md).
+-   Employee Center: Access the Employee Center portal. For more information, see [Open Employee Center from Desktop Assistant](open-employee-center.md).
+-   Outages: View outages on Employee Center. For more information, see [View outages from Desktop Assistant](open-outages.md).
 
-By default, the Device health check and Network test cards are mapped to the My resources section and the Employee Center and Outages cards are mapped to the Quick links section. Desktop Assistant administrators can map or remove cards from any section on the home page. For more information, see [Map a card to a section](../task/map-card-section.md) and [Delete a card from the Desktop Assistant home page](../task/delete-card.md).
+By default, the Device health check and Network test cards are mapped to the My resources section and the Employee Center and Outages cards are mapped to the Quick links section. Desktop Assistant administrators can map or remove cards from any section on the home page. For more information, see [Map a card to a section](map-card-section.md) and [Delete a card from the Desktop Assistant home page](delete-card.md).
 
 </td></tr></tbody>
 </table>**Note:** If you experience issues with Desktop Assistant, troubleshoot them by accessing the logs at these locations:

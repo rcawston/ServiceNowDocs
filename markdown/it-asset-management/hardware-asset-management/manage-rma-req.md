@@ -19,7 +19,7 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 To close an RMA request, you have to close each of its request lines separately. To close a line, you have to complete all the line's RMA tasks, and you must provide any necessary information about the line. You close a line by first closing its Assessment task. Then the defective asset is sent for either off-site or on-site repair. The line is closed after all these tasks are finished.
 
--   **[Submit an RMA request](../task/submit-rma-request.md)**  
+-   **[Submit an RMA request](submit-rma-request.md)**  
 Submit a Return Merchandise Authorization \(RMA\) request to initiate an RMA process with your vendor. You can repair or replace a faulty asset.
 -   **[Closing an RMA request](closing-rma-request.md#)**  
 After you submit an RMA request for a defective asset, you must go through various tasks to finalize repairing or replacing the asset.
@@ -31,31 +31,31 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Work with hardware normalization](Work-with-hardware-normalization.md)
 
-[Manage asset bundles from your inventory](../task/create-bundled-assets.md)
+[Manage asset bundles from your inventory](create-bundled-assets.md)
 
 [Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
-[Manage loaner assets](../task/manage-loaner-asset.md)
+[Manage loaner assets](manage-loaner-asset.md)
 
 [Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
-[Use Advanced Shipment Notification](../task/advanced-shipment-notification.md)
+[Use Advanced Shipment Notification](advanced-shipment-notification.md)
 
-[Create an inventory stock order request](../task/create-inventory-stock-order.md)
+[Create an inventory stock order request](create-inventory-stock-order.md)
 
-[Create a disposal order](../task/create-disposal-order.md)
+[Create a disposal order](create-disposal-order.md)
 
-[Use a hardware asset request flow](../task/hardware-request-flow.md)
+[Use a hardware asset request flow](hardware-request-flow.md)
 
 [Audit hardware asset inventory](ham-inventory-audit.md)
 
-[Request a Hardware Asset Refresh](../task/hardware-asset-refresh.md#)
+[Request a Hardware Asset Refresh](hardware-asset-refresh.md#)
 
-[Manage your expiring contracts for leased hardware assets](../task/manage-your-leased-hw-asts-expiring-contract.md)
+[Manage your expiring contracts for leased hardware assets](manage-your-leased-hw-asts-expiring-contract.md)
 
 [Reclaim hardware assets](manage-asset-reclaim.md)
 
-[View RFID information of assets](../task/view-rfid-info.md)
+[View RFID information of assets](view-rfid-info.md)
 
 [Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 
@@ -65,7 +65,7 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
-[Track asset location using indoor maps](../task/track-asset-location-using-indoor-maps.md)
+[Track asset location using indoor maps](track-asset-location-using-indoor-maps.md)
 
 [Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 
@@ -85,7 +85,7 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 
-[Acknowledge receipt of assets on the Employee Center portal](../task/receive-assets-employee-center.md)
+[Acknowledge receipt of assets on the Employee Center portal](receive-assets-employee-center.md)
 
-[Update associated Decision tables for HAM flows](../task/trigger-flow-ham.md)
+[Update associated Decision tables for HAM flows](trigger-flow-ham.md)
 

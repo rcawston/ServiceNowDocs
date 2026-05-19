@@ -25,5 +25,5 @@ Without a structured system for tracking implementation progress, businesses fac
 
 Implementation records provide a centralized view of the implementation status, and any issues encountered during the deployment process. They provide critical visibility into the deployment activities that directly impact customer success and delivery outcomes.
 
-Implementation records can be created manually by the account onboarding manager or the customer success manager. See the [Create an implementation record](../task/account-lifecycle-create-imp-record.md) for details.
+Implementation records can be created manually by the account onboarding manager or the customer success manager. See the [Create an implementation record](account-lifecycle-create-imp-record.md) for details.
 

@@ -35,6 +35,6 @@ Role required: admin
 
 4.  Select **Save**.
 
-    The changes to the application scope are saved. For more information on the form view options available for admin, AP admin and integrator roles, see [Accounts Payable Operations properties](../reference/acc-pay-properties.md).
+    The changes to the application scope are saved. For more information on the form view options available for admin, AP admin and integrator roles, see [Accounts Payable Operations properties](acc-pay-properties.md).
 
 

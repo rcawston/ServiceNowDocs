@@ -33,7 +33,7 @@ The routing policy decides which CA must be contacted for certificate operations
 
 3.  On the **Certificate Routing Policy** form, fill in the fields.
 
-    For the description of the field values, see [Certificate Routing Policy form](../reference/certificate-routing-policy-field-values.md).
+    For the description of the field values, see [Certificate Routing Policy form](certificate-routing-policy-field-values.md).
 
 4.  Select **Update**.
 

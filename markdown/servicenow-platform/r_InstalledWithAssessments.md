@@ -36,7 +36,7 @@ Assessable Record \[asmt\_assessable\_record\]
 
 </td><td>
 
-Stores all [assessable records](../concept/c_assessable-records.md).
+Stores all [assessable records](c_assessable-records.md).
 
 </td><td>
 
@@ -48,7 +48,7 @@ Assessment Category Result \[asmt\_category\_result\]
 
 </td><td>
 
-Stores all [category results](../../survey-administration/concept/c_SchedulePeriods.md).
+Stores all [category results](c_SchedulePeriods.md).
 
 </td><td>
 
@@ -64,7 +64,7 @@ Stores associations between users and metric categories that they can evaluate. 
 
 </td><td>
 
-Stores associations between users and surveys. A user that is associated to a survey is a [survey user](../../survey-administration/concept/c_SurveyUsersAndGroups.md) and is automatically associated to all the survey's categories.
+Stores associations between users and surveys. A user that is associated to a survey is a [survey user](c_SurveyUsersAndGroups.md) and is automatically associated to all the survey's categories.
 
 </td></tr><tr><td>
 
@@ -84,11 +84,11 @@ Assessment Instance \[asmt\_assessment\_instance\]
 
 </td><td>
 
-Stores all [assessment instances](../concept/c_AssessmentInstances.md).
+Stores all [assessment instances](c_AssessmentInstances.md).
 
 </td><td>
 
-Stores all [survey instances](../../survey-administration/task/t_ViewSurveyInstance.md).
+Stores all [survey instances](t_ViewSurveyInstance.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Assessment Metric \[asmt\_metric\]
 
 </td><td>
 
-Stores all [metrics](../concept/c_AssessmentMetrics.md).
+Stores all [metrics](c_AssessmentMetrics.md).
 
 </td><td>
 
@@ -120,11 +120,11 @@ Assessment Metric Definition \[asmt\_metric\_definition\]
 
 </td><td>
 
-Stores all [metric definitions](../task/t_CreateAMetricDefinition.md).
+Stores all [metric definitions](t_CreateAMetricDefinition.md).
 
 </td><td>
 
-Stores all [answer options](../../survey-administration/task/t_CreateOrModifyAnswerOptions.md) for survey questions.
+Stores all [answer options](t_CreateOrModifyAnswerOptions.md) for survey questions.
 
 </td></tr><tr><td>
 
@@ -144,11 +144,11 @@ Assessment Metric Type \[asmt\_metric\_type\]
 
 </td><td>
 
-Stores all [metric types](../concept/c_AssessmentInstances.md).
+Stores all [metric types](c_AssessmentInstances.md).
 
 </td><td>
 
-Stores all [survey definitions](../../survey-administration/concept/c_SurveyDefinitions.md).
+Stores all [survey definitions](c_SurveyDefinitions.md).
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Assessment Stakeholders \[asmt\_m2m\_stakeholder\]
 
 </td><td>
 
-Stores associations between assessable records and category users. A category user that is associated to an assessable record is a [stakeholder](../concept/c_MetricTypesAndAssessableRecords.md).
+Stores associations between assessable records and category users. A category user that is associated to an assessable record is a [stakeholder](c_MetricTypesAndAssessableRecords.md).
 
 </td><td>
 
@@ -204,7 +204,7 @@ Bubble Chart \[asmt\_bubble\_chart\]
 
 </td><td>
 
-Stores all [bubble chart](../../service-administration/reference/r_BubbleChartComponents.md) definitions.
+Stores all [bubble chart](r_BubbleChartComponents.md) definitions.
 
 </td><td>
 
@@ -240,7 +240,7 @@ Metric Category \[asmt\_metric\_category\]
 
 </td><td>
 
-Stores all [metric categories](../concept/c_AssessmentMetrics.md).
+Stores all [metric categories](c_AssessmentMetrics.md).
 
 </td><td>
 
@@ -252,11 +252,11 @@ Metric Result \[asmt\_metric\_result\]
 
 </td><td>
 
-Stores all [metric results](../task/t_ViewAMetricResult.md).
+Stores all [metric results](t_ViewAMetricResult.md).
 
 </td><td>
 
-Stores all [survey responses](../../survey-administration/concept/c_SurveyResults.md).
+Stores all [survey responses](c_SurveyResults.md).
 
 </td></tr><tr><td>
 
@@ -264,11 +264,11 @@ Signature \[asmt\_signature\]
 
 </td><td>
 
-Stores all [signature records](../task/t_CreateAnAssessmentSignature.md) for assessments and \[\[Attestations\|GRC attestations\]\].
+Stores all [signature records](t_CreateAnAssessmentSignature.md) for assessments and \[\[Attestations\|GRC attestations\]\].
 
 </td><td>
 
-Stores all signature records for[Surveys](../../survey-administration/reference/r_SurveyManagementLandingPage.md).
+Stores all signature records for[Surveys](r_SurveyManagementLandingPage.md).
 
 </td></tr><tr><td>
 
@@ -276,11 +276,11 @@ Trigger Condition \[asmt\_condition\]
 
 </td><td>
 
-Stores all [assessment trigger conditions](../task/t_CreateTriggerAssessment.md).
+Stores all [assessment trigger conditions](t_CreateTriggerAssessment.md).
 
 </td><td>
 
-Stores all [survey trigger conditions](../../survey-administration/concept/c_TriggerConditions.md).
+Stores all [survey trigger conditions](c_TriggerConditions.md).
 
 </td></tr></tbody>
 </table>## Properties
@@ -320,7 +320,7 @@ com.snc.assessment.signature\_authentication
 When this property is enabled, an authentication is required by user signature. When **Yes** is selected, this property requires credentials for a full name signature.-   Type: **Yes** or **No**
 -   Default value: **Yes**
 
- For more information about working with signatures, see [Signatures](../task/t_CreateAnAssessmentSignature.md).
+ For more information about working with signatures, see [Signatures](t_CreateAnAssessmentSignature.md).
 
 </td></tr><tr><td>
 
@@ -387,7 +387,7 @@ Sets the font color of the caption text on assessment and survey questionnaires.
 -   Default value: **\#ffffff**
 
 </td></tr></tbody>
-</table>For more information about customizing the appearance of a survey, see [Customize the appearance of a survey](../../survey-administration/task/t_CustomizingAppearance.md).
+</table>For more information about customizing the appearance of a survey, see [Customize the appearance of a survey](t_CustomizingAppearance.md).
 
 ## User roles
 
@@ -422,7 +422,7 @@ None
 |----|-----------|
 |AssessmentUtils|Core code for assessment functionality.|
 |AssessmentUtilsAJAX|AJAX-based code for displaying scorecard data.|
-|MigrateSurveyToAssessment|Code for [migrating legacy surveys](../../survey-administration/concept/c_MigrateSurveys.md) to assessment surveys.|
+|MigrateSurveyToAssessment|Code for [migrating legacy surveys](c_MigrateSurveys.md) to assessment surveys.|
 |RatingUtilsAJAX|Reserved for future use.|
 |SurveyUtils|Core code for survey functionality.|
 
@@ -1480,5 +1480,5 @@ Assessment Metric Definition \[asmt\_metric\_definition\]
 Ensures that users can only enter a metric definition Value greater than or equal to zero. Ensures that the metric definition value is different from the Value for all other metric definitions related to the metric.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assessments and Surveys](../concept/assessments-surveys-landing-page.md)
+</table>**Parent Topic:**[Assessments and Surveys](assessments-surveys-landing-page.md)
 

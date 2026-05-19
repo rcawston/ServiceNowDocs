@@ -78,7 +78,7 @@ Monitor your system’s health, performance, and availability through automated 
 
 </td><td>
 
-[Agent Client Collector Monitoring](../../agent-client-collector/concept/acc-monitoring-landing-page.md)
+[Agent Client Collector Monitoring](../agent-client-collector/acc-monitoring-landing-page.md)
 
 </td><td>
 
@@ -90,9 +90,9 @@ Reduce noise by promoting only the most meaningful anomalies.
 
 </td><td>
 
-[View anomaly alerts](../../event-management/task/view-metrics-anomaly-alerts.md)
+[View anomaly alerts](view-metrics-anomaly-alerts.md)
 
- [Create metric rules](../../agent-client-collector/task/create-metric-rules.md)
+ [Create metric rules](create-metric-rules.md)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Detect anomalies with AI-based anomaly detection, either with unsupervised machi
 
 </td><td>
 
-[How Health Log Analytics generates alerts](../../health-log-analytics-operator/concept/hla-op-anomalies-detecting.md)
+[How Health Log Analytics generates alerts](../health-log-analytics/hla-op-anomalies-detecting.md)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Improve resolution time on open alerts and incidents with raw metric data visual
 
 </td><td>
 
-[Metric Explorer](../../event-management/concept/agent-workspace-ops-intelligence.md)
+[Metric Explorer](agent-workspace-ops-intelligence.md)
 
 </td><td>
 
@@ -129,5 +129,5 @@ To learn more about configuring and using Metric Intelligence, see:
 
 -   [Configuring Metric Intelligence](configuring-metric-intelligence.md)
 -   [Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
--   [Metric Intelligence reference](../reference/metric-intelligence-reference.md)
+-   [Metric Intelligence reference](metric-intelligence-reference.md)
 

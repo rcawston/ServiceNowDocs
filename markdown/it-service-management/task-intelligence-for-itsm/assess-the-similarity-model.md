@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-hows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+hows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md).
 
 </td></tr><tr><td id="d225938e144">
 

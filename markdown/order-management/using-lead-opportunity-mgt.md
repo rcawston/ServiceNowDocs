@@ -23,7 +23,7 @@ Sales teams can track decision‑makers, influencers, and evaluators collectivel
 Use the Opportunity Management application to create your opportunity.
 -   **[Using Sales Forecasting](using-sales-forecasting.md)**  
 Sales Forecasting uses the current opportunities in the system to predict future opportunity amounts.​ The Opportunity Management application contains the list of opportunities created for the customers and each of these opportunities are in different stages of the sales cycles.
--   **[Using Sales Territory Management​](../task/use-sales-territory-management.md)**  
+-   **[Using Sales Territory Management​](use-sales-territory-management.md)**  
 Sales Territory Management​ is a strategic framework for organizing and managing CRM entities such as Accounts, Consumers, Leads, and Opportunities. To assign territories, you can run **Run Assignment** to automatically distribute CRM entities, or manually update the primary territory.
 -   **[Using Activity Management](using-activity-management.md)**  
 Activity Management enables you to log and track every customer interaction across the sales cycle. Touchpoints provide a method to record meetings, calls, appointments, and emails. You can use the Microsoft Outlook add-in to associate emails and create CRM records without leaving your inbox.

@@ -33,13 +33,13 @@ Here's what is available on the Machine Identity Console Overview page:
 **Related topics**  
 
 
-[Activating Machine Identity Console](../task/activate-machine-identity-console.md)
+[Activating Machine Identity Console](activate-machine-identity-console.md)
 
 [Security findings](security-score.md)
 
 [Metrics](machine-identity-metrics.md)
 
-[Machine Identity Console Settings](../task/machine-identity-console-settings.md)
+[Machine Identity Console Settings](machine-identity-console-settings.md)
 
 [Inbound integrations](inbound-integrations.md)
 

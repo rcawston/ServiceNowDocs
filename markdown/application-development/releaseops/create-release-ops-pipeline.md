@@ -24,7 +24,7 @@ For more information about playbooks, see [Exploring Playbook](https://raw.githu
 
 ## About this task
 
-Custom playbooks and pipelines enable you to create deployment structures tailored to the unique needs of your organization's development environment. Custom playbooks and pipelines are best suited for deployment processes that are consistent and expected to occur during each release. For deployment processes that are more variable, you might consider adding runbook tasks instead of custom playbooks or playbook activities. For more information, see [Runbook tasks in ReleaseOps](../concept/runbook-tasks.md).
+Custom playbooks and pipelines enable you to create deployment structures tailored to the unique needs of your organization's development environment. Custom playbooks and pipelines are best suited for deployment processes that are consistent and expected to occur during each release. For deployment processes that are more variable, you might consider adding runbook tasks instead of custom playbooks or playbook activities. For more information, see [Runbook tasks in ReleaseOps](runbook-tasks.md).
 
 ## Procedure
 

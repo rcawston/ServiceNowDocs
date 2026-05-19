@@ -117,7 +117,7 @@ This property enables or disables case sensitivity when applying redaction to sh
 -   **[Bulk Import of Redaction Categories and Values](tisc-bulk-import-redaction.md)**  
 Import redaction categories. Bulk importing of redaction categories and their associated values.
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

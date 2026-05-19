@@ -35,7 +35,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -313,5 +313,5 @@ Injury and illness
 Stores all logged injuries and illness records. Information tracked in this table can be used for generating reports such as OSHA forms​.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Incident Management reference](../concept/hs-incident-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Incident Management reference](hs-incident-mgmt-reference.md)
 

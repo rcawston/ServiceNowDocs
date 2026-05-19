@@ -17,7 +17,7 @@ The GlideDuration class provides methods for working with spans of time known as
 
 GlideDuration objects store the duration as the number of days and time from January 1, 1970, 00:00:00. As a result, the setValue\(\) and getValue\(\) methods use the scoped GlideDateTime object for parameters and return values.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideDuration - GlideDuration\(\)
 

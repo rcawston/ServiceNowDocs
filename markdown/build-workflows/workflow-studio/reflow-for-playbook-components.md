@@ -19,7 +19,7 @@ Reflow, is a configurable workspace feature that enables pages and content to be
 
 
 
-If you want Reflow to work for your Playbook Experience components, see [Apply Reflow to playbook components](../task/apply-reflow-playbook-components.md).
+If you want Reflow to work for your Playbook Experience components, see [Apply Reflow to playbook components](apply-reflow-playbook-components.md).
 
 For more information about Reflow, see .
 

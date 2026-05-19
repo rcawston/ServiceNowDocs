@@ -68,5 +68,5 @@ The privacy statement content from the updated template is copied into the **Pri
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Setting up privacy consent settings](../concept/set-up-privacy-consent-common.md)
+**Parent Topic:**[Setting up privacy consent settings](set-up-privacy-consent-common.md)
 

@@ -57,7 +57,7 @@ You don't need to perform this manual task if you've activated the Start Invoice
 -   **[Activate the Start Invoice Processing for Orphan Invoices flow](activate-start-invoice-processing-flow.md)**  
 Activate the **Start Invoice Processing for Orphan Invoices** flow to start the processing of an invoice that doesn’t have an associated invoice case.
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

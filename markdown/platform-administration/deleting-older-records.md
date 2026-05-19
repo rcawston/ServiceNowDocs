@@ -19,18 +19,18 @@ Delete older, inactive records in core tables such as the Task \[task\] table an
 
 Create and manage table cleaner rules in Core UI.
 
--   [Create a table cleanup rule in Core UI](../task/activate-table-cleanup.md)
+-   [Create a table cleanup rule in Core UI](activate-table-cleanup.md)
 
     Define the criteria for deleting unwanted records in a table cleanup rule.
 
--   [Manage table cleaner resource usage](../task/manage-table-cleaner-resource-usage.md)
+-   [Manage table cleaner resource usage](manage-table-cleaner-resource-usage.md)
 
     Control the system resources used table cleaner by updating the table cleaner job.
 
 
--   **[Create a table cleanup rule in Core UI](../task/activate-table-cleanup.md)**  
+-   **[Create a table cleanup rule in Core UI](activate-table-cleanup.md)**  
 Define the criteria for deleting unwanted records in a table cleanup rule.
--   **[Manage table cleaner resource usage](../task/manage-table-cleaner-resource-usage.md)**  
+-   **[Manage table cleaner resource usage](manage-table-cleaner-resource-usage.md)**  
 Control the system resources used table cleaner by updating the table cleaner job.
 
 **Parent Topic:**[Managing data growth in Core UI](data-management-policies.md)

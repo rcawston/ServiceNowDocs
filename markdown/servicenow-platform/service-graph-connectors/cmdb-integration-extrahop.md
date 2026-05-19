@@ -49,11 +49,11 @@ The following are examples on how you can use the Service Graph Connector:
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for ExtraHop provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for ExtraHop](../task/configure-extrahop-integration.md).
+The guided setup for the Service Graph Connector for ExtraHop provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for ExtraHop](configure-extrahop-integration.md).
 
 ## CMDB Integrations Dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed Service Graph Connectors. You can see metrics for all integration runs. You can also filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring ExtraHop integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed Service Graph Connectors. You can see metrics for all integration runs. You can also filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring ExtraHop integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 

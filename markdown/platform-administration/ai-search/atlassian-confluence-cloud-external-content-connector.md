@@ -35,13 +35,13 @@ The Atlassian Confluence Cloud external content connector only offers limited su
 
 Atlassian recommends enabling the RBAC feature for testing in a non-production Atlassian Confluence Cloud environment. Connector admins should test the connector's behavior with RBAC in non-production ServiceNow AI Platform® instances before deploying to production.
 
--   **[Estimate document volume for Atlassian Confluence Cloud](../task/estimate-doc-volume-acc.md)**  
+-   **[Estimate document volume for Atlassian Confluence Cloud](estimate-doc-volume-acc.md)**  
 Estimate the number of documents included in your Atlassian Confluence Cloud source system. Use this information to determine crawl scope settings needed for your Atlassian Confluence Cloud external content connector.
--   **[Configure Atlassian Confluence Cloud for external content indexing](../task/cfg-conf-cc-ext-cont-connector.md)**  
+-   **[Configure Atlassian Confluence Cloud for external content indexing](cfg-conf-cc-ext-cont-connector.md)**  
 Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the Atlassian Confluence Cloud external content connector to crawl spaces and security principals in your Atlassian Confluence Cloud source system.
--   **[Create an Atlassian Confluence Cloud external content connector](../task/create-ext-cont-connector-acc.md)**  
+-   **[Create an Atlassian Confluence Cloud external content connector](create-ext-cont-connector-acc.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Atlassian Confluence Cloud source system.
--   **[Configure crawl settings for an Atlassian Confluence Cloud external content connector](../task/configure-crawl-settings-cc-ext-cont-connector.md)**  
+-   **[Configure crawl settings for an Atlassian Confluence Cloud external content connector](configure-crawl-settings-cc-ext-cont-connector.md)**  
 Specify the spaces you want your Atlassian Confluence Cloud external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -49,7 +49,7 @@ Specify the spaces you want your Atlassian Confluence Cloud external content con
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

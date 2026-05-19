@@ -100,11 +100,11 @@ The resulting response looks like this:
 
 For language-specific insert samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md#insert)
+[Perl SOAP::Lite](c_PerlWebServicesClientExamples.md#insert)
 
-[Java Apache Axis2](../../examples/concept/c_JAAWbSrvcsClntExInst.md)
+[Java Apache Axis2](c_JAAWbSrvcsClntExInst.md)
 
-[Python](../../examples/concept/c_PythonWebServicesClientExamples.md#insert)
+[Python](c_PythonWebServicesClientExamples.md#insert)
 
 **Parent Topic:**[Data Modification API](r_DataModificationAPI.md)
 

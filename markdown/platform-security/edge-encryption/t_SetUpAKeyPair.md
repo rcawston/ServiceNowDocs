@@ -58,7 +58,7 @@ You must use the Java 1.8 version of the keytool utility. A copy of the utility 
 
     2.  Open the `edgeencryption.properties` file.
 
-    3.  Enter the properties for the [digital signature](../reference/edge-encryption-proxy-server-properties.md).
+    3.  Enter the properties for the [digital signature](edge-encryption-proxy-server-properties.md).
 
         These properties must be the same for all proxies.
 

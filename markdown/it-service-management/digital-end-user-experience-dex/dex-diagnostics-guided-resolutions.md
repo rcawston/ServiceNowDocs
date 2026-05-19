@@ -21,7 +21,7 @@ Incident investigation with DEX provides a comprehensive view of device and appl
 
 ## Accessing DEX incident diagnostics and suggested resolutions
 
-You can access incident diagnostics and suggested resolutions for DEX monitored devices from the **Investigation** tab of an incident record page. Navigate to the Service Operations Workspace and open the incident record from the Incidents list. For more information, see [Incident Management in Service Operations Workspace](../../service-operations-workspace/concept/incident-sow.md) and [Features of the Investigation tab](../../service-operations-workspace/reference/features-of-investigation-tab.md).
+You can access incident diagnostics and suggested resolutions for DEX monitored devices from the **Investigation** tab of an incident record page. Navigate to the Service Operations Workspace and open the incident record from the Incidents list. For more information, see [Incident Management in Service Operations Workspace](../service-operations-workspace/incident-sow.md) and [Features of the Investigation tab](../service-operations-workspace/features-of-investigation-tab.md).
 
 **Important:** The configuration item \(CI\) associated with the incident record must be a DEX monitored device.
 
@@ -41,9 +41,9 @@ Monitor the top processes by CPU and memory usage on DEX monitored devices. Auto
 
 View issue diagnosis and suggested resolutions to improve device and application performance in the **Suggested resolutions** tab. For more information, see [Suggested resolutions in incident investigation with DEX](dex-suggested-resolutions.md).
 
-In addition to the suggested resolutions, you can run remedial actions from the Action library to resolve device and application issues. For more information, see [Run remedial actions from the Action library](../task/remedial-actions-action-library.md).
+In addition to the suggested resolutions, you can run remedial actions from the Action library to resolve device and application issues. For more information, see [Run remedial actions from the Action library](remedial-actions-action-library.md).
 
 ## Playbook Experience for remedial actions
 
-Use the Playbook Experience in incident investigation with DEX to view details of remedial actions in progress, cancel ongoing actions, and view playbook history. For more information, see [Manage remedial actions in DEX incident investigation Playbook](../task/manage-incident-remedial-actions-playbook.md).
+Use the Playbook Experience in incident investigation with DEX to view details of remedial actions in progress, cancel ongoing actions, and view playbook history. For more information, see [Manage remedial actions in DEX incident investigation Playbook](manage-incident-remedial-actions-playbook.md).
 

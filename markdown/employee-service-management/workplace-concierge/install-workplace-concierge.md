@@ -55,12 +55,12 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Concierge](../concept/configure-workplace-concierge.md)
+**Parent Topic:**[Configure Workplace Concierge](configure-workplace-concierge.md)
 
 **Related topics**  
 
 
 [Configure calendar sections on the Presence dashboard](configure-presence-dashboard-sections.md)
 
-[Configure workplace space suggestions for employees](../concept/configure-workplace-suggestions.md)
+[Configure workplace space suggestions for employees](configure-workplace-suggestions.md)
 

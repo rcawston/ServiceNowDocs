@@ -44,7 +44,7 @@ The following activities are available with the base system:-   Setup account re
 
 **Note:** If you have selected any of the Service Exchange integration options in the Initial Setup stage, the relevant activities are displayed and you can configure them as required.
 
-These activities can be configured according to your requirements. You can add or delete tasks, and modify them as required. In the Related work activity, you can create ad-hoc tasks if necessary. See [Configure onboarding tasks in playbook](../task/account-lifecycle-configure-simple.md) for details on simple configuration tasks.
+These activities can be configured according to your requirements. You can add or delete tasks, and modify them as required. In the Related work activity, you can create ad-hoc tasks if necessary. See [Configure onboarding tasks in playbook](account-lifecycle-configure-simple.md) for details on simple configuration tasks.
 
 </td></tr></tbody>
 </table>Review the data and select **Mark Complete** to move to the next stage.

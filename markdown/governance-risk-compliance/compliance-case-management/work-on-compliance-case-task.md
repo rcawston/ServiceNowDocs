@@ -85,5 +85,5 @@ Reassign an Assessment type Action task to another user in the GRC: Compliance C
 -   **[Review and close an action task](review-compliance-case-task.md)**  
 Review and close an action task after an action task owner provides responses and observations for the case in the GRC: Compliance Case Management application.
 
-**Parent Topic:**[Compliance case task workflow](../concept/compliance-case-task-workflow.md)
+**Parent Topic:**[Compliance case task workflow](compliance-case-task-workflow.md)
 

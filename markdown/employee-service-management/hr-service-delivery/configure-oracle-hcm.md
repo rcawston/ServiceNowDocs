@@ -35,7 +35,7 @@ Set up Oracle HCM for HR Service Delivery to pull worker data from Oracle HCM in
 
     Allow the Restricted Caller Access records with Status = **Requested** and Source Scope = **Enterprise Service Management Integrations Framework**.
 
-3.  For better performance, index the employee number field in HR Profile table and index coalesce fields in [transform maps](../reference/oracle-hcm-transform-maps.md).
+3.  For better performance, index the employee number field in HR Profile table and index coalesce fields in [transform maps](oracle-hcm-transform-maps.md).
 
     For more information, see [create a table index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateCustomIndex.md).
 
@@ -45,10 +45,10 @@ Set up Oracle HCM for HR Service Delivery to pull worker data from Oracle HCM in
 
 5.  Configure integration source properties for HR Service Delivery integration with Oracle Cloud HCM
 
-    For more information, see [Configure properties](../reference/oracle-hcm-properties.md).
+    For more information, see [Configure properties](oracle-hcm-properties.md).
 
 6.  Activate and run the scheduled flow that synchronizes Worker profile information between Oracle HCM and ServiceNow HR Service Delivery periodically.
 
-    For more information, see [Activate schedule flows](../task/setup-the-job.md).
+    For more information, see [Activate schedule flows](setup-the-job.md).
 
 

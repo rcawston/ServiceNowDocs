@@ -89,5 +89,5 @@ There are two types of variables:
         -   If the port names are the same and the port data types are different, then the data connections are created only if the port data type is can be converted \(the source port data must be converted to target data type. This is known as typecasting or type conversion. For more information on type casting, see [Java Type Casting](https://www.w3schools.com/java/java_type_casting.asp)\). For example, integer to object but not object to integer.
         -   If the port names are the same and the port data type can be converted, but there is already an existing data connection between the two components, then no new data connection is created.
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

@@ -31,7 +31,7 @@ You can create extension points to process the custom code that uses the followi
 
     Extension points in server-side script includes that store JavaScript functions and object classes. To learn about scripts includes and how to implement scripted extension points in the application and custom code, see:
 
-    -   [Script includes](../../../script/server-scripting/concept/c_ScriptIncludes.md#)
+    -   [Script includes](../scripts/c_ScriptIncludes.md#)
     -   [Creating and adding a scripted extension point](impl-scripted-ext-pts-base-code.md)
     -   [Using extension points to extend application functionality](extension-points.md)
 -   **UI extension points**
@@ -42,7 +42,7 @@ You can create extension points to process the custom code that uses the followi
 
     To learn about UI macros and how to implement UI extension points in the application and custom code, see:
 
-    -   [UI macros](../../../script/server-scripting/concept/c_UIMacros.md#)
+    -   [UI macros](../scripts/c_UIMacros.md#)
     -   [Creating and adding a UI extension point](impl-ui-ext-pts-base-code.md#)
     -   [Using extension points to extend application functionality](extension-points.md)
 -   **Client extension points**
@@ -53,7 +53,7 @@ You can create extension points to process the custom code that uses the followi
 
     To learn about UI scripts and how to implement client extension points in application and custom code, see:
 
-    -   [UI scripts](../../../script/client-scripts/concept/c_UIScripts.md#)
+    -   [UI scripts](../scripts/c_UIScripts.md#)
     -   [Creating and adding a client extension point](impl-client-ext-pts-base-code.md)
     -   [Using extension points to extend application functionality](extension-points.md)
 
@@ -105,7 +105,7 @@ To create extension points and embed them in the application code, perform the f
     ![Scripted extension point example](../image/Extension_point_example.png)
 
 2.  Designate specific places in the application code where data or objects can be sent to a customization, and where data is returned.
-3.  Create an artifact, such as a script include, UI macro, or UI script, that calls the [GlideScriptedExtensionPoint - Scoped](../../../app-store/dev_portal/API_reference/GlideScriptedExtensionPointAPI/concept/GlideScriptedExtPtScopedAPI.md#) method. This method identifies the extension point at which registered custom artifacts execute in the application code.
+3.  Create an artifact, such as a script include, UI macro, or UI script, that calls the [GlideScriptedExtensionPoint - Scoped](../server-api-reference/GlideScriptedExtPtScopedAPI.md#) method. This method identifies the extension point at which registered custom artifacts execute in the application code.
 
 ## Enabling debugging and logging
 
@@ -116,9 +116,9 @@ When you create a extension point, you should also enable debugging and logging.
 
 **Note:** To learn more about how to enable debugging and how it works, see:
 
--   [Script Debugger and Session Log](../../../script/debugging/concept/script-debugger.md)
--   [Debugging applications](../../../script/debugging/concept/c_DebuggingApplications.md#)
--   [Writing to the debug log](../../../script/debugging/concept/c_WritingToTheDebugLog.md#)
+-   [Script Debugger and Session Log](../scripts/script-debugger.md)
+-   [Debugging applications](../scripts/c_DebuggingApplications.md#)
+-   [Writing to the debug log](../scripts/c_WritingToTheDebugLog.md#)
 
 ## Registering a custom artifact against an extension point
 
@@ -147,5 +147,5 @@ Use UI extension points in the server-side UI macros, such as HTML extensions, t
 -   **[Using client extension points in client-side UI scripting](client-extension-points.md)**  
 Use client extension points in client-side UI scripting to modify forms, so that you do not have to directly modify the form. By using client extension points, you can integrate customizations without actually altering the core components in the application code.
 
-**Parent Topic:**[Additional integration resources](../../../integrate/outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 

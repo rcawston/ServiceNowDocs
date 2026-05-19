@@ -24,7 +24,7 @@ Use the values from a ServiceNow table as a vocabulary source. Your Natural Lang
 
 Add a ServiceNow table to be used as a vocabulary source. Select one or more source fields of the table. Then, provide a synonym to be used by the model when interpreting utterances that contain values from the table. Note that the **Reference** field is not supported as a source field.
 
-When you create and sync a table vocabulary source, the values from the table in your instance are extracted, and a vocabulary source is created in the NLU Service. For more information on the NLU Service, see [NLU Service Updates](../concept/nlu-service-updates.md).
+When you create and sync a table vocabulary source, the values from the table in your instance are extracted, and a vocabulary source is created in the NLU Service. For more information on the NLU Service, see [NLU Service Updates](nlu-service-updates.md).
 
 **Note:** You should not create multiple vocabulary sources that reference the same table and fields. Create only one vocabulary source \(and provide a synonym\) for the particular table and fields you want to reference in the model. Otherwise, it would cause confusion in the model and interfere with prediction quality.
 

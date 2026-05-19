@@ -15,7 +15,7 @@ breadcrumb: [Use, Conversational Integration with Apple Messages for Business, I
 
 Virtual Agent Designer is a diagram tool for creating and managing topics, which are blueprints for conversations between a virtual agent and user.
 
-Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from a requester in a Apple Messages for Business chat conversation. For more information, see [Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md).
+Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from a requester in a Apple Messages for Business chat conversation. For more information, see [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md).
 
 For more information about displaying images along with external links, see [Using link unfurling in Virtual Agent](va-link-unfurling.md).
 
@@ -48,7 +48,7 @@ The Conversational Integration with Apple Messages for Business application supp
 |Date Time|User selects a calendar date, time \(hours and minutes\), or both.|
 |Carousel|User selects a single item from the carousel.|
 
-For more information about configuring user input controls, see [Assistant Designer user input controls](../reference/va-user-inputs.md).
+For more information about configuring user input controls, see [Assistant Designer user input controls](va-user-inputs.md).
 
 The Conversational Integration with Apple Messages for Business application supports the following bot responses in Virtual Agent Designer.
 
@@ -108,5 +108,5 @@ Card
 Bot uploads and displays selected information from a record on your instance. You can choose a record card, video card, or small or large image card.
 
 </td></tr></tbody>
-</table>For more information about configuring bot responses, see [Assistant Designer bot responses](../reference/va-bot-responses.md).
+</table>For more information about configuring bot responses, see [Assistant Designer bot responses](va-bot-responses.md).
 

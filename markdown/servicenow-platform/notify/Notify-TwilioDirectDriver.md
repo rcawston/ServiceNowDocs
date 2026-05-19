@@ -46,5 +46,5 @@ The Notify plugin must be active to access Notify.
 **Related topics**  
 
 
-[Configure Notify with Twilio](../task/t_ConfigureNotifyWithTwilio.md)
+[Configure Notify with Twilio](t_ConfigureNotifyWithTwilio.md)
 

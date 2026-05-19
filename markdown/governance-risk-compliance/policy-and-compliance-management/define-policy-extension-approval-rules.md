@@ -19,9 +19,9 @@ To enhance flexibility in policy extension approvals, enable the **GRC Approval 
 
 For more information, see [GRC Approval Configurator for approving policy exceptions and extensions](grc-approval-configurator-for-policy-extension-and-exception.md).
 
-To enable GRC Approval Configurator, see [Enable GRC Approval Configurator](../task/enable-grc-approval-configurator.md).
+To enable GRC Approval Configurator, see [Enable GRC Approval Configurator](enable-grc-approval-configurator.md).
 
-To configure the policy extension approval rules, see [Define policy exception and extension rules](../task/define-policy-exception-verification-rules.md).
+To configure the policy extension approval rules, see [Define policy exception and extension rules](define-policy-exception-verification-rules.md).
 
 **Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

@@ -35,7 +35,7 @@ Bulk delete operations are available for all M2M relationship records from the r
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

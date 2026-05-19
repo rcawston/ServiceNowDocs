@@ -56,5 +56,5 @@ You can customize several areas for an opportunity type or use existing records.
 10. Select **Submit**.
 
 
-**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](../concept/egd-oppt-mrktplc-custom-oppt-type.md)
+**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](egd-oppt-mrktplc-custom-oppt-type.md)
 

@@ -235,7 +235,7 @@ The type of report that renders.
 10. Click **Update** to save changes to the landing page.
 
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../concept/setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 
 ## Set the default landing page
 

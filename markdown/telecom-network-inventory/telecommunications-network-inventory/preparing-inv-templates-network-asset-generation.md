@@ -21,9 +21,9 @@ Your network inventory templates represent a unique configuration of a network e
 
 **Note:** To learn more about creating templates and generating network assets from your model and template records, see [Modeling your workflow](telecommunications-network-inventory-workflow.md).
 
--   **[Create an inventory template](../task/create-inventory-templates.md)**  
+-   **[Create an inventory template](create-inventory-templates.md)**  
 Create an inventory template in the Telecommunications Network Inventory application to represent a configuration of the created inventory model.
--   **[Create a default template](../task/create-default-templates.md)**  
+-   **[Create a default template](create-default-templates.md)**  
 Create a default template in the Telecommunications Network Inventory application to capture the default attribute definition for a specific configuration item \(CI\) class.
 
 **Parent Topic:**[Using Telecommunications Network Inventory](using-telecom-network-inventory.md)

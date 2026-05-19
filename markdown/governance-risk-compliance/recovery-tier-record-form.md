@@ -22,5 +22,5 @@ For description of the field values, see the table.
 |Name|Name for the recovery tier level.|
 |Recovery time objectives|Metric that calculates how quickly the business should recover an element after a disaster.|
 
-**Parent Topic:**[Configure recovery tiers for BIA](../task/configure-recovery-tier-bia-uib-ws.md)
+**Parent Topic:**[Configure recovery tiers for BIA](configure-recovery-tier-bia-uib-ws.md)
 

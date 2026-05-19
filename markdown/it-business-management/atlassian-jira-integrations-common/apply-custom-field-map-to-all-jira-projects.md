@@ -61,5 +61,5 @@ Apply the custom project style map to all its related Jira projects.
     This would import all the Jira projects with their map configuration as per the customized project style map.
 
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 

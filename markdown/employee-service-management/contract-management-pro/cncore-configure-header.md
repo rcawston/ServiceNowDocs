@@ -49,7 +49,7 @@ The form header contains a primary field and secondary fields. You can add your 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

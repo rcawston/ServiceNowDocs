@@ -66,5 +66,5 @@ Each solution has a **Info** tab that displays information about the solution. F
 9.  Select **Update**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
 

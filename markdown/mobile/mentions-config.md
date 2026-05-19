@@ -204,5 +204,5 @@ Message that appears to the user's contacts, informing them they are mentioned.
     3.  Verify that the mobile app you selected to receive notifications is enabled by noting the setting of either the **ServiceNow Mobile Application** or **ServiceNow Request application** field.
 
 
-**Parent Topic:**[Configure notifications for mobile activity stream mentions](../concept/notification-activity-stream.md)
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](notification-activity-stream.md)
 

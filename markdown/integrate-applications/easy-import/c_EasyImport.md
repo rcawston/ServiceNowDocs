@@ -58,20 +58,20 @@ Instance
 The import pauses and displays an error message.![Import template server validation](../image/ImportTemplateServerValidation.png)
 
 </td></tr></tbody>
-</table>-   **[Download an import template](../task/t_DownloadAnImportTemplate.md)**  
+</table>-   **[Download an import template](t_DownloadAnImportTemplate.md)**  
 Select the list you want to import data to and create an import template from that list.
--   **[Add a record in the template](../task/t_AddARecordInTheTemplate.md)**  
+-   **[Add a record in the template](t_AddARecordInTheTemplate.md)**  
 Add rows to the template to create new records.
--   **[Update a record in the template](../task/t_UpdateARecordInTheTemplate.md)**  
+-   **[Update a record in the template](t_UpdateARecordInTheTemplate.md)**  
 Modify rows in the template to update existing records.
--   **[Import a record from the template](../task/t_ImportARecordFromTheTemplate.md)**  
+-   **[Import a record from the template](t_ImportARecordFromTheTemplate.md)**  
 After updating the import template with new data, import the template to your instance.
--   **[Show reference fields as lists in Excel templates](../task/show-excel-reference-dropdowns.md)**  
+-   **[Show reference fields as lists in Excel templates](show-excel-reference-dropdowns.md)**  
 Display selected reference fields as lists in Excel templates to simplify data selection and updates.
--   **[Easy import template validation](../reference/r_TemplateValidation.md#)**  
+-   **[Easy import template validation](r_TemplateValidation.md#)**  
 Each import template must pass two sets of validation.
--   **[Easy import properties](../reference/easy-import-properties.md)**  
+-   **[Easy import properties](easy-import-properties.md)**  
 Several properties control the behavior of easy import.
 
-**Parent Topic:**[Imports](../../../build/create-integrations-apps/concept/imports-overview-page.md)
+**Parent Topic:**[Imports](../imports-overview-page.md)
 

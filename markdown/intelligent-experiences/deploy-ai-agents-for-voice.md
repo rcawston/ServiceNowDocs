@@ -27,7 +27,7 @@ AI voice agents are associated with voice assistants, which act as a virtual hel
 
 To get started with AI voice agents, perform the following steps.
 
-1.  [Install Now Assist AI voice agents](../task/install-ai-voice-agents-plugins.md)
+1.  [Install Now Assist AI voice agents](install-ai-voice-agents-plugins.md)
 2.  [Configure user identification and authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configuring-authentication-factors-for-ai-voice-agents.md)
 3.  [Create an AI voice assistant](create-an-ai-voice-service.md)
 4.  [Create an AI voice agent](create-a-voice-enabled-ai-agent.md)
@@ -43,9 +43,9 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](platform-now-assist-landing.md).
 
 ## Privacy notice
 

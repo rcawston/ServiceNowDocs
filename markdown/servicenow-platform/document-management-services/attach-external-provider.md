@@ -67,5 +67,5 @@ Role required: mp\_document\_admin
 9.  Select **Open Cloud URL** at the top to open the document in the external cloud.
 
 
-**Parent Topic:**[Document Management integration with external content providers](../concept/integration-external-content-providers.md)
+**Parent Topic:**[Document Management integration with external content providers](integration-external-content-providers.md)
 

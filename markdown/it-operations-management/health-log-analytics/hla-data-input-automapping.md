@@ -30,24 +30,24 @@ In the example, Health Log Analytics extracts the string "online\_store". It ana
 
 -   **Stop extraction of unneeded data**
 
-    If an extracted string is not descriptive enough or contains redundant text or information, you can stop extracting such expendable data. For more information, see [Stop extraction of unneeded log data in Health Log Analytics](../task/hla-log-data-exclude.md).
+    If an extracted string is not descriptive enough or contains redundant text or information, you can stop extracting such expendable data. For more information, see [Stop extraction of unneeded log data in Health Log Analytics](hla-log-data-exclude.md).
 
 -   **Ensuring extraction of specific data**
 
-    You can make sure that Health Log Analytics extracts specific desired terms. For more information, see [Extract specific log data in Health Log Analytics](../task/hla-log-data-extract.md).
+    You can make sure that Health Log Analytics extracts specific desired terms. For more information, see [Extract specific log data in Health Log Analytics](hla-log-data-extract.md).
 
 
 ## Mapping data input sources
 
-You can change automatic mapping results manually by defining a JavaScript function. [Data input mapping](../task/hla-data-input-mapping.md) enables you to organize your log data by service instance and by availability zone. A single service instance can include multiple components, and a component can receive logs from many different source types. An service instance-component pair, however, is unique. Source types are based on a specific log structure and format. Service instances and components are defined more broadly and are therefore used mainly for logical mapping.
+You can change automatic mapping results manually by defining a JavaScript function. [Data input mapping](hla-data-input-mapping.md) enables you to organize your log data by service instance and by availability zone. A single service instance can include multiple components, and a component can receive logs from many different source types. An service instance-component pair, however, is unique. Source types are based on a specific log structure and format. Service instances and components are defined more broadly and are therefore used mainly for logical mapping.
 
 Activating **Test mode** avoids blowing up Elasticsearch storage with sample data that is used only for perfecting the log data mapping. When the data input is in Test mode, Health Log Analytics doesn’t create the source types, sources, or any other objects it creates in the standard flow. It saves the streamed data in dedicated temporary Elasticsearch indices that appear as components in the Log viewer. When you publish the script and exit Test mode, these temporary indices are deleted to minimize storage space consumption.
 
 When you're defining a JavaScript function, select **Test** to view the outcome of the script as it is currently specified. This functionality enables you to preview the created source types and sources. You can then refine the script until it achieves the desired outcome. For example, it can be useful to compare the test outcome of several versions of the JavaScript function.
 
-**Note:** By default, the test processes 100 log data samples. You can customize this number in the system properties. For more information, see [Configure global Health Log Analytics system properties](../task/hla-system-properties-configure.md).
+**Note:** By default, the test processes 100 log data samples. You can customize this number in the system properties. For more information, see [Configure global Health Log Analytics system properties](hla-system-properties-configure.md).
 
-During the data input setup, the system might create an excessive total number of data input sources. For example, this can be due to a faulty mapping script. You can configure limits for the number of sources created per data input in the [system properties](../task/hla-system-properties-configure.md):
+During the data input setup, the system might create an excessive total number of data input sources. For example, this can be due to a faulty mapping script. You can configure limits for the number of sources created per data input in the [system properties](hla-system-properties-configure.md):
 
 |System property|Description|Default|
 |---------------|-----------|-------|
@@ -58,17 +58,17 @@ The number of log sources that a specific data input has created displays in the
 
 ## Binding log data
 
-Binding log data to Configuration Items \(CIs\) in the Configuration Management Database \(CMDB\) enables you to search the CMDB for endpoints that match a log. When you configure a data input, you bind log entries to a service instance that is bound to a CI in the CMDB. Binding log entries, service instances, and CIs enables the HLA Engine to correlate them for use in root cause analysis \(RCA\). For more information, see [Configure a Rsyslog, Filebeat, or Winlogbeat data input in Health Log Analytics manually](../task/hla-data-input-rsyslog-beats.md) or [Configure an Elasticsearch data input in Health Log Analytics manually](../task/hla-data-input-elastic.md).
+Binding log data to Configuration Items \(CIs\) in the Configuration Management Database \(CMDB\) enables you to search the CMDB for endpoints that match a log. When you configure a data input, you bind log entries to a service instance that is bound to a CI in the CMDB. Binding log entries, service instances, and CIs enables the HLA Engine to correlate them for use in root cause analysis \(RCA\). For more information, see [Configure a Rsyslog, Filebeat, or Winlogbeat data input in Health Log Analytics manually](hla-data-input-rsyslog-beats.md) or [Configure an Elasticsearch data input in Health Log Analytics manually](hla-data-input-elastic.md).
 
--   **[Map raw log data in Health Log Analytics](../task/hla-data-input-mapping.md)**  
+-   **[Map raw log data in Health Log Analytics](hla-data-input-mapping.md)**  
 Mapping raw log data that streams into your instance determines how the data is handled. Health Log Analytics automatically structures logs, creates metrics for anomaly detection, and presents alerts based on how your data is tagged.
--   **[View the relationships between source types and log sources in Health Log Analytics](../task/hla-view-sources-vs-sourcetypes.md)**  
+-   **[View the relationships between source types and log sources in Health Log Analytics](hla-view-sources-vs-sourcetypes.md)**  
 Explore the many-to-many relationships between source types and log sources to help you optimize your data input mapping.
 -   **[Header properties detection in Health Log Analytics](hla-header-detection.md)**  
 In Health Log Analytics, automatic header properties detection separates the transport header from the inner log message and forwards only the inner log message to the source type structure. The inner message contains the actual log data without including shipping information.
--   **[Extract specific log data in Health Log Analytics](../task/hla-log-data-extract.md)**  
+-   **[Extract specific log data in Health Log Analytics](hla-log-data-extract.md)**  
 Set Health Log Analytics to extract specified terms from logs and map them to specific components.
--   **[Stop extraction of unneeded log data in Health Log Analytics](../task/hla-log-data-exclude.md)**  
+-   **[Stop extraction of unneeded log data in Health Log Analytics](hla-log-data-exclude.md)**  
 If an extracted string of data is not descriptive enough or contains redundant text or information, you can set Health Log Analytics to stop extracting such data from your logs.
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)

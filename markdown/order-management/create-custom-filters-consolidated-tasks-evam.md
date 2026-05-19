@@ -63,7 +63,7 @@ Role required: admin or evam\_admin
 9.  Select **Submit**.
 
 
-**Parent Topic:**[Customizing the sales process dashboard](../concept/customizing-sales-process-dashboard.md)
+**Parent Topic:**[Customizing the sales process dashboard](customizing-sales-process-dashboard.md)
 
 **Related topics**  
 

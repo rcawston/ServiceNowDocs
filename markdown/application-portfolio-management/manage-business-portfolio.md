@@ -46,21 +46,21 @@ To view the value stream stages associated with a business capability, open a bu
 **Related topics**  
 
 
-[Add a business capability](../task/add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
-[Create a demand towards achievement of a capability](../task/eaw-task/eaw-create-a-demand-towards-achievement-of-capability.md)
+[Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Update the hierarchy of a business capability](../task/update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
-[Create a sub-capability](../task/eaw-task/eaw-create-sub-capability.md)
+[Create a sub-capability](eaw-create-sub-capability.md)
 
-[Assign a business application](../task/assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
-[Delete a capability from the hierarchy](../task/delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 
-[Unassign a business application from a capability](../task/eaw-task/unassign-a-business-application-from-a-capability.md)
+[Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
-[View a roadmap of a business capability](../task/eaw-task/eaw-view-roadmap-bc.md)
+[View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 
-[Generate insights into business applications](../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

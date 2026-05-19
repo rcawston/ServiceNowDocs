@@ -29,7 +29,7 @@ You can combine Expressions with operators with each operator having a priority.
 6.  Relational
 7.  Logical
 
-The Expression component supports multiple functions. See [Supported functions for the Expression components](../reference/supported-expression-functions.md).
+The Expression component supports multiple functions. See [Supported functions for the Expression components](supported-expression-functions.md).
 
 You can configure the properties for the Expression component.
 
@@ -68,5 +68,5 @@ You can configure the properties for the Expression component.
 
 In the example, the Variable component passes the integer values for the two operands "i" and "j" set in the Expression component. The Expression component takes the values and finds whether the value of i&gt;=j. The result is passed to the Decision component. The Decision component passes the result to the Show component. In the example, since the value of "i" is lesser than "j", the Show component shows "False" in a message box.
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

@@ -31,7 +31,7 @@ Before you finalize your tagging approach, ensure that you have considered the f
 **Related topics**  
 
 
-[Configure a tag policy for Tag Governance](../task/configure-tag-governance-policy.md)
+[Configure a tag policy for Tag Governance](configure-tag-governance-policy.md)
 
-[Configure remediation policies on tag audit findings](../task/configure-remediation-tag-governance-.md)
+[Configure remediation policies on tag audit findings](configure-remediation-tag-governance-.md)
 

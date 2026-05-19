@@ -54,5 +54,5 @@ Role required: sn\_ac.automation\_admin, sn\_ac.automation\_technical\_user
     The agent is created for the automation request.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

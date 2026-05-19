@@ -17,7 +17,7 @@ You can protect your processor against unauthorized use by using role restrictio
 
 ## About this task
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 You can re-use a table's user role restrictions to protect it from access by your processor. This protection method assumes the processor will access table data.
 
@@ -52,7 +52,7 @@ You can re-use a table's user role restrictions to protect it from access by you
 5.  Click **Update**.
 
 
-**Parent Topic:**[Processors](../concept/c_Processors.md)
+**Parent Topic:**[Processors](c_Processors.md)
 
 ## Protect a processor with a CSRF token
 

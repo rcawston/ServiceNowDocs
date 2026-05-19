@@ -86,5 +86,5 @@ Desired display limit count
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](../concept/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
+**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
 

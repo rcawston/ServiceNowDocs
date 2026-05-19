@@ -48,5 +48,5 @@ Resolve the issue and add detailed note of the resolution for future reference.
     **Note:** Changing this property to include new tables also requires you to create a corresponding Business Rule for the overall functionality to work seamlessly. For example, for the Change request, the Business Rule is **Check Related Problem Fixes - Change Req**.
 
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

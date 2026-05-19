@@ -234,8 +234,8 @@ For more information about configuring sources for skill or AI agent use, see th
 -   [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 -   [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md)
 -   [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ext-cont-connectors-landing-page.md)
--   [Overview tab in Now Assist Admin](configuring-now-assist.md)
--   [Now Assist AI agents](../../now-assist-ai-agents/reference/na-ai-agents.md)
+-   [Overview tab in Now Assist Admin](../configuring-now-assist.md)
+-   [Now Assist AI agents](../na-ai-agents.md)
 
 ## Additional guidelines for Now Assist skills and tools
 
@@ -247,10 +247,10 @@ For more information about configuring sources for skill or AI agent use, see th
 |Code generation|[General guidelines for code generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/general-guidelines-code-generation.md)|
 |Flow generation||
 |LLM topic skill for Virtual Agent|[LLM description and instruction guidelines for Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-llm-description-guidelines.md)|
-|Now Assist Skill Kit|[General guidelines for Now Assist Skill Kit](../../now-assist-skill-kit/reference/na-skill-kit-guidelines.md)|
+|Now Assist Skill Kit|[General guidelines for Now Assist Skill Kit](../now-assist-skill-kit/na-skill-kit-guidelines.md)|
 |RPA bot generation|[General guidelines for RPA bot generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-bot-generation.md)|
 |Test generation|[Design considerations for prompting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-prompt-design-considerations.md)|
 |UI generation|[General guidelines UI generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/general-guidelines-ui-generation.md)|
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](exploring-large-language-models.md)
 

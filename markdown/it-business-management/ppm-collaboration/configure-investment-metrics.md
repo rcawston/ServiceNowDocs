@@ -27,21 +27,21 @@ Role required: pps\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Portal board widget form](../reference/portal-board-widget-form.md).
+    For more information, see [Portal board widget form](../project-management/portal-board-widget-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Investment Portal](../concept/investment-portal.md)
+**Parent Topic:**[Investment Portal](investment-portal.md)
 
 **Related topics**  
 
 
-[View all your investment boards in one location](../concept/my-investments-tabs.md)
+[View all your investment boards in one location](my-investments-tabs.md)
 
 [Create an investment board](create-an-investment-report.md)
 
 [Track your key investments](use-investment-portal.md)
 
-[Investment Portal](../concept/investment-portal.md)
+[Investment Portal](investment-portal.md)
 

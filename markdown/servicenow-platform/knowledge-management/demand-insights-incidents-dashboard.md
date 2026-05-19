@@ -15,7 +15,7 @@ breadcrumb: [Analytics and Reporting Solutions for Knowledge Management, Knowled
 
 The Demand Insights for Incidents dashboard enables you as an incident manager to identify which incidents have no or insufficient knowledge coverage. You can then create feedback tasks for knowledge gaps to deflect such incidents.
 
-The Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Incidents dashboard. For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](../reference/additional-plugins-km.md).
+The Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\) includes the Demand Insights for Incidents dashboard. For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](additional-plugins-km.md).
 
 ![Demand Insights for Incidents dashboard](../image/demand-insights-incidents.png "Demand Insights for Incidents dashboard")
 

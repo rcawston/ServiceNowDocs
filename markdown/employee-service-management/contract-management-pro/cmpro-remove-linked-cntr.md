@@ -74,5 +74,5 @@ Steps
     The parent contract request number is removed from the **Parent contract request** field. The activity stream displays the parent-child linking history.
 
 
-**Parent Topic:**[Linking parent-child contracts](../concept/cmpro-linking-parent-child.md)
+**Parent Topic:**[Linking parent-child contracts](cmpro-linking-parent-child.md)
 

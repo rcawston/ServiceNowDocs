@@ -181,5 +181,5 @@ Type of ICT services. The available options are as follows:-   **ICT project man
 -   **Cloud services: SaaS**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a third party and enhance digital resilience data](../task/create-drtp-reg-third-party.md)
+</table>**Parent Topic:**[Create a third party and enhance digital resilience data](create-drtp-reg-third-party.md)
 

@@ -54,7 +54,7 @@ When you select an indicator data source, you see a preview of the visualization
 
 **Note:** Many data visualizations support multiple data sources. However, you cannot mix Data snapshots indicators and regular indicators. If your first data source is a regular indicator \(automated, formula, or manual\), then only regular indicators are available for your additional data source. If your first data source is an automated or formula Data snapshots indicator, only Data snapshots are available for additional data sources.
 
-For more information, see [Performance Analytics indicators](../../performance-analytics/concept/c_Indicators.md).
+For more information, see [Performance Analytics indicators](performance-analytics/c_Indicators.md).
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Activated by default. However, to include Usage Insights data sources in your vi
 
 </td><td>
 
-The ServiceNow® Usage Insights application provides dashboard views for monitoring usage analytics of your web applications as well as Virtual Agent, ServiceNow mobile, and Service Portal applications. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.For more general information about Usage Insights, see [Usage Insights](../../../administer/user-exp-analytics/content-framework/landing-page/user-exp-analytics-landing.md). For more information specific to data visualizations, see [Usage Insights data sources for data visualizations](../../performance-analytics/concept/uxa-data-sources.md).
+The ServiceNow® Usage Insights application provides dashboard views for monitoring usage analytics of your web applications as well as Virtual Agent, ServiceNow mobile, and Service Portal applications. Visualize metrics and interactions to better understand the user experience, and create more intuitive journeys for your users.For more general information about Usage Insights, see [Usage Insights](usage-insights/user-exp-analytics-landing.md). For more information specific to data visualizations, see [Usage Insights data sources for data visualizations](uxa-data-sources.md).
 
 </td></tr><tr><td>
 

@@ -15,13 +15,13 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 Create and configure the capacity management function, definition, and metric in the Telecommunications Network Inventory application. By using capacity management, you can calculate the maximum, occupied, and available capacity of your network assets.
 
--   **[Create capacity function](../task/create-capacity-function.md)**  
+-   **[Create capacity function](create-capacity-function.md)**  
 Create a capacity function in the Telecommunications Network Inventory application. You can use this function to calculate the capacity of your network assets.
--   **[Create capacity definition](../task/create-capacity-definition.md)**  
+-   **[Create capacity definition](create-capacity-definition.md)**  
 Create a capacity definition in the Telecommunications Network Inventory application. You can use multiple functions in the capacity definition to calculate the capacity of your network assets.
--   **[View a capacity metric](../task/modify-capacity-metric.md)**  
+-   **[View a capacity metric](modify-capacity-metric.md)**  
 View a capacity metric record in the Telecommunications Network Inventory application. You can use the capacity metric to get the consolidated information of the capacity calculations.
--   **[Collect operational values for datacenter](../task/enter-operational-values-data-center.md)**  
+-   **[Collect operational values for datacenter](enter-operational-values-data-center.md)**  
 Record and update operational values manually for datacenters performance tracking in the Telecommunications Network Inventory application. You can use this data for further analysis and reporting.
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)

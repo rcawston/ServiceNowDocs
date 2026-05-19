@@ -17,7 +17,7 @@ Due to the large amount of data consumed by flow execution details, your instanc
 
 ## Generating flow execution details
 
-By default, the system only generates execution details when you run a test. To generate flow execution details, see [Activate flow reporting](../task/enable-flow-reporting.md#)
+By default, the system only generates execution details when you run a test. To generate flow execution details, see [Activate flow reporting](enable-flow-reporting.md#)
 
 ## Scheduled table cleanup
 

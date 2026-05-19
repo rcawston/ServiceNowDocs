@@ -52,7 +52,7 @@ The **Overview** tab for an attended bot process is shown in the following examp
 
 ## Details of the sections in the Overview tab
 
-For more information about the **Overview** tab, see [Get a snapshot of a bot process](../task/open-overview-page-rpa.md).
+For more information about the **Overview** tab, see [Get a snapshot of a bot process](open-overview-page-rpa.md).
 
 **Note:** If you don't have access to a particular table, you can't see that table in the **Overview** tab.
 
@@ -118,7 +118,7 @@ Associated business applications.For example, Ariba, Microsoft Excel, or Google 
 
  To view more business applications, select **View all**.
 
- To add a business application, select **Add business application**. For more information about adding a business application, see [Assign a business application to a bot process in RPA Hub](../task/associate-business-apps.md).
+ To add a business application, select **Add business application**. For more information about adding a business application, see [Assign a business application to a bot process in RPA Hub](associate-business-apps.md).
 
  You can't add a business application when the bot process is published.
 
@@ -130,7 +130,7 @@ Shared parameters
 
 Associated shared parameters.To view more shared parameters, select **View all**.
 
- To add a shared parameter, select **Add parameters**. For more information about adding a shared parameter, see [Create a shared parameter in RPA Hub](../task/create-shared-parameter.md).
+ To add a shared parameter, select **Add parameters**. For more information about adding a shared parameter, see [Create a shared parameter in RPA Hub](create-shared-parameter.md).
 
  You can't add a shared parameter when the bot process is published.
 
@@ -236,10 +236,10 @@ Activity
 
 </td><td>
 
-Activity of the form, work notes, and additional comments that you can view.Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](../task/display-activity-stream-sys-property-rpahub.md).
+Activity of the form, work notes, and additional comments that you can view.Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](display-activity-stream-sys-property-rpahub.md).
 
 </td></tr></tbody>
-</table>-   **[Get a snapshot of a bot process](../task/open-overview-page-rpa.md)**  
+</table>-   **[Get a snapshot of a bot process](open-overview-page-rpa.md)**  
 Get a snapshot of both your unattended and attended processes in one view.
 
 **Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)

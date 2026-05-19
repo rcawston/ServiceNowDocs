@@ -36,9 +36,9 @@ The behavior of the currency field in Excel depends on the **Symbol** of the cur
 **Related topics**  
 
 
-[Currency administration](../../currency/concept/currency.md)
+[Currency administration](../currency-administration/currency.md)
 
-[Single-currency mode](../../currency/concept/single-currency-mode.md)
+[Single-currency mode](../currency-administration/single-currency-mode.md)
 
-[Control default currency field configuration and use in an instance](../../currency/reference/currency-properties.md)
+[Control default currency field configuration and use in an instance](../currency-administration/currency-properties.md)
 

@@ -17,7 +17,7 @@ Use the ServiceNow Localization Framework to manage the process of localizing Vi
 
 ## Before you begin
 
-Check the prerequisites for translating Virtual Agent components. For more information, see [Localizing Virtual Agent conversations](../concept/localize-va-topic.md).
+Check the prerequisites for translating Virtual Agent components. For more information, see [Localizing Virtual Agent conversations](localize-va-topic.md).
 
 Make sure that your Virtual Agent topics are published and performing the way you want them to. Make any adjustments before you send them to localization.
 
@@ -74,5 +74,5 @@ Map a Virtual Agent topic to a secondary model in the model group or to a standa
 -   **[Test topic and NLU model translations](test-nlu-language-model.md)**  
 Test a translated Virtual Agent topic and the localized NLU model to ensure that it works as expected in a conversation.
 
-**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
 

@@ -20,11 +20,11 @@ The Application Manager helps ensure that Now Assist applications that you insta
 
 Now Assist applications often function interdependently. As a result, a specific version of one Now Assist application might only be compatible with certain versions of other Now Assist applications. The Application Manager helps verify that all Now Assist applications being installed to your instance are compatible with each other through suites of compatible Now Assist applications. For more information about Now Assist suites, see [Now Assist suite versions in the Application Manager](now-assist-suites-app-mgr.md).
 
--   [Install a Now Assist application with the Application Manager](../task/install-now-assist-app-mgr.md)
+-   [Install a Now Assist application with the Application Manager](install-now-assist-app-mgr.md)
 
     When you install a new Now Assist application, the Application Manager uses Now Assist suites to verify that it will be compatible with any other Now Assist applications in your instance.
 
--   [Update a Now Assist application with the Application Manager](../task/update-now-assist-app-mgr.md)
+-   [Update a Now Assist application with the Application Manager](update-now-assist-app-mgr.md)
 
     When you update a Now Assist application to a new version, the Application Manager uses Now Assist suites to verify that it will be compatible with any other Now Assist applications in your instance.
 

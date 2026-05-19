@@ -86,5 +86,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 5.  In Action 24, a response task is created for the user to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Endpoint Detection](../concept/playbook-endpoint-detection.md)
+**Parent Topic:**[Playbook for Endpoint Detection](playbook-endpoint-detection.md)
 

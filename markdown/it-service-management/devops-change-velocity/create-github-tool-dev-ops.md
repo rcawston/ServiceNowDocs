@@ -19,7 +19,7 @@ Connect your GitHub instance to discover, configure, and import repositories, pl
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
-Complete the steps specified in the [Getting started](../concept/setting-up-devops-change-velocity.md) section before connecting to a tool.
+Complete the steps specified in the [Getting started](setting-up-devops-change-velocity.md) section before connecting to a tool.
 
 ## About this task
 
@@ -72,10 +72,10 @@ Only a personal access token \(classic\) is supported with basic authentication.
 
 -   OAuth
 
-GitHub Tool Credential. See [Setting up GitHub OAuth 2.0 credentials for DevOps Change Velocity](../concept/setting-up-github-oauth-dev-ops.md).
+GitHub Tool Credential. See [Setting up GitHub OAuth 2.0 credentials for DevOps Change Velocity](setting-up-github-oauth-dev-ops.md).
 
 </td></tr></tbody>
-</table>    For a list of all the permissions required on the credentials for connecting to GitHub, see GitHub permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>    For a list of all the permissions required on the credentials for connecting to GitHub, see GitHub permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
 3.  Select **MID Server** for an on-premises tool that is attached to a MID Server.
 
@@ -115,5 +115,5 @@ GitHub Tool Credential. See [Setting up GitHub OAuth 2.0 credentials for DevOps 
 10. In the **App** field, click the lookup list and select an App record to associate with the repository, or click **New** to create one.
 
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](../concept/github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
 

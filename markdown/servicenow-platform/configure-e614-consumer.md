@@ -43,5 +43,5 @@ The E.164 format that does not contain any dashes or spaces and must include the
 
 After this configuration, when entering the consumer phone number in the phone field, select the territory and enter the corresponding phone number. The same format is reflected in Agent Workspace.
 
-**Parent Topic:**[Setting up ServiceNow Voice](../concept/ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
 

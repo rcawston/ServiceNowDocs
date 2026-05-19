@@ -651,5 +651,5 @@ If a feature is missing after activation, check whether a required plugin was in
 |Now Assist buttons not visible in workspace|Now Assist for EA was not active when EA Workspace was activated|Activate `sn_apm_gen_ai`, then reactivate `com.snc.apm_workspace`.|
 |Digital Integration entities missing in diagrams|Digital Integration Management was not active when Enterprise Modeling Common was activated|Activate `com.snc.apm_digital_integration`, then reactivate `com.snc.apm_modelling_tool_common`.|
 
-**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+**Parent Topic:**[Install Enterprise Architecture Workspace](install-ea-workspace.md)
 

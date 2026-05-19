@@ -30,5 +30,5 @@ Role required: admin
     Your app no longer configured with a security PIN.
 
 
-**Parent Topic:**[App PIN settings for mobile](../concept/mobile-app-pin-settings.md)
+**Parent Topic:**[App PIN settings for mobile](mobile-app-pin-settings.md)
 

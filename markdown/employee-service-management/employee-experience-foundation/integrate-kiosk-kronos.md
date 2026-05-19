@@ -46,5 +46,5 @@ If you don't plan to activate the HR Service Delivery with Ultimate Kronos Group
 -   **[Receive employee data from UKG to the Employee Center Pro Kiosk](user-map-kronos-kiosk.md)**  
 Map the employee IDs between the UKG system and the Employee Center Pro Kiosk to see employee details in your organizational kiosks.
 
-**Parent Topic:**[Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md)
+**Parent Topic:**[Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 

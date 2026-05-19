@@ -47,5 +47,5 @@ Role required: admin
 -   **[Confirm contract renewal in Employee Center](confirm-contract-renewal.md)**  
 As a business owner or shopper, confirm whether the expiring contract needs to be renewed.
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

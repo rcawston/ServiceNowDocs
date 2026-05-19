@@ -99,5 +99,5 @@ Paste the certificate information that you copied in step 4.
 </table>8.  Select **Submit** to save the record.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

@@ -150,13 +150,13 @@ Having a positive digital experience can lead to numerous benefits, including th
 
 ## Better together
 
--   **[DEX for Service Desk Agents](../../service-operations-workspace/reference/features-of-investigation-tab.md)**
+-   **[DEX for Service Desk Agents](../service-operations-workspace/features-of-investigation-tab.md)**
 
     As a Service Desk agent, navigate to the DEX device health page from the ServiceNow Core UI incident experience or from the Investigate tab within the Incident experience in Service Operations Workspace \(SOW\). Configure a computer Configuration Item \(CI\) and install the DEX plugin for the ability to analyze device metrics from within the platform, getting valuable insights for effective issue investigation.
 
     Use incident investigation with DEX to review device health, detected issues, and suggested resolutions. Implement resolutions and remedial actions directly from your workspace and monitor the status of actions. For more information, see [Incident investigation with DEX](dex-diagnostics-guided-resolutions.md).
 
-    Use the DEX issue diagnosis and resolution agentic workflow to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](../../now-assist-itsm/concept/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
+    Use the DEX issue diagnosis and resolution agentic workflow to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](../now-assist-for-it-service-management-itsm/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
 
 -   **[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)**
 
@@ -170,6 +170,6 @@ To learn more about configuring and using Digital End-User Experience, see:
 -   [Configure Digital End-User Experience](config-dex-console.md).
 -   [Monitor and manage the digital workplace with Digital End-User Experience.](use-dex-console.md)
 -   [Use the Desktop Assistant.](use-dex-desktop-exp.md)
--   [Get information about the DEX Workspace administration](../reference/dex-console-reference.md).
--   [Tracking digital experience using Digital Experience Score​ dashboard](../../dex-score/concept/dexscr-using-dex-score.md).
+-   [Get information about the DEX Workspace administration](dex-console-reference.md).
+-   [Tracking digital experience using Digital Experience Score​ dashboard](../digital-experience-score/dexscr-using-dex-score.md).
 

@@ -38,10 +38,10 @@ Role required: discovery\_admin
 
 ## What to do next
 
-Schedule a horizontal discovery to discover HAProxy load balancer with probes. For more information, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+Schedule a horizontal discovery to discover HAProxy load balancer with probes. For more information, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 **Related topics**  
 
 
-[HAProxy load balancer discovery using probes](../concept/c_LoadBalancerHAProxy.md)
+[HAProxy load balancer discovery using probes](c_LoadBalancerHAProxy.md)
 

@@ -174,7 +174,7 @@ ServiceNow Stream Connect Installer\[com.glide.hub.stream\_connect.installer\]
 
 </td><td>
 
-Enables the licensed components for working with message-based streaming data in [Stream Connect for Apache Kafka](../concept/stream-connect-apache-kafka.md).
+Enables the licensed components for working with message-based streaming data in [Stream Connect for Apache Kafka](stream-connect-apache-kafka.md).
 
  Activating this plugin activates the following plugins.
 
@@ -250,5 +250,5 @@ Stream Connect MID Hermes API\[com.glide.mid.hermes\_api\]
 Provides the capability to produce messages from the MID Server to a topic in the Hermes Messaging Service.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request Integration Hub](../../flow-designer/concept/request-ih-overview.md)
+</table>**Parent Topic:**[Request Integration Hub](request-ih-overview.md)
 

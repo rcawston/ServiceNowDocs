@@ -13,8 +13,8 @@ breadcrumb: [LLM-powered SIR integration builder, Security Operations]
 
 Add new integrations and use the existing integrations in SIR Workspace.
 
--   [Add a integration](../task/add-a-new-integration.md)
--   [Verify capabilities in ServiceNow Studio](../task/verify-capabilities.md)
--   [Use capabilities in SIR Workspace](../task/use-capabilities-sir-workspace.md)
+-   [Add a integration](add-a-new-integration.md)
+-   [Verify capabilities in ServiceNow Studio](verify-capabilities.md)
+-   [Use capabilities in SIR Workspace](use-capabilities-sir-workspace.md)
 -   [Edit an integration](edit-an-integration-sir.md)
 

@@ -33,10 +33,10 @@ Role required: admin
     |true|Calendar only appears for a date picker, which is the default behavior in Core UI.|
 
 
-**Parent Topic:**[Date and Date/Time fields](../reference/r_UseDateAndTimeFields.md)
+**Parent Topic:**[Date and Date/Time fields](r_UseDateAndTimeFields.md)
 
 **Related topics**  
 
 
-[List editor administration](../../list-administration/reference/r_AdministeringTheListEditor.md)
+[List editor administration](../list-administration/r_AdministeringTheListEditor.md)
 

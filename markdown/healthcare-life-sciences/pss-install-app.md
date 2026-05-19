@@ -34,7 +34,7 @@ The following items are installed with Patient Support Services:
 -   ServiceNow Store applications
 -   Business rules
 
-For more information, see [Components installed with Patient Support Services](../reference/pss-components-installed.md).
+For more information, see [Components installed with Patient Support Services](pss-components-installed.md).
 
 ## Procedure
 

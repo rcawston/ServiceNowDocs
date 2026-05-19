@@ -27,7 +27,7 @@ Enable requesters to chat with Google chat or live agents using the Google chat 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure your Conversational Integration with Google chat.](../task/integrating-va-google-chat.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure your Conversational Integration with Google chat.](integrating-va-google-chat.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Conversational Integration with Google chat](exploring-ci-google-chat.md)**  

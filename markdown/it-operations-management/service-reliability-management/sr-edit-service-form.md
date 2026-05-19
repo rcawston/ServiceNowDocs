@@ -17,7 +17,7 @@ Edit an existing service owned by your team.
 
 ## Service Details form
 
-For more information, see [Edit service details in SRM](../task/sr-edit-service.md).
+For more information, see [Edit service details in SRM](sr-edit-service.md).
 
 <table id="id_yty_w2n_zyb"><thead><tr><th>
 

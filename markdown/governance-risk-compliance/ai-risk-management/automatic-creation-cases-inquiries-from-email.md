@@ -19,7 +19,7 @@ The system automatically creates AI cases and inquiries from inbound emails usin
 
 Email-based intake provides a simple and familiar way for users to submit AI-related cases or inquiries. Instead of navigating a portal or completing forms, users send an email to configured addresses. When an email is received, the system processes the message extracting key information such as the subject, body, and sender, and creates an AI Case or Inquiry. This automation helps capture submissions consistently and immediately, ready for review and action.
 
-For step-by-step configuration instructions, see [Configure email-based intake for AI Risk and Compliance](../task/config-cases-inquiries-from-email.md).
+For step-by-step configuration instructions, see [Configure email-based intake for AI Risk and Compliance](config-cases-inquiries-from-email.md).
 
 ## Benefits of email-based intake
 

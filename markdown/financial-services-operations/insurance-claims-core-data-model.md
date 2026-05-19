@@ -25,7 +25,7 @@ The claim reserve and claim payment components have a claims approval engine for
 This section explains the insurance tables in Insurance Claims Core and how they handle insurance data.
 -   **[Insurance Claims Core roles and properties](insurance-claims-core-roles-and-properties.md)**  
 This section outlines the core roles involved in managing insurance claims and highlights their system properties.
--   **[Approval Engine for Reserves and Payments](../concept/approval-engine-for-reserves-and-payments.md)**  
+-   **[Approval Engine for Reserves and Payments](approval-engine-for-reserves-and-payments.md)**  
 Insurance claims core includes a claim reserve and payment approval rules engine. It can be found in the decision table **Claim reserve and payment approval rules**.
 
 **Parent Topic:**[Data Models](data-models.md)

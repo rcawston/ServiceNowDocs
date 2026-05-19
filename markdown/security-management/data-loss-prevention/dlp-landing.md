@@ -21,23 +21,23 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how analysts and administrators use DLP Incident Response](../concept/exploring-dlp.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how analysts and administrators use DLP Incident Response](exploring-dlp.md)
 
 </td><td>
 
-[Install and Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Installing and configuring the DLP Incident Response application](../concept/install-dlp.md)
+[Install and Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Installing and configuring the DLP Incident Response application](install-dlp.md)
 
 </td><td>
 
-[Administer ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Administration tasks on how to manage the DLP incidents on the ServiceNow AI Platform](../concept/data-loss-prevention-administration.md)
+[Administer ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Administration tasks on how to manage the DLP incidents on the ServiceNow AI Platform](data-loss-prevention-administration.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Update and manage incidents by leveraging the DLP End User Portal, DLP Ops Portal, and DLP Dashboard.](../task/data-loss-prevention-incident-management.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Update and manage incidents by leveraging the DLP End User Portal, DLP Ops Portal, and DLP Dashboard.](data-loss-prevention-incident-management.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend DLP capabilities by integrating with third-party applications](../concept/dlp-integrations.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend DLP capabilities by integrating with third-party applications](dlp-integrations.md)
 
 </td><td>
 

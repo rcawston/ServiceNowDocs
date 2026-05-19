@@ -31,7 +31,7 @@ The following items are installed with Model Risk Management:
 -   Tables
 -   Properties
 
-For more information, see [Model Risk Management reference](../concept/mrm-reference.md).
+For more information, see [Model Risk Management reference](mrm-reference.md).
 
 ## Procedure
 

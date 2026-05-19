@@ -22,11 +22,11 @@ You can customize:
 
 -   **[Customize UI actions for IT Service Management with Microsoft Teams](ui-actions-ms-teams.md)**  
 Enables you to extend the UI actions to the tables you require.
--   **[Customize business rules for actionable notifications](../task/customize-business-rules-sn-ms-teams.md)**  
+-   **[Customize business rules for actionable notifications](customize-business-rules-sn-ms-teams.md)**  
 Enables you to customize the business rules for actionable notifications.
--   **[Configure business rule for reassigning tickets](../task/business-rule-re-assigning-ticket-itsm.md)**  
+-   **[Configure business rule for reassigning tickets](business-rule-re-assigning-ticket-itsm.md)**  
 Configure the business rule for reassigning the tickets.
--   **[Configure business rule for close condition](../task/business-rule-close-condition.md)**  
+-   **[Configure business rule for close condition](business-rule-close-condition.md)**  
 Configure the business rule for close condition to auto-import the chats.
 
 **Parent Topic:**[Manage Microsoft Teams integration for Employee Experience](c_employee_ex_mng.md)

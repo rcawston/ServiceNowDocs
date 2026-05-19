@@ -21,5 +21,5 @@ SLA Timer Config API adds the following script includes.
 |--------------|-----------|
 |SLATimerConfigAPI|This script includes provides various functions to process and identify the task SLA that is about to breach.|
 
-**Parent Topic:**[Activate Service Level Management - SLA Timer Config API](../task/activate-sla-timer-config-api.md)
+**Parent Topic:**[Activate Service Level Management - SLA Timer Config API](activate-sla-timer-config-api.md)
 

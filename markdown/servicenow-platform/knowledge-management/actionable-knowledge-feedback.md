@@ -30,9 +30,9 @@ Beginning with New York, the **Knowledge Article View** page route map is activa
 **Related topics**  
 
 
-[Enable actionable knowledge feedback](../task/configure-act-know-feedback-properties.md)
+[Enable actionable knowledge feedback](configure-act-know-feedback-properties.md)
 
-[Work on a feedback task](../task/review-reassign-feedback-task.md)
+[Work on a feedback task](review-reassign-feedback-task.md)
 
-[Track the progress on a feedback task](../task/track-feedback-task-metrics.md)
+[Track the progress on a feedback task](track-feedback-task-metrics.md)
 

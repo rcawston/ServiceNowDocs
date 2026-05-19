@@ -38,5 +38,5 @@ Role required: sn\_oper\_res.manager
     ![Help tip.](../image/help-tip-on-the-forms.png)
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](conf-dg-resi-party-regi.md)
 

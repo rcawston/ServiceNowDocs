@@ -174,10 +174,10 @@ Check box to make the column editable in the planning console.
 
 The display column appears in the column filter list \(![Filter icon](../image/filter_icon.png)\) in the planning console.
 
-**Parent Topic:**[Custom columns in the planning console](../concept/custom-columns-planning-console.md)
+**Parent Topic:**[Custom columns in the planning console](custom-columns-planning-console.md)
 
 **Related topics**  
 
 
-[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 

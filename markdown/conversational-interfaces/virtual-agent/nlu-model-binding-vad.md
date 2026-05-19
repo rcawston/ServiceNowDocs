@@ -22,7 +22,7 @@ When you create or edit a topic and have ServiceNow NLU turned on, then you can 
 -   Map the topic to an existing model and intent.
 -   Map the topic to an existing model and create an intent.
 
-    Mappings are created for all languages that have been activated in NLU Settings as well. For more information, see [Configure Natural Language Understanding in Virtual Agent](../task/configure-nlu-settings.md).
+    Mappings are created for all languages that have been activated in NLU Settings as well. For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md).
 
 -   Create and map the topic to a new model and intent.
 
@@ -33,5 +33,5 @@ For example, when creating a topic, you can select the NLU model and its associa
 
 ![The Natural Language Understanding section displays on the Properties tab when NLU is enabled. Select an existing NLU model and associated intent or create new ones.](../images/nlu-language-mapping-intent-new.png)
 
-**Parent Topic:**[Creating a Virtual Agent topic](../task/create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
 

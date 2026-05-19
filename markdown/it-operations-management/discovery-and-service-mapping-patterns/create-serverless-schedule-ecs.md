@@ -17,7 +17,7 @@ Create a serverless schedule to discover Amazon Elastic Container Service \(Amaz
 
 ## Before you begin
 
-Verify you have an AWS service account ID and have created AWS credentials. For more information, see the prerequisites section in [Amazon ECS resource discovery with Patterns](../reference/aws-ecs-fargate-discovery.md).
+Verify you have an AWS service account ID and have created AWS credentials. For more information, see the prerequisites section in [Amazon ECS resource discovery with Patterns](aws-ecs-fargate-discovery.md).
 
 Role required: discovery\_admin
 
@@ -81,12 +81,12 @@ Discovering ECR resources requires running the Amazon AWS - ECS pattern before u
 
 Either execute discovery immediately by selecting **Discover now** or wait until the predefined schedule triggers the discovery.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[Amazon ECS resource discovery with Patterns](../reference/aws-ecs-fargate-discovery.md)
+[Amazon ECS resource discovery with Patterns](aws-ecs-fargate-discovery.md)
 
-[Scan container images](container-image-task.md)
+[Scan container images](../discovery/container-image-task.md)
 

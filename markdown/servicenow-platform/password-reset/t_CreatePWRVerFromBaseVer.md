@@ -36,5 +36,5 @@ Role required: password\_reset\_admin
     **Note:** Each verification type has properties that control the user experience. Review the property settings and update as needed.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

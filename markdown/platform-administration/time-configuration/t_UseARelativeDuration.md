@@ -40,5 +40,5 @@ This example demonstrates how a relative duration of End of next business day wo
     **Note:** Pause conditions are not compatible with Relative Durations.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

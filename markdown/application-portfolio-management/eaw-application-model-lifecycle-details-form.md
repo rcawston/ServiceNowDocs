@@ -112,7 +112,7 @@ Option to activate the life cycle.
 **Related topics**  
 
 
-[Add business application lifecycle data using the bubble chart](../../task/eaw-task/eaw-add-business-application-lifecycle-data.md)
+[Add business application lifecycle data using the bubble chart](eaw-add-business-application-lifecycle-data.md)
 
-[Add business application lifecycle data using the list view](../../task/eaw-task/eaw-add-business-application-lifecycle-data-listview.md)
+[Add business application lifecycle data using the list view](eaw-add-business-application-lifecycle-data-listview.md)
 

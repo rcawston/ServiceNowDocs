@@ -54,5 +54,5 @@ Enable debugging of reconciliation results to troubleshoot a result.
 -   **Default value**: No
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management Foundation plugin Administration](../concept/c_SAMAdministrationSAMF.md)
+</table>**Parent Topic:**[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)
 

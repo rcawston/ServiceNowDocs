@@ -172,5 +172,5 @@ Updates and information related to the channel partner.
 **Related topics**  
 
 
-[Create a channel partner](../task/mco-create-channel-partner.md)
+[Create a channel partner](mco-create-channel-partner.md)
 

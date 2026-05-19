@@ -15,7 +15,7 @@ breadcrumb: [Activate Change Management - CAB Workbench, Change Management plugi
 
 Several types of components are installed with Change Management - CAB Workbench.
 
-**Parent Topic:**[Activate Change Management - CAB Workbench](../task/activate-cab-workbench.md)
+**Parent Topic:**[Activate Change Management - CAB Workbench](activate-cab-workbench.md)
 
 ## Tables installed with Change Management - CAB Workbench
 

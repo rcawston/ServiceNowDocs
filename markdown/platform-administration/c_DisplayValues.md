@@ -32,5 +32,5 @@ Reference fields show display values in:
 **Related topics**  
 
 
-[Unique record identifier \(sys\_id\)](../../table-administration/concept/c_UniqueRecordIdentifier.md#)
+[Unique record identifier \(sys\_id\)](c_UniqueRecordIdentifier.md#)
 

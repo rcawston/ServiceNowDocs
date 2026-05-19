@@ -32,5 +32,5 @@ Refreshing processor definitions can be time consuming when running for the firs
     The Processor definitions list is shown.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

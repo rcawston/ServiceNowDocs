@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for T1003 - Defense Evasion - Mimikatz DCShadow playbook.](../image/playbook-mimikatz-dcshadow-trigger.png "T1003 - Defense Evasion - Mimikatz DCShadow playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](../concept/playbook-defense-evasion-mimikatz-dcshadow.md)
+**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](playbook-defense-evasion-mimikatz-dcshadow.md)
 

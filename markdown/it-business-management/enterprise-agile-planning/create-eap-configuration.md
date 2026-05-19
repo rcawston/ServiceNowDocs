@@ -17,7 +17,7 @@ Define your own Agile configuration or update an existing configuration in Enter
 
 ## Before you begin
 
-[Install Strategic Planning](../../alignment-planner-workspace/task/install-alignment-planner-workspace.md).
+[Install Strategic Planning](../scenario-planning-in-spw/install-alignment-planner-workspace.md).
 
 Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
@@ -67,7 +67,7 @@ Sync with Agile Development
 
 </td><td>
 
-Select this option to sync iterations such as Planning Intervals and Sprints with Agile Development 2.0. For more information, see [Integration between EAP and Agile Development 2.0](../reference/sync-eap-and-agile-2.md).If your team is of the Kanban type, you can leave this option unselected.
+Select this option to sync iterations such as Planning Intervals and Sprints with Agile Development 2.0. For more information, see [Integration between EAP and Agile Development 2.0](sync-eap-and-agile-2.md).If your team is of the Kanban type, you can leave this option unselected.
 
 </td></tr></tbody>
 </table>5.  Select the work item types to be available within this configuration.
@@ -99,6 +99,6 @@ Select this option to sync iterations such as Planning Intervals and Sprints wit
 
 ## What to do next
 
--   If you have updated the planning calendar selection for any active configuration that has teams associated with it, update the relevant dashboard configuration too. This action ensures that the metrics displayed for those teams are accurate. See [Updating dashboards for planning calendar changes in EAP](../concept/updating-dashboards-for-planning-calendar-changes-in-eap.md).
+-   If you have updated the planning calendar selection for any active configuration that has teams associated with it, update the relevant dashboard configuration too. This action ensures that the metrics displayed for those teams are accurate. See [Updating dashboards for planning calendar changes in EAP](updating-dashboards-for-planning-calendar-changes-in-eap.md).
 -   [Activate an EAP configuration](activate-eap-configuration.md)
 

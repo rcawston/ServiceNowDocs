@@ -17,7 +17,7 @@ When an alert group is generated, understand better how the alerts in the group 
 
 ## Before you begin
 
-For an overview of Link View in Express List, see [Viewing links between alerts in alert groups in Express List](../concept/el-link-view.md).
+For an overview of Link View in Express List, see [Viewing links between alerts in alert groups in Express List](el-link-view.md).
 
 Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
@@ -77,7 +77,7 @@ Select **Refresh**. When you've refreshed the alert group, rearranged nodes appe
 
 </td><td>
 
-Select the Link View legend.The legend also indicates the number of unique nodes displayed per tag. For a description of each tag, see [Attributes in Express List Link View](../reference/link-view-tags-icons-descriptions.md).
+Select the Link View legend.The legend also indicates the number of unique nodes displayed per tag. For a description of each tag, see [Attributes in Express List Link View](link-view-tags-icons-descriptions.md).
 
 </td></tr><tr><td id="d609624e230">
 

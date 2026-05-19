@@ -73,15 +73,15 @@ If you have the appropriate role, you can add and edit funnel reports on a dashb
 
     When you select a table or indicator data source for a funnel visualization, refer to the following topics for the available data configuration options:
 
-    -   [Table data options for funnel visualizations](../reference/funnel-table-data.md)
-    -   [Indicator data options for funnel visualizations](../reference/funnel-indicator-data.md)
+    -   [Table data options for funnel visualizations](funnel-table-data.md)
+    -   [Indicator data options for funnel visualizations](funnel-indicator-data.md)
 9.  Select **Save**.
 
 
--   **[Table data options for funnel visualizations](../reference/funnel-table-data.md)**  
+-   **[Table data options for funnel visualizations](funnel-table-data.md)**  
 When you select a table data source for the funnel visualization, the following data configuration options are available.
--   **[Indicator data options for funnel visualizations](../reference/funnel-indicator-data.md)**  
+-   **[Indicator data options for funnel visualizations](funnel-indicator-data.md)**  
 When you select an indicator data source for the funnel visualization, the following data configuration options are available.
 
-**Parent Topic:**[Data visualization in ITOM](../concept/itom-data-visualization.md)
+**Parent Topic:**[Data visualization in ITOM](itom-data-visualization.md)
 

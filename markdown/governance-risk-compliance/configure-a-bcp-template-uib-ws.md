@@ -35,13 +35,13 @@ By configuring the plan template, you can:
 
 3.  On the Plan Template form, fill in the fields.
 
-    For more information on the fields, see [Plan Template form](../reference/plan-template-form.md).
+    For more information on the fields, see [Plan Template form](plan-template-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Plan Template form](../reference/plan-template-form.md)**  
+-   **[Plan Template form](plan-template-form.md)**  
 Use the Plan Template form in BCM UIB Workspace to input details regarding the business continuity plan.
 
-**Parent Topic:**[Configuring plan template](../concept/bcp-admin-plan-templates.md)
+**Parent Topic:**[Configuring plan template](bcp-admin-plan-templates.md)
 

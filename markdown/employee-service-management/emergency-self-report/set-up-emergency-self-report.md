@@ -15,7 +15,7 @@ breadcrumb: [Emergency Self Report, Emergency Response Management, Employee Serv
 
 To set up Emergency Self Report, install the application. Then configure user access, a dedicated knowledge base, and system properties.
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](emergency-self-report.md)
 
 ## Install Emergency Self Report
 

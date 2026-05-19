@@ -27,7 +27,7 @@ Role required: ais\_admin
 
 3.  On the Search Profile form, fill in the fields.
 
-    For a description of the field values, see [Search Profile form](../reference/search-profile-form-ais.md).
+    For a description of the field values, see [Search Profile form](search-profile-form-ais.md).
 
 4.  Select **Submit**.
 
@@ -40,7 +40,7 @@ The new search profile appears in the AI Search Search Profiles list with **Stat
 
 To make content searchable using your new search profile, link one or more search sources to it. For instructions on linking search sources, see [Link a search source to a search profile](link-search-source-profile-ais.md).
 
-Your new search profile includes sample synonym and stop word dictionaries and a default typo handling dictionary. For more details on configuring and populating these dictionaries, see [Synonyms](../concept/synonyms-ais.md), [Stop words](../concept/stop-words-ais.md), and [Typo handling](../concept/typo-handling-ais.md).
+Your new search profile includes sample synonym and stop word dictionaries and a default typo handling dictionary. For more details on configuring and populating these dictionaries, see [Synonyms](synonyms-ais.md), [Stop words](stop-words-ais.md), and [Typo handling](typo-handling-ais.md).
 
-**Parent Topic:**[Search profiles in AI Search](../concept/defining-search-profiles-ais.md)
+**Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)
 

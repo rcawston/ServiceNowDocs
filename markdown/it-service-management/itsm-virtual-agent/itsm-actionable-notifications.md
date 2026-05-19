@@ -25,28 +25,28 @@ To create your own custom notifications, see [Configuring Virtual Agent notifica
 
 ## Pre-built ITSM actionable notifications
 
-The following pre-built notifications are available for ITSM Virtual Agent. You must activate these notifications in Workflow Studio before you can use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+The following pre-built notifications are available for ITSM Virtual Agent. You must activate these notifications in Workflow Studio before you can use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](setup-actionable-notifications.md).
 
 |I want to|Pre-built notifications|
 |---------|-----------------------|
-|Notify users of changes to their incidents|[Actionable notifications for incidents in ITSM Virtual Agent](../reference/itsm-actionable-notification-flows.md)|
-|Notify users of changes to their Service Catalog requests|[Actionable notifications for Service Catalog requests in ITSM Virtual Agent](../reference/va-itsm-notifications-service-catalog.md)|
-|Notify users of approvals for change requests or KB articles|[Actionable notifications for approvals in ITSM Virtual Agent](../reference/va-itsm-notifications-approvals.md)|
-|Notify users when their password is about to expire|[Actionable notifications for Password Reset for Virtual Agent](../reference/itsm-va-notifications-password-reset.md)|
-|Notify users of changes to virtual machines|[Actionable notifications for virtual machines in ITSM Virtual Agent](../reference/itsm-va-notifications-virtual-machine.md)|
-|Notify users when Virtual Agent finds a topic that can resolve the end user's issue|[Actionable notifications for Issue Auto Resolution in ITSM Virtual Agent](../reference/itsm-va-notifications-iar.md)|
+|Notify users of changes to their incidents|[Actionable notifications for incidents in ITSM Virtual Agent](itsm-actionable-notification-flows.md)|
+|Notify users of changes to their Service Catalog requests|[Actionable notifications for Service Catalog requests in ITSM Virtual Agent](va-itsm-notifications-service-catalog.md)|
+|Notify users of approvals for change requests or KB articles|[Actionable notifications for approvals in ITSM Virtual Agent](va-itsm-notifications-approvals.md)|
+|Notify users when their password is about to expire|[Actionable notifications for Password Reset for Virtual Agent](itsm-va-notifications-password-reset.md)|
+|Notify users of changes to virtual machines|[Actionable notifications for virtual machines in ITSM Virtual Agent](itsm-va-notifications-virtual-machine.md)|
+|Notify users when Virtual Agent finds a topic that can resolve the end user's issue|[Actionable notifications for Issue Auto Resolution in ITSM Virtual Agent](itsm-va-notifications-iar.md)|
 
--   **[Actionable notifications for incidents in ITSM Virtual Agent](../reference/itsm-actionable-notification-flows.md)**  
+-   **[Actionable notifications for incidents in ITSM Virtual Agent](itsm-actionable-notification-flows.md)**  
 Notify employees of pending tasks and incident alerts with notifications from ITSM Virtual Agent.
--   **[Actionable notifications for Service Catalog requests in ITSM Virtual Agent](../reference/va-itsm-notifications-service-catalog.md)**  
+-   **[Actionable notifications for Service Catalog requests in ITSM Virtual Agent](va-itsm-notifications-service-catalog.md)**  
 Notify employees of Service Catalog tasks and alerts with notifications from ITSM Virtual Agent.
--   **[Actionable notifications for approvals in ITSM Virtual Agent](../reference/va-itsm-notifications-approvals.md)**  
+-   **[Actionable notifications for approvals in ITSM Virtual Agent](va-itsm-notifications-approvals.md)**  
 Notify employees of approvals for requests with notifications from ITSM Virtual Agent.
--   **[Actionable notifications for Password Reset for Virtual Agent](../reference/itsm-va-notifications-password-reset.md)**  
+-   **[Actionable notifications for Password Reset for Virtual Agent](itsm-va-notifications-password-reset.md)**  
 Use Virtual Agent to notify employees when their password is about to expire.
--   **[Actionable notifications for virtual machines in ITSM Virtual Agent](../reference/itsm-va-notifications-virtual-machine.md)**  
+-   **[Actionable notifications for virtual machines in ITSM Virtual Agent](itsm-va-notifications-virtual-machine.md)**  
 Notify users when a change is made to a virtual machine \(VM\) instance.
--   **[Actionable notifications for Issue Auto Resolution in ITSM Virtual Agent](../reference/itsm-va-notifications-iar.md)**  
+-   **[Actionable notifications for Issue Auto Resolution in ITSM Virtual Agent](itsm-va-notifications-iar.md)**  
 Notify employees when Virtual Agent finds a topic that matches the end user's intent.
 -   **[Issue Auto Resolution for ITSM Virtual Agent](itsm-va-auto-resolution.md)**  
 Proactively deflect common ITSM incidents to ITSM Virtual Agent. Initiate a conversation with an end user after they submit an incident through a non-conversational service channel, if an existing ITSM Virtual Agent conversation can resolve the issue.

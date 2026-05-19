@@ -15,7 +15,7 @@ The next step in designing an application is to build logic. Logic includes form
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md).
 
 ## Scripting and modifications
 

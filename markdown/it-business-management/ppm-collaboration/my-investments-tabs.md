@@ -17,8 +17,8 @@ Display all your important investment boards in a single location using the My I
 
 When you open the Investment Portal module, you start in the My Investments Views page where you can:
 
--   [Create investment boards using filter conditions](../task/create-an-investment-report.md).
--   [View widgets on an investment board](../task/configure-investment-metrics.md).
+-   [Create investment boards using filter conditions](create-an-investment-report.md).
+-   [View widgets on an investment board](configure-investment-metrics.md).
 -   Search for an investment board by the name or owner.
 -   View boards in different color bands based on the applied filter, such as portfolio or program. For example, the green color band on the card, in the following screen shot, indicates that the projects and demands are filtered by a portfolio.
 -   Drill down an investment board to review its projects and demands in terms of cost, schedule, and scope.
@@ -37,7 +37,7 @@ Access investment boards more quickly by using tabs.
 Key details of an investment board include:
 
 -   **Row 1**: Name, owner, and type of the board.
--   **Row 2**: Some out-of-box investment metrics. The number of metrics displayed in this row is fixed, but you can [configure](../task/configure-investment-metrics.md) which metrics are displayed,
+-   **Row 2**: Some out-of-box investment metrics. The number of metrics displayed in this row is fixed, but you can [configure](configure-investment-metrics.md) which metrics are displayed,
 
     ![Investment board](../image/configureinvestmentmetrics.png "Example of an investment board")
 
@@ -47,11 +47,11 @@ Key details of an investment board include:
 **Related topics**  
 
 
-[Create an investment board](../task/create-an-investment-report.md)
+[Create an investment board](create-an-investment-report.md)
 
-[Track your key investments](../task/use-investment-portal.md)
+[Track your key investments](use-investment-portal.md)
 
-[Configure your investment metrics as widgets](../task/configure-investment-metrics.md)
+[Configure your investment metrics as widgets](configure-investment-metrics.md)
 
 [Investment Portal](investment-portal.md)
 

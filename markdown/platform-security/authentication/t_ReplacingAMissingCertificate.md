@@ -25,7 +25,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 2.  Create a new record called `SAML 2.0`.
 
-    **Important:** You MUST use this name. This requirement is only true if you are not using [Multi-Provider single sign-on \(SSO\)](../../single-sign-on/concept/c_MultipleProviderSingleSignOn.md).
+    **Important:** You MUST use this name. This requirement is only true if you are not using [Multi-Provider single sign-on \(SSO\)](c_MultipleProviderSingleSignOn.md).
 
 3.  Click **SAML 2 Single Sign-on** &gt; **Certificate**.
 

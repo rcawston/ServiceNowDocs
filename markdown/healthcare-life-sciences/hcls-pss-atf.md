@@ -29,5 +29,5 @@ This test suite for Patient Support Services Enrollment Case ensures that enroll
 
 For more information on the Automated Test Framework, see [Exploring Automated Test Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/automated-test-framework.md).
 
-**Parent Topic:**[Patient Support Services reference](../reference/pss-reference.md)
+**Parent Topic:**[Patient Support Services reference](pss-reference.md)
 

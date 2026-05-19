@@ -13,7 +13,7 @@ breadcrumb: [Working in the classic environment, Working in Core UI, Configure U
 
 A form displays information from one record in a data table.
 
-**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](../../../administer/configurable-workspace/concept/workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
+**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
 
 The specific information on a form depends on the type of record displayed. Users can view and edit records in forms. Administrators can configure what appears on forms. Watch this ten-minute video for an overview of the features and functions of ServiceNow forms:User Interface \| Forms including fields, related lists, views, personalization, activity stream, attachments, formatters, following records, and other form header options.
 
@@ -90,28 +90,28 @@ Core UI and UI15 each have a different form header that offers different navigat
 The form context menu provides controls based on the table and user access rights. Administrators can customize some of the options available on a context menu using UI actions.
 -   **[Form fields](c_FormFields.md#)**  
 A field represents an individual item of data on a record.
--   **[Navigate to a record or module using a URL](../../navigation/task/navigate-using-url.md)**  
+-   **[Navigate to a record or module using a URL](navigate-using-url.md)**  
 Users can navigate to a record or module directly by using a URL. This topic explains the URL schema by which the system renders pages.
--   **[Configure the activity filter](../../../administer/form-administration/task/configure-activity-filters.md#)**  
+-   **[Configure the activity filter](configure-activity-filters.md#)**  
 The activity formatter contains a filter that lets users select which of the available fields to show in the activity list.
 -   **[Embedded lists or Related lists](c_EmbeddedLists.md)**  
 Some forms may show related lists as embedded. Changes to embedded lists are saved when the form is saved.
 -   **[Related lists](c_RelatedLists.md)**  
 Related lists appear on forms and show records in tables that have relationships to the current record.
--   **[Edit a form](../task/t_EditingInForms.md#)**  
+-   **[Edit a form](t_EditingInForms.md#)**  
 You can edit a record in the form view. You can also insert a record, apply a template, and cancel changes to the record.
--   **[Personalize a form](../task/t_PersonalizeAForm.md)**  
+-   **[Personalize a form](t_PersonalizeAForm.md)**  
 When the form personalization feature is activated, users can personalize fields to appear on a specific form view according to individual preferences. Form personalization is available in Core UI.
--   **[Add users to a watch list](../task/t_UseAWatchList.md)**  
+-   **[Add users to a watch list](t_UseAWatchList.md)**  
 Watch lists enable you and others to subscribe to notifications of a task.
--   **[Add and manage attachments](../task/t_AddingAnAttachment.md)**  
+-   **[Add and manage attachments](t_AddingAnAttachment.md)**  
 You can upload a file as an attachment to an incident, a knowledge article, a change request, or to another type of record.
--   **[Set up the Next Experience email client in the Core UI](../../../administer/workspace/task/enable-next-experience-email-client-core-ui.md)**  
+-   **[Set up the Next Experience email client in the Core UI](enable-next-experience-email-client-core-ui.md)**  
 Access email features from the Next Experience in the Core UI.
 -   **[Document Viewer](Documentviewer.md)**  
 Document Viewer enables you to view documents directly in the ServiceNow AI Platform rather than having to download them.
 -   **[Checklists](c_Checklists.md)**  
 Checklists provide a simple way to track the progress of tasks without creating additional records. Checklists can be added to the form view of any table that extends Task \[task\].
 
-**Parent Topic:**[Working in the classic environment](../../../get-started/servicenow-overview/concept/working-in-classic-lists-and-forms.md)
+**Parent Topic:**[Working in the classic environment](working-in-classic-lists-and-forms.md)
 

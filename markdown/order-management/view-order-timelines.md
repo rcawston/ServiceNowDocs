@@ -73,5 +73,5 @@ In the time scale drop-down, select the time view, such as day, week month, or y
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Order fulfillment](../concept/reviewing-orchestration-plans-order-fulfillment.md)
+**Parent Topic:**[Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md)
 

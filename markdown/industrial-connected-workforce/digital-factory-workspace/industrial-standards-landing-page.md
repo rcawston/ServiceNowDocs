@@ -17,8 +17,8 @@ Industrial Standards enable you to manage consistency and control across your ma
 
 The Industrial Standards application provides the foundation for authoring and scheduling different types of manufacturing standards. You can create standards for any type of industrial work. All standards include common features, such as scheduling plans, managing approvals, and tracking compliance. You can use this functionality across all standards, and it works the same way for each standard.
 
--   **[Shift-based scheduling for manufacturing standards](../concept/icw-shift-based-scheduling.md)**  
+-   **[Shift-based scheduling for manufacturing standards](icw-shift-based-scheduling.md)**  
 Shift-based scheduling enables you to create schedule plans that automatically generate standard tasks aligned with your factory's shift patterns and production day configurations. In shift-based scheduling, you don't have to specify precise start and end date-time values manually.
 
-**Parent Topic:**[Exploring Digital Factory Workspace](../concept/exploring-digital-factory-workspace.md)
+**Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)
 

@@ -133,7 +133,7 @@ The catalog items are imported into the target ServiceNow instance.
 
 Navigate to the Hardware Models or Software Models page in the target ServiceNow instance, View the imported hardware or software model record, along with its catalog items that are published.
 
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 

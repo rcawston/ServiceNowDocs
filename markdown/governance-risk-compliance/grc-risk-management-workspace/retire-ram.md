@@ -38,5 +38,5 @@ When you retire a risk assessment methodology, it is important to note that you 
     The state changes to **Retired**.
 
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

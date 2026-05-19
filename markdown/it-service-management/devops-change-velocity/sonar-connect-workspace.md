@@ -17,7 +17,7 @@ Connect to your Sonar instance using the DevOps Change Workspace playbook.
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -114,5 +114,5 @@ Steps
 
 You’ve successfully onboarded your SonarQube tool to DevOps Change Velocity.
 
-**Parent Topic:**[SonarQube integration with DevOps Change Velocity](../concept/sonarqube-devops-integration-devops.md)
+**Parent Topic:**[SonarQube integration with DevOps Change Velocity](sonarqube-devops-integration-devops.md)
 

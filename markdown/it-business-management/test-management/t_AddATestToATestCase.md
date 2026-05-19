@@ -97,5 +97,5 @@ Detailed description of what is being tested.
 
 You can create a copy of this test by using the **Create Duplicate** related link on the test form.
 
-**Parent Topic:**[Test cases](../concept/c_TestCases.md)
+**Parent Topic:**[Test cases](c_TestCases.md)
 

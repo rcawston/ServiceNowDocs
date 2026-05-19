@@ -68,5 +68,5 @@ Condition
 Filter condition used to set up the relationship for the configuration record. For example, you can set the condition as **"Status in source" "is" "Valid"**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a main node configuration record](../task/create-a-main-node-config-record.md)
+</table>**Parent Topic:**[Create a main node configuration record](create-a-main-node-config-record.md)
 

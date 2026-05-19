@@ -25,12 +25,12 @@ The **Customer Signature Required** activity doesn't display in the playbook, or
 
 1.  Verify that a dispute was created for at least one Debit transaction.
 
-2.  Ensure the [Dispute Rules Content Pack for Nacha](../../dispute-content-pack-for-nacha/concept/dispute-rules-content-pack-for-nacha.md) is installed.
+2.  Ensure the [Dispute Rules Content Pack for Nacha](dispute-rules-content-pack-for-nacha.md) is installed.
 
 3.  Verify whether the reason code is eligible for WSUD.
 
 4.  Confirm that a Contact was provided while creating the case for an Account.
 
 
-**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](wsud-troubleshooting-reference.md)
 

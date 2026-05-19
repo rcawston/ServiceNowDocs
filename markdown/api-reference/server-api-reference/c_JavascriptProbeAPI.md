@@ -17,7 +17,7 @@ The JavascriptProbe script include provides methods for using the JavascriptProb
 
 Use these methods in server scripts to send a probe to the MID Server For more information, see [Create a JavaScript Probe activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJavaScriptProbeActivity.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## JavascriptProbe - JavascriptProbe\(String midServer\)
 

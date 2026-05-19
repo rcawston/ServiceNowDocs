@@ -75,5 +75,5 @@ Survey Feedback Topic Definition
 Stores the areas for which the survey feedback rating is given. These areas are shown in the survey form sent out to the employees.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+</table>**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 

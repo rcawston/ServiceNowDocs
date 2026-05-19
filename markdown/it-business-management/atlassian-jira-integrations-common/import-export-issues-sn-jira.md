@@ -49,5 +49,5 @@ If your Jira project has team integration settings, then the imported issues are
     **Note:** Existing comments and attachments of issues are not imported from Jira during a bulk import.
 
 
-**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](../concept/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
+**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 

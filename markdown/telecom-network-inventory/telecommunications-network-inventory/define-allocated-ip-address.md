@@ -22,7 +22,7 @@ Define and categorize all IP addresses that are ready for allocation by using th
 
 ## About this task
 
-To understand how the IP pools, IP subnetworks, and allocated IP addresses are related to each other, see [IP address inventory management data model](../reference/data_model_of_ip_address_inventory_management.md).
+To understand how the IP pools, IP subnetworks, and allocated IP addresses are related to each other, see [IP address inventory management data model](data_model_of_ip_address_inventory_management.md).
 
 ## Procedure
 
@@ -52,7 +52,7 @@ To understand how the IP pools, IP subnetworks, and allocated IP addresses are r
     -   In the TNI CI attributes form, by default, the name is fetched from the **Name** field and the **Inventory Category** is set as **IP Address**.
 6.  Add packs to this service by selecting **Add Packs**.
 
-    To learn more about the packs, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+    To learn more about the packs, see [Attribute packs](telecommunication-network-inventory-pack.md).
 
 7.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
@@ -69,5 +69,5 @@ To understand how the IP pools, IP subnetworks, and allocated IP addresses are r
 
 You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+**Parent Topic:**[Create IP address allocation](ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 

@@ -60,5 +60,5 @@ Role required: admin
     The updated number of the element definitions are displayed on the **Dependency Assessment** tab.
 
 
-**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+**Parent Topic:**[Setup by system administrators](set-up-bcm-sys-admin-tasks.md)
 

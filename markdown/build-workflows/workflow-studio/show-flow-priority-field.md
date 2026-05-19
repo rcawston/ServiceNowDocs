@@ -58,5 +58,5 @@ The Flow Priority field is hidden by default. Configure the Setting table list a
 
 Set the Flow Priority from the list or form.
 
-**Parent Topic:**[Flow priority](../concept/flow-priority.md)
+**Parent Topic:**[Flow priority](flow-priority.md)
 

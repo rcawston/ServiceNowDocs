@@ -94,11 +94,11 @@ Returns the Boolean response depending on whether a specific window matches the 
 
 -   **Inputs**
 
-    [MatchAllChildren](../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
+    [MatchAllChildren](application-level-method-parameters.md#common-parameter-input-matchallchildren)
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-output-return-boolean-iscreated)
+    [Return \(Boolean\)](application-level-method-parameters.md#common-parameter-output-return-boolean-iscreated)
 
 
 ## Maximize
@@ -115,11 +115,11 @@ Simulates keystrokes on web pages and windows.
 
 -   **Inputs**
 
-    [Keys](../reuse/application-level-method-parameters.md#common-parameter-inputs-keys)
+    [Keys](application-level-method-parameters.md#common-parameter-inputs-keys)
 
-    [ClearExistingValue \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-input-ClearExistingValue)
+    [ClearExistingValue \(Boolean\)](application-level-method-parameters.md#common-parameter-input-ClearExistingValue)
 
-    [TypeDelay](../reuse/application-level-method-parameters.md#common-parameter-input-typedelay)
+    [TypeDelay](application-level-method-parameters.md#common-parameter-input-typedelay)
 
 
 ## SetFields
@@ -142,13 +142,13 @@ Sets delay before a web page or a window loads.
 
 -   **Inputs**
 
-    [timeoutInSeconds](../reuse/application-level-method-parameters.md#common-parameter-input-timeoutInSeconds)
+    [timeoutInSeconds](application-level-method-parameters.md#common-parameter-input-timeoutInSeconds)
 
-    [MatchAllChildren](../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
+    [MatchAllChildren](application-level-method-parameters.md#common-parameter-input-matchallchildren)
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-output-Return-Boolean-waitforcreate)
+    [Return \(Boolean\)](application-level-method-parameters.md#common-parameter-output-Return-Boolean-waitforcreate)
 
 
 ## Element level methods
@@ -165,7 +165,7 @@ Checks whether an element matches the rules set in the MATCH CHILDREN window.
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/element-level-method-parameters.md#parameter-common-output-iscreated)
+    [Return \(Boolean\)](element-level-method-parameters.md#parameter-common-output-iscreated)
 
 
 ## SendKeys
@@ -174,18 +174,18 @@ Simulates keystrokes on web pages and windows.
 
 -   **Inputs**
 
-    [Keys \(String\)](../reuse/element-level-method-parameters.md#parameter-common-sendkeys-keys-string)
+    [Keys \(String\)](element-level-method-parameters.md#parameter-common-sendkeys-keys-string)
 
-    [ClearExistingValue](../reuse/element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
+    [ClearExistingValue](element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
 
-    [TypeDelay \(Double\)](../reuse/element-level-method-parameters.md#parameters-common-input-typedelay)
+    [TypeDelay \(Double\)](element-level-method-parameters.md#parameters-common-input-typedelay)
 
 
 ## SetPassword
 
 Automate entering password securely in the password field of a Windows application.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](configure-input-port-properties.md).
 
 <table id="table_jrs_nts_vzb"><thead><tr><th>
 
@@ -272,5 +272,5 @@ Yes
 **Tip:** If the **SetPassword** method fails to input the password in the password field, set the value to **True** and execute the method again.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Windows connector](../concept/windows-connector.md)
+</table>**Parent Topic:**[Windows connector](windows-connector.md)
 

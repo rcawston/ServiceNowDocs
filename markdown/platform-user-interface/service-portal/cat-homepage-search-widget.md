@@ -29,7 +29,7 @@ Alternatively, to navigate to a list of Service Catalog categories, users can se
 
 Use the instance options to configure the Catalog Homepage Search widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](enable-ais-sp.md).
 
 <table id="table_ydc_fpv_bkb"><thead><tr><th>
 
@@ -157,9 +157,9 @@ Configuration of the search bar. You configure the search bar by using the insta
 
 [SC Wish List Cart widget](sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

@@ -48,37 +48,37 @@ See [Contains queries and domain access](bp-contains-domain-visibility.md) for a
 
 The following diagram shows how the architecture process flows down to the child domains. ![Process flows down](../image/bp-architecture-down.png) ![Data rises up](../image/bp-architecture-up.png)
 
--   **[Domain separation value proposition](../reference/bp-dom-sep-value-prop.md)**  
+-   **[Domain separation value proposition](bp-dom-sep-value-prop.md)**  
 With domain separation, service providers can have a multitenant instance architecture that delivers offerings efficiently and securely to their clients. Strong universal process standards, data-driven process design, strict governance, and centralized administration help to maximize these benefits.
--   **[Definition of domain separation](../reference/bp-dom-sep-definition.md)**  
+-   **[Definition of domain separation](bp-dom-sep-definition.md)**  
 With domain separation \(also known as the ServiceNow® Multitenant Platform Architecture\), you can segregate application data, UI, and business logic in a single customer instance that supports hierarchical modeling with cross-tenant \(customer\) intelligence.
 
-**Parent Topic:**[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
-[Domain separation hierarchies](../reference/bp-domain-sep-hierarchies.md)
+[Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
 [Context and domain separation](bp-domain-sep-context.md)
 
-[Segregating and securing data with domain separation](../reference/bp-segregate-secure.md)
+[Segregating and securing data with domain separation](bp-segregate-secure.md)
 
-[Alternatives to domain separation](../reference/bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](../reference/bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](../reference/bp-advantages-dom-sep.md)
+[Benefits of domain separation](bp-advantages-dom-sep.md)
 
 [How a database query works with domain separation](bp-db-query-with-ds.md)
 
-[Domain separation levels of support](../reference/bp-domain-levels.md)
+[Domain separation levels of support](bp-domain-levels.md)
 
-[Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](../reference/bp-terms-conditions.md)
+[Domain separation terms](bp-terms-conditions.md)
 
-[Domain-separate a custom table](../reference/bp-ds-custom-table.md)
+[Domain-separate a custom table](bp-ds-custom-table.md)
 
 [Customizing domain properties and themes](bp-domain-prop-themes.md)
 
@@ -104,7 +104,7 @@ With domain separation \(also known as the ServiceNow® Multitenant Platform Arc
 
 [Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](../reference/bp-domain-assignment.md)
+[Domain assignments](bp-domain-assignment.md)
 
 [Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

@@ -115,5 +115,5 @@ If applicable, specify an existing service with this provider that uses identica
     A request type is the name of the report available for the provider. For more information, [Set up a request type for a provider](tprm-riskintelprvdr-request-type.md).
 
 
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 

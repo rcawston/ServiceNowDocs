@@ -29,7 +29,7 @@ CWM integrates with the broader ServiceNow AI Platform, connecting to other Serv
 
 |User|Description|
 |----|-----------|
-|Knowledge worker/Team member|Creates and manages tasks on Boards, collaborates on Docs, and tracks personal work in My Space. Uses [Now Assist for Collaborative Work Management \(CWM\)](../../now-assist-cwm/concept/now-assist-for-cwm-landing.md) to reduce manual overhead in task creation and formula building.|
+|Knowledge worker/Team member|Creates and manages tasks on Boards, collaborates on Docs, and tracks personal work in My Space. Uses [Now Assist for Collaborative Work Management \(CWM\)](../now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md) to reduce manual overhead in task creation and formula building.|
 |Project manager|Organizes work into Spaces and Boards, tracks progress across teams, and connects work to business goals and the Strategic Planning workspace.|
 |Agile practitioner|Plans and runs sprints, manages backlogs, generates scrum tasks from user stories, and tracks cross-team dependencies.|
 |SPM team member|Views and updates project and demand tasks from Project Workspace and Next Experience for Demand Management directly in CWM using the team member read or team member read-write role.|
@@ -165,7 +165,7 @@ Add calculated columns to the List view that automatically compute values from y
 
 </td><td>
 
-[Formula columns](../task/add-formula-column-cwm-boards.md)
+[Formula columns](add-formula-column-cwm-boards.md)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Reference live ServiceNow AI Platform records such as Incidents, Risks, or Issue
 
 </td><td>
 
-[Enable ServiceNow AI Platform records in CWM Docs](../task/enable-now-platform-servicenow-records-cwm-docs.md)
+[Enable ServiceNow AI Platform records in CWM Docs](enable-now-platform-servicenow-records-cwm-docs.md)
 
 </td><td>
 
@@ -237,7 +237,7 @@ Share Board data with stakeholders outside CWM or prepare for offline analysis a
 
 </td><td>
 
-[Export Board as CSV or Excel](../task/export-a-board-in-cwm-to-csv-or-excel.md)
+[Export Board as CSV or Excel](export-a-board-in-cwm-to-csv-or-excel.md)
 
 </td><td>
 
@@ -249,7 +249,7 @@ Share Doc content with stakeholders who don't have access to CWM by exporting pa
 
 </td><td>
 
-[Export Doc as PDF](../task/export-a-doc-in-cwm-to-a-pdf-file.md)
+[Export Doc as PDF](export-a-doc-in-cwm-to-a-pdf-file.md)
 
 </td><td>
 

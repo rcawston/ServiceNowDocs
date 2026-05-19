@@ -56,5 +56,5 @@ Role required: sn\_service\_desk\_agent
 
 ![Ai native incident form with no chat panel.](../image/incident-ai-native-itsm.png)
 
-**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](../concept/fulfiller-experience-ai-native-itsm.md)
+**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](fulfiller-experience-ai-native-itsm.md)
 

@@ -19,7 +19,7 @@ Integrate CrowdStrike Falcon Intelligence with Security Operations to enhance th
 
 The Threat Intelligence Security Center plugin is required to activate the CrowdStrike Falcon Intelligence integration.
 
--   **[Configure and enable CrowdStrike Falcon Intelligence integration](../task/crowdstrike-intelligence.md)**  
+-   **[Configure and enable CrowdStrike Falcon Intelligence integration](crowdstrike-intelligence.md)**  
 Set up CrowdStrike Falcon Intelligence integration to perform threat lookups on observables in Threat Intelligence Security Center.
 
 **Parent Topic:**[Threat Lookup](tisc-threat-lookup.md)

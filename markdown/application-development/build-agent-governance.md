@@ -29,7 +29,7 @@ Some ways that Build Agent enforces governance include:
 -   Apply code optimization and review before publishing.
 -   While creating agents and skills, Build Agent asks which users and roles it should operate as, as well as which users are allowed to access the agents or skills.
 
-For more information on governance, vibe coding and other ServiceNow development tools, see [Governance for vibe coding and AI-assisted app development](../../vibe-coding/concept/vc-governance.md).
+For more information on governance, vibe coding and other ServiceNow development tools, see [Governance for vibe coding and AI-assisted app development](vc-governance.md).
 
 **Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
 

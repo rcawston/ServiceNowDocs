@@ -23,19 +23,19 @@ The Self-Service application gives supported end users a clean, simple front end
 
 </td><td>
 
-[Configure Self-Service![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Use ServiceNow's web-based interface to add new items to a request.](../../service-catalog-requests/task/t_AddNewRequestItems.md)
+[Configure Self-Service![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Use ServiceNow's web-based interface to add new items to a request.](t_AddNewRequestItems.md)
 
 </td></tr><tr><td>
 
-[Explore Service Delegation![](../../../reuse/icons/brand-icons/bus-3-person.svg)Service delegation is the ability to designate other users to view and interact with approvals sent or tasks assigned to you](../concept/c_ServiceDelegation.md)
+[Explore Service Delegation![](../../../reuse/icons/brand-icons/bus-3-person.svg)Service delegation is the ability to designate other users to view and interact with approvals sent or tasks assigned to you](c_ServiceDelegation.md)
 
 </td><td>
 
-[Configure Service Delegation![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn how to delegate approvals and tasks to another user, configure your user profile form to display the Delegates related list.](../task/add-delegates-related-list.md)
+[Configure Service Delegation![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn how to delegate approvals and tasks to another user, configure your user profile form to display the Delegates related list.](add-delegates-related-list.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Self-service](r_EmployeeSelfService.md)**  
 The Self-Service application gives supported end users a clean, simple front end to their IT support organization.
 
-**Parent Topic:**[Manage service capabilities](../../../administer/general/concept/manage-services.md)
+**Parent Topic:**[Manage service capabilities](../manage-services.md)
 

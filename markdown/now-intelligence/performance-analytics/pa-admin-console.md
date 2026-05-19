@@ -54,14 +54,14 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
     Dashboards with statistics about data collection jobs and report usage.
 
     -   Use the **Data Collection Overview** dashboard to track and manage data collection. Note that data collection jobs are not run by default. dashboard widgets do not show data until you run the associated data collection jobs. For more information, see [Performance Analytics data collection and cleanup](c_ClctData.md).
-    -   Use the **Reports Usage** dashboard to track and manage report usage. For more information, see [Report statistics](../../reporting/concept/report-statistics.md#).
+    -   Use the **Reports Usage** dashboard to track and manage report usage. For more information, see [Report statistics](../reporting/report-statistics.md#).
 -   **![Red number 5 indicating the Advanced Configuration tile in the Admin console layout](../image/5.png)Advanced Configuration**
 
     Quick links to advanced configuration settings.
 
-    -   [Performance Analytics properties](../reference/pa-properties.md)
-    -   [Reporting properties](../../reporting/reference/reporting-properties.md)
-    -   [Responsive dashboard properties](../../dashboards/reference/dashboard-properties.md)
+    -   [Performance Analytics properties](pa-properties.md)
+    -   [Reporting properties](../reporting/reporting-properties.md)
+    -   [Responsive dashboard properties](dashboard-properties.md)
 -   **![Red number 6 indicating the Help tile in the Admin console layout](../image/6.png)Help**
 
     The community, product documentation, and the video tutorials on the ServiceNow YouTube channel provide additional insights into Performance Analytics functionality.
@@ -72,5 +72,5 @@ Users with the admin or pa\_admin roles can navigate to **Performance Analytics*
 **Related topics**  
 
 
-[Interactive Analysis information panel](../../dashboards/concept/interactive-analysis-info-panel.md#)
+[Interactive Analysis information panel](interactive-analysis-info-panel.md#)
 

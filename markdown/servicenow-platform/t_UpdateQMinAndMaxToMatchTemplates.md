@@ -36,7 +36,7 @@ When you create a question of the **Template** data type, the system sets the **
     **Note:** When the data type is **Template**, a UI policy prevents the editing of **Min** and **Max** from the form.
 
 
-**Parent Topic:**[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+**Parent Topic:**[Survey question template](c_SurveyQuestionTemplate.md)
 
 **Related topics**  
 

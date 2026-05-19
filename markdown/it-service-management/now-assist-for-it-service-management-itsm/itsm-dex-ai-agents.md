@@ -19,7 +19,7 @@ Use the Digital End-User Experience \(DEX\) agentic workflow to diagnose and res
 **Important:** To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
 -   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
--   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](../../digital-end-user-experience/task/install-app-device-health.md) and [Configuring Digital End-User Experience](../../digital-end-user-experience/concept/config-dex-console.md).
+-   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](../digital-end-user-experience-dex/install-app-device-health.md) and [Configuring Digital End-User Experience](../digital-end-user-experience-dex/config-dex-console.md).
 
 **Note:**
 

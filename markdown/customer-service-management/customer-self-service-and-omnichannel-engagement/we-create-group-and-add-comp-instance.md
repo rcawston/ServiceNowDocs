@@ -17,7 +17,7 @@ Create a group to model third-party website structure such as page or sections. 
 
 ## Before you begin
 
-You must create a module. For more information, see [Create a module](../concept/create-we-module.md).
+You must create a module. For more information, see [Create a module](create-we-module.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 

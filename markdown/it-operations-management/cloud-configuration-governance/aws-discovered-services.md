@@ -40,5 +40,5 @@ The Discovery process discovers AWS services.
 
 **Note:** The full list of classes/resources matching can be found in the Cloud Resource Types \[sn\_capi\_resource\_type\] table.
 
-**Parent Topic:**[Cloud accounts](../concept/cloud-accounts.md)
+**Parent Topic:**[Cloud accounts](cloud-accounts.md)
 

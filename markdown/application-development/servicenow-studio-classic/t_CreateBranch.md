@@ -19,7 +19,7 @@ Application developers can create a branch to work on a new version of an existi
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 -   Role required: admin or sn\_group\_creator.app\_creator
 -   [Legacy - Link an application or application-customization to source control](t_LinkAnApplicationToSourceControl.md)
@@ -49,5 +49,5 @@ Try building and editing apps in the current version of ServiceNow Studio instea
 
 Commit changes to the new branch.
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](c_SourceControlIntegration.md)
 

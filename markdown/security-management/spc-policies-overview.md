@@ -79,15 +79,15 @@ Activate the asset proﬁles and policies in the Security Posture Control worksp
 
 ## Creating your own policies
 
-See [Creating your own policies in the Security Posture Control application](../task/spc-creating-policies.md) for more information about how to create your own policies.
+See [Creating your own policies in the Security Posture Control application](spc-creating-policies.md) for more information about how to create your own policies.
 
 For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md).
 
-See [Create and activate custom policies for Security Posture Control](../task/spc-create-policy.md) for more information about the steps required to create a policy.
+See [Create and activate custom policies for Security Posture Control](spc-create-policy.md) for more information about the steps required to create a policy.
 
 ## Supported SGCs
 
-For a list of some of the supported service graph connectors, see [Supported hardware service graph connectors for Security Posture Control](../reference/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](../reference/spc-connector-types-ci-classes.md).
+For a list of some of the supported service graph connectors, see [Supported hardware service graph connectors for Security Posture Control](scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](spc-connector-types-ci-classes.md).
 
 ## Mitigation Controls policies
 

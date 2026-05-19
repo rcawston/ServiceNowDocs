@@ -33,7 +33,7 @@ When you deploy an app, the records are referenced in the Store Apps \[sys\_stor
 
 After you establish your instance strategy, you must also establish and automate your approval or review process. Creator Studio runs on your non-production environment, and admins then deploy apps to the production environment. For more information on the deployment process, see [Deploying your Creator Studio app](creator-studio-publishing-apps.md).
 
-If your organization has multiple non-production environments, you must decide which non-production environment Creator Studio will run on. You must also determine which pipeline to use for promoting apps from a particular non-production instance to your test instance, and then finally to production where the app will be running live. For more information, see [Pipelines and Deployments](../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md).
+If your organization has multiple non-production environments, you must decide which non-production environment Creator Studio will run on. You must also determine which pipeline to use for promoting apps from a particular non-production instance to your test instance, and then finally to production where the app will be running live. For more information, see [Pipelines and Deployments](../app-engine-management-center/manage-deployments-using-p-and-d-aemc.md).
 
 ## Catalog configuration requirement for Creator Studio
 

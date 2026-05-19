@@ -17,12 +17,12 @@ Network Frontiers Unified Compliance Framework \(UCF\) integrates with your Serv
 
 **Important:** Introduced in Kingston, UCF integration using the ServiceNow-provided Oauth client and the UCF Common Controls Hub is still supported; however, it is no longer the recommended method for integrating your instance with UCF. The preferred method is to configure the UCF integration using a UCF-supplied API key \(see link below\).
 
--   **[Activate Compliance UCF](../../grc-common/task/activate-grc-comp-ucf.md)**  
+-   **[Activate Compliance UCF](activate-grc-comp-ucf.md)**  
 The GRC: Compliance UCF \(com.sn\_comp\_ucf\) plugin is available as a separate subscription.
--   **[Configure the UCF integration using a UCF-supplied API key](../task/config_using_ucf_api_key.md)**  
+-   **[Configure the UCF integration using a UCF-supplied API key](config_using_ucf_api_key.md)**  
 UCF integrates with your ServiceNow instance through an authentication process which validates your subscription.
--   **[Configure the UCF integration using the UCF Common Controls Hub](../task/configure-UCF-integration.md)**  
+-   **[Configure the UCF integration using the UCF Common Controls Hub](configure-UCF-integration.md)**  
 Compliance administrators can download content from Network Frontiers Unified Compliance Framework \(UCF\) to use as GRC authority documents, citations, controls, and control objectives.
 
-**Parent Topic:**[Classic UI for Policy and Control Management](../../grc-policy-and-compliance/concept/using-policy-compliance-legacy-ui.md)
+**Parent Topic:**[Classic UI for Policy and Control Management](using-policy-compliance-legacy-ui.md)
 

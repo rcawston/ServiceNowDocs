@@ -39,7 +39,7 @@ Resolve issues as an ITSM professional with the itil role
 
 </td><td>
 
-[ITSM Fulfiller](../reference/itsm-va-fulfiller-topics.md)
+[ITSM Fulfiller](itsm-va-fulfiller-topics.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Automate common IT-related issues, such as email setup, VPN connectivity, and co
 
 </td><td>
 
-[ITSM IT Issues](../reference/itsm-va-it-issues-generic.md)
+[ITSM IT Issues](itsm-va-it-issues-generic.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Give users to access IT-related information, such as IT ticket management, verif
 
 </td><td>
 
-[ITSM Self-Service](../reference/itsm-va-self-service-topics.md)
+[ITSM Self-Service](itsm-va-self-service-topics.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Automate Citrix connections
 
 </td><td>
 
-[ITSM Self-Service \(with Citrix integration\)](../reference/manage-citrix-convo-flow.md)
+[ITSM Self-Service \(with Citrix integration\)](manage-citrix-convo-flow.md)
 
 </td><td>
 
@@ -136,7 +136,7 @@ Manage Microsoft Office 365 groups
 
 </td><td>
 
-[ITSM Self-Service \(with Microsoft Office 365 integration\)](../reference/manage-office-365-group-convo-flow-actions.md)
+[ITSM Self-Service \(with Microsoft Office 365 integration\)](manage-office-365-group-convo-flow-actions.md)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Manage Microsoft Active Directory groups
 
 </td><td>
 
-[ITSM Self-Service \(with Microsoft Active Directory integration\)](../reference/manage-microsoft-active-directory-actions.md)
+[ITSM Self-Service \(with Microsoft Active Directory integration\)](manage-microsoft-active-directory-actions.md)
 
 </td><td>
 
@@ -168,7 +168,7 @@ Automate meeting invitations in Microsoft Exchange Online
 
 </td><td>
 
-[ITSM Self-Service \(with Microsoft Exchange Online integration\)](../reference/manage-meeting-convo-flow.md)
+[ITSM Self-Service \(with Microsoft Exchange Online integration\)](manage-meeting-convo-flow.md)
 
 </td><td>
 
@@ -181,7 +181,7 @@ Automate meeting invitations in Microsoft Exchange Server
 
 </td><td>
 
-[ITSM Self-Service \(with Microsoft Exchange Server integration\)](../reference/exchange-server-convo-flow.md)
+[ITSM Self-Service \(with Microsoft Exchange Server integration\)](exchange-server-convo-flow.md)
 
 </td><td>
 
@@ -193,7 +193,7 @@ Manage virtual machines
 
 </td><td>
 
-[Cloud VMs](../reference/manage-virtual-machine.md)
+[Cloud VMs](manage-virtual-machine.md)
 
 </td><td>
 
@@ -211,36 +211,36 @@ Create a standard welcome greeting and a conversation closing, as well as user f
 
 </td><td>
 
-[Setup Topics](../reference/itsm-va-setup-topics.md)
+[Setup Topics](itsm-va-setup-topics.md)
 
 </td><td>
 
 Dynamic Greeting Topic
 
 </td></tr></tbody>
-</table>-   **[IT Issues pre-built topics for ITSM Virtual Agent](../reference/itsm-va-it-issues-generic.md)**  
+</table>-   **[IT Issues pre-built topics for ITSM Virtual Agent](itsm-va-it-issues-generic.md)**  
 IT Issues topic conversations are designed to automate common IT-related issues, such as email setup, VPN connectivity, and conference room problems.
--   **[Self-Service pre-built topics for ITSM Virtual Agent](../reference/itsm-va-self-service-topics.md)**  
+-   **[Self-Service pre-built topics for ITSM Virtual Agent](itsm-va-self-service-topics.md)**  
 Self-Service topic conversations are designed to give users to access IT-related information, such as open or check IT ticket status, verify assigned equipment, and Knowledge Base search.
--   **[Citrix session pre-built topics for ITSM Virtual Agent](../reference/manage-citrix-convo-flow.md)**  
+-   **[Citrix session pre-built topics for ITSM Virtual Agent](manage-citrix-convo-flow.md)**  
 Users can reset any Citrix desktop or application session using Virtual Agent conversation flows. Users can also provision a Citrix desktop or application.
 -   **[Password management topics for ITSM Virtual Agent](itsm-password-management.md)**  
 End users can perform password reset, password change, and account unlock actions using Virtual Agent conversations.
--   **[Microsoft Office 365 Group pre-built topics for ITSM Virtual Agent](../reference/manage-office-365-group-convo-flow-actions.md)**  
+-   **[Microsoft Office 365 Group pre-built topics for ITSM Virtual Agent](manage-office-365-group-convo-flow-actions.md)**  
 ITSM Virtual Agent helps you manage Microsoft Office 365 Groups using actions in conversation flows.
--   **[Microsoft Active Directory pre-built topics for ITSM Virtual Agent](../reference/manage-microsoft-active-directory-actions.md)**  
+-   **[Microsoft Active Directory pre-built topics for ITSM Virtual Agent](manage-microsoft-active-directory-actions.md)**  
 ITSM Virtual Agent helps you manage Microsoft Active Directory distribution lists using actions in conversation flows.
--   **[Microsoft Exchange Online meeting management pre-built topic for ITSM Virtual Agent](../reference/manage-meeting-convo-flow.md)**  
+-   **[Microsoft Exchange Online meeting management pre-built topic for ITSM Virtual Agent](manage-meeting-convo-flow.md)**  
 ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Online. Using the Manage Meetings EXO topic, you can schedule, reschedule, and cancel a meeting.
--   **[Microsoft Exchange Server meeting management pre-built topics for ITSM Virtual Agent](../reference/exchange-server-convo-flow.md)**  
+-   **[Microsoft Exchange Server meeting management pre-built topics for ITSM Virtual Agent](exchange-server-convo-flow.md)**  
 ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Server. Using the Manage Meetings EXS topic, you can schedule, reschedule, and cancel a meeting.
--   **[Virtual machine pre-built topics for ITSM Virtual Agent](../reference/manage-virtual-machine.md)**  
+-   **[Virtual machine pre-built topics for ITSM Virtual Agent](manage-virtual-machine.md)**  
 ITSM Virtual Agent helps you manage a virtual machine \(VM\) using conversation flows. With this conversation flow, you can start, stop, terminate, describe, and provision a virtual machine.
--   **[Pre-built setup topics for Virtual Agent](../reference/itsm-va-setup-topics.md)**  
+-   **[Pre-built setup topics for Virtual Agent](itsm-va-setup-topics.md)**  
 Use pre-built setup topics to create a standard welcome greeting and a conversation closing. In addition, setup topics can provide user feedback and surveys, as well as error handling.
--   **[Fulfiller pre-built topics for ITSM Virtual Agent](../reference/itsm-va-fulfiller-topics.md)**  
+-   **[Fulfiller pre-built topics for ITSM Virtual Agent](itsm-va-fulfiller-topics.md)**  
 Fulfiller topic conversations are designed specifically for ITSM professionals with the itil role. These pre-built topics include resolving an incident, creating a problem, and updating data in the system.
--   **[Reusable ITSM Virtual Agent pre-built topic blocks](../reference/itsm-va-topic-blocks.md)**  
+-   **[Reusable ITSM Virtual Agent pre-built topic blocks](itsm-va-topic-blocks.md)**  
 Reuse topic blocks to perform common functions in ITSM Virtual Agent conversations, such as creating an incident or performing a search.
 
 **Parent Topic:**[ITSM Virtual Agent](itsm-virtual-agent.md)

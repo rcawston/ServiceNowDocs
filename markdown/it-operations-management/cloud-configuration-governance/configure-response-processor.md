@@ -25,7 +25,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 After each step is completed, the datacenter sends a response to the ECC Queue of the MID Server. For example, if a user provisions a virtual server on an AWS datacenter, AWS sends information about the new virtual server to the ECC Queue. The system needs to create a CI in the CMDB for the virtual server. It does this using a response processor.
 
-Alternatively, you can use pattern-based targeted discovery to handle responses from the datacenters. For more information, see [Pattern-based targeted discovery](../concept/pattern-based-targeted-discovery.md#).
+Alternatively, you can use pattern-based targeted discovery to handle responses from the datacenters. For more information, see [Pattern-based targeted discovery](pattern-based-targeted-discovery.md#).
 
 **Note:** The resource type for which you are adding the response processor script must exist in the \[sn\_capi\_resource\_type\] table.
 
@@ -62,8 +62,8 @@ Alternatively, you can use pattern-based targeted discovery to handle responses 
 
 -   **[Execute response processor for subflow](create-response-processor.md)**  
 Execute a response processor for a subflow to get the subflow data back into a configuration item \(CI\). The response processor picks up the data, sends the data to the CMDB, which in turn puts the data in a CI.
--   **[Virtual server response processor example](../reference/response-processor-example.md)**  
+-   **[Virtual server response processor example](response-processor-example.md)**  
 The **Create\_Virtual\_Server\_Response\_Processor** script, which is available by default in Cloud Provisioning and Governance, is the response processor that handles the creation of AWS virtual machine CIs.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

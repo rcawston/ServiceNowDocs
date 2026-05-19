@@ -58,14 +58,14 @@ Inbound status
 
 
 </td></tr></tbody>
-</table>    **Warning:** If either status does not update to Active Replication, contact your Impact Customer Success Manager for further assistance. In some cases, you may be instructed to continue with the manual registration process. See [Initiate the connection to the Impact Delivery Instance with manual registration](../concept/initiate-the-connection-impact-delivery-instance.md) for manual registration.
+</table>    **Warning:** If either status does not update to Active Replication, contact your Impact Customer Success Manager for further assistance. In some cases, you may be instructed to continue with the manual registration process. See [Initiate the connection to the Impact Delivery Instance with manual registration](initiate-the-connection-impact-delivery-instance.md) for manual registration.
 
 
 ## What to do next
 
 [Initiate data migration from IDI](initiate-migration-idi.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Use automated registration to connect to the Impact Delivery Instance](start-automated-registration-IDI.md)
 

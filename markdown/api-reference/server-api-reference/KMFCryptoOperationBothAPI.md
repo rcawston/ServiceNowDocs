@@ -21,7 +21,7 @@ The KMFCryptoOperation object generated using this API represents a cryptographi
 
 You can use this API in both scoped and global applications. You must always specify the `sn_kmf_ns` namespace when calling this API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## KMFCryptoOperation - KMFCryptoOperation\(String cryptoModuleName, String operationName\)
 

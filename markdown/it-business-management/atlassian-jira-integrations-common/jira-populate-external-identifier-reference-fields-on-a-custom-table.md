@@ -49,7 +49,7 @@ Configure the form layout or personalize the list layout of your custom table to
 -   External Project
 -   External URL
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 
 **Related topics**  
 

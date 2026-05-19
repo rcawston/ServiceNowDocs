@@ -45,10 +45,10 @@ The Service Operations Workspace migration utility uses the following sequence t
 
 3.  Creates a mapping between filtered ribbon settings and Service Operations Workspace ribbon configuration in the Ribbon Configuration Setting \[sys\_ux\_ribbon\_config\_setting\] table.
 
--   **[Perform post-migration tasks for ribbons](../task/verify-migration-status-ribbons.md)**  
+-   **[Perform post-migration tasks for ribbons](verify-migration-status-ribbons.md)**  
 Verify that the ribbons in Service Operations Workspace \(SOW\) are consistent with the ribbons in ITSM Agent Workspace and the ribbons are ready for use in SOW. You can update the migrated ribbon settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

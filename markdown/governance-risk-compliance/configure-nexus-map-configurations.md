@@ -37,7 +37,7 @@ Role required: sn\_oper\_res.admin
 
     ![New record.](../image/nexus-map-new-record-empty.png)
 
-    For more information on the fields, see [Nexus map configuration form](../reference/nexus-map-configuration-form.md).
+    For more information on the fields, see [Nexus map configuration form](nexus-map-configuration-form.md).
 
 4.  Enter a unique name for the Nexus map configuration in the **Name** field.
 

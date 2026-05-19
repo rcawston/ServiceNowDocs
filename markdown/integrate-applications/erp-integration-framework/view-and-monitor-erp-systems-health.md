@@ -35,8 +35,8 @@ Role required: sn\_erp\_integration.erp\_admin
 
 4.  Check the retrieval and heartbeat information to confirm that the system has no connectivity issues.
 
-    For a description of the field values, see [Zero Copy Connector for ERP system list field descriptions](../reference/erp-canvas-system-list-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP system list field descriptions](erp-canvas-system-list-descriptions.md).
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](erp-canvas-work-with-systems.md)
 

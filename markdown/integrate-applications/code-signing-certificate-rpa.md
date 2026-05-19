@@ -26,7 +26,7 @@ Use mTLS authentication for client authentication and verify authenticity of the
     The code signing certificate is validated during the Unattended Robot and Attended Robot executions.
 
 
-If you set the **sn\_rpa\_fdn.code\_signing\_required** system property to true in the RPA Hub scoped application, a code signing certificate is required while publishing an automation project. For more information, see [Configure RPA Hub properties](../../rpa-hub/reference/rpahub-sys-properties.md) and [Publish an automation project in RPA Desktop Design Studio](../../rpa-studio/task/publish-automation-project.md).
+If you set the **sn\_rpa\_fdn.code\_signing\_required** system property to true in the RPA Hub scoped application, a code signing certificate is required while publishing an automation project. For more information, see [Configure RPA Hub properties](rpahub-sys-properties.md) and [Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md).
 
 Explore the following topics to generate a client authentication and a code signing certificate.
 
@@ -35,5 +35,5 @@ You can generate and install a user certificate for client authentication and co
 -   **[Exporting Microsoft Active Directory certificates](export-certificates-rpa.md#)**  
 You can export Microsoft Active Directory certificates, such as root, intermediate, and a client authentication certificate, for authentication purposes. You then register the exported root and intermediate certificate in the ServiceNow instance and map the exported client authentication certificate to the user.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](create-integrations-applications.md)
 

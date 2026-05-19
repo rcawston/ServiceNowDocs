@@ -26,7 +26,7 @@ Use this API to create up to 50 monitors per request. To create more than 50 mon
 
 This API requires the [Synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-landing-page.md) application \(com.snc.uib.sow\_synthetics\), which is available on the ServiceNow Store. The calling user must have the x\_snc\_sow\_synthetics.synthetics\_editor role. Before calling this API, at least one MID Server location must be configured for synthetic monitoring. For instructions, see [Create synthetic monitoring locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md). Additionally, configuration items \(CIs\) for the endpoints being monitored must exist in the [Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## SyntheticsBulkCreate - POST /sn\_sow\_synthetics/synthetics\_bulk\_create
 
@@ -79,7 +79,7 @@ correlation\_id
 
 </td><td>
 
-Required. Correlation identifier for tracking and telemetry that links all monitors created in the same request. You can use [gs.generateGUID\(\)](../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) to generate the id.
+Required. Correlation identifier for tracking and telemetry that links all monitors created in the same request. You can use [gs.generateGUID\(\)](../server-api-reference/c_GlideSystemScopedAPI.md#) to generate the id.
 
 Maximum length: 200 characters
 
@@ -311,7 +311,7 @@ Data type: String
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table id="table_anx_lhs_v3c" class="rest_api_request_headers"><thead><tr><th>
 
@@ -364,7 +364,7 @@ Data format of the request body. Only supports **application/json**.
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table><thead><tr><th>
 

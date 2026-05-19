@@ -60,7 +60,7 @@ DLP incident assessments help you identify potential threats and vulnerabilities
 10. After creating the different assessment questions for the first time, click **Save**, and then **Publish**.
 
 
-**Parent Topic:**[DLP Incident Response Administration](../concept/data-loss-prevention-administration.md)
+**Parent Topic:**[DLP Incident Response Administration](data-loss-prevention-administration.md)
 
 **Related topics**  
 
@@ -97,13 +97,13 @@ DLP incident assessments help you identify potential threats and vulnerabilities
 
 [Create additional incident data fields](create-custom-fields-dlp.md)
 
-[DLP SLA Definition form](../reference/dlp-sla-def-properties.md)
+[DLP SLA Definition form](dlp-sla-def-properties.md)
 
 [Configure advanced settings](configure-advanced-settings-dlp.md)
 
-[Monitor DLP Integration Run process](../../dlp-microsoft/concept/configure-microsoft-dlp-integration-run-process.md)
+[Monitor DLP Integration Run process](configure-microsoft-dlp-integration-run-process.md)
 
-[DLP Incident Access Restrictions](../concept/dlp-incident-access-restrictions.md)
+[DLP Incident Access Restrictions](dlp-incident-access-restrictions.md)
 
 [DLP Incidents Archival](dlp-archiving-rule.md)
 

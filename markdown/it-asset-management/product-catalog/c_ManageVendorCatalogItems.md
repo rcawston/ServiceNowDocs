@@ -19,13 +19,13 @@ An accurate and complete vendor catalog can make it easier to keep items in stoc
 
 You can link multiple vendor catalog items to a single [product catalog item](c_ManagingProductCatalogItems.md), which allows you to track information about a single item at different vendors.
 
-For example, for an iPhone 5 product catalog item, you can create separate vendor catalog items from Apple and from Amazon. Select the vendor with the best price when you [source](../../procurement/concept/c_SourcingRequestItems.md) an item. Users need the model\_manager role to work with vendor catalog items.
+For example, for an iPhone 5 product catalog item, you can create separate vendor catalog items from Apple and from Amazon. Select the vendor with the best price when you [source](../procurement/c_SourcingRequestItems.md) an item. Users need the model\_manager role to work with vendor catalog items.
 
 -   **[Synchronize information](c_SynchronizeInformation.md)**  
 Certain information is synchronized between models, product catalog items, and vendor catalog items.
--   **[Create a vendor catalog item](../task/t_CreateAVendorCatalogItem.md)**  
+-   **[Create a vendor catalog item](t_CreateAVendorCatalogItem.md)**  
 Create a vendor catalog item to associate product models with a vendor.
--   **[View a vendor list](../task/t_ViewAVendorList.md)**  
+-   **[View a vendor list](t_ViewAVendorList.md)**  
 You can view a list of vendors from the product catalog.
 
 **Parent Topic:**[Product Catalog](c_ProductCatalog.md)
@@ -33,7 +33,7 @@ You can view a list of vendors from the product catalog.
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
 
 [Models](c_Models.md)
 

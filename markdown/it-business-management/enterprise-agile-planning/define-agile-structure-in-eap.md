@@ -51,6 +51,6 @@ Based on your configuration, add entities such as Portfolios, Solutions Trains, 
     -   To a Solution Train, add Agile Release Trains \(ART\).
     -   To an ART, add Agile Teams.
 
-        The teams that you add as Agile Teams must be of the type **Agile**. If you need new teams or cannot find any existing teams, contact your admin. For more information, see [Assignment groups in Agile Development 2.0](../../agile-development/concept/manage-groups-agile-dev.md).
+        The teams that you add as Agile Teams must be of the type **Agile**. If you need new teams or cannot find any existing teams, contact your admin. For more information, see [Assignment groups in Agile Development 2.0](../agile-development/manage-groups-agile-dev.md).
 
 

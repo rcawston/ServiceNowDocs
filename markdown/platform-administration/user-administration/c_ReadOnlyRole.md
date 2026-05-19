@@ -33,7 +33,7 @@ Users with the snc\_read\_only role have the following restrictions regardless o
 
 **Note:** These role restrictions are in place even if impersonating another user with write access such as an admin.
 
-**Parent Topic:**[Base system roles](../../roles/reference/r_BaseSystemRoles.md)
+**Parent Topic:**[Base system roles](r_BaseSystemRoles.md)
 
 ## Activate the read-only role
 

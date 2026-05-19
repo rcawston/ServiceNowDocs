@@ -80,7 +80,7 @@ Role required: admin
 
 ## What to do next
 
-You can customize the fields displayed in approval notifications. For more information, see [Customizing approval notification fields](../concept/customizing-approval-notifications.md).
+You can customize the fields displayed in approval notifications. For more information, see [Customizing approval notification fields](customizing-approval-notifications.md).
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](../concept/sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md)
 

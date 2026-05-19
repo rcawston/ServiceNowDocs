@@ -216,7 +216,7 @@ Flow Discovery Scheduler \[sysauto\_script\_74c676f0dbb0220060ff742eaf9619f2\]
 
 </td><td>
 
-Runs every 10 minutes. Triggers the network flow discovery and writes the data into the \[sa\_flow\_connector\] table. This scheduled job is disabled by default. Enable this scheduled job to discover CIs using Netflow as described in [Data collection and discovery using Netflow](../concept/data-collection-netflow-mapping.md).
+Runs every 10 minutes. Triggers the network flow discovery and writes the data into the \[sa\_flow\_connector\] table. This scheduled job is disabled by default. Enable this scheduled job to discover CIs using Netflow as described in [Data collection and discovery using Netflow](data-collection-netflow-mapping.md).
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ Generate entry point candidates from netflow and netstat data \[sysauto\_script\
 
 </td><td>
 
-Runs daily. Scans the TCP Connection \[cmdb\_tcp\] table and uses this data to generate entry points and store them in the Candidate Entry Points \[sa\_cand\_entry\_point\] table. This scheduled job supports generating entry points necessary for [mapping multiple application services \(in bulk\)](../task/map-business-services-in-bulk.md). This scheduled job is enabled by default.
+Runs daily. Scans the TCP Connection \[cmdb\_tcp\] table and uses this data to generate entry points and store them in the Candidate Entry Points \[sa\_cand\_entry\_point\] table. This scheduled job supports generating entry points necessary for [mapping multiple application services \(in bulk\)](map-business-services-in-bulk.md). This scheduled job is enabled by default.
 
 </td></tr><tr><td>
 
@@ -421,7 +421,7 @@ Error EP AS Manual EP \[sa\_errors\_as\_manual\_ep\]
 
 </td><td>
 
-Contains data on errors that customers skip during the following procedure: [Skip errors to continue discovering an application service](../task/skip-errors-continue-discovery-individual-services.md).
+Contains data on errors that customers skip during the following procedure: [Skip errors to continue discovering an application service](skip-errors-continue-discovery-individual-services.md).
 
 </td></tr><tr><td>
 
@@ -1229,7 +1229,7 @@ sa\_ml.connection\_suggestions.active
 
 </td><td>
 
-Enable generation of the connection suggestions feature that is based on traffic-based discovery. Service Mapping generates connection suggestions using data analyzed by Predictive Intelligence. When this feature is enabled, you can [use connection suggestions to manage CI connections in application services](../task/add-remove-ci-connections-services.md).-   **Type**: boolean
+Enable generation of the connection suggestions feature that is based on traffic-based discovery. Service Mapping generates connection suggestions using data analyzed by Predictive Intelligence. When this feature is enabled, you can [use connection suggestions to manage CI connections in application services](add-remove-ci-connections-services.md).-   **Type**: boolean
 -   **Default value**: true
 
 **Note:** If traffic-based discovery was enabled in your deployment prior to Quebec and you used it to discover at least one application service, the default value is **false**.

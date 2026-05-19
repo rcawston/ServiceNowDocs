@@ -50,7 +50,7 @@ Role required: admin
 
 When the **Ingestion State** is **Indexed**, the AI search configuration is complete and you can login to the Workplace Service Delivery for Mobile app to search for campuses, buildings, and spaces using AI search.
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](configure-wsd-mobile.md)
 
 **Previous topic:**[Configure the Toggle map view property](configure-toggle-map-view.md)
 

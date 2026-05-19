@@ -29,10 +29,10 @@ Role required: You can edit any data visualization you own unless it is a shared
 4.  Select the information icon \(![Info icon](../../reporting/image/icon-info-ac.png)\) to edit name, description, certification, and requester information.
 
 
--   **[Data visualization details](../../performance-analytics/concept/data-visualization-details.md)**  
+-   **[Data visualization details](data-visualization-details.md)**  
 The Details pane gives you an overview of key information about the data visualization that you are currently editing.
 -   **[Certify a data visualization in the Visualization Designer](certify-dv-ac.md)**  
 Certify a data visualization to indicate that it is company-approved for reuse.
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

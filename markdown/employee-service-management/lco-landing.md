@@ -24,11 +24,11 @@ Through Legal Service Delivery \(LSD\) and Contract Management Pro \(CM Pro\) of
 
 <table id="table_dhh_5nz_sgc" class="nav-card presentation"><tbody><tr><td>
 
-[Contract Management Pro![](../../../reuse/icons/brand-icons/bus-contract.svg)Streamline your contract lifecycle with Contract Management Pro — bringing CLM capabilities, intelligent automation, and seamless integration into your workflow.](cncore-cmpro-landing-page.md)
+[Contract Management Pro![](../../../reuse/icons/brand-icons/bus-contract.svg)Streamline your contract lifecycle with Contract Management Pro — bringing CLM capabilities, intelligent automation, and seamless integration into your workflow.](contract-management-pro/cncore-cmpro-landing-page.md)
 
 </td><td>
 
-[Legal Service Delivery![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn how to automate or streamline routine legal requests to focus on higher value work.](../../legal-request-management/concept/legal-management-overview.md)
+[Legal Service Delivery![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn how to automate or streamline routine legal requests to focus on higher value work.](legal-service-delivery/legal-management-overview.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

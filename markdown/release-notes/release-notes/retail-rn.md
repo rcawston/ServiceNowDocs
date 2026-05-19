@@ -57,5 +57,5 @@ Install the Retail applications by requesting them from the ServiceNow Store. Vi
     The ServiceNow ® Field Service Management application aligns with Retail Core by providing capabilities such as work orders for use by each retail location that uses the Retail Core application.
 
 
-**Parent Topic:**[Features and changes by product](new-features-changes.md)
+**Parent Topic:**[Features and changes by product](../new-features-changes.md)
 

@@ -19,12 +19,12 @@ Use News articles to keep employees updated on company news and announcements.
 
 -   Role required: sn\_cd.content\_manager
 -   To publish large quantities of news articles, create a Content template before you create news articles. See [Create a Content template](ec-create-content-template.md)
--   You can assign one or more content categories to the news article so employees can filter news articles by category. See [Create a content category](../concept/ec-content-cat.md).
--   Social engagement settings enable employees to view page count, select a reaction icon, or leave a comment. See [Content engagement](../concept/ec-content-engagement.md)
+-   You can assign one or more content categories to the news article so employees can filter news articles by category. See [Create a content category](ec-content-cat.md).
+-   Social engagement settings enable employees to view page count, select a reaction icon, or leave a comment. See [Content engagement](ec-content-engagement.md)
 
 ## About this task
 
-The news article content type is built using the Rich Content Editor and published to the employee portal via news widgets. For an overview of News articles, see [News articles](../concept/ec-news-articles.md).
+The news article content type is built using the Rich Content Editor and published to the employee portal via news widgets. For an overview of News articles, see [News articles](ec-news-articles.md).
 
 ## Procedure
 
@@ -116,7 +116,7 @@ Article content
 
 </td><td>
 
-Link to assemble the body of the news article in the Rich Content editor. See [Microsites](../concept/ec-rich-content.md)
+Link to assemble the body of the news article in the Rich Content editor. See [Microsites](ec-rich-content.md)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Use a content template \(Optional\)
 
 </td><td>
 
-Option to use a preconfigured template which provides a content layout and generates a publish plan. See [Content templates](../concept/ec-content-templates.md)
+Option to use a preconfigured template which provides a content layout and generates a publish plan. See [Content templates](ec-content-templates.md)
 
 </td></tr><tr><td>
 

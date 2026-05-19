@@ -27,7 +27,7 @@ Only users with access to the cryptographic module used in this configuration ca
 -   If a user has read access but not write access, the field displays the decrypted data in read-only mode.
 -   If a user has all access, both read/write functionality is available on the encrypted field.
 
-See [Create a cryptographic module](../../key-management-framework/task/create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](../../key-management-framework/task/create-PE-cryptographic-module.md) to begin.
+See [Create a cryptographic module](platform-encryption/create-cryptographic-module.md) or [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md) to begin.
 
 You can create configurations in various ways:
 
@@ -143,5 +143,5 @@ Indicates if the crypto module that you selected is already configured to suppor
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](field-encryption-key-management.md)
 

@@ -52,7 +52,7 @@ It also provides the requester with the option to submit a question to the procu
 
 **Note:** You can ask a question to the procurement team, and create a corresponding procurement case, only if you have the sn\_spend\_psd.requestor role. Verify that your administrator has assigned that role to you.
 
-To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](../task/order-a-product.md) and [Complete sourcing checkout](../task/complete-sourcing-checkout.md). For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md).
+To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](order-a-product.md) and [Complete sourcing checkout](complete-sourcing-checkout.md). For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md).
 
 ## Using a predefined topic to track requests
 
@@ -124,20 +124,20 @@ As an administrator, you can use the Now Assist in Virtual Agent Analytics dashb
 
 For detailed information on Now Assist in Virtual Agent in general, and Now Assist for SPO in particular, see [Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-exploring.md).
 
-For information on configuring Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md).
+For information on configuring Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md).
 
 **Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-using.md)
 
 **Related topics**  
 
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](../task/now-assist-spo-summarize-record.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](now-assist-spo-summarize-record.md)
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](../task/now-assist-spo-summarize-shopping.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)
 
-[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](../task/request-gen-ai-capabilities-spo-now-assist-panel.md)
+[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)
 
-[Generate email responses](../task/email-response-na-spo.md)
+[Generate email responses](email-response-na-spo.md)
 
-[Analyze sentiment in procurement cases](../task/analyze-sentiments-na-spo.md)
+[Analyze sentiment in procurement cases](analyze-sentiments-na-spo.md)
 

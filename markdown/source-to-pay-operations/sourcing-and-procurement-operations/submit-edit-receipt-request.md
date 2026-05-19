@@ -55,5 +55,5 @@ Role required: sn\_shop.shopper
 -   Shoppers can review the request details from **ShoppingHub** &gt; **** &gt; **My purchases**, accessed from the profile image or from the footer.
 -   Buyers can track the progress of the procurement case and procurement case line requests from **Source-to-Pay Workspace**.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

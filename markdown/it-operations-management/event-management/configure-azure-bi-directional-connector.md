@@ -19,7 +19,7 @@ The Azure Monitor Pull connector sends information from ServiceNow Event Managem
 
 Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
-When an alert is triggered in the Azure Portal a Secure Webhook is created to send the alert notifications into ServiceNow. The [Azure Monitor Connector](../concept/azure-integration.md) will receive the alert notification as an event in the ServiceNow instance.
+When an alert is triggered in the Azure Portal a Secure Webhook is created to send the alert notifications into ServiceNow. The [Azure Monitor Connector](azure-integration.md) will receive the alert notification as an event in the ServiceNow instance.
 
 The Azure Monitor Bi-directional connector is supported in the following ServiceNow AI Platform versions:
 
@@ -86,5 +86,5 @@ Multiple alerts from the Azure Portal may be mapped to a single ServiceNow alert
         -   If you want to close or acknowledge an open ServiceNow alert in 30 days, you will be able to close or acknowledge all corresponding Azure alerts on the Azure Portal.
         -   If you want to close or acknowledge an open ServiceNow alert after 30 days, you will not be able to close or acknowledge all corresponding Azure alerts on the Azure Portal.
 
-**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](../concept/azure-integration.md)
+**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](azure-integration.md)
 

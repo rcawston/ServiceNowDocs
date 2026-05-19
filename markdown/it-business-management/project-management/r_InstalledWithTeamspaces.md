@@ -164,14 +164,14 @@ The teamspace application uses the same views that are provided in the Project, 
 
 **Note:** Default client scripts that these base applications use are inherited by the extended tables in the teamspace application. If you created custom client scripts for any of the base applications, select the **Inherited** options on each Client Script form before you create the teamspace.
 
-**Parent Topic:**[Using Teamspaces in Project Management](../concept/c_Teamspaces.md)
+**Parent Topic:**[Using Teamspaces in Project Management](c_Teamspaces.md)
 
 **Related topics**  
 
 
-[Activate teamspaces](../task/t_ActivateTeamspaces.md)
+[Activate teamspaces](t_ActivateTeamspaces.md)
 
 [Configure teamspace settings](t_EnableATeamspace.md)
 
-[Using Teamspaces in Project Management](../concept/c_Teamspaces.md)
+[Using Teamspaces in Project Management](c_Teamspaces.md)
 

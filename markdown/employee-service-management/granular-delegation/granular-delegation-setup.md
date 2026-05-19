@@ -17,14 +17,14 @@ Set up Granular Delegation so your employees can delegate their tasks to other e
 
 ## Configuration steps
 
-1.  [Activate Granular Delegation](../task/activate-granular-delegation.md)
-2.  Define what tasks can be delegated by adding the table that holds the tasks: [Add delegation rule tables](../task/add-delegation-rules-tables.md)
-3.  For each delegation table: [Create delegation rules](../task/create-delegation-rules.md)
-4.  Define the users that can delegate tasks and to whom they can be delegated: [Create a delegate](../task/create-delegation-admin.md)
+1.  [Activate Granular Delegation](activate-granular-delegation.md)
+2.  Define what tasks can be delegated by adding the table that holds the tasks: [Add delegation rule tables](add-delegation-rules-tables.md)
+3.  For each delegation table: [Create delegation rules](create-delegation-rules.md)
+4.  Define the users that can delegate tasks and to whom they can be delegated: [Create a delegate](create-delegation-admin.md)
 
 ## Installed with Granular Delegation
 
-Activate the Granular Delegation plugin \(com.glide.granular\_service\_delegation\) for the ServiceNow AI Platform if you have the admin role. For more information, see [Activate Granular Delegation](../task/activate-granular-delegation.md).
+Activate the Granular Delegation plugin \(com.glide.granular\_service\_delegation\) for the ServiceNow AI Platform if you have the admin role. For more information, see [Activate Granular Delegation](activate-granular-delegation.md).
 
 Granular delegation has separate records for specifying a delegate and specifying what content the delegate can access. You create a Delegate record each time you want to delegate your service tasks to another user.
 
@@ -36,7 +36,7 @@ Administrators create delegation rules to allow the delegation of specific recor
 
 -   **User Criteria \(user\_criteria\)**
 
-    Granular delegation can use the User Criteria \(user\_criteria\) table to determine who can be a delegate or a delegator. For more information, see [Create delegation rules](../task/create-delegation-rules.md).
+    Granular delegation can use the User Criteria \(user\_criteria\) table to determine who can be a delegate or a delegator. For more information, see [Create delegation rules](create-delegation-rules.md).
 
 -   **System properties**
 

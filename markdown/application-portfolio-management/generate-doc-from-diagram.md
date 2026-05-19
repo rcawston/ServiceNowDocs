@@ -28,12 +28,12 @@ Generating documents from diagrams helps you to:
 -   Provides portfolio‑level visibility of diagram‑generated documents
 -   Supports review, approval, and distribution workflows
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
-[Generate a document from a diagram](../../task/eaw-task/create-documents-for-diagrams.md)
+[Generate a document from a diagram](create-documents-for-diagrams.md)
 
-[View documents for a diagram](../../task/eaw-task/view-docs-for-diagram.md)
+[View documents for a diagram](view-docs-for-diagram.md)
 

@@ -34,5 +34,5 @@ The ITSM Notifications Redirection \(com.snc.itsm.notifications\_redirection\) p
 -   The **Redirect SOW Email notification for Major Incident Management** \(**sn\_major\_inc\_mgmt.sow\_email\_notification\_redirect.mim**\) property is set to `true`.
 -   You have the sn\_sow.sow\_user role.
 
-**Parent Topic:**[View incident notifications](../task/t_ViewIncidentNotification.md)
+**Parent Topic:**[View incident notifications](t_ViewIncidentNotification.md)
 

@@ -101,7 +101,7 @@ Plan, prioritize, and roadmap the work in your programs.
 </td></tr></tbody>
 </table>You can work with your administrator to modify the structure for these pre-defined lenses. For more information, see [Configuring lens in Portfolio Planning](configuring-lens-in-portfolio-planning.md).
 
-Start creating portfolio plans to improve the alignment of your work with the business strategy. See [Create a portfolio plan](../task/create-portfolio-plan-in-portfolio-planning-workspace.md).
+Start creating portfolio plans to improve the alignment of your work with the business strategy. See [Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
 
 **Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
 

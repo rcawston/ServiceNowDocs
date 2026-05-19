@@ -32,10 +32,10 @@ In Localization Framework, the state of a localization project or of a task defi
 |In Progress|Translation of localization tasks is in progress.|
 |Under Review|Approver is reviewing the translations.|
 
-**Parent Topic:**[Localization Framework reference](../concept/reference-localization-framework.md)
+**Parent Topic:**[Localization Framework reference](reference-localization-framework.md)
 
 **Related topics**  
 
 
-[Localization Workspace Home and translation job status](../../localization-workspace/concept/lw-status-synchronization.md)
+[Localization Workspace Home and translation job status](../localization-workspace/lw-status-synchronization.md)
 

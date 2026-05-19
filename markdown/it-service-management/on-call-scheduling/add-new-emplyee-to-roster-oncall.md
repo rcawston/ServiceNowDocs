@@ -97,5 +97,5 @@ Roster from which you navigated to the form.
     **Note:** For a returning employee: The instance displays two shift member records for the same employee with different start and end validity dates.
 
 
-**Parent Topic:**[Managing roster members](../concept/managing-roster-members.md)
+**Parent Topic:**[Managing roster members](managing-roster-members.md)
 

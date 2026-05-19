@@ -62,5 +62,5 @@ Role required: none.
         ```
 
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

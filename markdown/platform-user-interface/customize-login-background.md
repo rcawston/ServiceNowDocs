@@ -66,5 +66,5 @@ The background illustration that you upload automatically scales to fit the scre
 
 Log out of your experience to view the new login page background.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
 

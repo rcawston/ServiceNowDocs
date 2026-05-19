@@ -30,7 +30,7 @@ The following items are installed with Financial Services Business Lifecycle:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Financial Services Business Lifecycle](../reference/installed-with-business-lifecycle.md).
+For more information, see [Components installed with Financial Services Business Lifecycle](installed-with-business-lifecycle.md).
 
 ## Procedure
 
@@ -53,5 +53,5 @@ For more information, see [Components installed with Financial Services Business
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install Financial Services Customer Lifecycle Operations](../concept/set-up-customer-lifecycle-ops.md)
+**Parent Topic:**[Install Financial Services Customer Lifecycle Operations](set-up-customer-lifecycle-ops.md)
 

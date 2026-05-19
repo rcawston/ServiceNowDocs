@@ -34,7 +34,7 @@ The Case lines and workflows application \(com.sn\_case\_line\) enables the Case
 
 The case lines and workflows application includes a Case Line Items list view in the Core UI. To access the Case Line Items list, navigate to **All** &gt; **Customer Service** &gt; **Cases** &gt; **All Line Items**.
 
-The Case lines and workflows application also includes tables and roles. For more information, see [Components installed with Case lines and workflows](../reference/csm-case-mgmt-case-lines-install-comp.md).
+The Case lines and workflows application also includes tables and roles. For more information, see [Components installed with Case lines and workflows](csm-case-mgmt-case-lines-install-comp.md).
 
 The Case lines and workflows application is available from the ServiceNow Store.
 
@@ -47,11 +47,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 [Order case pages](csm-case-mgmt-order-ops-case-page.md)
 
-[Case line item form](../reference/case-line-form.md)
+[Case line item form](case-line-form.md)
 
-[Case line task form](../reference/case-line-task-form.md)
+[Case line task form](case-line-task-form.md)
 
-[Case line characteristic form](../reference/case-line-characteristics-form.md)
+[Case line characteristic form](case-line-characteristics-form.md)
 
-[Case line entitlement form](../reference/case-line-entitlements-form.md)
+[Case line entitlement form](case-line-entitlements-form.md)
 

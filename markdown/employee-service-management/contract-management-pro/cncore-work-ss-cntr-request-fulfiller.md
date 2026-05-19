@@ -117,7 +117,7 @@ Communicate with stakeholders via email. For more information, see [Send email t
 
 </td><td>
 
-Use Now Assist to analyze the contract documents to identify the non-standard and missing clauses. For more information, see [Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md).
+Use Now Assist to analyze the contract documents to identify the non-standard and missing clauses. For more information, see [Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md).
 
 </td></tr><tr><td id="d695545e289">
 
@@ -125,7 +125,7 @@ Use Now Assist to analyze the contract documents to identify the non-standard an
 
 </td><td>
 
-Send the document for a signature. For more information, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md).
+Send the document for a signature. For more information, see [Signature workflow for a contract request](cncore-signature-workflow.md).
 
 </td></tr><tr><td id="d695545e307">
 
@@ -139,5 +139,5 @@ Cancel a request:-   On the contract request page, from the Actions menu, select
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](../employee-service-management/cncore-request-ss-contract-1.md)
 

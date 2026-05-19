@@ -30,5 +30,5 @@ Role required: admin
 
 ## What to do next
 
-After Major Incident Management has been activated, you can configure the available features by selecting the Configure option, which redirects you to the **Configuration** tab of the Admin Center. For more information, see [Configuring Major Incident Management in Service Operations Workspace](../concept/configuring-mim-in-sow.md).
+After Major Incident Management has been activated, you can configure the available features by selecting the Configure option, which redirects you to the **Configuration** tab of the Admin Center. For more information, see [Configuring Major Incident Management in Service Operations Workspace](configuring-mim-in-sow.md).
 

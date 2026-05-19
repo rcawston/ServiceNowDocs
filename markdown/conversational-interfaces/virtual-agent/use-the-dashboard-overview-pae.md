@@ -17,7 +17,7 @@ Use the Conversational Analytics dashboard to get insights into Virtual Agent \(
 
 The following sections explain how to use the dashboard to investigate VA interactions with users. You must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role to use the Conversational Analytics dashboard.
 
--   **[Set the date range of the data](../task/use-the-dashboad-pae.md)**  
+-   **[Set the date range of the data](use-the-dashboad-pae.md)**  
 Set the date range using the date picker on the Overview tab to view the data visualizations for the specified date range. The date range set on this tab applies to all the other tabs on the dashboard.
 -   **[Overview tab](overview-tab-pae.md)**  
 Use the Overview tab to view key indicators that help you evaluate the performance of Virtual Agent.

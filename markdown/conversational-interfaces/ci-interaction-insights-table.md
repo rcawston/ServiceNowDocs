@@ -79,5 +79,5 @@ User Type
 Type of user. For example, **Agent**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Conversational Interfaces reference](../concept/ci-reference-parent.md)
+</table>**Parent Topic:**[Conversational Interfaces reference](ci-reference-parent.md)
 

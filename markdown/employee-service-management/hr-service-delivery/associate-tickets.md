@@ -41,5 +41,5 @@ Logged in user is the member of the **Assignment group** or **Assigned to** fiel
     A ticket is created for another department. This ticket is automatically tied to a universal request and appears in the **Associated Tickets** related list in a universal request.
 
 
-**Parent Topic:**[Universal Request for HR Service Delivery](../concept/universal-request-hr.md)
+**Parent Topic:**[Universal Request for HR Service Delivery](universal-request-hr.md)
 

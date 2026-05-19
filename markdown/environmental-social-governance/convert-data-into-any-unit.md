@@ -42,5 +42,5 @@ The preferred reporting unit for any data is specified in a metric definition. W
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

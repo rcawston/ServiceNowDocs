@@ -42,5 +42,5 @@ When a payment inquiry request is submitted, the inquiry case is automatically a
 
 The case is assigned to an inquiry agent. If the agent also belongs to an agent assignment group, the group's name appears in the **Assignment group** field.
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

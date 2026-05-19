@@ -136,9 +136,9 @@ Click the **Edit in Process Automation Designer** button to define and publish t
 **Related topics**  
 
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](gss-guided-self-service-reference-info.md)
 
 [Associate Guided Self-Service Process to a topic](associate-gss-guided-process-to-topic.md)
 
-[Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

@@ -21,7 +21,7 @@ In addition to storing information on a user, user accounts are also associated 
 
 -   **Impersonation**
 
-    Administrators can select user records for impersonation. Use this feature to experience the instance as another user, with that user's preferences and permissions. User impersonation can be a valuable tool for testing and troubleshooting. For more information on impersonation, see [Impersonating users](../../users-and-groups/concept/c_ImpersonateAUser.md).
+    Administrators can select user records for impersonation. Use this feature to experience the instance as another user, with that user's preferences and permissions. User impersonation can be a valuable tool for testing and troubleshooting. For more information on impersonation, see [Impersonating users](c_ImpersonateAUser.md).
 
 -   **Investigating user account activity**
 
@@ -35,17 +35,17 @@ In addition to storing information on a user, user accounts are also associated 
 
 -   **User sessions**
 
-    With user session management, and administrator can view and terminate individual user sessions, lock out users from the instance, and make users inactive. For details on managing user sessions, see [Managing user sessions](../../user-sessions/concept/c_ManageUserSessions.md#).
+    With user session management, and administrator can view and terminate individual user sessions, lock out users from the instance, and make users inactive. For details on managing user sessions, see [Managing user sessions](c_ManageUserSessions.md#).
 
     User records are also associated with transaction logs. Administrators can use these logs to track all browser activity for an instance.
 
 
--   **[Impersonating users](../../users-and-groups/concept/c_ImpersonateAUser.md)**  
+-   **[Impersonating users](c_ImpersonateAUser.md)**  
 Administrators are able to impersonate other authenticated users, a feature primarily used for testing.
--   **[Managing user sessions](../../user-sessions/concept/c_ManageUserSessions.md#)**  
+-   **[Managing user sessions](c_ManageUserSessions.md#)**  
 The ServiceNow AI Platform provides the ability to view and terminate individual user sessions, lock out users from the system, and make users inactive.
--   **[Non-interactive sessions](../../users-and-groups/concept/c_NonInteractiveSessions.md#)**  
+-   **[Non-interactive sessions](c_NonInteractiveSessions.md#)**  
 The Non-Interactive Sessions plugin creates a distinction between interactive and non-interactive users.
 
-**Parent Topic:**[Configure ServiceNow AI Platform core features](../../general/concept/config-now-platform-core-features.md)
+**Parent Topic:**[Configure ServiceNow AI Platform core features](../config-now-platform-core-features.md)
 

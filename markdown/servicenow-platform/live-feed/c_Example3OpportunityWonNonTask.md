@@ -15,7 +15,7 @@ breadcrumb: [Live Feed table notification examples, Live Feed table notification
 
 This example demonstrates a table notification on a non-task table. It generates an automatic message on Live Feed whenever a sales opportunity is won, if you have activated the Sales Force Automation plugin.
 
-Create a [business rule](../task/t_SetUpTableNotifNonTaskTables.md) on the Opportunity \[sales\_opportunity\] table that matches the **Live Feed events** business rule on the task table.
+Create a [business rule](t_SetUpTableNotifNonTaskTables.md) on the Opportunity \[sales\_opportunity\] table that matches the **Live Feed events** business rule on the task table.
 
 Create a table notification with the following values:
 

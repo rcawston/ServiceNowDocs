@@ -31,11 +31,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Use ![Work on integrating ServiceNow with Oracle HCM Cloud](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work on integrating ServiceNow with Oracle HCM Cloud.](../task/using-hrsd-int-oracle-clud-hcm.md)
+[Use ![Work on integrating ServiceNow with Oracle HCM Cloud](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work on integrating ServiceNow with Oracle HCM Cloud.](using-hrsd-int-oracle-clud-hcm.md)
 
 </td><td>
 
-[Reference ![Get details about components like fields, tables, and properties](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/reference-hrsd-int-oracle-cloud-hcm.md)
+[Reference ![Get details about components like fields, tables, and properties](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](reference-hrsd-int-oracle-cloud-hcm.md)
 
 </td></tr></tbody>
 </table>

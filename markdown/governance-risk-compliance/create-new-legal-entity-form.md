@@ -385,5 +385,5 @@ Risk intelligence rating
 Score that reflects the probability and impact of a risk event. This field is auto-filled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a legal entity and enhance digital resilience data](../task/create-legal-entity.md)
+</table>**Parent Topic:**[Create a legal entity and enhance digital resilience data](create-legal-entity.md)
 

@@ -108,10 +108,10 @@ Unique description for the new enrichment integration.
     **Note:** You can also enable, disable, or delete an enrichment integration using the Actions menu on the integration tile.
 
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](tisc-enrichment-integrations.md)
 
 **Related topics**  
 
 
-[TISC Security Tools integrations](../concept/tisc-edr-integrations.md)
+[TISC Security Tools integrations](tisc-edr-integrations.md)
 

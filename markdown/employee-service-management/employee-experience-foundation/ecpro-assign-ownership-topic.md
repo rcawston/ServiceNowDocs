@@ -19,11 +19,11 @@ Assign ownership of a taxonomy topic to give a user or group with the content ma
 
 Role required: sn\_cd.content\_admin
 
-Ensure **Yes** is checked under **Allow Ownership for Topics** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+Ensure **Yes** is checked under **Allow Ownership for Topics** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
 ## About this task
 
-The Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, quick links, learning content, and employee communications. For more information, see [Unified Taxonomy for Employee Center](../concept/config-taxonomy.md).
+The Unified Taxonomy is a collection of hierarchical topics that brings together different content types, such as requests, articles, quick links, learning content, and employee communications. For more information, see [Unified Taxonomy for Employee Center](config-taxonomy.md).
 
 ## Procedure
 

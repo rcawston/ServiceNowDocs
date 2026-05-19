@@ -76,5 +76,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 13. In Action 21, a response task is created to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Possible Password Spray](../concept/playbook-possible-password-spray.md)
+**Parent Topic:**[Playbook for Possible Password Spray](playbook-possible-password-spray.md)
 

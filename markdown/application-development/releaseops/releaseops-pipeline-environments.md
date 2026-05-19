@@ -26,7 +26,7 @@ ReleaseOps includes sample playbooks to that include basic pipeline structure an
 |Playbook|Stage|Description|
 |--------|-----|-----------|
 |Deployment request assessment playbook|Assessment stage for a standard/scheduled release|Moves update sets in deployment request to the test instance and executes defined Automated Test Framework \(ATF\) tests \(as specified in the deployment request and the pipeline\).|
-|On-demand deployment request assessment playbook|Assessment stage for an on-demand release|Runs the deployment analyzer and Instance Scan with [sample rules](../reference/deployment-analyzer-rules.md) to either enable or deny an on-demand deployment. Doesn’t run any ATF tests.|
+|On-demand deployment request assessment playbook|Assessment stage for an on-demand release|Runs the deployment analyzer and Instance Scan with [sample rules](deployment-analyzer-rules.md) to either enable or deny an on-demand deployment. Doesn’t run any ATF tests.|
 |Release deployment playbook|Release stage|Prepares a release, including moving deployment requests that aren’t ready out of the release and calculating update set ordering. Used for both on-demand and scheduled releases.|
 
 A pipeline maps intermediate instances to the playbook. For example, the sample playbooks reference a test instance, which must be mapped to a physical deployment instance. The actual pipeline runs from the source instance specified in the deployment request, to the destination instance specified in the release. Intermediate instances \(such as test\) are defined in the pipeline. ATF test suites can also be specified at the pipeline level to enforce a given list of tests to be run when a given pipeline is used.

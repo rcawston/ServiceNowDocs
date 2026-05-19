@@ -99,9 +99,9 @@ Alias to use the credential.
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Parent Topic:**[Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 
-**Previous topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Previous topic:**[Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 
 **Next topic:**[Create a connection for the MicrosoftTranslation alias](create-connection-ms-translation.md)
 

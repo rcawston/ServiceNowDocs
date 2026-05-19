@@ -136,5 +136,5 @@ Tracks individual social benefit items received by constituents, noting benefit 
 Install Base Item \(sn\_install\_base\_item\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services Grants Management Data Model](../concept/psds-data-model-gm.md)
+</table>**Parent Topic:**[Public Sector Digital Services Grants Management Data Model](psds-data-model-gm.md)
 

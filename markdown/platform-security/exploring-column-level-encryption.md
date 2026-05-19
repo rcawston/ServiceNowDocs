@@ -205,9 +205,9 @@ Updated `getDisplayValue()` and `setDisplayValue()` APIs
 security admin, developer
 
 </td></tr></tbody>
-</table>-   **[Column Level Encryption Guided Tour](../task/cle-tour.md)**  
+</table>-   **[Column Level Encryption Guided Tour](cle-tour.md)**  
 The tour gives a brief overview of the Column Level Encryption setup needed to encrypt table fields or attachments.​ Steps for the creation of Field Encryption Modules, Module Access Policies, and Encrypted Field Configurations are also covered. The tour includes links to detailed documentation and the ServiceNow University Column Level Encryption Overview course.​
--   **[Column Level Encryption Enterprise](../../now-platform-encryption/concept/now-platform-encryption-2.md)**  
+-   **[Column Level Encryption Enterprise](now-platform-encryption-2.md)**  
 Column Level Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Column Level Encryption Enterprise.
 
 **Parent Topic:**[Column Level Encryption](column-level-encryption-landing.md)

@@ -28,7 +28,7 @@ However, knowledge managers can configure User Criteria to restrict access to ce
 **Note:**
 
 -   If the article versioning feature is enabled, the author cannot edit the article if it is already checked out by the contributor. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can disable the article versioning feature by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
--   If an ownership group is associated with a knowledge article, the author or reviser of the article can't contribute to the article after the article is published. An administrator can override this behavior by enabling the **glide.knowman.ownership\_group.override** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+-   If an ownership group is associated with a knowledge article, the author or reviser of the article can't contribute to the article after the article is published. An administrator can override this behavior by enabling the **glide.knowman.ownership\_group.override** property. For more information, see [Ownership groups](enable-ownership-group.md).
 -   If the **glide.knowman.translation.enable\_translation\_task** property is enabled, you can’t modify the knowledge base of existing articles.
 
 ## Procedure
@@ -59,9 +59,9 @@ However, knowledge managers can configure User Criteria to restrict access to ce
 
     -   If the **Article Validity** field in the selected knowledge base is blank, the earlier **Valid to** date value is retained for the knowledge article.
     -   If the **Article Validity** field in the selected knowledge base isn't blank, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
-    If the dictionary value of the **Valid to** field is modified, this dictionary value overrides the default value of the **Valid to** field calculated according to the **Article Validity** field. For more information, see [Validity of a knowledge article](../concept/article-validity.md).
+    If the dictionary value of the **Valid to** field is modified, this dictionary value overrides the default value of the **Valid to** field calculated according to the **Article Validity** field. For more information, see [Validity of a knowledge article](article-validity.md).
 
-    The article is saved. If the article versioning feature is enabled, the version of the knowledge article is incremented by 0.01. For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md)
+    The article is saved. If the article versioning feature is enabled, the version of the knowledge article is incremented by 0.01. For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md)
 
 6.  Select the link in the **For SEO suggestions on this article, click here** message, if available, to review suggestions for improving your article.
 
@@ -76,19 +76,19 @@ However, knowledge managers can configure User Criteria to restrict access to ce
 
         **Note:**
 
-        -   With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md)
+        -   With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](enable-ownership-group.md)
         -   If an article is visible to a guest user, a message appears that reads `This article may be visible to unauthenticated users after it is published. Do you still want to proceed?`
     For more information, see [Schedule a knowledge article for publishing](schedule-article-publishing.md).
 
     When published, the knowledge article appears in the Published and All lists. To view the Published list, navigate to **Knowledge** &gt; **Articles** &gt; **Published**. To view the All list, navigate to **Knowledge** &gt; **Articles** &gt; **All**.
 
-    If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+    If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 
 **Related topics**  
 
 
-[Article versioning changes](../concept/article-versioning-changes.md)
+[Article versioning changes](article-versioning-changes.md)
 

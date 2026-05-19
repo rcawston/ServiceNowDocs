@@ -81,7 +81,7 @@ Quickly respond to customers using different types of predefined information.
 
 </td><td>
 
-[Use response templates in Service Request Playbook](../task/use-response-templates-psds.md)
+[Use response templates in Service Request Playbook](use-response-templates-psds.md)
 
 </td></tr></tbody>
 </table>

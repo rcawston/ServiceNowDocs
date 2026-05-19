@@ -30,7 +30,7 @@ The Description section includes the detailed information that you can fill in w
 
 ## State section
 
-The State section includes the workflow states of a compliance case. For example in this section, you see various stages of the compliance case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A compliance case administrator can configure these states in the GRC: Compliance Case Management application. For more information, see [Create a compliance state model](../task/create-state-model.md).
+The State section includes the workflow states of a compliance case. For example in this section, you see various stages of the compliance case, such as New, Triage, Investigate, Resolve, Post case review, and Close. These states determine the status of the case. A compliance case administrator can configure these states in the GRC: Compliance Case Management application. For more information, see [Create a compliance state model](create-state-model.md).
 
 ## Case schedules and milestones section
 

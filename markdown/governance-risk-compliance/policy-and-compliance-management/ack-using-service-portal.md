@@ -59,5 +59,5 @@ Click [**Request Exception**](request-policy-exception.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](ack-policy.md)
 

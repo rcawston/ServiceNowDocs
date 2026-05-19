@@ -28,5 +28,5 @@ Early Availability gives you access to learning plans and training courses speci
 -   **[Early availability API documentation](early-availability-api-documentation.md)**  
 Early Availability includes access to API documentation for the latest release.
 
-**Parent Topic:**[Learning about developing on the ServiceNow AI Platform](../../custom-application/concept/getting-started-with-building-applications.md)
+**Parent Topic:**[Learning about developing on the ServiceNow AI Platform](getting-started-with-building-applications.md)
 

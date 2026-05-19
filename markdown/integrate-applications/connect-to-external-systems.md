@@ -19,7 +19,7 @@ Connect Hub provides a consolidated interface to accomplish key integration task
 
 -   **Discover external systems and integration opportunities**
 
-    Explore available [external systems](../task/connecthub-create-external-systems.md#) and identify connection methods for over 200 third-party systems like MS Teams, Jira, and Snowflake.
+    Explore available [external systems](connecthub-create-external-systems.md#) and identify connection methods for over 200 third-party systems like MS Teams, Jira, and Snowflake.
 
 -   **Build and manage connectors**
 

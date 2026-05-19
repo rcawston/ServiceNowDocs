@@ -36,5 +36,5 @@ Role required: sn\_vaccine\_sm.clinician
     A new information record for the consumer user is created and links to a corresponding patient record, if one exists for the user. The vaccination can be scheduled on behalf of the user. If a patient record doesn’t exist for the user, a new patient record is created and links to the user's information and consumer record.
 
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

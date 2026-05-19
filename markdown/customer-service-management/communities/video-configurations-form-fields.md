@@ -61,7 +61,7 @@ A widget to render the videos from the source. Enter `Communities render video`.
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](quick-start-tests-communities.md)
 
 [Properties installed with Communities](communities-properties.md)
 
@@ -71,5 +71,5 @@ A widget to render the videos from the source. Enter `Communities render video`.
 
 [Topic form fields](topic-form-fields.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](create-video-configuration.md)
 

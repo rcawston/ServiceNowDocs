@@ -55,10 +55,10 @@ Auto-populated value between `0` and `1`: The fraction of time that a stack with
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](cloud-resource-profiles.md)
 
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md)
+[Discover all datacenters in a service account on-demand](disco-datacntrs-in-srv-acct.md)
 

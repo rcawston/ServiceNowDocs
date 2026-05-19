@@ -91,5 +91,5 @@ Activating the Domain Extension Installer plugin enables these features:
 **Related topics**  
 
 
-[Domain separation plugin](../concept/domain-sep-plugin.md)
+[Domain separation plugin](domain-sep-plugin.md)
 

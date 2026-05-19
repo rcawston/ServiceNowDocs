@@ -95,5 +95,5 @@ The type of relationship to process between the child and parent classes. Availa
 
 When a configuration item has multiple parents that have valid relationship paths, the amount aggregated to each parent is split to prevent over-aggregation of a item cost. When evaluating parent relationships to active relationship paths, the aggregation counts the total number of valid relationships. The expense line amount from the child configuration item is evenly divided among the number valid paths and that amount is used when creating the inherited expense line for the parent.
 
-**Parent Topic:**[CI rate cards](../concept/c_CIRateCards.md)
+**Parent Topic:**[CI rate cards](c_CIRateCards.md)
 

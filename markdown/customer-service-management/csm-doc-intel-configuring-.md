@@ -89,7 +89,7 @@ When you create a case type that extends the Case \[sn\_customerservice\_case\] 
 
 [Document Intelligence for Customer Service](csm-document-intelligence.md)
 
-[Review and submit values predicted by Document Intelligence](../task/csm-doc-intel-review-values.md)
+[Review and submit values predicted by Document Intelligence](csm-doc-intel-review-values.md)
 
 [Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-landing.md)
 

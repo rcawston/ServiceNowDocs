@@ -53,7 +53,7 @@ The workflow for Task Intelligence for ITSM includes the following:
     4.  Deploy the model: Deploy the model to predict incident field information.
     5.  Monitor and analysis: Monitor how the model is performing and analyze the performance result data.
     6.  Edit your model: Based on the analysis of the performance results, edit your model and deploy it again.
-2.  Go to the Advanced Recommended actions for ITSM application configuration to configure where, how, and when the model must be implemented in the Service Operations Workspace application. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+2.  Go to the Advanced Recommended actions for ITSM application configuration to configure where, how, and when the model must be implemented in the Service Operations Workspace application. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md).
 3.  Get incident predictions and recommendations in the incident form of Service Operations Workspace.
 
 ## Task Intelligence for ITSM benefits
@@ -64,7 +64,7 @@ Task Intelligence for ITSM provides the following benefits:
 |-------|-------|----|
 |Create and deploy solution-based incident prediction models to predict incidents fields for new IT service incidents. This helps in incident categorization|[Create an incident prediction model in Task Intelligence for ITSM](create-incident-prediction-model.md)|Administrator|
 |Create and deploy similarity-based model to predict similar records for IT service incidents which appear as actionable recommendations.|[Create a similar records prediction model in Task Intelligence for ITSM](create-a-similar-records-model-in-task-intelligence-for-itsm.md)|Administrator|
-|Export an incident prediction model in Task Intelligence for ITSM to another instance so you can use the model in the other instance without recreating the model from scratch.|[Export an incident prediction model](../task/export-your-model.md)|Administrator|
+|Export an incident prediction model in Task Intelligence for ITSM to another instance so you can use the model in the other instance without recreating the model from scratch.|[Export an incident prediction model](export-your-model.md)|Administrator|
 |Monitor the performance results of the model.|[Monitoring and Analytics for Task Intelligence for ITSM](task-intel-monitor-analystics.md)|Analyst|
-|Edit the incident prediction model based on the performance results and deploy again.|[Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md)|Administrator|
+|Edit the incident prediction model based on the performance results and deploy again.|[Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md)|Administrator|
 

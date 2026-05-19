@@ -43,7 +43,7 @@ Role required: admin
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md).
+3.  [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+ Add content** button in the UI Builder stage.
 
@@ -103,7 +103,7 @@ Role required: admin
 
 11. Add components to your page.
 
-    See [Add and configure components](../task/add-components.md#) for more information.
+    See [Add and configure components](add-components.md#) for more information.
 
 12. View and test your page by selecting ![Preview button that opens the page variant.](../image/preview-button.png).
 
@@ -128,7 +128,7 @@ In the following procedure, you learn how to use CSS Grid to modify your CSS to 
 
     See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
-3.  [Create a page in UI Builder](../task/create-page.md) or open a page.
+3.  [Create a page in UI Builder](create-page.md) or open a page.
 
 4.  Click the **Layout** tab and choose the two-row by two-column layout.
 

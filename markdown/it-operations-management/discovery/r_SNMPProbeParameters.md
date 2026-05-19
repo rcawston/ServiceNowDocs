@@ -15,7 +15,7 @@ breadcrumb: [SNMP probes, List of Discovery probes, Discovery probes and sensors
 
 This list of parameters may be passed to the SNMP probes.
 
-For instructions on configuring probe parameters, see [Set probe parameters](../task/t_SetProbeParameters.md).
+For instructions on configuring probe parameters, see [Set probe parameters](t_SetProbeParameters.md).
 
 <table id="table_mmh_pny_5p"><thead><tr><th>
 
@@ -237,5 +237,5 @@ The number of additional attempts Discovery makes to complete an individual GETB
 2
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SNMP probes](../concept/c_SNMPProbe.md)
+</table>**Parent Topic:**[SNMP probes](c_SNMPProbe.md)
 

@@ -49,7 +49,7 @@ In the links below, Employee Center Pro features are organized into categories, 
 
 [Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 
-[Employee Center for Microsoft Viva Connections](../../sn-ms-viva-integrations/concept/sn-ms-viva-integrations.md)
+[Employee Center for Microsoft Viva Connections](sn-ms-viva-integrations.md)
 
-[Employee Center for Zoom](../task/zoom-ec-create-app.md)
+[Employee Center for Zoom](zoom-ec-create-app.md)
 

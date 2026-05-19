@@ -43,7 +43,7 @@ Home node
 
 </td><td>
 
-The CI that is currently the home node. For more information, see [Specify the home node](../reference/unified-map-appearance.md#row-specify-home-node).
+The CI that is currently the home node. For more information, see [Specify the home node](unified-map-appearance.md#row-specify-home-node).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Map time
 
 </td><td>
 
-The timestamp that is specified on the timeline. The time is set to "now" when you first open a map. For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+The timestamp that is specified on the timeline. The time is set to "now" when you first open a map. For more information, see [Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md).
 
 </td></tr></tbody>
 </table>

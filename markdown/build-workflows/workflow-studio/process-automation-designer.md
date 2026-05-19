@@ -34,7 +34,7 @@ Workflow Studio Playbooks enables you, as a business playbook owner, to organize
 The automated business processes that you design guide your end users and help them focus on the tasks and information that matter to them. A well-designed playbook can do these things:
 
 -   Start up, or trigger, automatically for the types of records that your end users care about
--   Reuse activities from existing [Workflow Studio](../../workflow-studio/reference/workflow-studio.md) content
+-   Reuse activities from existing [Workflow Studio](workflow-studio.md) content
 -   Has well-defined stages that end users can follow for a record
 -   Clearly show the next steps that end users must take to move through a record's life cycle
 
@@ -56,7 +56,7 @@ Playbooks has these components:
 
 -   **Activities**
 
-    An activity defines the [Workflow Studio](../../workflow-studio/reference/workflow-studio.md) content that powers the playbook's automation. An activity can also specify the user-facing experience that the playbook produces when it runs.
+    An activity defines the [Workflow Studio](workflow-studio.md) content that powers the playbook's automation. An activity can also specify the user-facing experience that the playbook produces when it runs.
 
 
 For more information about how to use and navigate the Playbooks user interface, see [Playbook builder](exploring-process-automation-designer.md).
@@ -65,17 +65,17 @@ For more information about how to use and navigate the Playbooks user interface,
 
 Guide agents and fulfillers through complicated playbooks from start to finish, improving customer experience and task resolution. Build your playbooks in Workflow Studio, and then design and embed your Playbook Experience in legacy workspace, UI Builder, ServiceNow Mobile Platform, Service Portal, and more.
 
-To learn about designing Playbook Experience, see [Designing Playbook Experience](../../workspace/concept/playbook-experience-admins.md).
+To learn about designing Playbook Experience, see [Designing Playbook Experience](playbook-experience-admins.md).
 
 ## Getting started
 
-Before you get started with Playbooks, familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](../../workflow-studio/concept/exploring-flows.md), [subflows](../../workflow-studio/reference/exploring-subflows.md), and [actions](../../workflow-studio/concept/exploring-actions.md).
+Before you get started with Playbooks, familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](exploring-flows.md), [subflows](exploring-subflows.md), and [actions](exploring-actions.md).
 
 If you're a playbook owner who wants to learn the basics of digitizing your business process, check out the following resources:
 
 -   [Get started with ServiceNow® Process Automation](getting-started-process-automation.md)
 -   [Get started with Playbooks](getting-started-processes.md)
--   [Design your first automated process](../task/design-automated-process.md)
+-   [Design your first automated process](design-automated-process.md)
 -   [View your process executions](process-executions.md)
 
 If you're a ServiceNow Process Automation administrator who wants to set up and customize Playbooks, check out the following resources:
@@ -116,5 +116,5 @@ Now Assist provides AI-powered capabilities across the Playbook experience, from
 -   **[Domain separation in Playbooks](process-automation-designer-domain-separation.md)**  
 Data separation is supported for Playbooks. The domain value of the triggering input record determines the domain context. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Workflow Studio playbooks](../../workflow-studio/reference/workflow-studio-playbooks-landing.md)
+**Parent Topic:**[Workflow Studio playbooks](workflow-studio-playbooks-landing.md)
 

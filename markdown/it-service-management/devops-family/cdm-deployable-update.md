@@ -120,7 +120,7 @@ Text description that helps other users understand the purpose, scope, and inten
 </table>3.  Select **Update**.
 
 
-**Parent Topic:**[DevOps Config reference](../../devops-config/reference/devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
 
 **Related topics**  
 

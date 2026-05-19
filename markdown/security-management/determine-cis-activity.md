@@ -42,5 +42,5 @@ The output variables contain data that can be used in subsequent activities.
 |cis\_affected|Filtered CIs|
 |task\_sys\_id|Task identifier \(maps security incident to CIs\).|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

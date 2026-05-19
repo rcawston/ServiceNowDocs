@@ -17,9 +17,9 @@ Use the following steps to distribute the ServiceNow mobile app using the Citrix
 
 You should have access to Citrix before attempting any configuration.
 
--   **[Add the ServiceNow app to Citrix XenMobile](../task/add-mobile-app-citrix.md)**  
+-   **[Add the ServiceNow app to Citrix XenMobile](add-mobile-app-citrix.md)**  
 Configure the ServiceNow for Cetrix XenMobile distribution.
--   **[Configure the ServiceNow app for the default instance](../task/config-app-default-instance-citrix.md)**  
+-   **[Configure the ServiceNow app for the default instance](config-app-default-instance-citrix.md)**  
 Configure apps that support managed configuration by deploying an XML configuration file to users' iOS devices.
 
 **Parent Topic:**[Supported mobile device management vendors](mobile-vendors.md)

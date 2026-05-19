@@ -35,5 +35,5 @@ The following is the workflow of the smart assessment adaption:
 3.  You can view the questionnaire via a link submitted by the Remediation Owners in the request information in Overview page.
 
 
-**Parent Topic:**[Unified Approvals View](../concept/sem-approval-view.md)
+**Parent Topic:**[Unified Approvals View](sem-approval-view.md)
 

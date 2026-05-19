@@ -36,7 +36,7 @@ The integration imports the following data from Socialsuite:
 
 -   **[Activate Operational Sustainability Integration with Socialsuite](activate-operational-sustainability-integration-with-socialsuite.md)**  
 You can activate the Operational Sustainability Integration with Socialsuite plugin \(sn\_osm\_ma\) for Operational Sustainability Management if you have the admin role. The plugin enables you to import materiality assessment results from Socialsuite for reporting and compliance.
--   **[Set Material topic selection system property](../task/set-material-topic-selection-system-property.md)**  
+-   **[Set Material topic selection system property](set-material-topic-selection-system-property.md)**  
 Set the Material topic selection system property to enable the Socialsuite integration features.
 -   **[Create a Socialsuite connection](create-a-socialsuite-connection.md)**  
 Create a Socialsuite connection to sync material topics and materiality assessment results from Socialsuite into your ServiceNow instance.
@@ -48,7 +48,7 @@ Sync material topics from Socialsuite to import materiality assessment results i
 **Related topics**  
 
 
-[Socialsuite material topic fields](../reference/socialsuite-material-topic-fields.md)
+[Socialsuite material topic fields](socialsuite-material-topic-fields.md)
 
-[Socialsuite import log](../reference/socialsuite-import-log.md)
+[Socialsuite import log](socialsuite-import-log.md)
 

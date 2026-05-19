@@ -29,7 +29,7 @@ Microsoft Intune uses Azure to manage mobile devices and apps. With some additio
 Use Jamf Pro to distribute and manage the ServiceNow mobile app on user devices.
 -   **[MobileIron Mobile Device Management \(MDM\)](mobileiron-mdm.md)**  
 MobileIron is a cloud-based service you can use to manage applications for your users. Users can access apps from MobileIron while you manage and secure content on the network.
--   **[Approve the ServiceNow app for Google Play](../task/approve-app-google.md)**  
+-   **[Approve the ServiceNow app for Google Play](approve-app-google.md)**  
 Android for Work may not be able to find the ServiceNow application. If that is the case, the ServiceNow App might not be approved for your organization. You can approve the app by finding it in the Google Play store.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

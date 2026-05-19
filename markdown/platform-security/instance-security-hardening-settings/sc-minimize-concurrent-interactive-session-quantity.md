@@ -99,7 +99,7 @@ References
 
 </td><td>
 
-[Limit concurrent sessions](../../../integrate/authentication/concept/limit-concurrent-sessions.md)
+[Limit concurrent sessions](../authentication/limit-concurrent-sessions.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](sc-session-management.md)

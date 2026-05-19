@@ -102,7 +102,7 @@ Horizontal and top-down
 GlassFish WAR
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+</table>**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
 
 ## Map application services containing Oracle GlassFish Servers
 

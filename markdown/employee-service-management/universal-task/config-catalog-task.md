@@ -46,7 +46,7 @@ You can add filters to manage the catalog items that are available to a user. Fo
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Configure Universal Task for your service](config-ut-for-service.md)
 

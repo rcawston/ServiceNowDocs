@@ -31,13 +31,13 @@ After a suite parent is added to a reclamation rule, you can't edit or delete an
 
 You can add a filter condition on a suite parent record. The filter condition that you specify for a suite parent is automatically applied to all the suite components of the parent and the filter condition field on the suite component record is no longer editable. You can, however, edit the filter condition on the suite parent record. You can open a suite parent record from the Software Products related list and specify your filter condition in the record.
 
-You can also specify a filter condition at the reclamation rule level. The filter condition that you specify applies to all the products that belong to the reclamation rule. The filter condition can only be applied when the **Applies to** field in the Reclamation rule form has the value **Installed Software** or **Subscription Software**. For details, see [Add a software reclamation rule](../task/t_AddAReclamationRule.md).
+You can also specify a filter condition at the reclamation rule level. The filter condition that you specify applies to all the products that belong to the reclamation rule. The filter condition can only be applied when the **Applies to** field in the Reclamation rule form has the value **Installed Software** or **Subscription Software**. For details, see [Add a software reclamation rule](t_AddAReclamationRule.md).
 
 ## Reclamation rules for SaaS and SSO applications
 
-When you create a direct integration profile for a SaaS application or connect an SSO application, a reclamation rule is automatically created for the software product. It's important that you review the reclamation rule to verify that it meets your specifications. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+When you create a direct integration profile for a SaaS application or connect an SSO application, a reclamation rule is automatically created for the software product. It's important that you review the reclamation rule to verify that it meets your specifications. For more information, see [Review a software reclamation rule](../saas-license-management/add-reclamation-rule-sub.md).
 
-For more information about the reclamation rules for each application, see [Reclamation rules for SaaS and SSO applications](../reference/reclamation-rules.md).
+For more information about the reclamation rules for each application, see [Reclamation rules for SaaS and SSO applications](reclamation-rules.md).
 
 ## Upgrading to Australia
 

@@ -13,11 +13,11 @@ breadcrumb: [Care Team Operations for Biomed, Healthcare Operations, Healthcare 
 
 Use the Care Team Portal to report medical device issues or request other biomed support.
 
--   [Report a medical device issue with Care Team Operations for Biomed](../task/hcls-cto-biomed-report-medical-device-issue.md)
+-   [Report a medical device issue with Care Team Operations for Biomed](hcls-cto-biomed-report-medical-device-issue.md)
 
     Report any issue with a medical device issue using the Report a medical device issue catalog item from the Care Team Operations portal.
 
--   [Request other biomed service with Care Team Operations for Biomed](../task/hcls-cto-biomed-request-other.md)
+-   [Request other biomed service with Care Team Operations for Biomed](hcls-cto-biomed-request-other.md)
 
     Request non-medical device issue biomed service using the Request other biomed service catalog item from the Care Team Portal.
 

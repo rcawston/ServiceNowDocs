@@ -90,7 +90,7 @@ Channels
 
 Chat clients in which the topic or topic block will run.
 
- These channels are different from the default channels that are natively supported by Virtual Agent. Your instance may have additional channels for [custom chat integrations](../concept/va-custom-adapter-framework.md) created for it. For more information about channels, see [Deploying Virtual Agent topics in other channels](../concept/va-integrations.md).
+ These channels are different from the default channels that are natively supported by Virtual Agent. Your instance may have additional channels for [custom chat integrations](va-custom-adapter-framework.md) created for it. For more information about channels, see [Deploying Virtual Agent topics in other channels](va-integrations.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -102,9 +102,9 @@ Live agent context variables
 
 </td><td>
 
-Live agent context variables that are defined in the [General Chat Settings](../../conversational-interfaces/task/ac-configure-context-variables.md).Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
+Live agent context variables that are defined in the [General Chat Settings](../ac-configure-context-variables.md).Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
 
-For information about the default list of live agent variables, see [Live agent chat context variables](../reference/live-agent-chat-context-vars.md).
+For information about the default list of live agent variables, see [Live agent chat context variables](../live-agent-chat-context-vars.md).
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Available for Agent Autopilot
 
 </td><td>
 
-Toggle switch that determines whether the topic block is available to a live agent.When enabled, an agent can search for the topic and invoke the topic. For details, see [Conversation Autopilot](../../conversational-interfaces/concept/ci-agent-chat-using.md#).
+Toggle switch that determines whether the topic block is available to a live agent.When enabled, an agent can search for the topic and invoke the topic. For details, see [Conversation Autopilot](../agent-chat/ci-agent-chat-using.md#).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -173,7 +173,7 @@ Type
 
 </td><td>
 
-Type of data being passed to the topic block. For example, **String**, **Boolean**, and so on. The fields change according to your choice. For more information, see [Input data types in Virtual Agent topics](../reference/va-data-types.md).
+Type of data being passed to the topic block. For example, **String**, **Boolean**, and so on. The fields change according to your choice. For more information, see [Input data types in Virtual Agent topics](va-data-types.md).
 
 </td></tr><tr><td>
 
@@ -226,7 +226,7 @@ Default value for the variable. This value can be used when previewing the block
 
 6.  Drag Virtual Agent Designer controls onto the canvas.
 
-    These controls include the input, bot responses, and utilities. Use them in combination to define the logic that is run in the topic block. For more information, see [Assistant Designer controls](../concept/virtual-agent-controls.md).
+    These controls include the input, bot responses, and utilities. Use them in combination to define the logic that is run in the topic block. For more information, see [Assistant Designer controls](virtual-agent-controls.md).
 
 7.  To define the output returned from the topic block, do the following:
 

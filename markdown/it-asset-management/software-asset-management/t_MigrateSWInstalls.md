@@ -32,5 +32,5 @@ When running the Migrate Software Installs script, allow enough time for the pro
     The Software Installations list is shown. If the data has already been migrated, a message is shown.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

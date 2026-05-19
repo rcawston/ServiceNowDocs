@@ -230,7 +230,7 @@ Role required: admin
 
 2.  Add the following system property.
 
-    For more information on adding a system property, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For more information on adding a system property, see [Add a system property](r_AvailableSystemProperties.md#).
 
     |Field|Description|
     |-----|-----------|

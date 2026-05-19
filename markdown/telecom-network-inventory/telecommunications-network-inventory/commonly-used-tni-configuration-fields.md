@@ -53,7 +53,7 @@ Manufacturer
 
 </td><td>
 
-Name of the network asset's manufacturer. Select the search icon \(![Search icon.](../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](../task/add-company-designate-manufacturer-tni.md).
+Name of the network asset's manufacturer. Select the search icon \(![Search icon.](../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](add-company-designate-manufacturer-tni.md).
 
 </td></tr><tr><td>
 
@@ -136,5 +136,5 @@ Serial number
 Assigned serial number for this network asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

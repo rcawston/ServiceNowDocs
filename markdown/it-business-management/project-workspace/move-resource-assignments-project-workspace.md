@@ -49,7 +49,7 @@ Role required: resource\_user, resource\_manager
     When you move the resource assignment for a group, the assignments are moved for all members of that group. You cannot move assignments for individual users within the group or for child resource assignments.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 
 **Related topics**  
 

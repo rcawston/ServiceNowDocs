@@ -198,7 +198,7 @@ Configurable Workspace is a ServiceNow AI Platform feature that is active by def
 
 ## Browser requirements
 
-Configurable Workspace doesn’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge, Chromium or one of the other supported browsers that are listed in [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Configurable Workspace doesn’t support mobile devices, Internet Explorer, or Microsoft Edge. Instead, use Microsoft Edge, Chromium or one of the other supported browsers that are listed in [Browser support](../browser-support.md).
 
 ## Accessibility information
 

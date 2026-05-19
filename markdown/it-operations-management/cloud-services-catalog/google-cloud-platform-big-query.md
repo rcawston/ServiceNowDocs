@@ -39,5 +39,5 @@ This is a fully functional sample catalog item that streamlines the process of o
 </table>-   **[Google Cloud Platform \(GCP\) Big Query Out Of Box permissions](gcp-big-query-oob-permissions.md)**  
 GCP Big Query Out Of Box catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

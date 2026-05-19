@@ -48,7 +48,7 @@ Fulfillers see only incident communication plan and incident communication plan 
 
 An Incident Communication Plan Admin or Major Incident Manager is able to view incidents only of those domains that they have access to. They can create incident communication plans against only those incidents.
 
-**Parent Topic:**[Incident Communications Management reference](../reference/reference-section-inci-comm-mngmt.md)
+**Parent Topic:**[Incident Communications Management reference](reference-section-inci-comm-mngmt.md)
 
 **Related topics**  
 

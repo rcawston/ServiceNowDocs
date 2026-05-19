@@ -17,7 +17,7 @@ Save time from responding to emails manually when you configure your instance to
 
 <table id="table_mk5_pfr_bzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore automated system responses to inbound email](../reference/explore-inbound-email.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore automated system responses to inbound email](explore-inbound-email.md)
 
 </td><td>
 

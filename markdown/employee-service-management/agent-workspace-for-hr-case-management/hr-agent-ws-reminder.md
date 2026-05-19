@@ -25,7 +25,7 @@ Role required: sn\_hr\_core.case\_writer
 
 2.  Find the case you for which you want to add a reminder.
 
-    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](../concept/agent-ws-hr-case-mgmt-use.md).
+    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](agent-ws-hr-case-mgmt-use.md).
 
 3.  Select the ![More icon](../reference/images/EllipsisIcon.png) more icon.
 

@@ -29,7 +29,7 @@ Layouts control what containers and components are available on a page, and wher
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  [Create](create-page.md) or open a page.
 
@@ -92,7 +92,7 @@ In the content tree to the left of the main page area, select the **Body** of yo
 
 7.  Add components to slots.
 
-    You build your page with containers components. See [Customize UI Builder pages using components](../concept/work-components.md) for more information.
+    You build your page with containers components. See [Customize UI Builder pages using components](work-components.md) for more information.
 
     You can add components by using any of the following ways.
 
@@ -163,7 +163,7 @@ You can click the container in the content tree, or you can click the container 
 
 ![Location of change layout icon on the floating menu.](../image/UIB-layout-change.png)
 
-3.  Choose to display your content as either Flex or Grid. For more information about flex or grid options, see [Using Flexbox layouts in UI Builder](../concept/flexbox-uib.md#) or [Using CSS Grid layouts to build a page](../concept/css-grid-uib.md#).
+3.  Choose to display your content as either Flex or Grid. For more information about flex or grid options, see [Using Flexbox layouts in UI Builder](flexbox-uib.md#) or [Using CSS Grid layouts to build a page](css-grid-uib.md#).
 
 
 </td></tr><tr><td id="d254393e460">
@@ -216,5 +216,5 @@ You can click the container in the content tree, or you can click the container 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Organize components in UI Builder pages](../concept/work-layouts.md)
+**Parent Topic:**[Organize components in UI Builder pages](work-layouts.md)
 

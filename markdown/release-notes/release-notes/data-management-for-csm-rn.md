@@ -171,7 +171,7 @@ Sales Customer Relationship Management is a ServiceNow AI Platform feature that 
 
 ## Browser requirements
 
-Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](../browser-support.md).
 
 ## Related ServiceNow applications and features
 
@@ -186,7 +186,7 @@ Starting with the Australia release, data management for Customer Service Manage
     -   Field service technicians can view customer account and contact information on work orders and work order tasks in the Field Service Management application.
     -   Customer service agents can create work orders from cases in the Customer Service Management application.
     -   Customers and consumers can view the case-related work orders from the Customer Service Portal and Consumer Service Portal.
--   **[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md)**
+-   **[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/configurable-wfo-cs.md)**
 
     Manage and maintain the productivity of your workforce from a single application by using ServiceNow® Workforce Optimization for Customer Service. With this application, you can efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.
 

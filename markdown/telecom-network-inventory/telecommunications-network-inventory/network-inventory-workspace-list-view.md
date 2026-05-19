@@ -39,7 +39,7 @@ Sites
 
 </td><td>
 
-View listings of network sites and data centers. Update or create site details. To learn more about network site, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md). To learn more about data centers, see [Define the datacenter details](../task/define-data-center-details.md).
+View listings of network sites and data centers. Update or create site details. To learn more about network site, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md). To learn more about data centers, see [Define the datacenter details](define-data-center-details.md).
 
 </td></tr><tr><td>
 

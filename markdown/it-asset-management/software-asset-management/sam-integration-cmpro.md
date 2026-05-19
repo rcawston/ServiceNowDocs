@@ -20,7 +20,7 @@ Integrating the Software Asset Management and Contract Management Pro applicatio
 
 -   **Obligation Management:** Use the Contract Management Pro application's Obligation Management feature within the Software Asset Workspace. If you have the required roles assigned, you can create an obligation record. This record defines specific instructions and obligation tasks required to fulfill the contract obligation. For more information about the Contract Management Pro application's Obligation Management feature, see [Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md). For more information about creating and managing obligation tasks in the Software Asset Workspace, see [Manage obligation tasks in the Software Asset Workspace](manage-obligation-tasks-software-asset-workspace.md).
 -   **Renewal Management:** Receive proactive notifications and actionable insights regarding upcoming contract renewals.
--   **Metadata and obligation extraction:** Streamline contract management by extracting the key contract metadata and obligations from an uploaded signed contract document using the manage contract repository agentic workflow. You must install the Now Assist in Contract Management \(sn\_cm\_gen\_ai\) plugin. You must also activate the generative AI skills to use the manage contract repository agentic workflow. For more information about installing the plugin and enabling the skills, see [Configure the manage contract repository agentic workflow for Software Asset Management](../../now-assist-sam/task/configure-manage-contract-repository-agentic-workflow.md). For more information about extracting the key contract metadata and obligations from assigned contract, see [Use manage contract repository agentic workflow in the Software Asset Workspace](../../now-assist-sam/concept/manage-contract-repository-workflow.md).
+-   **Metadata and obligation extraction:** Streamline contract management by extracting the key contract metadata and obligations from an uploaded signed contract document using the manage contract repository agentic workflow. You must install the Now Assist in Contract Management \(sn\_cm\_gen\_ai\) plugin. You must also activate the generative AI skills to use the manage contract repository agentic workflow. For more information about installing the plugin and enabling the skills, see [Configure the manage contract repository agentic workflow for Software Asset Management](configure-manage-contract-repository-agentic-workflow.md). For more information about extracting the key contract metadata and obligations from assigned contract, see [Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md).
 
 ## Roles required for Software Asset Management and Contract Management Pro better together feature
 
@@ -50,7 +50,7 @@ The following plugins are required to use the Software Asset Management and Cont
 
 [Manage obligation tasks in the Software Asset Workspace](manage-obligation-tasks-software-asset-workspace.md)
 
-[Configure the manage contract repository agentic workflow for Software Asset Management](../../now-assist-sam/task/configure-manage-contract-repository-agentic-workflow.md)
+[Configure the manage contract repository agentic workflow for Software Asset Management](configure-manage-contract-repository-agentic-workflow.md)
 
-[Use manage contract repository agentic workflow in the Software Asset Workspace](../../now-assist-sam/concept/manage-contract-repository-workflow.md)
+[Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md)
 

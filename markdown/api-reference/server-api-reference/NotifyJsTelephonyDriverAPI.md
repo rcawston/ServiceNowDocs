@@ -39,11 +39,11 @@ function getDriverDetails(notifyNumber) {
 
 To see which drivers are associated with the NotifyJsTelephonyDriver extension point, navigate to **System Extension Points**&gt;**global.NotifyJsTelephonyDriver**. All associated driver implementations appear in the **Implementations** tab.
 
-For additional information on scripted extension points, see [Using extension points to extend application functionality point](../../../../../build/applications/concept/extension-points.md).
+For additional information on scripted extension points, see [Using extension points to extend application functionality point](../web-services/extension-points.md).
 
 To use this API you must activate the Notify \(com.snc.notify\) plugin. To activate specific driver implementations, such as Twillo, you must activate their specific plugin.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NotifyJsTelephonyDriver - call\(Object notifyPhoneNumber, String phoneNumber\)
 
@@ -67,7 +67,7 @@ notifyPhoneNumber
 
 </td><td>
 
-[NotifyPhoneNumber - Global](../../NotifyPhoneNumber/concept/c_NotifyPhoneNumberAPI.md#)
+[NotifyPhoneNumber - Global](c_NotifyPhoneNumberAPI.md#)
 
 </td><td>
 
@@ -266,7 +266,7 @@ Removes the specified caller from the current Notify conference call.
 
 |Name|Type|Description|
 |----|----|-----------|
-|participantRecord|[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to remove from the conference call.|
+|participantRecord|[GlideRecord - Global](c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to remove from the conference call.|
 
 |Type|Description|
 |----|-----------|
@@ -298,7 +298,7 @@ Mutes the specified caller in the current Notify conference call.
 
 |Name|Type|Description|
 |----|----|-----------|
-|participantRecord|[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to mute in the conference call.|
+|participantRecord|[GlideRecord - Global](c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to mute in the conference call.|
 
 |Type|Description|
 |----|-----------|
@@ -360,7 +360,7 @@ notifyPhoneNumber
 
 </td><td>
 
-[NotifyPhoneNumber - Global](../../NotifyPhoneNumber/concept/c_NotifyPhoneNumberAPI.md#)
+[NotifyPhoneNumber - Global](c_NotifyPhoneNumberAPI.md#)
 
 </td><td>
 
@@ -372,7 +372,7 @@ source
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -433,7 +433,7 @@ notifyPhoneNumber
 
 </td><td>
 
-[NotifyPhoneNumber - Global](../../NotifyPhoneNumber/concept/c_NotifyPhoneNumberAPI.md#)
+[NotifyPhoneNumber - Global](c_NotifyPhoneNumberAPI.md#)
 
 </td><td>
 
@@ -666,7 +666,7 @@ Unmutes the specified caller in the current Notify conference call.
 
 |Name|Type|Description|
 |----|----|-----------|
-|participantRecord|[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to mute in the conference call.|
+|participantRecord|[GlideRecord - Global](c_GlideRecordAPI.md#)|GlideRecord object containing the Notify Participant \[notify\_participant\] record of the caller to mute in the conference call.|
 
 |Type|Description|
 |----|-----------|

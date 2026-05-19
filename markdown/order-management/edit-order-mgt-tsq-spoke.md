@@ -46,5 +46,5 @@ The Order Qualification Request type is used to integrate order management with 
     -   For more information on how to create a spoke, see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/spokes.md). As shown in the demo subflow, ensure that the response from the third-party system passed to the Process Qualification Response block.
     -   When the Process Qualification Request subflow is invoked, the response from the third-party inventory system is received either synchronously or asynchronously, and the Result is updated in the customer order.
 
-**Parent Topic:**[Service qualification requests](../concept/order-mgt-tsq-about.md)
+**Parent Topic:**[Service qualification requests](order-mgt-tsq-about.md)
 

@@ -23,5 +23,5 @@ For example, if you're looking at a Change Management approval request, you will
 
 ![](../image/ApproveRequest.png "Service Catalog approval example")
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 

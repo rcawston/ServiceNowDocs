@@ -217,7 +217,7 @@ Allow multiple rate types
 
 Option to provide a rate type in a time card to be used during expense line generation.When this option is selected, the **Rate type** field displays on the Time Card form to enable the selection of a rate type.
 
- For more information, see [Rate type in labor rate card](../../../product/cost-management/concept/RateType.md).
+ For more information, see [Rate type in labor rate card](../cost-management/RateType.md).
 
 </td></tr><tr><td>
 
@@ -250,5 +250,5 @@ Option to set the time sheet policy as the default. The default policy is a glob
 -   [Set the time sheet policy as the default policy](set-default-time-sheet-policy.md), if required.
 -   [Assign the time sheet policy to users](assign-time-sheet-policy-to-user.md).
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](time-sheet-policies.md)
 

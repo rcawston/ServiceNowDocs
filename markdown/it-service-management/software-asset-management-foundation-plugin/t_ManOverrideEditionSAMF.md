@@ -40,5 +40,5 @@ Once the edition value is set, the discovery model for the software install is a
     The software installation is associated to different discovery model containing the edition value as part of the primary key. If the appropriate discovery model does not exist, a new one is created.
 
 
-**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](../concept/samf-plugin-configuration.md)
+**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](samf-plugin-configuration.md)
 

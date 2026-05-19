@@ -32,7 +32,7 @@ The following items are installed with Localization Workspace:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Localization Workspace](../reference/lw-components-installed-with.md).
+For more information, see [Components installed with Localization Workspace](lw-components-installed-with.md).
 
 ## Procedure
 
@@ -52,12 +52,12 @@ For more information, see [Components installed with Localization Workspace](../
 
 5.  Select **Install**.
 
-6.  For more information about investigating installed components, see [Find components installed with an application](../../plugins/task/find-components.md).
+6.  For more information about investigating installed components, see [Find components installed with an application](../find-components.md).
 
 
 ## What to do next
 
-Configure the dependencies including Localization Framework, then configure Localization Workspace. For more information see [Configuring Localization Workspace](../concept/configuring-localization-workspace.md).
+Configure the dependencies including Localization Framework, then configure Localization Workspace. For more information see [Configuring Localization Workspace](configuring-localization-workspace.md).
 
-**Parent Topic:**[Configuring Localization Workspace](../concept/configuring-localization-workspace.md)
+**Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)
 

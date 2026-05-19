@@ -17,7 +17,7 @@ As a provider, ship a replacement asset requested through a Zero Touch Refresh F
 
 ## Before you begin
 
-The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](../concept/service-bridge-config-ztr.md).
+The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](service-bridge-config-ztr.md).
 
 Role required: admin, asset, procurement\_user, or inventory\_user
 
@@ -64,7 +64,7 @@ When an employee submits a Zero Touch Refresh request on the ServiceNow® instan
 
 An asset with the serial number and asset tag specified in the Zero Touch Refresh Fulfillment Request is assigned to the employee.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 

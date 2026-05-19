@@ -35,7 +35,7 @@ The Identification and Reconciliation module provides a centralized framework fo
 
 </td><td>
 
-[Reconciliation rules![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Create the rules that manage authorization and update priority between discovery sources.](../reference/r_ReconciliationRulesPrinciples.md)
+[Reconciliation rules![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Create the rules that manage authorization and update priority between discovery sources.](r_ReconciliationRulesPrinciples.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ You can apply CMDB Identification and Reconciliation Engine \(IRE\) processes wh
 When IRE identification process detects duplicate CIs, it groups each set of duplicate CIs into a de-duplication task for review and remediation. A large number of duplicate CIs might be due to weak identification rules. You can configure the identification engine to reconcile duplicate CIs.
 -   **[Using identification simulation](identification-simulation.md#)**  
 Identification simulation is a central location for automatically constructing a payload that is guaranteed to be complete and valid. You can then simulate the processing of the payload by the Identification and Reconciliation Engine \(IRE\) and examine the results before actually submitting it for execution by IRE.
--   **[View a reclassification task](../task/t_ViewReclassificationTask.md)**  
+-   **[View a reclassification task](t_ViewReclassificationTask.md)**  
 Reclassification tasks are created for CIs that couldn't be automatically reclassified during the identification process. Review these tasks to locate the CIs and decide if to reclassify them.
 -   **[IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md)**  
 Apply Identification and Reconciliation Engine \(IRE\) processes to supported non-CMDB tables to ensure data integrity and health of those tables.

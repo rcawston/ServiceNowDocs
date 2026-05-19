@@ -30,5 +30,5 @@ Role required: sn\_apm.apm\_analyst
 4.  Select **Apply**.
 
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

@@ -99,5 +99,5 @@ The ERP posting error form includes mandatory fields that must be updated by the
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

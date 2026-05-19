@@ -40,7 +40,7 @@ The SAFe PI planning board contains the following components that guide you duri
     -   Green: A prerequisite story is scheduled in a sprint that's before the sprint of the dependent story.
     -   Yellow: A prerequisite story is scheduled in the same sprint as the dependent story.
     -   Red: A prerequisite story is scheduled in a sprint that's after the sprint of the dependent story. Review the dependency and reschedule the story as required.
-    If none of the stories are associated with a prerequisite or dependent story, the dependencies icon \(![Dependencies icon.](../images/hide-dependencies.png)\) is not visible. For information on how to add story dependencies, see [Add dependencies to your SAFe stories](../task/add-dependencies-safe-stories.md).
+    If none of the stories are associated with a prerequisite or dependent story, the dependencies icon \(![Dependencies icon.](../images/hide-dependencies.png)\) is not visible. For information on how to add story dependencies, see [Add dependencies to your SAFe stories](add-dependencies-safe-stories.md).
 
 -   **Feature Backlog pane**
 
@@ -113,7 +113,7 @@ The SAFe PI planning board contains the following components that guide you duri
     View the list of all stories of the program by using the standard list view icon \(![Standard list view icon.](../images/viewstandardlist.png)\).
 
 
--   **[Plan a SAFe program increment](../task/perform-bigroom-planning.md)**  
+-   **[Plan a SAFe program increment](perform-bigroom-planning.md)**  
 Plan your SAFe program increments \(PIs\) and track the progress of stories and features in an interactive planning board.
 
 **Parent Topic:**[SAFe Board — ART level](program-level-tabs.md)

@@ -19,7 +19,7 @@ Expand your asset management portfolio and increase diversification by creating 
 
 A linear asset is an asset that has a physical length or dimension, such as roads, railways, pipelines, power transmission lines, and telecommunication networks. These assets are often characterized by their linear topology, which means that they have a defined start point and end point, and can be represented as a sequence of interconnected segments or nodes. A segment is a specific linear asset section that is defined either by a start point and an end point or by a start point and a length.
 
-**Note:** For more details on the terminology that is used for linear assets, see [Terminology for linear assets](../reference/terms-eam.md).
+**Note:** For more details on the terminology that is used for linear assets, see [Terminology for linear assets](terms-eam.md).
 
 You can create and manage linear assets and segments using geographic \(geo\) maps. Geo maps are integrated into the Enterprise Asset Management application.
 
@@ -55,7 +55,7 @@ You can associate your linear assets with discreet assets, which are enterprise 
 
 You must assign each discreet asset a marker, which is a specific point location that falls within the boundary width of the associated linear asset. You can use this information to locate and query each discreet asset through the associated linear asset.
 
-For more information on discreet assets, see [Associate a discrete asset to a linear asset](../task/associate-discreet-asset.md).
+For more information on discreet assets, see [Associate a discrete asset to a linear asset](associate-discreet-asset.md).
 
 ## Linear asset relationships
 
@@ -65,5 +65,5 @@ You can locate and identify the following relationships between your linear asse
 -   Continuing linear assets: Assets that connect to each other at their start points and end points. When you reach the end point of one asset, you automatically transition into the start point of another asset. For example, a highway that changes into another highway after a specific point.
 -   Intersecting linear assets: Assets that intersect at a specific point. For example, intersecting roads that meet or cross each other.
 
-For more information on linear asset relationships, see [Find linear asset relationships](../task/find-linear-asset-relships.md).
+For more information on linear asset relationships, see [Find linear asset relationships](find-linear-asset-relships.md).
 

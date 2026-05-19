@@ -53,5 +53,5 @@ If your request is approved, you will receive an email with detailed instruction
 
 Install the application according to the instructions in the email.
 
-**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](../concept/integrating-ilmt-bigfix-v2-apis.md)
+**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](integrating-ilmt-bigfix-v2-apis.md)
 

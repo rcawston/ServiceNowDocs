@@ -49,5 +49,5 @@ To create or edit encryption rules, you must be connected to the instance throug
 7.  Click **Submit**, or save the form.
 
 
-**Parent Topic:**[Define a custom encryption rule](../concept/c_EncryptionRules.md)
+**Parent Topic:**[Define a custom encryption rule](c_EncryptionRules.md)
 

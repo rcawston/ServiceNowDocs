@@ -31,5 +31,5 @@ The facility classes are used to represent power, HVAC, network, and their conne
 |Cage|cmdb\_ci\_cage|Facility Hardware|A cage in a telecom data center is a secure, enclosed physical space within a larger data hall or colocation facility, built using metal mesh panels and lockable doors. It is used to isolate and protect a customer’s or department’s servers, telecom gear, and networking equipment from unauthorized access.|
 |Rack PDU|cmdb\_ci\_rack\_pdu|PDU|A Rack PDU \(Power Distribution Unit\) is a critical component used in data centers and server rooms to distribute electrical power to multiple devices housed within a server rack. It serves as a centralized power management solution, ensuring reliable and efficient power delivery to IT equipment such as servers, switches, routers, and storage systems.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

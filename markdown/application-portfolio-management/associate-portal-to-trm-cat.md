@@ -31,12 +31,12 @@ Role required: sn\_apm.apm\_admin and sp\_admin
 
 6.  On the form, fill in the fields.
 
-    For field information, see [Create a new portal knowledge base form](../../reference/eaw-reference/create-portal-kb.md).
+    For field information, see [Create a new portal knowledge base form](create-portal-kb.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 

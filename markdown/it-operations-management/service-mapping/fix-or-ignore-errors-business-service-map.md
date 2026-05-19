@@ -164,7 +164,7 @@ If you know what configuration items \(CIs\) and connections make up your servic
 -   **[Resolve pattern-related mapping errors](t_TBSMapProcess.md)**  
 You can troubleshoot mapping errors caused by patterns.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -183,9 +183,9 @@ You can troubleshoot mapping errors caused by patterns.
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
-[Prerequisites for performing top-down discovery using Service Mapping](../reference/prerequisites-service-mapping.md)
+[Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md)
 

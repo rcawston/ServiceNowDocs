@@ -25,19 +25,19 @@ Perform encryption key rotation from the instance. Add a new key, change the def
 Encrypt fields by creating encryption configurations.
 -   **[Encrypt attachments using standard encryption](c_EncryptingAttachments.md#)**  
 You can encrypt attachments for specific tables.
--   **[Change a field or attachment's encryption type](../task/t_ChangeAFieldsEncryptionType.md)**  
+-   **[Change a field or attachment's encryption type](t_ChangeAFieldsEncryptionType.md)**  
 You can change a field or attachment's encryption type by selecting a new encryption type in the existing encryption configuration record. A specific table and field combination can only have one active configuration at a time.
--   **[Tokenize strings using encryption patterns](../task/t_ConfigureBasicEncryptionPatterns.md)**  
+-   **[Tokenize strings using encryption patterns](t_ConfigureBasicEncryptionPatterns.md)**  
 You can replace string patterns with tokens before they are sent to and stored in the instance.
 -   **[Repair or recover order-preserving encrypted data](c_EdgeEncryptionJobs.md#)**  
 If you have the security-admin role, you can schedule jobs performed by the Edge Encryption proxy to repair or recover fields that use order preserving encryption.
--   **[Configure the IP address deny list](../task/deny-list-IPs.md)**  
+-   **[Configure the IP address deny list](deny-list-IPs.md)**  
 Prevent an IP address in your network from sending requests to your instance
--   **[Encrypt data from a record producer](../task/record-producers-edge.md)**  
+-   **[Encrypt data from a record producer](record-producers-edge.md)**  
 Configure your Edge Encryption proxy server to allow inserts from a record producer by creating encryption rules from the record producer record.
 -   **[Define a custom encryption rule](c_EncryptionRules.md)**  
 It may be necessary to identify and encrypt sensitive information in HTTP requests on the way to your instance. You can write encryption rules to identify, interpret, and encrypt data in such requests, mapping fields in the request to table-field names on your instance.
--   **[Edge Encryption dictionary attributes](../reference/r_EdgeEncryptionDictAttributes.md)**  
+-   **[Edge Encryption dictionary attributes](r_EdgeEncryptionDictAttributes.md)**  
 Add dictionary attributes to tables and fields to control how they work with Edge Encryption.
 -   **[Domain separation and Edge Encryption](edge-encryption-domain-separation.md)**  
 Domain separation is supported in limited circumstances with Edge Encryption. Edge Encryption provides the ability to encrypt data from within the customer's environment through the use of specific configurations, rules, and keys defined on the Edge Encryption proxy. The Edge Encryption proxy is not domain aware and cannot support domain-specific settings. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
@@ -48,5 +48,5 @@ Monitor Edge Encryption proxy server performance trends and drill into errors ge
 -   **[Increase debug logging for the Edge Encryption proxy](edge-debug-logging.md#)**  
 Increase the level of logging to interpret the logs and debug issues with the proxy.
 
-**Parent Topic:**[Edge Encryption](../reference/edge-encryption.md)
+**Parent Topic:**[Edge Encryption](edge-encryption.md)
 

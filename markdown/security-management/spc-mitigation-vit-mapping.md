@@ -39,5 +39,5 @@ Values:
 
 **\[Risk score\]****\[is\]****\[60\]**
 
-See [Define fields and weights for the risk rule for Vulnerability Response Risk Calculators](../../vulnerability-response/task/vuln-calc-define-risk-rule-fields.md) for more information.
+See [Define fields and weights for the risk rule for Vulnerability Response Risk Calculators](vulnerability-response/vuln-calc-define-risk-rule-fields.md) for more information.
 

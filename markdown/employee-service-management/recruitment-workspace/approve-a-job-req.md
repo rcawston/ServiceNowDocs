@@ -34,17 +34,17 @@ Role required: approver\_user
 
     The job requisition moves to the **Rejected** state after the approver rejects an approval request.
 
-    For more information on the state management system, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    For more information on the state management system, see [Job requisition state management](job-req-state-mngmnt.md).
 
-    For more information on the configuration of the approval experience, see [Approvals hub](../../employee-center/concept/approval-hub-intro.md).
+    For more information on the configuration of the approval experience, see [Approvals hub](../employee-experience-foundation/approval-hub-intro.md).
 
     **Note:** An email notification with the approval request also comes to the approver's email address.
 
-    For more information on approval on email, see [Approval request view on email](../concept/approval-request-email-ta.md).
+    For more information on approval on email, see [Approval request view on email](approval-request-email-ta.md).
 
 
--   **[Approval request view on email](../concept/approval-request-email-ta.md)**  
+-   **[Approval request view on email](approval-request-email-ta.md)**  
 Email notification for an approval request helps the approver be notified without delay.
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
 

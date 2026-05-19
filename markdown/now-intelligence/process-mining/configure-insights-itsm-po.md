@@ -27,7 +27,7 @@ Role required: sn\_process\_mining\_power\_user
 
 1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations**.
 
-2.  [Configure the desired finding definitions](../concept/view-business-findings.md#).
+2.  [Configure the desired finding definitions](view-business-findings.md#).
 
     The insights filters listed in the following table are available by default.
 
@@ -91,7 +91,7 @@ Requested items
 3.  On the Summary and insights page, for the selected insight:
 
     -   To perform process analysis, select **Process Analysis**. You can view the Process Mining map with the applied filters.
-    -   To perform cluster analysis, select **Cluster Analysis**. Select **View cluster** to view the results. For more information, see [View a cluster analysis](../concept/cluster-analysis.md).
+    -   To perform cluster analysis, select **Cluster Analysis**. Select **View cluster** to view the results. For more information, see [View a cluster analysis](cluster-analysis.md).
 
-**Parent Topic:**[Content pack for ITSM](../concept/itsm-proc-opti-content-pack.md)
+**Parent Topic:**[Content pack for ITSM](itsm-proc-opti-content-pack.md)
 

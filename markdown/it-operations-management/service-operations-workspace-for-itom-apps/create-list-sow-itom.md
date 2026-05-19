@@ -41,12 +41,12 @@ Create custom groupings of records listed under the **Lists** tab, such as incid
     -   To begin a new list, select **Create your own.**
 6.  On the form, fill in the fields.
 
-    For more information on the fields, see [Create list fields](../reference/forms-filtered-list-sow.md).
+    For more information on the fields, see [Create list fields](forms-filtered-list-sow.md).
 
 7.  Select **Create**.
 
     The list appears in the **My Lists** tab.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

@@ -21,7 +21,7 @@ Verify that the life cycle stage status of the bot process is either in **Publis
 
 Verify that the life cycle stage status of the assigned robot is **In Use** and the state of the robot is **Busy**.
 
-Ensure you are familiar with graceful stop concepts. For more information, see [Using Graceful Stop functionality in RPA Hub](../concept/graceful-stop-rpa.md).
+Ensure you are familiar with graceful stop concepts. For more information, see [Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md).
 
 To use the **Graceful Stop** toggle, ensure the Graceful Stop component is used in the selected package version in RPA Desktop Design Studio. Graceful stop is applicable for assigned robots as well as robots in robot pool.
 
@@ -29,7 +29,7 @@ Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_support\_user, sn\
 
 ## About this task
 
-Another way to stop an unattended bot process is via triggering the **Stop Process** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+Another way to stop an unattended bot process is via triggering the **Stop Process** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Another way to stop an unattended bot process is via triggering the **Stop Proce
 9.  Select **Stop Process**.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 **Related topics**  
 

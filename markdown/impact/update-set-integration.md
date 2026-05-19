@@ -19,13 +19,13 @@ Role required: admin
 
 Register your instances.
 
-See [Register your instance](../task/register-your-instance.md).
+See [Register your instance](register-your-instance.md).
 
 ## Procedure
 
 1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 
-    For more information, see [Configure update set scanning properties](../task/update-set-scanning-properties.md).
+    For more information, see [Configure update set scanning properties](update-set-scanning-properties.md).
 
 2.  Select the **Update set scanning** properties tab, and then configure the settings.
 

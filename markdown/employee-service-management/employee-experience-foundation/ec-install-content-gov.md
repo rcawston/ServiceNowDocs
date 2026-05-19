@@ -52,7 +52,7 @@ Activate these plugins:
 **Related topics**  
 
 
-[Components installed with Content Governance](../reference/ec-installed-content-governance.md)
+[Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Managing content requests](../concept/ec-content-governance.md)
+[Managing content requests](ec-content-governance.md)
 

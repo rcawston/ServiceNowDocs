@@ -137,9 +137,9 @@ Use this drop-down list to create new objects for the pipeline project. Availabl
 
 [Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](spo-glossary.md#)
 

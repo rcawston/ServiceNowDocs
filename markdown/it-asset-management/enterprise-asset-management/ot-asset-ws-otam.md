@@ -207,10 +207,10 @@ View information related to normalization of models.
 
 **Note:** The **Custom firmware UNSPSC**, **Custom firmware products**, **Custom firmware versions**, and **Custom firmware CPE** tabs are available only in the OT Asset Workspace. For more information on these tabs, refer to the following topics:
 
--   [Create a custom United Nations Standard Products and Services Code \(UNSPSC\) classification for firmware in your operational technology \(OT\) assets](../task/create-custom-unspsc-classification-firmware-ot-assets.md)
--   [Create a custom firmware product for your operational technology \(OT\) assets](../task/create-custom-firmware-product-ot-assets.md)
--   [Create a custom firmware version for your operational technology \(OT\) assets](../task/create-custom-firmware-version-ot-assets.md)
--   [Create a custom Common Platform Enumeration \(CPE\) mapping for firmware in your operational technology \(OT\) assets](../task/create-custom-firmware-cpe-mapping.md)
+-   [Create a custom United Nations Standard Products and Services Code \(UNSPSC\) classification for firmware in your operational technology \(OT\) assets](create-custom-unspsc-classification-firmware-ot-assets.md)
+-   [Create a custom firmware product for your operational technology \(OT\) assets](create-custom-firmware-product-ot-assets.md)
+-   [Create a custom firmware version for your operational technology \(OT\) assets](create-custom-firmware-version-ot-assets.md)
+-   [Create a custom Common Platform Enumeration \(CPE\) mapping for firmware in your operational technology \(OT\) assets](create-custom-firmware-cpe-mapping.md)
 
 </td></tr><tr><td>
 
@@ -237,13 +237,13 @@ You can publish hardware models, more than once, to the enterprise catalog using
 
 Hardware models and OT hardware assets are also integrated into the following Enterprise Asset Management flows:
 
--   [Asset request](../task/create-eam-assetrequest.md)
--   [Asset refresh](../task/request-eam-assetrefresh.md)
+-   [Asset request](create-eam-assetrequest.md)
+-   [Asset refresh](request-eam-assetrefresh.md)
 -   Stock order
 -   [Single and multi-asset onboarding](onboarding-multi-asset-from-ws.md)
 -   [Return Merchandise Authorization \(RMA\)](requesting-return-merchandise-authorization-enterprise-assets.md)
 -   [Repair](manage-repair-of-defective-eam-assets.md)
--   [Disposal](../task/create-eamdisposal-order.md)
+-   [Disposal](create-eamdisposal-order.md)
 -   [Bulk import](overview-bulk-import-eam.md)
 
     **Note:**
@@ -256,11 +256,11 @@ Hardware models and OT hardware assets are also integrated into the following En
 
     **Note:** When a reclamation request for an OT hardware asset is created in the OT Asset Workspace, a hardware reclamation request line is generated and displayed in the **Hardware Asset Reclamation Lines** tab.
 
--   [Advanced shipment notification \(ASN\)](../task/asn-eam.md)
+-   [Advanced shipment notification \(ASN\)](asn-eam.md)
 
     **Note:** Starting with the Zurich release, the Download template for Advanced Shipment Notification includes the **OT entity** column. When this column is set to **TRUE** for hardware models, it creates OT hardware assets in the OT Asset Workspace.
 
--   [Asset audits](../task/audit-eam-assetinventory.md)
+-   [Asset audits](audit-eam-assetinventory.md)
 -   [Total Cost of Ownership \(TCO\) for enterprise assets](confifure-eam-asset-tco.md)
 
     **Note:** You can create a TCO report using a hardware model as a benchmark model, by selecting **Hardware** in the Report table field and then selecting the required hardware model in the **Benchmark model** field.
@@ -273,11 +273,11 @@ Hardware models and OT hardware assets are also integrated into the following En
 
     **Note:** The Enterprise asset risk heat map in the OT asset estate view and the Enterprise model risk heat map in the OT model management view also include hardware models with OT entity flag set to **TRUE**.
 
--   [Asset resale](../task/enterprise-asset-resale-flow.md)
--   [Loaner](../task/request-eam-assetloaner-request.md)
+-   [Asset resale](enterprise-asset-resale-flow.md)
+-   [Loaner](request-eam-assetloaner-request.md)
 -   [Move orders](managing-enterprise-asset-move-orders.md)
 -   [Recall](managing-recalled-enterprise-assets.md)
--   [Stock rule](../task/create-eamstockrules.md)
+-   [Stock rule](create-eamstockrules.md)
 
     **Note:** The **OT stock rule** check box on the stock rule form indicates whether the stock rule was created in the OT Asset Workspace.
 
@@ -322,13 +322,13 @@ Any consumable model that you create in the OT Asset Workspace, has the consumab
 
 [OT Asset Management licensing](licensing-ot-asset-management.md)
 
-[Install OT Asset Management](../task/install-otam.md)
+[Install OT Asset Management](install-otam.md)
 
-[Installed with OT Asset Management](../reference/installed-with-otam.md)
+[Installed with OT Asset Management](installed-with-otam.md)
 
 [Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets](asset-ci-sync-ot-assets.md)
 
-[OT Asset Workspace roles](../reference/ot-workspace-roles.md)
+[OT Asset Workspace roles](ot-workspace-roles.md)
 
 [Enterprise Asset Workspace](using-eam-workspace.md)
 

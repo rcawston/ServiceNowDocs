@@ -28,8 +28,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 
-**Parent Topic:**[Technology Controls Monitoring Accelerator](../concept/tech-controls-monitoring-accel.md)
+**Parent Topic:**[Technology Controls Monitoring Accelerator](tech-controls-monitoring-accel.md)
 

@@ -149,16 +149,16 @@ You can assign the allocation to the child locations such as areas, rooms, and s
 
 **Note:** For time-bound allocations, only the dates are considered for allocation.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -182,5 +182,5 @@ You can assign the allocation to the child locations such as areas, rooms, and s
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

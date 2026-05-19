@@ -63,5 +63,5 @@ After you have enabled either Dynamic Translation or native translation, transla
 
 Multilingual service is enabled for Now Assist applications.
 
-**Parent Topic:**[Localization options for Virtual Agent](../../virtual-agent/concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](multi-language-options-va.md)
 

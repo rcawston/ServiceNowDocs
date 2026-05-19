@@ -127,5 +127,5 @@ For composite workflows where one workflow calls another workflow and the change
 **Related topics**  
 
 
-[Configure webhooks in GitHub manually](../task/config-webhooks-github-manually.md)
+[Configure webhooks in GitHub manually](config-webhooks-github-manually.md)
 

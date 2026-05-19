@@ -57,7 +57,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 -   [Plan work for an ART in EAP](plan-work-for-teams-using-planning-board-in-eap.md).
 -   [Start or complete iterations in EAP](start-or-complete-iteration-in-eap.md).
--   [Analyze team performance and progress using dashboards](../concept/using-eap-dashboard.md).
+-   [Analyze team performance and progress using dashboards](using-eap-dashboard.md).
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

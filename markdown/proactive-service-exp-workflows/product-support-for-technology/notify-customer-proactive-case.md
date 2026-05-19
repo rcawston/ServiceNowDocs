@@ -50,10 +50,10 @@ Analyze the service issue in an incident, problem, or change record. Update the 
 
 A note is automatically inserted in the **Activity** field of the incident record and also in the selected cases record. If your customer updates the case with any message, it automatically synchronizes with the incident record too.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](enhance-customer-impact-visibility-psew-process.md)
 

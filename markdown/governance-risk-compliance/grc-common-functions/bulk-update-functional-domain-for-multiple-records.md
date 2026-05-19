@@ -30,5 +30,5 @@ Role required: sn\_grc.admin
 4.  Select **Apply**.
 
 
-**Parent Topic:**[Tagging records with functional domain](../concept/tagging-records-with-functional-domain.md)
+**Parent Topic:**[Tagging records with functional domain](tagging-records-with-functional-domain.md)
 

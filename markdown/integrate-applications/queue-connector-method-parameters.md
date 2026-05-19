@@ -27,7 +27,7 @@ Name
 
 </td><td>
 
-Name of the work item. The name is recorded under the Name column in the Work Items tab in the RPA Hub.By default, all queue item names are unique. However, you can create duplicates by clearing the **Is Work Item Name Unique** check box on the Queue form. For more information, see, [Queue form in RPA Hub](../../rpa-hub/reference/queue-form.md).
+Name of the work item. The name is recorded under the Name column in the Work Items tab in the RPA Hub.By default, all queue item names are unique. However, you can create duplicates by clearing the **Is Work Item Name Unique** check box on the Queue form. For more information, see, [Queue form in RPA Hub](queue-form.md).
 
  After creation, you can find the work item under the **Work Items** tab of the queue, in RPA Hub.
 
@@ -39,7 +39,7 @@ Type
 
 The type of the work item. For example, for an accounting system queue, savings and current are types of accounts.
 
-To configure the input field, see [Configure port properties](../task/configure-input-port-properties.md).
+To configure the input field, see [Configure port properties](configure-input-port-properties.md).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Type of the exception:-   **Application** - For example, if an issue persists wi
 </td></tr></tbody>
 </table>## Enter inputs for parameters
 
-To enter inputs for the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs for the parameters, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[Queue](../concept/queue-connector.md)
+**Parent Topic:**[Queue](queue-connector.md)
 

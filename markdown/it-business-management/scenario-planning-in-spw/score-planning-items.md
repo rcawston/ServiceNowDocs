@@ -49,12 +49,12 @@ The score for each item is populated based on the scoring attribute values and c
 
 **Note:** To generate a final score for a pre-defined scoring framework, all the attributes of a scoring framework need to have values.
 
-**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](../concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
+**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](using-scoring-frameworks-in-startegic-planning-workspace.md)
 
 **Related topics**  
 
 
-[Scoring in Strategic Planning](../concept/scoring-in-strategic-planning.md)
+[Scoring in Strategic Planning](scoring-in-strategic-planning.md)
 
-[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+[Custom scoring frameworks in Strategic Planning](custom-scoring-frameworks-in-strategic-planning.md)
 

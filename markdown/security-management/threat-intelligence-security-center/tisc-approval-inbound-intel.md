@@ -45,7 +45,7 @@ Role required: sn\_sec\_tisc.admin
     -   One or more assigned approvers review the changes made by the analyst and choose to either approve or reject the request.
     -   After a decision is made, an email notification is sent to email addresses as configured in the corresponding inbound intelligence sharing profile, indicating whether the record has been approved or rejected.
 
-**Parent Topic:**[Exploring Inbound Intel Sharing](../concept/tisc-inbound-intel-sharing.md)
+**Parent Topic:**[Exploring Inbound Intel Sharing](tisc-inbound-intel-sharing.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ The Telecommunications industry solution includes the following applications:
     -   Product Support for Technology
     -   Customer Success Management
     -   Customer Service Problem Management
--   Sales CRM for Telecommunications. See [Sales Customer Relationship Management release notes](../sales-order-management/sales-order-management-rn-landing.md).
+-   Sales CRM for Telecommunications. See [Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md).
 -   Telecommunications Network Inventory
 -   Telecommunications Service Operations Management
 -   Strategic Portfolio Management for Telecom
@@ -36,7 +36,7 @@ The Technology industry solution includes the following applications:
     -   Service Exchange
     -   Product Support for Technology
     -   Customer Success Management
--   Sales and Order ManagementSales CRM for Technology Providers. See [Sales Customer Relationship Management release notes](../sales-order-management/sales-order-management-rn-landing.md).
+-   Sales and Order ManagementSales CRM for Technology Providers. See [Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md).
 -   Now Assist for Telecommunications, Media and Technology \(TMT\)
 
 -   **[Customer Success Management release notes](account-lifecycle-rn.md)**  

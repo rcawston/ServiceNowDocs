@@ -21,7 +21,7 @@ Available as a Global Remote Process Sync subflow.
 
 -   **Subscription requirements**
 
-    This action requires an Integration Hub subscription. For more information, see [Request Integration Hub](../../flow-designer/concept/request-ih-overview.md) and [Legal schedules - IntegrationHub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
+    This action requires an Integration Hub subscription. For more information, see [Request Integration Hub](../integration-hub/request-ih-overview.md) and [Legal schedules - IntegrationHub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
 
 -   **Role requirements**
 

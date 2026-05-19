@@ -38,5 +38,5 @@ The processResponse function within the ITAMShipmentIntegration script include r
 
 **Important:** The IT Asset Management application automatically defines the business logic within this function. The business logic should not be modified.
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](manage-shipments-eam.md)
 

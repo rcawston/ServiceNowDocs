@@ -40,5 +40,5 @@ When users are invited, their membership state is initially **Invited**. When th
     The invited users receive an email notification.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

@@ -35,8 +35,8 @@ For IBM license compliance to work with this integration, you must complete the 
 
 Complete the following steps for the [IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](ibm-ilmt-bigfix-inventory-integration.md) with the Software Asset Management application:
 
-1.  [Create a connection to ILMT or BigFix Inventory](../task/set-up-ibm-platform.md)
-2.  [Validate your ILMT connection health](../task/validate-ilmt-connection-health.md)
+1.  [Create a connection to ILMT or BigFix Inventory](set-up-ibm-platform.md)
+2.  [Validate your ILMT connection health](validate-ilmt-connection-health.md)
 
 ## Alternative to ILMT or BigFix Inventory
 

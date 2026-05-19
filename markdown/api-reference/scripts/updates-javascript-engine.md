@@ -39,5 +39,5 @@ The JavaScript engine is built on the open-source Rhino JavaScript engine and cu
 |\#1774|Don't allow methods to be used as constructors|ECMAScript 2021 \(ES12\)|Fix|
 |\#1806|Fix hoisting behavior|All modes|Fix|
 
-**Parent Topic:**[JavaScript engine on the platform](../concept/c_JS_engine_upgrade.md)
+**Parent Topic:**[JavaScript engine on the platform](c_JS_engine_upgrade.md)
 

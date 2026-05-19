@@ -61,5 +61,5 @@ Click the user name in the portal header and then click **Notification Settings*
     The link toggles to **Unsubscribed**.
 
 
-**Parent Topic:**[Use knowledge subscriptions](../concept/use-knowledge-subscriptions.md)
+**Parent Topic:**[Use knowledge subscriptions](use-knowledge-subscriptions.md)
 

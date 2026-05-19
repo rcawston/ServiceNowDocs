@@ -37,7 +37,7 @@ Role required: admin
 
 3.  Make a reservation or check for an existing reservation in Workplace Reservation Management.
 
-    For more information, see [Create a reservation](create-reservation-request-1.md).
+    For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 4.  On the Map view, select the location, building, and a floor where you have made the reservation.
 
@@ -54,7 +54,7 @@ Role required: admin
     The name of the person who booked or reserved the space is shown.
 
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -93,9 +93,9 @@ Role required: admin
 
 [Display permanent seat assignments on floor maps](display-permanent-seats-on-maps.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

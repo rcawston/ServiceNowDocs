@@ -39,5 +39,5 @@ Configuring list definitions requires a knowledge of Apache Jelly.
 **Related topics**  
 
 
-[Content Management and the Apache Jelly engine](../reference/r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](r_ContentManagementAndJelly.md)
 

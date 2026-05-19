@@ -56,7 +56,7 @@ The following figure shows that machine-generated data is sampled every 4 second
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Store time series summary of a large collection of data|[Create a time-series definition in MetricBase](../task/set-up-data-monitoring.md)|Administrator|
+|Store time series summary of a large collection of data|[Create a time-series definition in MetricBase](set-up-data-monitoring.md)|Administrator|
 |Insert and retrieve time-series data from the MetricBase database|[Developer resources](developer-resources.md)|Administrator|
 |Access and visualize time-series data in the MetricBase database|[Accessing MetricBase data](accessing-metricbase-data.md)|Administrator|
 |Trigger flows when new data is significantly different than the trained data|[Detecting anomalies in MetricBase data using predictive models](metricbase-predictive-models.md)|Administrator|

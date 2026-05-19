@@ -20,7 +20,7 @@ A blueprint is a specialized catalog item template for offering cloud services, 
 **Note:**
 
 -   Starting with Orlando, Cloud Provisioning blueprints are available on instances upgraded from a previous release but you cannot create new blueprints. Resource profiles and custom-created blueprints will no longer be supported starting with the Australia release.
--   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](../task/create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
+-   Use Cloud Provisioning cloud templates to create catalog items in place of blueprints. Cloud Provisioning [cloud templates](create-cloud-template.md) allow you to ingest Azure ARM, AWS CFT, Google Deployment Manager \(GDM\) and Terraform specification syntax in cloud catalog items to run your cloud deployment orchestration.
 
 The blueprint is the mechanism that is passed to the cloud provider to establish the cloud assets. Requesting a cloud catalog item is called launching a stack. After the cloud asset is obtained, it can then be discovered, managed, and maintained.
 
@@ -76,9 +76,9 @@ Before creating blueprints, plan the stacks you want to offer in the service cat
 
 ## Start here
 
-[Build a Cloud Provisioning blueprint](../task/create-blueprint-cmp.md)
+[Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
 
--   **[Build a Cloud Provisioning blueprint](../task/create-blueprint-cmp.md)**  
+-   **[Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)**  
 Use the blueprint designer to create custom blueprints for the Cloud Provisioning and Governance application. Blueprints are deprecated in the Orlando release.
 -   **[Form configuration with blueprints](blueprint-form-configuration.md)**  
 Blueprints control what the user sees on the catalog order form. You can configure the form to show or hide fields, populate fields with default values, and otherwise create a unique form for the user based on criteria.

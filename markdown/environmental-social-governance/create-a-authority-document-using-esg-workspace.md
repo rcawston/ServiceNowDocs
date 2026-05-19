@@ -176,5 +176,5 @@ The authority document is created, the Overview page opens, displaying its descr
 -   Citations
 -   Content reference
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

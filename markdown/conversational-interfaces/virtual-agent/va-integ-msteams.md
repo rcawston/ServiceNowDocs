@@ -26,8 +26,8 @@ Add the Now Virtual Agent bot to your ServiceNow instance to integrate with Micr
 Override Virtual Agent integration with Microsoft Teams.
 -   **[Manage the ServiceNow Virtual Agent integration with Microsoft Teams](configure-va-teams.md)**  
 Manage your ServiceNow® Virtual Agent bot branding and customize the bot messages in your ServiceNow instance after integration with Microsoft Teams.
--   **[Specialized Virtual Agent integrations for Microsoft Teams](../concept/specialized-va-integs-msteams.md)**  
+-   **[Specialized Virtual Agent integrations for Microsoft Teams](specialized-va-integs-msteams.md)**  
 The specialized Virtual Agent integrations for Microsoft Teams support different users as per their need.
 
-**Parent Topic:**[Conversational Integration with Microsoft Teams](../concept/teams-conv-integration.md)
+**Parent Topic:**[Conversational Integration with Microsoft Teams](teams-conv-integration.md)
 

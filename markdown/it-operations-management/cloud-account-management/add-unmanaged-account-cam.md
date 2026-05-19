@@ -31,7 +31,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 4.  On the Request form, fill in Cost center, Department, Account owner, and Business Unit fields.
 
-    For a description of the field values, see [New cloud account request fields](../reference/account-creation-details.md).
+    For a description of the field values, see [New cloud account request fields](account-creation-details.md).
 
 5.  Select **Update Account Details &amp; Manage**.
 

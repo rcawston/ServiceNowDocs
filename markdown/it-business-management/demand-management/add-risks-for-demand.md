@@ -33,7 +33,7 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
 4.  On the Risk form, fill in the fields.
 
-    For a description of the field names, see [Risk form](../reference/risk-form.md).
+    For a description of the field names, see [Risk form](risk-form.md).
 
 5.  Select **Submit**.
 
@@ -46,5 +46,5 @@ A risk is any uncertain event that can potentially impact the success or outcome
 -   **[Configure a custom Risk rank and Risk value for a demand](risk-value-lookup.md)**  
 Configure custom risk rank and value scores \(such as High-Medium, Medium-Low, or Absolute-Low\) to rate the impact and probability factors for a risk.
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 

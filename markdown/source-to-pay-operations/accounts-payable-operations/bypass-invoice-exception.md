@@ -21,7 +21,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the Invoice exception definition form. For more information, see [Invoice exception definition form](../reference/invoice-exception-definition-form.md).
+The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the Invoice exception definition form. For more information, see [Invoice exception definition form](invoice-exception-definition-form.md).
 
 ## Procedure
 

@@ -19,7 +19,7 @@ Create a UI action that enables users to view relevant analytics while completin
 
 Role required: pa\_power\_user, pa\_admin, or admin. In addition to the Performance Analytics roles, you must be able to create records on the UI Actions \[sys\_ui\_action\] table.
 
-Before adding in-form analytics for a specific table and breakdown, create a breakdown dashboard that uses that table and the breakdown source of that breakdown. Design the dashboard so that it prominently displays the most useful information to the users who create records on that table. For more information about breakdown dashboards, see [Using breakdowns on dashboards](../concept/c_SpecialDashboards.md).
+Before adding in-form analytics for a specific table and breakdown, create a breakdown dashboard that uses that table and the breakdown source of that breakdown. Design the dashboard so that it prominently displays the most useful information to the users who create records on that table. For more information about breakdown dashboards, see [Using breakdowns on dashboards](c_SpecialDashboards.md).
 
 Performance Analytics must be active to create in-form analytics.
 
@@ -58,5 +58,5 @@ The Self-Service view does not show the Assignment Group field by default. In th
 
 ![The dashboard pop-up opened from the Related Links](../image/in-form-analytics-related-link.png "Related link to analytics")
 
-**Parent Topic:**[In-form analytics](../concept/in-form-analytics.md)
+**Parent Topic:**[In-form analytics](in-form-analytics.md)
 

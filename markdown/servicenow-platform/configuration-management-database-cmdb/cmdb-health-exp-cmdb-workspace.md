@@ -18,8 +18,8 @@ View CMDB Health dashboards and use other CMDB Health-related features in CMDB W
 CMDB Health is fully integrated into CMDB Workspaceand Service Graph Workspace. CMDB Workspace or Service Graph Workspace are required in order to access CMDB Health features, primarily to:
 
 -   [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
--   [View relationships health](../task/t_ViewRelationshipsHealth.md)
--   [View CI health](../task/t_ViewCIHealth.md)
+-   [View relationships health](t_ViewRelationshipsHealth.md)
+-   [View CI health](t_ViewCIHealth.md)
 
 Use the CMDB Workspace landing page and its views to access CMDB Health tiles that are based on CMDB Health activities and aggregations. For example:
 
@@ -38,11 +38,11 @@ Access CMDB Health in CMDB Workspace by navigating to **Workspaces** &gt; **CMDB
 
 [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
 [CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 

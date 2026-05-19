@@ -40,5 +40,5 @@ After executing the scheduled job, the engine automatically stores the technolog
 
 To know the status of the scheduled job, refer to the TPM Discovered Technology Run Logs \[sn\_apm\_tpm\_discovered\_technology\_run\_log\] table. To view the technology lifecycle information, refer to the TPM Technology Lifecycle \[sn\_apm\_tpm\_technology\_lifecycle\] table. You can view the results in the Portfolio &gt; Technology Portfolio Management &gt; Logs page.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 

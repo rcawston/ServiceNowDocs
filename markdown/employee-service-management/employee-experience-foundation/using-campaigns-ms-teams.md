@@ -22,11 +22,11 @@ You must have the following plugins installed in your environment:
 -   Employee Center Pro \(com.snc.employee\_center\_pro\) plugin, which enables the Campaign for Content Experiences feature.
 -   Content Experiences \[sn\_ca\] plugin
 
-For more information about campaigns, see [Campaigns for Content Experiences](../../employee-center/concept/ecpro-campaigns.md).
+For more information about campaigns, see [Campaigns for Content Experiences](ecpro-campaigns.md).
 
--   **[Authenticate users with additional permissions to send campaign notifications in Microsoft Teams](../task/authenticate-user-addnl-campaign.md)**  
+-   **[Authenticate users with additional permissions to send campaign notifications in Microsoft Teams](authenticate-user-addnl-campaign.md)**  
 Assign additional Microsoft Azure permissions to users to enable Microsoft Teams create and send new campaign notifications on the user’s behalf in the teamwork activity feed.
--   **[Send campaign notifications automatically in Microsoft Teams](../task/enable-activity-feed.md)**  
+-   **[Send campaign notifications automatically in Microsoft Teams](enable-activity-feed.md)**  
 Automatically send campaign notifications in Microsoft Teams for better collaboration and efficient communication.
 -   **[Create a Microsoft Teams campaign using direct content publishing](create-campaign-content-publishing.md)**  
 Create and distribute the Microsoft Teams campaigns using direct content publishing if you have the admin role.

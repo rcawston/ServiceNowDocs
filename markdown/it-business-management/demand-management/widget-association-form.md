@@ -72,5 +72,5 @@ Include by default
 Option to show the widget by default on the Demand Financials page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

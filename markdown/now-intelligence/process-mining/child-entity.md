@@ -118,5 +118,5 @@ Displays the selected number of related records for the filters set. You can fil
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](scope-analysis.md)
 

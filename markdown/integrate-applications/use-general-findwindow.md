@@ -21,7 +21,7 @@ Role required: none
 
 The Find Window component identifies one or more rules associated with a Window and later uses the rules to set the focus back on the window. The component also returns the window handle of the window.
 
-You can configure the properties for the Find Window component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Find Window component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ You can configure the properties for the Find Window component. For more informa
 9.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

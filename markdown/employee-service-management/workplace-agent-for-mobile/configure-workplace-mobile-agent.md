@@ -15,7 +15,7 @@ breadcrumb: [Workplace Agent for mobile, Workplace Service Delivery, Employee Se
 
 Install the Workplace Agent for mobile application to start using it on the ServiceNow Agent mobile application.
 
--   **[Install Workplace Agent for mobile](../task/install-agent-workplace-services-for-mobile.md)**  
+-   **[Install Workplace Agent for mobile](install-agent-workplace-services-for-mobile.md)**  
 Install the Workplace Agent for mobile application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 **Parent Topic:**[Workplace Agent for mobile](workplace-agent-mobile-feat.md)

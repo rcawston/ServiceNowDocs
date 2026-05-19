@@ -38,5 +38,5 @@ Role required: safe\_admin or safe\_art\_user
         For more information on the Feature form fields, see [Define a feature in SAFe](create-SAFefeature.md).
 
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](program-level-tabs.md)
 

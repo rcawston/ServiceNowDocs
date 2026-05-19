@@ -29,13 +29,13 @@ From the **Collaborate** panel of the task record, you can perform any of the fo
 -   Initiate a chat conversation from the record.
 -   Import messages from an existing chat conversation to the record.
 
-An agent can view the user presence before contacting the user. For information about the refresh duration for user presence in Service Operations Workspace, see [Specify the refresh duration for user presence in Service Operations Workspace](../task/specify-refresh-duration-user-presence.md).
+An agent can view the user presence before contacting the user. For information about the refresh duration for user presence in Service Operations Workspace, see [Specify the refresh duration for user presence in Service Operations Workspace](specify-refresh-duration-user-presence.md).
 
 ![Collaborate panel from the sidebar](../image/collaborate-panel.png "Collaborate panel from the sidebar")
 
 For more information about Service Operations Workspace through ServiceNow integrations with Microsoft Teams, see [ServiceNow for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_ServiceNowForMSTeams.md).
 
--   **[Collaborate on a task record using Microsoft Teams in Service Operations Workspace](../task/start-msteams-chat-sow.md)**  
+-   **[Collaborate on a task record using Microsoft Teams in Service Operations Workspace](start-msteams-chat-sow.md)**  
 Provide a connected experience for users by starting a Microsoft Teams chat conversation from a task record or importing the chat to the task record.
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)

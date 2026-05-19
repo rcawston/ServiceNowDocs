@@ -19,12 +19,12 @@ Install the Unattended Robot. For more information, see [Install Unattended Robo
 
 Install the Unattended Robot Login Agent. For more information, see [Install Unattended Robot Login Agent](install-rpa-runtime-login-agent.md).
 
-If you are selecting **mTLS** as the type of the authentication in the following task, install a user certificate, if you have the admin role. For more information, see [Install the user-generated certificates](../../rpa-core/concept/use-user-certificates-rpa.md#).
+If you are selecting **mTLS** as the type of the authentication in the following task, install a user certificate, if you have the admin role. For more information, see [Install the user-generated certificates](use-user-certificates-rpa.md#).
 
 For high density robots, ensure that the following requirements are met:
 
 -   Set up the environment for high density robots on a Windows Server machine. For more information, see [Set up Windows Server machine for high density robots](setup-windows-server-hdr.md).
--   Familiarize yourself with high density robots concepts. For more information, see [High density robots in Unattended Robot](../concept/high-density-robots-uat.md) and [High density robots in RPA Hub](../../rpa-hub/concept/high-density-robots-rpa-hub.md).
+-   Familiarize yourself with high density robots concepts. For more information, see [High density robots in Unattended Robot](high-density-robots-uat.md) and [High density robots in RPA Hub](high-density-robots-rpa-hub.md).
 
 Role required: sn\_rpa\_fdn.rpa\_robot \(for connection\); sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin \(for setup\)
 
@@ -77,7 +77,7 @@ High density robots
 
 Select this option to add multiple high density robots user profiles.High density robots leverage the Remote Desktop Services to execute multiple automations simultaneously in separate user sessions on the same Windows server machine.
 
-For more information on high density robots, see [High density robots in RPA Hub](../../rpa-hub/concept/high-density-robots-rpa-hub.md) and [High density robots in Unattended Robot](../concept/high-density-robots-uat.md).
+For more information on high density robots, see [High density robots in RPA Hub](high-density-robots-rpa-hub.md) and [High density robots in Unattended Robot](high-density-robots-uat.md).
 
 You must set up Windows server for high density robots. For more information, see [Set up Windows Server machine for high density robots](setup-windows-server-hdr.md).
 
@@ -146,5 +146,5 @@ Run an unattended robot to execute the unattended bot process. For more informat
 **Related topics**  
 
 
-[Install the user-generated certificates](../../rpa-core/concept/use-user-certificates-rpa.md#)
+[Install the user-generated certificates](use-user-certificates-rpa.md#)
 

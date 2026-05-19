@@ -132,18 +132,18 @@ Data certification helps maintain high‑quality data across architecture portfo
 ## Applications and features
 
 -   [Enterprise Architecture Workspace](ea-workspace.md)
--   [Now Assist for Enterprise Architecture \(EA\)](../../now-assist-ea/concept/now-assist-ea.md)
+-   [Now Assist for Enterprise Architecture \(EA\)](now-assist-ea.md)
 -   [Managing requests, certifications, and assessments](manage-requests-certs-assessments.md)
 -   [Exploring a business portfolio](manage-business-portfolio.md)
--   [Explore the Enterprise Architecture Workspace dashboard](../../../use/dashboards/concept/eaw-workspace-dashboard.md)
--   [Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-concept/eaw-tpm.md)
--   [Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-concept/eaw-modeling.md)
--   [Gantt view of TPM and TRM lifecycle timelines](eaw-concept/eaw-gantt-view-of-tpm-and-trm-lifecycle-timelines.md)
--   [Rationalization of business applications](eaw-concept/eaw-rationalize-business-applications.md)
--   [Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-concept/eaw-app-tco.md)
+-   [Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md)
+-   [Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md)
+-   [Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
+-   [Gantt view of TPM and TRM lifecycle timelines](eaw-gantt-view-of-tpm-and-trm-lifecycle-timelines.md)
+-   [Rationalization of business applications](eaw-rationalize-business-applications.md)
+-   [Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-app-tco.md)
 
 -   **[Enterprise Architecture Workspace](ea-workspace.md)**  
 The Enterprise Architecture Workspace \(EA Workspace\) is part of the Enterprise Architecture application. It provides an interactive user interface to enable enterprise architects to stay up to date with their tasks, get insights, and monitor the health of the portfolio from a single location.
--   **[Now Assist for Enterprise Architecture \(EA\)](../../now-assist-ea/concept/now-assist-ea.md)**  
+-   **[Now Assist for Enterprise Architecture \(EA\)](now-assist-ea.md)**  
 Use the ServiceNow® Now Assist for Enterprise Architecture \(EA\) application to summarize Architectural Decision Records \(ADR\) in the Enterprise Architecture Workspace Use the Architectural Decision Records \(ADR\) to explain your infrastructure. ADR is a type of artifact that helps you to understand the background of a specific architectural decision.
 

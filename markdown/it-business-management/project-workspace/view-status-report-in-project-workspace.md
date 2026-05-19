@@ -54,7 +54,7 @@ You can also compare two reports to compare and analyze the progress.
 **Related topics**  
 
 
-[Status reporting in Project Workspace](../concept/status-reporting-in-pw.md)
+[Status reporting in Project Workspace](status-reporting-in-pw.md)
 
 [Create a status report template in Project Workspace](create-a-status-report-template-project-workspace.md)
 

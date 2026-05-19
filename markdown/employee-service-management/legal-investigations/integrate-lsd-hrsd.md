@@ -34,7 +34,7 @@ Role required: admin
 
 1.  Activate the record producers for complaints submission via the **Quick Link** in Employee Center.
 
-    For more information, see [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+    For more information, see [Record producers for legal investigations](record-producers-legal-investigation.md).
 
     1.  Navigate to **All** &gt; **Service Catalog** &gt; **Record Producers**.
 
@@ -85,7 +85,7 @@ Role required: admin
 
         **Note:** If a service isn’t selected while transferring the ticket, then the transfer happens to the default service configured for the selected transfer department.​
 
-    For more information, see [Universal Request properties](../../universal-request/reference/ur-properties.md).
+    For more information, see [Universal Request properties](../universal-request-for-hr-service-delivery/ur-properties.md).
 
 5.  For Legal to HR complete data copy to execute, activate **HRERDepartmentTransferPostProcessor**.
 

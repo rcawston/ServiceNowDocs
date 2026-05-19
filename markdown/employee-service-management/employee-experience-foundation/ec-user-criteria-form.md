@@ -127,7 +127,7 @@ Option to make every condition required when the user criteria is applied. The c
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

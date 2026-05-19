@@ -45,5 +45,5 @@ A trading holiday might impact the stock preclearance approval validity period b
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](legal-stock-pre-administration.md)
 

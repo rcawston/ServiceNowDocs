@@ -88,7 +88,7 @@ Assign the badge template to a workplace location. For more information, see [As
 -   **[Assign badge templates to a workplace location](assign-badge-location.md)**  
 Assign a badge template to a workplace location.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
 
 **Related topics**  
 
@@ -103,7 +103,7 @@ Assign a badge template to a workplace location.
 
 [Configure visit requirements](configure-visit-requirements.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](quick-start-tests-wsd-visitor-mgmt.md)
 

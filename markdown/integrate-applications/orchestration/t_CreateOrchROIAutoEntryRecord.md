@@ -136,5 +136,5 @@ Actual average number of times this task is performed manually per month.
     -   **Submit**: Saves the record to the table without running any calculations.
     -   **Submit and process now**: Saves the record and calculates the savings based on the hourly rate and the number of workflow contexts for this automation entry.
 
-**Parent Topic:**[Orchestration ROI](../concept/c_OrchestrationROI.md)
+**Parent Topic:**[Orchestration ROI](c_OrchestrationROI.md)
 

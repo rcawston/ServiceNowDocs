@@ -36,5 +36,5 @@ Authority documents represent official regulatory publications such as rulebooks
 5.  Select **Save**.
 
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](regulatory-agency-library-rcm.md)
 

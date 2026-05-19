@@ -17,8 +17,8 @@ Risks can affect the health of an engagement and jeopardize the chances of expan
 
 Risk signals can be:
 
--   Created manually. See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md).
--   Generated automatically when a threshold value is breached or a specific condition is met. See [Define risk criteria](../task/account-lifecycle-setup-risk-defn.md).
+-   Created manually. See [Create a risk signal](account-lifecycle-create-risk-signal.md).
+-   Generated automatically when a threshold value is breached or a specific condition is met. See [Define risk criteria](account-lifecycle-setup-risk-defn.md).
 
 The following list shows a few sample use cases when risk signals are generated:
 

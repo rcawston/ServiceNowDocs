@@ -95,5 +95,5 @@ Steps
 -   Click **View Details** to open the claim and view its details. You can also add additional information in the **Comments** field that can help the claim agent in resolving the case.
 -   A claim agent can start working on the claim.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

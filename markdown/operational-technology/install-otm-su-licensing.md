@@ -29,7 +29,7 @@ The following items are installed with ITOM SU Licensing:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with ITOM SU Licensing for OTM](../../it-operations-management/reference/components-installed-otm-su-licensing.md).
+For more information, see [Components installed with ITOM SU Licensing for OTM](components-installed-otm-su-licensing.md).
 
 ## Procedure
 

@@ -108,5 +108,5 @@ If the selected UCF Shared List that you are downloading does not include all th
     |Control|Control objective|
 
 
-**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](../concept/c_UCF.md)
+**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](c_UCF.md)
 

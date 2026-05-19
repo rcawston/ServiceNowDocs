@@ -91,5 +91,5 @@ Brief description of the impacted areas or objects.
 </table>7.  Select **Save**.
 
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

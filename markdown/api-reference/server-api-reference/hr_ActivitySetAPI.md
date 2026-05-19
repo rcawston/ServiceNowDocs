@@ -21,7 +21,7 @@ The hr\_ActivitySet API requires the HR Lifecycle Events plugin \(com.sn\_hr\_li
 
 For additional information, see [Understanding Enterprise Onboarding and Transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/understanding-enterprise-onboarding-and-transitions.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## hr\_ActivitySet - hr\_ActivitySet\(\)
 

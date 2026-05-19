@@ -46,22 +46,22 @@ Role required: sn\_apm.apm\_user and sn\_align\_core.apw\_user
     Alternatively, you can also create your own portfolio plan in the Strategic Planning Workspace \(SPW\) using the Business Capability lens. For more information, see [Create a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 
-**Parent Topic:**[Working with the business portfolio module](../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
 [Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
 [Create a sub-capability](eaw-create-sub-capability.md)
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
 [Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 

@@ -30,5 +30,5 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 4.  The logs of all executed actions is displayed.
 
 
-**Parent Topic:**[Manage actions](../concept/manage-actions.md)
+**Parent Topic:**[Manage actions](manage-actions.md)
 

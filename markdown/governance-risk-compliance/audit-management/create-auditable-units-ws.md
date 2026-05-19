@@ -25,7 +25,7 @@ Auditable units are a combination of different entities such as business units, 
 
 After you determine the nature and scope of the auditable units, your goal is to perform risk assessments, and scope auditable units and entities based on the risk rating.
 
-See also [Perform advanced risk assessment in the Risk workspace](../../grc-workspace-risk/task/perform-ara-workspace.md).
+See also [Perform advanced risk assessment in the Risk workspace](../grc-risk-management-workspace/perform-ara-workspace.md).
 
 ## Procedure
 
@@ -171,6 +171,6 @@ Residual risk score. The value in this field is derived from advanced risk asses
 
 10. If you have GRC: Advanced Risk application installed and if you have selected Risk Assessment Method as **Detailed Risk Assessment**, then you can assess risk by clicking the **Assess risk** button.
 
-    For more information, see risk assessment method in [Create an auditable unit](../../grc-audit/task/create-auditable-unit.md#table_r2w_hbm_5mb).
+    For more information, see risk assessment method in [Create an auditable unit](create-auditable-unit.md#table_r2w_hbm_5mb).
 
 

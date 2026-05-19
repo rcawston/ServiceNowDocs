@@ -55,7 +55,7 @@ Edit or delete signatories.
 
 </td><td>
 
-[Edit or delete participants using add-in](../concept/cncore-del-signatory-addin.md)
+[Edit or delete participants using add-in](cncore-del-signatory-addin.md)
 
 </td></tr><tr><td>
 
@@ -88,12 +88,12 @@ Right-click the content control and select **Remove Content Control**.The conten
 9.  On finalizing the content of the contract document, select **Publish**.
 
 
--   **[Edit or delete participants using add-in](../concept/cncore-del-signatory-addin.md)**  
+-   **[Edit or delete participants using add-in](cncore-del-signatory-addin.md)**  
 As a contract configurator, edit or delete a participant from a Microsoft Word document using the Microsoft Word add-in for ServiceNow Contracts.
 -   **[Edit or delete table mappings in a contract template using Microsoft Word add-in](cncore-manage-table-mappings.md)**  
 As a contract configurator, edit or delete table mappings in a contract template using the Microsoft Word add-in.
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

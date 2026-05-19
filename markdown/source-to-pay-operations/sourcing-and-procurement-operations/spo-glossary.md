@@ -20,18 +20,18 @@ Glossary terms are grouped alphabetically.
 
 [A](spo-glossary.md#) \| [B](spo-glossary.md#) \| [C](spo-glossary.md#) \| [D](spo-glossary.md#) \| [E](spo-glossary.md#) \| [F](spo-glossary.md#) \| [G](spo-glossary.md#) \| [H](spo-glossary.md#) \| [L](spo-glossary.md#) \| [M](spo-glossary.md#) \| [N](spo-glossary.md#) \| [O](spo-glossary.md#) \| [P](spo-glossary.md#) \| [Q](spo-glossary.md#) \| [R](spo-glossary.md#) \| [S](spo-glossary.md#) \| [T](spo-glossary.md#) \| [V](spo-glossary.md#) \| [W](spo-glossary.md#)
 
-**Parent Topic:**[Sourcing and Procurement Operations reference](../reference/spo-reference.md)
+**Parent Topic:**[Sourcing and Procurement Operations reference](spo-reference.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](base-system-procurement-case-types.md)
 
-[Create New Pipeline Project form](../reference/create-pipeline-project-form.md)
+[Create New Pipeline Project form](create-pipeline-project-form.md)
 
-[Pipeline project record tabs and UI actions](../reference/pipeline-form-tabs-actions.md)
+[Pipeline project record tabs and UI actions](pipeline-form-tabs-actions.md)
 
-[Purchase requisition, purchase order, and sourcing request states](../reference/pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
 
 [SPO and ITAM data model mappings](itam-spo-data-model.md)
 

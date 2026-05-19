@@ -111,10 +111,10 @@ Use the Software EOL request form to create a software end of life \(EOL\) reque
 SAM managers can view the client access license \(CAL\) usage details for Microsoft Windows Server in the User Device License Consumption table and create CAL records.
 -   **[User resolution rule fields](user-resolution-rule-fields.md)**  
 Fields on the User Resolutions Rules page help you create a rule to map the **User** field in the Software Subscription \[samp\_sw\_subscription\] table to an associated user in the User \[sys\_user\] table within the ServiceNow AI Platform.
--   **[Domain separation and Software Asset Management](../concept/domain-separation-software-asset-management.md)**  
+-   **[Domain separation and Software Asset Management](domain-separation-software-asset-management.md)**  
 Domain separation is supported in Software Asset Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Quick start tests for Software Asset Management](quick-tests-sam.md)**  
 Validate that Software Asset Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-**Parent Topic:**[Software Asset Management](../concept/c_SoftwareAssetMgmt.md)
+**Parent Topic:**[Software Asset Management](c_SoftwareAssetMgmt.md)
 

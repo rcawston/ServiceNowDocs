@@ -63,7 +63,7 @@ Playbooks add value to demand management by:
 
 **Note:**
 
--   You can use the demand default playbook and customize it according to your organization's requirements. For more information about the stages and activities of this playbook, see [Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md).
+-   You can use the demand default playbook and customize it according to your organization's requirements. For more information about the stages and activities of this playbook, see [Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md).
 -   You can also create a demand playbook according to your requirements. For more information, see [Create and configure playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/setting-up-process-automation-designer.md).
 
 **Related topics**  
@@ -71,9 +71,9 @@ Playbooks add value to demand management by:
 
 [Workflow Studio playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/workflow-studio-playbooks-landing.md)
 
-[Create and customize playbooks](../task/create-and-customize-playbooks-ppw.md)
+[Create and customize playbooks](create-and-customize-playbooks-ppw.md)
 
-[Use Playbooks](../task/use-playbooks-in-ppw.md)
+[Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 

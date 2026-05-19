@@ -55,22 +55,22 @@ Menu action scripts are executed on the client when a user clicks the menu optio
 |item.location\_name|The full address of the location, such as 4616 Clairemont Drive, North Clairemont, San Diego CA.|
 |item.manufacturer\_id|The sys\_id of the CI's manufacturer.|
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
 
-[Create or modify map indicators](../task/t_CreateModifyNGBSMMapIndicators.md)
+[Create or modify map indicators](t_CreateModifyNGBSMMapIndicators.md)
 
-[Create or modify map icons](../task/t_CreateModifyNGBSMMapIcons.md)
+[Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
 
-[Create a predefined filter](../task/create-predefined-filter.md)
+[Create a predefined filter](create-predefined-filter.md)
 
-[Set a predefined filter as default](../task/set-predefined-filter-default.md)
+[Set a predefined filter as default](set-predefined-filter-default.md)
 
-[Create or modify Map Related Items](../task/t_CreateModifyNGBSMMapRelatedItems.md)
+[Create or modify Map Related Items](t_CreateModifyNGBSMMapRelatedItems.md)
 
-[Create or modify Dependency Views menu actions](../task/t_CreateModifyNGBSMMenuActions.md)
+[Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Create or edit a dependency type](../task/t_CreateMapScript.md)
+[Create or edit a dependency type](t_CreateMapScript.md)
 

@@ -66,7 +66,7 @@ Let's open a form and customize it.
 
         You can also add questions by selecting the add icon \(+\) that appears when you click on an existing question on the form. If you're adding a pre-configured **Question set**, you must select the question set from the modal that appears when you drag it onto the form.
 
-        For a description of question types and how they're used, see [Available question types in Creator Studio](../reference/creator-studio-form-elements-ref.md).
+        For a description of question types and how they're used, see [Available question types in Creator Studio](creator-studio-form-elements-ref.md).
 
     2.  Select the question.
 
@@ -78,7 +78,7 @@ Let's open a form and customize it.
 
         ![Entering details for a question on a form](../image/crs-form-questions-sets-dynamic-update.png "Form question details")
 
-    4.  Make the form's appearance change based on how users answer questions by adding [dynamic behavior](../concept/creator-studio-glossary.md#) to it on the **Behaviors** tab.
+    4.  Make the form's appearance change based on how users answer questions by adding [dynamic behavior](creator-studio-glossary.md#) to it on the **Behaviors** tab.
 
         For example, if a user says they want a T-shirt for an event they're attending, you can make a **T-shirt size** field required. Get the details on adding dynamic in [Make a form change based on responses in Creator Studio](creator-studio-dynamic-behavior.md).
 
@@ -133,7 +133,7 @@ Field in the source table for the record choices question that contains the valu
 
         ![Hover over the section name to edit it](../image/crs-section-edit-hover.png "Selecting a section")
 
-        For more information, see [Layout options for forms in Creator Studio](../reference/creator-studio-form-layout-options.md).
+        For more information, see [Layout options for forms in Creator Studio](creator-studio-form-layout-options.md).
 
     3.  Select **Save** in the Section details/Question details panel when you’re done revising the form’s layout.
 
@@ -158,5 +158,5 @@ You must then mark the form as ready to publish it, which makes it available for
 
 You can select the **Undo all changes** option, available in the form header's more options icon \(![Select more options to undo changes](../image/cs-more-actions-icon.png)\), to reset a form to the most recently published version.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

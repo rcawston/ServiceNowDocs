@@ -21,11 +21,11 @@ See the [full release notes for all CMDB CI Class Models](https://www.servicenow
 
 Related ServiceNow® Store apps and reference information:
 
--   [Configuration Management database](c_ConfigurationManagementDatabase.md): A collection of class diagrams and class attributes for key CMDB classes.
--   [CMDB tables descriptions](../reference/cmdb-tables-details.md): Descriptions of key CMDB tables in the base system.
--   [Populating the CMDB](c_OptionsToPopulateCMDB.md): Information about the various options for populating the CMDB.
+-   [Configuration Management database](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md): A collection of class diagrams and class attributes for key CMDB classes.
+-   [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md): Descriptions of key CMDB tables in the base system.
+-   [Populating the CMDB](../configuration-management-database-cmdb/c_OptionsToPopulateCMDB.md): Information about the various options for populating the CMDB.
 -   [Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md): A ServiceNow Store app that provides a library of Discovery patterns for discovering specific devices and applications in the industry.
--   [Service Graph Connectors](cmdb-third-party-integrations.md): ServiceNow Store apps that provide predefined integrations for importing and integrating common third-party data into CMDB classes. Also includes the [IntegrationHub ETL](integrationhub-etl.md) wizard for creating new ETL transform maps.
+-   [Service Graph Connectors](../configuration-management-database-cmdb/cmdb-third-party-integrations.md): ServiceNow Store apps that provide predefined integrations for importing and integrating common third-party data into CMDB classes. Also includes the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) wizard for creating new ETL transform maps.
 
 ## Add class models
 
@@ -35,7 +35,7 @@ The CMDB CI Class Models app adds classes, columns, and associated metadata as r
 -   Identifier \[cmdb\_identifier\]: Identification rules
 -   Identifier Entry \[cmdb\_identifier\_entry\]: Identification entries
 -   CMDB Metadata Hosting Rules \[cmdb\_metadata\_hosting\]: Dependent relationships
--   CMDB Deduplication Task Lookup or Related item allowed classes \[cmdb\_duplicate\_lookup\_related\_allowed\_class\]. For more information, see [Detecting duplicate referenced CIs during lookup-based identification](id-detect-dup-ci.md#section_unn_yjr_xgc).
+-   CMDB Deduplication Task Lookup or Related item allowed classes \[cmdb\_duplicate\_lookup\_related\_allowed\_class\]. For more information, see [Detecting duplicate referenced CIs during lookup-based identification](../configuration-management-database-cmdb/id-detect-dup-ci.md#section_unn_yjr_xgc).
 
 ## Discover using extension classes
 

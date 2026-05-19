@@ -183,7 +183,7 @@ Menu items are the links that appear within each menu section.
 **Related topics**  
 
 
-[Menu types](../reference/r_MenuTypes.md)
+[Menu types](r_MenuTypes.md)
 
-[Menu style customization](../concept/c_CustomizeTheMenuStyle.md)
+[Menu style customization](c_CustomizeTheMenuStyle.md)
 

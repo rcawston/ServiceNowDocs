@@ -29,21 +29,21 @@ For more details on the process of deprecation and its effects on your usage of 
 
 If you are an existing user of Facilities Service Management, you can continue to use the application.
 
--   **[Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md)**  
+-   **[Facilities visualization workbench configuration](r_WorkbenchConfiguration.md)**  
 Space administrators configure properties on the workbench. In the application navigator, **Facilities** &gt; **Workbench Configuration** contains the configuration settings divided into sections.
--   **[Migrate facilities data to new space definition tables](../../facilities-legacy-floor-plan-viewer/task/t_MigFacDataToNewSpaceDefTable.md)**  
+-   **[Migrate facilities data to new space definition tables](t_MigFacDataToNewSpaceDefTable.md)**  
 To continue using the image-based floor plans with the new space definition, migrate your data from the old tables to the new space definition tables.
--   **[Installed with Facilities Visualization Workbench](../reference/r_InstallWFacVisWorkbench.md)**  
+-   **[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)**  
 Several types of components are installed with the Facilities Visualization Workbench plugin.
 
-**Parent Topic:**[Facilities Service Management overview](../../facilities-service-management/concept/c_FacilitiesServiceManagement.md)
+**Parent Topic:**[Facilities Service Management overview](c_FacilitiesServiceManagement.md)
 
 **Related topics**  
 
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-[Activate Facilities Service Management](../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
+[Activate Facilities Service Management](t_ActivateFacilitiesSM.md)
 
 [Activate Facilities Visualization Workbench](t_ActivateFacVisWorkbench.md)
 

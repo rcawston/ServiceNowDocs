@@ -47,5 +47,5 @@ Role required: AI Asset Owner or AI Risk and Compliance Analyst \[sn\_grc\_ai\_g
 
 [Perform risk assessments on AI systems](perform-risk-assessments-on-ai-systems.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

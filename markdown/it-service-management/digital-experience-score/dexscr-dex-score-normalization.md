@@ -56,7 +56,7 @@ Minimize the value when lower values are better, for example, metric for CPU usa
 -   L2 = Low value of metric value range
 -   H2 = High value of metric value range
 
-You can customize the lower bound values for Good, Average, and Poor ranges. For more information, see [Customize metric definitions](../task/dexscr-customize-dex-score-metric-defs.md)
+You can customize the lower bound values for Good, Average, and Poor ranges. For more information, see [Customize metric definitions](dexscr-customize-dex-score-metric-defs.md)
 
 -   **Example for an application metric normalization \(maximize\)**
 
@@ -81,14 +81,14 @@ You can customize the lower bound values for Good, Average, and Poor ranges. For
     Normalized value \(Minimize\) = `74 - ((79 - 55) / (84 - 55) x (74 - 65))` = 66 \(rounded off\).
 
 
-**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 
 **Related topics**  
 
 
-[Define qualitative mapping for a DEX Score metric](../task/dexscr-define-qlty-metric-score-mapping.md)
+[Define qualitative mapping for a DEX Score metric](dexscr-define-qlty-metric-score-mapping.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](dexscr-dex-score-defs.md)
 
 [DEX Score metrics calculation](dexscr-dex-score-metrics-calc.md)
 

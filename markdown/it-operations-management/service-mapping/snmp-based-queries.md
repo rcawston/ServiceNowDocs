@@ -197,5 +197,5 @@ Make sure that the user has credentials for SNMPv3 unless read-only community st
 **Related topics**  
 
 
-[ITOM Content Service reference](../../discovery/reference/itom-content-service-classifiers.md)
+[ITOM Content Service reference](../itom-visibility/itom-content-service-classifiers.md)
 

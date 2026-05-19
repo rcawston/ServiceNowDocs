@@ -51,7 +51,7 @@ The following section describes the steps that are involved in the Asset Audit R
 |-------|-------|----|
 |Create and manage financial regulatory audit engagements and corresponding evidence requests.|[Audit Workspace](audit-workspace.md)|Audit managers|
 |Track and manage responses to evidence requests for your financial regulatory audits.|[Asset Governance Workspace](asset-governance-workspace.md)|Asset managers|
-|Fulfill evidence requests for your financial regulatory audits.|[Asset Response Guided Experience](../task/fulfill-evidence-requests-guided-experience.md)|Asset managers|
+|Fulfill evidence requests for your financial regulatory audits.|[Asset Response Guided Experience](fulfill-evidence-requests-guided-experience.md)|Asset managers|
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 

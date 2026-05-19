@@ -32,5 +32,5 @@ Role required: evt\_mgmt\_admin
 3.  Modify the scripts indicated in the **Run this script** field to determine what the scripts are to monitor.
 
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 

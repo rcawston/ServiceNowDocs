@@ -34,5 +34,5 @@ The LogRhythm REST API uses a token for authentication, so you can make the actu
     For a successful connection to the LogRhythm REST API, you should receive an HTTP 404, but the response body contains `Alarm ID: 0 not found`.
 
 
-**Parent Topic:**[Troubleshooting the LogRhythm integration](../concept/troubleshooting-logrhythm-integration.md)
+**Parent Topic:**[Troubleshooting the LogRhythm integration](troubleshooting-logrhythm-integration.md)
 

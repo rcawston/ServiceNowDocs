@@ -24,5 +24,5 @@ Initiate a conference call from the major incident workbench by inviting one or 
 -   **[Manage calls in Microsoft Teams](manage-calls-ms-teams.md#)**  
 Manage conference calls in Microsoft Teams by muting or unmuting participants, or ending the call.
 
-**Parent Topic:**[Use Microsoft Teams integration for Agent Experience](../../sn-teams/concept/c_agent_ex_use.md)
+**Parent Topic:**[Use Microsoft Teams integration for Agent Experience](c_agent_ex_use.md)
 

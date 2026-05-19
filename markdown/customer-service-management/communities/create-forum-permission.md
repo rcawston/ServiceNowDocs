@@ -49,5 +49,5 @@ You can copy all permissions and content types from one forum to another.
 -   **[Debug user permissions](debug-user-permissions.md)**  
 Investigate and diagnose problems with user access to forums.
 
-**Parent Topic:**[Forum and user permissions management](../concept/communities-permissions.md)
+**Parent Topic:**[Forum and user permissions management](communities-permissions.md)
 

@@ -25,9 +25,9 @@ You must also understand additional Configurable Workspace components to configu
 
 -   **[Install Legal Counsel Center Workspace](install-legal-counsel-center-workspace.md)**  
 You can install the Legal Counsel Center application \(sn\_lg\_cf\_workspace\) if you have the admin role. The application installs ServiceNow® Store applications and plugins if they are not already installed.
--   **[Enable or disable notifications](../task/enable-disable-notification.md)**  
+-   **[Enable or disable notifications](enable-disable-notification.md)**  
 Enable or disable Legal Counsel Center notifications to subscribe to items that interest you and unsubscribe from information that does not interest you and is not mandatory.
--   **[Configure AI Search for Legal Counsel Center](../task/configure-ai-search-for-legal-counsel-center.md)**  
+-   **[Configure AI Search for Legal Counsel Center](configure-ai-search-for-legal-counsel-center.md)**  
 Configure your AI Search implementation for Legal Counsel Center Workspace.
 
 **Parent Topic:**[Legal Counsel Center](legal-counsel-center-landing.md)

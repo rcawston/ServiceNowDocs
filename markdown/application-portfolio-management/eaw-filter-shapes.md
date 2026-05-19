@@ -30,22 +30,22 @@ Role required: sn\_apm.apm\_user
     ![Search shapes in a diagram](../../image/eaw-image/modeling/eaw-modeling-search-shapes.png)The corresponding shapes appear in the panel.
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
 [Create a blank diagram using modeling in the EA Workspace](eaw-modeling-create-diagram.md)
 
-[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+[Working with business capability map](eaw-work-with-bc-map.md)
 
-[Working with business hierarchy map](../../concept/eaw-concept/eaw-work-with-ba-map.md)
+[Working with business hierarchy map](eaw-work-with-ba-map.md)
 
-[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+[Working with business process map](eaw-work-with-bp-map.md)
 
-[Working with ArchiMate Shapes](../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
+[Working with ArchiMate Shapes](eaw-work-with-archimate-shapes.md)
 
-[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+[Working with custom shapes](eaw-working-custom-shapes.md)
 
 [Add related records in the modeling diagram](eaw-modeling-add-related-records.md)
 

@@ -28,7 +28,7 @@ View a recall campaign using the All campaigns form.
 Display the claims assigned to the person who has logged in to the workspace.
 -   **[Create a campaign phase](mco-rc-all-campaign-phases.md)**  
 Create a recall campaign phase claim assigned to those logged in to the workspace.
--   **[Merge two or more phases](../task/mco_merge_phases.md)**  
+-   **[Merge two or more phases](mco_merge_phases.md)**  
 Merge phases and sub-phases to reorganize and transfer assets.
 
 **Parent Topic:**[Agent management](mco-agent-management.md)

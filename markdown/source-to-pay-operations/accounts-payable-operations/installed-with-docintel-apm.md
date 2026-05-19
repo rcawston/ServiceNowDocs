@@ -111,5 +111,5 @@ Invoice Line Stage
 Stores the invoice line data extracted from the invoice.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Accounts Payable Operations integration with Document Intelligence](../concept/apm-integration-docintel.md)
+</table>**Parent Topic:**[Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)
 

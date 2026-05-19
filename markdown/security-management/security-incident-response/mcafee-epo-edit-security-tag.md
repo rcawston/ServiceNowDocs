@@ -21,7 +21,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-As a user with the sn\_si.admin role, you may prefer to edit the colors and names of the security tags that are displayed on SIR security incidents. You may also assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so the start tag of a capability is one color, and the completion tag is another color. These different colors can help you quickly identify when scans start and are successfully completed. For more information on how to set up security tag groups and tags, see [Set up security tag groups and tags](../../security-operations-common/task/create-class-group-and-tags.md).
+As a user with the sn\_si.admin role, you may prefer to edit the colors and names of the security tags that are displayed on SIR security incidents. You may also assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so the start tag of a capability is one color, and the completion tag is another color. These different colors can help you quickly identify when scans start and are successfully completed. For more information on how to set up security tag groups and tags, see [Set up security tag groups and tags](../create-class-group-and-tags.md).
 
 ## Procedure
 
@@ -112,9 +112,9 @@ A description for the tag.
     |**Delete**|Delete this tag record from the McAfee ePO capability.|
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Test security incidents and approve requests for the isolate host](mcafee-epo-test-incident-ih.md)
 
-**Next topic:**[McAfee ESM - Email Parser integration](../../secops-integration-sir/secops-integration-intel-mcafee-esm-emailparser/concept/mcafee-esm-emailparser-integration.md)
+**Next topic:**[McAfee ESM - Email Parser integration](mcafee-esm-emailparser-integration.md)
 

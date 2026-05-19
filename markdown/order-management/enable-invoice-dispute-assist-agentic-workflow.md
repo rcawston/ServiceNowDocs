@@ -53,7 +53,7 @@ Agentic workflows that are installed with Now Assist applications aren’t autom
     The invoice dispute assist agentic workflow appears as a promoted topic in the Now Assist panel, making it directly accessible to agents without requiring a search.
 
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 

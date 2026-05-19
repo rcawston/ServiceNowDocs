@@ -84,7 +84,7 @@ Shows the set target to cover for a metric.
 
  The status of the targets is indicated through color coding. It shows all the targets whose review date is either within the past 30 days or upcoming. You can set the number of days for displaying targets using the **sn\_bod.show\_targets\_from** system property. Additionally, these targets can be edited.
 
- See [Set targets](../../../product/vulnerability-response/task/set-targets-cybersecurity-dashboard.md) for more information.
+ See [Set targets](set-targets-cybersecurity-dashboard.md) for more information.
 
 </td></tr></tbody>
 </table><table id="table_n43_yv4_mbc"><thead><tr><th>
@@ -219,7 +219,7 @@ Average time taken to close vulnerabilities and failed test results across all a
 -   Industry benchmark: Average of metrics from the peers in the same industry.
 -   Global benchmark: Average of metrics from the peers in the global market
 
- See [Opt-in for benchmark scores](../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
+ See [Opt-in for benchmark scores](vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
 
 </td></tr><tr><td>
 
@@ -402,7 +402,7 @@ Average time taken to close OT vulnerabilities. The ratio of total age of OT vul
 -   Industry benchmark: Average of metrics from the peers in the same industry.
 -   Global benchmark: Average of metrics from the peers in the global market
 
- See [Opt-in for benchmark scores](../../../product/vulnerability-response/task/vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
+ See [Opt-in for benchmark scores](vr-retrieve-benchmark-results.md) on how to view the benchmark scores.
 
 </td></tr><tr><td>
 

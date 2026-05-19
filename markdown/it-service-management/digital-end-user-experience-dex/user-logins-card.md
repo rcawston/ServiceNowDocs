@@ -30,7 +30,7 @@ Some of the crucial information that the Access page offers are:
 |SID|Unique alphanumeric identifier used to identify devices.|
 |Loaded|Indicates whether the device's operating system or software is successfully initialized or started.|
 
-To return to the main access page, see [Device details](../concept/dex-workspace-user-details.md).
+To return to the main access page, see [Device details](dex-workspace-user-details.md).
 
 **Parent Topic:**[Device details pages](user-device-details-pages.md)
 

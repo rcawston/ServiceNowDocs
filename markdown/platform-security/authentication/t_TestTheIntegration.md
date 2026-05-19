@@ -43,5 +43,5 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 **Related topics**  
 
 
-[Multi-SSO \(SAML 2.0\) errors and fixes](../reference/saml-errors.md)
+[Multi-SSO \(SAML 2.0\) errors and fixes](saml-errors.md)
 

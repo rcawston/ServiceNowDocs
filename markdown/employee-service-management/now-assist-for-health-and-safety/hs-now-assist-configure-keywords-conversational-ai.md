@@ -46,5 +46,5 @@ The keywords for the incident or observation record for conversation AI are the 
 
 The keywords are saved to the record producer. Employees can use these keywords in the Now Assist panel to trigger conversational reporting for Health and Safety incidents or observations.
 
-**Parent Topic:**[Configure conversational AI](../concept/hs-configure-conversational-ai.md)
+**Parent Topic:**[Configure conversational AI](hs-configure-conversational-ai.md)
 

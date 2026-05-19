@@ -32,5 +32,5 @@ Role required: routing agents, sn\_uni\_req.sensitiveinfo\_agent or service-spec
 5.  On the form, select the **Restrict** button.
 
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](using-ur-sow.md)
 

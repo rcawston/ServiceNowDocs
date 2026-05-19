@@ -21,8 +21,8 @@ A conversation topic defines the dialog between the Virtual Agent chatbot and th
 
 The steps for configuring Field Service Virtual Agent Conversations are:
 
-1.  Install the Field Service Virtual Agent Conversations application. For more information, see [Install Field Service Virtual Agent Conversations](../task/activate-virtual-agent-fsm.md).
-2.  Publish the predefined Virtual Agent topics. For more information see, [Activate required Virtual Agent conversation topics for Field Service Management](../task/activate-va-conversation-fsm.md).
+1.  Install the Field Service Virtual Agent Conversations application. For more information, see [Install Field Service Virtual Agent Conversations](activate-virtual-agent-fsm.md).
+2.  Publish the predefined Virtual Agent topics. For more information see, [Activate required Virtual Agent conversation topics for Field Service Management](activate-va-conversation-fsm.md).
 3.  Integrate the NLU model with your Virtual Agent topics. For more information, see [Activate Virtual Agent conversations with NLU](activating-va-conversation-with-nlu.md).
-4.  Configure chat in the Now Agent mobile application. For more information, see [Enable chat in the Now Mobile Agent application](../task/enable-chat-in-fsm-mobile.md).
+4.  Configure chat in the Now Agent mobile application. For more information, see [Enable chat in the Now Mobile Agent application](enable-chat-in-fsm-mobile.md).
 

@@ -21,7 +21,7 @@ To create a requisition on Coupa through ServiceNow Procurement application, you
 
 -   Create and publish a Coupa integration profile. For more information see, [Create a Coupa integration profile](create-coupa-int-profile.md).
 -   Ensure that the Purchase Order you create has at least one Purchase Order Line, and all Purchase Order Lines must be for software products.
--   Synchronize reference data types on both ServiceNow Procurement and Coupa applications. For more information, see [Reference data synchronization](../reference/ref-data-coupa.md).
+-   Synchronize reference data types on both ServiceNow Procurement and Coupa applications. For more information, see [Reference data synchronization](ref-data-coupa.md).
 
 If all these conditions are met, you can create a requisition in Coupa.
 
@@ -37,7 +37,7 @@ You can create a requisition on Coupa through the following ways:
 
 -   When a user requests software through Service Catalog. For more information, see [Request a catalog item from Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md).
 -   If a procurement\_user or sam\_admin directly creates a Purchase Order on the Procurement application. For more information, see [Create a Purchase Order](t_CreateAPurchaseOrder.md).
--   When a sam\_user creates a Purchase Order directly from the Remediation Options form. For more information, see [View software model results](../../software-asset-management2/task/t_ViewSWModelResults.md).
+-   When a sam\_user creates a Purchase Order directly from the Remediation Options form. For more information, see [View software model results](../software-asset-management/t_ViewSWModelResults.md).
 
 Requisitions are of the following types:
 
@@ -222,7 +222,7 @@ Expected delivery
 
 </td><td>
 
-The date the items associated with the purchase order are expected to arrive in the stockroom identified in the **Ship to** field. This field can’t be edited when the purchase order has a **Status** of **Received** or **Canceled**. \(For more information about this field, see[Purchase order expected delivery date](../reference/r_SetExpectDelDateOnPurchOrder.md).\)
+The date the items associated with the purchase order are expected to arrive in the stockroom identified in the **Ship to** field. This field can’t be edited when the purchase order has a **Status** of **Received** or **Canceled**. \(For more information about this field, see[Purchase order expected delivery date](r_SetExpectDelDateOnPurchOrder.md).\)
 
 </td></tr><tr><td>
 

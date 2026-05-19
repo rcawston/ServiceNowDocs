@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Healthcare and Life Sciences Service Management Core](../task/hcls-install-serv-mgmt-core.md).
+[Install Healthcare and Life Sciences Service Management Core](hcls-install-serv-mgmt-core.md).
 
 </td><td>
 
@@ -33,7 +33,7 @@ Install the Healthcare and Life Sciences Service Management Core application to 
 
 </td></tr><tr><td>
 
-[Assign roles for Healthcare and Life Sciences Service Management Core users](../task/hcls-assign-serv-mgmt-core-roles.md).
+[Assign roles for Healthcare and Life Sciences Service Management Core users](hcls-assign-serv-mgmt-core-roles.md).
 
 </td><td>
 
@@ -45,7 +45,7 @@ Assign roles to control access to features, capabilities, and data in the Health
 
 </td><td>
 
-Use healthcare data, case, and task tables to decide the data model for your Healthcare and Life Sciences workflows. For information about healthcare data tables, see [Healthcare and Life Sciences data model tables](../reference/hcls-healthcare-data-tables.md).
+Use healthcare data, case, and task tables to decide the data model for your Healthcare and Life Sciences workflows. For information about healthcare data tables, see [Healthcare and Life Sciences data model tables](hcls-healthcare-data-tables.md).
 
 **Note:** No users, including users with the admin role, can delete data from the healthcare data tables.
 
@@ -91,7 +91,7 @@ Reduce manual errors by configuring dosage specifications for a medication produ
 
 </td></tr><tr><td>
 
-[Specify a to-do item for patients](../task/hcls-config-to-do-items.md).
+[Specify a to-do item for patients](hcls-config-to-do-items.md).
 
 </td><td>
 
@@ -99,7 +99,7 @@ Add a to-do item that patients in your healthcare organization must complete as 
 
 </td></tr><tr><td>
 
-[Configure the service portal to add a to-dos menu item for completing healthcare-related tasks](../task/hcls-config-to-do.md).
+[Configure the service portal to add a to-dos menu item for completing healthcare-related tasks](hcls-config-to-do.md).
 
 </td><td>
 
@@ -139,7 +139,7 @@ Configure the Customer Service Management \(CSM\) data models to enable business
 
 </td></tr><tr><td>
 
-[Configure an external Redox healthcare system as a source system for a custom integration](../task/hcls-config-source-system.md).
+[Configure an external Redox healthcare system as a source system for a custom integration](hcls-config-source-system.md).
 
 </td><td>
 

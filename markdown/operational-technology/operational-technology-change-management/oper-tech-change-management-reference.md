@@ -22,5 +22,5 @@ Several types of components may be installed with activation of the Operational 
 -   **[Related information](otcm-related-information.md)**  
 Find more information about the OT extension classes and related applications.
 
-**Parent Topic:**[Operational Technology Change Management](../concept/operational-technology-change-management-landing-page.md)
+**Parent Topic:**[Operational Technology Change Management](operational-technology-change-management-landing-page.md)
 

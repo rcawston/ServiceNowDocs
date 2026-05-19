@@ -34,7 +34,7 @@ Use the Asset estate view in the Hardware Asset Workspace to view the asset func
 |Asset incident frequency|Assets that have been reported with frequent incidents.|
 |Hardware assets disposed \(YTD\) by model category|Assets disposed until the current date in this year and grouped by their model category.|
 
-To create hardware, software, consumable, bundle, pallet, mobile, and facility assets, select **New asset**. For more details, see [Create assets](../../asset-management/task/t_CreatingAssets.md).
+To create hardware, software, consumable, bundle, pallet, mobile, and facility assets, select **New asset**. For more details, see [Create assets](../asset-management/t_CreatingAssets.md).
 
 ## Load reports on Asset estate view
 

@@ -97,11 +97,11 @@ Add or modify quick filters for security incidents or response tasks within the 
 
 [Assign Security Incidents](assign-security-incident.md)
 
-[Close multiple security incidents](../task/close-multiple-incidents-sir.md)
+[Close multiple security incidents](close-multiple-incidents-sir.md)
 
-[Assign Response Tasks](../task/assign_response_tasks.md)
+[Assign Response Tasks](assign_response_tasks.md)
 
-[Report Phish Email](../task/report-phish-email.md)
+[Report Phish Email](report-phish-email.md)
 
 [Export Security Incidents or Response Tasks](export-security-incidents-or-response-tasks.md)
 

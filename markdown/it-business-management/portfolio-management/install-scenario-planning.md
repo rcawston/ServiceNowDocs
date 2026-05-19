@@ -48,7 +48,7 @@ Navigate to **Subscription Management** &gt; **Subscriptions** in your instance.
 
 ## About this task
 
-Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your ServiceNow instance before you install Scenario Planning for PPM. For more information see, [Activate PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/task/t_ActivateProjectPortfolioSuiteWithFinancials.md).
+Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your ServiceNow instance before you install Scenario Planning for PPM. For more information see, [Activate PPM Standard \(Project Portfolio Management\)](../ppm-collaboration/t_ActivateProjectPortfolioSuiteWithFinancials.md).
 
 ## Procedure
 
@@ -75,10 +75,10 @@ Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) in your Se
 6.  Click **Install**.
 
 
--   **[Components installed with Scenario Planning for PPM](../reference/installed-with-scenario-planning.md)**  
+-   **[Components installed with Scenario Planning for PPM](installed-with-scenario-planning.md)**  
 Several types of components are installed with the installation of the Scenario Planning for PPM application, including tables and demo data.
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](portfolio-planning-overview.md)
 
 **Related topics**  
 

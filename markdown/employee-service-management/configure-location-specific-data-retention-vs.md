@@ -54,5 +54,5 @@ Enable the **Use country-specific data retention policy for Vaccination Status**
 
 When the **Data Retention Job for Vaccination Status** daily scheduled job completes or is manually executed, the data of users in those locations have their records retained or deleted based on their country's data retention policy.
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

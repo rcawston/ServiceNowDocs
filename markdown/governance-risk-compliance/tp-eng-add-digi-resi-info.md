@@ -29,7 +29,7 @@ Role required: sn\_oper\_res.manager
 
 4.  Set up the digital resilience information details.
 
-    For more information, see [Create New ICT third-party service provider form](../reference/create-ICT-thirdparty-serv-prov-form.md).
+    For more information, see [Create New ICT third-party service provider form](create-ICT-thirdparty-serv-prov-form.md).
 
 5.  Select **Save**.
 

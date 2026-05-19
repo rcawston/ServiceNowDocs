@@ -17,7 +17,7 @@ As a legal fulfiller, create an outside counsel engagement request for a matter.
 
 ## Before you begin
 
-Ensure you have configured Legal Matter Management to engage with outside counsel. For more information, see [Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md).
+Ensure you have configured Legal Matter Management to engage with outside counsel. For more information, see [Configure Legal Matter Management to engage with outside counsel using Legal Tracker](configurations-for-legal-tracker-integration.md).
 
 Role required: sn\_lg\_matter.matter\_fulfiller, sn\_lg\_ops.legal\_fulfiller
 
@@ -74,7 +74,7 @@ Action
 
 3.  On the form, fill in the fields.
 
-    For more information on the form fields, see [Legal Tracker Outside Counsel Engagement request form](../reference/create-lt-outside-counsel-engagement-form.md).
+    For more information on the form fields, see [Legal Tracker Outside Counsel Engagement request form](create-lt-outside-counsel-engagement-form.md).
 
 4.  If do not have the complete the Legal Tracker details and want it to be filled later, select the **Create a task for entering Legal Tracker field details** check box.
 
@@ -83,5 +83,5 @@ Action
 5.  Select **Save**.
 
 
-**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

@@ -29,10 +29,10 @@ A telephone number is assigned this way:
 2.  A telephone number inventory manager then creates a telephone allocation to assign a service to a series or to a set of numbers. A telephone block can have a group as its child. These allocations are created in the telephone number allocation table.
 3.  The telephone number allocation table relates the telephone numbers that are ready to use to a record in the telephone number table.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a telephone infrastructure](../concept/telephone_block_telephone_number_and_telephone_number.md)
+[Create a telephone infrastructure](telephone_block_telephone_number_and_telephone_number.md)
 

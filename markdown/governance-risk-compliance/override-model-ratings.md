@@ -52,5 +52,5 @@ Role required: sn\_model\_risk\_mgmt.model\_governance or sn\_model\_risk\_mgmt.
 9.  Select **Save**.
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

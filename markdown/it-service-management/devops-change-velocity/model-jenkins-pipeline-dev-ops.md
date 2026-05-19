@@ -27,7 +27,7 @@ Role required: sn\_devops.admin
 
 ## About this task
 
-Both [scripted pipelines](../concept/dev-ops-scripted-pipeline.md) \(Jenkinsfile\) and freestyle jobs are supported.
+Both [scripted pipelines](dev-ops-scripted-pipeline.md) \(Jenkinsfile\) and freestyle jobs are supported.
 
 For Jenkinsfile pipelines, pipeline steps are created, mapped, and associated to orchestration tasks automatically, instead of manually.
 
@@ -99,7 +99,7 @@ Order
 
 Order in which the steps are run.
 
- **Note:** The step order determines the order of the cards in the [Pipeline UI](../concept/dev-ops-pipeline-ui.md).
+ **Note:** The step order determines the order of the cards in the [Pipeline UI](dev-ops-pipeline-ui.md).
 
 The order of the cards in the Pipeline UI is by task execution.
 
@@ -127,9 +127,9 @@ Configuration service that applies to the step.
 4.  Enable change control automatically or manually based on the type of pipeline.
 
     -   For declarative or scripted pipelines, if you have used the snDevOpsChange script in your pipeline, run your Jenkins pipeline to automatically enable change control. You can also enable change control manually by following the steps provided for freestyle jobs.
-    -   For freestyle jobs, select the **Change control** check box in a step to enable [change acceleration](../concept/dev-ops-change-acceleration.md) and the corresponding configuration fields.
+    -   For freestyle jobs, select the **Change control** check box in a step to enable [change acceleration](dev-ops-change-acceleration.md) and the corresponding configuration fields.
 
-        **Note:** ServiceNow [Change Management](../../change-management/concept/c_ITILChangeManagement.md) must be installed for change acceleration.
+        **Note:** ServiceNow [Change Management](../change-management/c_ITILChangeManagement.md) must be installed for change acceleration.
 
 <table id="table_xm1_tdf_llb"><tbody><tr><td>
 
@@ -170,7 +170,7 @@ Change model
 
 </td><td>
 
-Change model for the change request. For more information, see [DevOps change models](../concept/devops-change-multimodel.md).
+Change model for the change request. For more information, see [DevOps change models](devops-change-multimodel.md).
 
 </td></tr><tr><td>
 
@@ -212,5 +212,5 @@ Change controlled branches
 
 ![DevOps pipeline stages](../image/dev-ops-pipeline-stages.png "DevOps pipeline step")
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](../concept/jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](jenkins-integration-dev-ops.md)
 

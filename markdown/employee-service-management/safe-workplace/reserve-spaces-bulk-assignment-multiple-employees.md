@@ -17,9 +17,9 @@ Automatically generate workplace reservations in bulk for all employees assigned
 
 ## Before you begin
 
--   [Define shifts for your workplace](../../workplace-service-delivery/task/create-shifts-wsd.md).
--   [Assign employees to a shift](../../workplace-service-delivery/task/associate-employees-with-shifts-wsd.md).
--   [Associate areas and spaces with a shift](../../workplace-service-delivery/task/associate-workspaces-with-shifts-wsd.md).
+-   [Define shifts for your workplace](../workplace-core/create-shifts-wsd.md).
+-   [Assign employees to a shift](../workplace-core/associate-employees-with-shifts-wsd.md).
+-   [Associate areas and spaces with a shift](../workplace-core/associate-workspaces-with-shifts-wsd.md).
 -   Ensure that the number of locations associated with the shift is greater than the number of employees assigned to the shift.
 
 Role required: sn\_wsd\_core.workplace\_manager
@@ -43,5 +43,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 Reservations for the employees in this shift are created for the locations associated with the shift for the provided dates. You can view these reservations by navigating to **Workplace Safety Management** &gt; **Space Reservations** &gt; **All Reservations**.
 
-**Parent Topic:**[Managing workplace reservations for employees](../concept/managing-workplace-reservations.md)
+**Parent Topic:**[Managing workplace reservations for employees](managing-workplace-reservations.md)
 

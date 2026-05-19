@@ -48,11 +48,11 @@ In addition, the following relationship compliance reports with breakdown by rel
 
 -   **Relationships not compliant with all relationship rules**
 
-    Relationships that do not comply with any [relationship governance](../concept/relationship-governance.md) rule, including suggested relationships and dependent relationship rules.
+    Relationships that do not comply with any [relationship governance](relationship-governance.md) rule, including suggested relationships and dependent relationship rules.
 
 -   **Relationships not compliant with suggested relationships**
 
-    [Suggested CI relationships](../reference/r_SuggestedRelationshipModel.md) are used as rules to test if relationships comply with specified suggested relationships.
+    [Suggested CI relationships](r_SuggestedRelationshipModel.md) are used as rules to test if relationships comply with specified suggested relationships.
 
 -   **Relationships not compliant with containment rules**
 
@@ -83,24 +83,24 @@ For each of the compliance reports, testing a relationship requires a rule \(sug
 
 For troubleshooting information, see the [How to identify and delete duplicate CMDB CI Relationship records, or ones that have orphan or missing parent/child relationships \[KB0780988\]](https://support.servicenow.com/kb_view_customer.do?sysparm_article=KB0780988) knowledge base article.
 
-**Parent Topic:**[CMDB Health](../concept/c_CMDBHealth.md)
+**Parent Topic:**[CMDB Health](c_CMDBHealth.md)
 
 **Related topics**  
 
 
-[Exploring CMDB Health](../concept/exploring-cmdb-health-parent.md)
+[Exploring CMDB Health](exploring-cmdb-health-parent.md)
 
-[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](../concept/cmdb-health-exp-cmdb-workspace.md)
+[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](cmdb-health-exp-cmdb-workspace.md)
 
-[View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+[View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
 [View CI health](t_ViewCIHealth.md)
 
 [Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
-[CMDB Health process tracking and troubleshooting](../concept/c_CMDBHealthTroubleshooting.md)
+[CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 
-[CMDB Health reference](../concept/cmdb-health-ref-parent.md)
+[CMDB Health reference](cmdb-health-ref-parent.md)
 
 [Enable and configure a CMDB Health Dashboard job](t_EnableCMDBHealthDashboardJob.md)
 

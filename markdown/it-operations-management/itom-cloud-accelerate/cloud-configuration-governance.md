@@ -21,32 +21,32 @@ Use the ServiceNow® Cloud Configuration Governance application to check the con
 
 Explore
 
- [Exploring Cloud Configuration Governance](../concept/exploring-cloud-configuration-governance.md)
+ [Exploring Cloud Configuration Governance](exploring-cloud-configuration-governance.md)
 
 </td><td>
 
 Set up
 
- -   [Install Cloud Configuration Governance](../task/install-cloud-config-governance.md)
--   [Install the CCG Content Pack](../task/install-ccg-content-pack.md)
--   [Set up Cloud Configuration Governance for AWS](../task/set-up-ccg-for-aws.md)
--   [Set up Cloud Configuration Governance for Microsoft Azure](../task/set-up-ccg-for-azure.md)
+ -   [Install Cloud Configuration Governance](install-cloud-config-governance.md)
+-   [Install the CCG Content Pack](install-ccg-content-pack.md)
+-   [Set up Cloud Configuration Governance for AWS](set-up-ccg-for-aws.md)
+-   [Set up Cloud Configuration Governance for Microsoft Azure](set-up-ccg-for-azure.md)
 
 </td><td>
 
 Administer
 
- -   [Policies](../concept/ccg-policies.md)
--   [Scan configuration](../concept/ccg-scan-configuration.md)
--   [Remediation](../concept/ccg-remediation.md)
+ -   [Policies](ccg-policies.md)
+-   [Scan configuration](ccg-scan-configuration.md)
+-   [Remediation](ccg-remediation.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [Run the scan configuration](../task/run-ccg-scan-configuration.md)
+ -   [Run the scan configuration](run-ccg-scan-configuration.md)
 -   [View dashboard](ccg-dashboard.md)
--   [Run remediation](../task/ccg-run-remediation.md)
+-   [Run remediation](ccg-run-remediation.md)
 
 </td><td>
 

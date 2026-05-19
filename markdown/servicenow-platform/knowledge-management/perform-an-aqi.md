@@ -95,5 +95,5 @@ Click **Update** and return to the **Article Checklist Summaries** list. The che
 
 To view all the AQI reviews you completed, navigate to **Knowledge** &gt; **My Completed AQI Checklists**.
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

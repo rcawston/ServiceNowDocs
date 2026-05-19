@@ -69,7 +69,7 @@ Use the **Container** component to add an avatar and the user name of the work i
 -   **[Associate a work scheduler card to the work configuration](associate-card-config-wfo-cs.md)**  
 Associate the work scheduler card that you've created to the work configuration to display the card in the Work scheduler sidebar.
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](../concept/setting-up-work-scheduler-wfo-cs.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](setting-up-work-scheduler-wfo-cs.md)
 
 **Related topics**  
 

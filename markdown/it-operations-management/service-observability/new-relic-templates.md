@@ -15,7 +15,7 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 Templates used to create New Relic dashboards in Service Observability. You can edit these templates as needed.
 
-See [Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md) for more information.
+See [Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md) for more information.
 
 -   **[New Relic Overview tab for Service Observability](new-relic-overview-tab-for-service-observability.md)**  
 Information that is displayed on the New Relic **Overview** tab of the Service Details page in the SOW.

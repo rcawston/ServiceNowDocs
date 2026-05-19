@@ -30,9 +30,9 @@ There are two types of threshold for a metric.
 **Related topics**  
 
 
-[Create a threshold for a metric definition](../task/t_create-threshold-for-metrics.md)
+[Create a threshold for a metric definition](t_create-threshold-for-metrics.md)
 
-[Copy thresholds](../task/copy-thresholds-irm.md)
+[Copy thresholds](copy-thresholds-irm.md)
 
-[Customize threshold colors](../task/customize-threshold-colors-irm.md)
+[Customize threshold colors](customize-threshold-colors-irm.md)
 

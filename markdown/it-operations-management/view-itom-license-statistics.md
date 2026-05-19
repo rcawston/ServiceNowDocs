@@ -31,7 +31,7 @@ Review the configuration item \(CI\) allocation and allocation level to see how 
 
     Use subscription names to differentiate between subscriptions bought in bundles and a la carte.
 
-2.  Review the information on the form as covered in [Subscriptions form for the ITOM products](../reference/itom-subscriptions-form.md).
+2.  Review the information on the form as covered in [Subscriptions form for the ITOM products](itom-subscriptions-form.md).
 
 
 **Related topics**  
@@ -39,5 +39,5 @@ Review the configuration item \(CI\) allocation and allocation level to see how 
 
 [KB0748149: ITOM Subscription Unit license calculation logic](https://support.servicenow.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0748149%26sysparm_stack%3D%26sysparm_view%3D)
 
-[Subscriptions for IT Operations Management](../concept/itom-license-module.md)
+[Subscriptions for IT Operations Management](itom-license-module.md)
 

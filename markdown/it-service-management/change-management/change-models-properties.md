@@ -54,5 +54,5 @@ Determine what kind of change requests \(type or model-based\) are created. Enab
 </td></tr></tbody>
 </table>**Note:** If type compatibility is set to false, and change type does not match with a corresponding change model, the change model is marked as Legacy.
 
-**Parent Topic:**[Change models](../concept/change-models.md)
+**Parent Topic:**[Change models](change-models.md)
 

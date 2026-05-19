@@ -15,7 +15,7 @@ breadcrumb: [Resource events, Resource Management classic, Project Portfolio Man
 
 Schedules classify time as work time and non-work time and can be associated with resources and with projects.
 
-The [My Calendar](../concept/c_MyCalendar.md) module shows the user's work schedule and non-work time.
+The [My Calendar](c_MyCalendar.md) module shows the user's work schedule and non-work time.
 
 When a resource manager makes an allocation, the following takes place automatically:
 
@@ -26,14 +26,14 @@ Use the Calendar Event Duration property to control the default minimum unit for
 
 **Note:** Over-allocation is allowed, starting with the Geneva release. However, no more than 24 hours can be allocated to a user during a given day. See [Resource allocation](r_AllocatingResources.md) for more information.
 
-**Parent Topic:**[Resource events](../concept/c_ResourceEvents.md)
+**Parent Topic:**[Resource events](c_ResourceEvents.md)
 
 **Related topics**  
 
 
-[Resource event modifications](../concept/c_ModifyAResourceEvent.md)
+[Resource event modifications](c_ModifyAResourceEvent.md)
 
-[Modify a self-created resource event](../task/t_ModifyASelfCreatedResourceEvent.md)
+[Modify a self-created resource event](t_ModifyASelfCreatedResourceEvent.md)
 
-[Change the resource event color](../task/t_ChangeTheResourceEventColor.md)
+[Change the resource event color](t_ChangeTheResourceEventColor.md)
 

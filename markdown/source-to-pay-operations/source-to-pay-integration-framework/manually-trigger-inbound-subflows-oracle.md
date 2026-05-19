@@ -56,7 +56,7 @@ Manually trigger flows or subflows in Oracle EBS \(Inbound\)
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use schedule flows in Oracle EBS](../concept/using-schedule-flows-oracle-ebs.md)
+**Parent Topic:**[Use schedule flows in Oracle EBS](using-schedule-flows-oracle-ebs.md)
 
 **Related topics**  
 

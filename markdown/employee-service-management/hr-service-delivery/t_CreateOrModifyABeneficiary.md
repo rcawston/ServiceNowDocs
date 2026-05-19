@@ -137,5 +137,5 @@ Percentage amount of the benefit distributed to the beneficiary.
     The system creates an HR case and assigns it to the configured HR person. View the status of your request from the **My Requests** tab.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

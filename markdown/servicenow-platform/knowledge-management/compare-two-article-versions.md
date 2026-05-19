@@ -40,5 +40,5 @@ Role required: knowledge\_manager, knowledge\_admin
 5.  Click **Done** to return to the Knowledge form.
 
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

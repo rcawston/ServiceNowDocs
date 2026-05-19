@@ -37,7 +37,7 @@ Use the Tabs component in UI Builder to configure the **Playbook** tab on the co
 -   **[Configure obligation review for the playbook](cmpro-add-obligation-playbook.md)**  
 Create a page in UI Builder that uses a viewport component to dynamically load obligation review content in the playbook.
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

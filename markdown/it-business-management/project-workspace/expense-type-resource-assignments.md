@@ -44,5 +44,5 @@ Role required: admin
 
 **Expense type** field is enabled on resource assignments for the projects and demands. You can expense different expense types to record different work types such as Capex or OpEx.
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](config-fin-pws.md)
 

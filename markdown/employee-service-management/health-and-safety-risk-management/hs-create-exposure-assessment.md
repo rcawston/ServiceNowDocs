@@ -46,5 +46,5 @@ An exposure assessment record for each selected location appears in the **Exposu
 
 In the **Exposure assessments** tab, perform assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](hs-perform-exposure-assessment.md).
 
-**Parent Topic:**[Safety exposure management](../concept/hs-safety-exposures.md)
+**Parent Topic:**[Safety exposure management](hs-safety-exposures.md)
 

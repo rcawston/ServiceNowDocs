@@ -57,9 +57,9 @@ The service problem case progresses through several stages from start to closure
 
     3.  Expand the cards in the **Available test suite**.
 
-        To set up the test definitions, see [Setting up test definitions](../concept/settingup-test-specifications.md).
+        To set up the test definitions, see [Setting up test definitions](settingup-test-specifications.md).
 
-        To set up a test group, see [Setting up a test group](../concept/setting-test-group.md).
+        To set up a test group, see [Setting up a test group](setting-test-group.md).
 
     4.  In the manual test, select single/multiple tests.
 

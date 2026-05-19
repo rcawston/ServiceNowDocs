@@ -65,11 +65,11 @@ The Blue Prism spoke provides actions to automate Blue Prism tasks when events o
 |List Processes|Retrieves the list of processes on the Blue Prism environment.|
 |Utilities|Generate Collection Inputs|Creates a formatted string of the collection type. This formatted string is used as input for the Start Job action.|
 
-For information about setting up the spoke, see [Set up the Blue Prism spoke](../task/setup-blueprism.md#).
+For information about setting up the spoke, see [Set up the Blue Prism spoke](setup-blueprism.md#).
 
 ## MID Server requirements
 
-To use these actions, your instance must have a MID Server set up and configured to use SOAP. For more information about running actions on the MID Server, see [Integration steps](../../integrationhub/concept/integration-steps.md). For more information about the MID Server, see [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
+To use these actions, your instance must have a MID Server set up and configured to use SOAP. For more information about running actions on the MID Server, see [Integration steps](integration-steps.md). For more information about the MID Server, see [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

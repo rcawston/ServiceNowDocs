@@ -77,7 +77,7 @@ Fetch type
 
 </td><td>
 
-Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [Mobile fetch types](../reference/applet-fetch-types.md).
+Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -133,5 +133,5 @@ Determine which user roles can access this screen. If you have selected no roles
 
 If you want to further customize your mobile web screen, see [Add a button to your mobile web screen that launches Virtual Agent](mobwebscreen-add-button-virtagent.md).
 
-**Parent Topic:**[Mobile web screen](../concept/url-screen.md)
+**Parent Topic:**[Mobile web screen](url-screen.md)
 

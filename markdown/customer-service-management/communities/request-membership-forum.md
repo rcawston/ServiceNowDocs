@@ -38,18 +38,18 @@ Role required: sn\_communities.community\_user
     **Status** changes to **Request Access**.
 
 
-**Parent Topic:**[Using communities](../concept/using-communities.md)
+**Parent Topic:**[Using communities](using-communities.md)
 
 **Related topics**  
 
 
-[Community homepage features for logged in users](../concept/c_communities-service-portal.md)
+[Community homepage features for logged in users](c_communities-service-portal.md)
 
-[Navigating the activity feed](../concept/navigating-activity-feed.md)
+[Navigating the activity feed](navigating-activity-feed.md)
 
-[Navigating the forum homepage](../concept/forum-homepage.md)
+[Navigating the forum homepage](forum-homepage.md)
 
-[Community homepage features for non-logged in users](../concept/community-homepage-non-logged.md)
+[Community homepage features for non-logged in users](community-homepage-non-logged.md)
 
 [Self-register to a community](register-community.md)
 
@@ -57,7 +57,7 @@ Role required: sn\_communities.community\_user
 
 [Use a community profile](community-profile.md)
 
-[Community subscriptions](../concept/c_communities-subscriptions.md)
+[Community subscriptions](c_communities-subscriptions.md)
 
 [Accept an invitation to join a forum](accept-invitation-forum.md)
 
@@ -71,9 +71,9 @@ Role required: sn\_communities.community\_user
 
 [View a list of questions and create a case](case-mgmt-integration-view-list.md)
 
-[Gamification](../concept/communities-gamification.md)
+[Gamification](communities-gamification.md)
 
-[Community access types](../concept/access-types.md)
+[Community access types](access-types.md)
 
-[Communities roles](../reference/communities-roles.md)
+[Communities roles](communities-roles.md)
 

@@ -33,8 +33,8 @@ Role required: sn\_hr\_wfo.admin
 
 6.  Create a course catalog.
 
-    For more information, see [Create a course catalog](create-course-catalog.md).
+    For more information, see [Create a course catalog](../learning-core/create-course-catalog.md).
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](learning-wfo-hr.md)
 

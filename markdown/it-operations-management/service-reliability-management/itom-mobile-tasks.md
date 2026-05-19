@@ -26,7 +26,7 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 [View catalog tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/catalog-tasks.md)
 
-**Parent Topic:**[Use ITOM Mobile](../concept/use-itom-mobile.md)
+**Parent Topic:**[Use ITOM Mobile](use-itom-mobile.md)
 
 **Previous topic:**[Working with On-Call Scheduling on mobile](itom-mobile-on-call-scheduling.md)
 

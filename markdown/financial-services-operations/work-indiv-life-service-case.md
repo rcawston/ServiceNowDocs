@@ -17,7 +17,7 @@ Work on an individual life case to review policy information, ensure that any ou
 
 Role required: sn\_ins\_indiv\_life.processor or sn\_ins\_indiv\_life.processor\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 ## About this task
 

@@ -51,7 +51,7 @@ Users with the localization\_requester or localization\_admin roles
 
 </td><td>
 
-View the status of localization requests.Make translation requests for your artifacts from the Localization Insights dashboard. For more information see [Request translations from Insights Dashboard](../../../administer/localization-framework/task/request-translations-insights-dashboard.md).
+View the status of localization requests.Make translation requests for your artifacts from the Localization Insights dashboard. For more information see [Request translations from Insights Dashboard](request-translations-insights-dashboard.md).
 
 </td></tr></tbody>
 </table>## Data visualizations
@@ -280,5 +280,5 @@ The total number of surveys requested for translations per language.It also indi
 -   **Not Translated**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitor the Localization Framework](../../../administer/localization-framework/concept/monitor-localization-framework.md)
+</table>**Parent Topic:**[Monitor the Localization Framework](monitor-localization-framework.md)
 

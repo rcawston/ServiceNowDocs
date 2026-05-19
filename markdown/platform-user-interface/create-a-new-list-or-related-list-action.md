@@ -39,7 +39,7 @@ Role required: admin
         -   Select **Server Script** to apply the action to the server or database as JavaScript.
         -   Select **UXF Client Action** to apply the action as a UI Builder page event.
         -   Select **Client Script** to apply the action to the web browser as JavaScript.
-        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](../task/configure-da-ui-interactions.md).
+        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](configure-da-ui-interactions.md).
     -   **Table**
 
         Select a table for the action button to appear on.
@@ -59,11 +59,11 @@ The list or related list action button appears within the workspace you specifie
 
 Configure a button to apply an action in the following ways:
 
--   **[Trigger a UI interaction from a declarative action](../task/configure-da-ui-interactions.md)**
+-   **[Trigger a UI interaction from a declarative action](configure-da-ui-interactions.md)**
 
     Trigger a UI interaction from a declarative action to extend a page without taking ownership.
 
--   **[Configure dynamic conditions for a list action](../../workspace/task/disable-list-actions-based-on-dynamic-conditions.md)**
+-   **[Configure dynamic conditions for a list action](disable-list-actions-based-on-dynamic-conditions.md)**
 
     Configure a list or related list action to perform an action only when it satisfies dynamic conditions.
 

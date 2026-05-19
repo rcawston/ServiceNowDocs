@@ -185,5 +185,5 @@ Number of days within which the assessment should be completed after it is initi
 16. To go back in the workflow and change the scope, assignment, or frequency, select the menu ![Menu icon.](../image/more-actions-new.png) icon, and then select **Redefine scope**.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

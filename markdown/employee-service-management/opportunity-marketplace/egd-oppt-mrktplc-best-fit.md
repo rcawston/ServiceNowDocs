@@ -31,15 +31,15 @@ The OPM recommender looks at the skills that are in your profile to compare your
 
 You can read more about best fit recommendations and match analysis in these topics:
 
--   [View an opportunity match analysis](../task/egd-oppt-mrktplc-view-match-analysis.md)
+-   [View an opportunity match analysis](egd-oppt-mrktplc-view-match-analysis.md)
 
     Opportunity Marketplace \(OPM\) generates match analyses based on your current role, aspirations, and skills. Match analysis is based on your skills and preferences.
 
--   [Set opportunity preferences](../task/egd-oppt-mrktplc-set-oppt-prefs.md)
+-   [Set opportunity preferences](egd-oppt-mrktplc-set-oppt-prefs.md)
 
     Opportunity preferences are used to evaluate which opportunities are best for you.
 
--   [Career tab in Employee Center](../../skills-intelligence/concept/manage-skills-profile.md)
+-   [Career tab in Employee Center](../talent-development-core/manage-skills-profile.md)
 
     View, update, and manage all aspects of your career using the Career tab in Employee Profile. Opportunity Marketplace looks at to skills to identify opportunities for you.
 

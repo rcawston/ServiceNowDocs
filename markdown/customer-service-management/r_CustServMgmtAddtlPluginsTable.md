@@ -431,5 +431,5 @@ UI Components for Customer Portals \[sn\_ciwf\_ui\_cmpnt\]
 This plugin enables you to configure the behavior, content, and layout of a portal using a Configurable Portal Widgets.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Service Management](../concept/c_CustomerServiceManagement.md)
+</table>**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
 

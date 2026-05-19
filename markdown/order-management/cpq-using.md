@@ -22,5 +22,5 @@ View a list of example use cases for CPQ.
 -   **[Modify a product subscription with ramped pricing and quantities](cpq-modify-a-product-subscription-with-ramped-pricing-and-quantities.md)**  
 Add pricing or quantity ramps to quote line items to set incremental changes during the life of a contract.
 
-**Parent Topic:**[Using configure, price, quote applications](../../tmt-order-mgt/concept/using-cpq.md)
+**Parent Topic:**[Using configure, price, quote applications](using-cpq.md)
 

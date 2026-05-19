@@ -24,7 +24,7 @@ With the user’s **User ID** and **Email** \(default setting\) to identify and 
 **Note:**
 
 -   **User ID** is required for generating Federated IDs. If the user name is null or empty, then the Federated ID is null.
--   **User ID** and **Email** are used to generate Federated IDs by default. To configure the fields used for generating Federated IDs based on your requirements, see [Updating ID fields](../task/updating-id-fields.md). The**Iamsync\_admin** role is required to update the configuration.
+-   **User ID** and **Email** are used to generate Federated IDs by default. To configure the fields used for generating Federated IDs based on your requirements, see [Updating ID fields](updating-id-fields.md). The**Iamsync\_admin** role is required to update the configuration.
 -   If multiple users share the same username and email, the system generates a Federated ID for only one of the users.
 
 ![Federated ID in sys_user table](../images/federated-id-sys.png)

@@ -42,5 +42,5 @@ An applicant can log in to the Applicant Center without the need for a password 
 6.  Select **View Applicant Center** to re-login to the Applicant Center.
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](use-applicant-center.md)
 

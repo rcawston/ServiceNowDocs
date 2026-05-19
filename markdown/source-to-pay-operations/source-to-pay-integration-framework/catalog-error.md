@@ -20,7 +20,7 @@ The Catalog Error \[sn\_spend\_intg\_catalog\_error\] staging table temporarily 
 |Manufacturer/publisher part number \(MPN\)|String|Manufacturer or publisher’s unique identifier for the product.|
 |Supplier part number|String|Unique identifier assigned by a supplier to a specific product or part that they provide.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

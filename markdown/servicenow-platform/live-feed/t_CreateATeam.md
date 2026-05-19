@@ -56,5 +56,5 @@ As team administrator, you can do the following:
     **Note:** A team administrator can create one or more group feeds specifically for the members of this team by clicking the **Group Feeds** tab and **Create Group Feed**. Additionally, the team can be invited to join a feed. Having multiple feeds for the team facilitates focused discussions on topics of interest to the team and allows the team to selectively invite other teams and members to collaborate on specific feeds.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

@@ -50,6 +50,6 @@ Role required: Role required: sn\_vulc.admin
 
     Rollup calculators are scheduled jobs that run hourly to pick up changes. These scheduled jobs also overall risk scores for configuration tests and remediation task. The rolled-up values are displayed in the Risk Score fields.
 
-    For an example of how a risk rollup calculator determines scores, see [Risk rollup calculation example for Configuration Compliance \(prior to v15.0\)](../reference/config-compliance-risk-calculator-example.md#).
+    For an example of how a risk rollup calculator determines scores, see [Risk rollup calculation example for Configuration Compliance \(prior to v15.0\)](config-compliance-risk-calculator-example.md#).
 
 

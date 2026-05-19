@@ -23,7 +23,7 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 
 The conditions that you set determine when to merge the purchase requisitions.
 
-**Note:** The existing default scenarios for merging purchase requisitions and purchase lines remain valid and function as they did previously. For more information, see [Purchase requisition merging](../concept/purchase-requisition-merging.md).
+**Note:** The existing default scenarios for merging purchase requisitions and purchase lines remain valid and function as they did previously. For more information, see [Purchase requisition merging](purchase-requisition-merging.md).
 
 You cannot merge the PRs that are in any of the following states:
 
@@ -115,26 +115,26 @@ Allows you to define conditions to manually merge PRs, based on any of the field
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
 
 **Related topics**  
 
 
 [Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](configuring-work-prioritization.md)
 
 [Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
 
 [Customize your top suppliers on Shopping Hub](customize-top-suppliers.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
 [Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](awa-spo.md)
 

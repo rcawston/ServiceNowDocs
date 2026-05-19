@@ -177,5 +177,5 @@ Description of the control objective and how it supports the goals of the organi
     The control objective that you created is related to the citation.
 
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](r_PoliciesAndProcedures.md)
 

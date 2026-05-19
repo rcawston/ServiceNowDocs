@@ -28,15 +28,15 @@ Learn more about Knowledge Graph and how it can help fit your specific business 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Graph](../Task/configuring-knowledge-graph.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Graph](configuring-knowledge-graph.md)
 
 </td><td>
 
-[Use Knowledge Graph![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create and edit Knowledge Graph schema](../Task/using-knowledge-graph-designer.md)
+[Use Knowledge Graph![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create and edit Knowledge Graph schema](using-knowledge-graph-designer.md)
 
 </td></tr><tr><td>
 
-[Using Enterprise Graph![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn about the Enterprise Graph schema.](../Task/global-graph-schema.md)
+[Using Enterprise Graph![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn about the Enterprise Graph schema.](global-graph-schema.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Learn more about Knowledge Graph and how it can help fit your specific business 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure Knowledge Graph](../Reference/reference-for-knowledge-graph.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure Knowledge Graph](reference-for-knowledge-graph.md)
 
 </td></tr></tbody>
 </table>

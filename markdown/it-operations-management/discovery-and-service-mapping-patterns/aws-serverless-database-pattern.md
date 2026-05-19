@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds Amazon Aurora Serverless databases 
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -161,5 +161,5 @@ The Amazon AWS Serverless Database pattern collects tags and populates them in t
 |Configuration item \[configuration\_item\]|References the Cloud DataBase \[cmdb\_ci\_cloud\_database\] table.|
 |Configuration item \[configuration\_item\]|References the Cloud DataBase Cluster \[cmdb\_ci\_cloud\_db\_cluster\] table.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

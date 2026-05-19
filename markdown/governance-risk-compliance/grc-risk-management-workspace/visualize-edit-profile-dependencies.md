@@ -55,5 +55,5 @@ Drag an eligible downstream entity from the list of eligible entities on the rig
 </table>    The entities are removed from the right menu when moved to the center of the page.
 
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

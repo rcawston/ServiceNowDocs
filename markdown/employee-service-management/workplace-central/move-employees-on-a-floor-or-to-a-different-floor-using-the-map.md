@@ -196,7 +196,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
         To unassign an employee from the space, use the **Unassign** option.
 
 
-**Parent Topic:**[Map based space administration](../concept/map-based-space-administration.md)
+**Parent Topic:**[Map based space administration](map-based-space-administration.md)
 
 **Related topics**  
 

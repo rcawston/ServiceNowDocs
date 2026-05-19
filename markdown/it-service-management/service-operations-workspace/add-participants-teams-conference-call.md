@@ -69,5 +69,5 @@ Provide a brief summary about the issue to be discussed in the conference call.
 </table>11. Select **Add participants**.
 
 
-**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](../concept/manage-conference-calls-teams.md)
+**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](manage-conference-calls-teams.md)
 

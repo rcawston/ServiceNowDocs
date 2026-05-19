@@ -36,7 +36,7 @@ Role required: sn\_apm.apm\_user
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+**Parent Topic:**[Manage architectural documents](manage-arch-documents.md)
 
 **Related topics**  
 
@@ -45,5 +45,5 @@ Role required: sn\_apm.apm\_user
 
 [Create a new architectural document](create-architectural-document.md)
 
-[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+[Working with the document templates](document-templates-for-ea.md)
 

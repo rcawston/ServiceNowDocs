@@ -40,7 +40,7 @@ Robotic Process Automation \(RPA\) plugins are beneficial as they reduce the dev
 6.  On the **Installed RPA Plugin - Dependency Pack** tab, select a dependency pack to view the details.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 ## Installed RPA plugins form
 

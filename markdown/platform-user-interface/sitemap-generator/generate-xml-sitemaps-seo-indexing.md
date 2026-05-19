@@ -17,9 +17,9 @@ Create XML sitemaps for web crawlers to index your public portal pages and impro
 
 ## Before you begin
 
-Add SEO information to portal pages, such as meta tags that improve the searchability of Service Portal pages. For more information, see [Improving search engine optimization for portals](../concept/seo-sp.md).
+Add SEO information to portal pages, such as meta tags that improve the searchability of Service Portal pages. For more information, see [Improving search engine optimization for portals](../service-portal/seo-sp.md).
 
-Review the "Sitemap requirements" section of the [Sitemap Generator](../concept/sitemap-generator.md) documentation topic to determine what content should be in the sitemap.
+Review the "Sitemap requirements" section of the [Sitemap Generator](sitemap-generator.md) documentation topic to determine what content should be in the sitemap.
 
 Role required: admin
 
@@ -43,7 +43,7 @@ Role required: admin
 
     **Important:**
 
-    -   You must ensure that the contents of your sitemap meet the [Sitemap requirements](../concept/sitemap-generator.md#section_w52_vbq_ytb).
+    -   You must ensure that the contents of your sitemap meet the [Sitemap requirements](sitemap-generator.md#section_w52_vbq_ytb).
     -   You don’t need to add the header and footer of the sitemap XML. These are added automatically when the sitemap is generated.
 6.  In the **Type** field of the UX Sitemap Definition form, select one of the following options to define the contents of the sitemap either with a script or by specifying static URL elements.
 
@@ -129,5 +129,5 @@ The approximate frequency at which the page is updated.
 
 All active sitemaps automatically regenerate once a day and include content from any of their active sitemap definitions. Previous versions of the sitemap are deleted. You can check the status of the daily job at **All** &gt; **System Logs** &gt; **System Log** &gt; **Application Logs** using the filter **\[App Scope\] \[is\] \[Sitemap Generator\]**.
 
-**Parent Topic:**[Sitemap Generator](../concept/sitemap-generator.md)
+**Parent Topic:**[Sitemap Generator](sitemap-generator.md)
 

@@ -72,5 +72,5 @@ Review state. This field is used to provide information to sn\_esg.admin that th
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](integrating-esg-management-with-urjanet.md)
 

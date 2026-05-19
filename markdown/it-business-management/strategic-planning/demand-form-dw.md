@@ -142,7 +142,7 @@ The preliminary or estimated date when the work is initially planned to begin. T
 
 This date is changed to **Planned start date** when the demand is converted to a project.**Note:**
 
--   When you change the planned start date of a demand or project, the associated cost plans and resource assignments also change. The **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property controls the behavior for a demand date change. This property isn’t enabled by default. For more information, see [Properties installed with Project Management](../../project-management/reference/r_InstalledWithProjectManagement.md).
+-   When you change the planned start date of a demand or project, the associated cost plans and resource assignments also change. The **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property controls the behavior for a demand date change. This property isn’t enabled by default. For more information, see [Properties installed with Project Management](../project-management/r_InstalledWithProjectManagement.md).
 -   The **Start date** column label is changed to **Planned start date**. This change is applicable only for new customers who begin using the Australia version. To ensure continuity, if you’re upgrading to the Australia release from an earlier release, you’ll continue to see the prior labels.
 
 </td></tr><tr><td>
@@ -414,7 +414,7 @@ Rate Model
 
 </td><td>
 
-Rate model assigned to the demand. This setting is used to derive hourly rates for the associated resource assignments and time cards. For more information, see [Rate Models](../../project-portfolio-suite-with-financials/concept/rate-model.md).**Note:** If the rate model assigned to the demand is changed or removed, the cost fields on the associated resource assignments aren’t recalculated.
+Rate model assigned to the demand. This setting is used to derive hourly rates for the associated resource assignments and time cards. For more information, see [Rate Models](../rate-model/rate-model.md).**Note:** If the rate model assigned to the demand is changed or removed, the cost fields on the associated resource assignments aren’t recalculated.
 
 </td></tr><tr><td>
 
@@ -585,7 +585,7 @@ Score
 
 </td><td>
 
-The demand score is calculated based on the **risk**, **value**, and **size** attributes in the base system.The value of the **risk**, **value**, and **size** attributes are derived from the assessment metric category results. For more information, see [assessment categories](../../../administer/assessments/task/t_CreateAnAssessmentCategory.md) and [assessment category results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md).
+The demand score is calculated based on the **risk**, **value**, and **size** attributes in the base system.The value of the **risk**, **value**, and **size** attributes are derived from the assessment metric category results. For more information, see [assessment categories](../demand-management/t_CreateAnAssessmentCategory.md) and [assessment category results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md).
 
 -   When the **risk** and **size** values are high, the score of the demand is low.
 -   When the **value** setting is high, the score of the demand is high.

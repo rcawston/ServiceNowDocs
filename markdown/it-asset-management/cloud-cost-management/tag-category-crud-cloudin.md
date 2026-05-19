@@ -38,7 +38,7 @@ This procedure describes the process as performed from the user interface. Alter
 
 2.  On the Tag Categories list, select **New**.
 
-    For the list of default tag categories, see [List of default tag categories](../reference/default-tag-categories.md).
+    For the list of default tag categories, see [List of default tag categories](default-tag-categories.md).
 
     **Note:** In this step, you add a single tag name to the category to create the initial category record. You can add any number of tag names to the category later.
 
@@ -98,10 +98,10 @@ The list of tag names that you can add to the category.1.  Select the Lookup ico
 6.  On the **Tag names** list, select the Lookup icon ![Search icon.](../../software-asset-management2/image/search-icon.png) to add multiple tag names.
 
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 
 **Related topics**  
 
 
-[Tags and tag categories](../reference/tags-overview.md)
+[Tags and tag categories](tags-overview.md)
 

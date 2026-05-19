@@ -27,7 +27,7 @@ In the following scenarios, the system assigns a wrap-up code automatically:
 -   When the wrap-up window times out, the default wrap-up code Issue resolved is auto-saved.
 -   When the interaction automatically closes because the customer doesn’t respond, the wrap-up code is set to Closed due to customer inactivity.
 
-For more information, see Automatic wrap-up code assignment in [Using Email Interaction for Customer Service Management](../concept/using-email-interaction-customer-service-management.md).
+For more information, see Automatic wrap-up code assignment in [Using Email Interaction for Customer Service Management](using-email-interaction-customer-service-management.md).
 
 ## Procedure
 

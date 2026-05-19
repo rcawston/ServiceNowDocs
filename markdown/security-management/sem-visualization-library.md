@@ -284,14 +284,14 @@ Findings with exploits
 Active records with and without known exploits.
 
 </td></tr></tbody>
-</table>If your instance uses localization, make sure that the widget titles show up correctly in all supported languages. Default widgets already include translated titles.But if you update a default widget, create a custom widget, or rename a widget, remember to add or update the translation entry. This keeps titles consistent across languages. For steps, see [Localize widget titles](../../security-exposure-management-findings/task/sem-localize-widget-titles.md).
+</table>If your instance uses localization, make sure that the widget titles show up correctly in all supported languages. Default widgets already include translated titles.But if you update a default widget, create a custom widget, or rename a widget, remember to add or update the translation entry. This keeps titles consistent across languages. For steps, see [Localize widget titles](sem-localize-widget-titles.md).
 
 **Related topics**  
 
 
-[Configure Visualization library](../../security-exposure-management-findings/task/sem-configure-visualization-library.md)
+[Configure Visualization library](sem-configure-visualization-library.md)
 
-[Create a custom widget](../../security-exposure-management-findings/task/sem-create-widget.md)
+[Create a custom widget](sem-create-widget.md)
 
-[Visualization widget fields](../reference/sem-vis-widget-fields.md)
+[Visualization widget fields](sem-vis-widget-fields.md)
 

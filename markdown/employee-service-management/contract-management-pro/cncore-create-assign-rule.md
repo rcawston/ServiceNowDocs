@@ -97,14 +97,14 @@ User group to which the contract request is assigned.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Managing Contract Management Pro](../concept/cncore-manage-cmpro.md)
+**Parent Topic:**[Managing Contract Management Pro](cncore-manage-cmpro.md)
 
 **Related topics**  
 
 
-[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 [Manage contract records](cncore-manage-cont-records.md)
 
-[Platform Analytics Solutions for Contract Management Pro](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
+[Platform Analytics Solutions for Contract Management Pro](cncore-analytics-pa.md)
 

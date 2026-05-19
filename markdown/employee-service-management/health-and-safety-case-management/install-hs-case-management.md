@@ -31,7 +31,7 @@ The following items are installed with Health and Safety Case Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Health and Safety Case Management](../reference/components-installed-with-hs-case-mgmt.md).
+For more information, see [Components installed with Health and Safety Case Management](components-installed-with-hs-case-mgmt.md).
 
 <table id="optional_apps_HSCM"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Health and Safety Incident Management\[sn\_hs\_im\_incident\]
 
 </td><td>
 
-Installs safety-related employee incidents and observations capability for Health and Safety Case Management. For more information, see [Install Health and Safety Incident Management](../../ohs-incident-management/task/install-hs-incident-mgmt.md).
+Installs safety-related employee incidents and observations capability for Health and Safety Case Management. For more information, see [Install Health and Safety Incident Management](../health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 </td></tr><tr><td>
 
@@ -55,8 +55,8 @@ Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 
 </td><td>
 
-Installs Case and Knowledge Management for creating HR cases from injury and illness records in Health and Safety Incident Management.-   For more information on activating it, see [Activate Case and Knowledge Management](../../human-resources/task/activate-case-and-knowledge-management-scoped.md).
--   For information on creating HR cases from injury and illness records, see [Create an HR case from an injury or illness](../../ohs-incident-management/task/create-hr-case-injury-illness.md).
+Installs Case and Knowledge Management for creating HR cases from injury and illness records in Health and Safety Incident Management.-   For more information on activating it, see [Activate Case and Knowledge Management](../hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
+-   For information on creating HR cases from injury and illness records, see [Create an HR case from an injury or illness](../health-and-safety-incident-management/create-hr-case-injury-illness.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Universal Request\[com.snc.universal\_request\]
 
 </td><td>
 
-Installs Universal Request application that supports cross-departmental collaboration and unified employee experience. For more information, see [Universal Request for Health and Safety cases](../concept/universal-request-hs-case-mgmt.md).
+Installs Universal Request application that supports cross-departmental collaboration and unified employee experience. For more information, see [Universal Request for Health and Safety cases](universal-request-hs-case-mgmt.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -90,9 +90,9 @@ Installs Universal Request application that supports cross-departmental collabor
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Health and Safety Case Management](../concept/hs-setting-up-case-management.md)
+**Parent Topic:**[Configuring Health and Safety Case Management](hs-setting-up-case-management.md)
 
-**Previous topic:**[Configuring Health and Safety Case Management](../concept/hs-setting-up-case-management.md)
+**Previous topic:**[Configuring Health and Safety Case Management](hs-setting-up-case-management.md)
 
 **Next topic:**[Configure HR service for creating an HR case for an injury](hs-configure-hr-service-property-case-injury.md)
 

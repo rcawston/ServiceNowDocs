@@ -51,7 +51,7 @@ The following items are installed with Operational Sustainability Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Procedure
 
@@ -74,5 +74,5 @@ For more information, see [Components installed with Operational Sustainability 
 5.  Select **Install**.
 
 
-**Parent Topic:**[Operational Sustainability Management \(formerly ESG Management\) implementation](../concept/esg-implementation.md)
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG Management\) implementation](esg-implementation.md)
 

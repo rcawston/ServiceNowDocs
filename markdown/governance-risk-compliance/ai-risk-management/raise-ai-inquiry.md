@@ -29,7 +29,7 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Raise an AI inquiry form, see [Raise an AI inquiry form](../reference/raise-ai-inquiry-form.md).
+    For a description of the field values on the Raise an AI inquiry form, see [Raise an AI inquiry form](raise-ai-inquiry-form.md).
 
 5.  To add attachments, select **Add attachments**.
 
@@ -50,8 +50,8 @@ An AI inquiry passes through: New, Triage, In progress, Awaiting approval, and C
 
 [Report an AI case from the Employee Center](report-ai-case.md)
 
--   **[Raise an AI inquiry form](../reference/raise-ai-inquiry-form.md)**  
+-   **[Raise an AI inquiry form](raise-ai-inquiry-form.md)**  
 Use the Raise an AI inquiry form in the Employee Center to submit your questions about AI systems, models, or datasets and their business applications.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

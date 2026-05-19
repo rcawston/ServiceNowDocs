@@ -42,14 +42,14 @@ The Change model name appears as a UI action in the Design and Assign home page.
 
 ## What to do next
 
-Use the playbook to design and assign a service request. To learn more, see [Design and Assign function](../concept/using-playbooks-design-assign-inventory-record.md).
+Use the playbook to design and assign a service request. To learn more, see [Design and Assign function](using-playbooks-design-assign-inventory-record.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](configure-design-assign-playbook-use-case.md)
 

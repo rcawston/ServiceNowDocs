@@ -31,7 +31,7 @@ Employees are mapped to their workspace location. The employee list is automatic
 
 2.  In the Critical Event form, fill out the fields.
 
-    For a description of the field values, see [Critical Event form](../reference/new-critical-event-form.md).
+    For a description of the field values, see [Critical Event form](new-critical-event-form.md).
 
 3.  Select **Save**.
 
@@ -42,7 +42,7 @@ Employees are mapped to their workspace location. The employee list is automatic
     The list of impacted people is extracted based on the location. To add people manually, see [Add a person manually to the impacted people list](add-person-manually-to-impacted-people.md).
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

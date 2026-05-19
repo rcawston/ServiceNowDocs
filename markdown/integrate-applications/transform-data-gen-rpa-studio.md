@@ -47,5 +47,5 @@ The **Transform Data** option can be used to modify any data that comes from the
 6.  If there are any errors in the Script section, resolve the errors that are displayed in the ERRORS section and then click **OK**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

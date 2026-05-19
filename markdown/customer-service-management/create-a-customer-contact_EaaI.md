@@ -36,7 +36,7 @@ Agents can use the contact lookup component to search for contacts. If an agent 
 
 6.  On the Contact form, fill in the fields.
 
-    For a description of the field values, see [Contact form for Email Interaction for CSM](../reference/contact-form-eaai.md).
+    For a description of the field values, see [Contact form for Email Interaction for CSM](contact-form-eaai.md).
 
 7.  Select **Save**.
 

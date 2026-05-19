@@ -18,5 +18,5 @@ If you have the admin role, you can configure Now Assist in Document Management 
 
 Configure how agents use generative AI capabilities to generate the document insights.
 
-[Configure the Smart Documents Skill for Now Assist in Document Management](../task/configure-skill-smart-documents.md)
+[Configure the Smart Documents Skill for Now Assist in Document Management](configure-skill-smart-documents.md)
 

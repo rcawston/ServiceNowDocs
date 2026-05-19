@@ -125,10 +125,10 @@ Select **Expand all** to see the available assets for each step.
 
     The resolution steps are mapped to the set of instructions and added as tools for the new AI agent.
 
-    For more information, see [Create an AI agent](../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For more information, see [Create an AI agent](configure-next-best-action-agent.md).
 
 
-**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](../concept/now-assist-center-using-ai-agent-advisor.md)
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 

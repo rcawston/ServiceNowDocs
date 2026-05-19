@@ -81,7 +81,7 @@ Supported fields
 
 To set up an escalation trigger, see [Create an escalation trigger for an SRM team](sr-trigger-escalation-policy.md).
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Approve a change request for SRM](sr-approve-change-req.md)
 

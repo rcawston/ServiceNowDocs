@@ -97,7 +97,7 @@ URL or page name
 
 </td><td>
 
-Identifies the topic to display when a user clicks the help icon while viewing a form, list, or record. You can enter the complete URL of the help page or just the target file name if you set a [base URL](../concept/c_ContextSensitiveHelp.md) in the **help.base.default** system property.
+Identifies the topic to display when a user clicks the help icon while viewing a form, list, or record. You can enter the complete URL of the help page or just the target file name if you set a [base URL](c_ContextSensitiveHelp.md) in the **help.base.default** system property.
 
 </td></tr></tbody>
 </table>    **Note:** If you reconfigure the fields on the form, you see the available fields **Plugin ID** and **System Property Base URL**. Do not use these fields. They are for internal use only.
@@ -105,12 +105,12 @@ Identifies the topic to display when a user clicks the help icon while viewing a
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Context-sensitive help](../concept/c_ContextSensitiveHelp.md)
+**Parent Topic:**[Context-sensitive help](c_ContextSensitiveHelp.md)
 
 **Related topics**  
 
 
-[Help context types and prioritization](../reference/r_HelpContextTypes.md)
+[Help context types and prioritization](r_HelpContextTypes.md)
 
-[Context-sensitive help](../concept/c_ContextSensitiveHelp.md)
+[Context-sensitive help](c_ContextSensitiveHelp.md)
 

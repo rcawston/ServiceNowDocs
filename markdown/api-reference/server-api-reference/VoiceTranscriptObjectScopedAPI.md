@@ -23,7 +23,7 @@ When calling the `VoiceTranscriptObject` class, use the `sn_cs` namespace identi
 
 This API is available in the base ServiceNow system. Access is restricted by the ACLs imposed on the Interaction \[interaction\] and Conversation \[sys\_cs\_conversation\] tables.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## VoiceTranscriptObject - addVoiceInteractionMessage\(String interactionId, String Json\)
 

@@ -36,7 +36,7 @@ You can also use the Virtual agent chat support on the Workplace Service Portal 
 
 Once you submit the registration, the reception staff receives the registration in the application. When visitors are at the premises, the reception staff checks in the visitors, prints their badges, updates their breaks, and updates their other statuses during the day.
 
-For more information about how you can register a visitor, see [Make a visitor registration](../task/register-a-guest.md).
+For more information about how you can register a visitor, see [Make a visitor registration](register-a-guest.md).
 
 **Parent Topic:**[Exploring Workplace Visitor Management](workplace-visitor-mgmt-ovw.md)
 

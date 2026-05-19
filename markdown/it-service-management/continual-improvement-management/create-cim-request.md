@@ -33,7 +33,7 @@ Role required: sn\_cim.improvement\_requester
 
     1.  Navigate to **Continual Improvement** &gt; **Create New**.
 
-        A CIM phase is automatically created when you create the initiative, if the **sn\_cim.create\_default\_phase** system property is enabled. For more information, see [Properties installed with Continual Improvement Management](../reference/cim-components.md).
+        A CIM phase is automatically created when you create the initiative, if the **sn\_cim.create\_default\_phase** system property is enabled. For more information, see [Properties installed with Continual Improvement Management](cim-components.md).
 
     2.  Fill in the short description and the business justification, and select **Submit**.
 
@@ -65,10 +65,10 @@ Create records for integrated applications from improvement initiatives or CIM t
 -   **[Configure CIM integration property](configure-cim-int-property.md)**  
 Configure the CIM sn\_cim.initiative\_copy\_attributes integration property to define field values to be copied from an improvement initiative to application records that you create from the initiative.
 
-**Parent Topic:**[Continual Improvement Management](../concept/cim-landing-page.md)
+**Parent Topic:**[Continual Improvement Management](cim-landing-page.md)
 
 **Related topics**  
 
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](cim-field-descriptions.md)
 

@@ -17,7 +17,7 @@ You can compare two versions of tracked CI configuration files to see the actual
 
 ## Before you begin
 
-If Discovery and Service Mapping don’t track a configuration file you want to track, perform advanced configuration as described in [Modify tracking changes in configuration files](../../discovery/task/track-configuration-files.md).
+If Discovery and Service Mapping don’t track a configuration file you want to track, perform advanced configuration as described in [Modify tracking changes in configuration files](track-configuration-files.md).
 
 Role required: one of the following roles.
 
@@ -92,5 +92,5 @@ The Tracked Configuration File Comparison tab opens, displaying the configuratio
 **Related topics**  
 
 
-[Tracked Configuration file form](../reference/tracked-configuration-file-form.md)
+[Tracked Configuration file form](tracked-configuration-file-form.md)
 

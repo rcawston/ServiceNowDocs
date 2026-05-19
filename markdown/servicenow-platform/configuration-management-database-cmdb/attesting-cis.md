@@ -15,9 +15,9 @@ breadcrumb: [CMDB data management, Configuration Management Database \(CMDB\), C
 
 Verify the existence of actual IT infrastructure and applications that you own, systematically and in bulk. As CIs are continuously ingested into the CMDB from various data sources, ensure the integrity of the CMDB. Remove any stale CIs that are associated with IT infrastructure or applications that no longer exists.
 
-Use the [CMDB Data Manager in CMDB Workspaceand in Service Graph Workspace](data-mgr-exp-cmdb-workspace.md) to [create an Attestation policy](../task/data-manager-create-policy-wrkspc.md), specifying CIs that need to be attested and the attestation frequency. Assign Attestation tasks to users that are familiar with or that manage the CIs, and who can attest or reject the IT infrastructure or applications that those CIs represent. Rejected CIs that are no longer needed can then be retired, archived, or deleted from the CMDB.
+Use the [CMDB Data Manager in CMDB Workspaceand in Service Graph Workspace](data-mgr-exp-cmdb-workspace.md) to [create an Attestation policy](data-manager-create-policy-wrkspc.md), specifying CIs that need to be attested and the attestation frequency. Assign Attestation tasks to users that are familiar with or that manage the CIs, and who can attest or reject the IT infrastructure or applications that those CIs represent. Rejected CIs that are no longer needed can then be retired, archived, or deleted from the CMDB.
 
-Users can go to the [My Work view in CMDB Workspace](cmdb-workspace-govern-view.md) or to the [Tasks view in Service Graph Workspace](sg-workspace-tasks-view.md) to see their assigned attestation tasks, and then [review and process the tasks](../task/review-data-manager-attes-task.md).
+Users can go to the [My Work view in CMDB Workspace](cmdb-workspace-govern-view.md) or to the [Tasks view in Service Graph Workspace](sg-workspace-tasks-view.md) to see their assigned attestation tasks, and then [review and process the tasks](review-data-manager-attes-task.md).
 
 ## Smart detection and auto-attestation
 
@@ -33,7 +33,7 @@ In addition, smart detection uses the following system properties as filters whe
 -   Within the discovery time window specified by the **sn\_cmdb\_ws.attestation.smart\_detection.discovery\_window** system property \(for example, within the last 30 days\)
 -   By any discovery source that isn't excluded by the **sn\_cmdb\_ws.attestation.smart\_detection.discovery\_source.exclusion** system property
 
-Then, when you [review those candidate CIs](../task/review-data-manager-attes-task.md), you can choose to auto-attest them.
+Then, when you [review those candidate CIs](review-data-manager-attes-task.md), you can choose to auto-attest them.
 
 ## Properties associated with Attestation
 
@@ -59,7 +59,7 @@ Disables smart detection.
     -   **true**: Disable smart detection.
     -   **false**: Enable smart detection.
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](../task/review-data-manager-attes-task.md)
+-   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](review-data-manager-attes-task.md)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Comma-separated list of discovery sources that are excluded in smart detection p
  -   Type: string
 -   Default value: Manual Entry
 -   Location: System property
--   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](../task/review-data-manager-attes-task.md)
+-   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](review-data-manager-attes-task.md)
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Number of days \(discovery window\) that smart detection uses to determine wheth
  -   Type: integer
 -   Default value: 30
 -   Location: System property
--   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](../task/review-data-manager-attes-task.md)
+-   Learn more: [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](review-data-manager-attes-task.md)
 
 </td></tr></tbody>
 </table>

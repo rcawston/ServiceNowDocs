@@ -36,18 +36,18 @@ Role required: sn\_shop.invoice\_owner
 
 The business owner views all owned invoices on Employee Center.
 
-**Parent Topic:**[Work with invoices](../concept/work-with-invoices.md)
+**Parent Topic:**[Work with invoices](work-with-invoices.md)
 
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](../concept/acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](acc-pay-invoice-processing.md)
 
-[Invoice Case Management](../concept/acc-pay-case-mgmt-overview.md)
+[Invoice Case Management](acc-pay-case-mgmt-overview.md)
 
-[Source-to-Pay Workspace](../concept/acc-pay-workspace.md)
+[Source-to-Pay Workspace](acc-pay-workspace.md)
 
-[Invoice processing cases](../concept/working-with-ingestion-cases.md)
+[Invoice processing cases](working-with-ingestion-cases.md)
 
-[Invoice approvals](../concept/invoice-approvals.md)
+[Invoice approvals](invoice-approvals.md)
 

@@ -32,7 +32,7 @@ From the Compose section, you can add comments and work notes for the incident.
 
 The Overview tab displays the field information along with the field labels, including when you're in read mode.
 
-For more information on the fields displayed on the **Overview** tab, see [View and update incident information on the Overview tab in SOW](../task/view-update-inc-overview-tab.md).
+For more information on the fields displayed on the **Overview** tab, see [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md).
 
 You can customize the display of the information on the **Overview** tab. For more information, see [Customize the Overview tab for an incident](customize-the-incident-record-page.md#).
 
@@ -52,14 +52,14 @@ By default, the tab displays metrics information of the primary affected CI asso
 
 You can also customize the display of the metrics information on this tab. For more information, see [Customize the Investigate tab](customize-the-incident-record-page.md#).
 
-For more information on the metrics displayed on this tab, see [Features of the Investigation tab](../reference/features-of-investigation-tab.md).
+For more information on the metrics displayed on this tab, see [Features of the Investigation tab](features-of-investigation-tab.md).
 
 ## Communicate tab
 
 This tab displays all the communication tasks and options that enable you to communicate with the stakeholders in the various phases of an incident. This tab is available only if any of the following conditions are met:
 
 -   For a major incident - The Major Incident Management \(sn-sow-mim\) plugin is active and configured in Admin Center, for Service Operations Workspace. For more information, see [Setting up Major Incident Management in Service Operations Workspace](setup-mim-sow.md).
--   For Incident – The Task Communications Management and Incident Communications Management applications are installed, active, and configured in the instance and you select the **New Communication** option from the **More Actions** \(![More actions icon](../image/mim-more-actions-top-icon.png)\) icon of the Incident record page. For more information, see [Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/tcm-landing-page.md) and [Incident Communications Management](../../incident-alert-management/concept/c_IncidentAlertManagement.md).
+-   For Incident – The Task Communications Management and Incident Communications Management applications are installed, active, and configured in the instance and you select the **New Communication** option from the **More Actions** \(![More actions icon](../image/mim-more-actions-top-icon.png)\) icon of the Incident record page. For more information, see [Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/tcm-landing-page.md) and [Incident Communications Management](../incident-communications-management/c_IncidentAlertManagement.md).
 
 For more information on the features of the **Communicate** tab, see [Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md).
 
@@ -70,11 +70,11 @@ This tab enables you to generate, configure, publish, and export a post incident
 -   Major Incident Management is active and configured in Admin Center for Service Operations Workspace. For more information, see [Setting up Major Incident Management in Service Operations Workspace](setup-mim-sow.md).
 -   The major incident is in the **Resolved** state.
 
-For more information on the features of the **Post incident report** tab, see [Review and update a post incident report](../task/review-update-pir-mim-sow.md).
+For more information on the features of the **Post incident report** tab, see [Review and update a post incident report](review-update-pir-mim-sow.md).
 
 ## Details tab
 
-This tab displays detailed information about the incident. For example, the short description, assignment details, and related records. For more information on how you can configure fields in this tab, see [Configure a task record form in Service Operations Workspace](../task/configure-form-layout-task.md).
+This tab displays detailed information about the incident. For example, the short description, assignment details, and related records. For more information on how you can configure fields in this tab, see [Configure a task record form in Service Operations Workspace](configure-form-layout-task.md).
 
 ## Related records tab
 
@@ -84,23 +84,23 @@ This tab provides a list view of the records associated with the incident. For e
 
 From this section, you can view record information and recommendations, collaborate using Microsoft Teams, and reach out to experts on-call to resolve incidents quickly.
 
-For more information about Incident Management, see [Incident Management](../../incident-management/concept/c_IncidentManagement.md).
+For more information about Incident Management, see [Incident Management](../incident-management/c_IncidentManagement.md).
 
--   **[Create an incident in Service Operations Workspace](../task/create-incident-sow.md)**  
+-   **[Create an incident in Service Operations Workspace](create-incident-sow.md)**  
 Track the investigation, possible solutions, and resolution of a problem for a customer.
--   **[View and update incident information on the Overview tab in SOW](../task/view-update-inc-overview-tab.md)**  
+-   **[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)**  
 View and update the incident information, such as summary, impact, cause, and resolution, from the **Overview** tab. This incident information helps you analyze the issue and resolve the incident quickly.
 -   **[Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)**  
 View the incident record information, such as caller details and assets, from the Contextual side panel. Use this information to help manage an incident more efficiently.
--   **[Work on an incident list page in Service Operations Workspace](../task/work-incident-list-page-sow.md)**  
+-   **[Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)**  
 Perform various actions on an incident from the incident list page in Service Operations Workspace \(SOW\).
--   **[Work on an incident record in Service Operations Workspace](../task/work-on-incident-sow.md)**  
+-   **[Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)**  
 If resolving the incident involves creating a problem, change, service request, and so on, you can create them directly from the incident record.
 -   **[Remedial actions using Playbook](remedial-actions-playbook.md)**  
 Resolve the CI-related issues using the remedial actions using Playbook in the Investigate tab.
--   **[Close resolved incident](../task/close-resolved-incident-sow.md)**  
+-   **[Close resolved incident](close-resolved-incident-sow.md)**  
 Close an resolved incident when the user is satisfied with the provided resolution.
--   **[Reopen an incident in Service Operations Workspace](../task/reopen-incident-sow.md)**  
+-   **[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)**  
 Reopen a resolved incident from the incident record in Service Operations Workspace \(SOW\).
 -   **[Incident Management in Service Operations Workspace reference](sow-im-reference.md)**  
 Reference topics provide additional information about Incident Management in Service Operations Workspace.
@@ -110,11 +110,11 @@ Reference topics provide additional information about Incident Management in Ser
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md)
 
-[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](add-quick-link.md)
 
-[Create a list in Service Operations Workspace](../task/create-list-sow.md)
+[Create a list in Service Operations Workspace](create-list-sow.md)
 
 [Live Agent chat in Service Operations Workspace](configure-liveagent-sow.md)
 

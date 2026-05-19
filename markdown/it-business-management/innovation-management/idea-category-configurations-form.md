@@ -67,5 +67,5 @@ The Idea module to which this idea category belongs.
 **Related topics**  
 
 
-[Configure idea categories](../task/category-configuration-existing-table.md)
+[Configure idea categories](category-configuration-existing-table.md)
 

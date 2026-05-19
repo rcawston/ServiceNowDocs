@@ -33,7 +33,7 @@ The Tag Based Alert Clustering Engine application comes with a set of predefined
 
 4.  Use the search field to locate a predefined alert clustering tag, and then select the green check mark to confirm your selection.
 
-    **Note:** Predefined tags are recognizable by their description, which includes “out of the box.” For a complete list of the available predefined tags, see [List of predefined alert grouping tags](../reference/alert-clustering-predefined-tag-list.md).
+    **Note:** Predefined tags are recognizable by their description, which includes “out of the box.” For a complete list of the available predefined tags, see [List of predefined alert grouping tags](alert-clustering-predefined-tag-list.md).
 
 5.  Select **Save**.
 

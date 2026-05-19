@@ -94,5 +94,5 @@ Opens CI Class Manager to add the **Managed by group** field to CI classes that 
 **Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](administer-data-manager.md)
 

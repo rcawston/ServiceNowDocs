@@ -44,5 +44,5 @@ The topic record and the Kafka topic in the Hermes Kafka cluster are updated.
 
 If an error occurs when updating the partition count, you can synchronize the topic's partition count across Hermes Kafka clusters by selecting **Synchronize Partition Count**.
 
-**Parent Topic:**[Managing topics in Hermes](../concept/managing-topics-hermes.md)
+**Parent Topic:**[Managing topics in Hermes](managing-topics-hermes.md)
 

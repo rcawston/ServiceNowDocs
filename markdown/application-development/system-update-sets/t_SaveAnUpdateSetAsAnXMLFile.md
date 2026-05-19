@@ -42,7 +42,7 @@ Create an XML file of an update set when:
     When a file is uploaded to a different instance, it’s recognized as a retrieved update set.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](configure-system-update-sets.md)
 
 ## Load customizations from a single XML file
 

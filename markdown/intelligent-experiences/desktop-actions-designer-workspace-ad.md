@@ -170,11 +170,11 @@ Enables AI agents to perform standard Windows system operations. For example, st
 
 You can create on-screen desktop actions in the following ways:
 
--   **[Auto-capture screens and steps](../task/auto-create-desktop-action-ad.md)**
+-   **[Auto-capture screens and steps](auto-create-desktop-action-ad.md)**
 
     With Action recorder, you can record your interactions with desktop applications to create automated workflows. It records every step you take, including clicks, keystrokes, and data entry, along with visual and contextual information. By recording steps, you can automate tasks that replicate your interactions. You can save the recorded screens and steps as a reusable desktop action. For more information, see [Action recorder in AI Desktop Actions](action-recorder-ad.md).
 
--   **[Manually capture screens and steps](../task/manual-create-desktop-action-ad.md)**
+-   **[Manually capture screens and steps](manual-create-desktop-action-ad.md)**
 
     You can manually take a screen capture, add anchors and steps to automate a series of steps you perform on your computer, such as clicking buttons, typing text, or interacting with different applications, and then save this sequence as a reusable desktop action.
 
@@ -230,13 +230,13 @@ Desktop actions support a wide range of desktop application interactions, includ
 
 [Action recorder in AI Desktop Actions](action-recorder-ad.md)
 
-[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](../task/auto-create-desktop-action-ad.md)
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md)
 
-[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](../task/manual-create-desktop-action-ad.md)
+[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md)
 
-[Add details to desktop actions in AI Desktop Actions](../task/add-details-desktop-action-ad.md)
+[Add details to desktop actions in AI Desktop Actions](add-details-desktop-action-ad.md)
 
-[Test and activate a desktop action in AI Desktop Actions](../task/test-activate-desktop-action-ad.md)
+[Test and activate a desktop action in AI Desktop Actions](test-activate-desktop-action-ad.md)
 
-[Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md)
+[Add a desktop action to an AI agent](add-desktop-action-ai-agent.md)
 

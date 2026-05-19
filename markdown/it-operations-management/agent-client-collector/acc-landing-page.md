@@ -45,7 +45,7 @@ Agent Client Collector overview video
 
 </td><td>
 
-[Live CI View ![](../../../reuse/icons/brand-icons/bus-transaction-data.svg)View live data for incident related CIs to help resolve incidents.](../task/acc-live-ci-view.md)
+[Live CI View ![](../../../reuse/icons/brand-icons/bus-transaction-data.svg)View live data for incident related CIs to help resolve incidents.](acc-live-ci-view.md)
 
 </td></tr></tbody>
 </table>

@@ -20,5 +20,5 @@ Properties for Lead-to-Cash Process Management node map visualization.
 -   **[Components installed with Business Object Core](components-installed-business-object-core.md)**  
 Several types of components are installed with activation of the Business Object Core plugin, including tables and user roles.
 
-**Parent Topic:**[Order operations reference](../concept/reference-order-operations.md)
+**Parent Topic:**[Order operations reference](reference-order-operations.md)
 

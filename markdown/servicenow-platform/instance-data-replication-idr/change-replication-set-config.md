@@ -59,5 +59,5 @@ Note the following important information:
     -   To delete a producer replication set from the producer instance, navigate to **Instance Data Replication** &gt; **Producer Replication Sets**. Click the producer replication set that you want to delete, and click **Delete**.
     -   To delete a consumer replication set on a consumer instance, navigate to **Instance Data Replication** &gt; **Consumer Replication Sets**. Click the consumer replication set that you want to delete, and click **Delete**.
 
-**Parent Topic:**[Replicating data with Instance Data Replication](../concept/replicating-data.md)
+**Parent Topic:**[Replicating data with Instance Data Replication](replicating-data.md)
 

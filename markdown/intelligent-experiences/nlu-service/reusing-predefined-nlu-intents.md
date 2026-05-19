@@ -61,7 +61,7 @@ Enables [Pre-built Virtual Agent topics, topic blocks, and ServiceNow NLU models
 
 The prebuilt Virtual Agent models are set to read-only and can't be edited. However, the intents in these models can be imported into your new model, alongside any new intents you've created in your model. You can also copy the prebuilt model and use the intents as a foundation for a new model.
 
-To reuse the intents from a prebuilt Virtual Agent model, choose the prebuilt model when importing intents. See [Import an NLU intent](../task/import-nlu-intent.md).
+To reuse the intents from a prebuilt Virtual Agent model, choose the prebuilt model when importing intents. See [Import an NLU intent](import-nlu-intent.md).
 
 NLU models and their intents and entities are associated to an application scope. The scope can't be changed later, so verify your target application scope before you begin.
 

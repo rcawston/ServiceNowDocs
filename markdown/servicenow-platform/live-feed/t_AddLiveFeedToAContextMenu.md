@@ -32,5 +32,5 @@ Role required: admin
 5.  Repeat steps 1 – 4 for all Live Feed UI actions.
 
 
-**Parent Topic:**[Configure record feeds](../concept/c_ConfigureRecordFeeds.md)
+**Parent Topic:**[Configure record feeds](c_ConfigureRecordFeeds.md)
 

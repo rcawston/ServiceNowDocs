@@ -51,12 +51,12 @@ Role required: service\_editor
         **Note:** The same symbols apply as previously described.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 
 **Related topics**  
 
 
 [Create a service offering in Service Portfolio Management](create-or-mod-SPM2-service-offerings.md)
 
-[Create a service offering in Service Builder](../../service-builder/task/create-edit-service-offering.md)
+[Create a service offering in Service Builder](../service-builder/create-edit-service-offering.md)
 

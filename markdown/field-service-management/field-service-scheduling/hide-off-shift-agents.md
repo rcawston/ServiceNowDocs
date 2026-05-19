@@ -17,7 +17,7 @@ Choose to show only agents that are on shift so it’s easier to view who’s av
 
 ## About this task
 
-By default the hide off shift agents icon shows on the calendar in Dispatcher Workspace for up to seven days in the future. Contact your administrator to configure the hide off shift agents button to show for longer than seven days. For more information, see [Change the number of days that dispatchers can hide off shift agents](change-hide-off-shift.md).
+By default the hide off shift agents icon shows on the calendar in Dispatcher Workspace for up to seven days in the future. Contact your administrator to configure the hide off shift agents button to show for longer than seven days. For more information, see [Change the number of days that dispatchers can hide off shift agents](../change-hide-off-shift.md).
 
 Contractors, crews, and equipment aren’t hidden with the hide off shift agents button.
 

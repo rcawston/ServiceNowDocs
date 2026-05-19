@@ -44,5 +44,5 @@ You should now be able to interact with your Self-configured bot.
 
 If you do not see your bot under the Apps section, then click **Add Apps** and search for your bot and select it. You can type **hi** to receive a response.
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](va-integ-single-slack.md)
 

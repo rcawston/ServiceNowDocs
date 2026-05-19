@@ -33,12 +33,12 @@ Role required: certification\_admin
     -   To update an existing certification policy, select a certification policy, then select **Edit**.
 6.  On the CMDB Data Management Certification Policy form, fill in the fields.
 
-    For field information, see [Certification policy form in Enterprise Architecture Workspace](../../reference/eaw-reference/eaw-certification-policy-form.md).
+    For field information, see [Certification policy form in Enterprise Architecture Workspace](eaw-certification-policy-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+**Parent Topic:**[Configure certification policies](eaw-setup-cert-policies.md)
 
 **Related topics**  
 

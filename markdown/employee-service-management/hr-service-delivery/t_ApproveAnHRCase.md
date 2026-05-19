@@ -41,10 +41,10 @@ HR cases: Approvals for HR cases use workflows. Do the following to resubmit a r
 
     Lifecycle Events cases:
 
-    Approvals for HR activities under a lifecycle event are configured differently than an HR case. There are more options for approvals. See [For an approval](configure-hr-lifecycle-event-activity.md#).
+    Approvals for HR activities under a lifecycle event are configured differently than an HR case. There are more options for approvals. See [For an approval](../lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 
     **Note:** Approvers that do not have the sn\_hr\_core.manager role cannot access the HR case after the state changes to **Closed Complete**.
 
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

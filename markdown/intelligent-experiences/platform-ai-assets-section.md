@@ -20,26 +20,26 @@ The ServiceNow AI Platform now brings you a new AI experience with three licensi
 -   Advanced: AI to boost productivity across relevant use cases
 -   Prime: Act autonomously with all AI assets, and create your own
 
-For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
 
 ## Get started
 
 <table id="table_vhh_f41_zgc" class="nav-card presentation"><tbody><tr><td>
 
-[Now Assist skills![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Now Assist skills are predefined capabilities that use generative AI to perform tasks such as generating summaries, resolution notes, and so forth.](now-assist-skills.md)
+[Now Assist skills![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Now Assist skills are predefined capabilities that use generative AI to perform tasks such as generating summaries, resolution notes, and so forth.](now-assist-skills/now-assist-skills.md)
 
 </td><td>
 
-[Now Assist agentic workflows![](../../../reuse/icons/brand-icons/bus-rocketship.svg)An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in AI Agent Studio.](../../now-assist-ai-agents/concept/sn-aia-use-cases-list.md)
+[Now Assist agentic workflows![](../../../reuse/icons/brand-icons/bus-rocketship.svg)An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in AI Agent Studio.](sn-aia-use-cases-list.md)
 
 </td><td>
 
-[Platform AI agents![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)An agent is a software entity that can perceive its environment, make decisions, and take actions to achieve specific goals. They are often used to automate tasks, interact with users, or manage complex processes.](../../now-assist-ai-agents/concept/platform-ai-agents.md)
+[Platform AI agents![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)An agent is a software entity that can perceive its environment, make decisions, and take actions to achieve specific goals. They are often used to automate tasks, interact with users, or manage complex processes.](platform-ai-agents.md)
 
 </td></tr></tbody>
-</table>**Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](now-assist-skills-on-by-default.md).
+</table>**Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](now-assist-skills/now-assist-skills-on-by-default.md).
 
-For a list of AI assets that are turned on by default, see [Now Assist skills, agents, and agentic workflows on by default](now-assist-skills-on-by-default.md).
+For a list of AI assets that are turned on by default, see [Now Assist skills, agents, and agentic workflows on by default](now-assist-skills/now-assist-skills-on-by-default.md).
 
 **Important:**
 
@@ -58,5 +58,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](opt-out-of-data-sharing-for-now-assist.md).
 

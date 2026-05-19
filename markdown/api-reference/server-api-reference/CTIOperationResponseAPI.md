@@ -131,7 +131,7 @@ This script include runs in the `sn_cti_core` namespace. Before you are able to 
 
 For additional information on the ServiceNow Voice, see [ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-overview.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CTIOperationResponse - CTIOperationResponse\(String origin\)
 

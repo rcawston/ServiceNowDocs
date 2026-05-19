@@ -51,12 +51,12 @@ Boards support the following capabilities to help you manage your organization's
     Add boards to your favorites for faster navigation. Favorited boards appear in your quick-access list, reducing time spent searching for frequently used views.
 
 
--   **[Create a board](../task/create-board-strategy.md)**  
+-   **[Create a board](create-board-strategy.md)**  
 Create boards that bring strategic priorities, goals, and targets together in one focused view, helping your organization stay aligned and drive measurable business outcomes.
--   **[Modify a board](../task/modify-board-strategy.md)**  
+-   **[Modify a board](modify-board-strategy.md)**  
 Update the details of a board, including its name, description, and configuration settings, to reflect changes in your strategic direction or organizational needs as they evolve.
--   **[Share a board](../task/share-board-strategy.md)**  
+-   **[Share a board](share-board-strategy.md)**  
 Share your board with stakeholders and planning managers to provide visibility into goal and target progress, and enable collaboration across your organization.
 
-**Parent Topic:**[Strategy and Goals](../reference/strategy-goals-landing-page.md)
+**Parent Topic:**[Strategy and Goals](strategy-goals-landing-page.md)
 

@@ -53,7 +53,7 @@ The ServiceNow® large language model \(Now LLM Service\) is currently the only 
 
 7.  Select the inputs or triggers for the selected skill.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](../concept/now-assist-fsm-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](now-assist-fsm-skill-inputs.md).
 
 8.  After you've configured the inputs or triggers for the selected skill, select **Save and continue** to go to the next step.
 

@@ -17,7 +17,7 @@ User customizations are stored as records in the **User preferences** \[sys\_use
 
 For example, the response time may appear at the bottom of lists and forms by default. If a user hides the response time, a user preference record is created for them showing that the response time indicator as hidden. During the user's future sessions, the response time indicator is hidden. If the user later decides to display the response time, the user preference record is updated appropriately, and future sessions open with the response time indicator visible.
 
-For more information about the preferences available to users, see [User preference settings](../reference/r_UserPreferenceSettings.md) and [Next Experience preferences](../../../get-started/servicenow-overview/concept/set-up-preferences-next-experience.md).
+For more information about the preferences available to users, see [User preference settings](r_UserPreferenceSettings.md) and [Next Experience preferences](set-up-preferences-next-experience.md).
 
 ## Viewing and troubleshooting user preferences
 
@@ -62,12 +62,12 @@ Create system-wide or global user preferences to set a default preference for yo
 
 User preference records for system-wide values, also called the default or global values, are stored in update sets. Any changes are implemented when you import the update set and affect all users who have not customized the feature. User preference records for specific users aren’t stored in update sets, so user customizations are retained when you import an update set. For more information, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/system-update-sets.md).
 
--   **[User preference settings](../reference/r_UserPreferenceSettings.md)**  
+-   **[User preference settings](r_UserPreferenceSettings.md)**  
 User preferences primarily track the way individual users interact with various features so that new sessions activate the user's last settings. For example, user preferences track whether the user activates the tabbed or scrolling interface for multi-section forms. Other user preference records enable users with the admin role to adjust certain feature settings.
--   **[Turn off the Next Experience welcome screen after upgrading your instance](../task/remove-welcome-splash-screen.md)**  
+-   **[Turn off the Next Experience welcome screen after upgrading your instance](remove-welcome-splash-screen.md)**  
 You can turn off the Next Experience welcome splash screen that appears in the Core UI after upgrading your instance by creating a user preference.
--   **[Configure available keyboard shortcuts](../task/configure-keyboard-shortcuts.md)**  
+-   **[Configure available keyboard shortcuts](configure-keyboard-shortcuts.md)**  
 Administrators can configure which keyboard shortcuts are available to users.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

@@ -42,5 +42,5 @@ Prior to configuring the UCF integration, you need a UCF basic subscription and 
 4.  Click **Save Configuration**.
 
 
-**Parent Topic:**[Manage the UCF integration](../concept/manage_compliance_frameworks.md)
+**Parent Topic:**[Manage the UCF integration](manage_compliance_frameworks.md)
 

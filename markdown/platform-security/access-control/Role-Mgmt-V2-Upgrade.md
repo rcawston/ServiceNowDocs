@@ -19,7 +19,7 @@ Contextual Security: Role Management V2 is automatically installed on new instan
 
 Role required: admin, security\_admin
 
-You must have the admin role and [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md) to obtain the effective security\_admin role.
+You must have the admin role and [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md) to obtain the effective security\_admin role.
 
 **Note:** Before upgrading to Contextual Security: Role: Management V2, you must enable the Audit Roles table to create audit records related to user roles. To learn more about setting the required system property, see [Enable role auditing with Contextual Security: Role Management V2](enable-audit-roles.md).
 

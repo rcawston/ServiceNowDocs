@@ -43,7 +43,7 @@ This procedure can only duplicate an action or subflow within the current flow. 
 
 ![Example flow where a second Look Up Record action has been duplicated.](../images/example-duplicate-action-result.png)
 
-Your selected action or subflow duplicates directly under itself. All configurations, including [transform functions](../concept/transform-functions.md), are copied over to the duplicated action or subflow.
+Your selected action or subflow duplicates directly under itself. All configurations, including [transform functions](transform-functions.md), are copied over to the duplicated action or subflow.
 
 **Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
 

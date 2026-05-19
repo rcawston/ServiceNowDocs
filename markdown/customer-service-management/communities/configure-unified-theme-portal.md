@@ -65,5 +65,5 @@ Add a theme and header menu to your service portal to define its look and behavi
 11. Select **Submit**.
 
 
-**Parent Topic:**[Community Service Portal](../concept/community-service-portal.md)
+**Parent Topic:**[Community Service Portal](community-service-portal.md)
 

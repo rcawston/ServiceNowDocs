@@ -25,11 +25,11 @@ Addressing knowledge gaps has the following benefits:
 
 ## Activation information
 
-The Knowledge Demand Insights feature requires the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](../reference/additional-plugins-km.md).
+The Knowledge Demand Insights feature requires the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](additional-plugins-km.md).
 
 ## Demand insights dashboards
 
-You can use a demand insights dashboard for your tasks to analyze candidate knowledge gaps and create knowledge gap feedback tasks. By default, the Knowledge Demand Insights feature includes **Demand Insights for Incidents**, **Demand Insights for Cases**, and **Demand Insights: Similar HR Cases and Knowledge** dashboards for incidents, customer service cases, and HR cases, respectively. For other tasks, you can create a dashboard. To access a demand insights dashboard, you must have read access to the tasks and the sn\_km\_ml.knowledge\_curation\_user role. For more information, see [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](../task/analyze-knowledge-gaps-demand-insights.md).
+You can use a demand insights dashboard for your tasks to analyze candidate knowledge gaps and create knowledge gap feedback tasks. By default, the Knowledge Demand Insights feature includes **Demand Insights for Incidents**, **Demand Insights for Cases**, and **Demand Insights: Similar HR Cases and Knowledge** dashboards for incidents, customer service cases, and HR cases, respectively. For other tasks, you can create a dashboard. To access a demand insights dashboard, you must have read access to the tasks and the sn\_km\_ml.knowledge\_curation\_user role. For more information, see [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](analyze-knowledge-gaps-demand-insights.md).
 
 **Parent Topic:**[Knowledge Management](knowledge-management.md)
 

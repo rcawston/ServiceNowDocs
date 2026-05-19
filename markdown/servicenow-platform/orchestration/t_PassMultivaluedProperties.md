@@ -30,5 +30,5 @@ The Optional parameters shared input variable allows you to set [multivalued pro
 -   To both add and remove values, use this format: "PropertyName":"-\(`value1`, `value2`, `value3`\);+\(`value1`, `value2`, `value3`\);"
 
 
-**Parent Topic:**[Exchange activity pack](../concept/c_OrchestrationExchangeActivities.md)
+**Parent Topic:**[Exchange activity pack](c_OrchestrationExchangeActivities.md)
 

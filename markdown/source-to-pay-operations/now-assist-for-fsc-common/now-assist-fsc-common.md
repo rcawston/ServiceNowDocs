@@ -23,7 +23,7 @@ Use Now Assist for Common Finance and Supply Chain features to summarize purchas
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Common Finance and Supply Chain features to get started](../task/configure-now-assist-fsc.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Common Finance and Supply Chain features to get started](configure-now-assist-fsc.md)
 
 </td><td>
 

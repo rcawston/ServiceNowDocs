@@ -34,5 +34,5 @@ The configuration of this option in the application property decides whether inc
 3.  Select **Save**.
 
 
-**Parent Topic:**[Configure incident patterns](../concept/hs-configure-incident-patterns.md)
+**Parent Topic:**[Configure incident patterns](hs-configure-incident-patterns.md)
 

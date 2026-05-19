@@ -46,5 +46,5 @@ Role required: admin
 6.  Navigate to **Menu** &gt; **Views** to verify if the view has rendered properly.
 
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

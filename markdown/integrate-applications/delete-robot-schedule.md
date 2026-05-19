@@ -99,7 +99,7 @@ Select the delete schedule icon \(![Delete schedule icon.](../../../release-note
 </table>    If you are deleting a published bot process, the life cycle change status is changed to **In Maintenance**.
 
 
-**Parent Topic:**[Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md)
+**Parent Topic:**[Using the robot calendar for RPA Hub](robot-calendar-rpa.md)
 
 **Related topics**  
 
@@ -110,5 +110,5 @@ Select the delete schedule icon \(![Delete schedule icon.](../../../release-note
 
 [View current robot events in RPA Hub](view-robot-calendar.md)
 
-[Using the robot calendar for RPA Hub](../concept/robot-calendar-rpa.md)
+[Using the robot calendar for RPA Hub](robot-calendar-rpa.md)
 

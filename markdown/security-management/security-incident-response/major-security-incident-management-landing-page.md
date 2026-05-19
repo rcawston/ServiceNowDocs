@@ -27,23 +27,23 @@ Major Security Incident Management
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Extend MSIM capabilities by integrating with other Microsoft applications](../concept/integrate-with-other-applications.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Extend MSIM capabilities by integrating with other Microsoft applications](integrate-with-other-applications.md)
 
 </td></tr><tr><td>
 
-[Administer ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Administration tasks on how to tag incident records and configure labels](../concept/configuring-msi-administration-settings.md#)
+[Administer ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Administration tasks on how to tag incident records and configure labels](configuring-msi-administration-settings.md#)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-learn.svg) Propose, promote, link, and reject major security incident records through the workspace management](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-learn.svg) Propose, promote, link, and reject major security incident records through the workspace management](promoting-sir-to-msim.md)
 
 </td><td>
 
-[Status Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Monitor incident related tasks and improve processes through metrics, trend charts, and reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+[Status Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Monitor incident related tasks and improve processes through metrics, trend charts, and reports](manage-status-reports-for-major-security-incident-management.md)
 
 </td></tr><tr><td>
 
-[Additional Capabilities ![](../../../reuse/icons/brand-icons/bus-case.svg) Configure information to roll up records](../concept/roll-up-framework-for-major-security-incident-management.md)
+[Additional Capabilities ![](../../../reuse/icons/brand-icons/bus-case.svg) Configure information to roll up records](roll-up-framework-for-major-security-incident-management.md)
 
 </td><td>
 

@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content.
 -   **Configure a discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions

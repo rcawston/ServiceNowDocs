@@ -56,5 +56,5 @@ The following links appear in the Incident form under the Related Links section:
 
 [Major Incident workbench — the Collaborate tab](mi-workbench-collaborate-tab.md)
 
-[Associate a new post incident report](../task/asso-new-post-incident-report.md)
+[Associate a new post incident report](asso-new-post-incident-report.md)
 

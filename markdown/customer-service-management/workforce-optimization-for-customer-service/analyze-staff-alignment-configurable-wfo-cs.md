@@ -126,5 +126,5 @@ Up to four weeks starting the week containing this date appear on the team calen
     ![Demand Forecast to analyze staff alignment.](../image/demand_forecast_and_scheduling.gif)
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

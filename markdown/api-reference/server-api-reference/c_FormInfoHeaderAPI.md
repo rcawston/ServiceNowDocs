@@ -17,7 +17,7 @@ The FormInfoHeader script include provides methods to add an HTML message as a f
 
 The addMessage\(\) method is commonly used in record producers.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## FormInfoHeader - addMessage\(String message\)
 

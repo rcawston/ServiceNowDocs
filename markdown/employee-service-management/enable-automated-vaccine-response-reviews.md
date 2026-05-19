@@ -38,5 +38,5 @@ This process automates the entire review process so that validator engine can se
 
 Automated vaccine response reviews are enabled for your organization. The validator engine will automatically determine whether a vaccine response is approved or needs a manual review based on information from the attachment type.
 
-**Parent Topic:**[Automating vaccine response reviews](../concept/vaccination-status-vaccine-validation.md)
+**Parent Topic:**[Automating vaccine response reviews](vaccination-status-vaccine-validation.md)
 

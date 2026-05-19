@@ -31,10 +31,10 @@ A journey is a top-level container, where you define whether the Journey contain
 
 3.  On the form, fill in the fields.
 
-    See [Journey designer Journey Configuration fields reference](../reference/jny-dsgnr-jrny-config-fields.md).
+    See [Journey designer Journey Configuration fields reference](jny-dsgnr-jrny-config-fields.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

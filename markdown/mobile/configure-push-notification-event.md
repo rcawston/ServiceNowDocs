@@ -114,5 +114,5 @@ A push notification event is configured and paired with the push notification me
 
 You can add a push registration so that mobile users can receive this notification without requiring them to opt in. For more information, see [Register the standard push notification](sg-mobile-notif-register.md).
 
-**Parent Topic:**[Mobile push notification components](../concept/configure-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notification components](configure-mobile-push-notifications.md)
 

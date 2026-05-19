@@ -28,5 +28,5 @@ Besides the on-call notification channels available in the base system, you can 
 
 To define, configure and integrate a custom channel in On-Call Scheduling for sending on-call escalation notification, refer to the [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB2299454](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2299454).
 
-**Parent Topic:**[Configuring On-Call Scheduling](../../user-administration/concept/configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](configuration.md)
 

@@ -48,5 +48,5 @@ Template tasks help you progress through the various stages of the transfer orde
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Customize transfer order line tasks](../concept/customize-transfer-order-line-tasks.md)
+**Parent Topic:**[Customize transfer order line tasks](customize-transfer-order-line-tasks.md)
 

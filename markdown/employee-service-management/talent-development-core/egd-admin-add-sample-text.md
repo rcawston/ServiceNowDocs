@@ -27,10 +27,10 @@ Role required: sn\_egd\_core.admin
 
 3.  Complete the **Sample texts** form.
 
-    Read details about the different fields in [Talent Sample texts reference](../reference/egd-sample-text-form.md).
+    Read details about the different fields in [Talent Sample texts reference](egd-sample-text-form.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

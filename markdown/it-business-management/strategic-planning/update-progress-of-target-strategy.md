@@ -83,7 +83,7 @@ The goal details page opens.
 </td></tr></tbody>
 </table>4.  On the form, update the **Actuals to date** or **Actual** field and add a business justification in the **Remark** field.
 
-    For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    For a description of the field values, see [Target form](../scenario-planning-in-spw/target-form-egm.md).
 
 5.  Select either **Update** or **Save**.
 

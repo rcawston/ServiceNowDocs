@@ -32,7 +32,7 @@ From the sidebar of an incident, you can access the **Recommendations** panel wh
 
 ![Recommendations from the sidebar](../../recommendation-framework/image/recommendation-panel.png "Recommendations from the sidebar")
 
-For information on available card groups for an incident and their dependencies on recommendation rules, see [Recommendation rules for an incident in Service Operations Workspace](../reference/recommendation-rules.md).
+For information on available card groups for an incident and their dependencies on recommendation rules, see [Recommendation rules for an incident in Service Operations Workspace](recommendation-rules.md).
 
 When you click a card or its record number, detailed information about that card and its actions is displayed in a new tab.
 
@@ -48,11 +48,11 @@ A predicted value is displayed for these fields in the **Details** tab of an inc
 -   Configuration item
 -   Service
 
-These values are predicted based on a recommendation rule for each field. For information about these rules, see [Recommendation rules for an incident in Service Operations Workspace](../reference/recommendation-rules.md). When a threshold value is configured, the recommended value can be stamped or auto-populated as the field value. For information about this configuration, see .
+These values are predicted based on a recommendation rule for each field. For information about these rules, see [Recommendation rules for an incident in Service Operations Workspace](recommendation-rules.md). When a threshold value is configured, the recommended value can be stamped or auto-populated as the field value. For information about this configuration, see .
 
 ![Recommendations at field level](../../recommendation-framework/image/field-recommendation.png "Recommendations at field level")
 
--   **[Recommendation rules for an incident in Service Operations Workspace](../reference/recommendation-rules.md)**  
+-   **[Recommendation rules for an incident in Service Operations Workspace](recommendation-rules.md)**  
 Recommendations for an incident are based on rules defined in Recommendation Framework.
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)

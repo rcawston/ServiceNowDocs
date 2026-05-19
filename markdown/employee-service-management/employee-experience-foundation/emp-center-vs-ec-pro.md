@@ -59,5 +59,5 @@ To learn more about configuring and using Employee Center Pro, see:
 
 -   [Configuring Employee Center Pro](configuring-employee-center-pro.md)
 -   [Authoring and managing employee communications](manage-emp-center.md)
--   [Employee Center Pro reference](../reference/emp-center-pro-reference.md)
+-   [Employee Center Pro reference](emp-center-pro-reference.md)
 

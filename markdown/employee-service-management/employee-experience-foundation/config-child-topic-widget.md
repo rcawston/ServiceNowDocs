@@ -42,5 +42,5 @@ Role required: sp\_admin or admin
 5.  Click **Save**.
 
 
-**Parent Topic:**[Employee Center browse experience widgets](../concept/custom-widget-landing-ec.md)
+**Parent Topic:**[Employee Center browse experience widgets](custom-widget-landing-ec.md)
 

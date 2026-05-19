@@ -19,19 +19,19 @@ The Search Suggestions application uses saved user search data to create auto-co
 
 <table id="table_vsd_1sd_dzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Search Suggestions concepts, workflow, and benefits.](../concept/exploring-search-suggestions.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Search Suggestions concepts, workflow, and benefits.](exploring-search-suggestions.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings for creation of auto-complete suggestions and search suggestions from saved search results.](../concept/configuring-search-suggestions.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings for creation of auto-complete suggestions and search suggestions from saved search results.](configuring-search-suggestions.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)View and select suggestions in AI Search applications and Zing. Analyze saved search data to learn how users interact with search.](../concept/using-search-suggestions.md)
+[Use![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)View and select suggestions in AI Search applications and Zing. Analyze saved search data to learn how users interact with search.](using-search-suggestions.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Component and domain separation information for Search Suggestions.](../concept/search-suggestions-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Component and domain separation information for Search Suggestions.](search-suggestions-reference.md)
 
 </td></tr></tbody>
 </table>

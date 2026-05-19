@@ -37,7 +37,7 @@ Create service requests from directly within an EMR system that can then be fulf
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/emr-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](emr-reference.md)
 
 </td><td>
 

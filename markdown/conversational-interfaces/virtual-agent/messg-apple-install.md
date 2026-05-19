@@ -30,7 +30,7 @@ The following applications or plugins are installed with Conversational Integrat
 
     Provides custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
-    For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md).
+    For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](va-custom-adapter-framework.md).
 
 -   **ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)**
 

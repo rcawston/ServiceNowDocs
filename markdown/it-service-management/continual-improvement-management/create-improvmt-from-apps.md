@@ -33,14 +33,14 @@ Role required: sn\_cim.improvement\_requester
 
 4.  Enter the field values in the Improvement Initiative form.
 
-    For more information, see [Improvement field descriptions](../reference/cim-field-descriptions.md).
+    For more information, see [Improvement field descriptions](cim-field-descriptions.md).
 
 5.  Select **Submit**.
 
 
 ## Result
 
-The improvement initiative is created and UI changes display on the source application record and on the initiative record. For more information, see [Updates after improvement initiative creation from integrated applications](../reference/ui-updates-initiative-from-app.md).
+The improvement initiative is created and UI changes display on the source application record and on the initiative record. For more information, see [Updates after improvement initiative creation from integrated applications](ui-updates-initiative-from-app.md).
 
 **Parent Topic:**[Create an improvement request](create-cim-request.md)
 

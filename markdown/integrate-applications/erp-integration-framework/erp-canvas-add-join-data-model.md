@@ -49,7 +49,7 @@ Join fields defines the common attribute or key used to connect records in a chi
 
 6.  Add the tables to join as **Table read** operation entities if they haven't yet been added to the model.
 
-    For more information, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+    For more information, see [Add an entity to a model](add-an-entity-to-model.md).
 
     ![Multiple tables are joined.](../image/erpc-tables-with-joins-ys2.png)
 
@@ -96,8 +96,8 @@ Join fields defines the common attribute or key used to connect records in a chi
 
 After you're done creating table joins, you can specify where the returned ERP data goes, and build flows that retrieve and output the data. For more information, see the following topics:
 
--   [Specifying where ERP system data is saved](../concept/erpc-call-response-data.md)
--   [Building flows to read or update the ERP system](../concept/erp-canvas-build-flow-operation.md)
+-   [Specifying where ERP system data is saved](erpc-call-response-data.md)
+-   [Building flows to read or update the ERP system](erp-canvas-build-flow-operation.md)
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

@@ -231,7 +231,7 @@ Validate button is light red and one or all of the small colored indicators are 
 -   Exchange Online certificate-based authentication indicator is red but MID Server Ready button is green: Indicates that the MID Server is active and configured correctly, but the Exchange Online certificate-based authentication are incorrect.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+</table>**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Install Microsoft Exchange Online application](install-and-configure-ms-exchange-online.md)
 

@@ -107,5 +107,5 @@ A claim case is created in the New state and the workflow is triggered. If appli
 
 ## What to do next
 
-Assign cases to yourself and start working on them. For more information, see [Adjuster activities](../concept/adjuster-tasks-workspace-persona.md).
+Assign cases to yourself and start working on them. For more information, see [Adjuster activities](adjuster-tasks-workspace-persona.md).
 

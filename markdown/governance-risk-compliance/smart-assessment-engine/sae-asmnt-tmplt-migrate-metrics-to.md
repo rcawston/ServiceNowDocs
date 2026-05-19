@@ -100,12 +100,12 @@ New template that the existing metric type is migrated to.
 
 ## Result
 
-The Section migration related list is updated as migration proceeds. You can view the data that was migrated from the metric type to the Smart Assessment Engine assessment template in the related lists on the Assessment template migration form. See [Results of migrating a metric category to an assessment template](../reference/sae-migrate-asmnt-template-form.md).
+The Section migration related list is updated as migration proceeds. You can view the data that was migrated from the metric type to the Smart Assessment Engine assessment template in the related lists on the Assessment template migration form. See [Results of migrating a metric category to an assessment template](sae-migrate-asmnt-template-form.md).
 
 **Related topics**  
 
 
-[How legacy metric types are migrated to sections in templates](../reference/sae-how-legacy-metrics-migrated.md)
+[How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md)
 
-[Results of migrating a metric category to an assessment template](../reference/sae-migrate-asmnt-template-form.md)
+[Results of migrating a metric category to an assessment template](sae-migrate-asmnt-template-form.md)
 

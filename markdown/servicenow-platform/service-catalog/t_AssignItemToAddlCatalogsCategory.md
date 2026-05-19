@@ -38,5 +38,5 @@ Within an item:
 -   **[Share catalog items across catalogs](t_ShareCatalogItemsAcrossCatalogs.md)**  
 You can share a catalog item, enabling users to order that item from different catalogs. For example, you can share a Password Reset item across catalogs serving different teams.
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](r_ExtendedCatalogItemFunctions.md)
 

@@ -17,7 +17,7 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 
 **Important:** The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin is supported only in the Jakarta and earlier releases. Although this legacy plugin can no longer be activated upon request, you can continue to use it if it has already been activated on a ServiceNow instance running the Jakarta or earlier releases.
 
-If your ServiceNow instance is running the Kingston or later releases, you must request and activate the [Software Asset Management Foundation plugin](../../software-asset-management2/concept/c_SoftwareAssetMgmtSAMF.md) instead.
+If your ServiceNow instance is running the Kingston or later releases, you must request and activate the [Software Asset Management Foundation plugin](../software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md) instead.
 
 A strong software asset management \(SAM\) program can help an organization reduce software costs, improve compliance, and simplify or develop processes for employee software requests. SAM programs can also help control inventory through accurate databases, which in turn helps identify organizational software needs, identify unused software that can be deleted, as well as reduce or consolidate the number of software vendors used.
 
@@ -29,7 +29,7 @@ To get started with the legacy Software Asset Management \(com.snc.software\_ass
 When using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to determine where your software is installed, you must keep the following points in mind.
 -   **[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)**  
 Software licenses are based on models that are defined through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
--   **[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)**  
+-   **[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin uses software models to manage licenses, specifically in software counters and license restrictions, and to track upgrade and downgrade licenses.
 -   **[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)**  
 Software license calculations with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin count the number of licenses that exist in your network environment.
@@ -46,5 +46,5 @@ A software contract is a binding agreement between the owner of a software produ
 -   **[Legacy Oracle process pack](c_OracleProcessPack.md)**  
 The legacy Oracle process pack is an add-on to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin that provides the ability to manage software licensed under the Oracle licensing model.
 
-**Parent Topic:**[ITSM Software Asset Management](itsm-sam.md)
+**Parent Topic:**[ITSM Software Asset Management](../asset-management/itsm-sam.md)
 

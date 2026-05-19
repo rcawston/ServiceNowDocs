@@ -87,7 +87,7 @@ The following components are installed with installation of the Workplace Core a
 -   Roles
 -   Tables
 
-See [Components installed with Workplace Core](../reference/components-installed-with-workplace-safety-mgmt-hr.md#) for more information.
+See [Components installed with Workplace Core](components-installed-with-workplace-safety-mgmt-hr.md#) for more information.
 
 ## Procedure
 
@@ -114,10 +114,10 @@ See [Components installed with Workplace Core](../reference/components-installed
 6.  Click **Install**.
 
 
--   **[Components installed with Workplace Core](../reference/components-installed-with-workplace-safety-mgmt-hr.md#)**  
+-   **[Components installed with Workplace Core](components-installed-with-workplace-safety-mgmt-hr.md#)**  
 Several types of components are installed with installation of the Workplace Core application, including user roles, scheduled jobs, tables, and business rules.
--   **[Properties installed with Workplace Core](../reference/properties-installed-with-workplace-safety-mgmt-hr.md)**  
+-   **[Properties installed with Workplace Core](properties-installed-with-workplace-safety-mgmt-hr.md)**  
 Customize the properties available with Workplace Core.
 
-**Parent Topic:**[Workplace Core](../concept/workplace-safety-mgmt-hr.md)
+**Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)
 

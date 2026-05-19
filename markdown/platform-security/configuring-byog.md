@@ -44,21 +44,21 @@ Setting up a custom guardrail involves three steps:
 
 1.  Create a connection and credential alias for the custom guardian and complete its setup. The alias supports Basic Auth, OAuth 2.0, and API Key credential types.
 
-    For more information, see [Create a Connection &amp; Credential alias](../../../product/credentials/task/connection-alias.md).
+    For more information, see [Create a Connection &amp; Credential alias](connections-and-credentials/connection-alias.md).
 
 2.  Create a custom guardian in the Generative AI Custom Guardian Transformer \[sys\_generative\_ai\_custom\_guardian\_transformer\_list.do\] table.
 
-    For more information, see [Create a custom guardian](../task/create-custom-guardian.md).
+    For more information, see [Create a custom guardian](create-custom-guardian.md).
 
 3.  Select your preferred guardrail service providers to monitor content.
 
-    For more information, see [Setup a Guardrail Service Provider](../task/configure-guardrail-model.md).
+    For more information, see [Setup a Guardrail Service Provider](configure-guardrail-model.md).
 
 
--   **[Create a custom guardian](../task/create-custom-guardian.md)**  
+-   **[Create a custom guardian](create-custom-guardian.md)**  
 Create your own custom guardian to monitor and detect requests sent to LLM.
--   **[Setup a Guardrail Service Provider](../task/configure-guardrail-model.md)**  
+-   **[Setup a Guardrail Service Provider](configure-guardrail-model.md)**  
 Select a guardrail service provider of your choice in Now Assist Guardian to monitor and detect Now Assist interactions for harmful, offensive, and prompt injection content.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](now-assist-guardian.md)
 

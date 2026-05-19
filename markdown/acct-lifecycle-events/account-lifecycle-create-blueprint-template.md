@@ -107,5 +107,5 @@ To configure the success initiatives decision table, follow these steps:
 -   **[Create a success blueprint](account-lifecycle-create-blueprint.md)**  
 Use this option to create a success blueprint to add success objectives and outcomes for the engagement.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](account-lifecycle-config-cust-success.md)
 

@@ -33,10 +33,10 @@ After the initial plan configuration is created, admins can assign owners and ap
 
 3.  File out the form.
 
-    Some fields are only available after an **Owner** is selected. For more information about the fields, see [Journey designer version 2 plan configuration fields](../reference/jny-dsgnr-v2-plan-config.md).
+    Some fields are only available after an **Owner** is selected. For more information about the fields, see [Journey designer version 2 plan configuration fields](jny-dsgnr-v2-plan-config.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](../concept/jny-dsgnr-plan-config-admin.md)
+**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](jny-dsgnr-plan-config-admin.md)
 

@@ -15,14 +15,14 @@ breadcrumb: [Create data sources from other apps using ODBC driver, Additional i
 
 See the following pages for examples of how to use the ODBC driver to create data sources from other applications.
 
--   **[Use Interactive SQL with ODBC](../task/t_UsingInteractiveSQLWithODBC.md)**  
+-   **[Use Interactive SQL with ODBC](t_UsingInteractiveSQLWithODBC.md)**  
 Run the Interactive SQL application for quick verification of connectivity and to test query results without using a full application.
--   **[ODBC driver in SQL Server](../concept/c_ODBCDrvrSQL20082012.md)**  
+-   **[ODBC driver in SQL Server](c_ODBCDrvrSQL20082012.md)**  
 Use the ServiceNow ODBC driver in SQL Server as a Linked Server.
--   **[Use the ODBC driver in Excel](../task/t_UsingTheODBCDriverInExcel2010.md)**  
+-   **[Use the ODBC driver in Excel](t_UsingTheODBCDriverInExcel2010.md)**  
 After installing the ODBC driver and its associated DSN, use it in Excel as a data source provider.
--   **[Use the ODBC driver in Crystal Reports](../task/t_UseODBCDriverCrysRpts.md)**  
+-   **[Use the ODBC driver in Crystal Reports](t_UseODBCDriverCrysRpts.md)**  
 After installing the ODBC driver and its associated DSN, use it in Crystal Reports as a data source provider.
 
-**Parent Topic:**[Create data sources from other apps using ODBC driver](../concept/c_ODBCDriver.md)
+**Parent Topic:**[Create data sources from other apps using ODBC driver](c_ODBCDriver.md)
 

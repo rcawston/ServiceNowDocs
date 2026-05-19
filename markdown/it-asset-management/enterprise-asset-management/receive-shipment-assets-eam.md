@@ -71,5 +71,5 @@ If the asset details are valid, the following changes occur:
 
 If any of the asset details are invalid, an error message in shown in the **Alert** column for the corresponding asset record. You should resolve the error before receiving the assets.
 
-**Parent Topic:**[Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace](../concept/manage-stockroom-receive-eam.md)
+**Parent Topic:**[Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace](manage-stockroom-receive-eam.md)
 

@@ -34,14 +34,14 @@ Role required: sn\_shop.shopper
     **Note:**
 
     -   Depending on whether the product is a good or service, different delivery date options are available. For more information on this, see [Order a product](order-a-product.md).
-    -   When adding a delivery date, the quantity of the product is updated accordingly. You can also specify different delivery dates for each supplier product and delivery location combination. For more information on these, see [Delivery date options](../reference/delivery-date-options.md).
+    -   When adding a delivery date, the quantity of the product is updated accordingly. You can also specify different delivery dates for each supplier product and delivery location combination. For more information on these, see [Delivery date options](delivery-date-options.md).
     -   For a bundled product, depending on whether the products within the bundle are goods or services, different delivery date options are displayed.
 
 ## What to do next
 
 When you are done selecting delivery dates for the products in your cart, you can select payment methods for them. For more information, see [Select a payment method](select-payment-method.md).
 
--   **[Delivery date options](../reference/delivery-date-options.md)**  
+-   **[Delivery date options](delivery-date-options.md)**  
 Delivery dates define when goods or services are expected to be delivered and give shoppers flexibility to align deliveries with business needs.
 
 **Parent Topic:**[Complete your checkout](complete-your-checkout.md)

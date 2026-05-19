@@ -24,15 +24,15 @@ Role required: agent\_admin, admin
 ![Set up indicator for installation phase](../image/ProgressBarInstall.png)
 
 </td></tr></tbody>
-</table>Make sure that the [MID Server version](../concept/mid-server-landing.md) is compatible with the instance.
+</table>Make sure that the [MID Server version](mid-server-landing.md) is compatible with the instance.
 
 ## About this task
 
 Validation restricts access to automation credentials to trusted MID servers only.
 
-When you validate a MID Server, you specify the capabilities it can use, the applications that use it, and the IP ranges it is allowed to explore. You will be prompted to set the initial selection criteria when you validate MID Servers that do not already have capabilities, applications, or IP ranges already configured. You do not have to set the initial selection criteria to actually validate the MID Server. See [MID Server selection](../concept/c_MIDServerSelector.md) for more information on capabilities, applications, and IP ranges.
+When you validate a MID Server, you specify the capabilities it can use, the applications that use it, and the IP ranges it is allowed to explore. You will be prompted to set the initial selection criteria when you validate MID Servers that do not already have capabilities, applications, or IP ranges already configured. You do not have to set the initial selection criteria to actually validate the MID Server. See [MID Server selection](c_MIDServerSelector.md) for more information on capabilities, applications, and IP ranges.
 
-**Note:** When you upgrade, MID Servers that are already configured in your instance are automatically validated. This prevents the interruption of automation tasks that MID Servers might be performing. See [MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md) for more information.
+**Note:** When you upgrade, MID Servers that are already configured in your instance are automatically validated. This prevents the interruption of automation tasks that MID Servers might be performing. See [MID Server upgrades](c_UpgradeAndTestMIDServer.md) for more information.
 
 ## Procedure
 

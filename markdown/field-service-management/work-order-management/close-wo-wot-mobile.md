@@ -79,7 +79,7 @@ A clone of the work order task set to **Draft** state is created and the origina
 </td></tr></tbody>
 </table>6.  Generate a signed PDF summary for the work order task by tapping **Preview Work Summary**.
 
-    The PDF summary captures the details of the task, and the responses submitted in the smart assessment questionnaire along with the score. For more information, see [Enable PDF summaries at work order task level](../task/enable-pdf-summary.md).
+    The PDF summary captures the details of the task, and the responses submitted in the smart assessment questionnaire along with the score. For more information, see [Enable PDF summaries at work order task level](enable-pdf-summary.md).
 
 
 ### Result
@@ -89,9 +89,9 @@ When all work order tasks associated with a work order are closed, the work orde
 **Related topics**  
 
 
-[Closing work orders](../../planning-and-policy/concept/c_CloseAWorkOrder.md)
+[Closing work orders](c_CloseAWorkOrder.md)
 
-[System properties](../../planning-and-policy/reference/r_InstalledWithFSM.md)
+[System properties](../r_InstalledWithFSM.md)
 
 ## Respond to a reviewed work order task
 
@@ -99,13 +99,13 @@ Respond to a task that was sent back to you for review. Update the work order ta
 
 ### Before you begin
 
-Ensure that the Field Service Quality Management plugin is active. For more information, see [Activate Field Service Quality Management](../task/activate-quality-mgmt.md).
+Ensure that the Field Service Quality Management plugin is active. For more information, see [Activate Field Service Quality Management](activate-quality-mgmt.md).
 
 Role required: wm\_agent
 
 ### About this task
 
-When you close a work order task, the task is sent to a reviewer. The reviewer can either mark the task as complete or request more information. For more information, see [Review a task](../task/review-send-task-back.md). You will receive a notification about the work order task that needs review.
+When you close a work order task, the task is sent to a reviewer. The reviewer can either mark the task as complete or request more information. For more information, see [Review a task](review-send-task-back.md). You will receive a notification about the work order task that needs review.
 
 ### Procedure
 

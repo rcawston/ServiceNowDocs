@@ -17,7 +17,7 @@ Platform Analytics Solutions contain preconfigured dashboards. These dashboards 
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
-The Platform Analytics Solution for Configuration Management \(CMDB\) has been replaced by the CMDB Workspace. For more information, see [CMDB Workspace store app](../../../product/configuration-management/concept/cmdb-workspace.md).
+The Platform Analytics Solution for Configuration Management \(CMDB\) has been replaced by the CMDB Workspace. For more information, see [CMDB Workspace store app](cmdb-workspace.md).
 
 **Related topics**  
 

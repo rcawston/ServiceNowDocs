@@ -52,5 +52,5 @@ You can specify the impacted areas or objects, such as the entities, controls, c
 10. Select **Save**.
 
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

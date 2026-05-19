@@ -64,7 +64,7 @@ This design separates data ingestion from record creation, allowing consistent h
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 

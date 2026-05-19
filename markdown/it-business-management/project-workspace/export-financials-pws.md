@@ -39,5 +39,5 @@ Role required: it\_project\_manager
     **Note:** You can export financials data from Cost view and Baselines comparison view.
 
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](using-financials-prj-wrkspc.md)
 

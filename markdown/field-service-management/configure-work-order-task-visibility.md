@@ -56,5 +56,5 @@ Role required: wm\_admin
 **Related topics**  
 
 
-[View events on the Team calendar in Workforce when Workforce Optimization for Field Service is installed](view-work-order-tasks-on-the-team-calendar-when-wfo-is-installed.md)
+[View events on the Team calendar in Workforce when Workforce Optimization for Field Service is installed](field-service-manager-workforce/view-work-order-tasks-on-the-team-calendar-when-wfo-is-installed.md)
 

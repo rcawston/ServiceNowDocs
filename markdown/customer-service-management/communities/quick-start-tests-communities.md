@@ -36,20 +36,20 @@ Communities quick start tests require activating the Customer Communities plugin
 |Post a video with 'Disable comment' option|Verify a video is posted with `Disable comments` option as selected.|Orlando|
 |Pin a video as Featured|Verify that a video is marked as featured by community administrator in the forum and community home page.|Orlando|
 
-**Parent Topic:**[Communities references](../../../product/customer-communities/reference/communitie-references.md)
+**Parent Topic:**[Communities references](communitie-references.md)
 
 **Related topics**  
 
 
-[Properties installed with Communities](../../../product/customer-communities/reference/communities-properties.md)
+[Properties installed with Communities](communities-properties.md)
 
-[Communities roles](../../../product/customer-communities/reference/communities-roles.md)
+[Communities roles](communities-roles.md)
 
-[Forum form fields](../../../product/customer-communities/reference/forum-form-fields.md)
+[Forum form fields](forum-form-fields.md)
 
-[Video Configurations form fields](../../../product/customer-communities/reference/video-configurations-form-fields.md)
+[Video Configurations form fields](video-configurations-form-fields.md)
 
-[Topic form fields](../../../product/customer-communities/reference/topic-form-fields.md)
+[Topic form fields](topic-form-fields.md)
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
 

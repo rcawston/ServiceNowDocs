@@ -42,5 +42,5 @@ Role required: localization\_admin or localization\_requestor
 5.  Click **OK** in the Confirmation dialog box to submit the request.
 
 
-**Parent Topic:**[Monitor the Localization Framework](../concept/monitor-localization-framework.md)
+**Parent Topic:**[Monitor the Localization Framework](monitor-localization-framework.md)
 

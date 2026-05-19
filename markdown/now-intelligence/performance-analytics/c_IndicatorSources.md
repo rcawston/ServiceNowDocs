@@ -124,7 +124,7 @@ Specify an existing report source to reuse. A report source specifies a facts ta
 
 11. In the Records Collection tab, override the maximum number of records that a job can collect for a single indicator source, for this indicator source only.
 
-    Select **Override record collection**, then enter a value in **Maximum number of records collected**. You are overriding the default value set on the property **com.snc.pa.dc.max\_row\_count\_indicator\_source**. For more information, see [Performance Analytics properties](../reference/pa-properties.md).
+    Select **Override record collection**, then enter a value in **Maximum number of records collected**. You are overriding the default value set on the property **com.snc.pa.dc.max\_row\_count\_indicator\_source**. For more information, see [Performance Analytics properties](pa-properties.md).
 
 12. Expand the context menu and click **Save**.
 
@@ -158,7 +158,7 @@ The following settings create an indicator source that collects new incidents da
 
 ### What to do next
 
-After you create an indicator source, you can define text index configurations in a related list on the record. Use these configurations to create Performance Analytics text widgets with word clouds. For more information, see [Set up text analytics](../task/set-up-text-analytics.md).
+After you create an indicator source, you can define text index configurations in a related list on the record. Use these configurations to create Performance Analytics text widgets with word clouds. For more information, see [Set up text analytics](set-up-text-analytics.md).
 
 If you are reusing a report source and the report source changes, a warning appears on the indicator source record. To update the indicator source to match the report source, click **Update report source**. You can also click the refresh button next to the **Report source** field.
 
@@ -167,7 +167,7 @@ The read-only **Report source updated at** field displays the last time the repo
 **Related topics**  
 
 
-[Report sources](../../reporting/concept/c_ReportSources.md#)
+[Report sources](../reporting/c_ReportSources.md#)
 
 [Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/business-calendars.md)
 

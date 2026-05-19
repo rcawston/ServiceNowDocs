@@ -45,13 +45,13 @@ The state transitions are a list of conditions for entering or exiting each stat
 
 9.  On the form, fill in the fields.
 
-    For a description of the field values on the GRC model state transition form, see [GRC Model State Transition Condition form](../reference/grc-model-state-transition-condition-form.md).
+    For a description of the field values on the GRC model state transition form, see [GRC Model State Transition Condition form](grc-model-state-transition-condition-form.md).
 
 10. Select **Submit**.
 
 
--   **[GRC Model State Transition Condition form](../reference/grc-model-state-transition-condition-form.md)**  
+-   **[GRC Model State Transition Condition form](grc-model-state-transition-condition-form.md)**  
 Use the GRC Model State Transition Condition form to define the transition conditions to control how a compliance case or request traverses through the different workflow states by using the GRC: Compliance Case Management application.
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](configure-compliance-case-management.md)
 

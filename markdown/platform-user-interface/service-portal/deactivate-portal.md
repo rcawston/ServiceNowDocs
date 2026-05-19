@@ -27,7 +27,7 @@ If an alternate portal is selected, pages are redirected by replacing the URL su
 
 -   Verify that all necessary resources, such as knowledge base articles and catalog items, are available on the alternate portal.
 -   If different pages are used on each portal, set up page route maps to map pages from the inactive portal to the alternate portal. For more information, see [Redirect a reference to a page ID](reroute-page.md).
--   If customizations exist for page redirects using the SPEntryPage script include or other methods, test these customizations thoroughly to confirm that there are no conflicts or remove the customizations. For more information, see [Single sign-on, logins, and URL redirects](../concept/c_SPSSOLoginAndRedirects.md#).
+-   If customizations exist for page redirects using the SPEntryPage script include or other methods, test these customizations thoroughly to confirm that there are no conflicts or remove the customizations. For more information, see [Single sign-on, logins, and URL redirects](c_SPSSOLoginAndRedirects.md#).
 
 To support deactivating and reactivating public portals without search engines deindexing their pages, temporary HTTP 302 redirects are used for inactive portals.
 
@@ -58,5 +58,5 @@ If you don’t specify an alternate portal, users receive a message that the por
 
 To reactivate a portal, clear the **Inactive** option.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](portal-security.md)
 

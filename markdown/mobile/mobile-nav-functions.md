@@ -28,7 +28,7 @@ Use navigation functions to transition from your current screen to another scree
 
     Use global context navigation functions in situation where the navigation does not depend on information from a record. For example, to navigate to a specific screen or launcher screen, you can use a global context navigation function. For examples of global context navigation configuration, see:
 
-    -   [Configure a navigation to a screen](../task/sg-config-navigation-function.md)
+    -   [Configure a navigation to a screen](sg-config-navigation-function.md)
     -   [Configure navigation to a launcher screen](sg-launcher-nav-example.md)
 -   **Record Context**
 

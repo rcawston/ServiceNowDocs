@@ -19,17 +19,17 @@ This API requires the Configuration Management Database \(CMDB\) application \(c
 
 **Note:**
 
-This API is only available in Global scope. To use these methods in a scoped application, see [CMDBQBScopedScriptableAPI - Scoped](../../CMDBQBScoped/concept/CMDBQBScopedAPI.md#).
+This API is only available in Global scope. To use these methods in a scoped application, see [CMDBQBScopedScriptableAPI - Scoped](CMDBQBScopedAPI.md#).
 
 For more information about CMDB Query Builder, see [CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-query-builder-landing-page.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CMDBQueryBuilderAPI - createReport\(String savedQueryId, String savedQueryName\)
 
 Creates a report that shows the results of a Configuration Management Database \(CMDB\) Query Builder query and returns the URL of the report.
 
-For scoped applications, use [CMDBQBScopedScriptableAPI - createReport\(String savedQueryId, String savedQueryName\)](../../CMDBQBScoped/concept/CMDBQBScopedAPI.md#).
+For scoped applications, use [CMDBQBScopedScriptableAPI - createReport\(String savedQueryId, String savedQueryName\)](CMDBQBScopedAPI.md#).
 
 <table id="id_dv4_sps_pbc" class="parameters"><thead><tr><th>
 
@@ -306,7 +306,7 @@ Optionally, you can execute the query in order to return current execution detai
 
 If a timeout or memory issue occurs while executing the query, you can fine tune the query batch size to help alleviate these problems. For more information, see [Batch size for Query Builder saved queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/batch-size-query.md).
 
-For scoped applications, use [CMDBQBScopedScriptableAPI - getSavedQueryExecutionDetails\(String savedQueryName, Boolean executeQuery, Number timeout\)](../../CMDBQBScoped/concept/CMDBQBScopedAPI.md#).
+For scoped applications, use [CMDBQBScopedScriptableAPI - getSavedQueryExecutionDetails\(String savedQueryName, Boolean executeQuery, Number timeout\)](CMDBQBScopedAPI.md#).
 
 <table id="id_ezv_4vz_pbc" class="parameters"><thead><tr><th>
 
@@ -647,7 +647,7 @@ Output:
 
 Updates the JSON for a Configuration Management Database \(CMDB\) Query Builder query.
 
-For scoped applications, use [CMDBQBScopedScriptableAPI - updateQuery\(String savedQueryId, String savedQueryName, String queryJson\)](../../CMDBQBScoped/concept/CMDBQBScopedAPI.md#).
+For scoped applications, use [CMDBQBScopedScriptableAPI - updateQuery\(String savedQueryId, String savedQueryName, String queryJson\)](CMDBQBScopedAPI.md#).
 
 <table id="id_s3p_mv5_pbc" class="parameters"><thead><tr><th>
 

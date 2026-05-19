@@ -38,5 +38,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](modeling-ot-system.md)
 

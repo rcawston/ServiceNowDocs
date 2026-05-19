@@ -27,7 +27,7 @@ Requesters, contributors, and processors use personalized Workspace to work on a
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Policy admin
 
 </td><td>
 
-Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Underwriting admin
 
 </td><td>
 
-Configures the insurance underwriting workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the insurance underwriting workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -92,9 +92,9 @@ Views the status of and works on underwriting tasks.
 </td></tr></tbody>
 </table>-   **[Request, review, and approve change coverage request workflows](request-review-approve-change-coverage-request-workflows-commercial-lines.md)**  
 Learn how agents, using the change coverage limits workflows, resolve service requests for requesting, reviewing, and approving policy change requests.
--   **[Submit a policy service request](../task/submit-ins-policy-service-request-commercial-lines-servicing.md)**  
+-   **[Submit a policy service request](submit-ins-policy-service-request-commercial-lines-servicing.md)**  
 Help your customers by submitting a policy service request for them.
--   **[Work on a policy service case](../task/work-commercial-policy-case.md)**  
+-   **[Work on a policy service case](work-commercial-policy-case.md)**  
 Review a policy case for a policy service request and update its details to trigger its workflow.
 
 **Parent Topic:**[Commercial Lines Servicing](fso-ins-commercial-policy-ops-landing-page.md)

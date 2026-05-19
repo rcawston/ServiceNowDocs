@@ -54,7 +54,7 @@ Review the process of preparing a subflow for use in a parent workflow, and for 
     ![Completed subflow](../image/WorkflowWithSubflow.png)
 
 
-**Parent Topic:**[Workflows used as subflows](../reference/workflows-as-subflows.md)
+**Parent Topic:**[Workflows used as subflows](workflows-as-subflows.md)
 
 ## Prepare a workflow to use a subflow
 

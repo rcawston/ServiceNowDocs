@@ -81,5 +81,5 @@ The guest user domains where invited guests can start or import a chat. Only the
 
 Guests belonging to the selected guest domains can start or import chats.
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-st.md)
+**Parent Topic:**[Request-based chat access for a guest user](guest-user-chat-access-st.md)
 

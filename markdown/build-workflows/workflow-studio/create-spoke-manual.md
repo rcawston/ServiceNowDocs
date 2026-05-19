@@ -46,5 +46,5 @@ Automate an integration and generate reusable actions manually.
 7.  Click **New action** to create an action.
 
     -   If you want to create actions by importing the required OpenAPI Specification, select **From OpenAPI spec**. For information about selecting the required operations and creating actions, see [Create spoke and build actions by importing an OpenAPI Specification](create-spoke-fd.md).
-    -   If you want to create actions manually, select **Manually**. The Action Properties screen is displayed. You should create and publish the action in the Action Designer. For more information, see [Building actions](../concept/actions.md).
+    -   If you want to create actions manually, select **Manually**. The Action Properties screen is displayed. You should create and publish the action in the Action Designer. For more information, see [Building actions](actions.md).
 

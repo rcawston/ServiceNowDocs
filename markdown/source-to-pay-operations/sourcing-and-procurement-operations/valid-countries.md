@@ -29,15 +29,15 @@ Add, modify, and select valid delivery locations and office locations from the f
 -   Address at **Request to buy**
 -   Address at **Add to cart**
 
-For more information on how to configure valid countries, see [Manage delivery to valid address](../task/manage-shipping-address.md).
+For more information on how to configure valid countries, see [Manage delivery to valid address](manage-shipping-address.md).
 
--   **[Valid country location](../reference/valid-country-location.md)**  
+-   **[Valid country location](valid-country-location.md)**  
 As a shopper, you can select a valid delivery location based on the preconfigured countries.
 
-**Parent Topic:**[Select a delivery location](../task/select-delivery-location.md)
+**Parent Topic:**[Select a delivery location](select-delivery-location.md)
 
 **Related topics**  
 
 
-[Valid country location](../reference/valid-country-location.md)
+[Valid country location](valid-country-location.md)
 

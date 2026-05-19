@@ -34,12 +34,12 @@ Role required: admin
 5.  To show a layer, select the toggle on visibility icon \(![Toggle on visibility icon.](../images/wsd-autocad-toggle-on-visibility-icon.png)\) option.
 
 
-**Parent Topic:**[Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md)
+**Parent Topic:**[Configure CAD objects using the CAD Editor tab](cad-editor-v2-ovw.md)
 
 **Related topics**  
 
 
 [Isolate a layer in the CAD editor](isolate-layer.md)
 
-[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)
 

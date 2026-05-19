@@ -61,14 +61,14 @@ Role required: sn\_fcms\_intg.admin
         **Note:** SAP Ariba integration can have multiple ERP sources. The Staging table displays the ERP source column, which helps identify the ERP system associated with the data.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP Ariba](../concept/configuring-source-to-pay-sap-ariba-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP Ariba](configuring-source-to-pay-sap-ariba-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for SAP Ariba](../concept/erp-source-configuration-sap-ariba.md)
+[ERP source configuration for SAP Ariba](erp-source-configuration-sap-ariba.md)
 
-[Configure integration services for SAP Ariba](../concept/configure-service-maps-sap-ariba.md)
+[Configure integration services for SAP Ariba](configure-service-maps-sap-ariba.md)
 
-[Look up primary data in SAP Ariba](../concept/look-up-primary-data-sap-ariba.md)
+[Look up primary data in SAP Ariba](look-up-primary-data-sap-ariba.md)
 

@@ -47,7 +47,7 @@ Service Mapping evaluates only active connection rules and only for connection s
 5.  Every time Service Mapping rediscovers application services of the manual or discovered type, it validates automatically added traffic-based connections against the active connection rules. That way the system ensures that application services contain only relevant connections based on the current and active connection rules.
 6.  If a rule is no longer valid, Service Mapping changes the decision attribute for its corresponding connection suggestion to Undecided. Service Mapping also removes the association between the connection rule and the connection suggestion. Unless Service Mapping can apply a different connection rule to CI connections that became irrelevant, Service Mapping removes them from the application services.
 
-If necessary, you can modify the number of the local or global connection rules that the system uses in the algorithm, as described in [Properties installed with Service Mapping](../reference/components-installed-with-service-mapping.md#section_g5w_lcn_c2b).
+If necessary, you can modify the number of the local or global connection rules that the system uses in the algorithm, as described in [Properties installed with Service Mapping](components-installed-with-service-mapping.md#section_g5w_lcn_c2b).
 
 ## Enabling discovery based on Predictive Intelligence
 
@@ -56,11 +56,11 @@ Discovery based on Predictive Intelligence works at the product level. The **sa\
 **Related topics**  
 
 
-[Add CIs to multiple application services using connection rules](../task/add-cis-connection-rules-multiple.md)
+[Add CIs to multiple application services using connection rules](add-cis-connection-rules-multiple.md)
 
-[Add CIs for single application services using connection rules](../task/add-cis-connection-rules-single.md)
+[Add CIs for single application services using connection rules](add-cis-connection-rules-single.md)
 
-[Add or remove CIs for multiple application services using connection suggestions](../task/manipulate-connections-suggestions-in-bulk.md)
+[Add or remove CIs for multiple application services using connection suggestions](manipulate-connections-suggestions-in-bulk.md)
 
-[Add or remove CIs for single application services using connection suggestions](../task/add-remove-ci-connections-services.md)
+[Add or remove CIs for single application services using connection suggestions](add-remove-ci-connections-services.md)
 

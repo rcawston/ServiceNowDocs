@@ -35,5 +35,5 @@ All the processor scripts extend LFArtifactProcessorSNC which defines the defaul
 
 **Note:** This script function is commented by default when a new processor script is created. For more information, see [Read script helper functions for LFDocumentContentBuilder](lf-document-content-builder.md).
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](framework-configuration.md)
 

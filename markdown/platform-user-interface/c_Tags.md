@@ -34,7 +34,7 @@ Conflicts can occur if multiple tags have the same name.
 
 -   **[Administering tags](administering-tags.md#)**  
 If you have an administrator role, you can configure and manage all tags, even tags created by other users. You can also configure notifications, auto-assignment, and Zing indexing for tags.
--   **[Configure Zing tag indexing for text search](../task/t_ConfZingTagIndexTextSearch.md)**  
+-   **[Configure Zing tag indexing for text search](t_ConfZingTagIndexTextSearch.md)**  
 Zing text indexing is available for tags on records.
 -   **[Assigning tags](c_TagAssignment.md#)**  
 You can assign tags to records from the form or list view. You can also add tags to a homepage. Tags enable you to group and organize the items.
@@ -43,5 +43,5 @@ You can edit tags that you created from the list and form views, the **My Tags**
 -   **[Using tags](using-tags.md#)**  
 Use tags to filter records and view tagged documents. Remove a tag when it is no longer useful.
 
-**Parent Topic:**[Common UI elements](../topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

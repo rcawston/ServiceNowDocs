@@ -32,5 +32,5 @@ Role required: agent\_client\_collector\_admin
 
 To disable automatic MID Server selection again, set each of the properties back to **false**.
 
-**Parent Topic:**[Automatic MID Server selection](../concept/acc-auto-mid-selection.md)
+**Parent Topic:**[Automatic MID Server selection](acc-auto-mid-selection.md)
 

@@ -136,5 +136,5 @@ Reference number related to your complaint.
 </table>**Related topics**  
 
 
-[Create an Alternative Dispute Resolution case](../task/create-adr-case-record.md)
+[Create an Alternative Dispute Resolution case](create-adr-case-record.md)
 

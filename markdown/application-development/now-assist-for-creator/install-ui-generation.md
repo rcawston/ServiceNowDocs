@@ -50,10 +50,10 @@ Grant the ui\_builder\_admin role to users who need UI generation access. For mo
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md).
 
-**Parent Topic:**[Configuring UI generation](../concept/configuring-ui-generation.md)
+**Parent Topic:**[Configuring UI generation](configuring-ui-generation.md)
 
 **Related topics**  
 
 
-[Install Now Assist for Creator](../../flow-designer/task/install-now-assist-for-creator.md)
+[Install Now Assist for Creator](install-now-assist-for-creator.md)
 

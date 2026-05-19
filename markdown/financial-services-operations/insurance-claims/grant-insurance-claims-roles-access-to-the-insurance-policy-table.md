@@ -44,5 +44,5 @@ The Insurance claims contributor \(sn\_ins\_gen\_claim.fnol\_representative\) an
 
 Create an instance of the insurance policy by creating a policy record. For more information, see [Create an insurance policy](create-an-insurance-policy-for-a-consumer.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

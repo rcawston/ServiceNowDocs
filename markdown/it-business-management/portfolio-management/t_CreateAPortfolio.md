@@ -71,7 +71,7 @@ Portfolio Planning
 
 </td><td>
 
-Link to open Portfolio Planning Workbench for scenario planning. This related link is available when Scenario Planning for PPM is installed in your instance. For more information, see [Scenario Planning for PPM](../../itbm-portfolio-planning/concept/portfolio-planning-overview.md).
+Link to open Portfolio Planning Workbench for scenario planning. This related link is available when Scenario Planning for PPM is installed in your instance. For more information, see [Scenario Planning for PPM](portfolio-planning-overview.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Cost Plans
 
 </td><td>
 
-List of cost plans of [projects](t_CreateAProjectCostPlan.md) and [demands](../../planning-and-policy/task/t_CreateADemandCostPlan.md) that are part of the portfolio.
+List of cost plans of [projects](../project-management/t_CreateAProjectCostPlan.md) and [demands](../demand-management/t_CreateADemandCostPlan.md) that are part of the portfolio.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Monetary Benefit Plans
 
 </td><td>
 
-List of monetary benefit plans of [projects](t_CreateAProjectCostPlan.md) and [demands](../../planning-and-policy/task/t_CreateADemandCostPlan.md) that are part of the portfolio.To create a monetary benefit plan, open the project or demand record and select **New** in the Monetary Benefit Plans related list.
+List of monetary benefit plans of [projects](../project-management/t_CreateAProjectCostPlan.md) and [demands](../demand-management/t_CreateADemandCostPlan.md) that are part of the portfolio.To create a monetary benefit plan, open the project or demand record and select **New** in the Monetary Benefit Plans related list.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Non-monetary Benefit Plans
 
 </td><td>
 
-List of non-monetary benefit plans of [projects](t_CreateAProjectCostPlan.md) and [demands](../../planning-and-policy/task/t_CreateADemandCostPlan.md) that are part of the portfolio.To create a non-monetary benefit plan, open the project or demand record and select **New** in the Non-monetary Benefit Plans related list.
+List of non-monetary benefit plans of [projects](../project-management/t_CreateAProjectCostPlan.md) and [demands](../demand-management/t_CreateADemandCostPlan.md) that are part of the portfolio.To create a non-monetary benefit plan, open the project or demand record and select **New** in the Non-monetary Benefit Plans related list.
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ Portfolio Target
 
 </td><td>
 
-List of portfolio capital and operational expense target for different fiscal years. The values are displayed from the project\_funding table. Set these values in the [Portfolio Target](../../itbm-portfolio-planning/task/select-fiscal-period-set-target.md) window on the portfolio form. You can create targets for different financial periods.**Note:** The PPS admin can also set the portfolio target by navigating to **Project Administration** &gt; **Enter Portfolio Target**.
+List of portfolio capital and operational expense target for different fiscal years. The values are displayed from the project\_funding table. Set these values in the [Portfolio Target](select-fiscal-period-set-target.md) window on the portfolio form. You can create targets for different financial periods.**Note:** The PPS admin can also set the portfolio target by navigating to **Project Administration** &gt; **Enter Portfolio Target**.
 
 </td></tr><tr><td>
 
@@ -175,14 +175,14 @@ Planning &amp; Budgeting
 According to the fiscal years, lists projects and demands that are part of the portfolio. You can include or exclude a project or demand from the portfolio budget plan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Portfolio Management](../concept/c_PortfolioManagement.md)
+</table>**Parent Topic:**[Portfolio Management](c_PortfolioManagement.md)
 
 **Related topics**  
 
 
 [Open a portfolio status list](t_OpenThePortfolioStatusList.md)
 
-[Scenario Planning for PPM](../../itbm-portfolio-planning/concept/portfolio-planning-overview.md)
+[Scenario Planning for PPM](portfolio-planning-overview.md)
 
-[Portfolio Dashboard](../concept/c_PortfolioManagerDashboard.md)
+[Portfolio Dashboard](c_PortfolioManagerDashboard.md)
 

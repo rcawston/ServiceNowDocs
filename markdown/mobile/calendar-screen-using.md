@@ -81,7 +81,7 @@ Today button. Tap to return the calendar to the current day and to refresh the c
 
 </td><td>
 
-Filter button. Use the filter option to help you search for specific content in the calendar. For more information about filtering, see [Filtering and sorting results in mobile](../task/filter-sort-results-using.md).
+Filter button. Use the filter option to help you search for specific content in the calendar. For more information about filtering, see [Filtering and sorting results in mobile](filter-sort-results-using.md).
 
 </td></tr><tr><td>
 

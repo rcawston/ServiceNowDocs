@@ -46,5 +46,5 @@ The following procedure describes how to create and edit HR skills from the Skil
     If you add users to a skill with child skills, the child skills are assigned to the user. Messages are displayed to notify you of the skills that were assigned.
 
 
-**Parent Topic:**[HR skills management](../concept/c_HRSkillsManagement.md)
+**Parent Topic:**[HR skills management](c_HRSkillsManagement.md)
 

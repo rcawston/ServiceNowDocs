@@ -75,5 +75,5 @@ If there are conflicts, the system displays the **Resolve Conflicts** window.
 
 Delta loading is enabled by default in sys\_properties so your data isn't removed. You can disable this feature if you want data automatically deleted.
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](sns-sc-work-with-changes-in-git.md)
 

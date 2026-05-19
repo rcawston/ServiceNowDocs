@@ -32,5 +32,5 @@ The ServiceNow Store application enables you to download the core products and a
 2.  Activate the application and run it on your instance.
 
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](configure-compliance-case-management.md)
 

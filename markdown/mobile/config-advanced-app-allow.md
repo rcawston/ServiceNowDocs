@@ -54,7 +54,7 @@ If both basic and advanced app allowance modes are configured on the same instan
         ⋮
         ```
 
-    For an example of a completed script, see [Advanced app allowance example script](../reference/adv-app-allow-sample-script.md).
+    For an example of a completed script, see [Advanced app allowance example script](adv-app-allow-sample-script.md).
 
 4.  To save the record, select **Update**.
 

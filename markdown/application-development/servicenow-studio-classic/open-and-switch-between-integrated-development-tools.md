@@ -19,7 +19,7 @@ Access development tools and builders directly in ServiceNow Studio so you can b
 
 ServiceNow tools and builders are integrated with ServiceNow Studio so all app development happens in one interface.
 
-Most tools and builders — such as Table Builder, Workflow Studio, and flows in Workflow Studio — open in new tabs within ServiceNow Studio and are grouped by scope. Some builders, such as Mobile App Builder, open in new browser tabs. Each file type opens in either a specified builder or the classic UI16 form view. For more information about which tool each file type opens in, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+Most tools and builders — such as Table Builder, Workflow Studio, and flows in Workflow Studio — open in new tabs within ServiceNow Studio and are grouped by scope. Some builders, such as Mobile App Builder, open in new browser tabs. Each file type opens in either a specified builder or the classic UI16 form view. For more information about which tool each file type opens in, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
 To access tools and builders, select **File Categories** in the Navigator panel and select the file type you want to open. The file opens in a new tab or browser tab depending on the builder.
 

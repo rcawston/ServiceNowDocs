@@ -31,7 +31,7 @@ Role required: Based on the application that you are configuring, you need the f
 
 A record producer enables users to submit banking requests from the Banking Service catalog and Consumer Service portal and stores the requested information as a record in the associated table.
 
-For information on record producers that are available with Financial Services Operations, see [Record producers for Financial Services Operations applications](../reference/record-producers-fso-applications.md).
+For information on record producers that are available with Financial Services Operations, see [Record producers for Financial Services Operations applications](record-producers-fso-applications.md).
 
 ## Procedure
 

@@ -20,7 +20,7 @@ The PDF connector is available as a plugin by default in RPA Desktop Design Stud
 -   RPA Desktop Design Studio still supports automation projects that are designed by using the older PDF methods in **Utilities** from Toolbox.
 -   You can't manipulate e-signed PDFs such as performing merge and split. This action corrupts the PDF files.
 
--   To use a connector in RPA Desktop Design Studio, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
+-   To use a connector in RPA Desktop Design Studio, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
 -   To understand the various methods in the PDF connector, see [PDF connector methods](pdf-connector-methods.md).
 
 -   **[PDF connector methods](pdf-connector-methods.md)**  

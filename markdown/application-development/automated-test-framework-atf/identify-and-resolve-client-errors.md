@@ -33,7 +33,7 @@ When client errors occur, the Automated Test Framework fails the test on the ste
 
     This step result appears only on a step that interacts with the UI.
 
-3.  To identify and resolve these script errors, open the developer tools browser console on the [Client Test Runner page](../reference/atf-client-test-runner-module.md).
+3.  To identify and resolve these script errors, open the developer tools browser console on the [Client Test Runner page](atf-client-test-runner-module.md).
 
     **Note:** For information about how to open the browser console, see the following article: [http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers](http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers)
 
@@ -53,7 +53,7 @@ When client errors occur, the Automated Test Framework fails the test on the ste
 
 Determine the source of the client error by reviewing the script version history. If you customized a base system script, it's possible that the script has new versions that were skipped during upgrade.
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](../concept/atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
 
 ## Example client errors
 
@@ -102,5 +102,5 @@ While identifying problematic scripts, be sure the script has permission to acce
 **Related topics**  
 
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 

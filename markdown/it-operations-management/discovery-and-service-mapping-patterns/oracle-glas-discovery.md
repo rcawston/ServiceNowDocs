@@ -26,13 +26,13 @@ The Oracle GLAS Data Collection pattern is an extension of the following pattern
 
 The Oracle Database and Middleware patterns execute the pattern extensions, and the data collected is stored in the ServiceNow tables for GLAS data. The Oracle GLAS Data Collection Database pattern can be used on the ServiceNow AI Platform beginning with the Paris release. The Oracle GLAS Data Collection Middleware pattern can be used on the ServiceNow AI Platform beginning with the Rome release. The Oracle Java pattern can be used on the ServiceNow AI Platform beginning with the Washington DC release.
 
-For details on how to view and download the collected Oracle GLAS data, see [Download Oracle Global License Advisory Services \(GLAS\) data](../task/download-oracle-glas-data.md).
+For details on how to view and download the collected Oracle GLAS data, see [Download Oracle Global License Advisory Services \(GLAS\) data](download-oracle-glas-data.md).
 
 ## Request apps on the Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about the supported versions of Oracle, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about the supported versions of Oracle, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -450,9 +450,9 @@ In the pattern flow, the Java processes are discovered by Application Dependency
 
 For information about privileged user access, see [KB1705845](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705845).
 
-For more information about Agent Client Collector with patterns, see [Application patterns for the Agent Client Collector](../../agent-client-collector/concept/application-patterns-acc.md).
+For more information about Agent Client Collector with patterns, see [Application patterns for the Agent Client Collector](../agent-client-collector/application-patterns-acc.md).
 
-For more information about Agent Client Collector with file-based discovery, see [Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](../../agent-client-collector/task/acc-file-based-discovery.md).
+For more information about Agent Client Collector with file-based discovery, see [Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](../agent-client-collector/acc-file-based-discovery.md).
 
 -   **Data collected**
 
@@ -497,7 +497,7 @@ For more information about Agent Client Collector with file-based discovery, see
     |File information|Provides a reference to the \[cmdb\_file\_information\] table. Relevant only for file-based discovery \(FBD\); in pattern-based discovery, this field remains empty.|
 
 
-Download the Oracle GLAS report in the Discovery Admin Workspace. For more information, see [Download Oracle Global License Advisory Services \(GLAS\) data](../task/download-oracle-glas-data.md).
+Download the Oracle GLAS report in the Discovery Admin Workspace. For more information, see [Download Oracle Global License Advisory Services \(GLAS\) data](download-oracle-glas-data.md).
 
 ## Oracle GLAS Data Collection
 
@@ -505,7 +505,7 @@ After Discovery finishes discovering the components of your database or middlewa
 
 After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** to view and access the Oracle GLAS Data Collection.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 
 **Related topics**  
 

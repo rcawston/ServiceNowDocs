@@ -34,7 +34,7 @@ A demand insights dashboard displays tasks as topics for which your knowledge ba
 
 2.  To view similar tasks grouped together, click a bar in the Pareto chart.
 
-    Each bar represents a collection of similar tasks grouped together because they are likely to be on the same topic. The bars covering the largest number of tasks start from the left in a descending order. The blue line indicates how many bars you must analyze to cover 80% of all tasks that don't have good knowledge coverage. For more information, see [Pareto chart for Knowledge Demand Insights](../concept/pareto-report-demand-insights.md).
+    Each bar represents a collection of similar tasks grouped together because they are likely to be on the same topic. The bars covering the largest number of tasks start from the left in a descending order. The blue line indicates how many bars you must analyze to cover 80% of all tasks that don't have good knowledge coverage. For more information, see [Pareto chart for Knowledge Demand Insights](pareto-report-demand-insights.md).
 
 3.  To generate a representative sample to see a smaller list, in the Knowledge Curation Tasks list, click **Generate Representative Sample**.
 
@@ -86,12 +86,12 @@ If tasks within a collection are reported as knowledge gaps, a common feedback t
 
 If you select an ignored collection from the demand insights dashboard, you can no longer report tasks within the collection as knowledge gaps.
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 
 
-[Demand Insights for Cases dashboard](../concept/demand-insights-cases-dashboard.md)
+[Demand Insights for Cases dashboard](demand-insights-cases-dashboard.md)
 
-[Demand Insights for Incidents dashboard](../concept/demand-insights-incidents-dashboard.md)
+[Demand Insights for Incidents dashboard](demand-insights-incidents-dashboard.md)
 

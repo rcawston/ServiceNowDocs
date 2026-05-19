@@ -40,5 +40,5 @@ When running a test in Assistant Designer, some tests may fail even when a topic
 6.  Run or debug your test case.
 
 
-**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](../concept/automated-testing-va-topics.md)
+**Parent Topic:**[Automated testing for Virtual Agent topics that use NLU topic discovery](automated-testing-va-topics.md)
 

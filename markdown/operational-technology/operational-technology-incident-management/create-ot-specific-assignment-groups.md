@@ -49,5 +49,5 @@ You can create OT-specific assignment groups that you want visible on an OT inci
 
 Now, the OT-specific assignment group is visible on the incident record.
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

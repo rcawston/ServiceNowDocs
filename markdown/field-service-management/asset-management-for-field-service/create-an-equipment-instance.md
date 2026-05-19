@@ -123,9 +123,9 @@ Equipment instance is created. If active and available, you can assign the insta
 
 [Create an equipment category](create-an-equipment-category.md)
 
-[Scheduling and assigning equipment to tasks and crews](../concept/assign-equipment-to-wot.md)
+[Scheduling and assigning equipment to tasks and crews](../field-service-scheduling/assign-equipment-to-wot.md)
 
-[Assign equipment to a planned crew](add-equipment-to-a-planned-crew.md#)
+[Assign equipment to a planned crew](../field-service-scheduling/add-equipment-to-a-planned-crew.md#)
 
-[Equipment on ServiceNow Agent](../concept/update-equipment-statuses-with-the-now-mobile-agent-application.md#)
+[Equipment on ServiceNow Agent](../work-order-management/update-equipment-statuses-with-the-now-mobile-agent-application.md#)
 

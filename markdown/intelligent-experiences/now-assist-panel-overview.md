@@ -22,10 +22,10 @@ You must fulfill the following conditions to use the Now Assist panel:
 
 There are two versions of the Now Assist panel: standard chat and enhanced chat. Select one of the versions to learn more:
 
--   [Standard chat](now-assist-panel-standard.md) - provides conversational support assistance within a standard, static chat window. To activate the Now Assist panel standard chat, see [Activate the Now Assist panel standard chat](../../now-assist-admin/task/activate-now-assist-panel.md).
--   [Enhanced chat](now-assist-panel-enhanced.md) - provides conversational support assistance within a dynamic window that gives a more intuitive and personalized experience. You must activate the Now Assist panel enhanced chat and configure your Now Assist instance to use the enhanced chat. See [Activate Now Assist panel enhanced chat](../task/now-assist-panel-enhanced-activate.md) for more information.
+-   [Standard chat](now-assist-panel-standard.md) - provides conversational support assistance within a standard, static chat window. To activate the Now Assist panel standard chat, see [Activate the Now Assist panel standard chat](activate-now-assist-panel.md).
+-   [Enhanced chat](now-assist-panel-enhanced.md) - provides conversational support assistance within a dynamic window that gives a more intuitive and personalized experience. You must activate the Now Assist panel enhanced chat and configure your Now Assist instance to use the enhanced chat. See [Activate Now Assist panel enhanced chat](now-assist-panel-enhanced-activate.md) for more information.
 
-If you want to use assistants, you must activate them. See [Activate Now Assist panel assistants](../task/now-assist-panel-activate-assistant.md) for information on activating assistants.
+If you want to use assistants, you must activate them. See [Activate Now Assist panel assistants](now-assist-panel-activate-assistant.md) for information on activating assistants.
 
 **Note:** Voice input is automatically activated when you activate the Now Assist panel. As of the Zurich Patch 4 release, voice input is configured in the [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md).
 

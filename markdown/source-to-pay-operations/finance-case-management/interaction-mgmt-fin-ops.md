@@ -17,15 +17,15 @@ Any finance request made through chat is logged in an auto-generated interaction
 
 The **Details** tab of an interaction record contains details of the interaction.
 
-For more details on the fields, see [Interaction form](../reference/details-tab-fin-ops-interaction.md).
+For more details on the fields, see [Interaction form](details-tab-fin-ops-interaction.md).
 
 -   **[Finance Operations Workspace inbox](fin-ops-ws-inbox.md)**  
 Use the inbox to manage your incoming work items, such as chats and cases.
--   **[Create a new interaction](../task/view-create-new-interaction-fin-ops-ws.md)**  
+-   **[Create a new interaction](view-create-new-interaction-fin-ops-ws.md)**  
 An interaction record is automatically created when you accept a chat through the chat queue in the Finance Operations Workspace. You can also manually create an interaction from the list page of the Finance Operations Workspace.
--   **[Create a finance case from an interaction](../task/create-fin-case-from-interaction-record.md)**  
+-   **[Create a finance case from an interaction](create-fin-case-from-interaction-record.md)**  
 An interaction record is automatically created when you accept a chat through the chat queue in the Finance Operations Workspace. You can create a finance case from an interaction record for further investigation.
--   **[Associate an interaction with a finance case](../task/associate-interaction-with-finance-case.md)**  
+-   **[Associate an interaction with a finance case](associate-interaction-with-finance-case.md)**  
 Associate an interaction record to a finance case, if the interaction is related to an existing finance case.
 
 **Parent Topic:**[Explore the Finance Operations Workspace](fin-ops-workpace.md)

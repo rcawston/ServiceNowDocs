@@ -34,13 +34,13 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 1.  Open **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](edit-db-in-ac.md).
 
     **Note:** These instructions are for using the inline dashboard editor. If you’re editing a technical dashboard in the UI Builder, see the [Component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/shared-components/sn-pa-domain-filter/overview) on the Developer Site.
 
 3.  Create or open the dashboard that you want to add a domain filter to.
 
-    For more information, see [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+    For more information, see [Edit Platform Analytics dashboards](edit-db-in-ac.md).
 
 4.  Select **Edit**.
 
@@ -66,7 +66,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
         |Options|Description|
         |-------|-----------|
-        |Use the Performance Analytics domain configuration|Enables users to filter results based on a domain configuration. To learn more about domain configurations, see [Grouping domains in Performance Analytics domain configurations](../../performance-analytics/concept/pa-domain-separation-msp.md).|
+        |Use the Performance Analytics domain configuration|Enables users to filter results based on a domain configuration. To learn more about domain configurations, see [Grouping domains in Performance Analytics domain configurations](performance-analytics/pa-domain-separation-msp.md).|
         |Use the standard domain list|Enables users to filter results based on the list of domains. The list shows only active domains. Aggregations aren’t included.|
 
         For a more detailed description of how these properties affect the results of the filter, see [Differences between domain list and domain configuration filters](create-domain-filter.md#).
@@ -78,7 +78,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 9.  Select **Save**.
 
 
-**Parent Topic:**[Filters in Platform Analytics](../concept/interactive-filters-workspace.md)
+**Parent Topic:**[Filters in Platform Analytics](interactive-filters-workspace.md)
 
 **Related topics**  
 
@@ -101,7 +101,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 [Edit a Platform Analytics filter on a dashboard](edit-filters-configurable-workspaces.md)
 
-[Platform Analytics filter tables](../reference/par-filter-tables.md)
+[Platform Analytics filter tables](par-filter-tables.md)
 
 ## Differences between domain list and domain configuration filters
 
@@ -116,9 +116,9 @@ The results of domain filtering differ based on the presence of child domains an
 -   **Global domain included**
     -   **Visualizations based on indicator data**
 
-        Show only the scores for the selected domain. Child domain and global domain scores are not included. The values can come from both [data collection jobs](../../performance-analytics/concept/performance-analytics-glossary.md#) and manual input.
+        Show only the scores for the selected domain. Child domain and global domain scores are not included. The values can come from both [data collection jobs](performance-analytics/performance-analytics-glossary.md#) and manual input.
 
-    -   **Visualizations based on table data or [database views](../../performance-analytics/concept/performance-analytics-glossary.md#)**
+    -   **Visualizations based on table data or [database views](performance-analytics/performance-analytics-glossary.md#)**
 
         Combine the values of the global and selected domains, and any child or parent domains.
 
@@ -134,7 +134,7 @@ The results of domain filtering differ based on the presence of child domains an
 
 ### Performance Analytics domain configurations
 
-See [Grouping domains in Performance Analytics domain configurations](../../performance-analytics/concept/pa-domain-separation-msp.md) for a detailed discussion of domain configurations.
+See [Grouping domains in Performance Analytics domain configurations](performance-analytics/pa-domain-separation-msp.md) for a detailed discussion of domain configurations.
 
 Once you group domains in a Performance Analytics domain configuration, there are two considerations when you filter on a domain in that configuration:
 
@@ -171,5 +171,5 @@ Once you group domains in a Performance Analytics domain configuration, there ar
 **Related topics**  
 
 
-[Approaches to Performance Analytics with domain separation](../../performance-analytics/concept/pa-domain-configurations.md)
+[Approaches to Performance Analytics with domain separation](performance-analytics/pa-domain-configurations.md)
 

@@ -17,7 +17,7 @@ Verify the HashCode of a package version in RPA Hub so that you can validate the
 
 You must do this task in the classic environment.
 
-Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md).
+Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md).
 
 Ensure that the **sn\_rpa\_fdn.allow\_manual\_upload\_of\_automation\_package** system property is marked as true. If you have the admin role, you can edit this system property.
 
@@ -31,7 +31,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 A HashCode is a unique, auto-generated alphanumeric value of a published package version that is used to validate the integrity of the package version. The system verifies the HashCode of the first attachment that is uploaded on the package version record. To ensure a successful validation, upload only the correct attachment.
 
-Another way to verify the HashCode of a package version is via triggering the **Verify HashCode of a Package Version** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+Another way to verify the HashCode of a package version is via triggering the **Verify HashCode of a Package Version** Action in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Another way to verify the HashCode of a package version is via triggering the **
 
 If the HashCode validation fails, remove the invalid attachment and upload the correct automation package. For more information, see [Upload an automation package attachment in RPA Hub](upload-package-version-attach.md).
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 

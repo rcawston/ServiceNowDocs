@@ -61,5 +61,5 @@ You can also convert your existing Survey templates related to Health and Safety
 
 You can configure which question in the smart assessment should have action creation enabled. For more information, see [Configure creating actions from smart assessment questionnaire](hs-configure-property-smart-assessment-action-creation.md).
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

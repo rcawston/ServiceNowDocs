@@ -228,5 +228,5 @@ Not applicable
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

@@ -134,5 +134,5 @@ Session ID
 ID of the session in which the column was accessed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Access observer](../concept/access-observer.md)
+</table>**Parent Topic:**[Access observer](access-observer.md)
 

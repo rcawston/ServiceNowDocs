@@ -31,5 +31,5 @@ With reports and data visualizations, however, you cannot predict what your quer
 -   It is slow, so your report or data visualization will take an unacceptably long time to run.
 -   While the database is scanning your table, your instance will slow down or even become unavailable because other queries cannot get the resources they need.
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 

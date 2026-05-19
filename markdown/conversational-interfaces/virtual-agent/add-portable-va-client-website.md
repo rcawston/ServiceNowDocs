@@ -91,5 +91,5 @@ Role required: virtual\_agent\_admin or admin
         ```
 
 
-**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](../concept/use-portable-va-web-client.md)
+**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](use-portable-va-web-client.md)
 

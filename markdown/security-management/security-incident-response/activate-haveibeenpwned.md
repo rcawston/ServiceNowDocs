@@ -23,7 +23,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
     This integration supports an open API and does not require further configuration. Have I been pwned? can now be selected for performing lookups on observables in Threat Intelligence and on observables in security incidents.
 
@@ -31,5 +31,5 @@ Role required: sn\_si\_admin
 **Related topics**  
 
 
-[Perform lookups on observables](../../../threat-intelligence/task/perform-lookups-on-observables.md)
+[Perform lookups on observables](../perform-lookups-on-observables.md)
 

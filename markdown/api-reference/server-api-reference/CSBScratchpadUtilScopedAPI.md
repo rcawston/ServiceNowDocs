@@ -19,11 +19,11 @@ This information is stored as name-value pairs in the Scratchpad \[sn\_sb\_scrat
 
 If the associated task is active, the updated scratchpad information syncs to the consumer instance. If a task is deactivated or deleted, the information in the scratchpad is also deleted after a specified number of days; by default three. This default is defined in the sn\_sb.scratchpad.autodelete.days property.
 
-Both providers and consumers can add, update, and remove information to and from the Scratchpad table. Producers update this information using the [PSBScratchpadUtil - Scoped](../../PSBScratchpadUtil/concept/PSBScratchpadUtilScopedAPI.md#) API.
+Both providers and consumers can add, update, and remove information to and from the Scratchpad table. Producers update this information using the [PSBScratchpadUtil - Scoped](PSBScratchpadUtilScopedAPI.md#) API.
 
 To access this API, the Service Exchange for Consumers application must be installed. This API runs in the `sn_sb_con` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CSBScratchpadUtil - get\(GlideRecord taskGR, String name\)
 

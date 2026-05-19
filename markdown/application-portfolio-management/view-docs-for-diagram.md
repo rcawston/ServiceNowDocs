@@ -32,5 +32,5 @@ Role required: sn\_apm.apm\_user
     System displays all documents associated with the diagram.
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

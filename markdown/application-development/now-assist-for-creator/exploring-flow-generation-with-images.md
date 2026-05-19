@@ -84,5 +84,5 @@ Follow these general guidelines when writing Now Assist directions.
     Enclose exact data values in quotations marks to help the LLM distinguish between operation names and data values. For example, the directions, "`Log the value, 'incident reopened'`" make it clear that the text "incident reopened" is a data value.
 
 
-**Parent Topic:**[Flow generation with images](../reference/flow-generation-with-images-landing.md)
+**Parent Topic:**[Flow generation with images](flow-generation-with-images-landing.md)
 

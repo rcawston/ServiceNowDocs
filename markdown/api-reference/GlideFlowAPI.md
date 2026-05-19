@@ -30,7 +30,7 @@ Using this API, you can:
 
 There is no constructor for the GlideFlow API. Access GlideFlow methods using the `GlideFlow` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideFlow - execution.awaitCompletion\(\)
 

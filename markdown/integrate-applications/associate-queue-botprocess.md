@@ -40,14 +40,14 @@ To assign a bot process to a queue from the Queues menu, see [Assign a bot proce
 7.  Select **Save**.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 
 **Related topics**  
 
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](queue-form.md)
 
 [Unassign a bot process from a queue in RPA Hub](unassign-botprocess-queue.md)
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](queues-implement-rpa.md)
 

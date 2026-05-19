@@ -15,5 +15,5 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 Use the ScriptableUriMatcher API to verify URI matches.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 

@@ -151,7 +151,7 @@ Demand currency
 
 </td><td>
 
-Type of currency associated with the demand task when the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin is activated and Demand Currency view is enabled. For more information, see the [Multicurrency in Demand Management](../../planning-and-policy/concept/multicurrency-demand.md) topic.
+Type of currency associated with the demand task when the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin is activated and Demand Currency view is enabled. For more information, see the [Multicurrency in Demand Management](../demand-management/multicurrency-demand.md) topic.
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Project currency
 
 </td><td>
 
-Type of currency associated with the project or project task when the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin is activated and Project Currency view is enabled. For more information, see the [Multicurrency in Project Management](../../project-portfolio-suite-with-financials/concept/multicurrency-pps.md) topic.
+Type of currency associated with the project or project task when the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin is activated and Project Currency view is enabled. For more information, see the [Multicurrency in Project Management](../project-management/multicurrency-pps.md) topic.
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ Planned cost
 Amount in **Planned hours** multiplied by the hourly rate of the specified user or group resource. This amount is a first-draft estimate of the resource plan cost. The hourly rate is derived from one of the following sources:
 
 -   If the **Rate override** option is selected, the hourly rate specified in the **Resource rate** field is used.
--   If a [rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md) is populated on the project or demand to which the resource plan is associated, the hourly rate is derived from the rate model.
+-   If a [rate model](../rate-model/rate-model.md) is populated on the project or demand to which the resource plan is associated, the hourly rate is derived from the rate model.
 -   If the resource plan is assigned to a specific user and the time sheet policy of the user is set for multiple rate types, the planned cost is determined using the labor rate card with the default rate type. If the default rate type is inactive, the system rate is used to determine the planned cost.
 -   If the resource plan is assigned to a specific user and the time sheet policy of the user is not set for multiple rate types, the planned cost is determined using the labor rate card with no rate type. Otherwise, the system rate is used.
 -   If the hourly rate is in non-functional currency, budget reference rates are used.

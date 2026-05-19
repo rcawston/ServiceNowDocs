@@ -176,8 +176,8 @@ Edit an existing question if you want to improve it by adding UI policies.
 Make changes to an existing catalog item if you have permissions to edit the item.
 -   **[Transfer catalog items using update sets](transfer-catalog-items-using-update-sets.md)**  
 Transfer catalog items published through Catalog Builder from one instance to another easily by using update sets automatically created for the catalog item. For example, you can transfer catalog items created by a business user from a non-production to production instance.
--   **[Localization Framework integration with Catalog Builder](../concept/c-CB-LF-translation.md)**  
+-   **[Localization Framework integration with Catalog Builder](c-CB-LF-translation.md)**  
 The **Translation Status** tab in the Catalog items tab on the Catalog Builder dashboard enables you to view the translation status of catalog items, and translate catalog items on the fly using manual or machine translation methods.
 
-**Parent Topic:**[Catalog Builder](../concept/catalog-builder.md)
+**Parent Topic:**[Catalog Builder](catalog-builder.md)
 

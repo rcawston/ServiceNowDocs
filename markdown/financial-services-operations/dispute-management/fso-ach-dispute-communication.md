@@ -19,7 +19,7 @@ Initiate customer communication after the final decision on ACH dispute resoluti
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the dispute communication AI Agent is available to assist you at this step. See [Dispute communication AI agent](../../fso-now-assist/task/dispute-communication-ai.md) for more information.
+**Note:** When the ACH disputes resolution agentic workflow in Now Assist for FSO is enabled, the dispute communication AI Agent is available to assist you at this step. See [Dispute communication AI agent](../now-assist-for-financial-services-operations-fso/dispute-communication-ai.md) for more information.
 
 ## Procedure
 
@@ -56,5 +56,5 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 12. Close the task.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](process-dispute-ach.md)
 

@@ -41,5 +41,5 @@ Role required: notify\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Numbers and number groups](../concept/c_NumberGroups.md)
+**Parent Topic:**[Numbers and number groups](c_NumberGroups.md)
 

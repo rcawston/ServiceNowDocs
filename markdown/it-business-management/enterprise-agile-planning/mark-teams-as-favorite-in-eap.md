@@ -46,5 +46,5 @@ Role required: sn\_apw\_advanced.eap\_user
     The team is removed from the Favorites section.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

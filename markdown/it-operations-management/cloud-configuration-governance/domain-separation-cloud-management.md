@@ -71,7 +71,7 @@ Manually assign users with the Cloud User Portal \(sn\_cmp.cloud\_service\_user\
 
 ## Next Steps
 
-For more information on creating, implementing, and maintaining domain separation for Cloud Provisioning and Governance services in the instance you are setting up for your customers, see [Domain separation in Cloud Provisioning and Governance - considerations for service providers](../reference/cloud-mgmt-dom-sep-recommend.md).
+For more information on creating, implementing, and maintaining domain separation for Cloud Provisioning and Governance services in the instance you are setting up for your customers, see [Domain separation in Cloud Provisioning and Governance - considerations for service providers](cloud-mgmt-dom-sep-recommend.md).
 
 **Related topics**  
 

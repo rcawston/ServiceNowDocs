@@ -43,7 +43,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 6.  On the Create New Work Plan page, fill in the details.
 
-    For a detailed description of all the work plan fields, see [Work plan fields for Enterprise Asset Management](../reference/wp-fields-eam.md).
+    For a detailed description of all the work plan fields, see [Work plan fields for Enterprise Asset Management](wp-fields-eam.md).
 
 7.  Select **Save**.
 

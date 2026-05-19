@@ -51,5 +51,5 @@ Role required:
     In Action 15, if the matching incident is found, the playbook automatically updates the worknote that a match has been found based on the automation for Repeat Detection. In Action 16, the flow ends.
 
 
-**Parent Topic:**[Playbook for Repeat Detection](../concept/playbook-repeat-detection.md)
+**Parent Topic:**[Playbook for Repeat Detection](playbook-repeat-detection.md)
 

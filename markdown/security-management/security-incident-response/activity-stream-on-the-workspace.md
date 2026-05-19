@@ -19,5 +19,5 @@ The activity stream lists all the automation activity postings whenever any fold
 
 Activity Stream enables the workspace mangers and other user or user group\(s\) to communicate and collaborate effectively, list down the activities that were performed on Microsoft SharePoint folders and files, monitor the status of the incident, post the notes or add additional comments they have on the incident record. The workspace mangers can pick up and work based on the last updated activity.![FE Activity Stream](../image/fe-activity-stream.png)
 
-**Parent Topic:**[Configure File Explorer Component](../../security-incident-response/concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 

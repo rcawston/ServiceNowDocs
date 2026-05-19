@@ -147,12 +147,12 @@ Filter conditions that enable you to apply the work plan to specific subsets of 
 -   **+ New condition set**: Enables you to specify additional sets of conditions that an enterprise asset can meet to have the maintenance plan applied to it.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

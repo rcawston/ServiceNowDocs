@@ -53,5 +53,5 @@ You must have already added the read, write, or create operation before you can 
     ![Manage model tab with entity card showing retrieval date and time.](../image/erp-add-rfc-entity-to-model2.png)
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

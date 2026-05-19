@@ -18,5 +18,5 @@ Status Reports provide preconfigured trend charts with actionable data visualiza
 -   **[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)**  
 Configure major security incident reports to set up and download the reports according to your business needs throughout the life cycle of the major security incident record remediation process.
 
-**Parent Topic:**[Major Security Incident Management](../reference/major-security-incident-management-landing-page.md)
+**Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)
 

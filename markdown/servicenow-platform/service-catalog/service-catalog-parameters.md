@@ -62,7 +62,7 @@ Specifies a processing hint.Format is **sysparm\_processing\_hint**=setfield:req
  **Note:** If specified, this parameter overrides the configuration in the **Request Parent Mapping** sub-module.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+</table>**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 
 **Related topics**  
 

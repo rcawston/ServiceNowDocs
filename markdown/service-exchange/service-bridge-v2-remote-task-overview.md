@@ -25,7 +25,7 @@ Remote tasks enable you to assign and synchronize the task's data on separate in
 
 As a provider, you must first create and publish the remote task definitions that your consumers can use for creating a remote task. You entitle these definitions to your consumers who can adjust the mappings and field data rules or simply activate the definition. Your consumers can apply a trigger on the definition or manually create a remote task for you, the provider, based on an active definition.
 
-For more information, see [Create a remote task definition in Service Exchange for Providers](../task/service-bridge-v2-create-remote-tasks-defs.md).
+For more information, see [Create a remote task definition in Service Exchange for Providers](service-bridge-v2-create-remote-tasks-defs.md).
 
 The remote task feature includes a Remote Task table, which is an extension of the Task table in the ServiceNow AI Platform. With remote tasks, you can enable bidirectional linking of workflows between multiple ServiceNow instances.
 

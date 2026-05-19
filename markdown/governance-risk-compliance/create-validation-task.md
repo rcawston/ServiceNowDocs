@@ -44,5 +44,5 @@ You can create a validation task for a model when it is in the Pre-deployment or
 
 [Perform model validation](perform-model-risk-validation.md)
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

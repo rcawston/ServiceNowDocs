@@ -4201,7 +4201,7 @@ sn\_vault\_console.vault\_console\_admin
 
 </td><td>
 
-Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](../../vault/concept/configuring-servicenow-vault.md)
+Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](configuring-servicenow-vault.md)
 
 </td></tr><tr><td>
 

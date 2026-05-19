@@ -41,7 +41,7 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
 5.  On the Risk form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](ridac-forms.md).
 
     **Note:** The Risk Assessment Summary section only appears when the **Enable Advanced Risk PPM Integration** property is enabled.
 
@@ -57,7 +57,7 @@ A risk is any uncertain event that can potentially impact the success or outcome
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 
 [Configure custom Risk rank and Risk value for a project](risk-value-lookup-project.md)
 

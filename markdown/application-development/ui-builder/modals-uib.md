@@ -29,7 +29,7 @@ A modal is a screen that appears when an event handler is triggered by an event 
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page or page variant.
 
@@ -202,5 +202,5 @@ Modal viewport![Modal viewport modal configure options tab.](../image/modal-moda
 12. Click **Save**.
 
 
-**Parent Topic:**[Create modals in UI Builder](../concept/Modals-overview.md)
+**Parent Topic:**[Create modals in UI Builder](Modals-overview.md)
 

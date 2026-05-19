@@ -33,7 +33,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
     Enter details such as who is at risk, who is responsible for controls, who reviews, and who approves this risk assessment.
 
-    For more information on risk field descriptions, see [Risk assessment form](../reference/hs-risk-assessment-form.md).
+    For more information on risk field descriptions, see [Risk assessment form](hs-risk-assessment-form.md).
 
 6.  If necessary, attach an image about the risk using the add attachments icon \(![Add attachment icon.](../../ohs-incident-management/image/icon-add-attachment.png)\).
 
@@ -51,7 +51,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 10. In the **Action schedules** tab, set up actions to address an identified risk or implement control measures necessary to improve workplace safety.
 
-    The action schedule creates actions in the **Risk actions** tab and auto-assigns them to individuals using the condition builder. For more information, see [Create a Health and Safety action schedule](../../ohs-incident-management/task/create-health-safety-action-schedule.md).
+    The action schedule creates actions in the **Risk actions** tab and auto-assigns them to individuals using the condition builder. For more information, see [Create a Health and Safety action schedule](../health-and-safety-core/create-health-safety-action-schedule.md).
 
 11. In the **Details** tab, mark the risk assessment as complete when all associated risk analyses are finished.
 
@@ -69,5 +69,5 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 After the risk assessment is complete, assign a reviewer and approver for it, if necessary. Only a user with the Risk assessment approver \[sn\_hs\_rm.risk\_assessment\_approver\] role can be assigned as an approver.
 
-**Parent Topic:**[Safety risk assessment](../concept/hs-risk-assessment.md)
+**Parent Topic:**[Safety risk assessment](hs-risk-assessment.md)
 

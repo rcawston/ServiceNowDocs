@@ -289,5 +289,5 @@ Redirects `stdout` to a XML file.
 Redirects errors messages written by Nmap to `stderr` to the specified file.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Credential-less Discovery with Nmap](../concept/nmap-credential-less-discovery.md)
+</table>**Parent Topic:**[Credential-less Discovery with Nmap](nmap-credential-less-discovery.md)
 

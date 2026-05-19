@@ -23,7 +23,7 @@ Use scripted extension points to integrate customizations without altering the c
 |--------------------|-----------|
 |sn\_wfo\_common.ApplicableGroupsDefinitionManager|Implement this extension point to customize the logic to include access for managers to see assignment groups other than the default groups that they manage in the Workforce Optimization for ITSM manager workspace.|
 
-**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](../concept/specify-access-assignment-group-wfo-itsm.md)
+**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](specify-access-assignment-group-wfo-itsm.md)
 
 **Related topics**  
 

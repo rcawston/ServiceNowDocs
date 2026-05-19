@@ -65,7 +65,7 @@ Steps
 </td></tr></tbody>
 </table>2.  On the status report form, fill in the details.
 
-    For more information, see [Status report form](../reference/status-report-form-project-management.md).
+    For more information, see [Status report form](status-report-form-project-management.md).
 
 3.  Select **Submit**.
 
@@ -94,7 +94,7 @@ Project status reports provide the most recent, at-a-glance progress of a projec
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -116,7 +116,7 @@ Project status reports provide the most recent, at-a-glance progress of a projec
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 
@@ -128,5 +128,5 @@ Project status reports provide the most recent, at-a-glance progress of a projec
 
 [View project status reports](project-status-report.md)
 
-[Status report form](../reference/status-report-form-project-management.md)
+[Status report form](status-report-form-project-management.md)
 

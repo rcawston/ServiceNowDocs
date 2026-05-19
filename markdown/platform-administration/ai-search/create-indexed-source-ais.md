@@ -25,7 +25,7 @@ When you create an indexed source, you specify a ServiceNow AI Platform table. A
 
 **Note:** AI Search doesn't index Unicode characters from the High Surrogate Area \(code units in the range U+D800 to U+DBFF\). Characters from this range are replaced with spaces during indexing.
 
-By default, AI Search indexes alphanumeric content and metadata from all text and string fields found on records in the specified source table. You can limit which records are indexed by configuring a retention policy and filter conditions for the indexed source. For more information about retention policies and filter conditions, see [Indexed source retention policies and filter conditions](../concept/retention-policies-conditions-ais.md).
+By default, AI Search indexes alphanumeric content and metadata from all text and string fields found on records in the specified source table. You can limit which records are indexed by configuring a retention policy and filter conditions for the indexed source. For more information about retention policies and filter conditions, see [Indexed source retention policies and filter conditions](retention-policies-conditions-ais.md).
 
 **Note:** Retention policies are required for indexed sources that index records from the Task \[task\] table or tables that extend it. They are optional for other indexed sources.
 
@@ -37,7 +37,7 @@ By default, AI Search indexes alphanumeric content and metadata from all text an
 
 3.  On the Indexed Source form, fill in the fields.
 
-    For a description of the field values, see [Indexed Source form](../reference/indexed-source-form-ais.md).
+    For a description of the field values, see [Indexed Source form](indexed-source-form-ais.md).
 
     **Note:** You can't create more than one indexed source for a single ServiceNow AI Platform table.
 
@@ -51,7 +51,7 @@ By default, AI Search indexes alphanumeric content and metadata from all text an
 
     2.  On the Child Table form, fill in the fields.
 
-        For a description of the field values, see [Child Table form](../reference/child-table-form-ais.md).
+        For a description of the field values, see [Child Table form](child-table-form-ais.md).
 
     3.  Select **Submit**.
 
@@ -60,9 +60,9 @@ By default, AI Search indexes alphanumeric content and metadata from all text an
 
 ## What to do next
 
-To control how your new indexed source processes source records and fields during indexing, configure its indexed source attributes and field settings. For more information, see [Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md) and [Field settings for AI Search](../concept/field-settings-ais.md).
+To control how your new indexed source processes source records and fields during indexing, configure its indexed source attributes and field settings. For more information, see [Indexed source attributes for AI Search](indexed-source-attributes-ais.md) and [Field settings for AI Search](field-settings-ais.md).
 
 To make content from source records searchable, perform a full table index for your new indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Indexed sources in AI Search](../concept/indexed-sources-ais.md)
+**Parent Topic:**[Indexed sources in AI Search](indexed-sources-ais.md)
 

@@ -21,7 +21,7 @@ Role required: sn\_dex\_score.digital\_workplace\_leader
 
 ## About this task
 
-The DEX Survey configuration is stored in the Survey Configuration \[dex\_survey\_configuration\] table. For more information, see [Components installed with Digital Experience Feedback Survey](../reference/dexscr-installed-with-survey-feedback.md).
+The DEX Survey configuration is stored in the Survey Configuration \[dex\_survey\_configuration\] table. For more information, see [Components installed with Digital Experience Feedback Survey](dexscr-installed-with-survey-feedback.md).
 
 ## Procedure
 
@@ -31,10 +31,10 @@ The DEX Survey configuration is stored in the Survey Configuration \[dex\_survey
 
 3.  On the form, update the fields.
 
-    For more information on survey configuration field descriptions, see [DEX Score survey configuration form](../reference/dexscr-score-survey-config-form.md).
+    For more information on survey configuration field descriptions, see [DEX Score survey configuration form](dexscr-score-survey-config-form.md).
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](dexscr-configuring-dex-score.md)
 

@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a guidance in the Core UI](../task/create-guidances.md)
+[Create a guidance in the Core UI](create-guidances.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Edit the decision trees that you created using Core UI to improve or extend the 
 
 </td></tr><tr><td>
 
-[Add Guided Decisions to Recommended Actions](../task/add-guided-decisions-to-recommended-actions.md)
+[Add Guided Decisions to Recommended Actions](add-guided-decisions-to-recommended-actions.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Add decision trees to recommended actions, so that agents can take relevant acti
 
 </td></tr><tr><td>
 
-[Add Guided Decisions to playbooks](../task/add-guided-decision-playbook.md)
+[Add Guided Decisions to playbooks](add-guided-decision-playbook.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Add decision trees to playbooks, so that agents can provide resolution in a trou
 
 </td></tr><tr><td>
 
-[Add Guided Decisions to Service Portal](../task/add-guided-decisions-service-portal.md)
+[Add Guided Decisions to Service Portal](add-guided-decisions-service-portal.md)
 
 </td><td>
 

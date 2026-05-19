@@ -24,5 +24,5 @@ Direct Kafka Usage metrics table provides administrators with visibility into da
 |Roll Up Type|The aggregation level for the metric. Values: HOURLY, DAILY, MONTHLY|
 |Topic|The specific Kafka topic associated with the usage metric.|
 
-**Parent Topic:**[Integration Hub reference](../concept/integration-hub-reference.md)
+**Parent Topic:**[Integration Hub reference](integration-hub-reference.md)
 

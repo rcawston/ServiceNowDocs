@@ -17,9 +17,9 @@ To analyze the performance of a business process that is recorded in a ServiceNo
 
 ## Before you begin
 
-**Note:** Before creating this indicator, check whether your instance supports Data Snapshots. If it does, see whether you can and want to create this indicator in Data Snapshots, which is simpler and allows unlimited breakdowns. For more information, see [Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md).
+**Note:** Before creating this indicator, check whether your instance supports Data Snapshots. If it does, see whether you can and want to create this indicator in Data Snapshots, which is simpler and allows unlimited breakdowns. For more information, see [Data snapshots and multiple breakdowns](multi-level-breakdowns.md).
 
-You must have a suitable indicator source, as explained in [Automated indicators](../concept/automated-indicators.md). You also should design your KPIs as part of a business strategy before you create them, as described in [Design your Performance Analytics solution with KPI Composer](../concept/designing-pa-solution.md) and [Planning your indicators](../concept/planning-indicators.md). Also familiarize yourself with the [Workflow for creating indicators](workflow-automated-indicators.md).
+You must have a suitable indicator source, as explained in [Automated indicators](automated-indicators.md). You also should design your KPIs as part of a business strategy before you create them, as described in [Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md) and [Planning your indicators](planning-indicators.md). Also familiarize yourself with the [Workflow for creating indicators](workflow-automated-indicators.md).
 
 **Note:**
 
@@ -66,7 +66,7 @@ This form provides all the many options for creating an automated indicator. To 
 
     **Count** counts the number of records. **Count distinct** counts the number of unique values rather than the total number of records. For example, if the name of a user appears more than once in a list, the user is only counted once. Other choices perform the specified aggregate operation, such as summing the values in a field across records.
 
-    If you select a Sum, Minimum, or Maximum aggregate, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](../concept/c_ExcludingTimeSeriesFromIndicators.md).
+    If you select a Sum, Minimum, or Maximum aggregate, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](c_ExcludingTimeSeriesFromIndicators.md).
 
     **Tip:** Try to avoid using the Average aggregate, because that aggregate can complicate the use of time series. Instead, create a Sum automated indicator and a Count automated indicator. Then create a formula indicator that divides the Sum indicator by the Count indicator to calculate the average.
 
@@ -92,7 +92,7 @@ Check box to indicate if the individual record sys\_ids are stored when the indi
 
 **Tip:** Generally avoid collecting records with aggregates other than Count and Sum. Users rarely want to see the records that go into a Min or Max, and the number of records in a Count Distinct may differ from the score. Consider collecting records for indicators with these other aggregates only if a user asks for them.
 
- You must enable this option for the main indicator of a Spotlight group. Otherwise, the Spotlight group can’t evaluate a snapshot of collected records. For more information, see [Evaluating a snapshot or platform data](create-spotlight-group.md#).
+ You must enable this option for the main indicator of a Spotlight group. Otherwise, the Spotlight group can’t evaluate a snapshot of collected records. For more information, see [Evaluating a snapshot or platform data](../spotlight/create-spotlight-group.md#).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Script
 
 </td><td>
 
-Select a script or create a script for the aggregation. This option is available only if the **Scripted** check box is selected.For more information, see [Scripting in Performance Analytics](../concept/pa-scripts.md#).
+Select a script or create a script for the aggregation. This option is available only if the **Scripted** check box is selected.For more information, see [Scripting in Performance Analytics](pa-scripts.md#).
 
 </td></tr><tr><td>
 
@@ -164,9 +164,9 @@ The value that is inserted as the score when no value is collected. This value i
     -   If no prompts appear to take further action and the indicator meets your requirements, press **Manage Breakdowns** to add breakdowns to your indicator. For more information, see [Assign and map breakdowns](create-breakdown-mapping.md#)
     -   If you are prompted to take further action or you have designed a more elaborate indicator, complete the advanced indicator settings.
 
-**Parent Topic:**[Automated indicators](../concept/automated-indicators.md)
+**Parent Topic:**[Automated indicators](automated-indicators.md)
 
-**Previous topic:**[Automated indicators](../concept/automated-indicators.md)
+**Previous topic:**[Automated indicators](automated-indicators.md)
 
 **Next topic:**[Assign and map breakdowns](create-breakdown-mapping.md#)
 
@@ -213,9 +213,9 @@ Unit
 
 </td><td>
 
-The unit of measurement for the score, such as number, days, or percentages.To collect scores in the system reference currency on a Price, Currency, or FX Currency field, select **Use reference currency**. For more information, see [Indicator scores in reference currency](../concept/indicator-scores-reference-currency.md).
+The unit of measurement for the score, such as number, days, or percentages.To collect scores in the system reference currency on a Price, Currency, or FX Currency field, select **Use reference currency**. For more information, see [Indicator scores in reference currency](indicator-scores-reference-currency.md).
 
- If you select % or a time period as the unit, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](../concept/c_ExcludingTimeSeriesFromIndicators.md).
+ If you select % or a time period as the unit, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](c_ExcludingTimeSeriesFromIndicators.md).
 
 If you select Time as the unit, the time is given as Days, Hours, and Minutes. If the system property **glide.ui.duration.seconds.enabled** exists and is true, seconds are also displayed. In this case, seconds are also displayed for all-time fields on the instance and are included in exports to Microsoft Excel.
 
@@ -225,7 +225,7 @@ Precision
 
 </td><td>
 
-The number of digits behind the decimal separator. For more information, see [Rounding and precision in indicators](../concept/r_FormulaRounding.md).This field isn’t available when the unit is **Use reference currency**. In this case, the precision is inherited from the reference currency.
+The number of digits behind the decimal separator. For more information, see [Rounding and precision in indicators](r_FormulaRounding.md).This field isn’t available when the unit is **Use reference currency**. In this case, the precision is inherited from the reference currency.
 
 </td></tr><tr><td>
 
@@ -233,7 +233,7 @@ Number format
 
 </td><td>
 
-The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](../concept/r_FormulaRounding.md).
+The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](r_FormulaRounding.md).
 
 </td></tr></tbody>
 </table>2.  In the **Additional Conditions** tab, add conditions to limit the set of records that the indicator evaluates.
@@ -242,7 +242,7 @@ The abbreviations used for large numbers, thousands through quintillions. For mo
 
     For real-time scores to be displayed, a condition must be set in the indicator or indicator source.
 
-    For more information, see [Conditional filters and operators for indicators and breakdowns](../concept/condition-operators-ind-bkdowns.md).
+    For more information, see [Conditional filters and operators for indicators and breakdowns](condition-operators-ind-bkdowns.md).
 
 3.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
@@ -269,7 +269,7 @@ Default time series
 
 A predefined analytical function, like a 7-days running average, to apply to the indicator instead of showing the raw scores of the indicator.
 
- For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).
+ For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).
 
 **Note:** You can’t set the default time series for an indicator that uses a business or fiscal calendar. These calendars do not support time series aggregations.
 
@@ -317,7 +317,7 @@ Show real-time score
 
 </td><td>
 
-When selected, the Analytics Hub and KPI Details can show the score of this indicator in real time, as well as the current state of associated records. Clear this check box when indicator data isn’t available in real time, such as in an integration that uses data from a third-party source. For more information, see [Real-time scores](../concept/real-time-scores.md).
+When selected, the Analytics Hub and KPI Details can show the score of this indicator in real time, as well as the current state of associated records. Clear this check box when indicator data isn’t available in real time, such as in an integration that uses data from a third-party source. For more information, see [Real-time scores](real-time-scores.md).
 
  Note: A condition must be set on the indicator or the associated indicator source for real-time scores to be displayed.
 
@@ -340,7 +340,7 @@ When selected, the Analytics Hub and KPI Details can show the score of this indi
 
 7.  In the **Forecasting** tab, set the forecast method, the number of data collection periods to forecast, the amount of historical data to base the forecast on, and the upper and lower limits of forecast values.
 
-    For more information, see [Performance Analytics scores forecasts](../concept/c_ForecastingData.md#).
+    For more information, see [Performance Analytics scores forecasts](c_ForecastingData.md#).
 
 8.  In the **Statistics exclusion** tab, select any statistics that you do not want to show on KPI Details or the Analytics Hub.
 
@@ -348,7 +348,7 @@ When selected, the Analytics Hub and KPI Details can show the score of this indi
 
 9.  Press **Manage Breakdowns**.
 
-    If you also see a button to **Enable data snapshots**, your instance supports unlimited breakdowns. For more information, see [Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md).
+    If you also see a button to **Enable data snapshots**, your instance supports unlimited breakdowns. For more information, see [Data snapshots and multiple breakdowns](multi-level-breakdowns.md).
 
 
 ## Indicators with business calendars
@@ -363,7 +363,7 @@ Unlike the standard calendar, business calendars have custom periods based on bu
 
 -   The indicator frequency is derived from the business calendar instead of from a static list of choices. The Frequency column of the indicator record is ignored. Instead, the Calendar frequency column is used.
 -   For forecasting, you have to specify the number of periods that are needed to find seasonal patterns. This value cannot be determined automatically from the calendar period, like for standard calendars. You set this value for each calendar frequency, in PA Business Calendar Retention Periods \[pa\_calendars\_retention\] records.
--   You have to set the number of calendar periods to retain scores and [snapshots](../concept/performance-analytics-glossary.md#). The system properties that set the default numbers of calendar periods for retaining data are ignored. Instead, set these numbers for each calendar frequency in PA Business Calendar Retention Periods records.
+-   You have to set the number of calendar periods to retain scores and [snapshots](performance-analytics-glossary.md#). The system properties that set the default numbers of calendar periods for retaining data are ignored. Instead, set these numbers for each calendar frequency in PA Business Calendar Retention Periods records.
 
 ### PA Business Calendar Retention Periods records and overriding them
 
@@ -381,5 +381,5 @@ The process for generating a fiscal calendar automatically creates a fiscal cale
 
 ### Automated indicators in formulas
 
-A formula indicator can include [automated indicators](../concept/performance-analytics-glossary.md#) that use business calendars. The formula indicator must use the same business calendar as at least one of the contributing automated indicators. For more information, see [Create a formula indicator](t_CreateAFormulaIndicator.md).
+A formula indicator can include [automated indicators](performance-analytics-glossary.md#) that use business calendars. The formula indicator must use the same business calendar as at least one of the contributing automated indicators. For more information, see [Create a formula indicator](t_CreateAFormulaIndicator.md).
 

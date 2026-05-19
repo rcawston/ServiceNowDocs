@@ -60,7 +60,7 @@ The example shows the sample configuration of a BIA template in an instance.
 
 ## Configuring a BIA template
 
-For more information on how to configure a BIA template with the sn\_bcm.admin role, see [Configure BIA templates with legacy assessment](../task/configure-bia-template-uib-ws.md).
+For more information on how to configure a BIA template with the sn\_bcm.admin role, see [Configure BIA templates with legacy assessment](configure-bia-template-uib-ws.md).
 
 ## Impact dependency groups
 

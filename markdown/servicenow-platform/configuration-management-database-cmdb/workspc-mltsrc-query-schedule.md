@@ -19,7 +19,7 @@ Set up a schedule to regularly query for CMDB 360 data. Use scheduled queries to
 
 Ensure that you run the CMDB 360 query at least once.
 
-To access CMDB 360 in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](../concept/sg-workspace.md).
+To access CMDB 360 in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](sg-workspace.md).
 
 Role required: sn\_cmdb\_user and either cmdb\_ms\_admin or cmdb\_ms\_editor.
 

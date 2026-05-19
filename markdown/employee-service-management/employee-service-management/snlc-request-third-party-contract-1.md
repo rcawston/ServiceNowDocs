@@ -64,33 +64,33 @@ For wet signatures, after all signatories have signed and returned the contract 
 
 The requester and legal department members can access the signed contract document from the Legal Contracts repository.
 
--   **[Create a legal request for a third-party contract review](../task/snlc-submit-request-tpc.md)**  
+-   **[Create a legal request for a third-party contract review](../legal-service-delivery/snlc-submit-request-tpc.md)**  
 Create a legal request for the legal team to review a third-party contract or the terms and conditions provided by the third party.
--   **[View and track third-party contract review request as a legal user](../task/snlc-tpc-view-request.md)**  
+-   **[View and track third-party contract review request as a legal user](../legal-service-delivery/snlc-tpc-view-request.md)**  
 View the details of a third-party contract review request after it has been submitted and track the activities in the request.
--   **[Modify a third-party review request](../task/snlc-update-contract-tpc.md)**  
+-   **[Modify a third-party review request](../legal-service-delivery/snlc-update-contract-tpc.md)**  
 As a requester, modify a legal request to update the request details or replace the attached contract document with an updated version.
--   **[Work on a third-party contract review request](../task/snlc-work-tpc-review-request.md)**  
+-   **[Work on a third-party contract review request](../legal-service-delivery/snlc-work-tpc-review-request.md)**  
 As a member of the legal contracts support team, review and revise a third-party contract document. You can email the revised document to stakeholders to verify the revisions and then send the ready document for signature from within the legal request.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
 [Non-disclosure agreement requests](snlc-request-nda-1.md)
 
-[Contract amendments](snlc-amend-req-landing.md)
+[Contract amendments](../legal-service-delivery/snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](snlc-linking-parent-child.md)
+[Linking parent-child contracts](../legal-service-delivery/snlc-linking-parent-child.md)
 
-[Internal review overview](../task/snlc-expert-review.md)
+[Internal review overview](../legal-service-delivery/snlc-expert-review.md)
 
-[Cancel a legal request](../task/snlc-cancel-request-tpc.md)
+[Cancel a legal request](../legal-service-delivery/snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](../task/snlc-preview-contract.md)
+[View and download a signed contract document](../legal-service-delivery/snlc-preview-contract.md)
 
-[View contract requests](../task/snlc-view-contract-requests.md)
+[View contract requests](../legal-service-delivery/snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](../legal-service-delivery/snlc-manage-sn-legal-contracts.md)
 

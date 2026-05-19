@@ -129,7 +129,7 @@ Number of imported Microsoft Software Assurance \(SA\), Step-up, From SA, or Add
 
             3.  Update the record as needed to resolve the error.
 
-                For descriptions of the entitlement import error fields, see [Entitlement import error fields](../reference/entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](../reference/import-software-rights-form.md).
+                For descriptions of the entitlement import error fields, see [Entitlement import error fields](entitlement-import-error-fields.md). For details about the actions that you can take on entitlement import errors, see [Entitlement import error actions](import-software-rights-form.md).
 
             4.  Select **Import**.
 
@@ -194,5 +194,5 @@ Number of Microsoft SA, Step-up, From SA, or Add-on rights that you want to gran
             7.  Close the software entitlement record to return to the Review entitlement import errors view.
             8.  Repeat steps i-vii for each Microsoft SA, Step-up, From SA, or Add-on entitlement that you want to assign to a base entitlement.
 
-**Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](../concept/importing-mls-entitlements.md)
+**Parent Topic:**[Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)](importing-mls-entitlements.md)
 

@@ -44,7 +44,7 @@ These flows create an HR case adding an entry in the HR Lifecycle Events Case \[
 
 **Note:** Only one of these flows should be active at any given time for a particular lifecycle event.
 
--   **[Activate an HR flow](../task/activate-hr-flow.md)**  
+-   **[Activate an HR flow](activate-hr-flow.md)**  
 HR flows help automate task and case creation.
 
 **Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)

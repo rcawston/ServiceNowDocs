@@ -111,7 +111,7 @@ List of connected content from the portal to be associated with access from the 
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

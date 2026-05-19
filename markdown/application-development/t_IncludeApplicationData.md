@@ -72,5 +72,5 @@ Includes application data only when the application is installed with demo data.
 6.  Repeat steps 1–5 for each application data table you want to include.
 
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](c_SharingApplications.md)
 

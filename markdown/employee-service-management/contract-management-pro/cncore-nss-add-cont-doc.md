@@ -44,5 +44,5 @@ Role required: sn\_cm\_core.contract\_user
     The selected file is attached and listed in the Contract Documents related list.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

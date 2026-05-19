@@ -37,7 +37,7 @@ Role required: it\_project\_manager
 **Related topics**  
 
 
-[Project task checklists](../concept/c_project-task-checklists.md)
+[Project task checklists](c_project-task-checklists.md)
 
 [Use a project task checklist](t_CreateAProjectTaskChecklist.md)
 

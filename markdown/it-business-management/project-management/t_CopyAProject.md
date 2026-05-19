@@ -34,7 +34,7 @@ Role required: it\_project\_manager
 
 Actual duration and the actual start and end dates are reset to null values. The state is set to **New** and percent complete is set to **0**.
 
-By default only the short description, planned dates and duration fields are copied from source project to the target project. If additional columns must be copied, they should be declared in the [project property](../reference/r_InstalledWithProjectManagement.md#project_application_properties) **List of attributes that will be copied from the originating project task**.
+By default only the short description, planned dates and duration fields are copied from source project to the target project. If additional columns must be copied, they should be declared in the [project property](r_InstalledWithProjectManagement.md#project_application_properties) **List of attributes that will be copied from the originating project task**.
 
 -   **[Change default values of copied project](t_ModifyTheCopyProjectUIPage.md)**  
 Reset or change the default values for copied fields in the new copied partial or complete project.
@@ -60,7 +60,7 @@ Reset or change the default values for copied fields in the new copied partial o
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -80,7 +80,7 @@ Reset or change the default values for copied fields in the new copied partial o
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

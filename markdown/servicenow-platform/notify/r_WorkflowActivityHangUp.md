@@ -17,5 +17,5 @@ The **Hangup** activity disconnects an active Notify phone call.
 
 You can use the **hangup** activity to disconnect only calls that have been answered. Use the **reject** activity to disconnect calls that have not been answered.
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

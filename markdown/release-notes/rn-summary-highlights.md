@@ -40,7 +40,7 @@ AI Control Tower
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Customize the AI asset security score calculation to reflect your security requirements.
 -   Use new security metrics to monitor your LLM and AI agent output for potential security and content policy violations, potential PII, and other potential threats.
@@ -49,7 +49,7 @@ AI Control Tower
 -   Manage the end-to-end life cycles of your agentic AI systems.
 -   Define the intended use and purpose of an AI system so that you can determine its benefits and risks.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](australia-all-other-fixes.md)
 
 -   AI assets—including AI models, AI systems, prompts, datasets, and MCP servers can be categorized as either managed or unmanaged.
 -   AI connections are introduced in AI Control Tower using Service Graph Connectors \(SGC\).
@@ -66,7 +66,7 @@ AI Desktop Actions
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   The name of the application is now changed to AI Desktop Actions from Agentic Desktop.
 -   Use the desktop action to automate dynamic steps that are determined by AI, in addition to automating the recorded steps.
@@ -74,7 +74,7 @@ AI Desktop Actions
 -   Use the **Show Inputs** / **Show All** buttons in the Test modal to filter required input fields.
 -   Use the latest LLM version for improved performance.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Improved error and informational messages for better guidance and troubleshooting.
 -   Added a **Delete** button to the image canvas to remove a screen.
@@ -100,7 +100,7 @@ AI Search
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Provide actionable search and chat responses in global and workspace search with support for Now Assist Multi-Content Response Genius Results.
 -   Improve search precision and contextual relevance with hybrid search.
@@ -195,7 +195,7 @@ Advanced Risk
 -   Use the Risk Suggestion AI Agent to refine and confirm risks, by providing additional context and reviewing, updating, renaming, or removing suggested risks before they’re added.
 -   Use a structured workflow to draft, review, and approve control objective updates before making them active.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -288,7 +288,7 @@ Application Vulnerability Response
 </td><td>
 
 -   Import application vulnerability response data that includes application, Software Composition Analysis \(SCA\) and secrets data with the Wiz Application Vulnerability Response Integration.
--   If you're currently using Application Vulnerability Response and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](../security-operations/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
+-   If you're currently using Application Vulnerability Response and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](release-notes/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
 -   Integrate with supported third-party scanners to import vulnerability data and use automated workflows to prioritize, remediate, and manage findings \(application vulnerable items \(AVITs\)\). Each application vulnerability represents a vulnerability entry in the Common Weakness Enumeration \(CWE\) or third-party libraries.
 -   Monitor your penetration test requests and findings, as well as your team's overall progress in the Penetration Test Workspace.
 -   Reevaluate the risk score, assignments, remediation target date, exceptions, and remediation task for a specific set of application vulnerable items in the Vulnerability Manager Workspace.
@@ -302,7 +302,7 @@ Asset Audit Response
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Automatically generate summaries of completed and in-progress evidence requests for your financial regulatory audits.
 -   Track and manage impacted records that are associated with your remediation tasks.
@@ -316,7 +316,7 @@ Authentication
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   **[Knowledge-based factor enhancement for AI voice service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/knowledge-based-authentication.md)**
 
@@ -578,7 +578,7 @@ Configuration Compliance
 </td><td>
 
 -   The AWS Integration for Security Exposure Management supports integrations with AWS Inspector and AWS Security Hub.
--   If you're currently using Configuration Compliance and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](../security-operations/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
+-   If you're currently using Configuration Compliance and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](release-notes/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
 -   Import Wiz issues and configuration test results from the Wiz scanners into test results in the Configuration Compliance application with the Vulnerability Response Integration with Wiz.
 -   With the sn\_vulc.remediation\_owner role, create remediation tasks manually in the IT Remediation Workspace.
 -   With the sn\_vulc.admin role, create remediation tasks manually in the Vulnerability Manager Workspace.
@@ -606,7 +606,7 @@ Container Vulnerability Response
 </td><td>
 
 -   The AWS Integration for Security Exposure Management supports integrations with AWS Inspector and AWS Security Hub.
--   If you're currently using Container Vulnerability Response and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](../security-operations/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
+-   If you're currently using Container Vulnerability Response and you want to upgrade to Unified Security Exposure Management \(USEM\), see [Unified Security Exposure Management \(USEM\) notes](release-notes/secops-sem-rn.md) for more information about USEM and the Unified Security Exposure Management migration.
 -   Import container image vulnerability data from the Wiz scanners into container vulnerable items \(CVITs\) with the Vulnerability Response Integration with Wiz.
 -   With the sn\_vul\_container.vulnerability\_analyst or sn\_vul\_container.vulnerability\_admin role, create container remediation tasks manually in the Vulnerability Manager Workspace.
 -   With the role sn\_vul\_container.remediation\_owner, create container remediation tasks manually in the IT Remediation Workspace.
@@ -703,12 +703,12 @@ Customer self-service for Sales Customer Relationship Management
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   Resume and submit invoice cases in draft state.
 -   Review invoice case line details relevant to how your case was created.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Enable business-to-business \(B2B\) customers to create invoice dispute cases through AI-powered chat and voice assistants that guide them through conversational dispute intake on the Business Portal.
 -   Provide uninterrupted handoff to human agents to support complex use cases, with full conversation context transferred to the CSM/FSM Configurable Workspace.
@@ -946,12 +946,12 @@ Enterprise Architecture
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   Associate AI systems from AI Control Tower with business applications in the Enterprise Architecture Workspace to track AI adoption, governance status, and business context across your application portfolio. You can also associate one or more business applications when submitting an AI use case request in the Service Portal.
 -   You can use the Now Assist panel to search your published TRM catalog records using natural language queries.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   When you compare two versions of an Enterprise Modeling and Visualization diagram, the diagram canvas highlights the differences visually. This makes it easier to identify what has changed at a glance, without relying solely on the Now Assist change summary panel.
 -   Support for models OpenAI GPT-5 mini, Claude Haiku 4.5, and Google Gemini 3.0 Flash added for any Now Assist for Enterprise Architecture \(EA\) skill.
@@ -978,7 +978,7 @@ Enterprise Asset Management
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Streamline the enterprise asset request process by using the help manage enterprise asset requests agentic workflow.
 -   Automatically generate troubleshooting, diagnostics, and repair instructions for your enterprise asset repairs by using the help repair enterprise assets agentic workflow.
@@ -1031,7 +1031,7 @@ External Content Connectors
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Expand your search experience with external content connectors for Adobe Acrobat Sign, Aha! Roadmaps, Cornerstone, Fluid Topics, ManageEngine, and Workvivo source systems.
 -   Retrieve content and links from URLs found in sitemaps defined for your web source system when running content crawls for the Webcrawler external content connector.
@@ -1156,7 +1156,7 @@ Hardware Asset Management
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
+[Australia Patch 1](australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
 
 Australia Patch 0
 
@@ -1436,12 +1436,12 @@ Intelligence for CSM
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   Automatically evaluate post-interaction customer conversations using AI models that score against a configurable quality rubric, eliminating manual effort.
 -   Receive intelligent email reply recommendations on extended table record pages in Now Assist for CSM, helping agents respond faster with less manual effort.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Availability of filter controls in Now Assist Guardian for Now Assist for CSM.
 -   Availability of AI Workflow tab in Core UI.
@@ -1670,7 +1670,7 @@ Now Assist AI Agents
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Test an agentic solution in the playground in AI-native mode.
 -   Add widgets for tool outputs to provide an improved experience in AI-native mode.
@@ -1679,7 +1679,7 @@ Now Assist AI Agents
 
 See [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md) for more information.
 
-For the Platform Now Assist release notes, see [Now Assist release notes](../analytics-intelligence-reporting/now-assist-rn.md).
+For the Platform Now Assist release notes, see [Now Assist release notes](release-notes/now-assist-rn.md).
 
 </td></tr><tr><td>
 
@@ -1722,7 +1722,7 @@ Now Assist for Configuration Management Database \(CMDB\)
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md) The ServiceNow AI Platform now brings you an AI native experience with three licensing tiers available.
+[Australia Patch 1](australia-patch-1.md) The ServiceNow AI Platform now brings you an AI native experience with three licensing tiers available.
 
 -   Compare your current manual \(static\) IRE processes with AI-powered Dynamic IRE.
 
@@ -1739,13 +1739,13 @@ Now Assist for Creator
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   Upload brand guidelines as a PDF using the theme creation workflow to generate themes that align with your brand.
 -   The app generation and test generation plugins are being planned for deprecation in a future release.
--   Learn about Build Agent updates in the new [Build Agent release notes](../now-platform-app-engine/build-agent-rn.md).
+-   Learn about Build Agent updates in the new [Build Agent release notes](release-notes/build-agent-rn.md).
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Generate readable documentation throughout the app development lifecycle using the new release lifecycle documentation AI agent.
 -   Generate themes and color palettes from brand images using the new theme generation workflow in Theme Builder.
@@ -1803,12 +1803,12 @@ Now Assist for IT Service Management \(ITSM\)
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 -   Track which knowledge articles and catalog items support successful virtual agent deflections instead of transferring to human agents using the ITSM Virtual Agent Analytics dashboard.
 -   Use the ITSM MCP server to query and retrieve any information within the context of an incident.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Answer incident-related questions with context-aware agents using the incident assist agentic workflow.
 -   Submit a catalog item for an account unlock using the voice AI agent.
@@ -1847,7 +1847,7 @@ Now Assist for Sales CRM for Telecommunications
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Automatically create the fallout records based on reported issues in the order task work notes.
 
@@ -1928,7 +1928,7 @@ Now Assist in Contract Management
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Provide feedback on Now Assist contract analysis results to help improve the AI accuracy.
 -   Navigate directly to non-standard clause locations in a document when reviewing Now Assist suggestions in the Microsoft Word add-in.
@@ -1943,11 +1943,11 @@ Now Assist in Document Intelligence
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Now Assist in Document Intelligence skills are now turned on by default.
 
-[Early Availability](../quality/australia-all-other-fixes.md)
+[Early Availability](australia-all-other-fixes.md)
 
 -   View citations for multiple attachments using the document and visual insights AI agent.
 -   Create skills with data extraction, question answering, and summarization capabilities using document and visual intelligence in Now Assist Skill Kit.
@@ -2230,7 +2230,7 @@ Project Workspace
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Integrate Hardware Asset Management \(HAM\) requests and refresh with Project Workspace, enabling hardware requests and refreshes to be planned and managed as part of strategic initiatives.
 -   Enable tracking of the hardware requests that are part of a Strategic Portfolio Management \(SPM\) project.
@@ -2261,7 +2261,7 @@ Purchase Order Management
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -2294,7 +2294,7 @@ Quote Management
 -   Improve quote data consistency by validating contract start and end dates across quote headers, parent lines, and child lines, preventing date conflicts during updates.
 -   Enable greater flexibility in managing amendment quotes by splitting active ramp segments into shorter intervals, adjusting quantities, and maintaining accurate line types throughout the quote life cycle.
 -   Enhance quote approval workflows with automated reminders, escalations, override capabilities, and ad-hoc approvals for greater control and accountability throughout the approval process.
--   [Australia Patch 1](../quality/australia-patch-1.md)Summarize a quote with Now Assist for immediate, comprehensive insights into quote details \(product, pricing, and terms\) to improve quote accuracy, help teams align, reduce manual review, catch issues early, and accelerate quote turnaround.
+-   [Australia Patch 1](australia-patch-1.md)Summarize a quote with Now Assist for immediate, comprehensive insights into quote details \(product, pricing, and terms\) to improve quote accuracy, help teams align, reduce manual review, catch issues early, and accelerate quote turnaround.
 
 See [Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management.md) for more information.
 
@@ -2335,11 +2335,11 @@ Regulatory Change Management
 
 </td><td>
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](australia-all-other-fixes.md)
 
 Review the updated skill family name for Regulatory change management Now Assist skills.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -2521,7 +2521,7 @@ ServiceNow AI Lens
 
 </td><td>
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
 Get started with ServiceNow AI Lens by using it directly from the browser. No downloading or installation required.
 
@@ -2576,12 +2576,12 @@ ServiceNow Vault
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Enhance your security posture by securing the data in your custom applications with Ask Now Assist.
 -   Surface sensitive data access by users automatically by leveraging Now Assist to configure, audit, and summarize your Access Observer logs.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](australia-all-other-fixes.md)
 
 -   Identify potential threats and data leaks using the new AI Insights section within the ServiceNow Vault console dashboard.
 -   Use guided setup to begin autoclassifying sensitive data within your custom applications.
@@ -2616,7 +2616,7 @@ Software Asset Management
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   Streamline your Software Asset Management application implementation by automating entitlement extraction from contracts using AI, ensuring faster deployment.
 -   Enhance your SaaS integration troubleshooting experience with user-friendly error explanations and resolution guidance for runtime job failures.
@@ -2648,7 +2648,7 @@ Sourcing and Procurement Operations
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -2702,7 +2702,7 @@ Supplier Lifecycle Operations
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -2794,11 +2794,11 @@ Third-party Risk Management
 -   Review the simplified third‑party elements process in the due diligence workflow.
 -   Access the unified content management module in the Vendor Management Workspace to view a centralized library of smart assessment templates.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](australia-all-other-fixes.md)
 
 Use generative AI to recommend TPRM issues for reviewer validation.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -2928,5 +2928,5 @@ Zero Copy Connectors
 See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/zero-copy-connectors.md) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

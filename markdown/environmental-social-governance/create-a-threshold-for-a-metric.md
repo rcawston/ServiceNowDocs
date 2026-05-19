@@ -25,7 +25,7 @@ Configure thresholds to define multiple performance levels, set specific ranges 
 
 **Important:**
 
-Threshold evaluation does not apply to ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](../reference/ad-hoc-metric-data-task-limitations.md).
+Threshold evaluation does not apply to ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](ad-hoc-metric-data-task-limitations.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Threshold evaluation does not apply to ad hoc metric data tasks. For more inform
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Metric Threshold form fields](../../esg-management-reporting/reference/metric-threshold-form-fields.md).
+    For a description of the field values, see [Metric Threshold form fields](metric-threshold-form-fields.md).
 
 6.  Select **Submit**.
 
@@ -48,5 +48,5 @@ Threshold evaluation does not apply to ad hoc metric data tasks. For more inform
     The configured threshold is now active for the metric. When the Enable threshold breach monitoring check box is selected, the system monitors metric values and immediately triggers the specified actions when threshold levels are exceeded. Metric values are displayed with the appropriate color indicators in dashboards and reports.
 
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

@@ -44,11 +44,11 @@ The following are examples on how you can use the Service Graph Connector for di
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for VMware Workspace ONE UEM provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for VMware Workspace ONE UEM](../task/configure-workspace-one-integration.md).
+The guided setup for the Service Graph Connector for VMware Workspace ONE UEM provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for VMware Workspace ONE UEM](configure-workspace-one-integration.md).
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Workspace ONE integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Workspace ONE integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -72,9 +72,9 @@ The data is then inserted into the following target tables:
 
 **Note:** To view any additional information such as the device owner, type of ownership, or compliance status, you need to switch to the SG-Workspace ONE UEM view. This view displays a **SG-Workspace ONE UEM Device Related** tab in the related list tabs with the additional information.
 
-For more information on where data is saved when pulling data from VMware Workspace ONE Unified Endpoint Management \(UEM\), see [CMDB classes targeted in Service Graph Connector for VMware Workspace ONE UEM](../reference/cmdb-workspaceone-classes.md).
+For more information on where data is saved when pulling data from VMware Workspace ONE Unified Endpoint Management \(UEM\), see [CMDB classes targeted in Service Graph Connector for VMware Workspace ONE UEM](cmdb-workspaceone-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 **Related topics**  
 

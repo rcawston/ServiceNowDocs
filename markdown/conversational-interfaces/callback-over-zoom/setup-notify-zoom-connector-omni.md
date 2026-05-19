@@ -94,5 +94,5 @@ Role required: admin
 
 ### What to do next
 
-[Configure a Zoom webhook for Zoom extension for Omnichannel Callback](../Task/configure-zoom-webhook-omni.md)
+[Configure a Zoom webhook for Zoom extension for Omnichannel Callback](configure-zoom-webhook-omni.md)
 

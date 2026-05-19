@@ -20,5 +20,5 @@ ServiceNow® Personal Lines Servicing enables underwriters and processors in you
 -   **[Commercial Lines Servicing](fso-ins-commercial-policy-ops-landing-page.md)**  
 ServiceNow® Commercial Lines Servicing enables underwriters and processors in your financial institution to quickly resolve commercial insurance policy service requests, and can help you transform your middle and back-office insurance policy operations.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

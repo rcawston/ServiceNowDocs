@@ -33,7 +33,7 @@ Role required: admin
 
     ![Script for adding metadat extraction values in related table.](../image/cmpro-ext-pt-me.png "Extension point for fields in related tables")
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, update the script to specify the contract repository related table and the field mapping
 

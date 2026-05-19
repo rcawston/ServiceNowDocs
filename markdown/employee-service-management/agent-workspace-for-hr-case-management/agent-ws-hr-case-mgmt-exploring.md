@@ -105,7 +105,7 @@ Tabs
 
 </td><td>
 
-Tabs display lists, HR case numbers, and the Add icon. If you hover on an HR case number, you can quickly see more details related to a case, for example, the description of the case, HR Service and Subject person.When you have multiple tabs open, you can only see the case number on the tab by default. However, you can also configure the information you want to be displayed on the tab. For more information, see [Customize tab label in Agent Workspace for HR Case Management](../task/customise-tab-lable-agent-ws.md).
+Tabs display lists, HR case numbers, and the Add icon. If you hover on an HR case number, you can quickly see more details related to a case, for example, the description of the case, HR Service and Subject person.When you have multiple tabs open, you can only see the case number on the tab by default. However, you can also configure the information you want to be displayed on the tab. For more information, see [Customize tab label in Agent Workspace for HR Case Management](customise-tab-lable-agent-ws.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Add icon
 
 </td><td>
 
-Select to instantly create one of the following:-   **Create HR case**. For more information, see [Create a case in Agent Workspace for HR Case Management](../task/agent-ws-configurable-hr-create-case.md).
+Select to instantly create one of the following:-   **Create HR case**. For more information, see [Create a case in Agent Workspace for HR Case Management](agent-ws-configurable-hr-create-case.md).
 -   **Create interaction**. An interaction is when an employee contacts an HR agent and you want to ensure the interaction is documented and captured. For more information, see [Using interactions in Agent Workspace for HR Case Management](hr-agent-ws-interactions.md).
 
 </td></tr><tr><td>
@@ -151,5 +151,5 @@ Displays a graphical representation of the data related to the teams you belong 
 
 Information related to the teams your HR agents belong to display in the **My team** section.
 
-The bottom of the landing page provides company information, links, and tools available. This section is part of Content Delivery. For more information, see [Portal content](../../employee-center/concept/ec-streamline-content.md).
+The bottom of the landing page provides company information, links, and tools available. This section is part of Content Delivery. For more information, see [Portal content](../employee-experience-foundation/ec-streamline-content.md).
 

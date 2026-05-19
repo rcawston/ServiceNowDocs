@@ -38,5 +38,5 @@ Role required: admin or sp\_admin
     For example, `https://server.acme.com/acme_community?id=password_reset_page& sysparm_show_custom_header_footer=false&sysparm_redirect_url=acme_community?id=communities_login`
 
 
-**Parent Topic:**[Configuring Password Reset](../concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](password-reset-admin-guide.md)
 

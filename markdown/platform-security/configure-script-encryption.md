@@ -25,7 +25,7 @@ Examples of uses are for Business Rules and Script Includes. This procedure uses
 
 1.  Create a cryptographic module with the symmetric data encryption/decryption algorithm.
 
-    Refer to [Create a cryptographic module](create-cryptographic-module.md) for details. Specific access to the data or attachment is controlled with a module access policy with the following characteristics:
+    Refer to [Create a cryptographic module](platform-encryption/create-cryptographic-module.md) for details. Specific access to the data or attachment is controlled with a module access policy with the following characteristics:
 
     -   Symmetric encryption: The script is able to encrypt data but unable to decrypt the data.
     -   Symmetric decryption: The script is able to decrypt uploaded encrypted data or attachment but unable to encrypt data or attachments.
@@ -122,7 +122,7 @@ gs.info(decrypted == value);
 
 6.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies** &gt; **** **All**.
 
-    **Note:** For additional information, refer to [Create a module access policy](create-module-access-policy.md).
+    **Note:** For additional information, refer to [Create a module access policy](platform-encryption/create-module-access-policy.md).
 
 7.  Select **Create new**.
 
@@ -157,5 +157,5 @@ gs.info(decrypted == value);
 -   **[View declined cryptographic module usage requests](view-declined-crypto-module-usage-requests.md)**  
 View cryptographic modules that rejected encryption requests made by scripts because of unsupported encryption mechanisms.
 
-**Parent Topic:**[Script access for cryptographic modules](../concept/script-map.md)
+**Parent Topic:**[Script access for cryptographic modules](script-map.md)
 

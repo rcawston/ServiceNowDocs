@@ -17,12 +17,12 @@ The events registry lists the events the system recognizes. Use registered event
 
 After you create a new event and a business rule that uses the event, you must register it.
 
-Registration lets other parts of the system, such as [Email and SMS notifications](../../notification/concept/c_EmailNotifications.md) and Script Actions, see the event in their list of available events and react to the event when it occurs.
+Registration lets other parts of the system, such as [Email and SMS notifications](../c_EmailNotifications.md) and Script Actions, see the event in their list of available events and react to the event when it occurs.
 
 **Parent Topic:**[Exploring system events](exploring-system-events.md)
 
 **Related topics**  
 
 
-[Register an event](../task/t_RegisterAnEvent.md)
+[Register an event](t_RegisterAnEvent.md)
 

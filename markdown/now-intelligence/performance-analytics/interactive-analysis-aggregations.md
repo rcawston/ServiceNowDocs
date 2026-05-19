@@ -25,7 +25,7 @@ When you work with Interactive Analysis, you can view data from the perspectives
 
 -   **Average, Sum, Count Distinct**
 
-    Select **Average**, **Sum**, or **Count Distinct**, to show a list of fields from the selected **Table**. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](t_AccessFieldExtendedTable.md#) Select a field to **Aggregate by** from this list. For example, if you select an integer field, such as **Reassignment count**, the data is expressed as a decimal value number. For more information, see [Column reports](../concept/c_CreateColumnCharts.md#).
+    Select **Average**, **Sum**, or **Count Distinct**, to show a list of fields from the selected **Table**. You may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](../reporting/t_AccessFieldExtendedTable.md#) Select a field to **Aggregate by** from this list. For example, if you select an integer field, such as **Reassignment count**, the data is expressed as a decimal value number. For more information, see [Column reports](../reporting/c_CreateColumnCharts.md#).
 
     **Note:** For duration values, the unit of measurement displayed in the aggregation axis cannot be customized.
 
@@ -34,5 +34,5 @@ When you work with Interactive Analysis, you can view data from the perspectives
 
 ![Interactive analysis with Sum aggregation and Priority field](../image/ia-aggregation-sum-rc.png)
 
-**Parent Topic:**[Interactive Analysis](../../dashboards/concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
 

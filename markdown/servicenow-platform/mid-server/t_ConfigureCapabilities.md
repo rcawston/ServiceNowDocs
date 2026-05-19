@@ -26,9 +26,9 @@ Role required: admin or sm\_admin
 </td></tr></tbody>
 </table>## About this task
 
-Several applications use capabilities, IP ranges, and [MID Server selection](../concept/c_MIDServerSelector.md) to narrow the pool of MID Servers the applications need.
+Several applications use capabilities, IP ranges, and [MID Server selection](c_MIDServerSelector.md) to narrow the pool of MID Servers the applications need.
 
-**Note:** At least one capability is required for each MID Server used by Orchestration. See [MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md) for more information.
+**Note:** At least one capability is required for each MID Server used by Orchestration. See [MID Servers for Orchestration](../orchestration/c_OrchestrationMID.md) for more information.
 
 The following capabilities are available by default with Discovery:
 
@@ -144,7 +144,7 @@ WMI
     The capability defined here also appears in the primary record for this MID Server.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 
 ## MID Server capabilities
 

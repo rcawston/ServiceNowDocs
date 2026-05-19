@@ -51,5 +51,5 @@ After you clone your Service Exchange, the inbound and outbound connections move
 
 [Reestablish connection after a clone for a provider](service-bridge-v2-cloning-instances.md)
 
-[List of preservers and exclusions tables for cloning](../reference/service-bridge-v2-cloning.md)
+[List of preservers and exclusions tables for cloning](service-bridge-v2-cloning.md)
 

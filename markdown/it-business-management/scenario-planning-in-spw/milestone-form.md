@@ -65,7 +65,7 @@ User who is assigned to the milestone.
 **Related topics**  
 
 
-[Add milestones for a roadmap](../../spw-roadmap/task/create-milestones-on-roadmap.md)
+[Add milestones for a roadmap](create-milestones-on-roadmap.md)
 
-[Update a roadmap milestone](../../spw-roadmap/task/update-roadmap-milestone.md)
+[Update a roadmap milestone](update-roadmap-milestone.md)
 

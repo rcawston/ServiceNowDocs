@@ -17,7 +17,7 @@ The CatalogClientScript API provides methods that enable you to create, modify, 
 
 To use this class in a scoped application, use the `sn_sc` namespace identifier. The Service Catalog Scoped API plugin \(ID: com.glideapp.servicecatalog.scoped.api\) that is enabled by default is required to access the CatalogClientScript API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CatalogClientScript - CatalogClientScript\(\)
 

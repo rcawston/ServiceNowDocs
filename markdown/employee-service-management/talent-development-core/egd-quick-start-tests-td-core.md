@@ -39,7 +39,7 @@ Growth plans quick start tests require activating the Talent Development Core ap
 |----|-----------|---------------|
 |Create and verify a growth plan.|Create a growth plan from the guided flow for Emily Scollan and verify the growth plan on the details page.|Zurich|
 
-To learn more about Growth plans, see [Growth plans overview](../concept/egd-growth-plans-ovrvw.md).
+To learn more about Growth plans, see [Growth plans overview](egd-growth-plans-ovrvw.md).
 
 ## Aspirations
 
@@ -49,10 +49,10 @@ Aspirations quick start tests require activating the Talent Development Core app
 |----|-----------|---------------|
 |Create and verify an aspiration.|Creates an aspiration and verifies that the aspiration is in the Aspirations table \[sn\_egd\_core\_aspiration\].|Zurich|
 
-To learn more about Aspirations, see [Aspirations overview](../concept/egd-aspirations-overview.md).
+To learn more about Aspirations, see [Aspirations overview](egd-aspirations-overview.md).
 
--   **[Run quick start tests for Talent Development Core](../task/egd-td-core-run-quick-start-test.md)**  
+-   **[Run quick start tests for Talent Development Core](egd-td-core-run-quick-start-test.md)**  
 Run quick start tests to verify the Talent Development Core app and features still work after each upgrade and deployment of new applications or integrations. If you customized Talent Development Core, you must configure the quick start tests to ensure they're compatible with your customizations.
 
-**Parent Topic:**[Installing and configuring the Talent Development Core app](../concept/egd-install-config.md)
+**Parent Topic:**[Installing and configuring the Talent Development Core app](egd-install-config.md)
 

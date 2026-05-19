@@ -37,7 +37,7 @@ Block Content
 
 </td><td>
 
-Define reusable content. [Add or modify block content](../task/ecpro-manage-block-content.md)
+Define reusable content. [Add or modify block content](ecpro-manage-block-content.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Content Destinations
 
 </td><td>
 
-Defines the page and widget for publishing news articles.[Add content destination](../task/ec-add-content-destination.md)
+Defines the page and widget for publishing news articles.[Add content destination](ec-add-content-destination.md)
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Link Content
 
 </td><td>
 
-Defines URL or video links for the Content Library. [Add or modify links to other content sources](../task/ecpro-manage-link-content.md)
+Defines URL or video links for the Content Library. [Add or modify links to other content sources](ecpro-manage-link-content.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Reusable Articles
 
 </td><td>
 
-Lists news article reusable templates that were created by following the steps to [Create a news article template](../task/ec-create-news-template.md). **Note:** This feature is only accessible to users with the sn\_cd.content\_template\_owner role.
+Lists news article reusable templates that were created by following the steps to [Create a news article template](ec-create-news-template.md). **Note:** This feature is only accessible to users with the sn\_cd.content\_template\_owner role.
 
 </td></tr></tbody>
 </table>

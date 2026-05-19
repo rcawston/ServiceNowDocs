@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing artifact category, select an action, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Architectural category form](../../reference/architectural-category-form.md).
+    For field information, see [Architectural category form](architectural-category-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure architectural artifact categories](../../concept/eaw-concept/eaw-setup-arch-art-categories.md)
+**Parent Topic:**[Configure architectural artifact categories](eaw-setup-arch-art-categories.md)
 
 **Related topics**  
 

@@ -182,5 +182,5 @@ show\_phone\_customer\_service
 -   By configuring this UI macro using the **ref\_contribution** parameter, you can display a phone icon next to the **Contact** customer\_account reference field on the case form if the phone field in the Contact customer\_account record is populated with the user's contact number.
 
 </td></tr></tbody>
-</table>Displaying the phone icon enables you to make calls using the click-to-call capability in the OpenFrame window. For more information on how to use OpenFrame, see [OpenFrame overview](../concept/c_OpenFrameOverview.md).
+</table>Displaying the phone icon enables you to make calls using the click-to-call capability in the OpenFrame window. For more information on how to use OpenFrame, see [OpenFrame overview](c_OpenFrameOverview.md).
 

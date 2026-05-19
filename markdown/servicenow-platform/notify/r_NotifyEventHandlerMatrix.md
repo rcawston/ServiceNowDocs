@@ -32,5 +32,5 @@ The following table describes available event handlers and lists the Notify work
 |onBusy|Runs when a called number is busy.|Forward call, call, join conference call, forward to notify client|
 |onFailed|Runs when an error occurs.|All call-related activities|
 
-**Parent Topic:**[Notify workflow activities](../../../administer/workflow-activities/concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

@@ -72,7 +72,7 @@ Role required: sn\_si.analyst
 
 If you do not see results under the **Threat Lookup Results** tab, verify that the observable is a type that is supported for lookup by the integration.
 
-**Parent Topic:**[Hybrid Analysis integration](../concept/hybrid-analysis-lookups.md)
+**Parent Topic:**[Hybrid Analysis integration](hybrid-analysis-lookups.md)
 
 **Previous topic:**[Install and configure Hybrid Analysis](install-and-configure-hybrid-analysis.md)
 

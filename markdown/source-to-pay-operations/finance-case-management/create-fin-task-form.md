@@ -104,7 +104,7 @@ Detailed description about the task.
 
 [Create new interaction related record form](create-interaction-related-record-form.md)
 
-[Email notifications from Finance Case Management](../concept/email-notifications-fin-case-mgmt.md)
+[Email notifications from Finance Case Management](email-notifications-fin-case-mgmt.md)
 
 [Create knowledge base article form](create-kb-form.md)
 

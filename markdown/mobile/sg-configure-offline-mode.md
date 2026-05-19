@@ -169,7 +169,7 @@ The number of minutes before a cached record is flagged for refresh. The default
 
 ## Result
 
-For a view of the offline mode end-user experience, see: [Working offline in mobile](../concept/offline-end-user.md).
+For a view of the offline mode end-user experience, see: [Working offline in mobile](offline-end-user.md).
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

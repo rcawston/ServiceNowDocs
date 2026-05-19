@@ -32,5 +32,5 @@ From the Opportunities you own page in Opportunity Marketplace you can create, m
 -   **[Opportunity publishing approval](egd-oppt-pubs-approval.md)**  
 The Opportunity Marketplace's publishing approval framework streamlines the approval process, allowing Opportunity Owners to submit drafts for approval and receive notifications upon approval or rejection.
 
-**Parent Topic:**[Hiring Experiences](../../talent-acquisition/hiring-experiences-landing.md)
+**Parent Topic:**[Hiring Experiences](../employee-service-management/hiring-experiences-landing.md)
 

@@ -29,12 +29,12 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Connected Content form](../reference/connected-content-form.md).
+    For more information on the fields and description, see [Connected Content form](connected-content-form.md).
 
 4.  Click **Submit**.
 
 
 ## What to do next
 
-For more information, see [Taxonomy and connected content](../concept/track-new-content.md).
+For more information, see [Taxonomy and connected content](track-new-content.md).
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties for the DeserializeObject component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties for the DeserializeObject component, see [Properties of the JSON utilities](properties-utilities-json.md).
 
 ## Procedure
 
@@ -119,5 +119,5 @@ Returns the value of the key from the string.This appears when additional proper
 
 In this example, the ReadFromExcel component reads data from an Excel document and passes to the SerializeObject component. The SerializeObject component converts the data to string and passes to the DeserializeObject component. The DeserializeObject component converts the string to the JSON object. The items in the Excel document traverses from first to last in the For Each component and passes the item to the GetProperties component. The GetProperties component returns the name of the component and passes the name of the item to the Show component. The item is shown in a message box.
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](json.md)
 

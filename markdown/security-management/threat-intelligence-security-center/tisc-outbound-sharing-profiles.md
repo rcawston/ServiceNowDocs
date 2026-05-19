@@ -139,7 +139,7 @@ Any headers to be passed with the requests can be provided for the outbound inte
 8.  Additionally, select **Disable** to disable the profile if it is not needed for sharing intelligence.
 
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

@@ -36,7 +36,7 @@ For more information, see [Request IntegrationHub](https://raw.githubusercontent
 -   To configure the MSIM Conference Call Microsoft Teams integration using the pre-configured app, see [Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md).
 -   To configure the MSIM Conference Call Microsoft Teams integration using the self-configured app, see [Integrating Notify connector self-configured app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-single-tenant.md).
 
--   **[Use the MSIM Conference Call Microsoft Teams integration](../task/using-conf-call-ms-teams-integration.md)**  
+-   **[Use the MSIM Conference Call Microsoft Teams integration](using-conf-call-ms-teams-integration.md)**  
 The following steps give you a walkthrough of how you can manage and initiate a Microsoft Teams conference call directly from a major security incident.
 
 **Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
@@ -44,13 +44,13 @@ The following steps give you a walkthrough of how you can manage and initiate a 
 **Related topics**  
 
 
-[Start a conference call](../task/start-conference-call.md)
+[Start a conference call](start-conference-call.md)
 
-[Add participants to a conference call](../task/add-participants-conference-call.md)
+[Add participants to a conference call](add-participants-conference-call.md)
 
-[Mute participants in a conference call](../task/mute-unmute-participants.md)
+[Mute participants in a conference call](mute-unmute-participants.md)
 
-[View conference call details](../task/view-conference-call-details.md)
+[View conference call details](view-conference-call-details.md)
 
 [Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 

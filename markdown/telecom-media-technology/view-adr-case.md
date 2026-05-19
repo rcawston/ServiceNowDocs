@@ -28,12 +28,12 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 4.  Select the ADR case record that you want to see the details.
 
 
-**Parent Topic:**[Using alternative dispute resolution case](../concept/use-alternative-dispute-resolution-case.md)
+**Parent Topic:**[Using alternative dispute resolution case](use-alternative-dispute-resolution-case.md)
 
 **Related topics**  
 
 
 [Create an Alternative Dispute Resolution case](create-adr-case-record.md)
 
-[Alternative dispute resolution management](../concept/alternative-dispute-resolution.md)
+[Alternative dispute resolution management](alternative-dispute-resolution.md)
 

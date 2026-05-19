@@ -195,7 +195,7 @@ Set up ServiceNow instance for Microsoft Dynamics 365 and Power Apps to track yo
 
 Role required: sam\_integrator
 
-**Important:** You must select the **Microsoft Dynamics 365 Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Microsoft Dynamics 365 Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](request-saas-license-management.md).
 
 ### About this task
 
@@ -273,7 +273,7 @@ Action
 
     2.  Select the permission type to ensure your application accesses data correctly and securely.
 
-        The permission type can be **Application Permissions** or **Delegated Permissions** depending on the application's data access requirements. For more information on permission types, see [Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md).
+        The permission type can be **Application Permissions** or **Delegated Permissions** depending on the application's data access requirements. For more information on permission types, see [Software Asset Management publisher pack for Microsoft](../software-asset-management/microsoft-publisher-pack.md).
 
     3.  In the **OAuth Client ID** field, enter the OAuth Client ID.
 
@@ -315,20 +315,20 @@ After creating an integration profile, view information about the profile in the
 
 After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../software-asset-management/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../software-asset-management/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../software-asset-management/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../software-asset-management/run-recon-workspace.md).
 
 ## Optimizing Microsoft Dynamics 365 subscriptions
 
@@ -352,5 +352,5 @@ After completing the [Integrating with Microsoft Dynamics 365 and Power Apps](in
 **Related topics**  
 
 
-[Reclamation rules for SaaS and SSO applications](../reference/reclamation-rules.md)
+[Reclamation rules for SaaS and SSO applications](../software-asset-management/reclamation-rules.md)
 

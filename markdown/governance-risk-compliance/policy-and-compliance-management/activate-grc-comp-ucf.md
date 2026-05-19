@@ -42,5 +42,5 @@ This plugin includes demo data and activates related plugins if they are not alr
 
 Configure the source of your control library using an API key supplied by UCF \(this is the recommended method\) or using the UCF Common Controls Hub, which you can purchase as a subscription from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For more information, see [Common Controls Hub](https://commoncontrolshub.com/pricing/) or [Unified Compliance Framework](https://www.unifiedcompliance.com/company/).
 
-**Parent Topic:**[Manage the UCF integration](../../grc-ucf-import/concept/manage_compliance_frameworks.md)
+**Parent Topic:**[Manage the UCF integration](manage_compliance_frameworks.md)
 

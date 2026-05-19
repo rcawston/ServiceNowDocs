@@ -139,5 +139,5 @@ This topic uses the following [topic blocks](itsm-va-topic-blocks.md):
 
 ![Terminate Virtual Machine CAI topic.](../image/TerminateVMCAI2.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

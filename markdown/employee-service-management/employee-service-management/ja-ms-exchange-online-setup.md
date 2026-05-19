@@ -57,7 +57,7 @@ Follow the instructions for setting up the spokes respective to your Journey Acc
 
 **Note:** When using Microsoft Exchange Online spoke v.2.0.2 with Retry Handler Framework, the scripted rest API for the retry handler framework is used as the webhook URL.
 
-For detailed steps, see [Update system properties for Microsoft Exchange Online in the Journey Accelerator app](../task/ja-update-system-properties.md)
+For detailed steps, see [Update system properties for Microsoft Exchange Online in the Journey Accelerator app](ja-update-system-properties.md)
 
 **Related topics**  
 

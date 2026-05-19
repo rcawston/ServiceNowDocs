@@ -31,13 +31,13 @@ You can view all the status changes of a visitor registration at any point. You 
 
 3.  View the current and previous states by selecting the info icon \(![State change info icon](../../wsd-reservation-management/image/info-icon.png)\) next to the visit log.
 
-    For more information about each state, see [Visitor registration states](../reference/visitor-registration-states.md).
+    For more information about each state, see [Visitor registration states](visitor-registration-states.md).
 
 
-**Parent Topic:**[Analytics and Reporting Solutions for Workplace Visitor Management](../concept/analytics-reporting-for-visitor-mgmt.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Workplace Visitor Management](analytics-reporting-for-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Visitor Reception Dashboard](../../../use/dashboards/application-content-packs/visitor-reception-dashboard.md)
+[Visitor Reception Dashboard](visitor-reception-dashboard.md)
 

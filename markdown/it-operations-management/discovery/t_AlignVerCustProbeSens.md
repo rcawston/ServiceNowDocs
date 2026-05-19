@@ -34,7 +34,7 @@ Probes and sensors have a major and a minor version.
 
 A sensor and its corresponding probe must have the same major version. It is recommended they also have the same minor version. This version matching ensures that the data sent back from the probe is understood and properly processed by the sensor. All members of a multi-probes bundle must have the same major and minor version.
 
-By default, Discovery tracks major version mismatches and displays version mismatch errors in the Active Discovery Errors section in the [Discovery Log](../reference/r_DiscoveryLog.md#). You can control whether or not Discovery tracks minor versions mismatches by setting the **Warn on Minor Version Mismatch** \(`glide.discovery.warn_minor_version`\) [Discovery property](../reference/r_DiscoveryProperties.md). Minor version mismatches are tracked in the Discovery log, but are not displayed on the Discovery Dashboard.
+By default, Discovery tracks major version mismatches and displays version mismatch errors in the Active Discovery Errors section in the [Discovery Log](r_DiscoveryLog.md#). You can control whether or not Discovery tracks minor versions mismatches by setting the **Warn on Minor Version Mismatch** \(`glide.discovery.warn_minor_version`\) [Discovery property](r_DiscoveryProperties.md). Minor version mismatches are tracked in the Discovery log, but are not displayed on the Discovery Dashboard.
 
 Versions for multi-probes and multi-sensors are checked as follows:
 
@@ -76,5 +76,5 @@ To use the most up-to-date version of a probe that is available:
 13. Verify that your customizations are valid with the new version of the probe or sensor by running a Discovery in your test environment.
 
 
-**Parent Topic:**[Discovery probes and sensors](../concept/c_DiscoveryProbesAndSensors.md)
+**Parent Topic:**[Discovery probes and sensors](c_DiscoveryProbesAndSensors.md)
 

@@ -25,7 +25,7 @@ For example, you may have to create a workflow in Workflow Studio for one candid
 
 Each recommended action has an estimated effort, which is a numerical score that assesses how well the ServiceNow AI Platform has matching functionality. Green actions require little-to-no effort, while red actions are more difficult.
 
-For more information on recommended actions, see [Check candidate recommendations in ERP Semantic Mining](../task/erpcm-work-with-recommendations.md).
+For more information on recommended actions, see [Check candidate recommendations in ERP Semantic Mining](erpcm-work-with-recommendations.md).
 
 ## Similar candidates in candidate details
 

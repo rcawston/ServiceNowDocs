@@ -31,7 +31,7 @@ Quarterly surveys compare the average rating for each question and category in t
 
 ![Survey scorecard history - 4 quarters](../image/SurveyScorecardHistory4qtr.png "Survey scorecard history - 4 quarters")
 
-**Parent Topic:**[View a survey scorecard](../task/t_ViewAScorecard.md)
+**Parent Topic:**[View a survey scorecard](t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -42,5 +42,5 @@ Quarterly surveys compare the average rating for each question and category in t
 
 [Survey scorecard average ratings](r_SurveyScorecardAverageRatings.md)
 
-[Export a survey scorecard as an image](../task/t_ExportAScorecardAsAnImage.md)
+[Export a survey scorecard as an image](t_ExportAScorecardAsAnImage.md)
 

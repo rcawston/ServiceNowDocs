@@ -45,5 +45,5 @@ Role required: admin
     2.  Select **Execute Now** to see the past 60 days data in the dashboard.
 
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](admin-console-sd.md)
 

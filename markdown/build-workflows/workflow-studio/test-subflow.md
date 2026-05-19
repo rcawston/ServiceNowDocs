@@ -52,9 +52,9 @@ Because testing a subflow creates or changes records on the instance, flow desig
 
 ## What to do next
 
-Review the [Flow execution details](../concept/flow-execution-details.md).
+Review the [Flow execution details](flow-execution-details.md).
 
 Once the subflow behaves as desired, you can [publish the subflow](publish-subflow.md) and add it to a flow.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

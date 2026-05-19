@@ -58,5 +58,5 @@ The following table lists supported Snowflake data types and the default matchin
 **Related topics**  
 
 
-[Create a Snowflake connection](../task/create-snowflake-connection-zcc.md)
+[Create a Snowflake connection](create-snowflake-connection-zcc.md)
 

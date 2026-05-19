@@ -28,5 +28,5 @@ Use the **Service Configuration** form to register your service to use the Unive
 -   **[Universal Request form](new-ur-record-form.md)**  
 Use the **Universal Request** form to create a universal request task record.
 
-**Parent Topic:**[Universal Request](../concept/ur-landing-limitedaccess.md)
+**Parent Topic:**[Universal Request](ur-landing-limitedaccess.md)
 

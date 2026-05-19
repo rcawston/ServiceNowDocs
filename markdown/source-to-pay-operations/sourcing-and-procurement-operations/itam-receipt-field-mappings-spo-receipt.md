@@ -26,7 +26,7 @@ SPO receipt is auto-generated in the background after receipt of any items. Base
 |Received By|Received By|
 |N/A|Supplier Product \(based on POL\)|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

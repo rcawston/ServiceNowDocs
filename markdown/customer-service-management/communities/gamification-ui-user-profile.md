@@ -70,5 +70,5 @@ Clicking the info icon displays the forum or topic levels and the point ranges.
 
 ![Forum Expertise and Topic Expertise widgets displaying user’s top areas of expertise in completed levels and points.](../images/CommunitiesForumTopicExpertiseWidget.png "Forum and topic expertise widgets")
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](communities-gamification-UI.md)
 

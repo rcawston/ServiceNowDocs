@@ -32,9 +32,9 @@ Role required:
 
     The image includes the following tasks:
 
-    -   From the Home page \(IT Remediation Owner landing page\), view the remediation tasks that are assigned to you. Toggle between work that is assigned to you and your group. See the host remediation tasks that have solutions. For more information on the Home page, see [Home page in the IT Remediation Workspace](../../vr-it-remediation-workspace/concept/itr-ws-home-page.md).
+    -   From the Home page \(IT Remediation Owner landing page\), view the remediation tasks that are assigned to you. Toggle between work that is assigned to you and your group. See the host remediation tasks that have solutions. For more information on the Home page, see [Home page in the IT Remediation Workspace](itr-ws-home-page.md).
     -   Select the **List** view to see the lists of your assigned work.
-    -   From the List view with the **Assigned to my group** list selected in the Remediation Tasks list, identify and assign work to yourself. For more information on the List page, see [List page in the IT Remediation Workspace](../../vr-it-remediation-workspace/concept/itr-ws-list-page.md).
+    -   From the List view with the **Assigned to my group** list selected in the Remediation Tasks list, identify and assign work to yourself. For more information on the List page, see [List page in the IT Remediation Workspace](itr-ws-list-page.md).
     -   Group the remediation tasks by record type: Select the three dot menu on the **Record Type** column and then select **Group by Record type**.
     -   On an open remediation task \(VUL, AVUL, CVUL, and CRG\):
         -   Select the **Overview** tab to see the records \(VITs, AVITs, CVITs and TRs \) and affected configuration items \(CIs\) that are associated with the record.

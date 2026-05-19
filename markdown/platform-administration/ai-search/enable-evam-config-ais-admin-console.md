@@ -43,5 +43,5 @@ When you configure a new EVAM view configuration for your AI Search application,
 
 The selected view configuration is activated or deactivated.
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](ais-admin-console-managing-evam.md)
 

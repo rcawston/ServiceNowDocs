@@ -44,5 +44,5 @@ You can edit the Project, project dates, business case, financials, score, notes
     You can view the project or project task details from the side panel. Select Open task in the new tab \(![Open task in new tab icon.](../image/open-task-new-tab-icon.png)\) icon to open the project in a new tab. You can use the Full Details page to add work notes, attachments, and view related lists of a project or task.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

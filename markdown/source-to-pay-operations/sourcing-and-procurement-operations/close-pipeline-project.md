@@ -52,5 +52,5 @@ Role required: sn\_shop.procurement\_specialist
     The pipeline project moves to the Closed Complete state.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
 

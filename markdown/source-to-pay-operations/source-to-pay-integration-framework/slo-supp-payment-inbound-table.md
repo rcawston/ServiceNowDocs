@@ -25,7 +25,7 @@ The following table lists the mandatory fields for the Supplier payment inbound 
 |Bank name|String|Name of the bank.|
 |Account number|Password2|Account number of the beneficiary.|
 
-**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](slo-inbound-staging-tables.md)
 
 **Related topics**  
 

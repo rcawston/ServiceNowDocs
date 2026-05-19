@@ -27,7 +27,7 @@ The Expiring Contracts Condition form is used to create a rule or update an exis
 |Expiration Condition|Condition that must be true for the **Condition check** field to be set to this value. Add as many conditions as are needed. For more information on condition check, see [Define a condition check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_DefineAConditionCheck.md).|
 |Domain|Domain of the condition.|
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -56,7 +56,7 @@ The Expiring Contracts Condition form is used to create a rule or update an exis
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

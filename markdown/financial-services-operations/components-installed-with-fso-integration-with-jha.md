@@ -95,5 +95,5 @@ Product Model Mapping\[sn\_fso\_intg\_jha\_product\_model\_mapping\]
 Table that stores the unique identification value in its ID field. This value is generated when the product model record was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](../concept/fso-integration-with-jha-integthub-landing-page.md)
+</table>**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](fso-integration-with-jha-integthub-landing-page.md)
 

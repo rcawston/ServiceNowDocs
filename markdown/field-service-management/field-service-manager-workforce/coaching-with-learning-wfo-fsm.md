@@ -15,7 +15,7 @@ breadcrumb: [Coaching, Workforce Optimization, Managing workforce, Use, Field Se
 
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content in catalogs. Assign learning tasks and track completion.
 
-**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 ## Create a learning library
 
@@ -82,7 +82,7 @@ Role required: sn\_lc.task\_creator
 
 ### About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Field Service components](../components-wfo-fsm.md).
 
 ### Procedure
 

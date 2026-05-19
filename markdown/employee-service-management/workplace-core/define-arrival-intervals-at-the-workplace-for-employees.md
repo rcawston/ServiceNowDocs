@@ -17,7 +17,7 @@ Define arrival slot times in Workplace Core for different locations at your work
 
 ## Before you begin
 
--   [Add your workplace data](../concept/providing-your-workplace-data-wsd.md).
+-   [Add your workplace data](providing-your-workplace-data-wsd.md).
 -   Ensure you have the data for arrival schedules of the locations of your workplace.
 -   Ensure that your time zone is set to the time zone of the building that is used for the arrival.
 
@@ -107,5 +107,5 @@ Maximum number of employees that can schedule their arrival to this location at 
 
 An arrival schedule is created for this workplace location for the indicated time and capacity. You can view arrival schedules by navigating to **Workplace Safety Management** &gt; **Workplace Arrival Scheduling** &gt; **Arrival Schedules**.
 
-**Parent Topic:**[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
+**Parent Topic:**[Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 

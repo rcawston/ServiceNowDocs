@@ -50,7 +50,7 @@ Steps
 1.  On the Spaces list, select **New**.
 2.  On the Create New Space form, fill in the fields based on your requirement.
 3.  Select **Save**.
- **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](../../workplace-space-management/task/add-a-space.md).
+ **Important:** If you have Workplace Space Management installed, the Create New Space form contains fields from the `Space` form. For more information about the Space form, see [Add a space using Workplace Space Management](../workplace-space-management/add-a-space.md).
 
 </td></tr><tr><td id="d314008e148">
 
@@ -123,5 +123,5 @@ If you select email, you must enter the email address of the recipient.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with Space Planning](../concept/working-with-space-planning.md)
+**Parent Topic:**[Working with Space Planning](working-with-space-planning.md)
 

@@ -19,7 +19,7 @@ You can link an automatically generated issue that belongs to a different contro
 
 **Note:** You can identify the origin of an issue whether it was automatically generated or manually created after you link the issue from one control to another only in a control form.
 
-You can create an issue manually for a control when you click the **New** button in the Issues related list of a Control form. For manually created issues, see [Manually create GRC issues](../task/manually-create-issues-ws.md).
+You can create an issue manually for a control when you click the **New** button in the Issues related list of a Control form. For manually created issues, see [Manually create GRC issues](manually-create-issues-ws.md).
 
 However, issues are also automatically generated when there are:
 

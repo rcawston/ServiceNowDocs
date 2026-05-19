@@ -17,7 +17,7 @@ To work effectively with process inefficiency highlights using Now Assist, you m
 
 This section covers the following topic:
 
--   **[Activate Process Inefficiency Highlights skill](../task/activate-highlight-skills.md)**  
+-   **[Activate Process Inefficiency Highlights skill](activate-highlight-skills.md)**  
 Activate the Process Inefficiency Highlights skill to be able to use Now Assist for Process Mining to generate highlights for improvement opportunities.
 -   **[Configuring improvement opportunities in Process Mining](configure-highlights.md)**  
 Configure improvement opportunities for a process table so that any project that is based on the process table has improvement opportunities configured. You must configure improvement opportunities for your project.

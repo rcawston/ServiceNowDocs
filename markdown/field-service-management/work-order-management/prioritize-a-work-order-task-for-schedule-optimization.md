@@ -17,7 +17,7 @@ Add penalties and values to a work order task to define the importance of the ta
 
 ## Before you begin
 
-An admin must [Configure the policy to enable dispatchers to prioritize work order tasks](configure-the-policy-to-enable-dispatchers-to-prioritize-work-order-tasks.md).
+An admin must [Configure the policy to enable dispatchers to prioritize work order tasks](../field-service-scheduling/configure-the-policy-to-enable-dispatchers-to-prioritize-work-order-tasks.md).
 
 Role required: wm\_dispatcher
 
@@ -35,7 +35,7 @@ Optimization penalties and values are only used for Schedule Optimization.
 
 4.  On the form, fill in the fields.
 
-    For a list of field descriptions on a work order task, see [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md).
+    For a list of field descriptions on a work order task, see [Create a work order task](t_CreateAWorkOrderTask.md).
 
 5.  Select **Update**.
 

@@ -211,5 +211,5 @@ When the user navigates to the associated Docusign Connection &amp; Credential A
 
 ![Docusign form requiring user input.](../image/docusign-template.png)
 
-**Parent Topic:**[Connection &amp; Credential configuration templates](../concept/spoke-configuration-template.md)
+**Parent Topic:**[Connection &amp; Credential configuration templates](spoke-configuration-template.md)
 

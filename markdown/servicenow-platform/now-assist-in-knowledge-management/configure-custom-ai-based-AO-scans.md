@@ -73,9 +73,9 @@ The Article Optimization scan is custom configured.
 
 ## What to do next
 
-To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](configuring-article-optimization-jobs.md).
+To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](../configuring-article-optimization-jobs.md).
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../../knowledge-management/concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 
 **Related topics**  
 

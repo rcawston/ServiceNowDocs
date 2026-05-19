@@ -86,7 +86,7 @@ Multi-source service mapping is valuable in the following scenarios:
 
 The multi-source service-mapping process follows these key phases:
 
--   **[Creating a unified service](../task/unified-map-create-service-instance.md)**
+-   **[Creating a unified service](unified-map-create-service-instance.md)**
 
     Service Mapping administrators can access this flow through the Service Mapping workspace. They can search for services based on properties related to the services, such as server tag, or UR and choose the services to unify. They can choose mapped and unmapped services from various types. For example, they can unify a top-down service with a tag-based service. Unmapped services can be added to the unified service and converted to mapped services along the process. A ranking algorithm suggests the top recommendations of services to merge, according to the criteria provided.
 
@@ -96,11 +96,11 @@ The multi-source service-mapping process follows these key phases:
 
     When the process of creating the unified service is complete, the unified service map is displayed in the "Unified map" format, through the CMDB Workspace, showing the complete consolidated view.
 
--   **[Editing the unified service](../task/unified-map-edit-unified-service.md)**
+-   **[Editing the unified service](unified-map-edit-unified-service.md)**
 
     The Service Mapping administrator can add additional services from various types or remove a service if needed. The feature doesn't support unification of unified services, only single services.
 
--   **[Deleting the unified service](../task/unified-map-delete-unified-service.md)**
+-   **[Deleting the unified service](unified-map-delete-unified-service.md)**
 
     The Service Mapping administrator can delete the unified service if needed. Child services remain non-operational by default.
 

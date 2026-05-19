@@ -21,7 +21,7 @@ You must log in to your CCaaS account and CSM/FSM Configurable Workspace to rece
 
 ## About this task
 
-The callback interaction is either routed in the customer-first or agent-first method by contact center providers to the agent. In the customer-first scenario, the interaction appears like any other voice interaction. In the agent-first scenario, the interaction appears with a callback actions component and callback context card. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
+The callback interaction is either routed in the customer-first or agent-first method by contact center providers to the agent. In the customer-first scenario, the interaction appears like any other voice interaction. In the agent-first scenario, the interaction appears with a callback actions component and callback context card. For more information on the agent-first and customer-first modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md). The following procedure is applicable for the agent-first scenario.
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](../concept/csm-native-voice-record-page.md#section-ccaas-callback-actions).
+Select this button to accept the callback interaction request.The voice interaction page opens with the Callback Actions component on the top-left corner of the page. For more details on the callback actions component, see [Callback actions component](csm-native-voice-record-page.md#section-ccaas-callback-actions).
 
 </td></tr><tr><td id="d158711e144">
 
@@ -62,7 +62,7 @@ Select this button to reject the callback interaction request.The callback inter
 </td></tr></tbody>
 </table>3.  View the Callback context card for the details of the callback who requested a callback.
 
-    For more information on the Callback context card, see [Callback context card](../concept/csm-native-voice-record-page.md#section-callback-context).
+    For more information on the Callback context card, see [Callback context card](csm-native-voice-record-page.md#section-callback-context).
 
 4.  Select the GVC icon on the unified navigation bar to perform call-related actions when you are on other pages.
 

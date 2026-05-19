@@ -100,5 +100,5 @@ This field displays only if you selected **Create a new group**. Select the user
 8.  You can view the issue in the group by clicking the **Issues** tab.
 
 
-**Parent Topic:**[Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md)
+**Parent Topic:**[Manually create GRC issues](../audit-management/t_CreateAnIssue.md)
 

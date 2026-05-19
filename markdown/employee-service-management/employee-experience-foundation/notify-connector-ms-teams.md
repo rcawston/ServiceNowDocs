@@ -28,8 +28,8 @@ Install the ServiceNow IntegrationHub Installer \(com.glide.hub.integrations\) p
 
 You must perform the following activities to integrate Notify connector for Microsoft Teams with ServiceNow:
 
-1.  [Install Notify connector for Microsoft Teams](../task/setup-notify-ms-teams.md)
-2.  [Setting up the ServiceNow instance for Microsoft Teams integration](../../sn-teams/concept/setup-tenants.md)
+1.  [Install Notify connector for Microsoft Teams](setup-notify-ms-teams.md)
+2.  [Setting up the ServiceNow instance for Microsoft Teams integration](setup-tenants.md)
     -   [Integrate Notify connector pre-published app with Microsoft Teams](setup-notify-ms-teams-multi-tenant.md)
     -   [Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)
 
@@ -37,10 +37,10 @@ To allow the agents to work and manage the major incidents from Major Incident M
 
 To use Notify connector for Microsoft Teams in ServiceNow instance, see [Use Notify connector for Microsoft Teams](c-agent-ex-use-nc.md).
 
-**Parent Topic:**[Explore Microsoft Teams integration for Agent Experience](../../sn-teams/concept/c_agent_experience.md)
+**Parent Topic:**[Explore Microsoft Teams integration for Agent Experience](c_agent_experience.md)
 
 **Related topics**  
 
 
-[Meeting Extensions for Microsoft Teams](../../meeting-extensibility/concept/meeting-extensibility-ms-teams.md)
+[Meeting Extensions for Microsoft Teams](meeting-extensibility-ms-teams.md)
 

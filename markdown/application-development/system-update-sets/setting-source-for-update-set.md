@@ -103,5 +103,5 @@ Enter any other relevant information about the remote instance.
 6.  Select and hold \(or right-click\) the form header and select **Save**.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](configure-system-update-sets.md)
 

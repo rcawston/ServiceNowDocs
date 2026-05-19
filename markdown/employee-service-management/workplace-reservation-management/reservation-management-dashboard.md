@@ -64,7 +64,7 @@ sn\_wsd\_rsv.manager
 |Location reservations per day this week|Stacked columns ![Stacked columns icon](../../performance-analytics/image/stacked-column-bkdown-icon.png)|Number of reservations made each day for the current week.|
 |Location reservations today|List|Number of reservations scheduled for today grouped by location.|
 
-**Parent Topic:**[Analytics and Reporting Solutions for Workplace Reservation Management](../../../product/wsd-reservation-management/concept/analytics-reporting-for-rsv-mgmt.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Workplace Reservation Management](analytics-reporting-for-rsv-mgmt.md)
 
-**Parent Topic:**[Manage Workplace Dashboards](../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
+**Parent Topic:**[Manage Workplace Dashboards](../workplace-central/workplace-dashboards-wsd-central.md)
 

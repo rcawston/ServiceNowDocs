@@ -15,10 +15,10 @@ breadcrumb: [Configure, Conversational Integration with Facebook Messenger, Inte
 
 Set up and configure Conversational Integration with Facebook Messenger \(Legacy\).
 
--   **[Set up the Virtual Agent integration with Facebook Messenger \(Legacy\)](../task/setup-virtual-agent-fbmessenger.md)**  
+-   **[Set up the Virtual Agent integration with Facebook Messenger \(Legacy\)](setup-virtual-agent-fbmessenger.md)**  
 Configure the Virtual Agent integration for Facebook Messenger and associate the app with your instance.
--   **[Configure the help link for the Virtual Agent Facebook Messenger integration \(Legacy\)](../task/create-fb-help-prop.md)**  
+-   **[Configure the help link for the Virtual Agent Facebook Messenger integration \(Legacy\)](create-fb-help-prop.md)**  
 Use the **va.messenger.help.url** system property to create the link that opens a web help page when requesters use the **Help** command in the Virtual Agent Facebook Messenger integration.
 
-**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](../task/messg-fbm-configure.md)
+**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](messg-fbm-configure.md)
 

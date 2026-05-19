@@ -19,5 +19,5 @@ Machine identity access controls enable administrators to create granular access
 
 **Note:** Applicable to users flagged with Web Service Access Only.
 
-See [Create a machine identity access control](../task/create-a-machine-identity-access-control.md) to learn how to create a machine identity access control
+See [Create a machine identity access control](create-a-machine-identity-access-control.md) to learn how to create a machine identity access control
 

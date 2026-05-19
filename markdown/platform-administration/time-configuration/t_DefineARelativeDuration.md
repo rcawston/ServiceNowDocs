@@ -52,5 +52,5 @@ The **2 business days by 4pm** relative duration demonstrates conditional logic.
 
 The end time of 17:00 is hard-coded into the relative duration script and is not related to the associated schedule. To change the end time from 5pm, modify the script directly.
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

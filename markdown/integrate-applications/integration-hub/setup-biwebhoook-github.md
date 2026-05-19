@@ -100,7 +100,7 @@ Role required: admin
 
 ### About this task
 
-The default routing policy in the GitHub WebHook Routing Policies modules triggers the relevant GitHub subflow and notifies the ServiceNow app when certain events occur in GitHub. See [GitHub Spoke](../concept/github-spoke.md) for information about the GitHub fields that the default routing policy supports and the GitHub events that the subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
+The default routing policy in the GitHub WebHook Routing Policies modules triggers the relevant GitHub subflow and notifies the ServiceNow app when certain events occur in GitHub. See [GitHub Spoke](github-spoke.md) for information about the GitHub fields that the default routing policy supports and the GitHub events that the subflows support. To use any other fields in your custom subflow and customize conditions in the routing policy, perform these steps.
 
 ### Procedure
 
@@ -112,7 +112,7 @@ The default routing policy in the GitHub WebHook Routing Policies modules trigge
 
 4.  Customize the required subflow as per your requirement and publish it.
 
-    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [GitHub Spoke](../concept/github-spoke.md) for information about the GitHub fields that the default routing policy supports and the GitHub events that the subflows support.
+    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows and [GitHub Spoke](github-spoke.md) for information about the GitHub fields that the default routing policy supports and the GitHub events that the subflows support.
 
 5.  Navigate to **GitHub Webhooks** &gt; **GitHub WebHook Routing Policies**.
 
@@ -150,7 +150,7 @@ Condition
 
 </td><td>
 
-Conditions to be met when the required events occur in GitHub. See [GitHub Spoke](../concept/github-spoke.md) for information about the supported fields.
+Conditions to be met when the required events occur in GitHub. See [GitHub Spoke](github-spoke.md) for information about the supported fields.
 
 </td></tr><tr><td>
 

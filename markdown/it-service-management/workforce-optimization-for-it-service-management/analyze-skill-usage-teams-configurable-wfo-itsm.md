@@ -41,5 +41,5 @@ Role required: skill\_admin
     5.  In the **Inherited from** field, select the skill from which this skill is inherited.
     6.  Click **Save**.
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

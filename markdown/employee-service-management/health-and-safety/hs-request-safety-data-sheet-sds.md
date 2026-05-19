@@ -46,5 +46,5 @@ To request SDS in different languages, the plugin 3E spoke \(com.sn\_hs\_spoke\_
 
 The SDS is requested from the service provider. The SDS request is displayed in the **Service provider requests** related list of the chemical record. The document is added to the **Documents** related list when the response is received from the service provider.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

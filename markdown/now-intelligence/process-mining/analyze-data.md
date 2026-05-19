@@ -17,12 +17,12 @@ View your visualized workflow project for insights and improvement opportunities
 
 The visualized process map helps you see data that is specific to a problem. Within the map, you can drill down to understand the root causes. Also display routes according to the KPIs you want to view or measure.
 
-**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [Configure a Process Mining map on a dashboard](../../../use/par-for-workspace/task/configure-po-map.md).
+**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [Configure a Process Mining map on a dashboard](../configure-po-map.md).
 
 -   Use the activity and connection sliders to focus on the process steps which occurred most frequently. You can also include steps which occurred at lesser frequencies.
 -   Move an activity to a different position on the map workspace.
 -   Slide a metric number along a connection to improve the visual display.
--   Select an activity or connection to view [metric](../task/apply-metrics.md) details.
+-   Select an activity or connection to view [metric](apply-metrics.md) details.
 
 <table id="table_pb4_hyc_jvb"><thead><tr><th>
 

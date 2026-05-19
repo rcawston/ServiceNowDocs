@@ -20,7 +20,7 @@ As a supplier contact, you can self-register to the Supplier Collaboration Porta
 -   The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards.
 -   If M2M mapping between supplier contact and suppliers is enabled, you can select the supplier from the **My Company** drop-down list of suppliers.
 
--   **[Invite a member to access the Supplier Collaboration Portal](../task/invite-member-supp-portal.md)**  
+-   **[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)**  
 Invite supplier contacts to access the Supplier Collaboration Portal so that they can raise requests and start working on their assigned tasks.
 -   **[Supplier contact self-registration](supp-contact-self-reg.md)**  
 Supplier contacts can self-register to the Supplier Collaboration Portal and start working on the assigned tasks.
@@ -30,19 +30,19 @@ Manage and remove contacts, update the contact's email address, elevate access o
 You can raise requests using the supplier catalog by selecting **Raise a request** in the Supplier Collaboration Portal header.
 -   **[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)**  
 View the tasks that are assigned to you and other supplier contacts.
--   **[View or update your user profile from the Supplier Collaboration Portal](../task/view-update-supp-profile.md)**  
+-   **[View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)**  
 Update your personal profile in the Supplier Collaboration Portal.
--   **[View all your requests from the Supplier Collaboration Portal](../task/view-supp-case-sc.md)**  
+-   **[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)**  
 View all the requests that you've raised, to whom they are assigned, and their status.
--   **[View supplier locations from the Supplier Collaboration Portal](../task/view-supp-loc-supp-central.md)**  
+-   **[View supplier locations from the Supplier Collaboration Portal](view-supp-loc-supp-central.md)**  
 As a supplier contact, view the locations of a supplier in the Supplier Collaboration Portal.
--   **[View supplier payment information from the Supplier Collaboration Portal](../task/view-bank-info-supp-central.md)**  
+-   **[View supplier payment information from the Supplier Collaboration Portal](view-bank-info-supp-central.md)**  
 As a supplier contact, view the payment information of a supplier in the Supplier Collaboration Portal.
--   **[Start a chat session from the Supplier Collaboration Portal](../task/start-chat-portal.md)**  
+-   **[Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md)**  
 As a supplier contact, you can start a chat session from the Supplier Collaboration Portal and interact with supplier fulfillers.
--   **[Manage documents from the Supplier Collaboration Portal](../task/upload-doc-portal.md)**  
+-   **[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)**  
 Manage documents by uploading, updating and downloading the required documents from the Supplier Collaboration Portal.
--   **[Complete a risk assessment from the Supplier Collaboration Portal](../task/complete-risk-assessments.md)**  
+-   **[Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)**  
 As a supplier contact, you can view and complete your assigned risk assessments to help the supplier manager in evaluating a supplier before onboarding them.
 -   **[Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)**  
 Create a Universal Request to raise issues that do not fit into predefined case types or involve multiple departments.
@@ -58,7 +58,7 @@ Create a Universal Request to raise issues that do not fit into predefined case 
 
 [Using Supplier Payment Optimization](using-supp-payment-opt.md)
 
-[Invite a member to access the Supplier Collaboration Portal](../task/invite-member-supp-portal.md)
+[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
 [Supplier contact self-registration](supp-contact-self-reg.md)
 

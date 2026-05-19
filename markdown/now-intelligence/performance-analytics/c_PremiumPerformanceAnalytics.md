@@ -23,7 +23,7 @@ Performance Analytics subscriptions enable you to use the following functionalit
 -   The ability to activate Data snapshots for indicators. For more information, see [Data snapshots and multiple breakdowns](multi-level-breakdowns.md).
 -   Scores preserved for longer than 180 days \(Five full months for monthly indicators\)
 -   Text analytics widgets \(Core UI only\)
--   [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md)
+-   [Proactive analytics insights on dashboards](../proactive-analytics/proactive-analytics.md)
 
 If you have purchased Performance Analytics through a Professional or Enterprise offering, you may use it with no restrictions in these situations:
 
@@ -107,5 +107,5 @@ A progress bar shows you the progress of the plugin activation, after which you 
 
 ### What to do next
 
-Consider activating Spotlight. Spotlight helps prioritize records by evaluating them against multiple weighted criteria. For more information, see [Ranking records with Spotlight](spotlight.md).
+Consider activating Spotlight. Spotlight helps prioritize records by evaluating them against multiple weighted criteria. For more information, see [Ranking records with Spotlight](../spotlight/spotlight.md).
 

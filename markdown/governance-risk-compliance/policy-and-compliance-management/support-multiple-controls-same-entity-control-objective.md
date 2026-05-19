@@ -26,7 +26,7 @@ Creating multiple controls for the same entity and control objective combination
 
 To create multiple controls for the same entity and control objective combination, disable the Inherit from control objective option in the Control form.
 
-For more information, see [Control form](../task/t_CreateAControl.md#mutliple-control-entity-co).
+For more information, see [Control form](t_CreateAControl.md#mutliple-control-entity-co).
 
 When Inherit from control objective is enabled, the control automatically inherits the name and description from the control objective.
 
@@ -34,5 +34,5 @@ When Inherit from control objective is enabled, the control automatically inheri
 
 **Note:** Suppose multiple products or systems in your organization fulfill the same control objective through a shared mechanism. For example, two Single Sign On products that both satisfy the same requirement . Consider converting the control to a common control instead of creating multiple controls manually. A common control can be associated with multiple reliant entities without requiring a separate control for each.
 
-For more information, see [Convert standard control to common control and add reliant entities](../../grc-workspace-compliance/task/convert-standard-control-common.md).
+For more information, see [Convert standard control to common control and add reliant entities](../grc-compliance-management-workspace/convert-standard-control-common.md).
 

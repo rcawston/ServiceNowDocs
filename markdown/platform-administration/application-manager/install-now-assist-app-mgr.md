@@ -40,7 +40,7 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
 4.  In the **Select suite version** drop-down menu, select a Now Assist suite version.
 
-    The available suite versions are compatible with your instance. If you have other Now Assist applications already installed on your instance, they might require update for suite compatibility. For more information about Now Assist suite compatibility, see [Now Assist suite versions in the Application Manager](../concept/now-assist-suites-app-mgr.md).
+    The available suite versions are compatible with your instance. If you have other Now Assist applications already installed on your instance, they might require update for suite compatibility. For more information about Now Assist suite compatibility, see [Now Assist suite versions in the Application Manager](now-assist-suites-app-mgr.md).
 
     If you haven't installed a Now Assist suite version yet, you have the option to choose **none** in the version selector. This option enables you to begin using Now Assist suites at a time that works best for your organization.
 
@@ -58,7 +58,7 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
 7.  Select **Continue** to review the installation details.
 
-    If any applications display "Installation blocked," it means that application version isn't licensed yet. Either uninstall the application or license the required version. For more information, see [App installation blocked when installing or updating Now Assist suite](../reference/app-installation-blocked.md).
+    If any applications display "Installation blocked," it means that application version isn't licensed yet. Either uninstall the application or license the required version. For more information, see [App installation blocked when installing or updating Now Assist suite](app-installation-blocked.md).
 
 8.  Install the application now or schedule installation for a later time.
 
@@ -102,9 +102,9 @@ Scheduled version installations begin at the chosen date and time.
 **Related topics**  
 
 
-[App installation blocked when installing or updating Now Assist suite](../reference/app-installation-blocked.md)
+[App installation blocked when installing or updating Now Assist suite](app-installation-blocked.md)
 
 [Uninstall an application](uninstall-application-app-mgr.md)
 
-[Buy a ServiceNow application](../../servicenow-store/task/buy-servicenow-app.md)
+[Buy a ServiceNow application](../buy-servicenow-app.md)
 

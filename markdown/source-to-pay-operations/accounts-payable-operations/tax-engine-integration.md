@@ -64,7 +64,7 @@ The Accounts Payable Operations serves as entry point for tax calculation. When 
 
 </td><td>
 
--   If tax calculation is required, then a record is created in the tax staging table \[sn\_spend\_intg\_tax\_staging\], and the tax status is set to in progress. For more information on tax status, see [Tax status](../reference/tax-status.md)
+-   If tax calculation is required, then a record is created in the tax staging table \[sn\_spend\_intg\_tax\_staging\], and the tax status is set to in progress. For more information on tax status, see [Tax status](tax-status.md)
 -   If tax calculation isn’t required, then the invoice processing continues through the regular exception flow and proceeds to payment.
 
 </td></tr><tr><td>

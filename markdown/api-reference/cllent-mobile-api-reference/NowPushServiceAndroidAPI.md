@@ -29,28 +29,28 @@ configuration
 
 </td><td>
 
-Service configuration to associate with the service.Data type: [NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)
+Service configuration to associate with the service.Data type: [NowServiceConfiguration](NowServiceConfigurationAndroidAPI.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowPushService - handlePush\(remoteMessage: RemoteMessage, successCallback: Consumer&lt;NowPushPayload&gt;, errorCallback: Consumer&lt;Throwable&gt;\)
 
 Processes a push notification request.
 
-**Note:** Currently the only implemented push notification type is `NowPushVirtualAgent`. Any other passed push notification type returns a [NotSupportedPushError](../../NotSupportedPushError/concept/NotSupportedPushErrorAndroidAPI.md#) object.
+**Note:** Currently the only implemented push notification type is `NowPushVirtualAgent`. Any other passed push notification type returns a [NotSupportedPushError](NotSupportedPushErrorAndroidAPI.md#) object.
 
 |Name|Type|Description|
 |----|----|-----------|
 |remote Message|[Remote Message](https://firebase.google.com/docs/reference/android/com/google/firebase/messaging/RemoteMessage)|Notification as received by `com.google.firebase.messaging.FirebaseMessagingService.onMessageReceived`. For additional information, see [Receive messages in an Android app](https://firebase.google.com/docs/cloud-messaging/android/receive).|
-|success Callback|[Consumer](https://developer.android.com/reference/kotlin/java/util/function/Consumer) &lt;[NowPushPayload](../../NowPushPayload/concept/NowPushPayloadAndroidInterface.md#)&gt;|Callback to return the processed **NowPushPayload** to.|
-|error Callback|[Consumer](https://developer.android.com/reference/kotlin/java/util/function/Consumer) &lt;[Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/)&gt;|Callback to return the thrown error to. If the error [NotSupportedPushError](../../NotSupportedPushError/concept/NotSupportedPushErrorAndroidAPI.md#) is thrown, the notification type is not supported by the mobile SDK, and must be processed outside of the mobile SDK framework.|
+|success Callback|[Consumer](https://developer.android.com/reference/kotlin/java/util/function/Consumer) &lt;[NowPushPayload](NowPushPayloadAndroidInterface.md#)&gt;|Callback to return the processed **NowPushPayload** to.|
+|error Callback|[Consumer](https://developer.android.com/reference/kotlin/java/util/function/Consumer) &lt;[Throwable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-throwable/)&gt;|Callback to return the thrown error to. If the error [NotSupportedPushError](NotSupportedPushErrorAndroidAPI.md#) is thrown, the notification type is not supported by the mobile SDK, and must be processed outside of the mobile SDK framework.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-This example shows how to override onMessageReceived\(\) and pass the **RemoteMessage** through to the `NowPushService`. If the `NowPushService` recognizes the notification type, it processes the request and returns the notification object for the application to handle. Otherwise it throws the [NotSupportedPushError](../../NotSupportedPushError/concept/NotSupportedPushErrorAndroidAPI.md#).
+This example shows how to override onMessageReceived\(\) and pass the **RemoteMessage** through to the `NowPushService`. If the `NowPushService` recognizes the notification type, it processes the request and returns the notification object for the application to handle. Otherwise it throws the [NotSupportedPushError](NotSupportedPushErrorAndroidAPI.md#).
 
 ```
 override fun onMessageReceived(remodeeMessage: RemoteMessage){

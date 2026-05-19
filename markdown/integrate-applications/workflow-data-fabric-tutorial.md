@@ -25,7 +25,7 @@ From the Workflow Data Fabric Home landing page, use the Now Assist search field
 
 You access the Data Catalog by selecting the Data Catalog icon ![](../image/wdf-data-catalog-icon.png).
 
-Search an organized inventory of data assets within your organization that helps you discover the right data assets, understand what the data represents, and manage the data. The Data Catalog stores and manages metadata about data assets, such as definitions, structure, and naming conventions. Data assets can be tagged and classified to improve the discoverability and governance of data assets. For more information, see [Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md).
+Search an organized inventory of data assets within your organization that helps you discover the right data assets, understand what the data represents, and manage the data. The Data Catalog stores and manages metadata about data assets, such as definitions, structure, and naming conventions. Data assets can be tagged and classified to improve the discoverability and governance of data assets. For more information, see [Data Catalog](data-catalog.md).
 
 ![Screenshot showing the Data Catalog UI with filters open.](../image/wdf-data-catalog-ui.png)
 
@@ -41,7 +41,7 @@ Discover, manage, and connect ServiceNow to external systems using Connect Hub. 
 
 You access the Data Workbench by selecting the Data Workbench icon ![](../image/wdf-data-workbench-icon.png).
 
-Build, manage, and govern data products, data interfaces, and data fabric tables that power workflows, analytics, and AI agents. Connect to internal and external data sources, define stable data interfaces, apply governance, and prepare trusted data assets for use. For more information, see [Explore data products](../../../administer/data-products/concept/explore-data-products.md).
+Build, manage, and govern data products, data interfaces, and data fabric tables that power workflows, analytics, and AI agents. Connect to internal and external data sources, define stable data interfaces, apply governance, and prepare trusted data assets for use. For more information, see [Explore data products](explore-data-products.md).
 
 ![Screenshot showing the Data Workbench user interface.](../image/wdf-workbench-ui.png)
 

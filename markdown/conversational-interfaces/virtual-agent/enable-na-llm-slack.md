@@ -58,5 +58,5 @@ Role required: admin
 10. Select **Save and Continue**.
 
 
-**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](../concept/na-va-llm-slack.md)
+**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](na-va-llm-slack.md)
 

@@ -42,5 +42,5 @@ Role required: asset or inventory\_admin
     3.  Select the attestation record.
 
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 

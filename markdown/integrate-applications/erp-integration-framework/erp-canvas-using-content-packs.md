@@ -22,7 +22,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 Follow these steps to create an application in a new application scope and clone a content pack model within that same scope. Using this process packages the application with its own scope and a cloned model that you can edit. Working in a scope creates ownership of the application and cloned model. The owner can give access to others to edit the application and cloned model as needed.
 
-Before completing the procedure, it may be helpful to review the list of [Available Zero Copy Connector for ERP content packs](../concept/erp-canvas-available-content-packs.md) and to [Explore a Zero Copy Connector for ERP content pack](erp-canvas-explore-a-content-pack.md) to review its contents.
+Before completing the procedure, it may be helpful to review the list of [Available Zero Copy Connector for ERP content packs](erp-canvas-available-content-packs.md) and to [Explore a Zero Copy Connector for ERP content pack](erp-canvas-explore-a-content-pack.md) to review its contents.
 
 ## Procedure
 
@@ -90,7 +90,7 @@ Before completing the procedure, it may be helpful to review the list of [Availa
 
 ## What to do next
 
-Explore the new, cloned model and make changes as needed. For example, edit the mappings, inputs, or outputs. For more information, see [Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md).
+Explore the new, cloned model and make changes as needed. For example, edit the mappings, inputs, or outputs. For more information, see [Building and managing models to work with ERP data](work-with-erp-data-models.md).
 
-**Parent Topic:**[Zero Copy Connector for ERP content packs](../concept/erp-canvas-content-packs.md)
+**Parent Topic:**[Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md)
 

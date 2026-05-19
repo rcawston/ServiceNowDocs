@@ -34,5 +34,5 @@ Role required: admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Predictive Intelligence for Change Management](../concept/change-mgmt-intelligent-solutions.md)
+**Parent Topic:**[Predictive Intelligence for Change Management](change-mgmt-intelligent-solutions.md)
 

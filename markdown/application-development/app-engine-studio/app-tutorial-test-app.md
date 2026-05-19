@@ -35,7 +35,7 @@ Step 1
 
 </td><td>
 
-[Planning your application](../concept/app-tutorial-introduction.md)
+[Planning your application](app-tutorial-introduction.md)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Step 3
 
 </td><td>
 
-[Building a data model](../concept/app-tutorial-data-model.md)
+[Building a data model](app-tutorial-data-model.md)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Step 4
 
 </td><td>
 
-[Creating user experiences](../concept/app-tutorial-experience-layer.md)
+[Creating user experiences](app-tutorial-experience-layer.md)
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Step 5
 
 </td><td>
 
-[Adding logic and automation](../concept/app-tutorial-logic-automation-layer.md)
+[Adding logic and automation](app-tutorial-logic-automation-layer.md)
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Step 6
 [Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
-</table>For more information about testing your application, see [Testing and debugging applications](../../custom-application/concept/testing-and-debugging-applications.md).
+</table>For more information about testing your application, see [Testing and debugging applications](../testing-and-debugging-applications.md).
 
 Follow along with the tutorial to test the employee travel request application.
 
@@ -234,5 +234,5 @@ Your have tested the employee travel request application and verified that it fu
 
 Congratulations! You have completed the app creation tutorial by planning, building, and testing an application.You are ready to start building your own applications in App Engine Studio.
 
-To see what tasks you could perform after building an application, such as publishing or managing app deployments, see [Publish your app](../concept/publish-your-app.md).
+To see what tasks you could perform after building an application, such as publishing or managing app deployments, see [Publish your app](publish-your-app.md).
 

@@ -40,7 +40,7 @@ Resources are allocated for the extended period.
 
 Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the Resource Plan form. The log is generated if a resource is allocated over 24 hours for a given day. You can review these logs to take correct actions for further resource allocation.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -75,7 +75,7 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

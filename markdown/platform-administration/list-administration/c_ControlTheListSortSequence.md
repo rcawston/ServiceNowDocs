@@ -39,16 +39,16 @@ An administrator can set the sort order of records displayed for a table in the 
 
 ## Sorting a column in a list according to session language
 
-By default, when sorting columns in lists, the field values are ordered according to the English alphabet. To support sorting a column according to the user's session language, you can configure the instance behavior and behavior of individual columns. See [Sorting according to the session language](../../localization/task/sorting-session-language.md#).
+By default, when sorting columns in lists, the field values are ordered according to the English alphabet. To support sorting a column according to the user's session language, you can configure the instance behavior and behavior of individual columns. See [Sorting according to the session language](../system-localization/sorting-session-language.md#).
 
 **Related topics**  
 
 
-[System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md)
+[System dictionary](../table-administration-and-data-management/c_SystemDictionary.md)
 
 [User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](../table-administration-and-data-management/c_DictionaryAttributes.md)
 
 ## Sort order control
 

@@ -78,9 +78,9 @@ Role required: sn\_si.analyst
 
 Review the work notes for more information and how to proceed if you cannot verify that the lookup ran successfully.
 
-**Parent Topic:**[Hybrid Analysis integration](../concept/hybrid-analysis-lookups.md)
+**Parent Topic:**[Hybrid Analysis integration](hybrid-analysis-lookups.md)
 
 **Previous topic:**[Verify expected results for Hybrid Analysis](verify-expected-results-hybrid-analysis-.md)
 
-**Next topic:**[IBM QRadar Offense Ingestion Integration](../../secops-integration-sir/secops-integration-qradar-ibm/concept/qradar-ibm.md)
+**Next topic:**[IBM QRadar Offense Ingestion Integration](qradar-ibm.md)
 

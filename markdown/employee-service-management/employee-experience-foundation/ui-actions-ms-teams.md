@@ -20,9 +20,9 @@ You can extend the following UI actions to any other tables:
 -   Start Microsoft Teams chat
 -   Import Messages from Microsoft Teams
 
--   **[Customize Start Microsoft Teams chat UI action](../task/start-chat.md)**  
+-   **[Customize Start Microsoft Teams chat UI action](start-chat.md)**  
 Enables you to extend the Start Microsoft Teams chat UI actions to the tables you require.
--   **[Customize Import Messages from Microsoft Teams UI action](../task/import-messages-ui-action.md)**  
+-   **[Customize Import Messages from Microsoft Teams UI action](import-messages-ui-action.md)**  
 Enables you to extend the **Import Messages from Microsoft Teams** UI action to the tables you require.
 
 **Parent Topic:**[Customize IT Service Management integration with ServiceNow](customize-sn-ms-teams.md)

@@ -24,5 +24,5 @@ Registration lets other parts of the system, such as [Email and SMS notification
 **Related topics**  
 
 
-[Register an event](../task/t_RegisterAnEvent.md)
+[Register an event](t_RegisterAnEvent.md)
 

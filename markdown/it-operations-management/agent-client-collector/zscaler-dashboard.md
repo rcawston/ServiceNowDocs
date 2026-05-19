@@ -40,5 +40,5 @@ Role required: agent\_client\_collector\_admin
     The default value is All, indicating that the dashboard displays data from all of the CIs on the host.
 
 
-**Parent Topic:**[Perform Zscaler remediation](../concept/zscaler-remediation-concept.md)
+**Parent Topic:**[Perform Zscaler remediation](zscaler-remediation-concept.md)
 

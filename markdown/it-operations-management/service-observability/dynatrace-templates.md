@@ -15,7 +15,7 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 Templates used to create Dynatrace dashboards in Service Observability. You can edit these templates as needed.
 
-See [Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md) for more information.
+See [Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md) for more information.
 
 -   **[Dynatrace Overview tab for Service Observability](overview-tab.md)**  
 Information that is displayed on the Dynatrace **Overview** tab of the Service Details page in the SOW.

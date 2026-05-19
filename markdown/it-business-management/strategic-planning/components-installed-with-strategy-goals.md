@@ -17,7 +17,7 @@ Several types of components are installed with installation of the Strategic Pla
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-**Note:** This topic covers reference information specific to Strategy and Goals, including user roles, tables, and system properties. For common reference information about tables, roles, and system properties installed with Strategic Planning, see [Strategic Planning Workspace reference](../../alignment-planner-workspace/reference/alignment-planner-workspace-reference.md).
+**Note:** This topic covers reference information specific to Strategy and Goals, including user roles, tables, and system properties. For common reference information about tables, roles, and system properties installed with Strategic Planning, see [Strategic Planning Workspace reference](../scenario-planning-in-spw/alignment-planner-workspace-reference.md).
 
 ## Tables installed with Strategic Planning Workspace
 

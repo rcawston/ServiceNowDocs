@@ -53,7 +53,7 @@ The **Portfolio TCO** tab in the **Dashboards** page displays the following dash
 -   Business Application TCO by application category for current quarter and previous quarter.
 -   Business Application TCO by application planned disposition for current quarter
 
-For more details, see [Explore the Enterprise Architecture Workspace dashboard](../../../../use/dashboards/concept/eaw-workspace-dashboard.md).
+For more details, see [Explore the Enterprise Architecture Workspace dashboard](eaw-workspace-dashboard.md).
 
 ## Application TCO insights
 
@@ -62,12 +62,12 @@ The Insights section in the Enterprise Architecture Workspace home page displays
 -   **[Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-app-tco.md)**  
 You can configure the application TCO source and cost type in the Enterprise Architecture Workspace.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-app-tco.md)
 
-[Install the Application Total Cost of Ownership \(TCO\) plugin](../../task/eaw-task/eaw-install-app-tco.md)
+[Install the Application Total Cost of Ownership \(TCO\) plugin](eaw-install-app-tco.md)
 

@@ -17,18 +17,18 @@ The PredictabilityEstimateVersion API is a scriptable object used in Predictive 
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-Use this API when working with predictability estimate versions based on [PredictabilityEstimate API](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#) objects in the [PredictabilityEstimate store](../../PredictabilityEstimateStore/concept/PredictabilityEstimateStoreAPI.md#).
+Use this API when working with predictability estimate versions based on [PredictabilityEstimate API](PredictabilityEstimateAPI.md#) objects in the [PredictabilityEstimate store](PredictabilityEstimateStoreAPI.md#).
 
 The system activates the most recent version of the predictability estimate when it completes training, and only allows one version to be active at a time. However, you can activate any previously trained version you want to use to make predictions.
 
 Methods in this API are accessible using the following PredictabiltyEstimate methods:
 
--   [getActiveVersion\(\)](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#)
--   [getAllVersions\(\)](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#)
--   [getLatestVersion\(\)](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#)
--   [getVersion\(\)](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#)
+-   [getActiveVersion\(\)](PredictabilityEstimateAPI.md#)
+-   [getAllVersions\(\)](PredictabilityEstimateAPI.md#)
+-   [getLatestVersion\(\)](PredictabilityEstimateAPI.md#)
+-   [getVersion\(\)](PredictabilityEstimateAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PredictabilityEstimateVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [PredictabilityEstimate](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [PredictabilityEstimate](PredictabilityEstimateAPI.md#) version details. Results vary by object property setup.```
 {
   "datasetProperties": {Object},
   "domainName": "String", 
@@ -467,7 +467,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [PredictabilityEstimate](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#) object.```
+JavaScript object containing training status information for a [PredictabilityEstimate](PredictabilityEstimateAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",

@@ -33,7 +33,7 @@ New ADAM User accounts are disabled by default. You will need to enable the new 
 
 2.  Right-click the user object and reset the password.
 
-3.  Test the new accounts by using LDP as defined in [Active Directory Application Mode \(ADAM\)](../concept/c_ActiveDirectoryApplicationMode.md) to make sure they can connect.
+3.  Test the new accounts by using LDP as defined in [Active Directory Application Mode \(ADAM\)](c_ActiveDirectoryApplicationMode.md) to make sure they can connect.
 
     Use the **LDAP** &gt; **View/Tree** option, leaving the Base DN blank to make sure that you can view the objects in the directory by using the new accounts. The Configuration, Schema, and the domain partition should be visible in the left pane. Traverse the domain partition. If you are using a new local ADAM account, it will show ‘No Children’ which means that you don’t have read access to the objects. Verify the Setup group memberships and re-test.
 

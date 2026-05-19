@@ -40,7 +40,7 @@ Role required: admin
     The architectural document and its related records are deleted.
 
 
-**Parent Topic:**[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+**Parent Topic:**[Manage architectural documents](manage-arch-documents.md)
 
 **Related topics**  
 

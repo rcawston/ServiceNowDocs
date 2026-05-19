@@ -93,7 +93,7 @@ Cost type
 
 </td><td>
 
-Select the [cost type](../../project-management/task/t_CreateAResourceTypeDefinition.md).
+Select the [cost type](../project-management/t_CreateAResourceTypeDefinition.md).
 
 </td></tr><tr><td>
 
@@ -126,5 +126,5 @@ Select the records for the sources of the expense line. These sources include:- 
 -   **Cost centers**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

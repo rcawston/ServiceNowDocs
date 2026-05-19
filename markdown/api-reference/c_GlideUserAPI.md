@@ -27,7 +27,7 @@ Session information about the current user and current user roles is contained i
 
 For information on using client-side scripts, see [Introduction to Client-side Scripting](https://developer.servicenow.com/dev.do#!/learn/courses/sandiego/app_store_learnv2_scripting_rome_scripting_in_servicenow/app_store_learnv2_scripting_rome_client_side_scripting/app_store_learnv2_scripting_rome_introduction_to_client_side_scripting).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideUser - firstName
 
@@ -45,9 +45,9 @@ alert('first name = ' + g_user.firstName);
 
 Returns a client value set using setClientData\(\) or GlideSession -- putClientData\(\).
 
-Session client data is a set of named strings that may be setup on the server using [GlideSession -- putClientData\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#). You can use getClientData\(\) during form load time to get information that the client script needs to make decisions about the form. For example, to identify which fields should be visible.
+Session client data is a set of named strings that may be setup on the server using [GlideSession -- putClientData\(\)](server-api-reference/c_GlideSessionScopedAPI.md#). You can use getClientData\(\) during form load time to get information that the client script needs to make decisions about the form. For example, to identify which fields should be visible.
 
-See also [GlideForm](../../GlideForm/concept/c_GlideFormAPI.md#).
+See also [GlideForm](c_GlideFormAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -295,7 +295,7 @@ alert('last name = ' + g_user.lastName);
 
 Sets a client value that you can retrieve using getClientData\(\).
 
-See also [GlideForm](../../GlideForm/concept/c_GlideFormAPI.md#).
+See also [GlideForm](c_GlideFormAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

@@ -72,5 +72,5 @@ This example shows you how a target instance requests keys from a host instance.
 
 After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the System Properties \[sys\_properties\] table. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, your instance will attempt to encrypt again the next day.
 
-**Parent Topic:**[Key Management Framework Resource Exchange](../reference/resource-exchange.md)
+**Parent Topic:**[Key Management Framework Resource Exchange](resource-exchange.md)
 

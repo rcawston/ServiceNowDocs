@@ -44,5 +44,5 @@ The details of connected work items can be updated only from the side panel and 
 
 The updated information is available on the work item both in CWM and in its parent application.
 
-**Parent Topic:**[Connected work in CWM](../concept/unified-boards-for-connected-work-in-cwm.md)
+**Parent Topic:**[Connected work in CWM](unified-boards-for-connected-work-in-cwm.md)
 

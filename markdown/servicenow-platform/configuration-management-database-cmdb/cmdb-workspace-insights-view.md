@@ -96,7 +96,7 @@ Data ingestion contains the following features and aggregations:
 
 -   **IntegrationHub ETL**
 
-    Determines whether the [IntegrationHub ETL](integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
+    Determines whether the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
 
     Select **View ETL transform maps** to open IntegrationHub ETL where you can examine existing ETL transform maps and create new ones.
 
@@ -154,7 +154,7 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Checks if there is at least one class for which the **managed\_by\_group** attribute is globally set so that all class CIs are synchronized on the same value.
 
-    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](../../csdm-implementation/task/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](../../csdm-implementation/concept/csdm-data-synchronize.md).
+    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](../common-service-data-model-csdm/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](../common-service-data-model-csdm/csdm-data-synchronize.md).
 
     The Data synchronization card is available starting with CMDB Workspace v3.6.
 
@@ -162,7 +162,7 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Checks if the Principal Class filter is configured with at least one principal class. The Principal Class filter limits the number of CIs that appear in list views, to show only CIs of principal classes. Reducing the amount of data in list views to only relevant data, improves performance and efficiency.
 
-    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md).
+    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](update-principal-class-filter.md).
 
     The Principal class card is available starting with CMDB Workspace v3.6.
 
@@ -200,13 +200,13 @@ Search &amp; analytics contains the following features and aggregations:
 
     Total number of raw [CMDB 360](multisource-cmdb.md) records in the CMDB 360 data store that contains records for each discovery source report, per each CI attribute. This card is identical to the [Total CMDB 360 records](cmdb360-exp-cmdb-workspace.md) card in the Discovery Sources tile in the CMDB 360 view.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](components-multisource-cmdb.md).
 
 -   **CMDB 360 queries**
 
     Count of CMDB 360 queries that exist in the CMDB Multisource Queries \[cmdb\_multisource\_query\] table.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](components-multisource-cmdb.md).
 
 -   **CMDB Data Foundation dashboard**
 
@@ -265,11 +265,11 @@ The Payloads &amp; CIs tab contains the following tiles:
 
         Before you can drill down on a slice of this pie chart, you must have any user roles required to view the table.
 
-        You can also select **New** from the list view to create a new related entry table record. For more information about creating or editing a related entry table record, see [Edit a related table from CMDB performance insights](../task/insights-update-record-rltd-table.md).
+        You can also select **New** from the list view to create a new related entry table record. For more information about creating or editing a related entry table record, see [Edit a related table from CMDB performance insights](insights-update-record-rltd-table.md).
 
 -   **Duplicate and stale CIs**
 
-    A CI is flagged as duplicate during identification and reconciliation. A CI is flagged as stale if it has not been updated within the Effective Duration time period specified in the [CMDB Health staleness rule](../task/t_CreateCMDBHealthStaleRule.md) for the CI class.
+    A CI is flagged as duplicate during identification and reconciliation. A CI is flagged as stale if it has not been updated within the Effective Duration time period specified in the [CMDB Health staleness rule](t_CreateCMDBHealthStaleRule.md) for the CI class.
 
     -   CIs:
 
@@ -279,7 +279,7 @@ The Payloads &amp; CIs tab contains the following tiles:
 
         Breaks down the number of stale CIs based on the CI class. You can drill down on slices in this pie chart to see the list of specific CI records filtered by class.
 
-        For more information about stale CIs, see [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md).
+        For more information about stale CIs, see [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md).
 
     -   Duplicate records by class:
 
@@ -317,7 +317,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To enable batch processing, access the record of a specific data source from the list view and select **Use Batch Import**. For more information about batch processing, see [Data source fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/r_DataSourceFileTypeFields.md).
 
-        You can also select **Edit** to update a data source from the list view. For more information about editing a data source, see [Edit a data source from CMDB performance insights](../task/insights-update-data-source.md).
+        You can also select **Edit** to update a data source from the list view. For more information about editing a data source, see [Edit a data source from CMDB performance insights](insights-update-data-source.md).
 
     -   Sources with concurrent import turned off:
 
@@ -325,7 +325,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To enable concurrent import, access the record of a specific scheduled data import from the list view and select **Concurrent Import**. For more information about concurrent import, see [Concurrent imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/concurrent-imports.md).
 
-        You can also select **Edit** to update a scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](../task/insights-schedule-data-import.md).
+        You can also select **Edit** to update a scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](insights-schedule-data-import.md).
 
     -   Sources with non-custom size partition method:
 
@@ -333,7 +333,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To use a custom size partition method, access the record of a specific scheduled data import from the list view. Ensure that **Concurrent Import** is selected. From the **Partition Method** drop-down menu that appears, select **Custom size**. For more information about partition methods, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_ScheduleADataImport.md).
 
-        You can also select **Edit** to update a new scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](../task/insights-schedule-data-import.md).
+        You can also select **Edit** to update a new scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](insights-schedule-data-import.md).
 
 -   **Connectors execution trends**
 
@@ -378,7 +378,7 @@ For details about the charts, see 'Cloud vs Non-cloud resources' in the [Home vi
 
 Shows a count of [application services](application-services.md) in your organization, based on records in the Service Instance \[cmdb\_ci\_service\_auto\] table. The chart shows the trend of total number of application services per day, for the past seven days.
 
-Select the tile to access the Application Services dashboard where you can monitor the adoption level and health of application services. For details about the Application Services dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](../task/app-service-dashboard.md).
+Select the tile to access the Application Services dashboard where you can monitor the adoption level and health of application services. For details about the Application Services dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](app-service-dashboard.md).
 
 **Parent Topic:**[Exploring CMDB Workspace](exploring-cmdb-workspace.md)
 

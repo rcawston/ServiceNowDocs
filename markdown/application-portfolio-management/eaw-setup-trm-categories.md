@@ -15,7 +15,7 @@ A Technology Reference Model \(TRM\) category refers to a grouping of TRM softwa
 
 You can add a new TRM category or edit an existing one.
 
--   **[Add or edit a TRM category](../../task/eaw-task/eaw-create-new-trm-category.md)**  
+-   **[Add or edit a TRM category](eaw-create-new-trm-category.md)**  
 Add or edit a TRM category to group the TRM software products.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)

@@ -69,5 +69,5 @@ By default, a user must enter a value in a reference field that matches an exist
 **Related topics**  
 
 
-[Configuring the form layout](../../form-administration/concept/configure-form-layout.md#)
+[Configuring the form layout](configure-form-layout.md#)
 

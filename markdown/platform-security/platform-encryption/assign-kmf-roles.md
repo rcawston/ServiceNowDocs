@@ -19,7 +19,7 @@ Administrators with the security\_admin role can assign Key Management Framework
 
 Role required: admin and security\_admin
 
-You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 **Important:** KMF roles are required to use the Key Management Framework. Users without KMF roles aren’t be able to access lists, tables, and modules used to configure key management.
 
@@ -58,7 +58,7 @@ If you have the KMF admin role, follow these steps for assigning other KMF roles
 
 ## What to do next
 
-To learn more about the available KMF roles, see [Roles installed with Key Management Framework](../../key-management-framework/reference/kmf-roles.md#).
+To learn more about the available KMF roles, see [Roles installed with Key Management Framework](kmf-roles.md#).
 
-**Parent Topic:**[Configuring the Key Management Framework](../concept/configure-kmf.md)
+**Parent Topic:**[Configuring the Key Management Framework](configure-kmf.md)
 

@@ -15,9 +15,9 @@ breadcrumb: [Setup for integrating self-configured apps, Setup the Servicenow in
 
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams self-configured app environment.
 
--   **[Integrating Notify connector self-configured app with Microsoft Teams](../../notify2/concept/setup-notify-ms-teams-single-tenant.md)**  
+-   **[Integrating Notify connector self-configured app with Microsoft Teams](setup-notify-ms-teams-single-tenant.md)**  
 Set up the Notify connector for Microsoft Teams using the self-configured app.
--   **[Integrate Meeting Extensions self-configured app with Microsoft Teams](../../meeting-extensibility/concept/setup-meeting-extensibility-single-tenant.md)**  
+-   **[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)**  
 Configure Meeting Extensions for Microsoft Teams using the self-configured app environment.
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams](setup-single-tenant.md)

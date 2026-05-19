@@ -95,12 +95,12 @@ Events are created in the domain referred to by the domain identifier.
 
 **Note:** The table that stores domain information records \(for example, core\_company\) must be domain separated. For more information, see [Domain-separate a custom table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-ds-custom-table.md).
 
-**Parent Topic:**[Event Management Connectors domain personalization](../concept/domain-separation-connectors-personalization.md)
+**Parent Topic:**[Event Management Connectors domain personalization](domain-separation-connectors-personalization.md)
 
 **Related topics**  
 
 
 [Integrate with push connectors](configure-listener-transform-script.md)
 
-[Connector domain metadata](../reference/connector-domain-metadata.md)
+[Connector domain metadata](connector-domain-metadata.md)
 

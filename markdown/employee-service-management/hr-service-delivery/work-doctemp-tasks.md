@@ -41,12 +41,12 @@ Complete your document task by reviewing a PDF document. Send your review commen
 -   **[Resubmit a PDF document](resubmit-doctemp-task.md)**  
 Complete your document task by incorporating the reviewer's suggestions.
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](understanding-doc-templates.md)
 
 [Using Document Templates: Custom use case](doc-temp-gen.md)
 

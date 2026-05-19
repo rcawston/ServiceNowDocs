@@ -37,7 +37,7 @@ The title of the plan configuration that is visible in the Employee Center.
 
 </td><td>
 
-Used to restrict content access by an audience. See, [Restrictions for Content Publishing and Content Experience](../../employee-center/concept/ecpro-content-restriction.md)
+Used to restrict content access by an audience. See, [Restrictions for Content Publishing and Content Experience](../employee-experience-foundation/ecpro-content-restriction.md)
 
 </td></tr><tr><td>
 

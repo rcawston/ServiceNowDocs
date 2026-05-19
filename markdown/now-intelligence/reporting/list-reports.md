@@ -17,7 +17,7 @@ List reports display data in the form of an expandable list. You can configure w
 
 **Note:**
 
--   This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a list visualization in the Visualization Designer](../task/create-dv-analytics-list.md).
+-   This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a list visualization in the Visualization Designer](../create-dv-analytics-list.md).
 -   List reports display in List v2, even if List v3 is enabled.
 -   The record count and pagination buttons appear only at the bottom of the list.
 
@@ -29,15 +29,15 @@ This example list report displays incidents sorted by caller.
 
 There are three types of list reports.
 
--   **[Basic list reports](../task/t_CreateAListReport.md)**
+-   **[Basic list reports](t_CreateAListReport.md)**
 
     List reports with no additional features
 
--   **[List reports with variable columns](../task/create-list-rep-with-var-col.md)**
+-   **[List reports with variable columns](create-list-rep-with-var-col.md)**
 
     List reports based on a data source or table that has variables associated with it, for example, Service Catalog data sources. Variables are often variations in products such as amounts of storage in a computer.
 
--   **[List reports with question columns](../task/create-list-rep-with-question-col.md)**
+-   **[List reports with question columns](create-list-rep-with-question-col.md)**
 
     List reports based on a data source or table that has questions associated with it. For example, if a form prompts a user to select the specific nature of a problem, you can create a list report with columns for their responses.
 

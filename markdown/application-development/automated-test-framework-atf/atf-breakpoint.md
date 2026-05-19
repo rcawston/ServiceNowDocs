@@ -62,5 +62,5 @@ Role required: admin
     -   Continue: Test execution continues until the next breakpoint.
     -   Step over: Test pauses at every step. If you don’t want to pause in the current step, select the Step over option to jump to the next step.
 
-**Parent Topic:**[Implementing breakpoints](../concept/atf-breakpoints-rollback.md)
+**Parent Topic:**[Implementing breakpoints](atf-breakpoints-rollback.md)
 

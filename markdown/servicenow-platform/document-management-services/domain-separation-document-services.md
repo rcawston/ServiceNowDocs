@@ -67,11 +67,11 @@ For example, if the document owner, User A \(Domain: D1\) is changed to User B \
 **Related topics**  
 
 
-[Components installed with Document Management](../reference/installed-with-doc-mgmt.md)
+[Components installed with Document Management](installed-with-doc-mgmt.md)
 
-[Document Management roles](../reference/document-management-roles.md#)
+[Document Management roles](document-management-roles.md#)
 
-[Granular admin roles in Document Management](../reference/granular-admin-roles-dms.md)
+[Granular admin roles in Document Management](granular-admin-roles-dms.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

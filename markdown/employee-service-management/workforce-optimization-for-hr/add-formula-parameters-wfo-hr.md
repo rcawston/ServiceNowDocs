@@ -29,7 +29,7 @@ Role required: admin
 
     -   If you need to add a value to be calculated for the formula, in the **Value** field, enter a value.
     -   If you want to use the performance analytics score card API or a custom API, select **Advanced**, and add a script.
-    The Average Case Work Time and Average Chat Work Time forecast parameters provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see [Components installed with Workforce Optimization for HR](../reference/wfo-hr-reference.md#).
+    The Average Case Work Time and Average Chat Work Time forecast parameters provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see [Components installed with Workforce Optimization for HR](wfo-hr-reference.md#).
 
 4.  Click **Submit**.
 

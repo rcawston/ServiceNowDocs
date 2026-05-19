@@ -22,7 +22,7 @@ Ensure that you meet the following set up requirements:
 -   If connected via Citrix, the Windows machine or the VM must not go to sleep mode.
 -   Login agent clears the legal notice message if the **sn\_rpa\_fdn.bypass\_legal\_notice** system property is selected.
 
-    For more information about this property, see [Configure RPA Hub properties](../../rpa-hub/reference/rpahub-sys-properties.md).
+    For more information about this property, see [Configure RPA Hub properties](rpahub-sys-properties.md).
 
     If you don't want the unattended robot to clear the legal notice, turn off the legal notice by turning off through the Active Directory Organizational \(AD OU\) policy. This ensures that the Unattended Robot Login Agent can log in seamlessly.
 
@@ -30,7 +30,7 @@ Ensure that you meet the following set up requirements:
 -   The idle timeout setting is turned off for the VDI pool.
 -   Communication with the ServiceNow instance host is enabled.
 
-Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](download-installer-rpa.md).
 
 Role required: admin
 

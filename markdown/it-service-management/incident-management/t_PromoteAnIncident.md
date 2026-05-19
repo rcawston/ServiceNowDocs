@@ -27,7 +27,7 @@ When the cause of an incident is an error or widespread issue, a problem is gene
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Open the incident record.
 
@@ -47,7 +47,7 @@ Option
 
 </td><td>
 
-Create Problem. For more information, refer to [Create a problem](../../problem-management/task/create-a-problem-v2.md).**Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the Problem form. The property is available for customers starting the Madrid release.
+Create Problem. For more information, refer to [Create a problem](../problem-management/create-a-problem-v2.md).**Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the Problem form. The property is available for customers starting the Madrid release.
 
 </td></tr><tr><td id="d77291e142">
 
@@ -63,7 +63,7 @@ Create Request. For more information, refer to [Create a request from an inciden
 
 </td><td>
 
-Create Normal, Standard, or Emergency Change. For more information, refer to [Create a change request](../../change-management/task/t_CreateAChange.md).**Note:**
+Create Normal, Standard, or Emergency Change. For more information, refer to [Create a change request](../change-management/t_CreateAChange.md).**Note:**
 
 The **Create Normal Change**, **Create Standard Change**, and **Create Emergency Change** scripts copy these fields from the Incident form:
 

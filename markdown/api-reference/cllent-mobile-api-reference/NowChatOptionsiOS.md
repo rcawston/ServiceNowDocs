@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowChatConfiguration class enables you to configure options on a chat session, such as showing a prompt before closing a chat window, disabling features while using chat, applying different conversation options when using chat, and configuring UI components in NowChat.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowChatConfiguration - NowChatConfiguration\(closePrompt: ClosePrompt?, disabledFeatures: \[Feature\]? = nil, conversationOptions: \[ConversationOption\]? = nil, uiConfiguration: UIConfiguration? = nil\)
 

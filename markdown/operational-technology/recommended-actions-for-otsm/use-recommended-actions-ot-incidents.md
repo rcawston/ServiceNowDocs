@@ -42,5 +42,5 @@ For more information about Recommended Actions, see [Using the Recommended Actio
 6.  In the **Recommendations** panel, review and select the recommended actions.
 
 
-**Parent Topic:**[Using Recommended Actions for Operational Technology Service Management \(OTSM\)](../../operational-technology-recommended-actions/concept/using-recommended-actions-otsm.md)
+**Parent Topic:**[Using Recommended Actions for Operational Technology Service Management \(OTSM\)](using-recommended-actions-otsm.md)
 

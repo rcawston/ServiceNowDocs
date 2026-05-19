@@ -18,7 +18,7 @@ AI web search is a OneExtend capability that enables end users to perform web se
 
 ## Before you begin
 
-When web search is turned on, Gemini is the default AI provider. To switch AI providers, admins must configure the AI Search answers OneExtend capability. The instance or skills default AI provider that is set in Now Assist Admin can differ from the web search AI provider. For more information on the default instance or skills AI provider, see [Manage model providers](../../now-assist-admin/task/edit-model-providers.md).
+When web search is turned on, Gemini is the default AI provider. To switch AI providers, admins must configure the AI Search answers OneExtend capability. The instance or skills default AI provider that is set in Now Assist Admin can differ from the web search AI provider. For more information on the default instance or skills AI provider, see [Manage model providers](../edit-model-providers.md).
 
 Some of the AI providers require API keys whereas others don’t require API keys because they use OEM. The following table highlights the four AI providers and whether they use API keys or OEM.
 

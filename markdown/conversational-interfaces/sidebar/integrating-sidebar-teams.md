@@ -22,5 +22,5 @@ Follow these steps to integrate Sidebar and Microsoft Teams.
 1.  Install the [store app](https://store.servicenow.com/sn_appstore_store.do#!/store/application/53b1b0e79761011018b2fa98c253afcc) on the Washington DC instance.
 2.  Create the Microsoft Teams developer account and Azure app. See [KB article KB1225842](https://support.servicenow.com/kb_view.do?sysparm_article=KB1225842) for more information.
 3.  Create the Microsoft Teams app. See [KB article KB1225842](https://support.servicenow.com/kb_view.do?sysparm_article=KB1225842) for more information.
-4.  Enable the Microsoft Teams integration using the information in [Enable the Microsoft teams integration](../task/enable-teams-integration.md).
+4.  Enable the Microsoft Teams integration using the information in [Enable the Microsoft teams integration](enable-teams-integration.md).
 

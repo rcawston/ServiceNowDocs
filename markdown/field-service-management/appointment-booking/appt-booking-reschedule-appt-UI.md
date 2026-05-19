@@ -19,7 +19,7 @@ Reschedule a service appointment from either the Customer or the Consumer Servic
 
 Role required: appointment\_booking\_user
 
-Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](../concept/appointment-booking-administer.md).
+Setup the **Field Service Order Configuration** to book an appointment for work orders and **Field Service Task Configuration** to book an appointment for work order tasks. For more information, see [Configuring Appointment Booking](../field-service-scheduling/appointment-booking-administer.md).
 
 ## About this task
 

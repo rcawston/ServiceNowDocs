@@ -81,5 +81,5 @@ Activates the rule.
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[IRE support for non-CMDB tables](../concept/ire-support-non-cmdb-tables.md)
+**Parent Topic:**[IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md)
 

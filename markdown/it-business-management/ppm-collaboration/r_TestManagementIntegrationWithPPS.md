@@ -28,5 +28,5 @@ As testers perform tests and record results, the information is updated to the t
 
 **Note:** If you're an existing user, the integration between Project Portfolio Management and Test Management 1.0 continues to work the same. You can still create test phases, associate test phases to a test plan, and perform testing activities.
 
-**Parent Topic:**[Explore Project Portfolio Management](../../project-portfolio-suite/concept/explore-project-portfolio-management.md)
+**Parent Topic:**[Explore Project Portfolio Management](explore-project-portfolio-management.md)
 

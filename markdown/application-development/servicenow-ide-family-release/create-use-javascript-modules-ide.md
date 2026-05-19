@@ -17,7 +17,7 @@ Optimize your codebase by defining reusable code blocks with JavaScript modules 
 
 ## Before you begin
 
-Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](../concept/creating-applications-servicenow-ide.md).
+Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](creating-applications-servicenow-ide.md).
 
 **Note:** To use TypeScript in modules, select TypeScript as the template type when creating an application.
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-To learn about support for using JavaScript modules in scoped applications, including some limitations, see [JavaScript modules and third-party libraries](../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md). For general information about the syntax used to create JavaScript modules, see the [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) page on the MDN Web Docs website.
+To learn about support for using JavaScript modules in scoped applications, including some limitations, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md). For general information about the syntax used to create JavaScript modules, see the [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) page on the MDN Web Docs website.
 
 **Note:** With Now Assist for Code, you can use the Code autocomplete skill to generate code suggestions for module scripts. For more information, see [Generate code with autocomplete](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/generate-code-with-autocomplete.md).
 
@@ -119,7 +119,7 @@ script: `
     process(request, response)`,
         ```
 
-For more information about server-side scripts in source code, see [ServiceNow Fluent API reference](../../servicenow-sdk/reference/servicenow-fluent-api-reference.md).
+For more information about server-side scripts in source code, see [ServiceNow Fluent API reference](../servicenow-sdk/servicenow-fluent-api-reference.md).
 
 </td></tr><tr><td id="d167831e308">
 
@@ -156,10 +156,10 @@ const { feature } = require("path/to/module");
 
 To use third-party libraries in a JavaScript module, see [Use third-party libraries in applications in the ServiceNow IDE](use-third-party-libraries-ide.md).
 
-**Parent Topic:**[Developing applications with the ServiceNow IDE](../concept/developing-applications-servicenow-ide.md)
+**Parent Topic:**[Developing applications with the ServiceNow IDE](developing-applications-servicenow-ide.md)
 
 **Related topics**  
 
 
-[JavaScript modules and third-party libraries](../../servicenow-sdk/concept/javascript-modules-third-party-libraries.md)
+[JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md)
 

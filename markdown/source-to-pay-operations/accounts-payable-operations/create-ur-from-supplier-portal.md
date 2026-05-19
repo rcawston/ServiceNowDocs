@@ -31,7 +31,7 @@ Plugins required:
 
 2.  Select **Request Help** to create a UR.
 
-    The Request Help form appears. For more information on the fields in the form, see [Request Help form](../reference/ur-request-help-form.md).![Request help form](../image/ur-request-help-form.png)
+    The Request Help form appears. For more information on the fields in the form, see [Request Help form](ur-request-help-form.md).![Request help form](../image/ur-request-help-form.png)
 
 3.  Select **Submit**.![UR inquiry](../image/ur-inquiry.png)
 
@@ -40,10 +40,10 @@ Plugins required:
 
 The Universal Request is created.
 
-**Parent Topic:**[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+**Parent Topic:**[Using Supplier Collaboration Portal in APO](using-supplier-collaboration-portal.md)
 
 **Related topics**  
 
 
-[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+[Universal Request in Accounts Payable Operations](universal-request-in-apo.md)
 

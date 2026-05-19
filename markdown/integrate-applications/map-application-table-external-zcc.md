@@ -59,5 +59,5 @@ You can fetch data from an external source using an application's data fabric ta
 
 The data fabric table is connected to the data source that you selected, with the field mapping you defined. Application users can access data from the data source in real time as if it's stored locally on the instance.
 
-**Parent Topic:**[Accessing real-time data in applications](../concept/mapping-application-tables-zcc.md)
+**Parent Topic:**[Accessing real-time data in applications](mapping-application-tables-zcc.md)
 

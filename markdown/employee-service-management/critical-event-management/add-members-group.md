@@ -31,7 +31,7 @@ Role required: admin
 
 5.  On the form, fill in the fields and select **Submit**.
 
-    **Note:** For more information to fill a new member form, see [New member form](../reference/new-member-form.md).
+    **Note:** For more information to fill a new member form, see [New member form](new-member-form.md).
 
 
 **Parent Topic:**[Configure Critical Event Management groups](configure-critical-event-management-groups.md)

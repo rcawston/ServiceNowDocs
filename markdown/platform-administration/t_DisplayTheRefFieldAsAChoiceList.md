@@ -53,5 +53,5 @@ Role required: personalize\_dictionary
 **Related topics**  
 
 
-[System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md)
+[System dictionary](table-administration-and-data-management/c_SystemDictionary.md)
 

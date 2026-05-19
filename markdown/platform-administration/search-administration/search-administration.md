@@ -19,11 +19,11 @@ The ServiceNow AI Platform® includes multiple search engines and interfaces to 
 
 The ServiceNow AI Platform includes two search engines:
 
--   **[AI Search](../../ai-search/concept/overview-ais.md)**
+-   **[AI Search](../ai-search/overview-ais.md)**
 
     AI Search is the default search engine for the ServiceNow AI Platform. It provides consumer-grade search capabilities for Customer Service Management, Now Mobile, Service Portal, and Virtual Agent.
 
--   **[Zing text indexing and search engine](../concept/c_ZingTextSearch.md)**
+-   **[Zing text indexing and search engine](c_ZingTextSearch.md)**
 
     Zing is a legacy search engine which provides fast results and emphasizes relevancy scoring.
 
@@ -32,7 +32,7 @@ The ServiceNow AI Platform includes two search engines:
 
 These search plugins offer specialized search experiences for particular search contexts.
 
--   **[Contextual Search](../../contextual-search/concept/c_ContextualSearch.md)**
+-   **[Contextual Search](../contextual-search/c_ContextualSearch.md)**
 
     The Contextual Search plugin enables search that focuses on query context and user intent to fetch the most relevant set of results. Contextual search displays related results within a form or record producer based on the text you enter in a field.
 
@@ -45,7 +45,7 @@ These search plugins offer specialized search experiences for particular search 
 
 These are search fields and widgets offered in the ServiceNow AI Platform UI or in ServiceNow AI Platform applications.
 
--   **[Global search](../../ai-search/concept/using-ais-next-experience-app.md)**
+-   **[Global search](../ai-search/using-ais-next-experience-app.md)**
 
     Global search in the Next Experience UI allows you to search multiple tables from a single search field.
 

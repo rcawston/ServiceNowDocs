@@ -151,14 +151,14 @@ Depending on the selected scan method for the audit record, you can scan the ass
 -   An audit record is created and listed on the **Open** tab.
 -   The audit result fields are displayed on the audit **Details** tab.
 
-    For a detailed description of the audit result field values, see [Audit results](../reference/audit-results.md).
+    For a detailed description of the audit result field values, see [Audit results](audit-results.md).
 
 
 ## What to do next
 
 Scan the assets in the inventory using the ServiceNow Agent app.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 

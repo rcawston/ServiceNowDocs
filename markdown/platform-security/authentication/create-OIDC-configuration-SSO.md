@@ -75,7 +75,7 @@ If you do not have an existing OAuth OIDC Entity, close the Import OpenID Connec
 
     If you do not have a OAuth Entity Profile, you can create it using the default External OIDC Provider templates, like Okta, Azure and others.
 
-    The grant type of the OAuth Entity Profile must be with an authorization code. For more information, see [Configure an OAuth OIDC provider on the ServiceNow AI Platform](../../../administer/security/task/add-OIDC-entity.md).
+    The grant type of the OAuth Entity Profile must be with an authorization code. For more information, see [Configure an OAuth OIDC provider on the ServiceNow AI Platform](add-OIDC-entity.md).
 
     **Note:** You can use the templates of third-party identity providers, Auth0, Azure AD, Google, and Okta are available in the demo data of the Multiple Provider Single Sign-On Installer plugin.
 
@@ -204,7 +204,7 @@ Publicly available URL that contains logo of the OIDC IdP provider. This field a
     **Note:**
 
     -   The Continuous Authentication tab appears only when you install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin that requires license.
-    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](../../authentication/concept/ca-homepage.md).
+    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](../ca-homepage.md).
     ![Continuous Authentication - tab information](../../authentication/images/ca-tab-oidc.png)
 
 <table id="table_klg_xrx_4dc"><thead><tr><th>

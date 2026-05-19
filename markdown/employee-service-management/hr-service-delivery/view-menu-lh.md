@@ -55,7 +55,7 @@ View a comprehensive career profile of an employee.
 
 </td><td>
 
-Create a conversation with an employee.This option is only visible if the Microsoft Outlook integration isn’t enabled for Leader hub. For more information, see [Create a conversation form](../reference/create-conversation-lh.md).
+Create a conversation with an employee.This option is only visible if the Microsoft Outlook integration isn’t enabled for Leader hub. For more information, see [Create a conversation form](create-conversation-lh.md).
 
 </td></tr><tr><td id="d777399e164">
 
@@ -63,7 +63,7 @@ Create a conversation with an employee.This option is only visible if the Micros
 
 </td><td>
 
-Schedule a conversation with an employee.This option is only visible if the Microsoft Outlook integration is enabled for Leader hub. For more information, see [Schedule a conversation form](../reference/schedule-conversation-lh.md).
+Schedule a conversation with an employee.This option is only visible if the Microsoft Outlook integration is enabled for Leader hub. For more information, see [Schedule a conversation form](schedule-conversation-lh.md).
 
 </td></tr><tr><td id="d777399e191">
 
@@ -75,5 +75,5 @@ Send an email to an employee.This action opens a link with the work email of you
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Leader Hub](../../td-leader-hub/concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

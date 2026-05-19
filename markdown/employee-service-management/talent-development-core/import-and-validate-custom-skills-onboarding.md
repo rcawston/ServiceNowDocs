@@ -63,11 +63,11 @@ Access the predefined skills import template so you can import your skills data 
 
 Select an integration source to import skills data from the external systems.-   Workday integration
 
-For more information, see [Workday spoke integration in Skills Foundation](../concept/workday-spoke-with-skills-intelligence.md).
+For more information, see [Workday spoke integration in Skills Foundation](workday-spoke-with-skills-intelligence.md).
 
 -   SAP SuccessFactors integration
 
-For more information, see [SAP SuccessFactors integration Skills Foundation](../concept/sap-successfactors-with-skills-foundation.md).
+For more information, see [SAP SuccessFactors integration Skills Foundation](sap-successfactors-with-skills-foundation.md).
 
 </td></tr><tr><td id="d339263e226">
 

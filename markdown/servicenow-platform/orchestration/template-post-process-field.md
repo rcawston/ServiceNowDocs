@@ -39,5 +39,5 @@ The supported messages are:
 
 ![ActivityLogger API](../image/Post-ProcessLoggingAPI.png "ActivityLogger API")
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](create-custom-activities.md)
 

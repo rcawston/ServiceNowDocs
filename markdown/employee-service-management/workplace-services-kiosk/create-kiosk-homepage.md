@@ -47,5 +47,5 @@ Role required: sn\_wsd\_kiosk.admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

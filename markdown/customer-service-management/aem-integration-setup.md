@@ -17,7 +17,7 @@ You have to set up your ServiceNow services and components to integrate with you
 
 You can define the following types of configuration settings for ServiceNow services in AEM:
 
--   Authentication settings with a third-party OIDC provider \(see [Configure OIDC provider details in Adobe Experience Manager](../task/aem-setup-servicenow-authentication.md#)\).
+-   Authentication settings with a third-party OIDC provider \(see [Configure OIDC provider details in Adobe Experience Manager](aem-setup-servicenow-authentication.md#)\).
 -   Specific settings for ServiceNow services \(see [Define OSGi configuration settings for ServiceNow services](aem-integration-setup.md#)\).
 -   Log file settings for ServiceNow services \(see [Configure log file settings for ServiceNow services in Adobe Experience Manager](aem-integration-setup.md#)\).
 

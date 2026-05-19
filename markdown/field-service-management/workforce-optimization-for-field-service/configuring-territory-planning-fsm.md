@@ -19,7 +19,7 @@ Field Service Territory Planning identifies the best matched territory for a wor
 
 As a territory planner, you can configure and use territories in Field Service Management through the following procedures:
 
-1.  [Activate Field Service Territory Planning](../task/Activate-fsm-territory-planning.md)
+1.  [Activate Field Service Territory Planning](Activate-fsm-territory-planning.md)
 
     You can activate the Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\) for Field Service Management if you have the admin role.
 
@@ -31,18 +31,18 @@ As a territory planner, you can configure and use territories in Field Service M
 
     Assign agents or crews permanently or temporarily to a territory so you can assign tasks to resources available to work in the territory.
 
-4.  [Enable the Field Service territory model](../task/enable-territory-model.md)
+4.  [Enable the Field Service territory model](enable-territory-model.md)
 
     Enable the Field Service Management territory model to keep a record of territories and their associated resources, such as dispatch groups, assignment groups, and qualification groups.
 
-5.  [Field Service Territory Planning console properties](../reference/territory-planning-components-fsm.md#)Use the territory planning components and properties to customize workflow based on your requirements.
+5.  [Field Service Territory Planning console properties](../territory-planning-components-fsm.md#)Use the territory planning components and properties to customize workflow based on your requirements.
 
-For more information about setting up Territory planning in the CSM/FSM Configurable workspace, see [Configuring Field Service Territory Planning Console](configuring-territory-planning-fsm-workspace.md).
+For more information about setting up Territory planning in the CSM/FSM Configurable workspace, see [Configuring Field Service Territory Planning Console](../configuring-territory-planning-fsm-workspace.md).
 
 **Related topics**  
 
 
-[Managing territories and agents from Territory Planning console](using-territory-planning-console.md)
+[Managing territories and agents from Territory Planning console](../field-service-manager-workforce/using-territory-planning-console.md)
 
-[Field Service Territory Performance Analytics dashboard](../../../use/dashboards/application-content-packs/territory-planning-dashboard.md)
+[Field Service Territory Performance Analytics dashboard](../territory-planning-dashboard.md)
 

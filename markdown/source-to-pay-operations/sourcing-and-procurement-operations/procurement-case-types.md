@@ -71,5 +71,5 @@ The hold releases automatically. When the blocking case is closed, the next time
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](base-system-procurement-case-types.md)
 

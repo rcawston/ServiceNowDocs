@@ -20,7 +20,7 @@ Scripts installed with Workplace Lease Administration.
 |WSDLeaseTrackingNotificationUtils|Handles notifications for the lease administration implementation class.|
 |WSDLeaseTrackingNotificationUtilsSNC|Handles notifications in lease administration.|
 
-**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+**Parent Topic:**[Workplace Lease Administration references](workplace-lease-references.md)
 
 **Related topics**  
 

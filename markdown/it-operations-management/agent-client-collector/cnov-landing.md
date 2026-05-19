@@ -16,7 +16,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 Cloud Native Operations for Visibility \(CNO for Visibility\) has been renamed Agent Client Collector for Kubernetes – Visibility. The term Cloud Native Operations for Visibility has been deprecated.
 
-For the Kubernetes Visibility Agent documentation, see [Kubernetes Visibility Agent](../../agent-client-collector/concept/acc-kubernetes-visibility-landing-page.md).
+For the Kubernetes Visibility Agent documentation, see [Kubernetes Visibility Agent](../discovery/acc-kubernetes-visibility-landing-page.md).
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../../agent-client-collector/concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

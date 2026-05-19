@@ -44,5 +44,5 @@ Role required: admin
 
 The selected users are assigned with a service desk agent role.
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)
 

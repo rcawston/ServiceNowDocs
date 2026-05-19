@@ -26,7 +26,7 @@ See [Now Assist for Telecommunications, Media and Technology \(TMT\)](https://ra
 
 ## Now Assist for Telecommunications, Media and Technology \(TMT\) features
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 

@@ -15,7 +15,7 @@ The donut visualization uses a hollow circular shape to show the proportion or p
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -23,7 +23,7 @@ Use this visualization type when you want to compare subcategories or additional
 
 ## Procedure
 
-1.  Follow the first steps to [Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md):
+1.  Follow the first steps to [Create a pie or donut data visualization](create-dv-donut-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -151,5 +151,5 @@ Create a semi-donut visualization.
 
 The semi-donut has all the same settings as the donut, but is a half circle instead of a full circle.
 
-**Parent Topic:**[Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md)
+**Parent Topic:**[Create a pie or donut data visualization](create-dv-donut-ac.md)
 

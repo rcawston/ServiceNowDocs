@@ -21,11 +21,11 @@ You can leverage a few Service Operations Workspace integrations to start operat
 -   The agent can look at the incoming interactions and resolve it through existing help resources.
 -   If more help is required, the agent can create an incident from the interaction based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
 
--   **[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)**  
+-   **[Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md)**  
 Use the guided tours in Service Operations Workspace for ITSM through a sequence of interactive steps that guide you through a specific concept or process.
--   **[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)**  
+-   **[Add a user-specific quick link on the ITSM landing page](add-quick-link.md)**  
 Refer to a URL quickly from the Service Operations Workspace landing page.
--   **[Create a list in Service Operations Workspace](../task/create-list-sow.md)**  
+-   **[Create a list in Service Operations Workspace](create-list-sow.md)**  
 Create a list or use an existing list to create a list.
 -   **[Live Agent chat in Service Operations Workspace](configure-liveagent-sow.md)**  
 Service Operations Workspace enables agents to work on any incident created using Live Agent chat.

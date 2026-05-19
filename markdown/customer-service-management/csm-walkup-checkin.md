@@ -39,6 +39,6 @@ A device at the store location runs the Walk-up application. The application wel
 
     ![Queue status screen that shows the next three users in the queue.](../image/csm-walkup-overheaddisplay.jpg "Queue status screen")
 
-    The **Survey** widget allows you to request the requester for feedback about the experience at the location. For more information, see [CSM Walk-up Experience customer satisfaction surveys](../concept/csm-walkup-survey.md).
+    The **Survey** widget allows you to request the requester for feedback about the experience at the location. For more information, see [CSM Walk-up Experience customer satisfaction surveys](customer-self-service-and-omnichannel-engagement/csm-walkup-survey.md).
 
 

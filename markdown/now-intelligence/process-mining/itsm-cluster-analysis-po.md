@@ -84,7 +84,7 @@ Requested item
 -   Assigned to
 
 </td></tr></tbody>
-</table>For information on how to perform a cluster analysis from the Process Mining application, see [Perform a cluster analysis](../concept/cluster-analysis.md).
+</table>For information on how to perform a cluster analysis from the Process Mining application, see [Perform a cluster analysis](cluster-analysis.md).
 
-**Parent Topic:**[Content pack for ITSM](../concept/itsm-proc-opti-content-pack.md)
+**Parent Topic:**[Content pack for ITSM](itsm-proc-opti-content-pack.md)
 

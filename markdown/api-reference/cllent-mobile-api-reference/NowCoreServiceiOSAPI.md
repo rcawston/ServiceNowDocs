@@ -17,7 +17,7 @@ The NowCoreService class provides fundamental services to the various SDK featur
 
 Feature services, such as Now Analytics and NowChat, can access a shared core instance through the NowSDK.core property.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowCoreService - accessTokenDidFail\(for service: NowService\)
 
@@ -29,7 +29,7 @@ The SDK core returns a valid access token if it is able to generate one or retur
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
+|for service|[NowService](NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
 
 <table id="table_q5n_vcb_npb" class="returns"><thead><tr><th>
 
@@ -70,7 +70,7 @@ The SDK core returns a valid access token if it is able to generate one or retur
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
+|for service|[NowService](NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
 
 <table id="table_q5n_vcb_npb" class="returns"><thead><tr><th>
 
@@ -340,7 +340,7 @@ Acquires an access token for the specified service.
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
+|for service|[NowService](NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
 
 <table id="table_et1_ftb_npb" class="returns"><thead><tr><th>
 
@@ -375,7 +375,7 @@ Acquires an access token for the specified service.
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
+|for service|[NowService](NowServiceiOSProtocol.md#)|Feature service requesting the access token.|
 
 <table id="table_et1_ftb_npb" class="returns"><thead><tr><th>
 
@@ -424,7 +424,7 @@ Returns a reference to a shared network service that you can use to make API req
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the network service.|
+|for service|[NowService](NowServiceiOSProtocol.md#)|Feature service requesting the network service.|
 
 |Type|Description|
 |----|-----------|
@@ -545,7 +545,7 @@ Retrieves the settings for the publisher of the specified service.
 
 |Name|Type|Description|
 |----|----|-----------|
-|for service|[NowService protocol - iOS](../../NowService/concept/NowServiceiOSProtocol.md#)|Feature service requesting the publisher subscription.|
+|for service|[NowService protocol - iOS](NowServiceiOSProtocol.md#)|Feature service requesting the publisher subscription.|
 
 |Type|Description|
 |----|-----------|

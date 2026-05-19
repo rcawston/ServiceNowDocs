@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Remote table form in Zero Copy Connector for ERP \(Enterprise Resource Planning\) enables you to create and edit remote tables in the ERP model.
 
-For process details, see [View and edit ERP remote table details with Zero Copy Connector for ERP](../task/erpi-find-tables.md).
+For process details, see [View and edit ERP remote table details with Zero Copy Connector for ERP](erpi-find-tables.md).
 
 <table id="table_ep5_44s_wxb"><thead><tr><th>
 
@@ -80,7 +80,7 @@ ERP system
 
 </td><td>
 
-ERP system that the remote table is linked to. The connected system represents the ERP instance that is linked to the model, enabling data flow and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](../task/create-an-erp-system.md).
+ERP system that the remote table is linked to. The connected system represents the ERP instance that is linked to the model, enabling data flow and interaction between the model and the connected ERP system. For more information, see [Create an ERP system in Zero Copy Connector for ERP](create-an-erp-system.md).
 
 </td></tr><tr><td>
 

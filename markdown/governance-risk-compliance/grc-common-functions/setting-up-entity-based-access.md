@@ -15,9 +15,9 @@ breadcrumb: [Entity Based Access, Common GRC features, Governance, Risk, and Com
 
 Configure the Entity Based Access application by installing it from the ServiceNow Store and by setting up Entity Based Access properties in the instance.
 
--   **[Install the Entity Based Access application](../task/install-entity-based-access.md)**  
+-   **[Install the Entity Based Access application](install-entity-based-access.md)**  
 Install the GRC: Entity Based Access application.
--   **[Set up Entity Based Access properties](../task/set-up-entity-based-access-properties.md)**  
+-   **[Set up Entity Based Access properties](set-up-entity-based-access-properties.md)**  
 Enable or disable the Entity Based Access properties to control access to the objects that are associated with an entity.
 
 **Parent Topic:**[Entity Based Access](entity-based-access.md)

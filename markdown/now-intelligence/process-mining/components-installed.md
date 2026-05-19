@@ -290,7 +290,7 @@ Job Process Mining Project\[promin\_job\_m2m\_project\]
 Stores information about the project attached to a job.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](process-mining-reference.md)
 
 ## Process Mining roles
 

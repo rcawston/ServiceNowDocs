@@ -17,7 +17,7 @@ Add a mobile experience, or interface, to enable users to access your applicatio
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -165,8 +165,8 @@ Scan or copy the QR code for your mobile experience using the **Select app** and
 
 For more information on modifying mobile experiences, see [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md).
 
--   **[Sample mobile experience](../concept/mobile-experiences-examples.md)**  
+-   **[Sample mobile experience](mobile-experiences-examples.md)**  
 A mobile experience enables users to access your application from a ServiceNow native mobile app.
 
-**Parent Topic:**[Add an application experience](../concept/add-experience.md)
+**Parent Topic:**[Add an application experience](add-experience.md)
 

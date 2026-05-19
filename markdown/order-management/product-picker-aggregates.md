@@ -98,7 +98,7 @@ When you create a new aggregate, provide the following details:
 
 ## Configuring aggregates through the admin APIs
 
-For steps to create and configure an aggregate using API calls, see [Adding a product picker aggregate using APIs](../task/cpq-adding-a-product-picker-aggregate-using-apis.md).
+For steps to create and configure an aggregate using API calls, see [Adding a product picker aggregate using APIs](cpq-adding-a-product-picker-aggregate-using-apis.md).
 
 ## Viewing a product picker aggregate
 

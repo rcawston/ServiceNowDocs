@@ -33,5 +33,5 @@ Role required: Reader \[sn\_ja.reader\]
     -   Plans Published in Last 6 Months
     -   To-dos Created in Last 6 Months - From Template \(True\) Vs. Plan Created \(False\)
 
-**Parent Topic:**[Working with Journey Accelerator plans](../concept/working-with-journey-accelerator-plans.md)
+**Parent Topic:**[Working with Journey Accelerator plans](working-with-journey-accelerator-plans.md)
 

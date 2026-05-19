@@ -134,18 +134,18 @@ This example adds the existing relationship, Incidents by Same Caller, to incide
 -   **[Add transactions by user related list](t_ExampleTransactionsByUser.md)**  
 This example adds a relationship, Last 20 transactions, to the user form.
 
-**Parent Topic:**[Related lists](../../../use/using-forms/concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Select or create records in a related list](../../../use/using-forms/task/t_SelectRelatedRecords.md)
+[Select or create records in a related list](t_SelectRelatedRecords.md)
 
-[Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
+[Configure when a related list loads](t_ConfigureWhenARelatedListLoads.md)
 
-[Create a default filter for a related list](../../../use/using-forms/task/t_CreateADefaultFilter.md)
+[Create a default filter for a related list](t_CreateADefaultFilter.md)
 
-[Configure the edit option](../../../use/using-forms/task/t_ConfigureTheEditOption.md)
+[Configure the edit option](t_ConfigureTheEditOption.md)
 
 [Add fields to selections in a related list](t_AddingFieldsToARelatedList.md)
 

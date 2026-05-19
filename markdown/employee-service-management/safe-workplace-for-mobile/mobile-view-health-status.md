@@ -17,7 +17,7 @@ Use the Now Mobile app to view the health status of your direct reports.
 
 ## Before you begin
 
-To access this content, you must have the [Now Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../emergency-self-report/emergency-self-report.md) application installed.
 
 Role required: none
 
@@ -61,7 +61,7 @@ The employee record screen displays the following information:-   Use the contac
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 

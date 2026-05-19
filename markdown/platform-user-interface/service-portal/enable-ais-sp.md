@@ -64,5 +64,5 @@ To use AI Search for knowledge articles, you can keep the default **Knowledge Ba
 
 Search widgets that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](reclassify-search-widgets.md).
 
-**Parent Topic:**[AI Search in Service Portal](../concept/ai-search.md)
+**Parent Topic:**[AI Search in Service Portal](ai-search.md)
 

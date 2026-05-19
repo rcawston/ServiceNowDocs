@@ -23,15 +23,15 @@ Modifying email notification preferences helps in controlling the outbound email
 
 Set up email preferences to create universal request when an email is received in the configured mail box. For more information, see [Automatically create universal request from an inbound email](create-ur-from-inbound-email.md).
 
-Configure your service record producer to create universal request from a request raised from the record producer. For more information, see [Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md).
+Configure your service record producer to create universal request from a request raised from the record producer. For more information, see [Configure a catalog item or record producer to create a universal request](create-ur-recordproducer.md).
 
--   **[Create universal request automatically for department tickets via other channels](../task/autocreate-ur-from-interactionrecord-WS.md)**  
+-   **[Create universal request automatically for department tickets via other channels](autocreate-ur-from-interactionrecord-WS.md)**  
 Universal request is not automatically created when a fulfiller or employee creates a department ticket from channels other than the Service Portal or Virtual Agent topics. Create universal request automatically by adding the business rule to the specific service table, such as an Incident or a HR service.
 -   **[Email notification preferences for your service](ur-customize-email-notifcations.md)**  
 Customize email notifications to control which email notifications are sent to requesters when a universal request is created. This setting prevents employees from receiving duplicate or inconsistent email notifications.
 -   **[Automatically create universal request from an inbound email](create-ur-from-inbound-email.md)**  
 Universal requests can be automatically created from the information received by emails. The auto-creation of universal requests enables faster response time and quicker resolution for employees compared to the agents manually creating requests from emails.
--   **[Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md)**  
+-   **[Configure a catalog item or record producer to create a universal request](create-ur-recordproducer.md)**  
 Create a universal request along with a requested item or task-based record to provide unified ticketing experience.
 
 **Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)

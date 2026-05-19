@@ -47,7 +47,7 @@ Provides the framework that supports the integration with your third-party phone
 
 </td><td>
 
-For information about the components installed with this application, see [Components installed with ServiceNow Voice Core](../reference/instld-with-cloud-call-center.md).
+For information about the components installed with this application, see [Components installed with ServiceNow Voice Core](instld-with-cloud-call-center.md).
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Integrates Amazon Connect with ServiceNow Voice Core.
 
 </td><td>
 
-For information about the components installed with this application, see [Components installed with Amazon Connect Integration with ServiceNow Voice](../reference/instld-with-amazn-cnct-integ.md).
+For information about the components installed with this application, see [Components installed with Amazon Connect Integration with ServiceNow Voice](instld-with-amazn-cnct-integ.md).
 
 </td></tr><tr><td>
 
@@ -117,5 +117,5 @@ Enables real-time call transcription so that the agent can see the call transcri
 5.  Select **Install**.
 
 
-**Parent Topic:**[Setting up ServiceNow Voice](../concept/ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
 

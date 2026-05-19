@@ -80,12 +80,12 @@ Roles required to reassign a failed or a success work item: RPA developer, RPA r
 7.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Work items in RPA Hub](../concept/work-items-rpa-hub.md)
+**Parent Topic:**[Work items in RPA Hub](work-items-rpa-hub.md)
 
 **Related topics**  
 
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](queues-implement-rpa.md)
 
 [View Audit History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 
@@ -315,9 +315,9 @@ Transaction logs for the selected work item.
 </table>**Related topics**  
 
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](queue-form.md)
 
-[Using auto-retry functionality for your failed work items in RPA Hub](../concept/auto-retry-wqi-rpa.md)
+[Using auto-retry functionality for your failed work items in RPA Hub](auto-retry-wqi-rpa.md)
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](queues-implement-rpa.md)
 

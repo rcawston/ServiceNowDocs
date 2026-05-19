@@ -22,7 +22,7 @@ You can install the Invoice Case Management \(sn\_ap\_cm\) application if you ha
 -   The Accounts Payable Invoice Processing \(sn\_ap\_apm\) application installs the following dependent plugins:
     -   Source-to-Pay Common Architecture \(com.snc.sn\_shop\)
     -   Supplier Collaboration Portal
-    -   [Source-to-Pay Operations](../../source-to-pay-operations/reference/source-to-pay-operations-overview.md)
+    -   [Source-to-Pay Operations](../source-to-pay-operations-overview.md)
 
 Role required: admin
 
@@ -35,7 +35,7 @@ The following items are installed with Invoice Case Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Invoice Case Management](../reference/installed-with-invoice-case-mgmt.md).
+For more information, see [Components installed with Invoice Case Management](installed-with-invoice-case-mgmt.md).
 
 ## Procedure
 
@@ -60,17 +60,17 @@ For more information, see [Components installed with Invoice Case Management](..
 6.  Select **Install**.
 
 
--   **[Components installed with Invoice Case Management](../reference/installed-with-invoice-case-mgmt.md)**  
+-   **[Components installed with Invoice Case Management](installed-with-invoice-case-mgmt.md)**  
 Several types of components are installed with activation of the Invoice Case Management plugin, including user roles, scheduled jobs, and tables.
 
-**Parent Topic:**[Configure Accounts Payable Operations](../concept/config-acc-pay-mgmt.md)
+**Parent Topic:**[Configure Accounts Payable Operations](config-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
 [Install Accounts Payable Invoice Processing](install-acc-pay-mgmt.md)
 
-[Install Accounts Payable Operations integration with Document Intelligence](../concept/apm-integration-docintel.md)
+[Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)
 
-[Domain separation and Accounts Payable Operations](../concept/apm-domain-separation.md)
+[Domain separation and Accounts Payable Operations](apm-domain-separation.md)
 

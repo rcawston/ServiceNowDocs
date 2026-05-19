@@ -21,7 +21,7 @@ Role required: sn\_msi.workspace\_manager and sn\_msi.workspace\_responder
 
 **Note:** You can only unlink a single record at a time. After you unlink a record, the related rolled up information will be removed from the Incident Impact and Threat Intelligence sections on the workspace and the action can't be undone.
 
-For more information on roll up records, see [Rollup Framework for MSIM](../concept/roll-up-framework-for-major-security-incident-management.md).
+For more information on roll up records, see [Rollup Framework for MSIM](roll-up-framework-for-major-security-incident-management.md).
 
 ## Procedure
 
@@ -52,30 +52,30 @@ For more information on roll up records, see [Rollup Framework for MSIM](../conc
     The record is unlinked and once unlinked, the changes can't be reverted. The list view of Linked Records will be refreshed after unlinking.
 
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](../concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../concept/msim-details-tab.md)
+[Update Major Security Incident details](msim-details-tab.md)
 
 [Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
 
-[Manage tasks in a Major Security Incident](../concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](collab-tab.md#)
 
 [Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
 
 [Configure Linked Records in Major Security Incident Management](configuring-linked-records-in-major-security-incident-management.md)
 
-[Configure Rollup Records in Major Security Incident Management](../concept/roll-up-record-configuration-in-major-security-incident-management.md)
+[Configure Rollup Records in Major Security Incident Management](roll-up-record-configuration-in-major-security-incident-management.md)
 

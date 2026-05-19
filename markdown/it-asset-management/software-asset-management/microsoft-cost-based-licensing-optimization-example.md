@@ -158,5 +158,5 @@ Virtual layer
 </td></tr></tbody>
 </table>The software asset manager determines that option number 3 is the most cost-effective licensing solution for the cluster. By using this licensing option, the software asset manager can achieve a total cost savings of approximately $103,600.
 
-**Parent Topic:**[Cost-based licensing optimization for Microsoft](../concept/cost-based-microsoft-cluster-licensing.md)
+**Parent Topic:**[Cost-based licensing optimization for Microsoft](cost-based-microsoft-cluster-licensing.md)
 

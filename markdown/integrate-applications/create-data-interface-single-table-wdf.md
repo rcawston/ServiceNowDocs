@@ -87,5 +87,5 @@ The data interface is published and visible in Data Workbench. After the metadat
 
 To package this data interface into a data product, see [Create a data product](create-data-product-wdf.md).
 
-**Parent Topic:**[Managing data interfaces](../concept/manage-data-interfaces_wdf.md)
+**Parent Topic:**[Managing data interfaces](manage-data-interfaces_wdf.md)
 

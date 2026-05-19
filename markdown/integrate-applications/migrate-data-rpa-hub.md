@@ -38,7 +38,7 @@ RPA release manager manually downloads the zip file from the lower \(non-product
 
 RPA release manager automatically imports package version attachments by selecting the **Import Attachment** button on a package version. RPA admin can also perform this action. A flow is then triggered asynchronously and pulls the attachment from the configured connection using API. The automation zip file is attached to the package version and HashCode validation is performed automatically. An email is also sent to the user who performs the import attachment action.
 
-To execute the orchestration of RPA Hub update sets from third-party tools, it is essential to recreate bot process on the higher environment. The **Change Life Cycle Stage Status of a Bot Process** action in Workflow Studio helps in ensuring the deployment and enablement of RPA Hub process is automated. For more information about this action, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+To execute the orchestration of RPA Hub update sets from third-party tools, it is essential to recreate bot process on the higher environment. The **Change Life Cycle Stage Status of a Bot Process** action in Workflow Studio helps in ensuring the deployment and enablement of RPA Hub process is automated. For more information about this action, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## List of steps for the migration tasks
 
@@ -66,7 +66,7 @@ Lower \(non-production\) environment
 
 </td></tr><tr><td>
 
-2. [Create a bot process configuration record in RPA Hub](../task/create-botprocess-config.md#).
+2. [Create a bot process configuration record in RPA Hub](create-botprocess-config.md#).
 
 </td><td>
 
@@ -98,7 +98,7 @@ Lower \(non-production\) environment
 
 </td></tr><tr><td>
 
-6. [Download a package version in RPA Hub](../task/download-package-version.md).Perform this task, if you are manually migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
+6. [Download a package version in RPA Hub](download-package-version.md).Perform this task, if you are manually migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
 
 You can skip step 12.
 
@@ -132,7 +132,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-10. [Associate a bot process to a bot process configuration record](../task/select-botprocess.md#).
+10. [Associate a bot process to a bot process configuration record](select-botprocess.md#).
 
 </td><td>
 
@@ -140,7 +140,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-11. [Verify the associated schedules, parameters, packages, and queues in RPA Hub](../task/verify-botprocess-tasks.md).
+11. [Verify the associated schedules, parameters, packages, and queues in RPA Hub](verify-botprocess-tasks.md).
 
 </td><td>
 
@@ -152,7 +152,7 @@ Higher \(production\) environment
 
 Perform this task if you are automatically migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
 
-[Import a package version attachment in RPA Hub](../task/import-attachment-package-version.md).
+[Import a package version attachment in RPA Hub](import-attachment-package-version.md).
 
 You can skip step 13 and 14.
 
@@ -162,7 +162,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-13. [Upload an automation package attachment in RPA Hub](../task/upload-package-version-attach.md).Perform this task in classic environment.
+13. [Upload an automation package attachment in RPA Hub](upload-package-version-attach.md).Perform this task in classic environment.
 
 </td><td>
 
@@ -170,7 +170,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-14. [Verify the HashCode of a package version in RPA Hub](../task/view-hash-code.md).
+14. [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
 
 </td><td>
 
@@ -178,7 +178,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-15. [Assign a business application to a bot process in RPA Hub](../task/associate-business-apps.md).
+15. [Assign a business application to a bot process in RPA Hub](associate-business-apps.md).
 
 </td><td>
 
@@ -186,7 +186,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-16. [Create a credential group in RPA Hub](../task/create-credential-group.md#).
+16. [Create a credential group in RPA Hub](create-credential-group.md#).
 
 </td><td>
 
@@ -194,7 +194,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-17. [Assign a robot to a bot process in RPA Hub](../task/assign-robots.md).
+17. [Assign a robot to a bot process in RPA Hub](assign-robots.md).
 
 </td><td>
 
@@ -202,7 +202,7 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-18. [Assign a process robot credential within a bot process in RPA Hub](../task/assign-process-robot-cred-botprocess.md).
+18. [Assign a process robot credential within a bot process in RPA Hub](assign-process-robot-cred-botprocess.md).
 
 </td><td>
 
@@ -210,16 +210,16 @@ Higher \(production\) environment
 
 </td></tr><tr><td>
 
-19. [Assign an attended user or group to an attended bot process](../task/assign-rda-users-botprocess.md).
+19. [Assign an attended user or group to an attended bot process](assign-rda-users-botprocess.md).
 
 </td><td>
 
 Higher \(production\) environment
 
 </td></tr></tbody>
-</table>-   **[Import a package version attachment in RPA Hub](../task/import-attachment-package-version.md)**  
+</table>-   **[Import a package version attachment in RPA Hub](import-attachment-package-version.md)**  
 Import package version attachments automatically instead of manually uploading a package version attachment, by selecting the **Import Attachment** button on a package version.
--   **[Upload an automation package attachment in RPA Hub](../task/upload-package-version-attach.md)**  
+-   **[Upload an automation package attachment in RPA Hub](upload-package-version-attach.md)**  
 Upload a zip file of the automation package in RPA Hub to manually migrate the package from a lower \(non-production\) to a higher \(production\) environment.
 
 **Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)

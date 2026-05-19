@@ -60,5 +60,5 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 The reservation is canceled. The cancellation notes are automatically generated.
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

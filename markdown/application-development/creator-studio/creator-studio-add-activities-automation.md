@@ -17,7 +17,7 @@ Add activities to an app's playbook to specify what the automation does to the d
 
 ## Before you begin
 
-To add [activities](../concept/creator-studio-glossary.md#) to a playbook, you must be given permission to work on the app.
+To add [activities](creator-studio-glossary.md#) to a playbook, you must be given permission to work on the app.
 
 ## About this task
 
@@ -215,5 +215,5 @@ Update the value of the specified fields on the record that the form generates w
 
 Continue adding activities and decisions, as well as connectors and parallel processes if needed, to finish creating your playbook. For more information on decisions, see [Add a decision to an app's playbook in Creator Studio](creator-studio-add-decision-automation.md).
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

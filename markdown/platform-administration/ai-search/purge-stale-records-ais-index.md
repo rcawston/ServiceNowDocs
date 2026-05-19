@@ -63,5 +63,5 @@ For more information on running background scripts, see [Scripts - Background mo
 
 The background script executes, deleting stale records from the AI Search index.
 
-**Parent Topic:**[Indexed source retention policies and filter conditions](../concept/retention-policies-conditions-ais.md)
+**Parent Topic:**[Indexed source retention policies and filter conditions](retention-policies-conditions-ais.md)
 

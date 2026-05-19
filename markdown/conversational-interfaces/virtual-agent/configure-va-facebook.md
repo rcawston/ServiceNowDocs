@@ -57,5 +57,5 @@ Roles required:
 
 The Virtual Agent bot and Workplace from Facebook are now integrated for use on your ServiceNow instance.
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](configuring-ci-workplace-fb.md)
 

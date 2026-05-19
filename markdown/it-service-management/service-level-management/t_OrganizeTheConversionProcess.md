@@ -40,5 +40,5 @@ Perform the following steps to organize the conversion process:
     As each record is updated, the new Task SLA will attach to each incident. If there are too many open incidents to effectively touch using the List Editor, run a business rule that will update every open incident.
 
 
-**Parent Topic:**[Service Level Agreement \(Legacy\) engines](../concept/c_GetStartedWithSLAs.md)
+**Parent Topic:**[Service Level Agreement \(Legacy\) engines](c_GetStartedWithSLAs.md)
 

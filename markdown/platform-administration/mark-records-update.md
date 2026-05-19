@@ -58,5 +58,5 @@ The job is saved and the form provides options to schedule the job or execute it
 
 [Schedule or execute a job to update records](schedule-execute-job-update-records.md)
 
-**Parent Topic:**[Updating records safely in Core UI](../concept/updating-records-safely.md)
+**Parent Topic:**[Updating records safely in Core UI](updating-records-safely.md)
 

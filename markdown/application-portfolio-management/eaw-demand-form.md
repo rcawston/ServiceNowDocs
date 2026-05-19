@@ -96,7 +96,7 @@ You can select any business application in your enterprise, irrespective of it b
 **Related topics**  
 
 
-[Create a demand using the bubble chart](../../task/eaw-task/eaw-create-a-demand-using-the-bubble-chart.md)
+[Create a demand using the bubble chart](eaw-create-a-demand-using-the-bubble-chart.md)
 
-[Create a demand using the list view](../../task/eaw-task/eaw-create-a-demand-using-the-list-view.md)
+[Create a demand using the list view](eaw-create-a-demand-using-the-list-view.md)
 

@@ -21,9 +21,9 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-Adherence and conformance calculations are based on the [defined configuration](../concept/setup-scheduling-configurable-wfo-cs.md#) and your agents' actual and planned work schedules.
+Adherence and conformance calculations are based on the [defined configuration](setup-scheduling-configurable-wfo-cs.md#) and your agents' actual and planned work schedules.
 
-**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](../concept/setup-scheduling-configurable-wfo-cs.md#).
+**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](setup-scheduling-configurable-wfo-cs.md#).
 
 For information about schedule adherence, see the "Schedule adherence" section of [Scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/scheduling-wfo-fsm.md).
 
@@ -81,5 +81,5 @@ To understand the computations of the fields in a time worked summary, consider 
 
 **Note:** Fatima Alonzo is adherent because the schedule adherence and conformance are within the threshold. To see which agents are non-adherent, look for the numbers highlighted in red.
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

@@ -23,7 +23,7 @@ The **Reject** button allows the approver to deny one or more requested items in
 
 **Note:** When the overall request is approved, you must ensure this **Reject** button is hidden. If this button is used after request approval, the requested item workflow is canceled, leaving the stage in an inconsistent state. Similarly, the **Accept** button on requested items should only appear before the overall request is approved or rejected.
 
--   **[Summarizers](../concept/c_Summarizers.md)**  
+-   **[Summarizers](c_Summarizers.md)**  
 Approval summarizers are stored in the Macro \[sys\_ui\_macro\] table.
 
 **Parent Topic:**[Classic approvals](r_Approvals.md)

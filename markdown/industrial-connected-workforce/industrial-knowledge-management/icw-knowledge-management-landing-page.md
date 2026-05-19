@@ -27,7 +27,7 @@ Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enabl
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about Industrial Knowledge Management.](../reference/industrial-knowledge-mgmt-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about Industrial Knowledge Management.](industrial-knowledge-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>Industrial Knowledge Management provides a preconfigured knowledge base integrated with the Standards hub, where knowledge authors and managers can create, version, and publish articles using standard or one-point lesson templates. The application supports knowledge categories and subcategories, reusable knowledge blocks, and search capabilities. These features enable operators and equipment owners to quickly access relevant industrial information alongside their standards and tasks.
@@ -36,8 +36,8 @@ Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enabl
 Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enables you to organize and manage your knowledge resources in a single place.
 -   **[Using Industrial Knowledge Management](using-industrial-knowledge-mgmt.md)**  
 Industrial Knowledge Management helps you capture, organize, and share specialized industrial information, making it easier for teams to access accurate insights and apply best practices in their work.
--   **[Industrial Knowledge Management reference](../reference/industrial-knowledge-mgmt-reference.md)**  
+-   **[Industrial Knowledge Management reference](industrial-knowledge-mgmt-reference.md)**  
 Find additional information about Industrial Knowledge Management.
 
-**Parent Topic:**[Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/industrial-connected-workforce-overview.md)
+**Parent Topic:**[Industrial Connected Workforce](../industrial-connected-workforce-overview.md)
 

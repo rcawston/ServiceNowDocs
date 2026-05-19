@@ -33,5 +33,5 @@ Role required: sn\_dlir.admin
     |**sn\_icap\_dlp.presigned\_file\_expiry\_time**|Specify the duration in seconds, for which the presigned file will be available for download or preview. The file will only be accessible within this time frame. This field is automatically set to 300.|
 
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../concept/icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
 

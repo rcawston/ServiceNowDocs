@@ -50,17 +50,17 @@ You must configure at least one display experience for an assistant before activ
 
     Natural Language Understanding \(NLU\) and large language model \(LLM\) topic discovery cannot coexist in the same portal.
 
-    1.  Choose between the standard or enhanced chat experience, and then select **Add**. For more information, see [Standard chat](../concept/nava-standard-chat.md) and [Enhanced chat](../concept/nava-enhanced-chat.md).
+    1.  Choose between the standard or enhanced chat experience, and then select **Add**. For more information, see [Standard chat](nava-standard-chat.md) and [Enhanced chat](nava-enhanced-chat.md).
 
         **Note:** If you're a new customer and haven't set up an assistant with a display experience, only the enhanced chat option is available.
 
         ![Select between standard chat or enhanced chat for your portal.](../image/NAinVA-standard-enhanced-052025.png "Standard or enhanced chat experience for your portal")
 
-        If your portal has AI Search activated, enhanced chat includes the option to turn on the full-page chat experience. Select **Allow the search bar to open into a full-page chat experience**. For more information about whether your portal meets the requirements to have users chat from search results, see [Portal prerequisites for enhanced chat](../concept/prerequisites-enhanced-chat.md).
+        If your portal has AI Search activated, enhanced chat includes the option to turn on the full-page chat experience. Select **Allow the search bar to open into a full-page chat experience**. For more information about whether your portal meets the requirements to have users chat from search results, see [Portal prerequisites for enhanced chat](prerequisites-enhanced-chat.md).
 
         **Note:** When you activate enhanced chat in a portal or mobile app, that portal or mobile app uses the assistant search application configuration rather than the portal or mobile app's search application configuration. VA Search Profile instead of the search profile specified in the portal's search application configuration. To learn more about search profiles and how they affect search behavior, see [Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md).
 
-        For information about the enhanced chat experience option, see [Using Now Assist in Virtual Agent](../concept/using-now-assist-in-va.md).
+        For information about the enhanced chat experience option, see [Using Now Assist in Virtual Agent](using-now-assist-in-va.md).
 
         **Note:** Customer Service Management \(CSM\) portals don't have the enhanced chat option.
 
@@ -76,7 +76,7 @@ You must configure at least one display experience for an assistant before activ
 
 2.  In **Channels**, select your preferred channels.
 
-    Now Assist in Virtual Agent integrates with these channels: Slack, Microsoft Teams, Google chat, SMS with Twilio, WhatsApp, and Amazon Connect. If the plugins are already installed, the available channel cards aren't displayed. For more information on integrating Virtual Agent with messaging apps, see [Integrating Virtual Agent with messaging apps](../../virtual-agent/concept/va-integration-messaging-apps.md).
+    Now Assist in Virtual Agent integrates with these channels: Slack, Microsoft Teams, Google chat, SMS with Twilio, WhatsApp, and Amazon Connect. If the plugins are already installed, the available channel cards aren't displayed. For more information on integrating Virtual Agent with messaging apps, see [Integrating Virtual Agent with messaging apps](../virtual-agent/va-integration-messaging-apps.md).
 
     ![List of channels to integrate with Virtual Agent.](../image/NAinVA-channels-122025.png "Channels that integrate with Virtual Agent")
 
@@ -86,7 +86,7 @@ You must configure at least one display experience for an assistant before activ
 
     In the **Mobile** tab, if no mobile app is selected to display standard chat or enhanced chat, users see the traditional NLU Virtual Agent in the mobile app. There are different mobile app components that admins can display with an assistant: mobile search widget, chat launcher, prominent action button override, and a custom app \(mobile SDK\).
 
-    1.  To use Now Assist in Virtual Agent on your mobile app, download the Now Mobile App or Agent App and use Mobile App Builder to configure Virtual Agent in the app. For information about mobile prerequisites, see [Mobile app prerequisites for enhanced chat](../concept/mobile-prereqs-enhanced-chat.md).
+    1.  To use Now Assist in Virtual Agent on your mobile app, download the Now Mobile App or Agent App and use Mobile App Builder to configure Virtual Agent in the app. For information about mobile prerequisites, see [Mobile app prerequisites for enhanced chat](mobile-prereqs-enhanced-chat.md).
     2.  Select a mobile search widget from the **Add search widget** drop-down list. The assistant must have the enhanced chat experience enabled.
 
         ![Drop-down list of mobile applications.](../image/NAinVA-mobile-search-widget-122025.png "Integrate your assistant with a mobile application")

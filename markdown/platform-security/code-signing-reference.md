@@ -33,5 +33,5 @@ Code Signing includes the following roles.
 -   **[Troubleshooting and accessing logs](cs-logs.md)**  
 Access various logs to troubleshoot and identify the failure reasons.
 
-**Parent Topic:**[Code Signing](../concept/code-signing-landing.md)
+**Parent Topic:**[Code Signing](code-signing-landing.md)
 

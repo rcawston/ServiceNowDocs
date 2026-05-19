@@ -48,7 +48,7 @@ You can add any Platform Analytics dashboard to the Portfolio Planning Workspace
 
 The dashboard appears on the Portfolio Planning Workspace.
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 
 **Related topics**  
 

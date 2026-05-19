@@ -19,19 +19,19 @@ When a modification occurs, a business rule initiates a workflow that retrieves 
 
 Before observables can be enriched, the following steps must be performed.
 
--   [Threat Intelligence](../../threat-intelligence/concept/c_GetStartedWithThreatIntel.md#) must be activated.
--   The [Palo Alto Networks Firewall](../../secops-integration-sir/secops-integration-palo-alto-firewall/task/activate-config-firewall.md) integration must be activated and configured. This can also include [Set up SSH credentials to the MID Server](../../secops-integration-sir/secops-integration-palo-alto-firewall/task/set-up-and-config-MID-server.md).
+-   [Threat Intelligence](../c_GetStartedWithThreatIntel.md#) must be activated.
+-   The [Palo Alto Networks Firewall](activate-config-firewall.md) integration must be activated and configured. This can also include [Set up SSH credentials to the MID Server](set-up-and-config-MID-server.md).
 
 After that setup has been completed, the act of changing the Source IP of observables associated with a security incident causes a business rule to execute the **Security Operations Palo Alto Networks - Get Log Data** workflow. Workflow activities queue up a search query on the firewall and return a Job ID that is used to retrieve threat logs data from the firewall and attach them as an XML file to the security incident.
 
 **Related topics**  
 
 
-[Get AutoFocus Session Info Enrichment Flow](../../secops-integration-sir/secops-integration-palo-alto-autofocus/task/search-for-malicious-content.md#)
+[Get AutoFocus Session Info Enrichment Flow](search-for-malicious-content.md#)
 
-[Palo Alto Networks Firewall Launcher Workflow](../../security-operations-integrations/task/secops-integration-paloalto-firewall-launcher-workflow.md)
+[Palo Alto Networks Firewall Launcher Workflow](secops-integration-paloalto-firewall-launcher-workflow.md)
 
-[Get Log Data Flow](../../secops-integration-sir/secops-integration-palo-alto-firewall/task/get-threat-log-data.md#)
+[Get Log Data Flow](get-threat-log-data.md#)
 
-[Get WildFire Data Enrichment Flow](../../secops-integration-sir/secops-integration-palo-alto-wildfire/task/enrich-wildfire-data.md#)
+[Get WildFire Data Enrichment Flow](enrich-wildfire-data.md#)
 

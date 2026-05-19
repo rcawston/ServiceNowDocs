@@ -13,7 +13,7 @@ breadcrumb: [Use Customer Service Portal, Customer communication, Use, Customer 
 
 The self-registration feature enables new customer contacts to submit registration requests through the customer portal.
 
-A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [Approve a change request, or registration request](../task/approve-request-from-cust-portal.md).
+A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [Approve a change request, or registration request](approve-request-from-cust-portal.md).
 
 If an account has multiple customer administrators, they all receive the registration request, but only one approval is necessary.
 

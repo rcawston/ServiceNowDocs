@@ -48,5 +48,5 @@ The Search Action Configurations related list contains all the available Search 
     ![Search actions highlighted in the search result preview window.](../image/search-actions-2.png)
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

@@ -64,8 +64,8 @@ Steps
 
     **Note:** When a confirmed plan exists, the name of the dialog box is Override Selection rather than Confirm.
 
-    -   If the [project property](../../project-management/reference/r_InstalledWithProjectManagement.md) **Create project\(s\) on confirming demands from portfolio workbench** is set to false, you can choose to approve all the selected demands after the save by selecting **Approve all selected demands \(if not approved already\)**.
-    -   If the [project property](../../project-management/reference/r_InstalledWithProjectManagement.md) **Create project\(s\) on confirming demands from portfolio workbench** is set to true, you can choose to convert the selected demands to projects after the save by selecting **Convert all the selected demands to projects**.
+    -   If the [project property](../project-management/r_InstalledWithProjectManagement.md) **Create project\(s\) on confirming demands from portfolio workbench** is set to false, you can choose to approve all the selected demands after the save by selecting **Approve all selected demands \(if not approved already\)**.
+    -   If the [project property](../project-management/r_InstalledWithProjectManagement.md) **Create project\(s\) on confirming demands from portfolio workbench** is set to true, you can choose to convert the selected demands to projects after the save by selecting **Convert all the selected demands to projects**.
     -   Confirm the resources for selected demands and projects by selecting **Confirm resources for selected demands or projects**.
     -   If the confirmed and allocated resource plans associated with the demands and projects that are newly unselected do not have any actual hours associated with them, then select **Unconfirm the resources for the unselected demands and projects \(only those resources where there is no actual hours/cost captured will be unconfirmed\)** to change the state of such resource plans to requested. If the confirmed and allocated resource plans have actuals associated with them, a notification is send to the project or demand managers specifying that they need to manually release such resources.
     -   Delete all the unconfirmed working scenarios after confirmation of the selected scenario by selecting **Delete all working scenarios**. This option is selected by default.
@@ -76,5 +76,5 @@ Steps
 
 Budget is allocated to selected demands and projects. The remaining demands and projects are removed from execution. However, resources already confirmed for the unselected demands and projects are not removed automatically.
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](portfolio-planning-overview.md)
 

@@ -60,14 +60,14 @@ If the state is **Validation Failed**, you must resolve all issues identified du
 -   **[Off-board a Service Exchange consumer](service-bridge-v2-offboard-consumer.md)**  
 Off-board an onboarded consumer and remove all related records.
 
-**Parent Topic:**[Using Service Exchange for providers](../concept/service-bridge-v2-administer.md)
+**Parent Topic:**[Using Service Exchange for providers](service-bridge-v2-administer.md)
 
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](se-se-center.md)
 
-[Instance scan checks](../concept/service-bridge-v2-scan-checks.md)
+[Instance scan checks](service-bridge-v2-scan-checks.md)
 
 [Connect to a provider](service-bridge-v2-register.md)
 

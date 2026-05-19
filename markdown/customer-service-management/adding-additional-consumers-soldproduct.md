@@ -71,7 +71,7 @@ Responsibility
 
 </td><td>
 
-Access level to sold product and related information.Additional consumer with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_consumer role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md).
+Access level to sold product and related information.Additional consumer with Authorized Representative responsibility requires the sn\_install\_base.sold\_product\_authorized\_consumer role to get access to associated sold product and related entities. For details, see [Roles installed with customer access management](r_rolesinstalledwithcustaccessmgmt.md).
 
  **Note:** If the **Responsibility** field is empty, consumers can’t access the sold product and associated case.
 

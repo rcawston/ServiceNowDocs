@@ -32,7 +32,7 @@ Tangible/physical and software CIs are managed using the tangible/physical life-
     When one of the service instances is retired, the database service and host cannot be retired. All other service instances still depend on the database service that is running on the host.
 
 
-See [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+See [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
-**Parent Topic:**[Life cycle of tangible/physical CIs](../concept/csdm-lifecycle-hardware.md)
+**Parent Topic:**[Life cycle of tangible/physical CIs](csdm-lifecycle-hardware.md)
 

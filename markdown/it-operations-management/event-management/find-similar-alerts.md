@@ -50,5 +50,5 @@ Save time in resolving the current alert by reviewing how similar alerts were re
     You can modify the value of the threshold by setting the `evt_mgmt.similarity_use_threshold` property.
 
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](alert-similarity.md)
 

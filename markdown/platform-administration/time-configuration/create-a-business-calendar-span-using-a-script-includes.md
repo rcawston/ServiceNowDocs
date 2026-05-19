@@ -46,7 +46,7 @@ Role required: business\_calendar\_admin
 
 A business calendar span script includes is created. The year is appended to the beginning of the display name from the `longName` field.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](business-calendars.md)
 
 **Related topics**  
 

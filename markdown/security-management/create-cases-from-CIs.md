@@ -55,7 +55,7 @@ You need to navigate to the configuration items you want to use to create a case
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[Configuration items in cases](../concept/cases-from-cis.md)
+**Parent Topic:**[Configuration items in cases](cases-from-cis.md)
 
 **Related topics**  
 

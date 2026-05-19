@@ -23,9 +23,9 @@ Scheduling multiple appointments, the requesters and the agents can maintain the
 
 **Implementation**
 
--   **Administrators:** The administrators can decide and configure the maximum number of appointments a requester can book for a particular location. For example, at Santa Clara tech lounge location, set up the maximum number of appointments as 2. The requester can only schedule two appointments in advance. If maximum number of appointments per user is changed or modified, existing appointments are not affected. The change is applied to all future appointment bookings. To configure and set the maximum number of appointments at a location, see [Create or modify Walk-up Experience locations](../task/configure-walkup-location.md).
--   **Agents:**To book a walk-up appointment on behalf of the requesters when incident resolution requires requesters for a follow-up visit, see [Create an appointment through incident](../task/walkup-create-appointment-through-incident.md)
--   **Requesters:**To book multiple appointments and plan walk-up visits in advance, see [Plan your walk-up experience visit with Employee Center](../task/plan-your-visit.md).
+-   **Administrators:** The administrators can decide and configure the maximum number of appointments a requester can book for a particular location. For example, at Santa Clara tech lounge location, set up the maximum number of appointments as 2. The requester can only schedule two appointments in advance. If maximum number of appointments per user is changed or modified, existing appointments are not affected. The change is applied to all future appointment bookings. To configure and set the maximum number of appointments at a location, see [Create or modify Walk-up Experience locations](configure-walkup-location.md).
+-   **Agents:**To book a walk-up appointment on behalf of the requesters when incident resolution requires requesters for a follow-up visit, see [Create an appointment through incident](walkup-create-appointment-through-incident.md)
+-   **Requesters:**To book multiple appointments and plan walk-up visits in advance, see [Plan your walk-up experience visit with Employee Center](plan-your-visit.md).
 
 **Parent Topic:**[Walk-up Experience appointment booking administration](walkup-appointment-administration.md)
 

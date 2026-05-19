@@ -56,7 +56,7 @@ The Dashboard permissions scenarios table uses these abbreviations:
 -   DG = Dashboard Group
 -   RTR = Restrict to Roles
 
-    For more information, see [Restrict responsive dashboard access to specific roles](../../dashboards/task/restrict-dashboard-access-to-certain-roles.md).
+    For more information, see [Restrict responsive dashboard access to specific roles](restrict-dashboard-access-to-certain-roles.md).
 
 -   X = Unspecified
 

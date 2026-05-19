@@ -49,7 +49,7 @@ now\_assist\_explorer\_admin
 
 </td><td>
 
-Can access and manage all explorations on the instance. Can control the visibility of AI Data Explorer in workspaces. Can view logs and manage tables in the semantic data layer \(inherited from sn\_query\_gen\_admin\). For more information, see [Query Generation logs](query-generation-logs.md) and [Add a table to the semantic data layer](../task/add-table-semantic-layer.md#).
+Can access and manage all explorations on the instance. Can control the visibility of AI Data Explorer in workspaces. Can view logs and manage tables in the semantic data layer \(inherited from sn\_query\_gen\_admin\). For more information, see [Query Generation logs](query-generation-logs.md) and [Add a table to the semantic data layer](add-table-semantic-layer.md#).
 
 </td><td>
 
@@ -129,5 +129,5 @@ PAAI Canvas Workspace Config\[paai\_canvas\_workspace\_config\]
 Workspaces/experiences for which links from data visualizations to AI Data Explorer are turned off.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Data Explorer reference](../concept/now-assist-explorer-reference.md)
+</table>**Parent Topic:**[AI Data Explorer reference](now-assist-explorer-reference.md)
 

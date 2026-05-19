@@ -33,14 +33,14 @@ Before installing the ODBC driver, create an ODBC user account, assign the odbc 
 Review setup requirements, download the ODBC driver installer, and install the ODBC driver to a computer.
 -   **[Configuring the ODBC driver](configuring-odbc.md)**  
 After installing the ODBC driver, configure it to connect to your ServiceNow instance and to communicate through a proxy server, if applicable, and set properties to control ODBC behavior.
--   **[Test the ODBC driver](../task/t_TestingTheODBCDriver.md)**  
+-   **[Test the ODBC driver](t_TestingTheODBCDriver.md)**  
 After configuring the ODBC driver, test that the driver can connect to the base instance as the ODBC user and can query data from a target table.
--   **[ODBC behavior](../reference/r_ODBCBehavior.md)**  
+-   **[ODBC behavior](r_ODBCBehavior.md)**  
 After testing the ODBC driver, you can use it to query your instance database from a variety of client applications.
--   **[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)**  
+-   **[ODBC and client applications](r_ODBCAndClientApplications.md)**  
 See the following pages for examples of how to use the ODBC driver to create data sources from other applications.
 -   **[Domain separation and ODBC driver](domain-separation-odbc-driver.md)**  
 This is an overview of domain separation and ODBC drivers.Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](additional-integration-resources.md)
 

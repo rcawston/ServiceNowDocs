@@ -25,7 +25,7 @@ Healthcare locations are the physical or virtual places where care and operation
 
 The Healthcare Location \[sn\_hcls\_location\] table stores details of the location associated with your healthcare organization.
 
-For more information, see [Setting up healthcare locations and healthcare organizations](../concept/understanding-healthcare-locations-and-healthcare-organizations.md) and [Healthcare location table](../reference/hcls-healthcare-location-table.md).
+For more information, see [Setting up healthcare locations and healthcare organizations](understanding-healthcare-locations-and-healthcare-organizations.md) and [Healthcare location table](hcls-healthcare-location-table.md).
 
 ## Procedure
 

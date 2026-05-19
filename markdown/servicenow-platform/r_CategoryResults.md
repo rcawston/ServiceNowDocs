@@ -13,9 +13,9 @@ breadcrumb: [Quiz scorecards, View a quiz designer scorecard, View a quiz result
 
 The Category Results view is a stacked bar chart of responses to all questions in a category.
 
-Select the category to display from the choice list above the chart. Category results are only calculated for [scored questions](../task/t_ConfigureAScoredQuestion.md)
+Select the category to display from the choice list above the chart. Category results are only calculated for [scored questions](t_ConfigureAScoredQuestion.md)
 
-This view displays responses that use the following [data types](../concept/c_QuizDesigner.md):
+This view displays responses that use the following [data types](c_QuizDesigner.md):
 
 -   Checkbox
 -   Choice
@@ -24,7 +24,7 @@ This view displays responses that use the following [data types](../concept/c_Qu
 -   Template
 -   Yes/No
 
-**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [Quiz designer](../concept/c_QuizDesigner.md).
+**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [Quiz designer](c_QuizDesigner.md).
 
 ![Quiz category results.](../images/QuizScorecardCategoryResults.png "Quiz category results")
 
@@ -32,5 +32,5 @@ To view details about a specific response to a question, point to the colored se
 
 ![Quick category result details.](../images/QuizScorecardResultDetail.png "Quiz category result details")
 
-**Parent Topic:**[Quiz scorecards](../concept/c_QuizScorecards.md)
+**Parent Topic:**[Quiz scorecards](c_QuizScorecards.md)
 

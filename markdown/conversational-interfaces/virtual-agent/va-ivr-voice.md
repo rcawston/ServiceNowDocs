@@ -27,7 +27,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Install Conversational IVR with Amazon Connect.](../task/install-va-ivr.md)
+[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Install Conversational IVR with Amazon Connect.](install-va-ivr.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **[Exploring Conversational IVR with Amazon Connect](exploring-conv-ivr-amazon-connect.md)**  
 Use this application to build an integration with Amazon Connect. This allows your users to initiate an IVR \(Interactive Voice Response\) conversation with Virtual Agent. This integration also allows the user to connect with an agent using Advanced Work Assignment \(AWA\) over SoftPhone.
--   **[Install Conversational IVR with Amazon Connect](../task/install-va-ivr.md)**  
+-   **[Install Conversational IVR with Amazon Connect](install-va-ivr.md)**  
 Install Conversational IVR with Amazon Connect application, to use interactive voice response \(IVR\) with Virtual Agent.
 -   **[Configuring Conversational IVR with Amazon Connect](configuring-ci-ivr-amazon-connect.md)**  
 Install and configure the Conversational Integration with Amazon Connect application to enable users to have a conversational voice response with Virtual Agent.

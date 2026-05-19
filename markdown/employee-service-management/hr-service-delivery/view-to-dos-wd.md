@@ -38,12 +38,12 @@ Role required: admin, sn\_hr\_workday.admin
     |Extension system|Option indicating the origin of the task, that is Workday.|
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday](../concept/config-hrsd-int-workday.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday](config-hrsd-int-workday.md)
 
 **Related topics**  
 
 
-[Use transform maps](../reference/transform-maps-w.md)
+[Use transform maps](transform-maps-w.md)
 
 [View job tracker details from Workday](w-job-tracker.md)
 

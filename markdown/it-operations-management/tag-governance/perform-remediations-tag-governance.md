@@ -47,7 +47,7 @@ Based on the tag policies that you create, you can preview remediation flows and
 
 5.  On the Tag Remediation Keys related list, select **New** to create a tag remediation key.
 
-    The fields on the Tag Remediation Key form are described in [Tag Remediation Key form](../reference/tag-gov-tag-remediation-key-form.md).
+    The fields on the Tag Remediation Key form are described in [Tag Remediation Key form](tag-gov-tag-remediation-key-form.md).
 
 6.  Select **Submit**.
 

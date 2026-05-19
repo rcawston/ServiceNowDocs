@@ -83,5 +83,5 @@ The title is visible in the user interface \(UI\). A helpful title provides info
 Select the criteria that must meet to have access to this talking point.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+</table>**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

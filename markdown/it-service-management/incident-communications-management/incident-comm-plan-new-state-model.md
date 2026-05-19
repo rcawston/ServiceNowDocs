@@ -30,5 +30,5 @@ The following two properties are responsible for different actions that take pla
 
 **Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the Incident Communications Management plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
 
-For more information on the old Incident Communications Plan state model, see [Incident communication plan state model \(old\)](../reference/r_IncidentAlertLifeCycle.md).
+For more information on the old Incident Communications Plan state model, see [Incident communication plan state model \(old\)](r_IncidentAlertLifeCycle.md).
 

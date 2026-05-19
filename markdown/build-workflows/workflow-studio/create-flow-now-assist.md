@@ -174,7 +174,7 @@ Priority level at which you want the system to run this flow by default. Options
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](flow-priority.md).
 
 </td></tr></tbody>
 </table>6.  Select the **Try an example** option to insert a valid example of flow directions.

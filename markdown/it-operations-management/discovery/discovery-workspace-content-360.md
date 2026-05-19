@@ -32,7 +32,7 @@ To access the Discovery Admin Workspace Content 360 page, navigate to **Workspac
     -   Add suggestions to the Configuration Management Database \(CMDB\) the next time Discovery runs.
     The AI-suggested application fingerprints widget doesn't refresh automatically. To ensure you're viewing the most up-to-date information, refresh the page manually.
 
-    For more information about discovery based on application fingerprints, see [Discover applications based on fingerprints](../task/discover-application-based-process.md) and [Discover applications using application fingerprints or ITOM Content Service](../task/discover-application-fingerprints-Cservice.md).
+    For more information about discovery based on application fingerprints, see [Discover applications based on fingerprints](discover-application-based-process.md) and [Discover applications using application fingerprints or ITOM Content Service](discover-application-fingerprints-Cservice.md).
 
 -   **Application CIs discovered**
 
@@ -48,7 +48,7 @@ To access the Discovery Admin Workspace Content 360 page, navigate to **Workspac
     -   Discovers a higher number of products by using AI capabilities that cluster and classify running application processes.
     On the latest version of Discovery Admin Workspace, starting from Xanadu instances, the Content service suggestions widget refreshes automatically and displays the most up-to-date information. This is indicated by the real time icon \(![Real time icon](../image/real-time-icon-content-service-suggestions.png)\) that appears next to the widget name.
 
-    To learn more about ITOM Content Service, see [ITOM Content Service](discovery-content-services.md).
+    To learn more about ITOM Content Service, see [ITOM Content Service](../itom-visibility/discovery-content-services.md).
 
     **Sharing data on ITOM Content Service**
 
@@ -56,7 +56,7 @@ To access the Discovery Admin Workspace Content 360 page, navigate to **Workspac
 
     Starting with ITOM Content Service version 1.6.2 and Discovery Admin Workspace version 1.11.0, you can also opt in to share Service Info data of mapped candidates
 
-    For more information, see [Share data on ITOM Content Service](../task/share-data-itom-content-service.md).
+    For more information, see [Share data on ITOM Content Service](../itom-visibility/share-data-itom-content-service.md).
 
 
 ## Prerequisites

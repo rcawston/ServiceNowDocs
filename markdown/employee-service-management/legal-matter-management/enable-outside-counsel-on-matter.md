@@ -55,5 +55,5 @@ While working on matters, you may want to engage with outside counsel to get add
 
 The **Add Outside Counsel for Legal Tracker** button is available in the **Outside Counsel** tab of a matter. Users with the matter fulfiller role and access to update matters can submit Outside Counsel Engagement for Legal Tracker. This option is applicable only for matter and not for requests.
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](configurations-for-legal-tracker-integration.md)
 

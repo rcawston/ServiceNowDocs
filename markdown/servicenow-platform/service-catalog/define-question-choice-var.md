@@ -31,7 +31,7 @@ Some variable types present the user with a list of choices. For example, a mult
 
 3.  Enter the question choice details in **Question Choice** form and click **Submit** to save the record.
 
-    -   **Price** and **Recurring price**: variables can affect the item [price](../concept/c_ServiceCatalogVariablePricing.md#) and recurring price \(if used\).
+    -   **Price** and **Recurring price**: variables can affect the item [price](c_ServiceCatalogVariablePricing.md#) and recurring price \(if used\).
     -   **Order**: the number defining the order in which the price appears when displayed.
     -   **Question**: the actual question being asked for that variable.
     -   **Text**: the choice presented to the user.
@@ -49,5 +49,5 @@ Some variable types present the user with a list of choices. For example, a mult
 
 [Define help information for a service catalog variable](t_DefineHelpInformation.md)
 
-[Service Catalog variable attributes](../reference/variable-attributes.md)
+[Service Catalog variable attributes](variable-attributes.md)
 

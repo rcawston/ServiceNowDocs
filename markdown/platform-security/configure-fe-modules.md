@@ -21,7 +21,7 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
-2.  Select the module you want to configure. To create a new module, see [Create cryptographic module for Field Encryption](../../key-management-framework/task/create-PE-cryptographic-module.md).
+2.  Select the module you want to configure. To create a new module, see [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md).
 
 3.  In the Module Overview fill out the fields as shown here.
 
@@ -89,5 +89,5 @@ Defines which encryption scheme will be used to encrypt fields associated with t
 
 Configure the purpose, algorithm, key length, mode, and origin of your encryption key in [Cryptographic specifications for Field Encryption](configure-fe-crypto-specs.md).
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

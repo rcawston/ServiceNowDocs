@@ -36,5 +36,5 @@ To connect your ServiceNow instance to your Microsoft 365 tenant and to Authoriz
     Upon successful authorization, the app status is displayed as Installed.
 
 
-**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](../concept/setup-meeting-extensibility-multi-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](setup-meeting-extensibility-multi-tenant.md)
 

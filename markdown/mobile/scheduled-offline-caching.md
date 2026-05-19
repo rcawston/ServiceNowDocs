@@ -93,7 +93,7 @@ glide.sg.offline.attachment.max\_total\_bytes
 Determines the maximum size allocated for all attachments in a cache. Value is represented in Megabytes \(MB\). The maximum value is 2048 MB.
 
 </td></tr></tbody>
-</table>For information on more offline related system properties, see, [Configure offline mode behavior](../task/sg-configure-offline-mode.md).
+</table>For information on more offline related system properties, see, [Configure offline mode behavior](sg-configure-offline-mode.md).
 
 **Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

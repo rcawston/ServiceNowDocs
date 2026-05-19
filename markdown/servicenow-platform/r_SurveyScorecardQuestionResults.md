@@ -53,7 +53,7 @@ Now if a second user submits in December month of 2023, which falls under same Q
 
 ![Survey scorecard question results - pie chart](../image/SurveyScorecardQuestionPie.png "Survey scorecard question results - pie chart")
 
-**Parent Topic:**[View a survey scorecard](../task/t_ViewAScorecard.md)
+**Parent Topic:**[View a survey scorecard](t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -64,5 +64,5 @@ Now if a second user submits in December month of 2023, which falls under same Q
 
 [Survey scorecard history](r_SurveyScorecardHistory.md)
 
-[Export a survey scorecard as an image](../task/t_ExportAScorecardAsAnImage.md)
+[Export a survey scorecard as an image](t_ExportAScorecardAsAnImage.md)
 

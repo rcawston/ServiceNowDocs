@@ -46,12 +46,12 @@ On-demand generation of indicator scores makes sure that the assessment reflects
     This action doesn’t update the existing application indicator scores but deletes them and generates new scores.
 
 
-**Parent Topic:**[Working with indicators](../../concept/eaw-concept/eaw-manage-indicators.md)
+**Parent Topic:**[Working with indicators](eaw-manage-indicators.md)
 
 **Related topics**  
 
 
-[Manage indicators](../../concept/eaw-concept/eaw-configure-indicators.md)
+[Manage indicators](eaw-configure-indicators.md)
 
 [Add or edit an application indicator](eaw-create-indicator.md)
 

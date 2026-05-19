@@ -29,5 +29,5 @@ This process describes the use of probes, which are active on your instance if y
     -   \[Linux\] Searching for the parent process that started the WebLogic server \(only viable if the weblogic jvm was started via the `startWeblogic.sh` or related custom script and not the init process\).
 4.  If there are associated web applications found in the WebLogic `config.xml` file, the Windows – Weblogic find web.xml probe triggers for each application. This probe reads the WebLogic `web.xml` file for each web application and the sensor, and then populates additional information.
 
-**Parent Topic:**[WebLogic application server discovery](../concept/c_DataCollDiscoWebLogicServers.md)
+**Parent Topic:**[WebLogic application server discovery](c_DataCollDiscoWebLogicServers.md)
 

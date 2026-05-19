@@ -19,23 +19,23 @@ The ServiceNow® Regulatory Change Management application enables you to check u
 
 <table id="table_udy_skn_ntb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore the key features and benefits of Regulatory Change Management](../concept/what-is-rcm.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore the key features and benefits of Regulatory Change Management](what-is-rcm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Regulatory Change Management tasks](../concept/manage-admin-portal.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Regulatory Change Management tasks](manage-admin-portal.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Regulatory Change Management capabilities by integrating with other applications.](../concept/integrating-with-rcm.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Regulatory Change Management capabilities by integrating with other applications.](integrating-with-rcm.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use the Regulatory Change Management application in the classic user interface](../concept/using-rcm-classic-ui.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use the Regulatory Change Management application in the classic user interface](using-rcm-classic-ui.md)
 
 </td><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg) Manage the regulatory change tasks in Compliance Workspace](../../grc-rcm-workspace/concept/manage-tasks-compliance-workspace.md)
+[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg) Manage the regulatory change tasks in Compliance Workspace](manage-tasks-compliance-workspace.md)
 
 </td><td>
 

@@ -32,12 +32,12 @@ The normalization suggestion records are stored in the Normalization Suggestions
 
 3.  Select a normalization suggestion record to view its details.
 
-    For a detailed description of the normalization suggestion fields, see [Normalization suggestions for discovery models](../concept/normalization-suggestions.md).
+    For a detailed description of the normalization suggestion fields, see [Normalization suggestions for discovery models](normalization-suggestions.md).
 
 4.  Select **Accept** to update the discovery model with the correct values or click **Reject** to retain the manually normalized values.
 
-    **Note:** Only the sam\_admin role can accept or reject the normalization suggestions. For details on accepting or rejecting suggestions, see [Normalization suggestions for discovery models](../concept/normalization-suggestions.md).
+    **Note:** Only the sam\_admin role can accept or reject the normalization suggestions. For details on accepting or rejecting suggestions, see [Normalization suggestions for discovery models](normalization-suggestions.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 When Automated Test Framework retrieves a component, it determines which interactions it supports, such as whether it is a settable or clickable component. If the component is settable, Automated Test Framework determines the field type that can be set. If Automated Test Framework incorrectly determines your custom component's actions or field types, or your component contains multiple DOM elements that should be treated as one entity, explicitly set them using HTML attributes that are specific to Automated Test Framework.
 
-**Parent Topic:**[Custom UI test steps](../concept/custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](custom-ui-test-steps.md)
 
 ## Using sn-atf-clickable and sn-atf-settable attributes
 
@@ -55,7 +55,7 @@ Role required: admin
 
 3.  Use either the `sn-atf-clickable` or `sn-atf-settable` attribute.
 
-    -   `sn-atf-clickable`: If you added the `sn-atf-clickable` attribute, ATF clicks the component by sending an `sn-atf-click` event to the DOM element with the `sn-atf-clickable` attribute. You should add an event listener \(for example, using `addEventListener`\) to this DOM element, and implement your custom click logic for the component. You can interact with a custom clickable component using [Click Component](../reference/test-steps-custom-ui-category.md#) test step.
+    -   `sn-atf-clickable`: If you added the `sn-atf-clickable` attribute, ATF clicks the component by sending an `sn-atf-click` event to the DOM element with the `sn-atf-clickable` attribute. You should add an event listener \(for example, using `addEventListener`\) to this DOM element, and implement your custom click logic for the component. You can interact with a custom clickable component using [Click Component](test-steps-custom-ui-category.md#) test step.
 
 <table id="table_r5q_gry_cgb"><thead><tr><th>
 
@@ -82,7 +82,7 @@ sn-atf-component-value
 A string or JSON object that tells ATF the current value of this component
 
 </td></tr></tbody>
-</table>    -   `sn-atf-settable`: If you added the `sn-atf-settable` attribute, ATF sets the component value by sending an `sn-atf-setvalue` event to the DOM element with the `sn-atf-settable` attribute. You should add an event listener \(for example, using `addEventListener`\) to this DOM element, and implement your custom set value logic for the component. The value that needs to be set can be accessed with `event.detail.newvalue`. The `event` argument is passed to your event handler. You can interact with a custom settable component using [Set Component Values](../reference/test-steps-custom-ui-category.md#) test step.
+</table>    -   `sn-atf-settable`: If you added the `sn-atf-settable` attribute, ATF sets the component value by sending an `sn-atf-setvalue` event to the DOM element with the `sn-atf-settable` attribute. You should add an event listener \(for example, using `addEventListener`\) to this DOM element, and implement your custom set value logic for the component. The value that needs to be set can be accessed with `event.detail.newvalue`. The `event` argument is passed to your event handler. You can interact with a custom settable component using [Set Component Values](test-steps-custom-ui-category.md#) test step.
 
 <table id="table_kml_csy_cgb"><thead><tr><th>
 
@@ -167,7 +167,7 @@ Role required: admin
 
 ### About this task
 
-Test designers can manually specify the test actions available for a custom component by writing a custom JavaScript object and assigning the component a `sn-atf-class` attribute. Set the value of the attribute to the name of the JavaScript object containing the component test actions. Testable custom components must be either clickable or settable, and this classification determines the functions and properties your JavaScript object requires. See [Custom UI test steps](../concept/custom-ui-test-steps.md) for testable page component requirements.
+Test designers can manually specify the test actions available for a custom component by writing a custom JavaScript object and assigning the component a `sn-atf-class` attribute. Set the value of the attribute to the name of the JavaScript object containing the component test actions. Testable custom components must be either clickable or settable, and this classification determines the functions and properties your JavaScript object requires. See [Custom UI test steps](custom-ui-test-steps.md) for testable page component requirements.
 
 ### Procedure
 

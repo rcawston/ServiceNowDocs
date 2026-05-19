@@ -38,5 +38,5 @@ The encryption proxy running on Linux operates as a single process. You can end 
 4.  Delete the files in the distribution folder.
 
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

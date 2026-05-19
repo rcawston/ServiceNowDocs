@@ -15,7 +15,7 @@ Secure your ServiceNow apps.
 
 <table id="table_fck_nq2_2vb" class="nav-card"><tbody><tr><td>
 
-[App Engine Studio roles and permissions ![App Engine Studio roles and permissions.](../image/icon-roles.png) Control who is permitted to use or edit your apps.](../../app-engine-studio/concept/add-security.md)
+[App Engine Studio roles and permissions ![App Engine Studio roles and permissions.](../image/icon-roles.png) Control who is permitted to use or edit your apps.](app-engine-studio/add-security.md)
 
 </td><td>
 

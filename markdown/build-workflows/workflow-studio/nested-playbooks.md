@@ -41,6 +41,6 @@ When building child playbooks they must be of the Standalone execution type. Thi
 
 Building nested playbooks is a two-part process:
 
-1.  Build a child playbook that can be nested in a parent playbook. For information about this step, see [Create a nestable child playbook](../task/create-nestable-child-playbook.md).
-2.  Build a parent playbook that can host the child playbook. For more information about this step, see [Create a parent playbook to host a nestable child playbook](../task/create-parent-playbook.md).
+1.  Build a child playbook that can be nested in a parent playbook. For information about this step, see [Create a nestable child playbook](create-nestable-child-playbook.md).
+2.  Build a parent playbook that can host the child playbook. For more information about this step, see [Create a parent playbook to host a nestable child playbook](create-parent-playbook.md).
 

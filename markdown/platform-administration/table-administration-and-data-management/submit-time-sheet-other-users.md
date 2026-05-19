@@ -38,7 +38,7 @@ Role required: timecard\_approver
 
 ## Result
 
--   The time sheet of the selected user moves to the Submitted state. The [time sheet policy](../concept/time-sheet-policies.md) assigned to the time card user is used for validation when you submit the time sheet.
+-   The time sheet of the selected user moves to the Submitted state. The [time sheet policy](time-sheet-policies.md) assigned to the time card user is used for validation when you submit the time sheet.
 -   All the time cards associated with the time sheet are also submitted automatically and move to the Submitted state.
 -   The **Approve** and **Reject** buttons appear in the Time Sheet section. The two buttons appear only for a user manager.
 
@@ -46,7 +46,7 @@ Role required: timecard\_approver
 
 Once you have submitted the time sheet for your resource, you can click **Approve** or **Reject** to approve or reject it. Only the time cards that are routed to the user manager, are approved or rejected. The routing for approval happens based on the **Non-project time approver** and **Project time approver** fields in the time sheet policy of the time card user.
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 
 **Related topics**  
 

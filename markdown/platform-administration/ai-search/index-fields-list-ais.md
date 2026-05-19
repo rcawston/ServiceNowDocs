@@ -171,5 +171,5 @@ The following AI Search index fields appear on all records indexed from ServiceN
 -   sys\_id
 -   table
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

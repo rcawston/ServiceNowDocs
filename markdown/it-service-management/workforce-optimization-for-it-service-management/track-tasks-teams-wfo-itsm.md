@@ -17,7 +17,7 @@ Plan your teams' work and assign work items such as incidents, problems, change 
 
 ## Before you begin
 
-**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for ITSM reference](../reference/work-scheduler-wfo-itsm-reference.md).
+**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for ITSM reference](work-scheduler-wfo-itsm-reference.md).
 
 Role required: sn\_wfo\_work\_sched.manager
 
@@ -113,5 +113,5 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
     ![Work Scheduler screen](../image/work-scheduler-ui.png)
 
 
-**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](../concept/work-scheduler-wfo-itsm.md)
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](work-scheduler-wfo-itsm.md)
 

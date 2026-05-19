@@ -111,5 +111,5 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
 15. To align the map back on the home node, select the **Align to home node** ![](../image/align-home-node.png) icon in the control panel.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

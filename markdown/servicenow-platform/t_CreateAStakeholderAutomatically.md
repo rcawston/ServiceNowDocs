@@ -48,12 +48,12 @@ If you associate a user to the category, the system makes the resulting category
 9.  Delete stakeholders as needed.
 
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)
 
 [Create a category user](t_CreateACategoryUser.md)
 

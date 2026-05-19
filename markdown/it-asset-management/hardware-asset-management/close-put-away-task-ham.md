@@ -81,5 +81,5 @@ Description
 -   Closed tasks aren’t displayed in the Open put away tasks list.
 -   The task closure is captured in the **Activity** tab. The name of the user who closed the task is shown in the work notes.
 
-**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 

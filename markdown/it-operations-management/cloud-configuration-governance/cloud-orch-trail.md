@@ -188,7 +188,7 @@ You can configure the Cloud Orchestration Trail form to show the **Step** field 
 |Submit Form|Catalog Item|Catalog Item Request|
 |Validate Inputs|BP DSL Validator|Cloud Orchestration|
 
-See [Use Cloud Root Cause Analysis reports](../task/use-cloud-root-call-analysis.md) for instructions on how to access reports related to the Cloud Orchestration Trail.
+See [Use Cloud Root Cause Analysis reports](use-cloud-root-call-analysis.md) for instructions on how to access reports related to the Cloud Orchestration Trail.
 
 **Related topics**  
 

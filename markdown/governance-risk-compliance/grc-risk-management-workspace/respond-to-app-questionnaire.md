@@ -44,5 +44,5 @@ The state of the risk identification record moves from the Information Gathering
 
 The IT Risk Manager can review the responses and can either send the questionnaire back or accept the responses.
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](../concept/risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](risk-and-apm-better-together.md)
 

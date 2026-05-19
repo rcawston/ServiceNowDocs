@@ -84,7 +84,7 @@ Key life-cycle state
 
 </td><td>
 
-See [Key Management Framework key life-cycle states](../../key-management-framework/reference/key-life-cycle-states.md) for definitions.
+See [Key Management Framework key life-cycle states](../platform-encryption/key-life-cycle-states.md) for definitions.
 
 </td></tr><tr><td>
 
@@ -141,5 +141,5 @@ Request step status
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Encryption with Key Management](../concept/dare-overview.md)
+</table>**Parent Topic:**[Cloud Encryption with Key Management](dare-overview.md)
 

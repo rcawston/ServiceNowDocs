@@ -15,7 +15,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 Custom interactive filters are a fallback for use when standard interactive filters do not provide certain functionality.
 
-**Note:** The exposed [DashboardMessageHandler](../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#) API for custom interactive filters is limited and does not provide parity with standard interactive filters. The API does not support these features.
+**Note:** The exposed [DashboardMessageHandler](c_DashboardMessageHandler.md#) API for custom interactive filters is limited and does not provide parity with standard interactive filters. The API does not support these features.
 
 ## Unsupported custom interactive filter features
 
@@ -51,8 +51,8 @@ Custom interactive filters are a fallback for use when standard interactive filt
 
 -   **Custom interactive filters cannot be used in a breakdown dashboard**
 
-    On breakdown dashboards, the breakdown itself is used to filter all Performance Analytics widget data. For more information, see [Using breakdowns on dashboards](../../performance-analytics/concept/c_SpecialDashboards.md).
+    On breakdown dashboards, the breakdown itself is used to filter all Performance Analytics widget data. For more information, see [Using breakdowns on dashboards](../performance-analytics/c_SpecialDashboards.md).
 
 
-**Parent Topic:**[Custom interactive filters](../concept/c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](c_CustomPublishers.md)
 

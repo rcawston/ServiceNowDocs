@@ -56,11 +56,11 @@ Action
 
 </td><td>
 
-Refer to the [new issue creation form](../../grc-operational-res-ws/reference/create-new-issue-opres-ws.md).
+Refer to the [new issue creation form](../create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

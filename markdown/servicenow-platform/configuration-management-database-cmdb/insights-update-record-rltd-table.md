@@ -38,12 +38,12 @@ You can see the full list of related tables and associated referenced fields in 
 5.  Specify applicable CMDB CI references and then select **Update**.
 
 
-**Parent Topic:**[CMDB Workspace store app](../concept/cmdb-workspace.md)
+**Parent Topic:**[CMDB Workspace store app](cmdb-workspace.md)
 
 **Related topics**  
 
 
-[Overview of CMDB](../concept/cnfig-mgmt-and-cmdb.md)
+[Overview of CMDB](cnfig-mgmt-and-cmdb.md)
 
-[Insights view in CMDB Workspace](../concept/cmdb-workspace-insights-view.md)
+[Insights view in CMDB Workspace](cmdb-workspace-insights-view.md)
 

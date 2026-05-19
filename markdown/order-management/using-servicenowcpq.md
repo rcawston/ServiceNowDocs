@@ -83,7 +83,7 @@ Icons that indicate the state of the configuration:-   Checkmark ![](../../../re
 -   Attention ![](../image/icon-attention.png) icon: Indicates that a required entry must be made. Select the icon for a description of the option or entry to be completed. To locate the required entry, review the selections for all the products in the bundle. The required entry is identified by an alert ![](../image/icon-alert-triangle.png) icon and message.
 
 </td></tr></tbody>
-</table>-   **[Add customizable products using CPQ Configurator](../task/add-products-with-cpq-config.md)**  
+</table>-   **[Add customizable products using CPQ Configurator](add-products-with-cpq-config.md)**  
 Use the CPQ Configurator to add configurable products to a Sales Customer Relationship Management transaction, for example an opportunity or quote.
 
 **Parent Topic:**[Using configure, price, quote applications](using-cpq.md)
@@ -91,5 +91,5 @@ Use the CPQ Configurator to add configurable products to a Sales Customer Relati
 **Related topics**  
 
 
-[Add customizable products using CPQ Configurator](../task/add-products-with-cpq-config.md)
+[Add customizable products using CPQ Configurator](add-products-with-cpq-config.md)
 

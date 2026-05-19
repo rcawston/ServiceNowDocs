@@ -21,7 +21,7 @@ Role required: None
 
 ## About this task
 
-For information on the various additional operations that are available for the application screens and elements, see [Additional options for application screens and elements in Universal App Connector](../reference/contextmenu-application-screens.md).
+For information on the various additional operations that are available for the application screens and elements, see [Additional options for application screens and elements in Universal App Connector](contextmenu-application-screens.md).
 
 ## Procedure
 
@@ -83,12 +83,12 @@ For information on the various additional operations that are available for the 
 
     For example, if you select a Java application screen or element, the Java connector methods are displayed in Object Explorer.
 
-    -   For more information on Java connector methods, see [Java connector methods](../reference/java-connector-methods.md).
-    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](../reference/connectors-chrome-methods.md).
+    -   For more information on Java connector methods, see [Java connector methods](java-connector-methods.md).
+    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](connectors-chrome-methods.md).
 
-    -   For more information on Windows connector methods, see [Windows Connector methods](../reference/connectors-windows-methods.md).
+    -   For more information on Windows connector methods, see [Windows Connector methods](connectors-windows-methods.md).
     -   If you have captured a web application screen and you want to execute a custom JavaScript on it, you can use the ExecuteJavascript method.
 
 
-**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+**Parent Topic:**[Universal app connector](universal-app-connector.md)
 

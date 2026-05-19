@@ -49,5 +49,5 @@ A task record, for example, problem or incident, has the following editable view
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](configuring-record-pages-sow-itsm.md)
 

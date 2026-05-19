@@ -53,7 +53,7 @@ Define the conditions that automatically trigger the CrowdStrike Falcon Insight 
 
     2.  In the **Alternate CI Trigger Field**, select an input field.
 
-        **Note:** For more information, see [Understand how trigger conditions work with a configuration item for a profile](../concept/define-trigger-conditions.md).
+        **Note:** For more information, see [Understand how trigger conditions work with a configuration item for a profile](define-trigger-conditions.md).
 
     **Tags**
 

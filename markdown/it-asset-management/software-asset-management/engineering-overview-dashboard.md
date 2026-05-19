@@ -216,5 +216,5 @@ You can filter the data in this tab by date, user, or user group.
 |Denials by Product|Engineering Application Denial \[samp\_eng\_app\_denial\]|The products that have been denied to users the most.|
 |Denials by License Server|Engineering Application Denial \[samp\_eng\_app\_denial\]|The license servers that have been denied licenses to products the most.|
 
-**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
+**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](software-asset-mgmt-content-pack.md)
 

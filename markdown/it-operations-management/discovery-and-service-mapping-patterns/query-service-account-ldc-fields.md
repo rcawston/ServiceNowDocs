@@ -22,7 +22,7 @@ Starting with the Discovery and Service Mapping Patterns version 1.30.2, you can
 
 ![Comparison between complex multi-table joins without the feature versus direct field access with the feature](../image/multi-joins-vs-direct-fields.png "Query process with and without field population")
 
-For information about enabling this feature, see [Enable direct field population for query performance](../task/populate-service-account-ldc-fields.md).
+For information about enabling this feature, see [Enable direct field population for query performance](populate-service-account-ldc-fields.md).
 
 ## Supported Cloud CI tables
 
@@ -59,21 +59,21 @@ The following virtual machine tables are referenced in the Virtual Machine Objec
 |Windows Server|cmdb\_ci\_win\_server|
 |Linux Server|cmdb\_ci\_linux\_server|
 
--   **[Enable direct field population for query performance](../task/populate-service-account-ldc-fields.md)**  
+-   **[Enable direct field population for query performance](populate-service-account-ldc-fields.md)**  
 Populate Service Account, Logical Datacenter, and Virtual Machine Object fields in configuration item \(CI\) tables to improve query performance.
 
 **Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Discover datacenters only for new cloud accounts](../task/discover-datacenter-only-new-account.md)
+**Previous topic:**[Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md)
 
-**Next topic:**[Enable direct field population for query performance](../task/populate-service-account-ldc-fields.md)
+**Next topic:**[Enable direct field population for query performance](populate-service-account-ldc-fields.md)
 
 **Related topics**  
 
 
 [Available cloud discovery patterns](available-patterns-cloud.md)
 
-[Linux discovery](../../discovery/reference/r_DataCollDiscoLinuxComputers.md)
+[Linux discovery](../itom-visibility/r_DataCollDiscoLinuxComputers.md)
 
-[Windows discovery](../../discovery/reference/r_DataCollDiscoWindowsComputers.md)
+[Windows discovery](../itom-visibility/r_DataCollDiscoWindowsComputers.md)
 

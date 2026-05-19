@@ -25,18 +25,18 @@ Finance Case Management sends emails in a predefined template and uses email act
 |A comment is added to the finance case.|User addressed in the comment|
 |A request for additional information is made.|Requester|
 
-**Parent Topic:**[Finance Case Management Reference](../reference/fin-case-mgmt-reference.md)
+**Parent Topic:**[Finance Case Management Reference](fin-case-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Create a finance case form](../reference/create-fin-inquiry-form.md)
+[Create a finance case form](create-fin-inquiry-form.md)
 
-[Create a finance task form](../reference/create-fin-task-form.md)
+[Create a finance task form](create-fin-task-form.md)
 
-[Interaction form](../reference/details-tab-fin-ops-interaction.md)
+[Interaction form](details-tab-fin-ops-interaction.md)
 
-[Create new interaction related record form](../reference/create-interaction-related-record-form.md)
+[Create new interaction related record form](create-interaction-related-record-form.md)
 
-[Create knowledge base article form](../reference/create-kb-form.md)
+[Create knowledge base article form](create-kb-form.md)
 

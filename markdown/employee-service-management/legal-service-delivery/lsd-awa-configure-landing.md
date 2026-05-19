@@ -17,11 +17,11 @@ Configure the Advanced Work Assignment for Legal Service Delivery.
 
 ## Configuration overview
 
--   **[Activate Advanced Work Assignment for Legal Service Delivery](../task/lsd-activate-awa.md)**
+-   **[Activate Advanced Work Assignment for Legal Service Delivery](lsd-activate-awa.md)**
 
     Activate the Advanced Work Assignment for Legal Service Delivery plugin \(sn\_lg\_awa\) for Legal Service Delivery if you have the admin role
 
--   **[Set up Advanced Work Assignment for Legal Service Delivery](../task/setup-awa-lsd.md)**
+-   **[Set up Advanced Work Assignment for Legal Service Delivery](setup-awa-lsd.md)**
 
     Configure various components, such as service channels, work item queues, and assignment rules that determine how a legal request should be routed to an agent.
 

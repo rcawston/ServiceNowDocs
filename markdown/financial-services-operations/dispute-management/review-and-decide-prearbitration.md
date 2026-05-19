@@ -19,7 +19,7 @@ Review second presentment for the chargeback and initiate pre-arbitration or arb
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -31,10 +31,10 @@ This task becomes active when the merchant proceeds with a second presentment af
     -   If the merchant responds, the task progresses to the next stage.
     -   If the merchant doesn't respond within the specified time frame, a response from Mastercard displays on your **Landing page** and according to which you can manually take an action on the disputed transaction.
 
-        **Note:** You can access this response from your **Landing Page** &gt; **Acquirer deadline expired tasks**. For more information, see [Dispute agent workspace](../concept/workspace-for-agent.md)
+        **Note:** You can access this response from your **Landing Page** &gt; **Acquirer deadline expired tasks**. For more information, see [Dispute agent workspace](workspace-for-agent.md)
 
 
-If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md).
 
 ## Procedure
 
@@ -73,7 +73,7 @@ If Card Data Security is installed and configured, **Attachments** in the contex
     **Note:**
 
     -   You must upload a single `.zip` file whenever you submit documents to Mastercard.
-    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 13. In the **Response outcome** field, select **Resolved** or **Unresolved**.
 
 <table id="choicetable_sc5_fy5_vfc"><thead><tr><th align="left" id="d55314e437">
@@ -134,7 +134,7 @@ Accept the chargeback response and resolve the dispute. The transaction moves to
 
 14. To reupload the document, delete and replace your attachment with one that meets Mastercard's requirements, then select **Upload document**.
 
-    For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 
 15. If you want to stop and withdraw the case for any reason, such as you've selected a wrong option, select **Withdraw case**.
 
@@ -150,5 +150,5 @@ Based on the option the dispute agent selects, the response received field chang
 -   **Pre-arbitration** - When a response is received from the merchant for the pre-arbitration, the **Pre arbitration response received** value is marked as **Yes**. You’ll be redirected to the next task [Review pre-arbitration response and escalate to arbitration](review-prearbitration-response-escalate-arbitration.md). If you don’t receive a response from the merchant, then the appropriate task is displayed based on the policy.
 -   **Arbitration** - When a response is received from the merchant, the **Arbitration response received** value is marked as **Yes**. You’ll be redirected to the next task [Review arbitration response](review-arbitration-response-mc.md). If you don’t receive a response from the merchant, then the appropriate task is displayed based on the policy.
 
-**Parent Topic:**[Chargeback in Mastercard transaction disputes](../concept/chargeback-stage-mastercard.md)
+**Parent Topic:**[Chargeback in Mastercard transaction disputes](chargeback-stage-mastercard.md)
 

@@ -18,7 +18,7 @@ With Card Data Security installed and configured, dispute agents can reveal mask
 
 ## Overview of tasks in Card Data Security
 
--   [Reveal a PAN in the workspace using Card Data Security](../task/reveal-a-pan-using-card-data-security.md)
+-   [Reveal a PAN in the workspace using Card Data Security](reveal-a-pan-using-card-data-security.md)
 
     Use the Card Data Security component to mask and reveal a PAN in the disputes workflow.
 

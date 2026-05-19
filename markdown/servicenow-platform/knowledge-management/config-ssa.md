@@ -55,7 +55,7 @@ Associate a period of time with an activity context that defines how long a syst
 -   **[Configure scheduled jobs for Self-Service Analytics](configure-scheduled-job-ssa.md)**  
 Schedule when to run the deflection configuration to generate the activities that match an activity pattern within an activity window.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 

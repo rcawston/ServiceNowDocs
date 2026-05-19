@@ -27,7 +27,7 @@ Delegate specific legal duties relating to your assigned legal requests, legal m
 
     -   The **My Delegates** list on the Granular Delegate \[sys\_granular\_delegate\] table must be active.
     -   The **My Delegates** list on the Delegate \[sys\_user\_delegate\] table must be inactive.
--   Delegate rules must be created by the administrator. For more information, see [Create delegation rules](../../employee-service-management/granular-delegation/task/create-delegation-rules.md).
+-   Delegate rules must be created by the administrator. For more information, see [Create delegation rules](../granular-delegation/create-delegation-rules.md).
 
 Role required: legal\_fulfiller
 
@@ -100,5 +100,5 @@ Setting the granular delegation has the following effects during the specified p
 -   The delegate can access and work on your assigned legal requests, legal matters, legal matter tasks, and approvals as per the assigned duties from the **Delegated to me** list.
 -   Both you and the delegate receive notifications related to activities done on legal requests, legal matters, matter tasks, and approvals.
 
-**Parent Topic:**[Delegation of legal duties and approvals](../concept/legal-services-delegation.md)
+**Parent Topic:**[Delegation of legal duties and approvals](legal-services-delegation.md)
 

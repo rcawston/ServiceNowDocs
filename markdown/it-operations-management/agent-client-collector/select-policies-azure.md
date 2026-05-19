@@ -27,7 +27,7 @@ Role required: agent\_client\_collector\_admin
 
 1.  Prepare and configure the proxy agent to be used by the policy.
 
-    For details on configuring a proxy agent, see [Using proxy agents in Agent Client Collector](../concept/proxy-agent.md).
+    For details on configuring a proxy agent, see [Using proxy agents in Agent Client Collector](proxy-agent.md).
 
 2.  Assign the credentials to the Azure policy.
 
@@ -35,7 +35,7 @@ Role required: agent\_client\_collector\_admin
 
     2.  Select the relevant policy.
 
-        For details on the policies that are available with the base system, see [Azure cloud metrics](../concept/azure-cloud-metrics.md).
+        For details on the policies that are available with the base system, see [Azure cloud metrics](azure-cloud-metrics.md).
 
     3.  Select the **Credentials** tab.
 
@@ -64,5 +64,5 @@ Role required: agent\_client\_collector\_admin
 8.  Republish the policy by selecting **Republish**.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

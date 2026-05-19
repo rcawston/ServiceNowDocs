@@ -149,5 +149,5 @@ Name of the MID Server or MID Cluster to use.
 
 [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md) with a **Connection type** of **Kafka**.
 
-**Parent Topic:**[Stream Connect Message Replication](../concept/stream-connect-message-replication.md)
+**Parent Topic:**[Stream Connect Message Replication](stream-connect-message-replication.md)
 

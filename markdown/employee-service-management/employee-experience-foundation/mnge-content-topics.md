@@ -103,5 +103,5 @@ Content updates are automatically synced when you enable the autosync system pro
 -   **[Check for updated content in categories](may-associate-updated-content-categories-topics.md)**  
 Track and manage the updated content in categories for better visibility, content maintenance, and performance.
 
-**Parent Topic:**[Taxonomy and connected content](../concept/track-new-content.md)
+**Parent Topic:**[Taxonomy and connected content](track-new-content.md)
 

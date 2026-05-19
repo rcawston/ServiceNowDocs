@@ -61,7 +61,7 @@ Active
 
 </td><td>
 
-Status of the neighborhood workplace location.The availability of a workplace location for any workplace-related activities is determined based on the status that is set. For more information, see [Change the status of a workplace location](change-active-status-of-workplace-location.md).
+Status of the neighborhood workplace location.The availability of a workplace location for any workplace-related activities is determined based on the status that is set. For more information, see [Change the status of a workplace location](../workplace-space-management/change-active-status-of-workplace-location.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Restricted
 
 </td><td>
 
-A private or restricted neighborhood.If an employee is assigned to the neighborhood by user assignment rule or is added manually \(on-demand basis\), the employee can reserve a space in the neighborhood. Otherwise, employees won’t see the neighborhoods. see [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).
+A private or restricted neighborhood.If an employee is assigned to the neighborhood by user assignment rule or is added manually \(on-demand basis\), the employee can reserve a space in the neighborhood. Otherwise, employees won’t see the neighborhoods. see [Location privacy settings and impact](../workplace-reservation-management/location-privacy-settings-and-impact.md).
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
@@ -77,5 +77,5 @@ A private or restricted neighborhood.If an employee is assigned to the neighborh
     A neighborhood is created.
 
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](neighborhoods.md)
 

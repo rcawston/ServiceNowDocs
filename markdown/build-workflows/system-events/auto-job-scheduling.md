@@ -149,5 +149,5 @@ Optional field to describe about this queue related information
     If any queue with your suggested queue name already exists in the manual jobs scheduling configuration, the configurations of the existing queue are retrieved. You can then validate and update them as required.
 
 
-**Parent Topic:**[Configuring System events](../concept/configuring-system-events.md)
+**Parent Topic:**[Configuring System events](configuring-system-events.md)
 

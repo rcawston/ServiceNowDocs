@@ -55,7 +55,7 @@ You need to navigate to the security incidents you want to use to create cases.
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[Security incidents in cases](../concept/case-in-sir.md)
+**Parent Topic:**[Security incidents in cases](case-in-sir.md)
 
 **Related topics**  
 

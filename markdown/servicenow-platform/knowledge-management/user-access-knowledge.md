@@ -179,7 +179,7 @@ false
 
 All users, including unauthenticated users, with at least one role can contribute to the knowledge base. If the Explicit Roles plugin \(com.glide.explicit\_roles\) is activated, users who have at least one role other than snc\_internal can contribute to the knowledge base.
 
- To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](../task/configure-unauthenticated-user.md).
+ To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](configure-unauthenticated-user.md).
 
 </td></tr></tbody>
 </table>When a user has contribute access to a knowledge base, the **glide.knowman.apply\_article\_read\_criteria** property is evaluated to determine contribute access to an article in the knowledge base, as explained in the following table.
@@ -219,7 +219,7 @@ false
 
 </td><td>
 
-All users, including unauthenticated users, have read access to the knowledge base and the article-level user criteria are further evaluated.To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](../task/configure-unauthenticated-user.md).
+All users, including unauthenticated users, have read access to the knowledge base and the article-level user criteria are further evaluated.To check knowledge bases accessible to unauthenticated users, use the User Criteria Diagnostics feature. For more information, see [Configure access to knowledge bases for unauthenticated users](configure-unauthenticated-user.md).
 
 </td></tr></tbody>
 </table>When a user has contribute access to a knowledge base, the **glide.knowman.apply\_article\_read\_criteria** property is evaluated to determine read access to an article in the knowledge base, as explained in the following table.
@@ -231,11 +231,11 @@ All users, including unauthenticated users, have read access to the knowledge ba
 
 **Important:** After you add user criteria, you can use the user criteria diagnostics feature to verify the access that users have to a knowledge base or a knowledge article. For more information, see [User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md).
 
--   **[Create user criteria for controlling access to knowledge bases and articles](../task/create-user-criteria-record-in-knowledge-management.md)**  
+-   **[Create user criteria for controlling access to knowledge bases and articles](create-user-criteria-record-in-knowledge-management.md)**  
 Control access to knowledge bases and articles by creating user criteria.
--   **[Control access at the knowledge base level through user criteria](../task/t_SelectUserCriteria.md)**  
+-   **[Control access at the knowledge base level through user criteria](t_SelectUserCriteria.md)**  
 You specify user criteria for a knowledge base to control which users are granted access to read and contribute knowledge articles to that knowledge base.
--   **[Control access at the knowledge article level through user criteria](../task/t_SelectUCArticle.md)**  
+-   **[Control access at the knowledge article level through user criteria](t_SelectUCArticle.md)**  
 You specify user criteria for a knowledge article to control which users are granted read access to the knowledge article.
 
 **Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
@@ -243,11 +243,11 @@ You specify user criteria for a knowledge article to control which users are gra
 **Related topics**  
 
 
-[Knowledge Management properties](../reference/r_KnowledgeProperties.md#)
+[Knowledge Management properties](r_KnowledgeProperties.md#)
 
 [Configuration tasks for knowledge managers](c_KnowledgeManager.md)
 
 [Knowledge Management FAQ](https://community.servicenow.com/community?id=community_article&sys_id=637ffc92db519490d82ffb24399619f3)
 
-[Create user criteria for controlling access to knowledge bases and articles](../task/create-user-criteria-record-in-knowledge-management.md)
+[Create user criteria for controlling access to knowledge bases and articles](create-user-criteria-record-in-knowledge-management.md)
 

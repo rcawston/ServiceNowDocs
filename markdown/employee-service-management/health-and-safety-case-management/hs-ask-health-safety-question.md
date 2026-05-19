@@ -48,5 +48,5 @@ Employees can also submit safety related questions from their mobile device usin
 
 -   The safety case is also listed in the Cases list on Health and Safety Workspace. A safety case manager \[sn\_hs\_cm.case\_manager\] can view all the filed questions and requests by navigating to the Health and Safety Workspace and selecting the cases icon \(![Health and safety cases icon.](../image/icon-hs-cases.png)\). For more information, see [Work on a Health and Safety case](hs-work-health-safety-case.md).
 
-**Parent Topic:**[Submitting Health and Safety cases](../concept/hs-submitting-health-safety-cases.md)
+**Parent Topic:**[Submitting Health and Safety cases](hs-submitting-health-safety-cases.md)
 

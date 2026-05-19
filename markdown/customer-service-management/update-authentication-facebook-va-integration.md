@@ -26,7 +26,7 @@ For information on integrating the Virtual Agent with Facebook Messenger and for
 
 ## About this task
 
-With this integration, you can get help using Virtual Agent chatbot conversations. For more information on getting help, see [Customer Service Virtual Agent conversations](../concept/csm-virtual-agent-chatbot.md) .
+With this integration, you can get help using Virtual Agent chatbot conversations. For more information on getting help, see [Customer Service Virtual Agent conversations](csm-virtual-agent-chatbot.md) .
 
 ## Procedure
 

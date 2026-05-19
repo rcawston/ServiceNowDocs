@@ -104,16 +104,16 @@ Availability Method
 
 </td><td>
 
-Use one of the methods to determine appointment availability for the service. You can choose the availability method depending on the Field Service Management configuration setting in the **Assignment method for tasks** field of [Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md). **Note:** The availability method setting for the service overrides the availability method setting in the application configuration unless **Appointment configuration method** is selected.
+Use one of the methods to determine appointment availability for the service. You can choose the availability method depending on the Field Service Management configuration setting in the **Assignment method for tasks** field of [Global domain configurations](../t_ConfigureFieldService.md). **Note:** The availability method setting for the service overrides the availability method setting in the application configuration unless **Appointment configuration method** is selected.
 
 The available methods are:-   **Number of appointments per slot**: Sets a fixed number of available appointments per time slot. Recommended if task assignment is manual.
 -   **Scripted**: Dynamically calculates availability based on Field Service Management settings. Recommended if auto-assignment or dynamic scheduling is used. This is the default setting.
--   **Based on capacity**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](../concept/assign-work-based-on-the-defined-capacity-.md)
+-   **Based on capacity**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](../workforce-optimization-for-field-service/assign-work-based-on-the-defined-capacity-.md)
 
 This option is available when the Task Table is selected as work\_order and Field Service Capacity and Reservations Management plugin is installed.
 
 -   **Appointment configuration method**: This is the default option. It calculates availability based on the availability method setting in the appointment booking application configuration.
-For more information on appointment availability methods, see [Learn about appointment availability settings](../reference/appt-booking-task-assignment.md).
+For more information on appointment availability methods, see [Learn about appointment availability settings](../appt-booking-task-assignment.md).
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ Appointment is mandatory
 
 </td><td>
 
-Enable this check box if it is mandatory that a customer create an appointment when requesting this service. -   If enabled, the **Appointment** field appears on the record producer and the user must select an available appointment on the [Select Appointment window](../reference/appt-booking-select-appt-window.md) before submitting the service request.
+Enable this check box if it is mandatory that a customer create an appointment when requesting this service. -   If enabled, the **Appointment** field appears on the record producer and the user must select an available appointment on the [Select Appointment window](../appointment-booking/appt-booking-select-appt-window.md) before submitting the service request.
 -   If disabled, the user can submit the service request without selecting an appointment.
 
 

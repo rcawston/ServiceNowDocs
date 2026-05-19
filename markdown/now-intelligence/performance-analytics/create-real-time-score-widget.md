@@ -22,13 +22,13 @@ To see the current score, use a real-time score visualization in a score widget.
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
 A real-time score visualization shows the current score and both the absolute and percentage change between this score and the score at the last previous scheduled data collection. The score is calculated when a dashboard user opens a dashboard that contains the widget. This visualization is similar to a **Chart** view in an Analytics Hub. You can also show a trend line of absolute or percentage changes in scores.
 
-For more information, see [Real-time scores](../concept/real-time-scores.md).
+For more information, see [Real-time scores](real-time-scores.md).
 
 **Warning:**
 
@@ -69,7 +69,7 @@ Breakdown and Element
 
 </td><td>
 
-Only the scores that match the specified element of this breakdown are shown. Select values for both **Breakdown** and **Element**. Otherwise, only scores that are not associated with any element of the breakdown are shown. **Note:** Instead of specifying an element for the first-level breakdown, you can specify an elements filter in the **Elements Settings** tab. Use elements filters for creating personal visualizations. For more information, see [Additional settings for time series widgets](../reference/optional-settings-ts-widgets.md#).
+Only the scores that match the specified element of this breakdown are shown. Select values for both **Breakdown** and **Element**. Otherwise, only scores that are not associated with any element of the breakdown are shown. **Note:** Instead of specifying an element for the first-level breakdown, you can specify an elements filter in the **Elements Settings** tab. Use elements filters for creating personal visualizations. For more information, see [Additional settings for time series widgets](optional-settings-ts-widgets.md#).
 
  **Important:** If the widget is for a formula indicator, all contributing indicators in the formula must support the breakdown. Otherwise an error message instead of a value appears in the widget on a dashboard.
 
@@ -116,7 +116,7 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 
 10. In the **Element Settings** tab, you can select an element filter instead of selecting a specific element in the **Element** field.
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](../concept/personalized-visuals.md#).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](personalized-visuals.md#).
 
 11. Click **Submit**.
 
@@ -128,11 +128,11 @@ To view the widget, add it to a dashboard or a portal.
 **Related topics**  
 
 
-[Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md)
+[Edit a responsive dashboard](t_EditADashboard.md)
 
-[Real-time scores](../concept/real-time-scores.md)
+[Real-time scores](real-time-scores.md)
 
-[Performance Analytics widgets on Service Portal](../concept/service-portal-pa-widget.md#)
+[Performance Analytics widgets on Service Portal](service-portal-pa-widget.md#)
 
 [Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
 

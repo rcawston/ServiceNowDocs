@@ -29,7 +29,7 @@ Workplace profile
 
 </td><td>
 
-Workplace profile record that the location must be assigned to. A workplace profile can have multiple location assignments.For more information about workplace profiles, see [Map designated workspaces to user profiles](../task/map-employees-to-existing-workplace-locations-wsd.md).
+Workplace profile record that the location must be assigned to. A workplace profile can have multiple location assignments.For more information about workplace profiles, see [Map designated workspaces to user profiles](map-employees-to-existing-workplace-locations-wsd.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Schedule plan
 
 </td><td>
 
-Schedule plan that you want to use to assign workplace locations to the profile. For more information about schedule plans, see [Schedule Planning](../../workplace-central/concept/schedule-planning.md).
+Schedule plan that you want to use to assign workplace locations to the profile. For more information about schedule plans, see [Schedule Planning](../workplace-space-management/schedule-planning.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Is primary
 
 </td><td>
 
-Option to specify if the assigned workplace location is the primary location for the profile. A workplace profile can only be assigned one primary location.For more information about setting a primary location, see [Set the primary location of a workplace profile](../task/set-prim-location-of-worplace-profile.md).
+Option to specify if the assigned workplace location is the primary location for the profile. A workplace profile can only be assigned one primary location.For more information about setting a primary location, see [Set the primary location of a workplace profile](set-prim-location-of-worplace-profile.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Source
 Source from which the location assignment record was created. This field is automatically generated and is only visible in the Workplace Profile Location Assignments related list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+</table>**Parent Topic:**[Workplace Core references](wsd-references.md)
 
 **Related topics**  
 

@@ -51,5 +51,5 @@ For example, consider a bar visualization that shows the Number of open problems
 
 ![Bar visualization configured so that of two metrics, one follows filters on a dashboard and one does not.](../../par-for-workspace/image/dv-follow-filters-per-metric.png)
 
-**Parent Topic:**[Create time series data visualizations](../task/create-dv-time-series-ac.md)
+**Parent Topic:**[Create time series data visualizations](create-dv-time-series-ac.md)
 

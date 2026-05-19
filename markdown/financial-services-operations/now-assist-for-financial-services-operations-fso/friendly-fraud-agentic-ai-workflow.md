@@ -49,7 +49,7 @@ The following tables list the agent that is used in the Help resolve friendly fr
 
 ## Resolving the friendly fraud dispute
 
-For more information on using the Help resolve friendly fraud disputes agentic workflow, see [Resolve friendly fraud by using agentic AI](../task/resolve-friendly-fraud-using-agentic-ai.md).
+For more information on using the Help resolve friendly fraud disputes agentic workflow, see [Resolve friendly fraud by using agentic AI](resolve-friendly-fraud-using-agentic-ai.md).
 
 **Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](using-ai-agent-use-cases-in-now-assist-for-fso.md)
 

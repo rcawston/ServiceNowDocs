@@ -27,15 +27,15 @@ Role required: sn\_risk.admin
 
 2.  Fill in the fields on the Risk Management Properties form.
 
-    See [Properties installed with Risk Management](../reference/r_PropInstallWRisk.md) for property descriptions.
+    See [Properties installed with Risk Management](r_PropInstallWRisk.md) for property descriptions.
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[Risk Management detailed setup](../concept/setup-risk-management.md)
+**Parent Topic:**[Risk Management detailed setup](setup-risk-management.md)
 
 **Related topics**  
 
 
-[Properties installed with Risk Management](../reference/r_PropInstallWRisk.md)
+[Properties installed with Risk Management](r_PropInstallWRisk.md)
 

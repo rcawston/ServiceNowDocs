@@ -91,5 +91,5 @@ Point to an epic and drag it to the required position.
     |**Move to bottom**|Epics are placed at the bottom of the backlog section.|
 
 
-**Parent Topic:**[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+**Parent Topic:**[SAFe Board—Portfolio level](portfolio-tabs.md)
 

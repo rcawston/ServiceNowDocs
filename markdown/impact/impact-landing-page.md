@@ -28,13 +28,13 @@ ServiceNow Impact is built on the ServiceNow AI Platform and combines customized
 
 </td><td>
 
-[Impact Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Impact components, such as plugins, tables, and roles.](../reference/impact-reference.md)
+[Impact Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Impact components, such as plugins, tables, and roles.](impact-reference.md)
 
 </td></tr><tr><td colspan="2">
 
-[Additional resources for Impact![](../../../reuse/icons/brand-icons/bus-documentation.svg)](../reference/additional-resources-impact.md)
+[Additional resources for Impact![](../../../reuse/icons/brand-icons/bus-documentation.svg)](additional-resources-impact.md)
 
- [Explore additional resources for learning about Impact.](../reference/additional-resources-impact.md)
+ [Explore additional resources for learning about Impact.](additional-resources-impact.md)
 
 </td></tr></tbody>
 </table>

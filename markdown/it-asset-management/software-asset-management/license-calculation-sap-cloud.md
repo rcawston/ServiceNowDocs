@@ -15,7 +15,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 Use SAP S/4HANA cloud use types and their weighting factors to calculate Full Usage Equivalent \(FUE\) licenses for different types of users of SAP S/4HANA Cloud applications.
 
-FUE licenses can be allocated to different cloud use types with a specific weighting factor. For more information on FUE licenses, see [Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md).
+FUE licenses can be allocated to different cloud use types with a specific weighting factor. For more information on FUE licenses, see [Software Asset Management publisher pack for SAP](sap-publisher-pack.md).
 
 Weighting factor can be defined as a numeric value associated with a cloud use type and it is used for FUE license calculation. The following table mentions the weighting factors for different cloud use types:
 

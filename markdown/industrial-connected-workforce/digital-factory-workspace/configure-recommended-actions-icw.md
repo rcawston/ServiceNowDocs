@@ -62,5 +62,5 @@ Create a context and within it rules and recommendations, as explained in:-   [C
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Digital Factory Workspace](../../icw-digital-factory-workspace/concept/configuring-digital-factory-workspace.md)
+**Parent Topic:**[Configuring Digital Factory Workspace](configuring-digital-factory-workspace.md)
 

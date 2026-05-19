@@ -56,5 +56,5 @@ Role required: admin
 
 Use the generated Client ID and Client Secret to configure the integration in the DLP Proofpoint \(PPT\) application and start using it.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](../concept/dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 

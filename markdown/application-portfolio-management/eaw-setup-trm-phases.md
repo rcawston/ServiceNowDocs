@@ -15,7 +15,7 @@ A Technology Reference Model \(TRM\) phase represents the status of the applicat
 
 You can add a new TRM phase on edit an existing one.
 
--   **[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)**  
+-   **[Add or edit a TRM phase](eaw-create-trm-phase.md)**  
 Define your own TRM phase for the TRM products.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)

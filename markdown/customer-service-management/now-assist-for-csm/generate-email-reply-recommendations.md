@@ -125,5 +125,5 @@ Generates a recommended email response that is based on the context of the email
 6.  Select **Send Email** or discard the draft if you don’t like the recommendation.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 

@@ -177,7 +177,7 @@ Input attributes
 
 </td><td>
 
-The input attributes. Select an existing attribute or select **New** to configure an attribute. For more information about configuring an attribute, see [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md).
+The input attributes. Select an existing attribute or select **New** to configure an attribute. For more information about configuring an attribute, see [Input form screen attributes for inputs](parameter-screen-var-attr.md).
 
 </td></tr><tr><td>
 

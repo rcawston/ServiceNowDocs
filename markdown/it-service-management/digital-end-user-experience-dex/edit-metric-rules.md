@@ -38,5 +38,5 @@ Role required: sn\_dex.admin
     **Note:** If you edit an existing alert action or proactive resolution, the changes are saved even if the alert rule is closed without saving.
 
 
-**Parent Topic:**[Managing DEX alert rules](../concept/dex-metrics-metric-rules-management.md)
+**Parent Topic:**[Managing DEX alert rules](dex-metrics-metric-rules-management.md)
 

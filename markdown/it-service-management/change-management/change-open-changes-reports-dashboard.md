@@ -17,7 +17,7 @@ Use this dashboard to get an overview of the current status of open reports.
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](performance-analytics/change.md) to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](../change.md) to view, and track the open changes.
 
 ![Open Changes List filtered on change category, priority, state, and type](../image/change-open-changes-reports-list.png "Open Changes List tab")
 

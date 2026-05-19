@@ -17,18 +17,18 @@ Legal Content Review is a mechanism to raise a legal review request for any mark
 
 When an employee submits a Legal Content Review request, it is automatically assigned to a group or user in the legal department based on assignment rules configured in the intake form of the associated practice area. If the request is assigned to a legal group, the group lead can assign the request to themselves or to any member in the assignment group. You can submit a new request, update or assign an existing request, or even cancel a legal request.
 
-For more information, see [Add an intake form to a practice area](../../legal-request-management/task/associate-categories-practice-area.md).
+For more information, see [Add an intake form to a practice area](../legal-request-management/associate-categories-practice-area.md).
 
 Work on requests assigned to you in the Legal Counsel Center.
 
--   **[Submit a Legal Content Review request](../task/submit-legal-cr-request.md)**  
+-   **[Submit a Legal Content Review request](submit-legal-cr-request.md)**  
 Submit a Legal Content Review request to seek services from the legal department.
--   **[Update a Legal Content Review request](../task/update-existing-legal-cr-request.md)**  
+-   **[Update a Legal Content Review request](update-existing-legal-cr-request.md)**  
 Update request details, add comments, or upload documents in a Legal Content Review request you submitted while it is still in the New or Assigned state.
--   **[Assign a Legal Content Review request](../task/assign-legal-cr-request.md)**  
+-   **[Assign a Legal Content Review request](assign-legal-cr-request.md)**  
 Assign a Legal Content Review request to yourself or to someone in your assignment group.
--   **[Cancel a Legal Content Review request](../task/cancel-a-legal-cr-request.md)**  
+-   **[Cancel a Legal Content Review request](cancel-a-legal-cr-request.md)**  
 Cancel a Legal Content Review request irrespective of its state.
 
-**Parent Topic:**[Legal Content Review](../reference/legal-content-review.md)
+**Parent Topic:**[Legal Content Review](legal-content-review.md)
 

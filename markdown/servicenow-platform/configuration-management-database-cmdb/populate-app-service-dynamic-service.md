@@ -17,11 +17,11 @@ The Dynamic Service method for populating an application service generates a dyn
 
 ## Before you begin
 
-The Dynamic Service is one of several methods for populating an application service with CIs. Choosing a method for populating an application service, is only one step of the generic procedure for creating an application service. Ensure that you have completed the initial steps as described in [Create an application service](../../service-mapping/task/create-it-services.md). The procedure described here is incomplete by itself as it complements that generic procedure.
+The Dynamic Service is one of several methods for populating an application service with CIs. Choosing a method for populating an application service, is only one step of the generic procedure for creating an application service. Ensure that you have completed the initial steps as described in [Create an application service](create-it-services.md). The procedure described here is incomplete by itself as it complements that generic procedure.
 
 New dynamic application services initially don't contain any CIs \(unless they were converted from legacy business services or legacy manual services\). Dynamic application services are automatically populated when CIs that are contained in the service, get connected to other CIs by CMDB relationships. Entry points are automatically created when a relationship between a dynamic application service CI and other CIs is created.
 
-For information about the different types of application services and the different methods you can use to populate application services, including Dynamic Service, see [Service instances \(Application services\)](../concept/application-services.md).
+For information about the different types of application services and the different methods you can use to populate application services, including Dynamic Service, see [Service instances \(Application services\)](application-services.md).
 
 Role required: app\_service\_admin
 
@@ -42,5 +42,5 @@ Role required: app\_service\_admin
 
 ## What to do next
 
-Complete the generic procedure [Create an application service](../../service-mapping/task/create-it-services.md).
+Complete the generic procedure [Create an application service](create-it-services.md).
 

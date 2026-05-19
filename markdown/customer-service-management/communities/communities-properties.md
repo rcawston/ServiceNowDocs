@@ -835,7 +835,7 @@ Enter the maximum number of times a user can post Social Q&amp;A questions per d
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](quick-start-tests-communities.md)
 
 [Communities roles](communities-roles.md)
 

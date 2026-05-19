@@ -111,5 +111,5 @@ If this is the first time that the driver is installed, the installer is in firs
 
 The ODBC driver application is ready for testing.
 
-**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Parent Topic:**[Installing the ODBC driver](c_InstallingTheODBCDriver.md)
 

@@ -31,11 +31,11 @@ Flow processing occurs in this sequence.
 
 -   **1. Process flow triggers and API calls**
 
-    Each time trigger conditions are met or an API directly calls a flow, Workflow Studio creates an event entry. The system processes triggers after database operations. To learn more, see [Execution order of scripts and engines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_ExecutionOrderScriptsAndEngines.md). Typically, [How business rules work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md) and [Workflow engine operation order](../../using-workflows/concept/c_WorkflowEngineOperationOrder.md#) that run synchronously run before a triggered flow.
+    Each time trigger conditions are met or an API directly calls a flow, Workflow Studio creates an event entry. The system processes triggers after database operations. To learn more, see [Execution order of scripts and engines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_ExecutionOrderScriptsAndEngines.md). Typically, [How business rules work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md) and [Workflow engine operation order](../legacy-workflow/c_WorkflowEngineOperationOrder.md#) that run synchronously run before a triggered flow.
 
 -   **2. Process events in the queue**
 
-    Each flow event contains a reference to the flow to start and a reference to either the triggering record or the execution time. The system processes these events using [Events](../../platform-events/concept/events.md) where a scheduler periodically works through the current items in the event queue in the order in which they were added. Depending on what other events are in the queue, the system may not immediately start a flow. Flow designers should expect some lag time between when the trigger conditions occur and when the flow actually starts.
+    Each flow event contains a reference to the flow to start and a reference to either the triggering record or the execution time. The system processes these events using [Events](../system-events/events.md) where a scheduler periodically works through the current items in the event queue in the order in which they were added. Depending on what other events are in the queue, the system may not immediately start a flow. Flow designers should expect some lag time between when the trigger conditions occur and when the flow actually starts.
 
 -   **3. Build the process plan**
 
@@ -183,7 +183,7 @@ By default, the system stops triggering flow runs after the run count reaches th
 
 ## Flow and action testing
 
-Testing a flow bypasses the trigger conditions and immediately runs it. Testing a flow with a record-based trigger requires selecting a specific record to act as the trigger. Flow designers should generate appropriate sample records prior to testing. For more information about testing a flow, see [Test a flow](../task/flow-test.md).
+Testing a flow bypasses the trigger conditions and immediately runs it. Testing a flow with a record-based trigger requires selecting a specific record to act as the trigger. Flow designers should generate appropriate sample records prior to testing. For more information about testing a flow, see [Test a flow](flow-test.md).
 
 During the design phase, you can test unpublished actions by setting **Show draft actions** on the flow. If testing with draft actions, use these guidelines.
 

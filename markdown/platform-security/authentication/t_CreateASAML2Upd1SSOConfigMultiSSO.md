@@ -238,7 +238,7 @@ No
 
 </td><td>
 
-Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](../../authentication/concept/client-type.md).
+Choose the client type, based on the type of your client. Options:**Iframe Embedded**.**Note:** If client type field is required for your configuration, you can edit the form and add the field. To know more, see [Configure client type for OAuth and SSO records](client-type.md).
 
 </td></tr></tbody>
 </table>4.  Encryption And Signing tab
@@ -246,7 +246,7 @@ Choose the client type, based on the type of your client. Options:**Iframe Embed
     **Note:**
 
     -   You should use your own self-signed or CA-signed certificate. The following types of certificates are supported:
-        -   [BCFKS \(FIPS-compliant\) keystore](../../saml/task/create-fips-certificate-for-saml.md) \(Recommended\)
+        -   [BCFKS \(FIPS-compliant\) keystore](create-fips-certificate-for-saml.md) \(Recommended\)
         -   Java keystore
     -   The **FIPS approved mode** requires different certificates for **Encryption** and **Signing**.
     -   Use different certificates for **Encryption** and **Signing** for a better security posture.
@@ -260,10 +260,10 @@ Choose the client type, based on the type of your client. Options:**Iframe Embed
 
     |Property|Description|
     |--------|-----------|
-    |Signing Key Alias|Enter the Signing alias of the key entry stored in [SAML 2.0 SP Keystore](../../saml/task/t_CreatingAServiceProviderKeyStore.md).|
-    |Signing Key Password|Enter the Signing password of the key entry stored in [SAML 2.0 SP Keystore](../../saml/task/t_CreatingAServiceProviderKeyStore.md).|
-    |Encryption Key Alias|Enter the Encryption alias of the key entry stored in [SAML 2.0 SP Keystore](../../saml/task/t_CreatingAServiceProviderKeyStore.md).|
-    |Encryption Key Password|Enter the Encryption password of the key entry stored in [SAML 2.0 SP Keystore](../../saml/task/t_CreatingAServiceProviderKeyStore.md).|
+    |Signing Key Alias|Enter the Signing alias of the key entry stored in [SAML 2.0 SP Keystore](t_CreatingAServiceProviderKeyStore.md).|
+    |Signing Key Password|Enter the Signing password of the key entry stored in [SAML 2.0 SP Keystore](t_CreatingAServiceProviderKeyStore.md).|
+    |Encryption Key Alias|Enter the Encryption alias of the key entry stored in [SAML 2.0 SP Keystore](t_CreatingAServiceProviderKeyStore.md).|
+    |Encryption Key Password|Enter the Encryption password of the key entry stored in [SAML 2.0 SP Keystore](t_CreatingAServiceProviderKeyStore.md).|
     |Encrypt Assertion|Select the check box to encrypt the assertion in the SAML response. The metadata generated for the IDP embeds the x509 certificate, which the IDP uses to encrypt the assertion in the SAML response that it generates.|
     |Signing Signature Algorithm|Enter the URL that points to the SAML 2.0 Identity Provider AuthnRequest Consumer for eSignature Authentication.|
     |Sign AuthnRequest|Select the check box to enable the IdP single-sign on service to receive a signed AuthnRequest.|
@@ -399,7 +399,7 @@ An unique id as part of response, the id can be user name, employee id, and so o
     **Note:**
 
     -   The Continuous Authentication tab appears only when you install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin that requires license.
-    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](../../authentication/concept/ca-homepage.md).
+    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](../ca-homepage.md).
     ![Continuous Authentication - tab information](../../authentication/images/ca-tab.png)
 
 <table id="table_vvj_d5x_4dc"><thead><tr><th>

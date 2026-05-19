@@ -29,9 +29,9 @@ Both the feedback types can be either static questions or survey questionnaires.
 **Note:**
 
 -   Configure the experience feedback drawer widget in your portal, if it has the Employee Center header.
--   Configure the experience feedback drawer widget to provide feedback in various formats like, experience, numeric value feedback, or star rating feedback. For more information on configuring feedback definition, see [Set up the feedback definition](../task/config-feedback-dfnition.md).
+-   Configure the experience feedback drawer widget to provide feedback in various formats like, experience, numeric value feedback, or star rating feedback. For more information on configuring feedback definition, see [Set up the feedback definition](config-feedback-dfnition.md).
 -   Avail the star rating and the numeric value rating in Experience feedback predefined with Employee Center version 35.0.
--   For a description of the field values in the feedback definition form, see [Feedback definition form](../reference/fdbck-dfnition-record.md).
+-   For a description of the field values in the feedback definition form, see [Feedback definition form](fdbck-dfnition-record.md).
 
 Provide feedback through the drawer widget, In page in the portal or via email.
 
@@ -88,14 +88,14 @@ View the **Details** tab to get the feedback task assessment. For Survey feedbac
 
 Feedback tasks can be anonymous if the feedback provider doesn’t share their personal information while submitting the feedback. Notify the feedback provider via email when the task is resolved if they have shared their personal details. For more information, see
 
--   [Resolve a feedback task](../task/resolve-feedback-task.md)
+-   [Resolve a feedback task](resolve-feedback-task.md)
 -   [Feedback task notification](fdbck-task-notification.md)
 
 ## Experience feedback for browser extension
 
 Get an experience feedback configuration and a feedback definition when you install Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 along with Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0.
 
-**Note:** **Experience Feedback for Browser Extension** definition has certain differentiators from the generic experience feedback options. For more information, see [Set up the feedback definition](../task/config-feedback-dfnition.md).
+**Note:** **Experience Feedback for Browser Extension** definition has certain differentiators from the generic experience feedback options. For more information, see [Set up the feedback definition](config-feedback-dfnition.md).
 
 You can view the feedback analytics from the browser extension by selecting the **Employee Center Browser Extension** in the **Portals Filter**.
 

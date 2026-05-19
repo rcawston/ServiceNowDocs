@@ -30,5 +30,5 @@ The facilities staff adds templates to the facilities catalog, so users can sele
 -   **[Enterprise move](c_EnterpriseMove.md)**  
 Facility teams use Enterprise Move to plan and execute move scenarios in support of large or complex employee move requests.
 
-**Parent Topic:**[Facilities Service Management overview](../../facilities-service-management/concept/c_FacilitiesServiceManagement.md)
+**Parent Topic:**[Facilities Service Management overview](c_FacilitiesServiceManagement.md)
 

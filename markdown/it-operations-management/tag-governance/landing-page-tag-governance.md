@@ -25,27 +25,27 @@ A tag is a key-value pair that is assigned to a CI or cloud resource. Your organ
 
 <table id="table_kzj_mqh_jcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Tag Governance](../concept/exploring-tag-governance.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Tag Governance](exploring-tag-governance.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install the app.](../concept/configuring-tag-governance.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install the app.](configuring-tag-governance.md)
 
 </td><td>
 
-[Create tag policies](../concept/tag-governance-establish-policies.md)[![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Define tag standards that will be audited.](../concept/reference-tag-governance.md)
+[Create tag policies](tag-governance-establish-policies.md)[![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Define tag standards that will be audited.](reference-tag-governance.md)
 
 </td></tr><tr><td>
 
-[Updating cloud tags![](../../../reuse/icons/brand-icons/bus-cloud-upload.svg) Real-time updates to tags for cloud resources.](../concept/tag-governance-real-time-updates.md)
+[Updating cloud tags![](../../../reuse/icons/brand-icons/bus-cloud-upload.svg) Real-time updates to tags for cloud resources.](tag-governance-real-time-updates.md)
 
 </td><td>
 
-[Remediate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Remediate tag issues](../task/perform-remediations-tag-governance.md)
+[Remediate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Remediate tag issues](perform-remediations-tag-governance.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Additional information on forms and settings.](../concept/reference-tag-governance.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Additional information on forms and settings.](reference-tag-governance.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -26,12 +26,12 @@ The Network Topology form enables you to create, and review the topology details
 |Model ID|Manufacturer's model identification number for this network asset.|
 |Comments|Comments if any.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Manually create a network topology](../task/create-netowrk-topology.md)
+[Manually create a network topology](create-netowrk-topology.md)
 
-[Network topology](../concept/visualization-of-topology.md)
+[Network topology](visualization-of-topology.md)
 

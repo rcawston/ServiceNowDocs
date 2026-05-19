@@ -55,5 +55,5 @@ The new column is added to the task and you can start entering the values for th
 
 If you have the Owner access for this Space, you can delete any custom columns based on your changing requirements.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

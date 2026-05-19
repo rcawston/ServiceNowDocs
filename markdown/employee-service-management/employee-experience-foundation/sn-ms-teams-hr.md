@@ -61,7 +61,7 @@ The HR Service Delivery integration with Microsoft Teams application extends the
 
 You must perform the following activities to integrate HR Service Delivery with Microsoft Teams in ServiceNow instance:
 
-1.  [Install HR Service Delivery integration with Microsoft Teams application](../task/install-hr-ms-teams-plugin.md)
+1.  [Install HR Service Delivery integration with Microsoft Teams application](install-hr-ms-teams-plugin.md)
 2.  [Setting up the ServiceNow instance for Microsoft Teams integration](setup-tenants.md)
 
 To configure HR Service Delivery integration with Microsoft Teams in ServiceNow instance, see [Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md).

@@ -81,5 +81,5 @@ ServiceNow workspace doesn’t support mobile devices, Internet Explorer, or Mic
     Align work with strategy to deliver products and services in a way that supports your business goals and priorities. The ServiceNow Strategic Portfolio Management \(SPM\) application enables you to use digital transformation to drive customer value.
 
 
-**Parent Topic:**[Features and changes by product](new-features-changes.md)
+**Parent Topic:**[Features and changes by product](../new-features-changes.md)
 

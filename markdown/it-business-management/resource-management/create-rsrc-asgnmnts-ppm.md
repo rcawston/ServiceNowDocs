@@ -31,12 +31,12 @@ Create resource assignments to request a portion of team or resource capacity fo
 
 3.  On the Resource assignment form, fill the fields.
 
-    For a description of the field names, see [Resource assignment form](../reference/resource-assignment-form.md).
+    For a description of the field names, see [Resource assignment form](resource-assignment-form.md).
 
 4.  Select **Submit**.
 
     **Tip:** You can edit the child resource assignments from the list view.
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

@@ -27,5 +27,5 @@ For example, if you are upgrading from version 1.0.1 or earlier of the applicati
 
 **Note:** For users on the Australia release, the **Install** and **Upgrade** buttons are not visible on the Solution Library content form. For information on resolving this issue, see [Allow PA Solution Library for Store apps](https://support.servicenow.com/kb_view.do?sys_kb_id=ce74a4bb1b89d4107a5933f2cd4bcb3f).
 
-**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](../application-content-packs/pa-content-pack-essential-safe.md)
+**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 

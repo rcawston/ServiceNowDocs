@@ -42,7 +42,7 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 5.  Select **Apply changes**.
 
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](managing-portfolio-plans-in-portfolio-planning.md)
 
 **Related topics**  
 

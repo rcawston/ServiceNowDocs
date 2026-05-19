@@ -27,7 +27,7 @@ You can achieve the following using the ATF Test Generator and Cloud Runner stor
 
 See [ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-intro.md) for more information.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

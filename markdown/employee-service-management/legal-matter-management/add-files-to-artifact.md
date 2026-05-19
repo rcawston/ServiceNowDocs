@@ -112,7 +112,7 @@ In the **Documents** tab, a link to the document is listed in the **External URL
 
     1.  In the **Documents** tab, select a document from the list that you want to delete.
     2.  Select **Delete**.
-Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal matter](../concept/document-access-legal-matter.md).
+Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal matter](document-access-legal-matter.md).
 
 </td></tr></tbody>
 </table>

@@ -32,7 +32,7 @@ Processors, adjusters, and other roles use Workspace to work on all aspects of i
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 The following table shows which Workspace users can use the Personal Lines Claims application.
 
@@ -50,7 +50,7 @@ Claims admin
 
 </td><td>
 
-Configures Workspace per the business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures Workspace per the business requirements. For more information, see [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -120,5 +120,5 @@ FSO insurance applications store claim contact information in the following Insu
 -   The Claim Participant table \[sn\_ins\_claim\_profile\] stores details about all participants involved in the claims process.
 -   The Participant Role table \[sn\_ins\_claim\_participant\] stores information on the participant's role in the claim \(such as if they are the injured or insured\).
 
-For more information, see [Insurance Claims Core tables](../../fso-common/reference/insurance-claims-core-tables.md).
+For more information, see [Insurance Claims Core tables](../insurance-claims-core-tables.md).
 

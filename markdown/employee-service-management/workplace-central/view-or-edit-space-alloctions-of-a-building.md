@@ -32,7 +32,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 
 You can perform several actions on a building directly instead of working them through scenario planning. The building view enables you to perform the following:
 
--   View space allocations on each floor based on different view options. For more information on the different view by options that are available, refer to [Scenario and Building - Views, states, settings, and key features](../reference/scenario-planning-views-actions-keyfeatures-.md).
+-   View space allocations on each floor based on different view options. For more information on the different view by options that are available, refer to [Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md).
 -   Get space details of each allocation on the stack plan same as in scenarios.
 -   Perform map-based space administration. Such as, editing or updating user assignments to a neighborhood.
 -   View space allocations based on the workplace entities. This view option is supported only in the building view. You can specify the entity type based on which you want to see the space allocations.
@@ -125,14 +125,14 @@ You can perform several actions on a building directly instead of working them t
 -   **[Edit or view a building's spaces based on workplace entities](view-a-building-s-spaces-based-on-workplace-entities.md)**  
 View the spaces in a building based on their entity types. On the floor map, directly add an allocation or modify an allocation of space. Assign spaces to a workplace entity from the floor map.
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -150,5 +150,5 @@ View the spaces in a building based on their entity types. On the floor map, dir
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

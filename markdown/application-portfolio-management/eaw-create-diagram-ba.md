@@ -15,7 +15,7 @@ Create a diagram for your business application hierarchy and associate it with a
 
 ## Before you begin
 
-For creating the diagram using the ServiceNow Enterprise Modeling and Visualization, you must activate the following ServiceNow Store applications. For more information, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md).
+For creating the diagram using the ServiceNow Enterprise Modeling and Visualization, you must activate the following ServiceNow Store applications. For more information, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md).
 
 -   Enterprise Modeling and Visualization \(app-modelling-tool\)
 -   Diagram Builder \(app-diagram-builder\)
@@ -45,7 +45,7 @@ Role required: Member of the Enterprise Architect group
 
 6.  On the Create Diagram form, fill in the fields.
 
-    For field information, see [Create diagram form for a business application](../../reference/eaw-reference/eaw-create-diagram-ba-form.md).
+    For field information, see [Create diagram form for a business application](eaw-create-diagram-ba-form.md).
 
     **Note:** For Lucidchart, use the authorization link on the Create Diagram window, to generate an authentication token and fetch your Lucid folders to save the diagram. Ensure that you have at least one folder created in the My documents folder of your computer.
 
@@ -56,7 +56,7 @@ Role required: Member of the Enterprise Architect group
 
 After a successful submission, a link to the newly created diagram appears on top of the screen. You can select the link to navigate to the diagram. The Architectural Artifacts page shows the link to the diagram and an artifact name associated with it. You can select the respective link to access the artifact or diagram.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

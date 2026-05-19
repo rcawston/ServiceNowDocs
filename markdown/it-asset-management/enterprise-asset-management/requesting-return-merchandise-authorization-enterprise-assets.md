@@ -33,7 +33,7 @@ If you choose to complete the RMA process on-site, the defective enterprise asse
 
 If you have not completed the Prepare task for any of the RMA order lines within an RMA order, you can cancel the entire RMA order. After the order is canceled, all associated RMA order lines and tasks are also canceled.
 
--   **[Submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](../task/submit-rma-order.md)**  
+-   **[Submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](submit-rma-order.md)**  
 Submit a Return Merchandise Authorization \(RMA\) order to initiate the replacement or repair of your defective enterprise assets.
 -   **[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](closing-rma-order.md)**  
 After you submit a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets, you must complete various tasks to close the order.

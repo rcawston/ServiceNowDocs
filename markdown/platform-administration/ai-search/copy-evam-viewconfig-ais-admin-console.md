@@ -49,5 +49,5 @@ A copy of the view configuration is added to the list.
 
 After copying a view configuration, you can modify it based on your requirements, such as updating the EVAM definition for the result-card interface. For more information, see [Create or edit an EVAM view definition](ais-admin-console-evam-configurations.md).
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](ais-admin-console-managing-evam.md)
 

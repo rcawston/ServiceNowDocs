@@ -38,14 +38,14 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing data domain, select the data domain.
 6.  On the form, fill in the fields.
 
-    For field information, see [Data Domain form](../../reference/eaw-reference/eaw-data-domain-form.md).
+    For field information, see [Data Domain form](eaw-data-domain-form.md).
 
 7.  Select **Save**.
 
     You can also create data domains from the Setup page of Enterprise Architecture Workspace. For information, see [Add or edit an information data domain](eaw-add-edit-info-data-domain.md).
 
 
-**Parent Topic:**[Manage data domains](../../concept/eaw-concept/eaw-manage-data-domains.md)
+**Parent Topic:**[Manage data domains](eaw-manage-data-domains.md)
 
 **Related topics**  
 

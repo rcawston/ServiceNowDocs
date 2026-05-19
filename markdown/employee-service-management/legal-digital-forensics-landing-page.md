@@ -15,23 +15,23 @@ The ServiceNow® Legal Digital Forensics application enables you to handle digit
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how employees, paralegal staff, and lawyers use Legal Digital Forensics.](../concept/legal-digital-forensics-overview.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how employees, paralegal staff, and lawyers use Legal Digital Forensics.](legal-digital-forensics-overview.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up data sources, their fulfillment instructions, and a checklist.](../concept/setting-up-legal-dft.md)
+[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up data sources, their fulfillment instructions, and a checklist.](setting-up-legal-dft.md)
 
 </td><td>
 
-[Request ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Submit and track digital forensics requests.](../concept/submitting-legal-dft-request.md)
+[Request ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Submit and track digital forensics requests.](submitting-legal-dft-request.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-project-manager.svg)Manage digital forensics requests for data sources subject to investigation or litigation.](../concept/managing-legal-dft-request.md)
+[Manage ![](../../../reuse/icons/brand-icons/bus-project-manager.svg)Manage digital forensics requests for data sources subject to investigation or litigation.](managing-legal-dft-request.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Coordinate work and improve processes with preconfigured dashboards.](legal-service-delivery/legalsd-content-pack.md)
 
 </td><td>
 

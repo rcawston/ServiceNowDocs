@@ -55,10 +55,10 @@ Allows scoped applications to restrict access to public tables and script includ
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with response templates](../reference/components-installed-with-response-templates.md)**  
+-   **[Components installed with response templates](components-installed-with-response-templates.md)**  
 Several types of components are installed with activation of the Templated Responses \(com.sn\_templated\_snip\) plugin, including tables and user roles.
 
-**Parent Topic:**[Response templates](../concept/response-templates-templated-snippets.md)
+**Parent Topic:**[Response templates](response-templates-templated-snippets.md)
 
 **Related topics**  
 

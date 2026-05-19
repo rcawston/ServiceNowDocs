@@ -47,7 +47,7 @@ There may be cases where no match is found because the column names in the event
 
 7.  Select **Submit**.
 
-    **Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](../../service-operations-workspace-itom/task/enrich-alert-sow-itom.md).
+    **Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](../service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 
 **Related topics**  

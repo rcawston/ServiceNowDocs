@@ -34,7 +34,7 @@ Role required: admin, app\_template\_author
     -   All items are supported: The custom template is created. All the objects are available in the custom template and in apps created from the custom template.
     -   Some items aren't supported: You can continue to create the template but a few items are not available in the custom template. There’s no impact on the custom template or the apps created from the template.
     -   Some items are denied: You encounter an error message and cannot continue further until the errors are fixed. The author must change the app, if it was created from an existing app or the template, if it was created from scratch.
-    **Note:** For more information, see [Supported features and metadata in custom templates](../reference/supported-features-metadata-custom-templates.md).
+    **Note:** For more information, see [Supported features and metadata in custom templates](supported-features-metadata-custom-templates.md).
 
 5.  Enter a name and description for the custom template.
 
@@ -69,7 +69,7 @@ Role required: admin, app\_template\_author
 
 
 </td></tr></tbody>
-</table>    For more information about template sharing and permissions, see [App template sharing](../concept/app-template-sharing.md#).
+</table>    For more information about template sharing and permissions, see [App template sharing](app-template-sharing.md#).
 
 9.  Access the custom template in one of the following ways.
 
@@ -83,5 +83,5 @@ Role required: admin, app\_template\_author
 
 Your custom template is created and ready for your use. The custom template is activated and is available to App Engine Studio users who have access to it.
 
-**Parent Topic:**[Build a custom template](../concept/build-custom-template.md)
+**Parent Topic:**[Build a custom template](build-custom-template.md)
 

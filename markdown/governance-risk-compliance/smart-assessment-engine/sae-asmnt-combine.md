@@ -43,7 +43,7 @@ Submitting combined assessments
 
     2.  Copy your responses across all combined assessments by turning on the **Enable auto copy** toggle switch.
 
-        -   The auto-copy feature is activated when the combined assessment is created and can’t be changed later. For more details, refer to [Combining assessments and copying responses](../concept/combine-assessments.md).
+        -   The auto-copy feature is activated when the combined assessment is created and can’t be changed later. For more details, refer to [Combining assessments and copying responses](combine-assessments.md).
         -   The auto-copy feature is available only when combined assessments originate from the same template. If the assessments are from different templates, the auto-copy feature remains disabled and cannot be activated.
 5.  Select **Continue**.
 

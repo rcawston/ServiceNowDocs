@@ -40,7 +40,7 @@ Scheduled replication ends. After deactivating the producer replication set, any
 
 ## What to do next
 
-If you intend to resume scheduled replication, you can sync records that weren't replicated during the deactivation period by running a data comparison request. See [Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md). Alternatively, you can replicate missing records by performing a partial seeding request from the Inbound Entries related list on the consumer replication set.
+If you intend to resume scheduled replication, you can sync records that weren't replicated during the deactivation period by running a data comparison request. See [Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md). Alternatively, you can replicate missing records by performing a partial seeding request from the Inbound Entries related list on the consumer replication set.
 
 **Parent Topic:**[Set up scheduled replication](set-up-scheduled-replication-idr.md)
 

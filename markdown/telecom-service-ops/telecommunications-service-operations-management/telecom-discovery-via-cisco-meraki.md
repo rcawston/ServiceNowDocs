@@ -46,5 +46,5 @@ The Integration Commons for CMDB application provides a dashboard with a central
 
 [Configure Cisco Meraki Service Graph Connector](configuring-cisco-meraki-service-graph-connector.md)
 
-[Run and verify an import schedule for Cisco Meraki SGC](../task/run-and-verify-import-for-cisco-meraki-sd-wan-service-graph-connector.md)
+[Run and verify an import schedule for Cisco Meraki SGC](run-and-verify-import-for-cisco-meraki-sd-wan-service-graph-connector.md)
 

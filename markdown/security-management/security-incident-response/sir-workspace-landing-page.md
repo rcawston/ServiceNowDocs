@@ -33,7 +33,7 @@ Select a tile to get started.
 
 </td><td>
 
-[View SIR Dashboards ![](../../../reuse/icons/brand-icons/ind-facilities-manager.svg)View SIR Workspace dashboards](../concept/working-with-analysts-dashboard.md)
+[View SIR Dashboards ![](../../../reuse/icons/brand-icons/ind-facilities-manager.svg)View SIR Workspace dashboards](working-with-analysts-dashboard.md)
 
 </td></tr></tbody>
 </table>## Request apps on Store

@@ -97,7 +97,7 @@ Enable booking for all doses of the vaccine, for both mass booking and self-serv
 
  The default value is **true**.
 
- For more information about booking subsequent doses, see [Book appointments for subsequent doses after a previous dose is complete](../task/schedule-second-appointment-after-completion-of-first.md).
+ For more information about booking subsequent doses, see [Book appointments for subsequent doses after a previous dose is complete](schedule-second-appointment-after-completion-of-first.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Enable Vaccine Administration Management location-specific appointment schedulin
 
  The default value is **true**.
 
- For more information about enabling location-specific appointment configuration, see [Configure advanced appointment scheduling for a center](../task/configure-location-level-weekly-schedule-config.md).
+ For more information about enabling location-specific appointment configuration, see [Configure advanced appointment scheduling for a center](configure-location-level-weekly-schedule-config.md).
 
 </td></tr><tr><td>
 
@@ -201,7 +201,7 @@ Enable scheduling based on available inventory for a program location center.
 
  The default value is **false**.
 
- For more information about enabling inventory management, see [Configure inventory-based scheduling for a center](../task/configure-scheduling-by-inventory.md).
+ For more information about enabling inventory management, see [Configure inventory-based scheduling for a center](configure-scheduling-by-inventory.md).
 
 </td></tr><tr><td>
 

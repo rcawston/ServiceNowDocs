@@ -121,5 +121,5 @@ Once the connection is activated and validated, an information message is displa
     4.  Select **Save**.
 
 
-**Parent Topic:**[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)
+**Parent Topic:**[Configure Slack chat connector for major security incidents](configure-slack-chat-connector-msi.md)
 

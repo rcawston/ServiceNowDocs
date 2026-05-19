@@ -46,5 +46,5 @@ Sends an email to a specified user group when a new catalog item has been create
 </td></tr></tbody>
 </table>To configure catalog\_admin recipients for these notifications, refer to [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md).
 
-**Parent Topic:**[Using Service Portfolio Management](../../service-portfolio-management2/concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
 

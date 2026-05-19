@@ -130,5 +130,5 @@ Work notes
 Information to record and track the status of decision implementation or approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

@@ -37,11 +37,11 @@ By default, the following models are provided as examples for ITIL mode 1 and mo
 |Cloud Infrastructure|Change model used for change requests that commission and decommission Cloud infrastructure services.|
 |Site Reliability Ops|Change model used for site reliability operations.|
 |Unauthorized Change|Change model used for change requests that are created from the unauthorized change events.|
-|DevOps|Change model used for DevOps change requests. For more information, see [DevOps change models](../../enterprise-dev-ops/concept/devops-change-multimodel.md).|
+|DevOps|Change model used for DevOps change requests. For more information, see [DevOps change models](../devops-change-velocity/devops-change-multimodel.md).|
 
--   **[Change Models properties](../reference/change-models-properties.md)**  
+-   **[Change Models properties](change-models-properties.md)**  
 Configure the Change Models properties to access the Change models capabilities when creating a Change request.
--   **[Create a user criteria record for Change Management](../task/create-user-criteria.md)**  
+-   **[Create a user criteria record for Change Management](create-user-criteria.md)**  
 Create a user criteria record to control user access to widgets.
 
 **Parent Topic:**[Exploring Change Management](exploring-change-management.md)

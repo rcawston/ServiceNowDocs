@@ -77,5 +77,5 @@ Steps
 
 The state of the obligation task changes to Canceled.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](cncore-obligation-management.md)
 

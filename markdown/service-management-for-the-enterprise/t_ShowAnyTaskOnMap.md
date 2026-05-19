@@ -52,5 +52,5 @@ Set **Show task** to false
     ![In this figure, there is a Task tab, with four requests on the current level.](../image/TaskTab.png "Tasks Tab")
 
 
-**Parent Topic:**[Interactive facility maps](../concept/c_InteractiveFacilityMaps.md)
+**Parent Topic:**[Interactive facility maps](c_InteractiveFacilityMaps.md)
 

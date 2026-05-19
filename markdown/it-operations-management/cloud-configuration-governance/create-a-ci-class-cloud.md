@@ -104,7 +104,7 @@ This topic provides general instructions for extending an existing cloud provide
 
 Use the CI class in a resource type for a cloud provider. See [Add a product to an existing provider in CAPI](create-provider.md) for instructions.
 
-Your response processor, which is part of the resource block, must also specify the necessary CI class types so it can update the CMDB. Usually, the response processor needs the object ID, the specific datacenter, and the cloud service account. See [Virtual server response processor example](../reference/response-processor-example.md) for example response processor code that uses CI classes.
+Your response processor, which is part of the resource block, must also specify the necessary CI class types so it can update the CMDB. Usually, the response processor needs the object ID, the specific datacenter, and the cloud service account. See [Virtual server response processor example](response-processor-example.md) for example response processor code that uses CI classes.
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

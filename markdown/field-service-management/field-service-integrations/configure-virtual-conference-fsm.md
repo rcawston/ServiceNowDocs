@@ -82,5 +82,5 @@ The conference call details of Microsoft Teams meetings are stored in the Notify
 -   **[Customize the display of conference recording information](personalize-conference-list.md)**  
 Customize the Conferences related list to display specific information about conference recordings for work order tasks.
 
-**Parent Topic:**[Integration with Virtual Conferencing](../concept/virtual-conference-integration-fsm.md)
+**Parent Topic:**[Integration with Virtual Conferencing](virtual-conference-integration-fsm.md)
 

@@ -35,7 +35,7 @@ If the anti-CSRF token is instead tied to one of the user's other active session
 |Functional impact|This remediation enables an extra validation step before the instance user submits a write request to the instance. It checks whether the current CSRF token has been used previously. If Yes, it prevents submission of further write requests.|
 |Security risk|\(Medium\) Cross site Request Forgery is a significant security risk that violates the integrity of the instance data. An attacker can launch the CSRF attack on any instance user by abusing the trust of the instance user. With the help of social engineering attacks, a user can submit a malformed request to the instance on behalf of the attacker.|
 
-Return to [Configure and upload your customer supplied key](../../key-management-framework/task/upload-customer-supplied-key.md) to upload your wrapped key.
+Return to [Configure and upload your customer supplied key](../upload-customer-supplied-key.md) to upload your wrapped key.
 
 **Parent Topic:**[Access control](sc-access-control.md)
 

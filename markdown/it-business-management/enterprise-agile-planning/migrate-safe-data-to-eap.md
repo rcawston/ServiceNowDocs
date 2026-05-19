@@ -31,7 +31,7 @@ Start data migration of SAFe to EAP.
 
 3.  On the form, fill in the fields.
 
-    For field information, see [SAFe-EAP migration request form](../reference/safe-eap-migration-request-form.md).
+    For field information, see [SAFe-EAP migration request form](safe-eap-migration-request-form.md).
 
     **Note:**
 

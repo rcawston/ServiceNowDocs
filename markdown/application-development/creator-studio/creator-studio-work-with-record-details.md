@@ -23,7 +23,7 @@ To change the layout of an app's submitted record in the fulfiller workspace con
 
 All columns of the app's associated table are available as fields on the record page, though you may want to adjust them. For example, you may want to move the **Priority** field to appear more visibly on the record so fulfillers can tell how important the request is. You could then build an automated playbook that runs when the priority changes to high.
 
-**Note:** You can't edit UI policies or make more advanced edits to the form in Creator Studio. To make advanced edits, open the record in Table Builder. For more information, see [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md).
+**Note:** You can't edit UI policies or make more advanced edits to the form in Creator Studio. To make advanced edits, open the record in Table Builder. For more information, see [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ All columns of the app's associated table are available as fields on the record 
 
 After you're done customizing how the app's records will appear, you can check out how they'll look in the Request App Workspace while remaining in Creator Studio. For more information, see [Preview how an app's records appear](creator-studio-preview-record.md).
 
-**Parent Topic:**[Configuring workspace lists and records for form submissions](../concept/creator-studio-form-submissions-workspace-about.md)
+**Parent Topic:**[Configuring workspace lists and records for form submissions](creator-studio-form-submissions-workspace-about.md)
 

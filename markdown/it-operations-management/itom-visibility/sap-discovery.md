@@ -19,7 +19,7 @@ ITOM Visibility can discover SAP applications, SAP HANA Database, and SAP HANA D
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/06a71b1367e4130051c9027e2685ef1e/1.6.0?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%26q%3DPatterns&sl=sh) to view all the available updates and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about the SAP components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../reference/r_SupportedApplications.md).
+To learn about the SAP components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ To learn about the SAP components and their versions that you can discover, refe
     CMDB CI Class Models
 
 -   **Verify the configuration of the credentials**
-    -   \(If hosted on a UNIX server\) On the ServiceNow AI Platform, configure [applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md) and [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md). The SSH credentials are used to create connections from SAP Central Instance \(CI\) to other applications and devices. In addition, provide the user elevated rights to be able to run commands requiring a privileged user: [Service Mapping commands requiring a privileged user](../reference/r_CommandsnCredentials.md).
+    -   \(If hosted on a UNIX server\) On the ServiceNow AI Platform, configure [applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md) and [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md). The SSH credentials are used to create connections from SAP Central Instance \(CI\) to other applications and devices. In addition, provide the user elevated rights to be able to run commands requiring a privileged user: [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md).
     -   \(If hosted on a Windows server\) On the ServiceNow AI Platform, configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) to create connections from SAP CI to other applications and devices.
     -   \(Optional\) For discovering using the WinRM protocol, see [Configure WinRM trusted hosts on MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/enable-winRM-MID-servers.md).
     -   \(Optional for top-down discovery by Service Mapping\) Provide a user with permissions to run SOAP on RFC read table function.
@@ -45,7 +45,7 @@ To learn about the SAP components and their versions that you can discover, refe
 
 -   **Verify the permissions to run Service Mapping commands**
 
-    [Service Mapping commands not requiring a privileged user](../reference/r_NonSudoCommands.md)
+    [Service Mapping commands not requiring a privileged user](../service-mapping/r_NonSudoCommands.md)
 
 -   **Verify the user has the permissions to run the Patterns queries**
 
@@ -101,7 +101,7 @@ Disk Size
 </td></tr></tbody>
 </table>-   **Verify the configuration of the Discovery schedule**
 
-    For more information, see [Running discoveries in your network](../../discovery/concept/running-discoveries.md)
+    For more information, see [Running discoveries in your network](../discovery/running-discoveries.md)
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -220,7 +220,7 @@ Service Mapping can map only one instance of ASCS per deployment.
 
 The SAP HANA DB Catalog pattern can only run on UNIX.
 
-**Parent Topic:**[Software discovery](../../discovery/concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 
 ## Map application services containing SAP applications
 

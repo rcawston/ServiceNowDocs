@@ -39,7 +39,7 @@ For existing assessments, the Supports smart assessment option is set automatica
 
 3.  On the form, fill in the fields.
 
-    For more information about the field descriptions, see [Create new external assessment template form](../reference/create-assess-template-form.md).
+    For more information about the field descriptions, see [Create new external assessment template form](create-assess-template-form.md).
 
 4.  Select **Submit**.
 

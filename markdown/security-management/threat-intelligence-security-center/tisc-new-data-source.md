@@ -341,5 +341,5 @@ Start date from which to fetch the data. Set this field to the time from which d
     **Note:** This configuration procedure applies to all threat intelligence feed types except STIX TAXII. For more information on how STIX TAXII is configured, see [Configure a new TAXII Feed](tisc-configure-a-new-taxii-feed.md).
 
 
-**Parent Topic:**[Threat Intelligence Feeds](../concept/threat-intelligence-feeds.md)
+**Parent Topic:**[Threat Intelligence Feeds](threat-intelligence-feeds.md)
 

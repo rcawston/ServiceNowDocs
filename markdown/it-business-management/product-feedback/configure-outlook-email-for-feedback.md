@@ -52,5 +52,5 @@ Configure email settings in your instance use it to send an email directly. With
 6.  Select **Send**.
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 

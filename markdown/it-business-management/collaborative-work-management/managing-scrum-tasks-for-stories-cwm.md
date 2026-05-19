@@ -24,13 +24,13 @@ You can create scrum tasks manually or use Now Assist to generate them based on 
 
 -   **Manual creation**
 
-    After a story is saved, a Scrum Tasks tab is available on the story form. From this tab, you can add tasks by entering a title and any relevant details directly on the story. You can also create scrum tasks for stories inline from the List and Sprint planning views. For more information, see [Add scrum tasks to a story in CWM](../task/add-scrum-tasks-to-a-story-cwm.md).
+    After a story is saved, a Scrum Tasks tab is available on the story form. From this tab, you can add tasks by entering a title and any relevant details directly on the story. You can also create scrum tasks for stories inline from the List and Sprint planning views. For more information, see [Add scrum tasks to a story in CWM](add-scrum-tasks-to-a-story-cwm.md).
 
     ![The Scrum tasks tab on a story form showing the option to add a scrum task from the side panel.](../images/cwm-scrum-tasks-add.png)
 
 -   **AI-generated scrum tasks**
 
-    Now Assist can analyze the story description and context to suggest a set of scrum tasks. The **Create with Now Assist** button on the story form and the inline sparkle button on the **Scrum tasks** tab both trigger generation. You can review the suggestions, regenerate if the results don’t fit the story, and then insert the tasks. AI-generated tasks serve as a starting point and can be edited after they're created. For more information, see [Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
+    Now Assist can analyze the story description and context to suggest a set of scrum tasks. The **Create with Now Assist** button on the story form and the inline sparkle button on the **Scrum tasks** tab both trigger generation. You can review the suggestions, regenerate if the results don’t fit the story, and then insert the tasks. AI-generated tasks serve as a starting point and can be edited after they're created. For more information, see [Generate scrum tasks for a story with Now Assist for CWM](../now-assist-for-collaborative-work-management-cwm/generate-scrum-tasks-for-stories-cwm.md).
 
 
 ## Scrum tasks on the Kanban board
@@ -55,7 +55,7 @@ Quick filters on the Kanban board let teams focus on specific sprints, states, o
 -   You can't add scrum tasks if you have just the Viewer access to the CWM Board.
 -   If scrum tasks were previously imported through Connected work before upgrading to v9.0.0, and stories are then imported through Connected work after the upgrade, duplicate scrum tasks may appear on the board. To resolve this, remove the existing configuration for scrum tasks in Connected work for your Board.
 
--   **[Add scrum tasks to a story in CWM](../task/add-scrum-tasks-to-a-story-cwm.md)**  
+-   **[Add scrum tasks to a story in CWM](add-scrum-tasks-to-a-story-cwm.md)**  
 Break down a user story into scrum tasks in Collaborative Work Management \(CWM\) to distribute work across team members and track daily progress during a sprint.
 
 **Parent Topic:**[Agile work management in CWM](agile-in-cwm.md)

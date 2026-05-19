@@ -104,5 +104,5 @@ Conditions under which the use case applies on the repository table. The field a
 For more information on using the condition builder, see [Create a condition statement using the condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-cond-state-using-cond-build.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Map a use case for contract metadata extraction](../task/cmpro-na-usecase-mappings-me.md)
+</table>**Parent Topic:**[Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md)
 

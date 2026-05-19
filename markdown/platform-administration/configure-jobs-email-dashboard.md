@@ -62,5 +62,5 @@ Role required: admin or notification\_dashboard\_admin
     Once the jobs are completed and the data is collected, the data is visible in the email notifications dashboard.
 
 
-**Parent Topic:**[Email notifications dashboard](../concept/email-notifications-dashboard.md)
+**Parent Topic:**[Email notifications dashboard](email-notifications-dashboard.md)
 

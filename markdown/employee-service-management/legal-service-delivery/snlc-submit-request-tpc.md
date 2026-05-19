@@ -58,7 +58,7 @@ Action
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Third-party Contract Review form](../reference/snlc-tpc-intake-fields.md)
+    For a description of the field values, see [Third-party Contract Review form](snlc-tpc-intake-fields.md)
 
 3.  Add single or multiple contract and supporting documents to be reviewed by the legal department.
 
@@ -148,5 +148,5 @@ As a member of the legal department contract support team, work on the request t
 -   **[Resubmit third-party contract request](snlc-multiple-doc-tpc.md)**  
 As a legal user, resubmit contract request in draft state.
 
-**Parent Topic:**[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+**Parent Topic:**[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 

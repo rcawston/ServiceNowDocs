@@ -49,20 +49,20 @@ Role required: admin
 
 ## What to do next
 
-If you haven't already, configure basic or OAuth 2.0 authentication to connect to a Git domain or repository. For more information, see [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md) or [Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](../concept/connect-git-provider-oauth-2.md#).
+If you haven't already, configure basic or OAuth 2.0 authentication to connect to a Git domain or repository. For more information, see [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md) or [Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](connect-git-provider-oauth-2.md#).
 
-**Note:** The MID Server user must have the sn\_glider.ide\_git\_user role or admin role to perform Git operations in the ServiceNow IDE. For more information, see [Create the MID Server user and grant the role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_SetupMIDServerRole.md) and [ServiceNow IDE MID Server User \[sn\_glider.ide\_git\_user\]](../reference/servicenow-ide-roles.md#).
+**Note:** The MID Server user must have the sn\_glider.ide\_git\_user role or admin role to perform Git operations in the ServiceNow IDE. For more information, see [Create the MID Server user and grant the role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_SetupMIDServerRole.md) and [ServiceNow IDE MID Server User \[sn\_glider.ide\_git\_user\]](servicenow-ide-roles.md#).
 
-**Parent Topic:**[Integrating source control with the ServiceNow IDE](../concept/integrating-source-control-servicenow-ide.md)
+**Parent Topic:**[Integrating source control with the ServiceNow IDE](integrating-source-control-servicenow-ide.md)
 
 **Related topics**  
 
 
 [Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md)
 
-[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](../concept/connect-git-provider-oauth-2.md#)
+[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](connect-git-provider-oauth-2.md#)
 
 [Initialize a Git repository with the ServiceNow IDE](initialize-git-repository-servicenow-ide.md)
 
-[Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md)
+[Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md)
 

@@ -49,7 +49,7 @@ Role required: admin
 
 6.  Review and activate the skill.
 
-    For more information on drafting email responses in an invoice case or a task, see [Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-apm-workspace.md).
+    For more information on drafting email responses in an invoice case or a task, see [Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-apm-workspace.md).
 
 
 ## Result

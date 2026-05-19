@@ -40,12 +40,12 @@ Role required: sn\_apm.apm\_user
     **Note:** Select a business capability to view more details.
 
 
-**Parent Topic:**[Manage value stream stages](../../concept/eaw-concept/eaw-manage-value-stream-stages.md)
+**Parent Topic:**[Manage value stream stages](eaw-manage-value-stream-stages.md)
 
 **Related topics**  
 
 
 [Add or edit a value stream stage](eaw-add-or-edit-a-value-stream-stage.md)
 
-[Exploring value stream stages](../../concept/eaw-concept/eaw-value-stream-stage.md)
+[Exploring value stream stages](eaw-value-stream-stage.md)
 

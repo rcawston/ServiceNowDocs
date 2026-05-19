@@ -116,16 +116,16 @@ If you want to refresh the summary, select the refresh icon \(![Refresh icon.](.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-using.md)
+**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](now-assist-fsc-using.md)
 
 **Related topics**  
 
 
-[Categorize inquiry cases](../../accounts-payable-operations/task/categorize-inquiry-cases.md)
+[Categorize inquiry cases](categorize-inquiry-cases.md)
 
-[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../sourcing-and-procurement-operations/now-assist-spo-using.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo-using.md)
 
-[Using Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/using-now-assist-apo.md)
+[Using Now Assist for Accounts Payable Operations \(APO\)](../accounts-payable-operations/using-now-assist-apo.md)
 

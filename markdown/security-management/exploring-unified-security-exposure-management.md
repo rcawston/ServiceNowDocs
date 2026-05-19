@@ -31,11 +31,11 @@ USEM is an evolution of existing Vulnerability Response modules including Applic
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |**Unified workspace**: A centralized interface for managing exposures across infrastructure, applications, containers, and configuration compliance.|[Security Exposure Management Workspace](sem-workspace-user-interface.md)|Administrators, Vulnerability Analysts, Remediation Owners, and Approvers|
-|**Cross-exposure visibility**: Provides dashboards and scorecards for monitoring risk posture and remediation progress in real time.|[Security Exposure Management Workspace Findings view](../../security-exposure-management-findings/concept/sem-findings-view.md)|Vulnerability Analysts|
-|**Streamlined administration**: A single console for configuring workflows, SLAs, notifications, and assignment rules across all exposure types|[Administration in Unified Security Exposure Management](../../security-exposure-management-administration/concept/sem-administration-console.md)|Administrators|
-|**Integration health monitoring**: Built-in tools to track and troubleshoot third-party integrations \(for example, Qualys, Tenable, Rapid7\).|[Review Unified Security Exposure Management integrations](../../security-exposure-management-administration/concept/review-usem-integrations.md)|Administrators|
+|**Cross-exposure visibility**: Provides dashboards and scorecards for monitoring risk posture and remediation progress in real time.|[Security Exposure Management Workspace Findings view](sem-findings-view.md)|Vulnerability Analysts|
+|**Streamlined administration**: A single console for configuring workflows, SLAs, notifications, and assignment rules across all exposure types|[Administration in Unified Security Exposure Management](sem-administration-console.md)|Administrators|
+|**Integration health monitoring**: Built-in tools to track and troubleshoot third-party integrations \(for example, Qualys, Tenable, Rapid7\).|[Review Unified Security Exposure Management integrations](review-usem-integrations.md)|Administrators|
 |**Role-based experience**: Tailored views for personas such as administrators, Vulnerability Analysts, Remediation Owners, and Approvers.|[Security Exposure Management Workspace](sem-workspace-user-interface.md)|Administrators, Vulnerability Analysts, Remediation Owners, and Approvers|
-|**AI-powered enhancements**: AI generated insights on Findings view dashboards and approval recommendations for approvers.|[Now Assist for Vulnerability Response](../../now-assist-vulnerability-response/reference/now-assist-for-vulnerability-response-landing.md)|Security analysts, Governance &amp; Risk teams, Approvers|
+|**AI-powered enhancements**: AI generated insights on Findings view dashboards and approval recommendations for approvers.|[Now Assist for Vulnerability Response](now-assist-for-vulnerability-response-vr/now-assist-for-vulnerability-response-landing.md)|Security analysts, Governance &amp; Risk teams, Approvers|
 
 ## What to explore next
 

@@ -36,5 +36,5 @@ Role required: admin
 
 The application is entitled and can be installed.
 
-**Parent Topic:**[Installing applications, plugins, and products](../../../administer/application-manager/concept/installing-apps-app-manager.md)
+**Parent Topic:**[Installing applications, plugins, and products](installing-apps-app-manager.md)
 

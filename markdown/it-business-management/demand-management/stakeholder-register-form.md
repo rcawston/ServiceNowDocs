@@ -27,5 +27,5 @@ Use the Stakeholder Register form to add users to the Stakeholder Registry.
 |Engagement|Indication of the way the user is engaged with the demand or project.|
 |Function|Function of user in the demand or project process.|
 
-**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

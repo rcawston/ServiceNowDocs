@@ -40,7 +40,7 @@ Role required: admin
 5.  To clear the cache of your instance, in your browser, enter `<server_url/cache.do>`.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Display the universal tasks for a request in Now Mobile](ut-mobile-config-tasktab.md)
 

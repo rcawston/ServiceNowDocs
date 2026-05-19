@@ -42,5 +42,5 @@ Role required: \(per product\)
 5.  To visually explore the relationship between the upstream entities, downstream entities, entity, and entity type that is associated with the entity class, click **360° view**.
 
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
 

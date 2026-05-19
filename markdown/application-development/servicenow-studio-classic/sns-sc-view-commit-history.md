@@ -45,5 +45,5 @@ Role required: admin
 7.  Close the commit history window.
 
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](source-control-in-servicenow-studio.md)
 

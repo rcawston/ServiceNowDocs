@@ -18,7 +18,7 @@ Now Assist in Document Intelligence supports text in multiple languages.
 
 For text-based files, the Now Assist recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md).
 
-For image files that need optical character recognition \(OCR\) to detect the text in them, OCR models are used to support different language groups. The language selected during use case setup helps the OCR model to detect text in the images. For more information, see [Set up a use case for Now Assist in Document Intelligence](../task/set-up-use-case-for-now-assist-document-intelligence.md).
+For image files that need optical character recognition \(OCR\) to detect the text in them, OCR models are used to support different language groups. The language selected during use case setup helps the OCR model to detect text in the images. For more information, see [Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md).
 
 The following table lists the available OCR models.
 

@@ -38,16 +38,16 @@ When you create questions using the survey creator, the system sets the **Order*
 4.  Click **Update**.
 
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](c_SurveyQuestion.md)
 
 **Related topics**  
 
 
 [Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
 [Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
 

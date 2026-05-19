@@ -21,7 +21,7 @@ Role required: atf\_test\_admin
 
 ## About this task
 
-Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](../reference/atf-step-config-xmpls.md#hbm_xwc_yw).
+Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](atf-step-config-xmpls.md#hbm_xwc_yw).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ Categories are used for filtering the step list in the Add Step dialog. For more
     The system creates a test step category and returns to the list of test step environments.
 
 
-**Parent Topic:**[Creating custom test step configurations](../concept/atf-custom-step-types.md)
+**Parent Topic:**[Creating custom test step configurations](atf-custom-step-types.md)
 

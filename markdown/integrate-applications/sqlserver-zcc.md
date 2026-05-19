@@ -18,5 +18,5 @@ A connection admin can create a connection to Microsoft SQL Server and give data
 **Related topics**  
 
 
-[Create a Microsoft SQL Server connection](../task/create-sqlserver-connection-zcc.md)
+[Create a Microsoft SQL Server connection](create-sqlserver-connection-zcc.md)
 

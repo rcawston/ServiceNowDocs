@@ -50,5 +50,5 @@ Along with the declarative actions customizations, the SRP or Standard Record Pa
     |Target Payload Mapping|The binding of the container and the type of the event|
 
 
-**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](../concept/srp-service-operations-workspace.md)
+**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](srp-service-operations-workspace.md)
 

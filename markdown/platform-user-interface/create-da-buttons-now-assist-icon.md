@@ -16,7 +16,7 @@ Configure a declarative action button with the Now Assist icon \(![](../../../co
 
 ## Before you begin
 
-Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](../concept/creating-declarative-actions.md).
+Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](creating-declarative-actions.md).
 
 Role required: admin
 

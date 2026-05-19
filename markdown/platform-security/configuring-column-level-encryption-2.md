@@ -13,7 +13,7 @@ breadcrumb: [Column Level Encryption, Encryption]
 
 Learn how to activate and configure Column Level Encryption and manage migration from Encryption Support.
 
--   **[Activate Column Level Encryption Enterprise](../../now-platform-encryption/task/activate-platform-encryption-2.md)**
+-   **[Activate Column Level Encryption Enterprise](activate-platform-encryption-2.md)**
 
     Learn how to active either Column Level Encryption or Column Level Encryption Enterprise.
 
@@ -24,17 +24,17 @@ Learn how to activate and configure Column Level Encryption and manage migration
 
 ## Migration from encryption support
 
-Use Scheduled jobs to migrate your keys and encrypted data from legacy Encryption Support to Column Level Encryption. See details for this process at [Migrating to Column Level Encryption](../../now-platform-encryption/concept/migration-to-platform-encryption-2.md)
+Use Scheduled jobs to migrate your keys and encrypted data from legacy Encryption Support to Column Level Encryption. See details for this process at [Migrating to Column Level Encryption](migration-to-platform-encryption-2.md)
 
 ## Change attachment encryption settings
 
-Improve security by preventing users from attaching unencrypted files. For details, see [Prevent users from attaching unencrypted files](../task/attach-enc-property.md).
+Improve security by preventing users from attaching unencrypted files. For details, see [Prevent users from attaching unencrypted files](attach-enc-property.md).
 
--   **[Activate Column Level Encryption Enterprise](../../now-platform-encryption/task/activate-platform-encryption-2.md)**  
+-   **[Activate Column Level Encryption Enterprise](activate-platform-encryption-2.md)**  
 With subscription to Column Level Encryption Enterprise, an admin can activate the com.glide.now.platform.encryption plugin.
--   **[Migrating to Column Level Encryption](../../now-platform-encryption/concept/migration-to-platform-encryption-2.md)**  
+-   **[Migrating to Column Level Encryption](migration-to-platform-encryption-2.md)**  
 Scheduled jobs migrate your keys and encrypted data from Encryption Support to Column Level Encryption.
--   **[Prevent users from attaching unencrypted files](../task/attach-enc-property.md)**  
+-   **[Prevent users from attaching unencrypted files](attach-enc-property.md)**  
 Modify the com.glide.encryption.enable\_attachment\_key\_ui property to prevent your users with access to an encryption module key from attaching unencrypted attachments.
 
 **Parent Topic:**[Column Level Encryption](column-level-encryption-landing.md)

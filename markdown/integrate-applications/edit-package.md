@@ -40,7 +40,7 @@ Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, 
 7.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 
 **Related topics**  
 

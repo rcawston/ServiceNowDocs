@@ -65,7 +65,7 @@ On the home page, do one of the following:-   Under Quick actions, select **Crea
 </td></tr></tbody>
 </table>3.  On the Create New Supplier Case form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Create New Supplier Case form](../reference/new-supplier-case.md).
+    For more information about the form fields and descriptions, see [Create New Supplier Case form](new-supplier-case.md).
 
 4.  Select **Save**.
 
@@ -76,11 +76,11 @@ On the home page, do one of the following:-   Under Quick actions, select **Crea
     1.  Select **Add more details**.
     2.  On the Add more details form, fill in the fields.
 
-        In the **Case type** field, if you selected **Banking information change request**, see [Update banking details form](../reference/update-supp-banking-form.md) for more information about the form fields and descriptions.
+        In the **Case type** field, if you selected **Banking information change request**, see [Update banking details form](update-supp-banking-form.md) for more information about the form fields and descriptions.
 
-        In the **Case type** field, if you selected **Supplier information change request**, see [Update profile details form](../reference/update-supp-profile-form.md) for more information about the form fields and descriptions.
+        In the **Case type** field, if you selected **Supplier information change request**, see [Update profile details form](update-supp-profile-form.md) for more information about the form fields and descriptions.
 
-        In the **Case type** field, if you selected **Supplier location change request**, see [Add New Location form](../reference/supplier-location-form.md) for more information about the form fields and descriptions.
+        In the **Case type** field, if you selected **Supplier location change request**, see [Add New Location form](supplier-location-form.md) for more information about the form fields and descriptions.
 
     3.  Select **Submit**.
 6.  Select **Submit case**.
@@ -94,18 +94,18 @@ The case is created in the **Open** state.
 
 After you submit the case, depending on the case type, the specific playbook for the supplier case opens.
 
-For more information, see [Case playbook for specific supplier case types](../concept/gen-playbook-cases.md) and [Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md).
+For more information, see [Case playbook for specific supplier case types](gen-playbook-cases.md) and [Playbook for updating the supplier primary data](primary-playbook-cases.md).
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 [Configure due dates for supplier cases](configure-case-due-date.md)
 
-[Case playbook for specific supplier case types](../concept/gen-playbook-cases.md)
+[Case playbook for specific supplier case types](gen-playbook-cases.md)
 
-[Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md)
+[Playbook for updating the supplier primary data](primary-playbook-cases.md)
 

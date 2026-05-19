@@ -54,10 +54,10 @@ External dependencies help you understand the impact on project schedules when t
 
 You can navigate to the external project directly from the current project to view the status or update the details of the predecessor task. From the row context menu of the dependent task, select **View project**.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 
 
-[Adding external dependencies for projects](../../project-management/concept/external-dependencies.md)
+[Adding external dependencies for projects](../project-management/external-dependencies.md)
 

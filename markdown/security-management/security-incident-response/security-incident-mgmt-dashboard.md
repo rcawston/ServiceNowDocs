@@ -77,5 +77,5 @@ The following breakdowns apply to the indicators on the dashboard:
 
 [Security Incident Explorer dashboard](si-explorer-dashboard.md)
 
-[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
+[Security Operations Efficiency dashboard](cj-sir-socpa-dashboard.md)
 

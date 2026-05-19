@@ -27,7 +27,7 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Office Manifest form](../reference/office-manifest-form.md).
+    For a description of the field values, see [Office Manifest form](office-manifest-form.md).
 
     You can also configure single sign-on \(SSO\) for your add-in. For more information, see [Configure single sign-on for ServiceNow Add-in for Microsoft 365](configure-sso-sn-addin-ms365.md).
 
@@ -37,7 +37,7 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Office Control form](../reference/office-control-form.md).
+    For a description of the field values, see [Office Control form](office-control-form.md).
 
     **Note:** For Office Controls of the type Menu, you can create menu items by using the related list in the Office Control record.
 
@@ -57,5 +57,5 @@ The manifest is configured and activated for the ServiceNow Add-in for Microsoft
 -   [Configure single sign-on for ServiceNow Add-in for Microsoft 365](configure-sso-sn-addin-ms365.md)
 -   [Upload a manifest to the Microsoft admin center](upload-manifest-ms-admin-center.md)
 
-**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](../concept/configuring-sn-addin-for-ms365.md)
+**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](configuring-sn-addin-for-ms365.md)
 

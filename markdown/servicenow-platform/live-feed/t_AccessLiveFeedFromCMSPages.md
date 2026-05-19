@@ -87,20 +87,20 @@ Select **Fixed Size** and enter height and width pixel dimensions according to t
 5.  Add the block to a page.
 
 
-**Parent Topic:**[Administering Live Feed](../concept/c_AdministerLiveFeed.md)
+**Parent Topic:**[Administering Live Feed](c_AdministerLiveFeed.md)
 
 **Related topics**  
 
 
-[Document feeds](../concept/c_DocumentFeeds.md)
+[Document feeds](c_DocumentFeeds.md)
 
-[Record feeds](../concept/c_RecordFeeds.md)
+[Record feeds](c_RecordFeeds.md)
 
-[Live Feed table notifications](../concept/c_SetUpLiveFeedTableNotifications.md)
+[Live Feed table notifications](c_SetUpLiveFeedTableNotifications.md)
 
-[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)
+[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
 
-[Administering Live Feed](../concept/c_AdministerLiveFeed.md)
+[Administering Live Feed](c_AdministerLiveFeed.md)
 
 [Content Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 

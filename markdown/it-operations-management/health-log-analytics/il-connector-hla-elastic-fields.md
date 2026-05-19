@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Elasticsearch integration configuration forms for Health Log Analytics.
 
-For the Elasticsearch integration setup procedure, see [Set up an Elasticsearch integration for Health Log Analytics](../task/il-connector-hla-elasticsearch.md).
+For the Elasticsearch integration setup procedure, see [Set up an Elasticsearch integration for Health Log Analytics](il-connector-hla-elasticsearch.md).
 
 <table id="table_r45_gzv_mcc"><thead><tr><th>
 

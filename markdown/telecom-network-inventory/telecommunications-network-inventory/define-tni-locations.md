@@ -44,10 +44,10 @@ By using this form, you can construct a location hierarchy. For example, the fol
 
 3.  On the Location form, fill in the fields, with address and contact information for the location record.
 
-    **Note:** To learn more about the fields on the Locations form, see [Location form](../reference/tni-location-forms.md#).
+    **Note:** To learn more about the fields on the Locations form, see [Location form](tni-location-forms.md#).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](../concept/configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)
 

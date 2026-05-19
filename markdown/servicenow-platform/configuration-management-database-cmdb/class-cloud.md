@@ -15,7 +15,7 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Description, identification rule, and other important schema structures for the CMDB cloud classes.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](cmdb-tables-details.md).
 
 ![AWS/Azure/OpenStack class model.](../image/CloudAWS_Azure_OpenStack.png "AWS/Azure/OpenStack class model​")
 

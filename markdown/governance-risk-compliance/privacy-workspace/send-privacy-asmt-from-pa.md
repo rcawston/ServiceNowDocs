@@ -31,7 +31,7 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 4.  On the form, fill in the fields.
 
-    For an explanation of the fields, refer to the [New privacy assessment creation form](../reference/new-privacy-assessment-creation-form.md)
+    For an explanation of the fields, refer to the [New privacy assessment creation form](new-privacy-assessment-creation-form.md)
 
 5.  Select **Update state**.
 
@@ -46,5 +46,5 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 The assessment is sent to the entity owner.
 
-**Parent Topic:**[Types of privacy assessments](../concept/privacy-assessments.md)
+**Parent Topic:**[Types of privacy assessments](privacy-assessments.md)
 

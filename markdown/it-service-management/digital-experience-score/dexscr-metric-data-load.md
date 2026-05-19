@@ -66,5 +66,5 @@ All days of the month
 On 2nd day of the next month.For example, the data for the month of February 2024 is available on the DEX Score dashboard to view on Mar 2, 2024.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+</table>**Parent Topic:**[Digital Experience Score​ reference](dexscr-dex-score-reference.md)
 

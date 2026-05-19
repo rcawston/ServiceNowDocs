@@ -23,7 +23,7 @@ Role required: sn\_coaching.coach
 
 ## About this task
 
-If the [coaching opportunity](../../cf-coaching/task/cf-create-coaching-opportunity.md) includes a survey, you can opt to take the survey and the assessment. When you use a survey to [assess a trainee](../../cf-coaching/task/cf-assess-trainee.md), the score for the survey is automatically calculated when you complete the survey. The assessment rating is then updated based on that score.
+If the [coaching opportunity](../coaching/cf-create-coaching-opportunity.md) includes a survey, you can opt to take the survey and the assessment. When you use a survey to [assess a trainee](../coaching/cf-assess-trainee.md), the score for the survey is automatically calculated when you complete the survey. The assessment rating is then updated based on that score.
 
 The Coaching Overview screen displays the average quality of the tasks that were completed in the past 30 days for your assignment groups.
 
@@ -167,5 +167,5 @@ Training to assign to the trainee.You can also assign learning tasks from course
     -   To complete the adhoc assessment, click **Save**.
     -   To complete assessments creating using coaching opportunities, click **Complete assessment**.
 
-**Parent Topic:**[Surveys in Workforce Optimization for ITSM](../concept/surveys-wfo-itsm.md)
+**Parent Topic:**[Surveys in Workforce Optimization for ITSM](surveys-wfo-itsm.md)
 

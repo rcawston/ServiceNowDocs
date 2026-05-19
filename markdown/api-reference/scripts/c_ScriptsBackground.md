@@ -32,7 +32,7 @@ When a script is run, the instance displays results, information, and error mess
 
 To stop a transaction, see [View and kill active transaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md).
 
-For examples of scripts you could run, see [Useful scripts](../../useful-scripts/concept/usefulScripts.md).
+For examples of scripts you could run, see [Useful scripts](usefulScripts.md).
 
 **Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 

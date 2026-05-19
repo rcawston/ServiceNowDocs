@@ -39,7 +39,7 @@ The entitlements with the following license types are carried over to the new co
 
     2.  On the Software Entitlement form, fill in the required fields.
 
-        For more information, see [Software entitlement fields](../../software-asset-management2/reference/software-entitlement-fields.md).
+        For more information, see [Software entitlement fields](../software-asset-management/software-entitlement-fields.md).
 
     3.  Select **Save**.
 

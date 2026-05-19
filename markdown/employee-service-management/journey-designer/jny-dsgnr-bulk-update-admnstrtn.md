@@ -22,9 +22,9 @@ Managing bulk task updates is set to active for Journey designer version 4.0 and
 -   Submit catalog item \[submit\_catalog\_item\]
 -   Submit order guide \[submit\_order\_guide\]
 
--   **[Remove a task type from bulk update](../task/jny-dsgnr-admin-rmv-blk-updt-type.md)**  
+-   **[Remove a task type from bulk update](jny-dsgnr-admin-rmv-blk-updt-type.md)**  
 As an admin you can remove a task type from the types available for bulk update.
--   **[View Journey designer bulk request task records](../task/jny-dsgnr-admin-view-bulk-request-recrd.md)**  
+-   **[View Journey designer bulk request task records](jny-dsgnr-admin-view-bulk-request-recrd.md)**  
 View bulk update records to determine if updates were successful or failed.
 
 **Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)

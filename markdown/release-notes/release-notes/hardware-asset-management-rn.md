@@ -14,7 +14,7 @@ The ServiceNow® Hardware Asset Management application provides advanced workflo
 
 ## Hardware Asset Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
+[Australia Patch 1](../australia-patch-1.md)- Gain real-time visibility into critical asset data through generative AI-driven asset analysis summaries.
 
 Australia Patch 0
 

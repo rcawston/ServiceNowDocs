@@ -73,7 +73,7 @@ Role required: sn\_hr\_ef.document\_writer
 
 Documents can also be uploaded from the HR case form and then moved to the document repository.
 
-**Note:** Employee documents can also be moved from the HR case form automatically when the case is closed by configuring the HR service. For information on configuring this feature, see [Configure an HR service](../task/configure-hr-service.md).
+**Note:** Employee documents can also be moved from the HR case form automatically when the case is closed by configuring the HR service. For information on configuring this feature, see [Configure an HR service](../hr-service-delivery/configure-hr-service.md).
 
 ### Procedure
 
@@ -97,7 +97,7 @@ Document
 
 Employee document to upload.Click **Choose File** to upload an employee document.
 
-**Note:** By default, the maximum size of a document allowed is 30 MB. The default can be changed from the **Maximum file upload size in megabytes** field in Employee Document Properties. For more information, see [Properties for Employee Document Management application](../reference/employee-doc-properties.md).
+**Note:** By default, the maximum size of a document allowed is 30 MB. The default can be changed from the **Maximum file upload size in megabytes** field in Employee Document Properties. For more information, see [Properties for Employee Document Management application](employee-doc-properties.md).
 
  After selecting a document, the read-only fields show the file size, file format, created on, and created by.
 
@@ -247,7 +247,7 @@ Employee documents can also be added directly to the employee document repositor
 
 The employee documents move from the HR case to the employee document repository. After an employee document is moved, the file name, format, and size are copied from the attachment to the document.
 
-**Note:** You can also automate this process by checking the **Automatically move attachments** box from HR services. See [Configure an HR service](../task/configure-hr-service.md).
+**Note:** You can also automate this process by checking the **Automatically move attachments** box from HR services. See [Configure an HR service](../hr-service-delivery/configure-hr-service.md).
 
 ### What to do next
 
@@ -391,7 +391,7 @@ Purging permanently deletes employee documents from the instance. Purging frees 
 -   Attributes of the deleted documents are stored.
 -   The default attributes that identify deleted documents are employee and HR case number. You can change the default in the Properties for Employee Document Management.
 
-See [Properties for Employee Document Management application](../reference/employee-doc-properties.md).
+See [Properties for Employee Document Management application](employee-doc-properties.md).
 
 ### Procedure
 

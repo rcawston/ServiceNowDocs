@@ -40,7 +40,7 @@ Role required: admin
 
 After creating a custom card, you can reuse it and link it to catalog items.
 
-**Parent Topic:**[Create scripts](../reference/r_ServiceCatalogScriptingExtensn.md)
+**Parent Topic:**[Create scripts](r_ServiceCatalogScriptingExtensn.md)
 
 ## Link a cart to an item
 

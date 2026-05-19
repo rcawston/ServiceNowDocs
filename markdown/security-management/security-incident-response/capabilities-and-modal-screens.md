@@ -249,5 +249,5 @@ So, these can be provided in screen 3 specifically against individual selected i
 -   Crowdstrike Falcon Insight
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Unified experience framework for integrations powered by Capability Framework](../concept/security-incident-response-workspace-capability-framework.md)
+</table>**Parent Topic:**[Unified experience framework for integrations powered by Capability Framework](security-incident-response-workspace-capability-framework.md)
 

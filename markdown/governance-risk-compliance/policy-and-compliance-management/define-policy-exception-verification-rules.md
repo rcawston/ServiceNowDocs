@@ -127,5 +127,5 @@ Select **All** to make it mandatory for all selected users to approve the except
 
 The rules are now set for approvals for policy exception and extension.
 
-**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](../concept/grc-approval-configurator-for-policy-extension-and-exception.md)
+**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](grc-approval-configurator-for-policy-extension-and-exception.md)
 

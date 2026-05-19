@@ -223,7 +223,7 @@ Required authentication mechanism for this integration. Ensure that the authenti
         |**processing**|The operation execution is in progress.|
         |**success**|The operation has been executed successfully.|
 
-    You can create flows and subflows in the spoke details page and use them in your integration. For more information, see [Building flows](../concept/flows.md) and [Building subflows](../concept/subflows.md).
+    You can create flows and subflows in the spoke details page and use them in your integration. For more information, see [Building flows](flows.md) and [Building subflows](subflows.md).
 
     Along with **Spoke activity log**, you can also view details of the available flows, subflows, and actions in the spoke details page.
 

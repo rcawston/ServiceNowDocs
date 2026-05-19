@@ -37,10 +37,10 @@ The following steps provide a high-level overview of the Proactive Triggers conf
 
 4.  Select **New** to [create custom trigger types](create-custom-trigger-types.md).
 
-5.  Create [multiple rules](../concept/multiple-rules-and-actions.md) related to the same trigger type, if needed.
+5.  Create [multiple rules](multiple-rules-and-actions.md) related to the same trigger type, if needed.
 
 
 ## What to do next
 
-[Review execution logging tables and explore common issues and their resolutions](../concept/manage-proactive-triggers-2.md) to ensure that your Proactive Triggers feature is working as expected.
+[Review execution logging tables and explore common issues and their resolutions](manage-proactive-triggers-2.md) to ensure that your Proactive Triggers feature is working as expected.
 

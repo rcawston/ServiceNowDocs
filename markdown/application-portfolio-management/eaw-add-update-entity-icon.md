@@ -46,7 +46,7 @@ Ensure the shape icon is added or uploaded to the ‘db\_image.list’.
 9.  Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

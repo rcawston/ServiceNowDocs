@@ -29,12 +29,12 @@ Role required: sn\_apm.apm\_user
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Request TRM product lifecycle form](../../reference/eaw-reference/eaw-create-trm-prod-lifecycle-req-form.md).
+    For field information, see [Request TRM product lifecycle form](eaw-create-trm-prod-lifecycle-req-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 

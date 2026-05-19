@@ -28,7 +28,7 @@ You can define multiple search sources that reference the same indexed source, s
 
 To limit the set of indexed source table records that AI Search returns as search results, you can apply filter conditions to your search source.
 
-**Note:** Search source filter conditions can only operate on source record fields that are indexed. Fields on referenced records aren't indexed by default. To use a referenced record field in a search source filter condition, you must first configure indexing for the field in the indexed source. For details on this procedure, see [Enable indexing of referenced table fields for an AI Search indexed source](../task/enable-ref-table-field-index-ais.md).
+**Note:** Search source filter conditions can only operate on source record fields that are indexed. Fields on referenced records aren't indexed by default. To use a referenced record field in a search source filter condition, you must first configure indexing for the field in the indexed source. For details on this procedure, see [Enable indexing of referenced table fields for an AI Search indexed source](enable-ref-table-field-index-ais.md).
 
 You can use static and dynamic filter conditions to filter search source records. As an example, you could apply a dynamic **\[Assigned to\] \[is \(dynamic\)\] \[Me\]** user filter to make your search source only return results corresponding to indexed source table records assigned to the search user.
 
@@ -39,13 +39,13 @@ Search sources don't support any of the following filter options:
 -   Dynamic filters with scripts that reference any [global business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/business-rules-classic/c_BusinessRules.md)
 -   Dynamic filters with scripts that use [script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md)
 
-For more information on filter conditions, see [Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md). To learn about relationships between parent and child tables, see [Table extension and classes](../../table-administration/concept/table-extension-and-classes.md). For details on dynamic filter options and their associated scripts, see [Create a dynamic filter option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md).
+For more information on filter conditions, see [Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md). To learn about relationships between parent and child tables, see [Table extension and classes](../table-administration-and-data-management/table-extension-and-classes.md). For details on dynamic filter options and their associated scripts, see [Create a dynamic filter option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md).
 
 ## Linking search sources to search profiles
 
 To make your search source's content available to users, link it to one or more search profiles. You can link multiple search sources to a single search profile.
 
-For more information, see [Link a search source to a search profile](../task/link-search-source-profile-ais.md).
+For more information, see [Link a search source to a search profile](link-search-source-profile-ais.md).
 
 ## Viewing search sources
 
@@ -55,9 +55,9 @@ You can view or edit search sources from any of the following application module
 -   To view search sources that reference a particular indexed source, navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**. Open the indexed source and select its Search Source Mappings related list.
 -   To view search sources linked to a particular search profile, navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**. Open the search profile and select its Search Sources related list.
 
--   **[Create a search source for AI Search](../task/create-search-source-ais.md)**  
+-   **[Create a search source for AI Search](create-search-source-ais.md)**  
 Make searchable content from an indexed source available in user search experiences by defining a search source.
--   **[Preview matching records for an AI Search search source](../task/preview-search-source-records-ais.md)**  
+-   **[Preview matching records for an AI Search search source](preview-search-source-records-ais.md)**  
 View the ServiceNow AI Platform® table records that match a search source's indexed source table and filter conditions.
 
 **Parent Topic:**[Configuring AI Search](configuring-ais.md)

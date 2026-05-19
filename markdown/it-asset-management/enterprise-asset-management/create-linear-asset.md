@@ -135,5 +135,5 @@ A list of two or more geographical \(geo\) points. Each geo point has a latitude
     The linear asset is created and appears in the Linear assets list. You can perform additional configuration on the linear asset by entering details in the other related lists such as **Linear segments**, **Discreet assets**, **Related linear assets**, **Contracts**, and **Expense lines**.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

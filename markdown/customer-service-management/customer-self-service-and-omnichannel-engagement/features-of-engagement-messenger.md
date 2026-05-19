@@ -45,7 +45,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     -   You must configure AI Search in your ServiceNow instance and then enable Typeahead Search and AI Search Assist widgets so that the unauthenticated users can use the AI search feature from Engagement Messenger.
 
-        For more information on enabling Typeahead Search and AI Search Assist widgets for Engagement Messenger, see [Enabling AI search in the Customer and Consumer Service Portals for unauthenticated users](../task/configure_search_csp_guestuser.md).
+        For more information on enabling Typeahead Search and AI Search Assist widgets for Engagement Messenger, see [Enabling AI search in the Customer and Consumer Service Portals for unauthenticated users](configure_search_csp_guestuser.md).
 
         For more information of AI Search configuration, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md).
 
@@ -75,7 +75,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     All technician requests are stored as work orders in your ServiceNow instance so that they can be tracked to completion.
 
-    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [Field service feature configuration](../reference/field-service-feature-configuration.md).
+    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [Field service feature configuration](../field-service-feature-configuration.md).
 
     **Note:**
 
@@ -189,11 +189,11 @@ To learn how to start configuring Engagement Messenger for your third-party webs
 
 [Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-[Case management for Customer Service Management](csm-case-management.md)
+[Case management for Customer Service Management](../csm-case-management.md)
 
 [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
 
-[Using Walk-up Experience](use-walkup-experiencce.md)
+[Using Walk-up Experience](../use-walkup-experiencce.md)
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 

@@ -51,5 +51,5 @@ The Basel Dashboard has two tabs:
     -   Open Risk Events by Line of Business
     -   Closed Risk Events by Line of Business
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
 

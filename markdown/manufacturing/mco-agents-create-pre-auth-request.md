@@ -25,7 +25,7 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 
 3.  On the Create New Pre Authorized Repair Request form, fill in the fields.
 
-    For a description of the field values, see [Pre-authorization form](../reference/mco-pre-auth-form.md).
+    For a description of the field values, see [Pre-authorization form](mco-pre-auth-form.md).
 
 4.  Select **Continue**.
 
@@ -39,7 +39,7 @@ Role required: sn\_claim\_cmn.warranty\_specialist
     -   Goodwill: Repair services that may be free or discounted at the manufacturer's discretion.
 8.  On the Repair claim jobs form, fill in the fields.
 
-    For a description of the field values, see [Pre-authorization job details form](../reference/mco-pre-auth-job-details-form.md).
+    For a description of the field values, see [Pre-authorization job details form](mco-pre-auth-job-details-form.md).
 
 9.  Select **Save**.
 
@@ -59,5 +59,5 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 -   **[Review and approve a pre-authorization request](mco-pre-auth-review.md)**  
 Review and approve the pre-authorization request submitted by a dealer.
 
-**Parent Topic:**[Pre-authorization requests](../concept/mco-agents-pre-auth-requests.md)
+**Parent Topic:**[Pre-authorization requests](mco-agents-pre-auth-requests.md)
 

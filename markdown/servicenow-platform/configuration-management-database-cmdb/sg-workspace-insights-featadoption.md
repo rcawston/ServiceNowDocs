@@ -91,7 +91,7 @@ Data ingestion contains the following features and aggregations:
 
 -   **IntegrationHub ETL**
 
-    Determines whether the [IntegrationHub ETL](integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
+    Determines whether the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
 
     Select **View ETL transform maps** to open IntegrationHub ETL where you can examine existing ETL transform maps and create new ones.
 
@@ -147,13 +147,13 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Checks if there is at least one class for which the **managed\_by\_group** attribute is globally set so that all class CIs are synchronized on the same value.
 
-    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](../../csdm-implementation/task/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](../../csdm-implementation/concept/csdm-data-synchronize.md).
+    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](../common-service-data-model-csdm/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](../common-service-data-model-csdm/csdm-data-synchronize.md).
 
 -   **Principal classes**
 
     Checks if the Principal Class filter is configured with at least one principal class. The Principal Class filter limits the number of CIs that appear in list views, to show only CIs of principal classes. Reducing the amount of data in list views to only relevant data, improves performance and efficiency.
 
-    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md).
+    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](update-principal-class-filter.md).
 
 
 ## CMDB feature adoption: Search &amp; analytics
@@ -184,13 +184,13 @@ Search &amp; analytics contains the following features and aggregations:
 
     Total number of raw [CMDB 360](multisource-cmdb.md) records in the CMDB 360 data store that contains records for each discovery source report, per each CI attribute. This card is identical to the [Total CMDB 360 records](cmdb360-exp-cmdb-workspace.md) card in the Discovery Sources tile in the CMDB 360 view.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](components-multisource-cmdb.md).
 
 -   **CMDB 360 queries**
 
     Count of CMDB 360 queries that exist in the CMDB Multisource Queries \[cmdb\_multisource\_query\] table.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](components-multisource-cmdb.md).
 
 -   **CMDB Data Foundation dashboard**
 

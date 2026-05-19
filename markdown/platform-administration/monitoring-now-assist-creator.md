@@ -41,6 +41,6 @@ Access details about Creator Plus entitlements by navigating to **Admin** &gt; *
     In some scenarios, data isn't displayed in the **Instances** list.
 
     -   Only instances on Washington DC Patch 2 and higher are listed in the **Instances** list.
-    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](../task/share-subscription-data.md).
+    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](share-subscription-data.md).
 -   View Creator Plus product subscription details by selecting a product in the **Subscriptions** list. On the details page, allocate available Creator Plus subscriptions by adding one or more groups with the Creator role.
 

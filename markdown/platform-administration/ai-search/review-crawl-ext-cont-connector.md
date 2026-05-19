@@ -42,8 +42,8 @@ You can select an individual crawl history record to examine a crawl in more det
 
     The Statistics tab shows details about items encountered during the crawl.
 
-    -   For content crawls, this tab shows document statistics and crawl speed in documents per second. For explanations of these document statistics, see [Statistics for external content connector content crawls](../reference/document-statistics-external-content-connectors.md).
-    -   For user permission crawls, this tab shows permission statistics and crawl speed in users per second. For explanations of these permission statistics, see [Statistics for external content connector user permission crawls](../reference/permission-statistics-external-content-connectors.md).
+    -   For content crawls, this tab shows document statistics and crawl speed in documents per second. For explanations of these document statistics, see [Statistics for external content connector content crawls](document-statistics-external-content-connectors.md).
+    -   For user permission crawls, this tab shows permission statistics and crawl speed in users per second. For explanations of these permission statistics, see [Statistics for external content connector user permission crawls](permission-statistics-external-content-connectors.md).
 5.  To view entries for any alerts encountered during the crawl, navigate to the Alerts tab.
 
     Alerts include informational, debugging, warning, and error events logged by the connector during its crawl.
@@ -87,5 +87,5 @@ You can select an individual crawl history record to examine a crawl in more det
 6.  To view details for an alert, select the **View Details** link for that alert entry.
 
 
-**Parent Topic:**[Reviewing external content connector crawl results and analytics](../concept/reviewing-external-content-connector-results-and-analytics.md)
+**Parent Topic:**[Reviewing external content connector crawl results and analytics](reviewing-external-content-connector-results-and-analytics.md)
 

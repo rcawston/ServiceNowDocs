@@ -34,5 +34,5 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
     New records are created in the Health Verification Acknowledgements related list for each user included in the target audience. If a user submits a response through a previous day's notification, the response is updated for the latest date the user was sent the notification.
 
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 

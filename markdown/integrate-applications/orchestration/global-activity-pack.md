@@ -25,7 +25,7 @@ Any activities you create in the global scope are listed in the Global category 
 
 The Test Server Alive activity determines if a target system is alive by its response to a particular protocol.
 
-This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](../../orchestration-activity-designer/task/t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+This activity replaces an activity by the same name available in releases prior to Istanbul. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Istanbul. However, all new workflows must use the custom version of this activity. This activity was built with the [Probe activity template](t_CreateAProbeActivity.md#), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
 ### Input variables
 

@@ -23,5 +23,5 @@ As a Redox administrator, configure your ServiceNow instance credentials in the 
 
 **Note:** To send requests to a ServiceNow instance from the Redox engine, ensure that you enter the REST API URL in the following format: `https://<instance name>/api/sn_redox/v1/redox_webhook_callbacks`.
 
-In the Redox engine, a request is determined by the event type and workflow setup for your integration. For more information, see [Supported data models and event types for Redox Inbound Integration](../reference/hcls-redox-supported-dm.md).
+In the Redox engine, a request is determined by the event type and workflow setup for your integration. For more information, see [Supported data models and event types for Redox Inbound Integration](hcls-redox-supported-dm.md).
 

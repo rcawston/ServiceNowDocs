@@ -30,5 +30,5 @@ Role required: admin
 4.  In the Scheduled Script ExecutionSyncIPAddressToOT page, select **Execute Now**.
 
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](ot-assets-related-links-and-lists.md)
 

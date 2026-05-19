@@ -40,7 +40,7 @@ The Exposure Case Task Survey is available for contact tracers to use to assess 
     -   Contact the user by calling or sending an email with the questions specified in the survey by clicking **Take Survey**.
     -   Send the survey via SMS for the user to respond via SMS by clicking **Send SMS Survey** if available.
 
-        **Note:** You must have Virtual Agent installed and set up for use with SMS and Twilio to complete SMS outreach delivery. For more information on this feature, see [Virtual Agent conversations for Contact Tracing](../concept/contact-tracing-va-sms.md#).
+        **Note:** You must have Virtual Agent installed and set up for use with SMS and Twilio to complete SMS outreach delivery. For more information on this feature, see [Virtual Agent conversations for Contact Tracing](contact-tracing-va-sms.md#).
 
     Each follow-up result is added to the Survey results related list.
 
@@ -69,5 +69,5 @@ If Employee Readiness Core is installed and the potentially exposed contacts req
 
 After all the case tasks in the case have been closed, the case manager can close the case.
 
-**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](exposure-case-management.md)
 

@@ -78,5 +78,5 @@ Then the field of the Strategic Program \[sn\_align\_core\_program\] table that 
 **Related topics**  
 
 
-[Modify lens structure in Portfolio Planning](../task/modify-lens-portfolio-planning.md)
+[Modify lens structure in Portfolio Planning](modify-lens-portfolio-planning.md)
 

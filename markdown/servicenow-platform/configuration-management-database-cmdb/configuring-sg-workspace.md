@@ -20,10 +20,10 @@ Plan and configure your implementation of Service Graph Workspace.
     Request the store app and enable demo data.
 
 2.  Configure any of the following options to show the most relevant data in your organization:
-    -   [Modify important actions on the Governance view of Service Graph Workspace](../task/sg-workspace-edit-imp-action.md)
-    -   [Configure datacenters for Cloud vs Non-cloud resources in Service Graph Workspace](../task/sg-workspace-config-datacenter.md)
-    -   [Configure classes for Cloud vs Non-cloud resources in Service Graph Workspace](../task/sg-workspace-config-classes-cloud.md)
-    -   [Request additional attributes for new CIs](../task/add-att-create-ci-sg-workspace.md)
-    -   [Limit the class list for new CIs created in a workspace](../task/limit-class-create-ci-workspace-sg.md)
-    -   [Create a custom list in the Lists view in Service Graph Workspace](../task/sg-workspace-create-custom-list.md)
+    -   [Modify important actions on the Governance view of Service Graph Workspace](sg-workspace-edit-imp-action.md)
+    -   [Configure datacenters for Cloud vs Non-cloud resources in Service Graph Workspace](sg-workspace-config-datacenter.md)
+    -   [Configure classes for Cloud vs Non-cloud resources in Service Graph Workspace](sg-workspace-config-classes-cloud.md)
+    -   [Request additional attributes for new CIs](add-att-create-ci-sg-workspace.md)
+    -   [Limit the class list for new CIs created in a workspace](limit-class-create-ci-workspace-sg.md)
+    -   [Create a custom list in the Lists view in Service Graph Workspace](sg-workspace-create-custom-list.md)
 

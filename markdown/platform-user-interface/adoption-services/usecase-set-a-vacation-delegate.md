@@ -207,9 +207,9 @@ No trigger is required.
 
 The guided tour is created and listed in the Help Center.
 
-Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](../concept/accessing-guided-tours.md#).
+Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](accessing-guided-tours.md#).
 
-**Parent Topic:**[Guided Tour Designer use case](../concept/guided-tour-designer-use-case.md)
+**Parent Topic:**[Guided Tour Designer use case](guided-tour-designer-use-case.md)
 
 **Related topics**  
 

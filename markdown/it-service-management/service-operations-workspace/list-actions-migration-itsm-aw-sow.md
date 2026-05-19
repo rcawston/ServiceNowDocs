@@ -44,18 +44,18 @@ The following are the list actions available in ITSM Agent Workspace:
 -   Client action
 -   UI component
 
--   **[Migrate the client script from ITSM Agent Workspace to Service Operations Workspace for ITSM](../task/migrate-list-client-script-aw-to-sow.md)**  
+-   **[Migrate the client script from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-list-client-script-aw-to-sow.md)**  
 Configure the client script to migrate list actions from ITSM Agent Workspace to Service Operations Workspace for ITSM.
--   **[Migrate the server script from ITSM Agent Workspace to Service Operations Workspace for ITSM](../task/migrate-list-server-script-aw-sow.md)**  
+-   **[Migrate the server script from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-list-server-script-aw-sow.md)**  
 Configure the server script to migrate list actions from ITSM Agent Workspace to Service Operations Workspace for ITSM.
--   **[Migrate the client action from ITSM Agent Workspace to Service Operations Workspace for ITSM](../task/migrate-list-client-action-aw-to-sow.md)**  
+-   **[Migrate the client action from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-list-client-action-aw-to-sow.md)**  
 Configure the client actions to migrate list actions from ITSM Agent Workspace to Service Operations Workspace for ITSM.
--   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for ITSM](../task/migrate-list-ui-component-from-aw-to-sow.md)**  
+-   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-list-ui-component-from-aw-to-sow.md)**  
 Configure the UI component to migrate list actions from ITSM Agent Workspace to Service Operations Workspace \(SOW\) for ITSM.
--   **[Perform post-migration tasks for list actions](../task/verify-migration-status-list-actions.md)**  
+-   **[Perform post-migration tasks for list actions](verify-migration-status-list-actions.md)**  
 Verify that the list actions in Service Operations Workspace \(SOW\) are consistent with the list actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the migrated list actions settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

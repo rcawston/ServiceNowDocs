@@ -15,10 +15,10 @@ breadcrumb: [API reference, API implementation and reference]
 
 Use the ServiceNow Mobile SDK to leverage the functionality and resources of the ServiceNow platform within your standalone mobile Android and iOS applications.
 
--   **[Mobile SDK - Android](../../../app-store/dev_portal/API_reference/MobileSDKAndroid/concept/MobileSDKAndroidAPI.md)**  
+-   **[Mobile SDK - Android](MobileSDKAndroidAPI.md)**  
 The Mobile SDK for Android provides the classes necessary to interface Android devices with the ServiceNow platform.
--   **[Mobile SDK - iOS](../../../app-store/dev_portal/API_reference/MobileSDKiOS/concept/MobileSDKiOSAPI.md)**  
+-   **[Mobile SDK - iOS](MobileSDKiOSAPI.md)**  
 The Mobile SDK for iOS provides the classes necessary to interface iOS-based devices with the ServiceNow platform.
 
-**Parent Topic:**[API reference](api-reference.md)
+**Parent Topic:**[API reference](../api-reference.md)
 

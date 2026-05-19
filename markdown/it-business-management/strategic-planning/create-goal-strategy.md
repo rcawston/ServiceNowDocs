@@ -62,7 +62,7 @@ On the Goals page, select **New**.
 </td></tr></tbody>
 </table>4.  On the form, fill in the **Name** and other required fields.
 
-    For a description of the field values, see [Goal form](../../spw-goals/reference/goal-form-egm.md).
+    For a description of the field values, see [Goal form](../scenario-planning-in-spw/goal-form-egm.md).
 
 5.  Select **Save**.
 

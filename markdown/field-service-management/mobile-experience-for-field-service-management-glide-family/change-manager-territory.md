@@ -39,5 +39,5 @@ By default Field Service Manager Mobile uses assignment groups.
 **Related topics**  
 
 
-[Activate Field Service Territory Planning](Activate-fsm-territory-planning.md)
+[Activate Field Service Territory Planning](../workforce-optimization-for-field-service/Activate-fsm-territory-planning.md)
 

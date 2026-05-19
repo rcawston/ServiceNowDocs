@@ -33,7 +33,7 @@ You must install the following plugins for Creator Studio:
     -   Type: string
     -   Default value: 211f71ca73202010ae42d31ee2f6a785
     -   Hide additional templates by adding their system values \(sys\_id for the template\), separated by commas, in the **Value** field. For more information on the sys\_id, see [Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md).
-    For more information, see [Show the AES template](../task/creator-studio-unhide-template.md).
+    For more information, see [Show the AES template](creator-studio-unhide-template.md).
 
 -   **sn\_creatorstudio.history\_record\_limit**
 
@@ -224,7 +224,7 @@ Request Task \[sn\_creatorstudio\_task\]
 Table where all requests from apps made in Creator Studio are stored.**Note:**
 
 -   You must have the Request Task table installed on the production instance as well as the non-production instance.
--   Admins can change the associated table that each app in Creator Studio uses. However, the tables in this topics are still installed by default. For more information, see [Administering an app's associated table](../concept/creator-studio-admin-app-table.md).
+-   Admins can change the associated table that each app in Creator Studio uses. However, the tables in this topics are still installed by default. For more information, see [Administering an app's associated table](creator-studio-admin-app-table.md).
 -   You can change the **Request type** field, which specifies the form, on the Request Task table or a table that extends Request Task. To do so, you must be an admin or have the sn\_creatorstudio.configuration\_admin or sn\_creatorstudio.task\_admin role.
 
 </td></tr><tr><td>
@@ -236,5 +236,5 @@ Creator Studio Activities \[sn\_creatorstudio\_activity\]
 Table where all standard and custom activities for Creator Studio automations are stored.**Note:** This table is readable by Creator Studio users and delegated developers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installing Creator Studio from the ServiceNow Store](../concept/installing-creator-studio-from-the-store.md)
+</table>**Parent Topic:**[Installing Creator Studio from the ServiceNow Store](installing-creator-studio-from-the-store.md)
 

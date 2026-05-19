@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Information Request Playbook application](../task/install-psds-information-request-playbook.md)
+[Install Information Request Playbook application](install-psds-information-request-playbook.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Service Request Playbook application](../task/install-psds-service-request-playbook.md)
+[Install Service Request Playbook application](install-psds-service-request-playbook.md)
 
 </td><td>
 

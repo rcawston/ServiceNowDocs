@@ -45,7 +45,7 @@ Beginning with the Yokohama release, you can configure the BIA template with the
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [BIA template form for the legacy assessment](../reference/bia-template-new-record-form.md).
+    For more information on the fields in the form, see [BIA template form for the legacy assessment](bia-template-new-record-form.md).
 
 4.  Add the name and description for the BIA template.
 
@@ -74,8 +74,8 @@ Beginning with the Yokohama release, you can configure the BIA template with the
     The BIA template with the legacy assessment is configured in the instance.
 
 
--   **[BIA template form for the legacy assessment](../reference/bia-template-new-record-form.md)**  
+-   **[BIA template form for the legacy assessment](bia-template-new-record-form.md)**  
 Use the BIA template form to configure the business impact analysis with the legacy template. You can add details such as name, description, elements, impact categories, and so on in the form.
 
-**Parent Topic:**[Setup for a business impact analysis](../concept/bcm-admin-tasks.md)
+**Parent Topic:**[Setup for a business impact analysis](bcm-admin-tasks.md)
 

@@ -34,7 +34,7 @@ The following table lists the mandatory fields for the GL Account Stage inbound 
 |Sub-ledger account|String|Sub-ledger account number.|
 |Type|String|Type of GL account.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

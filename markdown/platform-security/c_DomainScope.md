@@ -103,5 +103,5 @@ For example, if you deactivate the ACME domain from the sample data, the instanc
 
 [Concepts for service providers](sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](r_InstalledWithDomainSeparation.md)
 

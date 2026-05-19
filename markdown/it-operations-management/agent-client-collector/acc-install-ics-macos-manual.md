@@ -92,5 +92,5 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
     **Note:** By default, exiting the installation program causes the program to restart immediately. To ensure that the program remains stopped after exiting, set the KeepAlive property in the `/Library/LaunchDaemons/com.sn.acc.plist` file to **false**.
 
 
-**Parent Topic:**[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+**Parent Topic:**[Installing MID-less Agent Client Collector](acc-itom-cloud-services.md)
 

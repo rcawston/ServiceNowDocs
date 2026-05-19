@@ -35,9 +35,9 @@ The **Financials** tab of the Scenario page enables you to set custom targets, b
 
 Portfolio Manager can simulate multiple scenarios with different budget combinations and compare their outcomes to arrive at an informed decision to balance the resources and strategic objectives. Using the financials view in Scenario planning, you can get a simulation mode for the financial information. Using this view, the strategic planning users such as Portfolio managers, Program managers, or Portfolio user working on the portfolios, can set a portfolio budget target for a particular planning cycle, which could be a monthly, quarterly, yearly, or beyond a year up to 5 years. Using this defined budget, portfolio users can prioritize the planning items within the portfolio to analyze if the prioritized items can be executed within their portfolio budget, while reviewing the monetary benefit from the prioritized items.
 
-**Important:** [Enable the budget allocation property](../../spw-financials/task/enable-fin-budget-spw.md) to allocate budget to your planning items at portfolio-level and [configure the budget attributes](../../spw-financials/task/config-budget-allocation-attribute-spw.md) to allocate budget by expense type or cost type.
+**Important:** [Enable the budget allocation property](../scenario-planning-in-spw/enable-fin-budget-spw.md) to allocate budget to your planning items at portfolio-level and [configure the budget attributes](../scenario-planning-in-spw/config-budget-allocation-attribute-spw.md) to allocate budget by expense type or cost type.
 
-Create multiple scenarios to compare them, and work with your stakeholders to approve an ideal plan with better monetary benefit returns. Once approved, the approved Scenario will become your new portfolio plan for the defined planning cycle. For more information to know about the changes happening in a portfolio after scenario approval, see [Approve a scenario](../../spw-scenario-planning/task/approve-a-scenario-in-strategic-planning.md).
+Create multiple scenarios to compare them, and work with your stakeholders to approve an ideal plan with better monetary benefit returns. Once approved, the approved Scenario will become your new portfolio plan for the defined planning cycle. For more information to know about the changes happening in a portfolio after scenario approval, see [Approve a scenario](../scenario-planning-in-spw/approve-a-scenario-in-strategic-planning.md).
 
 You can perform financial scenario planning throughout your planning or execution cycle depending on your organization needs such as at your regular planning cycles, quarterly reviews, or financial review cycles. Financials in scenario planning helps you to arrive at an informed decision and customize the portfolio planning to match with your organization needs.
 
@@ -68,10 +68,10 @@ In scenario planning, you can perform the following actions:
 
 |Feature|Description|
 |-------|-----------|
-|[Create a scenario](../task/create-a-scenario-in-portfolio-planning.md)|Create a scenario from the current plan, or another scenario, in a simulated environment to compare the scenario with the live plan and other scenarios.|
-|[Compare scenarios](../task/compare-scenarios-in-portfolio-planning.md)|Compare scenarios and the live plan side by side to review tradeoffs and items added or removed from the plans.|
-|[Approve a scenario](../task/approve-a-scenario-in-portfolio-planning.md)|Approve the best scenario.|
-|[Manage scenarios](../task/manage-scenarios-in-portfolio-planning.md)|View list of scenarios, rename scenarios, and delete scenarios.|
+|[Create a scenario](create-a-scenario-in-portfolio-planning.md)|Create a scenario from the current plan, or another scenario, in a simulated environment to compare the scenario with the live plan and other scenarios.|
+|[Compare scenarios](compare-scenarios-in-portfolio-planning.md)|Compare scenarios and the live plan side by side to review tradeoffs and items added or removed from the plans.|
+|[Approve a scenario](approve-a-scenario-in-portfolio-planning.md)|Approve the best scenario.|
+|[Manage scenarios](manage-scenarios-in-portfolio-planning.md)|View list of scenarios, rename scenarios, and delete scenarios.|
 
 ## Scenario planning use cases
 

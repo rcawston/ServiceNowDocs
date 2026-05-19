@@ -38,5 +38,5 @@ When an article is in the **Review** state, only those users who are included in
 
 The system displays the Knowledge form. The version number of the article increments to the next whole number \(for example, from 2.02 to 3.0\) and the state changes to **Published**. The new published version of the article is added to the Knowledge list and to the **Article Versions** related list on the Knowledge form.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

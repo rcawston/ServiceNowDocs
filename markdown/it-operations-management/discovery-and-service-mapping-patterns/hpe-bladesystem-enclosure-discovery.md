@@ -122,10 +122,10 @@ Discovery creates these relationships to support HPE BladeSystem Enclosure disco
 |Serial Number \[cmdb\_serial\_number\]|references|HPE BladeSystem Enclosure \[cmdb\_ci\_hpe\_bladesystem\_enclosure\]|
 |Serial Number \[cmdb\_serial\_number\]|references|HPE BladeSystem Blade \[cmdb\_ci\_hpe\_bladesystem\_blade\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 
 **Related topics**  
 
 
-[SNMP-based queries](snmp-based-queries.md)
+[SNMP-based queries](../service-mapping/snmp-based-queries.md)
 

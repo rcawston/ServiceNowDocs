@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content.
 -   **Configure a discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -280,9 +280,9 @@ Indicates whether automated backups are enabled and the retention period.
 **Related topics**  
 
 
-[AWS discovery using patterns](data-discovered-aws-patterns.md)
+[AWS discovery using patterns](../discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
 [Service Graph Connector for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-aws-sg.md)
 
-[Agent Client Collector Discovery](../../agent-client-collector/concept/acc-discovery.md)
+[Agent Client Collector Discovery](../agent-client-collector/acc-discovery.md)
 

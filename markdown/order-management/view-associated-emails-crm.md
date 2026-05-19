@@ -38,5 +38,5 @@ Role required: sn\_crm\_outlook.crm\_outlook\_user
 6.  View email by selecting a timestamp link from the Created column.
 
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

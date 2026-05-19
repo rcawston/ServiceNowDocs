@@ -17,11 +17,11 @@ Time configuration helps you easily handle any necessary timing or scheduling as
 
 Records stored on the ServiceNow AI Platform are kept with times measured down to the millisecond. Time configuration includes multiple applications to help you use those records correctly, with scheduling and monitoring activities in your business' day-to-day operations.
 
--   **[Date and Date/Time fields](reference/r_UseDateAndTimeFields.md)**  
+-   **[Date and Date/Time fields](r_UseDateAndTimeFields.md)**  
 Records in the ServiceNow AI Platform store date and time values in several different types of fields. These values are stored as integer numbers, in milliseconds, and appear in the appropriate date or date/time format.
--   **[Schedules](concept/c_UseSchedules.md)**  
+-   **[Schedules](c_UseSchedules.md)**  
 Use schedules to specify when service level agreements or inactivity monitors are active, or to specify when on-call rotations should take effect. Schedules are rules that include or exclude time for various actions or tasks.
--   **[System scheduler](concept/c_SystemScheduler.md)**  
+-   **[System scheduler](c_SystemScheduler.md)**  
 The System Scheduler application contains two separate engines for scheduling: the Scheduled Jobs engine and the Schedules engine.
 
 **Parent Topic:**[Time configuration](time-configuration-landing.md)

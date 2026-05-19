@@ -20,7 +20,7 @@ The ServiceNow® Configuration Management Database \(CMDB\) application stores d
 The ServiceNow® Document Services application provides a broad range of services that are related to document management, such as creating, maintaining, and converting documents, as well as integrating with third parties like Microsoft SharePoint. Document Services was enhanced and updated in the Australia release.
 -   **[Hermes Messaging Service release notes](hermes-messaging-service-rn.md)**  
 The ServiceNow® Hermes Messaging Service application enables you to integrate your Apache Kafka environment with your ServiceNow® instance. Hermes Messaging Service was enhanced and updated in the Australia release.
--   **[Import and Export release notes](../now-platform-app-engine/import-export-rn.md)**  
+-   **[Import and Export release notes](import-export-rn.md)**  
 The ServiceNow® Import and Export applications enable you to import and export data to and from the ServiceNow AI Platform. Import and Export were enhanced and updated in the Australia release.
 -   **[Instance Data Replication release notes](instance-data-replication-rn.md)**  
 The ServiceNow® Instance Data Replication \(IDR\) application simplifies the data replication process between instances. Instance Data Replication was enhanced and updated in the Australia release.

@@ -26,7 +26,7 @@ Demand currency quick start tests require activating the PPM Standard Multicurre
 |Verify cost in demand currency on cost plan|Validate the calculation of cost plan breakdown with budget reference rate and verify the roll up to cost plan in demand currency.|Quebec|
 |Verify benefit in demand currency on benefit plan|Validate the calculation of benefit plan breakdown with budget reference rate and verify the roll up to benefit plan in demand currency.|Quebec|
 
-**Parent Topic:**[Multicurrency in Demand Management](../../../product/planning-and-policy/concept/multicurrency-demand.md)
+**Parent Topic:**[Multicurrency in Demand Management](multicurrency-demand.md)
 
 **Related topics**  
 

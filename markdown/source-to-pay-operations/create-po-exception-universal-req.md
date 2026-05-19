@@ -35,7 +35,7 @@ Role required: Operational buyer
 
 6.  In the Create New Purchase Order Exception form, fill in the details.
 
-    For a description of the field values, see [Create new purchase order exception form](../reference/create-new-poe-form.md).
+    For a description of the field values, see [Create new purchase order exception form](create-new-poe-form.md).
 
     The universal request number from which the purchase order exception is created appears in the **Universal Request** field on the purchase order exception form.
 
@@ -46,12 +46,12 @@ Role required: Operational buyer
 
 A purchase order exception record is created, which links to the original universal request.
 
-**Parent Topic:**[Use Purchase Order Management](../concept/use-purch-order-mgmt.md)
+**Parent Topic:**[Use Purchase Order Management](use-purch-order-mgmt.md)
 
 **Related topics**  
 
 
-[Reporting delivery plan issues](../concept/reporting-delivery-plan-issues.md)
+[Reporting delivery plan issues](reporting-delivery-plan-issues.md)
 
-[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

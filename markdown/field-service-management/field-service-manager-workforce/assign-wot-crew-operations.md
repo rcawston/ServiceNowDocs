@@ -17,7 +17,7 @@ Assign crews to work order tasks that require a group of agents to work on them.
 
 ## Before you begin
 
-If you are scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the crew. For more information, see [Create a work schedule for agents](../../customer-service-management/task/create-agent-work-schedule.md).
+If you are scheduling a task across multiple schedule entries or days, a work schedule must have been assigned to the crew. For more information, see [Create a work schedule for agents](create-agent-work-schedule.md).
 
 **Note:** If the crew schedule has not been defined and you are auto-assigning a task, the system uses the default schedule.
 
@@ -87,5 +87,5 @@ The Confirm Assignment dialog box is displayed.
 </table>
 ## Result
 
-The task is assigned to the crew. All crew members receive a push notification that the work order task is assigned. The Task Assignees table is added to the work order task for more information see, [Task assignees table for crew members or equipment](../reference/task-assignees-table.md).
+The task is assigned to the crew. All crew members receive a push notification that the work order task is assigned. The Task Assignees table is added to the work order task for more information see, [Task assignees table for crew members or equipment](../task-assignees-table.md).
 

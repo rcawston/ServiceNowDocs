@@ -62,5 +62,5 @@ After configuring the JDBC driver, your applications can execute SQL queries aga
 
 After successfully configuring the JDBC driver, your BI tool or application can connect to ServiceNow and execute SQL queries against authorized tables. You can now query ServiceNow data directly without requiring data export or replication.
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

@@ -15,9 +15,9 @@ breadcrumb: [Working with process inefficiency highlights using Now Assist, Conf
 
 Configure improvement opportunities for a process table so that any project that is based on the process table has improvement opportunities configured. You must configure improvement opportunities for your project.
 
-For the detailed procedure of configuring improvement opportunities for a process table, see [Configure improvement opportunities](../task/improvement-opportunities.md).
+For the detailed procedure of configuring improvement opportunities for a process table, see [Configure improvement opportunities](improvement-opportunities.md).
 
-For the detailed procedure of configuring improvement opportunities for a project, see [Set improvement opportunities](../task/improve-opportunities.md).
+For the detailed procedure of configuring improvement opportunities for a project, see [Set improvement opportunities](improve-opportunities.md).
 
 For detailed information about how to generate and view the highlights for improvement opportunities, see [Opportunity details page](opportunity-details.md).
 

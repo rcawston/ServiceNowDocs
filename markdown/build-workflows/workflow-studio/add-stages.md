@@ -17,7 +17,7 @@ Configure when stages display to a user, define stage state labels, and add stag
 
 ## Before you begin
 
-This task assumes that you're familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](../concept/flow-designer-stages.md).
+This task assumes that you're familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](flow-designer-stages.md).
 
 Role required: flow\_designer or admin
 
@@ -47,7 +47,7 @@ Role required: flow\_designer or admin
 
     2.  From **Add stages from a template**, select a stage set to import existing stages from the Stage Sets table, and select **Add stages**.
 
-        To learn more about stage sets, see [Workflow stage sets](../../using-workflows/concept/c_WorkflowStageSets.md#). Any changes made to the copy do not affect the original stage set record.
+        To learn more about stage sets, see [Workflow stage sets](../legacy-workflow/c_WorkflowStageSets.md#). Any changes made to the copy do not affect the original stage set record.
 
         In general, use stage sets when you want to reuse stages across multiple flows or subflows.
 
@@ -57,7 +57,7 @@ Role required: flow\_designer or admin
         |-----|-----------|
         |Name|Display name for the stage. Must be unique.|
         |Value|Internal name for the stage. Must be unique.|
-        |Duration|Estimated duration displayed to the user. If you want to update stages based on flow run times, consider adding one or more Wait for a duration flow logic blocks. For more information, see [Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md).|
+        |Duration|Estimated duration displayed to the user. If you want to update stages based on flow run times, consider adding one or more Wait for a duration flow logic blocks. For more information, see [Wait for a duration flow logic](flow-logic-wait-for-a-duration.md).|
         |Always Show|If selected, the stage displays in the stage field, even if the stage is set within a flow logic block that might not execute.|
 
         In general, create stages inline when you do not plan to reuse stages in other flows or subflows.
@@ -112,5 +112,5 @@ Role required: flow\_designer or admin
 
 When the flow runs, the stage details appear in any field of type Workflow. In a flow with a record-based trigger, the Workflow field of the triggering table displays the current stage state. In a flow with a Service Catalog trigger, the **Stage** field of the Requested Items \[sc\_req\_item\] table displays the current stage state.
 
-**Parent Topic:**[Flow and subflow stages](../concept/flow-designer-stages.md)
+**Parent Topic:**[Flow and subflow stages](flow-designer-stages.md)
 

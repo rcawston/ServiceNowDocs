@@ -73,18 +73,18 @@ For example, if you create a widget in a dashboard configuring the Cost Plan Bre
 
 For more information on the required roles to manage Platform Analytics dashboards, see [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md).
 
--   **[Execution Dashboard in Portfolio Planning Workspace](../../portfolio-planning/concept/execution-dashboard-ppw.md)**  
+-   **[Execution Dashboard in Portfolio Planning Workspace](execution-dashboard-ppw.md)**  
 The Execution Dashboard helps portfolio and product managers gain real-time visibility into delivery progress across work items, enabling portfolio leads to detect delays, course-correct early, and keep the strategy on track.
--   **[View a dashboard in Portfolio Planning Workspace](../task/view-dashboard-ppw.md)**  
+-   **[View a dashboard in Portfolio Planning Workspace](view-dashboard-ppw.md)**  
 View key data and metrics on a dashboard to monitor performance, track progress, and make informed decisions related to planning and execution.
--   **[Create a dashboard](../task/create-dashboard-ppw.md)**  
+-   **[Create a dashboard](create-dashboard-ppw.md)**  
 In the Platform Analytics experience, you can create shareable dashboards with data visualizations, filters, and other elements. You can use the available elements in the inline editor to create different types of widgets as needed.
--   **[Duplicate a dashboard](../task/copy-dashboard-ppw.md)**  
+-   **[Duplicate a dashboard](copy-dashboard-ppw.md)**  
 If the dashboard you want to create is similar to an existing one, duplicating the existing dashboard saves your time. After duplicating the dashboard, you can customize the tabs and widgets as required.
--   **[Share a dashboard](../task/share-dashboard-ppw.md)**  
+-   **[Share a dashboard](share-dashboard-ppw.md)**  
 Share a dashboard with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
--   **[Add a Platform Analytics dashboard](../task/add-platform-dashboard-to-ppw.md)**  
+-   **[Add a Platform Analytics dashboard](add-platform-dashboard-to-ppw.md)**  
 If you have existing dashboards created using Platform Analytics, you can add them to the Portfolio Planning Workspace to access them directly from a single location.
 
-**Parent Topic:**[Portfolio Planning](../../portfolio-planning/concept/portfolio-planning-app-landing-page.md)
+**Parent Topic:**[Portfolio Planning](portfolio-planning-app-landing-page.md)
 

@@ -44,12 +44,12 @@ Different methods are provided for determining availability:
 
 In the service configuration, the appointment booking administrator can select a schedule of days that are excluded from appointment availability. The **Holiday Schedule** field is a reference field that points to the Schedules table \[cmn\_schedule\]. Selecting a schedule from the Schedules list defines the days and times to exclude from appointment availability. In the schedule selected, those days must be set to **Excluded**.
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 
 **Related topics**  
 
 
-[Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md)
+[Global domain configurations](t_ConfigureFieldService.md)
 
 [Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 

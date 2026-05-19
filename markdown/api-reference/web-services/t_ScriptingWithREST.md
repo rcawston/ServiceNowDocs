@@ -50,5 +50,5 @@ Generate an example script and use it as a starting point when scripting outboun
 
 Refer to the RESTMessageV2 and RESTResponseV2 APIs for more information on available scripting methods. Outbound REST scripting examples are also available.
 
-**Parent Topic:**[Scripting outbound REST](../concept/c_ScriptingOutboundREST.md)
+**Parent Topic:**[Scripting outbound REST](c_ScriptingOutboundREST.md)
 

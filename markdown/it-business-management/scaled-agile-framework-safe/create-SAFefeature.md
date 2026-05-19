@@ -76,7 +76,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>    You can also convert an active SAFe story into a SAFe feature. For details, see [Related links and lists for a SAFe story](../reference/related-links-and-lists-of-a-safe-story.md).
+</table>    You can also convert an active SAFe story into a SAFe feature. For details, see [Related links and lists for a SAFe story](related-links-and-lists-of-a-safe-story.md).
 
 2.  On the form, fill in the fields.
 
@@ -247,7 +247,7 @@ Use the SAFe stories related list to view and add stories to the feature.
 -   **[Split a SAFe feature](split-a-safe-feature.md)**  
 Split a SAFe feature into two separate features so that you can track complete and incomplete stories. You can move the feature with the incomplete stories to your backlog or to a future program increment \(PI\) so that you can maintain accurate metrics of the previous sprints and PIs.
 
-**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+**Parent Topic:**[SAFe entities](key-entities-SAFe.md)
 
 **Related topics**  
 

@@ -19,7 +19,7 @@ The Request status AI agent enables you to view your open tickets, check the sta
 
 When you ask for the details of a request, you can perform any other ticket tasks configured by your administrator in the Standard Ticket configuration, such as reopening an incident, and resolving a ticket. You don't need to navigate to a specific page to view your tickets. The AI agent can ask follow-up questions and offer context-aware responses to simplify your experience.
 
-The tools and triggers that are associated with the Request status AI agent are provided by Now Assist applications. You can activate the AI agent by making triggers active and setting the display settings to include Virtual Agent. If you want to change this AI agent's instructions, you mustIf you want to change this AI agent's instructions, you must [duplicate it](../task/clone-ai-agent.md), adjust the settings to suit your specific needs, and activate the duplicated version of the AI agent instead.
+The tools and triggers that are associated with the Request status AI agent are provided by Now Assist applications. You can activate the AI agent by making triggers active and setting the display settings to include Virtual Agent. If you want to change this AI agent's instructions, you mustIf you want to change this AI agent's instructions, you must [duplicate it](clone-ai-agent.md), adjust the settings to suit your specific needs, and activate the duplicated version of the AI agent instead.
 
 ## Request status AI agent overview
 
@@ -37,7 +37,7 @@ To find more information about an open ticket, you can ask the Request status AI
 
 When you ask for the details of a request, you can perform any other ticket tasks configured by your administrator in the Standard Ticket configuration, such as reopening an incident, and resolving a ticket. You don't need to navigate to a specific page to view your tickets. The AI agent can ask follow-up questions and offer context-aware responses to simplify your experience.
 
-The tools and triggers that are associated with the Request status AI agent are provided by Now Assist applications. You can activate the AI agent by making triggers active and setting the display settings to include Virtual Agent. If you want to change this AI agent's instructions, you must [duplicate it](../task/clone-ai-agent.md), adjust the settings to suit your specific needs, and activate the duplicated version of the AI agent instead.
+The tools and triggers that are associated with the Request status AI agent are provided by Now Assist applications. You can activate the AI agent by making triggers active and setting the display settings to include Virtual Agent. If you want to change this AI agent's instructions, you must [duplicate it](clone-ai-agent.md), adjust the settings to suit your specific needs, and activate the duplicated version of the AI agent instead.
 
 ## Prerequisites and setup
 
@@ -53,7 +53,7 @@ To make the Request status AI agent available in Microsoft Teams, you must confi
 
 Required role:
 
-AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../task/define-sec-controls-aia.md).
+AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](define-sec-controls-aia.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to evaluate for readiness. For example, you can add the itil role to the AI agent's list of approved roles so that it can access Incident records.
 

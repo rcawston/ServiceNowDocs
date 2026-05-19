@@ -32,9 +32,9 @@ Quick links added by an administrator appear in all **Journey Types** they are a
 3.  Select a **Type** and **Quick link**.
 
     -   **Type**: Only active **Journey Types** are available.
-    -   **Quick link**: The **Quick link name** for active Employee Center Quick Links. See, [Quick links configuration](../../employee-center/concept/emp-center-quick-link-config.md)
+    -   **Quick link**: The **Quick link name** for active Employee Center Quick Links. See, [Quick links configuration](../employee-experience-foundation/emp-center-quick-link-config.md)
     **Note:** If you don't see the Journey Type you are looking for, start typing the name of the journey type in the field to search for it.
 
 
-**Parent Topic:**[Creating and managing quick links for journeys](../concept/jny-dsgnr-quick-links-why-who.md)
+**Parent Topic:**[Creating and managing quick links for journeys](jny-dsgnr-quick-links-why-who.md)
 

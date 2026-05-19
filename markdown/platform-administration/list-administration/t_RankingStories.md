@@ -42,7 +42,7 @@ A product owner or release planner uses this tool to establish the order in whic
     The system uses this ranked list to display the appropriate backlog in the planning board. For example, if you rank stories in the **Stories** related list in the Release form, the release backlog in the planning board uses the same ranking to display the stories. Conversely, scrum masters, product owners, and release planners can create a new ranking order for the **Stories** related list by rearranging the list of stories in the planning board.
 
 
-**Parent Topic:**[Scrum ranking definitions](../reference/r_ScrumRankingDefinitions.md)
+**Parent Topic:**[Scrum ranking definitions](r_ScrumRankingDefinitions.md)
 
 **Related topics**  
 

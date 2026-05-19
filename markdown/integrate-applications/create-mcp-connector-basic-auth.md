@@ -61,7 +61,7 @@ Add system \(Optional\)
 
 </td><td>
 
-Click the ![Plus icon.](../../../product/rpa-hub/image/icon-plus.png) icon to add an external system. For more information, see [Create external systems](../../../build/workflow-data-fabric/task/connecthub-create-external-systems.md#).**Note:** If you already have an existing system, you can use that system for the MCP connector.
+Click the ![Plus icon.](../../../product/rpa-hub/image/icon-plus.png) icon to add an external system. For more information, see [Create external systems](connecthub-create-external-systems.md#).**Note:** If you already have an existing system, you can use that system for the MCP connector.
 
 </td></tr><tr><td>
 

@@ -93,5 +93,5 @@ Which timezone the schedule uses when determining when to run.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Scan suites](../concept/sec-center-suites.md)
+**Parent Topic:**[Scan suites](sec-center-suites.md)
 

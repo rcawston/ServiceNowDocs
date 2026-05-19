@@ -41,5 +41,5 @@ Role required: admin
 **Related topics**  
 
 
-[Intra-day schedule automation flows and subflows](../reference/intraday-scheduling-flows.md)
+[Intra-day schedule automation flows and subflows](../intraday-scheduling-flows.md)
 

@@ -30,14 +30,14 @@ Either method then allows you to specify which implementations to be used to enr
 
 ![Security Operations Integration - CI Enrichment flow](../image/enrich-ci-flow.png "CI Enrichment")
 
-Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
 The flow process actions include:
 
--   [Execution Tracking - Begin Flow Action](../../security-operations-common/concept/execution-tracking-begin.md)
+-   [Execution Tracking - Begin Flow Action](execution-tracking-begin.md)
 -   [Security Operations Integration - CI Enrichment flow](secops-integ-enrich-ci-wf.md)
--   [Capability Execution Tracking- No Impls action](../reference/execution-tracking-noimpls-activity.md)
--   [Get Supported Security Capabilities action](../reference/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](get-supported-security-capabilities-activity.md)
 
-**Parent Topic:**[Security Operations Integration- Enrich CI capability](../../security-operations-common/concept/enrich-ci-capability.md)
+**Parent Topic:**[Security Operations Integration- Enrich CI capability](enrich-ci-capability.md)
 

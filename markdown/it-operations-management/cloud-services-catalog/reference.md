@@ -19,7 +19,7 @@ The workaround steps to some of the known issues are compiled and described in t
 |----------|----|
 |Cloud Services Catalog: Known Issues and Workarounds|[https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1362282](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1362282)|
 
-**Parent Topic:**[CSC references](../reference/csc-reference.md)
+**Parent Topic:**[CSC references](csc-reference.md)
 
 **Related topics**  
 

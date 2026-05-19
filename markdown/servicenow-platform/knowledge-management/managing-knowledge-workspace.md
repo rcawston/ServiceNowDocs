@@ -42,17 +42,17 @@ The Knowledge list in Workspace is available with the activation of the Agent Wo
 **Related topics**  
 
 
-[View a knowledge article in Agent Workspace](../task/view-article-agent.md)
+[View a knowledge article in Agent Workspace](view-article-agent.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](create-article-workspace.md)
 
-[Edit a knowledge article in Agent Workspace](../task/edit-article-workspace.md)
+[Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
 
-[Schedule a knowledge article for publishing in Agent Workspace](../task/schedule-article-publishing-agent.md)
+[Schedule a knowledge article for publishing in Agent Workspace](schedule-article-publishing-agent.md)
 
-[Work on a feedback task in Agent Workspace](../task/respond-feedback-workspace.md)
+[Work on a feedback task in Agent Workspace](respond-feedback-workspace.md)
 
-[Compare knowledge article versions in Agent Workspace](../task/compare-article-versions-agent.md)
+[Compare knowledge article versions in Agent Workspace](compare-article-versions-agent.md)
 
-[Request translations for missing languages in Agent Workspace](../task/request-translations-agent.md)
+[Request translations for missing languages in Agent Workspace](request-translations-agent.md)
 

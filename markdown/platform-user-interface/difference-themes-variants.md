@@ -37,9 +37,9 @@ Next, you define the primary color for the alternate color palette. This color i
 
 **Note:** Secondary and neutral colors cannot be edited in the dark alternate color palette.
 
-When the palette is created using the colors you selected, you have the option of renaming it. You can [preview all the UI assets available on the ServiceNow AI Platform to visualize how they are rendered when you apply them to your instance](../task/tb-preview-components.md).
+When the palette is created using the colors you selected, you have the option of renaming it. You can [preview all the UI assets available on the ServiceNow AI Platform to visualize how they are rendered when you apply them to your instance](tb-preview-components.md).
 
 **Note:** Dark variants don’t apply to the Core UI, previously referred to as UI16. The Core UI is the interface you use if Next Experience is inactive. However, dark variants extend to most aspects of the Next Experience.
 
-**Parent Topic:**[Manage or edit a theme with Theme Builder](../task/tb-edit-theme.md)
+**Parent Topic:**[Manage or edit a theme with Theme Builder](tb-edit-theme.md)
 

@@ -88,5 +88,5 @@ The selected automations are onboarded to Automation Center. Their cost savings 
 
 After onboarding, monitor the ROI of your automations in the Automation Center Value dashboard. You can return to Automation explorer at any time to discover additional automations or refine your search criteria.
 
-**Parent Topic:**[Using Now Assist for Automation Center](../concept/use-now-assist.md)
+**Parent Topic:**[Using Now Assist for Automation Center](use-now-assist.md)
 

@@ -154,13 +154,13 @@ Link to add a background image to your banner.The recommended size for banners a
 
     To switch languages or translate your content, select the **Language settings** drop-down at the top, right side.
 
-    To switch languages and have the fields on the form appear in a different language, select the **Switch language** button, at the top. This button only appears when the sn\_cd.enable\_language\_switching system property is activated. This is similar to changing your language at login. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+    To switch languages and have the fields on the form appear in a different language, select the **Switch language** button, at the top. This button only appears when the sn\_cd.enable\_language\_switching system property is activated. This is similar to changing your language at login. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
-    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md) and [Configure Localization Framework for Content Publishing](../concept/ec-int-localization-framework.md).
+    To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md) and [Configure Localization Framework for Content Publishing](ec-int-localization-framework.md).
 
     -   **Content Governance**
 
-        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](../concept/ec-content-gov-request.md#).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](ec-content-gov-request.md#).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 

@@ -359,5 +359,5 @@ Details of the thresholds associated with the metric, such as type, related metr
 7.  To visually explore the 360° relationship view of the metric definition, select **360° view**.
 
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

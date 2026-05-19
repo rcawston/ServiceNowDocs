@@ -37,8 +37,8 @@ Once you have obtained a PDI, you can open the instance from **Account** menu.
 
 5.  If the instance is undergoing maintenance, you will need to wait for maintenance to complete before you can access your PDI.
 
-6.  If you have any issues accessing your PDI, review the [Getting instance assistance](../concept/getting_instance_assistance.md) section of this guide for steps you can take.
+6.  If you have any issues accessing your PDI, review the [Getting instance assistance](getting_instance_assistance.md) section of this guide for steps you can take.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

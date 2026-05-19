@@ -40,5 +40,5 @@ The Microsoft 365 for ServiceNow Reporting integration is activated and the foll
 -   **Manage Links**
 -   **Create claim**
 
-**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](../concept/integrating-o365-with-servicenow.md)
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](integrating-o365-with-servicenow.md)
 

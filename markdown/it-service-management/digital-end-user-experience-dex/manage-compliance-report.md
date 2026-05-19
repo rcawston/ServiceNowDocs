@@ -57,7 +57,7 @@ Steps
 
 1.  Select a check box by the system policy value that you want to use for monitoring.
 2.  In the **Actions** drop-down list, select **Turn on monitoring**.
- **Note:** To learn more about adding or editing an application to monitor, see [Add an application for monitoring](add-new-application.md) or [New web or installed application form](../reference/admin-new-app-form.md).
+ **Note:** To learn more about adding or editing an application to monitor, see [Add an application for monitoring](add-new-application.md) or [New web or installed application form](admin-new-app-form.md).
 
 </td></tr><tr><td id="d176053e175">
 
@@ -65,11 +65,11 @@ Steps
 
 </td><td>
 
-Select a metric rule name to customize. The rules trigger actions based on specific metric thresholds.**Note:** To edit or add a metric rule, see [Creating a metric rule](../concept/create-metric-rules.md).
+Select a metric rule name to customize. The rules trigger actions based on specific metric thresholds.**Note:** To edit or add a metric rule, see [Creating a metric rule](create-metric-rules.md).
 
 </td></tr></tbody>
 </table>    **Note:** You can enable multiple compliance policy values simultaneously by selecting a check box next to **Metric name**. Adjust your selection as needed by selecting individual check boxes for each value.
 
-    For more information on the compliance report, see [DEX Insights](../concept/dex-workspace-insights-tab.md).
+    For more information on the compliance report, see [DEX Insights](dex-workspace-insights-tab.md).
 
 

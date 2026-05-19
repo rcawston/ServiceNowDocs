@@ -19,7 +19,7 @@ Factoid extraction uses the machine reading comprehension \(MRC\) model to find 
 
 To enable factoid extraction for Q&amp;A Genius Results, set the **glide.ais.genius\_result.qna\_mode** system property to **sentence** or **snippet**.
 
-For details on setting this system property, see the [Set the factoid extraction mode for Q&amp;A Genius Results](../task/set-factoid-extraction-mode-qna-gr.md) section. To learn about the effects of this system property's values, see the [System properties for factoid extraction in Q&amp;A Genius Results](../reference/sys-props-factoid-extract-qna-gr.md) section.
+For details on setting this system property, see the [Set the factoid extraction mode for Q&amp;A Genius Results](set-factoid-extraction-mode-qna-gr.md) section. To learn about the effects of this system property's values, see the [System properties for factoid extraction in Q&amp;A Genius Results](sys-props-factoid-extract-qna-gr.md) section.
 
 ## Examples of factoid extraction
 

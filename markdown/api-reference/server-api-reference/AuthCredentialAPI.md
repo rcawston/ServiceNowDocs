@@ -36,7 +36,7 @@ var credential = new sn_cc.StandardCredentialsProvider().getAuthCredentialByID("
 
 Use the AuthCredential API in scoped scripts with the `sn_auth` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AuthCredential - AuthCredential\(Object authCredential\)
 

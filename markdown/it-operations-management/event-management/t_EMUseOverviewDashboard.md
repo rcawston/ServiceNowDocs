@@ -23,9 +23,9 @@ From the Xanadu release onward, the Event Management overview module has been de
 -   Event Management scorecards
 -   Event Management overview
 
-The AIOps dashboards offer comprehensive visualizations of critical operational data. You can monitor key performance indicators \(KPIs\), track service health, and gain valuable context on the overall IT environment. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md).
+The AIOps dashboards offer comprehensive visualizations of critical operational data. You can monitor key performance indicators \(KPIs\), track service health, and gain valuable context on the overall IT environment. For more information, see [AIOps Dashboards in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/aiops-dashboards-sow-itom.md).
 
-**Parent Topic:**[Using Event Management](../concept/user-guide.md)
+**Parent Topic:**[Using Event Management](user-guide.md)
 
 **Related topics**  
 

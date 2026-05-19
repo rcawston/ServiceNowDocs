@@ -46,5 +46,5 @@ Use the REST API Explorer to send the following request:
 7.  Verify that the Response Body contains the updated **short\_description** value.
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

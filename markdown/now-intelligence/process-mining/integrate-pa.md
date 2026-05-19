@@ -15,9 +15,9 @@ breadcrumb: [Integration, Activate, Process Mining, Platform Analytics]
 
 Using Process Mining with Platform Analytics indicator data sources enables you to perform data extraction from an indicator and analyze processes associated with KPIs such as Time to resolve.
 
-The Process Mining plugin \(com.sn\_po\) provides an integration between Process Mining and [indicator](../../../use/performance-analytics/concept/performance-analytics-glossary.md#) data sources. Integration occurs automatically when you enable the Process Mining plugin. Afterwards, you can open the Process Mining workbench from KPI Details for an indicator.
+The Process Mining plugin \(com.sn\_po\) provides an integration between Process Mining and [indicator](../performance-analytics/performance-analytics-glossary.md#) data sources. Integration occurs automatically when you enable the Process Mining plugin. Afterwards, you can open the Process Mining workbench from KPI Details for an indicator.
 
-The Process Mining plugin provides template configurations for [indicator sources](../../../use/performance-analytics/concept/performance-analytics-glossary.md#) that use the following tables:
+The Process Mining plugin provides template configurations for [indicator sources](../performance-analytics/performance-analytics-glossary.md#) that use the following tables:
 
 -   Customer service case \[sn\_customerservice\_case\]
 -   Incident \[incident\]
@@ -25,12 +25,12 @@ The Process Mining plugin provides template configurations for [indicator source
 -   Change \[change\]
 -   Requested Item \[sc\_req\_item\]
 
-To support indicators based on other tables, create templates for those tables. For more information, see [Set up a table configuration](../task/po-table-configuration.md).
+To support indicators based on other tables, create templates for those tables. For more information, see [Set up a table configuration](po-table-configuration.md).
 
 **Note:**
 
--   Process Mining supports only [automated indicators](../../../use/performance-analytics/concept/performance-analytics-glossary.md#). From KPI Details for a [formula indicator](../../../use/performance-analytics/concept/performance-analytics-glossary.md#), you can still open Process Mining, but you must choose one of the contributing automated indicators in the formula.
--   Process Mining does not support indicator sources that are based on [database views](../../../use/performance-analytics/concept/performance-analytics-glossary.md#).
+-   Process Mining supports only [automated indicators](../performance-analytics/performance-analytics-glossary.md#). From KPI Details for a [formula indicator](../performance-analytics/performance-analytics-glossary.md#), you can still open Process Mining, but you must choose one of the contributing automated indicators in the formula.
+-   Process Mining does not support indicator sources that are based on [database views](../performance-analytics/performance-analytics-glossary.md#).
 
 ## Roles
 

@@ -24,5 +24,5 @@ The State transition of an automation request guides you through the stages of i
 |Deferred|Automation request that is postponed for a later date.|
 |Rejected|Automation request that is rejected.|
 
-**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

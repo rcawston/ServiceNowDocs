@@ -112,7 +112,7 @@ Apply or update the filters to see the required records on the board.For example
 
 The board is updated and displays the Strategy page, Goals page, or both, depending on what you selected to track.
 
-**Parent Topic:**[Managing boards in Strategic Planning Workspace](../concept/managing-boards-strategy.md)
+**Parent Topic:**[Managing boards in Strategic Planning Workspace](managing-boards-strategy.md)
 
 **Related topics**  
 

@@ -88,5 +88,5 @@ You can specify parts requirements that you want to source instead of sourcing a
     The dialog box closes and you automatically return to the catalog request record.
 
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

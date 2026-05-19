@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowWebViewServiceDelegate API provides callbacks for notification of issues within the NowWebService processing such as when a flow ends or a navigation fails.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowWebViewServiceDelegate - flowEnded\(flowName: String?\)
 

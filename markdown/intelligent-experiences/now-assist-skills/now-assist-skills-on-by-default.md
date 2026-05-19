@@ -37,7 +37,7 @@ Starting with the Zurich Patch 4 release, some Now Assist skills, agents, and ag
 
 **Note:** Some workflow skills support Now Assist functionality. Deactivating these skills may negatively impact some features.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../ai-native-sku-overview.md).
 
 ## Now Assist AI assets that are on by default
 

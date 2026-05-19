@@ -33,7 +33,7 @@ If the template is in Draft state, users can edit it. If the template is in a pu
 
 4.  Specify task plan template access field details.
 
-    For access record fields and description see: [Task plan template access record](../reference/task-plan-template-access-record.md)
+    For access record fields and description see: [Task plan template access record](task-plan-template-access-record.md)
 
 5.  Select **Submit** to save the access record.
 

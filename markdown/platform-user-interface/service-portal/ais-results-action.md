@@ -132,5 +132,5 @@ Custom query parameters to use in addition to the payload query parameters. For 
 </table>3.  Select **Submit**.
 
 
-**Parent Topic:**[AI Search in Service Portal](../concept/ai-search.md)
+**Parent Topic:**[AI Search in Service Portal](ai-search.md)
 

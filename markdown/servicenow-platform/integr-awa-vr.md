@@ -51,7 +51,7 @@ Role required: sn\_cti\_amzn\_cct.admin
 
 ## What to do next
 
-For more information about integrating ServiceNow® Voice with Amazon Connect, see [Integrate ServiceNow Voice with Amazon Connect](../task/integrate-ccc-amazonconnect.md).
+For more information about integrating ServiceNow® Voice with Amazon Connect, see [Integrate ServiceNow Voice with Amazon Connect](integrate-ccc-amazonconnect.md).
 
 **Parent Topic:**[Integrating Voice with other applications](integrate-ccc-other-apps.md)
 

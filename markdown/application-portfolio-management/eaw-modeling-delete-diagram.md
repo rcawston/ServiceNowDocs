@@ -36,5 +36,5 @@ Role required: sn\_apm.apm\_user and Owner access to the diagram
 
 The diagram is deleted from the All Diagrams page.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

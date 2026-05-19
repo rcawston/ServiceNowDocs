@@ -19,7 +19,7 @@ You typically use paginated return results to provide infinite scroll capabiliti
 
 The NowTableService class provides a method for creating a Paginator object that contains the return results from a REST endpoint call:
 
-[NowTableService - paginator\(tableName: String, configuration: FetchConfiguration\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowTableService/concept/NowTableServiceAndroidInterface.md#)
+[NowTableService - paginator\(tableName: String, configuration: FetchConfiguration\)](../cllent-mobile-api-reference/NowTableServiceAndroidInterface.md#)
 
 This method creates a Paginator object that contains the specified records from the specified table in raw data format. If you do not include the FetchConfiguration object in the call, it contains all records and their associated fields in the return results.
 

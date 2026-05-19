@@ -29,7 +29,7 @@ The following items are installed with Task Intelligence Admin Console:
 -   Roles
 -   Tables
 
-For more information, see [Task Intelligence roles](../reference/task-intelligence-roles.md#).
+For more information, see [Task Intelligence roles](task-intelligence-roles.md#).
 
 ## Procedure
 

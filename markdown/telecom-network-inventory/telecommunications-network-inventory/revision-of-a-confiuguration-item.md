@@ -31,7 +31,7 @@ The following process guides you through the flow for a Configuration Item \(CI\
 2.  Customize Cloning Process: You can customize the cloning process and specify which related tables are included. To learn more, see [../task/clone-and-revise-a-ci.md](../task/clone-and-revise-a-ci.md).
 3.  Modify cloned CI: After successful cloning, you can perform changes on the cloned Configuration Item record, as required.
 4.  Finalize and apply changes: Using operationalization process merge and finalize the changes. This process integrates the revisions into the original CI record. To learn more, see [Revise a configuration item using design and assign](revise-a-configuration-item.md).
-5.  Decommission: After operationalization, the cloned CI record is automatically decommissioned, ensuring an efficient workflow. To learn more, see [Decommission an inventory record](../task/decommision-an-inventory-record.md).
+5.  Decommission: After operationalization, the cloned CI record is automatically decommissioned, ensuring an efficient workflow. To learn more, see [Decommission an inventory record](decommision-an-inventory-record.md).
 
 .
 
@@ -39,9 +39,9 @@ The following process guides you through the flow for a Configuration Item \(CI\
 
 Let's say, for a logical connection having two ENETs, you want to add another ENET to increase the LAG capacity. So, in this scenario, for a safe LAG update, use the CI revision.
 
-With the help of revise CI, the LAG and all of its connections are cloned. Then, in the cloned LAG Configuration Item, add the desired ENET member and merge it back into the original CI with the help of operationalize CI. After successful operationalization, all three ENETs are added to the original CI without disrupting the network. To learn more, see [Revise a configuration item using design and assign](revise-a-configuration-item.md), [Operationalize a configuration item](../task/operationalize-a-configuration-item.md). Here, the cloned CI is decommissioned automatically. To learn more, see [Decommission an inventory record](../task/decommision-an-inventory-record.md).
+With the help of revise CI, the LAG and all of its connections are cloned. Then, in the cloned LAG Configuration Item, add the desired ENET member and merge it back into the original CI with the help of operationalize CI. After successful operationalization, all three ENETs are added to the original CI without disrupting the network. To learn more, see [Revise a configuration item using design and assign](revise-a-configuration-item.md), [Operationalize a configuration item](operationalize-a-configuration-item.md). Here, the cloned CI is decommissioned automatically. To learn more, see [Decommission an inventory record](decommision-an-inventory-record.md).
 
 Let's say, you must update the IP address of a router in your network. This router is part of a complex network, and you aren’t sure how changing the IP address affects the rest of the network. So, in this scenario, for a safe update of the router's IP address, use the CI revision.
 
-With the help of revise CI, you firstly, duplicate the router CI and all of its related data. Then, you change the IP address of the duplicated router and merge it back into the original CI with the help of operationalize CI. As a result, the changes are applied to the original router without disrupting the network. To learn more, see [Revise a configuration item using design and assign](revise-a-configuration-item.md) and [Operationalize a configuration item](../task/operationalize-a-configuration-item.md).
+With the help of revise CI, you firstly, duplicate the router CI and all of its related data. Then, you change the IP address of the duplicated router and merge it back into the original CI with the help of operationalize CI. As a result, the changes are applied to the original router without disrupting the network. To learn more, see [Revise a configuration item using design and assign](revise-a-configuration-item.md) and [Operationalize a configuration item](operationalize-a-configuration-item.md).
 

@@ -21,7 +21,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the QueryExcel component. For more information about these properties, see [Properties of the Data Reader components](../reference/util-datareader-prop.md).
+You can configure the properties for the QueryExcel component. For more information about these properties, see [Properties of the Data Reader components](util-datareader-prop.md).
 
 -   **Real-world scenario: Extracting specific sales data**
 
@@ -51,5 +51,5 @@ You can configure the properties for the QueryExcel component. For more informat
 6.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Data Reader](../concept/datareader-utility.md)
+**Parent Topic:**[Data Reader](datareader-utility.md)
 

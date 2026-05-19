@@ -53,5 +53,5 @@ ServiceNow releases all discovery patterns using the following applications:
     ![View the supporting application for patterns.](../image/pattern-list-check-plugin.png)
 
 
-**Parent Topic:**[Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)
+**Parent Topic:**[Configuring Pattern Designer and related applications](configuring-pattern-designer-plugins.md)
 

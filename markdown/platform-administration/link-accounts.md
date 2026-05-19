@@ -44,5 +44,5 @@ Role required: none
     ![The link confirmation message shown on the user record.](../../virtual-agent/images/va-link-confirm-success.png)
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 

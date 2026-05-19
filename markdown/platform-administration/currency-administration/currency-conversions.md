@@ -35,9 +35,9 @@ Whenever you perform a conversion, it uses the latest conversion rates. Therefor
 
 **Note:** For display purposes, the currency value used is what the user entered converted to session currency. However, for aggregation and filtering, the reference currency value is used. Using the reference currency enables currency values converted at different rates to be compared together.
 
--   **[Schedule the rate update job](../../localization/task/t_SetAConversionRate.md)**  
+-   **[Schedule the rate update job](t_SetAConversionRate.md)**  
 Schedule the Update Currency Conversion Rates job to perform a nightly download of currency-conversion tables from the European Central Bank.
--   **[Use your own currency-conversion rates](../../localization/task/t_UseYourOwnConversionTable.md)**  
+-   **[Use your own currency-conversion rates](t_UseYourOwnConversionTable.md)**  
 All currency conversions are based on the rates stored in the Exchange Rate table. You can turn off the regularly scheduled update from the European Central Bank \(ECB\), and maintain the table manually.
 
 **Parent Topic:**[Setting up defaults required for standard currency use](setting-up-standard-currency-defaults.md)

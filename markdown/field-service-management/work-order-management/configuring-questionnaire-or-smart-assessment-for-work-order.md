@@ -35,7 +35,7 @@ For more information, see [Configuring survey-based work order questionnaires](w
 
 A Smart Assessment questionnaire for Now Mobile uses **Template designer** in the Smart Assessment Engine application.
 
-For more information, see [Configuring Smart Assessment questionnaires for Now Mobile Agent](configuring-smart-assessment-questionnaire.md).
+For more information, see [Configuring Smart Assessment questionnaires for Now Mobile Agent](../mobile-experience-for-field-service-management-glide-family/configuring-smart-assessment-questionnaire.md).
 
 **Note:**
 

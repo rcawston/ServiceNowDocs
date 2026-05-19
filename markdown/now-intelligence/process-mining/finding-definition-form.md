@@ -91,5 +91,5 @@ Active
 Select the field if you want this finding definition to be active. By default, it’s selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](process-mining-reference.md)
 

@@ -38,9 +38,9 @@ The following probes are triggered after classification:
 
 ## Tables
 
-Discovery creates a record for each GSS device in the Cisco GSS \[cmdb\_ci\_lb\_cisco\_gss\] table. Domains are populated in the DNS Names \[cmdb\_ci\_dns\_name\] table. Host names and IP addresses are stored in the IP Address to DNS Name \[cmdb\_ip\_address\_dns\_name\] table. [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md) uses this information. You can see the DNS name information on the **DNS Names for CIs** related list of the Load Balancer form.
+Discovery creates a record for each GSS device in the Cisco GSS \[cmdb\_ci\_lb\_cisco\_gss\] table. Domains are populated in the DNS Names \[cmdb\_ci\_dns\_name\] table. Host names and IP addresses are stored in the IP Address to DNS Name \[cmdb\_ip\_address\_dns\_name\] table. [Service Mapping](../service-mapping/c_ServiceMappingOverview.md) uses this information. You can see the DNS name information on the **DNS Names for CIs** related list of the Load Balancer form.
 
-**Note:** The Cisco GSS pattern is available by default to use with the [Pattern Designer](../../service-mapping/concept/c_MappingPatternsCustomization.md).
+**Note:** The Cisco GSS pattern is available by default to use with the [Pattern Designer](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md).
 
 **Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
 

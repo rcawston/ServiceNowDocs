@@ -49,7 +49,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](../concept/sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -136,5 +136,5 @@ Software Lifecycle Report
 Number of products in each software lifecycle phase, including End of Extended Support, End of Life, and End of Support.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](oracle-publisher-pack.md)
 

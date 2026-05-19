@@ -25,7 +25,7 @@ This class acts as a container for simple classes acting as maps of property nam
 -   Arrays of maps representing the instances of related lists, with each array representing a single related list and each element of such an array representing a single row of that related list. These arrays can be retrieved with the [CIData - getRelatedList\(String table, String refField\)](c_CIDataAPI.md#) method.
 -   Arrays of maps representing the instances of many-to-many tables, with each array representing a single many-to-many table and each element of such an array representing a single row of that many-to-many table. These arrays can be retrieved with the [CIData - getM2MTable\(String table, String refField\)](c_CIDataAPI.md#) method.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CIData - CIData\(String debugFlag\)
 

@@ -44,5 +44,5 @@ Select **Scriptable Action** from the Notification Action wizard to create a scr
 -   **[Create a flow notification action](noti-flow-action.md)**  
 Select **Flow Action** from the Notification Action wizard to create a flow notification action.
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

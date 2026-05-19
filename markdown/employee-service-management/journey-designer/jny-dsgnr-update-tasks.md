@@ -55,5 +55,5 @@ Role required: you can use bulk update for any available Journey designer tasks 
     **Note:** Some tasks may be optional. Optional tasks can be skipped. Required tasks can’t be skipped.
 
 
-**Parent Topic:**[Manage Journey designer task updates in bulk](../concept/jny-dsgnr-bulk-task-update.md)
+**Parent Topic:**[Manage Journey designer task updates in bulk](jny-dsgnr-bulk-task-update.md)
 

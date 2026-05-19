@@ -13,7 +13,7 @@ breadcrumb: [Financial Services Operations \(FSO\)]
 
 Set up your Financial Services Operations application by importing financial services data and reviewing and configuring the components installed with the application. You can configure record producers, Workflow Studio flows, assignment groups and rules, workspace, playbooks, and service level agreement definitions for Financial Services Operations applications. These settings enable creating and managing requests and tasks for banking operations.
 
-1.  [Planning to import your financial data](../task/import-financial-accounts-products-institutions.md)
+1.  [Planning to import your financial data](import-financial-accounts-products-institutions.md)
 
     Understand how to import your financial accounts, financial products, financial institutions, and financial transactions into ServiceNow Financial Services Operations Core tables.
 
@@ -29,7 +29,7 @@ Set up your Financial Services Operations application by importing financial ser
 
     Create script includes to store JavaScript that runs on the server.
 
-5.  [Setting up Data models](../reference/data-models.md)
+5.  [Setting up Data models](data-models.md)
 
     Create structured and flexible data models to represent the need across various industries.
 
@@ -41,7 +41,7 @@ Set up your Financial Services Operations application by importing financial ser
 
     Form views refer to the user interfaces or screens that allow users to input, edit, and view data related to tables.
 
-8.  [Configuring service definitions](../task/configure-service-definitions.md)
+8.  [Configuring service definitions](configure-service-definitions.md)
 
     Configure and modify service definitions for Financial Services Operations applications, including reviewing or adding new ones.
 
@@ -49,7 +49,7 @@ Set up your Financial Services Operations application by importing financial ser
 
     Create UI actions.
 
-10. [Setting up CSM Configurable Workspace](../task/configure-csm-workspace-fso-apps.md)
+10. [Setting up CSM Configurable Workspace](configure-csm-workspace-fso-apps.md)
 
     Review the CSM Configurable Workspace in Financial Services Operations applications to ensure it meets your business needs. Customize its components as needed and set it up for agents to engage with customers, answer questions, create cases, and resolve issues.
 
@@ -61,11 +61,11 @@ Set up your Financial Services Operations application by importing financial ser
 
     Set up insurance claim core as per the business requirements.
 
-13. [Configuring assignment rules](../task/configure-assignment-rules-fso-applications.md)
+13. [Configuring assignment rules](configure-assignment-rules-fso-applications.md)
 
     Configure rules to automatically assign cases to specific agents or groups based on the rule conditions. You can either modify predefined assignment rules or create new ones.
 
-14. [Configuring flows](../task/configure-flow-designer-flows-fso-apps.md)
+14. [Configuring flows](configure-flow-designer-flows-fso-apps.md)
 
     Review the available flows in Financial Services Operations applications to ensure they align with your business needs. Customize existing flows or create new ones as necessary.
 

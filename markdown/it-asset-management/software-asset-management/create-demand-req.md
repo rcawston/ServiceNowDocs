@@ -148,5 +148,5 @@ The demand requirement for the demand is created. You can view the created deman
 
 To view all Software Asset Management demand requirements, navigate to **Software Asset** &gt; **Software Asset Demand** &gt; **Demand Requirements**.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

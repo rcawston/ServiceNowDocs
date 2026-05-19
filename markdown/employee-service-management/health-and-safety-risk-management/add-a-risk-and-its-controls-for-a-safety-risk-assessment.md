@@ -52,7 +52,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
     5.  In **Residual severity** and **Residual likelihood** fields, choose what the severity and likelihood of this hazard is, after those controls have been put in place.
 
-    For information on field descriptions, see [Hazard assessment form](../reference/hs-hazard-assessment-form.md).
+    For information on field descriptions, see [Hazard assessment form](hs-hazard-assessment-form.md).
 
 7.  Select **Save**.
 
@@ -65,7 +65,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
     -   The severity and likelihood of the hazard after controls are evaluated to show the hazard's risk level in the **Residual risk** field on the form. After controls, the risk level should be reduced.
     ![Hazard assessment form showing Inherent and Residual risk fields.](../image/hs-hazard-assessment.png)
 
-    For more information on risk level calculation, see [Risk matrix form](../reference/hs-risk-matrix-form.md).
+    For more information on risk level calculation, see [Risk matrix form](hs-risk-matrix-form.md).
 
 -   The hazard assessment is listed in the **Hazard assessments** tab of the risk analysis.
 
@@ -73,5 +73,5 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 If a risk analysis includes more than one hazard, perform a hazard assessment for each.
 
-**Parent Topic:**[Safety risk assessment](../concept/hs-risk-assessment.md)
+**Parent Topic:**[Safety risk assessment](hs-risk-assessment.md)
 

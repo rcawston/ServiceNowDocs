@@ -139,5 +139,5 @@ Information about the task as it progresses through each state. Work notes are n
 </table>    **Note:** The workflow appears at the top of the form, with the completed states shown in green.
 
 
-**Parent Topic:**[Request task management](../concept/c_RequestTasksMgmt.md)
+**Parent Topic:**[Request task management](c_RequestTasksMgmt.md)
 

@@ -14,7 +14,7 @@ The ServiceNow® Purchase Order Management application helps you identify, track
 
 ## Purchase Order Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 

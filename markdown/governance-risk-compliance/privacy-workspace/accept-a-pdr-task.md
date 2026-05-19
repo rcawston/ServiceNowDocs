@@ -45,12 +45,12 @@ Role required: sn\_grc\_pdr.pdr\_agent
     |**To close the task without review**|Select **Close as complete**.|
 
 
-**Parent Topic:**[Using Personal Data Rights](../concept/using-personal-data-right.md)
+**Parent Topic:**[Using Personal Data Rights](using-personal-data-right.md)
 
 **Related topics**  
 
 
-[Workflow of Personal Data Rights](../concept/workflow-of-personal-data-rights.md)
+[Workflow of Personal Data Rights](workflow-of-personal-data-rights.md)
 
 [Add action tasks to a Personal Data Rights request](add-action-tasks-to-a-personal-data-rights-request.md)
 

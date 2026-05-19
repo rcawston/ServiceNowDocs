@@ -48,12 +48,12 @@ Below is a table of the properties you must have as you set up the ServiceNow® 
 |sn\_atf.headless.vp\_has\_role\_id|string|headless\_vp\_has\_role|The ID of the element verifying that the user has correct roles|
 |sn\_atf.headless.vp\_success\_id|string|headless\_vp\_success|The ID of the element signifying entire page loaded correctly|
 
-**Parent Topic:**[Headless Browser for Automated Test Framework](../concept/atf-headless-browser.md)
+**Parent Topic:**[Headless Browser for Automated Test Framework](atf-headless-browser.md)
 
 **Related topics**  
 
 
-[Headless Browser for Automated Test Framework](../concept/atf-headless-browser.md)
+[Headless Browser for Automated Test Framework](atf-headless-browser.md)
 
-[Exploring Automated Test Framework](../concept/automated-test-framework.md)
+[Exploring Automated Test Framework](automated-test-framework.md)
 

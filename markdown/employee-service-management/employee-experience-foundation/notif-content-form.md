@@ -151,7 +151,7 @@ Icon background: Background colors for the notification icons.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

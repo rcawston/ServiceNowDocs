@@ -114,5 +114,5 @@ Perform one of the following operations:
 
 See [Schedule mass encryption, decryption, and rekeying jobs](schedule-mass-jobs.md)
 
-**Parent Topic:**[Using multiple encryption modules](../concept/using-multiple-encryption-modules.md)
+**Parent Topic:**[Using multiple encryption modules](using-multiple-encryption-modules.md)
 

@@ -28,7 +28,7 @@ The following describes default role access to the experience switcher:
 
 Admins can check the Experience Configurations table \[sn\_udc\_experience\_configuration\] to see which default roles have access to each of the products in the experience switcher. The table also shows which roles will see the discovery page that appears if Creator Studio isn't installed, or isn't the minimum version needed for the experience switcher.
 
-If you want to give more roles access to products in the experience switcher, you must do so in the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\]. For more information, see [Edit a role's access to the experience switcher](../task/crs-edit-role-access-experience-switcher.md).
+If you want to give more roles access to products in the experience switcher, you must do so in the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\]. For more information, see [Edit a role's access to the experience switcher](crs-edit-role-access-experience-switcher.md).
 
 ## Product installation determines access
 
@@ -42,7 +42,7 @@ To appear in the experience switcher, all products must be on the Yokohama versi
 
 For example, if you choose Creator Studio in the experience switcher but have the Xanadu version of Creator Studio installed, selecting it displays a page directing you to update the version.
 
--   **[Edit a role's access to the experience switcher](../task/crs-edit-role-access-experience-switcher.md)**  
+-   **[Edit a role's access to the experience switcher](crs-edit-role-access-experience-switcher.md)**  
 Add more roles to the Experience Visibility Controls table \[sn\_udc\_experience\_visibility\_control\] to give them access to other products in the experience switcher, such as ServiceNow Studio.
 
 **Parent Topic:**[Administering Creator Studio](administering-creator-studio.md)

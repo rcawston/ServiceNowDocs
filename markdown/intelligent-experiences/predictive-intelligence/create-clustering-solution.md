@@ -25,7 +25,7 @@ Role required: ml\_admin or admin
 
 In this example procedure, you're creating a solution to identify a major incident by grouping similar incidents that have occurred recently.
 
-For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md).
+For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md).
 
 ## Procedure
 

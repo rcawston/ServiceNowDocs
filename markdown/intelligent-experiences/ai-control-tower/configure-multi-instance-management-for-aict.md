@@ -40,5 +40,5 @@ Multi-instance management is configured for the AI Control Tower.
 
 For more information about Trust configuration and Trust configuration management, see [Cross-instance application trust configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grant-access-v2.md)
 
-For more information about AI asset synchronization process, see [Multi-instance Setup](../concept/multi-instance-management.md) section under Exploring the AI Control Tower configurations.
+For more information about AI asset synchronization process, see [Multi-instance Setup](multi-instance-management.md) section under Exploring the AI Control Tower configurations.
 

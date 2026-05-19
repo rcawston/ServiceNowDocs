@@ -78,5 +78,5 @@ Configure manual location tracking system properties to control how location tra
 -   **[Configuring action-based location tracking](location-tracking-action-config.md)**  
 Configure action-based tracking location properties. This tracking option starts and stops tracking based on the actions a user performs.
 
-**Parent Topic:**[Location tracking for mobile](../concept/mobile-location-tracking.md)
+**Parent Topic:**[Location tracking for mobile](mobile-location-tracking.md)
 

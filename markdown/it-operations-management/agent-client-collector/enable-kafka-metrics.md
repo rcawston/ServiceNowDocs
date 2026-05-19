@@ -38,5 +38,5 @@ Set configurations in the Apache HTTP server application to enable the Agent Cli
     The default port is 8080.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

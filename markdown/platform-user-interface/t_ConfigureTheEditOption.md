@@ -74,7 +74,7 @@ Click **Enable Edit**.
 5.  Click **Update**.
 
 
-**Parent Topic:**[Related lists](../concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](c_RelatedLists.md)
 
 **Related topics**  
 
@@ -85,9 +85,9 @@ Click **Enable Edit**.
 
 [Create a default filter for a related list](t_CreateADefaultFilter.md)
 
-[Create defined related lists](../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
+[Create defined related lists](t_CreateDefinedRelatedLists.md)
 
-[Add fields to selections in a related list](../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
+[Add fields to selections in a related list](t_AddingFieldsToARelatedList.md)
 
-[Create a default filter for list selector records](../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](t_CreateDefaultRelatedRecSecFilter.md)
 

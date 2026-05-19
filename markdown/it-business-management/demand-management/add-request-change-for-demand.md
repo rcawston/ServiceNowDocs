@@ -29,7 +29,7 @@ Role required: it\_demand\_manager
 
 4.  On the Request Change form, fill in the fields.
 
-    For a description of the field names, see [Request change form](../reference/request-change-form.md).
+    For a description of the field names, see [Request change form](request-change-form.md).
 
 5.  Select **Submit**.
 
@@ -38,5 +38,5 @@ Role required: it\_demand\_manager
 
 Associate the request change with your existing risk, issue, decision, and action records so you can track dependencies and recognize trends for future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 

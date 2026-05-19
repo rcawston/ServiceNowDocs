@@ -30,5 +30,5 @@ Because public pages do not require login, and CMS sites are public by default, 
 2.  For the view\_content page, set **Active** to **false**.
 
 
-**Parent Topic:**[Content sites](../concept/c_ContentSite.md)
+**Parent Topic:**[Content sites](c_ContentSite.md)
 

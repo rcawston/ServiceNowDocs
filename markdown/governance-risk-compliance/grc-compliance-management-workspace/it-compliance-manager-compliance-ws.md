@@ -17,8 +17,8 @@ The Compliance Workspace provides an exclusive home page for the IT compliance m
 
 ## Configuring IT Compliance Workspace
 
--   To set up the IT Compliance Home page, see [Configuring IT compliance workspace](../reference/set-up-steps-it-compliance-ws.md).
--   For information on the tables that support IT compliance workspace and the user roles, see [Components installed with Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#).
+-   To set up the IT Compliance Home page, see [Configuring IT compliance workspace](set-up-steps-it-compliance-ws.md).
+-   For information on the tables that support IT compliance workspace and the user roles, see [Components installed with Policy and Compliance Management](../policy-and-compliance-management/r_InstallWPolAndCompl.md#).
 
 ## IT Compliance Home page
 

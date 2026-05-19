@@ -169,14 +169,14 @@ Telecom Network Topology Discrepancy Audit
 Audits records in the `cmdb_ci_network_topology` table. For each network topology CI discovered by Nokia Altiplano or NSP, it verifies: - At least one Contains:Contained By relationship with equipment - At least one Members:Member Of relationship with a logical connection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Service Operations Management reference](../reference/components-installed-with-tsom.md)
+</table>**Parent Topic:**[Telecommunications Service Operations Management reference](components-installed-with-tsom.md)
 
 **Related topics**  
 
 
 [Telecom Discrepancy Identification and Reconciliation](exploring-telecom-reconciliation.md)
 
-[Activate Telecom Discrepancy Identification and Reconciliation](../task/configure-telecom-reconciliation.md)
+[Activate Telecom Discrepancy Identification and Reconciliation](configure-telecom-reconciliation.md)
 
-[Run Telecom Discrepancy audit](../task/run-audits.md#)
+[Run Telecom Discrepancy audit](run-audits.md#)
 

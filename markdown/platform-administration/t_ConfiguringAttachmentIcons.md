@@ -71,5 +71,5 @@ Enter the path to the icon image file \(example: `images/icons/attach_pdf.gifx`\
 </table>5.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Administering attachments](../reference/r_AdministeringAttachments.md)
+**Parent Topic:**[Administering attachments](r_AdministeringAttachments.md)
 

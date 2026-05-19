@@ -158,5 +158,5 @@ Benchmarks supports KPIs from other ServiceNow applications such as ITSM, ITOM, 
 
 **Note:** The categories do not display on the Benchmarks dashboard unless, any KPI is opted in for tracking the metrics in Benchmarks.
 
-**Parent Topic:**[Benchmarks](../reference/r_Benchmarks.md)
+**Parent Topic:**[Benchmarks](r_Benchmarks.md)
 

@@ -51,10 +51,10 @@ Plan work for sprints, using a centralized view on Agile Board, of multiple scru
     -   Dropping the story back into the epic backlog pane clears the references of the sprint and assignment group from the story.
     -   Moving the story to the team's backlog lane clears only the sprint reference but retains the assignment group.
 
-**Parent Topic:**[Scrum program planning board](../concept/planning-scrum-program-overview.md)
+**Parent Topic:**[Scrum program planning board](planning-scrum-program-overview.md)
 
 **Related topics**  
 
 
-[Scrum program planning board](../concept/planning-scrum-program-overview.md)
+[Scrum program planning board](planning-scrum-program-overview.md)
 

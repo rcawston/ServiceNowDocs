@@ -188,7 +188,7 @@ Select the chat queue that users access by clicking the **Help Desk Chat** butto
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 

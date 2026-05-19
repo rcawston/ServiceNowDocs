@@ -42,7 +42,7 @@ Location agents and managers can create cases for business locations without add
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Case form](../reference/r_CustomerServiceCaseForm.md).
+    For a description of the field values, see [Case form](r_CustomerServiceCaseForm.md).
 
 4.  Select **Submit**.
 
@@ -50,7 +50,7 @@ Location agents and managers can create cases for business locations without add
 **Related topics**  
 
 
-[Service Model Foundation cases](../reference/industry-data-model-cases.md)
+[Service Model Foundation cases](industry-data-model-cases.md)
 
 [Assign responsibilities](csm-assign-responsibilities.md)
 

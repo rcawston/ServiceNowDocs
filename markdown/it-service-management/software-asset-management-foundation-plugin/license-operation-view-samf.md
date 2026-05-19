@@ -28,7 +28,7 @@ The License operations view also lets you view:
 -   discovery models.
 -   license consumption.
 
--   **[View discovery models in workspace](../task/view-discovery-models-workspace.md)**  
+-   **[View discovery models in workspace](view-discovery-models-workspace.md)**  
 View a list of all the discovered software for your engineering applications in the Software Asset Workspace.
 
 **Parent Topic:**[Using Software Asset Management Foundation plugin workspace](using-samf-workspace.md)

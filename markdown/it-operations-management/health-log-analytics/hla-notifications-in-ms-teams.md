@@ -54,5 +54,5 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
     5.  Repeat steps 1 to 4 to add additional configurations.
 
 
-**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](../concept/hla-alert-notification-in-channel.md)
+**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](hla-alert-notification-in-channel.md)
 

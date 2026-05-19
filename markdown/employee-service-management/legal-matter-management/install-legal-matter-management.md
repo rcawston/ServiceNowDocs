@@ -34,7 +34,7 @@ The following components are installed with installation of the Legal Matter Man
 -   Tables specific to practice areas
 -   Business Rules
 
-See [Components installed with Legal Matter Management](../reference/installed-with-legal-matter-management.md) for more information.
+See [Components installed with Legal Matter Management](installed-with-legal-matter-management.md) for more information.
 
 You can also install the following applications:
 
@@ -48,7 +48,7 @@ You can also install the following applications:
 
 -   **Legal Mobile \(sn\_lg\_mobile\)**
 
-    The ServiceNow® Legal Mobile \(sn\_lg\_mobile\) application enables you to find legal information, submit and track legal requests, and work on these requests on mobile devices. For more information, see [Legal Mobile](../../legal-mobile/concept/legal-mobile-overview.md).
+    The ServiceNow® Legal Mobile \(sn\_lg\_mobile\) application enables you to find legal information, submit and track legal requests, and work on these requests on mobile devices. For more information, see [Legal Mobile](../legal-mobile/legal-mobile-overview.md).
 
 
 ## Procedure
@@ -78,5 +78,5 @@ Use the Legal Service Delivery Guided Setup to configure the application on your
 
 To access Legal Service Delivery Guided Setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Setting up Legal Matter Management](../concept/setting-up-legal-matter-managemment.md)
+**Parent Topic:**[Setting up Legal Matter Management](setting-up-legal-matter-managemment.md)
 

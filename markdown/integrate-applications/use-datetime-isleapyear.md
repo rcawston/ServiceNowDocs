@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the IsLeapYear component. For more information about these properties, see [Properties of the DateTime components](../reference/util-datetime-prop.md).
+You can configure the properties for the IsLeapYear component. For more information about these properties, see [Properties of the DateTime components](util-datetime-prop.md).
 
 ## Procedure
 
@@ -49,5 +49,5 @@ You can configure the properties for the IsLeapYear component. For more informat
 
 ![GetPart component extracts a date part from the Now component, and IsLeapYear determines if the year is a leap year.](../image/isleapyear-datetime-utlities-rpa.png "IsLeapYear component")
 
-**Parent Topic:**[DateTime](../concept/datetime-utility.md)
+**Parent Topic:**[DateTime](datetime-utility.md)
 

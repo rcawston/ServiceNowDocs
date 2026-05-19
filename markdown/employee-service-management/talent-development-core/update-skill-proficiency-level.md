@@ -42,5 +42,5 @@ Role required: sn\_skills\_int.emp
 
 Your skill proficiency level is successfully updated in your skills profile.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](using-skills-intelligence.md)
 

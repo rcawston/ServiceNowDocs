@@ -41,7 +41,7 @@ Step 2
 
 </td><td>
 
-[Create an app](../task/app-tutorial-create-an-app.md)
+[Create an app](app-tutorial-create-an-app.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Step 6
 
 </td><td>
 
-[Test your application](../task/app-tutorial-test-app.md)
+[Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
 </table>Introduction to the app creation tutorial series. Learn how to develop a plan for your application before building it by identifying your application use case, visualizing your app workflow, and outlining your user and data needs. 
@@ -155,5 +155,5 @@ Use the following prompts to outline the functional requirements for your applic
 
 ## Next steps
 
-Once you’ve developed a plan for your application, you can begin building the application in App Engine Studio. Proceed to the next step: [Create an app](../task/app-tutorial-create-an-app.md).
+Once you’ve developed a plan for your application, you can begin building the application in App Engine Studio. Proceed to the next step: [Create an app](app-tutorial-create-an-app.md).
 

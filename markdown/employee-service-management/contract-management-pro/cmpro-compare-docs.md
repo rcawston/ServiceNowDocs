@@ -95,5 +95,5 @@ Workspace used by your application
 5.  Select **Download redlined document** to download the document, and make further modifications to it.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

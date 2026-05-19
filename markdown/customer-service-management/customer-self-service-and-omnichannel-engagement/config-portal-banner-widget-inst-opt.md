@@ -93,11 +93,11 @@ Configure portal banner widget
         }
         ```
 
-        For more information about each parameter, see [Script parameters for the search option in the Portal Banner widget](../reference/json-param-search-option-banner-widget.md).
+        For more information about each parameter, see [Script parameters for the search option in the Portal Banner widget](../json-param-search-option-banner-widget.md).
 
     6.  On the Instance form, fill in the fields.
 
-        For a description of the field values, see [Portal Banner widget instance options form](../reference/banner-widget-inst-options.md).
+        For a description of the field values, see [Portal Banner widget instance options form](../banner-widget-inst-options.md).
 
     7.  Select **Save**.
 

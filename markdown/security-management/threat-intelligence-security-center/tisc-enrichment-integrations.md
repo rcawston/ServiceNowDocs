@@ -98,13 +98,13 @@ Search in catalog
 Use this action to search for configured integrations based on name and description within the catalog.
 
 </td></tr></tbody>
-</table>-   **[Configure new enrichment](../task/tisc-config-new-enrich.md)**  
+</table>-   **[Configure new enrichment](tisc-config-new-enrich.md)**  
 Set up threat intelligence enrichment integrations to automatically gather additional context about observables, search for sightings, or perform threat lookups from external security vendors.
--   **[Configure Observable Enrichment](../task/configure-observable-enrichment.md)**  
+-   **[Configure Observable Enrichment](configure-observable-enrichment.md)**  
 Enrich one or more observables to identify whether they're associated with known threats. The results are based on the enrichment integrations active in your environment.
--   **[Configure Sighting Search](../task/configure-sighting-search.md)**  
+-   **[Configure Sighting Search](configure-sighting-search.md)**  
 Configure sighting search integration to search your organization logs for one or more observables to determine how many times each observable appears, within a specified date range or number of days.
--   **[Configure Threat Lookup](../task/configure-threat-lookup.md)**  
+-   **[Configure Threat Lookup](configure-threat-lookup.md)**  
 Scan selected observables for malware using Threat Intelligence to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
 -   **[Threat Lookup](tisc-threat-lookup.md)**  
 Scan selected observables for malware using VirusTotal and CrowdStrike Falcon Intelligence. This workflow checks observables against both threat intelligence sources and returns detailed security analysis results.

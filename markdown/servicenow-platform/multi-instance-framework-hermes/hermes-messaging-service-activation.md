@@ -29,9 +29,9 @@ This plugin isn't activated directly. Instead, the plugin is activated by any of
 **Related topics**  
 
 
-[Set up a secure connection to the Hermes Messaging Service](../task/set-up-secure-connection-to-hermes.md)
+[Set up a secure connection to the Hermes Messaging Service](set-up-secure-connection-to-hermes.md)
 
-[Revoke a Hermes certificate](../task/revoke-certificate.md)
+[Revoke a Hermes certificate](revoke-certificate.md)
 
 [Restricting access to Hermes](restricting-access-hermes-topics.md)
 

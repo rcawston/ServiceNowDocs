@@ -83,11 +83,11 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     5.  If your roadmap items \(such as projects, epics, or demands\) have milestones, adjust how they’re displayed using the toggles in the Milestones section.
 
-        For more information, see [Customizing milestone display on roadmap](../reference/customizing-milestone-display-roadmap-portfolio-planning.md).
+        For more information, see [Customizing milestone display on roadmap](customizing-milestone-display-roadmap-portfolio-planning.md).
 
     6.  If your roadmap items have dependencies, adjust how they’re displayed using the toggles in the Dependencies section.
 
-        For more information, see [Customizing roadmap item dependency display](../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md).
+        For more information, see [Customizing roadmap item dependency display](customizing-roadmap-item-dependency-display-portfolio-planning.md).
 
     7.  Identify the current date on your timeline using the current date indicator.
 
@@ -116,10 +116,10 @@ From the Free-form Roadmaps tab, select a roadmap.
 7.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](quick-fiters-prioitization-roadmap-ppw.md)
 
 
--   **[Customizing milestone display on roadmap](../reference/customizing-milestone-display-roadmap-portfolio-planning.md)**  
+-   **[Customizing milestone display on roadmap](customizing-milestone-display-roadmap-portfolio-planning.md)**  
 Easily track the milestones of your roadmap timeline or its planning items by choosing how the milestones are displayed on the roadmap view.
--   **[Customizing roadmap item dependency display](../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md)**  
+-   **[Customizing roadmap item dependency display](customizing-roadmap-item-dependency-display-portfolio-planning.md)**  
 Improve the efficiency of identifying the relationships between your planning items by choosing how the dependencies are displayed on the roadmap view.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

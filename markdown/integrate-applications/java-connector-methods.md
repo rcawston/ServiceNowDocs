@@ -21,7 +21,7 @@ Starts the Java application from its location and brings it to focus.
 
 **Note:** You must execute this method first.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -66,8 +66,8 @@ If the Java application window is minimized or running in the background, the me
 
 Gets the data from the text fields in a Java application. You must first configure the text fields. To configure, do the following steps.
 
-1.  [Configure the Java connector](../task/configure-java-connector.md) and capture one or more text fields.
-2.  Expose the screen level methods. See [Use connector method](../task/use-connector-method.md).
+1.  [Configure the Java connector](configure-java-connector.md) and capture one or more text fields.
+2.  Expose the screen level methods. See [Use connector method](use-connector-method.md).
 3.  From the Object Explorer pane, drag the GetFields method to the Design surface.
 4.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
 5.  Select one or more text fields.
@@ -107,7 +107,7 @@ Returns the Windows handle number of the Java application screen window.
 
 Returns the Boolean response based on whether the rules for a configured window match. When you configure a Java application screen, the MATCH RULES section of the Java connector window shows certain rules that match the screen configured. The method matches the same rules.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|Notes|
 |---------|-----------|--------------|---------|-------------|----------|-----|
@@ -126,7 +126,7 @@ Minimizes the Java application window.
 
 Performs different mouse device actions on the Java application such as left-click, right-click, and middle-click.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -137,7 +137,7 @@ To provide inputs to the parameters, see [Configure port properties](../task/con
 
 Changes the width, height, and the position of the Java application window along the X and Y axis.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -154,7 +154,7 @@ Restores the original dimensions of the Java application window. You can use the
 
 Send any data or keyboard input to the active field on the Java application. For example, you can send a string data "RPA" or a keyboard input \[Space\] to clear a check box.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -176,14 +176,14 @@ To use the method, do the following steps.
 
     A Data In port is created for each text field you select. You can pass the string to set in the fields of the Java application.
 
-    To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+    To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 
 ## WaitForCreate
 
 Each screen you configure in the Java connector is identified by some rules, displayed under the MATCH RULES section of the Java Connector window. The method returns a Boolean response based on whether the rules of the screen you had configured matches.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -233,7 +233,7 @@ Performs a left mouse-click on the captured element.
 
 Performs the specified action on an element. For example, click on a button. Each element allows a set of actions that you can get by executing the GetAccessibleActions method.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 <table id="table_wpx_2wj_4tb"><thead><tr><th>
 
@@ -324,7 +324,7 @@ Not applicable
 
 Automate entering password securely in the password field of a Java application.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](configure-input-port-properties.md).
 
 <table id="table_jrs_nts_vzb"><thead><tr><th>
 
@@ -411,5 +411,5 @@ Yes
 **Tip:** If the **SetPassword** method fails to input the password in the password field, set the value to **True** and execute the method again.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Java](../concept/java-connector.md)
+</table>**Parent Topic:**[Java](java-connector.md)
 

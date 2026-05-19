@@ -110,5 +110,5 @@ Hide the chat option for your custom portal that appears in the Employee Center 
 -   **[Hide the logout button on the custom portal](disable-logout-button-teams-custom-portal.md)**  
 You can hide the logout option for your custom portal that appears in the Employee Center tab within Microsoft Teams.
 
-**Parent Topic:**[Configuring Employee Center](../concept/employee-center-dashboard-admin.md)
+**Parent Topic:**[Configuring Employee Center](employee-center-dashboard-admin.md)
 

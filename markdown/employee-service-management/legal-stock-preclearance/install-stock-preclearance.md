@@ -36,7 +36,7 @@ The following components are installed with installation of the Legal Stock Prec
 -   Tables
 -   Business Rules
 
-For more information, see [Components installed with Legal Stock Preclearance](../reference/installed-with-legal-stock-preclearance.md).
+For more information, see [Components installed with Legal Stock Preclearance](installed-with-legal-stock-preclearance.md).
 
 ## Procedure
 
@@ -65,5 +65,5 @@ Use the Legal Service Delivery Guided Setup to configure the application on your
 
 To access Legal Service Delivery Guided Setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](legal-stock-pre-administration.md)
 

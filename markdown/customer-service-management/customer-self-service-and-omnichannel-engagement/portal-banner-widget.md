@@ -17,7 +17,7 @@ You can use the Portal Banner widget to display announcements, new product or fe
 
 ![Portal Banner widget displaying greeting message, shortcut buttons, and search field on the portal page.](../image/config-port-banner-widget.png "Portal Banner widget")
 
-For information about how to configure instance options for the Portal Banner widget, see [Add and configure the Portal Banner widget](../task/config-portal-banner-widget-inst-opt.md).
+For information about how to configure instance options for the Portal Banner widget, see [Add and configure the Portal Banner widget](config-portal-banner-widget-inst-opt.md).
 
 **Related topics**  
 

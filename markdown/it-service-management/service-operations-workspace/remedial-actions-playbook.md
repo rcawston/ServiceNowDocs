@@ -22,7 +22,7 @@ The Investigate tab includes the following types of remedial action to resolve C
 
 These remedial actions are available on the Investigate tab only if the following conditions are met:
 
--   The Investigation Framework \[sn\_invest\_fwk\] application is installed and configured. For more information, see [Setting up Investigation Framework in Service Operations Workspace](set-up-investigate.md) and [Configure the Remedial Actions Framework](../task/config-remedial-action-fw.md).
+-   The Investigation Framework \[sn\_invest\_fwk\] application is installed and configured. For more information, see [Setting up Investigation Framework in Service Operations Workspace](set-up-investigate.md) and [Configure the Remedial Actions Framework](config-remedial-action-fw.md).
 -   The remedial actions are configured to display on the UI. For more information, see [Customize the Investigate tab](customize-the-incident-record-page.md#).
 
 Remedial actions use playbooks to resolve CI issues. Playbook provides you with an interactive UI to guide and execute the remedial actions step by step. With a playbook, you can control every execution step of the remediation process. Playbook is available on the contextual side panel of the Incident record page. When any remedial action is performed, that remediation process is added to a playbook. You can then select the playbook \(![Playbook icon](../image/playbook_icon.png)\) icon on the contextual side panel to open the playbook on a separate panel and execute the process. The playbook panel displays the following tabs:
@@ -44,7 +44,7 @@ The Remedial actions section on the Investigate tab also contains the **Current*
 
 Playbook is available only if both the Remedial Action Framework \[com.snc.sn\_reacf\] application and the Investigation Framework \[sn\_invest\_fwk\] application are installed and configured, as well as if the remedial actions are triggered.
 
-**Note:** You can't execute concurrent or duplicate remedial actions when a remedial action is in progress on a process or service for a CI type device or server. You also can't execute concurrent or duplicate remedial actions on the same CI until the previous remedial action execution is completed. You can change this behavior and allow concurrent execution of the remedial action by selecting the **Allow concurrent execution** option for Remedial Action Type. For more information, see [Configure the Remedial Actions Framework](../task/config-remedial-action-fw.md).
+**Note:** You can't execute concurrent or duplicate remedial actions when a remedial action is in progress on a process or service for a CI type device or server. You also can't execute concurrent or duplicate remedial actions on the same CI until the previous remedial action execution is completed. You can change this behavior and allow concurrent execution of the remedial action by selecting the **Allow concurrent execution** option for Remedial Action Type. For more information, see [Configure the Remedial Actions Framework](config-remedial-action-fw.md).
 
 ## End process
 
@@ -72,19 +72,19 @@ Select the CI and then select **Restart service** to restart the services runnin
 **Related topics**  
 
 
-[Create an incident in Service Operations Workspace](../task/create-incident-sow.md)
+[Create an incident in Service Operations Workspace](create-incident-sow.md)
 
-[View and update incident information on the Overview tab in SOW](../task/view-update-inc-overview-tab.md)
+[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
 
 [Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)
 
-[Work on an incident list page in Service Operations Workspace](../task/work-incident-list-page-sow.md)
+[Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
 
-[Work on an incident record in Service Operations Workspace](../task/work-on-incident-sow.md)
+[Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
 
-[Close resolved incident](../task/close-resolved-incident-sow.md)
+[Close resolved incident](close-resolved-incident-sow.md)
 
-[Reopen an incident in Service Operations Workspace](../task/reopen-incident-sow.md)
+[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
 
 [Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

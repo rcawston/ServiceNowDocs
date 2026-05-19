@@ -47,5 +47,5 @@ Policy inputs are variable sources that you can use while evaluating a decision 
 -   **[Create Decision records](create-decisions.md)**  
 Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when creating change approval policies.
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](using-change-approval-policies-cf.md)
 

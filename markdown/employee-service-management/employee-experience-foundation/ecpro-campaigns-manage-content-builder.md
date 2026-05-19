@@ -25,7 +25,7 @@ Complete the steps to [Create a campaign](ecpro-create-campaign.md) and [Create 
 
 You can add content to the campaign from the Content Library or create new content using the Content Experience Builder.
 
-**Note:** You must create rich content in the Content Library Rich Content Editor, since the Content Experience Builder does not currently support rich content creation. See [Microsites](../concept/ec-rich-content.md)
+**Note:** You must create rich content in the Content Library Rich Content Editor, since the Content Experience Builder does not currently support rich content creation. See [Microsites](ec-rich-content.md)
 
 ## Procedure
 
@@ -76,7 +76,7 @@ Portal Content
 
 </td><td>
 
-Content that appears on your Employee Center or Service Portal.For information on creating portal content, see [Portal content](../concept/ec-streamline-content.md).
+Content that appears on your Employee Center or Service Portal.For information on creating portal content, see [Portal content](ec-streamline-content.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Content that assigns tasks to your employees and can be sent via email, SMS, or 
 ## What to do next
 
 -   Continue adding stages and content to the campaign
--   Use Campaign preview to see how the campaign will appear to the audience. See [Campaign preview](../concept/ecpro-campaign-preview.md)
+-   Use Campaign preview to see how the campaign will appear to the audience. See [Campaign preview](ecpro-campaign-preview.md)
 -   If you are creating more than one campaign with similar features, use the **Clone campaign** button to clone the campaign, stages, and content.
 -   When you are ready to publish the campaign, click **Publish**.
 

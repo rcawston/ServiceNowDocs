@@ -23,15 +23,15 @@ Passwords in your ServiceNow® instance must meet complexity requirements.
 
 </td><td>
 
-[Enable![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/enable-password-policies.md)
+[Enable![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](enable-password-policies.md)
 
- [Understand how to enable Password complexity requirements.](../task/enable-password-policies.md)
+ [Understand how to enable Password complexity requirements.](enable-password-policies.md)
 
 </td></tr><tr><td>
 
-[Configure![Set](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/set-your-password-policy.md)
+[Configure![Set](../../../reuse/icons/brand-icons/bus-sdlc.svg)](set-your-password-policy.md)
 
- [Configure the Password complexity requirements.](../task/set-your-password-policy.md)
+ [Configure the Password complexity requirements.](set-your-password-policy.md)
 
 </td><td>
 

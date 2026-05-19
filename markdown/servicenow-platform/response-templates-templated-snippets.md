@@ -87,7 +87,7 @@ Users with the response template writer \[sn\_templated\_snip.template\_snippet\
 -   Include variables pulled from a table
 -   Specify a condition builder to specify the conditions that must be met for the template to be available for use, such as for a specific HR service
 
-For more information, see [Create or modify a response template](../task/create-modify-templated-snippet.md).
+For more information, see [Create or modify a response template](create-modify-templated-snippet.md).
 
 Users with the response template reader \[sn\_templated\_snip.template\_snippet\_reader\] role can then copy response template content and use it in their responses to users when working on case or task forms that meet the specified conditions. For example, a response template for payroll discrepancy cases enables HR agents to use a standardized message when responding to that case type. See [Copy a response template to an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md) for an HR-specific example.
 
@@ -101,5 +101,5 @@ HR case writers with the response template reader role can copy the response tem
 
 ## Activation information
 
-To use response templates in your application, you must [activate response templates](../task/activate-templated-snippets.md). For information on what components are installed with the feature, see [Components installed with response templates](../reference/components-installed-with-response-templates.md).
+To use response templates in your application, you must [activate response templates](activate-templated-snippets.md). For information on what components are installed with the feature, see [Components installed with response templates](components-installed-with-response-templates.md).
 

@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-For a lens, add entities to build a new lens structure or to modify the existing structure. You can add up to six entities in a lens structure. For more information on lens and its structure, see [Lens configuration in Strategic Planning](../concept/configuring-lens-in-alignment-planner-workspace.md).
+For a lens, add entities to build a new lens structure or to modify the existing structure. You can add up to six entities in a lens structure. For more information on lens and its structure, see [Lens configuration in Strategic Planning](configuring-lens-in-alignment-planner-workspace.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For a lens, add entities to build a new lens structure or to modify the existing
 
     2.  On the form, fill in the fields.
 
-        For field information, see [Lens structure form](../reference/lens-structure-form-alignment-planner-workspace.md).
+        For field information, see [Lens structure form](lens-structure-form-alignment-planner-workspace.md).
 
     3.  Select **Submit.**
 
@@ -63,7 +63,7 @@ For a lens, add entities to build a new lens structure or to modify the existing
     -   APW Default
 3.  Update the roadmap configuration for the tables all planning item types that you associate with this lens:
 
-    Add the bottom entity of this lens structure and its parent to **Group by fields** and **Color by fields**. These fields are used as the default group by and color by settings for the portfolio roadmap. See [Customize the planning item display preferences for Prioritization and Roadmap](../../spw-roadmap/task/configure-source-table-preferences-for-roadmap.md).
+    Add the bottom entity of this lens structure and its parent to **Group by fields** and **Color by fields**. These fields are used as the default group by and color by settings for the portfolio roadmap. See [Customize the planning item display preferences for Prioritization and Roadmap](configure-source-table-preferences-for-roadmap.md).
 
 4.  Validate your lens configuration and activate it. See [Activate a lens in Strategic Planning](activate-lens-alignment-planner-workspace.md).
 

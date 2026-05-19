@@ -29,15 +29,15 @@ The Password Reset Windows Application enables a user, who forgets the password 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Password Reset concepts and features.](../concept/exploring-password-reset.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Password Reset concepts and features.](exploring-password-reset.md)
 
 </td><td>
 
-[Set up and configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set up and configure Password Reset for your users.](../concept/password-reset-admin-guide.md)
+[Set up and configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Set up and configure Password Reset for your users.](password-reset-admin-guide.md)
 
 </td></tr><tr><td>
 
-[Enroll for Password Reset![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Enroll for Password Reset.](../concept/c_EnrollInPasswordReset.md)
+[Enroll for Password Reset![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Enroll for Password Reset.](c_EnrollInPasswordReset.md)
 
 </td><td>
 

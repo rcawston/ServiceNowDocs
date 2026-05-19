@@ -25,7 +25,7 @@ Virtual Agent can generate AI Search results that are displayed as Genius result
 
 ## URL navigation for chat links
 
-In Virtual Agent and Live Agent conversations on the Slack app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](../../conversational-interfaces/task/ac-configure-url-navigation.md).
+In Virtual Agent and Live Agent conversations on the Slack app, links to ServiceNow records open automatically in base system portals—including links displayed in output cards, Virtual Agent notifications, and AI Search results. If needed, admins can change the portals in which these links are opened. For configuration details, see [Configure URL navigation for chat links](../ac-configure-url-navigation.md).
 
 ## Trusted Domains
 
@@ -54,8 +54,8 @@ Translation of responses to the conversation language is done using the function
 The Virtual Agent Designer user input controls and bot responses for creating conversation topics are supported in Slack conversations, including the table bot response and the card control that can display images.
 -   **[Virtual Agent notifications supported in Slack](va-notif-slack.md)**  
 Slack app supports Virtual Agent notifications during conversations.
--   **[Unsupported Virtual Agent features in Slack](../reference/limited-slack-features.md)**  
+-   **[Unsupported Virtual Agent features in Slack](limited-slack-features.md)**  
 Refer to the unsupported features of Virtual Agent in Conversational Integration with Slack.
 
-**Parent Topic:**[Conversational Integration with Slack](../task/mssg-slack.md)
+**Parent Topic:**[Conversational Integration with Slack](mssg-slack.md)
 

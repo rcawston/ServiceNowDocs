@@ -36,5 +36,5 @@ Build an application in App Engine Studio \(AES\) using the Team Contacts templa
 -   **[Time Off template](time-off-requests-template.md#)**  
 Build an application in App Engine Studio \(AES\) using the Time Off Requests template to schedule employee vacations and time-off.
 
-**Parent Topic:**[Create your app using an application template](../task/use-app-template.md)
+**Parent Topic:**[Create your app using an application template](use-app-template.md)
 

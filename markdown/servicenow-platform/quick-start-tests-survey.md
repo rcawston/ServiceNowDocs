@@ -29,7 +29,7 @@ Assessments and Surveys quick start tests require activating the Automated Test 
 |Assessment: Scale and Template support|Create, publish, and assign the assessment. Then take the assessment.|Rome|
 |Assessment: Basic test flow|Verify the basic flow of an assessment.|Orlando|
 
-**Parent Topic:**[Assessments and Surveys](../../assessments/concept/assessments-surveys-landing-page.md)
+**Parent Topic:**[Assessments and Surveys](assessments-surveys-landing-page.md)
 
 **Related topics**  
 

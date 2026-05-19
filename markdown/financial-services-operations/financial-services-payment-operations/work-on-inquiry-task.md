@@ -77,7 +77,7 @@ Steps
 -   After you've received the requested information from the recipient bank and you've closed the inquiry task, update the associated inquiry case as per the received information.
 -   Change the state of the associated case to **Work in Progress** and work on the case to resolve it.
 
-    **Note:** If the inquiry case is not resolved or closed within the number of days that are mentioned in the **sn\_bom\_payment.inquiry\_task\_folow\_up\_interval\_in\_days** [payment property](../reference/properties-installed-with-payment-operations.md), the system creates another follow-up inquiry task for the case.
+    **Note:** If the inquiry case is not resolved or closed within the number of days that are mentioned in the **sn\_bom\_payment.inquiry\_task\_folow\_up\_interval\_in\_days** [payment property](properties-installed-with-payment-operations.md), the system creates another follow-up inquiry task for the case.
 
 
 **Parent Topic:**[Investigate a payment inquiry case](investigate-payment-inquiry-case.md)

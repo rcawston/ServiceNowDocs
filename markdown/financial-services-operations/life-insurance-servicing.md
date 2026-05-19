@@ -15,6 +15,6 @@ Life Insurance Servicing policy service requests are supported through individua
 
 Individual and group life insurance policy service requests are supported through the following applications:
 
--   [Individual Life Servicing](../../fso-individual-life-servicing/concept/individual-life-servicing.md)
--   [Group Life Servicing](../../fso-group-life-servicing/concept/group-life-servicing.md)
+-   [Individual Life Servicing](individual-life-servicing.md)
+-   [Group Life Servicing](group-life-servicing.md)
 

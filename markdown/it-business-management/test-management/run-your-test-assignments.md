@@ -91,9 +91,9 @@ Test results are saved to the Test Result form. The overall status of the test i
 
 ## What to do next
 
-To view the full history of test runs and results across all test plans, navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](../concept/test-board.md).
+To view the full history of test runs and results across all test plans, navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](test-board.md).
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](release-readiness-testing.md)
 
 **Related topics**  
 
@@ -102,7 +102,7 @@ To view the full history of test runs and results across all test plans, navigat
 
 [Create a test set in Test Management 2.0](create-test-set.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](test-board.md)
 
 [Create a test execution suite in Test Management 2.0](create-test-execution-suite.md)
 

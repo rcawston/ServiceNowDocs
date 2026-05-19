@@ -21,7 +21,7 @@ Each branch below a Decision utility node has a condition property. You can defi
 
 **Note:** If you insert a **Boolean** user input control, you're prompted to add a **Decision** utility directly after the Boolean node on the canvas. Selecting **Yes** on the Boolean node's Decision utility prompt automatically generates two branches named **True** and **False**. The two branches conditions are automatically set through the condition builder.
 
-For more information, see [Branch a Virtual Agent conversation with a Decision utility](../task/add-decision-utility-va-topic.md).
+For more information, see [Branch a Virtual Agent conversation with a Decision utility](add-decision-utility-va-topic.md).
 
 ## Example Decision utility node with branches
 

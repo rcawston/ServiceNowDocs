@@ -35,7 +35,7 @@ The idea manager reviews submitted ideas and, if necessary, requests more inform
 
 4.  Review the idea details and then choose which action to perform on the idea.
 
-    For more information on actions and steps, see [Manage ideas](../reference/manage-ideas-idea-portal.md).
+    For more information on actions and steps, see [Manage ideas](manage-ideas-idea-portal.md).
 
 5.  Select **Update**.
 
@@ -44,5 +44,5 @@ The idea manager reviews submitted ideas and, if necessary, requests more inform
 
 Convert selected ideas into tasks such as [demand, project, stories, and epics](create-a-task-for-an-idea.md).
 
-**Parent Topic:**[Managing ideas using Innovation Management](../concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](using-innovation-management.md)
 

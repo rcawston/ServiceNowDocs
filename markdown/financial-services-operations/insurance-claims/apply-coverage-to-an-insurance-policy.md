@@ -17,7 +17,7 @@ Define the coverages for an insurance policy by using the Insurance claims appli
 
 ## Before you begin
 
-Create a coverage specification with the coverage types and coverage options. For more information, see [Coverage specification](../concept/coverage-specification.md).
+Create a coverage specification with the coverage types and coverage options. For more information, see [Coverage specification](coverage-specification.md).
 
 Create an insurance policy. For more information, see [Create an insurance policy](create-an-insurance-policy-for-a-consumer.md).
 
@@ -55,5 +55,5 @@ Role required: admin
 
 Add a policy participant as the insured entity to the policy. For more information, see [Add a policy participant to an insurance policy](add-a-policy-participant-to-an-insurance-policy.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

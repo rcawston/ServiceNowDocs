@@ -38,5 +38,5 @@ Role required: sn\_sec\_tisc.admin
     A confirmation appears indicating that the current feed configuration was duplicated and a new feed was created with the name \[`integrationname Feed-copy`\]. For example, CrowdStrike Feed-copy.
 
 
-**Parent Topic:**[Threat Intelligence Feeds](../concept/threat-intelligence-feeds.md)
+**Parent Topic:**[Threat Intelligence Feeds](threat-intelligence-feeds.md)
 

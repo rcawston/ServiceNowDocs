@@ -45,6 +45,6 @@ As an admin, you can also modify these role responsibility definitions or create
 
 4.  Select **Submit**.
 
-    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [Create a case team for an investigative case](../task/psds-config-icm-create-case-team.md).
+    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [Create a case team for an investigative case](psds-config-icm-create-case-team.md).
 
 

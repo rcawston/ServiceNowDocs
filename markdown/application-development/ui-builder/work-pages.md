@@ -45,9 +45,9 @@ Create a UI Builder page to build a page experience from scratch or use a page t
 
 Name your UI Builder page. Set the path \(or keep the default path that is automatically added based on your page name\). A default path is added based on your page name. You can also create your own path, but the path must be unique. The **URL preview** shows the path of your page. Set the page URL type. URL types help you categorize and find important pages in the experience view.
 
-The application scope protects applications by identifying and restricting access to application files and data. The application scope defaults to the scope that the user is currently in within the ServiceNow AI Platform®. For more information about application scope, see [Learn about security and roles](../task/security-roles.md).
+The application scope protects applications by identifying and restricting access to application files and data. The application scope defaults to the scope that the user is currently in within the ServiceNow AI Platform®. For more information about application scope, see [Learn about security and roles](security-roles.md).
 
-Use a UI Builder page template to create a page based on a pre-defined page template, and then customize the page to your needs. You can reference or copy a page template. For more information, see [Create a page from a template](../task/reuse-page-definitions.md).
+Use a UI Builder page template to create a page based on a pre-defined page template, and then customize the page to your needs. You can reference or copy a page template. For more information, see [Create a page from a template](reuse-page-definitions.md).
 
 ## Create a UI Builder page: Advanced settings
 
@@ -59,7 +59,7 @@ Add optional parameters to your UI Builder page. Optional parameters are optiona
 
 ![Edit optional parameters option.](../image/optional-parameter-example.png)
 
-Set the audience and conditions settings for UI Builder page variants. When you create a page, UI Builder also creates a variant of the page for you by default. A page variant is a variation of your page at the same path that lets you target experiences for different audiences using user criteria. For example, a page for managers, and a variant of that page for the manager's direct reports. For more information about creating a variant, see [Create a page variant](../task/create-variant.md).
+Set the audience and conditions settings for UI Builder page variants. When you create a page, UI Builder also creates a variant of the page for you by default. A page variant is a variation of your page at the same path that lets you target experiences for different audiences using user criteria. For example, a page for managers, and a variant of that page for the manager's direct reports. For more information about creating a variant, see [Create a page variant](create-variant.md).
 
 ![Default variant settings page in UI Builder.](../image/create-page-variant-default.png)
 
@@ -89,7 +89,7 @@ A variant lets you target different audiences with different content, using user
 
 You set the audience for each UI Builder page variant. The audience determines who uses the page variant. For example, if you create a travel request page, create a variant of that page for managers to manage the employee travel requests. You set the audience for the manager page for anyone in the manager role. Employees cannot view that variant. For more information about audiences, see [Learn about audiences](add-audiences.md).
 
-See [Create a page variant](../task/create-variant.md) for more information.
+See [Create a page variant](create-variant.md) for more information.
 
 ## Edit UI Builder page settings
 
@@ -97,7 +97,7 @@ Change the settings of your UI Builder page at any time by selecting the More ac
 
 ![Settings link selected from More actions menu to edit page settings.](../image/edit-page-settings-link.png)
 
-See [Edit a page](../task/edit-page.md) for more information.
+See [Edit a page](edit-page.md) for more information.
 
 ## UI Builder Content tree
 
@@ -165,7 +165,7 @@ Use the configuration panel to work with components, including arranging, stylin
 
     ![Styles tab with options such as alignment, sizing, spacing, background, and border.](../image/nav-style-tab.png)
 
-    See [Change the default appearance of components](../task/add-styling-to-component.md#) for more information.
+    See [Change the default appearance of components](add-styling-to-component.md#) for more information.
 
 -   Select the **Events** tab to configure events that add actions to your components, pages, data resources, and declarative actions. When you add components to your UI Builder page, they are not configured to perform any action. For example, a button component is static and does not do anything until you bind an event action to it, such as deleting a record.
 
@@ -196,15 +196,15 @@ From the Menu, edit the UI Builder page as a developer on the platform. This opt
 
 ![Menu showing Developer edit options such as open variant collection, open page definition, and open variant record.](../image/nav-developer-menu.png)
 
--   **[Create a page in UI Builder](../task/create-page.md)**  
+-   **[Create a page in UI Builder](create-page.md)**  
 Create a page in UI Builder for a portal, workspace, or custom application so that you can build a web experience for your users.
--   **[Edit a page](../task/edit-page.md)**  
+-   **[Edit a page](edit-page.md)**  
 Edit a page to change the page name, path, type, and parameters.
--   **[Add an audience to your UI Builder page](../task/configure-audiences.md)**  
+-   **[Add an audience to your UI Builder page](configure-audiences.md)**  
 Add one or more audiences to your page or page variant.
 -   **[Test values in a page](test-value.md)**  
 Add test values to your URL as a way to bring test data into a page.
--   **[Create a page variant](../task/create-variant.md)**  
+-   **[Create a page variant](create-variant.md)**  
 A page variant in UI Builder is a variation of a page that exists at the same path that targets different audiences using user criteria.
 -   **[Use pages across experiences](use-across-pages.md)**  
 Use pages created in one in experience in another without needing to rebuild the page.
@@ -212,7 +212,7 @@ Use pages created in one in experience in another without needing to rebuild the
 Use responsive authoring to create UI Builder pages that adjust smoothly to different form factors \(sizes\), such as desktop, tablet, and mobile.
 -   **[Learn how to view and test your UI Builder experience](preview-page-ui-builder.md)**  
 Preview your experience in UI Builder to see how it looks and functions while building an experience. Previewing helps ensure that your experience works as expected, that the data resources are available, and that the layouts are set up correctly.
--   **[Resolve a missing page definition in UI Builder](../task/resolve-missing-page-definition.md)**  
+-   **[Resolve a missing page definition in UI Builder](resolve-missing-page-definition.md)**  
 Fix UI Builder page render errors by linking a page definition in the variant record.
 
 **Parent Topic:**[Working in UI Builder](using-ui-builder.md)

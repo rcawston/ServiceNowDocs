@@ -32,5 +32,5 @@ Role required: ui\_builder\_admin or admin
 
 Your configurable experience opens in UI Builder.
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITOM](../concept/configure-sow-itom.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITOM](configure-sow-itom.md)
 

@@ -15,11 +15,11 @@ breadcrumb: [ServiceNow SDK, Building applications in source code, Building pro-
 
 Install or upgrade the ServiceNow SDK locally and get language processing and validation for ServiceNow Fluent in Visual Studio Code.
 
--   **[Install the ServiceNow SDK in an application](../task/install-servicenow-sdk.md)**  
+-   **[Install the ServiceNow SDK in an application](install-servicenow-sdk.md)**  
 Install the ServiceNow software development kit \(SDK\) in a local application using Node Package Manager \(npm\).
--   **[Upgrade the ServiceNow SDK](../task/upgrade-servicenow-sdk.md)**  
+-   **[Upgrade the ServiceNow SDK](upgrade-servicenow-sdk.md)**  
 Upgrade to the latest version of the ServiceNow SDK for use with instances beginning with the Washington DC release.
--   **[Install the ServiceNow Fluent Language server in Visual Studio Code](../task/install-fluent-language-extension-vs-code.md)**  
+-   **[Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md)**  
 Get language processing and validation for ServiceNow Fluent in Visual Studio Code with the ServiceNow Fluent Language server.
 
 **Parent Topic:**[ServiceNow SDK](servicenow-sdk-landing.md)

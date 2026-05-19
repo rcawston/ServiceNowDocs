@@ -80,7 +80,7 @@ The supporting pillars are listed: -   Application Services
 
     1.  Select the pillar that you want to activate.
 
-        For more information on the fields in the form, see [GRC Choices form](../reference/pillars-reference.md).
+        For more information on the fields in the form, see [GRC Choices form](pillars-reference.md).
 
     2.  Select the Active check box.
 
@@ -106,7 +106,7 @@ The supporting pillars are listed: -   Application Services
 
     3.  Activate an entity type by selecting and opening its record.
 
-        For more information on the fields in the form, see [Entity type New record form](../reference/entity-type-reference.md).
+        For more information on the fields in the form, see [Entity type New record form](entity-type-reference.md).
 
         The example shows the entity types that are set up in the instance.
 

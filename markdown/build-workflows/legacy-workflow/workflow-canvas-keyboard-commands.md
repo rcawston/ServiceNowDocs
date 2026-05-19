@@ -42,7 +42,7 @@ Set general workflow properties
 </td><td>
 
 1.  Press **Tab** until ![Information icon](../image/WorkflowPropertiesIcon.png) is highlighted.
-2.  Press **Enter** to open [Workflow Properties](../../workflow-administration/reference/r_WorkflowProperties.md).
+2.  Press **Enter** to open [Workflow Properties](r_WorkflowProperties.md).
 
 </td></tr><tr><td>
 

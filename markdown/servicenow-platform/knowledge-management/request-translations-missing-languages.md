@@ -37,5 +37,5 @@ Manually create translation tasks if an article does not have translation tasks 
 
 The translation tasks for the languages are created and listed in the Knowledge Translation Tasks tab.
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](use-translation-management.md)
 

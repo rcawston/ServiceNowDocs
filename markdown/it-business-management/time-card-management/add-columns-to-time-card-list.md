@@ -86,5 +86,5 @@ The following sample code adds the **category** column of the Time Card \[time\_
 }
 ```
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 

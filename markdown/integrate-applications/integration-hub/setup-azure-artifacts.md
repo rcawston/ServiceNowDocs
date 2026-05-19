@@ -66,7 +66,7 @@ Role required: admin
 4.  Locate the alias for **sn\_ms\_artfcts\_spke** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Microsoft Azure Artifacts spoke, click **View Details**.
-    -   To manage more than one Microsoft Azure Artifacts spoke connection records, you should create a new child alias record by clicking Add Connection. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Microsoft Azure Artifacts spoke connection records, you should create a new child alias record by clicking Add Connection. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
 5.  On the **Configure Connection** form, fill in the fields:

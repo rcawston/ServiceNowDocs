@@ -13,7 +13,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 Several type of components like tables, business rules, and script includes are installed for Work Configurations.
 
-Install the Field Service Work Configurations \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. For more information see [Configuring Field Service Work Configurations](../concept/configuring-work-configs.md).
+Install the Field Service Work Configurations \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. For more information see [Configuring Field Service Work Configurations](work-order-management/configuring-work-configs.md).
 
 ## Tables
 

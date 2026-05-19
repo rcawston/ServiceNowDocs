@@ -27,7 +27,7 @@ Changes to configuration files are associated with CIs to which these files belo
 
 While you can see change records for a specific CI in the context of application services, you can also see detailed history of a specific CI separate from its service instance as described in [History Timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistoryTimeline.md).
 
-If the ServiceNow AI Platform is configured to validate changes, all changes are evaluated and rendered as valid or not. If a change is valid, its change record on the service instance map is marked as approved. For more information about configuring the platform for change validation, see [Managing proposed changes](../../configuration-management/concept/c_ProposedChanges.md#).
+If the ServiceNow AI Platform is configured to validate changes, all changes are evaluated and rendered as valid or not. If a change is valid, its change record on the service instance map is marked as approved. For more information about configuring the platform for change validation, see [Managing proposed changes](c_ProposedChanges.md#).
 
 Changes to the service instance appear on the history timeline.
 
@@ -196,7 +196,7 @@ The new tab opens displaying the network or storage path map for the time you se
 **Related topics**  
 
 
-[View an application service map in base system](../../configuration-management/task/app-service-map-base-system.md)
+[View an application service map in base system](app-service-map-base-system.md)
 
 [Compare two versions of an application service in classic Service Mapping](t_CompareBS.md)
 

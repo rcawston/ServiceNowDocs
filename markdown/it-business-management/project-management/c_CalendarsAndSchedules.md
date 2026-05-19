@@ -26,13 +26,13 @@ The imported project uses the default schedule of a Monday to Friday workday fro
 **Related topics**  
 
 
-[Project field mapping](../reference/r_ProjectFieldMapping.md)
+[Project field mapping](r_ProjectFieldMapping.md)
 
-[Create custom field mapping for Microsoft Project file import](../task/map-custom-fields-msp-project.md)
+[Create custom field mapping for Microsoft Project file import](map-custom-fields-msp-project.md)
 
 [Project import from Microsoft Project](project-import-msp.md)
 
-[Import project tasks for multiple projects](../task/import-project-tasks-multiple-projects.md)
+[Import project tasks for multiple projects](import-project-tasks-multiple-projects.md)
 
 [Project export to Microsoft Project](c_ProjectExportToMicrosoftProject.md)
 

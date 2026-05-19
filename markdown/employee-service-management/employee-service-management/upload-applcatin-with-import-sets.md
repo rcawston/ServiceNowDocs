@@ -22,7 +22,7 @@ Role required: admin
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Load data form](../reference/import-set-table.md).
+    For a description of the field values, see [Load data form](import-set-table.md).
 
     **Note:** In the **Import set table** field, select **Existing table** and add Job Application Staging \[sn\_ta\_connector\_job\_application\_staging\] table.
 
@@ -43,5 +43,5 @@ Role required: admin
 
 The job application list is updated with the imported data.
 
-**Parent Topic:**[Integrate with your ATS](../concept/integrate-ats.md)
+**Parent Topic:**[Integrate with your ATS](integrate-ats.md)
 

@@ -32,5 +32,5 @@ Role required: rate\_limit\_admin
 
 For the current hour, the system resets the rate limit count for the rate limit rule to zero \(0\) and removes all violations. The system begins incrementing the rate limit counts and violations as REST API requests are received for processing.
 
-**Parent Topic:**[Inbound REST API rate limiting](../concept/inbound-REST-API-rate-limiting.md)
+**Parent Topic:**[Inbound REST API rate limiting](inbound-REST-API-rate-limiting.md)
 

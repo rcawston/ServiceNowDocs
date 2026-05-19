@@ -108,5 +108,5 @@ Description
 
 After initiating a workflow, add workflow activities to it. Workflow activities are listed on the **Core** tab in the right pane.
 
-**Parent Topic:**[Service catalog workflows](../concept/c_ServiceCatalogWorkflowDefinition.md)
+**Parent Topic:**[Service catalog workflows](c_ServiceCatalogWorkflowDefinition.md)
 

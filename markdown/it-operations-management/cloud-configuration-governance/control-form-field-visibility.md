@@ -120,5 +120,5 @@ In this example, the Business Service field:
 
 On the catalog order form, the field appears like this graphic: ![The Business Service field](../image/blueprint-example-business-service-catalog.png)
 
-**Parent Topic:**[Form configuration with blueprints](../concept/blueprint-form-configuration.md)
+**Parent Topic:**[Form configuration with blueprints](blueprint-form-configuration.md)
 

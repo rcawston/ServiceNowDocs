@@ -22,5 +22,5 @@ Use this reference to understand how the Business App Mapping AI Agent handles m
 |0.1 – 0.29|Medium|The agent saves the candidate to the staging table \[sn\_sm\_gen\_ai\_ba\_candidate\_rel\] for administrator review. No relationship is created automatically. Administrators can accept a candidate to create the \[cmdb\_rel\_ci\] relationship, or dismiss it.|
 |Below 0.1|Low|The candidate is filtered out. The agent does not create a record or a relationship.|
 
-**Parent Topic:**[AI Agents for Service Mapping](../concept/service-mapping-ai-specialists.md)
+**Parent Topic:**[AI Agents for Service Mapping](service-mapping-ai-specialists.md)
 

@@ -37,7 +37,7 @@ For more information about adaptive authentication, see [Adaptive authentication
     -   **glide.authenticate.preauth.allow.trusted.device**
     This step verifies that an adaptive authentication policy is activated on your ServiceNow instance.
 
-4.  Search for the [adaptive authentication mobile system property names](../reference/adapt-auth-mob-apps-sys-props.md).
+4.  Search for the [adaptive authentication mobile system property names](adapt-auth-mob-apps-sys-props.md).
 
     To edit the values for a property, double-click its name and fill in the fields in the System Property New record form as needed. If you can't find a property, select **New** to add it.
 
@@ -45,12 +45,12 @@ For more information about adaptive authentication, see [Adaptive authentication
 
     |Field|Description|
     |-----|-----------|
-    |Name|Name of the system property. If you are adding the system property, enter the name exactly as it appears in [Adaptive authentication for mobile apps system properties](../reference/adapt-auth-mob-apps-sys-props.md). For example, `glide.device.token.allowed.time.limit`.|
+    |Name|Name of the system property. If you are adding the system property, enter the name exactly as it appears in [Adaptive authentication for mobile apps system properties](adapt-auth-mob-apps-sys-props.md). For example, `glide.device.token.allowed.time.limit`.|
     |Application|Application scope. Check that the application scope is set to **Global**.|
-    |Description|Description of the system property. The mobile adaptive authentication system properties are described in [Adaptive authentication for mobile apps system properties](../reference/adapt-auth-mob-apps-sys-props.md).|
+    |Description|Description of the system property. The mobile adaptive authentication system properties are described in [Adaptive authentication for mobile apps system properties](adapt-auth-mob-apps-sys-props.md).|
     |Choices|Choices for your system property. Leave this field empty. The field does not apply to adaptive authentication for mobile apps.|
-    |Type|The data type of the system property. The data types are described in [Adaptive authentication for mobile apps system properties](../reference/adapt-auth-mob-apps-sys-props.md).|
-    |Value|The value that is used for the system property. The value ranges and default values are described in [Adaptive authentication for mobile apps system properties](../reference/adapt-auth-mob-apps-sys-props.md). If you don't enter a value for this field, the default value is used.|
+    |Type|The data type of the system property. The data types are described in [Adaptive authentication for mobile apps system properties](adapt-auth-mob-apps-sys-props.md).|
+    |Value|The value that is used for the system property. The value ranges and default values are described in [Adaptive authentication for mobile apps system properties](adapt-auth-mob-apps-sys-props.md). If you don't enter a value for this field, the default value is used.|
     |Ignore cache|Option to ignore the cache. Make sure that this check box is selected.|
     |Private|Option to make the property private. Make sure that this check box is cleared.|
     |Read roles|Read roles for your system property. Leave this field empty. This field does not apply to adaptive authentication for mobile apps.|
@@ -59,8 +59,8 @@ For more information about adaptive authentication, see [Adaptive authentication
 5.  Select **Update** or **Submit**.
 
 
--   **[Adaptive authentication for mobile apps system properties](../reference/adapt-auth-mob-apps-sys-props.md)**  
+-   **[Adaptive authentication for mobile apps system properties](adapt-auth-mob-apps-sys-props.md)**  
 Use these system properties to configure access to IP-restricted networks for ServiceNow mobile apps.
 
-**Parent Topic:**[Mobile access to IP-restricted networks](../concept/mob-access-ip-restrictd-netwrks.md)
+**Parent Topic:**[Mobile access to IP-restricted networks](mob-access-ip-restrictd-netwrks.md)
 

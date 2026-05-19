@@ -185,7 +185,7 @@ The article page that opens when the article card is accessed.By default, this f
 </table>**Related topics**  
 
 
-[Portal Knowledge Quick Links widget](../concept/portal-know-quick-links-widget.md)
+[Portal Knowledge Quick Links widget](customer-self-service-and-omnichannel-engagement/portal-know-quick-links-widget.md)
 
-[Add and configure the Portal Knowledge Quick Links widget](../task/config-portal-know-quick-links-widget-inst-optns.md)
+[Add and configure the Portal Knowledge Quick Links widget](customer-self-service-and-omnichannel-engagement/config-portal-know-quick-links-widget-inst-optns.md)
 

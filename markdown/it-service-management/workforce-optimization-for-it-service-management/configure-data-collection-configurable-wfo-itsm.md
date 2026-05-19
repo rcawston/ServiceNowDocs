@@ -30,7 +30,7 @@ Role required: sn\_agent\_forecast.admin
 
     1.  Click **Data Collection Definitions**.
 
-        See the [forecast configuration tables for demand forecast](../reference/configurable-wfo-itsm-demand-forecast-reference.md) for the list of configurations that are available by default.
+        See the [forecast configuration tables for demand forecast](configurable-wfo-itsm-demand-forecast-reference.md) for the list of configurations that are available by default.
 
     2.  Click New.
     3.  On the form, fill in the fields.
@@ -101,7 +101,7 @@ Data that you can add to forecast for the future.
 
         -   To add a value to be calculated for the formula, in the **Value** field, enter the value.
         -   To use the performance analytics score card API or a custom API, click **Advanced,** and add the script.
-        The Average Chat Duration and Average Walkup Duration forecast parameters that are provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see the [forecast parameters in demand forecast](../reference/configurable-wfo-itsm-demand-forecast-reference.md) for the list of configurations that are available by default.
+        The Average Chat Duration and Average Walkup Duration forecast parameters that are provided by default are examples of how you can use scripts to add the parameters. For a list of parameters provided by default, see the [forecast parameters in demand forecast](configurable-wfo-itsm-demand-forecast-reference.md) for the list of configurations that are available by default.
 
         **Note:** A resource conversion formula uses multiple data collection definitions to calculate the resource conversion. In a data collection definition, if the forecast parameters set for each of the forecast configurations vary, the resource conversion formula uses the lowest parameter values set for a forecast configuration.
 
@@ -168,12 +168,12 @@ Formula to calculate the forecasted number of agents that you need.In the Relate
 
 ## What to do next
 
-Run the **Collect historical data for automated forecast configurations** scheduled job. For more information, see [scheduled jobs for demand forecast](../reference/configurable-wfo-itsm-demand-forecast-reference.md) .
+Run the **Collect historical data for automated forecast configurations** scheduled job. For more information, see [scheduled jobs for demand forecast](configurable-wfo-itsm-demand-forecast-reference.md) .
 
 -   **[Define the minimum and maximum number of agents to forecast demand](define-number-of-agents-configurable-wfo-itsm.md)**  
 Set the minimum or maximum number of agents required per hour so that you always have the desired staffing coverage.
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](../concept/setting-up-demand-forecast-configurable-wfo-itsm.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](setting-up-demand-forecast-configurable-wfo-itsm.md)
 
 **Related topics**  
 

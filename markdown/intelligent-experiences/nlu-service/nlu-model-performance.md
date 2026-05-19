@@ -25,7 +25,7 @@ To access this application, use the nlu\_admin or admin role and navigate to **A
 
 ## Installation
 
-NLU Model Performance is an application available on the ServiceNow® Store. To use this application, ensure that the NLU Workbench - Advanced Features \(sn\_nlu\_workbench\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](../task/activate-nlu-workbench.md). Because NLU Model Performance relies on data coming in from VA, ensure that the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin is also active. See [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
+NLU Model Performance is an application available on the ServiceNow® Store. To use this application, ensure that the NLU Workbench - Advanced Features \(sn\_nlu\_workbench\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](activate-nlu-workbench.md). Because NLU Model Performance relies on data coming in from VA, ensure that the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin is also active. See [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
 
 ## Configuring Conversational Interfaces settings for ServiceNow NLU
 

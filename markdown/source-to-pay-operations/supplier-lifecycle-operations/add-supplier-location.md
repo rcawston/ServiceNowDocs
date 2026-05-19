@@ -39,7 +39,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 5.  On the Add New Location form, fill in the fields.![Completed form for adding a new location.](../image/add-supplier-location-from-source-to-pay-workspace.png)
 
-    For more information about the form fields and descriptions, see [Add New Location form](../reference/supplier-location-form.md).
+    For more information about the form fields and descriptions, see [Add New Location form](supplier-location-form.md).
 
 6.  Select **Save**.
 
@@ -48,12 +48,12 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 The new supplier location is added in the system.
 
-**Parent Topic:**[Manage supplier details](../concept/supp-ws-details-page.md)
+**Parent Topic:**[Manage supplier details](supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 
 [Edit supplier details from the Source-to-Pay Workspace](edit-supplier-details.md)
 

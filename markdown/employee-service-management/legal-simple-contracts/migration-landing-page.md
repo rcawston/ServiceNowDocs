@@ -22,5 +22,5 @@ As a legal contracts administrator, migrate data from Legal Simple Contracts to 
 -   **[Result of migration from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery](lsc-result-migration.md)**  
 On the running the script to migrate data from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery, the data is copied along with other changes made to Legal Simple Contracts modules, Legal Counsel Center, and the Legal Executive dashboard.
 
-**Parent Topic:**[Legal Simple Contracts](../reference/legal-simple-contracts-landing-page.md)
+**Parent Topic:**[Legal Simple Contracts](legal-simple-contracts-landing-page.md)
 

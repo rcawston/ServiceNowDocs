@@ -25,8 +25,8 @@ Confirm that you are in the Service Graph Connector for Microsoft SCCM applicati
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   Integration - JDBC \(com.snc.integration.jdbc\)
 -   Windows MID Server required for access to the SCCM environment.
 
@@ -42,11 +42,11 @@ To access Microsoft SCCM data, you must have appropriate access to the Microsoft
 
 Starting with Service Graph Connector for Microsoft SCCM version 3.0.4, support for multi-instance is introduced, enabling Service Graph Connector for Microsoft SCCM to connect to and import data from multiple Microsoft SCCM instances. This feature involves dynamically creating data sources and scheduled imports, requiring the granting of additional permissions. For more information about how to complete these steps, see [Service Graph Connector for Microsoft 3.0 Setup Guidelines \[KB1001248\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1001248) in Now Support.
 
-Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources by using SGC Central. See [Configure Service Graph Connector for Microsoft SCCM using SGC Central](../../sgc-central/task/sgcc-configure-sccm-integ.md).
+Air gap connections are available from version 3.7.0 of the Service Graph Connector for Microsoft SCCM. You can add either standard data sources or air gap data sources by using SGC Central. See [Configure Service Graph Connector for Microsoft SCCM using SGC Central](sgcc-configure-sccm-integ.md).
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../configuration-management-database-cmdb/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## Procedure
 
@@ -396,15 +396,15 @@ To resolve issues when configuring the connector, you can view the following add
 **Related topics**  
 
 
-[Service Graph Connector for Microsoft SCCM](../concept/cmdb-integration-sccm.md)
+[Service Graph Connector for Microsoft SCCM](cmdb-integration-sccm.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft SCCM](../reference/cmdb-sccm-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft SCCM](cmdb-sccm-classes.md)
 
-[Configure Service Graph Connector for Microsoft SCCM using SGC Central](../../sgc-central/task/sgcc-configure-sccm-integ.md)
+[Configure Service Graph Connector for Microsoft SCCM using SGC Central](sgcc-configure-sccm-integ.md)
 
 [Enable Software Editions in Service Graph Connector for Microsoft SCCM](enable-software-editions-sccm.md)
 
-[Accessing the connection details of Service Graph Connector for Microsoft SCCM](../concept/sgc-cmdb-sccm-conn.md#)
+[Accessing the connection details of Service Graph Connector for Microsoft SCCM](sgc-cmdb-sccm-conn.md#)
 
-[Configuring air gap connections for Microsoft SCCM](../concept/sgc-sccm-airgap.md)
+[Configuring air gap connections for Microsoft SCCM](sgc-sccm-airgap.md)
 

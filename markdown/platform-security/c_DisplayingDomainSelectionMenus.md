@@ -18,9 +18,9 @@ The instance offers domain selection via two menu formats.
 
 The placement of these pickers and the procedure to show or hide them differ depending on the user interface version.
 
--   **[Enable domain selection menus in Core UI](../task/t_EnableDomainReferencePickerProperty.md)**  
+-   **[Enable domain selection menus in Core UI](t_EnableDomainReferencePickerProperty.md)**  
 Displaying the domain picker in Core UI enables the domain selector by default. After enabling the domain selector, you can add a system property to enable the domain reference picker.
--   **[Restrict access to the domain picker](../task/t_RestrictAccesstoDomainPicker.md)**  
+-   **[Restrict access to the domain picker](t_RestrictAccesstoDomainPicker.md)**  
 Use a system property to restrict access to the domain picker in Core UI and Next Experience.
 
 **Parent Topic:**[Advanced domain separation administration](c_DomainSeparationAdministration.md)

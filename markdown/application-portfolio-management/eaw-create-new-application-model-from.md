@@ -35,7 +35,7 @@ Add an application model to a value stream for better management of your applica
 **Related topics**  
 
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 
-[Associate an application model to a value stream](../../task/eaw-task/eaw-add-an-application-model-to-a-value-stream.md)
+[Associate an application model to a value stream](eaw-add-an-application-model-to-a-value-stream.md)
 

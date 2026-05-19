@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties of the GetProperties component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties of the GetProperties component, see [Properties of the JSON utilities](properties-utilities-json.md).
 
 ## Procedure
 
@@ -138,5 +138,5 @@ Returns the values of the properties.If no property value is found, the port ret
 </table>12. To test the component, right-click the component bar and click **Run From Here**.
 
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](json.md)
 

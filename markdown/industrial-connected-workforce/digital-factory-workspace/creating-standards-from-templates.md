@@ -74,11 +74,11 @@ Operators can find templates in the Standards hub and use them to create standar
 
 Operators can also choose to create a standard without using a template.
 
--   **[Create an assessment template category](../task/create-assessment-template-category-icw.md)**  
+-   **[Create an assessment template category](create-assessment-template-category-icw.md)**  
 Set up an assessment template category so that you can build standard templates for that category and use them in the Standards hub.
--   **[Create an assessment template](../task/create-assessment-template-icw.md)**  
+-   **[Create an assessment template](create-assessment-template-icw.md)**  
 Create an assessment template for creating standards from templates in the Digital Factory Workspace.
--   **[Create a standard from a template](../task/create-standard-from-template.md)**  
+-   **[Create a standard from a template](create-standard-from-template.md)**  
 Create a standard by using available templates within your organization. This approach saves time and promotes consistency compared to building a new standard manually.
 
 **Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)

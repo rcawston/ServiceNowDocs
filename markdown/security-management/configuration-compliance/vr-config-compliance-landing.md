@@ -21,27 +21,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Configuration Compliance concepts and features](../concept/vuln-config-compl.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Configuration Compliance concepts and features](vuln-config-compl.md)
 
 </td><td>
 
-[Set up, Install and Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Configuration Compliance](../concept/cc-configuring.md)
+[Set up, Install and Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Configuration Compliance](cc-configuring.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Configuration Compliance by integrating it with other applications](../concept/vuln-config-compl-integrations.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Configuration Compliance by integrating it with other applications](vuln-config-compl-integrations.md)
 
 </td></tr><tr><td>
 
-[Use the Vulnerability Response Workspaces ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](../../vulnerability-response/concept/vr-wkspace-overview-v16.md)
+[Use the Vulnerability Response Workspaces ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](../vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
 
 </td><td>
 
-[Remediate ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Learn how to remediate your non-compliant assets with Configuration Compliance](../concept/vuln-config-compl-remediation.md)
+[Remediate ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Learn how to remediate your non-compliant assets with Configuration Compliance](vuln-config-compl-remediation.md)
 
 </td><td>
 
-[Analytics &amp; Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) View reports and dashboards in Configuration Compliance](../concept/cc-pa-cc.md)
+[Analytics &amp; Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) View reports and dashboards in Configuration Compliance](cc-pa-cc.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Upgrade Configuration Compliance to USEM ![](../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Configuration Compliance applications to Unified Security Exposure Management.](../../vulnerability-response/concept/migrating-to-usem.md)
+[Upgrade Configuration Compliance to USEM ![](../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Configuration Compliance applications to Unified Security Exposure Management.](../vulnerability-response/migrating-to-usem.md)
 
 </td><td>
 

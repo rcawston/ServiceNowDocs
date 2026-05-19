@@ -15,7 +15,7 @@ Configure the Data Context Engine to collect data from different data sources an
 
 |Task|Description|
 |----|-----------|
-|[Define the data source](../concept/account-lifecycle-define-data-source.md)|Specify whether data is being collected from PA indicators, external sources, or calculated metrics.|
-|[Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md)|Associate the data source with an engagement, success outcome, or product usage table, and specify the record in the context table for which the data is applicable.|
+|[Define the data source](account-lifecycle-define-data-source.md)|Specify whether data is being collected from PA indicators, external sources, or calculated metrics.|
+|[Configure the Context Engine Mapper](account-lifecycle-define-context-engine-mapper.md)|Associate the data source with an engagement, success outcome, or product usage table, and specify the record in the context table for which the data is applicable.|
 |[Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md)|Configure and display metrics based on context and product usage patterns.|
 

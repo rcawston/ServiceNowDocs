@@ -24,7 +24,7 @@ Verify that you have performed the following:
     -   [Set up the SAP ECC RFC spoke](https://www.servicenow.com/docs/csh?topicname=setup-sap-ecc-rfc&amp;amp;amp;version=yokohama&amp;amp;amp;pubname=yokohama-integrate-applications)
     -   [Setup the SAP S4 HANA Public Cloud spoke](https://www.servicenow.com/docs/csh?topicname=setup-sap-s4hana-cloud-spk&amp;amp;amp;version=yokohama&amp;amp;amp;pubname=yokohama-integrate-applications)
     -   [Set up SAP S4 HANA OData spoke](https://www.servicenow.com/docs/csh?topicname=set-up-sap-s4-hana-odata-spoke&amp;amp;version=yokohama&amp;amp;pubname=yokohama-integrate-applications)
--   Activated the Source-to-Pay integration framework from ServiceNow Store. The Source-to-Pay integration with SAP uses the Source-to-Pay integration framework to pull tasks from SAP into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](../../source-to-pay-operations/concept/source-to-pay-integration-framework.md).
+-   Activated the Source-to-Pay integration framework from ServiceNow Store. The Source-to-Pay integration with SAP uses the Source-to-Pay integration framework to pull tasks from SAP into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](source-to-pay-integration-framework.md).
 
 
 ## Primary Data Integration Dependencies with SAP Dependencies
@@ -80,9 +80,9 @@ Install the following dependencies of Accounts Payable Operations integration wi
 
 -   **[ERP Source Configuration for SAP](erp-source-configuration-sap.md)**  
 Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
--   **[Define ERP source configuration for SAP](../task/define-erp-source-sap.md)**  
+-   **[Define ERP source configuration for SAP](define-erp-source-sap.md)**  
 ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the SAP tables.
--   **[Configure integration services for SAP](../task/configure-service-maps-sap.md)**  
+-   **[Configure integration services for SAP](configure-service-maps-sap.md)**  
 For configuring integration services, provide the connection end point and the SAP ERP credentials that you set up for your authentication profile. Also, create a separate integration service record for each service request that you want to customize.
 -   **[Look up primary data in SAP](look-up-primary-data-sap.md)**  
 You can run a job to look up primary data \(for example, Currencies\) from different ERP sources into ServiceNow.

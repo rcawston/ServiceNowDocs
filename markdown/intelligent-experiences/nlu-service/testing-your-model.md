@@ -19,7 +19,7 @@ Assess the performance of your NLU model to identify areas for improvement. Then
 
 Test your Virtual Agent or AI Search model against its default test set to see how the model responds. Test results provide information you can use to improve your model.
 
-**Note:** Testing your model requires the Multi-model Batch Testing feature, available with the NLU Workbench - Advanced Features application from ServiceNow® Store. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md).
+**Note:** Testing your model requires the Multi-model Batch Testing feature, available with the NLU Workbench - Advanced Features application from ServiceNow® Store. For more information, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md).
 
 To test your model, navigate to **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then select the name of the model. In the **Test and publish your model** card, select **View phase.** ![Test and publish your model phase card](../images/testing-your-model001.png)
 
@@ -98,7 +98,7 @@ The **Publish model** button makes the current version of the model available to
 
 **Note:** If the model has not been trained, the **Publish model** button is unavailable. Return to the **Build and train your model** phase to train the model before publishing.
 
-For more information on publishing your model, see [Publish your NLU model](../task/publish-nlu-model.md).
+For more information on publishing your model, see [Publish your NLU model](publish-nlu-model.md).
 
 ## Multi-model Batch Testing
 
@@ -108,8 +108,8 @@ For more information, see [Multi-model Batch Testing](batch-testing-nlu.md).
 
 For more information about test sets, see:
 
--   [Create a test set](../task/import-batch-test-set.md)
+-   [Create a test set](import-batch-test-set.md)
 -   [Test set creation and management](nlu-test-set-creation-management.md)
 
-For information about the process of testing, see [Test your model](../task/test-your-model.md).
+For information about the process of testing, see [Test your model](test-your-model.md).
 

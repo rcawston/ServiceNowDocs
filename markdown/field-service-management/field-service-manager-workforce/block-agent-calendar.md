@@ -121,5 +121,5 @@ Enter notes for the event, if any.
     3.  Repeat steps 3 through 5 to block the calendar of a potentially affected agent for future dates.
 
 
-**Parent Topic:**[Use Emergency Exposure Management for Field Service agent monitoring and assignments](../concept/use-exposure-management-fsm.md)
+**Parent Topic:**[Use Emergency Exposure Management for Field Service agent monitoring and assignments](use-exposure-management-fsm.md)
 

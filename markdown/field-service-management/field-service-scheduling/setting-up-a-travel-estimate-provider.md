@@ -25,7 +25,7 @@ You can use third-party map providers in Schedule Optimization to expand your ma
 -   Beans.ai: This map provider provides more accurate travel time estimates. Locations that are deemed invalid through geocoding or aren’t reachable by road are excluded from task assignments
 -   Third-party map providers: Schedule Optimization supports integration with third-party providers. To configure a third-party provider, you must already have a connection and credential established for that provider.
 
-For more information, see [Create a scheduling attribute for Schedule Optimization](../task/configure-scheduling-attributes.md).
+For more information, see [Create a scheduling attribute for Schedule Optimization](configure-scheduling-attributes.md).
 
 ## Map vendor call types
 
@@ -34,7 +34,7 @@ Property: **map\_vendor\_call\_types property**
 -   Sync: Default value.
 -   Async: Changing the default value to async can improve performance and may result in more outbound requests.
 
-For more information on properties, see [Schedule Optimization properties](../reference/schedule-optimization-properties.md).
+For more information on properties, see [Schedule Optimization properties](../schedule-optimization-properties.md).
 
 ## Travel band modifiers
 

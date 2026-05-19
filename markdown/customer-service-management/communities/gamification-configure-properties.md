@@ -31,8 +31,8 @@ Role required: sn\_gamification.admin
 
 4.  Click **Save**.
 
-    Additional properties can be configured for the gamification feature. For more information, see [Gamification properties](../reference/communities-properties.md#table_wdb_cts_r1b).
+    Additional properties can be configured for the gamification feature. For more information, see [Gamification properties](communities-properties.md#table_wdb_cts_r1b).
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](communities-gamification-administer.md)
 

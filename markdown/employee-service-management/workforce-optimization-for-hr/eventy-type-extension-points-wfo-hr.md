@@ -36,5 +36,5 @@ You can use extension points to create events such as meeting, training, and tim
 |On Call Time Off|AgentScheduleOnCallTimeOffEventManager|
 |Actual Work|AgentScheduleActualWorkEventManager|
 
-**Parent Topic:**[Setting up Scheduling for Workforce Optimization for HR](../task/setup-scheduling-wfo-hr.md)
+**Parent Topic:**[Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)
 

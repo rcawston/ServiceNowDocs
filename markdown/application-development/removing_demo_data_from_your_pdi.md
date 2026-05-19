@@ -36,5 +36,5 @@ Demo data removal takes 20-30 minutes. The Developer Site will send you an email
 
 ![Remove demo data page](../image/remove-demo-data-pdi.png)
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

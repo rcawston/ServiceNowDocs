@@ -39,7 +39,7 @@ Scheduling Assistant
 
 </td><td>
 
-Enables you to choose from the list of available time slots to resolve conflicts. For more information on resolving conflicts, see [Manage your change schedules and resolve conflicts](../task/use-conflict-calendar.md) [Manage your change schedules and resolve conflicts](../task/use-conflict-calendar.md)
+Enables you to choose from the list of available time slots to resolve conflicts. For more information on resolving conflicts, see [Manage your change schedules and resolve conflicts](use-conflict-calendar.md) [Manage your change schedules and resolve conflicts](use-conflict-calendar.md)
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Change request block
 Enables you to view the details of the change request.**Note:** Related changes section is displayed if other scheduled changes that potentially conflict with the change based on a schedule or assignment is detected. For example, if the same person is assigned to two or more changes at the same date and time, you can visually see the conflict and update one of the scheduled changes, as appropriate.
 
 </td></tr></tbody>
-</table>-   **[Manage your change schedules and resolve conflicts](../task/use-conflict-calendar.md)**  
+</table>-   **[Manage your change schedules and resolve conflicts](use-conflict-calendar.md)**  
 Prevent schedule conflicts by using the conflict calendar to manage your change schedule details, customize views, and resolve conflicts.
 
 **Parent Topic:**[Conflict detection](c_ConflictDetection.md)
@@ -146,13 +146,13 @@ Prevent schedule conflicts by using the conflict calendar to manage your change 
 **Related topics**  
 
 
-[Detect change conflicts](../task/configure-conflict-properties.md#)
+[Detect change conflicts](configure-conflict-properties.md#)
 
-[Create blackout and maintenance schedules in Change Management](../task/t_CreateBlkoutMaintSched.md)
+[Create blackout and maintenance schedules in Change Management](t_CreateBlkoutMaintSched.md)
 
-[Configure a change request to monitor outside maintenance schedule conflicts](../task/monitor-maintenance-schedule.md)
+[Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
 
-[Enable automatic change conflict detection](../task/t_RunAutomatedConflictDetection.md)
+[Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
 
-[Detect conflicts manually and review conflict details](../task/t_RunManualConflictDetection.md#)
+[Detect conflicts manually and review conflict details](t_RunManualConflictDetection.md#)
 

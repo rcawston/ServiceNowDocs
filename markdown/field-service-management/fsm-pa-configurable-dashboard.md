@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Solutions, FSM reports and analytics, Configure,
 
 The Field Service Platform Analytics dashboard displays the daily and weekly progress of work orders and work order tasks for your assignment groups.
 
-[Field Service Management](../../../product/field-service-management/concept/fsm-application-landing-page.md)
+[Field Service Management](fsm-application-landing-page.md)
 
 ## Required ServiceNow AI Platform roles
 

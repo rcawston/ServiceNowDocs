@@ -37,7 +37,7 @@ Any user or group can be configured as an approver through approval rules. When 
 
 3.  Configure the approvals for Control objective \(sn\_compliance\_policy\_statement\) table.
 
-    For more information, see [GRC Approval Configurator.](../../grc-policy-and-compliance/concept/grc-approval-configurator-for-policy-extension-and-exception.md)
+    For more information, see [GRC Approval Configurator.](../policy-and-compliance-management/grc-approval-configurator-for-policy-extension-and-exception.md)
 
 
 ## Result

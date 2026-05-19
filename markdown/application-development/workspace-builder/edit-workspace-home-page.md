@@ -24,7 +24,7 @@ This video shows you how to configure a workspace home page in Workspace Builder
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -36,7 +36,7 @@ You can edit workspace home pages in Workspace Builder only for workspaces creat
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](accessing-workspace-builder-aes-crs.md).
 
 2.  Add an element to the page.
 
@@ -134,7 +134,7 @@ Table data that you can customize for the dashboard audience.
 
 
 </td></tr></tbody>
-</table>        The [Workspace Builder components for home pages](../reference/workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
+</table>        The [Workspace Builder components for home pages](workspace-builder-components-ref.md) has details on home page elements. For more information, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
 
         If you want to include additional elements that aren't available in the **Add new element** menu, you must edit the workspace in UI Builder. For a complete list of elements you can add in UI Builder, see the components documentation on the [ServiceNow](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?availability[]=Draft&availability[]=In+Progress&availability[]=Available&categories[]=Dev-Design+System&releases[]=utah&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades).
 
@@ -164,7 +164,7 @@ A header appears with the name of the element type.
 
 3.  Edit the configuration of the element in the configuration panel as needed.
 
-For example, if you're editing a data visualization, you must specify the source table. For more information on editing components, see [Add and configure components](../../../administer/ui-builder/task/add-components.md#).
+For example, if you're editing a data visualization, you must specify the source table. For more information on editing components, see [Add and configure components](../ui-builder/add-components.md#).
 
 4.  In the canvas header, select **Save**.
 

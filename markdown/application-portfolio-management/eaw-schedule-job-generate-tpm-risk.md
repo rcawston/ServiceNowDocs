@@ -34,5 +34,5 @@ These risk scores are displayed in the risk column of a TPM Gantt chart. The sam
 3.  Select  **Execute Now**.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 

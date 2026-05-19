@@ -81,5 +81,5 @@ Provide a brief summary about the issue to be discussed in the conference call.
 </table>9.  Select **Start**.
 
 
-**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](../concept/zoom-sow.md)
+**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](zoom-sow.md)
 

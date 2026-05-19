@@ -15,7 +15,7 @@ The Publish to Watchlist capability adds observables and indicators associated w
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Security Operations Integration - Publish to Watchlist Flow](../../security-operations-integrations/task/secops-integration-publish-watchlist-workflow.md)**  
+-   **[Security Operations Integration - Publish to Watchlist Flow](secops-integration-publish-watchlist-workflow.md)**  
 The **Security Operations Integrations - Publish to Watchlist** flow is a high-level flow independent of integrations. It adds observables to third-party watchlist that support the capability. Use it to fulfill an integration.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -41,5 +41,5 @@ The **Security Operations Integrations - Publish to Watchlist** flow is a high-l
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

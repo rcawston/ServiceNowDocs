@@ -47,18 +47,18 @@ Role required: admin
 -   **[Enable the mobile experience for ShoppingHub Mobile](enable-shoppinghub-mobile.md)**  
 Enable the mobile experience for Shopping Hub Mobile so that users can complete to-dos assigned to them and view and track their purchases from their mobile device.
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
 
 **Related topics**  
 
 
 [Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](configuring-work-prioritization.md)
 
 [Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
 
@@ -66,15 +66,15 @@ Enable the mobile experience for Shopping Hub Mobile so that users can complete 
 
 [Configure conditions for merging purchase requisitions](config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](awa-spo.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 
-[Shopping Hub Mobile](../concept/shoppinghub-mobile.md)
+[Shopping Hub Mobile](shoppinghub-mobile.md)
 
-[My purchases on your mobile](../concept/my-purchases-mobile.md)
+[My purchases on your mobile](my-purchases-mobile.md)
 
-[Using Shopping Hub Mobile](../concept/using-sh-mobile.md)
+[Using Shopping Hub Mobile](using-sh-mobile.md)
 

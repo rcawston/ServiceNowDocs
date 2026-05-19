@@ -32,7 +32,7 @@ Role required: now\_assist\_panel\_user
 
 1.  Navigate to **App Engine** &gt; **ServiceNow Studio**.
 
-    To learn more about the ServiceNow Studio home page, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+    To learn more about the ServiceNow Studio home page, see [ServiceNow Studio](../servicenow-studio-classic/servicenow-studio-landing.md).
 
 2.  Select the Now Assist icon.
 
@@ -46,7 +46,7 @@ Role required: now\_assist\_panel\_user
 
     The apps available for editing in the Now Assist panel are custom applications you have created or to which you have access. If the application list is long, use the search box to find a specific application.
 
-    If you have the delegated\_developer or now\_assist\_panel\_user roles but do not see the app you need, contact your App Engine admin. Ask the admin to add you to the app as a delegated developer. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+    If you have the delegated\_developer or now\_assist\_panel\_user roles but do not see the app you need, contact your App Engine admin. Ask the admin to add you to the app as a delegated developer. For more information, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
     To edit an application with the app generation skill, your scope must match the app scope. If your scope does not match, the app generation skill changes your scope to the app scope automatically.
 
@@ -150,7 +150,7 @@ Role required: now\_assist\_panel\_user
 
         To see the workspace from an end-user perspective, select **Preview**.
 
-        For more information about UI Builder, see [UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md).
+        For more information about UI Builder, see [UI Builder](../ui-builder/ui-builder-overview.md).
 
     4.  Close the UI Builder tab.
 
@@ -175,7 +175,7 @@ Role required: now\_assist\_panel\_user
 
 ## What to do next
 
-Continue opening, verifying, and modifying items in the application files list as needed. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Continue opening, verifying, and modifying items in the application files list as needed. For more information, see [ServiceNow Studio](../servicenow-studio-classic/servicenow-studio-landing.md).
 
 **Parent Topic:**[Generate apps in ServiceNow Studio](sns-app-gen-using-landing.md)
 

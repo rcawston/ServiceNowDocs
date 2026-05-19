@@ -50,12 +50,12 @@ You can work on the repair tasks that belong to the following task types:
 
 On the **Details** tab, the **Start work** link changes to **Start timer**, **Record time**, and **Close** automatically.
 
-**Parent Topic:**[Manage enterprise asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-eam.md)
+**Parent Topic:**[Manage enterprise asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-eam.md)
 
 **Related topics**  
 
 
-[Record time worked on an enterprise asset repair task using the Mobile Agent application](../concept/record-time-worked-repair-task-mobile-agent-eam.md)
+[Record time worked on an enterprise asset repair task using the Mobile Agent application](record-time-worked-repair-task-mobile-agent-eam.md)
 
 [Close an enterprise asset repair task using the Mobile Agent application](complete-repair-task-mobile-app-eam.md)
 

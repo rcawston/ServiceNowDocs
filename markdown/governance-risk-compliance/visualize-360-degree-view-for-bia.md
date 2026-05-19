@@ -66,5 +66,5 @@ The configurations for the 360° view are stored in **360° View Configurations*
 7.  To navigate to the BIA again, select the BIA or list view in the breadcrumb navigation on the page.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

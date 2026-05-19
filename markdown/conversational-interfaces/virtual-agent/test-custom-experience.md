@@ -50,5 +50,5 @@ Role required: virtual\_agent\_admin or admin
     ![Test window.](../images/va-cce-it-express.png)
 
 
-**Parent Topic:**[Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md)
+**Parent Topic:**[Customizing a Virtual Agent chat experience](va-conversation-settings.md)
 

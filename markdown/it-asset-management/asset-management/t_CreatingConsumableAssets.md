@@ -233,5 +233,5 @@ Work notes related to the asset.
 </table>2.  Click **Submit**.
 
 
-**Parent Topic:**[Consumables life cycle](../concept/c_FollowLifeCycleConsumbl.md)
+**Parent Topic:**[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 

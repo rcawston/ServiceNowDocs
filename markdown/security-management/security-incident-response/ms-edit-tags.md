@@ -109,9 +109,9 @@ Description for the tag.
     You have now successfully edited the tag record for a security tag.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Recover deleted emails on the Microsoft Exchange Online service](ms-recover-deleted-emails.md)
 
-**Next topic:**[Microsoft Exchange On-Premises integration](../../secops-integration-sir/secops-integration-ms-exchange-on-prem/reference/ms-exch-on-prem-landing-page.md)
+**Next topic:**[Microsoft Exchange On-Premises integration](ms-exch-on-prem-landing-page.md)
 

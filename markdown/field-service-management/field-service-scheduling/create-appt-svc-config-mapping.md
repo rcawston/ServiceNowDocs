@@ -100,7 +100,7 @@ Demand channel
 
 </td><td>
 
-The demand channel for which the configuration applies. For more information, see [Create a demand channel](create-a-demand-channel.md). **Note:** Applies only if territory plugin is installed.
+The demand channel for which the configuration applies. For more information, see [Create a demand channel](../workforce-optimization-for-field-service/create-a-demand-channel.md). **Note:** Applies only if territory plugin is installed.
 
 </td></tr><tr><td>
 

@@ -56,5 +56,5 @@ The activity will be added to your growth plan.
 -   Review your progress.
 -   Continue to edit your growth plan.
 
-**Parent Topic:**[Using the Talent Development Core application](../concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](egd-use.md)
 

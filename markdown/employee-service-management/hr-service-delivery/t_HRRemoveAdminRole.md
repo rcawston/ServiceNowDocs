@@ -50,5 +50,5 @@ All the default HR scheduled jobs will run as usual even after the HR Administra
 
 **Note:** System user inherits the IT System Administrator role \(admin\). When you remove HR administrator role from the IT System Administrator role, System user will no longer have the HR administrator role. Validate all your customizations that are running in the context of System user.
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](c_ManageRoles.md)
 

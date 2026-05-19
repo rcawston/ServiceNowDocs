@@ -45,8 +45,8 @@ If you already have an existing policy management system, you can use an API and
 
 For more information about the remote data options or how to set up a remote table integration, see the following topics in the Developer Guide:
 
--   [Remote Data Options for Remote Tables](../../../integrate/guides/FSO/concept/fso-int_guide-remote-data-options-for-remote-tables.md)
--   [Setting up a remote table integration](../../../integrate/guides/FSO/concept/setting-up-a-remote-table-integration.md)
+-   [Remote Data Options for Remote Tables](../fso-int_guide-remote-data-options-for-remote-tables.md)
+-   [Setting up a remote table integration](../setting-up-a-remote-table-integration.md)
 
 ## Setting up the new policy data
 

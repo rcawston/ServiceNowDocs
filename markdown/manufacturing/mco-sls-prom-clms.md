@@ -48,7 +48,7 @@ This feature enables the seamless collaboration between OEMs and their dealers t
 
 Use the following to configure, use, and manage the sales promotions in MCO.
 
-Review the entities and relationships within the [Sales promotion campaign data model](../reference/sales-promotion-campaign-claims.md) application, including tables added or modified by the sales promotion plugin.
+Review the entities and relationships within the [Sales promotion campaign data model](sales-promotion-campaign-claims.md) application, including tables added or modified by the sales promotion plugin.
 
 1.  Configure the sales promotion: Complete the following tasks to set up sales promotion in your environment.
     1.  Install Sales promotion claim management \[sn\_sls\_prm\_clm\_mgt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md).
@@ -61,6 +61,6 @@ Review the entities and relationships within the [Sales promotion campaign data 
     -   [Sales promotion management](mco-sls-pro-mgmt.md)
     -   [Sales promotion claim management](mco-sls-pro-clm-mgmt.md)
 3.  Work with sales promotion \(Dealer\): Use the Dealer portal to submit and track sales promotion claims.
-    -   [Submit a sales promotion claim](../task/mco-sales-promotion-single-claim.md)
-    -   [Upload a bulk sales promotion claim](../task/mco-sales-promotion-bulk-upload.md)
+    -   [Submit a sales promotion claim](mco-sales-promotion-single-claim.md)
+    -   [Upload a bulk sales promotion claim](mco-sales-promotion-bulk-upload.md)
 

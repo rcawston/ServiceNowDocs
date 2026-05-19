@@ -29,7 +29,7 @@ An unattended robot can execute an unattended bot process, which is an automatio
 
 By using the Unattended Robot application, you can enable an unattended robot to execute an unattended bot process that is triggered either by a schedule, API, or manually set.
 
-You can map multiple unattended robots as high density robots to one virtual machine. For more information, see [High density robots in RPA Hub](../concept/high-density-robots-rpa-hub.md).
+You can map multiple unattended robots as high density robots to one virtual machine. For more information, see [High density robots in RPA Hub](high-density-robots-rpa-hub.md).
 
 ## Procedure
 
@@ -111,7 +111,7 @@ Computer name of the physical or virtual machine on which the Unattended Robot a
 
  The **Machine Lookup value change** scheduled job validates the values in the **Machine Name Lookup** field and **Machine Name** field.
 
- For more information, see the Scheduled jobs installed section in [Components installed with RPA Hub](../reference/installed-with-rpa-hub.md) and [Configure RPA Hub properties](../reference/rpahub-sys-properties.md).
+ For more information, see the Scheduled jobs installed section in [Components installed with RPA Hub](installed-with-rpa-hub.md) and [Configure RPA Hub properties](rpahub-sys-properties.md).
 
 </td></tr><tr><td>
 
@@ -171,11 +171,11 @@ Brief description of the robot.
 
 ## What to do next
 
-Install Unattended Robot. For more information, see [Install Unattended Robot](../../rpa-runtime/task/install-rpa-runtime.md)
+Install Unattended Robot. For more information, see [Install Unattended Robot](install-rpa-runtime.md)
 
-Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](../../rpa-runtime/task/set-up-rpa-runtime.md).
+Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](set-up-rpa-runtime.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 **Related topics**  
 

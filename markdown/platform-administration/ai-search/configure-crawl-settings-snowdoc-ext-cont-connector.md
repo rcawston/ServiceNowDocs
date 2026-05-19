@@ -57,5 +57,5 @@ If one of your connectors reaches the content indexing limit, you can update its
 
 The ServiceNow product documentation external content connector is updated with your chosen crawl scope.
 
-**Parent Topic:**[ServiceNow product documentation external content connector](../concept/servicenow-product-documentation-external-content-connector.md)
+**Parent Topic:**[ServiceNow product documentation external content connector](servicenow-product-documentation-external-content-connector.md)
 

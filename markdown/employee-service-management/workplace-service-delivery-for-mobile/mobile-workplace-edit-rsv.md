@@ -68,7 +68,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
         Update your reservations to change the start time and date or end time or date and the location. You can also remove or edit workplace services from your existing reservations. After you update a reservation, the reservation subject name is changed automatically to the space name for which you are updating the reservation. For example, Reservation for C1-04-01, where C1-04-01 is the space name.
 
-        **Note:** When you try to edit a group reservation, the **Edit Group Parent** option is available for a group reservation. Selecting this option opens the group parent reservation in the Reservation Summary Page. For more information about how to create a group reservation, see [Create a group reservation](../../wsd-reservation-management/task/create-group-reservation.md).
+        **Note:** When you try to edit a group reservation, the **Edit Group Parent** option is available for a group reservation. Selecting this option opens the group parent reservation in the Reservation Summary Page. For more information about how to create a group reservation, see [Create a group reservation](../workplace-reservation-management/create-group-reservation.md).
 
     2.  Select**Edit**.
 

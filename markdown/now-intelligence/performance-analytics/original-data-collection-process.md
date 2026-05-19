@@ -57,7 +57,7 @@ Flush snapshots
 
 </td><td>
 
-The ServiceNow AI Platform stores a maximum number of Performance Analytics [snapshots](../concept/performance-analytics-glossary.md#) in memory before offloading them to the database.
+The ServiceNow AI Platform stores a maximum number of Performance Analytics [snapshots](performance-analytics-glossary.md#) in memory before offloading them to the database.
 
 </td><td>
 
@@ -80,7 +80,7 @@ Stores count distinct aggregations as a hashcode instead of as separate values.
 
 Follow the data collection process as revealed in log messages. The log messages in each subprocess have been separated into their own tables.
 
-**Note:** This log is for the original data collector. If your instance uses this data collector, the system parameter **com.snc.pa.dc.hsql** exists and is "false." Otherwise, you are using the optimized data collector as described in [Optimizing data collection](../concept/optimized-data-collection.md). For more information about that log, see [Log details for optimized data collector](log-details-optimized-dc.md).
+**Note:** This log is for the original data collector. If your instance uses this data collector, the system parameter **com.snc.pa.dc.hsql** exists and is "false." Otherwise, you are using the optimized data collector as described in [Optimizing data collection](optimized-data-collection.md). For more information about that log, see [Log details for optimized data collector](log-details-optimized-dc.md).
 
 <table id="table_kwh_k4g_qbb"><thead><tr><th>
 
@@ -409,5 +409,5 @@ The map/reduce function completes.
 Applied map/reduce function
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+</table>**Parent Topic:**[Data collection process and logging](data-collection-process-logging.md)
 

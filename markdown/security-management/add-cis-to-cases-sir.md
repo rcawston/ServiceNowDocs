@@ -48,7 +48,7 @@ You need to navigate to the CIs you want to add to the existing cases.
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Configuration items in cases](../concept/cases-from-cis.md)
+**Parent Topic:**[Configuration items in cases](cases-from-cis.md)
 
 **Related topics**  
 

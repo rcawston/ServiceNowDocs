@@ -57,7 +57,7 @@ Normalization status
 
 </td><td>
 
-Normalization status of all the enterprise models. View the count of enterprise models that were normalized and those models that didn't get normalized. For details on the normalization status, see [Normalization status for enterprise models](../reference/norm-status-eam.md).
+Normalization status of all the enterprise models. View the count of enterprise models that were normalized and those models that didn't get normalized. For details on the normalization status, see [Normalization status for enterprise models](norm-status-eam.md).
 
 </td></tr><tr><td>
 

@@ -162,7 +162,7 @@ Install self-service and omnichannel applications, such as OpenFrame and Interac
 
 ## Browser requirements
 
-Starting with the Australia release, self-service and omnichannel application don't support Internet Explorer. For more information, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Starting with the Australia release, self-service and omnichannel application don't support Internet Explorer. For more information, see [Browser support](../browser-support.md).
 
 ## Related ServiceNow applications and features
 

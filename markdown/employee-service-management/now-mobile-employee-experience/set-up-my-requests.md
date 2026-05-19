@@ -46,5 +46,5 @@ Demonstrates configuring service catalogs, knowledge bases, and My Requests in t
     Records from the defined filter are displayed in the app under **My Requests** in the **For Me** tab.
 
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 

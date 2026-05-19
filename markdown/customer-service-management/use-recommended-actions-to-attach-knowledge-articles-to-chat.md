@@ -55,5 +55,5 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 **Related topics**  
 
 
-[Share KB in chat interactions guidance](../concept/ra-csm-guidances-share-kb-chat.md)
+[Share KB in chat interactions guidance](ra-csm-guidances-share-kb-chat.md)
 

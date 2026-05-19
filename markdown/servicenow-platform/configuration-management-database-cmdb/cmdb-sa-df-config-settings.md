@@ -21,11 +21,11 @@ Review the [CMDB success advisor](https://store.servicenow.com/store/app/db28ec5
 
 ## Set up overview
 
-1.  [Get started with Data Foundations advisor dashboard setup](../task/cmdb-sa-df-get-started.md).
+1.  [Get started with Data Foundations advisor dashboard setup](cmdb-sa-df-get-started.md).
 
     Set up your Data Foundations specific advisor dashboard in CMDB success advisor.
 
-2.  [Manage Data Foundations advisor scope in CMDB success advisor](../task/cmdb-sa-df-optimize-dashboard.md).
+2.  [Manage Data Foundations advisor scope in CMDB success advisor](cmdb-sa-df-optimize-dashboard.md).
 
     After completing the initial setup, you can continue to improve your CMDB data quality by adjusting principal class selection for your current Data Foundations goals.
 

@@ -59,5 +59,5 @@ Choose the fields that you want to view on the cards. Use the toggle buttons for
     **Important:** The default display limit of vertical lanes and horizontal lanes shown on a Kanban board is 30 and 30 respectively. These lanes support only reference and choice fields. As you user, you will not be able to change the field metrics on a Kanban card.
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 

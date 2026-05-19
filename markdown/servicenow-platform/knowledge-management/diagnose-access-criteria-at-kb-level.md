@@ -83,5 +83,5 @@ Click the IT knowledge base link and provide the access by adding Alena to a use
 
 ![User criteria diagnosis for a knowledge base.](../image/user-crit-diag-kb.png)
 
-**Parent Topic:**[User criteria diagnostics for Knowledge Management](../concept/diagnose-knowledge-user-criteria.md)
+**Parent Topic:**[User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md)
 

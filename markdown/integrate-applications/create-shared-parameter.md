@@ -40,7 +40,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
     **Note:** Verify that the shared parameter is not associated to any bot process. You can delete a shared parameter which is associated to a retired bot process.
 
 
-**Parent Topic:**[Shared parameters in RPA Hub](../concept/shared-paramaters-rpa-hub.md)
+**Parent Topic:**[Shared parameters in RPA Hub](shared-paramaters-rpa-hub.md)
 
 **Related topics**  
 

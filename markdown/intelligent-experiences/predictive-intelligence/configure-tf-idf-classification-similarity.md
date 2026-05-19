@@ -63,7 +63,7 @@ Predictive Intelligence uses paragraph vector word embedding by default in its c
     ![This image shows the Advanced Solution Setting record for TF-IDF.](../images/tf-idf-similarity-solution6.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 

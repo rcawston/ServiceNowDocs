@@ -28,5 +28,5 @@ Role required: itil
 3.  To view a roster, click its order number in the **Rosters** related list.
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 

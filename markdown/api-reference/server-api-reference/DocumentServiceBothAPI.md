@@ -17,23 +17,23 @@ The DocumentService API provides methods for creating, deleting, and updating a 
 
 This API requires the Document Management plugin \(com.snc.platform\_document\_management\) and is provided within the `sn_doc_services` namespace. For information, see [Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-services-landing-page.md).
 
-A document is a collection of information about a document record. The methods used to create or update a record modify fields using the [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) object.
+A document is a collection of information about a document record. The methods used to create or update a record modify fields using the [SystemDocument](SystemDocumentBothAPI.md#) object.
 
 Document content is managed using versions. The following APIs enable you to define and manage document versions:
 
--   [SystemDocumentVersion](../../SystemDocumentVersion/concept/SystemDocumentVersionBothAPI.md#) – Define a document version as the source of the document content. Each version is an element containing the document content and is provided using a single URL or attachment. An attachment can only be added in the Document Versions \[ds\_document\_version\] table UI and not with the API.
--   [DocumentVersionService](../../DocumentVersionService/concept/DocumentVersionServiceBothAPI.md#) – Document content is managed using versions.
+-   [SystemDocumentVersion](SystemDocumentVersionBothAPI.md#) – Define a document version as the source of the document content. Each version is an element containing the document content and is provided using a single URL or attachment. An attachment can only be added in the Document Versions \[ds\_document\_version\] table UI and not with the API.
+-   [DocumentVersionService](DocumentVersionServiceBothAPI.md#) – Document content is managed using versions.
 
-Use the [DocumentReferenceService](../../DocumentReferenceService/concept/DocumentReferenceServiceBothAPI.md#) API to manage documents referenced in a target table, such as the Incidents \[incident\] or Knowledge \[kb\_knowledge\] table.
+Use the [DocumentReferenceService](DocumentReferenceServiceBothAPI.md#) API to manage documents referenced in a target table, such as the Incidents \[incident\] or Knowledge \[kb\_knowledge\] table.
 
 The Document Management plugin also supports creating lists of document templates to associate with your document. For example, a job application requiring multiple documents such as a diploma, ID, or passport.
 
--   [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#) – Define a list of document templates.
--   [DocumentListService](../../DocumentListService/concept/DocumentListServiceBothAPI.md#) – Add or remove a document template list.
--   [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
--   [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
+-   [SystemDocumentList](SystemDocumentListBothAPI.md#) – Define a list of document templates.
+-   [DocumentListService](DocumentListServiceBothAPI.md#) – Add or remove a document template list.
+-   [SystemDocumentListEntry](SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
+-   [DocumentListEntryService](DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DocumentService - DocumentService\(\)
 
@@ -55,7 +55,7 @@ Creates a document record in the Documents \[ds\_document\] table.
 
 |Name|Type|Description|
 |----|----|-----------|
-|doc|[SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocument constructor or name\(\) method.|
+|doc|[SystemDocument](SystemDocumentBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocument constructor or name\(\) method.|
 
 <table id="table_tj4_p5j_34b" class="returns"><thead><tr><th>
 

@@ -43,7 +43,7 @@ Use the Project Portfolio Management application to create the project templates
 
 </td></tr><tr><td>
 
-[Configure field mapping between orders and projects](../task/configure-project-table-mapping.md)
+[Configure field mapping between orders and projects](configure-project-table-mapping.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Configure the conditions and decision rules for determining the order lines, dom
 
 </td></tr><tr><td>
 
-[Control the automatic closure of project tasks](../task/control-auto-closure-proj-tasks.md)
+[Control the automatic closure of project tasks](control-auto-closure-proj-tasks.md)
 
 </td><td>
 

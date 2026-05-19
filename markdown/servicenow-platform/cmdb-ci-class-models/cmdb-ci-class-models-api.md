@@ -36,7 +36,7 @@ The classes added in this release extend the CMDB data model and provide a found
 
 This section lists the classes that the CMDB CI Class Models app adds or updates. For additional detail, see the [Community article titled "New Data Model in CMDB for APIs"](https://www.servicenow.com/community/cmdb-articles/new-data-model-in-cmdb-for-apis/ta-p/2688843).
 
-CMDB CI Class Models: The following classes for API are available. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: The following classes for API are available. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 <table id="table_h2r_d5z_ryb"><thead><tr><th>
 

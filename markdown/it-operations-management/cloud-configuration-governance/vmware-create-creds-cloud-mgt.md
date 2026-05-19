@@ -134,5 +134,5 @@ Enables Cloud Provisioning and Governance to collect events from resource types 
 **Related topics**  
 
 
-[Discovery for VMware](../../discovery/concept/vmware-cloud-discovery.md)
+[Discovery for VMware](../discovery/vmware-cloud-discovery.md)
 

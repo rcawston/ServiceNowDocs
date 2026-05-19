@@ -38,5 +38,5 @@ Role required: sn\_sec\_tisc.analyst
 6.  View the records.
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

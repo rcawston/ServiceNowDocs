@@ -17,7 +17,7 @@ Simplify test creation by directly interacting with components on most Configura
 
 ![Gif showing the cw access and test step creation](../image/atf-access-add-test-step-cw.gif)
 
--   **[Create a test for Configurable Workspace interaction via Page Inspector](../task/atf-create-tests-ws.md)**  
+-   **[Create a test for Configurable Workspace interaction via Page Inspector](atf-create-tests-ws.md)**  
 Leverage the Page Inspector to create tests by directly interacting with components on most Configurable Workspace pages.
 
 **Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)

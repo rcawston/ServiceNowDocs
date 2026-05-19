@@ -36,5 +36,5 @@ Role required: wm\_agent
 
 ## Result
 
-The configuration to generate signed PDF summaries at the work order task level is enabled. For more information, see [Close a work order task](../concept/close-wo-wot-mobile.md#).
+The configuration to generate signed PDF summaries at the work order task level is enabled. For more information, see [Close a work order task](close-wo-wot-mobile.md#).
 

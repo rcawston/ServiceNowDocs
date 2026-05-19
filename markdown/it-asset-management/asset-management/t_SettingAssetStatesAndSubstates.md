@@ -188,7 +188,7 @@ Asset is being prepared. This state is used during the creation of an asset bund
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](c_AssetClasses.md)
 
 **Related topics**  
 

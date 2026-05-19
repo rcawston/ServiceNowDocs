@@ -31,12 +31,12 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing information object, select the information object.
 5.  Fill in the form fields.
 
-    For field information, see [Create information object form](../../reference/eaw-reference/eaw-information-object-form.md).
+    For field information, see [Create information object form](eaw-information-object-form.md).
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Manage information objects](../../concept/eaw-concept/eaw-manage-info-object.md)
+**Parent Topic:**[Manage information objects](eaw-manage-info-object.md)
 
 **Related topics**  
 

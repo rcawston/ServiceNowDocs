@@ -27,7 +27,7 @@ The following table lists the mandatory and optional fields for the Import Avail
 |Third party import ID|String|Unique identifier for external data imports.|
 |Unit|String|Unit or rate in which this product is sold by the supplier.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

@@ -42,8 +42,8 @@ You need to enable file download for Netskope before moving ahead.
 
     The file that violates the DLP policy on the Netskope will be downloaded to the user’s local machine.
 
-    **Note:** DLP admin can control the access of **Download File** action for all integrations by disabling the **Should downloading the violating file of the reported incident be allowed** option from the **Advanced Settings** page of DLP Administration. For more information, see [Configure advanced settings](../../data-loss-prevention/task/configure-advanced-settings-dlp.md).
+    **Note:** DLP admin can control the access of **Download File** action for all integrations by disabling the **Should downloading the violating file of the reported incident be allowed** option from the **Advanced Settings** page of DLP Administration. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md).
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

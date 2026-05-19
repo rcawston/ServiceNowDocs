@@ -157,5 +157,5 @@ With **Match All** selected, only the users who meet all of these conditions are
 
 Now you can assign the user criteria to an OT knowledge base. For more information, see [Assign the user criteria to an OT knowledge base](assign-ot-user-criteria-otkm.md).
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](configuring-operational-technology-knowledge-management.md)
 

@@ -24,7 +24,7 @@ The steps to create a custom activity for a playbook are as follows:
 
     **Note:** If an activity definition already exists for the activity you want, you can skip this step.
 
-3.  **Make the activity available in Creator Studio**: An App Engine admin adds the activity to the Creator Studio Activities table. For more information, see [Make a custom activity available for playbooks in Creator Studio](../task/creator-studio-add-custom-activity.md).
+3.  **Make the activity available in Creator Studio**: An App Engine admin adds the activity to the Creator Studio Activities table. For more information, see [Make a custom activity available for playbooks in Creator Studio](creator-studio-add-custom-activity.md).
 
 ## Making existing activities and playbooks available in Creator Studio
 

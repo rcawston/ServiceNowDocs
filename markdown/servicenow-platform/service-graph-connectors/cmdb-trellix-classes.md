@@ -152,5 +152,5 @@ The following attributes in the Storage Disk \[cmdb\_ci\_storage\_disk\] table a
 **Related topics**  
 
 
-[Service Graph Connector for Trellix](../concept/sgc-integration-trellix.md)
+[Service Graph Connector for Trellix](sgc-integration-trellix.md)
 

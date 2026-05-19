@@ -17,8 +17,8 @@ Enables supplier contacts to interact with supplier owners and resolve their iss
 
 The [Advanced Work Assignment for Supplier Lifecycle Operations](slo-glossary.md#) application enables the following:
 
--   Supplier fulfillers can accept a chat request from the Supplier Lifecycle Operations to interact with supplier contacts. For more information, see [Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md).
--   Supplier contacts can start a chat session from the Supplier Collaboration Portal to interact with supplier fulfillers. For more information see [Start a chat session from the Supplier Collaboration Portal](../task/start-chat-portal.md).
+-   Supplier fulfillers can accept a chat request from the Supplier Lifecycle Operations to interact with supplier contacts. For more information, see [Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md).
+-   Supplier contacts can start a chat session from the Supplier Collaboration Portal to interact with supplier fulfillers. For more information see [Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md).
 
 **Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
@@ -27,11 +27,11 @@ The [Advanced Work Assignment for Supplier Lifecycle Operations](slo-glossary.md
 
 [Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
 
-[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)
+[Activate Agent Chat and load demo data](load-demo-agent-chat.md)
 
 [Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 
-[Configure Advanced Work Assignment for Supplier Lifecycle Operations](../task/setup-awa-slm.md)
+[Configure Advanced Work Assignment for Supplier Lifecycle Operations](setup-awa-slm.md)
 
 [Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 

@@ -44,19 +44,19 @@ glide.email.digest.max\_intervals
 The maximum number of email digest intervals that can be defined. -   **Type**: integer
 -   **Default value**: 100
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: For details on digest intervals, see [Create or modify email digest intervals](../task/create-digest-intervals.md).
+-   **Learn more**: For details on digest intervals, see [Create or modify email digest intervals](create-digest-intervals.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email properties](../../reference-pages/concept/c_EmailProperties.md)
+</table>**Parent Topic:**[Email properties](c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Outbound email configuration](../../reference-pages/reference/r_OutboundMailConfiguration.md)
+[Outbound email configuration](r_OutboundMailConfiguration.md)
 
-[Inbound email configuration](../../reference-pages/reference/r_InboundMailConfiguration.md)
+[Inbound email configuration](r_InboundMailConfiguration.md)
 
 [Email image filtering properties](email-image-filters.md)
 
-[Advanced email properties](../../reference-pages/reference/r_AdditionalProperties.md)
+[Advanced email properties](r_AdditionalProperties.md)
 

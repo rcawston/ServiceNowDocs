@@ -17,7 +17,7 @@ Create a part requirement for a work order task.
 
 ## Before you begin
 
-Role required: wm\_admin, wm\_agent, wm\_dispatcher, wm\_qualifier, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_admin, wm\_agent, wm\_dispatcher, wm\_qualifier, or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 

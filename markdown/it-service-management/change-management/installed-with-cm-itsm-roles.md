@@ -208,5 +208,5 @@ Enables gathering, and verifying information, as well as delivering quick resolu
 -   now\_assist\_panel\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request ITSM Roles- Change Management](../task/request-itsm-roles-cm.md)
+</table>**Parent Topic:**[Request ITSM Roles- Change Management](request-itsm-roles-cm.md)
 

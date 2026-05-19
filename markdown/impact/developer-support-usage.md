@@ -35,7 +35,7 @@ There are certain parameters to consider when submitting a Developer Support cas
     -   Available to the number of designated users per Impact Package subscription \(not including customer system administrators\):
         -   Five for Advanced Impact package
         -   Ten for Total Impact package
-    **Note:** See [Manage Developer Support user access](../task/manage-developer-support-user-access.md) to designate users.
+    **Note:** See [Manage Developer Support user access](manage-developer-support-user-access.md) to designate users.
 
 -   **Infrastructure:**
     -   Supported version\(s\) of the release/feature/application/hardware are required

@@ -82,5 +82,5 @@ Conversational filters apply in addition to the inbox filters that administrator
 **Related topics**  
 
 
-[Employee Slate prompt library](../reference/employee-slate-prompt-library.md)
+[Employee Slate prompt library](employee-slate-prompt-library.md)
 

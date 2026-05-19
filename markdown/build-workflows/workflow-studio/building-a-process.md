@@ -24,5 +24,5 @@ Understand the building blocks of a playbook and how to configure them when you 
 -   **[Creating and managing Playbooks](creating-managing-playbooks.md)**  
 Learn how to create and configure a playbook in Workflow Studio.
 
-**Parent Topic:**[Workflow Studio playbooks](../../workflow-studio/reference/workflow-studio-playbooks-landing.md)
+**Parent Topic:**[Workflow Studio playbooks](workflow-studio-playbooks-landing.md)
 

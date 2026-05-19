@@ -62,5 +62,5 @@ Role required: admin, sn\_cbs.admin
     Now Assist saves the changes and displays a success message.
 
 
-**Parent Topic:**[Now Assist for Core Business Suite](../concept/now-assist-cbs.md)
+**Parent Topic:**[Now Assist for Core Business Suite](now-assist-cbs.md)
 

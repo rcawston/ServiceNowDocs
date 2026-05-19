@@ -60,5 +60,5 @@ Role required: admin, security admin, or delegated\_developer \(with the **Secur
 8.  Select **Continue**, and then select **Done** on the summary screen.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](add-security.md)
 

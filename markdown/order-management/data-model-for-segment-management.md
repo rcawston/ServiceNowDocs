@@ -131,16 +131,16 @@ Domain to which the segment belongs.
 
 Perform the following configuration tasks to set up the data model tables to establish an association between segment management and Partner Relationship Management.
 
--   [Configure Program Segment Mapping](../task/configure-program-segment-mapping.md)
--   [Configure Program Segment Criteria](../task/configure-program-segment-criteria.md)
--   [Configure Program Criteria](../task/configure-program-criteria.md)
+-   [Configure Program Segment Mapping](configure-program-segment-mapping.md)
+-   [Configure Program Segment Criteria](configure-program-segment-criteria.md)
+-   [Configure Program Criteria](configure-program-criteria.md)
 
 **Parent Topic:**[Configure Segment Management](configure-segment-management.md)
 
 **Related topics**  
 
 
-[Install Segment Management](../task/install-segment-management.md)
+[Install Segment Management](install-segment-management.md)
 
 [Roles and components of Segment Management](roles-and-components-of-segment-management.md)
 

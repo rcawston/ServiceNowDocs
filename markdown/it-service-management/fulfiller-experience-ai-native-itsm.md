@@ -38,12 +38,12 @@ Also included are the Incidents tab list and the Requests tab list.
 
 ![AI native home landing page.](../image/home-ai-native-itsm.png)
 
--   **[Accept a live chat from a requester](../task/accept-chat-ai-native-itsm.md)**  
+-   **[Accept a live chat from a requester](accept-chat-ai-native-itsm.md)**  
 Automatically create an incident by accepting a live chat or phone call from a requester.
 -   **[Generating AI summary and next steps](generating-ai-native-itsm.md)**  
 You can generate AI summary, key actions taken, proposed next steps, and related search results directly on the incident form to help resolve the incident, and also summarize the incident to gain an overall understanding of the incident details.
 -   **[Using the Service Desk Team Dashboard](using-now-assist-ai-native-itsm.md)**  
 Service desk managers can use the Service Desk Team Dashboard to view key performance metrics, including incident and requested item backlog, and team MTTR.
 
-**Parent Topic:**[Simplified IT Service Management](../reference/ai-native-it-service-desk-landing-page.md)
+**Parent Topic:**[Simplified IT Service Management](ai-native-it-service-desk-landing-page.md)
 

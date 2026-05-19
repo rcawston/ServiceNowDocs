@@ -18,5 +18,5 @@ Reference topics provide additional information about configuration properties, 
 -   **[Guided Tour callout color](guided-tour-callout-color.md)**  
 Customize Guided Tours callout colors in Service Portal.
 
-**Parent Topic:**[Guided Tours](../concept/guided-tours.md)
+**Parent Topic:**[Guided Tours](guided-tours.md)
 

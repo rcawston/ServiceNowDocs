@@ -41,12 +41,12 @@ Prior to linking the information objects to a digital interface that is provided
 
 8.  On the Create New Digital Interface Information Object form, fill in the fields.
 
-    For field descriptions, see [Digital interface information object form](../../reference/eaw-reference/eaw-dig-interface-info-object-form.md).
+    For field descriptions, see [Digital interface information object form](eaw-dig-interface-info-object-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

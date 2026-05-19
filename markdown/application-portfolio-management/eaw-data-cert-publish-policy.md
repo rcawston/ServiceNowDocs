@@ -38,7 +38,7 @@ Role required: sn\_cmdb\_admin + sn\_apm.apm\_analyst
     **Note:** Ensure all the mandatory fields are filled in before publishing the policy.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 
 **Related topics**  
 

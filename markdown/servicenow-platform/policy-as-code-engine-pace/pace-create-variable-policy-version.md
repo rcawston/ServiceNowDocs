@@ -86,7 +86,7 @@ Drop-down list of input types:-   Basic Date/Time
 -   String
 -   Sys ID \(GUID\)
 -   True/False
-Depending on the input you choose, the Advanced Options provides different fields for some inputs. For more information, see the [Data type descriptions](../reference/pace-data-type-descriptions.md) topic.
+Depending on the input you choose, the Advanced Options provides different fields for some inputs. For more information, see the [Data type descriptions](pace-data-type-descriptions.md) topic.
 
 **Note:** The list only shows the most common used data types.
 
@@ -138,7 +138,7 @@ A match criteria for your record reference. Choices are as follows.-   Select fi
 -   Error on multiple
 When you create a Record Reference, it will query multiple answers. The match criteria enables you to filter out the match by selecting the first match or return an error if there are multiple answers.
 
-**Note:** This field will only show up in the Record Reference variable form with the qualifier condition fields. For more information about condition fields, see [Policy logic condition fields](../reference/pace-policy-logic-fields.md).
+**Note:** This field will only show up in the Record Reference variable form with the qualifier condition fields. For more information about condition fields, see [Policy logic condition fields](pace-policy-logic-fields.md).
 
 </td></tr></tbody>
 </table>4.  Select **Save**.

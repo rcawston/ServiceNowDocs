@@ -23,7 +23,7 @@ Depending on your configuration, the behavior of traffic-based discovery can var
 
 If discovery based on Predictive Intelligence isn't enabled, Service Mapping automatically adds traffic-based connections using data from the CMDB to the service instances. However, to keep your service instances well-organized, you might need to manually remove connections to irrelevant CIs.
 
-Typically, if the connection suggestions feature is turned off, you use traffic-based discovery at the initial stages of discovering application services. To maintain a clean, organized service map, you can opt to turn off traffic-based discovery after you have completed the discovery and fine-tuning of your application services. For more information, see [Fine-tune application services to implement owner requests](../task/review-implement-business-service-maps.md).
+Typically, if the connection suggestions feature is turned off, you use traffic-based discovery at the initial stages of discovering application services. To maintain a clean, organized service map, you can opt to turn off traffic-based discovery after you have completed the discovery and fine-tuning of your application services. For more information, see [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md).
 
 Connections created only through traffic-based discovery aren’t removed. However, if pattern-based discovery runs after traffic-based discovery has run, it might create duplicate connections between CIs. To avoid duplicates, the system removes any connections that were created by traffic-based discovery if they’re also created by pattern-based discovery.
 
@@ -38,11 +38,11 @@ The system uses commands and network flow logs to collect traffic-related data a
 |Flow Server Communication \[sa\_flow\_server\_comm\]|Netflow and VPC logs|Discover services communicating to other services. In a base system, Service Mapping does not use data from this table.|
 |TCP Connection \[cmdb\_tcp\]|netstat and lsof commands|Discover connections during top-down discovery.|
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. To enhance traffic-based discovery, you can configure Service Mapping to collect data from Netflow and VPC logs. Service Mapping also accesses the TCP connection data collected by improved Application Dependency Mapping \(ADM\), which Discovery performs as part of horizontal discovery. See [Application Dependency Mapping \(ADM\) for Discovery](../../discovery/reference/r_ApplicationDependencyMapping.md#) to learn more about this process.
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. To enhance traffic-based discovery, you can configure Service Mapping to collect data from Netflow and VPC logs. Service Mapping also accesses the TCP connection data collected by improved Application Dependency Mapping \(ADM\), which Discovery performs as part of horizontal discovery. See [Application Dependency Mapping \(ADM\) for Discovery](../discovery/r_ApplicationDependencyMapping.md#) to learn more about this process.
 
 ## Enabling traffic-based discovery in the system
 
-Traffic-based discovery using commands is available in Service Mapping for use at any level. You can enable it at different levels ranging from the most global to the most specific. For more information, see [Enable traffic-based discovery for an application service](../task/enable-traffic-based-discovery-business-service.md).
+Traffic-based discovery using commands is available in Service Mapping for use at any level. You can enable it at different levels ranging from the most global to the most specific. For more information, see [Enable traffic-based discovery for an application service](enable-traffic-based-discovery-business-service.md).
 
 -   **Product level**
 
@@ -70,7 +70,7 @@ Traffic-based discovery using commands is available in Service Mapping for use a
 
     For example, you enable traffic-based discovery for a specific service instance that includes a Tomcat server, a MySQL database, and a web application. You create a CI type rule that excludes all Tomcat servers from traffic-based discovery. However, you also create a discovery rule enabling traffic-based discovery for a specific Tomcat server. Service Mapping uses traffic-based discovery to discover the MySQL database, the web application, and that specific Tomcat despite the CI type rule excluding all Tomcat servers.
 
-    See [Enable traffic-based discovery for CI types or specific CIs](../task/t_CreateATrafficBasedDiscoveryRule.md) to learn more about creating rules for CI types or specific CIs.
+    See [Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md) to learn more about creating rules for CI types or specific CIs.
 
 
 **Related topics**  
@@ -78,11 +78,11 @@ Traffic-based discovery using commands is available in Service Mapping for use a
 
 [Pattern-based discovery in Service Mapping](pattern-based-discovery.md)
 
-[Add or remove CIs for multiple application services using connection suggestions](../task/manipulate-connections-suggestions-in-bulk.md)
+[Add or remove CIs for multiple application services using connection suggestions](manipulate-connections-suggestions-in-bulk.md)
 
-[Add or remove CIs for single application services using connection suggestions](../task/add-remove-ci-connections-services.md)
+[Add or remove CIs for single application services using connection suggestions](add-remove-ci-connections-services.md)
 
-[Remove CIs not belonging to application services](../task/remove-cis-not-belonging-business-services.md)
+[Remove CIs not belonging to application services](remove-cis-not-belonging-business-services.md)
 
 [Data collection and discovery using Netflow](data-collection-netflow-mapping.md)
 

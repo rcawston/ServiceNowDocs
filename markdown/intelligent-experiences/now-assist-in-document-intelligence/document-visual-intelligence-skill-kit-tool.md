@@ -24,7 +24,7 @@ You can use the tool editor to configure the Document Intelligence tool.
 
 ![Document Intelligence tool option in the tool editor.](../image/document-intelligence-nask.png "Document Intelligence tool in the Tool Editor")
 
-For more information on adding the Document Intelligence tool to a custom skill in Now Assist Skill Kit, see [Add a tool](../../now-assist-skill-kit/concept/add-a-tool.md).
+For more information on adding the Document Intelligence tool to a custom skill in Now Assist Skill Kit, see [Add a tool](../now-assist-skill-kit/add-a-tool.md).
 
 ## Document Intelligence tool actions
 
@@ -45,7 +45,7 @@ The Document Intelligence tool provides the following capabilities for a custom 
     Generate a concise summary the key topics of the file content.
 
 
-For more information on creating custom Now Assist prompts and skills, see [Now Assist Skill Kit](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md).
+For more information on creating custom Now Assist prompts and skills, see [Now Assist Skill Kit](../now-assist-skill-kit/now-assist-skill-kit-landing.md).
 
 **Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
 

@@ -54,5 +54,5 @@ Role required: impersonator
     **Note:** In some cases, impersonating a user might cause an issue that makes it difficult to switch back. If you’re presented with a broken page while impersonating a user in a test environment, you may need to force a logout. To do so, navigate to http://&lt;instance name&gt;.service-now.com/logout.do and log back in.
 
 
-**Parent Topic:**[Impersonating users](../concept/c_ImpersonateAUser.md)
+**Parent Topic:**[Impersonating users](c_ImpersonateAUser.md)
 

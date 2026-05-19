@@ -23,7 +23,7 @@ Role required: sn\_cim.improvement\_manager, sn\_cim.improvement\_coordinator
 
 1.  Navigate to **Continual Improvement** &gt; **Workbench**.
 
-    For more information, see [Continual Improvement Workbench](../concept/continual-improvement-workbench.md).
+    For more information, see [Continual Improvement Workbench](continual-improvement-workbench.md).
 
 2.  In the Overview tab, review improvements in progress and select a tile to view more details.
 

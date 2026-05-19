@@ -17,35 +17,35 @@ Configure the display of the metrics for Microsoft Endpoint Configuration Manage
 
 You must ensure the following requirements:
 
--   Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application must be installed along with the investigation framework applications. For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](../task/install-mecm-adapter.md) and [Components installed with Microsoft Endpoint Configuration Manager for Investigation](../reference/components-installed-mecm-adapter.md).
+-   Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application must be installed along with the investigation framework applications. For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](install-mecm-adapter.md) and [Components installed with Microsoft Endpoint Configuration Manager for Investigation](components-installed-mecm-adapter.md).
 -   Microsoft Endpoint Configuration Manager Spoke \[sn\_ms\_epcfgmgr\_spk\] must be installed and configured. For more information, see [Microsoft Endpoint Configuration Manager spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/ms-endpoint.md) and [Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md).
 -   Microsoft Endpoint Configuration Manager server must be logged in using the Microsoft remote desktop.
 
 **Note:** You can configure the delay time in milliseconds between two consecutive Microsoft Endpoint Configuration Manager queries that are submitted to the Microsoft Endpoint Configuration Manager server to fetch and display the metrics, using the property **Specify the delay in milliseconds between two MECM query submissions.** \(**sn\_mecm\_adapter.request\_query\_delay**\). The default value is 10000.
 
--   **[Configure system overview - msinfo32 metrics](../task/config-system-msinfo32-metrics.md)**  
+-   **[Configure system overview - msinfo32 metrics](config-system-msinfo32-metrics.md)**  
 Configure the system overview - msinfo32 metrics for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
--   **[Configure system overview - dsregcmd metrics](../task/config-system-dsregcmd-metrics.md)**  
+-   **[Configure system overview - dsregcmd metrics](config-system-dsregcmd-metrics.md)**  
 Configure the system overview - dsregcmd metrics for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
--   **[Configure asset utilization metrics](../task/configure-asset-utilization-mecm.md)**  
+-   **[Configure asset utilization metrics](configure-asset-utilization-mecm.md)**  
 Configure the display of the asset utilization metrics for Microsoft Endpoint Configuration Manager for Investigation.
--   **[Configure processes metrics](../task/configure-processes-metrics-mecm.md)**  
+-   **[Configure processes metrics](configure-processes-metrics-mecm.md)**  
 Configure the top processes by CPU and top processes by memory metrics for Microsoft Endpoint Configuration Manager for Investigation.
--   **[Configure services metrics](../task/configure-services-metrics.md)**  
+-   **[Configure services metrics](configure-services-metrics.md)**  
 Configure the services metrics for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
--   **[Configure logged in users metrics](../task/config-logged-in-users-metrics.md)**  
+-   **[Configure logged in users metrics](config-logged-in-users-metrics.md)**  
 Configure the display of the logged in users metrics for Microsoft Endpoint Configuration Manager for Investigation.
--   **[Configure Installed application metrics](../task/config-install-app-metrics.md)**  
+-   **[Configure Installed application metrics](config-install-app-metrics.md)**  
 Configure the display of the installed application metrics for Microsoft Endpoint Configuration Manager for Investigation.
--   **[Configure remedial action - Restart Service](../task/config-ra-restart-service.md)**  
+-   **[Configure remedial action - Restart Service](config-ra-restart-service.md)**  
 Configure the Restart Service remedial action for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
--   **[Configure remedial actions - End Process](../task/config-ra-end-process.md)**  
+-   **[Configure remedial actions - End Process](config-ra-end-process.md)**  
 Configure the End Process remedial action for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
--   **[Create a script in Microsoft Endpoint Configuration Manager](../task/create-mecm-script.md)**  
+-   **[Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md)**  
 Create a script in the Microsoft Endpoint Configuration Manager to configure the display of the processes metrics on the **Investigation** tab of the Incident record.
--   **[Extend hardware inventory](../task/extend-hardware-entity.md)**  
+-   **[Extend hardware inventory](extend-hardware-entity.md)**  
 Extend the hardware inventory to add the CMPivot entity on the CMPivot entity list in the Microsoft Endpoint Configuration Manager.
--   **[Verify a CMPivot entity](../task/verify-cmpivot-entity.md)**  
+-   **[Verify a CMPivot entity](verify-cmpivot-entity.md)**  
 Verify a CMPivot entity and its attributes to configure the display of the CI metrics information on the Investigation tab of the Incident record.
 
 **Parent Topic:**[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](set-up-investigate-fw-mecm.md)

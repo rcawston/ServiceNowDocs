@@ -19,7 +19,7 @@ Enhance your upgrade experience with configurable release notes that fit your un
 
 </td><td>
 
--   **[Release notes summaries](../release-notes-summaries.md)**
+-   **[Release notes summaries](release-notes-summaries.md)**
 
 Get a glimpse of release notes based on what products you have and what information you need. Release notes summaries enable you to select the information category you're looking for and specify which products you have. Then, your release notes are compiled into a single, easy-to-read summary. Browse product highlights, new and changed features, important upgrade information, and more for N-1 to N upgrades.
 
@@ -58,7 +58,7 @@ If your upgrade involves skipping one or more family releases, combined product 
 
 </td><td>
 
--   **[Upgrade and migration tasks](../upgrades/reference/upgrade-and-migration-tasks.md)**
+-   **[Upgrade and migration tasks](upgrade-and-migration-tasks.md)**
 
 Once you're equipped with the product and PRB information you need, compile a list of upgrade and migration tasks required to complete your journey. View the necessary pre- and post-upgrade and migration tasks for your products and build a to-do list to help guide your upgrade process.
 

@@ -21,5 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Intake forms|Activates required intake forms for submitting supplier, procurement, and invoice‑related requests and capturing request details.|
 |Supplier collaboration|Configures supporting settings that enable collaboration between internal users and suppliers.|
 
-**Parent Topic:**[Install Source-to-Pay](../task/install-source-to-pay.md)
+**Parent Topic:**[Install Source-to-Pay](install-source-to-pay.md)
 

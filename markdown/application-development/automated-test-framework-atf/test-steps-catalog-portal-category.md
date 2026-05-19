@@ -21,7 +21,7 @@ These ATF test steps require activation of the Automated Test Framework Service 
 
 ## Support for parametrized tests
 
-Service Catalog in Service Portal step configurations support parametrized tests. For more information on parametrized tests, refer to [Parameterized tests](../concept/parameterized-tests.md).
+Service Catalog in Service Portal step configurations support parametrized tests. For more information on parametrized tests, refer to [Parameterized tests](parameterized-tests.md).
 
 ## Open a Record Producer \(SP\)
 

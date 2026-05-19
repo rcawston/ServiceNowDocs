@@ -60,5 +60,5 @@ Role required: evt\_mgmt\_operator
 7.  Continue to [triage the alert](operator-phase-triage-incident.md).
 
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](operator-advanced-tasks.md)
 

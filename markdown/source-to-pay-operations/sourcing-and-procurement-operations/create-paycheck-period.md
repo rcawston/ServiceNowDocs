@@ -36,5 +36,5 @@ You can create a paycheck period for an employee shopper from Shopping Hub.
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

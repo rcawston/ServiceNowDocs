@@ -133,5 +133,5 @@ Role required: sn\_sec\_tisc.admin
     Always verify the sample data after changes to ensure correct parsing before running the integration.
 
 
-**Parent Topic:**[Threat Intelligence Feeds](../concept/threat-intelligence-feeds.md)
+**Parent Topic:**[Threat Intelligence Feeds](threat-intelligence-feeds.md)
 

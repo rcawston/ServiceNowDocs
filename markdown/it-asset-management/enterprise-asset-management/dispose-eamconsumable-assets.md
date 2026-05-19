@@ -38,5 +38,5 @@ Know that the Planned for disposal column in the Consumable \[alm\_consumable\] 
     **Note:** Only a consumable marked for disposal is included in a disposal order. After you mark a consumable for disposal, it does not get merged with another consumable record.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

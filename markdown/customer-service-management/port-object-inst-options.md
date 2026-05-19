@@ -121,7 +121,7 @@ Enable Service Definitions
 
 </td><td>
 
-Option to display the service definitions associated with the record under **Actions**. For details, see [Service definitions](../concept/csm-service-definitions.md).
+Option to display the service definitions associated with the record under **Actions**. For details, see [Service definitions](csm-service-definitions.md).
 
 </td></tr><tr><td>
 
@@ -135,5 +135,5 @@ When enabled, users with edit permissions see **Edit details** button as one of 
 </table>**Related topics**  
 
 
-[Add and configure the Portal Object widget](../task/add-conf-port-object-widget.md)
+[Add and configure the Portal Object widget](customer-self-service-and-omnichannel-engagement/add-conf-port-object-widget.md)
 

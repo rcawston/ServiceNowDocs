@@ -50,5 +50,5 @@ Linking an application to source control generates a properties text file called
 7.  Save the properties file.
 
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](source-control-in-servicenow-studio.md)
 

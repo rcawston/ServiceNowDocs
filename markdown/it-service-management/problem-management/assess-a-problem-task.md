@@ -71,5 +71,5 @@ Select **Cancel**. ![cancel state](../image/pm-task-cancel.png)The problem task 
 
 Complete the problem task as resolved.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

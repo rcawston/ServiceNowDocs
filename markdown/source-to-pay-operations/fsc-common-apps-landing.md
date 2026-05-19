@@ -13,10 +13,10 @@ breadcrumb: [Finance and Supply Chain]
 
 Provides information about the Finance and Supply Chain \(FSC\) applications.
 
--   **[Common applications in FSC](../../source-to-pay-operations/concept/fsc-common-apps.md)**  
+-   **[Common applications in FSC](common-service-delivery/fsc-common-apps.md)**  
 Finance and Supply Chain \(FSC\) enhances operational efficiency by utilizing shared applications across multiple products and workflows.
--   **[Finance Case Management](../../finance-case-management/concept/fin-case-mgmt-landing-page.md)**  
+-   **[Finance Case Management](finance-case-management/fin-case-mgmt-landing-page.md)**  
 The ServiceNow® Finance Case Management application enables your employees and finance teams to raise, track, and resolve finance-related requests.
 
-**Parent Topic:**[Finance and Supply Chain](../../source-to-pay-operations/concept/finance-supply-chain-landing.md)
+**Parent Topic:**[Finance and Supply Chain](finance-supply-chain-landing.md)
 

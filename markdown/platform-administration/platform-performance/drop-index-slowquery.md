@@ -45,5 +45,5 @@ During the index evaluation period, the Index Suggestion Engine \(ISE\) might ge
 5.  Verify that the index was dropped by reviewing the index state in the Index Suggestion record or in the Index Suggestion table \(**System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; Done**\).
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

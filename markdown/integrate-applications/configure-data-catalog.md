@@ -13,10 +13,10 @@ breadcrumb: [Data Catalog, Workflow Data Fabric]
 
 You can plan and configure a Data Catalog implementation in your organization.
 
--   **[Install Data Catalog store applications](../../../administer/workflow-data-fabric/task/install-data-catalog-store-applications.md)**  
+-   **[Install Data Catalog store applications](install-data-catalog-store-applications.md)**  
 You can install the Data Catalog application \(sn\_dcg\_ui\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Assign roles to Data Catalog users](../../../administer/workflow-data-fabric/task/assign-roles-to-data-catalog-users.md)**  
+-   **[Assign roles to Data Catalog users](assign-roles-to-data-catalog-users.md)**  
 Assign roles to control access to features, capabilities, and data in Data Catalog.
 
-**Parent Topic:**[Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md)
+**Parent Topic:**[Data Catalog](data-catalog.md)
 

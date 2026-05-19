@@ -15,7 +15,7 @@ Use a mobile dashboard to display data visualizations in graphical format. Addin
 
 A mobile dashboard is a launcher screen that enables you to see preconfigured data visualizations and analytical views via trend lines and score visualizations. Tap the analytics sections in your launcher screen to open data visualizations and analytical information displaying the status of instance data. For example, you can review the number of incidents opened per week or the average resolution time of projects. Depending on the configuration of your administrator, you can view a list of records that relate to a tapped section.
 
-For more information about accessibility features supported in the analytics previews, see [Change mobile analytics views for accessibility](../task/accessibility-chart-view.md).
+For more information about accessibility features supported in the analytics previews, see [Change mobile analytics views for accessibility](accessibility-chart-view.md).
 
 ![Three screen shots showing a flow from launcher screen to chart screen to parameterized list.](../image/donut-flow.png)
 

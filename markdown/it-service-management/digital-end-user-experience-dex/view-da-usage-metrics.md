@@ -33,6 +33,6 @@ Role required: admin
 
     ![Desktop Assistant usage metrics page](../image/desktop-exp-dashboard.png)
 
-    For more details on the usage metrics, see [Desktop Assistant usage metrics](../reference/dex-desktop-exp-dashboard.md).
+    For more details on the usage metrics, see [Desktop Assistant usage metrics](dex-desktop-exp-dashboard.md).
 
 

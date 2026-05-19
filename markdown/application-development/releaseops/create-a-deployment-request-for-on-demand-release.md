@@ -53,5 +53,5 @@ Role required: developer or release\_admin
     When you have selected **Ready to assess**, ReleaseOps automatically begins assessing your deployment request. You can see how the assessment is running and any issues that the assessment encountered in the **Activity** section of the deployment request form. Once your deployment request has passed the assessment checks, your deployment request will be moved into the pipeline that your organization has configured.
 
 
-**Parent Topic:**[Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md)
+**Parent Topic:**[Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md)
 

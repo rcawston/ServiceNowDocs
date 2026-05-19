@@ -109,5 +109,5 @@ Do this
     A notification is sent to the agent to approve your request.
 
 
-**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
+**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](configurable-agent-schedule-mobile-wfo-itsm.md)
 

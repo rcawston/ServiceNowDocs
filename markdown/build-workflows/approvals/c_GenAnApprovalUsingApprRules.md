@@ -24,5 +24,5 @@ When an approver is automatically added based on approval rules, the status of t
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

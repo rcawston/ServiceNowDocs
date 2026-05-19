@@ -41,5 +41,5 @@ The CrowdStrike feed enables users to ingest indicators, actors, reports, and th
 -   **[Configure custom MISP API feed](tisc-premium-misp.md)**  
 The Malware Information Sharing Platform \(MISP\) API feed enables you to import events from the MISP server, along with their associated attributes and objects, into the TISC library.
 
-**Parent Topic:**[View Threat Intel Feeds](../concept/base-system-threat-intel-feeds.md)
+**Parent Topic:**[View Threat Intel Feeds](base-system-threat-intel-feeds.md)
 

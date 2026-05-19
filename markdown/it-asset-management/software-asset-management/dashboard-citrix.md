@@ -17,7 +17,7 @@ View compliance analysis results for Citrix on the Software Publisher Analytics 
 
 Access the Software Publisher Analytics dashboard by navigating to **All** &gt; **Software Asset** &gt; **Publisher Overview**.
 
-**Note:** The add-on Citrix publisher pack \(com.sn\_samp\_citrix\) [plugin](../task/t_RequSoftwareAssetMgmt.md) must be installed to view the Citrix dashboard tab.
+**Note:** The add-on Citrix publisher pack \(com.sn\_samp\_citrix\) [plugin](t_RequSoftwareAssetMgmt.md) must be installed to view the Citrix dashboard tab.
 
 A discovery process is required for Citrix data to be collected. For ServiceNow Discovery, a user with the admin role must create a [Discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to run on the Citrix Delivery Controller for communication with the Citrix License Server.
 
@@ -59,7 +59,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](../concept/sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -124,5 +124,5 @@ License consumption trends for your Citrix software products. Each data point re
  Select a data point to view additional license consumption data for a specific Citrix software product.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Citrix](../concept/citrix-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Citrix](citrix-publisher-pack.md)
 

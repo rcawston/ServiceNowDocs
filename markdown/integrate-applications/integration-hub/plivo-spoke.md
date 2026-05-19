@@ -60,7 +60,7 @@ While customizing subflows, you must ensure that the subflows are configured to 
 
 **Note:**
 
--   You must configure webhooks to use the spoke subflow. See [Set up a bi-directional webhook for the Plivo spoke](../task/setup-plivo-webhook.md#) for information regarding setting up and configuring the webhook.
+-   You must configure webhooks to use the spoke subflow. See [Set up a bi-directional webhook for the Plivo spoke](setup-plivo-webhook.md#) for information regarding setting up and configuring the webhook.
 -   The sample subflow runs as a user by default. The subflow can be configured to run as system.
 
 ## Spoke actions
@@ -115,7 +115,7 @@ Routing policies and subflows support these Plivo fields:
 -   To Number
 -   Show Related Fields
 
-Create routing policy in the Plivo WebHook Routing Policies module and specify conditions as per your requirement. See [Set up a bi-directional webhook for the Plivo spoke](../task/setup-plivo-webhook.md#) for information regarding setting up and configuring the webhooks.
+Create routing policy in the Plivo WebHook Routing Policies module and specify conditions as per your requirement. See [Set up a bi-directional webhook for the Plivo spoke](setup-plivo-webhook.md#) for information regarding setting up and configuring the webhooks.
 
 ## Spoke user roles
 
@@ -125,5 +125,5 @@ The Plivo spoke provides a Plivo Admin \(sn\_plivo\_spoke.Plivo\_Admin\) role.
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Plivo spoke](../task/plivo-setup.md#).
+For information about setting up the spoke, see [Set up the Plivo spoke](plivo-setup.md#).
 

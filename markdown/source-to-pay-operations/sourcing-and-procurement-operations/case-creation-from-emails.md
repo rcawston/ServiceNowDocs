@@ -30,7 +30,7 @@ If you use the automatic case creation functionality in both Supplier Lifecycle 
 
 For example:
 
--   In SLO, set the email address to supplierhelp@acme.com for creating supplier cases. For more information, see [Enable automatic creation of supplier cases from incoming emails](../../supplier-lifecycle-operations/task/config-email-properties.md).
+-   In SLO, set the email address to supplierhelp@acme.com for creating supplier cases. For more information, see [Enable automatic creation of supplier cases from incoming emails](../supplier-lifecycle-operations/config-email-properties.md).
 -   In Sourcing and Procurement Operations, set the email address to procurementhelp@acme.com for creating procurement cases.
 
 This approach enables seamless case creation and accurate email-to-user mapping.

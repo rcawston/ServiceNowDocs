@@ -17,7 +17,7 @@ Upload or drag files into Now Assist in Virtual Agent to extract relevant data f
 
 ## Before you begin
 
-Now Assist in Virtual Agent standard and enhanced chat support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](../concept/nava-standard-chat.md) and [Enhanced chat](../concept/nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](configure-now-assist-va.md).
+Now Assist in Virtual Agent standard and enhanced chat support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](nava-standard-chat.md) and [Enhanced chat](nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](configure-now-assist-va.md).
 
 Uploaded file formats include text and image files such as PDF, Word \(.doc, .docx\), JPEG, and PNG. The maximum size of a file is 5 megabytes \(MB\).
 

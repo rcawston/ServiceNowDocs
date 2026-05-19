@@ -16,9 +16,9 @@ breadcrumb: [Now Assist for App Engine, Vibe coding and AI app development on th
 
 Enhance custom applications with generative and agentic AI capabilities.
 
-With Now Assist for App Engine, you can enhance your custom applications with several AI capabilities: skills, AI agents, and agentic workflows. You can implement any number and combination of AI capabilities within your custom apps, depending on your app's workflow. To learn more about the types of AI capabilities that you can implement with Now Assist for App Engine, see [AI capabilities for enhancing custom applications](../../now-assist-app-engine/concept/ai-capabilities-with-now-assist-for-app-engine.md).
+With Now Assist for App Engine, you can enhance your custom applications with several AI capabilities: skills, AI agents, and agentic workflows. You can implement any number and combination of AI capabilities within your custom apps, depending on your app's workflow. To learn more about the types of AI capabilities that you can implement with Now Assist for App Engine, see [AI capabilities for enhancing custom applications](ai-capabilities-with-now-assist-for-app-engine.md).
 
-Certain app workflows might be well suited for AI agents and agentic workflows. Other workflows might be best handled with skills. To learn about which AI capability might be best for your use case, see [Choosing the right AI capability](../../now-assist-app-engine/concept/choosing-the-right-ai-capability.md).
+Certain app workflows might be well suited for AI agents and agentic workflows. Other workflows might be best handled with skills. To learn about which AI capability might be best for your use case, see [Choosing the right AI capability](choosing-the-right-ai-capability.md).
 
 ## Implementing skills
 
@@ -46,9 +46,9 @@ The following list outlines the process for implementing an AI agent and agentic
 6.  [Evaluate the agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md) to monitor performance and evaluate it against different benchmarks.
 7.  Use the AI agent or agentic workflow in your custom application.
 
--   **[Summarize a record in-product using Now Assist for App Engine](../../now-assist-app-engine/task/summarize-record-in-product-na-for-app-engine.md)**  
+-   **[Summarize a record in-product using Now Assist for App Engine](summarize-record-in-product-na-for-app-engine.md)**  
 Quickly understand the contents of a record in a custom application within Core UI or a custom workspace.
--   **[Summarize a record through chat using Now Assist for App Engine](../../now-assist-app-engine/task/summarize-record-through-chat-na-for-app-engine.md)**  
+-   **[Summarize a record through chat using Now Assist for App Engine](summarize-record-through-chat-na-for-app-engine.md)**  
 Quickly understand the contents of a record through a conversation with Now Assist.
 
 **Parent Topic:**[Now Assist for App Engine](add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md)

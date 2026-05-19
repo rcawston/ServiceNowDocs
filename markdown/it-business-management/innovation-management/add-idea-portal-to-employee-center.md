@@ -35,7 +35,7 @@ On the Employee Center portal, add the following links to Idea Portal so that em
 
 [Managing Idea Portal](idea-portal.md)
 
-[Analyzing idea metrics using Idea Manager dashboard](../../../use/dashboards/application-content-packs/idea-manager-dashboard.md)
+[Analyzing idea metrics using Idea Manager dashboard](idea-manager-dashboard.md)
 
 [Integrating Innovation Management with Universal Request](universal-req-idea-mgmt.md)
 

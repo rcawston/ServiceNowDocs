@@ -88,7 +88,7 @@ When there is a change in the manager of your project, an update is made to the 
     Whenever a key milestone is closed, you are notified about the closure and the user who closed it, with a direct URL to the milestone task.
 
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 

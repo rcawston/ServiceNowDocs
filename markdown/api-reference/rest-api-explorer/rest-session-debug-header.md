@@ -63,5 +63,5 @@ X-UserToken: <user token>
 **Related topics**  
 
 
-[Debugging sessions](../../../script/debugging/concept/c_SessionDebug.md#)
+[Debugging sessions](../scripts/c_SessionDebug.md#)
 

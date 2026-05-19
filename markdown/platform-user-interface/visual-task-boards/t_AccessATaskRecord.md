@@ -34,5 +34,5 @@ Access a task record using one of the following options.
     2.  Click the record number in the header.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

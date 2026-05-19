@@ -76,5 +76,5 @@ Steps
 
 [Work with extracted metadata](cncore-review-metatdata.md)
 
-**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](../concept/cncore-metadata-extract-land.md)
+**Parent Topic:**[Contract metadata extraction using Now Assist in Contract Management](cncore-metadata-extract-land.md)
 

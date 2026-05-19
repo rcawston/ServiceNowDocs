@@ -32,9 +32,9 @@ Role required: admin
 3.  Select **Update**.
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
-**Previous topic:**[Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md)
+**Previous topic:**[Workplace planned maintenance scheduled job](sch-job-planned-nightly.md)
 
 **Next topic:**[Create plan service configuration](create-maint-service-config.md)
 

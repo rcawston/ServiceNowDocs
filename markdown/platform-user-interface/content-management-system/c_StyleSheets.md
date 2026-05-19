@@ -26,5 +26,5 @@ Content pages do not reference style sheets directly. To invoke a style sheet, y
 **Related topics**  
 
 
-[Customize a design theme](../task/t_CreateADesignTheme.md)
+[Customize a design theme](t_CreateADesignTheme.md)
 

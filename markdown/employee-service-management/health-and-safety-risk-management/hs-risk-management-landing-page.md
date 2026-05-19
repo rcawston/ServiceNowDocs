@@ -27,11 +27,11 @@ The ServiceNow® Health and Safety Risk Management application provides capabili
 
 </td><td>
 
-[Submit Job Safety Analysis \(JSA\)![](../../../reuse/icons/brand-icons/bus-task-list.svg)Submit JSAs for high-risk jobs and tasks at your point of work.](../task/hs-submit-jsa-emp-center.md)
+[Submit Job Safety Analysis \(JSA\)![](../../../reuse/icons/brand-icons/bus-task-list.svg)Submit JSAs for high-risk jobs and tasks at your point of work.](hs-submit-jsa-emp-center.md)
 
 </td></tr><tr><td>
 
-[Conduct risk assessment![](../../../reuse/icons/brand-icons/bus-risk-management.svg)Conduct safety risk assessments using custom risk matrixes.](../task/hs-conduct-risk-assessment.md)
+[Conduct risk assessment![](../../../reuse/icons/brand-icons/bus-risk-management.svg)Conduct safety risk assessments using custom risk matrixes.](hs-conduct-risk-assessment.md)
 
 </td><td>
 

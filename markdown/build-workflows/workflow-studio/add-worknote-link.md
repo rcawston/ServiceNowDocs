@@ -60,5 +60,5 @@ The execution details show that the trigger incident record INC008112 was update
 
 The incident record work notes field contains a text message and a link to the flow execution details for the flow.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

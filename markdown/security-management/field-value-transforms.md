@@ -15,7 +15,7 @@ Transforms unique customer field values into field values recognized by Security
 
 You can map data for fields such as Category, State, or Assignment Group into the values used within the Security Operations table. For example, map "In Analysis" to "Work in progress.
 
--   **[Create Security Operations field value transforms](../task/create-field-value-transforms.md)**  
+-   **[Create Security Operations field value transforms](create-field-value-transforms.md)**  
 **Field Value Transforms** defines one transformation between provided source data, and the replacement value to use.
 
 **Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)

@@ -19,7 +19,7 @@ Configure the Total Rewards templates by choosing plans, sections, and target au
 
 Role required: sn\_hr\_workday\_adv.admin
 
-Configure the required reports for the Total Rewards functionality. See [Configure reports HR Service Delivery Advanced Integration with Workday](../concept/awd-config-re.md#).
+Configure the required reports for the Total Rewards functionality. See [Configure reports HR Service Delivery Advanced Integration with Workday](awd-config-re.md#).
 
 ## Procedure
 

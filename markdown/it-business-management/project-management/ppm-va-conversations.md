@@ -41,9 +41,9 @@ The following predefined topic conversations are available to view if you have t
 **Related topics**  
 
 
-[Install Virtual Agent for PPM](../task/activate-ppm-va.md)
+[Install Virtual Agent for PPM](activate-ppm-va.md)
 
-[Enable Virtual Agent for PPM](../task/setup-ppm-va.md)
+[Enable Virtual Agent for PPM](setup-ppm-va.md)
 
 [Reusable PPM Virtual Agent topic blocks](ppm-va-topic-blocks.md)
 

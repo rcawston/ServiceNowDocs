@@ -223,6 +223,6 @@ Toggle to turn this component on/off in the ribbon for this table.
 
 You can display the form ribbon at the top of the form or in the Contextual side panel. For more information, see the following topics:
 
--   [CSM Configurable Workspace form ribbon and components](../reference/csm-agent-workspace-ribbon.md)
+-   [CSM Configurable Workspace form ribbon and components](csm-agent-workspace-ribbon.md)
 -   [Display the form ribbon and form header secondary values in the Contextual side panel](config-csm-display-header-in-sidebar.md)
 

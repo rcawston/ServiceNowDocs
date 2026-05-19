@@ -30,7 +30,7 @@ To use the advanced planning feature, you must activate the following store appl
 
 You can choose to create audit plans for the engagement.
 
-**Note:** To know more about the applications in GRC module, see [Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md).
+**Note:** To know more about the applications in GRC module, see [Governance, Risk, and Compliance](../r_WhatIsGRC.md).
 
 Role required: sn\_audit.manager
 
@@ -86,7 +86,7 @@ Type of engagement. The choices are as follows:-   None
 -   Store Audit
 -   Quality Audit
 -   Project Audit
- **Note:** For more information on the types of audits, see [Audit types](../reference/types-of-audit.md).
+ **Note:** For more information on the types of audits, see [Audit types](types-of-audit.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ State of the engagement. The choices are as follows:-   Scope
 -   Follow Up
 -   Closed Complete
 -   Closed Incomplete
- **Note:** For more information on each of these states, see [Manage engagements](../concept/c_Engagements.md).
+ **Note:** For more information on each of these states, see [Manage engagements](c_Engagements.md).
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Engagement ends
 
 Choice to automatically determine the end date of the engagement. The choices are as follows:-   Follow Up
 -   Closed
- **Note:** For more information on the Follow Up and Closed states, see [Manage engagements](../concept/c_Engagements.md).
+ **Note:** For more information on the Follow Up and Closed states, see [Manage engagements](c_Engagements.md).
 
 </td></tr><tr><td>
 
@@ -349,7 +349,7 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](confidentiality-flag-audit-pc.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

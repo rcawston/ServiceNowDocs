@@ -25,7 +25,7 @@ Role required: connection\_admin
 
 ## About this task
 
-JDBC credentials are retrieved separately by the activity designer template and support [external credential storage](../concept/c_ExternalCredentialStorage.md), such as CyberArk.
+JDBC credentials are retrieved separately by the activity designer template and support [external credential storage](c_ExternalCredentialStorage.md), such as CyberArk.
 
 ## Procedure
 
@@ -333,10 +333,10 @@ The specific MID Cluster you want to use. This field is available when **Use MID
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Get started with connections](../reference/connection-information.md)
+**Parent Topic:**[Get started with connections](connection-information.md)
 
 **Related topics**  
 
 
-[JDBC credentials](../reference/r_JDBCCredentialsForm.md)
+[JDBC credentials](r_JDBCCredentialsForm.md)
 

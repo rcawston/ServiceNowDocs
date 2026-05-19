@@ -28,9 +28,9 @@ Learn which types of encryption are supported for training Predictive Intelligen
 **Related topics**  
 
 
-[Domain separation and Predictive Intelligence](../concept/domain-separation-predictive-intelligence.md)
+[Domain separation and Predictive Intelligence](domain-separation-predictive-intelligence.md)
 
-[Predictive Intelligence language support](../concept/predictive-intelligence-localization.md)
+[Predictive Intelligence language support](predictive-intelligence-localization.md)
 
 [Predictive Intelligence properties](predictive-intelligence-properties.md)
 

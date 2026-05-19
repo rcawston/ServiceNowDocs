@@ -44,11 +44,11 @@ Class
 </td><td>
 
 Select the probe for the operating system of the device it will query.-   AWS Probe: Select this class to query your resources inside an AWS cloud.
--   [**CIM Probe**](../reference/r_CIMProbe.md#): Select this probe type to query a CIM server using WBEM protocols.
--   [**Multiprobe**](../reference/r_MultiprobesIncludedWithDiscovery.md#): Select this probe type to run one or more simple probes of any type or mix probes of different types. This type of probe can make several queries simultaneously that return all the results at the same time. You cannot add multiprobes to other multiprobes.
+-   [**CIM Probe**](r_CIMProbe.md#): Select this probe type to query a CIM server using WBEM protocols.
+-   [**Multiprobe**](r_MultiprobesIncludedWithDiscovery.md#): Select this probe type to run one or more simple probes of any type or mix probes of different types. This type of probe can make several queries simultaneously that return all the results at the same time. You cannot add multiprobes to other multiprobes.
 -   **Probe**: Select this generic type to define a probe class. Specify the name of the probe class in the ECC queue topic field.
--   [**SNMP Probe**](../concept/c_SNMPProbe.md): Select this probe type for network devices, such as routers.
--   [**WMI Probe**](../reference/r_WMIRunnerProbe.md): Select this probe type for Windows devices.
+-   [**SNMP Probe**](c_SNMPProbe.md): Select this probe type for network devices, such as routers.
+-   [**WMI Probe**](r_WMIRunnerProbe.md): Select this probe type for Windows devices.
 
 
 </td></tr><tr><td>
@@ -129,12 +129,12 @@ Define an optional post-processing script that runs on the MID Server. The scrip
 
 8.  Click **OK**.
 
-9.  [Check the ECC Queue](../reference/r_DiscoveryStatusECCQueue.md) for the MID Server to see the results.
+9.  [Check the ECC Queue](r_DiscoveryStatusECCQueue.md) for the MID Server to see the results.
 
 
 ## What to do next
 
 Add the probe to the **Triggers Probe** related list on the appropriate classifier. See [Create a Discovery CI classification](create-discovery-ci-classification.md) for a description of the fields and related lists on the classifier form.
 
-**Parent Topic:**[Discovery probe management](../reference/r_Probes.md)
+**Parent Topic:**[Discovery probe management](r_Probes.md)
 

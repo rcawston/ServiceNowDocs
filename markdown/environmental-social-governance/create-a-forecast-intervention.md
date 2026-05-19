@@ -93,5 +93,5 @@ Choose an adjustment type absolute \(123\) or percentage \(%\) and enter the cor
 
 After creating and publishing multiple analyses and forecasts, you can compare the analyses and view a graph that captures the data for each analysis you select. For more information on viewing a Comparison graph see, [Create a forecast comparison graph](create-forecast-comparison.md). For more information on creating analyses, see [Create an analysis](create-a-scenario-analysis.md).
 
-**Parent Topic:**[Set up analysis contexts and analyses](../concept/set-up-scenarios.md)
+**Parent Topic:**[Set up analysis contexts and analyses](set-up-scenarios.md)
 

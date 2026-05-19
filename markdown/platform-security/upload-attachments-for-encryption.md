@@ -17,7 +17,7 @@ Protect sensitive files by encrypting record attachments using Field Encryption 
 
 Role required: Any role that aligns with the module access policy \(MAP\) created by the admin.
 
-**Note:** Additional setup is required when an email is matched to a record and the matched record's table has an encryption configuration. In this case, the attachments from the email are associated with that record. You need a module access policy \(MAP\) for the system user. If the sender is matched to a user in your instance, you also need a separate MAP that grants that user access to use the cryptographic module. This MAP is also required to permit impersonation. See [Module access policies for encrypting associated attachments](../concept/fe-maps-inbound-email-attachment-encryption.md).
+**Note:** Additional setup is required when an email is matched to a record and the matched record's table has an encryption configuration. In this case, the attachments from the email are associated with that record. You need a module access policy \(MAP\) for the system user. If the sender is matched to a user in your instance, you also need a separate MAP that grants that user access to use the cryptographic module. This MAP is also required to permit impersonation. See [Module access policies for encrypting associated attachments](fe-maps-inbound-email-attachment-encryption.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ The hash field stores a SHA-256 fingerprint of an attachment's content. Even tho
 
 Because of this, duplicate detection doesn't work for encrypted attachments, since ServiceNow uses the hash field to prevent identical attachments from being added to a record.
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](field-encryption-key-management.md)
 

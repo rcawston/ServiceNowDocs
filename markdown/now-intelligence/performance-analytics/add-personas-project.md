@@ -60,7 +60,7 @@ By holding down the Ctrl/Command or Alt/Option key while dropping a persona onto
     Remove the persona from the artifact on which is dropped and from all child artifacts of that artifact.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Define properties for a project](define-properties-project.md)
 

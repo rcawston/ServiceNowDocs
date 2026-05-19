@@ -34,5 +34,5 @@ Role required: admin
     The system returns to the list of updated sets. If the batch base column is visible, it shows the parent for the newly created child.
 
 
-**Parent Topic:**[Working with batched update sets](../concept/us-hier-overview.md)
+**Parent Topic:**[Working with batched update sets](us-hier-overview.md)
 

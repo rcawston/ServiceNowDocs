@@ -45,7 +45,7 @@ If there is a group email ID, an email is sent in a single language to all the r
 
 ## Email notification translation plugins
 
-Activate the [glide notification translation plugin](../task/activate-translation-plugin.md) to send multi-lingual emails based on the recipient’s preferred language. The localization framework plugin is activated by default along with the Glide notification translation plugin.
+Activate the [glide notification translation plugin](activate-translation-plugin.md) to send multi-lingual emails based on the recipient’s preferred language. The localization framework plugin is activated by default along with the Glide notification translation plugin.
 
-Activate the [translated email retention plugin](../task/activate-email-retention-plugin.md) to archive emails.
+Activate the [translated email retention plugin](activate-email-retention-plugin.md) to archive emails.
 

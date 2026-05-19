@@ -37,7 +37,7 @@ Role required: cloud\_admin
     templateResolver.getTemplate(scriptName);
     ```
 
-    **Note:** For more information, see [Cloud scripts and cloud script templates](../concept/cloud-scripts-and-templates.md).
+    **Note:** For more information, see [Cloud scripts and cloud script templates](cloud-scripts-and-templates.md).
 
 6.  Click **Submit**.
 

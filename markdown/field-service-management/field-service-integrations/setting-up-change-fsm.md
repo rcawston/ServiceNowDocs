@@ -20,8 +20,8 @@ Integration with the Change Management application enables ITIL agents to create
 This integration provides the following benefits for ITIL agents:
 
 -   Ability to create a work order from a change request either on the ServiceNow AI Platform or the CSM Configurable Workspace.
-    -   For information on creating a work order from a change request in ServiceNow AI Platform, see [Create a work order](../../planning-and-policy/task/t_CreateAWorkOrder.md).
-    -   For information about creating a work order from a change request in CSM Configurable Workspace, see [Create a work order from a change request in the CSM Configurable Workspace](../task/create-wo-from-chng-config-wrkspc.md).
+    -   For information on creating a work order from a change request in ServiceNow AI Platform, see [Create a work order](../work-order-management/t_CreateAWorkOrder.md).
+    -   For information about creating a work order from a change request in CSM Configurable Workspace, see [Create a work order from a change request in the CSM Configurable Workspace](create-wo-from-chng-config-wrkspc.md).
 -   Enables the ITIL agent to track the progress of a work order directly from its parent change request.
 
 This integration automates your system to provide the following benefits:
@@ -31,7 +31,7 @@ This integration automates your system to provide the following benefits:
 -   Enables field service agents to view the related change request details and related lists in the Mobile Agent application.
 -   Auto-close a change request when all related work orders are closed as completed.
 
-    **Note:** You must enable the auto-close function in the extension point of a ChangeWorkOrderIntegration script to close the change request automatically when the related work order is closed. For more information, see [Using an extension point to synchronize work orders with change requests](../reference/using-extention-point-for-chnge-mngmnt.md).
+    **Note:** You must enable the auto-close function in the extension point of a ChangeWorkOrderIntegration script to close the change request automatically when the related work order is closed. For more information, see [Using an extension point to synchronize work orders with change requests](using-extention-point-for-chnge-mngmnt.md).
 
 
 ## Synchronizing data between the work order and the change request

@@ -33,7 +33,7 @@ The Edge Encryption proxy ships with the Java JCEKS KeyStore file named `keystor
 
     2.  Open the `edgeencryption.properties` file.
 
-    3.  Enter the properties for the [Java KeyStore](../reference/edge-encryption-proxy-server-properties.md).
+    3.  Enter the properties for the [Java KeyStore](edge-encryption-proxy-server-properties.md).
 
 2.  Save and close the `edgeencryption.properties` file.
 

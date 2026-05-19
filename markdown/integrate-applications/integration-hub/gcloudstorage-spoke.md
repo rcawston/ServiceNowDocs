@@ -401,7 +401,7 @@ Uploads an object to the specified bucket.
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -429,5 +429,5 @@ There might be AI agents installed with the Now Assist application that are not 
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Google Cloud Storage spoke](../task/setup-gstorage.md#).
+For information about setting up the spoke, see [Set up the Google Cloud Storage spoke](setup-gstorage.md#).
 

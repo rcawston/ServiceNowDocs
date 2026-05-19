@@ -17,7 +17,7 @@ The Keyvalue pair connector methods perform various actions on key value pairs. 
 
 Adds a keyvalue pair.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -33,7 +33,7 @@ Clears all keyvalue pairs.
 
 Returns True if the specified key exists, else, returns False.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -44,7 +44,7 @@ To provide inputs to the parameters, see [Configure port properties](../task/con
 
 Returns True if the specified key value exists, else, returns False.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -63,7 +63,7 @@ Returns the total count of keyvalue pairs.
 
 Removes the specified key.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -73,7 +73,7 @@ To provide inputs to the parameters, see [Configure port properties](../task/con
 
 Returns the value of the specified key.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -124,7 +124,7 @@ To configure, do the following steps.
 
 Parses the specified text into key value pairs. It can create multiple keyvalue pairs.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -147,7 +147,7 @@ Need information.
 
 Updates the value of a key.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -172,7 +172,7 @@ To configure the keys, do the following steps.
     A Data in port is created with each key name you set.
 
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -210,12 +210,12 @@ Renders the keyvalue pairs to the JSON format.
 
 Renders the keyvalue pairs to the text format.
 
-To provide inputs to the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the parameters, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
 |ValuesOnly|If True, the method renders only the values of the keys, else, renders the keyvalue pair.|Data in|Boolean|None|No|
 |Return|Returns the keyvalue pair to the text format.|Data out|String|Not applicable|Not applicable|
 
-**Parent Topic:**[Keyvalue pair](../concept/keyvaluepair.md)
+**Parent Topic:**[Keyvalue pair](keyvaluepair.md)
 

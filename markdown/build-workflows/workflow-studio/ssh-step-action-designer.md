@@ -177,7 +177,7 @@ Option to elevate privileges to execute the script.
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## Advanced SSH script options
@@ -215,5 +215,5 @@ rm ~/specialFunctions.py
 
 To see the list of available MID Server scripts, navigate to **MID Server** &gt; **Script Files**.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

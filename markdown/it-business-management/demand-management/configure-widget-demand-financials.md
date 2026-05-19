@@ -27,7 +27,7 @@ Role required: pps\_admin
 
 3.  On the Widget form, fill in the fields.
 
-    For a description of the field names, see [Widget form](../reference/widget-form.md).
+    For a description of the field names, see [Widget form](widget-form.md).
 
 
 ## What to do next
@@ -37,9 +37,9 @@ Role required: pps\_admin
 -   **[Associate a widget to the Demand table](associate-widget-to-demand.md)**  
 After you configure a widget, associate it with the Demand table to show the financial data of a demand.
 
-**Parent Topic:**[Set up Demand Management](../concept/c_SettingUpDemandManagement.md)
+**Parent Topic:**[Set up Demand Management](c_SettingUpDemandManagement.md)
 
-**Previous topic:**[View an assessment metric category](../../../administer/assessments/task/t_CreateAnAssessmentCategory.md)
+**Previous topic:**[View an assessment metric category](t_CreateAnAssessmentCategory.md)
 
 **Next topic:**[Associate a widget to the Demand table](associate-widget-to-demand.md)
 

@@ -25,7 +25,7 @@ When working on a release for multiple products, you can choose to work with the
 
 -   Perform primary activities, like starting the release and managing phases and tasks in the main release.
 -   Define the release scope and manage change requests in each product release.
--   Run policies for the current phase either from the main release level or an individual product release. The policy statuses from the individual product releases are aggregated into the policy status of the main release. For more information about how the aggregated status is derived, see [Policy status aggregation in a multi-product release](../reference/dpr-policy-status-aggregation.md).
+-   Run policies for the current phase either from the main release level or an individual product release. The policy statuses from the individual product releases are aggregated into the policy status of the main release. For more information about how the aggregated status is derived, see [Policy status aggregation in a multi-product release](dpr-policy-status-aggregation.md).
 
 You can monitor the progress of an individual product release, or you can track the overall progress at the main release level.
 
@@ -43,7 +43,7 @@ You can monitor the progress of an individual product release, or you can track 
 
     -   Select the **Release dashboard** tab to view important dates of the release, release tasks, policies, related tasks, and approvals by their state for all releases together.
 
-        For more information, see [Release dashboard for a multi-product release](../concept/dpr-release-dashboard-multi.md).
+        For more information, see [Release dashboard for a multi-product release](dpr-release-dashboard-multi.md).
 
     -   Select the **Details** tab to make any necessary changes to the release details, such as the release name, owner, status, or description. For more information, see [Review and update release details](dpr-work-release-details.md).
     -   Select the **Products** tab to view a list of all products, including their release versions and statuses.
@@ -82,7 +82,7 @@ Included product
 
 </td><td>
 
-You can see the following sections for the selected product's release:-   **Overview**: View the progress, review risk score, and quality of the release on the respective dashboards. For more information, see [Release Overview dashboard for a multi-product release](../concept/dpr-release-overview-dashboard-multi.md) and [Release Quality dashboard](../concept/dpr-release-quality-dashboard.md).
+You can see the following sections for the selected product's release:-   **Overview**: View the progress, review risk score, and quality of the release on the respective dashboards. For more information, see [Release Overview dashboard for a multi-product release](dpr-release-overview-dashboard-multi.md) and [Release Quality dashboard](dpr-release-quality-dashboard.md).
 -   **Release execution**: View the details of phases of the release or run policies mapped to its phases for compliance checks. For more information, see [Execute the release](dpr-work-stage-release.md#).
 
 **Note:** In the **Details** tab, the **Policy status** field displays a combined compliance status for all releases.

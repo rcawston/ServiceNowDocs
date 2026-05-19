@@ -38,5 +38,5 @@ When you create a network function record, it creates a corresponding configurat
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Manage your network functions](../concept/services.md)
+**Parent Topic:**[Manage your network functions](services.md)
 

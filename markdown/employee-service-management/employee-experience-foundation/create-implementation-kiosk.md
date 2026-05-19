@@ -43,5 +43,5 @@ Role required: admin
 
 You can view data on the **Schedule** and **Time off** tabs based on your location or any other user criterion you've set.
 
-**Parent Topic:**[Schedule in Employee Center Pro Kiosk](../concept/shift-time-kiosk-ec.md)
+**Parent Topic:**[Schedule in Employee Center Pro Kiosk](shift-time-kiosk-ec.md)
 

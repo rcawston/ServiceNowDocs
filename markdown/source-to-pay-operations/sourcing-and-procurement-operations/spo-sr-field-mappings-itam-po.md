@@ -19,7 +19,7 @@ The SR initiates the sourcing workflow, and quantity, price, and delivery locati
 
 These same PR line mappings are reused to create purchase order line \(POL\) records after supplier award, automatically populating the **Quantity**, **Price**, and **Delivery Address**/**Ship To** fields.
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

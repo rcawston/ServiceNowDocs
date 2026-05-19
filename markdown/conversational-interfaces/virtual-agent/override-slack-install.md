@@ -46,5 +46,5 @@ Starting from Utah release, if your Slack workspace is already associated with a
     ![Slack installation window with the Override button enabled.](../images/slack-override.png)
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](va-integ-slack.md)
 

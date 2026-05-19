@@ -43,7 +43,7 @@ Stockroom Location
 
 Name of the stockroom location where the asset is located.
 
- To learn more, see [Telecommunications Network Inventory integration with Hardware Asset Management](../concept/integration-with-hardware-asset-management.md).
+ To learn more, see [Telecommunications Network Inventory integration with Hardware Asset Management](integration-with-hardware-asset-management.md).
 
 </td></tr><tr><td>
 
@@ -69,13 +69,13 @@ Asset
 
 Name of the asset that is associated with this record.
 
- To learn more, see [Telecommunications Network Inventory integration with Hardware Asset Management](../concept/integration-with-hardware-asset-management.md).
+ To learn more, see [Telecommunications Network Inventory integration with Hardware Asset Management](integration-with-hardware-asset-management.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](create-equipment-record-design-and-assign.md)
 

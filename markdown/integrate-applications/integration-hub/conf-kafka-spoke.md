@@ -51,5 +51,5 @@ The Confluent Kafka REST Proxy spoke provides actions to automate tasks when eve
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Confluent Kafka REST Proxy spoke](../task/setup-kafka-spoke.md).
+For information about setting up the spoke, see [Set up the Confluent Kafka REST Proxy spoke](setup-kafka-spoke.md).
 

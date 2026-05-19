@@ -38,7 +38,7 @@ Qualifiers dictate which work order tasks are targeted for bundling. Qualifiers 
     -   Enter an **Assignment Group** to assign the policy to an assignment group.
     -   Enter a **Territory** to assign the policy to a territory.
 
-        **Note:** **Assignment Group** appears by default. To replace with **Territory**, see [Enable the Field Service territory model](enable-territory-model.md).
+        **Note:** **Assignment Group** appears by default. To replace with **Territory**, see [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
 
 5.  Select **Submit**.
 

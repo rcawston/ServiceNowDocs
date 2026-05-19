@@ -145,5 +145,5 @@ Shows every entitlement, software install, and software usage for the software. 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

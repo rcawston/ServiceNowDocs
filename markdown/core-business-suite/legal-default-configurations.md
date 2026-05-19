@@ -20,5 +20,5 @@ These default configurations are applied automatically when Apply default config
 |Notifications|Configures standard notifications to support Legal workflows and communication.|
 |Intake forms|Activates required intake forms for submitting Legal requests and capturing request details.|
 
-**Parent Topic:**[Install Legal](../task/install-legal.md)
+**Parent Topic:**[Install Legal](install-legal.md)
 

@@ -184,5 +184,5 @@ CDM All App Access \[sn\_cdm.cdm\_all\_app\_access\]
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DevOps Config roles](../../devops-config/reference/devops-config-roles.md)
+</table>**Parent Topic:**[DevOps Config roles](devops-config-roles.md)
 

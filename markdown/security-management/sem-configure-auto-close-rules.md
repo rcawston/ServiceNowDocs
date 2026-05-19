@@ -22,7 +22,7 @@ Starting with v30.3.3 of USEM parallel processing for auto close rules is suppor
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 

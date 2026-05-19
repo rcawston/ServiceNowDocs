@@ -27,7 +27,7 @@ For general information about UI policies, see [Using UI policies](https://raw.g
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## UiPolicy object
 

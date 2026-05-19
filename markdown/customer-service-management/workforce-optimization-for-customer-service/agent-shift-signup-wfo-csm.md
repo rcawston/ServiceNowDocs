@@ -212,5 +212,5 @@ Schedule plan is closed for agents to sign up.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

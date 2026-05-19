@@ -59,17 +59,17 @@ In addition to these features, you can open the command palette to run a variety
 
 ![The ServiceNow IDE home page with the user's workspaces listed.](../image/servicenow-ide-welcome.png)
 
-Create workspaces, access existing workspaces, and create or open applications. Clone a Git repository to add an existing application from a remote repository. To get started creating workspaces and applications, see [Developing applications with the ServiceNow IDE](developing-applications-servicenow-ide.md). To clone a Git repository, see [Clone a Git repository with the ServiceNow IDE](../task/clone-git-repository-servicenow-ide.md).
+Create workspaces, access existing workspaces, and create or open applications. Clone a Git repository to add an existing application from a remote repository. To get started creating workspaces and applications, see [Developing applications with the ServiceNow IDE](developing-applications-servicenow-ide.md). To clone a Git repository, see [Clone a Git repository with the ServiceNow IDE](clone-git-repository-servicenow-ide.md).
 
 ![Experience switcher from the ServiceNow IDE](../image/servicenow-ide-exp-switcher.png "Experience switcher")
 
-Work in the right environment for your task by using the experience switcher to switch between developing in ServiceNow IDE, ServiceNow Studio, and Creator Studio. For information about configuring the experience switcher, see [Configure non-default access to the experience switcher](../../servicenow-studio/task/configure-access-experience-switcher.md).
+Work in the right environment for your task by using the experience switcher to switch between developing in ServiceNow IDE, ServiceNow Studio, and Creator Studio. For information about configuring the experience switcher, see [Configure non-default access to the experience switcher](../servicenow-studio-classic/configure-access-experience-switcher.md).
 
 ### File Explorer view
 
 ![File Explorer view](../image/servicenow-ide-file-explorer.png)
 
-Navigate through applications in a workspace and add files or folders. In the Outline section, view the outline of the active file in the editor. In the Timeline section, view a history of changes to the active file. For information about the default application file structure, see the [Application structure](../../custom-application/concept/building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
+Navigate through applications in a workspace and add files or folders. In the Outline section, view the outline of the active file in the editor. In the Timeline section, view a history of changes to the active file. For information about the default application file structure, see the [Application structure](../building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
 
 ### Search view
 
@@ -92,13 +92,13 @@ See changes to files grouped by application and the type of change. Stage, commi
 
 ![File Categories view](../image/servicenow-ide-create-file.png)
 
-Create, update, and view application metadata in the most applicable embedded ServiceNow AI Platform user interface in the editor. If you need to create some application metadata outside of source code, you can create application files from the File Categories view. For more information, see [Create an application file in the ServiceNow IDE](../task/create-application-file-servicenow-ide.md).
+Create, update, and view application metadata in the most applicable embedded ServiceNow AI Platform user interface in the editor. If you need to create some application metadata outside of source code, you can create application files from the File Categories view. For more information, see [Create an application file in the ServiceNow IDE](create-application-file-servicenow-ide.md).
 
 ### Now SDK view
 
 ![Now SDK view](../image/servicenow-ide-now-sdk.png)
 
-Run commands from the ServiceNow SDK application packaging service to synchronize changes to application metadata or build and install an application. For more information, see [Synchronizing applications in the ServiceNow IDE](synchronizing-applications.md) and [Build and install an application in the ServiceNow IDE](../task/build-applications-servicenow-ide.md).
+Run commands from the ServiceNow SDK application packaging service to synchronize changes to application metadata or build and install an application. For more information, see [Synchronizing applications in the ServiceNow IDE](synchronizing-applications.md) and [Build and install an application in the ServiceNow IDE](build-applications-servicenow-ide.md).
 
 ### Manage menu
 
@@ -136,7 +136,7 @@ From the status bar, the panel opens and displays more information about problem
 
 ![Command palette](../image/servicenow-ide-command-palette.png)
 
-Run commands to configure the user interface, develop applications, manage files, use source control, access a list of keyboard shortcuts, and more. The command palette includes commands unique to the ServiceNow IDE and Visual Studio Code commands. For a list of commands specific to the ServiceNow IDE, see [ServiceNow IDE commands](../reference/servicenow-ide-commands.md).
+Run commands to configure the user interface, develop applications, manage files, use source control, access a list of keyboard shortcuts, and more. The command palette includes commands unique to the ServiceNow IDE and Visual Studio Code commands. For a list of commands specific to the ServiceNow IDE, see [ServiceNow IDE commands](servicenow-ide-commands.md).
 
 To open the command palette, use one of the following keyboard shortcuts:
 

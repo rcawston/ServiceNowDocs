@@ -43,5 +43,5 @@ Applies default Employee Center settings to establish the Core Business Suite us
 -   Quick links – Provides shortcuts to frequently used tools and resources.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Core Business Suite Foundation](../task/set-up-cbs.md)
+</table>**Parent Topic:**[Install Core Business Suite Foundation](set-up-cbs.md)
 

@@ -32,11 +32,11 @@ Before you start the integration configuration, you must complete the following 
 
 2.  Set up the authentication profile.
 
-    Create a basic authentication profile that can be used for web service integration with ERP. Register the ERP integration username and password to create the authentication profile and associate it to service maps. For more information, see [Set up the authentication profile](../task/setup-authentication-profile-erp-intg.md).
+    Create a basic authentication profile that can be used for web service integration with ERP. Register the ERP integration username and password to create the authentication profile and associate it to service maps. For more information, see [Set up the authentication profile](setup-authentication-profile-erp-intg.md).
 
 3.  Define source configuration for ERP.
 
-    ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [ERP source configuration](erp-source-configuration.md) and [Define ERP source configuration for Source-to-Pay](../task/define-erp-source-config-psm.md).
+    ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [ERP source configuration](erp-source-configuration.md) and [Define ERP source configuration for Source-to-Pay](define-erp-source-config-psm.md).
 
 4.  Configure service maps for the following entities:
 
@@ -78,7 +78,7 @@ Before you start the integration configuration, you must complete the following 
 
     **Note:** For configuring each of these service maps, provide the connection end point and the ERP credentials that you set up for your authentication profile. Also, create a separate web service record for each service request that you want to customize.
 
-    For more information, see [Configure service maps for Source-to-Pay](../task/configure-service-maps-psm-erp.md).
+    For more information, see [Configure service maps for Source-to-Pay](configure-service-maps-psm-erp.md).
 
 5.  Configure scheduled job to synchronize primary data updates from ERP.
 
@@ -86,7 +86,7 @@ Before you start the integration configuration, you must complete the following 
 
 6.  Load data to ERP user mapping table.
 
-    Set up S2P and ERP User ID mapping for the integration to work. The mapping is maintained for all active users who have the procurement buyer role in ERP. These users should be used in the requisition assignment rule. For more information, see [Load data to ERP user mapping table for Source-to-Pay](../task/load-data-erp-user-mapping-psm.md).
+    Set up S2P and ERP User ID mapping for the integration to work. The mapping is maintained for all active users who have the procurement buyer role in ERP. These users should be used in the requisition assignment rule. For more information, see [Load data to ERP user mapping table for Source-to-Pay](load-data-erp-user-mapping-psm.md).
 
 7.  Map the following entities:
     -   Purchasing entity.

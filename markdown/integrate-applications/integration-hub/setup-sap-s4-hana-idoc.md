@@ -21,7 +21,7 @@ Integrate the ServiceNow instance and SAP S4 HANA IDoc spoke by using the Basic 
 -   Activate the SAP S4 HANA IDoc spoke.
 -   Role required: admin.
 
-**Note:** To retrieve information, use the Execute RFC spoke action in the [SAP S4 HANA RFC Spoke](../concept/sap-s4hanarfc-spoke.md).
+**Note:** To retrieve information, use the Execute RFC spoke action in the [SAP S4 HANA RFC Spoke](sap-s4hanarfc-spoke.md).
 
 ## Procedure
 

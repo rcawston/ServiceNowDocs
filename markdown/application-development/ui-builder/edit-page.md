@@ -47,7 +47,7 @@ Edit page settings to change the name, path, and type of your page. This is usef
 
         ![Required parameters in page settings.](../image/required-parameter-settings.png)
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](work-pages.md).
 
 6.  Add optional pieces of data that you want to add to the URL of your page.
 
@@ -59,10 +59,10 @@ Edit page settings to change the name, path, and type of your page. This is usef
 
         ![Optional parameters in page settings.](../image/optional-parameter-settings.png)
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](work-pages.md).
 
 7.  Click **Save**.
 
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)
 

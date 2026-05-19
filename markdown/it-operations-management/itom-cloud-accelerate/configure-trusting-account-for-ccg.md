@@ -59,7 +59,7 @@ Role required: sn\_itom\_ccg.scheduling\_admin
 
 3.  Create an assume role configuration for the trusting account.
 
-    For more information, see [Create an assume role configuration](../../it-operations-management/task/create-assume-role-config.md).
+    For more information, see [Create an assume role configuration](create-assume-role-config.md).
 
 
 **Parent Topic:**[Set up Cloud Configuration Governance for AWS](set-up-ccg-for-aws.md)

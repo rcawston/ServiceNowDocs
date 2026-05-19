@@ -50,7 +50,7 @@ The Asset KPIs report is available for an enterprise asset under the following c
     -   **Current asset schedule**: The asset schedule linked to the asset currently and used for KPI calculations. If no schedule is linked, the Default asset schedule is used.
     -   **Start**: The date and time when the asset KPI values were first calculated.
     -   **End**: The date and time when the asset KPI values were last calculated.
-    -   **Outages During Interval** tab: A list of outages with details like start and end time of the outage and the duration of the outage. For more details on outage record creation and handling, see [Asset performance reports in the Enterprise Asset Workspace](../concept/asset-performance-reports-eam.md).
+    -   **Outages During Interval** tab: A list of outages with details like start and end time of the outage and the duration of the outage. For more details on outage record creation and handling, see [Asset performance reports in the Enterprise Asset Workspace](asset-performance-reports-eam.md).
 
-**Parent Topic:**[Asset performance reports in the Enterprise Asset Workspace](../concept/asset-performance-reports-eam.md)
+**Parent Topic:**[Asset performance reports in the Enterprise Asset Workspace](asset-performance-reports-eam.md)
 

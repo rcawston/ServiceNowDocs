@@ -22,20 +22,20 @@ To evaluate your agentic AI at scale, follow the workflow described below:
 
     Get acquainted with the agentic evaluations homepage and the guided setup for an automated evaluation.
 
-2.  [Track and monitor progress.](../task/track-aia-eval-progress.md)
+2.  [Track and monitor progress.](track-aia-eval-progress.md)
 
     In-progress automated evaluations can provide important information about agentic AI performance. See any initial problems before all the results come through.
 
-3.  [Review the result outputs.](../task/review-aia-eval-outputs.md)
+3.  [Review the result outputs.](review-aia-eval-outputs.md)
     1.  See LLM-judged scores.
-    2.  [Identify consistent issues.](../task/aia-eval-review-issues.md)
-    3.  [Trace issues back to their source.](../task/aia-eval-analyze-traces.md)
-    4.  [Apply optimizations.](../task/aia-eval-apply-optimization.md)
-4.  [Create automated evaluation runs for other agentic workflows or AI agents.](../task/execute-aia-eval.md)
-5.  [Create custom metrics to evaluate against your specific business needs.](../task/create-custom-metric.md)
+    2.  [Identify consistent issues.](aia-eval-review-issues.md)
+    3.  [Trace issues back to their source.](aia-eval-analyze-traces.md)
+    4.  [Apply optimizations.](aia-eval-apply-optimization.md)
+4.  [Create automated evaluation runs for other agentic workflows or AI agents.](execute-aia-eval.md)
+5.  [Create custom metrics to evaluate against your specific business needs.](create-custom-metric.md)
 
 ## Additional information
 
 -   [Frequently asked questions about agentic evaluations](aia-eval-faqs.md)
--   [Troubleshoot agentic evaluations](../task/troubleshoot-aia-eval.md)
+-   [Troubleshoot agentic evaluations](troubleshoot-aia-eval.md)
 

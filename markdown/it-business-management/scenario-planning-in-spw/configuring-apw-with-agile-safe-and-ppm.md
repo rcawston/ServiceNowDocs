@@ -20,8 +20,8 @@ Understand the process required to set up Strategic Planning to work with Agile 
 Use the following steps as guidelines for your Strategic Planning with PPM, Agile 2.0, Next Experience for Demand Management, and SAFe setup process. Some of these steps require the admin role \(sn\_align\_core.apw\_admin\) and some require the user role \(sn\_align\_core.apw\_user\).
 
 1.  [Create an alignment integration](create-an-alignment-integration.md)
-2.  [Generate default mapping configurations](../task/generate-default-mapping-configurations.md)
-3.  [Create custom mapping configurations](../task/generate-custom-mapping-configurations.md) \(Optional\)
+2.  [Generate default mapping configurations](generate-default-mapping-configurations.md)
+3.  [Create custom mapping configurations](generate-custom-mapping-configurations.md) \(Optional\)
 
 ## Guided Setup
 

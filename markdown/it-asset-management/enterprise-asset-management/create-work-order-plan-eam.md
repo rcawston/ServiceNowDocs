@@ -216,7 +216,7 @@ Date and time by which the work order plan must be completed.
     You can track the status of the work order tasks at any time through the associated work order plan.
 
 
-**Parent Topic:**[Manage asset-centric work tasks using work order plans](../concept/manage-work-order-plans.md)
+**Parent Topic:**[Manage asset-centric work tasks using work order plans](manage-work-order-plans.md)
 
 **Related topics**  
 

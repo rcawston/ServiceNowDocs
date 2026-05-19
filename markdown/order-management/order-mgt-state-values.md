@@ -15,7 +15,7 @@ Use the State fields on the customer order management forms to determine the cur
 
 ## Customer Order form states
 
-Use the **State** field on the customer order form to determine the current processing state for the order, including all of its associated line items. You can also use it to perform certain types of order actions, such as canceling an order. To learn more, see [Managing post-fulfillment order changes](../concept/managing-orders.md).
+Use the **State** field on the customer order form to determine the current processing state for the order, including all of its associated line items. You can also use it to perform certain types of order actions, such as canceling an order. To learn more, see [Managing post-fulfillment order changes](managing-orders.md).
 
 <table id="table_xzp_3fn_v4b"><thead><tr><th>
 
@@ -159,8 +159,8 @@ All associated customer order line items are complete.**Note:** After your agent
 </td></tr></tbody>
 </table>**Note:** To learn more about Inflight Order Change functions and how they affect the Revision in Process, Assessing Cancellation, Cancellation in Progress, and Canceled customer order states, see the following:
 
--   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 ## Order line item form states
 
@@ -252,8 +252,8 @@ Revision in progress
 
 </td><td>
 
-Customer order line item revision that is in process but has not been approved. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+Customer order line item revision that is in process but has not been approved. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 </td></tr><tr><td>
 
@@ -277,8 +277,8 @@ Assessing cancellation
 
 </td><td>
 
-As part of the Inflight Order Change functions, when a cancellation request is submitted for the customer order line item, it moves to this state. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+As part of the Inflight Order Change functions, when a cancellation request is submitted for the customer order line item, it moves to this state. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 </td></tr><tr><td>
 
@@ -286,8 +286,8 @@ Cancellation in progress
 
 </td><td>
 
-When the cancellation request is approved, the customer order line item moves to this state. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+When the cancellation request is approved, the customer order line item moves to this state. To learn more, see the following:-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 </td></tr><tr><td>
 
@@ -311,8 +311,8 @@ Customer order line item and all associated domain orders and order tasks that a
 </td></tr></tbody>
 </table>**Note:** To learn more about Inflight Order Change functions and how they affect the Revision in Process, Assessing Cancellation, Cancellation in Progress, and Canceled customer order line item states, see the following:
 
--   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 ## Product Order, Service Order, and Resource Order form states
 
@@ -393,7 +393,7 @@ Product, service, or resource order that is in the process of being cancelled.
 </td></tr></tbody>
 </table>## Order Task form states
 
-Use the **State** field on the Order Task form to determine the processing state for an order task. To learn more, see [Review and close fulfillment tasks](../task/order-mgt-customer-order-tasks.md).
+Use the **State** field on the Order Task form to determine the processing state for an order task. To learn more, see [Review and close fulfillment tasks](order-mgt-customer-order-tasks.md).
 
 <table id="table_c4f_154_v4b"><thead><tr><th>
 

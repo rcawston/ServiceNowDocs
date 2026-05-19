@@ -181,11 +181,11 @@ Script that determines if the maintenance schedule should run. This field appear
 </td></tr></tbody>
 </table>4.  Specify whether the next planned maintenance should occur at the originally calculated time/meter value or whether to restart the meter/interval calculation from the time that the work order was completed.
 
-    See [Property settings for Planned Maintenance](../reference/planned-maint-properties.md).
+    See [Property settings for Planned Maintenance](planned-maint-properties.md).
 
 
--   **[Changes to maintenance schedules](../concept/c_ChangesToMaintSched.md)**  
+-   **[Changes to maintenance schedules](c_ChangesToMaintSched.md)**  
 If you make and save changes to an existing maintenance schedule, any previously associated records are updated accordingly.
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

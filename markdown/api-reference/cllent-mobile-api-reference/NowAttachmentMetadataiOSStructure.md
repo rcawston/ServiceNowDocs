@@ -121,7 +121,7 @@ String
 
 </td><td>
 
-Expected SHA256 digest for the attachment.A downloaded attachment is [validated](../../NowAttachment/concept/NowAttachmentiOSStructure.md#) by comparing its computed digest to this SHA256 digest.
+Expected SHA256 digest for the attachment.A downloaded attachment is [validated](NowAttachmentiOSStructure.md#) by comparing its computed digest to this SHA256 digest.
 
 </td></tr><tr><td>
 
@@ -283,7 +283,7 @@ String
 Entity that updated the attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAttachmentMetadata - encode\(to encoder: Encoder\)
 

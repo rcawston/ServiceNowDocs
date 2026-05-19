@@ -109,5 +109,5 @@ Name of the table attribute and its value. You can use this field to select attr
 **Related topics**  
 
 
-[Create a default template](../task/create-default-templates.md)
+[Create a default template](create-default-templates.md)
 

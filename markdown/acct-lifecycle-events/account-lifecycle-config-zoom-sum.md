@@ -120,5 +120,5 @@ When these steps have been completed, you can generate the meeting summary for t
 -   **[Generate summary for Zoom meetings](account-lifecycle-zoom-meeting-summary.md)**  
 Generate the meeting summary for virtual meetings conducted using Zoom.
 
-**Parent Topic:**[Touchpoint home page](../concept/account-lifecycle-touchpoint-home.md)
+**Parent Topic:**[Touchpoint home page](account-lifecycle-touchpoint-home.md)
 

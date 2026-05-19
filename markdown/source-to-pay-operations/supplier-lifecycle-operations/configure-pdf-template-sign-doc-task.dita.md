@@ -101,7 +101,7 @@ For more information, see [Mark a signature block](https://raw.githubusercontent
 -   **[Approve application restricted caller access privileges for Sign document supplier task type](approve-sign-task-rca.md)**  
 Approve restricted caller access \(RCA\) privileges after you create a supplier task of action type Sign document for the very first time so that you can create and use subsequent Sign document supplier tasks.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](../concept/config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
 
 **Related topics**  
 
@@ -114,19 +114,19 @@ Approve restricted caller access \(RCA\) privileges after you create a supplier 
 
 [Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](supp-doc-mgmt-overview.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
 [Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 [Install Universal Request for SLO](install-universal-request.md)
 
-[Configure smart assessments](../concept/configure-smart-assessments.md)
+[Configure smart assessments](configure-smart-assessments.md)
 
 [Approve application restricted caller access privileges for Sign document supplier task type](approve-sign-task-rca.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](supp-doc-mgmt-overview.md)
 

@@ -21,8 +21,8 @@ The following is a general overview of installing and configuring Creator Studio
 
 1.  Decide on an instance strategy, for example, what are your development \(non-production\) and production instances. For more information, see [Creator Studio development instance strategy](creator-studio-instance-strategy.md).
 2.  Download Creator Studio from the ServiceNow Store and install it. For more information, see [Installing Creator Studio from the ServiceNow Store](installing-creator-studio-from-the-store.md).
-3.  Run Guided Setup to configure administration and collaboration. For more information, see [Configure Creator Studio using Guided Setup](../task/config-creator-studio-guided-setup.md#).
-4.  Ensure all users who need access have the correct role. For more information, see [Creator Studio roles and personas](../reference/roles-creator-studio.md).
+3.  Run Guided Setup to configure administration and collaboration. For more information, see [Configure Creator Studio using Guided Setup](config-creator-studio-guided-setup.md#).
+4.  Ensure all users who need access have the correct role. For more information, see [Creator Studio roles and personas](roles-creator-studio.md).
 
 ## Using Guided Setup to implement Creator Studio
 
@@ -46,11 +46,11 @@ If you want forms to appear in the Virtual Agent chatbot, you must install the n
 
 -   **[Installing Creator Studio from the ServiceNow Store](installing-creator-studio-from-the-store.md)**  
 Installing Creator Studio from the ServiceNow Store makes it available for people to build apps on your instance.
--   **[Configure Creator Studio using Guided Setup](../task/config-creator-studio-guided-setup.md#)**  
+-   **[Configure Creator Studio using Guided Setup](config-creator-studio-guided-setup.md#)**  
 So you've installed Creator Studio on an instance. Now what? You must configure it before users can start building apps.
 -   **[Configuring Pipelines and Deployments to deploy apps built in Creator Studio](creator-studio-configuring-pipelines.md)**  
 You can install Pipelines and Deployments and configure a controller instance to deploy apps built in Creator Studio to production instances.
--   **[Creator Studio roles and personas](../reference/roles-creator-studio.md)**  
+-   **[Creator Studio roles and personas](roles-creator-studio.md)**  
 Roles control what everyone you work with can do in Creator Studio. Administrators assign roles to give team members permission to configure or use Creator Studio.
 -   **[Creator Studio and domain separation](creator-studio-domain-separation.md)**  
 Domain separation is not supported in Creator Studio. This means that you can't separate data, processes, and administrative tasks into distinct groups, called domains, within the ServiceNow AI Platform.

@@ -77,12 +77,12 @@ As an administrator, you can use the Now Assist in Virtual Agent Analytics dashb
 
 For detailed information on Now Assist in Virtual Agent in general, and Now Assist for SLO in particular, see [Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-exploring.md).
 
-For information on configuring Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md).
+For information on configuring Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-configuring.md).
 
 **Related topics**  
 
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
 
-[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](../task/now-assist-slo-summarize-case.md)
+[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](now-assist-slo-summarize-case.md)
 

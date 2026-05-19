@@ -34,5 +34,5 @@ Role required: agent\_client\_collector\_admin
     You can refresh all widgets on the dashboard by selecting the form header icon ![Form header icon](../image/acc-hamburger-icon.png) and then selecting **Refresh**.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

@@ -24,5 +24,5 @@ For description of the field values, see the table.
 |Description|Brief description about the documentation section.|
 |Default Text|Default text relevant for the documentation section. The text can be edited later when the plan is formulated and the documentation sections are added, in accordance to the plan.|
 
-**Parent Topic:**[Configure documentation section](../task/configure-doc-section-for-bcp.md)
+**Parent Topic:**[Configure documentation section](configure-doc-section-for-bcp.md)
 

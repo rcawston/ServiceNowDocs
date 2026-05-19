@@ -117,18 +117,18 @@ Date and time by which the task has to be completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](../concept/using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View job tracker details](../concept/view-job-tracker-details-sf.md)
+[View job tracker details](view-job-tracker-details-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](field-mappings-sf.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](../concept/na-va-sf.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
 
-[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](../concept/conversational-agents-sf.md)
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
 

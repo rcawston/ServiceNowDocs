@@ -20,7 +20,7 @@ Influence how Health Log Analytics generates and prioritizes alerts and identifi
 
 Explore how to influence alert generation and anomaly detection in Health Log Analytics. You can create and modify rules to generate alerts for specific metrics, ensuring that you're informed of important issues. You can also assign different levels of significance to alerts, helping Health Log Analytics prioritize them based on their relevance. In addition, you can influence anomaly detection by managing the keywords that Health Log Analytics looks for in your log data, and use advanced log alert filters to reduce noise.
 
--   [Use alert rules to control when Health Log Analytics generates alerts](../../health-log-analytics-admin/concept/hla-alert-rules-manage.md)
+-   [Use alert rules to control when Health Log Analytics generates alerts](hla-alert-rules-manage.md)
 
     Manage alert rules to generate Log Analytics alerts for specified metrics.
 
@@ -28,7 +28,7 @@ Explore how to influence alert generation and anomaly detection in Health Log An
 
     Assign higher or lower significance to an alert to help prioritize the alerts that Health Log Analytics generates.
 
--   [Influence anomaly detection in Health Log Analytics with lexical keywords](../../health-log-analytics-admin/concept/hla-log-anomaly-detection.md)
+-   [Influence anomaly detection in Health Log Analytics with lexical keywords](hla-log-anomaly-detection.md)
 
     Influence how Health Log Analytics finds anomalies by managing keywords it looks for in your log data.
 

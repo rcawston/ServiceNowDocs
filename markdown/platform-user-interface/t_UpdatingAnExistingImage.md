@@ -34,7 +34,7 @@ Role required: image\_admin or content\_admin
     **Note:** If the new image does not appear as expected, clear the browser cache.
 
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 

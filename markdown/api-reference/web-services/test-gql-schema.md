@@ -37,7 +37,7 @@ The GraphQL Explorer integrates the GraphiQL IDE into the ServiceNow AI Platform
 
 3.  In the editor, enter a query to the schema.
 
-    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](../concept/scripted-graph-ql.md#section_zdw_rnc_glb).
+    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](scripted-graph-ql.md#section_zdw_rnc_glb).
 
     This example shows using both the application and schema namespaces:
 
@@ -97,5 +97,5 @@ If you need to view a list of previous queries, in left sidebar, select the Show
 
 To access record data in a component, you can create a custom component and query your scripted GraphQL schema from the component. For more information, see [Query a GraphQL schema from a component](query-schema-from-component.md).
 
-**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+**Parent Topic:**[Query record data using the GraphQL API framework](scripted-graph-ql.md)
 

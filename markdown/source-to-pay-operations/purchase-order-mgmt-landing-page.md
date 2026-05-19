@@ -29,7 +29,7 @@ The ServiceNow® Purchase Order Management application enables your suppliers an
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, such as fields, tables, and properties.](../reference/purchase-order-mgmt-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, such as fields, tables, and properties.](purchase-order-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>

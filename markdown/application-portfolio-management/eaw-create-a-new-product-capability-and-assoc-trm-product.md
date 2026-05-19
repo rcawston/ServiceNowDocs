@@ -35,7 +35,7 @@ Role required: sn\_apm.apm\_user
 
 8.  In the Create New Product Capability page, fill in the form fields.
 
-    For field information, see [Create new product capability form](../../reference/eaw-reference/eaw-create-new-product-capability-form.md).
+    For field information, see [Create new product capability form](eaw-create-new-product-capability-form.md).
 
 9.  Select **Save**.![Product Capability Maps and Capability Relationship Maps tabs associated with a product capability.](../../image/eaw-image/trm-product-capability-related-list-items.png)
 
@@ -44,12 +44,12 @@ Role required: sn\_apm.apm\_user
 
 The product capability is added to the TRM product.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 
 [View product capabilities associated with a Technology Reference Model product](eaw-view-capabilities-associated-with-trm-product.md)
 

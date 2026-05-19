@@ -15,14 +15,14 @@ breadcrumb: [Configure Cloud Cost Management for AWS, Configuring Cloud Cost Man
 
 Set up access to AWS billing and usage data by following the steps.
 
-1.  [Create AWS credentials](../task/create-aws-credentials.md)
-2.  [Create a record of AWS credentials in Cloud Cost Management](../task/create-aws-credential-record-ccm.md)
-3.  [Enable cost allocation in AWS for Kubernetes cluster](../task/enable-cost-allocation-aws.md)
-4.  [Schedule and manage the jobs that download AWS billing data](../task/aws-bill-dwnld-job-cloudin.md)
-5.  [Add an AWS CI class type to ensure accurate billing data](../task/aws-class-type-add-cloudin.md)
+1.  [Create AWS credentials](create-aws-credentials.md)
+2.  [Create a record of AWS credentials in Cloud Cost Management](create-aws-credential-record-ccm.md)
+3.  [Enable cost allocation in AWS for Kubernetes cluster](enable-cost-allocation-aws.md)
+4.  [Schedule and manage the jobs that download AWS billing data](aws-bill-dwnld-job-cloudin.md)
+5.  [Add an AWS CI class type to ensure accurate billing data](aws-class-type-add-cloudin.md)
 
 **Related topics**  
 
 
-[Cancel an AWS Billing download job](../task/aws-bill-dwnld-cancl-cloudin.md)
+[Cancel an AWS Billing download job](aws-bill-dwnld-cancl-cloudin.md)
 

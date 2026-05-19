@@ -38,5 +38,5 @@ Manage access to an instance by configuring how long integration sessions last b
 -   **[Domain separation in third-party application and data source integration](domain-separation-app-data-source-integration.md)**  
 This is an overview of domain separation and integration of third-party applications and data sources. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[ServiceNow AI Platform integrations](../../administer/managing-data/concept/integrations.md)
+**Parent Topic:**[ServiceNow AI Platform integrations](integrations.md)
 

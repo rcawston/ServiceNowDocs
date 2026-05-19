@@ -84,5 +84,5 @@ Click **Select columns** or **Select rows**, then select **Variables+** at the b
 6.  **Save** the report.
 
 
-**Parent Topic:**[Report on service catalog variables](../concept/rep-service-catalog-variables.md)
+**Parent Topic:**[Report on service catalog variables](rep-service-catalog-variables.md)
 

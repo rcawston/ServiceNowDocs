@@ -27,7 +27,7 @@ The Privileged and Confidential status of a legal request and its associated mat
 
 As a collaborator added to a legal matter, you can access and work on the legal matter just as matter owners can. However, you can't modify the **Matter owner**, **Assignment group**, and **Assignment group permission** fields.
 
-**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](../../legal-request-management/concept/legal-services-delegation.md).
+**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](../legal-request-management/legal-services-delegation.md).
 
 ## Procedure
 
@@ -108,11 +108,11 @@ The state of the legal matter updates to Work in Progress.
     -   **Edit**: All members from the assignment group can view and edit the legal matter.
     **Note:** The matter owner, practice area lead, or group manager can set the assignment group permissions on the legal matter.
 
-7.  [Create artifacts](add-artifact-to-legal-matter.md) \(folders\) and [attach files to a legal matter artifact](add-files-to-artifact.md) to store the collected supporting documents within the matter.
+7.  [Create artifacts](../legal-matter-management/add-artifact-to-legal-matter.md) \(folders\) and [attach files to a legal matter artifact](../legal-matter-management/add-files-to-artifact.md) to store the collected supporting documents within the matter.
 
 8.  If the request must be reassigned to a new assignment group due to business needs, select a new assignment group in the **Assignment group** field.
 
-    **Note:** Editing of the **Assignment group** field is available only when the **Editable Assignment group in Matter** [option is configured](../../legal-request-management/task/associate-categories-practice-area.md) in the associated intake form.
+    **Note:** Editing of the **Assignment group** field is available only when the **Editable Assignment group in Matter** [option is configured](../legal-request-management/associate-categories-practice-area.md) in the associated intake form.
 
     When the assignment group is changed, existing group members who are not in the updated assignment group might lose access to the matter. The **Matter owner** field is also cleared, and the matter owner is notified via email.
 
@@ -122,37 +122,37 @@ The state of the legal matter updates to Work in Progress.
 
     The collaborators are notified via email that they have been added as collaborators to a legal matter.
 
-10. [Initiate an ad hoc approval](initiate-approval-legal-matter.md) for the legal matter or its artifact's content when an approval is required from other stakeholders.
+10. [Initiate an ad hoc approval](../legal-matter-management/initiate-approval-legal-matter.md) for the legal matter or its artifact's content when an approval is required from other stakeholders.
 
-11. [Engage with outside counsel](lmm-eng-outcounsel.md) while resolving matters.
+11. [Engage with outside counsel](../legal-matter-management/lmm-eng-outcounsel.md) while resolving matters.
 
 12. Communicate with the requester or other stakeholders using emails, chats, work notes, or comments.
 
-    -   Using emails: Communicate with any stakeholders using emails. For more information, see [Communicate using emails](send-receive-email-legal-matter.md).
-    -   Using live chats: Communicate with any stakeholders using chats. For more information, see [Start a chat session through Legal Counsel Center Inbox](../../legal-request-management/task/chat-employee-counsel-center.md).
+    -   Using emails: Communicate with any stakeholders using emails. For more information, see [Communicate using emails](../legal-matter-management/send-receive-email-legal-matter.md).
+    -   Using live chats: Communicate with any stakeholders using chats. For more information, see [Start a chat session through Legal Counsel Center Inbox](../legal-service-delivery/chat-employee-counsel-center.md).
     -   Using Comments: To communicate with the requester or other stakeholders, in the Compose section, enter your message in the **Comments** field and click **Post Comments**.
     -   Using Work notes: Communicate with the other members of the legal department, in the Compose section, enter your message in the **Work notes** field and click **Post Work notes**.
 
         Using response templates, you can insert predefined content into emails, chats, and legal request and legal matter form fields such as **Comments** and **Work notes**. Select the response template icon \(![Response template icon.](../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the required field.
 
-        **Note:** [Response templates configured for legal services](../../legal-request-management/task/create-lsd-response-template.md) are only available to use.
+        **Note:** [Response templates configured for legal services](../legal-request-management/create-lsd-response-template.md) are only available to use.
 
     For legal matters enabled for attorney client privilege, markers are added to the email content to indicate the privileged and confidential status.
 
 13. Create and manage a checklist of items in the Counsel Assist section to track what should be done to resolve the legal matter.
 
-14. [Create phases](add-phases-to-legal-matter.md) and [tasks under phases](add-tasks-to-legal-matter.md) to organize the investigation.
+14. [Create phases](../legal-matter-management/add-phases-to-legal-matter.md) and [tasks under phases](../legal-matter-management/add-tasks-to-legal-matter.md) to organize the investigation.
 
     You can assign these tasks to users across various departments in your organization.
 
-15. [Add milestones](add-milestone-to-legal-matter.md) to keep a track of timelines to complete important tasks.
+15. [Add milestones](../legal-matter-management/add-milestone-to-legal-matter.md) to keep a track of timelines to complete important tasks.
 
-16. [Associate the matter with another legal request](associate-existing-matter-to-legal-request.md) that is similar in nature.
+16. [Associate the matter with another legal request](../legal-matter-management/associate-existing-matter-to-legal-request.md) that is similar in nature.
 
 17. Either close the legal matter after you have completed the required activities or cancel it if it does not need further action.
 
-    -   To close the matter, follow the instructions in [Close the legal matter](close-legal-matter.md).
+    -   To close the matter, follow the instructions in [Close the legal matter](../legal-matter-management/close-legal-matter.md).
     -   To cancel the matter, click the more actions button \(![More actions button icon.](../../legal-request-management/image/more-button-icon.png)\) and select **Cancel**.
-18. If new information surfaces or further investigation is required [reopen the legal matter](reopen-legal-matter.md) after it has been closed or canceled.
+18. If new information surfaces or further investigation is required [reopen the legal matter](../legal-matter-management/reopen-legal-matter.md) after it has been closed or canceled.
 
 

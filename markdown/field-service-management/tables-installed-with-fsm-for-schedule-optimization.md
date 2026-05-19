@@ -55,7 +55,7 @@ Relates a group or territory to an intraday job
 **Related topics**  
 
 
-[Optimizing technician schedules at set intervals throughout the day](../task/optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](field-service-scheduling/optimize-your-schedules-intraday.md)
 
-[Configure intraday optimization](../task/configure-intraday-optimization.md)
+[Configure intraday optimization](field-service-scheduling/configure-intraday-optimization.md)
 

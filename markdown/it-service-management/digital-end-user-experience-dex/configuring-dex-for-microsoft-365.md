@@ -18,9 +18,9 @@ DEX for Microsoft 365 gets installed automatically when you install Digital End-
 ## Configuration overview
 
 1.  Integrate the ServiceNow instance and Microsoft Azure by creating a custom application in Microsoft Azure portal to authenticate ServiceNow requests. To enable call quality monitoring for Microsoft Teams, do the following:
-    -   [Register a custom application in Microsoft Azure portal](../task/register-a-custom-application-ms-azure-portal.md)
-    -   [Configure a connection for DEX for Microsoft 365](../task/register-dex-for-microsoft-365-as-oauth-pvdr.md)
-2.  [Enable application monitoring](../../digital-end-user-experience/task/enable-app-monitor.md).
+    -   [Register a custom application in Microsoft Azure portal](register-a-custom-application-ms-azure-portal.md)
+    -   [Configure a connection for DEX for Microsoft 365](register-dex-for-microsoft-365-as-oauth-pvdr.md)
+2.  [Enable application monitoring](enable-app-monitor.md).
 
     Enable application monitoring to gain insights into call quality metrics and diagnose issues to enhance performance.
 

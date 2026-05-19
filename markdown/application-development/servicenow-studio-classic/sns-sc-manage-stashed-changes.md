@@ -45,5 +45,5 @@ Role required: admin
     For more information, see [Pull changes from a repository](sns-sc-pull-changes-from-repository.md).
 
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](sns-sc-work-with-changes-in-git.md)
 

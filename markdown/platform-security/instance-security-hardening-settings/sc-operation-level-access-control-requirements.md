@@ -101,7 +101,7 @@ References
 
 </td><td>
 
-[Access Control List Rules](../../contextual-security/concept/access-control-rules.md)
+[Access Control List Rules](../access-control/access-control-rules.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](sc-access-control.md)

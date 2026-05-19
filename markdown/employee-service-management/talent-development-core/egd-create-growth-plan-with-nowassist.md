@@ -51,8 +51,8 @@ Role required: No role is required, but you must be a licensed user.
 
     -   **Learning activities**: Search for a course name or keyword to find more learning activities.
     -   **Check-in**: Schedule a conversation and add it to your calendar once you have launched your plan.
-    -   **Mentorship**: Add a reminder to your growth plan that you want to connect with a mentor. See, [Enroll as a mentor or mentee](../../mentoring-egd/task/enroll-mentoring.md).
+    -   **Mentorship**: Add a reminder to your growth plan that you want to connect with a mentor. See, [Enroll as a mentor or mentee](../mentoring/enroll-mentoring.md).
     -   **Something else**: Add your own activity to your plan.
 
-**Parent Topic:**[Using the Talent Development Core application](../concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](egd-use.md)
 

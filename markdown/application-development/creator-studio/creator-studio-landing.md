@@ -47,7 +47,7 @@ ServiceNow AI Platform supports apps for requests, such as:
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details on Creator Studio components, such as fields, tables, and properties.](../reference/creator-studio-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details on Creator Studio components, such as fields, tables, and properties.](creator-studio-reference.md)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Citizen developers
 
 </td><td>
 
-Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](../../app-engine-studio/concept/exploring-aes.md).
+Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](../app-engine-studio/exploring-aes.md).
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Citizen developers, Platform developers
 
 Build apps in a unified development environment.ServiceNow Studio provides streamlined navigation, integrated low-code tools, and built-in tracking and packaging so you can develop and ship apps faster. Use Build Agent in ServiceNow Studio to create and update apps with a conversational interaction.
 
-For more information, see [Exploring ServiceNow Studio](../../servicenow-studio/concept/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
+For more information, see [Exploring ServiceNow Studio](../servicenow-studio-classic/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](../servicenow-studio-classic/build-agent-in-servicenow-studio.md).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Source code developers
 
 </td><td>
 
-Develop applications in source code with ServiceNow Fluent, create JavaScript modules, and use third-party libraries. ServiceNow Fluent is a domain-specific programming language for creating application metadata in code. Use Build Agent in ServiceNow IDE to create and update apps in source code with a conversational interaction.The ServiceNow IDE runs Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK runs Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../../custom-application/concept/building-applications-source-code.md).
+Develop applications in source code with ServiceNow Fluent, create JavaScript modules, and use third-party libraries. ServiceNow Fluent is a domain-specific programming language for creating application metadata in code. Use Build Agent in ServiceNow IDE to create and update apps in source code with a conversational interaction.The ServiceNow IDE runs Visual Studio Code for the Web on the ServiceNow AI Platform. The ServiceNow SDK runs Visual Studio Code Desktop locally. For more information, see [Building applications in source code](../building-applications-source-code.md).
 
 </td></tr></tbody>
 </table>## What apps are in ServiceNow
@@ -138,7 +138,7 @@ For example:
 
 ## Give Creator Studio a try
 
-Ready to give Creator Studio a try? You can test it out using your own Personal Development Instance \(PDI\), which requires you signing in to the Developer Site. Find out more on PDIs in the [Personal developer instance guide](../../applications/concept/personal_developer_instance_guide.md).
+Ready to give Creator Studio a try? You can test it out using your own Personal Development Instance \(PDI\), which requires you signing in to the Developer Site. Find out more on PDIs in the [Personal developer instance guide](../personal_developer_instance_guide.md).
 
 <table id="table_f4p_d1v_2dc" class="nav-card"><tbody><tr><td>
 

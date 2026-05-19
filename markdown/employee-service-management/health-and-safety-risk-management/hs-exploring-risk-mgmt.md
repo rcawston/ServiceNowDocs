@@ -92,7 +92,7 @@ Access Employee Center and Now Mobile app based app that enables any worker to s
 
 </td><td>
 
-[Job Safety Analysis \(JSA\)](../task/hs-submit-jsa-emp-center.md)
+[Job Safety Analysis \(JSA\)](hs-submit-jsa-emp-center.md)
 
 </td><td>
 
@@ -105,7 +105,7 @@ Enable employees to use the predefined jobs and get started quickly for their JS
 
 </td><td>
 
-[Job register](../task/hs-define-job-register.md)
+[Job register](hs-define-job-register.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Create and manage your visual risk matrixes that adhere to local regulations or 
 
 </td><td>
 
-[Risk Matrices](../task/hs-configure-risk-matrix.md)
+[Risk Matrices](hs-configure-risk-matrix.md)
 
 </td><td>
 
@@ -171,7 +171,7 @@ Support chemical safety awareness through the Employee Center with searchable Sa
 
 </td><td>
 
-[Access Safety Data Sheets \(SDSs\)](../task/hs-view-safety-register-docs-ec.md)
+[Access Safety Data Sheets \(SDSs\)](hs-view-safety-register-docs-ec.md)
 
 </td><td>
 
@@ -198,7 +198,7 @@ Enable agents to complete inspection or audit assessments offline that are synch
 
 </td><td>
 
-[Offline inspections and audits on mobile](../../hs-health-safety-mobile/task/complete-safety-inspection-survey-offline-mode.md)
+[Offline inspections and audits on mobile](../health-and-safety/complete-safety-inspection-survey-offline-mode.md)
 
 </td><td>
 

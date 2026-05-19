@@ -54,7 +54,7 @@ Complete the steps listed in [Run the fix script to enable access to Supplier Co
 -   **[Run the fix script to enable access to Supplier Collaboration Portal](run-fix-script-supp-central.md)**  
 After you install the Supplier Collaboration Portal, you must run the fix script to enable access to the portal.
 
-**Parent Topic:**[Post installation mandatory step for Supplier Collaboration Portal](../concept/post-install-steps.md)
+**Parent Topic:**[Post installation mandatory step for Supplier Collaboration Portal](post-install-steps.md)
 
 **Related topics**  
 

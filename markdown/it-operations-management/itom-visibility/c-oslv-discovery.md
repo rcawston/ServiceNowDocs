@@ -91,5 +91,5 @@ Operating System Level Virtualization Container \[cmdb\_ci\_oslv\_container\]
 </table>-   **[Docker virtualization](c-docker-virtualization.md)**  
 Discovery uses the **Docker Pattern** to collect data about specific objects in a Docker engine, running on a Linux host.
 
-**Parent Topic:**[Data collected by ITOM Visibility](../reference/data-collected-by-itom-visibility.md)
+**Parent Topic:**[Data collected by ITOM Visibility](data-collected-by-itom-visibility.md)
 

@@ -17,7 +17,7 @@ To set up navigation in a visualization between the elements of two breakdowns a
 
 ## Before you begin
 
-Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md).
+Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](breakdown-relations.md).
 
 **Important:** Platform Analytics features, such as KPI Details and data visualizations, do not support breakdown relations.
 
@@ -50,11 +50,11 @@ You want to be able to navigate quickly between two breakdowns at the same level
 
 ## Result
 
-After you submit the Breakdown Relation form, the navigation options are available in the Analytics Hub for the relevant indicator. You do not need to run a [data collection job](../concept/performance-analytics-glossary.md#) first.
+After you submit the Breakdown Relation form, the navigation options are available in the Analytics Hub for the relevant indicator. You do not need to run a [data collection job](performance-analytics-glossary.md#) first.
 
 ## What to do next
 
 View examples of breakdown relations that are shipped by default in every instance. The example shown here is the **Members** breakdown relation. The **Member of** breakdown relation provides navigation in the reverse direction, starting with an element in Assigned To and navigating to an Assignment Group. Lastly, the **Manager** breakdown relation is similar to **Members**, but because each assignment group has only one manager, it shows a many-to-one relationship. It thus uses a facts table instead of a many-to-many table.
 
-**Parent Topic:**[Navigating breakdown elements with breakdown relations](../concept/breakdown-relations.md)
+**Parent Topic:**[Navigating breakdown elements with breakdown relations](breakdown-relations.md)
 

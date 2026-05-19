@@ -321,5 +321,5 @@ Details of the citations, such as reference, name, authority document, descripti
 7.  To visually explore the 360° relationship view of the metric definition, click **360° view**.
 
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

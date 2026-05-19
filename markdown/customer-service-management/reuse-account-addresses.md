@@ -15,7 +15,7 @@ You can reuse the same addresses between multiple account records.
 
 You can reuse the same address between multiple accounts within the account hierarchy or between non-related accounts. Use the account hierarchy feature to create a parent-child relationship between accounts.
 
-To enable address sharing between accounts in the account hierarchy, see [Address sharing through account hierarchy](../task/address-sharing-account-hierarchy.md).
+To enable address sharing between accounts in the account hierarchy, see [Address sharing through account hierarchy](address-sharing-account-hierarchy.md).
 
-To share addresses between non-related accounts, see [Share an address through non-related accounts](../task/address-sharing-non-related-accounts.md).
+To share addresses between non-related accounts, see [Share an address through non-related accounts](address-sharing-non-related-accounts.md).
 

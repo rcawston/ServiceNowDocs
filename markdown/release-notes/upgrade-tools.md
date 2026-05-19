@@ -44,7 +44,7 @@ In addition to upgrade-related products, you can also use ServiceNow's upgrade t
 
 -   **Sample upgrade project plans**
 
-    The [Upgrade planning checklist](../upgrades-planning-checklist.md) provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
+    The [Upgrade planning checklist](upgrades-planning-checklist.md) provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
 
     -   [PDF](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow-upgrade-planning-checklist.pdf)
     -   [Excel](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow_upgrade_sample_project_plan_v1.0.xlsx)

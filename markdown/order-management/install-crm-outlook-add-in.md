@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-User roles are installed with CRM Outlook Add-in. For more information, see [Components installed with the CRM Outlook Add-in](../reference/components-installed-crm-outlook-add-in.md).
+User roles are installed with CRM Outlook Add-in. For more information, see [Components installed with the CRM Outlook Add-in](components-installed-crm-outlook-add-in.md).
 
 ## Procedure
 

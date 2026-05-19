@@ -61,5 +61,5 @@ Create an ad hoc task in Workplace Core for unplanned activities. For example, i
 -   **[Sign a completed workplace task](sign-completed-task.md)**  
 As the workplace manager for a space, sign the workplace tasks Workplace Core for complete and closed activities. Signing a task generates a PDF document for the workplace activity, which is useful for compliance procedures.
 
-**Parent Topic:**[Workplace Core](../concept/workplace-safety-mgmt-hr.md)
+**Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)
 

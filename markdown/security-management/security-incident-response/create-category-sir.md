@@ -55,7 +55,7 @@ Role required: sn\_si.admin
 
 The newly created category is saved and appears on the Category page.
 
-**Parent Topic:**[Category management in Security Incident Response](../concept/category-management-sir.md)
+**Parent Topic:**[Category management in Security Incident Response](category-management-sir.md)
 
 **Related topics**  
 

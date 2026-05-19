@@ -48,9 +48,9 @@ This task: Verify that Steps 1-6 in your Headless Browser setup procedures are s
     When your verification is successful, any suites with UI tests run by scheduled suites or via CICD now automatically create headless test runners without the need to manually open the "scheduled client test runner" page.
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](headless-browser-procedure-linux.md)
 
 **Previous topic:**[Configure ATF for Headless Browser in Linux](headless-browser-configure-atf.md)
 
-**Next topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Next topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 

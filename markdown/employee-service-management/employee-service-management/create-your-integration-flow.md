@@ -26,5 +26,5 @@ You can export the list of job requisitions from the Job Requisition \[sn\_ta\_h
 
 For more information, see [Exporting data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md).
 
-**Parent Topic:**[Send job requisitions to the ATS](../task/send-a-job-requisition-to-the-ats.md)
+**Parent Topic:**[Send job requisitions to the ATS](send-a-job-requisition-to-the-ats.md)
 

@@ -25,8 +25,8 @@ When you create an equipment inventory model, you must enter the following infor
 
     **Note:** These rules also apply to the remaining steps to this process. To learn more, see:
 
-    -   [Create an inventory template](../task/create-inventory-templates.md)
-    -   [Create a default template](../task/create-default-templates.md)
+    -   [Create an inventory template](create-inventory-templates.md)
+    -   [Create a default template](create-default-templates.md)
 
 ![Details view of the 7450 ESS-1 template with field information.](../image/inventory-template-7450ESS1.png "Inventory template for equipment model")
 

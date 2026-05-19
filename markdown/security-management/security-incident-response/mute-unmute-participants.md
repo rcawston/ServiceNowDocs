@@ -36,7 +36,7 @@ Before starting this procedure, verify that there’s an active conference call 
 6.  To mute all participants on the conference call, select **Participants** in the meeting controls and select **Mute All**.
 
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](../concept/integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 
 **Related topics**  
 
@@ -47,9 +47,9 @@ Before starting this procedure, verify that there’s an active conference call 
 
 [View conference call details](view-conference-call-details.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+[Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
 

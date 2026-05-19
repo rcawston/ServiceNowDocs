@@ -25,7 +25,7 @@ This procedure adds saved data visualizations and filters to the update set. Oth
 
 **Important:** Make sure that the dashboard content is either in the same update set as the dashboard record or is already present in the target instance. Errors result if the moved dashboard points to content that doesn’t exist on the target instance.
 
-Additional steps may be necessary if you are moving a dashboard in a scoped application. For more information, see [Update set id 'global' is different than update set scope id](../concept/troubleshooting-dashboard-update-set.md#).
+Additional steps may be necessary if you are moving a dashboard in a scoped application. For more information, see [Update set id 'global' is different than update set scope id](performance-analytics/troubleshooting-dashboard-update-set.md#).
 
 **Tip:** If you have difficulty with this procedure, contact Customer Service and Support.
 

@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OCSeriesEventGenerator script include provide methods to generate the repeating VEVENTS for a user's iCalendar.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OCSeriesEventGenerator - getMemberCalendar \(String groupId, String rotaId, String userId, Object dateRangeObj, Object memberSchedules, String calendarLink\)
 

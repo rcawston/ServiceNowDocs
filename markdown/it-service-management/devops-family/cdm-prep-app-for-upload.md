@@ -23,7 +23,7 @@ You follow this general process to prepare an application to accept the upload o
 
 1.  On the **Apps** tab, you, a user with the CDM Admin \[sn\_cdm.cdm\_admin\] role, create an application record.
 
-    The system generates an application that includes several standard folders in a hierarchical structure. You will map your existing config data into this data structure to enable the benefits that are described in [CDM data model](../reference/cdm-data-model.md).
+    The system generates an application that includes several standard folders in a hierarchical structure. You will map your existing config data into this data structure to enable the benefits that are described in [CDM data model](cdm-data-model.md).
 
     ![Data structure for a new application. You will add your config data as nodes in the appropriate folder](../image/cdm-data-structure.png)
 
@@ -46,7 +46,7 @@ You follow this general process to prepare an application to accept the upload o
 
         Components are the building blocks that typically represent the config data for a logical element of an application or a part of an infrastructure service. For example, a monolithic app, a micro-service, a physical server, or a Docker template.
 
-        A component can contain variables that can take on different values in collections and deployables. More detailed instructions appear in [Define or update a component](../task/cdm-component-define.md).
+        A component can contain variables that can take on different values in collections and deployables. More detailed instructions appear in [Define or update a component](cdm-component-define.md).
 
     -   **Collections**
 
@@ -75,11 +75,11 @@ The source config data is now held in CDM tables. You can now manage the data as
 **Related topics**  
 
 
-[Define or update a component](../task/cdm-component-define.md)
+[Define or update a component](cdm-component-define.md)
 
-[Define or update a collection in an application](../task/cdm-collection-define.md)
+[Define or update a collection in an application](cdm-collection-define.md)
 
-[Create and update a deployable](../task/cdm-deployable-define.md)
+[Create and update a deployable](cdm-deployable-define.md)
 
 [Changesets and version control in CDM](cdm-changesets-version-control.md)
 

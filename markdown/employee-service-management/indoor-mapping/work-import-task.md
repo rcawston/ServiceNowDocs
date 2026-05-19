@@ -41,7 +41,7 @@ The required input is based on the **Step** field and more information is added 
 
     If the file name is the same as the source, the system automatically selects the source and moves to the next step. Otherwise, the Automate map updates agentic workflow is triggered to retrieve the source. The Map Admin Agent autonomously retrieves sources for the uploaded CAD file. If the correct source is found, the agent sets the source and resumes the task. If the source isn't found, the agent moves the task to the `Waiting user input` state.
 
-    For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](../../now-assist-wsd/concept/automate-map-updates-agent-ai.md).
+    For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](../now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
     **Note:** If **Supervised AI execution** was selected while creating the import group, you must select **Trigger AI Agent** to trigger the Automate map updates agentic workflow.
 
@@ -78,7 +78,7 @@ The required input is based on the **Step** field and more information is added 
     3.  Select **Continue**.
 
 
-**Parent Topic:**[Bulk update floor plans](../concept/bulk-import-cad-files.md)
+**Parent Topic:**[Bulk update floor plans](bulk-import-cad-files.md)
 
 **Previous topic:**[Create an Import Group](create-import-group.md)
 

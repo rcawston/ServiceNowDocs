@@ -66,11 +66,11 @@ Store in CMDB as referrable objects.
 2.  Switch between the blue \(current application\) and green \(new application\) environment
 
 </td></tr></tbody>
-</table>-   **[Set up Ansible as a Day 1 task](../task/setting-up-ansible-as-day-one-task.md)**  
+</table>-   **[Set up Ansible as a Day 1 task](setting-up-ansible-as-day-one-task.md)**  
 Set up the Ansible console as a Day 1 task before you run Discovery and deploy a job template via a ServiceNow catalog item by using the Cloud Services Catalog application.
--   **[Run Discovery on the Ansible config provider](../task/running-discovery-on-ansible-config-provider.md)**  
+-   **[Run Discovery on the Ansible config provider](running-discovery-on-ansible-config-provider.md)**  
 Add the Ansible config provider and run Discovery to discover what's in the inventory, the host group, and the available job templates.
--   **[Order an Ansible job template](../task/ordering-ansible.md)**  
+-   **[Order an Ansible job template](ordering-ansible.md)**  
 Use Cloud Services Catalog to order an Ansible job template called from the catalog item.
 
 **Parent Topic:**[Configuring Cloud Services Catalog](configuring-csc.md)

@@ -15,9 +15,9 @@ Raise a move request on behalf of an employee, update a move request workplace s
 
 Create, update, or raise a move request on behalf of an employee.
 
--   **[View move requests](../task/view-move-requests.md)**  
+-   **[View move requests](view-move-requests.md)**  
 Monitor the move requests that are assigned to you, the requests that are currently open, and all the other requests that are created in the application.
--   **[View move tasks](../task/view-move-tasks.md)**  
+-   **[View move tasks](view-move-tasks.md)**  
 Monitor the move-related tasks that are created in the application to fulfill a move request. View the move tasks assigned to you, the tasks that are currently open, and all the move tasks created in the application.
 
 **Parent Topic:**[Workplace Move Management](workplace-move-mgmt-overview.md)

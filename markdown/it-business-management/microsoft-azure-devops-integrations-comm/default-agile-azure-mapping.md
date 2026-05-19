@@ -62,5 +62,5 @@ The following are the details of the default map configuration for various proce
 |Product Backlog Item|Story \[rm\_story\]|
 |Epic|Epic \[rm\_epic\]|
 
-**Parent Topic:**[Discover and import Azure DevOps projects](../task/discover-import-azure-projects.md)
+**Parent Topic:**[Discover and import Azure DevOps projects](discover-import-azure-projects.md)
 

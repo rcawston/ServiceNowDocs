@@ -39,7 +39,7 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
     You can also see whether the visitor has accepted or declined the visitor policies by selecting the record in the Visitor Policy Confirmation related list. For more information about visitor policy confirmations, see [View visitor policy confirmations](view-policy-confirmations.md).
 
 
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
@@ -50,7 +50,7 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
 
 [View visitor policy confirmations](view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](visitor-registration-states.md)
 
 [Anonymize a visitor](anonymize-visitor.md)
 

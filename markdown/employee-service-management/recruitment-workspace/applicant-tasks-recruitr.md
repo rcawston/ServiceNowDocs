@@ -23,7 +23,7 @@ View **All tasks** and **Tasks Assigned to me** in the **Lists** view under **Ta
 
 Receive notifications at regular intervals if your applicants haven't finished the assigned tasks in time. For more information, see [Task email notifications for recruiters](email-notice-recruiter-tasks.md).
 
--   **[Create tasks](../task/create-applicant-tasks.md)**  
+-   **[Create tasks](create-applicant-tasks.md)**  
 Create tasks for your applicants or internal stakeholders within the Recruitment workspace and assign it to the respective personas.
 
 **Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)

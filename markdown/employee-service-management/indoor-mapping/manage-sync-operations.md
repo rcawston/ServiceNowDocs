@@ -46,5 +46,5 @@ If some records aren’t processed, you can review the error logs. You can view 
 
 .
 
-**Parent Topic:**[Using enhanced synchronization](../concept/using-enhanced-sync.md)
+**Parent Topic:**[Using enhanced synchronization](using-enhanced-sync.md)
 

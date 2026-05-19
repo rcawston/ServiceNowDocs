@@ -148,7 +148,7 @@ For failure status, this result output must be assigned with a JSON object of th
 
 </td></tr><tr><td>
 
-2. Create an external credential vault record. For more information, see [Create an external credential vault record in RPA Hub](../task/create-ext-cred-rpa.md).
+2. Create an external credential vault record. For more information, see [Create an external credential vault record in RPA Hub](create-ext-cred-rpa.md).
 
 </td><td>
 
@@ -168,7 +168,7 @@ For reference, see the sample **Demo CyberArk Subflow** that uses **RPA CyberArk
 
 </td><td>
 
-For more information about configuring these fields, see [Create a robot credential in RPA Hub](../task/create-credential-set-botprocess.md), [Create an application credential in RPA Hub](../task/create-application-credential.md), and [Create a TOTP authenticator in RPA Hub](../task/map-totp-credential-set-rpa.md).
+For more information about configuring these fields, see [Create a robot credential in RPA Hub](create-credential-set-botprocess.md), [Create an application credential in RPA Hub](create-application-credential.md), and [Create a TOTP authenticator in RPA Hub](map-totp-credential-set-rpa.md).
 
 </td></tr></tbody>
 </table>

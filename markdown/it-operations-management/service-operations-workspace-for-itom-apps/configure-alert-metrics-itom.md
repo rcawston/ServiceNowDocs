@@ -31,10 +31,10 @@ Role required: evt\_mgmt\_admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields, see [Metrics View Configuration form fields](../reference/metrics-view-config-fields.md).
+    For information on the fields, see [Metrics View Configuration form fields](metrics-view-config-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

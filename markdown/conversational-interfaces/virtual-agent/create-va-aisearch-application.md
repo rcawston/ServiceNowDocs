@@ -79,5 +79,5 @@ Create or update a custom chat experience that uses the Run AI Search topic bloc
 </table>    Your custom Search Application Configuration is used in the AI Search topic block in a conversation or a custom chat experience to generate the customized AI Search experience.
 
 
-**Parent Topic:**[Improving the user experience with AI Search](../concept/va-ai-search.md)
+**Parent Topic:**[Improving the user experience with AI Search](va-ai-search.md)
 

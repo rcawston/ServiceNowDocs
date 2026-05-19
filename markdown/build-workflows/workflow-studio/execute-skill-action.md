@@ -25,7 +25,7 @@ Available as a Now Assist Skill Kit action.
 
 -   **Role requirements**
 
-    This action requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](../concept/user-access-flow-designer.md).
+    This action requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](user-access-flow-designer.md).
 
 
 ## Inputs
@@ -74,5 +74,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
     The response provided by the Now Assist skill as a JSON-formatted object.
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

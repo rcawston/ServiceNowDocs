@@ -22,7 +22,7 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to create an AI asset.
 
-You can create agents and agentic workflows by opening AI Agent Studio from the asset library. For more information on AI Agent Studio, see [AI Agent Studio](../../now-assist-ai-agents/concept/ai-agent-studio.md).
+You can create agents and agentic workflows by opening AI Agent Studio from the asset library. For more information on AI Agent Studio, see [AI Agent Studio](ai-agent-studio.md).
 
 Other asset types are created using Virtual Agent Assistant Designer. Virtual Agent conversations are built using topics. Conversations can also include subflows and actions. For more information on Assistant Designer, see [Assistant Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/assistant-designer.md).
 
@@ -58,7 +58,7 @@ Opens the New AI Agent form in AI Agent Studio.
 
  An AI agent is an autonomous digital worker that uses LLMs, tools, and workflows to complete tasks on behalf of users. They can reason, plan, and act independently or collaboratively.
 
- For more information on creating an AI agent in AI Agent Studio, see [Create an AI agent](../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
+ For more information on creating an AI agent in AI Agent Studio, see [Create an AI agent](configure-next-best-action-agent.md).
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Opens the New agentic workflow form in AI Agent Studio.
 
  An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective.
 
- For more information on AI Agent Studio, see [Create an agentic workflow](../../now-assist-ai-agents/task/configure-use-case-ai-agents.md).
+ For more information on AI Agent Studio, see [Create an agentic workflow](configure-use-case-ai-agents.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Opens the New Action form in Assistant Designer.
 
 An asset is created and can be seen in the related asset inventory list.
 
-**Parent Topic:**[Using the asset inventory in Now Assist Center](../concept/now-assist-center-using-asset-inventory.md)
+**Parent Topic:**[Using the asset inventory in Now Assist Center](now-assist-center-using-asset-inventory.md)
 
 **Related topics**  
 

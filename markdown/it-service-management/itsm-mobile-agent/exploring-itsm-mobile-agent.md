@@ -33,10 +33,10 @@ A general overview of the typical ITSM Mobile Agent workflow:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Incident management|[My incidents](../task/assigned-incidents-mobile.md)|All|
+|Incident management|[My incidents](assigned-incidents-mobile.md)|All|
 |Real-time notifications|All logged-in users receive in-app and push notifications. To configure real-time notifications, see [Configurable actionable notifications for ITSM Mobile Agent](actionable-notify-itsm-mobile.md#).|All|
 |Team Dashboard and performance metrics|[My team dashboard](my-team-dashboard-mob.md) and [Performance metrics](perf-metrics-mob.md)|Managers|
 |Major incident management|[Managing major incidents using Major Incident applet](mim-mobile.md)|Agent, Managers|
-|AI search|[AI Search in ITSM Mobile Agent](../../itsm-mobile-agent/concept/ai-search-itsm-mobile-agent.md)|All|
+|AI search|[AI Search in ITSM Mobile Agent](ai-search-itsm-mobile-agent.md)|All|
 |Collaboration services|[Collaboration Services for ITSM Mobile Agent](collaboration-itsm-mobile-agent.md)|Administrator|
 

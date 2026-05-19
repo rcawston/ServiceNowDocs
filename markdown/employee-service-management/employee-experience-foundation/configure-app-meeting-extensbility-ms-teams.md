@@ -23,7 +23,7 @@ Role required: Microsoft Azure admin
 
 No need to create a separate Meeting Extensions bot as the Meeting Extensions app depends on the Notify connector for Microsoft Teams app. You can configure the existing Notify connector app/bot in the Microsoft Azure portal for Meeting Extensions to have a seamless conference call experience in Microsoft Teams.
 
-**Note:** Ensure that API permissions are configured for the Notify connector for Microsoft Teams app in the Microsoft Azure portal. For more information, see [Manage permissions and authenticate the Notify connector app/bot in Microsoft Azure portal](../../notify2/task/manage-permissions-notify.md). You must update the following changes to the existing Notify connector app in the Microsoft Azure portal.
+**Note:** Ensure that API permissions are configured for the Notify connector for Microsoft Teams app in the Microsoft Azure portal. For more information, see [Manage permissions and authenticate the Notify connector app/bot in Microsoft Azure portal](manage-permissions-notify.md). You must update the following changes to the existing Notify connector app in the Microsoft Azure portal.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ No need to create a separate Meeting Extensions bot as the Meeting Extensions ap
 
 2.  Navigate to **Azure Services** &gt; **Azure Active Directory** &gt; **Manage** &gt; **App registrations**.
 
-3.  Open the app created for Notify connector in Microsoft Teams in the section [Create an app in Microsoft Teams to enable making calls](../../notify2/task/create-app-ms-teams.md).
+3.  Open the app created for Notify connector in Microsoft Teams in the section [Create an app in Microsoft Teams to enable making calls](create-app-ms-teams.md).
 
 4.  Navigate to **Manage** &gt; **API Permissions** &gt; **Add a permission** &gt; **Microsoft Graph** and select **Application permissions**.
 
@@ -83,5 +83,5 @@ Select **Access tokens** and **ID tokens**
 </table>    3.  Click **Configure**.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)
 

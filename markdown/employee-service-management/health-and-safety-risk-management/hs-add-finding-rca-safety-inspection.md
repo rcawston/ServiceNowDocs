@@ -23,8 +23,8 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager or sn\_hs\_rm.safety\_insp
 
 Inspection agents can also create actions for specific questions while completing a smart assessment or survey from the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. For more information, see the following:
 
--   [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
--   [Create actions and findings for survey responses from mobile app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+-   [Create actions and findings for the smart assessment questionnaire from mobile app](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
+-   [Create actions and findings for survey responses from mobile app](../health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
 ## Procedure
 
@@ -73,5 +73,5 @@ Inspection agents can also create actions for specific questions while completin
 
 Add actions for each finding to ensure that any issues are prevented or corrected. For more information, see [Add an action for a safety inspection or audit](hs-add-action-safety-inspection.md).
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_ai\_governance.ai\_steward
 -   \(AIG admin\) aig\_admin
 -   \(MCP Client admin\) sn\_mcp\_client.admin
 
-For more information on the AI steward role and its responsibilities, see [AI Control Tower roles](../reference/roles-installed-with-ai-control-tower.md).
+For more information on the AI steward role and its responsibilities, see [AI Control Tower roles](roles-installed-with-ai-control-tower.md).
 
 ## Procedure
 

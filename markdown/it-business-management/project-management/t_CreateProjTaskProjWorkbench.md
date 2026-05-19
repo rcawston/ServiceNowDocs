@@ -39,7 +39,7 @@ While creating a project task in the project workbench, the time constraint type
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+**Parent Topic:**[Managing Project workbench](c_UsingProjectWorkbench.md)
 
 **Related topics**  
 
@@ -52,5 +52,5 @@ While creating a project task in the project workbench, the time constraint type
 
 [Create a test case in the project workbench](t_CreateTestCaseProjWorkbench.md)
 
-[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+[Managing Project workbench](c_UsingProjectWorkbench.md)
 

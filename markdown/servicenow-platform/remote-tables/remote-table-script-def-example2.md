@@ -186,5 +186,5 @@ If no problems are encountered in the data retrieval, it gets the data body for 
 
 `getTransformerDefinition` defines the schema of the record in the external API response body. It maps each of the fields in the table script to an element in the external record. Any external data elements outside of this mapping are not available in the remote table.
 
-**Parent Topic:**[Create script definitions for a remote table](../task/create-remote-table-script.md)
+**Parent Topic:**[Create script definitions for a remote table](create-remote-table-script.md)
 

@@ -21,7 +21,7 @@ Role required: none.
 
 ## About this task
 
-If you configure the parent instance to send [notifications](../concept/c_CodeReviewNotifications.md), it sends the submitting developer a notification when the pushed changes are approved or rejected. Developers can also manually check the status of their pushed changes from the Pushes and Pulls module on the submitting instance.
+If you configure the parent instance to send [notifications](c_CodeReviewNotifications.md), it sends the submitting developer a notification when the pushed changes are approved or rejected. Developers can also manually check the status of their pushed changes from the Pushes and Pulls module on the submitting instance.
 
 ## Procedure
 

@@ -65,5 +65,5 @@ For more information, see [Request ad hoc translation for Service Catalog items]
 |Partially translated|Request translation and Self-translation|If there are partial translations in the system for that specific catalog item for that language, the state **Partially Translated** appears near the language name.|
 |Translated|Request translation and Self-translation|If all translations for that specific catalog item for that language exist in the system, the state **Translated** appears near the language name.|
 
-**Parent Topic:**[Creating or editing catalog item template](../task/create-cat-item-template-cat-builder.md)
+**Parent Topic:**[Creating or editing catalog item template](create-cat-item-template-cat-builder.md)
 

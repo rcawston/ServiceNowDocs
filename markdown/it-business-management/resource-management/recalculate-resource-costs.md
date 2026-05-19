@@ -26,7 +26,7 @@ Role required: resource\_manager
 
 ## About this task
 
-To update the costs of all the resource plans of a project or demand in one go, you can use the **Recalculate Resource Costs** option from the [project form](../../project-management/task/recalculate-resource-costs-of-a-project.md) or [demand form](../../planning-and-policy/task/recalculate-resource-costs-of-a-demand.md).
+To update the costs of all the resource plans of a project or demand in one go, you can use the **Recalculate Resource Costs** option from the [project form](../project-management/recalculate-resource-costs-of-a-project.md) or [demand form](../demand-management/recalculate-resource-costs-of-a-demand.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ To update the costs of all the resource plans of a project or demand in one go, 
 -   Updates the recalculated resource costs on the respective cost fields on the resource plan form and the **Resource Plans** related list of the associated project or demand.
 -   Reflects the revised values on the respective cost fields of associated project or demand.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -90,7 +90,7 @@ To update the costs of all the resource plans of a project or demand in one go, 
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

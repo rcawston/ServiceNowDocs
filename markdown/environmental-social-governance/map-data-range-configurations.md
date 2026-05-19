@@ -39,5 +39,5 @@ Role required: sn\_esg.admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](configure-sustainable-it.md)
 

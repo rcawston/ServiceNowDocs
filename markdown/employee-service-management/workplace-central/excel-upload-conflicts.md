@@ -111,7 +111,7 @@ Allocation Mismatch
 
 </td><td>
 
-The user's allocation doesn't match the allocation of the selected destination.For more information about allocations, see [Allocate a cost center, department, or workplace entity](../../workplace-space-management/task/add-cost-center-department-floor.md).
+The user's allocation doesn't match the allocation of the selected destination.For more information about allocations, see [Allocate a cost center, department, or workplace entity](../workplace-space-management/add-cost-center-department-floor.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Flexible Destination
 
 </td><td>
 
-The selected destination is a flexible or shared location, not a fixed assignment.For more information about flexible and permanent spaces, see [Configure a workspace or desk as flexible or permanent](../../workplace-space-management/task/assign-a-flex-perm-space.md).
+The selected destination is a flexible or shared location, not a fixed assignment.For more information about flexible and permanent spaces, see [Configure a workspace or desk as flexible or permanent](../workplace-space-management/assign-a-flex-perm-space.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Capacity Exceeded
 
 </td><td>
 
-The selected destination exceeds its capacity when the move is completed.For more information about defining the capacity of a location, see [Define the capacity of workplace areas](../../workplace-service-delivery/task/define-capacity-of-workplace-areas-wsd.md).
+The selected destination exceeds its capacity when the move is completed.For more information about defining the capacity of a location, see [Define the capacity of workplace areas](../workplace-core/define-capacity-of-workplace-areas-wsd.md).
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Duplicate destination location
 If the uploaded Excel sheet has the same location listed in two different rows, this conflict will occur.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

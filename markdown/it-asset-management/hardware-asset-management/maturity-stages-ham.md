@@ -21,5 +21,5 @@ The maturity of your Hardware Asset Management \(HAM\) program is divided into t
 |Walk|Begin establishing processes, procedures, policies, resources, and tools to execute on the roadmap of the Hardware Asset Management program. You can automate the manual processes and procedures, which you’ve established during the Crawl stage. Move to automating more complex processes by using HAM workflow.|
 |Run|At this stage, you establish and use mature, advanced, and automated processes and procedures for centralized hardware asset tracking and system management. You use advanced capabilities like zero-touch refresh, asset bundles, mobile classes, and contract renewal workflows. You must also be evaluating processes and establishing HAM goals regularly.|
 
-**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

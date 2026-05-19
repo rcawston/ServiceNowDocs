@@ -31,7 +31,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **User policy for AWS user**
 
-    If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to [Control AWS access and permissions using policies](../../it-operations-management/task/aws-create-user-policy-cloud-mgt.md) in the ServiceNow Cloud Provisioning and Governance documentation.
+    If you use Identity and Access Management \(IAM\) to manage users in Amazon Web Services \(AWS\) platform, ensure that you created a user policy for the AWS user. For more information, refer to [Control AWS access and permissions using policies](../aws-create-user-policy-cloud-mgt.md) in the ServiceNow Cloud Provisioning and Governance documentation.
 
 -   **AWS service account with credentials**
 
@@ -188,12 +188,12 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+</table>**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[Test patterns for discovering AWS API Gateway and AWS Lambda](../task/test-patterns-for-discovering-aws-api-and-aws-lambda.md)
+[Test patterns for discovering AWS API Gateway and AWS Lambda](test-patterns-for-discovering-aws-api-and-aws-lambda.md)
 
-[Define a Cloud REST Query for cloud computing devices](../task/cloud-rest-query-pattern.md)
+[Define a Cloud REST Query for cloud computing devices](cloud-rest-query-pattern.md)
 

@@ -89,13 +89,13 @@ For example, if you create a widget in a dashboard configuring the Cost Plan Bre
 
 For more information on the required roles to manage Platform Analytics dashboards, see [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md).
 
--   **[View a dashboard](../Task/view-dashboard-spw.md)**  
+-   **[View a dashboard](view-dashboard-spw.md)**  
 View key data and metrics on a dashboard to monitor performance, track progress, and make informed decisions related to ideas, feedback, strategy, planning, and execution.
--   **[Duplicate a dashboard](../Task/copy-dashboard-spw.md)**  
+-   **[Duplicate a dashboard](copy-dashboard-spw.md)**  
 If the dashboard you want to create is similar to an existing one, duplicating the existing dashboard saves your time. After duplicating the dashboard, you can customize the tabs and widgets as required.
--   **[Share a dashboard](../Task/share-dashboard-spw.md)**  
+-   **[Share a dashboard](share-dashboard-spw.md)**  
 Share a dashboard with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
--   **[Add a Platform Analytics dashboard](../Task/add-platform-dashboard-to-spw.md)**  
+-   **[Add a Platform Analytics dashboard](add-platform-dashboard-to-spw.md)**  
 If you have existing dashboards created using Platform Analytics, you can add them to the Strategic Planning Workspace to access them directly from a single location.
 
 **Parent Topic:**[Dashboards in Strategic Planning Workspace](dashboards-in-spw.md)

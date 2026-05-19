@@ -28,11 +28,11 @@ A contract generation process consists of the following steps:
     -   **Inititate Contract** UI action is visible only when a quote is in Completed state.
     -   After you submit the contract creation form, it creates a contract request record.
     -   The new contract request triggers the workflow to generate the legal sales contract.
-    To learn more, see [Initiate a contract request](../task/quote-management-create-contract.md).
+    To learn more, see [Initiate a contract request](quote-management-create-contract.md).
 
 -   When the contract workflow is complete, the state of the contract request is changed to Closed complete.
 
 ## What to do next
 
-To learn more, see [Integrate with Contract Management Pro](../task/quote-management-integrate-contract-management.md).
+To learn more, see [Integrate with Contract Management Pro](quote-management-integrate-contract-management.md).
 

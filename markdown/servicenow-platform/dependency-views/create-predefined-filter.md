@@ -70,7 +70,7 @@ After creating a predefined filter, you can apply it to a map:
 2.  Select a filter from the **Predefined Filters** list.
 3.  Click **Apply**.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -85,7 +85,7 @@ After creating a predefined filter, you can apply it to a map:
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

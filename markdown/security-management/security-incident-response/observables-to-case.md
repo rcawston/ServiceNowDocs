@@ -49,7 +49,7 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
     ![Add to TISC Case.](../image/tisc-add2-case-modal.png)
 
-    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md).
+    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](../threat-intelligence-security-center/create-cases-using-threat-analyst-workbench.md).
 
 9.  Click **Add**.
 
@@ -62,12 +62,12 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 You have successfully send the observables data to Threat Intelligence Security Center case management.
 
-**Parent Topic:**[Send data from SIR Workspace to TISC](../concept/send-sir-to-tisc.md)
+**Parent Topic:**[Send data from SIR Workspace to TISC](send-sir-to-tisc.md)
 
 **Related topics**  
 
 
-[System properties to send data](../reference/tisc-integrations-system-properties.md)
+[System properties to send data](tisc-integrations-system-properties.md)
 
 [Add security incident to TISC case](add-incident-to-case.md)
 

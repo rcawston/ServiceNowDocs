@@ -277,5 +277,5 @@ DevOpsAzureDevOpsWorkItemHelper.prototype = Object.extendsObject(DevOpsAzureDevO
 });
 ```
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

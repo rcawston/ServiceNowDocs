@@ -20,5 +20,5 @@ Several types of components are installed with activation of the HR Service Deli
 -   **[Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](awd-agent-mapping.md)**  
 View the subflow-agent mapping for HR Service Delivery Advanced Integration with Workday.
 
-**Parent Topic:**[Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md)
+**Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)
 

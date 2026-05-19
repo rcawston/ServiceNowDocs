@@ -132,5 +132,5 @@ You can delete a source term and its translations by selecting Delete from More 
 
 You can also delete a translation from a source term using Delete from More Options![image.more-options-menu], when you are on the translation's Details tab.
 
-**Parent Topic:**[Language Asset Management](../concept/lw-language-asset-management.md)
+**Parent Topic:**[Language Asset Management](lw-language-asset-management.md)
 

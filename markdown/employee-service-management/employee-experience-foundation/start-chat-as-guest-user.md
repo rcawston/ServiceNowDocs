@@ -50,5 +50,5 @@ This procedure is accomplished through the classic ServiceNow UI. For informatio
 
 The chat opens in the Microsoft Teams application.
 
-**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](../concept/start-import-req-based-chat-as-guest.md)
+**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](start-import-req-based-chat-as-guest.md)
 

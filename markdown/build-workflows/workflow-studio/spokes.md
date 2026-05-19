@@ -19,38 +19,38 @@ A spoke is a scoped application containing Workflow Studio content dedicated to 
 
 |Spoke|Description|Plugin|Included with|
 |-----|-----------|------|-------------|
-|[Benchmarks Spoke](../reference/benchmarks-actions.md)|Provides read-only actions for the read-only Benchmark Recommendation Evaluator flow.|\[com.sn\_bm\_client.spoke\]|[Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/r_Benchmarks.md) application.|
-|[Connect spoke](../reference/connect-spoke.md)|Provides actions to automate the creation of conversations, to add users to a conversation, and to send messages to a conversation. These actions work with Connect API version 3 and later.|\[com.glide.connect\_v3plus.core.ah\]|ServiceNow AI Platform|
-|[Customer Service Spoke](../reference/customer-service-actions.md)|Provides actions for flow designers to use when creating Customer Service Management business processes.|\[com.snc.customer\_service.spoke\]|[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md) application|
-|[External Related Files spoke](../reference/ext-related-files.md)|The External Related Files spoke stores information about files in third-party systems and helps you manage the information.|\[com.sn.external.files\]|ServiceNow AI Platform|
-|[Field Service Spoke](../reference/field-service-actions.md)|Provides actions for flow designers to use when creating Field Service Management business processes.|\[com.snc.field\_service.spoke\]|[Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-application-landing-page.md) application|
-|[ITSM spoke](../reference/itsm-spoke.md)|Provides flow and actions associated with ITSM. Requires the ITSM application suite.|\[com.snc.itsm.spoke\]|[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md) application|
-|[Machine Learning solutions for Flow Designer](../reference/predictive-intelligence-spoke.md)|Provides actions to make predictions from trained Predictive Intelligence solutions.|\[com.snc.ml\_flowdesigner\]|[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)|
-|[Robotic Process Automation \(RPA\) Spoke](../reference/rpa-actions.md)|Provides RPA actions for flow designers to assign users to attended automation process, add work queue items to queue, update work items, fetch process jobs and execution status of a specific process job, trigger a specific bot process, and unassign users from attended automation process.|\[com.sn\_rpa\_foundation\]|[Robotic Process Automation \(RPA\) Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-explore.md)|
-|[Security Operations spoke](../../integrationhub/reference/secops-spoke.md)|Provides Security Operations actions for flow designers to manage Security Incident Response flow templates.|\[com.snc.secops.spoke\]|[Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-operations-landing-page.md) application|
-|[Visual Task Board \(VTB\) Spoke](../reference/vtb-actions.md)|Provides VTB actions for flow designers to manage the boards, lanes, cards, board members, and assignees.|\[com.glide.ui.vtb.ah\]|ServiceNow AI Platform|
+|[Benchmarks Spoke](benchmarks-actions.md)|Provides read-only actions for the read-only Benchmark Recommendation Evaluator flow.|\[com.sn\_bm\_client.spoke\]|[Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/r_Benchmarks.md) application.|
+|[Connect spoke](connect-spoke.md)|Provides actions to automate the creation of conversations, to add users to a conversation, and to send messages to a conversation. These actions work with Connect API version 3 and later.|\[com.glide.connect\_v3plus.core.ah\]|ServiceNow AI Platform|
+|[Customer Service Spoke](customer-service-actions.md)|Provides actions for flow designers to use when creating Customer Service Management business processes.|\[com.snc.customer\_service.spoke\]|[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md) application|
+|[External Related Files spoke](ext-related-files.md)|The External Related Files spoke stores information about files in third-party systems and helps you manage the information.|\[com.sn.external.files\]|ServiceNow AI Platform|
+|[Field Service Spoke](field-service-actions.md)|Provides actions for flow designers to use when creating Field Service Management business processes.|\[com.snc.field\_service.spoke\]|[Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-application-landing-page.md) application|
+|[ITSM spoke](itsm-spoke.md)|Provides flow and actions associated with ITSM. Requires the ITSM application suite.|\[com.snc.itsm.spoke\]|[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md) application|
+|[Machine Learning solutions for Flow Designer](predictive-intelligence-spoke.md)|Provides actions to make predictions from trained Predictive Intelligence solutions.|\[com.snc.ml\_flowdesigner\]|[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)|
+|[Robotic Process Automation \(RPA\) Spoke](rpa-actions.md)|Provides RPA actions for flow designers to assign users to attended automation process, add work queue items to queue, update work items, fetch process jobs and execution status of a specific process job, trigger a specific bot process, and unassign users from attended automation process.|\[com.sn\_rpa\_foundation\]|[Robotic Process Automation \(RPA\) Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-explore.md)|
+|[Security Operations spoke](secops-spoke.md)|Provides Security Operations actions for flow designers to manage Security Incident Response flow templates.|\[com.snc.secops.spoke\]|[Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-operations-landing-page.md) application|
+|[Visual Task Board \(VTB\) Spoke](vtb-actions.md)|Provides VTB actions for flow designers to manage the boards, lanes, cards, board members, and assignees.|\[com.glide.ui.vtb.ah\]|ServiceNow AI Platform|
 
 Additional spokes are available with an Integration Hub subscription. To see a list of Integration Hub spokes, see [Integration Hub available\\n spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/spokes-list.md). For more information about requesting an Integration Hub subscription, see [Request Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/request-ih-overview.md).
 
--   **[Benchmarks Spoke](../reference/benchmarks-actions.md)**  
+-   **[Benchmarks Spoke](benchmarks-actions.md)**  
 Provides read-only actions for the read-only Benchmark Recommendation Evaluator flow.
--   **[Connect spoke](../reference/connect-spoke.md)**  
+-   **[Connect spoke](connect-spoke.md)**  
 Provides actions to automate the creation of conversations, to add users to a conversation, and to send messages to a conversation. These actions work with Connect API version 3 and later.
--   **[Customer Service Spoke](../reference/customer-service-actions.md)**  
+-   **[Customer Service Spoke](customer-service-actions.md)**  
 Provides actions for flow designers to use when creating Customer Service Management business processes. Requires the Customer Service Management \[com.sn\_customerservice\] plugin.
--   **[External Related Files spoke](../reference/ext-related-files.md)**  
+-   **[External Related Files spoke](ext-related-files.md)**  
 The External Related Files spoke stores information about files in third-party systems and helps you manage the information.
--   **[Field Service Spoke](../reference/field-service-actions.md)**  
+-   **[Field Service Spoke](field-service-actions.md)**  
 Provides actions for flow designers to use when creating Field Service Management business processes.
--   **[ITSM spoke](../reference/itsm-spoke.md)**  
+-   **[ITSM spoke](itsm-spoke.md)**  
 Provides flow and actions associated with ITSM. Requires the ITSM application suite.
--   **[Machine Learning solutions for Flow Designer](../reference/predictive-intelligence-spoke.md)**  
+-   **[Machine Learning solutions for Flow Designer](predictive-intelligence-spoke.md)**  
 With Predictive Intelligence for Flow Designer \(com.snc.ml\_flowdesigner\), you can deploy machine learning solutions in your instance. This spoke provides actions to incorporate Predictive Intelligence model predictions into flows.
--   **[Robotic Process Automation \(RPA\) Spoke](../reference/rpa-actions.md)**  
+-   **[Robotic Process Automation \(RPA\) Spoke](rpa-actions.md)**  
 With Robotic Process Automation, your flow designers can use actions to assign and unassign users to and from an attended automation process, add work items to a queue, update work items, fetch process jobs, get the status of a process job, and trigger a bot process.
--   **[Security Operations spoke](../../integrationhub/reference/secops-spoke.md)**  
+-   **[Security Operations spoke](secops-spoke.md)**  
 Provides Security Operations actions for flow designers to manage Security Incident Response flow templates.
--   **[Visual Task Board \(VTB\) Spoke](../reference/vtb-actions.md)**  
+-   **[Visual Task Board \(VTB\) Spoke](vtb-actions.md)**  
 Provides VTB actions for flow designers to manage the boards, lanes, cards, board members, and assignees.
 
 **Parent Topic:**[Workflow Studio flow integrations](flow-designer-integrations.md)

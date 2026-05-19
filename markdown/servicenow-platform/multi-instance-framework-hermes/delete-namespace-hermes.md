@@ -36,5 +36,5 @@ You can't delete a namespace if any active topics belong to it. You must delete 
 
 The namespace record is deleted from the Kafka Namespace \[sys\_kafka\_namespace\] table.
 
-**Parent Topic:**[Managing namespaces in Hermes](../concept/managing-namespaces-hermes.md)
+**Parent Topic:**[Managing namespaces in Hermes](managing-namespaces-hermes.md)
 

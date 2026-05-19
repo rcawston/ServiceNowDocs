@@ -61,7 +61,7 @@ Role required: sn\_erp\_integration.erp\_user
     -   execute\(\)
     -   get\(\)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## API - API constructor
 

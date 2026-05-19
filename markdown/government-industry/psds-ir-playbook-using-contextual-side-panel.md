@@ -65,7 +65,7 @@ Response template icon \(![Response template icon](../image/response-template-ic
 
 </td><td>
 
-Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Information Request Playbook](../task/use-response-templates-ir-psds.md).
+Reusable messages that you can copy and paste into the cases and case tasks. For more information on using and creating response templates, see [Use response templates in Information Request Playbook](use-response-templates-ir-psds.md).
 
 </td></tr><tr><td>
 

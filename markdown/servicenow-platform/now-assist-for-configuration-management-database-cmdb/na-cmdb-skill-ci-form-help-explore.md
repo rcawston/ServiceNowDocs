@@ -76,5 +76,5 @@ If you think that data might have changed after you viewed the response, select 
 
 [Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md)
 
-[Manage CI details using CI Form in CMDB Workspace](../../configuration-management/concept/ci-form-cmdb-workspace.md)
+[Manage CI details using CI Form in CMDB Workspace](../configuration-management-database-cmdb/ci-form-cmdb-workspace.md)
 

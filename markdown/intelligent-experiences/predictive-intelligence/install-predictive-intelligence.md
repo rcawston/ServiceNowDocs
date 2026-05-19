@@ -59,7 +59,7 @@ Role required: admin or ml\_admin
 
 ### About this task
 
-The training process requires sending record data to a training service in the nearest datacenter. Since every datacenter has its own dedicated training server and the data doesn't leave the datacenter, this service is also available to customers who have data sovereignty requirements. For more information on this process, see [Explore Predictive Intelligence](../concept/predictive-intelligence.md).
+The training process requires sending record data to a training service in the nearest datacenter. Since every datacenter has its own dedicated training server and the data doesn't leave the datacenter, this service is also available to customers who have data sovereignty requirements. For more information on this process, see [Explore Predictive Intelligence](predictive-intelligence.md).
 
 For frequently asked questions regarding initial configuration and setup, see [KB0781894](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0781894).
 

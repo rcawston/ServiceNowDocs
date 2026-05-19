@@ -138,10 +138,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Components installed with ITSM Roles — Incident Management](../reference/inci-roles-instld-itsm-roles.md)**  
+-   **[Components installed with ITSM Roles — Incident Management](inci-roles-instld-itsm-roles.md)**  
 Several user roles are installed with activation of the ITSM Roles — Incident Management plugin \(com.snc.itsm.roles.incident\_management\).
 
-**Parent Topic:**[Incident Management plugins](../concept/incident-mgmt-plugins.md)
+**Parent Topic:**[Incident Management plugins](incident-mgmt-plugins.md)
 
 **Related topics**  
 

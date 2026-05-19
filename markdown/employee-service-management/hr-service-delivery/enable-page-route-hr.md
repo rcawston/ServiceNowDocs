@@ -42,5 +42,5 @@ Role required: admin
     ![Page route mapping](enable-page-route-hr3.png)
 
 
-**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](../concept/ur-hr-standard-ticket-page.md)
+**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](ur-hr-standard-ticket-page.md)
 

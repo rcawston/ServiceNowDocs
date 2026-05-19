@@ -40,7 +40,7 @@ Role required: sn\_apm.apm\_user
 
 This action saves the diagram as a new version within the existing architectural artifact. The Version drop-down shows the newly created version.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 

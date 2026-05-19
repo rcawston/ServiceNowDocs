@@ -31,7 +31,7 @@ When you write the **Where clause**, add the field name to the **Variable prefix
 
 **Note:**
 
--   Database views cannot be created on tables that participate in [table rotation](../../../administer/platform-performance/concept/c_TableRotation.md).
+-   Database views cannot be created on tables that participate in [table rotation](../c_TableRotation.md).
 -   Use only lowercase characters in the **Variable prefix**. Using uppercase characters may prevent you from viewing the database view in a list.
 
 To see an example of using left joins to create a view, see [Example left join in creating a database view](example-left-join-db-view.md).
@@ -53,7 +53,7 @@ There is no support for LIKE or CONTAINS conditions in the **Where clause** clau
 
 1.  From the Database View form, select **New** on the View Tables related list.
 
-2.  [Configure the form](../../../administer/form-administration/concept/configure-form-layout.md#) and add the **Left join** field \(a check box\) to the form.
+2.  [Configure the form](../configure-form-layout.md#) and add the **Left join** field \(a check box\) to the form.
 
 3.  Select **Save**.
 

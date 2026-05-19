@@ -19,15 +19,15 @@ HLA detects anomalies automatically by learning from your log data. However, aut
 
 You can define, change, or delete alert rules for a specified metric:
 
--   [Define a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-alert-rule-add-sow.md)
+-   [Define a Log Analytics alert rule in Health Log Analytics](hla-op-alert-rule-add-sow.md)
 
     Define a Log Analytics alert rule for log data that is not generating alerts automatically.
 
--   [Change a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-modify-sow.md)
+-   [Change a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-modify-sow.md)
 
     Edit a Log Analytics alert rule that you have defined.
 
--   [Delete a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-delete-sow.md)
+-   [Delete a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-delete-sow.md)
 
     Delete a Log Analytics alert rule that you have defined if it’s no longer needed.
 

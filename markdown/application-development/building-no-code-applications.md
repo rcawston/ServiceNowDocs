@@ -13,7 +13,7 @@ breadcrumb: [Developing your application, Building applications]
 
 Create and manage custom applications in a simple, no-code environment.
 
-[Creator Studio](../../creator-studio/concept/creator-studio-landing.md)
+[Creator Studio](creator-studio/creator-studio-landing.md)
 
 Have you ever wanted to create an application, but you don't know how to code? Then Creator Studio was designed for you!
 
@@ -43,7 +43,7 @@ Process owners, line of business owners
 
 </td><td>
 
-Build request-fulfillment apps without writing code. For example, create an application to request office supplies: a user fills out a form, and an approver accepts or denies the request. For more information, see [Exploring Creator Studio](../../creator-studio/concept/exploring-creator-studio.md).
+Build request-fulfillment apps without writing code. For example, create an application to request office supplies: a user fills out a form, and an approver accepts or denies the request. For more information, see [Exploring Creator Studio](creator-studio/exploring-creator-studio.md).
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Citizen developers
 
 </td><td>
 
-Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](../../app-engine-studio/concept/exploring-aes.md).
+Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](app-engine-studio/exploring-aes.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Citizen developers, Platform developers
 
 Build apps in a unified development environment.ServiceNow Studio provides streamlined navigation, integrated low-code tools, and built-in tracking and packaging so you can develop and ship apps faster. Use Build Agent in ServiceNow Studio to create and update apps with a conversational interaction.
 
-For more information, see [Exploring ServiceNow Studio](../../servicenow-studio/concept/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
+For more information, see [Exploring ServiceNow Studio](servicenow-studio-classic/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](servicenow-studio-classic/build-agent-in-servicenow-studio.md).
 
 </td></tr><tr><td>
 
@@ -92,11 +92,11 @@ A Creator Studio app uses forms and automation to enable users to request someth
 
 ## Related applications and features
 
--   **[App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)**
+-   **[App Engine Management Center](app-engine-management-center/managing-app-development-using-aemc.md)**
 
     Track and manage your Creator Studio requests, deployments, applications, and collaborative developers using App Engine Management Center \(AEMC\).
 
--   **[App Engine Studio](../../app-engine-studio/concept/aes-overview.md)**
+-   **[App Engine Studio](app-engine-studio/aes-overview.md)**
 
     Open Creator Studio apps in AES to build more custom experiences, such as email notifications and additional security.
 
@@ -104,7 +104,7 @@ A Creator Studio app uses forms and automation to enable users to request someth
 
     Create or edit a catalog item using a visual and guided experience.
 
--   **[Form Builder](../../../administer/form-builder/concept/form-view-configuration.md)**
+-   **[Form Builder](form-builder-glide-family-release/form-view-configuration.md)**
 
     Visually create, configure, and customize the different form views for your users using the form editor in Form Builder.
 

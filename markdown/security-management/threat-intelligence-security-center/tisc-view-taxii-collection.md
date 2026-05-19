@@ -46,5 +46,5 @@ Role required:
 
 [Create TAXII Collection](tisc-create-taxii-collection.md)
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)
 

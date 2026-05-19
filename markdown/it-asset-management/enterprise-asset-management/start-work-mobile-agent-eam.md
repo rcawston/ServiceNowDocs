@@ -56,7 +56,7 @@ Role required:
 
 [Assign a group task to yourself using the Mobile Agent application](pick-task-from-assignment-group.md)
 
-[Record time worked on a task using the Mobile Agent application](../concept/record-time-mobile-agent-app.md)
+[Record time worked on a task using the Mobile Agent application](record-time-mobile-agent-app.md)
 
 [Initiate a request to source parts for work order tasks using the Mobile Agent application](source-parts-mobile-agent.md)
 

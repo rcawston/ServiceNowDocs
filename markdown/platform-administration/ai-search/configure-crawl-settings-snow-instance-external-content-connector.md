@@ -70,5 +70,5 @@ The ServiceNow instance external content connector is updated with your modified
 
 To retrieve content from your ServiceNow AI Platform instance using your modified crawl settings, create and run a one-time content crawl for your ServiceNow instance external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[ServiceNow instance external content connector](../concept/servicenow-instance-external-content-connector.md)
+**Parent Topic:**[ServiceNow instance external content connector](servicenow-instance-external-content-connector.md)
 

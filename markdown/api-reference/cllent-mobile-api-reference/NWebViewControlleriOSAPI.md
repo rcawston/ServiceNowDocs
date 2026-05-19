@@ -17,7 +17,7 @@ The NowWebViewController class provides functions that enable you to manage a we
 
 ![Web page load flow](../../image/mobsdk-web-start-flow.png)
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowWebViewController - loadPage\(\)
 
@@ -55,7 +55,7 @@ Updates the NowWebView theme with the specified UI theme. Use this function to u
 
 |Name|Type|Description|
 |----|----|-----------|
-|themeColors|[NowWebThemeable](../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)|Theme to update the web UI with.|
+|themeColors|[NowWebThemeable](NowWebThemeableiOSProtocol.md)|Theme to update the web UI with.|
 
 |Type|Description|
 |----|-----------|

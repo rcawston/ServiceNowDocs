@@ -43,5 +43,5 @@ Role required: trigger\_designer, flow\_designer, or admin
 10. Save the flow by clicking the save icon.
 
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

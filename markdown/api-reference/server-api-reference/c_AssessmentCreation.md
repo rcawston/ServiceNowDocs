@@ -26,7 +26,7 @@ Some of the factors that influence how the method behaves include:
 
 For example, when the method is called with only the **typeID** parameter set, the method searches for stakeholders or survey users to send invitations to. In contrast, when the method is called with the **typeID** and **userID** parameters set, it attempts to send invitations to the specified users.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AssessmentCreation - createAssessments \(String typeID, String sourceRecordID, String userID\)
 

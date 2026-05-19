@@ -43,7 +43,7 @@ Responsibility
 
 </td><td>
 
-The role or responsibility selected for this customer contact. **Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [Create account teams](../concept/configure-csm-account-teams.md).
+The role or responsibility selected for this customer contact. **Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [Create account teams](configure-csm-account-teams.md).
 
 </td></tr></tbody>
 </table>

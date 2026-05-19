@@ -33,11 +33,11 @@ If you are interested in dark theme, see [Working with the dark theme](https://r
 
 ## Create custom style classes and rules
 
-Use style classes rules in UI Builder to apply custom visual styling to UI elements by referencing CSS classes, see [Create custom style classes and rules](../task/custom-style-classes-rules.md).
+Use style classes rules in UI Builder to apply custom visual styling to UI elements by referencing CSS classes, see [Create custom style classes and rules](custom-style-classes-rules.md).
 
--   **[View experience theme](../task/view-experience-theme.md)**  
+-   **[View experience theme](view-experience-theme.md)**  
 View the theme applied to your experience. The theme sets the visual style of the experience and provides a consistent look and feel across all pages.
--   **[Create custom style classes and rules](../task/custom-style-classes-rules.md)**  
+-   **[Create custom style classes and rules](custom-style-classes-rules.md)**  
 Use style classes rules in UI Builder to apply custom visual styling to UI elements by referencing CSS classes.
 
 **Parent Topic:**[Working in UI Builder](using-ui-builder.md)

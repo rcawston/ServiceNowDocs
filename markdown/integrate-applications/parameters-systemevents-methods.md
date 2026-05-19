@@ -32,7 +32,7 @@ Learn about the various parameters of the SystemEvent connector methods in RPA D
 
 ## Configure inputs for the parameters
 
-To enter inputs for parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs for parameters, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[System Events](../concept/system-events-connector.md)
+**Parent Topic:**[System Events](system-events-connector.md)
 

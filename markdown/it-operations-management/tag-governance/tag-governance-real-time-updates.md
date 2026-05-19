@@ -26,9 +26,9 @@ You can set up cloud events processing and map a tag policy to update tags for c
 
 See the following setup instructions for cloud event processing:
 
--   [AWS events-driven discovery](aws-events-driven-discovery.md)
--   [Configure the Microsoft Azure Alert service to auto-update the CMDB](microsoft-azure-alert-driven-discovery.md#)
--   [Configure the Google Cloud's Operations Suite Logging service to auto-update the CMDB](../task/gcp-stackdriver-service.md)
+-   [AWS events-driven discovery](../discovery/aws-events-driven-discovery.md)
+-   [Configure the Microsoft Azure Alert service to auto-update the CMDB](../discovery/microsoft-azure-alert-driven-discovery.md#)
+-   [Configure the Google Cloud's Operations Suite Logging service to auto-update the CMDB](../discovery/gcp-stackdriver-service.md)
 
 Process cloud events related to changes in tags and execute tag audits on the events in real time.
 

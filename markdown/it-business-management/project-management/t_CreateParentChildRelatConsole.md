@@ -38,24 +38,24 @@ In this example, the System Readiness Assessment task is a child of the Planning
     |Indent icon \(![Indent icon](../image/demote_icon.png)\)|Makes the highlighted task a child of the task above it.|
 
 
-**Parent Topic:**[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+**Parent Topic:**[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 
 **Related topics**  
 
 
 [Open the project planning console](t_OpenPlanningConsole.md)
 
-[Planning console tasks](../reference/r_PlanningConsoleTasks.md)
+[Planning console tasks](r_PlanningConsoleTasks.md)
 
-[Client side planning console](../concept/client-side-planning-console.md)
+[Client side planning console](client-side-planning-console.md)
 
-[Gantt chart](../concept/c_GanttChart.md)
+[Gantt chart](c_GanttChart.md)
 
-[Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md)
+[Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md)
 
-[Custom columns in the planning console](../concept/custom-columns-planning-console.md)
+[Custom columns in the planning console](custom-columns-planning-console.md)
 
 [Create a dependency from the planning console](t_CreateADependency.md)
 
-[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 

@@ -20,7 +20,7 @@ Automate a multi-step process by creating a workflow with the Workflow Editor.
 Role required:
 
 -   You must have the snc\_required\_script\_writer and either the workflow\_admin or workflow\_creator role to use the Workflow Editor.
--   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
+-   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
 
 ## About this task
 
@@ -67,7 +67,7 @@ Role required:
 9.  If you make changes, click **Update**.
 
 
--   **[Workflow properties](../reference/r_WorkflowProperties.md)**  
+-   **[Workflow properties](r_WorkflowProperties.md)**  
 In the properties of a workflow, you can configure settings such as its application scope, start conditions, schedule, inputs, stages, and run time metrics. You can also view information such as the workflow author, version, and history.
 -   **[Create a workflow from a table](t_CreateAWorkflowFromATable.md)**  
 Automate a multi-step process by creating a workflow from the list view of any table that supports workflows.
@@ -75,8 +75,8 @@ Automate a multi-step process by creating a workflow from the list view of any t
 When you create a new service catalog item, you can create a new corresponding workflow at the same time.
 -   **[Create a workflow for an SLA Definition](t_CreateAWorkflowFromSLADefinition.md)**  
 Automate a multi-step process by creating a workflow from an SLA definition.
--   **[Ending workflows with multiple branches](../concept/c_EndingWorkflowsMultipleBranches.md)**  
+-   **[Ending workflows with multiple branches](c_EndingWorkflowsMultipleBranches.md)**  
 A workflow is complete when it reaches the **End** activity, even if there are still active branches of the workflow in progress. To ensure that both branches are completed, add a **Join** activity to resolve the branches.
 
-**Parent Topic:**[Workflow management](../concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](managing-workflows.md)
 

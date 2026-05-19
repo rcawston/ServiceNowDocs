@@ -42,5 +42,5 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_admin
 4.  Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

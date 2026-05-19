@@ -34,7 +34,7 @@ Role required: Accounts Payable specialist \(sn\_ap\_apm.accounts\_payable\_spec
 
 5.  Select **View plan**.![View resolution plan](../image/apo-view-resolution-plan.png)
 
-    The AI agent summarizes the exception and provides a resolution plan. For more details on the resolution plan, see [Resolution plan scenarios](../reference/resolution-plan-scenarios.md).
+    The AI agent summarizes the exception and provides a resolution plan. For more details on the resolution plan, see [Resolution plan scenarios](resolution-plan-scenarios.md).
 
 6.  Review and confirm the resolution plan.![Confirm recommendation](../image/apo-confirm-resolution-plan.png)
 

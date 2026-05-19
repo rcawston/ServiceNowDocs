@@ -56,7 +56,7 @@ Get Customer Order Characteristic Value
 Flow action that takes the customer order line Item and characteristic as input and returns a characteristic value from the customer order line item. If the characteristic is not present in the customer order line item, it returns the default value for the characteristic from the respective order line item offering.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure order fulfillment](../concept/configure-order-fulfillment.md)
+</table>**Parent Topic:**[Configure order fulfillment](configure-order-fulfillment.md)
 
 **Related topics**  
 

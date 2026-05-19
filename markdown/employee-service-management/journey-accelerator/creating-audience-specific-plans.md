@@ -17,15 +17,15 @@ Administrators can develop Journey Accelerator templates for customized plans wi
 
 Using Journey Accelerator, administrators can develop and manage templates for audience-specific transition plans. Plans include templates with stages and to-do lists. Managers can use these templates to create transition plans for their employees.
 
-For more information about different audiences, see [Audiences](../../employee-center/concept/ecpro-audience.md).
+For more information about different audiences, see [Audiences](../employee-experience-foundation/ecpro-audience.md).
 
 -   **Manage Plan Types**
 
-    Plan types are the top-level containers for stages and tasks. Administrators select a plan type and a title for the plan when configuring a specific plan. Administrators enter a meaningful title for the type of plan that they are creating so that users can easily identify the plan type, such as "IT Senior Tech Promotion." For more information about plan types, see [Create and manage Journey Accelerator plan types](../task/create-manage-ja-plans.md).
+    Plan types are the top-level containers for stages and tasks. Administrators select a plan type and a title for the plan when configuring a specific plan. Administrators enter a meaningful title for the type of plan that they are creating so that users can easily identify the plan type, such as "IT Senior Tech Promotion." For more information about plan types, see [Create and manage Journey Accelerator plan types](create-manage-ja-plans.md).
 
 -   **Manage Stage Names**
 
-    Stages are contained inside the Journey Accelerator plan. Stages contain tasks or to-do lists for managers, mentors, or employees to complete. Stage **Titles** are visible to users. Stages should have an implicitly logical order, such as a time sequence. For more information about stages, see [Create and manage Journey Accelerator stages](../task/create-manage-ja-stages.md).
+    Stages are contained inside the Journey Accelerator plan. Stages contain tasks or to-do lists for managers, mentors, or employees to complete. Stage **Titles** are visible to users. Stages should have an implicitly logical order, such as a time sequence. For more information about stages, see [Create and manage Journey Accelerator stages](create-manage-ja-stages.md).
 
 -   **Manage Task Templates**
 
@@ -33,7 +33,7 @@ For more information about different audiences, see [Audiences](../../employee-c
 
 -   **Manage Plan Configurations**
 
-    Plan configurations are based on a plan type. Plan configurations are customized for specific employee audiences. For more information about plan configurations, see [Create and manage Journey Accelerator plan configurations](../task/create-manage-ja-plan-configuration.md).
+    Plan configurations are based on a plan type. Plan configurations are customized for specific employee audiences. For more information about plan configurations, see [Create and manage Journey Accelerator plan configurations](create-manage-ja-plan-configuration.md).
 
 -   **Manage Plans**
 
@@ -46,7 +46,7 @@ For more information about different audiences, see [Audiences](../../employee-c
     -   View for manager
     -   View for employee
     -   View for mentor
-    For more information about updating the default header configurations or creating new plan header configurations, see [Customize and manage Journey Accelerator plan headers](../task/create-manage-plan-headers.md).
+    For more information about updating the default header configurations or creating new plan header configurations, see [Customize and manage Journey Accelerator plan headers](create-manage-plan-headers.md).
 
 
 From the Employee Center, managers can create customized Journey Accelerator plans that contain stages with specific to-do lists for themselves, mentors, and employees.

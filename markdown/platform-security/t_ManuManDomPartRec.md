@@ -43,5 +43,5 @@ The **Managed domain** field allows domain administrators to manually select a d
 **Related topics**  
 
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 

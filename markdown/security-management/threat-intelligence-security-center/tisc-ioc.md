@@ -25,7 +25,7 @@ The Threat Entities module provides structured records used to manage threat int
 Define and manage data classifications within TISC.
 -   **[Vulnerability Artifacts](vulnerability.md)**  
 A Vulnerability is a weakness or defect in a software or hardware component that attackers exploit. Vulnerabilities apply for STIX 2.x.
--   **[View RSS Feeds](../task/define-rss-feeds.md)**  
+-   **[View RSS Feeds](define-rss-feeds.md)**  
 A threat intelligence feed is a real-time, continuous data stream that gathers information related to cyber risks or threats. RSS Feeds provides an easy way to stay up to date with your favorite security blogs or latest cyber security news.
 -   **[Working with Reports in TISC](tisc-reports-lib-view.md)**  
 The Reports module in the Threat Intelligence Library section enables you to create, manage, and publish reports that use any intelligence available in the Threat Intelligence Library.
@@ -43,17 +43,17 @@ Use many-to-many \(M2M\) relationship records to map connections between vulnera
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](understanding-the-data-model.md)
 
 [TISC Library Objects form view](tisc-library-home-page-view.md)
 
 [Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](../task/tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](tisc-delete-lib-records.md)
 
-[Export intelligence data](../task/tisc-export-observables.md)
+[Export intelligence data](tisc-export-observables.md)
 
-[Confirm Potential Relationships from Related Records](../task/confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
 
 [Automated Correlation](automated-correlation-rules.md)
 

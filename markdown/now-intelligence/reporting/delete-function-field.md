@@ -42,5 +42,5 @@ The deactivated function field is no longer available for use in the reports on 
 
 **Note:** When you deactivate a field, the user list preference is deleted.
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](function-fields-reporting.md)
 

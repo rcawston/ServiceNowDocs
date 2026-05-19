@@ -21,7 +21,7 @@ Perform administrative duties in Delegated Development.
 
     A system administrator can assign a non-administrator user or group as a developer or deployment resource for a specific application.
 
--   [Developer and deployment permissions](../reference/developer-permissions.md)
+-   [Developer and deployment permissions](developer-permissions.md)
 
     Administrators can assign one or more developer and deployment permissions to a group or user for a specific application.
 

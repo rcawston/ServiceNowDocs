@@ -44,7 +44,7 @@ Following are the relationship types for the ArchiMate shapes. Use these arrows 
 **Related topics**  
 
 
-[ArchiMate shapes](../../reference/eaw-reference/eaw-modeling-archimate-shapes.md)
+[ArchiMate shapes](eaw-modeling-archimate-shapes.md)
 
-[Create diagram using ArchiMate shapes and add relationships](../../task/eaw-task/eaw-modeling-create-diagram-archimate.md)
+[Create diagram using ArchiMate shapes and add relationships](eaw-modeling-create-diagram-archimate.md)
 

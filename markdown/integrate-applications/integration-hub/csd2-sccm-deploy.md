@@ -24,5 +24,5 @@ This process deploys an application to a user or device through a service catalo
     ![Deployment flow specific to the provider.](../image/csd2-prvdr.png)
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md)
 

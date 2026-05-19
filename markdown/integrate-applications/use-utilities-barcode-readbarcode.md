@@ -71,5 +71,5 @@ If the component can't read the barcode, it returns an error.
     To test the component, on the **Design** tab, select **Run**.
 
 
-**Parent Topic:**[Barcode](../concept/barcode.md)
+**Parent Topic:**[Barcode](barcode.md)
 

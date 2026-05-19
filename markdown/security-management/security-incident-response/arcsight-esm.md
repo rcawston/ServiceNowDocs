@@ -47,7 +47,7 @@ The following Security Operations applications must be installed and activated f
     1.  ServiceNow Integration Hub Runtime
     2.  ServiceNow Integration Hub Action Step - REST
 
-For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../../security-incident-response/task/activate-entitled-store-app.md).
+For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 ## ArcSight ESM supported versions
 

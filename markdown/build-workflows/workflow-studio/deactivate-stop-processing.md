@@ -36,7 +36,7 @@ Although you can process an inbound email with multiple inbound email actions, y
 
 2.  Create multiple flows with an inbound email trigger.
 
-    For more information, see [Create a flow with an inbound email trigger](../../flow-designer/task/create-inbound-email-flow.md).
+    For more information, see [Create a flow with an inbound email trigger](create-inbound-email-flow.md).
 
 3.  Specify the processing order for each of the inbound email flows:
 
@@ -51,5 +51,5 @@ Although you can process an inbound email with multiple inbound email actions, y
         To end the sequence on a particular flow, leave the option selected in that flow.
 
 
-**Parent Topic:**[Create a flow with an inbound email trigger](../../flow-designer/task/create-inbound-email-flow.md)
+**Parent Topic:**[Create a flow with an inbound email trigger](create-inbound-email-flow.md)
 

@@ -37,11 +37,11 @@ Guest access configuration is applicable to the following tables in both IT Serv
 
 The ServiceNow system admin can extend guest access to other tables.
 
--   **[Authenticate guest users to initiate and import chat from Microsoft Teams](../task/authenticate-guest-start-import-chat.md)**  
+-   **[Authenticate guest users to initiate and import chat from Microsoft Teams](authenticate-guest-start-import-chat.md)**  
 Assign permissions to guest users to initiate and import chat conversations with employees from Microsoft Teams to a ServiceNow® instance for a self-configured app.
--   **[Enable authentication of guest users](../task/update-verify-app-registry-guest.md)**  
+-   **[Enable authentication of guest users](update-verify-app-registry-guest.md)**  
 Verify and update application registry values to authenticate guest users in the Microsoft Teams application to start and import chats for a self-configured app.
--   **[Enable chat access for guest users](../task/enable-guest-chat-access-st.md)**  
+-   **[Enable chat access for guest users](enable-guest-chat-access-st.md)**  
 Enable chat access for a guest user while configuring ServiceNow® for Microsoft Teams settings for a self-configured app.
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)

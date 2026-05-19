@@ -56,5 +56,5 @@ To store an Azure credential, first create an Azure credential template in the C
 13. Select **Save**.
 
 
-**Parent Topic:**[CyberArk integration configuration](../../credentials/concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 

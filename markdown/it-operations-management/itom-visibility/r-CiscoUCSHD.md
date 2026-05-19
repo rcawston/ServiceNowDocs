@@ -106,5 +106,5 @@ These relationships are created to support UCS - HD discovery.
 |cmdb\_ci\_ucs\_equipment|Contains::Contained by|cmdb\_ci\_ucs\_chassis|
 |cmdb\_ci\_server|Runs on::Runs|cmdb\_ci\_ucs\_blade|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 

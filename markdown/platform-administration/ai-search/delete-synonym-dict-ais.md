@@ -36,5 +36,5 @@ Role required: ais\_admin
 
 The selected synonym dictionary disappears from the AI Search Dictionaries list.
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](synonyms-ais.md)
 

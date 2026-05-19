@@ -45,7 +45,7 @@ The Outside maintenance schedule check box is informational and the instance set
 
 When you save a change request that is outside the maintenance schedule, a warning appears for each item \(primary or affected\). This warning also displays the planned dates that fall outside the maintenance window.
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](c_ConflictDetection.md)
 
 **Related topics**  
 
@@ -54,7 +54,7 @@ When you save a change request that is outside the maintenance schedule, a warni
 
 [Create blackout and maintenance schedules in Change Management](t_CreateBlkoutMaintSched.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](change-conflict-calendar.md)
 
 [Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
 

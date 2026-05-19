@@ -17,8 +17,8 @@ Set up language providers as part of configuring Localization Workspace. For eac
 
 ## Before you begin
 
--   Install at least one target non-English [language](../../localization/concept/exploring-system-localization.md) on your instance.
--   Configure at least one [Translation Management System](../../localization-framework/concept/tms-configuration.md) \(TMS\) in Localization Framework, or one [machine translator configuration](../../dynamic-translation/concept/integration-with-other-translation-services.md) in Dynamic Translation. From version 2.0.2, you can access these tables in [Configuration Hub in Localization Workspace](../concept/lw-configuration-hub.md)
+-   Install at least one target non-English [language](../system-localization/exploring-system-localization.md) on your instance.
+-   Configure at least one [Translation Management System](../localization-framework/tms-configuration.md) \(TMS\) in Localization Framework, or one [machine translator configuration](../dynamic-translation/integration-with-other-translation-services.md) in Dynamic Translation. From version 2.0.2, you can access these tables in [Configuration Hub in Localization Workspace](lw-configuration-hub.md)
 -   Role required: localization\_admin or admin.
 
 ## About this task
@@ -33,7 +33,7 @@ The language provider record provides granular control over the execution of eac
 
 This record also enables the calculation of the informational cost estimate.![The modal for Add new translation provider in Localization Workspace.](../image/lw-configure-translation-provider1.png)
 
-**Note:** From version 3.0.0, a Guided Tour is available to assist localization admins with the setup of a language provider. Access the guided tour by selecting the Help Center icon ![](../../../common/image/Banner_HelpIcon.png)on the [Home](../concept/lw-status-synchronization.md) screen.
+**Note:** From version 3.0.0, a Guided Tour is available to assist localization admins with the setup of a language provider. Access the guided tour by selecting the Help Center icon ![](../../../common/image/Banner_HelpIcon.png)on the [Home](lw-status-synchronization.md) screen.
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Enter the base rate charged by your third-party service provider per word or cha
 
 This rate is used to calculate the informational cost estimate.
 
-**Note:** When displayed on the Home page of Localization Workspace, the **Cost** uses a rate that is rounded up to the decimal place that is set in your **Display Value Currency** field. However, the calculation of the informational cost estimate for a translation request uses the actual rate that you have configured in Localization Workspace. The calculation does not use the currency's display value. For more information, see [Identify the FX Currency field and its display parameters](../../currency/task/fx-currency-display-parameters.md).
+**Note:** When displayed on the Home page of Localization Workspace, the **Cost** uses a rate that is rounded up to the decimal place that is set in your **Display Value Currency** field. However, the calculation of the informational cost estimate for a translation request uses the actual rate that you have configured in Localization Workspace. The calculation does not use the currency's display value. For more information, see [Identify the FX Currency field and its display parameters](../currency-administration/fx-currency-display-parameters.md).
 
 </td></tr><tr><td id="d243989e276">
 
@@ -132,5 +132,5 @@ To delete a provider, select the check box next to its label, then select the **
 
 After you have configured individual language providers, you can optionally define Language Groups. Your users save time when creating translation requests by selecting a group rather than adding each language individually. For more information see [Configure language groups](lw-configure-language-groups.md).
 
-**Parent Topic:**[Language setup in Localization Workspace](../concept/lw-language-setup.md)
+**Parent Topic:**[Language setup in Localization Workspace](lw-language-setup.md)
 

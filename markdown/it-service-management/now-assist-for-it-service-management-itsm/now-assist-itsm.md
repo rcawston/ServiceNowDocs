@@ -24,7 +24,7 @@ Use the ServiceNow® Now Assist for IT Service Management \(ITSM\) application t
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITSM application to get started](../task/configure-now-assist-for-itsm.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITSM application to get started](configure-now-assist-for-itsm.md)
 
 </td><td>
 

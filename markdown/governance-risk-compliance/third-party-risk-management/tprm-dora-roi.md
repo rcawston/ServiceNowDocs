@@ -50,5 +50,5 @@ The Digital Resilience Third-party Information Register provides the following c
 
 All RoI-related actions are performed in the **Digital resilience third-party registers** section of the Vendor Management Workspace. This workspace provides access to download/upload requests, validation tools, and master templates.
 
-For more information, see [Generate a register of information package](../task/tprm-drtp-roi-packages.md)
+For more information, see [Generate a register of information package](tprm-drtp-roi-packages.md)
 

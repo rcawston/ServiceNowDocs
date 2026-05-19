@@ -27,5 +27,5 @@ The Test Suite form contains information about one test suite.
 |Test Suite Results \(related list\)|Results from executing this test suite.|
 |Test Suite Schedules \(related list\)|Any test suite schedules that include this test suite.|
 
-**Parent Topic:**[Suites](../concept/suites-module.md)
+**Parent Topic:**[Suites](suites-module.md)
 

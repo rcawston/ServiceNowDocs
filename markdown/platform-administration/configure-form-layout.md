@@ -44,7 +44,7 @@ Role required: personalize\_form
 
 ### What to do next
 
-Through form configuration, you can also add new fields to the form, which creates columns to the table that underlies the form. See [Add and customize a field in a table](../../field-administration/task/t_CreatingNewFields.md) for more information.
+Through form configuration, you can also add new fields to the form, which creates columns to the table that underlies the form. See [Add and customize a field in a table](t_CreatingNewFields.md) for more information.
 
 ## Add a related list to a form
 

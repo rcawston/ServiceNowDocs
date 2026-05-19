@@ -31,7 +31,7 @@ With JFF, you can do the following:
     -   Work notes to comments
     When a remote task is created based on the RTD, these mapped journal fields are automatically synchronized between the provider and consumer instances. As a result, when comments or work notes are posted in one instance, they appear in the connected instance as well.
 
-    A comment-to-comment mapping is created by default in both the **Inbound** and the **Outbound** field configurations while creating a remote task definition from Service Exchange version 2.2.x. For more information, see [Create a remote task definition in Service Exchange for Providers](../task/service-bridge-v2-create-remote-tasks-defs.md).
+    A comment-to-comment mapping is created by default in both the **Inbound** and the **Outbound** field configurations while creating a remote task definition from Service Exchange version 2.2.x. For more information, see [Create a remote task definition in Service Exchange for Providers](service-bridge-v2-create-remote-tasks-defs.md).
 
     -   **Rules of journal field mapping**
 
@@ -64,7 +64,7 @@ Journal synchronization or synchronize of historical journals might not work for
 **Related topics**  
 
 
-[Create a remote task definition in Service Exchange for Providers](../task/service-bridge-v2-create-remote-tasks-defs.md)
+[Create a remote task definition in Service Exchange for Providers](service-bridge-v2-create-remote-tasks-defs.md)
 
-[Activate a remote task definition record in Service Exchange](../task/service-bridge-v2-activate-remote-task.md)
+[Activate a remote task definition record in Service Exchange](service-bridge-v2-activate-remote-task.md)
 

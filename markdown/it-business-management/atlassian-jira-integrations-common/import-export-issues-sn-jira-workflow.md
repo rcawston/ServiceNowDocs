@@ -15,7 +15,7 @@ breadcrumb: [Atlassian Jira Integration for Agile Development, Strategic Portfol
 
 Understand the workflow for the import and export of issues between Agile Development 2.0 and Jira.
 
-To export and import issues between Agile Development 2.0 and Jira, you must complete the [team integration settings](../task/project-integration-settings.md) for your Jira projects.
+To export and import issues between Agile Development 2.0 and Jira, you must complete the [team integration settings](project-integration-settings.md) for your Jira projects.
 
 ## Importing to Agile Development 2.0 from Jira
 
@@ -58,5 +58,5 @@ To export and import issues between Agile Development 2.0 and Jira, you must com
     **Note:** If your Jira instance has state transition rules, the export sync from Agile Development 2.0 to Jira might fail. For example, if a transition rule in Jira restricts a story or work item from moving directly to a **Complete** state without first passing through an **In Progress** state, and the story is marked **Complete** without that intermediate step, the sync fails.
 
 
-**Parent Topic:**[Atlassian Jira Integration for Agile Development](../concept/agile-jira-integration-overview.md)
+**Parent Topic:**[Atlassian Jira Integration for Agile Development](agile-jira-integration-overview.md)
 

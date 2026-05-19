@@ -54,7 +54,7 @@ View an overview of the sourcing event in the **Overview** tab, and other associ
 
 You can add more sourcing requests to this sourcing event by selecting **Add sourcing request**. Negotiation records are automatically created for each supplier in the sourcing request. You can add more suppliers to this sourcing event as well. For more information, see [Work on a sourcing event](work-on-a-negotiation-event.md).
 
-In compliance with fair competition laws, qualify all your suppliers in that sourcing event before you start negotiating with any of them. For more information, see [Supplier qualification](../reference/supplier-qualification.md).
+In compliance with fair competition laws, qualify all your suppliers in that sourcing event before you start negotiating with any of them. For more information, see [Supplier qualification](supplier-qualification.md).
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

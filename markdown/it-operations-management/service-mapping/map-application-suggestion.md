@@ -18,13 +18,13 @@ Map a new application service based on automatically generated suggestions. Use 
 ## Before you begin
 
 -   Service Mapping Plus must be installed. For more information, see [Install Service Mapping Plus](install-service-mapping-plus.md).
--   Confirm that the application is ready to discover and map application services. See [Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md).
+-   Confirm that the application is ready to discover and map application services. See [Application service readiness dashboard in configurable workspace](readiness-dashboard-ml.md).
 
 Role required: service\_mapping\_admin
 
 ## About this task
 
-In addition to being provided with automatically generated suggestions, you can also identify and choose an application service by using Service Fingerprints suggestions that include information about the components in the application service candidates. For more information, see [Automated Service Suggestions](../concept/auto-serv-suggest.md).
+In addition to being provided with automatically generated suggestions, you can also identify and choose an application service by using Service Fingerprints suggestions that include information about the components in the application service candidates. For more information, see [Automated Service Suggestions](auto-serv-suggest.md).
 
 ## Procedure
 
@@ -114,7 +114,7 @@ Name
 
 Pre-populated, unique name suggested for the new application service.
 
- Use this name. enter a unique name, or select **Other name suggestions** for additional options. For more information, see [Name suggestions for application service candidates](../reference/app-services-name-suggestions.md).
+ Use this name. enter a unique name, or select **Other name suggestions** for additional options. For more information, see [Name suggestions for application service candidates](app-services-name-suggestions.md).
 
 </td></tr><tr><td>
 
@@ -167,10 +167,10 @@ A specific application services group to which you want to add this service. The
 8.  Select **View map** to view the new or modified application service.
 
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 
 **Related topics**  
 
 
-[Automated Service Suggestions](../concept/auto-serv-suggest.md)
+[Automated Service Suggestions](auto-serv-suggest.md)
 

@@ -43,5 +43,5 @@ Role required: sn\_shop.shopper
 
 You’re redirected to the third-party sourcing tool to complete required actions, such as reviewing, publishing, or awarding RFx. The task closes automatically when the event is completed, or can be closed manually.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
 

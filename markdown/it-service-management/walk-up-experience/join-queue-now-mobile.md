@@ -49,5 +49,5 @@ Role required: user
     Your visit details and position in the queue are displayed on the screen.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md)
 

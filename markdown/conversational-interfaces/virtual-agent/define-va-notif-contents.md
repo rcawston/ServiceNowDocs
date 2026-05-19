@@ -207,5 +207,5 @@ Image alt text
 -   To configure a delivery channel, see [Configure a delivery channel for Virtual Agent notification](configure-delivery-channel.md).
 -   If you're creating an actionable notification, see [Define the actions](define-va-notif-actions.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](configuring-va-notifications.md)
 

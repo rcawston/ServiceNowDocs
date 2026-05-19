@@ -40,5 +40,5 @@ Up to three levels of cascaded records are deleted when the job is executed. For
 
 [Schedule or execute a job to delete records](schedule-execute-job-delete-records.md)
 
-**Parent Topic:**[Deleting records safely in Core UI](../concept/deleting-records-safely.md)
+**Parent Topic:**[Deleting records safely in Core UI](deleting-records-safely.md)
 

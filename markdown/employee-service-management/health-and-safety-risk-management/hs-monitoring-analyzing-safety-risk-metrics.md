@@ -21,8 +21,8 @@ For any selected period and location, you can drill down into detailed data for 
 
 ## Prerequisites
 
--   Ensure that Health and Safety Risk Management and Health and Safety Incident Management applications are installed. For more information, see [Install Health and Safety Risk Management](../task/install-hs-risk-mgmt.md).
--   Run the **\[OHS\] Safety Metrics** scheduled job to update the safety metrics on demand. For more information, see [Configure scheduled job to generate frequency rates](../../ohs-incident-management/task/configure-job-generate-frequency-rates.md).
+-   Ensure that Health and Safety Risk Management and Health and Safety Incident Management applications are installed. For more information, see [Install Health and Safety Risk Management](install-hs-risk-mgmt.md).
+-   Run the **\[OHS\] Safety Metrics** scheduled job to update the safety metrics on demand. For more information, see [Configure scheduled job to generate frequency rates](../health-and-safety-core/configure-job-generate-frequency-rates.md).
 
     **Note:** The **\[OHS\] Safety Metrics** job is set to run daily by default.
 

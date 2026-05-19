@@ -150,11 +150,11 @@ Activities
 
 This field only appears for the Lifecycle Events application. The HR Service Activities the group manages. The HR Service Activities are part of the Activity Set and together make up a Lifecycle Event. Only members of this group can update this HR Service Activity.
 
-Refer to [Configure a lifecycle event activity](configure-hr-lifecycle-event-activity.md#).
+Refer to [Configure a lifecycle event activity](../lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](c_ManageRoles.md)
 

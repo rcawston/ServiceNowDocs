@@ -21,7 +21,7 @@ Remove members or equipment from your planned crew so they can be assigned to ot
 
 ### Before you begin
 
-To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../asset-management-for-field-service/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 
@@ -42,7 +42,7 @@ Remove members or equipment from a task crew so they can be assigned to other cr
 
 ### Before you begin
 
-To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../asset-management-for-field-service/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 

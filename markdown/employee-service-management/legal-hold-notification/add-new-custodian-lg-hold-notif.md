@@ -105,5 +105,5 @@ In the **Tasks** tab, the state of the task changes from Draft to Assigned.
 
 In the **Artifacts** tab, the legal hold notice sent to the custodian is automatically attached.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

@@ -27,7 +27,7 @@ The Digital End-User Experience \(DEX\) Insights tab provides reports on the use
 Custom insights report gives you an ability to create a custom insights report for metrics collected across your digital space.
 -   **[Applications list](application-form.md)**  
 It provides details about an application, including its Name and classification as either an installed or Web-based application, counts of alerts and incidents, and Impacted devices.
--   **[Application and Device Health usage monitoring](../concept/adh-monitoring.md)**  
+-   **[Application and Device Health usage monitoring](adh-monitoring.md)**  
 You can monitor how your end users are using application health and device health.
 -   **[Devices list](devices-form.md)**  
 The Devices page provides information on your organization devices, the device assigned user, last login, matching assignments, status, active alerts, and incidents.
@@ -39,10 +39,10 @@ The administration cards provide you with the capability to monitor and manage a
 DEX Metrics analyzer provides you with an ability to look up metrics collected for specific devices and applications.
 -   **[New DEX event form](new-dex-event-form.md)**  
 The New record form for DEX event monitoring enables you to add events to monitor.
--   **[Metrics monitored by DEX for Zoom](../Zoom-calls-monitoring/metrics-monitored-by-dex-for-zoom.md)**  
+-   **[Metrics monitored by DEX for Zoom](metrics-monitored-by-dex-for-zoom.md)**  
 View the zoom metrics that appear in Summary and call quality metrics tabs.
 -   **[Zoom call quality metrics on the Details page](call-quality-metrics-monitored-by-dex-for-zoom.md)**  
 View the granular call quality metrics for on the **Details** page.
 
-**Parent Topic:**[Digital End-User Experience reference](../concept/dex-reference.md)
+**Parent Topic:**[Digital End-User Experience reference](dex-reference.md)
 

@@ -31,7 +31,7 @@ DEX Content Playbook typically includes web or installed application monitoring,
 
 For a unified monitoring workspace and relevant content \(policies, check definitions, and actions\), refer to Application and Device Health and DEX Content Playbook.
 
-The Digital Experience Score​ dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](../../dex-score/concept/dexscr-digital-experience-score.md).
+The Digital Experience Score​ dashboard provides comprehensive insight into the digital experience of your employees by analyzing three key data sources: monitored metrics from end-user devices, user sentiment, and service desk experience. For more information, see [Digital Experience Score​](../digital-experience-score/dexscr-digital-experience-score.md).
 
 Proactive Engagement can assist your organization to improve employee productivity and satisfaction by proactively detecting digital experience issues and enabling employees to self-solve on a day-to-day basis.
 
@@ -51,7 +51,7 @@ Proactive Engagement can assist your organization to improve employee productivi
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the DEX Workspace administration.](../reference/dex-console-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about the DEX Workspace administration.](dex-console-reference.md)
 
 </td></tr><tr><td>
 

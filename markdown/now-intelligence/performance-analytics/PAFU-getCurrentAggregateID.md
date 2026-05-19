@@ -47,7 +47,7 @@ if(pa.getCurrentAggregateID() == '89ea4c11d7001100ba986f14ce6103dc')
 res;
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -72,5 +72,5 @@ res;
 
 [getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

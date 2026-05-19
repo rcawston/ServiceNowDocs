@@ -31,7 +31,7 @@ The graphs show important statistics about the software being tracked, including
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin roles](../reference/r_SoftwareAssetManagementRoles.md)
+[Legacy Software Asset Management plugin roles](r_SoftwareAssetManagementRoles.md)
 
-[Installed with the legacy Software Asset Management plugin](../reference/r_InstalledWithSoftwareAssetMgmt.md)
+[Installed with the legacy Software Asset Management plugin](r_InstalledWithSoftwareAssetMgmt.md)
 

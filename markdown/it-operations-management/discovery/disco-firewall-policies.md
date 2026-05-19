@@ -64,5 +64,5 @@ Administrators in charge of Discovery can establish a recurring schedule for Pal
 7.  Right-click the header and select **Save**.
 
 
-**Parent Topic:**[Visibility to Firewall inventory](../concept/use-firewall-audit-rep.md)
+**Parent Topic:**[Visibility to Firewall inventory](use-firewall-audit-rep.md)
 

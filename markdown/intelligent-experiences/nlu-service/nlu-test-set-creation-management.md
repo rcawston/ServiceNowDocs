@@ -17,7 +17,7 @@ Use the default test set of your NLU model to test the model's performance and a
 
 Embedded video: Test set management in NLU Workbench
 
-**Note:** To test your model, install the ServiceNow® Store application NLU Workbench - Advanced Features. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md).
+**Note:** To test your model, install the ServiceNow® Store application NLU Workbench - Advanced Features. For more information, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md).
 
 When you create an NLU model for Virtual Agent or AI Search, a default test set is created and associated to the model. You can use the default test set to evaluate the model’s performance. Initially the test set is empty, ready to be populated with your content.
 
@@ -64,7 +64,7 @@ To use the test set in Multi-model Batch Testing, see [Multi-model Batch Testing
 
 When an instance is upgraded, default test sets are created for any existing models that don't already have them.
 
-When you copy a model using **Duplicate this model**, the original's default test set is copied into the new model. For more information, see [Duplicate an NLU model](../task/clone-nlu-model.md).
+When you copy a model using **Duplicate this model**, the original's default test set is copied into the new model. For more information, see [Duplicate an NLU model](clone-nlu-model.md).
 
 The utterances in the test set shouldn't be the same as the utterances in the training set.
 
@@ -82,6 +82,6 @@ Default test sets can be downloaded or moved as follows.
 
     **Note:** Test sets that are downloaded from **Download test set** contain test utterances and their expected intents, but not the sources.
 
--   Default test sets can be moved with update sets. When you add an NLU model to an update set, its default test set is added, including test utterances, expected intents, and sources. For more information, see [Add an NLU model to an update set](../task/add-model-update-set.md).
--   When using the **Export model as CSV** function in the **All existing models** table, the default test set is not included. For more information, see [Export an NLU model](../task/export-nlu-model.md).
+-   Default test sets can be moved with update sets. When you add an NLU model to an update set, its default test set is added, including test utterances, expected intents, and sources. For more information, see [Add an NLU model to an update set](add-model-update-set.md).
+-   When using the **Export model as CSV** function in the **All existing models** table, the default test set is not included. For more information, see [Export an NLU model](export-nlu-model.md).
 

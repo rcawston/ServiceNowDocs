@@ -73,5 +73,5 @@ You can activate the notifications specific to Contract Management Pro approval 
 
 The approval notifications for Contract Management Pro are activated and the default system notifications are stopped for contract revision approval.
 
-**Parent Topic:**[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+**Parent Topic:**[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

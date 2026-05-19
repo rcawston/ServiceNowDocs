@@ -41,7 +41,7 @@ Role required: sn\_matrix\_report.admin
 
 8.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix relationship form](../../grc-workspace-audit/reference/matrix-rel-audit-report-ws.md).
+    For a description of the field values, see [Matrix relationship form](../audit-management/matrix-rel-audit-report-ws.md).
 
 9.  Select **Submit**.
 
@@ -52,7 +52,7 @@ Role required: sn\_matrix\_report.admin
 
 ## What to do next
 
-After the matrix relationship is complete, you can [Configure target table fields as columns for matrix report](../../grc-workspace-audit/task/matrix-report-relationship-audit-ws.md).
+After the matrix relationship is complete, you can [Configure target table fields as columns for matrix report](../audit-management/matrix-report-relationship-audit-ws.md).
 
-**Parent Topic:**[Matrix report in Risk Workspace](../concept/matrix-report-in-risk-workspace.md)
+**Parent Topic:**[Matrix report in Risk Workspace](matrix-report-in-risk-workspace.md)
 

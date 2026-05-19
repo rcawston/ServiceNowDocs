@@ -93,5 +93,5 @@ Display name of the workflow transition in Jira.**Note:** In case there is no tr
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter correct values for all fields and validate again.
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 

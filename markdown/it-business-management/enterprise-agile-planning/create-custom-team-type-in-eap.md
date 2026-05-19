@@ -29,7 +29,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Team type form](../reference/team-type-form-in-eap.md).
+    For field information, see [Team type form](team-type-form-in-eap.md).
 
 4.  Deselect the **Create module** check box.
 

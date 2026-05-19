@@ -39,7 +39,7 @@ The scheduled job removes these two legacy auto-complete suggestion types from t
 -   Suggested Query Reader Group for \[AIS\] Next Experience Search Configuration
 -   Suggested Result Reader Group for \[AIS\] Next Experience Search Configuration
 
-To learn more about auto-complete suggestion types in AIS applications, see [Auto-complete suggestions in AI Search applications](../concept/auto-complete-ais.md#).
+To learn more about auto-complete suggestion types in AIS applications, see [Auto-complete suggestions in AI Search applications](auto-complete-ais.md#).
 
 ## Procedure
 
@@ -64,5 +64,5 @@ The scheduled job removes these auto-complete suggestion types from the **\[AIS\
 
 Global search uses the updated set of auto-complete suggestion types.
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

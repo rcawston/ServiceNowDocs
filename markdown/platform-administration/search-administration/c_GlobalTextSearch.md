@@ -38,15 +38,15 @@ Global search filters and groups matching results by table. You can configure se
 When your search exactly matches the **Number** field value for a record, global search takes you directly to that record, bypassing the search results page.
 -   **[Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)**  
 When you select the empty Unified Navigation search field, the system displays lists showing your most recent search queries and your most recently viewed search results. Select a **Recently Searched** query to repeat it, or select a **Recently Viewed** search result record to navigate to it.
--   **[Set global text search properties](../task/set-global-text-search-properties.md)**  
+-   **[Set global text search properties](set-global-text-search-properties.md)**  
 Administrators can control how global text search behaves with system properties.
--   **[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)**  
+-   **[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)**  
 Override the default limit of 5 preview results per search source on the Next Experience UI search results page for global or workspace search.
--   **[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)**  
+-   **[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)**  
 Suppress display of per-table search result counts in the Next Experience UI search results page.
--   **[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)**  
+-   **[Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)**  
 Enable users to view results for their Unified Navigation searches in workspace applications as well as in global search.
--   **[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)**  
+-   **[Global text search suggestions](r_GlobalTextSearchSuggestions.md)**  
 Global text search offers two types of search suggestions.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -54,7 +54,7 @@ Global text search offers two types of search suggestions.
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -76,7 +76,7 @@ Global text search offers two types of search suggestions.
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 
 [Keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md)
 

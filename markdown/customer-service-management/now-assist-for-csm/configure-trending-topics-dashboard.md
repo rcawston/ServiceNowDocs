@@ -79,5 +79,5 @@ Trending topics dashboard is generated from the information that you enter in th
 **Related topics**  
 
 
-[View trending topics dashboard](../concept/view-trending-topics-dashboard.md)
+[View trending topics dashboard](view-trending-topics-dashboard.md)
 

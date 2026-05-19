@@ -17,10 +17,10 @@ Configure scenario planning in strategic planning to create and compare multiple
 
 1.  Enable or disable scenario planning.
 
-    For more information, see [Enable or disable scenario planning in Strategic Planning](../task/enable-scenario-planning-in-strategic-planning.md).
+    For more information, see [Enable or disable scenario planning in Strategic Planning](enable-scenario-planning-in-strategic-planning.md).
 
 2.  Manage financial widgets in compare scenarios page.
 
-    For more information on how to add and manage widgets to the comparison view, see [Configure financial widgets in compare scenario](../task/config-compare-scenario-fin-widgets-spw.md).
+    For more information on how to add and manage widgets to the comparison view, see [Configure financial widgets in compare scenario](config-compare-scenario-fin-widgets-spw.md).
 
 

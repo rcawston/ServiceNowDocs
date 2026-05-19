@@ -50,5 +50,5 @@ Business rules for the new source table:
     -   Sync up team info on delete
     -   Sync up team info on update
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

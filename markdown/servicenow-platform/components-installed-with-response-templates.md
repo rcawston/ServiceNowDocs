@@ -125,5 +125,5 @@ Maps notes to response templates.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TableAdministration.md).
 
-**Parent Topic:**[Activate response templates](../task/activate-templated-snippets.md)
+**Parent Topic:**[Activate response templates](activate-templated-snippets.md)
 

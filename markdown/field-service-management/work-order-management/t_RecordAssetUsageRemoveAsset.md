@@ -41,7 +41,7 @@ Role required: wm\_agent
     -   If the model is non-consumable, select the asset that is listed in the **Asset** field.
 6.  In the **Drop off stockroom** field, select the drop-off location where you want to drop-off the asset.
 
-    To learn more about the drop-off list, see [Using drop off lists](../concept/c_UseDropOffLists.md).
+    To learn more about the drop-off list, see [Using drop off lists](c_UseDropOffLists.md).
 
 7.  In the **Removed part status** field, select the status of the part that you want to remove.
 

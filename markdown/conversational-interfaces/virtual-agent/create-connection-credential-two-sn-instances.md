@@ -78,7 +78,7 @@ Role required: admin
 -   **[Create a connection and credential in Virtual Agent Bot Interconnect](create-connection-credential-two-sn-instances-uploading-attachments.md)**  
 Create a connection and credential in Virtual Agent Bot Interconnect \(primary instance\) to enable uploading of attachments in the secondary bot.
 
-**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-sn-secondary-bot-with-sn-primary.md)
+**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
 **Previous topic:**[Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](enable-async-mode-secondary-sn-bot.md)
 

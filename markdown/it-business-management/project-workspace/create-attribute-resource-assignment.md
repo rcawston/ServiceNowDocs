@@ -21,7 +21,7 @@ Role required: pps\_admin or it\_project\_manager
 
 ## Procedure
 
-1.  [Create a planning attribute](../../project-management/task/configure-planning-attributes.md#).
+1.  [Create a planning attribute](../project-management/configure-planning-attributes.md#).
 
     **Note:** If the assignment is attribute-based, then the assignment is created in the Unassigned state. You should have the pps\_admin role to configure the planning attributes.
 

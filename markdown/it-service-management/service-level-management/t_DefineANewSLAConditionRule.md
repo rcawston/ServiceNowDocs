@@ -75,5 +75,5 @@ SLAConditionLocal.prototype = Object.extendsObject(SLAConditionBase, {
 });
 ```
 
-**Parent Topic:**[Extend SLA condition rules](../concept/c_ExtendSLAConditionRules.md)
+**Parent Topic:**[Extend SLA condition rules](c_ExtendSLAConditionRules.md)
 

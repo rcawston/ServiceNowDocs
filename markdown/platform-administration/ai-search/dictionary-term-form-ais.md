@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Dictionary Term form contains information about individual typo handling, stop word, and synonym terms defined for AI Search. Use this form when creating or modifying a typo handling entry, a stop word, or a synonym in dictionaries linked to your search profiles.
 
-For more details on creating or modifying dictionary terms, see [Exclude a term from a typo handling dictionary](../task/exclude-typo-handling-terms-ais.md), [Create stop words](../task/create-stop-word-ais.md), and [Create synonyms](../task/create-synonym-ais.md).
+For more details on creating or modifying dictionary terms, see [Exclude a term from a typo handling dictionary](exclude-typo-handling-terms-ais.md), [Create stop words](create-stop-word-ais.md), and [Create synonyms](create-synonym-ais.md).
 
 <table id="ais-dictionary-term-stop-word-table"><thead><tr><th>
 
@@ -86,5 +86,5 @@ Application
 Application scope for the dictionary term. This field only displays when editing a typo handling or stop word term, and is automatically set.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

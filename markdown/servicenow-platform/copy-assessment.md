@@ -30,5 +30,5 @@ All associated questions \(type\), configurations, categories, metrics, domain s
 3.  In the title bar, click **Copy**, or click the menu icon, and select **Copy**.
 
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

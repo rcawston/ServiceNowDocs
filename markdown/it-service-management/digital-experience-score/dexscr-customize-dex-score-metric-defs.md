@@ -45,21 +45,21 @@ Role required: sn\_dex\_score.digital\_workplace\_leader, sn\_dex.admin
 
 5.  On the form, customize the remaining fields.
 
-    For a description of the field values, see [Metric definition form](../reference/dexscr-dex-metric-def-form.md).
+    For a description of the field values, see [Metric definition form](dexscr-dex-metric-def-form.md).
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](dexscr-configuring-dex-score.md)
 
 **Related topics**  
 
 
 [Define qualitative mapping for a DEX Score metric](dexscr-define-qlty-metric-score-mapping.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](dexscr-dex-score-defs.md)
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](dexscr-dex-score-normalization.md)
 

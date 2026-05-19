@@ -39,7 +39,7 @@ These functions include:
 
 For additional information on widgets, see [Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## spUtil - addErrorMessage\(String message\)
 

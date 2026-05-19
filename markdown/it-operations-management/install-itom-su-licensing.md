@@ -30,7 +30,7 @@ The following items are installed with ITOM/OT SU Licensing:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with ITOM/OT SU Licensing](../reference/components-installed-with-itom-su-licensing.md).
+For more information, see [Components installed with ITOM/OT SU Licensing](components-installed-with-itom-su-licensing.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For more information, see [Components installed with ITOM/OT SU Licensing](../re
 6.  Select the version you want to upgrade to and select **Install**.
 
 
-**Parent Topic:**[Configuring ITOM/OT SU Licensing](../concept/configure-itom-licensing.md)
+**Parent Topic:**[Configuring ITOM/OT SU Licensing](configure-itom-licensing.md)
 

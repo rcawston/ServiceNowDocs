@@ -43,5 +43,5 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 -   View a successfully generated project from Analyst workbench.
 -   Navigate to **All** &gt; **Process Mining** &gt; **Scheduled Jobs** &gt; **All Jobs** to view scheduled process mining jobs.
 
-**Parent Topic:**[Create a project using Classic view](../task/create-proj.md)
+**Parent Topic:**[Create a project using Classic view](create-proj.md)
 

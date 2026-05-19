@@ -79,7 +79,7 @@ Channels
 
 </td><td>
 
-Channel that must be used to compose and sent communication messages. Possible options are:-   DEX Desktop Assistant: Compose and send the notification message through DEX Desktop Assistant. For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../../digital-end-user-experience/concept/use-dex-desktop-exp.md).
+Channel that must be used to compose and sent communication messages. Possible options are:-   DEX Desktop Assistant: Compose and send the notification message through DEX Desktop Assistant. For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../digital-end-user-experience-dex/use-dex-desktop-exp.md).
 -   Email – Compose and send the communication message as an email.
 -   SMS – Compose and send the communication message as SMS.
 -   Microsoft Teams notification - Compose and send communication messages as Microsoft Teams notifications.
@@ -102,5 +102,5 @@ User, user groups, or list of recipients to whom the communication message must 
     -   If the **Compose and sent communication** field is set to **Later**, select **Save**. The communication task is saved and displayed in the list of communication tasks on the **Communicate** tab.
     -   If the **Compose and sent communication** field is set to **Now**, select **Compose communication** to compose your messages within your selected communication channels. The communication task record opens on a new tab within the incident view. For more information, see [Compose communications for incidents and major incidents](compose-communication-mim-sow.md).
 
-**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](../concept/communicating-with-stakeholders-sow.md)
+**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](communicating-with-stakeholders-sow.md)
 

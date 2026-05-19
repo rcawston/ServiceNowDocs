@@ -26,10 +26,10 @@ The Create Physical Connection form enables you to review, create, and modify th
 |Z end Interface|Ending network interface where this physical connection is configured.|
 |Bandwidth|Bandwidth of this physical connection.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design and assign GPON broadband service](../concept/gpon-broadband-service.md)
+[Design and assign GPON broadband service](gpon-broadband-service.md)
 

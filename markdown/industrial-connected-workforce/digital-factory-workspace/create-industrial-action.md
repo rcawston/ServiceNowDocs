@@ -29,7 +29,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 2.  On the Action form, fill in the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form.md).
+    For a description of the field values, see [Action form](action-form.md).
 
 3.  Select **Save**.
 
@@ -38,5 +38,5 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 The new action is displayed in the action list and the list of all tasks.
 
-**Parent Topic:**[Action Management](../concept/industrial-action-management.md)
+**Parent Topic:**[Action Management](industrial-action-management.md)
 

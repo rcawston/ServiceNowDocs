@@ -19,5 +19,5 @@ See the [DataDirect SQL Reference](http://media.datadirect.com/download/docs/ope
 
 **Note:** The ServiceNow ODBC driver only supports `SELECT` statements. The driver ignores other SQL statements such as `CREATE` and `ALTER`.
 
-**Parent Topic:**[Use Interactive SQL with ODBC](../task/t_UsingInteractiveSQLWithODBC.md)
+**Parent Topic:**[Use Interactive SQL with ODBC](t_UsingInteractiveSQLWithODBC.md)
 

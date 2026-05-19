@@ -130,7 +130,7 @@ Default Grant type
 Refers to the default method used by an OAuth 2.0 authorization server to grant access tokens to client applications.
 
 </td></tr></tbody>
-</table>To return to the OAuth details page, see [Configure Open Authorization details](../task/configure-oauth-details.md).
+</table>To return to the OAuth details page, see [Configure Open Authorization details](configure-oauth-details.md).
 
 **Parent Topic:**[DEX Desktop Assistant reference](dex-desktop-experience-reference.md)
 

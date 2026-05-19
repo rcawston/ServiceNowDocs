@@ -151,5 +151,5 @@ Organize the delegation rules into categories to make delegating large batches o
 
 Delegate assigned tasks for a specific period of time. See [Create a delegate](create-delegation-admin.md).
 
-Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](../concept/granular-delegation-use.md#).
+Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](granular-delegation-use.md#).
 

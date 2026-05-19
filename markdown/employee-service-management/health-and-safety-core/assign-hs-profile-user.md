@@ -21,7 +21,7 @@ Role required: sn\_ohs\_im.hs\_profile\_writer
 
 ## About this task
 
-For more information on Health and Safety user profiles, see [Health and Safety user profile](../concept/health-and-safety-user-profile.md).
+For more information on Health and Safety user profiles, see [Health and Safety user profile](health-and-safety-user-profile.md).
 
 **Note:** The **Generate Health And Safety Profiles** scheduled job runs weekly and automatically creates health and safety user profiles for users \[sys\_user\] with an assigned role in any of the Health and Safety applications.
 
@@ -37,7 +37,7 @@ For more information on Health and Safety user profiles, see [Health and Safety 
 
 5.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety profile form](../reference/hs-health-safety-profile-form.md).
+    For information on form field descriptions, see [Health and Safety profile form](hs-health-safety-profile-form.md).
 
 6.  Select **Save**.
 
@@ -47,12 +47,12 @@ For more information on Health and Safety user profiles, see [Health and Safety 
 -   The user is listed in the **Health and safety profile** list under **Configuration** on the Health and Safety Workspace.
 -   The user profile is saved in the Health and Safety profile \[sn\_ohs\_im\_health\_and\_safety\_profile\] table.
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Workplace location data](configure-hs-workplace-location-data.md)
 
@@ -66,5 +66,5 @@ For more information on Health and Safety user profiles, see [Health and Safety 
 
 [Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

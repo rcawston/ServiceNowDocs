@@ -55,7 +55,7 @@ API key
 </td><td>
 
 -   For Jira Cloud, enter the API token that you generated. For more information, see .
--   For Jira Server/Data Center, enter the PAT that you generated. For more information, see [Create Personal Access Token in Jira Server/Data Center for SPW Jira Integrations](../task/create-personal-access-token-pat-in-jira-server-data-center.md).
+-   For Jira Server/Data Center, enter the PAT that you generated. For more information, see [Create Personal Access Token in Jira Server/Data Center for SPW Jira Integrations](create-personal-access-token-pat-in-jira-server-data-center.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
@@ -63,5 +63,5 @@ API key
 **Related topics**  
 
 
-[Create connection and credentials for SPW Jira Integrations](../task/create-connection-and-credentials.md)
+[Create connection and credentials for SPW Jira Integrations](create-connection-and-credentials.md)
 

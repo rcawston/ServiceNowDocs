@@ -34,24 +34,24 @@ The ServiceNow® Customer Service Management enables you to provide the service 
 
 </td><td>
 
-[Analyze ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Access preconfigured dashboards with actionable data visualizations to monitor and improve your service.](analytics-reporting-csm.md)
+[Analyze ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Access preconfigured dashboards with actionable data visualizations to monitor and improve your service.](analytics-and-reporting-solutions-for-customer-service/analytics-reporting-csm.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about Customer Service Management cases, including the lists, forms, rules, components, parameters, roles, and personas.](../reference/csm-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about Customer Service Management cases, including the lists, forms, rules, components, parameters, roles, and personas.](csm-reference.md)
 
 </td><td>
 
-[Allocate ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Use workforce optimization to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.](../../workforce-optimization-for-customer-service-configurable/concept/configurable-wfo-cs.md)
+[Allocate ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Use workforce optimization to efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.](workforce-optimization-for-customer-service/configurable-wfo-cs.md)
 
 </td><td>
 
-[Automate![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](now-assist-csm.md)
+[Automate![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](now-assist-for-csm/now-assist-csm.md)
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [Customer Service Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/customer-service-mgmt-rn-landing.md).
+-   Learn more about what's new and changed, see the [Customer Service Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/customer-service-mgmt-rn-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Customer Service Management features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

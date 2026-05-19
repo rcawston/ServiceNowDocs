@@ -64,7 +64,7 @@ Role required: sn\_sec\_tisc.analyst
 
 The product identifier record is created and appears in the **Product Identifiers** related records of the **Product**.
 
-**Parent Topic:**[Vulnerability Artifacts](../concept/vulnerability.md)
+**Parent Topic:**[Vulnerability Artifacts](vulnerability.md)
 
 **Related topics**  
 

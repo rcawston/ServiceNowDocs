@@ -28,5 +28,5 @@ The following table lists automated email notifications that trigger at key even
 |Release task rejected|Notifies when the release task approval request is rejected.|Task approval request is rejected|Release owner|
 |Release task approval request|Notifies to review and approve or reject the release task request.|Task approval request submitted|Approver|
 
-**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

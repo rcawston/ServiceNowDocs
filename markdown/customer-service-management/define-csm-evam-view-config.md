@@ -122,7 +122,7 @@ Custom fields to display on the EVAM view configuration. This is a comma-separat
 **Related topics**  
 
 
-[Configure dynamic related records](../concept/dynamic-related-records-configure.md)
+[Configure dynamic related records](dynamic-related-records-configure.md)
 
 [Configure related record definitions](configure-related-record-definitions.md)
 

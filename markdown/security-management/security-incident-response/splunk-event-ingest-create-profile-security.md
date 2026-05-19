@@ -43,8 +43,8 @@ All notables are initially ingested for a configured correlation search type in 
 
     There’s a one-to-one relationship between notable events that are ingested with a profile and connections to your Splunk ES console: one notable event type for one connection.
 
-4.  To create profiles for scheduled notable events, see [Set up a profile for scheduled notable event ingestion](../concept/splunk-event-scheduled-security.md).
+4.  To create profiles for scheduled notable events, see [Set up a profile for scheduled notable event ingestion](splunk-event-scheduled-security.md).
 
-5.  To create profiles for manual event forwarding, see [Set up a profile for manual event forwarding](../concept/splunk-event-manual-security.md).
+5.  To create profiles for manual event forwarding, see [Set up a profile for manual event forwarding](splunk-event-manual-security.md).
 
 

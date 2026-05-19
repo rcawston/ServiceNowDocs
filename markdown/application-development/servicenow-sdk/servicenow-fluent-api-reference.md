@@ -35,7 +35,7 @@ The Cross-Scope Privilege API defines cross-scope privileges \[sys\_scope\_privi
 The Dashboard API defines dashboards \[par\_dashboard\] for organizing and sharing data visually.
 -   **[Email Notification API - ServiceNow Fluent](fluent-email-notification-api.md#)**  
 The Email Notification API defines notifications \[sysevent\_email\_action\] that send automated emails based on database operations, custom events, or manual triggers.
--   **[Flow API - ServiceNow Fluent](fluent-flow-api.md#)**  
+-   **[Flow API - ServiceNow Fluent](../application-development/fluent-flow-api.md#)**  
 The Flow API defines flows and subflows \[sys\_hub\_flow\], which automate business processes with reusable multiple-step components.
 -   **[Import Sets API - ServiceNow Fluent](fluent-import-sets-api.md#)**  
 The Import Sets API defines transform maps \[sys\_transform\_map\] that specify how to transform and map data from the import set staging table to target tables.
@@ -70,10 +70,10 @@ The UI Policy API defines user interface \(UI\) policies \[sys\_ui\_policy\] tha
 -   **[Workspace API - ServiceNow Fluent](fluent-workspace-api.md#)**  
 The Workspace API defines configurable workspace experiences for organizing and sharing data visually.
 
-**Parent Topic:**[ServiceNow SDK reference](../concept/servicenow-sdk-reference.md)
+**Parent Topic:**[ServiceNow SDK reference](servicenow-sdk-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 

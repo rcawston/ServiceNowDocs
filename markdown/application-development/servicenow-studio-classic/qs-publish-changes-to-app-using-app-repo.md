@@ -21,7 +21,7 @@ Role required: admin or delegated\_developer
 
 ## About this task
 
-The App Repo is one deployment option available in ServiceNow. You can also [create update sets](qs-create-update-set.md) to publish changes. If your company has a deployment pipeline configured, you can deploy changes through the pipeline in ServiceNow Studio. For more information about the App Repo, see [ServiceNow application repository](../../applications/concept/app-repo.md).
+The App Repo is one deployment option available in ServiceNow. You can also [create update sets](qs-create-update-set.md) to publish changes. If your company has a deployment pipeline configured, you can deploy changes through the pipeline in ServiceNow Studio. For more information about the App Repo, see [ServiceNow application repository](../application-repository-self-hosted/app-repo.md).
 
 ## Procedure
 

@@ -57,7 +57,7 @@ Network health
 -   VPN connectivity
 
 </td></tr></tbody>
-</table>For category configuration information, see [Configure DEX Self-service categories and subcategories](../task/configuring-dex-self-service-categories.md).
+</table>For category configuration information, see [Configure DEX Self-service categories and subcategories](configuring-dex-self-service-categories.md).
 
 ## Issue configurations
 

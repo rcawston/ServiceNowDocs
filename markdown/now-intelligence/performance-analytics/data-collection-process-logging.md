@@ -25,15 +25,15 @@ The Admin Console also provides daily, weekly, and monthly overviews of data col
 
 -   **[Optimizing data collection](optimized-data-collection.md)**  
 The optimized Performance Analytics data collector reduces the time, memory, and CPU usage for processing large data sets.
--   **[View a data collection job event](../task/t_ViewingADataCollectionJobEvent.md)**  
+-   **[View a data collection job event](t_ViewingADataCollectionJobEvent.md)**  
 Job events show which jobs have been executed for Performance Analytics and which actions have been triggered in your ServiceNow instance, such as notifications or business rules.
--   **[View the data collection job logs](../task/t_ViewingADataCollectionJobLog.md)**  
+-   **[View the data collection job logs](t_ViewingADataCollectionJobLog.md)**  
 Job logs display information about the data collection jobs that have run for Performance Analytics. You can view job logs, create events, and view and edit the event registry. The list view displays all log entries, unless filtered.
--   **[Log details for optimized data collector](../reference/log-details-optimized-dc.md)**  
+-   **[Log details for optimized data collector](log-details-optimized-dc.md)**  
 Starting with the Tokyo release, a new, optimized data collector is available. The log details for this data collector differ from the log details of the classic data collector.
--   **[Log details for classic data collector](../reference/original-data-collection-process.md)**  
+-   **[Log details for classic data collector](original-data-collection-process.md)**  
 Performance Analytics score collection follows the process described here. To aid troubleshooting, a mapping between job steps and log entries is provided.
--   **[View data collection usage](../task/view-data-collection-usage-statistics.md)**  
+-   **[View data collection usage](view-data-collection-usage-statistics.md)**  
 To view statistics about data collection jobs, click **Data Collection Overview** in the Usage tile on the Performance Analytics Admin Console.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)

@@ -31,9 +31,9 @@ Various base model categories are available for you to choose from. The top tier
 -   Wearable
 -   Multimedia production equipment
 
-For the complete list of available model categories and their corresponding CMDB CI, asset, and model classes, see [Enterprise model categories and corresponding classes](../reference/enterprise-model-categories.md).
+For the complete list of available model categories and their corresponding CMDB CI, asset, and model classes, see [Enterprise model categories and corresponding classes](enterprise-model-categories.md).
 
-**Note:** If you do not wish to use any of the existing sub-categories within a top tier model category, you can create your own sub-categories. See [Create model categories](../task/create-custom-model-category.md) for detailed instructions.
+**Note:** If you do not wish to use any of the existing sub-categories within a top tier model category, you can create your own sub-categories. See [Create model categories](create-custom-model-category.md) for detailed instructions.
 
 **Warning:** ServiceNow strongly recommends that you use only the existing top tier model categories.
 

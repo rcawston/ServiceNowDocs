@@ -17,7 +17,7 @@ Administrators and users with the image\_admin or content\_admin role can upload
 
 ## Images vs attachments
 
-If you want to access an image from a record, or if you want to prevent users from appending the image name to the URL of the instance, upload it as an attachment instead. When you upload an image as an attachment, the image is saved in the Attachments \[sys\_attachment\] table. See [Administer attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md) and [Add and manage attachments](../../../use/using-forms/task/t_AddingAnAttachment.md) for more information.
+If you want to access an image from a record, or if you want to prevent users from appending the image name to the URL of the instance, upload it as an attachment instead. When you upload an image as an attachment, the image is saved in the Attachments \[sys\_attachment\] table. See [Administer attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md) and [Add and manage attachments](t_AddingAnAttachment.md) for more information.
 
 ## Acceptable image file types
 
@@ -36,12 +36,12 @@ The system does not support uploading images in the .ico format through this int
 
 To understand how to insert an image into a form record, see the [Insert an image into your article, incident, or other form record](https://www.servicenow.com/community/now-platform-blog/insert-an-image-into-your-article-incident-or-other-form-record/ba-p/2286128) blog post in the ServiceNow Community.
 
--   **[Update an existing image](../task/t_UpdatingAnExistingImage.md)**  
+-   **[Update an existing image](t_UpdatingAnExistingImage.md)**  
 You can change an existing image to an updated version.
--   **[Upload one or more images](../task/upload-multiple-images.md)**  
+-   **[Upload one or more images](upload-multiple-images.md)**  
 You can upload one image or multiple images at one time.
--   **[Restrict file extensions](../task/restrict-file-extensions.md)**  
+-   **[Restrict file extensions](restrict-file-extensions.md)**  
 Use the glide.ui.strict\_content\_types to restrict the image file extensions that appear in the UI.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

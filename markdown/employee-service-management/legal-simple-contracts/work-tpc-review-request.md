@@ -23,7 +23,7 @@ Role required: sn\_lg\_contracts.contracts\_fulfiller
 
 As a collaborator added to a request, you can access and work on the request just as assignees can. However, you can't modify the **Assigned to** and **Assignment group** fields.
 
-**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](../../legal-request-management/concept/legal-services-delegation.md).
+**Note:** During times when you're unavailable, you can [delegate your legal duties to other users](../legal-request-management/legal-services-delegation.md).
 
 ## Procedure
 
@@ -105,7 +105,7 @@ The Create Revision dialog box displays.
 2.  In the **Create revision from** list, select the location of the document.
     -   **Computer**: Select a file from your local system. Click **Attach File** and upload a file.
     -   **Activity**: Select an attachment from the Activities stream. All files that are attached in the inbound emails are listed in the **Document** field.
-    -   **Online**: Select a file stored in the [configured external storage system](../../legal-request-management/task/integrate-legal-ext-storage.md).
+    -   **Online**: Select a file stored in the [configured external storage system](../legal-request-management/integrate-legal-ext-storage.md).
 3.  Add more information about the document in the **Work notes** field. This information is added to the Activities stream along with the attachment.
 4.  To make the document ready for review or sending for e-signature, select **Ready**.
 5.  Click **Create**.
@@ -114,7 +114,7 @@ The Create Revision dialog box displays.
 </td></tr></tbody>
 </table>    **Note:** If you mark the current document revision as Ready, any previous document versions that were marked as Ready are cleared.
 
-6.  [Send the document for ad-hoc approval](../../legal-request-management/task/initiate-approval-legal-request.md) when an approval is required from other stakeholders.
+6.  [Send the document for ad-hoc approval](../legal-request-management/initiate-approval-legal-request.md) when an approval is required from other stakeholders.
 
 7.  Send an email to stakeholders to have the completed contract document reviewed and the changes confirmed.
 
@@ -162,7 +162,7 @@ The Create Revision dialog box displays.
     -   If all signatories sign the contract document, the document status updates to Contract Signed. A [legal contracts repository record](review-contract-doc-repository.md) is created where the signed document is attached or linked. You can also access the legal contract repository record from the **Legal Contracts** tab.
     -   In the **Signatories** tab, the status of all signatories updates to Signed.
     -   If any signatory declines to sign the contract document, the document status updates to Contract Declined.If more changes are required in the contract document, update it and resend it to the signatories for signature.
-3.  If the contract is signed by all parties, you can [close the request](../../legal-request-management/task/close-legal-request.md) by clicking **Close Complete.**
+3.  If the contract is signed by all parties, you can [close the request](../legal-request-management/close-legal-request.md) by clicking **Close Complete.**
 
-**Parent Topic:**[Third-party contract review requests](../concept/legal-request-third-party-contract.md)
+**Parent Topic:**[Third-party contract review requests](legal-request-third-party-contract.md)
 

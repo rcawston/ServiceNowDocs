@@ -105,7 +105,7 @@ Asset that you want to repair or replace.**Note:** The list of available assets 
 
 ## What to do next
 
-Perform all tasks that are required for completing the RMA response order line so that you can complete and close the associated RMA response order. For detailed instructions, see [Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md).
+Perform all tasks that are required for completing the RMA response order line so that you can complete and close the associated RMA response order. For detailed instructions, see [Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md).
 
-**Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](../concept/managing-rma-response-orders-daas-assets.md)
+**Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](managing-rma-response-orders-daas-assets.md)
 

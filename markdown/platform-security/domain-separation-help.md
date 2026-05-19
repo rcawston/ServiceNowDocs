@@ -27,7 +27,7 @@ Video overview of domain separation
 
  Tips and tricks for creating and developing your domain structure wisely
 
- [Concepts for service providers](../concept/sp-concepts.md)
+ [Concepts for service providers](sp-concepts.md)
 
  Concepts that work with the ServiceNow platform to help you solve for common use cases
 
@@ -70,12 +70,12 @@ Classes
 
 </td><td>
 
-[Setup and administration](../concept/c_DomainSeparationSetup.md)
+[Setup and administration](c_DomainSeparationSetup.md)
 
  -   [Upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md)
--   [Request domain separation](../task/t_ActivateDomainSeparation.md)
--   [Create a domain](../task/t_CreateADomain.md)
--   [Configuration that can be delegated to internal or external customers](../concept/ds-before-you-begin.md)
+-   [Request domain separation](t_ActivateDomainSeparation.md)
+-   [Create a domain](t_CreateADomain.md)
+-   [Configuration that can be delegated to internal or external customers](ds-before-you-begin.md)
 
 </td><td>
 

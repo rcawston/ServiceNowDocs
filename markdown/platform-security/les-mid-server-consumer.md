@@ -29,7 +29,7 @@ The categories page contains an overview and descriptions of the categories and 
 
 Complete the tasks under each category by following the setup instructions.
 
--   **[Guided setup for MID Server consumers](../task/les-guided-setup-mid-server.md)**  
+-   **[Guided setup for MID Server consumers](les-guided-setup-mid-server.md)**  
 Implement the following steps for a complete guided setup for MID Server consumers.
 -   **[Multi-consumer support using unique mid servers](les-multi-consumer.md)**  
 You can now precisely manage log consumption with a new multi-consumer system, enabling dedicated consumers and MID servers for each specific log stream.
@@ -41,5 +41,5 @@ You can now precisely manage log consumption with a new multi-consumer system, e
 
 [Kafka consumer](les-kafka-consumer.md)
 
-[Set up a secure connection to the Hermes Messaging Service for LES](../task/les-hermes-cert.md)
+[Set up a secure connection to the Hermes Messaging Service for LES](les-hermes-cert.md)
 

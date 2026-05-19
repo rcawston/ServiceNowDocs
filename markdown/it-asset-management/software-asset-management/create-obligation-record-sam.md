@@ -57,16 +57,16 @@ View the obligation record by navigating to any of the following paths:
 -   Navigate to the **Obligations** tab within the software contract record.
 -   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Obligations**.
 
-**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](../concept/manage-obligation-tasks-software-asset-workspace.md)
+**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](manage-obligation-tasks-software-asset-workspace.md)
 
 **Related topics**  
 
 
 [Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md)
 
-[Manage obligation tasks in the Software Asset Workspace](../concept/manage-obligation-tasks-software-asset-workspace.md)
+[Manage obligation tasks in the Software Asset Workspace](manage-obligation-tasks-software-asset-workspace.md)
 
-[Use Software Asset Management with Contract Management Pro](../concept/sam-integration-cmpro.md)
+[Use Software Asset Management with Contract Management Pro](sam-integration-cmpro.md)
 
 [Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md)
 

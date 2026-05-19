@@ -36,5 +36,5 @@ Role required: sn\_hr\_wfo.admin
     The team calendar displays the updated schedule.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

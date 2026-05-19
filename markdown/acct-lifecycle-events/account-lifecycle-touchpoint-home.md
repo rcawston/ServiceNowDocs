@@ -22,7 +22,7 @@ Internal touchpoints ensure that only internal teams are involved in that partic
 The following options are available:
 
 -   Discuss: Select **Discuss** to start a sidebar discussion about this touchpoint. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this touchpoint. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
--   Create success play: See [Create a success play](../task/account-lifecycle-create-success-play.md).
+-   Create success play: See [Create a success play](account-lifecycle-create-success-play.md).
 
     The success play created using this UI action button is stored in Touchpoint applicable records table and the type of association is the action item.
 
@@ -158,7 +158,7 @@ Meeting link
 
 </td><td>
 
-This field is automatically populated if you select Zoom in the Video software field. For details on setting up and configuring Zoom, see [Configure Zoom to create a touchpoint meeting summary](../task/account-lifecycle-config-zoom-sum.md).
+This field is automatically populated if you select Zoom in the Video software field. For details on setting up and configuring Zoom, see [Configure Zoom to create a touchpoint meeting summary](account-lifecycle-config-zoom-sum.md).
 
 </td></tr><tr><td>
 
@@ -320,7 +320,7 @@ The touchpoint applicable record associates touchpoint that are applicable to th
 
 -   **[Touchpoint planner](account-lifecycle-touchpoint-planner.md)**  
 The touchpoint planner shows a calendar view of different touchpoints across all accounts associated with the customer success manager.
--   **[Configure Zoom to create a touchpoint meeting summary](../task/account-lifecycle-config-zoom-sum.md)**  
+-   **[Configure Zoom to create a touchpoint meeting summary](account-lifecycle-config-zoom-sum.md)**  
 Set up the Zoom spoke integration and the bi-directional web hook to generate summaries for virtual touchpoint meetings.
 
 **Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)

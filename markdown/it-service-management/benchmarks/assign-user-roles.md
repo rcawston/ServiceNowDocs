@@ -31,7 +31,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
     A list of users currently assigned the selected role and a graph showing the distribution of users in different roles are displayed.
 
-    For information about Benchmarks roles, see [Benchmarks roles](../concept/c_BenchRoles.md).
+    For information about Benchmarks roles, see [Benchmarks roles](c_BenchRoles.md).
 
 4.  Add users to a role list.
 

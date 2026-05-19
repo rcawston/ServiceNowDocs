@@ -15,7 +15,7 @@ breadcrumb: [HR PIWB template: Recommend estimated time to resolve, HR Predictiv
 
 Determine the Estimated Time to Resolve a Case \(ETTR\) for a case by analyzing similar closed cases in the past for better visibility and transparency.
 
-Machine learning predicts the estimated time to resolve a case \(ETTR\) based on attributes of a case such as its short description, category, priority, assignment group, and so on. For more information about configuring the machine learning regression solution definition for ETTR, see [HR PIWB template: Recommend estimated time to resolve](../task/hr-piwb-ettr.md)
+Machine learning predicts the estimated time to resolve a case \(ETTR\) based on attributes of a case such as its short description, category, priority, assignment group, and so on. For more information about configuring the machine learning regression solution definition for ETTR, see [HR PIWB template: Recommend estimated time to resolve](hr-piwb-ettr.md)
 
 To make predictions, you can use the existing ETTR solution definition or change some of the default settings such as the fields, a filter, and the training frequency.
 
@@ -66,7 +66,7 @@ Regression solutions such as ETTR enable you to predict a point estimate and pre
 -   **Min ETTR**: Indicates the minimum estimated resolution time in days for case completion. Estimate is based on the time taken for resolving similar HR cases.
 -   **ETTR in days**: Stores the point estimated resolution time in days for case completion.
 
-**Parent Topic:**[HR PIWB template: Recommend estimated time to resolve](../task/hr-piwb-ettr.md)
+**Parent Topic:**[HR PIWB template: Recommend estimated time to resolve](hr-piwb-ettr.md)
 
 **Related topics**  
 

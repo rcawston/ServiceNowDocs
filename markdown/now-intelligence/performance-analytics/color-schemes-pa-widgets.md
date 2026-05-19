@@ -22,7 +22,7 @@ Color schemes can apply to the following visualizations:
 -   Reports that group by or stack by table fields
 -   Platform Analytics data visualization components that group by or stack by table fields
 
-You can select a color scheme in the **Color Scheme** field when you create a widget. For an example, see [Create a pie, donut, or semi-donut visualization for a breakdown widget](../task/create-pie-widget.md). You can also design your own color scheme.
+You can select a color scheme in the **Color Scheme** field when you create a widget. For an example, see [Create a pie, donut, or semi-donut visualization for a breakdown widget](create-pie-widget.md). You can also design your own color scheme.
 
 You don’t have to specify a color scheme. In this case, the default color scheme specified in the property **com.snc.pa.chart\_default\_color\_schema** is applied if necessary. In the base system, this color scheme is Default UI14.
 
@@ -33,9 +33,9 @@ The default color schemes use color definitions with the Qualitative themeable c
 **Related topics**  
 
 
-[Predefined colors in reports](../../reporting/concept/colors-reports.md)
+[Predefined colors in reports](../reporting/colors-reports.md)
 
-[Report types](../../reporting/reference/report-types-creation-details-rd.md)
+[Report types](../reporting/report-types-creation-details-rd.md)
 
 ## Create a color scheme
 
@@ -47,7 +47,7 @@ Role required: pa\_power\_user or pa\_admin
 
 ### About this task
 
-**Tip:** A ServiceNow AI Platform or Reporting admin can create custom colors for use in your color schemes. For more information, see [Define system colors for analytics](../../reporting/task/t_DefiningSystemColors.md).
+**Tip:** A ServiceNow AI Platform or Reporting admin can create custom colors for use in your color schemes. For more information, see [Define system colors for analytics](../reporting/t_DefiningSystemColors.md).
 
 ### Procedure
 

@@ -53,5 +53,5 @@ Use the legacy Software Asset Management \(com.snc.software\_asset\_management\)
 -   **[Entitle a license to a user or location using the legacy Software Asset Management plugin](t_EntitleALicenseToAUser.md)**  
 Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to entitle a license to an individual user.
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 

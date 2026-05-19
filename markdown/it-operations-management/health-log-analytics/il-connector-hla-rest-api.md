@@ -38,7 +38,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/integrations-launchpad.md).
+You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](../service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ You set up integrations through the Integrations Launchpad in Service Operations
 
 6.  On the **Provide details** form, fill in the fields.
 
-    For a description of the fields, see [REST API integration configuration fields](../reference/il-connector-hla-restapi-fields.md).
+    For a description of the fields, see [REST API integration configuration fields](il-connector-hla-restapi-fields.md).
 
 7.  Select **Next**.
 
@@ -99,5 +99,5 @@ Instruct your API client to send log messages to the MID Server.
     A successful response indicates that the MID Server has received the payload. When the MID Server has processed the log messages, the data input streams them to your ServiceNow instance using the REST protocol.
 
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

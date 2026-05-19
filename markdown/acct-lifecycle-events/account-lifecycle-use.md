@@ -17,16 +17,16 @@ With the account onboarding solution, service providers can repeatedly define, m
 
 -   **[Account onboarding landing page](account-lifecycle-events-onboarding-landing.md)**  
 Get real-time visibility into your onboarding cases and track your onboarding tasks.
--   **[View account onboarding cases in the CSM portal](../task/account-lifecycle-view-csm-portal.md)**  
+-   **[View account onboarding cases in the CSM portal](account-lifecycle-view-csm-portal.md)**  
 View the account onboarding case records or case task records on the Customer Service Management \(CSM\) portal.
 -   **[Recommended Actions available with account onboarding](account-lifecycle-oob-rec.md)**  
 Use the predefined recommended actions that are available with the base system during the account onboarding process.
--   **[Create a success play for account onboarding](../task/account-lifecycle-create-onboard-success-play.md)**  
+-   **[Create a success play for account onboarding](account-lifecycle-create-onboard-success-play.md)**  
 Use this option to create a success play for successfully completing an account onboarding journey.
 -   **[View related items](account-lifecycle-related-items.md)**  
 The Related Items component provides access to related list items associated with your account onboarding case.
 -   **[Account onboarding knowledge base](account-lifecycle-knowledge-base.md)**  
 Several knowledge base articles are provided for account onboarding.
 
-**Parent Topic:**[Use Customer Success Management](../reference/account-lifecycle-customer-success-landing-page.md)
+**Parent Topic:**[Use Customer Success Management](account-lifecycle-customer-success-landing-page.md)
 

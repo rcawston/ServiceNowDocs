@@ -23,7 +23,7 @@ Roles required: activity\_creator or workflow\_admin
 
 You can create a custom activity that manages files and directories on a target host or copies a file from one SFTP server to another. The file content is streamed through a MID Server, which avoids having to store the data on the hard drive of the MID Server host machine.
 
-**Note:** This activity requires the credentials of a user who can execute SFTP commands on the source host. The [Copy File](../../orchestration-activities/reference/r_CopyFileActivity.md) activity, provided in the activity pack, requires separate credentials to access the target host.
+**Note:** This activity requires the credentials of a user who can execute SFTP commands on the source host. The [Copy File](r_CopyFileActivity.md) activity, provided in the activity pack, requires separate credentials to access the target host.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ You can create a custom activity that manages files and directories on a target 
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SFTP Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SFTP Execution Command.
 
 <table id="choicetable_zmw_zbr_vz"><tbody><tr><td id="d537419e117">
 
@@ -172,7 +172,7 @@ If a file exists on a target host, this command enables a temporary suffix to us
 
 </td><td>
 
-User ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](../../orchestration-activities/reference/r_SFTPWorkflow.md). Field available on following command: Set file attributes
+User ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](r_SFTPWorkflow.md). Field available on following command: Set file attributes
 
 </td></tr><tr><td id="d537419e356">
 
@@ -180,7 +180,7 @@ User ID attribute to apply to a file or directory. The UID and GID values must b
 
 </td><td>
 
-Group ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](../../orchestration-activities/reference/r_SFTPWorkflow.md). Field available on following command: Set file attributes
+Group ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](r_SFTPWorkflow.md). Field available on following command: Set file attributes
 
 </td></tr><tr><td id="d537419e373">
 
@@ -188,7 +188,7 @@ Group ID attribute to apply to a file or directory. The UID and GID values must 
 
 </td><td>
 
-File or directory permissions to set for the user and group specified. This value must be expressed as an integer, such as **16877**, which defines these permissions: **rwxr-xr-x**. The permissions numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](../../orchestration-activities/reference/r_SFTPWorkflow.md). Field available on following command: Set file attributes
+File or directory permissions to set for the user and group specified. This value must be expressed as an integer, such as **16877**, which defines these permissions: **rwxr-xr-x**. The permissions numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](r_SFTPWorkflow.md). Field available on following command: Set file attributes
 
 </td></tr><tr><td id="d537419e395">
 
@@ -237,7 +237,7 @@ MID Server with the appropriate [MID Server capabilities](../../../product/mid-s
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## SFTP template execution parameters
 
@@ -442,7 +442,7 @@ String
 
 </td><td>
 
-Full path to a file or directory on the source host or on the target host. For example, this value is used in the [Rename File or Directory](../../orchestration-activities/reference/r_RenameFileOrDirectoryActivity.md) activity in the activity pack.
+Full path to a file or directory on the source host or on the target host. For example, this value is used in the [Rename File or Directory](r_RenameFileOrDirectoryActivity.md) activity in the activity pack.
 
 </td></tr><tr><td>
 
@@ -997,7 +997,7 @@ Permissions
 
 </td><td>
 
-File or directory permissions to set for the user and group specified. This value must be expressed as an integer, such as **16877**, which defines these permissions: **rwxr-xr-x**. The permissions number is an internal value returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer workflow](../../orchestration-activities/reference/r_SFTPWorkflow.md).
+File or directory permissions to set for the user and group specified. This value must be expressed as an integer, such as **16877**, which defines these permissions: **rwxr-xr-x**. The permissions number is an internal value returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer workflow](r_SFTPWorkflow.md).
 
 </td><td>
 

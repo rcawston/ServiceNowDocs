@@ -47,7 +47,7 @@ Risk appetite in numerical scale and rating terms. The qualitative appetite is c
 -   4 - Open
 -   5 - Hungry
 
- A risk administrator can change or create the risk appetite scales based on the organization's requirement. For more information, see [Set up a risk appetite scale](../../grc-risk/task/set-up-risk-appetite-scale.md).
+ A risk administrator can change or create the risk appetite scales based on the organization's requirement. For more information, see [Set up a risk appetite scale](set-up-risk-appetite-scale.md).
 
  After you define the qualitative appetite, you can copy it to the downstream entities.
 
@@ -75,7 +75,7 @@ Risk tolerance in numerical scale and rating terms. The risk tolerance is the st
 -   4 - Open
 -   5 - Hungry
 
- A risk administrator can modify or create the risk appetite scales based on the organization's requirement. For more information, see [Set up a risk appetite scale](../../grc-risk/task/set-up-risk-appetite-scale.md).
+ A risk administrator can modify or create the risk appetite scales based on the organization's requirement. For more information, see [Set up a risk appetite scale](set-up-risk-appetite-scale.md).
 
 </td></tr><tr><td>
 
@@ -128,5 +128,5 @@ Appetite status
 Overall appetite status. The overall appetite status considers the worst-case scenario between the qualitative and quantitative status. For example, if the qualitative appetite status is within the appetite and the quantitative appetite status is outside the appetite, then the overall appetite status is outside the appetite.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define the risk appetite for an entity](../task/define-risk-appetite-on-entity.md)
+</table>**Parent Topic:**[Define the risk appetite for an entity](define-risk-appetite-on-entity.md)
 

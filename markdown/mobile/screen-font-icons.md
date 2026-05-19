@@ -146,5 +146,5 @@ Use screen font icons for lists or section destinations. You can use them to rep
 |Document-Checklist-Search|e920|Australia|![Document-Checklist-Search example](../image/mab-icon-screen-doc-check-search.png)| |
 |Rectangle-Search|e921|Australia|![Rectange-Search example](../image/mab-icon-screen-rect-search.png)| |
 
-**Parent Topic:**[Mobile icon reference](../concept/mobile-icon-reference.md)
+**Parent Topic:**[Mobile icon reference](mobile-icon-reference.md)
 

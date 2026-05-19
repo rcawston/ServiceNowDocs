@@ -57,7 +57,7 @@ Role required: sn\_sec\_tisc.analyst
 9.  Additionally, select **Reject** button if you need to reject the outbound sharing intelligence.
 
 
-**Parent Topic:**[Viewing Threat Intelligence External Sharing](../concept/tisc-intel-sharing-module.md)
+**Parent Topic:**[Viewing Threat Intelligence External Sharing](tisc-intel-sharing-module.md)
 
 **Related topics**  
 

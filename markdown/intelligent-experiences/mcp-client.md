@@ -18,15 +18,15 @@ The ServiceNow® Model Context Protocol Client \(MCP Client\) enables you to acc
 
 <table id="table_vfm_hm5_vfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about MCP Client](../concept/exploring-model-context-protocol-client.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about MCP Client](exploring-model-context-protocol-client.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Model Context Protocol Client in AI Agent Studio](../concept/configuring-mcp-client.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Model Context Protocol Client in AI Agent Studio](configuring-mcp-client.md)
 
 </td></tr><tr><td>
 
-[Add MCP Server in AI Agent Studio![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Add MCP Servers in AI Agent Studio](../concept/add-mcp-client-on-ai-agent-studio.md)
+[Add MCP Server in AI Agent Studio![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Add MCP Servers in AI Agent Studio](add-mcp-client-on-ai-agent-studio.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](platform-now-assist-landing.md).
 

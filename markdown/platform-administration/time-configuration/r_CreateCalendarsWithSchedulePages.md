@@ -148,29 +148,29 @@ String
 The Server AJAX processor is specific to calendar type schedule pages that is used to return a set of schedule items and spans that display.
 
 </td></tr></tbody>
-</table>-   **[Invoke the Schedule page and view a calendar](../concept/c_GenCalViewsFromSchedPages.md)**  
+</table>-   **[Invoke the Schedule page and view a calendar](c_GenCalViewsFromSchedPages.md)**  
 You can use the URL from arguments module, a field decoration \(dictionary attribute `ref_contributions`\), or a UI Action linking to `show_schedule.do` to invoke the Schedule page.
--   **[Schedule calendar](../concept/schedule-calendar.md)**  
+-   **[Schedule calendar](schedule-calendar.md)**  
 Use the Schedule calendar to create, view, and edit events.
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](c_UseSchedules.md)
 
 **Related topics**  
 
 
 [Default schedules](r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](c_Holidays.md)
 
-[Create a holiday schedule for multiple regions](../task/t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](c_ParentAndChildSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](../task/t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](t_FifthInstanceOfADayOfTheWeek.md)
 
-[Repeat a monthly schedule](../task/t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](t_RepeatAMonthlySchedule.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](domain-support-for-schedules.md)
 

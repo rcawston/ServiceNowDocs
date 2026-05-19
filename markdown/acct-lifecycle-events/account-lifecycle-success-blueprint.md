@@ -18,5 +18,5 @@ With the success blueprint template, the Customer success managers can ensure th
 -   Create common success objectives and outcomes, and ​tailor them to meet customer needs.
 -   Organize objectives, outcomes, and initiatives with a timeline view for easier access.
 
-The template provides a standardized approach to creating objectives and outcomes and reduces manual overhead. It also provides guidelines for customer success managers to discuss and identify objectives that are important for the customers. See [Create a success blueprint template](../task/account-lifecycle-create-blueprint-template.md) for details.
+The template provides a standardized approach to creating objectives and outcomes and reduces manual overhead. It also provides guidelines for customer success managers to discuss and identify objectives that are important for the customers. See [Create a success blueprint template](account-lifecycle-create-blueprint-template.md) for details.
 

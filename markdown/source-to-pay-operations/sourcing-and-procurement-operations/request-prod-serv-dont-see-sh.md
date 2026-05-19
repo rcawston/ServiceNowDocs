@@ -15,12 +15,12 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 As an employee, shopper, or business owner, you can place requests for one or more products or services that are currently not listed on the ShoppingHub portal. You can do this from ShoppingHub Home or directly from Employee Center.
 
--   **[Request for products that you don't see on Shopping Hub](../task/request-prod-dont-see-sh.md)**  
+-   **[Request for products that you don't see on Shopping Hub](request-prod-dont-see-sh.md)**  
 Place a request for one or more products that are currently not listed on the Shopping Hub portal. You can do this from Shopping Hub Home or directly from Employee Center.
--   **[Request for services that you don't see on Shopping Hub](../task/request-serv-dont-see-sh.md)**  
+-   **[Request for services that you don't see on Shopping Hub](request-serv-dont-see-sh.md)**  
 Place a request for one or more services that are currently not listed on the Shopping Hub portal. You can do this from Shopping Hub Home or directly from Employee Center.
--   **[Configure additional attributes for I need a product or service](../task/configure-additional-attributes-i-need-product.md)**  
+-   **[Configure additional attributes for I need a product or service](configure-additional-attributes-i-need-product.md)**  
 You can configure additional attributes on the intake for variable sets configured on the **I need a product** and **I need a service** record producers. Any new fields that are added to the variable set must be mapped in the record producer script to ensure that the information is saved in the backend.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

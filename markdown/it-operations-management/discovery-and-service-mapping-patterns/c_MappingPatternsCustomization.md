@@ -34,7 +34,7 @@ For discovering devices that act as hosts for applications, Service Mapping reli
 
 Patterns of all types are stored in the Discovery Patterns \[sa\_pattern\] table.
 
-Discovery uses a combination of probes and patterns. For more information, see [Horizontal discovery process flow with probes and sensors](../../discovery/concept/c_DiscoProcessFlows.md).
+Discovery uses a combination of probes and patterns. For more information, see [Horizontal discovery process flow with probes and sensors](../discovery/c_DiscoProcessFlows.md).
 
 ## Correlation between pattern and CI type
 
@@ -80,7 +80,7 @@ When you customize a pattern, you actually create a copy of the original preconf
 
 ![A customized copy of a pattern is not updated.](../image/CustomizedPatternUpdate.png "Exclusion of a customized pattern from an upgrade")
 
-If at some point you want to abandon the customized pattern and start using the updated original pattern, you can revert to the original pattern as described in [Choose the pattern version](../task/t_ChoosePatternVersionPatDef.md).
+If at some point you want to abandon the customized pattern and start using the updated original pattern, you can revert to the original pattern as described in [Choose the pattern version](t_ChoosePatternVersionPatDef.md).
 
 ## Patterns users
 
@@ -134,7 +134,7 @@ The pde\_viewer role can view the following tables only:
 -   Pattern Shared Library Mapping \[pd\_pattern\_to\_shared\_library\_mapping\]
 -   Temporary Variable Mappings \[pd\_temp\_variable\_value\_mapping\]
 
-For more information, see [Discovery commands for probes and patterns](../../discovery/concept/discovery-command-probe-pattern.md).
+For more information, see [Discovery commands for probes and patterns](../discovery/discovery-command-probe-pattern.md).
 
 </td></tr><tr><td>
 
@@ -175,39 +175,39 @@ If you’re creating a pattern for applications and devices that aren’t suppor
 ITOM Visibility comes with an extensive library of patterns.
 2.  [Available cloud discovery patterns](available-patterns-cloud.md)  
 ITOM Visibility comes with an extensive library of patterns that can discover your cloud environment: AWS, Azure, GCP, IBM, and OCI.
-3.  [Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)  
+3.  [Configuring Pattern Designer and related applications](configuring-pattern-designer-plugins.md)  
 Install the latest available versions of the ServiceNow applications to use the latest discovery patterns.
-4.  [Create CI types for Service Mapping and Discovery](../task/t_CreateCITypeForSM.md)  
+4.  [Create CI types for Service Mapping and Discovery](t_CreateCITypeForSM.md)  
 Create CI types \(or CI classes\) for applications and devices, which Service Mapping and Discovery do not support by default.
-5.  [Create entry point types for Service Mapping](../task/t_CreateEntryPoint.md)  
+5.  [Create entry point types for Service Mapping](t_CreateEntryPoint.md)  
 An entry point is a point where clients access a service instance. Service Mapping starts the mapping process for every application service from the entry point you define for it. Service Mapping includes a wide range of preconfigured entry point types that cover most commonly used applications. If your organization uses a less known or proprietary application that does not have a corresponding entry point type in Service Mapping, you must create it.
-6.  [Create or customize patterns](../task/t_CreatePatternPatDef.md)  
+6.  [Create or customize patterns](t_CreatePatternPatDef.md)  
 Create or modify a discovery pattern and define its basic attributes.
-7.  [Discover related items together with the main CI](../task/add-related-cis-to-the-main-ci-pattern.md)  
+7.  [Discover related items together with the main CI](add-related-cis-to-the-main-ci-pattern.md)  
 Add related items to the patterns to perform horizontal discovery of configuration items with all their related items: CIs or non-CIs, like ports or serial numbers.
-8.  [Enhance patterns without changing their identification sections](../task/modify-pattern-using-extensions.md)  
+8.  [Enhance patterns without changing their identification sections](modify-pattern-using-extensions.md)  
 Enable patterns to search for additional attributes and modify pattern discovery logic defined in identification sections by using extension sections. Each extension section contains a preconfigured set of discovery steps referred to as a shared library.
-9.  [Fine-tune patterns using traffic-based discovery](../task/connection-section-traffic-based.md)  
+9.  [Fine-tune patterns using traffic-based discovery](connection-section-traffic-based.md)  
 As an alternative to customizing the pattern from the Pattern Designer side, improve existing patterns so that Service Mapping can use them to find configuration item \(CI\) connections previously found using traffic-based discovery.
-10. [Finalize a pattern](../task/t_FinalizePatternPatDef.md)  
+10. [Finalize a pattern](t_FinalizePatternPatDef.md)  
 After you finish defining your pattern, make it ready for use by Service Mapping and Discovery.
-11. [Copy patterns from one instance to another](../task/export-patterns.md)  
+11. [Copy patterns from one instance to another](export-patterns.md)  
 To copy patterns from one instance to another, create an update set containing new or modified patterns with their related items in your development instance. Then, import the update set into your production instance.
-12. [Choose the pattern version](../task/t_ChoosePatternVersionPatDef.md)  
+12. [Choose the pattern version](t_ChoosePatternVersionPatDef.md)  
 Every time you modify and save a pattern, you create a version of this pattern. Choose which pattern version Service Mapping and Discovery use for discovery.
-13. [Activate a disabled pattern](../task/activate-disabled-pattern.md)  
+13. [Activate a disabled pattern](activate-disabled-pattern.md)  
 If you want to use a pattern for discovery that's disabled by default, activate it manually.
-14. [Discover datacenters only for new cloud accounts](../task/discover-datacenter-only-new-account.md)  
+14. [Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md)  
 If you have multiple cloud accounts and datacenters in AWS and Azure, you can discover datacenters for new cloud accounts only, instead of refreshing the entire list.
 15. [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md)  
 The **Populate Service Account and LDC IN CMDB** scheduled job populates the Service Account and Logical Datacenter fields in cloud configuration item \(CI\) tables, and the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. This direct population reduces query complexity and improves query performance.
 
-**Parent Topic:**[ITOM Visibility](../../it-operations-management/reference/itom-visibility-landing-page.md)
+**Parent Topic:**[ITOM Visibility](../itom-visibility/itom-visibility-landing-page.md)
 
 **Related topics**  
 
 
-[Detailed information on products discovered by ITOM Visibility](../reference/r_SupportedApplications.md)
+[Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
 [Class diagrams and class attributes for key CMDB classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
@@ -221,7 +221,7 @@ The **Populate Service Account and LDC IN CMDB** scheduled job populates the Ser
 
 [KB0747679: Pre/Post Processing Scripts for patterns](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0747679)
 
-[Application patterns for the Agent Client Collector](../../agent-client-collector/concept/application-patterns-acc.md)
+[Application patterns for the Agent Client Collector](../agent-client-collector/application-patterns-acc.md)
 
-[Certificate Inventory and Management patterns](../../discovery/reference/cert-invt-mgmt-patterns.md)
+[Certificate Inventory and Management patterns](../discovery/cert-invt-mgmt-patterns.md)
 

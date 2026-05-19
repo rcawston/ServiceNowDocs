@@ -42,5 +42,5 @@ Role required: itil, itil\_admin, or admin
 7.  Tap **End call**.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

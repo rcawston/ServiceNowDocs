@@ -37,5 +37,5 @@ Role required: admin
 5.  Click **Submit**
 
 
-**Parent Topic:**[WebLogic application server discovery](../concept/c_DataCollDiscoWebLogicServers.md)
+**Parent Topic:**[WebLogic application server discovery](c_DataCollDiscoWebLogicServers.md)
 

@@ -58,5 +58,5 @@ A personal notification is a subscribable notification that you can customize by
 7.  Navigate back by selecting the left back arrow \(**&lt;**\) at the top of the form or by selecting the **Notifications** tab.
 
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](c_SubscriptionBasedNotifications.md)
 

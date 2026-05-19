@@ -19,10 +19,10 @@ With Coaching, you can do the following:
 
 -   Provide training for your agents to address skill gaps.
 -   Use surveys to apply consistent, measurable scores across teams.
--   [Create opportunities](../../cf-coaching/task/cf-create-coaching-opportunity.md) for improvement using the Coaching application.
+-   [Create opportunities](../coaching/cf-create-coaching-opportunity.md) for improvement using the Coaching application.
 -   Use Predictive Intelligence to recommend skills for your agents and provide training to address those skill gaps.
 
--   **[Coaching Overview page](../../../use/dashboards/application-content-packs/wfo-itsm-coaching-overview-page.md)**  
+-   **[Coaching Overview page](wfo-itsm-coaching-overview-page.md)**  
 Monitor the progress of assessments and track learning tasks that are overdue. You can also add a coaching quality indicator to monitor trends. Analyze which skills have been assigned the most to your team recently and which top skills are in demand.
 -   **[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)**  
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.

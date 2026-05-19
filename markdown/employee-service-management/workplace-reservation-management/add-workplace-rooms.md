@@ -21,7 +21,7 @@ Add a workplace room for employees to reserve.
     -   Workplace data for your organization
     -   Data of workspaces that can be marked as available
 
-For more information about adding the workspaces field information, see [Create records for your workplace data](../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md).
+For more information about adding the workspaces field information, see [Create records for your workplace data](../workplace-core/create-records-of-workplace-data-wsd.md).
 
 Role required: sn\_wsd\_core.admin
 
@@ -33,7 +33,7 @@ Role required: sn\_wsd\_core.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Add a room form](../reference/add-room-form.md).
+    For a description of the field values, see [Add a room form](add-room-form.md).
 
 4.  Click **Submit**.
 
@@ -42,7 +42,7 @@ Role required: sn\_wsd\_core.admin
 
 The room is added and is available for reservation in the application.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -81,9 +81,9 @@ The room is added and is available for reservation in the application.
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

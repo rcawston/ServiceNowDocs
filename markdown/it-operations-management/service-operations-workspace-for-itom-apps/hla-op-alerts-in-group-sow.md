@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_user, or evt\_mgmt\_admin
 
 ## About this task
 
-For a detailed description of Log Analytics groups and Log Analytics alerts, see [Types of Health Log Analytics alerts](../reference/hla-op-log-analytics-alert-types.md).
+For a detailed description of Log Analytics groups and Log Analytics alerts, see [Types of Health Log Analytics alerts](../health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 ## Procedure
 
@@ -99,7 +99,7 @@ Priority group that indicates the order in which to resolve alerts. Choices are 
 -   **High**
 -   **Moderate**
 -   **Low**
-The priority group value is more important than severity alone. For example, a high priority and low severity alert should be addressed before a low priority and high severity alert. For information on how priority is calculated, see [Alert priority](../../event-management/concept/alert-priority.md).
+The priority group value is more important than severity alone. For example, a high priority and low severity alert should be addressed before a low priority and high severity alert. For information on how priority is calculated, see [Alert priority](../event-management/alert-priority.md).
 
 </td></tr><tr><td>
 
@@ -154,5 +154,5 @@ Most recent time when the alert information or state was updated.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Sections and cards on the Overview tab for a Log Analytics group in Health Log Analytics](../reference/hla-op-ovrvw-tab-log-anltcs-alerts-sow.md)
+**Parent Topic:**[Sections and cards on the Overview tab for a Log Analytics group in Health Log Analytics](hla-op-ovrvw-tab-log-anltcs-alerts-sow.md)
 

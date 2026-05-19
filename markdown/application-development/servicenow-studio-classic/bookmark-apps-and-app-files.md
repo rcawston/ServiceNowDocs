@@ -84,5 +84,5 @@ How to bookmark
     Your bookmarked apps and files appear in the bookmarks tab under the appropriate file type.
 
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 

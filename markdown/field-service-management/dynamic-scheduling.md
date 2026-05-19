@@ -53,7 +53,7 @@ Reservation rules help allocate a specific percentage of capacity for different 
 **Related topics**  
 
 
-[Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md)
+[Configuring Dynamic Scheduling](field-service-scheduling/Configure-dynamic-scheduling.md)
 
-[Assigning work order tasks to agents using dynamic scheduling](using-dynamic-scheduling.md)
+[Assigning work order tasks to agents using dynamic scheduling](field-service-scheduling/using-dynamic-scheduling.md)
 

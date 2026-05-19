@@ -69,7 +69,7 @@ Use Now Assist to generate a roadmap by analyzing the engagement's details inclu
 11. Review the generated roadmap, make any necessary adjustments by dragging items between lanes and select **Finalize roadmap**.
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 
 **Related topics**  
 

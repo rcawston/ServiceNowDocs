@@ -28,7 +28,7 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Now Assist for ZCC application to get started](../task/configure-now-assist-for-zero-copy-connectors.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Now Assist for ZCC application to get started](configure-now-assist-for-zero-copy-connectors.md)
 
 </td><td>
 

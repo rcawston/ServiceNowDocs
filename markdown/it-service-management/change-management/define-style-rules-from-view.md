@@ -38,7 +38,7 @@ Role required: sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_wr
 5.  Click **Save**.
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](style-rules-definition.md)
 
 **Related topics**  
 

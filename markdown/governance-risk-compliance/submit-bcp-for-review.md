@@ -51,5 +51,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     When you approve the business continuity plan, its state is updated to **Approved**.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

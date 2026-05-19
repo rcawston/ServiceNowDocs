@@ -45,5 +45,5 @@ As you design workflows, validate the visibility and accessibility of all resour
 
 See [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md).
 
-For information on how to configure the scope for a workflow, see [Workflow properties](../../workflow-administration/reference/r_WorkflowProperties.md).
+For information on how to configure the scope for a workflow, see [Workflow properties](r_WorkflowProperties.md).
 

@@ -52,5 +52,5 @@ To make the new software record a child item:
     **Note:** When a change is made to a suite, a scheduled job called **Calculate suites \[Software Suite Model\]** is created. The job runs instantly, calculates any suites, and then deletes itself. The calculations are stored in the cmdb\_sam\_sw\_install table under inferred suite.
 
 
-**Parent Topic:**[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+**Parent Topic:**[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 

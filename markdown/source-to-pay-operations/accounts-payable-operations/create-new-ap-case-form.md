@@ -226,5 +226,5 @@ Invoice-related status messages are displayed in the Accounts Payable Operations
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

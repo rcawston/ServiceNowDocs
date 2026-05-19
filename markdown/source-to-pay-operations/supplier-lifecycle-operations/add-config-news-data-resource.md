@@ -69,7 +69,7 @@ A data resource is the data that a page fetches to display the content in the co
 9.  Select **Save**.
 
 
-**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 
 **Previous topic:**[Create a REST message for a custom API](create-custom-api-rest.md)
 

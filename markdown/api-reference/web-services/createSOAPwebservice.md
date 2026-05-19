@@ -45,7 +45,7 @@ The following example demonstrates how to retrieve a system property and return 
 
 ## Example 2: Ordering a Blackberry
 
-[Direct web services](../concept/c_DirectWebServices.md) operate on tables and their data. The following example shows how to initiate a business solution, such as ordering a Blackberry, by invoking a scripted web service. The following input and output parameters support the Blackberry example:
+[Direct web services](c_DirectWebServices.md) operate on tables and their data. The following example shows how to initiate a business solution, such as ordering a Blackberry, by invoking a scripted web service. The following input and output parameters support the Blackberry example:
 
 ![OrderBlackBerry Input Parameters](../image/soap-blackberry-input-parameters.png)
 
@@ -73,5 +73,5 @@ var rc = cart.placeOrder();
 response.request_number= rc.getValue('number');
 ```
 
-**Parent Topic:**[Scripted SOAP web services](../concept/c_ScriptedWebServices.md)
+**Parent Topic:**[Scripted SOAP web services](c_ScriptedWebServices.md)
 

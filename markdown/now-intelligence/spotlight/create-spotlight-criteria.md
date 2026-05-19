@@ -41,7 +41,7 @@ If you have domain separation enabled:
 -   When you create Spotlight criteria for a global Spotlight group, the criteria are created in the domain of the logged-in user.
 -   When you create Spotlight criteria for a Spotlight group that is in a specific domain, the Spotlight criteria are created in that domain.
 
-Messages appear to inform you of the domain situation when you create Spotlight criteria. For more information, see [Domain separation with Spotlight](../concept/domain-separation-spotlight.md).
+Messages appear to inform you of the domain situation when you create Spotlight criteria. For more information, see [Domain separation with Spotlight](domain-separation-spotlight.md).
 
 ## Procedure
 
@@ -89,7 +89,7 @@ In this example, an open incident that has been reassigned 4 times and has an em
 
 ## What to do next
 
-Repeat the procedure to create as many criteria as are necessary. Then collect scores. See [Collect Spotlight scores](../concept/collect-spotlight-scores.md).
+Repeat the procedure to create as many criteria as are necessary. Then collect scores. See [Collect Spotlight scores](collect-spotlight-scores.md).
 
-**Parent Topic:**[Setting up Spotlight](../concept/setting-up-spotlight.md)
+**Parent Topic:**[Setting up Spotlight](setting-up-spotlight.md)
 

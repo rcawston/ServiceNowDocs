@@ -49,12 +49,12 @@ Add the InvokeFlow component to get the context ID of a flow so other Flow Desig
 
 7.  Configure the properties of the InvokeFlow component.
 
-    For more information, see [Properties of the Flow Designer components](../reference/properties-flow-designer-components.md).
+    For more information, see [Properties of the Flow Designer components](properties-flow-designer-components.md).
 
     You can now connect the **Context ID** port to another Flow Designer component such as GetExecutionStatus or GetOutputs.
 
 8.  To test the component, in the **Design** tab, click **Run**.
 
 
-**Parent Topic:**[Flow Designer components](../concept/flow-designer-components.md)
+**Parent Topic:**[Flow Designer components](flow-designer-components.md)
 

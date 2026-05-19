@@ -52,11 +52,11 @@ An example of this in Field Service Management is the Roll Up Changes business r
 
 The steps for setting up state flow customizations are:
 
-1.  [Configure state flows for work orders and work order tasks](../task/configure-state-flow.md)
+1.  [Configure state flows for work orders and work order tasks](configure-state-flow.md)
 
     Configure the states that work orders, and work order tasks move between. This can be helpful if you have a specific sequence of states that help track work.
 
-2.  \(Optional\) [State flow dictionary overrides](../task/state-flow-overrides.md)
+2.  \(Optional\) [State flow dictionary overrides](state-flow-overrides.md)
 
     Define the starting state for all new work orders and work order tasks with dictionary overrides.
 
@@ -68,7 +68,7 @@ The steps for setting up state flow customizations are:
 
     Determine what happens if the system detects a specified state transition. For example, you might want the Problem field to be visible when an incident moves to the Awaiting Problem state.
 
-5.  \(Optional\) [Trigger events on state changes](../task/trigger-events-on-states.md)
+5.  \(Optional\) [Trigger events on state changes](trigger-events-on-states.md)
 
     Configure a state flow to trigger a registered system event when a task transitions from a starting state to a specified end state. For example, you can use events to trigger email notifications and create script actions.
 

@@ -46,5 +46,5 @@ The **Generate Talent Profiles** scheduled job is run daily by default, once you
 3.  Select **Execute Now**.
 
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

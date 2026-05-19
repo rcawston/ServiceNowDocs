@@ -20,7 +20,7 @@ The Employee Center Pro application provides out-of-the-box portal pages with re
 1.  [Install plugins](ecpro-plugins.md)
 2.  [Assign roles](ecpro-roles.md)
 3.  Configure the portal:
-    -   [Customize Employee Center portal theme](../task/customize-theme.md)
+    -   [Customize Employee Center portal theme](customize-theme.md)
     -   [Employee Center global header](config-global-header.md)
     -   [Footer configuration](emp-center-footer-config.md)
     -   [Enable support for right-to-left languages](ec-direction-right-to-left-languages.md)
@@ -30,5 +30,5 @@ The Employee Center Pro application provides out-of-the-box portal pages with re
 
         The Employee Center Pro home page is `ec_pro_home`
 
-    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](../task/activate-notification-template.md)
+    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](activate-notification-template.md)
 

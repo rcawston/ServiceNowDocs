@@ -34,5 +34,5 @@ Role required: sn\_dex\_desktop.admin
 
 A bell icon ![](../image/icon-notification-bell.png) appears on the Desktop Assistant header if you enable notifications. If you disable notifications, the bell icon disappears from the header.
 
-When enabled, push notifications are sent to employees using Desktop Assistant. For more information, see [Desktop Assistant notifications](../concept/da-push-notifications.md) and [View Desktop Assistant notifications](view-notifications.md).
+When enabled, push notifications are sent to employees using Desktop Assistant. For more information, see [Desktop Assistant notifications](da-push-notifications.md) and [View Desktop Assistant notifications](view-notifications.md).
 

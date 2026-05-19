@@ -13,7 +13,7 @@ breadcrumb: [Mobile icon reference, Mobile icons, Mobile styles, Mobile app comp
 
 Use image icons on navigation bars and tab bars. Image icons are not font-type icons.
 
-**Important:** Image icons can also be used in the icon UI section of a launcher screen. For more information, see [Adding images to an icon section](../task/add-image-icon-section.md).
+**Important:** Image icons can also be used in the icon UI section of a launcher screen. For more information, see [Adding images to an icon section](add-image-icon-section.md).
 
 ## Usage example
 
@@ -70,5 +70,5 @@ Use image icons on navigation bars and tab bars. Image icons are not font-type i
 |Icon added in the Zurich release|
 |Building|Zurich|![Building example](../image/mab-icon-image-bldg.png)| |
 
-**Parent Topic:**[Mobile icon reference](../concept/mobile-icon-reference.md)
+**Parent Topic:**[Mobile icon reference](mobile-icon-reference.md)
 

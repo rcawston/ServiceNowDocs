@@ -215,5 +215,5 @@ The Send keys component in the RPA Desktop Design Studio supports multiple keys,
 |Z|Z key.|
 |ZOOM|Zoom key.|
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For a list of system properties associated with various tracing systems, see [System properties for tracing systems in Emergency Exposure Management](../reference/list-of-tracing-system-sys-properties.md).
+For a list of system properties associated with various tracing systems, see [System properties for tracing systems in Emergency Exposure Management](list-of-tracing-system-sys-properties.md).
 
 ## Procedure
 

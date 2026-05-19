@@ -40,5 +40,5 @@ Role required: admin or delegated\_developer
 
 Your changes are automatically saved when you close the Collaborate with others modal.
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md)
 

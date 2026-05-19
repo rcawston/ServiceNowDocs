@@ -53,5 +53,5 @@ With the correct permissions, Journey mentors can edit existing journeys. Mentor
 -   Publish the journey.
 -   Add recommended learning and quick links.
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

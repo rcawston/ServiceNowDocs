@@ -31,17 +31,17 @@ For details on enabling AI Search and specifying search application configuratio
 
 **Note:** When you view or edit search application configuration records, the system may display a warning message telling you to reindex one or more indexed sources. This reindexing process \(a one-time process for each indexed source listed\) is required to correctly populate search-based auto-complete suggestions. For more details on auto-complete suggestions, see [Auto-complete suggestions in AI Search applications](auto-complete-ais.md#).
 
--   **[Create a search application configuration for AI Search](../task/create-search-app-config-ais.md)**  
+-   **[Create a search application configuration for AI Search](create-search-app-config-ais.md)**  
 Create a search application configuration to specify AI Search as the search engine for a ServiceNow AI Platform® application. Select a search profile for the application to use. Configure the application's settings for refinement and display of search results.
 -   **[Grouping attachment search results with their parent search results](grouping-attachment-srch-results-ais.md)**  
 Search application administrators can control whether attachment search results appear grouped with their parent search results or whether they display on their own. By default, AI Search displays attachments grouped with their parent search results.
--   **[Create a facet in an AI Search application configuration](../task/create-facet-ais.md)**  
+-   **[Create a facet in an AI Search application configuration](create-facet-ais.md)**  
 Define facets to refine your searches using categories dynamically generated from the current search results.
--   **[Show search result counts for facets on the results page for a search application](../task/display-result-counts-ais.md)**  
+-   **[Show search result counts for facets on the results page for a search application](display-result-counts-ais.md)**  
 Display search result counts for facets on the results page for AI Search applications that use Seismic components. Search result counts for facets show the number of matching search results for each source facet bucket.
--   **[Clear facet filters when selecting a new source facet bucket](../task/persist-facets-nav-tabs-ais.md)**  
+-   **[Clear facet filters when selecting a new source facet bucket](persist-facets-nav-tabs-ais.md)**  
 Specify whether AI Search applications should preserve existing facet filters when you select a new source facet bucket.
--   **[Configure source facet buckets in an AI Search application configuration](../task/config-nav-tabs-ais.md)**  
+-   **[Configure source facet buckets in an AI Search application configuration](config-nav-tabs-ais.md)**  
 Define settings for source facet buckets in a search application configuration. Users of the application can select source facet buckets to refine their search query results by search source.
 -   **[Auto-complete suggestions in AI Search applications](auto-complete-ais.md#)**  
 Automatically display intelligent suggestions in your search application's input field, helping users formulate their searches or jump directly to relevant results. Suggestions can include relevant search results, popular queries, recent queries from the user's personal history, and popular search results.

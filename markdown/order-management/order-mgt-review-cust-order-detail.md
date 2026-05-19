@@ -48,5 +48,5 @@ You can only cancel orders that are in the In progress state. You can delete ord
 
 A designated manager must approve the order cancellation. To learn more, see [Review and approve order revisions or cancellation requests](review-and-approve-or-decline-order-cancellation-requests.md).
 
-**Parent Topic:**[Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
+**Parent Topic:**[Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
 

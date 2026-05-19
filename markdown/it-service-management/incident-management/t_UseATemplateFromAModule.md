@@ -52,7 +52,7 @@ In the [Create incident template](t_CreateAnIncidentTemplate.md) topic, you have
 
 Select the module to open a new incident record with the applied Bond Trading Access Denied template.
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](incident-templates-record-producers.md)
 
 **Related topics**  
 

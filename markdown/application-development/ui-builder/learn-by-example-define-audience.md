@@ -52,7 +52,7 @@ In the previous procedure, you created a page variant that can be viewed by anyo
 
 Select the **Next topic** link to learn how to apply conditions to the variant so that the variant is visible only when the defined conditions are met.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

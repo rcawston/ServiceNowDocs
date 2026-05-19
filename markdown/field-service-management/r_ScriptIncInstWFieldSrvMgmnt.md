@@ -36,7 +36,7 @@ Field Service Management adds the following geolocation script includes.
 
 -   **[Advanced configurations](customizations.md)**  
 Describes the customization extension model for separating default functionality from custom scripts using read-only SNC and exposed includes.
--   **[Field Service Manager Mobile script includes](../../field-service-management/reference/manager-mobile-ref.md)**  
+-   **[Field Service Manager Mobile script includes](manager-mobile-ref.md)**  
 Update the script includes if you want to change the base system value.
 
 **Parent Topic:**[Components installed with Field Service Management](r_InstalledWithFSM.md)

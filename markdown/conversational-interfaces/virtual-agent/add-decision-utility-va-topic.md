@@ -17,7 +17,7 @@ Your conversations may need to branch depending on end user input or choices. Us
 
 ## Before you begin
 
-For more information about the Decision utility, see [Decision utility](../reference/va-decision.md).
+For more information about the Decision utility, see [Decision utility](va-decision.md).
 
 Role required: virtual\_agent\_admin or admin
 

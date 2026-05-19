@@ -125,7 +125,7 @@ Onboard single and multiple assets using playbooks.
 
 </td><td>
 
-[Create an asset onboarding process](../task/create-asset-onboarding-task-eam.md)
+[Create an asset onboarding process](create-asset-onboarding-task-eam.md)
 
 </td><td>
 

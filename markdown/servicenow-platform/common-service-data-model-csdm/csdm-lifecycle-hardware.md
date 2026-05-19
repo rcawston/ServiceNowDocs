@@ -17,7 +17,7 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
 
 ## Life-cycle values for tangible/physical CIs
 
-For definitions of the values in the diagram, see [Definitions of life-cycle values for tangible/physical CIs](../reference/csdm-lifecycle-df-tangible-physical.md).
+For definitions of the values in the diagram, see [Definitions of life-cycle values for tangible/physical CIs](csdm-lifecycle-df-tangible-physical.md).
 
 ![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-tangible-physical.png)
 
@@ -27,13 +27,13 @@ For additional information on how you can benefit from implementing life-cycle v
 
 ## Examples of tangible/physical classes
 
-View attributes, identification rules, and other important schema structures for the CMDB Computer \[cmdb\_ci\_computer\] class in [Hardware \[cmdb\_ci\_hardware\] class](../../configuration-management/concept/class-hardware.md).
+View attributes, identification rules, and other important schema structures for the CMDB Computer \[cmdb\_ci\_computer\] class in [Hardware \[cmdb\_ci\_hardware\] class](../configuration-management-database-cmdb/class-hardware.md).
 
--   **[Definitions of life-cycle values for tangible/physical CIs](../reference/csdm-lifecycle-df-tangible-physical.md)**  
+-   **[Definitions of life-cycle values for tangible/physical CIs](csdm-lifecycle-df-tangible-physical.md)**  
 The tangible/physical life-cycle states represent the overall life cycle of physical assets and CIs as related to their products. Tangible/physical assets are physical items that are stocked, for example computers, monitors, and keyboards. The stages and statuses for the tangible/physical life-cycle process are visible only in hardware-related tables in Asset Management and the CMDB.
--   **[Retiring a service instance can affect tangible/physical CIs](../reference/csdm-retire-srvc-inst-affects-hdw.md)**  
+-   **[Retiring a service instance can affect tangible/physical CIs](csdm-retire-srvc-inst-affects-hdw.md)**  
 Because a service instance might depend on a hardware \(tangible/physical\) device that other service instances depend on, you must take care when retiring a service instance.
--   **[Tangible/physical tables in the CMDB](../reference/csdm-lifecy-tables-tang-physical.md)**  
+-   **[Tangible/physical tables in the CMDB](csdm-lifecy-tables-tang-physical.md)**  
 List of tangible/physical tables.
 
 **Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
@@ -41,7 +41,7 @@ List of tangible/physical tables.
 **Related topics**  
 
 
-[Definitions of life-cycle values for tangible/physical CIs](../reference/csdm-lifecycle-df-tangible-physical.md)
+[Definitions of life-cycle values for tangible/physical CIs](csdm-lifecycle-df-tangible-physical.md)
 
-[Retiring a service instance can affect tangible/physical CIs](../reference/csdm-retire-srvc-inst-affects-hdw.md)
+[Retiring a service instance can affect tangible/physical CIs](csdm-retire-srvc-inst-affects-hdw.md)
 

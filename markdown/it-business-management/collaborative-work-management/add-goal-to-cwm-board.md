@@ -41,8 +41,8 @@ Role required: sn\_cwm.cwm\_user
 
     ![CWM Board as a planning item for a goal in Strategic Planning Workspace.](../images/cwm-goal-board-relation.png)
 
-    **Note:** CWM Board must be configured as a planning item for the lens that is used to create the portfolio plan. For more information, see [Connecting CWM with Strategic Planning or Portfolio Planning](../concept/connect-cwm-spw.md#).
+    **Note:** CWM Board must be configured as a planning item for the lens that is used to create the portfolio plan. For more information, see [Connecting CWM with Strategic Planning or Portfolio Planning](connect-cwm-spw.md#).
 
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

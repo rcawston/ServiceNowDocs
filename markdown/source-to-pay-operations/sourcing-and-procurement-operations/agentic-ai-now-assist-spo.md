@@ -43,7 +43,7 @@ Addresses your procurement needs by offering product recommendations, guided che
 -   Procurement inquiry analysis AI agent
 
 </td></tr></tbody>
-</table>To run the AI agents autonomously, you must activate the agentic workflow. For more information, see [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](../task/activate-fulfill-pr-agentic-workflow.md).
+</table>To run the AI agents autonomously, you must activate the agentic workflow. For more information, see [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md).
 
 For more information about the AI agents, see [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md).
 
@@ -53,13 +53,13 @@ There might be AI agents installed with the Now Assist application that are not 
 
 -   **[Conversational intake for sourcing and procurement agentic workflow](spo-help-fulfill-pr-agentic.md)**  
 The Conversational intake for sourcing and procurement agentic workflow addresses your procurement needs by providing product recommendations, guided checkout, off-catalog processes, and detailed product information. It also answers questions and tracks related records.
--   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](../task/activate-fulfill-pr-agentic-workflow.md)**  
+-   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)**  
 Enable AI agents in the Now Assist panel to help you manage procurement requests more efficiently, with faster response times and smarter support.
--   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](../task/activate-fulfill-pr-agentic-workflow-va.md)**  
+-   **[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](activate-fulfill-pr-agentic-workflow-va.md)**  
 Enable AI agents in Virtual Agent to streamline procurement requests, providing quicker support and a more efficient experience for requesters through intelligent assistance.
--   **[Submit a purchase request using the Now Assist AI agent](../task/request-product-ai-agents.md)**  
+-   **[Submit a purchase request using the Now Assist AI agent](request-product-ai-agents.md)**  
 Use the Now Assist AI‑powered chat experience in the Employee Center to submit a purchase request. The AI agent analyzes your requirements, displays suitable products or services, and guides you through confirming and submitting the request.
--   **[Update the product category or spend category in the Now Assist panel](../task/update-product-spend-category.md)**  
+-   **[Update the product category or spend category in the Now Assist panel](update-product-spend-category.md)**  
 Use the Now Assist panel to update the product category or spend category for purchase requisitions, sourcing requests, or purchase orders directly from the Source-to-Pay Workspace.
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)

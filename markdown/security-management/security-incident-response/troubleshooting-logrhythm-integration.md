@@ -20,14 +20,14 @@ Refer to the following topics for troubleshooting:
 -   Verify connectivity for LogRhythm
 -   Script execution and system log for LogRhythm
 
--   **[Verify connectivity for LogRhythm](../task/verify-connectivity.md)**  
+-   **[Verify connectivity for LogRhythm](verify-connectivity.md)**  
 Verify your connection to the LogRhythm Client Console by sending curl requests to test the LogRhythm REST API. The verification process is optional.
--   **[Script execution and system log for LogRhythm](../task/script-execution-logrhythm.md)**  
+-   **[Script execution and system log for LogRhythm](script-execution-logrhythm.md)**  
 If you are troubleshooting an alarm ingestion issue, you can override the default five-minute polling interval to view results immediately. In this scenario, call the script execution manually to execute polling. This execution is optional.
 
 **Parent Topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
-**Previous topic:**[View LogRhythm drill down events](../task/drilldown-events.md)
+**Previous topic:**[View LogRhythm drill down events](drilldown-events.md)
 
-**Next topic:**[Verify connectivity for LogRhythm](../task/verify-connectivity.md)
+**Next topic:**[Verify connectivity for LogRhythm](verify-connectivity.md)
 

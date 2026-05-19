@@ -31,5 +31,5 @@ The service provider connector application is a reference design for creating a 
 
 [Domain scope](c_DomainScope.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](r_InstalledWithDomainSeparation.md)
 

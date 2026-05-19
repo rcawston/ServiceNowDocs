@@ -55,5 +55,5 @@ You can also use the GRC Approval Configurator to configure policy exception rul
     When the policy exception record transitions to the Pending Verification state, the designated approvers are notified that their approval is required. If any fields in the policy exception request were not filled in by the requester \(for example, the Policy or Control Objective\), those fields become mandatory for the approvers. When the approvers have reviewed, completed, and approved the request, it transitions to the Analyze state and is assigned to the compliance manager for further analysis and approval.
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

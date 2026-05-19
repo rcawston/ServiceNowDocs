@@ -69,7 +69,7 @@ Certain fields added by the migration also must be configured to take advantage 
 8.  If you have entitlements that require management of license keys, you can create multiple license keys associated to the same entitlement, as well as allocate these license keys to a user or device.
 
 
-**Parent Topic:**[Configuring Software Asset Management](../concept/Config-sam-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management](Config-sam-workspace.md)
 
 **Related topics**  
 

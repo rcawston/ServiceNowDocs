@@ -141,5 +141,5 @@ Next steps:
 
 **Warning:** Without configured module access policies, users might be unable to view the encrypted data, or access might be unrestricted depending on your system configuration. Configure access policies immediately after creating encrypted field configurations.
 
-**Parent Topic:**[Configuring External Key Management Service](../concept/ekms-configuring-external-key-management.md)
+**Parent Topic:**[Configuring External Key Management Service](ekms-configuring-external-key-management.md)
 

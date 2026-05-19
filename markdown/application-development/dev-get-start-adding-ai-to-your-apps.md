@@ -22,5 +22,5 @@ To create AI assets and integrate them into your custom applications, you can us
 -   **[Maintaining AI assets](dev-get-start-maintaining-ai-assets.md)**  
 There are important maintenance considerations for applications that include AI assets, which go beyond the maintenance practices for traditional custom applications. Learn about how to maintain applications that contain AI assets on the ServiceNow AI Platform.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

@@ -125,8 +125,8 @@ Optional attributes of an SMS device used inside an SMS service provider's **Adv
 </table>
 -   **[Select a service provider](t_SelectingAServiceProvider.md)**  
 You can configure how a device's service provider affects the construction of the device's email address.
--   **[SMS notification advanced scripting](../reference/r_SMSNotificationAdvancedScripting.md)**  
+-   **[SMS notification advanced scripting](r_SMSNotificationAdvancedScripting.md)**  
 You can use these objects and their attributes in your advanced notification scripts on the SMS Notification Service Provider form.
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](c_SubscriptionBasedNotifications.md)
 

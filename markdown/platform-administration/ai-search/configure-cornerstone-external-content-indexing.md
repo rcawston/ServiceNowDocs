@@ -85,5 +85,5 @@ Your connector admin needs these items to configure a Cornerstone external conte
 
 For details on creating and configuring a Cornerstone external content connector, see [Create a Cornerstone external content connector](create-ext-cont-connector-cornerstone.md).
 
-**Parent Topic:**[Cornerstone external content connector](../concept/cornerstone-external-content-connector.md)
+**Parent Topic:**[Cornerstone external content connector](cornerstone-external-content-connector.md)
 

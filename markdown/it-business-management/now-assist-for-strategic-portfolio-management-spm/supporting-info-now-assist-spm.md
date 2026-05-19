@@ -49,7 +49,7 @@ For more information, see [Configure Now Assist Admin features](configuring-na-s
 
 [Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
-[Now Assist for SPM reference](../reference/now-assist-spm-reference.md)
+[Now Assist for SPM reference](now-assist-spm-reference.md)
 
 [Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](using-na-spm-ai-agents.md)
 

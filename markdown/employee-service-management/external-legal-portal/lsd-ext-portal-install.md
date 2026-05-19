@@ -31,7 +31,7 @@ Role required: admin
 
 Required plugins and roles are installed with External Legal Service Center.
 
-For more information, see [External Legal Service Center reference](../concept/lsd-ext-portal-reference-landing.md).
+For more information, see [External Legal Service Center reference](lsd-ext-portal-reference-landing.md).
 
 ## Procedure
 

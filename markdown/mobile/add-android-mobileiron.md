@@ -69,5 +69,5 @@ For more information on the MobileIron App Catalog, see the [MobileIron document
 
 If your instance is on an internal network, you might need to configure the VPN. For more information, see the MobileIron documentation on [VPN configuration](http://mi.extendedhelp.mobileiron.com/49/all/en/desktop/VPN_Configuration.htm).
 
-**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](../concept/mobileiron-mdm.md)
+**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](mobileiron-mdm.md)
 

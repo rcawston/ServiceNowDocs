@@ -42,7 +42,7 @@ Cases for a business location are added to the Cases related list on the interna
 -   When a case is created, the service organization on the case is the service organization of the user who creates the case.
 -   When a case is assigned to an agent, the service organization on the case is updated to the service organization of the assigned agent.
 
-**Note:** Only external staff with the location agent can act as fulfillers. For more information, see [External business location \(EBL\) as a fulfiller](../concept/ebl-as-a-fulfiller.md).
+**Note:** Only external staff with the location agent can act as fulfillers. For more information, see [External business location \(EBL\) as a fulfiller](ebl-as-a-fulfiller.md).
 
 |Consumer type|Case access|
 |-------------|-----------|

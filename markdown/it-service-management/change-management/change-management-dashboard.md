@@ -17,7 +17,7 @@ Use this dashboard to see the trends in change request resolution over time acro
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](performance-analytics/change.md) to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](../change.md) to view, and track the open changes.
 
 ![Animated tour of the tabs of the Change Management dashboard](../image/change-management.gif)
 

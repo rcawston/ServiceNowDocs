@@ -51,7 +51,7 @@ Customers who on-boarded before Yokohama release
 
 Agent Assist is enabled by default with the option to manually migrate to Recommended Actions - AI search.To migrate from Agent Assist to Recommended Actions - AI Search create and set the **hideAgentAssistShowRA** UX page property to `True`.
 
-**Note:** If you already created this property for enabling [Recommended Actions in the chat interaction record](../concept/ra-csm-chat-interaction-record.md), you need not create it again.
+**Note:** If you already created this property for enabling [Recommended Actions in the chat interaction record](ra-csm-chat-interaction-record.md), you need not create it again.
 
 </td></tr></tbody>
 </table>## Procedure

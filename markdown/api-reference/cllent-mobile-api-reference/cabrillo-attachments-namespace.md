@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 The name space for Cabrillo JS attachment functions. This enables adding and viewing attachments.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.attachments - addFile\(String tableName, String sysId, Object params, String options\)
 

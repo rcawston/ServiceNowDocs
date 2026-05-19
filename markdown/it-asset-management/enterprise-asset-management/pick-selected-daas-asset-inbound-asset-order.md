@@ -104,5 +104,5 @@ From the navigation menu of the Asset operations view, navigate to **Provider** 
 
 Complete the corresponding Asset prepare task by preparing the picked asset for shipment. For detailed instructions, see [Complete the Asset prepare task for a requested Device as a Service \(DaaS\) asset](prepare-picked-daas-asset-inbound-asset-order.md).
 
-**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md)
+**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md)
 

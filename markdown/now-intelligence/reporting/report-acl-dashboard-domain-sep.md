@@ -21,11 +21,11 @@ Configure the true/false property **sn\_report\_acl.run\_scan\_with\_queryNoDoma
 
 This property is only valid on domain-separated instances. It defines whether the app considers the user domain when you run the query. If false, security\_admins gets results only for the domains they have visibility to.
 
-A global security\_admin can set the property to true and view the results for all the domains on the instance. The individual security\_admins can then retrieve the collected results for their own domains. For more information, see [Filter report assessment scans](../task/filter-report-assessment-scans.md#).
+A global security\_admin can set the property to true and view the results for all the domains on the instance. The individual security\_admins can then retrieve the collected results for their own domains. For more information, see [Filter report assessment scans](filter-report-assessment-scans.md#).
 
 The assessment runs as a normal query when this property is set to true on a single domain instance. The application treats the assessment as if the property is false if the property is deleted.
 
 **Note:** When you run the assessment as a global security\_admin, be sure to set the property back to false. If true, any security\_admin can query the entire instance. Other security\_admins don't see data that they don't have the right to view, but collected data is overwritten.
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 

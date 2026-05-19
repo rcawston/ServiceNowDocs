@@ -23,7 +23,7 @@ HR Agents can access Recommended Actions in HR Agent Workspace by selecting the 
 -   Relevant KB articles and similar cases in the context of the current case.
 -   Suggestion to add an approval to the case whenever needed.
 
-    For more details, see [Use recommended actions](../task/guided-decision-tree-aws.md).
+    For more details, see [Use recommended actions](guided-decision-tree-aws.md).
 
 
 ## Recommended Actions for HRSD workflow

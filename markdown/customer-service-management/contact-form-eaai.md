@@ -30,5 +30,5 @@ The Contact form enables you to add the customer contact to the interaction reco
 **Related topics**  
 
 
-[Create a customer contact](../task/create-a-customer-contact_EaaI.md)
+[Create a customer contact](create-a-customer-contact_EaaI.md)
 

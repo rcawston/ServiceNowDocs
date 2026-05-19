@@ -174,10 +174,10 @@ To see Risk data, you must have the Technology Portfolio Management plugin insta
 -   Software Asset Management \[com.snc.sams\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+</table>**Parent Topic:**[Work with solution data in Digital Portfolio Management](dpm-working-with.md)
 
 **Related topics**  
 
 
-[Configure Needs attention panels in Digital Portfolio Management](../task/dpm-configure-needs-attention.md)
+[Configure Needs attention panels in Digital Portfolio Management](dpm-configure-needs-attention.md)
 

@@ -37,28 +37,28 @@ Cost center and GL account values are restricted by the ERP source on the object
 
 If there’s any record with different ERP sources, then an integration error task is raised. This is an indicator for your fulfiller to correct the record before processing it further.
 
-**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](../concept/integrating-spo.md)
+**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
 
 **Related topics**  
 
 
-[Sourcing and Procurement Operations integration with IT Asset Management](../concept/spo-itam-better-together.md)
+[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
 
-[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 
-[Sourcing and Procurement Operations integration with third-party sourcing solutions](../concept/psm-integration-third-party-sourcing.md)
+[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
 
-[Sourcing and Procurement Operations integration with Third-party Risk Management](../concept/better-together-with-vrm.md)
+[Sourcing and Procurement Operations integration with Third-party Risk Management](better-together-with-vrm.md)
 
-[Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md)
+[Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md)
 
-[Sourcing and Procurement Operations integration with Celonis](../concept/integration-psm-celonis.md)
+[Sourcing and Procurement Operations integration with Celonis](integration-psm-celonis.md)
 
-[Sourcing and Procurement Operations integration with Field Service Management](../concept/integration-psm-fsm.md)
+[Sourcing and Procurement Operations integration with Field Service Management](integration-psm-fsm.md)
 
-[Source-to-Pay Operations integration with Contract Management Pro](../concept/integration-spo-cmpro.md)
+[Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[SpendInt APIs](../concept/spendint-api.md)
+[SpendInt APIs](spendint-api.md)
 
-[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 

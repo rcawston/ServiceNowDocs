@@ -63,24 +63,24 @@ After the shipping carrier completes these prerequisites, you must complete thes
 -   If the integration profile contains connection details through a connection and credentials alias, update those details as needed so that you can successfully authenticate and connect to the carrier API.
 -   Associate the shipping carrier with the integration profile.
 
--   **[Use Advanced Shipment Notification in Enterprise Asset Management](../task/asn-eam.md)**  
+-   **[Use Advanced Shipment Notification in Enterprise Asset Management](asn-eam.md)**  
 Use Advanced Shipment Notification \(ASN\) to automate and create enterprise asset records for when your assets are in transit.
--   **[Create a shipment carrier record in Enterprise Asset Workspace](../task/create-shipment-carrier-record-eam.md)**  
+-   **[Create a shipment carrier record in Enterprise Asset Workspace](create-shipment-carrier-record-eam.md)**  
 Create a shipping carrier record in the Enterprise Asset workspace to associate the carrier with an integration profile.
--   **[Script include for third-party shipping carrier integrations](../reference/script-include-shipping-carrier-integrations-eam.md)**  
+-   **[Script include for third-party shipping carrier integrations](script-include-shipping-carrier-integrations-eam.md)**  
 Before you can integrate the Enterprise Asset Management application with a third-party shipping carrier, that shipping carrier must create a script include that extends the base ITAMShipmentIntegration script. By extending this script, you can connect to the third-party shipping carrier application and retrieve shipment details in real-time.
--   **[Integrate with a third-party shipping carrier in the Enterprise Asset Workspace](../task/integrate-shipping-carriers-eam.md)**  
+-   **[Integrate with a third-party shipping carrier in the Enterprise Asset Workspace](integrate-shipping-carriers-eam.md)**  
 Integrate the Enterprise Asset Management application with a third-party shipping carrier so that you can track the real-time status of your enterprise asset shipments.
--   **[View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace](../task/view-shipping-carrier-integration-profiles-eam.md)**  
+-   **[View integration profiles for third-party shipping carriers in the Enterprise Asset Workspace](view-shipping-carrier-integration-profiles-eam.md)**  
 View the integration profiles for your third-party shipping carriers in the Asset operations view of the Enterprise Asset Workspace. These integration profiles enable you to connect to third-party shipping carrier applications so that you can retrieve shipment details for your enterprise assets.
--   **[Associate a third-party shipping carrier with an integration profile in the Enterprise Asset Workspace](../task/associate-shipping-carrier-integration-profile-eam.md)**  
+-   **[Associate a third-party shipping carrier with an integration profile in the Enterprise Asset Workspace](associate-shipping-carrier-integration-profile-eam.md)**  
 Associate a third-party shipping carrier with an integration profile so that you can successfully connect to that shipping carrier.
--   **[Remove a third-party shipping carrier from an integration profile in the Enterprise Asset Workspace](../task/remove-shipping-carrier-integration-profile-eam.md)**  
+-   **[Remove a third-party shipping carrier from an integration profile in the Enterprise Asset Workspace](remove-shipping-carrier-integration-profile-eam.md)**  
 Remove a third-party shipping carrier that you no longer want to associate with an integration profile.
--   **[Test the integration profile for a third-party shipping carrier in the Enterprise Asset Workspace](../task/test-shipping-carrier-integration-profile-eam.md)**  
+-   **[Test the integration profile for a third-party shipping carrier in the Enterprise Asset Workspace](test-shipping-carrier-integration-profile-eam.md)**  
 Test the integration profile for a third-party shipping carrier so that you can mitigate any connection issues that arise.
--   **[View and add enterprise asset shipments](../task/view-enterprise-asset-shipments.md)**  
+-   **[View and add enterprise asset shipments](view-enterprise-asset-shipments.md)**  
 Use the Shipments list to view all active enterprise asset shipments from a central location. If an existing shipment doesn’t appear on the list, you can add it manually.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

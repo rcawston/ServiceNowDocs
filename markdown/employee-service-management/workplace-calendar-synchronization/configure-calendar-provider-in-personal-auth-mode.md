@@ -39,7 +39,7 @@ Role required: sn\_wsd\_rsvsync.admin
 
 3.  On the Provider form, fill in the fields.
 
-    For a description of the field values, see [Provider form](../reference/wsd-calendar-provider-form-fields.md).
+    For a description of the field values, see [Provider form](wsd-calendar-provider-form-fields.md).
 
     **Note:** The **Strict mode** field is deprecated and you must set the Exchange Online Sync Integration Mode property to Strict, Personal, or Normal mode. Additionally, the strict mode email has been updated to Delegated user email.
 
@@ -52,7 +52,7 @@ To access resource calendars and generate a subscription ID, you must add a Rese
 
 Execute an instance scan to check the synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 

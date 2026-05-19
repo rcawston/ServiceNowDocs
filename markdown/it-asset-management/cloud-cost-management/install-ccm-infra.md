@@ -29,7 +29,7 @@ The following items are installed with Cloud Cost Management Infra Stack:
 -   Plugins
 -   Store applications
 
-The tables, scheduled jobs, and system properties aren't installed with the Cloud Cost Management Infra Stack application. Instead, the components specific to Cloud Cost Management Infra Stack are installed with the Cloud Cost Management application. For more information, see [Components installed with Cloud Cost Management](../reference/installed-with-ci.md).
+The tables, scheduled jobs, and system properties aren't installed with the Cloud Cost Management Infra Stack application. Instead, the components specific to Cloud Cost Management Infra Stack are installed with the Cloud Cost Management application. For more information, see [Components installed with Cloud Cost Management](installed-with-ci.md).
 
 ## Procedure
 

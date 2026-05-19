@@ -29,5 +29,5 @@ Role required: Third-party Risk Manager \(sn\_vdr\_risk\_asmt.vendor\_risk\_mana
     -   SIG Core 2025, 2024, 2023, 2022, and 2021
     -   SIG Lite 2025, 2024, 2023, 2022, and 2021
 
-**Parent Topic:**[Standardized Information Gathering \(SIG\) Questionnaire Integration](../concept/grc-sig-integration.md)
+**Parent Topic:**[Standardized Information Gathering \(SIG\) Questionnaire Integration](grc-sig-integration.md)
 

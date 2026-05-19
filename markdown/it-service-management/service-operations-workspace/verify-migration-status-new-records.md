@@ -58,5 +58,5 @@ At the end of the migration process, a confirmation message specifies if the mig
     5.  Select **Update**.
 
 
-**Parent Topic:**[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/new-record-menu-items-migration-itsm-aw-sow.md)
+**Parent Topic:**[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](new-record-menu-items-migration-itsm-aw-sow.md)
 

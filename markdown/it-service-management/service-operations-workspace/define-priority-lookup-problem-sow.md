@@ -27,6 +27,6 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For more information about the available fields, see [Data lookup for prioritizing problems](../../problem-management/concept/prioritise-problems.md).
+    For more information about the available fields, see [Data lookup for prioritizing problems](../problem-management/prioritise-problems.md).
 
 

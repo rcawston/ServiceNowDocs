@@ -58,5 +58,5 @@ ITOM Visibility manages and uses CMDB tables. Several ServiceNow products benefi
 
 For details on implementing CMDB data to conform with the CSDM framework, see [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md).
 
-**Parent Topic:**[ITOM Visibility and CSDM reference](../concept/itom-visibility-use-case-product-view.md)
+**Parent Topic:**[ITOM Visibility and CSDM reference](itom-visibility-use-case-product-view.md)
 

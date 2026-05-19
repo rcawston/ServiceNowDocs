@@ -39,7 +39,7 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
     Perform this step for each cell for which you want to provide data. You can scroll the cells to provide responses for all the tasks.
 
-    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [Create a manual metric definition](../../metrics/task/create-manual-metric-definition.md) and [Manual metric definition fields](../../metrics/reuse/manual-md-reuse.md).
+    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [Create a manual metric definition](create-manual-metric-definition.md) and [Manual metric definition fields](manual-md-reuse.md).
 
 7.  Select the tasks for which you want to submit the responses.
 
@@ -117,5 +117,5 @@ Press the Tab key to get the focus on to the select all check box. Press the Ent
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using GRC: Metrics to provide data](../../metrics/concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

@@ -29,7 +29,7 @@ Role required: admin
 
 Depending on your environment, you can request related plugins with the Software Asset Management Professional \(com.snc.samp\) plugin. You can request the optional plugins through either the Now Support Service Portal or through the ServiceNow Store.
 
-For the list of Software Asset Management Professional plugins, see [Components installed with Software Asset Management Professional](../reference/sam-installed-components.md).
+For the list of Software Asset Management Professional plugins, see [Components installed with Software Asset Management Professional](sam-installed-components.md).
 
 Only ServiceNow personnel can activate the Software Asset Management Professional \(com.snc.samp\) plugin and other related plugins. The plugins are not visible in the plugin list, even after activation.
 
@@ -99,5 +99,5 @@ The date and time to activate the plugin.
     For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
 
 
-**Parent Topic:**[Configuring Software Asset Management](../concept/Config-sam-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management](Config-sam-workspace.md)
 

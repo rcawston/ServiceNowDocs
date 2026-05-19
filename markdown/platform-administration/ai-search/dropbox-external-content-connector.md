@@ -20,11 +20,11 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure Dropbox for external content indexing](../task/configure-dropbox-external-content-indexing.md)**  
+-   **[Configure Dropbox for external content indexing](configure-dropbox-external-content-indexing.md)**  
 Create and authorize an OAuth 2.0 application in the Dropbox App Console to allow the Dropbox external content connector to access your Dropbox source system.
--   **[Create a Dropbox external content connector](../task/create-ext-cont-connector-dropbox.md)**  
+-   **[Create a Dropbox external content connector](create-ext-cont-connector-dropbox.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Dropbox source system.
--   **[Configure crawl settings for a Dropbox external content connector](../task/configure-crawl-settings-dropbox-external-content-connector.md)**  
+-   **[Configure crawl settings for a Dropbox external content connector](configure-crawl-settings-dropbox-external-content-connector.md)**  
 Specify the user and team folders you want your Dropbox external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,7 +32,7 @@ Specify the user and team folders you want your Dropbox external content connect
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

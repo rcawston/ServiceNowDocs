@@ -41,7 +41,7 @@ Content filtering rules specify the role that a user must have to access the con
 
 ## Role-based activity definition access
 
-Manage activity definition access by specifying the **Required Roles** to access an activity definition. This overrides any content access filtering. To learn more about roles, see [Playbooks roles](../reference/process-automation-designer-roles.md). To learn more about activity definitions, see [Activity definitions](activity-definitions.md).
+Manage activity definition access by specifying the **Required Roles** to access an activity definition. This overrides any content access filtering. To learn more about roles, see [Playbooks roles](process-automation-designer-roles.md). To learn more about activity definitions, see [Activity definitions](activity-definitions.md).
 
 ![Required roles field in an activity definition](../images/required-roles-activity-def.png)
 

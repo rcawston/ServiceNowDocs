@@ -49,5 +49,5 @@ Changing the planning scope from a single selected portfolio to all portfolios h
 -   In case of multi-year planning, your confirmed plans for the portfolios are retained.
 -   Deletes all existing scenarios and scenario funding records.
 
-**Parent Topic:**[Configure the scenario planning type and scope](../task/configure-scenario-planning.md)
+**Parent Topic:**[Configure the scenario planning type and scope](configure-scenario-planning.md)
 

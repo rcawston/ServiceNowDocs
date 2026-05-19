@@ -25,7 +25,7 @@ If you do not trigger the rule execution, retroactive overriding of the **Anomal
 
 When configuring a metric configuration rule, rules with a filter run before rules with no filter. When multiple rules have the same priority, the most recently configured rule runs first.
 
-For details on creating configuration settings rules, see [Create a configuration settings rule](../../event-management/task/create-config-overriding-rule.md).
+For details on creating configuration settings rules, see [Create a configuration settings rule](../agent-client-collector/create-config-overriding-rule.md).
 
-For details on the available anomaly detection action levels, see [Configure the action level for anomaly detection](../../event-management/concept/configure-level-anomaly-detection.md).
+For details on the available anomaly detection action levels, see [Configure the action level for anomaly detection](../agent-client-collector/configure-level-anomaly-detection.md).
 

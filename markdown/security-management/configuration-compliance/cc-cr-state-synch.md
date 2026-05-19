@@ -76,5 +76,5 @@ Also, when remediation tasks have more than one CHG, the state of the remediatio
 -   When a CHG moves forward to **Review**, if all other CHGs associated with the remediation task are in **Review** or **Closed** states \(with a successful close code\), ​the remediation task automatically transitions to **Resolved**​. Any other related CHGs that are canceled or closed unsuccessfully are ignored.
 -   When a CHG moves to **Canceled** or ​**Closed** \(close code of **Unsuccessful**\), if all other CHGs associated with the remediation task are in the same state, then the remediation task automatically transitions back to **Under Investigation​**.
 
-For more information about remediation task states and what you can do in each state, see [Configuration Compliance states](../concept/vuln-config-compl-states.md).
+For more information about remediation task states and what you can do in each state, see [Configuration Compliance states](vuln-config-compl-states.md).
 

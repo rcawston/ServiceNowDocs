@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_config
 
 A customized legal hold template is created.
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](config-lg-hold-notif.md)
 

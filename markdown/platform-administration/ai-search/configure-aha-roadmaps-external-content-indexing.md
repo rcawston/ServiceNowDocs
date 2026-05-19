@@ -56,5 +56,5 @@ Your connector admin needs these items to configure a Aha! Roadmaps external con
 
 For details on creating and configuring a Aha! Roadmaps external content connector, see [Create an Aha! Roadmaps external content connector](create-ext-cont-connector-aha-roadmaps.md).
 
-**Parent Topic:**[Aha! Roadmaps external content connector](../concept/aha-roadmaps-external-content-connector.md)
+**Parent Topic:**[Aha! Roadmaps external content connector](aha-roadmaps-external-content-connector.md)
 

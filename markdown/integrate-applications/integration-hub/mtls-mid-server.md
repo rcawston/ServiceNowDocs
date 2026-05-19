@@ -40,7 +40,7 @@ This task is divided into four steps.
     -   If you're storing them on the instance, the keystore and password must also be on the MID Server.
     -   If you're storing them in the config.xml file, make sure you add the mTLS protocol parameters to the file before you configure the MID Protocol Profile. The `config.xml` is in the `/agent` directory, in the MID Server installation directory. See [MID Server parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-parameters.md).
     -   If you’re storing them in an external vault, make sure you set up your [CyberArk integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md) before creating a MID Protocol Profile.
-4.  Test your connection with a [REST step](../../flow-designer/reference/rest-request-action-designer.md). This step is optional.
+4.  Test your connection with a [REST step](rest-request-action-designer.md). This step is optional.
 
 ### Procedure
 

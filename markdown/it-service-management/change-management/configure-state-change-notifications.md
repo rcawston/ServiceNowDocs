@@ -36,5 +36,5 @@ By default, the notification is sent to the user who originally requested the ch
 4.  Click **Update**.
 
 
-**Parent Topic:**[Exploring Change Management](../concept/exploring-change-management.md)
+**Parent Topic:**[Exploring Change Management](exploring-change-management.md)
 

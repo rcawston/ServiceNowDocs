@@ -24,7 +24,7 @@ With generative AI skills and agentic workflows, your security analysts have the
 -   Generate post-incident analysis data.
 -   Generate performance metrics for your remediation teams with an agentic workflow.
 
-    For this feature, the Security operations metrics analysis skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](../task/assess-metrics-sir-aiagent.md) for more information.
+    For this feature, the Security operations metrics analysis skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](assess-metrics-sir-aiagent.md) for more information.
 
 -   Generate a resolution plan.
 -   Generate closure notes.
@@ -191,11 +191,11 @@ admin
 To learn more about configuring and using Now Assist for Security Incident Response, see:
 
 -   [Configuring Now Assist for Security Incident Response](configuring-now-assist-for-security-operations.md)
--   [Summarize a security incident with Now Assist for Security Incident Response](../task/summarize-security-incident-now-assist-sec-incident.md)
--   [Generate closure notes for a security incident with Now Assist for Security Incident Response](../task/generate-closure-notes-si-now-assist-sec-incident.md)
--   [Generate correlation insights with Now Assist for Security Incident Response](../task/generating-insights-for-now-assist-for-security.md)
--   [Generate recommended actions for a security incident with Now Assist for Security Incident Response](../task/generate-recommended-actions-now-assist-for-security.md)
--   [Generate a post-incident analysis for a security incident with Now Assist for Security Incident Response](../task/generate-pia-report-now-assist-security-incident.md)
--   [Analyze security operations metrics agentic workflow](../task/assess-metrics-sir-aiagent.md)
--   [Inputs and triggers for Now Assist for Security Incident Response](../reference/input-triggers-now-assist-security-incident.md)
+-   [Summarize a security incident with Now Assist for Security Incident Response](summarize-security-incident-now-assist-sec-incident.md)
+-   [Generate closure notes for a security incident with Now Assist for Security Incident Response](generate-closure-notes-si-now-assist-sec-incident.md)
+-   [Generate correlation insights with Now Assist for Security Incident Response](generating-insights-for-now-assist-for-security.md)
+-   [Generate recommended actions for a security incident with Now Assist for Security Incident Response](generate-recommended-actions-now-assist-for-security.md)
+-   [Generate a post-incident analysis for a security incident with Now Assist for Security Incident Response](generate-pia-report-now-assist-security-incident.md)
+-   [Analyze security operations metrics agentic workflow](assess-metrics-sir-aiagent.md)
+-   [Inputs and triggers for Now Assist for Security Incident Response](input-triggers-now-assist-security-incident.md)
 

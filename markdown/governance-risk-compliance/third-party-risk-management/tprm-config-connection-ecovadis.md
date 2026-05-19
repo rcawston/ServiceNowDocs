@@ -17,7 +17,7 @@ Create a connection to fetch and update scores from EcoVadis to help ensure that
 
 ## Before you begin
 
-Activate the Vendor Risk Management integration with EcoVadis application \[com.sn\_app\_grc\_ecovadis\]. To see the instructions for downloading a GRC application from the ServiceNow® Store, see [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+Activate the Vendor Risk Management integration with EcoVadis application \[com.sn\_app\_grc\_ecovadis\]. To see the instructions for downloading a GRC application from the ServiceNow® Store, see [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 Role required: admin
 
@@ -48,5 +48,5 @@ Role required: admin
     **Note:** You can only create one configuration.
 
 
-**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](../concept/tprm-integrating-ecovadis.md)
+**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](tprm-integrating-ecovadis.md)
 

@@ -74,7 +74,7 @@ Role required: sn\_process\_mining\_admin
 
     ![Edit dataset](../image/ext-data-edit.png)
 
-    You are taken back to the **Import data** tab. You can import the new data that you want to populate in the table. For steps to import data, see [Import data into the audit table](../task/import-data.md).
+    You are taken back to the **Import data** tab. You can import the new data that you want to populate in the table. For steps to import data, see [Import data into the audit table](import-data.md).
 
 
 ## Empty a dataset
@@ -103,7 +103,7 @@ Role required: sn\_process\_mining\_admin
 
 5.  Type “Empty” in the confirmation area, and select **Empty dataset**.
 
-    The content from the audit and record tables are removed. After you’ve emptied the dataset, you can import any dataset again. For steps to import data, see [Import data into the audit table](../task/import-data.md).
+    The content from the audit and record tables are removed. After you’ve emptied the dataset, you can import any dataset again. For steps to import data, see [Import data into the audit table](import-data.md).
 
 
 ## Delete a dataset

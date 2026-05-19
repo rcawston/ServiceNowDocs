@@ -86,9 +86,9 @@ ALL P1 incidents + only closed P2
 **Related topics**  
 
 
-[Joining tables using database views](../task/c_CreatingDatabaseViews.md)
+[Joining tables using database views](c_CreatingDatabaseViews.md)
 
-[Displaying function results in a database view](../task/displaying-function-results-in-a-database-view.md)
+[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
 
-[Database views in the base system](../reference/r_DatabaseViewsInTheBaseSystem.md)
+[Database views in the base system](r_DatabaseViewsInTheBaseSystem.md)
 

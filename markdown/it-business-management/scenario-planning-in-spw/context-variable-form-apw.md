@@ -72,5 +72,5 @@ Option to display the context variables on the Target form in the Actual Value S
 Default value to consider for updating the actual value of the target.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

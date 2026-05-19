@@ -19,7 +19,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## About this task
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](../concept/decision-trees-in-gdb.md).
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md).
 
 ## Procedure
 

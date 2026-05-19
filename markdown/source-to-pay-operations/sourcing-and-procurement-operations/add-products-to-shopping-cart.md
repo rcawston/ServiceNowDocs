@@ -36,5 +36,5 @@ Role required: sn\_shop.shopper
 
 When you are done adding products to your cart, you can review your shopping cart and proceed to final checkout. For more information, see [Review your shopping cart](review-shopping-cart.md).
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](shopping-cart.md)
 

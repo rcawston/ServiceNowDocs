@@ -46,5 +46,5 @@ GRC administrators can configure the names of the task configuration records tha
 -   Add, update, remove, or override the state labels of the tables.
 -   Update the type of the tab such as group tab or regular tab.
 
-**Parent Topic:**[Landing Page Configurations module](../../grc-common/reference/admin-config-using-grc-common.md)
+**Parent Topic:**[Landing Page Configurations module](admin-config-using-grc-common.md)
 

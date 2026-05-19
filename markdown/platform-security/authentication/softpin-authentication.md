@@ -34,5 +34,5 @@ While SoftPIN is a secure and convenient authentication method, there are severa
 -   Susceptible to reuse, observation, and social engineering.
 -   Not suitable as the sole authentication method for sensitive or privileged operations.
 
-Soft PIN can be used for your specific use case. For detailed configuration instructions, see [Configure Soft PIN](../task/configure-soft-pin.md).
+Soft PIN can be used for your specific use case. For detailed configuration instructions, see [Configure Soft PIN](configure-soft-pin.md).
 

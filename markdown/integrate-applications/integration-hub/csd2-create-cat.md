@@ -118,5 +118,5 @@ Check box that forces the system to determine if deploying this item is allowed 
     **Note:** If you are unable to see any of the mentioned fields or tabs, configure the table's form view or related lists accordingly.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md)
 

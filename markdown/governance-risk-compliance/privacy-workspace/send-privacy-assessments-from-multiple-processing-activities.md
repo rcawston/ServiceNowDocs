@@ -36,5 +36,5 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 7.  Click **Send**.
 
 
-**Parent Topic:**[Types of privacy assessments](../concept/privacy-assessments.md)
+**Parent Topic:**[Types of privacy assessments](privacy-assessments.md)
 

@@ -42,5 +42,5 @@ Role required: sn\_align\_core.apw\_user
 
 The items in your portfolio plan are ranked based on your ranked attribute.
 
-**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](../concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
+**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](using-scoring-frameworks-in-startegic-planning-workspace.md)
 

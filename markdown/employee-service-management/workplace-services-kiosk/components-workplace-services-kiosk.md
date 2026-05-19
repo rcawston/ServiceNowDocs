@@ -23,7 +23,7 @@ Several types of components are installed with activation of the Workplace Servi
 |----|-----------|--------------|
 |sn\_wsd\_kiosk.admin|Has access to configure the kiosk features and experience.|None|
 |sn\_wsd\_kiosk.operator|Has access to bind a kiosk configuration to a physical kiosk device.|None|
-|sn\_wsd\_kiosk.viewer|Has access to view and use the kiosk experience.|sn\_wsd.core\_workplace\_user. Workplace users can make reservations using the kiosk map. For more information, see [Make workplace reservations on the kiosk](../task/rsv-space-kiosk-map.md)|
+|sn\_wsd\_kiosk.viewer|Has access to view and use the kiosk experience.|sn\_wsd.core\_workplace\_user. Workplace users can make reservations using the kiosk map. For more information, see [Make workplace reservations on the kiosk](rsv-space-kiosk-map.md)|
 
 ## Tables
 

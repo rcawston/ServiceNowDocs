@@ -135,5 +135,5 @@ Related list of task records to which the knowledge article is recently attached
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Knowledge Management in Service Operations Workspace](../concept/knowledge-articles-sow.md)
+**Parent Topic:**[Knowledge Management in Service Operations Workspace](knowledge-articles-sow.md)
 

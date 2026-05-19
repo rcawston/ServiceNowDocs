@@ -106,7 +106,7 @@ N/A
 5.  Click **Update**.
 
 
-**Parent Topic:**[MID Server selection](../concept/c_MIDServerSelector.md)
+**Parent Topic:**[MID Server selection](c_MIDServerSelector.md)
 
 ## Select applications to include in the definition of ALL for a MID Server
 

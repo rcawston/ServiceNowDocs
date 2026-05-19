@@ -17,7 +17,7 @@ Monitor the compliance level of instance security controls, view security event 
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md).
 
 ## Instance Security Center components
 
@@ -142,7 +142,7 @@ Use the event ribbon to view key security event monitoring metrics for the curre
 -   To manually scroll through the metrics, select the right or left arrow keys.
 -   To configure the event ribbon, select **Edit**.
 
-To learn more about the event ribbon and how to configure it, see [Monitor security events](instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](../task/instance-sec-center-configure-event-ribbon.md).
+To learn more about the event ribbon and how to configure it, see [Monitor security events](instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](instance-sec-center-configure-event-ribbon.md).
 
 ## Daily compliance score
 
@@ -150,7 +150,7 @@ The Daily Compliance Score section contains the **Daily Compliance Score**, **Se
 
 You use the Daily Compliance Score to gauge how healthy your instance is from a security standpoint.
 
-The Daily Compliance Score is a percentage score. It is based on how compliant the current settings of your instance security properties are with the compliance values published in the [Hardening settings](../../security-center/reference/security-hardening-settings.md).
+The Daily Compliance Score is a percentage score. It is based on how compliant the current settings of your instance security properties are with the compliance values published in the [Hardening settings](instance-security-hardening-settings/security-hardening-settings.md).
 
 -   To learn more about Daily Compliance Score calculations, and how hardening settings impact it, see [Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md).
 -   The **Refresh** button enables an administrator to instantly recalculate the Daily Compliance Score. To learn more, see [How Daily Compliance score, trend, and graph data is refreshed](how-daily-compl-score-trend-date-refreshed.md).
@@ -163,7 +163,7 @@ Use this process to adjust the specific security configuration properties that a
 2.  Specify whether you want to view all or only recommended security controls. Then, select the category you want to work in.
 3.  Set each security configuration property in the selected category. Click **More Info** to view detailed information for a property.
 
-To learn more about hardening and optimizing security configuration properties to further increase compliance, see [Adjust instance security settings to increase compliance](../task/update-security-hardening-params.md).
+To learn more about hardening and optimizing security configuration properties to further increase compliance, see [Adjust instance security settings to increase compliance](update-security-hardening-params.md).
 
 To learn more about how trend and graph data is refreshed, see [How Daily Compliance score, trend, and graph data is refreshed](how-daily-compl-score-trend-date-refreshed.md).
 
@@ -213,7 +213,7 @@ MFA
 
 </td><td>
 
-Check box indicating if Multi-factor Authentication \(MFA\) is enabled for the logged in user. To learn more about MFA, see [Multi-factor authentication](../../../integrate/authentication/concept/mfa-landing.md).
+Check box indicating if Multi-factor Authentication \(MFA\) is enabled for the logged in user. To learn more about MFA, see [Multi-factor authentication](authentication/mfa-landing.md).
 
 </td></tr><tr><td>
 
@@ -324,7 +324,7 @@ Recommended Guidelines
 
 </td><td>
 
-Access to recommended security guidelines, including the [Hardening settings](../../security-center/reference/security-hardening-settings.md) and [Secure Coding Guide](https://support.servicenow.com) \[KB0623354\] articles.
+Access to recommended security guidelines, including the [Hardening settings](instance-security-hardening-settings/security-hardening-settings.md) and [Secure Coding Guide](https://support.servicenow.com) \[KB0623354\] articles.
 
 </td></tr><tr><td>
 
@@ -354,7 +354,7 @@ A notifications bell icon \(![Notification icon](../image/Inst_sec_center_notif_
     -   To view detailed information for a specific security event, select the notification.
     -   To mark all listed notifications as read, select **Mark All as Read**.
 
-**Note:** As an administrator, you can also configure preferences for sending specific types of notifications for each type of security event. To learn more, see [Set preferences for security event notifications](../task/enable-notification-preferences.md).
+**Note:** As an administrator, you can also configure preferences for sending specific types of notifications for each type of security event. To learn more, see [Set preferences for security event notifications](enable-notification-preferences.md).
 
 ## Tours
 
@@ -432,9 +432,9 @@ It enables you to perform the following tasks:
 **Note:** To learn more about how to use and activate the Virtual Agent, see:
 
 -   [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
--   [Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+-   [Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 
--   **[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)**  
+-   **[Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md)**  
 Learn the key differences when migrating from Instance Security Center \(ISC\) to ServiceNow Security Center \(SSC\).
 -   **[Monitor security events](instance-sec-center-event-ribbon.md)**  
 Analyze the event metrics in your instance so that you can identify and prevent potential security events.
@@ -444,8 +444,8 @@ Review the Daily Compliance Score metric and security configuration properties t
 Run the Auditor to scan your instance and find incorrect security definitions. It provides findings you can correct to help improve the security posture of your instance.
 -   **[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)**  
 Monitor user, export, authentication, email, and antivirus metrics for your instance. For example, you can monitor your email security by checking metrics for spam, external emails, and inbound emails from untrusted and trusted domains for your instance. Analyze these metrics to look for anomalous security behaviors that are related to activities that take place in your instance.
--   **[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)**  
+-   **[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)**  
 If you have the admin role, you can activate the ISC Virtual Agent Conversations plugin \(com.glide.isc\_virtualagent\). Activating this plugin installs the Virtual Agent and Natural Language Understanding \(NLU content packs, providing Virtual Agent access from the Instance Security Center.
 
-**Parent Topic:**[Platform Security](../../general/concept/platsec-sublanding.md)
+**Parent Topic:**[Platform Security](platsec-sublanding.md)
 

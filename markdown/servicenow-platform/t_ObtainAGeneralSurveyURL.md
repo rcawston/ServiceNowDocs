@@ -42,7 +42,7 @@ When a survey user clicks the general survey URL, the system creates a survey in
 
 As a result, the survey user receives a second notification in addition to the notification that you sent with the general survey URL. This may confuse the survey user. To avoid this issue, you can deactivate auto-notification.
 
-**Parent Topic:**[Survey URLs](../concept/c_SurveyURLs.md)
+**Parent Topic:**[Survey URLs](c_SurveyURLs.md)
 
 **Related topics**  
 

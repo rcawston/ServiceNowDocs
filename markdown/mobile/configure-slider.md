@@ -28,9 +28,9 @@ Creating a slider render type is more involved than for the other render types: 
 -   Max input attribute
 -   StepSize input attribute
 
-You can add additional number input attributes to the ones listed. For a complete list, check the Number inputs section in [Input form screen attributes for inputs](../reference/parameter-screen-var-attr.md).
+You can add additional number input attributes to the ones listed. For a complete list, check the Number inputs section in [Input form screen attributes for inputs](parameter-screen-var-attr.md).
 
-To view how different types of sliders display, see [Slider types and their input attributes](../reference/slider-input-attributes.md).
+To view how different types of sliders display, see [Slider types and their input attributes](slider-input-attributes.md).
 
 |Slider containing a reference point|Decorative slider with number a textual indicator|
 |-----------------------------------|-------------------------------------------------|
@@ -76,7 +76,7 @@ To view how different types of sliders display, see [Slider types and their inpu
 
 15. Add any additional input parameters that are applicable to the slider you want to create.
 
-    For a list of the slider types, see [Slider types and their input attributes](../reference/slider-input-attributes.md).
+    For a list of the slider types, see [Slider types and their input attributes](slider-input-attributes.md).
 
     **Note:** If you select the Decoration input attribute, which displays sections on the slider with corresponding labels, you must apply additional configuration. For more information, see [Configure a decorative slider](decorative-slider.md).
 

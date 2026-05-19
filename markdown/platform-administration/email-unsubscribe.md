@@ -124,5 +124,5 @@ If the **Unsubscribe** link is selected, the email client creates a message simi
 
 ![An email that shows how the email client works after the unsubscribe link is selected](../image/example-unsubscribe-by-email.png "Sample unsubscribe by email message")
 
-**Parent Topic:**[Create an email notification](../task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 

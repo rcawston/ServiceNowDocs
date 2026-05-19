@@ -30,9 +30,9 @@ For more details on creating consumable assets, see [Create consumable assets](h
 **Related topics**  
 
 
-[Receive an asset](../task/t_ReceiveAnAsset.md)
+[Receive an asset](t_ReceiveAnAsset.md)
 
-[Create a receiving slip](../task/t_CreateAReceivingSlip.md)
+[Create a receiving slip](t_CreateAReceivingSlip.md)
 
-[Create a receiving slip line](../task/t_CreateAReceivingSlipLine.md)
+[Create a receiving slip line](t_CreateAReceivingSlipLine.md)
 

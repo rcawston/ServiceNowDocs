@@ -15,7 +15,7 @@ breadcrumb: [Assignment rules, Working with Task table, Table admin, Tables and 
 
 Data lookup rules offer a generic way to change any field value, not just assignment fields.
 
-[Data lookup and record matching support](../../field-administration/concept/c_DataLookRecMatchSupport.md) offer the following improvements over the Assignment module:
+[Data lookup and record matching support](../c_DataLookRecMatchSupport.md) offer the following improvements over the Assignment module:
 
 -   Ability to change any field value not just an assignment field
 -   More options to define when a rule runs:
@@ -37,11 +37,11 @@ Data lookup rules offer a generic way to change any field value, not just assign
 
 [Workflow assignments](c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](t_DataLookupRule.md)
 
 [Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
 

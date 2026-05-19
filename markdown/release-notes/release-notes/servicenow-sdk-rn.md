@@ -49,7 +49,7 @@ On Windows systems, after upgrading to ServiceNow SDK version 4.3 or later, exis
 
 ## Changed in this release
 
--   **[Flow API supports Service Catalog triggers and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-flow-api.md)**
+-   **[Flow API supports Service Catalog triggers and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/application-development/fluent-flow-api.md)**
 
     Use triggers and actions related to Service Catalog with the Flow API.
 

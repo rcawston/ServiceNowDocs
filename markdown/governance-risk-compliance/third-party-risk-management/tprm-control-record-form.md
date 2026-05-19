@@ -53,7 +53,7 @@ Inherit from control objective
 
 </td><td>
 
-Option to indicate whether the control is created through item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../../grc-policy-and-compliance/concept/support-multiple-controls-same-entity-control-objective.md).
+Option to indicate whether the control is created through item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../policy-and-compliance-management/support-multiple-controls-same-entity-control-objective.md).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ List of options:-   Standard control
 
 **Note:** All existing controls are termed as standard controls. You can convert a standard control to common and reverse its function as standard if you so require. However, by default all controls whether existing or created are standard.
 
-For more information, see [Convert standard control to common control and add reliant entities](../../grc-workspace-compliance/task/convert-standard-control-common.md).
+For more information, see [Convert standard control to common control and add reliant entities](../grc-compliance-management-workspace/convert-standard-control-common.md).
 
 </td></tr><tr><td>
 
@@ -335,10 +335,10 @@ Functional domain
 Functional domain for the control objective.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manually add a control to a third party or engagement](../../grc-vendor-risk-implementation/task/tprm-add-controls-tp.md)
+</table>**Parent Topic:**[Manually add a control to a third party or engagement](tprm-add-controls-tp.md)
 
 **Related topics**  
 
 
-[Manually add a control to a third party or engagement](../../grc-vendor-risk-implementation/task/tprm-add-controls-tp.md)
+[Manually add a control to a third party or engagement](tprm-add-controls-tp.md)
 

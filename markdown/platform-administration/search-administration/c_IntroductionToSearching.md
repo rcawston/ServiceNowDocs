@@ -37,9 +37,9 @@ Construct complex searches using Boolean AND, OR, and NOT operators in global te
 Wrap search terms in quotation marks to search for an exact phrase consisting of one or more words.
 -   **[Wildcard characters allow searching for patterns and variations](c_Wildcards.md)**  
 Expand search results to match any non-space character. Zing supports both single-character and multiple-character wildcards.
--   **[Enable or disable the Zing junk filter](../task/t_DisableTheJunkFilter.md)**  
+-   **[Enable or disable the Zing junk filter](t_DisableTheJunkFilter.md)**  
 When its junk filter is enabled, Zing doesn't index or search for 2-digit numbers or single-character words \(unless they are Chinese or Japanese characters\). You can enable or disable the junk filter for individual tables.
--   **[Debug Zing](../task/t_DebugZing.md)**  
+-   **[Debug Zing](t_DebugZing.md)**  
 Debugging messages create a log of search processes as they occur. These messages may help administrators configure optimal performance settings.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -47,7 +47,7 @@ Debugging messages create a log of search processes as they occur. These message
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Global search finds records from multiple tables](c_GlobalTextSearch.md)
 
@@ -69,5 +69,5 @@ Debugging messages create a log of search processes as they occur. These message
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 

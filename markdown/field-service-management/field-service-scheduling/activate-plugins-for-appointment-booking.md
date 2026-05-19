@@ -31,7 +31,7 @@ Ensure that the following plugins are activated:
 -   **Dynamic Scheduling** \(Optional but recommended\): Enables dynamic scheduling capabilities, bulk task recommendations, and interval-based auto-assignment. It also allows the use of the scripted availability method for advanced scheduling in Appointment Booking configurations.
 -   **Appointment Booking Demo data**: Installs demo data to help you set up and explore the Appointment Booking feature.
 
-For more information on the components installed with Appointment Booking see, [Appointment booking components](../reference/appointment-booking-components.md).
+For more information on the components installed with Appointment Booking see, [Appointment booking components](../appointment-booking-components.md).
 
 ## Procedure
 

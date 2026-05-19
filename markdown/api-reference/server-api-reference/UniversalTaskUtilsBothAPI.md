@@ -25,7 +25,7 @@ You can use this script include in both scoped and global applications. The Univ
 
 For additional information on the Universal Task application, see [Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-landing.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UniversalTaskUtils - applyTemplate\(String templateSysId, GlideRecord uniTaskGr\)
 
@@ -89,7 +89,7 @@ This code example shows a function that acquires, and then applies, the Feedback
 
 Returns the active child task records, in the form of a GlideRecord, for the specified parent ticket.
 
-You can then use the GlideRecord API, [scoped](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [global](../../GlideRecord/concept/c_GlideRecordAPI.md#) depending on the calling application's scope, to access the returned data, such as using the getRowCount\(\) method to count active tasks.
+You can then use the GlideRecord API, [scoped](c_GlideRecordScopedAPI.md#) or [global](c_GlideRecordAPI.md#) depending on the calling application's scope, to access the returned data, such as using the getRowCount\(\) method to count active tasks.
 
 |Name|Type|Description|
 |----|----|-----------|

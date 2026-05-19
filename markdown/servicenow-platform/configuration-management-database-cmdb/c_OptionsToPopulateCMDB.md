@@ -20,10 +20,10 @@ When you populate the CMDB with information, you create a record for each config
 Related ServiceNow® Store apps and reference information:
 
 -   [CMDB schema model](c_ConfigurationManagementDatabase.md): A collection of class diagrams and class attributes for key CMDB classes.
--   [CMDB tables descriptions](../reference/cmdb-tables-details.md): Descriptions of key CMDB tables in the base system.
--   [CMDB CI Class Models](cmdb-ci-class-models.md): A ServiceNow Store app that adds class models that extend the base CMDB class hierarchy. This includes class descriptions, identification rules, identifier entries, and dependent relationships if applicable. You can then use the added classes as any other CMDB base class.
+-   [CMDB tables descriptions](cmdb-tables-details.md): Descriptions of key CMDB tables in the base system.
+-   [CMDB CI Class Models](../cmdb-ci-class-models/cmdb-ci-class-models.md): A ServiceNow Store app that adds class models that extend the base CMDB class hierarchy. This includes class descriptions, identification rules, identifier entries, and dependent relationships if applicable. You can then use the added classes as any other CMDB base class.
 -   [Discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md): A ServiceNow Store app that provides a library of Discovery patterns for discovering specific devices and applications in the industry.
--   [Getting started with Service Graph Connectors](cmdb-sgc-intro.md): ServiceNow Store apps that provide pre-defined integrations for importing and integrating common third-party data into CMDB classes. Also includes the [IntegrationHub ETL](integrationhub-etl.md) wizard for creating new ETL transform maps.
+-   [Getting started with Service Graph Connectors](cmdb-sgc-intro.md): ServiceNow Store apps that provide pre-defined integrations for importing and integrating common third-party data into CMDB classes. Also includes the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) wizard for creating new ETL transform maps.
 
 ## ITIL configuration management auto-discovery
 
@@ -45,7 +45,7 @@ For more information about Discovery see:
 
 ## Integrate third-party data using IntegrationHub ETL
 
-Use the [IntegrationHub ETL](integrationhub-etl.md) to import and integrate data from a third party into the CMDB. Using IntegrationHub ETL, create ETL transform maps which are used for integrating data from specific data sources. IntegrationHub ETL guides you through importing source data, transforming any data if needed, and selecting target CMDB classes and attributes to map the data to. You then preview the integration results and adjust any configurations before scheduling recurring integrations.
+Use the [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) to import and integrate data from a third party into the CMDB. Using IntegrationHub ETL, create ETL transform maps which are used for integrating data from specific data sources. IntegrationHub ETL guides you through importing source data, transforming any data if needed, and selecting target CMDB classes and attributes to map the data to. You then preview the integration results and adjust any configurations before scheduling recurring integrations.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view and download common integrations.
 
@@ -72,7 +72,7 @@ You can also manually create a CI while leveraging Identification and Reconcilia
     2.  Select **Hierarchy** to display the list of CI Classes. Select the class to use for the CI.
     3.  In the class navigation bar, select **CI List** and then on the CI list view, select **New**.
     4.  Fill out the CI form and then select **Submit**.
-2.  Or, manually create a CI while leveraging Identification and Reconciliation Engine \(IRE\) processes to ensure that the new CI complies with various class requirements and that it's unique. For more information, see [Create a CI manually in CMDB Workspace](../task/create-ci-manual-cmdb-workspace.md)or [Create a CI manually in Service Graph Workspace](../task/create-ci-manual-sg-workspace.md).
+2.  Or, manually create a CI while leveraging Identification and Reconciliation Engine \(IRE\) processes to ensure that the new CI complies with various class requirements and that it's unique. For more information, see [Create a CI manually in CMDB Workspace](create-ci-manual-cmdb-workspace.md)or [Create a CI manually in Service Graph Workspace](create-ci-manual-sg-workspace.md).
 3.  Or, directly use a table:
     1.  Navigate to **All** &gt; **Configuration** and then elect the class to use for the CI, such as Business Services.
     2.  In the navigation filter of the application navigator, enter the table label \(such as 'Linux'\), or the table name in the format of &lt;table name&gt;.list \(such as 'cmdb\_ci\_linux\_server.list'\). Then, press Enter.

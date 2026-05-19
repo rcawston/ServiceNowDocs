@@ -21,10 +21,10 @@ Extend the capabilities of Major Security Incident Management and connect with S
 Integrate your Microsoft SharePoint with Major Security Incident Management.
 -   **[Integrate Major Security Incident Management with Microsoft Teams](integrate-teams-msim.md)**  
 Integrate your Microsoft Teams with Major Security Incident Management.
--   **[Establish MS Teams Graph connection on ServiceNow AI Platform](../../security-incident-response/task/msim-micorsoft-team-requirements.md)**  
+-   **[Establish MS Teams Graph connection on ServiceNow AI Platform](msim-micorsoft-team-requirements.md)**  
 Integrate ServiceNow AI Platform instance and Microsoft Teams account by establishing a Microsoft Teams Graph connection.
 -   **[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)**  
 With Major Security Incident Management conference calls integration, you can collaborate with your customers and peer agents to resolve customer issues using the video and screen sharing options in Microsoft Teams, Cisco Webex, or Zoom from the MSIM application.
 
-**Parent Topic:**[Major Security Incident Management](../reference/major-security-incident-management-landing-page.md)
+**Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)
 

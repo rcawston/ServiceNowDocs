@@ -23,7 +23,7 @@ Use the fields on the channel partner \[sn\_prm\_channel\_partner\] table to man
 Enable channel partners to participate in structured initiatives designed to drive revenue, enhance market reach, and build customer relationships by using the Partner Program \[sn\_prm\_partner\_program\] table.
 -   **[Partner program relationship table fields](partner-program-relationship-table-fields.md)**  
 Establish a relationship between channel partners and partner programs with the Partner Program Relationship \[sn\_prm\_partner\_program\_relationship\] table.
--   **[Domain separation for Partner Relationship Management](../concept/domain-separation-for-partner-relationship-management.md)**  
+-   **[Domain separation for Partner Relationship Management](domain-separation-for-partner-relationship-management.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 -   **[Program segment mapping table fields](program-segment-mapping-table-fields.md)**  
 Establish a mapping between a program and a segment on the program segment mapping \(sn\_prm\_program\_segment\_mapping\) table to determine whether a segment belongs to the appropriate partner program.
@@ -42,5 +42,5 @@ Configure the Partner Program Deal Type Relationship \(sn\_prm\_dr\_pp\_deal\_ty
 -   **[Channel Partner components on workspace](channel-partner-components.md)**  
 View the various components on the channel partner form to get a consolidated overview of all the entities associated with the channel partner.
 
-**Parent Topic:**[Sales Customer Relationship Management reference](../concept/som-reference.md)
+**Parent Topic:**[Sales Customer Relationship Management reference](som-reference.md)
 

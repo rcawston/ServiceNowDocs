@@ -26,7 +26,7 @@ Role required: admin
 
 Scheduled jobs and Store applications are installed with Applicant Center.
 
-For more information, see [Components installed with Applicant Center](../reference/installed-with-applicant-center.md).
+For more information, see [Components installed with Applicant Center](installed-with-applicant-center.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For more information, see [Components installed with Applicant Center](../refere
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Applicant Center](../concept/config-applicant-center.md)
+**Parent Topic:**[Configuring Applicant Center](config-applicant-center.md)
 

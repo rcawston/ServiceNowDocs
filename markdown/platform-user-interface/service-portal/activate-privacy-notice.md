@@ -52,7 +52,7 @@ The Privacy Notice announcement is displayed to unauthenticated portal users.
 
 
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](sp-analytics.md)
 
 **Related topics**  
 

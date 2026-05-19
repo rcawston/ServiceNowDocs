@@ -17,7 +17,7 @@ Enable Dynamic Translation for one or more languages in Chat Settings for Virtua
 
 ## Before you begin
 
-Install and configure the plugins for Dynamic Translation, as described in [Prerequisites for using Dynamic Translation in Virtual Agent](../concept/prereq-using-dt-va.md). If these prerequisites aren’t completed, the Multi language support card described in the following steps doesn’t appear.
+Install and configure the plugins for Dynamic Translation, as described in [Prerequisites for using Dynamic Translation in Virtual Agent](prereq-using-dt-va.md). If these prerequisites aren’t completed, the Multi language support card described in the following steps doesn’t appear.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -35,7 +35,7 @@ Role required: virtual\_agent\_admin or admin
 
     2.  Turn on the **Dynamic language translation** toggle switch to enable it.
 
-        Turning on this toggle is only applicable to NLU conversations. For more information about turning on translation for LLM conversations, see [Configure multilingual service for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md).
+        Turning on this toggle is only applicable to NLU conversations. For more information about turning on translation for LLM conversations, see [Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md).
 
     3.  Select **View All**.
 
@@ -68,5 +68,5 @@ Role required: virtual\_agent\_admin or admin
         ![System Properties page with com.glide.cs.guest_session_resumable value set to true.](../images/sysproperties-dt-guest-session-resumable.png)
 
 
-**Parent Topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](multi-language-options-va.md)
 

@@ -40,5 +40,5 @@ Users of ServiceNow Store Applications
 Shows the number of active users who have used the instance, grouped by month. An active user is any user who could have accessed the applications, not only users who actually did access the applications.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitoring instance usage](../../subscription-management/concept/usage-analytics-module-subscription.md)
+</table>**Parent Topic:**[Monitoring instance usage](usage-analytics-module-subscription.md)
 

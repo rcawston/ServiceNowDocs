@@ -126,5 +126,5 @@ Select fields that are to sort the results in the custom lists in ascending or d
 </table>6.  Select **Create**.
 
 
-**Parent Topic:**[Creating custom lists on Workplace Central](../concept/creating-custom-lists-wsd.md)
+**Parent Topic:**[Creating custom lists on Workplace Central](creating-custom-lists-wsd.md)
 

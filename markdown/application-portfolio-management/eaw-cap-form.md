@@ -101,7 +101,7 @@ Description
 
 </td><td>
 
-A short description of the business capability.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+A short description of the business capability.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](elaborate-or-shorten-content-form-fields.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
@@ -109,5 +109,5 @@ A short description of the business capability.You can also elaborate or shorten
 **Related topics**  
 
 
-[Add or edit a business capability from the Portfolio page](../../task/eaw-task/eaw-add-capability.md)
+[Add or edit a business capability from the Portfolio page](eaw-add-capability.md)
 

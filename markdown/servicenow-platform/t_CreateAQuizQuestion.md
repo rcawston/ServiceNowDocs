@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-The [data type](../concept/c_QuizDesigner.md) that you select for each question determines how it can be answered by quiz recipients.
+The [data type](c_QuizDesigner.md) that you select for each question determines how it can be answered by quiz recipients.
 
 You can designate questions to be scored. Only scored questions are shown in the quiz results and considered when calculating the category results. You must also specify a correct answer for scored questions.
 
@@ -43,7 +43,7 @@ To designate a question as scored, you must use Assessment forms. For instructio
 
     2.  On the Properties form, fill in the fields.
 
-        For a description of the field values, see [Question Properties form](../reference/question-property-form.md).
+        For a description of the field values, see [Question Properties form](question-property-form.md).
 
     3.  Create any special conditions that must be met for a question to appear on the quiz by selecting the **Dependency** tab and filling in the fields.
 

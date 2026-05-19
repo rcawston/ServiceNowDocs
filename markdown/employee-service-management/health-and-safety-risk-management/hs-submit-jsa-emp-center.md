@@ -21,7 +21,7 @@ Role required: sn\_hs\_rm.jsa\_reporter
 
 ## About this task
 
-Employees can also submit JSAs from their mobile device using the ServiceNow® Now Mobile app. For more information, see [Submit a JSA through the Now Mobile app](../../hs-health-safety-mobile/task/submit-jsa-mobile.md).
+Employees can also submit JSAs from their mobile device using the ServiceNow® Now Mobile app. For more information, see [Submit a JSA through the Now Mobile app](../health-and-safety/submit-jsa-mobile.md).
 
 ## Procedure
 
@@ -73,7 +73,7 @@ A JSA form with values copied from the previous JSA opens.
 
     4.  Add any employees or workers who have been informed along with your comments or attachments.
 
-    For more information on JSA field descriptions, see [JSA form](../reference/hs-submit-jsa-form.md).
+    For more information on JSA field descriptions, see [JSA form](hs-submit-jsa-form.md).
 
 5.  Select **Submit**.
 
@@ -83,5 +83,5 @@ A JSA form with values copied from the previous JSA opens.
 -   The JSA is submitted for your job or task. To view your submitted JSAs, navigate to the **Health and Safety** menu in the Employee Center and then the **View my JSAs** quick link.
 -   The JSA is also listed in the JSAs list on Health and Safety Workspace. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\) and then selecting the **JSAs** list.
 
-**Parent Topic:**[Job safety analysis](../concept/hs-job-safety-analysis.md)
+**Parent Topic:**[Job safety analysis](hs-job-safety-analysis.md)
 

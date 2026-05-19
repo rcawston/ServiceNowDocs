@@ -133,7 +133,7 @@ HR Service Delivery
 
 </td><td>
 
-[Setting up your Alumni Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/alumni-center/asc-configure.md)
+[Setting up your Alumni Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/asc-configure.md)
 
 </td></tr><tr><td>
 
@@ -505,7 +505,7 @@ AI Search
 
 </td><td>
 
-[Components installed with AI Search](../../ai-search/reference/components-installed-ais.md#)
+[Components installed with AI Search](../ai-search/components-installed-ais.md#)
 
 </td></tr><tr><td>
 
@@ -697,7 +697,7 @@ State Model
 
 </td><td>
 
-[Installed with State Model](../../state-model/reference/installed-state-model.md#)
+[Installed with State Model](../state-management/installed-state-model.md#)
 
 </td></tr><tr><td>
 

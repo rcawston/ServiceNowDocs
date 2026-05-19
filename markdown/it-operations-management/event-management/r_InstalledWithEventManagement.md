@@ -154,7 +154,7 @@ Event Management — Alert Priority Queue
 
 </td><td>
 
-Calculate [alert priority](../concept/alert-priority.md). Two Alert Priority Queue jobs are active and available and can be run multi-thread. Runs every minute.
+Calculate [alert priority](alert-priority.md). Two Alert Priority Queue jobs are active and available and can be run multi-thread. Runs every minute.
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Event Management — Node Count
 
 </td><td>
 
-Calculate [license usage](../task/license-usage.md). Runs once every hour.
+Calculate [license usage](license-usage.md). Runs once every hour.
 
 </td></tr><tr><td>
 

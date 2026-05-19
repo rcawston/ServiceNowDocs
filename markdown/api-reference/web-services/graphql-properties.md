@@ -73,5 +73,5 @@ Enabling this option allows the GraphQL Explorer to show the GraphQL schema in t
 **glide.graphql.introspection\_enabled**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+</table>**Parent Topic:**[Query record data using the GraphQL API framework](scripted-graph-ql.md)
 

@@ -39,5 +39,5 @@ Change the active interval by editing the **Active interval \(in seconds\), with
 3.  Click **Save**.
 
 
-**Parent Topic:**[Alert lifecycle configuration](../concept/c_EMAlertRule.md)
+**Parent Topic:**[Alert lifecycle configuration](c_EMAlertRule.md)
 

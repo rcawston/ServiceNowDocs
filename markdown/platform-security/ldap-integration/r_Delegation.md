@@ -29,9 +29,9 @@ Example: "`dsacls \\localhost:50010\dc=myCompany,dc=adam`" displays the permissi
 **Related topics**  
 
 
-[Create containers and organizational units for ADAM](../task/t_CreateContainersAndOrgUnits.md)
+[Create containers and organizational units for ADAM](t_CreateContainersAndOrgUnits.md)
 
-[Use ADAMSync to populate ADAM](../concept/c_UsingADAMSyncToPopulateADAM.md)
+[Use ADAMSync to populate ADAM](c_UsingADAMSyncToPopulateADAM.md)
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 

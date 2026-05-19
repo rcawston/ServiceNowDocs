@@ -23,7 +23,7 @@ The self-configured method offers a solution for the following cases:
     **Note:** Microsoft Azure supports the bot framework in GCCHIGH and DOD \(US Department of Defense\). For more information about the bot framework support, see [Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](va-integ-msteams-gcch.md).
 
 
-If you are a commercial customer who has already installed a pre-published bot but would like to integrate with multiple ServiceNow instances within a single Microsoft Teams tenant, see [Integrate your self-configured bot with single Microsoft Teams tenant](../task/teams-install-custom-app.md).
+If you are a commercial customer who has already installed a pre-published bot but would like to integrate with multiple ServiceNow instances within a single Microsoft Teams tenant, see [Integrate your self-configured bot with single Microsoft Teams tenant](teams-install-custom-app.md).
 
 ## Prerequisites
 
@@ -41,14 +41,14 @@ Before integrating Virtual Agent with your Microsoft Teams tenant, ensure that t
 
 ## What to do next
 
-1.  [Plugins for Conversational Integration with Microsoft Teams](../reference/addtional-plugins-msteams.md)
-2.  [Create a bot in Microsoft Teams](../task/create-bot-msteams.md)
-3.  [Auto-generate the manifest file for uploading on Microsoft Teams](../task/generate-manifest-file-msteams.md)
-4.  [Upload the manifest package file to publish your bot](../task/upload-package-file-msteams.md)
+1.  [Plugins for Conversational Integration with Microsoft Teams](addtional-plugins-msteams.md)
+2.  [Create a bot in Microsoft Teams](create-bot-msteams.md)
+3.  [Auto-generate the manifest file for uploading on Microsoft Teams](generate-manifest-file-msteams.md)
+4.  [Upload the manifest package file to publish your bot](upload-package-file-msteams.md)
 
--   **[Auto-generate the manifest file for uploading on Microsoft Teams](../task/generate-manifest-file-msteams.md)**  
+-   **[Auto-generate the manifest file for uploading on Microsoft Teams](generate-manifest-file-msteams.md)**  
 Auto-generate the manifest file and customize the branding of your Microsoft Teams app so that you can make Virtual Agent available in your organization.
--   **[Upload the manifest package file to publish your bot](../task/upload-package-file-msteams.md)**  
+-   **[Upload the manifest package file to publish your bot](upload-package-file-msteams.md)**  
 Upload the manifest file that you generated to the Microsoft Teams and test your app experience to make it be available in the Microsoft global app store.
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](specialized-va-integs-msteams.md)

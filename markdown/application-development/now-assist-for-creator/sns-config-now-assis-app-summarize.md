@@ -16,7 +16,7 @@ breadcrumb: [App summary generation, Use generative AI, Now Assist for Creator, 
 
 Enable the app summary generation skill in the Now Assist for Creator application so that you can get started with summarizing applications.
 
--   **[Install Now Assist for app summary generation](../task/sns-app-summarize-install.md)**  
+-   **[Install Now Assist for app summary generation](sns-app-summarize-install.md)**  
 Install the Now Assist for Creator application so that you can use app summary generation for your organization.
 
 **Parent Topic:**[App summary generation](sns-now-assist-app-summarize-landing.md)

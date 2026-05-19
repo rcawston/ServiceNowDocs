@@ -26,7 +26,7 @@ For example, the Assignment Group automated breakdown uses the Groups breakdown 
 Restricting the number of elements that a breakdown source returns has the following benefits:
 
 -   Smaller element lists make it easier for consumers to find the data they need. Sorting through a list of 25 groups associated with a particular process is easier than trying to sort through thousands of groups.
--   Smaller element lists lead to less data collection and more efficient use of data. Instead of the [data collector](../concept/performance-analytics-glossary.md#) crunching through 1,000 different groups, the data collector can analyze the 25 groups that are meaningful to the process.
+-   Smaller element lists lead to less data collection and more efficient use of data. Instead of the [data collector](performance-analytics-glossary.md#) crunching through 1,000 different groups, the data collector can analyze the 25 groups that are meaningful to the process.
 
 **Note:** You probably do not need to change the breakdown sources in Platform Analytics Solutions. However, you may find it helpful to review and understand exactly what is being measured in your processes.
 
@@ -59,13 +59,13 @@ Restricting the number of elements that a breakdown source returns has the follo
 
 ## What to do next
 
-You are now ready to collect data, as described in [Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md).
+You are now ready to collect data, as described in [Collect data for Platform Analytics Solutions](collect-data-nowintel-solutions.md).
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](configure-nowintel-solutions.md)
 
 **Previous topic:**[Update Performance Analytics scripts](update-pa-scripts.md)
 
-**Next topic:**[Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md)
+**Next topic:**[Collect data for Platform Analytics Solutions](collect-data-nowintel-solutions.md)
 
 **Related topics**  
 

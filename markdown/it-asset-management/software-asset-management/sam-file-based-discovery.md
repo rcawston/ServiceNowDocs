@@ -21,7 +21,7 @@ For more information on the file-based discovery, see the [File-based Discovery]
 
 ## Required plugins
 
-The File Signature Normalization plugin is required to allow file information to be mapped to installed software. To enable this plugin, [Request Software Asset Management](../task/t_RequSoftwareAssetMgmt.md).
+The File Signature Normalization plugin is required to allow file information to be mapped to installed software. To enable this plugin, [Request Software Asset Management](t_RequSoftwareAssetMgmt.md).
 
 You can also enable file-based discovery with the File-Based Discovery \(com.snc.discovery.file\_based\_discovery\) plugin to filter file signatures. This plugin is included with a Discovery subscription, but you must request plugin activation. Normalization of products and publishers is available for file-based discovery with or without Software Asset Management.
 

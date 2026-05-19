@@ -103,5 +103,5 @@ This spoke uses the AD alias record to authorize actions in Microsoft Active Dir
 |----------------|-----------|--------------|
 |AD|Connection to Microsoft Active Directory.|The URL of the host machine where Microsoft Active Directory is installed.|
 
-For information about setting up the spoke, see [Set up Microsoft Active Directory spoke](../../integrationhub-store-spokes/task/set-up-ad.md#).
+For information about setting up the spoke, see [Set up Microsoft Active Directory spoke](set-up-ad.md#).
 

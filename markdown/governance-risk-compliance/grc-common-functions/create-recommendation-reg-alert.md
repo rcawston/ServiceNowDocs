@@ -18,13 +18,13 @@ Generate recommendations to identify and mark potential impact areas, such as ci
 
 ## Before you begin
 
-Install the Now Assist for IRM application to generate recommendations. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/concept/now-assist-for-irm.md).
+Install the Now Assist for IRM application to generate recommendations. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](now-assist-for-irm.md).
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
 Role required: To view your assigned regulatory alerts, you need the sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user roles.
 
-For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available", "None", "No records to display", and so on.
 
@@ -32,7 +32,7 @@ For more information on related roles and regulatory alerts, see [Types of alert
 
 Starting with version 19.0.x, users who have the Now Assist for IRM application installed can use the regulatory alert summarization, recommend alert impacted citations, and regulatory alert impacted control objectives skills.
 
-To create a recommendation template, you must define a configuration using the recommendation contexts framework, which delivers AI-driven insights directly within the user interface to enhance decision-making and productivity. As part of the base system, a default context named "Suggest business operations affected by regulatory alert" powered by Now Assist for IRM" is included, which you can access from the GRC Administration menu. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+To create a recommendation template, you must define a configuration using the recommendation contexts framework, which delivers AI-driven insights directly within the user interface to enhance decision-making and productivity. As part of the base system, a default context named "Suggest business operations affected by regulatory alert" powered by Now Assist for IRM" is included, which you can access from the GRC Administration menu. For more information, see [Recommendation contexts and templates](recommendation-contexts.md).
 
 For more information on activating the Regulatory alert impacted citations, Regulatory alert impacted control objectives, Regulatory alert impacted controls, and Regulatory alert impacted policies skills, refer to [Activate Regulatory alert recommendation skills](configure-recommendation-skill-for-a-regulatory-alert.md).
 

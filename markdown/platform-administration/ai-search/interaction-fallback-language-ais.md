@@ -15,7 +15,7 @@ breadcrumb: [Internationalization support, Administer, AI Search, Search adminis
 
 When a fallback language is configured for the user's session language, AI Search searches translated documents in both languages. Search uses the appropriate stop word, synonym, and typo handling dictionaries for the fallback language.
 
-Starting in the Tokyo release, you can set a fallback language for each language enabled in your instance. The system uses this fallback language for elements of user interface text that aren't translated in the specified language. For details on configuring fallback languages, see [Set a fallback language](../../localization/task/set-fallback-language.md).
+Starting in the Tokyo release, you can set a fallback language for each language enabled in your instance. The system uses this fallback language for elements of user interface text that aren't translated in the specified language. For details on configuring fallback languages, see [Set a fallback language](../system-localization/set-fallback-language.md).
 
 If you set a fallback language for the user's ServiceNow AI Platform® session language, AI Search returns results for translated content, such as knowledge articles, in both the session language and your configured fallback language. When searching content in the fallback language, AI Search uses the stop word, synonym, and typo handling dictionaries for the fallback language.
 
@@ -27,7 +27,7 @@ If you configure a global fallback locale in addition to a fallback language, AI
 
 ![Diagram showing fr-CA user session language, fr fallback language, and en global fallback locale.](../image/diagram-fallback-language-locale.png "Search result languages with a fallback language and a global fallback locale")
 
-For details on configuring a global fallback locale, see [Enable a global fallback locale for translated content](../task/enable-global-fallback-lang-ais.md).
+For details on configuring a global fallback locale, see [Enable a global fallback locale for translated content](enable-global-fallback-lang-ais.md).
 
 **Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

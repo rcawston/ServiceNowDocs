@@ -43,15 +43,15 @@ The Analytics dashboard uses visuals to track how the model used predictions ove
 
 -   **Predictions agents accepted**
 
-    The widget shows the correct predictions that your agents used during case management over time. If this number is trending downward, you can look to retrain your model. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md).
+    The widget shows the correct predictions that your agents used during case management over time. If this number is trending downward, you can look to retrain your model. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md).
 
 -   **Predictions agents replaced**
 
-    The widget shows the incorrect predictions that your agents removed during case management over time. If this number is trending upward, you can look to retrain your model. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md).
+    The widget shows the incorrect predictions that your agents removed during case management over time. If this number is trending upward, you can look to retrain your model. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md).
 
 -   **Predictions the model skipped**
 
-    The widget shows the number of predictions that were skipped by the model based on the model, output field, and date range selection. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md).
+    The widget shows the number of predictions that were skipped by the model based on the model, output field, and date range selection. For more information on editing a trained model, see [Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md).
 
 -   **Performance overview**
 

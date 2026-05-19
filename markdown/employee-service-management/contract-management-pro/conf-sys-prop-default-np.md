@@ -48,7 +48,7 @@ When the contract renewal notice period and termination of contract renewal noti
 
 The Manage contract repository agentic workflow uses the set value as default notice period when the contract renewal notice period and termination of contract renewal notice period are not available in a contract.
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 

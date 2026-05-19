@@ -53,5 +53,5 @@ You must first block the Now Virtual Agent app, so it stops showing up for emplo
 5.  Select **Actions**, then select **Block app**.
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)
 

@@ -19,7 +19,7 @@ You can configure Veracode scans on any stage of the pipeline and the scan detai
 
 If you want to configure Veracode for the GitLab tool, you can either use the generic Docker container image to add the Veracode security step or perform the steps specified in the [Integrate security tools with GitLab](configure-security-tool-for-gitlab.md) topic.
 
-For Harness pipelines, you can configure Veracode scans only through the generic Docker Container Image. For more information, see [Implement custom actions for pipelines using a generic Docker container image](../concept/servicenow-custom-actions-for-gitlab.md).
+For Harness pipelines, you can configure Veracode scans only through the generic Docker Container Image. For more information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).
 
 1.  Navigate to the step in your pipeline and add the custom action.
 
@@ -121,7 +121,7 @@ Harness
 
 </td><td>
 
-Run the generic Docker Container Image to use the following script. For more information, see [Implement custom actions for pipelines using a generic Docker container image](../concept/servicenow-custom-actions-for-gitlab.md).```
+Run the generic Docker Container Image to use the following script. For more information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).```
 - stage:
     name: ServiceNow DevOps Security Result
     identifier: Security

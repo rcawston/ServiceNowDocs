@@ -18,16 +18,16 @@ Protect your assets and enterprise environment with ServiceNow Security Operatio
 The Security Operations suite of applications helps you protect your assets by improving your overall security posture. For example, by integrating applications such as Unified Security Exposure Management \(USEM\) Security Incident Response, Vulnerability Response, and Security Posture Control with your existing security tools, your Security Operation Center \(SOC\) analysts, managers, and IT teams can:
 
 -   Respond to rapidly evolving cyber and security threats.
--   Identify, prioritize, and remediate exposure findings in the [Unified Security Exposure Management \(USEM\)](../../security-exposure-management-workspace/concept/unified-security-exposure-management-landing-page.md) platform that brings together infrastructure, application, container, and configuration exposures into one unified experience.
+-   Identify, prioritize, and remediate exposure findings in the [Unified Security Exposure Management \(USEM\)](unified-security-exposure-management-landing-page.md) platform that brings together infrastructure, application, container, and configuration exposures into one unified experience.
 -   View your complete asset inventory.
 -   Determine your overall security tool coverage.
--   Resolve security incidents faster with intelligent workflows and ServiceNow Generative AI skills \(GenAI\). See [Now Assist for Security Incident Response](../../now-assist-security-incident/reference/now-assist-security-incident-landing.md) for more information.
+-   Resolve security incidents faster with intelligent workflows and ServiceNow Generative AI skills \(GenAI\). See [Now Assist for Security Incident Response](now-assist-for-security-incident-response-sir/now-assist-security-incident-landing.md) for more information.
 
 ## Security Operations applications for workflows
 
 The Security Operations applications fall under two broad categories for Security Operations workflows:
 
--   Unified Security Exposure Management \(USEM\) - Applications and tools that help you anticipate, understand, and close your security exposures. See [Unified Security Exposure Management \(USEM\)](../../security-exposure-management-workspace/concept/unified-security-exposure-management-landing-page.md) for more information about using Security Operations applications in USEM.
+-   Unified Security Exposure Management \(USEM\) - Applications and tools that help you anticipate, understand, and close your security exposures. See [Unified Security Exposure Management \(USEM\)](unified-security-exposure-management-landing-page.md) for more information about using Security Operations applications in USEM.
 -   Enterprise security case management - Applications and tools that help you move quickly to respond to critical incidents.
 
 ![The Security Operations applications and workflows organized by category.](../image/mmasset0020854-secops-horizontal.png "Security workflows")
@@ -202,39 +202,39 @@ Select a tile to get started with the Security Operations Workspaces.
 
 <table id="table_zkx_2fb_h1c" class="nav-card"><tbody><tr><td>
 
-[Security Incident Response Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Incident Response Workspace](../../secops-analyst-workspace/reference/sir-workspace-landing-page.md)
+[Security Incident Response Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Incident Response Workspace](security-incident-response/sir-workspace-landing-page.md)
 
 </td><td>
 
-[Security Exposure Management Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Exposure Management Workspace](../../security-exposure-management-workspace/concept/unified-security-exposure-management-landing-page.md)
+[Security Exposure Management Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Exposure Management Workspace](unified-security-exposure-management-landing-page.md)
 
 </td><td>
 
-[Security Posture Control Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Posture Control Workspace](../../security-posture-control/reference/spc-landing.md)
+[Security Posture Control Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the Security Posture Control Workspace](spc-landing.md)
 
 </td></tr><tr><td>
 
-[Vulnerability Assessment Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Vulnerability Assessment Workspace](../../vulnerability-response/concept/vr-ws-vuln-analyst-workspace.md)
+[Vulnerability Assessment Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Vulnerability Assessment Workspace](vulnerability-response-workspaces/vr-ws-vuln-analyst-workspace.md)
 
 </td><td>
 
-[IT Remediation Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-itro-wkspce.md)
+[IT Remediation Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about the IT Remediation Workspace](it-remediation-workspace/vr-ws-itro-wkspce.md)
 
 </td><td>
 
-[Software Bill of Materials Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Software Bill of Materials Workspace](../../secops-integration-vr/sbom/reference/sbom-landing.md)
+[Software Bill of Materials Workspace ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the Software Bill of Materials Workspace](sbom-core/sbom-landing.md)
 
 </td></tr><tr><td>
 
-[Threat Intelligence Security Center \(TISC\) Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the TISC Workspace](../../secops-integration-threat-security-center/reference/tisc-landing-page.md)
+[Threat Intelligence Security Center \(TISC\) Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the TISC Workspace](threat-intelligence-security-center/tisc-landing-page.md)
 
 </td><td>
 
-[Data Loss Prevention \(DLP\) Incident Response Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the DLP Workspace](../../data-loss-prevention/reference/dlp-landing.md)
+[Data Loss Prevention \(DLP\) Incident Response Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the DLP Workspace](data-loss-prevention/dlp-landing.md)
 
 </td><td>
 
-[Major Security Incident Management \(MSIM\) Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the MSIM Workspace](../../secops-integration-major-security-incident-management/reference/major-security-incident-management-landing-page.md)
+[Major Security Incident Management \(MSIM\) Workspace![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn about the MSIM Workspace](security-incident-response/major-security-incident-management-landing-page.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -37,7 +37,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Contract form](../reference/tprm-create-new-contract-form.md).
+    For descriptions of all these fields, see [Create New Contract form](tprm-create-new-contract-form.md).
 
 4.  Select **Save**.
 
@@ -83,7 +83,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 24. Select **Save**.
 
-    For descriptions of all these fields, see [Create New Contractual arrangement form](../reference/tprm-create-new-cont-arrange-form.md).
+    For descriptions of all these fields, see [Create New Contractual arrangement form](tprm-create-new-cont-arrange-form.md).
 
     **Note:** The annual expense may be converted during report generation if currency conversion is enabled. If aggregation is enabled and all criteria are met, contract expenses may also be combined into a provider‑level total.
 

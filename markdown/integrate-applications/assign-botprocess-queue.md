@@ -15,7 +15,7 @@ Assign a bot process to a queue in RPA Hub so that it can interact with this que
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Create a queue. For more information, see [Create a queue in RPA Hub](create-queue.md).
 
@@ -46,14 +46,14 @@ To associate a queue to a bot process from the bot process related list, see [c 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+**Parent Topic:**[Queue implementation in RPA Hub](queues-implement-rpa.md)
 
 **Related topics**  
 
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](queue-form.md)
 
 [Unassign a bot process from a queue in RPA Hub](unassign-botprocess-queue.md)
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](queues-implement-rpa.md)
 

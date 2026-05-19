@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Incident** &gt; **All**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Open an incident record.
 
@@ -44,5 +44,5 @@ Role required: admin
     The new category or subcategory is added under the **Selected** list.
 
 
-**Parent Topic:**[Incident categories and subcategories](../reference/r_CategorizingIncidents.md)
+**Parent Topic:**[Incident categories and subcategories](r_CategorizingIncidents.md)
 

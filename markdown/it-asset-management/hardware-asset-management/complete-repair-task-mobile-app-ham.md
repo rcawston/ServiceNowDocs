@@ -97,7 +97,7 @@ In the **Evaluation result** field, select any of the following:-   **Redeployab
 
 The state of the repair task changes to Closed Complete.
 
-**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-ham.md)
+**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-ham.md)
 
 **Related topics**  
 
@@ -106,5 +106,5 @@ The state of the repair task changes to Closed Complete.
 
 [Start working on a hardware asset repair task using the Mobile Agent application](start-work-repair-task-mobile-ham.md)
 
-[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+[Record time worked on a hardware asset repair task using the Mobile Agent application](record-time-worked-mobile-agent-app-con.md)
 

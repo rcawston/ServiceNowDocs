@@ -343,7 +343,7 @@ Request
 
 </td><td>
 
-Unique id as part of request. The id can be a user name, employee id, and so on.**Note:** Both redirect and post binding is supported for request. The option to set this field only appears after a successful test connection. For more information, see [Test IdP connections](../../single-sign-on/task/t_TestIdPConnections.md).
+Unique id as part of request. The id can be a user name, employee id, and so on.**Note:** Both redirect and post binding is supported for request. The option to set this field only appears after a successful test connection. For more information, see [Test IdP connections](t_TestIdPConnections.md).
 
 </td></tr><tr><td>
 
@@ -351,7 +351,7 @@ Response
 
 </td><td>
 
-Unique id as part of response. The id can be a user name, employee id, and so on. **Note:** Both redirect and post binding is supported for response. The option to set this field only appears after a successful test connection. For more information, see [Test IdP connections](../../single-sign-on/task/t_TestIdPConnections.md).
+Unique id as part of response. The id can be a user name, employee id, and so on. **Note:** Both redirect and post binding is supported for response. The option to set this field only appears after a successful test connection. For more information, see [Test IdP connections](t_TestIdPConnections.md).
 
 </td></tr></tbody>
 </table>10. Select **Test Connection** at the upper-right corner of the page.

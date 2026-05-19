@@ -112,10 +112,10 @@ Member interface Z
 Interface Z of the selected LAG. Add or remove to modify the member interface Z of the selected LAG.**Note:** The list displays only child model interfaces that are set as either Port A or Port Z of a physical connection.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Add or remove a member to Link Aggregation](../task/create-a-change-request-to-add-or-remove-member-to-link-aggregation.md)
+[Add or remove a member to Link Aggregation](create-a-change-request-to-add-or-remove-member-to-link-aggregation.md)
 

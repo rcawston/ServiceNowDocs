@@ -54,7 +54,7 @@ User ID
 
 </td><td>
 
-User name for the MID Server user. This name is specified in the **mid.instance.username** parameter of the configuration file that the MID Server installer creates. For details, see [MID Server parameters](../reference/mid-server-parameters.md#).
+User name for the MID Server user. This name is specified in the **mid.instance.username** parameter of the configuration file that the MID Server installer creates. For details, see [MID Server parameters](mid-server-parameters.md#).
 
  **Note:** Avoid using the same MID Server logged in user across multiple MID Servers.
 

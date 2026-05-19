@@ -50,5 +50,5 @@ The Asset KPIs report is available for a hardware asset under the following cond
     -   **Current asset schedule**: The asset schedule linked to the asset currently and used for KPI calculations. If no schedule is linked, the Default asset schedule is used.
     -   **Start**: The date and time when the asset KPI values were first calculated.
     -   **End**: The date and time when the asset KPI values were last calculated.
-    -   **Outages During Interval** tab: A list of outages with details like start and end time of the outage and the duration of the outage. For more details on outage record creation and handling, see [Asset performance reports in the Hardware Asset Workspace](../concept/asset-performance-reports-ham.md).
+    -   **Outages During Interval** tab: A list of outages with details like start and end time of the outage and the duration of the outage. For more details on outage record creation and handling, see [Asset performance reports in the Hardware Asset Workspace](asset-performance-reports-ham.md).
 

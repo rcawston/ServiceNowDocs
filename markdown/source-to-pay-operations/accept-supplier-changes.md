@@ -39,5 +39,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The supplier proposed changes to the quantity or delivery date, or both are updated in the purchase order. This purchase order revision can then be routed for approval.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

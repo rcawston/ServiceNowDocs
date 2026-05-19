@@ -19,7 +19,7 @@ Examples of content requests include but are not limited to the addition of or u
 
 Content requests fall into the following categories:
 
--   New content: you require content that is not currently in the Content Library. You can request new content by [submitting a catalog request](../task/create-itam-content-request.md) through the Now Support portal
+-   New content: you require content that is not currently in the Content Library. You can request new content by [submitting a catalog request](create-itam-content-request.md) through the Now Support portal
 -   Content correction: you require previously delivered content to be corrected. You can request content update by filing a case with ServiceNow Customer Support through the Now Support portal.
 
 For more details on content requests, see this Knowledge base article on the ServiceNow Now Support [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB0790305](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0790305).

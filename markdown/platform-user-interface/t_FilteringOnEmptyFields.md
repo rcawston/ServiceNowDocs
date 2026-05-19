@@ -30,12 +30,12 @@ For example, when viewing all records that are assigned to the Hardware group, t
 4.  Run the filter.
 
 
-**Parent Topic:**[Condition builder](../concept/c_ConditionBuilder.md)
+**Parent Topic:**[Condition builder](c_ConditionBuilder.md)
 
 **Related topics**  
 
 
-[Values for date/time fields](../concept/c_ValuesForDateTimeFields.md#)
+[Values for date/time fields](c_ValuesForDateTimeFields.md#)
 
-[Comparing field values](../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
+[Comparing field values](r_ComparingFieldValues.md)
 

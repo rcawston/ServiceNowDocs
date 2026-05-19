@@ -17,7 +17,7 @@ Set up a new IPAM Service Graph Connector or review your IPAM Service Graph Conn
 
 ## Before you begin
 
-Dependencies and requirements: Install the SGC Central \(sn\_sgc\_central\) application. The admin user role is required to install the application. For more information, see [Install SGC Central](../../sgc-central/task/sgcc-install.md).
+Dependencies and requirements: Install the SGC Central \(sn\_sgc\_central\) application. The admin user role is required to install the application. For more information, see [Install SGC Central](../sgcc-install.md).
 
 Role required: sn\_cmdb\_admin
 
@@ -31,6 +31,6 @@ Role required: sn\_cmdb\_admin
 
 3.  Select **Configure IPAM SGC**, and then set up an IPAM Service Graph Connector or review your IPAM Service Graph Connector configuration.
 
-    For more information, see [SGC Central](../../sgc-central/reference/sgcc-landing.md).
+    For more information, see [SGC Central](../sgcc-landing.md).
 
 

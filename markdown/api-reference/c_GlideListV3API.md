@@ -19,9 +19,9 @@ You access the GlideListV3 methods by using the `g_list` global object. These me
 
 **Note:**
 
-This API is no longer supported. Consider using the [GlideList2\(\)](../../GlideList2/concept/c_GlideList2API.md#) API instead.
+This API is no longer supported. Consider using the [GlideList2\(\)](c_GlideList2API.md#) API instead.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideListV3 - addFilter\(String filter\)
 

@@ -57,5 +57,5 @@ Role required: sn\_channel\_mgmt.admin
 
 All managers and additional managers of the teams receive an email notification that summarizes their agents' performance.
 
-**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)
 

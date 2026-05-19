@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Cases and case tasks](../concept/csm-cases-case-tasks-overview.md)
+[Cases and case tasks](csm-cases-case-tasks-overview.md)
 
 </td><td>
 
@@ -101,7 +101,7 @@ Major issue management enables customer communication for issues that impact a w
 
 </td></tr><tr><td>
 
-[Targeted communications](../concept/c_TargetedCommunications.md)
+[Targeted communications](c_TargetedCommunications.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ The case action status feature enables customer service agents to easily identif
 
 </td></tr><tr><td>
 
-[Create cases as a proxy contact](../concept/employee-create-case-for-customer.md)
+[Create cases as a proxy contact](employee-create-case-for-customer.md)
 
 </td><td>
 

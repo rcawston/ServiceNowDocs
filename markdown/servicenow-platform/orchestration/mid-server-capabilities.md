@@ -17,7 +17,7 @@ MID Server capabilities define the specific functions of a MID Server within an 
 
 ## Nmap capability
 
-The **Nmap** capability is only assigned to MID Servers for which the Network Mapper \(Nmap\) scanner has been installed for [credential-less Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md). This capability cannot be added to or removed from any MID Server manually. For instructions on installing or uninstalling Nmap, see [Install and uninstall Nmap on a MID Server](../task/install-nmap-on-mid-server.md#)
+The **Nmap** capability is only assigned to MID Servers for which the Network Mapper \(Nmap\) scanner has been installed for [credential-less Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md). This capability cannot be added to or removed from any MID Server manually. For instructions on installing or uninstalling Nmap, see [Install and uninstall Nmap on a MID Server](../mid-server/install-nmap-on-mid-server.md#)
 
 ## MID Server capability values
 
@@ -49,8 +49,8 @@ To view the script for evaluating this capability, navigate to **MID Server** &g
 
 ![MID capabilities](../image/MIDServerResolveDNS.png)
 
--   **[Configure MID Server capabilities](../../../configure-capabilities.md)**  
+-   **[Configure MID Server capabilities](../../integrate-applications/orchestration/configure-capabilities.md)**  
 MID Server capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Configure capabilities on MID Servers for applications like Orchestration, Cloud Management, and Service Mapping.
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

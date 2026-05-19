@@ -50,5 +50,5 @@ Determine the impact that your action changes have on published and draft flows.
 
 Determine if your planned action changes require updates to the related flows. Publishing an action also displays a list of related flows that use the action.
 
-**Parent Topic:**[Flow administration](../concept/flow-administration.md)
+**Parent Topic:**[Flow administration](flow-administration.md)
 

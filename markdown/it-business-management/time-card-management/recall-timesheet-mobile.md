@@ -31,5 +31,5 @@ Role required: timecard\_approver or timecard\_admin
     -   To recall the entire time sheet, tap the action icon, and select **Recall Time sheet** or tap the **Recall time sheet** button at the bottom of the screen.
     -   To recall a specific time card, tap the action icon, and select **Recall time card**.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

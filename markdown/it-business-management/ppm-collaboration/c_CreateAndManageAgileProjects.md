@@ -19,13 +19,13 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 |Task|How do I do this?|
 |----|-----------------|
-|[Define an Agile group](../../sdlc-scrum/task/t_SDLCPPSCreateATeam.md#)|Navigate to **Agile Development** &gt; **Create Agile Group** and click **New**.|
-|[Add group members](../../sdlc-scrum/task/t_SDLCPPSCreateATeam.md#)|Navigate to the **Group members** related list on the Group form and click **Edit**.|
-|[Decide the capacity of a group](../../sdlc-scrum/task/t_SDLCPPSCreateATeam.md#)|Navigate to **Agile Development** &gt; **Groups**, select the desired group, and enter a number in the **Group capacity \(points\)** field.|
+|[Define an Agile group](t_SDLCPPSCreateATeam.md#)|Navigate to **Agile Development** &gt; **Create Agile Group** and click **New**.|
+|[Add group members](t_SDLCPPSCreateATeam.md#)|Navigate to the **Group members** related list on the Group form and click **Edit**.|
+|[Decide the capacity of a group](t_SDLCPPSCreateATeam.md#)|Navigate to **Agile Development** &gt; **Groups**, select the desired group, and enter a number in the **Group capacity \(points\)** field.|
 
 |Task|How do I do this?|
 |----|-----------------|
-|[Create a sprint](../../sdlc-scrum/task/t_SDLCPPSCreateATeam.md#)|Use the **Create Sprints** related link on the Group form to create multiple sprints or use the **Sprints** related list to create individual sprints.|
+|[Create a sprint](t_SDLCPPSCreateATeam.md#)|Use the **Create Sprints** related link on the Group form to create multiple sprints or use the **Sprints** related list to create individual sprints.|
 |View the created sprints|Use the **Sprints** related list on the Group form.|
 
 <table id="table_wkg_v43_dr"><thead><tr><th>
@@ -135,7 +135,7 @@ Refine stories for one project
 
 </td><td>
 
-Click the **Manage Stories** button to open the Manage Stories dialog box.**Note:** You can also use the **Agile Planning &amp; Tracking** related link on the [Project form](../../project-management/task/t_CreateAProject.md) to view your backlog, assign stories to the projects, or create new stories for the project.
+Click the **Manage Stories** button to open the Manage Stories dialog box.**Note:** You can also use the **Agile Planning &amp; Tracking** related link on the [Project form](../project-management/t_CreateAProject.md) to view your backlog, assign stories to the projects, or create new stories for the project.
 
 </td></tr><tr><td>
 
@@ -214,5 +214,5 @@ Tester performs tests and submits results
 Navigate to **Test Management 2.0** &gt; **Tests Assigned to me**. Select the required tests and click **Run**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](../../sdlc-scrum/concept/c_SDLCIntegrationWithProjectPortfolioSuite.md)
+</table>**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](c_SDLCIntegrationWithProjectPortfolioSuite.md)
 

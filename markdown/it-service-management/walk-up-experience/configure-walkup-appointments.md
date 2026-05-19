@@ -262,5 +262,5 @@ Option to provide a preview of the appointment windows and times based on the se
 -   **[Configure day-level appointment booking](configure-walkup-appointment-booking-day-level.md)**  
 Create or modify different schedules at a day level when booking appointments for a service. The appointments can be scheduled for different slots such as morning, afternoon, and evening.
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

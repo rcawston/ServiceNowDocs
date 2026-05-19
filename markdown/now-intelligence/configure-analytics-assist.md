@@ -17,7 +17,7 @@ Give users generative AI capabilities for creating data visualizations from the 
 
 The data visualization generation skill is included in Generative AI Controller, which is in most Now Assist applications from the ServiceNow® Store.
 
-The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](../task/enable-query-generation.md).
+The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](enable-query-generation.md).
 
 Role required: admin
 

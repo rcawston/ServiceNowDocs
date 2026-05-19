@@ -28,24 +28,24 @@ Role required: sn\_apm.apm\_user
 4.  Select the row context menu icon \(![Row context menu icon.](../../../../common/image/icon-menu.png)\) next to the relevant business application and select **Unassign business application**.
 
 
-**Parent Topic:**[Working with the business portfolio module](../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
 [View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 
 [Create a sub-capability](eaw-create-sub-capability.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 
 [Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

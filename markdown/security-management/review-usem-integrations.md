@@ -98,5 +98,5 @@ During integration execution, multiple processes are generated, and data is rece
 -   sn\_sec\_cmn.record\_threshold\_heartbeat: Defines the number of processed records, after which the heartbeat \(timestamp\) is sent to the import queue entry.
 -   sn\_sec\_cmn.maximum\_heartbeat\_delay: Defines the time after which the import queue entry must be timed out.
 
-**Parent Topic:**[Unified Security Exposure Management integrations](../../security-exposure-management-workspace/concept/integrating-usem.md)
+**Parent Topic:**[Unified Security Exposure Management integrations](integrating-usem.md)
 

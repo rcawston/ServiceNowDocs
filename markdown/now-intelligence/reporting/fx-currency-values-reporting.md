@@ -59,7 +59,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 3.  On the **Type** tab, choose the visualization type that you want to use.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](report-types-creation-details-rd.md).
 
 4.  On the **Configure** tab, choose how you want to group, stack, and aggregate the report.
 

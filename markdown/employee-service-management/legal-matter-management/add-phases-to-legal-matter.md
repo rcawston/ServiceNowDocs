@@ -81,5 +81,5 @@ A phase is added to the matter.
 
 [Add tasks in the phase](add-tasks-to-legal-matter.md) to manage activities in the matter. If the task has to be done by a different user, assign it to them.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

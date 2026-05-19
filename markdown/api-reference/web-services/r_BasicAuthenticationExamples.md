@@ -111,5 +111,5 @@ The resulting response when Basic Authentication is turned on and no credentials
   </html>
 ```
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

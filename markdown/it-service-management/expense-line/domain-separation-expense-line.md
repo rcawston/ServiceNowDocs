@@ -22,14 +22,14 @@ Domain separation is unsupported in Expense Line processing. Domain separation e
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Expense Line](../../asset-and-configuration/concept/c_ExpenseLine.md)
+**Parent Topic:**[Expense Line](c_ExpenseLine.md)
 
 **Related topics**  
 
 
-[Components installed with Expense Line](../reference/r_InstalledWithExpenseLine.md#)
+[Components installed with Expense Line](r_InstalledWithExpenseLine.md#)
 
-[View an expense](../../asset-and-configuration/task/t_ExpenseLinesExample.md)
+[View an expense](t_ExpenseLinesExample.md)
 
 [Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 

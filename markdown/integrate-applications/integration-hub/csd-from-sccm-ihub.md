@@ -19,7 +19,7 @@ The [Microsoft SCCM spoke](microsoft-sccm-spoke.md) contains actions that CSD us
 
 -   **[Configuring SCCM](configure-sccm-ihub.md)**  
 Follow the SCCM configuration procedures in the order shown.
--   **[SCCM deployment process](../reference/sccm-deployment-ihub.md)**  
+-   **[SCCM deployment process](sccm-deployment-ihub.md)**  
 Order an SCCM application from a client software distribution \(CSD\) catalog item in the service catalog triggers the Order Client Software flow.
 -   **[Client software distribution validation process](csd-validation.md)**  
 After SCCM deploys software to a target computer, client software distribution \(CSD\) detects the installation and validates its status.

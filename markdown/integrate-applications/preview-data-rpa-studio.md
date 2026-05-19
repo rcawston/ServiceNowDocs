@@ -40,5 +40,5 @@ Role required: none
     You can view the name of the port, the data type, and the data in this dialog box.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

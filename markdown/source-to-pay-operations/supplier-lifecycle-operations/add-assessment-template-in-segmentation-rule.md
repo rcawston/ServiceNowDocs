@@ -25,7 +25,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 2.  Create a segmentation rule.
 
-    For more information, see [Create segmentation rule](../task/create-segmentation-rule-slo.md).
+    For more information, see [Create segmentation rule](create-segmentation-rule-slo.md).
 
 3.  Select **Assessment templates** and **New** to map an assessment template with this segmentation rule.
 

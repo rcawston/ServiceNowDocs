@@ -13,15 +13,15 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 Learn how to use list and list page features in Configurable Workspace.
 
--   **[Use AI filter assist](../../workspace/task/use-ai-filter-assist.md)**
+-   **[Use AI filter assist](use-ai-filter-assist.md)**
 
     AI filter assist enables you to convert everyday language into an AI-generated encoded query.
 
--   **[Track record list changes](../task/use-ai-list-tracker.md)**
+-   **[Track record list changes](use-ai-list-tracker.md)**
 
     Get an AI-generated summary of recent changes made to a list without manually reviewing each record.
 
--   **[Add records to a related list](../../workspace/task/add-records-to-related-lists.md)**
+-   **[Add records to a related list](add-records-to-related-lists.md)**
 
     Add records to a related list to provide information related to the record.
 

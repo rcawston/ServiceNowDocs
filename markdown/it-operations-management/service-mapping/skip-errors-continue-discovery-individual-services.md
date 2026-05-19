@@ -78,9 +78,9 @@ Select the CI from the list of CIs of the selected CI type.**Note:** To eliminat
 
     If the CI type does not appear in the list, Service Mapping does not allow adding CIs of this type manually. For example, you cannot add an application cluster or an endpoint manually.
 
-6.  Configure attributes of the entry point from which Service Mapping continues discovery by selecting the entry point type and [entering relevant fields](../reference/r_EntryPointsforBizSvcDef.md).
+6.  Configure attributes of the entry point from which Service Mapping continues discovery by selecting the entry point type and [entering relevant fields](r_EntryPointsforBizSvcDef.md).
 
-    If the required entry point type does not appear in the Select Entry Point Type list, create it as described in [Create entry point types for Service Mapping](t_CreateEntryPoint.md).
+    If the required entry point type does not appear in the Select Entry Point Type list, create it as described in [Create entry point types for Service Mapping](../discovery-and-service-mapping-patterns/t_CreateEntryPoint.md).
 
 7.  Click **Submit**.
 
@@ -107,9 +107,9 @@ To discover the problematic CI automatically:
 
 [Resolve pattern-related mapping errors](t_TBSMapProcess.md)
 
-[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
 [Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md)
 
-[Prerequisites for performing top-down discovery using Service Mapping](../reference/prerequisites-service-mapping.md)
+[Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md)
 

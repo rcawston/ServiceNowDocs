@@ -17,7 +17,7 @@ Answer questions, modify responses, or submit external questionnaires for a thir
 
 ## Before you begin
 
-The **Allow assessors to answer/edit questionnaires for third-party contacts** property \(**sn\_svdp.allow\_assessor\_edit**\) must be active. For more information on configuring this property, see [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+The **Allow assessors to answer/edit questionnaires for third-party contacts** property \(**sn\_svdp.allow\_assessor\_edit**\) must be active. For more information on configuring this property, see [Configure TPRM properties](tprm-properties-configure.md).
 
 Role required: sn\_vdr\_risk\_asmt.vendor\_assessor, sn\_vdr\_risk\_asmt.vendor\_risk\_manager, sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
@@ -29,7 +29,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor, sn\_vdr\_risk\_asmt.vendor\
 
 3.  On the Risk overview tab, in the Questionnaires and document requests section, select the **Name** or **Questionnaire instance** to open the questionnaire that you want and then fill in the questions.
 
-    **Note:** To respond to a questionnaire using a questionnaire template, see [Using a Microsoft Excel spreadsheet template for external questionnaires](../../grc-workspace-vrm/concept/tprm-excel-template-support.md) and [Respond using a Microsoft Excel template](../../grc-workspace-vrm/task/tprm-tpcontact-use-excel.md).
+    **Note:** To respond to a questionnaire using a questionnaire template, see [Using a Microsoft Excel spreadsheet template for external questionnaires](tprm-excel-template-support.md) and [Respond using a Microsoft Excel template](tprm-tpcontact-use-excel.md).
 
 4.  Select **Submit**.
 

@@ -51,9 +51,9 @@ When parsing an email with a separator defined, records are only created for sec
 
 In this example, three records are created, even though there are four sections defined. The first section is a header, and it lacks anything specific to only one system. If any of the fields within the first section were filled in \(System, IP, or Status\), then a record would be created for that section, as well.
 
--   **[Create email parsers in Security Operations](../task/parsing-emails.md)**  
+-   **[Create email parsers in Security Operations](parsing-emails.md)**  
 Email Parsing creates Security Operations records from your email for security, vulnerability, and observables to expedite threat response and remediation.
--   **[Edit email records in Security Operations](../task/edit-email-records.md)**  
+-   **[Edit email records in Security Operations](edit-email-records.md)**  
 Edit transforms in your existing email event records.
 
 **Parent Topic:**[Security Operations email processing](email-processing.md)
@@ -61,7 +61,7 @@ Edit transforms in your existing email event records.
 **Related topics**  
 
 
-[Create email parsers in Security Operations](../task/parsing-emails.md)
+[Create email parsers in Security Operations](parsing-emails.md)
 
 [Security Operations enrichment data mapping](enrichment-data-mapping.md)
 

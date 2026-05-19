@@ -64,7 +64,7 @@ Role required: sn\_sec\_tisc.analyst
     -   **Email notification on approval**: Your request for inbound intelligence data is approved.
     -   **Email notification on rejection**: Your request for inbound intelligence data: \{sharing record number\} is rejected. You can view the rejected sharing record using the given link.
 
-**Parent Topic:**[Viewing Threat Intelligence External Sharing](../concept/tisc-intel-sharing-module.md)
+**Parent Topic:**[Viewing Threat Intelligence External Sharing](tisc-intel-sharing-module.md)
 
 **Related topics**  
 

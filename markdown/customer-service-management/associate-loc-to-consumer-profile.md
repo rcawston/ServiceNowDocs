@@ -26,7 +26,7 @@ In some scenarios, business-to-consumer \(B2C\) customers may have multiple addr
 **Related topics**  
 
 
-[Associate an existing consumer location with a consumer profile](../task/assoc-existing-consumer-loc.md)
+[Associate an existing consumer location with a consumer profile](assoc-existing-consumer-loc.md)
 
-[Create and associate a location to a consumer profile](../task/creating-loc-and-assoc-to-consumer-profile.md)
+[Create and associate a location to a consumer profile](creating-loc-and-assoc-to-consumer-profile.md)
 

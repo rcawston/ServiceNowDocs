@@ -233,9 +233,9 @@ Option to select a Workplace Service Delivery campus.
             The **Unlink Campus** tab is available after the synchronization is complete and the Indoor Mapping map object is linked to WSD locations indicating that the linking is complete. Unlinking a campus unlinks all the buildings associated with a campus. Unlinking a building unlinks all the floors and spaces associated with a building. Unlinking a floor unlinks the spaces associated with a floor.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Keyboard shortcuts](keyboard-shortcuts.md)
 
-**Next topic:**[Synchronize Indoor Mapping with CMN Locations](../concept/sync-cmn-location.md)
+**Next topic:**[Synchronize Indoor Mapping with CMN Locations](sync-cmn-location.md)
 

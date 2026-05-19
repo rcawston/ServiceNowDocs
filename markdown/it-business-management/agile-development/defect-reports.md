@@ -27,7 +27,7 @@ Users who are expected to create defects in Agile Development 2.0 must have one 
 
 However, if a user has just the feature\_user role, they can only view the defects from the **Defects** module of the Agile Development application. They can not view the stories associated with the defects in the Stories related list of the defect record.
 
-For information on how to create Defects, see [Report a defect in Agile Development 2.0](../task/create-defect-report.md).
+For information on how to create Defects, see [Report a defect in Agile Development 2.0](create-defect-report.md).
 
 **Parent Topic:**[Exploring Agile Development 2.0](exploring-agile-development-2.md)
 

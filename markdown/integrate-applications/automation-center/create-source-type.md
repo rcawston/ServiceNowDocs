@@ -40,5 +40,5 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 [Create automation source](create-source.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](config-auto-sum-exe.md)
 

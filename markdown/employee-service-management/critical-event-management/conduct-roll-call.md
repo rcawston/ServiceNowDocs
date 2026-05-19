@@ -61,7 +61,7 @@ Select the More actions icon \(![More actions icon](../../legal-request-manageme
 5.  If you must add an impacted person manually, select the **Add Person** button.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

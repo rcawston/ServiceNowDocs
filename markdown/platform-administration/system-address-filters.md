@@ -46,11 +46,11 @@ Before you set up system address filters, consider doing the following:
 
 To set up system address filters for your instance, complete the following tasks:
 
-1.  [Set email address filters](../task/set-email-address-filters.md)
+1.  [Set email address filters](set-email-address-filters.md)
 
     Specify which domains and email addresses are allowed or disallowed.
 
-2.  [Create a system address filter](../task/create-system-address-filter.md)
+2.  [Create a system address filter](create-system-address-filter.md)
 
     Define how email address filters apply to inbound and outbound email.
 
@@ -59,8 +59,8 @@ To set up system address filters for your instance, complete the following tasks
 
 After you set up system address filters, configure email filters for an added layer of security. Email filters enable you to ignore an inbound email or move it to a particular mailbox. For more information on configuring email filters, see [Email filters](c_EmailFilters.md).
 
--   **[Set email address filters](../task/set-email-address-filters.md)**  
+-   **[Set email address filters](set-email-address-filters.md)**  
 Specify which domains and email addresses are allowed or disallowed.
 
-**Parent Topic:**[Advanced email setup](../../reference-pages/concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](c_AlternateEmailConfigurations.md)
 

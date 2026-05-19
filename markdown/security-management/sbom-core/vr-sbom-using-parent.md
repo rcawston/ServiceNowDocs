@@ -23,7 +23,7 @@ You can upload your software bill of material files via an API or manually. View
 
     The Upload API is used for uploading and ingesting an SBOM file \(CycloneDX/SPDX\) into your instance.
 
--   [Upload Software Bill of Materials files manually](../task/vr-sbom-ingest.md).
+-   [Upload Software Bill of Materials files manually](vr-sbom-ingest.md).
 
     Upload software bill of materials files manually. The method you use to upload your files depends on whether you have the SBOM Core or SBOM Response applications installed.
 
@@ -33,7 +33,7 @@ You can upload your software bill of material files via an API or manually. View
 
 -   Classify and resolve component licenses in the License administration module.
 
-    Review [classify](../task/vr-sbom-classify-license.md), and [resolve](../task/vr-sbom-assign-license.md) \(assign\) license information for the components you upload in your SBOM files according to your internal or regulatory policies. You can match your components to licenses and determine your overall license compliance to see your potential risk exposure to banned, restricted, or missing licenses.
+    Review [classify](vr-sbom-classify-license.md), and [resolve](vr-sbom-assign-license.md) \(assign\) license information for the components you upload in your SBOM files according to your internal or regulatory policies. You can match your components to licenses and determine your overall license compliance to see your potential risk exposure to banned, restricted, or missing licenses.
 
 -   [Viewing reports and dashboards in the Software Bill of Materials workspace](vr-sbom-viewing-data-overview.md)
 

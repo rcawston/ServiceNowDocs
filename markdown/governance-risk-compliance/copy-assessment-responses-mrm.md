@@ -38,5 +38,5 @@ This task guides you on how to enable or disable the option to copy responses fr
     When enabled, new assessments copy responses from the most recently completed assessment, if available. Respondent can edit the pre-filled responses before submitting.
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

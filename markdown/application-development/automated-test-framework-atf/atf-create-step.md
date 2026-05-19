@@ -37,7 +37,7 @@ This procedure lets you add one step at a time. You can also add a batch of step
 
     For example, if selecting a specific test step category, select **Form** for form-related test steps, **Application Navigator** to test application menu or module visibility, or **Server** for tests executed on the server.
 
-    **Note:** When selecting certain types of server tests, you can specify whether a positive or negative test result constitutes a successful test outcome. For more information, see Assert type in [Exploring Automated Test Framework](../concept/automated-test-framework.md).
+    **Note:** When selecting certain types of server tests, you can specify whether a positive or negative test result constitutes a successful test outcome. For more information, see Assert type in [Exploring Automated Test Framework](automated-test-framework.md).
 
 5.  Click the type of test step you want to select.
 
@@ -59,7 +59,7 @@ This procedure lets you add one step at a time. You can also add a batch of step
 
 10. Fill in the fields that apply to this step.
 
-    For instructions, see [Automated Test Framework \(ATF\) test step categories](../reference/test-step-categories.md).
+    For instructions, see [Automated Test Framework \(ATF\) test step categories](test-step-categories.md).
 
     Some steps return output values that you can pass to the inputs for a subsequent step. For more information, see [Pass values from one automated test step to another](atf-retrieve-value.md).
 
@@ -79,5 +79,5 @@ This procedure lets you add one step at a time. You can also add a batch of step
 **Related topics**  
 
 
-[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+[Automated Test Framework use case examples](atf-use-cases.md)
 

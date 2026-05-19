@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-To set the Terraform environment variable conditionally, use a scripted expression. For more information, see [Using expressions in Cloud Provisioning and Governance](../reference/expressions-cloud-mgt.md).
+To set the Terraform environment variable conditionally, use a scripted expression. For more information, see [Using expressions in Cloud Provisioning and Governance](expressions-cloud-mgt.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ To set the Terraform environment variable conditionally, use a scripted expressi
 9.  Set the logical datacenter resource block to the **Published** state.
 
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

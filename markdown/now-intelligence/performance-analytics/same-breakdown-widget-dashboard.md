@@ -30,11 +30,11 @@ In the following animation, you have a breakdown widget on a breakdown dashboard
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md)
 
-[Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md)
+[Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md)
 
-[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)
+[Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md)
 
 [Showing breakdown relations on dashboards](c_ShowBkdwnRltnsWdgts.md)
 

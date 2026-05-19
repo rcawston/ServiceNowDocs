@@ -37,8 +37,8 @@ As an inventory template or catalog manager, you can do the following tasks to i
 
 You can then instantiate a new network inventory record by using the change management workflow to fulfill the network designs. As an inventory agent, you perform the following tasks:
 
-1.  Create the change request with the change model. To learn more, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).
-2.  Create the change tasks from the change request. The network asset instantiation takes place using an Application programming interface \(API\) or change task that you create from the change request. To learn more, see [Create and execute a change task in Telecommunications Network Inventory](../task/create-change-task-in-tni.md).
+1.  Create the change request with the change model. To learn more, see [Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md).
+2.  Create the change tasks from the change request. The network asset instantiation takes place using an Application programming interface \(API\) or change task that you create from the change request. To learn more, see [Create and execute a change task in Telecommunications Network Inventory](create-change-task-in-tni.md).
 
 When you complete the task, the following processing takes place:
 

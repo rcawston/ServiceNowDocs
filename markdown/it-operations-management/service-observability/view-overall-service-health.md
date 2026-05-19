@@ -17,7 +17,7 @@ View overall service health and related events, like alerts and changes, with th
 
 ## Before you begin
 
--   For version 1.5, a service must be activated. For more information, see [Activate teams and services](../concept/activate-teams-and-services.md).
+-   For version 1.5, a service must be activated. For more information, see [Activate teams and services](activate-teams-and-services.md).
 -   A data mapping must be configured. For more information, see [Create and manage data mappings](create-and-manage-observability-data-mappings.md).
 
 Role required: operator \[snc\_sow\_svcobs.manager\]
@@ -26,7 +26,7 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
 
 When you have been notified that a service is experiencing performance issues, you can begin your investigation with the **Overview** tab on the Service Details page.
 
-**Note:** Operators can also use the [Analyze a dashboard in Service Observability](../../now-assist-itom/concept/analyze-a-dashboard-in-service-observability.md) and the [Analyze service health in Service Observability](../../now-assist-itom/concept/analyze-service-health-in-service-observability.md) Now Assist AI skills to generate an analysis for them.
+**Note:** Operators can also use the [Analyze a dashboard in Service Observability](../now-assist-for-it-operations-management/analyze-a-dashboard-in-service-observability.md) and the [Analyze service health in Service Observability](../now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md) Now Assist AI skills to generate an analysis for them.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ When you have been notified that a service is experiencing performance issues, y
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Use the charts in the Overview section to help determine where there might be performance issues.
 
@@ -52,7 +52,7 @@ When you have been notified that a service is experiencing performance issues, y
 
 4.  Use the other charts on the page to view related information about the service, such as recent changes, open incidents, and trends for incidents and alerts.
 
-    These charts help explain whether recurring incidents or alerts might be caused by performance issues on the service. For detailed information about using this page, refer to the corresponding Overview templates for your observability vendor described in [Service Observability templates](../reference/observability-templates.md).
+    These charts help explain whether recurring incidents or alerts might be caused by performance issues on the service. For detailed information about using this page, refer to the corresponding Overview templates for your observability vendor described in [Service Observability templates](observability-templates.md).
 
 
 ## What to do next

@@ -37,15 +37,15 @@ When you create a datacenter record, it creates a corresponding configuration it
 
 4.  On the **Details** tab, fill in the fields.
 
-    To learn more about the fields that are unique to the Data Center form, see [Network site form](../reference/tni-network-site-form.md).
+    To learn more about the fields that are unique to the Data Center form, see [Network site form](tni-network-site-form.md).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Site Details section, fill in the site detail information.
 
     The following table lists the fields that are unique to the Site Details section.
 
-    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
 <table id="table_f3c_dmd_wrb"><thead><tr><th>
 
@@ -114,7 +114,7 @@ Altitude of the network site that is measured in meters.
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Select **Save**.
 
@@ -124,13 +124,13 @@ Altitude of the network site that is measured in meters.
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 11. View the visual representation of the selected record by selecting **Open Map**.
 
 12. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 13. To view the Dependency views map, select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Dependency View**.
 
@@ -147,9 +147,9 @@ Altitude of the network site that is measured in meters.
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 -   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 

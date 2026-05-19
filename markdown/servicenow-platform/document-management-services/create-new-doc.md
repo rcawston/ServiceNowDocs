@@ -131,12 +131,12 @@ The document version that is used for document download.
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](document-mgt-versions.md)
 
 [Download a document](downloading-a-document.md)
 
@@ -144,7 +144,7 @@ The document version that is used for document download.
 
 [Modify a shared link access](modify-access-shared-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](document-configuration.md)
 
 [Delete a document link](delete-document-link.md)
 

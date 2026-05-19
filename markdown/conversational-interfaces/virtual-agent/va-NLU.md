@@ -119,8 +119,8 @@ With NLU models, Virtual Agent can determine when user statements in a conversat
 
 When designing your topic, you can use entities as follows:
 
--   [Associate an entity with a user input node](../reference/va-user-inputs.md) on the **Flow** tab. You can specify whether Virtual Agent asks the user to confirm the slot-filled entity value or to skip the node.
--   [Add nodeless NLU entities as input variables to a topic](../task/add-nodeless-entities-input-vars.md). These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
+-   [Associate an entity with a user input node](va-user-inputs.md) on the **Flow** tab. You can specify whether Virtual Agent asks the user to confirm the slot-filled entity value or to skip the node.
+-   [Add nodeless NLU entities as input variables to a topic](add-nodeless-entities-input-vars.md). These variables can be slot-filled from NLU service provider predictions or provided outside of the scope of the topic.
 
 ## Conversation switching
 

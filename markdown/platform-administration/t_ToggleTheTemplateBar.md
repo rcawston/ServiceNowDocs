@@ -32,7 +32,7 @@ You can toggle the template bar, which hides or shows it for all forms. The temp
 3.  Select **Toggle Template Bar**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ You can toggle the template bar, which hides or shows it for all forms. The temp
 
 [Create a module for a template](t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](r_ScriptedTemplates.md)
 

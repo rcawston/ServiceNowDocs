@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the MID Server integration configuration forms for Health Log Analytics.
 
-For the MID Server integration setup procedure, see [Set up a MID Server integration for Health Log Analytics](../task/il-connector-hla-mid.md).
+For the MID Server integration setup procedure, see [Set up a MID Server integration for Health Log Analytics](il-connector-hla-mid.md).
 
 <table id="table_vct_hvs_32c"><thead><tr><th>
 

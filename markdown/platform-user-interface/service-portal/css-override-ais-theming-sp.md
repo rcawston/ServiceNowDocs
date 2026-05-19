@@ -21,7 +21,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-As an example of styling features of AI Search in Service Portal, this procedure removes the borders around the search filters. You can style several other features using additional CSS variables. For more information about these variables, see [Theming for AI Search in Service Portal](../reference/ais-sp-css-vars.md).
+As an example of styling features of AI Search in Service Portal, this procedure removes the borders around the search filters. You can style several other features using additional CSS variables. For more information about these variables, see [Theming for AI Search in Service Portal](ais-sp-css-vars.md).
 
 **Search filters**: Remove the line borders around search filters.
 
@@ -155,8 +155,8 @@ Option to load the CSS Include asynchronously to improve page load time. This op
 
 The borders around the search filters are removed.![Search filters panel with line borders removed.](../image/sp-ais-filters-overridden.png)
 
--   **[Theming for AI Search in Service Portal](../reference/ais-sp-css-vars.md)**  
+-   **[Theming for AI Search in Service Portal](ais-sp-css-vars.md)**  
 You can customize the look and feel of the AI Search experience in Service Portal by updating the relevant CSS variables.
 
-**Parent Topic:**[AI Search in Service Portal](../concept/ai-search.md)
+**Parent Topic:**[AI Search in Service Portal](ai-search.md)
 

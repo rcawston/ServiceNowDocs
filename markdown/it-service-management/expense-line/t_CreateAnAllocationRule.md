@@ -49,12 +49,12 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](c_CreateExpenseLinesAutomatically.md)
 
 [Create expense lines manually](t_CreateExpenseLinesManually.md)
 

@@ -17,15 +17,15 @@ The AI Enhanced Recommended Actions for Operational Technology Service Managemen
 
 <table id="table_ucw_zmf_f3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can use the AI Enhanced Recommended Actions for OTSM feature](../concept/exploring-ai-enhanced-ra-otsm.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can use the AI Enhanced Recommended Actions for OTSM feature](exploring-ai-enhanced-ra-otsm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the AI Enhanced Recommended Actions for OTSM feature so it's available in the Industrial Workspace](../concept/configure-ai-enhanced-ra-otsm.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the AI Enhanced Recommended Actions for OTSM feature so it's available in the Industrial Workspace](configure-ai-enhanced-ra-otsm.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Use AI Enhanced Recommended Actions for OTSM in the Industrial Workspace](../task/use-ai-enhanced-ra-otsm.md)
+[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Use AI Enhanced Recommended Actions for OTSM in the Industrial Workspace](use-ai-enhanced-ra-otsm.md)
 
 </td></tr><tr><td>
 

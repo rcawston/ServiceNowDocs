@@ -19,7 +19,7 @@ Role required: Any roles necessary to access the workspace. The access control l
 
 ## Procedure
 
-1.  Open KPI Details for an indicator as described in [View KPI Details](../../performance-analytics/task/view-kpi-details.md).
+1.  Open KPI Details for an indicator as described in [View KPI Details](view-kpi-details.md).
 
 2.  Open the **Filters** \(![Filter icon](../image/filter-icon.png)\) panel and select one breakdown and one element.
 
@@ -42,5 +42,5 @@ In the following example, you see the KPI Signals panel for the Number of open i
 
 ![KPI Signals panel with one breakdown and element filtering the indicator](../image/kpi-signals-one-element.png)
 
-**Parent Topic:**[Exploring KPI Signals](../concept/exploring-kpi-signals.md)
+**Parent Topic:**[Exploring KPI Signals](exploring-kpi-signals.md)
 

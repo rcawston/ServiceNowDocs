@@ -44,5 +44,5 @@ The **Firewall Records** tab offers consolidated access to Records, Rules Reques
 
 To update the dashboard manually, navigate to **Performance Analytics** &gt; **Data Collector** &gt; **Jobs** and select **Firewall Scheduled Job**. Open the record and select **Execute Now** to update the dashboard elements with the latest information.
 
-**Parent Topic:**[Firewall Audits and Reporting reference](../reference/firewall-audit-report-reference.md)
+**Parent Topic:**[Firewall Audits and Reporting reference](firewall-audit-report-reference.md)
 

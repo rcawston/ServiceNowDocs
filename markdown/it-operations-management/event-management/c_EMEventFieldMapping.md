@@ -31,7 +31,7 @@ Event Management provides default event field mappings for commonly used system 
 
 You can view the default event field mappings and mapping pairs by navigating to **Event Management** &gt; **Rules** &gt; **Event Field Mappings** and double-clicking **Name**.
 
--   **[Create event field mappings](../task/t_EMCreateEventFieldMapping2.md)**  
+-   **[Create event field mappings](t_EMCreateEventFieldMapping2.md)**  
 Use event field mappings to map values from specific event fields to values in other fields to provide more comprehensive information in an alert. Use team-based integrations in event rules to make sure that connector ownership and execution of rules give precedence to global rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
 
 **Parent Topic:**[Event Management](c_EM.md)

@@ -81,7 +81,7 @@ UI Builder is separated into the following areas.
 
     ![Configuration panel in UI Builder.](../image/nav-page-config-panel.png)
 
--   Data resources: Bind data to your components using data resources to dynamically expose your data from tables, records, or other elements on your page. Data resources enable you to reuse your components. See [Connect data to your components](../task/connect-data.md) for more information.
+-   Data resources: Bind data to your components using data resources to dynamically expose your data from tables, records, or other elements on your page. Data resources enable you to reuse your components. See [Connect data to your components](connect-data.md) for more information.
 
     ![Data resource panel displaying a Look Up Multiple Records](../image/nav-data-resources.png)
 

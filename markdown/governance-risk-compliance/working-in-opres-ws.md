@@ -44,7 +44,7 @@ You can access Operational Resilience Workspace with the following user roles:
 -   Operational Resilience manager \[sn\_oper\_res.manager\]
 -   Operational Resilience user \[sn\_oper\_res.user\]
 
-**Note:** For information on the administrative tasks, see [Completing general administrative tasks](../../grc-operational-res/concept/admin-module-tasks.md).
+**Note:** For information on the administrative tasks, see [Completing general administrative tasks](admin-module-tasks.md).
 
 ## Configurable features in Operational Resilience Workspace
 

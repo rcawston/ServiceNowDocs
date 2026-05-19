@@ -17,7 +17,7 @@ Give users the option to use their voice when interacting with the Now Assist pa
 
 **Note:** Voice input is automatically activated when the Now Assist panel is activated. As of the Zurich Patch 4 release, voice input is configured in [Enable additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md) and not with this option.
 
-You must have installed at least one Now Assist application with a skill that uses the Now Assist panel. See [Now Assist panel](../../now-assist-platform/concept/now-assist-panel-overview.md) for more information about supported skills.
+You must have installed at least one Now Assist application with a skill that uses the Now Assist panel. See [Now Assist panel](now-assist-panel-overview.md) for more information about supported skills.
 
 Role required: sn\_generative\_ai.nsa\_admin
 
@@ -44,5 +44,5 @@ The voice input feature is not supported in regulated markets.
 
 Users can choose whether they can use their voice to interact with the Now Assist panel in their Next Experience accessibility preferences.
 
-**Parent Topic:**[Configuring Now Assist Admin features](../concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](configuring-na-landing.md)
 

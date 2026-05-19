@@ -95,5 +95,5 @@ try {
 
 ```
 
-**Parent Topic:**[Accelerating your DevOps change process](../concept/dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
 

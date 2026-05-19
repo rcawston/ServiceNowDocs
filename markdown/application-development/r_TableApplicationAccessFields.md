@@ -70,10 +70,10 @@ Select the check box to allow users to make inbound web service queries to this 
  Clear the check box to prevent users from making web service queries to this table.
 
 </td></tr></tbody>
-</table>-   **[Runtime access to applications tables](../concept/c_RuntimeAccessToAppTables.md)**  
+</table>-   **[Runtime access to applications tables](c_RuntimeAccessToAppTables.md)**  
 Runtime access determines if an API or web service call can run against an application table.
--   **[Design-time access to application tables](../concept/c_DesignTimeAccessToAppTables.md)**  
+-   **[Design-time access to application tables](c_DesignTimeAccessToAppTables.md)**  
 As the application developer, you can grant or deny other applications the permission to create configuration records, also known as application files, that extend the functionality of an application.
 
-**Parent Topic:**[Application access settings](../concept/c_ApplicationAccessSettings.md)
+**Parent Topic:**[Application access settings](c_ApplicationAccessSettings.md)
 

@@ -46,5 +46,5 @@ Agents can use the Now Assist panel available in their workspace. This conversat
 
 [Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/gen-kb-now-assisthr.md)
 
-[Generate a Knowledge article from the classic environment with Now Assist](../task/Now-Assist-generate-article-coreui.md#)
+[Generate a Knowledge article from the classic environment with Now Assist](Now-Assist-generate-article-coreui.md#)
 

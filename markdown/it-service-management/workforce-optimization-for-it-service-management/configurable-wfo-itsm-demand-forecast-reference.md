@@ -47,7 +47,7 @@ The **WFO Forecast** time series metric retention policy is available by default
 |Average P1 Incident Work Time|Average time an agents spends working on all incidents that are categorized as Priority 1.|
 |Average Walkup Duration|Average duration an agent spends on a walkup interaction.|
 
-If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [Modify forecast parameters to visualize forecast data](../task/modify-forecast-parameters-configurable-wfo-itsm.md)
+If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [Modify forecast parameters to visualize forecast data](modify-forecast-parameters-configurable-wfo-itsm.md)
 
 ## Forecast properties
 
@@ -217,8 +217,8 @@ Description
 Calculates the forecast resources for the future based on the collected data. -   Runs daily at 3 am
 -   Collects hourly data every day for the formula forecast configuration
 -   Stores the data in the Agent Forecast metric in MetricBase
--   Uses forecast properties to set the data collection frequency or time period to store the data. The forecast properties will not be used if a [published forecast parameter](../task/modify-forecast-parameters-configurable-wfo-itsm.md) exists for a data collection definition.
+-   Uses forecast properties to set the data collection frequency or time period to store the data. The forecast properties will not be used if a [published forecast parameter](modify-forecast-parameters-configurable-wfo-itsm.md) exists for a data collection definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](../concept/setting-up-demand-forecast-configurable-wfo-itsm.md)
+</table>**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](setting-up-demand-forecast-configurable-wfo-itsm.md)
 

@@ -79,5 +79,5 @@ When configured agents receive new emails for interactions open in inactive tabs
 **Related topics**  
 
 
-[Email Interaction record page](../concept/csm-email-interaction-record-page.md)
+[Email Interaction record page](csm-email-interaction-record-page.md)
 

@@ -186,5 +186,5 @@ If no configuration sys\_id is provided to the sla-timer-configuration API, then
 
 However, as a best practice do not provide a configuration sys\_id to the application. Setup their your own configuration, even if it is identical to the default behavior.
 
-**Parent Topic:**[Configuring Service Level Management](../concept/configuring-service-level-management.md)
+**Parent Topic:**[Configuring Service Level Management](configuring-service-level-management.md)
 

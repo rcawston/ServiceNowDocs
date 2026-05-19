@@ -30,7 +30,7 @@ For a quick reference to validate CMDB settings for HAM, see [Settings checklist
 
 ## Access settings
 
-Navigate to the CMDB success advisor landing page and for the HAM card, select **View insights**. Select the **Settings** tab to access settings-related details. For more information, see [Access CMDB success advisor](../task/cmdb-sa-access.md).
+Navigate to the CMDB success advisor landing page and for the HAM card, select **View insights**. Select the **Settings** tab to access settings-related details. For more information, see [Access CMDB success advisor](cmdb-sa-access.md).
 
 **Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](cmdb-sa-ham-config-settings.md).
 
@@ -151,7 +151,7 @@ Opens the New policy form to create a policy for a CI class. The **Create policy
 **Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](administer-data-manager.md)
 
 [Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 
@@ -268,7 +268,7 @@ Marks CIs as retired when no longer in use.
 </table>**Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](administer-data-manager.md)
 
 ## Settings checklist for HAM in CMDB success advisor
 

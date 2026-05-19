@@ -17,7 +17,7 @@ The NotifyClient API provides methods that enable you to use Notify telephony fu
 
 Several NotifyClient methods take a callback function as a parameter. Because NotifyClient method calls are made asynchronously, these methods can't return a value directly. Use the callback function to parse the returned data, such as by assigning variables or making other API calls.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## NotifyClient - Client\(Object notifyConfig, Boolean initializeVendorClientLazily\)
 
@@ -373,7 +373,7 @@ client.forwardCall(arg);
 
 Returns a list of clients available to accept calls.
 
-This method excludes the current client from the list. The equivalent [Notify-getAvailableClients\(\)](../../Notify/concept/c_NotifyAPI.md#) method does not filter any user.
+This method excludes the current client from the list. The equivalent [Notify-getAvailableClients\(\)](server-api-reference/c_NotifyAPI.md#) method does not filter any user.
 
 <table id="table_xc5_skr_ls" class="parameters"><thead><tr><th>
 

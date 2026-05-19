@@ -102,5 +102,5 @@ Maximum attachment file size in MB that can be attached to a comment included fo
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 

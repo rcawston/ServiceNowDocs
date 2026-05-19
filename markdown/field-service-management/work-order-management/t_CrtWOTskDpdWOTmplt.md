@@ -17,7 +17,7 @@ In addition to creating work order task dependencies that are inherited from the
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 

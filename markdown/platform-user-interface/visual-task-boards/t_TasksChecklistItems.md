@@ -38,5 +38,5 @@ You might want to add custom tables or remove tables you do not use.
     ![Task type selection list](../image/CreateTaskFromChecklistItem.png)
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](c_VisualTaskBoardChecklists.md)
 

@@ -145,7 +145,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing system properties. [The advanced condition](../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing system properties. [The advanced condition](c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
  The advanced condition script uses the following global variables:
 
@@ -232,5 +232,5 @@ Select this check box if the event parameter 2 contains one or more notification
 8.  Click **Update**.
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 

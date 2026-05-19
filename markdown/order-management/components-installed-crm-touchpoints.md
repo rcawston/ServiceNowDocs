@@ -93,5 +93,5 @@ Stores touchpoint records that track customer engagement activities across the s
 </td></tr></tbody>
 </table>The CRM Touchpoint \[sn\_crm\_touchpoint\_touchpoint\] table extends the Case \[case\] table.
 
-**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 

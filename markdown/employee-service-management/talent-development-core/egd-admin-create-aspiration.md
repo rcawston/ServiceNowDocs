@@ -31,7 +31,7 @@ Role required: sn\_egd\_core.admin
 
 3.  Complete the **Aspiration New record** form.
 
-    Read details about the different fields in [Talent Aspirations reference](../reference/egd-aspirations-form.md).
+    Read details about the different fields in [Talent Aspirations reference](egd-aspirations-form.md).
 
 4.  Select **Submit**
 
@@ -40,5 +40,5 @@ Role required: sn\_egd\_core.admin
 
 As an Talent admin you can create and maintain aspiration types, see [Add Talent Development Aspirations Types](egd-admin-create-aspiration-type.md).
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

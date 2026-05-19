@@ -43,8 +43,8 @@ When you request an exception for one or more records from the Bulk edit modal, 
     -   Configuration Test Results
 3.  Perform one of the following:
 
-    -   Select the check box next to each item if you want to use the Only Selected Items option in the [Record selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-exception.md#record-slection-field) field.
-    -   Apply filters if you want to use the All records that match filter option in the [Record selection](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-exception.md#record-slection-field) field.
+    -   Select the check box next to each item if you want to use the Only Selected Items option in the [Record selection](vulnerability-manager-workspace/vmws-bulk-edit-request-exception.md#record-slection-field) field.
+    -   Apply filters if you want to use the All records that match filter option in the [Record selection](vulnerability-manager-workspace/vmws-bulk-edit-request-exception.md#record-slection-field) field.
 4.  Select the **Bulk Edit** button.
 
 5.  On the form, fill in the following fields to request an exception for multiple findings \(VITs, AVITs, CVITs, or TRs\) simultaneously.
@@ -146,7 +146,7 @@ Text that you enter to describe the changes.
 
     A remediation task is created containing the records that you selected. Your request is submitted for approval and the State of the records changes to  In Review.
 
-    **Note:** The **Take Questionnaire** modal appears only when the questionnaire is enabled for exception requests in the Exception Management form. For more information on configuring a questionnaire for exception requests, see [Configure Exception Management for Vulnerability Response](../../vulnerability-response/task/configure-exception-management-settings.md), [Configure Exception Management for Application Vulnerability Response](../../vulnerability-app-vuln-mgmt/task/configure-exception-management-application-vulnerability-response.md), and [Configure Exception Management for Container Vulnerability Response](../../container-vulnerability-response/task/configure-exception-management-for-container-vulnerability-response.md), and [Configuration Compliance Exception Management overview](../../vulnerability-config-compliance/concept/cc-ex-mgmt.md).
+    **Note:** The **Take Questionnaire** modal appears only when the questionnaire is enabled for exception requests in the Exception Management form. For more information on configuring a questionnaire for exception requests, see [Configure Exception Management for Vulnerability Response](vulnerability-response/configure-exception-management-settings.md), [Configure Exception Management for Application Vulnerability Response](application-vulnerability-response/configure-exception-management-application-vulnerability-response.md), and [Configure Exception Management for Container Vulnerability Response](container-vulnerability-response/configure-exception-management-for-container-vulnerability-response.md), and [Configuration Compliance Exception Management overview](configuration-compliance/cc-ex-mgmt.md).
 
     The approver receives an email notification about your request.
 
@@ -162,5 +162,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](../concept/sem-using-bulk-edit.md)
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)
 

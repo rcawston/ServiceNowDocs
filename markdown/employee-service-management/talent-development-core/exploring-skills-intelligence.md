@@ -29,11 +29,11 @@ The Skills Foundation engine acts as the foundational layer that powers all the 
 
 ## Skill Validation in Manager Hub
 
-As a manager, you can review and validate the skill proficiency levels updated by your employees by opening the conversations scheduled with them. Within Conversations there’s a dedicated section that offers details about skills that require validation. For more information, see [Validate skills in Manager Hub](../task/skills-intelligence-manager-hub.md).
+As a manager, you can review and validate the skill proficiency levels updated by your employees by opening the conversations scheduled with them. Within Conversations there’s a dedicated section that offers details about skills that require validation. For more information, see [Validate skills in Manager Hub](skills-intelligence-manager-hub.md).
 
 ## Skills-driven Learning recommendations
 
-Talent Development uses Skills Foundation to deliver learning recommendations for employees and their managers, keeping them engaged and productive. For more information, see [Learning overview](../../employee-service-management/concept/egd-learning-ovrvw.md). The Skills Foundation application integrates with Learning to introduce skills-driven learning search results that your managers can use to recommend courses based on the skills of your employees. For more information, see [Learning integration with Skills Foundation](../../human-resources/concept/skills-intelligence-lxp.md).
+Talent Development uses Skills Foundation to deliver learning recommendations for employees and their managers, keeping them engaged and productive. For more information, see [Learning overview](egd-learning-ovrvw.md). The Skills Foundation application integrates with Learning to introduce skills-driven learning search results that your managers can use to recommend courses based on the skills of your employees. For more information, see [Learning integration with Skills Foundation](../learning-core/skills-intelligence-lxp.md).
 
 ## Proactive Prompts integrated with Skills Foundation
 
@@ -51,7 +51,7 @@ Employees can view the skill names and their descriptions translated when they c
 
 ## Hiring core for Skills Foundation
 
-Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. Skills Foundation runs predictions on the data in the hiring core tables and offers skill recommendations for role groups. For more information, see [Hiring Core](../reference/hiring-core.md).
+Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. Skills Foundation runs predictions on the data in the hiring core tables and offers skill recommendations for role groups. For more information, see [Hiring Core](hiring-core.md).
 
 ## Key benefits
 
@@ -99,7 +99,7 @@ Enables contextual and proactive engagement for your managers and employees by b
 
 </td></tr><tr><td>
 
-[Import skills from your resume or LinkedIn profile](../task/import-skills-from-resume.md)
+[Import skills from your resume or LinkedIn profile](import-skills-from-resume.md)
 
 </td><td>
 
@@ -107,7 +107,7 @@ Imports skills from resumes and LinkedIn profiles of the employees.**Note:** Thi
 
 </td></tr><tr><td>
 
-[Validated skills](../task/skills-intelligence-manager-hub.md)
+[Validated skills](skills-intelligence-manager-hub.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Managers validate the skill proficiency level of employees in the Manager Hub an
 
 </td></tr><tr><td>
 
-[View activity insights](../task/skills-intelligence-manager-hub.md)
+[View activity insights](skills-intelligence-manager-hub.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Managers can view and review activities related to the skill that an employee ha
 
 </td></tr><tr><td>
 
-[Add skills by using the skill recommender](../task/add-skills-using-skill-recommender.md)
+[Add skills by using the skill recommender](add-skills-using-skill-recommender.md)
 
 </td><td>
 

@@ -79,5 +79,5 @@ Checks the Hermes Cluster configuration by verifying that the Hermes Cluster Con
 
 The resulting messages validate enabled services or the connection to the message queue.
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

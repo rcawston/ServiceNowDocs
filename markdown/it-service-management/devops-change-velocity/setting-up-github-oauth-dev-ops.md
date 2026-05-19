@@ -17,8 +17,8 @@ Create OAuth 2.0 credentials for GitHub Apps or OAuth apps and use them to conne
 
 If you want to use Basic Authentication credentials instead of OAuth 2.0, skip this section and proceed to onboard GitHub using one of the following options:
 
--   [Onboard GitHub to DevOps Change Velocity — Workspace](../task/playbook-enter-github-instance-details.md).
--   [Onboard GitHub to DevOps Change Velocity — Classic](../task/create-github-tool-dev-ops.md).
+-   [Onboard GitHub to DevOps Change Velocity — Workspace](playbook-enter-github-instance-details.md).
+-   [Onboard GitHub to DevOps Change Velocity — Classic](create-github-tool-dev-ops.md).
 
 **Note:** The OAuth Authorization Code &amp; JWT grant types are supported for GitHub &amp; GitHub Enterprise with MID server.
 

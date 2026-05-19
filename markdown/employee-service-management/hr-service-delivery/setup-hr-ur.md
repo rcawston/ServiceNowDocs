@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-If you have created COEs \(Center of Excellence\), then create service configurations, state mappings, and transfer configurations as well. In case you have activated the Predictive Intelligence plugin, configure the service assignment groups by referring to [Train the classification solution to predict the assignment group](../../universal-request/task/train-ur-classification-soln.md).
+If you have created COEs \(Center of Excellence\), then create service configurations, state mappings, and transfer configurations as well. In case you have activated the Predictive Intelligence plugin, configure the service assignment groups by referring to [Train the classification solution to predict the assignment group](../universal-request-for-hr-service-delivery/train-ur-classification-soln.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ If you have created COEs \(Center of Excellence\), then create service configura
     ![Create record producers specific to HR.](../image/setup-hr-ur7.png)
 
 
-**Parent Topic:**[Universal Request for HR Service Delivery](../concept/universal-request-hr.md)
+**Parent Topic:**[Universal Request for HR Service Delivery](universal-request-hr.md)
 

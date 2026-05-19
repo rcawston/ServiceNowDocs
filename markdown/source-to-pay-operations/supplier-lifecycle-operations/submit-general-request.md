@@ -55,7 +55,7 @@ The application creates a case and assigns it to the supplier manager for review
 
 After the supplier manager approves the case, the supplier record is updated accordingly.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -80,5 +80,5 @@ After the supplier manager approves the case, the supplier record is updated acc
 
 [Update default supplier](update-default-supplier.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

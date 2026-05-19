@@ -73,5 +73,5 @@ If a stage or activity is not configured to be restartable, you will not see all
         ![Restart button in activity card context menu](../images/restart-activity-pe.png)
 
 
-**Parent Topic:**[Running Playbooks](../../workspace/concept/playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
 

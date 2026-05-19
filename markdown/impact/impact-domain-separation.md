@@ -20,5 +20,5 @@ Domain separation is unsupported for Impact. Domain separation enables you to se
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Impact reference](../reference/impact-reference.md)
+**Parent Topic:**[Impact reference](impact-reference.md)
 

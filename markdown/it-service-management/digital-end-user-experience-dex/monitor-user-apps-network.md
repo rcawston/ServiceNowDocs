@@ -39,6 +39,6 @@ Role required: admin
         This option is applicable only to Windows OS.
 
     -   Live application hops: List of hops between the user's device and an application server that can help you identify and fix network bottlenecks.
-    For more details, see [Network experience pages](../reference/network-experience-pages.md).
+    For more details, see [Network experience pages](network-experience-pages.md).
 
 

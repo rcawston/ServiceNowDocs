@@ -19,7 +19,7 @@ This API requires the Universal Request \(com.snc.universal\_request\) plugin an
 
 For information, refer to [Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UniversalRequestUtilsSNC - createUniversalRequest\(Object copyFields\)
 

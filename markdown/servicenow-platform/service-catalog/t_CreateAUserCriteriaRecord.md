@@ -159,7 +159,7 @@ With **Match All** selected, only users meeting all these conditions are matched
         **Note:** An empty User Criteria matches only authenticated users. Unauthenticated users are no longer matched by an empty User Criteria. Note that this behavior applies only to the Australia release.
 
 
-**Parent Topic:**[Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md)
+**Parent Topic:**[Set security for items and categories](c_ServiceCatalogAccessControls.md)
 
 ## Implementing user criteria
 

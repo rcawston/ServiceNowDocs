@@ -67,8 +67,8 @@ This plugin introduces two new roles:
 
 **Note:** Each document has individual permissions, so even if a user is given the document\_management\_user role and has permissions to the application, the user can only view documents to which they have been given access.
 
--   **[Install the Managed Documents plugin](../task/t_InstallTheManagedDocumentsPlugin.md)**  
+-   **[Install the Managed Documents plugin](t_InstallTheManagedDocumentsPlugin.md)**  
 The Managed Documents plugin is available for activation by users with the admin role.
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

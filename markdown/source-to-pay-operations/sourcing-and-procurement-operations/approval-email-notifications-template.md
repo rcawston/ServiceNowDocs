@@ -19,7 +19,7 @@ When a purchase request that triggers an approval rule, is submitted, and you’
 
 **Note:** When providing your approval from the email notification, ensure that the subject line of the response email has "approve" in it. Also ensure that there’s no mismatch in the approver's email address.
 
-You may also reject the request, which redirects you to Employee Center to complete the action. Here, you can also request clarification on the purchase request from the requester, if need be. For more information on this, see [Approve a request from Employee Center](../task/approve-request-from-employee-center.md).
+You may also reject the request, which redirects you to Employee Center to complete the action. Here, you can also request clarification on the purchase request from the requester, if need be. For more information on this, see [Approve a request from Employee Center](approve-request-from-employee-center.md).
 
 These email notifications are triggered for new, due soon, and overdue approval to-dos in templates that customers can easily configure to meet their specific business requirements.
 
@@ -27,5 +27,5 @@ These email notifications are triggered for new, due soon, and overdue approval 
 -   They can also choose to fetch and use other details that aren’t displayed in the email by default, such as order type for purchase requisitions, product type or request type for sourcing requests, and so on. For detailed information on email templates and how to work with them, see [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md).
 -   Customers can also configure the email layout, and change the background color or font color, for example. The html field in the email layout record must be modified to achieve this. For detailed information on email layouts and how to work with them, see [Email layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md).
 
-**Parent Topic:**[Approve a request from Employee Center](../task/approve-request-from-employee-center.md)
+**Parent Topic:**[Approve a request from Employee Center](approve-request-from-employee-center.md)
 

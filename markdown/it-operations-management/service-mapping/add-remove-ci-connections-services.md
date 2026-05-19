@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 ## About this task
 
-If discovery based on Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated from traffic-related data in the Configuration Management Database \(CMDB\) and an analysis of application fingerprints, CIs, and processes. Predictive Intelligence evaluates and ranks the relevancy of these connections, and Service Mapping then uses this information to create connections and provide suggestions for servers and load balancers. Then you can decide which connections to add or remove from service instances. For more information, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+If discovery based on Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated from traffic-related data in the Configuration Management Database \(CMDB\) and an analysis of application fingerprints, CIs, and processes. Predictive Intelligence evaluates and ranks the relevancy of these connections, and Service Mapping then uses this information to create connections and provide suggestions for servers and load balancers. Then you can decide which connections to add or remove from service instances. For more information, see [Traffic-based discovery in Service Mapping](traffic-based-discovery.md).
 
 **Important:** You can add or remove CIs using connection suggestions only in application services discovered by Service Mapping.
 
@@ -32,7 +32,7 @@ If discovery based on Predictive Intelligence is enabled, Service Mapping automa
 
 1.  View information about all application CIs in connection suggestions.
 
-    See [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md) for more information.
+    See [Discover applications based on fingerprints](../discovery/discover-application-based-process.md) for more information.
 
     **Important:** If you don’t use fingerprint-based discovery, some application CIs might be mapped as generic applications, lacking specific identification or detailed information.
 
@@ -50,7 +50,7 @@ If discovery based on Predictive Intelligence is enabled, Service Mapping automa
 
 4.  Review the suggestion details paying attention to the parameters covered in the Connections Suggestions list.
 
-    See [Connection Suggestions list](../reference/connection-suggestions-list.md).
+    See [Connection Suggestions list](connection-suggestions-list.md).
 
 5.  If you haven't discovered application CIs, discover a standalone CI of the application class based on fingerprints:
 
@@ -111,5 +111,5 @@ The application service map reflects the changes that you made. The connections 
 **Related topics**  
 
 
-[Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md)
+[Traffic-based discovery in Service Mapping](traffic-based-discovery.md)
 

@@ -17,9 +17,9 @@ The Overview module for the legacy Software Asset Management \(com.snc.software\
 
 -   **[Use the legacy Software Asset Management plugin Overview module](c_UseSWAssetMgmtOverviewMod.md)**  
 The Overview module is a homepage that displays charts and graphs to help you manage software assets in the organization.
--   **[Legacy Software Asset Management plugin roles](../reference/r_SoftwareAssetManagementRoles.md)**  
+-   **[Legacy Software Asset Management plugin roles](r_SoftwareAssetManagementRoles.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin adds the following user role.
--   **[Installed with the legacy Software Asset Management plugin](../reference/r_InstalledWithSoftwareAssetMgmt.md)**  
+-   **[Installed with the legacy Software Asset Management plugin](r_InstalledWithSoftwareAssetMgmt.md)**  
 A number of tables, properties, user roles, script includes, client scripts, UI policies, and business rules are installed with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
@@ -33,7 +33,7 @@ A number of tables, properties, user roles, script includes, client scripts, UI 
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

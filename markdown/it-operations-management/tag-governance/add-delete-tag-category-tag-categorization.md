@@ -17,7 +17,7 @@ Add or delete a tag category for improved tagging of your organization's configu
 
 ## Before you begin
 
-Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](../../service-mapping/task/install-service-mapping-plus.md).
+Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](../service-mapping/install-service-mapping-plus.md).
 
 Role required: tag\_governance\_admin
 

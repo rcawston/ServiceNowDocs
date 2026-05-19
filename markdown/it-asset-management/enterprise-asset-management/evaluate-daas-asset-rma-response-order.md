@@ -140,7 +140,7 @@ Notes about the task that are visible to all users within your organization.
 
 -   If you set the **Evaluation result** field to **Repairable**, complete the corresponding Repair asset task by repairing the asset. For detailed instructions, see [Complete the Repair asset task for a defective Device as a Service DaaS asset](repair-daas-asset-rma-response-order.md).
 -   If you set the **Evaluation result** field to **Replace** and you are performing an on-site replacement, complete the corresponding Ship task by shipping the asset to your organization. For detailed instructions, see [Complete the Ship task for a defective Device as a Service DaaS asset](ship-daas-asset-rma-response-order.md).
--   If you set the **Evaluation result** field to **Replace** and you are performing an off-site replacement, complete the corresponding inbound asset order to provide the customer with a new asset. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md).
+-   If you set the **Evaluation result** field to **Replace** and you are performing an off-site replacement, complete the corresponding inbound asset order to provide the customer with a new asset. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md).
 
-**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md)
+**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md)
 

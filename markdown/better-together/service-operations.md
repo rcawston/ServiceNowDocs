@@ -303,5 +303,5 @@ To get started with Service Operations Workspace for ITSM and ITOM, follow these
 -   **[Case Study: Enhancing Risk, Compliance, and Audit Management with ITOM](use-case-itom-risk-compliance-audit-mgmt.md)**  
 The use case demonstrates how ITOM integration streamlined risk, compliance, and audit management for a financial institution by providing real-time operational visibility, automation, and enhanced risk assessments.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

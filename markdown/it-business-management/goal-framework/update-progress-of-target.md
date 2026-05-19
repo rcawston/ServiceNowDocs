@@ -59,14 +59,14 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Target form, update the **Actuals to date** field and add a business justification in the **Remark** field.
 
-    For field information, see [Target form](../reference/target-form.md).
+    For field information, see [Target form](target-form.md).
 
 3.  Click **Update**.
 
 
 ## Result
 
-Once the **Actuals to date** field is updated, the progress value for the target is auto-updated. For information on how the progress value is calculated, see [progress value calculation](../concept/progress-value-calculation.md).
+Once the **Actuals to date** field is updated, the progress value for the target is auto-updated. For information on how the progress value is calculated, see [progress value calculation](progress-value-calculation.md).
 
 **Related topics**  
 

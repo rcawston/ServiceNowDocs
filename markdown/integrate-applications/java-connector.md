@@ -19,10 +19,10 @@ In the context of RPA Desktop Design Studio, a Java application has three levels
 
 To use the Java connector, do the following steps:
 
-1.  Use the Java connector. See [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
-2.  Configure the connector. See [Configure the Java connector](../task/configure-java-connector.md).
-3.  Expose the methods. See [Use connector method](../task/use-connector-method.md).
-4.  Use the methods. See [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+1.  Use the Java connector. See [Use a connector in RPA Desktop Design Studio](use-connector.md).
+2.  Configure the connector. See [Configure the Java connector](configure-java-connector.md).
+3.  Expose the methods. See [Use connector method](use-connector-method.md).
+4.  Use the methods. See [Use a component in RPA Desktop Design Studio](configure-components.md).
 
 Java connector methods are available at the following levels:
 
@@ -40,11 +40,11 @@ Java connector methods are available at the following levels:
 
 As a workaround, copy the WindowsAccessBridge-64.dll available on the Oracle website for the particular Java version to C:\\Windows\\System32 folder on the target machine.
 
--   **[Configure the Java connector](../task/configure-java-connector.md)**  
+-   **[Configure the Java connector](configure-java-connector.md)**  
 Configure the Java connector to set up the Java application screens and elements on which the automation will be performed. After setting up, you can expose methods at the connector, screen, and element levels.
--   **[Java connector methods](../reference/java-connector-methods.md)**  
+-   **[Java connector methods](java-connector-methods.md)**  
 The Java connector exposes methods at the connector, screen, and element levels. While all types of elements have common methods, they also have different methods.
--   **[Java connector properties](../reference/java-connector-properties.md)**  
+-   **[Java connector properties](java-connector-properties.md)**  
 View or update Java connector properties.
 
 **Parent Topic:**[Connectors](connectors.md)

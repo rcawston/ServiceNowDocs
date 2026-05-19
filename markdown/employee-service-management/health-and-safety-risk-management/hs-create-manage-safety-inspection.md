@@ -37,7 +37,7 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
 
     Enter details such as inspection format, smart assessment or survey to use for this inspection, risk matrix used for risk assessments for this inspection, and a due date to complete the inspection.
 
-    For more information on inspection field descriptions, see [Inspection schedule form](../reference/hs-inspection-schedule-form.md).
+    For more information on inspection field descriptions, see [Inspection schedule form](hs-inspection-schedule-form.md).
 
 6.  Select **Save**.
 
@@ -46,7 +46,7 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
         -   For an inspection survey: **Inspection survey results**, **Findings and RCA**, and **Inspection actions**.
     -   The associated smart assessment or inspection survey is assigned for completion.
     -   The assigned user receives a notification to complete the smart assessment or survey. If the inspection format is digital, the notification includes a direct link to access the assessment or survey.
-        -   A smart assessment can be completed from the mobile app. For more information, see [Complete a smart assessment from mobile](../../hs-health-safety-mobile/task/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
+        -   A smart assessment can be completed from the mobile app. For more information, see [Complete a smart assessment from mobile](../health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
         -   A survey can be completed either in the Employee Center or the mobile app. For more information, see [Complete an inspection survey from the Employee Center](hs-complete-safety-insp-survey.md).
 7.  Review the smart assessment or inspection survey responses that are submitted by the assigned user.
 
@@ -67,7 +67,7 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
 
     For more information, see [Add a finding and root cause analysis for a safety inspection](hs-add-finding-rca-safety-inspection.md).
 
-    **Note:** Inspection agents can also create actions and findings for specific questions while completing a smart assessment or survey in the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. The finding then appears in this tab in workspace. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
+    **Note:** Inspection agents can also create actions and findings for specific questions while completing a smart assessment or survey in the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. The finding then appears in this tab in workspace. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
 
 10. If applicable, add actions for findings in the **Inspection actions** tab.
 
@@ -80,5 +80,5 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
     The inspection moves to the Closed Complete state.
 
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

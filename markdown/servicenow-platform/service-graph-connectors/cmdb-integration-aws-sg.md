@@ -45,17 +45,17 @@ Before you begin the upgrade process, complete the following tasks:
 After you've installed the latest version of the Service Graph Connector for AWS:
 
 -   Perform a full import of data from your AWS instance. Verify that the **Use last run datetime** field value is cleared for all the AWS data sources in the Data Source \[sys\_data\_source\] table.
--   Download and rerun the AWS scripts. See [Configure the AWS environment](../task/sgc-cmdb-aws-task-overview.md).
+-   Download and rerun the AWS scripts. See [Configure the AWS environment](sgc-cmdb-aws-task-overview.md).
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for AWS using SGC Central](../../sgc-central/task/sgcc-configure-aws-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for AWS using SGC Central](sgcc-configure-aws-integ.md).
 
 **Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring AWS integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring AWS integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## BYOL support
 
@@ -91,13 +91,13 @@ See the following articles on the ServiceNow Community site for any additional i
 
 [Service Graph Connectors](cmdb-sgc-available.md)
 
-[Data mapping for Service Graph Connector for AWS](../reference/cmdb-data-mapping-aws.md)
+[Data mapping for Service Graph Connector for AWS](cmdb-data-mapping-aws.md)
 
-[CMDB classes targeted in Service Graph Connector for AWS](../reference/cmdb-aws-classes.md)
+[CMDB classes targeted in Service Graph Connector for AWS](cmdb-aws-classes.md)
 
-[Enable optimized deletion of retired CIs in AWS](../task/sgc-cmdb-aws-delete-cis.md)
+[Enable optimized deletion of retired CIs in AWS](sgc-cmdb-aws-delete-cis.md)
 
-[Enable optimized SG-AWS-SendCommand data source performance](../task/sgc-cmdb-aws-ssm-prop.md)
+[Enable optimized SG-AWS-SendCommand data source performance](sgc-cmdb-aws-ssm-prop.md)
 
 [Handling import failures for large AWS resources](sgc-cmdb-aws-large-data-vol.md)
 
@@ -107,5 +107,5 @@ See the following articles on the ServiceNow Community site for any additional i
 
 [Record removal process in Service Graph Connector for AWS](sgc-cmdb-aws-removal.md)
 
-[Service Graph Connector for AWS properties](../reference/cmdb-sgc-aws-props.md)
+[Service Graph Connector for AWS properties](cmdb-sgc-aws-props.md)
 

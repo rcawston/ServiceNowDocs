@@ -27,7 +27,7 @@ The workflow is triggered when the **Category** in a security incident is set to
 
 ## Procedure
 
-1.  Open the security incident for the policy violation, or [create a new security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+1.  Open the security incident for the policy violation, or [create a new security incident](t_ManuallyCreateSecurityIncident.md).
 
 2.  In **Category**, select **Policy violation**.
 
@@ -123,7 +123,7 @@ If you change the state of the task to **Closed Complete** or **Cancelled**, the
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Incident Response workflow templates](../concept/sir-orch-workflow-templates.md)
+**Parent Topic:**[Security Incident Response workflow templates](sir-orch-workflow-templates.md)
 
 **Related topics**  
 

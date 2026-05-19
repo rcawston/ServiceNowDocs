@@ -31,7 +31,7 @@ Implements a self-service Password Reset model with questions that are included 
 
 ![QA verification on the Verify page.](../image/verify-enduser-page.png "QA verification on the Verify page")
 
- For information on the user enrollment experience, see [Enroll for the Password Reset program using questions and answers](../task/t_EnrollUsingASecurityQuestion.md).
+ For information on the user enrollment experience, see [Enroll for the Password Reset program using questions and answers](t_EnrollUsingASecurityQuestion.md).
 
  This verification is based on the **Security Questions** verification type.
 
@@ -43,7 +43,7 @@ Email verification
 
 This verification relies on auto-generated code numbers. You typically implement email verification as a self-service Password Reset model.When a user requests a password reset, the system sends a verification code to an email address that the user authorized during enrollment. To verify identity, the user then submits the code on the Password Reset Verify page.
 
-For information on the user enrollment experience, see [Enroll for the Password Reset program using emailed codes](../task/enroll-email-verification.md).
+For information on the user enrollment experience, see [Enroll for the Password Reset program using emailed codes](enroll-email-verification.md).
 
 The Password Reset Windows Application supports email verification.
 
@@ -61,7 +61,7 @@ Implements a self-service or service desk-assisted Password Reset model that rel
 
 You can use the ServiceNow Notify feature to send the codes.
 
-For information on the user enrollment experience, see [Enroll for the Password Reset program using SMS codes](../task/t_EnrollUsingSMS.md).
+For information on the user enrollment experience, see [Enroll for the Password Reset program using SMS codes](t_EnrollUsingSMS.md).
 
 This verification is based on the **SMS Code** verification type.
 
@@ -79,7 +79,7 @@ Authenticator verification
 
 Password Reset model that relies on auto-generated code numbers. Users typically implement authenticator verification as a self-service Password Reset model.When a user requests a password reset, the user reads a code from the authenticator app on a device that the user has paired. To verify identity, the user then submits the code on the Password Reset Verify page.
 
- For information on the user enrollment experience, see [Enroll for the Password Reset program using an authenticator](../task/authenticator-app-verification.md).
+ For information on the user enrollment experience, see [Enroll for the Password Reset program using an authenticator](authenticator-app-verification.md).
 
  The Password Reset Windows Application supports Google Authenticator verification.
 
@@ -116,35 +116,35 @@ Implements a self-service Password Reset model that relies on a Soft PIN that's 
 Personal data verifications allow users to verify their identity by providing answers to questions that are generated from personal information stored in the User table `[sys_user]`.
 -   **[SMS Code Verification type for Password Reset](c_SMSCodeTypeVerifications.md)**  
 Using the Simple Message Service \(SMS\) Code Verification type, a user can verify identity with the help of any SMS-enabled device, like a cell phone that accepts text messages. When a user requests password reset, the system sends a numerical code to the device and the user then enters the code on the Password Reset Verification page.
--   **[Specify the number of required security questions](../task/t_SecurityQuestionTypeVerif.md)**  
+-   **[Specify the number of required security questions](t_SecurityQuestionTypeVerif.md)**  
 When designing a Security Questions verification for Password Reset, you can specify the number of questions to display when users enroll. You can also specify the number to display when a user is verifying identity while resetting the password.
 
-**Parent Topic:**[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](password-reset-expiration-setup.md)
 
 [Credential stores for Password Reset](c_CredentialStores.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
-[Configure Google reCAPTCHA for the password reset process](../task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)
 
-[Create a custom Password Reset verification](../task/t_CreatePWRVerFromVerType.md)
+[Create a custom Password Reset verification](t_CreatePWRVerFromVerType.md)
 
-[Create a Password Reset verification from an existing verification](../task/t_CreatePWRVerFromBaseVer.md)
+[Create a Password Reset verification from an existing verification](t_CreatePWRVerFromBaseVer.md)
 

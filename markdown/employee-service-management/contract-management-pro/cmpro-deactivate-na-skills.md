@@ -41,12 +41,12 @@ The skill is deactivated for Now Assist in Contract Management and displayed in 
 
 To reactivate the skill, select **Activate skill**. For more information, see [Configure Now Assist in Contract Management](confg-na-in-cmpro.md).
 
-**Parent Topic:**[Managing skills for Now Assist in Contract Management](../concept/cmpro-manage-na-skills.md)
+**Parent Topic:**[Managing skills for Now Assist in Contract Management](cmpro-manage-na-skills.md)
 
 **Related topics**  
 
 
-[Manage use cases for Now Assist in Contract Management](../concept/cmpro-manage-use-cases.md)
+[Manage use cases for Now Assist in Contract Management](cmpro-manage-use-cases.md)
 
 [Manage use case mappings for Now Assist in Contract Management](cmpro-manage-use-case-map.md)
 

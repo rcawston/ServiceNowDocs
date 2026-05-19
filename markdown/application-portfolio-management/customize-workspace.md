@@ -32,5 +32,5 @@ For the Insights, Overview, and Health sections, you can hide some components if
     **Note:** You can create a visualization configuration using the Platform Analytics Workspace. For instructions, see [Create a single score visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md).
 
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

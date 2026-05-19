@@ -19,8 +19,8 @@ Remediate a single de-duplilcation task using a de-duplication template in CMDB 
 
 Role required:
 
--   To access the [Management view in CMDB Workspace](../concept/cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
--   To access the [Governance view in Service Graph Workspace](../concept/sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
+-   To access the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
+-   To access the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
 -   To perform this task, cmdb\_dedup\_admin or any role containing cmdb\_dedup\_admin \(such as sn\_cmdb\_admin\)
 
 ## Procedure
@@ -86,5 +86,5 @@ On the task form:
 -   Track the progress and the details of remediation in the Activity stream until remediation is complete.
 -   Select the **Duplicate Audit Results** tab to see the results of the duplicate audit.
 
-**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](../concept/dedup-ci-exp-cmdb-workspace.md)
+**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](dedup-ci-exp-cmdb-workspace.md)
 

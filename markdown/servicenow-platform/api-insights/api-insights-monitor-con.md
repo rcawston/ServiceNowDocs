@@ -21,7 +21,7 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
 ## About this task
 
-Service Graph Connectors are integrations that facilitate API data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](../../configuration-management/concept/cmdb-sgc-intro.md).
+Service Graph Connectors are integrations that facilitate API data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](../configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Service Graph Connectors are integrations that facilitate API data ingestion int
 
 4.  Review the list of installed and draft connections in their respective tabs.
 
-    See [Viewing API data connections for a Service Graph Connector within API Insights](../concept/api-insights-viewing-installed-connection.md#).
+    See [Viewing API data connections for a Service Graph Connector within API Insights](api-insights-viewing-installed-connection.md#).
 
 5.  Select **Create connection** to create a connection for importing API data.
 
@@ -41,6 +41,6 @@ Service Graph Connectors are integrations that facilitate API data ingestion int
 
 6.  Select **Explore connectors** to explore available options for onboarding and maintaining Service Graph Connectors that import API data within API Insights.
 
-    See [Exploring Service Graph Connectors for API data within API Insights](../concept/api-insights-explore-connectors.md#).
+    See [Exploring Service Graph Connectors for API data within API Insights](api-insights-explore-connectors.md#).
 
 

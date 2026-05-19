@@ -25,12 +25,12 @@ Only automated indicators can have snapshots. Snapshots are made only for those 
 
 By default, snapshots are retained for 183 days. You can change this period either globally or for a specific indicator:
 
--   To change the global snapshot retention period, edit the system property **com.snc.pa.dc.keep\_snapshots\_for.frequency**. For more information, see [Performance Analytics properties](../reference/pa-properties.md).
--   To change the snapshot retention period for an indicator, configure **Override collection periods** in the "Collection periods" tab of the indicator form. For more information, see [Advanced indicator settings](../task/t_CreateAnAutomatedIndicator.md#).
+-   To change the global snapshot retention period, edit the system property **com.snc.pa.dc.keep\_snapshots\_for.frequency**. For more information, see [Performance Analytics properties](pa-properties.md).
+-   To change the snapshot retention period for an indicator, configure **Override collection periods** in the "Collection periods" tab of the indicator form. For more information, see [Advanced indicator settings](t_CreateAnAutomatedIndicator.md#).
 
 **Parent Topic:**[Automated indicators](automated-indicators.md)
 
-**Previous topic:**[Add a collection job to an indicator](../task/t_EditAJobForTheIndicator.md)
+**Previous topic:**[Add a collection job to an indicator](t_EditAJobForTheIndicator.md)
 
-**Next topic:**[Create an automated indicator with a wizard](../task/t_CrtIndctrIndctrWzrd.md#)
+**Next topic:**[Create an automated indicator with a wizard](t_CrtIndctrIndctrWzrd.md#)
 

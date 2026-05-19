@@ -27,14 +27,14 @@ A funnel can include various actions leading up to success or failure of a conve
 
 ![Funnel analysis report](../image/uxa-funnel-ex-australia.png)
 
--   **[Create a conversion funnel](../task/create-funnel.md#)**  
+-   **[Create a conversion funnel](create-funnel.md#)**  
 View conversion rates and trends in aggregate user behavior to uncover the reasons behind success or failure of a specific in-application user goal. Investigating a conversion funnel can help you measure and optimize the conversion rates of relevant processes within your application.
--   **[Edit a conversion funnel](../task/edit-funnel.md)**  
+-   **[Edit a conversion funnel](edit-funnel.md)**  
 Edit conversion funnel data to collect or steps to include in your analysis.
--   **[Delete a conversion funnel](../task/delete-funnel-step.md)**  
+-   **[Delete a conversion funnel](delete-funnel-step.md)**  
 Easily delete a funnel.
 -   **[How Usage Insights matches funnels](how-funnels-matched.md)**  
 Learn how Usage Insights matches sequences of pages you anticipate users seeing before they reach a goal.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

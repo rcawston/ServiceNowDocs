@@ -25,7 +25,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
 3.  If you have configured the **Create CRM task** option, you can see it on the Risk and Issue page.
 
-    See [Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md) for details on configuring this option.
+    See [Enable integration with Microsoft Dynamics CRM](account-lifecycle-crm-integration.md) for details on configuring this option.
 
 4.  Select **Create CRM task**.
 
@@ -47,7 +47,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     -   Microsoft Dynamics CRM spoke \(see [Microsoft Dynamics CRM Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/microsoft-dynamics-crm-spoke.md)\).
         -   Decision table according to the requirement
         -   Webhook \(Dynamics Webhook Callbacks\)
-    -   Customer Success Management application has been configured for Microsoft Dynamics CRM integration. See [Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md) for details.
+    -   Customer Success Management application has been configured for Microsoft Dynamics CRM integration. See [Enable integration with Microsoft Dynamics CRM](account-lifecycle-crm-integration.md) for details.
 
-**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](../concept/account-lifecycle-crm-integration.md)
+**Parent Topic:**[Enable integration with Microsoft Dynamics CRM](account-lifecycle-crm-integration.md)
 

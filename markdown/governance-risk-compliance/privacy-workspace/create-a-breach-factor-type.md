@@ -38,5 +38,5 @@ Role required: sn\_privacy\_case.privacy\_case\_admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring privacy breach assessment](../concept/configure-privacy-breach-assessment.md)
+**Parent Topic:**[Configuring privacy breach assessment](configure-privacy-breach-assessment.md)
 

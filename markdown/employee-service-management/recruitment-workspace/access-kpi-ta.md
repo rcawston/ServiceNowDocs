@@ -25,8 +25,8 @@ Role required: sn\_ta\_hiring\_core.recruiter and itil
 
 2.  View the metrics available on the dashboard to understand your hiring trend.
 
-    For more information, see [Talent Acquisition Dashboard](../concept/kpi-dshbrd-ta.md).
+    For more information, see [Talent Acquisition Dashboard](kpi-dshbrd-ta.md).
 
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
 

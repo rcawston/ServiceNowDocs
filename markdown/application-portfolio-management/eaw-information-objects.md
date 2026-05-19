@@ -20,9 +20,9 @@ By analyzing information objects, you can understand how data is structured and 
 **Related topics**  
 
 
-[View all information objects](../../task/eaw-task/eaw-view-all-information-objects.md)
+[View all information objects](eaw-view-all-information-objects.md)
 
-[Add or edit an information object](../../task/eaw-task/eaw-create-new-information-object.md)
+[Add or edit an information object](eaw-create-new-information-object.md)
 
 [Exploring data domains](eaw-data-domains.md)
 

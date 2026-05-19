@@ -161,5 +161,5 @@ Formatted JSON or not
 
 Use the Cloud REST Query operation to extract information about AWS buckets, their names and creation dates.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

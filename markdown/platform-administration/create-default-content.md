@@ -42,5 +42,5 @@ Role required: admin
     A new default content has been created.
 
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

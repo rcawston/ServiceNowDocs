@@ -51,5 +51,5 @@ Depending on the selected register type, the safety register is available in the
 
 Employees can access the attached safety register document, such as SDS, through the Employee Center. For more information, see [Access a safety register document in Employee center](hs-view-safety-register-docs-ec.md).
 
-**Parent Topic:**[Safety registers](../concept/hs-safety-registers.md)
+**Parent Topic:**[Safety registers](hs-safety-registers.md)
 

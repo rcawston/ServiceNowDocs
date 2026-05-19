@@ -44,5 +44,5 @@ Text index groups are a ServiceNow AI Platform feature. To learn more, see [Conf
 
 Search results display according to the text index group's rules.
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

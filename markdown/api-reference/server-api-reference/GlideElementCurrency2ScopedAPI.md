@@ -25,7 +25,7 @@ This API provides methods that enable you to perform the following:
 
 The GlideElementCurrency2 class has no constructor.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideElementCurrency2 - getAsEnteredDisplayValue\(\)
 

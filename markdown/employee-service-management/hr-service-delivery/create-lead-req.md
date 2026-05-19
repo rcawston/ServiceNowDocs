@@ -33,7 +33,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 6.  On the Create New Candidate form, fill in the fields.
 
-    For a description of the field values, see [Create talent form](../reference/new-talent-form.md).
+    For a description of the field values, see [Create talent form](new-talent-form.md).
 
 7.  Select **Save**.
 
@@ -42,5 +42,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 You have created a prospect within a job requisition.
 
-**Parent Topic:**[Job prospects](../concept/job-leads.md)
+**Parent Topic:**[Job prospects](job-leads.md)
 

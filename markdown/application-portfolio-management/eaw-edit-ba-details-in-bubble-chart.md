@@ -54,25 +54,25 @@ Select a single bubble. The side panel appears and the business application deta
  **Note:** Select **Full details** to view more details about the business application.
 
 </td></tr></tbody>
-</table>    **Note:** You can also generate insights into a business application using Now Assist, by selecting the **Generate Insights** button available in the **Insights** tab on the side panel. For more details, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+</table>    **Note:** You can also generate insights into a business application using Now Assist, by selecting the **Generate Insights** button available in the **Insights** tab on the side panel. For more details, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 5.  On the Business application form, fill in the fields.
 
-    For a description of the field values, see [Business application form](../../reference/eaw-reference/eaw-apprat-business-application-form.md).
+    For a description of the field values, see [Business application form](eaw-apprat-business-application-form.md).
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 
 
-[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
-[Bubble chart view of application rationalization](../../concept/eaw-concept/eaw-bubble-chart-view.md)
+[Bubble chart view of application rationalization](eaw-bubble-chart-view.md)
 
-[Rationalization of business applications](../../concept/eaw-concept/eaw-rationalize-business-applications.md)
+[Rationalization of business applications](eaw-rationalize-business-applications.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

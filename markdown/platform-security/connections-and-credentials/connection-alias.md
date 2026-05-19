@@ -130,7 +130,7 @@ Configuration template to use to create a connection and credential record.
 
 5.  If you want to create a new credential and connection associated with your credential alias, under **Related Links**, click **Create New Connection &amp; Credential**.
 
-    The resulting connection and credential records are based on a pre-defined configuration template. See [connection and credential configuration templates](../concept/spoke-configuration-template.md).
+    The resulting connection and credential records are based on a pre-defined configuration template. See [connection and credential configuration templates](spoke-configuration-template.md).
 
 6.  If you want to create a child alias for your connection and credential alias, under the **Child Aliases** related list, select **New**.
 
@@ -141,5 +141,5 @@ Configuration template to use to create a connection and credential record.
 
 ## What to do next
 
-Create one or more connection records to associate with the alias or child aliases. For more information about creating connections, see [Get started with connections](../reference/connection-information.md). Add connection attributes to the alias to make connection meta data available to flows in Workflow Studio.
+Create one or more connection records to associate with the alias or child aliases. For more information about creating connections, see [Get started with connections](connection-information.md). Add connection attributes to the alias to make connection meta data available to flows in Workflow Studio.
 

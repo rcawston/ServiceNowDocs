@@ -25,5 +25,5 @@ The **Configurations** page contains the following sections to manage the workfl
 
 For information on configuring AI Control Tower, see [Configure AI Control Tower](configuring-ai-governance.md).
 
-For information on completing the AI asset lifecycle, see [Complete AI asset lifecycle](../task/complete-ai-asset-lifecycle.md).
+For information on completing the AI asset lifecycle, see [Complete AI asset lifecycle](complete-ai-asset-lifecycle.md).
 

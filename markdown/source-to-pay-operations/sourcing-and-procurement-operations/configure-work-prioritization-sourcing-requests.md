@@ -88,5 +88,5 @@ If your organization does not use job code hierarchy as the basis for sourcing p
 
 Sourcing requests are automatically assigned a priority level when they are created or updated. Procurement specialists can sort and filter their work queue by priority to work the most urgent sourcing requests first.
 
-**Parent Topic:**[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+**Parent Topic:**[Configuring work prioritization](configuring-work-prioritization.md)
 

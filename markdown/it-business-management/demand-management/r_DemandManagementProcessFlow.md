@@ -17,7 +17,7 @@ The Demand Management process flow consists of the following tasks.
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -85,5 +85,5 @@ Completing demands
 Demand managers can set a demand to Completed when work on the demand is complete.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Demand Management](../concept/exploring-demand-management.md)
+</table>**Parent Topic:**[Exploring Demand Management](exploring-demand-management.md)
 

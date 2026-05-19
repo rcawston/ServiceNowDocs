@@ -127,11 +127,11 @@ To install the DevOps application on a subprod instance, navigate to the DevOps 
 
 Installing DevOps Change Velocity also installs the dependent applications, user roles, tables, scheduled jobs, and other components.
 
-See [Components installed with DevOps Change Velocity](../reference/installed-with-dev-ops.md).
+See [Components installed with DevOps Change Velocity](installed-with-dev-ops.md).
 
 ## What to do next
 
 [Assign roles and tasks using workspace](assign-roles-tasks-workspace.md).
 
-**Note:** Roles that are installed with DevOps Change Velocity are listed in [Components installed with DevOps Change Velocity](../reference/installed-with-dev-ops.md).
+**Note:** Roles that are installed with DevOps Change Velocity are listed in [Components installed with DevOps Change Velocity](installed-with-dev-ops.md).
 

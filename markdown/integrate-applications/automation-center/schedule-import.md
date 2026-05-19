@@ -64,5 +64,5 @@ Proceed from the **Define source** tab. For information on defining source, see 
     The **Select spoke** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](configure-data-import.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Settings page, Use the Console pages, Discovery Console for OT, Ope
 
 You can access the Console Discovery data via the API. On the Settings page, select the **API** tab to view and use the active tokens, denied tokens, and endpoints needed to communicate with the Service Graph Connector \(SGC\).
 
-**Note:** To learn more about the Service Graph Connector, see [Service Graph Connector for ServiceNow Operational Technology Discovery](../../operational-technology-discovery/concept/sgc-ot-discovery.md)
+**Note:** To learn more about the Service Graph Connector, see [Service Graph Connector for ServiceNow Operational Technology Discovery](sgc-ot-discovery.md)
 
 ## API settings
 
@@ -63,5 +63,5 @@ For example, if you navigate to **Settings &gt; Exports** on the Discovery Conso
 
 ![Settings > Export page](../image/settings-export-download.png)
 
-To edit the Console API, see [Edit API settings](../task/edit-api-settings-console.md).
+To edit the Console API, see [Edit API settings](edit-api-settings-console.md).
 

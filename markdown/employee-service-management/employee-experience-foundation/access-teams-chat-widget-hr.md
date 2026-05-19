@@ -44,5 +44,5 @@ Messages are loaded dynamically. The Teams Chat widget does not display message 
     -   For the desktop version, select **Open in Microsoft Teams Desktop**.
     -   For the mobile version, select **Open in Microsoft Teams Browser**.
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

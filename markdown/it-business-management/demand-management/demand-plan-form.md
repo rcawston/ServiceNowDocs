@@ -78,7 +78,7 @@ Entered currency
 
 </td><td>
 
-Currency for the cost plan.If the selected currency is different from the default currency configured in the Financial Management application, the [budget reference rate](../../project-management/concept/c_BudgetReferenceRates.md) is used to calculate the cost of the demand.
+Currency for the cost plan.If the selected currency is different from the default currency configured in the Financial Management application, the [budget reference rate](../ppm-collaboration/c_BudgetReferenceRates.md) is used to calculate the cost of the demand.
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Cost type
 
 </td><td>
 
-Cost type of the plan. See [Create a cost type definition](../../project-management/task/t_CreateAResourceTypeDefinition.md).
+Cost type of the plan. See [Create a cost type definition](../project-management/t_CreateAResourceTypeDefinition.md).
 
 </td></tr><tr><td>
 
@@ -173,5 +173,5 @@ Total actual cost
 Total actual costs of the cost plan. This value is rolled up from cost breakdown.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

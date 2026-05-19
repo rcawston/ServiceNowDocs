@@ -86,13 +86,13 @@ Type of network function, Virtual Network Function \(VNF\), or Cloud Native Func
     -   In the TNI CI attributes form, by default, the name is fetched from the **Name** field and the **Inventory Category** is set as **IP Address**.
 6.  Select **Add Packs** to add packs to this service.
 
-    To learn more about packs, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+    To learn more about packs, see [Attribute packs](telecommunication-network-inventory-pack.md).
 
 7.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
 8.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 9.  To view the associated network inventories, select the brick icon \(![brick icon](../image/infrastructure-relashionship.png)\).
 
@@ -103,5 +103,5 @@ Type of network function, Virtual Network Function \(VNF\), or Cloud Native Func
 
 You can review, or update the fields, create a related tab record, or can delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+**Parent Topic:**[Create IP address allocation](ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 

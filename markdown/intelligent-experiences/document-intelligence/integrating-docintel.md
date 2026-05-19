@@ -15,9 +15,9 @@ breadcrumb: [Document Intelligence, Enable AI experiences]
 
 Extend the capabilities of Document Intelligence to other ServiceNow applications. Other applications can take advantage of document classification and extraction using Document Intelligence.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
--   **[Integrate with a custom application or workflow](../task/configure-integration-setup.md)**  
+-   **[Integrate with a custom application or workflow](configure-integration-setup.md)**  
 Configure an integration to trigger document task processing or value extraction. Integrations can be used to quickly set up flows with other applications.
 -   **[Integrate with Customer Service Management](integrate-docintel-csm.md)**  
 Document Intelligence provides document extraction capabilities to Customer Service Management \(CSM\). Extract relevant information from email and case attachments, such as credit card numbers or customer addresses, and add that information to cases.

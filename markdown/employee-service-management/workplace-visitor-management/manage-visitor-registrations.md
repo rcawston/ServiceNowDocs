@@ -26,19 +26,19 @@ As an admin and as a reception staff, you can perform the following actions on v
 
 As an admin, you can also view visit logs containing details about the state changes for the visitor registrations.
 
--   **[Use the receptionist portal](../task/use-receptionist-portal.md)**  
+-   **[Use the receptionist portal](use-receptionist-portal.md)**  
 Use the receptionist portal to manage visitor activity in your workplace.
--   **[Update a visitor registration](../task/update-visitor-registration.md)**  
+-   **[Update a visitor registration](update-visitor-registration.md)**  
 Track visitor registrations and update the status of a visitor while the visitor is on the premises.
--   **[View visitor registrations](../task/view-visitor-registrations.md)**  
+-   **[View visitor registrations](view-visitor-registrations.md)**  
 View visitor registrations submitted through the service portal. You can view all visitor registrations, the ones for the current day, and the ones that were made by you.
--   **[View visitor policy confirmations](../task/view-policy-confirmations.md)**  
+-   **[View visitor policy confirmations](view-policy-confirmations.md)**  
 View policy confirmations that were submitted by the visitors.
--   **[Visitor registration states](../reference/visitor-registration-states.md)**  
+-   **[Visitor registration states](visitor-registration-states.md)**  
 The visitor logs display the current state of visitor registrations. These states can be changed to other states.
--   **[Anonymize a visitor](../task/anonymize-visitor.md)**  
+-   **[Anonymize a visitor](anonymize-visitor.md)**  
 As an admin, you can anonymize a visitor to delete the visitor record and all the details of the visitor. Any future registrations of the visitor are canceled.
--   **[Apply visitor management archive policy](../task/apply-visitor-management-archival-rule.md)**  
+-   **[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)**  
 Apply the archival policy for Workplace Visitor Management. The archival policy will archive old visitor records and visitor registration records that are more than one year old.
 
 **Parent Topic:**[Workplace Visitor Management](workplace-visitor-mgmt-feat.md)

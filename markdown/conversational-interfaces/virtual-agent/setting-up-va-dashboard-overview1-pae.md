@@ -17,9 +17,9 @@ Set up custom events and formula definitions to create more targeted analytics.
 
 The Conversational Analytics dashboard enables you to customize the data you monitor in the following ways:
 
--   [Date range](../task/use-the-dashboad-pae.md)—Specify the date range for the data displayed on the dashboard.
--   [Custom events](../task/set-up-custom-events-pae.md)—The dashboard can display analytics about custom events you create. All events must relate to conversations. For example, you can store data about every conversation that used a specific channel, such as Slack.
--   [Formula Override](../task/set-up-custom-definitions-pae.md)—Customize parameter definitions used in analytic reports. For example, by default, duration is the total time from the first to the last exchange in a conversation. You might like to override that formula by subtracting inactive times in the conversation.
+-   [Date range](use-the-dashboad-pae.md)—Specify the date range for the data displayed on the dashboard.
+-   [Custom events](set-up-custom-events-pae.md)—The dashboard can display analytics about custom events you create. All events must relate to conversations. For example, you can store data about every conversation that used a specific channel, such as Slack.
+-   [Formula Override](set-up-custom-definitions-pae.md)—Customize parameter definitions used in analytic reports. For example, by default, duration is the total time from the first to the last exchange in a conversation. You might like to override that formula by subtracting inactive times in the conversation.
 
 ## Role requirements
 
@@ -29,11 +29,11 @@ For information on roles, see [Conversational Analytics dashboard roles](convers
 
 The Conversational Analytics Dashboard requires the Quebec or later version of Virtual Agent.
 
--   **[Install Conversational Analytics Dashboard](../task/get-va-dashboard-pae.md)**  
+-   **[Install Conversational Analytics Dashboard](get-va-dashboard-pae.md)**  
 Get updates to the Conversational Analytics dashboard from the ServiceNow Store.
--   **[Create custom events to monitor](../task/set-up-custom-events-pae.md)**  
+-   **[Create custom events to monitor](set-up-custom-events-pae.md)**  
 Create custom events and monitor them in the Conversational Analytics dashboard.
--   **[Create custom override definitions](../task/set-up-custom-definitions-pae.md)**  
+-   **[Create custom override definitions](set-up-custom-definitions-pae.md)**  
 Use scripts to override the default formulas used to create the analytics on the Conversational Analytics Dashboard.
 
 **Parent Topic:**[Conversational Analytics dashboard in Platform Analytics experience](VA-dashboard-landing-page-pae.md)

@@ -57,7 +57,7 @@ View-only permissions:-   Monitor reports from audit runs
 |-------|-------|-----|
 |Implement cloud event processing and configure a tag policy to automatically update cloud resource tags in real time.|[Performing real-time updates to tags for cloud resources](tag-governance-real-time-updates.md)|Cloud admins|
 |Tag Governance supports domain separation, allowing you to logically group and segregate data, processes, and administrative tasks into distinct domains. This enables precise control over aspects like user access and data visibility.|[Domain separation and Tag Governance](tag-governance-domain-separation.md)|Cloud admins|
-|Review non-compliant CIs flagged by tag audits and resolve them by adding the required tags.|[Preview and remediate tag audit failures](../task/perform-remediations-tag-governance.md)|Tag admins|
+|Review non-compliant CIs flagged by tag audits and resolve them by adding the required tags.|[Preview and remediate tag audit failures](perform-remediations-tag-governance.md)|Tag admins|
 
 ## Exploring
 

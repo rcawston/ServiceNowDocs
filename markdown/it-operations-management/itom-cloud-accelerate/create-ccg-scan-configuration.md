@@ -32,7 +32,7 @@ Create a scan configuration in Cloud Configuration Governance to scan the cloud 
 
 3.  Fill the values on the Scan Configuration form.
 
-    For a description of the form fields, see [Cloud Configuration Governance Scan configuration form](../reference/ccg-scan-configuration-form.md).
+    For a description of the form fields, see [Cloud Configuration Governance Scan configuration form](ccg-scan-configuration-form.md).
 
 4.  Select **Submit**.
 

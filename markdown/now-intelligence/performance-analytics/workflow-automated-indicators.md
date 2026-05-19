@@ -17,7 +17,7 @@ Start with ServiceNow AI Platform tables and work your way up to a completed ind
 
 ## Before you begin
 
-Design your KPIs before trying to create them. Using KPI Composer, start by deciding on the business goals you want to achieve with Performance Analytics. For each business goal, determine the critical success factors for that goal. Finally, decide what measurements you need to make to see your progress on those critical success factors. These measurements correspond to the KPIs you need to implement. For more information about designing your Performance Analytics Solution, see [Design your Performance Analytics solution with KPI Composer](../concept/designing-pa-solution.md).
+Design your KPIs before trying to create them. Using KPI Composer, start by deciding on the business goals you want to achieve with Performance Analytics. For each business goal, determine the critical success factors for that goal. Finally, decide what measurements you need to make to see your progress on those critical success factors. These measurements correspond to the KPIs you need to implement. For more information about designing your Performance Analytics Solution, see [Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md).
 
 Role required: none
 

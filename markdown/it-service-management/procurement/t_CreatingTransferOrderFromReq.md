@@ -98,7 +98,7 @@ Navigate to **All** &gt; **Procurement** &gt; **Requests** &gt; **Requests**.
     A transfer order is created to move the item or items from the **Source stockroom** location to the **Destination stockroom** location. When you view the request, the **Sourced** check box is selected.
 
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
 **Related topics**  
 

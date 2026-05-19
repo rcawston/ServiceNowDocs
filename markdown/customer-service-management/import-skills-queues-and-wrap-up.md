@@ -28,7 +28,7 @@ In a contact center, skills are the specific areas of knowledge or expertise tha
 
 By setting up and importing these skills, contact centers can route customer queries to the agents most capable of solving them.
 
-To import skills from your contact center to your ServiceNow® instance, refer to [Import skills](../task/import-skills.md).
+To import skills from your contact center to your ServiceNow® instance, refer to [Import skills](import-skills.md).
 
 ## Queues
 
@@ -42,5 +42,5 @@ Wrap-up codes are labels or categories that agents use to classify the outcome o
 
 For example, wrap-up codes can indicate whether a call was for technical support, billing inquiries, or a product return. Accurately assigning wrap-up codes helps data get correctly captured for future reference and analysis.
 
-To import wrap-up codes from your contact center to your ServiceNow® instance, refer to [Import wrap-up codes](../task/import-wrap-up.md).
+To import wrap-up codes from your contact center to your ServiceNow® instance, refer to [Import wrap-up codes](import-wrap-up.md).
 

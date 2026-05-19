@@ -116,10 +116,10 @@ Enter the value associated with the **Type** selected. If a value that is invali
 </table>7.  Click **Submit**.
 
 
-**Parent Topic:**[Security Operations Integration Configurations](../../security-operations-common/concept/third-party-integrations.md)
+**Parent Topic:**[Security Operations Integration Configurations](third-party-integrations.md)
 
 **Related topics**  
 
 
-[Activate and configure third-party integrations](../../security-operations-common/task/install-config-3rd-party-integs.md)
+[Activate and configure third-party integrations](install-config-3rd-party-integs.md)
 

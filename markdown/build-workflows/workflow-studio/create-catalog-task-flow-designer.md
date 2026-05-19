@@ -45,7 +45,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     Data type: **Template Value**
 
-    The field values that you want to set in the catalog task. If adding the action to a subflow, you can allow flow designers to dynamically set field values. See [Create a template value input](../task/template-value.md).
+    The field values that you want to set in the catalog task. If adding the action to a subflow, you can allow flow designers to dynamically set field values. See [Create a template value input](template-value.md).
 
 -   **Wait**
 
@@ -87,5 +87,5 @@ In this example, the Service Catalog Item request flow first requests manager an
 
 In this example, the flow execution details show the requested item record number and the catalog task record number. The action state is listed as waiting since the Wait input was selected. The flow waits until the catalog task is closed before continuing.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

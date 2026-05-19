@@ -38,5 +38,5 @@ Role required: admin
 6.  Log in to the instance and set up the [Adobe Sign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/adobe-sign-spoke.md).
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](integrating-with-adobe-sign-service.md)
 

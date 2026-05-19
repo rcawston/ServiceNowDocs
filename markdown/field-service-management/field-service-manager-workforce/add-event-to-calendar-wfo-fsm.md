@@ -21,7 +21,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can create custom event types and add or remove fields. For more information, see [Create event types to display on the team calendar with Workforce Optimization for Field Service](create-evet-types-wfo-fsm.md).
+You can create custom event types and add or remove fields. For more information, see [Create event types to display on the team calendar with Workforce Optimization for Field Service](../workforce-optimization-for-field-service/create-evet-types-wfo-fsm.md).
 
 ## Procedure
 

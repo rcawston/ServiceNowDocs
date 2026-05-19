@@ -42,5 +42,5 @@ Role required: admin
 6.  During the evaluation period, you can monitor the index **State** in the Index Suggestion record or in the Index Suggestion table \(**System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; In Progress**\).
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

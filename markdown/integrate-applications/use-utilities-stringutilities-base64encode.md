@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Base64Encode component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the Base64Encode component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -77,5 +77,5 @@ Passes the control to the next component to be executed.
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

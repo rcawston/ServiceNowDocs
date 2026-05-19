@@ -17,15 +17,15 @@ The OpenMessageBusEventPublisherOOB script include provides a method for sending
 
 This script includes runs in the `sn_api_notif_mgmt` namespace. The admin role is required to access this script include.
 
-For additional information on how to configure your instance to use this script include, see [Configure the Producer Event Notification Framework to use the Open Message Bus](../../../../../integrate/guides/ProducerEventNotifFramework/task/prod_evt_not-dev_gd-cfg_open_bus.md).
+For additional information on how to configure your instance to use this script include, see [Configure the Producer Event Notification Framework to use the Open Message Bus](../developer-guides/prod_evt_not-dev_gd-cfg_open_bus.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OpenMessageBusEventPublisherOOB - publishMessageToComptibleRestProxy\(Object tmfEventPayload, Array compatibleTopicArr\)
 
 Sends the passed message to a custom message platform's REST proxy using the spoke selector.
 
-For additional information on this process, see [Producing outbound trouble ticket notifications using the open message bus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/trouble-ticket-workflow-using-pub-sub-model.md). For information on how to implement this method, see [Configure the Producer Event Notification Framework to use the Open Message Bus](../../../../../integrate/guides/ProducerEventNotifFramework/task/prod_evt_not-dev_gd-cfg_open_bus.md).
+For additional information on this process, see [Producing outbound trouble ticket notifications using the open message bus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/trouble-ticket-workflow-using-pub-sub-model.md). For information on how to implement this method, see [Configure the Producer Event Notification Framework to use the Open Message Bus](../developer-guides/prod_evt_not-dev_gd-cfg_open_bus.md).
 
 <table id="table_vhg_zzf_zzb" class="parameters"><thead><tr><th>
 

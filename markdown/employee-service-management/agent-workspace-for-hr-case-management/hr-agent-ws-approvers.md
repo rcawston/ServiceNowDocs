@@ -15,7 +15,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 HR cases can be set up to require approvals before it can progress to completion.
 
-The HR service configures actions related to approvals. For more information on HR service configuration, see [Configure an HR service](../task/configure-hr-service.md).
+The HR service configures actions related to approvals. For more information on HR service configuration, see [Configure an HR service](../hr-service-delivery/configure-hr-service.md).
 
 When a case requires an approver, the request for approval appears in the approver's Employee Center or portal under To-dos.
 

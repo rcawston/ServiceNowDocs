@@ -38,7 +38,7 @@ After creating a task from a standard in the Standards hub on mobile, you can pe
 -   Put the task on hold
 -   Cancel the task
 
-For more information about requesting and creating a standard, see [Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](../task/create-igt-icw-mobile.md).
+For more information about requesting and creating a standard, see [Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](create-igt-icw-mobile.md).
 
 **Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](exploring-icw-mobile-experience.md)
 

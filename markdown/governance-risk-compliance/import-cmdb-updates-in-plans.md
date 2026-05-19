@@ -33,7 +33,7 @@ For more information on setting up the Planning dependency update configuration 
 
 Beginning with the Xanadu release, you can use the updated dependencies from the latest BIA record to conduct a dependency assessment on an asset. Information from the columns labeled Related item BIA, Related item Recovery Time Objective \(RTO\), Related item Recovery Point Objective \(RPO\), and Related item Recovery Tier is used to ascertain the required recovery timeframe and data backup needs, which are then displayed in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
-For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](../task/conf-plan-dep-update-confi-module.md).
+For more information on the source BIA records option in the Dependency configuration modules, see [Set up Planning dependency update configuration](conf-plan-dep-update-confi-module.md).
 
 **Note:** The filter condition in the Element definition is used to add specific configuration items \(CIs\) via the pop-up. The **Update dependencies** UI action also considers the element definition's filter and retrieves the related CIs of the configuration item listed in the **Applies to** field of the BIA. These relationships are retrieved from the CI Relationships table.
 
@@ -79,7 +79,7 @@ See the workflow for using the **Update dependencies** UI action and updating th
     -   If the planning record matches any configuration filter, the application gets the dependencies in real time according to the sources in the configuration. Then, the BCM planner updates the planning record according to the **Fields to be updated** in the configuration. The plan workflow then continues for the next steps.
     -   If the planning record does not match the configuration filter, the plan workflow then continues for the next steps.
 
-For more information on updating the planning dependencies manually, see [Update the planning dependencies](../task/import-cmdb-updates-in-bcp.md).
+For more information on updating the planning dependencies manually, see [Update the planning dependencies](import-cmdb-updates-in-bcp.md).
 
 **Note:**
 
@@ -99,9 +99,9 @@ If the planning record does not have any changes in the dependencies, then a sna
 
 When you create a business continuity plan, you must update the related assets in the plans. Beginning with the Australia release, the Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\) application supports the BCM application with the underlying framework to fetch the related assets in the plans. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [Data Relationships Framework](../../grc-common/concept/data-relationship-framework.md).
+For more information on the Data Relationships Framework, see [Data Relationships Framework](data-relationship-framework.md).
 
--   **[Update the planning dependencies](../task/import-cmdb-updates-in-bcp.md)**  
+-   **[Update the planning dependencies](import-cmdb-updates-in-bcp.md)**  
 Update the plan dependencies manually from the snapshot if the scheduled job is not activated in the Planning dependency update configuration module. You can update the dependencies in an active plan.
 
 **Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)

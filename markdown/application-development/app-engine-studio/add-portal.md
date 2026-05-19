@@ -17,7 +17,7 @@ Create a portal in App Engine Studio \(AES\) to give your users a site where the
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -77,7 +77,7 @@ Roles
 
 </td><td>
 
-User roles to limit who can access the portal. To use a custom role for your portal, you must create one in **Security** first. For more information, see [Add application security](../concept/add-security.md).
+User roles to limit who can access the portal. To use a custom role for your portal, you must create one in **Security** first. For more information, see [Add application security](add-security.md).
 
 </td></tr></tbody>
 </table>6.  Select **Continue**, and then select **Done**.
@@ -97,10 +97,10 @@ User roles to limit who can access the portal. To use a custom role for your por
 
 ## What to do next
 
-For more information on using UI Builder to edit portals, see [UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md).
+For more information on using UI Builder to edit portals, see [UI Builder](../ui-builder/ui-builder-overview.md).
 
--   **[Sample portals you can build](../concept/portal-example.md)**  
+-   **[Sample portals you can build](portal-example.md)**  
 A portal is a site where users inside of your organization can find information, submit requests, and complete business tasks.
 
-**Parent Topic:**[Add an application experience](../concept/add-experience.md)
+**Parent Topic:**[Add an application experience](add-experience.md)
 

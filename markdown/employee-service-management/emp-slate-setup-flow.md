@@ -23,7 +23,7 @@ Follow the guidance to get started with Employee Slate.
 
 -   Review the prerequisites from [Before you start with Employee Slate](eslate-prereqs-useful-info.md)
 -   Understand the complete setup flow as explained in [Get started with Employee Slate](eslate-getting-started-employee-slate.md)
--   Go to Product Hub page from an existing ServiceNow instance or a provisioned Moveworks instance and [Configure branding and theme](../task/eslate-config-admin-console.md)
+-   Go to Product Hub page from an existing ServiceNow instance or a provisioned Moveworks instance and [Configure branding and theme](eslate-config-admin-console.md)
 -   Access and install the associated plugins and review the links to documentation and other resources.
 
 **Related topics**  

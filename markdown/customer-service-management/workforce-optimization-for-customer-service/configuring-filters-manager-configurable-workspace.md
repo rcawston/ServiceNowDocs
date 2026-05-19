@@ -55,7 +55,7 @@ Table
 
 Table for which the filter is configured. **Note:** You can filter only on specific tables or database views for each module.
 
-Refer to Filter Configuration Tables in [Manager Workspace](../reference/components-installed-configurable-wfo-cs.md) for a list of tables and database views you can use for each application.
+Refer to Filter Configuration Tables in [Manager Workspace](components-installed-configurable-wfo-cs.md) for a list of tables and database views you can use for each application.
 
 </td></tr><tr><td>
 
@@ -119,5 +119,5 @@ Metadata defined seismic component.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../concept/setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 

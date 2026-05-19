@@ -39,12 +39,12 @@ Role required: sn\_hr\_core.manager, or sn\_hr\_core.admin
     For more information, see [Satisfaction Survey Scorecard](t_SatisfactionSurvey.md).
 
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](c_HRDashboardsReports.md)
 
 **Related topics**  
 
 
-[HR surveys](../concept/c_HRSurveysIst.md)
+[HR surveys](c_HRSurveysIst.md)
 
 [Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 

@@ -48,7 +48,7 @@ Admins or delegated developers who invite collaborators can use these descriptor
 
 ## What to do next
 
-Further customize collaborator permissions in App Engine Studio. For more information, see [Change collaborator permissions](../concept/aes-collaboration-feature-overview.md#).
+Further customize collaborator permissions in App Engine Studio. For more information, see [Change collaborator permissions](aes-collaboration-feature-overview.md#).
 
-**Parent Topic:**[Perform AES configuration tasks](../reference/aes-config-tasks.md)
+**Parent Topic:**[Perform AES configuration tasks](aes-config-tasks.md)
 

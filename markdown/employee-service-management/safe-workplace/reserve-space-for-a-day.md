@@ -37,7 +37,7 @@ You can also access the reservation form from the Now Mobile app. Navigate to **
     -   To reserve a space for custom timings, select **Reserve a space for a day**.
 3.  On the Reserve a space form, fill in the fields.
 
-    For a description of the field values, see [Reserve a space form](../../workplace-service-delivery/reference/reserve-space-form.md).
+    For a description of the field values, see [Reserve a space form](../workplace-core/reserve-space-form.md).
 
     **Note:** The visibility of some of the following fields depends on the application settings made by your administrator.
 
@@ -66,5 +66,5 @@ You will receive an email notification 15 minutes before the reservation to chec
     **Note:** You must check out within an hour after the reservation end time. Otherwise, the reservation is automatically checked out.
 
 
-**Parent Topic:**[Making workplace reservations](../concept/requesting-workspace-reservations.md)
+**Parent Topic:**[Making workplace reservations](requesting-workspace-reservations.md)
 

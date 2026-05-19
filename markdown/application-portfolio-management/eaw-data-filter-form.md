@@ -53,5 +53,5 @@ Add a condition that is based on related lists that are associated with the targ
 **Related topics**  
 
 
-[Create a certification policy](../../task/eaw-task/eaw-create-policy.md)
+[Create a certification policy](eaw-create-policy.md)
 

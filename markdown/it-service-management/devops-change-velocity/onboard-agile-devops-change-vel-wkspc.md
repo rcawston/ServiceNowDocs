@@ -17,7 +17,7 @@ Connect to your Agile Development 2.0 instance using the DevOps Change Workspace
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Activate the Agile Development 2.0 plugin. For more information, see .
 
@@ -126,5 +126,5 @@ Steps
 
 You’ve successfully onboarded your Agile Development 2.0 tool to DevOps Change Velocity.
 
-**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](../concept/agile-integration-dev-ops.md)
+**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](agile-integration-dev-ops.md)
 

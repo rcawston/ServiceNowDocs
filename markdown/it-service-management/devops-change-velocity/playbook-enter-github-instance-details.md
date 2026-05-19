@@ -17,7 +17,7 @@ Connect to your GitHub instance using the DevOps Change Workspace playbook to di
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -103,7 +103,7 @@ OAuth 2.0 with Authorization Code
 
 </td><td>
 
-Select an existing OAuth 2.0 with Authorization Code credential record or create an OAuth 2.0 with Authorization Code credential record. For more information, see [Create a credential record for GitHub App provider \(Authorization Code\)](../concept/dev-ops-github-apps-oauth-auth.md#).
+Select an existing OAuth 2.0 with Authorization Code credential record or create an OAuth 2.0 with Authorization Code credential record. For more information, see [Create a credential record for GitHub App provider \(Authorization Code\)](dev-ops-github-apps-oauth-auth.md#).
 
  ![GitHub Oauth 2.0 with Authorization Code credential type](../image/github-oauth-auth.png)
 
@@ -115,17 +115,17 @@ OAuth 2.0 with JSON Web Token \(JWT\)
 
 To connect using OAuth 2.0 with a JWT, you must first perform the following:
 
--   [Create and configure a GitHub App](../concept/dev-ops-github-apps-oath-jwt.md#)
--   [Generate the Java KeyStore certificate for GitHub](../concept/dev-ops-github-apps-oath-jwt.md#)
--   [Attach the GitHub Java KeyStore certificate to your instance](../concept/dev-ops-github-apps-oath-jwt.md#)
+-   [Create and configure a GitHub App](dev-ops-github-apps-oath-jwt.md#)
+-   [Generate the Java KeyStore certificate for GitHub](dev-ops-github-apps-oath-jwt.md#)
+-   [Attach the GitHub Java KeyStore certificate to your instance](dev-ops-github-apps-oath-jwt.md#)
  After completing the prerequisites, you can continue with the DevOps Change Velocity Connect playbook activity:
 
 1.  Select the **Use an existing JWT credential record** option if you want to use an already existing JWT credential record. If this option is not selected, the fields to create a new JWT credential record are displayed. Proceed to the next step.
 2.  In the **JKS certificate** field, select an existing JKS certificate. This is the name you entered to uniquely identify the JWT provider. JKS certificates are created using shell commands to create a sys\_certificate record.
 
-For more information, see [Create a JWT signing key for the GitHub JKS certificate](../concept/dev-ops-github-apps-oath-jwt.md#).
+For more information, see [Create a JWT signing key for the GitHub JKS certificate](dev-ops-github-apps-oath-jwt.md#).
 
-3.  In the **Signing key** field, enter the signing key to be assigned to your JKS certificate. This is the export password entered while [generating the JKS certificate](../concept/dev-ops-github-apps-oath-jwt.md#).
+3.  In the **Signing key** field, enter the signing key to be assigned to your JKS certificate. This is the export password entered while [generating the JKS certificate](dev-ops-github-apps-oath-jwt.md#).
 4.  In the **GitHub App ID** field, select the app ID of your GitHub App \(available in the About section of your GitHub App configuration in GitHub\). The following image displays an example of the About section of a GitHub App configuration from where you can access the GitHub App ID, Client ID, and Client secret.
 
 ![About page of GitHub App.](../image/github-jwt-about-screen.png)
@@ -145,7 +145,7 @@ For the installation id, go to Install App section in your GitHub App configurat
  If the OAuth credential is created using GitHub Apps - JWT, the **Configure with GitHub App** option will be available on the tool record page.
 
 </td></tr></tbody>
-</table>        For more information on OAuth2.0 credentials, see [Setting up GitHub OAuth 2.0 credentials for DevOps Change Velocity](../concept/setting-up-github-oauth-dev-ops.md).
+</table>        For more information on OAuth2.0 credentials, see [Setting up GitHub OAuth 2.0 credentials for DevOps Change Velocity](setting-up-github-oauth-dev-ops.md).
 
     3.  Enter a value in the **GitHub app slug name** field to check the permission requirements of the tool before connecting if you have created your Oauth 2.0 credentials using GitHub Apps.
 
@@ -163,7 +163,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 
     6.  Permission checks are run on the credentials that you entered.
 
-        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see GitHub permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see GitHub permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
         For OAuth 2.0, if you haven’t entered the GitHub app slug name, the tool is connected without checking permission requirements.
 
@@ -253,7 +253,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 
     ![Connection summary](../image/github-plybk-07.png)
 
-    For GitHub Actions pipelines, you must perform some additional steps like creating secrets, defining the workflow configuration in GitHub, and so on. For more information, see [GitHub Actions configurations](../concept/github-actions-integration-with-devops.md#).
+    For GitHub Actions pipelines, you must perform some additional steps like creating secrets, defining the workflow configuration in GitHub, and so on. For more information, see [GitHub Actions configurations](github-actions-integration-with-devops.md#).
 
 
 ## Result
@@ -284,7 +284,7 @@ If you are an upgrading customer, plans will be discovered for your repositories
 
 **Note:** Historical import of plans is not supported.
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](../concept/github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](github-integration-dev-ops.md)
 
 **Related topics**  
 

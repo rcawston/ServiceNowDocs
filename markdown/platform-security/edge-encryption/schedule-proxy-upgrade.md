@@ -120,5 +120,5 @@ The typical time for an upgrade is less that 15 minutes. After an upgrade is exe
 |End Time|Time that the upgrade ended.|
 |Failure Reason|Reason that the upgrade failed.|
 
-**Parent Topic:**[Upgrading Edge Encryption](../concept/c_UpdateEdgeEncryptionProxy.md)
+**Parent Topic:**[Upgrading Edge Encryption](c_UpdateEdgeEncryptionProxy.md)
 

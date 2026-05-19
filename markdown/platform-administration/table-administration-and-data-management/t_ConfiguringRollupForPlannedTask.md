@@ -97,5 +97,5 @@ Select the check box to allow roll up. Leave the field unchecked to exclude the 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
 

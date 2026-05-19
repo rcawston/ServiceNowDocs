@@ -76,10 +76,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](list-of-plugins.md#)
 

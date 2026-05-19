@@ -184,5 +184,5 @@ For example, you can see which users will or will not receive the notification, 
 
 ![Preview for System health notification email](../image/system-health-email-notification-preview.png)
 
-**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
 

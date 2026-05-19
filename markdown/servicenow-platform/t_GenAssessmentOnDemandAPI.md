@@ -28,14 +28,14 @@ Role required: assessment\_admin or admin
     -   An assessable record to evaluate. The assessable record must be associated with an on-demand type and at least one category that contains non-scripted metrics.
     -   One or more users who should perform the assessment. The API generates a questionnaire about the specified assessable record for each user.
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](c_AssessmentGeneration.md)
 
-[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+[Scheduled assessments](c_ScheduledAssessments.md)
 
 [Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
 
@@ -43,7 +43,7 @@ Role required: assessment\_admin or admin
 
 [Set an assessment generation schedule](t_SetAssesstGenerationSchedule.md)
 
-[Assessment instances](../concept/c_AssessmentInstances.md)
+[Assessment instances](c_AssessmentInstances.md)
 
 [View an assessment instance](t_ViewAnAssessmentInstance.md)
 

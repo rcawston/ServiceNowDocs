@@ -35,7 +35,7 @@ Enabling text indexing for a table also enables it for all child tables. If you 
 
 **Note:** Whenever you create an index table, the system also creates Access Control Roles \(ACLs\) for new tables.
 
-Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can [view historical text indexing statistics](../reference/r_ViewTextIndexingStatsAndStatus.md).
+Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can [view historical text indexing statistics](r_ViewTextIndexingStatsAndStatus.md).
 
 **Note:**
 
@@ -80,7 +80,7 @@ To enable users to search tables created by update set transfers, you must manua
         |Field|Description|
         |-----|-----------|
         |Table|Table to define attributes for.|
-        |Attribute name|Search engine attribute. For a list of the attributes and valid values, see [Zing index and search attributes](../reference/index-attributes.md).|
+        |Attribute name|Search engine attribute. For a list of the attributes and valid values, see [Zing index and search attributes](index-attributes.md).|
         |Value|Value for attribute.|
 
     4.  Repeat this procedure to define additional attributes for the table.
@@ -98,7 +98,7 @@ To enable users to search tables created by update set transfers, you must manua
         |Field|Description|
         |-----|-----------|
         |Table|Table that contains the column you want to define attributes for. Only tables in the index group and their child tables display.|
-        |Attribute name|Attribute. For a list of the attributes and valid values, see [Zing index and search attributes](../reference/index-attributes.md).|
+        |Attribute name|Attribute. For a list of the attributes and valid values, see [Zing index and search attributes](index-attributes.md).|
         |Column|The name of the column in the selected table you want to apply the search attribute to.|
         |Value|Value for attribute.|
 
@@ -137,22 +137,22 @@ The list search for text option appears on the list views for the table and its 
 
 ## What to do next
 
-You can search records on the indexed table using list search in form view. To learn more about using list search, see [List search finds records from the current table](../concept/c_TextSearchesInRecordLists.md).
+You can search records on the indexed table using list search in form view. To learn more about using list search, see [List search finds records from the current table](c_TextSearchesInRecordLists.md).
 
 You can also query the indexed table for string matches using the `GlideRecord.addQuery(name, value)` or `GlideRecord.addEncodedQuery(name, value)` methods with the `123TEXTQUERY321` reserved name. For more information about querying for string matches, see [Querying tables in script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_UsingGlideRecordToQueryTables.md).
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
 [Configure a text index group to search across multiple tables](index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](index-attributes.md)
 
 [Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
 
@@ -166,7 +166,7 @@ You can also query the indexed table for string matches using the `GlideRecord.a
 
 [Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](r_ViewTextIndexingStatsAndStatus.md)
 
 [Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
 
@@ -204,7 +204,7 @@ Text indexing excludes fields of these types:-   Date
 -   True/False
 -   Workflow
 
- For more information on these types, see [Field types reference](../../reference-pages/reference/r_FieldTypes.md).
+ For more information on these types, see [Field types reference](../r_FieldTypes.md).
 
 </td></tr><tr><td>
 

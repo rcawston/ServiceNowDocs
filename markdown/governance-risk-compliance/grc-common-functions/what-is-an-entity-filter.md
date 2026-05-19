@@ -32,10 +32,10 @@ The **Entity filters** tab displays the following information:
 
 Use the new Entity class field in the entity filters under the entity type to assign an entity class to an entity filter. When you use an entity filter to create an entity, an entity class gets assigned to it automatically.
 
--   **[Create an entity filter](../../grc-common-workspace/task/create-new-entity-filter-ws.md)**  
+-   **[Create an entity filter](create-new-entity-filter-ws.md)**  
 Create an entity filter under an entity type in the workspace view. Entities in entity type are created based on the conditions set in the Entity Filter. The entity filter defines the table from which data is pulled into each entity type for display.
--   **[Create an entity filter in the Core UI](../task/create-entity-filter-in-classic-user-interface.md)**  
+-   **[Create an entity filter in the Core UI](create-entity-filter-in-classic-user-interface.md)**  
 Create an entity filter under an entity type in the classic user interface. The entity filter defines the table from which data is pulled into each entity type for display. If the entities belong to an application, the users who have access to the entity class that is associated with the entity can only view those entities.
 
-**Parent Topic:**[Entity types](../../grc-common-workspace/concept/entity-type-in-risk-ws.md)
+**Parent Topic:**[Entity types](entity-type-in-risk-ws.md)
 

@@ -56,5 +56,5 @@ Preprocessed log lines/sec
 The average number of preprocessed log lines that streamed to the MID Server per second in the last one-minute interval. **Note:** This value can differ from the number of raw log lines per second. For example, the difference can be a result of logs having been dropped during preprocessing.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Identify and resolve log streaming issues](../task/accl-verify-log-streaming.md)
+</table>**Parent Topic:**[Identify and resolve log streaming issues](accl-verify-log-streaming.md)
 

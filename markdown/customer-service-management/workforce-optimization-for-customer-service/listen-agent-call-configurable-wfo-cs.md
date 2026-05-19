@@ -29,7 +29,7 @@ When the Amazon Connect application answers a call from an external source, an i
 
 ## Procedure
 
-1.  [Monitor your agent's call](../concept/use-channels-configurable-wfo-cs.md#) queue when an agent is talking to an external caller in Workforce Optimization for Customer Service.
+1.  [Monitor your agent's call](use-channels-configurable-wfo-cs.md#) queue when an agent is talking to an external caller in Workforce Optimization for Customer Service.
 
 2.  Open the active interaction when the phone call is in progress.
 
@@ -43,5 +43,5 @@ When the Amazon Connect application answers a call from an external source, an i
 5.  End the session by selecting Disconnect or closing the NVC utility panel.
 
 
-**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](../concept/configurable-servicenow-voice-cs.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](configurable-servicenow-voice-cs.md)
 

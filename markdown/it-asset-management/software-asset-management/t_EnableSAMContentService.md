@@ -21,7 +21,7 @@ Role required: sam\_admin
 
 ## About this task
 
-**Note:** If you are managing a National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployment, you cannot share any unnormalized software installation data with ServiceNow even if you opt to participate in the Software Asset Management Content Service. If a software product does not exist in the Software Asset Management Content Library, you can create a software content request for it manually. For detailed instructions, see [Create IT Asset Management content request](create-itam-content-request.md).
+**Note:** If you are managing a National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployment, you cannot share any unnormalized software installation data with ServiceNow even if you opt to participate in the Software Asset Management Content Service. If a software product does not exist in the Software Asset Management Content Library, you can create a software content request for it manually. For detailed instructions, see [Create IT Asset Management content request](../create-itam-content-request.md).
 
 **Important:** If you're using the Software Asset Management application on-premise, you can set up your ServiceNow instance to connect directly to the Content Service. For detailed instructions, see the knowledge base article [KB1585263](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585263).
 
@@ -44,10 +44,10 @@ Role required: sam\_admin
     The Software Discovery Models, Software Product Lifecycles, Part Numbers and Discovery Maps, Processor Names, Product License Exception Rules, and Custom Software Products are disabled and your unique normalization content is no longer provided to the Software Asset Management content service.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 
 **Related topics**  
 
 
-[Software Asset Management Content Service](../concept/c_SAMContentService.md)
+[Software Asset Management Content Service](c_SAMContentService.md)
 

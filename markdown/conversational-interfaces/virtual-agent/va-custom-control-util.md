@@ -17,7 +17,7 @@ Use the Custom Control utility in a Virtual Agent topic or topic block to refere
 
 ## Custom control utility properties
 
-Specify the properties of the custom input control or custom response control that you are adding to a topic or topic block. For more information about custom controls and their use, see [Customizing Virtual Agent with custom controls](../concept/custom-controls.md).
+Specify the properties of the custom input control or custom response control that you are adding to a topic or topic block. For more information about custom controls and their use, see [Customizing Virtual Agent with custom controls](custom-controls.md).
 
 **Note:** Custom controls do not work on Internet Explorer version 11.
 

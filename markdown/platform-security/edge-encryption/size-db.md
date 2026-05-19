@@ -42,5 +42,5 @@ Use a dedicated machine to run the order-preserving and tokenization database. D
 
 The calculated value is the recommended size in bytes for your order-preserving and tokenization database.
 
-**Parent Topic:**[Planning for Edge Encryption](../concept/c_EdgeEncryptionPlanning.md)
+**Parent Topic:**[Planning for Edge Encryption](c_EdgeEncryptionPlanning.md)
 

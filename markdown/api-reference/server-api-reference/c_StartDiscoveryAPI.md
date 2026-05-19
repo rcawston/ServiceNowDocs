@@ -17,7 +17,7 @@ The StartDiscovery script include provides methods to start discovery jobs.
 
 Use this script include during the discovery scanning phase.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## StartDiscovery - addAdditionalIP\(String status, String ip, String sensor\)
 

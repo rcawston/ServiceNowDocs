@@ -36,5 +36,5 @@ Role required: admin
 
 When unauthenticated users start a conversation with the virtual agent for the first time in the messaging integration, they are redirected to the Service Portal specified for the provider in the Provider Auth table. After they log in to the Service Portal, they are prompted to [link their ServiceNow account to the messaging application](link-accounts-with-virtual-agent.md).
 
-**Parent Topic:**[Integrating Virtual Agent with messaging apps](../concept/va-integration-messaging-apps.md)
+**Parent Topic:**[Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md)
 

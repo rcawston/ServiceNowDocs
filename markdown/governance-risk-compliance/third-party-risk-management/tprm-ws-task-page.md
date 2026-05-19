@@ -21,5 +21,5 @@ To open the Task page, select **Workspaces** &gt; **Vendor Management Workspace*
 
 ![Access your day-to-day tasks.](../image/tprm-ws-task-page.png)
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](unified-vrm-workspace.md)
 

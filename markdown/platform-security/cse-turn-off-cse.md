@@ -56,5 +56,5 @@ Role required: admin, codesigning\_admin
 
 You can verify successful completion by looking at your system properties. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **false**.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

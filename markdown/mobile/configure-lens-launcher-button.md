@@ -35,7 +35,7 @@ If any Inputs in an input form screen have the **DisableAILensAutoFill** attribu
 
 3.  Select the input form screen on which you want to configure the launcher button, or select **New** to create an input form screen.
 
-    See [Configure an input form screen](../task/parameter-screen-config.md) for instructions on how to create an input form screen.
+    See [Configure an input form screen](parameter-screen-config.md) for instructions on how to create an input form screen.
 
 4.  Under the **Presentation style** category, set the style to **Screen** to allow the addition of function instances.
 

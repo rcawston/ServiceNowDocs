@@ -18,7 +18,7 @@ Export the configuration of a Health Log Analytics data input with or without th
 
 ## Before you begin
 
-For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md).
+For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -75,5 +75,5 @@ Role required: evt\_mgmt\_admin
 
 Import the update set to the required ServiceNow instance. For more information, see [Import a Health Log Analytics data input to a target instance](hla-data-input-import.md).
 
-**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md)
+**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](hla-data-input-migration.md)
 

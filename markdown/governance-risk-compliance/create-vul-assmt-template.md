@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.admin
 
 3.  On the Assessment Metric Type record form, fill in the fields.
 
-    For more information on the fields, see [Assessment metric type form](../reference/op-vul-assmt-metric-type-form.md).
+    For more information on the fields, see [Assessment metric type form](op-vul-assmt-metric-type-form.md).
 
 4.  Use the Smart Assessment template that has been added to the vulnerability type.
 

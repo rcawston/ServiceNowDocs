@@ -36,5 +36,5 @@ Role required: sn\_apm.apm\_user
 
 A file with the selected format is downloaded and saved in your local system.
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](eaw-using-app-rat-list-view.md)
 

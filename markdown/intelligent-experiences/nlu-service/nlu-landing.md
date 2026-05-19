@@ -62,7 +62,7 @@ Use the NLU Workbench to create morphological representations of human language.
 
 Using the nlu\_admin role, you build your models in the NLU Workbench, where you create, train, test, and publish them iteratively.
 
-For information on how to build and use an NLU model, see: [Create an NLU model](../task/create-nlu-modelx.md).
+For information on how to build and use an NLU model, see: [Create an NLU model](create-nlu-modelx.md).
 
 ## NLU inference service
 

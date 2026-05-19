@@ -28,5 +28,5 @@ Role required: sn\_compliance.manager
 3.  Select **Save**.
 
 
-**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](../concept/grc-approval-configurator-for-policy-extension-and-exception.md)
+**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](grc-approval-configurator-for-policy-extension-and-exception.md)
 

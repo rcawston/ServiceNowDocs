@@ -81,5 +81,5 @@ Procurement task that you want to associate to an interaction record.**Note:** T
 
 The interaction record is updated with its associated procurement case.
 
-**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](../concept/interaction-management-in-procurement-operations-workspace.md)
+**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](interaction-management-in-procurement-operations-workspace.md)
 

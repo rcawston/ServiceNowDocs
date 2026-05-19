@@ -15,7 +15,7 @@ Controlling what users see when they visit a form can increase productivity and 
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md).
 
 ## Determine when to control user access
 

@@ -47,5 +47,5 @@ For custom action logging, that is, for the action you create on a guidance prev
 api.emit(LOG_SEARCH_RESULT_EVENT, {actionData: {actionName: actionId}})
 ```
 
-For more details on how to configure the payload for custom actions, see [Customize a guidance preview experience in the UI Builder](../task/customize-ra-preview-experience.md).
+For more details on how to configure the payload for custom actions, see [Customize a guidance preview experience in the UI Builder](customize-ra-preview-experience.md).
 

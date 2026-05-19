@@ -30,7 +30,7 @@ After the application is installed and activated, Model Performance, Expert Feed
 
 ## Installation
 
-NLU Workbench - Advanced Features is available from the ServiceNow Store. For instructions on how to purchase and download, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md).
+NLU Workbench - Advanced Features is available from the ServiceNow Store. For instructions on how to purchase and download, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md).
 
 **Note:** The available [Intent Discovery](intent-discovery.md) ServiceNow Store application is installed separately from NLU Workbench - Advanced Features.
 

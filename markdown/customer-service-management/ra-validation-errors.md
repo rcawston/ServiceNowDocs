@@ -195,7 +195,7 @@ This node needs a guidance
 Guidance nodes must be linked to a guidance. Either select an existing guidance or create one.
 
  -   Select an available guidance from the list in the **Guidance** field.
--   Create a guidance in Core UI by selecting the Create a guidance icon ![Create a guidance icon](../image/icon-add-path.png) in the **Guidance** field. For more information, see [Create a guidance in the Core UI](../task/create-guidances.md).
+-   Create a guidance in Core UI by selecting the Create a guidance icon ![Create a guidance icon](../image/icon-add-path.png) in the **Guidance** field. For more information, see [Create a guidance in the Core UI](create-guidances.md).
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ You need to set inputs for this guidance
 
 </td><td>
 
-Configure the guidance inputs for the guidance that you selected. For more information, see [Provide actions to agents in a decision tree](../task/configure-guidance-in-gdb.md).
+Configure the guidance inputs for the guidance that you selected. For more information, see [Provide actions to agents in a decision tree](configure-guidance-in-gdb.md).
 
 </td></tr><tr><td>
 
@@ -262,7 +262,7 @@ This node needs a child tree
 Linking nodes must be linked to a child tree. Either select an activated decision tree or create one.
 
  -   Select an activated decision tree from the list in the **Child decision tree** field.
--   Create a decision tree in Core UI by selecting the Create a decision tree icon ![Create a decision tree icon](../image/icon-add-path.png) in the **Child decision tree** field. For more information, see [Create a decision tree in Core UI](../task/configure-decision-trees-gdb.md).
+-   Create a decision tree in Core UI by selecting the Create a decision tree icon ![Create a decision tree icon](../image/icon-add-path.png) in the **Child decision tree** field. For more information, see [Create a decision tree in Core UI](configure-decision-trees-gdb.md).
 
 </td></tr><tr><td>
 

@@ -65,5 +65,5 @@ Role required: admin
 
 The ServiceNow app for iOS appears in the App Catalogs section on the MobileIron Portal. Mobile users can download it from the MobileIron App Catalog.
 
-**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](../concept/mobileiron-mdm.md)
+**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](mobileiron-mdm.md)
 

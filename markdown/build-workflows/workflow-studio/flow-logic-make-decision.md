@@ -15,7 +15,7 @@ breadcrumb: [Flow logic, Flows, subflows, and actions reference, Flows, subflows
 
 You can use the decision table branching logic in situations where multiple conditional paths are required, as an alternative to nested If, Else If, or Else flow logic. For example, if you want to determine what kind of car insurance you need, you can add inputs such as your age, accident history, and car model to the decision table to determine a level of insurance coverage. This logic can save you time and present a more readable format than nested if conditions or switch case statements.
 
-The **Make a decision** flow logic requires that you create an external decision table for its branch paths. Each decision table answer produces a separate branch path within your flow. Decision tables accept any number of inputs and support any number of decisions. You can configure the Make a decision flow logic to return a single or multiple answers and to display the answers as branch paths or record data pills. For more information on decision tables, see [Exploring Decision Tables](../../decision-table/concept/decision-designer-overview.md).
+The **Make a decision** flow logic requires that you create an external decision table for its branch paths. Each decision table answer produces a separate branch path within your flow. Decision tables accept any number of inputs and support any number of decisions. You can configure the Make a decision flow logic to return a single or multiple answers and to display the answers as branch paths or record data pills. For more information on decision tables, see [Exploring Decision Tables](decision-designer-overview.md).
 
 **Note:**
 
@@ -123,7 +123,7 @@ The **Flow execution details** tab provides runtime information about the flow l
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](append-to-flow-variables-flow-logic.md)
 
 [Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
 
@@ -137,19 +137,19 @@ The **Flow execution details** tab provides runtime information about the flow l
 
 [End Flow flow logic](flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](exit-loop-flow-logic.md)
 
 [For Each flow logic](flow-logic-for-each.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](go-back-to-flow-logic.md)
 
 [If flow logic](flow-logic-if.md)
 
 [Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](skip-iteration-flow-logic.md)
 
 [Try flow logic](flow-logic-try.md)
 

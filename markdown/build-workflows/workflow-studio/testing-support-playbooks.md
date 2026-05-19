@@ -17,10 +17,10 @@ The Automated Test Framework \(ATF\) can be used to create automated tests to co
 
 For more information about the Automated Test Framework, see [Automated Test Framework \(ATF\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-landing-page.md).
 
--   **[Configure testing support for playbooks](../task/config-playbook-test-sup.md)**  
+-   **[Configure testing support for playbooks](config-playbook-test-sup.md)**  
 Configure the Automated Test Framework \(ATF\) to support testing playbooks by authoring tests in the ATF UI on your ServiceNow instance.
--   **[Run an automated test on a playbook](../task/run-atf-test-on-playbook.md)**  
+-   **[Run an automated test on a playbook](run-atf-test-on-playbook.md)**  
 After creating your test and adding steps, run and monitor the progress of your automated test.
 
-**Parent Topic:**[Running Playbooks](../../workspace/concept/playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
 

@@ -83,5 +83,5 @@ Associated Observables
 Lists observables associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat notes](../concept/threat-intelligence-threat-notes.md)
+</table>**Parent Topic:**[Threat notes](threat-intelligence-threat-notes.md)
 

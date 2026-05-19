@@ -69,5 +69,5 @@ sn\_wsd\_core.workplace\_manager
 |Unassigned cleaning tasks by day|Trend ![Trend over time icon](../../performance-analytics/image/column-time-icon.png)|Trend of the number of active cleaning tasks per day that are not assigned to anyone and not in the Closed state. The cleaning tasks in this report have a due date between today and the next seven days and include all task types such as planned, unplanned, and ad hoc.|
 |Unassigned cleaning tasks|List|List of active workplace tasks that are not assigned to anyone and not in the Closed state.|
 
-**Parent Topic:**[Workplace dashboards](../concept/wsd-workplace-dashboards.md)
+**Parent Topic:**[Workplace dashboards](wsd-workplace-dashboards.md)
 

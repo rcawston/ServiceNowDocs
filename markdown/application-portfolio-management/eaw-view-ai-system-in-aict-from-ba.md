@@ -41,7 +41,7 @@ The **AI Systems** tab on a business application record shows a summary of each 
     The AI system record opens in the AI Control Tower workspace, displaying the full governance details for that AI system. The record includes tabs for details, KPIs and metrics, and requests, along with related assets such as sub AI systems, AI models, tools, prompts, evaluation datasets, and business applications.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
@@ -50,7 +50,7 @@ The **AI Systems** tab on a business application record shows a summary of each 
 
 [Remove an AI system from a business application](eaw-unassign-ai-system-from-ba.md)
 
-[AI Control Tower integration with Enterprise Architecture](../../concept/eaw-concept/eaw-aict.md)
+[AI Control Tower integration with Enterprise Architecture](eaw-aict.md)
 
 [AI Control Tower Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-home-page.md)
 

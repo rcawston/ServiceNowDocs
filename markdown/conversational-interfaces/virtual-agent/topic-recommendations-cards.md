@@ -44,7 +44,7 @@ Active
 
 </td><td>
 
-Topic or intent was added to Virtual Agent or [linked to an existing topic](../task/link-tr-existing-va-topic.md) and published.Cards with **Active** status have a green border.
+Topic or intent was added to Virtual Agent or [linked to an existing topic](link-tr-existing-va-topic.md) and published.Cards with **Active** status have a green border.
 
  If you keep getting recommendations for an Active topic, it probably needs improvement.
 
@@ -138,7 +138,7 @@ How to apply this recommendation
 Suggestions for an unused recommendation. You can do one of the following:
 
 -   Select the card, and then click **Add to VA** to create a new topic.
--   [Link the recommendation](../task/link-tr-existing-va-topic.md) to an existing topic.
+-   [Link the recommendation](link-tr-existing-va-topic.md) to an existing topic.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Linked topic
 
 </td><td>
 
-Displays the name of the topic that was linked, as well as the date when the recommendation was linked. Click the open link icon ![Open link icon.](../images/icon-open-link.png) to view the associated topic in Assistant Designer. You can also [unlink the topic](../task/unlink-tr-va-topic.md) from the recommendation.
+Displays the name of the topic that was linked, as well as the date when the recommendation was linked. Click the open link icon ![Open link icon.](../images/icon-open-link.png) to view the associated topic in Assistant Designer. You can also [unlink the topic](unlink-tr-va-topic.md) from the recommendation.
 
 </td></tr></tbody>
 </table>![An overlay card for a topic that has not been added but can be linked to an existing topic.](../images/tr-example-overlay-card.png "Example overlay card")

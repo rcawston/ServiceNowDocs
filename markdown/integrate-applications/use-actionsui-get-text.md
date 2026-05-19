@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-The properties of the Get Text component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+The properties of the Get Text component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ The properties of the Get Text component are common with other Actions UI compon
 
 7.  Add an anchor to the captured image by doing the following actions:
 
-    An anchor is a unique subset of the captured image that helps the Get Text component identify where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Get Text component treats the whole captured image as an anchor. To know more about an anchor, see the steps to use the [Anchor](../concept/anchor.md).
+    An anchor is a unique subset of the captured image that helps the Get Text component identify where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Get Text component treats the whole captured image as an anchor. To know more about an anchor, see the steps to use the [Anchor](anchor.md).
 
     1.  In the Get Text component, right-click the image, and click **Add Anchor**.
 
@@ -98,5 +98,5 @@ The properties of the Get Text component are common with other Actions UI compon
 
 The Get Text component extracts the text "The world works with ServiceNow" and passes the text through its Data Out port to the Show component \(To use the Show component, see [Use the Show component](use-general-messagebox-show.md)\). The Show component displays the same text in a pop-up window.
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

@@ -88,5 +88,5 @@ The Template Center shows only the Doc page templates.
 
 The selected template is applied to your Board, Doc, or page and the data is displayed according to the template.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md)
 

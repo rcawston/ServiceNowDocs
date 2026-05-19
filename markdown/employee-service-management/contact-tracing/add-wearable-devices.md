@@ -85,5 +85,5 @@ MAC address of the device.Follow the steps in [Configuring the form layout](http
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Retrieving Wi-Fi access log data](../concept/wifi-access-management.md)
+**Parent Topic:**[Retrieving Wi-Fi access log data](wifi-access-management.md)
 

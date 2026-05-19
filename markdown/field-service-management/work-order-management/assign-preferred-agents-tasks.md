@@ -19,9 +19,9 @@ Specify the technician assignment preference for a task, indicating whether a te
 
 Role required: wm\_dispatcher, wm\_manager, wm\_admin
 
-If you’re using Technician Preferences for Dynamic Scheduling, then you must have the **Prioritize preferred and secondary technicians** criterion added to your task filter to add preferred technicians. For more information, see [Example - configure dynamic scheduling to assign preferred technicians to tasks](excluded-preferred-agents.md).
+If you’re using Technician Preferences for Dynamic Scheduling, then you must have the **Prioritize preferred and secondary technicians** criterion added to your task filter to add preferred technicians. For more information, see [Example - configure dynamic scheduling to assign preferred technicians to tasks](../field-service-scheduling/excluded-preferred-agents.md).
 
-If you're using Technician Preferences for Schedule Optimization then your administrator must [Configure the policy to assign preferred technicians to tasks](configure-the-policy-to-assign-preferred-technicians-to-tasks.md).
+If you're using Technician Preferences for Schedule Optimization then your administrator must [Configure the policy to assign preferred technicians to tasks](../field-service-scheduling/configure-the-policy-to-assign-preferred-technicians-to-tasks.md).
 
 ## About this task
 

@@ -15,12 +15,12 @@ breadcrumb: [Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
 
 The Administration module contains information about upgrade risk and execution of skipped record rules.
 
--   **[Managing upgrade risk](../concept/uc-manage-upgrade-risk.md)**  
+-   **[Managing upgrade risk](uc-manage-upgrade-risk.md)**  
 You will be notified of the possible conflicts that might result due to several customizations in a skipped metadata file, with a new UI message on the form pages of the metadata files.
--   **[Create a skipped record rule](../task/uc-create-skipped-record-rule.md)**  
+-   **[Create a skipped record rule](uc-create-skipped-record-rule.md)**  
 Create skipped record rules based on your set conditions to define your customizations after an upgrade.
--   **[Execute a skipped record rule](../task/uc-execute-skipped-record-rule.md#)**  
+-   **[Execute a skipped record rule](uc-execute-skipped-record-rule.md#)**  
 Run skipped record rules based on your set conditions to resolve skipped records in an upgrade. The rules either execute automatically during an upgrade or can run on demand after an upgrade.
 
-**Parent Topic:**[Using ServiceNow AI Platform upgrade tools](../../general/concept/upgrade-now-platform.md)
+**Parent Topic:**[Using ServiceNow AI Platform upgrade tools](../upgrade-now-platform.md)
 

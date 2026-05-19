@@ -15,7 +15,7 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 <table id="configurable-workspace-navigation" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Configurable Workspace concepts and features.](../../workspace/concept/learn-about-agent-workspace.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Configurable Workspace concepts and features.](learn-about-agent-workspace.md)
 
 </td><td>
 
@@ -27,11 +27,11 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 </td></tr><tr><td>
 
-[Work![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use your Configurable Workspace to answer customer questions and resolve issues.](../../../get-started/servicenow-overview/concept/working-in-your-workspace.md)
+[Work![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use your Configurable Workspace to answer customer questions and resolve issues.](working-in-your-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about the Configurable Workspace.](../../workspace/reference/configurable-workspace-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about the Configurable Workspace.](configurable-workspace-reference.md)
 
 </td><td>
 

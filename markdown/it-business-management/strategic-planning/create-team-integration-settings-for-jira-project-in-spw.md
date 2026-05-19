@@ -31,7 +31,7 @@ Role required: sn\_jira\_int.user
 
 4.  On the Team Integration Settings form, fill in the fields,
 
-    For field information, see [Team Integration Settings form](../reference/team-integration-settings-form.md).
+    For field information, see [Team Integration Settings form](team-integration-settings-form.md).
 
 5.  Select **Submit**.
 

@@ -29,7 +29,7 @@ The following items are installed with Robotic Process Automation \(RPA\) Hub:
 -   Tables
 -   Actions and subflow
 
-For more information, see [Components installed with RPA Hub](../../rpa-hub/reference/installed-with-rpa-hub.md) and [Workflow Studio actions and subflow in RPA Hub](../../rpa-hub/reference/rpa-hub-actions.md).
+For more information, see [Components installed with RPA Hub](installed-with-rpa-hub.md) and [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## Procedure
 

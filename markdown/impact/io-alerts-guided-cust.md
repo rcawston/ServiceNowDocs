@@ -58,5 +58,5 @@ If you’re an Impact Guided tier customer, then the important top 6 and commonl
     For more information on configuring alerts and setting notifications, see [Configure Key Alerts](configuring-io-alerts.md).
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

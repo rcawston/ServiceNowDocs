@@ -21,9 +21,9 @@ Role required: admin
 
 ## About this task
 
-The Pipelines and Deployments guided setup provides a sequence of tasks that help you configure Pipelines and Deployments on the ServiceNow AI Platform. For more information about each task, see [Pipelines and Deployments configuration tasks](../reference/p-and-d-config-tasks.md).
+The Pipelines and Deployments guided setup provides a sequence of tasks that help you configure Pipelines and Deployments on the ServiceNow AI Platform. For more information about each task, see [Pipelines and Deployments configuration tasks](p-and-d-config-tasks.md).
 
-Starting with version 28.2.1 of Pipelines and Deployments, you can migrate your existing pipelines to ReleaseOps. To learn more about the migration process and the advantages of migrating to ReleaseOps, see [Migrating App Engine pipelines to ReleaseOps](../../app-engine-management-center/concept/migrating-ae-pipelines-to-releaseops-aemc.md). To get started migrating your existing pipelines, see [Migration tasks](../../app-engine-management-center/concept/migration-tasks-aemc.md).
+Starting with version 28.2.1 of Pipelines and Deployments, you can migrate your existing pipelines to ReleaseOps. To learn more about the migration process and the advantages of migrating to ReleaseOps, see [Migrating App Engine pipelines to ReleaseOps](migrating-ae-pipelines-to-releaseops-aemc.md). To get started migrating your existing pipelines, see [Migration tasks](migration-tasks-aemc.md).
 
 For general information about guided setup, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
@@ -50,13 +50,13 @@ For general information about guided setup, see [Using guided setup](https://raw
     1.  [Configure environment credentials](create-pipeline-credentials.md).
     2.  [Configure your pipeline environments](config-pipeline-environments.md).
     3.  [Configure your pipeline](config-pipeline.md).
-    4.  [Add users to the App Engine Admin group](../../app-engine-studio/task/add-users-to-admin-grp.md).
-    5.  [Add ATF and instance scan suites for testing](../../app-engine-studio/task/add-atf-instance-scan-suite-testing.md).
+    4.  [Add users to the App Engine Admin group](../app-engine-studio/add-users-to-admin-grp.md).
+    5.  [Add ATF and instance scan suites for testing](add-atf-instance-scan-suite-testing.md).
 
         **Note:** You can add ATF and instance scan suites for testing only if you've already created them and set up your testing instance. If you have not done this yet, you must come back to this step.
 
     6.  [Enable Change Management integration](enable-change-management-integration.md).
-    7.  [Configure properties to integrate Change Management](../concept/configure-properties-integrate-cm.md#).
+    7.  [Configure properties to integrate Change Management](configure-properties-integrate-cm.md#).
     When you have completed all of the tasks in this category, the Guided Setup screen reappears.
 
 4.  Select the next **Get Started** button to begin performing configuration tasks on your testing environment.
@@ -64,7 +64,7 @@ For general information about guided setup, see [Using guided setup](https://raw
     1.  [Configure environment credentials](create-pipeline-credentials.md).
     2.  [Configure your controller instance](config-controller-instance.md).
     3.  [Enable Automated Test Framework \(ATF\) properties](enable-atf-properties.md).
-    4.  [Configure Automated Test Framework \(ATF\) suite](../../../administer/auto-test-framework/concept/automated-test-framework.md).
+    4.  [Configure Automated Test Framework \(ATF\) suite](../automated-test-framework-atf/automated-test-framework.md).
     5.  [Configure Instance Scan suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-landing-page.md).
     When you have completed all of the tasks in this category, the Guided Setup screen reappears.
 
@@ -76,6 +76,6 @@ For general information about guided setup, see [Using guided setup](https://raw
 
 6.  Migrate your existing pipelines to ReleaseOps.
 
-    See [Migration tasks](../../app-engine-management-center/concept/migration-tasks-aemc.md) for more information.
+    See [Migration tasks](migration-tasks-aemc.md) for more information.
 
 

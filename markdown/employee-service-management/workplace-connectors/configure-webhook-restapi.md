@@ -136,7 +136,7 @@ Option to select the callback URL icon \(![Callback URL icon.](../images/wsd-cal
         **Note:** Badging data records in the Connector Events table with the state of Processed are purged after two days from the date of creation or the current date by the Connector Events table \[sn\_wsd\_wc\_connector\_events\]. Data in the Error state is purged after seven days from the date of creation. Data in the New state isn’t purged.
 
 
-**Parent Topic:**[Provider connector configuration](../concept/provider-configuration-ovw.md)
+**Parent Topic:**[Provider connector configuration](provider-configuration-ovw.md)
 
 **Previous topic:**[Configure badging table data](provider-configuration-wsd-connectors.md)
 

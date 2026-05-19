@@ -75,7 +75,7 @@ The following infographic depicts a typical day for a regulatory change manageme
 
 -   **[Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)**  
 Starting with GRC: Regulatory Change Management, version 13.0.1, the Regulatory Change Management application is available in Compliance Workspace. Compliance Workspace provides your users with a single-pane view so that they can check upcoming regulatory changes, assess their impact, and implement risk and compliance-related changes for the organization.
--   **[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)**  
+-   **[Differences between regulatory event alert and source document alert](regulatory-event-alert-vs-source-document-alert.md)**  
 A regulatory event alert informs you of a regulatory change, while a source document alert signals the release or update of the related official document.
 -   **[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)**  
 The Regulatory Change Management process flow includes the tasks that different users can perform to help your organization manage and comply with regulatory changes.
@@ -84,5 +84,5 @@ On a regulatory change management case, select **Discuss** from other options. C
 -   **[Exploring Now Assist in Regulatory Change Management \(RCM\)](rcm-exploring-now-assist-for-irm.md)**  
 With Now Assist in Regulatory Change Management, part of the Now Assist for Integrated Risk Management \(IRM\) application, you can use agentic workflows and generative AI skills that streamline the analysis, summarization, and impact assessment of regulatory alerts. These capabilities empower compliance teams to act swiftly and accurately on regulatory changes.
 
-**Parent Topic:**[Regulatory Change Management](../reference/reg-change-mgmt-landing-page.md)
+**Parent Topic:**[Regulatory Change Management](reg-change-mgmt-landing-page.md)
 

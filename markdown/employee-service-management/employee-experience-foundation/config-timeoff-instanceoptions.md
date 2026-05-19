@@ -40,7 +40,7 @@ Role required: sn\_hr\_sp.esc\_admin
     **Note:** The time off information is available only after relogging.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md)
 
 **Related topics**  
 

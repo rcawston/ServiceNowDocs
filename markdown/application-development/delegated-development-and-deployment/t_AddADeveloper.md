@@ -19,7 +19,7 @@ A system administrator can assign a non-administrator user or group as a develop
 
 -   Role required: admin or application administrator
 
-    If [Application administration](../concept/application-administration.md) is enabled, only an application administrator of the target application can delegate developers to an application. If application administration is not enabled, an admin user can delegate developers.
+    If [Application administration](../application-administration.md) is enabled, only an application administrator of the target application can delegate developers to an application. If application administration is not enabled, an admin user can delegate developers.
 
 -   Records required:
     -   Application
@@ -53,7 +53,7 @@ A system administrator can assign a non-administrator user or group as a develop
 
 6.  Select specific developer and deployment permissions for the application, or select **Delegated Admin** to quickly grant access to all permissions for the application.
 
-    For details, see [Developer and deployment permissions](../reference/developer-permissions.md).
+    For details, see [Developer and deployment permissions](developer-permissions.md).
 
 7.  Select **Save**.
 

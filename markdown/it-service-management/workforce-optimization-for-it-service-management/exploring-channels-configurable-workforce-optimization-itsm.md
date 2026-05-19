@@ -32,8 +32,8 @@ Easily find the tasks that you must complete in the Channels module.
 
 |Benefit|Role|Find tasks to complete in Channels|
 |-------|----|----------------------------------|
-|Activate Channels in Workforce Optimization for ITSM.|admin|[Activate Channels](../task/activate-configurable-workforce-optimization-itsm.md)|
-|Refer to the components such as roles, system properties, and reports used in Channels.|[Any Channels role](../reference/configurable-wfo-itsm-channel-management-reference.md)|[Understand components used in Channels in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-channel-management-reference.md)|
-|Set up service channels, queues, and key performance indicators to route work items automatically to agents.|[Channel Management Admin](../reference/configurable-wfo-itsm-channel-management-reference.md)|[Set up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)|
-|Route work items to assigned groups.|[Channel Management User](../reference/configurable-wfo-itsm-channel-management-reference.md)|[Automatically route work items to agents](configurable-channels-workforce-optimization-itsm.md)|
+|Activate Channels in Workforce Optimization for ITSM.|admin|[Activate Channels](activate-configurable-workforce-optimization-itsm.md)|
+|Refer to the components such as roles, system properties, and reports used in Channels.|[Any Channels role](configurable-wfo-itsm-channel-management-reference.md)|[Understand components used in Channels in Workforce Optimization for ITSM](configurable-wfo-itsm-channel-management-reference.md)|
+|Set up service channels, queues, and key performance indicators to route work items automatically to agents.|[Channel Management Admin](configurable-wfo-itsm-channel-management-reference.md)|[Set up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)|
+|Route work items to assigned groups.|[Channel Management User](configurable-wfo-itsm-channel-management-reference.md)|[Automatically route work items to agents](configurable-channels-workforce-optimization-itsm.md)|
 

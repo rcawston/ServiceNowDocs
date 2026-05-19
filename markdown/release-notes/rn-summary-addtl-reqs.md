@@ -45,7 +45,7 @@ Agentic Contact Center for Banking
 
 </td><td>
 
-This application is dependent on Now Assist for Financial Services Operations \(FSO\). For more information, see [Now Assist for Financial Services Operations \(FSO\) release notes](../financial-services-operations/now-assist-for-financial-services-operations-rn.md).
+This application is dependent on Now Assist for Financial Services Operations \(FSO\). For more information, see [Now Assist for Financial Services Operations \(FSO\) release notes](release-notes/now-assist-for-financial-services-operations-rn.md).
 
 </td></tr><tr><td>
 
@@ -222,5 +222,5 @@ Zero Copy Connector for ERP
 SAP ECC and SAP S/4 HANA are currently the only available systems that integrate with Zero Copy Connector for ERP.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

@@ -78,5 +78,5 @@ This task helps you to understand how to execute relevant preconfigured diagnost
 7.  View the service-related records in the **Related records** tab.
 
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](../concept/use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](use-assurance-workflows.md)
 

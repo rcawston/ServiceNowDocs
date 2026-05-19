@@ -46,7 +46,7 @@ Knowledge Graph can now be used as a tool within AI agents. Users can choose Kno
 
 You can define the flow action to use Knowledge Graph as a reusable operation in automating the ServiceNow AI Platform features without having to write code.
 
-See [Add a Knowledge Graph to an AI agent](../../now-assist-ai-agents/task/add-knowledge-graph.md) to add Knowledge Graph to an AI agents in AI Agent Studio.
+See [Add a Knowledge Graph to an AI agent](../add-knowledge-graph.md) to add Knowledge Graph to an AI agents in AI Agent Studio.
 
 Example use case:
 

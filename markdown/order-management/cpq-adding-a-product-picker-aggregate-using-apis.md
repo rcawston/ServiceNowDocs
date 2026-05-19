@@ -63,7 +63,7 @@ In the UI, refresh the page to see the added aggregate.
 **Related topics**  
 
 
-[Product picker aggregates](../concept/product-picker-aggregates.md)
+[Product picker aggregates](product-picker-aggregates.md)
 
-[Product pickers](../concept/product_picker_overview.md)
+[Product pickers](product_picker_overview.md)
 

@@ -17,7 +17,7 @@ Create a duplicate of a demo UI interaction example to work with a separate, edi
 
 ## Before you begin
 
-Demo data is available after loading it once from the demo data plugin \(sn-interaction-builder\). For instructions, see [Working with UI interaction demo data](../concept/working-with-demo-interactions.md).
+Demo data is available after loading it once from the demo data plugin \(sn-interaction-builder\). For instructions, see [Working with UI interaction demo data](working-with-demo-interactions.md).
 
 Role required: ui\_builder\_admin
 
@@ -69,5 +69,5 @@ To use your duplicated interaction, trigger it using one of these methods:
 -   From declarative action: Corresponding declarative actions are inactive by default and must be enabled to test.
 -   From UI Builder page event. See [Trigger a UI interaction from a page event](trigger-ui-interaction-from-page-event.md).
 
-**Parent Topic:**[Working with UI interaction demo data](../concept/working-with-demo-interactions.md)
+**Parent Topic:**[Working with UI interaction demo data](working-with-demo-interactions.md)
 

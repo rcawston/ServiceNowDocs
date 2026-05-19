@@ -17,13 +17,13 @@ Resource Management reports provide the resource requester and resource managers
 
 **Important:** Resource Management reports is deprecated starting Zurich release. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](../../resource-management-workspace/concept/using-rmw.md#section_v4k_rtg_1fc).
+Alternatively, resource managers are encouraged to use the interactive Overview Dashboard in the Resource Management Workspace. For more information about dashboards, see [Overview dashboard in Resource Management Workspace](using-rmw.md#section_v4k_rtg_1fc).
 
 You can generate reports for the following types of information:
 
 -   **Availability**
 
-    Total time that the resources are available after both [Soft and hard allocations](../reference/r_AllocatingResources.md#booking_typ). Availability is capacity minus allocation. ![A group availability report](../image/group_availability_report1.png)
+    Total time that the resources are available after both [Soft and hard allocations](r_AllocatingResources.md#booking_typ). Availability is capacity minus allocation. ![A group availability report](../image/group_availability_report1.png)
 
 -   **Forecasted Utilization**
 
@@ -46,9 +46,9 @@ You can generate reports for the following types of information:
     ![Allocation details](../image/group_member_allocation_details1.png)
 
 
--   **[View availability, utilization, and allocation reports](../task/t_GenAvailUtilAllocationReport.md)**  
+-   **[View availability, utilization, and allocation reports](t_GenAvailUtilAllocationReport.md)**  
 You can view resource reports that focus on resource availability, utilization, and allocations.
--   **[Edit a resource management report](../task/ReportsNew.md)**  
+-   **[Edit a resource management report](ReportsNew.md)**  
 Resource management reports show resource allocation details in different formats for different time periods. Configure and use these reports according to your business requirements.
 
 **Parent Topic:**[Resource Management classic](c_ResourceManagement.md)

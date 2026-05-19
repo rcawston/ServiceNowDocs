@@ -55,12 +55,12 @@ Follow these steps to confirm the installation of the Now Assist Center plugin.
 
 The application is installed and available to the appropriate user roles.
 
-**Parent Topic:**[Configuring Now Assist Center](../concept/configuring-now-assist-center.md)
+**Parent Topic:**[Configuring Now Assist Center](configuring-now-assist-center.md)
 
 **Related topics**  
 
 
 [Enable the Now Assist panel](now-assist-center-enable-now-assist-panel.md)
 
-[Set up automation discovery in Now Assist Center](../concept/now-assist-center-automation-discovery-setup.md)
+[Set up automation discovery in Now Assist Center](now-assist-center-automation-discovery-setup.md)
 

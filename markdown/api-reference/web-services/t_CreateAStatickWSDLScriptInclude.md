@@ -36,8 +36,8 @@ By implementing the majority of the custom functionality in a script include, yo
 5.  Click **Submit**.
 
 
--   **[Static WSDL script include example](../reference/r_StaticWSDLScriptInclude.md)**  
+-   **[Static WSDL script include example](r_StaticWSDLScriptInclude.md)**  
 This example demonstrates the FakeStockValue script include that implements much of the static WSDL behavior.
 
-**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](../reference/createSOAPwebserviceStaticWSDL.md)
+**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](createSOAPwebserviceStaticWSDL.md)
 

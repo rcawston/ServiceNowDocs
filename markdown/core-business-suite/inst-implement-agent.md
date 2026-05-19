@@ -56,5 +56,5 @@ Role required: admin
 
 Set up the Core Business Suite. For more information, see [Install Core Business Suite Foundation](set-up-cbs.md).
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
 

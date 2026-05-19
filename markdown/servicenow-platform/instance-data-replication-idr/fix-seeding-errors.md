@@ -47,5 +47,5 @@ Do not retry full seeding if you exceed any of the following limitations:
     -   Retry seeding for all errors by selecting **Retry All Errors**.
     -   Retry seeding for specific errors by selecting the check box next to each error and then selecting **Retry Selected Errors**.
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

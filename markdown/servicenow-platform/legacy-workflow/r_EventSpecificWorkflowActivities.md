@@ -80,7 +80,7 @@ On the notification thread, outside of workflow
 
 </td></tr><tr><td>
 
-[Wait for WF Event](../../workflow-activities/reference/r_WaitForWFEvent.md)
+[Wait for WF Event](../workflow-activities/r_WaitForWFEvent.md)
 
 </td><td>
 

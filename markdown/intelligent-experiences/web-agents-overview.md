@@ -52,9 +52,9 @@ Adaptive path desktop actions are designed for all users who perform tasks acros
 3.  For adaptive paths, describe the high-level goal in the tool configuration \(no design work in AI Desktop Actions is required.\)
 4.  Configure permissions and browser extension settings
 
-**Note:** End-users must download and install a Google Chrome browser extension locally, and configure it to connect to a target ServiceNow instance. For more information, see [Install the Google Chrome extension for adaptive desktop actions](../task/na-ai-wa-install-browser-extension.md).
+**Note:** End-users must download and install a Google Chrome browser extension locally, and configure it to connect to a target ServiceNow instance. For more information, see [Install the Google Chrome extension for adaptive desktop actions](na-ai-wa-install-browser-extension.md).
 
-On the ServiceNow instance, an admin must configure at least one agentic workflow that involves an AI agent. For more information, see [Create an agentic workflow for automating web tasks](../task/na-ai-wa-configure-workflow.md).
+On the ServiceNow instance, an admin must configure at least one agentic workflow that involves an AI agent. For more information, see [Create an agentic workflow for automating web tasks](na-ai-wa-configure-workflow.md).
 
 ## Operating desktop actions
 
@@ -89,7 +89,7 @@ ServiceNow AI Desktop Actions rely on “computer use,” a beta technology prov
 **Related topics**  
 
 
-[Configure AI Desktop Actions](../task/configure-agentic-desktop.md)
+[Configure AI Desktop Actions](configure-agentic-desktop.md)
 
 [Creating AI agents for AI Desktop Actions](create-ai-agents-ad.md)
 

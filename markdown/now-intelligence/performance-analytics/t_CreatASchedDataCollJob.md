@@ -198,7 +198,7 @@ The `com.snc.pa.dc.script.use.sandbox` system property controls whether data col
     -   The data collection job produces one database query for each indicator source for the associated indicators. Thus the data for all indicators that share an indicator source represent the same point in time.
 9.  If you have enabled domain configurations, you can select a domain configuration to associate with this job in the **Domain configurations** related list.
 
-    Domain configurations are grouping of domains based on their visibility to a user group or other condition. These groupings can include parent-child relationships. If you select a domain configuration for a job, the job collects scores for records in the domains of the configuration, including the global domain. Domain configurations override the **Run as** user. For more information, see [Grouping domains in Performance Analytics domain configurations](../concept/pa-domain-separation-msp.md).
+    Domain configurations are grouping of domains based on their visibility to a user group or other condition. These groupings can include parent-child relationships. If you select a domain configuration for a job, the job collects scores for records in the domains of the configuration, including the global domain. Domain configurations override the **Run as** user. For more information, see [Grouping domains in Performance Analytics domain configurations](pa-domain-separation-msp.md).
 
 10. Click **Submit**.
 
@@ -208,5 +208,5 @@ The `com.snc.pa.dc.script.use.sandbox` system property controls whether data col
 -   By default, for each job indicator, data is collected for all breakdowns and the indicator itself. To change this configuration for an indicator, see [Configure a job indicator](configure-job-indicator.md).
 -   If you have enabled domain support, you have a related list named **Domain configuration**. In this tab, click **Edit** to relate an existing domain configuration with this job or click **New** to create a new domain configuration. For more information, see [Create a domain configuration](create-domain-configuration.md).
 
-**Parent Topic:**[Collecting indicator scores](../concept/c_ClctData.md)
+**Parent Topic:**[Collecting indicator scores](c_ClctData.md)
 

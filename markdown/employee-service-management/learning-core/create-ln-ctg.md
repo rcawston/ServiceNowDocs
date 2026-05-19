@@ -27,7 +27,7 @@ Role required: sn\_lc.catalog\_manager, sn\_lc.catalog\_group\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning library form](../reference/learning-library-form.md).
+    For a description of the field values, see [Learning library form](learning-library-form.md).
 
 4.  Click **Submit**.
 
@@ -52,7 +52,7 @@ You can add applicable users to a learning library.
 
 [Create a learning task](ln-task-le.md)
 
-[Learning library form](../reference/learning-library-form.md)
+[Learning library form](learning-library-form.md)
 
 [Add course items to learning library](add-courses-to-library.md)
 

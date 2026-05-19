@@ -146,12 +146,12 @@ HRSD Workday Languages Spoken
 Maps languages spoken from the Staging table \[sn\_hr\_workday\_languages\_spoken\_staging\] to the Workday Languages Spoken table \[sn\_employee\_languages\_spoken\].
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using HR Service Delivery Integration with Workday](../concept/config-hrsd-int-workday.md)
+</table>**Parent Topic:**[Using HR Service Delivery Integration with Workday](config-hrsd-int-workday.md)
 
 **Related topics**  
 
 
-[View job tracker details from Workday](../task/w-job-tracker.md)
+[View job tracker details from Workday](w-job-tracker.md)
 
-[View tasks from Workday](../task/view-to-dos-wd.md)
+[View tasks from Workday](view-to-dos-wd.md)
 

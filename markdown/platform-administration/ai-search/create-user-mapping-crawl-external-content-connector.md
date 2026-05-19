@@ -92,5 +92,5 @@ You can monitor your user permission crawl's status or review its results using 
 
 If you need to cancel your running user permission crawl, see [Cancel a running external content connector crawl](cancel-ext-cont-connector-crawl.md).
 
-**Parent Topic:**[Crawling content with External Content Connectors](../concept/using-ext-cont-connectors.md)
+**Parent Topic:**[Crawling content with External Content Connectors](using-ext-cont-connectors.md)
 

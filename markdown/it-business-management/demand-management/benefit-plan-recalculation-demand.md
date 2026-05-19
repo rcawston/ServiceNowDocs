@@ -43,5 +43,5 @@ Updating the entered currency, entered benefit, offset type, or the fiscal perio
     -   The **Benefit in demand currency** of the benefit plan is recalculated in demand currency.
     -   The value in the **Financial benefit in demand currency** field of the demand is recalculated.
 
-**Parent Topic:**[Enable demand currency view](../task/enable-multicurrency-demand.md)
+**Parent Topic:**[Enable demand currency view](enable-multicurrency-demand.md)
 

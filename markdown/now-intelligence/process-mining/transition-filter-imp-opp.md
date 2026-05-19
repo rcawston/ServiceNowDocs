@@ -90,5 +90,5 @@ Role required:
     The improvement opportunity is created and added to your process configuration, project, or both according to your preference.
 
 
-**Parent Topic:**[Setting improvement opportunity for projects](../concept/project-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunity for projects](project-imp-opp.md)
 

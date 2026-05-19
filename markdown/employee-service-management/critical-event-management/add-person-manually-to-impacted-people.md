@@ -33,14 +33,14 @@ Role required: sn\_critical.agent
 
 6.  Select the status of the person.
 
-    For details on impacted people status, see [Impacted people status](../reference/impacted-people-status.md).
+    For details on impacted people status, see [Impacted people status](impacted-people-status.md).
 
 7.  Enter any relevant notes.
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

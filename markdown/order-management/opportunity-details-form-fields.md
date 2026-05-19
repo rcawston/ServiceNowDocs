@@ -425,5 +425,5 @@ The customer's preferred mode of communication:-   Do Not Call
 |Created|Displays the date and time when the opportunity record was created in the system. This value is system‑generated and cannot be edited.|
 |Work Notes|Internal notes used to capture additional information, updates, or context related to the opportunity. Work notes are intended for internal use and are not visible to customers.|
 
-**Parent Topic:**[Opportunity Management reference](../concept/opportunity-management-reference.md)
+**Parent Topic:**[Opportunity Management reference](opportunity-management-reference.md)
 

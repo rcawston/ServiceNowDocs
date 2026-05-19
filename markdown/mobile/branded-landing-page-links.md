@@ -23,7 +23,7 @@ Trusted links are ServiceNow supported links, which must contain one of the foll
 -   A URL path ending with `*.service-now.com`
 -   Domain and sub-domains of the branded landing page.
 
-When using these path types, a dialog box does not display. These trusted links can be general hyperlinks to another web page within the trusted domains or mobile deep links. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+When using these path types, a dialog box does not display. These trusted links can be general hyperlinks to another web page within the trusted domains or mobile deep links. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 
 ## Untrusted links
 

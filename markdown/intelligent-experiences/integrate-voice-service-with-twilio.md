@@ -55,7 +55,7 @@ Provider application
 
 </td><td>
 
-The provider application acts as a bridge between Twilio voice service and ServiceNow AI voice assistant.Select **AI Voice Agent Provider Application**, which is preconfigured in the base system. If you want to use an existing provider application or create a new provider application, be sure to update the existing configuration according to the values mentioned in [Configuration for custom AI voice agent provider](../reference/voice-agent-reference.md#section_ip2_fpw_jgc) before proceeding further.
+The provider application acts as a bridge between Twilio voice service and ServiceNow AI voice assistant.Select **AI Voice Agent Provider Application**, which is preconfigured in the base system. If you want to use an existing provider application or create a new provider application, be sure to update the existing configuration according to the values mentioned in [Configuration for custom AI voice agent provider](voice-agent-reference.md#section_ip2_fpw_jgc) before proceeding further.
 
 </td></tr><tr><td>
 

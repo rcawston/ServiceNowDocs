@@ -52,7 +52,7 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 9.  Click **Save** if you are creating a threshold or **Update** if you are modifying a threshold.
 
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
 
 **Related topics**  
 
@@ -65,5 +65,5 @@ Role required: Any role for your own personal thresholds. The pa\_threshold\_adm
 
 [Add a target to multiple breakdown elements in KPI Details](add-multiple-targets.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](responsibiity-targets-kpi-details.md#)
 

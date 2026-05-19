@@ -57,8 +57,8 @@ Description
 3.  Select **New**.
 4.  Select the benefit type as monetary or non-monetary benefits.
 5.  On the Create New Benefit Plan form, fill the fields.
-    -   For monetary benefit plans, see [Monetary benefit plan form](../reference/monetary-benefit-plan-form-dw.md).
-    -   For non-monetary benefit plans, see [Non-monetary benefit plan form](../reference/non-monetary-benefit-plan-form-dw.md).
+    -   For monetary benefit plans, see [Monetary benefit plan form](monetary-benefit-plan-form-dw.md).
+    -   For non-monetary benefit plans, see [Non-monetary benefit plan form](non-monetary-benefit-plan-form-dw.md).
 6.  Select **Save**.
 
 
@@ -91,8 +91,8 @@ Description
 4.  Select the benefit plan breakdowns tab.
 5.  Select a benefit plan breakdown record.
     -   To edit a benefit plan breakdown period, edit the details and select **Save**.
-        -   For monetary benefit plan breakdowns, see [Monetary benefit breakdown form](../reference/monetary-benefit-breakdown-form-dw.md).
-        -   For non-monetary benefit plans, see [Non-monetary benefit plan breakdown form](../reference/non-monetary-benefit-plan-breakdown-form-dw.md).
+        -   For monetary benefit plan breakdowns, see [Monetary benefit breakdown form](monetary-benefit-breakdown-form-dw.md).
+        -   For non-monetary benefit plans, see [Non-monetary benefit plan breakdown form](non-monetary-benefit-plan-breakdown-form-dw.md).
     -   To delete a benefit plan breakdown record, select **Delete** from the More Actions option in the benefit plan breakdown form.
  **Note:** Alternatively, you can view and manage benefit plan breakdowns from the **Define benefit estimates** playbook activity.
 
@@ -110,8 +110,8 @@ Description
 3.  Select the name of the benefit plan.
 4.  Select the benefit plan breakdowns tab.
 5.  Select **New**.
-    -   For monetary benefit plan breakdowns, see [Monetary benefit breakdown form](../reference/monetary-benefit-breakdown-form-dw.md).
-    -   For non-monetary benefit plans, see [Non-monetary benefit plan breakdown form](../reference/non-monetary-benefit-plan-breakdown-form-dw.md).
+    -   For monetary benefit plan breakdowns, see [Monetary benefit breakdown form](monetary-benefit-breakdown-form-dw.md).
+    -   For non-monetary benefit plans, see [Non-monetary benefit plan breakdown form](non-monetary-benefit-plan-breakdown-form-dw.md).
  **Note:** Alternatively, you can create a benefit plan breakdown from the **Define benefit estimates** playbook activity.
 
 </td></tr><tr><td id="d79983e400">
@@ -131,7 +131,7 @@ Delete a benefit plan in one of the following ways:1.  Select **Details** from t
 **Note:** Alternatively, you can delete a benefit plan from the **Define benefit estimates** playbook activity.
 
 </td></tr></tbody>
-</table>    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](../../project-management/reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
+</table>    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](../project-management/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
 
 
 **Related topics**  
@@ -139,15 +139,15 @@ Delete a benefit plan in one of the following ways:1.  Select **Details** from t
 
 [Use Playbooks](use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages.md)
 
 [Associate monetary and non-monetary benefit plans](associate-benefit-plans-dw.md)
 
-[Monetary benefit plan form](../reference/monetary-benefit-plan-form-dw.md)
+[Monetary benefit plan form](monetary-benefit-plan-form-dw.md)
 
-[Monetary benefit breakdown form](../reference/monetary-benefit-breakdown-form-dw.md)
+[Monetary benefit breakdown form](monetary-benefit-breakdown-form-dw.md)
 
-[Non-monetary benefit plan form](../reference/non-monetary-benefit-plan-form-dw.md)
+[Non-monetary benefit plan form](non-monetary-benefit-plan-form-dw.md)
 
-[Non-monetary benefit plan breakdown form](../reference/non-monetary-benefit-plan-breakdown-form-dw.md)
+[Non-monetary benefit plan breakdown form](non-monetary-benefit-plan-breakdown-form-dw.md)
 

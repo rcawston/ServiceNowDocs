@@ -17,7 +17,7 @@ After you configure a mobile theme that reflects your company identity, you can 
 
 Role required: admin
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](explore-ne-theming.md).
 
 ## Procedure
 

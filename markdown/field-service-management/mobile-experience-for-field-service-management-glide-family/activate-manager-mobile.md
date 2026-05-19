@@ -19,7 +19,7 @@ Activate the Field Service Manager Mobile app to let managers effectively manage
 
 Role required: admin
 
-For more information on how Field Service Manager Mobile works, see [Field Service Manager Mobile](../concept/manager-mobile-app.md).
+For more information on how Field Service Manager Mobile works, see [Field Service Manager Mobile](../work-order-management/manager-mobile-app.md).
 
 ## Procedure
 

@@ -35,7 +35,7 @@ When building low-code apps, you can customize them, create reports on their usa
 
 </td><td>
 
-[Get help ![](../image/icon-core.png) Find resources to help you with the ServiceNow platform.](../concept/developer_navigation_table.md)
+[Get help ![](../image/icon-core.png) Find resources to help you with the ServiceNow platform.](developer_navigation_table.md)
 
 </td></tr></tbody>
 </table>

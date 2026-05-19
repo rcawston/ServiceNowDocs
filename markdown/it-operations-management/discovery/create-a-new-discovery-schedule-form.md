@@ -15,7 +15,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 The Create a new discovery schedule form displays information related to the schedule and the target cloud provider. The Create a new discovery schedule form is available in the Cloud Discovery Workspace.
 
-For instructions on this procedure, see [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md).
+For instructions on this procedure, see [Create a discovery schedule in Cloud Discovery Workspace](cloud-operations-disco-create-schedule.md).
 
 <table id="id_uym_wnr_gwb"><thead><tr><th>
 

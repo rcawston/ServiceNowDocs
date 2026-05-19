@@ -90,13 +90,13 @@ Stops tracking the following events:-   OnSessionLock
 </td></tr></tbody>
 </table>You must first use and then expose the methods in the SystemEvents connector to use its methods.
 
--   To use the connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
--   **[SystemEvents connector methods](../reference/connectors-systemevents-methods.md)**  
+-   **[SystemEvents connector methods](connectors-systemevents-methods.md)**  
 The SystemEvents connector methods watch various system events and, if needed, stop watching.
--   **[Parameters of the SystemEvent connector methods](../reference/parameters-systemevents-methods.md)**  
+-   **[Parameters of the SystemEvent connector methods](parameters-systemevents-methods.md)**  
 Learn about the various parameters of the SystemEvent connector methods in RPA Desktop Design Studio.
 
 **Parent Topic:**[Connectors](connectors.md)

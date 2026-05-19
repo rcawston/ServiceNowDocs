@@ -15,7 +15,7 @@ Build a custom application to meet the business needs of your organization. Choo
 
 <table id="table_y5t_rg5_gbc" class="nav-card"><tbody><tr><td>
 
-[Vibe coding and AI app development ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Expedite app development, enhance custom applications with AI, and vibe code using the generative and agentic AI capabilities available on the ServiceNow AI Platform.](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md)
+[Vibe coding and AI app development ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Expedite app development, enhance custom applications with AI, and vibe code using the generative and agentic AI capabilities available on the ServiceNow AI Platform.](application-development/use-ai-capabilities-in-custom-apps.md)
 
 </td><td>
 
@@ -23,15 +23,15 @@ Build a custom application to meet the business needs of your organization. Choo
 
 </td><td>
 
-[Build low-code applications with App Engine ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Accelerate innovation with more creators and less complexity. Empower developers of all skill levels to build applications at scale.](../reference/building-low-code-applications-with-app-engine.md)
+[Build low-code applications with App Engine ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Accelerate innovation with more creators and less complexity. Empower developers of all skill levels to build applications at scale.](building-low-code-applications-with-app-engine.md)
 
 </td></tr><tr><td>
 
-[Build applications with ServiceNow Studio ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Empower developers with a modern, unified environment for building on the ServiceNow AI Platform using integrated builders and tools.](../../servicenow-studio/concept/servicenow-studio-landing.md)
+[Build applications with ServiceNow Studio ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Empower developers with a modern, unified environment for building on the ServiceNow AI Platform using integrated builders and tools.](servicenow-studio-classic/servicenow-studio-landing.md)
 
 </td><td>
 
-[Build pro-code applications ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Extend or maintain existing applications and user experiences. Connect applications and data across the enterprise.](../reference/building-pro-code-applications.md)
+[Build pro-code applications ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Extend or maintain existing applications and user experiences. Connect applications and data across the enterprise.](building-pro-code-applications.md)
 
 </td><td>
 
@@ -64,7 +64,7 @@ Process owners, line of business owners
 
 </td><td>
 
-Build request-fulfillment apps without writing code. For example, create an application to request office supplies: a user fills out a form, and an approver accepts or denies the request. For more information, see [Exploring Creator Studio](../../creator-studio/concept/exploring-creator-studio.md).
+Build request-fulfillment apps without writing code. For example, create an application to request office supplies: a user fills out a form, and an approver accepts or denies the request. For more information, see [Exploring Creator Studio](creator-studio/exploring-creator-studio.md).
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Citizen developers
 
 </td><td>
 
-Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](../../app-engine-studio/concept/exploring-aes.md).
+Build a broader range of apps than Creator Studio without writing code.For more information, see [Exploring App Engine Studio](app-engine-studio/exploring-aes.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Citizen developers, Platform developers
 
 Build apps in a unified development environment.ServiceNow Studio provides streamlined navigation, integrated low-code tools, and built-in tracking and packaging so you can develop and ship apps faster. Use Build Agent in ServiceNow Studio to create and update apps with a conversational interaction.
 
-For more information, see [Exploring ServiceNow Studio](../../servicenow-studio/concept/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
+For more information, see [Exploring ServiceNow Studio](servicenow-studio-classic/exploring-servicenow-studio.md)and [Build Agent in ServiceNow Studio](servicenow-studio-classic/build-agent-in-servicenow-studio.md).
 
 </td></tr><tr><td>
 
@@ -107,15 +107,15 @@ Develop applications in source code with ServiceNow Fluent, create JavaScript mo
 </td></tr></tbody>
 </table>## Vibe coding and AI app development on the ServiceNow AI Platform
 
--   **[Vibe code full-stack applications with Build Agent](../../build-agent/concept/build-agent.md)**
+-   **[Vibe code full-stack applications with Build Agent](build-agent.md)**
 
     Vibe code on the ServiceNow AI Platform with Build Agent, an autonomous AI agent available with Now Assist for Creator. Describe what you need through back and forth conversations with Build Agent, and Build Agent automatically builds the application, including audit trails, security, and compliance.
 
--   **[Generate apps in ServiceNow Studio](../../now-assist-app-gen/task/sns-app-gen-using-landing.md)**
+-   **[Generate apps in ServiceNow Studio](now-assist-for-creator/sns-app-gen-using-landing.md)**
 
     Use the app generation skill available with Now Assist for Creator to generate an application in ServiceNow Studio. Describe the app that you want to create and continue the conversation to refine and edit the app further.
 
--   **[Leverage AI assets in custom apps at runtime with Now Assist for App Engine](../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md)**
+-   **[Leverage AI assets in custom apps at runtime with Now Assist for App Engine](now-assist-for-app-engine/use-now-assist-for-app-engine-enterprise.md)**
 
     Enhance App Engine applications with AI agents, skill, and agentic workflows that users can leverage at runtime with Now Assist for App Engine.
 
@@ -126,7 +126,7 @@ Develop applications in source code with ServiceNow Fluent, create JavaScript mo
 
 ## Build no-code applications with Creator Studio
 
--   **[Create applications without coding](../../creator-studio/concept/creator-studio-landing.md)**
+-   **[Create applications without coding](creator-studio/creator-studio-landing.md)**
 
     Build request-fulfill applications in a simple environment, without using code, in Creator Studio.
 
@@ -135,11 +135,11 @@ Develop applications in source code with ServiceNow Fluent, create JavaScript mo
 
 Build low-code apps quickly, with more creators and less complexity. Safely scale cross-enterprise experiences that users want.
 
--   **[Empower creators](../../app-engine-studio/task/use-app-template.md)**
+-   **[Empower creators](app-engine-studio/use-app-template.md)**
 
     Bring creator workflow apps to production quickly for mission-critical tasks. Design with guidance and templates that are all within a holistic low-code dev experience​.
 
--   **[Scale low-code development](../../app-engine-studio/task/manage-collaboration-requests.md)**
+-   **[Scale low-code development](app-engine-management-center/manage-collaboration-requests.md)**
 
     Empower business and IT to collaborate, manage, and govern low-code app development.​  Set development guardrails, apply standards, and check for compliance, all in one place.
 
@@ -152,19 +152,19 @@ Build low-code apps quickly, with more creators and less complexity. Safely scal
 
 Build apps smarter and deliver them faster with the new ServiceNow Studio. ServiceNow Studio empowers platform developers with a modern, unified environment for building on the ServiceNow AI Platform. ServiceNow Studio features streamlined navigation to applications and metadata, integrated low-code tools, efficient tracking and packaging of development work that accelerates development processes and enhances productivity.
 
--   **[ServiceNow Studio quick start](../../servicenow-studio/concept/servicenow-studio-quick-start.md)**
+-   **[ServiceNow Studio quick start](servicenow-studio-classic/servicenow-studio-quick-start.md)**
 
     Quickly familiarize yourself with new features in ServiceNow Studio.
 
--   **[Build applications](../../servicenow-studio/task/create-an-application-in-servicenow-studio.md#)**
+-   **[Build applications](servicenow-studio-classic/create-an-application-in-servicenow-studio.md#)**
 
     Admins can easily build custom or global apps using a guided experience and integrated builders.
 
--   **[Deploy applications](../../servicenow-studio/concept/working-with-update-sets-in-servicenow-studio.md)**
+-   **[Deploy applications](servicenow-studio-classic/working-with-update-sets-in-servicenow-studio.md)**
 
     Deploy your applications seamlessly using update sets, pipelines, or the Application Repository.
 
--   **[ServiceNow Studio Navigator panel taxonomy](../../servicenow-studio/reference/servicenow-studio-file-navigator-taxonomy.md)**
+-   **[ServiceNow Studio Navigator panel taxonomy](servicenow-studio-classic/servicenow-studio-file-navigator-taxonomy.md)**
 
     Learn more about each type of file you can add to applications in ServiceNow Studio.
 
@@ -173,7 +173,7 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
 
 Build and deploy apps with fine-grained control. Debug code, manage source control, and publish your apps from a central hub.
 
--   **[Build your apps faster](../reference/building-pro-code-applications.md)**
+-   **[Build your apps faster](building-pro-code-applications.md)**
 
     Get all your work done in one place, accelerating the process from coding to deployment.
 
@@ -181,11 +181,11 @@ Build and deploy apps with fine-grained control. Debug code, manage source contr
 
     Write code that defines application metadata in an integrated development environment.
 
--   **[Manage your source](../../applications/concept/c_SourceControlIntegration.md)**
+-   **[Manage your source](servicenow-studio-classic/c_SourceControlIntegration.md)**
 
     Commit, branch, and merge to your Git repository with integrated source control.
 
--   **[Work as a team](../../team-development/reference/team-development-landing.md)**
+-   **[Work as a team](team-development/team-development-landing.md)**
 
     Provide individual developer access to specific application resources for better collaboration.
 

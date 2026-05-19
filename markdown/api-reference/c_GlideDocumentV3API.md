@@ -17,7 +17,7 @@ The GlideDocument API provides methods to search a Document Object Model \(DOM\)
 
 You can use this API in client-side scripts using ListV2 and ListV3 APIs. The GlideDocument APIs are accessed using the `g_document` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideDocument - getElement\(String selector, Element context\)
 

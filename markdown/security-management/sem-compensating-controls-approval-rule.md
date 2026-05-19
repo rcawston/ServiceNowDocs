@@ -94,5 +94,5 @@ Questionnaire
 Questionnaire that appears when a remediation owner is requesting an exception, false positive or risk reduction.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](../concept/sem-smart-assessment-exp-management.md)
+</table>**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](sem-smart-assessment-exp-management.md)
 

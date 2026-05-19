@@ -28,7 +28,7 @@ Role required: sn\_gf.goal\_user\_read
 4.  Select **Goals**.
 
 
-**Parent Topic:**[Manage goals](../../concept/eaw-concept/eaw-manage-goals.md)
+**Parent Topic:**[Manage goals](eaw-manage-goals.md)
 
 **Related topics**  
 

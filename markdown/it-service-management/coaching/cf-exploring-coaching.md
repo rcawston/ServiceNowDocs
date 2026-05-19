@@ -100,7 +100,7 @@ Grants administrative rights to create, read, or update learning libraries based
 
 The image shows a high-level workflow on how coaching admins set up Coaching, and how managers and agents use Coaching.
 
-**Note:** You can use Predictive Intelligence when you use Coaching with [Workforce Optimization for ITSM](../../configurable-workforce-optimization-itsm/reference/workforce-optimization-itsm-landing-page.md).
+**Note:** You can use Predictive Intelligence when you use Coaching with [Workforce Optimization for ITSM](../workforce-optimization-for-it-service-management/workforce-optimization-itsm-landing-page.md).
 
 ![Coaching workflow](../../coaching/image/coaching-workflow.png "Assessing and training agents with Coaching with Learning")
 
@@ -172,5 +172,5 @@ To learn more about configuring and using Coaching, see:
 -   [About Coaching](cf-coaching-overview.md)
 -   [Setting up Coaching and surveys](cf-setting-up-coaching.md)
 -   [Managing your coaching assessments](cf-getting-coached.md)
--   [Coaching reference](../reference/cf-coaching-reference.md)
+-   [Coaching reference](cf-coaching-reference.md)
 

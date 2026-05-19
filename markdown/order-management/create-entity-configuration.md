@@ -25,7 +25,7 @@ Role required: admin
 
 3.  On the form, in the **Name** field, enter the entity name and in the **Config ID** field, enter the entity ID.
 
-    For a description of the field values, see [Entity configuration and mapping](../reference/entity-configuration-and-mapping.md).
+    For a description of the field values, see [Entity configuration and mapping](entity-configuration-and-mapping.md).
 
 4.  Select **Submit**.
 
@@ -35,7 +35,7 @@ Role required: admin
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Entity configuration and mapping](../reference/entity-configuration-and-mapping.md).
+    For a description of the field values, see [Entity configuration and mapping](entity-configuration-and-mapping.md).
 
 7.  Select **Submit**.
 
@@ -43,7 +43,7 @@ Role required: admin
 
 9.  On the form, fill in the fields.
 
-    For a description of the field values, see [Entity configuration and mapping](../reference/entity-configuration-and-mapping.md).
+    For a description of the field values, see [Entity configuration and mapping](entity-configuration-and-mapping.md).
 
 10. Select **Submit**.
 

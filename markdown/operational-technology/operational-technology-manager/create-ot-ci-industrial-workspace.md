@@ -103,5 +103,5 @@ The top-level parent entity, or industrial site, where the device is located or 
 </table>9.  Select **Save**.
 
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 

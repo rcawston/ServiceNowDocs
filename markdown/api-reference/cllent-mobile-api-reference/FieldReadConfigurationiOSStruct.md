@@ -61,7 +61,7 @@ List of the types of fields to return.Possible values:
 -   rawValue: Returns the raw value of the parameter.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## FieldReadConfiguration - init\(includeFields: \[FieldName\] = \[\], options: Options = \[\]\)
 

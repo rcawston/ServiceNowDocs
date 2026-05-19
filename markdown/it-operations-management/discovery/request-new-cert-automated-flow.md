@@ -37,7 +37,7 @@ Certificate requester is a user who does not have the PKI Admin or PKI User role
 
 4.  Fill in or choose additional information on the form, and then click **Submit** to proceed with the order.
 
-    The Routing Policy \[sn\_disco\_certmgmt\_routing\_policy\] table helps to fetch the CA routing policy ID. If a single routing policy ID is not returned, then the approver must select the routing policy and approve the task. For more information, see [Approve certificate tasks](../concept/automated-cert-requests.md).
+    The Routing Policy \[sn\_disco\_certmgmt\_routing\_policy\] table helps to fetch the CA routing policy ID. If a single routing policy ID is not returned, then the approver must select the routing policy and approve the task. For more information, see [Approve certificate tasks](automated-cert-requests.md).
 
     This creates a New Certificate Task which then triggers the automated flow. In the routing policy, if Approval Required field was checked, the task requires approval before the automated flow begins.
 

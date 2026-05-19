@@ -35,7 +35,7 @@ Risk criteria thresholds define a high/likely or low/unlikely score as shown:
 
 ## Assessment types
 
-Risk managers can create a new set of questions for each risk assessment. See [Create an assessment type](../task/create-assessment-type.md).
+Risk managers can create a new set of questions for each risk assessment. See [Create an assessment type](create-assessment-type.md).
 
 **Parent Topic:**[Risk Management detailed setup](setup-risk-management.md)
 

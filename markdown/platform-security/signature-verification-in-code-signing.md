@@ -24,5 +24,5 @@ With the Australia release, there's enhanced support for verifying multiple sign
 
 Verification succeeds if any certificate group contains a valid latest signature. This improvement ensures that a valid signature from one certificate isn’t overlooked simply because a newer signature from another certificate is invalid. This approach helps avoid failures after upgrades and helps recognize all valid signatures from any trusted source.
 
-**Parent Topic:**[Using Code Signing](../../encryption/concept/using-code-signing.md)
+**Parent Topic:**[Using Code Signing](using-code-signing.md)
 

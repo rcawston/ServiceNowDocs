@@ -81,7 +81,7 @@ In the Workplace Reservation \(sn\_wsd\_rsv\_reservation\) table, Columns relate
 -   The columns in the table are created to only store the data.
 -   The **Max length** field is considered to save the data with **Max length**.
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
@@ -90,11 +90,11 @@ In the Workplace Reservation \(sn\_wsd\_rsv\_reservation\) table, Columns relate
 
 [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 [Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
 
 [Mobile push notifications for workplace reservations](reservation-push-notifications.md)
 

@@ -34,5 +34,5 @@ Role required: admin
     The invited member's picture displays.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

@@ -90,9 +90,9 @@ In automatic dial, the call automatically gets dialed after the countdown timer 
 </td></tr></tbody>
 </table>In the agent-first mode, the callback interaction page appears with Callback actions component and Callback context card when you accept the callback request in your inbox. In this mode, you can view the callback context card to get the callback request details before making the call. In the customer-first scenario, the callback interaction appears like any other voice interaction and the customer will already be on the call. For more information on these modes, see [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md).
 
-For more information on how to handle callback requests in the CSM/FSM Configurable Workspace, see [Manage a CCaaS callback request in the Configurable Workspace](../task/ccaas-address-callback-requests.md).
+For more information on how to handle callback requests in the CSM/FSM Configurable Workspace, see [Manage a CCaaS callback request in the Configurable Workspace](ccaas-address-callback-requests.md).
 
-When agents are working from an unsupported workspace or they aren’t on the callback interaction page, they can manage callbacks through the Global Voice Control \(GVC\) component. This feature offers quick access to the Callback Actions component, enabling agents to initiate calls and handle active calls using the available call controls. The features described in the preceding table are available in the Global Voice control \(GVC\) for easy access to the agent. In addition to these features, you’re provided with an **Open Interaction page** link on the global call list so that you can navigate to the current callback interaction page. For more information on how to use GVC for callback interactions, see [Manage a CCaaS callback request using Global Voice Control](../task/handle-ccaas-callback-gvc.md).
+When agents are working from an unsupported workspace or they aren’t on the callback interaction page, they can manage callbacks through the Global Voice Control \(GVC\) component. This feature offers quick access to the Callback Actions component, enabling agents to initiate calls and handle active calls using the available call controls. The features described in the preceding table are available in the Global Voice control \(GVC\) for easy access to the agent. In addition to these features, you’re provided with an **Open Interaction page** link on the global call list so that you can navigate to the current callback interaction page. For more information on how to use GVC for callback interactions, see [Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md).
 
 ![Callback interaction page with Callback actions component, Callback context card, and Global Voice control (GVC) with Callback actions.](../image/Interaction_Interface.png "Callback interactions page with ICC Callback features and callback context card")
 
@@ -116,15 +116,15 @@ In addition to the ICC callback features, the following features are available i
 **Related topics**  
 
 
-[Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](../task/enable-icc-for-ccaas.md)
+[Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](enable-icc-for-ccaas.md)
 
-[Plugin requirements for voice and callback integrations with contact centers](../task/plugin-requirements-for-external-call-routing-integration-for-contact-centers.md)
+[Plugin requirements for voice and callback integrations with contact centers](plugin-requirements-for-external-call-routing-integration-for-contact-centers.md)
 
 [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](interaction-controls-component-icc-callback-integration-features.md)
 
-[Manage a CCaaS callback request in the Configurable Workspace](../task/ccaas-address-callback-requests.md)
+[Manage a CCaaS callback request in the Configurable Workspace](ccaas-address-callback-requests.md)
 
-[Manage a CCaaS callback request using Global Voice Control](../task/handle-ccaas-callback-gvc.md)
+[Manage a CCaaS callback request using Global Voice Control](handle-ccaas-callback-gvc.md)
 
 [Components installed with Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/installed-with-omnichannel-callback.md)
 

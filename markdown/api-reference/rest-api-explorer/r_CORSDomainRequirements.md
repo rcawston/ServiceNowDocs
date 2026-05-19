@@ -47,5 +47,5 @@ For example, if there are rules for the domain patterns `http://*.blog.mysite.co
 |`http://*.service-now.com`|`http://blog.*.service-now.com`|
 |`http://*.com`|`http://*com`|
 
-**Parent Topic:**[REST APIs](../concept/c_RESTAPI.md)
+**Parent Topic:**[REST APIs](c_RESTAPI.md)
 

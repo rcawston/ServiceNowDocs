@@ -67,7 +67,7 @@ The agent executes the **testing** in AI Agent Studio for the agentic workflow.
 
 ![AI Agent Studio showing the testing output for Provide customer 360 insight agentic workflow](../image/customer-360-ai-agent.png "Example of Provide customer 360 insight agentic workflow testing in AI Agent Studio")
 
-In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](request-gen-ai-capabilities-csm-now-assist-panel.md).
 
 ## Access Control lists \(ACLs\)
 

@@ -55,7 +55,7 @@ You can also:
 
 The Virtual Agent notifications feature is only available with the Microsoft Teams.
 
-For more information on setting up Virtual Agent with Microsoft Teams, see [Configure Virtual Agent notifications in Microsoft Teams](../task/config-va-ta.md).
+For more information on setting up Virtual Agent with Microsoft Teams, see [Configure Virtual Agent notifications in Microsoft Teams](config-va-ta.md).
 
 **Parent Topic:**[Notifications in Hiring Experiences](notifications-ta.md)
 

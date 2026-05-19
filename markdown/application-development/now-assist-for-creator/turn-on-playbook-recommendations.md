@@ -18,7 +18,7 @@ Turn on the playbook recommendations skill to get recommendations for the activi
 ## Before you begin
 
 -   Role required: admin
--   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](../../flow-designer/task/install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](install-now-assist-for-creator.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Turn on the playbook recommendations skill to get recommendations for the activi
     ![Playbook skills in Now Assist for Creator.](../images/now-assist-creator-playbook.png)
 
 
-**Parent Topic:**[Playbook recommendations](../concept/playbook-recommendations-landing.md)
+**Parent Topic:**[Playbook recommendations](playbook-recommendations-landing.md)
 
 **Related topics**  
 

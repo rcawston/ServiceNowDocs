@@ -42,5 +42,5 @@ If you don't define specific search sources for your portal, the system uses def
 4.  Click **Update**.
 
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](zing-search-service-portal.md)
 

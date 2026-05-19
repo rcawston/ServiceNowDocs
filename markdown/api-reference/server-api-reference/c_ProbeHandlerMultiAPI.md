@@ -19,7 +19,7 @@ This script include does not work with probe parameters that have value\_scripts
 
 You can use this script include in any server-side script where you need to configure a multiprobe.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProbeHandlerMulti - addParameters\(String parent, String sysID, GlideRecord probe\)
 

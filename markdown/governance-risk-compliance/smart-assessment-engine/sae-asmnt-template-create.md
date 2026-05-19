@@ -37,7 +37,7 @@ Create an assessment template
 
 3.  On the Create assessment template form, fill in the fields.
 
-    For a description of the field values, see [Create assessment template form](../concept/create-assessment-template-form.md).
+    For a description of the field values, see [Create assessment template form](create-assessment-template-form.md).
 
 4.  Select **Save**.
 

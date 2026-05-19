@@ -34,7 +34,7 @@ Republishing is required in the following scenarios:
 
 When republishing is required, the Publishing Center prompts you to republish the catalog so that the changes are applied consistently across all published articles. For instructions on republishing, see [Republish a TRM catalog after updates](republish-trm-cat.md).
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
@@ -45,7 +45,7 @@ When republishing is required, the Publishing Center prompts you to republish th
 
 [Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

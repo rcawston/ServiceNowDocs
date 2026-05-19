@@ -40,7 +40,7 @@ Zero Copy Connector for ERP supports connecting to multiple systems.
 
     **Note:** To use the HTTP connection option, you must have an SAP system that is enabled to make an OData connection.
 
-    For a description of the field values, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP new system field descriptions](erp-canvas-create-new-system-descriptions.md).
 
 5.  Select **Save**.
 
@@ -49,5 +49,5 @@ Zero Copy Connector for ERP supports connecting to multiple systems.
 
 After you create a system, you can view heartbeat and retrieval status on the ERP systems list page. For more information, see [View a list of Zero Copy Connector for ERP systems](view-and-monitor-erp-systems-health.md).
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](erp-canvas-work-with-systems.md)
 

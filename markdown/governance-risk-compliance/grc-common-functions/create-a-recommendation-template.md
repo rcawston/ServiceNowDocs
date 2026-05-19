@@ -17,7 +17,7 @@ Create a recommendation template to train the AI models with a data set for iden
 
 ## Before you begin
 
-Create a recommendation context before you create a recommendation template. For more information, see [Recommendation contexts and templates](../concept/recommendation-contexts.md).
+Create a recommendation context before you create a recommendation template. For more information, see [Recommendation contexts and templates](recommendation-contexts.md).
 
 Role required: sn\_reco\_template.recommendation\_config\_writer or sn\_reco\_template.recommendation\_writer
 
@@ -57,7 +57,7 @@ Role required: sn\_reco\_template.recommendation\_config\_writer or sn\_reco\_te
 
     The Heading and Sub heading appear on the Relationships section in the Workspace view of a record.
 
-    For example, you can [fetch recommendations](../../now-assist-irm/task/create-recommendation-reg-alert.md) for remediation tasks for an issue by using the Now Assist for IRM application.
+    For example, you can [fetch recommendations](create-recommendation-reg-alert.md) for remediation tasks for an issue by using the Now Assist for IRM application.
 
 5.  On the form header, select **Save**.
 
@@ -128,5 +128,5 @@ Role required: sn\_reco\_template.recommendation\_config\_writer or sn\_reco\_te
 
 A recommendation template is configured for the selected recommendation context.
 
-**Parent Topic:**[Recommendation contexts and templates](../concept/recommendation-contexts.md)
+**Parent Topic:**[Recommendation contexts and templates](recommendation-contexts.md)
 

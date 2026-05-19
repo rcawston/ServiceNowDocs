@@ -51,7 +51,7 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Amazon VPC Spoke](../concept/amazon-vpc-spoke-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
 |[Ansible Spoke](../../integrationhub-store-spokes/concept/ansible-spoke-1.md)|2.2.9|Australia, Zurich, Yokohama, Xanadu|
 |[Asana Spoke](../../integrationhub-store-spokes/concept/asana-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
-|[Atlassian Administration Spoke](../../integrationhub-store-spokes/concept/atlassian-administration-spoke.md)|1.0.0|Yokohama, Australia, Zurich, Yokohama, Xanadu|
+|[Atlassian Administration Spoke](atlassian-administration-spoke.md)|1.0.0|Yokohama, Australia, Zurich, Yokohama, Xanadu|
 |[Automation Anywhere Spoke](../../integrationhub-store-spokes/concept/automation-anywhr-spoke-1.md)|1.2.1|Australia, Zurich, Yokohama, Xanadu|
 |[AWS Certificate Manager Spoke](../../integrationhub-store-spokes/concept/aws-cert-manager-spoke-1.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[AWS CloudFormation Spoke](../../integrationhub-store-spokes/concept/aws-cloudformation-1.md)|1.1.4|Australia, Zurich, Yokohama, Xanadu|
@@ -69,22 +69,22 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Cisco Webex Meetings Spoke](../../integrationhub-store-spokes/concept/cisco-webex-meetings-spoke-1.md)|2.3.3|Australia, Zurich, Yokohama, Xanadu|
 |[Cisco Webex Teams Spoke](../../integrationhub-store-spokes/concept/cisco-teams-spoke-1.md)|2.3.6|Australia, Zurich, Yokohama, Xanadu|
 |[Confluence Cloud Spoke](../../integrationhub-store-spokes/concept/confluence-cloud-spoke-1.md)|2.0.1|Australia, Zurich, Yokohama, Xanadu|
-|[Confluent Kafka REST Proxy Spoke](../../integrationhub-store-spokes/concept/conf-kafka-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Confluent Kafka REST Proxy Spoke](conf-kafka-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Continuous Integration and Continuous Delivery \(CICD\) Spoke](../../integrationhub-store-spokes/concept/cicd-spoke-1.md)|1.0.11| |
 |[Cornerstone Spoke](../../integrationhub-store-spokes/concept/cornerstone-spoke-1.md)|1.4|Australia, Zurich, Yokohama, Xanadu|
 |[Coupa Spoke](../../integrationhub-store-spokes/concept/coupa-spoke-1.md)|4.15|Australia, Zurich, Yokohama, Xanadu|
-|[Craft spoke](../../integrationhub-store-spokes/concept/craft-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
-|[Credly spoke](../../integrationhub-store-spokes/concept/credly-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Craft spoke](craft-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Credly spoke](credly-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[CrowdStrike Spoke](../../integrationhub-store-spokes/concept/crowdstrike-spoke-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
 |[Docker Spoke](../../integrationhub-store-spokes/concept/docker-spoke-1.md)|2.3.4|Australia, Zurich, Yokohama, Xanadu|
 |[Docusign eSignature Spoke](../../integrationhub-store-spokes/concept/docusign-spoke-1.md)|4.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[Dropbox Business Spoke](../../integrationhub-store-spokes/concept/dropbox-busi-spoke-1.md)|1.0.4|Australia, Zurich, Yokohama, Xanadu|
-|[Dun and Bradstreet DirectPlus Spoke](../../integrationhub-store-spokes/concept/dun-and-bradstreet-directplus-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
-|[Ethoca spoke](../../integrationhub-store-spokes/concept/ethoca-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
-|[Equifax Spoke](../../integrationhub-store-spokes/concept/equifax-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Dun and Bradstreet DirectPlus Spoke](dun-and-bradstreet-directplus-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Ethoca spoke](ethoca-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Equifax Spoke](equifax-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[F5 BIG-IP Spoke](../../integrationhub-store-spokes/concept/f5-spoke-1.md)|1.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[First Advantage Spoke](../../integrationhub-store-spokes/concept/first-advantage-spoke-1.md)|1.8.0|Australia, Zurich, Yokohama, Xanadu|
-|[FRISS Spoke](../../integrationhub-store-spokes/concept/friss-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[FRISS Spoke](friss-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[GitHub Spoke](../../integrationhub-store-spokes/concept/github-spoke-1.md)|3.5.2|Australia, Zurich, Yokohama, Xanadu|
 |[GitLab Spoke](../../integrationhub-store-spokes/concept/gitlab-spoke-1.md)|2.4.1|Australia, Zurich, Yokohama, Xanadu|
 |[Gmail Spoke](../../integrationhub-store-spokes/concept/gmail-spoke-1.md)|1.3.3|Australia, Zurich, Yokohama, Xanadu|
@@ -97,7 +97,7 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Google Cloud Pub Sub Spoke](../../integrationhub-store-spokes/concept/google-pubsub-spoke-1.md)|1.0.4|Australia, Zurich, Yokohama, Xanadu|
 |[Google Cloud SQL Spoke](../../integrationhub-store-spokes/concept/gcloud-sql-spoke-1.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[Google Cloud Storage Spoke](../../integrationhub-store-spokes/concept/gcloudstorage-spoke-1.md)|1.1.1|Australia, Zurich, Yokohama, Xanadu|
-|[Google Cloud Translator Service Spoke](../../integrationhub-store-spokes/concept/google-translator-spoke.md)|3.1.1|Australia, Zurich, Yokohama, Xanadu|
+|[Google Cloud Translator Service Spoke](google-translator-spoke.md)|3.1.1|Australia, Zurich, Yokohama, Xanadu|
 |[Google Cloud Virtual Network Spoke](../../integrationhub-store-spokes/concept/gcloudvirntwrk-spoke-1.md)|1.0.4|Australia, Zurich, Yokohama, Xanadu|
 |[Google Cloud VPC Access Spoke](../../integrationhub-store-spokes/concept/gcloud-vpc-access-1.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[Google Compute Engine Spoke](../../integrationhub-store-spokes/concept/gcomengine-spoke-1.md)|1.0.5|Australia, Zurich, Yokohama, Xanadu|
@@ -105,14 +105,14 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Google Docs Spoke](../../integrationhub-store-spokes/concept/gdocs-spoke-1.md)|1.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[Google Drive Spoke](../../integrationhub-store-spokes/concept/googledrive-spoke-1.md)|2.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[Google Identity and Access Spoke](../../integrationhub-store-spokes/concept/gidentityaccess-spoke-1.md)|1.1.1|Australia, Zurich, Yokohama, Xanadu|
-|[Google Meet Spoke](../../integrationhub-store-spokes/concept/google-meet-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Google Meet Spoke](google-meet-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Google Persistent Disk Spoke](../../integrationhub-store-spokes/concept/gpersistentdisk-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
 |[Google Sheets Spoke](../../integrationhub-store-spokes/concept/gsheets-spoke-1.md)|1.0.7|Australia, Zurich, Yokohama, Xanadu|
 |[Google Tasks Spoke](../../integrationhub-store-spokes/concept/gtask-spoke-1.md)|1.4.0|Australia, Zurich, Yokohama, Xanadu|
 |[GoTo Spoke](../../integrationhub-store-spokes/concept/goto-spoke-1.md)|2.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[GovNotify Spoke](../../integrationhub-store-spokes/concept/gov-notify-1.md)|1.2.0|Australia, Zurich, Yokohama, Xanadu|
 |[Gremlin Spoke](../../integrationhub-store-spokes/concept/gremlin-spoke-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
-|[Guidewire Spoke](../../integrationhub-store-spokes/concept/guidewire-spoke.md)|1.2.0|Australia, Zurich, Yokohama, Xanadu|
+|[Guidewire Spoke](guidewire-spoke.md)|1.2.0|Australia, Zurich, Yokohama, Xanadu|
 |[iManage Spoke](../../integrationhub-store-spokes/concept/imanage-spoke-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
 |[Infoblox Spoke](../../integrationhub-store-spokes/concept/infoblox-spoke-1.md)|2.0.4|Australia, Zurich, Yokohama, Xanadu|
 |[Jack Henry jXchange Spoke](../../integrationhub-store-spokes/concept/jha-spoke-1.md)|2.0.3|Australia, Zurich, Yokohama, Xanadu|
@@ -123,16 +123,16 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Jira Spoke](../../integrationhub-store-spokes/concept/jira-spoke-v3-0-2-1.md)|6.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Kubernetes Spoke](../../integrationhub-store-spokes/concept/kubernetes-spoke-1.md)|1.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[Legal Tracker Spoke](../../integrationhub-store-spokes/concept/legal-tracker-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
-|[Lenovo Spoke](../../integrationhub-store-spokes/concept/lenovo-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Lenovo Spoke](lenovo-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Looker Spoke](../../integrationhub-store-spokes/concept/looker-spoke-1.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Lucidchart Diagramming Spoke](../../integrationhub-store-spokes/concept/lucidchart-spoke-1.md)|1.1.1|Australia, Zurich, Yokohama, Xanadu|
-|[Metrikus spoke](../../integrationhub-store-spokes/task/metrikus-spoke.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
+|[Metrikus spoke](metrikus-spoke.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[Magnit Spoke](../../integrationhub-store-spokes/concept/magnit-spoke-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
 |[Mastercard Spoke](../../integrationhub-store-spokes/concept/mastercard-spoke-1.md)|3.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[Microsoft 365 Excel Spoke](../../integrationhub-store-spokes/concept/office-365-spoke-1.md)|1.0.4|Australia, Zurich, Yokohama, Xanadu|
 |[Microsoft Dynamics 365 Spoke](../../integrationhub-store-spokes/concept/ms365-spoke-1.md)|1.0.8|Australia, Zurich, Yokohama, Xanadu|
 |[Microsoft Active Directory v2 Spoke](../../integrationhub-store-spokes/concept/ms-ad-v2-spoke-1.md)|2.5.3|Australia, Zurich, Yokohama, Xanadu|
-|[Microsoft Active Directory Spoke](../concept/microsoft-ad-spoke.md)|3.1.5| |
+|[Microsoft Active Directory Spoke](microsoft-ad-spoke.md)|3.1.5| |
 |[Microsoft Azure Application Insights Spoke](../../integrationhub-store-spokes/concept/msazure-app-insight-1.md)|1.0.1|Australia, Zurich, Yokohama, Xanadu|
 |[Microsoft Azure Artifacts Spoke](../../integrationhub-store-spokes/concept/azure-artifacts-spoke-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
 |[Microsoft Azure Automation Spoke](../../integrationhub-store-spokes/concept/azure-automation-1.md)|2.0.0|Australia, Zurich, Yokohama, Xanadu|
@@ -164,7 +164,7 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[Microsoft Teams Graph Spoke](../../integrationhub-store-spokes/concept/msteams-spoke-1.md)|4.4.1|Australia, Zurich, Yokohama, Xanadu|
 |[Miro Spoke](../../integrationhub-store-spokes/concept/miro-spoke-1.md)|3.3.1|Australia, Zurich, Yokohama, Xanadu|
 |[monday.com Spoke](../../integrationhub-store-spokes/concept/monday-spoke-1.md)|1.1.5|Australia, Zurich, Yokohama, Xanadu|
-|[Metrikus spoke](../../integrationhub-store-spokes/task/metrikus-spoke.md)|Beta v1.0|Australia|
+|[Metrikus spoke](metrikus-spoke.md)|Beta v1.0|Australia|
 |[Navex EthicsPoint Spoke](../../integrationhub-store-spokes/concept/navex-ethics-spoke-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
 |[Okta Spoke](../../integrationhub-store-spokes/concept/okta-v2-spoke-1.md)|4.7.1|Australia, Zurich, Yokohama, Xanadu|
 |[OneLogin Spoke](../../integrationhub-store-spokes/concept/onelogin-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
@@ -203,18 +203,18 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[SCCM Usage Metering Spoke](../../integrationhub-store-spokes/concept/sccm-usage-metering-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
 |[Secureworks CTP Spoke](../../integrationhub-store-spokes/concept/secureworks-ctp-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
 |[ServiceNow Remote Instance Spoke](../../integrationhub-store-spokes/concept/remote-instance-spoke-1.md)|2.2.8|Australia, Zurich, Yokohama, Xanadu|
-|[ServiceNow University Spoke](../../integrationhub-store-spokes/concept/now-learning-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
+|[ServiceNow University Spoke](now-learning-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
 |[Shodan Spoke](../../integrationhub-store-spokes/concept/shodan-spoke-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
 |[Slack Spoke](../concept/slack-spoke-1.md)|1.8.0|Australia, Zurich, Yokohama, Xanadu|
-|[SmartRecruiters Spoke](../../integrationhub-store-spokes/concept/smartrecruiters-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[SmartRecruiters Spoke](smartrecruiters-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Smartsheet Spoke](../../integrationhub-store-spokes/concept/smartsheet-spoke-1.md)|2.6.1|Australia, Zurich, Yokohama, Xanadu|
 |[Snowflake Spoke](../../integrationhub-store-spokes/concept/snowflake-1.md)|1.0.3|Australia, Zurich, Yokohama, Xanadu|
 |[Socure Spoke](../../integrationhub-store-spokes/concept/socure-fso-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
-|[SuccessFactors Learning Spoke](../../integrationhub-store-spokes/concept/successfactors-learning-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
+|[SuccessFactors Learning Spoke](successfactors-learning-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
 |[SuccessFactors spoke](../../integrationhub-store-spokes/concept/successfactors-spoke-1.md)|4.10.1|Australia, Zurich, Yokohama, Xanadu|
 |[SumTotal Spoke](../../integrationhub-store-spokes/concept/sumtotal-spoke-1.md)|1.0.2|Australia, Zurich, Yokohama, Xanadu|
 |[SurveyMonkey Spoke](../../integrationhub-store-spokes/concept/survey-monkey-dec-1.md)|2.0.6|Australia, Zurich, Yokohama, Xanadu|
-|[Tableau spoke](../../integrationhub-store-spokes/concept/tableau-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
+|[Tableau spoke](tableau-spoke.md)| |Australia, Zurich, Yokohama, Xanadu|
 |[Trello Spoke](../../integrationhub-store-spokes/concept/trello-spoke-1.md)|1.4.0|Australia, Zurich, Yokohama, Xanadu|
 |[Twilio Spoke](../../integrationhub-store-spokes/concept/twilio-spoke-1.md)|1.2.0|Australia, Zurich, Yokohama, Xanadu|
 |[UCF Spoke](../../integrationhub-store-spokes/concept/ucf-spoke-1.md)|1.1.0|Australia, Zurich, Yokohama, Xanadu|
@@ -222,7 +222,7 @@ To get started, see the Boomi API Management listing on the [ServiceNow® Store]
 |[UiPath Spoke](../../integrationhub-store-spokes/concept/uipath-spoke-1.md)|2.5.0|Australia, Zurich, Yokohama, Xanadu|
 |[UKG Spoke](../../integrationhub-store-spokes/concept/kronos-spoke-1.md)|3.3.0|Australia, Zurich, Yokohama, Xanadu|
 |[Utility Actions Spoke](../../integrationhub-store-spokes/concept/utilityact-spoke-1.md)|1.3.1|Australia, Zurich, Yokohama, Xanadu|
-|[Verifi Spoke](../../integrationhub-store-spokes/concept/verifi-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
+|[Verifi Spoke](verifi-spoke.md)|1.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Visa Spoke](../../integrationhub-store-spokes/concept/visa-spoke-1.md)|1.2.0|Australia, Zurich, Yokohama, Xanadu|
 |[Vonage Spoke](../../integrationhub-store-spokes/concept/vonage-spoke-1.md)|2.0.0|Australia, Zurich, Yokohama, Xanadu|
 |[Workday Financials Spoke](../../integrationhub-store-spokes/concept/workday-fin-spoke-1.md)|2.1.1|Australia, Zurich, Yokohama, Xanadu|

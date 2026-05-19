@@ -44,5 +44,5 @@ Role required: sn\_eam.enterprise\_admin
     **Note:** You cannot add or delete any impact configuration records after you select **Freeze**. You can however edit the **Label** field in the existing records.
 
 
-**Parent Topic:**[Managing risks scores in Enterprise Asset Management](../concept/managing-eam-risk-scores.md)
+**Parent Topic:**[Managing risks scores in Enterprise Asset Management](managing-eam-risk-scores.md)
 

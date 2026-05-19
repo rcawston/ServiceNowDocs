@@ -41,7 +41,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     The record values necessary to resume running the action. For example, if the condition is **\[State\]** **\[is\]** **\[Closed\]**, the action pauses until the condition is met. Once met, the action moves on to the next action step. Only select conditions that apply to field values in the table to which the record belongs. See Condition evaluation for more information about creating valid conditions.
 
-    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md) instead.
+    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](flow-logic-wait-for-a-duration.md) instead.
 
 -   **Enable Timeout**
 
@@ -87,7 +87,7 @@ The Wait for Condition step only evaluates the wait condition when there are cha
 
 -   Each condition specifies a field value change rather than a relative time period.
 
-    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md) instead.
+    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](flow-logic-wait-for-a-duration.md) instead.
 
 
 ## Action error evaluation
@@ -96,7 +96,7 @@ The Wait for Condition step only evaluates the wait condition when there are cha
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## Unsupported tables
@@ -136,5 +136,5 @@ The system does not support Wait for Condition for the following tables.
 
 This example action takes n Incident record as an input value. The action waits for the state of the Incident to be resolved and then sends an email message to the incident caller to notify them of the state change.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

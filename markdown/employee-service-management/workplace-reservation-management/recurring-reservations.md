@@ -46,7 +46,7 @@ Role required: admin
 
 3.  Create a reservation.
 
-    For more information about how to create a reservation, see [Create a reservation](create-reservation-request-1.md).
+    For more information about how to create a reservation, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
     For example, two workplace users, Abel Tutor and Abel L create reservations. Abel L creates a reservation for Tuesday 11/22 10.00 AM to 12.00 PM in Room A1-02-01.
 
@@ -89,12 +89,12 @@ Role required: admin
     If the **Auto-resolve recurring conflicts** option is enabled, the conflicting recurring reservation in a series is resolved and the user is assigned an available space. When this option isn’t enabled, workplace users must manually update the time and space for a given reservation.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -108,7 +108,7 @@ Role required: admin
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

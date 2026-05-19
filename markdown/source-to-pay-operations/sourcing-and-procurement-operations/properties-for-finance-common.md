@@ -15,7 +15,7 @@ breadcrumb: [Install Sourcing and Procurement Operations, Configure, Sourcing an
 
 Use these properties to configure various settings in the Sourcing and Procurement Operations application.
 
-For more information on how to configure these properties, see [Configure properties in Finance Common Architecture](../task/configure-finance-common-properties.md).
+For more information on how to configure these properties, see [Configure properties in Finance Common Architecture](configure-finance-common-properties.md).
 
 |Property|Description|
 |--------|-----------|
@@ -23,8 +23,8 @@ For more information on how to configure these properties, see [Configure proper
 |number\_of\_future\_periods|Number of future periods that are available in the Period filter list on the Finance Workspace.|
 |number\_of\_prior\_periods|Number of prior periods that are available in the Period filter list on the Finance Workspace.|
 
--   **[Configure properties in Finance Common Architecture](../task/configure-finance-common-properties.md)**  
+-   **[Configure properties in Finance Common Architecture](configure-finance-common-properties.md)**  
 Configure properties for various settings used in Sourcing and Procurement Operations application.
 
-**Parent Topic:**[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+**Parent Topic:**[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 

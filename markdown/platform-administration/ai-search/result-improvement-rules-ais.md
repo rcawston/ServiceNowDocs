@@ -48,7 +48,7 @@ Block actions take precedence over other actions. For example, if two result imp
 
 Result improvement rule activation is language-dependent. You specify a language for each result improvement rule.
 
-AI Search supports result improvement rules for all languages activated in your instance. For the list of languages you can activate, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+AI Search supports result improvement rules for all languages activated in your instance. For the list of languages you can activate, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 ## Interaction with other search features
 
@@ -61,15 +61,15 @@ The following table describes interactions between result improvement rules with
 |[Synonyms](synonyms-ais.md)|By default, a synonym expansion term can activate a result improvement rule if it matches the rule's Query trigger. You can prevent synonym expansion terms from activating a rule with a Query trigger by clearing the **Expand Synonyms For Query Conditions** option that appears when you define the Query trigger.|
 |[Typo handling](typo-handling-ais.md)|An auto-corrected search query term can trigger a result improvement rule if it matches the rule's Query trigger.|
 
--   **[Create a result improvement rule](../task/create-result-improve-rule-ais.md)**  
+-   **[Create a result improvement rule](create-result-improve-rule-ais.md)**  
 Create a rule to boost, block, or promote search results or to block Genius Results. Specify the conditions that activate your rule and choose the action it performs when activated.
--   **[Boost search results using a result improvement rule](../task/boost-results-ais.md#)**  
+-   **[Boost search results using a result improvement rule](boost-results-ais.md#)**  
 Increase the relevancy scores for search results that satisfy a custom set of conditions.
--   **[Block search results and Genius Results using a result improvement rule](../task/block-results-ais.md)**  
+-   **[Block search results and Genius Results using a result improvement rule](block-results-ais.md)**  
 Configure a result improvement rule to prevent specific documents from appearing as Genius Results or search results.
--   **[Promote search results using a result improvement rule](../task/promote-results-ais.md)**  
+-   **[Promote search results using a result improvement rule](promote-results-ais.md)**  
 Configure a result improvement rule to make specific records appear first in results for a search.
--   **[Share result improvement rules between search profiles](../task/mirror-result-improvement-rules.md)**  
+-   **[Share result improvement rules between search profiles](mirror-result-improvement-rules.md)**  
 Make your search experiences more consistent by configuring a search profile to mirror result improvement rules from other search profiles.
 
 **Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)

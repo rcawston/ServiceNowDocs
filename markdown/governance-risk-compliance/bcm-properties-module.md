@@ -21,7 +21,7 @@ You can view the **Properties** menu option in **General Administration** as sho
 
 You can select the **Properties** module to view and configure the BCM application properties as shown in the example.![Properties module.](../image/properties-module.png)
 
-For more information on BCM properties, see [Properties installed with BCM](../reference/properties-bcm.md).
+For more information on BCM properties, see [Properties installed with BCM](properties-bcm.md).
 
 **Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

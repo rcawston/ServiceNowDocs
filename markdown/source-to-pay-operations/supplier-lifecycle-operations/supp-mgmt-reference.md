@@ -31,18 +31,18 @@ Use the Onboard a Supplier form to provide details about the supplier that you w
 Use the Create New Documents form to provide details about the new document you want to create.
 -   **[Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)**  
 The primary data tables for Supplier Lifecycle Operations store important information about suppliers, supplier contacts, supplier email domains, product codes, supplier locations, and supplier payment information.
--   **[Domain separation and Supplier Lifecycle Operations](../concept/supplier-domain-separation.md)**  
+-   **[Domain separation and Supplier Lifecycle Operations](supplier-domain-separation.md)**  
  Domain separation is unsupported for Supplier Lifecycle Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Supplier Lifecycle Operations data model](slo-data-model.md)**  
 The following diagram shows the tables and their relationships that comprise the Supplier Lifecycle Operations data model.
--   **[Supplier Relationship and Performance Management reference](../concept/supplier-relationship-and-performance-management-reference.md)**  
+-   **[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)**  
 Reference topics provide additional information about Supplier Relationship and Performance Management, including its data model, lists, and forms.
--   **[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)**  
+-   **[Supplier Payment Optimization reference](supp-payment-opt-ref.md)**  
 Reference topics provide additional information about Supplier Payment Optimization, including its data model and primary table.
--   **[Supplier Lifecycle Operations glossary](../concept/slo-glossary.md#)**  
+-   **[Supplier Lifecycle Operations glossary](slo-glossary.md#)**  
 Learn about the terms and concepts used in Supplier Lifecycle Operations \(SLO\).
 
-**Parent Topic:**[Supplier Lifecycle Operations](../concept/supp-mgmt-landing-page.md)
+**Parent Topic:**[Supplier Lifecycle Operations](supp-mgmt-landing-page.md)
 
 **Related topics**  
 
@@ -51,7 +51,7 @@ Learn about the terms and concepts used in Supplier Lifecycle Operations \(SLO\)
 
 [Supplier Lifecycle Operations data model](slo-data-model.md)
 
-[Supplier Relationship and Performance Management reference](../concept/supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
 
-[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
 

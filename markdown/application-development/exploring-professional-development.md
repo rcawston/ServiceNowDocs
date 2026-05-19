@@ -17,7 +17,7 @@ This content covers the application development stages to help developers easily
 
 -   [Plan your application development](plan-your-app-development.md): Think through the application before building it.
 -   [Build your application](build-your-application.md): Create and configure the application and its components.
--   [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md): Create applications with help from agentic AI.
+-   [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md): Create applications with help from agentic AI.
 -   [Validate app functionality](validate-app-functionality.md): Perform functional testing and write test cases.
 -   [Deploy your app](deploy-your-app.md): Move the application into production.
 

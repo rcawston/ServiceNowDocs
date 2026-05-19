@@ -17,13 +17,13 @@ Use UI Builder to build pages in Agent Workspace for HR Case Management using Ne
 
 For more information about UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md).
 
--   **[Create a landing page variant](../task/configure-report-aws.md)**  
+-   **[Create a landing page variant](configure-report-aws.md)**  
 Create a variant of your landing page to build a custom portal experience for your users.
--   **[Enable a detailed data display within a report](../task/drill-down-report.md)**  
+-   **[Enable a detailed data display within a report](drill-down-report.md)**  
 Enable users to visualize a subset of report data.
--   **[Configure quick links in Agent Workspace for HR Case Management](../task/quick-links-aws.md)**  
+-   **[Configure quick links in Agent Workspace for HR Case Management](quick-links-aws.md)**  
 Configure quick links to quickly access internal and external resources related to specific departments within your organization.
--   **[Reorder the navigation pane modules in HR Agent Workspace](../task/reorder-pane-modules-aws.md)**  
+-   **[Reorder the navigation pane modules in HR Agent Workspace](reorder-pane-modules-aws.md)**  
 Quickly access the navigation pane modules in HR Agent Workspace. For example, Home, List, Inbox, and so on.
 
 **Parent Topic:**[Setting up Agent Workspace for HR Case Management](setup-configurable-hr-agent-workspace.md)

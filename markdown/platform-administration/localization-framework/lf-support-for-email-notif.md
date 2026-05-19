@@ -28,7 +28,7 @@ The extension of the Localization Framework capabilities to email enables you to
 
 -   Approve and publish the translated content.
 
-For more information about localizing email notification, see [Email notification localization](../../notification/concept/static-translation.md).
+For more information about localizing email notification, see [Email notification localization](../static-translation.md).
 
 **Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
 

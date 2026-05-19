@@ -41,5 +41,5 @@ The Central Data Service Download Status related list is updated daily when the 
 |Last updated on|Last date and time the data was pulled.|
 |Next action|Next scheduled date and time to pull data.|
 
-**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
+**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](software-asset-mgmt-content-pack.md)
 

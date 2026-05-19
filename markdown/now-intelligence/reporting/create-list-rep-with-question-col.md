@@ -101,7 +101,7 @@ Group report data using the values of this field. For example, in an incident re
  **Note:**
 
 -   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DatabaseFieldTypes.md).
--   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../../performance-analytics/concept/performance-analytics-glossary.md#).
+-   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../performance-analytics/performance-analytics-glossary.md#).
 
 
 </td></tr><tr><td>
@@ -124,7 +124,7 @@ Configure function field
 
 </td><td>
 
-Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](../concept/function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
+Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
 
 </td></tr></tbody>
 </table>11. Configure the sort order of the applicable fields in the report \(column, row, Group by, Stack by or Trend by depending on the report type\).
@@ -151,7 +151,7 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
 13. On the **Style** tab, add and configure a report title.
 
-    See [List report style options](../reference/list-report-style-options.md).
+    See [List report style options](list-report-style-options.md).
 
 14. Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 

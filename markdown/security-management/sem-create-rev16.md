@@ -182,7 +182,7 @@ Date when the record was last opened in your ServiceNow AI Platform. If the reco
     |**By Assignment group**|Records with same assignment group are bundled into one Remediation Task.|
     |**By Assignment group and configuration item**|Records with same assignment group and Configuration Item are bundled into one Remediation Task.|
     |**By Assignment group and \(vulnerability or configuration test\)**|Records with same assignment group and Configuration Item are bundled into one Remediation Task.|
-    |**None \(No remediation tasks are created\).**|Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-create-rt-frm-re.md).|
+    |**None \(No remediation tasks are created\).**|Use this method if you want to add records manually to a remediation task for this effort. See [Create a remediation task on-demand from Remediation Effort in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vr-ws-create-rt-frm-re.md).|
 
 8.  To automatically refresh the duplicate host vulnerable items, you must select the **Automatically refresh duplicate vulnerable items for the created remediation tasks** check box.
 
@@ -204,7 +204,7 @@ Date when the record was last opened in your ServiceNow AI Platform. If the reco
 
     The new remediation effort is created with any records that are available from the watch topic used to create it, in addition to any records that you selected for transfer from existing efforts.
 
-    If you select records to transfer from an existing effort, and the existing effort transfers all of its records into your new effort, the remediation effort you moved the records from is closed. For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by the records transfer, see [Life cycles of remediation efforts, remediation tasks, and records in the Vulnerability Response Workspaces](../../vulnerability-response/concept/vr-ws-re-lifecycle.md).
+    If you select records to transfer from an existing effort, and the existing effort transfers all of its records into your new effort, the remediation effort you moved the records from is closed. For more information on how the Remediation Tasks associated with the Remediation Efforts are impacted by the records transfer, see [Life cycles of remediation efforts, remediation tasks, and records in the Vulnerability Response Workspaces](vulnerability-manager-workspace/vr-ws-re-lifecycle.md).
 
     **Note:** If there are not any records available from the watch topic, or any records selected for transfer, the **Create Remediation Effort** button is deactivated.
 

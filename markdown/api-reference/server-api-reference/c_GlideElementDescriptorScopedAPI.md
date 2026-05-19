@@ -17,7 +17,7 @@ The GlideElementDescriptor API provides information about individual fields in a
 
 There is no constructor for this class. Use the GlideElement or GlideRecord getED\(\) method to obtain a GlideElementDescriptor object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideElementDescriptor - getAttachmentEncryptionType\(\)
 
@@ -442,7 +442,7 @@ Flag that indicates whether the field is configured for field encryption.
 </td></tr></tbody>
 </table>The following server-side script uses isEncrypted\(\) to check whether the short\_description field on the Incident table is encrypted before logging its value. Copy this into a Background Script or Business Rule on your instance to test.
 
-**Note:** Use the [GlideRecord - getED\(\)](../../GlideRecord/concept/c_GlideRecordAPI.md#) or [Scoped GlideElement - getED\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#) method to obtain a GlideElementDescriptor object.
+**Note:** Use the [GlideRecord - getED\(\)](c_GlideRecordAPI.md#) or [Scoped GlideElement - getED\(\)](c_GlideElementScopedAPI.md#) method to obtain a GlideElementDescriptor object.
 
 ```
 // Retrieve a sample Incident record

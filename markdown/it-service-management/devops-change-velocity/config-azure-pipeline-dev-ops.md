@@ -18,7 +18,7 @@ Change control, artifacts, and packages can be configured in the Azure pipeline 
 You can configure change control in Azure pipelines two ways.
 
 -   Use the [Azure Invoke REST API](dev-ops-azure-change-control-api.md).
--   Use the [ServiceNow DevOps extension for Azure DevOps](../task/config-dev-ops-extensions-azure.md#).
+-   Use the [ServiceNow DevOps extension for Azure DevOps](config-dev-ops-extensions-azure.md#).
 
 The **ServiceNow DevOps** extension for Azure DevOps includes:
 

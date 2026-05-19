@@ -61,7 +61,7 @@ Click this card to open the Schedule content records.
 -   **Campaign content to be published**: The number of your content items that are in a campaign bundle.
 -   **Campaign content expiring within 7 days**: The number of your currently-published content items that are in bundles with an end date within seven days.
 
-**Note:** The Content Admin can change the number of days for the **Content expiring** and **Campaign content expiring** fields by modifying the Content Governance properties. See [Properties installed with Content Governance](../reference/properties-installed-content-governance.md).
+**Note:** The Content Admin can change the number of days for the **Content expiring** and **Campaign content expiring** fields by modifying the Content Governance properties. See [Properties installed with Content Governance](properties-installed-content-governance.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Provides a quick view of content requests via the following cards:-   **Content 
 -   **Content requests in review**: Content requests that are awaiting approval from the user who requested the content or from additional reviewers.
 -   **Content requests ready to publish**: Approved content requests that have a content item with a content schedule record.
 
-**Note:** The Content Admin can change the number of days for the **Content requests due** field by modifying the Content Governance properties. See [Properties installed with Content Governance](../reference/properties-installed-content-governance.md).
+**Note:** The Content Admin can change the number of days for the **Content requests due** field by modifying the Content Governance properties. See [Properties installed with Content Governance](properties-installed-content-governance.md).
 
 </td></tr></tbody>
 </table>## Publishing Calendar
@@ -110,13 +110,13 @@ Content appears based on the content schedule record, with the exception of news
 
 -   Campaign Content
 
-The calendar displays content that is in a published campaign and in a bundle with either an immediate or fixed date trigger. For more information, see [Campaign bundle triggers](../reference/ecpro-triggers.md). The content appears in the calendar based on the bundle date, not the campaign start date.
+The calendar displays content that is in a published campaign and in a bundle with either an immediate or fixed date trigger. For more information, see [Campaign bundle triggers](ecpro-triggers.md). The content appears in the calendar based on the bundle date, not the campaign start date.
 
 **Note:** This option appears only if the Content Experiences plugin is installed.
 
 -   Campaign Content
 
-The calendar displays campaign content based on the bundle trigger configuration. For more information, see [Campaign bundle triggers](../reference/ecpro-triggers.md).
+The calendar displays campaign content based on the bundle trigger configuration. For more information, see [Campaign bundle triggers](ecpro-triggers.md).
 
 **Note:** This option appears only if the Content Experiences plugin is installed.
 

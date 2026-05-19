@@ -18,7 +18,7 @@ You can activate a content pack before configuring a data input.
 
 ## Before you begin
 
-For an overview of this feature, see [Health Log Analytics content packs for quicker time to value](../concept/hla-content-packs.md).
+For an overview of this feature, see [Health Log Analytics content packs for quicker time to value](hla-content-packs.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -47,5 +47,5 @@ Role required: evt\_mgmt\_admin
 
 When you have configured the data input and you're mapping your raw log data, you can select the content pack’s mapping script from the **JS functions templates** drop-down.
 
-**Parent Topic:**[Health Log Analytics content packs for quicker time to value](../concept/hla-content-packs.md)
+**Parent Topic:**[Health Log Analytics content packs for quicker time to value](hla-content-packs.md)
 

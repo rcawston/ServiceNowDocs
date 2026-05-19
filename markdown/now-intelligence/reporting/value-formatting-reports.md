@@ -117,7 +117,7 @@ Summary of rounding options:
 |-2.5|-3|-2|-2|-3|-3|-2|-2|
 |-5.5|-6|-5|-5|-6|-6|-5|-6|
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 
 ## Configure formatted values in reports
 

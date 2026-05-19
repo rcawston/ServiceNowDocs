@@ -37,7 +37,7 @@ Add or remove classifications to this field to determine which exports are inclu
 -   Internal
 -   Public
 
-For more detail on data classifications, see [Data classifications](data-classification.md)
+For more detail on data classifications, see [Data classifications](data-classification/data-classification.md)
 
 </td></tr><tr><td>
 

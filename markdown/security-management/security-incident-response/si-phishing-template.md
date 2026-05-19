@@ -27,7 +27,7 @@ The workflow is triggered when the **Category** in a security incident is set to
 
 ## Procedure
 
-1.  Open the security incident for this potential spear phishing attack, or [create a new security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+1.  Open the security incident for this potential spear phishing attack, or [create a new security incident](t_ManuallyCreateSecurityIncident.md).
 
 2.  In **Category**, select **Spear Phishing**.
 
@@ -150,7 +150,7 @@ When the task is complete, the flow ends.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Incident Response workflow templates](../concept/sir-orch-workflow-templates.md)
+**Parent Topic:**[Security Incident Response workflow templates](sir-orch-workflow-templates.md)
 
 **Related topics**  
 

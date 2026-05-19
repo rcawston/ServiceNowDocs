@@ -19,7 +19,7 @@ Configure your activity to show a certain set of fields based on the value of an
 
 Role required: playbook.admin, pd\_author, action\_designer, flow\_designer, admin
 
-Familiarize yourself with the other Workflow Studio components. [Dynamic inputs](../../flow-designer/task/getting-started-dynamic-input.md#) are created with actions and subflows:
+Familiarize yourself with the other Workflow Studio components. [Dynamic inputs](getting-started-dynamic-input.md#) are created with actions and subflows:
 
 1.  In the ServiceNow AI Platform, you will create a new data definition for the dynamic input fields you want to add to an activity.
 2.  In Workflow Studio, you will create a data gathering action.
@@ -53,13 +53,13 @@ When a user requests catalog items, you can dynamically present a list of catalo
 
 1.  Navigate to **All** &gt; **Workflow Studio** and select **Actions**.
 
-2.  [Create an action to add an input.](../../flow-designer/task/create-data-gathering-action-dynamic-inputs.md)
+2.  [Create an action to add an input.](create-data-gathering-action-dynamic-inputs.md)
 
     The input appears under the **Script step** &gt; **Input Variables** section. The JSON under the **Script** section should include the new input.
 
 3.  In the **Outputs** section, click **Edit Outputs** to make sure that the value of the **Name** field is **output**, and that **JSON** is the selected in the **Type** drop-down field.
 
-4.  [Create a subflow](../../flow-designer/task/create-subflow.md) with the new input.
+4.  [Create a subflow](create-subflow.md) with the new input.
 
 5.  Navigate to **All** &gt; **Process Automation Administration** &gt; **Activity Definitions**.
 
@@ -74,32 +74,32 @@ When a user requests catalog items, you can dynamically present a list of catalo
     Once your activity definition is created, Playbooks authors can add and configure activities with the dynamic inputs.
 
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
 [Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
 [Add and configure an activity in a playbook](add-configure-activity.md)
 
 [Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
 [Decision activities](create-a-decision-activity.md)
 
 [Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
 [Parallel branches](create-parallel-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_sec\_tisc.admin
     |Observable Enrichment Results|Lists all the associated observable enrichment results for an observable.|
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](observables.md)
 

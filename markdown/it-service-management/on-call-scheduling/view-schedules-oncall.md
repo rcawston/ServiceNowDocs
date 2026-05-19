@@ -25,7 +25,7 @@ Each card on the On-Call Schedules page represents a shift and identifies the on
 
 On-Call schedules enable you to view the presence of on-call members. For more information on presence, see [User presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPresence.md).
 
-**Note:** By default, on-call schedules are loaded in batches of 20. You can use the **com.snc.on\_call\_rotation.landing\_page.group\_limit** property update the setting. For details, see [System properties for On-Call Scheduling](../reference/on-call-properties.md).
+**Note:** By default, on-call schedules are loaded in batches of 20. You can use the **com.snc.on\_call\_rotation.landing\_page.group\_limit** property update the setting. For details, see [System properties for On-Call Scheduling](on-call-properties.md).
 
 ## Procedure
 
@@ -58,12 +58,12 @@ On-Call schedules enable you to view the presence of on-call members. For more i
 
     -   Roster: Displays a list of all rosters and contact number, email address, group, and the shift for the active On-Call member.
     -   Escalation Path: Displays the escalation path defined for the shift.
-    **Note:** By default, the details of the on-call member of the primary roster are displayed. Click **Send a direct message** to send a direct message to the on-call member. Alternatively, call the member if the Notify WebRTC is configured. For more information on real-time messaging, see [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md). For information on Notify WebRTC, see [Forward call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityForwardCall.md). For information on the **Specify a valid Notify Number with voice capability** property that enables the Notify WebRTC for on-call, see [System properties for On-Call Scheduling](../reference/on-call-properties.md).
+    **Note:** By default, the details of the on-call member of the primary roster are displayed. Click **Send a direct message** to send a direct message to the on-call member. Alternatively, call the member if the Notify WebRTC is configured. For more information on real-time messaging, see [Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md). For information on Notify WebRTC, see [Forward call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityForwardCall.md). For information on the **Specify a valid Notify Number with voice capability** property that enables the Notify WebRTC for on-call, see [System properties for On-Call Scheduling](on-call-properties.md).
 
 6.  To view gaps and conflicts in a shift, click the info badge on the shift card.
 
     -   This is applicable only for group managers, shift managers, and delegated shift managers.
-    -   This information is displayed based on the setting of the **com.snc.on\_call\_rotation.landing\_page.show\_pending\_actions** property. For more information, see [System properties for On-Call Scheduling](../reference/on-call-properties.md).
+    -   This information is displayed based on the setting of the **com.snc.on\_call\_rotation.landing\_page.show\_pending\_actions** property. For more information, see [System properties for On-Call Scheduling](on-call-properties.md).
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 

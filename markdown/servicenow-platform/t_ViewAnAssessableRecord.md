@@ -105,7 +105,7 @@ Category
 
 </td><td>
 
-All metric categories associated with the assessable record. An assessable record must be associated to a category to be evaluated. Click **Edit** to add or remove category associations. Note that it is often more efficient to [associate assessable records](../reference/r_ManageAssessablRecordAssociation.md) to categories using the Metric Category form.
+All metric categories associated with the assessable record. An assessable record must be associated to a category to be evaluated. Click **Edit** to add or remove category associations. Note that it is often more efficient to [associate assessable records](r_ManageAssessablRecordAssociation.md) to categories using the Metric Category form.
 
 </td></tr><tr><td>
 
@@ -113,16 +113,16 @@ Category users
 
 </td><td>
 
-All stakeholders who can take assessment questionnaires about this assessable record. Click **Edit** to create and delete stakeholders. For more information about this and other methods of creating stakeholders, see [Stakeholders](../reference/r_CategoryUsersAndStakeholders.md). This related list is available only when the associated metric type has the **Scheduled** schedule type.
+All stakeholders who can take assessment questionnaires about this assessable record. Click **Edit** to create and delete stakeholders. For more information about this and other methods of creating stakeholders, see [Stakeholders](r_CategoryUsersAndStakeholders.md). This related list is available only when the associated metric type has the **Scheduled** schedule type.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Assessable records](../concept/c_assessable-records.md)
+**Parent Topic:**[Assessable records](c_assessable-records.md)
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

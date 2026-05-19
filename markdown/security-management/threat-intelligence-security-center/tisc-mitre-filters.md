@@ -181,5 +181,5 @@ The visual representation on the MITRE Framework indicates how techniques and su
 -   **Blue text in bold with blue border:** Techniques or sub-techniques displayed in bold blue text with a blue border indicate those that match the filter criteria and are associated with one or more nodes on the canvas.
 -   **Gray card:** Parent techniques are displayed in gray when they do not directly match the filter criteria \(which means they are not linked to the selected group\) but are shown to represent the parental relationship to linked sub-techniques that match the filter criteria.
 
-**Parent Topic:**[Investigation canvas and MITRE ATT&amp;CK](../concept/investigation-and-mitre.md)
+**Parent Topic:**[Investigation canvas and MITRE ATT&amp;CK](investigation-and-mitre.md)
 

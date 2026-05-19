@@ -21,9 +21,9 @@ Role required: sn\_bcm.admin
 
 For information on setting up the phases, see [Set up the phases](set-up-phases.md).
 
-For information and steps on mapping recovery tasks to phases, see [Mapping recovery tasks to phases](../concept/mapping-recovery-tasks-to-phases.md) and [Add recovery tasks](add-a-recovery-task.md).
+For information and steps on mapping recovery tasks to phases, see [Mapping recovery tasks to phases](mapping-recovery-tasks-to-phases.md) and [Add recovery tasks](add-a-recovery-task.md).
 
-For information on mapping event tasks to phases, see [Mapping event tasks to phases](../concept/mapping-event-tasks-to-phases.md) and [Mapping event tasks to phases](../concept/mapping-event-tasks-to-phases.md).
+For information on mapping event tasks to phases, see [Mapping event tasks to phases](mapping-event-tasks-to-phases.md) and [Mapping event tasks to phases](mapping-event-tasks-to-phases.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ For information on mapping event tasks to phases, see [Mapping event tasks to ph
 
 3.  On the form, fill in the fields.
 
-    For the description of the fields, see [Phase form](../reference/phase-form.md).
+    For the description of the fields, see [Phase form](phase-form.md).
 
     A sample configuration of the phase is shown where the name of the phase is phase10, its order is 80, and the phase is active.
 

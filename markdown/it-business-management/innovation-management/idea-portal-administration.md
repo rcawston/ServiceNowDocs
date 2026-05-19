@@ -24,11 +24,11 @@ The [Managing Idea Portal](idea-portal.md) retrieves data from the Idea module, 
 
 Complete the following tasks to set up and configure an Idea Portal for your product, department, or business unit:
 
-1.  [Idea Portal navigation](../task/idea-portal-navigation.md)  
+1.  [Idea Portal navigation](idea-portal-navigation.md)  
 Configure the Idea Portal URL to enable access to the Idea Portal from the application navigator.
-2.  [Create an Idea module](../task/create-idea-module.md)  
+2.  [Create an Idea module](create-idea-module.md)  
 An Idea module defines the ideas and categories that are displayed in the Idea Portal. Create an Idea module to store and group ideas, and define categories based on product, department, or business unit.
-3.  [Define new idea categories](../task/define-idea-categories.md)  
+3.  [Define new idea categories](define-idea-categories.md)  
 Create new idea categories that a user can select to associate with a submitted idea. You can also add custom idea categories.
 
 **Parent Topic:**[Managing Idea Portal](idea-portal.md)

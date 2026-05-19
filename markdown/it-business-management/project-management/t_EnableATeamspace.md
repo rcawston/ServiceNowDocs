@@ -38,16 +38,16 @@ The teamspace becomes available in the menu. The records that are assigned to th
 
 ## What to do next
 
-Assign the teamspace roles to the users of that teamspace. Do not assign the general roles that come with the applications in the [Project Portfolio Suite](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md).
+Assign the teamspace roles to the users of that teamspace. Do not assign the general roles that come with the applications in the [Project Portfolio Suite](../ppm-collaboration/c_ProjectPortfolioSuite.md).
 
-**Parent Topic:**[Using Teamspaces in Project Management](../concept/c_Teamspaces.md)
+**Parent Topic:**[Using Teamspaces in Project Management](c_Teamspaces.md)
 
 **Related topics**  
 
 
-[Activate teamspaces](../task/t_ActivateTeamspaces.md)
+[Activate teamspaces](t_ActivateTeamspaces.md)
 
 [Installed with teamspaces](r_InstalledWithTeamspaces.md)
 
-[Using Teamspaces in Project Management](../concept/c_Teamspaces.md)
+[Using Teamspaces in Project Management](c_Teamspaces.md)
 

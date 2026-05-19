@@ -39,7 +39,7 @@ The MID Server runs extension sections after identification sections and only if
 
 If there are more than one extension sections associated with this pattern, define the order in which the MID Server runs these extension sections.
 
-You can deactivate shared libraries, so that patterns using them, skip steps in deactivated shared libraries. For more information, see [Discovery Configuration Console](../../discovery/concept/c_DiscoveryConfigurationConsole.md#). If a precondition defined for a shared library step is not fulfilled, the pattern skips all steps belonging to this shared library. For example, if the file, to which the variable points, does not contain "test", the pattern does not run the shared library steps 1-1 to 1-5. The precondition exists only for the pattern within which you created it. The precondition does not affect other patterns using this shared library.
+You can deactivate shared libraries, so that patterns using them, skip steps in deactivated shared libraries. For more information, see [Discovery Configuration Console](../discovery/c_DiscoveryConfigurationConsole.md#). If a precondition defined for a shared library step is not fulfilled, the pattern skips all steps belonging to this shared library. For example, if the file, to which the variable points, does not contain "test", the pattern does not run the shared library steps 1-1 to 1-5. The precondition exists only for the pattern within which you created it. The precondition does not affect other patterns using this shared library.
 
 ![Precondition for a shared library step](../image/shared-library-precondition.png "Library Reference operation form")
 
@@ -96,7 +96,7 @@ You can deactivate shared libraries, so that patterns using them, skip steps in 
 
 Click **Debug** to run the newly created extension section. Pattern Designer runs extension sections after running identification sections.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Discover related items together with the main CI](add-related-cis-to-the-main-ci-pattern.md)
 

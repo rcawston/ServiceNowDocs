@@ -15,9 +15,9 @@ breadcrumb: [Workplace Concierge, Workplace Service Delivery, Employee Service M
 
 Install and configure the Workplace Concierge application.
 
--   **[Install Workplace Concierge](../task/install-workplace-concierge.md)**  
+-   **[Install Workplace Concierge](install-workplace-concierge.md)**  
 Install the Workplace Concierge application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
--   **[Configure calendar sections on the Presence dashboard](../task/configure-presence-dashboard-sections.md)**  
+-   **[Configure calendar sections on the Presence dashboard](configure-presence-dashboard-sections.md)**  
 As an admin, add or remove calendar sections from the Presence dashboard.
 -   **[Configure workplace space suggestions for employees](configure-workplace-suggestions.md)**  
 Configure the workplace space suggestions table to fetch workspace suggestions. Application provides workspace suggestions based on employee preferences when they are reserving a space.

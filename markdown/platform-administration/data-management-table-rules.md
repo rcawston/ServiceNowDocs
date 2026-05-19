@@ -43,8 +43,8 @@ View a list of the data management rules on the current table.
 
 View the total number of data management rules created on the current table, including the number of active and inactive rules. Manage the growth of data in the current table by creating data management rules or adjusting current rule conditions.
 
--   Create a table cleaner rule to delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](../task/activate-table-cleanup.md).
--   Create an archive rule to move data that's no longer needed every day to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](../../database-rotation/task/t_CreateAnArchiveRule.md#).
+-   Create a table cleaner rule to delete older or unwanted records by selecting **New cleanup rule**. See [Create a table cleanup rule in Core UI](activate-table-cleanup.md).
+-   Create an archive rule to move data that's no longer needed every day to an archive table by selecting **New archive rule**. See [Create an archive rule in Core UI](t_CreateAnArchiveRule.md#).
 
 ## Records in backlog
 

@@ -29,7 +29,7 @@ For general information about dashboards, see [Dashboards in Platform Analytics]
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Dashboard object
 

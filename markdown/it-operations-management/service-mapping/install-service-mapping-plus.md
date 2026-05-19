@@ -29,9 +29,9 @@ The following items are installed with Service Mapping Plus:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Service Mapping Plus](../reference/components-installed-with-service-mapping-plus.md).
+For more information, see [Components installed with Service Mapping Plus](components-installed-with-service-mapping-plus.md).
 
-To view a list of Service Mapping plugin dependencies, see [Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md).
+To view a list of Service Mapping plugin dependencies, see [Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md).
 
 ## Procedure
 

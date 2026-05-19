@@ -32,7 +32,7 @@ If the generated NDA document doesn’t require any changes, the requester can s
 
 A sample workflow for a non-disclosure agreement \(NDA\) contract request might progress as follows:
 
-1.  Legal configurator sets up the foundation data for submitting an NDA request. For more information, see [Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md).
+1.  Legal configurator sets up the foundation data for submitting an NDA request. For more information, see [Configure Contract Management Pro for Legal Service Delivery](../legal-service-delivery/snlc-config-sn-legal-contracts.md).
 2.  Legal requester fills out the NDA intake request form.
 3.  A contract request is initiated.
 4.  Contract document is generated from a contract template and content is added dynamically per predefined conditions.
@@ -62,33 +62,33 @@ A sample workflow for a non-disclosure agreement \(NDA\) contract request might 
 10. The signed contract is attached to the legal request record.
 11. If an external storage is configured, the signed contract is stored in it and referenced in the contract repository.
 
--   **[Submit a legal request for a non-disclosure agreement](../task/snlc-submit-nda-request.md)**  
+-   **[Submit a legal request for a non-disclosure agreement](../legal-service-delivery/snlc-submit-nda-request.md)**  
 Submit a legal request for a non-disclosure agreement \(NDA\) with third parties such as vendors, customers, or partners.
--   **[Modify a non-disclosure agreement legal request](../task/snlc-modify-nda-req.md)**  
+-   **[Modify a non-disclosure agreement legal request](../legal-service-delivery/snlc-modify-nda-req.md)**  
 As a requester, modify the legal request for a non-disclosure agreement \(NDA\).
--   **[View and track non-disclosure agreement requests as a legal user](../task/snlc-view-legal-req-details.md)**  
+-   **[View and track non-disclosure agreement requests as a legal user](../legal-service-delivery/snlc-view-legal-req-details.md)**  
 View the details of a non-disclosure agreement request after it has been submitted and track the activities in the request.
--   **[Work on NDA legal requests](../task/snlc-work-on-contract-request.md)**  
+-   **[Work on NDA legal requests](../legal-service-delivery/snlc-work-on-contract-request.md)**  
 As a member of the legal contracts support team, work on the legal request. Upload the revised document to the request and send the document to the requester from within the request.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
 [Third-party contract review requests](snlc-request-third-party-contract-1.md)
 
-[Contract amendments](snlc-amend-req-landing.md)
+[Contract amendments](../legal-service-delivery/snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](snlc-linking-parent-child.md)
+[Linking parent-child contracts](../legal-service-delivery/snlc-linking-parent-child.md)
 
-[Internal review overview](../task/snlc-expert-review.md)
+[Internal review overview](../legal-service-delivery/snlc-expert-review.md)
 
-[Cancel a legal request](../task/snlc-cancel-request-tpc.md)
+[Cancel a legal request](../legal-service-delivery/snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](../task/snlc-preview-contract.md)
+[View and download a signed contract document](../legal-service-delivery/snlc-preview-contract.md)
 
-[View contract requests](../task/snlc-view-contract-requests.md)
+[View contract requests](../legal-service-delivery/snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](../legal-service-delivery/snlc-manage-sn-legal-contracts.md)
 

@@ -36,7 +36,7 @@ Use the following procedure if you need to refresh the type-ahead suggestions li
 3.  Run the scheduled job.
 
 
-**Parent Topic:**[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+**Parent Topic:**[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 
 **Related topics**  
 

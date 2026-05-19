@@ -59,5 +59,5 @@ You can also unpublish a schedule make updates, and then publish it again.
 
 All the schedules that are in **Draft** state move to **Published** state. You can view the published schedule in the team calendar.
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

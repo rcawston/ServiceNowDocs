@@ -178,5 +178,5 @@ Option to attach any supporting files or documents.
 
 [Perform model risk assessment](perform-model-risk-assessment.md)
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

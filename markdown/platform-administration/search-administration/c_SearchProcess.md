@@ -55,7 +55,7 @@ The system merges the document scores into a single index and sorts the document
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -77,5 +77,5 @@ The system merges the document scores into a single index and sorts the document
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 

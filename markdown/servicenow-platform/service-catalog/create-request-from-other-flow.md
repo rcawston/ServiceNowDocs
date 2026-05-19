@@ -38,7 +38,7 @@ Role required: itil
 
 4.  Check out the required catalog item, order guide, or record producer.
 
-    For information on checkout models, see [.](../concept/c_EnableATwoStepCheckout.md#)
+    For information on checkout models, see [.](c_EnableATwoStepCheckout.md#)
 
     For a catalog item or order guide, a request is created and displayed under the **Requests** tab of the parent table record. For a record producer, the corresponding task is created and displayed under the **Problems** tab of the parent table record, for example, an incident.
 
@@ -47,9 +47,9 @@ Role required: itil
     -   The associated incident is specified in the annotation message throughout the request process.
     -   Both for the one-step and two-step checkout, the caller of the incident is automatically set as the **Requested For** user for the request. If the two-step checkout is enabled, the fulfiller can change the **Requested For**.
 
-        **Note:** For delegated request experience, the caller of the incident is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+        **Note:** For delegated request experience, the caller of the incident is populated in the Requested For variable. For information on delegated request experience, see [Delegated request experience](delegated-request-exp.md).
 
     -   You cannot add items to the wish list, or save a record producer in this flow.
 
-**Parent Topic:**[Service Catalog request fulfillment](../concept/request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](request-fulfillment.md)
 

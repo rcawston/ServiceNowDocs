@@ -29,6 +29,6 @@ Role required: admin
 
 3.  Select **System performance**.
 
-    For more information on the system performance metrics, see [DEX Insights reports](../reference/insights-reports.md).
+    For more information on the system performance metrics, see [DEX Insights reports](insights-reports.md).
 
 

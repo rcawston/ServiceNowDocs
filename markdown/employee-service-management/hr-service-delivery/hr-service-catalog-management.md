@@ -25,7 +25,7 @@ The HR service catalog is a collection of HR catalog items that employees can re
 
 -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
 -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md) instead. Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](../task/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
 -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
 ![The HR service catalog organizes the HR catalog items by category.](../image/hr-service-catalog-categorization.png)

@@ -49,20 +49,20 @@ You can select the impacted AI systems for the demand. If the required AI system
     For more information on creating AI systems, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md).
 
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../concept/c_AssessingDemands.md)
+[Assess demands](c_AssessingDemands.md)
 
 [Create a demand](t_CreatingDemands.md)
 
 [View demands](t_ViewDemands.md)
 
-[Add details to demands](../concept/c_EnhancingDemands.md)
+[Add details to demands](c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 
 [Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
@@ -72,7 +72,7 @@ You can select the impacted AI systems for the demand. If the required AI system
 
 [Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](ppm-piwb-demand.md)
 
 [Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
 

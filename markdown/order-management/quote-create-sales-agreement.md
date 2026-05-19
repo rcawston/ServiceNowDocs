@@ -33,7 +33,7 @@ Sales agreements filter the product catalog according to the agreement.
 
 3.  Add quote details to the quote and select **Enable sales agreement quote**.
 
-    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md) for more information.
+    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [Using Sales Agreement Management](sales-agreement-mgmt-using.md) for more information.
 
 4.  Fill in the **Sales agreement start date** and **Sales agreement end date**.
 
@@ -58,5 +58,5 @@ Sales agreements filter the product catalog according to the agreement.
 11. Select the sales agreement message to open the sales agreement.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

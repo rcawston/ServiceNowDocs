@@ -35,7 +35,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     Field values to set for the record. For example, to set the short description to a certain value, select **Short description** and set the desired value.
 
-    To learn about creating template value input, see [Create a template value input](../task/template-value.md).
+    To learn about creating template value input, see [Create a template value input](template-value.md).
 
     **Important:** The system does not support updating multiple journal fields such as the additional comments or work notes of a task record.
 
@@ -67,5 +67,5 @@ In this example, the flow runs when a priority 1 network incident changes to the
 
 In this example, the action creates problem record PRB00400002, which was created from INC0000002. You can use the Record runtime value to open the new record.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

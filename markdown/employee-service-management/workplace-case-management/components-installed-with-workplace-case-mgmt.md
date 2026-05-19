@@ -39,7 +39,7 @@ Group roles: Workplace Event Planners
 
 </td><td>
 
-AI agentic workflow autonomously assigns emergency maintenance request and change event request submitted by a workplace user. For more information, see [Manage temporary space closures agentic workflow](../../now-assist-wsd/concept/maintenance-meeting-room-agent-ai.md) and [Help manage workplace reservations agentic workflow](../../now-assist-wsd/concept/manage-workplace-reservations-agent-ai.md).
+AI agentic workflow autonomously assigns emergency maintenance request and change event request submitted by a workplace user. For more information, see [Manage temporary space closures agentic workflow](../now-assist-for-wsd/maintenance-meeting-room-agent-ai.md) and [Help manage workplace reservations agentic workflow](../now-assist-for-wsd/manage-workplace-reservations-agent-ai.md).
 
 </td><td>
 
@@ -190,7 +190,7 @@ Workplace Case\[sn\_wsd\_case\_workplace\_case\]
 
 </td><td>
 
-Extends Workplace Task \[sn\_wsd\_core\_workplace\_task\] table. Stores information about all the Workplace cases in the application.: If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Case \[sn\_wsd\_case\_workplace\_case\] table is also archived. For more information, see [Apply the archive rule](../../workplace-service-delivery/task/wsd-tables-purge-policy.md).
+Extends Workplace Task \[sn\_wsd\_core\_workplace\_task\] table. Stores information about all the Workplace cases in the application.: If **WSD: Archive old workplace tasks** archival rule is applied then Workplace Case \[sn\_wsd\_case\_workplace\_case\] table is also archived. For more information, see [Apply the archive rule](../workplace-core/wsd-tables-purge-policy.md).
 
 </td></tr><tr><td>
 
@@ -230,7 +230,7 @@ Request Service Items\[sn\_wsd\_case\_service\_item\_request\]
 
 </td><td>
 
-Stores information about all the workplace service items requested using a workplace service.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Request Service Items \[sn\_wsd\_case\_service\_item\_request\] table is also archived. For more information, see [Apply the archive rule](../../workplace-service-delivery/task/wsd-tables-purge-policy.md).
+Stores information about all the workplace service items requested using a workplace service.**Note:** If **WSD: Archive old workplace tasks** archival rule is applied then Request Service Items \[sn\_wsd\_case\_service\_item\_request\] table is also archived. For more information, see [Apply the archive rule](../workplace-core/wsd-tables-purge-policy.md).
 
 </td></tr><tr><td>
 
@@ -273,7 +273,7 @@ Workplace Template Configuration\[sn\_wsd\_case\_workplace\_template\_configurat
 Stores information about all the workplace template configurations created in the application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Case Management references](workpalce-case-mgmt-references.md)
 
 **Related topics**  
 

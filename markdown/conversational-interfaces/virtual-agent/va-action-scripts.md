@@ -546,5 +546,5 @@ Virtual Agent - SMS Twilio Adapter Default Picker Inbound TransformerPurpose: Fi
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](../concept/va-features-custom-chat-integrations.md)
+</table>**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](va-features-custom-chat-integrations.md)
 

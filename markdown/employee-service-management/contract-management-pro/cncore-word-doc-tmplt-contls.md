@@ -63,7 +63,7 @@ Role required: sn\_cm\_core.contract\_config
 9.  Select **OK**.
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
 **Related topics**  
 

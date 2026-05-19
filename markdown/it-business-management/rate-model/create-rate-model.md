@@ -18,7 +18,7 @@ Create or modify a rate model that can be linked to a project or demand to deter
 ## Before you begin
 
 -   Choose the attributes to define the criteria in a rate model to derive hourly rates.
--   Define the [budget reference rates](../../project-management/concept/c_BudgetReferenceRates.md) for the non-functional currency for the required time periods.
+-   Define the [budget reference rates](../ppm-collaboration/c_BudgetReferenceRates.md) for the non-functional currency for the required time periods.
 -   Role required: pps\_admin or it\_rate\_model\_admin
 
 ## Procedure
@@ -112,7 +112,7 @@ Rate type
 
 </td><td>
 
-Option for enabling the rate type attribute on rate lines in the rate model.When selected, **Rate type** is added as one of the attributes along with other defined attributes. For more information, see [Rate type in labor rate card](../../cost-management/concept/RateType.md).
+Option for enabling the rate type attribute on rate lines in the rate model.When selected, **Rate type** is added as one of the attributes along with other defined attributes. For more information, see [Rate type in labor rate card](../cost-management/RateType.md).
 
 </td></tr><tr><td>
 
@@ -130,5 +130,5 @@ Short description for the rate model.
 
 [Add attributes from a set of predefined entities](define-rate-model-criteria.md) to define the criteria for rate model to derive resource cost.
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](rate-model.md)
 

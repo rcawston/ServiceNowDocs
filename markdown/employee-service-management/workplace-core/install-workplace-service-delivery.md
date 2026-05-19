@@ -28,7 +28,7 @@ The following components are installed with installation of the Workplace Core a
 -   Roles
 -   Tables
 
-See [Components installed with Workplace Core](../reference/components-installed-with-workplace-service-delivery.md) for more information.
+See [Components installed with Workplace Core](components-installed-with-workplace-service-delivery.md) for more information.
 
 ## Procedure
 
@@ -55,14 +55,14 @@ See [Components installed with Workplace Core](../reference/components-installed
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Core](../concept/configure-wsd.md)
+**Parent Topic:**[Configure Workplace Core](configure-wsd.md)
 
 **Related topics**  
 
 
-[Providing your workplace data](../concept/providing-your-workplace-data-wsd.md)
+[Providing your workplace data](providing-your-workplace-data-wsd.md)
 
-[Configuring spreadsheets to import workplace data](../concept/importing-workspace-data-wsd.md#)
+[Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#)
 
 [Activate Virtual Agent for Workplace Service Delivery](actuvate-va-for-wsd.md)
 

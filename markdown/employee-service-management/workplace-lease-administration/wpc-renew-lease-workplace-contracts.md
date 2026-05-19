@@ -128,7 +128,7 @@ Percentage increase or decrease in the price of the renewed contract. A negative
 
 If you selected the **Save** option, ensure that you click **Renew** when you’re ready to submit the contract renewal for approval.
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](manage-contracts-from-wpc.md)
 
 **Related topics**  
 

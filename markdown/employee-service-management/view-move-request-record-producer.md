@@ -36,7 +36,7 @@ After a workplace service is created, the service is linked to a record producer
     -   **Request an employee's desk change**
 3.  On the form, edit the fields that you want change.
 
-    For more information about each field on the form, see [Configure a Record producer](../../workplace-case-mgmt/task/wsd-create-record-producer.md).
+    For more information about each field on the form, see [Configure a Record producer](workplace-case-management/wsd-create-record-producer.md).
 
 4.  Click **Update**.
 
@@ -45,18 +45,18 @@ After a workplace service is created, the service is linked to a record producer
 
 The record producer is updated.
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Create a move request on behalf of an employee](request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](employee-service-management/request-desk-change-for-employee-1.md)
 
-[Raise a move request for a space change](request-desk-change.md)
+[Raise a move request for a space change](workplace-case-management/request-desk-change.md)
 
 [Update a move request workplace service](update-move-request-workplace-service.md)
 
 [Create a move-related knowledge base article](create-move-related-kb-article.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](review-conflicts.md)
 

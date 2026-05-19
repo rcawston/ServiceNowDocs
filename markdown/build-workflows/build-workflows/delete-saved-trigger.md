@@ -33,5 +33,5 @@ The trigger must be detached from any of the flows that are using the trigger. F
 6.  On the pop-up window, select **Delete**.
 
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

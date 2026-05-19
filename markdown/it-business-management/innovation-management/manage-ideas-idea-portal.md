@@ -72,5 +72,5 @@ Remove an idea from the database when it is no longer relevant or is set to old.
 **Related topics**  
 
 
-[Manage ideas](../task/manage-ideas.md)
+[Manage ideas](manage-ideas.md)
 

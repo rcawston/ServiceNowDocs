@@ -17,7 +17,7 @@ Switch to the demand currency view to track the planned costs of a demand in the
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -62,14 +62,14 @@ To manage your demands in a currency different than the functional currency, the
 
 Refer to the form fields that are exclusive to the **Demand Currency** view that you have selected. All the other form tabs and fields remain the same both for the default view and the demand currency view. Continue to enter values in the fields as you would for the default view.
 
--   **[Multicurrency fields in demand-related forms](../reference/multicurrency-fields-demand.md)**  
+-   **[Multicurrency fields in demand-related forms](multicurrency-fields-demand.md)**  
 When you enable the **Demand Currency** view in a Demand, Cost Plan, and Cost Plan Breakdown forms, you can observe the multicurrency fields in the Financials section of the forms.
 -   **[Allocate demand budget in demand currency](allocate-budget-demand-currency.md)**  
 Set the capital expense \(Capex\) and operating expense \(Opex\) budgets in demand or functional currency according to the fiscal years. The sum of the Capex and Opex budgets is calculated as the total budget in demand currency.
--   **[Cost plan updates and cost recalculation in demand currency](../concept/cost-recalculation-demand-multicurrency.md)**  
+-   **[Cost plan updates and cost recalculation in demand currency](cost-recalculation-demand-multicurrency.md)**  
 Updating the unit cost, quantity, or fiscal period of a cost plan updates all the related amount fields in the cost plan and its breakdowns. Also, the amounts in the related fields of the demand, to which the cost plan is rolling up, are recalculated and reflected in the demand currency.
--   **[Benefit plan updates and recalculation in demand currency](../concept/benefit-plan-recalculation-demand.md)**  
+-   **[Benefit plan updates and recalculation in demand currency](benefit-plan-recalculation-demand.md)**  
 Updating the entered currency, entered benefit, offset type, or the fiscal period of a benefit plan also updates all related amount fields in the benefit plan and its breakdowns. Also, the amounts in the related fields of the demand, to which the benefit plan is rolling up, are recalculated and reflected in demand currency.
 
-**Parent Topic:**[Multicurrency in Demand Management](../concept/multicurrency-demand.md)
+**Parent Topic:**[Multicurrency in Demand Management](multicurrency-demand.md)
 

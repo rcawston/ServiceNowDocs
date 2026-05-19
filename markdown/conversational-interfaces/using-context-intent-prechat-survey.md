@@ -29,7 +29,7 @@ The Pre-chat short description as NLU intent record allows the CSP Anonymous Pre
 
 ![Context topic intent record view corresponding with the pre-chat survey, with context and condition fields highlighted.](../image/prechat-short-description-nlu-intent.png "The Context topic intent record that corresponds with the pre-chat survey")
 
--   **[Define topic context intent configurations](../task/ac-configure-context-topic-intent.md)**  
+-   **[Define topic context intent configurations](ac-configure-context-topic-intent.md)**  
 Use pre-chat survey information to determine the appropriate Virtual Agent conversation topic automatically displayed to end users \(requesters\), rather than prompting them to choose from a list of conversation topics.
 
 **Parent Topic:**[General chat settings](ci-configuring-chat-features.md)

@@ -101,7 +101,7 @@ For example, if a new floor or a space is added to a location, then they're auto
     When a records are updated in the Provider Connector Configuration table, the selected spaces or location records are updated in the Provider Space Mapping table. The location records are updated with the location hierarchy \(Region, Campus, Building, floor, and space records\).
 
 
-**Parent Topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 
 **Previous topic:**[Set up Connector Configuration for Environmental sensor data](wsd-connectorconfiguration-environment.md)
 

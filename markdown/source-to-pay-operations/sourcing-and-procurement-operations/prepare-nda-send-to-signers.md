@@ -203,5 +203,5 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+**Parent Topic:**[Routing NDAs to suppliers](routing-ndas-to-suppliers.md)
 

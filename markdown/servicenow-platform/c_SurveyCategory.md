@@ -20,9 +20,9 @@ For simple surveys, one category is usually enough. Consider creating additional
 -   Separate groups of questions into collapsible sections by category on the survey questionnaire.
 -   Report on category scores, which are calculated based on responses for all questions within each category.
 
--   **[Create a category in the survey designer](../task/t_CreateCatInSurveyDesigr.md)**  
+-   **[Create a category in the survey designer](t_CreateCatInSurveyDesigr.md)**  
 A category represents a theme for evaluating a specific element of the survey topic and contains questions pertaining to that theme.
--   **[Create a survey category in a survey](../task/t_CreateASurveyCategory.md)**  
+-   **[Create a survey category in a survey](t_CreateASurveyCategory.md)**  
 You can modify an existing survey to add one or more survey categories.
 
 **Parent Topic:**[Survey designer](c_SurveyDesigner.md)
@@ -32,15 +32,15 @@ You can modify an existing survey to add one or more survey categories.
 
 [Survey designer elements](c_SurveyDesignerElements.md)
 
-[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
-[Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](../task/create-custom-templates-questions.md)
+[Create custom metric type](create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](../task/t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
 

@@ -50,5 +50,5 @@ Access the dashboard by navigating to **Walk-up Experience** &gt; **Dashboard**.
 |% Walk-up interaction \(by Walk-up type\)|Percentage Walk-up interaction distributed over check-in, online check-in and appointment|
 |% Abandoned walk-ups \(by Walk-up type\)|Percentage abandoned walk-ups distributed over check-ins, online check-ins and appointments|
 
-**Parent Topic:**[Walk-up Experience](../reference/walkup-experience-landing-page.md)
+**Parent Topic:**[Walk-up Experience](walkup-experience-landing-page.md)
 

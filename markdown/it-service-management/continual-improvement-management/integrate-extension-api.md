@@ -56,5 +56,5 @@ The CIMIntegrationAPI defines the inbound and outbound extension points for inte
     For more information, see [Create a UI action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md).
 
 
-**Parent Topic:**[Applications integrated with Continual Improvement Management](../reference/cim-integration.md)
+**Parent Topic:**[Applications integrated with Continual Improvement Management](cim-integration.md)
 

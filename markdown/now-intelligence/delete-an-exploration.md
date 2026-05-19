@@ -36,7 +36,7 @@ Role required: now\_assist\_explorer\_user and ownership of the exploration. Use
         ![Deletion option in the additional options menu.](../image/nowass-del-option.png)
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 
 **Related topics**  
 

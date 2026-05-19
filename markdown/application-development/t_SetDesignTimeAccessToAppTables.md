@@ -53,12 +53,12 @@ displays applications downloaded on this instance.
 6.  Click **Update**.
 
 
-**Parent Topic:**[Design-time access to application tables](../concept/c_DesignTimeAccessToAppTables.md)
+**Parent Topic:**[Design-time access to application tables](c_DesignTimeAccessToAppTables.md)
 
 **Related topics**  
 
 
-[Example denying all design access to a table](../concept/c_ExampleDenyingAllDesignAccess.md)
+[Example denying all design access to a table](c_ExampleDenyingAllDesignAccess.md)
 
-[Example allowing configuration records for a table](../concept/c_ExampleGrantingAccessToConfigRecs.md)
+[Example allowing configuration records for a table](c_ExampleGrantingAccessToConfigRecs.md)
 

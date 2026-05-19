@@ -45,5 +45,5 @@ Visual indicators in the Action Status column on the case list highlight case st
 **Related topics**  
 
 
-[Case action status](../concept/case-action-status-csm-workspace.md)
+[Case action status](case-action-status-csm-workspace.md)
 

@@ -25,7 +25,7 @@ An execution plan is not specific to any one catalog item. There could be many d
 
 **Note:** Execution plans are not as powerful or flexible as workflows, and cannot be designed using a graphical editor. Execution plans are useful in some circumstances, for example, if you want to build your processes programmatically or through imports. ServiceNow recommends using workflows for request fulfillment processes.
 
--   **[Create an execution plan](../task/t_CreateAnExecutionPlan.md#)**  
+-   **[Create an execution plan](t_CreateAnExecutionPlan.md#)**  
 Administrators and catalog administrators can create and manage execution plans and the associated variable tasks.
 -   **[Execution plan tasks](c_ExecutionPlanTasks.md#)**  
 An execution plan contains one or more execution plan tasks, such as for obtaining approval. Execution plan tasks are assigned to a fulfillment group.

@@ -164,7 +164,7 @@ On tap function instance
 
 Determine what actions appear when a user taps on a list item.
 
- Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](../concept/mobile-nav-functions.md).
+ Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](mobile-nav-functions.md).
 
  **Note:** This option only appears when **Use a function instance** is selected for **On tap**.
 
@@ -337,7 +337,7 @@ The function used within this function instance.
 </td></tr></tbody>
 </table>23. In the **Function** section, select **Choose** to use a function or select **New** to create one.
 
-    For more information on mobile functions, see [Mobile functions](../concept/sg-studio-mobile-button-types.md).
+    For more information on mobile functions, see [Mobile functions](sg-studio-mobile-button-types.md).
 
 24. Select **Save**.
 

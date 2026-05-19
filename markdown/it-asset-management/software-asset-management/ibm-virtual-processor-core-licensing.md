@@ -23,7 +23,7 @@ If you are integrating the IBM publisher pack with an ASP, the publisher pack su
 
 You can gain visibility into how your VPC licenses are applied to your devices by using the **Usage Type** field in the [license workbench](sam-license-workbench.md). Use this information to determine whether your VPC licenses are applied to the full capacity or sub-capacity of each device. If you are integrating with an ASP, you can specify how a VPC license is applied to a device by navigating to **Workspaces** &gt; **Software Asset Workspace**. When the Software Asset Workspace launches, open the License operations view. From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device Settings** to modify the value of the corresponding **Usage Type** field. By default, the **Usage Type** field is automatically set to **Sub-capacity**.
 
-For more details on the available device settings, see [Verify the meta data for your IBM hosts](../task/verify-ibm-device-meta-data.md).
+For more details on the available device settings, see [Verify the meta data for your IBM hosts](verify-ibm-device-meta-data.md).
 
 **Parent Topic:**[Supported IBM license types](supported-ibm-license-types.md)
 

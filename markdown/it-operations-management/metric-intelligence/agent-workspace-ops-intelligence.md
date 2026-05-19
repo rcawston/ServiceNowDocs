@@ -27,7 +27,7 @@ A metric chart that appears in the metric charts form in Metric Explorer can be 
 
     ![Time series chart type in Agent Workspace.](../image/time-series-chart.png)
 
-    The time-series chart type is a graph of all data points in the specified time range, for the metrics of the CI associated with the chart. Time-series charts are similar to charts in [Insights Explorer](../task/view-metrics-explorer.md), and depending on settings, show lower and upper bounds.
+    The time-series chart type is a graph of all data points in the specified time range, for the metrics of the CI associated with the chart. Time-series charts are similar to charts in [Insights Explorer](view-metrics-explorer.md), and depending on settings, show lower and upper bounds.
 
 -   **Single-score chart**
 

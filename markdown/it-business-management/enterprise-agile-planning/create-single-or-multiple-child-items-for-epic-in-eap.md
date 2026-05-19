@@ -64,9 +64,9 @@ The full details page of the created story is displayed.
 
 </td><td>
 
-See [Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/generate-agile-story-planning-items.md).
+See [Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](generate-agile-story-planning-items.md).
 
- For epics and features, you can use the generative AI skills of Now Assist to automatically generate stories, saving time and reducing manual effort. See [Generate multiple stories at once in EAP using Now Assist for SPM](../../now-assist-spm/task/generate-stories-from-epics-now-assist-eap.md).
+ For epics and features, you can use the generative AI skills of Now Assist to automatically generate stories, saving time and reducing manual effort. See [Generate multiple stories at once in EAP using Now Assist for SPM](generate-stories-from-epics-now-assist-eap.md).
 
 **Note:** This feature requires activating the Agile story generation skill of Now Assist for SPM. For more information, see .
 
@@ -79,7 +79,7 @@ See [Create stories agentic workflow using Now Assist for Strategic Portfolio Ma
 
     From the full details page of a story, you can perform the following actions:
 
-    -   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md).
+    -   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md).
 
         This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
 
@@ -90,5 +90,5 @@ See [Create stories agentic workflow using Now Assist for Strategic Portfolio Ma
     ![Full details page of a story in EAP.](../images/eap-delete-child-item.png)
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

@@ -39,5 +39,5 @@ Install ServiceNow CLI on a Windows OS using the installer.
 -   **[Install the ServiceNow CLI on Linux](install-linux.md)**  
 Install ServiceNow CLI on a Linux machine using the installer.
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

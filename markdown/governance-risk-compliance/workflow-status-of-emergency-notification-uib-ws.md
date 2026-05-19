@@ -91,5 +91,5 @@ Communication status
 **Completed**: The state moves to Completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sending notifications with Everbridge](../concept/ebn-collective-tasks.md)
+</table>**Parent Topic:**[Sending notifications with Everbridge](ebn-collective-tasks.md)
 

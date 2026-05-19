@@ -122,7 +122,7 @@ Role required: admin
 
 ### About this task
 
-The [Windows Cluster](../reference/r_WindowsServerClusterDiscovery.md) resources table is cmdb\_ci\_win\_cluster\_resource. This relationship is built through JavaScript.
+The [Windows Cluster](r_WindowsServerClusterDiscovery.md) resources table is cmdb\_ci\_win\_cluster\_resource. This relationship is built through JavaScript.
 
 ### Procedure
 

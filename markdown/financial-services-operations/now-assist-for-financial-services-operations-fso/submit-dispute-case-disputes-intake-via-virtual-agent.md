@@ -61,5 +61,5 @@ Learn how a customer can resume a card dispute case in Disputes intake via Virtu
 -   **[Review a customer interaction with Disputes intake via Virtual Agent](review-interaction-with-dispute-intake-virtual-agent.md)**  
 Retrieve a chat interaction between a customer and Disputes intake via Virtual Agent to review a transcript of the conversation and confirm responses.
 
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](using-now-assist-for-financial-services-operations-fso.md)
 

@@ -64,5 +64,5 @@ A legal hold notice is issued to the custodian via email, with the fulfiller cop
 
 A copy of the legal hold notice sent to the custodian is attached under the **Artifacts** tab within the corresponding legal matter.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

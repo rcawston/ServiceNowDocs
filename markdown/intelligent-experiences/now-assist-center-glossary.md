@@ -16,16 +16,16 @@ Before getting started with Now Assist Center, it is important to understand som
 
 For more helpful terminology, see [ServiceNow AI Platform glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) glossary.
 
-**Parent Topic:**[Now Assist Center reference](../reference/now-assist-center-reference.md)
+**Parent Topic:**[Now Assist Center reference](now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Now Assist Center](../reference/components-installed-with-now-assist-center.md)
+[Components installed with Now Assist Center](components-installed-with-now-assist-center.md)
 
-[Domain separation and Now Assist Center](../reference/domain-separation-now-assist-center.md)
+[Domain separation and Now Assist Center](domain-separation-now-assist-center.md)
 
-[Now Assist Center roles](../reference/now-assist-center-roles.md#)
+[Now Assist Center roles](now-assist-center-roles.md#)
 
 ## agents
 

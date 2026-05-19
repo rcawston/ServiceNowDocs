@@ -34,5 +34,5 @@ Role required: sn\_vaccine\_sm.clinician
     **Note:** As a clinician or as a vaccine agent, you can search for an existing appointment using the contact filter only for consumer users and not for internal users. If you want to search for an existing appointment for an internal user, you must navigate to Vaccination Tasks and filter the list by the user name.
 
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

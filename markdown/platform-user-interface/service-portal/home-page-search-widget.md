@@ -21,7 +21,7 @@ Add a search bar to your home page. You can use this base system widget as-is in
 
 Use the instance options to configure the Homepage Search widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](enable-ais-sp.md).
 
 <table id="table_bkp_rsp_5mb"><thead><tr><th>
 
@@ -113,9 +113,9 @@ Content that portal users can search on, including tables in your instance or ex
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

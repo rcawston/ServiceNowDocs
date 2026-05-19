@@ -65,5 +65,5 @@ A comma-separated list of the article states for which the knowledge subscriptio
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

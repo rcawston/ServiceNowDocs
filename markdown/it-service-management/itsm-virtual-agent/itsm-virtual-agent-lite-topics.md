@@ -26,5 +26,5 @@ ITSM Virtual Agent Lite includes several pre-built, read-only topic conversation
     Users can create incidents using a [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md).
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent Lite](../task/setup-itsm-virtual-agent-lite.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent Lite](setup-itsm-virtual-agent-lite.md)
 

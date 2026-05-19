@@ -136,13 +136,13 @@ You can view reservations created in any campus, building, or floor of your orga
         -   To change the reservation and keep the services, edit the reservation first.
 14. To create a reservation on the selected campus, select **Create new reservation**.
 
-    For more information on how to make a reservation, refer to [Create a reservation](../../wsd-reservation-management/task/create-reservation-request-1.md).
+    For more information on how to make a reservation, refer to [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 
--   **[Allow Event planners to handle reservations with more flexibility](../concept/event-planner-bypass-validation-rule-overview.md)**  
+-   **[Allow Event planners to handle reservations with more flexibility](event-planner-bypass-validation-rule-overview.md)**  
 Reservation planners can bypass or overrule certain settings in the Reservable module while moving a reservation to another location in the Event planner Scheduled View.
 -   **[Move reservations between Reservable modules using the Schedule view](evnt-planner-scheduled-view-move-rsv.md)**  
 Reservation or space planners can move or update reservation between Reservable modules. Planners with sn\_wsd\_rsv.bypass\_module\_validation role can bypass the Reservable module configuration settings.
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

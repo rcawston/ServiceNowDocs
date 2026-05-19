@@ -138,10 +138,10 @@ Detailed description for the record producer.
 
 ## What to do next
 
-You can create multiple configuration revisions of this published remote record producer. For details on how to create a configuration revision, see [Create configuration revisions](../concept/service-bridge-v2-create-config-rev.md). You can also perform the following operations:
+You can create multiple configuration revisions of this published remote record producer. For details on how to create a configuration revision, see [Create configuration revisions](service-bridge-v2-create-config-rev.md). You can also perform the following operations:
 
--   Archive a configuration revision: See [Archive a configuration revision](../concept/service-bridge-v2-create-config-rev.md#section_zjw_2qc_sbc)
--   Copy a configuration revision: See [Copy a configuration revision](../concept/service-bridge-v2-create-config-rev.md#section_gst_43n_tbc).
--   Retire a configuration: [Retire a configuration](../concept/service-bridge-v2-create-config-rev.md#section_x1w_dqc_sbc).
--   Delete a configuration: See [Delete a configuration](../concept/service-bridge-v2-create-config-rev.md#section_igy_2jn_tbc).
+-   Archive a configuration revision: See [Archive a configuration revision](service-bridge-v2-create-config-rev.md#section_zjw_2qc_sbc)
+-   Copy a configuration revision: See [Copy a configuration revision](service-bridge-v2-create-config-rev.md#section_gst_43n_tbc).
+-   Retire a configuration: [Retire a configuration](service-bridge-v2-create-config-rev.md#section_x1w_dqc_sbc).
+-   Delete a configuration: See [Delete a configuration](service-bridge-v2-create-config-rev.md#section_igy_2jn_tbc).
 

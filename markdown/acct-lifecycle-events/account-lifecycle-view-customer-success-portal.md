@@ -90,5 +90,5 @@ Role required: admin
     All the activities related to the case task are displayed.
 
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
 

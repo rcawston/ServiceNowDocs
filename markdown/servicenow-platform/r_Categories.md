@@ -21,12 +21,12 @@ Select from these reporting periods:
 
 ![Scorecard categories](../images/ScorecardCategories.png "Scorecard categories")
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](t_CreateALinkToAScorecard.md)
 
 [Assessment scorecard averages](r_Averages.md)
 

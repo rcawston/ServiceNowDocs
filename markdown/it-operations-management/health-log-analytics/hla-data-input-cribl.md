@@ -42,15 +42,15 @@ If your organization uses Cribl for filtering and routing large volumes of log d
 
 4.  On the **Getting Started** tab, fill in the form fields and then select **Next**.
 
-    For a description of the fields, see [Cribl data input configuration fields](../../health-log-analytics-admin/reference/hla-data-input-cribl-ref.md).
+    For a description of the fields, see [Cribl data input configuration fields](hla-data-input-cribl-ref.md).
 
 5.  On the **Config** tab, fill in the form fields and then select **Next**.
 
-    For a description of the fields, see [Cribl data input configuration fields](../../health-log-analytics-admin/reference/hla-data-input-cribl-ref.md).
+    For a description of the fields, see [Cribl data input configuration fields](hla-data-input-cribl-ref.md).
 
 6.  On the **Process** tab, select the required route and then select **Next**.
 
-    For more information, see [Cribl data input configuration fields](../../health-log-analytics-admin/reference/hla-data-input-cribl-ref.md).
+    For more information, see [Cribl data input configuration fields](hla-data-input-cribl-ref.md).
 
     **Note:** For troubleshooting issues related to this step, see the [Cribl - Setting up Cribl data input \| Troubleshooting setup &amp; data ingestion issues \[KB0558611\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1787528) article in the Now Support Knowledge Base.
 
@@ -73,7 +73,7 @@ For resolving issues related to the ingestion of log data from Cribl, see the [C
 
 ## What to do next
 
-[Make sure that the data input is streaming data.](../../health-log-analytics-admin/task/hla-data-input-streaming.md)
+[Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../../health-log-analytics-admin/concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

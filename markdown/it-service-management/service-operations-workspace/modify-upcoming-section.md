@@ -191,5 +191,5 @@ Using an extension point, you can call the custom scripts to extend the function
     5.  Verify that the task appears in the **Upcoming** section of the Service Operations Workspace landing page for the selected user.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](landing-page-configurations-sow-itsm.md)
 

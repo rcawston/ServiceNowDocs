@@ -77,23 +77,23 @@ For more information, see [Configure properties for Problem Management in Servic
 </td></tr></tbody>
 </table>2.  On the problem form, fill the fields in the **Details** tab.
 
-    For a description of the field values, see [Problem form](../reference/problem-form-sow.md).
+    For a description of the field values, see [Problem form](problem-form-sow.md).
 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Problem Management in Service Operations Workspace](../concept/problem-sow.md)
+**Parent Topic:**[Problem Management in Service Operations Workspace](problem-sow.md)
 
 **Related topics**  
 
 
 [Work on a problem in Service Operations Workspace](work-on-problem-sow.md)
 
-[Problem Management models in Service Operations Workspace](../concept/problem-mgmt-models-sow.md)
+[Problem Management models in Service Operations Workspace](problem-mgmt-models-sow.md)
 
 [Create a problem task in Service Operations Workspace](create-problem-task-sow.md)
 
 [Work on a problem task in Service Operations Workspace](work-on-problem-task-sow.md)
 
-[Problem Management in Service Operations Workspace reference](../concept/reference-problem-management-sow.md)
+[Problem Management in Service Operations Workspace reference](reference-problem-management-sow.md)
 

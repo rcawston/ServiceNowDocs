@@ -46,7 +46,7 @@ You can create a coaching assessment from incidents, problems, change requests, 
 
     3.  In the **Due Date** field, enter the date when the assessment is due.
 
-    The coaching assessment is set to **Closed Incomplete** state after the due date. Use system properties to set due dates to complete training. For more information, refer to [Coaching reference](../reference/cf-coaching-reference.md). You can disable automatic closure behavior by deactivating the **Close assessments after expiration** scheduled job.
+    The coaching assessment is set to **Closed Incomplete** state after the due date. Use system properties to set due dates to complete training. For more information, refer to [Coaching reference](cf-coaching-reference.md). You can disable automatic closure behavior by deactivating the **Close assessments after expiration** scheduled job.
 
 3.  Fill in the fields in the **Notes** tab.
 
@@ -159,10 +159,10 @@ Trainee showed great interest in learning the trainings and finished them ahead 
 </table>-   **[Assign skills after completing an assessment](cf-assign-skills-assessment.md)**  
 Automatically assign skills to trainees for specific skill levels based on the course items they have completed. For example, if a trainee completes the course items for learning Japanese at an expert level, then the skill level 'expert' can be assigned to the trainee.
 
-**Parent Topic:**[Coaching your trainee](../concept/cf-coaching-your-trainee.md)
+**Parent Topic:**[Coaching your trainee](cf-coaching-your-trainee.md)
 
 **Related topics**  
 
 
-[Coaching field descriptions](../reference/cf-coaching-field-descriptions.md)
+[Coaching field descriptions](cf-coaching-field-descriptions.md)
 

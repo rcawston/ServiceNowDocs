@@ -102,7 +102,7 @@ Capture element
 
 </td><td>
 
-Captures elements from the application screen. For more information, see [Use the Universal App Connector](../task/configure-uac.md).
+Captures elements from the application screen. For more information, see [Use the Universal App Connector](configure-uac.md).
 
 </td></tr><tr><td>
 
@@ -239,5 +239,5 @@ Click
 Clicks the elements if applicable.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+</table>**Parent Topic:**[Universal app connector](universal-app-connector.md)
 

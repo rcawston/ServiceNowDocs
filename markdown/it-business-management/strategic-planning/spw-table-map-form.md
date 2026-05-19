@@ -69,5 +69,5 @@ Select **Strategic Planning Workspace**.
 **Related topics**  
 
 
-[Create custom table mapping for SPW Jira integrations](../concept/custom-mapping-configuration-spw-jira.md#)
+[Create custom table mapping for SPW Jira integrations](custom-mapping-configuration-spw-jira.md#)
 

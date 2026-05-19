@@ -140,5 +140,5 @@ Steps
     You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Review the Now Assist suggestions for clause deviations](cmpro-review-contract-document.md).
 
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md)
 

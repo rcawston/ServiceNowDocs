@@ -44,7 +44,7 @@ Key benefits of Next Experience for Demand Management:
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about demand components like roles, tables, properties, forms, and lists.](../reference/demand-workspace-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about demand components like roles, tables, properties, forms, and lists.](demand-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

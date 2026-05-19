@@ -28,5 +28,5 @@ If you have contractors, you can set up the following features:
     You can configure Contractor Marketplace to enable dispatchers to push tasks to marketplace when internal agents are unavailable.
 
 
-For more information on Contractor mobile see [Field Service Contractor for mobile feature of the Now Mobile Agent application](field-service-contractor-portal-mobile.md).
+For more information on Contractor mobile see [Field Service Contractor for mobile feature of the Now Mobile Agent application](../mobile-experience-for-field-service-management-glide-family/field-service-contractor-portal-mobile.md).
 

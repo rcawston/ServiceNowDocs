@@ -32,5 +32,5 @@ Role required: admin
     For more information, see [Update the app ID in the ServiceNow instance](update-app-id-instance-mt.md).
 
 
-**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md)
+**Parent Topic:**[Unfurl the web links in Microsoft Teams chat](enable-link-unfurling.md)
 

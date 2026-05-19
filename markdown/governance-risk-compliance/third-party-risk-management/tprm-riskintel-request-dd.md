@@ -37,7 +37,7 @@ You can order different types of risk intelligence reports such as credit risk r
 
 4.  On the **Risk Intelligence report request** tab, select **New** and specify the **Provider** and **Request type**.
 
-    For descriptions of all these fields, see [Risk intelligence report request form](../../grc-workspace-vrm/reference/tprm-rir-form.md).
+    For descriptions of all these fields, see [Risk intelligence report request form](tprm-rir-form.md).
 
 5.  In the Sanction section of the form, enter any sanction-related information.
 

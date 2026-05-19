@@ -17,7 +17,7 @@ Set up an on-call schedule for your team to ensure that the right person is alwa
 
 ## Create a shift form
 
-For more information, see [Create an SRM on-call schedule](../task/sr-create-on-call-schedule.md).
+For more information, see [Create an SRM on-call schedule](sr-create-on-call-schedule.md).
 
 <table id="id_gsh_vyw_qzb"><thead><tr><th>
 

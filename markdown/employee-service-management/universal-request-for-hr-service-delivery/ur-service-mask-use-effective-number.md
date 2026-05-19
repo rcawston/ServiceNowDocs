@@ -38,5 +38,5 @@ The **task\_effective\_number** is a dynamic field value that displays the UR nu
 4.  Click **Update**.
 
 
-**Parent Topic:**[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+**Parent Topic:**[Email notification preferences for your service](ur-customize-email-notifcations.md)
 

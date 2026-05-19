@@ -30,7 +30,7 @@ To view the templates, navigate to **All** &gt; **Content Publishing** &gt; **Co
 
 ## Creating a Content template
 
-A user with the sn\_cd.content\_template\_owner role creates a content template to define the article layout, publishing location, and audience. For more information, see [Create a Content template](../task/ec-create-content-template.md).
+A user with the sn\_cd.content\_template\_owner role creates a content template to define the article layout, publishing location, and audience. For more information, see [Create a Content template](ec-create-content-template.md).
 
 ## Using Content templates
 

@@ -17,7 +17,7 @@ Define the contract repository where the contracts will be stored and map the da
 
 ## Before you begin
 
-A contract template and a template rule that will pick the template when the user submits a contract or amendment request must exist. For more information, see [Configure templates for a contract and amendment request in Contract Management Pro](../concept/cncore-document-templates.md) and [Configure contract template rules](cncore-config-template-rules.md).
+A contract template and a template rule that will pick the template when the user submits a contract or amendment request must exist. For more information, see [Configure templates for a contract and amendment request in Contract Management Pro](cncore-document-templates.md) and [Configure contract template rules](cncore-config-template-rules.md).
 
 You can distinguish configurations for an amendment request from those for a new contract by using the **Request type** selection.
 
@@ -50,7 +50,7 @@ Third party contracts already have a default contract configuration in the base 
 
 3.  On the Contract Configuration form, fill in the fields.
 
-    For more information, see [Contract Configuration form](../reference/cncore-contract-config-form.md).
+    For more information, see [Contract Configuration form](cncore-contract-config-form.md).
 
 4.  Select **Save**.
 

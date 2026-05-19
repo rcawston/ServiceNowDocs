@@ -17,9 +17,9 @@ Initiate an automation request from a Task Mining task timeline analysis or shar
 
 ## Before you begin
 
-The project requires a task timeline analysis to take task improvement actions. A task timeline analysis contains tasks with sequential task time steps of user interactions. Use these task steps as the basis of your improvement opportunities. For more information, see [Task Mining analyses](../concept/task-mining-dashboard.md).
+The project requires a task timeline analysis to take task improvement actions. A task timeline analysis contains tasks with sequential task time steps of user interactions. Use these task steps as the basis of your improvement opportunities. For more information, see [Task Mining analyses](task-mining-dashboard.md).
 
-Automation Center must be installed to initiate an automation request. To use the Now Assist feature in the integration, you must install Now Assist for Platform and activate the User Task Step Summarization skill. For more information, see [Integration with Automation Center](../concept/integration-with-automation-center.md).
+Automation Center must be installed to initiate an automation request. To use the Now Assist feature in the integration, you must install Now Assist for Platform and activate the User Task Step Summarization skill. For more information, see [Integration with Automation Center](integration-with-automation-center.md).
 
 Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
@@ -101,7 +101,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 **Related topics**  
 
 
-[Integration with Automation Center](../concept/integration-with-automation-center.md)
+[Integration with Automation Center](integration-with-automation-center.md)
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](task-mining-dashboard.md)
 

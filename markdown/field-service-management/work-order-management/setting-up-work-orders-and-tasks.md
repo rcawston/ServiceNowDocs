@@ -43,7 +43,7 @@ The steps for setting up work orders and tasks are:
 
     Define default access hours for a work order task based on customer preferences such as account, location, or asset, enables the auto-population of the access hours for the task. For example, you can set the access hours for a business to guarantee that work order tasks are only assigned to the location when it’s open. You can activate the Field Service Management Access Hours Management plugin \(com.snc.fsm\_access\_hours\) for Field Service Management if you have the admin role.
 
-6.  \(Optional\) [Activate linear assets support in Field Service Management](../task/activate-linear-assets.md)
+6.  \(Optional\) [Activate linear assets support in Field Service Management](activate-linear-assets.md)
 
     Enable effective management of assets like roads, telephone lines, or fiber cables. You can enable the Field Service Management application to support linear assets by activating the Enterprise Asset Management plugin \(com.sn\_eam\) if you have the admin role.
 
@@ -55,7 +55,7 @@ The steps for setting up work orders and tasks are:
 
     Provide customers with timely updates about their reported issues, enabling them to track the location of agents and provide agent feedback. You can install the Field Service Management Customer Experience plugin \(com.snc.fsm\_customer\_experience\) if you have the wm\_admin role.
 
-9.  \(Optional\) [Request task management](../../planning-and-policy/concept/c_RequestTasksMgmt.md)
+9.  \(Optional\) [Request task management](c_RequestTasksMgmt.md)
 
     Split requests into separate tasks. This can be helpful if you want to assign different parts of a task to different people, assign parts of a task to people in different locations, or schedule parts of a task to be completed at different times.
 

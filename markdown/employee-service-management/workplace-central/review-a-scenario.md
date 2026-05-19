@@ -56,21 +56,21 @@ You can review a scenario created by your colleague from the Space Optimization 
 
 6.  On the stack plan, point to or select a bar to view more details.
 
-    If you select a bar, you can view the details related to the bar on the right panel. For more information about the stack plan view features, refer to [Scenario and Building - Views, states, settings, and key features](../reference/scenario-planning-views-actions-keyfeatures-.md).
+    If you select a bar, you can view the details related to the bar on the right panel. For more information about the stack plan view features, refer to [Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md).
 
 7.  View the scenario plan on a floor directly by selecting the **Floor map view** tab.
 
     **Note:** You can view the scenario plan on a floor map only if the floor map is configured using the Workplace Indoor Mapping Map studio.
 
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Publish a scenario](publish-a-scenario.md)
 
@@ -88,5 +88,5 @@ You can review a scenario created by your colleague from the Space Optimization 
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

@@ -55,5 +55,5 @@ Quick actions appear on screen launcher pages and serve as a quick way to provid
 
 Test the navigation using your mobile app. After completing the steps, you can see a quick action in your screen launcher with the label and icon you defined in these steps. Tapping the quick action will direct you to the screen launcher you defined in your navigation function.
 
-**Parent Topic:**[Configure navigation to a launcher screen](../concept/sg-launcher-nav-example.md)
+**Parent Topic:**[Configure navigation to a launcher screen](sg-launcher-nav-example.md)
 

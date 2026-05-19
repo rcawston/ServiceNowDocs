@@ -35,27 +35,27 @@ From this view, you can accomplish the following tasks:
 
 -   Review the internal questionnaire responses.
 
-    Navigate to the Due diligence request record page by selecting the Due Diligence Request \(DDR\) number. You can view the related internal questionnaire responses by selecting the Internal assessment \(INA\) number on the **Internal assessments** tab. For more information, see [IRQ process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-irq-tab.md).
+    Navigate to the Due diligence request record page by selecting the Due Diligence Request \(DDR\) number. You can view the related internal questionnaire responses by selecting the Internal assessment \(INA\) number on the **Internal assessments** tab. For more information, see [IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md).
 
 -   Review the risk intelligence scores.
 
-    Navigate to the Due diligence request record page by selecting the DDR number. You can view the related risk intelligence scores by selecting the **Risk intelligence scores** tab. For more information, see [Viewing risk intelligence scores](../../grc-workspace-vrm/reference/tprm-ws-tab-risk-intel-scores.md).
+    Navigate to the Due diligence request record page by selecting the DDR number. You can view the related risk intelligence scores by selecting the **Risk intelligence scores** tab. For more information, see [Viewing risk intelligence scores](tprm-ws-tab-risk-intel-scores.md).
 
 -   Review the external questionnaire responses and supporting documents.
 
-    Navigate to the Due diligence request record page by selecting the DDR number. View the related external questionnaire responses and supporting documents by selecting the Third-party risk assessment \(VRA\) number on the **External assessments** tab. For more information, see [Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md).
+    Navigate to the Due diligence request record page by selecting the DDR number. View the related external questionnaire responses and supporting documents by selecting the Third-party risk assessment \(VRA\) number on the **External assessments** tab. For more information, see [Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md).
 
 
-**Note:** To learn more about the processes in the due diligence workflow, see [Due diligence workflow](../../grc-workspace-vrm/concept/tprm-workflow-in-workspace.md) for more information.
+**Note:** To learn more about the processes in the due diligence workflow, see [Due diligence workflow](tprm-workflow-in-workspace.md) for more information.
 
 -   **Contract Risk process \(Only if the engagement is contracted\)**
 
     If the engagement includes a contract, as the contract negotiator, you prepare the contract and do the following actions:
 
     1.  Access all data that is generated during the Request, IRQ, Due Diligence, and Approval processes to design and settle the contract and assess the following items:
-        -   Initial Inherent Risk Questionnaire \(IRQ\) responses and comments by the Third-party risk assessor. For more information, see [IRQ process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-irq-tab.md).
-        -   Risk data from the risk intelligence providers. For more information, see [Viewing risk intelligence scores](../../grc-workspace-vrm/reference/tprm-ws-tab-risk-intel-scores.md).
-        -   Responses to third-party questionnaires and engagement questionnaires. For more information, see [Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md).
+        -   Initial Inherent Risk Questionnaire \(IRQ\) responses and comments by the Third-party risk assessor. For more information, see [IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md).
+        -   Risk data from the risk intelligence providers. For more information, see [Viewing risk intelligence scores](tprm-ws-tab-risk-intel-scores.md).
+        -   Responses to third-party questionnaires and engagement questionnaires. For more information, see [Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md).
         -   Issues and tasks for the third-party contacts that were assigned to you by the Third-party risk manager. Assigned issues and tasks are listed on the tasks page.
     2.  After the contract is fully signed by all parties \(executed\), attach the contract and activate the engagement by selecting **Contract executed** and then complete the following actions from the **Details** tab on the due diligence request record page:
         1.  Set the **Contract start date** for the engagement.
@@ -89,7 +89,7 @@ The following examples show the contract start and expiration date before and af
 
 ![Engagement start and expiration date after you select the skip contract risk process.](../image/after-click-skip.png "Example of the view after selecting the skip contract risk process")
 
-**Note:** If the third-party risk manager or owner selects the **Skip contract risk process** option during the due diligence process, the assigned contract negotiator isn’t notified and the Contract risk process state is skipped. An approver and owner can update the **Skip contract risk process** selection up until the approval process is completed. For more information about this process, see [Due diligence request process management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-details-tab.md).
+**Note:** If the third-party risk manager or owner selects the **Skip contract risk process** option during the due diligence process, the assigned contract negotiator isn’t notified and the Contract risk process state is skipped. An approver and owner can update the **Skip contract risk process** selection up until the approval process is completed. For more information about this process, see [Due diligence request process management](tprm-ws-dd-mgt-pg-details-tab.md).
 
 The following example shows the available selections and where the required justification box appears.
 
@@ -148,5 +148,5 @@ The following example shows the available selections and where the required just
 
 After the contract risk process is completed, the owner receives an email notification. Only the Third-party risk manager or owner can close a due diligence request.
 
-**Note:** For more information on viewing contracts associated with due diligence requests, see [Accessing DD requests that are in the contract risk process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-contract-risk.md).
+**Note:** For more information on viewing contracts associated with due diligence requests, see [Accessing DD requests that are in the contract risk process](tprm-ws-dd-mgt-pg-contract-risk.md).
 

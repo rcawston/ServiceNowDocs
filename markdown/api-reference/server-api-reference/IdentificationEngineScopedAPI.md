@@ -17,7 +17,7 @@ The IdentificationEngine API uses the Identification and Reconciliation framewor
 
 When using this class in a scoped application, use the `sn_cmdb` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IdentificationEngine - createOrUpdateCI\(String source, String input\)
 

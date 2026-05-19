@@ -19,5 +19,5 @@ The following are the scheduled jobs installed with Security Exposure Management
 |Security Exposure Management|Create OOTB Findings View Dashboard|Creates the default out-of-the-box dashboard for findings.|
 |Security Exposure Management|Refresh RO page related results|Refreshes results for remediation owner–related pages.|
 
-**Parent Topic:**[Security Exposure Management Workspace Components](../concept/sem-components-installed.md)
+**Parent Topic:**[Security Exposure Management Workspace Components](sem-components-installed.md)
 

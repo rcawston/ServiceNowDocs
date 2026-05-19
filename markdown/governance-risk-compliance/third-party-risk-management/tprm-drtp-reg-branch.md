@@ -31,7 +31,7 @@ A legal entity can operate multiple branches across various cities or countries,
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Branch form](../reference/tprm-create-new-branch-form.md).
+    For descriptions of all these fields, see [Create New Branch form](tprm-create-new-branch-form.md).
 
     Users typically fill in the following details of the branch:
 

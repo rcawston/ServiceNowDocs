@@ -38,5 +38,5 @@ Role required: sn\_risk.reader
     ![Risk statement hierarchy visualized by risk reader](../image/risk_statement_hierarchy_visualize.png "Visualize risk statement hierarchy")
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

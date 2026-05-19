@@ -28,7 +28,7 @@ Role required: it\_project\_manager
     The selected project opens in the project workbench under **Planning** tab in project workspace.
 
 
-**Parent Topic:**[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+**Parent Topic:**[Managing Project workbench](c_UsingProjectWorkbench.md)
 
 **Related topics**  
 

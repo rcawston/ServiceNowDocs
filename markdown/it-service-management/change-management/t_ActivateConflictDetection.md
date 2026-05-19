@@ -36,10 +36,10 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Change Management - Collision Detector](../reference/r_InstlldWthConfDetection.md#)**  
+-   **[Installed with Change Management - Collision Detector](r_InstlldWthConfDetection.md#)**  
 Several types of components are installed with Change Management - Collision Detector.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

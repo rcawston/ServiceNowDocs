@@ -31,9 +31,9 @@ When you select the **View other options** button they get the list of available
 
 ## Streaming synthesized response
 
-Streaming synthesized responses in Slack conversations provides a faster interaction and more engaged user experience with real-time updates while the messages are processed. To learn more about response streaming, see [Chat streaming responses](streaming-responses-requestor.md) and [Manage an assistant chat experience](../../now-assist-in-va/task/manage-assistant-chat-experience.md).
+Streaming synthesized responses in Slack conversations provides a faster interaction and more engaged user experience with real-time updates while the messages are processed. To learn more about response streaming, see [Chat streaming responses](../now-assist-in-virtual-agent/streaming-responses-requestor.md) and [Manage an assistant chat experience](../now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
-To enable response streaming in Slack conversations, see [Enable Now Assist in Virtual Agent for Slack](../task/enable-na-llm-slack.md). With response streaming enabled in Slack conversations, you can experience the following enhancements:
+To enable response streaming in Slack conversations, see [Enable Now Assist in Virtual Agent for Slack](enable-na-llm-slack.md). With response streaming enabled in Slack conversations, you can experience the following enhancements:
 
 -   Reduced latency in conversations
 -   Increased engagement

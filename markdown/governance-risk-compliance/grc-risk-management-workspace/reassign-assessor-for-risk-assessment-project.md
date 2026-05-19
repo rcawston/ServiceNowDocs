@@ -36,5 +36,5 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_manager
 6.  Select **Confirm**.
 
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](risk-assessment-project.md)
 

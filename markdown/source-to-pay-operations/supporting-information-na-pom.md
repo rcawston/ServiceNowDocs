@@ -44,7 +44,7 @@ Activate the applications in the following order:
 -   Purchase Order Management application \(com.snc.sn\_poem\_core\)
 -   Now Assist for POM store app \(sn\_poem\_gen\_ai\)
 
-For more information, see [Configure Now Assist for Purchase Order Management \(POM\)](../task/configure-now-assist-purch-order-mgmt.md).
+For more information, see [Configure Now Assist for Purchase Order Management \(POM\)](configure-now-assist-purch-order-mgmt.md).
 
 **Parent Topic:**[Exploring Now Assist for Purchase Order Management \(POM\)](exploring-na-for-pom.md)
 

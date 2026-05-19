@@ -57,5 +57,5 @@ Role required: ot\_incident\_admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

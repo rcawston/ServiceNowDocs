@@ -81,5 +81,5 @@ The calculation operand AI agent CMD identifies and retrieves relevant metric de
 -   **[Attaching calculation guidance document](attaching-calculation-guidance-document.md)**  
 Attach the Calculation Guidance PDF to the designated emission calculation guidelines table record to enable the carbon calculations agentic workflow. The agent relies on this document to extract calculation methods, formulas, and category details for automated metric definition creation.
 
-**Parent Topic:**[Configure Now Assist for Operational Sustainability \(formerly ESG\)](../concept/configure-now-assist-for-esg.md)
+**Parent Topic:**[Configure Now Assist for Operational Sustainability \(formerly ESG\)](configure-now-assist-for-esg.md)
 

@@ -73,5 +73,5 @@ Role required: sn\_sec\_tisc.analyst
     **Note:** Click pop out icon to pop out the associated matrix card to view in a new tab.
 
 
-**Parent Topic:**[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+**Parent Topic:**[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 

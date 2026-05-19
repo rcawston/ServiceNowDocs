@@ -17,7 +17,7 @@ Using the Hardening Compliance Configuration page, harden and optimize non-compl
 
 Role required: security\_dashboard\_user or admin.
 
-Refer to the [Hardening settings](../../security-center/reference/security-hardening-settings.md) content for detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
+Refer to the [Hardening settings](instance-security-hardening-settings/security-hardening-settings.md) content for detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
 
 -   Consult the Instance Security Hardening Settings whenever you set or update security-related properties, even if some of the compliance values may not be suitable for your instance.
 -   When you are updating these properties, ensure that the instance continues to behave as expected. Consult with the appropriate internal personnel who have the expertise to determine the security impacts.
@@ -88,7 +88,7 @@ Only recommended security configuration properties appear in each selected categ
 
 </td><td>
 
-Access controls determine whether to grant or deny user access to a particular resource based on who is permitted to use those resources. To learn more, see [Access control](../../security-center/reference/sc-access-control.md) in the Instance Security Hardening Settings.
+Access controls determine whether to grant or deny user access to a particular resource based on who is permitted to use those resources. To learn more, see [Access control](instance-security-hardening-settings/sc-access-control.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e279">
 
@@ -96,7 +96,7 @@ Access controls determine whether to grant or deny user access to a particular r
 
 </td><td>
 
-Attachment security controls enable validation of incoming attachments to protect your instance against malicious files sent by attackers. To learn more, see [Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](../../security-center/reference/sc-validate-file-mime-type-in-attachmentcreator.md) in the Instance Security Hardening Settings.
+Attachment security controls enable validation of incoming attachments to protect your instance against malicious files sent by attackers. To learn more, see [Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](instance-security-hardening-settings/sc-validate-file-mime-type-in-attachmentcreator.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e303">
 
@@ -104,7 +104,7 @@ Attachment security controls enable validation of incoming attachments to protec
 
 </td><td>
 
-Email security encompasses security configuration properties an administrator can configure to ensure that proper security policies are in place for all inbound emails. To learn more, see [Enable email spam scoring and filtering](../../security-center/reference/sc-email-spam-scoring-and-filtering.md) in the Instance Security Hardening Settings.
+Email security encompasses security configuration properties an administrator can configure to ensure that proper security policies are in place for all inbound emails. To learn more, see [Enable email spam scoring and filtering](instance-security-hardening-settings/sc-email-spam-scoring-and-filtering.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e331">
 
@@ -112,7 +112,7 @@ Email security encompasses security configuration properties an administrator ca
 
 </td><td>
 
-Input validation includes security-related properties that an administrator can configure to minimize entry of malformed data, regardless of source. To learn more, see [Validation, sanitization, and encoding](../../security-center/reference/validation-sanitization-encoding.md) in the Instance Security Hardening Settings.
+Input validation includes security-related properties that an administrator can configure to minimize entry of malformed data, regardless of source. To learn more, see [Validation, sanitization, and encoding](instance-security-hardening-settings/validation-sanitization-encoding.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e353">
 
@@ -120,7 +120,7 @@ Input validation includes security-related properties that an administrator can 
 
 </td><td>
 
-Secure communications properties are those that an administrator can configure to secure the transportation of HTTP traffic. To learn more, see [Communications](../../security-center/reference/sc-communications.md) in the Instance Security Hardening Settings.
+Secure communications properties are those that an administrator can configure to secure the transportation of HTTP traffic. To learn more, see [Communications](instance-security-hardening-settings/sc-communications.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e376">
 
@@ -128,7 +128,7 @@ Secure communications properties are those that an administrator can configure t
 
 </td><td>
 
-Security best practices encompass Security Tasks that an administrator should perform periodically, within a certain interval of time, and include related configuration properties. To learn more, see [Security Best Practices](../../security-center/concept/security-best-practices-manager.md) in the Instance Security Hardening Settings.
+Security best practices encompass Security Tasks that an administrator should perform periodically, within a certain interval of time, and include related configuration properties. To learn more, see [Security Best Practices](security-center/security-best-practices-manager.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e401">
 
@@ -144,7 +144,7 @@ Security inclusion listing includes security-related properties that an administ
 
 </td><td>
 
-Session management includes security-related properties that an administrator can configure to ensure secure session management in the ServiceNow AI Platform. To learn more, see [Session management](../../security-center/reference/sc-session-management.md) in the Instance Security Hardening Settings
+Session management includes security-related properties that an administrator can configure to ensure secure session management in the ServiceNow AI Platform. To learn more, see [Session management](instance-security-hardening-settings/sc-session-management.md) in the Instance Security Hardening Settings
 
 </td></tr></tbody>
 </table>6.  Configure the non-compliant security properties in the selected category.
@@ -156,10 +156,10 @@ Session management includes security-related properties that an administrator ca
 
 The Daily Compliance score increases or decreases depending on the changes that you make to the non-compliant security control settings.
 
-**Parent Topic:**[Check the daily compliance score and configure security property settings](../concept/instance-sec-center-hardening.md)
+**Parent Topic:**[Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
 
 **Related topics**  
 
 
-[Instance Security Center](../concept/instance-security-center.md)
+[Instance Security Center](instance-security-center.md)
 

@@ -54,5 +54,5 @@ By using extension points, you can easily integrate customizations without havin
 5.  On the Extension Point form, click **Update**.
 
 
-**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](config-agent-init-messg-interface.md)
 

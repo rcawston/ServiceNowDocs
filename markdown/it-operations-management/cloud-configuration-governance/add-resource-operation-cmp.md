@@ -62,7 +62,7 @@ Select an operation to perform for the step. By default, **Provision**, **Stop**
 
 5.  Click the **Create Form Parameter** check box to select a parameter.
 
-    Parameters differ for each operation. Enter a mapping expression for the selected parameter in the **Mapping** field. See [Using expressions in Cloud Provisioning and Governance](../reference/expressions-cloud-mgt.md).
+    Parameters differ for each operation. Enter a mapping expression for the selected parameter in the **Mapping** field. See [Using expressions in Cloud Provisioning and Governance](expressions-cloud-mgt.md).
 
 6.  Click **Save**.
 
@@ -74,7 +74,7 @@ Select an operation to perform for the step. By default, **Provision**, **Stop**
 
 [Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)
 
-[Blueprint attributes](../reference/blueprint-attributes.md)
+[Blueprint attributes](blueprint-attributes.md)
 
 [Configure a blueprint rule](configure-a-blueprint-rule.md#)
 

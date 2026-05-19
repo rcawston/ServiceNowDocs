@@ -66,5 +66,5 @@ Role required: sn\_msi.workspace\_manager
     If the conference call was recorded, then the recording will be available in the Conference call section of the associated major security incident after sometime.
 
 
-**Parent Topic:**[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+**Parent Topic:**[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
 

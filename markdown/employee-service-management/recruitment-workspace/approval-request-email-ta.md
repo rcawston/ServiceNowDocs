@@ -23,5 +23,5 @@ You can approve or reject the request for the job requisition from the email not
 
 Select **approval task** to navigate to the portal to complete the approval task.
 
-**Parent Topic:**[Approve a job requisition in the Employee Center](../task/approve-a-job-req.md)
+**Parent Topic:**[Approve a job requisition in the Employee Center](approve-a-job-req.md)
 

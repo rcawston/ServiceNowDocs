@@ -89,7 +89,7 @@ Formula indicators
 
 </td><td>
 
-All [contributing indicators](../concept/performance-analytics-glossary.md#) must support Data snapshots.
+All [contributing indicators](performance-analytics-glossary.md#) must support Data snapshots.
 
 </td></tr><tr><td>
 
@@ -105,11 +105,11 @@ Manual or external indicators or breakdowns
 
 </td><td>
 
-Only [automated indicators](../concept/performance-analytics-glossary.md#), [formula indicators](../concept/performance-analytics-glossary.md#), and [automated breakdowns](../concept/performance-analytics-glossary.md#) are supported. All contributing indicators in a formula indicator must be supported for the formula indicator to be supported.
+Only [automated indicators](performance-analytics-glossary.md#), [formula indicators](performance-analytics-glossary.md#), and [automated breakdowns](performance-analytics-glossary.md#) are supported. All contributing indicators in a formula indicator must be supported for the formula indicator to be supported.
 
 </td></tr><tr><td>
 
-Indicators based on [database views](../concept/performance-analytics-glossary.md#)
+Indicators based on [database views](performance-analytics-glossary.md#)
 
 </td><td>
 
@@ -180,5 +180,5 @@ All collections are daily.
 |Scoresheets|Manual changes to scoresheets for indicators that are enabled for Data snapshots have no effect.|
 |String fields in indicator or source conditions|4000-character limit|
 
-**Parent Topic:**[Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md)
+**Parent Topic:**[Data snapshots and multiple breakdowns](multi-level-breakdowns.md)
 

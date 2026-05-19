@@ -42,7 +42,7 @@ Role required: model\_manager and asset
     ![Bundled model components](../image/800pxBundledModelCalgary.png "Bundled model components")
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](c_CreatingBundledModels.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Role required: model\_manager and asset
 
 [Publish bundled models to product catalog](publish-product-catalog-bundledmodles.md)
 
-[Models](../concept/c_Models.md)
+[Models](c_Models.md)
 

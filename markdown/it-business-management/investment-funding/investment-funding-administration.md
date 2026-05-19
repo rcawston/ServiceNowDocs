@@ -17,9 +17,9 @@ The Investment Funding application requires you to do some initial administrativ
 
 -   **[Fiscal calendar setup for Investment Funding](fiscal-calendar-setup.md)**  
 The Fiscal calendar setup you choose determines the fiscal periods used by your organization to request or allocate funds.
--   **[Set Investment Funding preferences](../task/set-funding-preferences.md)**  
+-   **[Set Investment Funding preferences](set-funding-preferences.md)**  
 As an administrator, you can set global defaults for Investment Funding preferences, which affect the funding behavior.
--   **[Create an investment entity](../task/create-funding-entity.md)**  
+-   **[Create an investment entity](create-funding-entity.md)**  
 Create an entity for investments through which you can receive or allocate funds.
 
 **Parent Topic:**[Investment Funding](investment-funding-overview.md)

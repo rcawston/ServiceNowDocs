@@ -18,7 +18,7 @@ Create rules for automatically adding traffic-based connections and the CIs they
 ## Before you begin
 
 -   Analyze the infrastructure you are mapping to identify the most common connections. These common connections are good candidates for connection rules.
--   [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md).
+-   [Discover applications based on fingerprints](../discovery/discover-application-based-process.md).
 -   Confirm that discovery based on Predictive Intelligence is enabled. Navigate to the System Property \[sys\_properties\] table and verify that the **sa\_ml.connection\_suggestions.active** property is set to **True**.
 
 Role required: service\_mapping\_admin
@@ -27,7 +27,7 @@ Role required: service\_mapping\_admin
 
 Connection rules enhance the connection suggestions generated using Predictive Intelligence. Each rule contains a condition that describes an aspect of a traffic-based connection. The fields available in conditions come from the Connection Suggestion \[sa\_ml\_connection\_suggestion\] table, which is only populated when you run top-down discovery. You can base your rules directly on the connection suggestions. For example, create a rule for any connection with confidence level High. Alternatively, if you know which CIs must be part of the service instances, you can choose fields that point at these CIs.
 
-For information about Service Mapping evaluating and applying connection rules, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+For information about Service Mapping evaluating and applying connection rules, see [Traffic-based discovery in Service Mapping](traffic-based-discovery.md).
 
 In addition to connection rules that add CIs to multiple services, you can [create rules for adding CIs to specific application services](add-cis-connection-rules-single.md).
 
@@ -90,5 +90,5 @@ Verify that Service Mapping added CIs as expected by performing the following st
 **Related topics**  
 
 
-[Discovery based on Predictive Intelligence](../concept/predictive-intelligence-discovery.md)
+[Discovery based on Predictive Intelligence](predictive-intelligence-discovery.md)
 

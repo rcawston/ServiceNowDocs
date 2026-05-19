@@ -17,7 +17,7 @@ Create a sample playbook to standardize and automate how Service Desk agents han
 
 ## Before you begin
 
--   Enable the **Process Automation Designer for App Engine \[com.glide.pad.license\]** plugin with a subscription to the ServiceNow AI Platform App Engine. For more information, see [Activate Playbooks](../concept/activate-process-automation-designer.md).
+-   Enable the **Process Automation Designer for App Engine \[com.glide.pad.license\]** plugin with a subscription to the ServiceNow AI Platform App Engine. For more information, see [Activate Playbooks](activate-process-automation-designer.md).
 -   Ensure that your current application is set to **Global**. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Role required: admin or playbook.admin
 
@@ -278,7 +278,7 @@ Your process appears in as a playbook. Here, agents and fulfillers can get a tas
 
 ## What to do next
 
-Customize the Playbook layout for deployment. To learn more, see [Customizing the Playbook Experience](../../workspace/concept/playbook-customize-playbook.md)
+Customize the Playbook layout for deployment. To learn more, see [Customizing the Playbook Experience](playbook-customize-playbook.md)
 
-**Parent Topic:**[Building your first playbook](../concept/getting-started-processes.md)
+**Parent Topic:**[Building your first playbook](getting-started-processes.md)
 

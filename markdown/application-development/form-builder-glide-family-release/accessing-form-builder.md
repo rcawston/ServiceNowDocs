@@ -45,7 +45,7 @@ Table Builder is accessible through the application navigator. This feature help
 
 Table Builder can be currently accessed from within App Engine Studio.
 
-See [Editing data in App Engine Studio](../../../build/app-engine-studio/concept/edit-data.md) for instructions on editing application data.
+See [Editing data in App Engine Studio](../app-engine-studio/edit-data.md) for instructions on editing application data.
 
 1.  Open an application in App Engine Studio.
 
@@ -66,7 +66,7 @@ Table Builder can be accessed from within UI Builder by selecting **Edit form vi
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**, and then select a form component on a page.
 
-    See [Work with components in UI Builder](../../ui-builder/concept/work-components.md) for more information on adding components.
+    See [Work with components in UI Builder](../ui-builder/work-components.md) for more information on adding components.
 
 2.  Select **Edit form view** at the bottom of the Configuration pane.
 
@@ -83,7 +83,7 @@ To use Table Builder, you must either:
 -   have the following role permissions in ServiceNow AI Platform, or
 -   have the relevant AES user role and delegated developer permissions.
 
-For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 **Note:** When creating a table, assign at least one role with **Read** permission. Setting read permission helps you to preview and access the table.
 

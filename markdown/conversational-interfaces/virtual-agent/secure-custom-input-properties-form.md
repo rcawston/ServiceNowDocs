@@ -16,7 +16,7 @@ breadcrumb: [Customizing Virtual Agent with custom controls, Exploring other Vir
 
 Use this sheet to specify secure inputs, such as a password, in a custom input control in Virtual Agent.
 
-**Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](../concept/va-fd-app-reqs-secure-inputs.md).
+**Important:** To implement secure \(password2\) inputs in your Virtual Agent custom control, you must adhere to the scoped application requirements in Workflow Studio. For details, see [Workflow Studio scoped application requirements for secure inputs](va-fd-app-reqs-secure-inputs.md).
 
 ## Secure custom input properties sheet
 

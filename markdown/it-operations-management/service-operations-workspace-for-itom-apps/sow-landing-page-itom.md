@@ -20,7 +20,7 @@ By centralizing workflows, it enhances collaboration, facilitates efficient task
 
 ![Home page information.](../image/home-tab-sow.png)
 
-For information regarding subscriptions for ITOM Service Operations Workspace, check the ITOM AIOps subscription at [Subscription ITOM AIOps](../../it-operations-management/concept/itom-license-module.md).
+For information regarding subscriptions for ITOM Service Operations Workspace, check the ITOM AIOps subscription at [Subscription ITOM AIOps](../itom-license-module.md).
 
 When setting up the Service Operations Workspace, it's crucial to configure both IT Operations Management \(ITOM\) for managing alerts and IT Service Management \(ITSM\) for resolving incidents and delivering services. This integrated setup ensures access to the full range of features, facilitating comprehensive management of IT operations and service quality.
 

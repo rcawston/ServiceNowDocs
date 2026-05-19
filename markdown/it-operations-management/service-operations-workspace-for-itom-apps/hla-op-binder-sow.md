@@ -15,18 +15,18 @@ breadcrumb: [Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIO
 
 View and address the alerts that Health Log Analytics generates in the Service Operations Workspace.
 
--   **[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)**  
+-   **[Start remediation of a Log Analytics alert from the Overview tab](hla-op-overview-tab-view-sow.md)**  
 Begin the remediation process of a Log Analytics alert from the alert **Overview** tab. This tab provides information on the alert, the log data associated with the anomalous behavior, CIs associated with the alert, and services impacted by it.
 -   **[Analyzing the logs around an anomaly to help find the alert's root cause in Health Log Analytics](hla-op-surrounding-logs-view-concept-sow.md)**  
 When Health Log Analytics identifies an anomaly, viewing the logs that surround the anomaly provides clues about the state of faulting systems. This information can help you narrow down the root cause of an alert.
 -   **[Reviewing the logs for an alert on the Log Viewer in Health Log Analytics](hla-op-logs-log-viewer-concept-sow.md)**  
 The **Log Viewer** tab lets you browse the logs for an alert by timestamp or time range, and visualize anomaly frequency within a specific time period. Customizing the displayed data and adjusting time filters enables you to better understand the framework in which the anomaly occurred, helping you find the root cause faster.
--   **[Use alert rules to control when Health Log Analytics generates alerts](../../service-operations-workspace-itom/concept/hla-alert-rules-manage-sow-itom.md)**  
+-   **[Use alert rules to control when Health Log Analytics generates alerts](hla-alert-rules-manage-sow-itom.md)**  
 Alert rules enable you to set thresholds and conditions that determine when Health Log Analytics \(HLA\) triggers an alert.
--   **[Assigning higher or lower significance to an alert in Health Log Analytics](../../service-operations-workspace-itom/concept/hla-op-alert-significance-sow-itom.md)**  
+-   **[Assigning higher or lower significance to an alert in Health Log Analytics](hla-op-alert-significance-sow-itom.md)**  
 Label an alert as meaningful or insignificant, or restore normal importance to the metric involved in generating it.
--   **[Dashboards for real-time visualization of log data in Health Log Analytics](../../health-log-analytics-admin/concept/hla-dashboard-visualizations.md)**  
+-   **[Dashboards for real-time visualization of log data in Health Log Analytics](hla-dashboard-visualizations.md)**  
 Health Log Analytics enables you to create log data dashboards and visualizations in real time for enhanced data monitoring and faster identification of deviations.
 
-**Parent Topic:**[Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/sow-landing-page-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM](sow-landing-page-itom.md)
 

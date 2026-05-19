@@ -62,5 +62,5 @@ Roles required: virtual\_agent\_admin and external\_app\_install\_admin or admin
 
 [Integrate ServiceNow Virtual Agent with Workplace from Facebook](configure-va-facebook.md).
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](configuring-ci-workplace-fb.md)
 

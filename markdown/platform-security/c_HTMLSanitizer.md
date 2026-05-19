@@ -20,15 +20,15 @@ Remove unwanted code and protect against security concerns such as cross-site sc
 
 </td><td>
 
-[Configure HTML Sanitizer![Use](../../../common/image/icon-set-up.png)](../task/t_ConfigureHTMLSanitizer.md)
+[Configure HTML Sanitizer![Use](../../../common/image/icon-set-up.png)](t_ConfigureHTMLSanitizer.md)
 
- [Configure the HTML sanitizer.](../task/t_ConfigureHTMLSanitizer.md)
+ [Configure the HTML sanitizer.](t_ConfigureHTMLSanitizer.md)
 
 </td></tr><tr><td>
 
-[Activate HTML Sanitizer![Reviewing](../../../common/image/icon-manage.png)](../task/t_ActivateHTMLSanitizer.md)
+[Activate HTML Sanitizer![Reviewing](../../../common/image/icon-manage.png)](t_ActivateHTMLSanitizer.md)
 
- [Learn how to enable the HTML sanitizer.](../task/t_ActivateHTMLSanitizer.md)
+ [Learn how to enable the HTML sanitizer.](t_ActivateHTMLSanitizer.md)
 
 </td><td>
 

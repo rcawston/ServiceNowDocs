@@ -31,5 +31,5 @@ For a secure communication over SSL, you must [add an SSL certificate for the MI
 
 **Note:** If you create a new LDAP server, the MID Server SSL flag sets to false by default. You can ignore this behavior.
 
-To set connection properties for a specific LDAP server, see [Define an LDAP server](../task/t_DefineAnLDAPServer.md).
+To set connection properties for a specific LDAP server, see [Define an LDAP server](t_DefineAnLDAPServer.md).
 

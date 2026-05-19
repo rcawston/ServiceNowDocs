@@ -48,5 +48,5 @@ The newly created work item is added to the Backlog.
 
 You can plan this item into one of the active sprints by dragging and dropping it into the Sprint section. See [Plan work items into sprints in CWM](plan-work-items-into-sprints-in-cwm.md).
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

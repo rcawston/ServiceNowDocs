@@ -27,7 +27,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 2.  On the Create New Planned Work Schedule form, fill in the fields.
 
-    For a detailed description of the planned work schedule fields, see [Work plan schedule fields for Enterprise Asset Management](../reference/work-plan-schedule-fields-eam.md).
+    For a detailed description of the planned work schedule fields, see [Work plan schedule fields for Enterprise Asset Management](work-plan-schedule-fields-eam.md).
 
 3.  Select **Save**.
 

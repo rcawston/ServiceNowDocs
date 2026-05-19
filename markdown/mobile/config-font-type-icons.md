@@ -85,7 +85,7 @@ Enter `Value`
 
 Enter the code that identifies the icon in the font family you want to use. For example, `e903` is the code for the solid cart icon in the **now-mobile-icons-buttons** font family.
 
- For lists of font family icon codes, see the topic for the type of icon you want to use in the [Mobile icon reference](../concept/mobile-icon-reference.md).
+ For lists of font family icon codes, see the topic for the type of icon you want to use in the [Mobile icon reference](mobile-icon-reference.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Enter `Name`
 
 Enter the name listed for the icon in the font family. For example, if you wanted to use the shopping cart icon in the **now-mobile-icons** font family, you should enter `Cart`.
 
- For lists of font family icon names, see the [Mobile icon reference](../concept/mobile-icon-reference.md).
+ For lists of font family icon names, see the [Mobile icon reference](mobile-icon-reference.md).
 
 </td></tr></tbody>
 </table>8.  Select **Save**.

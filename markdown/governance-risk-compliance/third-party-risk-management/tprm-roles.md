@@ -95,7 +95,7 @@ TPR assessor \(Third-party risk assessor\)
     -   Enable TPR assessors to answer questions or modify responses in third-party questionnaires \(default\).
     -   Enable TPR assessors to modify responses.
     -   Don’t enable TPR assessors to answer questions or modify responses.
-See [Configure TPRM properties](../task/tprm-properties-configure.md).
+See [Configure TPRM properties](tprm-properties-configure.md).
 
 
 </td><td>
@@ -181,7 +181,7 @@ Includes all permissions of the TPR assessor role plus:
 
  Gives users in the legal department access to modify contract status and the start and expiration dates.
 
- You can add users with this role to the **Contract risk negotiators** user group. See [Add users to groups based on responsibilities](../task/tprm-groups-add-users-to.md).
+ You can add users with this role to the **Contract risk negotiators** user group. See [Add users to groups based on responsibilities](tprm-groups-add-users-to.md).
 
 </td><td>
 
@@ -227,7 +227,7 @@ A user with one of the following roles can access the Digital resilience third-p
     The TPR admin contains this role.
 
 
-For more information on DORA related roles, see [Roles installed with Digital resilience third-party registers](../../grc-operational-res/reference/roles-for-drtpr.md).
+For more information on DORA related roles, see [Roles installed with Digital resilience third-party registers](../roles-for-drtpr.md).
 
 ## Roles required for using Smart Assessment Engine
 
@@ -271,22 +271,22 @@ Third-party admin contains this role.
 
 **Important:** The Third-party assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] role is the minimum role that you must have to view any template that is a member of the TPRM external questionnaire, TPRM external document request, TPRM internal tiering questionnaire, and TPRM internal IRQ purposes.
 
-For more information on SAE related roles, see [Roles installed in Smart Assessment Engine](../../assessment-engine/reference/sae-roles-defined.md).
+For more information on SAE related roles, see [Roles installed in Smart Assessment Engine](../smart-assessment-engine/sae-roles-defined.md).
 
 ## Roles required for using Now Assist for Third-party Risk Management \(TPRM\)
 
 A user with the Third-party Assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] role can use the Now Assist for TPRM skills.
 
-The TPRM GenAI User \[sn\_tprm\_genai.nowassist\_user\] role is granted to Third-party Assessment reviewers \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] automatically after you install the Now Assist for TPRM application. For more information about a Now Assist for TPRM, see [Now Assist for Third-party Risk Management \(TPRM\)](../../grc-vendor-risk/concept/now-assist-tprm.md).
+The TPRM GenAI User \[sn\_tprm\_genai.nowassist\_user\] role is granted to Third-party Assessment reviewers \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] automatically after you install the Now Assist for TPRM application. For more information about a Now Assist for TPRM, see [Now Assist for Third-party Risk Management \(TPRM\)](now-assist-tprm.md).
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 
 **Related topics**  
 
 
-[Assign TPRM roles to users and user groups](../task/tprm-roles-assign.md)
+[Assign TPRM roles to users and user groups](tprm-roles-assign.md)
 
-[Roles installed with Digital resilience third-party registers](../../grc-operational-res/reference/roles-for-drtpr.md)
+[Roles installed with Digital resilience third-party registers](../roles-for-drtpr.md)
 
-[Roles installed in Smart Assessment Engine](../../assessment-engine/reference/sae-roles-defined.md)
+[Roles installed in Smart Assessment Engine](../smart-assessment-engine/sae-roles-defined.md)
 

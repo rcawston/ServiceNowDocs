@@ -29,12 +29,12 @@ The Usage Insights plugin \(com.glide.appsee\) is activated by default in the Se
     **Note:** Usage Insights is not supported for on-prem instances.
 
 
--   **[Enable Usage Insights](../../task/enable-user-experience-analytics.md)**  
+-   **[Enable Usage Insights](enable-user-experience-analytics.md)**  
 You can enable or turn off Usage Insights for all applications in Usage Insights Properties.
--   **[User privacy, tracking, and user consent management in Usage Insights](../../concept/user-exp-analytics-track-options.md)**  
+-   **[User privacy, tracking, and user consent management in Usage Insights](user-exp-analytics-track-options.md)**  
 Usage Insights relies on tracking user activity to measure the adoption, retention, and usage of KPIs to help you make better product and implementation decisions.
--   **[Add user properties as filters to Usage Insights](../../task/uxa-add-filters-uxa-pages.md)**  
+-   **[Add user properties as filters to Usage Insights](uxa-add-filters-uxa-pages.md)**  
 In addition to the default filters on the pages of the Usage Insights application, you can add filters based on user properties. This allows you to effectively segment your Usage Insights data to develop a deeper understanding of your users and their usage patterns. User properties-based filters are supported as global filters for all pages and objects in the Usage Insights application.
 
-**Parent Topic:**[Usage Insights](../landing-page/user-exp-analytics-landing.md)
+**Parent Topic:**[Usage Insights](user-exp-analytics-landing.md)
 

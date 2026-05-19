@@ -127,11 +127,11 @@ Role required: Azure admin
 
 ## What to do next
 
-[Setting up Cloud Account Management in Cloud Workspace](../concept/configuring-cloud-workspace.md)
+[Setting up Cloud Account Management in Cloud Workspace](configuring-cloud-workspace.md)
 
 [Add members to the group](add-member-group.md)
 
-[Set up Azure connection](../concept/set-up-azure-connector.md)
+[Set up Azure connection](set-up-azure-connector.md)
 
 [Set up scan configuration for data visualization](set-up-data-visualization.md)
 

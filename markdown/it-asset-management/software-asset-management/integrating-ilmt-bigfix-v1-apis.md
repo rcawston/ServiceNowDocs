@@ -40,7 +40,7 @@ To track your IBM full capacity and sub-capacity PVU and RVU licenses using this
 
 -   Enable ILMT or BigFix Inventory to discover the configurations of both physical hosts and VMs as well as the relationships between them.
 -   Classify and bundle IBM components into IBM products through ILMT or BigFix Inventory.
--   Set the **Connect to ILMT using** \(**sn\_samp\_ibm\_lic.ilmt\_api\_version**\) Software Asset Management property to **v1 API's**. For more details on this property, see [Software Asset Management properties](../reference/sam-properties.md).
+-   Set the **Connect to ILMT using** \(**sn\_samp\_ibm\_lic.ilmt\_api\_version**\) Software Asset Management property to **v1 API's**. For more details on this property, see [Software Asset Management properties](sam-properties.md).
 
 -   **[Transform maps for IBM License Metric Tool \(ILMT\) and BigFix Inventory integration v1 APIs](ibm-transform-maps.md)**  
 When you import data from the IBM License Metric Tool \(ILMT\) or BigFix Inventory using version 1 of the ILMT and BigFix Inventory integration APIs, your ServiceNow instance uses transform maps to process this data into ServiceNow tables.

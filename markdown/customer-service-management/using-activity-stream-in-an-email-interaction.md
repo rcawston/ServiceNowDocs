@@ -34,7 +34,7 @@ View emails, work notes, and field changes associated with the email interaction
 
 The activity in the interaction shows emails and work notes by default.
 
- **Note:** In the activity stream, each email response displays only the latest message in the conversation. To view entire email thread, enable the Email Show Full Conversation property using UI Builder. For more information, see [Customize showing a full conversation in UI Builder](../task/customize-show-full-conversation.md).
+ **Note:** In the activity stream, each email response displays only the latest message in the conversation. To view entire email thread, enable the Email Show Full Conversation property using UI Builder. For more information, see [Customize showing a full conversation in UI Builder](customize-show-full-conversation.md).
 
 </td></tr><tr><td>
 

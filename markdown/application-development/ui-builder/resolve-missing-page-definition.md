@@ -64,5 +64,5 @@ Pages in UI Builder are backed by a screen record \(`sys_ux_screen`\) that refer
 
 Open the experience containing the page with the error to verify that the error has been resolved.
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)
 

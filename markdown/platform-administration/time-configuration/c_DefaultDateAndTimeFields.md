@@ -31,5 +31,5 @@ The Planned Task plugin provides a table \(Planned Task \[planned task\]\) with 
 -   **[Task fields for measuring work time](c_TaskFieldsForMeasuringWorkTime.md)**  
 Use default task fields to measure progress and resolution for certain records.
 
-**Parent Topic:**[Date and Date/Time fields](../reference/r_UseDateAndTimeFields.md)
+**Parent Topic:**[Date and Date/Time fields](r_UseDateAndTimeFields.md)
 

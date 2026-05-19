@@ -27,10 +27,10 @@ A document feed is a Live Feed group that is associated with a record, such as a
 A record feed is a Live Feed group that is associated with a record, such as an incident or change.
 -   **[Live Feed table notifications](c_SetUpLiveFeedTableNotifications.md)**  
 Live feed table notifications generate automatic Live Feed messages. The Live Feed plugin must be activated to use table notifications.
--   **[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)**  
+-   **[Live Feed security and table access](r_LiveFeedTableAccessRules.md)**  
 By default, administrators and users with the live\_feed\_admin role can configure live feed security and view all Live Feed tables.
--   **[Provide access to Live Feed from CMS pages](../task/t_AccessLiveFeedFromCMSPages.md)**  
+-   **[Provide access to Live Feed from CMS pages](t_AccessLiveFeedFromCMSPages.md)**  
 You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
 
-**Parent Topic:**[Manage people and work capabilities](../../../administer/general/concept/manage-people.md)
+**Parent Topic:**[Manage people and work capabilities](../manage-people.md)
 

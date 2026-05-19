@@ -74,5 +74,5 @@ The new colors are applied to all card illustration types.
 
 If your theme is published, your card illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Modal illustrations in Theme Builder](../concept/modals-in-tb.md)
+**Parent Topic:**[Modal illustrations in Theme Builder](modals-in-tb.md)
 

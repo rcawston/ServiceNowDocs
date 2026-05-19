@@ -49,5 +49,5 @@ The escalated case is reassigned based on escalation rules configured for your o
 
 The escalated case appears in the assignee's work queue with high priority status. The case history records the escalation action and reason.
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

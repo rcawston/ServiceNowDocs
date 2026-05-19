@@ -37,5 +37,5 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Manage Tokenizer Resource Configurations](../concept/manage-tokenizer-resource-configurations.md)
+**Parent Topic:**[Manage Tokenizer Resource Configurations](manage-tokenizer-resource-configurations.md)
 

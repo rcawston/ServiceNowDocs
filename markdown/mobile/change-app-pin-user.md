@@ -36,5 +36,5 @@ Role required: admin
     Your app is now configured with a new security PIN.
 
 
-**Parent Topic:**[App PIN settings for mobile](../concept/mobile-app-pin-settings.md)
+**Parent Topic:**[App PIN settings for mobile](mobile-app-pin-settings.md)
 

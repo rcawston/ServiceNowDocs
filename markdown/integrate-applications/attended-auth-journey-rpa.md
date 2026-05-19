@@ -15,7 +15,7 @@ Learn about the authentication process in the Attended Robot application and the
 
 ## Embedded Task Automation feature
 
-With the embedded task automation feature, you can trigger attended bot processes \(attended automations\) from the ServiceNow forms, apart from initiating them from the Attended Robot application. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+With the embedded task automation feature, you can trigger attended bot processes \(attended automations\) from the ServiceNow forms, apart from initiating them from the Attended Robot application. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 ## Attended Robot authentication journey in Embedded Task Automation
 
@@ -51,7 +51,7 @@ In the Connection Manager, when the user tries to connect to an instance for the
 
 After the authentication, the process configuration is retrieved from RPA Hub.
 
-If the **Enable Desktop In Desktop** check box isn’t selected on the bot process form, the automation execution starts in a local session. After the execution is complete, the Attended Robot application remains active on the machine and waits for the upcoming automation triggers. For more information, see the **Launch an attended automation from ServiceNow forms** section in the following sections. For more information about the **Enable Desktop In Desktop** and **End Desktop In Desktop On Complete** check boxes, see [Bot Process form in RPA Hub](../../rpa-hub/task/select-botprocess.md#).
+If the **Enable Desktop In Desktop** check box isn’t selected on the bot process form, the automation execution starts in a local session. After the execution is complete, the Attended Robot application remains active on the machine and waits for the upcoming automation triggers. For more information, see the **Launch an attended automation from ServiceNow forms** section in the following sections. For more information about the **Enable Desktop In Desktop** and **End Desktop In Desktop On Complete** check boxes, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
 If the **Enable Desktop in Desktop** check box is selected on the bot process form, the automation execution starts in a bot session. After the execution is complete, depending on the **End Desktop In Desktop On Complete** setting, either of the following occurs:
 
@@ -70,9 +70,9 @@ If the **Enable Desktop in Desktop** check box is selected on the bot process fo
 
 ## Launch an attended automation from ServiceNow forms
 
-Attended Robot executes attended automation when triggered from ServiceNow forms. For more information, see [Runtime Phase of the Embedded Task Automation \(ETA\)](../../rpa-hub/concept/runtime-trigger-automation-forms.md). For more information about invoking an attended automation across other types of forms, see [Invoke Embedded Task Automation via API in RPA Hub](../../rpa-hub/concept/create-button-att-config-rpa.md).
+Attended Robot executes attended automation when triggered from ServiceNow forms. For more information, see [Runtime Phase of the Embedded Task Automation \(ETA\)](runtime-trigger-automation-forms.md). For more information about invoking an attended automation across other types of forms, see [Invoke Embedded Task Automation via API in RPA Hub](create-button-att-config-rpa.md).
 
-If your organization is configured with proxy settings, the prerequisite for this task is to configure the proxy. In the Proxy Settings section of the Connection Manager, configure the proxy, when you launch Attended Robot from ServiceNow forms, for the first time. For more information about connection manager, see [Connect to an RPA Hub instance from Attended Robot](../task/connect-rda-instance-rpa.md). For more information about setting a proxy, see [Set up Attended Robot](../task/set-up-rda-runtime.md).
+If your organization is configured with proxy settings, the prerequisite for this task is to configure the proxy. In the Proxy Settings section of the Connection Manager, configure the proxy, when you launch Attended Robot from ServiceNow forms, for the first time. For more information about connection manager, see [Connect to an RPA Hub instance from Attended Robot](connect-rda-instance-rpa.md). For more information about setting a proxy, see [Set up Attended Robot](set-up-rda-runtime.md).
 
 On successful authentication, the following scenarios occur:
 
@@ -85,7 +85,7 @@ On successful authentication, the following scenarios occur:
 4.  Initiates the automation in a local session or bot session, based on the option selected in the **Enable Desktop in Desktop** check box.
 5.  After the automation execution is complete, the robot status is then updated as **Available**.
 6.  After the automation execution is initiated, if the user selects the **Stop** button on the Attended Robot, it terminates the automation, and the robot state is set to **Available**. The process job record is marked as **Canceled** state.
-7.  After the automation execution is initiated, if the user selects the **Close** button on the Attended Robot, after performing few pre-validations, it halts the bot process, logs out the user session, and closes the Attended Robot. For more information about stop and close actions, see [Run an automation using Attended Robot](../task/run-rda-robot.md).
+7.  After the automation execution is initiated, if the user selects the **Close** button on the Attended Robot, after performing few pre-validations, it halts the bot process, logs out the user session, and closes the Attended Robot. For more information about stop and close actions, see [Run an automation using Attended Robot](run-rda-robot.md).
 
     ![Stop and Close actions in the Attended Robot.](../image/attended-robot-actions.png "Stop and Close actions in the Attended Robot")
 
@@ -97,7 +97,7 @@ On successful authentication, the following scenarios occur:
 
 If the authentication fails, an error is displayed: `Unable to execute the automation as authentication has failed. Contact your system administrator`.
 
-Use the **Terminate** component in attended automations to complete the automation execution. For more information about the component, [Use the Terminate component](../../rpa-studio/task/use-general-terminate.md).
+Use the **Terminate** component in attended automations to complete the automation execution. For more information about the component, [Use the Terminate component](use-general-terminate.md).
 
 To view detailed product logs, refer to the product logs.
 

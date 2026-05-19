@@ -138,5 +138,5 @@ The Invoice task form includes tabs that store invoice task information that an 
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

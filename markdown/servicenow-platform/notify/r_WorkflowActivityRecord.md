@@ -41,5 +41,5 @@ The **record** activity adds the **recording** variable to the workflow scratchp
 |recording.recordingID|The ID used by the telephony provider to identify the recording.|
 |recording.recordingURL|The URL from the telephony provider to access the recording.|
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

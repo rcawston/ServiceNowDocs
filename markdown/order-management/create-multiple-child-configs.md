@@ -28,7 +28,7 @@ If your product catalog admin has enabled multiple configurations for child offe
 -   Customize the options and characteristics for each child offering instance created.
 -   Delete a child offering instance, as long as the minimum number of child offerings defined for the product is maintained.
 
-**Note:** Even when the multiple configurations feature is enabled, there are scenarios in which some configuration options might not be available. The system uses the default, minimum, and maximum quantity values from the product definition to determine valid configurations and then enables or disables the **Split** or **Delete** options for managing child offering configurations. For more information on validation, see [Multiple configurations](../concept/multiple-child-offering-configurations.md).
+**Note:** Even when the multiple configurations feature is enabled, there are scenarios in which some configuration options might not be available. The system uses the default, minimum, and maximum quantity values from the product definition to determine valid configurations and then enables or disables the **Split** or **Delete** options for managing child offering configurations. For more information on validation, see [Multiple configurations](multiple-child-offering-configurations.md).
 
 ## Procedure
 
@@ -101,5 +101,5 @@ Removes an existing child offering instance.
 8.  When you finish configuring the child offerings, select **Add** to add each configuration as a separate line item to your opportunity, quote, or order.
 
 
-**Parent Topic:**[Using the legacy product configurator](../concept/using-som-product-configurator.md)
+**Parent Topic:**[Using the legacy product configurator](using-som-product-configurator.md)
 

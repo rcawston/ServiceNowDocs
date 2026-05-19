@@ -42,5 +42,5 @@ You can define the number of characters to be used as tags in the **glide.knowma
     ![Article template page](../image/article-template-seo-tag.png "Article template page")
 
 
-**Parent Topic:**[Configure knowledge article templates](../concept/configure-knowledge-article-templates.md)
+**Parent Topic:**[Configure knowledge article templates](configure-knowledge-article-templates.md)
 

@@ -62,5 +62,5 @@ When you create entity tiers, you apply a level or hierarchy to the entity class
 
 **Parent Topic:**[Exploring the entities](manage-entities.md)
 
-**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](../grc-common-functions/exploring-the-entities.md)
 

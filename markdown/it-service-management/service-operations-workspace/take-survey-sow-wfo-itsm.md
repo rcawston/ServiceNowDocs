@@ -46,5 +46,5 @@ You can respond to surveys or your assessments. You can access surveys available
 7.  Complete the survey.
 
 
-**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](../concept/wfo-itsm-service-operations-workspace.md)
+**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](wfo-itsm-service-operations-workspace.md)
 

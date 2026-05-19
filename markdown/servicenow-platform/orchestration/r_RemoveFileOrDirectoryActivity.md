@@ -42,7 +42,7 @@ errorMessage
 
 </td><td>
 
-The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.
+The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.
 
 </td></tr><tr><td>
 
@@ -70,5 +70,5 @@ The **deletionResults** array contains these attributes:-   **fullPath**: Full p
 |Success|The activity succeeded in removing the file or directory specified.|
 |Failure|The activity failed to remove the file or directory specified.|
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](c_OrchestrationSFTPActivityPack.md)
 

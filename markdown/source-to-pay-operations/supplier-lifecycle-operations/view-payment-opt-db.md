@@ -39,12 +39,12 @@ The Payment Optimization dashboard is displayed. It contains information on the 
 -   Average propensity score of the supplier-base for accepting credit card payments.
 -   Credit card insights including status of all the active credit card enablement cases and industry-wise potential credit card savings.
 
-**Parent Topic:**[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+**Parent Topic:**[Using Supplier Payment Optimization](using-supp-payment-opt.md)
 
 **Related topics**  
 
 
-[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+[Using Supplier Payment Optimization](using-supp-payment-opt.md)
 
 [Estimate savings using the saving estimator tool](estimate-savings.md)
 

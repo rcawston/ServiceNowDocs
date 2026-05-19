@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 -   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   To use attachments to generate a project, activate the document intelligence skill. The default LLM is Azure OpenAI. Switching to a different model may affect accuracy.
 
--   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../../now-assist-spm/concept/configuring-na-spm.md).
+-   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
 
 ## Procedure
@@ -56,5 +56,5 @@ Role required: it\_project\_manager
 
 The project is created with the generated tasks, including task hierarchy and dates derived from your input.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

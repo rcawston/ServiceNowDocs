@@ -19,9 +19,9 @@ Use the Generate Certificate Signing \(CSR\) page to create a certificate signin
 
 Role required: admin
 
-The Infrastructure Security \(com.glide.infrastructure\_security\) plugin must be installed to perform these steps. See[Infrastructure Security](../concept/infrastructure-security.md) for details on this plugin.
+The Infrastructure Security \(com.glide.infrastructure\_security\) plugin must be installed to perform these steps. See[Infrastructure Security](infrastructure-security.md) for details on this plugin.
 
-For information on using custom URLs with ServiceNow, see [Set a custom URL as the instance URL](../../../integrate/authentication/task/configure-custom-url.md).
+For information on using custom URLs with ServiceNow, see [Set a custom URL as the instance URL](../authentication/configure-custom-url.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ For information on using custom URLs with ServiceNow, see [Set a custom URL as t
 5.  Copy the contents of the **Generated CSR** field.
 
 
-**Parent Topic:**[Infrastructure Security](../concept/infrastructure-security.md)
+**Parent Topic:**[Infrastructure Security](infrastructure-security.md)
 

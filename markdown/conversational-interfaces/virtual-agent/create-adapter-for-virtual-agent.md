@@ -59,5 +59,5 @@ Create a scripted REST API, add a scripted REST resource, set security and conte
 -   **[Create the action scripts for your custom chat integration](create-action-scripts-va-cccif.md)**  
 Set up the transforms that your custom chat integration needs to communicate through the chat process.
 
-**Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md)
+**Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](va-custom-adapter-framework.md)
 

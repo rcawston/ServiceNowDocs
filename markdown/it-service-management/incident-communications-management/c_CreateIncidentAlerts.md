@@ -17,12 +17,12 @@ Create an adhoc incident communication plan to manage and track communications a
 
 The adhoc incident communication plan can be created in the following ways:
 
--   [Create adhoc incident communication plan from Incident Communications Management](../task/t_CreateAnAlertDirectly.md).
--   [Create adhoc incident communication plan from an incident](../task/t_CreateAnAlertFromAnIncident.md).
+-   [Create adhoc incident communication plan from Incident Communications Management](t_CreateAnAlertDirectly.md).
+-   [Create adhoc incident communication plan from an incident](t_CreateAnAlertFromAnIncident.md).
 
--   **[Create adhoc incident communication plan from Incident Communications Management](../task/t_CreateAnAlertDirectly.md)**  
+-   **[Create adhoc incident communication plan from Incident Communications Management](t_CreateAnAlertDirectly.md)**  
 Create an incident communication plan from Incident Communications Management when an issue is not considered earlier. If you need collaboration on that issue, you can create an incident communication plan.
--   **[Create adhoc incident communication plan from incident](../task/t_CreateAnAlertFromAnIncident.md)**  
+-   **[Create adhoc incident communication plan from incident](t_CreateAnAlertFromAnIncident.md)**  
 Create an adhoc incident communication plan from an incident when an issue related to the incident is not considered earlier. The incident automatically populates the required information in the adhoc communication plan, saving you time and effort.
 
 **Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)

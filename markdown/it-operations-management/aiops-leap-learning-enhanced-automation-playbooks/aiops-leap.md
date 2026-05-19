@@ -27,11 +27,11 @@ LEAP application uses AI-driven insights and automation to help manage IT operat
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Create problem records and playbooks using LEAP.](../task/using-aiops-leap.md)
+[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Create problem records and playbooks using LEAP.](using-aiops-leap.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get detailed information on important skill configuration during LEAP installation.](../reference/references-aiops-leap.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get detailed information on important skill configuration during LEAP installation.](references-aiops-leap.md)
 
 </td></tr></tbody>
 </table>## Supported LLMs for Now Assist for ITOM

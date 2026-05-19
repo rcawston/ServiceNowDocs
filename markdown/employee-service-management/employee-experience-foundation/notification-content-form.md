@@ -69,7 +69,7 @@ Block content
 
 </td><td>
 
-Only displays when you check **Use block content**. Select the block content you want to appear as a notification or select **New** to create block content.**Note:** For more information, see [Add or modify block content](../task/ecpro-manage-block-content.md).
+Only displays when you check **Use block content**. Select the block content you want to appear as a notification or select **New** to create block content.**Note:** For more information, see [Add or modify block content](ecpro-manage-block-content.md).
 
 </td></tr><tr><td>
 
@@ -111,9 +111,9 @@ Option to activate the push notification for use.**Note:** Your content must be 
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -123,13 +123,13 @@ Option to activate the push notification for use.**Note:** Your content must be 
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

@@ -206,7 +206,7 @@ Name of the trusted account.Configure this field only for accounts that don't us
 
     3.  If you want to use the OrganizationAccountAccessRole to access the member account, create an assume role configuration for the management account.
 
-        For more information, see [Create an assume role configuration](../../it-operations-management/task/create-assume-role-config.md).
+        For more information, see [Create an assume role configuration](create-assume-role-config.md).
 
 7.  To use a trusted account to scan the trusting account, configure trusting account for Cloud Action Library.
 
@@ -219,5 +219,5 @@ Name of the trusted account.Configure this field only for accounts that don't us
     2.  Repeat step [7.a](set-up-cloud-action-library-for-aws.md#cuoss-assume-use-case-substep) for each trusting account that needs to be scanned through the trusted account.
 
 
-**Parent Topic:**[Exploring Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+**Parent Topic:**[Exploring Cloud Action Library](exploring-cloud-actions-library.md)
 

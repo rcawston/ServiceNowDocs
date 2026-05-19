@@ -57,7 +57,7 @@ The contract request fields are available for selection in the condition builder
 
 ![Condition builder with contract request fields](../image/cmpro-enable-cr-fields-cond-builder.png "Condition builder with contract request fields")
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

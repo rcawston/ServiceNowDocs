@@ -20,7 +20,7 @@ Import and process data from your Kafka environment using your existing transfor
 -   Role required: integration\_hub\_admin
 -   This consumer requires a Stream Connect subscription. For more information, see [https://www.servicenow.com/now-platform/workflow-data-fabric.html](https://www.servicenow.com/now-platform/workflow-data-fabric.html).
 -   The ServiceNow Stream Connect Installer \[com.glide.hub.stream\_connect.installer\] plugin is required.
--   This consumer requires a [transform map](../../../script/server-scripting/concept/c_CreatingNewTransformMaps.md).
+-   This consumer requires a [transform map](../system-import-sets/c_CreatingNewTransformMaps.md).
 
 ## Formatting Kafka message payloads
 
@@ -100,7 +100,7 @@ Serialization format
 </td><td>
 
 The serialization format for the message. Select one of the following. -   **Plain Text**: Select this option for any plain-text messages. This is the default format.
--   **Encoded**: Select this option for messages in an Apache Avro format. Converting plain-text messages to an Avro format requires a schema. Select the schema registry in the **Schema registry** field. For more information on schemas, see [Schema management in Stream Connect](../concept/schema-management.md).
+-   **Encoded**: Select this option for messages in an Apache Avro format. Converting plain-text messages to an Avro format requires a schema. Select the schema registry in the **Schema registry** field. For more information on schemas, see [Schema management in Stream Connect](schema-management.md).
 
 
 </td></tr><tr><td>
@@ -151,5 +151,5 @@ Registry for the selected schema. Select one of the following.
 
 [Create a Kafka stream](create-kafka-stream.md) for this consumer. After the stream is activated, you can start receiving messages from your Kafka environment.
 
-**Parent Topic:**[Using Stream Connect for Apache Kafka](../concept/stream-connect-apache-kafka.md)
+**Parent Topic:**[Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md)
 

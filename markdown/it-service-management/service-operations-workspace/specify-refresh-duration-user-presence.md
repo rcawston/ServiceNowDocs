@@ -41,5 +41,5 @@ In this case, the value specified for the **sn\_tcm\_collab\_hook.teams.presence
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)
 

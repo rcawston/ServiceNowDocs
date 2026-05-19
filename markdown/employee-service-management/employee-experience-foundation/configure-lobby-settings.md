@@ -52,5 +52,5 @@ Role required: sn\_notify\_msteams.admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](config-notify-ms-teams.md)
 

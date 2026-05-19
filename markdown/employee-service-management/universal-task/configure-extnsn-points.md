@@ -32,7 +32,7 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Configure the roles to view employee forms](ut-config-empform-view-roles.md)
 

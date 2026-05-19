@@ -53,7 +53,7 @@ The following items are installed with Digital Product Release:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Digital Product Release](../reference/installed-with-dpr.md).
+For more information, see [Components installed with Digital Product Release](installed-with-dpr.md).
 
 ## Procedure
 

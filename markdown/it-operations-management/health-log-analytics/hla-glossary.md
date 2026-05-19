@@ -168,7 +168,7 @@ Lexical keywords
 
 </td><td>
 
-Specific words found in log data, such as "crashed" or "failed," that can point to important issues. HLA tracks lexical keywords to detect widespread issues and long-forming trends. For more information, see: [Add, edit, or delete lexical keywords in Health Log Analytics](../task/hla-lexical-keywords-admin.md).
+Specific words found in log data, such as "crashed" or "failed," that can point to important issues. HLA tracks lexical keywords to detect widespread issues and long-forming trends. For more information, see: [Add, edit, or delete lexical keywords in Health Log Analytics](hla-lexical-keywords-admin.md).
 
 </td></tr><tr><td id="hla-glossary-log-context-mapping">
 

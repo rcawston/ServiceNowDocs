@@ -46,7 +46,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Button](../reference/form-control-button.md)
+[Button](form-control-button.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Helps you to add one or more buttons on the form. Enables the user to click it t
 
 </td></tr><tr><td>
 
-[TextBlock](../reference/form-control-textblock.md)
+[TextBlock](form-control-textblock.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Helps you to add a label on the form. Enables the user to view a text block as r
 
 </td></tr><tr><td>
 
-[TextBox](../reference/form-control-textbox.md)
+[TextBox](form-control-textbox.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Helps you to add a text box to the form. Enables the user to provide information
 
 </td></tr><tr><td>
 
-[Date](../reference/form-control-date.md)
+[Date](form-control-date.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Helps you to provide a date picker on the form. Enables the user to select a spe
 
 </td></tr><tr><td>
 
-[Time](../reference/form-control-time.md)
+[Time](form-control-time.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Helps you to provide a time picker on the form. Enables the user to select a spe
 
 </td></tr><tr><td>
 
-[DateTime](../reference/form-control-datetime.md)
+[DateTime](form-control-datetime.md)
 
 </td><td>
 
@@ -94,7 +94,7 @@ Helps you to provide a date and time picker on the form. Enables the user to sel
 
 </td></tr><tr><td>
 
-[CheckBox](../reference/form-control-checkbox.md)
+[CheckBox](form-control-checkbox.md)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Helps you to present yes, no, true, or false selections.You can also use the che
 
 </td></tr><tr><td>
 
-[RadioButton](../reference/form-control-radiobutton.md)
+[RadioButton](form-control-radiobutton.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Enables you to select a choice from the group of choices.
 
 </td></tr><tr><td>
 
-[ComboBox](../reference/form-control-combobox.md)
+[ComboBox](form-control-combobox.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Displays the data in a drop-down combination box. By default, the ComboBox eleme
 
 </td></tr><tr><td>
 
-[ListBox](../reference/form-control-listbox.md)
+[ListBox](form-control-listbox.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Displays a list of items that you can select one or more Items from.
 
 </td></tr><tr><td>
 
-[DataGrid](../reference/form-control-datagrid.md)
+[DataGrid](form-control-datagrid.md)
 
 </td><td>
 
@@ -138,7 +138,7 @@ Enables you to display and manipulate the tabular data.
 
 </td></tr><tr><td>
 
-[PasswordBox](../reference/form-control-passwordbox.md)
+[PasswordBox](form-control-passwordbox.md)
 
 </td><td>
 
@@ -146,7 +146,7 @@ Displays placeholder characters while you type a string.
 
 </td></tr><tr><td>
 
-[ImageControl](../reference/form-control-imagecontrol.md)
+[ImageControl](form-control-imagecontrol.md)
 
 </td><td>
 
@@ -154,7 +154,7 @@ Displays images in the form.
 
 </td></tr><tr><td>
 
-[ImageViewer](../reference/form-control-imageviewer.md)
+[ImageViewer](form-control-imageviewer.md)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Provides an identifiable grouping for other elements. Typically, you use group b
 
 </td></tr><tr><td>
 
-[TabControl](../reference/form-control-tabcontrol.md)
+[TabControl](form-control-tabcontrol.md)
 
 </td><td>
 
@@ -202,7 +202,7 @@ Helps you to split a grid element into multiple parts.
 
 </td></tr><tr><td>
 
-[Web Browser](../reference/form-control-webbrowser.md)
+[Web Browser](form-control-webbrowser.md)
 
 </td><td>
 
@@ -210,7 +210,7 @@ Hosts web pages and provides web browsing capabilities to your application.
 
 </td></tr><tr><td>
 
-[Form Renderer](../reference/form-control-formreneder.md)
+[Form Renderer](form-control-formreneder.md)
 
 </td><td>
 
@@ -232,12 +232,12 @@ Border
 Enables you to draw a border, background, or both with the form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an attended automation form in RPA Desktop Design Studio](../task/create-rda-form.md)
+</table>**Parent Topic:**[Create an attended automation form in RPA Desktop Design Studio](create-rda-form.md)
 
 **Related topics**  
 
 
-[Methods and events of an attended automation form](../reference/form-methods-events.md)
+[Methods and events of an attended automation form](form-methods-events.md)
 
-[Methods and events of elements](../reference/form-control-methods-events.md)
+[Methods and events of elements](form-control-methods-events.md)
 

@@ -65,7 +65,7 @@ Description
 2.  Filter the Name field to locate the **Migrate budget for active demands and projects** scheduled job and open it.
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-For a description of the field names, see [Scheduled Script Execution Form](../../project-management/reference/scheduled-script-execution-form.md).
+For a description of the field names, see [Scheduled Script Execution Form](../project-management/scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 

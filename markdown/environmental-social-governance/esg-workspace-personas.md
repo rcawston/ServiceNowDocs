@@ -31,18 +31,18 @@ ESG Administrator
 
 </td><td>
 
-Set up the Operational Sustainability Management application so that it can be used by the users. -   [Create material topics](../task/create-material-topics.md)
--   [Create an Operational Sustainability Management \(formerly ESG Management\) goal](../task/create-esg-goal.md)
--   [Set targets for goals](../task/create-esg-target.md)
--   [Add a goal to a material topic](../task/associate-a-goal-to-mt.md)
--   [Approve a material topic](../task/approve-a-mt.md)
+Set up the Operational Sustainability Management application so that it can be used by the users. -   [Create material topics](create-material-topics.md)
+-   [Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md)
+-   [Set targets for goals](create-esg-target.md)
+-   [Add a goal to a material topic](associate-a-goal-to-mt.md)
+-   [Approve a material topic](approve-a-mt.md)
 -   [Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
--   [Create a new emission activity](../task/create-an-emission-activity.md)
--   [Create an emission factor](../task/create-an-emission-factor.md)
+-   [Create a new emission activity](create-an-emission-activity.md)
+-   [Create an emission factor](create-an-emission-factor.md)
 -   [Manage all integrations](integrate-esg.md)
--   [Create a new schedule for calculating the due date of the metric data task](../task/create-a-new-schedule.md).
--   [Manage metrics](../../metrics/concept/esg-metrics.md).
--   [Create unit family, units, and unit conversions](../task/create-a-unit-family.md).
+-   [Create a new schedule for calculating the due date of the metric data task](create-a-new-schedule.md).
+-   [Manage metrics](esg-metrics.md).
+-   [Create unit family, units, and unit conversions](create-a-unit-family.md).
 
 </td></tr><tr><td>
 
@@ -50,13 +50,13 @@ ESG program manager
 
 </td><td>
 
--   [Create material topics](../task/create-material-topics.md)
--   [Create an Operational Sustainability Management \(formerly ESG Management\) goal](../task/create-esg-goal.md)
--   [Set targets for goals](../task/create-esg-target.md)
--   [Add a goal to a material topic](../task/associate-a-goal-to-mt.md)
--   [Approve a material topic](../task/approve-a-mt.md)
+-   [Create material topics](create-material-topics.md)
+-   [Create an Operational Sustainability Management \(formerly ESG Management\) goal](create-esg-goal.md)
+-   [Set targets for goals](create-esg-target.md)
+-   [Add a goal to a material topic](associate-a-goal-to-mt.md)
+-   [Approve a material topic](approve-a-mt.md)
 -   [Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
--   [Manage metrics](../../metrics/concept/esg-metrics.md)
+-   [Manage metrics](esg-metrics.md)
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ ESG reporting and disclosure manager
 
 </td><td>
 
-[Create disclosures for internal and external stakeholders](../task/create-disclosure.md)
+[Create disclosures for internal and external stakeholders](create-disclosure.md)
 
 </td></tr><tr><td>
 
@@ -72,10 +72,10 @@ ESG metrics manager
 
 </td><td>
 
--   [Create an automated metric definition](../../metrics/task/create-metric-definition.md)
--   [Create a manual metric definition](../../metrics/task/create-manual-metric-definition.md)
--   [Create a calculated metric definition](../../metrics/task/create-composite-metric-definition.md)
--   [Create a metric](../../metrics/task/create-a-metric.md)
+-   [Create an automated metric definition](create-metric-definition.md)
+-   [Create a manual metric definition](create-manual-metric-definition.md)
+-   [Create a calculated metric definition](create-composite-metric-definition.md)
+-   [Create a metric](create-a-metric.md)
 -   [Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](integrate-esg-with-watershed.md)
 
 </td></tr><tr><td>
@@ -84,8 +84,8 @@ ESG data owner
 
 </td><td>
 
--   [Provide data for the metrics](../../metrics/task/provide-data-for-metric-data-task.md)
--   [Provide responses for multiple metrics](../task/provide-data-for-multiple-metrics.md)
+-   [Provide data for the metrics](provide-data-for-metric-data-task.md)
+-   [Provide responses for multiple metrics](provide-data-for-multiple-metrics.md)
 
 </td></tr><tr><td>
 
@@ -95,10 +95,10 @@ ESG Risk Manager**Note:** This role is installed if you activate the sn\_esg\_ri
 
 -   [Create a risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_CreateRiskState.md)
 -   [Generate a risk from a risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_GenRiskFromRiskFrameProfile.md)
--   [Create a risk assessment scope and initiate an assessment](../task/create-a-risk-asmt-scope-and-initiate-asmt.md)
+-   [Create a risk assessment scope and initiate an assessment](create-a-risk-asmt-scope-and-initiate-asmt.md)
 
 </td></tr></tbody>
-</table>For more information on the roles, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+</table>For more information on the roles, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 **Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](esg-new-explore.md)
 

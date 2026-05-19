@@ -43,5 +43,5 @@ Role required: admin.
     **Note:** The total plugin load duration is not the sum of the load duration of all the loaded files for that plugin.
 
 
-**Parent Topic:**[Upgrade Summary Report](../reference/um-complete-summary.md)
+**Parent Topic:**[Upgrade Summary Report](um-complete-summary.md)
 

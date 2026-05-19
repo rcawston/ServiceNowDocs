@@ -43,5 +43,5 @@ Turn on the flow generation skill to use generative AI to create and edit flows.
 
 Grant the now.assist.creator and flow\_designer roles to each user who will use the flow generation skill.
 
-**Parent Topic:**[Flow generation](../reference/flow-generation-landing.md)
+**Parent Topic:**[Flow generation](flow-generation-landing.md)
 

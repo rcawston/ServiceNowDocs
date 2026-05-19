@@ -67,5 +67,5 @@ Migration duration depends on the volume of data in the archive tables. Large ar
     It might take up to 24 hours for data to appear in the tile.
 
 
-**Parent Topic:**[Configuring Data Management](../concept/configuring-data-management.md)
+**Parent Topic:**[Configuring Data Management](configuring-data-management.md)
 

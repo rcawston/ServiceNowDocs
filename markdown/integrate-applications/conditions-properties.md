@@ -66,5 +66,5 @@ Timeout
 Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Conditions](../concept/conditions-components.md)
+</table>**Parent Topic:**[Conditions](conditions-components.md)
 

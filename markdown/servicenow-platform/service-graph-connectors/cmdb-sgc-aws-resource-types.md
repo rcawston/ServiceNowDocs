@@ -851,5 +851,5 @@ IAM group for AWS account
 AWS::IAM::Group
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for AWS reference](../concept/sgc-cmdb-aws-reference.md)
+</table>**Parent Topic:**[Service Graph Connector for AWS reference](sgc-cmdb-aws-reference.md)
 

@@ -100,5 +100,5 @@ ITOM Licensing Discovery Sources\[itom\_lu\_discovery\_sources\]
 Contains the categories for all discovery sources.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[OTM SU Licensing References](../../operational-technology-management/reference/otm-su-licensing-references.md)
+</table>**Parent Topic:**[OTM SU Licensing References](otm-su-licensing-references.md)
 

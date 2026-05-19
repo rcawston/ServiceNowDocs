@@ -27,8 +27,8 @@ Verify that the encrypted field configurations are using your newly migrated mod
 -   The **Method** field is **Single Module**.
 -   The **Crypto module** field is populated with the name of the cryptographic module that the system automatically creates. You can review that module and the module access policy, both of which are active and published.
 
--   **[Field Encryption migration status page](../../key-management-framework/concept/cle-migration-status-page.md)**  
+-   **[Field Encryption migration status page](cle-migration-status-page.md)**  
 Use the migration status page to track the migration of encryption contexts to encryption modules.
 
-**Parent Topic:**[Configuring Field Encryption](../../encryption/concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

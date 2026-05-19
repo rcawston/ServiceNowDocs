@@ -18,7 +18,7 @@ Install Agent Client Collector using a package distribution tool. Prior to insta
 ## Before you begin
 
 -   Ensure that the Agent Client Collector Listener is configured on your MID Servers, and the service is available from your target hosts.
--   Verify that your server's OS and version is supported. For a list of supported OS's and versions, see [Agent Client Collector installation](../concept/acc-installation.md).
+-   Verify that your server's OS and version is supported. For a list of supported OS's and versions, see [Agent Client Collector installation](acc-installation.md).
 -   Verify whether there are restrictions or requirements to be aware of during deployment, such as specifying an account other than the default servicenow account. For more information about embedding the agent into your own automated system, see [ITOM Agent Client Collector documentation material \[KB1122613\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1122613).
 -   Ensure that the MID Server and its MID Web Server and ACC Websocket Endpoint extensions are up and running.
 -   Enable golden image mode for cloning additional agents by setting the golden image marker located at `/tmp/acc-goldenimage`. The golden image marker takes no action during new Linux installations, as there is nothing which requires cleaning.
@@ -308,5 +308,5 @@ SLES
         `# systemctl start acc`
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 

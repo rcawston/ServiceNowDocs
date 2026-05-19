@@ -44,7 +44,7 @@ The value stream record page displays information on the following:
     **Note:** Select a value stream stage to view more details.
 
 
-**Parent Topic:**[Manage value streams](../../concept/eaw-concept/eaw-manage-value-streams.md)
+**Parent Topic:**[Manage value streams](eaw-manage-value-streams.md)
 
 **Related topics**  
 
@@ -55,5 +55,5 @@ The value stream record page displays information on the following:
 
 [Associate an application model to a value stream](eaw-add-an-application-model-to-a-value-stream.md)
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 

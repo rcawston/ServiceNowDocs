@@ -98,5 +98,5 @@ SRP also provides ways to add screen condition mappings when a page appears.
     6.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](../concept/srp-service-operations-workspace.md)
+**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](srp-service-operations-workspace.md)
 

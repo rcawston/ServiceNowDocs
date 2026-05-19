@@ -17,8 +17,8 @@ If the current table contains a reference to another table, any field on the ref
 
 Dot-walking references a field by building a chain of field names separated by dots \(periods\). For instance, **incident.assigned\_to.company** references the company of the user assigned to an incident. The recommended limit for chain length is three levels.
 
--   **[Dot-walking examples](../reference/dot-walking-examples.md)**  
+-   **[Dot-walking examples](dot-walking-examples.md)**  
 Access fields on a related table from a form, list, or script by dot-walking. This topic includes examples of the different ways that you can dot-walk.
 
-**Parent Topic:**[Common UI elements](../../common-ui-elements/topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

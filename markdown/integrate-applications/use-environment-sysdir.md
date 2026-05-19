@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SystemDirectory component. For more information about these properties, see [Properties of the Environment components](../reference/util-environment-prop.md).
+You can configure the properties for the SystemDirectory component. For more information about these properties, see [Properties of the Environment components](util-environment-prop.md).
 
 ## Procedure
 
@@ -81,5 +81,5 @@ No. Connecting the port is optional.
 </table>4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Environment](../concept/environment-utility.md)
+**Parent Topic:**[Environment](environment-utility.md)
 

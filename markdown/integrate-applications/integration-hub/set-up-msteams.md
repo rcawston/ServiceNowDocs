@@ -53,7 +53,7 @@ Complete these steps from the Microsoft Azure portal.
 
     For more information, see [Permissions and consent in the Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent) in [Microsoft Docs](https://docs.microsoft.com/en-us/).
 
-    For information about the permissions required to use the spoke actions, see the Spoke actions section in [Microsoft Teams Graph Spoke](../concept/msteams-spoke.md). Provide permissions as per your requirement. For more information about the permissions, see [Microsoft Graph REST API v1.0 reference](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0) in [Microsoft Docs](https://docs.microsoft.com/en-us/).
+    For information about the permissions required to use the spoke actions, see the Spoke actions section in [Microsoft Teams Graph Spoke](msteams-spoke.md). Provide permissions as per your requirement. For more information about the permissions, see [Microsoft Graph REST API v1.0 reference](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0) in [Microsoft Docs](https://docs.microsoft.com/en-us/).
 
 6.  Record the **Client Secret** for use in later configurations.
 
@@ -86,7 +86,7 @@ Role required: admin
 
             ![Connection for the Microsoft Teams Spoke](../image/ms-teams-spoke-tile.jpg)
 
-        -   To manage more than one Microsoft Teams spoke connection records, you should create a child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Microsoft Teams spoke connection records, you should create a child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
         If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
         ![Initial connection configuration](../image/ms-teams-spoke-configure.jpg)
@@ -188,7 +188,7 @@ OAuth callback endpoint. Enter `https://<instance-name>.service-now.com/oauth_re
 
             ![Connection for the Microsoft Teams Graph Client Connection](../image/ms-teams-gphcc-tile.jpg)
 
-        -   To manage more than one Microsoft Teams Graph Client Credentials connection records, you should create a child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Microsoft Teams Graph Client Credentials connection records, you should create a child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
         If you're configuring the spoke for the first time, select **Configure**. Otherwise, select **Edit**.
 
         ![Initial connection configuration](../image/ms-teams-gphcc-configure.jpg)

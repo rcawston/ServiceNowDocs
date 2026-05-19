@@ -178,5 +178,5 @@ To remove any control
 
 To view the summary of the assessment, click **Assessment Summary**.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

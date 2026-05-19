@@ -27,11 +27,11 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 -   **CI summarization skill**
 
-    View a concise summary of key CI data. You can select the CI on a CI form, in a workspace page, or on any list view. The summary can include discovery data, ownership, and key related items such as open incidents, alerts, problems, upcoming change requests, and security vulnerabilities. Additionally, the summary lists the service instances that the CI is part of. For more information, see [View CI information with the Now Assist CI summarization skill](../../now-assist-cmdb/task/na-cmdb-agent-ci-summarizer.md).
+    View a concise summary of key CI data. You can select the CI on a CI form, in a workspace page, or on any list view. The summary can include discovery data, ownership, and key related items such as open incidents, alerts, problems, upcoming change requests, and security vulnerabilities. Additionally, the summary lists the service instances that the CI is part of. For more information, see [View CI information with the Now Assist CI summarization skill](na-cmdb-agent-ci-summarizer.md).
 
 -   **Manage duplicate CIs skill**
 
-    Resolve de-duplication tasks with support from the Now Assist Manage duplicate CIs skill. CMDB administrators follow step-by-step guidance to perform remediation, and can preview remediation results before applying a template. For more information, see [Let Now Assist help you to manage duplicate CIs](../task/now-assist-cmdb-mng-dupe-cis-skill.md).
+    Resolve de-duplication tasks with support from the Now Assist Manage duplicate CIs skill. CMDB administrators follow step-by-step guidance to perform remediation, and can preview remediation results before applying a template. For more information, see [Let Now Assist help you to manage duplicate CIs](now-assist-cmdb-mng-dupe-cis-skill.md).
 
 -   **Service Graph Connector diagnosis skill**
 

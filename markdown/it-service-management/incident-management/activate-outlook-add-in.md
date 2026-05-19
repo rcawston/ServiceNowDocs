@@ -57,7 +57,7 @@ For more information, see [Install the ServiceNow Add-in for Microsoft 365](http
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Microsoft Outlook to create incidents and VTB tasks](../concept/create-incident-outlook.md)
+**Parent Topic:**[Configuring Microsoft Outlook to create incidents and VTB tasks](create-incident-outlook.md)
 
 **Related topics**  
 

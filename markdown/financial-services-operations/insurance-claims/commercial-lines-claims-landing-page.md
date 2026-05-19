@@ -21,15 +21,15 @@ The Commercial Lines Claims application enables your organization to quickly set
 
 </td><td>
 
-[Set up![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Commercial Lines Claims](../task/configure-commercial-lines-claims.md)
+[Set up![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Commercial Lines Claims](configure-commercial-lines-claims.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components_installed_with_commercial_lines_claims.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](components_installed_with_commercial_lines_claims.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with a preconfigured dashboard.](../../../use/dashboards/application-content-packs/commercial-lines-claims.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with a preconfigured dashboard.](../commercial-lines-claims.md)
 
 s
 

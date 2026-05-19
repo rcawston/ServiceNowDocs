@@ -76,5 +76,5 @@ Lists zones queried from the tables that extend or include \[fm\_m2m\_space\_to\
 
 [Saved filters](r_SavedFilters.md)
 
-[Create a map filter in Facilities Service Management](../task/t_CreateAMapFilter.md)
+[Create a map filter in Facilities Service Management](t_CreateAMapFilter.md)
 

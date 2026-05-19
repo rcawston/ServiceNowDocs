@@ -43,7 +43,7 @@ You must select one of the Cloud Cost Management application scopes to create or
 
 3.  On the Budget policy creation form, fill in the fields.
 
-    For a description of the field values, see [List of Budget policy creation fields](../reference/budget-policy-fields.md).
+    For a description of the field values, see [List of Budget policy creation fields](budget-policy-fields.md).
 
 4.  Select **Submit**.
 

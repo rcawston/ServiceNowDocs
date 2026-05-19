@@ -86,7 +86,7 @@ Determine how to display these modular components in your Playbook Experience:
     ![The Add optional activity modal](../image/playbook-opt-activity-modal.png "Add optional activity modal")
 
 
-To start setting up components for your customized Playbook Experience, see [Customize a playbook in UI Builder](../task/playbook-get-started-custom-layouts.md).
+To start setting up components for your customized Playbook Experience, see [Customize a playbook in UI Builder](playbook-get-started-custom-layouts.md).
 
 ## Provided UI Builder Bundles
 
@@ -110,5 +110,5 @@ Each layout contains the following components:
 -   Stage picker
 -   Client scripts
 
-To add a bundle to an existing or new UI Builder page, see [Add a custom layout bundle to a UI Builder page](../../process-automation-designer/task/add-custom-layout-bundle-uib-page.md). If you're creating a new experience and want to add a bundle to a standard record page, see [Add a custom layout bundle to a UI Builder standard record page](../../process-automation-designer/task/add-custom-layout-bundle-uib-standard-record.md).
+To add a bundle to an existing or new UI Builder page, see [Add a custom layout bundle to a UI Builder page](add-custom-layout-bundle-uib-page.md). If you're creating a new experience and want to add a bundle to a standard record page, see [Add a custom layout bundle to a UI Builder standard record page](add-custom-layout-bundle-uib-standard-record.md).
 

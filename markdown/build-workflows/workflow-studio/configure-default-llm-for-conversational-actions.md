@@ -55,5 +55,5 @@ In the conversational actions settings, you can use generative AI to generate de
 6.  Select **Update**.
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

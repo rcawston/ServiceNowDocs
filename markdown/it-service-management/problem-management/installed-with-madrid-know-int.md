@@ -36,5 +36,5 @@ Known Error article\[kb\_template\_known\_error\_article\]
 Table to store Known Error articles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid — Knowledge Integration](../task/act-pm-best-prac-madrid-know-int.md)
+</table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid — Knowledge Integration](act-pm-best-prac-madrid-know-int.md)
 

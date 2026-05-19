@@ -17,7 +17,7 @@ The task list in ERP Semantic Mining displays information on connection tasks fo
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-For process details, see [Check and troubleshoot the data refresh status for ERP Semantic Mining](../task/erpcm-check-data-connection.md).
+For process details, see [Check and troubleshoot the data refresh status for ERP Semantic Mining](erpcm-check-data-connection.md).
 
 <table id="table_z5t_tcd_bwb"><thead><tr><th>
 
@@ -108,5 +108,5 @@ Finished
 Date and time when the connection task finished running.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ERP Semantic Mining field descriptions](../concept/erpcm-field-description-reference-landing.md)
+</table>**Parent Topic:**[ERP Semantic Mining field descriptions](erpcm-field-description-reference-landing.md)
 

@@ -23,9 +23,9 @@ Role required: admin
 
 ## About this task
 
-ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. You use objects in the ServiceNow Fluent APIs to define metadata in files with the `.now.ts` extension. The ServiceNow IDE has language processing and validation for ServiceNow Fluent APIs and applications by default. For more information about ServiceNow Fluent, see [ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md).
+ServiceNow Fluent is a domain-specific language \(DSL\) based on TypeScript for defining the metadata files \[sys\_metadata\] that make up applications and includes APIs for the different types of metadata, such as tables, roles, ACLs, business rules, and Automated Test Framework tests. You use objects in the ServiceNow Fluent APIs to define metadata in files with the `.now.ts` extension. The ServiceNow IDE has language processing and validation for ServiceNow Fluent APIs and applications by default. For more information about ServiceNow Fluent, see [ServiceNow Fluent](../servicenow-fluent.md).
 
-In this example, you create a simple table for a to-do list using objects in the ServiceNow Fluent Table API. Then, you update the sample code for business rule and client script definitions to reference the new table. Lastly, you review your changes from the File Categories view. For more information about the Table API, see [Table API - ServiceNow Fluent](../../servicenow-sdk/reference/table-api-now-ts.md#).
+In this example, you create a simple table for a to-do list using objects in the ServiceNow Fluent Table API. Then, you update the sample code for business rule and client script definitions to reference the new table. Lastly, you review your changes from the File Categories view. For more information about the Table API, see [Table API - ServiceNow Fluent](../servicenow-sdk/table-api-now-ts.md#).
 
 ## Procedure
 
@@ -97,7 +97,7 @@ In this example, you create a simple table for a to-do list using objects in the
 
     The schema property is an array of Column objects. There are many types of columns based on the field type. Column objects use the format &lt;Type&gt;Column where *&lt;Type&gt;* is the field type.
 
-    Use the following details to define three columns in the table: Deadline, Matrix, and Task. Refer to the [Column object](../../servicenow-sdk/reference/table-api-now-ts.md#) documentation to help you configure each column.
+    Use the following details to define three columns in the table: Deadline, Matrix, and Task. Refer to the [Column object](../servicenow-sdk/table-api-now-ts.md#) documentation to help you configure each column.
 
 <table id="table_b33_tq4_32c"><thead><tr><th>
 
@@ -236,5 +236,5 @@ From the ServiceNow AI Platform, you can navigate to the list view of the table 
 
 Continue to [Tutorial part 4: Install and use a third-party library](tutorial-install-third-party-library-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](getting-started-create-application-ide.md)
 

@@ -41,5 +41,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](../concept/using-sn-va-primary-bot-api.md)
+**Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](using-sn-va-primary-bot-api.md)
 

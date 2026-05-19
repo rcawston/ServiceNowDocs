@@ -25,12 +25,12 @@ You can install the GRC: integrations with third-party content application separ
 
 When the GRC: integrations with third-party content and GRC: Policy and Compliance integrator applications are downloaded in your instance, a user with the sn\_grc\_cim.admin role can execute the tasks that are related to the application workflow.
 
-For more information on the user roles, see [User roles for the integration process](../reference/int-integrator-user-roles.md) and [Create a user with the sn\_grc\_cim.admin role](../task/create-user-with-cim-manager-role.md).
+For more information on the user roles, see [User roles for the integration process](int-integrator-user-roles.md) and [Create a user with the sn\_grc\_cim.admin role](create-user-with-cim-manager-role.md).
 
--   **[User roles for the integration process](../reference/int-integrator-user-roles.md)**  
+-   **[User roles for the integration process](int-integrator-user-roles.md)**  
 You must assign the user roles that are required for the overall integration process that is associated with the GRC: integrations with third-party content and GRC: Policy and Compliance integrator applications.
--   **[Create a user with the sn\_grc\_cim.admin role](../task/create-user-with-cim-manager-role.md)**  
+-   **[Create a user with the sn\_grc\_cim.admin role](create-user-with-cim-manager-role.md)**  
 Create a user with the sn\_grc\_cim.admin role to perform the tasks that are related to the content integration and import process.
 
-**Parent Topic:**[Governance, Risk, and Compliance integrations](../../grc-common/reference/grc-integrations.md)
+**Parent Topic:**[Governance, Risk, and Compliance integrations](grc-integrations.md)
 

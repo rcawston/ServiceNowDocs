@@ -35,11 +35,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Playbook intake component instance](../task/config-playbook-intake-comp.md)
+[Configure the Playbook intake component instance](customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md)
 
-[Embed the Playbook intake component instance on the third-party website](../task/embed-playbook-intake-comp.md)
+[Embed the Playbook intake component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-playbook-intake-comp.md)
 
 [Component properties for the Playbook intake](we-playbook-intake-comp-prop.md)
 
-[Sample code for the Playbook intake component](we-playbook-intake-sample-code.md)
+[Sample code for the Playbook intake component](customer-self-service-and-omnichannel-engagement/we-playbook-intake-sample-code.md)
 

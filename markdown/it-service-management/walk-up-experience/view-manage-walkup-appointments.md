@@ -61,5 +61,5 @@ Manage your Walk-up appointments in Agent Workspace.
 -   **[Create an appointment through incident](walkup-create-appointment-through-incident.md)**  
 Schedule an appointment on behalf of a requester through an incident record.
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 

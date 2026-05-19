@@ -185,5 +185,5 @@ Approval records that get created when an approval is requested.
 
 The regulatory change task continues through the workflow based on its current state. Approval can occur before or after the task enters the **Implementation** state, depending on workflow configuration. When the action tasks associated with the regulatory change task are completed, the regulatory change task is closed.
 
-**Parent Topic:**[Regulatory change tasks](../concept/reg-change-task.md)
+**Parent Topic:**[Regulatory change tasks](reg-change-task.md)
 

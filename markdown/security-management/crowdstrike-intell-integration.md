@@ -19,13 +19,13 @@ CrowdStrike Falcon Intelligence provides cyber security intelligence that easily
 
 The Threat Lookup - CrowdStrike Falcon Intelligence flow designer performs a lookup on selected observables. If the observables are of a type recognized by CrowdStrike Falcon Intelligence, the observables are scanned for malware, and the results are returned.
 
-This flow is triggered by the [Security Operations Integration - Threat Lookup capability](../../../security-operations-common/concept/sec-ops-threat-lookups-capability.md) when you publish one or more observables to a watchlist, and the CrowdStrike Falcon Intelligence implementation is selected. After they are published, the watchlists can be viewed in the CrowdStrike Falcon Host software.
+This flow is triggered by the [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md) when you publish one or more observables to a watchlist, and the CrowdStrike Falcon Intelligence implementation is selected. After they are published, the watchlists can be viewed in the CrowdStrike Falcon Host software.
 
 Role required: admin
 
 ![Threat Lookup - CrowdStrike Falcon Intelligence sub flow](../image/flows-crowdstrike-threat.png)
 
-For information on the activities used by this flow designer, see [Common Security Operations integration flows and orchestration activities](../../../security-operations-common/concept/common-wf-activities.md).
+For information on the activities used by this flow designer, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
 ## Activate and configure the CrowdStrike Falcon Intelligence integration
 
@@ -42,7 +42,7 @@ Role required: admin
 
 ### Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](download-app-first-time.md).
 
 2.  In your instance, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
@@ -95,5 +95,5 @@ After it is configured, CrowdStrike Falcon Intelligence can be selected for perf
 **Related topics**  
 
 
-[Perform lookups on observables](../../../threat-intelligence/task/perform-lookups-on-observables.md)
+[Perform lookups on observables](perform-lookups-on-observables.md)
 

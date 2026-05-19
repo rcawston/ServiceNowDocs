@@ -52,5 +52,5 @@ For example, some of your devices may be leased from a third party and you are n
         Once the scheduled job \(SAM — Adjust Installs for excluded CIs\) runs, the system starts managing the software installed on all previously excluded devices.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

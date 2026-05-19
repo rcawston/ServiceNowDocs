@@ -39,7 +39,7 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
     This action creates a custom activity using a template.
 
-4.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JDBC Execution Command.
+4.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JDBC Execution Command.
 
 <table id="choicetable_py3_zmj_4y"><tbody><tr><td id="d545176e157">
 
@@ -136,7 +136,7 @@ If checked, you can run a stored procedure on MySQL, Oracle, or SQL Server datab
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 **Related topics**  
 
@@ -416,7 +416,7 @@ There is support of multiple data types, with the following limitations:
 -   ResultSet is the first result set coming back from database server.
 -   MS-SQL does not support INOUT parameters. If you use INOUT parameters, the Activity Template transparently maps them to OUT parameters.
 
-**Note:** If you do not want to do a validation of data types in stored procedure parameters, like the legacy behavior, you set the glide.stored\_proc.data\_type.validation as false. See [MID Server properties](../../../product/mid-server/reference/r_MIDServerProperties.md#) for more information.
+**Note:** If you do not want to do a validation of data types in stored procedure parameters, like the legacy behavior, you set the glide.stored\_proc.data\_type.validation as false. See [MID Server properties](../mid-server/r_MIDServerProperties.md#) for more information.
 
 <table id="table_vry_jqc_cz"><thead><tr><th>
 

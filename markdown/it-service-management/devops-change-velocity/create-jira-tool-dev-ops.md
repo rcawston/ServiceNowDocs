@@ -17,7 +17,7 @@ Connect to your Jira Server or Jira Cloud instance from the DevOps Change Worksp
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -185,7 +185,7 @@ For more information about MID server, see [MID Server selection](https://raw.gi
 
     3.  Permission checks are run on the credentials that you entered.
 
-        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
         You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -268,13 +268,13 @@ From the tool record page, you can:
     -   By default, projects are discovered in a set of 50 for Jira Cloud. 50 is the maximum pagination limit supported by Jira. If you want to reduce this value, then you should edit the respective constant in DevOpsCommonConstants script.
     -   Project and version data that are discovered aren't updated or tracked in real time.
 -   Assign groups to control access to the tool using the **Maintained by** field.
--   Check credential permissions and update credentials for the tool. For more details, see [Check permissions and update credentials for tools — Workspace](../reference/update-credentials-check-permissions.md).
+-   Check credential permissions and update credentials for the tool. For more details, see [Check permissions and update credentials for tools — Workspace](update-credentials-check-permissions.md).
 -   From the **Plans** tab, select a plan to view its details such as imported work items, features, and others.
 -   To import historical data from the plans, associate the plans with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
 
 **Note:** It is recommended not to update the project key for projects in Jira. If the project key is updated, the updated object names will not reflect in DevOps Change Velocity. Only when the object is updated in Jira, the new name will reflect in DevOps Change Velocity.
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](jira-integration-dev-ops.md)
 
 **Related topics**  
 

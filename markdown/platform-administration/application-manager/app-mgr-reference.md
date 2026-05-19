@@ -21,5 +21,5 @@ Application detail page headers display indicators with additional information a
 -   **[App installation blocked when installing or updating Now Assist suite](app-installation-blocked.md)**  
 Unlicensed applications can block the installation or update of Now Assist suites.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](../administering-applications.md)
 

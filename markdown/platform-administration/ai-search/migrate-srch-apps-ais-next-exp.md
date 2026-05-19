@@ -37,7 +37,7 @@ Migration of a Zing search application configuration to AI Search includes these
 2.  You accept the proposed migration changes for review, and then commit them to make the required record changes in ServiceNow AI Platform tables.
 3.  You index content and metadata from any new indexed sources that the migration job created.
 
-For more information on AI Search application configurations, see [Search application configurations](../concept/defining-search-app-cfgs-ais.md). To learn more about indexing content and metadata from AI Search indexed sources, see [Indexed sources in AI Search](../concept/indexed-sources-ais.md).
+For more information on AI Search application configurations, see [Search application configurations](defining-search-app-cfgs-ais.md). To learn more about indexing content and metadata from AI Search indexed sources, see [Indexed sources in AI Search](indexed-sources-ais.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ For more information on AI Search application configurations, see [Search applic
 
 3.  In the **Migrate settings for a Next Experience search application** task, open the Zing to AI Search Migration Job form by selecting **Configure**.
 
-    A modal window shows a list of Zing search application configurations and their migration status. Custom search application names are only translated to your session language if you've created appropriate Message \[sys\_ui\_message\] table records for them. For details on translating message strings by creating Message table records, see [Translate a client script message](../../localization/task/t_TranslateAClientScriptMessage.md).
+    A modal window shows a list of Zing search application configurations and their migration status. Custom search application names are only translated to your session language if you've created appropriate Message \[sys\_ui\_message\] table records for them. For details on translating message strings by creating Message table records, see [Translate a client script message](../system-localization/t_TranslateAClientScriptMessage.md).
 
 4.  Close the modal list of Zing search application configurations.
 
@@ -86,5 +86,5 @@ For more information on AI Search application configurations, see [Search applic
 
 Now that you've got AI Search application configurations for global search and your workspaces, it's time to enable AI Search for Next Experience on your instance. For details on this procedure, see [Enable AI Search for Next Experience](enable-ais-next-exp-app.md).
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

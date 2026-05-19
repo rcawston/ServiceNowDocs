@@ -89,5 +89,5 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
 Apply the email address filter to a system address filter. For more information, see [Create a system address filter](create-system-address-filter.md).
 
-**Parent Topic:**[System address filters](../concept/system-address-filters.md)
+**Parent Topic:**[System address filters](system-address-filters.md)
 

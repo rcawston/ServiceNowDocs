@@ -16,12 +16,12 @@ Understand the process required to set up Enterprise Architecture Workspace to w
 -   **[Enterprise Architecture Workspace integration with Lucidchart](eaw-integrate-with-lucid.md)**  
 Create enhanced architectural diagrams for your Business Applications and Business Capabilities in Lucidchart and access them from your ServiceNow instance.
 
-**Parent Topic:**[Enterprise Architecture Workspace](../ea-workspace.md)
+**Parent Topic:**[Enterprise Architecture Workspace](ea-workspace.md)
 
 **Related topics**  
 
 
-[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 [Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

@@ -40,5 +40,5 @@ Role required: document\_management\_user
     The document is listed under Document Revisions.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

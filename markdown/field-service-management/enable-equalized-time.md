@@ -23,7 +23,7 @@ When the `work.management.enable.resource.time.indicator` property is enabled, a
 
 For example, if a dispatcher is in Pacific time, and they open the form of a work order task scheduled in Mountain time, then they see a blue box below the date and time fields of the task that shows the time for the task in Mountain time. If the date and time field is empty, then the added field doesn’t show.
 
-Once the resource time indicators property is enabled, dispatchers can turn on resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+Once the resource time indicators property is enabled, dispatchers can turn on resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Procedure
 

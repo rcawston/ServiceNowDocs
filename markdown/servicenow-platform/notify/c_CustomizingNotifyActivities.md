@@ -19,12 +19,12 @@ When the telephony provider broadcasts an event related to a Notify call, such a
 
 Not all activities that support an event provide a default event handler implementation. You can provide an implementation for those event handlers when creating custom Notify activities.
 
-**Parent Topic:**[Notify workflow activities](../../../administer/workflow-activities/concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 
 **Related topics**  
 
 
 [Creating Notify activities](c_CreatingNotifyActivities.md)
 
-[Available Notify activity event handlers](../reference/r_NotifyEventHandlerMatrix.md)
+[Available Notify activity event handlers](r_NotifyEventHandlerMatrix.md)
 

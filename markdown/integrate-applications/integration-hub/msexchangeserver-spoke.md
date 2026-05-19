@@ -414,11 +414,11 @@ Two connection and credential aliases are created when the Microsoft Exchange Se
 -   The Exchange\_https alias is supported only on Exchange Server 2013.
 -   The Exchange\_https alias is required to use the Create Calendar Event For User and Lookup Room Availability actions.
 
-For information about setting up the spoke, see [Set up the Microsoft Exchange Server spoke](../task/setup-msexchange.md#).
+For information about setting up the spoke, see [Set up the Microsoft Exchange Server spoke](setup-msexchange.md#).
 
 ## MID Server requirements
 
 Your instance must have a MID Server set up and configured to run PowerShell 2.0. Use the connection record associated with the Microsoft Exchange alias to configure where actions run as well as set MID Server selection attributes. For more information, see [MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

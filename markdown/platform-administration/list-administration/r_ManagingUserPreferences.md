@@ -25,5 +25,5 @@ To view and manage list editor user preferences, navigate to **User Administrati
 **Related topics**  
 
 
-[Personal list administration](../concept/c_AdministeringPersonalLists.md)
+[Personal list administration](c_AdministeringPersonalLists.md)
 

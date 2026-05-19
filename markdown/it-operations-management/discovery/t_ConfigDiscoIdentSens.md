@@ -44,5 +44,5 @@ These multi-sensors pass the data returned by the identity probes to the Discove
 
 Run a discovery through the [Discovery Schedule](t_CreateADiscoverySchedule.md#) to search for CIs and verify that they are identified correctly in the CMDB.
 
-**Parent Topic:**[Discovery identifiers](../concept/c_DiscoveryIdentifiers.md)
+**Parent Topic:**[Discovery identifiers](c_DiscoveryIdentifiers.md)
 

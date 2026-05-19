@@ -58,5 +58,5 @@ The appointment reminder sends a reminder email and a pre-appointment questionna
     4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

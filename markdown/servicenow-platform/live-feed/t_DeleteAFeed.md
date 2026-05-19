@@ -32,5 +32,5 @@ Role required: none
     The feed is deleted from Live Feed. Messages posted to a private feed are deleted. Messages posted to a public feed remain on the Company Feed without a feed link.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
 

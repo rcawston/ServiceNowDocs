@@ -17,7 +17,7 @@ The SerialNumberManager script include provides methods to manage the serial num
 
 You can use this script include with a discovery script where you need to manage serial numbers.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SerialNumberManager - add\(Number sType, Number value\)
 

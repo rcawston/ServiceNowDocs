@@ -56,5 +56,5 @@ Role required: sn\_hs\_rm.risk\_category\_manager or sn\_hs\_rm.risk\_category\_
 
 Associate related hazards with the risk category. For more information, see [Define Health and Safety hazards](hs-define-hazards.md).
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

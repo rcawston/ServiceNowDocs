@@ -165,5 +165,5 @@ The app processes only the first listed branch with conditions met.If you select
 10. Select **Save and close**.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

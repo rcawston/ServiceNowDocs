@@ -68,5 +68,5 @@ To learn more about the Partner portal, see [Using Partner Relationship Manageme
 
 [Using Partner Relationship Management](using-partner-relationship-management.md)
 
-[Partner Relationship Management reference](../reference/partner-relationship-management-reference.md)
+[Partner Relationship Management reference](partner-relationship-management-reference.md)
 

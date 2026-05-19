@@ -19,7 +19,7 @@ This API requires the Contextual Security: Role Management V2 REST API \(com.gli
 
 A user’s role can be directly granted, inherited from other roles, or inherited from groups. You must have the user\_admin role to access this API.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## User Role Inheritance - GET /global/user\_role\_inheritance
 
@@ -31,7 +31,7 @@ Versioned URL: `/api/global/{api_version}/user_role_inheritance`
 
 Default URL: `/api/global/user_role_inheritance`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -62,7 +62,7 @@ Optional. Version of the endpoint to access. For example, `v1` or `v2`. Only spe
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -87,7 +87,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

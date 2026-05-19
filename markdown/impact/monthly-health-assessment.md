@@ -35,7 +35,7 @@ With the opt-in and self-service, you receive the following benefits:
 -   Monthly Health Assessment scans of a selected instance run on the sixth day of each month. Detailed scan reports will be available within a couple of weeks.
 -   Automated findings reports and recommendations to improve the health of your ServiceNow implementation
 
-See [Schedule Monthly Health Assessment scans](../task/schedule-monthly-health-assessment-scans.md) for setup information.
+See [Schedule Monthly Health Assessment scans](schedule-monthly-health-assessment-scans.md) for setup information.
 
 ## Requested customer resources
 

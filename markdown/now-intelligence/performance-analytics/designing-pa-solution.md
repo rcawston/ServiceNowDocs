@@ -35,7 +35,7 @@ KPI Composer is based on projects. Each project in KPI Composer consists of Key 
 In the Analysis tab of KPI Composer, design your KPI tree. Specify your business goals, their associated critical success factors, and the measurement related to those factors. Chart the logical relationship between these factors and the personas who are responsible for them.
 -   **[Cross-project library elements](cross-project-artifact-libraries.md)**  
 Library elements are single artifacts or trees of artifacts that you can reuse in multiple projects.
--   **[Create an indicator definition](../task/create-indicator-definition.md#)**  
+-   **[Create an indicator definition](create-indicator-definition.md#)**  
 You can create a new KPI Composer indicator definition directly from the relevant artifact in the Data Definition tab. Fill the indicator definition with the necessary information for creating a Performance Analytics indicator.
 -   **[Reviewing your project](reviewing-your-project.md)**  
 Summarize both the created KPI Composer project artifacts and the planned Performance Analytics components. Validate the contents of your project. Generate the tasks to build the planned Performance Analytics components.
@@ -47,5 +47,5 @@ For each KPI Composer artifact in your project, you can generate a task to creat
 **Related topics**  
 
 
-[Performance Analytics roles](../reference/r_PARoles.md)
+[Performance Analytics roles](r_PARoles.md)
 

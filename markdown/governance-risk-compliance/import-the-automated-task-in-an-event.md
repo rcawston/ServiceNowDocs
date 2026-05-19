@@ -29,7 +29,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
     **Note:** For a crisis event, the event type is **Actual**.
 
-    For more information on the fields, see [Create Crisis Event form](../reference/create-crisis-event-ref-form.md).
+    For more information on the fields, see [Create Crisis Event form](create-crisis-event-ref-form.md).
 
 4.  Navigate to the Planning list in the Workspace view and select the plan associated with the event.
 
@@ -60,5 +60,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     The event task is then saved within the instance.
 
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md)
 

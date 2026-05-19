@@ -28,5 +28,5 @@ Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, admin
     The result is a list of users \(sys\_ids\), which you can use for case routing and assignment.
 
 
-**Parent Topic:**[Routing and assigning customer service cases](../concept/c_CaseRouting.md)
+**Parent Topic:**[Routing and assigning customer service cases](c_CaseRouting.md)
 

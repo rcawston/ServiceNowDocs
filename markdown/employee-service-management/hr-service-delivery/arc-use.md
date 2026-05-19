@@ -15,11 +15,11 @@ breadcrumb: [Anonymous Report Center \(ARC\), Employee Relations, Case and Knowl
 
 Your employees can use the Anonymous Report Center \(ARC\) to submit sensitive complaints or misconduct cases anonymous to the agent working on the case.
 
--   **[Anonymously report misconduct](../task/arc-create-anon-report.md)**  
+-   **[Anonymously report misconduct](arc-create-anon-report.md)**  
 Create misconduct cases that are sent to your Human Resources department without your identity being revealed.
--   **[Anonymously report discrimination](../task/arc-report-discrimination.md)**  
+-   **[Anonymously report discrimination](arc-report-discrimination.md)**  
 Create discrimination cases that can be sent to your Human Resources department without your identity being revealed.
--   **[Access an anonymous report](../task/arc-access-anon-report.md)**  
+-   **[Access an anonymous report](arc-access-anon-report.md)**  
 You can retrieve your anonymous report to submit or view comments and updates from the agents working on your anonymous report. You must have the report key and report number in order to access your anonymous report.
 
 **Parent Topic:**[Anonymous Report Center \(ARC\)](arc-portal.md)

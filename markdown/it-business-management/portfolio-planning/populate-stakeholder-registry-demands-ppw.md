@@ -27,7 +27,7 @@ Role required: pps\_admin
     -   Navigate to a demand playbook or the **Stakeholders** tab in **Details** page, and select **New**. For more information, see [Access demands](access-demands-ppw.md).
 2.  On the Stakeholder Register record form, fill in the fields.
 
-    For a description of the field values, see [Stakeholder register form](../reference/stakeholder-register-form-ppw.md).
+    For a description of the field values, see [Stakeholder register form](stakeholder-register-form-ppw.md).
 
 3.  Select **Submit**.
 

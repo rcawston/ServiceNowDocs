@@ -43,7 +43,7 @@ The Risk &amp; compliance dashboard has the following sections. You can drill do
 
     The authority documents are provided solely for informational and guidance purposes to assist with the initial setup of AI Risk and Compliance frameworks. It doesn’t constitute legal advice or assurance of regulatory compliance. You’re solely responsible for ensuring that all use of the content complies with applicable laws, regulations, directives, and industry standards in their jurisdictions.
 
-    **Note:** You can configure which authority documents and policies you want to display on the home page. For more information, see [Set up properties for compliance posture](../task/configure-airc-properties.md).
+    **Note:** You can configure which authority documents and policies you want to display on the home page. For more information, see [Set up properties for compliance posture](configure-airc-properties.md).
 
 
 ## Risk overview
@@ -61,7 +61,7 @@ This section monitors and tracks the risk posture of the AI assets in your organ
 
 ## Regulatory landscape overview
 
-You need to install GRC: Regulatory Change Management application to see this section. For more information, see [Installing Regulatory Change Management](../../grc-rcm/task/activate-grc-rcm.md).
+You need to install GRC: Regulatory Change Management application to see this section. For more information, see [Installing Regulatory Change Management](../regulatory-change-management-service-portal/activate-grc-rcm.md).
 
 -   **Overview**
     -   Alerts

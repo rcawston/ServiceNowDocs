@@ -47,7 +47,7 @@ You can add both upstream and downstream related entities to a shape in a diagra
 
 The selected entities are added to the diagram for the object.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 

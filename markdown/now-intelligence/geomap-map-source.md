@@ -29,7 +29,7 @@ Map sources for geomaps point directly to location tables. They don’t referenc
 
 ![Reusable set of map sources for all geomap data visualizations on an instance.](../image/dv-map-sources.png "Map sources for geomap data visualizations")
 
-**Parent Topic:**[Create a geomap data visualization](../task/create-dv-geomap-ac.md)
+**Parent Topic:**[Create a geomap data visualization](create-dv-geomap-ac.md)
 
 ## Create a data visualization map source
 

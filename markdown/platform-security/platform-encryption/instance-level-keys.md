@@ -152,5 +152,5 @@ Instance
 Specific encryption keys used for the IDR process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the Key Management Framework](../../encryption/concept/explore-kmf.md)
+</table>**Parent Topic:**[Exploring the Key Management Framework](explore-kmf.md)
 

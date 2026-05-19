@@ -32,5 +32,5 @@ The Document Templates plugin \(sn\_doc\) is not installed.
 2.  Once the template is installed, refresh the playbook activity page.
 
 
-**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](wsud-troubleshooting-reference.md)
 

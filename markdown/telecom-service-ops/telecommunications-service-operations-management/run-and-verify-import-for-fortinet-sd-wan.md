@@ -49,5 +49,5 @@ If you have configured multiple Fortinet connection aliases for different enviro
 
 If configured correctly, the connector brings in the network inventory data from Fortinet into your ServiceNow AI Platform® instance.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](../concept/using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
 

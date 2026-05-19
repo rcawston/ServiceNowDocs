@@ -30,5 +30,5 @@ Role required: sn\_cmp.cloud\_governor or admin
     -   To add the policy to an existing group, select the group and then click **Submit**.
     -   To create a policy group to add the policy to, click **New** on the Policy Groups list, specify a unique and meaningful **Name**, and then click **Submit**. The policy is added to the new group.
 
-**Parent Topic:**[Policies for Cloud Provisioning](../concept/cloud-policy.md)
+**Parent Topic:**[Policies for Cloud Provisioning](cloud-policy.md)
 

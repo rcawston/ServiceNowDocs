@@ -17,11 +17,11 @@ DevOps Change Velocity enables you to use fit-for-purpose change models that all
 
 ## DevOps Change model overview
 
-**Important:** For DevOps change requests, use the Change Management - Change Models feature, which provides greater flexibility to enable the change process flow in a way that is optimized for specific use cases. For more information, see [Change models](../../change-management/concept/change-models.md). The legacy Change Management - State Model is also supported. For more information, see [Legacy: State model and transitions](../../change-management/concept/c_ChangeStateModel.md).
+**Important:** For DevOps change requests, use the Change Management - Change Models feature, which provides greater flexibility to enable the change process flow in a way that is optimized for specific use cases. For more information, see [Change models](../change-management/change-models.md). The legacy Change Management - State Model is also supported. For more information, see [Legacy: State model and transitions](../change-management/c_ChangeStateModel.md).
 
 **Important:** The DevOps and DevOps Simplified change models are not supported for Argo CD and Split tool change requests.
 
-Use fit-for-purpose change models with a suite of succinct flows and flow actions built in Flow Designer for specific use cases. Instead of using the legacy ITIL-based change processes that are predefined in change workflows \(Normal, Standard, and Emergency\), you can selectively transition to a wide range of models that are optimized for specific use cases. Change models can be created with states and rules that determine the transitions between the states. For information on change models, see [Change models](../../change-management/concept/change-models.md).
+Use fit-for-purpose change models with a suite of succinct flows and flow actions built in Flow Designer for specific use cases. Instead of using the legacy ITIL-based change processes that are predefined in change workflows \(Normal, Standard, and Emergency\), you can selectively transition to a wide range of models that are optimized for specific use cases. Change models can be created with states and rules that determine the transitions between the states. For information on change models, see [Change models](../change-management/change-models.md).
 
 ![Change models](../image/change-model-01.png)
 
@@ -198,7 +198,7 @@ Type is passed. For example, Normal```
 
 ErrorChange request can’t be created because the type compatibility flag is disabled. Enable the type compatibility flag in system properties or configure the change model in the step record in ServiceNow or enter the appropriate change model sys id or name in the pipeline.
 
-For information on resolving this error, see [Common errors in DevOps Change Velocity](../reference/devops-reference-error-messages.md).
+For information on resolving this error, see [Common errors in DevOps Change Velocity](devops-reference-error-messages.md).
 
 </td></tr><tr><td>
 
@@ -236,7 +236,7 @@ Neither model nor change type is passed.
 
 ErrorChange request can’t be created because either the change type or change model isn’t configured for the pipeline.
 
-For information on resolving this error, see [Common errors in DevOps Change Velocity](../reference/devops-reference-error-messages.md).
+For information on resolving this error, see [Common errors in DevOps Change Velocity](devops-reference-error-messages.md).
 
 </td></tr><tr><td>
 

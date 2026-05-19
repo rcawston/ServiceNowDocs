@@ -37,5 +37,5 @@ If the agent creates a case or links the discussion to an existing case, you can
 **Related topics**  
 
 
-[Virtual Agent support for business locations](../concept/virtual-agent-support-business-locations.md)
+[Virtual Agent support for business locations](virtual-agent-support-business-locations.md)
 

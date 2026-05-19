@@ -116,5 +116,5 @@ Type of feature growth item. Options are as follows:-   Select **Job Title** to 
 Criteria to target specific groups of employees to whom the feature growth item is available. Groups, created by administrators, are logical containers composed of similar users.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+</table>**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

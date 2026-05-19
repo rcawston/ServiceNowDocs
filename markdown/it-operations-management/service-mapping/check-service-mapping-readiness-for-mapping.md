@@ -25,14 +25,14 @@ Role required: service\_mapping\_admin
 
 Service Mapping performs an automatic scan of the following resources and configurations to give you the readiness status:
 
--   \(Mandatory\) There are MID Servers with correctly configured IP ranges and the applications and capabilities settings. For more information, see [MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md).
+-   \(Mandatory\) There are MID Servers with correctly configured IP ranges and the applications and capabilities settings. For more information, see [MID Server configuration for Service Mapping](configure-mid-service-mapping.md).
 
     If this check does not recognize correctly configured MID Servers, you cannot perform the bulk discovery.
 
--   \(Optional\) There are credentials for operating systems and applications as described in [Prerequisites for performing top-down discovery using Service Mapping](../reference/prerequisites-service-mapping.md).
+-   \(Optional\) There are credentials for operating systems and applications as described in [Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md).
 -   \(Optional\) There are at least three load balancers recently discovered during horizontal discovery.
 -   \(Optional\) There are at least 100 hosts discovered by the horizontal discovery in the last 14 days.
--   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the traffic-based discovery in Service Mapping. For more information, see [Data collection and discovery using Netflow](../concept/data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](../concept/data-collection-vpc-mapping.md).
+-   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the traffic-based discovery in Service Mapping. For more information, see [Data collection and discovery using Netflow](data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](data-collection-vpc-mapping.md).
 -   \(Optional\) Cloud Discovery is activated and configured. This setting is necessary to discover application service based on IaaS.
 
 If an optional resource or configuration is missing, you can still map application service, but it may result in partial discovery of some CIs and connections.
@@ -72,10 +72,10 @@ In addition, Service Mapping performs the readiness check for mapping functional
 
 ## What to do next
 
-[Map business services in bulk](../concept/c_DefineMapBusinessServices.md)
+[Map business services in bulk](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
 
-[Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md)
+[Application service readiness dashboard in configurable workspace](readiness-dashboard-ml.md)
 

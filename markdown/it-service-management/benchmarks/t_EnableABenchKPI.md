@@ -91,5 +91,5 @@ Role required: sn\_bm\_client.benchmark\_admin
 -   **[Configure resolved incident Benchmarks KPIs](t_ConfigResIncBenchKPIs.md)**  
 The source for the KPIs containing resolved incident data is the **resolved\_at** field in the Incident \[incident\] table, which may not exist in some environments. In this case, additional configuration is required to use these KPIs.
 
-**Parent Topic:**[Benchmark KPIs](../concept/c_BenchKPIConfig.md)
+**Parent Topic:**[Benchmark KPIs](c_BenchKPIConfig.md)
 

@@ -22,19 +22,19 @@ The MITRE-ATT&amp;CK Overview module displays MITRE-ATT&amp;CK information about
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security incidents](../task/associate-mitre-with-sir.md#)
+[Associate MITRE-ATT&amp;CK information with security incidents](associate-mitre-with-sir.md#)
 
-[Associate MITRE-ATT&amp;CK information with observables](../task/associate-mitre-observables.md)
+[Associate MITRE-ATT&amp;CK information with observables](associate-mitre-observables.md)
 
-[Associate MITRE-ATT&amp;CK information with security case](../../threat-intelligence-case-management/task/associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)
 
-[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](../task/rollup-threat-lookup-results.md)
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results](rollup-threat-lookup-results.md)
 
-[Rollup MITRE-ATT&amp;CK information from detection rules](../task/rollup-mitre-attack-information-detection-rules.md)
+[Rollup MITRE-ATT&amp;CK information from detection rules](rollup-mitre-attack-information-detection-rules.md)
 
-[Rollup MITRE-ATT&amp;CK information from child security incidents](../task/rollup-mitre-att-ck-information-from-child-security-incidents.md)
+[Rollup MITRE-ATT&amp;CK information from child security incidents](rollup-mitre-att-ck-information-from-child-security-incidents.md)
 
-[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](../task/link-analysis-threat-hunt-mitre.md)
+[Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters](link-analysis-threat-hunt-mitre.md)
 
 [MITRE-ATT&amp;CK heat map and navigator](mitre-att-ck-heatmap-and-navigator.md#)
 

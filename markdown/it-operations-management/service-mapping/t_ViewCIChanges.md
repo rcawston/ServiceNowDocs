@@ -193,18 +193,18 @@ The new tab opens displaying the network or storage path map for the time you se
     ![The graphic shows the current icon for exiting the history view.](../image/MapHistoryCurrentIcon.png)
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 
 
-[Modify tracking changes in configuration files](../../discovery/task/track-configuration-files.md)
+[Modify tracking changes in configuration files](../discovery/track-configuration-files.md)
 
 [View an application service map in base system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/app-service-map-base-system.md)
 
 [Compare two versions of an application service in classic Service Mapping](t_CompareBS.md)
 
-[Modify tracking changes in configuration files](../../discovery/task/track-configuration-files.md)
+[Modify tracking changes in configuration files](../discovery/track-configuration-files.md)
 
 [Fine-tune tracking changes for the change history](exclude-changes-from-change-history.md)
 

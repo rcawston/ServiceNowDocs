@@ -51,8 +51,8 @@ You can view the Tasks page in the following workspaces:
     **Note:** My items and Watchlist are not displayed in the Vendor Management Workspace.
 
 
--   **[Monitor my tasks in the Tasks page in the workspace](../task/configure-my-tasks-in-ws.md)**  
+-   **[Monitor my tasks in the Tasks page in the workspace](configure-my-tasks-in-ws.md)**  
 Configure and monitor the tasks that are related to an assigned user in the workspace. Configure the landing pages and the widgets that are displayed in the workspaces using the Landing Page Configurations module. The configurations performed using the Landing Page Configurations module help you to filter the data that is displayed in different workspaces.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](../../grc-common/concept/common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
 

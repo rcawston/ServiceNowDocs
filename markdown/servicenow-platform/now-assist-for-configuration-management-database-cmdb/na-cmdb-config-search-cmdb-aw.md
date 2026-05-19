@@ -30,7 +30,7 @@ Role required: admin
     2.  Open the two records and select **Index all tables** or **Index table**.
 
 
-**Parent Topic:**[Configuring Now Assist for CMDB](../../configuration-management/concept/now-assist-cmdb-configuring.md)
+**Parent Topic:**[Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md)
 
 **Related topics**  
 

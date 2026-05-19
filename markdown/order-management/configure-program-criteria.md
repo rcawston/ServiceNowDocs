@@ -29,12 +29,12 @@ Role required: sn\_prm.partner\_program\_writer or sn\_prm.enterprise\_partner\_
 
 5.  On the form, fill in the fields.
 
-    To learn about the fields on the program criteria table, see [Program criteria table fields](../reference/program-criteria-table-fields.md).
+    To learn about the fields on the program criteria table, see [Program criteria table fields](program-criteria-table-fields.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 

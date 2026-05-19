@@ -89,5 +89,5 @@ Client callable
 Options to make the scripted extension point available to client scripts, list/report filters, reference qualifiers, or, if specified, as part of the URL.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create implementation in Scripted Extension Point](../task/create-scripted-extension-point.md)
+</table>**Parent Topic:**[Create implementation in Scripted Extension Point](create-scripted-extension-point.md)
 

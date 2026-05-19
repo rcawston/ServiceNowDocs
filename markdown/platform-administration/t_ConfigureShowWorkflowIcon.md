@@ -35,5 +35,5 @@ The show workflow icon \(![Core UI show workflow icon](../image/IconRelatedincid
 **Related topics**  
 
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](table-administration-and-data-management/c_DictionaryAttributes.md)
 

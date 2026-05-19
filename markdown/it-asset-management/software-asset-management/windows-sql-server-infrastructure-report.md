@@ -168,5 +168,5 @@ Cloud license type - SQL Server
 Cloud license type of the Microsoft SQL Server installation. The options are **BYOL** and **License Included**.**Note:** This field is applicable for cloud deployments only.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](../concept/microsoft-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md)
 

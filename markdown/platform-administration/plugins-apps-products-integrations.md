@@ -20,13 +20,13 @@ A plugin is a set of customizations that extends the functionality of the Servic
 
 New plugins are made available during instance upgrades in accordance with your organization's ServiceNow licensing agreement. Plugins can’t be purchased through the ServiceNow Store.
 
-For more information about plugins, see [ServiceNow plugins](../../plugins/concept/c_ServiceNowPlugins.md).
+For more information about plugins, see [ServiceNow plugins](c_ServiceNowPlugins.md).
 
 ## Apps
 
 An app is a standalone piece of code that implements a collection of features on the ServiceNow AI Platform. You can try, buy, or get apps according to your ServiceNow licensing agreement through the ServiceNow Store.
 
-After getting an app from the ServiceNow Store, install it using the Application Manager. For more information, see [Application Manager](../../application-manager/concept/application-manager.md).
+After getting an app from the ServiceNow Store, install it using the Application Manager. For more information, see [Application Manager](application-manager/application-manager.md).
 
 You can also create your own apps. For more information about creating apps for your ServiceNow AI Platform instance, see [Building applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md).
 

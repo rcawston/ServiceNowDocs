@@ -23,7 +23,7 @@ Complete the steps to [Create a campaign](ecpro-create-campaign.md)
 
 ## About this task
 
-Stages organize and manage the delivery of campaign content. When configuring a stage, you set the stage trigger, which determines when content becomes available and for how long. To learn more about triggers, see [Campaign bundle triggers](../reference/ecpro-triggers.md).
+Stages organize and manage the delivery of campaign content. When configuring a stage, you set the stage trigger, which determines when content becomes available and for how long. To learn more about triggers, see [Campaign bundle triggers](ecpro-triggers.md).
 
 **Note:** Some parts of the interface use the term "bundles" to refer to stages.
 
@@ -46,7 +46,7 @@ Stages organize and manage the delivery of campaign content. When configuring a 
     |-----|-----------|
     |Title|The name of the campaign bundle.|
     |Campaign|The campaign associated with the campaign bundle.|
-    |Trigger type|How the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](../reference/ecpro-triggers.md)|
+    |Trigger type|How the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](ecpro-triggers.md)|
     |Description|Descriptive information about the campaign bundle.|
 
     ![Campaign bundle](../images/campaign-bundle.png)

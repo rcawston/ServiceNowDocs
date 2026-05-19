@@ -98,5 +98,5 @@ AI Search for Next Experience updates to include the new workspace application's
 
 Notify all users of your instance that they need to log out and back in before they can use the new workspace search in AI Search for Next Experience.
 
-**Parent Topic:**[Configuring AI Search for Next Experience](../concept/configuring-ais-next-experience.md)
+**Parent Topic:**[Configuring AI Search for Next Experience](configuring-ais-next-experience.md)
 

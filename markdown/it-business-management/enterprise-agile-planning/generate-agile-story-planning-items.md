@@ -44,7 +44,7 @@ To access the Create stories agentic workflow:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Create stories**.
 
-To configure the Create stories agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](../task/configure-agents-project-task-monitoring.md).
+To configure the Create stories agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](../now-assist-for-strategic-portfolio-management-spm/configure-agents-project-task-monitoring.md).
 
 ## AI agents used in the Create stories agentic workflow
 
@@ -52,5 +52,5 @@ To configure the Create stories agentic workflow and associated AI agents, see [
 
 ## Using the Create stories agentic workflow
 
-See [Generate multiple stories at once in EAP using Now Assist for SPM](../task/generate-stories-from-epics-now-assist-eap.md).
+See [Generate multiple stories at once in EAP using Now Assist for SPM](generate-stories-from-epics-now-assist-eap.md).
 

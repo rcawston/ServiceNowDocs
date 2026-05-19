@@ -21,10 +21,10 @@ By using the MITRE-ATT&amp;CK framework's knowledge base, the cyberthreat intell
 
 Learn how the MITRE-ATT&amp;CK information flows with Security Operations applications.
 
--   The [pre-loaded TAXII client](../task/setup-mitre-profile.md) connects to the TAXII server to ingest the [data collections](../task/view-mitre-collection.md) to Threat Intelligence.
--   Existing [Security Information and Event Manager \(SIEM\) integrations](auto-extract-technique-rules.md#) ingest their threat data \(alerts and events\), with relevant TTPs and are [associated with security incidents](../task/associate-mitre-with-sir.md#).
--   When an [IoC is associated to a security incident](../task/associate-mitre-observables.md), Threat Intelligence automatically searches threat feeds for relevant information and sends IoCs to third-party sources such as EDR, Sandbox, or TIP for additional analysis.
--   If any third-party source contains the MITRE-ATT&amp;CK information, then [Threat Intelligence extracts the technique information](../task/create-detection-rules.md) and enriches the data in the Threat Intelligence repository for correlation and analysis.
+-   The [pre-loaded TAXII client](setup-mitre-profile.md) connects to the TAXII server to ingest the [data collections](view-mitre-collection.md) to Threat Intelligence.
+-   Existing [Security Information and Event Manager \(SIEM\) integrations](auto-extract-technique-rules.md#) ingest their threat data \(alerts and events\), with relevant TTPs and are [associated with security incidents](associate-mitre-with-sir.md#).
+-   When an [IoC is associated to a security incident](associate-mitre-observables.md), Threat Intelligence automatically searches threat feeds for relevant information and sends IoCs to third-party sources such as EDR, Sandbox, or TIP for additional analysis.
+-   If any third-party source contains the MITRE-ATT&amp;CK information, then [Threat Intelligence extracts the technique information](create-detection-rules.md) and enriches the data in the Threat Intelligence repository for correlation and analysis.
 -   MITRE-ATT&amp;CK also shares [CVE context information](mitre-att-ck-heatmap-and-navigator.md#) for each technique. Your security team can review the exploited techniques in Vulnerability Response to determine if your business-critical assets are threatened.
 
 ## MITRE-ATT&amp;CK matrixes, tactics, and techniques
@@ -66,7 +66,7 @@ You can set up, map data sources, map overall technique detection coverage, and 
 -   **[Using MITRE-ATT&amp;CK to detect and analyze threats](mitre-att-ck-features.md)**  
 Use the MITRE-ATT&amp;CK framework across the Threat Intelligence and the SIR module to detect and analyze threats to your organization.
 
-**Parent Topic:**[Threat Intelligence](../reference/threat-intel-landing-page.md)
+**Parent Topic:**[Threat Intelligence](threat-intel-landing-page.md)
 
 **Related topics**  
 
@@ -79,11 +79,11 @@ Use the MITRE-ATT&amp;CK framework across the Threat Intelligence and the SIR mo
 
 [MITRE D3FEND framework](mitre-d3fend-framework.md)
 
-[Threat Intelligence administration](../reference/r_ThreatRespAdmin.md)
+[Threat Intelligence administration](r_ThreatRespAdmin.md)
 
 [Threat Intelligence integrations](threat-intelligence-integrations.md)
 
-[Threat Intelligence Orchestration](../../threat-intelligence-orchestration/concept/c_ThreatIntelligenceOrchestration.md)
+[Threat Intelligence Orchestration](c_ThreatIntelligenceOrchestration.md)
 
-[Security Case Management](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management](case-mgmt.md)
 

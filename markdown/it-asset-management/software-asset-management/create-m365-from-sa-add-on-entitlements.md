@@ -27,7 +27,7 @@ Role required: sam\_user or sam\_admin
 
 3.  On the form, fill in the fields.
 
-    For a detailed description of each field, see [Software entitlement fields](../reference/software-entitlement-fields.md).
+    For a detailed description of each field, see [Software entitlement fields](software-entitlement-fields.md).
 
     **Important:** To create a Microsoft 365 From SA or Add-on entitlement, set the **Software model** field to a Microsoft 365 software model and then set the **License type** field to either **From SA** or **Add-on**.
 
@@ -72,10 +72,10 @@ Role required: sam\_user or sam\_admin
     The From SA or Add-on entitlement is assigned to the specified Microsoft entitlement.
 
 
-**Parent Topic:**[Creating Microsoft 365 From SA and Add-on entitlements](../concept/creating-m365-from-sa-add-on-entitlements.md)
+**Parent Topic:**[Creating Microsoft 365 From SA and Add-on entitlements](creating-m365-from-sa-add-on-entitlements.md)
 
 **Related topics**  
 
 
-[Software entitlement fields](../reference/software-entitlement-fields.md)
+[Software entitlement fields](software-entitlement-fields.md)
 

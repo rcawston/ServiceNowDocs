@@ -24,5 +24,5 @@ Several contact flows and operation handlers are installed with Cloud Call Cente
 -   **[Components installed with ServiceNow Voice for HR Agent Workspace](instld-with-hr-agent.md)**  
 Several contact flows and operation handlers are installed with ServiceNow Voice for HR Agent Workspace.
 
-**Parent Topic:**[ServiceNow Voice](../concept/cloud-call-center-overview.md)
+**Parent Topic:**[ServiceNow Voice](cloud-call-center-overview.md)
 

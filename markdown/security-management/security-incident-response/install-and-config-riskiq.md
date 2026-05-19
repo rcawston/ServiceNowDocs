@@ -64,12 +64,12 @@ Madrid and later release requirements
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>## Procedure
 
-1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Security Operations** &gt; **Integrations** &gt; **Integrations Configurations** and locate the API tile.
 
@@ -92,9 +92,9 @@ If an error message is displayed, the Username or API key may be invalid. Verify
 
 ![Configuration error message](../image/riskiq-config-error.png "Troubleshooting")
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
-**Previous topic:**[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+**Previous topic:**[Supported observables for RISKIQ and RISKIQ WHOISIQ](riskiq_supported_obsv.md)
 
 **Next topic:**[Verify expected results for RISKIQ SSL certificate lookups](verify-expected-rslts-for-riskiq.md)
 

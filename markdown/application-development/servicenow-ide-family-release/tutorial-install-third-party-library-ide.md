@@ -109,5 +109,5 @@ After you update any field on a record in the To-do Items \[x\_snc\_hello\_world
 
 Continue to [Tutorial part 5: Clone the application on a different instance](tutorial-clone-application-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](getting-started-create-application-ide.md)
 

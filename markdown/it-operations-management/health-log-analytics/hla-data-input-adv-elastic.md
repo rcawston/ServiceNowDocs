@@ -33,7 +33,7 @@ For additional information about streaming logs using the Elasticsearch data inp
 
     The data input configuration displays.
 
-    **Note:** The number of log sources that the data input has created is shown in the **Sources count** field. For more information about data input sources, see [Log data auto-mapping and mapping in Health Log Analytics](../concept/hla-data-input-automapping.md).
+    **Note:** The number of log sources that the data input has created is shown in the **Sources count** field. For more information about data input sources, see [Log data auto-mapping and mapping in Health Log Analytics](hla-data-input-automapping.md).
 
     **Note:** If the HLA engine is down and data has stopped streaming, a notification appears at the top of the data input configuration page. When this happens, contact ServiceNow support.
 
@@ -41,7 +41,7 @@ For additional information about streaming logs using the Elasticsearch data inp
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Elasticsearch data input configuration fields](../reference/hla-data-input-elastic-ref.md).
+    For a description of the fields, see [Elasticsearch data input configuration fields](hla-data-input-elastic-ref.md).
 
 5.  In the Streaming Sources related list, verify that this data input is streaming log data from all relevant endpoint devices.
 
@@ -71,7 +71,7 @@ For additional information about streaming logs using the Elasticsearch data inp
 8.  Select **Publish** to publish the data input to the MID Server.
 
 
-**Parent Topic:**[Advanced data input configuration in Health Log Analytics](../concept/hla-data-input-adv-configuration.md)
+**Parent Topic:**[Advanced data input configuration in Health Log Analytics](hla-data-input-adv-configuration.md)
 
 **Related topics**  
 

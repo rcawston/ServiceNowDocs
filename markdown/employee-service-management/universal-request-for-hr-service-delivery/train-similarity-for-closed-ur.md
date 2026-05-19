@@ -21,7 +21,7 @@ Role required: admin or sn\_un\_req.ur\_admin
 
 Ensure that you have installed Predictive Intelligence \(com.glide.platform\_ml\) and Predictive Intelligence for \(com.snc.universal\_request.ml\) plugins are activated.
 
-This solution is available only if you enable the **Enable to view similar closed Universal Request recommendations** \(sn\_uni\_req.similar\_closed\_universal\_request\) property. For more information on this property, see [Universal Request properties](../reference/ur-properties.md).
+This solution is available only if you enable the **Enable to view similar closed Universal Request recommendations** \(sn\_uni\_req.similar\_closed\_universal\_request\) property. For more information on this property, see [Universal Request properties](ur-properties.md).
 
 **Note:** A minimum of ten thousand records are needed to train the classifications.
 
@@ -36,5 +36,5 @@ This solution is available only if you enable the **Enable to view similar close
     For more information about the Similarity Definition form fields, see [Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md).
 
 
-**Parent Topic:**[Predictive Intelligence for Universal Request](../concept/predictive-intelligence-ur.md)
+**Parent Topic:**[Predictive Intelligence for Universal Request](predictive-intelligence-ur.md)
 

@@ -17,7 +17,7 @@ Import package version attachments automatically instead of manually uploading a
 
 Perform the following tasks before you import a package version attachment:
 
--   Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md).
+-   Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md).
 -   Ensure that the **sn\_rpa\_fdn.allow\_manual\_upload\_of\_automation\_package** system property is marked as true. If you have the admin role, you can edit this system property.
 -   Ensure that there is no valid attachment associated to the package version​.
 -   Verify that the life-cycle stage of the package version isn’t set to **Retired**.
@@ -31,7 +31,7 @@ The maximum package size is determined by the **com.glide.attachment.max\_size**
 
 Perform this task if you are automatically migrating the package attachment \(automation zip file\) from a lower \(non-production\) to a higher \(production\) environment.
 
-Another way to import package version attachments automatically is via triggering the **Import Package Version Attachment** Subflow in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md).
+Another way to import package version attachments automatically is via triggering the **Import Package Version Attachment** Subflow in Workflow Studio. For more information, see [Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md).
 
 ## Procedure
 
@@ -58,5 +58,5 @@ After the attachment is uploaded successfully or if an error occurs while upload
 
 For a quick integrity check, verify the HashCode of a package version again. For more information, see [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
 
-**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md)
+**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md)
 

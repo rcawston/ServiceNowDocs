@@ -45,7 +45,7 @@ COE
 
 </td><td>
 
-Center of Excellence \(COE\) that you want to restrict access to.**Note:** For more information on COE, see [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+Center of Excellence \(COE\) that you want to restrict access to.**Note:** For more information on COE, see [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Option to activate the case restriction configuration record.
 
 6.  Click **Update**.
 
-    **Note:** Collaborators on an HR or ER case can override COE security. But, ER cases with restrictions override collaborators. For more information, see [Create COE security](../concept/configure-hr-coe-security.md).
+    **Note:** Collaborators on an HR or ER case can override COE security. But, ER cases with restrictions override collaborators. For more information, see [Create COE security](configure-hr-coe-security.md).
 
     COE security policies are a way to easily restrict access to different COEs via configuration. The underlying COE security policy implementations are [ServiceNow ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md).
 

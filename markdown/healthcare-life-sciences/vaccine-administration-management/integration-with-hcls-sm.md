@@ -25,9 +25,9 @@ Integration with Healthcare and Life Sciences Service Management Core also adds 
 **Related topics**  
 
 
-[Healthcare and Life Sciences Service Management Core](../../healthcare-life-sciences/concept/hcls-core-app.md)
+[Healthcare and Life Sciences Service Management Core](../healthcare-and-life-sciences-service-management-core/hcls-core-app.md)
 
-[Patient table](../../healthcare-life-sciences/reference/hcls-patient-table.md)
+[Patient table](../healthcare-and-life-sciences-service-management-core/hcls-patient-table.md)
 
-[Immunization table](../../healthcare-life-sciences/reference/hcls-immunization-table.md)
+[Immunization table](../healthcare-and-life-sciences-service-management-core/hcls-immunization-table.md)
 

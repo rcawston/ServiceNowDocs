@@ -80,5 +80,5 @@ A group of members who have joined a specific forum. Once logged in, their acces
 -   **[Add members to a forum user](add-members-to-forum-user.md)**  
 Add members to a forum user. Members can be individual users or user groups.
 
-**Parent Topic:**[Forum and user permissions management](../concept/communities-permissions.md)
+**Parent Topic:**[Forum and user permissions management](communities-permissions.md)
 

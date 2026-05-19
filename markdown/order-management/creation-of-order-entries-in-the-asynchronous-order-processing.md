@@ -138,7 +138,7 @@ Name of the target table, such as Customer Order.
 
 ## What to do next
 
-[Approve orders in Order Management](../task/som-om-approve-product-order.md)
+[Approve orders in Order Management](som-om-approve-product-order.md)
 
 **Parent Topic:**[Asynchronous order processing for large customer and consumer orders](asynchronous-order-processing.md)
 

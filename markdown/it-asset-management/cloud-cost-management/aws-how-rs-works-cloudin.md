@@ -24,7 +24,7 @@ To generate accurate Rightsizing resources recommendations, Cloud Cost Managemen
 
     **Important:**
 
-    -   To enable Rightsizing, you must define memory metrics to obtain memory usage data. For more information, see [Define a metric threshold](../task/define-metric-threshold.md).
+    -   To enable Rightsizing, you must define memory metrics to obtain memory usage data. For more information, see [Define a metric threshold](define-metric-threshold.md).
     -   Recommendations are generated only for CPU usage data.
 -   Obtain rates for resource types and sizes from the price sheet data tables.
 -   If available, obtain percentage discount rates from the discount tables and apply the appropriate discounts to the rates on the price sheet.

@@ -17,7 +17,7 @@ Copy a part requirement to quickly create another, similar part requirement.
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 

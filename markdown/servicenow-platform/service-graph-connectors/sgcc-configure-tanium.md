@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 5.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 6.  Complete the prerequisites for setting up the Tanium environment.
 
@@ -175,9 +175,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Tanium](../../configuration-management/concept/cmdb-integration-tanium.md)
+[Service Graph Connector for Tanium](cmdb-integration-tanium.md)
 
-[CMDB classes targeted in Service Graph Connector for Tanium](../../configuration-management/reference/cmdb-tanium-classes.md)
+[CMDB classes targeted in Service Graph Connector for Tanium](cmdb-tanium-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Tanium](../../configuration-management/concept/sgc-tanium-conn.md#)
+[Accessing the connection details of Service Graph Connector for Tanium](sgc-tanium-conn.md#)
 

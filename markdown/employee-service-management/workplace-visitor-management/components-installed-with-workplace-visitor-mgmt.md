@@ -223,7 +223,7 @@ Kiosk Next Step\[sn\_wsd\_visitor\_next\_step\]
 Store information about the next steps added to an end page configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

@@ -42,14 +42,14 @@ You can then use the e-signature templates in HR tasks or HR task templates to r
 
 **Note:** On the HR task form, make sure that the HR task type sets to **E-signature**.
 
--   [Adding an HR task to an HR case](../task/t_ViewAnHRTask.md)
--   [Configure an HR task template](../task/configure-hr-task-template.md)
+-   [Adding an HR task to an HR case](t_ViewAnHRTask.md)
+-   [Configure an HR task template](configure-hr-task-template.md)
 
 ## Migrating existing HR task templates and open HR tasks to e-signature
 
 Migrate existing HR task templates and open HR tasks to the new HR task type for e-signature with the **Migrate HR e-signature tasks** scheduled job. The scheduled job automatically updates the HR task type and e-signature template based on your existing configurations. It also disables the old HR task types for credential, e-signature, and sign document.
 
-For more information, see [Migrate existing HR task templates and open HR tasks to e-signature](../task/migrate-existing-tasks-to-scoped-e-signature.md).
+For more information, see [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md).
 
 ## Activation information
 

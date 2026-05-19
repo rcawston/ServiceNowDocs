@@ -86,6 +86,6 @@ After the correlation events are pulled, this setting will not retrieve more cor
 
 4.  Click **Continue** to navigate to the Additional Options page.
 
-    **Note:** The default number of security incidents that can be created and aggregated in a day, and the flow time period are defined in the ArcSight ESM Integration Settings. You can modify these settings if required. See [ArcSight ESM Integration Settings for event ingestion integration](../concept/arcsight-esm-settings.md) for details.
+    **Note:** The default number of security incidents that can be created and aggregated in a day, and the flow time period are defined in the ArcSight ESM Integration Settings. You can modify these settings if required. See [ArcSight ESM Integration Settings for event ingestion integration](arcsight-esm-settings.md) for details.
 
 

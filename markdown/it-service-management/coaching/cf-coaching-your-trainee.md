@@ -106,7 +106,7 @@ My Coaching Opportunities - Last 6 months
 Coaching opportunities assigned to you in the past 6 months.
 
 </td></tr></tbody>
-</table>-   **[Assess a trainee](../task/cf-assess-trainee.md)**  
+</table>-   **[Assess a trainee](cf-assess-trainee.md)**  
 Use a coaching assessment to review the work of a trainee and to provide training and feedback.
 
 **Parent Topic:**[Training agents using Coaching with Learning](cf-train-your-agents.md)

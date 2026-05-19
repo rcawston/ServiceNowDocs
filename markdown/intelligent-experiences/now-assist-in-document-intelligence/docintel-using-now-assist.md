@@ -29,7 +29,7 @@ In this workflow:
 -   The agent provides input to validate or correct the values predicted by Now Assist.
 -   The task is completed and the integrated workflow proceeds as defined.
 
--   **[Review extracted information in the Document Intelligence workspace](../task/review-extracted-information.md)**  
+-   **[Review extracted information in the Document Intelligence workspace](review-extracted-information.md)**  
 Use the Document Intelligence workspace to review the information that was extracted from a document or image file by Now Assist in Document Intelligence.
 
 **Parent Topic:**[Now Assist in Document Intelligence](docintel-nowassist-landing.md)

@@ -40,5 +40,5 @@ Role required: none
 7.  Click **Threads** to view all of the replies within the selected reply in reverse chronological order within the **Message Thread** pop-up window, similar to an email thread.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

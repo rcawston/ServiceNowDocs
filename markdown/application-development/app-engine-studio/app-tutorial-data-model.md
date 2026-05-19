@@ -41,7 +41,7 @@ Step 2
 
 </td><td>
 
-[Create an app](../task/app-tutorial-create-an-app.md)
+[Create an app](app-tutorial-create-an-app.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Step 6
 
 </td><td>
 
-[Test your application](../task/app-tutorial-test-app.md)
+[Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
 </table>## Overview of data models
@@ -110,7 +110,7 @@ Phase 1
 
 </td><td>
 
-[Create a data table](../task/app-tutorial-create-table.md)
+[Create a data table](app-tutorial-create-table.md)
 
 </td></tr><tr><td align="justify">
 
@@ -118,7 +118,7 @@ Phase 2
 
 </td><td>
 
-[Configure a data table](../task/app-tutorial-configure-table.md)
+[Configure a data table](app-tutorial-configure-table.md)
 
 </td></tr><tr><td align="justify">
 
@@ -126,10 +126,10 @@ Phase 3
 
 </td><td>
 
-[Share data between tables](../task/app-tutorial-share-data.md)
+[Share data between tables](app-tutorial-share-data.md)
 
 </td></tr></tbody>
 </table>## Next steps
 
-Start building the data model for your application. Proceed to the next step [Create a data table](../task/app-tutorial-create-table.md).
+Start building the data model for your application. Proceed to the next step [Create a data table](app-tutorial-create-table.md).
 

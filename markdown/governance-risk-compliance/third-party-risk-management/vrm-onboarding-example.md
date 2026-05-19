@@ -27,7 +27,7 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     After approval, the TPR manager selects **Start due diligence** to move the request into the due diligence workflow.
 
-    For more information, see [Requesting third-party risk due diligence](tprm-requesting-tpr-due-diligence.md) and [Request due diligence for a third-party engagement](../../grc-workspace-vrm/task/tprm-ws-request-dd-for-engagement.md).
+    For more information, see [Requesting third-party risk due diligence](tprm-requesting-tpr-due-diligence.md) and [Request due diligence for a third-party engagement](tprm-ws-request-dd-for-engagement.md).
 
 -   **Inherent Risk Questionnaire \(IRQ\) process**
 
@@ -37,7 +37,7 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     The assessor answers the IRQ questions and submits the assessment to calculate the third party’s inherent risk level.
 
-    For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md) and [Respond to an internal assessment](../../grc-workspace-vrm/task/tprm-irq-respond-to.md).
+    For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md) and [Respond to an internal assessment](tprm-irq-respond-to.md).
 
 -   **Due diligence process: Compliance verification and data security and privacy assessment**
 
@@ -47,7 +47,7 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     Third-party contacts receive and respond to questionnaires and document requests in the third-party portal.
 
-    For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md), [Create an external assessment](../task/tprm-create-assessment.md), [Respond to a questionnaire for a third party or engagement](../task/tprm-respond-for-tp.md), and [Review responses to external questionnaires](../../grc-workspace-vrm/task/tprm-ws-assessment-rvw-response.md).
+    For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md), [Create an external assessment](tprm-create-assessment.md), [Respond to a questionnaire for a third party or engagement](tprm-respond-for-tp.md), and [Review responses to external questionnaires](tprm-ws-assessment-rvw-response.md).
 
     **Note:** To streamline this step, Acme uses assessment templates, which group predefined questionnaire and document request templates for reuse.
 
@@ -59,7 +59,7 @@ This example illustrates a typical third-party onboarding flow in the TPRM appli
 
     The TPR contract negotiator reviews assessment findings and confirms that required contractual clauses are included in the third-party agreement.
 
-    For more information, see [Managing the contract risk process](tprm-ws-contract-risk-process.md) and [Accessing DD requests that are in the contract risk process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-contract-risk.md).
+    For more information, see [Managing the contract risk process](tprm-ws-contract-risk-process.md) and [Accessing DD requests that are in the contract risk process](tprm-ws-dd-mgt-pg-contract-risk.md).
 
 -   **Ongoing monitoring and review**
 

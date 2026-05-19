@@ -17,7 +17,7 @@ The GlideUser API provides a method to access information about current user rol
 
 GlideUser methods are accessed through a global object \(`g_user`\) that is only available in client scripts.
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## GlideUser \(Next Experience\) - getRoles\(\)
 

@@ -24,5 +24,5 @@ Administrators create activity categories that are used by managers and employee
 |**Order**|A numeric value used to determine the display order of activity categories.|
 |**Value**|The value used to track the activity category.|
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

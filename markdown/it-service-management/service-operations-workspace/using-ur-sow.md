@@ -17,19 +17,19 @@ The Universal Request is a task that a requester creates from any of the sources
 
 Use the Universal Request in Service Operations Workspace to view, create, edit, and resolve universal requests.
 
--   **[Create a Universal Request in Service Operations Workspace](../task/create-ur-sow.md)**  
+-   **[Create a Universal Request in Service Operations Workspace](create-ur-sow.md)**  
 As an agent, you can create universal requests from the Universal Request application on behalf of the requester to track and resolve issues.
--   **[Cancel a Universal Request in Service Operations Workspace](../task/cancel-ur-sow.md)**  
+-   **[Cancel a Universal Request in Service Operations Workspace](cancel-ur-sow.md)**  
 Cancel the Universal Request if the issue is resolved already or you no longer require the request.
--   **[Use Agent assist in Service Operations Workspace](../task/agent-assist-ur-sow.md)**  
+-   **[Use Agent assist in Service Operations Workspace](agent-assist-ur-sow.md)**  
 Use the Agent assist in Service Operations Workspace to find similar Universal Requests that are open and closed, Knowledge articles, Catalog items, and Pinned articles.
--   **[Transfer a primary ticket in Service Operations Workspace](../task/transfer-primary-task-ur-sow.md)**  
+-   **[Transfer a primary ticket in Service Operations Workspace](transfer-primary-task-ur-sow.md)**  
 You can transfer a primary ticket to Universal Request, service set \(department\), or service either with resolution or without resolution.
--   **[Restrict or unrestrict universal request access in Service Operations Workspace](../task/restrict-ur-sow.md)**  
+-   **[Restrict or unrestrict universal request access in Service Operations Workspace](restrict-ur-sow.md)**  
 Mark a universal request as restricted or unrestricted when you identify that the request contains sensitive information.
--   **[Mark the universal request as unrestricted in Service Operations Workspace](../task/unrestrict-ur-sow.md)**  
+-   **[Mark the universal request as unrestricted in Service Operations Workspace](unrestrict-ur-sow.md)**  
 You can mark a restricted universal request as unrestricted if you identify that the request doesn't have any sensitive information.
--   **[Universal Request in Service Operations Workspace reference](../reference/components-installed-ur-sow.md)**  
+-   **[Universal Request in Service Operations Workspace reference](components-installed-ur-sow.md)**  
 Universal Request is activated in Service Operations Workspace when you enable the Universal Request plugin \(com.snc.universal\_request\). This topic provides information about components installed with Universal Request in Service Operations Workspace.
 
 **Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)

@@ -48,5 +48,5 @@ Similarly, access the dashboard and visualization export skill by starting a con
 
 ![Result of the query showing a list of indicators.](../image/nowass-dv-list.png "Example of a generated data visualization")
 
-**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](../reference/analytics-assist-landing-page.md)
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](analytics-assist-landing-page.md)
 

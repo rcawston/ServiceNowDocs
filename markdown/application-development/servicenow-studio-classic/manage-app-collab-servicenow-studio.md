@@ -17,7 +17,7 @@ You can collaborate, or share app development in ServiceNow Studio with other pe
 
 ## Collaboration is delegated development
 
-Collaboration, also referred to as delegated development, builds on the existing delegated development feature set in the ServiceNow AI Platform. It enables developers to invite other developers into apps so that they can co-create and develop the app together. Depending on your permissions, you can invite others to collaborate on an app with you, or request to join someone else's app. For more information on delegated development, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+Collaboration, also referred to as delegated development, builds on the existing delegated development feature set in the ServiceNow AI Platform. It enables developers to invite other developers into apps so that they can co-create and develop the app together. Depending on your permissions, you can invite others to collaborate on an app with you, or request to join someone else's app. For more information on delegated development, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 There are two standard types of collaborators when you co-develop an app with other people: owners and editors. Admins can create a custom collaboration role by adjusting permissions.
 
@@ -39,9 +39,9 @@ The two ServiceNow Studio roles that can access ServiceNow Studio, admin and del
 -   Users with the delegated\_developer role have access to:
     -   Apps they create.
     -   Apps they've been invited to edit \(as an editor on the app\).
-    -   All apps within the scope you have access to. For more information on scopes, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+    -   All apps within the scope you have access to. For more information on scopes, see [Application scope](../c_ApplicationScope.md).
 
-If you know of an app that you want to work on but don't see it in ServiceNow Studio, contact your admin and ask that they give you permission to work on the app using the Collaboration app. The ServiceNow AI Platform Collaboration app is automatically installed with ServiceNow Studio. For more information about the Collaboration app, see [Application collaboration](../../applications/concept/application-collaboration.md).
+If you know of an app that you want to work on but don't see it in ServiceNow Studio, contact your admin and ask that they give you permission to work on the app using the Collaboration app. The ServiceNow AI Platform Collaboration app is automatically installed with ServiceNow Studio. For more information about the Collaboration app, see [Application collaboration](../application-collaboration.md).
 
 ## What app owners and editors can do
 
@@ -79,7 +79,7 @@ Editor
 -   Editors have a more limited ability to edit the app.
 
 </td></tr></tbody>
-</table>**Note:** For the full list of default owner and editor collaborator collaboration type permissions, see [Collaboration permissions for ServiceNow Studio](../reference/servicenow-studio-collab-permissions.md).
+</table>**Note:** For the full list of default owner and editor collaborator collaboration type permissions, see [Collaboration permissions for ServiceNow Studio](servicenow-studio-collab-permissions.md).
 
 ## Custom collaboration descriptors and permissions
 
@@ -87,23 +87,23 @@ The collaboration descriptor that someone is assigned determines if they can ass
 
 If you want to create a customized collaboration role for help building your app, you can create a custom collaboration descriptor, which is a customized collaboration role. You then use collaboration permissions to control what developers \(or users who deploy applications\) can do in the app.
 
-If needed, admins can define custom collaboration descriptors to select when managing collaborators using the Collaboration app. For more information on custom descriptors, see [Create collaboration descriptors to assign permissions](../../applications/task/create-collaboration-descriptors.md).
+If needed, admins can define custom collaboration descriptors to select when managing collaborators using the Collaboration app. For more information on custom descriptors, see [Create collaboration descriptors to assign permissions](../create-collaboration-descriptors.md).
 
 ## Managing collaboration permissions for other developers
 
-If you invite someone to collaborate on an app and they don't have the Delegated developer \(delegated\_developer\) role, an App Engine admin must approve the collaboration request. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+If you invite someone to collaborate on an app and they don't have the Delegated developer \(delegated\_developer\) role, an App Engine admin must approve the collaboration request. For more information, see [Delegated development and deployment](../delegated-development-and-deployment/c_DelegatedDevelopment.md).
 
 When you add a user or group to collaborate on an app, a collaboration task is generated behind the scenes, which initiates an approval flow. If you have App Engine Management Center \(AEMC\) installed, your admin can review and approve/deny these collaboration request tasks there. The collaboration task that goes to your admin provides information on which app a developer is being added to, and what permissions they get. Admins and approvers sometimes need to review these task records before they add developers to the application.
 
 If you don’t have AEMC installed, admins can navigate to **All** &gt; **App Engine** &gt; **Collaboration** &gt; **Collaboration Tasks**.
 
--   **[View collaborators on an app in ServiceNow Studio](../task/view-app-collabs-servicenow-studio.md)**  
+-   **[View collaborators on an app in ServiceNow Studio](view-app-collabs-servicenow-studio.md)**  
 View the collaborators for an app to see who is co-developing the app in ServiceNow Studio.
--   **[Add collaborators to an app in ServiceNow Studio](../task/add-collabs-app-servicenow-studio.md)**  
+-   **[Add collaborators to an app in ServiceNow Studio](add-collabs-app-servicenow-studio.md)**  
 Invite other people to work on an app with you in ServiceNow Studio, collaborating as co-developers.
--   **[Modify or customize collaboration permissions for a user or group in ServiceNow Studio](../task/modify-collab-descriptor-servicenow-studio.md)**  
+-   **[Modify or customize collaboration permissions for a user or group in ServiceNow Studio](modify-collab-descriptor-servicenow-studio.md)**  
 Change the collaboration access that a user or group has to work on an app in ServiceNow Studio by modifying or customizing their collaboration descriptor.
--   **[Remove collaborators from an app in ServiceNow Studio](../task/remove-collaborators-servicenow-studio.md)**  
+-   **[Remove collaborators from an app in ServiceNow Studio](remove-collaborators-servicenow-studio.md)**  
 Restrict a user or group from working on an app in ServiceNow Studio by removing them as a collaborator.
 
 **Parent Topic:**[Configuring ServiceNow Studio](configuring-servicenow-studio.md)

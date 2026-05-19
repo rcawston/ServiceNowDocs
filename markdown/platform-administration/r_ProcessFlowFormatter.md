@@ -23,7 +23,7 @@ These examples show a workflow in Core UI interface.
 
 When any formatter stages are defined for a table, they appear on the form associated with that table in the order specified, assuming the formatter has been added to the form.
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 ## Activate the process flow formatter
 

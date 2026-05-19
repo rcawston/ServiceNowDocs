@@ -34,5 +34,5 @@ Role required: sn\_lg\_cf\_workspace.admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

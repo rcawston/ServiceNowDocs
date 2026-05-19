@@ -21,13 +21,13 @@ Role required: discovery\_admin or admin
 
 ## About this task
 
-[Discovery properties](../reference/r_DiscoveryProperties.md) manage various aspects of the horizontal discovery process. This procedure explains how to assign default policy owner group and approval group names for approving firewall rule tasks.
+[Discovery properties](r_DiscoveryProperties.md) manage various aspects of the horizontal discovery process. This procedure explains how to assign default policy owner group and approval group names for approving firewall rule tasks.
 
 ## Procedure
 
-1.  To edit [Discovery properties](../reference/r_DiscoveryProperties.md), navigate to **All** &gt; **Discovery Definition** &gt; **Properties**.
+1.  To edit [Discovery properties](r_DiscoveryProperties.md), navigate to **All** &gt; **Discovery Definition** &gt; **Properties**.
 
-    For more information on properties, see [Discovery properties](../reference/r_DiscoveryProperties.md).
+    For more information on properties, see [Discovery properties](r_DiscoveryProperties.md).
 
     -   sn\_disco\_firewall.default.rule.task.policy.owner.group: Your default task owner group name
     -   sn\_disco\_firewall.default.rule.task.approval.group: Your default approval group name
@@ -38,5 +38,5 @@ Role required: discovery\_admin or admin
     These feature saves time by automatically filling in your default owner group and approval group in requests.
 
 
-**Parent Topic:**[Visibility to Firewall inventory](../concept/use-firewall-audit-rep.md)
+**Parent Topic:**[Visibility to Firewall inventory](use-firewall-audit-rep.md)
 

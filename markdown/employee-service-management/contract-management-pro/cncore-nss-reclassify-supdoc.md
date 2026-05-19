@@ -44,5 +44,5 @@ You can reclassify supporting documents only when the State is Work in progress.
 7.  Select **Save** to save the record.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

@@ -31,7 +31,7 @@ Goals are typically qualitative in nature. Goals should be ambitious and are exp
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Goal form](../reference/goal-form.md).
+    For field information, see [Goal form](goal-form.md).
 
 4.  Click **Submit**.
 

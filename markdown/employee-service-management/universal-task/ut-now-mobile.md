@@ -19,7 +19,7 @@ From your mobile device, you can get notifications about updates in your univers
 
 ![Notification for task assigned.](../images/ut-mobile-noti-assigned.png)
 
-View and complete the universal tasks that are assigned to you in the **To-Do** tab. For detailed instructions, see [View and update Universal Task using Now Mobile](../task/ut-mobile-view-update-tasks.md).
+View and complete the universal tasks that are assigned to you in the **To-Do** tab. For detailed instructions, see [View and update Universal Task using Now Mobile](ut-mobile-view-update-tasks.md).
 
 <table id="table_lhb_lk4_z4b"><tbody><tr><td>
 

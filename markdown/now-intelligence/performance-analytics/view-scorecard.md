@@ -67,8 +67,8 @@ The options in this menu depend on the type of indicator and whether it has scor
 
 |Option|Where present|
 |------|-------------|
-|[Edit indicator](../task/t_CreateAnAutomatedIndicator.md#)|All indicators|
-|[Edit scores](../task/t_ManuallyAddingScoresForIndicators.md)|Automated indicators with scores|
+|[Edit indicator](t_CreateAnAutomatedIndicator.md#)|All indicators|
+|[Edit scores](t_ManuallyAddingScoresForIndicators.md)|Automated indicators with scores|
 |Add to/Remove from favorites|All indicators|
 |Export to PDF|All indicators with scores|
 |Export scores to CSV|All indicators with scores|

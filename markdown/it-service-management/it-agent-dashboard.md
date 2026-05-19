@@ -13,7 +13,7 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 View the open incidents, problems, and requests that belong to you and your assignment groups through personalized reports. You can also see which incidents that belong to your assignment groups exceed the Spotlight threshold.
 
-Agents can use [IT Agent dashboard for Service Operations Workspace](../../../product/service-operations-workspace/concept/it-agent-dashboard-sow.md) to see their own and their team's assignments and set priorities.
+Agents can use [IT Agent dashboard for Service Operations Workspace](it-agent-dashboard-sow.md) to see their own and their team's assignments and set priorities.
 
 ![Animated tour of the IT Agent dashboard](../image/itsm-it-agent.gif "IT Agent dashboard")
 

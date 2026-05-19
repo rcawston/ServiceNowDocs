@@ -136,27 +136,27 @@ Displays the top three posts according to number of views.
 
 [Community homepage features for non-logged in users](community-homepage-non-logged.md)
 
-[Self-register to a community](../task/register-community.md)
+[Self-register to a community](register-community.md)
 
-[Search the community](../task/search.md)
+[Search the community](search.md)
 
-[Use a community profile](../task/community-profile.md)
+[Use a community profile](community-profile.md)
 
 [Community subscriptions](c_communities-subscriptions.md)
 
-[Request membership to a forum](../task/request-membership-forum.md)
+[Request membership to a forum](request-membership-forum.md)
 
-[Accept an invitation to join a forum](../task/accept-invitation-forum.md)
+[Accept an invitation to join a forum](accept-invitation-forum.md)
 
-[Post and respond to content in the community](../task/post-respond-content.md)
+[Post and respond to content in the community](post-respond-content.md)
 
-[Report inappropriate community content](../task/report-content.md)
+[Report inappropriate community content](report-content.md)
 
-[Add featured content in a community](../task/feature-community-content.md)
+[Add featured content in a community](feature-community-content.md)
 
-[Email a community user](../task/private-message-community-user.md)
+[Email a community user](private-message-community-user.md)
 
-[View a list of questions and create a case](../task/case-mgmt-integration-view-list.md)
+[View a list of questions and create a case](case-mgmt-integration-view-list.md)
 
 [Gamification](communities-gamification.md)
 

@@ -29,7 +29,7 @@ A stacked node indicates that multiple nodes were mapped for the same tag. When 
 
 ![Node with change badge.](../image/link-view-stacked-node.png "Node with a change badge")
 
-The Link View legend lists the meaning of the symbols and colors used and enables you to toggle between hiding and showing types of tags to reduce noise. In addition, the legend describes the meaning of the various lines linking the alert attributes. Attributes linked by a solid line share one or more alerts, whereas attributes linked by a dotted line are correlated by grouping criteria. For a description of each tag, see [Attributes in Express List Link View](../reference/link-view-tags-icons-descriptions.md). Hovering over a node displays a tooltip that includes the name of the tag, its class, its severity, the number of alerts in which it appeared, and whether the alert is primary or secondary or the probable cause of the alert, if applicable.
+The Link View legend lists the meaning of the symbols and colors used and enables you to toggle between hiding and showing types of tags to reduce noise. In addition, the legend describes the meaning of the various lines linking the alert attributes. Attributes linked by a solid line share one or more alerts, whereas attributes linked by a dotted line are correlated by grouping criteria. For a description of each tag, see [Attributes in Express List Link View](link-view-tags-icons-descriptions.md). Hovering over a node displays a tooltip that includes the name of the tag, its class, its severity, the number of alerts in which it appeared, and whether the alert is primary or secondary or the probable cause of the alert, if applicable.
 
 ![Node tooltip with probable cause.](../image/link-view-tooltip.png "Node tooltip")
 
@@ -45,5 +45,5 @@ Currently, Link View is supported for several alert groups. For more information
 **Related topics**  
 
 
-[View links between alerts in a group in Express List](../task/view-relationships-between-alerts-in-groups.md)
+[View links between alerts in a group in Express List](view-relationships-between-alerts-in-groups.md)
 

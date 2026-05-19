@@ -239,9 +239,9 @@ All the response tasks associated with a security incident are displayed within 
 This section displays the other records such as IT related records and email records. Under IT records, Incident, Change Request, Problem and Outages are displayed.
 -   **[Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)**  
 Post incident review appears when an incident is moved to a Review state.
--   **[Update information in security incident related records](../task/edit-related-records-in-list.md)**  
+-   **[Update information in security incident related records](edit-related-records-in-list.md)**  
 Edit related records for a security incident in Security Incident Response Workspace directly from the **Related Records** tab without having to leave the current context.
--   **[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)**  
+-   **[TISC integration within SIR Workspace](tisc-sir-workspace.md)**  
 The following section includes information about the Threat Intelligence Security Center integration from within the SIR workspace context.
 -   **[Reports in Security Incident Response](report-templates-sir.md)**  
 All the reports associated with a security incident are available within the Reports section for analysis and sharing.
@@ -252,20 +252,20 @@ Relationship graphs in the Security Incident Response workspace visually display
 -   **[MITRE attack and defend technique graph](mitre-attack-defend-graph-sir.md)**  
 The MITRE attack and defend technique graph provides security analysts with an interactive, node-based visualization of attack techniques, defense techniques, and associated artifacts for a security incident.
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
 
 [Security Incident Playbook](security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
 [Working with MSI Records](working-with-msi-records.md)
 
@@ -273,5 +273,5 @@ The MITRE attack and defend technique graph provides security analysts with an i
 
 [Security Incident Closure workflow](security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 

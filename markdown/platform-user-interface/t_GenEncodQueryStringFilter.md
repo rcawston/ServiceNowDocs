@@ -33,17 +33,17 @@ Role required: none
 
 5.  Copy the query to your system clipboard.
 
-6.  Use the query string to [Navigate to a record or module using a URL](../../navigation/task/navigate-using-url.md) or an [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md).
+6.  Use the query string to [Navigate to a record or module using a URL](navigate-using-url.md) or an [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md).
 
     When you use the CONTAINS operator on a list filter, the system translates the filter to a LIKE query. For example, if you filter for active records with numbers that contain 123, the URL is `https://InstanceName.service-now.com/incident_list.do?sysparm_query=active%3Dtrue%5EGOTOnumberLIKE123`.
 
 
-**Parent Topic:**[Encoded query strings](../concept/c_EncodedQueryStrings.md)
+**Parent Topic:**[Encoded query strings](c_EncodedQueryStrings.md)
 
 **Related topics**  
 
 
 [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md)
 
-[Navigate to a record or module using a URL](../../navigation/task/navigate-using-url.md)
+[Navigate to a record or module using a URL](navigate-using-url.md)
 

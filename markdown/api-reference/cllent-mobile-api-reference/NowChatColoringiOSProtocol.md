@@ -289,5 +289,5 @@ public extension NowChatColoring {
 }
 ```
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 

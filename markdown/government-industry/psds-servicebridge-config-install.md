@@ -27,7 +27,7 @@ Install the Service Exchange for Public Sector Digital Services application.
 
 </td><td>
 
-See [Install Service Exchange for Public Sector Digital Services](../task/psds-servicebridge-config-install-prov.md).
+See [Install Service Exchange for Public Sector Digital Services](psds-servicebridge-config-install-prov.md).
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ Set up the Government Service Portal, the consumer-facing portal for Public Sect
 
 </td><td>
 
-See [Customize the Government Service Portal](../task/customize-government-service-portal.md).
+See [Customize the Government Service Portal](customize-government-service-portal.md).
 
 </td></tr><tr><td>
 

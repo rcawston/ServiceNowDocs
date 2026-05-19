@@ -63,7 +63,7 @@ The following features use connections, credentials, and aliases:
 
 You can set up aliases on the ServiceNow AI Platform in one of two ways:
 
--   Using the Connections and Credentials module. See [Create a Connection &amp; Credential alias](../task/connection-alias.md).
+-   Using the Connections and Credentials module. See [Create a Connection &amp; Credential alias](connection-alias.md).
 -   In the Connections dashboard of Integration Hub. See [Add a connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/dashboard-add-connection.md).
 
     **Note:** Integration Hub requires a separate subscription. For more information, see [Request Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/request-ih-overview.md).
@@ -111,5 +111,5 @@ Domain separation is supported in Credentials and Connections. Domain separation
 -   **[Connection &amp; Credential configuration templates](spoke-configuration-template.md)**  
 Enable users with the admin and flow\_designer roles to set up spoke integrations with third-party systems using a single, customizable form.
 
-**Parent Topic:**[Connections and Credentials](../reference/r-credentials.md)
+**Parent Topic:**[Connections and Credentials](r-credentials.md)
 

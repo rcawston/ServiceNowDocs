@@ -21,11 +21,11 @@ Before you can establish a GPON Broadband Service change request and complete th
 
 1.  Navigate to **Telecom Network Inventory** &gt; **Inventory Models**, create your inventory models, and define their relationships.
 
-    To learn more, see [Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md).
+    To learn more, see [Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md).
 
 2.  Navigate to **Telecom Network Inventory** &gt; **Network Inventory Templates**, create the inventory templates for your equipment, and establish the template relationships.
 
-    To learn more, see [Create inventory template for network asset instantiation](../concept/preparing-inv-templates-network-asset-generation.md).
+    To learn more, see [Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md).
 
 
 Install the Telecommunications Network Inventory Advanced and Core demo data.
@@ -44,15 +44,15 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 5.  On the record producer form, you can update the fields.
 
-    The fields of the record producer form are auto-populated. This demonstration displays how to create configuration items \(CIs\) to show the design and assign of a GPON broadband service. To learn more about the fields, see [Change request and change task forms](../concept/change_request_forms.md).
+    The fields of the record producer form are auto-populated. This demonstration displays how to create configuration items \(CIs\) to show the design and assign of a GPON broadband service. To learn more about the fields, see [Change request and change task forms](change_request_forms.md).
 
 6.  Select **Save**.
 
-    The Change \(Design &amp; Assign\) flow is triggered and a change request is created. Depending on the given inputs, change tasks are automatically created and other related tabs appear. To learn more, see [Change request related tabs](../reference/tni-change-request-related-tabs.md).
+    The Change \(Design &amp; Assign\) flow is triggered and a change request is created. Depending on the given inputs, change tasks are automatically created and other related tabs appear. To learn more, see [Change request related tabs](tni-change-request-related-tabs.md).
 
 7.  Open and review each change task record.
 
-    On the Task Attributes form, fill in the fields. For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    On the Task Attributes form, fill in the fields. For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 8.  Select **Submit**.
 
@@ -63,5 +63,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 10. Select **Save**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

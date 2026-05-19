@@ -37,7 +37,7 @@ When a journal field exceeds the length set in this property, the instance shows
 
 ### Procedure
 
-1.  [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
+1.  [Add a system property](r_AvailableSystemProperties.md#) with the following settings.
 
     |Property|Value|
     |--------|-----|
@@ -104,5 +104,5 @@ Role required: admin
 **Related topics**  
 
 
-[Activity formatter](../../form-administration/concept/c_ActivityFormatter.md#)
+[Activity formatter](c_ActivityFormatter.md#)
 

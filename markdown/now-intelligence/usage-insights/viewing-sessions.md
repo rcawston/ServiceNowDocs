@@ -113,7 +113,7 @@ You can filter a Users list by date range, user type, and country by default. Us
 
 You can view a breakdown analysis of sessions by grouping them according to country, state, device type, hourly usage, and so on. The Geographic Analytics visualization, which was available until the Xanadu release, has been replaced by this Analysis Breakdown.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 
 ## Session Details record
 

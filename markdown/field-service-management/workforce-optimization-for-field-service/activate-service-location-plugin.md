@@ -23,7 +23,7 @@ Role required: admin
 
 Activation of Field Service with Service Locations Support \(com.snc.fsm\_service\_locations\) plugin activates Field Service Management \(com.snc.work\_management\) and sn-fsm-components \(com.sn\_fsm\_components\) plugins if they are not already active.
 
-For more information, see [Field Service with Service Locations Support components](service-locations-components.md).
+For more information, see [Field Service with Service Locations Support components](../service-locations-components.md).
 
 ## Procedure
 

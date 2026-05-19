@@ -34,7 +34,7 @@ The following items are installed with Field Service Territory Planning:
 -   Properties
 -   Query rules
 
-For more information, see [Field Service Territory Planning components](../reference/territory-planning-components-fsm.md#).
+For more information, see [Field Service Territory Planning components](../territory-planning-components-fsm.md#).
 
 ## Procedure
 

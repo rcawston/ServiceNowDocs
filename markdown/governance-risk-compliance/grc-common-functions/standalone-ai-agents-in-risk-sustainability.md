@@ -22,10 +22,10 @@ The following AI agents are available in the Now Assist for IRM application:
 
 -   Report a GRC issue AI agent
 
-    For more information, see [Report a GRC issue](../task/report-a-grc-issue.md).
+    For more information, see [Report a GRC issue](report-a-grc-issue.md).
 
 -   Control Objective Change Agent
 
-    For more information, see [Use Control Objective Change Agent to update control objectives](../../grc-policy-and-compliance/task/update-impacted-control-objectives-AI.md).
+    For more information, see [Use Control Objective Change Agent to update control objectives](update-impacted-control-objectives-AI.md).
 
 

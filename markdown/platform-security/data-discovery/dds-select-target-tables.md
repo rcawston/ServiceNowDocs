@@ -36,5 +36,5 @@ Role required: discovery.admin
 
 ## Result
 
-Selected tables will now be targeted by [scheduled discovery jobs](../concept/dds-scheduled-discovery.md).
+Selected tables will now be targeted by [scheduled discovery jobs](dds-scheduled-discovery.md).
 

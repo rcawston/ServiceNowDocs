@@ -34,7 +34,7 @@ By default, Approval with e-signature supports these tables.
 -   Change Request \[change\_request\]
 -   Standard Change Proposal \[std\_change\_proposal\]
 
-When you add an approval table, any approval for the table needs an e-signature authorization. See [Select an approval table](../task/t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
+When you add an approval table, any approval for the table needs an e-signature authorization. See [Select an approval table](t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
 
 ## Approver Authentication dialog
 

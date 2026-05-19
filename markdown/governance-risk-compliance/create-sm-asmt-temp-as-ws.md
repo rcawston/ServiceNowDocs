@@ -52,11 +52,11 @@ Operational Resilience administrators contain the flow\_designer role, enabling 
 
     3.  Select **Save**.
 
-    For information on creating an assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    For information on creating an assessment template, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
 5.  Navigate to the **Questions** tab and set up the assessment questions.
 
-    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md).
+    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](smart-assessment-engine/sae-asmnt-template-populate.md).
 
     ![Questions.](../image/asmt-temp-questions-tab.png)
 

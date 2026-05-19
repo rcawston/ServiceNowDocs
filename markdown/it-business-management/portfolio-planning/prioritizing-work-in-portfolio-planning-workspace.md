@@ -28,13 +28,13 @@ In each of these views on the Prioritization page, you can perform the following
 
 -   **Add new planning items**
 
-    Add new items to your backlog directly from the Prioritization page. The type of planning items that you can create here depends on your portfolio plan configuration. See [Add planning items to Prioritization](../task/add-planning-items-prioritization-in-portfolio-planning-workspace.md).
+    Add new items to your backlog directly from the Prioritization page. The type of planning items that you can create here depends on your portfolio plan configuration. See [Add planning items to Prioritization](add-planning-items-prioritization-in-portfolio-planning-workspace.md).
 
 -   **Update planning item details**
 
     You can edit details of the planning items, add attachments, and collaborate on them with the stakeholders directly from the Prioritization page views to enable smoother real-time backlog grooming.
 
-    See [Update planning item details from Prioritization view](../task/modify-planing-item-details-from-prioritization-portfolio-planning-workspace.md).
+    See [Update planning item details from Prioritization view](modify-planing-item-details-from-prioritization-portfolio-planning-workspace.md).
 
 -   **Open the planning item in the Execution app**
 

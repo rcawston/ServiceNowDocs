@@ -32,10 +32,10 @@ Role required: contract\_manager
     Be sure to use the **Software License** option. The **License Bundle** and **Software License Contracts** options are deprecated.
 
 
-**Parent Topic:**[Software contracts for the legacy Software Asset Management plugin](../concept/c_SoftwareContracts.md)
+**Parent Topic:**[Software contracts for the legacy Software Asset Management plugin](c_SoftwareContracts.md)
 
 **Related topics**  
 
 
-[Contract Management](../../contract-management/concept/c_ContractManagement.md)
+[Contract Management](../contract-management/c_ContractManagement.md)
 

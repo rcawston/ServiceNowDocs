@@ -61,7 +61,7 @@ A chat experience consists of setup topics, promoted assets, and a search profil
 
     **Note:** Promoted topics may not be supported on all clients.
 
-    For more information, see [Promote or demote LLM conversational subflows, actions, and topics in Assistant Designer](../task/promote-demote-va-topics.md)
+    For more information, see [Promote or demote LLM conversational subflows, actions, and topics in Assistant Designer](promote-demote-va-topics.md)
 
 -   **Search profile**
 
@@ -77,9 +77,9 @@ Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**, and th
 
 -   **[Working with setup topics](working-setup-topics.md)**  
 Setup topics are part of a standard conversation structure applied to all your conversations, such as the welcome greeting or fallback responses. Setup topics run at the appropriate spot in a conversation based on the context, keywords, or utterances entered by the user, and any conditions that are specified for the setup topic.
--   **[Configure a Virtual Agent chat experience](../task/configure-default-chat-experience.md)**  
+-   **[Configure a Virtual Agent chat experience](configure-default-chat-experience.md)**  
 Change the preconfigured Virtual Agent default chat experience or create a custom chat experience for your users. You can configure setup topics, specify promoted topics, and if needed, change the search profile.
--   **[Test chat experiences](../task/test-custom-experience.md)**  
+-   **[Test chat experiences](test-custom-experience.md)**  
 After you create or modify a Virtual Agent chat experience, you can test \(simulate\) it to verify that it works as expected.
 
 **Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)

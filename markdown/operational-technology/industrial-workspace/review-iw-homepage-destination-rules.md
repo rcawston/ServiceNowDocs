@@ -21,7 +21,7 @@ Role required: configure\_industrial\_workspace
 
 ## About this task
 
-The homepage destination rules redirect users to different pages in the Industrial Workspace based on user criteria. For more information about the homepage destination rules, see [Industrial Workspace homepage destination rules](../concept/industrial-workspace-homepage-destination-rules.md).
+The homepage destination rules redirect users to different pages in the Industrial Workspace based on user criteria. For more information about the homepage destination rules, see [Industrial Workspace homepage destination rules](industrial-workspace-homepage-destination-rules.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ The homepage destination rules redirect users to different pages in the Industri
 
 The users, groups, and roles defined in the user criteria record are now automatically redirected to the selected page in the Industrial Workspace.
 
-**Parent Topic:**[Configuring the Industrial Workspace](../concept/configuring-industrial-workspace.md)
+**Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)
 

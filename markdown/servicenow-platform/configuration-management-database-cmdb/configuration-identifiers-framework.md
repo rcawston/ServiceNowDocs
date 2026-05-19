@@ -35,20 +35,20 @@ The following roles are needed in order to use the configuration identifiers fra
 -   sn\_cmdb\_ws.config\_admin: Can modify both sn\_cmdb\_ws\_config\_identifier and child config tables.
 -   sn\_cmdb\_admin: Role required to modify default config records under the default identifier or the default identifier itself.
 
-For more information about these roles, see [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md).
+For more information about these roles, see [Components installed with CMDB Workspace](installed-with-cmdb-workspace.md).
 
 ## Examples of CMDB Workspace features using the configuration identifiers framework for feature settings
 
 -   Unified Map:
-    -   [Configure how many nodes can appear on a map](../task/unified-map-cfg-max-nodes-on-maps.md)
-    -   [Configure the default or maximum number of levels on maps](../task/unified-map-cfg-levels-on-maps.md)
-    -   [Configure endpoint de-duplication on maps](../task/unified-map-cfg-endpnt-deduplicate.md)
-    -   [Configure which attributes to display in the Attributes panel](../task/unified-map-config-extended-prop.md)
-    -   [Create a class profile of visible layers for classes](../task/unified-map-config-class-profile.md)
-    -   [Configure CIs to appear based on life cycle stage value](../task/unified-map-confg-operational-state.md)
+    -   [Configure how many nodes can appear on a map](../unified-map/unified-map-cfg-max-nodes-on-maps.md)
+    -   [Configure the default or maximum number of levels on maps](../unified-map/unified-map-cfg-levels-on-maps.md)
+    -   [Configure endpoint de-duplication on maps](../unified-map/unified-map-cfg-endpnt-deduplicate.md)
+    -   [Configure which attributes to display in the Attributes panel](../unified-map/unified-map-config-extended-prop.md)
+    -   [Create a class profile of visible layers for classes](../unified-map/unified-map-config-class-profile.md)
+    -   [Configure CIs to appear based on life cycle stage value](../unified-map/unified-map-confg-operational-state.md)
 -   Create CI:
-    -   [Request additional attributes for new CIs](../task/additional-att-create-ci-workspace.md#)
-    -   [Limit the class list for new CIs created in a workspace](../task/limit-class-create-ci-workspace.md)
+    -   [Request additional attributes for new CIs](additional-att-create-ci-workspace.md#)
+    -   [Limit the class list for new CIs created in a workspace](limit-class-create-ci-workspace.md)
 
 **Parent Topic:**[Exploring CMDB Workspace](exploring-cmdb-workspace.md)
 

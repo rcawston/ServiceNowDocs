@@ -60,5 +60,5 @@ Role required: sn\_spend\_psd.agent, sn\_spend\_psd.admin
 -   Manage the article workflows, such as reviewing, publishing, updating, or retiring the article.
 -   Monitor the performance metrics of your article by navigating to **Procurement Case Management** &gt; **PSM Dashboards**.
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

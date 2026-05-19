@@ -35,5 +35,5 @@ Administrators can enable dark mode on an instance using the `glide.ui.polaris.d
 
 ## Access dark theme in the mobile UI
 
-As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [Enable dark theme](../task/enable-dark-theme.md).
+As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [Enable dark theme](enable-dark-theme.md).
 

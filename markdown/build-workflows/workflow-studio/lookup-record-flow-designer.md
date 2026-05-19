@@ -116,5 +116,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ![Example Look Up Record action in a flow.](../images/flow-example-look-up-record.png)
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

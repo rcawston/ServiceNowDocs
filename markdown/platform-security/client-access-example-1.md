@@ -84,5 +84,5 @@ sm_private_key.pem sm_public_cert.pem > sm_keypair_bundle.pem
 7.  Check the folder again to verify that the new file containing your private key \(sm\_keypair\_bundle.pem\) and public certificate has been created.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

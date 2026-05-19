@@ -92,7 +92,7 @@ Verifies if a system owner can create an Authorization Boundary by completing th
 Quebec \(compatible with Paris and Orlando\)
 
 </td></tr></tbody>
-</table>To learn more about Continuous Authorization and Monitoring, see [Continuous Authorization and Monitoring](../reference/grc-cam-landing-page.md).
+</table>To learn more about Continuous Authorization and Monitoring, see [Continuous Authorization and Monitoring](grc-cam-landing-page.md).
 
 ## About this task
 

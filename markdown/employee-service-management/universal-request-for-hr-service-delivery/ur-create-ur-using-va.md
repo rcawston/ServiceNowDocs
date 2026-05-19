@@ -29,7 +29,7 @@ Role required: none
 
 4.  Select whether your request contains sensitive information.
 
-    If your request contains sensitive information, the Virtual Agent can detect that. It can mark your request as sensitive. For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](../concept/ur-va-conversation-flows.md).
+    If your request contains sensitive information, the Virtual Agent can detect that. It can mark your request as sensitive. For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](ur-va-conversation-flows.md).
 
 5.  If prompted, select the department.
 
@@ -38,5 +38,5 @@ Role required: none
 
 A universal request is created for your issue.
 
-**Parent Topic:**[Virtual Agent for Universal Request](../concept/ur-va-landing.md)
+**Parent Topic:**[Virtual Agent for Universal Request](ur-va-landing.md)
 

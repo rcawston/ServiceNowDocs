@@ -47,5 +47,5 @@ Change Management supports the three types of service changes ITIL describes —
 **Related topics**  
 
 
-[Add a new change request type](../task/t_AddNewChangeType.md)
+[Add a new change request type](t_AddNewChangeType.md)
 

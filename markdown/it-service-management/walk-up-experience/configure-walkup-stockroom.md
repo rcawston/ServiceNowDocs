@@ -41,5 +41,5 @@ Stockrooms are separate, standalone entities in the Asset Management application
     |Manager|Person in charge of the stockroom. Receives restocking notifications and requests for the stockroom stock rules.|
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
 

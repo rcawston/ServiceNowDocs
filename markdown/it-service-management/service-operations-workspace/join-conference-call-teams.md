@@ -36,5 +36,5 @@ Role required: itil
 7.  On the **Active** card, select **Join call**.
 
 
-**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](../concept/manage-conference-calls-teams.md)
+**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](manage-conference-calls-teams.md)
 

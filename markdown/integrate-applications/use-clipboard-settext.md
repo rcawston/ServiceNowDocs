@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SetText component. For more information about these properties, see [Properties of the Clipboard components](../reference/util-clipboard-prop.md).
+You can configure the properties for the SetText component. For more information about these properties, see [Properties of the Clipboard components](util-clipboard-prop.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can configure the properties for the SetText component. For more information
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Clipboard](../concept/clipboard.md)
+**Parent Topic:**[Clipboard](clipboard.md)
 

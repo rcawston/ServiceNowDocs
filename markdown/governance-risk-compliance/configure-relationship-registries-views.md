@@ -189,6 +189,6 @@ Based on the **Order** value given the position of element in the 360º view wil
 
     ![Select a new view](../../grc-360-degree-rel-vis/image/new-view.png "Selecting a new view")
 
-    For more information on 360° views configurations, see [Configure 360º views](../../grc-360-degree-rel-vis/concept/set-up-360-data-reg.md#).
+    For more information on 360° views configurations, see [Configure 360º views](grc-360-degree-relationship-visualization/set-up-360-data-reg.md#).
 
 

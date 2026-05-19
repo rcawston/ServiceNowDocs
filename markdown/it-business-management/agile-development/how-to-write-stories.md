@@ -92,5 +92,5 @@ Acceptance criteria define the boundaries of a user story, and are used to confi
     4.  Log in as an interested party.
     5.  Check that you have received an email for the logged incident.
 
-**Parent Topic:**[Agile Development 2.0 reference](../reference/agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
 

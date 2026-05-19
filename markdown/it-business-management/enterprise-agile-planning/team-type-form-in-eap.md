@@ -71,5 +71,5 @@ Select **Enterprise agile team**.
 **Related topics**  
 
 
-[Create a custom team type in EAP](../task/create-custom-team-type-in-eap.md)
+[Create a custom team type in EAP](create-custom-team-type-in-eap.md)
 

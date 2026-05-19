@@ -53,13 +53,13 @@ Access this tool by navigating to **Customer Actions** within Security Center.
     Select a tab to view a list of actions in each category.
 
 
-For details on how to review individual Customer Actions, see [View Customer Actions](../task/view-activity-of-critical-updates.md).
+For details on how to review individual Customer Actions, see [View Customer Actions](view-activity-of-critical-updates.md).
 
-For information on how to apply the changes recommended by Customer Actions, see [Implement Customer Actions](../task/implement-steps-for-critical-updates.md).
+For information on how to apply the changes recommended by Customer Actions, see [Implement Customer Actions](implement-steps-for-critical-updates.md).
 
--   **[Implement Customer Actions](../task/implement-steps-for-critical-updates.md)**  
+-   **[Implement Customer Actions](implement-steps-for-critical-updates.md)**  
 Learn how to implement Customer Actions on your instance to increase its security posture.
--   **[View Customer Actions](../task/view-activity-of-critical-updates.md)**  
+-   **[View Customer Actions](view-activity-of-critical-updates.md)**  
 See details of all of the activity related to your Customer Actions.
 
 **Parent Topic:**[Security configuration console](homepage.md)

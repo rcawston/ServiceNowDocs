@@ -17,7 +17,7 @@ Manage and track the financials of your demands in the corporate currency, regio
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -38,7 +38,7 @@ Activate the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to
 
 ## Currency Preferences
 
-After activating the multicurrency plugin, specify your currency preference for managing your demand financials. You can select your functional currency, a regional currency, or a local currency. For more information, see [Select demand currency preference](../task/select-demand-currency.md).
+After activating the multicurrency plugin, specify your currency preference for managing your demand financials. You can select your functional currency, a regional currency, or a local currency. For more information, see [Select demand currency preference](select-demand-currency.md).
 
 ## Demand currency view
 
@@ -56,15 +56,15 @@ Track the expenses incurred while performing the demand tasks in demand currency
 
 ## Multicurrency in Demand Baseline
 
-Compare the financial baselines of your demands to track the performance of a demand over time. Baseline comparison enables you to identify and review the financial changes made to the demand at various stages of the demand life cycle. With the multicurrency feature, you can view the financial information in the demand currency when you compare the baselines. You can also configure the baseline view to add additional fields and view details in demand currency. For more information, see [Compare financial baselines of a demand](../task/compare-baselines-of-demand.md).
+Compare the financial baselines of your demands to track the performance of a demand over time. Baseline comparison enables you to identify and review the financial changes made to the demand at various stages of the demand life cycle. With the multicurrency feature, you can view the financial information in the demand currency when you compare the baselines. You can also configure the baseline view to add additional fields and view details in demand currency. For more information, see [Compare financial baselines of a demand](compare-baselines-of-demand.md).
 
--   **[Select demand currency preference](../task/select-demand-currency.md)**  
+-   **[Select demand currency preference](select-demand-currency.md)**  
 Set your currency preference to use for managing and tracking the financials of your demands from the functional currency, regional currency, or local currency.
--   **[Enable demand currency view](../task/enable-multicurrency-demand.md)**  
+-   **[Enable demand currency view](enable-multicurrency-demand.md)**  
 Switch to the demand currency view to track the planned costs of a demand in the selected currency.
--   **[Quick start tests for Multicurrency in Demand Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-ppm-demand-multicurrency.md)**  
+-   **[Quick start tests for Multicurrency in Demand Management](quick-start-tests-ppm-demand-multicurrency.md)**  
 Validate that the multicurrency in Demand Management still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
--   **[Upgrade existing demands](../task/upgrade-demand-demand-currency.md)**  
+-   **[Upgrade existing demands](upgrade-demand-demand-currency.md)**  
 Execute scheduled jobs to upgrade your existing active and inactive demands, respectively, after activating the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin.
 
 **Parent Topic:**[Configuring Demand Management](configuring-demand-management.md)

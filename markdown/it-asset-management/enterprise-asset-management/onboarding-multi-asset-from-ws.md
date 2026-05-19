@@ -20,12 +20,12 @@ As an enterprise asset technician, you should perform the following actions to i
 1.  Create an onboarding order.
 2.  Add details of the assets that you want to onboard and submit the onboarding order.
 
-The enterprise asset manager reviews and completes the activities listed in the Onboarding playbook to onboard the requested assets. For details, see [Create a multi-asset onboarding process](../task/create-multi-asset-onboarding.md).
+The enterprise asset manager reviews and completes the activities listed in the Onboarding playbook to onboard the requested assets. For details, see [Create a multi-asset onboarding process](create-multi-asset-onboarding.md).
 
--   **[Create an onboarding order for enterprise assets in the Enterprise Asset Workspace](../task/onboard-eam-assets-workspace.md)**  
+-   **[Create an onboarding order for enterprise assets in the Enterprise Asset Workspace](onboard-eam-assets-workspace.md)**  
 Create an onboarding order in the Asset operations view to initiate the onboarding of multiple enterprise assets.
--   **[Add details of the enterprise assets to an onboarding order](../task/add-eam-assets-onboard-order.md)**  
+-   **[Add details of the enterprise assets to an onboarding order](add-eam-assets-onboard-order.md)**  
 Specify the details of the enterprise assets that you want to onboard through an onboarding order.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

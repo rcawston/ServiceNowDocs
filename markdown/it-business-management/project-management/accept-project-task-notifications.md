@@ -21,7 +21,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-The **Notifications** related list on the project record lists the [external dependency](../concept/external-dependencies.md) related notifications raised in the successor project. The [notifications](../concept/external-dependency-types.md) are triggered as a result of changes made in the predecessor project that can impact successor project or task.
+The **Notifications** related list on the project record lists the [external dependency](external-dependencies.md) related notifications raised in the successor project. The [notifications](external-dependency-types.md) are triggered as a result of changes made in the predecessor project that can impact successor project or task.
 
 -   The notifications for the hard dependency have the**State** set to Processed by default.
 -   The notifications for the soft dependency have the **State** set to New by default. As the project manager of the successor project, you can choose to accept or reject the changes in the notification.

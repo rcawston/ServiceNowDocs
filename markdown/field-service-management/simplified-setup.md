@@ -24,5 +24,5 @@ Use guided setup to step through the initial Field Service Management configurat
 
 [Planning your Field Service Management implementation](planning-implementation-fsm.md)
 
-[Configuring Field Service Management using Guided Setup](../task/configuring-fsm-with-guided-setup.md)
+[Configuring Field Service Management using Guided Setup](configuring-fsm-with-guided-setup.md)
 

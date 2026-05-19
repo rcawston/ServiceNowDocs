@@ -19,7 +19,7 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## About this task
 
-Follow the [General guidelines for creating and mapping an intent](../reference/guidelines-creating-intent.md)
+Follow the [General guidelines for creating and mapping an intent](guidelines-creating-intent.md)
 
 ## Procedure
 

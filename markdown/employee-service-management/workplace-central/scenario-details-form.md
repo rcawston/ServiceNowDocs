@@ -71,7 +71,7 @@ If you select Workplace Entity as the group by option, the bars of the stack pla
 
 -   Creating or viewing a scenario based on workplace entities is supported from Workplace Space Management version 1.15.0. Workplace Entity is not supported for scenarios created in earlier versions.
 
-For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](../task/view-a-building-s-spaces-based-on-workplace-entities.md).
+For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](view-a-building-s-spaces-based-on-workplace-entities.md).
 
 
 </td></tr><tr><td>
@@ -90,7 +90,7 @@ You can select and add multiple buildings using the space selection criteria.
 Location names are displayed based on the filter conditions. Select the refresh icon \( ![Refresh icon to refresh the filter criteria and get locations for multi-building scenario.](../images/refresh-icon.png)\) to view results matching filter conditions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

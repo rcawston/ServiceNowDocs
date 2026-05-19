@@ -17,7 +17,7 @@ You can set target values for indicators that apply only to specific breakdown e
 
 Role required: pa\_target\_admin to create global targets that are visible to all users. Any user who can view an indicator on KPI Details can view targets and create personal targets. Personal targets and thresholds are visible on KPI Details only to the user that created them.
 
-A responsible user can create a global target to replace the target they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#).
+A responsible user can create a global target to replace the target they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](responsibiity-targets-kpi-details.md#).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ A responsible user can create a global target to replace the target they are res
 
 4.  If you want the target to apply to a specific time series aggregation, select the time series.
 
-    For more information about time series aggregations, see [Applying time series aggregations](../../performance-analytics/concept/applying-time-series-aggregations.md#).
+    For more information about time series aggregations, see [Applying time series aggregations](performance-analytics/applying-time-series-aggregations.md#).
 
 5.  Select the target icon \(![Target icon](../image/target-icon.png)\).
 
@@ -98,13 +98,13 @@ Finally, you decide to put your target into effect on the beginning of the next 
 
 ![Create Target dialog showing start and review dates filled in.](../image/kpi-details-target-dates.png)
 
-When you click **Save**, you create your target. For an example of what such a target looks like in KPI Details, see [Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md).
+When you click **Save**, you create your target. For an example of what such a target looks like in KPI Details, see [Indicator targets and thresholds in KPI Details](kpi-details-targets.md).
 
 ## What to do next
 
-After you create a global target, make yourself or another user responsible for maintaining the target. See [Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#).
+After you create a global target, make yourself or another user responsible for maintaining the target. See [Responsibility for indicator targets](responsibiity-targets-kpi-details.md#).
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
 
 **Related topics**  
 
@@ -117,5 +117,5 @@ After you create a global target, make yourself or another user responsible for 
 
 [Add a target to multiple breakdown elements in KPI Details](add-multiple-targets.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](responsibiity-targets-kpi-details.md#)
 

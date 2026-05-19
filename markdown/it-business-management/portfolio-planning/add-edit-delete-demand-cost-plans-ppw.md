@@ -25,7 +25,7 @@ The application automatically creates cost plan breakdown records when you save 
 
 If you want to use multiple currencies, create a cost plan for another currency.
 
-If you’re creating a cost plan for a demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, the fields in the **Financials** section differ from the Default view. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Next Experience for Demand Management reference](../reference/multicurrency-reference-in-ppw.md).
+If you’re creating a cost plan for a demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, the fields in the **Financials** section differ from the Default view. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Next Experience for Demand Management reference](multicurrency-reference-in-ppw.md).
 
 **Note:** For projects, the cost plan breakdowns specify the estimated cost and actual cost at a granular level for a fiscal period of the demand cost plan. These breakdowns are recalculated in the project currency. Similarly, the estimated breakdown amounts of the planned benefit and actual benefit of the demand benefit plans are recalculated in the project currency. The project currency amounts are then rolled up to the cost plan, benefit plan, and the project records.
 
@@ -58,7 +58,7 @@ Description
 1.  Select **New**.
 2.  On the Create New Cost Plan form, fill the fields.
 
-For a description of the field names, see [Create cost plan form](../reference/create-cost-plan-form-ppw.md).
+For a description of the field names, see [Create cost plan form](create-cost-plan-form-ppw.md).
 
 3.  Select **Save**.
 
@@ -92,7 +92,7 @@ Select the name of the cost plan, edit the required details and select **Save**.
 
 1.  Select the name of the cost plan.
 2.  Select **Cost Plan Breakdowns**.
-3.  Select **New**. For more information about the fields, see [Create cost plan breakdown form](../reference/create-cost-plan-breakdown-form-ppw.md).
+3.  Select **New**. For more information about the fields, see [Create cost plan breakdown form](create-cost-plan-breakdown-form-ppw.md).
 4.  Select **Save**.
 
 
@@ -119,9 +119,9 @@ Delete a cost plan in one of the following ways:-   Select a record from the **C
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 
-[Create cost plan form](../reference/create-cost-plan-form-ppw.md)
+[Create cost plan form](create-cost-plan-form-ppw.md)
 
-[Create cost plan breakdown form](../reference/create-cost-plan-breakdown-form-ppw.md)
+[Create cost plan breakdown form](create-cost-plan-breakdown-form-ppw.md)
 

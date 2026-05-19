@@ -32,7 +32,7 @@ To use this script include, [create a child widget](https://raw.githubuserconten
 
 The FinancialsWidgetUtil script include requires the Financials Core application \(sn\_invst\_pln\), as well as the Strategic Planning application \(sn\_apw\_advanced\) or Project Workspace application \(sn\_pw\). This script include is provided within the `sn_invst_pln` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## FinancialsWidgetUtil - FinancialsWidgetUtil\(GlideRecord investmentGr, Object timeScope, String expenseType\)
 
@@ -58,7 +58,7 @@ investmentGr
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
 </td><td>
 

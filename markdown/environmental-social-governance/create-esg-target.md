@@ -220,5 +220,5 @@ The target with metric definitions is created.
 -   **[Add a source for a target](add-a-source-for-a-target.md)**  
 After you create a target, you must add a source for the target. The source can be a metric or a metric definition that contributes to the parent target.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 

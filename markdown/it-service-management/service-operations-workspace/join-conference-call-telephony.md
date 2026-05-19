@@ -40,5 +40,5 @@ Role required: itil
     -   To join the call, select **Join call**.
     -   To leave the call, select **Leave call**.
 
-**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](../concept/telephony-sow.md)
+**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](telephony-sow.md)
 

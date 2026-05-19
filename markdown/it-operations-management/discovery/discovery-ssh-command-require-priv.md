@@ -24,7 +24,7 @@ These examples assume that the user name is **Disco**. Substitute the actual use
 
 For information on commands that don’t require elevated rights, see [SSH commands not requiring a privileged user during probe-based discovery](discovery-ssh-probe-commands.md).
 
-For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](../../service-mapping/reference/r_NonSudoCommands.md).
+For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](../service-mapping/r_NonSudoCommands.md).
 
 ## SSH key not validated
 
@@ -210,10 +210,10 @@ Gets list of process IDs \(PIDs\) with socket information.**/etc/sudoers line ex
 For each PID, gets and processes the output for S\_IFSOCK.**/etc/sudoers line example**: `Disco ALL=(root) /usr/bin/pfiles`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SSHCommand probe](../concept/c_SSHCommandProbe.md)
+</table>**Parent Topic:**[SSHCommand probe](c_SSHCommandProbe.md)
 
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 

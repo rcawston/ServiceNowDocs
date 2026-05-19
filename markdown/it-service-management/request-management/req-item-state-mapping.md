@@ -56,5 +56,5 @@ If you change the state of the request to Close Incomplete, Closed Skipped, or C
     For more information, see [State mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-state-mapping-form.md).
 
 
-**Parent Topic:**[Request Management integration with Universal Request](../concept/request-mgmt-integration-ur.md)
+**Parent Topic:**[Request Management integration with Universal Request](request-mgmt-integration-ur.md)
 

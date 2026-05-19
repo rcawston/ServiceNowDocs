@@ -114,5 +114,5 @@ Corresponding icon for each status. The icons are displayed only on the Manager 
         -   Value &gt; Upper Threshold \(Critical\): Exceeded &lt;Upper Threshold Value&gt;
         -   Lower Threshold \(Critical\) &lt; Value &lt; Upper Threshold \(Critical\): Approaching &lt;Upper Threshold Value&gt;
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](setup-teams-configurable-workforce-optimization-itsm.md)
 

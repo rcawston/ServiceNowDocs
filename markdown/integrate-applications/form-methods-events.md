@@ -103,5 +103,5 @@ Provides visual feedback in the form as a progress bar. Set the percentage of th
 **Related topics**  
 
 
-[Create an attended automation form in RPA Desktop Design Studio](../task/create-rda-form.md)
+[Create an attended automation form in RPA Desktop Design Studio](create-rda-form.md)
 

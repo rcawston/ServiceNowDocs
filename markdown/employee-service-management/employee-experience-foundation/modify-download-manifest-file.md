@@ -39,7 +39,7 @@ Role required:external\_app\_install\_admin
 
     4.  **Unfurl Links**: Option to unfurl the links in Microsoft Teams.
 
-        Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md).
+        Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](enable-link-unfurling.md).
 
     5.  **Short description**: Short description about the manifest file.
 
@@ -90,5 +90,5 @@ Role required:external\_app\_install\_admin
 
 You must upload the manifest file in Microsoft Teams. For more information, refer [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
 
-**Parent Topic:**[Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD](../concept/ec-teams-va-integration-gcch.md)
+**Parent Topic:**[Integrating Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD](ec-teams-va-integration-gcch.md)
 

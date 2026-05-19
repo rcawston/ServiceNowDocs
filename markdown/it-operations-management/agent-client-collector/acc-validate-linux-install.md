@@ -73,5 +73,5 @@ Role required: agent\_client\_collector\_admin
     ![Linux agents Up status](../image/acc-linux-agents-up.png "Linux agents - green status")
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 

@@ -27,11 +27,11 @@ Role required: sn\_jny.admin
 
 2.  Configure a lifecycle event activity set.
 
-    For more information, see [Configure a lifecycle event activity set](configure-hr-lifecycle-event-activity-set.md).
+    For more information, see [Configure a lifecycle event activity set](../lifecycle-events/configure-hr-lifecycle-event-activity-set.md).
 
 3.  Configure a lifecycle event activity.
 
-    While creating a lifecycle activity, make sure you select **Activity Type** as **Employee**, **Employee Activity** as **Learning task**, and **HR Template** as any learning template task. For more information, see [Configure a lifecycle event activity](configure-hr-lifecycle-event-activity.md#).
+    While creating a lifecycle activity, make sure you select **Activity Type** as **Employee**, **Employee Activity** as **Learning task**, and **HR Template** as any learning template task. For more information, see [Configure a lifecycle event activity](../lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 
     When the lifecycle event is triggered, a learning task is created and assigned to the subject person of the case.
 
@@ -39,5 +39,5 @@ Role required: sn\_jny.admin
 -   **[Create a learning template](ln-templates.md)**  
 Create a learning template to simplify the process of creating learning tasks by populating fields automatically.
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

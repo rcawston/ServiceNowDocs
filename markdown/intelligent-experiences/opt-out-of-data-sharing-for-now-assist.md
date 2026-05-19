@@ -22,7 +22,7 @@ If you do not have a data steward, see [Assign the data steward role](assign-dat
 
 Role required: sn\_generative\_ai.data\_steward
 
-**Note:** The **Opt out** button appears only if you’ve installed at least one Now Assist application or plugin. For a list of all Now Assist applications, see [Exploring Now Assist Admin](../../now-assist-platform/concept/exploring-now-assist-platform.md).
+**Note:** The **Opt out** button appears only if you’ve installed at least one Now Assist application or plugin. For a list of all Now Assist applications, see [Exploring Now Assist Admin](exploring-now-assist-platform.md).
 
 ## About this task
 
@@ -55,5 +55,5 @@ Opting out can take up to five business days to process.
 
 Your data sharing preference is saved on the instance. If you want to opt back in to data sharing, you must consult with your account executive.
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](now-assist-data-sharing-and-processes.md)
 

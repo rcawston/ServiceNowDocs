@@ -182,5 +182,5 @@ You can view these questionnaire templates by navigating to **All** &gt; **Third
 |Element - Beneficial Owner Info. Collection- Sample| |Third-party element collection|Questionnaire template|
 |Gen AI - Sample Questionnaire| | |Questionnaire template|
 
-**Parent Topic:**[Third-party Risk Management reference](../../grc-vendor-risk/concept/tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
 

@@ -17,7 +17,7 @@ View your hardening compliance score, compare it with previous scores, and chang
 
 ![Hardening score comparison page](../images/sec-center-hardening.png)
 
-[Hardening settings](../reference/security-hardening-settings.md) specify recommended values for the security-related properties and plugins in the ServiceNow AI Platform. The hardening tool calculates the hardening setting compliance score as a percentage. This number indicates how compliant your instance is with the Security Center hardening settings.
+[Hardening settings](../instance-security-hardening-settings/security-hardening-settings.md) specify recommended values for the security-related properties and plugins in the ServiceNow AI Platform. The hardening tool calculates the hardening setting compliance score as a percentage. This number indicates how compliant your instance is with the Security Center hardening settings.
 
 The formula for calculating the hardening compliance score:
 

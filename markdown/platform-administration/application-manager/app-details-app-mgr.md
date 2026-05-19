@@ -89,9 +89,9 @@ Not licensed
 
 This dependency must be procured from the ServiceNow Store before it can be installed. Select the dependency and review any application state indicators for additional details.
 
- For more information about application state indicators, see [Application state indicators in Application Manager](../reference/app-mgr-state-indicators.md).
+ For more information about application state indicators, see [Application state indicators in Application Manager](app-mgr-state-indicators.md).
 
- For more information about procuring applications, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+ For more information about procuring applications, see [Getting apps and trials from the ServiceNow Store](../getting-apps-trials.md).
 
 </td></tr></tbody>
 </table>

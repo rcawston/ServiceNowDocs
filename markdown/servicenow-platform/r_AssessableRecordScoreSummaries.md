@@ -17,5 +17,5 @@ The summary displays the assessable record's average score for each category in 
 
 ![Bubble chart score summary](../image/BubbleChartScoreSummary.png "Bubble chart score summary")
 
-**Parent Topic:**[View a bubble chart for assessments](../task/t_view-bubble-chart-assessments.md)
+**Parent Topic:**[View a bubble chart for assessments](t_view-bubble-chart-assessments.md)
 

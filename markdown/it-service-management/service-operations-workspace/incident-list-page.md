@@ -77,5 +77,5 @@ Displays the count of the number of records in a list as &lt;integer+&gt;. You c
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)
 

@@ -21,7 +21,7 @@ Role required: sam
 
 ## About this task
 
-Depending on the [license type](../reference/r_LicenseCalculationTypes.md) you select for a counter, multiple installations can count as a single license, such as when using the per user license type. This licensing concept is used on occasion by companies like Microsoft and Adobe. It grants users the right to install software on multiple machines if those users already have rights to install the software.
+Depending on the [license type](r_LicenseCalculationTypes.md) you select for a counter, multiple installations can count as a single license, such as when using the per user license type. This licensing concept is used on occasion by companies like Microsoft and Adobe. It grants users the right to install software on multiple machines if those users already have rights to install the software.
 
 **Note:** You can [create new counters](t_CreatingNewModels.md) from Discovery model records or from the list view.
 
@@ -147,7 +147,7 @@ Verify entitlements
 
 </td><td>
 
-Select the check box to view the software entitlement details for the software counter. Results include the number of installations of all types: not entitled, entitled in use, entitled not in use, and not allocated. For more information, see [Setting Up Quick Counters](../concept/c_SetUpQuickCounters.md).
+Select the check box to view the software entitlement details for the software counter. Results include the number of installations of all types: not entitled, entitled in use, entitled not in use, and not allocated. For more information, see [Setting Up Quick Counters](c_SetUpQuickCounters.md).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Generate details
 
 </td><td>
 
-Select the check box to generate the details of the entitlement records. For more information, see [Setting Up Quick Counters](../concept/c_SetUpQuickCounters.md).
+Select the check box to generate the details of the entitlement records. For more information, see [Setting Up Quick Counters](c_SetUpQuickCounters.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ License type
 
 \[Required\] Select the method for counting licenses. For example, Per named user or Per workstation.
 
- For more information, see [License Calculation Types](../reference/r_LicenseCalculationTypes.md).
+ For more information, see [License Calculation Types](r_LicenseCalculationTypes.md).
 
 </td></tr><tr><td>
 
@@ -241,5 +241,5 @@ Displays all software counter history records for this software counter. Each ti
 </table>    **Note:** A message is displayed at top of the software counter form indicating if a license count is in progress. Reload the form to view the counter results.
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

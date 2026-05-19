@@ -72,40 +72,40 @@ Select **Approve**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Employee Center](../../employee-center/concept/using-emp-center.md)
+**Parent Topic:**[Using Employee Center](using-emp-center.md)
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 
 **Related topics**  
 
 
-[Use the Employee Center topic pages](../../employee-center/concept/ec-topic-use.md)
+[Use the Employee Center topic pages](ec-topic-use.md)
 
-[Topic managers and contributors for topic page management](../../employee-center/concept/topic-managers-and-contributors-for-topic-page-management.md)
+[Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)
 
-[Use the My To-dos page](../../employee-center/task/ec-to-dos-use.md)
+[Use the My To-dos page](ec-to-dos-use.md)
 
-[Use approval experience](../../employee-center/task/ec-to-dos-use-approval-hub.md)
+[Use approval experience](ec-to-dos-use-approval-hub.md)
 
 [Manage approvals from a Microsoft Outlook email](../../sn-ms-outlook/task/oam-concur.md)
 
-[Task filters on My tasks](../../employee-center/concept/configurable-filters-experience.md)
+[Task filters on My tasks](configurable-filters-experience.md)
 
-[View the Recommended for you content](../../employee-center/concept/rfy-employee.md)
+[View the Recommended for you content](rfy-employee.md)
 
-[Use Employee Center from Zoom](../../employee-center/task/zoom-create-email-notification.md)
+[Use Employee Center from Zoom](zoom-create-email-notification.md)
 
-[View employee profile](../../employee-center/concept/update-employee-profile.md)
+[View employee profile](update-employee-profile.md)
 
-[Use Personalized Answers](../../employee-center/concept/using-personalized-search-on-employee-center.md)
+[Use Personalized Answers](using-personalized-search-on-employee-center.md)
 
-[Employee Profile org chart widget](../../employee-center/task/view-org-chart.md)
+[Employee Profile org chart widget](view-org-chart.md)
 
-[RTL support for Employee Center](../../employee-center/concept/ec-rtl-language-support.md)
+[RTL support for Employee Center](ec-rtl-language-support.md)
 
-[Manage favorites](../../employee-center/task/web-configure-favorites-employee.md)
+[Manage favorites](web-configure-favorites-employee.md)
 
-[Access applications from App Launcher](../../employee-center/concept/web-application-employee.md)
+[Access applications from App Launcher](web-application-employee.md)
 
-[Use Guided Self-Service](../../employee-center/concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

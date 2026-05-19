@@ -32,7 +32,7 @@ By default, Contextual Search Suggestions results that appear use the domain of 
 
 ## Search as a different user
 
-In addition to being able to search for results using the domain of the logged-in user, the administrator can also configure Contextual Search to [Search as a different user](../task/t_SearchAsDifferentUser.md) .
+In addition to being able to search for results using the domain of the logged-in user, the administrator can also configure Contextual Search to [Search as a different user](t_SearchAsDifferentUser.md) .
 
 When **Search as** is configured, two tabs appear in the search results:
 
@@ -57,5 +57,5 @@ Example: The same Incident displaying search results for the user from the **Cal
 **Related topics**  
 
 
-[Enable viewing of search results for the current and another selected user](../task/t_SearchAsDifferentUser.md)
+[Enable viewing of search results for the current and another selected user](t_SearchAsDifferentUser.md)
 

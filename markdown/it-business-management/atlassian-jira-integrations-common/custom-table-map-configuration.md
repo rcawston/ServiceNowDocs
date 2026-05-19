@@ -101,5 +101,5 @@ Display name of the table in Jira.
 4.  If you want to support import and export of attachments for this new table map, see [Allow import and export of attachments on a custom Agile Development 2.0 table](jira-allow-import-and-export-of-attachments-on-custom-table-maps.md).
 5.  If you want to enable display of fields that reference Jira identifiers in your custom table map, see [Populate Jira project identifier reference fields for Agile Development 2.0 custom table](jira-populate-external-identifier-reference-fields-on-a-custom-table.md).
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 

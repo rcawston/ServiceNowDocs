@@ -49,5 +49,5 @@ Role required: pa\_data\_collector or admin
 
 ## What to do next
 
-Manually refresh the indicators on the Virtual Machine Explorer dashboard to populate the Virtual machines with server CI and Virtual machines with no deep dive discovery reports, enabling you to view relevant data and trends. For more information, see [Virtual Machine Explorer dashboard](../concept/vm-explorer.md).
+Manually refresh the indicators on the Virtual Machine Explorer dashboard to populate the Virtual machines with server CI and Virtual machines with no deep dive discovery reports, enabling you to view relevant data and trends. For more information, see [Virtual Machine Explorer dashboard](vm-explorer.md).
 

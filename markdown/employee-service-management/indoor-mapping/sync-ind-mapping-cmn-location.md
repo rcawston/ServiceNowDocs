@@ -24,7 +24,7 @@ Role required: admin
 1.  Make sure that you have configured Indoor Mapping locations, floor plan, and map object:
 
     -   Add campus, building, and floors in Map studio. For more information, see [Create a campus with buildings and floors](create-a-campus-building-and-floor.md).
-    -   Add floor plan to a floor. For more information, see and [Manage CAD source files](../concept/manage-autocad-files.md).
+    -   Add floor plan to a floor. For more information, see and [Manage CAD source files](manage-autocad-files.md).
     -   Add places in Map studio. For more information, see [Manage places](manage-buildings.md)
     -   Enable the Default view in the Indoor Mapping Map studio. In the Indoor Mapping select **View editor** &gt; **Default**. Select **All content**.
 
@@ -45,7 +45,7 @@ Role required: admin
     -   City: Address of the campus.
     -   State/Province: Stat where the campus resides.
     -   Country: Country where the campus is located.
-    -   Parent: Parent-child hierarchy. For example, Campus is the Parent and Buildings belonging to a Campus will be the child. For more information, see [Configure location migration hierarchy](../../workplace-service-delivery/task/add-location-migration-hierarchy.md).
+    -   Parent: Parent-child hierarchy. For example, Campus is the Parent and Buildings belonging to a Campus will be the child. For more information, see [Configure location migration hierarchy](../workplace-core/add-location-migration-hierarchy.md).
     -   Latitude: Latitude coordinates of a campus location.
     -   Longitude: Longitude coordinates of a campus location.
 6.  Select **Submit**.
@@ -201,9 +201,9 @@ Role required: admin
 31. After adding the places or locations in Indoor Mapping Map Studio, synchronize the places with CMN locations for a building or campus.
 
 
-**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](../concept/sync-cmn-location.md)
+**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](sync-cmn-location.md)
 
 **Previous topic:**[Add CMN locations and map it to Indoor Mapping Place types](enable-cmn-location-types.md)
 
-**Next topic:**[Using enhanced synchronization](../concept/using-enhanced-sync.md)
+**Next topic:**[Using enhanced synchronization](using-enhanced-sync.md)
 

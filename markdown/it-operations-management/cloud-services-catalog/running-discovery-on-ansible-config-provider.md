@@ -48,5 +48,5 @@ Role required: none
 
 You’re all set to take the next steps to order an Ansible item.
 
-**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](../concept/integrating-ansible-with-cloud-services-catalog.md)
+**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](integrating-ansible-with-cloud-services-catalog.md)
 

@@ -27,7 +27,7 @@ In the Alert Management Rule record, the Alert Executions list shows key related
 
 The columns in the Alert Executions list are populated with details of the alerts that matched the alert management rule and the actions that ran. The listed alerts match the filter in the rule.
 
--   **[View alert execution information](../task/view-alert-execution-information.md)**  
+-   **[View alert execution information](view-alert-execution-information.md)**  
 You can click any link in the Alert Executions list to view the alert execution information of the referenced item. This information appears in the Alert Management Rule record only after an alert matched the filter in the rule and an action was performed.
 
 **Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)

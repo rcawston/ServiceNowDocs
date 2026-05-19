@@ -76,5 +76,5 @@ cti_core:: P:c4bae70xxxxf6a9a|C:bxxxx44|T:793cxxxx7b|O:6fb1xxxx4006dabb45vc::CTX
 -   T: Transformer
 -   O: Operation handler
 
-**Parent Topic:**[Setting up ServiceNow Voice](../concept/ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
 

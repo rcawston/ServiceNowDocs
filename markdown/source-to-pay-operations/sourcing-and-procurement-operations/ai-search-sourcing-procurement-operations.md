@@ -33,7 +33,7 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
     -   **Search Sources**: Along with the default search sources, **Supplier** and **Purchasing** are provided on EC and Service Portal for Sourcing and Procurement Operations, so that the applications are capable of searching through suppliers and supplier products for purchasing as well. For the PSM-specific Shopping Hub search application however, only the **Purchasing** search source is available, allowing you to search only for supplier products. These search sources are rendered as separate tabs when you search on these applications, and are listed under **Navigation Tabs**.
 
-        **Note:** You can find more information on reviewing and updating your search sources [here](../task/review-update-search-sources.md).
+        **Note:** You can find more information on reviewing and updating your search sources [here](review-update-search-sources.md).
 
     -   **Synonyms**
     -   **Stop Words**
@@ -84,7 +84,7 @@ For more information, see [AI Search](https://raw.githubusercontent.com/ServiceN
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 

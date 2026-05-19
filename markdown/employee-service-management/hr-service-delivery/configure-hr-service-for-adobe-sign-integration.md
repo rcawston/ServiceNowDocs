@@ -195,5 +195,5 @@ Option for enabling or disabling a field mapping.
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](integrating-with-adobe-sign-service.md)
 

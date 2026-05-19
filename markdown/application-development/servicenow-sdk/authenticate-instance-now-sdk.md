@@ -19,9 +19,9 @@ You can use basic or OAuth 2.0 credentials to authenticate to an instance. To us
 
 After authenticating to an instance with the ServiceNow SDK command-line interface \(CLI\), you can begin developing applications and installing them on your instance. A non-production instance should be used for application development.
 
--   **[Authenticate to a ServiceNow instance using basic authentication with the ServiceNow SDK](../task/authenticate-instance-basic-auth.md)**  
+-   **[Authenticate to a ServiceNow instance using basic authentication with the ServiceNow SDK](authenticate-instance-basic-auth.md)**  
 Use basic authentication to connect to a ServiceNow instance with the ServiceNow SDK.
--   **[Authenticate to a ServiceNow instance using OAuth 2.0 with the ServiceNow SDK](../task/authenticate-instance-oauth.md)**  
+-   **[Authenticate to a ServiceNow instance using OAuth 2.0 with the ServiceNow SDK](authenticate-instance-oauth.md)**  
 Use OAuth 2.0 authentication to connect to a ServiceNow instance with the ServiceNow SDK.
 
 **Parent Topic:**[ServiceNow SDK](servicenow-sdk-landing.md)

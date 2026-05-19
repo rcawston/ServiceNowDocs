@@ -63,12 +63,12 @@ Use Project Workspace to create a group and associate it to your resource assign
 -   **[Create an attribute-based resource assignment](create-attribute-resource-assignment.md)**  
 Create an attribute-based resource assignment in Project Workspace. You can pre-define attributes based on your requirement.
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[New Resource Assignment form](../../resource-management-workspace/concept/create-ra-form-rmw.md)
+[New Resource Assignment form](../resource-management/create-ra-form-rmw.md)
 
 [Delete a resource assignment from Project Workspace](delete-resource-assignment-pw.md)
 

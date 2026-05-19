@@ -15,7 +15,7 @@ breadcrumb: [Employee Travel Safety, Safe Workplace, Health and Safety, Employee
 
 Complete all configuration tasks to ensure that travel notifications and approvals are set up correctly for your company.
 
-**Parent Topic:**[Employee Travel Safety](../concept/employee-travel-safety.md)
+**Parent Topic:**[Employee Travel Safety](employee-travel-safety.md)
 
 ## Set up travel approvers
 
@@ -114,7 +114,7 @@ Enables outreach to relevant employees about travel-related health verifications
 
 </td><td>
 
-When enabled, employees who are approved for travel receive notifications to complete a health verification. To set the frequency of the notifications, select a value for the **sn\_imt\_travel.health.verification.run.type** property. For more information about employee health verification, see [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md).
+When enabled, employees who are approved for travel receive notifications to complete a health verification. To set the frequency of the notifications, select a value for the **sn\_imt\_travel.health.verification.run.type** property. For more information about employee health verification, see [Employee Health Screening](../safe-workplace/employee-health-screening.md).
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Enables outreach to traveling employees about their daily travel contacts.\[sn\_
 
 </td><td>
 
-When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the Contact Tracing and Emergency Outreach applications. For more information about contact logs, see [Contact Tracing](../../contact-tracing/concept/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
+When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the Contact Tracing and Emergency Outreach applications. For more information about contact logs, see [Contact Tracing](../contact-tracing/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
 
 </td></tr></tbody>
 </table>3.  Click **Save**.

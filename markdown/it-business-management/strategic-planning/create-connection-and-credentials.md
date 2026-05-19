@@ -38,7 +38,7 @@ This task is performed for Jira Server/Data Center type instances only. For Jira
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Create Connection &amp; Credential form](../reference/create-connection-credential-form.md).
+    For field information, see [Create Connection &amp; Credential form](create-connection-credential-form.md).
 
 6.  Select **Create**.
 
@@ -47,5 +47,5 @@ This task is performed for Jira Server/Data Center type instances only. For Jira
 
 [Create Jira instance for SPW Jira Integrations](create-jira-instance.md).
 
-**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](../concept/setting-up-jira-instance-spw.md)
+**Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](setting-up-jira-instance-spw.md)
 

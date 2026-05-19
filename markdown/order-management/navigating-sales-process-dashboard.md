@@ -28,7 +28,7 @@ The hierarchical node map visually represents the relationships of sales entitie
 |Delink|Delete child record and its hierarchy. To delink a record, select a link connecting a parent node and its child nodes you no longer want to monitor, and select **Delink**.|
 |Hard link|Enables you to convert soft links to hard links and vice versa. To convert a link, select it and select the **Hard link** toggle switch.|
 
-By default, only three levels are displayed on the node map when you open a sales process record in the CSM Configurable Workspace. Admins can increase or decrease the number of levels displayed. For more information, see [Customize hierarchical node map levels for Lead-to-Cash Process Management](../task/customize-node-map-levels.md).
+By default, only three levels are displayed on the node map when you open a sales process record in the CSM Configurable Workspace. Admins can increase or decrease the number of levels displayed. For more information, see [Customize hierarchical node map levels for Lead-to-Cash Process Management](customize-node-map-levels.md).
 
 Only 250 nodes can be displayed on the node map at a time. If you have more than 250 nodes, collapse some nodes and then expand and view the other nodes.
 
@@ -47,13 +47,13 @@ Related lists configured in the Sales cockpit view in Next Experience UI govern 
 
 [Monitoring and tracking sales activities](monitor-track-sales-activities.md)
 
-[Create and manage task checklists](../task/create-checklists-l2c-process-management.md)
+[Create and manage task checklists](create-checklists-l2c-process-management.md)
 
-[Add attachments for a sales process record](../task/add-attachments-sales-process.md)
+[Add attachments for a sales process record](add-attachments-sales-process.md)
 
-[Manage attachments for a sales process record](../task/manage-attachments-l2c-process-management.md)
+[Manage attachments for a sales process record](manage-attachments-l2c-process-management.md)
 
-[View and send emails in Lead-to-Cash Process Management](../task/view-send-emails-sales-process.md)
+[View and send emails in Lead-to-Cash Process Management](view-send-emails-sales-process.md)
 
 [Linking, delinking, and link conversion conditions](conditions-link-delink-toggle-records.md)
 

@@ -41,22 +41,22 @@ There are several approaches for discovering AWS environments.
 
 1.  Cloud metadata discovery: Provides a high-level view of the AWS cloud infrastructure.
 2.  Cloud OS-Level discovery: Provides a deeper level of discovery that indicates the state of the AWS cloud resources, such as installed software, active services, running processes, and system configurations.
-3.  Event‑driven cloud discovery: Tracks changes in the life-cycle state or the configuration of AWS cloud resources. For more information, see [AWS events-driven discovery](../../it-operations-management/concept/aws-events-driven-discovery.md)
+3.  Event‑driven cloud discovery: Tracks changes in the life-cycle state or the configuration of AWS cloud resources. For more information, see [AWS events-driven discovery](aws-events-driven-discovery.md)
 4.  Collecting data with AWS Systems Manager: Provides a streamlined, agent-based approach to discovering Amazon Elastic Compute Cloud \(EC2\). For more information, see [AWS SSM discovery](aws-ssm-discovery.md)
-5.  Collecting data with Agent Client Collector \(ACC-VC\): Performs horizontal IP-based discovery for OS-related attributes such as system configurations, network interfaces, and running process. For more information, see [Agent Client Collector Discovery](../../agent-client-collector/concept/acc-discovery.md).
-6.  Collecting data with Service Graph Connectors: Imports and integrates AWS data into CMDB and non-CMDB tables. Specializes in collecting the data for AWS Organizations. For more information, see [AWS discovery solutions comparison](../../it-operations-management/reference/aws-discovery-methods.md) and [Service Graph Connector for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-aws-sg.md).
+5.  Collecting data with Agent Client Collector \(ACC-VC\): Performs horizontal IP-based discovery for OS-related attributes such as system configurations, network interfaces, and running process. For more information, see [Agent Client Collector Discovery](../agent-client-collector/acc-discovery.md).
+6.  Collecting data with Service Graph Connectors: Imports and integrates AWS data into CMDB and non-CMDB tables. Specializes in collecting the data for AWS Organizations. For more information, see [AWS discovery solutions comparison](aws-discovery-methods.md) and [Service Graph Connector for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-integration-aws-sg.md).
 
-For comparison of AWS cloud discovery methods and requirements, see [AWS cloud discovery methods and use cases](../../it-operations-management/reference/aws-discovery-methods-use-case.md)
+For comparison of AWS cloud discovery methods and requirements, see [AWS cloud discovery methods and use cases](aws-discovery-methods-use-case.md)
 
 ## How to perform AWS cloud discovery
 
 Multiple ITOM Visibility apps can collect \(or discover\) your data, visualize it, and help you monitor your AWS resources.
 
 -   [Discovery Admin Workspace](discovery-admin-workspace.md)
--   [Discovery for Amazon Elastic Kubernetes Service \(EKS\)](../../service-mapping/concept/kubernetes-discovery.md)
--   [Service Mapping](../../service-mapping/concept/cloud-discovery-service-mapping.md)
--   [Discovery and Service Mapping Patterns](../reference/data-discovered-aws-patterns.md)
--   [Certificate Inventory and Management](../../service-mapping/reference/aws-certificate-manager-discovery-pattern.md)
+-   [Discovery for Amazon Elastic Kubernetes Service \(EKS\)](kubernetes-discovery.md)
+-   [Service Mapping](../service-mapping/cloud-discovery-service-mapping.md)
+-   [Discovery and Service Mapping Patterns](../discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
+-   [Certificate Inventory and Management](aws-certificate-manager-discovery-pattern.md)
 
 Enabling Discovery or other Visibility solutions to access your AWS infrastructure depends on roles and permissions configured both in AWS and in ServiceNow AI Platform. The discovery process requires configuration within AWS, like setting up Identity and Access Management roles.
 
@@ -66,7 +66,7 @@ Enabling Discovery or other Visibility solutions to access your AWS infrastructu
 |AWS account root user|Has complete access to all AWS services and resources in the account.|
 |IAM users/IAM user group|Has access to specific resources and services based on IAM roles or temporary access based on assumed roles.|
 
-For more information, see [Access to cloud environments for ITOM products](../../it-operations-management/reference/accessing-cloud-itom.md)
+For more information, see [Access to cloud environments for ITOM products](../accessing-cloud-itom.md)
 
 In the ServiceNow AI Platform side, there are user configurations needed if you choose to use Discovery.
 

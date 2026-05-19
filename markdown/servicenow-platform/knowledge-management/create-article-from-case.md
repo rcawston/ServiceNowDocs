@@ -17,7 +17,7 @@ Reuse information from a customer service case by creating knowledge articles fr
 
 ## Before you begin
 
-Your administrator must [enable creation of articles from customer service cases](../concept/administer-create-article-from-case.md).
+Your administrator must [enable creation of articles from customer service cases](administer-create-article-from-case.md).
 
 Role required: sn\_customerservice\_agent or knowledge
 
@@ -36,5 +36,5 @@ Role required: sn\_customerservice\_agent or knowledge
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

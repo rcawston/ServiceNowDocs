@@ -93,7 +93,7 @@ Cost type
 
 </td><td>
 
-Select the [cost type](../task/t_CreateAResourceTypeDefinition.md).
+Select the [cost type](t_CreateAResourceTypeDefinition.md).
 
 </td></tr><tr><td>
 
@@ -129,5 +129,5 @@ Select the records for the sources of the expense line. These sources include:- 
 </table>**Related topics**  
 
 
-[Create an expense line](../task/t_CreateAExpenseLine.md)
+[Create an expense line](t_CreateAExpenseLine.md)
 

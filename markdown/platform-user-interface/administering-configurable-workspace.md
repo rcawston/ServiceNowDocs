@@ -13,7 +13,7 @@ breadcrumb: [Configurable Workspace UI, Configure UIs and portals, Configure use
 
 Admins can enable additional features and make changes that affect the Configurable Workspace experience.
 
--   **[Open an experience in UI Builder](../../workspace/task/open-your-configurable-workspace-experience-in-ui-builder.md)**
+-   **[Open an experience in UI Builder](open-your-configurable-workspace-experience-in-ui-builder.md)**
 
     Access your Configurable Workspace experience in UI Builder for editing.
 

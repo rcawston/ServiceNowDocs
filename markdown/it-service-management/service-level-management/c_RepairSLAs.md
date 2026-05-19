@@ -31,11 +31,11 @@ You can repair single SLAs from the relevant form or multiple SLAs from relevant
 
 You can also configure and manage SLA repair functions.
 
--   **[Configure SLA repair](../reference/r_ManageSLARepair.md)**  
+-   **[Configure SLA repair](r_ManageSLARepair.md)**  
 Administrators can set SLA repair properties and view repair logs.
--   **[Repair SLA from a form](../task/t_RepairSLAFromAForm.md)**  
+-   **[Repair SLA from a form](t_RepairSLAFromAForm.md)**  
 You can repair task SLA records from the Task form, or from the task SLA form for an SLA associated to a Task.
--   **[Repair SLAs from a list](../task/t_RepairSLAFromAList.md)**  
+-   **[Repair SLAs from a list](t_RepairSLAFromAList.md)**  
 You can repair multiple SLA records from a list of task or SLA records.
 
 **Parent Topic:**[Using Service Level Management](using-service-level-management.md)

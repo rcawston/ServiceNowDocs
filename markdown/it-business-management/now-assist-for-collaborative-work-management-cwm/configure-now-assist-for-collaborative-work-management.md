@@ -51,7 +51,7 @@ Use the Now Assist Admin console to activate the following skills of Now Assist 
 
 4.  Review the skill configuration settings from the following sections.
 
-    To edit the inputs, switch your application scope to **Now Assist for Collaborative Work Management \(CWM\)**. For more information on these inputs, see [Skill inputs for Now Assist for Collaborative Work Management \(CWM\)](../reference/skill-inputs-now-assist-for-cwm.md).
+    To edit the inputs, switch your application scope to **Now Assist for Collaborative Work Management \(CWM\)**. For more information on these inputs, see [Skill inputs for Now Assist for Collaborative Work Management \(CWM\)](skill-inputs-now-assist-for-cwm.md).
 
     **Note:** The display options are available based on the skill.
 
@@ -87,7 +87,7 @@ If you have custom roles that require access to a skill, update the ACLs for tho
 **Related topics**  
 
 
-[Supporting information for Now Assist for Collaborative Work Management \(CWM\)](../reference/supporting-information-now-assist-for-cwm.md)
+[Supporting information for Now Assist for Collaborative Work Management \(CWM\)](supporting-information-now-assist-for-cwm.md)
 
-[Skill inputs for Now Assist for Collaborative Work Management \(CWM\)](../reference/skill-inputs-now-assist-for-cwm.md)
+[Skill inputs for Now Assist for Collaborative Work Management \(CWM\)](skill-inputs-now-assist-for-cwm.md)
 

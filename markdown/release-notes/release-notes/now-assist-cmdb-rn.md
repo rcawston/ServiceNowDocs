@@ -14,7 +14,7 @@ The ServiceNow® Now Assist for Configuration Management Database \(CMDB\) appli
 
 ## Now Assist for CMDB highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md) The ServiceNow AI Platform now brings you an AI native experience with three licensing tiers available.
+[Australia Patch 1](../australia-patch-1.md) The ServiceNow AI Platform now brings you an AI native experience with three licensing tiers available.
 
 -   Compare your current manual \(static\) IRE processes with AI-powered Dynamic IRE.
 
@@ -71,5 +71,5 @@ To enable Now Assist to provide detailed descriptions of CIs and classes, you mu
 
 Install Now Assist for CMDB by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

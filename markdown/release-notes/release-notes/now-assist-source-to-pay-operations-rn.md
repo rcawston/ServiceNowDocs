@@ -86,5 +86,5 @@ Install for Now Assist for Sourcing and Procurement Operations \(SPO\), Now Assi
     Now Assist for Purchase Order Management \(POM\) \[sn\_poem\_gen\_ai\]: Automates purchase order exception creation and suggests mitigation strategies for order-related issues, helping buyers resolve disruptions quickly and keep procurement operations on track.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

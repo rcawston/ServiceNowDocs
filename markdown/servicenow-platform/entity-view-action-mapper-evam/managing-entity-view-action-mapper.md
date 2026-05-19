@@ -17,15 +17,15 @@ Optimize data presentation and interaction by defining data sources, creating En
 
 ## Overview of managing EVAM
 
--   [Define a data source](../task/define-evam-datasource.md)
+-   [Define a data source](define-evam-datasource.md)
 
     Specify a data source.
 
--   [Define an EVAM configuration bundle](../task/define-view-configuration-bundle.md)
+-   [Define an EVAM configuration bundle](define-view-configuration-bundle.md)
 
     Create a view configuration to combine conditions, database fields, and declarative actions with an associated view template.
 
--   [Define an EVAM view template](../task/define-evam-template.md)
+-   [Define an EVAM view template](define-evam-template.md)
 
     Configure view templates to customize data display for users, mapping fields from the view configuration to the component.
 

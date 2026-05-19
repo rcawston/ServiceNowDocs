@@ -43,7 +43,7 @@ In the Legal Counsel Center, users in the Legal department with the legal\_fulfi
     -   Transfer the chat to another queue.
     -   Send attachments to the chat.
 
--   **[Configure live agent support settings for legal services](../task/set-up-live-agent-support.md)**  
+-   **[Configure live agent support settings for legal services](set-up-live-agent-support.md)**  
 Configure settings to enable live agent support for legal services.
 
 **Parent Topic:**[Legal Virtual Agent Conversations](legal-va-conversations.md)
@@ -51,5 +51,5 @@ Configure settings to enable live agent support for legal services.
 **Related topics**  
 
 
-[Start a chat session through Legal Counsel Center Inbox](../task/chat-employee-counsel-center.md)
+[Start a chat session through Legal Counsel Center Inbox](chat-employee-counsel-center.md)
 

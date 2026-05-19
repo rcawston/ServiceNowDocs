@@ -75,7 +75,7 @@ This example shows how to create a ScriptableFlowRunner builder object and uses 
    
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ScriptableFlowRunnerResult - debug\(\)
 
@@ -210,7 +210,7 @@ Output:
 
 Returns the stream of data from a data stream action.
 
-If the datastream\(\) method was used in the ScriptableFlowRunner builder class, this returns the stream of data as a ScriptableDataStream object. Use the ScriptableDataStream class to iterate over items in the stream. See [ScriptableDataStream](../../ScriptableDataStream/concept/ScriptableDataStreamAPI.md#).
+If the datastream\(\) method was used in the ScriptableFlowRunner builder class, this returns the stream of data as a ScriptableDataStream object. Use the ScriptableDataStream class to iterate over items in the stream. See [ScriptableDataStream](ScriptableDataStreamAPI.md#).
 
 For more information about data stream actions, see [Data Stream actions and pagination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/data-stream-actions.md).
 
@@ -220,7 +220,7 @@ For more information about data stream actions, see [Data Stream actions and pag
 
 |Type|Description|
 |----|-----------|
-|ScriptableDataStream|A ScriptableDataStream object you can use to iterate through items in a data stream. Use the methods in the ScriptableDataStream class to interact with this object. See [ScriptableDataStream](../../ScriptableDataStream/concept/ScriptableDataStreamAPI.md#).|
+|ScriptableDataStream|A ScriptableDataStream object you can use to iterate through items in a data stream. Use the methods in the ScriptableDataStream class to interact with this object. See [ScriptableDataStream](ScriptableDataStreamAPI.md#).|
 
 This example shows how to retrieve a data stream from a ScriptableFlowRunnerResult object.
 

@@ -290,7 +290,7 @@ Maximum number of records in a table that can be processed using the scheduled j
     5.  Click **Save**.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](c_MapPages.md)
 
 **Related topics**  
 
@@ -305,5 +305,5 @@ Maximum number of records in a table that can be processed using the scheduled j
 
 [Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](scripting-for-map-pages.md)
 

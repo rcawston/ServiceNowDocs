@@ -17,26 +17,26 @@ The Organization Management application provides an easy way to perform such ass
 
 It includes managing your vendors and manufacturers, as well as managing locations.
 
-**Parent Topic:**[Using Asset Management](../concept/using-asset-management.md)
+**Parent Topic:**[Using Asset Management](using-asset-management.md)
 
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](work-with-asset-ci.md)
 
-[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+[Manage various assets through asset classes](c_AssetClasses.md)
 
-[Create fixed assets](../concept/c_CreatingFixedAssets.md#)
+[Create fixed assets](c_CreatingFixedAssets.md#)
 
-[Consumables life cycle](../concept/c_FollowLifeCycleConsumbl.md)
+[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 
-[Stockrooms](../concept/c_Stockrooms.md)
+[Stockrooms](c_Stockrooms.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](manage-preallocated-asset.md)
 
-[Manage transfer order](../concept/manage-transfer-orders.md)
+[Manage transfer order](manage-transfer-orders.md)
 
 ## Create a new vendor or manufacturer
 

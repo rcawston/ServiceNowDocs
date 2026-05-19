@@ -38,5 +38,5 @@ Any email notifications that are forwarded from one instance to another might be
 
 Your custom watermark applies to all new email notifications. Email notifications that existed before you created a custom watermark keep the same watermarks as before.
 
-**Parent Topic:**[Watermarks on notification emails](../concept/c_WorkingWithWatermarks.md)
+**Parent Topic:**[Watermarks on notification emails](c_WorkingWithWatermarks.md)
 

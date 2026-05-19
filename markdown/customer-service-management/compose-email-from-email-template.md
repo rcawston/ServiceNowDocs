@@ -19,7 +19,7 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-Default values in email templates can include the recipients \(email addresses in the To, Cc, and Bcc fields\), the sender, the subject of the email, and text to include in the message body. For more information, see [Email templates feature](../concept/csm-default-record-page.md#section_qps_2sw_1yb).
+Default values in email templates can include the recipients \(email addresses in the To, Cc, and Bcc fields\), the sender, the subject of the email, and text to include in the message body. For more information, see [Email templates feature](csm-default-record-page.md#section_qps_2sw_1yb).
 
 ## Procedure
 

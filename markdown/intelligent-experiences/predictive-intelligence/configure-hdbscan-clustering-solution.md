@@ -79,7 +79,7 @@ Predictive Intelligence implements the k-means algorithm by default in its clust
     ![When you submit the record you created, the HDBSCAN solution parameter appears on your clustering solution definition form.](../images/configure-hdbscan-clustering-solution6.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 

@@ -66,5 +66,5 @@ Build tests that verify your scripted REST web services functionality as part of
 
 Tests should validate the response code, headers, and body content as appropriate for each resource you implement. You can also use tests to validate authentication requirements, and to confirm that errors return useful responses.
 
-**Parent Topic:**[Scripted REST APIs](../../../../integrate/custom-web-services/concept/c_CustomWebServices.md)
+**Parent Topic:**[Scripted REST APIs](c_CustomWebServices.md)
 

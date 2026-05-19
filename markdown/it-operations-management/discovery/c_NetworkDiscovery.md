@@ -193,7 +193,7 @@ Role required: agent\_admin or admin
 
 ### What to do next
 
-Add discovery range sets to [Discovery schedules](../task/t_CreateADiscoverySchedule.md#).
+Add discovery range sets to [Discovery schedules](t_CreateADiscoverySchedule.md#).
 
 ## Add a Discovery range set to a Discovery schedule
 
@@ -205,7 +205,7 @@ Role required: agent\_admin or admin
 
 ### Procedure
 
-1.  Open a [Discovery schedule](../task/t_CreateADiscoverySchedule.md#).
+1.  Open a [Discovery schedule](t_CreateADiscoverySchedule.md#).
 
 2.  In the **Discovery Range Sets** related list, click **Edit** to add an existing range set and use the slushbucket to add the range set.
 

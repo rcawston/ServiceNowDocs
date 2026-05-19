@@ -51,7 +51,7 @@ Add record producer catalog items in a guided tool for building a Service Catalo
 
 </td><td>
 
-See [Add a standard catalog item](../task/add-standard-catalog-item.md).
+See [Add a standard catalog item](add-standard-catalog-item.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Add decision rules to decouple decision logic from code using decision tables.
 
 </td><td>
 
-See [Add a decision](../task/add-decision.md).
+See [Add a decision](add-decision.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Create and edit email notifications that are automatically sent when a record is
 
 </td><td>
 
-See [Add an email notification](../task/add-notification.md).
+See [Add an email notification](add-notification.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Add flows to automate application processes.
 
 </td><td>
 
-See [Add a flow from scratch](../task/create-scratch-flow.md).
+See [Add a flow from scratch](create-scratch-flow.md).
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ Import and map data into existing tables.
 
 </td><td>
 
-See [Create a data integration](../task/import-map-data-existing-table.md).
+See [Create a data integration](import-map-data-existing-table.md).
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Add mobile experiences.
 
 </td><td>
 
-See [Add a mobile experience](../task/add-mobile.md).
+See [Add a mobile experience](add-mobile.md).
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Edit cross-functional processes and consolidate them into automated task-oriente
 
 </td><td>
 
-See [Edit a process](../task/edit-process.md).
+See [Edit a process](edit-process.md).
 
 </td></tr><tr><td>
 
@@ -159,11 +159,11 @@ Work with data models in a tabular format. Table Builder is exclusive to App Eng
 
 </td><td>
 
-See [Create a blank table](../task/use-existing-table.md).
+See [Create a blank table](use-existing-table.md).
 
 </td></tr><tr><td>
 
-[UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md)
+[UI Builder](../ui-builder/ui-builder-overview.md)
 
 </td><td>
 
@@ -171,11 +171,11 @@ Edit workspace and portal experiences using a highly configurable UI development
 
 </td><td>
 
-See [Add a workspace](../task/add-workspace.md) and [Add a portal](../task/add-portal.md).
+See [Add a workspace](add-workspace.md) and [Add a portal](add-portal.md).
 
 </td></tr><tr><td>
 
-[Workspace Builder](../../workspace-builder/concept/using-workspace-builder.md)
+[Workspace Builder](../workspace-builder/using-workspace-builder.md)
 
 </td><td>
 
@@ -183,13 +183,13 @@ Quickly build custom workspaces to give users a service desk-like experience to 
 
 </td><td>
 
-See the following topics:-   [Using Workspace Builder](../../workspace-builder/concept/using-workspace-builder.md)
--   [Edit a workspace in Workspace Builder](../task/configure-workspace-builder.md)
--   [Configure workspace settings in Workspace Builder](../task/configure-workspace-settings.md)
--   [Customize a workspace home page in Workspace Builder](../task/edit-workspace-home-page.md)
--   [Add a record page for a workspace in Workspace Builder](../task/configure-record-page-workspace.md)
--   [Create lists for a workspace in Workspace Builder](../task/add-workspace-list.md)
--   [Enable analytics for a workspace in Workspace Builder](../task/configure-analytics-workspace.md)
+See the following topics:-   [Using Workspace Builder](../workspace-builder/using-workspace-builder.md)
+-   [Edit a workspace in Workspace Builder](../workspace-builder/configure-workspace-builder.md)
+-   [Configure workspace settings in Workspace Builder](../workspace-builder/configure-workspace-settings.md)
+-   [Customize a workspace home page in Workspace Builder](../workspace-builder/edit-workspace-home-page.md)
+-   [Add a record page for a workspace in Workspace Builder](../workspace-builder/configure-record-page-workspace.md)
+-   [Create lists for a workspace in Workspace Builder](../workspace-builder/add-workspace-list.md)
+-   [Enable analytics for a workspace in Workspace Builder](../workspace-builder/configure-analytics-workspace.md)
 
 </td></tr></tbody>
 </table>

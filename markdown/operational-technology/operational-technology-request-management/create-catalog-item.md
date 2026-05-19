@@ -40,7 +40,7 @@ You can create catalog items for the OT Service Catalog in the catalog builder. 
 
 6.  On the **Create catalog item** form, fill in the fields.
 
-    For more information about the Catalog Item form fields, see [Operational Technology Catalog Item form](../reference/catalog-item-form-ot-request.md).
+    For more information about the Catalog Item form fields, see [Operational Technology Catalog Item form](catalog-item-form-ot-request.md).
 
     **Note:** You can’t remove the OT Catalog Item Variable Set from the Questions section. The OT Catalog Item Variable Set is what distinguishes OT requests from other requests. You can instead create new questions for your item form by selecting **Insert New Question**. For more information about inserting a new question, see [Create a question for a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-question-cat-builder.md).
 
@@ -57,5 +57,5 @@ You can create catalog items for the OT Service Catalog in the catalog builder. 
 
 The catalog item is created and available for other users to select when they create an OT request in the OT Service Catalog.
 
-**Parent Topic:**[Configuring Operational Technology Request Management](../concept/configuring-operational-technology-request-management.md)
+**Parent Topic:**[Configuring Operational Technology Request Management](configuring-operational-technology-request-management.md)
 

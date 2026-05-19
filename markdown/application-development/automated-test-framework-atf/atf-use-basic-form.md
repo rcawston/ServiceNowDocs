@@ -44,5 +44,5 @@ Role required: atf\_test\_admin
     ![Form for Submitting a Form](../image/atf-use-cat-task-submit.png "Test Step 4 - Submit a Form")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 

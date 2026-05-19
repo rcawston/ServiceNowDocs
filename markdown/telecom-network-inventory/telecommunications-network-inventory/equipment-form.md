@@ -143,10 +143,10 @@ Site
 Name of the network site or data center in which the process is instantiating the equipment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](create-equipment-record-design-and-assign.md)
 

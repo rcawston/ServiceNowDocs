@@ -60,7 +60,7 @@ Role required: map admin, map editor, map editor limited
     \(Enabled by default\) Enabling this option helps to automatically adjust the boundaries when new floor plans, places, or directions are added and they are outside of their initial boundaries. When this option is enabled, the boundaries cannot be manually adjusted. Disable it to manually adjust the building boundaries.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Create a campus with buildings and floors](create-a-campus-building-and-floor.md)
 

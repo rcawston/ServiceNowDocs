@@ -62,19 +62,19 @@ The following list provides detailed information about disclosures.
 The Operational Sustainability Management application provides the multiple types of disclosures reports and each type is used for a specific purpose.
 -   **[Approval workflow of a disclosure](approval-workflow-of-a-disclosure.md)**  
 If a narrative disclosure specifies a single approver or multiple approvers during its creation, it is mandatory for those designated approvers to grant approval before the disclosure can transition to the next state.
--   **[Create a disclosure template](../task/create-a-disclosure-template.md)**  
+-   **[Create a disclosure template](create-a-disclosure-template.md)**  
 Create your own unique Microsoft Word disclosure templates tailored to different types of disclosures. Utilize these templates that you create when you generate specific disclosures. The templates help to streamline the disclosure process by implementing customized templates for efficiency and consistency.
--   **[Create a narrative disclosure on remote storage](../task/create-disclosure.md)**  
+-   **[Create a narrative disclosure on remote storage](create-disclosure.md)**  
 Create an Operational Sustainability Management narrative disclosure for your organization and store it on remote storage such as Microsoft SharePoint. Disclosures can be of several types such as ESG report, annual report, and so on.
--   **[Create a narrative disclosure on local system](../task/create-a-disclosure-on-local.md)**  
+-   **[Create a narrative disclosure on local system](create-a-disclosure-on-local.md)**  
 Create an Operational Sustainability Management narrative disclosure for your organization and store it on your local system. After you create a disclosure, you can download the document, edit it, add metrics to it, and upload it back into the Operational Sustainability Management instance.
--   **[Add disclosure documents](../task/add-disclosure-related-docs.md)**  
+-   **[Add disclosure documents](add-disclosure-related-docs.md)**  
 Add secondary related or supporting documents to any disclosure you create. Supporting documents may include sustainability reports, corporate governance documents, third-party certifications, and relevant policies such as those on ethics and supply chain practices. These documents provide additional context and validation for environmental, social, and governance disclosures.
--   **[Add metrics to a disclosure](../task/add-related-metric-to-a-disclosure.md)**  
+-   **[Add metrics to a disclosure](add-related-metric-to-a-disclosure.md)**  
 Add any metrics to the disclosure that would help to contribute to the disclosure data.
--   **[Create a authority document using Operational Sustainability Workspace](../task/create-a-authority-document-using-esg-workspace.md)**  
+-   **[Create a authority document using Operational Sustainability Workspace](create-a-authority-document-using-esg-workspace.md)**  
 The authority document is a regulatory framework or standard issued by a recognized organization or governing body that outlines the reporting obligations for operational sustainability disclosures.
--   **[Create a citation using Operational Sustainability Workspace](../task/create-a-citation-using-esg-workspace.md)**  
+-   **[Create a citation using Operational Sustainability Workspace](create-a-citation-using-esg-workspace.md)**  
 The citations are the individual reporting requirements or metrics defined within an authority document. They specify the exact data points or qualitative information an organization must disclose.
 
 **Parent Topic:**[Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](using-esg.md)

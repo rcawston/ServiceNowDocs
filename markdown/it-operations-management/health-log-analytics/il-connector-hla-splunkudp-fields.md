@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Splunk UDP integration configuration forms for Health Log Analytics.
 
-For the Splunk UDP integration setup procedure, see [Set up a Splunk UDP integration for Health Log Analytics](../task/il-connector-hla-splunkudp.md).
+For the Splunk UDP integration setup procedure, see [Set up a Splunk UDP integration for Health Log Analytics](il-connector-hla-splunkudp.md).
 
 <table id="table_w5q_lhh_q2c"><thead><tr><th>
 

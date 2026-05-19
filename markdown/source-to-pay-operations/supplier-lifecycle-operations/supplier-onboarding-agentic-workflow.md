@@ -121,7 +121,7 @@ This activity is triggered during the registration stage to validate banking det
 **Related topics**  
 
 
-[Activate AI agents](../task/activate-ai-agents.md)
+[Activate AI agents](activate-ai-agents.md)
 
 [Supplier document strategy generator AI agent](supplier-document-strategy-generator-ai-agent.md)
 

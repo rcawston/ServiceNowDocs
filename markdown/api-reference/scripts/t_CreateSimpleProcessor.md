@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 ## Procedure
 
@@ -84,5 +84,5 @@ g_processor.writeOutput("text/plain","Hello "+name);
     For example: `https://<instancename>.service-now.com/Hello.do?name=world`.
 
 
-**Parent Topic:**[Processors](../../../../script/processors/concept/c_Processors.md)
+**Parent Topic:**[Processors](c_Processors.md)
 

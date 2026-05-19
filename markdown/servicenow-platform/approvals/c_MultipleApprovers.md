@@ -17,10 +17,10 @@ With multiple approvers, all approvers must authorize the request before the sta
 
 Should any approver reject the request, the status will immediately be set to "Rejected".
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

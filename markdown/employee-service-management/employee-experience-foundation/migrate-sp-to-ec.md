@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Create a unified taxonomy for catalog items and knowledge articles to implement the unified browsing capability.
 
-    For more information, see [Unified Taxonomy for Employee Center](../concept/config-taxonomy.md).
+    For more information, see [Unified Taxonomy for Employee Center](config-taxonomy.md).
 
     **Note:** Copy and modify the default taxonomy that comes with the demo data for your business needs.
 
@@ -35,11 +35,11 @@ Role required: admin
 
 4.  Ensure all request types are captured in **My Request Filters** to consolidate request types.
 
-    For more information, see [Employee requests page](../concept/employee-center-requests-page-configuration.md).
+    For more information, see [Employee requests page](employee-center-requests-page-configuration.md).
 
 5.  Configure tasks using **To-dos configuration** to include approvals.
 
-    For more information, see [Employee tasks page](../concept/employee-center-to-dos-page-configuration.md).
+    For more information, see [Employee tasks page](employee-center-to-dos-page-configuration.md).
 
 6.  Modify the portal theme.
 

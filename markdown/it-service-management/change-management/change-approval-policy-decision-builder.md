@@ -184,5 +184,5 @@ Operator used to evaluate a user-specified value. A default operator is required
 
 A change approval policy is created and is evaluated on a change request that matches the defined condition.
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](using-change-approval-policies-cf.md)
 

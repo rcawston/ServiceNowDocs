@@ -40,7 +40,7 @@ Using the team calendar, you can access the list of all of your agents by assign
     6.  Click **Save**.
 2.  Approve or reject an agent's time off or shift-swap with another agent.
 
-    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval will be auto-rejected. An administrator can change this default setting. For more information, see **Setting the due date for time-off and shift-swap request approvals** in [Scheduling in Workforce Optimization for ITSM in configurable workspace](../reference/configurable-wfo-itsm-scheduling-reference.md).
+    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval will be auto-rejected. An administrator can change this default setting. For more information, see **Setting the due date for time-off and shift-swap request approvals** in [Scheduling in Workforce Optimization for ITSM in configurable workspace](configurable-wfo-itsm-scheduling-reference.md).
 
     1.  Click **Approvals**. You can view all agent requests in your queue and the details for each request. You can use the **Compose** field to communicate with the agent.
     2.  Select a request that you want to approve or reject and do one of the following:
@@ -49,5 +49,5 @@ Using the team calendar, you can access the list of all of your agents by assign
     If you approve the request, the schedule gets updated in the team calendar based on the approvals.
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 

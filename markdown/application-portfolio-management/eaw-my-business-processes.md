@@ -28,7 +28,7 @@ Role required: business\_process\_manager or asset or itil
 4.  Select **My Business Processes**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

@@ -19,11 +19,11 @@ Success portal helps you perform the following actions:
 
 -   **Track the progress of your SAM application through success goals**
 
-    Success goals help you analyze the value that you get out of your software licenses and calculate your projected savings. Create success goals for the licenses that you want to track. For more information about creating a success goal, see [Create success goals for Software Asset Management](../task/create-success-goals.md).
+    Success goals help you analyze the value that you get out of your software licenses and calculate your projected savings. Create success goals for the licenses that you want to track. For more information about creating a success goal, see [Create success goals for Software Asset Management](create-success-goals.md).
 
 -   **Track the progress of your success goals**
 
-    Track the success of your goals by creating success activities for the goals. For more information, see [Create success activities for Software Asset Management](../task/create-success-activity.md).
+    Track the success of your goals by creating success activities for the goals. For more information, see [Create success activities for Software Asset Management](create-success-activity.md).
 
 -   **Perform a health check on your software**
 
@@ -35,7 +35,7 @@ Success portal helps you perform the following actions:
 
 -   **Mature your SAM program with predefined maturity items**
 
-    The program maturity is categorized into Crawl, Walk, and Run stages to help you improve the value return of your SAM program, including processes, features, functionalities, and capabilities within your organization. You can link these maturity items to Success goals and Value builder tasks to track and report on the improvements of your SAM application over time. For more information, see [View all maturity items for Software Asset Management](../task/view-maturity-items.md).
+    The program maturity is categorized into Crawl, Walk, and Run stages to help you improve the value return of your SAM program, including processes, features, functionalities, and capabilities within your organization. You can link these maturity items to Success goals and Value builder tasks to track and report on the improvements of your SAM application over time. For more information, see [View all maturity items for Software Asset Management](view-maturity-items.md).
 
 
 Email notifications are sent when the following conditions are met:
@@ -65,7 +65,7 @@ SAM maturity
 
 </td><td>
 
-Current stage of your SAM program maturity such as the Crawl, Walk, or Run stage.View the maturity items of each stage by selecting **View all maturity items**. For more information, see [View all maturity items for Software Asset Management](../task/view-maturity-items.md).
+Current stage of your SAM program maturity such as the Crawl, Walk, or Run stage.View the maturity items of each stage by selecting **View all maturity items**. For more information, see [View all maturity items for Software Asset Management](view-maturity-items.md).
 
 </td></tr><tr><td>
 

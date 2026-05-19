@@ -67,7 +67,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     -   To update, edit the field details and click **Save**.
 
-        For information on the form fields, see [Roadmap configuration form](../reference/roadmap-configuration-form.md).
+        For information on the form fields, see [Roadmap configuration form](roadmap-configuration-form.md).
 
     -   To delete the milestone, click **Delete.**
 

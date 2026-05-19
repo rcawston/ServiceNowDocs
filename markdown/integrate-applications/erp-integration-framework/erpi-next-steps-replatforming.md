@@ -43,7 +43,7 @@ Use any of the following ServiceNow builders to create apps using custom data:
 
 You can also access data from the system of record through the Glide API.
 
-For more information, see [Sample Glide query for ERP data in Zero Copy Connector for ERP](../reference/erp-canvas-sample-glide-query-code.md).
+For more information, see [Sample Glide query for ERP data in Zero Copy Connector for ERP](erp-canvas-sample-glide-query-code.md).
 
 **Parent Topic:**[Building with ERP data](erp-canvas-building-with-erp-data.md)
 

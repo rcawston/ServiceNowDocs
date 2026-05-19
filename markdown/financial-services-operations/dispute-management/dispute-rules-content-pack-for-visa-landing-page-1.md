@@ -28,7 +28,7 @@ Dispute Rules Content Pack for Visa application can help you do the following:
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](../task/set-up-dispute-rules-content-pack-for-visa-connection-credentials.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](set-up-dispute-rules-content-pack-for-visa-connection-credentials.md)
 
 </td></tr><tr><td>
 

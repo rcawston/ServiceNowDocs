@@ -32,13 +32,13 @@ If you set bi-direction between a producer and consumer instance, the consumer c
 **Related topics**  
 
 
-[Adapter descriptions for Instance Data Replication](../reference/adapter-descriptions.md)
+[Adapter descriptions for Instance Data Replication](adapter-descriptions.md)
 
-[Excluded tables in Instance Data Replication](../reference/IDR-excluded-tables.md)
+[Excluded tables in Instance Data Replication](IDR-excluded-tables.md)
 
-[Domain separation and IDR](../reference/instance-data-replication-domain-separation.md)
+[Domain separation and IDR](instance-data-replication-domain-separation.md)
 
-[Instance Data Replication system properties](../reference/instance-data-replication-properties.md)
+[Instance Data Replication system properties](instance-data-replication-properties.md)
 
-[Instance Data Replication roles](../reference/instance-data-replication-roles.md#)
+[Instance Data Replication roles](instance-data-replication-roles.md#)
 

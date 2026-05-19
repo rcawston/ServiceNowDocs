@@ -32,7 +32,7 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Navigation action cancellation](../concept/c_CancelingNavigationActions.md)
+**Parent Topic:**[Navigation action cancellation](c_CancelingNavigationActions.md)
 
 **Related topics**  
 

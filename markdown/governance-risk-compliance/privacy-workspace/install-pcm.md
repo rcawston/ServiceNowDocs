@@ -54,5 +54,5 @@ The following items are installed with Privacy Case Management:
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

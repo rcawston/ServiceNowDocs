@@ -68,7 +68,7 @@ Link to access the published TRM catalog. This field is auto-populated with a UR
 **Related topics**  
 
 
-[Create a new configuration to publish TRM data](../../task/eaw-task/config-trm-data-to-publish.md)
+[Create a new configuration to publish TRM data](config-trm-data-to-publish.md)
 
-[Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md)
 

@@ -102,7 +102,7 @@ The BigFix Inventory spoke provides actions to automate BigFix Inventory tasks w
 |Look up VM Managers|Lists VM managers in the BigFix Inventory system.|
 |Set End of Support Date for Software Component|Configures the End of Support Date for software component.|
 
-For information about setting up the spoke, see [Set up the BigFix Inventory spoke](../task/setup-bigfix.md#).
+For information about setting up the spoke, see [Set up the BigFix Inventory spoke](setup-bigfix.md#).
 
 ## Spoke modules
 

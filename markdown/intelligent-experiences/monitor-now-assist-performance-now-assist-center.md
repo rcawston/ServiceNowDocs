@@ -35,7 +35,7 @@ Role required: sn\_na\_center.nac\_admin
     For more information, see [View AI assets usage and performance in Now Assist Center](now-assist-center-view-ai-usage.md).
 
 
-**Parent Topic:**[Monitoring in Now Assist Center](../concept/now-assist-center-monitoring.md)
+**Parent Topic:**[Monitoring in Now Assist Center](now-assist-center-monitoring.md)
 
 **Related topics**  
 

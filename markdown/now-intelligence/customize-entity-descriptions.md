@@ -32,7 +32,7 @@ This procedure uses the Semantic Table Configuration table. Customizations made 
 
 2.  Open the record for your table, or create a record if one does not exist.
 
-    If creating a new record, set **Table Name** to your table name and **Enable Semantic Generation** to selected. For more information, see [Add a table to the semantic data layer](../../par-for-workspace/task/add-table-semantic-layer.md#).
+    If creating a new record, set **Table Name** to your table name and **Enable Semantic Generation** to selected. For more information, see [Add a table to the semantic data layer](add-table-semantic-layer.md#).
 
 3.  In the **Entity Semantic Description** field, enter your custom description.
 
@@ -92,5 +92,5 @@ Base inventory table for all AI-related digital assets within the AI Control Tow
 
 Test your custom description by asking questions about the table in Query Generation and verifying that the correct table is selected.
 
-**Parent Topic:**[Customizing semantic metadata](../concept/customize-semantic-metadata.md)
+**Parent Topic:**[Customizing semantic metadata](customize-semantic-metadata.md)
 

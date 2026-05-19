@@ -63,9 +63,9 @@ else{
 })(inputs,outputs);
 ```
 
--   **[Unlink your ServiceNow user account from a messaging application for Virtual Agent conversations](../task/unlink-va-messaging.md)**  
+-   **[Unlink your ServiceNow user account from a messaging application for Virtual Agent conversations](unlink-va-messaging.md)**  
 If needed, you can unlink your ServiceNow user account from a messaging app used for the Now Virtual Agent.
--   **[Link your ServiceNow user account to a messaging application for Virtual Agent conversations](../task/link-accounts-with-virtual-agent.md)**  
+-   **[Link your ServiceNow user account to a messaging application for Virtual Agent conversations](link-accounts-with-virtual-agent.md)**  
 Link your ServiceNow account to a third-party messaging application to access non-public Virtual Agent topics that use ServiceNow records.
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md)

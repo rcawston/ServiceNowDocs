@@ -35,7 +35,7 @@ The edit enhancement offers flexibility for managing the event tasks. The BCM ma
 -   Edit multiple recovery tasks in the **Task status**, **Actual start**, **Actual end**, **Assigned to**, **Assigned group**, and **Additional assignee** fields in the recovery tasks list at one go.
 -   Open a closed task for editing that was closed by mistake. For this scenario, the **Closed failed** task state is added to the tasks. Moving a task to the **Closed failed** state brings an entire exercise to a stop unless the program manager \(sn\_bcm.program\_manager\) unblocks the task and moves it to the **Closed complete** state.
 
-For more information on editing of tasks, see [Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md) and [Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md).
+For more information on editing of tasks, see [Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md) and [Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ For more information on editing of tasks, see [Structured workflows for exercise
 
     **Note:** When you add an ad-hoc task to the exercise event that is in the **Work in progress** state and if the activated plan is in the **Work in progress** state, the tasks get moved to the **Open** state. If the activated plan is the **Pending** state, the task moves to the **Pending** state.
 
-    For more information on the fields in the New Event Task form, see [Create New Event Task form](../reference/create-new-event-task-form-uib-ws.md).
+    For more information on the fields in the New Event Task form, see [Create New Event Task form](create-new-event-task-form-uib-ws.md).
 
     **Note:** You cannot create an ad-hoc task for the activated plans that are in **Closed Complete** or **Closed Incomplete** state.
 
@@ -98,8 +98,8 @@ For more information on editing of tasks, see [Structured workflows for exercise
     The event tasks are displayed in the **Event tasks** tab.
 
 
--   **[Create New Event Task form](../reference/create-new-event-task-form-uib-ws.md)**  
+-   **[Create New Event Task form](create-new-event-task-form-uib-ws.md)**  
 Use the Create New Event Task form in BCM UIB Workspace to add details about an event task.
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

@@ -98,7 +98,7 @@ License metric
 
 </td><td>
 
-License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field. The default value for SaaS entitlements is **User Subscription**.For more information, see [Software license metrics](../concept/c_SAMLicenseMetrics.md).
+License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field. The default value for SaaS entitlements is **User Subscription**.For more information, see [Software license metrics](c_SAMLicenseMetrics.md).
 
  **Note:** Use the Envelopes license metric only for Docusign entitlements.
 
@@ -209,7 +209,7 @@ Unit cost
 
 </td><td>
 
-Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](../concept/c_SAMDashboard.md)
+Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](c_SAMDashboard.md)
 
 </td></tr><tr><td>
 

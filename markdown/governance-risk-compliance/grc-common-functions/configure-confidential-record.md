@@ -48,5 +48,5 @@ Role required: sn\_grc.admin, sn\_grc.business\_user who has opened the risk eve
 
 The selected record is marked as confidential. Only the users who belong to the Allowed users list or the Allowed groups list can access this confidential record.
 
-**Parent Topic:**[Confidential records](../concept/confidential-records.md)
+**Parent Topic:**[Confidential records](confidential-records.md)
 

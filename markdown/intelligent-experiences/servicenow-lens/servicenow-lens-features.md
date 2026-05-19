@@ -81,7 +81,7 @@ ServiceNow AI Lens offers the following features:
 
 -   **ServiceNow AI Lens in Virtual Agent**
 
-    Trigger ServiceNow AI Lens from a Virtual Agent conversation by using ServiceNow AI Lens topic in Virtual Agent. For more information, see [Enabling ServiceNow AI Lens in Virtual Agent](enabling-lens-for-virtual-agent.md#) and [Extract and analyze data using ServiceNow AI Lens from Virtual Agent](../task/trigger-lens-from-va.md).
+    Trigger ServiceNow AI Lens from a Virtual Agent conversation by using ServiceNow AI Lens topic in Virtual Agent. For more information, see [Enabling ServiceNow AI Lens in Virtual Agent](enabling-lens-for-virtual-agent.md#) and [Extract and analyze data using ServiceNow AI Lens from Virtual Agent](trigger-lens-from-va.md).
 
     ![ServiceNow AI Lens service in a Virtual Agent conversation on a mobile device.](../image/sn-lens-va-mobile.png)
 
@@ -99,7 +99,7 @@ ServiceNow AI Lens offers the following features:
 
 -   **Use as a standalone application**
 
-    Use ServiceNow AI Lens as a standalone application for previewing extracted data or getting insights. You must connect to a ServiceNow instance before you start using ServiceNow AI Lens. For more information, see [Extract and analyze data with ServiceNow AI Lens desktop app](../task/sn-lens-standalone-app.md).
+    Use ServiceNow AI Lens as a standalone application for previewing extracted data or getting insights. You must connect to a ServiceNow instance before you start using ServiceNow AI Lens. For more information, see [Extract and analyze data with ServiceNow AI Lens desktop app](sn-lens-standalone-app.md).
 
     ![ServiceNow AI Lens login screen as a standalone application.](../image/standalone-lens.png)
 
@@ -109,6 +109,6 @@ ServiceNow AI Lens offers the following features:
 
 -   **Autofill Catalog Item forms in Service Portal**
 
-    Autofill Catalog Item form fields by triggering ServiceNow AI Lens from Service Portal. ServiceNow AI Lens extracts data from one or more artifacts and auto fills the relevant fields in the form.. For more information on using ServiceNow AI Lens in the Service Portal, see [Autofill catalog item form in the Service Portal](../task/create-record-in-the-service-portal.md).
+    Autofill Catalog Item form fields by triggering ServiceNow AI Lens from Service Portal. ServiceNow AI Lens extracts data from one or more artifacts and auto fills the relevant fields in the form.. For more information on using ServiceNow AI Lens in the Service Portal, see [Autofill catalog item form in the Service Portal](create-record-in-the-service-portal.md).
 
 

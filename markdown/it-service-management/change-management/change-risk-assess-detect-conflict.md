@@ -17,9 +17,9 @@ Change Management features provide ways to calculate and assess the risk of chan
 
 Risk assessment and calculation assists you with understanding the urgency and impact of change requests. [Conflict detection](c_ConflictDetection.md) assists you with scheduling change requests for the least impact to stakeholders. This features minimize the risk and cost of rapid changes in your environment.
 
--   **[Risk Calculator property](../../../script/server-scripting/reference/r_ChangeRiskCalculator.md)**  
+-   **[Risk Calculator property](r_ChangeRiskCalculator.md)**  
 The Best Practice - Change Risk Calculator plugin enables dynamic calculations of the risk and impact of a change. The administrator specifies how and when risk and impact rules are applied.
--   **[Add or modify risk and impact conditions](../task/define-risk-and-impact-conditions.md)**  
+-   **[Add or modify risk and impact conditions](define-risk-and-impact-conditions.md)**  
 You can define risk calculation rules on which the risk and impact of a change are calculated. Best Practice - Change Risk Calculator is activated by default in the base system.
 
 **Parent Topic:**[Analyze change request risk and impact](change-risk-conflict-analysis.md)

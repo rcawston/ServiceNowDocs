@@ -81,5 +81,5 @@ Steps
 6.  Track the risks, issues, decisions, actions, and the project change requests across all selected projects in the portfolio by going to the **Risks**, **Issues**, **Decisions**, **Actions**, and **Changes** tabs.
 
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](portfolio-planning-overview.md)
 

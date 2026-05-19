@@ -28,7 +28,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Activation information
 
-You should activate the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\) to enable domain separation for Service Catalog. For information on how you can request for the plugin activation, see [Request for domain separation in Service Catalog](../task/activate-domain-sep-catalog.md).
+You should activate the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\) to enable domain separation for Service Catalog. For information on how you can request for the plugin activation, see [Request for domain separation in Service Catalog](activate-domain-sep-catalog.md).
 
 This plugin should only be activated if there is a need for the following scenarios:
 
@@ -60,7 +60,7 @@ For users with visibility to a single domain, the effective domain is the userâ€
 
 ## Visibility of catalog items - Item creation and maintenance
 
-A catalog item can be created or published in any domain in the hierarchy. For information on creating a catalog item, see [Create or edit a catalog item](../task/t_DefineACatalogItem.md#).The item is created in the effective domain of the user. For information on enabling the domain picker, see [Enable domain selection menus in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableDomainReferencePickerProperty.md). Once the item is created in a specific domain, all future edits to the item are done in that domain itself.
+A catalog item can be created or published in any domain in the hierarchy. For information on creating a catalog item, see [Create or edit a catalog item](t_DefineACatalogItem.md#).The item is created in the effective domain of the user. For information on enabling the domain picker, see [Enable domain selection menus in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableDomainReferencePickerProperty.md). Once the item is created in a specific domain, all future edits to the item are done in that domain itself.
 
 If a catalog item is published using Item Designer, the domain of the item is the domain selected in the domain picker while publishing the item. Once the item is published, it can only be modified and re-published in the domain it was originally published in.
 
@@ -100,7 +100,7 @@ For example, consider that A is the parent domain and B is its child domain. A c
 
 An item can only be edited in the domain that it has been created. Catalog UI policies and actions added in catalog builder are created in the same domain as that of the item.
 
--   **[Request for domain separation in Service Catalog](../task/activate-domain-sep-catalog.md)**  
+-   **[Request for domain separation in Service Catalog](activate-domain-sep-catalog.md)**  
 Enable domain separation in Service Catalog by requesting for the activation of the Service Catalog - Domain Separation plugin \(com.glideapp.servicecatalog.domain\_separation\).
 
 **Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)

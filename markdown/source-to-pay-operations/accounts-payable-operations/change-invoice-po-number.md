@@ -40,5 +40,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
     The confirmation message is displayed if you update the purchase order on a PO invoice either before or after PO matching is completed. If you select **OK** after you change the purchase order in the **Purchase order** field, the invoice lines are mapped with the purchase order lines of the newly associated purchase order. Subsequently, the automated PO matching process is run and the invoice status moves to PO matching error or PO matching completed.
 
 
-**Parent Topic:**[Work with invoices](../concept/work-with-invoices.md)
+**Parent Topic:**[Work with invoices](work-with-invoices.md)
 

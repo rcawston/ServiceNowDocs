@@ -46,14 +46,14 @@ The following diagram shows the user journey for Now Assist Data Kit.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Addition of datasets to a data catalog.|[Add a dataset](../task/add-dataset.md)|AI developer|
-|Create smaller datasets from existing datasets.|[Create a derived dataset](../task/create-derived-dataset.md)|AI developer|
-|Merge multiple datasets and create a collection that can be used by Now Assist Skill Kit.|[Activate a skill](../../now-assist-skill-kit/task/activate-skill.md)|AI developer|
+|Addition of datasets to a data catalog.|[Add a dataset](add-dataset.md)|AI developer|
+|Create smaller datasets from existing datasets.|[Create a derived dataset](create-derived-dataset.md)|AI developer|
+|Merge multiple datasets and create a collection that can be used by Now Assist Skill Kit.|[Activate a skill](../now-assist-skill-kit/activate-skill.md)|AI developer|
 
 ## What to explore next
 
 To learn more about configuring and using Now Assist Skill Kit, see:
 
--   [Configuring Now Assist Skill Kit](../../now-assist-skill-kit/concept/configuring-now-assist-skill-kit.md)
--   [Using Now Assist Skill Kit](../../now-assist-skill-kit/concept/using-now-assist-skill-kit.md)
+-   [Configuring Now Assist Skill Kit](../now-assist-skill-kit/configuring-now-assist-skill-kit.md)
+-   [Using Now Assist Skill Kit](../now-assist-skill-kit/using-now-assist-skill-kit.md)
 

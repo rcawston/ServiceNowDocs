@@ -93,7 +93,7 @@ Option to enable the category.
 
 In addition to using categories defined by a knowledge manager, knowledge contributors can add and edit categories when editing an article.
 
-**Parent Topic:**[Configuration tasks for knowledge managers](../concept/c_KnowledgeManager.md)
+**Parent Topic:**[Configuration tasks for knowledge managers](c_KnowledgeManager.md)
 
 **Related topics**  
 

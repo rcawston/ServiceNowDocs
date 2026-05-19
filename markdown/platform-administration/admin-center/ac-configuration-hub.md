@@ -31,9 +31,9 @@ You can search through all the application, console or product names that have b
 
 **Note:** The application name doesn’t populate in the search bar if it’s not yet installed on the instance. The number under the family name shows the number of applications in the selected family have been installed on the instance. If there is a product family that doesn’t have any app installed, it won’t show up on the list.
 
-It can also help you search applications that have been grouped by SN store, taxonomy or product families. When you select a product family, it takes to the product home page. See [Configure the product home page](../task/ac-explore-product-home.md) for more information.![](../image/ac-product-home-page.png)
+It can also help you search applications that have been grouped by SN store, taxonomy or product families. When you select a product family, it takes to the product home page. See [Configure the product home page](ac-explore-product-home.md) for more information.![](../image/ac-product-home-page.png)
 
--   **[Configure the product home page](../task/ac-explore-product-home.md)**  
+-   **[Configure the product home page](ac-explore-product-home.md)**  
 Track delta changes, over-allocated subscriptions, customizations, and slow execution on the product home page by selecting a product family
 
 **Parent Topic:**[Admin Center](admin-center-intro.md)

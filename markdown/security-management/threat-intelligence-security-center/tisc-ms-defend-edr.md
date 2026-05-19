@@ -48,5 +48,5 @@ Role required: sn\_sec\_tisc.analyst
     **Note:** Once the execution is initiated or completed, a work notes is posted on the activity stream of the form view and you can verify the execution progress accordingly.
 
 
-**Parent Topic:**[Microsoft Defender for EDR integration](../concept/tisc-ms-defender-integration.md)
+**Parent Topic:**[Microsoft Defender for EDR integration](tisc-ms-defender-integration.md)
 

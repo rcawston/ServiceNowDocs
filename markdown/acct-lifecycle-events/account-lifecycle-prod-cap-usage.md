@@ -13,7 +13,7 @@ breadcrumb: [Customer success, Use, Customer Success Management]
 
 View the product usage and capability data for a specific sold product over a period of time.
 
-Product usage data provides insights into how customers interact with a product. It encompasses various metrics and data points that help understand how effectively a product is being adopted and used. This data helps customer success managers to analyze the data, identify areas for improvement, and make informed decisions. The data that appears on this page is configured using the DEC Insights Visualizations table. See [Configure DCE Visualizations](../task/account-lifecycle-configure-dce-visual.md) for details.
+Product usage data provides insights into how customers interact with a product. It encompasses various metrics and data points that help understand how effectively a product is being adopted and used. This data helps customer success managers to analyze the data, identify areas for improvement, and make informed decisions. The data that appears on this page is configured using the DEC Insights Visualizations table. See [Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md) for details.
 
 1.  Login as a user with the `sn_acct_lc.customer_success_agent` role.
 2.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workpace** and select the **List** icon.

@@ -69,5 +69,5 @@ Duration, in days, to refresh the expiration details for a user whose password n
 </table>**Related topics**  
 
 
-[Configure password expiration reminder](../task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](password-reset-expiration-setup.md)
 

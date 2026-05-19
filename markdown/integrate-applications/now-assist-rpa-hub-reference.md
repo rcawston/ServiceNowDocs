@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for RPA Hub, Workflow Data Fabric]
 
 Reference topics include information about the limitations of the Robotic Process Automation \(RPA\) bot generation skill.
 
--   **[Limitations of Robotic Process Automation \(RPA\) bot generation skill](../reference/limitations-rpa-bot-gen-skill.md)**  
+-   **[Limitations of Robotic Process Automation \(RPA\) bot generation skill](limitations-rpa-bot-gen-skill.md)**  
 The limitations of the RPA bot generation skill are as follows.
 
 **Parent Topic:**[Now Assist for RPA Hub](rpa-now-assist-studio.md)

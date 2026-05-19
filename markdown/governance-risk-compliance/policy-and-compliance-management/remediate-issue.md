@@ -21,7 +21,7 @@ Role required: compliance\_admin, compliance\_manager, sn\_compliance.user, sn\_
 
 **Note:** Starting with Version 12.0.1, the minimum role for the **Assigned to** user on the Remediation task form is GRC Business User \[sn\_grc.business\_user\]. The minimum role for the **sn\_compliance.user** is GRC User \[sn\_grc.\_user\].
 
-For more information on the access control limitations to remediation tasks, see [GRC business user role to control access and track usage of compliance tables](../reference/r_InstallWPolAndCompl.md#acls-remediation-busin-user).
+For more information on the access control limitations to remediation tasks, see [GRC business user role to control access and track usage of compliance tables](r_InstallWPolAndCompl.md#acls-remediation-busin-user).
 
 ## About this task
 
@@ -61,7 +61,7 @@ Assigned to
 
 </td><td>
 
-Select the user responsible for working this task.You can configure a hierarchy of users to access the remediation task. For more information, see [User hierarchy access control for issue and remediation task records](../concept/user-hierarchy-risk-remed-task.md).
+Select the user responsible for working this task.You can configure a hierarchy of users to access the remediation task. For more information, see [User hierarchy access control for issue and remediation task records](user-hierarchy-risk-remed-task.md).
 
 </td></tr><tr><td>
 
@@ -201,11 +201,11 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../../grc-audit/concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../audit-management/confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Manage issues in Policy and Compliance Management](../concept/manage-issues.md)
+**Parent Topic:**[Manage issues in Policy and Compliance Management](manage-issues.md)
 

@@ -44,5 +44,5 @@ Role required: financial\_mgmt\_admin
 8.  Select **Return to rate card**.
 
 
-**Parent Topic:**[CI rate cards](../concept/c_CIRateCards.md)
+**Parent Topic:**[CI rate cards](c_CIRateCards.md)
 

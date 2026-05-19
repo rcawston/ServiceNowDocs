@@ -25,11 +25,11 @@ In global scope, this API is executed within the sn\_atf\_tg namespace. You must
 
 See also:
 
--   [Cloud Runner TestRunnerApi – Scoped, Global](../../CloudRunnerAPI-TestRunnerAPIScoped/concept/cloudrnr-TestRunnerAPI-scoped.md#)
--   [Cloud Runner TestUserApi – Scoped, Global](../../CloudRunnerAPI-TestUserAPIScoped/concept/cloudrnr-TestUserAPI-scoped.md#)
--   [Cloud Runner Test Generation REST API](../../../../../integrate/inbound-rest/concept/cloudrunner-testgeneration-api.md#)
+-   [Cloud Runner TestRunnerApi – Scoped, Global](cloudrnr-TestRunnerAPI-scoped.md#)
+-   [Cloud Runner TestUserApi – Scoped, Global](cloudrnr-TestUserAPI-scoped.md#)
+-   [Cloud Runner Test Generation REST API](../rest-apis/cloudrunner-testgeneration-api.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TestGenerationApi – cancelJob\(String snboqId\)
 

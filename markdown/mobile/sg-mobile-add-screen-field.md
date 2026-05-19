@@ -63,11 +63,11 @@ Type
 
 </td><td>
 
-Type of screen field. For a list of types and a description of how they're used, see [Screen fields](../concept/sg-screen-field-enhancements.md).**Note:**
+Type of screen field. For a list of types and a description of how they're used, see [Screen fields](sg-screen-field-enhancements.md).**Note:**
 
 -   Select the **Auto** option to link the field type with the selected **Form Field** option. The **Auto** option includes the following field types: **Text**, **Percentage**, **Image**, **Video**, **File**, **HTML**, **Date**, and **Script**.
 
-**Note:** For more information about using the script screen option, see [Dynamic variable support in record screens](../reference/record-screen-script-type.md).
+**Note:** For more information about using the script screen option, see [Dynamic variable support in record screens](record-screen-script-type.md).
 
 -   The **Auto** field type doesn't include field types **Attachments List** and **Checklist**. You must manually select these options from the **Type** field.
 
@@ -78,7 +78,7 @@ Form field
 
 </td><td>
 
-Table field that the screen field uses as a data source. Some field types require a specific type of value. These requirements are described in [Screen fields](../concept/sg-screen-field-enhancements.md).**Note:** This option isn't available for the field types **Attachments List** and **Checklist**.
+Table field that the screen field uses as a data source. Some field types require a specific type of value. These requirements are described in [Screen fields](sg-screen-field-enhancements.md).**Note:** This option isn't available for the field types **Attachments List** and **Checklist**.
 
 </td></tr><tr><td>
 
@@ -124,10 +124,10 @@ Value of the field without the field label.**Note:** This option is only availab
 </table>9.  Select **Save**.
 
 
--   **[Dynamic variable support in record screens](../reference/record-screen-script-type.md)**  
+-   **[Dynamic variable support in record screens](record-screen-script-type.md)**  
 Use the script screen field in record screens to display dynamic field values. The script runs to determine the field value before it displays in your form. The value returned by the script doesn't replace the database value. For example, you can display translated content for dynamic variables within an email.
 -   **[Configure the script field for records screens](record-screen-script-type-config.md)**  
 Configure script screen fields to display calculated or personalized content in your mobile forms, without modifying the underlying database values.
 
-**Parent Topic:**[Screen fields](../concept/sg-screen-field-enhancements.md)
+**Parent Topic:**[Screen fields](sg-screen-field-enhancements.md)
 

@@ -38,7 +38,7 @@ After submission, the same information appears in the report view, including rat
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](../../project-workspace/task/access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](../project-workspace/access-new-project-workspace.md).
 
 2.  Open the Status reports page of the project by selecting **Status Reports** from the list.
 
@@ -75,5 +75,5 @@ After submission, the same information appears in the report view, including rat
 
 An AI-assisted status report is generated with predicted health values, an executive summary, and rationale text.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

@@ -119,7 +119,7 @@ For example, if the business calendar represents a fiscal year, and the starting
 
 **Note:** When you select **Business Calendar: Entry Start** or **Business Calendar: Entry End**, you can apply an offset factor to schedule the job to run before or after the time span of the selected business calendar. If you select a business calendar and all its business calendar spans are in the past, the job would never run since that is an invalid configuration. To learn more, see the **Offset type** and **Offset** fields.
 
-To learn more about creating and using business calendars and defining business calendar entries, see [Creating business calendars](../../time/concept/business-calendars.md) and [Define business calendar entries](../../time/task/define-business-calendar-entries.md#).
+To learn more about creating and using business calendars and defining business calendar entries, see [Creating business calendars](business-calendars.md) and [Define business calendar entries](define-business-calendar-entries.md#).
 
 </td></tr><tr><td>
 
@@ -287,20 +287,20 @@ Optional condition you can specify to filter the records queried from the select
 6.  Select **Update** to update the scheduled job, **Execute Now** to execute the scheduled script immediately, or **Delete** to delete the job.
 
 
-**Parent Topic:**[Create a scheduled job](../../time/task/t_CreateAScheduledJob.md)
+**Parent Topic:**[Create a scheduled job](t_CreateAScheduledJob.md)
 
 **Related topics**  
 
 
-[Advanced options for scheduled jobs](../../time/task/advanced-options-for-scheduled-jobs.md)
+[Advanced options for scheduled jobs](advanced-options-for-scheduled-jobs.md)
 
-[Create a scheduled job](../../time/task/t_CreateAScheduledJob.md)
+[Create a scheduled job](t_CreateAScheduledJob.md)
 
-[Enable run types for scheduled job child tables](../../time/task/customize-run-times-for-scheduled-jobs.md#)
+[Enable run types for scheduled job child tables](customize-run-times-for-scheduled-jobs.md#)
 
-[Personalize the system date format](../../time/task/t_PersonalizeTheSystemDateFormat.md)
+[Personalize the system date format](t_PersonalizeTheSystemDateFormat.md)
 
-[Set a system time zone](../../time/task/t_SetASystemTimeZone.md)
+[Set a system time zone](t_SetASystemTimeZone.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

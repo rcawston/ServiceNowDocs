@@ -78,7 +78,7 @@ Steps
 
 Update the associated claim case as per the refund or information that you receive from the refund bank.
 
-**Note:** If the claim is not closed within the number of days mentioned in the **sn\_bom\_payment.claim\_follow \_up\_interval\_in\_days** [payment property](../reference/properties-installed-with-payment-operations.md), the system creates another follow-up claim task for the claim.
+**Note:** If the claim is not closed within the number of days mentioned in the **sn\_bom\_payment.claim\_follow \_up\_interval\_in\_days** [payment property](properties-installed-with-payment-operations.md), the system creates another follow-up claim task for the claim.
 
 **Parent Topic:**[Work on a claim with an external refund](work-claim-with-external-refund.md)
 

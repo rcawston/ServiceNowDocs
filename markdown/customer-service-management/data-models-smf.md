@@ -146,7 +146,7 @@ The people who work at internal and external service organizations and assist cu
 
 </td></tr><tr><td>
 
-[Roles](../reference/csm-data-model-roles.md)
+[Roles](csm-data-model-roles.md)
 
 </td><td>
 
@@ -162,7 +162,7 @@ Job functions that are performed by various users in the service organization.
 
 </td></tr><tr><td>
 
-[Responsibility definitions](../reference/csm-data-model-responsibilities.md)
+[Responsibility definitions](csm-data-model-responsibilities.md)
 
 </td><td>
 
@@ -179,7 +179,7 @@ Definitions of the responsibilities that an agent can perform for a customer or 
 
 </td></tr><tr><td>
 
-[Relationships](../reference/csm-data-model-relationships.md)
+[Relationships](csm-data-model-relationships.md)
 
 </td><td>
 

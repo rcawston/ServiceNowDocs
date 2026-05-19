@@ -45,5 +45,5 @@ Provides administrative access to Advanced Work Assignment for legal application
 -   sn\_lg\_ops.legal\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Advanced Work Assignment for Legal Service Delivery reference](../concept/lsd-awa-reference-landing.md)
+</table>**Parent Topic:**[Advanced Work Assignment for Legal Service Delivery reference](lsd-awa-reference-landing.md)
 

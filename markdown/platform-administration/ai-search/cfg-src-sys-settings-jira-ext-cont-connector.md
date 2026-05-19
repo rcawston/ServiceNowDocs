@@ -184,5 +184,5 @@ Your connector admin needs these items to configure an Atlassian Jira Cloud exte
 
 For details on creating and configuring an Atlassian Jira Cloud external content connector, see [Create an Atlassian Jira Cloud external content connector](create-ext-cont-connector-jira.md).
 
-**Parent Topic:**[Atlassian Jira Cloud external content connector](../concept/atlassian-jira-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Jira Cloud external content connector](atlassian-jira-cloud-external-content-connector.md)
 

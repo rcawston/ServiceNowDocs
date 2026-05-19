@@ -42,7 +42,7 @@ The process to capture post-sale modification requests is similar to order captu
 
 You can also manage post-sale change requests from the customer accounts page, not only for products and services sold to a customer, but also to contracts and entitlements associated with the products and services. For more information about customer life cycle workflows, see [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md).
 
--   **[Request post-sale change orders](../task/create-macd-orders.md)**  
+-   **[Request post-sale change orders](create-macd-orders.md)**  
 Learn how to create orders for disconnecting, suspending, resuming products or services and changing specifications, characteristics, or service location for orders after an initial order has been fulfilled.
 -   **[Move order](move-order.md)**  
 The move order helps agents to change the location for product inventory at the order line level.

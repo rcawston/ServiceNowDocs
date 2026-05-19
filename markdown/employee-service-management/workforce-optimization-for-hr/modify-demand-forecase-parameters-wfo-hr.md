@@ -76,5 +76,5 @@ The default start date is set to 3 days ago starting from the day before the cur
     -   The **Forecast resources for future** job runs daily and uses the published forecast parameters to calculate the agent forecast. The calculation uses the resource conversion formula to calculate the forecast data from the current point forward. You can view the updated resources in the team calendar.
     -   Any other forecast parameters that were created would be unpublished and inactive.
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](../concept/setup-demand-forecast-wfo-hr.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](setup-demand-forecast-wfo-hr.md)
 

@@ -15,5 +15,5 @@ breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integ
 
 Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific indicators appear in your data sources.
 
-**Parent Topic:**[Configure Sighting Search](../task/configure-sighting-search.md)
+**Parent Topic:**[Configure Sighting Search](configure-sighting-search.md)
 

@@ -31,7 +31,7 @@ The IP address of the MID Server download site \(`install.service-now.com`\) can
 -   149.96.5.98
 -   149.96.6.98
 
-A maint user can change the MID Server download site URL with the MID Server system property **mid.install\_server.base\_uri**. The MID Server downloads the update files from the new URL instead. Users with closed environments can direct MID Servers to update through hosts in their environment. See [MID Server properties](../reference/r_MIDServerProperties.md#) and [\[KB1546609\] Configure Custom MID server Upgrade URL](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1546609) for more information.
+A maint user can change the MID Server download site URL with the MID Server system property **mid.install\_server.base\_uri**. The MID Server downloads the update files from the new URL instead. Users with closed environments can direct MID Servers to update through hosts in their environment. See [MID Server properties](r_MIDServerProperties.md#) and [\[KB1546609\] Configure Custom MID server Upgrade URL](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1546609) for more information.
 
 **Note:** Download the MID Server first and then enable Discovery, Orchestration, or any integration that requires the use of the MID Server.
 
@@ -61,10 +61,10 @@ A maint user can change the MID Server download site URL with the MID Server sys
 
 ## What to do next
 
-You can manually verify the signature of an installation package with the jarsigner tool to ensure its authenticity. For more information about verifying the signature, see the [MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md) section on manual verification.
+You can manually verify the signature of an installation package with the jarsigner tool to ensure its authenticity. For more information about verifying the signature, see the [MID Server upgrades](c_UpgradeAndTestMIDServer.md) section on manual verification.
 
 Install the MID Server on the host computer.
 
 -   [Linux](t_InstallAMIDServerOnLinux.md#)
--   [Windows](../concept/mid-server-install-prereqs.md#)
+-   [Windows](mid-server-install-prereqs.md#)
 

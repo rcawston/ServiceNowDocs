@@ -18,5 +18,5 @@ Activating the e-signature plugin installs additional roles and tables.
 -   **[Components installed with e-signature](components-installed-with-e-signature.md)**  
 Several types of components are installed with activation of e-signature, including tables and user roles.
 
-**Parent Topic:**[E-signature](../concept/e-signature.md)
+**Parent Topic:**[E-signature](e-signature.md)
 

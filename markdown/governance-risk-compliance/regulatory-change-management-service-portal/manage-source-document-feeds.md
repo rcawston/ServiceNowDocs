@@ -70,7 +70,7 @@ As a manager, you can view and assign the source document alerts to users with t
 
 The source document alert is assigned to the selected user and it is listed under the **All Assigned Alerts** module in the application.
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](regulatory-feeds.md)
 
 **Related topics**  
 

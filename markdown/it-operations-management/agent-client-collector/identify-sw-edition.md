@@ -27,7 +27,7 @@ Role required: agent\_client\_collector\_admin
 
 2.  Select **New** to set edition configuration for a Windows device.
 
-    The **Software Edition Configuration - New record** page appears. For details on the fields displayed on the page, see [Software edition configuration fields](../reference/software-edition-configuration.md).
+    The **Software Edition Configuration - New record** page appears. For details on the fields displayed on the page, see [Software edition configuration fields](software-edition-configuration.md).
 
 3.  Select **Submit**.
 
@@ -42,5 +42,5 @@ Role required: agent\_client\_collector\_admin
     The edition appears only after the **Software Installed** or **SAM Discovery** policy runs. By default, these policies runs once daily.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on endpoints](../concept/acc-endpoint-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)
 

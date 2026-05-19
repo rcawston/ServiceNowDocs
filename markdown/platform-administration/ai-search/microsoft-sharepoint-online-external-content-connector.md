@@ -30,21 +30,21 @@ Rendering a page's full viewable content requires an authenticated user session.
 
 For each page retrieved, the Microsoft SharePoint Online connector queries the SharePoint REST API's `_api/web/lists('<list-id>')/items(<item-id>)` endpoint to access the page's underlying list item. Via this API endpoint, the connector retrieves content primarily from the page's CanvasContent1 and WikiFields metadata fields, and also captures the page's other metadata fields such as title, author, and modification date where available. Page content stored exclusively in dynamic web parts may be retrieved only partially or not at all, since that content doesn't exist in the list item metadata.
 
-To learn how to view the portion of a page's content that can be retrieved using the Microsoft SharePoint Online connector, see [View retrievable page content using the Microsoft SharePoint Online REST API](../task/view-retrievable-page-content-mspo-rest-api.md).
+To learn how to view the portion of a page's content that can be retrieved using the Microsoft SharePoint Online connector, see [View retrievable page content using the Microsoft SharePoint Online REST API](view-retrievable-page-content-mspo-rest-api.md).
 
--   **[Estimate document volume for Microsoft SharePoint Online](../task/estimate-doc-volume-mspo.md)**  
+-   **[Estimate document volume for Microsoft SharePoint Online](estimate-doc-volume-mspo.md)**  
 Estimate the total number of documents included in your Microsoft SharePoint Online source system and the document counts for individual sites. Use this information to determine crawl scope settings needed for your Microsoft SharePoint Online external content connector.
--   **[Create a public/private key pair for the Microsoft SharePoint Online external content connector](../task/gen-cert-spo-ext-cont-connector.md)**  
+-   **[Create a public/private key pair for the Microsoft SharePoint Online external content connector](gen-cert-spo-ext-cont-connector.md)**  
 Generate a public/private key pair for the Microsoft SharePoint Online external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
--   **[Configure Microsoft SharePoint Online for external content indexing](../task/cfg-azure-spo-ext-cont-connector.md)**  
+-   **[Configure Microsoft SharePoint Online for external content indexing](cfg-azure-spo-ext-cont-connector.md)**  
 Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft SharePoint Online external content connector to access your Microsoft SharePoint Online source system.
--   **[Configure site and site collection access for the Microsoft SharePoint Online external content connector](../task/configure-site-collection-access-spo-external-content-connector.md)**  
+-   **[Configure site and site collection access for the Microsoft SharePoint Online external content connector](configure-site-collection-access-spo-external-content-connector.md)**  
 Allow the Microsoft SharePoint Online connector to crawl your sites and site collections by granting site-specific SharePoint API FullControl permissions to the OAuth 2.0 app registered in Microsoft Entra for the connector.
--   **[Create a Microsoft SharePoint Online external content connector](../task/create-ext-cont-connector-mspo.md)**  
+-   **[Create a Microsoft SharePoint Online external content connector](create-ext-cont-connector-mspo.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Microsoft SharePoint Online source system.
--   **[Configure crawl settings for a Microsoft SharePoint Online external content connector](../task/configure-crawl-settings-spo-ext-cont-connector.md)**  
+-   **[Configure crawl settings for a Microsoft SharePoint Online external content connector](configure-crawl-settings-spo-ext-cont-connector.md)**  
 Specify the sites you want your Microsoft SharePoint Online external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
--   **[View retrievable page content using the Microsoft SharePoint Online REST API](../task/view-retrievable-page-content-mspo-rest-api.md)**  
+-   **[View retrievable page content using the Microsoft SharePoint Online REST API](view-retrievable-page-content-mspo-rest-api.md)**  
 Review the elements of of a Microsoft SharePoint Online page's content that can be retrieved by the Microsoft SharePoint Online external content connector.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -52,7 +52,7 @@ Review the elements of of a Microsoft SharePoint Online page's content that can 
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

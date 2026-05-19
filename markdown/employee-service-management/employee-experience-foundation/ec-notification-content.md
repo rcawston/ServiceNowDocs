@@ -72,9 +72,9 @@ Notify supports the concept of SMS concatenation. The maximum length of a single
 
 </td></tr></tbody>
 </table>-   Configure notifications to work with an SMS service provider or configure a Twilio account. See [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md).
--   Create notification content. See [Create email, SMS, or push notification content](../task/ecpro-manage-notification-content.md).
--   Map SMS content to a campaign \(Content Experiences\). See [Create a campaign](../task/ecpro-manage-campaigns.md).
--   Schedule content \(Content Experiences\). See [Create a campaign](../task/ecpro-manage-campaigns.md), [Create content for a campaign](../task/ecpro-manage-content.md), or [Create campaign bundles/stages](../task/ecpro-manage-campaign-bundles.md), or [Scheduling the delivery of content](../task/ecpro-schedule-content.md).
+-   Create notification content. See [Create email, SMS, or push notification content](ecpro-manage-notification-content.md).
+-   Map SMS content to a campaign \(Content Experiences\). See [Create a campaign](ecpro-manage-campaigns.md).
+-   Schedule content \(Content Experiences\). See [Create a campaign](ecpro-manage-campaigns.md), [Create content for a campaign](ecpro-manage-content.md), or [Create campaign bundles/stages](ecpro-manage-campaign-bundles.md), or [Scheduling the delivery of content](ecpro-schedule-content.md).
 -   Run scheduled jobs:
     -   Content Experiences: Send SMS Notifications: Responsible for sending SMS notifications for campaigns. Default value is to run every hour.
     -   Content Experiences: Update Campaign Audience: Reevaluates the audience for a campaign and removes employees that no longer satisfy the criteria.

@@ -46,5 +46,5 @@ Role required: admin
 7.  To edit, select the rule name and update the required fields and select **Update**.
 
 
-**Parent Topic:**[Configuring exclusion rules](../concept/sem-configure-exclusion-rules.md)
+**Parent Topic:**[Configuring exclusion rules](sem-configure-exclusion-rules.md)
 

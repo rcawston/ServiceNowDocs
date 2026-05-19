@@ -27,7 +27,7 @@ With the support of an external inventory ID, you can do the following tasks:
 
 **Note:** You can also map the external product inventory ID with the product inventory record by using the Product Inventory Open API. For more information, see [Product Inventory Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/product-inventory-open-api.md).
 
--   **[Review the external product inventory details for a customer order](../task/order-mgt-review-ext-inventory.md)**  
+-   **[Review the external product inventory details for a customer order](order-mgt-review-ext-inventory.md)**  
 Review the external inventory details of the customer orders that you’ve received from the external Configure, Price, and Quote \(CPQ\) system during the order capture process.
 
 **Parent Topic:**[Managing service orders](managing-service-orders.md)

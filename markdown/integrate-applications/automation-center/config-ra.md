@@ -17,11 +17,11 @@ Configuring the Recommended Actions application to work with Automation Center e
 
 Configuring the Recommended Actions application with Automation Center involves the following tasks:
 
--   **[Install Recommended Actions application](../task/install-ra.md)**  
+-   **[Install Recommended Actions application](install-ra.md)**  
 Install the Recommended Actions application to use its capabilities.
--   **[Set the Recommended Actions application system properties](../task/set-sys-prop.md)**  
+-   **[Set the Recommended Actions application system properties](set-sys-prop.md)**  
 Set the system properties for the Recommended Actions application to view the recommendations in the contextual panel of the Automation Center Workspace.
--   **[Select option for Recommended Actions application](../task/select-option.md)**  
+-   **[Select option for Recommended Actions application](select-option.md)**  
 There are two options for the Recommended Actions application: String-based and ML-based. These options decide the kind of data that you get for your search. It displays data about automations in all states except the **Published** state.
 
 **Parent Topic:**[Configuring Automation Center](automation-center-setup.md)

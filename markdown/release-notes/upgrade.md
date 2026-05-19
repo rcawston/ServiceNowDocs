@@ -13,7 +13,7 @@ breadcrumb: [Prepare your upgrade, Australia release notes]
 
 The upgrade process moves your instance to a new ServiceNow release version. Understand the difference between upgrading and patching, release definitions, rollback and backup options, and how to test your non-production and production instance upgrades.
 
-Before you begin the upgrade process, read the [Australia release notes](../../family-release-notes.md) and review the [upgrade and migration tasks for your applications and features](upgrade-and-migration-tasks.md).
+Before you begin the upgrade process, read the [Australia release notes](family-release-notes.md) and review the [upgrade and migration tasks for your applications and features](upgrade-and-migration-tasks.md).
 
 ![Prepare, upgrade and test the test instance, upgrade and test production instance](../image/upgrade-cycle-at-large.png)
 
@@ -149,5 +149,5 @@ Conduct UAT.**Note:** The [Automated Test Framework](https://raw.githubuserconte
 </td></tr></tbody>
 </table>If you encounter any post-upgrade issues, document the issue's conditions, steps to reproduce the issue, and your customizations. [Contact Customer Service and Support](http://www.servicenow.com/support/contact-support.html) to open an incident for each issue, and provide this information accordingly. Customer Service and Support is available 24 hours a day, 7 days a week to assist you with any questions or issues.
 
-**Parent Topic:**[Prepare your upgrade](../../concept/rn-prepare-landing-page.md)
+**Parent Topic:**[Prepare your upgrade](rn-prepare-landing-page.md)
 

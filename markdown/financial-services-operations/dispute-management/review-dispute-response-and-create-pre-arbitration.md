@@ -45,7 +45,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
     The response might include the amount accepted for the chargeback or reasons the dispute wasn't accepted. You can also view the merchant response as an attachment in the activity stream.
 
-    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](../../fso-card-data-security/concept/manage-attachments-in-card-data-security.md).
+    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md).
 
 9.  In the **Response outcome** field, select **Resolved** or **Unresolved**.
 
@@ -105,5 +105,5 @@ request if you're within three days from the submission date and you haven't rec
 
 To recall the request, select **Recall**. When a response is received, the **Pre arbitration response received** value changes to **Yes** and the transaction state moves to **Work to Progress**.
 
-**Parent Topic:**[Collaboration dispute workflow](../concept/collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](collaboration-dispute-workflow.md)
 

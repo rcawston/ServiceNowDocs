@@ -53,7 +53,7 @@ As shown at the top, the Incident Spotlight group evaluates real-time data. Ther
 -   \[\[Opened\]\[relative\]\[on or before\]\[30\]\[Days\]\[ago\]\]
 -   \[\[Opened\]\[relative\]\[on or after\]\[90\]\[Days\]\[ago\]\]
 
-For more information, see [Create Spotlight criteria](../task/create-spotlight-criteria.md).
+For more information, see [Create Spotlight criteria](create-spotlight-criteria.md).
 
 **Parent Topic:**[Ranking records with Spotlight](spotlight.md)
 

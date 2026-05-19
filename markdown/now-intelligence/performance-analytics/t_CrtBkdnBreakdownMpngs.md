@@ -45,7 +45,7 @@ You can create multiple mappings for the same breakdown, enabling you to use tha
 
 </td><td>
 
-Select the **Field** in the indicator source that maps to records in the breakdown. See the use of the **Category** field in [Example: Field mapping](../concept/example-field-mapping.md).
+Select the **Field** in the indicator source that maps to records in the breakdown. See the use of the **Category** field in [Example: Field mapping](example-field-mapping.md).
 
 </td></tr><tr><td id="d135258e148">
 
@@ -53,7 +53,7 @@ Select the **Field** in the indicator source that maps to records in the breakdo
 
 </td><td>
 
-Select **Scripted**, then select the **Script** that defines the association between indicator records and breakdown elements.Use a script when you do not have the simple use case of a field in the indicator source that maps to a breakdown source table. A script can define a wide range of mapping relationships. The most common use case is when the breakdown source is a [bucket group](../concept/performance-analytics-glossary.md#) and the script returns an integer to assign an indicator score to a bucket. See [Example: Script mapping](../concept/example-script-mapping.md).
+Select **Scripted**, then select the **Script** that defines the association between indicator records and breakdown elements.Use a script when you do not have the simple use case of a field in the indicator source that maps to a breakdown source table. A script can define a wide range of mapping relationships. The most common use case is when the breakdown source is a [bucket group](performance-analytics-glossary.md#) and the script returns an integer to assign an indicator score to a bucket. See [Example: Script mapping](example-script-mapping.md).
 
  You cannot show real-time scores for an indicator that uses a scripted breakdown.
 
@@ -65,7 +65,7 @@ Select **Scripted**, then select the **Script** that defines the association bet
 6.  Repeat steps 2–5 as needed, to define additional mappings.
 
 
-**Parent Topic:**[Automated breakdowns](../concept/automated-breakdowns.md)
+**Parent Topic:**[Automated breakdowns](automated-breakdowns.md)
 
 **Previous topic:**[Create an automated breakdown](t_CreatingABreakdownForIndicators.md)
 

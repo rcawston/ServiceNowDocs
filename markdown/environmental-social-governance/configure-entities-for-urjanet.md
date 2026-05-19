@@ -78,5 +78,5 @@ Review state. Based on the information provided in the **Additional information*
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](integrating-esg-management-with-urjanet.md)
 

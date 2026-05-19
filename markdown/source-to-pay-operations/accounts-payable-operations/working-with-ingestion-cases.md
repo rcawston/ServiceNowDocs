@@ -32,7 +32,7 @@ The following figure illustrates the various states that the Invoice processing 
 |Closed incomplete|The case moves to this state when the invoice is in the Suspected duplicate state and the Accounts Payable Specialist selects the **Confirm duplicate** option.|
 |Canceled|The case is canceled because it was created in error or is no longer required.|
 
--   **[Work on an invoice processing case](../task/work-manual-invoice-ingestion-case.md)**  
+-   **[Work on an invoice processing case](work-manual-invoice-ingestion-case.md)**  
 Perform different manual actions to process an invoice.
 -   **[Invoice ingestion process when Document Intelligence is unavailable](invoice-ingest-docintel-unavailable.md)**  
 When Document Intelligence goes down or when Document Intelligence itself is not installed, and if you receive an invoice document via email, an invoice processing case is created but an invoice record is not created.
@@ -54,5 +54,5 @@ When Document Intelligence goes down or when Document Intelligence itself is not
 
 [Invoice approvals](invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)
 

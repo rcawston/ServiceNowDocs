@@ -17,7 +17,7 @@ Assign individual users and user groups to preconfigured Express List views to m
 
 ## Before you begin
 
-For more information about predefined Express List views, see [Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md).
+For more information about predefined Express List views, see [Configuring Express List views for users and user groups](manage-views-express-list.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -63,5 +63,5 @@ Procedure
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md)
+**Parent Topic:**[Configuring Express List views for users and user groups](manage-views-express-list.md)
 

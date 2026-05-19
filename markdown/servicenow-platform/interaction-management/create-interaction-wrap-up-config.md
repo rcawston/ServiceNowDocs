@@ -185,5 +185,5 @@ Enable this check box to use the AI-recommended code as the default code in plac
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+**Parent Topic:**[Interaction wrap up](interaction-wrap-up-state.md)
 

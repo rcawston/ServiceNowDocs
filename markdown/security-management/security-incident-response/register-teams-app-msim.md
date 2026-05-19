@@ -46,5 +46,5 @@ Role required: admin, Azure admin
 9.  You can either follow Step 6.1 or Step 6.2 to complete the procedure of establishing a connection on your ServiceNow instance.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](../../secops-integration-major-security-incident-management/concept/integrate-teams-msim.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](integrate-teams-msim.md)
 

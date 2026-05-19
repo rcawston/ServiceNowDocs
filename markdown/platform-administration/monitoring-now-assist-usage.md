@@ -43,7 +43,7 @@ Access details about Now Assist usage by navigating to **Admin** &gt; **Subscrip
     In some scenarios, data isn't displayed in the **Instances** list.
 
     -   Only instances on Washington DC Patch 2 and higher are listed in the **Instances** list.
-    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](../task/share-subscription-data.md).
+    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](share-subscription-data.md).
 -   View details for each of your products that include assists in the **Subscriptions** list.
     -   Determine whether assists are the primary or secondary line item in a purchase according to the value in the **Entitlement type** column.
     -   Verify the start date and end date for each product.

@@ -54,7 +54,7 @@ Role required: None
 9.  End the chat by selecting **End chat**.
 
 
-**Parent Topic:**[Using Now Assist for Employee Experience](../concept/use-now-assist-for-emp-exp.md)
+**Parent Topic:**[Using Now Assist for Employee Experience](use-now-assist-for-emp-exp.md)
 
 **Related topics**  
 

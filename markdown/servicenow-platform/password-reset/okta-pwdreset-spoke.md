@@ -77,7 +77,7 @@ Customize the default credential store records and password reset processes to i
 
 3.  Customize the default record as per your requirement.
 
-    For more information, see [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
+    For more information, see [Configure the connection to a credential store for the Password Reset processes](t_CreateACredentialStore.md).
 
 4.  Navigate to **Password Reset** &gt; **Processes**.
 
@@ -85,6 +85,6 @@ Customize the default credential store records and password reset processes to i
 
     **Note:** The **User must reset password** check box isn't supported in this integration. That is, you can't enforce users to reset their password upon first login after they reset password using the auto-generated password.
 
-    For more information, see [Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md).
+    For more information, see [Configure your Password Reset process](t_CreateAPasswordResetProcess.md).
 
 

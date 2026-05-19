@@ -57,7 +57,7 @@ On an employee card, select ![View menu icon](../image/viewmenu.png). Select any
     2.  Select **Validate selected skills**.
 **Note:** Employee credentials from Credly are also displayed in the activity stream.
 
--   **View skills**: Skill details page appears. For more information, see [Skill details of an employee](../concept/skill-details-emp.md).
+-   **View skills**: Skill details page appears. For more information, see [Skill details of an employee](skill-details-emp.md).
 -   **View profile**: The employee profile page appears with details such as reporting structure, coworkers, designation of employee.
 
 
@@ -86,7 +86,7 @@ Employee card
 
 </td><td>
 
-On an employee card, select ![View menu icon](../image/viewmenu.png). Select any of the following options:-   **View skill details**: Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](../concept/skill-details-emp.md).
+On an employee card, select ![View menu icon](../image/viewmenu.png). Select any of the following options:-   **View skill details**: Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](skill-details-emp.md).
 -   **Validate for employees**: Validate skills page appears:
     1.  Select the employees that you like to validate this skill for, and review their proficiency rankings.
     2.  Select **Validate selected employees**.

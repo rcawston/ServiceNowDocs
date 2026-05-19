@@ -35,7 +35,7 @@ ServiceNow Digital End-User Experience empowers IT to take proactive measures an
 
 ServiceNow Proactive Engagement is part of the ServiceNow Digital End-User Experience now. The Proactive Engagement application is installed as part of the Digital End-User Experience bundle. It assists in defining issue detection rules, resolution content, and engagement settings that help employees to self-solve digital experience issues by leveraging proactive identification of issues.
 
-For information on the ServiceNow Digital End-User Experience, see [Digital End-User Experience](../digital-end-user-experience/concept/dex-landing.md).
+For information on the ServiceNow Digital End-User Experience, see [Digital End-User Experience](../digital-end-user-experience-dex/dex-landing.md).
 
 ## DEX Admin/Engagement admin experience
 
@@ -71,7 +71,7 @@ For information on the ServiceNow Digital End-User Experience, see [Digital End-
 
         **Note:** Fallback options are configured by the DEX or Engagement admin.
 
-    The ServiceNow Proactive Engagement provides base resolution content. You can create your own resolution content as well. For more information, on the base resolutions, see [Proactive Engagement solution](concept/proactive-engagement-solution.md).
+    The ServiceNow Proactive Engagement provides base resolution content. You can create your own resolution content as well. For more information, on the base resolutions, see [Proactive Engagement solution](proactive-engagement-solution.md).
 
 
 **Parent Topic:**[Proactive Engagement](proactive-engagement-landing-page.md)

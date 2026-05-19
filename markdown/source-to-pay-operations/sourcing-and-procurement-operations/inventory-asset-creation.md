@@ -42,5 +42,5 @@ For more information on asset creation, see [Create assets](https://raw.githubus
 
 A fixed asset related list has also been added. It displays the fixed asset that is associated with this inventory asset if a capitalization policy was satisfied.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

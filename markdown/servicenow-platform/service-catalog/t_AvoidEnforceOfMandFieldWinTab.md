@@ -40,5 +40,5 @@ To avoid this enforcement in all order guides:
     To avoid enforcement of mandatory fields altogether, use the Ignore Mandatory Evaluation check box within the relevant order guide rule.
 
 
-**Parent Topic:**[Order guides](../concept/c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
 

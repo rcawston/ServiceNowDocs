@@ -95,5 +95,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     The exercise is saved in the **Pending** state.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

@@ -34,7 +34,7 @@ Specific business rules calculate the **Resolve time** field when the record is 
     ```
 
 
--   **[Display resolve time as a duration](../task/t_DisplayResolveTimeAsADuration.md)**  
+-   **[Display resolve time as a duration](t_DisplayResolveTimeAsADuration.md)**  
 You can display the resolve time as a human-readable duration rather than an integer representing a duration in seconds.
 
 **Parent Topic:**[Task fields for measuring work time](c_TaskFieldsForMeasuringWorkTime.md)

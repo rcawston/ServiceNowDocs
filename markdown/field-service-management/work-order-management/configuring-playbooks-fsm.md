@@ -46,11 +46,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The steps for setting up Playbooks for Field Service Management are:
 
-1.  [Install Playbooks for Field Service Management](../task/activate-fsm-playbook.md)
+1.  [Install Playbooks for Field Service Management](activate-fsm-playbook.md)
 
     Install the Playbooks for Field Service Management application \(sn\_fsm\_playbook\) if you have the admin role.
 
-2.  [Activate Playbooks for Field Service Management](../../../administer/process-automation-designer/task/activate-process-automation-designer-for-fsm.md)
+2.  [Activate Playbooks for Field Service Management](activate-process-automation-designer-for-fsm.md)
 
     Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by tables.
 

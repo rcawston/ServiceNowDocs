@@ -33,7 +33,7 @@ For more information on using the email client in a workspace, see Communicating
 
 The email client is activated with the Email Client plugin \(com.glide.email\_client\), which is active by default on the ServiceNow AI Platform.
 
-The email client is enabled by default on the incident table. To enable the email client for another table, add the **email\_client** dictionary attribute on the table's collection record. For more information, see [Enable the email client for a table](../task/enable-email-client.md).
+The email client is enabled by default on the incident table. To enable the email client for another table, add the **email\_client** dictionary attribute on the table's collection record. For more information, see [Enable the email client for a table](enable-email-client.md).
 
 The email client is enabled by default on the change table.
 
@@ -45,8 +45,8 @@ You can configure the email client by creating an Email Client Configuration \[s
 
 You can also create email client templates or quick messages to use predefined content in email client messages. For more information, see the following:
 
--   [Create an email client template](../task/t_CreateAnEmailClientTemplate.md#)
+-   [Create an email client template](t_CreateAnEmailClientTemplate.md#)
 -   [Composing emails with quick messages](quick-message.md)
 
-Optionally, you can give users the option to send email client messages as SMS text messages. For more information, see [Enable SMS delivery with the email client](../reference/r_EnableTheSMSDeliveryOption.md).
+Optionally, you can give users the option to send email client messages as SMS text messages. For more information, see [Enable SMS delivery with the email client](r_EnableTheSMSDeliveryOption.md).
 

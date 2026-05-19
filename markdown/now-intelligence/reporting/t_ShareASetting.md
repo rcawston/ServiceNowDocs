@@ -20,7 +20,7 @@ Control which users and groups can see a report in their Reports list.
 
 Role required: report\_admin, report\_global, or report\_group.
 
-This topic refers to Reporting in the Core UI. If your instance is a Australia release or migrated to Platform Analytics experience, see [Share a data visualization in the Visualization Designer](share-dv-ac.md#).
+This topic refers to Reporting in the Core UI. If your instance is a Australia release or migrated to Platform Analytics experience, see [Share a data visualization in the Visualization Designer](../share-dv-ac.md#).
 
 The following roles can share reports:
 
@@ -110,7 +110,7 @@ It is not possible to grant edit rights on a report when you share it.
 
 1.  Navigate to **All** &gt; **Reports** &gt; **View / Run** and select the report you want to control.
 
-    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 2.  In the upper right side of the report form, click the **Sharing** icon \(![Sharing icon](../../../common/image/Form_ShareIcon.png)\) and select **Share**.
 
@@ -171,12 +171,12 @@ Users who have permission to see the report.This field is available when the **G
     The people with whom you share the report must have rights to view the report data.
 
 
-**Parent Topic:**[Distribute reports](../concept/c_DistributeReports.md)
+**Parent Topic:**[Distribute reports](c_DistributeReports.md)
 
 **Related topics**  
 
 
-[Share a responsive dashboard](../../dashboards/task/t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](../performance-analytics/t_ControlAccessToADashboard.md)
 
-[Administering reports](../concept/c_AdminsteringReports.md)
+[Administering reports](c_AdminsteringReports.md)
 

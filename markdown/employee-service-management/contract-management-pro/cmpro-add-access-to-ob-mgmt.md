@@ -43,9 +43,9 @@ The Obligations tab will appear in contract repository records.
 
 ![View obligation for a signed contract fron the Obligations tab](../image/cmpro-obligation-tab.png "Obligations tab in contract repository record")
 
-For more information on roles required to work on obligation management, see [Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md).
+For more information on roles required to work on obligation management, see [Components installed with Contract Management Pro](cncore-comp-ccore.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

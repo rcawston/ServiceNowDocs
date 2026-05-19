@@ -118,33 +118,33 @@ Previous parent of the workplace entity.This field is applicable for workplace e
 **Related topics**  
 
 
-[Add a campus](../task/add-a-campus.md)
+[Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](../task/add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](../task/add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
-[Add an area using Workplace Space Management](../task/add-an-area.md)
+[Add an area using Workplace Space Management](add-an-area.md)
 
-[Add a room using Workplace Space Management](../task/add-a-room.md)
+[Add a room using Workplace Space Management](add-a-room.md)
 
-[Add a space using Workplace Space Management](../task/add-a-space.md)
+[Add a space using Workplace Space Management](add-a-space.md)
 
-[Allocate a cost center, department, or workplace entity](../task/add-cost-center-department-floor.md)
+[Allocate a cost center, department, or workplace entity](add-cost-center-department-floor.md)
 
-[Configure a workspace or desk as flexible or permanent](../task/assign-a-flex-perm-space.md)
+[Configure a workspace or desk as flexible or permanent](assign-a-flex-perm-space.md)
 
-[Update the measurement details of a workplace location](../task/update-measurement-details-of-workplace-location.md)
+[Update the measurement details of a workplace location](update-measurement-details-of-workplace-location.md)
 
-[Change the status of a workplace location](../task/change-active-status-of-workplace-location.md)
+[Change the status of a workplace location](change-active-status-of-workplace-location.md)
 
-[Configure a BOMA type](../task/configure-a-boma-type.md)
+[Configure a BOMA type](configure-a-boma-type.md)
 
-[Map a space type with BOMA type](../task/map-a-space-type-with-boma-type.md)
+[Map a space type with BOMA type](map-a-space-type-with-boma-type.md)
 
-[Create a Space Recommender rule](../task/create-a-space-recommender-rule.md)
+[Create a Space Recommender rule](create-a-space-recommender-rule.md)
 
 [Raise a space assistance request](../task/raise-a-space-recommendation-request.md)
 
-[Create a view-by configuration](../task/create-view-by-config.md)
+[Create a view-by configuration](create-view-by-config.md)
 

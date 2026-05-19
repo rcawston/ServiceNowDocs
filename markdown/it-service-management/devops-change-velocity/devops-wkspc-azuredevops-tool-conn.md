@@ -67,7 +67,7 @@ Steps
 </td><td>
 
 1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\) from the primary navigation.
-2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](../task/app-create-workspace.md).
+2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](app-create-workspace.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select Azure DevOps from the appropriate category \(Orchestration, Plan, Code, Artifact, or Software quality\).
 
@@ -114,13 +114,13 @@ Enter the password or access token to access this instance.For information on cr
 
 </td><td>
 
-Pre-requisites: -   [Create a tenant in Microsoft Entra](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Add a user to tenant in Microsoft Entra](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Create an organization in Azure portal](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Create an Azure DevOps app](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Register Azure DevOps as an OAuth provider](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Configure organization and project level settings](../task/set-up-azure-devops-oauth-2-0-credential.md#)
--   [Create credential record and get OAuth token](../task/set-up-azure-devops-oauth-2-0-credential.md#)
+Pre-requisites: -   [Create a tenant in Microsoft Entra](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Add a user to tenant in Microsoft Entra](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Create an organization in Azure portal](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Create an Azure DevOps app](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Register Azure DevOps as an OAuth provider](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Configure organization and project level settings](set-up-azure-devops-oauth-2-0-credential.md#)
+-   [Create credential record and get OAuth token](set-up-azure-devops-oauth-2-0-credential.md#)
 **Use an existing OAuth credential record**1.  Select the **Use an existing OAuth credential record** option.
 2.  Select a value in the **Credential** field.
 **Create a new credential record**1.  Clear the **Use an existing OAuth credential record** option.
@@ -138,7 +138,7 @@ Pre-requisites: -   [Create a tenant in Microsoft Entra](../task/set-up-azure-de
 
 6.  Permission checks are run on the credentials that you entered.
 
-    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Azure DevOps permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Azure DevOps permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -172,7 +172,7 @@ Pre-requisites: -   [Create a tenant in Microsoft Entra](../task/set-up-azure-de
 
     The ServiceNow DevOps extension will automatically create service connections while configuring webhooks. Service connections are required for sending build and release notifications from Azure DevOps. The extension also contains custom tasks to modify the Azure DevOps pipelines for change control, artifacts, and packages.
 
-    For more information on the extension, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](../task/config-dev-ops-extensions-azure.md#).
+    For more information on the extension, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](config-dev-ops-extensions-azure.md#).
 
     **Note:** If you skip this step, to send notifications from Azure DevOps, you must manually create service connections after configuring webhooks.
 
@@ -191,7 +191,7 @@ Pre-requisites: -   [Create a tenant in Microsoft Entra](../task/set-up-azure-de
     -   Nightly polling: If you don’t choose to configure now, you can enable nightly polling later to fetch data for any tracked plans by setting the **Enable Polling** property to **Yes**.
     1.  Enter the DevOps integration user name and password.
 
-        For information about creating the DevOps integration user and password, see [Set up integration user account in DevOps Change Velocity](../task/devops-plybk-set-up-system-accts.md).
+        For information about creating the DevOps integration user and password, see [Set up integration user account in DevOps Change Velocity](devops-plybk-set-up-system-accts.md).
 
         **Note:**
 
@@ -226,7 +226,7 @@ From the **Projects** tab on the tool record page, select a project to navigate 
 
     **Note:** The step to enter the integration user name and password is required to configure webhooks only when DevOps Config is installed or the Generic Connection on configure operation for Azure DevOps property is disabled. If this step is not required, webhooks are configured using token-based authentication.
 
--   To import historical data to the project objects like plans, repositories, or pipelines, associate the objects with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](../task/apps-associate-objects-wkspc.md).
+-   To import historical data to the project objects like plans, repositories, or pipelines, associate the objects with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
 
 ## Connect a project
 
@@ -267,7 +267,7 @@ Steps
 </td><td>
 
 1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\) from the primary navigation.
-2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](../task/app-create-workspace.md).
+2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](app-create-workspace.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select Azure DevOps from the appropriate category \(Orchestration, Plan, Code, Artifact, or Software quality\).
 
@@ -308,13 +308,13 @@ Steps
 
         -   **OAuth 2.0**: Pre-requisites:
 
-            -   [Create a tenant in Microsoft Entra](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Add a user to tenant in Microsoft Entra](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Create an organization in Azure portal](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Create an Azure DevOps app](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Register Azure DevOps as an OAuth provider](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Configure organization and project level settings](../task/set-up-azure-devops-oauth-2-0-credential.md#)
-            -   [Create credential record and get OAuth token](../task/set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Create a tenant in Microsoft Entra](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Add a user to tenant in Microsoft Entra](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Create an organization in Azure portal](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Create an Azure DevOps app](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Register Azure DevOps as an OAuth provider](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Configure organization and project level settings](set-up-azure-devops-oauth-2-0-credential.md#)
+            -   [Create credential record and get OAuth token](set-up-azure-devops-oauth-2-0-credential.md#)
             **Use an existing OAuth credential record**
 
             1.  Select the **Use an existing OAuth credential record** option.
@@ -335,7 +335,7 @@ Steps
 
     4.  Permission checks are run on the credentials that you entered.
 
-        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Azure DevOps permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Azure DevOps permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
         You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -371,7 +371,7 @@ Steps
 
     The ServiceNow DevOps extension will automatically create service connections while configuring webhooks. Service connections are required for sending build and release notifications from Azure DevOps. The extension also contains custom tasks to modify the Azure DevOps pipelines for change control, artifacts, and packages.
 
-    For more information on the extension, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](../task/config-dev-ops-extensions-azure.md#).
+    For more information on the extension, see [Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions](config-dev-ops-extensions-azure.md#).
 
     **Note:** If you skip this step, to send notifications from Azure DevOps, you must manually create service connections after configuring webhooks.
 
@@ -390,7 +390,7 @@ Steps
     -   Nightly polling: If you don’t choose to configure now, you can enable nightly polling later to fetch data for any tracked plans by setting the **Enable Polling** property to **Yes**.
     1.  Enter the DevOps integration user name and password.
 
-        For information about creating the DevOps integration user and password, see [Set up integration user account in DevOps Change Velocity](../task/devops-plybk-set-up-system-accts.md).
+        For information about creating the DevOps integration user and password, see [Set up integration user account in DevOps Change Velocity](devops-plybk-set-up-system-accts.md).
 
         **Note:**
 
@@ -480,10 +480,10 @@ From the **Projects** tab on the tool record page, select a project to navigate 
 
     **Note:** The step to enter the integration user name and password is required to configure webhooks only when DevOps Config is installed or the Generic Connection on configure operation for Azure DevOps property is disabled. If this step is not required, webhooks are configured using token-based authentication.
 
--   To import historical data to the project objects like plans, repositories, or pipelines, associate the objects with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](../task/apps-associate-objects-wkspc.md).
+-   To import historical data to the project objects like plans, repositories, or pipelines, associate the objects with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
 
 **Related topics**  
 
 
-[Configure webhooks from the tool record](../task/configure-webhooks-from-the-tool-record.md)
+[Configure webhooks from the tool record](configure-webhooks-from-the-tool-record.md)
 

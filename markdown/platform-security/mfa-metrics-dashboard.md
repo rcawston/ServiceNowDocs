@@ -92,5 +92,5 @@ MFA User Trend
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitor instance metrics](../../../administer/security/concept/monitoring-user-email-antivirus-metrics.md)
+</table>**Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 

@@ -17,7 +17,7 @@ An agent can get quick visibility into the work assigned, view announcements, an
 
 ## Roles required to access the landing page
 
-A user should have the itil role to access the landing page. A tier-1 agent is an itil user who belongs to a service desk group. A tier-2 agent is an itil user who doesn’t belong to a service desk group. For more information about redirection of tier-1 and tier-2 agents to the respective landing page, see [Redirect non-admin users to Service Operations Workspace](../task/redirect-sow-landing-page.md).
+A user should have the itil role to access the landing page. A tier-1 agent is an itil user who belongs to a service desk group. A tier-2 agent is an itil user who doesn’t belong to a service desk group. For more information about redirection of tier-1 and tier-2 agents to the respective landing page, see [Redirect non-admin users to Service Operations Workspace](redirect-sow-landing-page.md).
 
 ## Use cases
 
@@ -71,9 +71,9 @@ Header
 
 </td><td>
 
-This section displays the greeting text and shift details of the agent. For information about how you can customize this section, see [Configure the header message on the landing page](../task/modify-greeting-text.md).The image on the banner of the header section in the SOW landing page supports custom themes for a more personalized experience.For more information, see [Configure the space man on the landing page](../task/modify-space-man-landing-page.md).
+This section displays the greeting text and shift details of the agent. For information about how you can customize this section, see [Configure the header message on the landing page](modify-greeting-text.md).The image on the banner of the header section in the SOW landing page supports custom themes for a more personalized experience.For more information, see [Configure the space man on the landing page](modify-space-man-landing-page.md).
 
-The alert notification displayed on the banner of the pages in SOW is expanded automatically to adjust and fit the complete message. For more information, see [Configure the header message on the landing page](../task/modify-greeting-text.md).
+The alert notification displayed on the banner of the pages in SOW is expanded automatically to adjust and fit the complete message. For more information, see [Configure the header message on the landing page](modify-greeting-text.md).
 
 ![Header section](../image/greeting-text.png "Header section")
 
@@ -103,7 +103,7 @@ From this section, an agent can get an overview of various assignments from the 
 -   Change
 -   Request
 
- For information about customizing this section, see [Configure the donuts in the tier 1 landing page](../task/customize-first-level-cards.md).
+ For information about customizing this section, see [Configure the donuts in the tier 1 landing page](customize-first-level-cards.md).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Announcements
 
 This section notifies an agent of any announcements. The agent can view them in a list view or grid view.
 
- For information about how you can customize this section, see [Configure the Announcements section on the landing page](../task/modify-announcements-section.md).
+ For information about how you can customize this section, see [Configure the Announcements section on the landing page](modify-announcements-section.md).
 
  ![Announcements section](../image/announcements.png "Announcements section")
 
@@ -132,7 +132,7 @@ This section reminds agents of the upcoming tasks for the same day and next day.
  -   The **Today** tab shows tasks that you may want to attend to on the current day.
 -   The **Tomorrow** tab shows tasks coming up the day after the current day.
 
- When the [Workforce Optimization for ITSM plugin](../../configurable-workforce-optimization-itsm/task/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated, you can also view your upcoming shift information and the following tasks are displayed in this section:
+ When the [Workforce Optimization for ITSM plugin](../workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated, you can also view your upcoming shift information and the following tasks are displayed in this section:
 
 -   Events: Number of events such as training and time off that's related to your shifts.
 
@@ -144,7 +144,7 @@ This section reminds agents of the upcoming tasks for the same day and next day.
 
  For more information on Workforce Optimization for ITSM in Service Operations Workspace, see [Service Operations Workspace - Scheduling](itsm-sow-workspace-scheduling.md).
 
- For information about how you can customize this section, see [Configure the Upcoming section on the landing page](../task/modify-upcoming-section.md).
+ For information about how you can customize this section, see [Configure the Upcoming section on the landing page](modify-upcoming-section.md).
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Quick links
 
 </td><td>
 
-This section displays the configured quick links. For information about how you can customize this section, see [Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md).
+This section displays the configured quick links. For information about how you can customize this section, see [Add a user-specific quick link on the ITSM landing page](add-quick-link.md).
 
  ![Quick links section](../image/quick-links-section.png "Quick links section")
 
@@ -172,7 +172,7 @@ My performance
 
 </td><td>
 
-Analyze performance targets set by your manager.**Important:** This section is displayed only when the [Workforce Optimization for ITSM plugin](../../configurable-workforce-optimization-itsm/task/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated.
+Analyze performance targets set by your manager.**Important:** This section is displayed only when the [Workforce Optimization for ITSM plugin](../workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ My active learning section
 
 </td><td>
 
-Monitor learning tasks that you must complete. This section displays up to three learning tasks, which could include learning paths and courses that are new, due soon, or overdue. These tasks are either the ones that have been assigned to you or the ones you chose to self-enroll. The tasks are sorted by the due date and they're highlighted in red when they're overdue. You can also see the remaining duration to complete a task that you can select and complete.**Important:** This section is displayed only when the [Workforce Optimization for ITSM plugin](../../configurable-workforce-optimization-itsm/task/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated.
+Monitor learning tasks that you must complete. This section displays up to three learning tasks, which could include learning paths and courses that are new, due soon, or overdue. These tasks are either the ones that have been assigned to you or the ones you chose to self-enroll. The tasks are sorted by the due date and they're highlighted in red when they're overdue. You can also see the remaining duration to complete a task that you can select and complete.**Important:** This section is displayed only when the [Workforce Optimization for ITSM plugin](../workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md) \(sn\_wfo\_cfg\_itsm\) is activated.
 
 ![My active learning](../image/my-active-learning.png)
 
@@ -192,11 +192,11 @@ For more information, see [Service Operations Workspace - Learning](itsm-sow-coa
 **Related topics**  
 
 
-[Access Service Operations Workspace for ITSM](../task/access-sow-itsm.md)
+[Access Service Operations Workspace for ITSM](access-sow-itsm.md)
 
 [Service Operations Workspace for ITSM user interface](service-operations-workspace-ui.md)
 
 [Exploring Recommended Actions for ITSM in Service Operations Workspace](exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)
 
-[Exploring On-call Scheduling in Service Operations Workspace](../task/on-call-scheduling-in-service-operations-workspace.md)
+[Exploring On-call Scheduling in Service Operations Workspace](on-call-scheduling-in-service-operations-workspace.md)
 

@@ -28,5 +28,5 @@ After opening a request, you can modify the details and update it.
     If you don't see the location, contact the facilities administrator to add the location to the floor plan.
 
 
-**Parent Topic:**[Facilities requests](../../facilities-service-management/concept/c_FacilitiesRequests.md)
+**Parent Topic:**[Facilities requests](c_FacilitiesRequests.md)
 

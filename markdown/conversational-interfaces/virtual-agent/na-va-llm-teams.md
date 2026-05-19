@@ -21,7 +21,7 @@ To enable a bot with LLM-based capabilities and experience the LLM-based convers
 
 You can integrate Virtual Agent with Microsoft Teams either with your Now Virtual Agent bot or the Self-configured bot.
 
-To integrate Microsoft Teams with the Now Virtual Agent, see [Integrate Virtual Agent with Microsoft Teams](../task/va-integ-msteams.md).
+To integrate Microsoft Teams with the Now Virtual Agent, see [Integrate Virtual Agent with Microsoft Teams](va-integ-msteams.md).
 
 To integrate Microsoft Teams with a Self-configured bot, see [Integrating Virtual Agent with Microsoft Teams using the self-configured bot](va-integ-teams-self-configured-bot.md).
 

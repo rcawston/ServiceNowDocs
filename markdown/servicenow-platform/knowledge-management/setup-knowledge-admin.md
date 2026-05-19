@@ -57,7 +57,7 @@ Role required: admin.
 
 -   **Activate support for other languages besides English**
 
-    If languages other than English must be supported, activate the [Knowledge Management Internationalization](../concept/c_I18NKMInternational.md) plugins.
+    If languages other than English must be supported, activate the [Knowledge Management Internationalization](c_I18NKMInternational.md) plugins.
 
 -   **Coordinate with knowledge managers for knowledge base setup**
 
@@ -74,5 +74,5 @@ Knowledge Management guided setup provides a sequence of tasks that help you con
 
 For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

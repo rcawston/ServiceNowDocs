@@ -17,7 +17,7 @@ So you've installed Creator Studio on an instance. Now what? You must configure 
 
 ## Before you begin
 
-Creator Studio must be installed on the instance before you can configure it. Find out more about that in [Installing Creator Studio from the ServiceNow Store](../concept/installing-creator-studio-from-the-store.md).
+Creator Studio must be installed on the instance before you can configure it. Find out more about that in [Installing Creator Studio from the ServiceNow Store](installing-creator-studio-from-the-store.md).
 
 To ensure that forms appear correctly for users, the non-production and production instances must have the same Service Catalog and all of its categories.
 
@@ -64,9 +64,9 @@ Next, it's time to configure specific Creator Studio features, which include the
 
 ## What to do next
 
-After you finish configuring Creator Studio, you can configure Pipelines and Deployments to enable apps built in Creator Studio to be deployed to production. For information on how, see [Configure Pipelines and Deployments](../../pipelines-and-deployments/task/config-p-and-d.md).
+After you finish configuring Creator Studio, you can configure Pipelines and Deployments to enable apps built in Creator Studio to be deployed to production. For information on how, see [Configure Pipelines and Deployments](../app-engine-management-center/config-p-and-d.md).
 
-**Parent Topic:**[Configuring Creator Studio](../concept/configuring-creator-studio.md)
+**Parent Topic:**[Configuring Creator Studio](configuring-creator-studio.md)
 
 ## Set up the Creator Studio admin group
 
@@ -113,11 +113,11 @@ Role required: admin
 
 1.  Select the **Configure** button for the Set up collaboration descriptors to manage your user's capabilities section.
 
-    By default, owners can do anything on an app, while editors are more restricted in what they can do. For more information, see [Collaborating with others to build apps in Creator Studio](../reference/creator-studio-collaboration-roles.md).
+    By default, owners can do anything on an app, while editors are more restricted in what they can do. For more information, see [Collaborating with others to build apps in Creator Studio](creator-studio-collaboration-roles.md).
 
 2.  Customize the collaboration roles or add new ones.
 
-    For more information, see [Application collaboration](../../applications/concept/application-collaboration.md).
+    For more information, see [Application collaboration](../application-collaboration.md).
 
 3.  Update the record to save your changes.
 
@@ -134,7 +134,7 @@ Set up who has full access to Creator Studio to decide which users get full acce
 
 ### About this task
 
-For example, restricted users must request that an admin create a new app for them. For more information, see [Creator Studio roles and personas](../reference/roles-creator-studio.md).
+For example, restricted users must request that an admin create a new app for them. For more information, see [Creator Studio roles and personas](roles-creator-studio.md).
 
 ### Before you begin
 
@@ -301,7 +301,7 @@ The app must already be created before you can change the table for it.
 
 ### Before you begin
 
-For more information on changing an app's table, see [Changing the table for an app](../concept/creator-studio-admin-app-table-about.md).
+For more information on changing an app's table, see [Changing the table for an app](creator-studio-admin-app-table-about.md).
 
 Role required: admin, app configurator \(sn\_creatorstudio.app\_configurator\), or Creator Studio configuration admin \(sn\_creatorstudio.configuration\_admin\). For more information on working with granular roles, see [Granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/granular-admin-roles.md).
 

@@ -63,7 +63,7 @@ Tweets a message or media. Messages and media are tweeted as per X limits.**Note
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Spokes and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Spokes and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 The X Spoke provides AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance. For more information about AI agents, see [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md).
 
@@ -96,5 +96,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 **Note:** Two connection and credential alias records are needed for the X spoke. One for tweeting messages and other for tweeting media. Each alias should be associated with the respective X API.
 
-For information about setting up the spoke, see [Set up the X spoke](../task/setup-x-spk.md#).
+For information about setting up the spoke, see [Set up the X spoke](setup-x-spk.md#).
 

@@ -19,5 +19,5 @@ Data Discovery policies allow you to have fine-grained control over defining spe
 
 **Note:** If no columns are selected for a policy, all columns of the target table will be scanned
 
-See [Create a Data Discovery policy](../task/create-a-data-discovery-policy.md) to learn how to create a Data Discovery policy.
+See [Create a Data Discovery policy](create-a-data-discovery-policy.md) to learn how to create a Data Discovery policy.
 

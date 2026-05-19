@@ -31,7 +31,7 @@ The links you see here are also determined by which plugins are installed.
 -   If the ServiceNow Stream Connect Hermes \(com.glide.hub.stream\_connect.hermes\) plugin is installed, links to connect or disconnect Hermes topics appear.
 -   If both plugins are installed, links for both Hermes topics and Direct Kafka topics appear.
 
-For a list of Stream Connect plugins, see [Integration Hub plugins](../reference/ih-plugins.md).
+For a list of Stream Connect plugins, see [Integration Hub plugins](ih-plugins.md).
 
 Below the Related Links are tabs for Topics, Kafka Subscriptions, and Kafka Producers.
 

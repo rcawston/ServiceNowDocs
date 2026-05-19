@@ -68,8 +68,8 @@ Role required: sn\_doc.admin, sn\_doc.reader, or admin
 
 -   **[Assign a custom signing domain for CAC/PIV digital signatures](configure-domain-api-signing.md)**  
 Improve signing traffic management by assigning a custom domain for CAC/PIV digital signatures by setting an optional system property to override the default **glide.servlet.uri** setting.
--   **[Property value for digital signature using CAC or PIV smart cards](../reference/property-value-cac-piv-signing.md)**  
+-   **[Property value for digital signature using CAC or PIV smart cards](property-value-cac-piv-signing.md)**  
 Specify the method that will be used to identify and validate the user who has signed the PDF using the **com.snc.pdfsigning.validation.method** property.
 
-**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](../concept/digital-signature.md)
+**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](digital-signature.md)
 

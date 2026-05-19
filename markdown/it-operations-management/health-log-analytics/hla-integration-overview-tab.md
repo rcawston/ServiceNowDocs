@@ -135,5 +135,5 @@ The **Log Streaming Sources** table now shows a connection state of Connected or
 **Related topics**  
 
 
-[Review log streaming data and adjust integration settings in Health Log Analytics](../task/il-connector-overview-tab.md)
+[Review log streaming data and adjust integration settings in Health Log Analytics](il-connector-overview-tab.md)
 

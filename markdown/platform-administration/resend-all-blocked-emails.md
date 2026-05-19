@@ -36,5 +36,5 @@ Role required: admin
     2.  From the **Actions on selected rows** drop-down, select **Resend Blocked Emails**.
 
 
-**Parent Topic:**[Email bounce management](../concept/email-bounce.md)
+**Parent Topic:**[Email bounce management](email-bounce.md)
 

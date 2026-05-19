@@ -83,5 +83,5 @@ Use the reference lookup icon to select a preconfigured record screen that is as
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Mobile universal linking for supported URLs](../concept/universal-linking-support-urls.md)
+**Parent Topic:**[Mobile universal linking for supported URLs](universal-linking-support-urls.md)
 

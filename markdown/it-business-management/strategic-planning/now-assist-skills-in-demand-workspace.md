@@ -21,22 +21,22 @@ The demand summarization skill reviews the fields and related lists of a demand 
 
 The generated summary is displayed in a summary card on the demand record. You can copy the summary for further use.
 
-For more information, see [Summarize demands with demand summarization skill](../task/summarize-demand-in-demand-workspace.md).
+For more information, see [Summarize demands with demand summarization skill](summarize-demand-in-demand-workspace.md).
 
 ## Refine records
 
 The refine record skill improves demand quality by enabling AI-assisted text refinement directly within the text fields of demand records. Using the skill, you can elaborate on a brief description or shorten lengthy content without losing key information. This feature ensures demands are clear, complete, and actionable from the start.
 
-The skill considers other fields in the demand form to generate contextually relevant content. It reduces rework caused by missing or unclear information and helps demand managers create well-structured records more efficiently. For more information, see [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md).
+The skill considers other fields in the demand form to generate contextually relevant content. It reduces rework caused by missing or unclear information and helps demand managers create well-structured records more efficiently. For more information, see [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md).
 
 **Related topics**  
 
 
-[Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/now-assist-spm.md)
+[Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
 
-[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/exploring-now-assist-for-spm.md)
+[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/exploring-now-assist-for-spm.md)
 
-[Summarize demands with demand summarization skill](../task/summarize-demand-in-demand-workspace.md)
+[Summarize demands with demand summarization skill](summarize-demand-in-demand-workspace.md)
 
-[Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md)
+[Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md)
 

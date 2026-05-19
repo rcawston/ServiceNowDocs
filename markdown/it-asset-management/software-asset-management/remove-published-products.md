@@ -19,7 +19,7 @@ Remove published software products that you no longer manage or report on as par
 
 To be able to remove software products from the list of published software products, make sure that either the **com.snc.samp.manage.published.products** system property or the **com.snc.samp.manage.published.products** application property is enabled on your ServiceNow instance.
 
-**Note:** The application property is domain-specific and available only on a ServiceNow instance that has domain separation activated for Software Asset Management. For more information, see [Domain separation and Software Asset Management](../concept/domain-separation-software-asset-management.md) and [Set the domain-specific property to publish your software products](set-domain-specific-publish.md).
+**Note:** The application property is domain-specific and available only on a ServiceNow instance that has domain separation activated for Software Asset Management. For more information, see [Domain separation and Software Asset Management](domain-separation-software-asset-management.md) and [Set the domain-specific property to publish your software products](set-domain-specific-publish.md).
 
 Role required: sam\_admin
 
@@ -38,7 +38,7 @@ Role required: sam\_admin
 
 The software products that you removed are no longer shown in the Published products list.
 
-**Parent Topic:**[Manage phase-wise Software Asset Management implementation](../concept/manage-phasewise-imp-of-sam.md)
+**Parent Topic:**[Manage phase-wise Software Asset Management implementation](manage-phasewise-imp-of-sam.md)
 
 **Related topics**  
 

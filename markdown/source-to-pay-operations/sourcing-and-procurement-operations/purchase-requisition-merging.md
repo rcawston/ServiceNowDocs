@@ -75,5 +75,5 @@ Purchase lines within a purchase requisition can also be merged under the follow
 
 **Note:** Purchase requisition merging and purchase line merging are not applicable for bundled products.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

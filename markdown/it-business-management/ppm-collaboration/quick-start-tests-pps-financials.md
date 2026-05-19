@@ -572,7 +572,7 @@ Validate that the resource plans associated with a project, project task, or dem
 Rome
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Project Portfolio Management reference](../../../product/project-portfolio-suite-with-financials/reference/project-portfolio-management-reference.md)
+</table>**Parent Topic:**[Project Portfolio Management reference](project-portfolio-management-reference.md)
 
 **Related topics**  
 

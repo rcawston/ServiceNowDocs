@@ -36,7 +36,7 @@ Role required: itil, sn\_problem\_write, admin, problem\_admin, problem\_coordin
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Problem Task form](../reference/problem-task-form.md).
+    For a description of the field values, see [Problem Task form](problem-task-form.md).
 
 6.  Click **Submit**.
 
@@ -47,5 +47,5 @@ Role required: itil, sn\_problem\_write, admin, problem\_admin, problem\_coordin
 
 Assess the problem task.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

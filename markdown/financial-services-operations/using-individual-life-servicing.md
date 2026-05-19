@@ -31,7 +31,7 @@ Contributors and processors use personalized Workspace to work on all aspects of
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Policy admin
 
 </td><td>
 
-Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Underwriting admin
 
 </td><td>
 
-Configures the insurance underwriting workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the insurance underwriting workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td colspan="2">
 

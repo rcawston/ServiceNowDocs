@@ -42,5 +42,5 @@ Preserve the calculated interval trigger. See the illustration.
 </td></tr></tbody>
 </table>![Properties controlling trigger calculation](../image/property-preserve-calc.png)
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

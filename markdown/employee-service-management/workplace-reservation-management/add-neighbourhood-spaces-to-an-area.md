@@ -34,7 +34,7 @@ Ensure that the spaces are assigned to the area.
 1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration** &gt; **Spaces** and select the space.
 2.  On the form, ensure that the **Area** field has a value.
 
-For more information, see [Providing your workplace data](../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
+For more information, see [Providing your workplace data](../workplace-core/providing-your-workplace-data-wsd.md).
 
 Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_rsv.admin
 
@@ -76,7 +76,7 @@ If the reservable module to which the space is assigned has the **Enable restric
 
 To view the spaces assigned to an area, navigate to **Workplace Core** &gt; **Space Administration** &gt; **Areas** and select an area. The assigned spaces are displayed in the Spaces related list.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -115,9 +115,9 @@ To view the spaces assigned to an area, navigate to **Workplace Core** &gt; **Sp
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

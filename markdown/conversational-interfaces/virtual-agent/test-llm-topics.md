@@ -22,7 +22,7 @@ Preview, test, and debug topics that use large language models \(LLMs\) in the A
 
 You can test your topic's functions by running your conversation in a chat test window as you work. The web \(Service Portal\) chat client is the default test window.
 
-If you're using the [Virtual Agent integrations with third-party messaging apps](../concept/va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy Virtual Agent.
+If you're using the [Virtual Agent integrations with third-party messaging apps](va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy Virtual Agent.
 
 **Note:** If the Now Assist panel, Microsoft Teams application, or Slack application is configured for your environment, preview options for those channels are displayed in the Test button list. Select **Preview in Now Assist panel** or **Preview in Microsoft Teams** in the list to test your topic in those environments.
 
@@ -43,7 +43,7 @@ The chat test window opens in the Now Assist in Virtual Agent chat widget.
 
 ![](../images/test-llm-widget.png)
 
-If the topic is associated with multiple LLM assistants, select the **Test skill discovery** check box, then open the Assistant drop-down list to select which assistant you want to test. For more information about LLM assistants, see [LLM assistants](../../now-assist-in-va/concept/llm-assistants.md).
+If the topic is associated with multiple LLM assistants, select the **Test skill discovery** check box, then open the Assistant drop-down list to select which assistant you want to test. For more information about LLM assistants, see [LLM assistants](../now-assist-in-virtual-agent/llm-assistants.md).
 
 **Note:** The **Test in enhanced chat** option is available only from the Asset library list view. The **Test** button in the topic canvas adds options in a drop-down box if you configure Microsoft Teams or Slack for Virtual Agent.
 

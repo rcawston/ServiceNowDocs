@@ -22,7 +22,7 @@ Role required:
 -   For a business deposit service case: sn\_bom\_deposit\_b2b.agent or sn\_bom\_deposit\_b2b.agent\_connector
 -   For a personal deposit service case: sn\_bom\_deposit\_b2c.agent or sn\_bom\_deposit\_b2c.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -57,5 +57,5 @@ Use the case playbook that provides the activities and tasks required to researc
 
 The deposit case automatically updates to show Closed Complete.
 
-**Parent Topic:**[Using Financial Services Deposit Operations](../concept/using-deposit-ops.md)
+**Parent Topic:**[Using Financial Services Deposit Operations](using-deposit-ops.md)
 

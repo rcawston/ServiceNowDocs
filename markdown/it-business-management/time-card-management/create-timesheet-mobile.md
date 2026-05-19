@@ -37,5 +37,5 @@ Add time cards to the time sheet.
 -   **[Search for a time sheet from time sheet lists](search-timesheet-mobile.md)**  
 Search for a specific time sheet from the time sheet lists by applying filters.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

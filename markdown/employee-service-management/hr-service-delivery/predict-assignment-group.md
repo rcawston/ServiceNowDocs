@@ -38,5 +38,5 @@ By default the Auto Assignment Group for HR Cases solution definition is configu
 
 You can [manually train the predictive model](hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Case Assignment group record, and map the configured solution definition.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md)
 

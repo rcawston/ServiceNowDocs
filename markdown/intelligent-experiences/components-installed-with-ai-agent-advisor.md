@@ -41,7 +41,7 @@ The following tables are installed with AI Agent Advisor.
 -   AI Agent Advisor Scheduled Jobs \[sn\_agent\_miner\_sysauto\_script\]
 -   AI Agent Advisor Tool Match \[sn\_agent\_miner\_tool\_match\]
 
-**Parent Topic:**[AI Agent Advisor reference](../concept/ai-agent-advisor-reference.md)
+**Parent Topic:**[AI Agent Advisor reference](ai-agent-advisor-reference.md)
 
 **Related topics**  
 

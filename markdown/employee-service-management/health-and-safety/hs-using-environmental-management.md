@@ -20,5 +20,5 @@ For an overview of chemical management and its benefits, see [Chemical managemen
 -   **[Chemical management](hs-using-chemical-management.md)**  
 Use the Health and Safety Environmental Management application to view the chemical library, raise chemical requests, and submit the requests for approvals.
 
-**Parent Topic:**[Health and Safety Environmental Management](../reference/hs-environmental-management-landing-page.md)
+**Parent Topic:**[Health and Safety Environmental Management](hs-environmental-management-landing-page.md)
 

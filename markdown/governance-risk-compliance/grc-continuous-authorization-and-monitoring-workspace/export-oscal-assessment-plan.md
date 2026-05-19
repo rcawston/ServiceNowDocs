@@ -47,5 +47,5 @@ The export process generates files asynchronously. After generation completes, d
     The downloaded zip file contains OSCAL-compliant JSON files. You can validate these files using the OSCAL CLI validator and import them into other systems or share them with external auditors for assessment planning.
 
 
-**Parent Topic:**[Export in OSCAL format](../../grc-cam-workspace/concept/oscal-support-cam.md)
+**Parent Topic:**[Export in OSCAL format](oscal-support-cam.md)
 

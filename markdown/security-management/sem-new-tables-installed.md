@@ -36,5 +36,5 @@ The following are the tables installed with Security Exposure Management. These 
 |Security Exposure Management|Widget Aggregation \[sn\_sec\_sem\_m2m\_widget\_dashboard\]|Stores mapping between widgets, findings table, aggregation, and dashboards data.|
 |Security Exposure Management|Widget Grouping \[sn\_sec\_sem\_widget\_grouping\]|Stores widget group definitions for aggregations associated with selected dashboard widgets.|
 
-**Parent Topic:**[Security Exposure Management Workspace Components](../concept/sem-components-installed.md)
+**Parent Topic:**[Security Exposure Management Workspace Components](sem-components-installed.md)
 

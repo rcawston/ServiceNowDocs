@@ -55,5 +55,5 @@ Business glossary terms define business concepts and can be linked to catalog as
 8.  Select **Save**. ![Create a glossary term](../image/dc-glossary-create.png)
 
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](manage-data-catalog.md)
 

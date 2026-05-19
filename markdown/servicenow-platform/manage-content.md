@@ -15,15 +15,15 @@ Handle all the necessary aspects of document and knowledge base management for y
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
-[Document Services ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Create, maintain, and update your documents with this suite of products available for your instance.](../../../product/document-services/reference/document-services-landing-page.md)
+[Document Services ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Create, maintain, and update your documents with this suite of products available for your instance.](document-management-services/document-services-landing-page.md)
 
 </td><td>
 
-[Knowledge Management ![](../../../reuse/icons/brand-icons/bus-knowledge-management.svg) Create and share knowledge articles, and provide information for user self-help and troubleshooting.](../../../product/knowledge-management/concept/knowledge-management.md)
+[Knowledge Management ![](../../../reuse/icons/brand-icons/bus-knowledge-management.svg) Create and share knowledge articles, and provide information for user self-help and troubleshooting.](knowledge-management/knowledge-management.md)
 
 </td><td>
 
-[Response templates ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Leverage reusable text to display standard chat response messages to requesters in Agent Chat.](../../../product/human-resources/concept/response-templates-templated-snippets.md)
+[Response templates ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Leverage reusable text to display standard chat response messages to requesters in Agent Chat.](response-templates-templated-snippets.md)
 
 </td></tr></tbody>
 </table>## Document Services

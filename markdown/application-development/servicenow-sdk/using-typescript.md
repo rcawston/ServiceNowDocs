@@ -19,7 +19,7 @@ TypeScript uses static typing and type annotations to support developers catchin
 
 For general information about using TypeScript, see the [TypeScript Documentation](https://www.typescriptlang.org/docs/) on the typescriptlang.org website.
 
-**Parent Topic:**[Create and use JavaScript modules in applications with the ServiceNow SDK](../task/create-use-javascript-modules.md)
+**Parent Topic:**[Create and use JavaScript modules in applications with the ServiceNow SDK](create-use-javascript-modules.md)
 
 ## Use TypeScript in JavaScript modules
 
@@ -92,12 +92,12 @@ Follow this procedure to update existing applications that weren't created using
 
 5.  In the `src/server` directory, add at least one `.ts` file to contain module code.
 
-    For information about creating modules, see [Create and use JavaScript modules in applications with the ServiceNow SDK](../task/create-use-javascript-modules.md).
+    For information about creating modules, see [Create and use JavaScript modules in applications with the ServiceNow SDK](create-use-javascript-modules.md).
 
 
 ### What to do next
 
-Build and install the application to compile the TypeScript files into JavaScript modules and add the modules to the EcmaScript Module \[sys\_module\] table. For more information, see [Build and install an application with the ServiceNow SDK](../task/build-deploy-application-now-sdk.md).
+Build and install the application to compile the TypeScript files into JavaScript modules and add the modules to the EcmaScript Module \[sys\_module\] table. For more information, see [Build and install an application with the ServiceNow SDK](build-deploy-application-now-sdk.md).
 
 ## Add type definitions for APIs
 

@@ -60,5 +60,5 @@ lunch        tacos
 dinner       steak
 ```
 
-**Parent Topic:**[Content Management meta tags](../concept/c_ContentManagementMetaTags.md)
+**Parent Topic:**[Content Management meta tags](c_ContentManagementMetaTags.md)
 

@@ -55,14 +55,14 @@ Use a hierarchy if it makes sense for your organization. In the example below, t
     |Cost center|The cost center financially responsible for the item identified in **Source ID**, if any.|
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
 [Create an allocation rule](t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](c_CreateExpenseLinesAutomatically.md)
 
 [Delete an expense line](t_DeleteAnExpenseLine.md)
 

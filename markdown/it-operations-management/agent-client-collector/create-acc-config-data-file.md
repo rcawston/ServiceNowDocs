@@ -21,7 +21,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-A check definition is an individual check entry in the system. For details, see [Agent Client Collector configuration data files](../concept/acc-config-data-files.md).
+A check definition is an individual check entry in the system. For details, see [Agent Client Collector configuration data files](acc-config-data-files.md).
 
 Configuration data file attachments contain instance data, such as configuration item \(CI\) information, which is used when executing a check.
 
@@ -92,5 +92,5 @@ The Attachments dialog box opens.
 
 Checks use the configuration data file with instance data during check execution.
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

@@ -90,7 +90,7 @@ Monthly type
 
 </td><td>
 
-[Monthly schedule repetition frequency](../task/t_RepeatAMonthlySchedule.md). This field is only visible when the **Repeats** field has a value of **Monthly**. Monthly repeat options include:-   Repeat on a specific day of the month
+[Monthly schedule repetition frequency](t_RepeatAMonthlySchedule.md). This field is only visible when the **Repeats** field has a value of **Monthly**. Monthly repeat options include:-   Repeat on a specific day of the month
 -   Repeat on a specific day in a specific week of the month
 -   Repeat on the last day of the month
 -   Repeat on a specific weekday in the last week of the month
@@ -145,12 +145,12 @@ Type
 \[Optional\] Schedule entry description.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define a schedule](../task/t_DefineASchedule.md)
+</table>**Parent Topic:**[Define a schedule](t_DefineASchedule.md)
 
 **Related topics**  
 
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](c_UseSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](t_DefineASchedule.md)
 

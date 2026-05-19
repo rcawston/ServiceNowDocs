@@ -20,9 +20,9 @@ Define the technique detection coverage that your organization must measure and 
 
 ## About this task
 
-The technique coverage definitions are used in the overall technique detection mapping. You can use the base system technique coverage. The [base system technique coverage](../reference/scoring-definition.md) consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system technique coverage is also associated with pre-defined colors. You can customize the coverage type entries and colors, or create your own entries. For example, you can modify the base system coverage types to Not Applicable, Partial Coverage, and Complete Coverage. Alternatively, you can also create numerical measures for the coverage types such as 0-25 percent, 25–50 percent, and 50–100 percent. The type of modifications done to the base system coverage are not limited to the examples shared.
+The technique coverage definitions are used in the overall technique detection mapping. You can use the base system technique coverage. The [base system technique coverage](scoring-definition.md) consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system technique coverage is also associated with pre-defined colors. You can customize the coverage type entries and colors, or create your own entries. For example, you can modify the base system coverage types to Not Applicable, Partial Coverage, and Complete Coverage. Alternatively, you can also create numerical measures for the coverage types such as 0-25 percent, 25–50 percent, and 50–100 percent. The type of modifications done to the base system coverage are not limited to the examples shared.
 
-The customizations that you make to the coverage type and color are used in the [overall technique detection mapping](map-technique-coverage.md) and also in the [heat map](../concept/mitre-att-ck-heatmap-and-navigator.md#).
+The customizations that you make to the coverage type and color are used in the [overall technique detection mapping](map-technique-coverage.md) and also in the [heat map](mitre-att-ck-heatmap-and-navigator.md#).
 
 **Note:** If you modify the base system coverage definition, the Coverage Type icons do not display with the techniques in the heat map. The heat map works as expected when you modify the same fields as the base system's-defined technique detection coverage and coverage colors. However, if you delete existing fields from the overall technique detection coverage, the heat map does not display the coverage type icons.
 
@@ -48,7 +48,7 @@ Overall Technique Detection Coverage
 
 </td><td>
 
-Name of the overall technique detection coverage. The [base system technique coverage](../reference/scoring-definition.md) consists of None, Poor, Fair, Good, Very Good, or Excellent.
+Name of the overall technique detection coverage. The [base system technique coverage](scoring-definition.md) consists of None, Poor, Fair, Good, Very Good, or Excellent.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Description
 
 </td><td>
 
-Overall technique detection coverage. See the base system definition in the [Scoring Definition](../reference/scoring-definition.md).
+Overall technique detection coverage. See the base system definition in the [Scoring Definition](scoring-definition.md).
 
 </td></tr></tbody>
 </table>    The following illustration shows the Detection Coverage Definition list.
@@ -74,19 +74,19 @@ Overall technique detection coverage. See the base system definition in the [Sco
 3.  To add an entry, click **New**, complete the entries, and click **Submit**.
 
 
--   **[MITRE-ATT&amp;CK Scoring definition](../reference/scoring-definition.md)**  
+-   **[MITRE-ATT&amp;CK Scoring definition](scoring-definition.md)**  
 Define your organization's MITRE-ATT&amp;CK scoring system so that you can measure how effectively your organization can detect specific adversary techniques.
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -120,7 +120,7 @@ Define your organization's MITRE-ATT&amp;CK scoring system so that you can measu
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

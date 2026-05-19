@@ -87,5 +87,5 @@ Install and activate the Workflow Pause Utility plugin.
     |Paused Workflow Count|Number of current paused workflow contexts.|
 
 
-**Parent Topic:**[Workflow pause utility](../concept/workflow-pause-utility.md)
+**Parent Topic:**[Workflow pause utility](workflow-pause-utility.md)
 

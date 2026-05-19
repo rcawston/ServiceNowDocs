@@ -60,7 +60,7 @@ Third-party assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment\_review
 View assigned questionnaire responses in the Third-party Insights and TPRM Custom Analytics dashboard.
 
 </td></tr></tbody>
-</table>**Note:** All roles can create and customize personal dashboards, add data visualizations, and share their dashboards with others as viewers or editors. If you have the admin role, you must be in the same application scope as the dashboard and then you can delete any dashboard. For more information, see [Delete a TPRM dashboard](../task/tprm-delete-db.md).
+</table>**Note:** All roles can create and customize personal dashboards, add data visualizations, and share their dashboards with others as viewers or editors. If you have the admin role, you must be in the same application scope as the dashboard and then you can delete any dashboard. For more information, see [Delete a TPRM dashboard](tprm-delete-db.md).
 
 ## Third-party insights dashboard
 
@@ -76,13 +76,13 @@ This dashboard is pre-configured with a default list showing all active question
 
 To learn more about creating and using TPRM dashboards, see:
 
--   [Create a TPRM dashboard with the In-line editor](../task/tprm-create-db.md)
--   [Edit TPRM dashboard details](../task/edit-tprm-db-details.md)
--   [Edit TPRM dashboards](../task/edit-tprm-db.md)
--   [Edit TPRM dashboard elements](../task/tprm-edit-db-elements.md)
--   [Share a TPRM dashboard](../task/tprm-share-db.md)
--   [Delete a TPRM dashboard](../task/tprm-delete-db.md)
--   [TPRM Dashboards page](../../grc-workspace-vrm/concept/tprm-ws-dd-dashboards.md)
+-   [Create a TPRM dashboard with the In-line editor](tprm-create-db.md)
+-   [Edit TPRM dashboard details](edit-tprm-db-details.md)
+-   [Edit TPRM dashboards](edit-tprm-db.md)
+-   [Edit TPRM dashboard elements](tprm-edit-db-elements.md)
+-   [Share a TPRM dashboard](tprm-share-db.md)
+-   [Delete a TPRM dashboard](tprm-delete-db.md)
+-   [TPRM Dashboards page](tprm-ws-dd-dashboards.md)
 
 For more information on dashboards, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 

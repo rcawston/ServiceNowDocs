@@ -151,7 +151,7 @@ The contract template is saved in the Draft state.
 
 [Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
 
-**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 
 **Related topics**  
 

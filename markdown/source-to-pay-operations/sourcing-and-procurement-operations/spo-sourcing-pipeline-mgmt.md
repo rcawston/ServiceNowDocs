@@ -41,7 +41,7 @@ To filter and locate specific pipeline projects, fulfillers can use the All work
 
 Fulfillers can view tasks related to pipeline projects in the Distribution of Work section of the Summary panel on the Source-to-Pay Workspace workspace landing page. Pipeline projects also appear in the Recently updated section.
 
--   **[Components installed with Sourcing Pipeline Management](../reference/components-pipeline-mgmt.md)**  
+-   **[Components installed with Sourcing Pipeline Management](components-pipeline-mgmt.md)**  
 Several types of components are installed with activation of the Sourcing Pipeline Management \(sn\_spend\_pipeline\) plugin, including user roles and tables.
 -   **[Pipeline project creation rule for high-value sourcing requests](pipeline-project-creation-rule.md)**  
 By default, the Pipeline project creation rule decision table is used to create pipeline projects automtatically in Sourcing Pipeline Management.
@@ -65,7 +65,7 @@ The Pipeline management tab enables you to get insights into savings and pipelin
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 

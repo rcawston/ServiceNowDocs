@@ -32,5 +32,5 @@ The Signature Pad plugin \(com.snc.signaturepad\) isn't installed or is inactive
 2.  Ask the customer or contact to reopen the document after activating the plugin.
 
 
-**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+**Parent Topic:**[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](wsud-troubleshooting-reference.md)
 

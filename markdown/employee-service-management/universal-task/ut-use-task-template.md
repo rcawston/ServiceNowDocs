@@ -29,7 +29,7 @@ Role required: write access to the parent table, if the parent table is defined 
 
 4.  Fill in the fields that are left empty by the template.
 
-    Depending on what template you used, some of the fields will already be populated by the template. You can fill in the rest of the fields yourself. For more details on what each field means, see [Universal Task form](../reference/universal-task-form.md)
+    Depending on what template you used, some of the fields will already be populated by the template. You can fill in the rest of the fields yourself. For more details on what each field means, see [Universal Task form](universal-task-form.md)
 
 5.  To create your task, click any of the following buttons.
 
@@ -39,5 +39,5 @@ Role required: write access to the parent table, if the parent table is defined 
     |**__Submit__**|Task is created. The state of the task remains New, and no notification is sent to the employee.|
 
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](ut-task-template-landing.md)
 

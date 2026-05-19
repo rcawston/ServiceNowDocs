@@ -97,5 +97,5 @@ Enabling the **Playbooks for Field Service Management \[com.sn\_fsm\_playbook\]*
 -   Part Requirement \[sm\_part\_requirement\]
 -   Service Management Incidentals \[sm\_incidentals\]
 
-**Parent Topic:**[Activate Playbooks](../concept/activate-process-automation-designer.md)
+**Parent Topic:**[Activate Playbooks](activate-process-automation-designer.md)
 

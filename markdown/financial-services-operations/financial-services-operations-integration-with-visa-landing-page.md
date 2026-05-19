@@ -23,15 +23,15 @@ The ServiceNow® Financial Services Operations Integration with Visa allows you 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan and configure your integration.](../task/configuring-financial-services-operations-integration-with-visa.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan and configure your integration.](configuring-financial-services-operations-integration-with-visa.md)
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Work on integrating Financial Services Operations Integration with Visa application](../task/set-up-financial-services-operations-integration-with-visa.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Work on integrating Financial Services Operations Integration with Visa application](set-up-financial-services-operations-integration-with-visa.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components like fields, tables, and properties.](../reference/components-installed-with-the-financial-services-operations-integration-with-visa.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components like fields, tables, and properties.](components-installed-with-the-financial-services-operations-integration-with-visa.md)
 
 </td></tr></tbody>
 </table>## Request Financial Services Operations Integration with Visa on the store

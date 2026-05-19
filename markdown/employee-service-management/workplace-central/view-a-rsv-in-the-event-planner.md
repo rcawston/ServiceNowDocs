@@ -71,5 +71,5 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
 
 If you want to edit the reservation, refer to [Edit a reservation using the event planner](edit-a-reservation-using-the-event-planner.md).
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](working-with-event-planner.md)
 

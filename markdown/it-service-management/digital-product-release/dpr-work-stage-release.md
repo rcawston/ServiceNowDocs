@@ -112,7 +112,7 @@ Automated email notifications are triggered at key release life cycle events. No
 -   A task approval request is submitted
 -   A task approval request is rejected
 
-For more information, see [Email notifications in Digital Product Release](../reference/dpr-email-notification.md).
+For more information, see [Email notifications in Digital Product Release](dpr-email-notification.md).
 
 ### Procedure
 
@@ -122,7 +122,7 @@ For more information, see [Email notifications in Digital Product Release](../re
 
 2.  Review the risk score for the current phase on the Release overview dashboard.
 
-    The risk score for stage-oriented releases considers task completion, policy compliance, readiness dates, and progress thresholds. For more information, see [Risk score for stage-oriented releases](../concept/dpr-risk-score-release.md#).
+    The risk score for stage-oriented releases considers task completion, policy compliance, readiness dates, and progress thresholds. For more information, see [Risk score for stage-oriented releases](dpr-risk-score-release.md#).
 
 3.  Update a release phase.
 

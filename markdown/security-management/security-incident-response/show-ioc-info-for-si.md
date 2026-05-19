@@ -29,7 +29,7 @@ Role required: sn\_si.basic
 
     |Tab|Description|
     |---|-----------|
-    |Observables|View or manually add or edit observables associated with the security incident. For more information, see [Manage observables](../concept/sec-inc-observables.md).|
+    |Observables|View or manually add or edit observables associated with the security incident. For more information, see [Manage observables](sec-inc-observables.md).|
     |Associated Indicators|If Threat Intelligence is activated, you can view any other indicators associated with any of the same threat records.|
     |Sightings Search Results|Contains Sightings Search results.|
     |Sightings Search Details|Contains Sightings Search record details.|

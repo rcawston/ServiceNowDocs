@@ -73,7 +73,7 @@ The Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_
 
 ServiceNow Role required: sam\_admin or sam\_integrator
 
-**Important:** You must select the **CrowdStrike Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **CrowdStrike Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](request-saas-license-management.md).
 
 ### About this task
 
@@ -249,14 +249,14 @@ OAuth Redirect URL
 
     **Note:** The software entitlements and software models must be created before proceeding to the next step.
 
-    -   For more information on creating software entitlements in the Software Asset Management classic application, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
-    -   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
-    -   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+    -   For more information on creating software entitlements in the Software Asset Management classic application, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md).
+    -   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../software-asset-management/create-entitlements-workspace.md).
+    -   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../software-asset-management/guidedwalk-workspace.md).
     1.  On the CrowdStrike Product Workload Mappings page, select **New**.
 
     2.  On the form, fill in the fields.
 
-        For further details on the CrowdStrike Product Workload Mapping, see [Create a product workload mapping for CrowdStrike products](../task/create-product-workload-mapping-crowdstrike.md).
+        For further details on the CrowdStrike Product Workload Mapping, see [Create a product workload mapping for CrowdStrike products](../software-asset-management/create-product-workload-mapping-crowdstrike.md).
 
     3.  Select **Save**.
 
@@ -277,12 +277,12 @@ This integration pulls or creates usage records in the CrowdStrike Product Usage
 
 ### What to do next
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](create-child-alias-saas.md).
 
-You can view details on the usage records and workload mappings created with the CrowdStrike integration. For more information, see [License operations view](operations-workspace.md) in the Software Asset Workspace.
+You can view details on the usage records and workload mappings created with the CrowdStrike integration. For more information, see [License operations view](../software-asset-management/operations-workspace.md) in the Software Asset Workspace.
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../software-asset-management/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../software-asset-management/run-recon-workspace.md).
 

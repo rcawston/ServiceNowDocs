@@ -52,5 +52,5 @@ To remove the **Upload from URL** option in the HTML editor, add a new property 
 **Related topics**  
 
 
-[Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Add a system property](r_AvailableSystemProperties.md#)
 

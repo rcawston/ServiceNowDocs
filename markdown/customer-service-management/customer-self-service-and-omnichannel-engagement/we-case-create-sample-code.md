@@ -98,11 +98,11 @@ console.log(items);
 **Related topics**  
 
 
-[Configure the Case create component instance](../task/config-case-create-component-on-instance.md)
+[Configure the Case create component instance](config-case-create-component-on-instance.md)
 
-[Embed the Case create component instance on the third-party website](../task/embed-case-create-component-on-third-party-website.md)
+[Embed the Case create component instance on the third-party website](embed-case-create-component-on-third-party-website.md)
 
-[Event handlers in the Case create component](we-case-create-event-handlers.md)
+[Event handlers in the Case create component](../we-case-create-event-handlers.md)
 
-[Component properties for the Case create](comp-properties-case-create.md)
+[Component properties for the Case create](../comp-properties-case-create.md)
 

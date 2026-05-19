@@ -28,7 +28,7 @@ Role required: sn\_devops.admin
 
 Creating a DevOps tool integration procedure involves configuration by both your integration developer and your DevOps admin.
 
--   Your integration developer creates a tool integration record in DevOps, a Workflow Studio [subflow](../concept/creating-dev-ops-subflows.md), a tool capability mapping, and an integration capability record in DevOps to map the capabilities and actions together.
+-   Your integration developer creates a tool integration record in DevOps, a Workflow Studio [subflow](creating-dev-ops-subflows.md), a tool capability mapping, and an integration capability record in DevOps to map the capabilities and actions together.
 
     **Note:** Notification, connect, and discover capabilities are supported.
 
@@ -87,7 +87,7 @@ Active
 Selected
 
 </td></tr></tbody>
-</table>    2.  Navigate to **Flow Designer** &gt; **Designer** and [create a subflow](../concept/creating-dev-ops-subflows.md) to collect and transform data from the tool you are integrating \(source tool\).
+</table>    2.  Navigate to **Flow Designer** &gt; **Designer** and [create a subflow](creating-dev-ops-subflows.md) to collect and transform data from the tool you are integrating \(source tool\).
 
         **Note:** The **Run As** field must be set to System User, and the **Inputs** label must be set to current variable.
 
@@ -223,7 +223,7 @@ The value for this field is `my_app_scope.connect_code_tool`.
 
  **Note:** If the **Subflow name** field is left blank for a Notification capability, default handling of notifications occurs.
 
-See [Notification tool capability action](../concept/dev-ops-tool-integration.md#section_h44_1bx_zjb).
+See [Notification tool capability action](dev-ops-tool-integration.md#section_h44_1bx_zjb).
 
 </td></tr><tr><td>
 
@@ -263,5 +263,5 @@ global
     |Status|Allowed|
 
 
-**Parent Topic:**[User-created integrations in DevOps Change Velocity](../concept/dev-ops-tool-integration.md)
+**Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)
 

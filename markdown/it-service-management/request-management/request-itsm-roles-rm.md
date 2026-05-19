@@ -138,5 +138,5 @@ Select the date and time to activate the plugin.
 -   **[Components installed with ITSM Roles — Request Management](req-mgmnt-roles-instld-itsm.md)**  
 Several user roles are installed with the activation of the ITSM Roles - Request Management plugin \(com.snc.itsm.roles.request\_management\).
 
-**Parent Topic:**[Request Management reference](../../request-management/concept/request-management-reference.md)
+**Parent Topic:**[Request Management reference](request-management-reference.md)
 

@@ -34,7 +34,7 @@ Role required: admin
     **Note:** The Check Out step can be omitted from an order guide to provide a quicker two-step process. To omit this third step, select the **Two step** check box when creating the order guide.
 
 
-**Parent Topic:**[Order guides](../concept/c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
 
 ## Review an order guide example
 

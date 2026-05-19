@@ -25,7 +25,7 @@ You can add descriptive elements to input fields, sections that contain input fi
 
 You must have the following elements configured before you create descriptive elements:
 
--   A data source that contains at least one element identifier. Data sources facilitate the mapping of the descriptive element to the input form screen. For more information, see [Data sources](../concept/data-sources.md).
+-   A data source that contains at least one element identifier. Data sources facilitate the mapping of the descriptive element to the input form screen. For more information, see [Data sources](data-sources.md).
 -   A record section that can either be an input or an input form section:
     -   An input form section is a group of inputs in a defined area of the input form screen, usually with a defined header.
     -   Inputs are individual fields for users to complete within the input form screen. Inputs can be located either within a section or independent of a section.

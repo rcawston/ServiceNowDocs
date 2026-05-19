@@ -35,7 +35,7 @@ Number
 
 Unique system-assigned customer order number.
 
-**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [Order types in Sales Customer Relationship Management](../concept/som-order-types.md).
+**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [Order types in Sales Customer Relationship Management](som-order-types.md).
 
 </td></tr><tr><td>
 
@@ -357,7 +357,7 @@ Shows the number of months the subscription is valid based on the contract start
 </table>**Related topics**  
 
 
-[Add subscription pricing to an order](../task/add-subscription-pricing-to-an-order.md)
+[Add subscription pricing to an order](add-subscription-pricing-to-an-order.md)
 
 ## Order details page - Address fields
 

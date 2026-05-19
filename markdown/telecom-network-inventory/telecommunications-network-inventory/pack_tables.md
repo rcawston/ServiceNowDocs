@@ -124,10 +124,10 @@ Use pack tables to learn about the tables that help to model your 5G network.
 
 \* 3GPP is a trademark of ETSI.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Model 5G network function](../concept/modeling_5g_xnf.md)
+[Model 5G network function](modeling_5g_xnf.md)
 

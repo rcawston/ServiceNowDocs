@@ -25,7 +25,7 @@ Only cXML punchout products are displayed in both the **Categories** and **Suppl
 
 **Important:** Enabling shopping controls may affect the page load time.
 
-For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](../reference/ec-sh-checkout-flow.md).
+For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](ec-sh-checkout-flow.md).
 
 ## Procedure
 
@@ -60,5 +60,5 @@ For more information about the checkout experiences for shoppers based on whethe
     ![Product tile in Shopping Hub.](../image/sh-product-tile.png)
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

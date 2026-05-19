@@ -128,5 +128,5 @@ Visitors can use the camera to scan QR codes or to take their picture.
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

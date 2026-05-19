@@ -55,7 +55,7 @@ After AI Agent Advisor completes an analysis, it produces a prioritized list of 
 
 Implement an automation opportunity. For more information, see [Implement an automation opportunity from Now Assist Center](activate-automation-opportunity-now-assist-center.md).
 
-**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](../concept/now-assist-center-using-ai-agent-advisor.md)
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 

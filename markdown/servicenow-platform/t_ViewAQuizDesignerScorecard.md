@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-For detailed information about scorecards, see [Quiz Scorecards](../concept/c_QuizScorecards.md).
+For detailed information about scorecards, see [Quiz Scorecards](c_QuizScorecards.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ For detailed information about scorecards, see [Quiz Scorecards](../concept/c_Qu
 View scorecards for a quiz record.
 -   **[View an assessment category result](t_ViewACategoryResult.md)**  
 Category results contain values that represent an evaluated record's performance in a specific metric category. Each category result record stores data from one assessment group. Category result values are calculated based on category and metric weights and from metric result values for the same category.
--   **[Quiz scorecards](../concept/c_QuizScorecards.md)**  
+-   **[Quiz scorecards](c_QuizScorecards.md)**  
 The Quizzes application prepares printable scorecards.
 
 **Parent Topic:**[View a quiz result](t_ViewAQuizResult.md)
@@ -48,5 +48,5 @@ The Quizzes application prepares printable scorecards.
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 

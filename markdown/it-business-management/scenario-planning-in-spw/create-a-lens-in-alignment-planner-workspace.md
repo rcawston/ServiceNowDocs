@@ -31,7 +31,7 @@ Create a lens record and add the type of items \(Project, Demand, and others\) t
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Lens form](../reference/lens-form-alignment-planner-workspace.md).
+    For field information, see [Lens form](lens-form-alignment-planner-workspace.md).
 
 4.  Select **Submit**.
 
@@ -43,5 +43,5 @@ Create a lens record and add the type of items \(Project, Demand, and others\) t
 **Related topics**  
 
 
-[Lenses in Strategic Planning](../concept/lens-alignment-planner-workspace.md)
+[Lenses in Strategic Planning](lens-alignment-planner-workspace.md)
 

@@ -25,10 +25,10 @@ When you switch between dark, light or coral user interface themes, the images i
 Onboarding modals introduce you to new ServiceNow® experiences through wizard-like interfaces in Next Experience. Learn about capabilities, benefits, and implementation approaches for effective user onboarding.
 -   **[Configure](configure-onboarding-modals.md)**  
 Plan and configure the Onboarding modals to experience new applications.
--   **[Edit the default onboarding modal](../task/configure-next-experience-onboarding.md)**  
+-   **[Edit the default onboarding modal](configure-next-experience-onboarding.md)**  
 Edit the default onboarding modal to personalize content for your users.
--   **[Reference](../reference/onboarding-modals-reference.md)**  
+-   **[Reference](onboarding-modals-reference.md)**  
 Reference information for user roles and best practices when implementing onboarding modals.
 
-**Parent Topic:**[Adoption services](../../../build/adoption-services/concept/adoption-services.md)
+**Parent Topic:**[Adoption services](adoption-services.md)
 

@@ -42,7 +42,7 @@ Role required: sn\_ti.case\_user\_write
     The selected artifacts are removed from the list of excluded artifacts and returned to the list of artifacts included in the case.
 
 
-**Parent Topic:**[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+**Parent Topic:**[Security artifact exclusion and inclusion](artifact-inclusion-exclusion.md)
 
 **Related topics**  
 

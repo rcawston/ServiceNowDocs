@@ -24,7 +24,7 @@ Qualification cases include:
     -   Conduct a Supplier Risk Assessment: Conduct a risk assessment for a supplier.
     -   Onboard a Supplier: Onboard a supplier for a purchase.
     -   Conduct a Supplier Tiering Assessment: Conduct a tiering assessment for a supplier.
-    **Note:** For these supplier cases, the decision templates are available only when you have the Supplier Lifecycle Operations application installed. You must also enable the Risk Assessments Integration for Sourcing and Procurement Operations application and have the GRC Vendor Risk Management license if you want the Conduct a Supplier Tiering Assessment case to be generated. For information on how a supplier tiering assessment task influences sourcing request states, see [Sourcing and Procurement Operations integration with Third-party Risk Management](../concept/better-together-with-vrm.md).
+    **Note:** For these supplier cases, the decision templates are available only when you have the Supplier Lifecycle Operations application installed. You must also enable the Risk Assessments Integration for Sourcing and Procurement Operations application and have the GRC Vendor Risk Management license if you want the Conduct a Supplier Tiering Assessment case to be generated. For information on how a supplier tiering assessment task influences sourcing request states, see [Sourcing and Procurement Operations integration with Third-party Risk Management](better-together-with-vrm.md).
 
 -   Contract cases​:
     -   Contract Review: Review contracts for a purchase.
@@ -45,5 +45,5 @@ When working within a negotiation or sourcing event that has an associated sourc
 
 **Note:** If the qualification event had been started for a sourcing request, and cases had been created on the sourcing request before it was mapped to a negotiation or sourcing event, and there’s an overlap in cases, then previously created cases on the sourcing request are automatically closed and the new cases created for the negotiation or sourcing event are retained.
 
-**Parent Topic:**[Procurement Case Management](../concept/psd-overview.md)
+**Parent Topic:**[Procurement Case Management](psd-overview.md)
 

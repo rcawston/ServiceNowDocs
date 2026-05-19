@@ -44,7 +44,7 @@ The following screen shows these high-level components in a cryptographic module
 
 ![Shows the components of a cryptographic module](../image/crypto-components.png "Cryptographic module components")
 
-For details on creating cryptographic modules, see [Create a cryptographic module](../task/create-cryptographic-module.md).
+For details on creating cryptographic modules, see [Create a cryptographic module](create-cryptographic-module.md).
 
-**Parent Topic:**[Exploring the Key Management Framework](../../encryption/concept/explore-kmf.md)
+**Parent Topic:**[Exploring the Key Management Framework](explore-kmf.md)
 

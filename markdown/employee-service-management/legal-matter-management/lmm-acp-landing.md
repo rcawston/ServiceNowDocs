@@ -60,7 +60,7 @@ The Privileged and Confidential status of a legal request and its associated mat
 **Related topics**  
 
 
-[Work on a legal matter](../task/work-on-legal-matter-1.md)
+[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 
-[Disable attorney client privilege for legal matter](../task/lmm-acp-disable.md)
+[Disable attorney client privilege for legal matter](lmm-acp-disable.md)
 

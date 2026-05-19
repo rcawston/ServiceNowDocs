@@ -66,10 +66,10 @@ Role required: sn\_bcm.admin or sn\_bcm.program\_manager
 
 1.  If it’s a recovery event, select anywhere on the **Response Tasks** card to take you to the event details.
 2.  In the **Details** tab of the event, update the details if necessary.
-3.  Select the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Crisis events](../concept/crisis-management-uib.md).
+3.  Select the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Crisis events](crisis-management-uib.md).
 
     All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] that is related to the event \[sn\_recovery\_event\].
 
 
-**Parent Topic:**[Structured workflows for Crisis map](../concept/crisis-map-collective-tasks.md)
+**Parent Topic:**[Structured workflows for Crisis map](crisis-map-collective-tasks.md)
 

@@ -279,8 +279,8 @@ True-up cost
 Estimated cost of remediating non-compliance based on the least number of rights needed.
 
 </td></tr></tbody>
-</table>    The Unlicensed Installs related list contains the [software installations](../concept/c_DiscoveryModelsSAMF.md) that are unlicensed.
+</table>    The Unlicensed Installs related list contains the [software installations](c_DiscoveryModelsSAMF.md) that are unlicensed.
 
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin classic](../concept/using-samf-classic.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin classic](using-samf-classic.md)
 

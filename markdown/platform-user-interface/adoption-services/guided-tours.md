@@ -27,7 +27,7 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable, create, modify, and customize Guided Tours.](../task/configure-guided-tours.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable, create, modify, and customize Guided Tours.](configure-guided-tours.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Watch this five-minute video to learn about creating Guided Tours that help user
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get more information about Guided Tours.](../reference/guided-tour-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get more information about Guided Tours.](guided-tour-reference.md)
 
 </td><td>
 

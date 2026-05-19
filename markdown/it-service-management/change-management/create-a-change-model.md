@@ -92,7 +92,7 @@ Implementation states
 
 </td><td>
 
-Implementation state for the change model. For more information on states, see [Legacy: State model and transitions](../concept/c_ChangeStateModel.md).If you are using Mass CI Update with change models, verify that the **Implementation states** field in the model is set to the state in which you want the changes to take effect.
+Implementation state for the change model. For more information on states, see [Legacy: State model and transitions](c_ChangeStateModel.md).If you are using Mass CI Update with change models, verify that the **Implementation states** field in the model is set to the state in which you want the changes to take effect.
 
 </td></tr></tbody>
 </table>4.  In the **Security** tab, fill in the fields.
@@ -218,10 +218,10 @@ User groups that can approve templates created using this change model.
 Configure states for change models and define transition between multiple states.
 -   **[Create predefined transition condition types](create-predefined-transition-condition-type.md)**  
 Create predefined transition conditions to reuse the conditions for your change models.
--   **[Attach a process for Change model states](../concept/attach-process-change-model.md)**  
+-   **[Attach a process for Change model states](attach-process-change-model.md)**  
 You can attach a process with defined conditions to the Change model states to enable state transitions.
 -   **[Create and propose a change template](create-change-template.md)**  
 Create, customize, and then propose for publication a change template aligned to a change model to make change creation faster, and promote data quality and consistency.
 
-**Parent Topic:**[Configuring Change Management](../concept/configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](configure-change-management.md)
 

@@ -38,5 +38,5 @@ Role required: timecard\_user
     **Note:** If the project or user manager is changed after submitting the time card, the time card is automatically redirected to the new project or user manager for approval.
 
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

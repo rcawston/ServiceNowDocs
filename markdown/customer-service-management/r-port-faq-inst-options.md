@@ -157,7 +157,7 @@ The default option is Exceed preview.
 </table>**Related topics**  
 
 
-[Portal FAQ widget](../concept/portal-faq-widget.md)
+[Portal FAQ widget](customer-self-service-and-omnichannel-engagement/portal-faq-widget.md)
 
-[Add and configure the Portal FAQ widget](config-portal-faq-widget-inst-optns.md)
+[Add and configure the Portal FAQ widget](customer-self-service-and-omnichannel-engagement/config-portal-faq-widget-inst-optns.md)
 

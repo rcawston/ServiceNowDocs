@@ -17,7 +17,7 @@ Set up your implementation for Health and Safety Contractor Management by instal
 
 ## Configuration overview
 
--   [Install Health and Safety Contractor Management](../task/hs-install-contractor-management.md)
+-   [Install Health and Safety Contractor Management](hs-install-contractor-management.md)
 
     Install the Health and Safety Contractor Management application \(sn\_hs\_crm\) if you have the admin role.
 
@@ -25,7 +25,7 @@ Set up your implementation for Health and Safety Contractor Management by instal
 
     For more information on this role, see [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md).
 
--   [Assign Health and Safety profile to contractor workers](../task/hs-assign-hs-user-profile-contract-worker.md)
+-   [Assign Health and Safety profile to contractor workers](hs-assign-hs-user-profile-contract-worker.md)
 
     Assign the Health and Safety profile to all contractor workers who need to complete assigned tasks to work at your site.
 

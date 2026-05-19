@@ -17,7 +17,7 @@ After you have configured and refined your test environment to be a good represe
 
 Role required: admin.
 
-To ensure that all stakeholders in your company are prepared for the final production upgrade, complete the administrative planning tasks in Phase 6 of the [Upgrade planning checklist](../upgrades-planning-checklist.md). When upgrading a production instance:
+To ensure that all stakeholders in your company are prepared for the final production upgrade, complete the administrative planning tasks in Phase 6 of the [Upgrade planning checklist](upgrades-planning-checklist.md). When upgrading a production instance:
 
 -   Obtain confirmation from IT and management that all non-production instance defects have been fixed, validated, and included in an update set.
 -   Use the change management process established by your organization to track the upgrade.

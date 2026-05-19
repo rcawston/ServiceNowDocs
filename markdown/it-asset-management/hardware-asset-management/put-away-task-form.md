@@ -28,5 +28,5 @@ Fields on the Asset put away task form help you create a put away task for the i
 |Due date|Date by which the Asset put away task should be closed.|
 |Notes|Notes about the task. The **Short description** and **Description** field values are automatically populated.|
 
-**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

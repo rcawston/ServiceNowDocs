@@ -42,5 +42,5 @@ Role required: sn\_dlir.analyst
     ![DLP incident sensitive information violated record.](../image/dlp-icap-match-content-details.png)
 
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../concept/icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
 

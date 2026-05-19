@@ -35,7 +35,7 @@ Description of the properties that determine the behavior of Agent Client Collec
 Agent Client Collector performs data collection based on the scoped apps that you've installed. Agent Client Collector Framework performs basic data collection, and Agent Client Collector for Visibility - Content performs enhanced data collection.
 -   **[Account commands for LocalService, LocalSystem, and gMSA during Windows installation](gmsa-and-local-account-commands.md)**  
 When installing an agent on a Windows host using a LocalService, LocalSystem, or gMSA account, you must run msi commands to enable the accounts.
--   **[Verify API is associated with a live agent](../task/acc-api-live-agent.md)**  
+-   **[Verify API is associated with a live agent](acc-api-live-agent.md)**  
 Call the AgentNowHandler.hasAgent API to determine if the CI is associated with a live agent. The API gets a sys\_id of the CI and returns a true/false result.
 -   **[Configuration file options](acc-yml-options.md)**  
 Options available in the `acc.yml` configuration file.

@@ -23,7 +23,7 @@ Consider the following points when using the Knowledge Management - Add-in for M
 
 -   The URL is automatically generated for Word documents created in Microsoft SharePoint and Microsoft OneDrive with business accounts only.
 
-    For other applications, account types and custom SharePoint URLs, you must manually enter the URL in the **Document URL** field on the Knowledge form in Microsoft Word. For more information, see [Create a knowledge article in Microsoft Word](../task/create-article-word.md).
+    For other applications, account types and custom SharePoint URLs, you must manually enter the URL in the **Document URL** field on the Knowledge form in Microsoft Word. For more information, see [Create a knowledge article in Microsoft Word](create-article-word.md).
 
 -   The conversion time of a knowledge article from a Microsoft Word document depends on the document size.
 -   Headers and footers corresponding to pages in the Microsoft Word document appear as is in the knowledge article. You can remove headers and footers in the Microsoft word document before creating or updating the knowledge article.
@@ -32,18 +32,18 @@ Consider the following points when using the Knowledge Management - Add-in for M
 
 ## Activation information
 
-Activate the Knowledge Management - Add-in for Microsoft Word plugin \(com.snc.knowledge.ms\_word\) to access knowledge articles from within the Microsoft Word online application. For more information, see [Activate Knowledge Management - Add-in for Microsoft Word](../task/activate-km-word-add-in.md).
+Activate the Knowledge Management - Add-in for Microsoft Word plugin \(com.snc.knowledge.ms\_word\) to access knowledge articles from within the Microsoft Word online application. For more information, see [Activate Knowledge Management - Add-in for Microsoft Word](activate-km-word-add-in.md).
 
 **Related topics**  
 
 
-[View a knowledge article in Microsoft Word](../task/view-article-word.md)
+[View a knowledge article in Microsoft Word](view-article-word.md)
 
-[Create a knowledge article in Microsoft Word](../task/create-article-word.md)
+[Create a knowledge article in Microsoft Word](create-article-word.md)
 
-[Edit a knowledge article in Microsoft Word](../task/edit-article-word.md)
+[Edit a knowledge article in Microsoft Word](edit-article-word.md)
 
-[Publish a knowledge article in Microsoft Word](../task/publish-article-word.md)
+[Publish a knowledge article in Microsoft Word](publish-article-word.md)
 
-[Configure Knowledge Management - Add-in for Microsoft Word](../task/configure-km-add-in-word.md)
+[Configure Knowledge Management - Add-in for Microsoft Word](configure-km-add-in-word.md)
 

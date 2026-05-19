@@ -69,5 +69,5 @@ SPM Node Weight\[spm\_node\_weight\]
 Used to assign a weight value to a node in relation to the value of its sibling nodes.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Service Portfolio Management](../../service-portfolio-management2/concept/SPM2-configuring.md)
+</table>**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
 

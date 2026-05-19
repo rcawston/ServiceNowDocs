@@ -141,5 +141,5 @@ Assignee \(group\)
 User group to which you want to assign the configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Set up an approval configuration record](../task/set-up-approval-configurator.md)
+</table>**Parent Topic:**[Set up an approval configuration record](set-up-approval-configurator.md)
 

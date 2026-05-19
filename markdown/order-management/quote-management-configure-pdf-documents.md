@@ -19,13 +19,13 @@ Add customized templates to quote PDF documents using the ServiceNow document te
 
 A standard template is included with the base installation of Quote Management.
 
-See [Set up PDF document templates](../task/quote-mgt-setup-pdf-document-templates.md) to learn more about PDF document templates and how they work.
+See [Set up PDF document templates](quote-mgt-setup-pdf-document-templates.md) to learn more about PDF document templates and how they work.
 
 ## Link quote PDF documents to Docusign
 
 Sales operation specialists can link quote PDF documents to Docusign so that signers can sign PDF documents electronically.
 
-See [Configure DocuSign for PDF documents](../task/quote-mgt-configure-docusign-pdf.md) for more information about how to set up Docusign.
+See [Configure DocuSign for PDF documents](quote-mgt-configure-docusign-pdf.md) for more information about how to set up Docusign.
 
 ## Set up quote PDF document signers
 
@@ -34,5 +34,5 @@ Sales operation specialist can set up PDF document signers in Quote Management. 
 -   Contacts listed in an account linked to the quote can be external signers.
 -   Internal signers are all the users that have either sales\_agent or sales\_ops\_specialist roles in Quote Management.
 
-See [Set up PDF document signers](../task/quote-mgt-configure-pdf-document-signers.md) for more information.
+See [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md) for more information.
 

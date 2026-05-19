@@ -26,5 +26,5 @@ Horizontal bar visualizations enable you to show the comparative size or frequen
 -   **[Vertical bar visualization example](dv-example-v-bar.md)**  
 Vertical bar visualizations enable you to show the comparative size or frequency of different categories or groups, for example, sales in different regions or over different periods of time. The X axis of a vertical usually shows a numerical value such years or date ranges, age ranges, or salary ranges.
 
-**Parent Topic:**[Create a horizontal or vertical bar data visualization](../../reporting/task/create-dv-bar-ac.md)
+**Parent Topic:**[Create a horizontal or vertical bar data visualization](create-dv-bar-ac.md)
 

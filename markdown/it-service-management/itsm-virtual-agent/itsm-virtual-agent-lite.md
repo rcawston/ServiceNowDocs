@@ -28,8 +28,8 @@ The ITSM Virtual Agent Lite pre-built, read-only topic conversation templates ar
 -   Check Ticket Status
 -   Report an Issue
 
--   **[Setting up ITSM Virtual Agent Lite](../task/setup-itsm-virtual-agent-lite.md)**  
+-   **[Setting up ITSM Virtual Agent Lite](setup-itsm-virtual-agent-lite.md)**  
 Setup ITSM Virtual Agent Lite using to use the read-only, pre-built conversation topics for your most common ITSM self-service cases. For example, you can connect your users with a virtual agent to check ticket status, search the knowledge base, and report an issue.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](../r_ITServiceManagement.md)
 

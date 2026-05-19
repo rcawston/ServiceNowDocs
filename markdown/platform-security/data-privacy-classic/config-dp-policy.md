@@ -27,7 +27,7 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy \(Classic\)** &gt; **Privacy Policy Configuration**.
 
@@ -37,7 +37,7 @@ Role required: data\_privacy\_admin and admin
 
 5.  In the **Data Class** field, select the data class to use with this policy.
 
-    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](../concept/data-classification.md).
+    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](../data-classification/data-classification.md).
 
     After selecting a data class, the **Privacy Classified Field Techniques** and **Privacy Primary Reference Links** lists display on the form.
 

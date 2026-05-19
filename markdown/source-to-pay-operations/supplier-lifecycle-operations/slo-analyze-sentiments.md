@@ -51,5 +51,5 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 [Summarize supplier performance in Source-to-Pay Workspace](summarize-supp-perf.md)
 
-[Automate supplier case creation from emails](../concept/automated-supplier-case-creation-from-emails.md)
+[Automate supplier case creation from emails](automated-supplier-case-creation-from-emails.md)
 

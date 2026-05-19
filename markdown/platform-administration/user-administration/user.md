@@ -49,7 +49,7 @@ User records are associated with records on several other tables to control perm
 
 -   **Subscriptions**
 
-    Administrators use subscriptions to control which users have access to purchased subscriptions on their instances. Details on subscription management can be found at [Subscription Management](../../subscription-management/reference/subscription-management-landing-page-v2.md).
+    Administrators use subscriptions to control which users have access to purchased subscriptions on their instances. Details on subscription management can be found at [Subscription Management](../subscription-management-landing-page-v2.md).
 
 -   **User preferences**
 
@@ -60,7 +60,7 @@ User records are associated with records on several other tables to control perm
 
 You can set your preferred date and time formatting through the User record. If you don't specify a preference in these fields, the system applies default formatting.
 
-The Date format field appears in the User record by default and can be modified without specific permissions. However, the Time format field must be added to the User record by revealing additional form fields. For instructions on showing or hiding form fields, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#). If you can't modify form fields, contact your organization's user administrator to update your time format preferences.
+The Date format field appears in the User record by default and can be modified without specific permissions. However, the Time format field must be added to the User record by revealing additional form fields. For instructions on showing or hiding form fields, see [Configuring the form layout](../configure-form-layout.md#). If you can't modify form fields, contact your organization's user administrator to update your time format preferences.
 
 The Date and time format field in **User Menu** &gt; **Preferences** &gt; **Language &amp; Region** extends the options you select in the Date format and Time format fields of your User record. For more information, see [User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md). Timezone settings automatically sync between the User record and your preferences.
 

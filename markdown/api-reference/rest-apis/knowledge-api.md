@@ -19,13 +19,13 @@ You can only use this API when the Knowledge API \(sn\_km\_api\) plugin is activ
 
 **Note:** The Knowledge Management REST API is publicly accessible and makes any knowledge base that is publicly accessible available to all users, including unauthenticated users. For version 1.0.1 and later, the API was made editable, allowing admins to configure each endpoint to disallow unauthenticated access by selecting the **Requires Authentication** flag on the Scripted REST Service Security tab associated with the API.
 
-To enable other domains to use Knowledge Management REST API endpoints, define a Cross-Origin Resource Sharing \(CORS\) rule. For more information, see [Define a CORS rule](../task/t_DefineACORSRule.md).
+To enable other domains to use Knowledge Management REST API endpoints, define a Cross-Origin Resource Sharing \(CORS\) rule. For more information, see [Define a CORS rule](../rest-api-explorer/t_DefineACORSRule.md).
 
 To view an article from the scoped knowledge base using this REST API, allow the sn\_km\_api scope read access from the requesting scope in the Restricted Caller Access Privileges \[sys\_restricted\_caller\_access\] table. For more information, see [Define cross-scope access to an application resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/set-RCA-level.md).
 
-By default, this API has a rate limit of 500 per hour for unauthenticated and snc\_external users. For more information about rate limiting, see [Inbound REST API rate limiting](inbound-REST-API-rate-limiting.md).
+By default, this API has a rate limit of 500 per hour for unauthenticated and snc\_external users. For more information about rate limiting, see [Inbound REST API rate limiting](../rest-api-explorer/inbound-REST-API-rate-limiting.md).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## Knowledge Management - GET /knowledge/articles
 
@@ -37,7 +37,7 @@ Versioned URL: `/api/sn_km_api/{api_version}/knowledge/articles`
 
 Default URL: `/api/sn_km_api/knowledge/articles`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -159,7 +159,7 @@ Text to search for, can be empty.Data type: String
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -184,7 +184,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -550,7 +550,7 @@ Versioned URL: `/api/sn_km_api/{api_version}/knowledge/articles/{article_sys_id}
 
 Default URL: `/api/sn_km_api/knowledge/articles/{article_sys_id}/attachments/{attachment_sys_id}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -599,7 +599,7 @@ Sys\_id of record to which the attachment belongs.Data type: String
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -624,7 +624,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -662,7 +662,7 @@ Versioned URL: `/api/sn_km_api/{api_version}/knowledge/articles/featured`
 
 Default URL: `/api/sn_km_api/knowledge/articles/featured`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -748,7 +748,7 @@ Starting record index for which to begin retrieving records. Use this value to p
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -773,7 +773,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -1122,7 +1122,7 @@ Versioned URL: `/api/sn_km_api/{api_version}/knowledge/articles/{id}`
 
 Default URL: `/api/sn_km_api/knowledge/articles/{id}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](../rest-api-explorer/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../rest-api-explorer/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -1226,7 +1226,7 @@ Data type: Boolean that is always handled as true when passed whether set to `"t
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -1251,7 +1251,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

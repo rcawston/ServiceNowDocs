@@ -17,7 +17,7 @@ You can install ServiceNow Voice for HR if you have the admin role. The applicat
 
 -   Ensure that the application and all of its associated ServiceNow® Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Your organization must have purchased the Agent Workspace for HR Case Management \(sn\_hr\_agent\_ws\) subscription.
--   Ensure that Amazon Connect Integration with ServiceNow Voice \(sn\_cti\_amzn\_cct\) is installed. For more information, see [Install ServiceNow Voice applications](../../cloud-call-center/task/install-ccc-apps.md).
+-   Ensure that Amazon Connect Integration with ServiceNow Voice \(sn\_cti\_amzn\_cct\) is installed. For more information, see [Install ServiceNow Voice applications](install-ccc-apps.md).
 
 Role required: admin
 
@@ -30,7 +30,7 @@ The following items are installed with ServiceNow Voice for HR:
 -   Contact flows
 -   Operation handlers
 
-For more information, see [Components installed with ServiceNow Voice for HR Agent Workspace](../../cloud-call-center/reference/instld-with-hr-agent.md).
+For more information, see [Components installed with ServiceNow Voice for HR Agent Workspace](instld-with-hr-agent.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ For more information, see [Components installed with ServiceNow Voice for HR Age
 
 ## What to do next
 
-Follow these steps to [Integrate ServiceNow Voice with Amazon Connect](../../cloud-call-center/task/integrate-ccc-amazonconnect.md).
+Follow these steps to [Integrate ServiceNow Voice with Amazon Connect](integrate-ccc-amazonconnect.md).
 
-**Parent Topic:**[Integrating ServiceNow Voice for HR](../../cloud-call-center/concept/integrate-voice-hr-agent.md)
+**Parent Topic:**[Integrating ServiceNow Voice for HR](integrate-voice-hr-agent.md)
 

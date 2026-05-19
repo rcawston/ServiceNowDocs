@@ -211,37 +211,37 @@ The metric Number of active devices uses the script pictured below. The *primary
 
 ![Scripted metric example](../images/ScriptedMetricExample.png "Scripted metric example")
 
--   **[Configure an assessment](../task/configure-assessment.md)**  
+-   **[Configure an assessment](configure-assessment.md)**  
 You can create a new assessment on a selected assessable records to evaluate, score, and rank records from any table in the system. Then create a metric category and assessment metrics for the assessment, publish the assessment, and assign it to the selected users.
 -   **[Assessment generation](c_AssessmentGeneration.md)**  
 In the Assessments application, administrators or assessment administrators can trigger the system to generate scheduled assessments or on-demand assessments when all the prerequisite steps are completed.
 -   **[Assessment groups](c_AssessmentGroups.md)**  
 An assessment group is a container for assessment instances and assessment results generated in a single occurrence.
--   **[View an assessment metric category](../task/t_CreateAnAssessmentCategory.md)**  
+-   **[View an assessment metric category](t_CreateAnAssessmentCategory.md)**  
 View assessment metric categories that are used with assessment metric types and assessment metrics in generating the bubble charts on the Demand Workbench. The bubble charts help the demand managers to assess the demands visually.
 -   **[Assessment metrics](c_AssessmentMetrics.md)**  
 In the Assessments application, a metric is a trait or value used to evaluate assessable records.
--   **[Add a metric category and metric in the question bank for assessments](../task/add-questionbank-assessment.md)**  
+-   **[Add a metric category and metric in the question bank for assessments](add-questionbank-assessment.md)**  
 Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for assessments. You can add metric categories or metrics from the question bank to an assessment, or from the assessment to a question bank.
--   **[Copy an assessment](../task/copy-assessment.md)**  
+-   **[Copy an assessment](copy-assessment.md)**  
 Create a copy of an assessment with at least one category to reduce the effort of creating another assessment with similar data.
--   **[Create a metric template](../task/t_CreateAMetricTemplate.md)**  
+-   **[Create a metric template](t_CreateAMetricTemplate.md)**  
 Create a metric template to define reusable rating scales for evaluating non-scripted metrics.
--   **[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)**  
+-   **[Category users and stakeholders](r_CategoryUsersAndStakeholders.md)**  
 Users who take assessments are individuals in your organization who have specific knowledge of the assessment categories and the records being assessed.
 -   **[On-demand assessments](c_OnDemandAssessments.md)**  
 On-demand assessments can be generated for metric types with the Schedule type field set to On demand.
 -   **[Scheduled assessments](c_ScheduledAssessments.md)**  
 The system generates a unique scheduled job for each metric type with the **Schedule type** field set to **Scheduled**.
--   **[Configure trigger conditions for an assessment](../task/t_CreateTriggerAssessment.md)**  
+-   **[Configure trigger conditions for an assessment](t_CreateTriggerAssessment.md)**  
 Trigger conditions specify when to send a particular assessment and who to send the assessment to.
--   **[Enable manager notifications](../../notification/task/t_EnablingManagerNotifications.md)**  
+-   **[Enable manager notifications](t_EnablingManagerNotifications.md)**  
 Users with the assessment\_admin role can enable the Notify manager assessment is overdue email notification.
--   **[View a metric result](../task/t_ViewAMetricResult.md)**  
+-   **[View a metric result](t_ViewAMetricResult.md)**  
 Metric results contain values that represent an evaluated record's performance for a specific metric, based on a single evaluation from one user or from the execution of a script. Metric results contain actual values as well as calculated values. The system uses values from metric results to calculate category results.
--   **[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)**  
+-   **[View an assessment scorecard](t_ViewAnAssessmentScorecard.md)**  
 The Assessments application prepares printable scorecards. A scorecard displays easy-to-interpret assessment results, in which the current calculated ratings for an assessable record are compared to previous ratings or to the ratings of other records.
--   **[Create a decision matrix](../task/t_CreateADecisionMatrix.md)**  
+-   **[Create a decision matrix](t_CreateADecisionMatrix.md)**  
 The name and labels on a decision matrix are closely linked to the categories you choose for the axes. For that reason, first select the metric type and define the X and Y axes before you fill in other fields on the Decision Matrix form.
 
 **Parent Topic:**[Using assessments](using-assessments.md)
@@ -251,9 +251,9 @@ The name and labels on a decision matrix are closely linked to the categories yo
 
 [Assessment metrics](c_AssessmentMetrics.md)
 
-[Create an assessment metric for a category](../task/t_CreateAMetric.md)
+[Create an assessment metric for a category](t_CreateAMetric.md)
 
-[Create an assessment metric definition](../task/t_CreateAMetricDefinition.md)
+[Create an assessment metric definition](t_CreateAMetricDefinition.md)
 
-[Update a metric minimum and maximum value to match a template](../task/t_UpdAMetrMinMaxValToMatchATmplate.md)
+[Update a metric minimum and maximum value to match a template](t_UpdAMetrMinMaxValToMatchATmplate.md)
 

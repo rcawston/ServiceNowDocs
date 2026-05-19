@@ -59,5 +59,5 @@ The system does not generate indexes for ranking definitions inserted into the d
 
 ![Generate an index manually](../image/RankingDefinitionForm.png)
 
-**Parent Topic:**[Context ranking](../reference/r_ContextRanking.md)
+**Parent Topic:**[Context ranking](r_ContextRanking.md)
 

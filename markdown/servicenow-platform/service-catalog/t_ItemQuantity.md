@@ -34,7 +34,7 @@ Role required: admin
     To restrict the roles allowed to change quantities, edit the **List of roles \(comma-separated\) that can use the quantity selector in the shopping cart** \(**glide.sc.allow.quantity**\) service catalog property. For example, you can limit this ability to the admin and catalog\_admin roles.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 
 **Related topics**  
 

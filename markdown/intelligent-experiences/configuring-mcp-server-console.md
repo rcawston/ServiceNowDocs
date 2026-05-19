@@ -16,11 +16,11 @@ Create a Model Context Protocol \(MCP\) server and configure the tools and input
 
 ## Configuration overview
 
-1.  [Create a Model Context Protocol server](../task/create-mcp-server.md)
+1.  [Create a Model Context Protocol server](create-mcp-server.md)
 
     An AI administrator creates a server and adds tools to the server.
 
-2.  [Create a tool for a Model Context Protocol server](../task/create-tool-mcp-server.md)
+2.  [Create a tool for a Model Context Protocol server](create-tool-mcp-server.md)
 
     If additional tools are needed, the AI administrator identifies which functionality to expose and creates tools based on Now Assist skills. From the tools, they configure which fields are exposed to clients as tool inputs.
 

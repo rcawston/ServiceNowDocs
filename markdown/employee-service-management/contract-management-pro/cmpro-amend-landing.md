@@ -86,7 +86,7 @@ The contract amendment workflow might progress as follows:
 
 For amendment documents, Now Assist in Contract Management features of obligation extraction or metadata extraction aren’t supported. However, Contract Analysis is supported when all the configurations are complete and valid, enabling you to review and analyze amendments effectively.
 
-For more information, see [Now Assist in Contract Management](../concept/cncore-now-assit-landing.md).
+For more information, see [Now Assist in Contract Management](cncore-now-assit-landing.md).
 
 -   **[Approve contracts to allow amendments](cmpro-approve-draft-cntr.md)**  
 Amendment requests can only be submitted for contracts in the Active state. If a contract is in Draft state and Awaiting Review substate, you need to manually approve it before submitting an amendment request.
@@ -95,5 +95,5 @@ Review and work on an amendment request for an existing contract.
 -   **[View amendment details](cmpro-view-amend-details.md)**  
 View the amendment details in the contract repository record.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

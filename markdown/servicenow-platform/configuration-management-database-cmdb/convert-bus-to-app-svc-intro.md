@@ -31,7 +31,7 @@ You can convert business services into application services of the manually crea
 
 Dynamic services are updated automatically to reflect any change to CI relationships stored in the CMDB CI Relationship \[cmdb\_rel\_ci\] table. When you add a relationship to a CI that is contained in a dynamic service, then that service automatically updates to reflect the addition of the relationship and the associated new CI. In a similar manner, a dynamic service automatically updates upon the removal of a relationship and its associated CI from a CI within the service.
 
-To learn more about different types of application services, see [application services](../../configuration-management/concept/application-services.md).
+To learn more about different types of application services, see [application services](application-services.md).
 
 ## Conversion process
 
@@ -42,7 +42,7 @@ During conversion, the following changes and processes occur:
 -   The system adds related items from the business service to the converted service instance, up to the specified level.
 -   The system queries the CMDB for the latest CI changes.
 -   Event Management, if activated, applies CI impact rules to CIs that are associated with alerts and that are part of the service instance. Event Management deploys CI impact rules for alert monitoring.
--   You can edit a converted application service of the manually created type by navigating to **CSDM** &gt; **Manage Technology Management Services** &gt; **Application Service**. Then select a converted application service. The service population method for a converted application service, is set to **Converted Business Service**. For more information about editing application services, see [Create a Service instance \(application service\)](../task/create-it-services.md).
+-   You can edit a converted application service of the manually created type by navigating to **CSDM** &gt; **Manage Technology Management Services** &gt; **Application Service**. Then select a converted application service. The service population method for a converted application service, is set to **Converted Business Service**. For more information about editing application services, see [Create a Service instance \(application service\)](create-it-services.md).
 
     **Note:** You can't edit a dynamic application service by adding or removing CIs from it. The system automatically modifies an application service of the dynamic type when you modify relevant relationships for CIs that are part of that application service.
 
@@ -56,7 +56,7 @@ A conversion might involve adding CIs of the following CI types, which cannot be
 -   Qualifier \[cmdb\_ci\_qualifier\]
 -   Application cluster \[cmdb\_ci\_application\_cluster\]
 
-If the original business service contains related items belonging to these CI types, then the system does not add such CIs or connections coming from them. There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
+If the original business service contains related items belonging to these CI types, then the system does not add such CIs or connections coming from them. There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 
@@ -200,10 +200,10 @@ Make sure that the service instances aren't too large:
 If the service is too large, perform the following actions:
 
 -   Review the converted service instance to identify CI relations irrelevant or redundant for this service. Remove such CI relations in the CMDB.
--   Decide how many levels of related CIs you must include into this service instance. If necessary, [change the number of levels used in conversion](../task/update-services-from-cmdb.md) to reduce the service size.
+-   Decide how many levels of related CIs you must include into this service instance. If necessary, [change the number of levels used in conversion](update-services-from-cmdb.md) to reduce the service size.
 
 **Related topics**  
 
 
-[Service instances \(Application services\)](../../configuration-management/concept/application-services.md)
+[Service instances \(Application services\)](application-services.md)
 

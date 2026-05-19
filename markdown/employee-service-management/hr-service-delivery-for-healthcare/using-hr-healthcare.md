@@ -33,7 +33,7 @@ Below is an end to end explanation of how to use the HR Service Delivery for Hea
     -   An onboarding journey is auto-created for the healthcare professional, an email account is auto-created, and the employee is notified about the journey via email.
     -   HR Tasks, such as pre-hire tasks, credentialing and verification, background checks, enrollments, required learnings, are auto-triggered and assigned based on the order defined for the tasks in the journey.
     -   After the healthcare professional completes the profile intake tasks, the data is sent to the HR agents for validation and credentialing. Once the tasks in the journey are complete, the healthcare employee onboarding request is marked complete.
--   **4. [Use healthcare professional data model](../reference/hr-hc-profile.md#)**
+-   **4. [Use healthcare professional data model](hr-hc-profile.md#)**
 
     Information provided by the healthcare professional is securely managed in the Healthcare Professional data model. The Healthcare Professional Profile data model enables the organization to access and track information of the healthcare professional throughout the period of employment. Healthcare Professional Profile records are stored confidentially and are not publicly viewable.
 

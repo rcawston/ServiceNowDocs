@@ -21,13 +21,13 @@ Guided setup provides a sequence of tasks that help you configure the DPM Worksp
 
 For more information, see [Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md).
 
-**Note:** The DPM Workspace uses the taxonomy structures from the Service Portfolio Management application. For more information, see [Service Portfolio Management taxonomy](../../service-portfolio-management2/concept/SPM2-taxonomy.md).
+**Note:** The DPM Workspace uses the taxonomy structures from the Service Portfolio Management application. For more information, see [Service Portfolio Management taxonomy](../service-portfolio-management/SPM2-taxonomy.md).
 
 ## Configuration overview
 
 Configuring the DPM Workspace involves setting up environments, tools, and user access. To configure, you must have the DPM admin role \[sn\_dpm.dpm\_admin\]. You perform most of these configuration tasks in each instance that you're using.
 
-1.  [Activate Digital Portfolio Management](../task/dpm-activate.md).
+1.  [Activate Digital Portfolio Management](dpm-activate.md).
 
     You can activate DPM by searching for it on the ServiceNow® Store.
 
@@ -41,35 +41,35 @@ Configuring the DPM Workspace involves setting up environments, tools, and user 
     4.  Assess build metrics to show a solution's performance in the build portion of the solution life cycle.
     5.  Map key performance indicator \(KPI\) groups to track the performance of the solutions.
     6.  Assess other tasks to complete verifying that the DPM Workspace is ready for the organization.
-3.  [Apply the CSDM guidelines to Digital Portfolio Management](../reference/dpm-csdm.md).
+3.  [Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md).
 
     Service data relates to each other using different applications and in different ways. DPM references the Common Service Data Model \(CSDM\) to bring service-related data together in a single view.
 
 
 Even though you can return to the DPM Admin Center at any time to update configuration settings, you can also complete most of the following configuration tasks independently.
 
--   **[Activate Digital Portfolio Management](../task/dpm-activate.md)**  
+-   **[Activate Digital Portfolio Management](dpm-activate.md)**  
 The Digital Portfolio Management plugin is available from the ServiceNow® ServiceNow Store.
 -   **[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)**  
 The Admin Center in Digital Portfolio Management \(DPM\) provides administrators a guided walk-through to set up and configure the DPM Workspace for the organization. The provided information and configuration prompts enable visibility into the end-to-end service and application life-cycle.
--   **[Apply the CSDM guidelines to Digital Portfolio Management](../reference/dpm-csdm.md)**  
+-   **[Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md)**  
 Service data relates to each other using different applications and in different ways. Digital Portfolio Management \(DPM\) references the Common Service Data Model \(CSDM\) framework to bring service-related data together in a single view.
 -   **[Integrate Digital Portfolio Management with other ServiceNow applications](dpm-integrations.md)**  
 Bring in data from other ServiceNow applications to see a comprehensive view of your solutions in the Digital Portfolio Management \(DPM\) Workspace. You can see data for services and service offerings, for business applications, and for service instances.
 -   **[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)**  
 Configure key performance indicator \(KPI\) groups in Digital Portfolio Management \(DPM\) to surface performance information in the context of your organization's solutions.
--   **[Configure Needs attention panels in Digital Portfolio Management](../task/dpm-configure-needs-attention.md)**  
+-   **[Configure Needs attention panels in Digital Portfolio Management](dpm-configure-needs-attention.md)**  
 Each solution page in Digital Portfolio Management \(DPM\) has a Needs attention panel with items that need attention in the context of the page. You can configure the Needs attention attributes to meet your organization's needs.
--   **[Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md)**  
+-   **[Configure the Digital Portfolio Management experience](dpm-configure-experience.md)**  
 If your organization doesn't use certain modules or life-cycle phases in Digital Portfolio Management \(DPM\), then configure the experience by hiding those elements from user views.
--   **[Relate business capabilities to view in Digital Portfolio Management](../task/dpm-business-capability.md)**  
+-   **[Relate business capabilities to view in Digital Portfolio Management](dpm-business-capability.md)**  
 You can relate business capabilities for a service or for a business application to see them in the Digital Portfolio Management \(DPM\) Workspace.
 -   **[Configure Digital Portfolio Management to integrate with Process Mining](dpm-setup-po.md)**  
 Use Process Mining in Digital Portfolio Management \(DPM\) to see the status of a key performance indicators \(KPI\) on your solutions, and adjust as needed.
--   **[Create Process Mining projects for KPI groups in Digital Portfolio Management](../task/dpm-create-project-po.md)**  
+-   **[Create Process Mining projects for KPI groups in Digital Portfolio Management](dpm-create-project-po.md)**  
 Create Process Mining projects for each key performance indicator \(KPI\) group in Digital Portfolio Management \(DPM\) to see KPI performance and analyze anomalies.
 
-**Parent Topic:**[Digital Portfolio Management](../reference/dpm-landing.md)
+**Parent Topic:**[Digital Portfolio Management](dpm-landing.md)
 
 **Related topics**  
 

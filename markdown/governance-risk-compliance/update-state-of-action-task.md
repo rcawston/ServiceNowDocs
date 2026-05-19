@@ -36,7 +36,7 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [Create New Action task form](../reference/action-task-form.md).
+    For more information, see [Create New Action task form](action-task-form.md).
 
 4.  Select the type of the action task as **Investigation**.
 

@@ -56,5 +56,5 @@ Generate endpoint for webhooks in the third-party applications that support toke
 -   **[Manage endpoint with OAuth 2.0 support](generate-endpt-oauth2.md#)**  
 Manage endpoint for webhooks in third-party applications that support the OAuth 2.0 authentication. The endpoint enables webhooks to connect with your ServiceNow instance.
 
-**Parent Topic:**[Conditional and event-driven inbound integration](../concept/conditional-and-event-driven-inbound-integration.md)
+**Parent Topic:**[Conditional and event-driven inbound integration](conditional-and-event-driven-inbound-integration.md)
 

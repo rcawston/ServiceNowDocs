@@ -50,7 +50,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or admin
     3.  On the **Bot Process Configuration** tab, verify the association.
 
 
-**Parent Topic:**[Migrating data in RPA Hub](../concept/migrating-data-rpa-hub.md)
+**Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)
 
 **Related topics**  
 

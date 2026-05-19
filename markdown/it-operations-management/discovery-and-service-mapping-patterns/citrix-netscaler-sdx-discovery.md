@@ -76,5 +76,5 @@ These relationships are created to support Citrix NetScaler SDX discovery:
 |---|------------|---|
 |Citrix Netscaler \[cmdb\_ci\_lb\_netscaler\]|Registered on::Has registered|Citrix NetScaler SDX \[cmdb\_ci\_citrix\_netscaler\_sdx\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -19,33 +19,33 @@ Strategic Planning is available for users with a Strategic Portfolio Management 
 
 Explore the generative AI features available in the Strategic Planning application, including the Multi-Feedback Summarization skill to generate summaries of one or more feedback items, the Planning Item Gen AI Docs skill to generate a summary of selected text in Docs, and the Target Generation skill to generate targets for goals.
 
-[Installing Strategic Planning](../task/install-alignment-planner-workspace.md) also installs Strategy and Goals, Product Feedback, Demands, Portfolio Planning, and Enterprise Agile Planning features. Access to these features is based on the user roles assigned. Learn more about these features in the following sections.
+[Installing Strategic Planning](../scenario-planning-in-spw/install-alignment-planner-workspace.md) also installs Strategy and Goals, Product Feedback, Demands, Portfolio Planning, and Enterprise Agile Planning features. Access to these features is based on the user roles assigned. Learn more about these features in the following sections.
 
 ## Get started
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[![](../../../reuse/icons/brand-icons/bus-alignment.svg) Strategy and Goals](../../spw-strategy-goals/reference/strategy-goals-landing-page.md)
+[![](../../../reuse/icons/brand-icons/bus-alignment.svg) Strategy and Goals](strategy-goals-landing-page.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-innovation.svg) Feedback](../../spw-product-feedback/concept/product-feedback-landing.md)
+[![](../../../reuse/icons/brand-icons/bus-innovation.svg) Feedback](../product-feedback/product-feedback-landing.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Demands](../../spw-demand/concept/demand-workspace.md)
+[![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Demands](demand-workspace.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-alignment.svg) Portfolio Planning](planning-in-spw.md)
+[![](../../../reuse/icons/brand-icons/bus-alignment.svg) Portfolio Planning](../scenario-planning-in-spw/planning-in-spw.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Enterprise Agile Planning](../../spw-eap/concept/eap-landing.md)
+[![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Enterprise Agile Planning](../enterprise-agile-planning/eap-landing.md)
 
 </td><td>
 
-[![](../../../reuse/icons/brand-icons/bus-management-console.svg) Dashboards](../../spw-dashboards/concept/dashboards-in-spw.md)
+[![](../../../reuse/icons/brand-icons/bus-management-console.svg) Dashboards](dashboards-in-spw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

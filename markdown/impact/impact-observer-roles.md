@@ -64,5 +64,5 @@ None
 **Related topics**  
 
 
-[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+[Overview of Instance Observer metrics](instance-observer-ovr-metric.md)
 

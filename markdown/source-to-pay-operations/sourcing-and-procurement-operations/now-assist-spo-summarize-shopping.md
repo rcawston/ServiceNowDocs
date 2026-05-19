@@ -125,7 +125,7 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-using.md)
 
 **Related topics**  
 
@@ -134,7 +134,7 @@ If you want to check some details about the summary, select the more info icon \
 
 [Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](now-assist-spo-va-using.md)
 
 [Generate email responses](email-response-na-spo.md)
 

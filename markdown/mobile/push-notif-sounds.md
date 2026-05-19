@@ -27,7 +27,7 @@ The table at the end of this topic list all the available tones. To listen to th
 
 ## Example JSON for critical alerts including sound
 
-The following JSON is an example of how the sound parameter is defined for critical alerts. For more information about critical alerts, see [Mobile critical alerts](../task/mobile-critical-alerts-create.md).
+The following JSON is an example of how the sound parameter is defined for critical alerts. For more information about critical alerts, see [Mobile critical alerts](mobile-critical-alerts-create.md).
 
 ```
 json["aps"]["sound"] = { 
@@ -85,5 +85,5 @@ The parameters in the sample JSON code are as follows:
 
 **Note:** If a name value isn’t defined, the system uses the application’s default ringtone. If an application doesn't have a defined ringtone, then the system uses the device's default ringtone.
 
-**Parent Topic:**[Mobile push notification components](../concept/configure-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notification components](configure-mobile-push-notifications.md)
 

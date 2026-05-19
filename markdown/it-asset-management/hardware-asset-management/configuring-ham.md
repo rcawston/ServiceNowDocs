@@ -41,7 +41,7 @@ Get the Hardware Asset Management application from the [ServiceNow Store](https:
 
 </td><td>
 
-[Install Hardware Asset Management](../task/install-ham.md)
+[Install Hardware Asset Management](install-ham.md)
 
 </td></tr><tr><td>
 

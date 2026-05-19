@@ -145,11 +145,11 @@ Maximum number of records that can be added to an outbound TAXII server collecti
 **Related topics**  
 
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)
 
 [Viewing TAXII Collection Records](tisc-view-taxii-collection.md)
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)
 
-[Configuring Outbound Intel Sharing Templates](../task/tisc-intel-sharing-templates.md)
+[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
 

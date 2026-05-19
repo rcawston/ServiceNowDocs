@@ -30,7 +30,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Log in to the Employee Center portal.
 
-    For more information, see [Workplace services on the Employee Center portal](../../workplace-service-delivery/concept/workplace-services-on-employee-center.md).
+    For more information, see [Workplace services on the Employee Center portal](../workplace-core/workplace-services-on-employee-center.md).
 
 2.  Select and open the Now Assist in Virtual Agent chat window.
 
@@ -72,7 +72,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     **Note:** Only the **Browse All** Reservable module configuration is supported by Now Assist in Virtual Agent. It shows all reservation types available in the **Browse All** Reservable module. For example, **Desks**, **Desks within a shift**, and so on.
 
-    The **Specific Unit** **Selection type** is supported in the Reservable Table configuration. **Container** isn’t supported for Now Assist in Virtual Agent. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    The **Specific Unit** **Selection type** is supported in the Reservable Table configuration. **Container** isn’t supported for Now Assist in Virtual Agent. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
 9.  The Now Assist in Virtual Agent bot instructs you to select a location for reserving a space.
 
@@ -116,7 +116,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 16. Now Assist in Virtual Agent instructs you to invite guests to your reservation.
 
-    **Note:** The option to add guests is shown only when the **Allow Invitees** configuration is enabled in the Reservation module. This option in the Reservable Module enables you to invite attendees and add them to your reservation. You can invite guests to your reservation. For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md).
+    **Note:** The option to add guests is shown only when the **Allow Invitees** configuration is enabled in the Reservation module. This option in the Reservable Module enables you to invite attendees and add them to your reservation. You can invite guests to your reservation. For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md).
 
 17. Select **Yes** if you want to add guests to your reservation.
 
@@ -181,7 +181,7 @@ Role required: sn\_wsd\_core.workplace\_user
     Make sure that you have the following:
 
     1.  For more information, see [Configure Now Assist in Virtual Agent for Workplace Service Delivery](config-now-assist-va-wsd.md).
-    2.  Zoom Spoke is configured for Workplace Reservation Management. For more information, see [Connect Workplace Reservation Management with Zoom](../../wsd-reservation-management/task/connect-rsv-mtm-with-zoom.md).
+    2.  Zoom Spoke is configured for Workplace Reservation Management. For more information, see [Connect Workplace Reservation Management with Zoom](../workplace-reservation-management/connect-rsv-mtm-with-zoom.md).
 24. Now Assist in Virtual Agent shows an acknowledgment message along with the Workplace case task created after adding the Zoom virtual meeting link.
 
     ![Now Assist in Virtual Agent acknowledges adding the virtual meeting link to your reservation along with the Workplace Case task created for this request.](../image/wsd-add-zoom-meeting-2-nowassist.png)

@@ -17,22 +17,22 @@ Document Services provides a broad range of services related to document managem
 
 <table id="table_tx3_sgc_5yb" class="nav-card"><tbody><tr><td>
 
-[Document Management![](../../../reuse/icons/brand-icons/bus-learn.svg)Manage large numbers of documents efficiently](../concept/doc-management-landing.md)
+[Document Management![](../../../reuse/icons/brand-icons/bus-learn.svg)Manage large numbers of documents efficiently](doc-management-landing.md)
 
 </td><td>
 
-[Document Viewer![](../../../reuse/icons/brand-icons/bus-discover.svg)View documents directly in the ServiceNow AI Platform®](../../../use/using-forms/concept/Documentviewer.md)
+[Document Viewer![](../../../reuse/icons/brand-icons/bus-discover.svg)View documents directly in the ServiceNow AI Platform®](Documentviewer.md)
 
 </td></tr><tr><td>
 
-[Managed Documents![](../../../reuse/icons/brand-icons/bus-documentation.svg)Control documents within your instance](../../managed-documents/concept/c_ManagedDocuments.md)
+[Managed Documents![](../../../reuse/icons/brand-icons/bus-documentation.svg)Control documents within your instance](c_ManagedDocuments.md)
 
 </td><td>
 
 [Multi Provider Document Services Framework![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Integrate providers with your ServiceNow instance](mp-document-services-framework-landing.md)
 
 </td></tr></tbody>
-</table>-   **[Document Management](../concept/doc-management-landing.md)**
+</table>-   **[Document Management](doc-management-landing.md)**
 
     Manage large numbers of documents efficiently. Document Management provides storage space and a tracking system to easily upload, retrieve, and delete documents.
 
@@ -40,7 +40,7 @@ Document Services provides a broad range of services related to document managem
 
     View documents directly in the ServiceNow AI Platform® rather than having to download them. Document Viewer supports viewing various file types in the platform. The maximum document file size is 50 MB. Enable  Document Viewer and the tables you want to use with it at the instance level.
 
--   **[Managed Documents](../../managed-documents/concept/c_ManagedDocuments.md)**
+-   **[Managed Documents](c_ManagedDocuments.md)**
 
     Control electronic documents within your instance. Documents can move through the managed document cycle after the parameters have been set by the administrator and the Knowledge Document plugin installed.
 
@@ -51,7 +51,7 @@ Document Services provides a broad range of services related to document managem
 
 -   [Upgrade to Australia](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_automatingapps_paris_notifications/app_store_learnv2_automatingapps_paris_notifications_objectives?v=paris)
--   [Domain separation and Document Management](../concept/domain-separation-document-services.md)
+-   [Domain separation and Document Management](domain-separation-document-services.md)
 
 ## Document generation apps
 

@@ -55,7 +55,7 @@ Description
 </td><td>
 
 1.  In the **Controls** related list, select **New**.
-2.  On the form, fill in the fields. For a description of the field values on the Control form, see [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md).
+2.  On the form, fill in the fields. For a description of the field values on the Control form, see [Create a control](../policy-and-compliance-management/t_CreateAControl.md).
 3.  Select **Submit**.
 
 
@@ -75,10 +75,10 @@ Description
     -   The risks and controls that are created after associating a control objective to the risk statement aren’t associated with the risk statement immediately. They get associated when the **GRC Profile Generation** scheduled job runs.
     -   If you manually delete a control from a risk, the control won’t be re-created by the scheduled job. You must manually create it again if necessary.
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 
 **Related topics**  
 
 
-[Associate a risk statement with a control objective in the Risk Workspace](../../grc-workspace-risk/task/create-control-objective-ws.md)
+[Associate a risk statement with a control objective in the Risk Workspace](create-control-objective-ws.md)
 

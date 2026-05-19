@@ -22,11 +22,11 @@ Collectors support two run modes:
 
 ![Metadata collector interface showing schedule configuration options and run summary with manual run button highlighted.](../image/dc-mcollector-run-sch.png)
 
--   **[Run metadata collectors manually](../task/run_metadata-collectors-manually.md)**  
+-   **[Run metadata collectors manually](run_metadata-collectors-manually.md)**  
 Execute a metadata collector on-demand to import metadata immediately.
--   **[Schedule metadata collector runs](../task/schedule-metadata-collector-runs.md)**  
+-   **[Schedule metadata collector runs](schedule-metadata-collector-runs.md)**  
 Schedule a metadata collector to run automatically at a specified frequency.
--   **[View runtime logs for collector runs](../task/view-runtime-logs-for-collector-runs.md)**  
+-   **[View runtime logs for collector runs](view-runtime-logs-for-collector-runs.md)**  
 Access execution logs and download detailed log files for metadata collector runs.
 
 **Parent Topic:**[Data Catalog](data-catalog.md)

@@ -43,5 +43,5 @@ Turn on the flow generation with images skill to use generative AI to create flo
 
 Grant the now.assist.creator and flow\_designer roles to each user who will use the flow generation with images skill.
 
-**Parent Topic:**[Flow generation with images](../reference/flow-generation-with-images-landing.md)
+**Parent Topic:**[Flow generation with images](flow-generation-with-images-landing.md)
 

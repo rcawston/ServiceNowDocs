@@ -27,13 +27,13 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 3.  Create subflows for provider aligning with Template Integration Gateway.
 
-    See [Create a subflow using Template Integration Gateway](configure-integration-gateway.md).
+    See [Create a subflow using Template Integration Gateway](../hr-service-delivery/configure-integration-gateway.md).
 
     **Note:**
 
-    -   Subflows have been created for Oracle HCM, except for the Request Time off and Add Expense Virtual Agent topics. The Virtual Agent experience has been provided for the Request Time off and Add Expense topics, but without the back-end support through subflows. For more information on the default Virtual Agent topics, see [Now Assist for HRSD Virtual Agent topics](../concept/now-assist-ohcm.md).
+    -   Subflows have been created for Oracle HCM, except for the Request Time off and Add Expense Virtual Agent topics. The Virtual Agent experience has been provided for the Request Time off and Add Expense topics, but without the back-end support through subflows. For more information on the default Virtual Agent topics, see [Now Assist for HRSD Virtual Agent topics](now-assist-ohcm.md).
     -   The subflows for Oracle HCM can be used as a reference to build subflows for any other HCM systems.
-4.  [Configure Integration Provider Mapping \(Decision table\)](configure-integration-mapping.md) by adding input choices, configuring conditions on input choices and results.
+4.  [Configure Integration Provider Mapping \(Decision table\)](../hr-service-delivery/configure-integration-mapping.md) by adding input choices, configuring conditions on input choices and results.
 
 5.  Create a Virtual Agent topic block:
 

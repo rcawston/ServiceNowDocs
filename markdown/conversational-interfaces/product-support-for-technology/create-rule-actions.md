@@ -23,7 +23,7 @@ Role required: sn\_pt.proactive\_admin or admin
 
 ## About this task
 
-Select a default rule in the Proactive Triggers rules list to see how the default rule is defined. Admins or proactive admins can use these rules, change them, or create rules. After a rule is created, the admin creates one or more actions that are triggered by the rule. Actions define the messages that end users see based on the rule and the next steps available for the end users to take. For examples of default rules and action types, see [Exploring Proactive Triggers](../concept/proactive-triggers.md).
+Select a default rule in the Proactive Triggers rules list to see how the default rule is defined. Admins or proactive admins can use these rules, change them, or create rules. After a rule is created, the admin creates one or more actions that are triggered by the rule. Actions define the messages that end users see based on the rule and the next steps available for the end users to take. For examples of default rules and action types, see [Exploring Proactive Triggers](proactive-triggers.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
 
 3.  On the Proactive Rule form, fill in the fields.
 
-    For a description of the field values, see [Proactive Rule form](../reference/proactive-rule-new-record-form.md).
+    For a description of the field values, see [Proactive Rule form](proactive-rule-new-record-form.md).
 
 4.  Select **Submit**.
 
@@ -55,7 +55,7 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
 
 7.  On the Proactive Action form, fill in the fields.
 
-    For a description of the field values, see [Proactive Action form](../reference/proactive-action-new-record-form.md).
+    For a description of the field values, see [Proactive Action form](proactive-action-new-record-form.md).
 
 8.  If you select the **Message that launches a selection of virtual agent topics** action type, work with the following default list columns on the Proactive Action Virtual Agent Topic Controls related list to determine the button display order:
 
@@ -72,7 +72,7 @@ Select a default rule in the Proactive Triggers rules list to see how the defaul
 
     The Proactive action is created.
 
-    You can create additional rules and actions as needed. For information about using multiple rules and actions, see [Multiple Proactive Triggers rules and actions](../concept/multiple-rules-and-actions.md).
+    You can create additional rules and actions as needed. For information about using multiple rules and actions, see [Multiple Proactive Triggers rules and actions](multiple-rules-and-actions.md).
 
     You can localize the language for end users by making entries to the Translated Text table. For more information about making entries to the Translated Text table, see [Translating text fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_UseTranslatedText.md).
 

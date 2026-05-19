@@ -29,7 +29,7 @@ Data binding is the process of associating data with a UI element that displays 
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -39,7 +39,7 @@ Data binding is the process of associating data with a UI element that displays 
 
 5.  Add a component to your page.
 
-    You need a component on your page before you can bind a data resource to it. For more information, see [Customize UI Builder pages using components](../concept/work-components.md).
+    You need a component on your page before you can bind a data resource to it. For more information, see [Customize UI Builder pages using components](work-components.md).
 
 6.  Select the **Configure** tab from the configuration panel in UI Builder.
 
@@ -70,5 +70,5 @@ Data binding is the process of associating data with a UI element that displays 
 12. Select **Save** in the UI Builder header.
 
 
-**Parent Topic:**[Connect data components](../concept/connect-data-components.md)
+**Parent Topic:**[Connect data components](connect-data-components.md)
 

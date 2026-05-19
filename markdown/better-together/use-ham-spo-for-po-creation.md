@@ -185,5 +185,5 @@ Start procuring assets by accessing the items from the Shopping Hub catalog by c
 3.  Receive the requested assets in a stockroom. For more information, see [Receiving assets in the IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-receiving-assets.md) application.
 4.  Acknowledge the receipt of the assets in the stockroom for asset creation. For more information, see [Asset creation in the IT Asset Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-asset-creation.md).
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

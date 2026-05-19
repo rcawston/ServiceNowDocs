@@ -372,5 +372,5 @@ Workplace rooms\[sn\_wsd\_core\_room\]
 Extends the Space \[sn\_wsd\_core\_space\] table. It holds the reservable items of a room that are available to reserve.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Workplace Core](../task/install-workplace-safety-mgmt-hr.md)
+</table>**Parent Topic:**[Install Workplace Core](install-workplace-safety-mgmt-hr.md)
 

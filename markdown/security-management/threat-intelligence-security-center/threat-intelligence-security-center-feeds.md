@@ -19,7 +19,7 @@ With STIX, all aspects of suspicion, compromise, and attribution are represented
 
 cyberthreat intelligence \(CTI\) was chartered to define a set of information representations and protocols to address the need to model, analyze, and share cyberthreat intelligence. The CTI is primarily focused on development and standardization of Structured Threat Information Expression \(STIX\) and Trusted Automated Exchange of Indicator Information \(TAXII\).
 
--   **[Configure a new TAXII Feed](../task/tisc-configure-a-new-taxii-feed.md)**  
+-   **[Configure a new TAXII Feed](tisc-configure-a-new-taxii-feed.md)**  
 You can maintain TAXII feeds for sharing STIX-formatted information. Each TAXII feed contains one or more TAXII collections.
 
 **Parent Topic:**[Threat Intelligence Feeds](threat-intelligence-feeds.md)

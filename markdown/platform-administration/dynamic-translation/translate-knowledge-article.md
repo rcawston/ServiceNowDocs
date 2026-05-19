@@ -24,9 +24,9 @@ Role required: admin, knowledge\_admin, or knowledge
 
 ## About this task
 
-**Note:** This procedure has been superseded by the Localization Framework. For more information see [Localization Framework support for Knowledge Base](../../../administer/localization-framework/concept/lf-support-for-kb-articles.md). This information is provided for legacy context.
+**Note:** This procedure has been superseded by the Localization Framework. For more information see [Localization Framework support for Knowledge Base](../localization-framework/lf-support-for-kb-articles.md). This information is provided for legacy context.
 
-For information about how administrators configure the translation API, see [DynamicTranslation API](../../../administer/dynamic-translation/concept/dyn-translation-apis.md).
+For information about how administrators configure the translation API, see [DynamicTranslation API](dyn-translation-apis.md).
 
 ## Procedure
 

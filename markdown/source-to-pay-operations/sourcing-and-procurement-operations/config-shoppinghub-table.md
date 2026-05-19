@@ -101,12 +101,12 @@ Select the record producer.The following record producers are used for sourcing 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[ShoppingHub configuration](../concept/shoppinghub-configurations.md)
+**Parent Topic:**[ShoppingHub configuration](shoppinghub-configurations.md)
 
 **Related topics**  
 
 
-[Sourcing checkout](../concept/sourcing-checkout.md)
+[Sourcing checkout](sourcing-checkout.md)
 
 [Configure sourcing checkout](configure-sourcing-checkout.md)
 

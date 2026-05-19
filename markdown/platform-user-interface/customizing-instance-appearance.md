@@ -98,7 +98,7 @@ Color for logged in user name text, and the global search Connect, Help, and set
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Color for the following icons in the sidebars-   Expand/collapse
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Color for the following icons when a user points to the control:-   Global searc
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Color of the search text, both in the navigation filter and the global search fi
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Highlights the module after the user has clicked it. In the Connect workspace, h
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -223,7 +223,7 @@ Text color for modules in the main navigation
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -319,7 +319,7 @@ Color of the currently selected message in Connect
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -343,7 +343,7 @@ Core content text color for items such as applications and the empty state text 
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr><tr><td>
 
@@ -355,19 +355,19 @@ Text color for a selected module
 
 </td><td>
 
-Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](../task/t_CreateOrCustomizeATheme.md).
+Add the CSS property to the CSS field of a theme. For more information, see [Create or customize a theme](t_CreateOrCustomizeATheme.md).
 
 </td></tr></tbody>
-</table>-   **[Configure logo, colors, and system defaults for Core UI](../task/t_ConfigureLogoColorsSysDfltsUI16.md#)**  
+</table>-   **[Configure logo, colors, and system defaults for Core UI](t_ConfigureLogoColorsSysDfltsUI16.md#)**  
 You can use the Basic Configuration Core UI module to brand your instance with your company logo and colors and set basic system defaults. This place is the best starting point if you are setting up your instance for the first time or if you have recently enabled Core UI.
--   **[Select a theme in Core UI](../task/t_SelectATheme.md)**  
+-   **[Select a theme in Core UI](t_SelectATheme.md)**  
 You can switch between different themes for the user interface.
--   **[Customize menu categories](../task/customize-menu-categories.md)**  
+-   **[Customize menu categories](customize-menu-categories.md)**  
 Use menu categories to apply CSS styles to application labels.
--   **[Change survey question header colors](../task/t_ChangeSurveyQuesHeaderColors.md)**  
+-   **[Change survey question header colors](t_ChangeSurveyQuesHeaderColors.md)**  
 The Classic Environment uses a header color from the base color, which allows theming from CSS properties.
--   **[CSS theme support](../concept/c_CSSThemeSupport.md)**  
+-   **[CSS theme support](c_CSSThemeSupport.md)**  
 Themes give the user interface a specific look and feel by using different color combinations.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

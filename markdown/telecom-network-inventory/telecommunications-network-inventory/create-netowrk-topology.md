@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create a network topology record, it creates a corresponding configuration item \(CI\) record in the Network Topology \[cmdb\_ci\_network\_topology\] table. And the root nodes are stored in the Topology Root Node \[cmdb\_network\_topology\_root\_node\] table. To learn more about the topology data model, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you create a network topology record, it creates a corresponding configuration item \(CI\) record in the Network Topology \[cmdb\_ci\_network\_topology\] table. And the root nodes are stored in the Topology Root Node \[cmdb\_network\_topology\_root\_node\] table. To learn more about the topology data model, see [Data model](uses-for-network-inventory-data.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ When you create a network topology record, it creates a corresponding configurat
 
 4.  On the **Details** tab, fill in the form.
 
-    To learn about the fields in the Network Topology form, see [Network topology form](../reference/network-topology-form.md).
+    To learn about the fields in the Network Topology form, see [Network topology form](network-topology-form.md).
 
 5.  On the **Network Topology Root Nodes** tab, select **New** and fill in the fields to add the root node.
 
@@ -51,10 +51,10 @@ When you create a network topology record, it creates a corresponding configurat
 
 You can view the topology in the Network Viewer window. To learn more, see [Viewing a network topology](viewing-network-topology.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Network topology](../concept/visualization-of-topology.md)
+[Network topology](visualization-of-topology.md)
 

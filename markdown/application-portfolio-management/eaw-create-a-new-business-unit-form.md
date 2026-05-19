@@ -26,7 +26,7 @@ Create a business unit to define your organizational functions.
 **Related topics**  
 
 
-[Exploring business units](../../concept/eaw-concept/eaw-business-units.md)
+[Exploring business units](eaw-business-units.md)
 
-[Add or edit a business unit](../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
+[Add or edit a business unit](eaw-add-or-edit-a-business-unit.md)
 

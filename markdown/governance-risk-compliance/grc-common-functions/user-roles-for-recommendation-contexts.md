@@ -22,5 +22,5 @@ Users with different roles can read, create, or edit recommendation contexts for
 |sn\_reco\_template.recommendation\_reader|Users with this role can read the recommendation templates.|
 |sn\_reco\_template.recommendation\_writer|User with this role can create and edit recommendation templates.|
 
-**Parent Topic:**[Recommendation contexts and templates](../concept/recommendation-contexts.md)
+**Parent Topic:**[Recommendation contexts and templates](recommendation-contexts.md)
 

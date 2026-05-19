@@ -26,7 +26,7 @@ Before enabling mTLS, you must first create keys and certificates, install the .
 **Related topics**  
 
 
-[Configure the MID Web Server extension](../task/configure-mid-web-server-extension.md)
+[Configure the MID Web Server extension](configure-mid-web-server-extension.md)
 
-[Configure mTLS authentication for a MID Web Server](../task/configure-mid-web-server-extension-mTLS.md)
+[Configure mTLS authentication for a MID Web Server](configure-mid-web-server-extension-mTLS.md)
 

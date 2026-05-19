@@ -97,7 +97,7 @@ A space request has the following states:
     -   The deployment process is unsuccessful if any one workplace case is not implemented successfully, that is, if any one case is closed with the Closed incomplete state.
 -   **Closed complete**: If the deployment is successfully implemented, then the space request is closed and the state is set to Closed complete. If the deployment fails, then the space request is closed and the state is set to Closed incomplete.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

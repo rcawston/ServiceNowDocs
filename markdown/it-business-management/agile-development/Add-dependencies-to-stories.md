@@ -43,5 +43,5 @@ You can visually analyze the dependencies of the stories using the scrum program
 
 **Note:** Access to the Scrum program board is available only with the Scrum Programs plugin \(com.snc.sdlc.scrum\_program\).
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

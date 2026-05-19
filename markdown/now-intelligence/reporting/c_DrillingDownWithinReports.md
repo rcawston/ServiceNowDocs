@@ -17,7 +17,7 @@ You can drill down within a report to visualize a subset of its data. For exampl
 
 For reports with a defined drilldown, click on a portion of the chart to display a subset of data. The subset may use a different chart type. In the example, the user clicks on the critical incidents in a bar chart to reveal the categories of critical incidents in a semi-donut chart.
 
-**Note:** This topic refers to Reporting in the Core UI. For instances migrated to Platform Analytics experience and new Australia instances, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+**Note:** This topic refers to Reporting in the Core UI. For instances migrated to Platform Analytics experience and new Australia instances, see [Chart interactions in a data visualization](../dv-chart-interactions.md).
 
 ![Drilldown example with two report types](../image/drilldown-example-2.png "Drilldown example")
 
@@ -61,7 +61,7 @@ This topic refers to Reporting in the Core UI. If your instance is migrated to P
 
 7.  Select the report **Type** to display the data and select **Next**.
 
-    See [Report types](../reference/report-types-creation-details-rd.md). The drilldown report type can be different than the parent report.
+    See [Report types](report-types-creation-details-rd.md). The drilldown report type can be different than the parent report.
 
 8.  Configure the drilldown report the same way you would configure any other report.
 

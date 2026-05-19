@@ -39,9 +39,9 @@ The Resource Management Workspace provides a centralized view for managing resou
 
 The workspace is organized into the following areas:
 
--   Resource board: Create filtered views to focus on specific teams, roles, or skills. For more information, see [Create a resource card](../task/rmw-create-rsrc-card.md).
+-   Resource board: Create filtered views to focus on specific teams, roles, or skills. For more information, see [Create a resource card](rmw-create-rsrc-card.md).
 -   Resource allocation view \(top tray\): Displays assigned work for each resource with weekly or monthly allocation breakdown and availability indicators.
--   Unassigned tasks \(bottom tray\): Shows pending resource requests that needs to be assigned. For more information, see [Assign unassigned work](../task/allocate-resources-rmw.md).
+-   Unassigned tasks \(bottom tray\): Shows pending resource requests that needs to be assigned. For more information, see [Assign unassigned work](allocate-resources-rmw.md).
 
 ## Resource finder
 
@@ -70,10 +70,10 @@ Advantages of using Resource finder
 
 Follow these steps to begin using the workspace.
 
-1.  [Configure the workspace](../task/config-rmw.md) to enable the required features and permissions.
-2.  [Create a resource card](../task/rmw-create-rsrc-card.md) to define your filtered view of resources.
-3.  [View and assign unassigned work](../task/allocate-resources-rmw.md) to available resources.
-4.  [Manage resource allocations](../task/manage-resource-allocations-rmw.md) to adjust and approve assignments.
+1.  [Configure the workspace](config-rmw.md) to enable the required features and permissions.
+2.  [Create a resource card](rmw-create-rsrc-card.md) to define your filtered view of resources.
+3.  [View and assign unassigned work](allocate-resources-rmw.md) to available resources.
+4.  [Manage resource allocations](manage-resource-allocations-rmw.md) to adjust and approve assignments.
 
 **Parent Topic:**[Resource Management Workspace](rsrc-mgmt-wrkspc.md)
 

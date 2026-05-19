@@ -84,5 +84,5 @@ Pattern execution logic: By default, when a TSOM pattern is run, it executes bot
 **Related topics**  
 
 
-[Direct Discovery using Discovery Patterns](../concept/telecom-discovery-using-telecommunication-discovery-pattern.md)
+[Direct Discovery using Discovery Patterns](telecom-discovery-using-telecommunication-discovery-pattern.md)
 

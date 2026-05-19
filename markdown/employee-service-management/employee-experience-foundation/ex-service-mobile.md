@@ -37,8 +37,8 @@ Similar to the experience feedback in Now Mobile®, you can choose not to share 
 
 You can configure more feedback configurations and definitions apart from the ones available by default.
 
--   For more information on creating a feedback configuration, see [Set up the feedback configuration](../task/config-employee-ex-fdbck.md).
--   For more information on creating a feedback definition, see [Set up the feedback definition](../task/config-feedback-dfnition.md).
+-   For more information on creating a feedback configuration, see [Set up the feedback configuration](config-employee-ex-fdbck.md).
+-   For more information on creating a feedback definition, see [Set up the feedback definition](config-feedback-dfnition.md).
 
 **Parent Topic:**[Employee Center Integrations](integrate-ec.md)
 

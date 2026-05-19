@@ -155,5 +155,5 @@ Your connector admin needs these items to configure a Microsoft Teams external c
 
 For details on creating and configuring a Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](create-ext-cont-connector-msteams.md).
 
-**Parent Topic:**[Microsoft Teams external content connector](../concept/microsoft-teams-external-content-connector.md)
+**Parent Topic:**[Microsoft Teams external content connector](microsoft-teams-external-content-connector.md)
 

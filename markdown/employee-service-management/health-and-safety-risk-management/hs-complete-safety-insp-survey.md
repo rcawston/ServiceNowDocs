@@ -22,8 +22,8 @@ Role required: none
 ## About this task
 
 -   You can also take an inspection or audit survey on the mobile app using the **My Assessments and Surveys** applet launcher. For more information, see [Surveys in the mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyServicePortal.md).
--   For information on how an admin configures which survey field type should display the **Create action** check box, see [Configure the create action check box for safety inspection survey in the Mobile Agent app](../../hs-health-safety-mobile/task/hs-configure-create-action-checkbox-mobile-survey.md)
--   You can complete an inspection or audit survey offline as well through the Mobile Agent app. Surveys completed offline are synchronized once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](../../hs-health-safety-mobile/task/complete-safety-inspection-survey-offline-mode.md).
+-   For information on how an admin configures which survey field type should display the **Create action** check box, see [Configure the create action check box for safety inspection survey in the Mobile Agent app](../health-and-safety/hs-configure-create-action-checkbox-mobile-survey.md)
+-   You can complete an inspection or audit survey offline as well through the Mobile Agent app. Surveys completed offline are synchronized once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](../health-and-safety/complete-safety-inspection-survey-offline-mode.md).
 -   An inspection or audit manager can also complete a survey from the Health and Safety Workspace by selecting **Open inspection survey** in the inspection record or **Open audit survey** in the audit record.
 
 ## Procedure
@@ -50,5 +50,5 @@ Role required: none
     -   **Inspection actions** tab of the inspection.
     -   **Audit actions** tab of the audit survey in an audit.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

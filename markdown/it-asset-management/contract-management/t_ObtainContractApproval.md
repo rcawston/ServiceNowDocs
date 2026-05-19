@@ -42,5 +42,5 @@ After a contract is sent to an approver for review, the approver name cannot be 
 **Related topics**  
 
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](contract-approval-workflow.md)
 

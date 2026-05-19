@@ -29,7 +29,7 @@ The following items are installed with Skills Foundation:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Skills Foundation](../reference/skills-intelligence-users-and-roles-1.md).
+For more information, see [Components installed with Skills Foundation](../employee-service-management/skills-intelligence-users-and-roles-1.md).
 
 ## Procedure
 

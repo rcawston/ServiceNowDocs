@@ -61,5 +61,5 @@ From the ServiceNow IDE, you can configure which version of the ServiceNow SDK, 
 
 You can use the latest version of the ServiceNow SDK application packaging service and ServiceNow Fluent APIs in your application.
 
-**Parent Topic:**[Configuring the ServiceNow IDE](../concept/configuring-servicenow-ide.md)
+**Parent Topic:**[Configuring the ServiceNow IDE](configuring-servicenow-ide.md)
 

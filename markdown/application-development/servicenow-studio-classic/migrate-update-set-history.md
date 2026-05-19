@@ -17,14 +17,14 @@ When linking to Source Control, this feature allows application developers the c
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 ## Before migrating
 
 Make sure that you have fulfilled these criteria before attempting to migrate your update sets:
 
 -   Role required: admin
--   Read the [Legacy - Link an application or application-customization to source control](../task/t_LinkAnApplicationToSourceControl.md) topic
+-   Read the [Legacy - Link an application or application-customization to source control](t_LinkAnApplicationToSourceControl.md) topic
 -   Complete any update sets for your application that you want to export as Source Control history.
 -   Export the completed update set if you want to preserve it.
 

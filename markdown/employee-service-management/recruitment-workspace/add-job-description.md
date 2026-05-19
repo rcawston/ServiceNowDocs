@@ -40,5 +40,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 Send the requisition for approval. For more information, see [Submit a job requisition for approval](submit-for-approval-job-req.md).
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
 

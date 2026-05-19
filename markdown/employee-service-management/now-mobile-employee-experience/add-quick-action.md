@@ -47,7 +47,7 @@ Role required: admin
 
 Your users can open the quick action by selecting the ![Plus icon](../image/more-items.png) icon on the applet launcher page.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
 
 ## Create a quick action in your mobile applications
 

@@ -35,7 +35,7 @@ You can view the list of household members. Select any record to view details.
 **Related topics**  
 
 
-[Configuring households](../concept/configure-households.md)
+[Configuring households](configure-households.md)
 
-[Consumer Service Portal changes](../reference/industry-data-model-portal-changes.md)
+[Consumer Service Portal changes](industry-data-model-portal-changes.md)
 

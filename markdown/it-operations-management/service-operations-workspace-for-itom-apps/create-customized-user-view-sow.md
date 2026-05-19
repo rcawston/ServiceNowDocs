@@ -29,7 +29,7 @@ Role required: evt\_mgmt\_admin
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../event-management/add-impact-cal-services.md).
 
 3.  Customize the dashboard appearance by selecting output criteria from the **Group by**, **Group order**, or **Segment each group by** filters, or by selecting the relevant **Severity breakdown**.
 
@@ -60,5 +60,5 @@ Role required: evt\_mgmt\_admin
     ![List that displays all the views.](../image/select-view-dropdown-2.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

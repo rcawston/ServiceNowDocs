@@ -13,10 +13,10 @@ breadcrumb: [Using Column Level Encryption, Column Level Encryption, Encryption]
 
 These examples walk you through the encryption of fields and attachments using customer-supplied keys.
 
--   **[Column Level Encryption Enterprise walkthrough](../task/column-level-encryption-enterprise-walkthrough-2.md)**  
+-   **[Column Level Encryption Enterprise walkthrough](column-level-encryption-enterprise-walkthrough-2.md)**  
 This walkthrough shows you how to encrypt a field in your instance using Field Encryption Enterprise with the Key Management Framework \(KMF\). It also shows you how to use your own key.
--   **[Attachment encryption walkthrough](../task/attachment-encryption-walkthrough.md)**  
+-   **[Attachment encryption walkthrough](attachment-encryption-walkthrough.md)**  
 This walkthrough shows you how to encrypt an attachment in your instance using Field Encryption Enterprise with the Key Management Framework \(KMF\). It also shows you how to use your own key.
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](using-column-level-encryption-2.md)
 

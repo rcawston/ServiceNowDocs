@@ -58,10 +58,10 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
     Length of time to calculate the baseline for the KPI * Anti-signal factor
     ```
 
-    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [Signal, no signal, and anti-signal](../concept/signal-no-signal-anti-signal.md).
+    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [Signal, no signal, and anti-signal](signal-no-signal-anti-signal.md).
 
 8.  Click **Save**.
 
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
 

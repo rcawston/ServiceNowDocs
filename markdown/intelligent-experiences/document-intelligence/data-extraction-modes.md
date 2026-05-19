@@ -15,7 +15,7 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 Extraction modes determine how the data is extracted in the document task and how the task is processed. The mode changes the behavior of the fields in the Document Intelligence workspace.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 DocIntel uses the following extraction modes.
 
@@ -69,9 +69,9 @@ DocIntel automatically extracts the data for all fields and processes the docume
 
 [Components installed with Document Intelligence](installed-with-document-intelligence.md)
 
-[Confidence scores](../concept/docintel-confidence-scores.md)
+[Confidence scores](docintel-confidence-scores.md)
 
-[Data normalization](../concept/data-normalization.md)
+[Data normalization](data-normalization.md)
 
 [Document field statuses](docintel-field-statuses.md)
 
@@ -81,13 +81,13 @@ DocIntel automatically extracts the data for all fields and processes the docume
 
 [Document Intelligence roles](document-intelligence-user-roles.md#)
 
-[Document Intelligence terminology](../concept/docintel-terminology.md#)
+[Document Intelligence terminology](docintel-terminology.md#)
 
 [Document task statuses](docintel-task-statuses.md)
 
 [Domain separation and Document Intelligence](domain-separation-and-doc-intel.md)
 
-[Languages supported by Document Intelligence](../concept/languages-supported-by-document-intelligence.md)
+[Languages supported by Document Intelligence](languages-supported-by-document-intelligence.md)
 
 [Limitations in Document Intelligence](hard-limits-in-doc-intel.md)
 

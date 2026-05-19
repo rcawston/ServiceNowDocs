@@ -181,8 +181,8 @@ Notes about the task that are visible to all users within your organization.
 
 ## What to do next
 
--   If you successfully received a defective DaaS asset from a customer for an on-site replacement, complete the corresponding inbound asset order to provide the customer with a new asset. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md).
+-   If you successfully received a defective DaaS asset from a customer for an on-site replacement, complete the corresponding inbound asset order to provide the customer with a new asset. For detailed instructions, see [Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md).
 -   If you successfully received a defective DaaS asset from a customer for an off-site repair or replacement, complete the corresponding Evaluate RMA asset task by evaluating the asset and determining whether you want to repair or replace it. For detailed instructions, see [Complete the Evaluate RMA asset task for a defective Device as a Service DaaS asset](evaluate-daas-asset-rma-response-order.md).
 
-**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md)
+**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md)
 

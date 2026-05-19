@@ -52,7 +52,7 @@ The Data panel displays the variable in the Flow Variables section. It appears a
 
 ## What to do next
 
-To assign a value to the variable, use the [Set Flow Variables flow logic](../concept/flow-logic-set-flow-variables.md). If you don't assign a value, the default value is null.
+To assign a value to the variable, use the [Set Flow Variables flow logic](flow-logic-set-flow-variables.md). If you don't assign a value, the default value is null.
 
-**Parent Topic:**[Flow variables](../concept/flow-variables.md)
+**Parent Topic:**[Flow variables](flow-variables.md)
 

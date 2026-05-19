@@ -42,7 +42,7 @@ A skill automation is a reusable component. You can build a skill so that you ca
 6.  Select **Create**.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 
 **Related topics**  
 

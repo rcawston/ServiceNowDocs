@@ -58,10 +58,10 @@ Content Analytics requires the following plugins to collect data and generate da
 
 ## What to do next
 
-[Content Analytics](../concept/ecpro-content-automation-analytics.md)
+[Content Analytics](ecpro-content-automation-analytics.md)
 
 **Related topics**  
 
 
-[Components installed with Content Analytics](../reference/ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 

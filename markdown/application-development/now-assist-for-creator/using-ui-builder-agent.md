@@ -27,7 +27,7 @@ Use this feature to learn about UI Builder.
 
 ### Before you begin
 
-Install Now Assist for UI generation application. For more information, see [Install UI generation](../task/install-ui-generation.md).
+Install Now Assist for UI generation application. For more information, see [Install UI generation](install-ui-generation.md).
 
 Role required: ui\_builder\_admin
 
@@ -41,7 +41,7 @@ This feature answers your questions about the UI Builder. It provides informatio
 
 2.  Create a new experience or navigate to an existing one.
 
-    For more information about creating an experience, see [Create an AI-generated experience](../task/generate-ui.md#).
+    For more information about creating an experience, see [Create an AI-generated experience](generate-ui.md#).
 
 3.  Create a new page or navigate to an existing one.
 
@@ -70,7 +70,7 @@ Use this feature to understand the architecture and functionality of a page and 
 
 ### Before you begin
 
-Install Now Assist for UI generation application. For more information, see [Install UI generation](../task/install-ui-generation.md).
+Install Now Assist for UI generation application. For more information, see [Install UI generation](install-ui-generation.md).
 
 Role required: ui\_builder\_admin
 
@@ -84,7 +84,7 @@ This feature provides insights into how a page is constructed, including its des
 
 2.  Create a new experience or navigate to an existing one.
 
-    For more information about creating an experience, see [Create an AI-generated experience](../task/generate-ui.md#).
+    For more information about creating an experience, see [Create an AI-generated experience](generate-ui.md#).
 
 3.  Create a new page or navigate to an existing one.
 
@@ -114,7 +114,7 @@ Use this feature to build and modify your page.
 
 ### Before you begin
 
-Install Now Assist for UI generation application. For more information, see [Install UI generation](../task/install-ui-generation.md).
+Install Now Assist for UI generation application. For more information, see [Install UI generation](install-ui-generation.md).
 
 Role required: ui\_builder\_admin
 
@@ -128,7 +128,7 @@ This feature enables you to easily modify and enhance your page. You can apply d
 
 2.  Create a new experience or navigate to an existing one.
 
-    For more information about creating an experience, see [Create an AI-generated experience](../task/generate-ui.md#).
+    For more information about creating an experience, see [Create an AI-generated experience](generate-ui.md#).
 
 3.  Create a new page or navigate to an existing one.
 

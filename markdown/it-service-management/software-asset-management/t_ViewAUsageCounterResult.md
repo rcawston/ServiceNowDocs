@@ -40,7 +40,7 @@ A usage counter tracks a license based on how often the license is actually used
     |Display name|Name of the software usage record.|
     |Publisher|Publisher of the software.|
     |Version|Version of the software.|
-    |Discovery model|[Software discovery model](../concept/c_UsingSoftwareDiscoveryModels.md) associated with the installed software.|
+    |Discovery model|[Software discovery model](c_UsingSoftwareDiscoveryModels.md) associated with the installed software.|
     |Primary key|Unique identifier for table row.|
     |Usage|
     |User|User who accessed the software.|
@@ -56,5 +56,5 @@ A usage counter tracks a license based on how often the license is actually used
     |Cached|If selected, indicates that a software count has already been cached.|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

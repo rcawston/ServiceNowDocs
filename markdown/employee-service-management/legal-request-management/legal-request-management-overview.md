@@ -17,7 +17,7 @@ Legal Request Management enables authorized employees in the organization to sub
 
 ## Legal Request Management overview
 
-Employees can read legal knowledge base articles, submit legal requests, monitor the progress of submitted requests, and interact through [Virtual Agent](legal-va-conversations.md).
+Employees can read legal knowledge base articles, submit legal requests, monitor the progress of submitted requests, and interact through [Virtual Agent](../legal-service-delivery/legal-va-conversations.md).
 
 ## Legal Request Management users
 
@@ -80,7 +80,7 @@ Remove manual, unstructured email processes and tasks with an easily accessed se
 
 </td><td>
 
-[Legal Request Management](../reference/legal-request-management-landing-page.md)
+[Legal Request Management](legal-request-management-landing-page.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Automate responses for common legal requests with virtual agents
 
 </td><td>
 
-[Legal Virtual Agent Conversations](legal-va-conversations.md)
+[Legal Virtual Agent Conversations](../legal-service-delivery/legal-va-conversations.md)
 
 </td><td>
 
@@ -108,7 +108,7 @@ Make meaningful decisions by gaining real-time visibility on legal service deman
 
 </td><td>
 
-[Analytics and Reporting Solutions for Legal Service Delivery](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting Solutions for Legal Service Delivery](../legal-service-delivery/legalsd-content-pack.md)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Track, prioritize, and work on multiple requests concurrently with an optimized 
 
 </td><td>
 
-[Legal Counsel Center](legal-counsel-center-landing.md)
+[Legal Counsel Center](../legal-service-delivery/legal-counsel-center-landing.md)
 
 </td><td>
 
@@ -148,10 +148,10 @@ To learn more about configuring and using Legal Request Management, see:
 -   [Configuring Legal Request Management](legal-ops-administration.md)
 -   [Using Legal Request Management](submitting-legal-request.md)
 -   [Managing legal requests](managing-legal-request.md)
--   [Legal Request Management reference](../reference/legal-request-management-reference.md)
+-   [Legal Request Management reference](legal-request-management-reference.md)
 
 -   **[Attorney-Client Privilege](lsd-acp-landing.md)**  
 Attorney Client Privilege functionality enables legal fulfiller to designate legal requests as privileged and confidential. It restricts access to authorized stakeholders, marks communications with confidentiality banners, and maintains a document audit trail to help you protect sensitive legal communications.
 
-**Parent Topic:**[Legal Request Management](../reference/legal-request-management-landing-page.md)
+**Parent Topic:**[Legal Request Management](legal-request-management-landing-page.md)
 

@@ -55,12 +55,12 @@ When you select information in the Related Items pane on the right of the map wi
 
 ![Selecting message marks the related CI yellow.](../image/ws-map-selected-alert-ci.png "Selecting message marks the related CI yellow")
 
-You can display other related items, such as planned changes or cases, associated with the application service. For more information, see [Modify view for an application service map in legacy Agent Workspace](../task/workspace-modify-map-view.md).
+You can display other related items, such as planned changes or cases, associated with the application service. For more information, see [Modify view for an application service map in legacy Agent Workspace](workspace-modify-map-view.md).
 
-**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](../concept/service-analysis-maintenance-legacy-workspace.md)
+**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](service-analysis-maintenance-legacy-workspace.md)
 
 **Related topics**  
 
 
-[View an alert impact on CIs in a service map](../../event-management/task/t_EMViewTopology.md)
+[View an alert impact on CIs in a service map](../event-management/t_EMViewTopology.md)
 

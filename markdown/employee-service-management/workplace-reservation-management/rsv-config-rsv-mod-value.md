@@ -15,9 +15,9 @@ breadcrumb: [Configure Workplace Reservation Management portal, Workplace Reserv
 
 Set the Max days in future value for configuring reservation.
 
-The option to create a multi-day reservation is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](../task/config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](../task/create-multi-day-reservation.md).
+The option to create a multi-day reservation is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](create-multi-day-reservation.md).
 
-For multi-day reservation covering multiple days, the start date and end date span across multiple days \(for example, Start date: October 12, 2023. End date: October 17, 2023\). For more information, see [Create a multi-day reservation](../task/create-multi-day-reservation.md).
+For multi-day reservation covering multiple days, the start date and end date span across multiple days \(for example, Start date: October 12, 2023. End date: October 17, 2023\). For more information, see [Create a multi-day reservation](create-multi-day-reservation.md).
 
 -   If your administrator has set a limit on the maximum days that you can reserve in future, you can’t select days in the future beyond the set the date by the admin. A warning is displayed about the limitation.
 -   For example, if your administrator has limited the days of future to 45 days, you can’t select a date beyond 45 days while making a recurring reservation. The number of days available for **End on this date** option differs based on the **Daily**, **Weekly**, or **Monthly** selections. The end date and time specified for recurring reservation are used to indicate the end date and time of the reservation.
@@ -26,7 +26,7 @@ For multi-day reservation covering multiple days, the start date and end date sp
     **Note:** You can't select a date beyond a duration that is configured in the Max days in the future reservable module. For example, if Max days in future value are 45, you can’t select a date beyond this duration while making a recurring reservation. The number of days available for **End on this date** option differs based on the **Daily**, **Weekly**, or **Monthly** selections. If the **Max days in future** value isn’t configured on the Reservable module, the date selection isn’t restricted and employees can select a date based on the **Max number of occurrences** configuration.
 
 
-Space and reservation planners \(sn\_wsd\_rsv.reservation\_planner\) with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass certain settings in the Reservable module configuration. For more information, see [Allow Event planners to handle reservations with more flexibility](../../workplace-central/concept/event-planner-bypass-validation-rule-overview.md).
+Space and reservation planners \(sn\_wsd\_rsv.reservation\_planner\) with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass certain settings in the Reservable module configuration. For more information, see [Allow Event planners to handle reservations with more flexibility](../workplace-central/event-planner-bypass-validation-rule-overview.md).
 
 For example, reservation planners or space planners with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass the following settings in the Reservable module:
 
@@ -41,41 +41,41 @@ For example, reservation planners or space planners with the dedicated role \(sn
 **Related topics**  
 
 
-[Install Workplace Reservation Management](../task/install-wsd-reservation-mgmt.md)
+[Install Workplace Reservation Management](install-wsd-reservation-mgmt.md)
 
-[Add a workplace space for reservation](../task/add-reservable-items.md)
+[Add a workplace space for reservation](add-reservable-items.md)
 
-[Add a workplace room for reservation](../task/add-workplace-rooms.md)
+[Add a workplace room for reservation](add-workplace-rooms.md)
 
-[Configure a reservable module](../task/config-reservable-module.md)
+[Configure a reservable module](config-reservable-module.md)
 
-[Assign spaces to an area](../task/add-neighbourhood-spaces-to-an-area.md)
+[Assign spaces to an area](add-neighbourhood-spaces-to-an-area.md)
 
-[Create a standard service](../task/add-standard-services.md)
+[Create a standard service](add-standard-services.md)
 
-[Create a flexible service](../task/add-flexible-service.md)
+[Create a flexible service](add-flexible-service.md)
 
-[Create a workplace service to provide an extra service for a reservation](../task/create-workplace-service-to-provide-extra-service.md)
+[Create a workplace service to provide an extra service for a reservation](create-workplace-service-to-provide-extra-service.md)
 
-[Create a reservable view](../task/create-a-reservable-view.md)
+[Create a reservable view](create-a-reservable-view.md)
 
-[Create a user criteria record](../task/create-user-criteria.md)
+[Create a user criteria record](create-user-criteria.md)
 
-[Configure a reservable purpose](../task/configure-reservable-purpose.md)
+[Configure a reservable purpose](configure-reservable-purpose.md)
 
-[Create a quick reservation time slot](../task/add-reservable-time-slots.md)
+[Create a quick reservation time slot](add-reservable-time-slots.md)
 
-[Configure virtual meeting providers](../task/configure-virtual-meeting-providers.md)
+[Configure virtual meeting providers](configure-virtual-meeting-providers.md)
 
-[Configure Microsoft Teams as virtual meeting provider](../task/configure-msteams-as-virtual-meeting-provider.md)
+[Configure Microsoft Teams as virtual meeting provider](configure-msteams-as-virtual-meeting-provider.md)
 
-[Connect Workplace Reservation Management with Microsoft Teams](../task/connect-rsv-mgmt-with-teams.md)
+[Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md)
 
-[Connect Workplace Reservation Management with Zoom](../task/connect-rsv-mtm-with-zoom.md)
+[Connect Workplace Reservation Management with Zoom](connect-rsv-mtm-with-zoom.md)
 
-[Display permanent seat assignments on floor maps](../task/display-permanent-seats-on-maps.md)
+[Display permanent seat assignments on floor maps](display-permanent-seats-on-maps.md)
 
-[Display name of the person reserving a space](../task/displayname-person-booking-rsv.md)
+[Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
 [Manage check-in and check-out reservations](check-in-check-out-process.md)
 

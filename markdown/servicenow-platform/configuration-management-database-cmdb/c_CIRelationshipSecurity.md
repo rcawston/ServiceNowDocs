@@ -22,9 +22,9 @@ If the current instance has defined security for editCIRelations, it will be app
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
 [Relationship governance rules](relationship-governance.md)
 
@@ -34,9 +34,9 @@ If the current instance has defined security for editCIRelations, it will be app
 
 [Relation qualifier](c_RelationQualifier.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 
 [CI relationships in the CMDB](c_CIRelationships.md)
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 

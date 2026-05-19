@@ -17,7 +17,7 @@ A zero day vulnerability scenario demonstrates how TISC detects and manages vuln
 
 Role required: sn\_sec\_tisc.admin
 
-This feature enables automatic detection and processing of zero day vulnerabilities through configurable tagging rules. For more information, see [Configure Tagging Rules in TISC](../task/tisc-tag-rules.md).
+This feature enables automatic detection and processing of zero day vulnerabilities through configurable tagging rules. For more information, see [Configure Tagging Rules in TISC](tisc-tag-rules.md).
 
 **Prerequisite**:
 

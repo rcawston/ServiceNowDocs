@@ -106,5 +106,5 @@ The **Active** check box determines if the portfolio is displayed in the DPM Wor
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Edit and manage service portfolios in Service Portfolio Management](../concept/SPM2-edit-manage-portfolios.md)
+**Parent Topic:**[Edit and manage service portfolios in Service Portfolio Management](SPM2-edit-manage-portfolios.md)
 

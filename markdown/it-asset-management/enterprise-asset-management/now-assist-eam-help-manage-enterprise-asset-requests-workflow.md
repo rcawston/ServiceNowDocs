@@ -46,7 +46,7 @@ The AI agent automatically uses assets that are available in a local stockroom.
 
  This sourcing option is available only when at least one stockroom within the location of the requester has the **Auto-consume** option enabled. If multiple stockrooms have this option enabled, the AI agent uses assets from the stockroom with the highest available quantity first. If any additional assets are required, the AI agent then uses assets from the stockroom with the next highest quantity.
 
- **Note:** For instructions on how to enable the **Auto-consume** option, see [Create stockroom for enterprise assets](../../enterprise-asset-management/task/create-eamstockroom.md).
+ **Note:** For instructions on how to enable the **Auto-consume** option, see [Create stockroom for enterprise assets](create-eamstockroom.md).
 
 </td></tr><tr><td>
 
@@ -62,10 +62,10 @@ The AI agent automatically generates a transfer order to move assets between sto
 -   At least one source stockroom has the **Auto-transfer** option enabled.
 -   Destination stockrooms are linked to source stockrooms through distribution channels. The order of stockrooms that you can source and transfer assets from is based on the rank of each stockroom.
 
-For more information on distribution channels, see [Add a distribution channel to a stockroom in the Enterprise Asset Workspace](../../enterprise-asset-management/task/add-distribution-channel-eam-stockroom.md).
+For more information on distribution channels, see [Add a distribution channel to a stockroom in the Enterprise Asset Workspace](add-distribution-channel-eam-stockroom.md).
 
 
- **Note:** For instructions on how to enable the **Auto-transfer** option, see [Create stockroom for enterprise assets](../../enterprise-asset-management/task/create-eamstockroom.md).
+ **Note:** For instructions on how to enable the **Auto-transfer** option, see [Create stockroom for enterprise assets](create-eamstockroom.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ The AI agent automatically generates a purchase order to obtain additional asset
 -   At least one stockroom within the location of the requester has the **Auto-purchase** option enabled.
 -   At least one vendor is available to purchase the requested asset from.
 
- **Note:** For instructions on how to enable the **Auto-purchase** option, see [Create stockroom for enterprise assets](../../enterprise-asset-management/task/create-eamstockroom.md).
+ **Note:** For instructions on how to enable the **Auto-purchase** option, see [Create stockroom for enterprise assets](create-eamstockroom.md).
 
 </td></tr></tbody>
 </table>**Important:** You can enable security implementation to execute AI agents and agentic workflows through Access Control Lists \(ACLs\) and user identities. ACLs provide the Run As capability to let agents and agentic workflows execute actions either as a dynamic user or as an AI user. For more information, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
@@ -230,5 +230,5 @@ Purchase order creation AI agent
 Sources the requested asset by creating a purchase order. If you have multiple destination stockrooms or vendors, the AI agent requests user input when creating the purchase order.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Fulfilling enterprise asset requests](../../enterprise-asset-management/concept/fulfilling-enterprise-asset-requests.md)
+</table>**Parent Topic:**[Fulfilling enterprise asset requests](fulfilling-enterprise-asset-requests.md)
 

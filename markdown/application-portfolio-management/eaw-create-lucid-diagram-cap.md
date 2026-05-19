@@ -43,7 +43,7 @@ Role required: Member of the Enterprise Architect group
 
     **Note:** Use the authorization link on the Create Diagram window, to generate an authentication token and fetch your Lucid folders to save the diagram. Ensure that you have at least one folder created in the My documents folder of your computer.
 
-    For field information, see [Create diagram for a business capability form](../../reference/eaw-reference/eaw-create-diagram-bc.md).
+    For field information, see [Create diagram for a business capability form](eaw-create-diagram-bc.md).
 
 8.  Select **Create Diagram**.
 
@@ -52,12 +52,12 @@ Role required: Member of the Enterprise Architect group
 
 After a successful submission, a link to the newly created Lucid diagram appears on top of the screen. You can select the link to navigate to the diagram. The Architectural Artifacts page shows the link to the Lucidchart diagram and an artifact name associated with it. You can select the respective link to access the artifact or diagram.
 
-**Parent Topic:**[Manage business capabilities](../../concept/eaw-concept/eaw-manage-business-capabilities.md)
+**Parent Topic:**[Manage business capabilities](eaw-manage-business-capabilities.md)
 
 **Related topics**  
 
 
-[Create diagram for a business capability form](../../reference/eaw-reference/eaw-create-diagram-bc.md)
+[Create diagram for a business capability form](eaw-create-diagram-bc.md)
 
 [View all business capabilities on the Portfolio page](eaw-view-all-capabilities-on-the-portfolio-page.md)
 
@@ -67,19 +67,19 @@ After a successful submission, a link to the newly created Lucid diagram appears
 
 [Create a sub-capability from the Portfolio page](eaw-create-a-sub-capability-from-the-portfolio-page.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
 [Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
 [Create a sub-capability](eaw-create-sub-capability.md)
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
 [Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 
 [View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 

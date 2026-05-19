@@ -21,7 +21,7 @@ Role required: admin or sp\_admin
 
 ## About this task
 
-Verify that the appropriate search sources, including Suppliers and Purchasing, are listed for your service portal. These should be available by default. If for some reason they aren't, you can add them manually. For more information on search sources, see [AI Search for Sourcing and Procurement Operations](../concept/ai-search-sourcing-procurement-operations.md).
+Verify that the appropriate search sources, including Suppliers and Purchasing, are listed for your service portal. These should be available by default. If for some reason they aren't, you can add them manually. For more information on search sources, see [AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Verify that the appropriate search sources, including Suppliers and Purchasing, 
 9.  Repeat steps 5-8 for the Purchasing search source.
 
 
-**Parent Topic:**[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+**Parent Topic:**[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 

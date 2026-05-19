@@ -17,15 +17,15 @@ Efficiently identify and resolve service problems experienced by the customers w
 
 <table id="table_t4g_gxx_tbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how service providers use CSPM](../concept/explore-spm.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how service providers use CSPM](explore-spm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../concept/configuring-spm.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-spm.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use CSPM as an agent to diagnose and resolve service problems.](../concept/using-spm.md)
+[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use CSPM as an agent to diagnose and resolve service problems.](using-spm.md)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Efficiently identify and resolve service problems experienced by the customers w
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [Customer Service Problem Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/customer-service-problem-management-rn.md).
+-   Learn more about what's new and changed, see the [Customer Service Problem Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/customer-service-problem-management-rn.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Customer Service Problem Management features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

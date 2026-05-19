@@ -26,7 +26,7 @@ Role required: admin
 
     |Field|Description|
     |-----|-----------|
-    |Authorization Key|Authorization key you had generated. See [Create authorization key for the Jenkins v2 spoke](receive-jenkins-upd.md#) for more information.|
+    |Authorization Key|Authorization key you had generated. See [Create authorization key for the Jenkins v2 spoke](../integration-hub/receive-jenkins-upd.md#) for more information.|
     |Name|Name to identify the webhook client record.|
 
 4.  Click **Submit**.

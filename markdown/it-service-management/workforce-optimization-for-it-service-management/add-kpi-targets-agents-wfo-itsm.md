@@ -96,7 +96,7 @@ In the **Target** field, update the value that you'd like the agent to achieve f
     You can analyze the target trend in the indicator time-series metric.
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](teams-workforce-optimization-configurable-wfo-itsm.md)
 
 **Related topics**  
 

@@ -47,7 +47,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](../concept/sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ Number of total active rights per SQL Server.
 </td></tr></tbody>
 </table>## Office 365 &amp; Adobe Cloud dashboard
 
-Only Microsoft 365 software products that are recognized as subscription software are shown. [Microsoft Office 365 integration](../task/set-up-microsoft-office-365.md) must be set up to view compliance information.
+Only Microsoft 365 software products that are recognized as subscription software are shown. [Microsoft Office 365 integration](set-up-microsoft-office-365.md) must be set up to view compliance information.
 
 ![Office 365 & Adobe Cloud dashboard.](../image/publisher-dashboard-o365.png)
 
@@ -282,7 +282,7 @@ Software Model Results
 
 </td><td>
 
-Number of software models out of compliance.Select the report view the results in the [License Workbench](../concept/sam-license-workbench.md).
+Number of software models out of compliance.Select the report view the results in the [License Workbench](sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -345,5 +345,5 @@ License Metric Results
 Breakdown of subscription total cost by product/version/edition \(software model\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](../concept/microsoft-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md)
 

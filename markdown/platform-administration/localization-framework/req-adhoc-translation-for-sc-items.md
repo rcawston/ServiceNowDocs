@@ -39,7 +39,7 @@ Roles required:
 
     |Option|Description|
     |------|-----------|
-    |**Machine Translations**|Translate the catalog items using machine translations. You must configure machine translations in Localization Framework settings to use this option. For more information about machine translation, see [Create a translator configuration](../../dynamic-translation/task/create-custom-translator.md).|
+    |**Machine Translations**|Translate the catalog items using machine translations. You must configure machine translations in Localization Framework settings to use this option. For more information about machine translation, see [Create a translator configuration](../dynamic-translation/create-custom-translator.md).|
     |**Export Source File**|Option to export files for translation. To export files, click **Export Source File**, choose the file type, and then click **Export File**.|
     |**Import Source File**|Option to import translated files to update the translation. To import files, from the **Export Source File** list, select **Import Translated File**.|
 
@@ -50,5 +50,5 @@ Roles required:
 5.  After your changes are completed, click **Publish Translations**.
 
 
-**Parent Topic:**[Request translations](../concept/language-picker-ui.md)
+**Parent Topic:**[Request translations](language-picker-ui.md)
 

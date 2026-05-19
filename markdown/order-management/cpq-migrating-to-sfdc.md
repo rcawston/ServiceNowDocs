@@ -17,7 +17,7 @@ Learn how to migrate a CPQ blueprint to a Salesforce-integrated CPQ environment.
 
 If necessary, perform the steps in [Migrate a blueprint from environment to environment](cpq-migrating-env-to-env.md).
 
-If necessary, install the CPQ Managed Package for Salesforce in the destination. For installation instructions, see [Installation and setup guide for environments linked to Salesforce orgs](../concept/installation-and-setup-guide-for-environments-linked-to-salesforce-org.md).
+If necessary, install the CPQ Managed Package for Salesforce in the destination. For installation instructions, see [Installation and setup guide for environments linked to Salesforce orgs](installation-and-setup-guide-for-environments-linked-to-salesforce-org.md).
 
 Ensure that the appropriate Salesforce users have access to CPQ.
 
@@ -55,9 +55,9 @@ After the import, configurable product IDs will not be the same as in the origin
 **Related topics**  
 
 
-[Testing in non-production environments before migration](../concept/cpq-env-to-env-bp-migration-intro.md)
+[Testing in non-production environments before migration](cpq-env-to-env-bp-migration-intro.md)
 
 [Migrate a blueprint from environment to environment](cpq-migrating-env-to-env.md)
 
-[Installation and setup guide for environments linked to Salesforce orgs](../concept/installation-and-setup-guide-for-environments-linked-to-salesforce-org.md)
+[Installation and setup guide for environments linked to Salesforce orgs](installation-and-setup-guide-for-environments-linked-to-salesforce-org.md)
 

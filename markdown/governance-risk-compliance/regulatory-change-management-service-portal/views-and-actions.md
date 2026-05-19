@@ -58,5 +58,5 @@ If the user is assigned the regulatory change task, then the user can log in and
 -   View the details of the impact assessment performed by entity owners.
 -   Create necessary action tasks that are related to the Compliance and Risk areas in the GRC library, and then assign them to an appropriate group.
 
-**Parent Topic:**[Regulatory change tasks](../concept/reg-change-task.md)
+**Parent Topic:**[Regulatory change tasks](reg-change-task.md)
 

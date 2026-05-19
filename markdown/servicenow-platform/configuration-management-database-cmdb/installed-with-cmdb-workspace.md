@@ -66,7 +66,7 @@ Number of days after which if one or more discovery sources stop reporting CIs, 
  -   Type: integer
 -   Default: 7
 -   Location: Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **CMDB 360**. Select Settings and configure **Number of days since CIs were last discovered by a discovery source** in the Potential issues section.
--   Learn more: [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](../task/workspc-mltsrc-configure.md).
+-   Learn more: [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](workspc-mltsrc-configure.md).
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Maximum number of records that appear as list views when drilling down from the 
 -   Type: integer
 -   Default: 100,000
 -   Location: Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **CMDB 360**. Select Settings and configure **Maximum number of records to process** in the Global section.
--   Learn more: [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](../task/workspc-mltsrc-configure.md).
+-   Learn more: [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](workspc-mltsrc-configure.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ The maximum number of results that the system counts for when using conditional 
  -   Type: integer
 -   Default: 100,000
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   More information: [CMDB Workspace store app](../concept/cmdb-workspace.md)
+-   More information: [CMDB Workspace store app](cmdb-workspace.md)
 
  For example, if a limit of 100,000 is reached, the count shows "100,000 +" to indicate that counting stopped at 100,000 and that there are additional uncounted results.
 
@@ -146,7 +146,7 @@ Enables the use of the CI Form feature when selecting CIs to view in CMDB Worksp
  -   Type: true \| false
 -   Default: true
 -   Location: [Add to System Properties \[sys\_properties\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
--   More information: [Manage CI details using CI Form in CMDB Workspace](../concept/ci-form-cmdb-workspace.md)
+-   More information: [Manage CI details using CI Form in CMDB Workspace](ci-form-cmdb-workspace.md)
 
 </td></tr></tbody>
 </table>## Roles installed
@@ -876,7 +876,7 @@ Set of extended properties, per class, that appear in the Attributes pane in the
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Configure which attributes to display in the Attributes panel](../task/unified-map-config-extended-prop.md).
+ For more information, see [Configure which attributes to display in the Attributes panel](../unified-map/unified-map-config-extended-prop.md).
 
 </td></tr><tr><td>
 
@@ -890,7 +890,7 @@ Categorization and order of related items, per class, that appear in the **Relat
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Configure how to display related items on the map](../task/unified-map-config-related-items.md).
+ For more information, see [Configure how to display related items on the map](../unified-map/unified-map-config-related-items.md).
 
 </td></tr><tr><td>
 
@@ -904,7 +904,7 @@ Reference relationships that appear as a dotted line relationship in Unified Map
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Configure display of connections to a referenced class](../task/unified-map-config-map-references.md).
+ For more information, see [Configure display of connections to a referenced class](../unified-map/unified-map-config-map-references.md).
 
 </td></tr><tr><td>
 
@@ -930,7 +930,7 @@ Class profiles that include default filters and some Unified Map settings, per c
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Create a class profile of visible layers for classes](../task/unified-map-config-class-profile.md).
+ For more information, see [Create a class profile of visible layers for classes](../unified-map/unified-map-config-class-profile.md).
 
 </td></tr><tr><td>
 
@@ -1004,7 +1004,7 @@ Parent table of the configuration identifiers framework. By default, contains th
 
  Stores any additional config identifiers, configured with custom settings for a CMDB Workspace feature, that is applicable to a specific workspace.
 
- For information about the configuration identifiers framework, see [Configuration identifiers framework](../concept/configuration-identifiers-framework.md).
+ For information about the configuration identifiers framework, see [Configuration identifiers framework](configuration-identifiers-framework.md).
 
 </td></tr><tr><td>
 
@@ -1030,7 +1030,7 @@ Settings of requests for specific CI attributes when using the CMDB Workspace fe
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Request additional attributes for new CIs](../task/additional-att-create-ci-workspace.md#).
+ For more information, see [Request additional attributes for new CIs](additional-att-create-ci-workspace.md#).
 
 </td></tr><tr><td>
 
@@ -1044,8 +1044,8 @@ Settings that limit the selection of classes for a new CI when using the CMDB Wo
 
  This table leverages the use of the configuration identifiers framework.
 
- For more information, see [Limit the class list for new CIs created in a workspace](../task/limit-class-create-ci-workspace.md).
+ For more information, see [Limit the class list for new CIs created in a workspace](limit-class-create-ci-workspace.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CMDB Workspace reference](../concept/reference-cmdb-workspace.md)
+</table>**Parent Topic:**[CMDB Workspace reference](reference-cmdb-workspace.md)
 

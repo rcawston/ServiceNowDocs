@@ -32,8 +32,8 @@ Role required:
 
     The file or email that violated the DLP policy on the Microsoft Purview side will be downloaded to the user’s local machine.
 
-    **Note:** DLP admin can control the access of **Download File** action by disabling the **Should downloading the violating file of the reported incident be allowed** setting from the Advanced Settings page. For more information, see [Configure advanced settings](../../data-loss-prevention/task/configure-advanced-settings-dlp.md).
+    **Note:** DLP admin can control the access of **Download File** action by disabling the **Should downloading the violating file of the reported incident be allowed** setting from the Advanced Settings page. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md).
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

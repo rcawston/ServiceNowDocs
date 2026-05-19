@@ -611,7 +611,7 @@ Runs the job and collects historic data for all teams indicators.
 Runs the job weekly and collects data for all indicators in Manager Workspace.
 
 </td></tr></tbody>
-</table>**Setting the due date for time-off and shift-swap request approvals**: Administrators can configure the due date logic for the Time Off Request and Shift Swap Request approval flows. The approval due date is set as the number of days before the request start date. The default is set to two days which means if the approval is not approved two days before the request start date, it will be auto-rejected. For information on configuring flows, refer to [Build your first flow in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/build-your-first-flow.md).
+</table>**Setting the due date for time-off and shift-swap request approvals**: Administrators can configure the due date logic for the Time Off Request and Shift Swap Request approval flows. The approval due date is set as the number of days before the request start date. The default is set to two days which means if the approval is not approved two days before the request start date, it will be auto-rejected. For information on configuring flows, refer to [Build your first flow in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows/build-your-first-flow.md).
 
 ## Demand forecast
 
@@ -636,7 +636,7 @@ The **WFO Forecast** time series metric retention policy is available by default
 |Tech Support: Average Chat Work Time|Average chat duration a tech support agent had for each interaction. Time is measured in hours. The default value is 0.5.|
 |Sales Support: Average Chat Work Time|Average chat duration a sales support agent had for each interaction. Time is measured in hours. The default value is 0.5.|
 
-If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [Modify forecast parameters to visualize forecast data](../task/modify-demand-forecast-parameters-configurable-wfo.md).
+If you create forecast parameters for a forecast configuration, the values set in the configuration are used instead of the default forecast parameters listed in the forecast properties section. For information on configuring forecast parameters, see [Modify forecast parameters to visualize forecast data](modify-demand-forecast-parameters-configurable-wfo.md).
 
 |Name|Description|
 |----|-----------|
@@ -883,7 +883,7 @@ Grants access to add training, assessments, and skill records.
 -   survey\_reader
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](../task/request-configurable-wfo-cs.md).
+</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](request-configurable-wfo-cs.md).
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
@@ -900,7 +900,7 @@ Grants access to add training, assessments, and skill records.
 
 **Note:** You can customize the coaching opportunities for low CSAT, high TTR, SLA breach, and handling time based on your business needs.
 
-**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](../task/request-configurable-wfo-cs.md).
+**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](request-configurable-wfo-cs.md).
 
 |Name|Description|
 |----|-----------|
@@ -936,7 +936,7 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 </td></tr></tbody>
 </table>## Coaching with learning
 
-**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](../task/request-configurable-wfo-cs.md).
+**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](request-configurable-wfo-cs.md).
 
 <table id="table_fk4_mwq_npb"><thead><tr><th>
 
@@ -1172,7 +1172,7 @@ Transforms JSON objects to internal objects and sets the word limit for records 
 
 You must [Add this system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) to set the desired value.
 
-When you [synchronize](../task/integrate-learning-third-party-configurable-wfo-cs.md) third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
+When you [synchronize](integrate-learning-third-party-configurable-wfo-cs.md) third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
 
 </td></tr><tr><td>
 
@@ -1183,10 +1183,10 @@ com.snc.process\_flow.reporting.serialized.val\_size\_limit
 Specify the number of bytes allowed for runtime values in each step in the flow execution details. To prevent truncation, set the value to an integer equal to or less than zero.-   **Type:** integer
 -   **Default value:** 16384
 
- **Note:** When you [synchronize](../task/integrate-learning-third-party-configurable-wfo-cs.md) third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
+ **Note:** When you [synchronize](integrate-learning-third-party-configurable-wfo-cs.md) third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization fails.
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](../task/request-configurable-wfo-cs.md).
+</table>**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](request-configurable-wfo-cs.md).
 
 ## Skill recommendation
 
@@ -1336,5 +1336,5 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 -   Records created over 60 days ago are automatically deleted from this table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](../concept/setup-configurable-wfo-cs.md)
+</table>**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
 

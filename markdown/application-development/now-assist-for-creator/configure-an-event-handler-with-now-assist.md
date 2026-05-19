@@ -27,15 +27,15 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../../ui-builder/concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](../ui-builder/work-experiences.md).
 
 3.  Open or create a page.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../../ui-builder/task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../ui-builder/create-page.md).
 
 4.  Add a component to your page, such as a button.
 
-    For more information about adding components to a page, see [Add and configure components](../../ui-builder/task/add-components.md#).
+    For more information about adding components to a page, see [Add and configure components](../ui-builder/add-components.md#).
 
 5.  To add an event handler to your component's event, go to the configuration panel and select **Events**.
 
@@ -66,5 +66,5 @@ Role required: ui\_builder\_admin
 
 The event handler configurations are updated.
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](using-ui-generation.md)
 

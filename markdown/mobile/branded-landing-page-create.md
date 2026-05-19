@@ -21,7 +21,7 @@ Role required: admin
 
 A branded landing page is a public web page displayed to users before they log in to their ServiceNow mobile app. This pre-login page contains a login button or a deep link that navigates users to a specified area of a ServiceNow mobile app, bypassing the need to select an instance. The login button can be configured as part of the header in the mobile app, as an integral element embedded directly within the web page itself or both these options.
 
-The default is for the login button to be contained within the header, however you can override this option by adding a line within the JSON script. In this case, you must create a button that will be an integral part of your web page. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+The default is for the login button to be contained within the header, however you can override this option by adding a line within the JSON script. In this case, you must create a button that will be an integral part of your web page. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 
 **Note:** This feature is supported from ServiceNow mobile app version 19.0 and earlier.
 
@@ -79,7 +79,7 @@ The **sys\_extension\_point** with the API name global.CustomPreAuthProperties s
      }
     ```
 
-    **Note:** As the login button is not displayed in the header, you must create a login button to be an integral part of your webpage. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+    **Note:** As the login button is not displayed in the header, you must create a login button to be an integral part of your webpage. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 
 8.  Select the **Active** field if you want this mobile property to be active.
 
@@ -98,7 +98,7 @@ The **sys\_extension\_point** with the API name global.CustomPreAuthProperties s
 
 ## What to do next
 
-You may want to change the login page to be compatible with the style of the branded landing page. For more information, see [Publish mobile apps with custom branding](../concept/mobile-publishing.md) and [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+You may want to change the login page to be compatible with the style of the branded landing page. For more information, see [Publish mobile apps with custom branding](mobile-publishing.md) and [Next Experience theming for mobile](explore-ne-theming.md).
 
-For more information on using deep links, see [Navigation links within a branded landing page](../reference/branded-landing-page-links.md) and [Deep linking for mobile](../concept/deep-link-mobile.md).
+For more information on using deep links, see [Navigation links within a branded landing page](branded-landing-page-links.md) and [Deep linking for mobile](deep-link-mobile.md).
 

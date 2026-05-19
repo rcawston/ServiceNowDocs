@@ -20,9 +20,9 @@ You can customize the **Overview** tab and the contextual side panel for an inci
 **Related topics**  
 
 
-[Create a copy of the Service Operations Workspace landing page](../task/create-copy-sow-landing-page.md)
+[Create a copy of the Service Operations Workspace landing page](create-copy-sow-landing-page.md)
 
-[Customize Service Operations Workspace landing page](../task/configure-service-operations-workspace-landing-page.md)
+[Customize Service Operations Workspace landing page](configure-service-operations-workspace-landing-page.md)
 
 ## Customize the Overview tab for an incident
 
@@ -401,7 +401,7 @@ The following SLA timer configurations display the response and resolution SLA f
 -   Incident Response
 -   Incident Resolution
 
-You should configure SLA timer configuration mappings for these timer configurations. For information on how you can configure these mappings, see [Configure the SLA timer](../../service-level-management/task/sla-timer-configurations.md).
+You should configure SLA timer configuration mappings for these timer configurations. For information on how you can configure these mappings, see [Configure the SLA timer](../service-level-management/sla-timer-configurations.md).
 
 ### Procedure
 
@@ -522,7 +522,7 @@ Configure the collection rules and map the rules to the metric definitions in th
 
 ### Before you begin
 
-Agent Client Collector for Investigation \(sn\_acc\_adapter\) and Investigation Framework \(sn\_invest\_fwk\) must be installed on the instance to view the Investigate Framework module. For more information, see [Install Agent Client Collector for Investigation](../task/install-acc-adapter.md).
+Agent Client Collector for Investigation \(sn\_acc\_adapter\) and Investigation Framework \(sn\_invest\_fwk\) must be installed on the instance to view the Investigate Framework module. For more information, see [Install Agent Client Collector for Investigation](install-acc-adapter.md).
 
 The Agent Client Collector framework \(sn\_agent\) plugin must be installed on the instance, and Agent Client Collector must be installed to the affected CI. These installations are required to view the **Investigate** tab on the Incident record and the CI related metrics information displayed on the **Investigate** tab of the Incident record. For more information on the Agent Client Collector framework plugin and the installation, see  and [Agent Client Collector installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-installation.md).
 

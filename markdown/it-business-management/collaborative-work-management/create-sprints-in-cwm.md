@@ -64,5 +64,5 @@ Select **Add another Sprint**.
 
 [Plan work items into sprints in CWM](plan-work-items-into-sprints-in-cwm.md).
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

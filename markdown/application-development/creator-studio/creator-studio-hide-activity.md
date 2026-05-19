@@ -42,5 +42,5 @@ Role required: admin or app\_engine\_admin
 4.  Select **Update** to save the record.
 
 
-**Parent Topic:**[Administering activities in Creator Studio](../concept/creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](creator-studio-administering-activities.md)
 

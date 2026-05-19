@@ -17,7 +17,7 @@ Place requests to the Workday system using the HR Service Delivery AI agent coll
 
 ## HCM AI agents Overview
 
-You can submit requests to the Workday system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents for HR Service Delivery Advanced Integration with Workday](../task/config-awd-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](../reference/awd-agent-mapping.md).
+You can submit requests to the Workday system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents for HR Service Delivery Advanced Integration with Workday](config-awd-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Advanced Integration with Workday](awd-agent-mapping.md).
 
 ## Worker profile retriever AI agent
 
@@ -50,11 +50,11 @@ The View paychecks AI agent enables you to view paycheck summaries for the selec
 
 [Time off request to Workday](w-timeoff.md)
 
-[Change legal name through Virtual Agent](../task/change-legal-na-awd.md)
+[Change legal name through Virtual Agent](change-legal-na-awd.md)
 
-[Publish the VA topic template for legal name change](../task/nlu-awd.md)
+[Publish the VA topic template for legal name change](nlu-awd.md)
 
-[Report an issue with your payslip](../task/payslips-awd.md)
+[Report an issue with your payslip](payslips-awd.md)
 
 [Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](now-assist-va-awd.md)
 

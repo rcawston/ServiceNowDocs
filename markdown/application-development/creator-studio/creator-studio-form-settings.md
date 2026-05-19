@@ -69,7 +69,7 @@ Option to have the form available outside of the app, for example, in the specif
 
  You can edit this option only for forms that have been published.
 
- **Note:** You can also specify whether the form is visible after deployment when you're ready to deploy your app. Find out how in [Request deployment for your app from Creator Studio to production](../task/creator-studio-deploy-app-to-prod.md).
+ **Note:** You can also specify whether the form is visible after deployment when you're ready to deploy your app. Find out how in [Request deployment for your app from Creator Studio to production](creator-studio-deploy-app-to-prod.md).
 
 </td></tr><tr><td>
 

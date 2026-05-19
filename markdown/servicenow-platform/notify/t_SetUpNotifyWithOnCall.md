@@ -66,16 +66,16 @@ Set up Notify with On-Call Scheduling for the first time or migrate from On-Call
     Each time the conditions for one of these trigger rules is met, the On-call: Assign by Acknowledgement workflow runs.
 
 
-**Parent Topic:**[Using Notify with On-Call Scheduling](../concept/c_NotifyWithOnCall.md)
+**Parent Topic:**[Using Notify with On-Call Scheduling](c_NotifyWithOnCall.md)
 
 **Related topics**  
 
 
-[Controlling the on-call communication channel with Notify](../concept/c_OnCallNotifyForceCommChannel.md)
+[Controlling the on-call communication channel with Notify](c_OnCallNotifyForceCommChannel.md)
 
 [Call a user from the WebRTC UI](t_CallfromWEBRTCUI.md)
 
-[Key differences between on-call scheduling with NotifyNow and with Notify](../reference/r_OnCallNotifyNowNotifyDifferences.md)
+[Key differences between on-call scheduling with NotifyNow and with Notify](r_OnCallNotifyNowNotifyDifferences.md)
 
-[Workflow editor title bar](../../../administer/workflow/reference/r_WorkflowEditorTitleBar.md)
+[Workflow editor title bar](../legacy-workflow/r_WorkflowEditorTitleBar.md)
 

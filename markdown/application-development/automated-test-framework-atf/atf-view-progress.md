@@ -36,5 +36,5 @@ When you execute a test or test suite, the system automatically displays the Run
     -   If you are currently viewing the Test Results page or the Suite Results page, click **Show Progress** under Related Links.
     -   If you are currently viewing the Test Results list or Suite Results list, right-click the row for the running test or test suite, then click **Show Progress**.
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](../concept/atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
 

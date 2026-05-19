@@ -48,7 +48,7 @@ Assign the visitor policy to workplace locations.
 -   **[Assign visitor policy to a workplace location](assign-visitor-policy-to-workplace-location.md)**  
 Add one or more workplace location to a visitor policy. Visitors who are registered to arrive at that locations will receive an email notification in prior to accept the policy.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
 
 **Related topics**  
 
@@ -63,7 +63,7 @@ Add one or more workplace location to a visitor policy. Visitors who are registe
 
 [Create a visitor badge template](create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](quick-start-tests-wsd-visitor-mgmt.md)
 

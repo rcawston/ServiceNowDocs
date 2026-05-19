@@ -17,7 +17,7 @@ The MIDServerAjax script include provides AJAX functionality for sending a test 
 
 Use in server scripts to test a MID Server using AJAX.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MIDServerAjax - MIDServerAjax\(\)
 

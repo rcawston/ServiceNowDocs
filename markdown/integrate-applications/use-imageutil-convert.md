@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Convert component. For more information about these properties, see [Properties of the Image Utilities components](../reference/util-imageutil-prop.md).
+You can configure the properties for the Convert component. For more information about these properties, see [Properties of the Image Utilities components](util-imageutil-prop.md).
 
 ## Procedure
 
@@ -105,5 +105,5 @@ Bitmap
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Image Utilities](../concept/image-utilities.md)
+**Parent Topic:**[Image Utilities](image-utilities.md)
 

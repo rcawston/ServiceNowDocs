@@ -17,11 +17,11 @@ Enable playbook owners to configure and organize multiple instances of Workflow 
 
 ## Before you begin
 
--   [Activate Playbooks](../concept/activate-process-automation-designer.md) for your appropriate application.
+-   [Activate Playbooks](activate-process-automation-designer.md) for your appropriate application.
 -   Familiarize yourself with the tables and relationships that your application uses for the playbook that you want to create.
--   Make sure to familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](../../workflow-studio/concept/exploring-flows.md), [subflows](../../workflow-studio/reference/exploring-subflows.md), and [actions](../../workflow-studio/concept/exploring-actions.md).
--   Learn how to [get started with ServiceNow® Process Automation](../concept/getting-started-process-automation.md).
--   Role required: admin, playbook.admin, or playbook.write. To learn more about playbook authoring access in Workflow Studio, see [User access to Playbooks in Workflow Studio](../concept/user-access-playbooks.md).
+-   Make sure to familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](exploring-flows.md), [subflows](exploring-subflows.md), and [actions](exploring-actions.md).
+-   Learn how to [get started with ServiceNow® Process Automation](getting-started-process-automation.md).
+-   Role required: admin, playbook.admin, or playbook.write. To learn more about playbook authoring access in Workflow Studio, see [User access to Playbooks in Workflow Studio](user-access-playbooks.md).
 
 ## About this task
 
@@ -130,13 +130,13 @@ Allow runtime users to restart the entire playbook during a run.
 
 15. [Add parallel activities.](create-parallel-activity.md)
 
-16. [Add optional activities.](../concept/optional-activities.md#)
+16. [Add optional activities.](optional-activities.md#)
 
 17. After you've added all appropriate stages and activities to your playbook, select **Activate** in the header.
 
     Activating your playbook publishes it so that it runs when triggered.
 
-    **Note:** If you change your playbook after activating it, the system saves your changes but deactivates your playbook. You must click **Activate** again to publish any new changes to your playbook. For more information, see [Playbook statuses and activation states](../reference/process-status-activation-state.md).
+    **Note:** If you change your playbook after activating it, the system saves your changes but deactivates your playbook. You must click **Activate** again to publish any new changes to your playbook. For more information, see [Playbook statuses and activation states](process-status-activation-state.md).
 
 
 ## Result
@@ -147,5 +147,5 @@ When your playbook's trigger conditions are met, your playbook runs. As a result
 
 Set up the Playbook Experience for your agents and fulfillers.
 
-**Parent Topic:**[Creating and managing Playbooks](../concept/creating-managing-playbooks.md)
+**Parent Topic:**[Creating and managing Playbooks](creating-managing-playbooks.md)
 

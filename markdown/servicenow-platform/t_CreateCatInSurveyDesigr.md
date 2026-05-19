@@ -42,7 +42,7 @@ When you create a survey, the system creates a default category, using the name 
     The new category appears below the category that you selected to create it. You can click the **X** icon in a category header to delete a category that you added in error.
 
 
-**Parent Topic:**[Survey categories](../concept/c_SurveyCategory.md)
+**Parent Topic:**[Survey categories](c_SurveyCategory.md)
 
 **Related topics**  
 

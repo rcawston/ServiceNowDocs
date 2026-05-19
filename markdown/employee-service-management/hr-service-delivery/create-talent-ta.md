@@ -34,7 +34,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 4.  On the Create New Candidate form, fill in the fields.
 
-    For a description of the field values, see [Create talent form](../reference/new-talent-form.md).
+    For a description of the field values, see [Create talent form](new-talent-form.md).
 
 5.  Select **Save**.
 
@@ -43,5 +43,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 You have created a talent profile.
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](config-t-pool.md)
 

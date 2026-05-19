@@ -199,7 +199,7 @@ Number of milliseconds the system waits for a successful host connection. If a s
 
         ![Connection for Azure DevOps Board spoke](../image/conn-config-template-azdevops2.png)
 
-    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Azure DevOps Boards spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![First-time connection configuration](../image/conn-config-template-azdevops1.png)

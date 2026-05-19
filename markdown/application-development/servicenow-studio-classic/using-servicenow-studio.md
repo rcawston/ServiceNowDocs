@@ -29,9 +29,9 @@ Use Build Agent, an autonomous AI agent, to create and update applications in Se
 You can create, update, manage, publish, and delete applications in your instance all from ServiceNow Studio, depending on your permissions.
 -   **[Working with Now Assist tools and AI files in ServiceNow Studio](working-with-now-assist-tools-sn-studio.md)**  
 Several Now Assist tools are available for you to use in ServiceNow Studio. AI files provide ways to use generative AI to enhance user productivity and efficiency through conversation and proactive experiences.
--   **[Change your development experience in ServiceNow Studio](../task/change-your-development-experience.md)**  
+-   **[Change your development experience in ServiceNow Studio](change-your-development-experience.md)**  
 Use the best tool for your app development by switching between development environments using the experience switcher in ServiceNow Studio.
--   **[Debug a script in ServiceNow Studio](../task/debug-script-servicenow-studio.md)**  
+-   **[Debug a script in ServiceNow Studio](debug-script-servicenow-studio.md)**  
 Use the Script Debugger in ServiceNow Studio to debug business rules and other synchronous server-side scripts. Access the Script Debugger during the course of your app development in ServiceNow Studio.
 -   **[Working with update sets in ServiceNow Studio](working-with-update-sets-in-servicenow-studio.md)**  
 An update set is a group of configuration changes that can be moved from one instance to another. This feature allows administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.

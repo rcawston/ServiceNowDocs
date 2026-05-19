@@ -17,7 +17,7 @@ You can enter data for all records created by the record producer, and redirect 
 
 To enter data with a record producer, use any combination of the following methods:
 
--   Create a variable on the record producer with the same name as the field in the target record. For example, a variable named caller\_id on a **Create a New Incident** record producer populates the `caller_id` field on the new incident record. Use a [variable type that corresponds to the field type](../reference/r_CreatingVariablesForFieldTypes.md).
+-   Create a variable on the record producer with the same name as the field in the target record. For example, a variable named caller\_id on a **Create a New Incident** record producer populates the `caller_id` field on the new incident record. Use a [variable type that corresponds to the field type](r_CreatingVariablesForFieldTypes.md).
 -   Define a [template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md) to assign a static field value for all records created by the record producer.
 -   Define a script that uses any variable or server-side objects and functions to assign values.
     -   Use `current.*FIELD_NAME*` to reference fields on the record being created.
@@ -57,7 +57,7 @@ RP.getParameterValue('sysparm_id')
 **Related topics**  
 
 
-[Create a record producer](../task/t_DefRecProdInSCat.md)
+[Create a record producer](t_DefRecProdInSCat.md)
 
-[Create record producers from tables](../task/t_CreatingRecordProducersFromTables.md)
+[Create record producers from tables](t_CreatingRecordProducersFromTables.md)
 

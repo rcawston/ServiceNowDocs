@@ -54,10 +54,10 @@ Role required: evt\_mgmt\_admin
 
 The manual cluster is saved in the EM Impact Manual Cluster \[em\_impact\_manual\_cluster\] table. The impact calculation is recalculated automatically.
 
-**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](manual-cluster-in-a-manual-service.md)
 
 **Related topics**  
 
 
-[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+[Configuring CIs in a manual service as a manual cluster](manual-cluster-in-a-manual-service.md)
 

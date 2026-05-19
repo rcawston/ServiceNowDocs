@@ -18,7 +18,7 @@ Define Operational Technology \(OT\) Discovery schedules that orchestrate how an
 Do the following actions before you run IT Discovery for OT Networks:
 
 -   Install and configure the standard Discovery application. To learn more, see [Discovery setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-setup.md).
--   Install the CMDB CI Class Models plugin. To learn more, see [Operational Technology \(OT\) extension classes installation](install-operation-technology-ot-extension-classes.md).
+-   Install the CMDB CI Class Models plugin. To learn more, see [Operational Technology \(OT\) extension classes installation](operational-technology-manager/install-operation-technology-ot-extension-classes.md).
 -   Install the Mid Server. To learn more, see [Installing the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md).
 
 Role required: ot\_discovery\_admin

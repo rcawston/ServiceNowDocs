@@ -17,7 +17,7 @@ Process a Zero Touch Refresh request to receive the assets from your provider an
 
 ## Before you begin
 
-The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](../concept/service-bridge-config-ztr.md).
+The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](service-bridge-config-ztr.md).
 
 Role required: admin, asset, procurement\_user, or inventory\_user.
 
@@ -75,7 +75,7 @@ After the provider ships the assets, the Zero Touch Refresh flow completes when 
 
         -   To mark the asset for repair, select **Needs repair**.
 
-            This option initiates the [Return Merchandise Authorization](../concept/return-merchandise-authorization.md) \(RMA\) flow.
+            This option initiates the [Return Merchandise Authorization](return-merchandise-authorization.md) \(RMA\) flow.
 
             The state and substate of the asset are set to In stock and Pending repair.
 
@@ -90,7 +90,7 @@ After the provider ships the assets, the Zero Touch Refresh flow completes when 
 
 The Zero Touch Refresh flow completes. The stage and state of the Zero Touch Refresh request change to Closed complete and Completed.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 

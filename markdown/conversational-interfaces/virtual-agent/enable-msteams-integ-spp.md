@@ -19,7 +19,7 @@ The process of installing and configuring Microsoft Teams integration with Virtu
 
 After you complete the Microsoft Teams integration with Virtual Agent in an instance with SPP environment, the **Now VirtualAgent Australia SPP** bot is available for Australian Govt customers.
 
-For more information on the installation and configuration, see [Install Conversational Integration with Microsoft Teams](../task/teams-install.md).
+For more information on the installation and configuration, see [Install Conversational Integration with Microsoft Teams](teams-install.md).
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](specialized-va-integs-msteams.md)
 

@@ -15,7 +15,7 @@ Configure the fields that you want to use and the data you want to display in of
 
 **Note:**
 
--   You must create an input form screen before you create variables and attributes. For information about creating an input form screen, see [Configure an input form screen](../task/parameter-screen-config.md).
+-   You must create an input form screen before you create variables and attributes. For information about creating an input form screen, see [Configure an input form screen](parameter-screen-config.md).
 -   Offline mode is only available on the Mobile Agent app.
 
 ## Reference inputs
@@ -95,5 +95,5 @@ OfflineMaxNumRecords
 Defines the number of records that you can cache in offline mode. The maximum number is 1000.You can set a different value for each reference input.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure reference inputs for input form screens in offline mode](../task/reference-fields-offline-mode.md)
+</table>**Parent Topic:**[Configure reference inputs for input form screens in offline mode](reference-fields-offline-mode.md)
 

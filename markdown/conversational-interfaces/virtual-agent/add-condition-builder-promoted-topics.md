@@ -55,5 +55,5 @@ The promoted asset also displays at the top of the list of promoted assets in a 
 
 ![Virtual Agent Now Assist panel chat window showing condition defined asset over other promoted assets.](../images/va-defined-promoted-topic-02.png)
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

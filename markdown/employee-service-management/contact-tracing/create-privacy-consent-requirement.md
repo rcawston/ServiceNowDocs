@@ -212,7 +212,7 @@ Conditions to filter the records from the table that will trigger the flow.
 
 ## What to do next
 
-You must activate the requirement before you can track whether employees have fulfilled it. For instructions, see [Activate a health and safety requirement](../../employee-readiness-core/task/activate-readiness-requirement.md).
+You must activate the requirement before you can track whether employees have fulfilled it. For instructions, see [Activate a health and safety requirement](../employee-readiness-core/activate-readiness-requirement.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

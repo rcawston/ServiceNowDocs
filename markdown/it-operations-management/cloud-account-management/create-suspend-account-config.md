@@ -27,7 +27,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 3.  Enter the details in the **New Configuration** form.
 
-    To fill the form fields, see [Suspend account configuration fields](../reference/suspend-details.md).
+    To fill the form fields, see [Suspend account configuration fields](suspend-details.md).
 
 4.  Select **Submit**.
 

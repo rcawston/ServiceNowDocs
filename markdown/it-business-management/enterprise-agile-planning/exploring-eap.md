@@ -105,7 +105,7 @@ Gain insights into the page content by summarizing it or improve content quality
 
 </td><td>
 
-[Summarize and refine Docs content in EAP using Now Assist for SPM](../task/summarize-and-refine-docs-content-in-eap.md)
+[Summarize and refine Docs content in EAP using Now Assist for SPM](summarize-and-refine-docs-content-in-eap.md)
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Save time and reduce manual effort by automatically generate stories for work it
 
 </td><td>
 
-[Generate stories for epics and features using Now Assist for SPM](../task/create-single-or-multiple-child-items-for-epic-in-eap.md)
+[Generate stories for epics and features using Now Assist for SPM](create-single-or-multiple-child-items-for-epic-in-eap.md)
 
 </td></tr><tr><td>
 

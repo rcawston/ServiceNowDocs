@@ -21,7 +21,7 @@ Role required: admin
 
 With the provided roles, relationships, and user profile attributes, contributors can report and collaborate on cases created for customers, service organizations, or themselves.
 
-The CSM Query Rules plugin is automatically activated by the CSM Contributor User plugin \(com.snc.csm\_contributor\_user\). The CSM Contributor User plugin is moved to App Store beginning with the Australia release. For more information, see [CSM Query Rules](../reference/csm-query-rules.md).
+The CSM Query Rules plugin is automatically activated by the CSM Contributor User plugin \(com.snc.csm\_contributor\_user\). The CSM Contributor User plugin is moved to App Store beginning with the Australia release. For more information, see [CSM Query Rules](csm-query-rules.md).
 
 ## Procedure
 

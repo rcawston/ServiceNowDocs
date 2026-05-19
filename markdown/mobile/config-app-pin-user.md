@@ -38,5 +38,5 @@ Role required: admin
 7.  Enable **Unlock with Fingerprint Sensor** to use your device's fingerprint biometric security instead of your PIN.
 
 
-**Parent Topic:**[App PIN settings for mobile](../concept/mobile-app-pin-settings.md)
+**Parent Topic:**[App PIN settings for mobile](mobile-app-pin-settings.md)
 

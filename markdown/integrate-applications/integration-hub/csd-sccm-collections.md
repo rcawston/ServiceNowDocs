@@ -92,5 +92,5 @@ Discovery model that links the unentitled software installation with the SCCM co
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](configure-sccm-ihub.md)
 

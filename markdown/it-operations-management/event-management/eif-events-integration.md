@@ -133,7 +133,7 @@ The name of the MID Server on which the extension is running. This field is auto
 
 If the MID Server fails to start, you can review the MID Server log errors.
 
--   **[EIF events warning severity](../reference/eif-events-severity.md)**  
+-   **[EIF events warning severity](eif-events-severity.md)**  
 If the EIF event payload has a warning severity, it will be mapped differently in the ServiceNow instance.
 
 **Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)

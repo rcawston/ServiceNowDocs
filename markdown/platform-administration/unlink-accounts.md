@@ -44,5 +44,5 @@ If you unlink your account to a messaging app for Now Actions, you must also dis
     **Note:** If you want to link your ServiceNow account again, follow the steps in [Link your ServiceNow user account to your Slack or MS Teams account for Now Actions](link-accounts.md).
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 

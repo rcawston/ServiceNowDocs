@@ -32,7 +32,7 @@ Slack communication uses the following subflows:
 ## Slack communication through workbench
 
 -   In the major incident workbench, under the **Communicate** tab, you can find all the communication tasks for the plan.
--   For the task where you have selected slack as a channel, you can click **Compose** to start a slack communication. For information on how to create a communication plan, refer to [Add communication plan from the major incident workbench](../../incident-management/task/add-comm-plan-from-mim-workbench.md)
+-   For the task where you have selected slack as a channel, you can click **Compose** to start a slack communication. For information on how to create a communication plan, refer to [Add communication plan from the major incident workbench](../incident-management/add-comm-plan-from-mim-workbench.md)
 -   In the dialog box, the **To** field includes the contacts that you have added while creating the communication contact for the plan.
 -   The **Message** field includes the message you are intending to convey to the recipients.
 

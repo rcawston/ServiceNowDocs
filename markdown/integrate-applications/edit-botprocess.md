@@ -15,7 +15,7 @@ Edit an existing bot process in RPA Hub to modify a few details.
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Verify that the life cycle stage of the bot process is **In-maintenance** on the bot process form.
 
@@ -53,7 +53,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 7.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+**Parent Topic:**[Configuring a bot process record in RPA Hub](create-botprocess.md)
 
 **Related topics**  
 

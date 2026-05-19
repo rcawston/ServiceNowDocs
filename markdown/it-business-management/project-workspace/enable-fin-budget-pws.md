@@ -36,5 +36,5 @@ Configure budget attributes to work on managing budget of your planning items. F
 -   **[Configure budget attribute at instance-level to allocate budget](config-budget-allocation-attribute-pws.md)**  
 Configure the budget attribute by expense type or cost type as an instance-level to work on budget allocations for your projects using Project Workspace.
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](config-fin-pws.md)
 

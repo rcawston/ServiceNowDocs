@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Add additional proxy servers on additional machines to ensure an optimal environment. See [Sizing your Edge Encryption environment](../concept/edge-environment-size.md) to determine the number of additional proxies needed.
+Add additional proxy servers on additional machines to ensure an optimal environment. See [Sizing your Edge Encryption environment](edge-environment-size.md) to determine the number of additional proxies needed.
 
 **Note:** Make sure that all proxies have the same encryption keys and the same RSA key pair used to digitally sign encryption configuration and encryption rules. If a proxy database was set up as part of the installation, all proxies must use the same proxy database.
 

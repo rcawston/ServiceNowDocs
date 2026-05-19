@@ -40,8 +40,8 @@ You can send a privacy screening assessment from an entity if you do not have a 
 5.  Select **Send**.
 
 
--   **[New privacy assessment creation form](../reference/new-privacy-assessment-creation-form.md)**  
+-   **[New privacy assessment creation form](new-privacy-assessment-creation-form.md)**  
 Use the fields on the new privacy assessment creation form to create a new privacy assessment.
 
-**Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](../concept/trigger-privacy-assessmt-on-entities.md)
+**Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](trigger-privacy-assessmt-on-entities.md)
 

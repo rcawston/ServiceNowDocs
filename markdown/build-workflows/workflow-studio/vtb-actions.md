@@ -302,7 +302,7 @@ Card record
 N/A
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spokes](../concept/spokes.md)
+</table>**Parent Topic:**[Spokes](spokes.md)
 
 **Related topics**  
 

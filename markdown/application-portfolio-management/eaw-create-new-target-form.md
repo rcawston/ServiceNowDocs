@@ -210,9 +210,9 @@ The date on which the target is to be reviewed.
 **Related topics**  
 
 
-[Exploring goals](../../concept/eaw-concept/eaw-goals.md)
+[Exploring goals](eaw-goals.md)
 
-[Add a quantitative target to a goal](../../task/eaw-task/eaw-add-a-quantitative-target-to-a-goal.md)
+[Add a quantitative target to a goal](eaw-add-a-quantitative-target-to-a-goal.md)
 
-[Add a qualitative target to a goal](../../task/eaw-task/eaw-add-a-qualitative-target-to-a-goal.md)
+[Add a qualitative target to a goal](eaw-add-a-qualitative-target-to-a-goal.md)
 

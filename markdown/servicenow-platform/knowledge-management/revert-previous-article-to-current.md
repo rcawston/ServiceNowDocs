@@ -34,5 +34,5 @@ This action is available for earlier published version that have a state of **Ou
     The system displays the Knowledge form. The version number increments to the latest version number plus 0.01 and the state changes to **Draft**. For example, if the latest published version of an article is 3.0 and you select the outdated 1.0 version to become the current version, the version number increments to 3.01.
 
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

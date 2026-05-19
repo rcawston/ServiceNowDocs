@@ -50,5 +50,5 @@ The homepage displays links to the featured, most viewed, and most useful articl
 5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 

@@ -85,5 +85,5 @@ Role required: admin
 
 Continue building your dashboard by adding more elements such as additional visualizations, filters, or text components. Arrange and resize elements to create a balanced layout that provides users with a comprehensive view of their data.
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](next-experience-all-menu-editing.md)
 

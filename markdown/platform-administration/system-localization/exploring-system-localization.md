@@ -53,7 +53,7 @@ Display translations of base system UI string content.
 </td><td>
 
 -   [Language internationalization support](c_LangInternationalizationSupport.md)
--   [Activate a language](../task/t_ActivateALanguage.md)
+-   [Activate a language](t_ActivateALanguage.md)
 
 </td><td rowspan="3">
 
@@ -78,11 +78,11 @@ Translate UI string content that you create or modify.
 </td></tr></tbody>
 </table>## Related applications
 
--   **[Localization Framework](../../localization-framework/concept/localization-framework-landing.md)**
+-   **[Localization Framework](../localization-framework/localization-framework-landing.md)**
 
-    Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. Localization Framework also supports using [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md) for live translation of form fields, translating knowledge articles, and integrating with third-party translation services.
+    Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. Localization Framework also supports using [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md) for live translation of form fields, translating knowledge articles, and integrating with third-party translation services.
 
--   **[Localization Workspace](../../localization-workspace/concept/localization-workspace.md)**
+-   **[Localization Workspace](../localization-workspace/localization-workspace.md)**
 
     Localization Workspace is a targeted translation management experience for content owners and translation fulfillers. With Localization Workspace you can manage and deliver multilingual content at scale.
 

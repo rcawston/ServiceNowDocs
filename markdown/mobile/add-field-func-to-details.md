@@ -101,7 +101,7 @@ Icon
 
 Option icon used for your field function.To use an existing icon, click the **Choose** button, select an icon, and click **Apply**.
 
-To create an icon, click the **New** button. You’re redirected to the **New icon** panel. For details on creating icons see [Mobile icons](../reference/sg-mobile-icon.md).
+To create an icon, click the **New** button. You’re redirected to the **New icon** panel. For details on creating icons see [Mobile icons](sg-mobile-icon.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Function
 
 Function to use on the field selected in the **Field Name** field.To use an existing function, click the **Choose** button, select a function, and click **Apply**.
 
-To create function, click the **New** button. You’re redirected to the **New function** panel. For details on creating functions see [Mobile functions](../concept/sg-studio-mobile-button-types.md).
+To create function, click the **New** button. You’re redirected to the **New function** panel. For details on creating functions see [Mobile functions](sg-studio-mobile-button-types.md).
 
 </td></tr></tbody>
 </table>7.  Click **Save** in the upper right corner to save your function instance.

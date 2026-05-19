@@ -17,7 +17,7 @@ The Service Catalog lets you create other catalogs \(such as the Request Catalog
 
 The goal of this product view is to help you to understand how Service Catalog key entities work with the core CSDM framework.
 
--   **[Service Catalog and CSDM tables](../reference/request-cat-use-case.md)**  
+-   **[Service Catalog and CSDM tables](request-cat-use-case.md)**  
 Service Catalog manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Service Catalog.
 -   **[Service Catalog use case](request-cat-use-case-example.md)**  
 You can create customized catalogs where you can request items such as a specific service or product. With this use case, CSDM provides Service Catalog connection to the service offerings and services.
@@ -29,5 +29,5 @@ Consider these points while implementing the CSDM framework.
 **Related topics**  
 
 
-[Applying CSDM guidelines to your product — product views](../../csdm-implementation/reference/use-cases.md)
+[Applying CSDM guidelines to your product — product views](../common-service-data-model-csdm/use-cases.md)
 

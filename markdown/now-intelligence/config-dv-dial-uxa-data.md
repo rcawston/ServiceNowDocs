@@ -27,7 +27,7 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [Create a dial data visualization](../task/create-dv-dial-ac.md).
+You have selected a Usage Insights data source in [Create a dial data visualization](create-dv-dial-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -47,7 +47,7 @@ Format values
 
 </td><td id="entry_format-values">
 
-Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](value-formatting-reports.md#).
+Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](reporting/value-formatting-reports.md#).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -268,5 +268,5 @@ Alignment
 The alignment of the illustration and text in the message.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a dial data visualization](../task/create-dv-dial-ac.md)
+</table>**Parent Topic:**[Create a dial data visualization](create-dv-dial-ac.md)
 

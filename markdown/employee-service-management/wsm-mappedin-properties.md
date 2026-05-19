@@ -73,5 +73,5 @@ The amount of time \(in seconds\) to stagger processing external ID generations.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure Mappedin](../concept/mappedin-integration-topics.md)
+**Parent Topic:**[Configure Mappedin](mappedin-integration-topics.md)
 

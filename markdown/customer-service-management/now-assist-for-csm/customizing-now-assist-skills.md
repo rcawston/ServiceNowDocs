@@ -51,7 +51,7 @@ Now Assist for CSM provides base system skills that can be tailored to meet spec
     9.  Under each display type, open the chevron and specify user roles by entering role names in the User roles field.
     10. Review your choices and select **Activate** to complete the skill customization.
 
-        **Note:** For more information, see [Customize a case summarization skill in Now Assist for Customer Service Management \(CSM\)](../task/customize-a-now-assist-for-csm-skill.md).
+        **Note:** For more information, see [Customize a case summarization skill in Now Assist for Customer Service Management \(CSM\)](customize-a-now-assist-for-csm-skill.md).
 
 
 ## Access and clone base system skills with the Now Assist Skill Kit

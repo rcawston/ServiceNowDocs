@@ -17,7 +17,7 @@ Test an AI agent or agentic workflow that uses adaptive desktop actions in AI Ag
 
 -   Confirm that the **ServiceNow Web Automation** Google Chrome extension is installed and connected to your ServiceNow® instance. For more information, see [Install the Google Chrome extension for adaptive desktop actions](na-ai-wa-install-browser-extension.md).
 -   Confirm that you're logged in to your ServiceNow instance and it is in the active state in the browser window.
--   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [Enhanced chat](../../../administer/now-assist-platform/concept/now-assist-panel-enhanced.md).
+-   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [Enhanced chat](now-assist-panel-enhanced.md).
 -   The AI agent checks its access to the internet by first opening the main Google website. If you have implemented an allow list, verify that google.com is allowed. For more information, see [Configure allowed websites for adaptive desktop actions](na-ai-wa-configure-allowed-websites.md).
 -   Role required: sn\_aia.admin
 
@@ -44,11 +44,11 @@ Because generative AI is non-deterministic, try several test runs of a task. The
 
 2.  Select **Start manual test**.
 
-    If you want to start an automated test, see [Evaluate an AI agent](../../../administer/now-assist-ai-agents/task/execute-aia-eval.md) for more details on that process.
+    If you want to start an automated test, see [Evaluate an AI agent](execute-aia-eval.md) for more details on that process.
 
 3.  In the **Choose a test type** drop-down menu, select **AI agent or workflow**.
 
-    If you want to test user access security controls, see [Test AI agent user access](../../../administer/now-assist-ai-agents/task/test-aia-access.md).
+    If you want to test user access security controls, see [Test AI agent user access](test-aia-access.md).
 
 4.  Select an agentic workflow or AI agent that you want to test by searching the name of a workflow or choosing from the drop-down menu.
 
@@ -60,7 +60,7 @@ Because generative AI is non-deterministic, try several test runs of a task. The
 
     This field automatically fills in the most recent active version of the AI agent or agentic workflow, but you can switch to a different active version from the drop-down list.
 
-    See [Version control for AI agents and agentic workflows](../../../administer/now-assist-ai-agents/concept/version-control.md) for more information about creating and changing versions.
+    See [Version control for AI agents and agentic workflows](version-control.md) for more information about creating and changing versions.
 
 7.  In the **Task** field, provide a concise summary of the task to be achieved.
 
@@ -119,7 +119,7 @@ Your users can access your AI agent by using Now Assist panel. For information s
 **Related topics**  
 
 
-[Manually test the execution of an agentic workflow](../../../administer/now-assist-ai-agents/task/test-aia-use-case.md)
+[Manually test the execution of an agentic workflow](test-aia-use-case.md)
 
-[Manually test the execution of an AI agent](../../../administer/now-assist-ai-agents/task/test-ai-agent.md)
+[Manually test the execution of an AI agent](test-ai-agent.md)
 

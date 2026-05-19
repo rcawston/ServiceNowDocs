@@ -17,7 +17,7 @@ Create unique instances of widgets by configuring the options for each instance.
 
 ## Before you begin
 
-Create or edit a portal page and add widgets to it. You can also configure the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#).
+Create or edit a portal page and add widgets to it. You can also configure the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#).
 
 Role required: sp\_admin or admin
 

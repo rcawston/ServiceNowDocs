@@ -15,7 +15,7 @@ breadcrumb: [Use, Document Intelligence, Enable AI experiences]
 
 Create a document task and upload single or multi-page documents that are in JPEG, PNG, or PDF formats to start extracting text or classifying documents.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_docintel.creation\_agent
 
 ## About this task
 
-These are the manual steps to create a document task. If you have integrations set up with other workflows, this task may be automated. See [Integrating Document Intelligence with other applications](../concept/integrating-docintel.md).
+These are the manual steps to create a document task. If you have integrations set up with other workflows, this task may be automated. See [Integrating Document Intelligence with other applications](integrating-docintel.md).
 
 ## Procedure
 

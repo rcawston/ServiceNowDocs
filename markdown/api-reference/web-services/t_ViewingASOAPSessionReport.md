@@ -28,5 +28,5 @@ Role required: admin
     The SOAP session is marked as inactive within 60 seconds of the last transaction.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

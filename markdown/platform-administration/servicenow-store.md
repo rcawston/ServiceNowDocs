@@ -44,7 +44,7 @@ The [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about guest review form fields and types of ServiceNow Store listings.](../reference/store-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about guest review form fields and types of ServiceNow Store listings.](store-reference.md)
 
 </td><td>
 

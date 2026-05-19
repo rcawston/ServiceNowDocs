@@ -17,7 +17,7 @@ The HR REST API provides endpoints that return information about employees that 
 
 To access this API you must have the sn\_hr\_core.usa\_employee\_only role and the Human Resources Scoped App: Core \(com\_sn\_hr\_core\) plugin activated.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## HR REST - GET /get\_usa\_employee\_profile
 
@@ -115,7 +115,7 @@ Format: YYYY-MM-DD HH:MM:SS or YYYY-MM-DD \(time defaults to 00:00:00\)
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -156,7 +156,7 @@ Flag that indicates whether there is additional data to obtain in a subsequent c
 </td></tr></tbody>
 </table>### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

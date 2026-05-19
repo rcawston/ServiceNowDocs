@@ -74,5 +74,5 @@ The following is an example for app.config.json
 -   approver\_script is a name of the table column / xml tag
 -   js is an extension of the file \(js \| html \| css \| json\)
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

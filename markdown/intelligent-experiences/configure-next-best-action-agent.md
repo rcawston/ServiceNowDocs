@@ -36,11 +36,11 @@ An AI agent can collaborate with other agents to achieve better results by using
 
     2.  **Voice**: Select the Voice option to create an AI voice agent.
 
-        See [Deploy AI agents for voice](../reference/deploy-ai-agents-for-voice.md) for more information on setting up and creating AI voice agents.
+        See [Deploy AI agents for voice](deploy-ai-agents-for-voice.md) for more information on setting up and creating AI voice agents.
 
     3.  **External**: Select the External option to create external AI agents in the AI Agent Studio to connect the ServiceNow AI Platform with the third-party agentic AI providers.
 
-        For more information about creating external AI agents in the AI Agent Studio, see [Create an external AI agent](../concept/create-external-aia.md).
+        For more information about creating external AI agents in the AI Agent Studio, see [Create an external AI agent](create-external-aia.md).
 
 3.  [Define the AI agent's specialty](define-specialty.md).
 

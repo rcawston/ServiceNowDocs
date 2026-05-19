@@ -88,10 +88,10 @@ Add a property, which is required to allow users to create a knowledge article f
 -   **[Create a UI action to enable creating knowledge articles from HR cases](ui-action-hrcase-article.md)**  
 Create a UI action to add the Knowledge check box to the HR case form.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Actionable Knowledge Feedback Properties](../reference/r_KnowledgeProperties.md#)
+[Actionable Knowledge Feedback Properties](r_KnowledgeProperties.md#)
 

@@ -263,5 +263,5 @@ Updates the business rule for applying a plan to new records whenever the **Appl
 |--------------|-----------|
 |Planned Maintenance Nightly Run|Builds maintenance requests based on active maintenance plans.|
 
-**Parent Topic:**[Activate Planned Maintenance](../task/t_ActivatePlanMaint.md)
+**Parent Topic:**[Activate Planned Maintenance](t_ActivatePlanMaint.md)
 

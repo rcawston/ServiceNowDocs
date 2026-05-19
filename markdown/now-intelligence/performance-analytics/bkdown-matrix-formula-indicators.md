@@ -46,15 +46,15 @@ Formula: 8152/31/24=11
 **Related topics**  
 
 
-[Create a formula indicator](../task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](t_CreateAFormulaIndicator.md)
 
-[Get analytics methods in formulas](../task/get-indicator-analytics.md)
+[Get analytics methods in formulas](get-indicator-analytics.md)
 
 [Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
 
 [Applying time series to result or to contributing indicators](apply-time-series-result-components.md)
 
-[Detect indicators with no scores in a formula](../task/detect-indicators-no-scores-formula.md)
+[Detect indicators with no scores in a formula](detect-indicators-no-scores-formula.md)
 
 [Indexing multiple indicators in a formula](index-indicators.md)
 

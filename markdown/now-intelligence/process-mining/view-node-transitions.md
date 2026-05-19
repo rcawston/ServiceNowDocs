@@ -36,5 +36,5 @@ Select a transition link from the list to edit activities for the selected filte
 **Related topics**  
 
 
-[Applying a process step filter on an activity](../task/node-to-node-conditions.md)
+[Applying a process step filter on an activity](node-to-node-conditions.md)
 

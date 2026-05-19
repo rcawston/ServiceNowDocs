@@ -31,7 +31,7 @@ The ServiceNow® Incident Communications Management application enables organiza
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Communications Management components such as roles and dependent applications.](../../incident-management/reference/reference-section-for-incident-management.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Incident Communications Management components such as roles and dependent applications.](../incident-management/reference-section-for-incident-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

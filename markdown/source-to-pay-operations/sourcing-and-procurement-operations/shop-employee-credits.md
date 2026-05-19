@@ -17,7 +17,7 @@ Shop products from the various categories in Shopping Hub Home with employee cre
 
 ## Before you begin
 
-To shop using employee credits, you must have some employee credits allocated to you by the Shopping Hub administrator. For more information on how employee credits allow you access to restricted categories, see [Shopping controls overridden by credits](../reference/shopping-controls-overridden.md).
+To shop using employee credits, you must have some employee credits allocated to you by the Shopping Hub administrator. For more information on how employee credits allow you access to restricted categories, see [Shopping controls overridden by credits](shopping-controls-overridden.md).
 
 Role required: sn\_shop.shopper
 
@@ -125,5 +125,5 @@ Method of making the payment. The available credits are displayed here. If the p
 
 You can view the allocation type and allocation amount breakup from the purchase requisition that is created, by navigating to the Cost Allocations related list of the associated purchase requisition line.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

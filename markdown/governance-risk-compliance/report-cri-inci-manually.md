@@ -27,7 +27,7 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager, sn\_op
 
 4.  On the New record form, fill in the fields.
 
-    To view more information on the fields, see the [Create New Digital Resilience Incident form](../reference/create-new-dig-res-inci.md).
+    To view more information on the fields, see the [Create New Digital Resilience Incident form](create-new-dig-res-inci.md).
 
 5.  Select **Accept work**.
 

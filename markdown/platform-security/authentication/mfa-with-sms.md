@@ -25,7 +25,7 @@ You can configure MFA with SMS using the out of the box Twilio as well. For more
 
 Further the MFA with SMS can be controlled based on the policy input and conditions using filter criteria. Following are the types of filter criteria:
 
--   [IP Filter Criteria](../task/create-ip-filter-criteria.md)
--   [Role Filter Criteria](../task/create-role-filter-criteria.md)
--   [Group Filter Criteria](../task/create-group-filter-criteria.md)
+-   [IP Filter Criteria](create-ip-filter-criteria.md)
+-   [Role Filter Criteria](create-role-filter-criteria.md)
+-   [Group Filter Criteria](create-group-filter-criteria.md)
 

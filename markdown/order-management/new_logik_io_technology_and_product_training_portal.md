@@ -59,5 +59,5 @@ In the Student Home page you can view the Course Catalog and select courses, mon
 
 For more information about the Training Portal and how to purchase a subscription to the Portal, contact CPQ Training at [training@logik.io](mailto:training@logik.io) or your CPQ Sales Representative.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

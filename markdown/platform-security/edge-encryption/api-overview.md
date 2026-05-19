@@ -27,9 +27,9 @@ POST and URL parameters can be accessed as properties of the request object usin
 XML APIs can be used after calling getAsXmlContent\(\) on either the request object or a ParameterValue property.
 -   **[JSON APIs](json-overview.md)**  
 JSON APIs can be used after calling getAsJsonContent\(\) on either the request object or a ParameterValue property.
--   **[print\(String message\)](../reference/r_GLBL-print_S.md)**  
+-   **[print\(String message\)](r_GLBL-print_S.md)**  
 Prints a message to the wrapper log file: `<proxy server directory>/logs/wrapper_<date>.log`.
--   **[Prohibited keywords](../reference/r_ProhibitedKeywords.md)**  
+-   **[Prohibited keywords](r_ProhibitedKeywords.md)**  
 The Edge Encryption proxy validates encryption rule scripts before saving the rule. Many JavaScript keywords aren’t allowed in encryption rule scripts.
 
 **Parent Topic:**[Define a custom encryption rule](c_EncryptionRules.md)

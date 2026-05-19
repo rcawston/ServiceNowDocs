@@ -66,7 +66,7 @@ GCP does not send values such as the severity level in the payload. The default 
 
 **Note:**
 
-To map the GCP hosts to the**cmdb\_ci\_server**record instead of**cmdb\_ci\_vm\_object**, disable the**Google Monitor - General**event rule created for GCP. For further information about event rules, see [Event rules](../concept/create-event-rules.md).
+To map the GCP hosts to the**cmdb\_ci\_server**record instead of**cmdb\_ci\_vm\_object**, disable the**Google Monitor - General**event rule created for GCP. For further information about event rules, see [Event rules](create-event-rules.md).
 
 **Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
 

@@ -67,7 +67,7 @@ Capacity Definition
 
 </td><td>
 
-The ID of the Capacity Definition. Learn how the total is calculated by selecting the Capacity Definition record ID on the product subscription details page. See [Monitor capacity subscription calculations in Subscription Management](../task/view-how-totals-calculated-capacity-subscriptions-v2.md).
+The ID of the Capacity Definition. Learn how the total is calculated by selecting the Capacity Definition record ID on the product subscription details page. See [Monitor capacity subscription calculations in Subscription Management](view-how-totals-calculated-capacity-subscriptions-v2.md).
 
 </td></tr><tr><td>
 

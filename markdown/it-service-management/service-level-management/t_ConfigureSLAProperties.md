@@ -38,7 +38,7 @@ Role required: admin
         configure properties for the SLA Repair process.
 
 
-**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 
 ## SLA engine properties
 
@@ -244,7 +244,7 @@ com.snc.sla.repair.log
 
 </td><td>
 
-Logging level for SLARepair \([SLA repair](../concept/c_RepairSLAs.md) must be enabled to use this\)
+Logging level for SLARepair \([SLA repair](c_RepairSLAs.md) must be enabled to use this\)
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ The following logging levels are available for the **Logging level for...** prop
 
 Administrators can manage the SLA repair function using system properties.
 
-Navigate to **Service Level Management** &gt; **Properties** &gt; **SLA Repair** to view [SLA repair](../concept/c_RepairSLAs.md) properties.
+Navigate to **Service Level Management** &gt; **Properties** &gt; **SLA Repair** to view [SLA repair](c_RepairSLAs.md) properties.
 
 <table id="table_dfk_jkh_gr"><thead><tr><th>
 

@@ -27,13 +27,13 @@ This connection between the applications reduces context switching and ensures t
 
 ## Workflow of EAP-CWM integration
 
-1.  EAP admin connects an EAP team to CWM. See [Connect an EAP team with CWM](../../spw-eap/task/connect-an-eap-team-with-cwm.md).
+1.  EAP admin connects an EAP team to CWM. See [Connect an EAP team with CWM](../enterprise-agile-planning/connect-an-eap-team-with-cwm.md).
 2.  A new Space and Board are created for this EAP team in the CWM workspace.
 3.  Existing work items assigned to this EAP team are brought over to the newly created CWM Board through Connected Work filters.
 4.  Sprint planning view is enabled for this CWM Board where the existing work items and sprints are automatically shown.
 5.  Check team's access to CWM and provide the CWM user \[sn\_cwm.cwm\_user\] to all team members.
 6.  EAP team can start creating more work, manage current work, and update progress directly from the CWM Board. See [Sprint planning in CWM](agile-sprint-planning-in-cwm.md).
-7.  The team's progress and work status is reflected back on the Team dashboard in the EAP workspace. See [EAP Agile Team dashboard](../../spw-eap/concept/eap-agile-team-dashboard.md)
+7.  The team's progress and work status is reflected back on the Team dashboard in the EAP workspace. See [EAP Agile Team dashboard](../enterprise-agile-planning/eap-agile-team-dashboard.md)
 
 ## Creating or managing sprints for EAP teams in CWM
 

@@ -15,7 +15,7 @@ breadcrumb: [Classic approvals, Build workflows]
 
 Many organizations rely on an approval process to ensure that requests are reasonable and fit an organization's budget.
 
-**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../workflow-studio/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 The service catalog can use these classes of approvals:
 

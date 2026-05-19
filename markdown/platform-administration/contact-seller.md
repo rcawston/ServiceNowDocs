@@ -52,7 +52,7 @@ Provide the reason for contacting the seller and your message.
 
 On the guest contact form, fill in the fields.
 
- For a description of the field values, see [Guest contact form fields](../reference/guest-contact-form-fields.md).
+ For a description of the field values, see [Guest contact form fields](guest-contact-form-fields.md).
 
 </td></tr></tbody>
 </table>3.  Select **Send** to submit the form.

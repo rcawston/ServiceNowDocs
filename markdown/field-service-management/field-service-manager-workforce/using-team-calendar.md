@@ -48,7 +48,7 @@ Users can personalize the calendar by:
 
 ## Visibility
 
-Based on group visibility permissions, agents can view their group members and their schedules. Administrators can [Configure Workforce](configuring-workforce.md) to:
+Based on group visibility permissions, agents can view their group members and their schedules. Administrators can [Configure Workforce](../configuring-workforce.md) to:
 
 -   Customize the team calendar.
 -   Set system properties for group and territory views.
@@ -61,7 +61,7 @@ Based on group visibility permissions, agents can view their group members and t
 
     View and organize schedules for individual agents and groups.
 
--   [Change views in Workforce](../task/switch-views-in-workforce.md)
+-   [Change views in Workforce](switch-views-in-workforce.md)
 
     Switch between assignment group view and territory view for better visibility.
 

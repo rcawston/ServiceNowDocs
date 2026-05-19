@@ -366,7 +366,7 @@ Longer description of a unit of this offering.
 12. Select **Submit** to save your service offering or select **Update** after editing a service offering.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 
 **Related topics**  
 

@@ -54,5 +54,5 @@ All the base system Software Asset Management reports and the custom created rep
     The new report tile appears on the Reports tab. You may need to reload the Reports tab to see the new report tile.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

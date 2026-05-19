@@ -74,5 +74,5 @@ The **Auto Close Resolved Cases** Flow Designer flow uses the **Auto Close** fla
 **Related topics**  
 
 
-[Automatically close customer service cases](../concept/auto-close-customer-service-case.md)
+[Automatically close customer service cases](auto-close-customer-service-case.md)
 

@@ -15,7 +15,7 @@ You can push changes made to definitions, or new definitions between development
 
 Once completed, the changes synchronize to all configured sub-production instances defined in the **My SN Instances** table.
 
-To register your instances, see [Register your instance](../task/register-your-instance.md).
+To register your instances, see [Register your instance](register-your-instance.md).
 
 1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 2.  On the Definitions properties tab, ensure that **Enable definition synchronization** is active.

@@ -126,5 +126,5 @@ Your checklist template is created.
 
 Create a checklist from a checklist template by selecting the template from the more icon.
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](c_VisualTaskBoardChecklists.md)
 

@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Azure service principal**
 
-    Verify the Azure service principal is configured. For more information, see [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+    Verify the Azure service principal is configured. For more information, see [Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md)
 
 -   **Privileges**
 
@@ -45,7 +45,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a Cloud Discovery schedule**
 
-    Create a schedule for the relevant Azure service account as described in [Create Discovery schedules for cloud resources](../../discovery/concept/discovery-manager.md#)
+    Create a schedule for the relevant Azure service account as described in [Create Discovery schedules for cloud resources](../discovery/discovery-manager.md#)
 
 -   **Fine-tune Azure inventory discovery using the Resource Inclusion List**
 

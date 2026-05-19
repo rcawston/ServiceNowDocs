@@ -41,13 +41,13 @@ Test Agent has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|One-stop shop experience|[Author, execute, and troubleshoot tests with Test Agent](../task/test-agent-use.md)|admin|
+|One-stop shop experience|[Author, execute, and troubleshoot tests with Test Agent](test-agent-use.md)|admin|
 
 ## What to explore next
 
 To learn more about configuring and using Test Agent, see:
 
 -   [Test Agent access](test-agent-access.md)
--   [Author, execute, and troubleshoot tests with Test Agent](../task/test-agent-use.md)
+-   [Author, execute, and troubleshoot tests with Test Agent](test-agent-use.md)
 -   [Test Agent guidelines](test-agent-exceptions.md)
 

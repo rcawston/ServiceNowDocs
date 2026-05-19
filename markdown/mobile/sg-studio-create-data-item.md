@@ -151,7 +151,7 @@ Lets you adds fields to the form that allow you to configure how to sort the lis
 
 ## What to do next
 
-Associate a data item with a screen. For more information, see [Mobile screen types](../concept/sg-mobile-applet.md).
+Associate a data item with a screen. For more information, see [Mobile screen types](sg-mobile-applet.md).
 
 **Related topics**  
 

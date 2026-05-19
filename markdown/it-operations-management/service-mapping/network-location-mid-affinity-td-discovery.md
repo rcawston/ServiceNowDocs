@@ -24,12 +24,12 @@ Two properties included with Service Mapping offer a solution to system administ
 -   MID affinity: If horizontal discovery has been configured, you can enable the **sm.topdown.reuse\_mid\_from\_hd\_schedule** system property. It identifies the subnetwork MID Server that was previously configured during horizontal discovery and reuses it for top-down discovery in Service Mapping. Configuring the MID Server using this method requires less time and results in fewer misidentifications.
 -   Network location: After locations have been assigned to the horizontal discovery schedules, you can enable the **sm.network\_location.detect\_host\_by\_location** system property, which adds a **Network Location** field to the Entry point form. The top-down discovery process starts with the entry point defined on this form and can then identify both the MID Server and the host using the location provided in the horizontal discovery schedule.
 
-To learn more about enabling each property, see [Components installed with Service Mapping](../reference/components-installed-with-service-mapping.md)
+To learn more about enabling each property, see [Components installed with Service Mapping](components-installed-with-service-mapping.md)
 
 **Related topics**  
 
 
-[Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#)
+[Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#)
 
 [MID Server configuration for Service Mapping](configure-mid-service-mapping.md)
 

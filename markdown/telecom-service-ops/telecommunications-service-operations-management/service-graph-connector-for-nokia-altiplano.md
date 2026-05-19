@@ -75,5 +75,5 @@ The Integration Commons for CMDB store app provides a dashboard with a central v
 
 [Configure Nokia Altiplano service graph connector](configuring-service-graph-connector-nokia-altiplano.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](properties-installed-with-nokia-altiplano.md)
 

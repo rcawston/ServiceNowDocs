@@ -31,7 +31,7 @@ You can set system parameters for reading log data that determine the actions th
 
     The data input configuration displays.
 
-    **Note:** The number of log sources that the data input has created is shown in the **Sources count** field. For more information about data input sources, see [Log data auto-mapping and mapping in Health Log Analytics](../concept/hla-data-input-automapping.md).
+    **Note:** The number of log sources that the data input has created is shown in the **Sources count** field. For more information about data input sources, see [Log data auto-mapping and mapping in Health Log Analytics](hla-data-input-automapping.md).
 
     **Note:** If the HLA engine is down and data has stopped streaming, a notification appears at the top of the data input configuration page. When this happens, contact ServiceNow support.
 
@@ -39,7 +39,7 @@ You can set system parameters for reading log data that determine the actions th
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [MID Server data input configuration fields](../reference/hla-data-input-mid-server-ref.md).
+    For a description of the fields, see [MID Server data input configuration fields](hla-data-input-mid-server-ref.md).
 
 5.  In the Streaming Sources related list, verify that this data input is streaming log data from all relevant endpoint devices.
 
@@ -52,7 +52,7 @@ You can set system parameters for reading log data that determine the actions th
 
 Health Log Analytics updates the system parameters.
 
-**Parent Topic:**[Advanced data input configuration in Health Log Analytics](../concept/hla-data-input-adv-configuration.md)
+**Parent Topic:**[Advanced data input configuration in Health Log Analytics](hla-data-input-adv-configuration.md)
 
 **Related topics**  
 

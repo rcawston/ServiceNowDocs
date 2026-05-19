@@ -40,10 +40,10 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
 
 The case details are displayed on the **Details** tab. You can modify the fields as needed. Select the **Supplier Task** tab to view details about the tasks for the case or to create a new task. For more information, see [Create a task for a supplier case from the Source-to-Pay Workspace](create-new-task-for-supp-case.md).
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 

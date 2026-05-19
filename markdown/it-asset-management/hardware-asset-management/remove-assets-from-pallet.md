@@ -42,7 +42,7 @@ You can remove assets only from a pallet whose **State** field value is In stock
 
 The assets that you removed from the pallet are no longer shown under the Assets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 **Related topics**  
 
@@ -53,5 +53,5 @@ The assets that you removed from the pallet are no longer shown under the Assets
 
 [Delete pallet assets](delete-pallet-assets.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](using-pallet-assets-for-inventory-mgmt.md)
 

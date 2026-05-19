@@ -30,7 +30,7 @@ Role required: admin
     **Note:** You can only view the debug output on a table view \(\_list.do\). You can't view it on a UI page itself.
 
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
 **Related topics**  
 

@@ -145,7 +145,7 @@ Email actions determine how and when the system responds to service requests. On
 |Action type|Type of the action. Select the type of action the instance takes. Select **Record Action** to modify a record in the instance, or select **Reply Email** to have the instance send an email back to the source of the inbound email.|
 |Stop processing|Optional checkbox to help prevent the system from running additional inbound email actions after this action runs.|
 
-See [Inbound email configuration](../../reference-pages/reference/r_InboundMailConfiguration.md) for more information.
+See [Inbound email configuration](r_InboundMailConfiguration.md) for more information.
 
 **Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
 

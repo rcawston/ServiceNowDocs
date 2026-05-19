@@ -19,11 +19,11 @@ The Asset Management application integrates the physical, technological, contrac
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Asset Management offers.](../concept/exploring-asset-management.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Asset Management offers.](exploring-asset-management.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-manage.svg)Use the Asset Management to efficiently manage your assets.](../concept/using-asset-management.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-manage.svg)Use the Asset Management to efficiently manage your assets.](using-asset-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -48,7 +48,7 @@ The Type value on existing the Change Requests will be updated as following:
 
 ## What to do next
 
-You can activate one or more of the following [plugins](../concept/change-plugins.md):
+You can activate one or more of the following [plugins](change-plugins.md):
 
 -   State model \(com.snc.change\_management.state\_model\)
 -   Change Management - Collision Detector \(com.snc.change.collision\)
@@ -59,12 +59,12 @@ You can activate one or more of the following [plugins](../concept/change-plugin
 -   Mass update CI \(com.snc.change\_management.mass\_update\_ci\)
 -   CAB workbench \(com.snc.change\_management.cab\)
 
-You can now [configure Change Management](../concept/configure-change-management.md).
+You can now [configure Change Management](configure-change-management.md).
 
--   **[Installed with Change Management - Core](../reference/r_InstlldWthChngMgmtCore.md#)**  
+-   **[Installed with Change Management - Core](r_InstlldWthChngMgmtCore.md#)**  
 Several types of components are installed with the Change Management - Core.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

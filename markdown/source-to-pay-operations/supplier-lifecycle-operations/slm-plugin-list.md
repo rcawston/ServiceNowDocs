@@ -186,12 +186,12 @@ To avoid incomplete demo data and other installation issues, you should install 
 5.  \(Optional\) SLO Connector for Relish Data Assure \(x\_reliq\_slo\_connec\)
 6.  \(Optional\) Advanced Work Assignment for Supplier Lifecycle Operations \(com.snc.sn\_slm\_awa\)
 
-**Parent Topic:**[Install Supplier Case Management](../task/install-supp-mgmt.md)
+**Parent Topic:**[Install Supplier Case Management](install-supp-mgmt.md)
 
 **Related topics**  
 
 
 [Components installed with Supplier Case Management](installed-with-supp-mgmt.md)
 
-[Explicit Roles in Supplier Case Management](../concept/slo-explicit-roles-plugin.md)
+[Explicit Roles in Supplier Case Management](slo-explicit-roles-plugin.md)
 

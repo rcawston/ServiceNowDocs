@@ -54,5 +54,5 @@ Role required: admin
 -   **[Configure left padding of a system number in a table](t_RenumberingRecords.md)**  
 You can configure the left padding of the system numbers on a table. For example, pad the **Number** field on an Incident, Problem, or Change Request.
 
-**Parent Topic:**[Record numbering](../concept/c_ManagingRecordNumbering.md)
+**Parent Topic:**[Record numbering](c_ManagingRecordNumbering.md)
 

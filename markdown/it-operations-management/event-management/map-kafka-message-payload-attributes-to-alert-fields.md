@@ -191,5 +191,5 @@ Flattened payload in the Additional Info field
 
 Your Apache Kafka consumer connector is configured. When new messages arrive into the Kafka topic, they are received into the ServiceNow instance as events, and alerts are then created from those events.
 
-**Parent Topic:**[Apache Kafka Consumer Connector](../concept/apache-kafka-consumer-connector.md)
+**Parent Topic:**[Apache Kafka Consumer Connector](apache-kafka-consumer-connector.md)
 

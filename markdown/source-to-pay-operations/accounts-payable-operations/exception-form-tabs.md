@@ -53,7 +53,7 @@ Receipts
 
 </td><td>
 
-Goods receipts for all the purchase order lines of a purchase order. For more information, see [Receipts](../../sourcing-procurement-operations/reference/receipts.md).
+Goods receipts for all the purchase order lines of a purchase order. For more information, see [Receipts](../sourcing-and-procurement-operations/receipts.md).
 
 </td></tr><tr><td>
 
@@ -79,9 +79,9 @@ Related tasks
 
 If Sourcing and Procurement Operations is installed, the following tasks are shown:
 
--   Receipt. For more information, see [Receipt tasks](../../sourcing-procurement-operations/reference/receipt-tasks.md).
--   Milestone. For more information, see [Milestones](../../sourcing-procurement-operations/reference/milestones.md).
--   Invoice acknowledgment. For more information, see [Invoice tasks](../../sourcing-procurement-operations/reference/invoice-tasks.md).
+-   Receipt. For more information, see [Receipt tasks](../sourcing-and-procurement-operations/receipt-tasks.md).
+-   Milestone. For more information, see [Milestones](../sourcing-and-procurement-operations/milestones.md).
+-   Invoice acknowledgment. For more information, see [Invoice tasks](../sourcing-and-procurement-operations/invoice-tasks.md).
 
  If Sourcing and Procurement Operations is not installed, only the Milestone task is shown.
 

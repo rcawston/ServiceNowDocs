@@ -53,13 +53,13 @@ Discover all the users who have a similar profile as the employee. Identify the 
 
 ## Result
 
-When the configuration is complete, the solution displays the top three knowledge articles and top three catalog items to the employee based on a similar employee profile. For more information, see [Discovering knowledge articles and catalog items for employees](../concept/user-profile-based-recommendations.md).
+When the configuration is complete, the solution displays the top three knowledge articles and top three catalog items to the employee based on a similar employee profile. For more information, see [Discovering knowledge articles and catalog items for employees](user-profile-based-recommendations.md).
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

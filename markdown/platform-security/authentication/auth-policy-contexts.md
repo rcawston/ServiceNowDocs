@@ -35,7 +35,7 @@ Policies assigned to the MFA context define whether to enforce MFA during the lo
 
 ## Account recovery context
 
-Administrators can configure account recovery \(ACR\) to perform recovery activities such as addressing SSO misconfiguration or expired certificates. To use account recovery, you must register at least one admin account as an account recovery user. Single sign-on can’t be activated on your instance until there is at least one account configured. For more information about the context that can be set, see [Account recovery context](../../single-sign-on/concept/account-recovery-context.md).
+Administrators can configure account recovery \(ACR\) to perform recovery activities such as addressing SSO misconfiguration or expired certificates. To use account recovery, you must register at least one admin account as an account recovery user. Single sign-on can’t be activated on your instance until there is at least one account configured. For more information about the context that can be set, see [Account recovery context](account-recovery-context.md).
 
 ## Session Validation context
 

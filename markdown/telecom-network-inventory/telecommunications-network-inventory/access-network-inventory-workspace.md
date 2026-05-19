@@ -51,10 +51,10 @@ You set the network domain to view your inventory and assignments.
 5.  Select **Apply**.
 
 
-**Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](../concept/tni-workspace.md)
+**Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](tni-workspace.md)
 
 **Related topics**  
 
 
-[Network Inventory Workspace](../concept/exploring-network-inventory-workspace.md)
+[Network Inventory Workspace](exploring-network-inventory-workspace.md)
 

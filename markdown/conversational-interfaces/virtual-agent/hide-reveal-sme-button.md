@@ -71,5 +71,5 @@ var hideShowMeEverything = String(vaInputs.now_assist_topics_skill_active_value.
 
 The **Show me everything** button is removed from the greeting messages in your Virtual Agent conversations.
 
-**Parent Topic:**[Working with setup topics](../concept/working-setup-topics.md)
+**Parent Topic:**[Working with setup topics](working-setup-topics.md)
 

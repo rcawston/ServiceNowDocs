@@ -17,18 +17,18 @@ The Optional API interacts with a single record returned by the GlideQuery, Stre
 
 You can get an Optional object in these ways:
 
--   Return an Optional object from these methods in the GlideQuery class. For more information, see [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#).
-    -   [getBy\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [get\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [insert\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [insertOrUpdate\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [update\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [selectOne\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [avg\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [max\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [min\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
-    -   [sum\(\)](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
--   Return an Optional object from the [find\(\)](../../Stream/concept/StreamGlobalAPI.md#) method in the Stream class. For more information on Stream, see the [Stream](../../Stream/concept/StreamGlobalAPI.md#) API.
+-   Return an Optional object from these methods in the GlideQuery class. For more information, see [GlideQuery](GlideQueryGlobalAPI.md#).
+    -   [getBy\(\)](GlideQueryGlobalAPI.md#)
+    -   [get\(\)](GlideQueryGlobalAPI.md#)
+    -   [insert\(\)](GlideQueryGlobalAPI.md#)
+    -   [insertOrUpdate\(\)](GlideQueryGlobalAPI.md#)
+    -   [update\(\)](GlideQueryGlobalAPI.md#)
+    -   [selectOne\(\)](GlideQueryGlobalAPI.md#)
+    -   [avg\(\)](GlideQueryGlobalAPI.md#)
+    -   [max\(\)](GlideQueryGlobalAPI.md#)
+    -   [min\(\)](GlideQueryGlobalAPI.md#)
+    -   [sum\(\)](GlideQueryGlobalAPI.md#)
+-   Return an Optional object from the [find\(\)](StreamGlobalAPI.md#) method in the Stream class. For more information on Stream, see the [Stream](StreamGlobalAPI.md#) API.
 -   Use the [lazy\(\)](OptionalGlobalAPI.md#) method to generate the value of the Optional if ever needed.
 
 These methods are static and do not require an instance of the class:
@@ -37,13 +37,13 @@ These methods are static and do not require an instance of the class:
 -   [of\(\)](OptionalGlobalAPI.md#)
 -   [empty\(\)](OptionalGlobalAPI.md#)
 
-You can use these static methods with any API that returns a single value such as [GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+You can use these static methods with any API that returns a single value such as [GlideRecord](c_GlideRecordScopedAPI.md#).
 
 Use the Optional API in scoped or global server-side scripts. This API requires the GlideQuery \[com.sn\_glidequery\] plugin.
 
 ## Implementation
 
-This API can work with the [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#) and [Stream](../../Stream/concept/StreamGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
+This API can work with the [GlideQuery](GlideQueryGlobalAPI.md#) and [Stream](StreamGlobalAPI.md#) APIs in a builder pattern where the method calls chain together, each method building on the returned result of the previous method. Use methods to define the attributes of the query. The methods do not execute until you call a terminal method, a method that returns a query result, allowing you to define the requirements of the query before executing it.
 
 If the query returns a single record, the system wraps the result in an Optional object. If the query returns a stream of records, the system wraps the result in a Stream object. These objects let you manage the result using a set of methods in each API.
 
@@ -79,7 +79,7 @@ For performance reasons, a query only fetches data when you call a terminal meth
 -   [isEmpty\(\)](OptionalGlobalAPI.md#)
 -   [isPresent\(\)](OptionalGlobalAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Optional - empty\(String reason\)
 
@@ -329,7 +329,7 @@ true
 
 Returns a new Optional object. Instead of containing the record, the object contains a function to get the record that is only called if and when requested in the code.
 
-Use this method to delay getting the value until it's needed. You might do this if requesting the value from a slow source and don't want to slow down your code unnecessarily. Otherwise, you can return an Optional object using the [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#) and [Stream](../../Stream/concept/StreamGlobalAPI.md#) APIs.
+Use this method to delay getting the value until it's needed. You might do this if requesting the value from a slow source and don't want to slow down your code unnecessarily. Otherwise, you can return an Optional object using the [GlideQuery](GlideQueryGlobalAPI.md#) and [Stream](StreamGlobalAPI.md#) APIs.
 
 **Note:** This method is static. You do not need an instance of the class to use this method.
 

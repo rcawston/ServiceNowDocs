@@ -33,7 +33,7 @@ Role required: admin
 **Related topics**  
 
 
-[Business roles](../concept/business-roles.md)
+[Business roles](business-roles.md)
 
-[Activate Lifecycle Events for Enterprise](activate-hr-lifecycle-events-for-enterprise-1.md)
+[Activate Lifecycle Events for Enterprise](../employee-service-management/activate-hr-lifecycle-events-for-enterprise-1.md)
 

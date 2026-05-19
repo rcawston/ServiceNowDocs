@@ -68,7 +68,7 @@ Yes
 </td></tr></tbody>
 </table>## Enter inputs for parameters
 
-To enter inputs for the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs for the parameters, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[Eventlog](../concept/eventlog.md)
+**Parent Topic:**[Eventlog](eventlog.md)
 

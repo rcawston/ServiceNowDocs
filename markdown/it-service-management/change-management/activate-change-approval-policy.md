@@ -36,10 +36,10 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Change Management -Approval policy](../reference/installed-with-approval-policy.md)**  
+-   **[Components installed with Change Management -Approval policy](installed-with-approval-policy.md)**  
 Several types of components are installed with activation of the Change Management -Approval policy plugin, that includes tables.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

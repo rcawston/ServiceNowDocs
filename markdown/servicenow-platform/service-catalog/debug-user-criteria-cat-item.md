@@ -21,7 +21,7 @@ Role required: catalog\_manager, catalog\_admin, or admin
 
 ## About this task
 
-You can only debug access issues based on user criteria, but not based on access control list rules \(ACLs\). For information about user criteria, see [Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md).
+You can only debug access issues based on user criteria, but not based on access control list rules \(ACLs\). For information about user criteria, see [Set security for items and categories](c_ServiceCatalogAccessControls.md).
 
 For any scripted user criteria that uses a session api such as gs.getUserID\(\), the session of the logged-in user is used. Edit the behavior of the scripted user criteria using the pre-defined *user\_id* variable in the **Script** field of a user criteria. For information about the Script field, see [Create a user criteria record in Service Catalog](t_CreateAUserCriteriaRecord.md#).
 
@@ -67,5 +67,5 @@ For any scripted user criteria that uses a session api such as gs.getUserID\(\),
 6.  To edit the configuration of a user criteria, click its name under the **User Criteria** column.
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)
 

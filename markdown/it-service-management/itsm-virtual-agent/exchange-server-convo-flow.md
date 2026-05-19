@@ -71,5 +71,5 @@ Basic flow:
 
 ![Manage Meetings EXS topic - Scheduling a meeting.](../image/scheduleEXS3.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

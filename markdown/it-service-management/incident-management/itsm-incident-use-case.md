@@ -72,5 +72,5 @@ When you use Incident Management with other ServiceNow products, you increase th
 
 -   **Customer Service Management \(CSM\)**
 
-**Parent Topic:**[Applying CSDM guidelines to Incident Management](../concept/itsm-incident-use-case-product-view.md)
+**Parent Topic:**[Applying CSDM guidelines to Incident Management](itsm-incident-use-case-product-view.md)
 

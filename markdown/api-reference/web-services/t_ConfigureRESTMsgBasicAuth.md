@@ -45,5 +45,5 @@ Test the REST message to ensure you receive the expected response. You can optio
 -   **[Create a basic auth profile](t_CreateABasicAuthProfile.md)**  
 Create a basic auth profile to specify basic authentication credentials for one or more REST messages.
 
-**Parent Topic:**[Outbound REST authentication](../concept/c_OutboundRESTAuth.md)
+**Parent Topic:**[Outbound REST authentication](c_OutboundRESTAuth.md)
 

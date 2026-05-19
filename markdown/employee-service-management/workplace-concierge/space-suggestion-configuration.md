@@ -59,7 +59,7 @@ Option to select a suggestion type to display preferred workplace suggestions to
 -   Past and Future reservations: Workspace suggestions based on employee's past and future reservation data is considered and prioritized while suggesting a space to an employee.
 -   Proximity: Employee's preferred workplace collaborators. Preferred collaborators and their in-office days or workday schedule is taken into consideration when proposing a space to an employee.
 -   Standard services: Workspace suggestion based on preferred workplace services by an employee.
-For more information, see [Manage your in-office presence preferences](../../wsd-for-mobile/task/workplace-preferences-emp-center.md) and [Set Employee Presence](../concept/use-workplace-concierge.md).
+For more information, see [Manage your in-office presence preferences](../workplace-service-delivery-for-mobile/workplace-preferences-emp-center.md) and [Set Employee Presence](use-workplace-concierge.md).
 
 </td></tr><tr><td>
 
@@ -83,28 +83,28 @@ Suggestion Tag
 
 </td><td>
 
-Option to add a tag or label for a space suggestion type. For example,the tags can be added as**Preferred services**, **Near Collaborators**,**Preferred location**, **Your favorite**,**Reserved frequently**, and so on. The tags are displayed on the **Desk suggestions** card in Workplace Service Delivery for Mobile. For more information, see [Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md).
+Option to add a tag or label for a space suggestion type. For example,the tags can be added as**Preferred services**, **Near Collaborators**,**Preferred location**, **Your favorite**,**Reserved frequently**, and so on. The tags are displayed on the **Desk suggestions** card in Workplace Service Delivery for Mobile. For more information, see [Create a reservation for a day in Workplace](../workplace-service-delivery-for-mobile/manage-schedule-emp-center.md).
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
 5.  Set the properties in Workplace Concierge for employee to enable workplace suggestion types.
 
-    For more information, see [Properties installed with Workplace Concierge](../reference/properties-installed-with-workplace-concierge.md).
+    For more information, see [Properties installed with Workplace Concierge](properties-installed-with-workplace-concierge.md).
 
-    After the configuration is complete and required properties are enabled, employees can start managing their workplace schedule and preferences. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../../wsd-for-mobile/concept/workplace-preference-schedule.md).
+    After the configuration is complete and required properties are enabled, employees can start managing their workplace schedule and preferences. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../workplace-service-delivery-for-mobile/workplace-preference-schedule.md).
 
 
-**Parent Topic:**[Configure workplace space suggestions for employees](../concept/configure-workplace-suggestions.md)
+**Parent Topic:**[Configure workplace space suggestions for employees](configure-workplace-suggestions.md)
 
 **Related topics**  
 
 
 [User Space Suggestions](userspace-suggestions.md)
 
-[Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../../wsd-for-mobile/concept/workplace-preference-schedule.md)
+[Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../workplace-service-delivery-for-mobile/workplace-preference-schedule.md)
 
-[Components installed with Workplace Core](../../workplace-service-delivery/reference/components-installed-with-workplace-service-delivery.md)
+[Components installed with Workplace Core](../workplace-core/components-installed-with-workplace-service-delivery.md)
 
-[Set Employee Presence](../concept/use-workplace-concierge.md)
+[Set Employee Presence](use-workplace-concierge.md)
 

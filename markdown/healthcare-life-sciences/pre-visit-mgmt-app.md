@@ -45,7 +45,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pre-visit-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](pre-visit-reference.md)
 
 </td></tr><tr><td>
 

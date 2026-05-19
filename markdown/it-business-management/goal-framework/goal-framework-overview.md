@@ -71,7 +71,7 @@ The following target source types are supported for automating the actual value 
 -   Assessment/Survey: Updates the **Actual value** field on the target form by fetching the required data from the Assessment metric type and Assessment metric category records.
 -   Custom script: The Custom script fetches the required data from any ServiceNow AI Platform table that is configured. With the Custom script option, any table or a combination of tables present on the ServiceNow AI Platform can be configured as a target source.
 
-    [Predefined target automation script for benefit plans](../reference/target-automation-script-benefit-plans.md): The predefined, default script is a target source that updates the **Actual value** field on the target form by fetching the value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plans of relevant work items.
+    [Predefined target automation script for benefit plans](target-automation-script-benefit-plans.md): The predefined, default script is a target source that updates the **Actual value** field on the target form by fetching the value from the **Actual benefit** field or **Non-monetary actual benefit** field from the monetary or non-monetary benefit plans of relevant work items.
 
 
 -   **Context variable**
@@ -83,12 +83,12 @@ The following target source types are supported for automating the actual value 
 
 Use the Goal Framework or Goal Framework for SPM application to do the following activities:
 
--   Create a strategic plan for your organization \(If Strategic Planning is installed\). For more information, see [Create a strategic plan](../task/create-strategic-plan.md).
--   Create a strategic priority to orient your organization strategic plan toward your goal. For more information, see [Create a strategic priority for a strategic plan](../task/create-strategic-priority.md).
--   Create a goal. For more information, see [Create a goal](../task/create-goal.md).
--   \(For Goal Framework users\) Set targets for a goal to track and measure the progress of the goal. For more information, see [Set targets for a goal](../task/set-targets-for-goal.md).
+-   Create a strategic plan for your organization \(If Strategic Planning is installed\). For more information, see [Create a strategic plan](create-strategic-plan.md).
+-   Create a strategic priority to orient your organization strategic plan toward your goal. For more information, see [Create a strategic priority for a strategic plan](create-strategic-priority.md).
+-   Create a goal. For more information, see [Create a goal](create-goal.md).
+-   \(For Goal Framework users\) Set targets for a goal to track and measure the progress of the goal. For more information, see [Set targets for a goal](set-targets-for-goal.md).
 -   \(For Goal Framework for SPM users\) Set targets and automate the actual value of the targets. For more information, see [Configuring target source for target automation using Goal Framework for SPM](setting-targets-for-a-goal-and-automating-the-actual-value-using-agf.md).
--   Create a goal relationship with a work, planning, strategic, or any other item to identify and associate your current or future work and achieve your goals. For more information, see [Associate a work or planning item with goals or targets](../task/associate-work-with-goals.md).
+-   Create a goal relationship with a work, planning, strategic, or any other item to identify and associate your current or future work and achieve your goals. For more information, see [Associate a work or planning item with goals or targets](associate-work-with-goals.md).
 -   Associate the primary goal for a work and planning item. For more information, see [Associate the primary goal for work and planning items](associating-primary-goal.md).
 
 For an example of the structure of a strategy from the strategic plan level down to targets, see [Enterprise strategy example](enterprise-goal-example-strategy-gf.md).

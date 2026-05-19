@@ -34,7 +34,7 @@ If you have many work sites, you might want to do the following:
 2.  Add the individual spaces information in a spreadsheet.
 3.  Import the spreadsheet into the application.
 
-    For more information on importing, see [Configuring spreadsheets to import workplace data](../concept/importing-workspace-data-wsd.md#).
+    For more information on importing, see [Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#).
 
 
 If you have floor plans, you can create records of data until the Buildings level. Uploading the floor plans loads the data of floors and of the spaces associated with these floors.
@@ -260,8 +260,8 @@ The workplace location record is added.
 ## What to do next
 
 -   If you have floor plans for your workplace, you can upload them to create and display floor and workspace data. For more information, see [Upload a workplace floor plan](upload-workplace-floor-map-wsd.md).
--   If you are using a spreadsheet to enter and import bulk data for workspaces, see [Configuring spreadsheets to import workplace data](../concept/importing-workspace-data-wsd.md#).
+-   If you are using a spreadsheet to enter and import bulk data for workspaces, see [Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#).
 -   If you have added all of your workplace data, you can define employee shifts. For more information, see [Define shifts for your workplace](create-shifts-wsd.md).
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data-wsd.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data-wsd.md)
 

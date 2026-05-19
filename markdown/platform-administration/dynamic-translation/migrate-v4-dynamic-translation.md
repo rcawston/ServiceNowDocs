@@ -25,7 +25,7 @@ After upgrading to Xanadu Patch 3 or above, the update to v4 flows is automatica
 
 You must manually migrate custom or customized translator configurations.
 
-Using v4 flows ensures that the functionality of [Exclusion Framework in Dynamic Translation](../concept/dyn-translation-exclusion-framework.md) is available.
+Using v4 flows ensures that the functionality of [Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md) is available.
 
 ## Procedure
 
@@ -95,5 +95,5 @@ Marks the translator as the default provider for detection of the language of th
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Integration with other translation services](../concept/integration-with-other-translation-services.md)
+**Parent Topic:**[Integration with other translation services](integration-with-other-translation-services.md)
 

@@ -19,7 +19,7 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 ## About this task
 
-To simplify the Subscription Management experience, user-based subscriptions are automatically allocated based on role if you haven't manually allocated user-based subscriptions before. To resolve over-consumed user-based subscriptions, reduce the number of users with roles that provide access to the over-consumed subscription. For more information, see [Add a user to a group](../../users-and-groups/task/t_AddAUserToAGroup.md) and [Managing roles](../../roles/concept/ua-creating-roles.md).
+To simplify the Subscription Management experience, user-based subscriptions are automatically allocated based on role if you haven't manually allocated user-based subscriptions before. To resolve over-consumed user-based subscriptions, reduce the number of users with roles that provide access to the over-consumed subscription. For more information, see [Add a user to a group](user-administration/t_AddAUserToAGroup.md) and [Managing roles](user-administration/ua-creating-roles.md).
 
 If you have manually allocated user-based subscriptions before, you can still make manual changes to the subscribed groups using the following process.
 
@@ -50,5 +50,5 @@ If you have manually allocated user-based subscriptions before, you can still ma
 
 The group is removed from the subscription. If the group still has a measured-role that requires a subscription, add the group to a different subscription or remove the measured-role from the group.
 
-**Parent Topic:**[Managing per-user subscriptions in Subscription Management](../concept/managing-user-subscriptions-v2.md)
+**Parent Topic:**[Managing per-user subscriptions in Subscription Management](managing-user-subscriptions-v2.md)
 

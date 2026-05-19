@@ -45,5 +45,5 @@ The output variables contain data that can be used in subsequent activities.
 |executionTemplate|Determines whether the script is run through a probe or using PowerShell.|
 |enrichmentMappingId|System identifier of the enrichment mapping used to transform the response data.|
 
-**Parent Topic:**[Security Incident Response - Get Running Services workflow](../../security-incident-response-orchestration/task/get-running-services-workflow.md)
+**Parent Topic:**[Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
 

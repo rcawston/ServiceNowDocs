@@ -39,12 +39,12 @@ The digital integration form helps you define why a connection is required betwe
     -   To update an existing digital integration, select the digital integration, select **Edit**.
 6.  On the **Digital Integration** form, fill in the fields.
 
-    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](../../reference/eaw-reference/eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](../../reference/eaw-reference/eaw-update-digital-integration-form.md).
+    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](eaw-update-digital-integration-form.md).
 
 7.  Select **Add** or **Update**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ Discovery and Service Mapping can find F5 BIG-IP load balancers via SNMP, SSH, a
 
 You can download VMware images of BIG-IP with a free 90-day trial from [https://www.f5.com/trial](https://www.f5.com/trial).
 
-For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resolve the DNS name of the F5 GTM hardware as well as the DNS names of all the servers associated with the load balancer that receive distributed traffic. To view this data, navigate to **All** &gt; **Configuration** &gt; **Load Balancers** &gt; **LB Hardware** and open the F5 load balancer record and then select the **DNS Names for CIs** related list. [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md) uses this information to map F5 relationships.
+For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resolve the DNS name of the F5 GTM hardware as well as the DNS names of all the servers associated with the load balancer that receive distributed traffic. To view this data, navigate to **All** &gt; **Configuration** &gt; **Load Balancers** &gt; **LB Hardware** and open the F5 load balancer record and then select the **DNS Names for CIs** related list. [Service Mapping](../service-mapping/c_ServiceMappingOverview.md) uses this information to map F5 relationships.
 
 **Note:** If your F5 BIG-IP device is part of a failover cluster, it can be associated with two cluster nodes. In this case, one of the nodes appears as Operational in the **Operational Status** field, and the other appears as Non-Operational.
 
@@ -97,7 +97,7 @@ For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resol
         -   `"https://" + $ipAddress + "/mgmt/tm/cm/device"`
     -   Create [basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_BasicAuthCredentialsForm.md) credentials.
     -   Create [a credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/discovery-credential-alias.md) for the basic authentication credential.
-    -   Create a [serverless discovery schedule](../../service-mapping/task/create-serverless-sched-f5-rest-oauth.md).
+    -   Create a [serverless discovery schedule](create-serverless-sched-f5-rest-oauth.md).
 -   For top-down discovery using Service Mapping, provide permissions to run the following APIs:
 
     -   `https://" get_attr {"managementIP"}"/mgmt/tm/ltm/"get_attr {"irule"}`
@@ -110,7 +110,7 @@ For F5 Global Traffic Manager \(GTM\) BIG-IP load balancers, Discovery can resol
     -   Traffic Management Shell \(TMSH\) commands \(for BIG-IP LTM F5 or BIG-IP GTM F5 version 11\)
     -   Traffic Management Shell \(TMSH\) advanced commands \(for BIG-IP LTM F5 or BIG-IP GTM F5 version 10, 11, and 12\)
     -   The **show cm traffic-group – get command** for discovering F5 BIG-IP Device Service Clustering
--   \(Optional\) For top-down discovery with Service Mapping, give the user elevated rights to be able to run [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md).
+-   \(Optional\) For top-down discovery with Service Mapping, give the user elevated rights to be able to run [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md).
 
 ## F5 cluster discovery
 
@@ -151,7 +151,7 @@ These patterns are used for standard horizontal discovery including identifying 
 -   F5REST
 -   F5 REST OAuth 2.0 authentication
 
- **Note:** The F5 Load Balancer and F5 Load Balancer SSH patterns include the extension section that discovers [F5 certificates.](../../service-mapping/reference/f5-certificate-discovery.md)
+ **Note:** The F5 Load Balancer and F5 Load Balancer SSH patterns include the extension section that discovers [F5 certificates.](../discovery-and-service-mapping-patterns/f5-certificate-discovery.md)
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ These patterns use iRules to get information via REST. Service Mapping uses thes
 -   F5 BigIP LTM
 
 </td></tr></tbody>
-</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Connections discovered by Service Mapping during the top-down discovery
 

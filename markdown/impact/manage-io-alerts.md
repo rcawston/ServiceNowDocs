@@ -53,5 +53,5 @@ Role required: admin
 9.  For further investigation, select **Create a Case** and submit the captured summary information.
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

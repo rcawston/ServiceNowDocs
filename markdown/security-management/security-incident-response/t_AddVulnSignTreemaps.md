@@ -40,5 +40,5 @@ Role required: sn\_si.admin
 5.  Close the **Add content** box.
 
 
-**Parent Topic:**[Security Incident Response Overview dashboard](../concept/c_SIROverview.md)
+**Parent Topic:**[Security Incident Response Overview dashboard](c_SIROverview.md)
 

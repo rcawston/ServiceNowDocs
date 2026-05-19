@@ -25,7 +25,7 @@ The following table lists the mandatory fields for the Supplier contact inbound 
 |Last name|String|Last name of the supplier contact.|
 |Email|Email|Email address of the supplier contact.|
 
-**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](slo-inbound-staging-tables.md)
 
 **Related topics**  
 

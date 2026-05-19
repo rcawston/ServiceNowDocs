@@ -34,7 +34,7 @@ Choose one of these tiles to get started.
 
 </td></tr><tr><td>
 
-[Additional Resources![](../image/adm-additional-resources.png)Upgrade your platform administrator experience to the next level](../reference/adm-additional-resources.md)
+[Additional Resources![](../image/adm-additional-resources.png)Upgrade your platform administrator experience to the next level](adm-additional-resources.md)
 
 </td><td>
 

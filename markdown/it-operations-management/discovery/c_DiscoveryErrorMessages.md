@@ -170,16 +170,16 @@ Error messages and warnings in the system are documented to enable users to reco
 
     The Probe not found error occurs when the sensor processor fails to ﬁnd the probe record supposedly associated with the sensor. During sensor processing, Discovery gets the probe record from the probe cache and stores it for later reference. The "Probe not found" error occurs either when the sys\_id of the probe cannot be found or there is an issue with the probe cache.
 
-    See [Find the cause of a "Probe not found" error](../task/t_FindTheCauseOfAProbeNotFoundError.md) for more information.
+    See [Find the cause of a "Probe not found" error](t_FindTheCauseOfAProbeNotFoundError.md) for more information.
 
 
--   **[Find the cause of a sensor error message](../task/t_FindTheCauseOfASensorErrorMessage.md)**  
+-   **[Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md)**  
 Use this procedure to identify a Discovery sensor error.
--   **[Find the cause of a "No Sensor Defined" error message](../task/t_IdentifyCauseNoSenDefEM.md)**  
+-   **[Find the cause of a "No Sensor Defined" error message](t_IdentifyCauseNoSenDefEM.md)**  
 Every active probe looks for a corresponding sensor to process the data that is collected by the probe. The "No Sensors Defined" message indicates that the corresponding sensor for the probe is missing or inactive.
--   **[Fix the cause of a sensor error message](../task/t_FixTheCauseOfASensorErrorMessage.md)**  
+-   **[Fix the cause of a sensor error message](t_FixTheCauseOfASensorErrorMessage.md)**  
 To fix a Discovery sensor error message, you must fix the JavaScript file containing the code that generated the error.
--   **[Find the cause of a "Probe not found" error](../task/t_FindTheCauseOfAProbeNotFoundError.md)**  
+-   **[Find the cause of a "Probe not found" error](t_FindTheCauseOfAProbeNotFoundError.md)**  
 Verify the correct sys\_id of the probe associated with the **probe** parameter in the payload of the ECC Queue input record.
 
 **Parent Topic:**[Discovery monitoring and issue resolution](c_DiscoveryTroubleshooting.md)

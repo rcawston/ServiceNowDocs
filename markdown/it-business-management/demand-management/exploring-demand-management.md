@@ -21,7 +21,7 @@ In Demand Management assess the ideas submitted through the Idea Portal or ideat
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../portfolio-planning/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -34,7 +34,7 @@ If you have Portfolio Planning Workspace or Strategic Planning Workspace, you ca
 
 In demand management, a demand can be in any of the following states.![Demand state changes](../image/DemandStatesFuji.png)
 
-The demand states are Draft, Submitted, Screening, Approved, and Completed. For more information, see [Use Demand Management](../reference/r_UsingDemandManagement.md).
+The demand states are Draft, Submitted, Screening, Approved, and Completed. For more information, see [Use Demand Management](r_UsingDemandManagement.md).
 
 ## Demand Management benefits
 
@@ -43,9 +43,9 @@ The demand states are Draft, Submitted, Screening, Approved, and Completed. For 
 |View and assess ideas that have been approved to be demands in a central location.|[Demand workbench](c_DemandWorkbench.md)|Demand Manager|
 |Track the progress of an accepted idea as it moves through the demand life cycle \(idea to a demand, to a project, enhancement, change, or defect\).| | |
 |Manage and track the financials of your demands in corporate, regional currency, or the same currency that you want to use for managing the project|[Multicurrency in Demand Management](multicurrency-demand.md)|Demand Manager|
-|Add users to the stakeholder registry so that demand and project management can automatically populate the stakeholder list when a user creates a demand or project.|[Populate the stakeholder registry](../task/t_PopulatingTheStakeholderRegistry.md)|Demand Manager|
+|Add users to the stakeholder registry so that demand and project management can automatically populate the stakeholder list when a user creates a demand or project.|[Populate the stakeholder registry](t_PopulatingTheStakeholderRegistry.md)|Demand Manager|
 
--   **[Demand Management process flow](../reference/r_DemandManagementProcessFlow.md)**  
+-   **[Demand Management process flow](r_DemandManagementProcessFlow.md)**  
 The Demand Management process flow consists of the following tasks.
 -   **[Demand workbench](c_DemandWorkbench.md)**  
 The demand workbench provides a central location for viewing and assessing business demands.

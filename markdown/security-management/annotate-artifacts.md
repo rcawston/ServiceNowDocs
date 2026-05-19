@@ -53,14 +53,14 @@ Role required:
 6.  You can also enter a new annotation for the artifact in the **Security Annotation** box, and click **Annotate**.
 
 
-**Parent Topic:**[Security artifact analysis](../concept/sec-artifact-analysis.md)
+**Parent Topic:**[Security artifact analysis](sec-artifact-analysis.md)
 
 **Related topics**  
 
 
-[Related details for case artifacts](../concept/related-details-for-case-artifacts.md)
+[Related details for case artifacts](related-details-for-case-artifacts.md)
 
-[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+[Security artifact exclusion and inclusion](artifact-inclusion-exclusion.md)
 
 [Search for security artifacts](search-for-artifacts.md)
 

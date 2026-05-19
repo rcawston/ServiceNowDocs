@@ -25,7 +25,7 @@ Use Data Discovery to identify sensitive data within an instance, such as credit
 
 </td></tr><tr><td>
 
-[Roles in Data Discovery ![Reference](../../../common/image/icon-reference.png) Learn about roles in Data Discovery.](../reference/data-discovery-roles.md#)
+[Roles in Data Discovery ![Reference](../../../common/image/icon-reference.png) Learn about roles in Data Discovery.](data-discovery-roles.md#)
 
 </td><td>
 

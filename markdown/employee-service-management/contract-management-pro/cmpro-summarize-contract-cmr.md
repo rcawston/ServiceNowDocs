@@ -84,5 +84,5 @@ Workspace used by your application
     You can also summarize supporting documents and signed contracts using Ask Now Assist in the document viewer.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

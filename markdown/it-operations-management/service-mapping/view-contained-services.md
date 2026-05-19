@@ -40,5 +40,5 @@ The service that contains a reference to another service instance, becomes a dep
     The map shows an automatic redirection to the web address for the contained service. No additional tabs need to open.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

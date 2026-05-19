@@ -22,5 +22,5 @@ The DEX for Zoom gets installed automatically when you install Digital End-User 
 
     -   [Create a connected Zoom application](create-a-connected-zoom-app.md).
     -   [Add Zoom connection](add-zoom-connection.md).
-2.  [Enable application monitoring](../task/enable-app-monitor.md) to gain insights into call quality metrics and diagnose issues to enhance performance.
+2.  [Enable application monitoring](enable-app-monitor.md) to gain insights into call quality metrics and diagnose issues to enhance performance.
 

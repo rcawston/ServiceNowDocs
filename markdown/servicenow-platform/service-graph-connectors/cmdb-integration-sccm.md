@@ -56,13 +56,13 @@ After you've installed the latest version of the Service Graph Connector for Mic
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](../../sgc-central/task/sgcc-configure-sccm-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](sgcc-configure-sccm-integ.md).
 
 **Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft SCCM integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft SCCM integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -103,9 +103,9 @@ When you complete setting up the connection, you can configure the integration t
 -   Software \[cmdb\_ci\_spkg\] \(If the SAM application is not installed.\)
 -   Software Usage \[samp\_sw\_usage\]
 
-For more information on where data is saved when pulling data from a Microsoft SCCM application, see [CMDB classes targeted in Service Graph Connector for Microsoft SCCM](../reference/cmdb-sccm-classes.md).
+For more information on where data is saved when pulling data from a Microsoft SCCM application, see [CMDB classes targeted in Service Graph Connector for Microsoft SCCM](cmdb-sccm-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Resolving the missing IP address or MAC address issue
 

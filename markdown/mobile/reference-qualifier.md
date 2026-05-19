@@ -15,7 +15,7 @@ Admins use reference qualifiers to create filters that streamline data returned 
 
 Reference qualifiers facilitate the filtration of data extracted from reference tables, ensuring that only the desired values are returned. You can use one of three types of reference qualifiers, simple, dynamic, and advanced.
 
-**Note:** Before you configure a reference qualifier to display filtered results in a mobile device, create an action function. For more information, see [Create an action function with parameters](../task/sg-studio-param-action-function.md).
+**Note:** Before you configure a reference qualifier to display filtered results in a mobile device, create an action function. For more information, see [Create an action function with parameters](sg-studio-param-action-function.md).
 
 The images show a comparative example, within the mobile platform, where a reference qualifier is used and not used. The image with the lower results found and different results listed, indicate that a reference qualifier configuration was implemented.
 

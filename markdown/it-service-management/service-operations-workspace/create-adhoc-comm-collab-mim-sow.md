@@ -27,7 +27,7 @@ Role required: major\_incident\_manager, itil, ia\_admin, or admin
 
 3.  Select **New** to create an incident communication plan.
 
-    For more information on the form fields of an incident communication plan, see [Create adhoc incident communication plan from incident](../../incident-alert-management/task/t_CreateAnAlertFromAnIncident.md).
+    For more information on the form fields of an incident communication plan, see [Create adhoc incident communication plan from incident](../incident-communications-management/t_CreateAnAlertFromAnIncident.md).
 
     The Incident communication plan record opens on a separate tab.
 
@@ -37,7 +37,7 @@ Role required: major\_incident\_manager, itil, ia\_admin, or admin
 
 6.  Select **New** to create an incident communication task.
 
-    For more information on the form fields of an incident communication task, see [Create adhoc incident communication task from Incident Communications Management](../../incident-alert-management/task/create-adhoc-inci-commu-task.md).
+    For more information on the form fields of an incident communication task, see [Create adhoc incident communication task from Incident Communications Management](../incident-communications-management/create-adhoc-inci-commu-task.md).
 
 7.  On the Incident communication task record, add a communication channel.
 

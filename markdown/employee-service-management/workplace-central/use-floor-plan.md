@@ -17,9 +17,9 @@ Use the floor plan to manage space and user assignments in your workplace.
 
 ## Before you begin
 
-Make sure that you have installed Workplace Core. For more information, see [Install Workplace Core](../../workplace-service-delivery/task/install-workplace-service-delivery.md)
+Make sure that you have installed Workplace Core. For more information, see [Install Workplace Core](../workplace-core/install-workplace-service-delivery.md)
 
-For the Floor plan, make sure that you have configured the map in Indoor Mapping. For more information about configuring an indoor map, see [Configure Indoor Mapping](../../wsd-indoor-mapping/concept/configure-ind-mapping.md).
+For the Floor plan, make sure that you have configured the map in Indoor Mapping. For more information about configuring an indoor map, see [Configure Indoor Mapping](../indoor-mapping/configure-ind-mapping.md).
 
 Role required: sn\_wsd\_core.workplace\_manager
 
@@ -201,5 +201,5 @@ Use the floor plan to edit location or neighborhood assignments for the users.
 -   **[Edit space allocations on the floor plan](edit-space-allocations-floor-plan.md)**  
 Use the floor plan to edit space or neighborhood allocations.
 
-**Parent Topic:**[Working with Space Planning](../concept/working-with-space-planning.md)
+**Parent Topic:**[Working with Space Planning](working-with-space-planning.md)
 

@@ -48,7 +48,7 @@ Normalization status
 
  **Note:** If a normalization suggestion record exists, a caution icon is shown next to the **Normalization status** field.
 
-The caution icon opens the [Normalization Suggestion](../task/view-norm-suggestions-sam.md) record for the discovery model.
+The caution icon opens the [Normalization Suggestion](view-norm-suggestions-sam.md) record for the discovery model.
 
 </td></tr><tr id="row_z1l_pcp_sfb"><td>
 
@@ -169,7 +169,7 @@ Exclude from content service
 
 </td><td>
 
-Option that excludes the software discovery model details from being transferred to the [Software Asset Management Content Service](../concept/c_SAMContentService.md).The value is set on the [custom product](../task/t_AddACustomProduct.md) form.
+Option that excludes the software discovery model details from being transferred to the [Software Asset Management Content Service](c_SAMContentService.md).The value is set on the [custom product](t_AddACustomProduct.md) form.
 
  **Note:** This field is only shown for custom products when you have opted in to the Software Asset Management Content Service.
 
@@ -251,7 +251,7 @@ Exclude from content service
 
 </td><td>
 
-Option that excludes the software discovery model details from being transferred to the [Software Asset Management Content Service](../concept/c_SAMContentService.md).The value is set on the [custom product](../task/t_AddACustomProduct.md) form.
+Option that excludes the software discovery model details from being transferred to the [Software Asset Management Content Service](c_SAMContentService.md).The value is set on the [custom product](t_AddACustomProduct.md) form.
 
  **Note:** This field is only shown for custom products when you have opted in to the Software Asset Management Content Service.
 

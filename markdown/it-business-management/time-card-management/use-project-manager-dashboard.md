@@ -32,5 +32,5 @@ Role required: it\_project\_manager, timecard\_admin
 3.  Review the displayed reports and take necessary actions, if required.
 
 
-**Parent Topic:**[Analytics Project manager](../concept/project-manager-dashboard.md)
+**Parent Topic:**[Analytics Project manager](project-manager-dashboard.md)
 

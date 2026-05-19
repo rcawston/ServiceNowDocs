@@ -34,12 +34,12 @@ Role required: admin or ais\_admin
 
     |Table|Form|
     |-----|----|
-    |**Search profiles**|[Search Profile form](../reference/search-profile-form-ais.md)|
-    |**Search sources**|[Search Source form](../reference/search-source-form-ais.md)|
-    |**Search indexes**|[Indexed Source form](../reference/indexed-source-form-ais.md)|
-    |**Dictionaries**|[Dictionary and AI Search Dictionary forms](../reference/dictionary-form-ais.md)|
-    |**Genius Results**|[AI Search Genius Result Configuration form](../reference/genius-result-cfg-form-ais.md)|
-    |**Search application configurations**|[Search Application Configuration form](../reference/search-app-config-form-ais.md)|
+    |**Search profiles**|[Search Profile form](search-profile-form-ais.md)|
+    |**Search sources**|[Search Source form](search-source-form-ais.md)|
+    |**Search indexes**|[Indexed Source form](indexed-source-form-ais.md)|
+    |**Dictionaries**|[Dictionary and AI Search Dictionary forms](dictionary-form-ais.md)|
+    |**Genius Results**|[AI Search Genius Result Configuration form](genius-result-cfg-form-ais.md)|
+    |**Search application configurations**|[Search Application Configuration form](search-app-config-form-ais.md)|
     |**Result-card interfaces**|[Create an EVAM definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-composite-dataset.md)|
 
 6.  Select **Save**.

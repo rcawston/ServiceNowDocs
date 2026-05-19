@@ -60,7 +60,7 @@ Further configuration is required for CI creation, receipt of events, and alert 
 3.  In the **Value** field, specify the `sys_id` of the domain.
 4.  Select **Update**.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 
 **Related topics**  
 

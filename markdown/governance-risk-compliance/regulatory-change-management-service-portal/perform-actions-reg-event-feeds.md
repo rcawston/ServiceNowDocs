@@ -74,7 +74,7 @@ In the following procedure, steps 3 and after describe the various actions that 
 9.  To delete an alert, select **Delete**.
 
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](regulatory-feeds.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ Install Service Graph Connector for GCP version 1.8.0 or later from the ServiceN
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](../sgcc-first-time-setup.md).
 
 5.  Complete the prerequisites for setting up the GCP environment.
 
@@ -153,7 +153,7 @@ Select **Projects** when the ServiceNow service account has access to data withi
 
     1.  In the **Setup** stage of the playbook, select the **Configure connection properties** activity.
 
-        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery properties form. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](../../configuration-management/concept/sgc-gcp-deep-discovery.md#section_xwn_4c3_cgc).
+        If deep discovery is already configured on the connection, the values are pre-populated on the Deep Discovery properties form. For more information about the deep discovery connection properties for GCP, see [Deep discovery connection properties](sgc-gcp-deep-discovery.md#section_xwn_4c3_cgc).
 
     2.  Review the pre-populated fields on the Deep Discovery properties form.
 
@@ -187,7 +187,7 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for GCP](../../configuration-management/concept/sgc-cmdb-integration-gcp.md)
+[Service Graph Connector for GCP](sgc-cmdb-integration-gcp.md)
 
-[Deep discovery for Service Graph Connector for GCP](../../configuration-management/concept/sgc-gcp-deep-discovery.md)
+[Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md)
 

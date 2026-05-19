@@ -40,5 +40,5 @@ Role required: sn\_si.analyst.
     **Note:** You can also unlink the major security incident if the incident is not critical, the incident will then be unlinked and lists under the list view for the security analyst remediation.
 
 
-**Parent Topic:**[Working with MSI Records](../concept/working-with-msi-records.md)
+**Parent Topic:**[Working with MSI Records](working-with-msi-records.md)
 

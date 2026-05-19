@@ -39,10 +39,10 @@ Your ServiceNow instance may have some extended task types that have custom stat
 
 ![Other grouping for State and Priority.](../images/cwm-my-work-other.png)
 
-**Parent Topic:**[Collaborative Work Management reference](../concept/reference-cwm.md)
+**Parent Topic:**[Collaborative Work Management reference](reference-cwm.md)
 
 **Related topics**  
 
 
-[My Work in CWM](../concept/my-work-in-cwm.md)
+[My Work in CWM](my-work-in-cwm.md)
 

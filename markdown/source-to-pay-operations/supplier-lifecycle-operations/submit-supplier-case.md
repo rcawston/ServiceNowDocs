@@ -42,12 +42,12 @@ The state of the case updates to **Open**, indicating that the case is ready to 
 
 After you submit the case, depending on the case type, the specific playbook for the supplier case opens.
 
-For more information, see [Case playbook for specific supplier case types](../concept/gen-playbook-cases.md) and [Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md).
+For more information, see [Case playbook for specific supplier case types](gen-playbook-cases.md) and [Playbook for updating the supplier primary data](primary-playbook-cases.md).
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 

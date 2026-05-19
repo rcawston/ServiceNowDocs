@@ -178,5 +178,5 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
     ![Background job configuration for a threat scoring rule](../image/tisc-threat-score-vr-background-job-schedule.png)
 
 
-**Parent Topic:**[Custom Threat Score Calculator in TISC](../concept/using-custom-threat-score-calculator.md)
+**Parent Topic:**[Custom Threat Score Calculator in TISC](using-custom-threat-score-calculator.md)
 

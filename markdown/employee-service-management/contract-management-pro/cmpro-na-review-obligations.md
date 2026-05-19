@@ -95,7 +95,7 @@ Select **Review contract** in the email notification that you receive after the 
 
         **Note:** Complete all required fields before saving the changes or approving the obligation.
 
-        For more information on the fields, see [Obligation form](../reference/cncore-obligation-form.md).
+        For more information on the fields, see [Obligation form](cncore-obligation-form.md).
 
     -   Select **Save** to save the changes.
     -   Select **Approve** to approve the extracted obligation and add it as a record in contract repository.
@@ -123,9 +123,9 @@ If the schedule of the obligation is adhoc, you must create obligation tasks man
 **Related topics**  
 
 
-[Obligation Management](../concept/cncore-obligation-management.md)
+[Obligation Management](cncore-obligation-management.md)
 
-[Obligation form](../reference/cncore-obligation-form.md)
+[Obligation form](cncore-obligation-form.md)
 
 [Submit obligation tasks](cncore-work-on-ob-tasks.md)
 
@@ -133,5 +133,5 @@ If the schedule of the obligation is adhoc, you must create obligation tasks man
 
 [Approve or reject obligation tasks](cncore-manage-ob-tasks.md)
 
-[Obligation Management notifications](../reference/cncore-ob-mgmt-notification.md)
+[Obligation Management notifications](cncore-ob-mgmt-notification.md)
 

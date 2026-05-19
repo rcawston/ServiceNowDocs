@@ -94,5 +94,5 @@ The DevOps Pipeline Migration to Change Models catalog item enables you to updat
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[DevOps change models](../concept/devops-change-multimodel.md)
+**Parent Topic:**[DevOps change models](devops-change-multimodel.md)
 

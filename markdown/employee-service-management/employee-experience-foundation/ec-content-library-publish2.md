@@ -19,7 +19,7 @@ After you create content in the Content Library, add one or more publish plans t
 
 Role required: sn\_cd.content\_manager
 
-**Note:** When the Enable Content Management Ownership sys properties are activated, you can only schedule and publish content assigned to you. For more information, see [Content Ownership](../concept/ecpro-content-restriction.md)
+**Note:** When the Enable Content Management Ownership sys properties are activated, you can only schedule and publish content assigned to you. For more information, see [Content Ownership](ecpro-content-restriction.md)
 
 To publish Rich content to the UIB Workspace, you must create a [schedule content record](ecpro-schedule-content.md), as publish plans do not support publishing to the UIB Workspace.
 
@@ -84,7 +84,7 @@ Section
 
 </td><td>
 
-This option appears if you select **Mobile**.The section in the mobile app where you want the news content to appear. This is a read-only field. An Admin can update this field from the **Content Publishing** &gt; **Advanced** &gt; **Properties**. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+This option appears if you select **Mobile**.The section in the mobile app where you want the news content to appear. This is a read-only field. An Admin can update this field from the **Content Publishing** &gt; **Advanced** &gt; **Properties**. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ The topic you want your content to appear under.Also, allows you to preview cont
 
  Topics are organized under a taxonomy.
 
- When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) sys property is set to **Yes** and the topic is assigned to you or a group you belong to, you only see topics assigned to you or topics that do not have restrictions. For more information, see [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md) and [Assign ownership of content](ecpro-ca-cd-content-restriction.md).
+ When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) sys property is set to **Yes** and the topic is assigned to you or a group you belong to, you only see topics assigned to you or topics that do not have restrictions. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md) and [Assign ownership of content](ecpro-ca-cd-content-restriction.md).
 
  Ownership of a topic includes:
 
@@ -153,7 +153,7 @@ The topic you want your content to appear under.Also, allows you to preview cont
 -   Ability to preview content for the topic.
 **Note:** Other users that have access to the content can view the content scheduled to the restricted topic, but cannot remove the topic from the schedule.
 
- For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+ For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -165,7 +165,7 @@ Add audience \(at least one\)
 
 </td><td>
 
-Who you want to see the content. For more information, see [Audiences](../concept/ecpro-audience.md).**Note:** You do not have the option of scheduling content for individual users. You can only schedule content for an audience. To schedule content for individual users, see [Scheduling the delivery of content](ecpro-schedule-content.md).
+Who you want to see the content. For more information, see [Audiences](ecpro-audience.md).**Note:** You do not have the option of scheduling content for individual users. You can only schedule content for an audience. To schedule content for individual users, see [Scheduling the delivery of content](ecpro-schedule-content.md).
 
 </td></tr><tr><td colspan="2">
 

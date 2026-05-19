@@ -54,5 +54,5 @@ Now Assist in Catalog Builder is a capability within the Now Assist for Creator 
 
 Grant the catalog\_builder\_editor role to enable users to create catalog items using Now Assist.
 
-**Parent Topic:**[Now Assist in Catalog Builder](../concept/now-assist-for-catalog-generation.md)
+**Parent Topic:**[Now Assist in Catalog Builder](now-assist-for-catalog-generation.md)
 

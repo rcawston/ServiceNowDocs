@@ -20,5 +20,5 @@ Learn about the properties of the Process Parameters components in RPA Desktop D
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Process Parameters](../concept/process-parameters.md)
+**Parent Topic:**[Process Parameters](process-parameters.md)
 

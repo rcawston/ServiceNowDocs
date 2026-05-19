@@ -38,5 +38,5 @@ Role required: none
     **Note:** After a message has been liked, it cannot be unliked.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

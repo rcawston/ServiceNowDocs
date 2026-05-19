@@ -51,10 +51,10 @@ In upgraded deployments, Service Mapping selects a MID Server using a legacy alg
 4.  Click **Update**.
 
 
-**Parent Topic:**[MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md)
+**Parent Topic:**[MID Server configuration for Service Mapping](configure-mid-service-mapping.md)
 
 **Related topics**  
 
 
-[MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md)
+[MID Server configuration for Service Mapping](configure-mid-service-mapping.md)
 

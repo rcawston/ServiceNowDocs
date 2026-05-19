@@ -130,7 +130,7 @@ Secondary information displayed for the request.**Note:**
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Service Catalog](../concept/configuring-service-catalog.md)
+**Parent Topic:**[Configuring Service Catalog](configuring-service-catalog.md)
 
 **Related topics**  
 

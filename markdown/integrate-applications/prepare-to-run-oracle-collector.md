@@ -36,7 +36,7 @@ The collector requires a dedicated Oracle database user with SELECT and EXECUTE 
     See [Prepare to harvest cross-server lineage](prepare-to-run-oracle-collector.md#).
 
 
-**Parent Topic:**[Oracle metadata collector](../concept/oracle-metadata-collector.md)
+**Parent Topic:**[Oracle metadata collector](oracle-metadata-collector.md)
 
 ## Set up user permissions
 

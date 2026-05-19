@@ -14,12 +14,12 @@ The ServiceNow® Enterprise Architecture application unites strategic and operat
 
 ## Enterprise Architecture Workspace highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   Associate AI systems from AI Control Tower with business applications in the Enterprise Architecture Workspace to track AI adoption, governance status, and business context across your application portfolio. You can also associate one or more business applications when submitting an AI use case request in the Service Portal.
 -   You can use the Now Assist panel to search your published TRM catalog records using natural language queries.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   When you compare two versions of an Enterprise Modeling and Visualization diagram, the diagram canvas highlights the differences visually. This makes it easier to identify what has changed at a glance, without relying solely on the Now Assist change summary panel.
 -   Support for models OpenAI GPT-5 mini, Claude Haiku 4.5, and Google Gemini 3.0 Flash added for any Now Assist for Enterprise Architecture \(EA\) skill.
@@ -42,7 +42,7 @@ See [Enterprise Architecture Workspace](https://raw.githubusercontent.com/Servic
 
 ## New in the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   **[AI systems on business applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-aict.md)**
 
@@ -59,7 +59,7 @@ See [Enterprise Architecture Workspace](https://raw.githubusercontent.com/Servic
     Search published TRM catalog records using natural language queries in the Now Assist panel. EA Workspace ships default AI Search configuration that automatically indexes TRM catalog records you publish. To make previously published TRM catalog records searchable, you can manually trigger indexing. For information, see [Index previously published TRM catalog records for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/index-archive-pub-trm-cat.md) or [AI Search on the TRM catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/ai-search-trm-cat.md).
 
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -165,13 +165,13 @@ Australia Early Availability
 
 ## UI changes
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   Added the **AI Systems** tab to business application records in the Enterprise Architecture Workspace. The tab displays **Managed** and **Unmanaged** sections, each listing associated AI systems.
 -   Added the **Business Applications** field to the **Request an AI use case** catalog item in the service portal. The field is available only when the Enterprise Architecture application is installed and business applications are configured. You can select multiple business applications. Retired business applications are not available for selection.
 -   Added a read-only **Business applications** related list under **Related assets** on AI system records in AI Control Tower. This list shows the business applications associated with each AI system.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   The diagram comparison canvas displays visual indicators to highlight new or modified shapes and entities. Newly added shapes and relationship lines appear in green and modified ones appear in yellow.
 

@@ -185,5 +185,5 @@ Select the order to apply this credential. For example, enter `100`.
 12. Select the **Get OAuth Token** related link to generate the OAuth token.
 
 
-**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](../concept/bitbucket-integration-dev-ops.md)
+**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](bitbucket-integration-dev-ops.md)
 

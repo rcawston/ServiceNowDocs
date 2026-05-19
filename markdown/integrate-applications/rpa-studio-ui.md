@@ -41,7 +41,7 @@ Create Automation
 
 </td><td>
 
-Create an unattended and attended automation project. For more information, see [Create an automation project manually](../task/create-automation-project.md) and [Create an automation with Now Assist](../task/create-automation-now-assist.md).
+Create an unattended and attended automation project. For more information, see [Create an automation project manually](create-automation-project.md) and [Create an automation with Now Assist](create-automation-now-assist.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Create Skill
 
 </td><td>
 
-Create a skill automation project. For more information, see [Create a skill project in RPA Desktop Design Studio](../task/create-skill-project.md).A skill automation is a reusable component. You can build a skill so that you can provide prebuilt capabilities for other automation processes. For example, if a login functionality is used in four different automations, that login functionality can be created as a skill that you can reuse across automations.
+Create a skill automation project. For more information, see [Create a skill project in RPA Desktop Design Studio](create-skill-project.md).A skill automation is a reusable component. You can build a skill so that you can provide prebuilt capabilities for other automation processes. For example, if a login functionality is used in four different automations, that login functionality can be created as a skill that you can reuse across automations.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Automation projects
 
 </td><td>
 
-View the list of automation projects that you recently created.You can open a local project or a cloud project. For more information, see [Open a local automation project in RPA Desktop Design Studio](../task/open-project-rpa-studio.md) and [Open a cloud automation project in RPA Desktop Design Studio](../task/open-project-remote-rpa-studio.md).
+View the list of automation projects that you recently created.You can open a local project or a cloud project. For more information, see [Open a local automation project in RPA Desktop Design Studio](open-project-rpa-studio.md) and [Open a cloud automation project in RPA Desktop Design Studio](open-project-remote-rpa-studio.md).
 
 You can mark the required projects as favorites.
 
@@ -90,7 +90,7 @@ A sample automation is a prebuilt automation that shows how different components
 -   **Create copy**- Creates a copy of the selected sample automation.
 -   **View details**- View the details of the selected sample automation such as name, description, and location of the project.
 
-For more information, see [Use sample automations in RPA Desktop Design Studio](../task/use-sample-automation.md) and [Sample automations](../reference/sample-automations-rpa-studio.md).
+For more information, see [Use sample automations in RPA Desktop Design Studio](use-sample-automation.md) and [Sample automations](sample-automations-rpa-studio.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Change
 
 </td><td>
 
-Launches connection manager window. For more details, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](../task/connect-studio-instance-rpa.md).You cannot connect to a different instance after the RPA Desktop Design Studio is launched.
+Launches connection manager window. For more details, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](connect-studio-instance-rpa.md).You cannot connect to a different instance after the RPA Desktop Design Studio is launched.
 
 To connect to a different instance, you must close and reopen the RPA Desktop Design Studio application.
 
@@ -133,7 +133,7 @@ To connect to a different instance, you must close and reopen the RPA Desktop De
 
     In the sample automation card, view the type, name, and description of the automation.
 
-    For more information, see [Use sample automations in RPA Desktop Design Studio](../task/use-sample-automation.md).
+    For more information, see [Use sample automations in RPA Desktop Design Studio](use-sample-automation.md).
 
 -   **Resources**- Learn more about RPA Desktop Design Studio documentation, release notes, and ServiceNow University courses. Select a card to navigate to the respective web page.
 -   **What's New**- View the new features RPA Desktop Design Studio. For example, you can build your first automation by starting a guided tour. Select **Take tour** to begin the guided tour.
@@ -150,7 +150,7 @@ Create automations, activities, and automation logic additions from text instruc
 
 The Start and End components are the default components in every activity. They’re the starting and ending point of an activity. You can't delete these components.
 
-Enhance the automation logic with text instructions, either on the design surface or by selecting a component or by using the Now Assist for RPA Hub application. For more information, see [Build an automation with Now Assist](../task/build-automation-now-assist.md).
+Enhance the automation logic with text instructions, either on the design surface or by selecting a component or by using the Now Assist for RPA Hub application. For more information, see [Build an automation with Now Assist](build-automation-now-assist.md).
 
 When you close this application, you’re logged out of the RPA Desktop Design Studio and the ServiceNow instance.
 
@@ -276,7 +276,7 @@ Use the **Clear breakpoints** button to remove all the breakpoints from the auto
 
 </td><td>
 
-Assign the automation package to a bot process and utilize the resources of the automation. For more information on how to assign a bot process, see [Assign bot process to an automation project](../task/assign-bot-process.md).
+Assign the automation package to a bot process and utilize the resources of the automation. For more information on how to assign a bot process, see [Assign bot process to an automation project](assign-bot-process.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -414,7 +414,7 @@ Use the **Skills** button to view the skill automation projects in the Skill Exp
 
 Select the **Samples** button to refer to the sample automations in the Samples Explorer pane. A sample automation demonstrates how the RPA Desktop Design Studio executes an automation project.The sample automations are classified into **Beginner**, **Intermediate**, **Advanced**, **References**, and **Attended** categories based on the complexity and use cases of the automations.
 
-For more information, see [Use sample automations in RPA Desktop Design Studio](../task/use-sample-automation.md).
+For more information, see [Use sample automations in RPA Desktop Design Studio](use-sample-automation.md).
 
 </td></tr><tr><td>
 
@@ -507,7 +507,7 @@ Click each pane of the tool window \(Toolbox, Project explorer, Properties, and 
 
 </td><td>
 
-Use the **Plugin manager** button to install extra plugins to design automations that are required for creating automation projects. For more information, see [Manage plugins in RPA Desktop Design Studio](../task/install-plugins-rpa-studio.md).
+Use the **Plugin manager** button to install extra plugins to design automations that are required for creating automation projects. For more information, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -634,7 +634,7 @@ Build an automation
 
 Ctrl+EnterThis option is available only when the Now Assist for RPA Hub is enabled.
 
-For more information, see [Build an automation with Now Assist](../task/build-automation-now-assist.md).
+For more information, see [Build an automation with Now Assist](build-automation-now-assist.md).
 
 </td></tr><tr><td>
 

@@ -56,5 +56,5 @@ Create custom work item type in CWM video. Approximately forty nine seconds long
 
 Add tasks of the new item type to your Board using the More actions menu \(![More actions icon.](../images/cwm-icon-more-actions.png)\) on the Board header.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

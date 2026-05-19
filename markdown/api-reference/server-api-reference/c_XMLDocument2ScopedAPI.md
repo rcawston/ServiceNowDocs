@@ -21,7 +21,7 @@ An XML string has a tree structure, and the parts of the structure are called no
 
 **Note:** This API works for scoped or global applications.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped XMLDocument2 - XMLDocument2\(\)
 
@@ -434,7 +434,7 @@ Sets whether nodes are treated as CDATA or regular text after parsing. CDATA rep
 
 This method must be called with [Scoped XMLDocument2 - parseXML\(String xmlDoc\)](c_XMLDocument2ScopedAPI.md#).
 
-See also: [Scoped XMLNode - isCDATANode\(\)](../../XMLNodeScopedAPI/concept/c_XMLNodeScopedAPI.md#).
+See also: [Scoped XMLNode - isCDATANode\(\)](c_XMLNodeScopedAPI.md#).
 
 <table id="table_bk3_rjy_3x" class="parameters"><thead><tr><th>
 

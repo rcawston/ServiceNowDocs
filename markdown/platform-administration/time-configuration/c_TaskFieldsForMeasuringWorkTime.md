@@ -17,7 +17,7 @@ Use default task fields to measure progress and resolution for certain records.
 
 The following base system fields are provided on certain tables to track how long it takes to close tickets:
 
--   [Time worked](../../task-table/concept/c_RecordTimeWorked.md): A timer that runs when you view the record, and pauses while you close it, or when you manually pause it. Used to track the time spent by the help desk while working on the record.
+-   [Time worked](../table-administration-and-data-management/c_RecordTimeWorked.md): A timer that runs when you view the record, and pauses while you close it, or when you manually pause it. Used to track the time spent by the help desk while working on the record.
 -   [Resolve time](c_ResolveTime.md): A calculated field that measures the time from the moment the record is opened, to the moment the record is closed. Used to track how long it takes to resolve the record.
 
 These fields provide different metrics for request response.

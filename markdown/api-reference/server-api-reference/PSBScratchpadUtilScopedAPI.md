@@ -23,7 +23,7 @@ Both providers and consumers can add, update, and remove information to and from
 
 To access this API, the Service Exchange for Providers application \(sn\_sb\_pro\) must be installed. This API runs in the `sn_sb_pro` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PSBScratchpadUtil - get\(GlideRecord taskGR, String name\)
 

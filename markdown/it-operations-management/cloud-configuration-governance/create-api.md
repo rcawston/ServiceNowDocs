@@ -18,7 +18,7 @@ If the existing CAPI APIs do not integrate with the CAPI interface for a provide
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you are creating do not exist.
+-   Review [Default CAPI APIs](default-apis.md) and make sure the provider and product that you are creating do not exist.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -326,5 +326,5 @@ You typically do not need to change this value.Change the **Supported in** versi
     7.  Modify the script include for each operation.
 
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

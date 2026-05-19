@@ -28,5 +28,5 @@ You can configure visualizations and associate them with a DCE Insight entity. D
     -   Adoption score
     -   Auxiliary metrics
 
-The DCE Visualizations option enables you to configure the data visualization on the product capability pages. See [Configure DCE Visualizations](../task/account-lifecycle-configure-dce-visual.md) for details.
+The DCE Visualizations option enables you to configure the data visualization on the product capability pages. See [Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md) for details.
 

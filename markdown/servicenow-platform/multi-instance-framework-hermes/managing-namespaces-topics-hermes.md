@@ -22,5 +22,5 @@ Manage topic records in your instance and Kafka topics in the Hermes Kafka clust
 -   **[Monitoring topics in the Hermes Kafka cluster](monitoring-topics-hermes-kafka-cluster.md)**  
 Monitor message processing and view topics in the Hermes Kafka cluster that belong to you using the Hermes Messaging Service topic inspector.
 
-**Parent Topic:**[Manage service capabilities](../../general/concept/manage-services.md)
+**Parent Topic:**[Manage service capabilities](../manage-services.md)
 

@@ -36,5 +36,5 @@ Get a free ServiceNow personal developer instance \(PDI\). Build applications wi
 6.  Follow the instructions to obtain your personal developer instance.
 
 
-**Parent Topic:**[Personal developer instance guide](../../applications/concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

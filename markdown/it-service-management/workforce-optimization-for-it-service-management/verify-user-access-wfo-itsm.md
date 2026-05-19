@@ -63,5 +63,5 @@ Select **All my groups**.
 </table>    The screen displays the create, read, write, and delete columns as **true** for each team member that has access to the specific type of access to the selected event.
 
 
-**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](../concept/understanding-user-criteria-event-types-wfo-itsm.md)
+**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](understanding-user-criteria-event-types-wfo-itsm.md)
 

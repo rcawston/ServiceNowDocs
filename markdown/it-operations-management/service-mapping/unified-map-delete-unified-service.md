@@ -18,7 +18,7 @@ Delete a unified service using the Service Mapping workspace.
 
 ## About this task
 
-[Multi-source service mapping](../concept/multi-source-service-mapping.md)
+[Multi-source service mapping](multi-source-service-mapping.md)
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Role required: service\_mapping\_admin
 
 The service is deleted. The UI is redirected to the home page. Child services remain non-operational.
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 
 **Related topics**  
 

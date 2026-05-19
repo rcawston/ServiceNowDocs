@@ -58,7 +58,7 @@ Cards
 
 Represent individual tasks that you can assign to users. You can add comments, attachments, and labels to cards. Each card is tied to a task record; updating one immediately updates the other. For freeform boards, each card represents a personal task.
 
- For flexible and guided boards, each card represents a record from the list that board was created from. For more information, see [Create Flexible and Guided boards](../task/t_CreateAFlexibleOrGuidedBoard.md).
+ For flexible and guided boards, each card represents a record from the list that board was created from. For more information, see [Create Flexible and Guided boards](t_CreateAFlexibleOrGuidedBoard.md).
 
 </td></tr><tr><td>
 
@@ -66,11 +66,11 @@ Quick panel
 
 </td><td>
 
-Displays labels and users associated with the board. Board members can use the quick panel to quickly label or assign tasks. Members can also [configure](../task/t_ConfigureTheTaskBoard.md#table_i5s_xfv_1r) what appears in the quick panel.
+Displays labels and users associated with the board. Board members can use the quick panel to quickly label or assign tasks. Members can also [configure](t_ConfigureTheTaskBoard.md#table_i5s_xfv_1r) what appears in the quick panel.
 
 </td></tr><tr><td>
 
-[Visual Task Board tools](../reference/task-board-tools.md)
+[Visual Task Board tools](task-board-tools.md)
 
 </td><td>
 

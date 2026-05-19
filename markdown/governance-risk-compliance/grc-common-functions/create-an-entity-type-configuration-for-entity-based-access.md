@@ -25,9 +25,9 @@ Role required: sn\_grc\_ent\_access.admin
 
 2.  Select **New**.
 
-3.  On the [form](../reference/entity-type-configurations-form.md), fill in the fields.
+3.  On the [form](entity-type-configurations-form.md), fill in the fields.
 
-    For a description of the field values, see [Entity Type Configurations form](../reference/entity-type-configurations-form.md).
+    For a description of the field values, see [Entity Type Configurations form](entity-type-configurations-form.md).
 
     The following example shows that Banking is defined as an entity type. When the entity type for an entity is defined as Banking, its object access is managed with the Entity Based Access configuration.
 
@@ -38,8 +38,8 @@ Role required: sn\_grc\_ent\_access.admin
     An entity type is set up where you can manage the object access for entities that are associated with that entity type. The configuration that is displayed in the example grants the users, Anglin and administrator, access to all system objects that are associated with the entities that belong to the selected entity type.
 
 
--   **[Entity Type Configurations form](../reference/entity-type-configurations-form.md)**  
+-   **[Entity Type Configurations form](entity-type-configurations-form.md)**  
 Use the Entity Type Configurations form to create an entity type configuration within the Entity Based Access application.
 
-**Parent Topic:**[Managing Entity Based Access](../concept/using-entity-based-access.md)
+**Parent Topic:**[Managing Entity Based Access](using-entity-based-access.md)
 

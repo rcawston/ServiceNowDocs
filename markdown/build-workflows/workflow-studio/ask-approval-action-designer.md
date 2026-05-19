@@ -15,7 +15,7 @@ breadcrumb: [Steps, Flows, subflows, and actions reference, Flows, subflows, and
 
 Request approval for a record. Configure a set of rules to automatically approve, reject, or cancel an approval request without having to write script. Add a due date to automatically approve, reject, or cancel when a decision has not been made by a designated time.
 
-Approvals play a central role in controlling workflow progression. They ensure that the right people review and authorize work before it moves forward, which is essential in incident handling, change requests, catalog fulfillment, and any process where structured governance and compliance matter. For more information about approvals, see [Classic approvals](../../service-administration/reference/r_Approvals.md).
+Approvals play a central role in controlling workflow progression. They ensure that the right people review and authorize work before it moves forward, which is essential in incident handling, change requests, catalog fulfillment, and any process where structured governance and compliance matter. For more information about approvals, see [Classic approvals](../approvals/r_Approvals.md).
 
 ## Roles and availability
 
@@ -72,7 +72,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     -   Select individual users or groups.
     -   Drag or select a field from a record.
-    -   Select Manual approvers ![Manual approvers icon](../images/manual-users-icon.png) to allow a manual approver to process an approval or rejection. A manual approver is a user manually added to the Approvers related list who can then approve the request. For example, you can manually add a subject matter expert to a task to approve the request. To learn more about adding manual approvers, see [Generate approvals using the approvers related list](../../service-administration/concept/c_GenApprovalsUsingApprsRelList.md).
+    -   Select Manual approvers ![Manual approvers icon](../images/manual-users-icon.png) to allow a manual approver to process an approval or rejection. A manual approver is a user manually added to the Approvers related list who can then approve the request. For example, you can manually add a subject matter expert to a task to approve the request. To learn more about adding manual approvers, see [Generate approvals using the approvers related list](../approvals/c_GenApprovalsUsingApprsRelList.md).
     **Note:** By default, Ask for Approval generates approval records for inactive users and groups. This behavior allows a flow or action to continue working even when a specific user or group is later made inactive. If you want to change the behavior of generating approvals for inactive entities, set the com.glide.hub.flow.approval.allow\_inactive\_entity system property. See [Workflow Studio flow system properties](flow-designer-system-properties.md).
 
     Define rejection rules by adding another OR rule set. When defining approvals, include rejection rules that run when there are no matching approvals. Such rejection rules prevent the flow from remaining in a waiting state. For example, if an approval can be approved by anyone, create a time-based rejection rule in case no one approves it.
@@ -94,7 +94,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## Output
@@ -119,5 +119,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ![Example Ask for Approval step in an action.](../images/ask-for-approval-example.png)
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

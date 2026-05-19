@@ -47,5 +47,5 @@ Navigate to **Service Catalog** &gt; **Open Records** &gt; **Items** and open th
 3.  Click the day number to get a view of the changes for that day, or click the week number to get the week view.
 
 
-**Parent Topic:**[Service Catalog for managers and end users](../concept/c_UsingTheServiceCatalog.md)
+**Parent Topic:**[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)
 

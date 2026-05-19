@@ -34,5 +34,5 @@ You can then update and resubmit the rule for approval.
 5.  Update the form and resubmit it for approval.
 
 
-**Parent Topic:**[Configuring an exception rule](../concept/sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
 

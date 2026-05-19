@@ -71,18 +71,18 @@ By default, the SAP base system provides 14 integration services. For other SAP 
 -   To modify each integration service, you can open the integration service and select **here** to. You can define element level mapping between SAP table fields and payload elements.
 -   Map the users and corresponding ERP User IDs by accessing the ERP User Mappings related list.
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](../concept/configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for SAP](../concept/erp-source-configuration-sap.md)
+[ERP Source Configuration for SAP](erp-source-configuration-sap.md)
 
 [Configure integration services for SAP](configure-service-maps-sap.md)
 
-[Look up primary data in SAP](../concept/look-up-primary-data-sap.md)
+[Look up primary data in SAP](look-up-primary-data-sap.md)
 
 [Manually execute flows or subflows in SAP \(Inbound\)](manually-trigger-subflows-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](scheduled-jobs-to-primary-data-sap.md)
 

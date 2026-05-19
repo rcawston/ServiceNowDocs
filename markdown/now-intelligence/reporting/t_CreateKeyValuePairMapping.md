@@ -52,12 +52,12 @@ For example, the default mapping for United States of America maps key USA to `I
 
 Add the mapping to a report source, so it can be used to map data from that source to a map.
 
-**Parent Topic:**[Map report administration](../concept/c_AdministeringMapReports.md)
+**Parent Topic:**[Map report administration](c_AdministeringMapReports.md)
 
 **Related topics**  
 
 
-[Map report objects](../concept/c_MapReportObjects.md)
+[Map report objects](c_MapReportObjects.md)
 
 [Automatically generate a map source hierarchy](t_AutoGenerateMapSourceHierarchy.md)
 

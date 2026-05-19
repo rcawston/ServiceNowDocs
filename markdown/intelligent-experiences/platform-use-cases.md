@@ -141,7 +141,7 @@ Suggests answers for survey questions.
 </td></tr></tbody>
 </table>**Important:** By default, all agentic workflows and AI agent records are read only.
 
-To run the AI agents autonomously, you must either [activate the agentic workflow template](../task/activate-aia-use-case.md) or [duplicate the agentic workflow](../task/clone-aia-usecase.md), and then proceed with the following steps:
+To run the AI agents autonomously, you must either [activate the agentic workflow template](activate-aia-use-case.md) or [duplicate the agentic workflow](clone-aia-usecase.md), and then proceed with the following steps:
 
 -   Activate the agentic workflow.
 -   Activate all agents within the agentic workflow.
@@ -164,5 +164,5 @@ To enable users to access agentic workflows with UI actions, you can open the ag
 
 If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`.
 
-There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](../task/find-ai-agents.md).
+There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](find-ai-agents.md).
 

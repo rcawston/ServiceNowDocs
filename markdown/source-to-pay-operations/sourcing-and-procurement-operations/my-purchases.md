@@ -21,13 +21,13 @@ You can also track the progress of an order from the progress bar within the pro
 
 -   **[Process visibility](process-visibility.md)**  
 You can track the complete procurement process post request submission. The process steps and work items can be configured to meet your business requirements.
--   **[Purchase refinement options](../reference/purchase-refinement-options.md)**  
+-   **[Purchase refinement options](purchase-refinement-options.md)**  
 You can refine your purchases through filtering, sorting, searching, and perform actions from the My purchases landing page.
 -   **[Purchase highlights](purchase-highlights.md)**  
 Your purchases, which include purchase requisitions, purchase requisition lines, purchase orders, purchase order lines, and sourcing requests, are highlighted with color coding to help you quickly understand their state and due date. The progress bar on these purchases follows a similar color coding.
 -   **[Activity stream](activity-stream.md)**  
 Track the updates on a selected purchase by navigating to the **Activity** tab. The activity stream shows the progress that your order has made since the time you placed it.
--   **[My to-dos and purchasing to-dos](../reference/my-todos-purchasing-todos.md)**  
+-   **[My to-dos and purchasing to-dos](my-todos-purchasing-todos.md)**  
 As a shopper, you can review to-dos from the **To-dos** tab.
 -   **[My requests](my-requests.md)**  
 As a shopper, you can view all the order revisions from your shopping account anytime by selecting My requests from your profile in Shopping Hub.
@@ -51,7 +51,7 @@ As a shopper, you can now specify decimal quantity values for service-based prod
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 
@@ -65,17 +65,17 @@ As a shopper, you can now specify decimal quantity values for service-based prod
 
 [AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
-[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Customize your top suppliers on Shopping Hub](../task/customize-top-suppliers.md)
+[Customize your top suppliers on Shopping Hub](customize-top-suppliers.md)
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](use-shoppinghub-portal.md)
 

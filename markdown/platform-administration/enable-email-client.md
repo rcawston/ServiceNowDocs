@@ -44,5 +44,5 @@ The email client is enabled by default on the Incident \[incident\] table. You c
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configure email client](../concept/configuring-email-client.md)
+**Parent Topic:**[Configure email client](configuring-email-client.md)
 

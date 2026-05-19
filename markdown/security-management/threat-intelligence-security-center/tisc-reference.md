@@ -17,7 +17,7 @@ Reference topics provide additional information about the Threat Intelligence Se
 
 |Reference|Reference link|
 |---------|--------------|
-|Domain Separation and Threat Intelligence Security Center|[Domain separation and Threat Intelligence Security Center](../task/tisc-domain-separation.md)|
+|Domain Separation and Threat Intelligence Security Center|[Domain separation and Threat Intelligence Security Center](tisc-domain-separation.md)|
 |Components installed with Threat Intelligence Security Center application|[Set Threat Intelligence Security Center properties](tisc-set-properties.md)|
 
 **Related topics**  
@@ -25,9 +25,9 @@ Reference topics provide additional information about the Threat Intelligence Se
 
 [Explore](threat-intelligence-security-center-overview.md)
 
-[Configuring Threat Intelligence Security Center](../concept/tisc-configure.md)
+[Configuring Threat Intelligence Security Center](tisc-configure.md)
 
-[Integrate](../concept/integrating-threat-intelligence-security-center.md)
+[Integrate](integrating-threat-intelligence-security-center.md)
 
 [Administer](tisc-data-administration.md)
 

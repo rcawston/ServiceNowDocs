@@ -30,18 +30,18 @@ Some visualization types support multiple data sources, while others do not. If 
 
 **Warning:** If you select multiple data sources for a visualization and then change the visualization type to one that does not support multiple data sources, you keep only the first data source. Switching back to a visualization type that supports multiple data sources does not restore the previously selected data sources.
 
-**Parent Topic:**[Selecting data sources for data visualizations](../../performance-analytics/concept/selecting-data-sources.md)
+**Parent Topic:**[Selecting data sources for data visualizations](selecting-data-sources.md)
 
 **Related topics**  
 
 
-[Select a table data source for a data visualization](../../performance-analytics/task/select-table-data-source.md)
+[Select a table data source for a data visualization](select-table-data-source.md)
 
-[Select an indicator data source for a data visualization](../../performance-analytics/task/select-indicator-data-source.md)
+[Select an indicator data source for a data visualization](select-indicator-data-source.md)
 
-[Select a Workflow Data Fabric data source for a data visualization](../../performance-analytics/task/select-wdf-data-source.md)
+[Select a Workflow Data Fabric data source for a data visualization](select-wdf-data-source.md)
 
-[Usage Insights data sources for data visualizations](../../performance-analytics/concept/uxa-data-sources.md)
+[Usage Insights data sources for data visualizations](uxa-data-sources.md)
 
 ## Example data visualization based on multiple data sources
 
@@ -49,7 +49,7 @@ Here's a simple example of a report based on the Indicator and Problem tables.
 
 ### Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ### Procedure
 
@@ -59,7 +59,7 @@ Role required: Anyone with access to data can create a visualization of that dat
 
 3.  For the purposes of this example, create a Vertical bar visualization.
 
-    For more information, see [Create a horizontal or vertical bar data visualization](../../reporting/task/create-dv-bar-ac.md).
+    For more information, see [Create a horizontal or vertical bar data visualization](create-dv-bar-ac.md).
 
 4.  Under Data sources, select **+ Add data source**.
 

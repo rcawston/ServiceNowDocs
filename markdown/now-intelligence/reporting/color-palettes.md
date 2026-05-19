@@ -23,7 +23,7 @@ The following reports can use a color palette. Select a color palette on the **S
 
 Color palettes are defined in the Chart color scheme \[pa\_chart\_color\_schemes\] table. Report admins have read access to this table. Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Color Settings** &gt; **Chart Color Schemes**.
 
-**Tip:** A ServiceNow AI Platform or Performance Analytics admin can create custom Core UI color palettes. For more information, see [Create a color scheme](../../performance-analytics/concept/color-schemes-pa-widgets.md#).
+**Tip:** A ServiceNow AI Platform or Performance Analytics admin can create custom Core UI color palettes. For more information, see [Create a color scheme](../performance-analytics/color-schemes-pa-widgets.md#).
 
 The default color schemes use color definitions with the Qualitative themeable colors from the UX Theme Properties \[sys\_ux\_theme\_property\] table. When Next Experience is activated, these colors are used rather than the Core UI color palette.
 

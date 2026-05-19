@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds member accounts and the primary acc
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -118,5 +118,5 @@ The Amazon AWS sub account discovery pattern collects tags and populates them in
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\] table \(member account\).|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

@@ -27,7 +27,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 2.  Click the row containing the test suite you want.
 
-    The system displays the [Test Suite](../reference/atf-test-suite-record.md) form.
+    The system displays the [Test Suite](atf-test-suite-record.md) form.
 
 3.  In the **Test Suite Tests** related list, click **Insert a new row...**.
 
@@ -46,5 +46,5 @@ Role required: atf\_test\_admin or atf\_test\_designer
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Building and running automated test suites](../concept/atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
 

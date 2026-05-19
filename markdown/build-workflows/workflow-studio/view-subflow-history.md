@@ -40,5 +40,5 @@ The sidebar view displays a list of subflow history entries.
 
 You can annotate, copy, remove, or restore subflow history entries.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](subflow-history.md)
 

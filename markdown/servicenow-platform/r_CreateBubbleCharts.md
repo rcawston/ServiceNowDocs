@@ -105,5 +105,5 @@ Default
 Check box that enables \(selected\) or disables \(cleared\) the bubble chart as the default. There can be only one default bubble chart per metric type.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[View a bubble chart for assessments](../task/t_view-bubble-chart-assessments.md)
+</table>**Parent Topic:**[View a bubble chart for assessments](t_view-bubble-chart-assessments.md)
 

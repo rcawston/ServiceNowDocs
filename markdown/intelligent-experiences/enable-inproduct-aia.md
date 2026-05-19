@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [In-product agentic AI](../concept/in-product-agentic-ai.md) for more details about the functions and features of the AI Workflows panel.
+Agentic workflows can perform work on certain records, and you can track their progress or provide input in the AI Workflows panel available for forms and workspaces. See [In-product agentic AI](in-product-agentic-ai.md) for more details about the functions and features of the AI Workflows panel.
 
 The following task describes the process for enabling the system property that allows you to see the AI Workflows panel and see UI actions for agentic workflows: **com.glide.agentic\_processes\_view.enabled**.
 

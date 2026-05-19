@@ -66,12 +66,12 @@ The high risk and medium risk files are stored in the new sys\_metadata\_volatil
 
 **Note:** Risk is determined by the likelihood of a given metadata file being modified, which is predicted based on trends in updates from recent releases. Some files that may not currently exist in the system will be present in the table to account for future installation of apps/plugins.
 
-**Parent Topic:**[Administering Upgrade Center](../reference/uc-administration.md)
+**Parent Topic:**[Administering Upgrade Center](uc-administration.md)
 
 **Related topics**  
 
 
-[Create a skipped record rule](../task/uc-create-skipped-record-rule.md)
+[Create a skipped record rule](uc-create-skipped-record-rule.md)
 
-[Execute a skipped record rule](../task/uc-execute-skipped-record-rule.md#)
+[Execute a skipped record rule](uc-execute-skipped-record-rule.md#)
 

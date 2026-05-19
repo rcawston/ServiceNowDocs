@@ -113,7 +113,7 @@ Universal Request \[universal\_request\]
 -   Marks the request as a sensitive case by default.
 
 </td></tr></tbody>
-</table>For more information, see [Managing record producers for legal services](../../legal-request-management/concept/record-producers-legal-services.md).
+</table>For more information, see [Managing record producers for legal services](../legal-request-management/record-producers-legal-services.md).
 
 **Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
 

@@ -35,7 +35,7 @@ The ServiceNow® Problem Management application helps you identify the cause of 
 
 </td><td>
 
-[Analytics and Reporting Solutions![](../../../reuse/icons/brand-icons/bus-chart-down-with-arrow.svg)Take advantage of dashboards to visualize data over time, analyze your business processes, and identify areas for improvement. ](../../../use/dashboards/application-content-packs/problem-content-pack.md)
+[Analytics and Reporting Solutions![](../../../reuse/icons/brand-icons/bus-chart-down-with-arrow.svg)Take advantage of dashboards to visualize data over time, analyze your business processes, and identify areas for improvement. ](problem-content-pack.md)
 
 </td><td>
 

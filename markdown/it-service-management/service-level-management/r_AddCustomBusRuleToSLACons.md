@@ -34,5 +34,5 @@ You can add custom fields to the task SLA table and write business rules to popu
     -   Fields being ignored, overwritten, or both the next time the SLA is calculated.
     -   Incorrect calculations of other values on the task SLA.
 
-**Parent Topic:**[Using Service Level Management](../concept/using-service-level-management.md)
+**Parent Topic:**[Using Service Level Management](using-service-level-management.md)
 

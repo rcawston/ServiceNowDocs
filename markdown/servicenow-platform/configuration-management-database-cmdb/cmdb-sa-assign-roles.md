@@ -110,7 +110,7 @@ Required to manage Discovery patterns with create and write access.
 Data Foundations and HAM dashboards
 
 </td></tr></tbody>
-</table>For more information, see [Exploring CMDB success advisor](../concept/cmdb-sa-explore.md).
+</table>For more information, see [Exploring CMDB success advisor](cmdb-sa-explore.md).
 
 ## Procedure
 

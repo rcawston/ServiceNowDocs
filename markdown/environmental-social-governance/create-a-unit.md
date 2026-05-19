@@ -38,5 +38,5 @@ Role required: sn\_esg.metric\_manager
 
 The metric unit is saved in the Units list.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

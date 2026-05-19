@@ -42,12 +42,12 @@ Keep the following guidance in mind when debugging Zero Copy Connector for ERP m
 
     Debug logs enable you to see information about flow engine context, probe communication, probe payload, payload response, status, and more.
 
-    For details about the columns in debug logs, see [Zero Copy Connector for ERP debug logs field descriptions](../reference/erp-canvas-debug-logs-columns.md).
+    For details about the columns in debug logs, see [Zero Copy Connector for ERP debug logs field descriptions](erp-canvas-debug-logs-columns.md).
 
 4.  To turn off debugging, navigate to **All** &gt; **Zero Copy Connector for ERP** &gt; **Disable ERP Models Debugging**.
 
 5.  Select **Confirm**.
 
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

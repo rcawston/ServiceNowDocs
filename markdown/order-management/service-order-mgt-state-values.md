@@ -95,7 +95,7 @@ In progress
 
 </td><td>
 
-Service order that has been approved and is being actively worked on. To learn more, see [Review and close fulfillment tasks](../task/order-mgt-customer-order-tasks.md).
+Service order that has been approved and is being actively worked on. To learn more, see [Review and close fulfillment tasks](order-mgt-customer-order-tasks.md).
 
 </td></tr><tr><td>
 
@@ -159,8 +159,8 @@ All associated service order line items are complete. **Note:** After your agent
 </td></tr></tbody>
 </table>**Note:** To learn more about Inflight Order Change functions and how they affect the Revision in Process, Assessing Cancellation, Cancellation in Progress, and Canceled service order states, see
 
--   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 ## Order Line Item form states
 
@@ -307,8 +307,8 @@ Service order line item and all associated and external service order tasks that
 </td></tr></tbody>
 </table>**Note:** To learn more about Inflight Order Change functions and how they affect the Revision in Process, Assessing Cancellation, Cancellation in Progress, and Canceled service order line item states, see
 
--   [Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
--   [Key inflight order change and cancellation request fields](../concept/key-inflight-order-change-cancellation-request-fields.md#)
+-   [Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](key-inflight-order-change-cancellation-request-fields.md#)
 
 ## Order task form states
 

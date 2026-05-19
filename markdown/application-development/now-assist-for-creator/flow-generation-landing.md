@@ -23,11 +23,11 @@ This video demonstrates creating a flow from a text description.
 
 <table id="table_ipw_tgq_zfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about flow generation](../concept/exploring-flow-generation.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about flow generation](exploring-flow-generation.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate the Now Assist for Creator plugin and the flow generation skill](../task/turn-on-the-flow-generation-skill.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate the Now Assist for Creator plugin and the flow generation skill](turn-on-the-flow-generation-skill.md)
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ This video demonstrates creating a flow from a text description.
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](../../creator/reference/creator-roles-1.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for Creator roles](creator-roles-1.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -59,10 +59,10 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[Exploring flow generation](../concept/exploring-flow-generation.md)**  
+-   **[Exploring flow generation](exploring-flow-generation.md)**  
 Create multiple step flows and subflows with generative AI. Generate appropriate data pill values for supported flow triggers and action inputs.
--   **[Turn on the flow generation skill](../task/turn-on-the-flow-generation-skill.md)**  
+-   **[Turn on the flow generation skill](turn-on-the-flow-generation-skill.md)**  
 Turn on the flow generation skill to use generative AI to create and edit flows.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

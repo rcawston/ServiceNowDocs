@@ -50,5 +50,5 @@ This workflow is required to use the AI feature within the Now Assist panel.
 
 [Create a theme using Now Assist](create-theme-now-assist.md).
 
-**Parent Topic:**[Theme creation with AI](../concept/theme-creation-with-ai.md)
+**Parent Topic:**[Theme creation with AI](theme-creation-with-ai.md)
 

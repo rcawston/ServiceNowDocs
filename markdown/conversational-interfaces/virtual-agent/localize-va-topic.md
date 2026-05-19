@@ -32,7 +32,7 @@ Use the ServiceNow Localization Framework to standardize and track the translati
     -   Auto translation and publication
     -   Approval required for translation and publication
 
-To learn more, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md). To learn more about localization roles, see [Localization roles for Virtual Agent](../reference/localization-roles-va.md#).
+To learn more, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md). To learn more about localization roles, see [Localization roles for Virtual Agent](localization-roles-va.md#).
 
 ## Localizing topics
 
@@ -46,7 +46,7 @@ The localization process flow depends on the method of topic discovery that you 
 
     If your topics use NLU, both the topic and the model group must be localized. When you request a translation from Virtual Agent Designer, the topic and any optional keywords are translated. You must request translation for model groups from NLU Workbench. For more information about that process, see [Translate a multilingual model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/translate-multilingual-model.md).
 
-    Once the topic and secondary models are localized, you may need to [map the models to the topic](../task/map-nlu-language-model.md) before publishing them.
+    Once the topic and secondary models are localized, you may need to [map the models to the topic](map-nlu-language-model.md) before publishing them.
 
 
 ## Prerequisites
@@ -65,12 +65,12 @@ Do the following before you begin managing translations:
 
 -   If you are using Natural Language Understanding \(NLU\), enable languages in Virtual Agent settings.
 
-    For more information, see [Enable NLU languages in Virtual Agent settings](../task/enable-langs-va-gen-settings.md).
+    For more information, see [Enable NLU languages in Virtual Agent settings](enable-langs-va-gen-settings.md).
 
 -   If necessary, add secondary languages to your NLU model group. For more information, see [Multilingual model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/multilingual-model-managent.md).
 -   Assign localization roles to team member groups.
 
-    Users are assigned different roles based on their responsibilities for the translation process. For more information, see [Localization roles for Virtual Agent](../reference/localization-roles-va.md#).
+    Users are assigned different roles based on their responsibilities for the translation process. For more information, see [Localization roles for Virtual Agent](localization-roles-va.md#).
 
 
 ## Manage languages by model
@@ -84,25 +84,25 @@ If NLU is enabled for your instance, you can view and manage translations by mod
 
 Click **Manage NLU translations** for easy access to the model management page in NLU Workbench.
 
-For more information, see [Localize Virtual Agent topics that use NLU topic discovery](../task/use-lf-translate-va-nlu.md).
+For more information, see [Localize Virtual Agent topics that use NLU topic discovery](use-lf-translate-va-nlu.md).
 
--   **[Enable NLU languages in Virtual Agent settings](../task/enable-langs-va-gen-settings.md)**  
+-   **[Enable NLU languages in Virtual Agent settings](enable-langs-va-gen-settings.md)**  
 If you plan to use language-specific NLU models, you must enable the installed languages in the Supported NLU Languages list. A language is enabled if the **Enabled** column displays true. English language is enabled by default.
--   **[Localize Virtual Agent topics that use keyword topic discovery](../task/use-lf-translate-va.md)**  
+-   **[Localize Virtual Agent topics that use keyword topic discovery](use-lf-translate-va.md)**  
 Use the ServiceNow Localization Framework to manage the process of localizing Virtual Agent conversations and keywords.
--   **[Localize Virtual Agent topics that use NLU topic discovery](../task/use-lf-translate-va-nlu.md)**  
+-   **[Localize Virtual Agent topics that use NLU topic discovery](use-lf-translate-va-nlu.md)**  
 Use the ServiceNow Localization Framework to manage the process of localizing Virtual Agent conversations that use Natural Language Understanding \(NLU\).
--   **[Edit translations for Virtual Agent topics](../task/edit-translations-va-topics.md)**  
+-   **[Edit translations for Virtual Agent topics](edit-translations-va-topics.md)**  
 A Virtual Agent admin user can edit and publish translations directly in Virtual Agent Designer.
--   **[Request bulk translations for multiple topics](../task/request-bulk-translations-va.md)**  
+-   **[Request bulk translations for multiple topics](request-bulk-translations-va.md)**  
 If you need to translate many Virtual Agent topics across multiple models at one time, you can use the \[sys\_cs\_topic\] table list view to request translations.
 -   **[Authoring Virtual Agent conversations for localization](authoring-va-l18n.md)**  
 Use localization methods in your Virtual Agent scripts to ensure that the content can be translated. Localization methods are designed to show the original text when no translation is found. These methods can be applied to your code before you have created translations.
--   **[Language support for NLU services](../reference/language-support-nlu-services.md)**  
+-   **[Language support for NLU services](language-support-nlu-services.md)**  
 Entity extraction is supported on ServiceNow® NLU models for specific languages only. The remaining languages support intent matching only. If you are using IBM Watson Assistant, supported languages vary.
--   **[Localization roles for Virtual Agent](../reference/localization-roles-va.md#)**  
+-   **[Localization roles for Virtual Agent](localization-roles-va.md#)**  
 Assign localization roles according to a user's scope in the localization process. Users may request translations, fulfill translation requests, and edit translations, based on their role.
--   **[Virtual Agent translation tables](../reference/va-translation-tables.md)**  
+-   **[Virtual Agent translation tables](va-translation-tables.md)**  
 Virtual Agent uses the \[sys\_translated\_text\] and \[sys\_ui\_message\] tables to store translated text.
 
 **Parent Topic:**[Localization options for Virtual Agent](multi-language-options-va.md)

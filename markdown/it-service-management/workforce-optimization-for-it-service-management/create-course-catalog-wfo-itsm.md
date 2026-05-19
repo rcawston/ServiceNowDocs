@@ -36,5 +36,5 @@ Role required: sn\_wfo\_cfg\_itsm.admin
     For more information, see [Create a course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

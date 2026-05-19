@@ -29,7 +29,7 @@ The Employee Center Pro provides the following content destinations:
 -   Latest News Home Page: the news widget on the portal Home page
 -   Other News: the news feed widget on the article detail page
 
-To view a graphic of these content destinations, see the Publishing News articles section of [News articles](../concept/ec-news-articles.md).
+To view a graphic of these content destinations, see the Publishing News articles section of [News articles](ec-news-articles.md).
 
 ## Procedure
 

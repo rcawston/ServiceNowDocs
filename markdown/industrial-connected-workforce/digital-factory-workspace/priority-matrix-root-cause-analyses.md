@@ -25,5 +25,5 @@ With the priority matrix for root cause analysis, you can find the relationships
 |4 - Operations|2 - This shift|3 - Today|4 - Within 7 days|5 - Within 30 days|
 |5 - Other|2 - This shift|3 - Today|4 - Within 7 days|5 - Within 30 days|
 
-**Parent Topic:**[Root Cause Analysis](../concept/industrial-root-cause-analysis.md)
+**Parent Topic:**[Root Cause Analysis](industrial-root-cause-analysis.md)
 

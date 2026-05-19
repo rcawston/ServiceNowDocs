@@ -34,5 +34,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 You have added the selected talent profiles as job prospect.
 
-**Parent Topic:**[Job prospects](../concept/job-leads.md)
+**Parent Topic:**[Job prospects](job-leads.md)
 

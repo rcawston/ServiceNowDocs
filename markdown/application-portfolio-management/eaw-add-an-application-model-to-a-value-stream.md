@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the field.
 
-    For a description of the field values, see [Create new application model form](../../reference/eaw-reference/eaw-create-new-application-model-from.md).
+    For a description of the field values, see [Create new application model form](eaw-create-new-application-model-from.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage value streams](../../concept/eaw-concept/eaw-manage-value-streams.md)
+**Parent Topic:**[Manage value streams](eaw-manage-value-streams.md)
 
 **Related topics**  
 

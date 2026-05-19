@@ -21,5 +21,5 @@ Employee Slate is a new AI-first employee experience that boosts employee produc
 -   **[Now Assist for Employee Center Pro release notes](now-assist-for-employee-center-pro-rn.md)**  
 The ServiceNow® Now Assist for Employee Center Pro application offers the portal experience with all the employee communications and engagement tools. Now Assist for Employee Center Pro is a new application in the Australia release.
 
-**Parent Topic:**[Employee Service Management release notes](../employee-service-management/employee-service-management-rn-landing.md)
+**Parent Topic:**[Employee Service Management release notes](employee-service-management-rn-landing.md)
 

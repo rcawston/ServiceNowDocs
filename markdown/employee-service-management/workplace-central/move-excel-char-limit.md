@@ -28,7 +28,7 @@ The Excel columns must be within the specified length to create a move project.
 |To space|
 |Additional details|4000|
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

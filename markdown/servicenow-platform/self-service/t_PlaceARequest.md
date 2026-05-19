@@ -52,5 +52,5 @@ Role required: admin
     ServiceNow automatically notifies the approvers if approval is required and creates work orders to fulfill the order according to your organization's process. For example, if you order a new notebook computer, the purchasing group might receive a work order to order the computer, and the desktop services group might receive a work order to configure the new computer and deliver it to your office after it arrives.
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](p_ServiceCatalogRequests.md)
 

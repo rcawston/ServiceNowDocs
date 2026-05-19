@@ -30,7 +30,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     Visibility Content
 
-    For details on the product discovered see [Detailed information on products discovered by ITOM Visibility](../../service-mapping/reference/r_SupportedApplications.md)
+    For details on the product discovered see [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
 
     **Note:** Discovery finds Sybase Catalog that run on Linux only.
 
@@ -51,7 +51,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   `"export SYBASE=" + $process.environmentVariables.SYBASE.value + " && . " + $process.environmentVariables.SYBASE.value + "/SYBASE.sh && echo -ne 'set nocount on select name from sysdatabases\ngo\n' | " + $isql_path + " -U $$username$$ -P '$$password$$' -S " + $instance + " -w 999 -b -y " + $process.environmentVariables.SYBASE.value`
 -   **Verify the configuration of a Discovery schedule**
 
-    For detailed information, see [Running discoveries in your network](../concept/running-discoveries.md)
+    For detailed information, see [Running discoveries in your network](../discovery/running-discoveries.md)
 
 
 ## Data collected during Horizontal discovery
@@ -82,5 +82,5 @@ These relationships are created to support the Sybase ASE discovery.
 |---|------------|---|
 |\[cmdb\_ci\_db\_syb\_instance\]|Contains::Contained by|\[cmdb\_ci\_db\_syb\_catalog\]|
 
-**Parent Topic:**[Database discovery](../concept/database-discovery.md)
+**Parent Topic:**[Database discovery](database-discovery.md)
 

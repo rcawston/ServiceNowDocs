@@ -37,7 +37,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
     -   For the safety observations list, select **Details** tab.
 6.  In the **Assignment group** field, select the safety group.
 
-    For more information on safety groups, see [Health and Safety groups](configure-groups-health-and-safety.md).
+    For more information on safety groups, see [Health and Safety groups](../health-and-safety-core/configure-groups-health-and-safety.md).
 
 7.  In the **Assigned to** field, select your name.
 
@@ -54,5 +54,5 @@ The incident or observation is assigned to you or the selected agent.
 
 The assigned agent can start working on it to resolve it.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

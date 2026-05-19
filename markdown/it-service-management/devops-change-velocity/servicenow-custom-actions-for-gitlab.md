@@ -29,7 +29,7 @@ When you configure a GitLab project, the environmental variables are created for
 
 When adding the SNOW\_TOKEN variable, you can acquire the token by selecting the **Copy token** button on the tool record, located in the Tool \[sn\_devops\_tool\] table.
 
-The environmental variables must be updated with the values available in the Configure webhooks manually pop-up in the tool record page. For details on how to view the connection details, see [Configure webhooks from the tool record](../task/configure-webhooks-from-the-tool-record.md) and [Configure webhooks in GitLab manually](../task/configure-webhooks-in-gitlab.md).
+The environmental variables must be updated with the values available in the Configure webhooks manually pop-up in the tool record page. For details on how to view the connection details, see [Configure webhooks from the tool record](configure-webhooks-from-the-tool-record.md) and [Configure webhooks in GitLab manually](configure-webhooks-in-gitlab.md).
 
 ![Connection details for GitLab](../image/gitlab-custom-actions-01.png)
 

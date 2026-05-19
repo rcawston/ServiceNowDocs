@@ -49,7 +49,7 @@ It displays the total approved hours in all project categories displayed in **Ti
 
 The bar chart report displays the time approved against each project category for the users allocated to the selected project.
 
--   **[Use the Analytics Project manager](../task/use-project-manager-dashboard.md)**  
+-   **[Use the Analytics Project manager](use-project-manager-dashboard.md)**  
 The Analytics Project manager shows the time card reports for the selected projects.
 
 **Parent Topic:**[Time Card Management](time-card-management.md)

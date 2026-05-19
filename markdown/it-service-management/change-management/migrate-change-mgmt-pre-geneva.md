@@ -40,5 +40,5 @@ Role required: admin
         -   A new ACL, **change\_request.type**, prevents users from updating the change type. If you allow any roles to update the type of a change request, for example, from **Normal** to **Emergency**, modify the ACL. Remove **nobody** from the **Requires role** list and add the roles allowed to update the change type.
         -   If you had the Bulk CI plugin installed, then install the Mass updates CI plugin for enhanced user experience and alignment with the new plugins.
 
-**Parent Topic:**[Exploring Change Management](../concept/exploring-change-management.md)
+**Parent Topic:**[Exploring Change Management](exploring-change-management.md)
 

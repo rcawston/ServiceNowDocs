@@ -25,7 +25,7 @@ Custom license metrics can be created to define specific software calculations n
 
 For example, you can create a custom metric to avoid over counting installs for products that are part of an unrecognized bundle.
 
-Custom metrics can be disabled using the custom license metric [property](../reference/sam-properties-samf.md). This feature is enabled by default.
+Custom metrics can be disabled using the custom license metric [property](sam-properties-samf.md). This feature is enabled by default.
 
 ## Procedure
 
@@ -103,5 +103,5 @@ The calculation method for the license metric is script. Specify the reconciliat
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Software Asset Management Foundation plugin Administration](../concept/c_SAMAdministrationSAMF.md)
+**Parent Topic:**[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)
 

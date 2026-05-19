@@ -291,5 +291,5 @@ The line break character separating the raw log lines.Splitting values must be s
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

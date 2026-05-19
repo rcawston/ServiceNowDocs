@@ -56,15 +56,15 @@ There are default heading configurations for these personas:
 
     1.  Select **New**, or open an existing heading field.
 
-        For more information see, [Journey designer header configuration fields reference](../reference/jny-dsgnr-header-config-fields-ref.md).
+        For more information see, [Journey designer header configuration fields reference](jny-dsgnr-header-config-fields-ref.md).
 
     2.  Fill out the **Heading Field** form, and select **Submit** or **Update**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 
 **Related topics**  
 
 
-[Journey designer header configuration fields reference](../reference/jny-dsgnr-header-config-fields-ref.md)
+[Journey designer header configuration fields reference](jny-dsgnr-header-config-fields-ref.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Upgrade Skipped Record Rules Editor tool in Upgrade Console, Upgrad
 
 Run skipped record rules based on your set conditions to resolve skipped records in an upgrade. The rules either execute automatically during an upgrade or can run on demand after an upgrade.
 
-**Parent Topic:**[Upgrade Skipped Record Rules Editor tool in Upgrade Console](../concept/um-skipped-rules-tool.md)
+**Parent Topic:**[Upgrade Skipped Record Rules Editor tool in Upgrade Console](um-skipped-rules-tool.md)
 
 **Related topics**  
 

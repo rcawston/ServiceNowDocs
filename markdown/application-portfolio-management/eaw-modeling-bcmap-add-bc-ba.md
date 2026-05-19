@@ -66,7 +66,7 @@ Role required: sn\_apm.apm\_user
     -   **Duplicate**: Select this option to duplicate the diagram.
     -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group.
 
-**Parent Topic:**[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+**Parent Topic:**[Working with business capability map](eaw-work-with-bc-map.md)
 
 **Related topics**  
 

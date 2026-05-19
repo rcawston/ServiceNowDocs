@@ -25,14 +25,14 @@ UI Builder currently offers three default form factors:
 -   Tablet \(1280 pixels and smaller\)
 -   Mobile \(500 pixels to zero\)
 
-In addition to these form factors, you can create up to three additional custom breakpoints \(widths\). For more information, see [Create a breakpoint for responsive authoring](../task/responsive-authoring-create-breakpoint.md).
+In addition to these form factors, you can create up to three additional custom breakpoints \(widths\). For more information, see [Create a breakpoint for responsive authoring](responsive-authoring-create-breakpoint.md).
 
 There are different techniques for editing pages so they're usable at different form factors. Use any of the following options:
 
--   [Show or hide components](../task/responsive-authoring-component-visibility.md)
--   [Change component configuration](../task/responsive-authoring-component-configuration.md)
--   [Edit styles](../task/responsive-authoring-adjust-styles.md)
--   [Rearrange the layout](../task/responsive-authoring-adjust-layout.md)
+-   [Show or hide components](responsive-authoring-component-visibility.md)
+-   [Change component configuration](responsive-authoring-component-configuration.md)
+-   [Edit styles](responsive-authoring-adjust-styles.md)
+-   [Rearrange the layout](responsive-authoring-adjust-layout.md)
 
 ## Responsive authoring and reflow
 
@@ -40,7 +40,7 @@ As of Xanadu Store Release 1, responsive authoring is only available when creati
 
 Reflow transforms page layouts into a vertical, stacked view automatically without loss of content or functionality when users increase browser zoom to 400%. This adjustment helps users with low vision or who have trouble seeing web content in a browser due to monitor size, device type, poor lighting, or other situations.
 
-All existing pages that were created with templates or from scratch use reflow automatically. Now, when creating pages from scratch in UI Builder, an extra step shows you that responsive authoring is selected by default. You can choose to use reflow instead by selecting **Build without responsive**, however, using the responsive authoring option gives you more control over how pages work and look at different form factors. For more information about creating pages in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+All existing pages that were created with templates or from scratch use reflow automatically. Now, when creating pages from scratch in UI Builder, an extra step shows you that responsive authoring is selected by default. You can choose to use reflow instead by selecting **Build without responsive**, however, using the responsive authoring option gives you more control over how pages work and look at different form factors. For more information about creating pages in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 ![New step showing responsive authoring and reflow options when creating a page from scratch.](../image/responsive-author-create-page.png)
 
@@ -90,15 +90,15 @@ In addition to the default form factors in the editor view, at any time you can 
 
 **Note:** Form factors and the ability to enter a pixel width are also available when previewing a page. For more information, see [Learn how to view and test your UI Builder experience](preview-page-ui-builder.md).
 
--   **[Adjusting component visibility in responsive authoring](../task/responsive-authoring-component-visibility.md)**  
+-   **[Adjusting component visibility in responsive authoring](responsive-authoring-component-visibility.md)**  
 When creating pages with responsive authoring for different form factors, learn how to show or hide components by completing steps to hide an image at mobile size.
--   **[Configuring components for responsive authoring](../task/responsive-authoring-component-configuration.md)**  
+-   **[Configuring components for responsive authoring](responsive-authoring-component-configuration.md)**  
 When creating pages with responsive authoring for different form factors, learn how adjusting some component configuration options can make pages look and work better at smaller sizes.
--   **[Adjust styles for responsive authoring](../task/responsive-authoring-adjust-styles.md)**  
+-   **[Adjust styles for responsive authoring](responsive-authoring-adjust-styles.md)**  
 When creating pages with responsive authoring for different form factors, learn how to change style options to increase the usability of the page at smaller sizes.
--   **[Adjust layout for responsive authoring](../task/responsive-authoring-adjust-layout.md)**  
+-   **[Adjust layout for responsive authoring](responsive-authoring-adjust-layout.md)**  
 When creating pages with responsive authoring for different form factors, learn how to adjust the layout to improve the look and feel of the page at smaller sizes.
--   **[Create a breakpoint for responsive authoring](../task/responsive-authoring-create-breakpoint.md)**  
+-   **[Create a breakpoint for responsive authoring](responsive-authoring-create-breakpoint.md)**  
 Learn how to create custom breakpoints for responsive authoring to control the look and feel of a page at different form factors.
 
 **Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)

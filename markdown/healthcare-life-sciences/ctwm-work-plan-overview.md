@@ -19,5 +19,5 @@ The **Operational rounding playbook** enables operational leaders to define a ro
 
 **Note:** The Operational rounding playbook requires the Healthcare Orchestration \[com.sn\_hco\_orc\] plugin.
 
-For more information on creating a task plan template using the operational rounding playbook, see [Create a care team task plan using the Operational rounding playbook](../task/ctwm-operational-rounding-playbook.md).
+For more information on creating a task plan template using the operational rounding playbook, see [Create a care team task plan using the Operational rounding playbook](ctwm-operational-rounding-playbook.md).
 

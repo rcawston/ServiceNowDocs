@@ -54,5 +54,5 @@ Type of script:-   Instance Script: Javascript that performs an operation on the
     Add as many scripts as are needed.
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

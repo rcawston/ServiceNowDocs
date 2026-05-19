@@ -27,5 +27,5 @@ You can use the following methods of the *jvar\_transaction* variable to add inf
 |getHomepage\(\)|Returns the sys\_id of the homepage.|
 |getHomepageWidget\(\)|Returns the name of the homepage widget.|
 
-**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

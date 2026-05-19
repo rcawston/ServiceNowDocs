@@ -21,7 +21,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-See the [Navigate to a record or module using a URL](../../../use/navigation/task/navigate-using-url.md) page for an overview of URL syntax in the ServiceNow platform.
+See the [Navigate to a record or module using a URL](../navigate-using-url.md) page for an overview of URL syntax in the ServiceNow platform.
 
 The Incidents list offers a quick example of viewing a form within its own tab. This viewing method illustrates how to append the URL string to render more specific content within your site.
 
@@ -44,10 +44,10 @@ The Incidents list offers a quick example of viewing a form within its own tab. 
     Explore all the options available within the right-click menu. Click through to the Incident form itself \(incident.do\) to see what the URL string does when parameters are passed into it.
 
 
--   **[Element link examples](../concept/c_Examples.md)**  
+-   **[Element link examples](c_Examples.md)**  
 View examples that show how to create a site pointing to various system data in several different data tables.
--   **[Page source view](../reference/r_PageSourceView.md)**  
+-   **[Page source view](r_PageSourceView.md)**  
 Use the tools available in your browser to view the frame source page and understand what URL address bars pass between system frame sets.
 
-**Parent Topic:**[Content Management integration points](../concept/c_CMSIntegrationPoints.md)
+**Parent Topic:**[Content Management integration points](c_CMSIntegrationPoints.md)
 

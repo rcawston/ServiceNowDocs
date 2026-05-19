@@ -38,5 +38,5 @@ The template subtasks that you create are stored in the Template Subtask \[alm\_
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Customize transfer order line tasks](../concept/customize-transfer-order-line-tasks.md)
+**Parent Topic:**[Customize transfer order line tasks](customize-transfer-order-line-tasks.md)
 

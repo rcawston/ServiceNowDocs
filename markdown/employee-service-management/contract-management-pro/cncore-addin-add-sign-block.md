@@ -89,7 +89,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 Define an internal signatory rule to automatically add signatory details in contract documents using the template. For more information, see [Define an internal signatory rule](cncore-define-internal-signers-rule.md).
 
-**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)
 
 **Related topics**  
 

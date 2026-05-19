@@ -138,7 +138,7 @@ Role required: admin
     For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md).
 
 
-**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)
 
 **Previous topic:**[Create a service account and private key in Google Dialogflow ES](vad-create-srvc-acct-key-dialogflow.md)
 

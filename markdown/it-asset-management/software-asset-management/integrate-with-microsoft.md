@@ -162,7 +162,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
         Install the ITAM Health Check application to get an overview of your Software Asset Management configurations and receive recommendations for correcting errors.
 
-    3.  [Install Software Asset Management - SaaS License Management plugin](../task/request-saas-license-management.md)
+    3.  [Install Software Asset Management - SaaS License Management plugin](../saas-license-management/request-saas-license-management.md)
 
         Install the Software Asset Management - SaaS License Management plugin \(com.sn\_sam\_saas\_int\) to create and manage integrations with your SaaS and Single Sign-On \(SSO\) applications. These integrations enable you to track license usage and reclaim unused licenses effectively.
 
@@ -174,7 +174,7 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
         Update your instance with new content twice every week on a scheduled basis through Software Asset Management Content Service. The Software Asset Management application provides automated content to simplify the normalization of software installations and subscriptions, offering enriched data such as lifecycle information, downgrade rights, and suite definitions. This data is essential for maintaining accurate license compliance and optimization.
 
-    6.  [Create a success goal](../task/create-success-goals.md)
+    6.  [Create a success goal](create-success-goals.md)
 
         Create a success goal to track the success of Microsoft 365 configuration setup on the Software Asset Management application.
 
@@ -182,45 +182,45 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     Configure your Software Asset Management \(SAM\) application, which includes setting up user accounts, managing licenses, and confirming compliance with Microsoft's software usage policies.
 
-    1.  [Register application on Microsoft Entra ID](../task/register-microsoft-app.md)
+    1.  [Register application on Microsoft Entra ID](register-microsoft-app.md)
 
         Register an application on Microsoft Entra ID \(formerly Azure Active Directory\) that enables the retrieval of all subscriptions provisioned in the Microsoft 365 admin center.
 
-    2.  [Configure Power BI usage to get usage information](../task/enable-service-principal-authentication-microsoft.md)
+    2.  [Configure Power BI usage to get usage information](enable-service-principal-authentication-microsoft.md)
 
         Enable service principal authentication for Power BI read-only APIs to enable your application access to Power BI service content and APIs. This access helps optimize your Microsoft 365 subscriptions, such as downgrading subscriptions from Office 365 E5 to Office 365 E3 or removing Power BI low-usage subscriptions​.
 
-    3.  [Prevent anonymous user information](../task/conf-update-micro-admin.md)
+    3.  [Prevent anonymous user information](conf-update-micro-admin.md)
 
         By default, Microsoft hides the user names of subscribers in the Microsoft 365 Admin Center, preventing ServiceNow from accurately tracking Microsoft 365 license usage. To resolve this issue, disable this anonymization feature in the Microsoft 365 Admin Center.
 
-    4.  [Set up a Microsoft 365 integration profile](../task/set-up-microsoft-office-365.md)
+    4.  [Set up a Microsoft 365 integration profile](set-up-microsoft-office-365.md)
 
         Create a Microsoft 365 integration profile in the Software Asset Management application to import user subscription data, determine license compliance, and identify optimization opportunities. If you manage multiple tenants, create a separate integration profile for each.
 
-    5.  [Configure the integration profile to get data for government customers](../task/update-o365-gov-plans.md)
+    5.  [Configure the integration profile to get data for government customers](update-o365-gov-plans.md)
 
         The ServiceNow AI Platform supports Microsoft 365 Government plans, offering all the features of Microsoft 365 services within a government-exclusive cloud. This setup helps organizations comply with the U.S. security and compliance standards.
 
-    6.  [Configure the integration profile to get usage for Microsoft 365 Copilot, Visio Online, and Project Online](../task/upload-usage-reports-copilot-visio-project.md)
+    6.  [Configure the integration profile to get usage for Microsoft 365 Copilot, Visio Online, and Project Online](upload-usage-reports-copilot-visio-project.md)
 
         Microsoft doesn't provide APIs to get usage directly for Microsoft 365 subscription products, such as Microsoft Visio, Microsoft Project, and Microsoft Copilot. However, you can download activity reports for these products from the Microsoft 365 admin center. Microsoft 365 administrators can download these reports and SAM Admin can attach them unmodified to the integration profile in the Software Asset Management application. The scheduled jobs within ServiceNow will then process these reports and identify reclamation candidates if the usage is low.
 
-    7.  [Configure reclamation rules](../task/add-reclamation-rule-sub.md)
+    7.  [Configure reclamation rules](../saas-license-management/add-reclamation-rule-sub.md)
 
-        The Software Asset Management application automatically provides base system reclamation rules when you create an integration profile for Microsoft 365. For more information, see [Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md).
+        The Software Asset Management application automatically provides base system reclamation rules when you create an integration profile for Microsoft 365. For more information, see [Reclamation rules for Microsoft 365 integration](m365-reclamation-rules.md).
 
-    8.  [Configure user resolution rules](../task/map-user-data.md)
+    8.  [Configure user resolution rules](../saas-license-management/map-user-data.md)
 
         Resolve or match the Microsoft 365 admin center user to the ServiceNow user \(sys\_user\) to determine the right license compliance and provide correct optimization recommendations.
 
         **Important:** Remember that sometimes licenses are assigned to non-human users such as email accounts. In these instances, you can skip the user resolution process as it isn’t required.
 
-    9.  [Run scheduled jobs](../reference/m365-scheduled-jobs.md)
+    9.  [Run scheduled jobs](m365-scheduled-jobs.md)
 
         The Microsoft 365 integration profile you created automatically gets subscription and usage information from the Microsoft 365 admin center on a scheduled basis. You can now run these jobs on demand and verify they’re completed successfully.
 
-    10. [Set up software models and entitlements](../task/view-user-subscription-workspace.md)
+    10. [Set up software models and entitlements](view-user-subscription-workspace.md)
 
         The Software Asset Management application integrates with the Microsoft 365 admin center to generate software models automatically based on assigned subscriptions. These models include suite components, downgrades, and lifecycle details to confirm compliance and optimize licensing. For these automatically created software models, remember to add your entitlements. If you have previously set up entitlements using Publisher Part Number, the software models from that setup are used in this integration, avoiding the creation of duplicate models.
 
@@ -238,11 +238,11 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
     Review and validate the Software Asset Management configurations to track and manage Microsoft 365 licenses and usage accurately.
 
-    1.  [Verify the complete pull of all subscriptions](../task/ver-o365-info.md)
+    1.  [Verify the complete pull of all subscriptions](ver-o365-info.md)
 
         Verify with the Microsoft 365 administrator that all subscription records have been successfully pulled.
 
-    2.  [Run health check](../task/run-healthcheck.md)
+    2.  [Run health check](run-healthcheck.md)
 
         Run a health check on the Health check dashboard by selecting **Microsoft 365**, **SaaS**, and **General** to verify the Microsoft 365 configurations and review the findings for each suite.
 
@@ -250,15 +250,15 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
         Verify if the Software Asset Management application has pulled the usage details for your Microsoft 365 subscribed users, which is required to identify the last activity and determine optimization opportunities.
 
-    4.  [Create a success goal](../task/create-success-goals.md)
+    4.  [Create a success goal](create-success-goals.md)
 
         Create a success goal to manage your Microsoft 365 licenses.
 
-    5.  [Add Microsoft 365 and associated products to the published product list](../task/add-published-products.md)
+    5.  [Add Microsoft 365 and associated products to the published product list](add-published-products.md)
 
         Add Microsoft 365 and associated products to the published product list to improve readability and declutter the Software Asset Workspace. Scale your SAM efforts strategically by evaluating progress based on resource needs, work quality, and configuration management.
 
-    6.  [Run reconciliation](../task/run-recon-workspace.md)
+    6.  [Run reconciliation](run-recon-workspace.md)
 
         Run reconciliation on the Software asset overview page to verify that the licenses are consumed according to the Software Asset Management configurations. You must run reconciliation only for Microsoft as the publisher to verify Microsoft 365 license consumption.
 
@@ -266,11 +266,11 @@ Manage Microsoft 365 license compliance and optimization by performing the follo
 
         Check your overall compliance positions for Microsoft 365 and associated products in the License Position Report.
 
-    8.  [Act on unlicensed subscriptions](../reference/publisher-overview-microsoft.md)
+    8.  [Act on unlicensed subscriptions](publisher-overview-microsoft.md)
 
         Identify and address the unlicensed Microsoft 365 subscriptions.
 
-    9.  [Act on optimization recommendations](../reference/pub-opt-microsoft.md)
+    9.  [Act on optimization recommendations](pub-opt-microsoft.md)
 
         Software Asset Management supports various optimization use cases, which you can view on the Software asset analytics page.
 

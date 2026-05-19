@@ -51,6 +51,6 @@ For example, if you add the string `Please populate the Reason` field to the Mes
 
 4.  Select **Submit**.
 
-    A new record is added to the Message `[sys_ui_message]` table for the localized message key string. For more information about this table, see [Message table](../reference/r_MessageTable.md).
+    A new record is added to the Message `[sys_ui_message]` table for the localized message key string. For more information about this table, see [Message table](r_MessageTable.md).
 
 

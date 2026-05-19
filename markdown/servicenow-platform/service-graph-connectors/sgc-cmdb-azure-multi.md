@@ -16,7 +16,7 @@ breadcrumb: [Additional features, Microsoft Azure, Service Graph Connectors, Int
 
 The Service Graph Connector for Microsoft Azure supports multiple Azure connections.
 
-**Important:** Add multiple connections by selecting **Add connection** on the Connections page of the Workflow Studio in the guided setup. For more information, see [Configure Service Graph Connector for Microsoft Azure](../task/configure-azure-integration.md).
+**Important:** Add multiple connections by selecting **Add connection** on the Connections page of the Workflow Studio in the guided setup. For more information, see [Configure Service Graph Connector for Microsoft Azure](configure-azure-integration.md).
 
 ## Setting up multiple connections
 

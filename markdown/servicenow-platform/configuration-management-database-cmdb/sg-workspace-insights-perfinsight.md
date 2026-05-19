@@ -65,11 +65,11 @@ The Payloads &amp; CIs tab contains the following tiles:
 
         Before you can drill down on a slice of this pie chart, you must have any user roles required to view the table.
 
-        You can also select **New** from the list view to create a new related entry table record. For more information about creating or editing a related entry table record, see [Edit a related table from CMDB performance insights](../task/insights-update-record-rltd-table.md).
+        You can also select **New** from the list view to create a new related entry table record. For more information about creating or editing a related entry table record, see [Edit a related table from CMDB performance insights](insights-update-record-rltd-table.md).
 
 -   **Duplicate and stale CIs**
 
-    A CI is flagged as duplicate during identification and reconciliation. A CI is flagged as stale if it has not been updated within the Effective Duration time period specified in the [CMDB Health staleness rule](../task/t_CreateCMDBHealthStaleRule.md) for the CI class.
+    A CI is flagged as duplicate during identification and reconciliation. A CI is flagged as stale if it has not been updated within the Effective Duration time period specified in the [CMDB Health staleness rule](t_CreateCMDBHealthStaleRule.md) for the CI class.
 
     -   CIs:
 
@@ -79,7 +79,7 @@ The Payloads &amp; CIs tab contains the following tiles:
 
         Breaks down the number of stale CIs based on the CI class. You can drill down on slices in this pie chart to see the list of specific CI records filtered by class.
 
-        For more information about stale CIs, see [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md).
+        For more information about stale CIs, see [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md).
 
     -   Duplicate records by class:
 
@@ -117,7 +117,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To enable batch processing, access the record of a specific data source from the list view and select **Use Batch Import**. For more information about batch processing, see [Data source fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/r_DataSourceFileTypeFields.md).
 
-        You can also select **Edit** to update a data source from the list view. For more information about editing a data source, see [Edit a data source from CMDB performance insights](../task/insights-update-data-source.md).
+        You can also select **Edit** to update a data source from the list view. For more information about editing a data source, see [Edit a data source from CMDB performance insights](insights-update-data-source.md).
 
     -   Sources with concurrent import turned off:
 
@@ -125,7 +125,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To enable concurrent import, access the record of a specific scheduled data import from the list view and select **Concurrent Import**. For more information about concurrent import, see [Concurrent imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/concurrent-imports.md).
 
-        You can also select **Edit** to update a scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](../task/insights-schedule-data-import.md).
+        You can also select **Edit** to update a scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](insights-schedule-data-import.md).
 
     -   Sources with non-custom size partition method:
 
@@ -133,7 +133,7 @@ The Service Graph connectors tab contains the following tiles:
 
         To use a custom size partition method, access the record of a specific scheduled data import from the list view. Ensure that **Concurrent Import** is selected. From the **Partition Method** drop-down menu that appears, select **Custom size**. For more information about partition methods, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_ScheduleADataImport.md).
 
-        You can also select **Edit** to update a new scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](../task/insights-schedule-data-import.md).
+        You can also select **Edit** to update a new scheduled data import from the list view. For more information about editing a scheduled data import, see [Edit a scheduled data import from CMDB performance insights](insights-schedule-data-import.md).
 
 -   **Connectors execution trends**
 

@@ -79,7 +79,7 @@ For the Paris release, this property is enabled by default for zBoot instances a
 
 ## Providing table access to external users
 
-You can provide external users access to a table by adding a role to the table that inherits the snc\_external role. For more information, see [Provide external users access to a table](../task/t_ProvideExternalUsersAccessToTables.md).
+You can provide external users access to a table by adding a role to the table that inherits the snc\_external role. For more information, see [Provide external users access to a table](t_ProvideExternalUsersAccessToTables.md).
 
 ## The hasRoles\(\) method
 
@@ -359,5 +359,5 @@ For indirect cases,such as adding an explicit role to a group \(so that a group 
 
 Note that the ServiceNow AI Platform reports only the first potential collision encountered. If repeated attempts continue to fail after remediation, with a new root cause each time, re-evaluate the relevant user/group/role interdependence more broadly. You may want to rethink how groups and role containments are structured.
 
-**Parent Topic:**[Roles installed with Customer Service Management](../../../product/customer-service-management/reference/r_RolesInstalledWithCustomerService.md)
+**Parent Topic:**[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 

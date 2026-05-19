@@ -87,6 +87,6 @@ The selected theme is updated in the **Theme** field of the Desktop Assistant fo
 
 
 </td></tr></tbody>
-</table>    For more information, see [Variables to customize a theme for Desktop Assistant](../reference/da-theme-variables.md).
+</table>    For more information, see [Variables to customize a theme for Desktop Assistant](da-theme-variables.md).
 
 

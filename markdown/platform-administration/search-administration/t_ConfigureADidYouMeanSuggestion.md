@@ -36,7 +36,7 @@ Set system properties to enable "Did you mean?" suggestions in the Knowledge Bas
 3.  Select **Save**.
 
 
-**Parent Topic:**[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+**Parent Topic:**[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 
 **Related topics**  
 

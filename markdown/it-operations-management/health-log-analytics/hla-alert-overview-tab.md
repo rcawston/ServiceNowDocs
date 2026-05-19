@@ -15,12 +15,12 @@ breadcrumb: [Information on the Alert Insight Similar Alerts tab, Health Log Ana
 
 The **Overview** tab helps you understand component-based alerts, Log Analytics alerts, and Log Analytics alert groups.
 
--   **[Information on the Overview tab for a Component-based alert](../../health-log-analytics-operator/reference/hla-op-ovrvw-tab-comp-based-alerts.md)**  
+-   **[Information on the Overview tab for a Component-based alert](hla-op-ovrvw-tab-comp-based-alerts.md)**  
 The alert **Overview** tab in Health Log Analytics helps you understand Component-based alerts.
--   **[Information on the Overview tab for a Log Analytics group](../../health-log-analytics-operator/reference/hla-op-ovrvw-tab-log-anltcs-alerts.md)**  
+-   **[Information on the Overview tab for a Log Analytics group](hla-op-ovrvw-tab-log-anltcs-alerts.md)**  
 The alert **Overview** tab in Health Log Analytics helps you understand Log Analytics groups.
--   **[Information on the Overview tab for a Log Analytics alert](../../health-log-analytics-operator/reference/hla-op-ovrvw-tab-single-ci-alerts.md)**  
+-   **[Information on the Overview tab for a Log Analytics alert](hla-op-ovrvw-tab-single-ci-alerts.md)**  
 The alert **Overview** tab in Health Log Analytics helps you understand Log Analytics alerts.
 
-**Parent Topic:**[Information on the Alert Insight Similar Alerts tab](../../health-log-analytics-operator/reference/hla-op-alrt-inst-simlr-alrts-tab.md)
+**Parent Topic:**[Information on the Alert Insight Similar Alerts tab](hla-op-alrt-inst-simlr-alrts-tab.md)
 

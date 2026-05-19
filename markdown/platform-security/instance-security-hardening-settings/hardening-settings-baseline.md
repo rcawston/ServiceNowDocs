@@ -36,5 +36,5 @@ Updated hardening settings are broken out for each baseline release.
 -   **[Deleted hardening settings](hardening-settings-deleted.md)**  
 Some hardening settings are removed from Security Center baselines.
 
-**Parent Topic:**[Hardening settings](../reference/security-hardening-settings.md)
+**Parent Topic:**[Hardening settings](security-hardening-settings.md)
 

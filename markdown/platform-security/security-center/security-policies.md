@@ -98,11 +98,11 @@ The rate of change for weekly triggers, calculated as a percentage.**Note:** For
 
 Select **Manage announcement settings** to control whether admins receive banner notifications on this instance. For information on these announcements, see [Security banner announcements](scc-banner.md).
 
--   **[Create custom security event notification policies](../task/create-a-policy.md)**  
+-   **[Create custom security event notification policies](create-a-policy.md)**  
 Learn how to create custom security event notifications that are specific to your organization's needs. This enables you to monitor actions taken by users and groups on your instance and generate notifications for potential security risks.
--   **[Modify security event notification policies](../task/modify-security-event-notification-policies.md)**  
+-   **[Modify security event notification policies](modify-security-event-notification-policies.md)**  
 Learn how to modify the settings of your security event notification policies.
--   **[Configure preferences for security event notification policies](../task/configure-preferences-for-security-event-notifications.md)**  
+-   **[Configure preferences for security event notification policies](configure-preferences-for-security-event-notifications.md)**  
 Discover how to customize security event notification policies in Security Center to align with your organization's specific needs.
 -   **[Security Event Notifications history](security-event-notifications-history.md)**  
 Explore the complete history of security event notifications on your instance.

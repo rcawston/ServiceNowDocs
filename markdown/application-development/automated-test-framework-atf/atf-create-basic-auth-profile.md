@@ -44,5 +44,5 @@ The user name and password must be valid credentials on the instance where the t
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Administering REST test step configurations](../concept/atf-administer-rest.md)
+**Parent Topic:**[Administering REST test step configurations](atf-administer-rest.md)
 

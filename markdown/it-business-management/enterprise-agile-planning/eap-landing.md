@@ -35,7 +35,7 @@ Enterprise Agile Planning \(EAP\) is available when you install the Strategic Pl
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about EAP components like roles, tables, properties, forms, and lists.](../reference/eap-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about EAP components like roles, tables, properties, forms, and lists.](eap-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

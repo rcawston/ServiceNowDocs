@@ -56,7 +56,7 @@ Create and modify email notifications, templates, and layouts through conversati
 
 </td><td>
 
-[Notification agent](../concept/notification-creation-agent.md)
+[Notification agent](notification-creation-agent.md)
 
 </td><td>
 
@@ -69,5 +69,5 @@ To learn more about configuring and using Now Assist in Notifications, see:
 
 -   [Configure email agentic workflows in Notifications](configuring-agentic-workflows-in-notifications.md)
 -   [General guidelines for creating and mapping an intent](guidelines-creating-intent.md)
--   [Notification agent](../concept/notification-creation-agent.md)
+-   [Notification agent](notification-creation-agent.md)
 

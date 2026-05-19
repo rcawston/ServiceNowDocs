@@ -32,7 +32,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 The job requisition is off hold and ready to be taken forward.
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

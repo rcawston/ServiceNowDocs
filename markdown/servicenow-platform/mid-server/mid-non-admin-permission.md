@@ -28,5 +28,5 @@ Changes to the file permissions are recorded, and the last used settings are sav
 
 ## Run a MID Server as a non-admin
 
-To run a MID Server as a non-admin user, it must first be installed using an admin account. Then add the non-admin user to allow list and restart the MID Server. Once the new enforcement rules run, the MID Server can be switched to the non-admin service account. See [Manually install a MID Server on Windows](mid-server-install-prereqs.md#) for more information on setting up non-admin Windows MID Servers, or [Run Linux MID Servers as non-root users](../task/t_InstallAMIDServerOnLinux.md#) for Linux MID Servers.
+To run a MID Server as a non-admin user, it must first be installed using an admin account. Then add the non-admin user to allow list and restart the MID Server. Once the new enforcement rules run, the MID Server can be switched to the non-admin service account. See [Manually install a MID Server on Windows](mid-server-install-prereqs.md#) for more information on setting up non-admin Windows MID Servers, or [Run Linux MID Servers as non-root users](t_InstallAMIDServerOnLinux.md#) for Linux MID Servers.
 

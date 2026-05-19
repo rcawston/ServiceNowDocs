@@ -56,5 +56,5 @@ You can also delete software installation records for specific publishers like O
         The software installations are deleted from the Software Installation \[cmdb\_sam\_sw\_install\] table.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

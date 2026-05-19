@@ -69,7 +69,7 @@ Ensure that the type of authentication \(Static or Hash\) and token or hash secr
 12. Click **Update**.
 
 
-**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-sn-secondary-bot-with-sn-primary.md)
+**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
 **Previous topic:**[Create a connection and credential in Virtual Agent Bot Interconnect](create-connection-credential-two-sn-instances-uploading-attachments.md)
 

@@ -17,7 +17,7 @@ Non-actionable notifications are created by configuring a mobile push notificati
 
 Actionable push notifications require you to perform additional steps, such as mapping functions for each push action. For more information about actionable notifications, see [Configure actionable push notifications](actionable-push-notification.md).
 
-Define push notifications as critical when you require users to be immediately alerted to an event. Critical alerts override Do Not Disturb or Silent mode settings on your users' mobile device. For more information, see [Mobile critical alerts](../task/mobile-critical-alerts-create.md).
+Define push notifications as critical when you require users to be immediately alerted to an event. Critical alerts override Do Not Disturb or Silent mode settings on your users' mobile device. For more information, see [Mobile critical alerts](mobile-critical-alerts-create.md).
 
 You can target mobile push notifications for any of the specific ServiceNow Mobile Platform mobile apps.
 
@@ -37,19 +37,19 @@ Select **Mobile notifications** in the menu and then select the push notificatio
 
 -   **[Mobile push notification components](configure-mobile-push-notifications.md)**  
 Configure mobile push notifications to target a specific screen in one of the ServiceNow Mobile Platform applications.
--   **[Reuse push notifications across mobile apps](../task/add-push-notifications-mobile-apps.md)**  
+-   **[Reuse push notifications across mobile apps](add-push-notifications-mobile-apps.md)**  
 Reuse push notifications across mobile apps with Mobile App Builder \(MAB\). Push notifications are configurable pushed messages that appear directly in mobile apps. Using MAB to manage push notifications streamlines your mobile application development into one tool.
--   **[Configure push applications for iOS branded apps using certificate based authentication](../task/sg-push-setup-ios.md)**  
+-   **[Configure push applications for iOS branded apps using certificate based authentication](sg-push-setup-ios.md)**  
 Install an iOS push certificate to use push notifications on your branded ServiceNow mobile apps for iOS.
--   **[Configure push applications for iOS branded apps using a token](../task/config-push-ios-token.md)**  
+-   **[Configure push applications for iOS branded apps using a token](config-push-ios-token.md)**  
 Use push notifications on your branded ServiceNow mobile apps for iOS using token-based authentication.
--   **[Configure push applications for Android branded apps using HTTP v1](../task/config-push-setup-android-httpv1.md)**  
+-   **[Configure push applications for Android branded apps using HTTP v1](config-push-setup-android-httpv1.md)**  
 Enter your Google Firebase Cloud Messaging push token authentication in your push application record to use push notifications on your branded ServiceNow mobile apps for Google Android.
 -   **[Configure actionable push notifications](actionable-push-notification.md)**  
 Include actions with your push notifications. Users can perform push notification actions without opening the app.
 -   **[Configure notifications for mobile activity stream mentions](notification-activity-stream.md)**  
 Configure your instance to send an email notification or a push notification when a user mentions a contact’s name within a mobile activity stream record.
--   **[Mobile critical alerts](../task/mobile-critical-alerts-create.md)**  
+-   **[Mobile critical alerts](mobile-critical-alerts-create.md)**  
 Send your users critical alerts, even if they set their mobile device to Do Not Disturb or Silent mode. Configure these visual and audio alerts to be sent when an issue needs immediate attention. Example scenarios can be to inform the user of an essential update, or to publicize a major incident that requires a speedy response.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

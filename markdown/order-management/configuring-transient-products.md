@@ -26,5 +26,5 @@ When defining transient products, note the following restrictions:
 -   Linking product offerings to product specifications: A transient product offering must be linked to a transient product specification and vice versa.
 -   Specification relationships: When defining specification relationships for a transient product, you can associate only a transient service specification or resource specification. Transient product orders are decomposed as indicated in the associated specification.
 
-For details on setting the **Transient** option for product offerings and specifications, see [Create product offerings](../task/som-create-product-offering.md)
+For details on setting the **Transient** option for product offerings and specifications, see [Create product offerings](som-create-product-offering.md)
 

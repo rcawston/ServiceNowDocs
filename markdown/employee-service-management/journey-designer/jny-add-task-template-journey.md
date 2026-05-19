@@ -36,5 +36,5 @@ Use task templates to quickly add pre-configured tasks to an employee's journey,
 6.  Select from the available task templates and click **Use template**.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

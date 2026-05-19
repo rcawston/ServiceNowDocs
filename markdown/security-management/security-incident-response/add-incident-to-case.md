@@ -37,7 +37,7 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
     ![Add to TISC Case Modal](../image/tisc-add2-case-modal.png)
 
-    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md).
+    **Note:** Create a new TISC case if there no case records. For more information on how to create case\(s\), see [Creating cases using Threat Analyst Workbench](../threat-intelligence-security-center/create-cases-using-threat-analyst-workbench.md).
 
 6.  Click **Add**.
 
@@ -46,12 +46,12 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
     **Note:** To view the linked security incidents, click on the particular case record from the security incident **Activity** stream. By clicking on this will take you to the case record in TISC workspace and the security incidents will get added under **Artifacts** tab of the Case Management module.
 
 
-**Parent Topic:**[Send data from SIR Workspace to TISC](../concept/send-sir-to-tisc.md)
+**Parent Topic:**[Send data from SIR Workspace to TISC](send-sir-to-tisc.md)
 
 **Related topics**  
 
 
-[System properties to send data](../reference/tisc-integrations-system-properties.md)
+[System properties to send data](tisc-integrations-system-properties.md)
 
 [Add observables to TISC Case](observables-to-case.md)
 

@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-You can add two types of functions to a button on a mobile pop-up card, configurable functions and predefined functions. Configurable functions enable developers to customize function behavior and functionality. For more information, see [Mobile functions](../concept/sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md). Predefined functions have dedicated functionality, purpose built for mobile pop-ups. The following predefined functions are available:
+You can add two types of functions to a button on a mobile pop-up card, configurable functions and predefined functions. Configurable functions enable developers to customize function behavior and functionality. For more information, see [Mobile functions](sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](create-mca-with-mcb.md). Predefined functions have dedicated functionality, purpose built for mobile pop-ups. The following predefined functions are available:
 
 -   Cancel: Dismisses the pop-up without performing any additional action.
 -   Complete: Submits or proceeds with the original function from which the pop-up was triggered.

@@ -48,5 +48,5 @@ Role required: admin
 
 View the records that are displayed after your search for more details.
 
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](mobile-risk-overview.md)
 

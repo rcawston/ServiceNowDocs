@@ -22,7 +22,7 @@ The OpenFrame window is available to agents with the following roles.
 -   sn\_customerservice.consumer\_agent
 -   admin
 
-After getting the required role, CTI must be enabled in the Service Operations Workspace by the admin. For more information about enabling CTI in the Service Operations Workspace, see [Enable Computer Telephony Integration providers to interact with the Service Operations Workspace](../task/integrate-cti-sow.md).
+After getting the required role, CTI must be enabled in the Service Operations Workspace by the admin. For more information about enabling CTI in the Service Operations Workspace, see [Enable Computer Telephony Integration providers to interact with the Service Operations Workspace](integrate-cti-sow.md).
 
 After the CTI integration, the agent can call a user using the phone number in the user profile and contact cards through any of these options:
 

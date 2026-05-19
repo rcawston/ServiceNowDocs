@@ -33,7 +33,7 @@ Sometimes different questions or follow-up questions return the same extended an
 -   You don't need to posit as many follow-up questions to get the insights you need, because the system drills down automatically, directing you to the interesting part of the data to focus on.
 -   Results are faster, because extended analysis focuses on an increasingly specific subset of the data.
 
-Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [Query Generation skills](../task/enable-query-generation.md).
+Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [Query Generation skills](enable-query-generation.md).
 
 To turn on extended analysis for an exploration, select it in the **Ask Now Assist a question about data** field. You have the same choice when you launch AI Data Explorer in a data visualization or list.
 

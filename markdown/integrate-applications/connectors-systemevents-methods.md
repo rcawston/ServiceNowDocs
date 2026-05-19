@@ -142,5 +142,5 @@ Stops or prevents the RPA Desktop Design Studio watching the network availabilit
 
 Stops or prevents RPA Desktop Design Studio watching the network availability events. You can use this method before or after the WatchSessionEvents method was already used.
 
-**Parent Topic:**[System Events](../concept/system-events-connector.md)
+**Parent Topic:**[System Events](system-events-connector.md)
 

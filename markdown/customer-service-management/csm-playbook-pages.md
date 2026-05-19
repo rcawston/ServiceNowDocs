@@ -40,7 +40,7 @@ Additional CSM playbook applications provide playbook pages that you can activat
 
 For more information, see [Playbook plugins](setting-up-csm-playbooks.md#section_qgq_ylk_llb).
 
-**Note:** By default, playbook pages are read-only. To use a playbook page, [activate the page](../task/activate-process-based-page.md) and set the page order.
+**Note:** By default, playbook pages are read-only. To use a playbook page, [activate the page](activate-process-based-page.md) and set the page order.
 
 ## Benefits of using playbook pages
 
@@ -64,7 +64,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activate a playbook page or page variant](../task/activate-process-based-page.md)
+[Activate a playbook page or page variant](activate-process-based-page.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Activate a playbook page or page variant and set the page order.**Note:** Some p
 
 </td></tr><tr><td>
 
-[Customize the page header for a playbook page](../task/customize-process-form-header.md)
+[Customize the page header for a playbook page](customize-process-form-header.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Configure the page header for a playbook page. The page header includes a primar
 
 </td></tr><tr><td>
 
-[Customize UI actions for a playbook page](../task/customize-process-ui-actions-bar.md)
+[Customize UI actions for a playbook page](customize-process-ui-actions-bar.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ Configure the UI actions to display in the action bar for a playbook page.
 
 </td></tr><tr><td>
 
-[Customize content in the left side panel for a playbook page](../task/customize-content-left-side-panel.md)
+[Customize content in the left side panel for a playbook page](customize-content-left-side-panel.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Add custom components in the side panel. By default, this panel includes the Cus
 
 </td></tr><tr><td>
 
-[Customize tabs in the contextual side panel for a playbook page](../task/customize-process-tabs-in-side-panel.md)
+[Customize tabs in the contextual side panel for a playbook page](customize-process-tabs-in-side-panel.md)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Add or remove the tabs from the contextual side panel. Agents can use these tabs
 
 </td></tr><tr><td>
 
-[Customize the dynamic related records for a playbook page](../task/customize-dynamic-related-records.md)
+[Customize the dynamic related records for a playbook page](customize-dynamic-related-records.md)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Configure the Dynamic Related Records feature to display the related records in 
 
 </td></tr><tr><td>
 
-[Configure the app route to use an existing subpage](../task/configure-app-route-for-subpage.md)
+[Configure the app route to use an existing subpage](configure-app-route-for-subpage.md)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Create an app route to make an existing page a part of the page collection.
 
 </td></tr><tr><td>
 
-[Configure an optional activity for a playbook](../task/configure-optional-activity-for-a-case-type-playbook.md)
+[Configure an optional activity for a playbook](configure-optional-activity-for-a-case-type-playbook.md)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Configure an optional activity in  Workflow Studio at various stages in a play
 
 </td></tr><tr><td>
 
-[Set up a record generator for case type](../task/setup-record-generator-for-case-type.md)
+[Set up a record generator for case type](setup-record-generator-for-case-type.md)
 
 </td><td>
 
@@ -157,7 +157,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a record using a playbook](../task/csm-playbook-create-record.md)
+[Create a record using a playbook](csm-playbook-create-record.md)
 
 </td><td>
 
@@ -174,7 +174,7 @@ Opening a case takes the agent to the first open assigned activity. An agent can
 -   View the entire playbook process in the [horizontal stage picker](csm-playbook-templates.md#section_uyk_sp3_cxb).
 -   View the activities for each stage in the stacked [playbook activity view](csm-playbook-layout.md#section_oq5_3yw_5pb).
 -   [Use the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)
--   [Filter activity cards](../task/csm-playbook-filter-activities.md).
+-   [Filter activity cards](csm-playbook-filter-activities.md).
 -   Select an activity and perform the work required in the main work area.
 -   View and update the case details by using the **View Details** button.
 -   View the persistent contextual information in the left side panel, such as the account and contact.
@@ -201,7 +201,7 @@ Use the Now Assist for CSM case summarization skill to summarize the case detail
 
 </td></tr><tr><td>
 
-[Compose an email from an email template](../task/compose-email-from-email-template.md)
+[Compose an email from an email template](compose-email-from-email-template.md)
 
 </td><td>
 

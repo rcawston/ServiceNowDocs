@@ -113,5 +113,5 @@ Pipeline Project\(sn\_spend\_pipeline\_project\)
 Stores the pipeline projects.Extends the Task \(task\) table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing Pipeline Management](../concept/spo-sourcing-pipeline-mgmt.md)
+</table>**Parent Topic:**[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
 

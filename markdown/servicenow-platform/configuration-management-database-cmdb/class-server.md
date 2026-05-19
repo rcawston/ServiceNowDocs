@@ -15,7 +15,7 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Attributes, identification rule, and other important schema structures for the CMDB Server \[cmdb\_ci\_server\] class.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](cmdb-tables-details.md).
 
 ![Relationships and references between the Hardware, Computer, and Server classes.](../image/schema-hw-computer-server.png "Hardware, Computer, Server Schema")
 

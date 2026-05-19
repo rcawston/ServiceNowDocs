@@ -23,15 +23,15 @@ This Platform workflow skill is automatically activated when you install a Now A
 
 ## User role access
 
-Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
+Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](user-roles-for-conversational-subflows-and-actions.md).
 
 ## Making an action conversation compatible
 
 To make an action conversation compatible, you must perform the following steps.
 
 -   Turn on the subflows and actions skill. See [Turn on the subflows and actions skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/turn-on-the-subflows-and-actions-skill.md).
--   Give personnel an appropriate role to access conversational actions. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
--   Choose action inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](../reference/supported-input-data-types-for-conversational-subflows-and-actions.md).
+-   Give personnel an appropriate role to access conversational actions. See [User roles for conversational subflows and actions](user-roles-for-conversational-subflows-and-actions.md).
+-   Choose action inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](supported-input-data-types-for-conversational-subflows-and-actions.md).
 -   Add tooltip hint text to all action inputs.
 -   Publish the action.
 
@@ -87,5 +87,5 @@ Conversational subflows and actions support a limited number of input data types
 
 [Conversational subflows](conversational-subflows.md)
 
-[Configure action conversational settings](../task/configure-action-conversation-settings.md)
+[Configure action conversational settings](configure-action-conversation-settings.md)
 

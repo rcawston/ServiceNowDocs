@@ -50,7 +50,7 @@ Policy checks run based on one of the following scheduling models:
 
 ## Determining where checks run
 
-Policies monitor the configuration items \(CIs\) that are mapped to the agent hosts. To determine the specific CI types to be monitored, you can create filters. For details on configuring policy filters, see [Create a service filter for a policy](../task/create-service-filter-policy.md).
+Policies monitor the configuration items \(CIs\) that are mapped to the agent hosts. To determine the specific CI types to be monitored, you can create filters. For details on configuring policy filters, see [Create a service filter for a policy](create-service-filter-policy.md).
 
 ## Updating policy mappings
 

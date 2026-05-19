@@ -22,5 +22,5 @@ To access a user and device details, **Workspaces** &gt; **Service Operations Wo
 -   Devices are categorized as **Up** or **Down** based on their current operational status.
 -   Select **Computer details** to access comprehensive information about the device. The information includes the asset tag, serial number, model ID, manufacturer, and configuration details of connected components.
 
-To learn more, see [Device details pages](../reference/user-device-details-pages.md).
+To learn more, see [Device details pages](user-device-details-pages.md).
 

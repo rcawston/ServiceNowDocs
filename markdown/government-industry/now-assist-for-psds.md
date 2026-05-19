@@ -18,15 +18,15 @@ With the Now Assist for Public Sector Digital Services \(PSDS\) application, you
 
 <table id="table_zzm_tc2_kbc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-exploring.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Public Sector Digital Services \(PSDS\).](now-assist-psds-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Public Sector Digital Services \(PSDS\) application.](../concept/now-assist-psds-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Public Sector Digital Services \(PSDS\) application.](now-assist-psds-configuring.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-using.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Public Sector Digital Services \(PSDS\).](now-assist-psds-using.md)
 
 </td></tr><tr><td>
 

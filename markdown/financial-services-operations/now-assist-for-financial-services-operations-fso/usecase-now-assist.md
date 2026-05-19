@@ -28,5 +28,5 @@ Use FSO agentic workflows and AI agents to improve and enhance financial service
 -   **[Standalone AI agents in Financial Services Operations](ai-agents-fso.md)**  
 Leverage AI agents in FSO to accelerate dispute resolutionand assist with front-office customer servicing. These agents automate routine steps and provide recommendations, keeping humans in the loop for final decisions.
 
-**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/now-assist-for-financial-services-operations.md)
+**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\)](now-assist-for-financial-services-operations.md)
 

@@ -48,8 +48,8 @@ Role required: admin
 
 3.  View the Employee Summary reports topic.
 
-    For more information, see [View employee summary reports](employee-summary-lh.md).
+    For more information, see [View employee summary reports](../now-assist-for-hrsd/employee-summary-lh.md).
 
 
-**Parent Topic:**[Using Leader Hub](../concept/td-lh-using.md)
+**Parent Topic:**[Using Leader Hub](td-lh-using.md)
 

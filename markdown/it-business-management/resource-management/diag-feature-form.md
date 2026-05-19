@@ -26,5 +26,5 @@ Use the diagnostics Feature form to create a new diagnostic feature for a resour
 -   **[Diagnostics Inputs form](diag-input-field.md)**  
 Use the Diagnostics Inputs form fields to specify a filter condition for a user.
 
-**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

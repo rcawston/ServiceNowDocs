@@ -52,5 +52,5 @@ You can use the retroactive pause property to apply pause times to the new SLA.
 
 When retroactive start is enabled, it may result in task SLAs being breached as soon they attach, which will trigger multiple notifications. To prevent the workflow from being processed for these breached SLAs, set the **com.snc.sla.workflow.run\_for\_breached** property to false.
 
-**Parent Topic:**[Configuring Service Level Management](../concept/configuring-service-level-management.md)
+**Parent Topic:**[Configuring Service Level Management](configuring-service-level-management.md)
 

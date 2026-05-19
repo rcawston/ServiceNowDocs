@@ -51,5 +51,5 @@ Additionally, to enhance the planning and management of tasks, you can:
 -   Create additional columns for a task to add other details. See [Add custom columns for tasks in a CWM Board](add-custom-columns-for-tasks-in-board.md)
 -   Choose the columns to be displayed for the tasks on the Board. See [Personalize List, Gantt and Kanban display for CWM Boards](personalize-cwm-board-views.md).
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

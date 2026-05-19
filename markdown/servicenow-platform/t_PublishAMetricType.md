@@ -32,5 +32,5 @@ The **State** field on the Assessment Metric Type form indicates whether the typ
     **Note:** A metric type cannot be moved back to the **Draft** state after it has been published.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 

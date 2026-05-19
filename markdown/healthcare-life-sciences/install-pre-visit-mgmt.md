@@ -35,7 +35,7 @@ The following items are installed with Pre-Visit Management:
 -   Scheduled jobs
 -   Business rules
 
-For more information, see [Components installed with Pre-Visit Management](../reference/pre-visit-components-installed.md).
+For more information, see [Components installed with Pre-Visit Management](pre-visit-components-installed.md).
 
 ## Procedure
 

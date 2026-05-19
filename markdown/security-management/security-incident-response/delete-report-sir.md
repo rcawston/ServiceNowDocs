@@ -38,5 +38,5 @@ Role required: sn\_si.analyst
 6.  Select **Delete** to delete the report.
 
 
-**Parent Topic:**[Reports in Security Incident Response](../concept/report-templates-sir.md)
+**Parent Topic:**[Reports in Security Incident Response](report-templates-sir.md)
 

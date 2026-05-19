@@ -17,9 +17,9 @@ Send an Emergency Outreach notification, on demand, to employees to ask them to 
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -29,9 +29,9 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 
 2.  On the **Safe Workplace Audience** tab, select the target audience for the notification, and click **Save**.
 
-    -   If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on.For more information, see [Add a Safe Workplace Audience](../../employee-readiness-core/task/add-safe-workplace-audience.md).
-    -   If you have the Employee Health Screening application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md).
-    -   If you have the Workplace Core application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](../../workplace-safety-mgmt/concept/workplace-safety-mgmt-hr.md).
+    -   If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on.For more information, see [Add a Safe Workplace Audience](../employee-readiness-core/add-safe-workplace-audience.md).
+    -   If you have the Employee Health Screening application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](../safe-workplace/employee-health-screening.md).
+    -   If you have the Workplace Core application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](../safe-workplace/workplace-safety-mgmt-hr.md).
 3.  On the **Content configuration** tab, select a notification in the **Notification** field, and choose how to send the notification.
 
     -   To send the notification by email, select the **Email notification** check box.
@@ -62,5 +62,5 @@ The notification is sent to the selected audience.
 
 [Review daily log responses](review-daily-contacts-log.md) to see who has responded to the notification.
 
-**Parent Topic:**[Tracking employee contacts using daily logs](../concept/employee-daily-log.md)
+**Parent Topic:**[Tracking employee contacts using daily logs](employee-daily-log.md)
 

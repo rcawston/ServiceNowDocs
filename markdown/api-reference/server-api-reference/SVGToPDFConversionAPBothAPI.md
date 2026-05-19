@@ -17,9 +17,9 @@ The SVGToPDFConversionAPI provides methods that enable the adding of an SVG to a
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-See also [PDFGenerationAPI](../../PDFGenerationAPIBoth/concept/PDFGenerationAPIBothAPI.md#).
+See also [PDFGenerationAPI](PDFGenerationAPIBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SVGToPDFConversionAPI - SVGToPDFConversionAPI\(\)
 

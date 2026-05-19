@@ -61,5 +61,5 @@ To insert an evaluation point, make sure that:
 
 Test the playbook to make sure that it's working as expected. See, [Test a playbook](test-process.md)
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](playbook-variants.md)
 

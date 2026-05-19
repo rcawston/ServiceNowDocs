@@ -17,7 +17,7 @@ Enable the AI Search experience in Engagement Messenger so unauthenticated users
 
 ## Before you begin
 
-You must configure AI Search for the Engagement Messenger before enabling AI Search for an unauthenticated user. For more information, see [Search feature configuration](../reference/search-feature-configuration-fields.md).
+You must configure AI Search for the Engagement Messenger before enabling AI Search for an unauthenticated user. For more information, see [Search feature configuration](../search-feature-configuration-fields.md).
 
 Role required: admin
 

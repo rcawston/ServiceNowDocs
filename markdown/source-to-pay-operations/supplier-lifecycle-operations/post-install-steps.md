@@ -15,13 +15,13 @@ breadcrumb: [Install Supplier Collaboration Portal, Configure, Supplier Lifecycl
 
 After you install the Supplier Collaboration Portal, ensure that you enable access to Supplier Collaboration Portal.
 
--   **[Enable access to Supplier Collaboration Portal](../task/enable-access-supp-central.md)**  
+-   **[Enable access to Supplier Collaboration Portal](enable-access-supp-central.md)**  
 Enable users to access the Supplier Collaboration Portal either by configuring the user criteria or by running the fix script.
 
-**Parent Topic:**[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+**Parent Topic:**[Install Supplier Collaboration Portal](install-supp-central.md)
 
 **Related topics**  
 
 
-[Run the fix script to enable access to Supplier Collaboration Portal](../task/run-fix-script-supp-central.md)
+[Run the fix script to enable access to Supplier Collaboration Portal](run-fix-script-supp-central.md)
 

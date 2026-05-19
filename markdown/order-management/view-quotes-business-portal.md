@@ -33,7 +33,7 @@ Role required: sn\_customerservice.customer
     |Quote date|Date on which the quote was created.|
     |Expiration date|Date on which the validity of the quote ends.|
     |Term \(months\)|Duration of the contract or subscription expressed in months.|
-    |State|Status of the quote. For more information, see [Request for quote \(RFQ\) states](../reference/rfq-states.md).|
+    |State|Status of the quote. For more information, see [Request for quote \(RFQ\) states](rfq-states.md).|
     |Contract start date|Date when the contract becomes effective.|
     |Contract end date|Date when the contract ends.|
     |Total one-time price|Aggregate of all one-time charges across quote lines.|

@@ -92,7 +92,7 @@ For information on how to configure the user hierarchy access control on your cu
 
 **Note:** You must log in to Now Support to view the Knowledge Base articles.
 
--   **[Create a user hierarchy configuration record](../task/configure-a-new-user-hierarchy-configuration-record.md)**  
+-   **[Create a user hierarchy configuration record](configure-a-new-user-hierarchy-configuration-record.md)**  
 Create a user hierarchy configuration record for a table so that you can enable your managers to view the records of the users who report to them.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)

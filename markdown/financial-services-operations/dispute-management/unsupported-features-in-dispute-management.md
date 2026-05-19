@@ -15,7 +15,7 @@ breadcrumb: [Reference, Dispute Management, Banking applications, Financial Serv
 
 Learn about features in Dispute Management that are currently not supported.
 
--   **[Review chargeback response and decide on pre-arbitration or arbitration](../task/review-and-decide-prearbitration.md)**
+-   **[Review chargeback response and decide on pre-arbitration or arbitration](review-and-decide-prearbitration.md)**
 
     After submitting a Mastercard pre-arbitration request and waiting for a response, you currently cannot skip the wait period and escalate directly to arbitration.
 

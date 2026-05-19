@@ -37,5 +37,5 @@ This section shows the script used to retrieve observables based on the specifie
 
 **Note:** All actions defined in this flow are reusable and can be modified according to your requirements.
 
-**Parent Topic:**[Run the automated phishing response playbook flow](../task/run-phishing-playbook.md)
+**Parent Topic:**[Run the automated phishing response playbook flow](run-phishing-playbook.md)
 

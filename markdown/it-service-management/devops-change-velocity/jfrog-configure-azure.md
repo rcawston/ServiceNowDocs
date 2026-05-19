@@ -155,5 +155,5 @@ stages:
             buildNumber: '$(Build.BuildId)'
 ```
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
 

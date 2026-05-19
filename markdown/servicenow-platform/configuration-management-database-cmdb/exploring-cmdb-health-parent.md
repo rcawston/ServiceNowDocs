@@ -31,15 +31,15 @@ To learn more about configuring and using CMDB Health, see:
 -   [CMDB Health experience in CMDB Workspace and in Service Graph Workspace](cmdb-health-exp-cmdb-workspace.md)
 -   View CMDB Health reports:
     -   [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
-    -   [View relationships health](../task/t_ViewRelationshipsHealth.md)
-    -   [View CI health](../task/t_ViewCIHealth.md)
--   [Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+    -   [View relationships health](t_ViewRelationshipsHealth.md)
+    -   [View CI health](t_ViewCIHealth.md)
+-   [Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 -   [Track CMDB Health processes](c_CMDBHealthTroubleshooting.md)
 -   [CMDB Health reference](cmdb-health-ref-parent.md)
 
 -   **[Overview of CMDB Health](overview-cmdb-health.md)**  
 Learn about the benefits, configuration, and usage of the CMDB Health feature.
--   **[CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md)**  
+-   **[CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md)**  
 CMDB Health calculates an aggregated score for three Key Performance Indicators \(KPIs\) which are correctness, compliance, and completeness, each further consisting of sub-metrics.
 
 **Parent Topic:**[CMDB Health](c_CMDBHealth.md)
@@ -51,11 +51,11 @@ CMDB Health calculates an aggregated score for three Key Performance Indicators 
 
 [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
 [CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 

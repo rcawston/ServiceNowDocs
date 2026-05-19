@@ -17,7 +17,7 @@ Integrating your Software Asset Management application with the Salesforce custo
 
 **Note:**
 
-If you’re using Software Asset Workspace, use SaaS Playbook for integrating your ServiceNow instance with the Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](../task/playbook-salesforce-crm.md).
+If you’re using Software Asset Workspace, use SaaS Playbook for integrating your ServiceNow instance with the Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](playbook-salesforce-crm.md).
 
 The supported Salesforce CRM services include
 
@@ -31,7 +31,7 @@ The supported Salesforce CRM services include
 
 Both Salesforce Classic and Salesforce Lightning organizations are supported.
 
-**Note:** You can track entitlements for other services that you pay for but aren’t user subscription based by using custom license metrics. See [Add a custom license metric](../task/add-custom-license-metric.md) for more details on how to create a custom license metric.
+**Note:** You can track entitlements for other services that you pay for but aren’t user subscription based by using custom license metrics. See [Add a custom license metric](../software-asset-management/add-custom-license-metric.md) for more details on how to create a custom license metric.
 
 The Salesforce account that you use to connect the integration requires a Salesforce user license and the following user access permissions.
 
@@ -363,13 +363,13 @@ To create a Salesforce CRM integration profile, request the Software Asset Manag
 
 ServiceNow Role required: sam\_integrator
 
-**Important:** You must select the **Software Asset Management integration with Salesforce CRM** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Software Asset Management integration with Salesforce CRM** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](request-saas-license-management.md).
 
 #### About this task
 
 If you’re using Software Asset Workspace, the option to create the Salesforce CRM integration profile in Core UI is inactive.
 
-If you’re using Software Asset Workspace, use SaaS Playbook for integrating your ServiceNow instance with Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](../task/playbook-salesforce-crm.md).
+If you’re using Software Asset Workspace, use SaaS Playbook for integrating your ServiceNow instance with Salesforce CRM. For more information about creating a Salesforce CRM integration profile through Playbook, see [Create a Salesforce CRM integration](playbook-salesforce-crm.md).
 
 #### Procedure
 
@@ -405,7 +405,7 @@ Action
 3.  Select **Salesforce CRM** from the drop-down list.
 4.  Select **Continue**.
 
-The Playbook launches for Salesforce CRM integration and the next steps aren't valid. For more information, see [Create a Salesforce CRM integration](../task/playbook-salesforce-crm.md).
+The Playbook launches for Salesforce CRM integration and the next steps aren't valid. For more information, see [Create a Salesforce CRM integration](playbook-salesforce-crm.md).
 
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
@@ -587,20 +587,20 @@ After creating an integration profile, view information about the profile in the
 
 After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../software-asset-management/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../software-asset-management/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../software-asset-management/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../software-asset-management/run-recon-workspace.md).
 
 ### Create additional Salesforce CRM integration profiles
 
@@ -612,7 +612,7 @@ To create a Salesforce CRM integration profile, request the Software Asset Manag
 
 ServiceNow Role required: sam\_integrator
 
-**Important:** You must select the **Software Asset Management integration with Salesforce CRM** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Software Asset Management integration with Salesforce CRM** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](request-saas-license-management.md).
 
 #### About this task
 
@@ -652,7 +652,7 @@ Action
 3.  Select **Salesforce CRM** from the drop-down list.
 4.  Select **Continue**.
 
-The Playbook launches for Salesforce CRM integration and the next steps aren't valid. For more information, see [Create a Salesforce CRM integration](../task/playbook-salesforce-crm.md).
+The Playbook launches for Salesforce CRM integration and the next steps aren't valid. For more information, see [Create a Salesforce CRM integration](playbook-salesforce-crm.md).
 
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
@@ -852,18 +852,18 @@ After creating an integration profile, view information about the profile in the
 
 After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../software-asset-management/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../software-asset-management/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../software-asset-management/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../software-asset-management/run-recon-workspace.md).
 

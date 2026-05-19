@@ -19,7 +19,7 @@ PPM Collaboration uses the Slack spoke actions such as creating a channel for yo
 
 **Important:** When you activate Slack spoke, a [Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md) for Slack is created by default with the ID **sn\_slack\_ah\_v2.Slack**. The connection that is active \(the Active field is set to **true**\) in Connections related list of this alias uses this default ID to connect your ServiceNow instance to Slack. Therefore, you can have multiple connections associated with this alias but ensure that only one connection is active at any given time.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 

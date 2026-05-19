@@ -120,7 +120,7 @@ Retire
 </table>6.  Select **Update**.
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 

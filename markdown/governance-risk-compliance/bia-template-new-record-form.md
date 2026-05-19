@@ -90,5 +90,5 @@ Option to include Confidentiality, Integrity, and Availability to BIA. Available
  The field appears only if the elements that selected for the **Primary Element Assessed** field in the same form require data backup.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure BIA templates with legacy assessment](../task/configure-bia-template-uib-ws.md)
+</table>**Parent Topic:**[Configure BIA templates with legacy assessment](configure-bia-template-uib-ws.md)
 

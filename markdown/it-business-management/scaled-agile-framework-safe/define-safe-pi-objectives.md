@@ -49,5 +49,5 @@ Create your business and technical goals in the form of PI objectives. Associate
 4.  Click **Submit**.
 
 
-**Parent Topic:**[SAFe PI objectives](../concept/safe-pi-objectives.md)
+**Parent Topic:**[SAFe PI objectives](safe-pi-objectives.md)
 

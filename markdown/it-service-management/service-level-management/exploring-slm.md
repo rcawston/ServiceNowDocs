@@ -30,5 +30,5 @@ The SLA engine performs two passes to evaluate SLA definitions and their conditi
 -   **[SLA timer](sla-timer.md)**  
 Use the SLA timer component to track the amount of time that is required to complete the task as defined by the matching SLA definition.
 
-**Parent Topic:**[Service Level Management](../reference/service-level-mgmt-landing-page.md)
+**Parent Topic:**[Service Level Management](service-level-mgmt-landing-page.md)
 

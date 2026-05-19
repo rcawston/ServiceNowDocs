@@ -26,16 +26,16 @@ The following table explains the report templates that are provisioned within th
 
 **Note:** By default, these reports are in the draft state and are in the read-only mode. You have to reuse these default templates to create and publish report templates.
 
--   **[Create a Report Template in Security Incident Response](../task/create-report-template-sir.md)**  
+-   **[Create a Report Template in Security Incident Response](create-report-template-sir.md)**  
 Create a new report template for analyst summary or an executive summary for an incident.
 -   **[System properties for reports](system-properties-report-sir.md)**  
 The system properties for Security Incident Response reports are explained below.
--   **[Duplicate a report template in Security Incident Response](../task/duplicate-report-sir.md)**  
+-   **[Duplicate a report template in Security Incident Response](duplicate-report-sir.md)**  
 Duplicate a report template to edit or reuse an existing template to create a new template.
--   **[Edit a report template in Security Incident Response](../task/edit-template-sir.md)**  
+-   **[Edit a report template in Security Incident Response](edit-template-sir.md)**  
 Edit a report template to reuse an existing template to create a new template.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -46,7 +46,7 @@ Edit a report template to reuse an existing template to create a new template.
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Configure Shift Handover](config-shift-handover.md)
 
@@ -58,5 +58,5 @@ Edit a report template to reuse an existing template to create a new template.
 
 [View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

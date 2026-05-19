@@ -28,7 +28,7 @@ The following items are installed with Lead-to-Cash Process Management:
 -   Tables
 -   Properties
 
-For more information, see [Components installed with Lead-to-Cash Process Management](../reference/components-installed-lead-cash-process-management.md) and [Properties installed with Lead-to-Cash Process Management](../reference/properties-installed-lead-cash-process-management.md).
+For more information, see [Components installed with Lead-to-Cash Process Management](components-installed-lead-cash-process-management.md) and [Properties installed with Lead-to-Cash Process Management](properties-installed-lead-cash-process-management.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ For more information, see [Components installed with Lead-to-Cash Process Manage
 
 ## Result
 
-The Lead-to-Cash Process Management application is installed on your instance. The Business Object Core application is auto-installed as a dependency. For more information, see [Components installed with Business Object Core](../reference/components-installed-business-object-core.md).
+The Lead-to-Cash Process Management application is installed on your instance. The Business Object Core application is auto-installed as a dependency. For more information, see [Components installed with Business Object Core](components-installed-business-object-core.md).
 
 The O2C Objects business object group also becomes available. It contains entities involved in the opportunity-to-cash process, such as opportunity, quote, and order. You can use this group provided you have Opportunity Management, Quote Management, and Order Management apps installed on your ServiceNow instance.
 

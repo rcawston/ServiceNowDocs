@@ -66,7 +66,7 @@ Review appointments created for the procedure.
 Wait until all child activities are completed so that the procedure request is automatically closed.
 
 </td></tr></tbody>
-</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [Configure when to send the procedure consent form to a patient](../task/pre-visit-config-proc-consent-time.md).
+</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [Configure when to send the procedure consent form to a patient](pre-visit-config-proc-consent-time.md).
 
 ## Completing the initial review activities
 

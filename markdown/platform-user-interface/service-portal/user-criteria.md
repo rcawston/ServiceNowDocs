@@ -26,7 +26,7 @@ User criteria is a platform feature used in Service Portal. Learn more about use
 
 ## Converting role-based permissions to user criteria records
 
-User criteria in Service Portal replaces role-based permissions. After activating the user criteria for Service Portal plugin, you must [Set the user criteria for Service Portal system property](../task/activate-user-crit.md) to **true**. When the system property is set to true, any existing roles defined for a page, widget, or search source are automatically converted into user criteria records. To disable user criteria and continue using role-based permissions, set the system property to **false**.
+User criteria in Service Portal replaces role-based permissions. After activating the user criteria for Service Portal plugin, you must [Set the user criteria for Service Portal system property](activate-user-crit.md) to **true**. When the system property is set to true, any existing roles defined for a page, widget, or search source are automatically converted into user criteria records. To disable user criteria and continue using role-based permissions, set the system property to **false**.
 
 ## User criteria checks
 
@@ -46,15 +46,15 @@ The following diagram shows how the system determines whether a user has access 
 
 ![Flow chart detailing the process the system uses to confirm a user's ability to access a widget.](../image/WidgetAccess2.png)
 
--   **[Activate the user criteria for Service Portal plugin](../task/activate-user-criteria.md)**  
+-   **[Activate the user criteria for Service Portal plugin](activate-user-criteria.md)**  
 You can activate the Service Portal User Criteria Support plugin \(com.glide.service-portal.user-criteria\) if you have the admin role.
--   **[Set the user criteria for Service Portal system property](../task/activate-user-crit.md)**  
+-   **[Set the user criteria for Service Portal system property](activate-user-crit.md)**  
 After activating the Service Portal User Criteria Support plugin, you must set the system property to true.
--   **[Create a user criteria record for Service Portal](../task/create-user-criteria-record.md)**  
+-   **[Create a user criteria record for Service Portal](create-user-criteria-record.md)**  
 Create a user criteria record to apply to items in Service Portal and control user access to pages, widgets, widget instances, and search sources.
--   **[Apply user criteria to a page, widget, or widget instance](../task/widget-user-criteria.md)**  
+-   **[Apply user criteria to a page, widget, or widget instance](widget-user-criteria.md)**  
 Assign user criteria to pages, widgets, or widget instances to limit user access to content in a portal.
--   **[Apply user criteria to a search source](../task/user-crit-search-source.md)**  
+-   **[Apply user criteria to a search source](user-crit-search-source.md)**  
 Assign user criteria to search sources to limit user access to content in a portal.
 
 **Parent Topic:**[Managing portal access](portal-security.md)

@@ -45,7 +45,7 @@ After linking an application to source control, application developers can use S
 -   Switch branches.
 -   Import an application from a remote repository.
 
-Source control integration does not support managing applications on a production instance. Instead, you can manage applications on a production instance using the application repository, an update set, or ServiceNow Studio. For more information about managing applications on a production instance, see [Application sharing](../../applications/concept/c_SharingApplications.md).
+Source control integration does not support managing applications on a production instance. Instead, you can manage applications on a production instance using the application repository, an update set, or ServiceNow Studio. For more information about managing applications on a production instance, see [Application sharing](../c_SharingApplications.md).
 
 ## Options available from a Git repository
 
@@ -71,11 +71,11 @@ Use an existing MID Server to connect to a source control repository. Connecting
 
 ## Source control role permissions
 
-For more information on roles and collaborators, see [Application collaboration](../../applications/concept/application-collaboration.md).
+For more information on roles and collaborators, see [Application collaboration](../application-collaboration.md).
 
--   **[Link an app to source control in ServiceNow Studio](../task/link-app-to-source-control.md)**  
+-   **[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)**  
 Linking an application or application-customization to source control allows application developers to manage changes in ServiceNow Studio from a Git repository.
--   **[Edit a Git repository configuration in ServiceNow Studio](../task/sns-sc-edit-git-repo-configuration.md)**  
+-   **[Edit a Git repository configuration in ServiceNow Studio](sns-sc-edit-git-repo-configuration.md)**  
 You can edit a Git repository's integration with ServiceNow Studio to change the network protocol selection, credentials, or other field entries.
 
 **Parent Topic:**[Configuring ServiceNow Studio](configuring-servicenow-studio.md)

@@ -13,19 +13,19 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 Learn how to use Activity stream features on a Configurable Workspace record page.
 
--   **[Search](../../../use/navigation/task/search-activity-stream.md)**
+-   **[Search](search-activity-stream.md)**
 
     Use keywords to search the Activity stream and find work notes, emails, and comments.
 
--   **[Use filter sets](../../workspace/task/create-filter-sets-in-the-activity-stream.md)**
+-   **[Use filter sets](create-filter-sets-in-the-activity-stream.md)**
 
     Create and save filter sets with custom conditions in the Activity stream.
 
--   **[Use tags](../../workspace/tags-activity-stream-agent.md)**
+-   **[Use tags](tags-activity-stream-agent.md)**
 
     Use tags to filter through the Activity stream.
 
--   **[Expand tiles by default](../../workspace/task/activity-stream-expand-tiles.md)**
+-   **[Expand tiles by default](activity-stream-expand-tiles.md)**
 
     Expand Activity stream tiles by default across records and sessions.
 

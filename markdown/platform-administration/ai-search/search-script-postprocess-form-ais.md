@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Search Scripted Post-processors form contains information about post-processing scripts defined in search application configurations for AI Search. Use this form when creating or modifying search scripted post-processors.
 
-For details on creating or editing search scripted post-processors, see [Using search scripted post-processors in AI Search application configurations](../concept/script-post-process-ais.md#).
+For details on creating or editing search scripted post-processors, see [Using search scripted post-processors in AI Search application configurations](script-post-process-ais.md#).
 
 <table id="table_jwr_5vb_5nb"><thead><tr><th>
 
@@ -142,5 +142,5 @@ function process(record) {
 3.  Press Enter.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

@@ -17,6 +17,6 @@ Some key functions that outsourced service provider managers can perform include
 
 | | |
 |---|---|
-|[Onboard an Outsourced Service Provider agent](../task/onboard-osp-agent.md)|An OSP manager can onboard OSP agents to manage and fulfill cases.|
-|[Assign a case to an OSP agent](../task/osp-assign-case-manager.md)|As an Outsourced Customer Service external manager you can assign a case to an agent under your group.|
+|[Onboard an Outsourced Service Provider agent](onboard-osp-agent.md)|An OSP manager can onboard OSP agents to manage and fulfill cases.|
+|[Assign a case to an OSP agent](osp-assign-case-manager.md)|As an Outsourced Customer Service external manager you can assign a case to an agent under your group.|
 

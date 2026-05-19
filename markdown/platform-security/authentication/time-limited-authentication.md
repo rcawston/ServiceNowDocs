@@ -23,15 +23,15 @@ Support time limited authentication for your ServiceNow instance.
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-time-limited-authentication.md)
+[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](activate-time-limited-authentication.md)
 
- [Understand how to Activate Time limited authentication.](../task/activate-time-limited-authentication.md)
+ [Understand how to Activate Time limited authentication.](activate-time-limited-authentication.md)
 
 </td></tr><tr><td>
 
-[Tutorial: Time limited authentication![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../task/time-based-authentication-with-mfa.md)
+[Tutorial: Time limited authentication![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](time-based-authentication-with-mfa.md)
 
- [Know about the properties in Zero Trust Access.](../task/time-based-authentication-with-mfa.md)
+ [Know about the properties in Zero Trust Access.](time-based-authentication-with-mfa.md)
 
 </td><td>
 

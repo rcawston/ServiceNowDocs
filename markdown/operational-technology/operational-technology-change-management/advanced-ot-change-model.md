@@ -99,7 +99,7 @@ The Approve stage of an OT Change request lets reviewers approve or deny the OT 
 |Deny button|If you're a reviewer shown in the table on the task form, select **Deny** to reject the change.|
 |Comments|Additional information about the approval or denial of the change.|
 
-For more information about change approvals, see [Operational Technology change approval](../reference/ot-change-approval.md).
+For more information about change approvals, see [Operational Technology change approval](ot-change-approval.md).
 
 ## Implement
 
@@ -154,5 +154,5 @@ The Close stage lets you close the change record after the change is completed.
 |Close code|Reason that the change record was closed.|
 |Close notes|Additional details about closing the change record.|
 
-**Parent Topic:**[Select a change model to fulfill change requests](../task/select-change-model.md)
+**Parent Topic:**[Select a change model to fulfill change requests](select-change-model.md)
 

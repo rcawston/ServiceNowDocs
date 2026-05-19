@@ -17,7 +17,7 @@ The CMDBDuplicateTemplateUtil script include provides methods to add and remove 
 
 For more information on de-duplication of CIs, de-duplication tasks, and de-duplication templates, see [Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CMDBDuplicateTemplateUtils - CMDBDuplicateTemplateUtils\(\)
 

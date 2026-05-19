@@ -46,7 +46,7 @@ Role required: map admin, map editor, map editor limited
     -   Cancel the create a place process: **esc** \(Mac\) or **Esc** \(Windows\)
     -   Delete a selected place: **fn + delete** \(Mac\) or **Backspace** \(Windows\).
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Create Snapshots to migrate Indoor Mapping data](snapshot-ind-mapping.md)
 

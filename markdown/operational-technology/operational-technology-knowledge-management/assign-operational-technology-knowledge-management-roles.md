@@ -25,7 +25,7 @@ If you're assigned a Knowledge Management role, you can use the Operational Tech
 
 **Note:** The user criteria determine the access to knowledge articles. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md).
 
-For more information about the Knowledge Management roles applicable to Operational Technology Knowledge Management, see [Operational Technology Knowledge Management roles](../concept/operational-technology-knowledge-management-roles.md).
+For more information about the Knowledge Management roles applicable to Operational Technology Knowledge Management, see [Operational Technology Knowledge Management roles](operational-technology-knowledge-management-roles.md).
 
 ## Procedure
 
@@ -37,5 +37,5 @@ For more information about the Knowledge Management roles applicable to Operatio
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](configuring-operational-technology-knowledge-management.md)
 

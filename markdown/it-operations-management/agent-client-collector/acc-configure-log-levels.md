@@ -53,5 +53,5 @@ Role required: agent\_client\_collector\_admin
     **Note:** You must restart the service after changing the log level.
 
 
-**Parent Topic:**[Using Agent Client Collector logs](../concept/logs-acc.md)
+**Parent Topic:**[Using Agent Client Collector logs](logs-acc.md)
 

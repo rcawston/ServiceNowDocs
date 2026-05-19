@@ -68,7 +68,7 @@ The system only considers stop words from the default \(English\) stop word dict
 
 By default, AI Search ignores stop word terms that exceed 256 characters in length. You can override this default limit by adding the **query.maxDictionaryTermLength** system property. The integer value of this system property indicates the maximum allowable character length for stop word and synonym dictionary terms.
 
-For information on adding a system property, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+For information on adding a system property, see [Add a system property](../r_AvailableSystemProperties.md#).
 
 **Warning:** Exercise caution when increasing the dictionary term-length limit beyond its default value. Processing long dictionary terms increases AI Search's memory usage, and in some cases search queries may fail with out-of-memory errors.
 
@@ -107,7 +107,7 @@ Stop word removal is language-dependent. You specify a language for each stop wo
 
 **Note:** If the search profile specified for a search query has no linked stop word dictionary for the search query language, AI Search uses the default \(English\) stop word dictionary as a fallback.
 
-AI Search supports stop word dictionaries for all languages activated in your instance. For the list of languages you can activate, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+AI Search supports stop word dictionaries for all languages activated in your instance. For the list of languages you can activate, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 You can only link one stop word dictionary per language to a given search profile.
 
@@ -189,17 +189,17 @@ Publishing a stop word dictionary makes its settings and active stop words take 
 
 Publishing a search profile updates the profile's stop word dictionary links but doesn't update the dictionary's settings or active stop words in AI Search.
 
--   **[Create a stop word dictionary linked to a search profile](../task/create-stop-word-dict-ais.md)**  
+-   **[Create a stop word dictionary linked to a search profile](create-stop-word-dict-ais.md)**  
 Define a new stop word dictionary and link it to a search profile.
--   **[Create stop words](../task/create-stop-word-ais.md)**  
+-   **[Create stop words](create-stop-word-ais.md)**  
 Define terms to remove from search queries.
--   **[Clone a stop word dictionary](../task/clone-stop-word-dictionary-ais.md)**  
+-   **[Clone a stop word dictionary](clone-stop-word-dictionary-ais.md)**  
 Create a copy of an existing stop word dictionary.
--   **[Link a stop word dictionary to a search profile](../task/link-stop-word-dict-profile-ais.md)**  
+-   **[Link a stop word dictionary to a search profile](link-stop-word-dict-profile-ais.md)**  
 Link an existing stop word dictionary to one or more search profiles.
--   **[Unlink a stop word dictionary from a search profile](../task/unlink-stop-word-dict-ais.md)**  
+-   **[Unlink a stop word dictionary from a search profile](unlink-stop-word-dict-ais.md)**  
 Remove a stop word dictionary that isn't linked from any search profile.
--   **[Delete a stop word dictionary](../task/delete-stop-word-dict-ais.md)**  
+-   **[Delete a stop word dictionary](delete-stop-word-dict-ais.md)**  
 Remove a stop word dictionary that isn't linked from any search profile.
 
 **Parent Topic:**[Search profiles in AI Search](defining-search-profiles-ais.md)

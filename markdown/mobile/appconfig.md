@@ -99,5 +99,5 @@ Use the following configuration keys with one of the following values to define 
 |MaasS360|IBM MAAS360|
 |Citrix|Citrix Secure|
 
-**Parent Topic:**[Considerations before implementation](../concept/imp-considerations.md)
+**Parent Topic:**[Considerations before implementation](imp-considerations.md)
 

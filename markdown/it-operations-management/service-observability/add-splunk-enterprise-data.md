@@ -23,7 +23,7 @@ You can add metrics that are stored in Splunk Enterprise to your Service Observa
 
 ## Before you begin
 
-You need a connection to your Splunk Enterpise instance. See [Connect a Service Observability data source](../task/connect-an-observability-data-source.md) for more information.
+You need a connection to your Splunk Enterpise instance. See [Connect a Service Observability data source](connect-an-observability-data-source.md) for more information.
 
 Role required: sn\_sow\_svcobs.admin
 
@@ -39,7 +39,7 @@ Role required: sn\_sow\_svcobs.admin
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Open the template in editing mode.
 
@@ -68,5 +68,5 @@ Role required: sn\_sow\_svcobs.admin
 6.  To return the template to the default \(Certified\) version, use the **More actions** menu to select **Return to certified**.
 
 
-**Parent Topic:**[Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md)
+**Parent Topic:**[Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md)
 

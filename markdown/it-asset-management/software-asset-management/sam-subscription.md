@@ -19,7 +19,7 @@ Software Asset Management licensing enables you to pay for resource categories t
 
 -   **[Managed IT Resource types](managed-it-resource-types.md)**  
 There are five IT Resource categories in ServiceNow Software Asset Management - Server, End User Computing Device, SaaS Subscription User, PaaS Resources, and IaaS Storage.
--   **[View license report for the IT Asset Management application](../../hardware-asset-management/task/view-itam-license-sum.md)**  
+-   **[View license report for the IT Asset Management application](view-itam-license-sum.md)**  
 Resources that the IT Asset Management applications discover, monitor, and provision are configuration items \(CIs\) stored in the CMDB. The ITAM licensing module combines this information on CIs with the information on subscriptions your organization purchased to produce statistics on subscription use by IT Asset Management applications.
 
 **Parent Topic:**[Software Asset Management](c_SoftwareAssetMgmt.md)

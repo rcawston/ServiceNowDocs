@@ -40,7 +40,7 @@ Role required: evt\_mgmt\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [REST API data input configuration fields](../reference/hla-data-input-rest-api-ref.md).
+    For a description of the fields, see [REST API data input configuration fields](hla-data-input-rest-api-ref.md).
 
 5.  Select **Save**.
 
@@ -67,5 +67,5 @@ Role required: evt\_mgmt\_admin
         A successful response indicates that the MID Server has received the payload. When the MID Server has processed the log messages, the data input streams them to your ServiceNow instance using the REST protocol.
 
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

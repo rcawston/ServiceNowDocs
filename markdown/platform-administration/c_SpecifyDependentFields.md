@@ -18,5 +18,5 @@ For example, if you enter `caller_id` in the dependent field in the Incident tab
 **Related topics**  
 
 
-[Make a field dependent](../task/t_MakingAFieldDependent.md)
+[Make a field dependent](t_MakingAFieldDependent.md)
 

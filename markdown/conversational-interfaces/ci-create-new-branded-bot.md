@@ -97,5 +97,5 @@ Text that describes the live profile.
 
 You can associate the bot profile with a new branding configuration. For details, see [Set up your Virtual Agent bot's branding](ac-configure-chat-branding.md).
 
-**Parent Topic:**[Branding your chat client](../concept/branding-chat-client.md)
+**Parent Topic:**[Branding your chat client](branding-chat-client.md)
 

@@ -58,7 +58,7 @@ The workplace case is assigned to a parent case.
 
 **Important:** The case selected in the **Parent case** field and the case displayed in the **Parent** field are different. The workplace case displayed in the **Parent** field is generated from the workplace service to which the case is associated. A parent is assigned automatically if the **Activity type** of the workplace service is **Task** or **Child case**.
 
-**Parent Topic:**[Configuring Workplace Case Management](../concept/workplace-case-mgmt-setup.md)
+**Parent Topic:**[Configuring Workplace Case Management](workplace-case-mgmt-setup.md)
 
 **Related topics**  
 
@@ -71,15 +71,15 @@ The workplace case is assigned to a parent case.
 
 [Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
 
-[Automating seat assignment for new hires](../concept/auto-assign-new-hires.md)
+[Automating seat assignment for new hires](auto-assign-new-hires.md)
 
 [Configure Approval options](config-approval-optns.md)
 
 [Configure a Record producer](wsd-create-record-producer.md)
 
-[Configuring a record producer for request edit](../concept/config-case-edit-rp.md)
+[Configuring a record producer for request edit](config-case-edit-rp.md)
 
-[Configuring a record producer for reservation](../concept/config-reservation-rp.md)
+[Configuring a record producer for reservation](config-reservation-rp.md)
 
 [Create an SLA Definition](create-sla-defn-case-mgmt.md)
 

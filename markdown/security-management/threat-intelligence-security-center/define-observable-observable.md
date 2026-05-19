@@ -79,5 +79,5 @@ Name of the correlation rule based on which the system has identified as the rel
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Relationships Objects](../concept/relationship-objects.md)
+**Parent Topic:**[Relationships Objects](relationship-objects.md)
 

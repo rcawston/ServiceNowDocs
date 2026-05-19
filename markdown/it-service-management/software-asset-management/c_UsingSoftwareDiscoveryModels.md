@@ -28,11 +28,11 @@ Software discovery models cannot be created manually. The ServiceNow platform us
 
 When analyzing version numbers, the ServiceNow platform always searches for an exact match first, but rounds down to a major version number if an exact match is not found. For example, if no match is found for version number 8.0.4, but version 8.0 is found, then version 8.0 is used in the **Software model** field.
 
--   **[Edit a software discovery model using the legacy Software Asset Management plugin](../task/t_EditingASoftwareDiscoveryModel.md)**  
+-   **[Edit a software discovery model using the legacy Software Asset Management plugin](t_EditingASoftwareDiscoveryModel.md)**  
 You can edit only the **Software model** field and **Approved** check box on the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin Software Discovery Models form.
--   **[Automatically match to an existing model using the legacy Software Asset Management plugin](../task/t_AutoMatchExistingModel.md)**  
+-   **[Automatically match to an existing model using the legacy Software Asset Management plugin](t_AutoMatchExistingModel.md)**  
 The automatic matching feature in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin allows you to match a software discovery model to an existing software model.
--   **[Create new models using the legacy Software Asset Management plugin](../task/t_CreatingNewModels.md)**  
+-   **[Create new models using the legacy Software Asset Management plugin](t_CreatingNewModels.md)**  
 If the automatically generated software model is not correct or if the system cannot find a match from existing models, you can create a new model using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
@@ -48,7 +48,7 @@ If the automatically generated software model is not correct or if the system ca
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

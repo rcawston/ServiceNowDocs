@@ -56,5 +56,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 8.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](scope-analysis.md)
 

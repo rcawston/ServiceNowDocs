@@ -134,5 +134,5 @@ Channel or origin through which the lead was acquired. Options include: -   Inbo
 
 Start adding more information to your lead. To learn more, see [Add and view the details of a lead](lead-management-details-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

@@ -18,5 +18,5 @@ Find all the miscellaneous information about Upgrade Console in this section.
 -   **[Upgrade Console roles](um-roles.md)**  
 Upgrade Console is installed with these roles.
 
-**Parent Topic:**[Upgrade Console](../concept/um-landing-page.md)
+**Parent Topic:**[Upgrade Console](um-landing-page.md)
 

@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_user
 4.  Select **Information Objects**.
 
 
-**Parent Topic:**[Manage information objects](../../concept/eaw-concept/eaw-manage-info-object.md)
+**Parent Topic:**[Manage information objects](eaw-manage-info-object.md)
 
 **Related topics**  
 

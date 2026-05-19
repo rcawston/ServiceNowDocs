@@ -45,5 +45,5 @@ If you are using guided test execution, you can notify testers to start testing 
 
 Assessments for each tester are created and email is sent to each tester with the assessment and testing details. After the testers are notified through the email, the **Notify Tester** related link on the Test Plan form changes to **Cancel test execution**.
 
-**Parent Topic:**[Guided test execution](../concept/c_GuidedTestExecution.md)
+**Parent Topic:**[Guided test execution](c_GuidedTestExecution.md)
 

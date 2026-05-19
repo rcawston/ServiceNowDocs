@@ -110,7 +110,7 @@ Assigns the API to a support group responsible for resolving incidents, maintain
 </td></tr></tbody>
 </table>7.  In the Configure workflows section, select a workflow for automating an API action.
 
-    **Note:** Workflows are created by your administrator using the Workflow Studio. See [Configuring flows for API actions in API Insights](../concept/api-insights-workflow.md).
+    **Note:** Workflows are created by your administrator using the Workflow Studio. See [Configuring flows for API actions in API Insights](api-insights-workflow.md).
 
 8.  Select **Save**.
 

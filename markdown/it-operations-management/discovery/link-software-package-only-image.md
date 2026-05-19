@@ -36,12 +36,12 @@ Software package information is linked to both images and containers when the **
 5.  Select **Update**.
 
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](container-image-concept.md)
 
 **Related topics**  
 
 
 [Scan container images](container-image-task.md)
 
-[Container image discovery](../reference/container_image_scan_pattern.md)
+[Container image discovery](container_image_scan_pattern.md)
 

@@ -34,7 +34,7 @@ You can create an asset put away task in the Hardware Asset Workspace for the In
     -   In the Stockrooms tab, select a Stockroom. Then in the Open stockroom tasks section, select the **Open put away tasks** card. Select **New**.
 3.  On the Asset put away task form, fill in the fields.
 
-    For a description of the field values, see [Asset put away task fields](../reference/put-away-task-form.md).
+    For a description of the field values, see [Asset put away task fields](put-away-task-form.md).
 
 4.  Save your modifications.
 
@@ -44,5 +44,5 @@ You can create an asset put away task in the Hardware Asset Workspace for the In
         **Note:** **Drop off location** field value is required to close the Asset put away task.
 
 
-**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 

@@ -21,7 +21,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-You can create JavaScript client scripts in UI Builder by using the Now Code editor. Then, you can add the client script as an [event handler](../concept/ui-builder-glossary.md#) to update the client state, emit a handled event of your page, or execute a [data resource](../concept/ui-builder-glossary.md#) operation. For example, you could write a script to increment a date or counter, and bind the script to a component event, like a button click. For more information about the Now Code Editor, see [Edit code with the Now Code Editor \(advanced feature\)](../../now-code-editor/concept/now-code-editor.md).
+You can create JavaScript client scripts in UI Builder by using the Now Code editor. Then, you can add the client script as an [event handler](ui-builder-glossary.md#) to update the client state, emit a handled event of your page, or execute a [data resource](ui-builder-glossary.md#) operation. For example, you could write a script to increment a date or counter, and bind the script to a component event, like a button click. For more information about the Now Code Editor, see [Edit code with the Now Code Editor \(advanced feature\)](now-code-editor.md).
 
 With these scripts, you can do the following actions:
 
@@ -36,7 +36,7 @@ With these scripts, you can do the following actions:
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Open or create a page.
 
@@ -73,5 +73,5 @@ With these scripts, you can do the following actions:
 12. To preview your scripted component, select ![Preview button that opens the page variant.](../image/preview-button.png).
 
 
-**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](../concept/data-resources.md)
+**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)
 

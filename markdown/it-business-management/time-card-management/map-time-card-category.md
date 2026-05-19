@@ -103,5 +103,5 @@ Displays the mapped operational resource plans.
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Time cards](../concept/c_TimeCards.md)
+**Parent Topic:**[Time cards](c_TimeCards.md)
 

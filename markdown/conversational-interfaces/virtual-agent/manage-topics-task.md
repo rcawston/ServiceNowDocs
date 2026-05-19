@@ -31,7 +31,7 @@ Admins or topic authors can use these options to manage the active topics as fol
 
     By selecting **Discoverable**, admins or topic authors can enable Virtual Agent to discover the topic by using keyword or Natural Language Understanding \(NLU\) discovery.
 
-    **Note:** If these methods don't generate search results, or Virtual Agent can't determine the appropriate conversation to display, use [AI Search](../concept/va-ai-search.md) as a fall-back method.
+    **Note:** If these methods don't generate search results, or Virtual Agent can't determine the appropriate conversation to display, use [AI Search](va-ai-search.md) as a fall-back method.
 
 -   Include the topic in the list of topics available for use.
 

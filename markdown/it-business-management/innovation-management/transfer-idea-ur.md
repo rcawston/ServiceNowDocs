@@ -62,5 +62,5 @@ When an idea is transferred to another department, the idea is closed and a new 
 
 The idea is transferred to the selected department. The **Primary Ticket** field of the parent universal request is updated with the INC, HRC, or custom task number created as a result of the transfer.
 
-**Parent Topic:**[Integrating Innovation Management with Universal Request](../concept/universal-req-idea-mgmt.md)
+**Parent Topic:**[Integrating Innovation Management with Universal Request](universal-req-idea-mgmt.md)
 

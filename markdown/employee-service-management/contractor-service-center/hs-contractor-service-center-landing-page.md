@@ -27,7 +27,7 @@ Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Contractor Ser
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-compliance.svg)Complete pre-qualification tasks, raise safety requests and upload documents for health and safety.](../../hs-contractor-management/concept/hs-using-contractor-management.md)
+[Use![](../../../reuse/icons/brand-icons/bus-compliance.svg)Complete pre-qualification tasks, raise safety requests and upload documents for health and safety.](../health-and-safety-contractor-management/hs-using-contractor-management.md)
 
 </td><td>
 

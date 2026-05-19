@@ -17,7 +17,7 @@ Set the priority for tag category definitions to ensure that tag keys belonging 
 
 ## Before you begin
 
-Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](../../service-mapping/task/install-service-mapping-plus.md).
+Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](../service-mapping/install-service-mapping-plus.md).
 
 Role required: admin
 

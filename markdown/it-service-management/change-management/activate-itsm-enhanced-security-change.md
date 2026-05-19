@@ -36,5 +36,5 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[ITSM Enhanced Security Features for Change Management](../reference/features-itsm-enhanced-security-change.md)
+**Parent Topic:**[ITSM Enhanced Security Features for Change Management](features-itsm-enhanced-security-change.md)
 

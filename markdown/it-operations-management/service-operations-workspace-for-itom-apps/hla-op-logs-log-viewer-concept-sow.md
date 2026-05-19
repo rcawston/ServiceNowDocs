@@ -19,32 +19,32 @@ The Log Viewer presents all data connected with the Log Analytics alert. It show
 
 The **Log Viewer** displays a chart of the frequency of anomalous log lines during one minute before and one minute after the Log Analytics alert and lists the associated log data. This information helps you identify trends leading up to and following the event, providing context for root cause analysis.
 
-As you analyze the logs for an alert on the **Log Viewer**, you can modify the query to fine-tune the search, save useful searches, and share them with others. For a description of the information displayed in the **Log Viewer** table, see [Log Viewer table fields](../reference/hla-op-log-viewer-table-ref.md).
+As you analyze the logs for an alert on the **Log Viewer**, you can modify the query to fine-tune the search, save useful searches, and share them with others. For a description of the information displayed in the **Log Viewer** table, see [Log Viewer table fields](../health-log-analytics/hla-op-log-viewer-table-ref.md).
 
 You can perform the following tasks on the **Log Viewer**:
 
--   [View log data for an alert in Health Log Analytics](../task/hla-op-logs-log-viewer-sow.md)
+-   [View log data for an alert in Health Log Analytics](../health-log-analytics/hla-op-logs-log-viewer-sow.md)
 
     View a chart of the frequency of anomalous log lines and the associated log data.
 
--   [Define, save, and share a search of log data in Health Log Analytics](../task/hla-op-search-queries-manage-sow.md)
+-   [Define, save, and share a search of log data in Health Log Analytics](../health-log-analytics/hla-op-search-queries-manage-sow.md)
 
     Fine-tune the search query to help determine the causes of the issue, and save and share useful searches.
 
--   [Use or modify a saved log data search in Health Log Analytics](../task/hla-op-search-queries-saved-sow.md)
+-   [Use or modify a saved log data search in Health Log Analytics](../health-log-analytics/hla-op-search-queries-saved-sow.md)
 
     Use a saved search. As the owner of a saved search, you can modify the search values and save your changes.
 
--   [Filter search results on the Log Viewer in Health Log Analytics](../task/hla-op-log-viewer-filter-sow.md)
+-   [Filter search results on the Log Viewer in Health Log Analytics](../health-log-analytics/hla-op-log-viewer-filter-sow.md)
 
     Apply filters to show only the data you want to view.
 
--   [Customize the Log Viewer table in Health Log Analytics](../task/hla-op-log-viewer-table-sow.md)
+-   [Customize the Log Viewer table in Health Log Analytics](../health-log-analytics/hla-op-log-viewer-table-sow.md)
 
     Add or remove columns in the table to show only the data you want to view.
 
 
-If you discover an important metric in the log data, you can use it to define a new Log Analytics alert rule. For more information, see [Define a Log Analytics alert rule in Health Log Analytics](../task/hla-op-alert-rule-add-sow.md).
+If you discover an important metric in the log data, you can use it to define a new Log Analytics alert rule. For more information, see [Define a Log Analytics alert rule in Health Log Analytics](../health-log-analytics/hla-op-alert-rule-add-sow.md).
 
 **Parent Topic:**[Log Analytics in Service Operations Workspace for ITOM](hla-op-binder-sow.md)
 

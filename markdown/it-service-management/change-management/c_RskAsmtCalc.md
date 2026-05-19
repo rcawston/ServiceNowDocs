@@ -26,9 +26,9 @@ The two methods can be used individually or together, depending on your requirem
 
 If you activate Change Management - Risk Assessment, the administrator can add the **Task Assessment** &gt; **Task** related list to the change request form, if necessary. The related list displays risk assessments associated with the change request.
 
--   **[Define risk assessments](../task/t_DefineARiskAssessment.md)**  
+-   **[Define risk assessments](t_DefineARiskAssessment.md)**  
 Change Management - Risk Assessment provides a flexible way to capture information from the end user to calculate the risk of the associated change request. You can define the risk assessment questions, thresholds, and conditions that calculate risk for any change request.
--   **[Perform risk assessment](../task/t_AssessRisk.md)**  
+-   **[Perform risk assessment](t_AssessRisk.md)**  
 You can perform risk assessment of existing change requests after the risk assessment criteria are defined. After assessing the risk, you can view the risk assessment responses in the change request.
 
 **Parent Topic:**[Analyze change request risk and impact](change-risk-conflict-analysis.md)
@@ -36,5 +36,5 @@ You can perform risk assessment of existing change requests after the risk asses
 **Related topics**  
 
 
-[Perform risk assessment](../task/t_AssessRisk.md)
+[Perform risk assessment](t_AssessRisk.md)
 

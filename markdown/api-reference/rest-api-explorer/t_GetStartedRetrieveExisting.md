@@ -31,7 +31,7 @@ Use the REST API Explorer to send the following request:
 
 2.  Click **Retrieve records from a table \(GET\)**.
 
-    For more information about this API endpoint, see [Table - GET /now/table/\{tableName\}](../concept/c_TableAPI.md#).
+    For more information about this API endpoint, see [Table - GET /now/table/\{tableName\}](../rest-apis/c_TableAPI.md#).
 
 3.  In the Path Parameters section, select the **Incident \(incident\)** table.
 
@@ -44,5 +44,5 @@ Use the REST API Explorer to send the following request:
     ![REST API Explorer GET response](../image/rest-api-exp-get-response.png)
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

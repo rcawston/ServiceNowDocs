@@ -38,5 +38,5 @@ Role required: evt\_mgmt\_operator
     **Note:** The list applies only to application services, and not to application service groups. The groups appear whether or not they match the filter, and whether or not they contain any services that match the filter.
 
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](operator-advanced-tasks.md)
 

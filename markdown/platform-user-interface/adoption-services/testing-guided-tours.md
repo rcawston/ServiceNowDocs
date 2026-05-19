@@ -27,5 +27,5 @@ Send the tour URL to your colleagues for review and feedback. If the feedback is
 
 After the tour is published, review any failures caused by errors on the Guided Tours Overview page. Examine these failures to gain insights into which users encountered issues, at which step the tour failed, and what the error message was. Use this information to troubleshoot and fix the problems.
 
-**Parent Topic:**[Configuring Guided Tours](../task/configure-guided-tours.md)
+**Parent Topic:**[Configuring Guided Tours](configure-guided-tours.md)
 

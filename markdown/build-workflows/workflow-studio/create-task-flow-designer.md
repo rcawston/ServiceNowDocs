@@ -65,5 +65,5 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 In this example, a flow starts when a high priority network incident is created. The flow creates an Incident Task record where the Parent field is set to the trigger incident, the Short Description inherits the incident short description, and the Assignment group is set to Network. Since there are no more actions in the flow, there's no need to select the Wait option to pause the flow until the Incident Task is complete.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

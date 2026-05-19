@@ -23,7 +23,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 You can redirect users to a URL rather than to the configured drilldown or the list that underlies the selected section of a report.
 
-See [Define a report drilldown](../concept/c_DrillingDownWithinReports.md#) for the report types that don't support the drilldown feature.
+See [Define a report drilldown](c_DrillingDownWithinReports.md#) for the report types that don't support the drilldown feature.
 
 ## Procedure
 
@@ -54,5 +54,5 @@ See [Define a report drilldown](../concept/c_DrillingDownWithinReports.md#) for 
 
 When you select the report, the redirect URL replaces any drilldown functionality.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 

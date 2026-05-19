@@ -33,12 +33,12 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
 
 4.  On the Share scheduling preferences for upcoming interview form, fill in the fields.
 
-    For a description of the field values, see [Share scheduling preferences form](../reference/share-availability-form.md).
+    For a description of the field values, see [Share scheduling preferences form](../interview-management/share-availability-form.md).
 
 5.  Select **Share scheduling preferences**.
 
     Once you've shared your scheduling preferences, you can select **View details** under the Keep track of what’s going on section to view or edit the preferences.
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](use-applicant-center.md)
 

@@ -51,5 +51,5 @@ Role required: admin
 5.  Repeat steps 3 and 4 for the remaining Advanced Work Assignment for Source-to-Pay Operations queues.
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo-setup.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](awa-spo-setup.md)
 

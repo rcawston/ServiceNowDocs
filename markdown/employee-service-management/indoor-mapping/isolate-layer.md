@@ -44,12 +44,12 @@ Role required: admin
     **Note:** Blocks can’t be edited but attributes within a block can be edited.
 
 
-**Parent Topic:**[Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md)
+**Parent Topic:**[Configure CAD objects using the CAD Editor tab](cad-editor-v2-ovw.md)
 
 **Related topics**  
 
 
 [Hide or show a layer in the CAD editor](show-a-layer.md)
 
-[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)
 

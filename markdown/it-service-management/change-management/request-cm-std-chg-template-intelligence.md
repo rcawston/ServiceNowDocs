@@ -90,10 +90,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Components installed with Change Management - Standard Change Template Intelligence](../reference/installed-with-std-chg-temp-ml.md)**  
+-   **[Components installed with Change Management - Standard Change Template Intelligence](installed-with-std-chg-temp-ml.md)**  
 Several types of components are installed with activation of the Change Management - Standard Change Template Intelligence plugin that includes tables.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

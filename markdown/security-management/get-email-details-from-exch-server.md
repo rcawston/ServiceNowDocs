@@ -70,5 +70,5 @@ Possible exit conditions for this action are:
 |Search Creation Failed due to a Parsing Error|When search creation fails due to parsing issue.|
 |Error|When exception occurs in flow action.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

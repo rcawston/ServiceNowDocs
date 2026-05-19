@@ -54,5 +54,5 @@ The new view is available in the view switcher.
 
 ![View switcher in CWM Board.](../images/cwm-views-switcher.png)
 
-**Parent Topic:**[Board views in CWM](../concept/board-views-in-cwm.md)
+**Parent Topic:**[Board views in CWM](board-views-in-cwm.md)
 

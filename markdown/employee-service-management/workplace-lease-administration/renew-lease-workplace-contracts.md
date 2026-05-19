@@ -126,7 +126,7 @@ Percentage increase or decrease in the price of the renewed contract. A negative
 
 If you selected the **Save** option, ensure that you select **Renew** when you’re ready to submit the contract renewal for approval.
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](manage-contracts-from-core-ui.md)
 
 **Related topics**  
 

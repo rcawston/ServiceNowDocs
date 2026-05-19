@@ -114,5 +114,5 @@ Legal hold custodiansn\_lg\_hold\_custodian
 Stores custodian details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Hold Notification reference](../concept/lg-hold-notif-ref.md)
+</table>**Parent Topic:**[Legal Hold Notification reference](lg-hold-notif-ref.md)
 

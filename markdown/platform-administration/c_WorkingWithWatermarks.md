@@ -42,11 +42,11 @@ If watermarks are omitted from email notifications, inbound email actions might 
 
 **Note:** Email clients that use the plain text version of the email still show the watermark.
 
--   **[Create a custom watermark prefix for email notifications](../task/t_CreatingCustomWatermarkPrefixes.md)**  
+-   **[Create a custom watermark prefix for email notifications](t_CreatingCustomWatermarkPrefixes.md)**  
 By default, email notifications use the watermark prefix **MSG**, but you can create a custom watermark prefix.
--   **[Omit an email notification watermark](../task/t_OmitWatermarksIndEmailNotif.md)**  
+-   **[Omit an email notification watermark](t_OmitWatermarksIndEmailNotif.md)**  
 You can omit watermarks on email notifications if you do not want the instance to match the notification to an existing record.
--   **[Hide email watermarks globally](../task/t_HidingWatermarksGlobally.md)**  
+-   **[Hide email watermarks globally](t_HidingWatermarksGlobally.md)**  
 Rather than omitting watermarks, it is possible to hide watermarks for global application using HTML markup.
 
 **Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
@@ -54,9 +54,9 @@ Rather than omitting watermarks, it is possible to hide watermarks for global ap
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](t_CreateANotification.md)
 
 [Email notifications dashboard](email-notifications-dashboard.md)
 
@@ -68,7 +68,7 @@ Rather than omitting watermarks, it is possible to hide watermarks for global ap
 
 [Email retention](email-retention.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](parse-email.md)
 
 [Email digests](email-digests.md)
 

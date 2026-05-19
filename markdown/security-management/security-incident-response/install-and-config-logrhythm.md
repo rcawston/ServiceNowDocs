@@ -80,14 +80,14 @@ For the Rome release and later family releases, the Security Incident Response D
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>**Important:** If you have any connectivity issues to the LogRhythm client console, refer to the [Verify connectivity for LogRhythm](verify-connectivity.md).
 
 ## Procedure
 
-1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the LogRhythm tile.
 
@@ -163,7 +163,7 @@ Specific MID Server that is set up in your environment. Only the MID Servers tha
 
 After you successfully complete the validation, the next step is to [Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md).
 
-**Parent Topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Parent Topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
 **Previous topic:**[Set up the REST API](drilldown-api-lr.md)
 

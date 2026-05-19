@@ -103,7 +103,7 @@ Remote Hands Case Summary
 
 1.  Install the Now Assist for Telecommunications, Media and Technology \(TMT\) plugin \(sn\_tmt\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Application information](../concept/now-assist-tmt-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Application information](now-assist-tmt-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Now Assist Skills**.
 
@@ -121,7 +121,7 @@ Remote Hands Case Summary
 
 6.  Review the inputs for the selected skill.
 
-    The input table fields are read-only. For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-skill-inputs.md).
+    The input table fields are read-only. For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-skill-inputs.md).
 
 7.  After reviewing the inputs for the selected skill, select **Save and continue** to go to the next step.
 

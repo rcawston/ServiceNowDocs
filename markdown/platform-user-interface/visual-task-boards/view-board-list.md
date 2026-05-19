@@ -32,5 +32,5 @@ Role required: none
     **Note:** The freeform board list view only shows cards made by the board and no other tasks that might be added manually.
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](viewing-sharing-vis-task-brds.md)
 

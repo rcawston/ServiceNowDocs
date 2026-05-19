@@ -34,5 +34,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The deviation has been escalated to a breakdown and is displayed in the breakdown list and the list of all tasks. To start breakdown analysis, select **Start breakdown analysis** from the three-dot menu in the top corner of the record page.
 
-**Parent Topic:**[Breakdown Management](../concept/breakdown-analysis.md)
+**Parent Topic:**[Breakdown Management](breakdown-analysis.md)
 

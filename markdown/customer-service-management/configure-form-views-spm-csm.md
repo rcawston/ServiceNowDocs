@@ -17,7 +17,7 @@ Configure the form layout and related lists for the Sold Product, Case, Account,
 
 Role required: admin
 
-Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [Integrate with Service Portfolio Management using Guided Setup](../concept/spm-csm-integration.md).
+Instead of doing the configuration through this procedure, consider using guided setup. For more information, see [Integrate with Service Portfolio Management using Guided Setup](spm-csm-integration.md).
 
 ## Procedure
 

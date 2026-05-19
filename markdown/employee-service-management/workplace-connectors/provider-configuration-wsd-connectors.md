@@ -107,9 +107,9 @@ Select the lookup list icon \(![Lookup list icon.](../../workplace-lease-adminis
     The scheduled job takes the source data from the Badging data table to transform the data in the required format, and place it in the target Employee Attendance Data table.
 
 
-**Parent Topic:**[Provider connector configuration](../concept/provider-configuration-ovw.md)
+**Parent Topic:**[Provider connector configuration](provider-configuration-ovw.md)
 
-**Previous topic:**[Provider connector configuration](../concept/provider-configuration-ovw.md)
+**Previous topic:**[Provider connector configuration](provider-configuration-ovw.md)
 
 **Next topic:**[Configure a webhook event](configure-webhook-restapi.md)
 

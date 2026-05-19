@@ -34,7 +34,7 @@ Ensure that you have the following details:
 -   Data of workspaces that can be marked as available.
 -   Configure approvers/performer criteria
 
-See [Create records for your workplace data](../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md) to add workplace data.
+See [Create records for your workplace data](../workplace-core/create-records-of-workplace-data-wsd.md) to add workplace data.
 
 Role required: sn\_wsd\_rsv.admin
 
@@ -190,7 +190,7 @@ Option to specify in which reservations the module must be available.-   **Advan
 -   **Quick reservation**: Select this option to make the module available in the Reservation widget on the Workplace Service Portal homepage.
 -   **Workplace Experience**: Option to display workplace option on Workplace Service Delivery for Mobile.
 
-**Note:** The Workplace experience" is available in the Desks Reservable module level by default. If the **All day** Reservable Module checkbox is not selected, the **Workplace Experience** option is not available in **Available-In** option. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from the Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes." For more information, see [Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md).
+**Note:** The Workplace experience" is available in the Desks Reservable module level by default. If the **All day** Reservable Module checkbox is not selected, the **Workplace Experience** option is not available in **Available-In** option. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from the Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes." For more information, see [Create a reservation for a day in Workplace](../workplace-service-delivery-for-mobile/manage-schedule-emp-center.md).
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ Enable allocation duration check
 
 Option to display spaces in the search results based on the start and end dates of the allocation. This field appears only when the **Require allocation check** field is selected.For recurring reservations, the allocation duration is only checked for the first occurrence.
 
-Time-bound allocations follow only the start date and end date of the allocation, which are set in the system time zone. For more information, see [Allocate a cost center, department, or workplace entity](../../workplace-space-management/task/add-cost-center-department-floor.md).
+Time-bound allocations follow only the start date and end date of the allocation, which are set in the system time zone. For more information, see [Allocate a cost center, department, or workplace entity](../workplace-space-management/add-cost-center-department-floor.md).
 
 **Note:**
 
@@ -267,7 +267,7 @@ Apply to shift
 
 </td><td>
 
-Option to enable shift-based reservation on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md) and [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md).
+Option to enable shift-based reservation on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md) and [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md).
 
 </td></tr><tr><td>
 
@@ -346,7 +346,7 @@ For example: **Browse all**,**Browse an area**, **Browse by neighborhood**.
 
 When editing a reservation, the context \(path\) is defaulted to **Browse all**. Employees can change the selected space or date and time of the reservation.
 
- For more information, see [Create a reservation](create-reservation-request-1.md).
+ For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
  **Note:** This option is not available on the Now Mobile app.
 
@@ -390,7 +390,7 @@ Option to enforce employees to make **All day** reservation. This option depends
 
  **Note:** When **Require all day reservation** is selected, employees while making or updating the reservation will find the **All day** option on the Reservation portal enabled by default.
 
-Employees can modify the Start date but not the time on the reservation portal. For more information, see [Create a reservation](create-reservation-request-1.md)
+Employees can modify the Start date but not the time on the reservation portal. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
  **Warning:** From Workplace Reservation Management version , the **Allow all day reservation** and **Require all day reservation** fields are merged under the **All day** field as **Enabled** and **Required** respectively.
 
@@ -403,11 +403,11 @@ All day
 Option to enable workplace users to reserve a Reservable Modile Configuration for an entire day. For example, Desk Reservable Module Configuration.-   **Disabled**: The All day option will be disabled and is not displayed on the Reservation portal.
 -   **Enabled**: The **All day** option is available and employees can reserve a space for a day.
 
-This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md).
+This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md).
 
 -   **Default**: The **All day** option is available and selected by default. However, the employees can deselect or change the timings if they want.
 -   **Required**: The **All day** option is displayed as selected and cannot be changed. The **All day** field is set as mandatory.
--   **Note:** If the **All Day** check box is not selected, **Workplace Experience** option is inactive in the **Available in** Reservable Module Configuration. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes". For more information, see [Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md).
+-   **Note:** If the **All Day** check box is not selected, **Workplace Experience** option is inactive in the **Available in** Reservable Module Configuration. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes". For more information, see [Create a reservation for a day in Workplace](../workplace-service-delivery-for-mobile/manage-schedule-emp-center.md).
 
 **Warning:** From Workplace Reservation Management version , the **Allow all day reservation** and **Require all day reservation** fields are merged under the **All day** field as **Enabled** and **Required** respectively.
 
@@ -417,7 +417,7 @@ Max days in future
 
 </td><td>
 
-Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, users cannot select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, users cannot select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 On Now Mobile app, if you try to select a date too far in the future than what is specified in the **Max days in future**, no results are returned.
 
@@ -454,7 +454,7 @@ Resolving a conflict uses one of the following proximity calculations:
     -   same capacity
     -   more capacity
     -   less capacity
-For more information, see [Create a reservation](create-reservation-request-1.md) and [Auto-resolve recurring reservations](recurring-reservations.md).
+For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md) and [Auto-resolve recurring reservations](recurring-reservations.md).
 
 </td></tr><tr><td>
 
@@ -506,7 +506,7 @@ Max number of days for browse near a person
 
 </td><td>
 
-Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Admins can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Admins can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 **Note:** This field is displayed only when the **Enable browse near a person** Reservable module property is enabled on the Reservable Module.
 
@@ -573,7 +573,7 @@ Warn employee about presence exception
 
 </td><td>
 
-Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../../workplace-concierge/concept/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md) is installed.
+Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../workplace-concierge/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../workplace-concierge/workplace-concierge-feat.md) is installed.
 
 </td></tr><tr><td>
 
@@ -633,7 +633,7 @@ Option to add notes to a meeting and attach images while making a reservation. T
 
 For Now Mobile app, the message is displayed on the summary page but employees cannot add or edit a message.
 
-For more information, see [Create a reservation](create-reservation-request-1.md).
+For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 .
 
@@ -680,7 +680,7 @@ Configure a record producer with additional details and add it to the reservable
 -   **[Configure reservable module with additional details](configure-reservable-module-with-custom-fields.md)**  
 The application enables you configure a reservable module with additional details based on your organization's requirements.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -719,9 +719,9 @@ The application enables you configure a reservable module with additional detail
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

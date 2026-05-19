@@ -19,7 +19,7 @@ This API provides methods that enable you to get dynamic schema values defined i
 
 To use this API to create dynamic attributes you must have the dynamic\_schema\_writer role. To read dynamic data using this API you must have the dynamic\_schema\_reader role.
 
-[GlideAggregate - Global](../../GlideAggregate/concept/c_GlideAggregateAPI.md#) methods usable with dynamic schema:
+[GlideAggregate - Global](c_GlideAggregateAPI.md#) methods usable with dynamic schema:
 
 -   addAggregate\(\)
 -   addHaving\(\)
@@ -30,7 +30,7 @@ To use this API to create dynamic attributes you must have the dynamic\_schema\_
 -   orderBy\(\)
 -   orderByAggregate\(\)
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#) methods usable with dynamic schema:
+[GlideRecord - Global](c_GlideRecordAPI.md#) methods usable with dynamic schema:
 
 -   addQuery\(\)
 -   getDisplayValue\(\)
@@ -48,12 +48,12 @@ To use this API to create dynamic attributes you must have the dynamic\_schema\_
 
 See also:
 
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
--   [GlideElement - Global](../../GlideElement_global/concept/c_GlideElementAPI.md#)
--   [GlideElementDynamicAttributeStore - Global](../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
+-   [GlideElement - Global](c_GlideElementAPI.md#)
+-   [GlideElementDynamicAttributeStore - Global](GlideElementDynamicAttStoreAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideDynamicAttribute - getGroupName\(\)
 

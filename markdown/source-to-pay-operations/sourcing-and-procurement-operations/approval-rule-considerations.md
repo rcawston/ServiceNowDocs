@@ -27,5 +27,5 @@ If an approval rule has an approval trigger defined using the total line amount,
 
 For a fully received line, the line amount is taken into consideration to determine the approval rule that needs to be triggered.
 
-**Parent Topic:**[Create an approval rule](../task/create-approval-rule.md)
+**Parent Topic:**[Create an approval rule](create-approval-rule.md)
 

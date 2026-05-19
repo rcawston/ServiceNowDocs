@@ -19,7 +19,7 @@ Streamline app development with App Engine
 
 App Engine is a ServiceNow AI Platform® suite of products to help boost productivity by automating workflows. It's available in Starter and App Engine Enterprise versions. ServiceNow® App Engine Studio \(AES\) is a development tool for creators of varying skill levels to build applications that meet the immediate needs of your organization.
 
-For more information, see [App Engine products and offerings](../../applications/concept/app-engine-products-offerings.md).
+For more information, see [App Engine products and offerings](../app-engine-products-offerings.md).
 
 ## How App Engine and App Engine Studio work together
 

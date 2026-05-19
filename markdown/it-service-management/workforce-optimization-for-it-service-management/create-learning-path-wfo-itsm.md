@@ -82,5 +82,5 @@ This video walks you through the steps for creating a learning path.Create a lea
     The learning path is published based on the Publish flow.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

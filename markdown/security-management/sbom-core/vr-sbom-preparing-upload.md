@@ -214,7 +214,7 @@ All the components listed in an SBOM have a defined `type`.
 **Related topics**  
 
 
-[View upload status for Software Bill of Materials files](../task/vr-sbom-bom-queue.md)
+[View upload status for Software Bill of Materials files](vr-sbom-bom-queue.md)
 
 [Viewing reports and dashboards in the Software Bill of Materials workspace](vr-sbom-viewing-data-overview.md)
 

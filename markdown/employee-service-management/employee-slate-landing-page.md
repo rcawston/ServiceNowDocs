@@ -17,12 +17,12 @@ Employee Slate is your AI-first employee experience that brings search, requests
 
 <table id="table_topic-areas" class="nav-card presentation"><tbody><tr><td>
 
-[Getting started![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Install plugins, configure branding, manage conversational assistant, and more.](../task/eslate-config-admin-console.md)
+[Getting started![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Install plugins, configure branding, manage conversational assistant, and more.](eslate-config-admin-console.md)
 
 -   [Employee Slate setup flow](emp-slate-setup-flow.md)
 -   [Employee Slate for Moveworks](employee-slate-moveworks.md)
 -   [Employee Slate for Now Assist](employee-slate-nowassist.md)
--   [Employee Slate prompt library](../reference/employee-slate-prompt-library.md)
+-   [Employee Slate prompt library](employee-slate-prompt-library.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Employee Slate is your AI-first employee experience that brings search, requests
 
 ## Additional resources
 
--   Learn what's new in the [Employee Slate release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/employee-slate-rn.md).
+-   Learn what's new in the [Employee Slate release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/employee-slate-rn.md).
 -   Access realtime courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 -   Find useful resources related to your role at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other ServiceNow users at [Now Community](https://www.servicenow.com/community/).

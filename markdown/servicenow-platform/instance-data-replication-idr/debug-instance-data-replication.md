@@ -59,5 +59,5 @@ Navigate to **Instance Data Replication** &gt; **Consumer Replication Sets**, se
         The Instance Data Replication Log form shows the message and message level.
 
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

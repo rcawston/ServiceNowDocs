@@ -37,15 +37,15 @@ The consumable lifecycle stages are as follows.
 -   Retired
 -   Missing
 
--   **[View consumable assets](../task/t_ViewingConsumableAssets.md)**  
+-   **[View consumable assets](t_ViewingConsumableAssets.md)**  
 Consumables are tracked as a group of the same model, but you can view individual consumables in the consumable model record.
--   **[Create consumable assets](../task/t_CreatingConsumableAssets.md)**  
+-   **[Create consumable assets](t_CreatingConsumableAssets.md)**  
 Create a consumable to track an asset as a group of the same model.
--   **[Consume consumable assets](../task/t_ConsumingConsumableAssets.md)**  
+-   **[Consume consumable assets](t_ConsumingConsumableAssets.md)**  
 To consume consumable assets, they must have a state of **In Stock** and a substate of **Available**.
--   **[Return consumable assets to stockrooms](../../hardware-asset-management/task/return-consumables.md)**  
+-   **[Return consumable assets to stockrooms](return-consumables.md)**  
 Move a consumable asset that is in a consumed state and has completed its life cycle back to an in-stock status.
--   **[Dispose of consumable assets](../../hardware-asset-management/task/dispose-consumables.md)**  
+-   **[Dispose of consumable assets](dispose-consumables.md)**  
 Dispose of those consumable assets that are no longer required in your stockrooms.
 
 **Parent Topic:**[Using Asset Management](using-asset-management.md)
@@ -53,9 +53,9 @@ Dispose of those consumable assets that are no longer required in your stockroom
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](work-with-asset-ci.md)
 
 [Manage various assets through asset classes](c_AssetClasses.md)
 
@@ -63,9 +63,9 @@ Dispose of those consumable assets that are no longer required in your stockroom
 
 [Stockrooms](c_Stockrooms.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](manage-preallocated-asset.md)
 
 [Manage transfer order](manage-transfer-orders.md)
 
-[Use Organization Management](../reference/org-mgmt.md#)
+[Use Organization Management](org-mgmt.md#)
 

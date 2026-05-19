@@ -35,5 +35,5 @@ Now Assist in Document Intelligence uses large language models \(LLMs\) to perfo
 -   **[Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md)**  
 Now Assist in Document Intelligence supports text in multiple languages.
 
-**Parent Topic:**[Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md)
+**Parent Topic:**[Now Assist in Document Intelligence](docintel-nowassist-landing.md)
 

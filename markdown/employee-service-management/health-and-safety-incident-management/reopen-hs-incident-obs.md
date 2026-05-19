@@ -40,5 +40,5 @@ The safety incident or observation is reopened.
 
 Work on the safety incident or observation to complete it.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](managing-hs-incidents-obs.md)
 

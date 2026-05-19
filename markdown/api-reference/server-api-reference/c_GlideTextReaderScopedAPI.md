@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideTextReader API provides the ability to read single lines from an input stream. Because an input stream is used, it is not subject to the 5MB attachment size limit.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideTextReader - GlideTextReader\( GlideScriptableInputStream inputStream\)
 

@@ -36,10 +36,10 @@ The URL type field hides the Max Length field on the Dictionary form by default.
     The system cancels any length change that results in data loss due to truncation.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../../field-administration/concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
-[Field types reference](../reference/r_FieldTypes.md)
+[Field types reference](r_FieldTypes.md)
 

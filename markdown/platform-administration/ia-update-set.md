@@ -92,5 +92,5 @@ Role required: admin
 
 These steps complete the successful uploading and committing of the update set batch file.
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](ia-administer.md)
 

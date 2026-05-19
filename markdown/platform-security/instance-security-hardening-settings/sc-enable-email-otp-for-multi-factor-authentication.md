@@ -107,7 +107,7 @@ References
 
 </td><td>
 
-[Email as an MFA factor](../../../integrate/authentication/concept/mfa-with-email.md)
+[Email as an MFA factor](../authentication/mfa-with-email.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](sc-authentication.md)

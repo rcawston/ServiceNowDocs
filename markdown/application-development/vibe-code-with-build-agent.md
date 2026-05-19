@@ -30,7 +30,7 @@ Build Agent supports the following development tasks:
 -   Support governance: Work inside platform scopes, roles, and testing workflows rather than as a detached external bot.
 -   Enable developer learning: Answer ServiceNow development questions, summarize documents, and provide practical examples.
 
-For more information on Build Agent, see [Build Agent](../../build-agent/concept/build-agent.md).
+For more information on Build Agent, see [Build Agent](build-agent.md).
 
 ## General guidelines for AI-assisted development with Build Agent
 

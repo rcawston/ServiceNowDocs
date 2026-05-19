@@ -45,5 +45,5 @@ You can retire a package in two ways:
 6.  When you see the confirmation prompt, select **Retire**.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 

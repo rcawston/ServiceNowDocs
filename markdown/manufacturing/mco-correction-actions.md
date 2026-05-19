@@ -25,7 +25,7 @@ Role required: Quality Issue Management Admin or product non-conformance submitt
 
 3.  On the Correction actions form, fill in the fields.
 
-    For a description of the field values, see [Correction actions form](../reference/mco-correction-actions-form.md).
+    For a description of the field values, see [Correction actions form](mco-correction-actions-form.md).
 
 4.  Select **Save**.
 
@@ -48,9 +48,9 @@ Create the list of assets that are impacted under non-conformance cases.
 **Related topics**  
 
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](mco-notes.md)
 
-[Resolution information form](../reference/mco-resolution-information-form.md)
+[Resolution information form](mco-resolution-information-form.md)
 
-[Effectiveness form](../reference/mco-effectiveness-form.md)
+[Effectiveness form](mco-effectiveness-form.md)
 

@@ -220,5 +220,5 @@ Service Definition \[sn\_case\_type\_selection\]
 Distribution \(percentage\) of government services available in the system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](../../../use/application-content-packs/concept/psds-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](psds-content-pack.md)
 

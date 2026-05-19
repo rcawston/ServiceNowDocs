@@ -36,40 +36,40 @@ Role required: sn\_shop.shopper
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
 
 **Related topics**  
 
 
 [Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](configuring-work-prioritization.md)
 
 [Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
 
 [Configure conditions for merging purchase requisitions](config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
 [Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](awa-spo.md)
 
 [Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
 
 [Configure punchout for third-party site purchases](configure-supplier-punchout.md)
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](use-shoppinghub-portal.md)
 
-[My purchases on Shopping Hub](../concept/my-purchases.md)
+[My purchases on Shopping Hub](my-purchases.md)
 

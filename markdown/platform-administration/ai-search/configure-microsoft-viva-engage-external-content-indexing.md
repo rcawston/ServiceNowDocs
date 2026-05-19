@@ -117,5 +117,5 @@ Your connector admin needs these items to configure a Microsoft Viva Engage exte
 
 For details on creating and configuring a Microsoft Viva Engage external content connector, see [Create a Microsoft Viva Engage external content connector](create-ext-cont-connector-microsoft-viva-engage.md).
 
-**Parent Topic:**[Microsoft Viva Engage external content connector](../concept/microsoft-viva-engage-external-content-connector.md)
+**Parent Topic:**[Microsoft Viva Engage external content connector](microsoft-viva-engage-external-content-connector.md)
 

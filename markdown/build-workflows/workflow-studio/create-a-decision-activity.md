@@ -91,7 +91,7 @@ After the activity starts, the activity runs only if specific conditions are met
 
 </td><td>
 
-Specify a duration of time to wait before running an activity whose start rule and conditions have been met. Give users a specific amount of time to complete actions. For more information, see [Start with delay input properties](../reference/start-with-delay-properties.md).
+Specify a duration of time to wait before running an activity whose start rule and conditions have been met. Give users a specific amount of time to complete actions. For more information, see [Start with delay input properties](start-with-delay-properties.md).
 
 </td></tr><tr><td>
 
@@ -134,32 +134,32 @@ For more information, see [Restart a playbook](restart-a-playbook.md).
 
 You've added and configured decision branches between activities.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
 [Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
 [Add and configure an activity in a playbook](add-configure-activity.md)
 
 [Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
 [Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
 [Parallel branches](create-parallel-activity.md)
 
 [Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

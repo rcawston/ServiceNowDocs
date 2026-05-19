@@ -18,5 +18,5 @@ Use Field Service Management Customer Experience to send notifications to your c
 **Related topics**  
 
 
-[Configuring Field Service Management Customer Experience](Configuring-cust-exp.md#)
+[Configuring Field Service Management Customer Experience](../work-order-management/Configuring-cust-exp.md#)
 

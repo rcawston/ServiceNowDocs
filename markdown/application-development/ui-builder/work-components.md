@@ -130,7 +130,7 @@ Use the UI Builder component formula editor in the configuration panel to bind o
 
 ![Component formula editor with an example formula.](../image/component-formula-editor.png)
 
-Each function added to the component formula editor auto-completes. The component formula editor displays a label for each input of the function so you know what parameters each function requires. For more information about the supported functions in the component formula editor, see [Supported functions in the UI Builder component formula editor](../task/add-components.md#).
+Each function added to the component formula editor auto-completes. The component formula editor displays a label for each input of the function so you know what parameters each function requires. For more information about the supported functions in the component formula editor, see [Supported functions in the UI Builder component formula editor](add-components.md#).
 
 ## Component ID
 
@@ -150,19 +150,19 @@ Set the **Test value** to test what happens when the visibility is set to true, 
 
 ## Duplicate components
 
-Create an exact copy of a configured component on your UI Builder page except for the name and ID. A duplicated component copies all properties, bindings, and events. For more information, see [Duplicate a component](../task/duplicate-components.md).
+Create an exact copy of a configured component on your UI Builder page except for the name and ID. A duplicated component copies all properties, bindings, and events. For more information, see [Duplicate a component](duplicate-components.md).
 
 -   **[Automatically configure components using presets](presets.md#)**  
 Use component presets to automatically configure components on compatible pages.
--   **[Create custom presets for components](../task/preset-builder.md)**  
+-   **[Create custom presets for components](preset-builder.md)**  
 Create presets to save time and make your component configurations reusable across different experiences.
--   **[Change the default appearance of components](../task/add-styling-to-component.md#)**  
+-   **[Change the default appearance of components](add-styling-to-component.md#)**  
 Set the styles for components and wrappers to change the default appearance.
--   **[Enhance accessibility with focus management](../task/focus-management.md)**  
+-   **[Enhance accessibility with focus management](focus-management.md)**  
 Set focus on specific elements, ensuring users can interact with them effectively using screen readers.
--   **[Duplicate a component](../task/duplicate-components.md)**  
+-   **[Duplicate a component](duplicate-components.md)**  
 Duplicate a configured component to reuse on a page.
--   **[Dynamically display content with conditional renderers](../task/conditional-renderer.md)**  
+-   **[Dynamically display content with conditional renderers](conditional-renderer.md)**  
 Use the conditional renderer component to display content or components based on specified conditions.
 -   **[Learn components by example](learning-components-by-example.md)**  
 Follow these procedures to learn how components create the functionality you need in your UI Builder pages.
@@ -172,7 +172,7 @@ Page Collections are groups of pages that can be used across multiple experience
 Change data visualizations in real time using a drop-down list to preview data in your experience.
 -   **[Add tabbed content to UI Builder pages](tabs-components.md#)**  
 Use the Tabs component to add tabbed content to pages in UI Builder.
--   **[Add a contextual sidebar](../task/add-contextual-sidebar.md)**  
+-   **[Add a contextual sidebar](add-contextual-sidebar.md)**  
 Add a contextual sidebar to a page with UI Builder to display related content using a vertical tab structure.
 -   **[Add forms to UI Builder pages](add-forms-to-ui-builder-pages.md)**  
 Use the Form component to add one or more forms to UI Builder pages.
@@ -184,7 +184,7 @@ Viewports are specialized components that enable you to extend your experience w
 Use popovers on a UI Builder page to overlay contextual information or functionality to help users complete tasks.
 -   **[Create modeless dialogs in UI Builder](uib-modeless-dialog.md)**  
 Use modeless dialogs on a UI Builder page to add a floating window that enables you to interact with both the window content and the page content below.
--   **[Configure alerts to auto-dismiss](../task/uib-configure-alerts.md)**  
+-   **[Configure alerts to auto-dismiss](uib-configure-alerts.md)**  
 Set alerts to automatically clear after a specified time period.
 
 **Parent Topic:**[Working in UI Builder](using-ui-builder.md)

@@ -43,7 +43,7 @@ Role required: wm\_admin
 
 6.  Limit the number of location points for each inquiry to Beans.ai.
 
-    For more information, see [Schedule Optimization properties](../reference/schedule-optimization-properties.md).
+    For more information, see [Schedule Optimization properties](../schedule-optimization-properties.md).
 
 
 ## What to do next
@@ -53,5 +53,5 @@ Role required: wm\_admin
 **Related topics**  
 
 
-[Configuring Google Maps API keys](../concept/google-maps-api-keys.md)
+[Configuring Google Maps API keys](../workforce-optimization-for-field-service/google-maps-api-keys.md)
 

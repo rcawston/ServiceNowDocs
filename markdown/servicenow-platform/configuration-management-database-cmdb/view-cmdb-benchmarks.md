@@ -49,5 +49,5 @@ Global averages are based on the sum of monthly averages of all peer instances, 
 **Related topics**  
 
 
-[CMDB Health](../concept/c_CMDBHealth.md)
+[CMDB Health](c_CMDBHealth.md)
 

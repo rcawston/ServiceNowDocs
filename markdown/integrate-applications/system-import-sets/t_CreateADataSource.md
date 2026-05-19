@@ -52,9 +52,9 @@ Role required: admin.
     **Note:** The 20 loaded records can't be transformed and are for testing purposes only.
 
 
-**Parent Topic:**[Using XML import sets](../concept/c_XMLImportSets.md)
+**Parent Topic:**[Using XML import sets](c_XMLImportSets.md)
 
-**Previous topic:**[Using XML import sets](../concept/c_XMLImportSets.md)
+**Previous topic:**[Using XML import sets](c_XMLImportSets.md)
 
 **Next topic:**[Create a transform map](t_CreateATransformMap.md)
 

@@ -147,9 +147,9 @@ Role required: map editor, map admin, map editor limited
     The CAD file is loaded into the Map Studio and the configuration for layers, layer types, and places is created. The application automatically applies the same configurations to subsequent floors that are imported. This is helpful in speeding up configurations of buildings that have multiple floors and where all the CAD files have similar layers. If the CAD layers within the subsequent files have the same layer names as the layers within the initial file, then layers, layer types, and places is pre-filled with the same values as those in the initial file.
 
 
-**Parent Topic:**[Autocad tool](../concept/autocad-processor-v1.md)
+**Parent Topic:**[Autocad tool](autocad-processor-v1.md)
 
-**Previous topic:**[Autocad tool](../concept/autocad-processor-v1.md)
+**Previous topic:**[Autocad tool](autocad-processor-v1.md)
 
-**Next topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Next topic:**[Indoor Mapping references](indoor-mapping-references.md)
 

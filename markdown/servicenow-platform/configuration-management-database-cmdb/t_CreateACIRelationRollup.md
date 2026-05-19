@@ -56,24 +56,24 @@ CI relation rollups use the **cmdb synch event** business rule on the \[cmdb\_ci
     Additionally, if you wish CI relation rollups to recalculate when there is a change to a relationship, use a similar procedure to select the **Active** check box on the **cmdb\_rel\_ci synch event** business rule.
 
 
-**Parent Topic:**[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](r_SuggestedRelationshipModel.md)
 
 [Add a suggested relationship](t_AddANewSuggestedRelationship.md)
 
-[Relationship governance rules](../concept/relationship-governance.md)
+[Relationship governance rules](relationship-governance.md)
 
-[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+[CI relations formatter](c_CIRelationsFormatterNG.md)
 
-[CI relationship editor](../concept/c_RelationshipEditor.md)
+[CI relationship editor](c_RelationshipEditor.md)
 
-[Relation qualifier](../concept/c_RelationQualifier.md)
+[Relation qualifier](c_RelationQualifier.md)
 
-[CI relationship security](../concept/c_CIRelationshipSecurity.md)
+[CI relationship security](c_CIRelationshipSecurity.md)
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](c_CIRelationships.md)
 

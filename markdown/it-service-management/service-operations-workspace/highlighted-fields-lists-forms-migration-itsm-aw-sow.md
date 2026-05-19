@@ -35,10 +35,10 @@ The Service Operations Workspace migration utility uses the following sequence t
 2.  If a Highlighted Value \[sys\_highlighted\_value\] table record isn’t found, creates a Highlighted Value \[sys\_highlighted\_value\] table record.
 3.  Maps the Sys Ux M2m Highlighted Value Config \[sys\_ux\_m2m\_highlighted\_value\_config\] table record.
 
--   **[Perform post-migration tasks for highlighted fields in list and forms](../task/verify-migration-status-highlighted-fields-lists-forms.md)**  
+-   **[Perform post-migration tasks for highlighted fields in list and forms](verify-migration-status-highlighted-fields-lists-forms.md)**  
 Verify that the highlighted fields in list and forms in Service Operations Workspace \(SOW\) are consistent with the highlighted fields in list and forms in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated highlighted fields in list and forms settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

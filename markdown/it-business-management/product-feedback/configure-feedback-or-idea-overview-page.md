@@ -38,5 +38,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 

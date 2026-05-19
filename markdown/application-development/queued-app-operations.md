@@ -110,5 +110,5 @@ If the queue is unable to download an application package or find a plugin to ch
 
 **Note:** Failing to obtain necessary locks doesn't count as a failure attempt. Only errors encountered such as failing to download an application package from AppRepo count.
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](c_SharingApplications.md)
 

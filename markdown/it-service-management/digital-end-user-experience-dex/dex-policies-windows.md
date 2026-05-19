@@ -15,7 +15,7 @@ breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experie
 
 Policy reference for DEX monitoring on Windows devices. Use this reference to understand available check instances, frequencies, and parameters for application, network, and device monitoring.
 
-To fetch the complete playbook data for a Windows device, the Agent Client Collector \(ACC\) must run as a local system account. For more details on how to set up the ACC service as a local system account, see [Run ACC as a local system account user](../task/run-acc-local-sys-account.md).
+To fetch the complete playbook data for a Windows device, the Agent Client Collector \(ACC\) must run as a local system account. For more details on how to set up the ACC service as a local system account, see [Run ACC as a local system account user](run-acc-local-sys-account.md).
 
 ## Policies for Windows — Application
 

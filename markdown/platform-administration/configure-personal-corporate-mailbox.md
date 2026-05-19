@@ -168,5 +168,5 @@ Enter a domain name to identify your email service \(for example gmail.com\).
 </table>10. Select **Submit**.
 
 
-**Parent Topic:**[Personal corporate mailbox](../concept/personal-corporate-mailbox.md)
+**Parent Topic:**[Personal corporate mailbox](personal-corporate-mailbox.md)
 

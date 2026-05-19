@@ -45,7 +45,7 @@ IO helps Instance administrators, Platform Owners, and DevOps teams accelerate v
 |[Key alerts – activation and notifications](io-alerts.md)|Flexibility to set alerts with thresholds specific to your business needs, and configure who on your team receives notifications and the method.|
 |[Analytics](io-analytics.md)|View comparisons for performance of key metrics over time.|
 |[Triaged instance data](io-triage.md)|Point-in-time instance snapshot providing metadata to troubleshoot live issues|
-|[Instance performance telemetry reports](../reference/instance-observer-reporting.md)|Quickly generate reports to download and share with your team business stakeholders.​|
+|[Instance performance telemetry reports](instance-observer-reporting.md)|Quickly generate reports to download and share with your team business stakeholders.​|
 |[Help](io-help.md)|Get assistance with Instance Observer tools, terminology review, how-to videos, and relevant documents.|
 
 ## Support matrix according to Impact package
@@ -105,7 +105,7 @@ Performance Visualization Charts \(KPIs\)See [Performance](instance-observer-per
 
 </td></tr><tr><td>
 
-ReportingSee [Instance performance telemetry reports](../reference/instance-observer-reporting.md) for details.
+ReportingSee [Instance performance telemetry reports](instance-observer-reporting.md) for details.
 
 </td><td>
 
@@ -125,7 +125,7 @@ AlertsSee [Alerts in Instance Observer](io-alerts-intro.md) for details.
 
 </td><td>
 
-✓**Note:** Six alerts are available. For more information, see [Track instance performance with the top six timely alerts – Guided users](../task/io-alerts-guided-cust.md).
+✓**Note:** Six alerts are available. For more information, see [Track instance performance with the top six timely alerts – Guided users](io-alerts-guided-cust.md).
 
 </td><td>
 
@@ -186,7 +186,7 @@ Data retention
 </td></tr></tbody>
 </table>To access the Instance Observer page, navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Instance Observer**.
 
-**Note:** For more information on subscription support, see [Impact packages](../reference/impact-packages.md).
+**Note:** For more information on subscription support, see [Impact packages](impact-packages.md).
 
 ## Serviceability limitations
 
@@ -206,13 +206,13 @@ ServiceNow Instance Observer provides a comprehensive set of alerts designed to 
 Root cause analysis in Instance Observer provides automated detection and summarization of issues. It includes built-in root cause correlation and root cause summary using a large language model \(LLM\), which helps reduce troubleshooting time, improve incident transparency, and generative AI driven root cause recommendation by analyzing similar historical incidents.
 -   **[Analytics](io-analytics.md)**  
 View comparisons for performance of key metrics over time with the Impact Total package.
--   **[Triage a ServiceNow instance](../task/io-triage-sn-instance.md)**  
+-   **[Triage a ServiceNow instance](io-triage-sn-instance.md)**  
 Perform a triage on a ServiceNow instance to gather point-in-time telemetry data for troubleshooting using Instance Observer. The triage feature gives a summary of ongoing operations at the time of its execution.
--   **[Instance performance telemetry reports](../reference/instance-observer-reporting.md)**  
+-   **[Instance performance telemetry reports](instance-observer-reporting.md)**  
 Quickly generate reports to download and share with your business stakeholders, making  organizations faster, smarter, and better in their  instance performance management.
 -   **[Help](io-help.md)**  
 Access release notes, how to videos, and more from the Instance Observer Help Center page.
--   **[Instance Observer reference](../reference/instance-observer-reference.md)**  
+-   **[Instance Observer reference](instance-observer-reference.md)**  
 Reference topics provide information about roles installed with the Impact Instance Observer application and the key metrics that are used to monitor infrastructure health, track application performance, measure latency to understand user experience, and use historical data for capacity planning.
 
 **Parent Topic:**[Platform Health](platform-health-idi.md)

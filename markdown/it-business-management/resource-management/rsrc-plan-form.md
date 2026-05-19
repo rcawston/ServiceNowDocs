@@ -61,7 +61,7 @@ Role
 
 </td><td>
 
-Specific [resource role](../task/create-resource-role.md) that you want to associate with the plan. This field appears if you select **Role** in the **Resource type** field.
+Specific [resource role](create-resource-role.md) that you want to associate with the plan. This field appears if you select **Role** in the **Resource type** field.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ FTE
 
 Number of units for the full-time equivalent selection. This field appears if you select **FTE** in the **Request type** field.
 
- For more information, see [Resource plans](../concept/c_ResourcePlans.md).
+ For more information, see [Resource plans](c_ResourcePlans.md).
 
 </td></tr><tr><td>
 
@@ -205,5 +205,5 @@ Hourly rate of resource that overrides the hourly rate returned from the rate mo
 -   **[Resource Plan form tabs](rsrc-plan-form-tabs.md)**  
 Use the resource plan form tabs to create a resource plan.
 
-**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

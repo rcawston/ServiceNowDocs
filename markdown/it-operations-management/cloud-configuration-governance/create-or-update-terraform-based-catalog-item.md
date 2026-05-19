@@ -67,10 +67,10 @@ The Cloud Services Catalog Terraform Connector creates an IaC change task for a 
 
 6.  On the form, fill in the fields.
 
-    For more information, see [Cloud Services Catalog Terraform Connector Terraform Catalog Item Task form reference](../reference/cpg-terraform-connector-catalog-item-task-form.md).
+    For more information, see [Cloud Services Catalog Terraform Connector Terraform Catalog Item Task form reference](cpg-terraform-connector-catalog-item-task-form.md).
 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

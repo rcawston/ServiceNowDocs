@@ -27,7 +27,7 @@ Role required: sp\_admin or admin
 
 3.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Footer form](../reference/ec-footer-form.md).
+    For more information on form fields and descriptions, see [Footer form](ec-footer-form.md).
 
 4.  Click **Save** or **Submit**.
 
@@ -38,5 +38,5 @@ If you click **Save**, the Employee Center Footer Menus section appears.
 
 To configure menus for the footer, see [Configure the footer menus](config-emp-center-footer-menus.md).
 
-**Parent Topic:**[Footer configuration](../concept/emp-center-footer-config.md)
+**Parent Topic:**[Footer configuration](emp-center-footer-config.md)
 

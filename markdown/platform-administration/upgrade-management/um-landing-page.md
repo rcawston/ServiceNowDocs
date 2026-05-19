@@ -31,11 +31,11 @@ Leverage ServiceNow Upgrade Console for a comprehensive and efficient upgrade ex
 
 </td></tr><tr><td>
 
-[Administer![](../../upgrade-center/image/uc-administer-icon.png)Administering Upgrade Console](../reference/um-administer.md#)
+[Administer![](../../upgrade-center/image/uc-administer-icon.png)Administering Upgrade Console](um-administer.md#)
 
 </td><td>
 
-[Reference![](../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Console](../reference/um-references.md)
+[Reference![](../../upgrade-center/image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Console](um-references.md)
 
 </td><td>
 

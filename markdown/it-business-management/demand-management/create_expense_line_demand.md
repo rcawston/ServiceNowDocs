@@ -37,7 +37,7 @@ When a demand is converted to a project, the expense lines remain with the deman
 
 3.  On the expense line form, fill in the fields.
 
-    For a description of the field names, see [Expense line form](../reference/expense-line-form-demand.md).
+    For a description of the field names, see [Expense line form](expense-line-form-demand.md).
 
 4.  Select **Submit**
 

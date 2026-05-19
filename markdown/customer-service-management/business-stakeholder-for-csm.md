@@ -490,7 +490,7 @@ sn\_customerservice.projectstakeholder
 Internal
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
+</table>**Parent Topic:**[Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md)
 
 **Related topics**  
 

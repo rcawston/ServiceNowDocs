@@ -19,7 +19,7 @@ Change table properties such as the table label or other settings so that you ca
 
 Role required: none
 
-**Note:** User must have canWrite access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+**Note:** User must have canWrite access to **sys\_db\_object** or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -29,7 +29,7 @@ Making a table extensible means that you are enabling new tables to share column
 
 Adding record numbers means that a tracking number is created automatically for each new table entry. For example, a new entry to the Travel Requests table would get a record number like TRV1234567. You can use this number to find table records more easily.
 
-Application access settings determine whether script objects from other applications can access the table in your application. You can give these script objects access to read, create, update, or delete records on your table. Alternatively, you can disable access to your table from other applications. For more information on the application access controls, see [Table design and runtime settings](../../../build/applications/reference/r_TableApplicationAccessFields.md).
+Application access settings determine whether script objects from other applications can access the table in your application. You can give these script objects access to read, create, update, or delete records on your table. Alternatively, you can disable access to your table from other applications. For more information on the application access controls, see [Table design and runtime settings](../r_TableApplicationAccessFields.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Application access settings determine whether script objects from other applicat
 
 3.  In the dialog box that appears, update the table properties as shown in the following example.
 
-    For more information on these properties, see [Table properties](../reference/table-parameters.md#section_ezz_pft_ssb).
+    For more information on these properties, see [Table properties](table-parameters.md#section_ezz_pft_ssb).
 
     ![Editing table properties.](../image/tb-edit-table-props.png "Editing table properties")
 
@@ -48,5 +48,5 @@ Application access settings determine whether script objects from other applicat
 5.  Select **Save**.
 
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](table-builder.md)
 

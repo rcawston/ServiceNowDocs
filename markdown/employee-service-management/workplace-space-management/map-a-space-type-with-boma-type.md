@@ -19,7 +19,7 @@ Using Workplace Space Management, map a space type that you created using Workpl
 
 Ensure the following:
 
--   Space type is configured. To configure a space type, refer to [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md).
+-   Space type is configured. To configure a space type, refer to [Add a space type configuration](../workplace-core/add-space-type-configuration-wsd.md).
 -   BOMA type is configured. To configure a BOMA type, refer to [Configure a BOMA type](configure-a-boma-type.md).
 
 Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
@@ -47,16 +47,16 @@ Role required: sn\_wsd\_core.admin and sn\_wsd\_spcmgmt.manager
 
 The space type is mapped with a BOMA type. All the spaces that are assigned to this space type, will be classified with the selected BOMA type.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -80,5 +80,5 @@ The space type is mapped with a BOMA type. All the spaces that are assigned to t
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

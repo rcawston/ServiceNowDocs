@@ -34,7 +34,7 @@ You can change the resource plans that are in the Requested or Confirmed state. 
 
 The resource plan moves back to the Planning state and has the form fields enabled to make the required changes.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -69,7 +69,7 @@ The resource plan moves back to the Planning state and has the form fields enabl
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

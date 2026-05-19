@@ -19,7 +19,7 @@ Enable users to view results for their Unified Navigation searches in workspace 
 
 You must be using Next Experience UI.
 
-The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with AI Search specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](../../ai-search/task/create-search-app-config-ais.md).
+The workspace application that you want to add to the search context menu must be installed. A search application configuration record must exist for the workspace, with AI Search specified as the search engine. If you need to create a new search application configuration record for the workspace, see [Create a search application configuration for AI Search](../ai-search/create-search-app-config-ais.md).
 
 Role required: admin
 
@@ -192,22 +192,22 @@ Enter the following JSON:```json
 
 ## Result
 
-The chosen workspace appears as an option in the Unified Navigation search context menu for users who have it assigned. Users can switch to the workspace's search context. For more details on using the search context menu to switch application contexts, see [View and open search results using workspace applications in Next Experience Unified Navigation](../concept/global-search-polaris-ui.md#).
+The chosen workspace appears as an option in the Unified Navigation search context menu for users who have it assigned. Users can switch to the workspace's search context. For more details on using the search context menu to switch application contexts, see [View and open search results using workspace applications in Next Experience Unified Navigation](global-search-polaris-ui.md#).
 
-**Parent Topic:**[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+**Parent Topic:**[Global search finds records from multiple tables](c_GlobalTextSearch.md)
 
 **Related topics**  
 
 
-[Global search displays a page of matching results](../concept/global-search-polaris-ui.md#)
+[Global search displays a page of matching results](global-search-polaris-ui.md#)
 
-[Text search views control format of global search results for tables](../concept/text-search-view-formats-results.md)
+[Text search views control format of global search results for tables](text-search-view-formats-results.md)
 
-[Search settings filter and group global search results by table](../concept/search-settings-filter-group-table.md#)
+[Search settings filter and group global search results by table](search-settings-filter-group-table.md#)
 
-[Global search displays exact matching records](../concept/exact-matches-global-search.md#)
+[Global search displays exact matching records](exact-matches-global-search.md#)
 
-[Global search displays your most recent search queries and results in Next Experience UI](../concept/global-search-recent-queries-results.md)
+[Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
 [Set global text search properties](set-global-text-search-properties.md)
 
@@ -215,5 +215,5 @@ The chosen workspace appears as an option in the Unified Navigation search conte
 
 [Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 

@@ -28,7 +28,7 @@ Role required: safe\_art\_user or safe\_admin
 3.  Assess features in the backlog and move them to a PI.
 
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](program-level-tabs.md)
 
 ## Use the SAFe program list view
 

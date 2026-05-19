@@ -19,7 +19,7 @@ Assign roles to members of your investigative organization Investigative Case Ma
 
 There are a few guidelines for assigning roles to users:
 
--   Determine who will be working on the investigative cases for the organization, and what actions each user would be taking on the case. For more information on the roles available in Investigative Case Management and to determine which makes sense for each user, see [Roles installed with Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md) and [Investigative Case Management Personas](../reference/psds-data-model-icm-personas.md)
+-   Determine who will be working on the investigative cases for the organization, and what actions each user would be taking on the case. For more information on the roles available in Investigative Case Management and to determine which makes sense for each user, see [Roles installed with Public Sector Digital Services](roles-installed-with-public-sector-digital-services.md) and [Investigative Case Management Personas](psds-data-model-icm-personas.md)
 -   Create as many users as needed in your organization.
 
 Role required: admin
@@ -53,11 +53,11 @@ To delegate access to cases and create organizational teams, you can create assi
 8.  Add the desired roles to the group.
 9.  Select **Save**.
 
-For more information on the roles available in Investigative Case Management and to determine which makes sense for each user, see [Investigative Case Management roles](../reference/roles-installed-with-public-sector-digital-services.md#icm-Roles) and [Investigative Case Management Personas](../reference/psds-data-model-icm-personas.md)
+For more information on the roles available in Investigative Case Management and to determine which makes sense for each user, see [Investigative Case Management roles](roles-installed-with-public-sector-digital-services.md#icm-Roles) and [Investigative Case Management Personas](psds-data-model-icm-personas.md)
 
 ## Responsibilities
 
-The following is a list of all responsibilities that are provided with the Investigative Case Management application by default. Responsibility definitions can be used to build teams of users in the Teams tab within the Investigative Case Management workspace. You can assign these using the dropdown menus on the Teams tab. For information on creating case teams, see [Create a case team for an investigative case](../task/psds-config-icm-create-case-team.md)
+The following is a list of all responsibilities that are provided with the Investigative Case Management application by default. Responsibility definitions can be used to build teams of users in the Teams tab within the Investigative Case Management workspace. You can assign these using the dropdown menus on the Teams tab. For information on creating case teams, see [Create a case team for an investigative case](psds-config-icm-create-case-team.md)
 
 Responsibilities are different than user roles; responsibilities are tied to the case only and determined at the case level. These can only be assigned once a case has been created. A user can have multiple responsibilities across cases, per case, and a user's responsibility within a case does not affect a user role.
 

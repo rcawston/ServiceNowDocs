@@ -45,7 +45,7 @@ Role required: discovery\_admin
     |Option|Description|
     |------|-----------|
     |**Use a cluster of MID servers**|Select an existing MID Server. Clusters provide failover protection and load balancing between MID Servers. See [Configure a MID Server cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureAMIDServerCluster.md) for more information.|
-    |**Automatically select a MID server**|An available MID Server is automatically selected when the Discovery schedule runs. See [Automatic MID Server selection](../../agent-client-collector/concept/acc-auto-mid-selection.md) for more information.|
+    |**Automatically select a MID server**|An available MID Server is automatically selected when the Discovery schedule runs. See [Automatic MID Server selection](../agent-client-collector/acc-auto-mid-selection.md) for more information.|
     |**Search for a MID server**|Choose a MID Server to run the Discovery schedule. Only MID Servers that are validated, up, and have the Cloud Management capability are displayed.|
 
 7.  Select **Next**.
@@ -89,5 +89,5 @@ Role required: discovery\_admin
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created, and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](alibaba-cloud-discovery.md)
 

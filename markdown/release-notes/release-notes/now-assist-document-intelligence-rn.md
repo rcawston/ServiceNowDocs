@@ -15,11 +15,11 @@ The ServiceNow® Now Assist in Document Intelligence application uses generative
 
 ## Now Assist in Document Intelligence highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Now Assist in Document Intelligence skills are now turned on by default.
 
-[Early Availability](../quality/australia-all-other-fixes.md)
+[Early Availability](../australia-all-other-fixes.md)
 
 -   View citations for multiple attachments using the document and visual insights AI agent.
 -   Create skills with data extraction, question answering, and summarization capabilities using document and visual intelligence in Now Assist Skill Kit.
@@ -146,5 +146,5 @@ Now Assist in Document Intelligence requires the installation of the Document In
     Use ServiceNow® Now Assist in Contract Management to analyze contracts for non-standard and missing clauses, and extract information from signed contracts to automatically add in the contract repository.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

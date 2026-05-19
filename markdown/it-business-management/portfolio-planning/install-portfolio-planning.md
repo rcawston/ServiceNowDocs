@@ -29,7 +29,7 @@ The following items are installed with Portfolio Planning:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Portfolio Planning](../reference/installed-with-portfolio-planning.md).
+For more information, see [Components installed with Portfolio Planning](installed-with-portfolio-planning.md).
 
 ## Procedure
 
@@ -61,5 +61,5 @@ The following components are installed with installation of the Portfolio Planni
 -   Roles
 -   Tables
 
-See [Components installed with Portfolio Planning](../reference/installed-with-portfolio-planning.md) for more information.
+See [Components installed with Portfolio Planning](installed-with-portfolio-planning.md) for more information.
 

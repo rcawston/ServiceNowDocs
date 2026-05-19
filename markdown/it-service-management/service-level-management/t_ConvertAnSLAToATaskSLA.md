@@ -68,5 +68,5 @@ This is the workflow which powers the new Task SLA.
 
 ![Diagram of the new SLA workfow.](../image/NewSLAWorkflow.png "New SLA workflow")
 
-**Parent Topic:**[Service Level Agreement \(Legacy\) engines](../concept/c_GetStartedWithSLAs.md)
+**Parent Topic:**[Service Level Agreement \(Legacy\) engines](c_GetStartedWithSLAs.md)
 

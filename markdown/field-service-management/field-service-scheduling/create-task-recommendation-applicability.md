@@ -47,7 +47,7 @@ By default, Dispatcher Workspace and Mobile are mapped to a task recommendation 
 **Related topics**  
 
 
-[Assign work order tasks to agents using Intelligent Task Recommendation](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents using Intelligent Task Recommendation](manage-work-order-tasks-dw.md#)
 
-[Assign tasks to yourself based on Intelligent Task Recommendation](recommend-task-fsm-mobile.md)
+[Assign tasks to yourself based on Intelligent Task Recommendation](../work-order-management/recommend-task-fsm-mobile.md)
 

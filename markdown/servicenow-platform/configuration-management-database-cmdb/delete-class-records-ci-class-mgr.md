@@ -21,7 +21,7 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 ## About this task
 
-For information about policy-based, large scale automated CI deletions, see [Working with CMDB Data Manager](../concept/cmdb-data-management.md).
+For information about policy-based, large scale automated CI deletions, see [Working with CMDB Data Manager](cmdb-data-management.md).
 
 **Note:** You can't delete base system tables. For information about deleting custom tables, see [Deleting custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DeleteATable.md).
 
@@ -44,18 +44,18 @@ For information about policy-based, large scale automated CI deletions, see [Wor
 
 ## Result
 
-After deleting CIs that a dependent CI depends on, the dependent relationship is also deleted. The dependent CI becomes an orphan and is not immediately deleted. In this situation, the system attempts to cascade delete such orphan dependent CIs to prevent the accumulation of stale data and maintain the health of the CMDB. For information about how the system manages orphan dependent CIs, see [Management of orphan dependent CIs](../concept/c_CMDBClassifications.md).
+After deleting CIs that a dependent CI depends on, the dependent relationship is also deleted. The dependent CI becomes an orphan and is not immediately deleted. In this situation, the system attempts to cascade delete such orphan dependent CIs to prevent the accumulation of stale data and maintain the health of the CMDB. For information about how the system manages orphan dependent CIs, see [Management of orphan dependent CIs](c_CMDBClassifications.md).
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](r_RelatedListsOfCIComponents.md)
 
 [Create a CI class](t_CreateCIType.md)
 

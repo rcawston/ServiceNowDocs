@@ -23,7 +23,7 @@ If you are on the Rome or the San Diego releases, you must execute the full scan
 
 Select **Domain** and choose a domain to view the health check results.
 
-You can also perform a scan for a suite by selecting **Execute Scan**. Verify the scan result to act accordingly. For more information, see [.](../task/run-healthcheck.md)
+You can also perform a scan for a suite by selecting **Execute Scan**. Verify the scan result to act accordingly. For more information, see [.](run-healthcheck.md)
 
 ![Health check tab in the Success portal](../image/feb-health-check.png "Health check dashboard")
 
@@ -115,5 +115,5 @@ Categorization of issues identified as a result of the health check scan.-   Dis
 
 [Software Asset Management health check](sam-health-check.md)
 
-[Run a health check scan for Software Asset Management](../task/run-healthcheck.md)
+[Run a health check scan for Software Asset Management](run-healthcheck.md)
 

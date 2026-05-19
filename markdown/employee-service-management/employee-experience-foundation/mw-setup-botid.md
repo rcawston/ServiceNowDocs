@@ -82,12 +82,12 @@ The Moveworks application is ready for use. You can access the features and func
 
 You can perform the following actions:
 
--   Verify the Moveworks chatbot visibility from **All** &gt; **Self-Service** &gt; **Employee Center** portal. For more information, see [Use Moveworks on employee portal](../concept/mw-employee-chat-ui.md).
+-   Verify the Moveworks chatbot visibility from **All** &gt; **Self-Service** &gt; **Employee Center** portal. For more information, see [Use Moveworks on employee portal](mw-employee-chat-ui.md).
 -   Test basic functionality by invoking the assistant and asking a sample question.
 -   Check system properties and verify that all Moveworks specific properties are configured properly.
 
 **Related topics**  
 
 
-[Moveworks for Employee Center reference](../reference/mw-ec-integration-reference.md)
+[Moveworks for Employee Center reference](mw-ec-integration-reference.md)
 

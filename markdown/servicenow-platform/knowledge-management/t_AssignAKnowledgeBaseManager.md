@@ -38,7 +38,7 @@ Role required: knowledge\_admin, or admin
 
 You can remove a knowledge base manager by removing that user from the **Managers** field. If the user is not a manager of any other knowledge base, the knowledge\_manager role is removed from that user.
 
-**Parent Topic:**[Configuration tasks for knowledge managers](../concept/c_KnowledgeManager.md)
+**Parent Topic:**[Configuration tasks for knowledge managers](c_KnowledgeManager.md)
 
 **Related topics**  
 

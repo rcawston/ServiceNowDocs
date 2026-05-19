@@ -62,5 +62,5 @@ When you unpublish a schedule:
     **Note:** You can use pagination to scroll through your agents' schedules.
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 

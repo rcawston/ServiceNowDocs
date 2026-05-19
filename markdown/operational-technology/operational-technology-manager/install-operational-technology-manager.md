@@ -19,7 +19,7 @@ If you have the admin role, you can install the Operational Technology Manager a
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-**Note:** To learn more about the subscriptions required for the Operational Technology Manager, see [Subscriptions for Operational Technology Management \(OTM\)](../../operational-technology-management/concept/otm-license-module.md)
+**Note:** To learn more about the subscriptions required for the Operational Technology Manager, see [Subscriptions for Operational Technology Management \(OTM\)](../otm-license-module.md)
 
 Role required: admin
 
@@ -33,7 +33,7 @@ The following items are installed with Operational Technology Manager:
 -   Tables
 -   Script includes
 
-For more information on viewing components that are installed with Operational Technology Manager, see [Components installed with Operational Technology Manager](../reference/components-installed-with-operational-technology-manager.md).
+For more information on viewing components that are installed with Operational Technology Manager, see [Components installed with Operational Technology Manager](components-installed-with-operational-technology-manager.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information on viewing components that are installed with Operational T
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring the Operational Technology Manager](../concept/configuring-operational-technology-manager.md)
+**Parent Topic:**[Configuring the Operational Technology Manager](configuring-operational-technology-manager.md)
 

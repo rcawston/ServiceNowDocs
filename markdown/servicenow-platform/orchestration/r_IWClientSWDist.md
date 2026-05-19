@@ -15,7 +15,7 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 Several types of components are installed with client software distribution \(CSD\).
 
-**Parent Topic:**[Client Software Distribution](../concept/c_ClientSoftwareDistribution.md)
+**Parent Topic:**[Client Software Distribution](c_ClientSoftwareDistribution.md)
 
 ## Tables installed with client software distribution
 
@@ -41,7 +41,7 @@ These tables are installed with the Orchestration - Client Software Distribution
 
 These plugins are installed with the Orchestration - Client Software Distribution plugin, if they are not already active.
 
-For instructions on requesting activation of Client Software Distribution \(CSD\) see [Request client software distribution](../task/t_ActivateClientSWDistribution.md).
+For instructions on requesting activation of Client Software Distribution \(CSD\) see [Request client software distribution](t_ActivateClientSWDistribution.md).
 
 <table id="table_zvn_hpc_ks"><thead><tr><th>
 
@@ -65,7 +65,7 @@ Orchestration - Asset Lease Management \[com.snc.orchestration.asset\_lease\_man
 
 </td><td>
 
-Installs the [lease functionality](../task/t_CreateLicsAndCountsForDistSW.md#) for software distributed through the Service Catalog. This includes starting, stopping, and extending leases.
+Installs the [lease functionality](t_CreateLicsAndCountsForDistSW.md#) for software distributed through the Service Catalog. This includes starting, stopping, and extending leases.
 
 </td></tr><tr><td>
 
@@ -230,7 +230,7 @@ Controls how many days the system waits before ignoring the software installatio
  -   **Not installed**: User has not installed requested software prior to the expiration of the configured time limit.
 -   **Installed**: Software was installed within the configured time limit.
 -   **Status check expired**: Time limit has expired for the user to install the requested software. The system no longer checks the status of this deployment.
--   **Revoked**: Software was [revoked](../concept/c_SCCMSoftwareRevocation.md#) by the administrator.
+-   **Revoked**: Software was [revoked](c_SCCMSoftwareRevocation.md#) by the administrator.
 
  -   **Type**: integer
 -   **Default value**: 30
@@ -294,7 +294,7 @@ These workflows are installed with the Orchestration - Client Software Distribut
 
 |Workflow|Description|
 |--------|-----------|
-|Discover SCCM|Retrieves lists of applications, collections, and deployments from SCCM servers using custom CSD orchestration activities. An administrator runs this workflow from a UI action in a [SCCM Server Instance record](../task/t_RetrieveSCCMDataClientSWDist.md#).|
+|Discover SCCM|Retrieves lists of applications, collections, and deployments from SCCM servers using custom CSD orchestration activities. An administrator runs this workflow from a UI action in a [SCCM Server Instance record](t_RetrieveSCCMDataClientSWDist.md#).|
 |Order Client Software|Runs automatically when a user orders software from the service catalog.|
 |Deploy SCCM Application|Triggered by the Order Client Software workflow to deploy software through SCCM server. This workflow adds either the user or the device into the SCCM collection.|
 |Revoke Client Software|Begins the software revocation process for software deployed by an external provider. Administrators run this workflow from a UI action on the Requested Software record and the Installed Software Not Entitled record. This workflow triggers the appropriate provider workflow that performs the actual recovation. For example, this workflow triggers the Revoke SCCM Application workflow for applications in SCCM uninstall collections.|

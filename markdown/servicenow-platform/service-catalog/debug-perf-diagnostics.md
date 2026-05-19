@@ -70,5 +70,5 @@ The variable SQL debugger is not applicable for the following variables:
     **Note:** By default, triggered SQLs are sorted in descending order by their execution order.
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)
 

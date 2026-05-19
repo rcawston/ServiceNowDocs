@@ -21,7 +21,7 @@ You can change the idle chat reminder message and the default time after which t
 
 **Important:**
 
-Idle live chats are not available for Connect Support. Starting with the Paris release, Connect Support no longer receives enhancements or non-priority bug fixes. Consider moving to ServiceNow® Advanced Work Assignment and Agent Chat in workspace to automatically assign chat requests and other work items to agents. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](../../advanced-work-assignment/task/migrate-from-connect-support.md).
+Idle live chats are not available for Connect Support. Starting with the Paris release, Connect Support no longer receives enhancements or non-priority bug fixes. Consider moving to ServiceNow® Advanced Work Assignment and Agent Chat in workspace to automatically assign chat requests and other work items to agents. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](../advanced-work-assignment/migrate-from-connect-support.md).
 
 ## Change the idle chat reminder message
 

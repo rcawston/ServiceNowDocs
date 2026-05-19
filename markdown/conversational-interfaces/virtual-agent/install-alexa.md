@@ -28,7 +28,7 @@ The following applications are installed with Conversational Integration with Al
 
     Provides the custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
-    For more information, see [Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md).
+    For more information, see [Creating conversational custom chat integrations in Virtual Agent](va-custom-adapter-framework.md).
 
 -   **ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)**
 
@@ -160,5 +160,5 @@ The following applications are installed with Conversational Integration with Al
 }
 ```
 
-**Parent Topic:**[Conversational Integration with Alexa](../concept/conv-integ-alexa.md)
+**Parent Topic:**[Conversational Integration with Alexa](conv-integ-alexa.md)
 

@@ -34,18 +34,18 @@ To make External Content Q&amp;A Genius Results available for use in AI Search a
 
 1.  Ensure that the ServiceNow IntegrationHub Enterprise Pack Installer \[com.glide.hub.integrations.enterprise\] plugin is installed on your instance. If this plugin isn't installed, you can request it. For details on requesting IntegrationHub plugins, see [Request an Integration Hub plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/request-integrationhub.md).
 2.  Create and configure an OAuth application in the Microsoft Azure portal to verify and authorize connection requests from your ServiceNow AI Platform® instance. To learn about this procedure, see [Configure OAuth application in Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-oauth-application-in-microsoft-azure.md).
-3.  Add the AllSites.FullControl SharePoint delegated permission \(and grant admin consent\) to your new OAuth application in the Microsoft Azure portal. For details on this procedure, see [Configure SharePoint API permissions for your External Content Q&amp;A Genius Results OAuth 2.0 application](../task/grant-perms-azure-ext-cont-qna-grs.md).
-4.  Define OAuth configuration settings for External Content Q&amp;A Genius Results. For full details on the required OAuth settings, see [Configure OAuth settings for External Content Q&amp;A Genius Results](../task/configure-oauth-ext-cont-qna-gr.md).
+3.  Add the AllSites.FullControl SharePoint delegated permission \(and grant admin consent\) to your new OAuth application in the Microsoft Azure portal. For details on this procedure, see [Configure SharePoint API permissions for your External Content Q&amp;A Genius Results OAuth 2.0 application](grant-perms-azure-ext-cont-qna-grs.md).
+4.  Define OAuth configuration settings for External Content Q&amp;A Genius Results. For full details on the required OAuth settings, see [Configure OAuth settings for External Content Q&amp;A Genius Results](configure-oauth-ext-cont-qna-gr.md).
 
-Next, search administrators need to enable External Content Q&amp;A Genius Results in one or more AI Search portals. To learn about this procedure, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](../task/enable-now-assist-gr-ais-apps.md).
+Next, search administrators need to enable External Content Q&amp;A Genius Results in one or more AI Search portals. To learn about this procedure, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](enable-now-assist-gr-ais-apps.md).
 
-Once all these steps are completed, AI Search portal users can authorize External Content Q&amp;A Genius Results for their searches by authenticating with Microsoft SharePoint Online. For details on this authentication procedure, see [Sign in to Microsoft SharePoint Online to authorize External Content Q&amp;A Genius Results](../task/auth-sharepoint-ext-cont-qna-gr.md).
+Once all these steps are completed, AI Search portal users can authorize External Content Q&amp;A Genius Results for their searches by authenticating with Microsoft SharePoint Online. For details on this authentication procedure, see [Sign in to Microsoft SharePoint Online to authorize External Content Q&amp;A Genius Results](auth-sharepoint-ext-cont-qna-gr.md).
 
 **Note:** When you activate External Content Q&amp;A Genius Results in a search application, they're available to all users with Microsoft SharePoint Online credentials who search using that application.
 
 ## Limitations
 
-By default, External Content Q&amp;A Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how content and answers are translated, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md).
+By default, External Content Q&amp;A Genius Results only support English-language searches. Administrators can enable support for other languages by activating Dynamic Translation. To learn more about how content and answers are translated, see [Dynamic Translation for Now Assist Q&amp;A Genius Results](dynamic-translation-na-gr.md). For more details on Dynamic Translation, see [Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md).
 
 External Content Q&amp;A Genius Results only generate answers from documents found in your Microsoft SharePoint Online instance. They don't generate answers from sites found in your instance.
 
@@ -60,13 +60,13 @@ The following table describes the interactions between External Content Q&amp;A 
 |[Synonyms](synonyms-ais.md)|When computing External Content Q&amp;A Genius Result answers, AI Search doesn't expand synonyms found in your search.|
 |[Typo handling](typo-handling-ais.md)|When computing External Content Q&amp;A Genius Result answers, AI Search doesn't correct misspelled search terms.|
 
--   **[Configure SharePoint API permissions for your External Content Q&amp;A Genius Results OAuth 2.0 application](../task/grant-perms-azure-ext-cont-qna-grs.md)**  
+-   **[Configure SharePoint API permissions for your External Content Q&amp;A Genius Results OAuth 2.0 application](grant-perms-azure-ext-cont-qna-grs.md)**  
 Add the AllSites.FullControl SharePoint API delegated permission to your External Q&amp;A Genius Results OAuth 2.0 application in Microsoft Azure portal and grant admin consent to allow the application to access this permission. The OAuth 2.0 application for External Q&amp;A Genius Results requires the delegated permission to search your Microsoft SharePoint Online sites.
--   **[Configure OAuth settings for External Content Q&amp;A Genius Results](../task/configure-oauth-ext-cont-qna-gr.md)**  
+-   **[Configure OAuth settings for External Content Q&amp;A Genius Results](configure-oauth-ext-cont-qna-gr.md)**  
 Configure the settings that External Content Q&amp;A Genius Results need to interact with your Microsoft SharePoint Online instance.
--   **[Restrict the Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results can search](../task/filter-spo-sites-ext-cont-qa-gr.md)**  
+-   **[Restrict the Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results can search](filter-spo-sites-ext-cont-qa-gr.md)**  
 Define a Microsoft Keyword Query Language \(KQL\) query to restrict the set of Microsoft SharePoint Online sites \(paths\) that External Content Q&amp;A Genius Results can search for documents. Only documents that satisfy your query are eligible for External Content Q&amp;A Genius Result answer generation.
--   **[Sign in to Microsoft SharePoint Online to authorize External Content Q&amp;A Genius Results](../task/auth-sharepoint-ext-cont-qna-gr.md)**  
+-   **[Sign in to Microsoft SharePoint Online to authorize External Content Q&amp;A Genius Results](auth-sharepoint-ext-cont-qna-gr.md)**  
 Obtain an OAuth 2.0 token from Microsoft SharePoint Online so that External Content Q&amp;A Genius Results can find documents and generate answers when you search.
 
 **Parent Topic:**[Configuring Now Assist in AI Search](configuring-now-assist-ais.md)

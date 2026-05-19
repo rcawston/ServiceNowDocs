@@ -28,7 +28,7 @@ When you create a manual fallout record, or an automated one is generated, the f
 
 If you create a manual fallout record or an automated one is generated for the order tasks, you can easily review and track all fallout records for a specific order. Use the **Fallouts \(n\)** tab \(where n is the number of fallouts\) that appears when you view the related customer or service order in the Customer Order form.
 
-To learn more about order fallout, see [Managing order fallout](../concept/fallout-management-overview.md).
+To learn more about order fallout, see [Managing order fallout](fallout-management-overview.md).
 
 ## Procedure
 
@@ -42,13 +42,13 @@ To learn more about order fallout, see [Managing order fallout](../concept/fallo
     -   To view only the tasks that are assigned to you, select **My order tasks**.
 4.  Select the order task that you want to work on.
 
-    You can also directly access the task records for an order from the order orchestration UI. To learn more about accessing the UI, see [Order fulfillment](../concept/reviewing-orchestration-plans-order-fulfillment.md).
+    You can also directly access the task records for an order from the order orchestration UI. To learn more about accessing the UI, see [Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md).
 
 5.  For each order task, set the status by selecting an option from the **State** drop-down menu and update the work notes, as required.
 
 6.  On the Order Task form, review the order task details and update as needed.
 
-    For information about the field descriptions, see [Order Tasks form](../reference/field-descriptions-order-task-form.md).
+    For information about the field descriptions, see [Order Tasks form](field-descriptions-order-task-form.md).
 
 7.  When you finish reviewing and updating the order task or encounter issues that are preventing its closure, perform one of the actions from the following table.
 
@@ -71,5 +71,5 @@ After your agents complete all fulfillment tasks for the entire customer order, 
 
 Create MACD orders directly from the sold products. For more information, see [Request post-sale change orders](create-macd-orders.md).
 
-**Parent Topic:**[Order fulfillment](../concept/reviewing-orchestration-plans-order-fulfillment.md)
+**Parent Topic:**[Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md)
 

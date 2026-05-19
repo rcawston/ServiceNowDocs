@@ -21,7 +21,7 @@ To create a requisition on Coupa through ServiceNow Procurement application, you
 
 -   Create and publish a Coupa integration profile. For more information see, [Create a Coupa integration profile](create-coupa-int-profile.md).
 -   Ensure that the Purchase Order you create has at least one Purchase Order Line, and all Purchase Order Lines must be for software products.
--   Synchronize reference data types on both ServiceNow Procurement and Coupa applications. For more information, see [Reference data synchronization](../reference/ref-data-coupa.md).
+-   Synchronize reference data types on both ServiceNow Procurement and Coupa applications. For more information, see [Reference data synchronization](ref-data-coupa.md).
 
 If all these conditions are met, you can create a requisition in Coupa.
 

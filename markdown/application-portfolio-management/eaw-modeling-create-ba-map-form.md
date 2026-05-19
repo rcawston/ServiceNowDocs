@@ -62,5 +62,5 @@ Name of the business application. Select a business application to create the hi
 **Related topics**  
 
 
-[Create diagram for a business hierarchy map](../../task/eaw-task/eaw-modeling-ba-map.md)
+[Create diagram for a business hierarchy map](eaw-modeling-ba-map.md)
 

@@ -34,11 +34,11 @@ Role required: sn\_hs\_csc.contractor
 
 Navigate on the contractor service center to perform various tasks to qualify you to work on the site. You can use the widgets on the Contractor Service Center to perform various tasks.
 
--   Submit a safety incident to report it to the safety department for an investigation. For more information, see [Submit a safety incident as an employee](../../ohs-incident-management/task/submit-hs-incident-observation.md).
--   Submit a safety observation to report it to the safety department for an investigation. For more information, see [Submit a safety observation as an employee](../../ohs-incident-management/task/submit-hs-safety-observation.md).
--   Submit a permit-to-work request to carry out the job with significant risk. For more information, see [Create a permit-to-work request](../../hs-risk-management/task/hs-create-permit-to-work-request.md).
--   Submit a job safety analysis \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work. For more information, see [Submit a JSA from Employee Center](../../hs-risk-management/task/hs-submit-jsa-emp-center.md).
--   Access and view safety register documents for chemicals and asbestos. For more information, see [Access a safety register document in Employee center](../../hs-risk-management/task/hs-view-safety-register-docs-ec.md).
+-   Submit a safety incident to report it to the safety department for an investigation. For more information, see [Submit a safety incident as an employee](../health-and-safety-incident-management/submit-hs-incident-observation.md).
+-   Submit a safety observation to report it to the safety department for an investigation. For more information, see [Submit a safety observation as an employee](../health-and-safety-incident-management/submit-hs-safety-observation.md).
+-   Submit a permit-to-work request to carry out the job with significant risk. For more information, see [Create a permit-to-work request](../health-and-safety-risk-management/hs-create-permit-to-work-request.md).
+-   Submit a job safety analysis \(JSA\) to identify potential hazards and control measures related to these hazards at your point-of-work. For more information, see [Submit a JSA from Employee Center](../health-and-safety-risk-management/hs-submit-jsa-emp-center.md).
+-   Access and view safety register documents for chemicals and asbestos. For more information, see [Access a safety register document in Employee center](../health-and-safety-risk-management/hs-view-safety-register-docs-ec.md).
 
-**Parent Topic:**[Using the Contractor Service Center](../concept/hs-using-contractor-service-center.md)
+**Parent Topic:**[Using the Contractor Service Center](hs-using-contractor-service-center.md)
 

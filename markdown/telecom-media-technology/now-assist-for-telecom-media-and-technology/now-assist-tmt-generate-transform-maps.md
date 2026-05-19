@@ -53,5 +53,5 @@ The Transform Mapping Assist skill is designed to do the following:
         Click **OK** to continue with the mapping. If no mappings are found, an error message is displayed. You can either review the configuration settings and modify as required or create the mappings manually.
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

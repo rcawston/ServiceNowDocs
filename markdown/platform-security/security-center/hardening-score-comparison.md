@@ -35,7 +35,7 @@ The hardening score comparison page displays hardening settings with changes in 
 
 -   **Changed hardening settings**
 
-    Displays the list of hardening settings that have changed compliance statues between the selected dates. Review settings that became non-compliant and decreased your hardening comparison score for opportunities to make them compliant to increase your score. See [Increase hardening compliance score](../task/increase-hardening-comp-score.md).
+    Displays the list of hardening settings that have changed compliance statues between the selected dates. Review settings that became non-compliant and decreased your hardening comparison score for opportunities to make them compliant to increase your score. See [Increase hardening compliance score](increase-hardening-comp-score.md).
 
 
 **Parent Topic:**[Security hardening](sc-hardening.md)

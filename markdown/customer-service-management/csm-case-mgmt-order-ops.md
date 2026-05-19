@@ -42,7 +42,7 @@ Businesses can encounter order issues for many reasons such as inventory discrep
 
 ## Overview of creating an order case
 
-The following table provides an overview of the process for creating an order case. For detailed steps, see [Create an order case](../task/csm-order-ops-create-order-case.md).
+The following table provides an overview of the process for creating an order case. For detailed steps, see [Create an order case](csm-order-ops-create-order-case.md).
 
 <table id="table_hpc_lhk_fdc"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Submitting the order case record
 
 </td><td>
 
-Selecting **Submit** on the Order case record moves the order case and the order case line items to the New state. Once in the New state, agents can begin working to resolve the order case. This includes [creating tasks for order case line items](../task/csm-order-ops-order-case-create-task.md), assigning them to other agents or team members, and monitoring case progress.
+Selecting **Submit** on the Order case record moves the order case and the order case line items to the New state. Once in the New state, agents can begin working to resolve the order case. This includes [creating tasks for order case line items](csm-order-ops-order-case-create-task.md), assigning them to other agents or team members, and monitoring case progress.
 
 </td></tr></tbody>
 </table>## Order Operations Case Management plugin

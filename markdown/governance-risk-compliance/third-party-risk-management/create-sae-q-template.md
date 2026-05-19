@@ -23,7 +23,7 @@ You must set the Smart Assessment Engine enabled \[sn\_vdr\_risk\_asmt.sae\_enab
 
 **Warning:** After this option is enabled, this selection can’t be reversed.
 
-For more information, see [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md) and [Migrating from Classic Assessment Engine to Smart Assessment Engine](../concept/tprm-migrate-asmnt-sae.md).
+For more information, see [Configure TPRM properties](tprm-properties-configure.md) and [Migrating from Classic Assessment Engine to Smart Assessment Engine](tprm-migrate-asmnt-sae.md).
 
 ## About this task
 
@@ -71,7 +71,7 @@ Select the copy icon ![](../../assessment-engine/image/copy-icon.png) and make a
 </table>
 ## What to do next
 
--   If you chose to create a new template the system generates an empty template. Navigate to each corresponding tab to define the overall instructions, questions, optional guidance for responding to a question, sections that group the related questions, and scoring. For more information, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md), [Add reference information to an assessment template](../../assessment-engine/task/sae-asmnt-add-reference.md), [Configure scoring for an assessment](../../assessment-engine/task/configure-scoring-for-assessments.md), and [Normalization in assessment](../../assessment-engine/concept/normalization-in-assessment.md).
+-   If you chose to create a new template the system generates an empty template. Navigate to each corresponding tab to define the overall instructions, questions, optional guidance for responding to a question, sections that group the related questions, and scoring. For more information, see [Add instructions and questions to an assessment template](../smart-assessment-engine/sae-asmnt-template-populate.md), [Add reference information to an assessment template](../smart-assessment-engine/sae-asmnt-add-reference.md), [Configure scoring for an assessment](../smart-assessment-engine/configure-scoring-for-assessments.md), and [Normalization in assessment](../smart-assessment-engine/normalization-in-assessment.md).
 -   If you chose to copy an existing template, the system generates a template including all questions, sections, instructions, and configurations of the existing template. You can now customize it as necessary.
 
 **Note:** Not all question types are supported. Percentage, ranking, image scale, and custom metric aren’t supported. For the percentage and image scale question types, customers can use the Number type and Radio button type, respectively. Ranking and custom metric question types aren't supported. You must either convert these question types to supported formats before migration or create questions in the template designer after migration.
@@ -79,5 +79,5 @@ Select the copy icon ![](../../assessment-engine/image/copy-icon.png) and make a
 **Related topics**  
 
 
-[Using the template designer](../../assessment-engine/concept/sae-template-designer.md)
+[Using the template designer](../smart-assessment-engine/sae-template-designer.md)
 

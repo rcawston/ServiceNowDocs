@@ -63,5 +63,5 @@ Role required: atf\_triager + now\_assist\_panel\_user
     You can read the complete analysis of the failed summary record. The ATF troubleshooting agent modal first starts with the planning of next steps that includes figuring out the next steps, executing the troubleshooting agent, analyzing the test steps and logs, traced, and changed metadata. The ATF troubleshooting agent finally gives you the root cause of the failure of the selected summary record. Select Show more to view the detailed analysis of the root cause. You can also see some tips suggested by the agent to fix the issue.
 
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](atf-troubleshooting-agent-landing-page.md)
 

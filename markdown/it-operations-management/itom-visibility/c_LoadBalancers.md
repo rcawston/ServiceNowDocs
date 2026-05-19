@@ -50,7 +50,7 @@ Main CI table populated
 
 </th></tr></thead><tbody><tr><td>
 
-[A10](../reference/r_DataCollDiscoA10LoadBalancers.md)
+[A10](r_DataCollDiscoA10LoadBalancers.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Radware Load Balancer \[cmdb\_ci\_lb\_radware\]
 
 </td></tr><tr><td>
 
-[HAProxy load balancer discovery with patterns](../../service-mapping/reference/haproxy-lb-discovery-pattern.md)
+[HAProxy load balancer discovery with patterns](../discovery-and-service-mapping-patterns/haproxy-lb-discovery-pattern.md)
 
 </td><td>
 
@@ -133,13 +133,13 @@ HA Proxy
 HAProxy Load Balancer \[cmdb\_ci\_lb\_haproxy\]
 
 </td></tr></tbody>
-</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Load balancer discovery, Service Mapping, and customized CI fields
 
 Discovery collects information about the install status and operational status of load balancers. If you are using Discovery with Service Mapping, do not customize the \[operational\_status\] or \[install\_status\] fields. By default, Service Mapping ignores all host CIs for which the value of the **\[operational\_status\]** field is not **1** \(Operational\) or the value of the status **\[install\_status\]** field is **100** \(absent\). For additional information, see [Preparing customized ServiceNow deployments to work with Service Mapping](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3D334cd265db4a4fc0d7e37aa31f9619f7%26sysparm_referring_url%3Dkb_view.do) \[KB0647574\] in the HI Knowledge Base.
 
--   **[A10 load balancer discovery](../reference/r_DataCollDiscoA10LoadBalancers.md)**  
+-   **[A10 load balancer discovery](r_DataCollDiscoA10LoadBalancers.md)**  
 Discovery and Service Mapping uses patterns to collect information about A10 load balancers.
 -   **[Cisco ACE load balancer discovery](ace-load-balancer-discovery.md)**  
 Discovery identifies and classifies information about ACE load balancers.
@@ -159,7 +159,7 @@ Discovery of NGINX load balancers is performed by SSH.
 Discovery identifies and classifies information about Alteon load balancers.
 -   **[Radware-appDirector load balancer discovery](radware-appdirector.md)**  
 Discovery of Radware load balancers is performed by SNMP.
--   **[Load balancer fields and probes](../reference/r_LoadBalancerFields.md)**  
+-   **[Load balancer fields and probes](r_LoadBalancerFields.md)**  
 Discovery stores load balancer information in several tables.
 
 **Parent Topic:**[Network device discovery](c_NetworkDevices.md)

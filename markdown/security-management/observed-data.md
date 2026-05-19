@@ -91,5 +91,5 @@ Infrastructure
 Lists systems, software services, and any associated physical or virtual resources that are associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Observed data](../concept/threat-intelligence-observed-data.md)
+</table>**Parent Topic:**[Observed data](threat-intelligence-observed-data.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Orchestration ROI, Orchestration applications, Classic Orchestratio
 
 Several types of components are installed with the Orchestration - ROI plugin \(com.snc.runbook\_automation.roi\).
 
-**Parent Topic:**[Orchestration ROI](../concept/c_OrchestrationROI.md)
+**Parent Topic:**[Orchestration ROI](c_OrchestrationROI.md)
 
 ## Tables installed with Orchestration ROI
 

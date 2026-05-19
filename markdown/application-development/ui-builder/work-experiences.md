@@ -23,7 +23,7 @@ Many websites use the same basic structure on every page. For example, every pag
 
 ## Ways to create an experience
 
-You can [Create an experience for UI Builder](../task/create-experience.md) from scratch or use UI generation to assist you in building an experience.
+You can [Create an experience for UI Builder](create-experience.md) from scratch or use UI generation to assist you in building an experience.
 
 ## Experience view in UI Builder
 
@@ -39,7 +39,7 @@ The UI Builder experience view is a central place to view and understand the str
 
 ![Experience view for the Admin Center experience.](../image/experience-view-admin-center.png "UI Builder experience view")
 
--   **[Create an experience for UI Builder](../task/create-experience.md)**  
+-   **[Create an experience for UI Builder](create-experience.md)**  
 Learn how to create a workspace or portal experience for UI Builder in the ServiceNow platform.
 -   **[Configure UI Builder workspace experiences](ui-builder-workspace-settings.md)**  
 You can change the UI Builder workspace experience settings to fit your company goals.

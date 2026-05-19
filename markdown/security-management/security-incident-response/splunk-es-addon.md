@@ -141,7 +141,7 @@ Client Id
 
 </td><td>
 
-Client ID of the app created in the ServiceNow instance.For information on how to get the Client ID, see [Configure Application Registry on the ServiceNow instance](../../secops-integration-sir/secops-integration-splunk-addon/task/configure-application-registry-splunk.md).
+Client ID of the app created in the ServiceNow instance.For information on how to get the Client ID, see [Configure Application Registry on the ServiceNow instance](configure-application-registry-splunk.md).
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Client Secret
 
 </td><td>
 
-Client Secret of the app created in the ServiceNow instance.For information on how to get the Client Secret, see [Configure Application Registry on the ServiceNow instance](../../secops-integration-sir/secops-integration-splunk-addon/task/configure-application-registry-splunk.md).
+Client Secret of the app created in the ServiceNow instance.For information on how to get the Client Secret, see [Configure Application Registry on the ServiceNow instance](configure-application-registry-splunk.md).
 
 </td></tr><tr><td>
 

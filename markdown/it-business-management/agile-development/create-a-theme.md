@@ -85,7 +85,7 @@ Detailed description about the theme.
 
 ## What to do next
 
-Add epics and stories to the theme using the related lists available in the Theme record. For more information, see [Related lists for a Theme in Agile Development 2.0](../reference/related-links-lists-for-theme-in-agile-development-2.md)
+Add epics and stories to the theme using the related lists available in the Theme record. For more information, see [Related lists for a Theme in Agile Development 2.0](related-links-lists-for-theme-in-agile-development-2.md)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

@@ -59,5 +59,5 @@ Role required: sn\_sec\_tisc.analyst
     After you unlink the observables to a case then the MITRE techniques associated for that particular observable are automatically removed and the MITRE techniques list count under the artifacts section is automatically updated.
 
 
-**Parent Topic:**[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+**Parent Topic:**[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
 

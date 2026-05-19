@@ -31,16 +31,16 @@ The release lifecycle documentation AI agent is an autonomous AI agent available
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Support effective communication and collaboration across teams, instances, and changes by adding clear descriptions to update sets.|[Generate an update set description](../task/generate-update-set-description.md)|Developer|
-|Improve app governance and traceability over time by documenting the changes in a release.|[Generate release notes](../task/generate-release-notes.md)|Developer|
+|Support effective communication and collaboration across teams, instances, and changes by adding clear descriptions to update sets.|[Generate an update set description](generate-update-set-description.md)|Developer|
+|Improve app governance and traceability over time by documenting the changes in a release.|[Generate release notes](generate-release-notes.md)|Developer|
 
 ## What to explore next
 
 To learn more about configuring and using , see:
 
 -   [Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md)
--   [Generate an update set description](../task/generate-update-set-description.md)
--   [Generate release notes](../task/generate-release-notes.md)
+-   [Generate an update set description](generate-update-set-description.md)
+-   [Generate release notes](generate-release-notes.md)
 
 **Parent Topic:**[Release lifecycle documentation AI agent](release-lifecycle-documentation-agent-landing.md)
 

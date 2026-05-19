@@ -61,5 +61,5 @@ Records are imported to the Bulk Import Crisis Tasks table and copied to the Cri
 -   The user has an active case.
 -   The user is a duplicate.
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](emergency-self-report.md)
 

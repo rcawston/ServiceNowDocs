@@ -38,10 +38,10 @@ At some point in your app development, you may need to create an app in one deve
 
 ## Result
 
-The new development environment opens and you can begin working. For more information, see [Creator Studio](../../creator-studio/concept/creator-studio-landing.md) and [Developing applications with the ServiceNow IDE](../../servicenow-ide/concept/developing-applications-servicenow-ide.md).
+The new development environment opens and you can begin working. For more information, see [Creator Studio](../creator-studio/creator-studio-landing.md) and [Developing applications with the ServiceNow IDE](../servicenow-ide-family-release/developing-applications-servicenow-ide.md).
 
--   **[Viewing app origination information in ServiceNow Studio](../concept/viewing-app-origination-information-in-sns.md)**  
+-   **[Viewing app origination information in ServiceNow Studio](viewing-app-origination-information-in-sns.md)**  
 Select the best environment for app development and deployment by seeing where your app was created. View app origination information on the App details page in ServiceNow Studio.
 
-**Parent Topic:**[Using ServiceNow Studio](../concept/using-servicenow-studio.md)
+**Parent Topic:**[Using ServiceNow Studio](using-servicenow-studio.md)
 

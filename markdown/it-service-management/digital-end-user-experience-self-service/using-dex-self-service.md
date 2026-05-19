@@ -17,9 +17,9 @@ Use Digital End-user Experience Self-service to monitor device performance using
 
 You can access Device health check from the following sources:
 
--   Employee Center. See [Check device health using Employee Center](../task/check-your-device-s-using-employee-center.md).
--   Desktop Assistant. See [Check device health using Desktop Assistant](../task/check-your-device-s-health-using-desktop-assistant.md).
--   Now Assist for ITSM Virtual Agent. See [Check device health using Now Assist for ITSM Virtual Agent](../task/check-your-device-s-health-using-now-assist-for-itsm.md).
+-   Employee Center. See [Check device health using Employee Center](check-your-device-s-using-employee-center.md).
+-   Desktop Assistant. See [Check device health using Desktop Assistant](check-your-device-s-health-using-desktop-assistant.md).
+-   Now Assist for ITSM Virtual Agent. See [Check device health using Now Assist for ITSM Virtual Agent](check-your-device-s-health-using-now-assist-for-itsm.md).
 
 You might be unable to access the Device health check widget or page due to the following reasons:
 

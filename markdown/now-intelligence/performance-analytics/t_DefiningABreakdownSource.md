@@ -94,5 +94,5 @@ The breakdown source uses the following records from the Choice table:
 
 Create breakdowns that use this breakdown source. You can open the **Breakdowns** tab and click **New**. The **Breakdown** form opens, as described in [Create an automated breakdown](t_CreatingABreakdownForIndicators.md). After you create breakdowns that use this source, these breakdowns are listed in the **Breakdowns** tab.
 
-**Parent Topic:**[Breakdown sources](../concept/breakdown-sources.md)
+**Parent Topic:**[Breakdown sources](breakdown-sources.md)
 

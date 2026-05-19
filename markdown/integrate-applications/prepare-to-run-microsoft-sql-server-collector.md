@@ -34,7 +34,7 @@ The collector supports three authentication methods for Microsoft SQL Server. Al
     See [Set up permissions for harvesting SQL Server Agent jobs](prepare-to-run-microsoft-sql-server-collector.md#).
 
 
-**Parent Topic:**[Microsoft SQL Server metadata collector](../concept/microsoft-sql-server-metadata-collector.md)
+**Parent Topic:**[Microsoft SQL Server metadata collector](microsoft-sql-server-metadata-collector.md)
 
 ## Set up NTLM authentication
 

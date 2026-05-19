@@ -21,7 +21,7 @@ Role required: sn\_aia.admin
 
 The **Define security controls** step is divided into two parts: **Define user access** and **Define data access**. The former creates an ACL that determines who can discover or invoke the AI agent. The latter defines the data that the AI agent has access to once it’s invoked.
 
-See [Security for AI agents](../concept/aia-security-implementation.md) for more information about creating ACLs and user identities for security for AI agent.
+See [Security for AI agents](aia-security-implementation.md) for more information about creating ACLs and user identities for security for AI agent.
 
 ## Procedure
 

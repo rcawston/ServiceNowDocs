@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The IdentificationEngineScriptableApi uses the Identification and Reconciliation framework to minimize the creation of duplicate configuration items \(CIs\) and to reconcile CI attributes by only accepting information from authorized data sources when updating the Configuration Management Database \(CMDB\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IdentificationEngineScriptableApi - createOrUpdateCI\(String source, String input\)
 
@@ -1962,7 +1962,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the createOrUpdateCI\(String source, String input\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [createOrUpdateCI\( String source, String input\)](../../IdentificationEngineScoped/concept/IdentificationEngineScopedAPI.md#).
+To use the createOrUpdateCI\(String source, String input\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [createOrUpdateCI\( String source, String input\)](IdentificationEngineScopedAPI.md#).
 
 ## IdentificationEngineScriptableApi - createOrUpdateCIEnhanced\(String source, String input, Object options\)
 
@@ -4571,7 +4571,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the identifyCI\(String jsonString\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [identifyCI\(String jsonString\)](../../IdentificationEngineScoped/concept/IdentificationEngineScopedAPI.md#).
+To use the identifyCI\(String jsonString\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [identifyCI\(String jsonString\)](IdentificationEngineScopedAPI.md#).
 
 ## IdentificationEngineScriptableApi - identifyCIEnhanced\(String source, String input, Object options\)
 
@@ -6583,5 +6583,5 @@ while (grServer.next()) {
 
 ### Scoped equivalent
 
-To use the runIdentificationAudit\(GlideRecord now\_GR\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [runIdentificationAudit\(GlideRecord now\_GR\)](../../IdentificationEngineScoped/concept/IdentificationEngineScopedAPI.md#).
+To use the runIdentificationAudit\(GlideRecord now\_GR\) method in a scoped application, use the corresponding scoped IdentificationEngine method: [runIdentificationAudit\(GlideRecord now\_GR\)](IdentificationEngineScopedAPI.md#).
 

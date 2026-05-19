@@ -33,5 +33,5 @@ You can share threat intelligence data between TISC instances using one of the f
 
 [Automated Sharing of Outbound Intelligence Records](tisc-automated-outbound-intel-share.md)
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)
 

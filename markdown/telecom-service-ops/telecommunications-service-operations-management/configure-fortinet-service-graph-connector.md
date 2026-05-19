@@ -19,7 +19,7 @@ FortiManager is the Fortinet centralized management platform that enables you to
 
 The FortiManager JSON API is used to perform configuration and monitoring tasks on a FortiManager device. The SGC for Fortinet SD-WAN uses JSON to gather information and populate the CMDB.
 
-By using structured JSON requests over HTTPS, you can efficiently interact with FortiManager to streamline operations and scale network management tasks across multiple Fortinet devices. These APIs enable automated tasks within the Fortinet ecosystem, such as bulk configuration changes, device management, status monitoring, and inventory collection. To access the Fortinet APIs, create a user and key credentials from FortiManager. For API reference examples, see [Fortinet Service Graph Connector API Endpoints](../reference/fortinet-service-graph-connector-api-endpoints.md).
+By using structured JSON requests over HTTPS, you can efficiently interact with FortiManager to streamline operations and scale network management tasks across multiple Fortinet devices. These APIs enable automated tasks within the Fortinet ecosystem, such as bulk configuration changes, device management, status monitoring, and inventory collection. To access the Fortinet APIs, create a user and key credentials from FortiManager. For API reference examples, see [Fortinet Service Graph Connector API Endpoints](fortinet-service-graph-connector-api-endpoints.md).
 
 **Note:** A valid Telecommunications Service Operations Management subscription is required to use this connector.
 
@@ -53,5 +53,5 @@ The following sections are available under the Fortinet navigation pane. Use the
 
 ## Access the Guided Setup
 
-Use the guided setup to simplify the configuration process. This setup provides an organized sequence of steps to help you complete integration quickly and correctly. For more information, see [Set up the Service Graph Connector for Fortinet schedule](../task/set-up-fortinet-sd-wan.md).
+Use the guided setup to simplify the configuration process. This setup provides an organized sequence of steps to help you complete integration quickly and correctly. For more information, see [Set up the Service Graph Connector for Fortinet schedule](set-up-fortinet-sd-wan.md).
 

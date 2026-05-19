@@ -157,5 +157,5 @@ This condition shows the special handling note for a General Inquiry case for Ai
 </table>4.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[Use HR Case Management](../concept/c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
 

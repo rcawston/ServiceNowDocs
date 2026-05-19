@@ -24,26 +24,26 @@ An attendance and payroll management business application is used to manage empl
 -   Payroll calculation: Computes salary based on attendance, leaves taken, and tax laws
 -   Compliance reporting: Generates reports for tax and labor lax compliance.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Working with product capabilities](eaw-working-with-product-capabilities.md)
 
-[View product capabilities associated with a business application](../../task/eaw-task/eaw-view-product-capabilities-associated-with-ba.md)
+[View product capabilities associated with a business application](eaw-view-product-capabilities-associated-with-ba.md)
 
-[Create a product capability and associate it with a business application](../../task/eaw-task/eaw-create-new-product-capability-and-assoc-with-ba.md)
+[Create a product capability and associate it with a business application](eaw-create-new-product-capability-and-assoc-with-ba.md)
 
 [Manage business capabilities](eaw-manage-business-capabilities.md)
 
-[Add an existing product capability to a business application](../../task/eaw-task/add-existing-product-capability-to-ba.md)
+[Add an existing product capability to a business application](add-existing-product-capability-to-ba.md)
 
-[View product capabilities associated with a Technology Reference Model product](../../task/eaw-task/eaw-view-capabilities-associated-with-trm-product.md)
+[View product capabilities associated with a Technology Reference Model product](eaw-view-capabilities-associated-with-trm-product.md)
 
-[Create product capabilities and associate it with a Technology Reference Model product](../../task/eaw-task/eaw-create-a-new-product-capability-and-assoc-trm-product.md)
+[Create product capabilities and associate it with a Technology Reference Model product](eaw-create-a-new-product-capability-and-assoc-trm-product.md)
 
-[Add an existing product capability to a Technology Reference Model product](../../task/eaw-task/eaw-add-existing-product-capability-to-trm-product.md)
+[Add an existing product capability to a Technology Reference Model product](eaw-add-existing-product-capability-to-trm-product.md)
 
-[Remove product capabilities associated with a Technology Reference Model product](../../task/eaw-task/eaw-remove-product-capabilities-assoc-with-trm-product.md)
+[Remove product capabilities associated with a Technology Reference Model product](eaw-remove-product-capabilities-assoc-with-trm-product.md)
 

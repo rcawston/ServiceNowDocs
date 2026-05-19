@@ -38,7 +38,7 @@ Provides debugging tips for troubleshooting Service Portal configuration issues.
 
 -   **Use the widget context menu to access information and options**
 
-    CTRL+right-click a widget to access configuration options for the widget. There are also options to output the scope and scope data object to the browser console. For more detail on this menu, see [Using portal widgets](../concept/service-portal-widgets.md).
+    CTRL+right-click a widget to access configuration options for the widget. There are also options to output the scope and scope data object to the browser console. For more detail on this menu, see [Using portal widgets](service-portal-widgets.md).
 
 -   **Use script methods to capture debugging output**
 
@@ -243,5 +243,5 @@ This code can be added to the HTML code of a page to output the data object to t
     ```
 
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

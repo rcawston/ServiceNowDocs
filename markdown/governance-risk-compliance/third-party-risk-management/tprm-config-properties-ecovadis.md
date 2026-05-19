@@ -39,5 +39,5 @@ Role required: admin
     The Vendor Risk Management integration with EcoVadis application \[com.sn\_app\_grc\_ecovadis\] is updated and ready for use.
 
 
-**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](../concept/tprm-integrating-ecovadis.md)
+**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](tprm-integrating-ecovadis.md)
 

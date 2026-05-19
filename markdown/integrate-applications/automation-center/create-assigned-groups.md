@@ -38,5 +38,5 @@ Role required: sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage actions](../concept/manage-actions.md)
+**Parent Topic:**[Manage actions](manage-actions.md)
 

@@ -107,5 +107,5 @@ When an employee with direct reports becomes ineligible, the direct reports are 
 **Related topics**  
 
 
-[Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md)
+[Organization chart in Employee Center Pro](employee-profile-org-chart.md)
 

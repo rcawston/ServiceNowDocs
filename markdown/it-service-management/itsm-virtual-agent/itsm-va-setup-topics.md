@@ -35,5 +35,5 @@ The dynamic greeting is followed by the standard greeting, which asks the user t
 
 For more information about configuring the greeting setup topic, see [Change the Virtual Agent greeting messages in the Greeting setup topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-welcome-topic-selection-msgs.md).
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

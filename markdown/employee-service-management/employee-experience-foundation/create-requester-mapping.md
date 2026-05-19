@@ -43,5 +43,5 @@ A requestor-mapping record defines which field, in any given table, is the field
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](../concept/auto-import-messages.md)
+**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](auto-import-messages.md)
 

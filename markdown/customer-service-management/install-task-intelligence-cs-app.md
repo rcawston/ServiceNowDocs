@@ -34,7 +34,7 @@ The following items are installed with Task Intelligence for Customer Service:
 -   Flows
 -   Scheduled jobs
 
-For more information, see [Components installed with Task Intelligence for Customer Service](../reference/case-categorization-components.md).
+For more information, see [Components installed with Task Intelligence for Customer Service](case-categorization-components.md).
 
 ## Procedure
 

@@ -174,20 +174,20 @@ Create or close alerts according to the specified threshold. See [Set a threshol
 
 </td><td>
 
-Configure event rules to automatically bind alerts to CI information from the CMDB. See [Binding alerts to CIs](../concept/ci-binding-alert.md).
+Configure event rules to automatically bind alerts to CI information from the CMDB. See [Binding alerts to CIs](ci-binding-alert.md).
 
 </td></tr></tbody>
 </table>5.  Select **Save**, **Submit**, or **Update**.
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 
 **Related topics**  
 
 
 [Pattern matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PatternMatching.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](event-input-information.md)
 
 [Configure an event rule to customize alert content](t_EMComposeOuput.md)
 

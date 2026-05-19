@@ -64,9 +64,9 @@ To run the scan, you must add the configured scan to a job. For more information
 **Related topics**  
 
 
-[Configure custom AI-based Article Optimization scans](configure-custom-ai-based-AO-scans.md)
+[Configure custom AI-based Article Optimization scans](now-assist-in-knowledge-management/configure-custom-ai-based-AO-scans.md)
 
-[Configuring Article Optimization skill and prompts](configure-kc-AO-skill.md)
+[Configuring Article Optimization skill and prompts](now-assist-in-knowledge-management/configure-kc-AO-skill.md)
 
-[Activate Article Optimization skill](activate-kc-AO-skill.md)
+[Activate Article Optimization skill](now-assist-in-knowledge-management/activate-kc-AO-skill.md)
 

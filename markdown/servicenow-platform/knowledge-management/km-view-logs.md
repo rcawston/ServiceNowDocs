@@ -32,5 +32,5 @@ The following table describes some of the fields in the View log.
 |Session Id|Unique identifier for user session.|
 |Times Viewed|How many times the article was viewed.|
 
-**Parent Topic:**[View knowledge logs](../task/view-knowledge-logs.md)
+**Parent Topic:**[View knowledge logs](view-knowledge-logs.md)
 

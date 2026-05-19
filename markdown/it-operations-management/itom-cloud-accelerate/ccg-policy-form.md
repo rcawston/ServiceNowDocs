@@ -46,7 +46,7 @@ Resource type
 
 </td><td>
 
-Cloud resource type to be scanned through the policy. If the required resource type is not available, you can create a resource type. For more information, see [Create a resource collector](../task/create-ccg-resource-collector.md).
+Cloud resource type to be scanned through the policy. If the required resource type is not available, you can create a resource type. For more information, see [Create a resource collector](create-ccg-resource-collector.md).
 
 </td></tr></tbody>
 </table>## Policy condition

@@ -23,7 +23,7 @@ When multiple discovery sources attempt to update the same CI attribute, the [Id
 
 With CMDB 360, the raw details for every discovery source and CI combination are retained for both, discovery sources that were selected for an update and all others that were not. CMDB 360 data, consisting of records for each discovery source and CI combination, is stored in the CMDB MultiSource Data \[cmdb\_multisource\_data\] table. You can examine, query, and report on the CMDB 360 data store.
 
-You can optionally exclude classes and their descendents from collecting and processing CMDB 360 data. The CMDB MultiSource Data \[cmdb\_multisource\_data\] table doesn't contain data for those excluded classes. For more information, see [Exclude classes from CMDB 360](../task/exclude-class-cmdb360.md).
+You can optionally exclude classes and their descendents from collecting and processing CMDB 360 data. The CMDB MultiSource Data \[cmdb\_multisource\_data\] table doesn't contain data for those excluded classes. For more information, see [Exclude classes from CMDB 360](exclude-class-cmdb360.md).
 
 **Note:** CMDB 360 supports non-CMDB tables. The widely used term Configuration Item \(CI\), can also refer to a non-CMDB table record. For information about support for non-CMDB tables, see [IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md).
 
@@ -46,13 +46,13 @@ Use CMDB 360 to:
 ## Enable and configure CMDB 360
 
 -   [Activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin.
--   Navigate to **All** &gt; **Configuration** &gt; **CMDB 360 Properties**. Then, in the CMDB 360 Properties pane ensure that the [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md) \(Enables CMDB 360\) property is set to **true**.
--   Optionally, [Exclude classes from CMDB 360](../task/exclude-class-cmdb360.md).
+-   Navigate to **All** &gt; **Configuration** &gt; **CMDB 360 Properties**. Then, in the CMDB 360 Properties pane ensure that the [glide.identification\_engine.multisource\_enabled](components-multisource-cmdb.md) \(Enables CMDB 360\) property is set to **true**.
+-   Optionally, [Exclude classes from CMDB 360](exclude-class-cmdb360.md).
 
 By default, CMDB 360 tracks discovery source information for CIs from CMDB classes and doesn't collect data for non-CMDB tables. You can independently enable or disable tracking data for CMDB and for non-CMDB classes, using these system properties: ​
 
--   [glide.identification\_engine.multisource\_cmdb\_ci\_enabled](../reference/components-multisource-cmdb.md) \(Enables capturing CMDB 360 data for CIs from CMDB classes\)​
--   [glide.identification\_engine.multisource\_non\_cmdb\_ci\_enabled](../reference/components-multisource-cmdb.md) \(Enables capturing CMDB 360 data for CIs from non-CMDB classes\)
+-   [glide.identification\_engine.multisource\_cmdb\_ci\_enabled](components-multisource-cmdb.md) \(Enables capturing CMDB 360 data for CIs from CMDB classes\)​
+-   [glide.identification\_engine.multisource\_non\_cmdb\_ci\_enabled](components-multisource-cmdb.md) \(Enables capturing CMDB 360 data for CIs from non-CMDB classes\)
 
 ## Report on CMDB 360 data
 
@@ -73,5 +73,5 @@ CMDB 360 is highly verbose in the user interface:
 
 ## Logging
 
-Enable logging for CMDB 360 by adding and enabling the system property ​ [glide.cmdb.logger.source.cmdb\_multisource](../reference/components-multisource-cmdb.md). In the Log \[syslog\] table, search for entries in which `source=“cmdb_multisource”`.
+Enable logging for CMDB 360 by adding and enabling the system property ​ [glide.cmdb.logger.source.cmdb\_multisource](components-multisource-cmdb.md). In the Log \[syslog\] table, search for entries in which `source=“cmdb_multisource”`.
 

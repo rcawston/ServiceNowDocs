@@ -18,5 +18,5 @@ The following topics provide additional information about the features and prope
 -   **[Components installed with Conversation Insights](components-installed-with-conversation-insights.md)**  
 Installation of the Conversation Insights application also installs the Conversation Insights \[sn\_aci\_insights\] table.
 
-**Parent Topic:**[Enable AI experiences](../../general/reference/ai-products.md)
+**Parent Topic:**[Enable AI experiences](../ai-products.md)
 

@@ -19,7 +19,7 @@ You can define maintenance plans using model-based, meter-based, or duration-bas
 -   To schedule a printer ink cartridge replacement after printing a specified number of pages, define a general plan with a meter-based maintenance schedule.
 -   To schedule an antivirus scan on particular computers after a specified number of days, define a model-based plan with a duration-based maintenance schedule.
 
-**Parent Topic:**[Planned Maintenance](../concept/c_SMPlanMaint.md)
+**Parent Topic:**[Planned Maintenance](c_SMPlanMaint.md)
 
 ## Define a maintenance schedule for a computer reboot
 

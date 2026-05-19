@@ -34,7 +34,7 @@ An agent without the sensitive agent role can access only the primary informatio
 
 ## Application Administration enabled scoped application
 
-Universal Request is an Application administration enabled application. If you are configuring your service that is also an application administration enabled application or has it's own security modal, then you must register your application. For more information, see [Register application administration enabled scoped application](../task/ur-service-scoped-administration.md). This ensures that the security is maintained within the universal request.
+Universal Request is an Application administration enabled application. If you are configuring your service that is also an application administration enabled application or has it's own security modal, then you must register your application. For more information, see [Register application administration enabled scoped application](ur-service-scoped-administration.md). This ensures that the security is maintained within the universal request.
 
 ## Raising a sensitive universal request from the portal
 
@@ -42,7 +42,7 @@ When requesters create a request using the **Request Help** option on the Servic
 
 To help requesters identify sensitive information, a knowledge article is provided on the **Request Help** page. After determining if the request is sensitive, they can select the **Issue contains sensitive or confidential information** check box. If the check box is selected, the requester can select the department to which the issue might belong, or choose the **I'm not sure \(general submission\)**.
 
-If the Predictive Intelligence for Universal Request \[com.snc.universal\_request.ml\] plugin is installed, then the department is auto-selected, and the requester is notified about the selection. For more information, see [Activate Predictive Intelligence for Universal Request](../task/activate-predictive-intelli-ur.md). The requester can then choose to override the suggestion. On submission, this action creates a universal request marked as **Restricted**.
+If the Predictive Intelligence for Universal Request \[com.snc.universal\_request.ml\] plugin is installed, then the department is auto-selected, and the requester is notified about the selection. For more information, see [Activate Predictive Intelligence for Universal Request](activate-predictive-intelli-ur.md). The requester can then choose to override the suggestion. On submission, this action creates a universal request marked as **Restricted**.
 
 At times, agents can also create a request from an interaction, a call, or from the Self-Service module. In such cases, the agent can mark the request as **Restricted**.
 

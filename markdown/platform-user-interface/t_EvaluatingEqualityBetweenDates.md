@@ -49,5 +49,5 @@ You can specify granularity to the hour, day, week, month, quarter, or year. For
 6.  Click **Run**.
 
 
-**Parent Topic:**[Comparing field values](../reference/r_ComparingFieldValues.md)
+**Parent Topic:**[Comparing field values](r_ComparingFieldValues.md)
 

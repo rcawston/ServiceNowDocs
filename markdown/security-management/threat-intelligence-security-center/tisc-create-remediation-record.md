@@ -143,5 +143,5 @@ Lists the conditions that must be met for the vulnerability remediation to apply
 
 The remediation record is created and appears in the **Remediations** related list of the associated vulnerability and product records. The **Remediated Records Count** field on the vulnerability record is automatically incremented.
 
-**Parent Topic:**[Vulnerability Artifacts](../concept/vulnerability.md)
+**Parent Topic:**[Vulnerability Artifacts](vulnerability.md)
 

@@ -21,5 +21,5 @@ For example, pre-installed, pre-allocated servers can be set up in server racks 
 
 **Note:** Warranties aren’t active until an item is installed. Therefore, until an asset is allocated and assigned, it isn’t under warranty.
 
-You can create a pre-allocated asset, allocate the assets from pre-allocated asset records, and also split a pre-allocated asset to create a group that can be moved to a different stockroom. For more information, see [Manage pre-allocated assets](manage-preallocated-asset.md).
+You can create a pre-allocated asset, allocate the assets from pre-allocated asset records, and also split a pre-allocated asset to create a group that can be moved to a different stockroom. For more information, see [Manage pre-allocated assets](../asset-management/manage-preallocated-asset.md).
 

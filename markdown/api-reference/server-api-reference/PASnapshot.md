@@ -17,7 +17,7 @@ The PASnapshot API enables you to query information about Performance Analytics 
 
 You can query information about a snapshot at a certain date using the indicator sys\_id and date, and perform comparisons between snapshots for an indicator at different dates.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PASnapshot - getCompareIDs\(String sys\_id, Number date1, Number date2, String type\)
 

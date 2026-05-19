@@ -15,7 +15,7 @@ breadcrumb: [Creating Visual Task Boards, Using Visual Task Boards, Visual Task 
 
 You can add a task to a flexible or guided task board.
 
--   **[Create a data driven Visual Task Board](../task/t_CreateAFlexibleOrGuidedBoard.md)**  
+-   **[Create a data driven Visual Task Board](t_CreateAFlexibleOrGuidedBoard.md)**  
 You can create a flexible or guided data-driven Visual Task Board \(VTB\) for any table that extends Task, such as Incident or Change.
 
 **Parent Topic:**[Creating Visual Task Boards](c_VisualTaskBoardUse.md)
@@ -25,11 +25,11 @@ You can create a flexible or guided data-driven Visual Task Board \(VTB\) for an
 
 [Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 
-[Add a task to a flexible or guided Visual Task Board](../task/t_AddATaskToAFlexibleOrGuidedBoard.md)
+[Add a task to a flexible or guided Visual Task Board](t_AddATaskToAFlexibleOrGuidedBoard.md)
 
-[Add or modify Visual Task Board lanes](../task/t_AddOrModifyALane.md)
+[Add or modify Visual Task Board lanes](t_AddOrModifyALane.md)
 
-[Add or remove a Visual Task Board member](../task/t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
 
-[Delete a Visual Task Board](../task/t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](t_DeleteATaskBoard.md)
 

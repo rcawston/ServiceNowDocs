@@ -24,13 +24,13 @@ For example, say that you have an intern that is being transferred to a full-tim
 
 ## About this task
 
-Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\) table to store multiple job records per user and capture the job history of users within your organization. See [Capturing multiple job records for a user](../concept/support-hr-users-with-multiple-jobs.md) for more information.
+Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\) table to store multiple job records per user and capture the job history of users within your organization. See [Capturing multiple job records for a user](../hr-service-delivery/support-hr-users-with-multiple-jobs.md) for more information.
 
 ## Procedure
 
 1.  If you are using an integration to pull HR profiles from a third-party system, configure your integration to pull jobs information into the Jobs \(sn\_hr\_core\_job\) table.
 
-    For details on how to configure a third-party integration with HR Service Delivery, see [Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md).
+    For details on how to configure a third-party integration with HR Service Delivery, see [Integration of HR Service Delivery with third-party systems](../hr-service-delivery/integrate-third-party-systems.md).
 
 2.  For HR case creation, associate the subject person's job to the HR case with the **subject\_person\_job** field.
 

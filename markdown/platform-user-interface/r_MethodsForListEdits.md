@@ -42,12 +42,12 @@ The list editor lets you edit field values in a list without opening a form. Adm
 
 You can edit more than one record at the same time using the list editor or an editing form.
 
--   **[Use the list editor](../task/t_UseTheListEditor.md)**  
+-   **[Use the list editor](t_UseTheListEditor.md)**  
 The list editor enables you to edit field values directly from a list without navigating to a form.
--   **[Edit multiple records in a list using the list editor](../task/t_EditMultRecUsingListEditor.md)**  
+-   **[Edit multiple records in a list using the list editor](t_EditMultRecUsingListEditor.md)**  
 You can edit multiple records at the same time using the list editor. If you want to update a single field on multiple records to have the same value, the list editor is the quickest method.
--   **[Edit multiple records in a list using an editing form](../task/t_EditMultiRecUsingEditingForm.md)**  
+-   **[Edit multiple records in a list using an editing form](t_EditMultiRecUsingEditingForm.md)**  
 You can edit multiple records at the same time using an editing form. If you want to edit multiple fields or fields that don’t appear in the list view, use an editing form.
 
-**Parent Topic:**[Lists in the classic environment](../concept/c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
 

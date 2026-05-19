@@ -44,7 +44,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 You can view the protection path in the network diagram. To learn more, see [View the details of a network diagram](show-a-ci-related-details-network-diagram.md).
 
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](using-network-diagram.md)
 
 **Related topics**  
 

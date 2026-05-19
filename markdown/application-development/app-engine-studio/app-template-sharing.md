@@ -35,7 +35,7 @@ You can share app templates with anyone in your organization by creating a shari
 
 **Note:** If you stop sharing a template with an individual user but that user is a part of any group the template is shared with, that user is still able to see and use the template.
 
-**Parent Topic:**[Create your app using an application template](../task/use-app-template.md)
+**Parent Topic:**[Create your app using an application template](use-app-template.md)
 
 ## Manage template sharing permissions
 

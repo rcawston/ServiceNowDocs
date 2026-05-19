@@ -27,7 +27,7 @@ Select the catalog item that aligns with your request type.
 
 For example, a nurse who notices a room needs clean linens would navigate to **Create a request &gt; Request environmental service &gt; Clean Linen Delivery request** and fill in the request details.
 
-For detailed information on the Care Team Operations for Environmental Services service catalog, see [Service Catalog installed with Care Team Operations for Environmental Services](../reference/cto-evs-service-catalog.md).
+For detailed information on the Care Team Operations for Environmental Services service catalog, see [Service Catalog installed with Care Team Operations for Environmental Services](cto-evs-service-catalog.md).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Category
 
 </td><td>
 
-The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Environmental Services](../reference/cto-evs-service-catalog.md).
+The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Environmental Services](cto-evs-service-catalog.md).
 
 </td></tr><tr><td>
 

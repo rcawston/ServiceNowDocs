@@ -22,7 +22,7 @@ Domain separation is unsupported in Managed Documents. Domain separation enables
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Managed Document features](../reference/r_ManagedDocumentFeatures.md)
+**Parent Topic:**[Managed Document features](r_ManagedDocumentFeatures.md)
 
 **Related topics**  
 

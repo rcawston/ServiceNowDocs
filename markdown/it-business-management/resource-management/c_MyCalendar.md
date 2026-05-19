@@ -21,19 +21,19 @@ Resource managers view users' calendars to determine who has open time to comple
 
 The calendar uses time zones. Time is displayed to users in their local time zone according to user preferences. See [Time zones in resource plans](c_TimeZonesInResourcePlans.md).
 
-Each resource event is represented with a specific color. PPS admin can change these colors. See [Change the resource event color](../task/t_ChangeTheResourceEventColor.md)
+Each resource event is represented with a specific color. PPS admin can change these colors. See [Change the resource event color](t_ChangeTheResourceEventColor.md)
 
 **Note:** Although a user can add tasks, such as incidents, to their calendar, the user isn’t added to the task's **Assigned to** field.
 
--   **[Add events to your calendar](../task/t_AddEventsToYourCalendar.md)**  
+-   **[Add events to your calendar](t_AddEventsToYourCalendar.md)**  
 Add tasks, events, and appointments to your calendar.
--   **[Create repeatable events](../task/t_CreateRepeatableEvents.md)**  
+-   **[Create repeatable events](t_CreateRepeatableEvents.md)**  
 Events can be set to repeat on a regular schedule, such as every day, week, or month.
--   **[View a user calendar](../task/t_ViewAUserCalendar.md)**  
+-   **[View a user calendar](t_ViewAUserCalendar.md)**  
 View the calendar of a user to check availability.
--   **[Add events to a user calendar](../task/t_AddEventsToAUserCalendar.md)**  
+-   **[Add events to a user calendar](t_AddEventsToAUserCalendar.md)**  
 Resource managers can add events to user calendars.
--   **[Delete events](../task/t_DeleteEvents.md)**  
+-   **[Delete events](t_DeleteEvents.md)**  
 You can delete events you created at any time.
 
 **Parent Topic:**[Resource Management classic](c_ResourceManagement.md)

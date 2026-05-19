@@ -13,7 +13,7 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 Find all the miscellaneous information about LES in the reference section.
 
--   **[Log Export Service roles](../reference/les-roles.md)**  
+-   **[Log Export Service roles](les-roles.md)**  
 Log Export Service is installed with these roles.
 
 **Parent Topic:**[Log Export Service \(LES\)](les-intro.md)

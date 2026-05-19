@@ -44,10 +44,10 @@ To avoid this confusion, Event Management default host binding is disabled for m
 5.  Click **Save**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 
 **Related topics**  
 
 
-[Create or edit an event rule](create-or-edit-event-rule.md)
+[Create or edit an event rule](../event-management/create-or-edit-event-rule.md)
 

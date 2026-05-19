@@ -38,5 +38,5 @@ To create apps and work with templates in AES, users must be an admin or in the 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Perform AES configuration tasks](../reference/aes-config-tasks.md)
+**Parent Topic:**[Perform AES configuration tasks](aes-config-tasks.md)
 

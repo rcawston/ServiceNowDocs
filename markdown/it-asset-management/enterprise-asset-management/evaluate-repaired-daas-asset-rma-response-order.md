@@ -137,5 +137,5 @@ Notes about the task that are visible to all users within your organization.
 -   If you set the **Evaluation result** field to **Redeployable** and you performed an off-site repair, complete the corresponding Ship task by shipping the repaired asset back to the customer so that it can be redeployed. For detailed instructions, see [Complete the Ship task for a defective Device as a Service DaaS asset](ship-daas-asset-rma-response-order.md).
 -   If you set the **Repair result** field to **Unrepairable**, the customer must dispose of the asset. For detailed instructions, see [Create a disposal order in the Enterprise Asset Workspace](create-eamdisposal-order.md).
 
-**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](../concept/completing-rma-response-order-daas-assets.md)
+**Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](completing-rma-response-order-daas-assets.md)
 

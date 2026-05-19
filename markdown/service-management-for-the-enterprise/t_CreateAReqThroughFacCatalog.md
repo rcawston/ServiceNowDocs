@@ -40,5 +40,5 @@ Role required: none
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Facilities request creation](../reference/r_FacilitiesRequestCreation.md)
+**Parent Topic:**[Facilities request creation](r_FacilitiesRequestCreation.md)
 

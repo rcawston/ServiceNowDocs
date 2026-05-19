@@ -15,7 +15,7 @@ Assign a process robot credential within an unattended bot process so that the s
 
 ## Before you begin
 
-Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 Assign a robot to the bot process. For more information, see [Assign a robot to a bot process in RPA Hub](assign-robots.md).
 
@@ -85,5 +85,5 @@ Name of the bot process.This field is read-only.
 8.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 

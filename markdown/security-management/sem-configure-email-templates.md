@@ -15,7 +15,7 @@ Create and manage preconfigured email templates for sending notifications.
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
 
 ## Procedure
 

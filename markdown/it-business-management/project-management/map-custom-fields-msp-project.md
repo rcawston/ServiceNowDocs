@@ -79,20 +79,20 @@ The supported data types for field mapping between Microsoft Project and Service
 -   Import the Microsoft Project file. For more information, see [Import a Microsoft Project file with the Import module](t_ImportMicrosoftProjectFiles.md).
 -   Configure the Project form to add the custom fields that you want to see. For more information, see [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md).
 
-**Parent Topic:**[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+**Parent Topic:**[Importing and exporting projects](c_ProjectImportAndExport.md)
 
 **Related topics**  
 
 
-[Project field mapping](../reference/r_ProjectFieldMapping.md)
+[Project field mapping](r_ProjectFieldMapping.md)
 
-[Project import from Microsoft Project](../concept/project-import-msp.md)
+[Project import from Microsoft Project](project-import-msp.md)
 
 [Import project tasks for multiple projects](import-project-tasks-multiple-projects.md)
 
-[Project export to Microsoft Project](../concept/c_ProjectExportToMicrosoftProject.md)
+[Project export to Microsoft Project](c_ProjectExportToMicrosoftProject.md)
 
-[Calendars and schedules- Limitations](../concept/c_CalendarsAndSchedules.md)
+[Calendars and schedules- Limitations](c_CalendarsAndSchedules.md)
 
-[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+[Importing and exporting projects](c_ProjectImportAndExport.md)
 

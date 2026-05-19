@@ -37,17 +37,17 @@ The Parallel Review and Feedback application enables you to do the following:
 The Parallel Review and Feedback workflow outlines the systematic process by which the solution facilitates the submission of feedback on a record or specific fields within a record. Feedback could be related to any improvement or recommendation at a record level, such as data integrity, compliance, and operational procedures.
 -   **[Feedback dashboard](feedback-dashboard.md)**  
 Use the Feedback dashboard to track and manage feedback using the Risk Workspace. The Feedback dashboard organizes feedback according to its status, importance, type, and other specific factors.
--   **[Configure a feedback integration](../task/configure-feedback-integration.md)**  
+-   **[Configure a feedback integration](configure-feedback-integration.md)**  
 Configure a feedback integration setup in the Advanced Risk application to define the table on which you want to use Parallel Review and Feedback. This setup enables you to define the workspace, reviewer, and respondent for creating feedback on the table records.
 -   **[Create feedback in Advanced Risk](create-a-feedback-risk.md)**  
 Create feedback on a record or fields in a record in the Advanced Risk application. The feedback enables you to recommend improvements related to data integrity, compliance, operational procedures, and other pertinent areas.
--   **[Initiate a chat from Sidebar in Parallel Review and Feedback](../task/initiate-chat-sidebar-review-and-feedback.md)**  
+-   **[Initiate a chat from Sidebar in Parallel Review and Feedback](initiate-chat-sidebar-review-and-feedback.md)**  
 Initiate a Sidebar chat to collaborate among different stakeholders to brainstorm solutions, clarify details, or coordinate actions regarding the feedback received.
--   **[Respond to the feedback](../task/respond-to-feedback.md)**  
+-   **[Respond to the feedback](respond-to-feedback.md)**  
 Provide comments or explanations regarding the submitted feedback using the Advanced Risk application. You can either remediate or reject the feedback, provided that there’s proper justification.
--   **[Review and close the feedback](../task/review-and-close-feedback.md)**  
+-   **[Review and close the feedback](review-and-close-feedback.md)**  
 Review the feedback response and take further actions using the Advanced Risk application.
--   **[Roles for Parallel Review and Feedback](../reference/roles-for-parallel-review-and-feedback.md)**  
+-   **[Roles for Parallel Review and Feedback](roles-for-parallel-review-and-feedback.md)**  
 When you integrate Parallel Review and Feedback with other applications, users must have the necessary roles to review records, capture feedback, and track the closure of feedback.
 
 **Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)

@@ -17,7 +17,7 @@ Integrating Universal Request and Legal Service Delivery enables you to create a
 
 ## Journey of a universal request for a legal service
 
-The ServiceNow® Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. For more information, see [Universal Request](../../universal-request/concept/ur-landing-limitedaccess.md).
+The ServiceNow® Universal Request application enables cross-departmental reporting from the time of an initial employee request through the final issue resolution. For more information, see [Universal Request](../universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md).
 
 The Legal Request Management application provides a unified mechanism for employees to get all the information, services, and help that they need from the legal department.
 
@@ -35,9 +35,9 @@ The universal request gives requesters complete visibility into the status of th
 
 When the universal request is closed, the requester can reopen it if not satisfied with the resolution.
 
-For more information about submitting and tracking a universal request, see [Using Universal Request](../../universal-request/concept/using-ur.md).
+For more information about submitting and tracking a universal request, see [Using Universal Request](../universal-request-for-hr-service-delivery/using-ur.md).
 
-For more information on submitting and managing ethics complaints, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](../../legal-investigations/concept/lsd-investigations-hr-emp-relations.md).
+For more information on submitting and managing ethics complaints, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](../legal-investigations/lsd-investigations-hr-emp-relations.md).
 
 ## Required ServiceNow plugins and apps
 
@@ -47,14 +47,14 @@ For integrating universal requests for legal services, you must have the followi
 -   Legal Request Management app 6.1 or later version
 -   Employee Center app
 
-Also, you've to configure various settings in Universal Request. For more information, see [Configure Universal Request for legal services](../task/configure-universal-request-legal.md).
+Also, you've to configure various settings in Universal Request. For more information, see [Configure Universal Request for legal services](configure-universal-request-legal.md).
 
--   **[Configure Universal Request for legal services](../task/configure-universal-request-legal.md)**  
+-   **[Configure Universal Request for legal services](configure-universal-request-legal.md)**  
 Review the base system configurations for integration of legal requests with universal requests and configure as per your business needs.
--   **[Create a legal request from a universal request](../task/create-legal-request-universal-request.md)**  
+-   **[Create a legal request from a universal request](create-legal-request-universal-request.md)**  
 Create a legal request from a universal request to get the Legal department's assistance in resolving the request.
--   **[Transfer a legal ticket to another department](../task/transfer-legal-request-universal-request.md)**  
+-   **[Transfer a legal ticket to another department](transfer-legal-request-universal-request.md)**  
 Transfer a legal ticket \(legal request or legal matter\) associated with a universal request to another department or back to the universal request for processing and resolution.
 
-**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](../../lsd-sn-legal-contracts/concept/snclc-integrate-lsd-lp.md)
+**Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](snclc-integrate-lsd-lp.md)
 

@@ -48,7 +48,7 @@ You can add the following participants:
     The selected user, group, or phone number is added to the selected conference call.
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](c_NotifyConferenceCalls.md)
 
 **Related topics**  
 

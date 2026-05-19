@@ -17,7 +17,7 @@ Use this dashboard to view the status of the incidents for planning, prioritizin
 
 **Important:**
 
-Starting in Xanadu release, the Incident Overview dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the status of the incidents for planning, prioritizing, and managing customer issues.
+Starting in Xanadu release, the Incident Overview dashboard is deprecated. Users can use [Incident management dashboard](../incident.md) to view the status of the incidents for planning, prioritizing, and managing customer issues.
 
 ![Incident Overview Dasboard](../image/incident-overview-dashboard.gif "Incident Overview Dashboard")
 

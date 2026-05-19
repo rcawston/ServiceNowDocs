@@ -15,9 +15,9 @@ breadcrumb: [Administering the Automated Test Framework \(ATF\), Automated Test 
 
 Test step templates contain a list of steps to be added all at once to an automated test.
 
--   **[Create an automated test steps template](../task/atf-create-template.md)**  
+-   **[Create an automated test steps template](atf-create-template.md)**  
 Reduce testing time by creating a template containing a list of steps to add all at once to an automated test.
--   **[Edit automated test steps template](../task/atf-edit-template.md)**  
+-   **[Edit automated test steps template](atf-edit-template.md)**  
 Edit an existing test template.
 
 **Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
@@ -25,5 +25,5 @@ Edit an existing test template.
 **Related topics**  
 
 
-[Add a predefined list of steps \(template\) to an automated test](../task/atf-use-template.md)
+[Add a predefined list of steps \(template\) to an automated test](atf-use-template.md)
 

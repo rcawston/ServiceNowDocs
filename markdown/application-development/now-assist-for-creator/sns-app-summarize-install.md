@@ -51,7 +51,7 @@ Role required: admin
 
 Grant the admin and now.assist.creator roles, or the sn\_g\_app\_creator.app\_creator and now.assist.creator roles, to each user that you want to summarize apps.
 
-To summarize an app, see [Summarize the contents of an app in ServiceNow Studio](../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md).
+To summarize an app, see [Summarize the contents of an app in ServiceNow Studio](summarize-an-app-in-servicenow-studio.md).
 
-**Parent Topic:**[Configuring Now Assist for app summary generation](../concept/sns-config-now-assis-app-summarize.md)
+**Parent Topic:**[Configuring Now Assist for app summary generation](sns-config-now-assis-app-summarize.md)
 

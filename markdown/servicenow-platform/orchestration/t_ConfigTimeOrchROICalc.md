@@ -32,5 +32,5 @@ By default, the system creates a range ending at the current date and time and e
 3.  Click **Calculate** to recalculate the ROI based on the new time range and to save your settings.
 
 
-**Parent Topic:**[Orchestration ROI](../concept/c_OrchestrationROI.md)
+**Parent Topic:**[Orchestration ROI](c_OrchestrationROI.md)
 

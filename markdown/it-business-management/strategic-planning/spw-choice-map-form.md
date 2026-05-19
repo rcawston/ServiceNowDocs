@@ -61,5 +61,5 @@ Field Map record for which this choice mapping is created.This field is auto-pop
 **Related topics**  
 
 
-[Create custom choice mapping for SPW Jira integrations](../concept/custom-mapping-configuration-spw-jira.md#)
+[Create custom choice mapping for SPW Jira integrations](custom-mapping-configuration-spw-jira.md#)
 

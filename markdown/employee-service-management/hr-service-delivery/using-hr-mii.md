@@ -19,11 +19,11 @@ Use HR Multi Instance Integration to place an HR service request from a consumer
 
 If you are a provider, review the following section:
 
-1.  [Activate HR Multi Instance Integration for Provider](../task/activate-hr-multi-instance.md)
+1.  [Activate HR Multi Instance Integration for Provider](activate-hr-multi-instance.md)
 
     As an admin, install the HR Multi Instance Integration for Provider application from ServiceNow store.
 
-2.  [Configure HR Multi Instance Integration for Provider](../task/config-hr-multi-instance-1.md)
+2.  [Configure HR Multi Instance Integration for Provider](config-hr-multi-instance-1.md)
 
     As a provider administrator, import users, create connections, set up remote catalog items, enable magic links, and configure HR service.
 
@@ -36,11 +36,11 @@ If you are a provider, review the following section:
 
 If you are a consumer, review the following section:
 
-1.  [Activate HR Multi Instance Integration for Consumer](../task/activate-hr-multi-consumer.md)
+1.  [Activate HR Multi Instance Integration for Consumer](activate-hr-multi-consumer.md)
 
     As an admin, install the HR Multi Instance Integration for Consumer application from ServiceNow store.
 
-2.  [Configure HR Multi Instance Integration for Consumer](../task/config-hr-multi-instance.md)
+2.  [Configure HR Multi Instance Integration for Consumer](config-hr-multi-instance.md)
 
     As a consumer administrator, activate remote catalog items to make it visible on an employee portal for employees to place service requests. Restrict only users with specific roles to place remote requests.
 
@@ -51,5 +51,5 @@ If you are a consumer, review the following section:
 
 ## Limitations
 
-To understand more about the general guidelines and limitations for HR Multi Instance Integration, see [General guidelines and limitations](../reference/reference-hr-multi-instance.md#).
+To understand more about the general guidelines and limitations for HR Multi Instance Integration, see [General guidelines and limitations](reference-hr-multi-instance.md#).
 

@@ -136,11 +136,11 @@ For example, if you want to change the label to **Request**, press Ctrl+click on
 
 [SC Wish List Cart widget](sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 
 [Request a catalog item from Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md)
 

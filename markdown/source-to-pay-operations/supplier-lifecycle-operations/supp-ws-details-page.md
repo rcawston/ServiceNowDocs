@@ -111,11 +111,11 @@ Supplier locations
 
 Displays the geographical location of the suppliers on a map.
 
- **Note:** The Map UI component for threat and alert data feeds \(com.sn\_fam\_map\) plugin enables you to view and manage this section. Verify that you have configured the FAM map properties. For more information, see [Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md).
+ **Note:** The Map UI component for threat and alert data feeds \(com.sn\_fam\_map\) plugin enables you to view and manage this section. Verify that you have configured the FAM map properties. For more information, see [Configure properties for Supplier Case Management](config-prop-supp-mgmt.md).
 
  You can do the following:
 
--   Select the add supplier location icon \(![Add supplier location icon.](../image/add-key-contacts.png)\) to add a supplier location. For more information, see [Add a supplier location from the Source-to-Pay Workspace](../task/add-supplier-location.md).
+-   Select the add supplier location icon \(![Add supplier location icon.](../image/add-key-contacts.png)\) to add a supplier location. For more information, see [Add a supplier location from the Source-to-Pay Workspace](add-supplier-location.md).
 -   Select the toggle list view icon \(![Toggle list view icon.](../image/location-list-icon.png)\) to open the list view, which displays a list of all the supplier locations. Select the toggle map view icon \(![Toggle map view icon.](../image/location-map-icon.png)\) to return to the map view.
 -   Select the toggle full screen view icon \(![Toggle fullscreen view icon.](../image/toggle-full-icon.png)\) to view the map in full screen. Select the toggle full screen view icon \(![Toggle fullscreen view icon.](../image/toggle-exit-full-icon.png)\) to exit the full screen mode.
 
@@ -160,7 +160,7 @@ Select **Connect to external data**: Enables you to synchronize the supplier dat
 
 **Note:** The **Sync with external data** option replaces the **Connect to external data** option after you import supplier details for the first time using the **Connect to external data** option.
 
- For more information, see [Synchronize supplier data using external third-party application](../task/sync-supp-data-craft.md).
+ For more information, see [Synchronize supplier data using external third-party application](sync-supp-data-craft.md).
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ Options to create supplier cases and supplier tasks
 </td><td>
 
 Select the **Create** drop-down list to view these options:-   **Create supplier case**: Enables you to create a supplier case.
--   **Create supplier task**: Enables you to create a task for a supplier case. For more information, see [Create a task for a supplier case from the Source-to-Pay Workspace](../task/create-new-task-for-supp-case.md)
+-   **Create supplier task**: Enables you to create a task for a supplier case. For more information, see [Create a task for a supplier case from the Source-to-Pay Workspace](create-new-task-for-supp-case.md)
 
 </td></tr><tr><td>
 
@@ -737,7 +737,7 @@ The **Performance** tab is displayed only if you have installed the KPI Framewor
 
 ![Performance dashboard details page](../image/kpi-dashboard.png)
 
-To know more about the information displayed on the **Performance** tab, see [View supplier performance dashboard](../task/view-supplier-performance-dashboard.md).
+To know more about the information displayed on the **Performance** tab, see [View supplier performance dashboard](view-supplier-performance-dashboard.md).
 
 ## KPI Management
 
@@ -747,13 +747,13 @@ The **KPI Management** tab is displayed only if you have installed the KPI Frame
 
 ![KPI Management tab details page](../image/kpi-mgmt-tab.png)
 
-To know more about the information displayed on the **KPI Management** tab, see [Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](../task/kpi-mgmt-tab-supplier.md).
+To know more about the information displayed on the **KPI Management** tab, see [Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](kpi-mgmt-tab-supplier.md).
 
 ## Subsidiaries tab
 
 The **Subsidiaries** tab displays all the subsidiaries of the supplier.
 
-The **Subsidiaries** tab contains the **Add** option, which enables you to quickly add a subsidiary of the supplier. For more information, see [Add a subsidiary for a supplier from the Source-to-Pay Workspace](../task/add-subsidiary.md).
+The **Subsidiaries** tab contains the **Add** option, which enables you to quickly add a subsidiary of the supplier. For more information, see [Add a subsidiary for a supplier from the Source-to-Pay Workspace](add-subsidiary.md).
 
 ## Stakeholders
 
@@ -773,13 +773,13 @@ For more information on the stakeholders tab, see [Manage internal stakeholders]
 
 The **Documents** tab displays information about the required documents that the suppliers upload by either using this tab or from the Supplier Collaboration Portal.
 
-The **Documents** tab contains the **Link Documents** option, which enables you to quickly add an already uploaded document without creating a new one. Access to the **Link Documents** option is controlled by the user criteria you set on the **Manage access** tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](../task/create-doc-config.md).
+The **Documents** tab contains the **Link Documents** option, which enables you to quickly add an already uploaded document without creating a new one. Access to the **Link Documents** option is controlled by the user criteria you set on the **Manage access** tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](create-doc-config.md).
 
--   **[Add a supplier location from the Source-to-Pay Workspace](../task/add-supplier-location.md)**  
+-   **[Add a supplier location from the Source-to-Pay Workspace](add-supplier-location.md)**  
 Add a supplier location to visualize the geographical location that suppliers run their operations from.
--   **[Edit supplier details from the Source-to-Pay Workspace](../task/edit-supplier-details.md)**  
+-   **[Edit supplier details from the Source-to-Pay Workspace](edit-supplier-details.md)**  
 Add or modify the details of an existing supplier.
--   **[Manage documents from the Source-to-Pay Workspace](../task/upload-doc-ws.md)**  
+-   **[Manage documents from the Source-to-Pay Workspace](upload-doc-ws.md)**  
 Manage documents by uploading, updating and downloading the required documents from the Source-to-Pay Workspace.
 -   **[Playbook for updating the supplier primary data](primary-playbook-cases.md)**  
 Source-to-Pay Workspace includes a playbook that you use for updating the supplier primary data.
@@ -791,7 +791,7 @@ Using Relish integration, checking supplier's banking details, physical addresse
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage internal stakeholders](manage-internal-stakeholders.md)
 
@@ -801,9 +801,9 @@ Using Relish integration, checking supplier's banking details, physical addresse
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
@@ -811,7 +811,7 @@ Using Relish integration, checking supplier's banking details, physical addresse
 
 [Overall supplier dashboard](overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 

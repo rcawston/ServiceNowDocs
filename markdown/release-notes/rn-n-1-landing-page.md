@@ -17,35 +17,35 @@ When you upgrade from the Zurich release, understand the fixes in each release v
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Features and changes by product ![](../image/product-release-notes-for-upgrades.png) Detailed information on new products and features from Zurich to Australia](../new-features-changes.md)
+[Features and changes by product ![](../image/product-release-notes-for-upgrades.png) Detailed information on new products and features from Zurich to Australia](new-features-changes.md)
 
 </td><td>
 
-[Release notes summaries ![](../image/release-notes-summaries.png) Consolidated release notes information for all products from Zurich to Australia](../release-notes-summaries.md)
+[Release notes summaries ![](../image/release-notes-summaries.png) Consolidated release notes information for all products from Zurich to Australia](release-notes-summaries.md)
 
 </td><td>
 
-[Combined product release notes ![](../image/product-release-notes-for-upgrades.png) Combined information on new products and features from Zurich to Australia](../rn-combined/australia-zurich-combined-release-notes.md)
+[Combined product release notes ![](../image/product-release-notes-for-upgrades.png) Combined information on new products and features from Zurich to Australia](australia-zurich-combined-release-notes.md)
 
 </td></tr><tr><td>
 
-[Personalized PRB release notes ![](../image/personalized-prb.png)Generate a list of issues that were fixed between your current version and available target versions](../quality-summary/australia-summary-fixes.md)
+[Personalized PRB release notes ![](../image/personalized-prb.png)Generate a list of issues that were fixed between your current version and available target versions](australia-summary-fixes.md)
 
 </td><td>
 
-[Changes to plugins in the Australia release ![](../image/icon-plugin-changes.png) List of new, changed, renamed, and deprecated plugins](../summary/rn-summary-plugin-info.md)
+[Changes to plugins in the Australia release ![](../image/icon-plugin-changes.png) List of new, changed, renamed, and deprecated plugins](rn-summary-plugin-info.md)
 
 </td><td>
 
-[Available patches and hotfixes ![](../image/available-versions.png) Release notes for fixed issues](../available-versions.md)
+[Available patches and hotfixes ![](../image/available-versions.png) Release notes for fixed issues](available-versions.md)
 
 </td></tr><tr><td>
 
-[Browser support ![](../image/browser.png) Supported browser versions and additional requirements for specific products](../../administer/navigation-and-ui/reference/browser-support.md)
+[Browser support ![](../image/browser.png) Supported browser versions and additional requirements for specific products](browser-support.md)
 
 </td><td>
 
-[Accessibility and conformance ![](../image/accessibility.png) Accessibility conformance reports based on the voluntary product accessibility template \(VPAT\)](../../administer/accessibility-508-compliance/reference/r_Accessibility508Compliance.md)
+[Accessibility and conformance ![](../image/accessibility.png) Accessibility conformance reports based on the voluntary product accessibility template \(VPAT\)](r_Accessibility508Compliance.md)
 
 </td><td>
 

@@ -44,7 +44,7 @@ The specific conditions indicated by the Basic\* support level rating above rela
 
 For more information, see [Domain separation and On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/domain-separation-on-call-scheduling.md).
 
-**Parent Topic:**[Service Reliability Management reference](../reference/service-reliability-management-reference.md)
+**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
 
 **Related topics**  
 

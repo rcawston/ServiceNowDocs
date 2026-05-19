@@ -35,7 +35,7 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
         Users with the CAM Administrator \[sn\_irm\_cont\_auth.admin\] role can view the dashboard.
 
-        See [CAM Overview dashboard](../../../use/dashboards/application-content-packs/cam-overvw-pa-db.md).
+        See [CAM Overview dashboard](../continuous-risk-monitoring/cam-overvw-pa-db.md).
 
     -   **AO Overview dashboard**
 
@@ -45,7 +45,7 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
         Users with the Authorization Official \[sn\_irm\_cont\_auth.authorization\_official\] role can view the dashboard.
 
-        See [AO Overview dashboard](../../grc-cam/reference/reports-ao-overview.md).
+        See [AO Overview dashboard](../continuous-risk-monitoring/reports-ao-overview.md).
 
     -   **SCA Overview dashboard**
 
@@ -53,8 +53,8 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
         Users with the CAM Administrator \(sn\_irm\_cont\_auth.admin\) or Security Control Assessor \(sn\_irm\_cont\_auth.sec\_control\_assessor\) role can view the dashboard.
 
-        See [SCA Overview dashboard](../../grc-cam/reference/reports-sca-ov.md).
+        See [SCA Overview dashboard](../continuous-risk-monitoring/reports-sca-ov.md).
 
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](../concept/cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
 

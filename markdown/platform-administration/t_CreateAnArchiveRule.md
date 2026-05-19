@@ -79,7 +79,7 @@ Name
 
 </td><td>
 
-Name that identifies the rule. Used as the [display value](../../field-administration/concept/c_DisplayValues.md) for references to this archive rule.
+Name that identifies the rule. Used as the [display value](c_DisplayValues.md) for references to this archive rule.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Option to keep the sys\_id for a reference field instead of storing the display 
 
 When you enable this option on a table with archived records, the system automatically reprocesses all existing archive records and enables references. This process can take time to complete for larger archive tables. You can track the status by viewing the Archive Rule Reference Migrations \[sys\_archive\_ref\_migration\] table.
 
-For details on manually retaining references, see [Migrating non-reference fields to reference fields](../reference/archive-reference-migration.md).
+For details on manually retaining references, see [Migrating non-reference fields to reference fields](archive-reference-migration.md).
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ The time interval before the restored record is automatically archived.
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Archiving records in Core UI](../../managing-data/concept/archiving-older-records.md)
+**Parent Topic:**[Archiving records in Core UI](archiving-older-records.md)
 
 ## Activate an archive rule
 
@@ -241,7 +241,7 @@ Role required: admin
 
 You can associate a destroy rule with any archive rule in a data management policy.
 
-If you need to amend the destroy rule properties running against your archived data, see [System properties](../reference/r_SetArchiveRuleProcessingBehavior.md).
+If you need to amend the destroy rule properties running against your archived data, see [System properties](r_SetArchiveRuleProcessingBehavior.md).
 
 ### Procedure
 

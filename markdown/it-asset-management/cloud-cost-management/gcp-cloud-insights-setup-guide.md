@@ -112,7 +112,7 @@ You assign Cloud Cost Management roles to user groups and to individual users ba
 
 </td><td>
 
-[Cloud Cost Management roles](../reference/cloud-insights-roles.md)
+[Cloud Cost Management roles](cloud-insights-roles.md)
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ To ensure secure and reliable communications, the Discovery process communicates
 
 </td><td>
 
-[Configuring access to CI data on your Google Cloud account](../reference/cloud-in-midserver-config-gcp.md)
+[Configuring access to CI data on your Google Cloud account](cloud-in-midserver-config-gcp.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ When you select the **Set up Billing Download** button in the Download Billing a
 
 </td><td>
 
-[Schedule and manage the jobs that download Google Cloud billing data](../task/gcp-bill-dwnld-job-cloudin.md)
+[Schedule and manage the jobs that download Google Cloud billing data](gcp-bill-dwnld-job-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ When you select the **Set up Price Sheets Download** button in the Download Pric
 
 </td><td>
 
-[Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](../task/gcp-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Google Cloud price sheets](gcp-pricesht-sched-dwnld-cloudin.md)
 
 </td></tr><tr><td>
 

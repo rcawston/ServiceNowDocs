@@ -15,7 +15,7 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 Post incident review appears when an incident is moved to a Review state.
 
-For more detailed information on the conducting the post incident activities, see [Post incident review report](../../security-incident-response/concept/new-post-incident-review-report.md)
+For more detailed information on the conducting the post incident activities, see [Post incident review report](new-post-incident-review-report.md)
 
 The Post incident review consists of the following sections:
 
@@ -70,9 +70,9 @@ Modify the runtime configurations and generate the report. Select the Report ins
 
 [Security Incident Response Other Records](security-incident-response-other-records.md#)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Reports in Security Incident Response](report-templates-sir.md)
 

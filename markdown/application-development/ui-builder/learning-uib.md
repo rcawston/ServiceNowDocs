@@ -23,7 +23,7 @@ Exploring common use cases can be a great way to learn how to use UI Builder. Co
 Learn more about UI Builder using resources outside of the product.
 -   **[Learn about audiences](add-audiences.md)**  
 Learn how to apply the correct audiences to your UI Builder pages.
--   **[Learn about security and roles](../task/security-roles.md)**  
+-   **[Learn about security and roles](security-roles.md)**  
 Set up the security and roles for your UI Builder instance.
 -   **[Learn about domain separation](uib-domain-sep.md)**  
 Domain separation is supported for UI Builder. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

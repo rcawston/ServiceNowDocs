@@ -46,5 +46,5 @@ Create an Operational Technology incident category or subcategory that you want 
 
 The new category or subcategory is available to select on an Operational Technology incident record.
 
-**Parent Topic:**[Incident categories and subcategories](../reference/ot-incident-categories-subcategories.md)
+**Parent Topic:**[Incident categories and subcategories](ot-incident-categories-subcategories.md)
 

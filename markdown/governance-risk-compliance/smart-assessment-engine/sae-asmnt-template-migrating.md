@@ -17,7 +17,7 @@ You can use the assessment designs that you have already created by migrating th
 
 ## Overview of the migration process
 
-The sets of questions that are defined in the ServiceNow® Assessments and Surveys application are saved as metric types and are what you are migrating into SAE. When you migrate a legacy metric type to an SAE assessment template, the original metrics are saved as question types. For more information on which metric types are supported and how they are mapped to SAE, see [How legacy metric types are migrated to sections in templates](../reference/sae-how-legacy-metrics-migrated.md).
+The sets of questions that are defined in the ServiceNow® Assessments and Surveys application are saved as metric types and are what you are migrating into SAE. When you migrate a legacy metric type to an SAE assessment template, the original metrics are saved as question types. For more information on which metric types are supported and how they are mapped to SAE, see [How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md).
 
 The migration process does not support all metric types in the ServiceNow® Assessments and Surveys application. The following table lists the metric types that are not supported.
 
@@ -48,19 +48,19 @@ Generate an assessment template from an existing metric type by following this p
     -   The template is mapped to the template categories that you specified on the form.
     **Note:** The template definitions are migrated as response options if the metric data type is a template.
 
-    For more information, see [How legacy metric types are migrated to sections in templates](../reference/sae-how-legacy-metrics-migrated.md).
+    For more information, see [How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md).
 
 3.  On the Assessment Workspace, validate the assessment template and update it as needed. After the template is published, you can use it to generate assessments.
 
     **Note:** The migrated assessment templates are in the draft state after migration. You must review and publish the template before you can use it for assessments.
 
 
-For more information about migrating the legacy metric types, see [Migrate a legacy metric type to an assessment template](../task/sae-asmnt-tmplt-migrate-metrics-to.md).
+For more information about migrating the legacy metric types, see [Migrate a legacy metric type to an assessment template](sae-asmnt-tmplt-migrate-metrics-to.md).
 
 **Related topics**  
 
 
-[How legacy metric types are migrated to sections in templates](../reference/sae-how-legacy-metrics-migrated.md)
+[How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md)
 
-[Results of migrating a metric category to an assessment template](../reference/sae-migrate-asmnt-template-form.md)
+[Results of migrating a metric category to an assessment template](sae-migrate-asmnt-template-form.md)
 

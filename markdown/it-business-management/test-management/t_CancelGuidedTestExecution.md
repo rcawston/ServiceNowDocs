@@ -44,5 +44,5 @@ A message indicates that the test plan execution has been canceled and the metri
 
 The **Cancel test execution** related link on the Test Plan page changes to **Notify Tester**.
 
-**Parent Topic:**[Guided test execution](../concept/c_GuidedTestExecution.md)
+**Parent Topic:**[Guided test execution](c_GuidedTestExecution.md)
 

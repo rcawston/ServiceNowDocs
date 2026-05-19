@@ -22,7 +22,7 @@ Field Service Intelligent Task Recommendation feature requires the following plu
 -   Intelligent Task Recommendation \(sn\_task\_recommend\): Provides basic task recommendation framework scripts, configurations, and default extension points.
 -   Field Service Management Intelligent Task Recommendations \(sn\_fsm\_task\_rec\): Provides specific implementation and configuration for Field Service Management, which includes default filter constraints, ranking criteria, and Field Service Management extension points.
 
-Ensure the Field Service Management plugin is activated before you install Field Service Intelligent Task Recommendation. See [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md) for more information.
+Ensure the Field Service Management plugin is activated before you install Field Service Intelligent Task Recommendation. See [Activate Field Service Management](../t_ActivateFieldServiceManagement.md) for more information.
 
 Role required: admin
 

@@ -172,5 +172,5 @@ Specify a value, including: -   `sameorigin`. Default value. Displays the page i
     In this example, authentication is triggered in the specified instance when the SESSION\_CREATED or SESSION\_LOGGED\_OUT events occur. After authentication \(when the SSO credentials for users are accepted\), users are redirected to the embedded chat widget page that you specified in `sn_va-web_client_login.do?sysparm_redirect_uri=’ + encodeURIComponent(<your-page>)`, as long as you also specified the page URL in the **com.glide.cs.web\_client\_login\_redirect\_urls** property.
 
 
-**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](../concept/use-portable-va-web-client.md)
+**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](use-portable-va-web-client.md)
 

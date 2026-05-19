@@ -87,7 +87,7 @@ Previewing a form and managing your changes
 
 </td><td>
 
-At any point in the process, you can preview the changes you've made by selecting **Preview**. For more information, see [Preview your form](../task/preview-your-form.md).
+At any point in the process, you can preview the changes you've made by selecting **Preview**. For more information, see [Preview your form](preview-your-form.md).
 
  Save your form view changes at any point in the process by clicking **Save**. Your form view is ready and can be accessed by other applications in the ServiceNow AI Platform.
 
@@ -164,7 +164,7 @@ Preview
 
 </td><td>
 
-Select **Preview** to review the selected form as how it is displayed in the ServiceNow AI Platform. For more information on previewing, see [Preview your form](../task/preview-your-form.md).
+Select **Preview** to review the selected form as how it is displayed in the ServiceNow AI Platform. For more information on previewing, see [Preview your form](preview-your-form.md).
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ PDF extractor
 
 </td><td>
 
-If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](../../../build/app-engine-studio/concept/pdf-extractor.md#).
+If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](../app-engine-studio/pdf-extractor.md#).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Table Builder](exploring-fb.md)

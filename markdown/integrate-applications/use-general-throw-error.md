@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Throw Error component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Throw Error component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -93,5 +93,5 @@ String
     ![Output of the Throw Error component.](../image/throw-error-comp-result-rpa-studio.png "Throw Error component result")
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

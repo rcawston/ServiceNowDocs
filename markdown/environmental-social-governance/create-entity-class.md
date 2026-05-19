@@ -49,5 +49,5 @@ Entity classes are used to add conceptual information about an entity. Entity cl
 
 [Update an entity class](update-entity-class.md)
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
 

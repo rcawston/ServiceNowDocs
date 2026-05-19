@@ -126,5 +126,5 @@ Only users with the First Advantage admin role can view the **FADV Webhook Clien
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the First Advantage spoke](../task/setup-first-adv.md#).
+For information about setting up the spoke, see [Set up the First Advantage spoke](setup-first-adv.md#).
 

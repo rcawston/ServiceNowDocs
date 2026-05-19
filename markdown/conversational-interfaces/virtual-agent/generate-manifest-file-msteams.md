@@ -153,7 +153,7 @@ Message Extension or Copilot
 
 </td><td>
 
-This section allows you to activate Message extension if your bot is set up for NLU/Keyword, or activate Copilot if your bot is set up for for LLM. \(For more information on activating LLM for your bot, see [Display your chat assistant on a portal, channel, or mobile app](../../now-assist-in-va/task/display-assistant-portal-channel.md).\)-   The Message extension check box appears if you configure your bot for NLU/Keyword. Message extension lets users search and share the results through the compose message area of the Microsoft Teams client.
+This section allows you to activate Message extension if your bot is set up for NLU/Keyword, or activate Copilot if your bot is set up for for LLM. \(For more information on activating LLM for your bot, see [Display your chat assistant on a portal, channel, or mobile app](../now-assist-in-virtual-agent/display-assistant-portal-channel.md).\)-   The Message extension check box appears if you configure your bot for NLU/Keyword. Message extension lets users search and share the results through the compose message area of the Microsoft Teams client.
 
 If you're using this bot for Microsoft Copilot, then ensure that you enable **Message Extension**. ![Now Assist in Virtual Agent conversation with Microsoft Copilot displaying the Message Extension enabled.](../images/message-extension-teams.png)
 
@@ -187,5 +187,5 @@ The Sample Prompts window appears when you select the Copilot check box. Enter y
 
 [Upload the manifest package file to publish your bot](upload-package-file-msteams.md).
 
-**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](../concept/va-integ-teams-self-configured-bot.md)
+**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](va-integ-teams-self-configured-bot.md)
 

@@ -101,7 +101,7 @@ Option to select a reservable path.-   **Browse all**
 -   **Browse by neighborhood**
 -   **Browse near a person**
 
-For more information, see [Create a reservation](create-reservation-request-1.md).
+For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 **Note:** **Browse by Shift** Reservable path is available for Microsoft Outlook Add-in reservations.
 
@@ -134,9 +134,9 @@ Select this option to add another building to your reservation. You can create m
 
     If the Auto-search option is enabled by your administrator, the Search button is not displayed and the spaces are fetched automatically for reservation.
 
-    **Note:** Administrators can enable the auto-search by setting the **sn\_wsd\_rsv.enable\_auto\_search** system property to true. For more information, see [Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md).
+    **Note:** Administrators can enable the auto-search by setting the **sn\_wsd\_rsv.enable\_auto\_search** system property to true. For more information, see [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md).
 
-    **Note:** If a selected room for a meeting invite or event has an email address configured to it, the search results shows only the room that is configured with the email configuration. For example, eureka@sncplatform.onmicrosoft.com. Microsoft Outlook doesn't show any other locations while you’re searching for spaces while making a reservation. For more information, see [Add a room using Workplace Space Management](../../workplace-space-management/task/add-a-room.md).
+    **Note:** If a selected room for a meeting invite or event has an email address configured to it, the search results shows only the room that is configured with the email configuration. For example, eureka@sncplatform.onmicrosoft.com. Microsoft Outlook doesn't show any other locations while you’re searching for spaces while making a reservation. For more information, see [Add a room using Workplace Space Management](../workplace-space-management/add-a-room.md).
 
     ![Workplace Room showing mail configuration for the selected location.](../image/outlook-room-email-id.png)
 
@@ -178,7 +178,7 @@ Select this option to add another building to your reservation. You can create m
 
     ![Employees trying to book a space on their remote presence days are shown a message "It looks like you are reserving a space on your remote work day."](../image/outlook-presence-message-remote-day.png)
 
-    -   Select the URL link shown in the message to navigate to the Presence Dashboard and update your remote day to in office day. For more information, see [Set in-office days](../../workplace-concierge/task/set-in-office-days.md).![Presence dashboard showing calendar dates of your presence information. Change your remote days to in office to reserve a space in office.](../image/presence-dashboard-remote-days.png)
+    -   Select the URL link shown in the message to navigate to the Presence Dashboard and update your remote day to in office day. For more information, see [Set in-office days](../workplace-concierge/set-in-office-days.md).![Presence dashboard showing calendar dates of your presence information. Change your remote days to in office to reserve a space in office.](../image/presence-dashboard-remote-days.png)
 
         Select the **Remote** drop-down list and select **In-office** or **Visit another office** as required.
 

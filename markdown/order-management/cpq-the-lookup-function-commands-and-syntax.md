@@ -15,7 +15,7 @@ Use the lookup function to return information from a user-managed table.
 
 CPQ uses a SQL-based query language to look up user-managed tables.
 
-The lookup function returns up to 10,000 rows from a table and times out after 30 seconds if the search is still querying. For information about uploading CSV files into managed tables, see [Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md).
+The lookup function returns up to 10,000 rows from a table and times out after 30 seconds if the search is still querying. For information about uploading CSV files into managed tables, see [Matrix Loader: CSV table upload](cpq-matrix-loader-csv-table-upload.md).
 
 To learn about general guidelines for using the lookup function, see [Minimizing table queries](table_queries.md).
 

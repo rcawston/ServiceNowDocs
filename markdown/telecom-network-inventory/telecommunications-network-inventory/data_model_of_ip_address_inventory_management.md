@@ -30,12 +30,12 @@ An IP address is allocated this way:
 
 3.  The IP addresses that are ready to use in the allocated IP address table are then related to a record in the IP address table.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+[Create IP address allocation](ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 
-[IP addresses allocation](../concept/ip_address_management.md)
+[IP addresses allocation](ip_address_management.md)
 

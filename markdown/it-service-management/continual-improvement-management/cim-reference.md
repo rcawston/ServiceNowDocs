@@ -17,7 +17,7 @@ Descriptions of CIM improvement, task, and approver states and process workflow.
 
 ## Improvement states
 
-The state of an improvement indicates the [progress](../concept/cim-improvement-initiative-mgmt.md) of the improvement in the process.
+The state of an improvement indicates the [progress](cim-improvement-initiative-mgmt.md) of the improvement in the process.
 
 <table id="table_btf_d1z_ycb"><thead><tr><th>
 
@@ -206,7 +206,7 @@ Improvement is removed from the Improvement Register list.
 </td></tr></tbody>
 </table>## CIM task states
 
-An improvement contains of one or more [CIM tasks](../task/implement-cim-initiative.md) to complete the improvement. A CIM task is assigned to an owner to be responsible for the work specified.
+An improvement contains of one or more [CIM tasks](implement-cim-initiative.md) to complete the improvement. A CIM task is assigned to an owner to be responsible for the work specified.
 
 The state of a CIM task indicates the level of progress for the task.
 
@@ -484,5 +484,5 @@ UI changes display on the source application record and on the initiative record
 -   **[Updates after application record creation from improvement initiatives](updates-app-record-from-initiative.md)**  
 UI changes display on the source improvement initiative or CIM task record and on the corresponding application records of some applications when you create application records from improvement initiatives or CIM tasks.
 
-**Parent Topic:**[Continual Improvement Management](../concept/cim-landing-page.md)
+**Parent Topic:**[Continual Improvement Management](cim-landing-page.md)
 

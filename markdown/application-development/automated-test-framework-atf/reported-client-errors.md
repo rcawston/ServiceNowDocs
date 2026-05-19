@@ -71,7 +71,7 @@ Type
 
 Type of test log. Client Error
 
-**Note:** You can optionally add client errors as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, see [Allowed client errors](../concept/whitelisted-client-errors.md).
+**Note:** You can optionally add client errors as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, see [Allowed client errors](whitelisted-client-errors.md).
 
 </td></tr><tr><td>
 
@@ -82,14 +82,14 @@ Recorded at
 Time at which this step or log entry was recorded.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Run](../concept/run-module.md)
+</table>**Parent Topic:**[Run](run-module.md)
 
 **Related topics**  
 
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 
-[Manually allow client errors](../task/atf-view-manually-add-whitelisted-browser-errors.md)
+[Manually allow client errors](atf-view-manually-add-whitelisted-browser-errors.md)
 
-[Identify and resolve client errors](../task/identify-and-resolve-client-errors.md#)
+[Identify and resolve client errors](identify-and-resolve-client-errors.md#)
 

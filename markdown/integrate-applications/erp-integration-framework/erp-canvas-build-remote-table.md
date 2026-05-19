@@ -51,5 +51,5 @@ The connected model, which is defined on the remote table **Details** tab, contr
 5.  Confirm that the fields appear correctly by selecting the **Remote table fields** tab.
 
 
-**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-remote-tables.md)
+**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](erp-canvas-work-with-remote-tables.md)
 

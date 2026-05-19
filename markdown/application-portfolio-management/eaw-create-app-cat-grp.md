@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application category group, select the application category group.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new application category group form](../../reference/eaw-reference/eaw-crate-new-application-category-group-form.md).
+    For field information, see [Create new application category group form](eaw-crate-new-application-category-group-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure application category groups](../../concept/eaw-concept/eaw-setup-app-cat-groups.md)
+**Parent Topic:**[Configure application category groups](eaw-setup-app-cat-groups.md)
 
 **Related topics**  
 

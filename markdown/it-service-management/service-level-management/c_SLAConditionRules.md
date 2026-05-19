@@ -21,9 +21,9 @@ The way that the conditions in an SLA definition are interpreted, to control tra
 
 Navigate to **Service Level Management** &gt; **Administration** &gt; **SLA Condition Rules** to see a list of SLA condition records.
 
--   **[SLAConditionBase script](../reference/r_SLAConditionBase.md)**  
+-   **[SLAConditionBase script](r_SLAConditionBase.md)**  
 The SLAConditionBase script include implements the default SLA transitions.
--   **[SLAConditionSimple script](../reference/r_SLAConditionSimple.md)**  
+-   **[SLAConditionSimple script](r_SLAConditionSimple.md)**  
 The SLAConditionSimple script include provides an example modification of default SLA condition processing.
 
 **Parent Topic:**[Service Level Management reference](service-level-management-reference.md)

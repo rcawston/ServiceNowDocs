@@ -50,5 +50,5 @@ Role required: Microsoft Intune admin
     The ServiceNow mobile app has been added to the protection policy.
 
 
-**Parent Topic:**[Intune mobile device management \(MDM\)](../concept/intune-mdm.md)
+**Parent Topic:**[Intune mobile device management \(MDM\)](intune-mdm.md)
 

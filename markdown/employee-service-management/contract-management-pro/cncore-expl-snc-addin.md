@@ -27,5 +27,5 @@ Microsoft Word add-in for ServiceNow Contracts enables you to add content contro
 
 The Microsoft Word add-in enables you to add content controls on both macOS systems as well as on Windows systems, whereas adding content controls manually works only on Windows system.
 
-For more information on content controls and how to configure contract template, see [Add document content controls using Microsoft Word add-in for ServiceNow Contracts](../task/cncore-add-contrl-wrd-addin.md) and [Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md).
+For more information on content controls and how to configure contract template, see [Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md) and [Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md).
 

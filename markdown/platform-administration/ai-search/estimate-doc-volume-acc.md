@@ -72,5 +72,5 @@ If your Atlassian Confluence Cloud source system's total available document coun
 
 For details on configuring the Atlassian Confluence Cloud connector's crawl settings, see [Configure crawl settings for an Atlassian Confluence Cloud external content connector](configure-crawl-settings-cc-ext-cont-connector.md).
 
-**Parent Topic:**[Atlassian Confluence Cloud external content connector](../concept/atlassian-confluence-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Confluence Cloud external content connector](atlassian-confluence-cloud-external-content-connector.md)
 

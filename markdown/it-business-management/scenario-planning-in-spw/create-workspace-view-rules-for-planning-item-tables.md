@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [View rule form](../reference/new-view-rule-form.md).
+    For field information, see [View rule form](new-view-rule-form.md).
 
 4.  In the Conditions section, select **Add Filter Condition** and add the following condition:
 

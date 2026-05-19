@@ -60,9 +60,9 @@ Role required: sn\_si.analyst
 
 Review the **Work notes** for more information and how to proceed if you cannot verify that the lookup ran successfully.
 
-**Parent Topic:**[Shodan integration](../concept/shodan-lookups.md)
+**Parent Topic:**[Shodan integration](shodan-lookups.md)
 
 **Previous topic:**[Verify expected results for Shodan](shodan-verify-expected-results.md)
 
-**Next topic:**[Secureworks CTP Ticket Ingestion Integration](../../secops-integration-sir/secops-integration-secureworks-ticket/concept/secureworks-ctp-about.md)
+**Next topic:**[Secureworks CTP Ticket Ingestion Integration](secureworks-ctp-about.md)
 

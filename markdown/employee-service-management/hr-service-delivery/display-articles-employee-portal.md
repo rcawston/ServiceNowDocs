@@ -39,5 +39,5 @@ You can [manually train the predictive models](hr-predictive-intelligence-train.
 -   Solution name for Content Task
 -   Solution name for HR Task
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md)
 

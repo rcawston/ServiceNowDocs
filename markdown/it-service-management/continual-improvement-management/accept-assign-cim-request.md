@@ -100,10 +100,10 @@ As part of the acceptance process, the Improvement Manager determined that KPI p
 |Additional comments \(Customer visible\)|--|
 |Work notes|--|
 
-**Parent Topic:**[Managing improvements](../concept/cim-improvement-initiative-mgmt.md)
+**Parent Topic:**[Managing improvements](cim-improvement-initiative-mgmt.md)
 
 **Related topics**  
 
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](cim-field-descriptions.md)
 

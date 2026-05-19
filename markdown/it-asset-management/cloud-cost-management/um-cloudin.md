@@ -54,16 +54,16 @@ The system immediately generates the change requests. Later, at the scheduled ti
 
 Cloud Cost Management uses an optimized process for each provider.
 
--   [Unused resources analysis for AWS](../reference/aws-how-um-works-cloudin.md)
--   [Unused resources analysis for Microsoft Azure](../reference/azure-how-um-works-cloudin.md)
--   [Unused resources analysis for Google Cloud](../reference/gcp-how-um-works-cloudin.md)
+-   [Unused resources analysis for AWS](aws-how-um-works-cloudin.md)
+-   [Unused resources analysis for Microsoft Azure](azure-how-um-works-cloudin.md)
+-   [Unused resources analysis for Google Cloud](gcp-how-um-works-cloudin.md)
 
 **Related topics**  
 
 
-[Schedule unused resources to be powered off or terminated](../task/um-schedule-job-cloudin.md)
+[Schedule unused resources to be powered off or terminated](um-schedule-job-cloudin.md)
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 
-[Exclude a resource from all Cloud Cost Management reports](../task/exclusion-list-add-to-cloudin.md)
+[Exclude a resource from all Cloud Cost Management reports](exclusion-list-add-to-cloudin.md)
 

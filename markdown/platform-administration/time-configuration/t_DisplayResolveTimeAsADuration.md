@@ -38,5 +38,5 @@ You can display the resolve time as a human-readable duration rather than an int
     **Note:** This attribute does not change the field data format, which remains an integer representing a duration in seconds. In reports and data exports, it still appears as the actual number of seconds, rather than as a duration.
 
 
-**Parent Topic:**[Resolve time](../concept/c_ResolveTime.md)
+**Parent Topic:**[Resolve time](c_ResolveTime.md)
 

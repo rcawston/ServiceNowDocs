@@ -17,9 +17,9 @@ See what an application experience built in App Engine Studio \(AES\) looks like
 
 ## Before you begin
 
-Add an experience to your application. For more information, see [Add an application experience](../concept/add-experience.md).
+Add an experience to your application. For more information, see [Add an application experience](add-experience.md).
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 
 If the experience looks or behaves differently than expected, edit the experience.
 
-**Parent Topic:**[Editing an experience in App Engine Studio](../concept/edit-experience.md)
+**Parent Topic:**[Editing an experience in App Engine Studio](edit-experience.md)
 

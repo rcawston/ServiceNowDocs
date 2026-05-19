@@ -56,5 +56,5 @@ This catalog item form allows capability to assign one or more security groups \
 
 Tag \(key-value\) is assigned to all deployed resources. Example: VM, network, storage as present in the stack. The key-value is updated only in the cmdb\_key\_value table, not in public cloud, at this time. This will be fixed in future releases to update the tags in cloud.
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

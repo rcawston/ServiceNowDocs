@@ -211,5 +211,5 @@ Instruction that is used to reject escalation sent to the catch all users from c
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 

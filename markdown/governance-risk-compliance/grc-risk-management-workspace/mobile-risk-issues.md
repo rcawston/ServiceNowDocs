@@ -109,5 +109,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](mobile-risk-overview.md)
 

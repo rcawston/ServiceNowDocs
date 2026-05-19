@@ -187,9 +187,9 @@ Displays the journal records. The Import Journals flow imports these records fro
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-Two connection and credential records are available along with the spoke. You must configure these alias record to use the spoke. See [Set up the Oracle Financial Cloud spoke](../task/setup-oracle-fin-cloud.md#) for more information.
+Two connection and credential records are available along with the spoke. You must configure these alias record to use the spoke. See [Set up the Oracle Financial Cloud spoke](setup-oracle-fin-cloud.md#) for more information.
 
 **Note:** Depending on the Oracle Financial Cloud policies and account settings, you may have to change or refresh the credentials in your credential record periodically.
 
-For information about setting up the spoke, see [Set up the Oracle Financial Cloud spoke](../task/setup-oracle-fin-cloud.md#).
+For information about setting up the spoke, see [Set up the Oracle Financial Cloud spoke](setup-oracle-fin-cloud.md#).
 

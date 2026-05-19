@@ -42,7 +42,7 @@ The following illustration describes the basic tasks involved in creating an att
 ## RPA Hub benefits
 
 -   Enables you to deploy, monitor, manage, and verify the compliance of all robots at an enterprise level from a centralized location.
--   Manages the metadata that includes robots, packages, bot processes, queues, schedules, shared parameters, and alerts. For more information about these terms, see [Robotic Process Automation \(RPA\) Hub glossary](../reference/rpa-hub-glossary.md#).
+-   Manages the metadata that includes robots, packages, bot processes, queues, schedules, shared parameters, and alerts. For more information about these terms, see [Robotic Process Automation \(RPA\) Hub glossary](rpa-hub-glossary.md#).
 -   Triggers unattended robots with the execution details.
 -   Provides insights into the complete Robotic Process Automation \(RPA\) practice via a dashboard. From this dashboard, you can see the current execution status \(jobs and queues\) and event correlation between the various configuration items.
 
@@ -52,7 +52,7 @@ To learn more about configuring and managing RPA Hub, see:
 
 -   [Configuring RPA Hub](rpa-hub-setup.md)
 -   [Using RPA Hub](managing-rpa-hub.md)
--   [RPA Hub reference](../reference/rpa-hub-reference.md)
+-   [RPA Hub reference](rpa-hub-reference.md)
 
 **Related topics**  
 
@@ -63,11 +63,11 @@ To learn more about configuring and managing RPA Hub, see:
 
 [Migrating your data from a lower environment to a higher environment in RPA Hub](migrate-data-rpa-hub.md)
 
-[Obtaining client authentication and code signing certificates for RPA Hub](../../rpa-core/concept/code-signing-certificate-rpa.md)
+[Obtaining client authentication and code signing certificates for RPA Hub](code-signing-certificate-rpa.md)
 
-[Applying the CSDM guidelines to RPA Hub](../../rpa-core/concept/rpa-hub-apply-csdm.md)
+[Applying the CSDM guidelines to RPA Hub](rpa-hub-apply-csdm.md)
 
-[Domain separation and Robotic Process Automation \(RPA\) Hub](../../rpa-core/concept/domain-separation-rpahub.md)
+[Domain separation and Robotic Process Automation \(RPA\) Hub](domain-separation-rpahub.md)
 
 [Migrating the bot process configuration in RPA Hub](bot-process-migration.md)
 

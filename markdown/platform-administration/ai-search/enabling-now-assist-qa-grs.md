@@ -18,7 +18,7 @@ As a search administrator, you can use the Now Assist Q&amp;A Genius Results ski
 
 ## Enable Now Assist Q&amp;A Genius Results in AI Search portals and mobile applications
 
-For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist Genius Results in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](../task/enable-now-assist-gr-ais-apps.md).
+For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist Genius Results in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](enable-now-assist-gr-ais-apps.md).
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
 
@@ -32,7 +32,7 @@ The [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 
 The AI Search for Next Experience application must be installed and enabled on your instance. For more information about the application, see [AI Search for Next Experience](ais-next-experience-app.md).
 
-The Now Assist for Search application must be installed on your instance. For details on installing this application from the Now Assist Admin console, see [Install Now Assist in AI Search](../task/install-now-assist-ais.md).
+The Now Assist for Search application must be installed on your instance. For details on installing this application from the Now Assist Admin console, see [Install Now Assist in AI Search](install-now-assist-ais.md).
 
 Role required: ais\_admin
 
@@ -96,7 +96,7 @@ Order
 
 </td><td>
 
-Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result configurations for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](../task/set-gr-eval-order-srch-profile-ais.md).
+Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result configurations for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](set-gr-eval-order-srch-profile-ais.md).
 
 </td></tr></tbody>
 </table>    5.  Select **Submit**.

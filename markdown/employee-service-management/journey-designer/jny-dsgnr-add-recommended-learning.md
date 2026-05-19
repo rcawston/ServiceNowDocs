@@ -38,5 +38,5 @@ Role required: Manager or mentor
 6.  Click **Add course** to add the selected course\(s\) to the widget.
 
 
-**Parent Topic:**[Display learning recommendations to the Manager creating a journey](../concept/jny-dsgnr-learning-recom-manager-ml.md)
+**Parent Topic:**[Display learning recommendations to the Manager creating a journey](jny-dsgnr-learning-recom-manager-ml.md)
 

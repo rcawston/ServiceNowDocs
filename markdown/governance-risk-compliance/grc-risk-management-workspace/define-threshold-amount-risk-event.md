@@ -39,7 +39,7 @@ In the previous example, the following rules are applied.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Financial Impact Approval Thresholds form, see [Financial Impact Approval Thresholds](../reference/financial-impact-approval-thresholds-form.md).
+    For a description of the field values on the Financial Impact Approval Thresholds form, see [Financial Impact Approval Thresholds](financial-impact-approval-thresholds-form.md).
 
 5.  Select **Submit**.
 
@@ -48,8 +48,8 @@ In the previous example, the following rules are applied.
 
 The response template is updated with the threshold limit and approver details.
 
--   **[Financial Impact Approval Thresholds](../reference/financial-impact-approval-thresholds-form.md)**  
+-   **[Financial Impact Approval Thresholds](financial-impact-approval-thresholds-form.md)**  
 Use the Financial Impact Approval Thresholds form to define monetary thresholds that trigger approval requirements for risk events and to configure how approvers are determined when those thresholds are met.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

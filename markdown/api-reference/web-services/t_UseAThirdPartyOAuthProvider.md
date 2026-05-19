@@ -69,7 +69,7 @@ OAuth API Script
 
 </td><td>
 
-This option enables you to reference an amended OAuthUtil script include. Copy and rename the default OAuthUtil script include file, and then amend this version for specific requests and responses to match your 3rd party OAuth provider. The amended script name must have the prefix **OAuth**. See [OAuthUtil](../../../app-store/dev_portal/API_reference/OAuthUtil/concept/c_OAuthUtilScriptInclude.md#) to add the required body parameter in the proper method.
+This option enables you to reference an amended OAuthUtil script include. Copy and rename the default OAuthUtil script include file, and then amend this version for specific requests and responses to match your 3rd party OAuth provider. The amended script name must have the prefix **OAuth**. See [OAuthUtil](../server-api-reference/c_OAuthUtilScriptInclude.md#) to add the required body parameter in the proper method.
 
 </td></tr><tr><td>
 
@@ -187,8 +187,8 @@ The entity scopes associated with the OAuth provider. The scope identifies the s
 
 You can [create additional profiles](t_SpecifyAnOAuthProfile.md), each with scopes.
 
--   **[OAuth profiles and scopes](../concept/c_OAuthProviderAndScope.md)**  
+-   **[OAuth profiles and scopes](c_OAuthProviderAndScope.md)**  
 In the OAuth provider scenario, profiles and scopes specify the grant type, authorization type, and level of access.
 
-**Parent Topic:**[Configure a REST message with OAuth](../../../integrate/outbound-rest/task/t_ConfigureARESTMessageWithOAuth.md)
+**Parent Topic:**[Configure a REST message with OAuth](t_ConfigureARESTMessageWithOAuth.md)
 

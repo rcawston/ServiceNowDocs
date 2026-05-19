@@ -79,7 +79,7 @@ Configuration collector
 
 \(Optional\) Configuration collector that can import the configuration keys.If the required configuration data is not available at the cloud resource level, select the configuration collector that can import the configuration keys.
 
- If a suitable configuration collector is not available, create a configuration collector and then select it. For more information on creating the configuration collector, see [Create a configuration collector](../task/create-ccg-config-collector.md).
+ If a suitable configuration collector is not available, create a configuration collector and then select it. For more information on creating the configuration collector, see [Create a configuration collector](create-ccg-config-collector.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)

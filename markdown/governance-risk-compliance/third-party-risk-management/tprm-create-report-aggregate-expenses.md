@@ -29,7 +29,7 @@ Administrators maintain the currency rates and validation rules. Currency rates 
 
 2.  Fill in the entity details including the LEI \(Legal Entity Identifier\), entity name, country, and type of entity and set the report type to **Consolidated**.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
 3.  Enable currency conversion by selecting **Yes** and specify the base currency \(for example, EUR\).
 

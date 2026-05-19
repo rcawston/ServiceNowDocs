@@ -41,5 +41,5 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up specifications and product offerings](../concept/order-mgt-product-catalog.md)
+**Parent Topic:**[Setting up specifications and product offerings](order-mgt-product-catalog.md)
 

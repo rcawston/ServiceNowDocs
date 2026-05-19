@@ -23,5 +23,5 @@ The DISH service communicates with the Mimir lookup table to determine the end p
 
 **Note:** The Now Assist Conversational Help skill version is stored in sn\_ads\_now\_help.com.snc\_now\_help\_skill.version, ensuring backward compatibility within the conversational shared services.
 
-**Parent Topic:**[Now Assist reference](../../now-assist-admin/reference/now-assist-reference-landing.md)
+**Parent Topic:**[Now Assist reference](now-assist-reference-landing.md)
 

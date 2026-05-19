@@ -51,7 +51,7 @@ When you drill down to CI details, how those details appear depends on system se
 
     For more information, see:
 
-    -   [Components installed with Service Graph Workspace](../reference/installed-with-sg-workspace.md): **sn\_cmdb\_ws.explore\_ci.record.enabled** system property.
+    -   [Components installed with Service Graph Workspace](installed-with-sg-workspace.md): **sn\_cmdb\_ws.explore\_ci.record.enabled** system property.
     -   [Manage CI details using CI Form in Service Graph Workspace](ci-form-sg-workspace.md).
 -   **CI details pane**
 
@@ -80,7 +80,7 @@ When you drill down to CI details, how those details appear depends on system se
     -   Service Relationships: List of business applications, service offerings, and application services that the CI may be related to.
     On the CI details pane, you can:
 
-    -   Select **Open Dependency View** to open the [Dependency Views](../../business-service-management-map-ng/concept/c_BusinesssServiceManagementMaps.md) map and display a graphic infrastructure view of the specific CI record.
+    -   Select **Open Dependency View** to open the [Dependency Views](../dependency-views/c_BusinesssServiceManagementMaps.md) map and display a graphic infrastructure view of the specific CI record.
     -   Select **View CMDB 360 Data** to show CMDB 360 details at the CI attribute level for the specific CI record.
     -   Select **Save** to save any changes made to attributes for the CI record.
 
@@ -215,11 +215,11 @@ To learn more about configuring and using Service Graph Workspace, see:
     -   [Insights view in Service Graph Workspace](sg-workspace-insights-view.md)
     -   [Tasks view in Service Graph Workspace](sg-workspace-tasks-view.md)
     -   [Lists view in Service Graph Workspace](sg-workspace-lists-view.md)
-    -   [SGC Central](../../sgc-central/reference/sgcc-landing.md) \(if installed\)
-    -   [CMDB success advisor](../../cmdb-success-advisor/reference/cmdb-sa.md) \(if installed\)
+    -   [SGC Central](../sgcc-landing.md) \(if installed\)
+    -   [CMDB success advisor](cmdb-sa.md) \(if installed\)
 -   [Configuring Service Graph Workspace](configuring-sg-workspace.md)
--   [Resume a disabled Cloud vs Non-cloud resources scheduled job](../task/sg-workspace-resume-cloud-job.md)
--   [Edit a related table from CMDB performance insights in Service Graph Workspace](../task/sginsights-update-record-rltd-table.md)
--   [Edit a scheduled data import from CMDB performance insights in Service Graph Workspace](../task/sg-insights-schedule-data-import.md)
--   [Components installed with Service Graph Workspace](../reference/installed-with-sg-workspace.md)
+-   [Resume a disabled Cloud vs Non-cloud resources scheduled job](sg-workspace-resume-cloud-job.md)
+-   [Edit a related table from CMDB performance insights in Service Graph Workspace](sginsights-update-record-rltd-table.md)
+-   [Edit a scheduled data import from CMDB performance insights in Service Graph Workspace](sg-insights-schedule-data-import.md)
+-   [Components installed with Service Graph Workspace](installed-with-sg-workspace.md)
 

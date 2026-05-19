@@ -22,26 +22,26 @@ Applications must be procured from the ServiceNow Store if any of the following 
 -   The application requires a paid license or subscription.
 -   The application requires the provider's approval to install.
 
-Application state indicators can help you determine whether an application must be procured from the ServiceNow Store before it can be installed. Any applicable application state indicators are shown as part of application details page in the Application Manager. For more information about application state indicators, see [Application state indicators in Application Manager](../../application-manager/reference/app-mgr-state-indicators.md).
+Application state indicators can help you determine whether an application must be procured from the ServiceNow Store before it can be installed. Any applicable application state indicators are shown as part of application details page in the Application Manager. For more information about application state indicators, see [Application state indicators in Application Manager](application-manager/app-mgr-state-indicators.md).
 
 Procure apps for any production or non-production instance in one of the following ways:
 
--   [Get a free application](../task/store-get-free-app.md)
+-   [Get a free application](store-get-free-app.md)
 
     Get an app that's available at no additional cost from the ServiceNow Store when the app has custom terms and conditions or requires provider approval.
 
--   [Buy a ServiceNow application](../task/buy-servicenow-app.md)
+-   [Buy a ServiceNow application](buy-servicenow-app.md)
 
     Log in to the ServiceNow Store and purchase an application that lists ServiceNow as the provider.
 
--   [Buy a partner application](../task/buy-partner-app.md)
+-   [Buy a partner application](buy-partner-app.md)
 
     Log in to the ServiceNow Store and purchase an application that lists a non-ServiceNow provider.
 
 
 Many apps provide a 30-day trial at no additional cost. The trial enables you to install the app on your non-production instances to determine whether you want to continue with procurement for production instances.
 
-If a trial is available for an app, the listing has a **Request 30-day trial** option in the app listingand the app details page in the Application Manager shows the "Trial Available" state indicator.. For more information about starting an app trial, see [Start an application trial from the ServiceNow Store](../task/start-trial.md).
+If a trial is available for an app, the listing has a **Request 30-day trial** option in the app listingand the app details page in the Application Manager shows the "Trial Available" state indicator.. For more information about starting an app trial, see [Start an application trial from the ServiceNow Store](start-trial.md).
 
 Once an app has been procured, it’s available to install from the Application Manager.
 
@@ -51,7 +51,7 @@ Once an app has been procured, it’s available to install from the Application 
 
     Procure products from the ServiceNow Store based on the terms of your license. A product is a collection of functionalities, typically including multiple applications, that aims to fulfill a category of business need.
 
--   [Contact a seller](../task/contact-seller.md)
+-   [Contact a seller](contact-seller.md)
 
     Contact an app's provider through the ServiceNow Store to ask questions about the app and its procurement.
 
@@ -63,7 +63,7 @@ Once an app has been procured, it’s available to install from the Application 
 
     Learn about when terms and conditions must be signed in the ServiceNow Store. Unsigned terms and conditions block procurement and installations.
 
--   [Application Manager](../../application-manager/concept/application-manager.md)
+-   [Application Manager](application-manager/application-manager.md)
 
     Use the Application Manager to install, update, repair, or uninstall an app after it's been procured.
 

@@ -38,5 +38,5 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
     After the incident is copied, the **Activity** timeline of the new incident is updated with the original incident as a work note.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

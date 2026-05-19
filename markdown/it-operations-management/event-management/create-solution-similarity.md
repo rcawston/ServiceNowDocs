@@ -161,5 +161,5 @@ The system schedules the solution for training with the nearest training service
 
 Review the trained similarity solution examples in the **Similarity Examples** related link on your ML Solution Definition form.
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](alert-similarity.md)
 

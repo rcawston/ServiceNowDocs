@@ -37,10 +37,10 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
     Creating and editing of opportunity, position, or application table records from lists and forms can result in unwanted behavior. Lists and forms should be updated from the Employee Center portal.
 
-    -   Gig: For details on gigs, see [Gig opportunities](../concept/egd-oppt-mrktplc-gig.md).
-    -   Project: For details about what a project is, see [Project opportunity](../concept/egd-oppt-mrktplc-project.md)
-    -   Volunteer: For details about what a volunteer opportunity is, see [Volunteer opportunities](../concept/egd-oppt-mrktplc-volunteer.md)
-    **Tip:** If you need a different opportunity type, you can create custom opportunity types. For more details, read [Creating custom opportunity types in Opportunity Marketplace](../concept/egd-oppt-mrktplc-custom-oppt-type.md).
+    -   Gig: For details on gigs, see [Gig opportunities](egd-oppt-mrktplc-gig.md).
+    -   Project: For details about what a project is, see [Project opportunity](egd-oppt-mrktplc-project.md)
+    -   Volunteer: For details about what a volunteer opportunity is, see [Volunteer opportunities](egd-oppt-mrktplc-volunteer.md)
+    **Tip:** If you need a different opportunity type, you can create custom opportunity types. For more details, read [Creating custom opportunity types in Opportunity Marketplace](egd-oppt-mrktplc-custom-oppt-type.md).
 
 3.  Select a template, then select **Next**.
 
@@ -56,7 +56,7 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
         For information about creating user groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md).
 
-    To read details about the opportunity forms and fields, see [Form fields for creating opportunities in Opportunity Marketplace](../reference/egd-oppt-mrktplc-oppty-form-fields.md).
+    To read details about the opportunity forms and fields, see [Form fields for creating opportunities in Opportunity Marketplace](egd-oppt-mrktplc-oppty-form-fields.md).
 
 5.  Select **Next**.
 
@@ -66,7 +66,7 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
 7.  Fill in the form with the role details.
 
-    To read more details about the role form and fields, see [Form fields for creating opportunities in Opportunity Marketplace](../reference/egd-oppt-mrktplc-oppty-form-fields.md).
+    To read more details about the role form and fields, see [Form fields for creating opportunities in Opportunity Marketplace](egd-oppt-mrktplc-oppty-form-fields.md).
 
 8.  Review the details of your opportunity.
 
@@ -74,8 +74,8 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
 9.  When you’re satisfied with your opportunity, select **Publish**.
 
-    You may be prompted to **Submit for approval** instead. This occurs when the opportunity meets specific conditions, requiring approval prior to publishing. For more information, see [Opportunity publishing approval](../concept/egd-oppt-pubs-approval.md).
+    You may be prompted to **Submit for approval** instead. This occurs when the opportunity meets specific conditions, requiring approval prior to publishing. For more information, see [Opportunity publishing approval](egd-oppt-pubs-approval.md).
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

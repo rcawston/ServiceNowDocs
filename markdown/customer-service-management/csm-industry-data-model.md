@@ -39,9 +39,9 @@ Use the Service Model Foundation framework to model the service organization str
 **Related topics**  
 
 
-[Configure Service Model Foundation](../task/configure-industry-data-model.md)
+[Configure Service Model Foundation](configure-industry-data-model.md)
 
-[Service Model Foundation business locations](../reference/industry-data-model-locations.md)
+[Service Model Foundation business locations](industry-data-model-locations.md)
 
 [Integration with Sales Customer Relationship Management](integration-with-sales-and-order-management.md)
 

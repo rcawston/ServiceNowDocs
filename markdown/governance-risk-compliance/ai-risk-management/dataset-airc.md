@@ -25,7 +25,7 @@ The following image shows the overview page of datasets.
 
 ![Datasets overview page](../image/datasets-overview-page.png "Datasets overview page")
 
-An AI dataset record provides an aggregated risk score. The individual risk scores for entities, that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md).
+An AI dataset record provides an aggregated risk score. The individual risk scores for entities, that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](../grc-risk-management-workspace/risk-rollup-ara-concept.md).
 
 **Important:** To see the aggregated risk score, you must enable the **Migrate to Advanced Risk Assessments** \(`sn_risk_advanced.migrate_to_advanced_risk`\) under **All** &gt; **Advanced Risk** &gt; **Properties**.
 

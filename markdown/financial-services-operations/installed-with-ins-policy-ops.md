@@ -38,9 +38,9 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](financial-services-operations-core-data-model.md).|
 |Personal Lines Underwriting|Enables management of personal underwriting services tasks that are used in insurance policy service cases. For more information, see [Components installed with Personal Lines Underwriting](installed-with-fso-underwriting-ops.md).|
-|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md).|
+|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [Integrating with Document Processor](integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -84,7 +84,7 @@ Personal insurance contributor\[sn\_ins\_policy\_b2c.contributor\]
 
 </td><td>
 
-Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -251,5 +251,5 @@ Policy Participant Info\[sn\_ins\_policy\_b2c\_policy\_participant\_info\]
 This is an Info table which stores the changes to policy coverages which can take place as part of servicing a case against a policy.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personal Lines Servicing reference](../concept/ins-policy-ops-reference.md)
+</table>**Parent Topic:**[Personal Lines Servicing reference](ins-policy-ops-reference.md)
 

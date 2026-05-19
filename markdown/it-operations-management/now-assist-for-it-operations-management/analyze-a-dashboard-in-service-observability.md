@@ -34,7 +34,7 @@ Note the following:
 
 ## Before you begin
 
-You need to manually activate this skill before it can be used. See [Activate the analyze Service Observability dashboard skill](../task/activate-the-analyze-service-observability-dashboard-skill.md) for more information.
+You need to manually activate this skill before it can be used. See [Activate the analyze Service Observability dashboard skill](activate-the-analyze-service-observability-dashboard-skill.md) for more information.
 
 Role required: admin, operator
 
@@ -50,7 +50,7 @@ Role required: admin, operator
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../../service-observability/reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](../service-observability/chart-error-states.md).
 
 2.  To the right of the dashboard name, select **Analyze dashboard**.
 

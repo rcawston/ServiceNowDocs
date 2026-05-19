@@ -69,5 +69,5 @@ The user can then modify the rejected time sheet and submit it again for approva
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 

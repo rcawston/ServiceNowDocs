@@ -61,7 +61,7 @@ The following image illustrates the appointment cancellation flow.
 **Related topics**  
 
 
-[Configure Conversational Appointment Booking](../task/conv-appt-booking-config.md)
+[Configure Conversational Appointment Booking](conv-appt-booking-config.md)
 
-[Using Conversational Appointment Booking](conv_appt_booking_using.md)
+[Using Conversational Appointment Booking](../conv_appt_booking_using.md)
 

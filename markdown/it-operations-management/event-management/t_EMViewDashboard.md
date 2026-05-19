@@ -47,7 +47,7 @@ Each tile represents the highest severity of an alert for the service, alert gro
 
 1.  To integrate with Operational Intelligence, activate the Operational Intelligence \(com.snc.sa.metric\) plugin.
 
-    Follow the steps in the [Get started with Metric Intelligence](get-started-metrics.md) topic. Metrics information appears on the **Metrics** tab in the Service Operations Workspace.
+    Follow the steps in the [Get started with Metric Intelligence](../metric-intelligence/get-started-metrics.md) topic. Metrics information appears on the **Metrics** tab in the Service Operations Workspace.
 
 
 -   **[View discovered service history](t_EMViewAlertHistory.md)**  
@@ -57,10 +57,10 @@ To view information for application services only, navigate to the application s
 -   **[View monitored services](monitor-services.md)**  
 View all services that Event Management supports, such as, alert groups, discovered services, application services, and technical services. According to the type of service, you can view service definition details or drill down into the service.
 
-**Parent Topic:**[Using Event Management](../concept/user-guide.md)
+**Parent Topic:**[Using Event Management](user-guide.md)
 
 **Related topics**  
 
 
-[View metric values in the Insights Explorer](view-metrics-explorer.md)
+[View metric values in the Insights Explorer](../metric-intelligence/view-metrics-explorer.md)
 

@@ -23,7 +23,7 @@ Role required: pa\_power\_user, pa\_admin, or admin
 
 By default, when a user clicks on a widget, the detailed Analytics Hub for the widget indicator appears. You can configure a widget to direct users to a different URL instead.
 
-**Note:** For equivalent functionality in Platform Analytics data visualizations, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+**Note:** For equivalent functionality in Platform Analytics data visualizations, see [Chart interactions in a data visualization](../dv-chart-interactions.md).
 
 ## Procedure
 

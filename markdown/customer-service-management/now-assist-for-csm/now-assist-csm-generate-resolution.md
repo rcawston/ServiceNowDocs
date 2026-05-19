@@ -78,7 +78,7 @@ You can also generate resolution information on demand from the Now Assist panel
     -   The case moves to the Resolved state.
     -   The resolution is proposed to the customer.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 
 ## Generate resolution notes in case form
 

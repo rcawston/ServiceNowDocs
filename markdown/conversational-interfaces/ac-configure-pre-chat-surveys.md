@@ -109,5 +109,5 @@ List of the pre-chat surveys available. Choose the survey to be presented to the
 
 When a requester completes the pre-chat survey, the user is transferred either to a live agent if Agent Chat is set as the fulfiller interface or a virtual agent if Virtual Agent is set as the fulfiller. The user's pre-chat responses are stored as context in the chat interaction record. Before entering into a chat conversation, the assigned agent can review the context of the issue.
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](ci-configuring-chat-features.md)
 

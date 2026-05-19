@@ -76,7 +76,7 @@ Inherit from control objective
 
 </td><td>
 
-Option to indicate whether the control is created through an item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../../grc-policy-and-compliance/concept/support-multiple-controls-same-entity-control-objective.md).
+Option to indicate whether the control is created through an item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../policy-and-compliance-management/support-multiple-controls-same-entity-control-objective.md).
 
 </td></tr><tr><td>
 

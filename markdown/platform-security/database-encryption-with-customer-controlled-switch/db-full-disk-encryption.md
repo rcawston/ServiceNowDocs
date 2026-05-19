@@ -15,7 +15,7 @@ breadcrumb: [Encryption]
 
 ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
 
-**Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)
+**Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](../cloud-encryption/dare-overview.md)
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -25,9 +25,9 @@ ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods
 
 </td><td>
 
-[Request![Request](../../../common/image/icon-workspace.png)](../task/request-dbkek-rotation.md)
+[Request![Request](../../../common/image/icon-workspace.png)](request-dbkek-rotation.md)
 
- [Learn more about how to request database key rotation.](../task/request-dbkek-rotation.md)
+ [Learn more about how to request database key rotation.](request-dbkek-rotation.md)
 
 </td><td>
 
@@ -38,10 +38,10 @@ ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods
 </td></tr></tbody>
 </table>-   **[Exploring Database Encryption](explore-database-encryption.md)**  
 ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
--   **[Requesting database key rotation](../task/request-dbkek-rotation.md)**  
+-   **[Requesting database key rotation](request-dbkek-rotation.md)**  
 Rotate the database key annually or as needed by submitting a request to support.
 -   **[Database Encryption with Customer Controlled Switch](dbe-with-ccs.md)**  
 Database Encryption with Customer-Controlled Switch \(DBE-CCS\) is an encryption solution that encrypts all data-at-rest when not in use in the database.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](../encryption-landing.md)
 

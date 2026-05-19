@@ -31,9 +31,9 @@ The system then performs validations to check for mandatory fields like metric s
 
 To learn more about importing historical data, see:
 
--   **[Download a metric import template](../task/create-metric-data-template.md)**  
+-   **[Download a metric import template](create-metric-data-template.md)**  
 Download and populate a metric import template that you can use for importing historical metric data and tasks. This template includes directions and is formatted specifically for this type of data import.
--   **[Import historical metric data and tasks](../task/import-metric-data.md)**  
+-   **[Import historical metric data and tasks](import-metric-data.md)**  
 Import historical metric data with or without corresponding metric data tasks.
 
 **Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)

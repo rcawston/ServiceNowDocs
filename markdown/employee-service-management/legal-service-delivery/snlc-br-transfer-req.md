@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The business rule should be configured only if you have custom record producer that will be used to generate a contract request. For information on how to create a custom record producer, see [Create or modify a record producer for legal services through Classic environment](../../legal-request-management/task/create-record-producer-legal-request.md) and [Create or modify a record producer for legal services through Catalog Builder](../../legal-request-management/task/create-record-producer-catalog-builder-legal.md).
+The business rule should be configured only if you have custom record producer that will be used to generate a contract request. For information on how to create a custom record producer, see [Create or modify a record producer for legal services through Classic environment](../legal-request-management/create-record-producer-legal-request.md) and [Create or modify a record producer for legal services through Catalog Builder](../legal-request-management/create-record-producer-catalog-builder-legal.md).
 
 ## Procedure
 

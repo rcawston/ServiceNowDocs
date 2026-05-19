@@ -108,5 +108,5 @@ Role required: admin
     -   **Content type**: Select **Plain text** only.
     -   **Email template**: Select the template you created.
 
-**Parent Topic:**[Calendar integration](../reference/r_CalendarIntegration.md)
+**Parent Topic:**[Calendar integration](r_CalendarIntegration.md)
 

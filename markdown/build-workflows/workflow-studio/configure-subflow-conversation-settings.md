@@ -280,5 +280,5 @@ The list of default channels in which this subflow is available.To learn more ab
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

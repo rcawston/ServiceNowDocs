@@ -16,7 +16,7 @@ Personalize your Next Experience instance by selecting a theme and it's variant 
 
 ## Before you begin
 
-**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [Core styles, colors, variants, and alternate color palettes](../reference/difference-themes-variants.md).
+**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [Core styles, colors, variants, and alternate color palettes](difference-themes-variants.md).
 
 Role required: none
 

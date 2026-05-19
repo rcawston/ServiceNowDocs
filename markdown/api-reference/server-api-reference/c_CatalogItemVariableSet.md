@@ -17,7 +17,7 @@ The CatalogItemVariableSet API provides methods that enable you to create and mo
 
 This API runs in the `sn_sc` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CatalogItemVariableSet - create\(Boolean standardUpdate\)
 

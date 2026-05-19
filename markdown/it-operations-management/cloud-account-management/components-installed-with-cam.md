@@ -83,7 +83,7 @@ Marks an account as certified or failed.
 ITOM CAM Certifier Group
 
 </td></tr></tbody>
-</table>To return to the main topic, see [Exploring Cloud Account Management](../concept/exploring-cam.md).
+</table>To return to the main topic, see [Exploring Cloud Account Management](exploring-cam.md).
 
 **Parent Topic:**[Cloud Account Management reference](cam-reference.md)
 

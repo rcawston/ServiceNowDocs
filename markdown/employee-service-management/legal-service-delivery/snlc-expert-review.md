@@ -43,18 +43,18 @@ As a contract fulfiller, share information requested by the reviewer to proceed 
 -   **[Cancel a review task](snlc-close-int-review-task.md)**  
 As a contract fulfiller, cancel a review task irrespective of its state.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../concept/snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 
-[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](../concept/snlc-amend-req-landing.md)
+[Contract amendments](snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](../concept/snlc-linking-parent-child.md)
+[Linking parent-child contracts](snlc-linking-parent-child.md)
 
 [Cancel a legal request](snlc-cancel-request-tpc.md)
 
@@ -62,5 +62,5 @@ As a contract fulfiller, cancel a review task irrespective of its state.
 
 [View contract requests](snlc-view-contract-requests.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 

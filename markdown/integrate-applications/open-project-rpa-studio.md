@@ -17,7 +17,7 @@ Open an automation project from the local file system in RPA Desktop Design Stud
 
 Create an automation project. For more information, see [Create an automation project manually](create-automation-project.md) or [Create an automation with Now Assist](create-automation-now-assist.md).
 
-Download the automation package file by accessing the associated package file in RPA Hub. For more information, see [Download a package version in RPA Hub](../../rpa-hub/task/download-package-version.md).
+Download the automation package file by accessing the associated package file in RPA Hub. For more information, see [Download a package version in RPA Hub](download-package-version.md).
 
 Role required: none
 
@@ -36,5 +36,5 @@ Role required: none
     **Important:** When you open an older automation project in the latest version of [Set up RPA Desktop Design Studio](set-up-rpa-studio.md), the Upgrade Plugin Version dialog box is displayed. If you proceed to upgrade the plugin version and any automation components are unavailable after the upgrade, then these components are marked as **Unknown** in the automation project.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

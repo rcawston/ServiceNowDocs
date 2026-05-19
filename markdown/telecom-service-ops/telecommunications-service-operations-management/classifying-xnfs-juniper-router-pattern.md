@@ -31,7 +31,7 @@ Classifier name: **Standard Network Router**.
 
     **Note:**
 
-    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](../concept/telecom-discovery-using-telecommunication-discovery-pattern.md).
+    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](telecom-discovery-using-telecommunication-discovery-pattern.md).
 
     The List of Specific OIDs to call this Pattern:
 
@@ -123,5 +123,5 @@ Telecom Juniper MX SSH Router
     -   show chassis hardware \| no-more \| display xml
     -   show interface media \| no-more \| display xml
 
-**Parent Topic:**[Use Telecom Discovery patterns](../concept/using-telecom-discovery-patterns.md)
+**Parent Topic:**[Use Telecom Discovery patterns](using-telecom-discovery-patterns.md)
 

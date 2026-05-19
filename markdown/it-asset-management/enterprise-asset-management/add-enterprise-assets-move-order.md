@@ -46,5 +46,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The selected enterprise assets are added to the move order.
 
-**Parent Topic:**[Managing enterprise asset move orders](../concept/managing-enterprise-asset-move-orders.md)
+**Parent Topic:**[Managing enterprise asset move orders](managing-enterprise-asset-move-orders.md)
 

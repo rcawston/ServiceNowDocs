@@ -109,5 +109,5 @@ The Featured by your company widget appears on the Aspirations landing page.
 
 **Important:** Only job titles and skills that you define using the Featured Growth Items table will appear in the Featured by your company widget on the Aspirations landing page. The opportunities that you define will appear in the Featured by your company widget on the Opportunity Marketplace landing page.
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

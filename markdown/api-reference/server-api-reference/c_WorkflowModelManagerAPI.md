@@ -44,12 +44,12 @@ var model = new WorkflowModelManager('myContextId');
  model.dump();
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[WFActivityHandler - Global](../../WFACtivityHandler/concept/c_WFACtivityHandlerAPI.md#)
+[WFActivityHandler - Global](c_WFACtivityHandlerAPI.md#)
 
 ## WorkflowModelManager - WorkflowModelManager\(String contextId\)
 

@@ -483,7 +483,7 @@ Enable flexible breaks
 
 </td><td>
 
-Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and Workforce Optimization for Field Service must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and Workforce Optimization for Field Service must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 </td><td>
 

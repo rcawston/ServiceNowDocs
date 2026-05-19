@@ -40,14 +40,14 @@ Partner profiles are fetched from SAP during initial load. If any new profiles a
 
     ![Zero Copy Connector for ERP system record with partner profile tab displayed.](../image/erp-system-partner-profile-tab.png)
 
-    For column descriptions, see [Zero Copy Connector for ERP partner profile tab column descriptions](../reference/erp-partner-profile-tab-fields.md).
+    For column descriptions, see [Zero Copy Connector for ERP partner profile tab column descriptions](erp-partner-profile-tab-fields.md).
 
 6.  Select a **Partner number** to view information about a specific profile.
 
     ![Zero Copy Connector for ERP profile record for one individual profile.](../image/erp-system-partner-profile-tab3.png)
 
-    For field descriptions, see [Zero Copy Connector for ERP partner profile field descriptions](../reference/erp-partner-profile-fields.md).
+    For field descriptions, see [Zero Copy Connector for ERP partner profile field descriptions](erp-partner-profile-fields.md).
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](erp-canvas-work-with-systems.md)
 

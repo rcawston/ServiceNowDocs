@@ -17,7 +17,7 @@ Generate code from text with AI-powered Now Assist for Code.
 
 ## Before you begin
 
-Learn how to write prompts to generate better code suggestions. For more information, see [General guidelines for code generation](../concept/general-guidelines-code-generation.md).
+Learn how to write prompts to generate better code suggestions. For more information, see [General guidelines for code generation](general-guidelines-code-generation.md).
 
 Role required: now.assist.creator
 

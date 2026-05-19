@@ -42,7 +42,7 @@ Role required: sn\_critical.agent
     The status of the child event is set to **Consolidated**. When you open this child event, the **Details** Related Item displays the parent critical event in the record view.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](manage-related-records.md)
 
 **Related topics**  
 

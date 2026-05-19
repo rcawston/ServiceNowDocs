@@ -45,5 +45,5 @@ This error occurs on the buyside when the user opens CPQ config.
 
 Review the layout file. Make sure that references to set the variable names are accurate.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

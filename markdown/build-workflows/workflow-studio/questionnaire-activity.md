@@ -122,13 +122,13 @@ In the **Questionnaire** tab, you can:
 -   Add questions for agents to respond to,
 -   Edit existing questionnaires.
 
-To learn more about adding or configuring questions, see [Create a new questionnaire](../task/create-questionnaire.md).
+To learn more about adding or configuring questions, see [Create a new questionnaire](create-questionnaire.md).
 
 ## Inputs
 
 Many of these inputs are common to activities in Playbooks.
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 <table><thead><tr><th>
 
@@ -175,35 +175,35 @@ These outputs can provide data to other activities in your playbook. You can acc
 |------|----|-----------|
 |Record|Reference.Flow Data|Reference to record containing collected data. Use the pill-picker to dot-walk to **Outputs** &gt; **Record** &gt; **Vars** to see all collected data. To learn more about the pill-picker, see [Dot-walking examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/dot-walking-examples.md).|
 
--   **[Create a questionnaire](../task/create-questionnaire.md)**  
+-   **[Create a questionnaire](create-questionnaire.md)**  
 Create and insert a new questionnaire for agents to respond to.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../task/add-configure-stage.md)
+[Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
-[Add and configure an activity in a playbook](../task/add-configure-activity.md)
+[Add and configure an activity in a playbook](add-configure-activity.md)
 
-[Use AI agent as an activity](../task/ai-agent-as-activity.md)
+[Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
 [Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
-[Decision activities](../task/create-a-decision-activity.md)
+[Decision activities](create-a-decision-activity.md)
 
-[Decision stages](../task/create-decision-stage.md)
+[Decision stages](create-decision-stage.md)
 
-[Parallel branches](../task/create-parallel-activity.md)
+[Parallel branches](create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

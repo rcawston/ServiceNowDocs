@@ -19,7 +19,7 @@ The Workflow Editor is an interface for creating and modifying workflows by arra
 
 You can manage multiple workflows in the same screen, create custom workflow activities, and use existing activities as data sources. Users with the workflow\_creator role can create workflows. Users with the workflow\_admin role can create, modify, delete, and publish workflows.
 
-To open the Workflow Editor, navigate to **Workflow** &gt; **Workflow Editor**. For information about using the editor, see [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md).
+To open the Workflow Editor, navigate to **Workflow** &gt; **Workflow Editor**. For information about using the editor, see [Create a workflow](t_CreateAWorkflow.md).
 
 ## Welcome screen
 
@@ -60,7 +60,7 @@ Navigate to **System UI** &gt; **UI Pages** &gt; **Workflow Editor welcome**. In
 
 After you open or create a new workflow, the system displays the workflow canvas. On the canvas you interact with the Workflow Editor through several different elements: the canvas itself, the canvas tabs, the title bar, the palette, and the palette tabs.
 
-The drawing canvas is where you add activities and configure transitions for checked out workflows. Add an activity by dragging it from the palette to the workflow in the canvas. For more information, see [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md).
+The drawing canvas is where you add activities and configure transitions for checked out workflows. Add an activity by dragging it from the palette to the workflow in the canvas. For more information, see [Create a workflow](t_CreateAWorkflow.md).
 
 -   **Canvas tabs**: Contains tabs for accessing workflows being edited or created.
 -   **Title bar:** Displays the workflow name and status. Provides a menu and controls for configuring, testing, and validating workflows.
@@ -77,5 +77,5 @@ When a workflow is opened in the canvas, the title bar displays the workflow tit
 -   **[Workflow editor keyboard navigation](workflow-keyboard-access.md)**  
 The platform includes accessibility features that makes the interface accessible to users with disabilities.
 
-**Parent Topic:**[Classic Workflow](../concept/c_WorkflowOverview.md)
+**Parent Topic:**[Classic Workflow](c_WorkflowOverview.md)
 

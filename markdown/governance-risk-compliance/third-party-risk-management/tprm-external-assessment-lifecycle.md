@@ -49,5 +49,5 @@ The process of collecting assessment data from a third party moves between sever
     When all data is acceptable, the assessment is complete and a member of the team closes the assessment. If the engagement will be contracted, the **Closed** state initiates the contract risk process.
 
 
-**Parent Topic:**[Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+**Parent Topic:**[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 

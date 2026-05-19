@@ -27,7 +27,7 @@ The following items are installed with CRM Touchpoints:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with CRM Touchpoints](../reference/components-installed-crm-touchpoints.md).
+For more information, see [Components installed with CRM Touchpoints](components-installed-crm-touchpoints.md).
 
 ## Procedure
 

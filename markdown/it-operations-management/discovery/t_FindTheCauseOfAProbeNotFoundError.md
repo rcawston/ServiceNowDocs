@@ -38,7 +38,7 @@ Role required: discovery\_admin or admin
     If the sys\_id of the probe record does not match the value in the payload, try to determine the cause of the incorrect value.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 

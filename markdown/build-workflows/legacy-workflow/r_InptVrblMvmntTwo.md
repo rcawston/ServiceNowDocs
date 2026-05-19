@@ -38,7 +38,7 @@ An existing workflow already contains two input variables.
     -   The new published workflow version uses all four variables.
     -   The user tests the new workflow version and it runs as expected.
 
-**Parent Topic:**[Input variable movement](../concept/c_InputVariableMovement.md)
+**Parent Topic:**[Input variable movement](c_InputVariableMovement.md)
 
 ## Verify variables included in a specific workflow
 

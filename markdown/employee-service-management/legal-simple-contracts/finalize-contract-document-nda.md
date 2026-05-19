@@ -52,5 +52,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 When the contract document is finalized, send it for signature by selecting **Send for signature**.
 
-**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](../concept/legal-request-nda.md)
+**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](legal-request-nda.md)
 

@@ -118,8 +118,8 @@ Follow these general guidelines to achieve the benefits offered by action error 
     Identify an error condition without having to edit it. By default, you can only see error conditions when you edit them.
 
 
--   **[Add error condition](../task/add-error-condition.md)**  
+-   **[Add error condition](add-error-condition.md)**  
 Enable an action to return custom status information when specific conditions are met. Specify whether a flow considers your custom action status as an error or a successful run.
 
-**Parent Topic:**[Create an action in Workflow Studio](../task/create-action.md)
+**Parent Topic:**[Create an action in Workflow Studio](create-action.md)
 

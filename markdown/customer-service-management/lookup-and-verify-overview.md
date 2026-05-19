@@ -72,5 +72,5 @@ The lookup and verify feature uses the following tables:
 **Related topics**  
 
 
-[Look up and verify a contact or consumer](../task/lookup-verify-contact-consumer.md)
+[Look up and verify a contact or consumer](lookup-verify-contact-consumer.md)
 

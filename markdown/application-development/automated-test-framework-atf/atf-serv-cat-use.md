@@ -138,10 +138,10 @@ With the Replay Request Item test step, you can test the service catalog orderin
     ![Record validation test step](../image/atf-use-sc-step-16.png "Step 16 - Record Validation test step")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 
 **Related topics**  
 
 
-[Replay Request Item](../reference/test-steps-server-category.md#)
+[Replay Request Item](test-steps-server-category.md#)
 

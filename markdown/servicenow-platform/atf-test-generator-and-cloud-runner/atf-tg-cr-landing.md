@@ -23,11 +23,11 @@ These are the main modules in the application.
 
     ![Image showing the landing page for Select Cloud User module](../image/atf-app-credentials.png)
 
--   [Generate tests](../task/atf-tg-cr-generate-tests.md): Auto-generating tests and test suites to be executed on cloud runner.
+-   [Generate tests](atf-tg-cr-generate-tests.md): Auto-generating tests and test suites to be executed on cloud runner.
 
     ![Image showing the Generate Tests module](../image/atf-app-test-generator.png)
 
--   [Executing tests](../task/atf-tg-cr-execute-tests.md): Executing the generated tests using the Cloud Runner option.
+-   [Executing tests](atf-tg-cr-execute-tests.md): Executing the generated tests using the Cloud Runner option.
 
     ![Image showing the test execution with Cloud Runner option](../image/atf-tg-cr-execute-tests.png)
 
@@ -47,9 +47,9 @@ ATF Test Generator and Cloud Runner has the following users.
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Set up cloud user to generate and run tests|[Set up cloud user](atf-tg-cr-configure.md#)|System administrator|
-|Generate test automatically using ATF Test Generator and Cloud Runner|[Generating the tests](../task/atf-tg-cr-generate-tests.md)|System administrator|
-|Execute the tests using the Cloud Runner browser option|[Executing the tests using Cloud Runner](../task/atf-tg-cr-execute-tests.md)|System administrator|
-|Schedule tests and test suites execution and nightly runs|[Scheduling test execution](../task/atf-tg-cr-schedule-test-run.md)|System administrator|
+|Generate test automatically using ATF Test Generator and Cloud Runner|[Generating the tests](atf-tg-cr-generate-tests.md)|System administrator|
+|Execute the tests using the Cloud Runner browser option|[Executing the tests using Cloud Runner](atf-tg-cr-execute-tests.md)|System administrator|
+|Schedule tests and test suites execution and nightly runs|[Scheduling test execution](atf-tg-cr-schedule-test-run.md)|System administrator|
 |Review the log entries in the BOQ form to debug errors during the execution of the test suites|[Log entries in the BOQ form](atf-tg-cr-log-boq-form.md)|System administrator|
 
 ## What to explore next

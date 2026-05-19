@@ -15,7 +15,7 @@ breadcrumb: [Insurance claims, Claims applications, Insurance applications, Fina
 
 Learn about the components and properties that are installed with the Insurance claims application.
 
--   **[Components installed with Insurance claims](../reference/components-installed-with-insurance-claims-flow.md)**  
+-   **[Components installed with Insurance claims](components-installed-with-insurance-claims-flow.md)**  
 Several types of components are installed with the activation of the Insurance claims application.
 -   **[Domain separation and Insurance claims](domain-separation-and-insurance-claims-flow.md)**  
 Domain separation is supported for Insurance claims. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

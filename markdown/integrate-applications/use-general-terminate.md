@@ -19,9 +19,9 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Terminate component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Terminate component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
-Use the Terminate component in attended automations to complete the automation execution. For more information about the embedded task automation, [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+Use the Terminate component in attended automations to complete the automation execution. For more information about the embedded task automation, [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md).
 
 ## Procedure
 
@@ -145,5 +145,5 @@ For example, in the automation workflow that requires to read data from an Excel
 
 ![Terminate component in a simple automation workflow after the Try Catch component. Terminate component displaying Message, Mark As Error, and Capture screen parameters.](../image/general-termininate-comp-rpa.png)
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

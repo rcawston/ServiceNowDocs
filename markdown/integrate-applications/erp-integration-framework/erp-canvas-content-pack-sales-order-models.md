@@ -296,5 +296,5 @@ ERP
 RFC/BAPI
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Zero Copy Connector for ERP Quote to Cash content pack](../concept/erp-canvas-sales-order-content-pack.md)
+</table>**Parent Topic:**[Zero Copy Connector for ERP Quote to Cash content pack](erp-canvas-sales-order-content-pack.md)
 

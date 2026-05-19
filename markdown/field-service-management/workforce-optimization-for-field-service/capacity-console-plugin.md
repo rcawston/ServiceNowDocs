@@ -65,7 +65,7 @@ The following components are installed with Field Service Advanced Capacity and 
 **Related topics**  
 
 
-[Capacity Console](../concept/capacity-console.md)
+[Capacity Console](../capacity-console.md)
 
-[Using the Capacity Console](../concept/capacity-and-reservation-management-console.md)
+[Using the Capacity Console](../field-service-manager-workforce/capacity-and-reservation-management-console.md)
 

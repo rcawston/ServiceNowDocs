@@ -13,7 +13,7 @@ breadcrumb: [Use surveys, Surveys, Assessments and Surveys, Exploring Service Ad
 
 There is a metric result record for each user response to each question on every survey instance. Survey results for each question and category are calculated automatically based on the metric result records.
 
-If you use survey result calculations for results and scorecards, ensure that the [positive indicator](../task/t_CreateQuestSurveyDesigr.md) field for the question is set appropriately, based on the answer options. To have any results, a category must contain scored questions.
+If you use survey result calculations for results and scorecards, ensure that the [positive indicator](t_CreateQuestSurveyDesigr.md) field for the question is set appropriately, based on the answer options. To have any results, a category must contain scored questions.
 
 ## Survey responses
 
@@ -29,19 +29,19 @@ Category results are stored in the Assessment Category Result \[asmt\_category\_
 
 ## Survey scorecards
 
-A scorecard provides a visual breakdown of survey responses, based on the way questions were answered, by category. To access a scorecard, see [View a survey scorecard](../task/t_ViewAScorecard.md).
+A scorecard provides a visual breakdown of survey responses, based on the way questions were answered, by category. To access a scorecard, see [View a survey scorecard](t_ViewAScorecard.md).
 
--   **[View results for all surveys](../task/t_ViewResultsForAllSurveys.md)**  
+-   **[View results for all surveys](t_ViewResultsForAllSurveys.md)**  
 You can view the survey responses that are stored on the Metric Result \[asmt\_metric\_result\] table.
--   **[View the results for a survey](../task/t_ViewResultsForASpecificSurvey.md)**  
+-   **[View the results for a survey](t_ViewResultsForASpecificSurvey.md)**  
 You can view the responses for one survey definition. Survey results are stored on the Metric Result \[asmt\_metric\_result\] table.
--   **[View a survey scorecard](../task/t_ViewAScorecard.md)**  
+-   **[View a survey scorecard](t_ViewAScorecard.md)**  
 A survey scorecard provides a visual breakdown of survey responses by category, based on the way questions were answered.
--   **[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)**  
+-   **[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)**  
 You can export scorecards as images.
--   **[Request translations for surveys](../task/request-translations-for-surveys.md)**  
+-   **[Request translations for surveys](request-translations-for-surveys.md)**  
 Request translations for surveys to localize them into one or more languages. Localization requested items that are created for the selected surveys in all the selected languages.
--   **[Edit translations for surveys](../task/edit-translations-for-surveys.md)**  
+-   **[Edit translations for surveys](edit-translations-for-surveys.md)**  
 Edit the translations for surveys, and after you make the changes, you can publish the translation.
 -   **[Survey responses in a database view](survey-result-database-view.md)**  
 You can view survey responses in a database view for reporting purposes. For each survey instance, you can view the instance as a single row and the answers to each survey question \(metric\) in the corresponding columns. Analyze the responses easily and, if you want, export the survey responses.
@@ -51,9 +51,9 @@ You can view survey responses in a database view for reporting purposes. For eac
 **Related topics**  
 
 
-[View a survey scorecard](../task/t_ViewAScorecard.md)
+[View a survey scorecard](t_ViewAScorecard.md)
 
 [Survey designer elements](c_SurveyDesignerElements.md)
 
-[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
 

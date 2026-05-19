@@ -15,7 +15,7 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 The ServiceNow® Employee Readiness Surveys application lets you evaluate the readiness of your workforce to return to the workplace by asking users to complete a survey.
 
-Employee Readiness Surveys is an application that you install to use with Emergency Outreach. For information about Emergency Outreach and how surveys are sent via outreach notifications, see [Emergency Outreach](emergency-outreach.md).
+Employee Readiness Surveys is an application that you install to use with Emergency Outreach. For information about Emergency Outreach and how surveys are sent via outreach notifications, see [Emergency Outreach](../emergency-outreach/emergency-outreach.md).
 
 After you install the application, the check-in administrator for Emergency Outreach can view and edit the survey questions to suit your needs. New surveys can be added, for example, to evaluate users in different regions or address other concerns.
 
@@ -30,9 +30,9 @@ The check-in administrator sends the surveys to targeted audiences using the Eme
 
 Employee Readiness Surveys is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
--   Before users re-enter workspaces, use the [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
--   With the [Explore Workplace Core](../../workplace-service-delivery/concept/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
--   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../../ppe-inventory-management/concept/ppe-inventory-management.md) application.
+-   Before users re-enter workspaces, use the [Employee Health Screening](employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
+-   With the [Explore Workplace Core](../workplace-core/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
+-   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](ppe-inventory-management.md) application.
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -99,12 +99,12 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Install Employee Readiness Surveys](../task/emp-readiness-survey-install.md)**  
+-   **[Install Employee Readiness Surveys](emp-readiness-survey-install.md)**  
 You can install Employee Readiness Surveys if you have the admin role. Installing Employee Readiness Surveys adds notification options and a default health readiness survey to the Emergency Outreach app.
--   **[Configure Employee Readiness Surveys notifications](../task/config-employee-readiness-survey.md#)**  
+-   **[Configure Employee Readiness Surveys notifications](config-employee-readiness-survey.md#)**  
 The administrator can add or modify Employee Readiness Surveys notifications. Users with the sn\_imt\_checkin.checkin\_admin or survey\_admin role can view the base system survey and copy it to make changes, or add a new survey.
--   **[Configure Employee Readiness Surveys](../task/config-emp-readiness-survey.md#)**  
+-   **[Configure Employee Readiness Surveys](config-emp-readiness-survey.md#)**  
 Review the default Employee workplace readiness survey installed with the Employee Readiness Surveys app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](safe-workplace.md)
 

@@ -58,5 +58,5 @@ ServiceNow provides pre-defined additional resource or search sources to the use
 4.  Select **Update**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

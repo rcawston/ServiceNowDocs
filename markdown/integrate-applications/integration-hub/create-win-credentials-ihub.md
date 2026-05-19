@@ -63,5 +63,5 @@ Client software distribution requires Windows credentials that have administrati
 
 Connection record and SCCM Server Instance are created and associated with the connection and credential alias.
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](configure-sccm-ihub.md)
 

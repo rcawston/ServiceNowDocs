@@ -22,7 +22,7 @@ To get started, follow these key steps to configure the portal:
 1.  [Install plugins](install-plugins.md)
 2.  [Assign roles](emp-center-personas.md)
 3.  Configure the portal:
-    -   [Customize Employee Center portal theme](../task/customize-theme.md)
+    -   [Customize Employee Center portal theme](customize-theme.md)
     -   [Employee Center global header](config-global-header.md)
     -   [Footer configuration](emp-center-footer-config.md)
     -   [Enable support for right-to-left languages](ec-direction-right-to-left-languages.md)
@@ -32,5 +32,5 @@ To get started, follow these key steps to configure the portal:
 
         **Note:** The default Employee Center home page is `ec_home`.
 
-    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](../task/activate-notification-template.md)
+    -   Modify the email notification subject and body, such as when a new task is assigned: [Modify email notification layout](activate-notification-template.md)
 

@@ -36,5 +36,5 @@ Running a collector manually initiates immediate metadata harvesting from the co
 6.  In the Last run summary section, select **Run now**.![Run a collector manually](../image/dc-mcollector-run.png)
 
 
-**Parent Topic:**[Running metadata collectors](../concept/run-metadata-collectors-dc.md)
+**Parent Topic:**[Running metadata collectors](run-metadata-collectors-dc.md)
 

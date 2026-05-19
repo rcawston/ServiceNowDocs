@@ -41,30 +41,30 @@ When processing an email digest, the system:
 ## Set up email digests
 
 -   **What to do — admins**
-    1.  Review the base system digest intervals and if needed, [create or modify intervals](../task/create-digest-intervals.md).
+    1.  Review the base system digest intervals and if needed, [create or modify intervals](create-digest-intervals.md).
 
         The base system digest intervals are one day \(24 hours\), one hour, every four hours, and seven days \(weekly\).
 
-    2.  Determine the email notifications that can be delivered in a digest and [configure the email digest content](../task/configure-email-digest.md) for those notifications.
+    2.  Determine the email notifications that can be delivered in a digest and [configure the email digest content](configure-email-digest.md) for those notifications.
 
         When determining which notifications are appropriate for an email digest, consider the notification content and intervals that your users can select. For example, digests that can be generated weekly might be better suited for notifications that are non-urgent.
 
 -   **What to do — all users**
 
-    For a notification that can be delivered in an email digest, [enable the email digest in your notification preferences](../task/enable-email-digest.md) \(**Notifications** tab in the System Settings window\). You also specify the interval time that the notifications are accumulated.
+    For a notification that can be delivered in an email digest, [enable the email digest in your notification preferences](enable-email-digest.md) \(**Notifications** tab in the System Settings window\). You also specify the interval time that the notifications are accumulated.
 
 -   **Next step**
 
-    If you are an admin, begin the digest setup process by reviewing the base system email digest intervals and [create or modify the intervals](../task/create-digest-intervals.md).
+    If you are an admin, begin the digest setup process by reviewing the base system email digest intervals and [create or modify the intervals](create-digest-intervals.md).
 
 
--   **[Create or modify email digest intervals](../task/create-digest-intervals.md)**  
+-   **[Create or modify email digest intervals](create-digest-intervals.md)**  
 Admins can create or modify the email digest intervals \(length of time\) during which activity for a selected notification is accumulated in an email digest. Users select a digest interval when they enable an email digest in their notification preferences.
--   **[Configure email digests](../task/configure-email-digest.md)**  
+-   **[Configure email digests](configure-email-digest.md)**  
 Use the Notification form to create or modify the content of an email digest for a notification. You can also disable the email digest for a notification so that it isn’t available in the notification preferences of your users.
--   **[Enable email digest in Next Experience](../task/enable-email-digest-next-exp.md)**  
+-   **[Enable email digest in Next Experience](enable-email-digest-next-exp.md)**  
 Reduce the number of email notifications you receive by enabling email digest notifications. An email digest is a single email that summarizes the activity for a selected notification and its target record during a specified time interval.
--   **[Enable an email digest in Core UI](../task/enable-email-digest.md)**  
+-   **[Enable an email digest in Core UI](enable-email-digest.md)**  
 Reduce the number of notifications you receive for a selected target record during a specified time interval by enabling an email digest. The digest is a single email that collects individual notifications for a targeted record generated during the specified interval. The email digest of two different target records will not be clubbed in a single email.
 
 **Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
@@ -72,9 +72,9 @@ Reduce the number of notifications you receive for a selected target record duri
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](t_CreateANotification.md)
 
 [Email notifications dashboard](email-notifications-dashboard.md)
 
@@ -88,7 +88,7 @@ Reduce the number of notifications you receive for a selected target record duri
 
 [Watermarks on notification emails](c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](parse-email.md)
 
 [Domain separation and Notifications](domain-separation-notifications.md)
 

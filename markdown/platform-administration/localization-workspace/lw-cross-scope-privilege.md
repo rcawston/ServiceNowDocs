@@ -33,7 +33,7 @@ For each artifact, set two entries in Cross scope privileges \[sys\_scope\_privi
 
 The source scope for these records should be Localization Workspace.
 
-Artifacts that are available by default don't need manual configuration of cross-scope privilege. For more information, see [Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md).
+Artifacts that are available by default don't need manual configuration of cross-scope privilege. For more information, see [Types of Localizable content in Localization Workspace](lw-localizable-content.md).
 
 ## Procedure
 
@@ -74,14 +74,14 @@ Artifacts that are available by default don't need manual configuration of cross
 
 You may also need to set Restricted Caller Access privileges to make restricted resources available to Localization Workspace. For more information see [Restricted Caller Access for Localization Workspace](lw-restricted-caller-access.md).
 
-**Parent Topic:**[Configuring Localization Workspace](../concept/configuring-localization-workspace.md)
+**Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)
 
 **Related topics**  
 
 
-[Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md)
+[Types of Localizable content in Localization Workspace](lw-localizable-content.md)
 
-[Create and configure a custom artifact](../../localization-framework/task/create-configure-custom-artifact.md)
+[Create and configure a custom artifact](../localization-framework/create-configure-custom-artifact.md)
 
-[Create a processor script](../../localization-framework/task/create-processor-script.md)
+[Create a processor script](../localization-framework/create-processor-script.md)
 

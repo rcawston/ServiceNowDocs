@@ -51,9 +51,9 @@ If necessary, set the assignment workbench properties.
 **Related topics**  
 
 
-[Assignment workbench overview](../concept/case-assignment-workbench.md)
+[Assignment workbench overview](case-assignment-workbench.md)
 
-[Matching criteria for case assignment](../concept/case-assignment-matching-criteria.md)
+[Matching criteria for case assignment](case-assignment-matching-criteria.md)
 
-[Matching rules for case assignment](../concept/case-assignment-matching-rules.md)
+[Matching rules for case assignment](case-assignment-matching-rules.md)
 

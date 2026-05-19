@@ -145,5 +145,5 @@ These tools don't check for permissions. To update credentials:1.  Click **Updat
 -   **[Permissions required for DevOps tools](tool-req-permission.md)**  
 Permissions required in your third-party tool to connect to DevOps Change Velocity.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

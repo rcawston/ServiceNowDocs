@@ -75,7 +75,7 @@ Labels
 
 </td><td>
 
-Use labels to visually distinguish tasks on the task board. Filter board contents by toggling the label. You need to [enable labels](../task/t_ConfigureLabels.md) before being able to use this tab.
+Use labels to visually distinguish tasks on the task board. Filter board contents by toggling the label. You need to [enable labels](t_ConfigureLabels.md) before being able to use this tab.
 
 </td></tr><tr><td>
 
@@ -99,8 +99,8 @@ Configuration
 
 </td><td>
 
-Configure the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](../task/t_ConfigureTheTaskBoard.md).
+Configure the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](t_ConfigureTheTaskBoard.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Visual Task Boards](../concept/exploring-vis-task-boards.md)
+</table>**Parent Topic:**[Exploring Visual Task Boards](exploring-vis-task-boards.md)
 

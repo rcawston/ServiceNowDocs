@@ -78,7 +78,7 @@ Location
 
 </td><td>
 
-Geographical area where the work needs to be done. The location is critical for determining the agent assigned to the task.If you don’t want to use the auto-populated location, you can add an ad hoc location. For more information, see [Setting ad-hoc locations in work orders and work order tasks](../concept/service-locations-work-orders.md).
+Geographical area where the work needs to be done. The location is critical for determining the agent assigned to the task.If you don’t want to use the auto-populated location, you can add an ad hoc location. For more information, see [Setting ad-hoc locations in work orders and work order tasks](service-locations-work-orders.md).
 
 </td></tr><tr><td>
 

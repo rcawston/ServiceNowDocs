@@ -40,7 +40,7 @@ Self-service in CSM offers the following benefits:
 
 ## Web Embeddables
 
-With Web Embeddables you can embed web components into external websites outside the ServiceNow environment. These components enable interaction with the platform through dedicated APIs that support real-time data exchange and provide functionality without requiring users to access the ServiceNow interface. To learn more about Web Embeddables, see [Configure Web Embeddables](using-web-embeddables.md).
+With Web Embeddables you can embed web components into external websites outside the ServiceNow environment. These components enable interaction with the platform through dedicated APIs that support real-time data exchange and provide functionality without requiring users to access the ServiceNow interface. To learn more about Web Embeddables, see [Configure Web Embeddables](customer-self-service-and-omnichannel-engagement/using-web-embeddables.md).
 
 Web Embeddables offer the following benefits:
 
@@ -57,8 +57,8 @@ By using the Service Portal web application, you can create portals that empower
 
 You can configure four types of portals to support your customers and consumers:
 
--   [Customer Service Portal](../task/use-the-customer-portal.md): Supports your business-to-business \(B2B\) customers
--   [Business Portal](../task/use-the-business-portal.md): Supports your business-to-business \(B2B\) customers and is built using configurable widgets
+-   [Customer Service Portal](use-the-customer-portal.md): Supports your business-to-business \(B2B\) customers
+-   [Business Portal](use-the-business-portal.md): Supports your business-to-business \(B2B\) customers and is built using configurable widgets
 -   [Consumer Service Portal](use-consumer-service-portal.md): Supports your business-to-consumer \(B2C\) customers
 -   [Consumer Portal](use-consumer-portal.md): Supports your business-to-consumer \(B2C\) customers and is built using configurable widgets.
 
@@ -70,14 +70,14 @@ All the portals offer the same self-service and Virtual Agent assistance feature
 
     ![Infographic displaying various options for self-service. For the text description, refer to the column in the Self-service on portals table.](../image/self-service-portal.png "Self-service portal")
 
-    To get started with the portals, see [Configure the Customer and Consumer Service Portals](../task/configure-csm-service-portals.md) and [Configure Business and Consumer Portal](../task/configure-business-portal.md).
+    To get started with the portals, see [Configure the Customer and Consumer Service Portals](customer-self-service-and-omnichannel-engagement/configure-csm-service-portals.md) and [Configure Business and Consumer Portal](customer-self-service-and-omnichannel-engagement/configure-business-portal.md).
 
 
 ## Engagement Messenger
 
-With the [Engagement Messenger](engagement-center.md) web application, your customers can easily access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
+With the [Engagement Messenger](customer-self-service-and-omnichannel-engagement/engagement-center.md) web application, your customers can easily access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
 
-To learn more about [Engagement Messenger](engagement-center.md), see [Set up Engagement Messenger](setting-up-engagement-messenger.md).
+To learn more about [Engagement Messenger](customer-self-service-and-omnichannel-engagement/engagement-center.md), see [Set up Engagement Messenger](customer-self-service-and-omnichannel-engagement/setting-up-engagement-messenger.md).
 
 ## Service catalog
 
@@ -89,7 +89,7 @@ To learn more about Service catalog, see [Service catalog integration with the C
 
 With the Knowledge Management capability, you can create knowledge bases with articles to share information with customers on the portal. Customers can search the knowledge bases for information, such as troubleshooting or task resolutions, to resolve issues and answer questions.
 
-To learn more about searching the Knowledge base, see [Search the knowledge base](../task/t_SearchTheKnowledgeBase.md).
+To learn more about searching the Knowledge base, see [Search the knowledge base](t_SearchTheKnowledgeBase.md).
 
 ## Chat
 
@@ -105,5 +105,5 @@ To learn more about chat, see [Configuring the chat channel](c_ChatFeature.md).
 
 With the Communities capability, you can create forums for agents and customers to connect, engage, and collaborate with each other. On the portal, customers can search for community content that could provide the solutions and answers that they need.
 
-To learn more about communities, see [Communities](../../customer-communities/reference/servicenow-communities.md).
+To learn more about communities, see [Communities](communities/servicenow-communities.md).
 

@@ -89,7 +89,7 @@ Function
 
 Function that runs when a user taps on the user icon in the header of the launcher screen.
 
- **Note:** Use a navigation function to navigate to a user profile record screen when you use a user type icon. For more information, see [Navigation functions](../concept/mobile-nav-functions.md).
+ **Note:** Use a navigation function to navigate to a user profile record screen when you use a user type icon. For more information, see [Navigation functions](mobile-nav-functions.md).
 
 </td></tr></tbody>
 </table>6.  Select **Save**.

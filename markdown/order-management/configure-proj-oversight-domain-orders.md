@@ -108,7 +108,7 @@ How every row in the condition column evaluates a user-specified value. A defaul
 
     1.  Select the **Add** action and enter the conditions and project template task to be used.
 
-        **Note:** If there are duplicate project template tasks that have the same **Short description**, it may be difficult to identify and select the appropriate project template tasks. For details on differentiating between similar project template tasks, see [Choosing a project template task when duplicates exist](../concept/Determining-correct-project-task-template.md).
+        **Note:** If there are duplicate project template tasks that have the same **Short description**, it may be difficult to identify and select the appropriate project template tasks. For details on differentiating between similar project template tasks, see [Choosing a project template task when duplicates exist](Determining-correct-project-task-template.md).
 
     2.  Select **Save**.
 

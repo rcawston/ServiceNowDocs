@@ -128,13 +128,13 @@ This template walks you through customizing a use case model to categorize the e
 
 ## Result
 
-When the configuration is complete, the solution auto-categorizes the HR service for email cases. For more information, see [Auto-case creation from an email](../concept/hr-agent-intelligence-1.md)
+When the configuration is complete, the solution auto-categorizes the HR service for email cases. For more information, see [Auto-case creation from an email](../employee-service-management/hr-agent-intelligence-1.md)
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

@@ -32,7 +32,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
--   Run a horizontal discovery, using [Cloud API \(CAPI\)](../../cloud-management-v2/concept/cloud-management-api.md). This is necessary because this discovery pattern supports top-down discovery only. For Cloud Discovery, you can run the horizontal discovery as usual.
+-   Run a horizontal discovery, using [Cloud API \(CAPI\)](../cloud-configuration-governance/cloud-management-api.md). This is necessary because this discovery pattern supports top-down discovery only. For Cloud Discovery, you can run the horizontal discovery as usual.
 -   When the load balancers data has been stored in the Configuration Management Database \(CMDB\), create an application service for each load balancer.
 -   Set read-only permissions for these REST APIs:
     -   https://elasticloadbalancing.&lt;REGION&gt;.amazonaws.com/?Action=DescribeLoadBalancers&amp;LoadBalancerArns.member.1=&lt;LB\_ARN&gt;&amp;Version=2015-12-01
@@ -64,5 +64,5 @@ The discovered data includes the following tables and fields.
 |Object ID \[object\_id\]|Unique identifier of the load balancer.|
 |IP Address \[ip\_address\]|IP address of the FQDN.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

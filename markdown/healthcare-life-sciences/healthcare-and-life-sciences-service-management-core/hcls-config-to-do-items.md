@@ -35,5 +35,5 @@ Role required: admin
 **Related topics**  
 
 
-[Healthcare and Life Sciences Service Management Core properties](../reference/hcls-properties.md)
+[Healthcare and Life Sciences Service Management Core properties](hcls-properties.md)
 

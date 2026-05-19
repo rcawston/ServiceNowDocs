@@ -19,9 +19,9 @@ Set up access to the Microsoft Azure cloud accounts in Cloud Configuration Gover
 
 Make sure the follow tasks are complete:
 
-1.  You have migrated from CAPI to patterns. For more details, see [Migrate from CAPI to Patterns](../../discovery/task/migrate-from-capi-to-pattern.md).
-2.  The Microsoft Azure credentials to access the Microsoft Azure account have been created. For more information, see [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md).
-3.  Your Azure service accounts have been configured. For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+1.  You have migrated from CAPI to patterns. For more details, see [Migrate from CAPI to Patterns](../discovery/migrate-from-capi-to-pattern.md).
+2.  The Microsoft Azure credentials to access the Microsoft Azure account have been created. For more information, see [Create Azure cloud credentials](../discovery/create-azure-cloud-credentials.md).
+3.  Your Azure service accounts have been configured. For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md).
 
 Role required: sn\_itom\_ccg.scheduling\_admin
 
@@ -80,8 +80,8 @@ Tenant ID of the Microsoft Azure account.Replace `{tenant}` with the Microsoft A
 
 2.  Run datacenter discovery to identify the datacenters attached with the service accounts.
 
-    For more information, see [Run datacenter discovery](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md).
+    For more information, see [Run datacenter discovery](../cloud-configuration-governance/disco-datacntrs-in-srv-acct.md).
 
 
-**Parent Topic:**[Exploring Cloud Configuration Governance](../concept/exploring-cloud-configuration-governance.md)
+**Parent Topic:**[Exploring Cloud Configuration Governance](exploring-cloud-configuration-governance.md)
 

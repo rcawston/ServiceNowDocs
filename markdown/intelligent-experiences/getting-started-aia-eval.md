@@ -20,7 +20,7 @@ Before you start your first execution run, ensure that you have the following:
 
 -   An agentic AI asset that has been built and saved in AI Agent Studio
 -   At least one version of the agentic AI asset
--   Available dataset with a minimum number of test cases. You can create new datasets using [Now Assist Data Kit](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md).
+-   Available dataset with a minimum number of test cases. You can create new datasets using [Now Assist Data Kit](now-assist-data-kit/now-assist-data-kit-landing.md).
 -   You have the necessary permissions to run the agentic AI asset. You can verify whether you have the right permissions by checking the user access settings of the agentic AI asset in AI Agent Studio.
 
 Role required: sn\_aia.admin
@@ -43,10 +43,10 @@ Role required: sn\_aia.admin
 
 6.  Review the configuration summary and submit.
 
-7.  [Monitor progress and review logs when prompted.](../task/track-aia-eval-progress.md)
+7.  [Monitor progress and review logs when prompted.](track-aia-eval-progress.md)
 
-8.  [Review results, issues, and traces once the run completes.](../task/review-aia-eval-outputs.md)
+8.  [Review results, issues, and traces once the run completes.](review-aia-eval-outputs.md)
 
-9.  [Apply recommended optimizations and trigger a re-evaluation.](../task/aia-eval-apply-optimization.md)
+9.  [Apply recommended optimizations and trigger a re-evaluation.](aia-eval-apply-optimization.md)
 
 

@@ -23,11 +23,11 @@ The Now Assist for CWM application uses generative AI skills to improve time to 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the implementation](../task/configure-now-assist-for-collaborative-work-management.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the implementation](configure-now-assist-for-collaborative-work-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-community.svg)Start using generative AI capabilities in CWM](../task/using-now-assist-for-cwm.md)
+[Use![](../../../reuse/icons/brand-icons/bus-community.svg)Start using generative AI capabilities in CWM](using-now-assist-for-cwm.md)
 
 </td><td>
 

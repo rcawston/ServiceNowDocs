@@ -26,15 +26,15 @@ Batch size is applicable and behaves the same in all query run scenarios, regard
 
 The batch size for query runs is allocated in the following priority order:
 
-1.  The value in the **Execution Batch Size** field in the Saved Queries table, for a specific saved query. If set, this value applies only to the saved query, and has priority over the global value of 100 and the value of the [glide.cmdb.query.batch\_size](../reference/cmdb-querybldr-sysproprties.md) system property.
-2.  The value of the system property [glide.cmdb.query.batch\_size](../reference/cmdb-querybldr-sysproprties.md), if exists, determines globally the batch size that is allocated to all query runs. If you add and set this property, the value applies to all queries, other than saved queries with **Execution Batch Size** value set.
+1.  The value in the **Execution Batch Size** field in the Saved Queries table, for a specific saved query. If set, this value applies only to the saved query, and has priority over the global value of 100 and the value of the [glide.cmdb.query.batch\_size](cmdb-querybldr-sysproprties.md) system property.
+2.  The value of the system property [glide.cmdb.query.batch\_size](cmdb-querybldr-sysproprties.md), if exists, determines globally the batch size that is allocated to all query runs. If you add and set this property, the value applies to all queries, other than saved queries with **Execution Batch Size** value set.
 3.  A global value of 100, if the previous two options are not configured.
 
 ## Modifying batch size for queries
 
 If you are experiencing performance problems when running queries, you can modify the batch size value:
 
--   Globally for all queries: By adding \(if necessary\) and setting the value of the system property [glide.cmdb.query.batch\_size](../reference/cmdb-querybldr-sysproprties.md).
+-   Globally for all queries: By adding \(if necessary\) and setting the value of the system property [glide.cmdb.query.batch\_size](cmdb-querybldr-sysproprties.md).
 -   Per saved query: [Set batch size for a specific saved query](batch-size-query.md#).
 
 ## Set batch size for a specific saved query
@@ -57,6 +57,6 @@ Contact Support for assistance in calculating the batch size for your query.
 
 3.  Set or modify the value in the **Execution Batch Size** field.
 
-    Set the value to be greater than the global value in the [glide.cmdb.query.batch.size](../reference/cmdb-querybldr-sysproprties.md) property, or increase any existing value.
+    Set the value to be greater than the global value in the [glide.cmdb.query.batch.size](cmdb-querybldr-sysproprties.md) property, or increase any existing value.
 
 

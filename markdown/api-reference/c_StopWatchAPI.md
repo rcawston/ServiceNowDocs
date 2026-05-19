@@ -17,7 +17,7 @@ The StopWatch API provides methods to measure the duration of operations.
 
 You can use this API in client-side scripts using ListV2 and ListV3 APIs.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## StopWatch - StopWatch\(\)
 

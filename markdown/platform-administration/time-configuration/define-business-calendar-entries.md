@@ -80,7 +80,7 @@ End date and time for the business calendar period. It uses the time zone that y
 7.  Select **Update** to save any changes and return to the list.
 
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](business-calendars.md)
 
 ## Create business calendar entry names
 

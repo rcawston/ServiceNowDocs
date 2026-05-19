@@ -19,7 +19,7 @@ Content is returned as a string, not as a byte array when getContent\(\) is call
 
 Content is returned as a GlideScriptableInputStream object when getContentStream\(\) is called. The GlideScriptableInputStream contains the actual bytes not converted into a string.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideSysAttachment - GlideSysAttachment\(\)
 
@@ -43,7 +43,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - addAttribute\(String attrKey, String attrValue\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - addAttribute\(String attrKey, String attrValue\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -89,7 +89,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - addMultipleAttributes\(Object attrsKeyValuePair\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - addMultipleAttributes\(Object attrsKeyValuePair\)](GlideSysAttachmentGlobalAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -231,7 +231,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - deleteAllAttributes\(\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -335,7 +335,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - deleteAttribute\(String attrKey\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - deleteAttribute\(String attrKey\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -398,7 +398,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - fetchAllAttributes\(\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -406,7 +406,7 @@ For the global equivalent of this method, use [GlideSysAttachment - fetchAllAttr
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
+|[GlideRecord](c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
 
 The following example shows how to get all attributes assigned to a specified attachment.
 
@@ -445,7 +445,7 @@ See also:
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - fetchAttribute\(String attrKey\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - fetchAttribute\(String attrKey\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -454,7 +454,7 @@ For the global equivalent of this method, use [GlideSysAttachment - fetchAttribu
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
+|[GlideRecord](c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
 
 The following example shows how to get an attachment attribute with the key `author`.
 
@@ -584,7 +584,7 @@ Attachment content: SSBhbSB0ZXh0IGluIGEgdHh0IGZpbGUgYXR0YWNoZWQgdG8gYSByZWNvcmQu
 
 Returns a GlideScriptableInputStream object given the sys\_id of an attachment.
 
-You can use the [GlideTextReader](../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#) API to read the content stream.
+You can use the [GlideTextReader](c_GlideTextReaderScopedAPI.md#) API to read the content stream.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -621,7 +621,7 @@ See also:
 -   [fetchAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - updateAllAttributes\(Object attrsKeyValuePair\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - updateAllAttributes\(Object attrsKeyValuePair\)](GlideSysAttachmentGlobalAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -717,7 +717,7 @@ See also:
 -   [fetchAttribute\(\)](c_GlideSysAttachmentScopedAPI.md#)
 -   [updateAllAttributes\(\)](c_GlideSysAttachmentScopedAPI.md#)
 
-For the global equivalent of this method, use [GlideSysAttachment - updateAttribute\(String attrKey, String attrValue\)](../../GlideSysAttachmentGlobal/concept/GlideSysAttachmentGlobalAPI.md#).
+For the global equivalent of this method, use [GlideSysAttachment - updateAttribute\(String attrKey, String attrValue\)](GlideSysAttachmentGlobalAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

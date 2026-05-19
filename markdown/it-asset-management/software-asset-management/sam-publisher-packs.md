@@ -15,7 +15,7 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 With Software Asset Management, there are several publisher packs that can be used to extend functionality between the ServiceNow AI Platform and your third-party software applications.
 
-The following Software Asset Management publisher pack plugins can be requested from ServiceNow personnel for activation. See [Request Software Asset Management](../task/t_RequSoftwareAssetMgmt.md) for more information on how to request these plugins.
+The following Software Asset Management publisher pack plugins can be requested from ServiceNow personnel for activation. See [Request Software Asset Management](t_RequSoftwareAssetMgmt.md) for more information on how to request these plugins.
 
 -   Adobe
 -   Citrix
@@ -101,12 +101,12 @@ Provides additional capabilities to reconcile VMware software, such as vCenter a
 View compliance analysis results for the following publishers on the Software Publisher Analytics dashboards.
 
 -   [Adobe](sam-saas-subscription-dash.md)
--   [Citrix](../reference/dashboard-citrix.md)
--   [IBM](../reference/dashboard-ibm.md)
--   [Microsoft](../reference/dashboard-microsoft.md)
--   [Oracle](../reference/dashboard-oracle.md)
--   [SAP](../reference/dashboard-sap.md)
--   [VMware](../reference/dashboard-vmware.md)
+-   [Citrix](dashboard-citrix.md)
+-   [IBM](dashboard-ibm.md)
+-   [Microsoft](dashboard-microsoft.md)
+-   [Oracle](dashboard-oracle.md)
+-   [SAP](dashboard-sap.md)
+-   [VMware](dashboard-vmware.md)
 
 **Note:** You must have one of the publisher pack add-ons \(other than Adobe\) activated to see the Software Publisher Overviews dashboard navigation module. In addition, the corresponding publisher pack must be activated to see the compliance analysis results tab for that publisher.
 

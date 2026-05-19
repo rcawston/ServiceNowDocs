@@ -25,7 +25,7 @@ Role required: it\_project\_manager
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](../../project-workspace/task/access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](../project-workspace/access-new-project-workspace.md).
 
 2.  Open AI insights page by selecting **AI insights** from the list.
 
@@ -57,5 +57,5 @@ The project insights are generated from the AI insights page with access to curr
     -   From the AI insights page, select **Regenerate** icon.
     -   Now Assist generates updated project insights.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

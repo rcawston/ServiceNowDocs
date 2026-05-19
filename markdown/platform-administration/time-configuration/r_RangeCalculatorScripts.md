@@ -167,5 +167,5 @@ getTimeObject: function(timeMS) {
     }
 ```
 
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](c_TimelinePages.md)
 

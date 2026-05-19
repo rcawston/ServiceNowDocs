@@ -38,9 +38,9 @@ The scheduler excludes break hours from the agent's work schedule while scheduli
 **Related topics**  
 
 
-[Activate Field Service Multi-Day Task Scheduling](../task/install-multi-day-tasks.md)
+[Activate Field Service Multi-Day Task Scheduling](install-multi-day-tasks.md)
 
-[Assign multi-day tasks to agents](../task/assign-multi-day-task.md)
+[Assign multi-day tasks to agents](assign-multi-day-task.md)
 
-[Assign work order tasks to crews on Dispatcher Workspace](../task/assign-wot-to-crew.md)
+[Assign work order tasks to crews on Dispatcher Workspace](assign-wot-to-crew.md)
 

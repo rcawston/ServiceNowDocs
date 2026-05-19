@@ -81,5 +81,5 @@ The state of the legal request is Work in progress and the document is Legal rev
 -   In the Privileged Document Access tab, the document permissions is marked as Public.
 -   Stakeholders are notified of the change.
 
-**Parent Topic:**[Work on a legal request](../task/work-on-legal-request.md)
+**Parent Topic:**[Work on a legal request](work-on-legal-request.md)
 

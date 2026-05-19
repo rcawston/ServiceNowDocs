@@ -31,7 +31,7 @@ To enable multicurrency features in Next Experience for Demand Management, activ
 
 ## Currency preferences
 
-After activating the plugin, specify your currency preference for managing demand financials. You can select your functional currency, a regional currency, or a local currency. For more information, see [Select demand currency preference](../task/select-demand-currency-preference-dw.md).
+After activating the plugin, specify your currency preference for managing demand financials. You can select your functional currency, a regional currency, or a local currency. For more information, see [Select demand currency preference](select-demand-currency-preference-dw.md).
 
 ## Demand currency view
 
@@ -47,5 +47,5 @@ Track expenses for demand tasks in demand currency. When a time card for a deman
 
 ## Multicurrency in demand baselines
 
-Compare financial baselines to track demand performance over time. Baseline comparison helps you identify and review financial changes made to the demand at various life-cycle stages. With the multicurrency feature, you can view financial information in demand currency when comparing baselines. You can also configure the baseline view to add fields and view details in demand currency. For more information, see [Create financial baselines](../task/create-compare-financial-baselines-dw.md).
+Compare financial baselines to track demand performance over time. Baseline comparison helps you identify and review financial changes made to the demand at various life-cycle stages. With the multicurrency feature, you can view financial information in demand currency when comparing baselines. You can also configure the baseline view to add fields and view details in demand currency. For more information, see [Create financial baselines](create-compare-financial-baselines-dw.md).
 

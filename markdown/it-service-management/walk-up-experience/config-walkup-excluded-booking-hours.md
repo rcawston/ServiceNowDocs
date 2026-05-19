@@ -98,5 +98,5 @@ Reconfigure the **Holiday Schedule** field on the Appointment Booking Service Co
     ![Available appointments with accurate off hours times](../image/AvailableAppointments.png)
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

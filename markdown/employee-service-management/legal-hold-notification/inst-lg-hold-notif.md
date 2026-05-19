@@ -33,7 +33,7 @@ The following items are installed with Legal Hold Notification:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Legal Hold Notification](../reference/comp-inst-lg-hold-notif.md).
+For more information, see [Components installed with Legal Hold Notification](comp-inst-lg-hold-notif.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ For more information, see [Components installed with Legal Hold Notification](..
 
 ## What to do next
 
-If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../../legal-request-management/concept/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](../legal-service-delivery/install-legal-counsel-center-workspace.md).
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](config-lg-hold-notif.md)
 

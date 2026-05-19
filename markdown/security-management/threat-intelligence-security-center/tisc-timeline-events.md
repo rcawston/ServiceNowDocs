@@ -102,5 +102,5 @@ Role required: sn\_sec\_tisc.analyst
 -   **[Adding Timeline Events to the Canvas](tisc-add-timeline-events.md)**  
 Add timeline events to the investigation canvas by adding the related entities to the canvas.
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 

@@ -25,5 +25,5 @@ These parameters pass custom specifications to the elements in various applicati
 |Keys \(String\)|Accepts keys, combination of keys, or special keys to trigger their specific actions. For example, **CTRL+A** selects all text.|No|
 |Return \(Boolean\)|Boolean response to whether the Click method was successful.|Not applicable|
 
-**Parent Topic:**[Connectors](../concept/connectors.md)
+**Parent Topic:**[Connectors](connectors.md)
 

@@ -19,7 +19,7 @@ View the ERP Semantic Mining home page for a summary of ERP \(Enterprise Resourc
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../../erp-integration/concept/erp-canvas-work-with-systems.md).
+Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../erp-integration-framework/erp-canvas-work-with-systems.md).
 
 Role required: sn\_erp\_mining.erp\_user
 
@@ -31,12 +31,12 @@ Role required: sn\_erp\_mining.erp\_user
 
 3.  View the list of potential candidates.
 
-    For a description of the field values, see [ERP Semantic Mining candidate list field descriptions](../reference/erpcm-candidate-list-details.md).
+    For a description of the field values, see [ERP Semantic Mining candidate list field descriptions](erpcm-candidate-list-details.md).
 
 4.  View and edit the details for a candidate by selecting the candidate.
 
     For more information, see [Save potential candidates to replatform](erpcm-find-candidates.md).
 
 
-**Parent Topic:**[Finding and working with candidates to replatform](../concept/work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](work-with-candidates.md)
 

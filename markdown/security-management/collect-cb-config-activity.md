@@ -38,5 +38,5 @@ The output variables contain data that can be used in subsequent activities.
 |use\_mid\_server|Determines whether the REST activity uses the MID server to interact with Carbon Black or not.|
 |api\_token|Third-party integration API key.|
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)
 

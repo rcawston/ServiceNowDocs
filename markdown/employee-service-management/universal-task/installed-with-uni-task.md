@@ -102,5 +102,5 @@ Universal Task Dynamic Template Mapping \[sn\_uni\_task\_dynamic\_template\_mapp
 Stores the dynamic template mappings between Universal Task fields and parent table fields.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Universal Task](../task/install-universal-task.md)
+</table>**Parent Topic:**[Install Universal Task](install-universal-task.md)
 

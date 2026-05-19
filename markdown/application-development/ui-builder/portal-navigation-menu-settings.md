@@ -19,7 +19,7 @@ Change the header, footer, and menu settings for your custom portal experience i
 
 This task has the following prerequisites:
 
--   You have an existing portal experience on UI Builder. For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+-   You have an existing portal experience on UI Builder. For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 -   This workspace experience contains at least two pages.
 -   You want users to be able to navigate from a page to other pages that you specify.
 
@@ -27,7 +27,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-Set up the navigation and menu settings in the [app shell](../concept/ui-builder-glossary.md#) of your portal experience. The app shell is the wrapper of the portal contents. For example, the app shell can show things like the logo of your company, user preferences, the search icon, the configuration icon, and the user menu. You can configure this app shell in the ServiceNow AI Platform. For more information about app shells, see [Define UI experiences using app shells](../concept/app-shells-uibuilder.md).
+Set up the navigation and menu settings in the [app shell](ui-builder-glossary.md#) of your portal experience. The app shell is the wrapper of the portal contents. For example, the app shell can show things like the logo of your company, user preferences, the search icon, the configuration icon, and the user menu. You can configure this app shell in the ServiceNow AI Platform. For more information about app shells, see [Define UI experiences using app shells](app-shells-uibuilder.md).
 
 You must be in the correct application scope to edit experience settings. If you are in a different scope, the experience settings are read-only. To change your application scope, in the main header, select the application picker \(![Application picker](../image/application-picker.png)\), and then select the application scope. For more information about the application scope, see [Learn about security and roles](security-roles.md).
 
@@ -39,7 +39,7 @@ You must be in the correct application scope to edit experience settings. If you
 
 2.  Open a portal experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Select **Experience settings** in the UI Builder header.
 
@@ -75,7 +75,7 @@ Show the menu
 
 1.  To add a menu to your portal experience, select **Navigation Menu**.
 2.  To remove the navigation menu, deselect **Navigation Menu**.
-3.  To go to the ServiceNow AI Platform, select **Advanced navigation menu settings**. Here, you can change what menu and menu items are displayed in the navigation menu. For more information, see [Define UI experiences using app shells](../concept/app-shells-uibuilder.md).
+3.  To go to the ServiceNow AI Platform, select **Advanced navigation menu settings**. Here, you can change what menu and menu items are displayed in the navigation menu. For more information, see [Define UI experiences using app shells](app-shells-uibuilder.md).
 
 
 </td></tr><tr><td>
@@ -93,5 +93,5 @@ Display a footer
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Configure UI Builder portal experiences](../concept/ui-builder-portal-settings.md)
+**Parent Topic:**[Configure UI Builder portal experiences](ui-builder-portal-settings.md)
 

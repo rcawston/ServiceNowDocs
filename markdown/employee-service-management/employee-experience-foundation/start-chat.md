@@ -121,5 +121,5 @@ Check this box.Copy and paste the **Workspace Client Script**of the existing Sta
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Customize UI actions for IT Service Management with Microsoft Teams](../concept/ui-actions-ms-teams.md)
+**Parent Topic:**[Customize UI actions for IT Service Management with Microsoft Teams](ui-actions-ms-teams.md)
 

@@ -125,5 +125,5 @@ Option to choose the default chat client.
     |Activities|Chat transcript|
 
 
-**Parent Topic:**[Request based chat - Start and import chat from classic view](../concept/initiate-conversation-requester.md)
+**Parent Topic:**[Request based chat - Start and import chat from classic view](initiate-conversation-requester.md)
 

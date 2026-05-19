@@ -40,5 +40,5 @@ Identify non-compliant hardening settings with the highest score impact on your 
     The hardening score is rounded up. A score of 86.75% will be rounded up to 87.
 
 
-**Parent Topic:**[Hardening compliance score trend](../concept/score-trend.md)
+**Parent Topic:**[Hardening compliance score trend](score-trend.md)
 

@@ -25,7 +25,7 @@ Use the following reference information for better approval experience.
 Use the connected content form to associate content to the topics in your taxonomy.
 -   **[Default Employee Profile Header Configuration record](default-profile-header.md)**  
 The default Employee Profile header configuration record contains the following field values.
--   **[Employee Center widgets](../concept/employee-center-widgets-list.md)**  
+-   **[Employee Center widgets](employee-center-widgets-list.md)**  
 You can use base system widgets as-is in the portal or clone them to suit your own business needs.
 -   **[Employee Profile form](employee-profile-fieldconfig.md)**  
 An option in the Employee Profile configuration that provides a list of employee profile fields.
@@ -76,5 +76,5 @@ The location consent form helps you configure the communication channels for app
 -   **[Website configuration form](config-website-form.md)**  
 The field descriptions provide a point of reference when you're configuring the Browser Extension for Employee Center for a website.
 
-**Parent Topic:**[Employee Center](../concept/employee-center-landing-page.md)
+**Parent Topic:**[Employee Center](employee-center-landing-page.md)
 

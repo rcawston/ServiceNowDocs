@@ -83,5 +83,5 @@ Description
 </table>    Imported chats are reflected in the activity stream of the task record.
 
 
-**Parent Topic:**[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](../concept/msteams-sow.md)
+**Parent Topic:**[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](msteams-sow.md)
 

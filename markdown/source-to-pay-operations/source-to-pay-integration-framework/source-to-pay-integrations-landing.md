@@ -21,15 +21,15 @@ You can find all the Source-to-Pay third-party integrations on the ServiceNow St
 
 </td><td>
 
-[Integrating Sourcing and Procurement Operations \(SPO\) with other applications![](../../../reuse/icons/brand-icons/bus-workflow.svg)Extend the capabilities of Sourcing and Procurement Operations and connect with other departments by integrating with other applications](../../sourcing-procurement-operations/concept/integrating-spo.md)
+[Integrating Sourcing and Procurement Operations \(SPO\) with other applications![](../../../reuse/icons/brand-icons/bus-workflow.svg)Extend the capabilities of Sourcing and Procurement Operations and connect with other departments by integrating with other applications](../sourcing-and-procurement-operations/integrating-spo.md)
 
 </td><td>
 
-[Integrating Supplier Lifecycle Operations \(SLO\) with other applications![](../../../reuse/icons/brand-icons/ind-supply-chain.svg)Extend the capabilities of Supplier Lifecycle Operations by integrating with other applications](../../supplier-lifecycle-operations/concept/integrate-slo.md)
+[Integrating Supplier Lifecycle Operations \(SLO\) with other applications![](../../../reuse/icons/brand-icons/ind-supply-chain.svg)Extend the capabilities of Supplier Lifecycle Operations by integrating with other applications](../supplier-lifecycle-operations/integrate-slo.md)
 
 </td></tr><tr><td>
 
-[Integrating Accounts Payable Operations \(APO\) with other applications![](../../../reuse/icons/brand-icons/bus-dollar-sign.svg)Extend the capabilities of Accounts Payable Operations by integrating with other applications](../../accounts-payable-operations/concept/integrate-apo.md)
+[Integrating Accounts Payable Operations \(APO\) with other applications![](../../../reuse/icons/brand-icons/bus-dollar-sign.svg)Extend the capabilities of Accounts Payable Operations by integrating with other applications](../accounts-payable-operations/integrate-apo.md)
 
 </td><td>
 

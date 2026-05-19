@@ -20,5 +20,5 @@ Credential storage information for securely managing Issuer ID and Shared Secret
 |Production Issuer ID|verifi.cdrn.prod.issuer\_id|Different value from UAT.|
 |Production Shared Secret|verifi.cdrn.prod.secret|Different value from UAT.|
 
-**Parent Topic:**[Configure the Authentication Profile](../task/configure-the-authentication-profile.md)
+**Parent Topic:**[Configure the Authentication Profile](configure-the-authentication-profile.md)
 

@@ -33,11 +33,11 @@ Before you start the OSHA form generation, you must complete the following tasks
 
 -   **[Setting up the OSHA Content Pack](configuring-osha-forms.md)**  
 Set up the Health and Safety Incident Management OSHA Content Pack application to enable the generation of OSHA forms.
--   **[Generate an OSHA 301 form](../task/generate-osha-301-report.md)**  
+-   **[Generate an OSHA 301 form](generate-osha-301-report.md)**  
 Generate an OSHA 301 form for an injury or illness associated with a safety incident.
--   **[Generate an annual OSHA 300 Log or 300A Summary form](../task/generate-osha-annual-form.md)**  
+-   **[Generate an annual OSHA 300 Log or 300A Summary form](generate-osha-annual-form.md)**  
 Generate an annual 300 Log or 300A Summary OSHA form for all OSHA recordable injuries and illnesses that happened in an establishment between January 1 and December 31 of a calendar year.
--   **[View a saved OSHA 300 and 300A form](../task/view-osha-annual-forms.md)**  
+-   **[View a saved OSHA 300 and 300A form](view-osha-annual-forms.md)**  
 View a saved OSHA 300 and 300A form for an establishment.
 -   **[Health and Safety Incident Management OSHA Content Pack reference](hs-reporting-reference.md)**  
 Learn about the components, such as the tables and system properties that are installed when you install the Health and Safety Incident Management OSHA Content Pack application.

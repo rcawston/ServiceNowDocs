@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 8.  In Action 9, a response task is created for you to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Typo Squatted Domain](../concept/playbook-typo-squatted-domain.md)
+**Parent Topic:**[Playbook for Typo Squatted Domain](playbook-typo-squatted-domain.md)
 

@@ -51,7 +51,7 @@ Click the More actions icon \(![More actions icon](../images/MoreActionsIcon.png
 
 -   **Manage natural language title**
 
-    Create or edit an action title with styled or dynamic text. For more information, see [Manage natural language titles](../task/manage-natural-language-title.md).
+    Create or edit an action title with styled or dynamic text. For more information, see [Manage natural language titles](manage-natural-language-title.md).
 
 
 ## Testing actions
@@ -75,20 +75,20 @@ Every action has an Action Status data pill in the Data pane. This object data p
     String data pill containing the message produced by a matching error condition or the last step run. You can return your own message when you create a custom error condition. See [Action error evaluation](action-error-evaluation.md).
 
 
--   **[Getting started with actions](../task/getting-started-action.md)**  
+-   **[Getting started with actions](getting-started-action.md)**  
 Transform the Ask for Approval action into a reusable action that always requires manager approval.
--   **[Create an action in Workflow Studio](../task/create-action.md)**  
+-   **[Create an action in Workflow Studio](create-action.md)**  
 Create a reusable component to automate one or more steps of a process.
--   **[Create conversational action skill](../task/create-conversational-action-skill.md)**  
+-   **[Create conversational action skill](create-conversational-action-skill.md)**  
 Create a skill for the conversational action and make the skill available for users in a conversation. You can have multiple skills for the same action.
--   **[Configure action conversational settings](../task/configure-action-conversation-settings.md)**  
+-   **[Configure action conversational settings](configure-action-conversation-settings.md)**  
 Configure conversation settings to make an action available to conversational interfaces.
--   **[Configure LLM to generate descriptions for conversational actions](../task/configure-default-llm-for-conversational-actions.md)**  
+-   **[Configure LLM to generate descriptions for conversational actions](configure-default-llm-for-conversational-actions.md)**  
 Choose which LLM you want to use by default to generate descriptions for inputs, outputs, and skills for conversational actions.
--   **[Test conversational action](../task/test-conversational-action.md)**  
+-   **[Test conversational action](test-conversational-action.md)**  
 Test a conversational action to verify it responds correctly to user inputs and performs the expected operations before deploying it in production.
 -   **[Complex data](complex-data.md)**  
 Use a graphical interface to work with collections of complex structured data. Help design users understand the organization of structured data, and add, remove, or configure its individual elements.
 
-**Parent Topic:**[Workflow Studio flows, subflows, and actions](../../workflow-studio/reference/workflow-studio-flows-subflows-and-actions-landing.md)
+**Parent Topic:**[Workflow Studio flows, subflows, and actions](workflow-studio-flows-subflows-and-actions-landing.md)
 

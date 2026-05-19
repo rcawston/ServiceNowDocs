@@ -114,14 +114,14 @@ Unique description of the new enrichment integration.
     The enrichment integration is enabled. You can also enable a particular enrichment integration from the **Actions** on the integration tile on the **Catalog**.
 
 
--   **[Create Sighting Search queries](../concept/manage-sighting-search-configurations.md)**  
+-   **[Create Sighting Search queries](manage-sighting-search-configurations.md)**  
 Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific indicators appear in your data sources.
--   **[Using Sighting Search parameters](../concept/manage-sighting-search-parameters.md)**  
+-   **[Using Sighting Search parameters](manage-sighting-search-parameters.md)**  
 Configure advanced search parameters to create complex queries with logic operators and other features supported by your log store. Use these parameters when basic search criteria are insufficient for your investigation needs.
--   **[Get started with Sighting Search Configurations](../concept/tisc-get-sighting-configs.md)**  
+-   **[Get started with Sighting Search Configurations](tisc-get-sighting-configs.md)**  
 Sighting Search Configurations define how threat intelligence data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
--   **[TISC add-on for Splunk overview](../concept/tisc-addon-splunk.md)**  
+-   **[TISC add-on for Splunk overview](tisc-addon-splunk.md)**  
 Configure the Threat Intelligence Security Center \(TISC\) integration with Splunk to import threat intelligence data, set up indicator collections, and analyze search matches using dashboards.
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](tisc-enrichment-integrations.md)
 

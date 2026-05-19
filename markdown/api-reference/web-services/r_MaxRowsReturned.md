@@ -31,5 +31,5 @@ maxrows 500
 
 ![iSQL shortcut properties](../image/isql_shortcut_maxrows.png)
 
-**Parent Topic:**[Use Interactive SQL with ODBC](../task/t_UsingInteractiveSQLWithODBC.md)
+**Parent Topic:**[Use Interactive SQL with ODBC](t_UsingInteractiveSQLWithODBC.md)
 

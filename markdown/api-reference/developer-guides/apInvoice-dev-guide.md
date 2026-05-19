@@ -28,7 +28,7 @@ You can apply a filter condition for invoice lines containing multiple ERPs. For
 See also:
 
 -   
--   [AP Invoice API](../../../inbound-rest/concept/ap-invoice-api.md#)
+-   [AP Invoice API](../rest-apis/ap-invoice-api.md#)
 
 ## Add custom fields for invoice import
 
@@ -146,7 +146,7 @@ Role required: admin
 
 Identify the payload source system listed in the Invoice integration field mappings \[sn\_spend\_intg\_invoice\_intg\_field\_mapping\] table.
 
-See also [AP Invoice – POST sn\_spend\_intg/ap\_invoice/cxml](../../../inbound-rest/concept/ap-invoice-api.md#).
+See also [AP Invoice – POST sn\_spend\_intg/ap\_invoice/cxml](../rest-apis/ap-invoice-api.md#).
 
 ### Procedure
 

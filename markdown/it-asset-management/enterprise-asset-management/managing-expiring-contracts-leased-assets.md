@@ -31,15 +31,15 @@ When the lease-end process begins, the Enterprise Asset Management application a
 
 Based on the action that you select, you must then perform all subsequent tasks to complete the lease-end process and move the lease contract out of the expiring substate.
 
--   **[Begin the lease-end process for an expiring enterprise asset lease contract](../task/begin-lease-end-process-eam.md)**  
+-   **[Begin the lease-end process for an expiring enterprise asset lease contract](begin-lease-end-process-eam.md)**  
 Initiate the lease-end process for an expiring enterprise asset lease contract so that you can return the associated enterprise asset, buy out the associated enterprise asset, or extend the lease contract.
--   **[Complete the Planning task for an expiring enterprise asset lease contract](../task/complete-leased-asset-planning.md)**  
+-   **[Complete the Planning task for an expiring enterprise asset lease contract](complete-leased-asset-planning.md)**  
 Complete the Planning task for an expiring enterprise asset lease contract so that you can proceed with either returning the associated enterprise asset, buying out the associated enterprise asset, or extending the lease contract.
--   **[Return a leased enterprise asset](../task/return-leased-enterprise-asset.md)**  
+-   **[Return a leased enterprise asset](return-leased-enterprise-asset.md)**  
 Return a leased enterprise asset to the asset vendor before the corresponding lease contract expires.
--   **[Buy out a leased enterprise asset](../task/buy-out-leased-enterprise-asset.md)**  
+-   **[Buy out a leased enterprise asset](buy-out-leased-enterprise-asset.md)**  
 Buy out a leased enterprise asset before the corresponding lease contract expires.
--   **[Extend the lease contract for an enterprise asset](../task/extend-enterprise-asset-lease-contract.md)**  
+-   **[Extend the lease contract for an enterprise asset](extend-enterprise-asset-lease-contract.md)**  
 Extend the lease contract for an enterprise asset before it expires.
 
 **Parent Topic:**[Create and manage contracts for enterprise assets](create-manage-enterprise-asset-contracts.md)

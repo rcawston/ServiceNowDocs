@@ -144,7 +144,7 @@ Select this check box to enable the use of scripted conditions. If selected, a *
 -   **[Configure list definitions](t_ConfigureListDefinitions.md)**  
 List definitions, similar to content management frames, are decorative containers that control the look and feel of lists.
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 

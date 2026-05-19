@@ -29,7 +29,7 @@ The CSDM and CMDB Data Foundations Dashboards store app provides dashboards that
 
     Evaluates various configurations and customizations in the CMDB. This dashboard checks that important data is valid and properly configured, and identifies and provides visibility into potential risks in the implementation. Use the CMDB Data Foundations dashboard to prevent issues and support continuous effective functioning of the CMDB.
 
--   **[CSDM Data Foundations dashboard](../../csdm-implementation/concept/csdm-data-foundations-dashboard.md)**
+-   **[CSDM Data Foundations dashboard](csdm-data-foundations-dashboard.md)**
 
     The CSDM Data Foundations dashboard displays key CSDM metrics on a single page to assist you in getting the full benefit from your ServiceNow AI Platform® products.
 

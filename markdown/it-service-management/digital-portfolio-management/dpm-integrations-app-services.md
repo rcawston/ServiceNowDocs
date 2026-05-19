@@ -47,7 +47,7 @@ ITSM Performance Analytics \(PA\)
 
 </td><td>
 
-Key performance indicator \(KPI\) data from PA that comes with the base system. The following list a few but for more information, see [KPI groups installed with Digital Portfolio Management](../reference/dpm-kpi-groups-oob.md).
+Key performance indicator \(KPI\) data from PA that comes with the base system. The following list a few but for more information, see [KPI groups installed with Digital Portfolio Management](dpm-kpi-groups-oob.md).
 
 -   Availability
 -   New incidents

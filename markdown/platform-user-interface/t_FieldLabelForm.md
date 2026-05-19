@@ -67,5 +67,5 @@ Not used. The help file opens in a new tab regardless of the **URL target** valu
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

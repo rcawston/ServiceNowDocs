@@ -77,5 +77,5 @@ The base system `DefaultLegalTicketActions` script provides the configuration of
     4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

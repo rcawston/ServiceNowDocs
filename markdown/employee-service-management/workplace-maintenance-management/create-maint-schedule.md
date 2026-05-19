@@ -23,7 +23,7 @@ Role required: admin
 
 Maintenance schedules are duration or meter based. For example, on the Maintenance Schedule form, select Duration or Meter as the trigger for replacing a printer ink cartridge. Define the maintenance schedule duration as three months and the paper sheets as 10,000. The schedule is triggered when the paper sheets need refill and the printer ink cartridges are replaced based on this trigger. The maintenance schedule populates the **Next run time** \(duration-based schedules\) and **Next run value** \(meter-based schedules\) in the Plan Service configuration. Maintenance schedule job checks for a maintenance schedule template in a plan record and creates maintenance cases.
 
-For more information, see [Create plan service configuration](create-maint-service-config.md) and [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+For more information, see [Create plan service configuration](create-maint-service-config.md) and [Workplace planned maintenance scheduled job](sch-job-planned-nightly.md).
 
 ## Procedure
 
@@ -156,9 +156,9 @@ For example, if your **Due day of week** is next week Monday and your lead time 
     ![Published plan record showing the maintenance schedule for a plan record.](../images/wsd-meter-based-schedule-detail-form.png)
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
 **Previous topic:**[Maintenance plan calendar view](cal-view-overview.md)
 
-**Next topic:**[Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md)
+**Next topic:**[Workplace planned maintenance scheduled job](sch-job-planned-nightly.md)
 

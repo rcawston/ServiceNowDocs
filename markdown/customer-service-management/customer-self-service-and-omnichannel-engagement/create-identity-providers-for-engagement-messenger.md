@@ -25,7 +25,7 @@ If you previously configured an IdP, you can ignore this task and reuse the exis
 
 **Note:** If you have configured multiple IdPs on your instance and want to select a specific IdP for your Engagement Messenger module, do the following:
 
--   [Enable Engagement Messenger on a website when third-party application cookies are blocked](../task/allowlist-em-third-party-website.md)
+-   [Enable Engagement Messenger on a website when third-party application cookies are blocked](allowlist-em-third-party-website.md)
 -   [Custom URL with Identity Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/custom-url-with-multiple-identity-providers.md)
 -   If you have multiple IdPs on your instance:
 
@@ -51,7 +51,7 @@ If you previously configured an IdP, you can ignore this task and reuse the exis
 
     You must verify that the customers of your website are also added in your OIDC or SAML authentication provider for the ServiceNow instance.
 
--   Enable cross-domain requests between Engagement Messenger and your website. For more information, see [Configure a CORS rule for Engagement Messenger](../task/create-cors-for-rest-api-ec.md).
+-   Enable cross-domain requests between Engagement Messenger and your website. For more information, see [Configure a CORS rule for Engagement Messenger](create-cors-for-rest-api-ec.md).
 
 **Related topics**  
 

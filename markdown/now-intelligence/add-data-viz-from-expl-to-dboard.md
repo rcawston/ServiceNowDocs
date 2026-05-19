@@ -52,5 +52,5 @@ To save your visualization in the dashboard, select **Save** in the dashboard co
 
 ![Dashboard and exploration after visualization is copied and follow-up is asked](../image/nowass-expl-imp-viz-w-followup.png "Dashboard and exploration after visualization is copied and follow-up is asked")
 
-**Parent Topic:**[Questions and responses in an exploration](../concept/ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](ask-expl-questions.md)
 

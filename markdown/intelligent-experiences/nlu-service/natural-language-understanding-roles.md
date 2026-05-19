@@ -111,7 +111,7 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
-This role is installed with NLU Workbench - Advanced Features. For more information, see [NLU Workbench - Advanced Features](../concept/nlu-workbench-advanced-features.md).
+This role is installed with NLU Workbench - Advanced Features. For more information, see [NLU Workbench - Advanced Features](nlu-workbench-advanced-features.md).
 
-This role is used in Expert Feedback Loop modules. For more information, see [NLU Expert Feedback Loop](../concept/nlu-expert-feedback-loop.md) or [Issue Auto Resolution Tuning in NLU](../concept/issue-auto-resolution-tuning-nlu.md).
+This role is used in Expert Feedback Loop modules. For more information, see [NLU Expert Feedback Loop](nlu-expert-feedback-loop.md) or [Issue Auto Resolution Tuning in NLU](issue-auto-resolution-tuning-nlu.md).
 

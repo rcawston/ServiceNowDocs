@@ -38,5 +38,5 @@ Role required: admin
 
 A goals demo data with target breakdowns is created. You can now view the target breakdowns for your goals in the Goals and targets tab on the Goals page.
 
-**Parent Topic:**[Configuring goals in Strategic Planning](../concept/configuring-goal-framework-apw.md)
+**Parent Topic:**[Configuring goals in Strategic Planning](configuring-goal-framework-apw.md)
 

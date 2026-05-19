@@ -44,5 +44,5 @@ The KPI Template \[sn\_kpi\_template\] table contains the following fields.
 **Related topics**  
 
 
-[Create manual KPI templates](../task/create-kpi-template-slo.md)
+[Create manual KPI templates](create-kpi-template-slo.md)
 

@@ -21,7 +21,7 @@ To open an existing workspace in Workspace Builder using ServiceNow Studio, comp
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **ServiceNow Studio**.
 2.  Open the workspace in one of the following ways:
-    -   Search for the workspace by name or code snippet and select it. For details, see [Find an app or app file using code search](../../servicenow-studio/task/find-app-app-file-using-code-search.md).
+    -   Search for the workspace by name or code snippet and select it. For details, see [Find an app or app file using code search](../servicenow-studio-classic/find-app-app-file-using-code-search.md).
     -   Search for it in the Filter list bar at the top of the Navigator panel.
 
         ![Enter workspace name in the Filter list field](../image/wb-search-sns-nav-panel.png "Search for a workspace")

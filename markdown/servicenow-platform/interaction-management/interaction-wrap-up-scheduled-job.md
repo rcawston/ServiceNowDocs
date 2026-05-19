@@ -18,7 +18,7 @@ The interaction wrap up feature includes a scheduled job to close any interactio
 Ending the wrap up period is typically performed in the following ways:
 
 -   Manually by the agent.
--   Automatically by the system, if the **Enforce wrap up duration** setting is enabled in the [interaction wrap up configuration](../task/create-interaction-wrap-up-config.md).
+-   Automatically by the system, if the **Enforce wrap up duration** setting is enabled in the [interaction wrap up configuration](create-interaction-wrap-up-config.md).
 -   By closing the workspace tab.
 
 While most interaction records are automatically closed when the configured wrap up period ends, the interaction wrap up feature also includes a scheduled job to close any remaining records. For example, if the **Enforce wrap up duration** setting is not enabled in the configuration and agents close interactions by closing the browser, these interactions can remain in the Wrap Up state.

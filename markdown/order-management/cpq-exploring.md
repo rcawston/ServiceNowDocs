@@ -58,5 +58,5 @@ Designed to support a broad set of users, each playing a critical role in config
 
 [Using CPQ](cpq-using.md)
 
-[CPQ reference](../reference/servicenow-cpq-reference.md)
+[CPQ reference](servicenow-cpq-reference.md)
 

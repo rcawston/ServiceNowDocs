@@ -43,7 +43,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 5.  In the **All available Contract Management Pro skills** section, select **Turn on** for the skill that you want to activate.
 
 
-**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](../concept/use-now-assist-cmpro-spo.md)
+**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](use-now-assist-cmpro-spo.md)
 
 **Related topics**  
 

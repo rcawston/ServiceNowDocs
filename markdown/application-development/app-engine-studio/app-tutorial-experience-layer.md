@@ -41,7 +41,7 @@ Step 2
 
 </td><td>
 
-[Create an app](../task/app-tutorial-create-an-app.md)
+[Create an app](app-tutorial-create-an-app.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Step 6
 
 </td><td>
 
-[Test your application](../task/app-tutorial-test-app.md)
+[Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
 </table>## Overview of user experiences
@@ -108,7 +108,7 @@ Phase 1
 
 </td><td>
 
-[Add a record producer](../task/app-tutorial-add-record-producer.md)
+[Add a record producer](app-tutorial-add-record-producer.md)
 
 </td></tr><tr><td align="justify">
 
@@ -116,10 +116,10 @@ Phase 2
 
 </td><td>
 
-[Configure a record producer](../task/app-tutorial-configure-record-producer.md)
+[Configure a record producer](app-tutorial-configure-record-producer.md)
 
 </td></tr></tbody>
 </table>## Next steps
 
-Start building the user experience for the employee travel request application: [Add a record producer](../task/app-tutorial-add-record-producer.md).
+Start building the user experience for the employee travel request application: [Add a record producer](app-tutorial-add-record-producer.md).
 

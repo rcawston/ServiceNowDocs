@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the TCP integration configuration forms for Health Log Analytics.
 
-For the TCP integration setup procedure, see [Set up a TCP integration for Health Log Analytics](../task/il-connector-hla-tcp.md).
+For the TCP integration setup procedure, see [Set up a TCP integration for Health Log Analytics](il-connector-hla-tcp.md).
 
 <table id="table_sfp_25d_pcc"><thead><tr><th>
 

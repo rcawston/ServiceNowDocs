@@ -30,7 +30,7 @@ Teams are used in both Service Reliability Management and Service Observability 
 
 The services that you want to monitor in Service Observability must be activated. Activation enables you to map data from an observability monitoring instance to that service and then view that service's related data on the **Overview** and **Observability** tabs.
 
-**Note:** Teams and services activated for Service Observability are also activated for Service Reliability Management \(SRM\). Service Observability admins can create a single service. For more information, see [Add a service to SRM](../../service-reliability/task/sr-add-service.md). When Service Observability admins create a single service, it's automatically activated for Service Observability and SRM. For more information, see [Service Reliability Management](../../service-reliability/reference/sr-landing-page.md).
+**Note:** Teams and services activated for Service Observability are also activated for Service Reliability Management \(SRM\). Service Observability admins can create a single service. For more information, see [Add a service to SRM](../service-reliability-management/sr-add-service.md). When Service Observability admins create a single service, it's automatically activated for Service Observability and SRM. For more information, see [Service Reliability Management](../service-reliability-management/sr-landing-page.md).
 
 ## Procedure
 
@@ -57,8 +57,8 @@ The services that you want to monitor in Service Observability must be activated
 
 ## What to do next
 
-1.  [Connect a Service Observability data source](../task/connect-an-observability-data-source.md)
-2.  [Create and manage data mappings](../task/create-and-manage-observability-data-mappings.md)
+1.  [Connect a Service Observability data source](connect-an-observability-data-source.md)
+2.  [Create and manage data mappings](create-and-manage-observability-data-mappings.md)
 
 **Parent Topic:**[Configuring Service Observability](configuring-service-observability.md)
 

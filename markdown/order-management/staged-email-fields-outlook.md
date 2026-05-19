@@ -32,10 +32,10 @@ Field descriptions for viewing email records linked to CRM entities in the Stage
 |Body|HTML-formatted content of the email.|
 |Body text|Plain text version of the email content.|
 
-**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 
 **Related topics**  
 
 
-[Track emails linked from Microsoft Outlook](../task/view-associated-emails-crm.md)
+[Track emails linked from Microsoft Outlook](view-associated-emails-crm.md)
 

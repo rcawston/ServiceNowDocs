@@ -73,5 +73,5 @@ Select **Subscribe**.
 **Related topics**  
 
 
-[Collaborate on ideas](../task/collaborate-on-an-idea.md)
+[Collaborate on ideas](collaborate-on-an-idea.md)
 

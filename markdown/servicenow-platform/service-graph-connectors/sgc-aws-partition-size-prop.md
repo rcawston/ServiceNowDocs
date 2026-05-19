@@ -26,7 +26,7 @@ Role required: admin
 
 The parallel loading feature is available for the SG-AWS-Image-Private, SG-AWS-Tags, SG-AWS-SendCommand, and AWS-SSM-GetS3Object data sources from the Washington DC Patch 5 release. This feature determines the number of AWS accounts that can be executed as parallel jobs to retrieve configuration item \(CI\) data. Partition size determines how many AWS accounts a single parallel-thread evaluates for data retrieval. For example, if you set the **aws\_account\_partition\_size** property to `5` and there are `25` AWS accounts, the application generates `5` parallel jobs during data loading.
 
-**Note:** If the **aws\_account\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](../concept/integration-commons-part-size.md).
+**Note:** If the **aws\_account\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-part-size.md).
 
 ## Procedure
 

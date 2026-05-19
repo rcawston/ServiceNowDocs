@@ -80,7 +80,7 @@ Role required: admin on your ServiceNow instance and local administrator on the 
     To learn more, see [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user).
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](headless-browser-procedure-linux.md)
 
 **Previous topic:**[Generate certificates for Headless Browser setup for Linux](headless-browser-certificates.md)
 

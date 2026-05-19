@@ -61,13 +61,13 @@ You can also do the following types of administrative actions:
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Intune using SGC Central](../../sgc-central/task/sgcc-configure-intune-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft Intune using SGC Central](sgcc-configure-intune-integ.md).
 
 **Important:** The guided setup method is deprecated from version 2.7.0 of the Service Graph Connector for Microsoft Intune. Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector.
 
 ## CMDB integration dashboards
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Intune integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -105,21 +105,21 @@ SG-Intune Computer \[sn\_intune\_integrat\_computer\]
 
 </td><td>
 
-[Computer](../reference/cmdb-intune-classes.md#section_z3h_sr3_k5b)
+[Computer](cmdb-intune-classes.md#section_z3h_sr3_k5b)
 
- [SG-Intune Computer Related](../reference/cmdb-intune-classes.md#section_fbc_hdv_lbc)
+ [SG-Intune Computer Related](cmdb-intune-classes.md#section_fbc_hdv_lbc)
 
- [IP Address](../reference/cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
 
- [Serial Number](../reference/cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](../reference/cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
 
- [Software Instance](../reference/cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
 
- When the SAM application is installed: [Software Installation](../reference/cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
 
 </td><td>
 
@@ -139,23 +139,23 @@ SG-Intune Devices \[sn\_intune\_integrat\_devices\]
 
 </td><td>
 
-[Handheld Computing Device](../reference/cmdb-intune-classes.md#section_wsz_cdv_lbc)
+[Handheld Computing Device](cmdb-intune-classes.md#section_wsz_cdv_lbc)
 
- [Serial Number](../reference/cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
 
- [Network Adapter](../reference/cmdb-intune-classes.md#section_abw_2dv_lbc)
+ [Network Adapter](cmdb-intune-classes.md#section_abw_2dv_lbc)
 
- [SG-Intune Device Related](../reference/cmdb-intune-classes.md#section_pwb_3dv_lbc)
+ [SG-Intune Device Related](cmdb-intune-classes.md#section_pwb_3dv_lbc)
 
- [IP Address](../reference/cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](../reference/cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
 
- [Software Instance](../reference/cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
 
- When the SAM application is installed: [Software Installation](../reference/cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
 
 </td><td>
 
@@ -175,7 +175,7 @@ SG-Intune Software \[sn\_intune\_integrat\_software\]
 
 </td><td>
 
-[Software](../reference/cmdb-intune-classes.md#section_fw5_3dv_lbc)
+[Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
 
 </td><td>
 
@@ -195,27 +195,27 @@ SG-Intune Device Reports \[sn\_intune\_integrat\_device\_reports\]
 
 </td><td>
 
-[Computer](../reference/cmdb-intune-classes.md#section_z3h_sr3_k5b) or [Handheld Computing Device](../reference/cmdb-intune-classes.md#section_wsz_cdv_lbc)
+[Computer](cmdb-intune-classes.md#section_z3h_sr3_k5b) or [Handheld Computing Device](cmdb-intune-classes.md#section_wsz_cdv_lbc)
 
- [Serial Number](../reference/cmdb-intune-classes.md#section_uyh_gdv_lbc)
+ [Serial Number](cmdb-intune-classes.md#section_uyh_gdv_lbc)
 
- [Network adapter](../reference/cmdb-intune-classes.md#section_abw_2dv_lbc)
+ [Network adapter](cmdb-intune-classes.md#section_abw_2dv_lbc)
 
- [SG-Intune Computer Related](../reference/cmdb-intune-classes.md#section_fbc_hdv_lbc)
+ [SG-Intune Computer Related](cmdb-intune-classes.md#section_fbc_hdv_lbc)
 
- [SG-Intune Device Related](../reference/cmdb-intune-classes.md#section_pwb_3dv_lbc)
+ [SG-Intune Device Related](cmdb-intune-classes.md#section_pwb_3dv_lbc)
 
- [IP Address](../reference/cmdb-intune-classes.md#section_it4_fdv_lbc)
+ [IP Address](cmdb-intune-classes.md#section_it4_fdv_lbc)
 
 **Note:** Imports Wireless \(Wi-Fi\) IPv4 Address of a device only.
 
  When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](../reference/cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
 
- [Software Instance](../reference/cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
 
- When the SAM application is installed: [Software Installation](../reference/cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
 
 </td><td>
 
@@ -237,11 +237,11 @@ SG-Intune Software Reports \[sn\_intune\_integrat\_software\_reports\]
 
 When the Software Asset Management \(SAM\) application isn't installed:
 
- [Software](../reference/cmdb-intune-classes.md#section_fw5_3dv_lbc)
+ [Software](cmdb-intune-classes.md#section_fw5_3dv_lbc)
 
- [Software Instance](../reference/cmdb-intune-classes.md#section_l4k_jdv_lbc)
+ [Software Instance](cmdb-intune-classes.md#section_l4k_jdv_lbc)
 
- When the SAM application is installed: [Software Installation](../reference/cmdb-intune-classes.md#section_cgz_ddv_lbc)
+ When the SAM application is installed: [Software Installation](cmdb-intune-classes.md#section_cgz_ddv_lbc)
 
 </td><td>
 
@@ -252,7 +252,7 @@ Discovered apps
 Advanced
 
 </td></tr></tbody>
-</table>Starting with the Service Graph Connector for Microsoft Intune 2.7.0 version, the SG-Intune Device Reports and SG-Intune Software Reports advanced data sources are not available by default. To use these advanced data sources, you must select the **Advanced data sources** option while configuring the connection using SGC Central. See [Configure Service Graph Connector for Microsoft Intune using SGC Central](../../sgc-central/task/sgcc-configure-intune-integ.md).
+</table>Starting with the Service Graph Connector for Microsoft Intune 2.7.0 version, the SG-Intune Device Reports and SG-Intune Software Reports advanced data sources are not available by default. To use these advanced data sources, you must select the **Advanced data sources** option while configuring the connection using SGC Central. See [Configure Service Graph Connector for Microsoft Intune using SGC Central](sgcc-configure-intune-integ.md).
 
 Configure the SG-Intune Device Reports and SG-Intune Software Reports advanced data sources for faster data import, better performance, and inclusion of software publisher details. Compared to the regular data sources \(SG-Intune Computer, SG-Intune Devices, and SG-Intune Software\), the advanced data sources help resolve server errors and performance issues caused by having a large number of Microsoft Intune devices.
 
@@ -270,9 +270,9 @@ After you complete setting up the connection, you can configure the integration 
     You can add these related lists by configuring the Related Lists view on the form that opens when you select a handheld computing device or computer configuration item \(CI\) in the Computer \[cmdb\_ci\_computer\] class. Computer CIs are displayed in the Computers list, accessed by navigating to **All** &gt; **Configuration** &gt; **Base Items** &gt; **Computers**. For more information about adding related lists to a form, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 
-For more information on where data is saved when pulling data from a Microsoft Intune application, see [CMDB classes targeted in Service Graph Connector for Microsoft Intune](../reference/cmdb-intune-classes.md).
+For more information on where data is saved when pulling data from a Microsoft Intune application, see [CMDB classes targeted in Service Graph Connector for Microsoft Intune](cmdb-intune-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Additional resources
 
@@ -284,5 +284,5 @@ You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHu
 
 [Service Graph Connectors](cmdb-sgc-available.md)
 
-[Configure Service Graph Connector for Microsoft Intune using SGC Central](../../sgc-central/task/sgcc-configure-intune-integ.md)
+[Configure Service Graph Connector for Microsoft Intune using SGC Central](sgcc-configure-intune-integ.md)
 

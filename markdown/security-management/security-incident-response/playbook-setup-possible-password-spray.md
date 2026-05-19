@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Possible Password Spray playbook.](../image/playbook-password-spray-trigger.png)
 
 
-**Parent Topic:**[Playbook for Possible Password Spray](../concept/playbook-possible-password-spray.md)
+**Parent Topic:**[Playbook for Possible Password Spray](playbook-possible-password-spray.md)
 

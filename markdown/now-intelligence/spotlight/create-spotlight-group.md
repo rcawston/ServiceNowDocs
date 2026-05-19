@@ -63,7 +63,7 @@ Main Indicator
 
 The indicator that collects the records that you want this Spotlight group to evaluate.The main indicator must meet the following requirements:
 
--   It must be an [automated indicator](../concept/performance-analytics-glossary.md#).
+-   It must be an [automated indicator](../performance-analytics/performance-analytics-glossary.md#).
 -   The collect\_records property of the indicator must be set to true. This property is set in the Source tab of the indicator form.
 -   The indicator source for the indicator must refer to an actual table, not a database view.
  All criteria for evaluating this Spotlight group use the same facts table as the indicator source of the main indicator.
@@ -79,7 +79,7 @@ The indicator that collects the records that you want this Spotlight group to ev
 
     |Option|Description|
     |------|-----------|
-    |**Performance Analytics snapshot**|A snapshot of records from when the relevant Performance Analytics [data collection jobs](../concept/performance-analytics-glossary.md#) last ran.|
+    |**Performance Analytics snapshot**|A snapshot of records from when the relevant Performance Analytics [data collection jobs](../performance-analytics/performance-analytics-glossary.md#) last ran.|
     |**Platform data**|Data from the platform at the time that the Spotlight job runs.|
 
     For more information, see [Evaluating a snapshot or platform data](create-spotlight-group.md#).
@@ -99,18 +99,18 @@ You have created a Spotlight group with an indicator and a threshold, and you ha
 
 **Note:** If you copy a Spotlight group to other domains or other breakdown elements, no Spotlight job results that were already generated for the original Spotlight group are copied.
 
-**Parent Topic:**[Setting up Spotlight](../concept/setting-up-spotlight.md)
+**Parent Topic:**[Setting up Spotlight](setting-up-spotlight.md)
 
 **Related topics**  
 
 
-[Domain separation with Spotlight](../concept/domain-separation-spotlight.md)
+[Domain separation with Spotlight](domain-separation-spotlight.md)
 
-[Spotlight interactive analysis](../concept/spotlight-interactive-analysis.md)
+[Spotlight interactive analysis](spotlight-interactive-analysis.md)
 
-[Performance Analytics indicators](../concept/c_Indicators.md)
+[Performance Analytics indicators](../performance-analytics/c_Indicators.md)
 
-[Collecting indicator scores](../concept/c_ClctData.md)
+[Collecting indicator scores](../performance-analytics/c_ClctData.md)
 
 ## Evaluating a snapshot or platform data
 
@@ -120,13 +120,13 @@ When a Spotlight job runs, it either evaluates a snapshot of collected records o
 
 ### Evaluating snapshot records
 
-By default, a new Spotlight group uses a snapshot of records. Snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected. The Performance Analytics [data collection jobs](../concept/performance-analytics-glossary.md#) for the main indicator and the criteria indicators of the Spotlight group create the snapshots. These jobs must run, collecting records, before the Spotlight evaluation job runs.
+By default, a new Spotlight group uses a snapshot of records. Snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected. The Performance Analytics [data collection jobs](../performance-analytics/performance-analytics-glossary.md#) for the main indicator and the criteria indicators of the Spotlight group create the snapshots. These jobs must run, collecting records, before the Spotlight evaluation job runs.
 
 For a Spotlight group to use snapshot records, the data collection and Spotlight evaluation jobs must meet the following conditions:
 
 -   The main indicator and all the indicators used in the criteria of the Spotlight group have record collection enabled.
 
-    **Note:** The **Collect Records** option on the Indicator form enables record collection, as described in [Create an automated indicator](t_CreateAnAutomatedIndicator.md#).
+    **Note:** The **Collect Records** option on the Indicator form enables record collection, as described in [Create an automated indicator](../performance-analytics/t_CreateAnAutomatedIndicator.md#).
 
 -   The main indicator and all the indicators used in the criteria of the Spotlight group have the same data collection frequency.
 -   The data collection jobs for all the Spotlight group indicators run as closely together as possible, to keep the data synchronized. The snapshots of the criteria indicators must have the same date as the last score date of the main indicator. Ideally, the main indicator and all the criteria indicators are in the same data collection job.

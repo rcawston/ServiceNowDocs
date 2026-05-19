@@ -50,7 +50,7 @@ The limitations of the RPA bot generation skill are as follows.
 
 -   **Automation for Windows, Java, or browser applications**
 
-    For automating Windows, Java, or browser-based applications, RPA Desktop Design Studio suggests generic UI actions such as SetValue, GetValue, or Click. These actions are a part of the Universal app connector. You must configure these actions manually, including capturing screens and adding elements via the field window. For more information about these methods, see [Universal app connector](../concept/universal-app-connector.md).
+    For automating Windows, Java, or browser-based applications, RPA Desktop Design Studio suggests generic UI actions such as SetValue, GetValue, or Click. These actions are a part of the Universal app connector. You must configure these actions manually, including capturing screens and adding elements via the field window. For more information about these methods, see [Universal app connector](universal-app-connector.md).
 
 -   **Expression-based components**
 
@@ -61,5 +61,5 @@ The limitations of the RPA bot generation skill are as follows.
     If the large language model \(LLM\) returns a method that doesn’t exist in the RPA Desktop Design Studio, then such methods are displayed as unknown components in the generated automation workflow.
 
 
-**Parent Topic:**[Now Assist for RPA Hub reference](../concept/now-assist-rpa-hub-reference.md)
+**Parent Topic:**[Now Assist for RPA Hub reference](now-assist-rpa-hub-reference.md)
 

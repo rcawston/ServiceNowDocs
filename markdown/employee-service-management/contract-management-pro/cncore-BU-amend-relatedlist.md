@@ -57,7 +57,7 @@ The Contract amendment related tabs are available from your workspace to view th
 
 For more information on contract amendment, see [Contract amendments](cmpro-amend-landing.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

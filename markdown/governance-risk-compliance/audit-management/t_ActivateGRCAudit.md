@@ -21,8 +21,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 
-**Parent Topic:**[Configuring Audit Management](../../grc-audit-implementation/concept/audit-imple-overview.md)
+**Parent Topic:**[Configuring Audit Management](audit-imple-overview.md)
 

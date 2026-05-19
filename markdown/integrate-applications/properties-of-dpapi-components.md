@@ -20,5 +20,5 @@ Learn about the properties of the DPAPI components in RPA Desktop Design Studio.
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[DPAPI](../concept/dpapi.md)
+**Parent Topic:**[DPAPI](dpapi.md)
 

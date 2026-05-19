@@ -47,9 +47,9 @@ Role required: admin
 **Related topics**  
 
 
-[Team Development](../reference/team-development-landing.md)
+[Team Development](team-development-landing.md)
 
-[Access rights for developers](../reference/r_GrantingAccessRightsToDevelopers.md)
+[Access rights for developers](r_GrantingAccessRightsToDevelopers.md)
 
 [Push a version](t_PushAVersion.md)
 

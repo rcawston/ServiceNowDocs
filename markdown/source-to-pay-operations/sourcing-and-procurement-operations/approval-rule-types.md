@@ -110,5 +110,5 @@ Such requesters can also complete approval tasks, if configured, and provide app
 
 **Note:** In case of any issues related to approvals not getting created as expected, ensure that the flag on the rule is in the correct state and the rule conditions are met.
 
-**Parent Topic:**[Create an approval rule](../task/create-approval-rule.md)
+**Parent Topic:**[Create an approval rule](create-approval-rule.md)
 

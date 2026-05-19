@@ -41,7 +41,7 @@ The threads setting depends on the limitation of the CPU speed, memory, and oper
 -   Each thread on the MID Server requires some memory. Exactly how much memory varies considerably from task to task and depends on the equipment being discovered. To increase the number of threads, you might have to [increase the amount of memory](t_MIDServerOptionalConfiguration.md) that Java uses. If you configure insufficient memory, an Out of memory error appears in the MID Server log.
 -   You can set threads.max as high as 200, however, this setting may need to be changed depending on the OS. For example, Windows-based MID Servers running Discovery uses Powershell which is resource intensive. In this case, you may exhaust the CPU power of the host machine with just 50 threads count.
 
-Follow the steps below to change the `config.XML` file. Alternatively, use the `threads.max` connection parameter. See [MID Server Connection parameters](../reference/mid-server-parameters.md#) for more details.
+Follow the steps below to change the `config.XML` file. Alternatively, use the `threads.max` connection parameter. See [MID Server Connection parameters](mid-server-parameters.md#) for more details.
 
 ## Procedure
 
@@ -62,5 +62,5 @@ Follow the steps below to change the `config.XML` file. Alternatively, use the `
 5.  Restart the MID Server service.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 

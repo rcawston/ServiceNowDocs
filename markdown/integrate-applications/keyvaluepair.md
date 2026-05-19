@@ -15,13 +15,13 @@ The KeyValuePair connector enables you to do multiple actions on key value pairs
 
 The Keyvalue pair connector exposes methods to do various actions on keyvalue pairs. These methods can work in conjunction with other methods or components in an automation.
 
--   To use the Keyvalue pair connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the Keyvalue pair connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
 For details on the issues related to the Keyvalue pair component, see [KB article KB1123557](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123557).
 
--   **[KeyValuePair connector methods](../reference/keyvaluepair-connector-methods.md)**  
+-   **[KeyValuePair connector methods](keyvaluepair-connector-methods.md)**  
 The Keyvalue pair connector methods perform various actions on key value pairs. In an automation flow, the methods are connected with other methods and components. To use the methods, you must first expose them.
 
 **Parent Topic:**[Connectors](connectors.md)

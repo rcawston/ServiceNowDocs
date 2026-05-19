@@ -28,5 +28,5 @@ Mobile applications created in the Madrid release still work in the Australia re
 3.  Click **Upgrade** when prompted to start the migration script.![Mobile migration script prompt](../image/migration-script-prompt.png)
 
 
-**Parent Topic:**[Mobile migration from Madrid to New York and later releases](../concept/sg-mobile-migration-ny.md)
+**Parent Topic:**[Mobile migration from Madrid to New York and later releases](sg-mobile-migration-ny.md)
 

@@ -31,7 +31,7 @@ Use the Search Preview UI to diagnose filter configurations that prevent a searc
 
 2.  Select the Search Preview UI's Profile tool ![](../image/search-preview-new-icon-user.png) and enter the affected user's name into the **Search as user** field.
 
-    **Note:** For more details on the **Search as user** field, see [Search Preview admin tools](../reference/search-preview-ui-new-admin-tools.md).
+    **Note:** For more details on the **Search as user** field, see [Search Preview admin tools](search-preview-ui-new-admin-tools.md).
 
 3.  In the Preview types list, select **Full visual view**.
 
@@ -99,5 +99,5 @@ Compare the two search result sets. If the search result in question appears onl
 
 If the search result in question is indexed from an external document, you can debug the external content security access permission filter for the affected user to see whether it prevents access to the search result. For details on this procedure, see [Debug external content security filters for a ServiceNow AI Platform user](debug-ext-security-perms-user-ais.md).
 
-**Parent Topic:**[Administering AI Search](../concept/administer-ais.md)
+**Parent Topic:**[Administering AI Search](administer-ais.md)
 

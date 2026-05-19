@@ -47,8 +47,8 @@ Text Translations for Dynamic Translation \[sys\_cs\_dynamic\_translation\_text\
 
 </td><td>
 
-Stores copies of the translations found in the Message \[sys\_ui\_message\] table and previously dynamically translated messages.This view-only table is only available when the Dynamic Translation for Virtual Agent plugin is installed and the Dynamic Translation in Virtual Agent feature is enabled. This table is cleared every 24 hours to ensure that the most up-to-date translations stored in the Message \[sys\_ui\_message\] table are being referenced. For more information about how the Text Translations for Dynamic Translation \[sys\_cs\_dyamic\_translation\_text\] table works with Dynamic Translation in Virtual Agent, see [Using language detection and dynamic machine translation in Virtual Agent enhanced chat conversations](../concept/dynamic-lang-detection-translation-enhanced-chat.md).
+Stores copies of the translations found in the Message \[sys\_ui\_message\] table and previously dynamically translated messages.This view-only table is only available when the Dynamic Translation for Virtual Agent plugin is installed and the Dynamic Translation in Virtual Agent feature is enabled. This table is cleared every 24 hours to ensure that the most up-to-date translations stored in the Message \[sys\_ui\_message\] table are being referenced. For more information about how the Text Translations for Dynamic Translation \[sys\_cs\_dyamic\_translation\_text\] table works with Dynamic Translation in Virtual Agent, see [Using language detection and dynamic machine translation in Virtual Agent enhanced chat conversations](dynamic-lang-detection-translation-enhanced-chat.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Localizing Virtual Agent conversations](../concept/localize-va-topic.md)
+</table>**Parent Topic:**[Localizing Virtual Agent conversations](localize-va-topic.md)
 

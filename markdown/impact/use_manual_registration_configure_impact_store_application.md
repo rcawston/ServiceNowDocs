@@ -19,7 +19,7 @@ Refer to [Configure the Impact Store Application](configuring-impact-platform.md
 
 **Important:**
 
-Follow the individual topics for each step of the Impact Guided setup. Manual registration is performed in place of the automated registration step 8, [Use automated registration to connect to the Impact Delivery Instance](../task/start-automated-registration-IDI.md).
+Follow the individual topics for each step of the Impact Guided setup. Manual registration is performed in place of the automated registration step 8, [Use automated registration to connect to the Impact Delivery Instance](start-automated-registration-IDI.md).
 
 If the automated registration failed, contact your Impact Squad, as the manual configuration may also fail to complete successfully.
 
@@ -60,17 +60,17 @@ Role required: admin, any Impact role
 
     1.  [Initiate the connection to the Impact Delivery Instance with manual registration](initiate-the-connection-impact-delivery-instance.md).
 
-    2.  [Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md) with Service Bridge registration
+    2.  [Use manual registration to establish the connection to the provider instance](connect-instance-impact-store-app.md) with Service Bridge registration
 
-3.  Return to Guided Setup to [Verify Impact data connection](../task/verify-impact-data-connection.md)
+3.  Return to Guided Setup to [Verify Impact data connection](verify-impact-data-connection.md)
 
-4.  [Initiate data migration from IDI](../task/initiate-migration-idi.md) that migrates data from IDI to the Impact Store Application.
+4.  [Initiate data migration from IDI](initiate-migration-idi.md) that migrates data from IDI to the Impact Store Application.
 
 
 1.  [Initiate the connection to the Impact Delivery Instance with manual registration](initiate-the-connection-impact-delivery-instance.md)  
 Establish a connection between your Impact Store Application and the Impact Delivery Instance to allow the exchange of data.
-2.  [Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md)  
+2.  [Use manual registration to establish the connection to the provider instance](connect-instance-impact-store-app.md)  
 The named contact administrator will establish a secure connection to the Impact Delivery Instance \(provider instance\) to transmit data with the Impact Store Application.
 
-**Parent Topic:**[Impact reference](../reference/impact-reference.md)
+**Parent Topic:**[Impact reference](impact-reference.md)
 

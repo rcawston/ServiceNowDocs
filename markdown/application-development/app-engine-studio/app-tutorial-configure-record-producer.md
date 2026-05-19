@@ -213,5 +213,5 @@ Your record producer is configured and ready for testing.
 
 ## What to do next
 
-Continue building the employee travel request application by proceeding to the next step: [Adding logic and automation](../concept/app-tutorial-logic-automation-layer.md).
+Continue building the employee travel request application by proceeding to the next step: [Adding logic and automation](app-tutorial-logic-automation-layer.md).
 

@@ -82,23 +82,23 @@ Observables
 </td></tr></tbody>
 </table>For a better understanding of each import format and the types of records supported, refer to the Related Information section.
 
--   **[Import data using structured file](../task/import-data-using-structured-file.md)**  
+-   **[Import data using structured file](import-data-using-structured-file.md)**  
 Upload the structured data in the supported file formats such as CSV, XLSX or XLS.
--   **[Import data using standard format](../task/import-data-using-standard-format.md)**  
+-   **[Import data using standard format](import-data-using-standard-format.md)**  
 Upload the standard data in the supported file formats such as STIX 2.x JSON, MISP JSON.
--   **[Import data using raw text](../task/import-data-using-pasted-text.md)**  
+-   **[Import data using raw text](import-data-using-pasted-text.md)**  
 Import the observables data by copying and pasting raw text or entering the free text.
--   **[Import data using unstructured file format](../task/import-data-using-unstructured-file.md)**  
+-   **[Import data using unstructured file format](import-data-using-unstructured-file.md)**  
 Upload the data in an unstructured format supported using the file formats such as TXT, CSV, JSON, XLS, XLSX.
 
 **Related topics**  
 
 
-[Import data using structured file](../task/import-data-using-structured-file.md)
+[Import data using structured file](import-data-using-structured-file.md)
 
-[Import data using standard format](../task/import-data-using-standard-format.md)
+[Import data using standard format](import-data-using-standard-format.md)
 
-[Import data using raw text](../task/import-data-using-pasted-text.md)
+[Import data using raw text](import-data-using-pasted-text.md)
 
-[Import data using unstructured file format](../task/import-data-using-unstructured-file.md)
+[Import data using unstructured file format](import-data-using-unstructured-file.md)
 

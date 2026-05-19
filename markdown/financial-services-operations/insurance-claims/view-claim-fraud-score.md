@@ -60,7 +60,7 @@ The following example shows the fraud score page for the Personal Lines Claims a
 
 -   **Indicators contributing to the fraud score**
 
-    If FRISS is enabled, displays a list of indicators such as Claim Date Check and Police report that factor into the fraud score, with accompanying scores and rationales for why each score was specified for the indicator. For more information about FRISS, see [Financial Services Operations Integration with FRISS](../../fso-friss-spoke/concept/fso-integration-with-friss-overview.md).
+    If FRISS is enabled, displays a list of indicators such as Claim Date Check and Police report that factor into the fraud score, with accompanying scores and rationales for why each score was specified for the indicator. For more information about FRISS, see [Financial Services Operations Integration with FRISS](../fso-integration-with-friss-overview.md).
 
 -   **Score history trend**
 

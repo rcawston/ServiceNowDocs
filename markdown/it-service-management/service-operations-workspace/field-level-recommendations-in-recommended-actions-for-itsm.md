@@ -22,5 +22,5 @@ ITSM base system includes the following field level recommendations for incident
 |Configuration item \(Classification\)|Returns Predictive Intelligence based field predictions in the Configuration item field of the current incident.|
 |Incident Fields value prediction \(TI\)|Returns Task Intelligence for ITSM based field predictions in the Service Assignment Group, Configuration item fields of the current incident.|
 
-**Parent Topic:**[Recommended Actions for ITSM reference](../concept/recommended-actions-for-itsm-reference.md)
+**Parent Topic:**[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)
 

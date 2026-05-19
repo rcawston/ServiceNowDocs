@@ -79,31 +79,31 @@ Others include surveys, invoices, purchase orders, risk assessments, issues, shi
 
 **Note:** Admins can also configure these active items widgets in Employee Center. For more information, see [My active items widget configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-activity-config.md).
 
--   **[Search for punchout products in Employee Center](../task/ec-search-punchout-products.md)**  
+-   **[Search for punchout products in Employee Center](ec-search-punchout-products.md)**  
 You can search for punchout products directly in Employee Center using the AI search bar.
 -   **[Tracking your procurement requests in Employee Center](track-proc-requests-on-ec.md)**  
 As a shopper, you can enjoy complete visibility into the progress of your requests by tracking your procurement cases in Employee Center.
--   **[Approve a request from Employee Center](../task/approve-request-from-employee-center.md)**  
+-   **[Approve a request from Employee Center](approve-request-from-employee-center.md)**  
 Approve, reject, or request clarification on open purchase requisition lines and sourcing requests that are assigned to you, directly from Employee Center.
--   **[Provide more details on your purchase from Employee Center](../task/provide-more-details-tasks-ec.md)**  
+-   **[Provide more details on your purchase from Employee Center](provide-more-details-tasks-ec.md)**  
 Provide additional information on your purchase from Employee Center by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the sourcing request.
--   **[Confirm meeting a milestone for your service from Employee Center](../task/confirm-meeting-milestone-ec.md)**  
+-   **[Confirm meeting a milestone for your service from Employee Center](confirm-meeting-milestone-ec.md)**  
 Provide confirmation from Employee Center on whether the supplier has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can raise a cancel request or propose a new completion date.
--   **[Review your service acknowledgment task from Employee Center](../task/review-serv-ack-task-ec.md)**  
+-   **[Review your service acknowledgment task from Employee Center](review-serv-ack-task-ec.md)**  
 Review and acknowledge the receipt status of your ordered service from your supplier from Employee Center.
--   **[Confirm receipt of your order from Employee Center](../task/confirm-receipt-task-ec.md)**  
+-   **[Confirm receipt of your order from Employee Center](confirm-receipt-task-ec.md)**  
 Provide confirmation of receipt of the items that you ordered that are in pending receipt state from Employee Center, so that payment is processed to the supplier accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
--   **[View a link or video from Employee Center](../task/view-link-video-ec.md)**  
+-   **[View a link or video from Employee Center](view-link-video-ec.md)**  
 Complete your task by viewing a link or video that your procurement specialist has assigned to you, directly from Employee Center. This action is listed as a task under **My Tasks**.
--   **[Upload a document from Employee Center](../task/upload-document-task-ec.md)**  
+-   **[Upload a document from Employee Center](upload-document-task-ec.md)**  
 Complete the task that your procurement specialist has assigned to you by uploading a document, directly from Employee Center. This action is listed as a task under **My Tasks**.
--   **[Sign a document using DocuSign from Employee Center](../task/sign-document-task-ec.md)**  
+-   **[Sign a document using DocuSign from Employee Center](sign-document-task-ec.md)**  
 Provide your consent by signing a document using DocuSign, directly from Employee Center. This action is listed as a task under **My Tasks**.
--   **[Sign a document from Employee Center](../task/sign-document-sn-task-ec.md)**  
+-   **[Sign a document from Employee Center](sign-document-sn-task-ec.md)**  
 Provide your consent by signing a document, directly from Employee Center. This action is listed as a task under **My Tasks**.
--   **[Complete a form from Employee Center](../task/complete-form-task-ec.md)**  
+-   **[Complete a form from Employee Center](complete-form-task-ec.md)**  
 Fill in a form that your procurement specialist has sent to you, and submit it directly from Employee Center. This action is listed as a task under **My Tasks**.
--   **[Raise a general inquiry for procurement](../task/raise-general-inquiry-for-procurement.md)**  
+-   **[Raise a general inquiry for procurement](raise-general-inquiry-for-procurement.md)**  
 As a shopper, raise an inquiry for any pre-existing purchase or for any other queries that you may have regarding any procurement function​​.
 -   **[Virtual Agent for Sourcing and Procurement Operations](virtual-agent-for-psm.md)**  
 ServiceNow® Virtual Agent for Sourcing and Procurement Operations enables shoppers to quickly find and purchase products that they're looking for from a vendor on ShoppingHub, by interacting with a virtual agent from Employee Center. It also allows shoppers to view purchases, procurement tasks, procurement cases, and even work on their to-dos. They can also get help from the procurement team using Virtual Agent.
@@ -127,7 +127,7 @@ ServiceNow® Virtual Agent for Sourcing and Procurement Operations enables shopp
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

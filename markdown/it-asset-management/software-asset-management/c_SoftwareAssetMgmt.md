@@ -37,7 +37,7 @@ For the ITSM Software Asset Management feature of Asset Management, see [ITSM So
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend the Software Asset Management capabilities by integrating with SaaS applications.](create-integration-profile.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Extend the Software Asset Management capabilities by integrating with SaaS applications.](../saas-license-management/create-integration-profile.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ For the ITSM Software Asset Management feature of Asset Management, see [ITSM So
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, roles, and license agreement types.](../reference/references.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, roles, and license agreement types.](references.md)
 
 </td></tr></tbody>
 </table>## Learn
@@ -64,18 +64,18 @@ Use the classic Software Asset Management framework to manage your licenses, com
 The ServiceNow platform uses a licensing method where your organization is charged for using the IT Asset Management applications- ServiceNow Software Asset Management.
 -   **[Supported software publisher licenses](sam-publisher-packs.md)**  
 With Software Asset Management, there are several publisher packs that can be used to extend functionality between the ServiceNow AI Platform and your third-party software applications.
--   **[SaaS License Management](sam-subscription-management.md)**  
+-   **[SaaS License Management](../saas-license-management/sam-subscription-management.md)**  
 SaaS License Management helps organizations track and control cloud-based applications and service subscriptions as part of Software Asset Management \(SAM\). It promotes ownership, visibility, agility, and accountability, enabling better cost control and efficient use of resources.
 -   **[Software Spend Detection](software-spend-detection.md)**  
 Use the ServiceNow Software Spend Detection application to track, analyze, and optimize software spending from imported financial data.
 -   **[Software Asset Management administration](c_SAMAdministration.md)**  
 Software Asset Management administration tasks include adding custom part number records and custom license metrics. You can also refresh processor definitions and migrate software installations. Software Asset Management content service can be enabled, and migration procedures are also included.
--   **[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)**  
+-   **[Platform Analytics Solution for Software Asset Management classic](software-asset-mgmt-content-pack.md)**  
 This Platform Analytics Solution contains preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
--   **[Software Asset Management references](../reference/references.md)**  
+-   **[Software Asset Management references](references.md)**  
 Use the descriptions provided to help you fill in the Software Asset Management forms.
--   **[Now Assist for Software Asset Management \(SAM\)](../../now-assist-sam/concept/now-assist-sam.md)**  
+-   **[Now Assist for Software Asset Management \(SAM\)](../now-assist-for-software-asset-management-sam/now-assist-sam.md)**  
 Use the Now Assist for Software Asset Management \(SAM\) application to integrate generative AI capabilities into your daily workflow, thereby minimizing manual tasks while enhancing compliance visibility and optimization insights.
 
-**Parent Topic:**[IT Asset Management](it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

@@ -23,7 +23,7 @@ To hide a form, you must be given permission to work on the app.
 
 If a form hasn't been published yet, you can delete it instead of hiding it. See [Delete a form in Creator Studio](crs-delete-form.md) for details.
 
-You can hide only forms that have already been published. For more information, see [Deploying your Creator Studio app](../concept/creator-studio-publishing-apps.md).
+You can hide only forms that have already been published. For more information, see [Deploying your Creator Studio app](creator-studio-publishing-apps.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ You can hide only forms that have already been published. For more information, 
 
 Your admin must re-deploy the app to hide the inactive form \(catalog item\) on the production instance.
 
-**Parent Topic:**[Deleting forms and questions in Creator Studio](../concept/creator-studio-delete-forms-questions.md)
+**Parent Topic:**[Deleting forms and questions in Creator Studio](creator-studio-delete-forms-questions.md)
 

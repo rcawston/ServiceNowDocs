@@ -21,7 +21,7 @@ These test steps require activation of the The Automated Test Framework Service 
 
 ## Support for parametrized tests
 
-Service Catalog step configurations support parametrized tests. For more information on parametrized tests, refer to [Parameterized tests](../concept/parameterized-tests.md).
+Service Catalog step configurations support parametrized tests. For more information on parametrized tests, refer to [Parameterized tests](parameterized-tests.md).
 
 ## Variable editor support
 

@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Zero Copy Connector for ERP \(Enterprise Resource Planning\) debug logs contain information about probe payloads, payload responses, and status.
 
-For process details, see [Debug Zero Copy Connector for ERP models](../task/debug-zero-copy-connector-for-erp-models.md).
+For process details, see [Debug Zero Copy Connector for ERP models](debug-zero-copy-connector-for-erp-models.md).
 
 |Field|Description|
 |-----|-----------|

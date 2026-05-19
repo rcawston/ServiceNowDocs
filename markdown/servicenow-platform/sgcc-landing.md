@@ -17,19 +17,19 @@ The ServiceNow® Service Graph Connector Central view also called as the SGC Cen
 
 <table id="table_cgc_2h5_nbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of SGC Central and how it is used.](../concept/sgcc-explore.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of SGC Central and how it is used.](sgcc-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../concept/sgcc-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](sgcc-configuring.md)
 
 </td></tr><tr><td>
 
-[Onboard![](../../../reuse/icons/brand-icons/bus-workflow.svg)Onboard Service Graph Connectors to import third-part data into CMDB.](../concept/sgcc-managing-connection.md)
+[Onboard![](../../../reuse/icons/brand-icons/bus-workflow.svg)Onboard Service Graph Connectors to import third-part data into CMDB.](sgcc-managing-connection.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about installed components.](../concept/sgcc-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about installed components.](sgcc-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

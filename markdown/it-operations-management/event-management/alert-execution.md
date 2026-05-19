@@ -38,5 +38,5 @@ This indicates what occurred, for example, if an incident was created.
 
 The log reveals which alert management rule initiated the action. It shows, for example, automatic execution 1 out 3, or manual execution, 2 out of 4.
 
-**Parent Topic:**[View alert information](../task/t_EMViewAlert.md)
+**Parent Topic:**[View alert information](t_EMViewAlert.md)
 

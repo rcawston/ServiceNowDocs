@@ -98,5 +98,5 @@ Group to which the work item is assigned.
     You can also view agent presence history such as how often they were active or were on breaks on a given day.
 
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

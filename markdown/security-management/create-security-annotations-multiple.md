@@ -34,7 +34,7 @@ Role required: admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Security annotations](../concept/security-annotations.md)
+**Parent Topic:**[Security annotations](security-annotations.md)
 
 **Related topics**  
 

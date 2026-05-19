@@ -19,7 +19,7 @@ Discovery identifies and classifies information about HP-UX computers.
 
 Configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md).
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -65,7 +65,7 @@ HP-UX Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -101,5 +101,5 @@ To use patterns, verify that the correct pattern is specified in the horizontal 
 |MAC address|cmdb\_ci\_network\_adapter|mac\_address|hifconfig|
 |Netmask|cmdb\_ci\_network\_adapter|netmask|hifconfig|
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 

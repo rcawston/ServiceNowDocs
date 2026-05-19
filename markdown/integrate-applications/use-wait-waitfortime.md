@@ -25,7 +25,7 @@ Role required: none
 
 You can use the Wait For Time component anywhere in an automation. Depending on the wait time that you have configured, the automation waits after the component previous to the Wait For Time component is executed.
 
-To configure the properties for the Wait For Time component, see [Properties of the Wait components](../reference/wait-properties.md).
+To configure the properties for the Wait For Time component, see [Properties of the Wait components](wait-properties.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ To configure the properties for the Wait For Time component, see [Properties of 
 
 In the example, the WHILE component executes while the value of "i" is true. The Wait For Time component is placed between the While component and the Post Process component. The Wait For Time component puts a waiting time of 30 seconds before the Post Process component executes.
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

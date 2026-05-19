@@ -28,5 +28,5 @@ Role required: approver\_user
 3.  Select **Approve** to approve the document version or select **Reject** to reject the document version.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](document-review-approval.md)
 

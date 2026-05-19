@@ -30,7 +30,7 @@ Role required: admin or survey\_admin
     You see a message that you are not authorized to take the survey.
 
 
-**Parent Topic:**[Survey URLs](../concept/c_SurveyURLs.md)
+**Parent Topic:**[Survey URLs](c_SurveyURLs.md)
 
 **Related topics**  
 

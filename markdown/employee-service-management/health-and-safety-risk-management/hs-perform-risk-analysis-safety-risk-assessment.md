@@ -85,5 +85,5 @@ To add a risk analysis manually,1.  In the **Risk analyses** list, select **New*
 -   The overall level of inherent and residual risk is determined based on the highest identified risk in the **Risk analyses** list.​
 -   The computed risk levels from all risk analyses appear in the **Inherent risk** and **Residual risk** fields in the risk assessment's form header.
 
-**Parent Topic:**[Safety risk assessment](../concept/hs-risk-assessment.md)
+**Parent Topic:**[Safety risk assessment](hs-risk-assessment.md)
 

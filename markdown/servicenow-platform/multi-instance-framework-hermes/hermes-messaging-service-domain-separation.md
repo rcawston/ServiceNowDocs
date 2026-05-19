@@ -39,14 +39,14 @@ Both the Kafka Topics \[sys\_kafka\_topic\] table and the Kafka Namespaces \[sys
 
 All domain support features require the Domain Support - Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\) plugin.
 
-**Parent Topic:**[Hermes Messaging Service reference](../concept/hermes-messaging-service-reference.md)
+**Parent Topic:**[Hermes Messaging Service reference](hermes-messaging-service-reference.md)
 
 **Related topics**  
 
 
-[Hermes Messaging Service components](../concept/hermes-messaging-service-components.md)
+[Hermes Messaging Service components](hermes-messaging-service-components.md)
 
-[Hermes Messaging Service security model](../concept/hermes-messaging-service-security-model.md)
+[Hermes Messaging Service security model](hermes-messaging-service-security-model.md)
 
 [Hermes Messaging Service system properties](hermes-messaging-service-properties.md)
 

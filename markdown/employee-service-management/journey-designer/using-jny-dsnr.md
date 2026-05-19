@@ -21,12 +21,12 @@ Journey designer enables managers, mentors, and employees to create and manage p
 Journey plan configuration template management is a collaborative effort that includes ServiceNow admins, journey template owners, and team experts.
 -   **[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)**  
 Managers, employees, and mentors access journeys from the Employee Center \(EC\).
--   **[Journey designer dashboards and reports](../reference/jny-report-dashboards.md)**  
+-   **[Journey designer dashboards and reports](jny-report-dashboards.md)**  
 Dashboards are configurable graphic displays of key metrics, reports, and other widgets on a single screen.
 -   **[Now Assist Virtual Agent topics for Journey designer](jd-va-topic.md)**  
 Complete the Journey designer related tasks from Employee Center using the Now Assist Virtual Agent topics.
 -   **[Agentic workflows for Journey designer](agentic-wf-jny-dsgnr-na-hrsd.md)**  
 Use agentic workflows and Now Assist for HRSD to facilitate and manage employee journeys throughout the different stages of the employee's career. These workflows, powered by a single or team of AI agents, help your organization by automating procedures for managers while simultaneously curating custom experiences for employees.
 
-**Parent Topic:**[Journey designer](jny-dsgnr-landing-page-1.md)
+**Parent Topic:**[Journey designer](../employee-service-management/jny-dsgnr-landing-page-1.md)
 

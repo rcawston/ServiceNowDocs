@@ -114,7 +114,7 @@ Provides a general overview about the project such as:-   **Project Name**: Name
 
 -   **Planned Cost in Project Currency**: Estimated cost of the project in project currency.
 -   **Actual Cost in Project Currency**: Cost of the project in project currency.
-**Note:** The above fields appear when you enable the PPM Standard Multicurrency plugin \(com.snc.ppm\_multicurrency\) and switch to the Project Currency view. For more information, see [Multi-currency in project financials](../../project-portfolio-suite-with-financials/concept/multicurrency-pps.md).
+**Note:** The above fields appear when you enable the PPM Standard Multicurrency plugin \(com.snc.ppm\_multicurrency\) and switch to the Project Currency view. For more information, see [Multi-currency in project financials](multicurrency-pps.md).
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Resource \(Allocated vs. Actual\) chart
 
 </td><td>
 
-Provides information about the actual resource hours used versus the allocated hours. This information is rolled up from the [resource plan](../../resource-management/task/t_CreateResourcePlanProjectTask.md) for the project.-   **Allocated**: Resource hours that have been allocated to execute the project.
+Provides information about the actual resource hours used versus the allocated hours. This information is rolled up from the [resource plan](../resource-management/t_CreateResourcePlanProjectTask.md) for the project.-   **Allocated**: Resource hours that have been allocated to execute the project.
 -   **Actual**: The actual time spent is taken from the processed time cards created for the project.
 
 

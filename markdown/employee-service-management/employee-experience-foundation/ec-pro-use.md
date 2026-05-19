@@ -19,7 +19,7 @@ Employee Center Pro extends the standard Employee Center capabilities and provid
 
     Enable the Integrated experience and service feedback to create a quick and efficient feedback loop across portals.
 
--   [Schedule an appointment](../task/schedule-appointment.md)
+-   [Schedule an appointment](schedule-appointment.md)
 
     schedule and manage appointments across multiple business units on the Employee Center Pro portal.
 

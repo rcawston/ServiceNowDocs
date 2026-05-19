@@ -157,5 +157,5 @@ Maintenance is to be performed based on both time and count, whichever comes fir
 
 For example, consider a maintenance plan for checking coolant levels for a HVAC system. You can select the trigger as **Duration or Meter** and specify the duration as six months and meter value as 500 hours. The maintenance is scheduled when either of the conditions are met.
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

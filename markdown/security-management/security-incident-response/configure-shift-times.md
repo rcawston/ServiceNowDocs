@@ -45,7 +45,7 @@ Role required:
 
 The new shift is added on the Shift Time Configurations page.
 
-**Parent Topic:**[Configure Shift Handover](../concept/config-shift-handover.md)
+**Parent Topic:**[Configure Shift Handover](config-shift-handover.md)
 
 **Related topics**  
 

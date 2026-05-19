@@ -34,5 +34,5 @@ You can enable this information to be automatically recalculated each time the t
 3.  Click **Save**.
 
 
-**Parent Topic:**[SLA calculation](../reference/r_SLAAutomation.md)
+**Parent Topic:**[SLA calculation](r_SLAAutomation.md)
 

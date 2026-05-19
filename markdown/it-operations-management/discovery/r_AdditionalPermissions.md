@@ -118,5 +118,5 @@ Windows - MSSQL
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 

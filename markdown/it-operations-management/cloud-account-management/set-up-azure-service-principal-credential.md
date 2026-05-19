@@ -17,7 +17,7 @@ Provide the Azure credentials obtained from your Azure administrator. These cred
 
 ## Before you begin
 
-Review the [Permissions required for Azure Service Principal](../reference/permissions-required-for-azure-service-principal.md) topic before creating a Azure Service Principal credential.
+Review the [Permissions required for Azure Service Principal](permissions-required-for-azure-service-principal.md) topic before creating a Azure Service Principal credential.
 
 Role required: ServiceNow AI Platform admin
 

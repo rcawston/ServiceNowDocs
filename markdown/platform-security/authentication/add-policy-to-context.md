@@ -43,7 +43,7 @@ Role required: adaptive\_auth\_admin
 
     The value in this field determines how the context uses the outcome of your policy's conditions.
 
-    The available options in this field depend on the selected context. For details on these contexts, see [Authentication policy contexts](../concept/auth-policy-contexts.md).
+    The available options in this field depend on the selected context. For details on these contexts, see [Authentication policy contexts](auth-policy-contexts.md).
 
 3.  Assign a policy to the context.
 

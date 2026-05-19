@@ -32,12 +32,12 @@ Role required: sn\_apm.apm\_user
 6.  Select **Business capabilities**.![Business capabilities tab available as a related entity for a business application.](../../image/eaw-image/business-capability-as-related-entity-to-business-application.png)
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Exploring business capabilities](../../concept/eaw-concept/eaw-business-capabilities.md)
+[Exploring business capabilities](eaw-business-capabilities.md)
 
 [View roadmap of a business application](eaw-view-roadmap-ba.md)
 

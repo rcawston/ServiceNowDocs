@@ -45,5 +45,5 @@ Role required: admin
 7.  Select **Submit**
 
 
-**Parent Topic:**[Configure skill-based routing in Walk-up Experience](../concept/walkup-skill-based-routing.md)
+**Parent Topic:**[Configure skill-based routing in Walk-up Experience](walkup-skill-based-routing.md)
 

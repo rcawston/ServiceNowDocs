@@ -72,5 +72,5 @@ Select this option to trigger the notification from a Workflow Studio flow.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

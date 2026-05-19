@@ -22,7 +22,7 @@ Requires the following:
 -   Advanced Work Assignment plugin \(com.glide.awa\)
 -   Role: awa\_integration\_user or admin
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Queue - get\(String queue\_id\)
 

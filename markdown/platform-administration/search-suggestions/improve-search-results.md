@@ -23,11 +23,11 @@ Role required: ais\_admin
 
 Search Suggestions uses the following tables:
 
--   [Search Event \[sys\_search\_event\]](../reference/understanding-search-suggestion-tables.md#section_eqs_xwj_xhb): Stores all search strings and search results.
--   [Search Source Event \[sys\_search\_source\_event\]](../reference/understanding-search-suggestion-tables.md#section_fj1_zzj_xhb): Stores search strings and search results and ties them to a data source, for example, the suggestion came from the knowledge base table rather than the catalog table.
--   [Search Suggestion \[sys\_search\_suggestion\]](../reference/understanding-search-suggestion-tables.md#section_ic4_j2k_xhb): Stores suggestions for searches.
+-   [Search Event \[sys\_search\_event\]](understanding-search-suggestion-tables.md#section_eqs_xwj_xhb): Stores all search strings and search results.
+-   [Search Source Event \[sys\_search\_source\_event\]](understanding-search-suggestion-tables.md#section_fj1_zzj_xhb): Stores search strings and search results and ties them to a data source, for example, the suggestion came from the knowledge base table rather than the catalog table.
+-   [Search Suggestion \[sys\_search\_suggestion\]](understanding-search-suggestion-tables.md#section_ic4_j2k_xhb): Stores suggestions for searches.
 
-For details on the Search Suggestions tables, see [Search Suggestions tables](../reference/understanding-search-suggestion-tables.md).
+For details on the Search Suggestions tables, see [Search Suggestions tables](understanding-search-suggestion-tables.md).
 
 ## Procedure
 

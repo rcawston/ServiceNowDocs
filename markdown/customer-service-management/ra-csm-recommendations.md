@@ -35,7 +35,7 @@ When you create a recommendation, you select an action type and an action. The n
 
 When you create a recommendation, provide this information and save the record. After saving, you can see the Action inputs form section. Inputs are parameters that go into an action and enable agents to complete that action. You can select relevant inputs manually, from the context record, context inputs,or from the resource generator.
 
-You can access the recommendation records by navigating to **All** &gt; **Recommended Actions** &gt; **Recommendations**. New recommendations can be created only inside the rules. For more information, see [Create a recommendation](../task/ra-csm-recommendations-create.md).
+You can access the recommendation records by navigating to **All** &gt; **Recommended Actions** &gt; **Recommendations**. New recommendations can be created only inside the rules. For more information, see [Create a recommendation](ra-csm-recommendations-create.md).
 
 <table id="table_ic2_qzz_ztb"><thead><tr><th>
 

@@ -59,7 +59,7 @@ Type
 
 The type of Security Attribute. -   compound
 
-**Note:** For further information about Compound Security Attributes see [Compound Security Attributes](../concept/compound-security-attributes.md#)
+**Note:** For further information about Compound Security Attributes see [Compound Security Attributes](compound-security-attributes.md#)
 
 -   integer
 -   list

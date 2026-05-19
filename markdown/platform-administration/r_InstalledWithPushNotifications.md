@@ -13,16 +13,16 @@ breadcrumb: [Push notifications, System notifications, Notifications, Configure 
 
 Several types of components are installed with the push notifications plugins.
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
 [Push notification system](r_PushMessageArchitecture.md)
 
-[Activate push notifications](../task/t_ActivatePushNotifications.md)
+[Activate push notifications](t_ActivatePushNotifications.md)
 
-[Enable push notifications for logged-out users](../task/enable-notifications-logged-out-users.md)
+[Enable push notifications for logged-out users](enable-notifications-logged-out-users.md)
 
 [Push notification properties](r_PushNotificationProperties.md)
 
@@ -30,9 +30,9 @@ Several types of components are installed with the push notifications plugins.
 
 [Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
-[Requeue failed push notification messages](../task/t_HandlingFailedPushMessages.md)
+[Requeue failed push notification messages](t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 
 ## Tables installed with push notifications
 

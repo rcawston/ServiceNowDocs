@@ -46,5 +46,5 @@ The Revisions tab shows all the versions of a quote. Version numbers are sequent
 
 Use the Customer Order tab to start an order from the Quote. See [Convert quotes into orders](quote-management-customer-orders-tab.md) for more information.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

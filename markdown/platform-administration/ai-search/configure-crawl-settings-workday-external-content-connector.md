@@ -190,5 +190,5 @@ The Workday external content connector is updated with your modified crawl setti
 
 To retrieve content from your Workday source system using your modified crawl settings, create and run a one-time content crawl for your Workday external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](workday-external-content-connector.md)
 

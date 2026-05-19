@@ -115,5 +115,5 @@ The points accrued can be used towards a forum or topic level expertise. Click t
     The newly created rule appears on the Gamification Rules list. This rule appears on the How to Earn Points page.
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](communities-gamification-administer.md)
 

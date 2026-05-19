@@ -42,5 +42,5 @@ The following are the main components needed to create a service definition:
 
 [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
-[Configure service definitions](../../../../product/fso-common/task/configure-service-definitions.md)
+[Configure service definitions](configure-service-definitions.md)
 

@@ -49,7 +49,7 @@ This agent selects an appropriate email template, fills in task details, rephras
 
 8.  The dispute agent reviews the content of the email and can choose to modify it before sending the mail.
 
-    For information about dispute communication agent in ACH disputes, see and [Dispute communication initiation](../../fso-card-operations/task/fso-ach-dispute-communication.md).
+    For information about dispute communication agent in ACH disputes, see and [Dispute communication initiation](../dispute-management/fso-ach-dispute-communication.md).
 
 
 ## Result

@@ -15,12 +15,12 @@ Move scenarios are used by the Facilities team to see the implications of a move
 
 Predictive availability considers planned seating changes for the selected scenario \(on or off current level\).
 
--   **[Plan a move scenario](../task/t_PlanScenarioMPT.md)**  
+-   **[Plan a move scenario](t_PlanScenarioMPT.md)**  
 Facilities administrators create move scenarios when planning and executing large-scale moves. When people are added to the scenario, move\_detail records are created. These records contain all the information about the potential move for a specific person, such as the reference to the sys\_user, destination floor, and destination building.
--   **[Activate a delegator](../task/t_ActivateADelegator.md)**  
+-   **[Activate a delegator](t_ActivateADelegator.md)**  
 Delegators assign users to seats in a scenario. Activating the delegator sends an email notification request that they assign seats using Move Details.
--   **[Assign users to seats](../task/t_AssignSeatsAsADelegator.md)**  
+-   **[Assign users to seats](t_AssignSeatsAsADelegator.md)**  
 Delegators receive an email notification requesting that they assign seats using Move Details.
 
-**Parent Topic:**[Move planning tool](../concept/c_MovePlanningTool.md)
+**Parent Topic:**[Move planning tool](c_MovePlanningTool.md)
 

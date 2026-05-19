@@ -21,7 +21,7 @@ Role required: wm\_agent
 
 ## About this task
 
-The Intelligent Task Recommendation feature automatically recommends you the task with the highest recommendation score only when your administrator activates the Field Service Intelligent Task Recommendation plugin. For more information, see [Activate Intelligent Task Recommendation](activate-intelligent-task-recommendation.md).
+The Intelligent Task Recommendation feature automatically recommends you the task with the highest recommendation score only when your administrator activates the Field Service Intelligent Task Recommendation plugin. For more information, see [Activate Intelligent Task Recommendation](../field-service-scheduling/activate-intelligent-task-recommendation.md).
 
 As an agent, you can log in to the Now® Mobile Agent application to view the recommended task and assign the task to yourself.
 
@@ -49,9 +49,9 @@ The task with the highest recommendation score is automatically assigned to you.
 **Related topics**  
 
 
-[Intelligent Task Recommendation](../concept/fsm-task-recommendation.md)
+[Intelligent Task Recommendation](../fsm-task-recommendation.md)
 
-[Configuring Intelligent Task Recommendations](../concept/administer-task-recommendations.md)
+[Configuring Intelligent Task Recommendations](../field-service-scheduling/administer-task-recommendations.md)
 
-[Assign work order tasks to agents using Intelligent Task Recommendation](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents using Intelligent Task Recommendation](../field-service-scheduling/manage-work-order-tasks-dw.md#)
 

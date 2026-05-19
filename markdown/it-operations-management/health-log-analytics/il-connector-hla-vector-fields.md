@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Vector Agent integration configuration forms for Health Log Analytics.
 
-For the Vector Agent integration setup procedure, see [Set up a Vector Agent integration for Health Log Analytics](../task/il-connector-hla-vector.md) .
+For the Vector Agent integration setup procedure, see [Set up a Vector Agent integration for Health Log Analytics](il-connector-hla-vector.md) .
 
 <table id="table_ttp_1wb_c3c"><thead><tr><th>
 

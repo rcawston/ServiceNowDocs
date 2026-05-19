@@ -76,5 +76,5 @@ The regulatory tab shows the conformance status through the regulatory list time
     When the regulatory list is retrieved from 3E, the **Compliance** field is set to **Non-compliant** by default.
 
 
-**Parent Topic:**[Chemical management](../../hs-environmental-management/concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

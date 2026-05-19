@@ -23,14 +23,14 @@ You must install the Explicit Roles \[com.glide.explicit\_roles\] plugin while i
 
 For more information about ServiceNow AI Platform explicit roles, see [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md).
 
-**Parent Topic:**[Install Supplier Case Management](../task/install-supp-mgmt.md)
+**Parent Topic:**[Install Supplier Case Management](install-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md)
+[Components installed with Supplier Case Management](installed-with-supp-mgmt.md)
 
-[Application plugin installation sequence in Supplier Case Management](../reference/slm-plugin-list.md)
+[Application plugin installation sequence in Supplier Case Management](slm-plugin-list.md)
 
-[Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md)
+[Configure properties for Supplier Case Management](config-prop-supp-mgmt.md)
 

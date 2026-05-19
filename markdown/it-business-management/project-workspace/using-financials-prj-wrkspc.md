@@ -29,11 +29,11 @@ In the Cost screen, you can:
 -   The parent project widgets display the consolidated values of forecasted costs and expenses.
 -   Identify and manage costs using the **Project/Demand** column for any sub project or demand directly from Cost view of the parent planning item.
 -   Re-forecast all the cost plan values for future fiscal periods by double-clicking to edit the value in the least time scale view, either by month or by period.
--   Manage cost plans for your projects. For more information, see [Add, edit, or delete cost plans](../task/create-cost-plan-prj-wrkspc.md).
--   Add or edit expense lines for your projects to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](../task/create-expense-line-prj-wrkspc.md).
--   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](../task/gen-labor-costs-prj-wrkspc.md).
--   Create and compare baselines to capture the financial snapshot of your projects. For more information, see [Create and compare financial baselines for your projects](../task/create-compare-baselines-pws.md).
--   [Configure widgets](../../spw-financials/task/configure-financial-widgets.md) to get a high-level overview of the financial data for your planning item.
+-   Manage cost plans for your projects. For more information, see [Add, edit, or delete cost plans](create-cost-plan-prj-wrkspc.md).
+-   Add or edit expense lines for your projects to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](create-expense-line-prj-wrkspc.md).
+-   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](gen-labor-costs-prj-wrkspc.md).
+-   Create and compare baselines to capture the financial snapshot of your projects. For more information, see [Create and compare financial baselines for your projects](create-compare-baselines-pws.md).
+-   [Configure widgets](../scenario-planning-in-spw/configure-financial-widgets.md) to get a high-level overview of the financial data for your planning item.
 -   All financial details from sub-projects will be aggregated and displayed in the parent project's cost plans and widgets.
 
 **Tip:** Cost view gives you enhanced user experience to customize the left pane columns by using the personalize icon \(![Personalize gear icon.](../../alignment-planner-workspace/images/icon-personalize.png)\) and by saving user preferences to retain the customizations made to hide, view, or adjust columns, time scope viewing, and so on.
@@ -49,7 +49,7 @@ Financial users can now perform the following financial activities in Investment
 -   Allocate and manage the budget.
 -   View simple financials data.
 
-**Important:** New customers should install the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable multicurrency feature and [Activate scheduled job to populate to multicurrency fields](../../spw-financials/task/multi-currency-scheduled-job-spw.md).
+**Important:** New customers should install the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin to enable multicurrency feature and [Activate scheduled job to populate to multicurrency fields](../scenario-planning-in-spw/multi-currency-scheduled-job-spw.md).
 
 Using this feature, you can work on financial reporting at global level and see the real-time currency conversions of your financial records.
 
@@ -57,7 +57,7 @@ Organizations operation at global or multinational level, the work is planned an
 
 You can monitor and track the financials in one currency, and capture the costs in a different currency.
 
-Using multicurrency, you can see all the costs in the currency you choose for the planning item, instead of restricting to use Functional currency defined in your locale. For more information on how to choose investment currency of your planning items, see [Configure multicurrency for projects](../task/config-investment-currency-pws-fin.md).
+Using multicurrency, you can see all the costs in the currency you choose for the planning item, instead of restricting to use Functional currency defined in your locale. For more information on how to choose investment currency of your planning items, see [Configure multicurrency for projects](config-investment-currency-pws-fin.md).
 
 Financial records and widgets will display the costs based on the currency selection.
 
@@ -132,8 +132,8 @@ View only planned costs for the full range and manage the planned costs using th
 </td></tr></tbody>
 </table>**Note:**
 
--   If you don’t see the Budget allocation or Budget vs forecast display options, [enable the budget allocation property](../task/enable-fin-budget-pws.md) and [configure the budget attribute](../task/config-budget-allocation-attribute-pws.md) at instance level.
--   To work on budget allocation using the Next Experience, [Activate a scheduled job to migrate budget of your planning items](../../spw-financials/task/fin-migrate-budget-scheduled-job-spw.md).
+-   If you don’t see the Budget allocation or Budget vs forecast display options, [enable the budget allocation property](enable-fin-budget-pws.md) and [configure the budget attribute](config-budget-allocation-attribute-pws.md) at instance level.
+-   To work on budget allocation using the Next Experience, [Activate a scheduled job to migrate budget of your planning items](../scenario-planning-in-spw/fin-migrate-budget-scheduled-job-spw.md).
 
 The last selected view is saved as user preferences.
 
@@ -145,11 +145,11 @@ The last selected view is saved as user preferences.
 
 ## Baseline view
 
-Create a financial to capture a snapshot of the financial changes for your projects. You can create on-demand baselines manually or automatically at a required cadence using a scheduler job. For more information, see [Create a baseline](../../spw-financials/task/create-compare-baselines.md#ol_tgp_v2k_2zb)
+Create a financial to capture a snapshot of the financial changes for your projects. You can create on-demand baselines manually or automatically at a required cadence using a scheduler job. For more information, see [Create a baseline](../scenario-planning-in-spw/create-compare-baselines.md#ol_tgp_v2k_2zb)
 
 **Note:** Baselines created on the parent project include cost plans and expense lines from all of the child projects to calculate and give you a better breakdown of the financial performance of the projects and sub-projects.
 
-[Compare baselines](../../spw-financials/task/create-compare-baselines.md#ol_lrh_3gk_2zb) to compare the difference in costs between latest status against a baseline or between any two baselines.
+[Compare baselines](../scenario-planning-in-spw/create-compare-baselines.md#ol_lrh_3gk_2zb) to compare the difference in costs between latest status against a baseline or between any two baselines.
 
 **Note:** Each baseline is tagged with a number based on the order that they’re created. The Current Financials baseline captures the financials details in real-time and is always represented with a flag icon \(![Flag icon to indicate current baseline.](../../spw-financials/images/fin-current-baseline-flag.png)\).
 
@@ -239,7 +239,7 @@ Plan and approve the budget for a shorter planning cycle at monthly, quarterly, 
 
 **Note:** If the budget is allocated monthly, the total budget is rolled up to quarterly and yearly level. Similarly, if the budget is allocated at a quarterly or yearly level, the equal breakdown happens till monthly level.
 
-For more information on how to allocate, approve, and handle budget for projects, see, [Manage budget of your planning items in Strategic Planning](../../spw-financials/task/fin-manage-budget-spw.md).
+For more information on how to allocate, approve, and handle budget for projects, see, [Manage budget of your planning items in Strategic Planning](../scenario-planning-in-spw/fin-manage-budget-spw.md).
 
 **Tip:** In the budget allocation view, Portfolio managers review the EAC to understand the financial projections made by Project managers and use the **Copy cost as budget** option to allocate the entire planned cost as budget.
 
@@ -249,7 +249,7 @@ Project managers can view the approved budget at the required time scale by swit
 
 Product managers can compare the latest cost with the approved budget by Capex or Opex, cost types, and for the required time scale at monthly, quarterly, or yearly level. The comparison view provides insights to Product managers to locate any variance at expense type or cost type, and at which fiscal period. Product manager can leverage this information to request for additional budget from the Portfolio manager.
 
-You can [migrate the budget of existing active projects](../../project-management/task/fin-migrate-budget-project-ppm.md) from the Classic UI to Next Experience. Financials in the Next Experience has new budget data model that facilitates to store the budget at a detailed level by monthly breakdowns and cost types. You can migrate the budget for active projects and demands individually or by bulk using the scheduled job.
+You can [migrate the budget of existing active projects](../project-management/fin-migrate-budget-project-ppm.md) from the Classic UI to Next Experience. Financials in the Next Experience has new budget data model that facilitates to store the budget at a detailed level by monthly breakdowns and cost types. You can migrate the budget for active projects and demands individually or by bulk using the scheduled job.
 
 **Note:** The migrated budget is captured in the `sn_invst_pln_invst_budget` table to enable the lean budgeting for required time scope.
 
@@ -282,7 +282,7 @@ Budget allocation logic is divided into three focus areas: past fiscal periods, 
 
 ## Benefit plans
 
-Monetary benefit plans capture potential benefits accrued while executing a planning item. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a planning item. You can create and manage [monetary benefit plans](../../spw-financials/task/fin-manage-monetary-benefit-plans-spw.md) and [non-monetary benefit plans](../../spw-financials/task/fin-manage-non-monetary-benefit-plans-spw.md) to capture the potential benefits of your planning items.
+Monetary benefit plans capture potential benefits accrued while executing a planning item. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a planning item. You can create and manage [monetary benefit plans](../scenario-planning-in-spw/fin-manage-monetary-benefit-plans-spw.md) and [non-monetary benefit plans](../scenario-planning-in-spw/fin-manage-non-monetary-benefit-plans-spw.md) to capture the potential benefits of your planning items.
 
 Instead of switching to and fro from the financials record page to benefit plan tabs, you now have a seamless experience to manage all the cost plans and benefit plans from the Cost and benefits view and can leverage the new financials experience with the side panel and grids for quick forecasting and tracking of monetary benefit plans.
 
@@ -297,24 +297,24 @@ Using the baseline feature, you can capture these simple financial values in a b
 -   Reforecast simple financials and compare the by selecting the Current Financials from the list of baselines.
 -   Capture the planned and actual expenses as the project progresses and compare any financial baseline with simple financials baseline to track the financial performance of the project.
 
--   **[Configure multicurrency for projects](../task/config-investment-currency-pws-fin.md)**  
+-   **[Configure multicurrency for projects](config-investment-currency-pws-fin.md)**  
 Select investment currency as an additional currency, which can be different from your functional currency, to manage financial records of your projects.
--   **[Add, edit, or delete cost plans](../task/create-cost-plan-prj-wrkspc.md)**  
+-   **[Add, edit, or delete cost plans](create-cost-plan-prj-wrkspc.md)**  
 Create a cost plan for a required duration to track your planned and actual expenses. Edit cost plans to adjust your planned expenses and delete any de-scoped forecasts.
--   **[Manage budget of your projects using Project Workspace](../task/fin-manage-budget-pws.md)**  
+-   **[Manage budget of your projects using Project Workspace](fin-manage-budget-pws.md)**  
 Allocate, manage, and approve budget for your projects. Lean budgeting enables you to allocate budget for short planning cycles for different fiscal periods such as monthly, quarterly, or yearly breakdown level rather than allocating the budget to the complete duration of the planning item.
--   **[Add or edit expense lines](../task/create-expense-line-prj-wrkspc.md)**  
+-   **[Add or edit expense lines](create-expense-line-prj-wrkspc.md)**  
 Create or edit expense lines to capture the actual costs. You can associate the expense lines with a cost plan or create standalone expense lines to record unplanned expenses.
--   **[Generate labor costs](../task/gen-labor-costs-prj-wrkspc.md)**  
+-   **[Generate labor costs](gen-labor-costs-prj-wrkspc.md)**  
 Generate labor costs in the Financials view for attribute-based resource assignments based on the financial attributes configured in the planning attributes page.
--   **[Create and compare financial baselines for your projects](../task/create-compare-baselines-pws.md)**  
+-   **[Create and compare financial baselines for your projects](create-compare-baselines-pws.md)**  
 Create and compare financial baselines to get a snapshot of the project expenses and compare the planned costs with the actual expenses.
--   **[Create monetary benefit plans for your projects in Project Workspace](../task/fin-manage-monetary-benefit-plans-pws.md)**  
+-   **[Create monetary benefit plans for your projects in Project Workspace](fin-manage-monetary-benefit-plans-pws.md)**  
 Create and manage monetary benefit plans to capture the potential benefits while executing your projects.
--   **[Manage non-monetary benefit plans for your planning items in Portfolio Planning](../task/fin-manage-non-monetary-benefit-plans-pws.md)**  
+-   **[Manage non-monetary benefit plans for your planning items in Portfolio Planning](fin-manage-non-monetary-benefit-plans-pws.md)**  
 Create and manage monetary benefit plans to capture the potential benefits while executing your planning items.
--   **[Export financials as Excel or CSV file](../task/export-financials-pws.md)**  
+-   **[Export financials as Excel or CSV file](export-financials-pws.md)**  
 Export the costs or baseline comparison data of your projects to share them with your stakeholders.
 
-**Parent Topic:**[Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md)
+**Parent Topic:**[Project Workspace](project-workspace-landing-page.md)
 

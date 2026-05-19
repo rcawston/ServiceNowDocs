@@ -144,5 +144,5 @@ In this example of a fibre channel storage area network \(SAN\), two physical st
 
 Discovery creates CIs for the logical sub-components in NAS and SAN environments, such as fibre channel disks and pool components, as well as for host bus adapters \(HBA\) and physical block storage. In multipath environments, Discovery creates CI relationships within the switched fibre fabrics that connects the Linux host to the physical storage devices. In this diagram, the fibre fabrics have redundant paths that the SAN environment can use for failover if connections fail.
 
-**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+**Parent Topic:**[Storage discovery](c_Storage.md)
 

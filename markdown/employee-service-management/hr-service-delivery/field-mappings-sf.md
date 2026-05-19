@@ -17,18 +17,18 @@ The Trigger SAP SuccessFactors Integration Flow maps the entity profile fields f
 
 **Important:** For details about the fields that are mapped, refer to this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1124068)
 
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](../concept/using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View job tracker details](../concept/view-job-tracker-details-sf.md)
+[View job tracker details](view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](view-to-dos-sf.md)
 
 [Use transform maps](use-transform-maps-sf.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](../concept/na-va-sf.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
 
-[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](../concept/conversational-agents-sf.md)
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
 

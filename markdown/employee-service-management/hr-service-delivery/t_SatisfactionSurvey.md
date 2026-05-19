@@ -66,5 +66,5 @@ To view details about a specific response, point to a colored bar, the number of
 
 ![Survey scorecard category results detail](../image/SurveyScorecardResultDetail.png "Survey scorecard category results detail")
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](c_HRDashboardsReports.md)
 

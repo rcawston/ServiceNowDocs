@@ -35,5 +35,5 @@ Role required: normalizer
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](list-of-plugins.md#)
 

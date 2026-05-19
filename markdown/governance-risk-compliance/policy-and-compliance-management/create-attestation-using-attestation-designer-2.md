@@ -245,9 +245,9 @@ N
 
 ### What to do next
 
-If you are implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the next step.
+If you are implementing the [Policy and Compliance Management](policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](policy-compliance-impl-checklist.md) and proceed to the next step.
 
-**Parent Topic:**[Policy and Compliance Management mandatory setup](../../grc-policy-compliance-implementation/concept/policy-compliance-mandatory-setup.md)
+**Parent Topic:**[Policy and Compliance Management mandatory setup](policy-compliance-mandatory-setup.md)
 
 ## Create an attestation type
 

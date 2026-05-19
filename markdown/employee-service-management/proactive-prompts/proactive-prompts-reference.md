@@ -28,5 +28,5 @@ Form to create a data source for the signal.
 -   **[Signal configuration form](proactive-prompts-create-signal-form.md)**  
 Form to create a signal in Proactive Prompts.
 
-**Parent Topic:**[Proactive Prompts](../concept/proactive-prompts-for-hrsd.md)
+**Parent Topic:**[Proactive Prompts](proactive-prompts-for-hrsd.md)
 

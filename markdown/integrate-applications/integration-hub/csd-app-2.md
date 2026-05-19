@@ -19,7 +19,7 @@ CSD 2.0 enables an administrator to create all the records necessary to deploy s
 
 CSD 2.0 also integrates with Software Asset Management \(SAM Professional or SAM Foundation\) to manage license information of the deployed software.
 
-**Note:** CSD 2.0 is different from [Client Software Distribution using Integration Hub](../../integrationhub/concept/csd-integrationhub.md). CSD 2.0 is available on ServiceNow Store.
+**Note:** CSD 2.0 is different from [Client Software Distribution using Integration Hub](csd-integrationhub.md). CSD 2.0 is available on ServiceNow Store.
 
 ![CSD 2.0 process flow](../image/CSDProcess.png "CSD 2.0 process flow when CSD is integrated with SAM")
 
@@ -108,7 +108,7 @@ CSD 2.0 v1.5.0 is the latest version.
 
 ## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This application provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -192,7 +192,7 @@ Removes collections as targets from applications in Microsoft Endpoint Configura
 
 ## Available sample agentic workflows
 
-Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available sample agentic workflows and AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 In the ServiceNow agentic system, you can create an agentic workflow that comprises of a set of large language model \(LLM\) instructions along with one or more standalone AI agents to execute an objective. Use the available sample agentic workflow in AI Agent Studio so that AI agents can coordinate to solve complex problems. To modify the available sample agentic workflow as per your requirement, see [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md).
 
@@ -234,17 +234,17 @@ Manages Microsoft Endpoint Configuration Manager device and user collections and
 No**Note:** To activate the workflow, see [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md).
 
 </td></tr></tbody>
-</table>-   **[Request the CSD 2.0 application](../task/req-csd.md)**  
+</table>-   **[Request the CSD 2.0 application](req-csd.md)**  
 Client Software Distribution 2.0 application plugin \(com.sn.csd\) is available on ServiceNow Store and can be used with a subscription to Integration Hub.
--   **[Components installed with CSD 2.0](../reference/csd2-installed.md#)**  
+-   **[Components installed with CSD 2.0](csd2-installed.md#)**  
 Several types of components are installed with the CSD 2.0 application.
--   **[Create licenses for distributed software using CSD 2.0](../task/csd2-license-ntsam.md)**  
+-   **[Create licenses for distributed software using CSD 2.0](csd2-license-ntsam.md)**  
 Licenses are associated with the software model and must be created if you want to track the license for software deployed by CSD 2.0.
--   **[Create entitlements for distributed software using SAM](../task/csd2-license.md)**  
+-   **[Create entitlements for distributed software using SAM](csd2-license.md)**  
 Entitlements are associated with the software model and must be created if you want to track the license for software deployed by CSD 2.0 using SAM.
--   **[Client software distribution ordering process](../reference/csd2-orderprocess.md)**  
+-   **[Client software distribution ordering process](csd2-orderprocess.md)**  
 Software deployed by CSD 2.0 can be ordered from the service catalog by individual users or by approved users on behalf of others.
--   **[Extend a software lease](../task/csd2-extend.md)**  
+-   **[Extend a software lease](csd2-extend.md)**  
 Users of software deployed by CSD 2.0 can request the extension of a lease window, if the software is revocable by a software distribution system.
 -   **[CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md)**  
 Use the CSD 2.0 along with the Microsoft Endpoint Configuration Manager spoke to deploy and revoke software deployments from Microsoft Endpoint Configuration Manager and manage distributions on hosts.
@@ -259,5 +259,5 @@ Revoke software without any user interaction if the software can be revoked and 
 -   **[Integrate CSD 2.0 with other software providers](csd2-integrate.md#)**  
 Integrate CSD 2.0 with client software distribution providers, such as Casper, Altiris, or LANDesk.
 
-**Parent Topic:**[Building integrations in Integration Hub](../../integrationhub/concept/building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](building-integrations-ih.md)
 

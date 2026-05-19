@@ -65,7 +65,7 @@ The following skills are available in Now Assist for Sourcing and Procurement Op
     **Note:** A fulfiller with the sn\_spend\_gen\_ai.now\_assist\_fulfiller role can use these summarization skills in Source-to-Pay Workspace.
 
 
-For more information about setting up Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md).
+For more information about setting up Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md).
 
 As a requester, you can use Now Assist for SPO to:
 

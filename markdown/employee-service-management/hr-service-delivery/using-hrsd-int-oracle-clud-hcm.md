@@ -15,10 +15,10 @@ breadcrumb: [HR Service Delivery integration with Oracle Cloud HCM, Integration 
 
 Understand how to use the integration feature to get the data from Oracle cloud HCM into ServiceNow.
 
--   **[Mapping entity profile fields](../reference/hr-oracle-hcm-profile-fields.md)**  
+-   **[Mapping entity profile fields](hr-oracle-hcm-profile-fields.md)**  
 The Trigger Oracle HCM Integration flow maps the entity profile fields from Oracle HCM to the HR profile fields in the ServiceNow® platform.
 -   **[Run a scheduled job](run-hcm.md)**  
 Manually run the schedule job to pull data from Oracle HCM to the ServiceNow platform.
 
-**Parent Topic:**[Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md)
+**Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)
 

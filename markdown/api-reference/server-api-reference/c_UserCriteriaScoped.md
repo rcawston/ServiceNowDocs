@@ -17,7 +17,7 @@ The UserCriteria API provides methods to create, modify, and delete user criteri
 
 To use this class in a scoped application, use the `sn_uc` namespace identifier. The User Criteria Scoped API plugin \(ID: com.glideapp.user\_criteria.scoped.api\) must be enabled to access this API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UserCriteria - UserCriteria\(\)
 

@@ -19,5 +19,5 @@ Parallel testing of the tests within a single suite starts as soon as you run th
 
 **Note:** Parallel testing without Cloud Runner involves running of more than 1 suites in parallel.
 
-**Parent Topic:**[Executing the tests using Cloud Runner](../task/atf-tg-cr-execute-tests.md)
+**Parent Topic:**[Executing the tests using Cloud Runner](atf-tg-cr-execute-tests.md)
 

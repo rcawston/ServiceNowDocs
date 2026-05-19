@@ -15,12 +15,12 @@ breadcrumb: [Components installed with CSD, Client Software Distribution, Integr
 
 These plugins are installed with the Client Software Distribution plugin, if they are not already active.
 
-For instructions on requesting activation of Client Software Distribution \(CSD\) see [Request client software distribution](../tasks/request-csd-ihub.md).
+For instructions on requesting activation of Client Software Distribution \(CSD\) see [Request client software distribution](request-csd-ihub.md).
 
 |Plugin|Description|
 |------|-----------|
 |Orchestration - System Center Configuration Manager \(com.snc.orchestration.sccm\_mgnt\)|Installs the custom SCCM Orchestration activities that do work on the SCCM target host.|
-|Orchestration - Asset Lease Management \(com.snc.orchestration.asset\_lease\_management\)|Installs the [lease functionality](../tasks/csd-license.md#) for software distributed through the Service Catalog. This includes starting, stopping, and extending leases.|
+|Orchestration - Asset Lease Management \(com.snc.orchestration.asset\_lease\_management\)|Installs the [lease functionality](csd-license.md#) for software distributed through the Service Catalog. This includes starting, stopping, and extending leases.|
 |Service Catalog Scoped API \(com.glideapp.servicecatalog.scoped.api\)|Installs the API to support application creation in the Service Catalog.|
 |Software Asset Management Core \(com.snc.sam.core\)|Provides the base tables for software asset management. Includes software installations, usages, suite calculations, and discovery models.|
 |||

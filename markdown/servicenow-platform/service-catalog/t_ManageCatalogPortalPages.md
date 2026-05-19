@@ -21,7 +21,7 @@ Administrators and catalog administrators can define and manage multiple service
 
 You can enable read access to the catalogs by applying the rule **read ACL** on Catalog \(sc\_catalog\) table. See [Access Control Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md) for more information.
 
-**Parent Topic:**[Service catalog setup](../topic/p_ServiceCatalogs.md)
+**Parent Topic:**[Service catalog setup](p_ServiceCatalogs.md)
 
 ## Create a catalog
 
@@ -47,7 +47,7 @@ Role required: admin
 
 6.  Define additional portal pages for the catalog.
 
-7.  [Manage sites](../task/t_ManageCatalogSites.md) if you are using a CMS system.
+7.  [Manage sites](t_ManageCatalogSites.md) if you are using a CMS system.
 
 <table id="table_wbl_3mg_dq"><thead><tr><th>
 
@@ -131,7 +131,7 @@ Desktop image
 
 </td><td>
 
-The larger image to display with the catalog on the multi-catalog homepage. This image is only shown if image display is included in the [renderer](../task/t_CreatingOrModifyingRenderers.md#) selected, such as the default **Title and Image** renderer.
+The larger image to display with the catalog on the multi-catalog homepage. This image is only shown if image display is included in the [renderer](t_CreatingOrModifyingRenderers.md#) selected, such as the default **Title and Image** renderer.
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ Use the **Catalog Items** related list on the Catalog form to view and manage th
 
 ![Catalog items list.](../image/SC_ManageItemsCatalog.png)
 
-To define a new catalog item for the catalog, click **New** and [enter the details](../task/t_DefineACatalogItem.md#) for the item.
+To define a new catalog item for the catalog, click **New** and [enter the details](t_DefineACatalogItem.md#) for the item.
 
 ## Manage catalog portal pages
 
@@ -197,12 +197,12 @@ Catalog portal page details include the owner, title, and view to use for that p
     -   Click **Edit** to select another portal page for the catalog.
     -   Select a portal page to view and edit details for that page.
 
-**Parent Topic:**[Using the content management system with the service catalog](../topic/p_ConfigureContentManagementSystem.md)
+**Parent Topic:**[Using the content management system with the service catalog](p_ConfigureContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Manage catalogs in CMS sites](../task/t_ManageCatalogSites.md)
+[Manage catalogs in CMS sites](t_ManageCatalogSites.md)
 
 [Set up catalog portal pages](c_SettingCatalogPortalPages.md)
 

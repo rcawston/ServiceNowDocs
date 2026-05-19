@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Select or create a record page.
 
-    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](../../configurable-workspace/task/create-configurable-workspace-page-uib.md).
+    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](create-configurable-workspace-page-uib.md).
 
 3.  From the Content tree, select **Modals** &gt; **Modal Container**.
 

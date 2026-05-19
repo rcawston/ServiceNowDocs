@@ -49,5 +49,5 @@ Level from which you want to filter resources.-   **Demands/Projects**: When sel
 Depending on the value in **Type** field, a field appears to select the name of the record. For example, if **Type** is **Group**, a field **Group** appears where you can select the name of the group.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

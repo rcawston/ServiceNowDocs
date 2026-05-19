@@ -18,7 +18,7 @@ Add or remove services to update a unified service. The flow is available using 
 
 ## About this task
 
-[Multi-source service mapping](../concept/multi-source-service-mapping.md)
+[Multi-source service mapping](multi-source-service-mapping.md)
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ Role required: service\_mapping\_admin
     In the process of editing the unified service, the list of configuration items \(CI\) is updated. After completion, a map refresh is needed to present the updated unified service.
 
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 
 **Related topics**  
 

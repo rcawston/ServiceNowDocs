@@ -60,20 +60,20 @@ Role required: admin
     ```
 
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../../performance-analytics/concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../../performance-analytics/concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](create-analytics-ws-aes.md)
 
-[Add Platform Analytics pages to a configurable workspace](../../performance-analytics/task/add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](../../performance-analytics/task/add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 
-[Configure custom redirection from a dashboard component](../../performance-analytics/task/config-custom-redirection-from-db.md)
+[Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](configure-dashboard-data-broker.md)
 

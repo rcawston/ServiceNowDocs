@@ -17,7 +17,7 @@ Test Exclusion Rule in Dynamic Translation enables you to test your exclusion pa
 
 ## Before you begin
 
-At least one additional language must be available on your instance. For more information about installing languages, see [Activate a language](../../localization/task/t_ActivateALanguage.md).
+At least one additional language must be available on your instance. For more information about installing languages, see [Activate a language](../system-localization/t_ActivateALanguage.md).
 
 Role required: admin
 
@@ -104,5 +104,5 @@ When testing variations of existing rules, temporarily deactivating similar rule
 
 If you chose **New exclusion rule**, you can create a rule based on the exclusion pattern that you tested. For more information see [Add new rules to Exclusion Framework](dyn-translation-add-exclusion-rule.md).
 
-**Parent Topic:**[Exclusion Framework in Dynamic Translation](../concept/dyn-translation-exclusion-framework.md)
+**Parent Topic:**[Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md)
 

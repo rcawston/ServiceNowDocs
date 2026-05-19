@@ -54,7 +54,7 @@ Use the following details when required:
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
 
 **Related topics**  
 
@@ -69,7 +69,7 @@ Use the following details when required:
 
 [Create a visitor badge template](create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](quick-start-tests-wsd-visitor-mgmt.md)
 

@@ -21,7 +21,7 @@ Add different types of workplace spaces like a workspace, desk, or similar space
     -   Workplace data for your organization
     -   Data of workspaces that can be marked as available
 
-For more information about adding the workspaces, see [Create records for your workplace data](../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md).
+For more information about adding the workspaces, see [Create records for your workplace data](../workplace-core/create-records-of-workplace-data-wsd.md).
 
 Role required: sn\_wsd\_core.admin
 
@@ -33,7 +33,7 @@ Role required: sn\_wsd\_core.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Space form](../reference/space-new-record-form.md).
+    For a description of the field values, see [Space form](space-new-record-form.md).
 
 4.  Click **Submit**.
 
@@ -42,7 +42,7 @@ Role required: sn\_wsd\_core.admin
 
 The space is added and is available for reservation.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -81,9 +81,9 @@ The space is added and is available for reservation.
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

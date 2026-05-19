@@ -113,5 +113,5 @@ Check this option.Copy and paste the **Workspace Client Script**of the existing 
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Customize UI actions for HR Service Delivery integration with Microsoft Teams](../concept/ui-actions-ms-teams-hr.md)
+**Parent Topic:**[Customize UI actions for HR Service Delivery integration with Microsoft Teams](ui-actions-ms-teams-hr.md)
 

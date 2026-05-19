@@ -30,5 +30,5 @@ Role required: sn\_sec\_cmn.admin
 5.  Select **Update.**
 
 
-**Parent Topic:**[Security Operations email parsing](../concept/email-parsing.md)
+**Parent Topic:**[Security Operations email parsing](email-parsing.md)
 

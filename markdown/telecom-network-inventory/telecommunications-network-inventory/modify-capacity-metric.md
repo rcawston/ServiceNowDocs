@@ -39,10 +39,10 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
     |Capacity function|Name of the capacity function record.|
 
 
-**Parent Topic:**[Configuring capacity management](../concept/configuring-capacity-management.md)
+**Parent Topic:**[Configuring capacity management](configuring-capacity-management.md)
 
 **Related topics**  
 
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](capacity-management-reporting.md)
 

@@ -145,7 +145,7 @@ Role required: sn\_cmdb\_admin or admin
 
 Also, internal applications that use IRE \(such as Discovery\) can call an internal API to provide a URL to viewing IRE run logs.
 
-Logging is in the context of a specific run of the identification engine, and you can filter the log list by a specific data source and time range. Up to 1000 run logs that are up to 2 months old are listed, grouped by Context IDs, and run times. You can use the [glide.identification\_logs.max\_run\_ids](../reference/properties-id-reconciliation.md) property to modify the 1000 limit.
+Logging is in the context of a specific run of the identification engine, and you can filter the log list by a specific data source and time range. Up to 1000 run logs that are up to 2 months old are listed, grouped by Context IDs, and run times. You can use the [glide.identification\_logs.max\_run\_ids](properties-id-reconciliation.md) property to modify the 1000 limit.
 
 You can control the logging level by using the **glide.discovery.identification.log\_level** Discovery system property and setting the value to one of the following:
 

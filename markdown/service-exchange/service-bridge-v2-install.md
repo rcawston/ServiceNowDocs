@@ -21,20 +21,20 @@ As a consumer, follow these steps to set up the Service Exchange for Consumers a
 
 |Task|Link|
 |----|----|
-|Install the Service Exchange for Consumers application.|See [Install Service Exchange for Consumers](../task/install-service-bridge-v2-customer.md).|
+|Install the Service Exchange for Consumers application.|See [Install Service Exchange for Consumers](install-service-bridge-v2-customer.md).|
 |Add Service Exchange roles for consumers.|See [Personas for consumers](service-bridge-v2-customer-roles.md).|
-|Register with a provider.|See [Connect to a provider](../task/service-bridge-v2-register.md).|
-|Activate entitlements.|See [Activate a remote record producer in Service Exchange](../task/service-bridge-v2-activate-entitlements.md).|
-|Configure consumer pre-flows.|See [Service Exchange consumer pre-flows](../task/service-bridge-v2-conf-consumer-flow.md).|
-|Add authorized users.|See [Add an authorized user](../task/service-bridge-v2-create-auth-user.md).|
-|Create transforms.|See [Create a transform in Service Exchange](../task/service-bridge-v2-create-transform.md).|
-|Create remote tasks to sync data.|See [Create remote tasks to sync data](../task/service-bridge-v2-remote-task-create.md).|
-|Configure settings.|See [Configure settings on the consumer instance](../task/service-bridge-v2-configure-consumer-settings.md).|
+|Register with a provider.|See [Connect to a provider](service-bridge-v2-register.md).|
+|Activate entitlements.|See [Activate a remote record producer in Service Exchange](service-bridge-v2-activate-entitlements.md).|
+|Configure consumer pre-flows.|See [Service Exchange consumer pre-flows](service-bridge-v2-conf-consumer-flow.md).|
+|Add authorized users.|See [Add an authorized user](service-bridge-v2-create-auth-user.md).|
+|Create transforms.|See [Create a transform in Service Exchange](service-bridge-v2-create-transform.md).|
+|Create remote tasks to sync data.|See [Create remote tasks to sync data](service-bridge-v2-remote-task-create.md).|
+|Configure settings.|See [Configure settings on the consumer instance](service-bridge-v2-configure-consumer-settings.md).|
 
 **Related topics**  
 
 
-[Service Exchange](../../tmt-service-bridge/concept/tmt-service-bridge-both-landing-page.md)
+[Service Exchange](tmt-service-bridge-both-landing-page.md)
 
 [Use for consumers](se-consumer-using.md)
 

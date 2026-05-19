@@ -215,5 +215,5 @@ Notes about the task that are visible to all users within your organization.
 
 After you successfully extend the lease contract, the **Expiration** field on the lease contract record changes to **Expired**. The Enterprise Asset Management application then creates a new record for the extended lease contract, which is named **EXT\_&lt;_expired-lease-contract_&gt;**. The new lease contract record covers all of the same enterprise assets that were covered in the original lease contract record.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](managing-expiring-contracts-leased-assets.md)
 

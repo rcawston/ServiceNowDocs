@@ -17,18 +17,18 @@ Modify the table properties and manage the table fields by using the default Fie
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## Procedure
 
 -   Use the following procedures to edit tables using **Fields** view in Table Builder.
 
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](table-builder.md)
 
 ## Add a table column in Table Builder
 
@@ -36,7 +36,7 @@ Store more information in a table record by adding a table column.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -142,7 +142,7 @@ Delete a column from your table using Table Builder.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -169,7 +169,7 @@ Modify the label that uniquely identifies the data that is stored in it to users
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -198,7 +198,7 @@ Change the database name for the column. You may opt to change the column name m
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -227,7 +227,7 @@ Change the type of field that will store information for rows in a table column.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -256,9 +256,9 @@ Edit field properties such as the field label, type, and default values in Table
 
 ### Before you begin
 
-Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
+Launch Table Builder. For more information, see [Accessing Table Builder](accessing-form-builder.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -268,13 +268,13 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 2.  Select a field you want to modify in the table.
 
-    For information about basic field properties, see [Field Configuration.](../reference/field-parameters.md)
+    For information about basic field properties, see [Field Configuration.](field-parameters.md)
 
 3.  Next to the field you want to edit, hover over the leftmost column, and select the Open side panel icon \(![Open side panel icon](../image/side-panel-icon.png)\).
 
 4.  Make your changes to the field properties.
 
-    For information about modifying a field's UI policies, see [Modify a UI policy in Table Builder](../concept/form-builder-policies-rules.md#).
+    For information about modifying a field's UI policies, see [Modify a UI policy in Table Builder](form-builder-policies-rules.md#).
 
     **Note:** The **Config** tab on the right stays open even if you switch between the **Data** and **Forms** tabs.
 
@@ -287,7 +287,7 @@ Define the default value to populate a table column automatically after a user c
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -310,7 +310,7 @@ Select a column value that will be displayed in the reference fields of other ta
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 

@@ -54,10 +54,10 @@ For information about Apache Jelly, see [Jelly tags](https://raw.githubuserconte
     |Dynamic content|Enter the XML script field that determines the behavior of the dynamic block.|
 
 
--   **[Catalog cart block](../concept/c_CatalogCartBlock.md)**  
+-   **[Catalog cart block](c_CatalogCartBlock.md)**  
 The catalog cart block is a dynamic block provided in the base system.
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
@@ -78,7 +78,7 @@ The catalog cart block is a dynamic block provided in the base system.
 
 [Configure a detailed content block](t_DetailedContentBlock.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a content block](t_CreateAContentBlock.md)
 

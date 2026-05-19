@@ -192,5 +192,5 @@ Information about how to resolve the Universal Task or steps taken to resolve it
     |**__Submit__**|Task is created. The state of the task remains New, and no notification is sent to the employee.|
 
 
-**Parent Topic:**[Universal Task in Service Operations Workspace](../concept/using-ut-sow.md)
+**Parent Topic:**[Universal Task in Service Operations Workspace](using-ut-sow.md)
 

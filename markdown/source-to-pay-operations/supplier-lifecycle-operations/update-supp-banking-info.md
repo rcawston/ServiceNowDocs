@@ -37,7 +37,7 @@ Role required: sn\_slm.contact
 
 5.  On the Update banking details form, fill in the fields.
 
-    If you are adding a new account, you can auto-populate the Bank name, Account holder name, and Account number fields by selecting the **Extract values from the attachment to auto-populate from fields** checkbox. For more information about the form fields and descriptions, see [Update banking details form](../reference/update-supp-banking-form.md) ![Selected option for adding a new account](../image/update-banking-details-supplier-collaboration-portal.png).
+    If you are adding a new account, you can auto-populate the Bank name, Account holder name, and Account number fields by selecting the **Extract values from the attachment to auto-populate from fields** checkbox. For more information about the form fields and descriptions, see [Update banking details form](update-supp-banking-form.md) ![Selected option for adding a new account](../image/update-banking-details-supplier-collaboration-portal.png).
 
 6.  Select **Submit**.
 
@@ -48,7 +48,7 @@ The application creates a case and assigns it to the supplier manager for review
 
 After the supplier manager approves the case, the banking details are updated in the supplier record.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -73,5 +73,5 @@ After the supplier manager approves the case, the banking details are updated in
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

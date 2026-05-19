@@ -25,11 +25,11 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 
 3.  On the Containment Action form, fill in the fields.
 
-    For a description of the field values, see [Containment action form](../reference/mco-containment-actions-form.md).
+    For a description of the field values, see [Containment action form](mco-containment-actions-form.md).
 
 4.  Select **Save**.
 
-    The [Create a CoPQ expense line](mco-copq-expense-line.md), [Impacted asset action](mco-impacted-asset-action.md), and [Work order form](../reference/work-order-form.md) forms are displayed.
+    The [Create a CoPQ expense line](mco-copq-expense-line.md), [Impacted asset action](mco-impacted-asset-action.md), and [Work order form](work-order-form.md) forms are displayed.
 
 
 **Parent Topic:**[Product Non-conformance without playbook](mco-related-lists-product-non-conformance.md)
@@ -37,9 +37,9 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 **Related topics**  
 
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](mco-notes.md)
 
-[Resolution information form](../reference/mco-resolution-information-form.md)
+[Resolution information form](mco-resolution-information-form.md)
 
-[Effectiveness form](../reference/mco-effectiveness-form.md)
+[Effectiveness form](mco-effectiveness-form.md)
 

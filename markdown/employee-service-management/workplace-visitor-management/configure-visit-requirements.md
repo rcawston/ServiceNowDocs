@@ -65,9 +65,9 @@ Is initial requirement
 
 Option to display the requirement on the visit creation page. If this option is selected, the requirement is displayed on the visit creation page to the host and receptionist.
 
-Initial requirements are displayed first in the Workplace Services Kiosk self-registration flow. For more information about self-registration, see [Self-register as a visitor](../../workplace-services-kiosk/task/visitor-self-register.md).
+Initial requirements are displayed first in the Workplace Services Kiosk self-registration flow. For more information about self-registration, see [Self-register as a visitor](../workplace-services-kiosk/visitor-self-register.md).
 
-Initial requirements are used by the Workplace Concierge agentic workflow to create visits. For more information, see [Workplace Concierge agentic workflow](../../now-assist-wsd/concept/workplace-concierge-ai-agent.md).
+Initial requirements are used by the Workplace Concierge agentic workflow to create visits. For more information, see [Workplace Concierge agentic workflow](../now-assist-for-wsd/workplace-concierge-ai-agent.md).
 
 If this option is not selected, the requirements appear later in the visit creation process based the conditions set in the **Apply if** section.
 
@@ -114,7 +114,7 @@ Option to set the record to active.
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Additional requirement form](../reference/additional-req-form.md).
+    For a description of the field values, see [Additional requirement form](additional-req-form.md).
 
 8.  On the Acknowledgment tab, in the Policy field, select a policy record.
 
@@ -133,7 +133,7 @@ Option to set the record to active.
 
 Create more records for additional information based on your preference. You can view the created records in the related lists of the Visit requirement record.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
 
 **Related topics**  
 
@@ -148,7 +148,7 @@ Create more records for additional information based on your preference. You can
 
 [Create a visitor badge template](create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](quick-start-tests-wsd-visitor-mgmt.md)
 

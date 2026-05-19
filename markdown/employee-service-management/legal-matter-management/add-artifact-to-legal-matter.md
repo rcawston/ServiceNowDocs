@@ -117,8 +117,8 @@ The state of the legal matter updates to Work in Progress.
 
 -   **[Attach files to a legal matter artifact](add-files-to-artifact.md)**  
 Upload supporting documentation, such as documents, email copies, images, or any other files into the artifact while you are working on a legal matter or matter task. You can also use these artifacts as a reference material to solve similar requests in future.
--   **[Document access in a legal matter](../concept/document-access-legal-matter.md)**  
+-   **[Document access in a legal matter](document-access-legal-matter.md)**  
 Documents attached to legal matters are uploaded to the configured external storage system when the external storage option is enabled on an intake form with All or matter type selected. The access permission of these documents to various personas is controlled in real time, via a scheduled job, or on-demand.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

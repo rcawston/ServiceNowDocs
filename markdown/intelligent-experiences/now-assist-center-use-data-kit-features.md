@@ -51,8 +51,8 @@ In Now Assist Center, the integration of Now Assist Data Kit includes multi-tabb
 
     Each action you take will open in a new tab in the Now Assist Center workspace.
 
-    For more information on Now Assist Data Kit, see [Now Assist Data Kit](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md).
+    For more information on Now Assist Data Kit, see [Now Assist Data Kit](now-assist-data-kit/now-assist-data-kit-landing.md).
 
 
-**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](../concept/now-assist-center-using-other-applications.md)
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](now-assist-center-using-other-applications.md)
 

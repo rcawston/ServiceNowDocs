@@ -22,11 +22,11 @@ The indexed content and metadata are stored as records in a connector-specific i
 
 **Important:** All content the connector retrieves from your Amazon S3 buckets is treated as public content, searchable by everyone who has access to your configured AI Search experience.
 
--   **[Configure Amazon S3 for external content indexing](../task/configure-amazon-s3-external-content-indexing.md)**  
+-   **[Configure Amazon S3 for external content indexing](configure-amazon-s3-external-content-indexing.md)**  
 Create an Identity and Access Management \(IAM\) user in the Amazon Web Services \(AWS\) Management Console. Define an access key for your new user to allow the Amazon S3 external content connector to access your Amazon S3 source system.
--   **[Create an Amazon S3 external content connector](../task/create-ext-cont-connector-amazon-s3.md)**  
+-   **[Create an Amazon S3 external content connector](create-ext-cont-connector-amazon-s3.md)**  
 Create an external content connector to retrieve searchable content from your Amazon S3 source system.
--   **[Configure crawl settings for an Amazon S3 external content connector](../task/configure-crawl-settings-amazon-s3-external-content-connector.md)**  
+-   **[Configure crawl settings for an Amazon S3 external content connector](configure-crawl-settings-amazon-s3-external-content-connector.md)**  
 Define inclusion and exclusion filters to specify the buckets and file types you want your Amazon S3 external content connector to retrieve when running content crawls.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -34,5 +34,5 @@ Define inclusion and exclusion filters to specify the buckets and file types you
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 

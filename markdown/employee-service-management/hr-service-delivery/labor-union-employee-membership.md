@@ -105,5 +105,5 @@ The employee's job code within your company.
 </table>4.  Select **Save** or **Submit**.
 
 
-**Parent Topic:**[Using Labor Unions](../concept/labor-unions-using.md)
+**Parent Topic:**[Using Labor Unions](labor-unions-using.md)
 

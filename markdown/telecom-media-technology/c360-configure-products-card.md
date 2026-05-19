@@ -37,10 +37,10 @@ Role required: sn\_telecom\_c360.admin
     |Enable search on product characteristics|Flag that enables search by product characteristics. Select this flag to enable search against product characteristic values in addition to the product search field. Search is performed against characteristic values only.|
 
 
-**Parent Topic:**[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](c360-configure-variables.md)
 
 **Related topics**  
 
 
-[Products card](../concept/c360-products-card.md)
+[Products card](c360-products-card.md)
 

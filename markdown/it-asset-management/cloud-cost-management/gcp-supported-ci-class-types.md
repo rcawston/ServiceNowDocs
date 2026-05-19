@@ -30,5 +30,5 @@ Supported CI class types for Google Cloud enable assigning cost and usage data c
 |cmdb\_ci\_cloud\_storage\_account| |
 |cmdb\_ci\_storage\_volume| |
 
-**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 

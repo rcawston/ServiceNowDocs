@@ -42,5 +42,5 @@ The activities will be listed from newest to oldest so that you can analyze the 
     All of the activity related to a Customer Action is automatically recorded. In addition, you have the ability to add additional comments to activities.
 
 
-**Parent Topic:**[Customer Actions](../concept/critical-updates.md)
+**Parent Topic:**[Customer Actions](critical-updates.md)
 

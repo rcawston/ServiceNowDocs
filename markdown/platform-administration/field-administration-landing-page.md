@@ -17,7 +17,7 @@ The individual pieces of data in a record are called fields. You enter data in f
 
 <table id="table_tfh_j4w_g2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about fields on the ServiceNow AI Platform.](../../reference-pages/concept/c_IntroductionToFields.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about fields on the ServiceNow AI Platform.](c_IntroductionToFields.md)
 
 </td><td>
 
@@ -29,7 +29,7 @@ The individual pieces of data in a record are called fields. You enter data in f
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Information about supported field types.](../../reference-pages/reference/r_FieldTypes.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Information about supported field types.](r_FieldTypes.md)
 
 </td></tr></tbody>
 </table>

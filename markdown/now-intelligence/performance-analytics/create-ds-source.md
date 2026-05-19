@@ -42,7 +42,7 @@ Role required: pa\_data\_collector or higher
 
     Only the fields you specify in the Data snapshots source are tracked historically, or can be used to filter the resulting indicators. You can add more fields after creating the Data snapshots source. However, you won't have data about fields from before you added them. Nor can you remove fields.
 
-    **Note:** If you add a field that references a table with a record hierarchy, you can roll up the scores for that hierarchy through a [hierarchical dashboard filter](../../par-for-workspace/concept/create-hierarchical-filter.md) or in [KPI Details](../../par-for-workspace/task/filter-data-snapshots-indicator-scores.md).
+    **Note:** If you add a field that references a table with a record hierarchy, you can roll up the scores for that hierarchy through a [hierarchical dashboard filter](../create-hierarchical-filter.md) or in [KPI Details](../filter-data-snapshots-indicator-scores.md).
 
 7.  To activate data mining for the Data snapshots source, turn on **Data collection enabled**.
 
@@ -55,5 +55,5 @@ After you create the Data snapshots source, only **Data collection enabled**, **
 
 Track the data collection activity in the log entries on this record.
 
-**Parent Topic:**[Data snapshots sources and collection](../reference/tables-unlimited-breakdowns.md)
+**Parent Topic:**[Data snapshots sources and collection](tables-unlimited-breakdowns.md)
 

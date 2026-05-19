@@ -138,5 +138,5 @@ Comma-separated list of tab widget parameters. This field appears only when **Cu
 
 A Teams Chat tab is added in each record of the Employee Center My Request page for the configured ticket type or table.
 
-**Parent Topic:**[Microsoft Teams Chat widget in Employee Center](../concept/config-std-ticket-page-teams-it.md)
+**Parent Topic:**[Microsoft Teams Chat widget in Employee Center](config-std-ticket-page-teams-it.md)
 

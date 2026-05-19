@@ -47,5 +47,5 @@ The time limit for modifying an appointment may vary across tech Lounges. You ca
     You can also swipe the appointment card and tap your preferred action to modify the appointment.
 
 
-**Parent Topic:**[Walk-up Experience on Now Mobile](../concept/walk-up-experience-now-mobile.md)
+**Parent Topic:**[Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md)
 

@@ -38,5 +38,5 @@ HS OSHA PDF template
 Stores OSHA form PDF template records that are required for OSHA form generation. The PDF templates are installed and preconfigured when you install the application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](../concept/hs-reporting-reference.md)
+</table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](hs-reporting-reference.md)
 

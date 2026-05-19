@@ -17,7 +17,7 @@ Enterprise Architecture lets you define a single, version-agnostic entity that r
 
 Starting with the Xanadu release, most Enterprise Architecture \(formerly Application Portfolio Management\) capabilities are available through the Enterprise Architecture Workspace.
 
-Features such as data certification, application assessments, and total cost of ownership \(TCO\) are now accessed and managed from the Enterprise Architecture Workspace, not from the legacy APM pages. To learn more about Enterprise Architecture Workspace, see [Enterprise Architecture Workspace](../ea-workspace.md).
+Features such as data certification, application assessments, and total cost of ownership \(TCO\) are now accessed and managed from the Enterprise Architecture Workspace, not from the legacy APM pages. To learn more about Enterprise Architecture Workspace, see [Enterprise Architecture Workspace](ea-workspace.md).
 
 ## Enterprise Architecture use case
 

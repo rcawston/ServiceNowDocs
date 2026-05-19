@@ -15,13 +15,13 @@ Migrate the bot process configuration and associated assets to another environme
 
 ## Before you begin
 
-Familiarize yourself with the bot process migration concept. For more information, see [Migrating the bot process configuration in RPA Hub](../concept/bot-process-migration.md).
+Familiarize yourself with the bot process migration concept. For more information, see [Migrating the bot process configuration in RPA Hub](bot-process-migration.md).
 
-Verify that you’ve completed the tasks that are related to setting up the target environment. For more information, see [Set up the ServiceNow Remote Instance spoke](../../../administer/integrationhub-store-spokes/task/setup-rem-instance.md#).
+Verify that you’ve completed the tasks that are related to setting up the target environment. For more information, see [Set up the ServiceNow Remote Instance spoke](integration-hub/setup-rem-instance.md#).
 
 The bot process must be marked ready for migration. For more information, see [Mark the bot process as ready for migration in RPA Hub](mark-bot-process-ready-for-migration.md).
 
-Verify that the life-cycle stage status of the bot process in the source environment is set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+Verify that the life-cycle stage status of the bot process in the source environment is set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](lifecycle-stages-botprocess.md).
 
 When you re-migrate, verify that the life-cycle stage status of the bot process in the target environment isn’t set to **Published** or **Retired**. If **Published**, the values are overridden in the target environment.
 
@@ -51,9 +51,9 @@ After the migration is completed successfully or if an error occurs, an email no
 ## What to do next
 
 -   [Associate a bot process to a bot process configuration record](select-botprocess.md#)
--   [Credential Management in RPA Hub](../concept/credential-management-rpa-hub.md)
--   [Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+-   [Credential Management in RPA Hub](credential-management-rpa-hub.md)
+-   [Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 -   [Publish a bot process in RPA Hub](publish-bot-process.md)
 
-**Parent Topic:**[Migrating the bot process configuration in RPA Hub](../concept/bot-process-migration.md)
+**Parent Topic:**[Migrating the bot process configuration in RPA Hub](bot-process-migration.md)
 

@@ -48,5 +48,5 @@ If the user needs to take an additional action, such as attaching a document, th
 8.  Click **View ticket details** to view the complete details of the ticket.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

@@ -42,7 +42,7 @@ Role required: enterprise\_asset
 -   The state of the associated repair asset tasks that were open changes to Closed Incomplete.
 -   The stage of the repair order changes to Cancelled only if there aren't any other repair order lines that are in the Troubleshoot, Repair, Evaluate, or Completed stage.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ Platform Analytics Solutions contain preconfigured dashboards. The dashboards pr
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
-The Security Incident Response Performance Analytics Solution is available from the ServiceNow Store. For information about downloading and installing this application, see [Security Operations and the ServiceNow Store](../../../product/planning-and-policy/concept/secops-and-store.md).
+The Security Incident Response Performance Analytics Solution is available from the ServiceNow Store. For information about downloading and installing this application, see [Security Operations and the ServiceNow Store](../secops-and-store.md).
 
 **Note:** To evaluate the functionality, you can activate Performance Analytics solutions and in-form analytics on instances that have not licensed Performance Analytics. However, you have the following limitations:
 
@@ -36,10 +36,10 @@ This dashboard uses advanced Platform Analytics visualizations to aid security m
 With this dashboard, security managers can easily track the volume, performance and progress of security incidents from initial analysis/detection to containment, eradication, and recovery.
 -   **[Security Incident Explorer dashboard](si-explorer-dashboard.md)**  
 With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, location, priority and business impact. These views let managers quickly gain insight into the frequency in which attacks are occurring and which business services are affected.
--   **[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)**  
+-   **[Security Operations Efficiency dashboard](cj-sir-socpa-dashboard.md)**  
 Security operations center \(SOC\) managers can view overall efficiency metrics and measure the individual performance of the SOC team members in the organization.
 
-**Parent Topic:**[Security Incident Response setup](../../../product/security-incident-response/concept/setup-sir.md)
+**Parent Topic:**[Security Incident Response setup](setup-sir.md)
 
 **Related topics**  
 

@@ -33,9 +33,9 @@ Role required: sns\_aia.admin
     -   [Determine whether you want to use the Now Assist in Virtual Agent chat assistants and/or as UI action, set the processing messages, and activate your AI agent.](channels-access-aia.md).
     **Note:** Some fields aren't editable if the agent is associated with a Now Assist application. If you want to make more modifications, [duplicate the agentic workflow](clone-aia-usecase.md) and make changes to the duplicate.
 
-    -   For the **List of steps** field in the **Define specialty** step, you can create multiple versions of the same AI agent without losing previous versions. Creating versions enables you to test different instructions to evaluate performance. See [Version control for AI agents and agentic workflows](../concept/version-control.md) for more information.
-    -   For more guidance on creating effective instructions, see the [general guidelines for creating AI agents and agentic workflows](../concept/gg-creating-aia.md).
-    -   For the access control lists \(ACLs\), you can edit the security fields and define who can access the AI agent and edit the entity to run the AI agent as a dynamic user or an AI user. For more information, see [Implement access control in Now Assist AI agents](../concept/aia-security-implementation.md).
+    -   For the **List of steps** field in the **Define specialty** step, you can create multiple versions of the same AI agent without losing previous versions. Creating versions enables you to test different instructions to evaluate performance. See [Version control for AI agents and agentic workflows](version-control.md) for more information.
+    -   For more guidance on creating effective instructions, see the [general guidelines for creating AI agents and agentic workflows](gg-creating-aia.md).
+    -   For the access control lists \(ACLs\), you can edit the security fields and define who can access the AI agent and edit the entity to run the AI agent as a dynamic user or an AI user. For more information, see [Implement access control in Now Assist AI agents](aia-security-implementation.md).
     You can navigate through the steps of the Guided Setup with the **Continue** and **Back** buttons.
 
 4.  Navigate to the last step and select **Test** to save your changes and begin testing your modified agent.

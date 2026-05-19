@@ -66,5 +66,5 @@ Role required: none
 -   To see all archived cards for the current board, from the board navigation panel, open the board information menu \(![Board information icon](../image/BoardInfoIcon.png)\) and click **View Archived Tasks**.
 -   To restore an archived card, point to it and click **Restore**.
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

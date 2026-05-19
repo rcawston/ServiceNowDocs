@@ -29,15 +29,15 @@ State models provide a way to limit the choices for moving between states in a f
 
 1.  Verify the choices for the **State** field for the table and ensure that you created transitions for them.
 
-    For more information about how to add **State** field choices, see [Best practices for state field choice values](../../field-administration/concept/c_BPForStateFieldChoiceValues.md#).
+    For more information about how to add **State** field choices, see [Best practices for state field choice values](../c_BPForStateFieldChoiceValues.md#).
 
 2.  After creating the state model, define the process flow.
 
-    For more information about process flows, see [Process flow formatter](../../form-administration/reference/r_ProcessFlowFormatter.md#).
+    For more information about process flows, see [Process flow formatter](../r_ProcessFlowFormatter.md#).
 
 3.  Define UI actions as desired to move between states.
 
-    For more information about UI actions, see [UI actions](../../list-administration/concept/c_UIActions.md).
+    For more information about UI actions, see [UI actions](../c_UIActions.md).
 
 
 ## Result

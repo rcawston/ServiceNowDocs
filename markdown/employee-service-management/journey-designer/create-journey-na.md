@@ -83,5 +83,5 @@ Sample prompts that you can use include:
     3.  Select **Regenerate draft**.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

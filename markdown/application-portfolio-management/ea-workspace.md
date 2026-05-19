@@ -23,23 +23,23 @@ Enterprise Architecture Workspace Overview
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Enterprise Architecture Workspace](eaw-concept/configure-eaw.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Enterprise Architecture Workspace](configure-eaw.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Enterprise Architecture Workspace with other applications](eaw-concept/eaw-integrate-eaw-with-other-apps.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Enterprise Architecture Workspace with other applications](eaw-integrate-eaw-with-other-apps.md)
 
 </td></tr><tr><td>
 
-[Use](eaw-concept/eaw-managing-ea-workspace.md)
+[Use](eaw-managing-ea-workspace.md)
 
- [![](../../../reuse/icons/brand-icons/bus-manage.svg)](eaw-concept/eaw-managing-ea-workspace.md)
+ [![](../../../reuse/icons/brand-icons/bus-manage.svg)](eaw-managing-ea-workspace.md)
 
- [Learn how to use Enterprise Architecture Workspace](eaw-concept/eaw-managing-ea-workspace.md)
+ [Learn how to use Enterprise Architecture Workspace](eaw-managing-ea-workspace.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines of Enterprise Architecture](../reference/eaw-reference/eaw-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines of Enterprise Architecture](eaw-reference.md)
 
 </td><td>
 
@@ -55,13 +55,13 @@ Enterprise Architecture Workspace Overview
 
 -   **[Exploring Enterprise Architecture Workspace](explore-eaw.md)**  
 The Enterprise Architecture Workspace is part of the Enterprise Architecture application. The workspace is a unified interface with multiple views that help you manage your portfolio efficiently. You can use these views to stay up to date with your tasks, insights, tasks that need attention, portfolio health, and dashboards.
--   **[Configuring Enterprise Architecture Workspace](eaw-concept/configure-eaw.md)**  
+-   **[Configuring Enterprise Architecture Workspace](configure-eaw.md)**  
 As an administrator, use this section to configure the Enterprise Architecture Workspace.
--   **[Managing Enterprise Architecture Workspace](eaw-concept/eaw-managing-ea-workspace.md)**  
+-   **[Managing Enterprise Architecture Workspace](eaw-managing-ea-workspace.md)**  
 Use the Enterprise Architecture Workspace \(EAW\) for managing portfolios, modeling architecture, and visualizing IT landscapes.
--   **[Integrating Enterprise Architecture Workspace with other applications](eaw-concept/eaw-integrate-eaw-with-other-apps.md)**  
+-   **[Integrating Enterprise Architecture Workspace with other applications](eaw-integrate-eaw-with-other-apps.md)**  
 Understand the process required to set up Enterprise Architecture Workspace to work with key applications in the ServiceNow platform to provide a deep insight into the applications.
--   **[Enterprise Architecture Workspace reference](../reference/eaw-reference/eaw-reference.md)**  
+-   **[Enterprise Architecture Workspace reference](eaw-reference.md)**  
 Reference topics that provide additional details about Enterprise Architecture Workspace such as the field descriptions, user roles, tables, guidelines, and domain separation information.
 
 **Parent Topic:**[Enterprise Architecture](application-portfolio-management-landing-page.md)

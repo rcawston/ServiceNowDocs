@@ -32,5 +32,5 @@ Role required: sn\_uni\_req.sensitiveinfo\_agent or service specific assignment 
 5.  On the form, select the **Unrestrict** button.
 
 
-**Parent Topic:**[Universal Request in Service Operations Workspace](../concept/using-ur-sow.md)
+**Parent Topic:**[Universal Request in Service Operations Workspace](using-ur-sow.md)
 

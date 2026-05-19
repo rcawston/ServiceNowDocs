@@ -71,10 +71,10 @@ Incident Overview Homepage
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with the Incident plugin](../reference/installed-with-incident.md)**  
+-   **[Components installed with the Incident plugin](installed-with-incident.md)**  
 Several types of components are installed with activation of the Incident plugin in Incident Management.
 
-**Parent Topic:**[Incident Management plugins](../concept/incident-mgmt-plugins.md)
+**Parent Topic:**[Incident Management plugins](incident-mgmt-plugins.md)
 
 **Related topics**  
 

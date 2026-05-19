@@ -33,5 +33,5 @@ In this flow, ServiceNow functions as both the authorization server \(handling u
 
 [Authorization code grant workflow](authorization-workflow.md)
 
-[Configure an OAuth authorization code grant](../../machine-identity/task/configure-an-oauth-authorization-code-grant.md)
+[Configure an OAuth authorization code grant](configure-an-oauth-authorization-code-grant.md)
 

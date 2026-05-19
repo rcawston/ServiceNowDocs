@@ -52,14 +52,14 @@ Identification inclusion rules also indirectly impact what appears in CMDB healt
 
 Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Identification Inclusion Rules** &gt; **** to see the list of all identification inclusion rules.
 
-**Parent Topic:**[Identification rules](../concept/c_IdentificationRules.md)
+**Parent Topic:**[Identification rules](c_IdentificationRules.md)
 
 **Related topics**  
 
 
 [Create a CI identification rule](t_CreateCIIdentificationRule.md)
 
-[General guidelines for using CMDB Identification](../concept/best-practices-id-reconcile.md)
+[General guidelines for using CMDB Identification](best-practices-id-reconcile.md)
 
 [Create health inclusion rule](create-health-inclusion-rule.md)
 

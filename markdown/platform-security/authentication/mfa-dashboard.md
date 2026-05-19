@@ -21,7 +21,7 @@ To access the MFA Dashboard, navigate **All** &gt; **Multi-factor Authentication
 
 ![MFA Dashboard](../images/mfa-dashboard.png)
 
-**Note:** You must enable MFA to view the metrics. For more information, see [Multi-factor Authentication system properties](../reference/mfa-properties.md).
+**Note:** You must enable MFA to view the metrics. For more information, see [Multi-factor Authentication system properties](mfa-properties.md).
 
 Following are the types of metrics displayed on the MFA Dashboard:
 

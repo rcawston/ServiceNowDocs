@@ -70,5 +70,5 @@ The system validates the data in the ASN import template to verify its accuracy 
     1.  Checks that the quantity doesn't exceed 1.
     2.  If the provided quantity exceeds 1, logs an error message in the staging table, resets the quantity to **1**, and creates an asset record.
 
-For more details on ASN import process, see [Use Advanced Shipment Notification](../task/advanced-shipment-notification.md).
+For more details on ASN import process, see [Use Advanced Shipment Notification](advanced-shipment-notification.md).
 

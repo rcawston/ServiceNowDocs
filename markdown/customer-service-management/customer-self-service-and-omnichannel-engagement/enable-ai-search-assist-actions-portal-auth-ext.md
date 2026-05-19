@@ -17,7 +17,7 @@ Enable the AI Search Assist Actions to search knowledge articles in the Customer
 
 ## Before you begin
 
-[Activate Customer Service Management](t_ActivateCustomerService.md)
+[Activate Customer Service Management](../t_ActivateCustomerService.md)
 
 You must configure AI Search for the Customer and Consumer Service Portals. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
 
@@ -54,5 +54,5 @@ Role required: web\_service\_admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[AI Search Assist for authenticated external users](../concept/enable-ai-search-for-portal-auth-external.md)
+**Parent Topic:**[AI Search Assist for authenticated external users](enable-ai-search-for-portal-auth-external.md)
 

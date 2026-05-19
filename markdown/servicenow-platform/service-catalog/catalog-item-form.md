@@ -47,7 +47,7 @@ Category
 
 Category for the item. Categories can only be selected after the **Catalogs** field is populated.Catalog searches find only items that are assigned to a category in the Service Portal.
 
- For Employee Center, catalog searches find only items that are associated with a taxonomy topic. For more information, see [Associate a catalog item with a taxonomy topic in Employee Center](../task/associate-cat-item-taxonomy-ec.md).
+ For Employee Center, catalog searches find only items that are associated with a taxonomy topic. For more information, see [Associate a catalog item with a taxonomy topic in Employee Center](associate-cat-item-taxonomy-ec.md).
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Access Type
 Option to specify if a request can be submitted for a user who does not have access to the catalog item. Possible options are:-   Restricted: The request can only be submitted for users who have access to the catalog item.
 -   Delegated: The request can be submitted even for users who do not have access to the catalog item.
 
- By default, this field is set to `Restricted`. For information about delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+ By default, this field is set to `Restricted`. For information about delegated request experience, see [Delegated request experience](delegated-request-exp.md).
 
  **Note:** This functionality is only applicable when the catalog item has a Requested For variable.
 
@@ -176,7 +176,7 @@ Meta
 
 </td><td>
 
-Comma-separated list of tags used to search for the catalog item. Use commas between keywords for better results when searching. The Zing search engine removes common words from search queries that do not produce meaningful results.See [Configure keyword search for catalog items](../task/search-catalog-item.md).
+Comma-separated list of tags used to search for the catalog item. Use commas between keywords for better results when searching. The Zing search engine removes common words from search queries that do not produce meaningful results.See [Configure keyword search for catalog items](search-catalog-item.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -409,7 +409,7 @@ Universal Request Config
 
 </td></tr><tr><td colspan="2">
 
-This section is available only when the Universal Request plugin \(com.snc.universal\_request\) is activated. For information about this configuration, see [Service Catalog configuration for Universal Request](../concept/ur-catalog-config.md).
+This section is available only when the Universal Request plugin \(com.snc.universal\_request\) is activated. For information about this configuration, see [Service Catalog configuration for Universal Request](ur-catalog-config.md).
 
 </td></tr><tr><td>
 
@@ -437,7 +437,7 @@ Expand help for all questions
 
 </td><td>
 
-Check box to expand and display [help information](../task/t_DefineHelpInformation.md) for all questions on loading the page.**Note:**
+Check box to expand and display [help information](t_DefineHelpInformation.md) for all questions on loading the page.**Note:**
 
 -   This field is also applicable in Service Portal.
 -   If the **Expand help for all questions** check box is selected at the catalog item level, then the **Always Expanded** field setting at the variable level is overridden.
@@ -492,7 +492,7 @@ Domain
 
 </td><td>
 
-Domain in which the catalog item is created. Applicable when the domain separation is enabled in Service Catalog. For information about domain separation, see [Domain separation and Service Catalog](../concept/domain-separation-service-catalog-management.md).
+Domain in which the catalog item is created. Applicable when the domain separation is enabled in Service Catalog. For information about domain separation, see [Domain separation and Service Catalog](domain-separation-service-catalog-management.md).
 
 </td></tr><tr><td>
 
@@ -512,7 +512,7 @@ Item Diagnostic
 
 </td><td>
 
-Generates a [diagnostic](../concept/c_ItemDiagnostic.md) report and score to identify possible issues within the Service Catalog data and configuration.
+Generates a [diagnostic](c_ItemDiagnostic.md) report and score to identify possible issues within the Service Catalog data and configuration.
 
 </td></tr><tr><td>
 
@@ -532,7 +532,7 @@ Variables
 
 </td><td>
 
-[Variables](../task/t_CreateAVariableForACatalogItem.md) for the item to provide options for ordering the item.
+[Variables](t_CreateAVariableForACatalogItem.md) for the item to provide options for ordering the item.
 
 </td></tr><tr><td>
 
@@ -540,7 +540,7 @@ Variable Sets
 
 </td><td>
 
-[Variable Set](../concept/c_ServiceCatalogVariableSets.md) linked to the item.Link an existing variable set to the item to provide multiple options for ordering the item.
+[Variable Set](c_ServiceCatalogVariableSets.md) linked to the item.Link an existing variable set to the item to provide multiple options for ordering the item.
 
 </td></tr><tr><td>
 
@@ -564,7 +564,7 @@ Categories
 
 </td><td>
 
-Additional [categories](../task/t_CreateACategory.md) associated with this item.
+Additional [categories](t_CreateACategory.md) associated with this item.
 
 </td></tr><tr><td>
 
@@ -580,7 +580,7 @@ Catalog Data Lookup Definitions
 
 </td><td>
 
-Catalog data lookup rules associated with the catalog item. For information on creating a data lookup rule, see [Create a catalog lookup definition](../task/t_CreatACatDataLookupDefRec.md#).
+Catalog data lookup rules associated with the catalog item. For information on creating a data lookup rule, see [Create a catalog lookup definition](t_CreatACatDataLookupDefRec.md#).
 
 </td></tr><tr><td>
 
@@ -588,7 +588,7 @@ Catalog UI Policies
 
 </td><td>
 
-[Catalog UI policies](../concept/c_ServiceCatalogUIPolicy.md) associated with this item.
+[Catalog UI policies](c_ServiceCatalogUIPolicy.md) associated with this item.
 
 </td></tr><tr><td>
 
@@ -596,7 +596,7 @@ Catalog Client Scripts
 
 </td><td>
 
-[Catalog client scripts](../task/t_CreateACatalogClientScript.md) associated with this item.
+[Catalog client scripts](t_CreateACatalogClientScript.md) associated with this item.
 
 </td></tr><tr><td>
 
@@ -628,10 +628,10 @@ Assigned Topics
 
 </td><td>
 
-Associate a catalog item to a taxonomy and topic. For information about how to add an item to a taxonomy, see [Associate a catalog item with a taxonomy topic in Employee Center](../task/associate-cat-item-taxonomy-ec.md).**Note:** This field becomes available when you activate the Employee Experience Taxonomy plugin \(sn\_ect\).
+Associate a catalog item to a taxonomy and topic. For information about how to add an item to a taxonomy, see [Associate a catalog item with a taxonomy topic in Employee Center](associate-cat-item-taxonomy-ec.md).**Note:** This field becomes available when you activate the Employee Experience Taxonomy plugin \(sn\_ect\).
 
 </td></tr></tbody>
-</table>For information about creating or editing a catalog item, see [Create or edit a catalog item](../task/t_DefineACatalogItem.md#).
+</table>For information about creating or editing a catalog item, see [Create or edit a catalog item](t_DefineACatalogItem.md#).
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 

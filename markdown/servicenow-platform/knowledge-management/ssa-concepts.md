@@ -163,5 +163,5 @@ The following figure illustrates the components of the activity context Contact.
 **Related topics**  
 
 
-[Configure Self-Service Analytics](../task/config-ssa.md)
+[Configure Self-Service Analytics](config-ssa.md)
 

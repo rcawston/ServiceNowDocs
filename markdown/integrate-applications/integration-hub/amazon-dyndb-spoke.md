@@ -85,5 +85,5 @@ Integration Hub uses aliases to manage connection and credential information, an
 
 **Note:** Two Credential aliases are available for the Amazon DynamoDB spoke.
 
-For information about setting up the spoke, see [Set up the Amazon DynamoDB spoke](../../integrationhub/tasks/setup-dyndb.md#).
+For information about setting up the spoke, see [Set up the Amazon DynamoDB spoke](setup-dyndb.md#).
 

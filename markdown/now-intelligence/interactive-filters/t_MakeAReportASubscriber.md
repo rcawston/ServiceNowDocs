@@ -21,7 +21,7 @@ Role required: report\_admin
 
 ## About this task
 
-**Note:** This task refers to interactive filters in the Core UI. For information about filters in Platform Analytics experience, see [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This task refers to interactive filters in the Core UI. For information about filters in Platform Analytics experience, see [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports. To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table.
 
@@ -48,7 +48,7 @@ Interactive Filters allow you to filter all reports on a dashboard dynamically, 
 
 Add one or more interactive filters to the dashboard.
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](c_PublishersOnHomepages.md)
 
 **Related topics**  
 
@@ -61,5 +61,5 @@ Add one or more interactive filters to the dashboard.
 
 [Reset all interactive filters on a dashboard tab](reset-all-filters.md)
 
-[Edit a responsive dashboard](t_EditADashboard.md)
+[Edit a responsive dashboard](../performance-analytics/t_EditADashboard.md)
 

@@ -125,5 +125,5 @@ Time zone in which you're operating your business.
 **Related topics**  
 
 
-[Configure a scheduled job for asynchronous order creation](../task/running-scheduled-job.md)
+[Configure a scheduled job for asynchronous order creation](running-scheduled-job.md)
 

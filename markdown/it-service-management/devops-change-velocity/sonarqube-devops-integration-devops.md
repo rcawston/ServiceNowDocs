@@ -49,11 +49,11 @@ For more information on the scan results captured in ServiceNow, see [Software Q
 
 Use one of the following options to onboard SonarQube. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard SonarQube to DevOps Change Velocity — Workspace](../task/sonar-connect-workspace.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Workspace](sonar-connect-workspace.md)**  
 Connect to your Sonar instance using the DevOps Change Workspace playbook.
--   **[Onboard SonarQube to DevOps Change Velocity — Service Catalog](../task/sc-sonar.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Service Catalog](sc-sonar.md)**  
 Connect your Sonar instance using the ServiceNow Service Catalog.
--   **[Onboard SonarQube to DevOps Change Velocity — Classic](../task/create-sonar-tool-devops.md)**  
+-   **[Onboard SonarQube to DevOps Change Velocity — Classic](create-sonar-tool-devops.md)**  
 Connect to your Sonar instance to retrieve scan results.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

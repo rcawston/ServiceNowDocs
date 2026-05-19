@@ -15,7 +15,7 @@ Create a process parameter to store the variables that are used within a bot pro
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Before you can access a bot process, ensure that the RPA business user \(sn\_rpa\_fdn.rpa\_business\_user\), RPA developer \(sn\_rpa\_fdn.rpa\_developer\), or the RPA support user \(sn\_rpa\_fdn.rpa\_support\_user\) are in the Managed by Group list.
 
@@ -48,7 +48,7 @@ You cannot delete a process parameter that is associated to a published bot proc
 8.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 
 **Related topics**  
 

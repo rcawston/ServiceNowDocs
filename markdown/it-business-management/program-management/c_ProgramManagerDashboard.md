@@ -15,9 +15,9 @@ breadcrumb: [Program Management, Project Portfolio Management, Strategic Portfol
 
 The PMO dashboard provides a central location to a program manager to generate different graphical reports.
 
-From Madrid release onward, the program manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your programs. For more information, see [PMO Dashboard](../../../use/dashboards/application-content-packs/pmo-dashboard.md).
+From Madrid release onward, the program manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your programs. For more information, see [PMO Dashboard](../ppm-collaboration/pmo-dashboard.md).
 
--   **[Access the Program Dashboard](../task/t_AccessTheProgramManagerDashboard.md)**  
+-   **[Access the Program Dashboard](t_AccessTheProgramManagerDashboard.md)**  
 View different graphical reports for your programs on the PMO Dashboard.
 
 **Parent Topic:**[Program Management](c_ProgramManagement.md)
@@ -25,7 +25,7 @@ View different graphical reports for your programs on the PMO Dashboard.
 **Related topics**  
 
 
-[Create a program to manage projects and demands](../task/t_CreateAProgram.md)
+[Create a program to manage projects and demands](t_CreateAProgram.md)
 
 [Program workbench](c_ProgramWorkbench.md)
 

@@ -66,7 +66,7 @@ Configuring the app for a default instance is only available for iOS devices.
 14. Click **Save**.
 
 
-**Parent Topic:**[Citrix XenMobile](../concept/citrix-mdm.md)
+**Parent Topic:**[Citrix XenMobile](citrix-mdm.md)
 
 **Related topics**  
 

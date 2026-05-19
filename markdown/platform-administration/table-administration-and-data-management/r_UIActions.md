@@ -105,5 +105,5 @@ m2m.type.setDisplayValue("Fixes::Fixed by");
 m2m.insert();}
 ```
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](c_ManyToManyTaskRelations.md)
 

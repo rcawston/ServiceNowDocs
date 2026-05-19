@@ -149,5 +149,5 @@ Filter condition that you can configure and display the matching records.
 
 A new Issue Page Configuration record is created.
 
-**Parent Topic:**[Issue Page Configuration module](../../grc-common-workspace/concept/issue-page-config-record.md)
+**Parent Topic:**[Issue Page Configuration module](issue-page-config-record.md)
 

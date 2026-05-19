@@ -29,7 +29,7 @@ Role required: sn\_map\_core.admin
 
 4.  In the downloaded template file, fill in the information.
 
-    For more information about the template columns, see [Bulk upload Excel columns](../reference/bulk-template-columns.md).
+    For more information about the template columns, see [Bulk upload Excel columns](bulk-template-columns.md).
 
     **Important:** You must use the precise latitude and longitude coordinates for your campus and building. For more information about getting precise coordinates, see [Google Maps Help](https://support.google.com/maps/answer/18539).
 

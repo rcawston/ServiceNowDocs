@@ -76,5 +76,5 @@ Role required: admin
         ![List layout.](../image/list-layout-step4.png)
 
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

@@ -23,7 +23,7 @@ Now Assist Center is installed with these roles.
 
 [Domain separation and Now Assist Center](domain-separation-now-assist-center.md)
 
-[Now Assist Center glossary](../concept/now-assist-center-glossary.md#)
+[Now Assist Center glossary](now-assist-center-glossary.md#)
 
 ## Now Assist Center admin \[sn\_na\_center.nac\_admin\]
 

@@ -17,11 +17,11 @@ Operational Resilience managers typically verify that data is set up for service
 
 A service performs a business-level function, such as email, IT services, e-commerce, or telephone banking. Existing customers use the Service \(CMDB\) Main node configuration, while new customers use the OpRes with CSDM header Main node configuration. The Service form or the business services form list risks, issues, control failures, and other areas that require attention.
 
-**Note:** Administrators can show or hide the **Services overview** or **Business services overview** tabs based on their organizational needs. For more information, see [Show Business services overview tab in Workspace view](../../grc-operational-res/concept/displaying-services-overview-tab.md).
+**Note:** Administrators can show or hide the **Services overview** or **Business services overview** tabs based on their organizational needs. For more information, see [Show Business services overview tab in Workspace view](displaying-services-overview-tab.md).
 
 ## Setup of entity types and pillars
 
-Before proceeding, ensure that entity types and pillars are properly configured; refer to the [Setting up pillars, entity types, entity filters, and entities](../../grc-operational-res/concept/setting-up-hierarchy.md) for setup instructions.
+Before proceeding, ensure that entity types and pillars are properly configured; refer to the [Setting up pillars, entity types, entity filters, and entities](setting-up-hierarchy.md) for setup instructions.
 
 ## Vertical layout for Service records
 
@@ -51,7 +51,7 @@ To add or remove services and processes in the Operational Resilience Workspace,
 
 You can add a service to Operational Resilience reporting by selecting the **Add to OpRes reporting** UI action as shown in the following example.
 
-**Note:** Instead of adding services directly to Operational Resilience reporting, set up the entity filters for the desired services. For instructions on setting up the entity filters, see [Setting up pillars, entity types, entity filters, and entities](../../grc-operational-res/concept/setting-up-hierarchy.md).
+**Note:** Instead of adding services directly to Operational Resilience reporting, set up the entity filters for the desired services. For instructions on setting up the entity filters, see [Setting up pillars, entity types, entity filters, and entities](setting-up-hierarchy.md).
 
 ![Add a\ service to OpRes reporting.](../image/opres-reporting.png "Add a service to OpRes reporting")
 

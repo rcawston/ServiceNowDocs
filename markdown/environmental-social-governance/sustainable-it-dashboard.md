@@ -19,7 +19,7 @@ The Sustainable IT dashboard displays data for Hardware assets, datacenters, and
 
 ## IT footprint map
 
-The first tab on the Sustainable IT dashboard showcases a global map depicting the carbon footprint of your datacenters, office buildings, and so on, highlighting your most energy-efficient facilities. The data displayed is determined by the configuration that you configure on the map marker. For more information, refer to [Configure a map marker](../task/configure-map-markers.md). When you hover over the icons on the map, you can view the classification of the configured marker's efficiency, the metric name, the entity name, and the most recent metric data available. You can configure any of the metric definitions that are provided along with the Sustainable IT plugin. Only those metric definitions that are grouped under Sustainable IT are available for selection. For example, you can use the following the metric definitions:
+The first tab on the Sustainable IT dashboard showcases a global map depicting the carbon footprint of your datacenters, office buildings, and so on, highlighting your most energy-efficient facilities. The data displayed is determined by the configuration that you configure on the map marker. For more information, refer to [Configure a map marker](configure-map-markers.md). When you hover over the icons on the map, you can view the classification of the configured marker's efficiency, the metric name, the entity name, and the most recent metric data available. You can configure any of the metric definitions that are provided along with the Sustainable IT plugin. Only those metric definitions that are grouped under Sustainable IT are available for selection. For example, you can use the following the metric definitions:
 
 -   **Carbon intensity for office locations**
 -   **DCiE by data center**
@@ -27,7 +27,7 @@ The first tab on the Sustainable IT dashboard showcases a global map depicting t
     **Note:** DCiE stands for datacenter infrastructure efficiency.
 
 
-For more information on how you can filter the metric definitions that are grouped under Sustainable IT, refer to [Filter Sustainable IT metric definitions](../task/filter-sustainable-it-metric-definitions.md).
+For more information on how you can filter the metric definitions that are grouped under Sustainable IT, refer to [Filter Sustainable IT metric definitions](filter-sustainable-it-metric-definitions.md).
 
 When you move the cursor over the icon, a popover is displayed. On the popover, you can select the entity name and a side panel opens that shows the metrics related to the selected entity of the following metric definitions.
 
@@ -48,7 +48,7 @@ You can select **Open link** to navigate to the metric record page for details. 
 -   Carbon emissions from hardware assets.
 -   Hardware energy consumption.
 
-You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [Create an automated metric definition](../../metrics/task/create-metric-definition.md).
+You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [Create an automated metric definition](create-metric-definition.md).
 
 **Energy consumption**: The energy consumption section displays the information in the subsequent formats:
 
@@ -105,7 +105,7 @@ The Digital End-User Experience \(DEX\) tab on the Sustainable IT Dashboard inte
 -   Real time CO2e Emissions by Models
 -   Real-time Energy Consumption by Models
 
-You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [Create an automated metric definition](../../metrics/task/create-metric-definition.md). In the overview section, you can also see the Asset coverage, which displays the number of assets from where the usage and consumption data is sourced. You can select the asset number to further explore or delve into more detailed information into the asset details.
+You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [Create an automated metric definition](create-metric-definition.md). In the overview section, you can also see the Asset coverage, which displays the number of assets from where the usage and consumption data is sourced. You can select the asset number to further explore or delve into more detailed information into the asset details.
 
 **Energy consumption**: Within the energy consumption section, the information is displayed in the subsequent formats:
 

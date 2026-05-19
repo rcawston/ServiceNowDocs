@@ -47,5 +47,5 @@ A Board is created within the Space that you selected and an empty Board is show
 -   Add tasks to the Board. See [Add tasks to a CWM Board](add-tasks-to-board-in-cwm.md).
 -   Rename or edit other details of the Board using the Edit icon \(![Edit icon.](../images/cwm-icon-edit-pencil.png)\) on the Board header.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](cwm-boards.md)
 

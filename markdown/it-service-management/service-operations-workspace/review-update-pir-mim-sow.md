@@ -277,5 +277,5 @@ Select the **Reset settings** \(![Reset settings](../image/mim-refresh-icon.png)
 
 The post incident report is downloaded to your system in PDF format. You can send the PDF file to the required stakeholders.
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](managing-major-incident-sow.md)
 

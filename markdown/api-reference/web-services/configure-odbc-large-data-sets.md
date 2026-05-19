@@ -21,7 +21,7 @@ You must have administrator-level access for the Windows computer on which you w
 
 ## About this task
 
-These properties are set using the ODBC Management Console available on Windows operating systems. For more information, see [ODBC management console properties](../reference/r_SettingODBCProperties.md#ODBC_mgmt_console_properties).
+These properties are set using the ODBC Management Console available on Windows operating systems. For more information, see [ODBC management console properties](r_SettingODBCProperties.md#ODBC_mgmt_console_properties).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ These properties are set using the ODBC Management Console available on Windows 
     Typically, when running a query that returns 50,000 rows, the default value of 200 MB must be increased.
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

@@ -49,11 +49,11 @@ Organize applications on the App launcher for better app discovery and quick acc
 
 Enhance application discovery and navigation on the App launcher by configuring the access and visibility settings. Understand how access control can improve the app discovery for employees and find relevant apps that they have access to.
 
-For more information, see [Configure application visibility and access](../task/applauncher-enable-availability.md).
+For more information, see [Configure application visibility and access](applauncher-enable-availability.md).
 
 ## App Launcher integration with AI search
 
-Understand how AI Search is integrated with App launcher for better application discovery and access, see [Configure search navigation tabs](../task/config-search-nav-tabs.md).
+Understand how AI Search is integrated with App launcher for better application discovery and access, see [Configure search navigation tabs](config-search-nav-tabs.md).
 
 Ensure you understand how to configure and enable AI search capabilities, see the following AI Search topics:
 
@@ -64,15 +64,15 @@ Ensure you understand how to configure and enable AI search capabilities, see th
 **Related topics**  
 
 
-[Register custom web applications with app launcher](../task/web-applications-custom.md)
+[Register custom web applications with app launcher](web-applications-custom.md)
 
-[Assign topics to web applications](../task/web-applications-topic-assignment.md)
+[Assign topics to web applications](web-applications-topic-assignment.md)
 
-[Sync your applications from Microsoft Entra ID](../task/web-applications-azure.md)
+[Sync your applications from Microsoft Entra ID](web-applications-azure.md)
 
-[Modify app launcher widget display](../task/use-app-launcher.md)
+[Modify app launcher widget display](use-app-launcher.md)
 
 [Access applications from App Launcher](web-application-employee.md)
 
-[Configure application visibility and access](../task/applauncher-enable-availability.md)
+[Configure application visibility and access](applauncher-enable-availability.md)
 

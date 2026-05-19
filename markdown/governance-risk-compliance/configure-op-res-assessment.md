@@ -35,6 +35,6 @@ Create your own questionnaire \(assessment\) template and request the responses 
 
     ![New assessment.](../image/new-assess-temp-list.png "New assessment")
 
-    For a description of the field values on the Assessment Templates form, see [Assessment Metric Type form](../reference/new-assessment-reference.md).
+    For a description of the field values on the Assessment Templates form, see [Assessment Metric Type form](new-assessment-reference.md).
 
 

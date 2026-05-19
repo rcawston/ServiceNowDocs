@@ -17,7 +17,7 @@ The troubleshooting section can help you resolve some of the technical issues th
 
 Refer to the following section on the scheduled jobs, system properties, and File Explorer flow designer subflows in detail.
 
-**Parent Topic:**[Configure File Explorer Component](../../security-incident-response/concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 
 ## Scheduled jobs for File Explorer
 

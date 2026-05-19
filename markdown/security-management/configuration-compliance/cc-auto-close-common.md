@@ -15,7 +15,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 You can automatically close test results \(TRs\) associated with retired configuration items \(CIs\).
 
-To configure the auto-close option, navigate to the system property **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** and set it to true. To automatically close TRs related to retired CIs, see [Automatically close test results related to retired CIs](../task/cc-auto-close-vis.md).
+To configure the auto-close option, navigate to the system property **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** and set it to true. To automatically close TRs related to retired CIs, see [Automatically close test results related to retired CIs](cc-auto-close-vis.md).
 
 For information on working with retired configuration items, see [Working with retired configuration items in Configuration Compliance](cc-working-with-retired-CIs.md).
 

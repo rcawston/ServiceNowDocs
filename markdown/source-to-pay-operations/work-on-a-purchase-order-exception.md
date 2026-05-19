@@ -38,5 +38,5 @@ Review the task, add comments and attachments as needed, and then mark the task 
 
 **Note:** For tasks of the Upload Documents action type, the **Mark Complete** button is not available until a file is attached.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

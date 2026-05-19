@@ -42,5 +42,5 @@ When a case for a claim is created, the case is automatically assigned to an ass
 
 The case is assigned to the claim agent. If the agent also belongs to an agent assignment group, the group's name appears in the **Assignment group** field.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](managing-payment-claims.md)
 

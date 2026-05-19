@@ -17,13 +17,13 @@ The Next Experience Coral and Polaris themes have a dark variant that is enabled
 
 **Note:** Some custom pages don’t inherit the dark theme, which may create visual inconsistencies in the classic environment. This behavior is expected and it’s the responsibility of your administrator to exclude the dark theme from your classic environment if the inconsistencies are unacceptable for your company.
 
--   **[Open the theme menu](../task/tb-open-theme-menu.md)**  
+-   **[Open the theme menu](tb-open-theme-menu.md)**  
 Use the Next Experience Theme menu to quickly change your theme.
--   **[Enable the Next Experience dark theme for limited classic environment and configurable workspaces](../task/tb-enable-dark-theme-using-sysprops.md)**  
+-   **[Enable the Next Experience dark theme for limited classic environment and configurable workspaces](tb-enable-dark-theme-using-sysprops.md)**  
 Enable the Next Experience dark theme for limited classic environment and configurable workspaces by using system properties.
--   **[Disable the dark theme in all Next Experience instances](../task/tb-disable-dark-theme.md)**  
+-   **[Disable the dark theme in all Next Experience instances](tb-disable-dark-theme.md)**  
 Disable the Next Experience dark theme in all of Next Experience instances.
--   **[Enable the dark theme only in configurable workspaces](../task/tb-enable-dark-theme-config-workspaces.md)**  
+-   **[Enable the dark theme only in configurable workspaces](tb-enable-dark-theme-config-workspaces.md)**  
 Enable the Next Experience dark theme in configurable workspaces only, and not for the classic environment. The dark theme emits less blue light, making the display easier for your eyes and less disturbing in low-light settings.
 
 **Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)

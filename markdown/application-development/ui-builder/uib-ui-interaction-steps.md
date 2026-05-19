@@ -329,5 +329,5 @@ The following steps are only available when the UI interaction type is set to Li
 |Set query|Updates the encoded query of the list.|None|
 |Sort|Sorts the list by a specified column, ascending or descending.|None|
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

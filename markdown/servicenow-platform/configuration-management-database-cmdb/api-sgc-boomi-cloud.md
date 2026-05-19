@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Import data into a normalized data model for consistency across other technologies.
 
-The API Insights workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to a Boomi Cloud API Management application, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](../../api-insights/reference/api-insights.md).
+The API Insights workspace provides a centralized interface where you can analyze and interact with API data, without needing direct access to a Boomi Cloud API Management application, enhancing visibility, governance, and collaboration across the API estate. To learn more, see [API Insights](../api-insights/api-insights.md).
 
 ## Supported ServiceNow versions
 
@@ -41,7 +41,7 @@ You can use the API Service Graph Connector for Boomi Cloud API Management to:
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the SGC Central view in the CMDB Workspace. The SGC Central view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Boomi Cloud API Management using SGC Central](../../sgc-central/task/sgcc-configure-boomi-cloud.md).
+You can configure a connection for the connector by using the SGC Central view in the CMDB Workspace. The SGC Central view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure API Service Graph Connector for Boomi Cloud API Management using SGC Central](sgcc-configure-boomi-cloud.md).
 
 ## Data mapping
 
@@ -73,11 +73,11 @@ API Component \[sn\_boomi\_api\_component\]
 
 </td><td>
 
-[Managed API](../reference/api-sgc-boomi-cloud-tables.md#section_e2t_zvz_whc)[Boomi API Gateway](../reference/api-sgc-boomi-cloud-tables.md#section_ivl_zvz_whc)
+[Managed API](api-sgc-boomi-cloud-tables.md#section_e2t_zvz_whc)[Boomi API Gateway](api-sgc-boomi-cloud-tables.md#section_ivl_zvz_whc)
 
-[API Frontend](../reference/api-sgc-boomi-cloud-tables.md#section_t2z_zvz_whc)
+[API Frontend](api-sgc-boomi-cloud-tables.md#section_t2z_zvz_whc)
 
-[API Backend](../reference/api-sgc-boomi-cloud-tables.md#section_qsk_1wz_whc)
+[API Backend](api-sgc-boomi-cloud-tables.md#section_qsk_1wz_whc)
 
 </td></tr><tr><td>
 
@@ -89,10 +89,10 @@ API Consumer \[sn\_boomi\_api\_consumer\]
 
 </td><td>
 
-[API Consumer](../reference/api-sgc-boomi-cloud-tables.md#section_thq_1wz_whc)
+[API Consumer](api-sgc-boomi-cloud-tables.md#section_thq_1wz_whc)
 
 </td></tr></tbody>
-</table>For more information on where data is saved when pulling data from a Boomi Cloud API Management application, see [Target tables for storing API Service Graph Connector for Boomi Cloud API Management data](../reference/api-sgc-boomi-cloud-tables.md).
+</table>For more information on where data is saved when pulling data from a Boomi Cloud API Management application, see [Target tables for storing API Service Graph Connector for Boomi Cloud API Management data](api-sgc-boomi-cloud-tables.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 

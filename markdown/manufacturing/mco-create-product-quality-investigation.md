@@ -25,18 +25,18 @@ Role required: admin
 
 3.  On the Product Quality Investigation form, fill in the fields.
 
-    For a description of the field values, see [Product quality investigation form](../reference/mco-product-quality-investigation-form.md).
+    For a description of the field values, see [Product quality investigation form](mco-product-quality-investigation-form.md).
 
 4.  Select **Save**.
 
 
--   **[Related list for quality issues](../concept/mco-related-list-for-pqi.md)**  
+-   **[Related list for quality issues](mco-related-list-for-pqi.md)**  
 In the workspace, you can use the product quality issues related list to log the report.
 
-**Parent Topic:**[Product quality investigation](../concept/mco-PQI-use.md)
+**Parent Topic:**[Product quality investigation](mco-PQI-use.md)
 
 **Related topics**  
 
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](mco-notes.md)
 

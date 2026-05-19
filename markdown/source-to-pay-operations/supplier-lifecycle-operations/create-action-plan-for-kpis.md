@@ -200,5 +200,5 @@ Create milestones for the affected KPIs in the action plan.
 -   **[Create supplier tasks for the action plan](create-supplier-tasks-for-the-action-plan.md)**  
 Create supplier tasks for the affected KPIs in the action plan.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 

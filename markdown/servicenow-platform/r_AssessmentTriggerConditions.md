@@ -119,5 +119,5 @@ Because two related fields were selected as part of the trigger condition, the a
 
 **Note:** Even though the trigger condition is set to be triggered every time the conditions are met, the **Repeat Interval** setting ensures that Boris does not receive another assessment if another vendor incident assigned to him closes within 30 days of the first one.
 
-**Parent Topic:**[Configure trigger conditions for an assessment](../task/t_CreateTriggerAssessment.md)
+**Parent Topic:**[Configure trigger conditions for an assessment](t_CreateTriggerAssessment.md)
 

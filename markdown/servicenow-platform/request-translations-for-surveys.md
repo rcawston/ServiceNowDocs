@@ -32,7 +32,7 @@ Role required: localization\_requestor
     Localization requested items are created for the selected surveys in all the selected languages. A success message with a link to the list of requested surveys is displayed. You can click the link to see the list.
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
 
 **Related topics**  
 
@@ -43,9 +43,9 @@ Role required: localization\_requestor
 
 [View a survey scorecard](t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)
 
 [Edit translations for surveys](edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](survey-result-database-view.md)
 

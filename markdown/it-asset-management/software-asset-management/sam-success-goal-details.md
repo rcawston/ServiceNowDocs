@@ -174,5 +174,5 @@ A description of how the success goal was achieved.
 **Related topics**  
 
 
-[Create success goals for Software Asset Management](../task/create-success-goals.md)
+[Create success goals for Software Asset Management](create-success-goals.md)
 

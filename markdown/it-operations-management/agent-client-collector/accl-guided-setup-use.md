@@ -17,8 +17,8 @@ Configure Agent Client Collector Log Analytics on your ServiceNow instance using
 
 ## Before you begin
 
--   Agent Client Collector Log Analytics has a dependency on the ServiceNow® Event Management application. Set up Event Management before you configure Agent Client Collector Log Analytics. For more information, see [Event Management setup](../../event-management/concept/c_EMConfiguration.md).
--   ServiceNow Service Operations Workspace ITOM Apps must be installed. If it is not installed already, install it manually. For more information, see [Install Service Operations Workspace for ITOM application](../../service-operations-workspace-itom/task/install-sow-itom-apps.md).
+-   Agent Client Collector Log Analytics has a dependency on the ServiceNow® Event Management application. Set up Event Management before you configure Agent Client Collector Log Analytics. For more information, see [Event Management setup](../event-management/c_EMConfiguration.md).
+-   ServiceNow Service Operations Workspace ITOM Apps must be installed. If it is not installed already, install it manually. For more information, see [Install Service Operations Workspace for ITOM application](../service-operations-workspace-for-itom-apps/install-sow-itom-apps.md).
 
 **Note:** Currently, this setup only supports basic authentication with the MID Server. mTLS is not supported.
 
@@ -68,5 +68,5 @@ Agent Client Collector Log Analytics guided setup provides a sequence of tasks t
     4.  Select **Mark as Complete** to complete the Agent Client Collector Log Analytics configuration.
 
 
-**Parent Topic:**[Agent Client Collector Log Analytics setup](../concept/accl-setup.md)
+**Parent Topic:**[Agent Client Collector Log Analytics setup](accl-setup.md)
 

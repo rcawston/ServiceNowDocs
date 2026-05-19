@@ -60,5 +60,5 @@ When a software contract record is created, the **Initiate contract extraction**
 
 [Initiate metadata and obligation extraction from a signed contract in the Software Asset Workspace](extract-metadata-from-uploaded-contract-document.md)
 
-**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](../concept/manage-contract-repository-workflow.md)
+**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
 
 Review the following information before you start setting up Document Intelligence.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 <table id="table_mnf_lpg_tsb"><thead><tr><th>
 
@@ -35,7 +35,7 @@ Verify that the following applications or plugins are installed and activated fr
 -   Platform Document Intelligence \(com.glide.platform\_ml\_di\)
 -   Document Intelligence UIB Component \(sn\_docintel\_iframe\)
 
-For more information, see [Install Document Intelligence](../task/install-document-intelligence.md).
+For more information, see [Install Document Intelligence](install-document-intelligence.md).
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Copy any use cases needed to support your Document Intelligence implementation.
 
 </td><td>
 
-Follow the steps in [Duplicate a document extraction use case](../task/duplicate-a-use-case.md) to copy a use case along with its fields, field groups, integrations, flows, and all the related machine learning \(ML\) models.
+Follow the steps in [Duplicate a document extraction use case](duplicate-a-use-case.md) to copy a use case along with its fields, field groups, integrations, flows, and all the related machine learning \(ML\) models.
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Import any use cases needed to support your Document Intelligence implementation
 
 </td><td>
 
-Follow the steps in [Import a document extraction use case](../task/import-a-use-case.md) to import a use case along with its fields, field groups, integrations, flows, and all the related machine learning \(ML\) models.
+Follow the steps in [Import a document extraction use case](import-a-use-case.md) to import a use case along with its fields, field groups, integrations, flows, and all the related machine learning \(ML\) models.
 
 </td></tr></tbody>
 </table>

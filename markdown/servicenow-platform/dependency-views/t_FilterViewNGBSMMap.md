@@ -163,7 +163,7 @@ Designate what types of tasks display and get counted in the map.
 </table>3.  Click a filter strip to expand or collapse it, and to set filter items.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

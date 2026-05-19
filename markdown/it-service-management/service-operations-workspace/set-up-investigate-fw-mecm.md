@@ -21,10 +21,10 @@ You must ensure that the following requirements are met:
 -   Install and configure Microsoft Endpoint Configuration Manager Spoke \(sn\_ms\_epcfgmgr\_spk\) application. For more information, see [Microsoft Endpoint Configuration Manager spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/ms-endpoint.md) and [Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md).
 -   Install the Microsoft Endpoint Configuration Manager for Investigation application.
 
-    For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](../task/install-mecm-adapter.md).
+    For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](install-mecm-adapter.md).
 
 
--   **[Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](../task/install-mecm-adapter.md)**  
+-   **[Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](install-mecm-adapter.md)**  
 You can install the Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 -   **[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)**  
 Configure the display of the metrics for Microsoft Endpoint Configuration Manager for Investigation.

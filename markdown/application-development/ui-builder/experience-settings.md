@@ -17,7 +17,7 @@ Learn about the UI Builder experience settings to build your own workspace and c
 
 By changing the settings of the workspace or portal experience that you're working in, you can affect how your users interact with the experience, how the experience looks, and how users navigate to and from the experience.
 
-Before you can edit the experience settings, you must be in the correct application scope. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Learn about security and roles](../task/security-roles.md).
+Before you can edit the experience settings, you must be in the correct application scope. If you're in a different scope, the experience settings are read-only. To change your application scope, go to the main header, select the application picker \(![Application picker.](../image/application-picker.png)\), and then select the application scope that you want. For more information about the application scope, see [Learn about security and roles](security-roles.md).
 
 ## Workspace experience settings
 

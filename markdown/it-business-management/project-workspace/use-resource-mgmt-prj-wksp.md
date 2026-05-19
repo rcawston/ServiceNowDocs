@@ -50,5 +50,5 @@ Within the Resource Allocation view, the Approved state is prioritized and liste
 -   **[Resource assignments in Project Workspace](resource-assignments-pw.md)**  
 Optimize project execution by assigning resources to tasks within the Project Workspace. You can create resource assignments for any project or project task, specifying the tasks to be performed and the resources to be allocated.
 
-**Parent Topic:**[Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md)
+**Parent Topic:**[Project Workspace](project-workspace-landing-page.md)
 

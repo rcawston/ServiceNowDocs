@@ -13,13 +13,13 @@ breadcrumb: [Using business architecture, Working with Portfolio list view, Mana
 
 A business processes is a structured method to organize and manage applications that collectively deliver a specific service—whether internal \(example: HR systems\) or external \(example: customer portals\). This process ensures alignment between business capabilities and IT assets, enabling better governance, risk management, and value delivery.
 
--   **[View all business processes](../../task/eaw-task/eaw-view-all-business-processes.md)**  
+-   **[View all business processes](eaw-view-all-business-processes.md)**  
 You can view the list of all available business processes in the Enterprise Architecture Workspace.
--   **[Add or edit a business process](../../task/eaw-task/eaw-create-business-process.md)**  
+-   **[Add or edit a business process](eaw-create-business-process.md)**  
 A Business process is a collection of related, structured activities performed to achieve a specific business outcome. Use business processes to model how your organization operates and to associate the business applications that support those activities.
--   **[Manage architectural artifacts of a business process](../../task/eaw-task/eaw-assoicate-artifact-bp.md)**  
+-   **[Manage architectural artifacts of a business process](eaw-assoicate-artifact-bp.md)**  
 You can create new, add, or remove the artifacts that are associated with a business process.
--   **[View value stream stages associated with a business process](../../task/eaw-task/eaw-view-vs-stages-assoc-with-bp.md)**  
+-   **[View value stream stages associated with a business process](eaw-view-vs-stages-assoc-with-bp.md)**  
 You can view the value stream stages associated with a business process to understand which steps in your value stream the business process supports.
 
 **Parent Topic:**[Using business architecture](eaw-using-business-architecture.md)

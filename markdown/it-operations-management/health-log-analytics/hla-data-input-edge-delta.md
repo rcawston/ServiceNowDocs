@@ -42,7 +42,7 @@ If your organization uses Edge Delta to handle large volumes of log data from mu
 
 4.  On the form, fill in the fields.
 
-    For a detailed description of the fields, see [Edge Delta data input configuration fields](../reference/hla-data-input-edge-delta-ref.md).
+    For a detailed description of the fields, see [Edge Delta data input configuration fields](hla-data-input-edge-delta-ref.md).
 
 5.  Select **Save** to save your configuration.
 
@@ -59,5 +59,5 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

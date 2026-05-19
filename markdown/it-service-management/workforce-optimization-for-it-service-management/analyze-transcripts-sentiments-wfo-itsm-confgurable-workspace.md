@@ -81,5 +81,5 @@ Do this
     The Amazon Connect application generates the interactions and sentiment analysis of those interactions and displays them as a report in Workforce Optimization for ITSM.
 
 
-**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](../../configurable-workforce-optimization-itsm/concept/voice-configurable-wfo-itsm.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](voice-configurable-wfo-itsm.md)
 

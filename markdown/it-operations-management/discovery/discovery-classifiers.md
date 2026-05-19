@@ -36,11 +36,11 @@ Discovery classification can be broken down into three types: device classificat
     -   Shazzam determines that the ports for HTTP \(80\) and HTTPS \(443\) traffic are open.
     -   The horizontal discovery process fails for the higher priority port probes \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
 
-        **Note:** See [Port Probes](../reference/r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
+        **Note:** See [Port Probes](r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
 
     HTTP classification launches the **HTTP Classify** probe to classify the device. The **HTTP - Classify** probe runs a GET request for each device for each HTTP classification. The URL of the request is built as follows: `PROTOCOL://IP:PORT/PATH`, where:
 
-    For more information on port probes, see [Port probes](../reference/r_PortProbes.md). For instructions on creating an HTTP classifier, see [Create an HTTP classification](../task/create-an-http-classifier.md).
+    For more information on port probes, see [Port probes](r_PortProbes.md). For instructions on creating an HTTP classifier, see [Create an HTTP classification](create-an-http-classifier.md).
 
 -   **Process classification**
 
@@ -98,10 +98,10 @@ Enables debugging information for process classification. -   **Type**: true \| 
 </td></tr></tbody>
 </table>## What you can do with Discovery classification
 
--   Create or modify a discovery classifier if you want to classify CIs that Discovery does not already classify, or trigger other probes that are not already on a classifier. You can modify classifiers that Discovery uses in [standard CI discovery](../task/create-discovery-ci-classification.md), [process classifiers for applications](../task/t_CreateAProcessClassification.md), and [classifiers based on IP address scans](../task/t_ClassifForIPAddrScan.md).
+-   Create or modify a discovery classifier if you want to classify CIs that Discovery does not already classify, or trigger other probes that are not already on a classifier. You can modify classifiers that Discovery uses in [standard CI discovery](create-discovery-ci-classification.md), [process classifiers for applications](t_CreateAProcessClassification.md), and [classifiers based on IP address scans](t_ClassifForIPAddrScan.md).
 
-    Before you modify any classifiers, [review the parameters](../reference/classification-parameters.md) that are available for each type of classifier.
+    Before you modify any classifiers, [review the parameters](classification-parameters.md) that are available for each type of classifier.
 
--   If Windows machines are on your network, you can use the WinRM protocol, rather than WMI, for more efficient lightweight data transfer and remote command execution. By default, Discovery uses WMI. For instructions on the classifier modifications you can make to use WinRM, see [Use Windows Remote Management for classification](../../mid-server/task/t_EnableDeviceClassWinRemoteMgmt.md).
--   If you have Windows computers that are acting as servers and you want them to be classified by their function rather than by the operating system, you can make changes to the criteria of the Windows classifier. See [Reclassify a Windows Workstation machine as a server](../task/t_ReClassWinWorkstnAsSvr.md) for instructions.
+-   If Windows machines are on your network, you can use the WinRM protocol, rather than WMI, for more efficient lightweight data transfer and remote command execution. By default, Discovery uses WMI. For instructions on the classifier modifications you can make to use WinRM, see [Use Windows Remote Management for classification](t_EnableDeviceClassWinRemoteMgmt.md).
+-   If you have Windows computers that are acting as servers and you want them to be classified by their function rather than by the operating system, you can make changes to the criteria of the Windows classifier. See [Reclassify a Windows Workstation machine as a server](t_ReClassWinWorkstnAsSvr.md) for instructions.
 

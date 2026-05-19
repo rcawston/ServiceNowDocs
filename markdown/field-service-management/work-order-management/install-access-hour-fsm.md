@@ -21,7 +21,7 @@ You can activate the Field Service Management Access Hours Management plugin \(c
     -   **Required ServiceNow plugins**
         -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 
 Role required: admin.

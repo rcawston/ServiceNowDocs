@@ -21,7 +21,7 @@ Agents can use the Now Assist panel to interact with and get assistance from gen
 
 Conversational aspects of the Now Assist panel, such as skill detection, are powered by Now LLM Service.
 
-**Note:** Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md).
+**Note:** Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](now-assist-skills/now-assist-skills.md).
 
 Let's get started by selecting the Now Assist icon ![Now Assist sparkle icon](../../../common/image/icon-ai-sparkle.png) to display the Now Assist panel.![Now Assist panel icon.](../images/now-assist-panel-icon.png)
 
@@ -97,7 +97,7 @@ Voice Input
 
 </td><td>
 
-If Voice Input is activated, select the microphone icon or the keyboard shortcut to use your voice to interact with the Now Assist panel. After you speak, there’s a pause while the system transcribes the text and then displays it on the screen. See [Enable voice input for Now Assist panel](../../now-assist-admin/task/enable-voice-input-for-now-assist-panel.md) for information on enabling Voice Input. See [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md) for the Now Assist menu \(Voice Input mode\) shortcuts for Microsoft and macOS.
+If Voice Input is activated, select the microphone icon or the keyboard shortcut to use your voice to interact with the Now Assist panel. After you speak, there’s a pause while the system transcribes the text and then displays it on the screen. See [Enable voice input for Now Assist panel](enable-voice-input-for-now-assist-panel.md) for information on enabling Voice Input. See [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md) for the Now Assist menu \(Voice Input mode\) shortcuts for Microsoft and macOS.
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ You can generate a case or incident summarization from the Now Assist panel for 
 
 Get specific and accurate answers to your queries by using the Get Help skill option on the Now Assist panel. This skill is available to everyone entitled to Now Assist capabilities.
 
-For more information about the Now Assist Conversational Help skill which represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](../../now-assist-skills/concept/conversational-help-skills.md).
+For more information about the Now Assist Conversational Help skill which represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](now-assist-skills/conversational-help-skills.md).
 
 ## Resolution notes generation
 

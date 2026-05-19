@@ -41,7 +41,7 @@ You can also choose to navigate to the Checks list, and run a specific health ch
 
 4.  Select **Execute suite scan**.
 
-    For information on the scans available for the DevOps suite, see [DevOps Change Velocity suite health scan checks](../reference/devops-change-velocity-suite-health-scan-checks.md).
+    For information on the scans available for the DevOps suite, see [DevOps Change Velocity suite health scan checks](devops-change-velocity-suite-health-scan-checks.md).
 
 
 ## Result
@@ -53,5 +53,5 @@ A scan result reports the status and type of the scan. You can also see all the 
 **Related topics**  
 
 
-[DevOps Change Velocity suite health scan checks](../reference/devops-change-velocity-suite-health-scan-checks.md)
+[DevOps Change Velocity suite health scan checks](devops-change-velocity-suite-health-scan-checks.md)
 

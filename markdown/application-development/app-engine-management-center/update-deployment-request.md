@@ -32,5 +32,5 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Managing deployments using Pipelines and Deployments](../concept/manage-deployments-using-p-and-d-aemc.md)
+**Parent Topic:**[Managing deployments using Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md)
 

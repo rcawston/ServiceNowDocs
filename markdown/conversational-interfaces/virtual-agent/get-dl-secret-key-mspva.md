@@ -36,7 +36,7 @@ Role required: admin
     ![The Direct Line secret keys are listed in Web channel security. Click Copy to copy it to the clipboard.](../images/ms-pva-web-channel-security-secret.png)
 
 
-**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 
 **Previous topic:**[Create a JavaScript function in Microsoft Azure using Visual Studio Code](create-js-function-azure-mspv-sec-bot.md)
 

@@ -15,7 +15,7 @@ Test your ServiceNow apps.
 
 <table id="table_fck_nq2_2vb" class="nav-card"><tbody><tr><td>
 
-[Automated Test Framework ![Automated Test Framework.](../image/icon-atf.png) Create and run automated tests to confirm that your instance works after making a change.](../../../administer/auto-test-framework/concept/automated-test-framework.md)
+[Automated Test Framework ![Automated Test Framework.](../image/icon-atf.png) Create and run automated tests to confirm that your instance works after making a change.](automated-test-framework-atf/automated-test-framework.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Test your ServiceNow apps.
 
 </td></tr><tr><td>
 
-[NOW Command Line Interface \(CLI\) ![NOW Command Line Interface.](../image/icon-now-cli.png) Perform instance operations from your local system with a command-line interface.](../../servicenow-cli/concept/servicenow-cli.md)
+[NOW Command Line Interface \(CLI\) ![NOW Command Line Interface.](../image/icon-now-cli.png) Perform instance operations from your local system with a command-line interface.](servicenow-cli/servicenow-cli.md)
 
 </td><td>
 

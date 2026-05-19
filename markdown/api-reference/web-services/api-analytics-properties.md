@@ -78,5 +78,5 @@ When true, enables debug logging for API stats.-   Type: true \| false
 -   Location: Add to the System Properties \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analyze REST and SOAP API usage](../concept/c_APIAnalytics.md)
+</table>**Parent Topic:**[Analyze REST and SOAP API usage](c_APIAnalytics.md)
 

@@ -25,7 +25,7 @@ For example, if a user selects to browse only the IT knowledge base, then the [K
 
 If you associate your portal with only one knowledge base, then the KB Knowledge Bases widget remains hidden on the page.
 
-For more information on associating your portal with knowledge bases, see [Associate a portal with a knowledge base](../task/associate-portal-knowledge.md).
+For more information on associating your portal with knowledge bases, see [Associate a portal with a knowledge base](associate-portal-knowledge.md).
 
 ## Instance options
 
@@ -36,9 +36,9 @@ The KB Knowledge Bases widget doesn't include instance options.
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

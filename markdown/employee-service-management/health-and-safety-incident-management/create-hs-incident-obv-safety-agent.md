@@ -50,5 +50,5 @@ Based on the selected category, a safety incident or observation is created in t
 
 As a safety manager or agent, you can assign the incident or observation to yourself and start working on it. You can also assign it to another safety agent. For more information, see [Assign a safety incident or observation](assign-hs-incident-observation.md).
 
-**Parent Topic:**[Submitting safety incidents and observations](../concept/submitting-safety-incidents-obvs.md)
+**Parent Topic:**[Submitting safety incidents and observations](submitting-safety-incidents-obvs.md)
 

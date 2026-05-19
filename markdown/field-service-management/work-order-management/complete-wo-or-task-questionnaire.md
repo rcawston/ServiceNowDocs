@@ -57,5 +57,5 @@ Complete any remaining work and then close the task.
 **Related topics**  
 
 
-[Configuring survey-based work order questionnaires](../concept/work-order-questionnaire.md)
+[Configuring survey-based work order questionnaires](work-order-questionnaire.md)
 

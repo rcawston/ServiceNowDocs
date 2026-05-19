@@ -141,10 +141,10 @@ The following table shows the available actions in the Customer 360 page.
 
 |Name|Description|
 |----|-----------|
-|Ask Now Assist|Opens the Now Assist panel and initiates the Banking CSR customer insights AI agent. This agent uses the customer's profile and financial data to surface insights. See [Agentic Contact Center for Banking AI agents overview](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md) for more information.|
+|Ask Now Assist|Opens the Now Assist panel and initiates the Banking CSR customer insights AI agent. This agent uses the customer's profile and financial data to surface insights. See [Agentic Contact Center for Banking AI agents overview](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md) for more information.|
 |Create case|Opens the **Create new case** window to create a case for the customer.|
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 
 **Related topics**  
 

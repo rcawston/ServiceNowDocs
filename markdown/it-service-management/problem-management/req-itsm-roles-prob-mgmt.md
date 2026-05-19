@@ -75,10 +75,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[Components installed with ITSM Roles — Problem Management](../reference/prob-roles-instld-itsm-roles.md)**  
+-   **[Components installed with ITSM Roles — Problem Management](prob-roles-instld-itsm-roles.md)**  
 Several user roles are installed with activation of the ITSM Roles — Problem Management plugin \(com.snc.itsm.roles.problem\_management\).
 
-**Parent Topic:**[Problem Management plugins](../concept/problem-mgmt-plugins.md)
+**Parent Topic:**[Problem Management plugins](problem-mgmt-plugins.md)
 
 **Related topics**  
 

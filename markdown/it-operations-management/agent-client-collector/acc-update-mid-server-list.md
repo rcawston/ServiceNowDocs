@@ -42,5 +42,5 @@ Role required: agent\_client\_collector\_admin
     3.  Click **Update** to update the job frequency.
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](acc-configuring-with-mid.md)
 

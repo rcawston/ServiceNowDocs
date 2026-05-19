@@ -28,7 +28,7 @@ In catalog builder, when the user selects the required item and navigates to pre
 -   If the item is not supported in the conversation mode, a link is provided for the portal preview of the item.
 -   When the required plugins are not installed, an illustration displaying a sample conversational experience for the catalog item submission appears.
 
-**Parent Topic:**[Create a catalog item using a template](../task/create-item-cat-builder.md)
+**Parent Topic:**[Create a catalog item using a template](create-item-cat-builder.md)
 
 **Related topics**  
 

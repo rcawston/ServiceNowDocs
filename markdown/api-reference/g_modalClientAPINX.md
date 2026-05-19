@@ -25,7 +25,7 @@ Using this API you can:
 -   Load a component.
 -   Use HTML to populate the contents of a modal.
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## g\_modal \(Next Experience\) - alert\(String title, String message, Function callback, style Object\)
 

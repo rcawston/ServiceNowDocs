@@ -51,5 +51,5 @@ When a compliance case action task moves from **Draft** to **Assigned** state, a
 
 After the assessment is submitted, the state of the assessment gets updated to **Review** and the status of the assessment is set to **Completed**. A compliance case analyst reviews the assessment and updates the state of the assessment to **Closed Complete**.
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

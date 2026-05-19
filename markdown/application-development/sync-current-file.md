@@ -55,5 +55,5 @@ Role required: admin
     The changes are successfully synchronized upon the next synchronization. When the changes are merged successfully, the message **Sync completed successfully** appears at the bottom of the page.
 
 
-**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](../concept/vscode-sync.md)
+**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](vscode-sync.md)
 

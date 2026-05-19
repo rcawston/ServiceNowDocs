@@ -18,7 +18,7 @@ By using Coaching in Workforce Optimization for Customer Service, you can assess
 With Coaching, you can do the following:
 
 -   Recommend training for your agents to address skill gaps.
--   Use the coaching opportunities that are available by [default](../reference/components-installed-configurable-wfo-cs.md) to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
+-   Use the coaching opportunities that are available by [default](components-installed-configurable-wfo-cs.md) to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
 -   Use assessments and surveys to apply consistent, measurable scores across teams.
 -   Use Predictive Intelligence to recommend skills for your agents and provide training to address those skill gaps.
 
@@ -38,7 +38,7 @@ Access Skills Overview from the Teams application:
 
 You can access the Skills Overview page when you click on a skill in a user profile page in any Workforce Optimization for Customer Service application.
 
-**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [Activate Workforce Optimization for Customer Service](request-configurable-wfo-cs.md).
 
 ![Skill overview page displaying a skill assigned to tasks, agents, on-call experts, and a pie chart of skill coverage experience level dispersal.](../image/skills-overview-new.png)
 
@@ -142,7 +142,7 @@ Displays the percentage as well as the number of users with different levels of 
 </td></tr></tbody>
 </table>### Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](request-configurable-wfo-cs.md).
 
 |Title|Type|Source table|Description|
 |-----|----|------------|-----------|
@@ -388,7 +388,7 @@ The skill gets automatically added to the agent.
 
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content in catalogs. Assign learning tasks and track completion.
 
-**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](request-configurable-wfo-cs.md).
 
 ### Create a learning catalog
 
@@ -441,7 +441,7 @@ Role required: sn\_lc.task\_creator
 
 #### About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Customer Service Reference](../reference/components-installed-configurable-wfo-cs.md).
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Customer Service Reference](components-installed-configurable-wfo-cs.md).
 
 #### Procedure
 

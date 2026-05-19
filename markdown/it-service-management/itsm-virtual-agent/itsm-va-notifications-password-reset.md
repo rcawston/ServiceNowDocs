@@ -15,7 +15,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 Use Virtual Agent to notify employees when their password is about to expire.
 
-You must activate this notification in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+You must activate this notification in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](setup-actionable-notifications.md).
 
 ## Password Expiration Reminder
 
@@ -23,5 +23,5 @@ Virtual Agent notifies the user when their password is about to expire. Users ca
 
 For more information about configuring password expiration, see [Configure password expiration reminder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-expiration-setup.md).
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](../concept/itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)
 

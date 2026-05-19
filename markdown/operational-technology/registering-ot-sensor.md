@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Verify you [Install the Discovery Sensor for OT](install-discovery-sensor-for-ot.md) before registering your Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [Device Management Interface](../concept/dmi.md). Registering the Sensor confirms it can communicate with the Console.
+Verify you [Install the Discovery Sensor for OT](install-discovery-sensor-for-ot.md) before registering your Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [Device Management Interface](dmi.md). Registering the Sensor confirms it can communicate with the Console.
 
 ## Procedure
 

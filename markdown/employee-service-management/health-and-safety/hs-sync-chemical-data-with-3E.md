@@ -45,5 +45,5 @@ The **Service provider requests** related list of the chemical record, displays 
 -   Depending on the request, the data from 3E can be instantly available or it can take up to 30 days to obtain. When the data is available, the service provider request will be marked as **Complete** by 3E. Once the request is completed by 3E service provider, the fields in the record are automatically updated.
 -   If there are any error or status message from 3E system \(for example, for synchronization issues\), the error message is added to the activity stream of the service provider request. If 3E service provider cannot locate the chemical data or metadata, the 3E staff manually intervenes and send messages that appear in the activity stream.
 
-**Parent Topic:**[3E Protect](../../hs-integration-third-party/concept/hs-3e-protect.md)
+**Parent Topic:**[3E Protect](hs-3e-protect.md)
 

@@ -38,5 +38,5 @@ To refresh the cache manually for a specific counter:
     ![SAM rebuild cache](../image/SAMRebuildCache.png "SAM rebuild cache")
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

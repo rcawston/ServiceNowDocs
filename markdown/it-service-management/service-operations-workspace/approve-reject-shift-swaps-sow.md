@@ -33,8 +33,8 @@ Role required: sn\_shift\_planning.agent
 
     -   To approve the request, click **Approve**.
     -   To reject the request, click **Reject**.
-    If you approve a shift-swap, the application moves the request to your manager's approval queue. For more information, go to [Track and manage your teams' schedule](../../configurable-workforce-optimization-itsm/task/approve-time-off-shift-swaps-wfo-itsm.md).
+    If you approve a shift-swap, the application moves the request to your manager's approval queue. For more information, go to [Track and manage your teams' schedule](../workforce-optimization-for-it-service-management/approve-time-off-shift-swaps-wfo-itsm.md).
 
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](itsm-sow-workspace-scheduling.md)
 

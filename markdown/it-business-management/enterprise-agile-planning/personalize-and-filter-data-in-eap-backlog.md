@@ -56,5 +56,5 @@ Role required: sn\_apw\_advanced.eap\_user
     ![Group items on ART Backlog by team or planning interval.](../images/eap-backlog-art-personalize.png)
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

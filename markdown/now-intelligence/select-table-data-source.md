@@ -15,7 +15,7 @@ Select a table whose records you want to display. Filter by predefined or custom
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -27,7 +27,7 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 1.  Start to create a data visualization, or open an existing visualization for editing.
 
-    For more information, see [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md).
+    For more information, see [Creating data visualizations](creating-data-visualizations.md).
 
 2.  Choose one of the following:
 
@@ -42,7 +42,7 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 4.  Select a predefined filter.
 
-    Predefined filters are defined on the Report Sources \[sys\_report\_source\] table. For more information, see [Report sources](../../reporting/concept/c_ReportSources.md#).
+    Predefined filters are defined on the Report Sources \[sys\_report\_source\] table. For more information, see [Report sources](reporting/c_ReportSources.md#).
 
 5.  Select **+Add custom conditions** and build a filter in the ServiceNow AI Platform Condition builder.
 
@@ -63,7 +63,7 @@ This procedure assumes you're in the process of creating or editing a data visua
     You return to the data visualization editor. In the configuration panel, you can add Group by fields and set other data properties, depending on the visualization type.
 
 
-**Parent Topic:**[Selecting data sources for data visualizations](../concept/selecting-data-sources.md)
+**Parent Topic:**[Selecting data sources for data visualizations](selecting-data-sources.md)
 
 **Related topics**  
 
@@ -72,7 +72,7 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 [Select a Workflow Data Fabric data source for a data visualization](select-wdf-data-source.md)
 
-[Usage Insights data sources for data visualizations](../concept/uxa-data-sources.md)
+[Usage Insights data sources for data visualizations](uxa-data-sources.md)
 
-[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)
+[Multiple data sources](multiple-data-sources.md#)
 

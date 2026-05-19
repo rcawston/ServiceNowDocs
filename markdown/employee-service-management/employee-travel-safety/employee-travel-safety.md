@@ -23,11 +23,11 @@ When an employee's travel request is approved, monitor their health status using
 
 Employee Travel Safety is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
--   With the [Employee Readiness Surveys](../../business-continuity/concept/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
--   Before users re-enter workspaces, use the [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
--   With the [Explore Workplace Core](../../workplace-service-delivery/concept/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
--   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../../ppe-inventory-management/concept/ppe-inventory-management.md) application.
--   With the [Contact Tracing](../../contact-tracing/concept/contact-tracing.md) application, evaluate the readiness of your users to return to the workplace by using data such as badge scans, Wi-Fi access logs, and daily contact logs to help identify potential user interactions.
+-   With the [Employee Readiness Surveys](../safe-workplace/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
+-   Before users re-enter workspaces, use the [Employee Health Screening](../safe-workplace/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
+-   With the [Explore Workplace Core](../workplace-core/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
+-   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../safe-workplace/ppe-inventory-management.md) application.
+-   With the [Contact Tracing](../contact-tracing/contact-tracing.md) application, evaluate the readiness of your users to return to the workplace by using data such as badge scans, Wi-Fi access logs, and daily contact logs to help identify potential user interactions.
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -90,16 +90,16 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Install Employee Travel Safety](../task/install-employee-travel.md#)**  
+-   **[Install Employee Travel Safety](install-employee-travel.md#)**  
 You can install Employee Travel Safety if you have the admin role.
--   **[Configure Employee Travel Safety](../task/configure-employee-travel.md#)**  
+-   **[Configure Employee Travel Safety](configure-employee-travel.md#)**  
 Complete all configuration tasks to ensure that travel notifications and approvals are set up correctly for your company.
 -   **[Request permission to travel](ets-request-travel.md#)**  
 Before booking travel in a travel management system, request permission for your trip. Your manager or a travel approver can approve or reject your request based on infectious diseases, such as COVID-19 case data and a site safety evaluation for your destination.
 -   **[Manage a travel request](ets-work-travel-request.md#)**  
 As a manager or travel approver, you can approve or reject travel requests.
--   **[Cancel a travel request](../task/cancel-travel-request.md)**  
+-   **[Cancel a travel request](cancel-travel-request.md)**  
 Cancel a travel request when appropriate, such as when a meeting can be held virtually. You, your manager, or a user with the sn\_imt\_travel.approver role can cancel a travel request.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](../safe-workplace/safe-workplace.md)
 

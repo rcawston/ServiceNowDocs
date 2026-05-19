@@ -22,7 +22,7 @@ Work items from all ServiceNow applications assigned to you’re displayed in My
 **Note:**
 
 -   Any task record created in a table that doesn’t extend the Task \[task\] table, such as VTask, won't show up in My Work.
--   If you’re added as **Additional assignee** to a task, work with your admin to enable the display of such tasks in My Work. See [Properties installed with CWM](../reference/properties-installed-with-cwm.md).
+-   If you’re added as **Additional assignee** to a task, work with your admin to enable the display of such tasks in My Work. See [Properties installed with CWM](properties-installed-with-cwm.md).
 
 ![My Work filters in CWM.](../images/cwm-my-work.png "Overview tab of My Work")
 
@@ -112,7 +112,7 @@ Task by State
 
 </td><td>
 
-Bar chart that groups all work items assigned to you by their current state. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by state, see [Grouping of tasks in status reports of CWM My Work](../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
+Bar chart that groups all work items assigned to you by their current state. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by state, see [Grouping of tasks in status reports of CWM My Work](grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Task by Priority
 
 </td><td>
 
-Bar chart that groups all work items assigned to you by their priority. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by priority, see [Grouping of tasks in status reports of CWM My Work](../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
+Bar chart that groups all work items assigned to you by their priority. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by priority, see [Grouping of tasks in status reports of CWM My Work](grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
 
 </td></tr></tbody>
 </table>![List view of work items from My Work.](../images/cwm-my-work-list-view.png "List tab of My Work")

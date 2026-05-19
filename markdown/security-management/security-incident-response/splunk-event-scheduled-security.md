@@ -19,11 +19,11 @@ The following table shows the list of tasks you need to follow to set up a profi
 
 |Task|Section|
 |----|-------|
-|Create an event profile|See [Create a profile](../task/splunk-event-create-profile-sched-security.md)|
-|Select notable events based on correlation search name|See [Set Correlation rules](../task/splunk-event-ingest-alert-selection-security.md)|
+|Create an event profile|See [Create a profile](splunk-event-create-profile-sched-security.md)|
+|Select notable events based on correlation search name|See [Set Correlation rules](splunk-event-ingest-alert-selection-security.md)|
 |Map notable event fields|See [Explore Mapping](splunk-event-ingest_mapping-security.md)|
-|Create custom mappings|See [Map notable events](../task/splunk-event-ingest-map-alerts-security.md)|
-|Preview the security incident|See [Preview security incident](../task/splunk-event-ingest-preview-security.md)|
-|Schedule and retrieve new and updated notable events|See [Schedule and retrieve notable events](../task/splunk-event-ingest-schedule-security.md)|
-|Automate notable event updates and closure based on SIR incident status|See [Automate notable event updates and closures](../task/splunk-additional-security.md)|
+|Create custom mappings|See [Map notable events](splunk-event-ingest-map-alerts-security.md)|
+|Preview the security incident|See [Preview security incident](splunk-event-ingest-preview-security.md)|
+|Schedule and retrieve new and updated notable events|See [Schedule and retrieve notable events](splunk-event-ingest-schedule-security.md)|
+|Automate notable event updates and closure based on SIR incident status|See [Automate notable event updates and closures](splunk-additional-security.md)|
 

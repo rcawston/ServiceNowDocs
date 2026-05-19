@@ -26,5 +26,5 @@ This is an overview of domain separation and Live Feed. Domain separation enable
 -   **[Components installed with Live Feed](r_InstalledWithLiveFeed.md)**  
 Several types of components are installed with Live Feed.
 
-**Parent Topic:**[Manage people and work capabilities](../../../administer/general/concept/manage-people.md)
+**Parent Topic:**[Manage people and work capabilities](../manage-people.md)
 

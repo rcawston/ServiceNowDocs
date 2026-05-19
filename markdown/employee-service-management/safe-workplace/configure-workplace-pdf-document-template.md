@@ -21,7 +21,7 @@ Role required: sn\_wsd\_core.admin
 
 ## About this task
 
-When a workplace manager signs a completed task, an e-signature PDF document is generated using a signing template and is attached to the task. For information about signing a workplace task, see [Sign a completed workplace task](../../workplace-service-delivery/task/sign-completed-task-wsd.md).
+When a workplace manager signs a completed task, an e-signature PDF document is generated using a signing template and is attached to the task. For information about signing a workplace task, see [Sign a completed workplace task](../workplace-core/sign-completed-task-wsd.md).
 
 ## Procedure
 

@@ -29,5 +29,5 @@ Available as a Workflow Studio ServiceNow core action. Users with the flow\_desi
 |Target Record|Drag a Record data pill from the data panel to attach the **Source Attachment Record** to.|
 |Table|Automatically populates with the **Source Record** table.|
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

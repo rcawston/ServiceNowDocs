@@ -21,5 +21,5 @@ Descriptions of the possible statues for impacted people.
 |Accounted|Impacted person is traced and confirmed safe.|
 |Need Help|Impacted person is traced and needs medical attention or other assistance.|
 
-**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+**Parent Topic:**[Critical Event Management reference](critical-event-management-reference.md)
 

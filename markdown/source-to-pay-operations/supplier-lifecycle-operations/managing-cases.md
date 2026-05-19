@@ -17,7 +17,7 @@ You can create and manage supplier cases for suppliers in the Source-to-Pay Work
 
 On the Source-to-Pay Workspace List page, navigate to **Lists** &gt; **Cases** and select any of the sub-modules to view a list of cases. Select the link to the case in the Number column to open the Case Details page.
 
-For more information about viewing cases in the Source-to-Pay Workspace, see [View a supplier case from the Source-to-Pay Workspace](../task/view-supp-case-ws.md).
+For more information about viewing cases in the Source-to-Pay Workspace, see [View a supplier case from the Source-to-Pay Workspace](view-supp-case-ws.md).
 
 The Case Details page contains the following options.
 
@@ -121,23 +121,23 @@ For more information about risk ratings and risk scores, see [Set up risk rating
 The **Supplier Information** tab shows details about the supplier and the supplier contact, a summary of all the open and overdue cases, and a list of all the cases by their priority.
 -   **[Sidebar for supplier cases in the Source-to-Pay Workspace](sidebar-smw.md)**  
 Sidebar enables stakeholders to collaborate with others by getting into discussions when working on supplier cases.
--   **[Configure due dates for supplier cases](../task/configure-case-due-date.md)**  
+-   **[Configure due dates for supplier cases](configure-case-due-date.md)**  
 Configure due dates for different case types so that the **Due date** field is auto-populated when you create supplier cases.
 -   **[Case playbook for specific supplier case types](gen-playbook-cases.md)**  
 Source-to-Pay Workspace includes a generic case playbook to complete supplier cases of specific case types.
--   **[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)**  
+-   **[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)**  
 Create a supplier case to track the progress of supplier tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
--   **[Assign a supplier case to yourself from the Source-to-Pay Workspace](../task/assign-supp-case.md)**  
+-   **[Assign a supplier case to yourself from the Source-to-Pay Workspace](assign-supp-case.md)**  
 As a supplier manager, assign a case to yourself and start working on it.
--   **[Submit a supplier case from the Source-to-Pay Workspace](../task/submit-supplier-case.md)**  
+-   **[Submit a supplier case from the Source-to-Pay Workspace](submit-supplier-case.md)**  
 Submit a supplier case in Draft state to indicate that it is ready to be worked on.
--   **[Complete a supplier case from the Source-to-Pay Workspace](../task/complete-supplier-case.md)**  
+-   **[Complete a supplier case from the Source-to-Pay Workspace](complete-supplier-case.md)**  
 You can mark a supplier case as complete when you finish all the tasks related to that case.
--   **[Reopen a supplier case from the Source-to-Pay Workspace](../task/reopen-supplier-case.md)**  
+-   **[Reopen a supplier case from the Source-to-Pay Workspace](reopen-supplier-case.md)**  
 Reopen a closed supplier case if you are not satisfied with the case resolution.
--   **[Add a related case to a supplier case from the Source-to-Pay Workspace](../task/add-related-case.md)**  
+-   **[Add a related case to a supplier case from the Source-to-Pay Workspace](add-related-case.md)**  
 If a supplier case has related cases, you can add them to that supplier case from the Source-to-Pay Workspace.
--   **[View a supplier case from the Source-to-Pay Workspace](../task/view-supp-case-ws.md)**  
+-   **[View a supplier case from the Source-to-Pay Workspace](view-supp-case-ws.md)**  
 As a supplier manager, view a supplier case that requires your input or approval.
 
 **Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
@@ -145,7 +145,7 @@ As a supplier manager, view a supplier case that requires your input or approval
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage supplier details](supp-ws-details-page.md)
 
@@ -155,9 +155,9 @@ As a supplier manager, view a supplier case that requires your input or approval
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
@@ -165,15 +165,15 @@ As a supplier manager, view a supplier case that requires your input or approval
 
 [Overall supplier dashboard](overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
-[Configure due dates for supplier cases](../task/configure-case-due-date.md)
+[Configure due dates for supplier cases](configure-case-due-date.md)
 
 [Case playbook for specific supplier case types](gen-playbook-cases.md)
 
 [Playbook for updating the supplier primary data](primary-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
 

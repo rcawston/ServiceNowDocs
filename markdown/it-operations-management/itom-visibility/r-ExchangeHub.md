@@ -37,5 +37,5 @@ Discovery populates the data in the CMDB when running the Hub Transport Server O
 
 The Hub Transport Server On Windows pattern doesn't discover any relationships.
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

@@ -46,5 +46,5 @@ Identity probes return such information as device serial numbers \(there can be 
 
 [Configure Discovery identity sensors](t_ConfigDiscoIdentSens.md) that are part of the identify probes.
 
-**Parent Topic:**[Discovery identifiers](../concept/c_DiscoveryIdentifiers.md)
+**Parent Topic:**[Discovery identifiers](c_DiscoveryIdentifiers.md)
 

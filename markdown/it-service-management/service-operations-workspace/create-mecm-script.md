@@ -60,5 +60,5 @@ Role required: admin
         ![Run command for script GUID](../image/script-guid-command.png)
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)
 

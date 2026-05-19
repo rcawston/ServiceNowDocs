@@ -136,7 +136,7 @@ Skip reprompting
 
 </td><td>
 
-No-code condition statement or low-code script that specifies a condition for letting users skip reprompting in the conversation. When a preceding node is revisited through a topic loopback or [Dialog Act](../concept/c_dialog-acts.md), the Virtual Agent bypasses this node and automatically retain its original value.
+No-code condition statement or low-code script that specifies a condition for letting users skip reprompting in the conversation. When a preceding node is revisited through a topic loopback or [Dialog Act](c_dialog-acts.md), the Virtual Agent bypasses this node and automatically retain its original value.
 
 </td></tr></tbody>
 </table>## Example Secure Text user input control

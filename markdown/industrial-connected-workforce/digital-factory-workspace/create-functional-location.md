@@ -29,7 +29,7 @@ Role required: sn\_icw.admin
 
 4.  On the Functional location form, fill in the fields.
 
-    For a description of the field values, see [Functional location form](../reference/functional-location-form.md).
+    For a description of the field values, see [Functional location form](functional-location-form.md).
 
 5.  Select **Save**.
 
@@ -42,7 +42,7 @@ Role required: sn\_icw.admin
 
 The functional location is displayed in the list of functional locations for the parent functional location.
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](setting-up-prerequisites-digital-factory-workspace.md)
 
 **Related topics**  
 

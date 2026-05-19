@@ -15,7 +15,7 @@ breadcrumb: [Using Planning console - Legacy, Using Project Management, Project 
 
 In addition to the regular columns that are provided in the base system, as the PPS admin, you can configure which columns appear in the planning console.
 
-You can define the columns that are available in the [project planning console](c_TheProjectPlanningConsole.md), [program workbench](../../program-management/concept/c_ProgramWorkbench.md), planning and tracking views in portfolio workbench, and the release management Gantt chart. From this list of defined columns, you can select the columns that you want to view in these planning console UIs at any time.
+You can define the columns that are available in the [project planning console](c_TheProjectPlanningConsole.md), [program workbench](../program-management/c_ProgramWorkbench.md), planning and tracking views in portfolio workbench, and the release management Gantt chart. From this list of defined columns, you can select the columns that you want to view in these planning console UIs at any time.
 
 These tables are used for custom column configuration:
 
@@ -32,7 +32,7 @@ These tables are used for custom column configuration:
 
 -   **Planning Console Column \[pm\_console\_columnn\]**: Maintains the columns that should be pulled from each table and the mapping of the column in `pm_console_display_column`.
 
--   **[Add a custom column to the planning console](../task/add-display-column.md)**  
+-   **[Add a custom column to the planning console](add-display-column.md)**  
 Define the columns that you want to make available in the project planning console, portfolio workbench, program workbench, and the release management Gantt chart.
 
 **Parent Topic:**[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
@@ -40,19 +40,19 @@ Define the columns that you want to make available in the project planning conso
 **Related topics**  
 
 
-[Open the project planning console](../task/t_OpenPlanningConsole.md)
+[Open the project planning console](t_OpenPlanningConsole.md)
 
-[Planning console tasks](../reference/r_PlanningConsoleTasks.md)
+[Planning console tasks](r_PlanningConsoleTasks.md)
 
 [Client side planning console](client-side-planning-console.md)
 
 [Gantt chart](c_GanttChart.md)
 
-[Create a parent-child relationship on the planning console](../task/t_CreateParentChildRelatConsole.md)
+[Create a parent-child relationship on the planning console](t_CreateParentChildRelatConsole.md)
 
-[Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md)
+[Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md)
 
-[Create a dependency from the planning console](../task/t_CreateADependency.md)
+[Create a dependency from the planning console](t_CreateADependency.md)
 
 [Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 

@@ -17,7 +17,7 @@ You can assign skills to HR users to facilitate the auto-assignment of HR cases 
 
 ## Before you begin
 
-For more information about HR skills and the auto-assignment process, see [HR skills management](../concept/c_HRSkillsManagement.md).
+For more information about HR skills and the auto-assignment process, see [HR skills management](c_HRSkillsManagement.md).
 
 Role required: sn\_hr\_core.manager
 
@@ -68,5 +68,5 @@ The following procedure describes how to assign HR skills in the Manage HR Skill
     |**Edit a skill**|Click the pencil icon beside the skill name in the **HR Skills** list. Change the information and click **Submit**.|
 
 
-**Parent Topic:**[HR skills management](../concept/c_HRSkillsManagement.md)
+**Parent Topic:**[HR skills management](c_HRSkillsManagement.md)
 

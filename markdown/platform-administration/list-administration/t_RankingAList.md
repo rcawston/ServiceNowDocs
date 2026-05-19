@@ -41,5 +41,5 @@ You can set the preferential order of records.
 -   **[Apply a new sort order to a list](t_ApplyANewSortOrderToAList.md)**  
 You can apply a new sort order to the records in a list.
 
-**Parent Topic:**[Context ranking](../reference/r_ContextRanking.md)
+**Parent Topic:**[Context ranking](r_ContextRanking.md)
 

@@ -19,9 +19,9 @@ When a record is inserted or updated on a specific task table and the notificati
 
 Administrators and users with the live\_feed\_admin or chat\_admin roles can set up table notifications for any table in an instance.
 
--   **[Set up table notifications for task tables](../task/t_SetUpATableNotifForATaskTable.md)**  
+-   **[Set up table notifications for task tables](t_SetUpATableNotifForATaskTable.md)**  
 You can set up a table notification for a task table to enable automatic Live Feed messages.
--   **[Set up table notifications for non-task tables](../task/t_SetUpTableNotifNonTaskTables.md)**  
+-   **[Set up table notifications for non-task tables](t_SetUpTableNotifNonTaskTables.md)**  
 Table notifications are supported for all task tables by default, and you can set up a table notification for any other table.
 -   **[Live Feed table notification examples](c_LFTableNotifiExamples.md)**  
 The following examples demonstrate how to set up different types of table notifications that are useful for Live Feed.
@@ -35,7 +35,7 @@ The following examples demonstrate how to set up different types of table notifi
 
 [Record feeds](c_RecordFeeds.md)
 
-[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)
+[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
 
-[Provide access to Live Feed from CMS pages](../task/t_AccessLiveFeedFromCMSPages.md)
+[Provide access to Live Feed from CMS pages](t_AccessLiveFeedFromCMSPages.md)
 

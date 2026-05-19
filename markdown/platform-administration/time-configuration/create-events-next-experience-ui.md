@@ -69,5 +69,5 @@ A calendar view displays events for a specified time period. A time line view di
             **Note:** If the **Timezone** field value is **Floating**, then the calendar uses the start and end dates from the time zone of the logged-in user.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

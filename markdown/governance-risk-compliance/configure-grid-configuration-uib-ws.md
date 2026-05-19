@@ -25,13 +25,13 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Grid configuration record form](../reference/grid-configuration-record-form.md).
+    For more information, see [Grid configuration record form](grid-configuration-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Grid configuration record form](../reference/grid-configuration-record-form.md)**  
+-   **[Grid configuration record form](grid-configuration-record-form.md)**  
 Use the Grid configuration record form to set up the BIA assessment grid in the classic Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

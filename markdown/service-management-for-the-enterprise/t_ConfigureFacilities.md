@@ -19,7 +19,7 @@ Role required: facilities\_admin
 
 ## About this task
 
-Facilities Service Management defaults to the request-driven processing method for handling tasks. For information about both processing methods, see [Task vs. request driven processing](../../planning-and-policy/concept/c_TaskVsRequestDrivenProcessing.md).
+Facilities Service Management defaults to the request-driven processing method for handling tasks. For information about both processing methods, see [Task vs. request driven processing](c_TaskVsRequestDrivenProcessing.md).
 
 ## Procedure
 
@@ -62,7 +62,7 @@ Enable state flows
 
 </td><td>
 
-Enable state flows consistent with all [service management applications](../../it-services/concept/c_ServiceManagement.md). If you prefer to create your own state flows using business rules, client scripts, and UI actions, disable the option. A confirmation box displays and includes a link to a help article that describes the implications of disabling state flows. It is highly recommended that you read the article before proceeding.
+Enable state flows consistent with all [service management applications](c_ServiceManagement.md). If you prefer to create your own state flows using business rules, client scripts, and UI actions, disable the option. A confirmation box displays and includes a link to a help article that describes the implications of disabling state flows. It is highly recommended that you read the article before proceeding.
 
  If you disable state flows and save, this configuration option is removed from the screen and state flows cannot be re-enabled from the user interface.
 
@@ -328,7 +328,7 @@ This option determines the degree to which skills must be matched to a task when
     **Warning:** When the **Enable state flows** option is disabled, a confirmation box with a link to documentation appears, explaining the consequences of disabling state flows. It is highly recommended that you read the documentation before making this change, as the action of disabling service management state flows cannot be reversed.
 
 
--   **[Task vs. request driven processing](../../planning-and-policy/concept/c_TaskVsRequestDrivenProcessing.md)**  
+-   **[Task vs. request driven processing](c_TaskVsRequestDrivenProcessing.md)**  
 All applications use either task-driven or request-driven processes for handling tasks.
 
 **Parent Topic:**[Activate Facilities Service Management](t_ActivateFacilitiesSM.md)

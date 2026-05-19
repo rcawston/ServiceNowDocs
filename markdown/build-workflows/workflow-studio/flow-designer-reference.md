@@ -31,8 +31,8 @@ Flows
 
 -   [Types of flows and when to use them](when-to-use-flow-types.md)
 -   [Workflow Studio flow trigger types](flow-triggers.md)
--   [Workflow Studio actions](../concept/flow-actions.md)
--   [Workflow Studio flow logic](../concept/flow-logic.md)
+-   [Workflow Studio actions](flow-actions.md)
+-   [Workflow Studio flow logic](flow-logic.md)
 -   [User preferences for flows](flow-preferences.md)
 
 </td></tr><tr><td>
@@ -42,8 +42,8 @@ Subflows
 </td><td>
 
 -   [Types of flows and when to use them](when-to-use-flow-types.md)
--   [Workflow Studio actions](../concept/flow-actions.md)
--   [Workflow Studio flow logic](../concept/flow-logic.md)
+-   [Workflow Studio actions](flow-actions.md)
+-   [Workflow Studio flow logic](flow-logic.md)
 -   [User preferences for flows](flow-preferences.md)
 
 </td></tr><tr><td>
@@ -53,7 +53,7 @@ Actions
 </td><td>
 
 -   [Workflow Studio input and output data variables](action-inputs-outputs.md)
--   [Workflow Studio steps](../concept/steps.md)
+-   [Workflow Studio steps](steps.md)
 -   [Supported Service Catalog variable types](supported-service-catalog-types.md)
 
 </td></tr><tr><td>
@@ -63,18 +63,18 @@ All
 </td><td>
 
 -   [General guidelines for Workflow Studio flows, subflows, and actions](design-considerations-consolidated.md)
--   [Transform functions](../concept/transform-functions.md)
--   [Workflow Studio flow integrations](../concept/flow-designer-integrations.md)
+-   [Transform functions](transform-functions.md)
+-   [Workflow Studio flow integrations](flow-designer-integrations.md)
 -   [Workflow Studio flow system properties](flow-designer-system-properties.md)
 
 </td></tr></tbody>
 </table>-   **[General guidelines for Workflow Studio flows, subflows, and actions](design-considerations-consolidated.md)**  
 Create, run, troubleshoot, and monitor your Workflow Studio components more effectively. Use these guidelines to optimize the performance of your Workflow Studio components.
--   **[Workflow Studio actions](../concept/flow-actions.md)**  
+-   **[Workflow Studio actions](flow-actions.md)**  
 Actions can be added to any flow, enabling process analysts to automate ServiceNow AI Platform features without having to write code.
--   **[Workflow Studio flow logic](../concept/flow-logic.md)**  
+-   **[Workflow Studio flow logic](flow-logic.md)**  
 Enable flows and subflows to specify conditional or repeated actions. Combine the elements of flow logic to create workflows in a graphical interface with little or no scripting.
--   **[Workflow Studio flow integrations](../concept/flow-designer-integrations.md)**  
+-   **[Workflow Studio flow integrations](flow-designer-integrations.md)**  
 Expand the capabilities of Workflow Studio flows with additional subscriptions and spokes.
 -   **[Workflow Studio flow system properties](flow-designer-system-properties.md)**  
 Configure how the system processes flows.
@@ -82,7 +82,7 @@ Configure how the system processes flows.
 Each trigger type defines when a flow starts and the starting data available to it. There are triggers for record operations, dates, and application operations.​
 -   **[Workflow Studio input and output data variables](action-inputs-outputs.md)**  
 Actions and subflows use variables to store input and output data. The variable data type determines what kind of data it stores and its advanced configuration options.
--   **[Workflow Studio steps](../concept/steps.md)**  
+-   **[Workflow Studio steps](steps.md)**  
 A step performs a single operation in an action. You can use Workflow Studio to add steps to a custom action.
 -   **[User preferences for flows](flow-preferences.md)**  
 Enable or disable user preferences for flow to change options available to Workflow Studio.
@@ -92,10 +92,10 @@ Provide personnel with one or more user roles to grant them access to conversati
 Conversational subflows and actions support a limited number of input data types. To be compatible with conversational interfaces, an action or a subflow must only include inputs that use supported data types.
 -   **[Supported Service Catalog variable types](supported-service-catalog-types.md)**  
 Workflow Studio supports several Service Catalog variable types for both single-row and multi-row variable sets.
--   **[Transform functions](../concept/transform-functions.md)**  
+-   **[Transform functions](transform-functions.md)**  
 Transform data pill values without the need to write a script. Use transform functions to reformat text, perform mathematical calculations, sanitize potentially unsafe SQL statements, and serialize complex objects to raw XML.
 -   **[Types of flows and when to use them](when-to-use-flow-types.md)**  
 A decision matrix and basic definitions help you determine what type of flows to create.
 
-**Parent Topic:**[Workflow Studio flows, subflows, and actions](../../workflow-studio/reference/workflow-studio-flows-subflows-and-actions-landing.md)
+**Parent Topic:**[Workflow Studio flows, subflows, and actions](workflow-studio-flows-subflows-and-actions-landing.md)
 

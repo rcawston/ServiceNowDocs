@@ -37,7 +37,7 @@ The App Anomaly Detection Rule \[com.sn\_anomaly\_detect\] y framework is used t
 
 Use case 1: Dealer submits repair claim with image.
 
-To submit the report in the Dealer portal, see [Submit a repair claim for warranty](../../mftg-manufacturing/task/mco-submit-repair-claim.md).
+To submit the report in the Dealer portal, see [Submit a repair claim for warranty](mco-submit-repair-claim.md).
 
 The repair claim appears in the Agents portal with Reject status.
 

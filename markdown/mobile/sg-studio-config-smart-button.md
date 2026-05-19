@@ -184,7 +184,7 @@ Button attributes
 \(Optional\) Specifies an additional attribute for your smart button. Select **New** to create one of the following button attributes:
 
  -   **alerts\_require\_dismissal**: When set to `true`, this button attribute enables the banner messages to persist until the user dismisses it. By default, banner messages are automatically dismissed.
--   **used\_for\_deeplink**: When set to `true`, this button attribute specifies that the button is used for deep linking. For more information, see [Deep linking for mobile](../concept/deep-link-mobile.md).
+-   **used\_for\_deeplink**: When set to `true`, this button attribute specifies that the button is used for deep linking. For more information, see [Deep linking for mobile](deep-link-mobile.md).
 -   **trigger\_offline\_cache\_download**: When set to `true`, this button attribute triggers offline cache generation. After the cache is successfully generated, a download of it is triggered.
 -   **check\_acl\_on\_url\_parameter\_field**: When set to `true`, any field in the URL string, is checked against the ACL \(access control list\). For example, a string like `{{meeting_id}}`. If a field does not pass this check, the field value is not included in the URL. By default, the URL parameter field is not checked against the ACL for backward compatibility.
 -   **hidden\_attachment\_sources**: Enter values in the **Value** field from where you don’t want images sourced from. Values can be `camera`, `files` or `gallery`, or any combination separated by commas. If this field is left blank, then images and files can be sourced from all locations. For more information, see [Define attachment sources available to users](attachment-source-define.md).
@@ -206,5 +206,5 @@ Limit user access to an action by role.
 
 ## What to do next
 
-After you create a smart button function, you must associate it with a specific location in the mobile app. You can add a smart button function to a top menu, a swipe action, or to a specific field. For more information on associating the smart button function to a location, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+After you create a smart button function, you must associate it with a specific location in the mobile app. You can add a smart button function to a top menu, a swipe action, or to a specific field. For more information on associating the smart button function to a location, see [Associate a function with a location in the app](sg-studio-button-instances.md).
 

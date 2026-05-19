@@ -128,10 +128,10 @@ Enter the due date for the requestee agent to approve.![Shift swap request appro
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](setup-scheduling-configurable-workforce-optimization-itsm.md)
 
 **Related topics**  
 
 
-[Build your first flow in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/build-your-first-flow.md)
+[Build your first flow in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows/build-your-first-flow.md)
 

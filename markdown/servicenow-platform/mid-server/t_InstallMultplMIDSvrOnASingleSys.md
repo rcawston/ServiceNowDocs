@@ -81,7 +81,7 @@ You can install multiple MID Servers on a Linux or Windows host or on a virtual 
 
 ## What to do next
 
-All MID Server installation procedures are complete. Proceed to [configure your MID Server](../concept/c_MIDServerConfiguration.md).
+All MID Server installation procedures are complete. Proceed to [configure your MID Server](c_MIDServerConfiguration.md).
 
 ## Multiple MID Server deployments
 

@@ -42,32 +42,32 @@ In this example, agents verify information or identity at the same time as when 
 
 Add and configure the [stage](add-configure-stage.md) or [activity](add-configure-activity.md) that will run at the same time as the other branches of stages or activities.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
 [Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
 [Add and configure an activity in a playbook](add-configure-activity.md)
 
 [Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
 [Decision activities](create-a-decision-activity.md)
 
 [Decision stages](create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](questionnaire-activity.md)
 
 [Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

@@ -71,5 +71,5 @@ If this new table is a type of planning item, select **Planning Item**.
 **Related topics**  
 
 
-[Define a new planning item type in Strategic Planning](../task/create-planning-organization-and-planning-item-type.md)
+[Define a new planning item type in Strategic Planning](create-planning-organization-and-planning-item-type.md)
 

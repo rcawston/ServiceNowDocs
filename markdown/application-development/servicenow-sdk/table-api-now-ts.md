@@ -26,7 +26,7 @@ For general information about tables, see [Table administration](https://raw.git
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Table object
 
@@ -189,7 +189,7 @@ The access level for cross-scope requests.Valid values:
 -   tracking: Calls to the resource are automatically approved. Calls are tracked in the Restricted Caller Access table with a status of Allowed.
 -   none: Cross-scope calls to the resource are approved or denied based on the value of the accessibleFrom property.
 
-For more information, see [Restricted caller access privilege settings](../../applications/concept/restricted-caller-access-privilege.md).
+For more information, see [Restricted caller access privilege settings](../restricted-caller-access-privilege.md).
 
 Default: none
 
@@ -954,7 +954,7 @@ String
 The model for tracking subscription usage.Valid values:
 
 -   none: Licensing isn’t used for the table.
--   fulfiller: Fulfiller/requester operations are tracked. This model applies to applications in which users open requests and fulfillers address them. Fulfillment is determined by insert, update, and delete operations on records in one or more key tables in the application under a set of specified conditions. For more information, see [Fulfillment tables](../../applications/reference/r_FulfillmentTables.md).
+-   fulfiller: Fulfiller/requester operations are tracked. This model applies to applications in which users open requests and fulfillers address them. Fulfillment is determined by insert, update, and delete operations on records in one or more key tables in the application under a set of specified conditions. For more information, see [Fulfillment tables](../r_FulfillmentTables.md).
 -   producer: Producer operations are tracked. This model applies to applications in which users can perform insert, update, and delete operations on a table without identifying requesters and fulfillers.
 
 Default: none

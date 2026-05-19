@@ -43,9 +43,9 @@ This property shows the **Toggle map view** option while making a reservation fr
 </td></tr></tbody>
 </table>**Note:** These properties are derived from the system properties \[sys\_properties.list\] table.
 
-**Parent Topic:**[Workplace Service Delivery for Mobile references](../concept/wsd-mobile-references.md)
+**Parent Topic:**[Workplace Service Delivery for Mobile references](wsd-mobile-references.md)
 
 **Previous topic:**[Components installed with Workplace Service Delivery for Mobile](components-wsd-mobile.md)
 
-**Next topic:**[Indoor Mapping](../../wsd-indoor-mapping/reference/Indoor-mapping.md)
+**Next topic:**[Indoor Mapping](../indoor-mapping/Indoor-mapping.md)
 

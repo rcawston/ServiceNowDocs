@@ -53,7 +53,7 @@ Add the standard service to a workplace room or space. For more information, see
 -   **[Add a standard service to workplace](add-std-service-to-workplaceitem.md)**  
 Add a standard service to a workplace space or room based on where it is made available.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -92,9 +92,9 @@ Add a standard service to a workplace space or room based on where it is made av
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

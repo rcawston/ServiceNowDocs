@@ -24,15 +24,15 @@ The safety team performs the following activities via the Health and Safety Work
 -   If a review and approval are required, assign the assessment to appropriate users.
 -   Assigned users review and approve the assessments via Employee Center.
 
--   **[Conduct a safety risk assessment](../task/hs-conduct-risk-assessment.md)**  
+-   **[Conduct a safety risk assessment](hs-conduct-risk-assessment.md)**  
 Conduct a safety risk assessment to identify and manage potential hazards and risks, and to ensure the safety of your employees and the public.
--   **[Perform risk analysis for a safety risk assessment](../task/hs-perform-risk-analysis-safety-risk-assessment.md)**  
+-   **[Perform risk analysis for a safety risk assessment](hs-perform-risk-analysis-safety-risk-assessment.md)**  
 For a risk assessment, perform risk analyses of identified hazards and choose control measures to assess how they impact and mitigate the hazard.
--   **[Create a risk analysis for a safety risk assessment from a job](../task/import-hazards-and-controls.md)**  
+-   **[Create a risk analysis for a safety risk assessment from a job](import-hazards-and-controls.md)**  
 Create a risk analysis by importing hazards and controls from a predefined job in the job register to a risk assessment.
--   **[Assess safety hazards and risk levels for a risk analysis](../task/add-a-risk-and-its-controls-for-a-safety-risk-assessment.md)**  
+-   **[Assess safety hazards and risk levels for a risk analysis](add-a-risk-and-its-controls-for-a-safety-risk-assessment.md)**  
 Review the identified hazards in a risk analysis and choose their control measures to assess how they impact and mitigate the risk.
--   **[Add an action for a safety risk](../task/hs-add-action-risk-assessment.md)**  
+-   **[Add an action for a safety risk](hs-add-action-risk-assessment.md)**  
 Add an action to address an identified risk or implement control measures necessary to improve workplace safety. You can add multiple actions for a hazard or control measure.
 
 **Parent Topic:**[Using Health and Safety Risk Management](hs-using-hs-risk-mgmt.md)

@@ -106,5 +106,5 @@ Boolean – return true to enable the Expert On-call for this table.
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](configuring-record-pages-sow-itsm.md)
 

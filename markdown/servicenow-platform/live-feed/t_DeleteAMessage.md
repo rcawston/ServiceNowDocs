@@ -30,5 +30,5 @@ Role required: none
     The message disappears from the feed.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

@@ -48,11 +48,11 @@ As an agent, you can:
 -   Analyze call transcripts and listen to recordings after you complete an interaction.
 -   Place outbound calls using automated outbound dialing.
 
--   **[Associate Amazon Connect queues for ITSM to a ServiceNow instance](../../itsm-manager-workspace/task/setup-cloudcallcenter-itsm-configurable-workspace.md)**  
+-   **[Associate Amazon Connect queues for ITSM to a ServiceNow instance](setup-cloudcallcenter-itsm-configurable-workspace.md)**  
 Set up phone queues for Amazon Connect to gain visibility into the queues using Workforce Optimization for ITSM.
--   **[Listen in to an agent call](../../itsm-manager-workspace/task/listen-in-to-agent-call-configurable-workspace.md)**  
+-   **[Listen in to an agent call](listen-in-to-agent-call-configurable-workspace.md)**  
 Monitor agent calls when they are resolving issues for external callers by using Workforce Optimization for ITSM.
--   **[Analyze transcripts and sentiments for the Amazon Connect phone channel](../../itsm-manager-workspace/task/analyze-transcripts-sentiments-wfo-itsm-confgurable-workspace.md)**  
+-   **[Analyze transcripts and sentiments for the Amazon Connect phone channel](analyze-transcripts-sentiments-wfo-itsm-confgurable-workspace.md)**  
 Analyze your agent's call recordings, transcripts, and sentiment reports. With this information, you can assess the call quality and train your agents to handle calls better in the future.
 
 **Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)

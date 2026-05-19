@@ -32,10 +32,10 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 5.  Review the information on the Automation insight page.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 
 
-[Insight rule form](../reference/insight-rule-form.md)
+[Insight rule form](insight-rule-form.md)
 

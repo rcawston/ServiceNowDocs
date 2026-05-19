@@ -15,7 +15,7 @@ Manage and maintain the productivity of your workforce from a single location us
 
 Use Workforce Optimization for Field Service to optimize your workforce and manage your teams efficiently. This feature also enables you to coach your teams so that they gain the skills that let you address the demands from your customers.
 
-Workforce Optimization for Field Service introduces Manager Workspace, which provides a real-time overview of the ongoing workload and the team performance. It also helps managers manage the schedules and shifts of their agents. Administrators can configure and customize the workspace using the application capabilities to complete the service objectives efficiently. For more information, see [Workforce Optimization for Field Service Manager Workspace dashboard](../../../use/dashboards/application-content-packs/wfo-fsm-manager-wrkspc-dashboard.md).
+Workforce Optimization for Field Service introduces Manager Workspace, which provides a real-time overview of the ongoing workload and the team performance. It also helps managers manage the schedules and shifts of their agents. Administrators can configure and customize the workspace using the application capabilities to complete the service objectives efficiently. For more information, see [Workforce Optimization for Field Service Manager Workspace dashboard](field-service-manager-workforce/wfo-fsm-manager-wrkspc-dashboard.md).
 
 ![person sitting in chair with key features of workforce optimization in text around them](../image/wfo-infographic.png "Features available with Workforce Optimization for Field Service")
 
@@ -37,9 +37,9 @@ Workforce Optimization for Field Service introduces Manager Workspace, which pro
 **Related topics**  
 
 
-[Configuring Workforce Optimization for Field Service](configuring-wfo-fsm.md)
+[Configuring Workforce Optimization for Field Service](workforce-optimization-for-field-service/configuring-wfo-fsm.md)
 
-[Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md)
+[Workforce Optimization for Field Service components](components-wfo-fsm.md)
 
-[Workforce Optimization](using-wfo-fsm.md)
+[Workforce Optimization](field-service-manager-workforce/using-wfo-fsm.md)
 

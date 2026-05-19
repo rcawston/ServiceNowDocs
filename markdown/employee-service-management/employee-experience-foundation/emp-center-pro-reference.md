@@ -17,9 +17,9 @@ Reference topics provide additional information about the lists and forms that y
 
 -   **[Block content form](block-content-form.md)**  
 Block content form
--   **[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)**  
+-   **[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)**  
 Content Analytics collects data on user interactions and generates visualizations to help campaign managers determine the effectiveness of campaigns.
--   **[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)**  
+-   **[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)**  
 Several types of components install with the activation of the Employee Center Pro plugin, including user roles and tables.
 -   **[Components installed with Content engagement](installed-content-engagement.md)**  
 Several types of components are installed with activation of the Content engagement plugin, including tables, user roles, and scheduled jobs.
@@ -29,13 +29,13 @@ Several types of components install with the activation of the Content Experienc
 Several types of components install with the activation of the Content Delivery \[com.sn\_content\_delivery\] plugin, including tables, user roles, and scheduled jobs.
 -   **[Components installed with Content Governance](ec-installed-content-governance.md)**  
 Several types of components install with the activation of the Content Governance \[sn\_cg\] plugin, including tables, user roles, and scheduled jobs.
--   **[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)**  
+-   **[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)**  
 Several types of components install with the activation of the Content Analytics \[sn\_cda\] plugin, including tables, user roles, and scheduled jobs.
--   **[Content Analytics dashboards](../concept/content-analytics-dashboards.md)**  
+-   **[Content Analytics dashboards](content-analytics-dashboards.md)**  
 Content Analytics display data visualizations for portal data collected in the default tracking profile.
--   **[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)**  
+-   **[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)**  
 Content analytics displays data visualizations of engagement metrics for content published to the portal or Now mobile app in the Content Engagement dashboard.
--   **[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)**  
+-   **[Content Library Overview dashboard](content-library-overview-dashboard.md)**  
 Content analytics displays data visualizations of performance metrics for content published to the portal or Now mobile app in the Content Library Overview dashboard.
 -   **[Employee Center Pro widgets](employee-center-pro-widgets-list.md)**  
 You can use base system widgets as-is in the portal or clone them to suit your own business needs.
@@ -58,5 +58,5 @@ Use the following sizes for the banner and icons for optimal portal performance.
 -   **[To-do content form](to-do-content-form.md)**  
 Use the To-do content form to add to-dos to your portal page.
 
-**Parent Topic:**[Employee Center Pro](../concept/employee-center-pro-landing.md)
+**Parent Topic:**[Employee Center Pro](employee-center-pro-landing.md)
 

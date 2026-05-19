@@ -17,7 +17,7 @@ Configure Contact Tracing so case managers can view the vaccination status of po
 
 ## Before you begin
 
-The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](../../vaccination-status/concept/vaccination-status.md).
+The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](../vaccination-status.md).
 
 Role required: admin
 
@@ -40,9 +40,9 @@ Role required: admin
 
 ## Result
 
-Case managers can see the vaccination status of users on the case form in both the contact tracing visualization and the **Exposed Contacts** list. For more information, see [Working on a case through contact tracing visualization](../reference/contact-tracing-case-visualization.md).
+Case managers can see the vaccination status of users on the case form in both the contact tracing visualization and the **Exposed Contacts** list. For more information, see [Working on a case through contact tracing visualization](contact-tracing-case-visualization.md).
 
 If a case manager can't see vaccination statuses even though the **sn\_imt\_tracing.show\_contact\_vaccination\_status** property is set to **Yes**, confirm that the case manager has the sn\_imt\_vaccine.vaccine\_profile\_reader role.
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

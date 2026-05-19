@@ -23,7 +23,7 @@ In this example, the defining tag for the correlation, Application, is linked to
 
 In an alert group that was generated from tag rules, nodes connected by a dashed line signify an approximate, "fuzzy" match. This means that the nodes were correlated when the match on the tag rule was not exact, but close enough to be significant. For example, this could happen when a location, email address, or IP pattern was similar enough to qualify as a match.
 
-The Link View legend lists the meaning of the symbols and colors used to represent the tags and their number of unique nodes. In the legend, defining tags are marked as Correlation. You can toggle between hiding and showing tag types to reduce noise. For a description of each tag, see [Attributes in Express List Link View](../reference/link-view-tags-icons-descriptions.md).
+The Link View legend lists the meaning of the symbols and colors used to represent the tags and their number of unique nodes. In the legend, defining tags are marked as Correlation. You can toggle between hiding and showing tag types to reduce noise. For a description of each tag, see [Attributes in Express List Link View](link-view-tags-icons-descriptions.md).
 
 **Parent Topic:**[Service Operations Workspace for ITOM](sow-landing-page-itom.md)
 
@@ -32,5 +32,5 @@ The Link View legend lists the meaning of the symbols and colors used to represe
 
 [Viewing links between alerts in alert groups in Express List](el-link-view.md)
 
-[View links between alerts in a group in Express List](../task/view-relationships-between-alerts-in-groups.md)
+[View links between alerts in a group in Express List](view-relationships-between-alerts-in-groups.md)
 

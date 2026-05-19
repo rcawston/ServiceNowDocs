@@ -39,7 +39,7 @@ Role required: sys\_admin
 
 ### What to do next
 
-After you've finished uploading your certificates, [create a connection to ILMT/BigFix Inventory](../task/set-up-ibm-platform.md).
+After you've finished uploading your certificates, [create a connection to ILMT/BigFix Inventory](set-up-ibm-platform.md).
 
 ## HTTPS without the MID Server
 
@@ -87,5 +87,5 @@ Role required: sys\_admin
 
 ### What to do next
 
-After you've finished uploading your certificates, [create a connection to ILMT/BigFix Inventory](../task/set-up-ibm-platform.md).
+After you've finished uploading your certificates, [create a connection to ILMT/BigFix Inventory](set-up-ibm-platform.md).
 

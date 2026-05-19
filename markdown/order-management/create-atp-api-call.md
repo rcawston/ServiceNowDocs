@@ -90,7 +90,7 @@ Input: The getAvailability function takes the order number of the Customer order
     For more information, see [Request order changes using Now Assist Virtual Assistant](request-order-changes-now-assist.md).
 
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 

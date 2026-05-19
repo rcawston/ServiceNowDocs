@@ -45,7 +45,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
     -   Parent \(not available on the form\)
 4.  On the Action form, fill in or change the values for the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form.md).
+    For a description of the field values, see [Action form](action-form.md).
 
 5.  Select **Save**.
 
@@ -54,5 +54,5 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 The new action is displayed in the **Tasks** list of the parent task. The parent task cannot be closed until all child tasks in the **Tasks** list are closed.
 
-**Parent Topic:**[Action Management](../concept/industrial-action-management.md)
+**Parent Topic:**[Action Management](industrial-action-management.md)
 

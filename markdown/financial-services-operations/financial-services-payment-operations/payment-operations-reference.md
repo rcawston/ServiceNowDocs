@@ -15,13 +15,13 @@ breadcrumb: [Payment Operations, Banking applications, Financial Services Operat
 
 Reference topics provide additional information about Financial Services Payment Operations.
 
--   **[Components installed with Financial Services Payment Operations](../reference/installed-with-payment-operations.md)**  
+-   **[Components installed with Financial Services Payment Operations](installed-with-payment-operations.md)**  
 Several types of components are installed with the installation of the Financial Services Payment Operations application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
--   **[Properties installed with Financial Services Payment Operations](../reference/properties-installed-with-payment-operations.md)**  
+-   **[Properties installed with Financial Services Payment Operations](properties-installed-with-payment-operations.md)**  
 Customize the properties that are available with Financial Services Payment Operations.
--   **[Field descriptions for a payment inquiry case](../reference/payment-inquiry-case-form-fields.md)**  
+-   **[Field descriptions for a payment inquiry case](payment-inquiry-case-form-fields.md)**  
 Payment inquiry cases help the inquiry agents resolve inquiries that they receive from the bank's customers or third-party banks.
--   **[Field descriptions for a claim case](../reference/claim-form-fields.md)**  
+-   **[Field descriptions for a claim case](claim-form-fields.md)**  
 Claim cases help the claim agents resolve payment claim requests that they receive from the bank's customers or third-party banks.
 -   **[Domain separation and Financial Services Payment Operations](domain-separation-financial-services-payment-operations.md)**  
 Domain separation is supported for Financial Services Payment Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

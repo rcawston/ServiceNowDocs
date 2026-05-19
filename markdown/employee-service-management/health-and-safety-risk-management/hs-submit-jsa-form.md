@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Em
 
 Employees can use the Submit JSA form to analyze their job safety at their point of work and create a JSA.
 
-For more information on submitting a JSA, see [Submit a JSA from Employee Center](../task/hs-submit-jsa-emp-center.md).
+For more information on submitting a JSA, see [Submit a JSA from Employee Center](hs-submit-jsa-emp-center.md).
 
 <table id="table_hxh_43r_b1c"><thead><tr><th>
 
@@ -59,7 +59,7 @@ Select job
 
 </td><td>
 
-Job with pre-defined hazards and controls for your job type. If you select a job, all hazards and control measures for your job type are auto-populated from this pre-defined job.Only the active jobs from the Job \[sn\_hs\_rm\_job\] table are available in this list. For more information, see [Define a job in the job register](../task/hs-define-job-register.md).
+Job with pre-defined hazards and controls for your job type. If you select a job, all hazards and control measures for your job type are auto-populated from this pre-defined job.Only the active jobs from the Job \[sn\_hs\_rm\_job\] table are available in this list. For more information, see [Define a job in the job register](hs-define-job-register.md).
 
 </td></tr><tr><td>
 
@@ -179,8 +179,8 @@ Add them with an acknowledgement using the **Add employee/workers** button.
 
 **Note:**
 
--   The **Contractor** option in the **Person type** field appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](../../ohs-incident-management/task/install-hs-incident-mgmt.md#table_ix1_bff_gxb).
--   For a contractor, the **Name** field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](../../ohs-incident-management/task/assign-hs-profile-user.md).
+-   The **Contractor** option in the **Person type** field appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](../health-and-safety-incident-management/install-hs-incident-mgmt.md#table_ix1_bff_gxb).
+-   For a contractor, the **Name** field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](../health-and-safety-core/assign-hs-profile-user.md).
 
 </td></tr><tr><td>
 
@@ -199,5 +199,5 @@ Add attachments
 Attachments such as image, video, or document related to this job or JSA.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
 

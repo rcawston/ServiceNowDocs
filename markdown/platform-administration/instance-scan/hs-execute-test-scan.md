@@ -32,7 +32,7 @@ Role required: admin
     The status of the scan appears in the progress tracker. The **Findings**module in the application navigator shows the number of records found from running the check test.
 
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](hs-execute-scans.md)
 
 **Related topics**  
 

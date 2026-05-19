@@ -48,5 +48,5 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
     ![Emergency Outreach dashboard](../image/emergency-outreach-dashboard-left-column-all-apps.png)
 
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 

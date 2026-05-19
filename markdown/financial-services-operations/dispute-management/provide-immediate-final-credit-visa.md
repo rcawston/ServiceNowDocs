@@ -19,7 +19,7 @@ Issue immediate final credit to the Visa card holder.
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -62,5 +62,5 @@ Based on business rules, the bank can make a determination to issue immediate fi
 
 The task state updates to Closed Complete. The dispute transaction moves to the Chargeback stage.
 
-**Parent Topic:**[Investigate stage](../concept/investigate-stage.md)
+**Parent Topic:**[Investigate stage](investigate-stage.md)
 

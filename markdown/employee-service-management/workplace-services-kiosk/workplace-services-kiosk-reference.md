@@ -22,5 +22,5 @@ Use the Kiosk configuration form to create a kiosk device configuration.
 -   **[Workplace Services Kiosk error scenarios](wsd-kiosk-errors.md)**  
 Find the cause and related information of kiosk errors in the system logs.
 
-**Parent Topic:**[Workplace Services Kiosk](../concept/workplace-services-kiosk.md)
+**Parent Topic:**[Workplace Services Kiosk](workplace-services-kiosk.md)
 

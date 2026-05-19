@@ -36,7 +36,7 @@ By using extension points, you can easily integrate customizations without havin
     -   Create and register a custom script include.
     -   Modify the existing script include by going to the Implementations related list and selecting a script include in the **Class** column.
 
-        **Note:** The PhoneNumberValidationExtPointImpl script include that use the global.ChannelSendToValidation extension point is available for validating recipient IDs profiles associated with the [Conversational SMS service channel](../../advanced-work-assignment/concept/conversation-sms-service-channel-store-app.md) application.
+        **Note:** The PhoneNumberValidationExtPointImpl script include that use the global.ChannelSendToValidation extension point is available for validating recipient IDs profiles associated with the [Conversational SMS service channel](../advanced-work-assignment/conversation-sms-service-channel-store-app.md) application.
 
 4.  Associate user profiles for an agent-initiated messages by adding the global.ChannelSendToValidation extension point to the script include.
 
@@ -52,5 +52,5 @@ By using extension points, you can easily integrate customizations without havin
 5.  On the Extension Point form, click **Update**.
 
 
-**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](config-agent-init-messg-interface.md)
 

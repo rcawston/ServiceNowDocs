@@ -39,7 +39,7 @@ A cost plan breakdown captures the estimated cost and actual cost for every fisc
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -57,7 +57,7 @@ A cost plan breakdown captures the estimated cost and actual cost for every fisc
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 

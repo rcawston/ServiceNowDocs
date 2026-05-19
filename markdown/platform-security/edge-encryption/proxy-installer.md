@@ -75,5 +75,5 @@ After an Edge Encryption proxy is installed and configured, you can start the pr
 10. [Verify and troubleshoot the Edge Encryption proxy server installation](verify-install.md)  
 After your Edge Encryption proxy is installed, you can verify the installation to locate problems or start and stop the proxy.
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

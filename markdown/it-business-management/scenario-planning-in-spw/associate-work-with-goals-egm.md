@@ -25,7 +25,7 @@ You can associate a goal or target with the planning items - Project, Demand, an
 
 From the Align work window, you can associate a goal or target with multiple planning items at a time. From the Planning items tab of the goal or target, you can associate a goal or target with only one planning item at a time.
 
-You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](../../alignment-planner-workspace/task/enable-custom-item-types-strategic-planning-workspace.md).
+You can create goal or target relationships with a custom planning item from the Align work window only if the planning item table is added to the **planning\_item\_types\_allow\_list** property. For more information, see [Enable custom item types in Strategic Planning](enable-custom-item-types-strategic-planning-workspace.md).
 
 **Note:** When a goal or target relationship is created with a planning item \(Project, Demand, or Epic\), the record appears on the Planning items tab on the goal record. When a goal or target relationship is created with any other item, the record appears on the Other items tab on the respective goal or target record.
 
@@ -62,7 +62,7 @@ Alternatively, you can select **View aligned work** from the row context menu ic
 
 You can search for the required planning items by applying filter on the Name column.
 
-For a description of the field values, see [Goal/Target Relationship form](../reference/goal-relationship-form-egm.md).
+For a description of the field values, see [Goal/Target Relationship form](goal-relationship-form-egm.md).
 
 </td></tr><tr><td id="d143716e184">
 
@@ -84,7 +84,7 @@ The Goal side panel opens with the **Details** tab.
 
 For any item other than planning item, on the Goal/Target Relationship form, fill in the **Table** and **Document ID** fields.
 
-For a description of the field values, see [Goal/Target Relationship form](../reference/goal-relationship-form-egm.md).
+For a description of the field values, see [Goal/Target Relationship form](goal-relationship-form-egm.md).
 
 </td></tr></tbody>
 </table>2.  Select either **Done** or **Save**.

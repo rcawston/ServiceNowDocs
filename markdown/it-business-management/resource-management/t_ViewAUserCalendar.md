@@ -47,7 +47,7 @@ Select a User record to open the User form, and then select the **View Calendar*
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](c_MyCalendar.md)
 
 **Related topics**  
 

@@ -15,11 +15,11 @@ With the ServiceNow Platform, service providers \(SPs\) can provide their custom
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Domain Separation.](../concept/c_DomainSeparation.md)
+[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Domain Separation.](c_DomainSeparation.md)
 
 </td><td>
 
-[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Domain Separation.](../concept/c_DomainSeparationSetup.md)
+[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Domain Separation.](c_DomainSeparationSetup.md)
 
 </td></tr><tr><td>
 

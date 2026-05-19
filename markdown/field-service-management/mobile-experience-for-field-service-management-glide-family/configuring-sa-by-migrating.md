@@ -17,7 +17,7 @@ You can configure Smart Assessment questionnaires by migrating from existing sur
 
 The steps to migrate from survey-based questionnaires are:
 
-1.  [Migrate a survey-based questionnaire to Smart Assessment](../task/migrate-to-smart-assessment-template.md)
-2.  [Author and publish a Smart Assessment template](../task/create-a-smart-assessment-template.md)
-3.  [Migrate survey instances to Smart Assessment](../task/migrate-survey-instances-to-smart-assessment.md)
+1.  [Migrate a survey-based questionnaire to Smart Assessment](migrate-to-smart-assessment-template.md)
+2.  [Author and publish a Smart Assessment template](create-a-smart-assessment-template.md)
+3.  [Migrate survey instances to Smart Assessment](migrate-survey-instances-to-smart-assessment.md)
 

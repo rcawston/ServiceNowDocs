@@ -31,7 +31,7 @@ Digital End-user Experience Self-service \(DEX Self-service\) enables you to mon
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Digital End-user Experience Self-service](../reference/dex-self-service-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Digital End-user Experience Self-service](dex-self-service-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -60,7 +60,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>    For value choices, see [SRM incidents](../reference/sr-incidents-workspace.md).
+</table>    For value choices, see [SRM incidents](sr-incidents-workspace.md).
 
     The new state is displayed in the incident list view, incident form, and form header.
 
@@ -73,5 +73,5 @@ Closed incidents remain in the incidents list view. If they don't appear, try ad
 
 When you close an incident, any related alerts are closed.
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

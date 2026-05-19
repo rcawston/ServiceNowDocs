@@ -38,5 +38,5 @@ Project managers can provide feedback while performing their daily tasks on Micr
 5.  Add a **Tag** to the feedback and select **Save**.
 
 
-**Parent Topic:**[Configuring Feedback application in Strategic Planning](../concept/configuring-product-feedback-in-sp.md)
+**Parent Topic:**[Configuring Feedback application in Strategic Planning](configuring-product-feedback-in-sp.md)
 

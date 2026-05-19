@@ -89,5 +89,5 @@ Select the notification that you want. The options are:-   **ERP Extraction Comp
 
 The notification email that you receive contains a link that takes you to the record for the job. You can view the progress of its tasks by selecting the **Show training progress** Related Link. The tasks there also appear in the Connection tasks overview lists on the **Overview** tab of the Connection status page. You could then select to **Show matching** on a day's **Task period** value in the Connection tasks overview list to see the status of all tasks for that day.
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
 

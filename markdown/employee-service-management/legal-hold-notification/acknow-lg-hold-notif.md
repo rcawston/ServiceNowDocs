@@ -42,5 +42,5 @@ In the Employee Center, under the **My Tasks** tab, the acknowledged legal hold 
 
 In the Legal Counsel Center, under the **Custodians** tab of the legal matter page, the state changes from Assigned to Acknowledged.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

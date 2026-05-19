@@ -23,7 +23,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Treasury admin
 
 </td><td>
 
-Configures the treasury workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the treasury workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows
@@ -90,19 +90,19 @@ Using the case playbook, treasury contributor and agents review and work on thei
 
 Performance Analytics give business owners an insight into how the team and business is performing. A dashboard with pre-configured reports and customizable views is available with the application.
 
-For more information, see [Treasury Operations dashboard](../../../use/dashboards/application-content-packs/fso-treasury-ops-dashboard.md).
+For more information, see [Treasury Operations dashboard](../fso-treasury-ops-dashboard.md).
 
 -   **[Financial Services Treasury Operations workflows](fso-treasury-ops-workflow.md)**  
 The Financial Services Treasury Operations application installs automated workflows that can be configured for any treasury service. These workflows create cases and route tasks to the treasury and document agents.
--   **[Create a treasury service case](../task/create-fso-treasury-service-case.md)**  
+-   **[Create a treasury service case](create-fso-treasury-service-case.md)**  
 Begin the treasury service application process by creating a treasury case on behalf of your customer.
--   **[Submit a treasury service case for fulfillment](../task/submit-treasury-service-application.md)**  
+-   **[Submit a treasury service case for fulfillment](submit-treasury-service-application.md)**  
 Collect all required information about the customer and submit the case to back-office agents for fulfillment.
--   **[Work on a treasury service case](../task/work-treasury-service-case.md)**  
+-   **[Work on a treasury service case](work-treasury-service-case.md)**  
 Work on a treasury case to collect applicant information, ensure that any outstanding tasks are completed, and fulfill the treasury product request.
--   **[Work on a document task to generate agreement documents](../task/work-document-task-treasury-ops.md)**  
+-   **[Work on a document task to generate agreement documents](work-document-task-treasury-ops.md)**  
 Work on a document task to generate customer agreement documents that are required to activate the treasury product.
--   **[Work on a treasury task for due diligence or fulfillment](../task/work-fso-treasury-task.md)**  
+-   **[Work on a treasury task for due diligence or fulfillment](work-fso-treasury-task.md)**  
 Work on a treasury task to perform due diligence or fulfillment activities for the parent treasury service case.
 
 **Parent Topic:**[Financial Services Treasury Operations](fso-treasury-ops-landing-page.md)

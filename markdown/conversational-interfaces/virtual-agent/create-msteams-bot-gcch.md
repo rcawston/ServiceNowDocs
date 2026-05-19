@@ -89,5 +89,5 @@ Role required: none
         **Note:** The secret value code is visible only once.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](../concept/va-integ-msteams-gcch.md)
+**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](va-integ-msteams-gcch.md)
 

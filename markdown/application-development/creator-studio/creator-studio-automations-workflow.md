@@ -56,5 +56,5 @@ To work with automations, you must be given permission to work on the app.
     For more information, see [Activate a playbook in Creator Studio](creator-studio-activate-automation.md).
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

@@ -87,7 +87,7 @@ Risk rollup formula
 The formula used to roll up the project risk scores. The choices are as follows:-   Average
 -   Maximum
 -   Minimum
- **Note:** Only the risks that are assessed using Advanced Risk Assessment are aggregated and have their scores rolled up. If a risk is retired, then the score of the retired risk is not aggregated. For details, see [Risk score rollup in Advanced Risk Assessment](../concept/risk-rollup-ara-concept.md).
+ **Note:** Only the risks that are assessed using Advanced Risk Assessment are aggregated and have their scores rolled up. If a risk is retired, then the score of the retired risk is not aggregated. For details, see [Risk score rollup in Advanced Risk Assessment](risk-rollup-ara-concept.md).
 
 </td></tr><tr><td>
 
@@ -150,5 +150,5 @@ The group which assesses the enterprise risk if the **Assessor type** field has 
 
 The assessor and approver details are set.
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](risk-and-ppm-better-together.md)
 

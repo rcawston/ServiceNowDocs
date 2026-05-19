@@ -32,7 +32,7 @@ When code generation is enabled on an instance, a Now Assist icon \(![Now Assist
 
 After you describe the code you want to generate, you will receive code suggestions in the JavaScript editor on forms in the ServiceNow AI Platform® and in Script steps within Workflow Studio. Developers, regardless of their scripting experience on the ServiceNow AI Platform®, can benefit from code generation, allowing them to start writing custom code or refine existing code more efficiently.
 
-**Note:** Developers must be assigned the now.assist.creator role to use code generation. For more information on using this skill, see [Generate code with AI-powered code generation](../task/generate-scripts-from-text.md).
+**Note:** Developers must be assigned the now.assist.creator role to use code generation. For more information on using this skill, see [Generate code with AI-powered code generation](generate-scripts-from-text.md).
 
 ## Code autocomplete overview
 
@@ -64,7 +64,7 @@ For more information, see [Explain and summarize code](explain-and-summarize-cod
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Generate code based on your prompts to improve quality and reduce repetitive tasks.|[Generate code with AI-powered code generation](../task/generate-scripts-from-text.md)|Developers|
+|Generate code based on your prompts to improve quality and reduce repetitive tasks.|[Generate code with AI-powered code generation](generate-scripts-from-text.md)|Developers|
 |Quickly edit and refactor large code segments.|[edit-code-now-assist.md](edit-code-now-assist.md)|Developers|
 |Add comments to code segments.|[Add comments to code](add-comments-to-code-with-quick-actions.md)|Developers|
 |Understand code.|[Explain and summarize code](explain-and-summarize-code-with-quick-actions.md)|Developers|

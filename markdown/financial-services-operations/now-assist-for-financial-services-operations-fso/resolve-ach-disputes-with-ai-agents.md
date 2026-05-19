@@ -52,7 +52,7 @@ If this configuration isn’t enabled, the dispute agent must manually assign ea
 
     You can continue working on the tasks as you interact with the AI agent.
 
-    For information about how to resolve ACH disputes, see [Resolving ACH disputes](../../fso-card-operations/concept/work-dispute-ach.md).
+    For information about how to resolve ACH disputes, see [Resolving ACH disputes](../dispute-management/work-dispute-ach.md).
 
 
 ## Result
@@ -68,5 +68,5 @@ The ACH dispute return recommendation AI agent analyzes disputed transactions ba
 -   **[Dispute communication AI agent](dispute-communication-ai.md)**  
 The Dispute communication AI agent automatically picks the appropriate email template for customer communication, including outcomes, denials, and follow-ups based on the transaction details.
 
-**Parent Topic:**[ACH dispute AI agents overview](../concept/ach-agentic-ai-workflow.md)
+**Parent Topic:**[ACH dispute AI agents overview](ach-agentic-ai-workflow.md)
 

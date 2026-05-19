@@ -21,6 +21,6 @@ The Discovery OT Collector is a lightweight software application that is used to
 
 For more information about the OT Discovery Collector or to get help with the application, see:
 
--   [Configure the OT Discovery Collector](../task/configuring-the-collector.md)
+-   [Configure the OT Discovery Collector](configuring-the-collector.md)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 

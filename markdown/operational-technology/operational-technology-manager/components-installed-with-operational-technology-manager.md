@@ -52,7 +52,7 @@ Operational Technology Discovery Administrator \[ot\_discovery\_admin\]
 
 </td><td>
 
-Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](../task/run-discovery-for-operational-technology.md).
+Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](../run-discovery-for-operational-technology.md).
 
 </td></tr><tr><td>
 

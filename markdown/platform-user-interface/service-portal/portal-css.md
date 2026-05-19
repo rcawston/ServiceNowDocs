@@ -62,11 +62,11 @@ You can define CSS in your portal at multiple levels.
 
 -   **[Configure portal branding](c_BrandingEditor.md)**  
 Use Branding Editor to give your portal its own look and feel.
--   **[Activate La Jolla theme branding](../task/enable-la-jolla-brand-update.md)**  
+-   **[Activate La Jolla theme branding](enable-la-jolla-brand-update.md)**  
 Activate the Service Portal La Jolla Brand to apply ServiceNow branding, which includes WCAG-AA compliance for contrast. This plugin is active by default on new instances, but admins must activate the plugin on instances upgraded from earlier versions.
 -   **[Create a portal theme](c_CustomCSS.md)**  
 If you need more customizations than the Branding Editor can provide, you can create your own custom theme.
--   **[Enable text resize in your portal](../task/enable-text-resize.md#)**  
+-   **[Enable text resize in your portal](enable-text-resize.md#)**  
 Enable text resize to increase the size of your text up to 200% through your browser settings.
 -   **[Styling for right-to-left languages in portals](styling-right-to-left-languages.md)**  
 Localizing a portal for right-to-left languages requires CSS that mirrors the direction of portal pages.

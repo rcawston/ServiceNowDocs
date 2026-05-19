@@ -19,7 +19,7 @@ The Checklists appears as a tab in the contextual side panel.
 
 ![HR Agent Workspace - Checklist](../reference/images/agent-ws-hr-checklist.png)
 
-When the configuration for an HR service or HR task template has checklists, they automatically appear. Having a checklist for an HR service or HR task template ensures consistency when resolving issues. For information on configuring checklists, see [Configure an HR service](../task/configure-hr-service.md) and [Configure an HR task template](../task/configure-hr-task-template.md).
+When the configuration for an HR service or HR task template has checklists, they automatically appear. Having a checklist for an HR service or HR task template ensures consistency when resolving issues. For information on configuring checklists, see [Configure an HR service](../hr-service-delivery/configure-hr-service.md) and [Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md).
 
 -   **Creating a checklist directly into an HR case**
 

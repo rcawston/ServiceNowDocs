@@ -24,7 +24,7 @@ Create a tag in the repository to link to a particular app version in App Engine
 ### Before you begin
 
 -   Role required: admin or sn\_group\_creator.app\_creator
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](source-control-link-application.md)
 
 ### Procedure
 
@@ -93,7 +93,7 @@ Application developers can create a branch to work on a new version of an existi
 ### Before you begin
 
 -   Role required: admin or sn\_group\_creator.app\_creator
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](source-control-link-application.md)
 
 ### Procedure
 
@@ -131,7 +131,7 @@ Set a default branch when you want to use a branch other than main for new chang
 ### Before you begin
 
 -   Role required: admin
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](source-control-link-application.md)
 
 ### Procedure
 

@@ -19,8 +19,8 @@ Use a previously created role for your application in App Engine Studio \(AES\).
 
 Your application must contain either data or experiences in order to add an existing role. For more information about adding data or experiences to your application, see the following guidance:
 
--   [Create a data model for your application](../concept/add-data.md)
--   [Add an application experience](../concept/add-experience.md)
+-   [Create a data model for your application](add-data.md)
+-   [Add an application experience](add-experience.md)
 
 Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 
@@ -71,5 +71,5 @@ App Engine Studio includes default roles that you can use for your application. 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](add-security.md)
 

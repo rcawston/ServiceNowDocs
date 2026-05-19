@@ -23,12 +23,12 @@ To understand this feature, see the following image and consider the example. Mo
 
 ![Risk statement and risk creation hierarchy](../image/risk_stmnt_hieracrchy.png "New risk statement hierarchy")
 
-**Parent Topic:**[Manage risks, risk statements, and risk frameworks](../reference/r_RiskRegister.md)
+**Parent Topic:**[Manage risks, risk statements, and risk frameworks](r_RiskRegister.md)
 
 **Related topics**  
 
 
 [Workflow of a risk using Advanced Risk](risk-lifecycle-using-advanced-risk.md)
 
-[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+[Risk hierarchy and scoring](risk-hierarchy-scoring.md)
 

@@ -156,20 +156,20 @@ Multiple conditional specifications separated by commas. In this example: if the
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
 [Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
 
 [Configure a text index group to search across multiple tables](index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](index-attributes.md)
 
 [Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
 
@@ -181,7 +181,7 @@ Multiple conditional specifications separated by commas. In this example: if the
 
 [Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](r_ViewTextIndexingStatsAndStatus.md)
 
 [Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
 

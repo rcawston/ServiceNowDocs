@@ -22,5 +22,5 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 -   **[Supported data models and event types for Redox Inbound Integration](hcls-redox-supported-dm.md)**  
 In the Redox engine, a request is determined by the event type and workflow set up for your integration.
 
-**Parent Topic:**[Redox Inbound Integration](../concept/hcls-redox-app.md)
+**Parent Topic:**[Redox Inbound Integration](hcls-redox-app.md)
 

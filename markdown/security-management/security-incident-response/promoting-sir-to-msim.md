@@ -23,11 +23,11 @@ Once Major Security Incident Management is installed on your ServiceNow instance
 
 You can also link a security incident as a child incident to the major security incident so that all related security incidents can be tracked together.
 
--   **[Propose as a Major Security Incident](../../secops-integration-major-security-incident-management/task/propose-as-msi.md)**  
+-   **[Propose as a Major Security Incident](propose-as-msi.md)**  
 Propose a security incident to a major security incident.
--   **[Promote to a Major Security Incident](../../secops-integration-major-security-incident-management/task/promote-msi.md)**  
+-   **[Promote to a Major Security Incident](promote-msi.md)**  
 Promote a security incident to a major security incident or reject promoted proposals through the Major Security Incident Management \(MSIM\) Workspace.
--   **[Link to Major Security Incident](../../secops-integration-major-security-incident-management/task/link-si-msi.md)**  
+-   **[Link to Major Security Incident](link-si-msi.md)**  
 Link security incidents to a major security incident.
 
 **Parent Topic:**[Using Major Security Incident Management](major-security-incident-setup.md)
@@ -35,21 +35,21 @@ Link security incidents to a major security incident.
 **Related topics**  
 
 
-[Using MSI List view in the MSIM workspace](../task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](../../secops-integration-major-security-incident-management/concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../../secops-integration-major-security-incident-management/concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../../secops-integration-major-security-incident-management/concept/msim-details-tab.md)
+[Update Major Security Incident details](msim-details-tab.md)
 
-[Link additional records to Major Security Incident](../../secops-integration-major-security-incident-management/task/linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](../../secops-integration-major-security-incident-management/task/unlinking-msi-records.md)
+[Unlink records from Major Security Incident](unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](../../secops-integration-major-security-incident-management/concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../../secops-integration-major-security-incident-management/concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](collab-tab.md#)
 
-[Create and distribute MSIM Status Reports](../../secops-integration-major-security-incident-management/task/creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
 

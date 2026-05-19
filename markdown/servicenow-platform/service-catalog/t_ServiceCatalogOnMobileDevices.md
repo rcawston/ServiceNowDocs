@@ -91,5 +91,5 @@ You can configure the Classic Mobile layout for categories within a service cata
 -   **[Limit description sizes in the Classic Mobile UI](t_LimitDescriptionSizesInMobileUI.md)**  
 By default, item descriptions in the smartphone interface are truncated to a maximum of two lines.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 

@@ -19,9 +19,9 @@ You can use Service Catalog to customize portals where your customers can reques
 
 You can set up one or more service catalogs and provide self-service opportunities. Organize your catalog offerings by using the ability to publish multiple catalogs targeted to specific audiences.
 
--   **[Catalog Builder overview](../reference/catalog-builder-overview.md)**  
+-   **[Catalog Builder overview](catalog-builder-overview.md)**  
 The Catalog Builder experience enables you to delegate the creation and maintenance of catalog items.
--   **[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)**  
+-   **[Types of catalog items](r_ExtendedCatalogItemFunctions.md)**  
 Service Catalog offers a few types of catalog items.
 -   **[Service Catalog for managers and end users](c_UsingTheServiceCatalog.md)**  
 Every user with a login can view and order items from the Service Catalog from departments within your organization. These catalog items can include goods, services, and information.

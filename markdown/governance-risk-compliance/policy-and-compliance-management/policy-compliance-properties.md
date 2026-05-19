@@ -100,5 +100,5 @@ Specify how many days before due date to send Policy Acknowledge summary notific
 The number of days prior to the due date to send the Policy Acknowledge summary notification.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Policy and Compliance Management enhancement steps](../../grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.md)
+</table>**Parent Topic:**[Policy and Compliance Management enhancement steps](policy-compliance-optional-steps.md)
 

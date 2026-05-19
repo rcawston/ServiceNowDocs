@@ -29,7 +29,7 @@ You can specify filters that narrow the scope of an audit, for example, to audit
 
 2.  Select **New** and then fill in the Tag Policies form.
 
-    The form fields are described in [Tag Policies form](../../itom-cloud-accelerate/reference/tag-gov-tag-policies-form.md).
+    The form fields are described in [Tag Policies form](tag-gov-tag-policies-form.md).
 
 3.  Select **Submit**.
 

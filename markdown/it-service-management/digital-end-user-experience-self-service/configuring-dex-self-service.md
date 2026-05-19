@@ -17,29 +17,29 @@ The DEX Self-service plugin gets installed automatically with the Digital End-Us
 
 ## Configuration overview
 
-1.  [Configuring Digital End-User Experience](config-dex-console.md)
+1.  [Configuring Digital End-User Experience](../digital-end-user-experience-dex/config-dex-console.md)
 
     DEX Self-service gets installed automatically when you install the Digital End-User Experience application.
 
-    **Important:** DEX Self-service is inactive in the base system. To activate DEX Self-service, enable the base system issue configurations. For more information, see [Enable issue configurations for DEX Self-service](../task/enable-dex-self-service-issues.md).
+    **Important:** DEX Self-service is inactive in the base system. To activate DEX Self-service, enable the base system issue configurations. For more information, see [Enable issue configurations for DEX Self-service](enable-dex-self-service-issues.md).
 
-2.  [Activate Proactive Engagement resolutions for DEX Self-service](../task/activate-proactive-engage-resolutions.md)
+2.  [Activate Proactive Engagement resolutions for DEX Self-service](activate-proactive-engage-resolutions.md)
 
     Activate base system Proactive Engagement resolutions to enable end users to self-solve issues using DEX Self-service.
 
-3.  [Enable issue configurations for DEX Self-service](../task/enable-dex-self-service-issues.md).
+3.  [Enable issue configurations for DEX Self-service](enable-dex-self-service-issues.md).
 
     Enable base system issue configurations for DEX Self-service to enable end users to self-solve issues using the Device health check capability.
 
-4.  [Customize DEX Self-service issue configurations](../task/configuring-dex-self-service-issues.md).
+4.  [Customize DEX Self-service issue configurations](configuring-dex-self-service-issues.md).
 
     Link issues with device health subcategories and categories and define metrics evaluation criteria and issue resolutions. Based on these configurations, issues and their related resolutions display in DEX Self-service. You can access DEX Self-service through the Employee Center, Desktop Assistant, or Now Assist Virtual Agent.
 
-5.  [Configure DEX Self-service categories and subcategories](../task/configuring-dex-self-service-categories.md)
+5.  [Configure DEX Self-service categories and subcategories](configuring-dex-self-service-categories.md)
 
     Configure or customize device health categories and subcategories for issues to enable end users to troubleshoot and resolve issues.
 
-6.  [Configure DEX Self-service device actions](../task/configuring-dex-self-service-device-actions.md)
+6.  [Configure DEX Self-service device actions](configuring-dex-self-service-device-actions.md)
 
     Configure device actions that end users can initiate from DEX Self-service even when no issues are detected.
 

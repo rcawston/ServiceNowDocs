@@ -36,12 +36,12 @@ Ensure that the following applications have compatible upgraded versions:
 |6.1.1|26.1.y|
 |7.0.x|26.3.y|
 
-**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+**Parent Topic:**[Service Operations Workspace for ITSM reference](sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](terminology-used-in-sow-for-itsm.md)
 
 [Additional roles for SOW admin](additional-roles-sow-admin.md)
 

@@ -39,5 +39,5 @@ You can manually archive push notification messages that meet the default archiv
 4.  Click **Run Archive Now**.
 
 
-**Parent Topic:**[Push notification retention](../concept/push-notification-retention.md)
+**Parent Topic:**[Push notification retention](push-notification-retention.md)
 

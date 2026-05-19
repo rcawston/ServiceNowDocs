@@ -35,7 +35,7 @@ The Overview section shows the data for the manual metrics in the following tile
 -   Number of metrics awaiting approval for the metric data tasks: Number of metric data tasks that have not been approved.
 -   Number of metrics rejected: Number of metric data tasks that have been rejected.
 
-When you select a tile, the data on the page is filtered. You can also filter the data that is visible using the reporting classification filters that are provided. The options displayed for the reporting classification filter can be configured by the users. For more information on how to configure the options, refer to [Create a grouping for metric definitions](../../esg-management-reporting/task/create-a-classification-choice.md).
+When you select a tile, the data on the page is filtered. You can also filter the data that is visible using the reporting classification filters that are provided. The options displayed for the reporting classification filter can be configured by the users. For more information on how to configure the options, refer to [Create a grouping for metric definitions](create-a-classification-choice.md).
 
 The data displayed on this page is always the latest data.
 

@@ -64,7 +64,7 @@ The record controller is the only controller that you can add to a page in Austr
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+** icon in the data resource drawer.
 
@@ -109,7 +109,7 @@ Role required: admin
 
 3.  Create or open a page.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the controller that you want to edit in the **Data and scripts** drawer.
 

@@ -79,5 +79,5 @@ The Zoom external content connector is updated with your modified crawl settings
 
 To retrieve content from your Zoom source system using your modified crawl settings, create and run a one-time content crawl for your Zoom external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Zoom external content connector](../concept/zoom-external-content-connector.md)
+**Parent Topic:**[Zoom external content connector](zoom-external-content-connector.md)
 

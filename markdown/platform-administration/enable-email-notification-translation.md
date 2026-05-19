@@ -43,7 +43,7 @@ You must activate the Glide Notification Translation \(com.glide.notification.tr
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Dynamic translation](../concept/dynamic-translation.md)
+**Parent Topic:**[Dynamic translation](dynamic-translation.md)
 
 **Related topics**  
 

@@ -44,7 +44,7 @@ Add a risk event consequence to the consequence library to help with risk analys
 
 The risk event consequence is added to the library.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 
 **Related topics**  
 

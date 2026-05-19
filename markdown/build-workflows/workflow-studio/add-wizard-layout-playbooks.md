@@ -60,5 +60,5 @@ End users see the playbook displayed as a guided wizard, with clear step-by-step
 -   Refine step labels or layout configuration based on feedback.
 -   Reuse the wizard layout pattern for other multi-step playbooks.
 
-**Parent Topic:**[Wizard layouts for playbooks](../concept/wizard-layouts-playbooks.md)
+**Parent Topic:**[Wizard layouts for playbooks](wizard-layouts-playbooks.md)
 

@@ -33,5 +33,5 @@ You must configure the method before using it. To configure, do the following st
     |Result \(String\)|Returns the output of the Execute method execution.|Not applicable|
 
 
-**Parent Topic:**[VB.Net](../concept/vb-net.md)
+**Parent Topic:**[VB.Net](vb-net.md)
 

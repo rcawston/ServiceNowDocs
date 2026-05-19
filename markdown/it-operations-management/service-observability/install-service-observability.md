@@ -31,7 +31,7 @@ The following items are installed with Service Observability:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Service Observability](../reference/components-installed-with-service-observability.md).
+For more information, see [Components installed with Service Observability](components-installed-with-service-observability.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Service Observability](../r
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Service Observability](../concept/configuring-service-observability.md)
+**Parent Topic:**[Configuring Service Observability](configuring-service-observability.md)
 

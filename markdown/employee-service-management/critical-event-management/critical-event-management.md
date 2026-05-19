@@ -31,7 +31,7 @@ The ServiceNow® Critical Event Management \(CEM\) application enables streamlin
 
 </td></tr><tr><td>
 
-[Sending notifications during a critical event](../task/notify-impacted-people.md)![](../../../reuse/icons/brand-icons/bus-email.svg)Send critical event notification to impacted people and on-site responders.
+[Sending notifications during a critical event](notify-impacted-people.md)![](../../../reuse/icons/brand-icons/bus-email.svg)Send critical event notification to impacted people and on-site responders.
 
 </td><td>
 

@@ -21,7 +21,7 @@ Role required: learning\_admin
 
 Activating the Learning Core \(sn\_lc\) plugin automatically enables the following plugins:
 
--   [Enterprise Service Management Integrations Framework](../concept/hr-integrations-framework.md)
+-   [Enterprise Service Management Integrations Framework](../hr-service-delivery/hr-integrations-framework.md)
 
 The following plugins are not active by default, and you must install them to use them with Learning Core.
 
@@ -106,7 +106,7 @@ Integrate your SuccessFactors Learning application with your ServiceNow instance
 
     For more information, see [Configure a learning system](create-source-ln.md).
 
-    **Note:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, and Udemy applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services. For more information, see [Sources for Learning Core](../reference/source-lnpst.md).
+    **Note:** Once you set up the Learning Core application, the source record for Cornerstone OnDemand, Pluralsight, and Udemy applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services. For more information, see [Sources for Learning Core](source-lnpst.md).
 
 4.  Refresh the entire third-party content or synchronize new and updated service content into your ServiceNow instance.
 
@@ -215,12 +215,12 @@ SuccessFactors Learning spoke
 
 To integrate Learning Core with a new third-party learning system, follow the instructions in [Create a source for a learning system](set-up-int-lc.md).
 
--   **[Sources for Learning Core](../reference/source-lnpst.md)**  
+-   **[Sources for Learning Core](source-lnpst.md)**  
 Once you set up the Learning Core application, the source record for Cornerstone On Demand, Pluralsight, Udemy, Sumtotal, and Saba applications are automatically created in the Source module in Enterprise Service Management Integrations Framework. The source records in the Enterprise Service Management Integrations Framework application contain a predefined set of properties and integration services.
 -   **[Activate Learning Core flows](flows-lp.md)**  
 Activate the flows that run on a schedule basis to pull learning course items from the Cornerstone OnDemand, Udemy, Pluralsight, Sumtotal, and Saba applications into the ServiceNow application.
 
-**Parent Topic:**[Configuring Learning Core](../concept/configuring-learning-core.md)
+**Parent Topic:**[Configuring Learning Core](configuring-learning-core.md)
 
 **Related topics**  
 

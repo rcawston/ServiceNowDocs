@@ -33,27 +33,27 @@ To link a contract as a parent, the following conditions must be met:
 **Related topics**  
 
 
-[Non-disclosure agreement requests](snlc-request-nda-1.md)
+[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 
-[Third-party contract review requests](snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 
 [Contract amendments](snlc-amend-req-landing.md)
 
-[Internal review overview](../task/snlc-expert-review.md)
+[Internal review overview](snlc-expert-review.md)
 
-[Cancel a legal request](../task/snlc-cancel-request-tpc.md)
+[Cancel a legal request](snlc-cancel-request-tpc.md)
 
-[View and download a signed contract document](../task/snlc-preview-contract.md)
+[View and download a signed contract document](snlc-preview-contract.md)
 
-[View contract requests](../task/snlc-view-contract-requests.md)
+[View contract requests](snlc-view-contract-requests.md)
 
 [Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 
-[Link parent contract requests](../../contract-mgmt-pro/task/cmpro-link-parent-cmr.md)
+[Link parent contract requests](../contract-management-pro/cmpro-link-parent-cmr.md)
 
-[Link and inherit parent contract fields](../../contract-mgmt-pro/task/cmpro-link-inhrt-prnt-flds.md)
+[Link and inherit parent contract fields](../contract-management-pro/cmpro-link-inhrt-prnt-flds.md)
 
-[Remove a linked contract](../../contract-mgmt-pro/task/cmpro-remove-linked-cntr.md)
+[Remove a linked contract](../contract-management-pro/cmpro-remove-linked-cntr.md)
 
-[Configure field mapping for parent-child contract linking](../../contract-mgmt-pro/task/cncor-conf-parent-child.md)
+[Configure field mapping for parent-child contract linking](../contract-management-pro/cncor-conf-parent-child.md)
 

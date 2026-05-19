@@ -53,7 +53,7 @@ Role required: assessment\_admin or admin
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 
 [Create a quiz](t_CreateaQuiz.md)
 

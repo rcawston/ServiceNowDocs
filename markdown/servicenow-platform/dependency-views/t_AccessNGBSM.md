@@ -45,7 +45,7 @@ Administrators can configure the setting for the default layout of the map and n
         Click a number in the **Version** column, and then click the Display Dependency Views map icon \(![Display Dependency Views map.](../image/IconBSMMap.png)\).
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

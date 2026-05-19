@@ -50,7 +50,7 @@ You can add any Platform Analytics dashboard to Strategic Planning Workspace.
 
 The dashboard appears in the Strategic Planning Workspace.
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](using-dashboards-spw.md)
 
 **Related topics**  
 

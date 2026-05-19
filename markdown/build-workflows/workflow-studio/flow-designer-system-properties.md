@@ -36,7 +36,7 @@ The maximum number of records to return when fetching datasn\_flow\_designer.act
 Specify the maximum number of records a look up action or step can return. Workflow Studio ignores records that exceed this limit. -   Type: integer
 -   Default value: 1000
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Architecture Overview](../concept/flow-designer-arch-overview.md)
+-   More information: [Architecture Overview](flow-designer-arch-overview.md)
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ The log level determines what if any log messages are added to the sys\_flow\_lo
 -   Type: choice
 -   Default value: WARN
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Flow execution details](../concept/flow-execution-details.md)
+-   More information: [Flow execution details](flow-execution-details.md)
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ The log level determines what if any log messages are added to the sys\_flow\_lo
 -   Type: choice
 -   Default value: WARN
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Ask for Approval action](ask-approval-flow-designer.md) and [Flow execution details](../concept/flow-execution-details.md)
+-   More information: [Ask for Approval action](ask-approval-flow-designer.md) and [Flow execution details](flow-execution-details.md)
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ The maximum number of iterations that a loop will run in Workflow Studio.sn\_flo
 Specify the maximum number of times that a loop can run before being stopped. A loop stops running when it iterates beyond this value, preventing infinite loops. This property only applies to Do the following until and Go back to flow logic.-   Type: integer
 -   Default value: 1000
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Architecture Overview](../concept/flow-designer-arch-overview.md)
+-   More information: [Architecture Overview](flow-designer-arch-overview.md)
 
  **Note:** Changing this value doesn’t apply to flows that are already running.
 
@@ -155,7 +155,7 @@ The maximum number of records to return when fetching datasn\_flow\_designer.tri
 Specify the maximum number of records a look up triggers query can return. Workflow Studio ignores triggers that exceed this limit. -   Type: integer
 -   Default value: 1000
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Create a saved record-based trigger](../task/create-saved-trigger.md)
+-   More information: [Create a saved record-based trigger](../build-workflows/create-saved-trigger.md)
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Allow the option for select users to write a script to populate the value of an 
 Control permission to write inline scripts to compute input values.-   Type: true \| false
 -   Default value: true
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Inline scripts](../concept/inline-scripts.md)
+-   More information: [Inline scripts](inline-scripts.md)
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Set to True to show duration in the stage columncom.glide.hub.flow\_engine.stage
 Specify whether flows with stages display a duration.-   Type: true \| false
 -   Default value: true
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Flow and subflow stages](../concept/flow-designer-stages.md)
+-   More information: [Flow and subflow stages](flow-designer-stages.md)
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Number of times that a flow or subflow can be indirectly triggered during a tran
 Specify the maximum number of times a flow or subflow permits indirect recursion. Workflow Studio ignores all further calls or trigger condition matches from indirect recursion after the limit has been reached. Set the value to any integer equal to or greater than one. The system ignores any property value less than one and instead uses a limit of one. Set the value to one to prevent all indirect recursion.-   Type: integer
 -   Default value: 3
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Architecture Overview](../concept/flow-designer-arch-overview.md)
+-   More information: [Architecture Overview](flow-designer-arch-overview.md)
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ The maximum number of actions allowed on a flow.sn\_flow\_designer.max\_actions
 Specify the maximum number of actions a flow or subflow can contain. Workflow Studio prevents you from adding further actions after the maximum number of actions has been reached. Consider the performance impact raising the maximum number of actions may have. For example, running more actions may conflict with the default transaction quota rule that prevents flows from running longer than an hour.-   Type: integer
 -   Default value: 50
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Architecture Overview](../concept/flow-designer-arch-overview.md)
+-   More information: [Architecture Overview](flow-designer-arch-overview.md)
 
 </td></tr><tr><td>
 
@@ -210,7 +210,7 @@ The maximum number of allowed steps on an action. sn\_flow\_designer.max\_action
 Specify the maximum number of steps that an action can contain. Workflow Studio prevents you from adding further steps after the maximum number of steps has been reached. Consider the performance impact raising the maximum number of steps may have. For example, running more steps may conflict with the default transaction quota rule that prevents flows from running longer than an hour.-   Type: integer
 -   Default value: 20
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Architecture Overview](../concept/flow-designer-arch-overview.md)
+-   More information: [Architecture Overview](flow-designer-arch-overview.md)
 
 </td></tr><tr><td>
 
@@ -246,7 +246,7 @@ The system generates configuration and runtime execution details for each flow, 
 -   Type: choice
 -   Default value: Off
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Flow execution details](../concept/flow-execution-details.md)
+-   More information: [Flow execution details](flow-execution-details.md)
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Replace previous autosave history with latest as long as it was within the last 
 Specify the number of minutes to overwrite autosave history entries that are generated by the same user. All autosave history entries generated by the same user during this interval are saved as one history entry. During this interval, the most recent autosave history entry overwrites the previous autosave history entry. Consider the performance impact that changing the autosave history interval may have. For example, setting the autosave interval to its minimum value of 1 minute may result in generating so many history records that you hit the history limit, and start overwriting older history records.-   Type: integer
 -   Default value: 60
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Flow history](../concept/flow-history.md) or [Subflow history](../concept/subflow-history.md)
+-   More information: [Flow history](flow-history.md) or [Subflow history](subflow-history.md)
 
 </td></tr><tr><td>
 
@@ -272,7 +272,7 @@ Maximum number of flow history records \(Limit: 200\).
 Specify the maximum number of flow history entries to store per flow or subflow. This property has a minimum value of 30 and a maximum value of 200. When the number of flow history records exceeds the limit, then the newest flow history entry overwrites the oldest flow history record. Consider the performance impact that changing the number of flow history records may have. For example, setting the limit to its maximum value of 200 may produce a delay in rendering flow history records.-   Type: integer
 -   Default value: 100
 -   Location: **Process Automation** &gt; **Properties**
--   More information: [Flow history](../concept/flow-history.md) or [Subflow history](../concept/subflow-history.md)
+-   More information: [Flow history](flow-history.md) or [Subflow history](subflow-history.md)
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Truncate runtime values in the flow execution details step configuration
 Specify the number of bytes the system has to write runtime values to the flow execution details. To prevent truncation of runtime values, set the value to an integer equal to or less than zero. Preventing truncation of runtime values requires additional system resources and may impact system performance.-   Type: integer
 -   Default value: 16384
 -   Location: System Properties \[sys\_properties\] table
--   More information: [Flow execution details](../concept/flow-execution-details.md)
+-   More information: [Flow execution details](flow-execution-details.md)
 
 </td></tr><tr><td>
 
@@ -390,7 +390,7 @@ com.glide.hub.pause\_low\_priority\_flows\_enabled
 Enable or disable the pausing of low-priority flows when there are high-priority flows waiting to run.-   Type: true \| false
 -   Default value: true
 -   Location: System Properties \[sys\_properties\] table
--   More information: [Flow priority](../concept/flow-priority.md)
+-   More information: [Flow priority](flow-priority.md)
 
 </td></tr><tr><td>
 
@@ -401,7 +401,7 @@ com.glide.hub.flow\_engine.stage\_display.show\_approvers
 Show or hide the list of approvers assigned to a stage from a stage field. Set the value to true to show the list of approvers assigned to a stage. Set the value to false to hide the list of approvers assigned to a stage.-   Type: true \| false
 -   Default value: true
 -   Location: Add to the System Properties \[sys\_properties\] table
--   More information: [Flow and subflow stages](../concept/flow-designer-stages.md)
+-   More information: [Flow and subflow stages](flow-designer-stages.md)
 
 </td></tr><tr><td>
 
@@ -412,7 +412,7 @@ com.glide.hub.flow\_engine.stage\_display.show\_approvers\_limit
 Specify the maximum number of approvers to display in a stage field as an integer value. Setting this value above 10 risks causing rendering errors in a list view. The stage field for one record can become so big that the list cannot display additional records in the list.-   Type: integer
 -   Default value: 5
 -   Location: Add to the System Properties \[sys\_properties\] table
--   More information: [Flow and subflow stages](../concept/flow-designer-stages.md)
+-   More information: [Flow and subflow stages](flow-designer-stages.md)
 
 </td></tr><tr><td>
 
@@ -430,7 +430,7 @@ Specify the status to apply to the currently running stage when the flow is canc
  -   Type: string
 -   Default value: complete
 -   Location: Add to the System Properties \[sys\_properties\] table
--   More information: [Flow and subflow stages](../concept/flow-designer-stages.md)
+-   More information: [Flow and subflow stages](flow-designer-stages.md)
 
 </td></tr><tr><td>
 
@@ -551,12 +551,12 @@ com.glide.oneapi.fdih.async.quick.mode
 
 The option to generate flow execution details when running skills. When false, flows, subflows, and actions that are run from a custom skill generate flow execution details. When true, the flow, subflow, or action runs in quick mode, which doesn't produce flow execution details.
 
- Enable flow execution details when testing running a flow, subflow, or action from a custom skill. Since flow reporting is off by default, you must either turn flow reporting on for all flows, or create a flow execution settings record for a specific flow, subflow, or action. For more information about flow reporting options, see [Activate flow reporting](../task/enable-flow-reporting.md#).
+ Enable flow execution details when testing running a flow, subflow, or action from a custom skill. Since flow reporting is off by default, you must either turn flow reporting on for all flows, or create a flow execution settings record for a specific flow, subflow, or action. For more information about flow reporting options, see [Activate flow reporting](enable-flow-reporting.md#).
 
 -   Type: true \| false
 -   Default value: true
 -   Location: Add to the System Properties \[sys\_properties\] table
--   More information: [Activate flow reporting](../task/enable-flow-reporting.md#)
+-   More information: [Activate flow reporting](enable-flow-reporting.md#)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Flows, subflows, and actions reference](flow-designer-reference.md)

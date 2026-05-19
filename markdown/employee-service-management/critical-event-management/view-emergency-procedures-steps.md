@@ -32,6 +32,6 @@ Role required: sn\_critical.user
     -   To view what to do in case of an emergency at your organization, select the Emergency Plan page.
     -   To view who to contact in case of an emergency, select the Emergency Contacts page.
     -   To view when and how to submit an emergency request, select the Emergency submission guidelines page.
-    For more information on the types of emergency procedures, see [Employee portal](../concept/employee-center-portal-overview.md).
+    For more information on the types of emergency procedures, see [Employee portal](employee-center-portal-overview.md).
 
 

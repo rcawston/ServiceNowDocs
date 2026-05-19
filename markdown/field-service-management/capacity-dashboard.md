@@ -201,5 +201,5 @@ Reference
 Filter the results based on a selected demand channel and other filter selections such as Territory, Frequency, Capacity By etc.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+</table>**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
 

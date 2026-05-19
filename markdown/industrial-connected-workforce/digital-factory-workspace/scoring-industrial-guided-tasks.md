@@ -58,5 +58,5 @@ When normalization is enabled:
 **Related topics**  
 
 
-[Configure scoring and automation in Industrial Guided Tasks](../task/configure-scoring-automation-igt.md)
+[Configure scoring and automation in Industrial Guided Tasks](configure-scoring-automation-igt.md)
 

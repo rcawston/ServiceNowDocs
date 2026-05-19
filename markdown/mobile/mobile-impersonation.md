@@ -13,7 +13,7 @@ breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
 
 Use mobile impersonation to impersonate authenticated users for testing purposes and view impersonation logs.
 
-For instructions to enable and disable this feature, see [Enable or disable impersonation in mobile apps](../task/mobile-impersonate-2.md).
+For instructions to enable and disable this feature, see [Enable or disable impersonation in mobile apps](mobile-impersonate-2.md).
 
 <table id="table_bl4_qlf_14b"><tbody><tr><td>
 
@@ -36,6 +36,6 @@ In addition to the limitations listed in [Impersonate a user](https://raw.github
 -   Offline mode.
 -   Security PIN
 
--   **[Enable or disable impersonation in mobile apps](../task/mobile-impersonate-2.md)**  
+-   **[Enable or disable impersonation in mobile apps](mobile-impersonate-2.md)**  
 Learn how to enable or disable impersonation in your ServiceNow mobile apps.
 

@@ -79,5 +79,5 @@ You can configure the information which is displayed in row 2 and row3 on a card
     The parameter is added or updated for the selected state. It appears under selected section in row 3 on the project cards for the state it was added.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

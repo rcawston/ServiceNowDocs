@@ -46,5 +46,5 @@ The multiplier is a number that controls how wide or narrow the acceptable range
 
 Any metric values falling outside the configured bounds are tagged as anomalies.
 
-The number of standard deviations \(2, 3, and 5\) is set by default. For details on customizing these values, see [Sensitivity bounds properties for Insights Explorer metrics](../reference/metric-bounds-properties.md).
+The number of standard deviations \(2, 3, and 5\) is set by default. For details on customizing these values, see [Sensitivity bounds properties for Insights Explorer metrics](metric-bounds-properties.md).
 

@@ -56,7 +56,7 @@ Role required: sn\_apm.apm\_user
 
 The record version is deleted. On deleting a particular version of an architectural artifact, the details of the previous version of the architectural artifact are displayed by default.
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

@@ -21,7 +21,7 @@ Role required: analytics\_admin
 
 ## About this task
 
-This task details how to set the various tracking consent policy options you have in the Usage Insights Consent Policies page. You have an option to return the policies to the default values. By default, all countries are set to No Consent Required. For a detailed explanation about the types of consent policies available, see [Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md).
+This task details how to set the various tracking consent policy options you have in the Usage Insights Consent Policies page. You have an option to return the policies to the default values. By default, all countries are set to No Consent Required. For a detailed explanation about the types of consent policies available, see [Types of tracking consent policies in Usage Insights](uxa-tracking-types.md).
 
 ## Procedure
 
@@ -76,5 +76,5 @@ Procedure
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md)
+**Parent Topic:**[Types of tracking consent policies in Usage Insights](uxa-tracking-types.md)
 

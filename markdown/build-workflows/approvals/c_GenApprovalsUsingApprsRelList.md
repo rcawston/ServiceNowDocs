@@ -20,5 +20,5 @@ Additional approvers can be added by clicking the **Edit** button in the Approve
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](r_Approvals.md)
 

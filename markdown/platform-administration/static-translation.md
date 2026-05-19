@@ -15,7 +15,7 @@ Using static translation, you can customize email notifications for recipients a
 
 ## About static translation for email notifications
 
-Author localized content for the various content fields on notifications, email templates, and email layout forms using static translation after activating the [translation plugin](../task/activate-translation-plugin.md).
+Author localized content for the various content fields on notifications, email templates, and email layout forms using static translation after activating the [translation plugin](activate-translation-plugin.md).
 
 For static translation, the translation request goes to a translator. The translator provides translations for notification content in different languages.
 
@@ -36,15 +36,15 @@ Not all of the fields on the notification forms are translatable.
 
 ## Localization Framework
 
-Use the [Localization Framework settings](../../localization-framework/concept/localization-settings.md) to request translations for the following artifact configurations:
+Use the [Localization Framework settings](localization-framework/localization-settings.md) to request translations for the following artifact configurations:
 
 -   Email Layout Configuration
 -   Email Notification Configuration
 -   Email Template Configuration
 
--   **[Enable static translation](../task/enable-static-translation.md)**  
+-   **[Enable static translation](enable-static-translation.md)**  
 Enable static translation of notifications for the global application.
--   **[Request a translation for an email notification, template or layout](../task/request-translation-and-send-email-notification.md)**  
+-   **[Request a translation for an email notification, template or layout](request-translation-and-send-email-notification.md)**  
 Request a translation to send an email in the recipient’s preferred language.
 
 **Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
@@ -54,5 +54,5 @@ Request a translation to send an email in the recipient’s preferred language.
 
 [Dynamic translation](dynamic-translation.md)
 
-[Request a translation for an email notification, template or layout](../task/request-translation-and-send-email-notification.md)
+[Request a translation for an email notification, template or layout](request-translation-and-send-email-notification.md)
 

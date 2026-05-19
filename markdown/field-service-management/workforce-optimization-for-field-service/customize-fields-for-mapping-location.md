@@ -43,7 +43,7 @@ The location table and records will be updated as per the customized location.
 **Related topics**  
 
 
-[Field Service with Service Locations Support components](../concept/service-locations-components.md)
+[Field Service with Service Locations Support components](../service-locations-components.md)
 
-[Assign ad-hoc Service Locations](../concept/field-service-with-service-locations.md)
+[Assign ad-hoc Service Locations](../work-order-management/field-service-with-service-locations.md)
 

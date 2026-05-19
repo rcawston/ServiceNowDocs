@@ -17,7 +17,7 @@ This section describes how the related lists are grouped and presented on the SI
 
 The workspace users can search the related list by name as well. For more information about configuring related lists, see [SIR Workspace Related Records](sir-records.md#).
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -26,7 +26,7 @@ The workspace users can search the related list by name as well. For more inform
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Configure Shift Handover](config-shift-handover.md)
 
@@ -40,5 +40,5 @@ The workspace users can search the related list by name as well. For more inform
 
 [View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

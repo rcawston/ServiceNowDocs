@@ -67,9 +67,9 @@ For information on HR Integrations support and troubleshooting, see the [HR Inte
 
 ## Activation information
 
-HR Integrations is automatically activated when you activate Case and Knowledge Management. If it is not activated, you can manually activate HR Integrations. For information on what components are installed with the application, see [Components installed with HR Integrations](../reference/components-installed-with-hr-integrations.md).
+HR Integrations is automatically activated when you activate Case and Knowledge Management. If it is not activated, you can manually activate HR Integrations. For information on what components are installed with the application, see [Components installed with HR Integrations](components-installed-with-hr-integrations.md).
 
--   **[Activate HR Integrations](../task/activate-hr-integrations.md)**  
+-   **[Activate HR Integrations](activate-hr-integrations.md)**  
 You can activate Human Resources Scoped App: Integrations \[com.sn\_hr\_integrations\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 -   **[Integrating with the First Advantage service](hr-integrations-with-first-advantage.md)**  
 The preconfigured First Advantage integration uses SOAP services to request background checks through the First Advantage service. You can use the preconfigured integration as-is or customize it to meet your needs.

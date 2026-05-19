@@ -29,7 +29,7 @@ Administrators can enable TF-IDF scoring on a table to improve search results. T
 
 ## Procedure
 
-1.  Navigate to the [system dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md) and open the entry for the desired table.
+1.  Navigate to the [system dictionary](../table-administration-and-data-management/c_SystemDictionary.md) and open the entry for the desired table.
 
 2.  In the **Attributes** related list, select **New**.
 
@@ -52,7 +52,7 @@ Administrators can enable TF-IDF scoring on a table to improve search results. T
 9.  Configure the desired notification and select **OK**.
 
 
-**Parent Topic:**[Zing computes document scores using three components](../concept/c_DocumentScoring.md)
+**Parent Topic:**[Zing computes document scores using three components](c_DocumentScoring.md)
 
 **Related topics**  
 

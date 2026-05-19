@@ -53,5 +53,5 @@ You can monitor approval plans to understand how the overall approval process is
 
 Use the related lists of the approval plan form to view the approval plan details and approvers associated with this approval plan.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

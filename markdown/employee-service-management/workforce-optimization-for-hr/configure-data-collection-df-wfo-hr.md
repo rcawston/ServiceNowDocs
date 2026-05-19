@@ -29,7 +29,7 @@ Role required: sn\_hr\_wfo.admin
 
     1.  Click **Data Collection Definitions**.
 
-        See the [Components installed with Workforce Optimization for HR](../reference/wfo-hr-reference.md#) for the list of configurations that are available by default.
+        See the [Components installed with Workforce Optimization for HR](wfo-hr-reference.md#) for the list of configurations that are available by default.
 
     2.  Click **New**.
     3.  On the form, fill in the fields:
@@ -52,5 +52,5 @@ Configure the resource conversion formula.
 -   **[Group forecast configuration](group-forecase-configuration-wfo-hr.md)**  
 Associate an assignment group with a Resource Conversion Formula. You can assign a forecast configuration to multiple assignment groups, but an assignment group can have only one forecast configuration.
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](../concept/setup-demand-forecast-wfo-hr.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for HR](setup-demand-forecast-wfo-hr.md)
 

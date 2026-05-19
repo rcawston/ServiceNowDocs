@@ -125,5 +125,5 @@ Provides filtering and condition statements to help narrow your search for asset
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Facilities move requests](../concept/c_FacMoveRequests.md)
+**Parent Topic:**[Facilities move requests](c_FacMoveRequests.md)
 

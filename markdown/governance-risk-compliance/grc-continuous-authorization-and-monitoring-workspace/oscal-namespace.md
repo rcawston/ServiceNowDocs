@@ -72,7 +72,7 @@ For distinct records \(reference ID does not exist in baseline controls\):
 -   Create new: Adds the new control objective from the selected policy to the Authorization Package.
 -   Skip: Ignores the distinct record; it will not be added to the Authorization Package.
 
-For more information, see [View package details in CAM Workspace](../task/auth-package-overview-ws.md).
+For more information, see [View package details in CAM Workspace](auth-package-overview-ws.md).
 
 </td></tr><tr><td>
 

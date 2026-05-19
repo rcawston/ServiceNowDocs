@@ -77,7 +77,7 @@ Domain separation for Customer Success Management requires the domain separation
 -   Product Usage \(sn\_prod\_cap\_core\_prod\_usage\)
 -   Product Capability Usage \(sn\_prod\_cap\_core\_prod\_cap\_usage\)
 
-**Parent Topic:**[Customer Success Management reference](../reference/account-lifecycle-reference.md)
+**Parent Topic:**[Customer Success Management reference](account-lifecycle-reference.md)
 
 **Related topics**  
 

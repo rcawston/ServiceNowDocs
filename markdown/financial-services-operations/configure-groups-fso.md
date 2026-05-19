@@ -58,7 +58,7 @@ Any rule that is applied to a group is automatically assigned to group members. 
 
     Configure agent connector and contributor roles for the group, if required.
 
-    **Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](../concept/fso-combine-csm-industry-roles.md).
+    **Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 -   Add users to the group.
 -   Associate groups with assignment rules.

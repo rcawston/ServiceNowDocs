@@ -36,7 +36,7 @@ This spoke was built for these UiPath versions, but may be compatible with later
 
 ## Spoke requirements
 
-Ensure that you have UiPath account information before you [Set up the UiPath spoke](../task/conf-alias-uipath.md#).
+Ensure that you have UiPath account information before you [Set up the UiPath spoke](conf-alias-uipath.md#).
 
 -   If you are using the UiPath Cloud Platform:
     -   Token URL
@@ -301,7 +301,7 @@ The UiPath spoke adds the UiPath application to your ServiceNow instance. The Ui
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the UiPath spoke](../task/conf-alias-uipath.md#).
+For information about setting up the spoke, see [Set up the UiPath spoke](conf-alias-uipath.md#).
 
 ## MID Server requirements
 
@@ -309,5 +309,5 @@ These actions use REST calls, which can run on an instance or MID Server. Use th
 
 **Note:** The MID Server users must have the sn\_uipath\_spoke.uipath\_admin role.
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

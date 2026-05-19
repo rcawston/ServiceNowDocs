@@ -48,5 +48,5 @@ When you spend funds allocated to your project to complete your project activiti
 
 The entered amount is updated as actuals for the project.
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

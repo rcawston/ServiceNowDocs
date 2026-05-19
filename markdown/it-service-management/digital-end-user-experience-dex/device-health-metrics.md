@@ -35,9 +35,9 @@ By default, the latest available data is displayed.
 
 A checklist shows basic device and application health metrics. You can display advanced metrics by toggling the **Show additional metrics** option.
 
-**Note:** Metrics displayed in the Device health check list are included in the base system metric list. As a DEX administrator, you can customize the base system metrics. For more information, see [Customize metric definitions](../../dex-score/task/dexscr-customize-dex-score-metric-defs.md).
+**Note:** Metrics displayed in the Device health check list are included in the base system metric list. As a DEX administrator, you can customize the base system metrics. For more information, see [Customize metric definitions](../digital-experience-score/dexscr-customize-dex-score-metric-defs.md).
 
-Selecting **View detailed device health** displays the Device details page. For more information, see [Device details pages](../reference/user-device-details-pages.md).
+Selecting **View detailed device health** displays the Device details page. For more information, see [Device details pages](user-device-details-pages.md).
 
 ## Device metrics
 

@@ -37,7 +37,7 @@ The following table shows how principal classes from HAM model categories are ap
 
 1.  Go to CMDB success advisor landing page, and on the Data Foundations card, select **Edit principal classes** to review automatically marked classes.
 
-    See [Manage Data Foundations advisor scope in CMDB success advisor](../task/cmdb-sa-df-optimize-dashboard.md).
+    See [Manage Data Foundations advisor scope in CMDB success advisor](cmdb-sa-df-optimize-dashboard.md).
 
 2.  Confirm that the marked classes align with your Data Foundations advisor scope. Remove any unwanted classes and add others as needed \(up to 50 principal classes\).
 3.  If CI picker filtering affects users, adjust behavior using the system properties for CMDB success advisor.

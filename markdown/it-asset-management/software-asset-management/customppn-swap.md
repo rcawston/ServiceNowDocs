@@ -21,7 +21,7 @@ Once the Content Service updates are downloaded to your instance, the scheduled 
 
 **Note:** If you have excluded custom PPNs from the Content Service by selecting the **Exclude from content service** option in the Custom Part Number form, then suggestions aren't shown for those custom PPNs.
 
-**Note:** For details on viewing the suggestion records, see [View publisher part number \(PPN\) suggestions in workspace](../task/view-customppn-workspace.md) or [View publisher part number \(PPN\) suggestions in Software Asset Management classic](../task/View-customppn-classic.md).
+**Note:** For details on viewing the suggestion records, see [View publisher part number \(PPN\) suggestions in workspace](view-customppn-workspace.md) or [View publisher part number \(PPN\) suggestions in Software Asset Management classic](View-customppn-classic.md).
 
 You can accept or reject the suggestions. If you accept the suggestion, the custom PPN and DMAP are replaced with the Content Service PPN and DMAP. All changes to entitlements and software models are propagated automatically.
 

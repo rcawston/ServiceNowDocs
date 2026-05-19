@@ -45,7 +45,7 @@ The home page has the following sections that help search administrators underst
     Discover and install applications and plugins to expand the AI Search capabilities in your search application.
 
 
-For more information about the home page and its controls, see [AI Search Admin console Home page](../reference/ais-admin-console-home.md).
+For more information about the home page and its controls, see [AI Search Admin console Home page](ais-admin-console-home.md).
 
 ## AI Search Admin console benefits
 

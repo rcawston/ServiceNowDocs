@@ -41,10 +41,10 @@ For detailed instructions on how to deploy the manifest file, see the [Deploy ad
 
 To configure the HTTP response headers for add-in for Microsoft Word in the browser, see the [Response header resolution \[KB1434453\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1434453) article in the Now Support Knowledge Base.
 
--   **[Reference information for Document designer](../reference/properties-for-document-designer.md)**  
+-   **[Reference information for Document designer](../grc-common-functions/properties-for-document-designer.md)**  
 There are several properties that get installed with the Document designer plugin. These properties help to control the various aspects of how the plugin works.
 
-**Parent Topic:**[Configuring ATO artifacts report templates](../../grc-cam/reference/cam-configure-word-based-template.md)
+**Parent Topic:**[Configuring ATO artifacts report templates](cam-configure-word-based-template.md)
 
 **Parent Topic:**[../concept/document-designer-template.md](../concept/document-designer-template.md)
 

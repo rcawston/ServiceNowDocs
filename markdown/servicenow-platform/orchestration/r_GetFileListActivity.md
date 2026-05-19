@@ -31,7 +31,7 @@ The Get File List activity returns a list of files from a given directory and it
 
 |Variable|Description|
 |--------|-----------|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed. An activity can examine the error message to customize a condition. For example, if the error message contains **NO\_SUCH\_FILE**, the activity can be considered successful, depending on circumstances.|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#). If this variable is not null, the operation has failed. An activity can examine the error message to customize a condition. For example, if the error message contains **NO\_SUCH\_FILE**, the activity can be considered successful, depending on circumstances.|
 |result|List of requested files, returned as a JSON string.|
 
 ## Conditions
@@ -41,5 +41,5 @@ The Get File List activity returns a list of files from a given directory and it
 |Success|The activity succeeded in listing the requested files.|
 |Failure|The activity failed to list the requested files.|
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](c_OrchestrationSFTPActivityPack.md)
 

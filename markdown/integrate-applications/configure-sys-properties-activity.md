@@ -139,7 +139,7 @@ name,value,is\_sensitive
 **Related topics**  
 
 
-[Robots in RPA Hub](../concept/robots-rpa-hub.md)
+[Robots in RPA Hub](robots-rpa-hub.md)
 
-[Configuring a bot process record in RPA Hub](../concept/create-botprocess.md)
+[Configuring a bot process record in RPA Hub](create-botprocess.md)
 

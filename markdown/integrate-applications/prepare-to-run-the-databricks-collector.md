@@ -28,7 +28,7 @@ Role required: admin
     For detailed instructions, see [Configure permissions](prepare-to-run-the-databricks-collector.md#).
 
 
-**Parent Topic:**[Databricks metadata collector](../concept/databricks-metadata-collector.md)
+**Parent Topic:**[Databricks metadata collector](databricks-metadata-collector.md)
 
 ## Generate credentials
 

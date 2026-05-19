@@ -83,7 +83,7 @@ All existing controls are termed as standard controls. You can convert a standar
 
         The association of the entity type as reliant to the common control creates a record in the Item to entity type \[sn\_grc\_m2m\_item\_entity\_type\] table.
 
-        **Note:** For more information on the m2m tables that store the records of entity and common control association, see [Tables installed with Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#table_qlq_g3m_vs).
+        **Note:** For more information on the m2m tables that store the records of entity and common control association, see [Tables installed with Policy and Compliance Management](../policy-and-compliance-management/r_InstallWPolAndCompl.md#table_qlq_g3m_vs).
 
         The advantage of using Reliant entity types is that even if you update the entity type later by adding more entities to it, after it is associated to a common control, then those added entities get automatically associated as reliant entities.
 
@@ -91,7 +91,7 @@ All existing controls are termed as standard controls. You can convert a standar
 
 9.  To add a risk to the control, select the Risks related list and click the **Add from reliant entities** button.
 
-    Based on the reliant entities' association with risks, you can associate the common control with risks. For more information, see [Common controls in Risk Management](../../grc-workspace-risk/concept/shared-common-controls-in-risk-management.md).
+    Based on the reliant entities' association with risks, you can associate the common control with risks. For more information, see [Common controls in Risk Management](../grc-risk-management-workspace/shared-common-controls-in-risk-management.md).
 
 10. To view the reliant entities associated to the control, click the **360º view** button from the control record.
 
@@ -100,5 +100,5 @@ All existing controls are termed as standard controls. You can convert a standar
 
 ## Result
 
-Associating reliant entities to a common control has an [impact on compliance scoring](../concept/compliance-score-common-control.md).
+Associating reliant entities to a common control has an [impact on compliance scoring](compliance-score-common-control.md).
 

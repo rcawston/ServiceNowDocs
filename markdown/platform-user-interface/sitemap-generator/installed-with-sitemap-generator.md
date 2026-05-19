@@ -73,5 +73,5 @@ UX Sitemap Definition
 Definitions that specify the content to include in a sitemap.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Sitemap Generator](../task/activate-sitemap-generator.md)
+</table>**Parent Topic:**[Activate Sitemap Generator](activate-sitemap-generator.md)
 

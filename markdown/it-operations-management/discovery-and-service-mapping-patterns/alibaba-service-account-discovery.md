@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Alibaba - Service Account Valida
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md).
+Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -102,5 +102,5 @@ The Alibaba - Service Account Validation pattern collects tags and populates the
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\] table.|
 
-**Parent Topic:**[Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md)
+**Parent Topic:**[Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md)
 

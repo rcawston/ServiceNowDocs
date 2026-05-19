@@ -33,13 +33,13 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
 -   **Navigation bar**
 
-    Each mobile app config has a navigation bar that appears at the bottom of the screen. A navigation bar can have up to five icons, called navigation bar tabs. By default, navigation bars have a notification and settings navigation bar tab. For information about how to create a navigation bar, see [Configure the navigation bar and navigation tabs](../task/config-sg-application-menu.md).
+    Each mobile app config has a navigation bar that appears at the bottom of the screen. A navigation bar can have up to five icons, called navigation bar tabs. By default, navigation bars have a notification and settings navigation bar tab. For information about how to create a navigation bar, see [Configure the navigation bar and navigation tabs](config-sg-application-menu.md).
 
 -   **Navigation bar tabs**
 
     Each tab in the navigation bar represents a screen or launcher screen. When you add more than five tabs to the navigation bar, a **More** tab appears. Tapping the **More** tab opens a list view showing additional tabs.
 
-    For information on how to create navigation bar tabs, see [Configure the navigation bar and navigation tabs](../task/config-sg-application-menu.md).
+    For information on how to create navigation bar tabs, see [Configure the navigation bar and navigation tabs](config-sg-application-menu.md).
 
 -   **Launcher screens**
 
@@ -68,7 +68,7 @@ This image represents the structure of the ServiceNow mobile framework. The next
 
     Icon records are located on the Icons \[sys\_sg\_icon\] table.
 
-    For more information on icons, see [Mobile icons](../reference/sg-mobile-icon.md).
+    For more information on icons, see [Mobile icons](sg-mobile-icon.md).
 
 -   **Item streams**
 

@@ -147,7 +147,7 @@ After the PR has been updated, the request to edit a PR is automatically closed.
 
 The request updates the purchase requisition or line item with revised quantity or location. A new card of revision type is also created for the shopper and approvers to communicate on, which can be viewed by the shopper from **My purchases**.
 
-**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](../concept/work-playbooks-spo.md)
+**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
 
 **Related topics**  
 
@@ -160,21 +160,21 @@ The request updates the purchase requisition or line item with revised quantity 
 
 [Process an edit receipt request in playbook](playbook-process-edit-receipt.md)
 
-[Fulfilling request for copy of contract in playbook](../concept/fulfilling-request-for-contract.md)
+[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
 
-[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+[Routing NDAs to suppliers](routing-ndas-to-suppliers.md)
 
-[Verifying delivery addresses in playbook](../concept/delivery-address-in-playbook.md)
+[Verifying delivery addresses in playbook](delivery-address-in-playbook.md)
 
-[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+[Reviewing and updating general ledger details in playbook](general-ledger-details-in-playbook.md)
 
-[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 
-[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+[Streamlining the supplier risk assessment workflow](simplify-risk-assessment-wf.md)
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](purchase-revision-flows.md)
 
-[Purchase revision roles and responsibilities](../concept/purchase-revision-flows-roles.md)
+[Purchase revision roles and responsibilities](purchase-revision-flows-roles.md)
 
 [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
 

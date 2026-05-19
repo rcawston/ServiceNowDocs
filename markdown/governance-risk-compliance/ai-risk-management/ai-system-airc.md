@@ -25,7 +25,7 @@ The following image shows the overview page of an AI system.
 
 ![AI system overview page](../image/ai-system-overview-page.png "AI system overview page")
 
-An AI system record provides an aggregated risk score. The individual risk scores for entities that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md).
+An AI system record provides an aggregated risk score. The individual risk scores for entities that have Risk assessment for AI inventory as the Risk Assessment Methodology \(RAM\) roll-up and form an aggregated risk score. You can see the aggregated risk score under the Details tab of the AI system record in the **Aggregated risk score** section. For more information about how risk score is rolled up, see [Risk score rollup in Advanced Risk Assessment](../grc-risk-management-workspace/risk-rollup-ara-concept.md).
 
 **Important:** To see the aggregated risk score, you must enable the **Migrate to Advanced Risk Assessments** \(`sn_risk_advanced.migrate_to_advanced_risk`\) under **All** &gt; **Advanced Risk** &gt; **Properties**.
 
@@ -47,9 +47,9 @@ The Related AI assets section lists the following for an AI system:
 **Related topics**  
 
 
-[Request an AI use case](../task/request-ai-system.md)
+[Request an AI use case](request-ai-system.md)
 
-[Request an AI model](../task/request-ai-model.md)
+[Request an AI model](request-ai-model.md)
 
-[Request a dataset](../task/request-dataset.md)
+[Request a dataset](request-dataset.md)
 

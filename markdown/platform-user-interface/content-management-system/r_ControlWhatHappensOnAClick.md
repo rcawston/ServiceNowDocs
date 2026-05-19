@@ -44,12 +44,12 @@ A gauge target page is a separate CMS page that is used to display the drill-thr
     A gauge target page is a normal CMS page, with one special requirement. Somewhere on that page, there must be a **Gauge Target block**. This market block tells the system where to output the drill through data.
 
 
-**Parent Topic:**[CMS gauge support](../concept/c_CMSGaugeSupport.md)
+**Parent Topic:**[CMS gauge support](c_CMSGaugeSupport.md)
 
 **Related topics**  
 
 
-[CMS gauge support](../concept/c_CMSGaugeSupport.md)
+[CMS gauge support](c_CMSGaugeSupport.md)
 
-[Put a gauge on a CMS page](../task/t_PutAGaugeOnACMSPage.md)
+[Put a gauge on a CMS page](t_PutAGaugeOnACMSPage.md)
 

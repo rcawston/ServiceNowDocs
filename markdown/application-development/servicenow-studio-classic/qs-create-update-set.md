@@ -21,7 +21,7 @@ Role required: admin or delegated\_developer
 
 ## About this task
 
-Create an update set without leaving ServiceNow Studio. For more information about update sets on the ServiceNow AI Platform, see [General guidelines for planning the update process](../../system-update-sets/reference/get-started-update-sets.md).
+Create an update set without leaving ServiceNow Studio. For more information about update sets on the ServiceNow AI Platform, see [General guidelines for planning the update process](../system-update-sets/get-started-update-sets.md).
 
 Watch a short video on how to create an update set.
 

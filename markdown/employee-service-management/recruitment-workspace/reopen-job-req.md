@@ -28,9 +28,9 @@ Role required: sn\_ta\_hiring\_core.recruiter
 3.  Select **Reopen**.
 
     -   The requisition moves to the **New** state after it's reopened.
-    -   For more information on the state management system, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    -   For more information on the state management system, see [Job requisition state management](job-req-state-mngmnt.md).
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

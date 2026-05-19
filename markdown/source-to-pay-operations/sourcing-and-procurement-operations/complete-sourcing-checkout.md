@@ -51,7 +51,7 @@ Share additional sourcing request info such as pricing details, budget, quotatio
 
     -   What project is this request for?
 
-        **Note:** This field is available only when you have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md).
+        **Note:** This field is available only when you have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md).
 
     -   Why do you need these products?
     -   Why do you need these services?
@@ -62,8 +62,8 @@ Share additional sourcing request info such as pricing details, budget, quotatio
         For more information on adding suppliers, see:
 
         -   From Platform: [Add a supplier](create-supplier.md).
-        -   From the supplier catalog: [Add a supplier contact using the supplier catalog](../../supplier-lifecycle-operations/task/enroll-contact-catalog.md).
-        -   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](../../supplier-lifecycle-operations/task/add-supplier-contact.md).
+        -   From the supplier catalog: [Add a supplier contact using the supplier catalog](../supplier-lifecycle-operations/enroll-contact-catalog.md).
+        -   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](../supplier-lifecycle-operations/add-supplier-contact.md).
     -   How much do you potentially need?
     -   When would you like this delivered? For products, select from these options.
         -   **As soon as possible** for the quickest delivery slot possible. This is calculated based on the product category of each selected product.
@@ -84,7 +84,7 @@ Share additional sourcing request info such as pricing details, budget, quotatio
 5.  Select **Submit Request**.
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 
 **Related topics**  
 

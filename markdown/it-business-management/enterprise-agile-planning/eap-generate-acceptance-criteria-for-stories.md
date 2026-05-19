@@ -26,7 +26,7 @@ Ensure that Now Assist for SPM is installed in your instance and that the follow
 -   Acceptance criteria generation
 -   Refine records
 
-For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+For more information, see [Configure Now Assist Admin features](../now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
 Role required: sn\_apw\_advanced.eap\_user
 
@@ -60,7 +60,7 @@ For an EAP story, you can generate acceptance criteria by selecting **Generate a
 7.  Save the Story form.
 
 
-**Parent Topic:**[Manage team backlog in EAP](../../spw-eap/concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 

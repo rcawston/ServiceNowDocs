@@ -107,5 +107,5 @@ The Close stage lets you close the change record after the change is completed.
 |Close code|Reason that the change record was closed.|
 |Close notes|Additional details about closing the change record.|
 
-**Parent Topic:**[Select a change model to fulfill change requests](../task/select-change-model.md)
+**Parent Topic:**[Select a change model to fulfill change requests](select-change-model.md)
 

@@ -33,13 +33,13 @@ The cloud resources are available under a service account or service account-dat
 
     2.  Add the appropriate Cloud Action Library \(CAL\) action and flow logic to read the resource data.
 
-        For more information on the available CAL actions, see [Cloud Action Library actions reference](../reference/ccg-cal-actions.md).
+        For more information on the available CAL actions, see [Cloud Action Library actions reference](ccg-cal-actions.md).
 
         If CAL doesn’t have the required action, you can refer to an existing CAL action and use the Integration Hub datastream action to implement the custom action. Alternatively, you can also use the REST step. For more information, see [Data Stream actions and pagination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/data-stream-actions.md) and [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/rest-request-action-designer.md).
 
     3.  Add the **CCG – Insert Resource Record** action, and then select the appropriate inputs to insert the configuration data to the Configuration Management Database \(CMDB\).
 
-        For more information on the **CCG – Insert Resource Record** action, see [Cloud Configuration Governance actions reference](../reference/ccg-ih-reference.md).
+        For more information on the **CCG – Insert Resource Record** action, see [Cloud Configuration Governance actions reference](ccg-ih-reference.md).
 
     4.  Select **Publish**.
 
@@ -49,7 +49,7 @@ The cloud resources are available under a service account or service account-dat
 
 4.  On the form, fill in the fields.
 
-    For the description of the field values, see [Cloud Configuration Governance Resource collector form](../reference/ccg-res-collector-form.md).
+    For the description of the field values, see [Cloud Configuration Governance Resource collector form](ccg-res-collector-form.md).
 
 5.  Select **Submit**.
 

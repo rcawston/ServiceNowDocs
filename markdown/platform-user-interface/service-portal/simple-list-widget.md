@@ -41,7 +41,7 @@ Filter
 
 </td><td>
 
-Conditions that are applied to the list. To edit the filter, in the widget instance options context menu, select **Open in platform**. Use the Table &amp; Filter tab to apply conditions to the simple list. For more information, see [Create a filter in List](../../../use/using-lists/task/t_CreatingFilters.md).
+Conditions that are applied to the list. To edit the filter, in the widget instance options context menu, select **Open in platform**. Use the Table &amp; Filter tab to apply conditions to the simple list. For more information, see [Create a filter in List](../t_CreatingFilters.md).
 
 </td></tr><tr><td>
 
@@ -177,9 +177,9 @@ Show or hide the widget footer
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

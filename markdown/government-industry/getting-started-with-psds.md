@@ -29,11 +29,11 @@ Description
 
 As an admin, activate the Public Sector Digital Services Core plugin. The PSDS Core application provides data models, workflows, and experiences that enable the development of public sector customized applications, which deliver digital services to the government constituents.
 
-This plugin includes demo data and activates related plugins. For information on the plugins activated with Public Sector Digital Services Core, see [Plugins installed with Public Sector Digital Services Core](../reference/plugins-installed-with-psds.md).
+This plugin includes demo data and activates related plugins. For information on the plugins activated with Public Sector Digital Services Core, see [Plugins installed with Public Sector Digital Services Core](plugins-installed-with-psds.md).
 
 </td></tr><tr><td>
 
-[Plugins installed with Public Sector Digital Services Core](../reference/plugins-installed-with-psds.md)
+[Plugins installed with Public Sector Digital Services Core](plugins-installed-with-psds.md)
 
 </td><td>
 

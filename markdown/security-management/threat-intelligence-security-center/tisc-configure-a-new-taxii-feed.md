@@ -220,5 +220,5 @@ Start date from when the data needs to be fetched. Set this field with the time 
 8.  Enable the TAXII Collections to retrieve the STIX objects available in these TAXII collections.
 
 
-**Parent Topic:**[About STIX TAXII](../concept/threat-intelligence-security-center-feeds.md)
+**Parent Topic:**[About STIX TAXII](threat-intelligence-security-center-feeds.md)
 

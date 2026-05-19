@@ -216,8 +216,8 @@ Stakeholders with customizable roles relevant to single and composite entities, 
 
 ![360 degree view of the entity](../image/360-degree-view-of-the-entity.png "360 degree view of the entity")
 
--   **[Create an entity](../task/create-new-entity-ws.md)**  
+-   **[Create an entity](create-new-entity-ws.md)**  
 Create an entity for your enterprise. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects. These entities have controls that are defined to mitigate their exposure, and their audits must be completed.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 

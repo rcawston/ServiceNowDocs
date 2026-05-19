@@ -134,9 +134,9 @@ Column-level lineage showing source columns for data sourcing, sorting, filterin
 
 The collector catalogs dependencies between tables, views, and stored procedures using `sys.sql_expression_dependencies`. Dependencies are created when one entity appears by name in a persisted SQL expression of another entity. See the [Microsoft SQL Server dependencies documentation](https://learn.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-sql-expression-dependencies-transact-sql?view=sql-server-ver16) for details.
 
--   **[Prepare to run the Microsoft SQL Server collector](../task/prepare-to-run-microsoft-sql-server-collector.md#)**  
+-   **[Prepare to run the Microsoft SQL Server collector](prepare-to-run-microsoft-sql-server-collector.md#)**  
 Configure authentication and permissions before running the collector.
--   **[Create a Microsoft SQL Server metadata collector](../task/create-microsoft-sql-server-metadata-collector.md)**  
+-   **[Create a Microsoft SQL Server metadata collector](create-microsoft-sql-server-metadata-collector.md)**  
 Create a collector to import metadata from Microsoft SQL Server.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

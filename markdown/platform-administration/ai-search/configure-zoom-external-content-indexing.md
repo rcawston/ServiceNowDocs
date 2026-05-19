@@ -132,5 +132,5 @@ Your connector admin needs these items to configure a Zoom external content conn
 
 For details on creating and configuring a Zoom external content connector, see [Create a Zoom external content connector](create-ext-cont-connector-zoom.md).
 
-**Parent Topic:**[Zoom external content connector](../concept/zoom-external-content-connector.md)
+**Parent Topic:**[Zoom external content connector](zoom-external-content-connector.md)
 

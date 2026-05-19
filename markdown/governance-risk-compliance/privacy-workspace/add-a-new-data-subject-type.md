@@ -48,5 +48,5 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 The data subject type that you added appears in the **Data subject types** table.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

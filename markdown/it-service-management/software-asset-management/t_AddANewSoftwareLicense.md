@@ -56,5 +56,5 @@ Role required: sam
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 

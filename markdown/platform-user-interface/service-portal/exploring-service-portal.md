@@ -35,7 +35,7 @@ Create a self-service portal with an engaging, mobile-friendly user experience u
 
 </td><td>
 
--   [Service Portal Designer](../task/t_ConfigureAPage.md#)
+-   [Service Portal Designer](t_ConfigureAPage.md#)
 -   [Branding and styles](portal-css.md)
 -   [Widgets](service-portal-widgets.md)
 
@@ -49,9 +49,9 @@ Provide simple access to resources to empower users with self-service and drive 
 
 </td><td>
 
--   [Service catalogs](../task/associate-portal-catalog.md)
--   [Knowledge bases](../task/associate-portal-knowledge.md)
--   [Agent Chat](../task/configure-va-in-sp.md#)
+-   [Service catalogs](associate-portal-catalog.md)
+-   [Knowledge bases](associate-portal-knowledge.md)
+-   [Agent Chat](configure-va-in-sp.md#)
 
 </td><td>
 
@@ -108,7 +108,7 @@ Administrator
 </td></tr></tbody>
 </table>-   **[Understanding Service Portal](sp-what-to-know.md)**  
 Service Portal provides a modular user interface framework for quick and easy building of application portals and dashboards for the platform. It helps developers and non‑technical administrators create attractive and engaging user experiences that drive employee adoption of critical enterprise applications.
--   **[Supported features in Service Portal](../reference/unsupported-features-sp.md)**  
+-   **[Supported features in Service Portal](unsupported-features-sp.md)**  
 Service Portal is an alternative presentation layer for the platform. As such, not all features of the platform are extended to Service Portal. Consider your full application and the abilities of Service Portal before making considerable investments.
 
 **Parent Topic:**[Service Portal](c_ServicePortal.md)

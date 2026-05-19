@@ -51,5 +51,5 @@ After downloading the drivers, proceed to install and configure them on your cli
 -   For ODBC driver installation, see [Install ServiceNow SQL API ODBC driver on client machine](install-odbc-driver.md).
 -   For JDBC driver configuration, see [Configure ServiceNow SQL API JDBC driver on client machine](configure-jdbc-driver.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

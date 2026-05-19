@@ -100,8 +100,8 @@ Create and execute skipped record rule
 
 </td><td>
 
--   [Create a skipped record rule](../task/uc-create-skipped-record-rule.md)
--   [Execute a skipped record rule](../task/uc-execute-skipped-record-rule.md#)
+-   [Create a skipped record rule](uc-create-skipped-record-rule.md)
+-   [Execute a skipped record rule](uc-execute-skipped-record-rule.md#)
 
 </td><td>
 
@@ -113,6 +113,6 @@ System administrator
 To learn more about using Upgrade Center, see:
 
 -   [Using Upgrade Center](uc-using.md)
--   [Administering Upgrade Center](../reference/uc-administration.md)
--   [Upgrade Center references](../reference/uc-reference.md)
+-   [Administering Upgrade Center](uc-administration.md)
+-   [Upgrade Center references](uc-reference.md)
 

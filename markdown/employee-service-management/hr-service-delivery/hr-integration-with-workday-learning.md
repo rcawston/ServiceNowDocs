@@ -43,7 +43,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference ![Get details about components like fields, tables, and properties.](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/hrsd-int-workday-reference.md)
+[Reference ![Get details about components like fields, tables, and properties.](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](hrsd-int-workday-reference.md)
 
 </td></tr></tbody>
 </table>

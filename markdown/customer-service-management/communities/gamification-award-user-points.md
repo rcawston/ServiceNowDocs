@@ -42,5 +42,5 @@ Role required: sn\_gamification.moderator
     An entry for the point assignment activity shows at the top of the Points list and the user's point total is updated.
 
 
-**Parent Topic:**[Moderate gamification](../concept/communities-gamification-moderate.md)
+**Parent Topic:**[Moderate gamification](communities-gamification-moderate.md)
 

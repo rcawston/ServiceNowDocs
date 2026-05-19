@@ -30,7 +30,7 @@ For more information, see:
 -   [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 -   [Working with responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md).
 
-**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+**Parent Topic:**[Workflow administration](c_WorkflowAdministration.md)
 
 ## Enable workflow run time metrics
 

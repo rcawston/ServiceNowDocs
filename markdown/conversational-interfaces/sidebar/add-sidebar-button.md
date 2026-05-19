@@ -92,5 +92,5 @@ You don’t need to add the **Discuss** button to these workspaces because it’
 
 If you want to enable Sidebar for non-task tables and add the Discuss button to the layout, see [Adding the Discuss button for non-task tables](add-sidebar-button-advanced.md).
 
-After you add the **Discuss** button, you must configure the activity stream. For more information, see [Activity stream in Sidebar](../concept/activity-stream-sidebar.md).
+After you add the **Discuss** button, you must configure the activity stream. For more information, see [Activity stream in Sidebar](activity-stream-sidebar.md).
 

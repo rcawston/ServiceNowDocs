@@ -33,28 +33,28 @@ Activate and run the Add Manager Hub user role scheduled job to assign the Manag
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configure Manager Hub](../task/set-up-managerhub.md)
+**Parent Topic:**[Configure Manager Hub](set-up-managerhub.md)
 
 **Related topics**  
 
 
-[RCA approvals for Manager Hub](../task/run-rca-mh.md)
+[RCA approvals for Manager Hub](run-rca-mh.md)
 
-[Configure important dates](../task/configure-imp-dates.md)
+[Configure important dates](configure-imp-dates.md)
 
-[Configure team requests](../task/configure-team-requests.md)
+[Configure team requests](configure-team-requests.md)
 
-[Configure team data](../task/configure-team-data.md)
+[Configure team data](configure-team-data.md)
 
-[Configure team column data](../task/configure-team-columndata.md)
+[Configure team column data](configure-team-columndata.md)
 
-[Configure team filters](../task/configure-team-filter.md)
+[Configure team filters](configure-team-filter.md)
 
-[Set up View as Direct Reports](../../employee-center/task/view-direct-reportee.md)
+[Set up View as Direct Reports](view-direct-reportee.md)
 
-[Configure daily stats](../task/configure-daily-stats.md)
+[Configure daily stats](configure-daily-stats.md)
 
-[Configure to do mappings](../task/use-to-do-map.md)
+[Configure to do mappings](use-to-do-map.md)
 
-[Configure widgets](../task/configure-team-insights.md)
+[Configure widgets](configure-team-insights.md)
 

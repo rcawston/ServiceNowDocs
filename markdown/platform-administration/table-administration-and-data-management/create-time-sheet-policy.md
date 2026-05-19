@@ -250,5 +250,5 @@ Option to set the time sheet policy as the default. The default policy is a glob
 -   [Set the time sheet policy as the default policy](set-default-time-sheet-policy.md), if required.
 -   [Assign the time sheet policy to users](assign-time-sheet-policy-to-user.md).
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](time-sheet-policies.md)
 

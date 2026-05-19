@@ -52,7 +52,7 @@ To install Supplier Payment Optimization, the following plugins have to be insta
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](../concept/config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
 
 **Related topics**  
 
@@ -63,19 +63,19 @@ To install Supplier Payment Optimization, the following plugins have to be insta
 
 [Install Supplier Operations](install-supplier-ops.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 [Configure the document template for the Sign document action type for supplier task](configure-pdf-template-sign-doc-task.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
 [Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 [Install Universal Request for SLO](install-universal-request.md)
 
-[Configure smart assessments](../concept/configure-smart-assessments.md)
+[Configure smart assessments](configure-smart-assessments.md)
 
 [Install Supplier Case Management](install-supp-mgmt.md)
 

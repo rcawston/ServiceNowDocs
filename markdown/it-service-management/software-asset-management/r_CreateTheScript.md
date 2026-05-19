@@ -44,5 +44,5 @@ The following script uses the number of rights equal to the number of CPU socket
 
 ![SAM custom calculation type](../image/SAMCustomCalculationType.png "SAM custom calculation type")
 
-**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

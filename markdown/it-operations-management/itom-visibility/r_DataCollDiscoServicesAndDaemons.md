@@ -23,10 +23,10 @@ Discovery identifies and classifies information about services and daemons.
 |CI|`cmdb_ip_service_ci`|ci|Internal reference|
 |Service|`cmdb_ip_service_ci`|service|Internal reference|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 
 **Related topics**  
 
 
-[Network discovery](../concept/c_NetworkDiscovery.md#)
+[Network discovery](../discovery/c_NetworkDiscovery.md#)
 

@@ -31,5 +31,5 @@ The portal that you create in App Engine Studio includes several default pages. 
 
 **Note:** Unlike Service Portal, the portal that you can create in App Engine Studio is built on the Next Experience UI Framework. You edit the portal by configuring pages and components in UI Builder.
 
-**Parent Topic:**[Add a portal](../task/add-portal.md)
+**Parent Topic:**[Add a portal](add-portal.md)
 

@@ -51,7 +51,7 @@ Select the **Cloud spend analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](tags-overview.md) and [List of default tag categories](default-tag-categories.md).
 
     -   Tag values
     -   Tag categories selected
@@ -82,7 +82,7 @@ Select the **Kubernetes spend analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](tags-overview.md) and [List of default tag categories](default-tag-categories.md).
 
     -   Tag value
     -   Tag categories selected
@@ -119,7 +119,7 @@ Select the **Shared cost analytics** tab to do the following tasks:
     -   Resource group
     -   Tag category
 
-        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](../reference/tags-overview.md) and [List of default tag categories](../reference/default-tag-categories.md).
+        **Note:** For more information about tag categories and the list of default tag categories, see [Tags and tag categories](tags-overview.md) and [List of default tag categories](default-tag-categories.md).
 
     -   Tag value
     -   Tag categories selected
@@ -132,9 +132,9 @@ Select the **Shared cost analytics** tab to do the following tasks:
 
 [Cloud service categories in Cloud Cost Management](cloud-ser-categories.md)
 
-[Tags and tag categories](../reference/tags-overview.md)
+[Tags and tag categories](tags-overview.md)
 
-[Create and update a tag category](../task/tag-category-crud-cloudin.md)
+[Create and update a tag category](tag-category-crud-cloudin.md)
 
-[Create or update a shared cost allocation policy](../task/create-shared-cost-policy.md)
+[Create or update a shared cost allocation policy](create-shared-cost-policy.md)
 

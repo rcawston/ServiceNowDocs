@@ -39,7 +39,7 @@ Role required: portfolio\_manager
 
     **Tip:** You can work on allocating lean budgets at the fiscal period level using the Investment Budget. For more information, see [Enable lean budgeting for demands](enable-lean-budgeting-for-demands-ppw.md).
 
-    For a description of the field names, see [Create project funding form](../reference/create-project-funding-form.md).
+    For a description of the field names, see [Create project funding form](create-project-funding-form.md).
 
 6.  Select **Save**.
 

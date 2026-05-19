@@ -203,5 +203,5 @@ Answer options for this question.This related list is available only if the **Da
 **Related topics**  
 
 
-[Create or modify survey questions](../task/t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 

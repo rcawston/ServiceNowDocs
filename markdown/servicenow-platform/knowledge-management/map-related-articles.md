@@ -44,7 +44,7 @@ This task provides steps to manually map related articles when editing an articl
     **Note:** Knowledge administrators can configure the number of articles shown in the Related Articles section using the instance options.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 
 **Related topics**  
 

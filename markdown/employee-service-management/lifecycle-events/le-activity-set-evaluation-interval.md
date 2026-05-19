@@ -58,5 +58,5 @@ Starting in the Utah family, the default evaluation interval can be changed.
 11. Select **Update**.
 
 
-**Parent Topic:**[Lifecycle Events evaluation interval](../concept/le-evaluation-interval1.md)
+**Parent Topic:**[Lifecycle Events evaluation interval](le-evaluation-interval1.md)
 

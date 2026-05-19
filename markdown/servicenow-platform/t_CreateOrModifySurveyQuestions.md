@@ -37,7 +37,7 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
     The fields that appear depend on the selected **Data type**.
 
-    For a description of the field values, see [Survey Question form](../reference/survey-question-form.md).
+    For a description of the field values, see [Survey Question form](survey-question-form.md).
 
 6.  Save the record.
 
@@ -46,14 +46,14 @@ Changes to a survey, such as the addition of questions or the modification of qu
     -   Be sure to create answer options if you select the **Choice** or **Likert Scale** data type.
     -   You cannot delete a survey question \(metric\) with user responses. To delete a survey question with user responses, you should delete the responses, and then delete the survey question.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](c_SurveyQuestion.md)
 
 **Related topics**  
 
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
 [Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
 
@@ -61,9 +61,9 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
 [Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
-[Trigger condition example](../reference/r_TriggerConditionExample.md)
+[Trigger condition example](r_TriggerConditionExample.md)
 
-[Survey trigger conditions](../concept/c_TriggerConditions.md)
+[Survey trigger conditions](c_TriggerConditions.md)
 

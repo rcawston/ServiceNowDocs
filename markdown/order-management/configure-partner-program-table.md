@@ -29,10 +29,10 @@ Partner programs define the roles, responsibilities, and benefits for different 
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields on the Partner program table and their descriptions, see [Partner program table fields](../reference/partner-program-table-fields.md).
+    To learn more about the fields on the Partner program table and their descriptions, see [Partner program table fields](partner-program-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](data-model-for-partner-relationship-management.md)
 

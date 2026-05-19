@@ -57,7 +57,7 @@ There are several types of CMDB queries:
     -   All infrastructure in a particular application service.
     -   All incidents for a particular CI in an application service, or all incidents for all the CIs of an application service.
     -   All application services with a pattern of a service connected to a database, and where the database has incidents.
-    The list of available non-CMDB tables includes a subset of tables within the system, which have a reference to the Configuration Item \[cmdb\_ci\] class or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](../reference/cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
+    The list of available non-CMDB tables includes a subset of tables within the system, which have a reference to the Configuration Item \[cmdb\_ci\] class or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
 
 -   **Service Mapping Query**
 

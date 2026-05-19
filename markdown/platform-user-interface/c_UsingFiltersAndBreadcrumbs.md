@@ -76,7 +76,7 @@ Copies the encoded query to the clipboard for the breadcrumb. You can use this q
 To quickly filter a list using a value in a field, right-click in the field and select **Show Matching** or **Filter Out**. For date fields, choose from **Show Before**, **Show After**, and **Filter Out**.
 -   **[Filters](c_Filters.md)**  
 A filter restricts what records appear in a list by providing a set of conditions each record must meet to be included in the list.
--   **[Save and use filters in a list view](../task/t_SavingFilters.md)**  
+-   **[Save and use filters in a list view](t_SavingFilters.md)**  
 Depending on your access rights, you may save filters for everyone, a user group, or yourself. You can apply saved filters and edit or delete them.
 -   **[Filter admin functions](filter-admin-functions.md)**  
 Administrators can work with filters in the Filters table \[sys\_filter\], including creating, editing, and deleting filters.
@@ -90,5 +90,5 @@ An encoded query string represents a complex filter on a list of records.
 
 [Dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-[Generate an encoded query string through a filter](../task/t_GenEncodQueryStringFilter.md)
+[Generate an encoded query string through a filter](t_GenEncodQueryStringFilter.md)
 

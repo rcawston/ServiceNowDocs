@@ -27,7 +27,7 @@ Role required: sn\_hr\_core.admin
     -   Add and update ACLs.
     -   Configure forms.
     -   Configure related lists.
-    -   Configure and create COEs. For more information, see [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+    -   Configure and create COEs. For more information, see [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).
 
         **Note:** The Lifecycle Event Administrator \(sn\_hr\_le.admin\) role with the Delegated Developer \(delegated\_developer\) role can also configure and create new COEs.
 
@@ -57,5 +57,5 @@ To add the delegated developer role to a user:
 9.  Log out and log back in to ensure that the changes take effect.
 
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](c_ManageRoles.md)
 

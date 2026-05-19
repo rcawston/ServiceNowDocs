@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Payment Operations.](../task/configure-payment-operations.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Configure Financial Services Payment Operations.](configure-payment-operations.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](../../../use/dashboards/application-content-packs/payment-operations-dashboard.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with a preconfigured dashboard.](../payment-operations-dashboard.md)
 
 </td><td>
 

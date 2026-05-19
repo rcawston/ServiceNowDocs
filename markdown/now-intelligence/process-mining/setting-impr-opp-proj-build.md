@@ -28,7 +28,7 @@ Role required:
 
 2.  Select a project.
 
-    You can add an improvement opportunity while creating a project or editing an existing project. For information about adding an improvement opportunity when creating a project, see [Set improvement opportunities](../task/improve-opportunities.md).
+    You can add an improvement opportunity while creating a project or editing an existing project. For information about adding an improvement opportunity when creating a project, see [Set improvement opportunities](improve-opportunities.md).
 
 3.  Select ellipses, and then select **Edit project**.
 
@@ -44,7 +44,7 @@ Role required:
 
     For information on creating improvement opportunities, see the following topics:
 
-    -   [Set rule-based improvement opportunity](../task/rule-based-builder.md)
+    -   [Set rule-based improvement opportunity](rule-based-builder.md)
     -   [Setting Automated improvement opportunities](automated-findings.md)
 
 **Parent Topic:**[Setting improvement opportunity for projects](project-imp-opp.md)

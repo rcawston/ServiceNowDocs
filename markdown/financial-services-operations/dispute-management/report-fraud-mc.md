@@ -43,7 +43,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 9.  Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 
 10. Select **Submit fraud**.
 
@@ -63,5 +63,5 @@ Depending on the policy rule, the transaction moves to the next task. The follow
 |No credit|[Alert merchant regarding dispute](alert-merchant-dispute-mc.md)|
 |||
 
-**Parent Topic:**[Processing a Mastercard dispute](../concept/processing-mastercard-dispute-case.md)
+**Parent Topic:**[Processing a Mastercard dispute](processing-mastercard-dispute-case.md)
 

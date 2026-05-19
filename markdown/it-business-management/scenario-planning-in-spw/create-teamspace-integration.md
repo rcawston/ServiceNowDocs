@@ -37,5 +37,5 @@ To integrate teamspaces with Strategic Planning records:
 **Related topics**  
 
 
-[Create a table map](../../apw-internal-integrations/task/create-custom-table-maps-for-custom-planning-items.md)
+[Create a table map](create-custom-table-maps-for-custom-planning-items.md)
 

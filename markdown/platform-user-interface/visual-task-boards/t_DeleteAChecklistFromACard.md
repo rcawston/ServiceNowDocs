@@ -34,5 +34,5 @@ Role required: none
 5.  Click **Delete**.
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](c_VisualTaskBoardChecklists.md)
 

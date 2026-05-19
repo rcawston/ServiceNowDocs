@@ -81,9 +81,9 @@ On the entry record, the Status field changes to **Rejected**, and the **Active*
     ![Security tag on an observable record.](../image/4-30-url-tag-obsv.png)
 
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
 **Previous topic:**[Submit EDL entries from the blocklist for Palo Alto Networks Next-Generation Firewall](paloalto-submit-entry-fm-blklist.md)
 
-**Next topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+**Next topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](paloalto-edl-execptions.md)
 

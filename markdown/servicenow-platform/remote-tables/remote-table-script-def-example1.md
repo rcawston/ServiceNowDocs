@@ -169,7 +169,7 @@ It then uses the Transformer API to perform any required data transformations, e
 
 **Note:** You must map a sys\_id in the transformer definition to an element in the external data. In this case, the sys\_id is mapped to the external incident sys\_id. The maximum length of the sys\_id is 32 characters. You do this sys\_id mapping so forms that use the external data can operate properly.
 
-**Parent Topic:**[Create script definitions for a remote table](../task/create-remote-table-script.md)
+**Parent Topic:**[Create script definitions for a remote table](create-remote-table-script.md)
 
 **Related topics**  
 

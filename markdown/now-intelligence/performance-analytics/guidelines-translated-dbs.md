@@ -27,6 +27,6 @@ Users can only find translated dashboards under certain configurations. You can 
 
     Open the dashboard, select the target language in your preferences, and in the dashboard's properties, enter the translated name of the dashboard. Other users can now find the dashboard using its localized name.
 
-    Learn more: [Solving issues on translated dashboards](../task/solving-issues-translated-dashboards.md).
+    Learn more: [Solving issues on translated dashboards](solving-issues-translated-dashboards.md).
 
 

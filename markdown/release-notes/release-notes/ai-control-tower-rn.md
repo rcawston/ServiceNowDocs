@@ -14,7 +14,7 @@ The ServiceNow® AI Control Tower application provides a centralized workspace f
 
 ## AI Control Tower highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Customize the AI asset security score calculation to reflect your security requirements.
 -   Use new security metrics to monitor your LLM and AI agent output for potential security and content policy violations, potential PII, and other potential threats.
@@ -23,7 +23,7 @@ The ServiceNow® AI Control Tower application provides a centralized workspace f
 -   Manage the end-to-end life cycles of your agentic AI systems.
 -   Define the intended use and purpose of an AI system so that you can determine its benefits and risks.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](../australia-all-other-fixes.md)
 
 -   AI assets—including AI models, AI systems, prompts, datasets, and MCP servers can be categorized as either managed or unmanaged.
 -   AI connections are introduced in AI Control Tower using Service Graph Connectors \(SGC\).
@@ -59,7 +59,7 @@ Not applicable.
 
 -   **[Define the use and purpose of an AI system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md)**
 
-    Specify the intended use and purpose of an AI system. Provide insight into who is using the AI system, what the AI system is being used for, and how the AI system works and provides value. This information can help you determine the benefits and risks that are associated with the AI system. For more information on classifying AI systems based on regulatory risk at intake by applying a configured Risk Assessment Methodology \(RAM\), see [AI Risk and Compliance release notes](../governance-risk-compliance/grc-ai-risk-and-compliance-rn.md) and [Assessment templates and risk assessment methodologies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/assessment-templates-rams.md).
+    Specify the intended use and purpose of an AI system. Provide insight into who is using the AI system, what the AI system is being used for, and how the AI system works and provides value. This information can help you determine the benefits and risks that are associated with the AI system. For more information on classifying AI systems based on regulatory risk at intake by applying a configured Risk Assessment Methodology \(RAM\), see [AI Risk and Compliance release notes](grc-ai-risk-and-compliance-rn.md) and [Assessment templates and risk assessment methodologies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/assessment-templates-rams.md).
 
 -   **[Associate additional related AI asset types with AI systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md)**
 
@@ -135,9 +135,9 @@ Not applicable.
 
 ## Removed in this release
 
-[Australia Patch 1](../quality/australia-patch-1.md) The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
+[Australia Patch 1](../australia-patch-1.md) The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](../australia-all-other-fixes.md)
 
 -   Adding legacy AI connections via Service Graph Connectors \(SGC\) is deprecated. In AI connections, under Legacy connections, the **New** button has been removed to block users from creating new connections using SGC.
 

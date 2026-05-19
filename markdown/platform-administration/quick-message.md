@@ -54,7 +54,7 @@ For example, if you designate Beth Anglin as the user for a certain quick messag
 
 If you associate a quick message to the Incident \[incident\] table, the quick message is available in the email client only after you launch from an incident record. If you specify a target record from the Incident table for the quick message, the quick message becomes available in the email client only for matching incident records.
 
--   **[Define a quick message](../task/t_QuickMessages.md)**  
+-   **[Define a quick message](t_QuickMessages.md)**  
 Create predefined content to add in the email client so that users can write emails consistently and efficiently.
 
 **Parent Topic:**[Configure email client](configuring-email-client.md)

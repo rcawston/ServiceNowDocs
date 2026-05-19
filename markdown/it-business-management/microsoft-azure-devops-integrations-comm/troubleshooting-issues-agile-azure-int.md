@@ -108,7 +108,7 @@ New Azure DevOps projects are not imported automatically.
 
 </td><td>
 
-Manually discover projects from the Azure DevOps instance record to immediately synch the project updates or schedule a job to discover and import these updates on a daily basis.For more details on the scheduled jobs, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](../task/schedule-jobs-import-projects-azure.md).
+Manually discover projects from the Azure DevOps instance record to immediately synch the project updates or schedule a job to discover and import these updates on a daily basis.For more details on the scheduled jobs, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](schedule-jobs-import-projects-azure.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Imported work items \(epics and stories\) of a project have no assignment group 
 
 </td><td>
 
-Ensure that you have team integration settings for this project. For more information, see [Associate Azure DevOps projects with assignment groups in Agile Development 2.0](../task/set-up-import-export-azure-agile.md#).
+Ensure that you have team integration settings for this project. For more information, see [Associate Azure DevOps projects with assignment groups in Agile Development 2.0](set-up-import-export-azure-agile.md#).
 
  The assignment group associated to any imported work item of an Azure DevOps project is based on the team integration settings of that project. If the project does not have any team integration setting, the imported work item will have an empty assignment group.
 
@@ -126,7 +126,7 @@ Changes made to iterations in Azure DevOps are not reflecting immediately in Agi
 
 </td><td>
 
-Manually import iterations from the Azure DevOps project record or schedule a job to discover and import these updates daily. For more details on the scheduled jobs, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](../task/schedule-jobs-import-projects-azure.md).
+Manually import iterations from the Azure DevOps project record or schedule a job to discover and import these updates daily. For more details on the scheduled jobs, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](schedule-jobs-import-projects-azure.md).
 
 </td></tr><tr><td>
 
@@ -155,5 +155,5 @@ Webhooks are only to import data from Azure DevOps to Agile Development 2.0. To 
 </td></tr></tbody>
 </table>## Enabling detailed project logs
 
-To view all the details on project logging, enable the integration project logging property. For more information, see [Enable detailed project logging in Microsoft Azure DevOps Integration with Agile Development 2.0](../task/enable-integration-logs-azure.md).
+To view all the details on project logging, enable the integration project logging property. For more information, see [Enable detailed project logging in Microsoft Azure DevOps Integration with Agile Development 2.0](enable-integration-logs-azure.md).
 

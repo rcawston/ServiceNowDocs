@@ -39,7 +39,7 @@ As a user with the sn\_grc\_reg\_change.user role, you can review the regulatory
 
 6.  Select any entity from the Entities list for the impact assessment and select **Create Assessments**.
 
-    **Note:** Perform an impact assessment on the regulatory event alert in the classic user interface as the form is not yet migrated to the Workspace. For more information, see [Assess the impact of a regulatory alert](../../grc-rcm/task/impact-assessment-tasks.md).
+    **Note:** Perform an impact assessment on the regulatory event alert in the classic user interface as the form is not yet migrated to the Workspace. For more information, see [Assess the impact of a regulatory alert](impact-assessment-tasks.md).
 
     If no entities are configured, you can configure new entities.
 

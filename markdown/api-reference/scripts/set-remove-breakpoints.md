@@ -62,10 +62,10 @@ Breakpoints belong to the developer who sets them. Developers must set and remov
 6.  When debugging is complete, remove breakpoints from the script.
 
 
-**Parent Topic:**[Script Debugger and Session Log](../concept/script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
 
 **Related topics**  
 
 
-[Script Debugger step-through and console controls](../reference/step-through-controls.md)
+[Script Debugger step-through and console controls](step-through-controls.md)
 

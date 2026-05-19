@@ -23,7 +23,7 @@ Before you start, confirm the following:
 
 ## About this task
 
-Enterprise Search gives you one place to find any content connected to Employee Slate. Content includes formal knowledge and employee-created content, such as SharePoint files or email messages. For how search sits alongside the AI assistant, see [Enterprise Search](../concept/empworks-moveworks-capabilities.md#section-enterprise-search).
+Enterprise Search gives you one place to find any content connected to Employee Slate. Content includes formal knowledge and employee-created content, such as SharePoint files or email messages. For how search sits alongside the AI assistant, see [Enterprise Search](empworks-moveworks-capabilities.md#section-enterprise-search).
 
 ## Procedure
 

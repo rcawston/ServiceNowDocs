@@ -26,5 +26,5 @@ This workflow enables you to plan in EAP, execute in Jira, and monitor outcomes 
 
 ![Jira team execution reports in EAP.](../images/jira-int-eap-reports.png)
 
-For more information on managing backlog and sprints using EAP, see [Manage team backlog in EAP](../../spw-eap/concept/using-eap.md) and [Perform PI planning in EAP](../../spw-eap/concept/pi-planning-eap.md).
+For more information on managing backlog and sprints using EAP, see [Manage team backlog in EAP](../enterprise-agile-planning/using-eap.md) and [Perform PI planning in EAP](../enterprise-agile-planning/pi-planning-eap.md).
 

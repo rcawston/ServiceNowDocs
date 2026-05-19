@@ -19,7 +19,7 @@ Add a card descriptive element before an input ﬁeld, within an input form scre
 
 Role required: admin
 
-To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [Mobile Card Builder](../concept/mobile-card-builder.md).
+To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [Mobile Card Builder](mobile-card-builder.md).
 
 When using a preconfigured mobile card, consider the following:
 

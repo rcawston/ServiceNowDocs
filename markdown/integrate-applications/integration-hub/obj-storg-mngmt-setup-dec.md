@@ -18,7 +18,7 @@ Integrate the ServiceNow instance and Oracle Object Storage Management account b
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Activate and set up the [Oracle Cloud IAM Spoke](../concept/oracle-iam.md).
+-   Activate and set up the [Oracle Cloud IAM Spoke](oracle-iam.md).
 -   Activate the Oracle Object Storage Management spoke.
 -   Role required: admin.
 

@@ -123,5 +123,5 @@ Select an empty space on the map.
 </td></tr></tbody>
 </table>## Configuring general timeline properties
 
-Admins can configure some properties of the timeline that affect all users, such as which related item details appear on timelines. For more information, see [Configure how to display related items on the map](../task/unified-map-config-related-items.md).
+Admins can configure some properties of the timeline that affect all users, such as which related item details appear on timelines. For more information, see [Configure how to display related items on the map](unified-map-config-related-items.md).
 

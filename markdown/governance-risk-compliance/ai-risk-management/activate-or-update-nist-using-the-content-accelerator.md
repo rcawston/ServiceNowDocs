@@ -54,5 +54,5 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager
 11. Repeat the steps from 5.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

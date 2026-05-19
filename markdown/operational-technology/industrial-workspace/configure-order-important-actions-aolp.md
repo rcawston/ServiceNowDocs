@@ -36,5 +36,5 @@ Role required: cmdb\_ot\_viewer
 6.  In the **Order** field, select **Ascending** or **Descending**.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

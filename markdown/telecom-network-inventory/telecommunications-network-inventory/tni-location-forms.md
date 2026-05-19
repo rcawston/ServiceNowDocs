@@ -15,7 +15,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 The Location forms enable you to create locations hierarchy to track and manage your network assets.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 ## Location form
 
@@ -129,7 +129,7 @@ Longitude of the location in decimal degrees.
 </table>**Related topics**  
 
 
-[6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](../task/define-tni-locations.md)
+[6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](define-tni-locations.md)
 
 ## Location form - Parent
 

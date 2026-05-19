@@ -95,7 +95,7 @@ N/A
 </td></tr></tbody>
 </table>**Note:** These resource categories support serialized assets only. You are not charged for any consumable assets.
 
-You can view subscription consumption information for the Enterprise Asset Management for DCNAM application by using the ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table. For more details, see [View your subscription consumption for the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application](../task/view-subscription-consumption-eam-dcnam.md).
+You can view subscription consumption information for the Enterprise Asset Management for DCNAM application by using the ITAM Licensing Resource Counts \[itam\_licensing\_resource\_counts\] table. For more details, see [View your subscription consumption for the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application](view-subscription-consumption-eam-dcnam.md).
 
 **Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](eam-dcnam.md)
 

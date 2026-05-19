@@ -31,7 +31,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservable Module**.
 
-    For more information, see [Configure a reservable module](../../wsd-reservation-management/task/config-reservable-module.md). On the Reservable Module Configuration page, select the Kiosk module and configure it. This configuration enables employees and guests to select a kiosk on their physical device and make reservations.
+    For more information, see [Configure a reservable module](../workplace-reservation-management/config-reservable-module.md). On the Reservable Module Configuration page, select the Kiosk module and configure it. This configuration enables employees and guests to select a kiosk on their physical device and make reservations.
 
 2.  Complete the following information for creating a kiosk reservation Reservable Module:
 
@@ -92,7 +92,7 @@ To add a condition, select **Add Filter Condition**. To add an **OR**condition, 
 
 -   To add a condition, select **Add Filter Condition**.
 -   To add an OR condition, select **Add "OR" Clause**.
-**Note:** When applying filter criteria on a location, verify that the **Active** and**Is reservable** check boxes are active and selected for rooms and spaces that are added to a location. Not performing this step adds and displays the inactive or non-reservable spaces and rooms while making a reservation. [Add a room using Workplace Space Management](../../workplace-space-management/task/add-a-room.md) and [Add a room form](../../wsd-reservation-management/reference/add-room-form.md).
+**Note:** When applying filter criteria on a location, verify that the **Active** and**Is reservable** check boxes are active and selected for rooms and spaces that are added to a location. Not performing this step adds and displays the inactive or non-reservable spaces and rooms while making a reservation. [Add a room using Workplace Space Management](../workplace-space-management/add-a-room.md) and [Add a room form](../workplace-reservation-management/add-room-form.md).
 
 </td></tr><tr><td>
 
@@ -159,9 +159,9 @@ All day options can be set to: -   Disabled: The All day option is disabled and 
 -   Default: The All day option is available and the current office time is selected by default. For example, if you’re making reservation at 11.30 am, based on your building time zone, the start time of the reservation is selected as 11.30 am. Employees change the timings, if necessary.
 -   Enabled: The All day option is available and employees can reserve a space for a day.
 
-This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](../../wsd-reservation-management/reference/properties-installed-with-wsd-reservation-mgmt.md).
+This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](../workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
--   Required: The All day option is displayed as selected and can’t be changed. The All day field is set as required. Based on the building time zone, regular office hours as set by your administrator is shown. For example, 9 am to 5 pm. For more information, see [Properties installed with Workplace Reservation Management](../../wsd-reservation-management/reference/properties-installed-with-wsd-reservation-mgmt.md).
+-   Required: The All day option is displayed as selected and can’t be changed. The All day field is set as required. Based on the building time zone, regular office hours as set by your administrator is shown. For example, 9 am to 5 pm. For more information, see [Properties installed with Workplace Reservation Management](../workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
 
 </td></tr><tr><td>
@@ -178,7 +178,7 @@ Max days in Future
 
 </td><td>
 
-Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to 90, employees can make future reservations on this module only up to 90 days in advance.If this option is enabled, users can’t select a date beyond the specified value in Max days in future while making a reservation. For more information, see [Create a reservation](../../wsd-reservation-management/task/create-reservation-request-1.md).
+Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to 90, employees can make future reservations on this module only up to 90 days in advance.If this option is enabled, users can’t select a date beyond the specified value in Max days in future while making a reservation. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 </td></tr><tr><td>
 
@@ -215,7 +215,7 @@ Option to specify the status of the reservation shown on the employee's calendar
 
 7.  Select the Kiosk Indoor Mapping icon \(![Kiosk Indoor Mapping icon.](../../workplace-central/images/kiosk-indoor-mapping-icon.png)\) and configure the default map configuration for the Kiosk Reservable Module that you created \(see Step 4\).
 
-    Kiosk default map configuration enables employees to select the Kiosk Reservable Module and assign spaces configured in the reservable module to it. Employees and guests can search for spaces and make reservations on the **Kiosk Map**. For more information, see [Configure map features for kiosk](../../workplace-central/task/config-map-features.md).
+    Kiosk default map configuration enables employees to select the Kiosk Reservable Module and assign spaces configured in the reservable module to it. Employees and guests can search for spaces and make reservations on the **Kiosk Map**. For more information, see [Configure map features for kiosk](../workplace-central/config-map-features.md).
 
 8.  After configuring the kiosk map, kiosk operators can bind or assign the kiosk to a device for employees and guests to make workplace reservations.
 
@@ -224,5 +224,5 @@ Option to specify the status of the reservation shown on the employee's calendar
     For more information, see [Make workplace reservations on the kiosk](rsv-space-kiosk-map.md).
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 

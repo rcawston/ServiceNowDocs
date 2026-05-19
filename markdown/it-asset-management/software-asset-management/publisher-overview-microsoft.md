@@ -82,5 +82,5 @@ Summary of your license compliance progress.This summary includes the following 
 </td></tr></tbody>
 </table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Microsoft](../concept/microsoft-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md)
 

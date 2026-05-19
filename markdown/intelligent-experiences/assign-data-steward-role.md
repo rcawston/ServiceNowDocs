@@ -41,5 +41,5 @@ The following steps explain how to assign a role to a specific user. Another opt
 
 Once the data steward has the correct role, they can review the data sharing information on the Now Assist Admin console in the **Settings** tab under **Data privacy and sharing** &gt; **Data sharing**.
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](now-assist-data-sharing-and-processes.md)
 

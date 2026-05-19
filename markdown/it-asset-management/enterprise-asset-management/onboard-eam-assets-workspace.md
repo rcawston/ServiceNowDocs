@@ -109,7 +109,7 @@ In the **Model** field, select the asset model.
 
 Add asset details to the onboarding order. For details, see [Add details of the enterprise assets to an onboarding order](add-eam-assets-onboard-order.md).
 
-**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](../concept/onboarding-multi-asset-from-ws.md)
+**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](onboarding-multi-asset-from-ws.md)
 
 **Related topics**  
 

@@ -58,5 +58,5 @@ Role required: none
     The connector, screen and its elements are configured.![Connector levels](../image/connector-levels.png)
 
 
-**Parent Topic:**[Java](../concept/java-connector.md)
+**Parent Topic:**[Java](java-connector.md)
 

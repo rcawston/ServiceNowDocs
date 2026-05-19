@@ -32,7 +32,7 @@ Perform the following tasks to use the custom action.
 
 -   Create SonarQube tool in your instance.
 
-    Generate token from **User** &gt; **My Account** &gt; **Security** page in your SonarQube tool and create tool in the ServiceNow instance using the generated token. For more information, see [Onboard SonarQube to DevOps Change Velocity — Workspace](../task/sonar-connect-workspace.md) and [Onboard SonarQube to DevOps Change Velocity — Classic](../task/create-sonar-tool-devops.md).
+    Generate token from **User** &gt; **My Account** &gt; **Security** page in your SonarQube tool and create tool in the ServiceNow instance using the generated token. For more information, see [Onboard SonarQube to DevOps Change Velocity — Workspace](sonar-connect-workspace.md) and [Onboard SonarQube to DevOps Change Velocity — Classic](create-sonar-tool-devops.md).
 
 -   Create the following Secrets to save SonarQube scan results in the ServiceNow instance.
     -   SONAR\_HOST\_URL: SonarQube instance URL. For example, `https://sonarcloud.io`

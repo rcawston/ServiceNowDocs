@@ -37,5 +37,5 @@ Service Catalog sample tests require activating the Service Catalog - ATF Tests 
 |Validate Requested For variable flow for Order Guide|Validate the Requested For variable flows for an order guide|
 |Validate Requested For variable flow with Catalog Item access|Validate the Requested For variable flows based on the catalog item access|
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 

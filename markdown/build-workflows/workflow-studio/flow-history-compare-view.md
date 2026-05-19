@@ -84,7 +84,7 @@ The Flow history compare view consists of these components within a flow.
     Configuration settings of a changed input in the second history entry.
 
 
--   **[Compare flow histories](../task/compare-flow-histories.md)**  
+-   **[Compare flow histories](compare-flow-histories.md)**  
 Compare two flow histories to see what content was added, removed, and updated.
 
 **Parent Topic:**[Flow history](flow-history.md)

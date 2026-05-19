@@ -40,14 +40,14 @@ While Service Mapping shows position of a CI in a particular application service
 4.  To view the map of another application service containing this CI, click the relevant link.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 
 
 [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-[Application service maps in classic Service Mapping](../concept/c_UndestandMaps.md)
+[Application service maps in classic Service Mapping](c_UndestandMaps.md)
 
 [Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_BusinesssServiceManagementMaps.md)
 

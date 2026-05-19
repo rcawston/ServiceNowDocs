@@ -42,5 +42,5 @@ Role required: admin \[sn\_jny.admin\]
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

@@ -17,7 +17,7 @@ Plan your teams' work and assign work items such as incidents, problems, change 
 
 ## Before you begin
 
-**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for Customer Service reference](../reference/work-scheduler-wfo-cs-reference.md).
+**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for Customer Service reference](work-scheduler-wfo-cs-reference.md).
 
 Role required: sn\_wfo\_work\_sched.manager
 
@@ -76,7 +76,7 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
     1.  Select a task that you want to assign to an agent.
 
-        When you enable the **Show suggested only** option, by default, you can choose to display team members based on their availability, skills, or time zone. The ranking of the team members are based on matching assignment rules set for each criteria. Work scheduler uses [Assignment workbench](../../customer-service-management/concept/case-assignment-matching-criteria.md) to evaluate agents to work on tasks.
+        When you enable the **Show suggested only** option, by default, you can choose to display team members based on their availability, skills, or time zone. The ranking of the team members are based on matching assignment rules set for each criteria. Work scheduler uses [Assignment workbench](../case-assignment-matching-criteria.md) to evaluate agents to work on tasks.
 
         You can select one or more of these criteria and the ranking of the team members will be based on the selected criteria:
 
@@ -111,5 +111,5 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
     ![Infographic displaying the Work Scheduler form with work queues based on unassigned incidents.](../../configurable-workforce-optimization-itsm/image/work-scheduler-ui.png)
 
 
-**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for Customer Service](../concept/work-scheduler-wfo-cs.md)
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for Customer Service](work-scheduler-wfo-cs.md)
 

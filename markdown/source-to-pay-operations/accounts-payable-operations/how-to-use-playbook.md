@@ -29,7 +29,7 @@ Role required: Accounts Payable specialist
 
 3.  Select **Invoices &gt;****All invoices.**
 
-    You can create an invoice manually. For more information on invoices, see [Work with invoices](../concept/work-with-invoices.md).
+    You can create an invoice manually. For more information on invoices, see [Work with invoices](work-with-invoices.md).
 
 4.  Select **View Invoice processing case**.
 
@@ -59,7 +59,7 @@ Role required: Accounts Payable specialist
 
     8.  Select **Add tax**.
 
-        The **Add tax lines to the invoice** pop-up box displays. You can choose to add tax lines associated with invoice line. For more information on the fields of tax lines, see [Invoice Tax lines fields](../reference/tax-lines.md).
+        The **Add tax lines to the invoice** pop-up box displays. You can choose to add tax lines associated with invoice line. For more information on the fields of tax lines, see [Invoice Tax lines fields](tax-lines.md).
 
     9.  Select an **Invoice line** in which you would like to add the tax lines.
 
@@ -121,7 +121,7 @@ Role required: Accounts Payable specialist
 
 8.  Select **Review exceptions**.
 
-    The list of exceptions raised for the invoice is listed. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md). This stage is set to auto-complete if the invoice doesn't run into exceptions.
+    The list of exceptions raised for the invoice is listed. For more information on exceptions, see [Invoice exceptions](work-with-invoice-exceptions.md). This stage is set to auto-complete if the invoice doesn't run into exceptions.
 
     1.  Review the exceptions generated for the invoice using the **Resolve exceptions** card, and resolve exceptions if any.
 
@@ -149,14 +149,14 @@ Role required: Accounts Payable specialist
 
     1.  In the **Review Integration errors** activity, review the integration errors generated for the invoice.
 
-        For more information on integration errors, see [Integration errors](../concept/integration-errors-during-erp-posting.md).
+        For more information on integration errors, see [Integration errors](integration-errors-during-erp-posting.md).
 
     2.  The playbook auto-selects a **Review payments** activity.
 
-        You can view the payment details of the invoice. For more information on the payment form, see [Payment terms](../reference/payment-terms.md)
+        You can view the payment details of the invoice. For more information on the payment form, see [Payment terms](payment-terms.md)
 
     The invoice processing case is completed with status set to **Paid**.
 
 
-**Parent Topic:**[Playbook for updating the invoice primary data](../concept/playbooks.md)
+**Parent Topic:**[Playbook for updating the invoice primary data](playbooks.md)
 

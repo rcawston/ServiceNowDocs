@@ -219,7 +219,7 @@ HR task template
 
 </td><td>
 
-HR task template to use with the activity.**Note:** An HR task template automatically populates fields on the HR task form when the task is generated. See [Configure an HR task template](configure-hr-task-template.md) for more information.
+HR task template to use with the activity.**Note:** An HR task template automatically populates fields on the HR task form when the task is generated. See [Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md) for more information.
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ Badge
 
 </td><td>
 
-Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](CreateModHRBadges.md) for more information.
+Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](../hr-service-delivery/CreateModHRBadges.md) for more information.
 
 </td></tr><tr><td>
 
@@ -449,7 +449,7 @@ HR Service
 
 </td><td>
 
-An HR service fulfills the activity. In the **HR service** field, select the HR service to use.**Note:** HR services are the requests and assistance an HR organization provides its employees. See [HR services](../concept/hr-service-administration.md) for more information.
+An HR service fulfills the activity. In the **HR service** field, select the HR service to use.**Note:** HR services are the requests and assistance an HR organization provides its employees. See [HR services](../hr-service-delivery/hr-service-administration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -457,7 +457,7 @@ HR Task
 
 </td><td>
 
-An HR task fulfills the activity. In the **HR task template** field, select the HR task template to use.**Note:** An HR task template automatically populates fields on the HR task form when the task is generated. See [Configure an HR task template](configure-hr-task-template.md) for more information.
+An HR task fulfills the activity. In the **HR task template** field, select the HR task template to use.**Note:** An HR task template automatically populates fields on the HR task form when the task is generated. See [Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md) for more information.
 
 </td></tr><tr><td>
 
@@ -489,7 +489,7 @@ Badge
 
 </td><td colspan="2">
 
-Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](CreateModHRBadges.md) for more information.
+Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](../hr-service-delivery/CreateModHRBadges.md) for more information.
 
 </td></tr><tr><td>
 
@@ -870,7 +870,7 @@ Badge
 
 </td><td>
 
-Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](CreateModHRBadges.md) for more information.
+Badge that the fulfiller activity type is associated with. **Note:** Badges display on the portal to indicate to the employee which department is fulfilling that activity. See [Configure an HR badge](../hr-service-delivery/CreateModHRBadges.md) for more information.
 
 </td></tr><tr><td>
 
@@ -1453,7 +1453,7 @@ Previously, only the Subject person could answer questions from an activity with
     -   The hiring manager can answer the survey indicating if the new hires require special equipment.
     -   If the answer is yes, a new survey can be created in a downstream activity set that asks what specific safety equipment are required.
     -   Anyone that has access to the original lifecycle event case can answer the second survey requesting specific safety equipment for the new hires.
-    -   To configure this activity, associate an HR template that has an HR task type of **Collect Employee Input**. For more information, see [Configure an HR task template](configure-hr-task-template.md) and [Adding an HR task to an HR case](t_ViewAnHRTask.md).
+    -   To configure this activity, associate an HR template that has an HR task type of **Collect Employee Input**. For more information, see [Configure an HR task template](../hr-service-delivery/configure-hr-task-template.md) and [Adding an HR task to an HR case](../hr-service-delivery/t_ViewAnHRTask.md).
     -   -   **System property**
 
     The sn\_hr\_core.create\_new\_survey\_instances system property determines if new survey instances are created with each survey task even when an existing survey instance for the same user exists.

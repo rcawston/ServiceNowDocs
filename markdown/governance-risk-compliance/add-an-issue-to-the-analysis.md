@@ -51,7 +51,7 @@ Add an existing issue to the analysis. The following example shows how to add an
 
 Create an issue that you can add to the scenario analysis. The following example shows how to create an issue that you can add to the scenario analysis.![Create an issue that you can add to the scenario analysis.](../image/create-new-issue-opres.png "Create an issue that you can add to the scenario analysis")
 
- For the descriptions of the field values on the Create New Issue form, see [Create New Issue form](../reference/create-new-issue-opres-ws.md).
+ For the descriptions of the field values on the Create New Issue form, see [Create New Issue form](create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
 </table>3.  In the Operational vulnerabilities tab, add an operational vulnerability to the scenario analysis.
@@ -62,7 +62,7 @@ Create an issue that you can add to the scenario analysis. The following example
 
     2.  On the form, fill in the fields.
 
-        For more information on the fields, see [Create New Operational vulnerability form](../../grc-operational-res/reference/create-new-op-vul-form.md).
+        For more information on the fields, see [Create New Operational vulnerability form](create-new-op-vul-form.md).
 
 4.  Select **Save**.
 

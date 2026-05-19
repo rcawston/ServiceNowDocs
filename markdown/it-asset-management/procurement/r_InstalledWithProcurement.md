@@ -28,5 +28,5 @@ Procurement plugin adds the following tables.
 -   **[User roles installed with Procurement](r_UserRolesProcurement.md)**  
 Procurement plugin adds the following user roles.
 
-**Parent Topic:**[Activate Procurement](../task/t_ActivateProcurement.md)
+**Parent Topic:**[Activate Procurement](t_ActivateProcurement.md)
 

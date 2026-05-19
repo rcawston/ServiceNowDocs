@@ -48,5 +48,5 @@ If you’re a non-admin user, you can’t add a user to a group that contains th
         **Note:** Before selecting **Delete**, first make sure you have properly selected the rows containing the users you want to remove from the group.
 
 
-**Parent Topic:**[Creating groups](../../roles/concept/ua-creating-groups.md)
+**Parent Topic:**[Creating groups](ua-creating-groups.md)
 

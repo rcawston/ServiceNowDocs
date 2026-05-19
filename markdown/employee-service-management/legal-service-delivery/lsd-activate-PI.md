@@ -31,7 +31,7 @@ Role required: admin
 
 Roles are installed with Predictive Intelligence for Legal Service Delivery:
 
-For more information, see [Components installed for Advanced Work Assignment for Legal Service Delivery reference](../../lsd-adv-work-assignment/reference/lsd-components-installed-awa.md).
+For more information, see [Components installed for Advanced Work Assignment for Legal Service Delivery reference](lsd-components-installed-awa.md).
 
 ## Procedure
 

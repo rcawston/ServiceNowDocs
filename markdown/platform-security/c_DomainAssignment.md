@@ -46,7 +46,7 @@ For example, assigning Bow Ruggeri to the ACME company automatically assigns him
 
 ## Using business rules to assign domains
 
-Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md).
+Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [Domain separation recommended practices for service providers](bp-domain-sep-recommended.md).
 
 ## Using modules to assign domains
 
@@ -80,5 +80,5 @@ If no other domain conditions apply, a record automatically inherits the domain 
 
 [Concepts for service providers](sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](r_InstalledWithDomainSeparation.md)
 

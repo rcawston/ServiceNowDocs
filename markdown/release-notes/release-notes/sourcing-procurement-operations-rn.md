@@ -14,7 +14,7 @@ The ServiceNow® Sourcing and Procurement Operations application provides your e
 
 ## Sourcing and Procurement Operations highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 

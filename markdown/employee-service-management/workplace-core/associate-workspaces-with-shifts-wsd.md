@@ -40,5 +40,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 [Create workplace reservations for an employee](reserve-workspaces-for-employees-wsd.md).
 
-**Parent Topic:**[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+**Parent Topic:**[Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 

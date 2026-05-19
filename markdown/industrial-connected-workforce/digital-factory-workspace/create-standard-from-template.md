@@ -40,5 +40,5 @@ Role required: sn\_icw\_igt.standard\_author
 
 A new standard is created and displayed in the Standards hub. The standard is in either the Draft or Published state.
 
-**Parent Topic:**[Using templates to create standards](../concept/creating-standards-from-templates.md)
+**Parent Topic:**[Using templates to create standards](creating-standards-from-templates.md)
 

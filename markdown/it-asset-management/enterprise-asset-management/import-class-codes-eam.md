@@ -46,5 +46,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
 10. Fix the error, upload the spreadsheet, and import the record again.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

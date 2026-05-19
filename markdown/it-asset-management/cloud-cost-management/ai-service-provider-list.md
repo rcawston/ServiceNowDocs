@@ -81,10 +81,10 @@ Google Cloud Platform \(GCP\)
 -   Vertex AI Search
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 
 **Related topics**  
 
 
-[Add or update a tag value for an AI Service tag category](../task/create-tag-value-ai.md)
+[Add or update a tag value for an AI Service tag category](create-tag-value-ai.md)
 

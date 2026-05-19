@@ -43,5 +43,5 @@ The following items are installed with Notifications:
 -   **[Index AI Search for notifications](index-ai-search-for-notification.md)**  
 Make content from multiple internal indexed sources searchable by performing a full table index. This procedure indexes existing records from the source tables and any child tables configured for indexing.
 
-**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](../concept/advanced-notification-prefrences.md)
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](advanced-notification-prefrences.md)
 

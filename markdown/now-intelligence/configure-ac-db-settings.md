@@ -16,7 +16,7 @@ You can set refresh interval details and background colors, enable data caching 
 
 ## Before you begin
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
 
 ## Procedure
 
@@ -63,6 +63,6 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
     -   Choose whether and which analytics to show in the **Insights** section.
 
-        When you select **Show insights panel**, an **Insights** button is added to the dashboard. When a viewer presses this button, insights cards corresponding to the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+        When you select **Show insights panel**, an **Insights** button is added to the dashboard. When a viewer presses this button, insights cards corresponding to the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](proactive-analytics/proactive-analytics.md).
 
 

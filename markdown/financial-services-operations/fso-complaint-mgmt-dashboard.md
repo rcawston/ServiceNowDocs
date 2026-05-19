@@ -152,5 +152,5 @@ The following table shows the available filters in the Financial Services Compla
 |Complaint Category|Choice|Shows all the active complaint categories for the Complaint service \[sn\_bom\_compl\_service\] table.|
 |Complaint Type|Choice|Shows all the active complaint types for the Complaint service \[sn\_bom\_compl\_service\] table.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

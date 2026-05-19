@@ -35,5 +35,5 @@ In the Pub/Sub model, incoming notifications are categorized into topics. You us
 
 [Configuring Telecommunications API notifications](configuring-telecommunications-api-notifications.md)
 
-[System components installed with Telecommunications API notifications](../reference/alarm-management-user-roles.md)
+[System components installed with Telecommunications API notifications](alarm-management-user-roles.md)
 

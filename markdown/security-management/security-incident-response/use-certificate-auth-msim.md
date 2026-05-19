@@ -56,5 +56,5 @@ Role required: admin
     **Note:** You can use a Hexadecimal to Base64 \(Hex to Base64\) converter tool to encode the **Thumbprint** value to a Base64 value.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](../../secops-integration-major-security-incident-management/concept/integrate-msim-sharepoint.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](integrate-msim-sharepoint.md)
 

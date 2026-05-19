@@ -38,5 +38,5 @@ Role required: evt\_mgmt\_admin
     The ICM module restarts.
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](sap-solman-configurations.md)
 

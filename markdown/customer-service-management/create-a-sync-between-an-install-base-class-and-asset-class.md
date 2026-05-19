@@ -15,7 +15,7 @@ You can synchronize the asset class, configuration item \(CI\) class, and the in
 
 ## Overview
 
-By mapping the install base class, configuration item class, and asset class fields, you can synchronize the information on both the install base item and the asset form. This mapping creates a bidirectional synchronization. For example, you can update any one of the **Location**, **Install date**, **Consumer**, **Account**, **State**, and **Contact** fields on the install base item form to create a synchronization between the install base item and the asset form. For more information on the different fields on the install base form, see [Create an install base item](../task/create-install-base-item.md).
+By mapping the install base class, configuration item class, and asset class fields, you can synchronize the information on both the install base item and the asset form. This mapping creates a bidirectional synchronization. For example, you can update any one of the **Location**, **Install date**, **Consumer**, **Account**, **State**, and **Contact** fields on the install base item form to create a synchronization between the install base item and the asset form. For more information on the different fields on the install base form, see [Create an install base item](create-install-base-item.md).
 
 **Note:** You must update the **Consumer** and **Account** fields from the install base item to synchronize the updates to the asset form. Updating the fields on the asset form doesn’t synchronize the updates to the install base item.
 

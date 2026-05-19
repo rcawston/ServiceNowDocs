@@ -63,7 +63,7 @@ Weight
 
 </td><td>
 
-Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [Weight Metrics and Metric Categories](../concept/c_AssessmentMetrics.md).
+Numeric value that represents the importance of this metric relative to other metrics in the same category. By default, the weight is 10. For weighting suggestions, see [Weight Metrics and Metric Categories](c_AssessmentMetrics.md).
 
  This field is visible and required unless the **Data type** is **Date**, **Date/Time**, or **String**. These data types are not included in results calculations.
 
@@ -73,7 +73,7 @@ Order
 
 </td><td>
 
-Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [Complete Assessment Questionnaires](../concept/c_AssessmentQuestionnaires.md). **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
+Numeric value that determines the order of the metric question on assessment questionnaires, relative to other metric questions in the same category. The metric with the smallest order value appears as the first question in the category section. By default, the order is 100. For more information about questionnaire layout, see [Complete Assessment Questionnaires](c_AssessmentQuestionnaires.md). **Note:** It does not matter which order value you use for metrics with the Script method, as they do not appear on questionnaires.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Mandatory
 
 </td><td>
 
-Check box that makes the metric question mandatory \(selected\) or optional \(cleared\) on assessment questionnaires. Users cannot submit questionnaires until they provide valid responses to all mandatory questions, which display a red [field status indicator](../concept/c_AssessmentQuestionnaires.md).
+Check box that makes the metric question mandatory \(selected\) or optional \(cleared\) on assessment questionnaires. Users cannot submit questionnaires until they provide valid responses to all mandatory questions, which display a red [field status indicator](c_AssessmentQuestionnaires.md).
 
  This field is visible only if the **Method** is **Assessment**, the **Depends on** field is empty, and the data type is not **Checkbox**.
 
@@ -267,5 +267,5 @@ Lists all metric definitions, which appear as answer options for questions on as
 **Related topics**  
 
 
-[Create an assessment metric for a category](../task/t_CreateAMetric.md)
+[Create an assessment metric for a category](t_CreateAMetric.md)
 

@@ -83,7 +83,7 @@ When configuring a details screen, you select fields to display on your form. Wh
 
 </td></tr><tr><td>
 
-**Date** Use a date screen field to display a date value on your form. This value comes from a date or date/time field on the current record. Dates are displayed in the format that are defined by your instance. This field type has a**Value only** option, which displays the value of the field without the field label. If the field is configured with an action function, users can change the values of these fields. For more information, see [Configure an action function](../task/sg-studio-config-action-function.md).
+**Date** Use a date screen field to display a date value on your form. This value comes from a date or date/time field on the current record. Dates are displayed in the format that are defined by your instance. This field type has a**Value only** option, which displays the value of the field without the field label. If the field is configured with an action function, users can change the values of these fields. For more information, see [Configure an action function](sg-studio-config-action-function.md).
 
 </td><td>
 
@@ -113,8 +113,8 @@ When configuring a details screen, you select fields to display on your form. Wh
 ![Script screen option in a record screen.](../image/record-script-screen-platform.png)
 
 </td></tr></tbody>
-</table>-   **[Add screen fields to a record screen](../task/sg-mobile-add-screen-field.md)**  
+</table>-   **[Add screen fields to a record screen](sg-mobile-add-screen-field.md)**  
 Add screen fields to improve the usability of your record screens. Screen fields enable you to change how information is shown in your form or you can provide access to additional elements, such as attachments, videos, or links.
--   **[Add a video screen field to a record screen](../task/sg-mobile-add-video-field.md)**  
+-   **[Add a video screen field to a record screen](sg-mobile-add-video-field.md)**  
 Learn how to use a video screen field to view embedded videos in your mobile screens.
 

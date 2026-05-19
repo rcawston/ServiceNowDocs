@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the Linux Pacemaker Cluster discovery pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-This pattern is an extension section of the [Linux Server](../../discovery/reference/r_DataCollDiscoLinuxComputers.md) pattern. Discovery uses the pattern to run horizontal discovery.
+This pattern is an extension section of the [Linux Server](../itom-visibility/r_DataCollDiscoLinuxComputers.md) pattern. Discovery uses the pattern to run horizontal discovery.
 
 You can use this pattern on the ServiceNow AI Platform® using the Madrid release or later.
 
@@ -97,5 +97,5 @@ These relationships are created to support Linux Pacemaker Cluster discovery:
 |Contains::Contained by|cmdb\_ci\_unix\_cluster\_node|
 |Contains::Contained by|cmdb\_ci\_unix\_cluster\_resource|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -28,7 +28,7 @@ The Price Import \[sn\_spend\_intg\_imp\_price\] staging table temporarily store
 |Supplier part number|String|Unique identifier assigned by a supplier to a specific product or part that they provide.|
 |Third party import ID|String|Unique identifier for external data imports.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

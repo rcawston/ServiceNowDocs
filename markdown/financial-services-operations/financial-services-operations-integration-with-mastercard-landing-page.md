@@ -27,11 +27,11 @@ The ServiceNow® Financial Services Operations Integration with Mastercard strea
 
 </td></tr><tr><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to seamlessly integrate with Mastercard Spoke.](../task/activate-mastercard-spoke.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to seamlessly integrate with Mastercard Spoke.](activate-mastercard-spoke.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed.](../reference/components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed.](components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
 
 </td></tr></tbody>
 </table>## Request Financial Services Operations Integration with Mastercard on the store

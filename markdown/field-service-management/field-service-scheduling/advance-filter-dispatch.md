@@ -19,5 +19,5 @@ Dispatchers can create their own advanced resource filters in Dispatcher Workspa
 
 Dispatchers can also create any number of advanced filters and save them to use at any other time. Contact your administrator if you don’t see the advanced filters in Dispatcher Workspace.
 
-For more information on configuring advanced resources, see [Configuring advanced resource filters for Dispatcher Workspace](configure-advanced-filter.md).
+For more information on configuring advanced resources, see [Configuring advanced resource filters for Dispatcher Workspace](../configure-advanced-filter.md).
 

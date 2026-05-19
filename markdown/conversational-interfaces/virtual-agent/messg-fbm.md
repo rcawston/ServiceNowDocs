@@ -25,7 +25,7 @@ Select a tile to get started.
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational Integration with Facebook Messenger implementation.](../task/messg-fbm-configure.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational Integration with Facebook Messenger implementation.](messg-fbm-configure.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Customers are solely responsible for the implementation of the Conversational In
 
 -   **[Exploring Conversational Integration with Facebook Messenger](exploring-va-fb-messenger.md)**  
 Use this application to enable your users to initiate a Facebook Messenger chat conversation with Virtual Agent.
--   **[Configure Conversational Integration with Facebook Messenger](../task/messg-fbm-configure.md)**  
+-   **[Configure Conversational Integration with Facebook Messenger](messg-fbm-configure.md)**  
 Install and set up the Conversational Integration with Facebook Messenger application to enable your users to interact with virtual and live agents.
 -   **[Using Conversational Integration with Facebook Messenger](messg-fbm-using.md)**  
 Enable a requester to converse with an agent using the Facebook Messenger chat conversations.

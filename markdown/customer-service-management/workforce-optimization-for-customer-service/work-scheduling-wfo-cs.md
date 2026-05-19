@@ -19,9 +19,9 @@ The following image provides a high-level overview of Work scheduler.![Overview 
 
 As an administrator, you can:
 
--   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [Set up a work configuration](../task/setup-work-scheduler-wfo-cs.md).
--   Create work scheduler cards and configure them based on your needs. For more information, see [Create a Work scheduler card using the Next Experience UI Builder](../task/create-workscheduler-card-wfo-cs.md).
--   Associate the work scheduler cards with work configurations. For more information, see [Associate a work scheduler card to the work configuration](../task/associate-card-config-wfo-cs.md).
+-   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [Set up a work configuration](setup-work-scheduler-wfo-cs.md).
+-   Create work scheduler cards and configure them based on your needs. For more information, see [Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md).
+-   Associate the work scheduler cards with work configurations. For more information, see [Associate a work scheduler card to the work configuration](associate-card-config-wfo-cs.md).
 
 As a manager, you can:
 
@@ -39,8 +39,8 @@ Easily find tasks you need to complete in the Scheduling module.
 
 |Benefit|User|Finding tasks to complete in Work scheduler|
 |-------|----|-------------------------------------------|
-|Activate Work scheduler in Workforce Optimization for Customer Service.|admin|[Activate Work scheduler](../task/request-configurable-wfo-cs.md)|
-|Refer to the components such as system properties used in Work scheduler.|[Any Work scheduler role](../reference/work-scheduler-wfo-cs-reference.md)|[Understand components used in Work scheduler in Workforce Optimization for CSM](../reference/work-scheduler-wfo-cs-reference.md)|
-|Set up Work scheduler for the Work scheduler managers so that assign work items based on their teams' skills, availability, and capacity.|[Work scheduler admin](../reference/components-installed-configurable-wfo-cs.md)|[Set up Work scheduler in Workforce Optimization for CSM](setting-up-work-scheduler-wfo-cs.md)|
-|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](../reference/components-installed-configurable-wfo-cs.md)|[Use Work scheduler in Workforce Optimization for CSM](work-scheduler-wfo-cs.md)|
+|Activate Work scheduler in Workforce Optimization for Customer Service.|admin|[Activate Work scheduler](request-configurable-wfo-cs.md)|
+|Refer to the components such as system properties used in Work scheduler.|[Any Work scheduler role](work-scheduler-wfo-cs-reference.md)|[Understand components used in Work scheduler in Workforce Optimization for CSM](work-scheduler-wfo-cs-reference.md)|
+|Set up Work scheduler for the Work scheduler managers so that assign work items based on their teams' skills, availability, and capacity.|[Work scheduler admin](components-installed-configurable-wfo-cs.md)|[Set up Work scheduler in Workforce Optimization for CSM](setting-up-work-scheduler-wfo-cs.md)|
+|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](components-installed-configurable-wfo-cs.md)|[Use Work scheduler in Workforce Optimization for CSM](work-scheduler-wfo-cs.md)|
 

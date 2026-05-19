@@ -342,5 +342,5 @@ IsVirtual
 Option to indicate if the device is running on a virtual machine instance.​
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health Log Analytics reference](../concept/hla-reference.md)
+</table>**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

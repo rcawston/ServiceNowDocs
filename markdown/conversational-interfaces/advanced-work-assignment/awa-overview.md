@@ -67,7 +67,7 @@ AWA helps organizations make the best use of available resources by matching the
 
 </td><td>
 
-[Configure agent assignment rules](../task/awa-create-assignment-rule.md)
+[Configure agent assignment rules](awa-create-assignment-rule.md)
 
 </td><td>
 
@@ -96,27 +96,27 @@ awa\_admin or admin
 
     A single piece of work handled by an agent from start to completion. For example, one chat or one case is an object that is routed and assigned to agents.
 
--   **[Work item queues](../reference/awa-queues.md)**
+-   **[Work item queues](awa-queues.md)**
 
     A queue stores a specific type of work item for a service channel. AWA admins can create queues that focus on certain types of support within the channel, such as VIP customers or critical cases. AWA routes work items to queues based on specific conditions or requirements that you define, such as customer status, or region. Groups assigned to each queue handle the incoming work items. After work items are placed in a queue, AWA can then assign items to available agents based on assignment rules and agent availability and capacity.
 
--   **[Assignment groups](../task/awa-groups.md)**
+-   **[Assignment groups](awa-groups.md)**
 
     Agents belong to specific groups organized by the type of work assigned to them. You provide details about an assignment group including the name and description, manager, and group email. You can also set up roles, groups and group members, queues, and agent capacity overrides for agents in an assignment group.
 
--   **[Assignment rule](../task/awa-create-assignment-rule.md)**
+-   **[Assignment rule](awa-create-assignment-rule.md)**
 
     Criteria that determines how work items are pushed to the appropriate agent within a qualified assignment group.
 
--   **[Agent capacity](../task/awa-agent-presence.md)**
+-   **[Agent capacity](awa-agent-presence.md)**
 
-    The maximum number of work items on a particular service channel that an agent may actively work on at one time. If you want to set a maximum capacity for an agent across all service channels, define the maximum universal capacity for that agent. For information on configuring the maximum universal capacity, see [Configure an agent's maximum universal capacity](../task/awa-universal-capacity.md). Messaging Interactions in an On Hold state aren’t calculated as part of an agent's capacity.
+    The maximum number of work items on a particular service channel that an agent may actively work on at one time. If you want to set a maximum capacity for an agent across all service channels, define the maximum universal capacity for that agent. For information on configuring the maximum universal capacity, see [Configure an agent's maximum universal capacity](awa-universal-capacity.md). Messaging Interactions in an On Hold state aren’t calculated as part of an agent's capacity.
 
--   **[Agent availability](../task/awa-agent-presence.md)**
+-   **[Agent availability](awa-agent-presence.md)**
 
     States that indicate agent presence and whether the agent is available for work or is busy or offline. AWA uses the agent availability state to determine if an agent is able to receive work.
 
--   **[Inbox layout](../task/awa-modify-inbox-layout.md)**
+-   **[Inbox layout](awa-modify-inbox-layout.md)**
 
     A configuration tied to a service channel that defines which fields of a record representing a work item are shown in agent inboxes. A layout defines what the agent sees in Agent Workspace.
 

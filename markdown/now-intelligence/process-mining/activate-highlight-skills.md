@@ -34,5 +34,5 @@ Role required: admin
     The skill is activated for your instance.
 
 
-**Parent Topic:**[Working with process inefficiency highlights using Now Assist](../concept/highlights.md)
+**Parent Topic:**[Working with process inefficiency highlights using Now Assist](highlights.md)
 

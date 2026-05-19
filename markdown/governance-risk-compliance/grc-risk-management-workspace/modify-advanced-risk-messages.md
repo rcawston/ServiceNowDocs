@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Risk Management](../concept/configure-risk-mgmt.md)
+**Parent Topic:**[Configuring Risk Management](configure-risk-mgmt.md)
 

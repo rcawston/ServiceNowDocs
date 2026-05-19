@@ -45,7 +45,7 @@ To enable redirection for a notification, replace the standard URL variables wit
 
 When users select links in the modified notification, the system automatically directs them based on their workspace access. If they have workspace access, they're directed to workspace view. If they don't have workspace access, they're directed to classic view.
 
-**Parent Topic:**[GRC notification redirection](../concept/email-notification-redirection.md)
+**Parent Topic:**[GRC notification redirection](email-notification-redirection.md)
 
 **Related topics**  
 

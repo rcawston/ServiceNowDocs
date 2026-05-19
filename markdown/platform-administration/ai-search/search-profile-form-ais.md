@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Search Profile form contains information about your search profiles defined for AI Search. Use this form when creating or modifying a search profile.
 
-For details on creating or editing search profiles, see [Create a search profile](../task/create-search-profile-ais.md).
+For details on creating or editing search profiles, see [Create a search profile](create-search-profile-ais.md).
 
 <table id="table_atb_k2r_gnb"><thead><tr><th>
 
@@ -84,5 +84,5 @@ State of the search profile.-   **New**: The search profile has never been publi
 -   **Published**: The search profile is saved with all changes published.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

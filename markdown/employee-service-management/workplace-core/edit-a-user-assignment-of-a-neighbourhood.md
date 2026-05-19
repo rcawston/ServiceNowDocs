@@ -70,5 +70,5 @@ You can add only users with workplace profiles to a neighborhood. Perform the fo
 
 The user assignment is updated. Neighborhood assignments are applicable if **Neighborhood** is selected as the group by or view by option in a scenario or building overview. Location assignments are applicable for all other options.
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](neighborhoods.md)
 

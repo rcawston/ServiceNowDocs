@@ -385,5 +385,5 @@ When selecting the files to move from the source host, the system uses this logi
     -   If the **Exclude files** field contains file names, the system moves all the files from the source directory and its subfolders except those excluded files.
 -   When the **Include subfolders** check box is cleared, the system looks only in the source directory for files to move or exclude.
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](c_OrchestrationSFTPActivityPack.md)
 

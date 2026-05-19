@@ -58,5 +58,5 @@ The following list of tables are not supported by the ATF tests failure resoluti
 -   sc\_cat\_item\_content
 -   catalog\_script\_client
 
-**Parent Topic:**[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+**Parent Topic:**[Accelerate ATF tests failure resolution](atf-test-triage.md)
 

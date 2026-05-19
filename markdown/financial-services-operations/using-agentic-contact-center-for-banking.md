@@ -18,18 +18,18 @@ Learn about the tasks customer service representatives perform in Agentic Contac
 
 Customer service representatives perform these tasks in Agentic Contact Center for Banking:
 
--   [View customer accounts and transactions in Agentic Contact Center for Banking](../task/view-customer-accounts-and-transactions.md)
+-   [View customer accounts and transactions in Agentic Contact Center for Banking](view-customer-accounts-and-transactions.md)
 
     Review a customer's financial summary, account holdings, and account details in the Customer 360 page to understand the customer's overall position with the bank before or during an interaction.
 
--   [View customer cases in Agentic Contact Center for Banking](../task/view-cases.md)
+-   [View customer cases in Agentic Contact Center for Banking](view-cases.md)
 
     Review service cases for a customer's account in the Customer 360 page to understand account activity and any open or historical service requests.
 
--   [Work on an interaction in Agentic Contact Center for Banking](../task/work-on-an-interaction.md)
+-   [Work on an interaction in Agentic Contact Center for Banking](work-on-an-interaction.md)
 
     Manage customer interactions in the Interaction page. Accept incoming calls and resolve issues with AI-powered assistance.
 
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

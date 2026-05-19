@@ -36,5 +36,5 @@ Role required: discovery\_admin
 
 When a Discovery status cancels, any associated sensor transactions are immediately terminated and any scheduled sensor jobs are deleted from the system. After cancellation, the cleanup Status shows the **Completed count** and the cancellation is logged in the Discovery log. In the Queue \[ecc\_queue\] table, any records belonging to sensors exceeding the Transaction Quota Rule are set to the **Error** state.
 
-**Parent Topic:**[Discovery status](../concept/c_DiscoveryStatus.md)
+**Parent Topic:**[Discovery status](c_DiscoveryStatus.md)
 

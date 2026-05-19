@@ -508,5 +508,5 @@ Activities
 Message logs of control requirement's state change.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+</table>**Parent Topic:**[CAM reference](reference-grc-cam.md)
 

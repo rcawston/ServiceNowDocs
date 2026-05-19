@@ -46,5 +46,5 @@ Content types for a permission determine the access that users have to certain c
 -   **[Create a permission exception](manage-permission-exceptions.md)**  
 Create a permission exception for users who require specific permissions for a forum.
 
-**Parent Topic:**[Forum and user permissions management](../concept/communities-permissions.md)
+**Parent Topic:**[Forum and user permissions management](communities-permissions.md)
 

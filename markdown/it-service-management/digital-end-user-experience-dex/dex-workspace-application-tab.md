@@ -23,5 +23,5 @@ To refine your search based on applications, use the Applications filter. The ap
 
 Select the column filtering row icon \(![](../image/icon-filtering-row.png)\) to choose the desired filter condition from the drop-down list of the filter section and enter the desired value. In the following field, select **Web** or **Installed** and then select **Apply**. For example, if you want to choose all applications that begin with the letter "M", select the "starts with" option from the drop-down menu. Then enter "M" in the subsequent field and select **Apply**.
 
-To learn details of any application, select the name of the application. For more details on each field, see [Applications list](../reference/application-form.md).
+To learn details of any application, select the name of the application. For more details on each field, see [Applications list](application-form.md).
 

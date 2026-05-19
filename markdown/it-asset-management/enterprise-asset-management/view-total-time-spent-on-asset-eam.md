@@ -103,5 +103,5 @@ The total time spent is grouped by the following task categories:
     -   **Closed**: The date and time when the asset task was closed.
     -   **Task category**: Category to which the task belongs.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

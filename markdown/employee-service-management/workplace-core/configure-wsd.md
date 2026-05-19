@@ -30,13 +30,13 @@ Workplace data can be created and maintained directly in the system or imported 
 
 Enabling Virtual Agent provides employees with a conversational interface for workplace interactions, improving accessibility and self service capabilities.
 
--   **[Install Workplace Core](../task/install-workplace-service-delivery.md)**  
+-   **[Install Workplace Core](install-workplace-service-delivery.md)**  
 You can install the Workplace Core application if you have the admin role. This application includes optional demo data.
 -   **[Providing your workplace data](providing-your-workplace-data-wsd.md)**  
 In the Workplace Core application, provide data related to your workplace locations and designate workspaces.
 -   **[Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#)**  
 Import work location data in bulk through spreadsheets into the Workplace Core application to avoid manually entering redundant data for each workplace, which saves time and effort.
--   **[Activate Virtual Agent for Workplace Service Delivery](../task/actuvate-va-for-wsd.md)**  
+-   **[Activate Virtual Agent for Workplace Service Delivery](actuvate-va-for-wsd.md)**  
 Activate Virtual Agent for Workplace Service Delivery to provide user assistance to employees through a chat interface.
 
 **Parent Topic:**[Workplace Core](workplace-service-delivery-feat.md)

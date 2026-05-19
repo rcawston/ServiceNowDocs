@@ -118,7 +118,7 @@ The GRC Policy and Compliance Management plugin contains various indicators.
 The GRC Risk Management plugin contains various Performance Analytics indicators.
 -   **[GRC Profiles plugin indicators](indicators-grc-profiles.md)**  
 The GRC Profiles plugin contains various indicators.
--   **[Risk register in the Risk Workspace](../../../product/grc-workspace-risk/concept/risk-register-workspace.md)**  
+-   **[Risk register in the Risk Workspace](risk-register-workspace.md)**  
 The risk register contains the information about identified risks, results of risk analysis such as risk scores, and risk response plans. The risk register enables you to monitor and control the risks of your organization.
 
 **Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)

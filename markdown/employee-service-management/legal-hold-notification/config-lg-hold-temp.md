@@ -64,7 +64,7 @@ Table associated with the type of template, which in this case is sn\_lg\_matter
 </td></tr></tbody>
 </table>5.  Fill in the remaining fields as needed.
 
-    For more information, see [Configure an HTML document template](../../human-resources/task/configure-HTML-doc-template.md).
+    For more information, see [Configure an HTML document template](../hr-service-delivery/configure-HTML-doc-template.md).
 
 6.  Select **Publish**.
 
@@ -73,5 +73,5 @@ Table associated with the type of template, which in this case is sn\_lg\_matter
 
 A new legal hold notice template is created.
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](config-lg-hold-notif.md)
 

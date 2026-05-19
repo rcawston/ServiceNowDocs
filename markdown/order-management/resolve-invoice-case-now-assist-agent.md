@@ -82,5 +82,5 @@ When a customer is transferred from the Virtual Assistant, the interaction recor
 
 When the dispute is resolved, the invoice case is closed with the resolution details documented in the case notes, and an email notification is sent to the customer with a summary and a hyperlink to the case.
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
 

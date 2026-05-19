@@ -35,7 +35,7 @@ The following procedure works best for translating values for individual fields,
 
 4.  Select **Update**.
 
-    This creates a new record in the Translated Name / Field \[sys\_translated\] table for the selected language or updates the existing record if a translation already exists. For more information about this table, see [Translated Name / Field table](../reference/r_TranslatedNameFieldTable.md).
+    This creates a new record in the Translated Name / Field \[sys\_translated\] table for the selected language or updates the existing record if a translation already exists. For more information about this table, see [Translated Name / Field table](r_TranslatedNameFieldTable.md).
 
     ![New record added to the Translated Name / Fields table for the field value translated into Spanish.](../image/translated-field-value.png "Translated field")
 

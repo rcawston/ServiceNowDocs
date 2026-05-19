@@ -80,7 +80,7 @@ Your new model contains intents, entities, and vocabulary from the prebuilt mode
 
 ## What to do next
 
-Add more intents and training utterances to continue building the model. Update entities and vocabulary to help the model understand inputs from your users. For more information, see [Build and train your model](../concept/managing-model-content.md).
+Add more intents and training utterances to continue building the model. Update entities and vocabulary to help the model understand inputs from your users. For more information, see [Build and train your model](managing-model-content.md).
 
-Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](../concept/nlu-test-set-creation-management.md).
+Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](nlu-test-set-creation-management.md).
 

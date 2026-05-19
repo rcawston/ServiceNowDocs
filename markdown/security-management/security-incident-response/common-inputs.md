@@ -23,7 +23,7 @@ You can perform **Run Sighting Search** related integration capabilities action 
     **Note:** You can also navigate to the **Related Records** tab on the workspace to perform the integrations capabilities action.
 
 
-**Parent Topic:**[Unified Experience examples](../concept/unified-expereince-example.md)
+**Parent Topic:**[Unified Experience examples](unified-expereince-example.md)
 
 **Related topics**  
 

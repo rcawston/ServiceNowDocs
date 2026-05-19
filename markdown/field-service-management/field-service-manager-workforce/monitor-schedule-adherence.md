@@ -21,7 +21,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-For information on schedule adherence, see the "Schedule adherence" section in [Scheduling in Workforce Optimization for Field Service](../concept/scheduling-wfo-fsm.md).
+For information on schedule adherence, see the "Schedule adherence" section in [Scheduling in Workforce Optimization for Field Service](scheduling-wfo-fsm.md).
 
 ## Procedure
 

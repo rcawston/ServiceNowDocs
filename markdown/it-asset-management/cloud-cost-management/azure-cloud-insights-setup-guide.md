@@ -112,7 +112,7 @@ You assign Cloud Cost Management roles to user groups and to individual users ba
 
 </td><td>
 
-[Cloud Cost Management roles](../reference/cloud-insights-roles.md)
+[Cloud Cost Management roles](cloud-insights-roles.md)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ To enable Discovery to communicate with your Microsoft Azure account, you specif
 
 </td><td>
 
-[Configuring access to CI data on your Microsoft Azure account](../reference/azure-midserver-config-cloudin.md)
+[Configuring access to CI data on your Microsoft Azure account](azure-midserver-config-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ When you select the **Set up Price Sheets Download** button in the Download Pric
 
 </td><td>
 
-[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](../task/azure-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](azure-pricesht-sched-dwnld-cloudin.md)
 
 </td></tr><tr><td>
 

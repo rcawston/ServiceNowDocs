@@ -24,7 +24,7 @@ Role required: sn\_privacy.analyst \(who owns the processing activity\) or sn\_p
 You can create a processing activity in two ways:
 
 -   Manually create a processing activity for a business application or process that handles personal data.
--   Update a processing activity that was automatically created when a privacy screening assessment determined that personal data is being processed. Screening assessments include automation rules that create processing activities based on specific responses. To configure automation in your assessment template, refer to [Post-assessment automations](../../assessment-engine/concept/impact-automation.md).
+-   Update a processing activity that was automatically created when a privacy screening assessment determined that personal data is being processed. Screening assessments include automation rules that create processing activities based on specific responses. To configure automation in your assessment template, refer to [Post-assessment automations](../smart-assessment-engine/impact-automation.md).
 
 ## Procedure
 
@@ -290,5 +290,5 @@ Internal notes not visible to the external people.
 
 Send a privacy assessment to a processing activity owner to collect more information on why and how the processing activity is using personal information. For more information, see [Send a privacy assessment from a processing activity](send-privacy-asmt-from-pa.md).
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

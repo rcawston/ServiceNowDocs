@@ -36,7 +36,7 @@ Content filtering rules specify the role that a user must have to access the con
 
 ## Feature access
 
-You can also filter access to Workflow Studio flow features. Features are UI elements and sections. Access to both elements and sections can be managed by configuring content definitions and filtering rules. However, access to UI elements can also be managed through a simplified UI. For more information, see [Manage access to Workflow Studio flow features](../task/manage-access-features.md).
+You can also filter access to Workflow Studio flow features. Features are UI elements and sections. Access to both elements and sections can be managed by configuring content definitions and filtering rules. However, access to UI elements can also be managed through a simplified UI. For more information, see [Manage access to Workflow Studio flow features](manage-access-features.md).
 
 ## Read-only flows
 

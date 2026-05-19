@@ -48,7 +48,7 @@ Point to the relevant widget to view a specific datapoint and all of its details
 
 Use the **Time range filter** to filter the time range for which you want metric data to display on the dashboard.
 
-You can customize the appearance of the individual widgets on the HTTP Monitoring Technology Dashboard. For example, you could change the data parameters that display for the Response Time metric, like the time range that the response time is displayed. You can also include the customized widgets when you’re creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](../task/customize-dashboard-widgets.md).
+You can customize the appearance of the individual widgets on the HTTP Monitoring Technology Dashboard. For example, you could change the data parameters that display for the Response Time metric, like the time range that the response time is displayed. You can also include the customized widgets when you’re creating a custom dashboard. For more information, see [Customize the Monitoring Technology Dashboard](customize-dashboard-widgets.md).
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](monitor-tech-dashboard-concept.md)
 

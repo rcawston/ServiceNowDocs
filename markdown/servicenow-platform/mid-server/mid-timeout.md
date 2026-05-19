@@ -64,29 +64,29 @@ The purpose is a text field that the customer can update at any point to indicat
 
 [MID Server certificate check policies](mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](mid-server-encrypter-api.md)
 
 [MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)
 
 [MID Server unified key store](mid-unified-keystore.md#)
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](install-mid-mutual-auth.md)
 
-[MID Server Azure Key Vault integration](../task/mid-azure-key-vault-integration.md#)
+[MID Server Azure Key Vault integration](mid-azure-key-vault-integration.md#)
 
 [MID Server command audit log](mid-audit-log.md)
 
-[Rekey a MID Server](../task/t_RekeyAMIDServer.md)
+[Rekey a MID Server](t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](../task/mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](../task/mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)
 
 [MID Server FIPS Enforced Mode](mid-fips-enforced.md#)
 

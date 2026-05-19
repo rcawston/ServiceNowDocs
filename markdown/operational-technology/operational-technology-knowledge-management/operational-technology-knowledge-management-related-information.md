@@ -30,7 +30,7 @@ The extension classes help you understand how Operational Technology Management 
 
     The Knowledge Management application enables the sharing of information in knowledge bases. These knowledge bases contain articles that provide users with information such as self-help, troubleshooting, and task resolution.
 
--   **[Operational Technology Incident Management](../../mftg-manufacturing-ot-service-mgt/concept/operational-technology-incident-management-landing-page.md)**
+-   **[Operational Technology Incident Management](../operational-technology-incident-management/operational-technology-incident-management-landing-page.md)**
 
     The Operational Technology Incident Management application enables manufacturers to manage OT device incidents from the time the incident is opened to when it's complete.
 
@@ -39,5 +39,5 @@ The extension classes help you understand how Operational Technology Management 
     When integrated with Operational Technology Knowledge Management, the ServiceNow IT Service Management application enables engineers to resolve OT device and production process issues quickly.
 
 
-**Parent Topic:**[Operational Technology Knowledge Management reference](../concept/operational-technology-knowledge-management-reference-landing-page.md)
+**Parent Topic:**[Operational Technology Knowledge Management reference](operational-technology-knowledge-management-reference-landing-page.md)
 

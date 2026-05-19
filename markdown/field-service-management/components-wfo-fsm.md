@@ -478,7 +478,7 @@ Grants access to add training, assessments, and skill records.
 -   survey\_reader
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
@@ -495,7 +495,7 @@ Grants access to add training, assessments, and skill records.
 
 **Note:** You can customize the coaching opportunities for low CSAT, high TTR, SLA breach, and handling time based on your business needs.
 
-**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 |Name|Description|
 |----|-----------|
@@ -531,7 +531,7 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 </td></tr></tbody>
 </table>## Coaching with Learning
 
-**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 <table id="table_fk4_mwq_npb"><thead><tr><th>
 
@@ -767,7 +767,7 @@ Transforms JSON objects to internal objects and sets the word limit for records 
 
 You must add this system property to set the desired value. For more information, see [Add this system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-When you synchronize third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization will fail. For more information, see [Integrate Coaching With Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md).
+When you synchronize third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization will fail. For more information, see [Integrate Coaching With Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/integrate-learning-third-party-configurable-wfo-cs.md).
 
 </td></tr><tr><td>
 
@@ -778,10 +778,10 @@ com.snc.process\_flow.reporting.serialized.val\_size\_limit
 Specify the number of bytes allowed for runtime values in each step in the flow execution details. To prevent truncation, set the value to an integer equal to or less than zero.-   **Type:** integer
 -   **Default value:** 16384
 
- **Note:** When you synchronize third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization will fail. For more information, see [synchronize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md).
+ **Note:** When you synchronize third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization will fail. For more information, see [synchronize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/integrate-learning-third-party-configurable-wfo-cs.md).
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 ## Skill Recommendation
 

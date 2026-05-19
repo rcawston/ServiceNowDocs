@@ -113,5 +113,5 @@ Schedule Optimization calculates the travel duration to the event and from the e
 **Related topics**  
 
 
-[Configuring Schedule Optimization](schedule-optimization-engine.md)
+[Configuring Schedule Optimization](../field-service-scheduling/schedule-optimization-engine.md)
 

@@ -49,5 +49,5 @@ To manage demands in a currency different from the functional currency, demand c
 
 ## What to do next
 
-Review the form fields exclusive to the **Demand Currency** view. All other form tabs and fields remain the same in both default view and demand currency view. Continue entering values as you would in the default view. For more information, see [Multicurrency fields in demand-related forms](../reference/multicurrency-fields-in-demand-related-forms-ppw.md).
+Review the form fields exclusive to the **Demand Currency** view. All other form tabs and fields remain the same in both default view and demand currency view. Continue entering values as you would in the default view. For more information, see [Multicurrency fields in demand-related forms](multicurrency-fields-in-demand-related-forms-ppw.md).
 

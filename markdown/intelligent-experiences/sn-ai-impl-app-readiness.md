@@ -23,7 +23,7 @@ Installing a Now Assist product such as Now Assist for IT Service Management \(I
 
 After ensuring that your AI policy, your data, and your applications are ready, you can begin to implement Now Assist.
 
-1.  Ensure entitlement for at least one Now Assist application. For a list of available applications, see [Exploring Now Assist Admin](../../now-assist-platform/concept/exploring-now-assist-platform.md).
+1.  Ensure entitlement for at least one Now Assist application. For a list of available applications, see [Exploring Now Assist Admin](exploring-now-assist-platform.md).
 
     **Note:** Some Now Assist products may require other entitlements.
 
@@ -33,14 +33,14 @@ After ensuring that your AI policy, your data, and your applications are ready, 
 
 3.  Install Now Assist products from the Now Assist Admin console.
 
-    For more information, see [Install Now Assist plugins](../../now-assist-admin/task/install-now-assist-feature-plugins.md).
+    For more information, see [Install Now Assist plugins](install-now-assist-feature-plugins.md).
 
 
 ## Customization and Now Assist
 
 Customizing your ServiceNow instance is often necessary to meet unique business needs, but it can introduce unintended consequences for Now Assist features. Changes to field names, UI actions, workflows, or table structures may disrupt how Now Assist skills and agents operate. For example, modifying field states or labels can interfere with skill conditions and input mapping, while altering default UI actions may prevent agents from triggering correctly. Custom resolution workflows might conflict with the logic embedded in native skills, and table-level variations can affect where and how Now Assist functions across workflows. These customizations can also create upgrade friction, requiring additional testing, rework, or reconfiguration to ensure compatibility with new platform releases.
 
-To mitigate these risks, you can use tools like the Now Assist Readiness Evaluation app to identify high-impact customizations and plan for remediation before deploying or upgrading AI features. For more information, see [Now Assist Readiness Evaluation](../../now-assist-readiness-evaluation/concept/now-assist-readiness-evaluation-landing-page.md).
+To mitigate these risks, you can use tools like the Now Assist Readiness Evaluation app to identify high-impact customizations and plan for remediation before deploying or upgrading AI features. For more information, see [Now Assist Readiness Evaluation](now-assist-readiness-evaluation/now-assist-readiness-evaluation-landing-page.md).
 
 To maintain compatibility with Now Assist while accommodating custom configurations, several mitigation strategies are available:
 

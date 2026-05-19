@@ -35,5 +35,5 @@ To update the rank of the planning items in the work pipeline of your portfolio 
 **Related topics**  
 
 
-[Rank planning items](../../spw-prioritization/task/rank-and-prioritize-backlog-alignment-planner-workspace.md)
+[Rank planning items](rank-and-prioritize-backlog-alignment-planner-workspace.md)
 

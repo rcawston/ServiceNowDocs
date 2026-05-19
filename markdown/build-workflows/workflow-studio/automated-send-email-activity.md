@@ -156,7 +156,7 @@ Body of the email.**Tip:** You can use both text and multiple pills in your mess
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](activity-definitions.md#activity-experience).
 
 |Input|Type|Description|
 |-----|----|-----------|

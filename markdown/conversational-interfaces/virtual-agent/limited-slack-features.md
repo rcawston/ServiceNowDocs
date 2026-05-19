@@ -22,5 +22,5 @@ Virtual Agent does not support the following functionalities during a conversati
 -   Connect Support
 -   Geo-location topic block
 
-**Parent Topic:**[Virtual Agent features supported in Slack conversations](../concept/va-slack-other-features.md)
+**Parent Topic:**[Virtual Agent features supported in Slack conversations](va-slack-other-features.md)
 

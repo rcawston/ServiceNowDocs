@@ -43,5 +43,5 @@ The output variables contain data that can be used in subsequent actions.
 |supportedCapabilities|List of integrations that support the capability.|
 |capabilityCount|Number of integrations that support the capability.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

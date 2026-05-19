@@ -32,5 +32,5 @@ Role required: df\_connection\_admin
 
 The test connection succeeds or fails. If the connection fails, consult your database administrator to verify the connection attributes and authentication details. Make any necessary changes, and then try again.
 
-**Parent Topic:**[Managing zero copy connections](../concept/managing-connections-zcc.md)
+**Parent Topic:**[Managing zero copy connections](managing-connections-zcc.md)
 

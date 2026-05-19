@@ -30,7 +30,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
 5.  In the contextual side panel, select the Consumer Verify icon \(![Consumer verify icon](../image/consumer_verify_icon_EaaI.jpg)\) or the Contact Verify icon \(![Contact verify icon](../image/contact_verify_icon_EaaI.jpg)\).
 
-    **Note:** For more information, see [Lookup and verify](../../../administer/workspace/concept/lookup-and-verify-overview.md).
+    **Note:** For more information, see [Lookup and verify](lookup-and-verify-overview.md).
 
 6.  Search for a consumer or contact by entering the person's name, phone number, email address, or record number.
 

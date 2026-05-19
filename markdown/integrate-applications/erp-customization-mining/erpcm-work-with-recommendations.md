@@ -39,12 +39,12 @@ For example, you may have to create a workflow in Workflow Studio for one candid
 
 4.  Select the **Recommendations** tab, which summarizes each suggested action.
 
-    For a description of the field values, see [ERP Semantic Mining candidate recommendations field descriptions](../reference/erpcm-candidate-recommendations-field-descriptions.md).
+    For a description of the field values, see [ERP Semantic Mining candidate recommendations field descriptions](erpcm-candidate-recommendations-field-descriptions.md).
 
 5.  Select a **Recommended action URL** to open the relevant destination on the ServiceNow AI Platform in a new browser tab.
 
     For example, if the recommendation is to read an extraction table, select the **Recommended action** link to open the ERP model in Zero Copy Connector for ERP, where you can add the suggested table.
 
 
-**Parent Topic:**[Finding and working with candidates to replatform](../concept/work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](work-with-candidates.md)
 

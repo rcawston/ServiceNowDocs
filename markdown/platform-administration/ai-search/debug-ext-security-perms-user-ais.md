@@ -31,7 +31,7 @@ Enable session debugging for AI Search to view debug log messages for external c
 
     The Session Log opens.
 
-3.  Use the [Search Preview UI for AI Search](../../../use/dashboards/application-content-packs/ai-search-preview.md#) to submit the external content search query of interest.
+3.  Use the [Search Preview UI for AI Search](ai-search-preview.md#) to submit the external content search query of interest.
 
     **Note:** To debug external content security access permissions for another user, specify their name in the Search Preview UI's user impersonation tool.
 
@@ -42,7 +42,7 @@ Enable session debugging for AI Search to view debug log messages for external c
 
 ## What to do next
 
-If the external content security filters don't include the desired external user or group access permissions, a search administrator can import an updated and corrected user mapping for the relevant ServiceNow AI Platform user. For more details on defining and importing user mappings, see [Mapping external users and groups to ServiceNow AI Platform users](../concept/user-mappings-ais.md#).
+If the external content security filters don't include the desired external user or group access permissions, a search administrator can import an updated and corrected user mapping for the relevant ServiceNow AI Platform user. For more details on defining and importing user mappings, see [Mapping external users and groups to ServiceNow AI Platform users](user-mappings-ais.md#).
 
-**Parent Topic:**[Administering AI Search](../concept/administer-ais.md)
+**Parent Topic:**[Administering AI Search](administer-ais.md)
 

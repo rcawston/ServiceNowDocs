@@ -145,18 +145,18 @@ Elaborate or shorten existing content
     The business application data is saved.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
-[Business application form](../../application-portfolio-management/reference/eaw-reference/eaw-apprat-business-application-form.md)
+[Business application form](eaw-apprat-business-application-form.md)
 
-[Create new business capability form](../../application-portfolio-management/reference/eaw-reference/eaw-cap-form.md)
+[Create new business capability form](eaw-cap-form.md)
 
-[Create business process form](../../application-portfolio-management/reference/eaw-reference/eaw-business-process-form.md)
+[Create business process form](eaw-business-process-form.md)
 
-[Create new value stream stage form](../../application-portfolio-management/reference/eaw-reference/eaw-create-new-value-stream-stage-form.md)
+[Create new value stream stage form](eaw-create-new-value-stream-stage-form.md)
 
-[Create information object form](../../application-portfolio-management/reference/eaw-reference/eaw-information-object-form.md)
+[Create information object form](eaw-information-object-form.md)
 

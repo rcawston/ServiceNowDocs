@@ -30,7 +30,7 @@ AI Desktop Actions isn’t a standalone application that you can install directl
 -   Review the [AI Desktop Actions](https://store.servicenow.com/store/app/dc9057f4873932d0221e8409dabb35a5) application listing in ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Perform these steps in your ServiceNow instance.
 
-For more information about the components installed, see [Components installed with AI Desktop Actions](../reference/components-installed-with-agentic-desktop.md).
+For more information about the components installed, see [Components installed with AI Desktop Actions](components-installed-with-agentic-desktop.md).
 
 ## Procedure
 

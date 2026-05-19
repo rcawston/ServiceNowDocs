@@ -59,7 +59,7 @@ In the Tasks section, select **Add claim task**. The new task has the case set a
 </td></tr></tbody>
 </table>3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Claim Task form fields](../../fso-common/reference/claim-task-form-fields.md).
+    For a description of the field values, see [Claim Task form fields](claim-task-form-fields.md).
 
 4.  In the **Work notes** field, enter any necessary comments.
 

@@ -61,12 +61,12 @@ The entitlement import records are stored in the Entitlement import \[samp\_bulk
 
 9.  Select an import error record to view its errors.
 
-    The Entitlement Import Errors page appears. For a detailed description of the entitlement import error fields, see [Entitlement import error fields](../reference/entitlement-import-error-fields.md).
+    The Entitlement Import Errors page appears. For a detailed description of the entitlement import error fields, see [Entitlement import error fields](entitlement-import-error-fields.md).
 
 10. Correct the errors and then select **Import**.
 
-    The entitlement is successfully created. For more information on resolving errors, see [Entitlement import error actions](../reference/import-software-rights-form.md).
+    The entitlement is successfully created. For more information on resolving errors, see [Entitlement import error actions](import-software-rights-form.md).
 
 
-**Parent Topic:**[Using Software Asset Management classic](../concept/using-sam-classic.md)
+**Parent Topic:**[Using Software Asset Management classic](using-sam-classic.md)
 

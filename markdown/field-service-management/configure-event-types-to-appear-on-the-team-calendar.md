@@ -43,5 +43,5 @@ This video demonstrates how to configure event types to appear on the team calen
 **Related topics**  
 
 
-[Managing agents and tasks from Workforce](using-manager-workforce.md)
+[Managing agents and tasks from Workforce](field-service-manager-workforce/using-manager-workforce.md)
 

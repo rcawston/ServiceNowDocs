@@ -182,9 +182,9 @@ Controls that are selected to be added for the hazard.
 
 -   The job is listed in the **Job register** list under **Configuration** on the Health and Safety Workspace. The job is saved in the Job \[sn\_hs\_rm\_job\] table and job steps are saved in the Job step \[sn\_hs\_rm\_job\_step\] table.
 -   The job is available for selection on these forms:
-    -   JSA form when submitting a JSA. For more information, see [Submit JSA form](../reference/hs-submit-jsa-form.md).
+    -   JSA form when submitting a JSA. For more information, see [Submit JSA form](hs-submit-jsa-form.md).
     -   Risks and controls form when conducting a risk assessment. For more information, see [Assess safety hazards and risk levels for a risk analysis](add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
 -   The job is also available to import hazards and controls from when performing a risk assessment. For more information, see [Create a risk analysis for a safety risk assessment from a job](import-hazards-and-controls.md).
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

@@ -86,7 +86,7 @@ State
 
 </td><td>
 
-Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](../concept/vuln-config-compl-states.md).
+Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](vuln-config-compl-states.md).
 
 </td></tr><tr><td>
 

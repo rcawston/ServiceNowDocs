@@ -43,7 +43,7 @@ Add an injury and illness record for each affected person during the incident.
 
     2.  On the form, fill in the fields in the **Person**, **Healthcare**, and **Injury and illness details** sections.
 
-        For field descriptions, see [Injury and illness fields](../reference/hs-injury-illness-form.md).
+        For field descriptions, see [Injury and illness fields](hs-injury-illness-form.md).
 
 6.  Select **Save**.
 

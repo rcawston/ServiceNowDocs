@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-If you \(as an admin\) have enabled [URL navigation](../concept/url-navigation-ci.md) on the page, you can specify patterns for where and how the links open in the chat windows. End users see the URL links based on the patterns you've specified.
+If you \(as an admin\) have enabled [URL navigation](url-navigation-ci.md) on the page, you can specify patterns for where and how the links open in the chat windows. End users see the URL links based on the patterns you've specified.
 
 For example, you can set these URL "smart links" to open in a new browser window, in a new browser tab, in the chat window, or in a pop-up window. If you specify a pop-up window, you can set the size of the window your end users see.
 
@@ -142,7 +142,7 @@ window.addEventListener('message', e => {
 
 ## What to do next
 
-If you would like to enable smart link preference for Microsoft Teams, you must first [Configure link authentication and opening experience in Microsoft Teams](../../virtual-agent/task/link-opening-authentication-msteams.md) and then [Configure smart links in Microsoft Teams](../../virtual-agent/concept/va-teams-sso.md)
+If you would like to enable smart link preference for Microsoft Teams, you must first [Configure link authentication and opening experience in Microsoft Teams](virtual-agent/link-opening-authentication-msteams.md) and then [Configure smart links in Microsoft Teams](virtual-agent/va-teams-sso.md)
 
-**Parent Topic:**[URL navigation in Conversational Interfaces](../concept/url-navigation-ci.md)
+**Parent Topic:**[URL navigation in Conversational Interfaces](url-navigation-ci.md)
 

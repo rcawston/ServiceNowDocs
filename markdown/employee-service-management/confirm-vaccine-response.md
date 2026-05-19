@@ -17,7 +17,7 @@ As a Vaccination Status adminor manager, use the Employee Readiness Core Approva
 
 Your organization must install both Health and Safety Testing and Vaccination Status to use the Approval Portal.
 
--   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](../../health-safety-testing/task/install-health-testing.md#).
+-   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](health-and-safety-testing/install-health-testing.md#).
 -   For more information on installing Vaccination Status, see [Install Vaccination Status](install-vaccination-status.md#).
 
 Activate the **sn\_imt\_vaccine.allow\_managers\_ability\_to\_update\_vaccine\_response\_records** property to enable all managers to confirm the reported vaccination status of their direct reports. This property assigns the sn\_imt\_core.approval\_portal\_manager role to managers and grants access to the Approval Portal for vaccine responses.
@@ -75,5 +75,5 @@ The record is moved to the **Approved** or **Denied** tab based on your decision
 
 For more information on configuring Vaccination Status, see [Set up Vaccination Status properties](config-vaccination-properties.md).
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

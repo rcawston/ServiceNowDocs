@@ -19,7 +19,7 @@ Work on a treasury task to perform due diligence or fulfillment activities for t
 
 Role required: sn\_bom\_treasury.agent or sn\_bom\_treasury.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -92,5 +92,5 @@ Steps
 
 The treasury task moves to the Closed Complete state.
 
-**Parent Topic:**[Using Financial Services Treasury Operations](../concept/using-treasury-ops.md)
+**Parent Topic:**[Using Financial Services Treasury Operations](using-treasury-ops.md)
 

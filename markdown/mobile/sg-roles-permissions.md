@@ -19,7 +19,7 @@ For example, if an employee moves from the sales department to the finance depar
 
 **Note:** If you don't select user roles for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user criteria permissions may be defined.
 
-For a full list of components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](../reference/components-roles-criteria.md).
+For a full list of components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](components-roles-criteria.md).
 
 User roles are supported in the following components: Native Client, screens, launcher screen, UI sections, and functions.
 
@@ -47,11 +47,11 @@ User roles are supported in the following components: Native Client, screens, la
 ## General guidelines for using user roles
 
 -   Use user roles if the segmentation is based on the user’s skill and role definition. Use user criteria, if the segmentation is based on things like, location, companies, departments, and groups.
--   Some components can be associated with both user roles and user components, whereas other components are associated with one access control mechanism. For a list of how the components are associated, see [Mobile components where user roles and user criteria permissions apply](../reference/components-roles-criteria.md).
+-   Some components can be associated with both user roles and user components, whereas other components are associated with one access control mechanism. For a list of how the components are associated, see [Mobile components where user roles and user criteria permissions apply](components-roles-criteria.md).
 -   For components where you can assign both user roles and user criteria, prioritize assigning user roles unless there's a specific need otherwise, as this approach streamlines operations and improves system responsiveness.
 -   User roles are supported in offline.
 
--   **[Assign mobile user roles permissions](../task/user-roles-config.md)**  
+-   **[Assign mobile user roles permissions](user-roles-config.md)**  
 Apply user roles to determine which components are accessible within mobile apps for specific groups of users.
 
 **Parent Topic:**[User roles and user criteria permissions for mobile apps](roles-user-criteria.md)

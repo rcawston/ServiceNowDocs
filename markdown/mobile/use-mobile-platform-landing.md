@@ -31,7 +31,7 @@ Select one of the tiles for information about the end-user experience with Servi
 
 </td></tr><tr><td>
 
-[Use mobile device maps ![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Learn how to use both indoor and outdoor maps to complete tasks.](../reference/maps-using.md)
+[Use mobile device maps ![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Learn how to use both indoor and outdoor maps to complete tasks.](maps-using.md)
 
 </td><td>
 

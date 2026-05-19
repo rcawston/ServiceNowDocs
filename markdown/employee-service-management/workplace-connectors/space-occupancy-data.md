@@ -89,9 +89,9 @@ To check for occupancy status of a space in the location directory \(Card view a
     The retrieved space occupancy data can be used to verify the following use cases:
 
     -   Showing the occupancy data in the Location Directory. For more information, see [Manage workplace activities and services with Location directory](../../workplace-service-delivery/concept/location-directory.md).
-    -   Automatic reservation check-in. For more information, see [Configure automatic check-in for reserved spaces](../../wsd-reservation-management/concept/configure-rsv-check-in.md).
+    -   Automatic reservation check-in. For more information, see [Configure automatic check-in for reserved spaces](../workplace-reservation-management/configure-rsv-check-in.md).
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
 **Previous topic:**[Retrieving Action Configurations data](actions-configurations-occupancy.md)
 

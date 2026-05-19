@@ -27,7 +27,7 @@ The CLI includes the following commands and global options:
 |--help, -h|Return information about commands, sub-commands, and parameters.|
 |--debug, -d|Return the debug logs generated with a command.|
 
-**Parent Topic:**[ServiceNow SDK reference](../concept/servicenow-sdk-reference.md)
+**Parent Topic:**[ServiceNow SDK reference](servicenow-sdk-reference.md)
 
 ## auth
 
@@ -35,7 +35,7 @@ Authenticate to an instance and store, update, or view user credentials for acce
 
 The `auth` command has parameters for adding credentials, deleting credentials, listing credentials, and setting credentials to use by default.
 
-For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md).
+For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](authenticate-instance-now-sdk.md).
 
 ### add
 
@@ -289,7 +289,7 @@ String
 
 </td><td>
 
-The scope of the application. The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../../applications/concept/c_NamespaceIdentifier.md).
+The scope of the application. The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../c_NamespaceIdentifier.md).
 
 </td><td>
 
@@ -340,7 +340,7 @@ A template for the default structure of the application.-   base: An application
 npx @servicenow/sdk init --from dbce0f6a3b3fda107b45b5d355e45af6 --appName Example App --packageName example-app --scopeName x_snc_example --auth devuser1 --template base
 ```
 
-For more information, see [Create an application with the ServiceNow SDK](../task/create-application-now-sdk.md) or [Convert an application with the ServiceNow SDK](../task/convert-application-now-sdk.md).
+For more information, see [Create an application with the ServiceNow SDK](create-application-now-sdk.md) or [Convert an application with the ServiceNow SDK](convert-application-now-sdk.md).
 
 ## build
 
@@ -423,7 +423,7 @@ false
 now-sdk build /path/to/package --frozenKeys true
 ```
 
-For more information, see [Build and install an application with the ServiceNow SDK](../task/build-deploy-application-now-sdk.md).
+For more information, see [Build and install an application with the ServiceNow SDK](build-deploy-application-now-sdk.md).
 
 ## install
 
@@ -577,7 +577,7 @@ false
 now-sdk install --source /path/to/package --reinstall false --auth devuser1 --open-browser true --info true
 ```
 
-For more information, see [Build and install an application with the ServiceNow SDK](../task/build-deploy-application-now-sdk.md).
+For more information, see [Build and install an application with the ServiceNow SDK](build-deploy-application-now-sdk.md).
 
 ## dependencies
 

@@ -35,7 +35,7 @@ Here's an overview on how ServiceNow Voice is integrated with Amazon Connect.Ser
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, contact flows, and operation handlers.](../reference/ccc-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, contact flows, and operation handlers.](ccc-reference.md)
 
 </td><td>
 

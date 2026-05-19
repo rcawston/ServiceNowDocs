@@ -64,5 +64,5 @@ Legal AI Configuration\[sn\_lg\_ai\_configuration\]
 Stores information related to use cases for the solution definitions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Predictive Intelligence for Legal Service Delivery reference](../concept/lsd-PI-reference-landing.md)
+</table>**Parent Topic:**[Predictive Intelligence for Legal Service Delivery reference](lsd-PI-reference-landing.md)
 

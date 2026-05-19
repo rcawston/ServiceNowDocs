@@ -34,7 +34,7 @@ sn\_l2c\_cockpit.node\_default\_levels
 -   Type: integer
 -   Default value: 3
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Customize hierarchical node map levels for Lead-to-Cash Process Management](../task/customize-node-map-levels.md)
+-   Learn more: [Customize hierarchical node map levels for Lead-to-Cash Process Management](customize-node-map-levels.md)
 
 </td></tr><tr><td>
 

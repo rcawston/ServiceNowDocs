@@ -40,5 +40,5 @@ Role required: sn\_lg\_ip.patent\_config, sn\_lg\_matter.matter\_config
 
 [Associate an existing Outside Counsel to a legal matter](add-outside-counsel-to-existing-matter.md)
 
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](configure-legal-invention-disclosure.md)
 

@@ -256,7 +256,7 @@ Windows and Linux
 Collects logs from Oracle WebLogic servers and sends them to the MID Server for further analysis.**Note:**
 
 -   The log path that WebLogic uses has two environment variables, as described in the WebLogic documentation. For more information, see [Environment variables](acc-log-analytics-policies-checks.md#section_twh_3vd_nzb).
--   On both Windows and Linux, Agent Client Collector Log Analytics adds a default environment variable from the WebLogic documentation to the log path. You can either use this default environment variable to get the full directory, or change it manually if you prefer to use a known direct directory. For information about customizing the environment variable, see [Edit log path configurations](../task/accl-edit-log-path.md).
+-   On both Windows and Linux, Agent Client Collector Log Analytics adds a default environment variable from the WebLogic documentation to the log path. You can either use this default environment variable to get the full directory, or change it manually if you prefer to use a known direct directory. For information about customizing the environment variable, see [Edit log path configurations](accl-edit-log-path.md).
 
 </td><td>
 

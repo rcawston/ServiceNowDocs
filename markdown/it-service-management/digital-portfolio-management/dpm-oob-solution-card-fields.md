@@ -17,7 +17,7 @@ Digital Portfolio Management uses certain fields to auto-generate a set of defau
 
 ## DPM homepage overview
 
-Each time that you log in to the DPM Workspace, the system uses certain fields to display a set of default solution cards. You can use the personalize option to add or remove solutions to your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md).
+Each time that you log in to the DPM Workspace, the system uses certain fields to display a set of default solution cards. You can use the personalize option to add or remove solutions to your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md).
 
 After you add or remove solutions, the DPM system remembers your updates in the **dpm\_home\_page\_item** table so that next time you log in to the DPM Workspace, your personalized homepage displays. The system no longer generates a set of default solution cards for you.
 

@@ -33,12 +33,12 @@ Role required: admin
     -   To update details of an existing information object, select the information object, then select **Edit**.
 6.  Fill in the form fields.
 
-    For field information, see [Create information object form](../../reference/eaw-reference/eaw-information-object-form.md).
+    For field information, see [Create information object form](eaw-information-object-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

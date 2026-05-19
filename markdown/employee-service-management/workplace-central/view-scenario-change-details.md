@@ -91,17 +91,17 @@ The details of every change that is implemented on the scenario is displayed. If
 
 For more information about the space and user deployment plans, see the following topics:
 
--   [Space Deployment Plan](../reference/space-deployment-plan.md)
--   [User Deployment Plan](../reference/user-deployment-plan.md)
+-   [Space Deployment Plan](space-deployment-plan.md)
+-   [User Deployment Plan](user-deployment-plan.md)
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
 [Create a scenario](create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -119,5 +119,5 @@ For more information about the space and user deployment plans, see the followin
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

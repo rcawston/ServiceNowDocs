@@ -105,7 +105,7 @@ External content documents and attachments
 
 </td><td>
 
-Documents and attachments retrieved from external source systems such as Atlassian Confluence Cloud or Microsoft SharePoint Online.**Note:** Documents and attachments from external source systems are only available in synthesized responses if you've installed the External Content Connectors ServiceNow Store application and then indexed them from your source systems using the appropriate external content connectors. For more details on installing, configuring, and using this application, see [External Content Connectors](../reference/ext-cont-connectors-landing-page.md).
+Documents and attachments retrieved from external source systems such as Atlassian Confluence Cloud or Microsoft SharePoint Online.**Note:** Documents and attachments from external source systems are only available in synthesized responses if you've installed the External Content Connectors ServiceNow Store application and then indexed them from your source systems using the appropriate external content connectors. For more details on installing, configuring, and using this application, see [External Content Connectors](ext-cont-connectors-landing-page.md).
 
 </td></tr></tbody>
 </table>## Citations
@@ -136,11 +136,11 @@ When you use Guided Setup to activate the Now Assist panel, Now Assist Multi-Con
 -   The search profile is linked to a search application configuration record for global search or for a workspace that uses AI Search.
 -   The search profile includes one or more search sources containing indexed records from the Catalog Item Table or Knowledge Table indexed sources.
 
-Users with the ais\_admin role can add Now Assist Multi-Content Response Genius Results to search profiles and then link those search profiles to AI Search portals in the AI Search Admin console. For details on configuring search application settings in the AI Search Admin console, see [Configure and manage AI Search in search applications](../task/ais-admin-console-setup-manage-ais.md).
+Users with the ais\_admin role can add Now Assist Multi-Content Response Genius Results to search profiles and then link those search profiles to AI Search portals in the AI Search Admin console. For details on configuring search application settings in the AI Search Admin console, see [Configure and manage AI Search in search applications](ais-admin-console-setup-manage-ais.md).
 
 **Note:** When you activate Now Assist Multi-Content Response Genius Results in a search application, they're available to all users who search using that application.
 
-For details on activating Now Assist Multi-Content Response Genius Results in global and workspace search, see [Configure and manage AI Search in search applications](../task/ais-admin-console-setup-manage-ais.md)
+For details on activating Now Assist Multi-Content Response Genius Results in global and workspace search, see [Configure and manage AI Search in search applications](ais-admin-console-setup-manage-ais.md)
 
 **Note:** When you activate Now Assist Multi-Content Response Genius Results in the search profiles for global or workspace search, they override all other Genius Result configurations activated for those search profiles. This means that global and workspace searches ignore other Genius Result answers and only display Now Assist Multi-Content Response Genius Result answers.
 

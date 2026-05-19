@@ -133,11 +133,11 @@ Global actions and actions set at the table or view level will automatically be 
 **Related topics**  
 
 
-[Configure the Object list component instance](../task/we-config-object-list-comp.md)
+[Configure the Object list component instance](customer-self-service-and-omnichannel-engagement/we-config-object-list-comp.md)
 
-[Embed the Object list component on the third-party website](../task/we-embed-object-list-comp-on-thirdparty-web.md)
+[Embed the Object list component on the third-party website](customer-self-service-and-omnichannel-engagement/we-embed-object-list-comp-on-thirdparty-web.md)
 
 [Event handlers in the Object list component](we-event-handlers-object-list.md)
 
-[Sample code for the Object list component](we-object-list-sample-code.md)
+[Sample code for the Object list component](customer-self-service-and-omnichannel-engagement/we-object-list-sample-code.md)
 

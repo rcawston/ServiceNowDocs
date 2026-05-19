@@ -121,7 +121,7 @@ When you have multiple pieces of content that appear in a carousel, you can defi
 
 Make the content available to users: [Scheduling the delivery of content](ecpro-schedule-content.md).
 
-Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](../concept/ecpro-campaigns.md)
+Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](ecpro-campaigns.md)
 
-**Parent Topic:**[Mobile content](../concept/ec-mobile-content.md)
+**Parent Topic:**[Mobile content](ec-mobile-content.md)
 

@@ -38,7 +38,7 @@ This property enables you to specify the default measuring unit of an area.-   T
 -   Default value: **sq\_feet**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](workplace-space-mgmt-references.md)
 
 **Related topics**  
 

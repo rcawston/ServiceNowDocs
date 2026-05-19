@@ -67,5 +67,5 @@ Only the pipelines that have **Track** field set to **true** in the Pipelines re
 -   If the **Track Specific Pipeline** check box is selected only those pipelines that have the **Track** field value set to **true** are tracked and sent to the Inbound Events table. If **Track** field is set to **false** for all pipelines none of the pipelines are tracked.
 -   If the **Track Specific Pipeline** check box is unselected, all events of the pipeline are tracked and sent to the Inbound Events table.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

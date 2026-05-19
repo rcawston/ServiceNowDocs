@@ -32,15 +32,15 @@ A connection admin with the df\_connection\_admin role can create connections to
     Community connectors are developed by the open-source community and made available by ServiceNow. These connectors are certified for essential functionality but are not part of the ServiceNow support scope.
 
 
--   **[Manage access to an established connection using roles](../task/manage-access-connection-zcc.md)**  
+-   **[Manage access to an established connection using roles](manage-access-connection-zcc.md)**  
 Manage which data stewards can access an established connection and create data fabric tables.
--   **[View data assets from an established connection](../task/view-assets-connection-zcc.md)**  
+-   **[View data assets from an established connection](view-assets-connection-zcc.md)**  
 View the external schema and tables that are accessible to the service account used in a zero copy connection.
 -   **[Monitoring established connections](monitoring-connection-status-zcc.md)**  
 Maintain the health of established connections by monitoring connection status in Zero Copy Connector Hub.
--   **[Update an established connection](../task/configure-connection-details-zcc.md#)**  
+-   **[Update an established connection](configure-connection-details-zcc.md#)**  
 Keep connection details current by updating service account information, authentication, or security settings.
--   **[Test an established connection](../task/test-connection-zcc.md)**  
+-   **[Test an established connection](test-connection-zcc.md)**  
 Test the connection to an external data source from an established connection.
 
 **Parent Topic:**[Zero Copy Connectors](zero-copy-connectors.md)

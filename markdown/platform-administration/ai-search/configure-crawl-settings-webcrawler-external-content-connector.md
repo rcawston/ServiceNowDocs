@@ -70,5 +70,5 @@ The Webcrawler external content connector is updated with your modified crawl se
 
 To retrieve content from the public web source using your modified crawl settings, create and run a one-time content crawl for your Webcrawler external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Webcrawler external content connector](../concept/webcrawler-external-content-connector.md)
+**Parent Topic:**[Webcrawler external content connector](webcrawler-external-content-connector.md)
 

@@ -98,5 +98,5 @@ Role required: itil, itil\_admin, or admin
     The state is updated in the Microsoft Teams meeting.
 
 
-**Parent Topic:**[Use Microsoft Teams Meeting Extensions](../concept/c-agent-ex-use-meet-ext.md)
+**Parent Topic:**[Use Microsoft Teams Meeting Extensions](c-agent-ex-use-meet-ext.md)
 

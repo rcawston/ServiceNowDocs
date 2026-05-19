@@ -35,12 +35,12 @@ Role required: user\_admin
 
 7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new user form](../../reference/eaw-reference/eaw-create-new-user-form.md).
+    For a description of the field values, see [Create new user form](eaw-create-new-user-form.md).
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Manage departments](../../concept/eaw-concept/eaw-manage-departments.md)
+**Parent Topic:**[Manage departments](eaw-manage-departments.md)
 
 **Related topics**  
 

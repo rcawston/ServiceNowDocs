@@ -19,7 +19,7 @@ Access the global IPAddress class and its associated methods in the `SNC` global
 
 In this API, some of the methods are static and some are non-static. The [isV4\(\)](IPAddressAPIBoth.md#) and [isV6\(\)](IPAddressAPIBoth.md#) methods provide both static and non-static implementations. The benefit of the non-static methods is that you don't have to call the [IPAddress\(\)](IPAddressAPIBoth.md#) method to instantiate an IPAddress object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IPAddress - IPAddress\(String ipAddress\)
 

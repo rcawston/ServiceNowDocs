@@ -25,15 +25,15 @@ Global Identity resolves unique users across multiple ServiceNow® instances by 
 
 </td><td>
 
-[Accessing Federated ID ![](../../../common/image/icon-manage.png)](../task/configure-federated-id-criteria.md)
+[Accessing Federated ID ![](../../../common/image/icon-manage.png)](configure-federated-id-criteria.md)
 
- [Access Federated ID.](../task/configure-federated-id-criteria.md)
+ [Access Federated ID.](configure-federated-id-criteria.md)
 
 </td></tr><tr><td>
 
-[Updating ID fields ![](../../../common/image/icon-set-up.png)](../task/updating-id-fields.md)
+[Updating ID fields ![](../../../common/image/icon-set-up.png)](updating-id-fields.md)
 
- [Update and set-up the Federated ID.](../task/updating-id-fields.md)
+ [Update and set-up the Federated ID.](updating-id-fields.md)
 
 </td><td>
 

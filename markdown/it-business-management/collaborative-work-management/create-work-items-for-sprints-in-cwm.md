@@ -40,5 +40,5 @@ Role required: sn\_cwm.cwm\_user
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](agile-sprint-planning-in-cwm.md)
 

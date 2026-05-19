@@ -34,11 +34,11 @@ You must install the Rally application from [ServiceNow Store](https://store.ser
 
 Use one of the following options to onboard Rally. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard Rally to DevOps Change Velocity — Workspace](../task/rally-connect-workspace.md)**  
+-   **[Onboard Rally to DevOps Change Velocity — Workspace](rally-connect-workspace.md)**  
 Connect to your Rally instance using the DevOps Change Workspace playbook to configure webhooks and discover plans.
--   **[Onboard Rally to DevOps Change Velocity — Service Catalog](../task/sc-rally.md)**  
+-   **[Onboard Rally to DevOps Change Velocity — Service Catalog](sc-rally.md)**  
 Create, connect, discover, and configure your Rally instance using the ServiceNow Service Catalog.
--   **[Onboard Rally to DevOps Change Velocity — Classic](../task/rally-create-tool.md)**  
+-   **[Onboard Rally to DevOps Change Velocity — Classic](rally-create-tool.md)**  
 With this integration, you can configure and expose data like projects, user stories, and defects from the Rally. You can then associate these planning objects to application for end-to-end traceability.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

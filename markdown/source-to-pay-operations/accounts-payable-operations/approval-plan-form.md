@@ -63,5 +63,5 @@ Use the Approval Plan form to view details of the overall invoice approval proce
 
 [Approval Rule form](new-approval-rule-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

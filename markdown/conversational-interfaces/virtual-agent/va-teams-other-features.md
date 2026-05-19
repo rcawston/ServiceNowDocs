@@ -38,7 +38,7 @@ Now Assist in Virtual Agent can generate AI Search results that are displayed as
 
 ## URL navigation for chat links
 
-In the Virtual Agent and Live Agent conversations on the Microsoft Teams app, the links to ServiceNow records open automatically in base system portals, including the links that are displayed in the output cards, Virtual Agent notifications, and AI Search results. If needed, as the administrator, you can change the portals where these links are opened in. For configuration details, see [Configure URL navigation for chat links](../../conversational-interfaces/task/ac-configure-url-navigation.md).
+In the Virtual Agent and Live Agent conversations on the Microsoft Teams app, the links to ServiceNow records open automatically in base system portals, including the links that are displayed in the output cards, Virtual Agent notifications, and AI Search results. If needed, as the administrator, you can change the portals where these links are opened in. For configuration details, see [Configure URL navigation for chat links](../ac-configure-url-navigation.md).
 
 ## Masking of sensitive user data
 
@@ -87,13 +87,13 @@ For more information about the Microsoft Teams supported HTML tags for bot messa
 
 ## Custom controls in Microsoft Teams
 
-Using the Custom Control utility will cause failure in Microsoft Teams conversations with the message `channel is not supported`. See [Custom control utility](../reference/va-custom-control-util.md) for more information on the utility.
+Using the Custom Control utility will cause failure in Microsoft Teams conversations with the message `channel is not supported`. See [Custom control utility](va-custom-control-util.md) for more information on the utility.
 
 -   **[Virtual Agent Designer user input and bot response controls in Microsoft Teams](va-designer-bot-controls.md)**  
 The Virtual Agent Designer user input and bot response controls for creating conversation topics are supported in Microsoft Teams conversations, including the table bot response, the card control that can display images, and the image bot response controls.
 -   **[Virtual Agent notifications supported in Microsoft Teams](va-notif-msteams.md)**  
 Microsoft Teams app supports Virtual Agent notifications during conversations.
--   **[Unsupported Virtual Agent features in Microsoft Teams](../reference/limited-features-msteams.md)**  
+-   **[Unsupported Virtual Agent features in Microsoft Teams](limited-features-msteams.md)**  
 Refer to the unsupported features of Virtual Agent in Conversational Integration with Microsoft Teams.
 -   **[Capture common errors and provide resolution steps for Microsoft Teams using the Conversational Interfaces Diagnostic Tool](troubleshoot-msteams-diagnostic-tool.md)**  
 The Conversational Interfaces Diagnostic Tool runs a health report to define and capture information for different categories of the Conversational Integration with Microsoft Teams app, such as plugin details, configuration settings, system properties, integration failures, and so on, and lets the user validate and review these settings to start a bot-conversation.

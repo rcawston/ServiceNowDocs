@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 When complete, you can do the following tasks:
 
@@ -60,5 +60,5 @@ The following example steps assume you have your own demonstration instance.
 10. When prompted, enter the credentials for a valid user.
 
 
-**Parent Topic:**[Processors](../../processors/concept/c_Processors.md)
+**Parent Topic:**[Processors](c_Processors.md)
 

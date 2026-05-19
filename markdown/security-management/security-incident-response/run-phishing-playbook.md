@@ -85,7 +85,7 @@ The following steps describe how to make a copy of the phishing playbook templat
 
     Click the action designer icon ![Action designer icon](../image/cj-sir-flow-actiondesign-icon.png) to see a detailed view of the action.
 
-    To view the [Action Designer](../concept/action-phishing-playbook.md) page, expand a step in the flow and click the action designer icon.
+    To view the [Action Designer](action-phishing-playbook.md) page, expand a step in the flow and click the action designer icon.
 
 10. In step 6, an automated response task is created.
 
@@ -101,7 +101,7 @@ The following steps describe how to make a copy of the phishing playbook templat
 
     ![Automated phishing playbook flow: step 7.1.1](../image/cj-sir-flow-phishing-action7-1.png)
 
-    Notice the number 5 in the observables field. This indicates that the threat lookup will be run on observables retrieved in step 5. This subflow in turn calls existing workflows and actions as shown in the [Subflow Designer](../concept/subflow-phishing-playbook.md).
+    Notice the number 5 in the observables field. This indicates that the threat lookup will be run on observables retrieved in step 5. This subflow in turn calls existing workflows and actions as shown in the [Subflow Designer](subflow-phishing-playbook.md).
 
 12. In step 8, after the subflows have been completed, the response task is marked as Closed.
 
@@ -180,10 +180,10 @@ Click **Executions** to view the execution details of the flow.
 
 ![Automated phishing flow: execution](../image/cj-sir-flow-execute.png)
 
--   **[View automated phishing response playbook flow action designer](../concept/action-phishing-playbook.md)**  
+-   **[View automated phishing response playbook flow action designer](action-phishing-playbook.md)**  
 You can drill down to the Action Designer to view detailed information about the actions being performed for a specific step in the automated phishing response playbook flow.
--   **[View the automated phishing response playbook subflow designer](../concept/subflow-phishing-playbook.md)**  
+-   **[View the automated phishing response playbook subflow designer](subflow-phishing-playbook.md)**  
 You can drill down to the Subflow Designer to view detailed information about the subflow being executed as part of the automated phishing response playbook flow.
 
-**Parent Topic:**[Playbook for Automated Phishing](../concept/flow-designer-and-phishing-response.md)
+**Parent Topic:**[Playbook for Automated Phishing](flow-designer-and-phishing-response.md)
 

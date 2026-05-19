@@ -31,12 +31,12 @@ Role required: sn\_apm.apm\_admin
 
 6.  On the Shape Library form, fill in the fields.
 
-    For field information, see [Shape library form](../../reference/eaw-reference/eaw-shape-library-form.md).
+    For field information, see [Shape library form](eaw-shape-library-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](eaw-working-custom-shapes.md)
 
 **Related topics**  
 

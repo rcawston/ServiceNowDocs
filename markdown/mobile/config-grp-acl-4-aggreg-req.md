@@ -44,5 +44,5 @@ When this system property is set to `false`, the system doesn't validate ACLs wh
     **Note:** This system property only affects aggregation requests that are related to displaying results from data items that use grouping. ACL checking remains active for all other operations.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

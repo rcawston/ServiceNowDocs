@@ -147,5 +147,5 @@ Attachments associated with the entity class that is displayed in the side panel
 7.  To save the entity class, select **Save**.
 
 
-**Parent Topic:**[Entity classes](../concept/entity-class-in-risk-ws.md)
+**Parent Topic:**[Entity classes](entity-class-in-risk-ws.md)
 

@@ -47,7 +47,7 @@ There are five types of automation tasks:
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation task form](../reference/automation-task-form.md).
+    For a description of the field values, see [Automation task form](automation-task-form.md).
 
 7.  Select **Save**.
 
@@ -58,12 +58,12 @@ There are five types of automation tasks:
 
 Create an automation resource for the automation task. For more information, see [Create an automation resource](create-automation-resource.md).
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 
 
-[Automation task form](../reference/automation-task-form.md)
+[Automation task form](automation-task-form.md)
 
 [Create an automation resource](create-automation-resource.md)
 

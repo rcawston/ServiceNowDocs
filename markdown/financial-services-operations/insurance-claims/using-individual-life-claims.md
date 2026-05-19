@@ -26,7 +26,7 @@ Use Workspace to work on all aspects of an individual life claim case. Users wit
 -   Navigate across tasks
 -   Manage multiple policies in a claim
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 The following table shows which workspace users can use the Individual Life Claims application in.
 
@@ -46,7 +46,7 @@ Claims admin
 
 Configures workspace according to the business requirements.
 
- For more information, see [Configure Individual Life Claims](../task/configure-individual-life-claims.md) and [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+ For more information, see [Configure Individual Life Claims](configure-individual-life-claims.md) and [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -92,5 +92,5 @@ FSO insurance applications store claim contact information in the following Insu
 -   The Claim Participant table \[sn\_ins\_claim\_profile\] stores details about all participants involved in the claims process.
 -   The Participant Role table \[sn\_ins\_claim\_participant\] stores information on the participant's role in the claim \(such as if they are the injured or insured\).
 
-For more information, see [Insurance Claims Core tables](../../fso-common/reference/insurance-claims-core-tables.md).
+For more information, see [Insurance Claims Core tables](../insurance-claims-core-tables.md).
 

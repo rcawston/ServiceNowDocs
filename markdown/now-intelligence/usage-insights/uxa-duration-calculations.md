@@ -27,5 +27,5 @@ The percentage time on site is calculated as the sum of duration on a page divid
 
 For example, the Service Portal application contains three pages tracked by Usage Insights: Home, Knowledge, and Request. The total time spent on the Home page in the specified date range is 900 seconds; on the Knowledge page, 300 seconds; on the Request page, 300 seconds. The percentage time on the Home page is calculated as \(900 / 900 + 300 + 300\) \* 100 = 60%
 
-**Parent Topic:**[Usage Insights reference](../content-framework/landing-page/user-experience-analytics-reference.md)
+**Parent Topic:**[Usage Insights reference](user-experience-analytics-reference.md)
 

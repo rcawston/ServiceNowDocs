@@ -61,7 +61,7 @@ Create a workflow
 </td><td>
 
 1.  After accessing the Workflow Editor from a menu, press **Tab** until ![The New Workflow button](../image/NewWorkflow.png) is highlighted.
-2.  Press **Enter** to open [New Workflow](../../workflow-administration/reference/r_WorkflowProperties.md)
+2.  Press **Enter** to open [New Workflow](r_WorkflowProperties.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Navigate directly to side \(right\) panel to open help, create a new workflow, o
 1.  After accessing the Workflow Editor from a menu, press **Tab** two times. Do not select ![The Skip to Main Content button](../image/skip-to-main-content.png). ![The Skip to Workflow Side Panel button](../image/SkipToWorkflowSidePanel.png) appears in the upper left corner.
 2.  Press **Enter** to position the cursor in the **Workflows** tab in the side panel.
 3.  To open help, press **Tab** to navigate to ![Question mark icon](../image/HelpIcon.png). Press **Enter** to open help, or press **Tab** to skip.
-4.  To create a new workflow, press **Tab** to navigate to![Plus sign icon](../image/AddWorkflow.png). Press **Enter** to open [New Workflow](../../workflow-administration/reference/r_WorkflowProperties.md), or press **Tab** to skip.
+4.  To create a new workflow, press **Tab** to navigate to![Plus sign icon](../image/AddWorkflow.png). Press **Enter** to open [New Workflow](r_WorkflowProperties.md), or press **Tab** to skip.
 5.  To open an existing workflow:
     -   As needed, stop at the filter field to filter workflows.
     -   Press **Tab** to navigate down the workflow list.

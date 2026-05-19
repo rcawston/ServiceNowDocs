@@ -54,5 +54,5 @@ Transformation is a powerful tool that can cause data issues if used incautiousl
 
 All transformation records open in **Test** mode by default, which blocks administrators from running manual data jobs that apply changes to existing data. Only users with the normalization\_tester role can transform data when a record is in the **Test** mode. This is limited to new records opened by the tester or records in which the transformed field is updated by the tester.
 
-To apply transformations to the CMDB after testing, change the mode to **Active** in the transformation record and run the appropriate data job. For information on testing transforms, see [Test a transform](../task/t_TransformAField.md#).
+To apply transformations to the CMDB after testing, change the mode to **Active** in the transformation record and run the appropriate data job. For information on testing transforms, see [Test a transform](t_TransformAField.md#).
 

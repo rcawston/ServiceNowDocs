@@ -39,5 +39,5 @@ A default threshold value has been predefined to generate major cases from incid
 5.  Click **Update**.
 
 
-**Parent Topic:**[Auto-creation of cases and updates from incidents](../concept/psew-auto-creation-case.md)
+**Parent Topic:**[Auto-creation of cases and updates from incidents](psew-auto-creation-case.md)
 

@@ -48,7 +48,7 @@ edgeencryption.proxy.https.keystore.password = password
 edgeencryption.proxy.https.cert.alias = jetty
 ```
 
-For details on editing properties, see [Configure additional properties in the Edge Encryption properties file](../task/set-props.md)
+For details on editing properties, see [Configure additional properties in the Edge Encryption properties file](set-props.md)
 
 ### Procedure
 

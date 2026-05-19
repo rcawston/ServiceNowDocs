@@ -36,10 +36,10 @@ Role required: admin
     **Note:** To load the demo data, select the **Load demo data** check box.
 
 
--   **[Components installed with Cost Management](../reference/r_InstalledWithCostManagement.md)**  
+-   **[Components installed with Cost Management](r_InstalledWithCostManagement.md)**  
 Several components are installed with the Cost Management application.
--   **[Cost overview module roles](../reference/r_CostOverviewModuleRoles.md)**  
+-   **[Cost overview module roles](r_CostOverviewModuleRoles.md)**  
 Only certain roles can customize Cost Overview modules. In addition to viewing, roles with access can refresh, add, delete, and rearrange reports.
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 

@@ -27,10 +27,10 @@ If the time required to complete the task needs multiple schedule entries or day
 
 If the task is assigned to an agent in the territory that best matches its location, then you must enable the following options:
 
--   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](../task/enable-territory-model.md).
--   **Territory** option in Dispatcher Workspace to view the territory information in the task card and the agent card. For more information, see [Enable Dispatcher Workspace settings](../task/dispatcher-wrkspc-settings.md).
+-   The Field Service territory model, **Field\_Service\_Territories**. For more information, see [Enable the Field Service territory model](../workforce-optimization-for-field-service/enable-territory-model.md).
+-   **Territory** option in Dispatcher Workspace to view the territory information in the task card and the agent card. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
 
-If the task assignment method must respect the workforce optimized shift schedules then you must enable the **Enable Shift Scheduling for FSM to Determine Availability** configuration to activate the Workforce Optimization for Field Service data model. For more information, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+If the task assignment method must respect the workforce optimized shift schedules then you must enable the **Enable Shift Scheduling for FSM to Determine Availability** configuration to activate the Workforce Optimization for Field Service data model. For more information, see [Activate Workforce Optimization for Field Service](../workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 **Note:** If the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled, the Dispatcher Workspace calendar displays the schedules and events created in Workforce Optimization for Field Service application.
 
@@ -38,7 +38,7 @@ If the task assignment method must respect the workforce optimized shift schedul
 
 You can assign work order tasks that are in pending to dispatch either manually or automatically in the Dispatcher Workspace.
 
--   To assign work order tasks automatically, you must enable dynamic scheduling. The auto-assign capability automatically matches a task to a nearby agent who has the necessary skills and a schedule that can accommodate the task. For more information, see [Setting up dynamic scheduling in Dispatcher Workspace](dispatcher-ws-dy-scheduling.md).
+-   To assign work order tasks automatically, you must enable dynamic scheduling. The auto-assign capability automatically matches a task to a nearby agent who has the necessary skills and a schedule that can accommodate the task. For more information, see [Setting up dynamic scheduling in Dispatcher Workspace](../dispatcher-ws-dy-scheduling.md).
 -   To assign work order tasks manually, consider the following aspects:
     -   The length of time required to complete a task
     -   The window of time in which a task must be completed
@@ -56,7 +56,7 @@ If an agent is part of more than one assignment group or territory, then dispatc
 
 2.  Select **Dispatcher Workspace**.
 
-    **Note:** You can sort, filter, and also match the work order tasks based on the calendar dates before assigning field service agents. For more information, see [Search work order tasks](../task/search-work-order-tasks.md) and [Search for appropriate Field Service agents](../task/search-agents-tasks.md).
+    **Note:** You can sort, filter, and also match the work order tasks based on the calendar dates before assigning field service agents. For more information, see [Search work order tasks](search-work-order-tasks.md) and [Search for appropriate Field Service agents](search-agents-tasks.md).
 
 3.  Assign the work order task to agents.
 
@@ -184,7 +184,7 @@ As a dispatcher, you can recommend the best available tasks to fill gaps in an a
 
 Role required: wm\_dispatcher
 
-The Field Service Intelligent Task Recommendation plugin must be activated. For more information, see [Activate Intelligent Task Recommendation](../task/activate-intelligent-task-recommendation.md).
+The Field Service Intelligent Task Recommendation plugin must be activated. For more information, see [Activate Intelligent Task Recommendation](activate-intelligent-task-recommendation.md).
 
 ### About this task
 
@@ -194,7 +194,7 @@ Intelligent Task Recommendations identifies and recommends the best available ta
 -   Excludes the work order tasks that are schedule locked.
 -   Agent's territory and task's territory if Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\) is enabled.
 -   Considers the agent's start and end locations from the **Resource Schedule Attributes** table for the given day.
--   Integrates agent's schedule and events from the Workforce Optimization for Field Service application if the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled. For more information, see [Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md) and [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+-   Integrates agent's schedule and events from the Workforce Optimization for Field Service application if the **Enable Shift Scheduling for FSM to Determine Availability** configuration is enabled. For more information, see [Global domain configurations](../t_ConfigureFieldService.md) and [Activate Workforce Optimization for Field Service](../workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 ### Procedure
 
@@ -220,11 +220,11 @@ The recommended task is assigned to the agent. The agent receives a push notific
 **Related topics**  
 
 
-[Intelligent Task Recommendation](fsm-task-recommendation.md)
+[Intelligent Task Recommendation](../fsm-task-recommendation.md)
 
 [Configuring Intelligent Task Recommendations](administer-task-recommendations.md)
 
-[Assign tasks to yourself based on Intelligent Task Recommendation](../task/recommend-task-fsm-mobile.md)
+[Assign tasks to yourself based on Intelligent Task Recommendation](../work-order-management/recommend-task-fsm-mobile.md)
 
 ## Record time spent on a task
 
@@ -326,7 +326,7 @@ Assign work order tasks directly to the outsourced service providers \(also call
 Role required: wm\_dispatcher
 
 -   Activate the Field Service Contractor Management \(com.snc.fsm\_contractor\_management\) plugin.
--   Add external vendor assignment groups to the dispatch group. For more information, see [Add external assignment groups to the dispatch group](../task/add-external-assignment-group-to-disp-group.md).
+-   Add external vendor assignment groups to the dispatch group. For more information, see [Add external assignment groups to the dispatch group](../workforce-optimization-for-field-service/add-external-assignment-group-to-disp-group.md).
 
 ### Procedure
 
@@ -347,6 +347,6 @@ Role required: wm\_dispatcher
 
 -   The task is displayed on the calendar next to the outsourced service provider's name.
 -   The task is assigned to the manager of the outsourced service provider.
--   The calendar view of the outsourced service provider displays the capacity utilization information in percentage and definition. For example, if a company's defined capacity is five tasks and so far only two tasks are assigned to the company, the capacity utilization data displays that 40% capacity has been used and 2 out of 5 tasks have been assigned to the company. For more information about capacity reservation rules, see [Capacity and Reservations Management](capacity-management.md).
+-   The calendar view of the outsourced service provider displays the capacity utilization information in percentage and definition. For example, if a company's defined capacity is five tasks and so far only two tasks are assigned to the company, the capacity utilization data displays that 40% capacity has been used and 2 out of 5 tasks have been assigned to the company. For more information about capacity reservation rules, see [Capacity and Reservations Management](../capacity-management.md).
 -   If the tasks assigned to the outsourced service provider is more than its defined capacity, a red vertical bar displays on the calendar, indicating over-allocation of tasks.
 

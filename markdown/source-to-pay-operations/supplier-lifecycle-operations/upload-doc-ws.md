@@ -17,7 +17,7 @@ Manage documents by uploading, updating and downloading the required documents f
 
 ## Before you begin
 
-Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](../concept/supp-doc-mgmt-overview.md).
+Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](supp-doc-mgmt-overview.md).
 
 Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
@@ -50,7 +50,7 @@ Do this
 </td><td>
 
 1.  Select **New**.![Upload a document](../image/upload-new-doc.png)
-2.  On the Create New Documents form, fill in the fields. For a description of the field values, see [Create New Documents form](../reference/create-new-doc-form.md).
+2.  On the Create New Documents form, fill in the fields. For a description of the field values, see [Create New Documents form](create-new-doc-form.md).
 3.  Select **Submit**.
 
 
@@ -95,10 +95,10 @@ A new version of the document is created and displayed in the **Versions** tab.
 
 The required action is completed for the selected document.
 
-**Parent Topic:**[Manage supplier details](../concept/supp-ws-details-page.md)
+**Parent Topic:**[Manage supplier details](supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 

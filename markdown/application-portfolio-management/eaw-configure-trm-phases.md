@@ -20,7 +20,7 @@ A TRM phase represents the status of the application, that is whether the applic
 **Related topics**  
 
 
-[View all TRM phases](../../task/eaw-task/eaw-view-all-trm-phases.md)
+[View all TRM phases](eaw-view-all-trm-phases.md)
 
-[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)
+[Add or edit a TRM phase](eaw-create-trm-phase.md)
 

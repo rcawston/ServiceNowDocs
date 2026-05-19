@@ -36,5 +36,5 @@ The topic only applies to legacy problem — Jakarta to London.
     The state of the incidents in the problem related list is changed to **Resolved** and work notes are added to the activity feed.
 
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

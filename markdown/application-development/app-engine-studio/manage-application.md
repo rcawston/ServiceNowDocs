@@ -40,5 +40,5 @@ You can change certain features of your application, based on your permissions. 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Create your app](../concept/create-application.md)
+**Parent Topic:**[Create your app](create-application.md)
 

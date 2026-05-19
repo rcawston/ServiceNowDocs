@@ -24,7 +24,7 @@ The following table lists the key fields for the ERP Plant Address Mapping Stage
 |ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Name|String|Name of the ERP plant.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

@@ -68,7 +68,7 @@ Configure the Dynatrace API Key credential from **All** &gt; **Connections and C
 
 8.  If you want to customize configurations to meet specific requirements, select **Advanced settings** and fill in the form.
 
-    For more information on fields, see [Dynatrace advanced settings fields](../reference/dynatrace-advanced-settings-fields.md).
+    For more information on fields, see [Dynatrace advanced settings fields](dynatrace-advanced-settings-fields.md).
 
 9.  Test the connector before activating it by selecting **Test and Save**.
 

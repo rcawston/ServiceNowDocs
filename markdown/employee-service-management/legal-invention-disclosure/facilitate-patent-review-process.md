@@ -129,5 +129,5 @@ Actions
 5.  Select **Close Complete** to close the matter.
 
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

@@ -44,5 +44,5 @@ After changing the frequency, monitor the synchronization job to verify it runs 
 
 **Note:** The next synchronization will occur based on your new interval setting.
 
-**Parent Topic:**[Using External Key Management Service](../concept/ekms-using-external-key-management.md)
+**Parent Topic:**[Using External Key Management Service](ekms-using-external-key-management.md)
 

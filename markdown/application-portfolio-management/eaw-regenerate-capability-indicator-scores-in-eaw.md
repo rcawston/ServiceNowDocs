@@ -46,14 +46,14 @@ Assessing business capabilities within the indicator framework and based on the 
     This action doesn’t update the existing capability indicator scores but deletes them and generates new scores.
 
 
-**Parent Topic:**[Working with indicators](../../concept/eaw-concept/eaw-manage-indicators.md)
+**Parent Topic:**[Working with indicators](eaw-manage-indicators.md)
 
 **Related topics**  
 
 
 [Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace](eaw-regenerate-capability-indicator-scores-in-eaw.md)
 
-[Manage indicators](../../concept/eaw-concept/eaw-configure-indicators.md)
+[Manage indicators](eaw-configure-indicators.md)
 
 [Add or edit a capability indicator](eaw-add-or-edit-a-capability-indicator.md)
 

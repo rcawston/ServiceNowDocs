@@ -50,5 +50,5 @@ Create a custom frame UI macro if you want to control the style of the frame wit
 **Related topics**  
 
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 

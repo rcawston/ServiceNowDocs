@@ -147,7 +147,7 @@ Default settings:-   Selected for local ServiceNow credential stores
 9.  [Test the connection to the credential store](test-cxn-to-credential-store.md).
 
 
-**Parent Topic:**[Credentials Store for Password Reset for Active Directory](../concept/credentials-store-AD.md)
+**Parent Topic:**[Credentials Store for Password Reset for Active Directory](credentials-store-AD.md)
 
 **Related topics**  
 

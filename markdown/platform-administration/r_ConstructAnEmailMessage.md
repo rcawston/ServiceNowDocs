@@ -48,10 +48,10 @@ Notice that the email recipient can use the following links in the mail:
 -   **[Add blank lines in an email template](r_AddBlankLinesInAnEmailTemplate.md)**  
 You can easily add blank lines in an email template using HTML tags.
 
-**Parent Topic:**[Email templates](../../../administer/notification/concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](c_EmailTemplates.md)
 
 **Related topics**  
 
 
-[Email layouts](../../../administer/notification/concept/email-layouts.md)
+[Email layouts](email-layouts.md)
 

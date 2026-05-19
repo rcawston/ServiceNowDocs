@@ -25,7 +25,7 @@ These lists and links provide you with easy access to records and tasks. It cont
 -   **Lists** tab: Displays the default lists for remediation efforts, remediation tasks, vulnerable items, configuration test results, solutions, exceptions, and libraries.
 -   **My Lists** tab: Displays any lists that you’ve renamed from the Lists tab and any lists that you create.
 
-    You can also create your own list to monitor remediation progress. For more information, see [Create a customized list of records](../task/sem-create-custom-list.md).
+    You can also create your own list to monitor remediation progress. For more information, see [Create a customized list of records](sem-create-custom-list.md).
 
 
 ## Lists tab
@@ -248,7 +248,7 @@ Approvals
 
 </td><td>
 
-**Assigned to me**: Shows the approval requests assigned to you for processing. To process your approvals in the workspace, see [Approve or reject requests in the Security Exposure Management Workspace](../task/sem-approve-requests.md).
+**Assigned to me**: Shows the approval requests assigned to you for processing. To process your approvals in the workspace, see [Approve or reject requests in the Security Exposure Management Workspace](sem-approve-requests.md).
 
 </td><td>
 
@@ -277,7 +277,7 @@ Consists of the following lists:-   **CVEs \(NVD\)**: List of all the Common Vul
 -   **App vulnerabilities**: List of all the third-party application vulnerability entries.
 -   **Test Groups**: List of all the Configuration Compliance test groups. You can view the percentage of CI compliance and test results compliance for a Test Group in the record view.
 -   **Tests**: List of all the tests from Configuration Compliance. You can view the percentage of test results compliance for a test in the record view.
--   **Compensating Controls**: List of all the compensating controls which can be used for risk reduction requests. You can add a compensating control by clicking **New**. For more information on how to add a compensating control, see [Add a compensating control to the library](../task/sem-create-compensatory-control.md).
+-   **Compensating Controls**: List of all the compensating controls which can be used for risk reduction requests. You can add a compensating control by clicking **New**. For more information on how to add a compensating control, see [Add a compensating control to the library](sem-create-compensatory-control.md).
 
 </td><td>
 
@@ -322,7 +322,7 @@ Contains the following lists:-   **Active**: List of active Penetration Test Ass
 -   **Assigned to me**: List of Penetration Test Assessment Requests raised by you.
 -   **Assigned to my group**: List of Penetration Test Assessment Requests raised by the users in your assignment groups.
 
-For information on how to create a penetration test assessment request, see [Create a new penetration testing assessment request](../../vulnerability-app-vuln-mgmt/task/create-new-pen-test-assesment-req.md).
+For information on how to create a penetration test assessment request, see [Create a new penetration testing assessment request](application-vulnerability-response/create-new-pen-test-assesment-req.md).
 
 </td><td>
 
@@ -344,7 +344,7 @@ Contains the following lists:-   **Active**: List of all the active Penetration 
 -   **Assigned to my group**: List of Penetration Test Findings assigned to your assignment groups for remediation.
 -   **Validation Pending**: List of Penetration Test Findings that are pending validation after remediation.
 
-For information on how to create a penetration test findings, see [Create penetration test findings based on an assessment questionnaire](../../vulnerability-app-vuln-mgmt/task/create-penetration-test-findings.md).
+For information on how to create a penetration test findings, see [Create penetration test findings based on an assessment questionnaire](application-vulnerability-response/create-penetration-test-findings.md).
 
 </td><td>
 
@@ -391,5 +391,5 @@ sn\_vulc.admin
 </table>**Related topics**  
 
 
-[Use the List view in the Security Exposure Management Workspace](../task/sem-ws-list-view.md)
+[Use the List view in the Security Exposure Management Workspace](sem-ws-list-view.md)
 

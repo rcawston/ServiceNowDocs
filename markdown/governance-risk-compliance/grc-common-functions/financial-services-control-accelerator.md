@@ -27,14 +27,14 @@ Beginning with the Zurich release, Financial Services Control Accelerator suppor
 
 Beginning with the Zurich release, Financial Services Control Accelerator supports the New York State Department Of Financial Services \(NYDFS\) Second Amendment to 23 NYCRR 500 content such as Authority Document, Citations, and Control Objectives.
 
-This accelerator also includes mapping of FFIEC and NYDFS control objectives and citations to CRI citations and control objectives. For more information, see [Cyber Risk Institute accelerator](../../grc-cri-accelerator/concept/cyber-risk-inst-accelerator.md).
+This accelerator also includes mapping of FFIEC and NYDFS control objectives and citations to CRI citations and control objectives. For more information, see [Cyber Risk Institute accelerator](cyber-risk-inst-accelerator.md).
 
 Prior to running the Financial Services Control Accelerator application, you must download and activate the following GRC applications:
 
 -   GRC: Policy and Compliance Management
 -   GRC: Profiles
 
-**Note:** Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+**Note:** Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 ## Financial Services Control Accelerator controls
 
@@ -79,5 +79,5 @@ The Control Objectives module provides a list of control objectives associated w
  The control objectives are stored in the Control Objective table \[sn\_compliance\_policy\_statement\].
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](../../grc-common/reference/grc-use-case-accelerators.md)
+</table>**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](grc-use-case-accelerators.md)
 

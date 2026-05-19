@@ -25,7 +25,7 @@ The flows provided with the base system are in an inactive state. Activate these
 
 ## Procedure
 
-1.  [Download and install](../reference/download-app-first-time.md) the Security Operations Spoke application.
+1.  [Download and install](../download-app-first-time.md) the Security Operations Spoke application.
 
     This Spoke application provides security operations actions that you can use while defining Security Incident Response flows.
 

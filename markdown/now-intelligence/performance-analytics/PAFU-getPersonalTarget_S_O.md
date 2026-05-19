@@ -36,7 +36,7 @@ var res = 100 - (100 * (a + b + c) / 3);
 res;
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -61,5 +61,5 @@ res;
 
 [getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

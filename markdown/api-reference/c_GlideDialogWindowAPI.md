@@ -17,9 +17,9 @@ The GlideDialogWindow API provides methods for displaying a dialog in the curren
 
 Use these methods in scripts anywhere that you can use a client-side JavaScript. These methods are most often called from a UI action with the **Client** check box selected.
 
-**Note:** This API has been deprecated, use the [GlideModal](../../GlideModalClientSideV3/concept/c_GlideModalV3API.md#) API instead.
+**Note:** This API has been deprecated, use the [GlideModal](c_GlideModalV3API.md#) API instead.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideDialogWindow - GlideDialogWindow\(String id, Boolean readOnly, Number width, Number height\)
 

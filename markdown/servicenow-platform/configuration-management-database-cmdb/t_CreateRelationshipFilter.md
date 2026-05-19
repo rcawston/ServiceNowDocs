@@ -48,5 +48,5 @@ In the legacy CI relations formatter, you can click **View** and select the newl
 
 After you select a filter, the relations formatter displays only CIs from the tables specified in the filter or from descending tables.
 
-**Parent Topic:**[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+**Parent Topic:**[CI relations formatter](c_CIRelationsFormatterNG.md)
 

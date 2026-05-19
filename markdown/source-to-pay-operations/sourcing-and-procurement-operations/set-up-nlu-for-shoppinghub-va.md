@@ -76,5 +76,5 @@ You must have the following plugin installed on your instance: Natural Language 
     14. Save and publish the topic.
 
 
-**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](../concept/virtual-agent-for-psm.md)
+**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](virtual-agent-for-psm.md)
 

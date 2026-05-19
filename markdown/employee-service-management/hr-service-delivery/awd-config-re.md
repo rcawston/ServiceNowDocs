@@ -39,7 +39,7 @@ To use the Payslip discrepancy functionality, create the Look up payslip report.
 
 **Note:**
 
--   For information about the Payslip discrepancy functionality, see [Report an issue with your payslip](../task/payslips-awd.md).
+-   For information about the Payslip discrepancy functionality, see [Report an issue with your payslip](payslips-awd.md).
 -   For information about the Look up payslip report creation, see this [KB article](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3D157dd77ddbc63c58f21f5583ca9619a9%26sysparm_view%3D%26sysparm_domain%3Dnull%26sysparm_domain_scope%3Dnull).
 
 ## Total rewards use case
@@ -48,7 +48,7 @@ To use the Total rewards functionality, create the Total Rewards report.
 
 **Note:**
 
--   For more information about the Total rewards functionality, see [Set up Total Rewards using Workday](../task/total-rewards-awd.md).
+-   For more information about the Total rewards functionality, see [Set up Total Rewards using Workday](total-rewards-awd.md).
 -   For information about the Total Rewards report creation, see this [KB article](https://support.servicenow.com/kb_knowledge.do?sys_id=b91467f9db4a3c58f21f5583ca9619a8&sysparm_view=&sysparm_domain=null&sysparm_domain_scope=null).
 
 ## Holiday calendar use case
@@ -58,6 +58,6 @@ To use the Holiday calendar functionality, create the Get holiday calendar WID r
 **Note:**
 
 -   If you have already created Get holiday calendar WID report for the Time off request functionality, creating another report of Get holiday calendar WID is not required.
--   For more information about the Holiday Calendars functionality, see [Holiday calendars](../task/holiday-calendar-awd.md).
+-   For more information about the Holiday Calendars functionality, see [Holiday calendars](holiday-calendar-awd.md).
 -   For information about the Holiday Calendar report creation, see this [KB article](https://support.servicenow.com/kb_knowledge.do?sys_id=39fa1ff1dbc63c58f21f5583ca961941&sysparm_view=&sysparm_domain=null&sysparm_domain_scope=null).
 

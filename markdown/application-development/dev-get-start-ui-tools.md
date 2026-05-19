@@ -17,19 +17,19 @@ Learn about the tools available on the ServiceNow AI Platform for building user 
 
 UI Builder is a visual, drag‑and‑drop page builder for workspaces and custom web experiences using Next Experience components. Assemble pages, variants, layouts, bind data, and wire events inside the browser. A Now Assist integration is available to help with component configuration and data binding.
 
-For more information, see [UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md).
+For more information, see [UI Builder](ui-builder/ui-builder-overview.md).
 
 ## ServiceNow Studio and ServiceNow IDE
 
 ServiceNow Studio is a centralized, integrated development environment \(IDE\) that enables you to build applications, including creating, editing, and managing their user interfaces. Platform developers can create and edit UI elements in ServiceNow Studio, while pro developers can do more advanced customization using JavaScript and ServiceNow Fluent in the ServiceNow IDE.
 
-For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md) and [ServiceNow IDE](../../servicenow-ide/concept/servicenow-ide-landing.md).
+For more information, see [ServiceNow Studio](servicenow-studio-classic/servicenow-studio-landing.md) and [ServiceNow IDE](servicenow-ide-family-release/servicenow-ide-landing.md).
 
 ## Now Assist for Creator
 
 Use Now Assist for Creator to generate UI components and layouts using natural language prompts.
 
-For more information, see [Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md).
+For more information, see [Now Assist for Creator](now-assist-for-creator/now-assist-for-creator-landing.md).
 
 ## Configurable Workspace
 
@@ -65,7 +65,7 @@ For more information, see [Employee Center](https://raw.githubusercontent.com/Se
 
 Graphical tools for configuring form views, sections, annotations, related lists, and formatters on Core UI forms. Table Builder \(Forms tab\) is the newer, visual experience for designing multiple views and elements; Form Designer remains available.
 
-For more information, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md) and [Accessing Form Builder](../../../administer/form-builder/concept/access-form-builder.md).
+For more information, see [Table Builder](form-builder-glide-family-release/tb-landing-page.md) and [Accessing Form Builder](form-builder-glide-family-release/access-form-builder.md).
 
 **Parent Topic:**[User interface and experiences](dev-get-start-ui-and-experience.md)
 

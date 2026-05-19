@@ -53,7 +53,7 @@ Data Script
 
 </td><td>
 
-Script used to fetch data for the report.For more information on how to manage Scripted Elements, see [Manage Related Tables and Scripted Elements forms](../task/manage-components-export-ppt.md).
+Script used to fetch data for the report.For more information on how to manage Scripted Elements, see [Manage Related Tables and Scripted Elements forms](manage-components-export-ppt.md).
 
 </td></tr></tbody>
 </table>## Line chart parameter

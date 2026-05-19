@@ -42,5 +42,5 @@ The standard can be in any state when it’s copied. The entire content of the s
 
 The tile for the newly created copy of the standard appears in the Standards hub in the Draft state.
 
-**Parent Topic:**[Using Industrial Guided Tasks](../concept/using-industrial-guided-tasks.md)
+**Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)
 

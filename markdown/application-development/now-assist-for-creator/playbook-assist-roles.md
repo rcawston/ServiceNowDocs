@@ -40,5 +40,5 @@ Create playbook outlines with placeholder activities by using AI-powered playboo
     None
 
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](playbook-assist-landing.md)
 

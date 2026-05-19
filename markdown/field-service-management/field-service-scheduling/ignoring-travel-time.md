@@ -19,7 +19,7 @@ You can choose to assign work order tasks to the highest ranked agents without t
 
 The Ignore travel option in the work order task enables dynamic scheduling to assign work order tasks automatically to the highest ranked agents. If the highest ranked agent is not available due to time off, the task is assigned to the next highest ranked agent.
 
-Enabling the **com.snc.dynamic.scheduling.ignoreAgentTravelTimeDuringScheduling** property displays the Ignore Travel option in work order tasks. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
+Enabling the **com.snc.dynamic.scheduling.ignoreAgentTravelTimeDuringScheduling** property displays the Ignore Travel option in work order tasks. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
 
 The Ignore Travel option does not appear in the work order task form by default so you have to add it manually. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 

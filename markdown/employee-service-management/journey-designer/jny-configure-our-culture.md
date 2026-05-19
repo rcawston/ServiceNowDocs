@@ -41,12 +41,12 @@ Role required: admin \[sn\_jny.admin\]
 
 6.  Fill in the fields in the Our culture content form.
 
-    For more information about the fields associated with this form, see [Create rich content](../../employee-center/task/ec-content-library-portal-rich-content.md).
+    For more information about the fields associated with this form, see [Create rich content](../employee-experience-foundation/ec-content-library-portal-rich-content.md).
 
 7.  Select **Open editor**.
 
     The information you entered in the form is saved.
 
 
-**Parent Topic:**[Enable and configure the Pre-hire Experience](../concept/jny-pre-hire-enable-configure.md)
+**Parent Topic:**[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
 

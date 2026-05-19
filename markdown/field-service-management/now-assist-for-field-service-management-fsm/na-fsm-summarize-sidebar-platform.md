@@ -78,7 +78,7 @@ If you'd like to provide feedback, select either the helpful icon \(![Helpful ic
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 
 ## Summarize a Sidebar discussion on the ServiceNow Agent application
 
@@ -88,7 +88,7 @@ On the ServiceNow Agent application, generate a summary of the Sidebar discussio
 
 Role required: wm\_agent
 
-Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](activate-sidebar-mobile.md).
+Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](../mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 
 ### About this task
 

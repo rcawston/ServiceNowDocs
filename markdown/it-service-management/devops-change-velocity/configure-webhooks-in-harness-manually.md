@@ -84,5 +84,5 @@ Role required:
 9.  Select **Finish**.
 
 
-**Parent Topic:**[Harness integration with DevOps Change Velocity](../concept/harness-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Harness integration with DevOps Change Velocity](harness-integration-with-devops-change-velocity.md)
 

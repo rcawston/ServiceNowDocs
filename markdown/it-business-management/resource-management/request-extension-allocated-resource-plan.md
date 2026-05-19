@@ -19,9 +19,9 @@ As a project manager, you can request the extension of an allocated resource pla
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
+You're encouraged [migrate your existing resource plans](rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
 
-Resource requester can [extend a resource assignment](../../resource-management-workspace/task/manage-resource-allocations-rmw.md) using Resource Management Workspace.
+Resource requester can [extend a resource assignment](manage-resource-allocations-rmw.md) using Resource Management Workspace.
 
 Role required: it\_project\_manager, resource\_user
 
@@ -37,7 +37,7 @@ Assume that a project, which has resources allocated, gets delayed by one month.
 
 3.  On the Request Extension from, fill the fields.
 
-    For a description of the field values, see [Request Extension form](../reference/rsrc-req-extn-form.md).
+    For a description of the field values, see [Request Extension form](rsrc-req-extn-form.md).
 
 
 ## Result
@@ -48,7 +48,7 @@ The end date of the resource plan is updated and the **Extension** field is set 
 
 [Allocate resources for the extended period](allocate-resources-for-extended-period.md).
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -83,7 +83,7 @@ The end date of the resource plan is updated and the **Extension** field is set 
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

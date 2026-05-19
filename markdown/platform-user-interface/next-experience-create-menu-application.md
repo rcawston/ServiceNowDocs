@@ -51,5 +51,5 @@ Editing the modules you have added using the following links.
 -   [New record module](next-experience-new-record-module.md)
 -   [Single record module](next-experience-single-record-module.md)
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](next-experience-all-menu-editing.md)
 

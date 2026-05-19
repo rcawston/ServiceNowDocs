@@ -69,11 +69,11 @@ Role required: sn\_ai\_governance.ai\_steward or sn\_ai\_asset\_mgmt.ai\_asset\_
 
         **Note:** This tab is available only for AI systems.
 
-        For more information on value templates, see [Using value templates](../concept/using-value-templates.md).
+        For more information on value templates, see [Using value templates](using-value-templates.md).
 
     -   To view associated onboarding, change, and off-boarding requests for the asset, select the **Requests** tab.
 
-        For more information on change and off-boarding requests, see [Creating requests for AI assets](../concept/creating-ai-asset-requests.md).
+        For more information on change and off-boarding requests, see [Creating requests for AI assets](creating-ai-asset-requests.md).
 
     -   To view the evaluations that are enabled for the asset, select the **Evaluation template** tab.
 

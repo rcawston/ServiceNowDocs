@@ -45,7 +45,7 @@ As a user with the ServiceNow AI Platform® administrator role, set up your Serv
 2.  Verify that any ServiceNow Security Incident Response and other plugins that support the integration are installed and activated for your release of the ServiceNow AI Platform.
 3.  Install and configure a MID server in your ServiceNow AI Platform® instance.
 4.  Create an approval group if you want to process requests submitted from the security incident analyst for the isolate host and initiate malware scan actions.
-For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md).
+For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](mcaffee-epo-setup-now.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ As a user with the ServiceNow AI Platform security incident administrator role, 
 
 </td><td>
 
-As a user with the security incident administrator role, create a profile for McAfee ePO capabilities. For information about profiles, see [McAfee ePO integration capability profiles](../concept/mcafee-epo-creating-profiles.md). For the steps required to create a profile, see [Create a capability profile](mcafee-epo-create-profile.md).
+As a user with the security incident administrator role, create a profile for McAfee ePO capabilities. For information about profiles, see [McAfee ePO integration capability profiles](mcafee-epo-creating-profiles.md). For the steps required to create a profile, see [Create a capability profile](mcafee-epo-create-profile.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ As a user with the security incident administrator role, configure a profile and
 3.  Test and preview security incidents.
 4.  Locate search results and other details on the related lists on the security incident.
 5.  Create and Configure different types of profiles and test security incidents for each type.
- For information about triggering conditions and the alternate CI field, see [Defining triggering conditions with a Configuration item \(CI\) field](../concept/mcafee-epo-alternate-ci.md). For the steps required to configure a profile, test, and preview security incidents and examples of profile types, see the examples that follow [Configure settings](../concept/mcafee-epo-configuring-profile.md).
+ For information about triggering conditions and the alternate CI field, see [Defining triggering conditions with a Configuration item \(CI\) field](mcafee-epo-alternate-ci.md). For the steps required to configure a profile, test, and preview security incidents and examples of profile types, see the examples that follow [Configure settings](mcafee-epo-configuring-profile.md).
 
 </td></tr><tr><td>
 
@@ -109,9 +109,9 @@ For more information on processing approval requests, see [Create an approval gr
 </table>    You have successfully completed the set up steps, installed and configured the application, and verified expected results for the integration.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Integration architecture for McAfee ePO](../concept/mcafee-epo-integration-architecture.md)
+**Previous topic:**[Integration architecture for McAfee ePO](mcafee-epo-integration-architecture.md)
 
-**Next topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md)
+**Next topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](mcaffee-epo-setup-now.md)
 

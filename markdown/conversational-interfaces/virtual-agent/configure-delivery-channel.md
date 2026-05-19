@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin
 
 ## About this task
 
-Use the delivery channel to support multiple channels for the same notification content. The procedure to configure delivery channels depends on the channel type. There are two notification channel types: Messaging channels and chat channels. For more information about channels, see [Channels in Conversational Interfaces](../../conversational-interfaces/concept/ci-channels-overview.md).
+Use the delivery channel to support multiple channels for the same notification content. The procedure to configure delivery channels depends on the channel type. There are two notification channel types: Messaging channels and chat channels. For more information about channels, see [Channels in Conversational Interfaces](../ci-channels-overview.md).
 
 Delivery channels are also part of multiple active conversations in Virtual Agent. See [Route Virtual Agent NLU notifications through multiple portals](t_route-va-notifications-multiple-portals.md) for more information.
 
@@ -60,5 +60,5 @@ Delivery channels are also part of multiple active conversations in Virtual Agen
 6.  Select **Submit** \(new notification records\) or **Update** \(existing notification records\).
 
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](configuring-va-notifications.md)
 

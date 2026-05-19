@@ -57,5 +57,5 @@ If Discovery cannot discover the server and resolve the DNS name to an IP addres
 10. Click **Submit**.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 

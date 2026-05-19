@@ -33,7 +33,7 @@ You must have retrieved the update sets from the source instance.
 
 4.  If the system found problems, preview the problems.
 
-    1.  Select the **Preview Problems for Batch** and [resolve the problems](../../task/t_PreviewARemoteUpdateSet.md#) as you normally would for any update set.
+    1.  Select the **Preview Problems for Batch** and [resolve the problems](t_PreviewARemoteUpdateSet.md#) as you normally would for any update set.
 
     2.  When you have resolved all the problems, select **Run Preview Again for Batch**.
 

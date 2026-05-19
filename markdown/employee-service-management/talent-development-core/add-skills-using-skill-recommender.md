@@ -46,5 +46,5 @@ By adding skills to your profile, you can track all these details in one place.
 
 The skill is added to your additional skills section.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](using-skills-intelligence.md)
 

@@ -29,7 +29,7 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Opportunity Management](../task/install-opportunity-management.md)
+[Install Opportunity Management](install-opportunity-management.md)
 
 </td><td>
 
@@ -65,11 +65,11 @@ Product catalog admin
 
 </td></tr><tr><td>
 
-[Configuring product pricing](../task/som-create-price-list-line.md)
+[Configuring product pricing](som-create-price-list-line.md)
 
 </td><td>
 
-Define the [price lists](../task/som-create-price-list.md), pricing strategies, and other pricing features that you want to use, unless they've been previously defined.
+Define the [price lists](som-create-price-list.md), pricing strategies, and other pricing features that you want to use, unless they've been previously defined.
 
 </td><td>
 
@@ -101,7 +101,7 @@ Admin and product catalog admin
 
 </td></tr><tr><td>
 
-[Create opportunity stages](../task/opportunity-management-opportunity-stages.md)
+[Create opportunity stages](opportunity-management-opportunity-stages.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Opportunity setup writer
 
 </td></tr><tr><td>
 
-[Create a sales cycle for an opportunity](../task/opportunity-management-sales-cycle-types.md)
+[Create a sales cycle for an opportunity](opportunity-management-sales-cycle-types.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Opportunity setup writer
 
 </td></tr><tr><td>
 
-[Associate a sales cycle with the opportunity stage](../task/opportunity-management-sales-cycle-stages.md)
+[Associate a sales cycle with the opportunity stage](opportunity-management-sales-cycle-stages.md)
 
 </td><td>
 

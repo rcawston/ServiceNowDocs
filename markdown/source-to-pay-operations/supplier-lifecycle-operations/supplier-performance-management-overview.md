@@ -36,7 +36,7 @@ To install Supplier Relationship and Performance Management, the following plugi
     -   Supplier Operations \(com.snc.sn\_so\)
     -   Gantt Component for ServiceNow \(com.servicenow\_now\_gantt\)
 
-To enable the Automated KPIs feature after an upgrade, run the fix scripts **KPI - Dec 25 records script** and **KPI - Dec 25 data records script**. For more information, see [Run fix scripts to enable Automated KPI collection](../task/run-fixscript-automated-kpis.md).
+To enable the Automated KPIs feature after an upgrade, run the fix scripts **KPI - Dec 25 records script** and **KPI - Dec 25 data records script**. For more information, see [Run fix scripts to enable Automated KPI collection](run-fixscript-automated-kpis.md).
 
 For more information about configuring Supplier Relationship and Performance Management, see [Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md).
 

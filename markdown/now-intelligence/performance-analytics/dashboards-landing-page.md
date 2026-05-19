@@ -17,25 +17,25 @@ Responsive Dashboards enable you to display multiple performance analytics, repo
 
 ## Get started
 
-**Note:** You can migrate your Core UI dashboards to the Platform Analytics experience. For more information, see [Platform Analytics Migration Center](../../par-for-workspace/concept/data-migration.md).
+**Note:** You can migrate your Core UI dashboards to the Platform Analytics experience. For more information, see [Platform Analytics Migration Center](../data-migration.md).
 
 Core UI dashboard functionality is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed. Only users with the dashboard\_admin role can create new responsive dashboards.
 
 <table id="table_jrp_1lp_h1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)ServiceNow responsive dashboards enable you to share reports and other data visualizations as well as filters for the use of people across your organization.](../concept/create-and-edit-dashboards.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)ServiceNow responsive dashboards enable you to share reports and other data visualizations as well as filters for the use of people across your organization.](create-and-edit-dashboards.md)
 
 </td><td>
 
-[Create![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to tell the story of your data by creating, editing, viewing, and sharing dashboards.](../../performance-analytics/task/t_CreateADashboard.md)
+[Create![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to tell the story of your data by creating, editing, viewing, and sharing dashboards.](t_CreateADashboard.md)
 
 </td></tr><tr><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to group dashboards, move dashboards with update sets, and troubleshoot permissions, and more.](../concept/c_DashboardAdministration.md)
+[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Learn how to group dashboards, move dashboards with update sets, and troubleshoot permissions, and more.](c_DashboardAdministration.md)
 
 </td><td>
 
-[Migrate![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Migrate your dashboards to the Platform Analytics experience.](../../par-for-workspace/concept/data-migration.md)
+[Migrate![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Migrate your dashboards to the Platform Analytics experience.](../data-migration.md)
 
 </td></tr></tbody>
 </table>

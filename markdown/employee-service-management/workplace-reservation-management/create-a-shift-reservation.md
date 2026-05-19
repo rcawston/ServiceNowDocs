@@ -75,7 +75,7 @@ Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **New Rese
 
     The workplace items which match the search criteria and which are available during this shift are displayed.
 
-    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../../workplace-space-mapping/concept/wsm-mappedin-admin.md).
+    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](../wsm-mappedin-admin.md).
 
 4.  Sort the workplace items in alphabetical order or by using a filter with the **Show filter** option.
 
@@ -136,12 +136,12 @@ If you requested reservation for an item that requires approval, then your reque
 
 Review your reservation details. To edit or cancel your reservations, see [Share, modify, or cancel a reservation](modify-cancel-res-request.md).
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -157,7 +157,7 @@ Review your reservation details. To edit or cancel your reservations, see [Share
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

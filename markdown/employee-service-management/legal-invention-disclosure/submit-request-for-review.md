@@ -44,5 +44,5 @@ If you have submitted a Legal Invention Disclosure with missing or incomplete in
 
 The request is submitted back to the fulfiller for review.
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

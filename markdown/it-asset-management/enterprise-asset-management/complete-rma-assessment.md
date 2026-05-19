@@ -160,5 +160,5 @@ The Prepare task automatically closes with an updated state of Closed Complete.
 
 If you set the **RMA type** field to **On-site** or **Off-site**, complete all subsequent replacement or repair tasks to move the RMA order line to the **Completed** stage. If you set the **RMA type** field to **Reject**, the RMA order line automatically moves to the Completed stage, and no further action is required.
 
-**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](../concept/closing-rma-order.md)
+**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](closing-rma-order.md)
 

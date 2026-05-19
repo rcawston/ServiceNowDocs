@@ -133,7 +133,7 @@ Disable the automated alarm closure capability if you no longer want to view the
 -   **[View LogRhythm drill down events](drilldown-events.md)**  
 View the related raw or base events for a LogRhythm alarm in the security incident.
 
-**Parent Topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Parent Topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
 **Previous topic:**[Additional options for LogRhythm alarms](verify-alarm-closure-logrhythm.md)
 

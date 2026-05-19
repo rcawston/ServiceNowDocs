@@ -26,7 +26,7 @@ The system administrator can also create a channel configuration to associate an
 **Related topics**  
 
 
-[Configure an email address for a product](../task/t_ConfigureEmailCommunication.md)
+[Configure an email address for a product](t_ConfigureEmailCommunication.md)
 
 [Email accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAccounts.md)
 

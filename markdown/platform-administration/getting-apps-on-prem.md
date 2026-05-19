@@ -25,15 +25,15 @@ If you have an on-premise instance, there are two ways that you can procure apps
 
 Use the following steps to procure apps and products without connecting your instance to the ServiceNow Store.
 
-1.  [Get an app as an on-premise customer](../task/get-app-on-prem.md)
+1.  [Get an app as an on-premise customer](get-app-on-prem.md)
 
     Procure and download an encrypted app from the ServiceNow Store for use with your on-premise instance.
 
-2.  [Upload an app to an on-premise instance](../task/upload-app-on-prem-instance.md)
+2.  [Upload an app to an on-premise instance](upload-app-on-prem-instance.md)
 
     Upload an application's encrypted file to your on-premise instance to make it available for installation.
 
-3.  [Install the app or product using the Application Manager](../../application-manager/concept/installing-apps-app-manager.md)
+3.  [Install the app or product using the Application Manager](application-manager/installing-apps-app-manager.md)
 
     After uploading the encrypted app file, use the Application Manager to install the application to your on-premise instance.
 

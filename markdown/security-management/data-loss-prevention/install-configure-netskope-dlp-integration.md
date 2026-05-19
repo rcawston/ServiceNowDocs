@@ -51,5 +51,5 @@ Role required: sn\_dlir.admin
 
 After you successfully validate and submit the configuration, the Netskope DLP Integration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

@@ -19,7 +19,7 @@ An email notification must exist. For more information, see [Create an email not
 
 You must activate the Glide Notification Translation \(com.glide.notification.translation\) plugin.
 
-The [Localization Framework settings](../../localization-framework/concept/localization-settings.md) should be configured to request the translation for the artifact configurations and add languages.
+The [Localization Framework settings](localization-framework/localization-settings.md) should be configured to request the translation for the artifact configurations and add languages.
 
 Role required: admin
 
@@ -43,7 +43,7 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Static translation](../concept/static-translation.md)
+**Parent Topic:**[Static translation](static-translation.md)
 
 **Related topics**  
 

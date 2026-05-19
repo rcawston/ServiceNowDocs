@@ -45,27 +45,27 @@ Japanese language searches use the Kuromoji Japanese tokenizer in Zing. The Japa
 
 7.  [Regenerate a text index for a table](t_RegenerateATextIndexForATable.md).
 
-    **Note:** Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can view historical [statistics](../reference/r_ViewTextIndexingStatsAndStatus.md).
+    **Note:** Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can view historical [statistics](r_ViewTextIndexingStatsAndStatus.md).
 
 
 ## Result
 
 When the text index is generated and you go to the table you configured, the table now uses the Japanese tokenizer.
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
 [Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
 
 [Configure a text index group to search across multiple tables](index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](index-attributes.md)
 
 [Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
 
@@ -79,5 +79,5 @@ When the text index is generated and you go to the table you configured, the tab
 
 [Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](r_ViewTextIndexingStatsAndStatus.md)
 

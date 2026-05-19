@@ -54,7 +54,7 @@ You can unlink tasks from a similar task group or remove tasks from the event ta
 
 By eliminating redundant task execution and enhancing task management, this feature significantly improves operational efficiency during complex exercises or events.
 
--   **[Create a similar tasks group](../task/create-similar-tasks-group.md)**  
+-   **[Create a similar tasks group](create-similar-tasks-group.md)**  
 Identify similar or duplicate event tasks associated with an event and add them to a similar tasks group by grouping them in the **Similar tasks groups** tab. It helps you to streamline event task management and reduce duplication of efforts.
 -   **[State changes for event tasks in groups](transition-states-of-event-task.md)**  
 The original and duplicate event tasks in the Similar tasks group move through different states until the original task is closed.

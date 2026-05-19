@@ -37,7 +37,7 @@ Services
 
 </td><td>
 
-Service to use for this mapping. Each service can be mapped only once. For version 1.5.0 of Service Observability, services must be activated to be mapped. To activate a service, see [Activate teams and services](../concept/activate-teams-and-services.md).
+Service to use for this mapping. Each service can be mapped only once. For version 1.5.0 of Service Observability, services must be activated to be mapped. To activate a service, see [Activate teams and services](activate-teams-and-services.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -49,7 +49,7 @@ Find metrics from this source
 
 </td><td>
 
-Existing data connection to use for metrics. To add a connection, see [Connect a Service Observability data source](../task/connect-an-observability-data-source.md).
+Existing data connection to use for metrics. To add a connection, see [Connect a Service Observability data source](connect-an-observability-data-source.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Find metrics from this source
 
 </td><td>
 
-Existing data connection to use for metrics. To add a connection, see [Connect a Service Observability data source](../task/connect-an-observability-data-source.md).
+Existing data connection to use for metrics. To add a connection, see [Connect a Service Observability data source](connect-an-observability-data-source.md).
 
 </td></tr><tr><td>
 

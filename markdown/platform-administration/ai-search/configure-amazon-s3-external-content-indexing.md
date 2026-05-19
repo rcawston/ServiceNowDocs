@@ -162,5 +162,5 @@ Provide the IAM user access key and secret access key that you copied in step [3
 
 For details on creating and configuring an Amazon S3 external content connector, see [Create an Amazon S3 external content connector](create-ext-cont-connector-amazon-s3.md).
 
-**Parent Topic:**[Amazon S3 external content connector](../concept/amazon-s3-external-content-connector.md)
+**Parent Topic:**[Amazon S3 external content connector](amazon-s3-external-content-connector.md)
 

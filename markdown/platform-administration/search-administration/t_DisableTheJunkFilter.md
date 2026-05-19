@@ -44,18 +44,18 @@ For example, to disable matches for search terms like `a` or `40` in the Knowled
     -   To have the desired effect, you may also need to reconfigure the [automatic stop words](t_ConfigureAnAutomaticStopWord.md). For example, if a specific 2-digit number appears in all of your problem numbers \(92-0001, 92-0002, and so on\), the automatic stop word threshold is quickly exceeded and the word is no longer found in searches. To find that 2-digit number in the problem table, you must disable both junk filtering and automatic stop words.
     -   Disabling the junk filter results in a larger table index. For optimal performance, don't apply this attribute unless it's required.
 
-**Parent Topic:**[Available search options](../concept/c_IntroductionToSearching.md)
+**Parent Topic:**[Available search options](c_IntroductionToSearching.md)
 
 **Related topics**  
 
 
-[List search finds records from the current table](../concept/c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](c_TextSearchesInRecordLists.md)
 
-[Boolean operators allow conditional search results](../concept/c_BooleanOperators.md)
+[Boolean operators allow conditional search results](c_BooleanOperators.md)
 
-[Quotation marks allow exact phrase searches](../concept/c_PhraseSearches.md)
+[Quotation marks allow exact phrase searches](c_PhraseSearches.md)
 
-[Wildcard characters allow searching for patterns and variations](../concept/c_Wildcards.md)
+[Wildcard characters allow searching for patterns and variations](c_Wildcards.md)
 
 [Debug Zing](t_DebugZing.md)
 

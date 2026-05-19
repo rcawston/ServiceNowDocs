@@ -19,10 +19,10 @@ To purchase a subscription, contact your ServiceNow account manager. The account
 
 When ServiceNow personnel install the MetricBase Demo plugin, they also connect your instance to the server that contains the MetricBase database. A MetricBase database can connect with only one other instance. For example, a clone of the original instance can't talk to the same database as the original instance.
 
-**Parent Topic:**[Configuring MetricBase](../concept/configuring-metricbase.md)
+**Parent Topic:**[Configuring MetricBase](configuring-metricbase.md)
 
 **Related topics**  
 
 
-[Working with MetricBase demo data](../concept/working-with-metricbase-demo-data.md)
+[Working with MetricBase demo data](working-with-metricbase-demo-data.md)
 

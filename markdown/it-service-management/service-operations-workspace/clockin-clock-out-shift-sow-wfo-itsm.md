@@ -36,5 +36,5 @@ The clock-in event is generated when you either login or set your status as **Av
 
 You can view your time attendance and adherence in **Lists** &gt; **Schedule Adherence** &gt; **Time Attendance** &gt; **Time Worked Summary** lists.
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](itsm-sow-workspace-scheduling.md)
 

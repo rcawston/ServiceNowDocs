@@ -21,7 +21,7 @@ Role required: inventory\_admin
 
 ## About this task
 
-Check the [priority level](../reference/r_StockroomTypes.md) of the stockroom types provided in the base instance to ensure that you assign the correct priority level to any new stockroom types you create. You can also modify the stockroom types included in the base system.
+Check the [priority level](r_StockroomTypes.md) of the stockroom types provided in the base instance to ensure that you assign the correct priority level to any new stockroom types you create. You can also modify the stockroom types included in the base system.
 
 ## Procedure
 
@@ -39,5 +39,5 @@ Check the [priority level](../reference/r_StockroomTypes.md) of the stockroom ty
 2.  Click **Submit**.
 
 
-**Parent Topic:**[Manage stockrooms](../../hardware-asset-management/concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

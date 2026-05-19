@@ -42,8 +42,8 @@ The push application handles sending notifications to mobile devices. Add your n
 
 8.  Click **Submit**.
 
-    Your push message is rendered on mobile devices that it is registered to. To see how push notifications appear to end users, see [Mobile push notifications](../concept/sg-mobile-push-notifications.md).
+    Your push message is rendered on mobile devices that it is registered to. To see how push notifications appear to end users, see [Mobile push notifications](sg-mobile-push-notifications.md).
 
 
-**Parent Topic:**[Mobile push notification components](../concept/configure-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notification components](configure-mobile-push-notifications.md)
 

@@ -35,5 +35,5 @@ The Value column on the Choices page displays the integer values of all the stat
 **Related topics**  
 
 
-[Default highlight color for different case states](../reference/portal-case-cards-widget-default-color.md)
+[Default highlight color for different case states](../portal-case-cards-widget-default-color.md)
 

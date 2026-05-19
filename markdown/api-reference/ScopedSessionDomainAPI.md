@@ -17,7 +17,7 @@ The ScopedSessionDomain script include that contains client-side methods that pr
 
 This API is only available if the Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions\) plugin has been activated in the instance. In addition, the caller must have the admin role to access this API.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## ScopedSessionDomain - getCurrentDomainID\(\)
 
@@ -29,7 +29,7 @@ The identifier that is returned depends on the domain type and the instantiation
 -   If the user uses the domain picker to switch to the global domain, the method returns the string "global".
 -   For all other domains, the method returns the sys\_id of that domain.
 
-To access this method from a client-side script, you must use [GlideAjax\(\)](../../GlideAjax/concept/c_GlideAjaxAPI.md#) to invoke it. To invoke this method from a server-side script, use something similar to the following to instantiate the object and access the method.
+To access this method from a client-side script, you must use [GlideAjax\(\)](c_GlideAjaxAPI.md#) to invoke it. To invoke this method from a server-side script, use something similar to the following to instantiate the object and access the method.
 
 ```
 var ssg = new global.ScopedSessionDomain(); 

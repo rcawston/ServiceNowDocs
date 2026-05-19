@@ -39,7 +39,7 @@ Use this method if you want to set up everything you need to use Discovery, incl
 
 </td></tr><tr><td>
 
-[Without Guided Setup](../task/t_ConfigureDiscovery.md)
+[Without Guided Setup](t_ConfigureDiscovery.md)
 
 </td><td>
 

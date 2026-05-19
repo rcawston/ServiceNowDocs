@@ -24,5 +24,5 @@ Customer environments are upgraded according to the following table:
 
 To determine which version of CPQ your environment is on, first determine the sector of your environment by inspecting its URL. The sector precedes "logik.io" in the URL. For example, in the URL https://customName.prod.logik.io, the sector is prod. Then, find the current day in the [Upgrade Calendar](https://calendar.google.com/calendar/embed?src=c_ucaqgepi0m001s34faoai41n4g%40group.calendar.google.com&ctz=America%2FChicago). Review the corresponding test or prod entry for this day.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

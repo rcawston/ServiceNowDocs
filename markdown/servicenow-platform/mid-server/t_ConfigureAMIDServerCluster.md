@@ -45,7 +45,7 @@ Create a new cluster or edit an existing cluster.
 6.  Select appropriate MID Servers for this cluster from the slushbucket.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 
 ## MID Server clusters
 

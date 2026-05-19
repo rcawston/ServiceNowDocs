@@ -13,19 +13,19 @@ breadcrumb: [Inbound email, Notifications, Configure core features, Administer t
 
 Email object variables, user impersonations and inbound actions and examples for processing inbound email actions.
 
--   **[Accessing email object variables](../reference/r_AccessingEmailObjsWithVars.md)**  
+-   **[Accessing email object variables](r_AccessingEmailObjsWithVars.md)**  
 An inbound email action script contains the email object to access various pieces of an inbound email through variables. You can use the global variable *sys\_email* with inbound email actions.
--   **[Email user matching](../reference/r_MatchingEmailToExistingUsers.md)**  
+-   **[Email user matching](r_MatchingEmailToExistingUsers.md)**  
 When the instance receives an email message, the system searches for an existing user record with the same email address as the sender.
--   **[User impersonations and inbound actions](../reference/r_ImpUserRunInboundActions.md)**  
+-   **[User impersonations and inbound actions](r_ImpUserRunInboundActions.md)**  
 When the instance receives an email, it can take a variety of actions by impersonating the sender.
--   **[Allowing locked out users to process inbound email actions](../reference/r_AllowLockedUsersInbdEmailAct.md)**  
+-   **[Allowing locked out users to process inbound email actions](r_AllowLockedUsersInbdEmailAct.md)**  
 A property is available to allow locked out users to trigger inbound actions. For example, enabling the property can allow locked out users to reset their password and send email to the instance asking for assistance.
--   **[Redirecting email to the instance POP3 account](../reference/r_RedirEmailDifferentAssignGrp.md)**  
+-   **[Redirecting email to the instance POP3 account](r_RedirEmailDifferentAssignGrp.md)**  
 Configure other mailboxes to forward email to the instance's POP3 account.
--   **[Inbound email action examples](../reference/r_InboundEmailActionExamples.md#)**  
+-   **[Inbound email action examples](r_InboundEmailActionExamples.md#)**  
 Various examples of inbound email actions are available to help you build your own inbound email actions. These examples show how to set up inbound email actions to handle email replies, create \(log\) a problem record, request a change, and update an incident.
--   **[Integrate inbound events](../task/t_IntegratingInboundEvents.md)**  
+-   **[Integrate inbound events](t_IntegratingInboundEvents.md)**  
 This example illustrates how to create a notification from an inbound JSON request.
 
 **Parent Topic:**[Inbound email](inbound-email-landing.md)

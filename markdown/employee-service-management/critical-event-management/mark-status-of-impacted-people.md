@@ -33,12 +33,12 @@ Role required: sn\_critical.agent
 
 6.  In the Status drop-down list, select the appropriate status.
 
-    For more information on the different statuses for impacted people, see [Impacted people status](../reference/impacted-people-status.md).
+    For more information on the different statuses for impacted people, see [Impacted people status](impacted-people-status.md).
 
 7.  Update the status of multiple individuals by selecting multiple check boxes and then selecting the **Accounted** button or selecting the Accounted More Actions icon \(![Accounted More Actions icon](../../legal-invention-disclosure/image/arrow.png)\) and choosing a different status.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

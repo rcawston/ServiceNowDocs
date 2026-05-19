@@ -43,7 +43,7 @@ Use Emergency Outreach to send a privacy consent form to users. Users must agree
 
     2.  Add users to the audience.
 
-        For detailed instructions about adding users to an audience, see [Add a Safe Workplace audience](../../employee-readiness-core/task/add-safe-workplace-audience.md).
+        For detailed instructions about adding users to an audience, see [Add a Safe Workplace audience](employee-readiness-core/add-safe-workplace-audience.md).
 
     3.  Click **Update**.
 
@@ -55,16 +55,16 @@ Use Emergency Outreach to send a privacy consent form to users. Users must agree
 
     2.  Make any modifications to the outreach if needed, such as scheduling a time to send.
 
-        For detailed instructions about configuring an outreach, see [Send notifications for an emergency](../../business-continuity/task/send-eo-notification-outreach.md).
+        For detailed instructions about configuring an outreach, see [Send notifications for an emergency](emergency-outreach/send-eo-notification-outreach.md).
 
     3.  Enable the outreach to provide location-specific privacy consents by selecting the **Use Country** option on the **Content configuration** tab.
 
         When enabled, the privacy statement text in Location Privacy Configuration takes precedence over text in the privacy consent templates. This text is used for the outreach, system notification email, and push notification. If you need to update the text that users receive, you must change the location's privacy statement.
 
-        For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](../../employee-readiness-core/task/generate-location-common-privacy-configuration.md).
+        For more information on updating a location's privacy statement, see [Generate location-based privacy configurations](employee-readiness-core/generate-location-common-privacy-configuration.md).
 
     4.  Click **Update**.
 
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

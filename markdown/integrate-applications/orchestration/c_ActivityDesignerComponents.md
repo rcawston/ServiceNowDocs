@@ -21,25 +21,25 @@ Hundreds of workflows can share these activities simultaneously. Before you chan
 
 All the Orchestration Core activities are built using the Activity Designer in scoped applications. Custom activities can be developed in the global scope or their own application scope even if that scope is different from the scope of the workflow. Use [Activity scoping](c_ActivityScoping.md) when build your own activity packs.
 
--   **[Create a JDBC activity](../task/t_CreateAJDBCActivity.md#)**  
+-   **[Create a JDBC activity](t_CreateAJDBCActivity.md#)**  
 Create a custom JDBC activity to automate SQL commands and stored procedure calls to relational databases from workflow.
--   **[Create a SOAP web service activity](../task/t_CreateASOAPWebServiceActivity.md)**  
+-   **[Create a SOAP web service activity](t_CreateASOAPWebServiceActivity.md)**  
 Use this template to create a custom SOAP activity.
--   **[Create a JavaScript Probe activity](../task/t_CreateAJavaScriptProbeActivity.md#)**  
+-   **[Create a JavaScript Probe activity](t_CreateAJavaScriptProbeActivity.md#)**  
 Create a JavaScript Probe activity to instruct a MID server to execute server-side javascript.
--   **[Create a PowerShell activity](../task/t_CreateAPowershellActivity.md#)**  
+-   **[Create a PowerShell activity](t_CreateAPowershellActivity.md#)**  
 Create a custom PowerShell activity return data to a workflow from a host using Microsoft PowerShell.
--   **[Create a REST web service activity](../task/t_CreateARESTWebServiceActivity.md#)**  
+-   **[Create a REST web service activity](t_CreateARESTWebServiceActivity.md#)**  
 Use this procedure to create a custom REST web service Orchestration activity.
--   **[Create an SFTP activity](../task/t_CreateAnSFTPActivity.md#)**  
+-   **[Create an SFTP activity](t_CreateAnSFTPActivity.md#)**  
 Create an activity that executes basic SFTP commands on a remote server.
--   **[Create a probe activity](../task/t_CreateAProbeActivity.md#)**  
+-   **[Create a probe activity](t_CreateAProbeActivity.md#)**  
 Create an activity that runs a probe on the target host that is configured to return specific information..
--   **[Create an SSH activity](../task/t_CreateAnSSHActivity.md#)**  
+-   **[Create an SSH activity](t_CreateAnSSHActivity.md#)**  
 Create an activity that extracts data from a target host that uses the SSH network protocol.
--   **[Create a run script activity](../task/t_CreateARunScriptActivity.md#)**  
+-   **[Create a run script activity](t_CreateARunScriptActivity.md#)**  
 Create an activity that runs any script.
--   **[Create a JMS activity](../task/t_CreateAJMSActivity.md#)**  
+-   **[Create a JMS activity](t_CreateAJMSActivity.md#)**  
 Create a custom JMS activity to retrieve or send messages to external systems using the Java Messaging Service.
 
 **Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)

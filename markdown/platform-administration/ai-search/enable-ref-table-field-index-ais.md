@@ -42,7 +42,7 @@ You can create both **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** 
 
 2.  In the Field Settings &amp; Mapping related list, select **New**.
 
-3.  On [the Field Setting form](../reference/field-setting-form-ais.md), enter the field values shown for your use-case.
+3.  On [the Field Setting form](field-setting-form-ais.md), enter the field values shown for your use-case.
 
     -   To index field values from referenced tables for use in search source filters, facet filters, and EVAM search result configurations, enter the following field values.
 
@@ -67,5 +67,5 @@ You can create both **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** 
     The attribute and value appear in the Field Settings &amp; Mapping related list.
 
 
-**Parent Topic:**[Field settings for AI Search](../concept/field-settings-ais.md)
+**Parent Topic:**[Field settings for AI Search](field-settings-ais.md)
 

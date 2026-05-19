@@ -15,13 +15,13 @@ Enable a robot to perform an automation in RPA Hub by mapping a credential group
 
 ## Before you begin
 
-Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Create a credential group. For more information, see [Create a credential group in RPA Hub](create-credential-group.md#).
 
-You can associate the credential group to an unattended bot process that doesn’t have the life-cycle stage status set to **Retired** or **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+You can associate the credential group to an unattended bot process that doesn’t have the life-cycle stage status set to **Retired** or **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](lifecycle-stages-botprocess.md).
 
 You can't edit the **Process Credential Mappings** record when the life-cycle stage status of the associated bot process is set to **Published**.
 
@@ -58,5 +58,5 @@ A credential group includes application credentials and a robot credential.
 9.  Select **Save**.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 

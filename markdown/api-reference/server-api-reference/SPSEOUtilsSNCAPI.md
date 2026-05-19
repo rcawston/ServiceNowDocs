@@ -17,7 +17,7 @@ The SPSEOUtilsSNC script include provides utility methods that return human-read
 
 In addition, this API provides other utility methods that you can use to obtain information that is needed to call other human-readable URL methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SPSEOUtilsSNC - getHumanReadableUrl\(GlideRecord pageGR, String queryString\)
 

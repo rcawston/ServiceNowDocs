@@ -63,7 +63,7 @@ Create new company events and make changes to existing company events from the W
 -   **[Company Event Troubleshooting](ec-wsd-integration-troubleshooting.md)**  
 Company event troubleshooting steps help resolve reservation changes and cancellations.
 
-**Parent Topic:**[Company events](../concept/ec-company-events.md)
+**Parent Topic:**[Company events](ec-company-events.md)
 
 **Related topics**  
 

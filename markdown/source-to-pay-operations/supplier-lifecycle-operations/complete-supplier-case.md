@@ -38,10 +38,10 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 The state of the case updates to **Closed completed**.
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 

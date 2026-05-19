@@ -44,7 +44,7 @@ You can only cancel a repair order line that is not in the Completed stage.
 -   The state of the associated repair asset tasks that were open changes to Closed Incomplete.
 -   The stage of the repair order changes to Cancelled only if there aren't any other repair order lines that are in the Troubleshoot, Repair, Evaluate, or Completed stage.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

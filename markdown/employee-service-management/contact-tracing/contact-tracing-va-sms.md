@@ -36,7 +36,7 @@ Note the following requirements to use Virtual Agent with SMS:
 
 -   The Emergency Outreach application.
 
-    For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+    For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
 -   The Virtual Agent plugin \(com.glide.cs.chatbot\).
 

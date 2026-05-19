@@ -27,7 +27,7 @@ Role required: sn\_uni\_task.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Employee Input Task Configuration form](../reference/ut-empform-config-form.md).
+    For more information on form fields and descriptions, see [Employee Input Task Configuration form](ut-empform-config-form.md).
 
 4.  In the **Parent table** field, select the parent table.
 
@@ -40,7 +40,7 @@ Role required: sn\_uni\_task.admin
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Configure the catalog items for your service](config-catalog-task.md)
 

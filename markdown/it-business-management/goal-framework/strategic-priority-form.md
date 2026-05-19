@@ -111,5 +111,5 @@ A detailed description of the strategic priority.You can refine strategic priori
 **Related topics**  
 
 
-[Enterprise strategy example](../concept/enterprise-goal-example-strategy-gf.md)
+[Enterprise strategy example](enterprise-goal-example-strategy-gf.md)
 

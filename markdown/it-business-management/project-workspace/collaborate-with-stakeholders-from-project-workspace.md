@@ -114,5 +114,5 @@ If you want to address your comments to a user, @-mention their name in the comm
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

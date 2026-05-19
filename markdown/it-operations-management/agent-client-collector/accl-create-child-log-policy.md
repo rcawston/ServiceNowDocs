@@ -51,7 +51,7 @@ The child policy inherits parameters from its parent policy that are modified af
 
 4.  Customize the child policy's parameters.
 
-    For a description of the parameters, see [Create an Agent Client Collector log policy](../../health-log-analytics-admin/task/hla-acc-log-policies.md).
+    For a description of the parameters, see [Create an Agent Client Collector log policy](hla-acc-log-policies.md).
 
 5.  Select **Save** to create the child policy.
 

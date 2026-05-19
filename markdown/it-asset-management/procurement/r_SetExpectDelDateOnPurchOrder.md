@@ -23,5 +23,5 @@ The **Expected delivery** field can be edited on both records. Editing the field
 -   If you change the date on the purchase order line item to a date that is later than the one specified on the purchase order, the date on the purchase order is changed to the new date. The expected delivery date of a purchase order line item cannot be later than the expected delivery date on the associated purchase order.
 -   If you change the date on the purchase order line item to a date that is earlier than the date specified on the purchase order, the date on the purchase order remains the same.
 
-**Parent Topic:**[Create a purchase order](../task/t_CreateAPurchaseOrder.md)
+**Parent Topic:**[Create a purchase order](t_CreateAPurchaseOrder.md)
 

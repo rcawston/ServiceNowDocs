@@ -82,7 +82,7 @@ If **Allow formula component to be null** is selected for all of the formula ind
 
 Formula 2, Formula 3, Formula 4, and Formula 5 represent four different ways to handle the null score.
 
-**Parent Topic:**[Formula indicators](../concept/formula-indicators.md)
+**Parent Topic:**[Formula indicators](formula-indicators.md)
 
 **Related topics**  
 
@@ -91,13 +91,13 @@ Formula 2, Formula 3, Formula 4, and Formula 5 represent four different ways to 
 
 [Get analytics methods in formulas](get-indicator-analytics.md)
 
-[Prevent a contributing indicator in a formula from following breakdowns](../concept/c_ExcludingBreakdownsFromFormulas.md)
+[Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
 
-[Breakdown matrices in formula indicators](../concept/bkdown-matrix-formula-indicators.md)
+[Breakdown matrices in formula indicators](bkdown-matrix-formula-indicators.md)
 
-[Applying time series to result or to contributing indicators](../concept/apply-time-series-result-components.md)
+[Applying time series to result or to contributing indicators](apply-time-series-result-components.md)
 
-[Indexing multiple indicators in a formula](../concept/index-indicators.md)
+[Indexing multiple indicators in a formula](index-indicators.md)
 
-[Changes to score\_start/end because of different user time zones](../concept/time-zones-indicator-formulas.md)
+[Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md)
 

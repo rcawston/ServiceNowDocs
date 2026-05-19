@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 A logical connection typically represents the multiple physical connections on an interface card. The logical connection data includes the link types, bandwidths, port, and site.
 
-When you create a logical connection record, it creates a corresponding configuration item \(CI\) record in the Logical Connection \[cmdb\_ci\_ni\_logical\_path\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you create a logical connection record, it creates a corresponding configuration item \(CI\) record in the Logical Connection \[cmdb\_ci\_ni\_logical\_path\] table. To learn more, see [Data model](uses-for-network-inventory-data.md).
 
 The **Overview** tab in the logical connection record displays a consolidated detail of the logical connection, its connection elements, and A and Z ends. You can customize the connection elements table by creating a custom implementation for the extension point `sn_ni_adv.TNIConnectionOverview`. Also, you can decide the number of rows in this table by setting the system property `sn_ni_adv.clr_max_rows`. The default value for this property is 500.
 
@@ -33,21 +33,21 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then select **Inventory** &gt; **Logical Connections**.
 
-    **Note:** You can also access the logical connection list by selecting the **Logical connection** count in the Network entities. Logical connection count is under the categories widget of the Network Inventory Workspace landing page. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](../concept/tni-workspace.md).
+    **Note:** You can also access the logical connection list by selecting the **Logical connection** count in the Network entities. Logical connection count is under the categories widget of the Network Inventory Workspace landing page. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](tni-workspace.md).
 
 3.  Select **New**.
 
 4.  On the **Details** tab, in the Logical Connection section, fill in the general information for the logical connection.
 
-    To learn more about the fields that are unique to the Logical Connection form, see [Logical Connection form](../reference/tni-logical-connection-forms.md#).
+    To learn more about the fields that are unique to the Logical Connection form, see [Logical Connection form](tni-logical-connection-forms.md#).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the logical connection.
 
-    To learn more about the fields that are unique to the Configuration section, see [Logical Connection form - Configuration](../reference/tni-logical-connection-forms.md#).
+    To learn more about the fields that are unique to the Configuration section, see [Logical Connection form - Configuration](tni-logical-connection-forms.md#).
 
-    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
 6.  To create the Telecommunications Network Inventory attributes for the Logical Connection form, select **Set Inventory Attributes**.
 
@@ -59,7 +59,7 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Select **Save**.
 
@@ -69,7 +69,7 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 11. To view the visual representation of the selected record, select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Open Map**.
 
@@ -77,7 +77,7 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 12. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 
 13. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
 
@@ -90,14 +90,14 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 -   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

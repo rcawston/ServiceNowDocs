@@ -38,5 +38,5 @@ This script will relabel the "Business Location Details" page within the Busines
 5.  Follow the steps to complete the Guided Setup task.
 
 
-**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](../concept/setting-up-csm-fsm.md)
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](setting-up-csm-fsm.md)
 

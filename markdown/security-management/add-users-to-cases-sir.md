@@ -46,7 +46,7 @@ You need to navigate to the user records you want to add to existing cases.
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Affected users in cases](../concept/cases-from-affected-users.md)
+**Parent Topic:**[Affected users in cases](cases-from-affected-users.md)
 
 **Related topics**  
 

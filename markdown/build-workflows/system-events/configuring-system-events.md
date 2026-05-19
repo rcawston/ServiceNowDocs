@@ -17,11 +17,11 @@ Plan, configure, and implement system events without having to complete any extr
 
 ## Configuration overview
 
-[Implement automated job scheduling](../task/auto-job-scheduling.md)
+[Implement automated job scheduling](auto-job-scheduling.md)
 
 Implement the message processing framework \(automated jobs scheduling\) by using the Queue Registration link on the Event Registration form.
 
--   **[Implement automated job scheduling](../task/auto-job-scheduling.md)**  
+-   **[Implement automated job scheduling](auto-job-scheduling.md)**  
 Implement the message processing framework \(automated jobs scheduling\) by using the Queue Registration link on the Event Registration form.
 
 **Parent Topic:**[System Events](system-events-landing.md)

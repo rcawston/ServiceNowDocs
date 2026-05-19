@@ -41,11 +41,11 @@ The **Planning** tab facilitates a detailed planning of the upcoming program inc
 
 ![Planning tab](../images/bigroomplanningSAFe.png "Planning tab")
 
--   **[Track features in a board](../task/track-features-board.md)**  
+-   **[Track features in a board](track-features-board.md)**  
 Track the progress of features in the ART. View their transition from one state \(lane\) to another.
--   **[Manage your ART backlog from the SAFe Board](../task/plan-program-backlog.md)**  
+-   **[Manage your ART backlog from the SAFe Board](plan-program-backlog.md)**  
 Prioritize and manage features in your agile release train \(ART\) backlog. The ART backlog lists only the active features that are not assigned to any program increment.
--   **[Schedule features for your program increments](../task/program-increment-planning.md#)**  
+-   **[Schedule features for your program increments](program-increment-planning.md#)**  
 Define a program increment \(PI\) and plan the features scheduled for completion within that PI.
 -   **[SAFe PI planning board](safe-pi-planning-board.md)**  
 Use a centralized board to plan your program increments \(PIs\) for an agile release train \(ART\). You can create and assign stories to teams, add and view story dependencies, track stories by sprints, and re-plan these stories if required.
@@ -55,9 +55,9 @@ Use a centralized board to plan your program increments \(PIs\) for an agile rel
 **Related topics**  
 
 
-[Components installed with Essential SAFe](../reference/installed-with-EssentialSAFe.md)
+[Components installed with Essential SAFe](installed-with-EssentialSAFe.md)
 
-[Quick start tests for Essential SAFe](../../../administer/atf-quick-start-tests/reference/quick-start-tests-essentialSAFe.md)
+[Quick start tests for Essential SAFe](quick-start-tests-essentialSAFe.md)
 
 [SAFe entities](key-entities-SAFe.md)
 

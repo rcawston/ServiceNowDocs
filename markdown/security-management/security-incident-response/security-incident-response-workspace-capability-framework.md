@@ -73,7 +73,7 @@ This column captures the static information which adds more context to the secur
 
 **Note:** Not all three steps are always required. Depending on the capability and the type of inputs required, the runtime details step and common inputs step will be visible.
 
--   **[Unified experience capabilities and modal screens](../reference/capabilities-and-modal-screens.md)**  
+-   **[Unified experience capabilities and modal screens](capabilities-and-modal-screens.md)**  
 The following table below describes the capabilities and applicable screens.
 -   **[Unified Experience examples](unified-expereince-example.md)**  
 This example demonstrates the unified experience framework capabilities.

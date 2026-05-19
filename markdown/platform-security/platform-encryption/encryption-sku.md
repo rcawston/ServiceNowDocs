@@ -17,29 +17,29 @@ With Key Management, Field Encryption is upgraded at no additional charge to inc
 
 ## Field Encryption features
 
-[Field Encryption](../concept/field-encryption.md) with encryption modules is included for free in your instance and includes [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) key management.
+[Field Encryption](../field-encryption.md) with encryption modules is included for free in your instance and includes [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) key management.
 
 ## ServiceNow Platform Encryption group features
 
 The Platform Encryption group adds the following features and offerings:
 
--   [Encryption](../../security/concept/encryption-landing.md).
--   [Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md).
+-   [Encryption](../encryption-landing.md).
+-   [Cloud Encryption with Key Management](../cloud-encryption/dare-overview.md).
 
 ## Additional information
 
-To learn more about key management, see [Exploring the Key Management Framework](../concept/explore-kmf.md).
+To learn more about key management, see [Exploring the Key Management Framework](explore-kmf.md).
 
-**Parent Topic:**[Key Management Framework Reference](../../key-management-framework/concept/understanding-kmf.md)
+**Parent Topic:**[Key Management Framework Reference](understanding-kmf.md)
 
 **Related topics**  
 
 
-[Key Management Framework key life-cycle states](../../key-management-framework/reference/key-life-cycle-states.md)
+[Key Management Framework key life-cycle states](key-life-cycle-states.md)
 
-[Roles installed with Key Management Framework](../../key-management-framework/reference/kmf-roles.md#)
+[Roles installed with Key Management Framework](kmf-roles.md#)
 
-[Module access policy visualization](../../key-management-framework/concept/map-vis-concept.md)
+[Module access policy visualization](map-vis-concept.md)
 
-[Module access policy debugger](../../key-management-framework/concept/map-debugger.md)
+[Module access policy debugger](map-debugger.md)
 

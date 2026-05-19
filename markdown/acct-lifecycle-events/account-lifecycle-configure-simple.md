@@ -47,5 +47,5 @@ You can add, modify, and delete any tasks for the Customer success onboarding ta
 9.  Select **Done** and then **Activate**.
 
 
-**Parent Topic:**[Configure the onboarding playbook activities](../concept/account-lifecycle-pad.md)
+**Parent Topic:**[Configure the onboarding playbook activities](account-lifecycle-pad.md)
 

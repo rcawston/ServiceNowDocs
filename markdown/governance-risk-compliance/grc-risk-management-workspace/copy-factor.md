@@ -32,5 +32,5 @@ Role required: sn\_risk.admin
 
 A copy of the factor is created.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

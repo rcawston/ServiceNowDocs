@@ -37,5 +37,5 @@ Role required: fiscal\_calendar\_user
     1.  To validate, return to the list view of fiscal periods and click **Validate Periods**.
 
 
-**Parent Topic:**[Defining fiscal calendars](../concept/c_FiscalCalendar.md)
+**Parent Topic:**[Defining fiscal calendars](c_FiscalCalendar.md)
 

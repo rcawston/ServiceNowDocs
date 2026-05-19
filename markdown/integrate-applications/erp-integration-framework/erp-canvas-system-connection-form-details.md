@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Connection and Credential Alias modal contains connection and credential details that specify how Zero Copy Connector for ERP \(Enterprise Resource Planning\) connects to the ERP system.
 
-For process details, see [Configure an SNC connection in Zero Copy Connector for ERP](../task/erpc-configure-an-snc-connection-in-erp-canvas.md).
+For process details, see [Configure an SNC connection in Zero Copy Connector for ERP](erpc-configure-an-snc-connection-in-erp-canvas.md).
 
 ## Connection Information field descriptions
 

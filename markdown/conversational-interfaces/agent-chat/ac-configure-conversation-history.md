@@ -56,5 +56,5 @@ Role required: admin
 10. On the Create New Conversation History Filter screen, select **Submit** or **Update**.
 
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

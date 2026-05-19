@@ -27,11 +27,11 @@ Automate documentation tasks across the app development lifecycle with the relea
 
 </td></tr><tr><td>
 
-[Generate release notes![](../../../reuse/icons/brand-icons/bus-documentation.svg)Generate release notes.](../task/generate-release-notes.md)
+[Generate release notes![](../../../reuse/icons/brand-icons/bus-documentation.svg)Generate release notes.](generate-release-notes.md)
 
 </td><td>
 
-[Generate an update set description![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Generate descriptions for local and remote update sets.](../task/generate-update-set-description.md)
+[Generate an update set description![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Generate descriptions for local and remote update sets.](generate-update-set-description.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -63,10 +63,10 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 Learn about how the release lifecycle documentation AI agent works to help you to manage application development at scale by generating useful, transparent documentation throughout the app lifecycle.
 -   **[Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md)**  
 Configure the release lifecycle documentation AI agent to start automating your app governance tasks.
--   **[Generate release notes](../task/generate-release-notes.md)**  
+-   **[Generate release notes](generate-release-notes.md)**  
 Generate release notes to document app changes and versions over time.
--   **[Generate an update set description](../task/generate-update-set-description.md)**  
+-   **[Generate an update set description](generate-update-set-description.md)**  
 Generate an update set description to quickly communicate the intent and scope of changes.
 
-**Parent Topic:**[Using agentic AI with Now Assist for Creator](../../now-assist-for-creator/concept/using-agentic-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using agentic AI with Now Assist for Creator](using-agentic-ai-now-assist-for-creator.md)
 

@@ -45,5 +45,5 @@ Role required: itil, itil\_admin, or admin
     |**Inactive**|Tap **Inactive** to view the inactive participants|
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

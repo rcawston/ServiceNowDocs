@@ -21,7 +21,7 @@ Role required: Admin.
 
 1.  Add the **glide.ui.disable\_attachment\_view** and **glide.ui.attachment\_popup** properties.
 
-    For instructions on adding properties to the platform, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For instructions on adding properties to the platform, see [Add a system property](r_AvailableSystemProperties.md#).
 
 2.  For the **glide.ui.disable\_attachment\_view** property, set the **Type** to **true/false** and set the **Value** to **true**.
 
@@ -30,5 +30,5 @@ Role required: Admin.
 4.  To return to the default behavior \(enable the link\), set the **glide.ui.attachment\_popup** property **Value** to **true**.
 
 
-**Parent Topic:**[Administering attachments](../reference/r_AdministeringAttachments.md)
+**Parent Topic:**[Administering attachments](r_AdministeringAttachments.md)
 

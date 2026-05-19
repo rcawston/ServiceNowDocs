@@ -91,5 +91,5 @@ Diagrams
 If needed, or if you do not have a Configuration Management Database \(CMDB\), add data flow, network, and boundary diagrams.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+</table>**Parent Topic:**[CAM reference](reference-grc-cam.md)
 

@@ -17,7 +17,7 @@ After installing the GRC: NIST RMF Use Case Accelerator, review the NIST RMF app
 
 ## Before you begin
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Role required: admin
 
@@ -59,5 +59,5 @@ Role required: admin
     |**Risk** &gt; **Remediation Tasks** &gt; **All Open Remediation Tasks**|Perform a search for all Remediation tasks where an issue identified on the remediation task has **Item.Content.Source = NIST 800-53-r4**.|
 
 
-**Parent Topic:**[NIST RMF Use Case Accelerator](../concept/grc-and-nistrmf-usecase-accelerator.md)
+**Parent Topic:**[NIST RMF Use Case Accelerator](grc-and-nistrmf-usecase-accelerator.md)
 

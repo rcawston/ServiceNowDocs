@@ -65,9 +65,9 @@ The **Asset audit** tab displays a list of existing asset audits.
 </td></tr></tbody>
 </table>2.  On the Create New Asset Audits form, fill in the fields.
 
-    For a description of the field values, see [Asset audit fields](../reference/asset-audit-record-fields.md).
+    For a description of the field values, see [Asset audit fields](asset-audit-record-fields.md).
 
-    **Note:** The audit result fields, such as **Expected**, and **New**, can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For a detailed description of the audit result field values, see [Audit results](../reference/audit-results.md).
+    **Note:** The audit result fields, such as **Expected**, and **New**, can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For a detailed description of the audit result field values, see [Audit results](audit-results.md).
 
 3.  Select **Save**.
 
@@ -82,7 +82,7 @@ The **Asset audit** tab displays a list of existing asset audits.
 
 Scan the assets in the inventory using the ServiceNow Agent app.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 

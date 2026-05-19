@@ -48,5 +48,5 @@ Role required: sn\_jny.admin, sn\_nowassist\_admin.nsa\_admin
 9.  Complete the configuration by selecting **Activate**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

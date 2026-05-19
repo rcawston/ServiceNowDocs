@@ -97,5 +97,5 @@ download:
   - jfrog config add artifactory-server --artifactory-url=${JFROG_ARTIFACTORY_URL} --user=${JFROG_ARTIFACTORY_USERNAME} --password=${JFROG_ARTIFACTORY_PASSWORD}
 ```
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
 

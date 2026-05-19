@@ -51,7 +51,7 @@ Here's a typical workflow for an insurance claim in the Insurance claims framewo
 |-------|-------|-----|
 |Versatile framework that adapts to any single policy P&amp;C claims without the need to create case types or flows|[Using Insurance claims](using-insurance-claims-flow.md)|Claims administrators, FNOL representatives, claims processors, claims adjusters, or claims managers|
 |Rapid configuration that enables the setup of a comprehensive end-to-end claims workflow quickly and easily|[Setting up Insurance claims](setting-up-insurance-claims-flow.md)|Claims administrators|
-|Support for single and multiple adjusters|[Work on Insurance claims adjuster tasks](../task/manage-an-insurance-claims-flow-case.md)|Claims adjusters or claims managers|
+|Support for single and multiple adjusters|[Work on Insurance claims adjuster tasks](manage-an-insurance-claims-flow-case.md)|Claims adjusters or claims managers|
 |Customizable persona-based workspaces to fit specific roles and responsibilities|[Insurance claims landing pages and workspaces](insurance-claims-flow-workspace.md)|Claims administrators, FNOL representatives, claims processors, claims adjusters, or claims managers|
 
 ## What to explore next

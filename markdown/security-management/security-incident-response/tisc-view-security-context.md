@@ -25,7 +25,7 @@ Roles required:
 
 ## About this task
 
-Security incidents enable tracking and management of remediation efforts for vulnerabilities in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](tisc-create-security-incident.md).
+Security incidents enable tracking and management of remediation efforts for vulnerabilities in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](../threat-intelligence-security-center/tisc-create-security-incident.md).
 
 ## Procedure
 
@@ -48,14 +48,14 @@ Security incidents enable tracking and management of remediation efforts for vul
 7.  Select any object to view the corresponding record in the TISC workspace.
 
 
-**Parent Topic:**[TISC integration within SIR Workspace](../concept/tisc-sir-workspace.md)
+**Parent Topic:**[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 **Related topics**  
 
 
-[Define Vulnerability](define-vulnerability.md)
+[Define Vulnerability](../threat-intelligence-security-center/define-vulnerability.md)
 
-[Create Remediations](tisc-create-remediation-record.md)
+[Create Remediations](../threat-intelligence-security-center/tisc-create-remediation-record.md)
 
-[Create Vulnerability Assessment from a Vulnerability](tisc-vul-assess.md)
+[Create Vulnerability Assessment from a Vulnerability](../threat-intelligence-security-center/tisc-vul-assess.md)
 

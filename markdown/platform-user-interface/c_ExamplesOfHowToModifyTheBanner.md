@@ -65,16 +65,16 @@ background-repeat: ${banner.background.repeat};}
 
 **Note:** The banner image and banner text associated with the primary company or specific companies may be used instead of the **glide.product.image** and **glide.product.description** properties to get the same effect.
 
-**Parent Topic:**[Create a company profile](../task/t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
 [Banner logo link](c_CustomizeTheBannerLogoLink.md)
 
-[Customize the banner logo in Core UI](../task/t_CustomizeTheLogoInSysProps.md)
+[Customize the banner logo in Core UI](t_CustomizeTheLogoInSysProps.md)
 
-[Customize the favicon](../task/customize-favicon.md)
+[Customize the favicon](customize-favicon.md)
 
 [Modify the banner](c_ModifyTheBanner.md)
 

@@ -47,5 +47,5 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 Create corresponding RMA response order lines for the DaaS assets that you want to repair or replace. For detailed instructions, see [Create a Return Merchandise Authorization \(RMA\) response order line for a defective Device as a Service \(DaaS\) asset](create-rma-response-order-line-daas-asset.md).
 
-**Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](../concept/managing-rma-response-orders-daas-assets.md)
+**Parent Topic:**[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](managing-rma-response-orders-daas-assets.md)
 

@@ -24,7 +24,7 @@ Consider the following requirements for discovering NGINIX servers:
 -   Enable secure shell \(SSH\) commands.
 -   The NGINX probes require credentials and execute privileges to run commands.
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 The Nginx Process Classifier detects a running process that matches the following criteria during the exploration of a UNIX server:
 

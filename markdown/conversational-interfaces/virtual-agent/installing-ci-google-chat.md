@@ -105,5 +105,5 @@ Install the Google chat \(sn\_va\_google-chat\) application so that Now Virtual 
 
 [Integrate Virtual Agent with Google chat](integrating-va-google-chat.md)
 
-**Parent Topic:**[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+**Parent Topic:**[Configuring your Conversational Integration with Google chat](configure-va-google-chat.md)
 

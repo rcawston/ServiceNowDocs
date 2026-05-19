@@ -36,9 +36,9 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Parent Topic:**[Configure CAD objects using the Map Configuration tab](manage-cad-map-config.md)
 
-**Previous topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Previous topic:**[Configure CAD objects using the Map Configuration tab](manage-cad-map-config.md)
 
 **Next topic:**[Configure layers](wsd-edit-layers.md)
 

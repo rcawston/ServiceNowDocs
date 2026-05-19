@@ -103,7 +103,7 @@ View, create, and manage facility-based enterprise assets and linear assets.
 
     -   You've installed the Indoor Mapping for Assets application on your ServiceNow instance.
     -   You've configured the option to display the tab.
-For more information, see [Track assets using indoor maps in the Enterprise Asset Workspace](../task/track-enterprise-assets-indoor-maps.md).
+For more information, see [Track assets using indoor maps in the Enterprise Asset Workspace](track-enterprise-assets-indoor-maps.md).
 
 -   **Asset groups**
 -   **Linear assets**

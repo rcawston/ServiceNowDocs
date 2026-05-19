@@ -29,7 +29,7 @@ The deal registration table stores the details of a deal submitted by a partner,
 
 3.  On the form, fill in the fields.
 
-    To learn more about the fields on the form, see [Deal registration table fields](../reference/deal-registration-table-fields.md).
+    To learn more about the fields on the form, see [Deal registration table fields](deal-registration-table-fields.md).
 
 4.  Select **Submit**.
 
@@ -37,5 +37,5 @@ The deal registration table stores the details of a deal submitted by a partner,
 -   **[Configure Deal Registration Line table](configure-deal-registration-line-table.md)**  
 Configure the Deal registration line \(sn\_prm\_dr\_deal\_registration\_line\) table to manage product level details for a single deal registration.
 
-**Parent Topic:**[Data model for Deal Registration Management](../concept/data-model-for-deal-registration-management.md)
+**Parent Topic:**[Data model for Deal Registration Management](data-model-for-deal-registration-management.md)
 

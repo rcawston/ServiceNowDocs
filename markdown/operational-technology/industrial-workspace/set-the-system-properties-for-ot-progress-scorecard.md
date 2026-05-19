@@ -81,5 +81,5 @@ A color to represent the high threshold in the OT Progress Scorecard.
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](setting-up-the-ot-progress-scorecard.md)
 

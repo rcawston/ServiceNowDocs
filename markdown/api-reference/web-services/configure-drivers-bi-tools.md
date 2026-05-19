@@ -59,10 +59,10 @@ While Power BI Desktop and DB Visualizer are specifically documented examples in
 
 Each tool has its own connection configuration interface, but the underlying connection parameters \(instance URL, Service Account credentials, driver selection\) remain consistent across all platforms.
 
--   **[Connect Power BI Desktop to ODBC driver](../task/connect-power-bi-odbc.md)**  
+-   **[Connect Power BI Desktop to ODBC driver](connect-power-bi-odbc.md)**  
 Connect Power BI Desktop to your ServiceNow instance using the ODBC driver to access and analyze ServiceNow data. Create dashboards and reports that visualize your ServiceNow data.
--   **[Connect DB Visualizer to JDBC driver](../task/connect-dbvisualizer-jdbc.md)**  
+-   **[Connect DB Visualizer to JDBC driver](connect-dbvisualizer-jdbc.md)**  
 Connect the DB Visualizer database tool to your ServiceNow instance using the JDBC driver to query ServiceNow data. Access authorized tables and perform read-only queries on your ServiceNow data to create visualizations, and perform ad-hoc analysis using industry-standard SQL commands.
 
-**Parent Topic:**[Access your ServiceNow data using SQL API](../concept/accessing-your-servicenow-data-using-sql-api.md)
+**Parent Topic:**[Access your ServiceNow data using SQL API](accessing-your-servicenow-data-using-sql-api.md)
 

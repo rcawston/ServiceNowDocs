@@ -78,7 +78,7 @@ Name of the business capabilities for which you want to generate the hierarchy m
 **Related topics**  
 
 
-[Create a diagram for a business capability map](../../task/eaw-task/eaw-modeling-bc-map.md)
+[Create a diagram for a business capability map](eaw-modeling-bc-map.md)
 
 [Create a business hierarchy map form](eaw-modeling-create-ba-map-form.md)
 

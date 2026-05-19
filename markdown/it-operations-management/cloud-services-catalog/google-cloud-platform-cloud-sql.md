@@ -39,5 +39,5 @@ This is a fully functional sample catalog item that can be used to order a Cloud
 </table>-   **[Google Cloud Platform Cloud SQL Out Of Box permissions](gcp-cloud-sql-oob-permissions.md)**  
 Google Cloud Platform Cloud SQL Out Of Box catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

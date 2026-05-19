@@ -28,5 +28,5 @@ These rules apply to state flow work notes:
 
 [Use state flows](c_UseStateFlows.md)
 
-[Create a state flow](../task/t_CreateAStateFlow.md)
+[Create a state flow](t_CreateAStateFlow.md)
 

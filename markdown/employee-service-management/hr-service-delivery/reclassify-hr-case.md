@@ -39,7 +39,7 @@ The base system provides:
     -   Previous interaction records from the current case are copied and moved to the new case.
 -   Sys property:
 
-    The sn\_hr\_core.reclassify\_default\_transfer sys property determines the default method to use after upgrade. For more information, see [HR properties](../task/t_HRProperties.md).
+    The sn\_hr\_core.reclassify\_default\_transfer sys property determines the default method to use after upgrade. For more information, see [HR properties](t_HRProperties.md).
 
 
 **Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)

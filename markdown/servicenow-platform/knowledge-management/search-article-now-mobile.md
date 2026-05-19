@@ -34,7 +34,7 @@ You can specify user criteria for an article to control which users can read the
 5.  Tap an article in the search results to view the article content.
 
 
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](mobile-experience-for-km.md)
 
 **Related topics**  
 

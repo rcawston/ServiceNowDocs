@@ -92,5 +92,5 @@ To add a new action to the activity card, you need to create a new record in the
 
 No Playbook overrides for this example.
 
-**Parent Topic:**[Activity Definitions](../concept/build-activities.md)
+**Parent Topic:**[Activity Definitions](build-activities.md)
 

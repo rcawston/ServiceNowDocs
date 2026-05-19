@@ -25,11 +25,11 @@ The Explore and Manage dashboard contains tools to find, modify, and create dash
 
 Navigate to **Performance Analytics** &gt; **Admin Console**.
 
-The **Advanced Configuration** tile on the Admin Console shows a link to [Dashboard Properties](../../dashboards/reference/dashboard-properties.md).
+The **Advanced Configuration** tile on the Admin Console shows a link to [Dashboard Properties](dashboard-properties.md).
 
 ## Tree view
 
-The Admin Console tree view enables you to identify and view the relationships between Performance Analytics and Reporting entities in a hierarchy. With the tree view, you don't have to sift through multiple pages to determine how they relate to one another. For more information, see [Dependency Assessment](../concept/impact-analysis.md).
+The Admin Console tree view enables you to identify and view the relationships between Performance Analytics and Reporting entities in a hierarchy. With the tree view, you don't have to sift through multiple pages to determine how they relate to one another. For more information, see [Dependency Assessment](impact-analysis.md).
 
-For more information on Admin Console functionality, see [Performance Analytics Admin Console](../concept/pa-admin-console.md).
+For more information on Admin Console functionality, see [Performance Analytics Admin Console](pa-admin-console.md).
 

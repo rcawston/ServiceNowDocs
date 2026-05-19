@@ -21,5 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Intake forms|Activates required intake forms for submitting Workplace Services requests and capturing case details.|
 |Workplace services|Configures required Workplace Services that support request handling and fulfillment.|
 
-**Parent Topic:**[Install Workplace Services](../task/install-workplace-services.md)
+**Parent Topic:**[Install Workplace Services](install-workplace-services.md)
 

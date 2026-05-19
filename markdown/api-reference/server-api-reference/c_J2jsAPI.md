@@ -37,7 +37,7 @@ The specific conversion performed in the order they are checked.
 
 Conversions are performed recursively on the elements of arrays, lists, or collections. For example, given a Java ArrayList of ArrayLists of strings, this will return a JavaScript Array of Arrays of strings.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## j2js - j2js\(Object javaObject\)
 

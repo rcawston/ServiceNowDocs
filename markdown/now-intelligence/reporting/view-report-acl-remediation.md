@@ -91,7 +91,7 @@ For reports that are blocked by a table-level read ACL, the assessment displays 
 
 In the Affected Users list, the status of the assigned users changes to Processed. The next time you view this list, these assigned users no longer appear on it.
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](report-view-acl-dashboard.md)
 
 **Related topics**  
 
@@ -137,5 +137,5 @@ Elevate your role to security\_admin and add one or more roles to a blocking ACL
 ### Edit the report sharing options
 
 -   For reports created in the Classic environment, open the report in the Report Designer and change who the report is shared with. For more information, see [Share a Core UI report](t_ShareASetting.md).
--   For reports created in a configurable workspace open the report in the Visualization Designer and change who the report is shared with. For more information, see [Share a data visualization in the Visualization Designer](share-dv-ac.md#).
+-   For reports created in a configurable workspace open the report in the Visualization Designer and change who the report is shared with. For more information, see [Share a data visualization in the Visualization Designer](../share-dv-ac.md#).
 

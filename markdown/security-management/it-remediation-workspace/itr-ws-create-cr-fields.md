@@ -115,5 +115,5 @@ Pre-populated with preferred solution information if it is available. View the s
 </table>**Related topics**  
 
 
-[Create a change request in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-CRs.md)
+[Create a change request in the IT Remediation Workspace](vr-ws-CRs.md)
 

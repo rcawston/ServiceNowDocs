@@ -90,7 +90,7 @@ Appears for category renderers. A check box to display the category title bar on
     This new renderer is added to the list of available choices when applying a renderer.
 
 
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
 
 ## Select a renderer for a catalog
 

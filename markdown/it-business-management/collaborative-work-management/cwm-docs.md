@@ -167,15 +167,15 @@ Use the generative AI capabilities of Now Assist to create tasks from the contex
 
 ![Automatic task generation from CWM Docs using Now Assist for CWM.](../../now-assist-cwm/images/cwm-task-generation-now-assist.png)
 
--   **[Create a Doc in CWM](../task/create-a-doc-in-cwm.md)**  
+-   **[Create a Doc in CWM](create-a-doc-in-cwm.md)**  
 Store information related to your tasks, reference users and task records, and collaborate in real-time using Docs in Collaborative Work Management workspace.
--   **[Add comments to Docs in CWM](../task/add-comments-to-docs-in-cwm.md)**  
+-   **[Add comments to Docs in CWM](add-comments-to-docs-in-cwm.md)**  
 Streamline collaboration by turning your documents into living conversations. Highlight any passage, add a comment, and watch the discussion through threads, all without leaving the page or switching applications.
--   **[Manage pages and subpages in CWM Docs](../task/manage-pages-and-subpages-in-cwm-docs.md)**  
+-   **[Manage pages and subpages in CWM Docs](manage-pages-and-subpages-in-cwm-docs.md)**  
 Flexibly organize information for your teams and work items by creating, duplicating, and deleting pages and subpages within a Doc in Collaborative Work Management \(CWM\) workspace.
--   **[Duplicate a Doc in CWM](../task/duplicate-doc-in-cwm.md)**  
+-   **[Duplicate a Doc in CWM](duplicate-doc-in-cwm.md)**  
 Save time by duplicate an existing Doc to copy all its pages and content without having to copy the information manually in the Collaborative Work Management workspace.
--   **[Export a Doc in CWM to a PDF file](../task/export-a-doc-in-cwm-to-a-pdf-file.md)**  
+-   **[Export a Doc in CWM to a PDF file](export-a-doc-in-cwm-to-a-pdf-file.md)**  
 Use the Docs offline, and share with teams or stakeholders outside Collaborative Work Management \(CWM\) by exporting Docs as PDF.
 
 **Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)

@@ -30,7 +30,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
     -   When you cancel an approval request, the state changes to canceled on the **Approvers** tab.
     -   The cancelled notification also shows up on the Activity stream.
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

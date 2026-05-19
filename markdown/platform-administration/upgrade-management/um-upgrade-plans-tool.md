@@ -17,18 +17,18 @@ Accelerate your upgrades using the Upgrade Plan that automates the installation 
 
 Follow the following task to build and apply an upgrade plan to your upgrade.
 
--   **[Building your Upgrade Plan](../task/um-building-upgrade-plan.md)**  
+-   **[Building your Upgrade Plan](um-building-upgrade-plan.md)**  
 Build your upgrade plan to experience a seamless and an accelerated upgrade by packaging the applications in an upgrade plan.
--   **[Refreshing your Upgrade Plan](../task/um-refreshing-upgrade-plan.md)**  
+-   **[Refreshing your Upgrade Plan](um-refreshing-upgrade-plan.md)**  
 Refresh your upgrade plan to package all the recently installed plugins and applications into your upgrade plan.
--   **[Installing your Upgrade Plan](../task/um-installing-upgrade-plan.md)**  
+-   **[Installing your Upgrade Plan](um-installing-upgrade-plan.md)**  
 Install your upgrade plan in the consumer instance to implement it in your upgrades.
--   **[Prepare to upgrade with Upgrade Plan](../task/um-prepare-upgrade-plan.md)**  
+-   **[Prepare to upgrade with Upgrade Plan](um-prepare-upgrade-plan.md)**  
 Prepare your instance upgrade with Upgrade Plan by determining all the applications and plugins are ready to be implemented in the upgrade.
--   **[Apply Upgrade Plan on your upgrade](../task/um-apply-upgrade-plan.md)**  
+-   **[Apply Upgrade Plan on your upgrade](um-apply-upgrade-plan.md)**  
 Apply the selected upgrade plan to your instance upgrade.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

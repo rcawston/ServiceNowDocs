@@ -32,5 +32,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
     ![Resumbit work notes analysis](../image/worknotes-resubmit.png)
 
 
-**Parent Topic:**[Work notes analysis](../concept/worknotes-analysis.md)
+**Parent Topic:**[Work notes analysis](worknotes-analysis.md)
 

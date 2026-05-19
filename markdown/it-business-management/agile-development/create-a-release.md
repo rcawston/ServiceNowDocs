@@ -133,7 +133,7 @@ Updates about the work being performed on the release. This field is updated by 
 
 Start planning your release by associating products, stories, and the assignment groups to this release record. Use the related lists available in the release record for these actions.
 
-For information on the related lists of a release, see [Related lists for a Release in Agile Development 2.0](../reference/related-links-lists-for-release-agile-development-2.md)
+For information on the related lists of a release, see [Related lists for a Release in Agile Development 2.0](related-links-lists-for-release-agile-development-2.md)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

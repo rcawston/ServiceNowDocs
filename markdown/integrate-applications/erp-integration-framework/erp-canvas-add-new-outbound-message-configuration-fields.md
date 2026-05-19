@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The add new outbound message configuration record in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information that defines IDoc outbound messages.
 
-For process details, see [Create an IDoc outbound message configuration in Zero Copy Connector for ERP](../task/create-an-idoc-outbound-message-configuration.md).
+For process details, see [Create an IDoc outbound message configuration in Zero Copy Connector for ERP](create-an-idoc-outbound-message-configuration.md).
 
 <table id="table_xxc_pk4_bhc"><thead><tr><th>
 

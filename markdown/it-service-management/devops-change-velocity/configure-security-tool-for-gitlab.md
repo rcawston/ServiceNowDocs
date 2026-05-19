@@ -317,5 +317,5 @@ global
         ```
 
 
-**Parent Topic:**[DevOps user-created security tool integration](../concept/devops-security-tool-integration.md)
+**Parent Topic:**[DevOps user-created security tool integration](devops-security-tool-integration.md)
 

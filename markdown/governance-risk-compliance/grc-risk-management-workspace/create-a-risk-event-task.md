@@ -43,7 +43,7 @@ Role required: sn\_risk.manager
 
 ## What to do next
 
-Review the associated issues of a risk event or create a new issue during approval. For more information, see [Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md).
+Review the associated issues of a risk event or create a new issue during approval. For more information, see [Manually create GRC issues](../audit-management/t_CreateAnIssue.md).
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

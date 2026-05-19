@@ -109,7 +109,7 @@ An example name is, `secops_local_midserver`.
     **Note:** If your organization requires support for multiple servers, then repeat the steps.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md)
 

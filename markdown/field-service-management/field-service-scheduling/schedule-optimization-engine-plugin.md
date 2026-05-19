@@ -148,7 +148,7 @@ On-Demand Optimization Applicable Policies snc\_schedule\_optim\_attr\_m2m\_poli
 Defines the alternate policies eligible for an on-demand optimization run for a particular scheduling attribute configuration
 
 </td></tr></tbody>
-</table>For more information, see [Configuring Schedule Optimization](../concept/schedule-optimization-engine.md).
+</table>For more information, see [Configuring Schedule Optimization](schedule-optimization-engine.md).
 
 ## Procedure
 

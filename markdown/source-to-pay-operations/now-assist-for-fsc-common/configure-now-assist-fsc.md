@@ -37,7 +37,7 @@ The following table lists the Now Assist for Common Finance and Supply Chain fea
 
 1.  Install the Now Assist for FSC Common \(sn\_fsc\_genai\) plugin.
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Common Finance and Supply Chain features](now-assist-fsc-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
@@ -130,14 +130,14 @@ If you have the admin role, you can customize a Now Assist for Sourcing and Proc
 -   **[Customize supplier summarization for fulfillers skill](cust-na-fsc-supplier-skill.md)**  
 If you have the admin role, you can customize the supplier summarization for fulfillers skill so that fulfillers can use the generative AI skills in Source-to-Pay Workspace to view relevant supplier information.
 
-**Parent Topic:**[Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-common.md)
+**Parent Topic:**[Now Assist for Common Finance and Supply Chain features](now-assist-fsc-common.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md)
+[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../sourcing-and-procurement-operations/configure-now-assist-for-spo.md)
 
-[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/task/now-assist-slo-configuring.md)
+[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo-configuring.md)
 
-[Configure Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/task/configuring-now-assist-apo.md)
+[Configure Now Assist for Accounts Payable Operations \(APO\)](../accounts-payable-operations/configuring-now-assist-apo.md)
 

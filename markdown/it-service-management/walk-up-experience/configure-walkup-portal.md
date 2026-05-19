@@ -76,5 +76,5 @@ Order in which reasons for a visit should be prioritized at a walk-up location.
 </table>    You can modify the form content to meet your portal requirements. For more details, refer to [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md) .
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
 

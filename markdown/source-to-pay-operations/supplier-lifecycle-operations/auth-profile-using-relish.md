@@ -45,10 +45,10 @@ Role required: admin
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+**Parent Topic:**[Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
 
 **Related topics**  
 
 
-[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+[Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md)
 

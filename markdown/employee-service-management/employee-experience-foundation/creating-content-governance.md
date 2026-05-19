@@ -35,7 +35,7 @@ Role required: sn\_cd.content\_manager
 
 6.  Click **Create Content**.
 
-    Create and schedule the content in the [Portal content](../concept/ec-streamline-content.md).
+    Create and schedule the content in the [Portal content](ec-streamline-content.md).
 
     **Note:** When you are creating the publish plan, the **Inactive** option is selected by default. When the content is approved, the system activates the publish plan. Alternatively, you can set a publishing duration. However, if you select **Always active**, the content will publish without approval.
 

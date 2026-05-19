@@ -60,7 +60,7 @@ Use some of the following guidance and tips.
 **Related topics**  
 
 
-[Configure advanced portal navigation](../task/config-adv-portal-nav-as-menu.md)
+[Configure advanced portal navigation](config-adv-portal-nav-as-menu.md)
 
-[Configure simplified left navigation](../task/config-simplified-nav-as-menu.md)
+[Configure simplified left navigation](config-simplified-nav-as-menu.md)
 

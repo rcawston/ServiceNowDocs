@@ -88,9 +88,9 @@ Wildcards are not supported.
 </td></tr></tbody>
 </table>For more information about formatting guidelines and EDLs, see ["Formatting Guidelines for an External Dynamic List" in the PAN-OS 10.0 Administrator's Guide](https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-admin/policy/use-an-external-dynamic-list-in-policy/formatting-guidelines-for-an-external-dynamic-list.html) on the Palo Alto Networks website.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
-**Previous topic:**[Create the API account role for Palo Alto Networks Next-Generation Firewall](../task/paloalto-create-snrole.md)
+**Previous topic:**[Create the API account role for Palo Alto Networks Next-Generation Firewall](paloalto-create-snrole.md)
 
-**Next topic:**[Create an EDL for Palo Alto Networks Next-Generation Firewall](../task/palo_alto_config_edl.md)
+**Next topic:**[Create an EDL for Palo Alto Networks Next-Generation Firewall](palo_alto_config_edl.md)
 

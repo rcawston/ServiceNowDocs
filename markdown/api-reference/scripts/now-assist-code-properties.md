@@ -61,7 +61,7 @@ Enables using the Code with Now Assist dialog box to provide text prompts.
  -   Type: true \| false
 -   Default value: true
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Generate code with AI-powered code generation](../task/generate-scripts-from-text.md)
+-   Learn more: [Generate code with AI-powered code generation](generate-scripts-from-text.md)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Enables tracking which lines of code are AI-generated. In a script editor, the A
  -   Type: true \| false
 -   Default value: true
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Tracking AI-generated code](../concept/tracking-ai-generated-code.md#)
+-   Learn more: [Tracking AI-generated code](tracking-ai-generated-code.md#)
 
 </td></tr><tr><td>
 
@@ -152,5 +152,5 @@ Users with access to the system property table can modify system properties. How
 -   sn\_now\_assist\_code.enable\_auto\_complete
 -   sn\_now\_assist\_code.disable\_snowsk8s\_autocomplete
 
-**Parent Topic:**[Now Assist for Code reference](../concept/now-assist-code-reference.md)
+**Parent Topic:**[Now Assist for Code reference](now-assist-code-reference.md)
 

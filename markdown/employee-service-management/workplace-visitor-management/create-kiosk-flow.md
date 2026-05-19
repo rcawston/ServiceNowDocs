@@ -37,8 +37,8 @@ Role required: sn\_wsd\_visitor.admin
 
     For a description of the field values, see one of the following topics based on the selected module.
 
-    -   [Kiosk Check-in Flow Configuration form](../reference/kiosk-check-in-config-form.md)
-    -   [Kiosk Check-out Flow Configuration form](../reference/kiosk-check-out-config-form.md)
+    -   [Kiosk Check-in Flow Configuration form](kiosk-check-in-config-form.md)
+    -   [Kiosk Check-out Flow Configuration form](kiosk-check-out-config-form.md)
 
-**Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+**Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 

@@ -55,7 +55,7 @@ The following image illustrates a Risk form.![Risk rank and risk value in the Ri
 
 3.  On the risk value lookup form, fill in the fields.
 
-    For a description of the field names, see [Risk value lookup form](../reference/risk-value-lookup-form-ppw.md).
+    For a description of the field names, see [Risk value lookup form](risk-value-lookup-form-ppw.md).
 
 4.  Select **Submit**.
 

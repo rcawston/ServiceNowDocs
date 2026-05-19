@@ -71,5 +71,5 @@ Workflow Studio updates data pill references in the original flow to their new l
 
 Review the new subflow, and update the original flow to provide the input values needed for the subflow.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

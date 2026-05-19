@@ -79,5 +79,5 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 **Related topics**  
 
 
-[Cohesity storage system discovery](../reference/cohesity-storage-system-discovery.md)
+[Cohesity storage system discovery](cohesity-storage-system-discovery.md)
 

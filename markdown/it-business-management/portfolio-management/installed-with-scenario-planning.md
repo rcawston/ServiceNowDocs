@@ -60,5 +60,5 @@ Portfolio Planning Window\[sn\_pw\_scenario\_pm\_planning\_window\]
 Stores the planning window information of a portfolio for multi-year and resource capacity-based planning.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Scenario Planning for PPM](../task/install-scenario-planning.md)
+</table>**Parent Topic:**[Install Scenario Planning for PPM](install-scenario-planning.md)
 

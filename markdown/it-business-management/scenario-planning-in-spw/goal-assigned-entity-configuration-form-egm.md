@@ -21,5 +21,5 @@ Use the Goal Assigned Entity Configuration form to configure a table for an assi
 |Application|Name of the application scope.|
 |Assigned entity field|Reference field on the goal form.|
 
-**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

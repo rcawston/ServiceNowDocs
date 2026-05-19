@@ -145,5 +145,5 @@ Type a description of the page that displays for users when they access the page
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](c_ContentPages.md)
 

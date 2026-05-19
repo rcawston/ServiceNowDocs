@@ -37,5 +37,5 @@ Create a test with the details of an existing test.
 6.  Click **Update**.
 
 
-**Parent Topic:**[Tests](../concept/c_Tests.md)
+**Parent Topic:**[Tests](c_Tests.md)
 

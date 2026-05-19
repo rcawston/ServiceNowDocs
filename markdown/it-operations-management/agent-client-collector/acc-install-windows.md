@@ -233,5 +233,5 @@ Perform a manual upgrade of your existing Agent Client Collector version on a sy
 -   **[Uninstall the Agent Client Collector manually from a Windows machine](acc-uninstall.md)**  
 Uninstall the Agent Client Collector from a Windows machine manually instead of using the single-line procedure. Use the manual procedure if the command script is unavailable due to the specific agent not being connected to the instance.
 
-**Parent Topic:**[Agent Client Collector installation on a Windows machine](../concept/acc-windows-install-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Windows machine](acc-windows-install-concept.md)
 

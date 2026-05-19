@@ -155,5 +155,5 @@ Review a contract request or attachment and approve or reject it.
 -   **[Cancel an ad hoc approval for a contract document revision](cmpro-cancel-approval-request.md)**  
 Cancel an ad hoc approval for a contract document revision if it no longer requires any action.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

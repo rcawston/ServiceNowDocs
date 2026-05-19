@@ -82,14 +82,14 @@ Tagging users in ADRs ensures that relevant stakeholders are aware of and can co
             The user is added in the ADR page.
 
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](eaw-manage-adr.md)
 
 **Related topics**  
 
 
-[Generate a summary for Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/summarize-docs-genai-skill-ea.md)
+[Generate a summary for Architectural Decision Records \(ADRs\)](summarize-docs-genai-skill-ea.md)
 
-[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/elaborate-shorten-content-ew.md)
+[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](elaborate-shorten-content-ew.md)
 
 [Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
 

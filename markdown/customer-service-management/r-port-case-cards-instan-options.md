@@ -165,7 +165,7 @@ The text displayed in the widget when **Hide Empty Case Widget** isn’t selecte
 </table>**Related topics**  
 
 
-[Add and configure the Portal Case Cards widget](../task/portal-case-card-widget-inst-optns.md)
+[Add and configure the Portal Case Cards widget](customer-self-service-and-omnichannel-engagement/portal-case-card-widget-inst-optns.md)
 
-[Display the integer values of all case states](../task/integer-value-case-states.md)
+[Display the integer values of all case states](customer-self-service-and-omnichannel-engagement/integer-value-case-states.md)
 

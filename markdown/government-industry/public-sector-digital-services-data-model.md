@@ -29,7 +29,7 @@ This section outlines the License and Permit data model and the tables installed
 This section outlines the Social Benefits data model and the tables installed with the Social Benefits application.
 -   **[Public Sector Digital Services Grants Management Data Model](psds-data-model-gm.md)**  
 This section outlines the Grants Management data model and the tables installed with the Grants Management application.
--   **[Investigative Case Management Data Model](../reference/psds-data-model-icm.md)**  
+-   **[Investigative Case Management Data Model](psds-data-model-icm.md)**  
 This section outlines the Investigative Case Management data model and the tables installed with the Investigative Case Management application.
 -   **[Service Applicant Data Model](psds-data-model-service-applicant.md)**  
 This section outlines the Service Applicant data model and the Service Applicant Information and Service Applicant Program Management tables that are installed.

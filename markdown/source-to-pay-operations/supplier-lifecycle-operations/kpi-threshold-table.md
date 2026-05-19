@@ -35,5 +35,5 @@ The KPI Threshold \[sn\_kpi\_threshold\] table contains the following fields.
 **Related topics**  
 
 
-[Create KPI thresholds](../task/create-kpi-threshold.md)
+[Create KPI thresholds](create-kpi-threshold.md)
 

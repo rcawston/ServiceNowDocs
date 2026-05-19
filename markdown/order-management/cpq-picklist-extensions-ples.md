@@ -25,5 +25,5 @@ Picklist extensions provide three benefits:
 **Related topics**  
 
 
-[Configure picklist extensions](../task/cpq-picklist-extensions-tutorial.md)
+[Configure picklist extensions](cpq-picklist-extensions-tutorial.md)
 

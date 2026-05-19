@@ -21,14 +21,14 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
--   Ensure you have installed and configured the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\). For more information, see [Configure Predictive Intelligence for Legal Service Delivery](../concept/lsd-PI-configure-landing.md)
+-   Ensure you have installed and configured the Predictive Intelligence for Legal Service Delivery plugin \(sn\_lg\_pi\). For more information, see [Configure Predictive Intelligence for Legal Service Delivery](lsd-PI-configure-landing.md)
 -   Ensure the solution definitions are trained on your ServiceNow instance.
 -   When a legal request is submitted, the Predictive Intelligence feature predicts values for the subcategory and assignment group based on solution definitions.
 -   Under the following conditions, the values are predicted again.
 
     -   When the short description or description is modified, the subcategory is predicted again.
     -   When short description, description or subcategory is modified, the assignment group is predicted again.
-    The conditions under which the values are predicted again are defined in the business rules. For more information, see [Solution definitions and business rules for Predictive Intelligence for Legal Service Delivery](../concept/lsd-pi-solution-defn-br.md)
+    The conditions under which the values are predicted again are defined in the business rules. For more information, see [Solution definitions and business rules for Predictive Intelligence for Legal Service Delivery](lsd-pi-solution-defn-br.md)
 
 
 ## Procedure
@@ -42,7 +42,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
     -   Predictions for Subcategory and Assignment group are available.
     -   Fields with high confidence predictions are automatically updated with the predicted value.
     -   Fields with medium and low confidence predictions are not automatically updated but the values are shown as suggestions.
-    -   The Activity stream is also updated with the predicted values. You can customize the activity stream to display additional fields. For more information, see [Configure fields to be displayed in Activity stream](../concept/lsd-configure-activity-stream.md).
+    -   The Activity stream is also updated with the predicted values. You can customize the activity stream to display additional fields. For more information, see [Configure fields to be displayed in Activity stream](lsd-configure-activity-stream.md).
 
-**Parent Topic:**[Use Predictive Intelligence for Legal Service Delivery](../concept/lsd-PI-use-landing.md)
+**Parent Topic:**[Use Predictive Intelligence for Legal Service Delivery](lsd-PI-use-landing.md)
 

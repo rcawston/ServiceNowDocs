@@ -61,15 +61,15 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 -   **[Agentic Workflow in Now Assist for Core Business Suite](using-ai-agent-workflows-na-cbs.md)**  
 Agentic workflow in Now Assist for Core Business Suite supports the Core Business Suite setup process through a conversational interface.
--   **[Configure groups and roles](../task/config-groups.md)**  
+-   **[Configure groups and roles](config-groups.md)**  
 Configure groups and roles for Core Business Suite business units through the Now Assist conversational experience.
--   **[Create a notification](../task/create-notification-using-na.md)**  
+-   **[Create a notification](create-notification-using-na.md)**  
 Create notifications for Core Business Suite business units through the Now Assist conversational experience.
--   **[Edit a notification](../task/edit-existing-notification-using-na.md)**  
+-   **[Edit a notification](edit-existing-notification-using-na.md)**  
 Edit notifications for Core Business Suite business units through the Now Assist conversational experience.
--   **[Bulk upload](../task/manage-bulk-upload-using-na.md)**  
+-   **[Bulk upload](manage-bulk-upload-using-na.md)**  
 Upload records in bulk for Core Business Suite business units through the Now Assist conversational experience.
--   **[Bulk edit](../task/manage-bulk-edit-using-na.md)**  
+-   **[Bulk edit](manage-bulk-edit-using-na.md)**  
 Edit records in bulk for Core Business Suite business units through the Now Assist conversational experience.
 
 **Parent Topic:**[Configure Core Business Suite using Now Assist](configure-cbs-using-now-assist.md)

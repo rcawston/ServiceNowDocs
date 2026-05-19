@@ -21,10 +21,10 @@ Install the Tag Governance app to execute tag audits, view the Tag Data Governan
 
     Domain separation is supported in Tag Governance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
--   [Install Tag Governance](../task/install-tag-governance.md)
+-   [Install Tag Governance](install-tag-governance.md)
 
     Install the Tag Governance app to execute tag audits, view the Tag Data Governance dashboard, and perform tag remediation.
 
-    To view the list of plugins and applications installed with Tag Governance, including any dependencies, see [Plugins or applications installed with ITOM Visibility](../reference/plugin-app-itom-visibility.md).
+    To view the list of plugins and applications installed with Tag Governance, including any dependencies, see [Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md).
 
 

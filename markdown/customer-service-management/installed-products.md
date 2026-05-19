@@ -15,6 +15,6 @@ Create an installed product to track information on the instances that a sold pr
 
 |Task|Description|
 |----|-----------|
-|[Import installed products with guided setup](../task/import-csm-installed-products.md)|Import installed products to provide information on the sold products and how they are deployed or installed. Import installed products to create an association between sold products and install base items.|
-|[Create installed products](../task/create-deployed-sold-item.md)|Create an installed product to create an association between sold products and install base items.|
+|[Import installed products with guided setup](import-csm-installed-products.md)|Import installed products to provide information on the sold products and how they are deployed or installed. Import installed products to create an association between sold products and install base items.|
+|[Create installed products](create-deployed-sold-item.md)|Create an installed product to create an association between sold products and install base items.|
 

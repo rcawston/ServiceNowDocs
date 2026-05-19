@@ -47,7 +47,7 @@ New recommendations can only be created inside the rules.
 
     2.  In the **Document** field, select the Troubleshoot credit card transaction failure decision tree by clicking the lookup icon.
 
-        For more information about how to create this decision tree, see [Create Troubleshoot credit card transaction failure decision tree](../concept/preparation-for-creating-a-decision-tree.md).
+        For more information about how to create this decision tree, see [Create Troubleshoot credit card transaction failure decision tree](preparation-for-creating-a-decision-tree.md).
 
     3.  Select **OK**.
 

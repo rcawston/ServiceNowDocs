@@ -19,7 +19,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 ## About this task
 
-After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [Configuring Recommended Actions UIB component for context inputs](../concept/ra-csm-dynamic-context-inputs.md#section-config-ra-ci).
+After creating context inputs, you must configure the RA UIB component to pass the context input values. For more information, see [Configuring Recommended Actions UIB component for context inputs](ra-csm-dynamic-context-inputs.md#section-config-ra-ci).
 
 **Note:**
 
@@ -33,7 +33,7 @@ Creating context inputs is not mandatory. You can create context inputs for a co
 
 3.  On the Context inputs related list, select **New**.
 
-    **Note:** The Context inputs related list appears only when a parent context is not mapped to the context. For more information on the context input configuration limitations, see [Context Input configuration limitations](../concept/ra-csm-dynamic-context-inputs.md#section-ci-config-limits).
+    **Note:** The Context inputs related list appears only when a parent context is not mapped to the context. For more information on the context input configuration limitations, see [Context Input configuration limitations](ra-csm-dynamic-context-inputs.md#section-ci-config-limits).
 
 4.  In the form, fill in the fields.
 
@@ -67,7 +67,7 @@ Mandatory
 
 </td><td>
 
-When this check box is selected, you must set the values for these contextual inputs directly on [Recommended Actions component on the record page in the UI Builder](../concept/ra-csm-dynamic-context-inputs.md#section-config-ra-ci) for the recommendations to be generated.**Note:** If you select this check box and fail to set contextual inputs on Recommended Actions component in the UIB, the recommendations will not be generated.
+When this check box is selected, you must set the values for these contextual inputs directly on [Recommended Actions component on the record page in the UI Builder](ra-csm-dynamic-context-inputs.md#section-config-ra-ci) for the recommendations to be generated.**Note:** If you select this check box and fail to set contextual inputs on Recommended Actions component in the UIB, the recommendations will not be generated.
 
 </td></tr><tr><td>
 

@@ -113,7 +113,7 @@ Base input fields
 </table>**Related topics**  
 
 
-[Customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill for Case summarization](../task/now-assist-slo-cust-skill.md)
+[Customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill for Case summarization](now-assist-slo-cust-skill.md)
 
-[Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat](../task/cust-now-assist-slo-va.md)
+[Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat](cust-now-assist-slo-va.md)
 

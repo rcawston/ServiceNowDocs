@@ -71,7 +71,7 @@ Fetch type
 
 </td><td>
 
-Control when the data is loaded onto the screen. Select the On-demand option for optimum load time performance. For more information, see [Mobile fetch types](../reference/applet-fetch-types.md).
+Control when the data is loaded onto the screen. Select the On-demand option for optimum load time performance. For more information, see [Mobile fetch types](applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Custom filters
 
 </td><td>
 
-Option to determine the fields that users can filter by. Use this option to help users find the events that they need.Users can bookmark the selected filters for future reference, by selecting the bookmark icon. For more information, see [Mobile list screen filters](../concept/mobile-list-filters.md).
+Option to determine the fields that users can filter by. Use this option to help users find the events that they need.Users can bookmark the selected filters for future reference, by selecting the bookmark icon. For more information, see [Mobile list screen filters](mobile-list-filters.md).
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Input form screen
 
 </td><td>
 
-Option for a calendar screen to display content from a record. For example, the user selects a contact from a menu in a preconfigured input form screen. After tapping this option, the calendar screen opens with filtered data for the selected contact.For more information, see [Input form screen](../concept/parameter-input-screen.md).
+Option for a calendar screen to display content from a record. For example, the user selects a contact from a menu in a preconfigured input form screen. After tapping this option, the calendar screen opens with filtered data for the selected contact.For more information, see [Input form screen](parameter-input-screen.md).
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Determine which user roles can access this screen. If you've selected no roles, 
 </td></tr></tbody>
 </table>6.  In the Icon section, either select an existing icon or create an icon.
 
-    This icon represents the calendar screen in a launcher screen. For more information about creating icons, see [Mobile icons](../reference/sg-mobile-icon.md).
+    This icon represents the calendar screen in a launcher screen. For more information about creating icons, see [Mobile icons](sg-mobile-icon.md).
 
 7.  In the Quick action functions instance area, either select an existing function instance or create a new one.
 
@@ -287,7 +287,7 @@ On tap function instance
 
 Determine what actions appear when a user taps on a list item.
 
- Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](../concept/mobile-nav-functions.md).
+ Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](mobile-nav-functions.md).
 
  **Note:** This option only appears when **Use a function instance** is selected for **On tap**.
 
@@ -351,7 +351,7 @@ Determines the actions performed or appears when a user initiates a swipe gestur
 
         The Mobile Card Builder tool displays in a new tab.
 
-    2.  Make any required changes to your incident list card. For more information about working with Mobile Card Builder, see [Mobile Card Builder](../concept/mobile-card-builder.md).
+    2.  Make any required changes to your incident list card. For more information about working with Mobile Card Builder, see [Mobile Card Builder](mobile-card-builder.md).
     3.  Select **Save**.
 25. Select **Save**.
 

@@ -28,11 +28,11 @@ Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your c
 
 </td></tr><tr><td>
 
-[Generate![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Learn how to create a catalog item using Now Assist.](../task/create-catalog-item-using-now-assist.md)
+[Generate![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Learn how to create a catalog item using Now Assist.](create-catalog-item-using-now-assist.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about form fields, roles, and more.](../reference/catalog-item-generation-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about form fields, roles, and more.](catalog-item-generation-reference.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For more information, see the [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) article in the Now Support Knowledge Base. Please check for availability updates in future releases.
@@ -58,13 +58,13 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 -   **[Exploring Now Assist in Catalog Builder](explore-now-assist-for-catalog-generate.md)**  
 Learn how the Now Assist in Catalog Builder application helps you to create catalog items by simply describing them. Now Assist generates catalog items with more detailed descriptions and question labels.
--   **[Install Now Assist in Catalog Builder](../task/install-now-assist-catalog-generation.md)**  
+-   **[Install Now Assist in Catalog Builder](install-now-assist-catalog-generation.md)**  
 Install the Now Assist for Creator application from the ServiceNow® Store to get Now Assist in Catalog Builder.
 -   **[Configuring Now Assist in Catalog Builder](configuring-catalog-item-generation.md)**  
 Install and configure Now Assist in Catalog Builder.
--   **[Using Now Assist conversation to create and edit catalog items](../task/use-now-assist-conversation-to-create-and-edit-catalog-items.md)**  
+-   **[Using Now Assist conversation to create and edit catalog items](use-now-assist-conversation-to-create-and-edit-catalog-items.md)**  
 Now Assist provides a conversational interface that enables you to create catalog items, making these items available in the Service Catalog for users to request.
--   **[Catalog item generation reference](../reference/catalog-item-generation-reference.md)**  
+-   **[Catalog item generation reference](catalog-item-generation-reference.md)**  
 Reference topics provide additional information about configuration properties, roles, and more.
 
 **Parent Topic:**[Service Catalog](service-catalog.md)

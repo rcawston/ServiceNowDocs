@@ -17,5 +17,5 @@ To show the display value of the record as the link text instead of the word LIN
 
 For example, if the URL displays an incident record, the link text is the incident number, which is the display value for incidents. If the URL displays a user record, then the link text is the user name.
 
-**Parent Topic:**[Links to records in email notifications](../../../administer/notification/concept/c_EnablingLinksToServiceNowRecords.md)
+**Parent Topic:**[Links to records in email notifications](c_EnablingLinksToServiceNowRecords.md)
 

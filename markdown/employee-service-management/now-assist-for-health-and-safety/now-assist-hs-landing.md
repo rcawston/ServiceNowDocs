@@ -19,15 +19,15 @@ Use the ServiceNow® Now Assist for Health and Safety application to summarize a
 
 <table id="table_sdb_fgb_1dc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Health and Safety](../concept/now-assist-hs-exploring.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Health and Safety](now-assist-hs-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Health and Safety application to get started](../concept/now-assist-hs-configuring.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Health and Safety application to get started](now-assist-hs-configuring.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Health and Safety](../concept/now-assist-hs-using.md)
+[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Health and Safety](now-assist-hs-using.md)
 
 </td></tr></tbody>
 </table>**Important:**

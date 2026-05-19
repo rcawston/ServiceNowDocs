@@ -23,7 +23,7 @@ Role required: admin
 
 You can customize the behavior of a read-only field, including whether a client script or server-side API can modify the read-only field value. You control the read-only behavior by updating the **Read only option** field in a dictionary record.
 
-For details on read only options, see [Configuring read-only security options](../concept/read-only-option.md).
+For details on read only options, see [Configuring read-only security options](read-only-option.md).
 
 ## Procedure
 
@@ -71,5 +71,5 @@ Prevents any changes to the read-only field from both client scripts and server-
 </table>3.  Select **Update**.
 
 
-**Parent Topic:**[Configuring read-only security options](../concept/read-only-option.md)
+**Parent Topic:**[Configuring read-only security options](read-only-option.md)
 

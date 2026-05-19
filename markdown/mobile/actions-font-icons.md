@@ -1537,5 +1537,5 @@ Australia
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile icon reference](../concept/mobile-icon-reference.md)
+</table>**Parent Topic:**[Mobile icon reference](mobile-icon-reference.md)
 

@@ -64,5 +64,5 @@ Select the link in the notification email sent when an obligation task is assign
 
 The obligation task is sent for approval and the state of the task changes to Awaiting approval.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](cncore-obligation-management.md)
 

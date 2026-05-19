@@ -198,5 +198,5 @@ You have a custom action that looks up a User record and converts it into a cont
 
 Customize the action to use your own logic.
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](complex-data.md)
 

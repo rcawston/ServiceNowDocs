@@ -21,7 +21,7 @@ The following table lists the Guided Setup tasks and their purposes for the OT A
 |----|-------|
 |1. Set the system properties for the OT Action-Oriented Landing Page.|Changes the amount of cards shown under **Important Actions** with the sn\_mfg\_common.landing\_page\_important\_actions\_limit system property.|
 
--   **[Set the system properties for the Operational Technology Action-Oriented Landing Page](../../mftg-manufacturing-oper-tech-mgr/task/set-the-system-properties-ot-action-oriented-landing-page.md)**  
+-   **[Set the system properties for the Operational Technology Action-Oriented Landing Page](set-the-system-properties-ot-action-oriented-landing-page.md)**  
 Set the system properties for the Operational Technology \(OT\) Action-Oriented Landing Page so that you can enable the properties as needed.
 
 **Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)

@@ -63,12 +63,12 @@ The generated scrum tasks are added to the story and appear in the **Scrum Tasks
 
 For a quicker path that skips the review step, hover your cursor over the story's short description in the List, Gantt, or Sprint planning views to reveal the Now Assist scrum tasks icon \(![](../images/cwm-na-icon-scrum-tasks-inline.png)\) and select it. The scrum tasks are generated and added to the story immediately without a review step.
 
-To add scrum tasks manually instead, see [Add scrum tasks to a story in CWM](../../collab-work-mgmt/task/add-scrum-tasks-to-a-story-cwm.md).
+To add scrum tasks manually instead, see [Add scrum tasks to a story in CWM](../collaborative-work-management/add-scrum-tasks-to-a-story-cwm.md).
 
 **Related topics**  
 
 
-[Scrum tasks for stories in CWM](../../collab-work-mgmt/concept/managing-scrum-tasks-for-stories-cwm.md)
+[Scrum tasks for stories in CWM](../collaborative-work-management/managing-scrum-tasks-for-stories-cwm.md)
 
-[Add scrum tasks to a story in CWM](../../collab-work-mgmt/task/add-scrum-tasks-to-a-story-cwm.md)
+[Add scrum tasks to a story in CWM](../collaborative-work-management/add-scrum-tasks-to-a-story-cwm.md)
 

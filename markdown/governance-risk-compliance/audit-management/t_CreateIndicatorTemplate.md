@@ -264,7 +264,7 @@ Due date duration in days between the creation and due date of the indicator tas
 
 This field appears only when **Manual** is selected from the **Type** field.
 
-For more information, see [Performance enhancements for Indicator nightly job](../../grc-workspace-compliance/concept/performance-enhancements-indicator-jobs.md).
+For more information, see [Performance enhancements for Indicator nightly job](../grc-compliance-management-workspace/performance-enhancements-indicator-jobs.md).
 
 </td></tr></tbody>
 </table>4.  When you have completed these entries, you can also view information on the following related lists:
@@ -276,7 +276,7 @@ For more information, see [Performance enhancements for Indicator nightly job](.
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Manage GRC key risk and control indicators](../reference/continuous-monitoring.md)
+**Parent Topic:**[Manage GRC key risk and control indicators](continuous-monitoring.md)
 
-**Parent Topic:**[Using Risk Management](../../grc-risk/concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](../grc-risk-management-workspace/using-risk-mgmt.md)
 

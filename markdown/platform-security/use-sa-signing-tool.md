@@ -67,5 +67,5 @@ To perform these steps, you must have the following:
     For more information, see [Legacy - Apply remote changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/t_ApplyRemoteChanges.md).
 
 
-**Parent Topic:**[Standalone signing tool](../concept/sa-code-signing-tool.md)
+**Parent Topic:**[Standalone signing tool](sa-code-signing-tool.md)
 

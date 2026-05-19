@@ -15,8 +15,8 @@ Reference topics provide information about roles installed with the Impact Insta
 
 -   **[Roles installed with Instance Observer](impact-observer-roles.md)**  
 Several types of components are installed with activation of the Impact plugin, including tables, user roles, and scheduled jobs that are used in Instance Observer.
--   **[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)**  
+-   **[Overview of Instance Observer metrics](instance-observer-ovr-metric.md)**  
 Instance Observer \(IO\) metrics are real-time and historical telemetry data points used to monitor, triage, and troubleshoot ServiceNow instance performance.
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](../concept/io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](io-overview.md)
 

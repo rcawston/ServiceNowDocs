@@ -51,20 +51,20 @@ Your Git credentials are associated with your user on the instance and used for 
 
 ## What to do next
 
-After initializing or cloning a repository, you can begin using source control. For more information, see [Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md).
+After initializing or cloning a repository, you can begin using source control. For more information, see [Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md).
 
 To manage existing Git credentials, use the `Git: Manage Git credentials` command from the command palette.
 
-**Parent Topic:**[Integrating source control with the ServiceNow IDE](../concept/integrating-source-control-servicenow-ide.md)
+**Parent Topic:**[Integrating source control with the ServiceNow IDE](integrating-source-control-servicenow-ide.md)
 
 **Related topics**  
 
 
-[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](../concept/connect-git-provider-oauth-2.md#)
+[Connect to a Git provider using OAuth 2.0 with the ServiceNow IDE](connect-git-provider-oauth-2.md#)
 
 [Configure a MID Server to use source control with the ServiceNow IDE](configure-mid-server-source-control.md)
 
 [Initialize a Git repository with the ServiceNow IDE](initialize-git-repository-servicenow-ide.md)
 
-[Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md)
+[Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md)
 

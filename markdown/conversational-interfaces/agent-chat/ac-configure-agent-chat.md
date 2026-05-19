@@ -23,9 +23,9 @@ Configure the following before starting this task:
 -   Install the Agent Chat plugin \(com.glide.interaction.awa\).
 -   If you want to use the Profanity Filter, activate the Profanity Filter plugin \(sn\_va\_profanity\).
 -   In Advanced Work Assignment:
-    -   Configure [service channels](../../advanced-work-assignment/concept/awa-service-channels.md).
-    -   Define [work item queues](../../advanced-work-assignment/reference/awa-queues.md).
-    -   Set up [work assignments](../../advanced-work-assignment/concept/awa-assignment.md).
+    -   Configure [service channels](../advanced-work-assignment/awa-service-channels.md).
+    -   Define [work item queues](../advanced-work-assignment/awa-queues.md).
+    -   Set up [work assignments](../advanced-work-assignment/awa-assignment.md).
 -   [Update your Live Feed profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_UpdateYourProfile.md) to display agent names and avatars in the chat client.
 -   [Configure Agent Chat in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-va-in-sp.md)
 
@@ -223,11 +223,11 @@ Quick action configurations
 
 Select **View all** to display the Quick Action Toolbar Controls screen.
 
- For details on configuring the toolbar controls, see [Setting up quick action toolbar controls](../concept/ci-quick-actions-overview.md#).
+ For details on configuring the toolbar controls, see [Setting up quick action toolbar controls](ci-quick-actions-overview.md#).
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

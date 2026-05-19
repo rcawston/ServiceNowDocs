@@ -38,7 +38,7 @@ Alert variable refers to a variable or parameter associated with alerts of RPA H
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Alert rule and variable in RPA Hub](../concept/alert-rule-rpa-hub.md)
+**Parent Topic:**[Alert rule and variable in RPA Hub](alert-rule-rpa-hub.md)
 
 ## Alert variable form in RPA Hub
 

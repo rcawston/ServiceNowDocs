@@ -17,7 +17,7 @@ You can update and maintain skills and job architecture data from a single place
 
 ## Workspace users
 
-Access to the Skills Workspace requires the sn\_skills\_int\_ws.workspace\_user role or any role that contains it. For more information on roles in Skills Foundation, see [Components installed with Skills Foundation](../reference/skills-intelligence-users-and-roles-1.md).
+Access to the Skills Workspace requires the sn\_skills\_int\_ws.workspace\_user role or any role that contains it. For more information on roles in Skills Foundation, see [Components installed with Skills Foundation](../employee-service-management/skills-intelligence-users-and-roles-1.md).
 
 ## Home page
 

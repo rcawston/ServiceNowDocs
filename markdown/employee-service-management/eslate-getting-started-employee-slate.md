@@ -32,21 +32,21 @@ Employee Slate supports two deployment architectures — one with Moveworks and 
 
         **Note:** Employee Slate Advanced is an add-on application and requires either Employee Slate for Moveworks or Employee Slate for Now Assist to be separately downloaded.
 
-2.  [Configure branding and theme](../task/eslate-config-admin-console.md).
+2.  [Configure branding and theme](eslate-config-admin-console.md).
 
     Set the portal name, URL suffix, logos, favicon, and palette colors. Configure from the **Appearance** module of the Product Configuration console or the admin console.
 
 3.  [Search sources for Employee Slate](eslate-add-search-sources.md).
 
-4.  Configure the home page and [Configure the default canvas dashboard](../task/eslate-configure-canvas.md).
+4.  Configure the home page and [Configure the default canvas dashboard](eslate-configure-canvas.md).
 
-5.  Connect one of the following conversational assistants and configure chat branding by using [Configure branding and theme](../task/eslate-config-admin-console.md).
+5.  Connect one of the following conversational assistants and configure chat branding by using [Configure branding and theme](eslate-config-admin-console.md).
 
 6.  [Create an Employee Slate announcement](../task/eslate-create-announcement.md).
 
     Add a welcome announcement for employees to see relevant communications.
 
-7.  [Create a widget with the AI-powered Widget Builder](../task/eslate-create-widget.md).
+7.  [Create a widget with the AI-powered Widget Builder](eslate-create-widget.md).
 
 8.  Roll out to employees and monitor adoption.
 

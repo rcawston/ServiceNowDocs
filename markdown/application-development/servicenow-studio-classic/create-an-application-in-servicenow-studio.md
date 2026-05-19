@@ -23,7 +23,7 @@ Role required: adminor Guided Application Creator roles
 
 ## About this task
 
-You can create apps using the following procedure, or you can use Build Agent to get a head start creating your app. For more information about using a conversational interface to create an app, see [Build Agent in ServiceNow Studio](../concept/build-agent-in-servicenow-studio.md).
+You can create apps using the following procedure, or you can use Build Agent to get a head start creating your app. For more information about using a conversational interface to create an app, see [Build Agent in ServiceNow Studio](build-agent-in-servicenow-studio.md).
 
 ## Procedure
 
@@ -65,7 +65,7 @@ Create the application on your own, adding content and files of your choosing.Se
 
 Begin a conversation with Build Agent to create your application.Select **With Now Assist** &gt; **Start a chat**. The Build Agent chat panel opens, where you can select **Create an application** or begin describing what you want to build.
 
-For more information, see [Create an application using Build Agent](../../build-agent/tasks/create-a-new-application-using-build-agent.md).
+For more information, see [Create an application using Build Agent](../create-a-new-application-using-build-agent.md).
 
 </td></tr><tr><td id="d296548e280">
 
@@ -75,7 +75,7 @@ For more information, see [Create an application using Build Agent](../../build-
 
 Use Creator Studio to create a simple request and fulfill application.Select **With Creator Studio** &gt; **Continue in Creator Studio** to begin creating your application.
 
-For more information, see [Building apps with Creator Studio](../../creator-studio/concept/building-apps-with-creator-studio.md).
+For more information, see [Building apps with Creator Studio](../creator-studio/building-apps-with-creator-studio.md).
 
 </td></tr></tbody>
 </table>5.  Enter the basic information for the app on the form.
@@ -90,7 +90,7 @@ For more information, see [Building apps with Creator Studio](../../creator-stud
 
         -   **Scoped** means that the app doesn't interact with any other data on the instance. By default, the app can access and change its own tables and business logic, but other apps can't unless you give them explicit permission.
         -   **Global** means that all tables and business logic on the instance can interact with the app.
-        For more information about working with scopes, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+        For more information about working with scopes, see [Application scope](../c_ApplicationScope.md).
 
     4.  Select **Continue**.
 
@@ -119,7 +119,7 @@ For more information, see [Building apps with Creator Studio](../../creator-stud
 
 Add content such as application files, dependencies, and cross-scope privileges to your new application.
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 
 ## Add a file to your app in ServiceNow Studio
 
@@ -143,7 +143,7 @@ This procedure details how to add files to an app right after creating it. For m
 
     **Note:** The types of available files you see depends on your permissions. If you're expecting to see a certain file type but don't see it, contact your administrator.
 
-    For more information about each available file type and category, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+    For more information about each available file type and category, see [ServiceNow Studio Navigator panel taxonomy](servicenow-studio-file-navigator-taxonomy.md).
 
 3.  Select **Continue**.
 

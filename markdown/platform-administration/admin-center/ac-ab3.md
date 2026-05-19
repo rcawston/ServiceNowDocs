@@ -141,5 +141,5 @@ Leverage ML for data-driven evaluation of historical change data to predict chan
 [Request Change Management - Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-risk-assessment.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

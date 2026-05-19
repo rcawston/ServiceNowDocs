@@ -15,7 +15,7 @@ The named contact administrator will establish a secure connection to the Impact
 
 ## Before you begin
 
--   Confirm [Initiate the connection to the Impact Delivery Instance with manual registration](../concept/initiate-the-connection-impact-delivery-instance.md) is completed.
+-   Confirm [Initiate the connection to the Impact Delivery Instance with manual registration](initiate-the-connection-impact-delivery-instance.md) is completed.
 -   A registration email with a direct link to the IDI provider connection form is sent to the named contact administrator in order during the initial connection to IDI.
 
 Role required: Any Impact Store App role, IDI admin
@@ -127,9 +127,9 @@ Inbound status \(read-only\)
 
 [Verify Impact data connection](verify-impact-data-connection.md).
 
-**Parent Topic:**[Use manual registration to configure the Impact Store Application](../concept/use_manual_registration_configure_impact_store_application.md)
+**Parent Topic:**[Use manual registration to configure the Impact Store Application](use_manual_registration_configure_impact_store_application.md)
 
-**Previous topic:**[Initiate the connection to the Impact Delivery Instance with manual registration](../concept/initiate-the-connection-impact-delivery-instance.md)
+**Previous topic:**[Initiate the connection to the Impact Delivery Instance with manual registration](initiate-the-connection-impact-delivery-instance.md)
 
-**Next topic:**[Domain Separation in Impact](../concept/impact-domain-separation.md)
+**Next topic:**[Domain Separation in Impact](impact-domain-separation.md)
 

@@ -19,12 +19,12 @@ Turn on the Now Assist panel, review multi-language support, data sharing and pr
 
 -   **[Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md)**  
 Turn on multilingual service for user-entered text with native translation or Dynamic Translation in Now Assist applications.
--   **[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)**  
+-   **[Data sharing and processes](now-assist-data-sharing-and-processes.md)**  
 Data sharing and processes topic description.
 -   **[Manage AI models](manage-large-language-models.md)**  
 Access and select the LLM \(large language model\) provider used for various Now Assist skills. The selection impacts all the skills within the capability.
 -   **[Review Now Assist account](review-now-assist-account-information.md)**  
 Review your Now Assist license details on the Account page of the Now Assist Admin console to make sure that you're up to date on what's available to you.
 
-**Parent Topic:**[Exploring Now Assist Admin](../../now-assist-platform/concept/exploring-now-assist-platform.md)
+**Parent Topic:**[Exploring Now Assist Admin](exploring-now-assist-platform.md)
 

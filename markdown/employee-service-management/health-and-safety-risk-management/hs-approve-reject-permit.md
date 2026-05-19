@@ -40,5 +40,5 @@ After assessing the risks associated with the job and checking whether safety pa
 
 The permit is approved or rejected in the system and the permit requestor can view the response from the Employee Center under **My Tasks**.
 
-**Parent Topic:**[Permit-to-work system](../concept/hs-permit-to-work.md)
+**Parent Topic:**[Permit-to-work system](hs-permit-to-work.md)
 

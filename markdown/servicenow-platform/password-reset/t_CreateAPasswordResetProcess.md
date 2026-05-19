@@ -28,7 +28,7 @@ Role required: password\_reset\_admin
     -   The Self Service Password Reset plugin depends on the Password Reset Basic plugin. Self service is intended for password reset only on the local ServiceNow instance and cannot change an AD password. In order to change AD password, you must install the **Microsoft AD spoke for Password Reset**.
     -   The Password Reset Windows App \(com.glideapp.password\_reset\_desktop\) plugin supports changing the AD password.
 3.  Define the verifications that the process can use.
-4.  Configure Password Reset to auto-enroll users or to enable users to enroll for the program. See [Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md) and [Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md).
+4.  Configure Password Reset to auto-enroll users or to enable users to enroll for the program. See [Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md) and [Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md).
 
 Configuring password reset for external users: External users \(users with the snc\_external role\) cannot manually enroll their devices in the password reset system. Security restrictions prevent external users from writing data to the password reset enrollment tables, and the enrollment form is not accessible to external users by default.
 
@@ -70,15 +70,15 @@ A Password Reset process consists of the following elements:
     |**Selected**|All users use the process that you are defining. This setting is useful only if all users have access to the authentication methods that are defined in this process.|
     |**Not selected**|Only the users in the groups that you specify use the process. You specify the groups in the **Groups** related list.|
 
-    For more information about the fields on the Password Reset Process form, see [Password Reset Process form](../reference/configure-password-reset-form.md).
+    For more information about the fields on the Password Reset Process form, see [Password Reset Process form](configure-password-reset-form.md).
 
 6.  For Password Reset, configure settings on the **Password Reset Details** tab.
 
-    For information about the settings and fields on the **Password Reset Details** tab, see [Description of the fields on the **Password Reset Details** tab](../reference/configure-password-reset-form.md#table_qmr_mpk_sr).
+    For information about the settings and fields on the **Password Reset Details** tab, see [Description of the fields on the **Password Reset Details** tab](configure-password-reset-form.md#table_qmr_mpk_sr).
 
 7.  For Password Reset, configure settings of interest on the **Advanced** tab.
 
-    For information about the fields on the **Advanced** tab, see [Description of the fields on the **Advanced** tab](../reference/configure-password-reset-form.md#table_alq_tgk_xvb).
+    For information about the fields on the **Advanced** tab, see [Description of the fields on the **Advanced** tab](configure-password-reset-form.md#table_alq_tgk_xvb).
 
 8.  For Password Reset, fill in any fields of interest on the **Enrollment Reminder** tab.
 
@@ -101,17 +101,17 @@ A Password Reset process consists of the following elements:
 14. Navigate to **Password Reset** &gt; **Properties** to set the properties that configure the Password Reset experience for end users.
 
 
--   **[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)**  
+-   **[Calculating the security score for password reset process](pwd-reset-process-recommend.md)**  
 The security score of the password reset process is a critical metric for the password reset administrators to assess the strength and configuration of the password reset process.
 -   **[Configure password expiration reminder](password-reset-expiration-setup.md)**  
 You can configure the password reset expiration reminder feature to send notifications to change or reset a user’s password whenever it is going to expire.
--   **[Credential stores for Password Reset](../concept/c_CredentialStores.md)**  
+-   **[Credential stores for Password Reset](c_CredentialStores.md)**  
 Credential stores hold user information such as user names and passwords that can be used as login credentials. Examples include the User table \[sys\_user\] or an Active Directory server.
--   **[Password Reset verifications](../concept/c_PWRVerifications.md)**  
+-   **[Password Reset verifications](c_PWRVerifications.md)**  
 Each verification specifies the method and process for verifying the identity of the user that is requesting a password reset.
--   **[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)**  
+-   **[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)**  
 To simplify management, many organizations auto-enroll users in the Password Reset program. Every base-system verification type enables you to specify automatic enrollment for your process.
--   **[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)**  
+-   **[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)**  
 To enable users to enroll for the Password Reset program, you specify a UI macro that takes the user through the enrollment process and a script that processes the enrollment data that the user entered. The base system includes a functioning macro and script.
 -   **[Configure Password Reset properties](t_SetPwdResetProps.md)**  
 You can specify properties that configure the Password Reset experience for end users.
@@ -119,12 +119,12 @@ You can specify properties that configure the Password Reset experience for end 
  You can automatically send messages that remind users to enrolled in the Password Reset process. You specify the text of the message and can configure the messages to repeat at intervals.
 -   **[Configure the required strength for passwords](config-pwd-strength-rqmts.md)**  
 The password that a user defines must meet certain requirements — for example, it must contain at least 12 characters, it must include a numeral, and so on. You can configure the requirements as needed for your organization.
--   **[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)**  
+-   **[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)**  
 The system provides inactive script actions that enable you to specify the number of failed login attempts before a user account is locked and to reset the count after a successful login.
 -   **[Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)**  
 To use the Google reCAPTCHA service, instances that are running on a domain other than `service-now.com` require an API key pair from Google.
 
-**Parent Topic:**[Configuring Password Reset](../concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](password-reset-admin-guide.md)
 
 **Related topics**  
 

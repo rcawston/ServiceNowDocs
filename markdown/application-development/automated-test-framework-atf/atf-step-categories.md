@@ -18,9 +18,9 @@ On the Test Step Config Category form, you specify a retention policy for a set 
 |Field / Element|Description|
 |---------------|-----------|
 |Name|The name for this step config category.|
-|Step Environment|The [step environment](../concept/step-environments-module.md) for this step config category.|
-|Display name|The category name that appears in the middle column of the Add Test Step dialog when this category is selected. See an example in [Step Config Category Display name.](../task/atf-create-custom-category.md#qlp_fw2_zw)|
+|Step Environment|The [step environment](step-environments-module.md) for this step config category.|
+|Display name|The category name that appears in the middle column of the Add Test Step dialog when this category is selected. See an example in [Step Config Category Display name.](atf-create-custom-category.md#qlp_fw2_zw)|
 |Application scope|The application scope to which this policy applies.|
 
-**Parent Topic:**[Step configuration categories](../concept/step-configuration-categories-module.md)
+**Parent Topic:**[Step configuration categories](step-configuration-categories-module.md)
 

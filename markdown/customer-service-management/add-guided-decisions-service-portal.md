@@ -15,7 +15,7 @@ Create or edit a page to add decision trees to Service Portal so internal users 
 
 ## Before you begin
 
-The decision tree that you want to add to the Service Portal page must exist. For more information, see [Configuring decision trees in Decision Tree Builder](../concept/decision-trees-in-gdb.md).
+The decision tree that you want to add to the Service Portal page must exist. For more information, see [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md).
 
 Role required: sp\_admin or admin
 
@@ -81,7 +81,7 @@ If you want the decision tree theme to match the Service Portal, you can apply a
 **Related topics**  
 
 
-[Configuring Guided Decisions](../concept/setting-up-guided-decisions.md)
+[Configuring Guided Decisions](setting-up-guided-decisions.md)
 
-[Configuring guidances and decision trees](../concept/configuring-guided-decisions.md)
+[Configuring guidances and decision trees](configuring-guided-decisions.md)
 

@@ -87,5 +87,5 @@ Provide a brief summary about the issue to be discussed in the sidebar discussio
     **Note:** If the caller doesn't read the messages within 24 hours, an email is sent as a reminder to view the messages and resume the discussion.
 
 
-**Parent Topic:**[Collaboration in Service Operations Workspace](../concept/collaboration-sow.md)
+**Parent Topic:**[Collaboration in Service Operations Workspace](collaboration-sow.md)
 

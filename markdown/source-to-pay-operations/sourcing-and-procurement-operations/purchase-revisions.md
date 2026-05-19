@@ -93,5 +93,5 @@ If a purchase requisition or purchase order is revised, and the re-approval is r
 **Related topics**  
 
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](purchase-revision-flows.md)
 

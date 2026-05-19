@@ -54,5 +54,5 @@ You can restore a subflow when you want to set the current configuration to that
 
 Workflow Studio displays the restored subflow configuration.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](subflow-history.md)
 

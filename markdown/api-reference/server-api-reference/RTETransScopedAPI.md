@@ -21,7 +21,7 @@ Use the `sn_impex` namespace when accessing this API.
 
 For additional information, see [Define Robust Transform Engine operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/define-rte-operations.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RTETransformer - RTETransformer\(String transformDefinitionId, Boolean verboseLogging, String source, Number batchSize\)
 

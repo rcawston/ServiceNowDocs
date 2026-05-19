@@ -84,5 +84,5 @@ User
 The user associated with the event.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

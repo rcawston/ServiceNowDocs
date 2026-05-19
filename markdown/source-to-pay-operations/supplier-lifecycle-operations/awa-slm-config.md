@@ -28,11 +28,11 @@ Setting up [Advanced Work Assignment for Supplier Lifecycle Operations](slo-glos
 
 For more information, see [Exploring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md).
 
--   **[Configure Advanced Work Assignment for Supplier Lifecycle Operations](../task/setup-awa-slm.md)**  
+-   **[Configure Advanced Work Assignment for Supplier Lifecycle Operations](setup-awa-slm.md)**  
 Configure various components, such as service channels, work item queues, and assignment rules that determine how a chat interaction should be routed to an agent.
--   **[Configure the Supplier Collaboration Queue](../task/configure-scp-queue.md)**  
+-   **[Configure the Supplier Collaboration Queue](configure-scp-queue.md)**  
 Configure the Supplier Collaboration Queue chat queue to ensure that the chat requests are routed and assigned to specific agents that belong to a defined group.
--   **[Configure Agent Chat for Source-to-Pay Workspace](../task/configure-agent-chat-slm.md)**  
+-   **[Configure Agent Chat for Source-to-Pay Workspace](configure-agent-chat-slm.md)**  
 Use Agent Chat Settings to configure Agent Chat for Source-to-Pay Workspace.
 
 **Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
@@ -42,13 +42,13 @@ Use Agent Chat Settings to configure Agent Chat for Source-to-Pay Workspace.
 
 [Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
 
-[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)
+[Activate Agent Chat and load demo data](load-demo-agent-chat.md)
 
 [Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)
 
-[Configure Advanced Work Assignment for Supplier Lifecycle Operations](../task/setup-awa-slm.md)
+[Configure Advanced Work Assignment for Supplier Lifecycle Operations](setup-awa-slm.md)
 
-[Configure the Supplier Collaboration Queue](../task/configure-scp-queue.md)
+[Configure the Supplier Collaboration Queue](configure-scp-queue.md)
 
-[Configure Agent Chat for Source-to-Pay Workspace](../task/configure-agent-chat-slm.md)
+[Configure Agent Chat for Source-to-Pay Workspace](configure-agent-chat-slm.md)
 

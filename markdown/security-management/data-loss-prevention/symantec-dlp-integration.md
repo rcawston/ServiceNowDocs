@@ -36,31 +36,31 @@ To learn more about the integration, see the [Symantec product documentation](ht
 
 -   **[Getting started with Symantec DLP integration for Data Loss Prevention](getting-started-symantec-dlp-integration-dlp.md)**  
 Before you can use the integration, you must download it from the ServiceNow® Store.
--   **[Install and configure the Symantec DLP integration for Data Loss Prevention](../task/install-configure-symantec-dlp-integration.md)**  
+-   **[Install and configure the Symantec DLP integration for Data Loss Prevention](install-configure-symantec-dlp-integration.md)**  
 Install and configure the  Symantec DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Symantec DLP incident data.
--   **[Create a profile for Symantec DLP integration](../task/create-profile-symantec-dlp.md)**  
+-   **[Create a profile for Symantec DLP integration](create-profile-symantec-dlp.md)**  
 Create an incident profile in your  ServiceNow AI Platform instance. Determine the  Symantec DLP incidents that are suitable for creating DLP incidents.
--   **[Severity mapping between Symantec DLP incidents with ServiceNow incidents](../task/severity-mapping.md)**  
+-   **[Severity mapping between Symantec DLP incidents with ServiceNow incidents](severity-mapping.md)**  
 Use the severity mapping feature to configure and synchronize the mapping between Symantec incidents and ServiceNow AI Platform® incidents.
--   **[Configure Smart Response Rules](../task/config-smart-response-rules.md)**  
+-   **[Configure Smart Response Rules](config-smart-response-rules.md)**  
 Configure the Symantec smart response rule\(s\) to perform response actions on the ingested Symantec DLP Incidents.
--   **[Execute Smart Response Rules](../task/execute-smart-response-rules.md)**  
+-   **[Execute Smart Response Rules](execute-smart-response-rules.md)**  
 Use this feature to execute Smart Response Rules for the Symantec DLP incidents.
--   **[Configure the Symantec DLP  integration settings](../task/modify-symantec-dlp-system-properties.md)**  
+-   **[Configure the Symantec DLP  integration settings](modify-symantec-dlp-system-properties.md)**  
 Modify the  Symantec DLP  integration default system properties.
 -   **[Domain Separation in the Symantec DLP integration](domain-seperation-symantec-dlp-integration.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[DLP integrations](../../data-loss-prevention/concept/dlp-integrations.md)
+**Parent Topic:**[DLP integrations](dlp-integrations.md)
 
 **Related topics**  
 
 
-[Data Loss Prevention Incident Response Integration with Proofpoint](../../dlp-proofpoint/concept/dlp-incident-response-integration-proofpoint.md)
+[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 
-[Data Loss Prevention Incident Response Integration with Netskope](../../dlp-netskope/concept/dlp-incident-response-integration-netskope.md)
+[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 
-[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../../dlp-icap-zscaler/concept/icap-dlp-integration.md)
+[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
 
-[Data Loss Prevention Incident Response with Microsoft](../../dlp-microsoft/concept/dlp-integration-microsoft.md)
+[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

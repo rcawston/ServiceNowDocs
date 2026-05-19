@@ -31,17 +31,17 @@ Role required: sn\_apm.apm\_analyst
 
 5.  On the Application model lifecycle details form, fill in the fields.
 
-    For a description of the field values, see [Application model life-cycle details form](../../reference/eaw-reference/eaw-application-model-lifecycle-details-form.md).
+    For a description of the field values, see [Application model life-cycle details form](eaw-application-model-lifecycle-details-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 
 
 [Edit business application details in list view](eaw-edit-business-application-details.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

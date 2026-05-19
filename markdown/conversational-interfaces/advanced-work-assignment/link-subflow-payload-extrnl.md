@@ -44,5 +44,5 @@ Role required: admin
 
 ## What to do next
 
-You can perform a quick setup test using the demo data by connecting to your external provider. For more information, see [Define external routing test implementation](../concept/define-extrnl-routng-plugin.md).
+You can perform a quick setup test using the demo data by connecting to your external provider. For more information, see [Define external routing test implementation](define-extrnl-routng-plugin.md).
 

@@ -23,7 +23,7 @@ Role required: admin
 
 AI Search supports indexing of searchable content from variables on records in the Catalog Item \[sc\_cat\_item\] table and tables that extend it. By default, this functionality is not active. Administrators can activate indexing of catalog variable content and configure the set of Catalog Items and catalog variables to index content from.
 
-For details on the catalog variable types that AI Search can index content from, see [Variable types supported by AI Search indexing](../reference/variable-types-ais-index.md).
+For details on the catalog variable types that AI Search can index content from, see [Variable types supported by AI Search indexing](variable-types-ais-index.md).
 
 ## Procedure
 
@@ -86,5 +86,5 @@ For details on the catalog variable types that AI Search can index content from,
 
 After changing the values of these system properties, reindex content from the Catalog Item Table indexed source and any indexed sources for tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](index-multiple-sources-ais.md).
 
-**Parent Topic:**[Indexed sources in AI Search](../concept/indexed-sources-ais.md)
+**Parent Topic:**[Indexed sources in AI Search](indexed-sources-ais.md)
 

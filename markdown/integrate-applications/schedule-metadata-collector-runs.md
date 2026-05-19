@@ -46,5 +46,5 @@ Configure collection schedules to maintain up-to-date catalog metadata without m
 7.  Select **Save**.![](../image/dc-mcollector-schedule.png)
 
 
-**Parent Topic:**[Running metadata collectors](../concept/run-metadata-collectors-dc.md)
+**Parent Topic:**[Running metadata collectors](run-metadata-collectors-dc.md)
 

@@ -18,7 +18,7 @@ If you have multiple cloud accounts and datacenters in AWS and Azure, you can di
 ## Before you begin
 
 -   Verify that you're using at least Zurich Patch 2.
--   Verify that the **glide.discovery.cdu.auto\_refresh\_sub\_accounts\_and\_ldcs** system property is set to true. For more information, see [Create Discovery schedules for cloud resources](../../discovery/concept/discovery-manager.md#).
+-   Verify that the **glide.discovery.cdu.auto\_refresh\_sub\_accounts\_and\_ldcs** system property is set to true. For more information, see [Create Discovery schedules for cloud resources](../discovery/discovery-manager.md#).
 
 Role required: discovery\_admin
 
@@ -37,18 +37,18 @@ Role required: discovery\_admin
 
 ## What to do next
 
-Either execute discovery immediately or wait until the predefined schedule triggers the discovery. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md).
+Either execute discovery immediately or wait until the predefined schedule triggers the discovery. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md).
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Activate a disabled pattern](activate-disabled-pattern.md)
 
-**Next topic:**[Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md)
+**Next topic:**[Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md)
 
 **Related topics**  
 
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
-[Microsoft Azure Cloud discovery using patterns](../reference/azure-cloud-discovery-patterns.md)
+[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 Organize and add context to your data by grouping similar workstation activities with user-friendly category names. Categorization rules have a fixed order value that determines how information from apps and windows is shown on an analysis.
 
-For information about categorization, see [Categorize workstation activities to simplify analysis](../task/define-default-categorization-rules.md).
+For information about categorization, see [Categorize workstation activities to simplify analysis](define-default-categorization-rules.md).
 
 <table id="table_y2k_vdx_tcc"><thead><tr><th>
 
@@ -93,5 +93,5 @@ Window name
 A name to describe the activity. A value can be used to mask PII. For example, you can use \[\] to mask and replace with the term used in brackets. If this field is empty, the window name from the workstation is used.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Task Mining Reference](../concept/reference-task-mining.md)
+</table>**Parent Topic:**[Task Mining Reference](reference-task-mining.md)
 

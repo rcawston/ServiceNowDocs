@@ -47,7 +47,7 @@ All the CMDB relationships, as shown in the example, are maintained in the CI re
 
 ![CI relationships [cmdb_rel_ci] table.](../image/ci-rel-table.png)
 
-To bring these relationships into Operational Resilience, you must use the Main node configurations. For more information, see [Configure the Main node configurations](../task/set-up-main-node.md).
+To bring these relationships into Operational Resilience, you must use the Main node configurations. For more information, see [Configure the Main node configurations](set-up-main-node.md).
 
 You can establish the following relationships between objects such as business services, service offerings, and business processes.
 

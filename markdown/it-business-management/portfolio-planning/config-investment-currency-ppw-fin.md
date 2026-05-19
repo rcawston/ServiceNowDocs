@@ -17,7 +17,7 @@ Select investment currency as an additional currency, which can be different fro
 
 ## Before you begin
 
--   [Enable monetary benefit plans for planning items](../../spw-financials/task/enable-benefitplans-spw-fin.md)
+-   [Enable monetary benefit plans for planning items](../scenario-planning-in-spw/enable-benefitplans-spw-fin.md)
 -   Role required: admin
 
 ## Procedure

@@ -17,7 +17,7 @@ Use the ServiceNow® Sitemap Generator application to define and automatically g
 
 ## Activation information
 
-You can activate the Sitemap Generator application \(sn\_ux\_seo\_sitemap\) from your instance. For more information, see [Activate Sitemap Generator](../task/activate-sitemap-generator.md).
+You can activate the Sitemap Generator application \(sn\_ux\_seo\_sitemap\) from your instance. For more information, see [Activate Sitemap Generator](activate-sitemap-generator.md).
 
 You can also activate Sitemap Generator from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -32,19 +32,19 @@ The sitemap is generated from a script or static XML. When creating a sitemap, y
 -   Excludes pages that respond with a 301 redirect.
 -   Excludes pages with the NOINDEX meta tag, such as retired or expired pages. If you use a script to create the sitemap, include logic similar to that of the SEO script include you used to add NOINDEX meta tags to pages to exclude those pages from the sitemap. For more information, see [Configure custom SEO tags for canonical URLs and localized knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-seo-knowledge.md).
 -   For any pages with canonical URLs or **hreflang** tags, the sitemap includes those canonical URLs or URLs with **hreflang** tags returned by the SEO script include for that page. If you use a script to create the sitemap, include logic similar to that of the SEO script include you used to return canonical URLs or URLs with **hreflang** tags. For more information, see [SEO for canonical URLs and localized versions of knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/seo-knowledge.md).
--   For any pages with human readable keywords in URLS, the sitemap includes those URLs with human readable keywords. If you use a script to create the sitemap, use one of the getHumanReadableUrl methods in the SPSEOUtilsSNC class to return the human readable keywords and include them in the sitemap URLs. For more information, see [Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md).
+-   For any pages with human readable keywords in URLS, the sitemap includes those URLs with human readable keywords. If you use a script to create the sitemap, use one of the getHumanReadableUrl methods in the SPSEOUtilsSNC class to return the human readable keywords and include them in the sitemap URLs. For more information, see [Add human readable keywords to page URLs](../service-portal/add-human-readable-keywords-page-urls.md).
 
-**Note:** Guidance on how to meet these requirements is included in the code templates in the **Script** and **Static XML** fields where the sitemap contents are defined. For more information, see [Generate XML sitemaps for SEO indexing](../task/generate-xml-sitemaps-seo-indexing.md).
+**Note:** Guidance on how to meet these requirements is included in the code templates in the **Script** and **Static XML** fields where the sitemap contents are defined. For more information, see [Generate XML sitemaps for SEO indexing](generate-xml-sitemaps-seo-indexing.md).
 
 For more information about sitemap requirements for SEO, refer to the following resources:
 
 -   [Build and submit a sitemap](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap) in the Google documentation
 -   [XML schema for the Sitemap protocol](https://www.sitemaps.org/protocol.html) on the sitemaps.org website
 
--   **[Activate Sitemap Generator](../task/activate-sitemap-generator.md)**  
+-   **[Activate Sitemap Generator](activate-sitemap-generator.md)**  
 You can activate the Sitemap Generator plugin \(sn\_ux\_seo\_sitemap\) for Service Portal if you have the admin role.
--   **[Generate XML sitemaps for SEO indexing](../task/generate-xml-sitemaps-seo-indexing.md)**  
+-   **[Generate XML sitemaps for SEO indexing](generate-xml-sitemaps-seo-indexing.md)**  
 Create XML sitemaps for web crawlers to index your public portal pages and improve search engine optimization for your portals.
 
-**Parent Topic:**[Improving search engine optimization for portals](seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](../service-portal/seo-sp.md)
 

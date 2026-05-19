@@ -34,8 +34,8 @@ Hiding a catalog item for your app's form effectively makes the form inactive. H
 You can delete only unpublished forms.
 
 -   If a form is in Draft state, you can just choose not to **Mark as ready**.
--   If you know that you'll never need a Draft form again, you can delete it. For more information, check out [Delete a form in Creator Studio](../task/crs-delete-form.md).
--   If the form is in a Published state, you can hide it so it no longer appears in the catalog. See [Hide a form from use in the ServiceNow AI Platform in Creator Studio](../task/creator-studio-deactivate-form.md) for more information on hiding forms.
+-   If you know that you'll never need a Draft form again, you can delete it. For more information, check out [Delete a form in Creator Studio](crs-delete-form.md).
+-   If the form is in a Published state, you can hide it so it no longer appears in the catalog. See [Hide a form from use in the ServiceNow AI Platform in Creator Studio](creator-studio-deactivate-form.md) for more information on hiding forms.
 
 **Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
 

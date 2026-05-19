@@ -105,7 +105,7 @@ Document
 
 </td><td>
 
-Select **Update** link to upload the document that has the modified content. The selected document should be of .docx file format and should have valid content controls. For more information, see [Add content controls in a Microsoft Word document](../task/cncore-word-doc-tmplt-contls.md) .
+Select **Update** link to upload the document that has the modified content. The selected document should be of .docx file format and should have valid content controls. For more information, see [Add content controls in a Microsoft Word document](cncore-word-doc-tmplt-contls.md) .
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Advanced script
 Enables the **Script** field where you can define clause conditions on fields and variables of a table that isn’t directly linked to the contract template table. The condition determines when the clause variation is used in a contract.**Note:** The **Applies when** field is not available when you select the **Advanced script** check box.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+</table>**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
 
 **Related topics**  
 
@@ -153,7 +153,7 @@ Enables the **Script** field where you can define clause conditions on fields an
 
 [Obligation Management notifications](cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](contract-management-pro-glossary.md#)
 
 [Contract Management solutions](cmpro-cml-feature-compare.md)
 

@@ -72,10 +72,10 @@ EVAM consists of the following:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Allows users to configure multiple view templates per data source based on conditions to customize how data displays for users. The view template maps fields from the view configuration to component.|[Define an EVAM view template](../task/define-evam-template.md)|Admins or evam\_admins|
-|Use EVAM to take in different data sources, configure views, and show them in a card display view.|[Create a multi-data source list display in Entity View Action Mapper](../task/tutorial-create-evam.md)|Admins or evam\_admins|
-|Define the list of data sources to render. The EVAM definition is the main record for an EVAM configuration.|[Create an EVAM definition](../task/define-composite-dataset.md)|Admins or evam\_admins|
-|Define the list of data sources to render. The EVAM definition is the main record for an EVAM configuration.|[Create an EVAM action definition](../task/define-evam-action.md)|Admins or evam\_admins|
+|Allows users to configure multiple view templates per data source based on conditions to customize how data displays for users. The view template maps fields from the view configuration to component.|[Define an EVAM view template](define-evam-template.md)|Admins or evam\_admins|
+|Use EVAM to take in different data sources, configure views, and show them in a card display view.|[Create a multi-data source list display in Entity View Action Mapper](tutorial-create-evam.md)|Admins or evam\_admins|
+|Define the list of data sources to render. The EVAM definition is the main record for an EVAM configuration.|[Create an EVAM definition](define-composite-dataset.md)|Admins or evam\_admins|
+|Define the list of data sources to render. The EVAM definition is the main record for an EVAM configuration.|[Create an EVAM action definition](define-evam-action.md)|Admins or evam\_admins|
 
 ## What to explore next
 

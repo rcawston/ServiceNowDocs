@@ -28,7 +28,7 @@ The following items are installed with Event Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Event Management](../reference/r_InstalledWithEventManagement.md#).
+For more information, see [Components installed with Event Management](r_InstalledWithEventManagement.md#).
 
 ## Procedure
 

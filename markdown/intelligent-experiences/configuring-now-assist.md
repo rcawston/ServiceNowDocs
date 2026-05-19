@@ -81,7 +81,7 @@ You can consult the following checklist from the Now Assist Admin console Overvi
 
 -   Get an overview of [the Now Assist framework](exploring-now-assist-platform.md).
 -   Discover the [Now Assist panel](now-assist-panel-overview.md).
--   Explore the [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md) available.
--   [Activate and configure a Now Assist skill](../../now-assist-admin/task/configure-a-now-assist-skill.md) using the Now Assist Admin console.
--   [Analyze and monitor](../../now-assist-admin/concept/now-assist-analytics-and-monitoring.md) Now Assist skill usage and performance.
+-   Explore the [Now Assist skills](now-assist-skills/now-assist-skills.md) available.
+-   [Activate and configure a Now Assist skill](configure-a-now-assist-skill.md) using the Now Assist Admin console.
+-   [Analyze and monitor](now-assist-analytics-and-monitoring.md) Now Assist skill usage and performance.
 

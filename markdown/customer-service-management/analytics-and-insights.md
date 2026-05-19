@@ -21,7 +21,7 @@ The following example shows a Performance Analytics dashboard with profitability
 
 ![Performance analytics dashboard that shows profitability and costs.](../image/performance-analytics.png "Customer Service Executive dashboard")
 
-To learn more about the Performance Analytics solutions, see [Customer Service Platform Analytics Solutions](../../../use/dashboards/application-content-packs/customer-service-content-pack.md).
+To learn more about the Performance Analytics solutions, see [Customer Service Platform Analytics Solutions](analytics-and-reporting-solutions-for-customer-service/customer-service-content-pack.md).
 
-To learn more about the different Performance Analytics plugins and what they provide, see [Additional plugins for Customer Service Management](../reference/r_CustServMgmtAddtlPluginsTable.md).
+To learn more about the different Performance Analytics plugins and what they provide, see [Additional plugins for Customer Service Management](r_CustServMgmtAddtlPluginsTable.md).
 

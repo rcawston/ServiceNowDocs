@@ -34,7 +34,7 @@ You can bind an event to a page by using the following types of events:
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information.
 
 3.  Open or create a page.
 
@@ -137,5 +137,5 @@ Do this
 8.  To preview your page and test the data resource event that you set up, select ![Preview button.](../image/preview-button.png).
 
 
-**Parent Topic:**[Bind events to add actions](../concept/bind-events.md)
+**Parent Topic:**[Bind events to add actions](bind-events.md)
 

@@ -58,5 +58,5 @@ The following example demonstrates how Proactive Service Experience Workflows is
     The resolution information is copied down to each case record, while the Major Issue Manager resolves the major case record and any associated cases.
 
 
-**Parent Topic:**[Exploring the Product Support for Technology](../concept/explore-assurance-workflows.md)
+**Parent Topic:**[Exploring the Product Support for Technology](explore-assurance-workflows.md)
 

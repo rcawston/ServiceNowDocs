@@ -104,12 +104,12 @@ In the Now Assist panel, ask the agent to dismiss the regulatory change and acti
 
 Navigate to the **Regulatory tasks** tab to review, assign, or delete the generated tasks. You can manage all tasks created by the workflow from this tab. Only change and action tasks in the New state can be deleted manually from a regulatory alert. You can assign tasks to users and update task details for tasks in the New and In Progress state.
 
-For more information on tasks, see [Regulatory change tasks](../../grc-rcm/concept/regulatory-change-tasks.md) and [Action tasks in Regulatory Change Management](../../grc-rcm/concept/action-tasks.md).
+For more information on tasks, see [Regulatory change tasks](../regulatory-change-management-service-portal/regulatory-change-tasks.md) and [Action tasks in Regulatory Change Management](../regulatory-change-management-service-portal/action-tasks.md).
 
 **Related topics**  
 
 
-[Using agentic workflows in IRM](../../grc-common/concept/using-agentic-ai-workflows.md)
+[Using agentic workflows in IRM](using-agentic-ai-workflows.md)
 
 [Activate the generate regulatory action plan agentic workflow](activate-rcm-agent-actions-workflow.md)
 

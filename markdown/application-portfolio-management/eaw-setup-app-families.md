@@ -15,7 +15,7 @@ An application family is an attribute to group a set of related applications bas
 
 You can add new application families or edit existing application families to simplify your application portfolio and align related apps with your business goals.
 
--   **[Add or edit an application family](../../task/eaw-task/eaw-create-app-family.md)**  
+-   **[Add or edit an application family](eaw-create-app-family.md)**  
 Add or edit an application family and align it with your business requirements.
 
 **Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
@@ -25,5 +25,5 @@ Add or edit an application family and align it with your business requirements.
 
 [Manage application families](eaw-configure-application-families.md)
 
-[View all application families](../../task/eaw-task/eaw-view-all-application-families.md)
+[View all application families](eaw-view-all-application-families.md)
 

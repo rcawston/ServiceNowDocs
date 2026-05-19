@@ -36,12 +36,12 @@ Role required: admin or ui\_builder\_admin
     For information about components, see [Work with components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md).
 
 
-**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](../concept/customize-sow-landing-page.md)
+**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](customize-sow-landing-page.md)
 
 **Related topics**  
 
 
 [Customize Service Operations Workspace landing page](configure-service-operations-workspace-landing-page.md)
 
-[Customize the incident record page](../concept/customize-the-incident-record-page.md#)
+[Customize the incident record page](customize-the-incident-record-page.md#)
 

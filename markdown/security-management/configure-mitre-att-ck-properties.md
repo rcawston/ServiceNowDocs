@@ -47,7 +47,7 @@ Roll up MITRE ATT&amp;CK information automatically from Threat Lookup results to
 
 </td><td>
 
-Rollup of MITRE-ATT&amp;CK information from threat lookup results to the security incident. For more information, see [Threat lookup auto-extraction](../concept/auto-extract-technique-rules.md#).Default value: Yes
+Rollup of MITRE-ATT&amp;CK information from threat lookup results to the security incident. For more information, see [Threat lookup auto-extraction](auto-extract-technique-rules.md#).Default value: Yes
 
 </td></tr><tr><td>
 
@@ -87,16 +87,16 @@ The scheduled time in hours to calculate the CVE and VUL information.Default val
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -132,7 +132,7 @@ The scheduled time in hours to calculate the CVE and VUL information.Default val
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

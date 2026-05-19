@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure Financial Services Deposit Operations.](../task/configure-fso-deposit-ops.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Configure Financial Services Deposit Operations.](configure-fso-deposit-ops.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
+[Process Mining ![](../../../reuse/icons/brand-icons/bus-project.svg) Visualize process and identify improvement opportunities.](../fso-process-optz-content-pack.md)
 
 </td><td>
 

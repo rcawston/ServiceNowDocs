@@ -17,7 +17,7 @@ Run the horizontal and top-down discovery using Amazon AWS API Gateway \[cmdb\_c
 
 ## Before you begin
 
-Make sure that your deployment complies with all the prerequisites for [Amazon API Gateway discovery with Patterns](../concept/aws-api-gateway-discovery.md) and [AWS Lambda discovery with Patterns](../concept/aws-lambda-discovery.md).
+Make sure that your deployment complies with all the prerequisites for [Amazon API Gateway discovery with Patterns](aws-api-gateway-discovery.md) and [AWS Lambda discovery with Patterns](aws-lambda-discovery.md).
 
 Role required: admin
 
@@ -78,5 +78,5 @@ The URL for invoking the API Gateway. Typically, the API GW has the following fo
     -   Service Mapping discovers the AWS Lambda connected to the application cluster for API Gateway.
     -   Service Mapping discovers the databases connected to AWS Lambda.
 
-**Parent Topic:**[Amazon API Gateway discovery with Patterns](../concept/aws-api-gateway-discovery.md)
+**Parent Topic:**[Amazon API Gateway discovery with Patterns](aws-api-gateway-discovery.md)
 

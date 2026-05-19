@@ -19,7 +19,7 @@ The ProducerV2 API provides methods to publish messages from your ServiceNow ins
 
 This API requires the ServiceNow Stream Connect Installer plugin \(com.glide.hub.stream\_connect.installer\) and runs in the `sn_ih_kafka` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProducerV2 - send\(String topicSysID, String key, String message, Boolean isSync, Object headers, String schemaID\)
 

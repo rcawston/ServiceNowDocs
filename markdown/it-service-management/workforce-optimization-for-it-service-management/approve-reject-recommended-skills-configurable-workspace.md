@@ -41,5 +41,5 @@ The Predictive Intelligence application for skills displays the recommended skil
     The application assigns the skill to the user. If the assigned skill doesn’t have a skill level, the application adds the basic skill level to the user.
 
 
-**Parent Topic:**[Adding skills to agents' skill set in Workforce Optimization for ITSM](../concept/adding-skills-agents-skillset-wfo-itsm.md)
+**Parent Topic:**[Adding skills to agents' skill set in Workforce Optimization for ITSM](adding-skills-agents-skillset-wfo-itsm.md)
 

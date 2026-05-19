@@ -17,7 +17,7 @@ The LSOFParser script include provides methods to parse the output of the `lsof`
 
 Use this script include with a discovery script when you need to parse `lsof` output.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## LSOFParser - error\(String msg\)
 

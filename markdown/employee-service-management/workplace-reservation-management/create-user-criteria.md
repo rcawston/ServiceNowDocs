@@ -27,7 +27,7 @@ Role required: sn\_wsd\_rsv.admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [User criteria form](../reference/user-criteria-form.md).
+    For a description of the field values, see [User criteria form](user-criteria-form.md).
 
 4.  Click **Submit**.
 
@@ -43,7 +43,7 @@ The user criteria is added to the application.
 -   **[Apply user criteria on a reservable module](apply-user-crit-resvbl-module.md)**  
 Apply a user criteria to give permission for employees and groups to view and make reservations on a reservable module.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -82,9 +82,9 @@ Apply a user criteria to give permission for employees and groups to view and ma
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

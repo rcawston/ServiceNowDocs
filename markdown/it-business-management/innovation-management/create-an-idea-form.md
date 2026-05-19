@@ -26,9 +26,9 @@ Learn about the fields of the Idea form. Use this form to create or edit the det
 **Related topics**  
 
 
-[Create an Idea module](../task/create-idea-module.md)
+[Create an Idea module](create-idea-module.md)
 
-[Submit an idea](../task/submit-idea-in-idea-portal.md)
+[Submit an idea](submit-idea-in-idea-portal.md)
 
-[View, filter, and sort ideas](../task/view-filter-sort-ideas.md)
+[View, filter, and sort ideas](view-filter-sort-ideas.md)
 

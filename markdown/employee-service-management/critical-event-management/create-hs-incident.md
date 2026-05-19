@@ -38,7 +38,7 @@ Role required: sn\_ohs\_im.incident\_reader, sn\_ohs\_im.incident\_writer, and s
 7.  Complete the **Report an incident** playbook.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](manage-related-records.md)
 
 **Related topics**  
 

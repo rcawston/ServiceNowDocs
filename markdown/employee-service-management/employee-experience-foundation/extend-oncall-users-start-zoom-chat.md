@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat](../concept/oncall-users-start-zoom-chat.md)
+**Parent Topic:**[Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat](oncall-users-start-zoom-chat.md)
 

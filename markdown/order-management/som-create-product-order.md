@@ -125,7 +125,7 @@ Browse the product catalog and add products and services to the order. For more 
 **Related topics**  
 
 
-[Order types in Sales Customer Relationship Management](../concept/som-order-types.md)
+[Order types in Sales Customer Relationship Management](som-order-types.md)
 
-[Action types for customer and service orders](../concept/order-mgt-customer-order-types.md)
+[Action types for customer and service orders](order-mgt-customer-order-types.md)
 

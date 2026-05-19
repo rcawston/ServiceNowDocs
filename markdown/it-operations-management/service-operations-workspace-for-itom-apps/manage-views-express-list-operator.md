@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 **Related topics**  
 
 
-[Configuring Express List views for users and user groups](../concept/manage-views-express-list.md)
+[Configuring Express List views for users and user groups](../event-management/manage-views-express-list.md)
 

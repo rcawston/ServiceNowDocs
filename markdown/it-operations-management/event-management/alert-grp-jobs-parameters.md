@@ -15,7 +15,7 @@ breadcrumb: [Alert grouping, Configuring Event Management, Event Management, ITO
 
 Automate alert organization by configuring jobs to group alerts based on predefined criteria and parameters.
 
-To group alerts in Automated, CMDB, Text-based, Tag Cluster, and Network Traffic Correlation groups, the scheduled job named **Service Analytics group alerts using RCA/Alert Aggregation** is typically run once per minute. This job handles the grouping of alerts based on the specified method. Additionally, you can run multiple scheduled jobs in parallel to manage alert grouping more efficiently. For further details, see [Run multiple scheduled jobs for alert grouping](../task/run-multiple-alert-group-scheduled-jobs.md).
+To group alerts in Automated, CMDB, Text-based, Tag Cluster, and Network Traffic Correlation groups, the scheduled job named **Service Analytics group alerts using RCA/Alert Aggregation** is typically run once per minute. This job handles the grouping of alerts based on the specified method. Additionally, you can run multiple scheduled jobs in parallel to manage alert grouping more efficiently. For further details, see [Run multiple scheduled jobs for alert grouping](run-multiple-alert-group-scheduled-jobs.md).
 
 To define which alerts are grouped, the following parameters are used:
 

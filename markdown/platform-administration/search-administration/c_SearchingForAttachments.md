@@ -17,7 +17,7 @@ Search content from attachments on indexed tables. Display attachments for searc
 
 ![Sample Knowledge search including attachments.](../../../product/knowledge-management/image/Km_search_filter_H.png "Sample Knowledge search showing attachments with matching content")
 
-By default, search only matches content from attachments on Knowledge \[kb\_knowledge\] records. Administrators can [enable search for attachments on other tables](../../form-administration/task/t_DisablingAttachmentsOnATable.md), but doing so causes the system to re-index the selected table, its parent table, and any children of the parent table.
+By default, search only matches content from attachments on Knowledge \[kb\_knowledge\] records. Administrators can [enable search for attachments on other tables](../t_DisablingAttachmentsOnATable.md), but doing so causes the system to re-index the selected table, its parent table, and any children of the parent table.
 
 **Warning:** For large tables, such as the Task table, re-indexing can take several hours and slows down the system until complete. Re-indexing is best performed during non-peak times.
 
@@ -46,7 +46,7 @@ Zing supports indexing and searching these attachment file types.
 -   .xlt
 -   .xltx
 
--   **[Index attachments on a table](../../form-administration/task/t_DisablingAttachmentsOnATable.md)**  
+-   **[Index attachments on a table](../t_DisablingAttachmentsOnATable.md)**  
 You can enable attachment indexing for a table so text searches can return matches from the record and its file attachments.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -54,7 +54,7 @@ You can enable attachment indexing for a table so text searches can return match
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -76,7 +76,7 @@ You can enable attachment indexing for a table so text searches can return match
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 
-[Index attachments on a table](../../form-administration/task/t_DisablingAttachmentsOnATable.md)
+[Index attachments on a table](../t_DisablingAttachmentsOnATable.md)
 

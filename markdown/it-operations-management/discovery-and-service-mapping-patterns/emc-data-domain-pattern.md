@@ -19,7 +19,7 @@ Discovery and Service Mapping use the **Dell EMC Data Domain** serverless patter
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Data Domain components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
+To learn about Data Domain components and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
 ## Prerequisites
 
@@ -83,7 +83,7 @@ To learn about Data Domain components and their versions that you can discover, 
         |Active|Enabled by default.|
         |Credential alias|No need to configure this field.|
 
-        For more information about setting the **Max run time**, **Run**, and **Time** fields, see: [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#)
+        For more information about setting the **Max run time**, **Run**, and **Time** fields, see: [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#)
 
     4.  Select **Submit**.
 
@@ -529,5 +529,5 @@ Owns::Owned by
 cmdb\_ci\_ip \_address
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

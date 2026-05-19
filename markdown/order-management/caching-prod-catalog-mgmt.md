@@ -20,5 +20,5 @@ As a product catalog admin or manager, when you make the following changes to a 
 -   **Unit of Measure** \(UOM\) in product offerings – Although product offerings cannot be changed after you publish them, you can change the default **Unit of Measure**. After updating the UOM, you must update the product offering cache.
 -   **Product offering catalog changes** – If you change the hierarchies for catalog to category or category to sub-category hierarchies, you must update the product offering catalog cache.
 
-For details on regenerating these caches, see [Update a cache in Product Catalog Management](../task/som-update-cache-catalog-mgmt.md).
+For details on regenerating these caches, see [Update a cache in Product Catalog Management](som-update-cache-catalog-mgmt.md).
 

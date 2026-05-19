@@ -46,7 +46,7 @@ Create a data gathering action to collect record field values for a dynamic temp
 
     2.  For the Request Details, select a method to build a request, provide a resource path, select an HTTP method, and provide any query parameters.
 
-        Data gathering actions generally use a GET HTTP method to request data from a REST endpoint. For more information on using the REST step in Integration Hub, see [REST step](../reference/rest-request-action-designer.md) and [REST in IntegrationHub](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_rest_paris_rest_in_integrationhub/app_store_learnv2_rest_paris_rest_in_integrationhub_objectives?v=paris).
+        Data gathering actions generally use a GET HTTP method to request data from a REST endpoint. For more information on using the REST step in Integration Hub, see [REST step](rest-request-action-designer.md) and [REST in IntegrationHub](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_rest_paris_rest_in_integrationhub/app_store_learnv2_rest_paris_rest_in_integrationhub_objectives?v=paris).
 
 6.  In the Action Outline under the REST step, select the add a new step icon \(![Add a new step icon](../images/add-new-step-icon.png)\) and select the **Script** step.
 
@@ -179,7 +179,7 @@ Create a data gathering action to collect record field values for a dynamic temp
 
 You can now use your data gathering action to populate the options that appear for a dynamic template input in a parent action.![Use your data gathering action to populate options for a dynamic template.](../images/create-data-gathering-action-dynamic-template-result.png)
 
-**Parent Topic:**[Dynamic inputs](../concept/dynamic-inputs.md)
+**Parent Topic:**[Dynamic inputs](dynamic-inputs.md)
 
 **Related topics**  
 
@@ -190,5 +190,5 @@ You can now use your data gathering action to populate the options that appear f
 
 [Create a data gathering action for a dynamic inputs type input](create-data-gathering-action-dynamic-inputs.md)
 
-[Dynamic input configuration options](../reference/dynamic-input-options.md)
+[Dynamic input configuration options](dynamic-input-options.md)
 

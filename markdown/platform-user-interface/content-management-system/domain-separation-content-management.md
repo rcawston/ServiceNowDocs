@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 [Content Management design](c_ContentManagementPlanning.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](t_CreateASite.md)
 
 [Content Management integration points](c_CMSIntegrationPoints.md)
 

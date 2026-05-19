@@ -77,5 +77,5 @@ A routing profile links queues to agents. Every agent must have a routing profil
     5.  In the **Order** field, select the order number for the assignment group that shows the priority in which incoming calls are handled.
     6.  Click **Submit**.
 
-**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](../../configurable-workforce-optimization-itsm/concept/voice-configurable-wfo-itsm.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](voice-configurable-wfo-itsm.md)
 

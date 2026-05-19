@@ -26,7 +26,7 @@ Role required: Admin
     -   [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md)
     -   Assign the `localization_fulfiller` role to the group: [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md)
     -   Add users to perform translation: [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md)
--   Activate the `sn_cd.enable_localization_framework_integration` system property: [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+-   Activate the `sn_cd.enable_localization_framework_integration` system property: [Properties installed with Content Publishing](properties-with-content-delivery.md)
 
 ## Procedure
 

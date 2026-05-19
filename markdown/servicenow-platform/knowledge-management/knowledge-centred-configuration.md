@@ -21,7 +21,7 @@ Visit the following page on the ServiceNow Community for information about getti
 
 ## Activation information
 
-The Knowledge-Centered Service configuration is activated with the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\). For more information, see [Activate Knowledge Management KCS Capabilities](../task/activate-kcs-capabilties-plugin.md).
+The Knowledge-Centered Service configuration is activated with the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\). For more information, see [Activate Knowledge Management KCS Capabilities](activate-kcs-capabilties-plugin.md).
 
 **Parent Topic:**[Knowledge Management](knowledge-management.md)
 

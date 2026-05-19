@@ -40,5 +40,5 @@ Gamification includes predefined global, forum, and topic levels. Each level def
     Level ranges are updated on the Community portal.
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](communities-gamification-administer.md)
 

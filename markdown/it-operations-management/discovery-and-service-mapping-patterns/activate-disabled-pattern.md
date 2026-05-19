@@ -36,7 +36,7 @@ Starting with Visibility Content version 6.28.0, activating or deactivating a pa
 5.  Select **Update**.
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Compare pattern versions](compare-pattern-versions.md)
 

@@ -79,5 +79,5 @@ Under **Cases**, click **Accept** by a transfer request.![The transfer request c
 
 If necessary, you can open a new HR case or incident from the conversation for further investigation. You can also transfer the conversation to a different agent or queue, or escalate the conversation to a higher priority queue.
 
-**Parent Topic:**[HR chat from lists and forms](../concept/chat-with-scoped-hr.md)
+**Parent Topic:**[HR chat from lists and forms](chat-with-scoped-hr.md)
 

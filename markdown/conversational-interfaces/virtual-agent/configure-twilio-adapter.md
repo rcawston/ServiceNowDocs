@@ -123,9 +123,9 @@ Message auth that you created.
 
 ## What to do next
 
-After you set up the Conversational SMS Integration with Twilio, you can create SMS conversation topics in Virtual Agent Designer. For more information on using the tool, see [Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md).
+After you set up the Conversational SMS Integration with Twilio, you can create SMS conversation topics in Virtual Agent Designer. For more information on using the tool, see [Virtual Agent Designer](conversation-designer-virtual-agent.md).
 
-**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](../concept/configure-va-sms-twilio-app.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with Twilio](configure-va-sms-twilio-app.md)
 
 **Related topics**  
 

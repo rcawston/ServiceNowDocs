@@ -34,9 +34,9 @@ Employee can quickly scan the remainder of leaves for the year and select **Requ
 
 [Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)
 
-[Use the My To-dos page](../task/ec-to-dos-use.md)
+[Use the My To-dos page](ec-to-dos-use.md)
 
-[Use approval experience](../task/ec-to-dos-use-approval-hub.md)
+[Use approval experience](ec-to-dos-use-approval-hub.md)
 
 [Manage approvals from Microsoft Teams](../../sn-teams/task/va-concur.md)
 
@@ -46,15 +46,15 @@ Employee can quickly scan the remainder of leaves for the year and select **Requ
 
 [View the Recommended for you content](rfy-employee.md)
 
-[Use Employee Center from Zoom](../task/zoom-create-email-notification.md)
+[Use Employee Center from Zoom](zoom-create-email-notification.md)
 
 [View employee profile](update-employee-profile.md)
 
-[Employee Profile org chart widget](../task/view-org-chart.md)
+[Employee Profile org chart widget](view-org-chart.md)
 
 [RTL support for Employee Center](ec-rtl-language-support.md)
 
-[Manage favorites](../task/web-configure-favorites-employee.md)
+[Manage favorites](web-configure-favorites-employee.md)
 
 [Access applications from App Launcher](web-application-employee.md)
 

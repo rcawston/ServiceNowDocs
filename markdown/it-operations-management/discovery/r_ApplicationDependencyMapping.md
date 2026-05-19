@@ -36,7 +36,7 @@ IPv6 Is supported for ADM.
     ADME discovery is not enabled by default.
 
 
-Service Mapping uses the ADM probes for traffic-based discovery. See [Discovery based on Predictive Intelligence](../../service-mapping/concept/predictive-intelligence-discovery.md) for more information.
+Service Mapping uses the ADM probes for traffic-based discovery. See [Discovery based on Predictive Intelligence](../service-mapping/predictive-intelligence-discovery.md) for more information.
 
 ## Requirements
 
@@ -139,11 +139,11 @@ To set up and use enhanced ADM, perform these steps:
 3.  Do either of the following based on the operating systems of the host computers:
     -   Linux: [modify the sudoers file](r_ApplicationDependencyMapping.md#sudoers) to include the necessary commands.
     -   Windows: Set the `mid.windows.management_protocol` parameter on the MID Server to use WinRM or WMI. This parameter sets the protocol that your MID Server uses to communicate with remote Windows hosts.
-4.  [Create a schedule and run Discovery](../task/t_CreateADiscoverySchedule.md#).
-5.  [View the results in the TCP tables](r_DataCollDiscoTCPConnections.md).
-6.  Optionally control both the size of the TCP tracking file and the payload using parameters on the enhanced ADM probes. See [TCP connection discovery](r_DataCollDiscoTCPConnections.md) for the names of the probes and parameters.
+4.  [Create a schedule and run Discovery](t_CreateADiscoverySchedule.md#).
+5.  [View the results in the TCP tables](../itom-visibility/r_DataCollDiscoTCPConnections.md).
+6.  Optionally control both the size of the TCP tracking file and the payload using parameters on the enhanced ADM probes. See [TCP connection discovery](../itom-visibility/r_DataCollDiscoTCPConnections.md) for the names of the probes and parameters.
 
-**Parent Topic:**[Advanced Discovery configuration](../concept/c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
 
 ## Configure ADM discovery parameters and properties
 
@@ -155,7 +155,7 @@ Role required: discovery\_admin or admin
 
 ### About this task
 
-You can also control both the size of the TCP tracking file and the payload using parameters on the enhanced ADM probes. See [TCP connection discovery](r_DataCollDiscoTCPConnections.md) for the names of the probes and parameters.
+You can also control both the size of the TCP tracking file and the payload using parameters on the enhanced ADM probes. See [TCP connection discovery](../itom-visibility/r_DataCollDiscoTCPConnections.md) for the names of the probes and parameters.
 
 ### Procedure
 

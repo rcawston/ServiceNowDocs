@@ -39,7 +39,7 @@ Action items are specific, granular tasks defined within a risk response task to
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New Action Item form, see [Create New Action Item form](../reference/create-new-action-item-form.md).
+    For a description of the field values on the Create New Action Item form, see [Create New Action Item form](create-new-action-item-form.md).
 
 7.  Select **Save**.
 
@@ -48,7 +48,7 @@ Action items are specific, granular tasks defined within a risk response task to
     The action item moves to the Assigned state.
 
 
--   **[Create New Action Item form](../reference/create-new-action-item-form.md)**  
+-   **[Create New Action Item form](create-new-action-item-form.md)**  
 Use the Create New Action Item form to define the plan of action, assign responsibilities, set priorities, and establish milestones for the action item.
 
 **Parent Topic:**[Create a risk response task in the Risk Workspace](create-risk-response-task-risk-workspace.md)

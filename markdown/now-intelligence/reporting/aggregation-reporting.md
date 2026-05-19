@@ -22,9 +22,9 @@ Aggregation enables you to apply calculations to data displayed in reports.
 -   Minimum and Maximum show the least or greatest values for each displayed category.
 -   Standard deviation shows data variation from the average value for a given field.
 
-If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, **Maximum**, or **Standard deviation**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, **Maximum**, or **Standard deviation**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
-For information about aggregating on FX currency values, see [FX Currency values in reporting](../concept/fx-currency-values-reporting.md#).
+For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
 **Note:** Aggregation is not supported on histogram, pareto, single score, box, calendar, and list reports.
 

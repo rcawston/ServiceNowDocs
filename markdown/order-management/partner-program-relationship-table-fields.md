@@ -91,5 +91,5 @@ Updates and information related to the partner program relationship.
 **Related topics**  
 
 
-[Configure Partner Program Relationship table](../task/configure-partner-program-relationship-table.md)
+[Configure Partner Program Relationship table](configure-partner-program-relationship-table.md)
 

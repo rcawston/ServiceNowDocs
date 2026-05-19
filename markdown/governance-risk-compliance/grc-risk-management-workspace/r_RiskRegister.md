@@ -25,12 +25,12 @@ A good risk statement should answer:
 -   How could it happen?
 -   Why do we care?
 
--   **[Workflow of a risk using Advanced Risk](../concept/risk-lifecycle-using-advanced-risk.md)**  
+-   **[Workflow of a risk using Advanced Risk](risk-lifecycle-using-advanced-risk.md)**  
 When you migrate to advanced risk assessment, you can view the various states of the risks take the necessary actions. This ability simplifies your view of the risk form.
--   **[Manage risks linked to the same risk statement](../concept/manage_risks_linked_to_same_risk_stmnt.md)**  
+-   **[Manage risks linked to the same risk statement](manage_risks_linked_to_same_risk_stmnt.md)**  
 You can create and associate multiple risks to the same risk statement and entity combination. This association benefits the risk managers and the entity owners.
 -   **[Risk hierarchy and scoring](risk-hierarchy-scoring.md)**  
 Starting with New York, risk managers can create hierarchies that include different types of risk \(operational risk, IT risk, or strategic risk\). Once the underlying risks are assessed, the risk scores are automatically rolled up across the risk statement hierarchy, providing better tactical and strategic decision-making.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

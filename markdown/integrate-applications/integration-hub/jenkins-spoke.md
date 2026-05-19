@@ -47,7 +47,7 @@ All versions between 2.176.2 to 2.222.1.
 
 ## Spoke modules
 
-You can configure the Jenkins v2 spoke v2 to receive updates from Jenkins at your ServiceNow instance. In the routing policies, conditions that must be met to receive updates at your ServiceNow instance are defined. When the conditions are met, routing policy triggers the associated subflow, which in turn automates the Jenkins tasks. This requires separate setup and can be used independently without using the spoke actions. See [Set up a webhook for the Jenkins spoke](../task/receive-jenkins-upd.md#) for information regarding setting up and configuring the webhooks. To use other conditions in the routing policy or customize the default subflows, see [Customize a webhook](../task/receive-jenkins-upd.md#).
+You can configure the Jenkins v2 spoke v2 to receive updates from Jenkins at your ServiceNow instance. In the routing policies, conditions that must be met to receive updates at your ServiceNow instance are defined. When the conditions are met, routing policy triggers the associated subflow, which in turn automates the Jenkins tasks. This requires separate setup and can be used independently without using the spoke actions. See [Set up a webhook for the Jenkins spoke](receive-jenkins-upd.md#) for information regarding setting up and configuring the webhooks. To use other conditions in the routing policy or customize the default subflows, see [Customize a webhook](receive-jenkins-upd.md#).
 
 Routing policies and subflows support these fields:
 
@@ -138,11 +138,11 @@ Use triggers in the Jenkins spoke to subscribe to the required events. The endpo
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-This spoke uses the Jenkins v2 Connection &amp; Credential Alias record to authorize actions. To use the spoke connection alias, create an associated Connection record and an associated Credential record. For information about setting up the spoke, see [Set up the Jenkins spoke](../task/set-up-jenkins.md#).
+This spoke uses the Jenkins v2 Connection &amp; Credential Alias record to authorize actions. To use the spoke connection alias, create an associated Connection record and an associated Credential record. For information about setting up the spoke, see [Set up the Jenkins spoke](set-up-jenkins.md#).
 
 ## MID Server requirements
 
 These actions use REST calls, which must run on a MID Server. Use the connection record associated with the Jenkins alias to configure where actions run as well as set MID Server selection attributes. For more information, see [MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md).
 
-To set up the MID Server for this spoke, see [Set up MID Server for a spoke](../task/config-adv-mid-settings-for-oauth-on-mid.md).
+To set up the MID Server for this spoke, see [Set up MID Server for a spoke](config-adv-mid-settings-for-oauth-on-mid.md).
 

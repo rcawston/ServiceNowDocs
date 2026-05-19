@@ -142,15 +142,15 @@ Optional end date field to use for a range on the timeline.
 </td></tr></tbody>
 </table>5.  Select **Submit** or **Update**.
 
-    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](../concept/administer-unified-map.md).
+    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](administer-unified-map.md).
 
 
-**Parent Topic:**[Configuring Unified Map — admin settings](../concept/administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](administer-unified-map.md)
 
 **Related topics**  
 
 
 [View related items for a CI](unified-map-show-related-items.md)
 
-[Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md)
+[Viewing related items on the Unified Map timeline](unified-map-timeline-working-on.md)
 

@@ -28,7 +28,7 @@ You should specify this information while answering catalog item questions.
 
 Using the **Enable also request for** field of the Requested For variable, you can request a catalog item for different users under one request.
 
-For information about delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+For information about delegated request experience, see [Delegated request experience](delegated-request-exp.md).
 
 **Important:**
 

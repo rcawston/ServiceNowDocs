@@ -41,12 +41,12 @@ When embedding the form in your service portal, note the following points:
 
 -   Use the following URL format to embed the service portal page for submitting IT service requests: `https://<instance name>.service-now.com/emr-assist?id=emr_assist_home_page&sysparm_source=*source\_name*`.
 
-    For *source\_name*, provide the parameter defined in the request parameter. For more information, see [Configure request parameters for EMR systems](../task/configure-emr-help-req-parm.md).
+    For *source\_name*, provide the parameter defined in the request parameter. For more information, see [Configure request parameters for EMR systems](configure-emr-help-req-parm.md).
 
 -   You can also append any EMR variables to the service portal page URL by using the following format: `https://<instance name>.service-now.com/emr-assist?id=emr_assist_home_page&sysparm_source=*source\_name*&*var1\_id=Value1*&*var2\_id=Value2*`.
 
     For example, `https://<instance name>.service-now.com/emr-assist?id=emr_assist_home_page&sysparm_source=epic&sysparm_ws=Workstation&sysparm_ws=En​vironment`.
 
-    **Note:** EMR variables include workstation ID, server, patient medical record number \(MRN\), and others. You define the EMR variables as task parameters. The EMR variable values are automatically populated, if configured to be displayed on the EMR system help form. For more information, see [Configure request parameters for EMR systems](../task/configure-emr-help-req-parm.md).
+    **Note:** EMR variables include workstation ID, server, patient medical record number \(MRN\), and others. You define the EMR variables as task parameters. The EMR variable values are automatically populated, if configured to be displayed on the EMR system help form. For more information, see [Configure request parameters for EMR systems](configure-emr-help-req-parm.md).
 
 

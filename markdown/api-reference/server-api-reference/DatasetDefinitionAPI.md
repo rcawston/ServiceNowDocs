@@ -17,16 +17,16 @@ The DatasetDefinition API provides methods to identify a set of records includin
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace. For information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md).
 
-Use the dataset to estimate mutual information [PredictabilityEstimate](../../PredictabilityEstimate/concept/PredictabilityEstimateAPI.md#) or train data specified by an [Encoder](../../Encoder/concept/EncoderAPI.md#). You can also use the dataset to train data specified by one of the following solution types:
+Use the dataset to estimate mutual information [PredictabilityEstimate](PredictabilityEstimateAPI.md#) or train data specified by an [Encoder](EncoderAPI.md#). You can also use the dataset to train data specified by one of the following solution types:
 
--   [ClassificationSolution](../../ClassificationSolution/concept/ClassificationSolutionAPI.md#)
--   [ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)
--   [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [ClassificationSolution](ClassificationSolutionAPI.md#)
+-   [ClusteringSolution](ClusteringSolutionAPI.md#)
+-   [RegressionSolution](RegressionSolutionAPI.md#)
+-   [SimilaritySolution](SimilaritySolutionAPI.md#)
 
 For usage guidelines, refer to [Using ML APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/using-ml-apis.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DatasetDefinition - DatasetDefinition\(Object\)
 

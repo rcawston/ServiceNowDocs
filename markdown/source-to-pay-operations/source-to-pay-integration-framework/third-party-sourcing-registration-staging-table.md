@@ -20,7 +20,7 @@ The Third Party Sourcing Registration \[sn\_spend\_intg\_sourcing\_vendor\] tabl
 |Third-party sourcing registration name|String|Name of the third-party sourcing registration to be integrated with ServiceNow.|
 |Third-party sourcing registration code|String|User defined code to be associated to the third-party sourcing registration.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

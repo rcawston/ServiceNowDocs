@@ -147,5 +147,5 @@ The data model for the employee travel request application is complete.
 
 ## What to do next
 
-Continue building the employee travel request application by proceeding to the next step in the app creation tutorial: [Creating user experiences](../concept/app-tutorial-experience-layer.md).
+Continue building the employee travel request application by proceeding to the next step in the app creation tutorial: [Creating user experiences](app-tutorial-experience-layer.md).
 

@@ -153,18 +153,18 @@ Depending on the value of the **Include consumables** field, the default selecti
 
 Depending on the selected scan method for the audit record, you can scan the assets in the inventory using the ServiceNow Agent app.
 
--   To complete asset scanning for the single scan audit record, see [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app-eam.md).
--   To complete asset scanning for multi scan audit records, see [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md).
+-   To complete asset scanning for the single scan audit record, see [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](scan-assets-agent-app-eam.md).
+-   To complete asset scanning for multi scan audit records, see [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app-eam.md).
 
 </td></tr></tbody>
-</table>**Note:** The audit result fields such as **Expected**, **Not expected and location corrected**, **Missing**, **New**, and **Excluded from licensing** can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For more information about scanning assets, see [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app-eam.md) and [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md).
+</table>**Note:** The audit result fields such as **Expected**, **Not expected and location corrected**, **Missing**, **New**, and **Excluded from licensing** can't be edited. When the asset is scanned in the inventory using the ServiceNow Agent app, values are automatically updated in these fields. For more information about scanning assets, see [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](scan-assets-agent-app-eam.md) and [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app-eam.md).
 
-**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 
@@ -206,7 +206,7 @@ Depending on the selected scan method for the audit record, you can scan the ass
 
 [Audit results](audit-results-eam.md)
 
-[Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app-eam.md)
+[Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](scan-assets-agent-app-eam.md)
 
-[Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
+[Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 

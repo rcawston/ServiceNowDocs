@@ -25,11 +25,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Case create component instance](../task/config-case-create-component-on-instance.md)
+[Configure the Case create component instance](customer-self-service-and-omnichannel-engagement/config-case-create-component-on-instance.md)
 
-[Embed the Case create component instance on the third-party website](../task/embed-case-create-component-on-third-party-website.md)
+[Embed the Case create component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-case-create-component-on-third-party-website.md)
 
 [Component properties for the Case create](comp-properties-case-create.md)
 
-[Sample code for the Case create component](we-case-create-sample-code.md)
+[Sample code for the Case create component](customer-self-service-and-omnichannel-engagement/we-case-create-sample-code.md)
 

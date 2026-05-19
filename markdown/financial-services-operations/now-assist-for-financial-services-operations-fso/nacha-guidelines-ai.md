@@ -23,7 +23,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent\_connector, sn\_bom\_credit\
 
 This agent verifies if a disputed transaction meets established Nacha standardized rules and timelines from a knowledge article, then provides an eligibility recommendation for the dispute.
 
-**Note:** This agent uses the knowledge article to evaluate the Nacha operating guidelines. The knowledge article is installed as part of the Nacha dispute content pack. For more information, see [Using Dispute Rules Content Pack for Nacha](../../dispute-content-pack-for-nacha/task/dispute-rules-content-pack-nacha-use.md). To enable this capability, make sure that the AI Search option is turned on.
+**Note:** This agent uses the knowledge article to evaluate the Nacha operating guidelines. The knowledge article is installed as part of the Nacha dispute content pack. For more information, see [Using Dispute Rules Content Pack for Nacha](../dispute-management/dispute-rules-content-pack-nacha-use.md). To enable this capability, make sure that the AI Search option is turned on.
 
 ## Procedure
 
@@ -53,7 +53,7 @@ This agent verifies if a disputed transaction meets established Nacha standardiz
 
     **Note:** If the dispute agent disagrees with the analysis, then a rationale is prompted by the AI agent for the disagreement. On providing a valid rationale, the task proceeds to the next task.
 
-    For information about Nacha operating guidelines in ACH disputes, see [Evaluate Nacha operating guidelines](../../fso-card-operations/task/fso-ach-evaluate-nacha.md)
+    For information about Nacha operating guidelines in ACH disputes, see [Evaluate Nacha operating guidelines](../dispute-management/fso-ach-evaluate-nacha.md)
 
     **Note:** You can also access the recommendation for the Nacha operating guidelines as follows.
 

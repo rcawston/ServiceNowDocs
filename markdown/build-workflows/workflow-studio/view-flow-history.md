@@ -40,5 +40,5 @@ The sidebar view displays a list of flow history entries.
 
 You can annotate, copy, remove, or restore flow history entries.
 
-**Parent Topic:**[Flow history](../concept/flow-history.md)
+**Parent Topic:**[Flow history](flow-history.md)
 

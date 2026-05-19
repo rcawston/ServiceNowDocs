@@ -35,5 +35,5 @@ Role required: wm\_dispatcher, wm\_manager, wm\_admin
 **Related topics**  
 
 
-[Set technician preferences for tasks](assign-preferred-agents-tasks.md)
+[Set technician preferences for tasks](../work-order-management/assign-preferred-agents-tasks.md)
 

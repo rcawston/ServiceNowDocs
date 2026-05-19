@@ -60,7 +60,7 @@ Incident
 -   Priority
 -   Short description
 -   Description
- For more information, see [Integration with Incident Management](../../field-service-management/concept/incident-for-fsm.md).
+ For more information, see [Integration with Incident Management](../field-service-integrations/incident-for-fsm.md).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Change
 -   Priority
 -   Short description
 -   Description
- For more information, see [Integration with Change Management](../../field-service-management/concept/change-for-fsm.md).
+ For more information, see [Integration with Change Management](../field-service-integrations/change-for-fsm.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Project task**Note:** Before work orders can be created from project tasks, Fiel
 -   State
 -   Scheduled start
 -   Estimated end
- For more information about the synchronized fields, see [Integration with Project Portfolio Management](../../field-service-management/concept/project-management-integration.md).
+ For more information about the synchronized fields, see [Integration with Project Portfolio Management](../field-service-integrations/project-management-integration.md).
 
 </td></tr></tbody>
 </table>    Work orders can be filtered based on different attributes, such as qualification group, location, initiated from, priority, state, and so on. This help to create a group of similar work orders.

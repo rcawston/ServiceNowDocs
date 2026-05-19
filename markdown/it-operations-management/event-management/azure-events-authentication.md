@@ -135,5 +135,5 @@ Ensure that `<tenant-id>` is replaced with the correct Azure Tenant ID.
 
 When an alert is created in Azure Monitor as part of the alert rule, the notification is sent to the ServiceNow AI Platform using the secure webhook endpoint. In your ServiceNow AI Platform instance, navigate to **All Events** to see the events. If you want to send alert state changes on the ServiceNow instance from the ServiceNow alerts to the Azure Portal, you need to enable the Azure Monitor Bi-directional connector. For more information, see [Configure Azure Monitor Bi-directional connector](configure-azure-bi-directional-connector.md).
 
-**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](../concept/azure-integration.md)
+**Parent Topic:**[Integrate Azure Monitor as an authenticated data source](azure-integration.md)
 

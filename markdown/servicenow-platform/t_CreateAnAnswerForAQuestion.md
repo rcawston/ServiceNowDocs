@@ -30,12 +30,12 @@ When you create a question with one of these data types, the Assessment Metric D
 3.  Set the order in which the answers appear in the quiz by providing a hierarchical number in the **Value** field.
 
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+[Create quizzes with forms](c_CreateQuizzesWithForms.md)
 
 [Create a quiz](t_CreateaQuiz.md)
 
@@ -43,7 +43,7 @@ When you create a question with one of these data types, the Assessment Metric D
 
 [Select a user for a category](t_SelectAUserForACategory.md)
 
-[Data types for quizzes](../reference/r_AvailableDataTypes.md)
+[Data types for quizzes](r_AvailableDataTypes.md)
 
 [Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)
 

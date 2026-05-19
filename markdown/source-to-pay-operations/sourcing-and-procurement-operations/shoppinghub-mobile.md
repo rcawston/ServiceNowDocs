@@ -17,7 +17,7 @@ The ServiceNow Shopping Hub Mobile app enables you to engage with procurement or
 
 To access Shopping Hub Mobile from your mobile device, you must first download the Now Mobile application on an iOS platform from the Apple App Store or on an Android platform from the Google Play Store.
 
-For more information on installing Shopping Hub Mobile, see [Install ShoppingHub Mobile](../task/install-shoppinghub-mobile.md).
+For more information on installing Shopping Hub Mobile, see [Install ShoppingHub Mobile](install-shoppinghub-mobile.md).
 
 Shoppers can use Shopping Hub Mobile to complete to-dos assigned to them, view, track, and revise their purchases, request for products or services that they don't see listed on the ShoppingHub portal, and submit quotes from vendors for review by the procurement team.
 
@@ -37,7 +37,7 @@ As a shopper, you can view all the purchases you made from your shopping account
 
 [Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 
 [Procurement Case Management](psd-overview.md)
 
@@ -51,5 +51,5 @@ As a shopper, you can view all the purchases you made from your shopping account
 
 [AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](application-plugin-list.md)
 

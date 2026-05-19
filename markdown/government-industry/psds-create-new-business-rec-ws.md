@@ -31,7 +31,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 6.  Select **Create Business** and fill in the fields.
 
-    For more information on the fields, see [Business Profile form](../reference/business-profile-form.md).
+    For more information on the fields, see [Business Profile form](business-profile-form.md).
 
 7.  Select **Submit**.
 

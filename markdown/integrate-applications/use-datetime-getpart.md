@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetPart component. For more information about these properties, see [Properties of the DateTime components](../reference/util-datetime-prop.md).
+You can configure the properties for the GetPart component. For more information about these properties, see [Properties of the DateTime components](util-datetime-prop.md).
 
 ## Procedure
 
@@ -103,5 +103,5 @@ String
 
 ![GetPart component gets a part of the date using Now component as the source date.](../image/getpart-datetime-rpa.png "GetPart component")
 
-**Parent Topic:**[DateTime](../concept/datetime-utility.md)
+**Parent Topic:**[DateTime](datetime-utility.md)
 

@@ -30,11 +30,11 @@ The trending case topics feature requires the Predictive Intelligence for CSM \(
 **Related topics**  
 
 
-[Configure trending case topics](../task/configure-trending-topics.md)
+[Configure trending case topics](configure-trending-topics.md)
 
-[View trending case topics](../task/view-trending-case-topics.md)
+[View trending case topics](view-trending-case-topics.md)
 
-[Add trending case topics to existing major cases](../task/trending-case-topics-mim.md)
+[Add trending case topics to existing major cases](trending-case-topics-mim.md)
 
-[Create major cases for trending case topics](../task/major-cases-trending-topics.md)
+[Create major cases for trending case topics](major-cases-trending-topics.md)
 

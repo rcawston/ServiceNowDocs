@@ -41,7 +41,7 @@ When a technical user tries to either upload a ZIP file or provide a URL when ge
 
     -   Current Instance \(shows by default\): The logged-in user must have the rpa\_developer role, and the current instance must have app-rpa-foundation version 15.0.0 or later.
     -   Remote Instance \(Configured via Connection and Credentials alias\) - The user with whom the credentials are associated must have the rpa\_developer role and the remote instance must have app-rpa-foundation version 15.0.0 or later.
-    For information on how to configure an instance, see [Configure an instance for migration](../task/config-instance.md).
+    For information on how to configure an instance, see [Configure an instance for migration](config-instance.md).
 
 7.  Select **Continue**.
 
@@ -58,7 +58,7 @@ For every migrated automation, an automation request is created.
 
 The automation conversion depends on the complexity of the automation. The more complex the automation, the lower the conversion rate. All manual tasks that are required to convert the automation completely must be done on the target instance.
 
--   **[Configure an instance for migration](../task/config-instance.md)**  
+-   **[Configure an instance for migration](config-instance.md)**  
 Configure an instance to migrate your automations.
 
 **Parent Topic:**[Migrating automations from UiPath to ServiceNow RPA Hub](migrating-automations-from-uipath.md)

@@ -45,5 +45,5 @@ If you do not configure the scheduled job, you must manually discover projects a
 6.  Repeat the procedure for the other two scheduled jobs.
 
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)
 

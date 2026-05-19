@@ -46,7 +46,7 @@ JSON formatted messages are collected using basic authentication. For details on
 
 Create an Remote Function Call \(RFC\) in the SAP Solution Manager and install a transport, as described in [Configure RFC in SAP Solution Manager](configure-sap-solution-mgr.md).
 
-**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](../concept/sap-manager-connector.md)
+**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](sap-manager-connector.md)
 
 **Related topics**  
 

@@ -25,7 +25,7 @@ Each App details page shows if the app was created in Creator Studio or created 
 
 Only apps created in Creator Studio can be edited in Creator Studio. This is because only a subset of the metadata supported in ServiceNow Studio is supported in Creator Studio.
 
-You can open your app in Creator Studio by selecting the more options icon ![more options icon](../image/sn-studio-more-options-icon.png) on the Navigator panel or the App details page and selecting **Open with Creator Studio**. For more information, see [Building apps with Creator Studio](../../creator-studio/concept/building-apps-with-creator-studio.md).
+You can open your app in Creator Studio by selecting the more options icon ![more options icon](../image/sn-studio-more-options-icon.png) on the Navigator panel or the App details page and selecting **Open with Creator Studio**. For more information, see [Building apps with Creator Studio](../creator-studio/building-apps-with-creator-studio.md).
 
 ![Option to open the current app in Creator Studio from the Navigator panel.](../image/sn-studio-open-in-crs.png)
 
@@ -37,7 +37,7 @@ Apps created in ServiceNow IDE can be edited in ServiceNow Studio.
 
 **Important:** However, you cannot make changes to a Fluent app in ServiceNow Studio and deploy from ServiceNow Studio. Apps created in ServiceNow IDE or converted to Fluent must be deployed using the ServiceNow IDE.
 
-When you see the **Fluent** badge on an app, follow the normal app deployment process used in the ServiceNow IDE. For more information, see [Developing applications with the ServiceNow IDE](../../servicenow-ide/concept/developing-applications-servicenow-ide.md).
+When you see the **Fluent** badge on an app, follow the normal app deployment process used in the ServiceNow IDE. For more information, see [Developing applications with the ServiceNow IDE](../servicenow-ide-family-release/developing-applications-servicenow-ide.md).
 
 ## Accessing apps using filters
 
@@ -49,5 +49,5 @@ For more filtering options, select **Open list**. Use the classic UI16 list sort
 
 ![In the IDE Created column, find information about which environment your app was created in. This image shows two apps created in Creator Studio and two in ServiceNow Studio.](../image/sn-studio-ide-created.png)
 
-**Parent Topic:**[Change your development experience in ServiceNow Studio](../task/change-your-development-experience.md)
+**Parent Topic:**[Change your development experience in ServiceNow Studio](change-your-development-experience.md)
 

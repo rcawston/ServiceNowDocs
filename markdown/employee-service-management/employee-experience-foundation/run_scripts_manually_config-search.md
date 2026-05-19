@@ -76,7 +76,7 @@ Your existing portal is updated to the latest Employee Center portal that uses u
 
 Configure AI search to align with curated experience. For more information, see [AI Search for Curated Experiences](align-search-for-curated-exp.md).
 
-**Parent Topic:**[Post installation troubleshooting](../concept/post-install-steps.md)
+**Parent Topic:**[Post installation troubleshooting](post-install-steps.md)
 
 **Related topics**  
 

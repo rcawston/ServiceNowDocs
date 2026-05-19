@@ -20,11 +20,11 @@ By default, alerts are bound to CIs by matching the node value in the alert with
 This allows for two scenarios:
 
 1.  When Binding Type = CI Field Matching
-    -   If the CI is a host, the Node is required for binding. For more information, see [Bind host CIs using CI field matching](../task/ci-matching-ci-is-host.md).
-    -   If the CI is not a host, the Node must be empty. For more information, see [Bind non-host CIs using CI field matching](../task/ci-matching-ci-non-host.md).
-2.  When Binding Type = CI Identification. For more information, see [Bind alerts to CIs using CI identification](../task/bind-alerts-CI-app-host-monitoring.md).
+    -   If the CI is a host, the Node is required for binding. For more information, see [Bind host CIs using CI field matching](ci-matching-ci-is-host.md).
+    -   If the CI is not a host, the Node must be empty. For more information, see [Bind non-host CIs using CI field matching](ci-matching-ci-non-host.md).
+2.  When Binding Type = CI Identification. For more information, see [Bind alerts to CIs using CI identification](bind-alerts-CI-app-host-monitoring.md).
 
 This flexibility ensures alerts are linked correctly based on specific business needs.
 
-**Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](../../service-operations-workspace-itom/task/enrich-alert-sow-itom.md).
+**Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](../service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 

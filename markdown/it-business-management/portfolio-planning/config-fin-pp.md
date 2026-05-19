@@ -23,15 +23,15 @@ Role required: admin
 
 1.  Configure the attributes to generate labor costs in financials based on the resource assignments on the work items.
 
-    For more information, see [Using the Planning attributes](../../project-management/concept/planning-attributes.md) and [Create or edit planning attributes](../../project-management/task/configure-planning-attributes.md#).
+    For more information, see [Using the Planning attributes](../project-management/planning-attributes.md) and [Create or edit planning attributes](../project-management/configure-planning-attributes.md#).
 
 2.  Generate default mapping configurations to create table maps.
 
-    For more information, see [Generate default mapping configurations](../../apw-internal-integrations/task/generate-default-mapping-configurations.md).
+    For more information, see [Generate default mapping configurations](../scenario-planning-in-spw/generate-default-mapping-configurations.md).
 
 3.  Create new widgets to view the rolled up financial data at planning item level.
 
-    For more information, see [Configure a widget and associate it with project](../../spw-financials/task/configure-financial-widgets.md).
+    For more information, see [Configure a widget and associate it with project](../scenario-planning-in-spw/configure-financial-widgets.md).
 
 4.  Customize the left pane in the financials screen to match the requirements of your organization.
 
@@ -55,7 +55,7 @@ Role required: admin
 
 9.  Define a custom prefix for your baseline name.
 
-    For more information, see [Create a custom prefix for baseline](../../spw-financials/task/fin-config-baseline-prefix.md).
+    For more information, see [Create a custom prefix for baseline](../scenario-planning-in-spw/fin-config-baseline-prefix.md).
 
 10. Activate and define a scheduled job to migrate budget for your planning items.
 

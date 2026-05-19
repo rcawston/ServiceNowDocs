@@ -21,15 +21,15 @@ To set up multiple levels of approvals in your business impact analysis and busi
 
 **Note:**
 
-For more information on the roles in the Business Continuity Management application, see [Components installed with Business Continuity Management](../reference/installed-with-bcm.md#).
+For more information on the roles in the Business Continuity Management application, see [Components installed with Business Continuity Management](installed-with-bcm.md#).
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](grc-common-functions/roles-installed-with-approver-configurator.md).
 
--   **[Set up approval configuration](../task/setup-bcm-approval-configurator.md)**  
+-   **[Set up approval configuration](setup-bcm-approval-configurator.md)**  
 Set up approval configuration to enable multiple levels of approvals and select approvers for each level based on approval rules.
--   **[Set up approval levels](../task/setup-bcm-approval-levels.md)**  
+-   **[Set up approval levels](setup-bcm-approval-levels.md)**  
 Assign multiple levels of approvals to users or groups to support each step of your BIA, BCP, or events workflow processes.
--   **[Set up approval rules](../task/setup-bcm-approval-rules.md)**  
+-   **[Set up approval rules](setup-bcm-approval-rules.md)**  
 Set up rules for approvals at each approval level by selecting an approver type and the requirement of approval from either one or all the stakeholders. Define filter conditions on the source table to which the approval rule is applied.
 
 **Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)

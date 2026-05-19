@@ -20,9 +20,9 @@ Learn more about the Legal Conflict of Interest application through a sample wor
 
 The ServiceNow® Legal Conflict of Interest enables you to manage the disclosure, approval, and registry of conflict of interest that might arise from employees having competing interests or loyalties. Employees can submit disclosures using the conversational interface of Now Assist in Virtual Agent or intake form available in the Employee Center. The Requests are evaluated against predefined risk factors to calculate an overall risk score. Based on this score, requests are routed to the appropriate approval workflow for faster resolution.
 
-**Note:** The conversational intake functionality is available only when you have installed and configured Legal Service Delivery - Prime that is a paid application. For more information, see [Now Assist for Legal Service Delivery \(LSD\)](../../legal-request-management/concept/now-assist-lsd-landing.md).
+**Note:** The conversational intake functionality is available only when you have installed and configured Legal Service Delivery - Prime that is a paid application. For more information, see [Now Assist for Legal Service Delivery \(LSD\)](../now-assist-for-legal-service-delivery/now-assist-lsd-landing.md).
 
-For more information on how to submit the requests using the two methods, see [Submit COI request form Employee Center](../task/submit-coi-disclosure-request.md) and [Submit COI request using Now Assist conversational intake](../../legal-request-management/task/now-assist-lsd-convi.md)
+For more information on how to submit the requests using the two methods, see [Submit COI request form Employee Center](submit-coi-disclosure-request.md) and [Submit COI request using Now Assist conversational intake](../now-assist-for-legal-service-delivery/now-assist-lsd-convi.md)
 
 ## Risk assessment
 
@@ -44,7 +44,7 @@ The risk assessment process generates a report that provides legal fulfillers vi
 
 A notification is sent to the requesters before the expiry of the validity of their COI disclosure records. If the requesters need an extension, they should review and resubmit a request to get the legal clearance for the extended period.
 
-For more information, see [Configure risk assessment](../task/lsd-coi-config-risk-fac.md).
+For more information, see [Configure risk assessment](lsd-coi-config-risk-fac.md).
 
 ## Approval workflow
 
@@ -59,7 +59,7 @@ The administrator can modify the approval flow in the following ways:
 -   Change the number of levels of approval required.
 -   Add or modify approvers or approver groups at each level of approval.
 
-For more information, see [Configure flows for Legal Conflict of Interest](../task/configure-coi-flow-designer-flows.md).
+For more information, see [Configure flows for Legal Conflict of Interest](configure-coi-flow-designer-flows.md).
 
 ## Legal Conflict of Interest users
 
@@ -99,7 +99,7 @@ Submit COI request using natural language from the conversational interface of N
 
 </td><td>
 
-[Submit COI request using Now Assist conversational intake](../../legal-request-management/task/now-assist-lsd-convi.md)
+[Submit COI request using Now Assist conversational intake](../now-assist-for-legal-service-delivery/now-assist-lsd-convi.md)
 
 </td><td>
 
@@ -111,7 +111,7 @@ Submit COI request from the Employee Center
 
 </td><td>
 
-[Submit COI request form Employee Center](../task/submit-coi-disclosure-request.md)
+[Submit COI request form Employee Center](submit-coi-disclosure-request.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Risk assessment with configurable risk factors and score to automate approval wo
 
 </td><td>
 
-[Configure risk assessment](../task/lsd-coi-config-risk-fac.md)
+[Configure risk assessment](lsd-coi-config-risk-fac.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Risk assessment reports with detailed scoring and analysis enable legal fulfille
 
 </td><td>
 
-[View risk assessment details](../task/lsd-coi-view-risk-asmt-dets.md)
+[View risk assessment details](lsd-coi-view-risk-asmt-dets.md)
 
 </td><td>
 
@@ -147,7 +147,7 @@ Configurable approval flows in accordance with the organization's Conflict of In
 
 </td><td>
 
-[Configure flows for Legal Conflict of Interest](../task/configure-coi-flow-designer-flows.md)
+[Configure flows for Legal Conflict of Interest](configure-coi-flow-designer-flows.md)
 
 </td><td>
 
@@ -160,5 +160,5 @@ To learn more about configuring and using Legal Conflict of Interest, see:
 
 -   [Configure Legal Conflict of Interest](legal-coi-administration.md)
 -   [Using Legal Conflict of Interest](lsd-coi-use-landing.md)
--   [Legal Conflict of Interest reference](../reference/legal-coi-reference.md)
+-   [Legal Conflict of Interest reference](legal-coi-reference.md)
 

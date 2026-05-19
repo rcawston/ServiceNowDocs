@@ -25,7 +25,7 @@ Care Team Work Management streamlines operational task creation, assignment, and
 
 </td><td>
 
-[Use the Operational Rounding playbook![](../../../reuse/icons/brand-icons/bus-task-list.svg)Define the repeatable tasks and records that need to be created for care team work.](../task/ctwm-operational-rounding-playbook.md)
+[Use the Operational Rounding playbook![](../../../reuse/icons/brand-icons/bus-task-list.svg)Define the repeatable tasks and records that need to be created for care team work.](ctwm-operational-rounding-playbook.md)
 
 </td></tr><tr><td>
 

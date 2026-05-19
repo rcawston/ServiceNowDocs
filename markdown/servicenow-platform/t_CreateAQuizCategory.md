@@ -49,7 +49,7 @@ When you create a quiz, the system creates a default category using the name of 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 
 [Create a quiz](t_CreateaQuiz.md)
 

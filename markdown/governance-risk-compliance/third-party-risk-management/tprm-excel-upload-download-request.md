@@ -33,7 +33,7 @@ Use the Excel download/upload requests module in Digital resilience third-party 
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](tprm-excel-upload-download-req.md).
 
 4.  Select **Save**.
 
@@ -66,7 +66,7 @@ When making a download request for records related to Assessments, Branches, Con
 When making a download request for a Excel master template record, select **Export to Info Register** to export contract records you want as an Microsoft Excel file.
 
 </td></tr></tbody>
-</table>    For information on Register of information regulatory packages, see [Register of information regulatory packages](../concept/tprm-dora-roi.md), [Generate a register of information package](tprm-drtp-roi-packages.md), [Validation framework for Register of Information](../concept/tprm-validation-roi.md), and [Validate Register of Information packages](tprm-valid-dora.md).
+</table>    For information on Register of information regulatory packages, see [Register of information regulatory packages](tprm-dora-roi.md), [Generate a register of information package](tprm-drtp-roi-packages.md), [Validation framework for Register of Information](tprm-validation-roi.md), and [Validate Register of Information packages](tprm-valid-dora.md).
 
 6.  Add the name that you want for the Microsoft Excel file and select **Save**.
 

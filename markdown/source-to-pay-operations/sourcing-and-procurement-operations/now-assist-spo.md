@@ -23,7 +23,7 @@ Use the ServiceNow® Now Assist for Sourcing and Procurement Operations \(SPO\) 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SPO application to get started](../task/configure-now-assist-for-spo.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SPO application to get started](configure-now-assist-for-spo.md)
 
 </td><td>
 

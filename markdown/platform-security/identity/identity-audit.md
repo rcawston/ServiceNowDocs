@@ -23,9 +23,9 @@ Use the Identity and Access Audit to understand changes made to users, groups, r
 
 </td><td>
 
-[Configure![Use](../../../common/image/icon-set-up.png)](../task/configure-tables-and-fields.md)
+[Configure![Use](../../../common/image/icon-set-up.png)](configure-tables-and-fields.md)
 
- [Understand how to configure Identity and Access Audit.](../task/configure-tables-and-fields.md)
+ [Understand how to configure Identity and Access Audit.](configure-tables-and-fields.md)
 
 </td></tr><tr><td>
 

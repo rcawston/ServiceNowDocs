@@ -26,7 +26,7 @@ Starting with the Zurich release, the **sn\_customerservice.advanced\_entitlemen
 -   If set to true, the Case Entitlements related list is visible on the Case form and the **Entitlement** field is hidden. Agents can use this list to associate multiple entitlements to the case.
 -   If set to false, the **Entitlement** field is visible on the Case form and the Case Entitlements related list is hidden. Agents can use this field to associate one entitlement to the case.
 
-For more information, see [Properties installed with Customer Service Management](../reference/r_PropInstallWcustServ.md).
+For more information, see [Properties installed with Customer Service Management](r_PropInstallWcustServ.md).
 
 ## Procedure
 

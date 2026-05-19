@@ -40,12 +40,12 @@ Service groups are a way to organize and group services based on the application
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 
 **Related topics**  
 
 
 [Assign a role to a service group](t_EMAssignRoleSvcGroup.md)
 
-[Group application services](../../service-mapping/task/organizing_services-into-groups.md)
+[Group application services](../service-mapping/organizing_services-into-groups.md)
 

@@ -144,5 +144,5 @@ There are different methods followed for closing the alerts in Proactive Engagem
 -   Devices: Alerts generated from Metric rule triggered for devices, are closed once Proactive Engagement helps the impacted users to successfully resolve their issue.
 -   Applications: Alerts generated from Metric rule triggered for applications are not closed.
 
-**Parent Topic:**[Using Proactive Engagement](../using-proactive-engagement.md)
+**Parent Topic:**[Using Proactive Engagement](using-proactive-engagement.md)
 

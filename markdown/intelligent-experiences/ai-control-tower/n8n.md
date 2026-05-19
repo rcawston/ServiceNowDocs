@@ -34,5 +34,5 @@ Roles required in the ServiceNow environment:
 
 ## Prerequisites from n8n
 
-Create a n8n API key using your n8n instance. For creating a n8n API Key, see [Create an API Key in n8n environment](../task/create-a-api-key-for-n8n.md)
+Create a n8n API key using your n8n instance. For creating a n8n API Key, see [Create an API Key in n8n environment](create-a-api-key-for-n8n.md)
 

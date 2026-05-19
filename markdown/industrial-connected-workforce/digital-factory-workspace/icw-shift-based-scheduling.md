@@ -56,7 +56,7 @@ Shift-based scheduling includes automated task lifecycle management to ensure da
 
 Make sure you have set up the following prerequisites before using shift-based scheduling:
 
--   Industrial shift configurations are defined for the functional location associated with the manufacturing standard. For more information about configuring shifts, see [Define a shift](../task/define-shifts.md).
+-   Industrial shift configurations are defined for the functional location associated with the manufacturing standard. For more information about configuring shifts, see [Define a shift](define-shifts.md).
 -   The site location record linked to the functional location has a timezone defined.
 -   The manufacturing standard is published and is associated with a functional location that has shift configurations.
 
@@ -76,5 +76,5 @@ With shift-based scheduling, you may be able to complete the same scheduling in 
 
 The system automatically generates inspection tasks for each shift on each scheduled day. Tasks are released at the start of each shift and expire at the end of the shift window if not completed.
 
-**Parent Topic:**[Exploring Industrial Standards](../reference/industrial-standards-landing-page.md)
+**Parent Topic:**[Exploring Industrial Standards](industrial-standards-landing-page.md)
 

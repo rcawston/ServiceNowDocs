@@ -107,5 +107,5 @@ Document Intelligence for Customer Service performs a series of steps to extract
 
 [Configure Document Intelligence for Customer Service](csm-doc-intel-configuring-.md)
 
-[Review and submit values predicted by Document Intelligence](../task/csm-doc-intel-review-values.md)
+[Review and submit values predicted by Document Intelligence](csm-doc-intel-review-values.md)
 

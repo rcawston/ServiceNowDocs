@@ -39,5 +39,5 @@ The following properties can be enabled for added controls over CSRF token:
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Authentication](../../security-center/reference/sc-authentication.md)
+**Parent Topic:**[Authentication](sc-authentication.md)
 

@@ -27,7 +27,7 @@ The following items are installed with Opportunity Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Opportunity Management](../reference/components-installed-opportunity-management.md).
+For more information, see [Components installed with Opportunity Management](components-installed-opportunity-management.md).
 
 ## Procedure
 

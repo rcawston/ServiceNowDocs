@@ -33,7 +33,7 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 4.  On the Action form, fill in the fields.
 
-    For a description of the field names, see [Action form](../reference/action-form.md).
+    For a description of the field names, see [Action form](action-form.md).
 
 5.  If the action requires approval from other stakeholders, request approval with a due date using the **Approval** and **Due date** fields.
 
@@ -45,5 +45,5 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 -   Convert an action to a request change and close the action. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](convert-ridac-for-demand.md).
 -   Associate the action with your existing risk, issue, and decision records so you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 

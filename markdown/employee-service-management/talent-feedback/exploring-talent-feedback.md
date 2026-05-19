@@ -69,7 +69,7 @@ Easier and efficient way to request skill feedback from employees.
 
 </td><td>
 
-[Request skill feedback](../task/request-skill-feedback.md)
+[Request skill feedback](request-skill-feedback.md)
 
 </td><td>
 
@@ -81,9 +81,9 @@ Request feedback from various views of skills, helping you understand the skill 
 
 </td><td>
 
--   [Request feedback from skill distribution](../task/request-feedback-skill-distribution.md)
--   [Request skill feedback from skill expectations](../task/request-fdbk-skill-expectations.md)
--   [Request skill feedback](../task/request-skill-feedback-widget.md)
+-   [Request feedback from skill distribution](request-feedback-skill-distribution.md)
+-   [Request skill feedback from skill expectations](request-fdbk-skill-expectations.md)
+-   [Request skill feedback](request-skill-feedback-widget.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ View and submit skill feedback for other employees or decline any feedback reque
 </td><td>
 
 -   [View skill feedback submitted](view-skill-feedback.md)
--   [Decline a feedback request](../task/accept-deny-feedback.md)
+-   [Decline a feedback request](accept-deny-feedback.md)
 
 </td><td>
 
@@ -105,11 +105,11 @@ Employee
 </td></tr></tbody>
 </table>## Talent Feedback requires the following related applications
 
--   **[Skills Foundation](../../skills-intelligence/concept/skills-intelligence.md)**
+-   **[Skills Foundation](../talent-development-core/skills-intelligence.md)**
 
     The ServiceNow® Skills Foundation application is an AI-driven platform that you can use in your organization to develop a workforce that is based on skills.
 
--   **[Manager Hub](../../human-resources/concept/manager-hub-overview.md)**
+-   **[Manager Hub](../hr-service-delivery/manager-hub-overview.md)**
 
     The ServiceNow® Manager Hub increases a manager's self-service and proactive engagement with their team by providing insights and recommended actions for what's most urgent and important to drive team success. It enables managers to grow as leaders through curated and personalized resources.
 
@@ -120,5 +120,5 @@ To learn more about configuring and using Talent Feedback, see:
 
 -   [Configuring Talent Feedback](configuring-talent-feedback.md#)
 -   [Using Talent Feedback](using-talent-feedback.md)
--   [Talent Feedback reference](../reference/talent-feedback-reference.md)
+-   [Talent Feedback reference](talent-feedback-reference.md)
 

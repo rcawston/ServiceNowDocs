@@ -23,15 +23,15 @@ As a feature within Access Analyzer, you use access simulator to pre-validate th
 
 </td><td>
 
-[Use ![Evaluation](../../../common/image/icon-manage.png)](../task/use-access-simulator.md)
+[Use ![Evaluation](../../../common/image/icon-manage.png)](use-access-simulator.md)
 
- [Understand how to use access simulator.](../task/use-access-simulator.md)
+ [Understand how to use access simulator.](use-access-simulator.md)
 
 </td></tr><tr><td>
 
-[Configure ![Use](../../../common/image/icon-set-up.png)](../task/configure-access-simulator.md)
+[Configure ![Use](../../../common/image/icon-set-up.png)](configure-access-simulator.md)
 
- [Know how to configure access simulator.](../task/configure-access-simulator.md)
+ [Know how to configure access simulator.](configure-access-simulator.md)
 
 </td><td>
 

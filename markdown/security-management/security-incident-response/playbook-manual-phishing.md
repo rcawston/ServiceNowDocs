@@ -34,12 +34,12 @@ Once you mark a task complete in a stage, you can move to the next task. You can
 
 After you complete all the tasks, you’re asked to review the details you entered in all the stages. You can choose to edit any field or click Finish to complete the process of creating the entitlement.
 
--   **[Create playbooks for Manual Phishing in Workflow Studio](../task/create-process-manual-phishing.md)**  
+-   **[Create playbooks for Manual Phishing in Workflow Studio](create-process-manual-phishing.md)**  
 Use these steps to create playbooks for Manual Phishing in Workflow Studio.
--   **[Using the Manual Phishing playbook](../task/using-manual-phishing-playbook.md)**  
+-   **[Using the Manual Phishing playbook](using-manual-phishing-playbook.md)**  
 Use these steps to learn how you can use the Manual Phishing playbook in the SIR Analyst Workspace and its capabilities.
 -   **[Workspace Playbook summary](sir-workspace-playbook-summary.md)**  
 The following describes the process summary.
 
-**Parent Topic:**[Process-based Playbooks](../../security-incident-response/concept/playbooks-process-based.md)
+**Parent Topic:**[Process-based Playbooks](playbooks-process-based.md)
 

@@ -64,5 +64,5 @@ Flow type
 Specifies whether the mapping is done from alignment to execution, execution to alignment, or both.Here, alignment implies Strategic Planning, and execution implies PPM, Agile Development 2.0, and SAFe applications.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Portfolio Planning](../../portfolio-planning/reference/form-field-information-for-portfolio-planning.md)
+</table>**Parent Topic:**[Form field information for Portfolio Planning](form-field-information-for-portfolio-planning.md)
 

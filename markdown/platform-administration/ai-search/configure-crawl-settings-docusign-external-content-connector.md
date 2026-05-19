@@ -89,5 +89,5 @@ The Docusign external content connector is updated with your modified crawl sett
 
 To retrieve content from your Docusign source system using your modified crawl settings, create and run a one-time content crawl for your Docusign external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Docusign external content connector](../concept/docusign-external-content-connector.md)
+**Parent Topic:**[Docusign external content connector](docusign-external-content-connector.md)
 

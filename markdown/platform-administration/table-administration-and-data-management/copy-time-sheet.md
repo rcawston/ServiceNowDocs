@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-You can also perform this task from the [Time Sheet Portal](../concept/worker-portal.md).
+You can also perform this task from the [Time Sheet Portal](worker-portal.md).
 
 ## Procedure
 

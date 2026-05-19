@@ -31,9 +31,9 @@ Breakdown relations also enable navigation between the elements of different fir
 
 More details about these cases for using breakdown relations are in the topics about creating breakdown relations.
 
--   **[Create a breakdown relation between breakdowns](../task/t_CreateABreakdownRelation.md)**  
+-   **[Create a breakdown relation between breakdowns](t_CreateABreakdownRelation.md)**  
 To set up navigation in a visualization between the elements of two breakdowns at the same level, create a breakdown relation between the breakdowns. A table must exist with fields that reference the records for both breakdowns.
--   **[Create relations between elements of one breakdown](../task/create-relation-btwn-bkdn-elements.md)**  
+-   **[Create relations between elements of one breakdown](create-relation-btwn-bkdn-elements.md)**  
 Use a breakdown relation to set up navigation on an Analytics Hub between a hierarchy of elements within the same breakdown. A field in the breakdown records must identify the hierarchical relationship of one record to another.
 
 **Parent Topic:**[Indicator breakdowns](c_CreatingBreakdowns.md)

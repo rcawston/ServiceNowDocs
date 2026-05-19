@@ -51,7 +51,7 @@ If severity isn't received in the payload, the default severity is Major, which 
 
 **Note:**
 
-To map hosts to the **cmdb\_ci\_vm\_object** record instead of **cmdb\_ci\_hardware**, enable the **Prometheus VM Binding** event rule created for Prometheus. For further information about event rules, see [Event rules](../concept/create-event-rules.md).
+To map hosts to the **cmdb\_ci\_vm\_object** record instead of **cmdb\_ci\_hardware**, enable the **Prometheus VM Binding** event rule created for Prometheus. For further information about event rules, see [Event rules](create-event-rules.md).
 
 **Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
 

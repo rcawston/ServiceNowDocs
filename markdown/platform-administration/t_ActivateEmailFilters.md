@@ -36,5 +36,5 @@ Role required: admin
 
 [Create an email filter](t_CreateAnEmailFilter.md)
 
-**Parent Topic:**[Activate email administration](../concept/activate-email-admin.md)
+**Parent Topic:**[Activate email administration](activate-email-admin.md)
 

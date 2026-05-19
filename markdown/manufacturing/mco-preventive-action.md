@@ -25,12 +25,12 @@ Role required: admin
 
 3.  On the Preventive Action form, fill in the fields.
 
-    For a description of the field values, see [Preventive action form](../reference/mco-preventive-action-form.md).
+    For a description of the field values, see [Preventive action form](mco-preventive-action-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for quality issues](../concept/mco-related-list-for-pqi.md)
+**Parent Topic:**[Related list for quality issues](mco-related-list-for-pqi.md)
 
 **Related topics**  
 

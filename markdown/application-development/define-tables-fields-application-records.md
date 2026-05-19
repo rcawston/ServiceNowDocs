@@ -23,7 +23,7 @@ You can use any combination of the following three methods to define your applic
 
 These concepts are explained in further detail in the App Engine Studio, Table Builder, and Table administration documentation.
 
--   **[Create a data model for your application](../../app-engine-studio/concept/add-data.md)**
+-   **[Create a data model for your application](app-engine-studio/add-data.md)**
 
     Add data to apps that you build in App Engine Studio.
 
@@ -31,7 +31,7 @@ These concepts are explained in further detail in the App Engine Studio, Table B
 
     Table administration currently contains more comprehensive functionality and options for managing tables.
 
--   **[Table Builder](../../../administer/form-builder/concept/tb-landing-page.md)**
+-   **[Table Builder](form-builder-glide-family-release/tb-landing-page.md)**
 
     Table Builder offers an intuitive way to visually build tables and forms in the ServiceNow AI Platform.
 

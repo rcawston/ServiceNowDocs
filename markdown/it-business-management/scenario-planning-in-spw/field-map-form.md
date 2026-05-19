@@ -66,5 +66,5 @@ Specifies whether the mapping is done from alignment to execution, execution to 
 </td></tr></tbody>
 </table>You can also create custom fields and map them to the required source fields as needed. For example, if you want to display the execution project number, you can create a custom field called 'Project number' in the Project planning item \[sn\_align\_core\_project\] table within the Portfolio Planning Core application scope. Then, map this field to the 'Number' field of the Project table \(pm\_project\) using the project field map.
 
-**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

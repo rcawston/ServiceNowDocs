@@ -346,5 +346,5 @@ Retrieves details of all schemas for a customer.
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Google Directory spoke](../task/setup-gdirectory.md#).
+For information about setting up the spoke, see [Set up the Google Directory spoke](setup-gdirectory.md#).
 

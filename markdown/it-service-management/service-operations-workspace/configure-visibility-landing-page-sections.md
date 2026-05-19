@@ -30,5 +30,5 @@ Role required: admin
     A toggle appears next to every section that can be hidden or made visible. For example, **Quick links**, **Upcoming**, **Announcements**, and so on.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](landing-page-configurations-sow-itsm.md)
 

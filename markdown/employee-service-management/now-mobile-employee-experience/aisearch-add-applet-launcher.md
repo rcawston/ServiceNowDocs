@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[AI Search in mobile](../concept/text-search-advanced-now.md)
+**Parent Topic:**[AI Search in mobile](text-search-advanced-now.md)
 

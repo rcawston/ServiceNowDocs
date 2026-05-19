@@ -32,18 +32,18 @@ Role required: ui\_action\_admin or admin
 5.  Repeat steps 1 – 4 for all Live Feed UI actions.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](c_DocumentFeeds.md)
 
 **Related topics**  
 
 
 [Configure document feeds](t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](c_ConfigureFeedSecurity.md)
 
 [Disable a record feed](t_DisableARecordFeed.md)
 
 [Disable a document feed](t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](r_InstalledComponents.md)
 

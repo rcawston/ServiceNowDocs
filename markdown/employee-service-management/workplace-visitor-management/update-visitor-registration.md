@@ -45,14 +45,14 @@ Role required: sn\_wsd\_visitor.admin or sn\_wsd\_visitor.staff
     |**Didn't show up**|The visitor did not show up.|
     |**Cancel**|Cancel the visitor registration.|
 
-    For more information about different states and about allowed state changes on a visitor registration, see [Visitor registration states](../reference/visitor-registration-states.md).
+    For more information about different states and about allowed state changes on a visitor registration, see [Visitor registration states](visitor-registration-states.md).
 
 
 ## Result
 
 The status of the visitor registration is updated.
 
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
@@ -63,7 +63,7 @@ The status of the visitor registration is updated.
 
 [View visitor policy confirmations](view-policy-confirmations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](visitor-registration-states.md)
 
 [Anonymize a visitor](anonymize-visitor.md)
 

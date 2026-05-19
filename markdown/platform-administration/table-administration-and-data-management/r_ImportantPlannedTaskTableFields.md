@@ -36,5 +36,5 @@ The Planned Task table has these fields.
 |Actual start date|`work_start`|glide\_date\_time|The actual date when the work starts on the planned task.|
 |Actual end date|`work_end`|glide\_date\_time|The actual date when the work ends on the planned task.|
 
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
 

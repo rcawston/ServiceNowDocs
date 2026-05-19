@@ -28,7 +28,7 @@ The Interaction Logging, Routing, and Queuing \(com.glide.interaction\) plugin a
 -   Asset Management \(com.snc.asset\_management\)
 -   Service Portal \(com.glide.service-portal\)
 
-To activate Walk-up Experience Badge Reader Integration and for more information about this feature, refer to [Badge Reader Integration for Walk-up Experience](../concept/badge-scan-walkup-onsite.md).
+To activate Walk-up Experience Badge Reader Integration and for more information about this feature, refer to [Badge Reader Integration for Walk-up Experience](badge-scan-walkup-onsite.md).
 
 For enhanced security, activate the Explicit Role \(com.glide.explicit\_roles\) plugin. The walk-up user is assigned snc\_external automatically. This plugin was introduced in the ServiceNow AI Platform Paris release.
 
@@ -49,7 +49,7 @@ For enhanced security, activate the Explicit Role \(com.glide.explicit\_roles\) 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Walk-up Experience administration](../concept/walkup-experience-administration.md)
+**Parent Topic:**[Walk-up Experience administration](walkup-experience-administration.md)
 
 **Related topics**  
 

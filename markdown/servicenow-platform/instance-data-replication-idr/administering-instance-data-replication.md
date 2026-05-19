@@ -19,7 +19,7 @@ Perform administrative duties in Instance Data Replication \(IDR\).
 
 After you successfully set up data replication, keep IDR running smoothly by performing important administrative tasks as needed.
 
--   **[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)**  
+-   **[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)**  
 Approve a consumer's request to access replication data in Instance Data Replication \(IDR\).
 -   **[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)**  
 Find missing or mismatched records by comparing replication data between instances in Instance Data Replication \(IDR\).
@@ -33,7 +33,7 @@ Monitor the status of active producer and consumer replication sets, scheduled j
 Monitor the replication record queue, message produced queue, message consumed queue, and the messages processed for all replications sets through the Instance Data Replication \(IDR\) Queue Dashboard.
 -   **[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)**  
 You can avoid insert and update failures in Instance Data Replication \(IDR\) by specifying a class name filter in the producer replication set.
--   **[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)**  
+-   **[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)**  
 Resolve errors and monitor the status of Instance Data Replication \(IDR\) replication sets.
 
 **Parent Topic:**[Instance Data Replication](instance-data-replication.md)

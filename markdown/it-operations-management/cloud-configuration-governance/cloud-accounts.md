@@ -85,21 +85,21 @@ You keep a cloud account in the **Draft** state until you are ready to make the 
 
 ## Set up an additional cloud account
 
-See [Set up an additional cloud account](../../cloud-management-v2-setup/task/add-cloud-account-cloud-mgt.md).
+See [Set up an additional cloud account](add-cloud-account-cloud-mgt.md).
 
 ## Add a datacenter to a cloud account
 
-At any time, you can add a logical datacenter to the cloud infrastructure that is represented by a cloud account. See [Add a datacenter to a cloud account](../../cloud-management-v2-setup/task/add-datacntr-to-cloud-acct.md).
+At any time, you can add a logical datacenter to the cloud infrastructure that is represented by a cloud account. See [Add a datacenter to a cloud account](add-datacntr-to-cloud-acct.md).
 
 ## Set capacity limits on user requests for resources
 
 Capacity limits place restrictions on the attributes of cloud resources such as the number of virtual machines, virtual CPUs, or aggregate storage. You can set limits on resources separately for each logical datacenter in a cloud account.
 
-[Set capacity limits on user requests for resources](../../cloud-management-v2-setup/task/set-capacity-limits-cloud-mgt.md)
+[Set capacity limits on user requests for resources](set-capacity-limits-cloud-mgt.md)
 
--   **[Service categories discovered in AWS](../reference/aws-discovered-services.md)**  
+-   **[Service categories discovered in AWS](aws-discovered-services.md)**  
 The Discovery process discovers AWS services.
--   **[Service categories discovered in Azure](../reference/azure-discovered-services.md)**  
+-   **[Service categories discovered in Azure](azure-discovered-services.md)**  
 The Discovery process discovers Microsoft Azure services.
 
 **Parent Topic:**[Cloud Provisioning and Governance administration guide](cloud-configuration.md)
@@ -109,9 +109,9 @@ The Discovery process discovers Microsoft Azure services.
 
 [Domain separation and Cloud Provisioning and Governance](domain-separation-cloud-management.md)
 
-[Domain separation in Cloud Provisioning and Governance - considerations for service providers](../reference/cloud-mgmt-dom-sep-recommend.md)
+[Domain separation in Cloud Provisioning and Governance - considerations for service providers](cloud-mgmt-dom-sep-recommend.md)
 
-[Cloud Provisioning and Governance Recipes](../reference/cloud-mgmt-recipes-day-2.md)
+[Cloud Provisioning and Governance Recipes](cloud-mgmt-recipes-day-2.md)
 
 [Cloud Admin Portal](cloud-admin-portal.md)
 

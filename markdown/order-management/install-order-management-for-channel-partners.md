@@ -82,5 +82,5 @@ Load the demo data after installing the Sales Common plugin.1.  Install Order Ma
 
 You have successfully installed the Order Management for Channel Partners \(com.snc.partner\_relationship\_management\_orm\) application.
 
-**Parent Topic:**[Configure Partner Relationship Management](../concept/configure-partner-relationship-management.md)
+**Parent Topic:**[Configure Partner Relationship Management](configure-partner-relationship-management.md)
 

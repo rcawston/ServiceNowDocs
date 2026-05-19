@@ -13,5 +13,5 @@ breadcrumb: [Set up, Socure, Integrate, Financial Services Operations \(FSO\)]
 
 Financial Services Know Your Customer \(KYC\) is automatically installed when you install the Financial Services integration with Socure application. By using this service, you can verify an applicant's identity and evaluate their eligibility.
 
-For more information about KYC, see [Financial Services Know Your Customer](../../fso-know-your-customer/concept/fso-kyc-landing-page.md).
+For more information about KYC, see [Financial Services Know Your Customer](financial-services-know-your-customer-kyc/fso-kyc-landing-page.md).
 

@@ -59,5 +59,5 @@ Role required: sn\_lg\_ops.legal\_user
 
     -   Request Details: Review request details.
 
-**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+**Parent Topic:**[Using Legal Conflict of Interest](lsd-coi-use-landing.md)
 

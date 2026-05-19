@@ -45,5 +45,5 @@ Role required: itil, itil\_admin, or admin
     You can also interact with a user from the assignment group. Tap on the assignment group, and then tap on a user and select either Slack or Microsoft Teams to initiate a conversation.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

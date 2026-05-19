@@ -29,10 +29,10 @@ By default, the page lists all active processes: IRQ, due diligence, approval, c
 
 -   Select the number on the **All active processes** card to view the list of active processes.
 -   Select the number on the **New requests** card to view the list of new requests.
--   Select the number on the **IRQ process** card to view the list of active IRQs. See [IRQ process management](../reference/tprm-ws-dd-mgt-pg-irq-tab.md) for details.
--   Select the number on the **Due diligence process** card to view the list of active third-party risk assessments. See [Third-party \(external\) risk assessment management](../reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md) for details.
--   Select the number on the **Approval process** card to view the list of requests in the approval process. See [Approval process management](../reference/tprm-ws-dd-mgt-pg-approvals.md) for details.
--   Select the number on the **Contract risk process** card to view the list of requests in the contract process. See [Managing the contract risk process](../../grc-vendor-risk/concept/tprm-ws-contract-risk-process.md) for details.
+-   Select the number on the **IRQ process** card to view the list of active IRQs. See [IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md) for details.
+-   Select the number on the **Due diligence process** card to view the list of active third-party risk assessments. See [Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md) for details.
+-   Select the number on the **Approval process** card to view the list of requests in the approval process. See [Approval process management](tprm-ws-dd-mgt-pg-approvals.md) for details.
+-   Select the number on the **Contract risk process** card to view the list of requests in the contract process. See [Managing the contract risk process](tprm-ws-contract-risk-process.md) for details.
 -   Select the number on the **Final review process** card to view the list of requests in the final review process.
 -   Select the number on the **Closed** card to view the list of closed requests for due diligence.
 
@@ -50,16 +50,16 @@ The Ongoing due diligence management section displays the current breakdown of *
 
 The Due diligence workflow: Days to completion section displays the average completion time of each workflow over time.
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](unified-vrm-workspace.md)
 
 **Related topics**  
 
 
-[IRQ process management](../reference/tprm-ws-dd-mgt-pg-irq-tab.md)
+[IRQ process management](tprm-ws-dd-mgt-pg-irq-tab.md)
 
-[Third-party \(external\) risk assessment management](../reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 
-[Managing the contract risk process](../../grc-vendor-risk/concept/tprm-ws-contract-risk-process.md)
+[Managing the contract risk process](tprm-ws-contract-risk-process.md)
 
-[Approval process management](../reference/tprm-ws-dd-mgt-pg-approvals.md)
+[Approval process management](tprm-ws-dd-mgt-pg-approvals.md)
 

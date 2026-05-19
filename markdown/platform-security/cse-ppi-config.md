@@ -78,5 +78,5 @@ Signature validation is now being enforced on your production instance. You can 
 
 ![Property values verifying that signature validation is now being enforced](../image/cse-verify.png)
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

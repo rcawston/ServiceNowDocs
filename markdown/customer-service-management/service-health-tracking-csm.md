@@ -41,5 +41,5 @@ As a customer service agent, you can view the service health status of install b
 **Related topics**  
 
 
-[Service health status for install base](../concept/service-health-pcso.md)
+[Service health status for install base](service-health-pcso.md)
 

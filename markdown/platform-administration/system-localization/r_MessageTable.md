@@ -34,7 +34,7 @@ ServiceNow checks this table for translated text when a client script contains a
 
 **Note:** If you create a record in the Message \[sys\_ui\_message\] table that uses an existing key and the same language, the message for existing references using the key can change. For example, if a record exists with "Refresh" for the key, English for the language, and "Refresh" for the message, and you create another record with the same key and language but a different message of "Refresh the screen", existing UI strings using the "Refresh" key will display the new "Refresh the screen" message. Records in this table are created in the global scope and aren’t scope-restricted.
 
-For more information about translatable custom content in the Message table, see [Translating custom content](../concept/translating-applications.md).
+For more information about translatable custom content in the Message table, see [Translating custom content](translating-applications.md).
 
 
 
@@ -47,7 +47,7 @@ For more information about translatable custom content in the Message table, see
 **Related topics**  
 
 
-[Translate a client script message](../task/t_TranslateAClientScriptMessage.md)
+[Translate a client script message](t_TranslateAClientScriptMessage.md)
 
 [Translating Service Catalog cart labels](r_ServiceCatalogButtons.md)
 

@@ -25,7 +25,7 @@ The first step in establishing the relationship is to establish the trust founda
 
     -   One pair for the cm\_code\_signing cryptographic module
     -   One pair for the cm\_code\_attest cryptographic module
-    For more information on these keys, see [Create Code Signing key pairs and certificates](../reference/create-key-pairs-and-certs.md).
+    For more information on these keys, see [Create Code Signing key pairs and certificates](create-key-pairs-and-certs.md).
 
     **Important:** These key pairs must be signed by a public certificate authority or signed by your organizations internal certificate authority. The certificate can't be self-signed.
 
@@ -68,5 +68,5 @@ The first step in establishing the relationship is to establish the trust founda
 
 Export the certificate to production. See [Prepare Circle of Trust certificates](create-updateset-nonprod.md) for details.
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

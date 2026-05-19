@@ -27,7 +27,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 2.  Click **New**.
 
-    The system displays the [Test Suite New Record](../reference/atf-test-suite-record.md) form.
+    The system displays the [Test Suite New Record](atf-test-suite-record.md) form.
 
 3.  In the **Name** field, enter a name for this suite.
 
@@ -84,5 +84,5 @@ Enter a value that indicates whether you want the test suite to stop or continue
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Building and running automated test suites](../concept/atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
 

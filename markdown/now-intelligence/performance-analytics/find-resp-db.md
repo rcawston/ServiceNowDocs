@@ -18,9 +18,9 @@ Use dashboard categories, dashboard groups, and dashboard lists to find the dash
 
 ## Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Dashboards in the library](../concept/find-dashboard-library.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Dashboards in the library](../find-dashboard-library.md).
 
-Role required: There are no specific permissions required to view dashboards. However, you must have permission to view at least one dashboard to see the Dashboards Overview and the dashboard picker. For more information about dashboard permissions, see [Solving permissions issues on a responsive dashboard](../../performance-analytics/task/troubleshoot-dashboard-permissions.md#).
+Role required: There are no specific permissions required to view dashboards. However, you must have permission to view at least one dashboard to see the Dashboards Overview and the dashboard picker. For more information about dashboard permissions, see [Solving permissions issues on a responsive dashboard](troubleshoot-dashboard-permissions.md#).
 
 ## About this task
 
@@ -64,7 +64,7 @@ On the Dashboards Overview, each tile contains information about the dashboard i
     -   Enter your search string without double quotes to return all matches that contain the string. Searching for `Open Incidents` returns the dashboards Open Incidents, Open Incidents Reports, and Open Incident State Monitor.
     **Note:** Neither of these search strings returns the keywords in a different order. For example, neither will return the dashboard Incidents Open This Week.
 
-    Search results are limited to 100 results per category. To change this value, create and configure the system property **glide.cms.dashboards.sharing.search.maxRecords**. For more information see [Responsive dashboard properties](../reference/dashboard-properties.md).
+    Search results are limited to 100 results per category. To change this value, create and configure the system property **glide.cms.dashboards.sharing.search.maxRecords**. For more information see [Responsive dashboard properties](dashboard-properties.md).
 
 5.  Select a dashboard tile to open that dashboard.
 

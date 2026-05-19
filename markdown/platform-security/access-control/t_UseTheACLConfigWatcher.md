@@ -19,7 +19,7 @@ Use the ACL configuration watcher after you elevate to security\_admin role.
 
 Role required: security\_admin
 
-[Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+[Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md)
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Role required: security\_admin
 
     The Security Rules window appears. The system did not yet perform the database action on the ACL, so the changes are not yet saved.
 
-    These are examples of security rules on the Visual Task Board application's Private Task \[vtb\_task\] table. See [ACL configuration watcher](../concept/c_ACLConfigWatcher.md) for a description of the items on this window.
+    These are examples of security rules on the Visual Task Board application's Private Task \[vtb\_task\] table. See [ACL configuration watcher](c_ACLConfigWatcher.md) for a description of the items on this window.
 
     ![Deactivating an ACL](../image/vtb_task_deativate.png)
 

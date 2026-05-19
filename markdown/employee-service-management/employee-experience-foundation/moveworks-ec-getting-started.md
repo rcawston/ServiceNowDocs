@@ -44,7 +44,7 @@ For more information, see [Moveworks documentation](https://help.moveworks.com/)
 
 ## Useful tips and information
 
-Before getting started, see the reference information available at [Moveworks for Employee Center reference](../reference/mw-ec-integration-reference.md), for settings, observations, and troubleshooting.
+Before getting started, see the reference information available at [Moveworks for Employee Center reference](mw-ec-integration-reference.md), for settings, observations, and troubleshooting.
 
 **Note:** Moveworks for Employee Center is available on both Employee Center and Employee Center Pro.
 
@@ -53,13 +53,13 @@ Before getting started, see the reference information available at [Moveworks fo
 
 [Getting started with Moveworks for Employee Center](moveworks-ec-getting-started.md)
 
-[Install Moveworks for Employee Center app from store](../task/mw-install-app.md)
+[Install Moveworks for Employee Center app from store](mw-install-app.md)
 
-[Upload Java KeyStore certificate](../task/mw-upload-jks-cert.md)
+[Upload Java KeyStore certificate](mw-upload-jks-cert.md)
 
-[Configure bot ID and AI assistant](../task/mw-setup-botid.md)
+[Configure bot ID and AI assistant](mw-setup-botid.md)
 
 [Use Moveworks on employee portal](mw-employee-chat-ui.md)
 
-[Moveworks for Employee Center reference](../reference/mw-ec-integration-reference.md)
+[Moveworks for Employee Center reference](mw-ec-integration-reference.md)
 

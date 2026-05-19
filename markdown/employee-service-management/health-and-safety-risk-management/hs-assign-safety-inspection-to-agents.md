@@ -66,5 +66,5 @@ The safety inspection record and the related survey are assigned to the safety a
 
 **Note:** When the survey is assigned to a different agent, any progress made on the survey does not transfer to the new agent. The new agent assigned to the survey must review and, if necessary, start the survey from the beginning, as partially completed surveys are not carried over.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

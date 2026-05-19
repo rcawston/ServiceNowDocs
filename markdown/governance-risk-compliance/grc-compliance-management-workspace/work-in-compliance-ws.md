@@ -21,5 +21,5 @@ The tasks that appear in the Compliance Workspace are unique to the logged in us
 -   Use the Issues page to know all about issues.
 -   The record overview page provides the summary of each record in a single view.
 -   The contextual pane in the overview page provides contextual information of the record. It provides the record's key information in a hierarchy with attachments, if available.
--   Use the [360° view](../../grc-policy-and-compliance/concept/grc-policy-data-navigtor.md) to visualize the record's data relationship within the enterprise, its scores and ratings, and drill down further for more granular information.
+-   Use the [360° view](../policy-and-compliance-management/grc-policy-data-navigtor.md) to visualize the record's data relationship within the enterprise, its scores and ratings, and drill down further for more granular information.
 

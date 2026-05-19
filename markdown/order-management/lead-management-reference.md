@@ -13,13 +13,13 @@ breadcrumb: [Lead and opportunity management, Reference, Sales Customer Relation
 
 Reference topics provide additional information about the Lead Management application.
 
--   **[Components installed with Lead Management](../reference/components-installed-lead-management.md)**  
+-   **[Components installed with Lead Management](components-installed-lead-management.md)**  
 Several types of components are installed with activation of the Lead Management plugin, including tables and user roles.
--   **[Lead details form](../reference/lead-details-form.md)**  
+-   **[Lead details form](lead-details-form.md)**  
 Field descriptions for editing or reviewing details on the Lead form for Lead Management.
--   **[Create new lead task form](../reference/create-lead-task-form.md)**  
+-   **[Create new lead task form](create-lead-task-form.md)**  
 Field descriptions for editing or reviewing details on the Create New Lead Task form in the Lead Management and CRM Touchpoints modules.
--   **[Create new appointment form](../reference/create-lead-appointment-form.md)**  
+-   **[Create new appointment form](create-lead-appointment-form.md)**  
 Field descriptions for editing or reviewing details on the Create New Appointment form in the Lead Management and CRM Touchpoints modules.
 
 **Parent Topic:**[Lead and opportunity management reference](reference-lead-opportunity-mgt.md)

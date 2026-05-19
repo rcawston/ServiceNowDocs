@@ -38,5 +38,5 @@ Role required: itil
 8.  Mute participants to avoid background noise by selecting the Mute icon \(![Mute icon.](../image/mute-icon-conf-call.png)\).
 
 
-**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](../concept/manage-conference-calls-teams.md)
+**Parent Topic:**[Manage Microsoft Teams conference calls in Service Operations Workspace](manage-conference-calls-teams.md)
 

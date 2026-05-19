@@ -59,5 +59,5 @@ Preview the article by user and date:-   In the **View As** field, you can searc
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using knowledge blocks](../concept/using-knowlege-blocks.md)
+**Parent Topic:**[Using knowledge blocks](using-knowlege-blocks.md)
 

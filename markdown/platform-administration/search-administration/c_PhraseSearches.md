@@ -49,7 +49,7 @@ For example, searching for the phrase `"email password"` returns the same search
 
 [Wildcard characters allow searching for patterns and variations](c_Wildcards.md)
 
-[Enable or disable the Zing junk filter](../task/t_DisableTheJunkFilter.md)
+[Enable or disable the Zing junk filter](t_DisableTheJunkFilter.md)
 
-[Debug Zing](../task/t_DebugZing.md)
+[Debug Zing](t_DebugZing.md)
 

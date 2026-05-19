@@ -38,9 +38,9 @@ In this workflow:
 4.  The data steward selects a source table and maps source columns to the existing columns in the data fabric table.
 5.  Users access the application, and interact with flows retrieving data from the external source in real-time.
 
--   **[Connect a predefined data fabric table to an external data source](../task/map-application-table-external-zcc.md)**  
+-   **[Connect a predefined data fabric table to an external data source](map-application-table-external-zcc.md)**  
 Connect a data fabric table included with an application to an external data source.
--   **[Connect a predefined data fabric table to a local table](../task/map-application-table-internal-zcc.md)**  
+-   **[Connect a predefined data fabric table to a local table](map-application-table-internal-zcc.md)**  
 Connect a data fabric table included with an application to a local table on your instance.
 
 **Parent Topic:**[Zero Copy Connectors](zero-copy-connectors.md)

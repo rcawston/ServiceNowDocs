@@ -60,5 +60,5 @@ Role required: admin
 11. Select **Update**.
 
 
-**Parent Topic:**[Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](employee-health-screening.md)
 

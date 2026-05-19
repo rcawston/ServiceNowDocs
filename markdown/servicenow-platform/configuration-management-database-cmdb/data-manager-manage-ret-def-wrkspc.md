@@ -25,8 +25,8 @@ Some retirement definitions in the base system are inactive and you must activat
 
 When a CMDB Data manager retires a CI, ensure that any of its dependent CIs are also retired and don't remain as orphan CIs, by enabling management of dependent CIs. Orphan CIs can impact the consistency, accuracy, and integrity of the CMDB.
 
--   For information about enabling and managing dependent CIs, especially in the context of cascade-retire, cascade-archive, and cascade-delete, see [Dependent CIs management](../concept/manage-dependent-ci.md).
--   For details and definitions of independent and dependent CIs, see [CMDB classifications and class dependency](../concept/c_CMDBClassifications.md).
+-   For information about enabling and managing dependent CIs, especially in the context of cascade-retire, cascade-archive, and cascade-delete, see [Dependent CIs management](manage-dependent-ci.md).
+-   For details and definitions of independent and dependent CIs, see [CMDB classifications and class dependency](c_CMDBClassifications.md).
 
 **Note:**
 

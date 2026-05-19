@@ -34,5 +34,5 @@ The Operational Technology Manager plugin installs the following script includes
 |Extension Points|
 |SGOTDeviceImportExtensionPoint|SG OT Device Import Extension Point which includes two methods: 1. getDeviceCMDBClassNameWithSysId; 2. getComputerType.|
 
-**Parent Topic:**[Configuring the Operational Technology Manager](../concept/configuring-operational-technology-manager.md)
+**Parent Topic:**[Configuring the Operational Technology Manager](configuring-operational-technology-manager.md)
 

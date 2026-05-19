@@ -153,5 +153,5 @@ Configuration
 Under optional templates section, select a template for the multi slots.**Note:** This field is displayed only for multi slots template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

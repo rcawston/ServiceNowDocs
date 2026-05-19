@@ -33,7 +33,7 @@ Role required: admin
 
 6.  Repeat these steps for each of your users.
 
-    For a comprehensive list of compliance users, see [Roles installed with GRC: Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#).
+    For a comprehensive list of compliance users, see [Roles installed with GRC: Policy and Compliance Management](r_InstallWPolAndCompl.md#).
 
 <table id="table_o14_t2s_2mb"><thead><tr><th>
 
@@ -159,5 +159,5 @@ The Attestation Creator is responsible for creating and maintaining attestations
 
 Return to the [Policy and Compliance Management setup checklist](policy-compliance-impl-checklist.md).
 
-**Parent Topic:**[Perform Policy and Compliance Management administration](../concept/perform-policy-compliance-admin.md)
+**Parent Topic:**[Perform Policy and Compliance Management administration](perform-policy-compliance-admin.md)
 

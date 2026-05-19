@@ -30,7 +30,7 @@ Role required: sn\_apm.apm\_user
     The list of all available templates appear.
 
 
-**Parent Topic:**[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+**Parent Topic:**[Working with the document templates](document-templates-for-ea.md)
 
 **Related topics**  
 

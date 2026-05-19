@@ -19,7 +19,7 @@ Add impacted areas such as citations, control objectives, policies, and more to 
 
 Role required: sn\_grc\_reg\_change.user
 
-For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 ## About this task
 
@@ -46,7 +46,7 @@ Impacted areas can be added as part of accepted recommendations or can be manual
 
 ## What to do next
 
-You can initiate the implementation activity for impacted business areas of operations by setting the applicability of the regulatory alert to **Yes** or **No**. If the regulatory alert is applicable, a new regulatory change task is automatically created. If a regulatory alert is not applicable, the alert's state is updated to **Completed**. For more information, see [Manage regulatory change tasks](../../grc-rcm-workspace/task/manage-reg-change-tasks-using-ws.md).
+You can initiate the implementation activity for impacted business areas of operations by setting the applicability of the regulatory alert to **Yes** or **No**. If the regulatory alert is applicable, a new regulatory change task is automatically created. If a regulatory alert is not applicable, the alert's state is updated to **Completed**. For more information, see [Manage regulatory change tasks](../regulatory-change-management-service-portal/manage-reg-change-tasks-using-ws.md).
 
 **Related topics**  
 

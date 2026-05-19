@@ -15,10 +15,10 @@ breadcrumb: [Workflow activities reference, Workflow activities, Classic Workflo
 
 Notification workflow activities notify users of events that occur during the workflow.
 
--   **[Create Event workflow activity](../reference/r_CreateEvent.md)**  
+-   **[Create Event workflow activity](r_CreateEvent.md)**  
 The **Create Event** activity adds an event to the event queue, but does not immediately fire the event.
--   **[Notification workflow activity](../reference/r_NotificationActivity.md)**  
+-   **[Notification workflow activity](r_NotificationActivity.md)**  
 The **Notification** activity sends an email or SMS message to specified users or groups.
 
-**Parent Topic:**[Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+**Parent Topic:**[Workflow activities](c_WorkflowActivities.md)
 

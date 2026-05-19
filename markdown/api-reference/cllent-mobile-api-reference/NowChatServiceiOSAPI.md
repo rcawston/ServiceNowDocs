@@ -31,7 +31,7 @@ configuration
 
 </td><td>
 
-Configuration settings provided when the service was initialized.Data type: [NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+Configuration settings provided when the service was initialized.Data type: [NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Type of session.Possible values:
 Data type: SessionType
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowChatService - init\(configuration: NowServiceConfiguration, delegate: NowChatServiceDelegate?, coreServiceProvider: NowCoreServiceProviding? = nil\)
 
@@ -89,7 +89,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -143,12 +143,12 @@ let chatService = NowChatService(configuration: serviceConfig, delegate: delegat
 
 Creates a `UIViewController` that hosts the chat user interface.
 
-Although this function creates the chat UI, you must still initiate the chat session by calling the [startChat\(\)](NowChatServiceiOSAPI.md#) function. You should make this call as the chat UI becomes visible. For more details, see the associated sample application and the [Mobile SDK Developer Guide - iOS](../../../../../../integrate/guides/mobile_sdk/mobile_sdk-ios/concept/mobsdk-ios-overview.md).
+Although this function creates the chat UI, you must still initiate the chat session by calling the [startChat\(\)](NowChatServiceiOSAPI.md#) function. You should make this call as the chat UI becomes visible. For more details, see the associated sample application and the [Mobile SDK Developer Guide - iOS](../developer-guides/mobsdk-ios-overview.md).
 
 |Name|Type|Description|
 |----|----|-----------|
-|theme|[NowChatThemeable protocol - iOS](../../NowChatThemeable/concept/NowChatThemeableiOSProtocol.md)|Theme information for the chat UI to create.|
-|chatConfiguration|[NowChatConfiguration?](../../NowChatOptions/concept/NowChatOptionsiOS.md#)|Optional. Options to apply to the chat session.|
+|theme|[NowChatThemeable protocol - iOS](NowChatThemeableiOSProtocol.md)|Theme information for the chat UI to create.|
+|chatConfiguration|[NowChatConfiguration?](NowChatOptionsiOS.md#)|Optional. Options to apply to the chat session.|
 
 <table id="table_mkt_lvj_npb" class="returns"><thead><tr><th>
 
@@ -470,7 +470,7 @@ Updates the NowChat UI theme with the specified UI theme. Use this function to u
 
 |Name|Type|Description|
 |----|----|-----------|
-|theme|[NowChatThemeable](../../NowChatThemeable/concept/NowChatThemeableiOSProtocol.md)|Theme to update the chat UI with.|
+|theme|[NowChatThemeable](NowChatThemeableiOSProtocol.md)|Theme to update the chat UI with.|
 
 |Type|Description|
 |----|-----------|

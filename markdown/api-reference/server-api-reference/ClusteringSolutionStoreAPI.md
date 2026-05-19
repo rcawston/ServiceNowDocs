@@ -17,7 +17,7 @@ Enables storing and retrieving solutions.
 
 The ClusteringSolutionStore API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClusteringSolutionStore - add\(Object mlSolution\)
 
@@ -27,13 +27,13 @@ Adds a new solution object to the store and returns a unique name.
 
 |Name|Type|Description|
 |----|----|-----------|
-|mlSolution|[ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)|[ClusteringSolution\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) object to add to the store.|
+|mlSolution|[ClusteringSolution](ClusteringSolutionAPI.md#)|[ClusteringSolution\(\)](ClusteringSolutionAPI.md#) object to add to the store.|
 
 |Type|Description|
 |----|-----------|
 |String|System-generated solution name.|
 
-The following example shows how to add a solution to the store. Use [ClusteringSolution - submitTrainingJob\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) to run the training job after adding it to the store.
+The following example shows how to add a solution to the store. Use [ClusteringSolution - submitTrainingJob\(\)](ClusteringSolutionAPI.md#) to run the training job after adding it to the store.
 
 ```
 // Create a dataset 
@@ -69,7 +69,7 @@ Removes a specified solution object from the store.
 
 |Name|Type|Description|
 |----|----|-----------|
-|name|String|Name of the [ClusteringSolution\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) object to be deleted.|
+|name|String|Name of the [ClusteringSolution\(\)](ClusteringSolutionAPI.md#) object to be deleted.|
 
 |Type|Description|
 |----|-----------|
@@ -91,9 +91,9 @@ Gets a solution object from the store.
 
 |Type|Description|
 |----|-----------|
-|Object|[ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) object. Returns an error if the object does not exist.|
+|Object|[ClusteringSolution](ClusteringSolutionAPI.md#) object. Returns an error if the object does not exist.|
 
-The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [ClusteringSolution - getActiveVersion\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) and [ClusteringSolutionVersion - getStatus\(\)](../../ClusteringSolutionVersion/concept/ClusteringSolutionVersionAPI.md#) methods.
+The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [ClusteringSolution - getActiveVersion\(\)](ClusteringSolutionAPI.md#) and [ClusteringSolutionVersion - getStatus\(\)](ClusteringSolutionVersionAPI.md#) methods.
 
 ```
 // Get status

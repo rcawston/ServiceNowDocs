@@ -19,7 +19,7 @@ The roles, properties, and tables for the appointment booking feature.
 The plugins and roles for the Time Recording for Field Service.
 -   **[Field Service - Signature Pad components](fsm-signed-pdf-components.md)**  
 Several types of components are installed with Field Service - Signature Pad, including tables and script includes.
--   **[Contractor Management components](../concept/contractor-management-components.md)**  
+-   **[Contractor Management components](contractor-management-components.md)**  
 The roles and task filters for the Contractor Management application.
 -   **[Field Service Marketplace components](contractor-marketplace-cmpnts.md)**  
 Several types of components are installed with the activation of the Field Service Marketplace feature including tables, roles, system properties, business rules, and script includes.
@@ -31,7 +31,7 @@ Several types of components are installed with the Field Service Capacity and Re
 The roles, tables, script includes, and business rules for the Field Service Crew Operations application.
 -   **[Intelligent Task Recommendations components](fsm-task-recommendation-components.md#)**  
 Several types of components are installed with the Intelligent Task Recommendations components feature, including tables and business rules.
--   **[Field Service with Service Locations Support components](../concept/service-locations-components.md)**  
+-   **[Field Service with Service Locations Support components](service-locations-components.md)**  
 Components installed with activation of the Field Service with Service Locations Support \(com.snc.fsm\_service\_locations\) plugin.
 -   **[Field Service Territory Planning components](territory-planning-components-fsm.md#)**  
 Several types of components are installed with the Field Service Territory Planning feature, including tables, roles, script includes, and business rules.
@@ -56,5 +56,5 @@ Several type of components like tables, business rules, and script includes are 
 -   **[Field Service Demo Work Configuration components](field-service-demo-work-config-components.md)**  
 Several type of components like tables, script includes, and business rules are installed for Field Service Demo Work Configuration.
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

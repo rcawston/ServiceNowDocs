@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings:
+1.  [Add a system property](r_AvailableSystemProperties.md#) with the following settings:
 
     -   Name: **glide.email.inbound.account\_group\_processing**
     -   Type: true \| false

@@ -17,7 +17,7 @@ Specify the action or subflow you want an activity to run. Configure the inputs 
 
 ## Before you begin
 
--   Create a Workflow Studio [subflow](../../flow-designer/task/create-subflow.md) or [action](../../flow-designer/task/create-action.md) that you want to use as the automation plan for your activity. For example, see [Create an action as an activity automation plan](create-automation-plan.md).
+-   Create a Workflow Studio [subflow](create-subflow.md) or [action](create-action.md) that you want to use as the automation plan for your activity. For example, see [Create an action as an activity automation plan](create-automation-plan.md).
 -   Make sure to set your current application to the application that you want your activity to run in. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Role required: admin, playbook.admin, or pd\_content\_author
 
@@ -57,7 +57,7 @@ Enter a unique name for your activity.
 
 Select a table whose records the activity can access as inputs. When adding inputs to your activity in the Workflow Studio Playbooks builder, you can dot-walk to dynamic record data from this table. See [Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md).
 
- **Note:** The table specified for a playbook's triggering input record overrides the activity definition table at design time. See [Triggers](../concept/process-automation-designer-triggers.md)
+ **Note:** The table specified for a playbook's triggering input record overrides the activity definition table at design time. See [Triggers](process-automation-designer-triggers.md)
 
 </td></tr><tr><td id="d176464e250">
 
@@ -108,7 +108,7 @@ Add roles that are allowed to access activities that use this activity definitio
 
 8.  From the list, select an UI Layout for the properties and components that you want your activity to use when it renders in a user-facing view of your playbook.
 
-    For more information, see [UI Layouts](../concept/experience-types.md).
+    For more information, see [UI Layouts](experience-types.md).
 
 9.  Click **Submit** to save and create your activity definition record.
 
@@ -156,7 +156,7 @@ Add roles that are allowed to access activities that use this activity definitio
 
 19. If you want to set up the default activity data that renders in your playbook during runtime, enter the values for that data in the other sections under Activity Experience.
 
-    The sections and fields that appear under Activity Experience vary depending on the UI Layout that you select. For more information, see [UI Layouts](../concept/experience-types.md).
+    The sections and fields that appear under Activity Experience vary depending on the UI Layout that you select. For more information, see [UI Layouts](experience-types.md).
 
 20. Click **Update** to finish creating your activity definition.
 
@@ -165,12 +165,12 @@ Add roles that are allowed to access activities that use this activity definitio
 
 You can now select your custom activity from the activity picker in the Workflow Studio Playbooks design environment. Select the appropriate application scope for your activity to view it in the picker.
 
-**Parent Topic:**[Activity definitions](../concept/activity-definitions.md)
+**Parent Topic:**[Activity definitions](activity-definitions.md)
 
 **Related topics**  
 
 
 [Create an action as an activity automation plan](create-automation-plan.md)
 
-[UI Layouts](../concept/experience-types.md)
+[UI Layouts](experience-types.md)
 

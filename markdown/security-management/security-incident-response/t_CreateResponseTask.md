@@ -52,7 +52,7 @@ Select security tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md), you can select one or more tags to add metadata to the record or specify the degree of sensitivity of the response task. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](../create-class-group-and-tags.md), you can select one or more tags to add metadata to the record or specify the degree of sensitivity of the response task. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 

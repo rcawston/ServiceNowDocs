@@ -23,7 +23,7 @@ Role required: it\_portfolio\_manager
 
 ## About this task
 
-You can create up to four planning scenarios with different combinations of projects and demands for execution. For example, you might create a scenario A and select all the projects and demands with your standard resource allocation. If you’re aware that a risk might affect the business outcome, you can create a scenario B with a reduced number of projects and demands to see whether that strategy might mitigate or avoid the risk. For more information about defining scenarios, see [Scenario Planning for PPM](../concept/portfolio-planning-overview.md).
+You can create up to four planning scenarios with different combinations of projects and demands for execution. For example, you might create a scenario A and select all the projects and demands with your standard resource allocation. If you’re aware that a risk might affect the business outcome, you can create a scenario B with a reduced number of projects and demands to see whether that strategy might mitigate or avoid the risk. For more information about defining scenarios, see [Scenario Planning for PPM](portfolio-planning-overview.md).
 
 ## Procedure
 
@@ -115,5 +115,5 @@ Review the external dependencies between projects in a portfolio to track projec
 -   **[Rank demands and projects](rank-demands-projects.md)**  
 Rank demands and projects to prioritize demands and projects for their approval and execution within a portfolio.
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](portfolio-planning-overview.md)
 

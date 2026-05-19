@@ -13,7 +13,7 @@ breadcrumb: [Mobile critical alerts, Push notifications, Before implementation, 
 
 You can make a push notification into a critical alert with the addition of some JSON code. Different JSON code is used for iOS and Android operating systems and for the ITSM business unit.
 
-When creating critical alert notifications, you need the code structure of a push notification message as well as the required JSON code that defines the notification as a critical alert. You add this code in the Push message content area. For more information, see [Mobile critical alerts](../task/mobile-critical-alerts-create.md).
+When creating critical alert notifications, you need the code structure of a push notification message as well as the required JSON code that defines the notification as a critical alert. You add this code in the Push message content area. For more information, see [Mobile critical alerts](mobile-critical-alerts-create.md).
 
 **Important:**
 
@@ -112,5 +112,5 @@ The **Push message content** area may contain previously configured code includi
 
 Changing the value of the critical alert script include affects all ITSM implementations of the script include. Similarly, an ITSM plugin upgrade could override your changes to your script include.
 
-**Parent Topic:**[Mobile critical alerts](../task/mobile-critical-alerts-create.md)
+**Parent Topic:**[Mobile critical alerts](mobile-critical-alerts-create.md)
 

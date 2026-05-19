@@ -39,5 +39,5 @@ Role required: admin
 7.  Click **Submit**.
 
 
-**Parent Topic:**[PowerShell probe](../../discovery/concept/c_PowershellProbe.md)
+**Parent Topic:**[PowerShell probe](c_PowershellProbe.md)
 

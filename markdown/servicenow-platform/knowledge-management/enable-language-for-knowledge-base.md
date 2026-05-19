@@ -34,5 +34,5 @@ Role required: knowledge\_admin or admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

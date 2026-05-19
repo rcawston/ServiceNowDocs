@@ -210,5 +210,5 @@ Saves changes without leaving the current view. Click the Save icon \(![Save ico
 -   To indent one or more lines of code, select the code and then press Tab. To decrease the indentation, press Shift+Tab.
 -   To remove one tab from the start of a line of code, click in the line and press Shift+Tab.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](c_Script.md)
 

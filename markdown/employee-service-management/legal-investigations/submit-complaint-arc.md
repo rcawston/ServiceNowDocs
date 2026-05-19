@@ -22,7 +22,7 @@ To file a complaint anonymously, admins must have completed the following tasks:
 -   Installed the Anonymous Reporting Center plugin \(com.sn\_anonymous\_report\_center\)
 -   Enabled the Ethics Complaints record producer for submission through ARC portal.
 
-    For more information, [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+    For more information, [Record producers for legal investigations](record-producers-legal-investigation.md).
 
 
 Role required: sn\_lg\_ops.legal\_user
@@ -78,9 +78,9 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 4.  On the Ethics Complaints form, fill in the fields.
 
-    Based on the [active record producers for ARC](../reference/record-producers-legal-investigation.md), different sets of fields might appear on the Ethics Complaints form.
+    Based on the [active record producers for ARC](record-producers-legal-investigation.md), different sets of fields might appear on the Ethics Complaints form.
 
-    For field descriptions, see [Ethics complaints intake form in the Anonymous Report Center portal](../reference/ethics-complaint-intake-form-arc.md).
+    For field descriptions, see [Ethics complaints intake form in the Anonymous Report Center portal](ethics-complaint-intake-form-arc.md).
 
 5.  Enter the text verification code.
 
@@ -95,7 +95,7 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 ## Result
 
-Either a legal request or a universal request is created based on the [active record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+Either a legal request or a universal request is created based on the [active record producers for legal investigations](record-producers-legal-investigation.md).
 
 To maintain the anonymity of the requester or requested for users, the request is submitted with the following values for the corresponding fields:
 
@@ -105,12 +105,12 @@ To maintain the anonymity of the requester or requested for users, the request i
 -   **[Access your anonymous report from the Anonymous Report Center portal](access-anonymous-complaint-arc.md)**  
 You can follow up on your anonymous report to view comments and updates from the legal fulfiller working on it or add comments.
 
-**Parent Topic:**[Submitting a complaint for investigation](../concept/submitting-legal-investigations-request.md)
+**Parent Topic:**[Submitting a complaint for investigation](submitting-legal-investigations-request.md)
 
 **Related topics**  
 
 
-[Submit a complaint through Legal Service Portal](submit-complaint-legal-svc-portal-1.md)
+[Submit a complaint through Legal Service Portal](../employee-service-management/submit-complaint-legal-svc-portal-1.md)
 
 [Submit a complaint through Employee Center](submit-complaint-employee-center.md#)
 

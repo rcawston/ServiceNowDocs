@@ -42,5 +42,5 @@ If your playbook admin has added a cancel action to your playbook experience, yo
     ![Canceled banner](../image/playbook-cancel-banner.png)
 
 
-**Parent Topic:**[Running Playbooks](../concept/playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
 

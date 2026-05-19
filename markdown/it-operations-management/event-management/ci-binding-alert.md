@@ -70,5 +70,5 @@ This direct link helps streamline troubleshooting by pointing to the exact probl
 **Related topics**  
 
 
-[Simulate event processing](../task/simulate-event-processing.md)
+[Simulate event processing](simulate-event-processing.md)
 

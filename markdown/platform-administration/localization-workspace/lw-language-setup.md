@@ -21,9 +21,9 @@ Navigate to **All** &gt; **Localization Workspace** &gt; **Language setup**. The
 
 ![The Language setup tab with the Language Provider list open. Several example Language Providers are listed.](../image/lw-language-setup1.png)
 
--   **[Configure a language provider](../task/lw-configure-translation-provider.md)**  
+-   **[Configure a language provider](lw-configure-translation-provider.md)**  
 Set up language providers as part of configuring Localization Workspace. For each target language you can configure multiple providers with their pricing.
--   **[Configure language groups](../task/lw-configure-language-groups.md)**  
+-   **[Configure language groups](lw-configure-language-groups.md)**  
 After setting up individual language providers, you can define one or more language groups. Configuring language groups is an optional way to streamline the creation of translation requests.
 
 **Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)

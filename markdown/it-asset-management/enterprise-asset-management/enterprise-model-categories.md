@@ -794,12 +794,12 @@ sn\_ent\_wearable\_model​
 |Production Camera|cmdb\_ci\_production\_camera|sn\_ent\_mm\_prod\_equip\_asset|sn\_ent\_mm\_prod\_equip\_model​|
 |Stage and Studio Lighting|cmdb\_ci\_stage\_studio\_lighting|sn\_ent\_mm\_prod\_equip\_asset|sn\_ent\_mm\_prod\_equip\_model​|
 
-**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

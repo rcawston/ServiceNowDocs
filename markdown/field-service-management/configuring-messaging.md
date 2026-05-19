@@ -25,5 +25,5 @@ For more information on using the Sidebar to communicate, see [Using Sidebar](ht
 
 ## About Sidebar for the Field Service Mobile Agent application
 
-Messaging from the Sidebar in the Mobile Agent application is available upon activation of the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\). For more information, see [Activate Sidebar for the Field Service Mobile Agent application](../task/activate-sidebar-mobile.md).
+Messaging from the Sidebar in the Mobile Agent application is available upon activation of the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\). For more information, see [Activate Sidebar for the Field Service Mobile Agent application](mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 

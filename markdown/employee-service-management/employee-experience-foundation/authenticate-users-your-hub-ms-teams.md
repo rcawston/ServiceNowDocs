@@ -217,5 +217,5 @@ Client ID for Outlook mobile application
     ![Application ID and the tenant ID from the app overview page](../images/app-overview-azure-portal.png)
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)
 

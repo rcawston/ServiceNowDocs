@@ -42,12 +42,12 @@ Role required: admin
 
 The interaction record is linked to the supplier case.
 
-**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 **Related topics**  
 
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 [View or create an interaction for a supplier](create-new-interaction.md)
 

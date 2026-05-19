@@ -72,7 +72,7 @@ When users open a survey either in Service Portal or the Now Mobile app, the sur
 
 -   When the survey users leave the survey without submitting it, they can start the survey later from the same page where they left off in the previous session.
 
-**Note:** For mobile users, the pagination is always by question for surveys. For more information about pagination settings, see [Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md).
+**Note:** For mobile users, the pagination is always by question for surveys. For more information about pagination settings, see [Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md).
 
 ## One Click survey
 
@@ -113,28 +113,28 @@ Pass these URI parameters through the createAssessment\(\) API to store their va
 |**sysparm\_trigger\_id**|Location sys\_id that is stored as the **Trigger ID** field in the asmt\_assessment\_instance table. For example, sysparm\_trigger\_id=1c741bd70b2322007518478d83673af3.|
 |**sysparm\_kiosk**|When set to **true**, both the sysparm\_trigger\_table and sysparm\_trigger\_id parameters should be specified. This parameter is required for kiosk requests. For example, sysparm\_kiosk=true.|
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
 [Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
 [Survey users and groups](c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
 [Survey definitions](c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
 [Survey questions](c_SurveyQuestion.md)
 
@@ -142,7 +142,7 @@ Pass these URI parameters through the createAssessment\(\) API to store their va
 
 [Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
 [Sentiment analysis for surveys](sentiment-analysis.md)
 
@@ -156,5 +156,5 @@ Pass these URI parameters through the createAssessment\(\) API to store their va
 
 [Survey designer](c_SurveyDesigner.md)
 
-[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 

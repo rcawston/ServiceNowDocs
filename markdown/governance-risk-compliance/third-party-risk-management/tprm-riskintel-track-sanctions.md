@@ -27,7 +27,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor that is the due diligence re
 
 3.  On the form, specify if the third party is sanctioned by selecting **Yes** or **No** and fill in the fields.
 
-    For descriptions of all these fields, see [Risk intelligence report request form](../../grc-workspace-vrm/reference/tprm-rir-form.md).
+    For descriptions of all these fields, see [Risk intelligence report request form](tprm-rir-form.md).
 
 4.  Select **Update**.
 

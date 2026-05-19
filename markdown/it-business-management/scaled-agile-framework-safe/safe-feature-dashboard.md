@@ -62,7 +62,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Feature Burnup
 -   Story Cycle Time
 
-For more information, see [Using Solution Library for Essential SAFe dashboards](../reference/using-solution-library-for-essential-safe-dashboards.md).
+For more information, see [Using Solution Library for Essential SAFe dashboards](using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_xvt_hl4_2fb"><thead><tr><th>
 
@@ -150,7 +150,7 @@ Identify the time taken for each story in the feature to move from an in-progres
  ![Cycle Time Zoom](../image/cycle-time-zoom.gif)
 
 </td></tr></tbody>
-</table>You can customize the Burnup report. For more information, see [Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md).
+</table>You can customize the Burnup report. For more information, see [Customizing Essential SAFe dashboard reports](customizing-safe-dashboard-reports.md).
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 

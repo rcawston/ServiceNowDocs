@@ -41,5 +41,5 @@ Users must be assigned this role alongside the Operational Buyer role to use thi
 
 The agentic workflow then creates the appropriate order revision \(a purchase requisition of type Order Revision\) reflecting the approved changes.
 
-**Parent Topic:**[Identify and execute mitigation strategies for purchase order exceptions](../concept/mitigation-strategies-for-po-exceptions.md)
+**Parent Topic:**[Identify and execute mitigation strategies for purchase order exceptions](mitigation-strategies-for-po-exceptions.md)
 

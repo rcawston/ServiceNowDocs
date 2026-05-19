@@ -75,5 +75,5 @@ In the push action instance shown here, the `Approve` push action is selected in
 
 ![Push action instance associating an action with a function](../image/action-push-example-2.png)
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

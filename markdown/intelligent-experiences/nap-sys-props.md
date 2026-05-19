@@ -18,5 +18,5 @@ Use system properties to customize Now Assist panel. Some properties are availab
 |sn\_nowassist\_va\_enable\_nap\_aix\_experience|Enabled and integrated chat is available for customers to choose from.|
 |sn\_nowassist\_va\_enable\_nap\_aix\_experience|Disabled, integrated chat is not available for customers to choose from.|
 
-**Parent Topic:**[Now Assist reference](../../now-assist-admin/reference/now-assist-reference-landing.md)
+**Parent Topic:**[Now Assist reference](now-assist-reference-landing.md)
 

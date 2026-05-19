@@ -123,5 +123,5 @@ Needs to be able to customize views.
 -   Group Life Rejection Reason
 -   Group Life Service
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

@@ -29,7 +29,7 @@ When you set up the webhook, the system automatically sends a REST request to a 
 
 **Note:** The webhook does not include authentication headers in the request. Ensure that you provide an endpoint that includes query parameters to authenticate the request.
 
-To learn more about the Employee Health Screening Request Entry module, see [Conduct a health screen for entry](../../employee-health-screening/task/screen-returning-employee.md).
+To learn more about the Employee Health Screening Request Entry module, see [Conduct a health screen for entry](screen-returning-employee.md).
 
 Role required: sn\_imt\_core.admin or admin
 

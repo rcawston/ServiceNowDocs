@@ -25,7 +25,7 @@ A non-production instance that is similarly configured to your production instan
 
 **Note:** If you plan on cloning your production instance to one or more non-production instances, you should also install the AES product on your production instance prior to cloning. For more information, see [Create a clone preserver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-new-clone-preserver.md) and [Cloning instances with AES](cloning-aes-applications.md).
 
-After you have established your instance strategy, you must also establish and automate your approval or review process. AES is a product that runs on your non-production environment. For an organization with multiple non-production environments, you will need to decide which non-production environment AES will run on. You must also determine which pipeline to use for promoting apps from a particular non-production instance to your test instance, and then finally to production where the app will be running live. For more information, see [Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md).
+After you have established your instance strategy, you must also establish and automate your approval or review process. AES is a product that runs on your non-production environment. For an organization with multiple non-production environments, you will need to decide which non-production environment AES will run on. You must also determine which pipeline to use for promoting apps from a particular non-production instance to your test instance, and then finally to production where the app will be running live. For more information, see [Pipelines and Deployments](../app-engine-management-center/manage-deployments-using-p-and-d-aemc.md).
 
-**Parent Topic:**[Installing App Engine Studio](../task/install-aes.md)
+**Parent Topic:**[Installing App Engine Studio](install-aes.md)
 

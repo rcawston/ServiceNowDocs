@@ -17,7 +17,7 @@ The ChangeCollisionHelper script include provides helper methods found in the Ch
 
 Use these methods in server side scripts, or when using Ajax calls on the client. You must have the Change Management - Collision Detector plugin installed to use these methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ChangeCollisionHelper - addCiToChangeAffectedCis\(String ci, String changeId\)
 

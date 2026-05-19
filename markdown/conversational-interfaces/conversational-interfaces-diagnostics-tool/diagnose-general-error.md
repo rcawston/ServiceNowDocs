@@ -80,5 +80,5 @@ Use this task to resolve errors and find and change system property values.
 9.  Click the link to download support data.
 
 
-**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](../concept/using-ci-diagnostics-tool.md)
+**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](using-ci-diagnostics-tool.md)
 

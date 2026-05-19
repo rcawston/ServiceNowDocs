@@ -53,5 +53,5 @@ The clause library is available under the following conditions:
     The clause is added to the document. When a valid metadata mapping exists within clause content, the metadata gets auto-populated. Otherwise, a content control tag name is added and the metadata has to be manually updated. For more information, see [Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md).
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

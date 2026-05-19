@@ -35,5 +35,5 @@ The extension classes help you understand how Operational Technology Management 
     The ServiceNow IT Service Management application enables engineers to resolve OT device and production process issues quickly.
 
 
-**Parent Topic:**[Operational Technology Request Management reference](../concept/operational-technology-request-management-reference.md)
+**Parent Topic:**[Operational Technology Request Management reference](operational-technology-request-management-reference.md)
 

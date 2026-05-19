@@ -20,7 +20,7 @@ Add people from your organization who are the stakeholders for the work involved
 
 -   [Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md).
 
--   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Portfolio Planning](../reference/installed-with-portfolio-planning.md).
+-   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Portfolio Planning](installed-with-portfolio-planning.md).
 
 
 Role required: sn\_align\_core.apw\_user

@@ -19,7 +19,7 @@ The probe handles multiple user-specified WMI Paths to be queried, using a basic
 
 When creating a WMI probe, the probe type must be set to WMI Probe and the ECC Queue Topic must be set to WMIRunner.
 
-For instructions on configuring probe parameters, see [Set probe parameters](../task/t_SetProbeParameters.md).
+For instructions on configuring probe parameters, see [Set probe parameters](t_SetProbeParameters.md).
 
 The following parameters may be passed to the WMI Probe:
 

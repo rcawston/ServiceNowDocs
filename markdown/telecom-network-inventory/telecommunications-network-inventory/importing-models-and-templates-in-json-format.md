@@ -17,7 +17,7 @@ Learn how to import equipment models and inventory templates together in a singl
 
 In scenarios where models and templates are exported from external network management systems, JSON is a more natural and efficient format. The import models and templates in JSON format feature lets you bring both models and templates together in a single import operation using a JSON file. The JSON import supports Equipment Model, Equipment Holder Model, Card Model,Connection, cable, Topology, Facility template, and Interface Model. Images are not supported.
 
-A dedicated inventory template is generated for every rack/cabinet equipment holder, equipment model, and card model, with related templates generated based on defined model relationships. To learn how to importing models and templates in JSON format see [Import models and templates in JSON format](../task/import-models-templates-json.md)
+A dedicated inventory template is generated for every rack/cabinet equipment holder, equipment model, and card model, with related templates generated based on defined model relationships. To learn how to importing models and templates in JSON format see [Import models and templates in JSON format](import-models-templates-json.md)
 
 **Related topics**  
 

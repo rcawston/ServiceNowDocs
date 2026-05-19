@@ -106,5 +106,5 @@ The data subject types appear in a tabular format.
 
 ![Data subject types in a tabular format in Employee Center.](../image/add-data-sub-type-to-pia.png "Data subject types")
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

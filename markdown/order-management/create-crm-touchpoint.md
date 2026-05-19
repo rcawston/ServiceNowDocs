@@ -29,7 +29,7 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 5.  On the Create New CRM Touchpoint form, fill in the fields.
 
-    For a description of the field values, see [Create new CRM touchpoint form](../reference/create-crm-touchpoint-form.md).
+    For a description of the field values, see [Create new CRM touchpoint form](create-crm-touchpoint-form.md).
 
 6.  Select **Save**.
 
@@ -43,5 +43,5 @@ After creating a CRM touchpoint, you can plan and track the following pre-engage
 -   Compose and send an email to share information, confirm meeting details, or follow up after a call. For more information, see [Send an email from a touchpoint](compose-send-emails-crm-touchpoint.md).
 -   Create a related task to capture preparation work such as researching customer background, identifying stakeholders, or tracking commitments before closing the touchpoint. For more information, see [Create a related task from a touchpoint](create-touchpoint-related-tasks.md).
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

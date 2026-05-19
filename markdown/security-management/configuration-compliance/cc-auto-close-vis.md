@@ -21,7 +21,7 @@ Role required: sn\_vulc.admin
 
 ## About this task
 
-To automatically close the associated TRs, you must enable the system property **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** to auto-close TRs that are associated with retired CIs. If this option is enabled, new and existing TRs reported for the same CI, are automatically created or updated in the 'Closed' state. These are based on the Asset ID in the scanner payload and Discovered Items entry status. For more information on the impact of retired CIs, see [Working with retired configuration items in Configuration Compliance](../concept/cc-working-with-retired-CIs.md).
+To automatically close the associated TRs, you must enable the system property **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** to auto-close TRs that are associated with retired CIs. If this option is enabled, new and existing TRs reported for the same CI, are automatically created or updated in the 'Closed' state. These are based on the Asset ID in the scanner payload and Discovered Items entry status. For more information on the impact of retired CIs, see [Working with retired configuration items in Configuration Compliance](cc-working-with-retired-CIs.md).
 
 **Note:** The state of a DI is updated to 'CI decommissioned' whenever the life cycle state of a CI is updated. On the other hand, the state of a TR is updated to Closed only when the **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** system property is enabled.
 

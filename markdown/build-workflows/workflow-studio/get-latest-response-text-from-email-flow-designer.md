@@ -56,5 +56,5 @@ String
 Body text for the most recent reply or forward message in the Email \[sys\_email\] record that you selected for the action's input.**Note:** If you select an Email \[sys\_email\] record with a Type of New for this action's input, the Latest Response Text output will be the entire body text of the e-mail.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+</table>**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

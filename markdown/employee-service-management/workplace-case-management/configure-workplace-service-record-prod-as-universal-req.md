@@ -47,7 +47,7 @@ The workplace service record producer is configured as a universal request.
 
 When an employee submits an inquiry using this workplace service, a universal request is created. The request is automatically assigned to the Workplace services assignment group.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 

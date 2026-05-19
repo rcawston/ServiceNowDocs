@@ -115,9 +115,9 @@ The Badge Reader Integration application is not an authentication mechanism. It 
 
 ## Badge Scanner Integration scan logs
 
-You can view the Badge Scanner Integration scan logs and fix the errors to connect to the badge reader. For more information, see [View Badge Scanner Integration scan logs](../task/view-badge-read-integ-scan-logs.md).
+You can view the Badge Scanner Integration scan logs and fix the errors to connect to the badge reader. For more information, see [View Badge Scanner Integration scan logs](view-badge-read-integ-scan-logs.md).
 
--   **[Activate Badge Reader Integration](../task/activate-badge-reader-integration.md)**  
+-   **[Activate Badge Reader Integration](activate-badge-reader-integration.md)**  
 You can activate the Badge Reader Integration plugin \(com.snc.badge\_reader\) if you have the Badge sn\_badge.badge\_admin role.
 -   **[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)**  
 Badge Reader Integration set up and configuration enables your on-site Walk-up Experience users to scan a badge to quickly check into the queue.

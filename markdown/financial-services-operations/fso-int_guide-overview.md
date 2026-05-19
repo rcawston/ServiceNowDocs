@@ -15,5 +15,5 @@ ServiceNow® Financial Services Operations \(FSO\) enables financial services in
 
 This developer guide provides information on how to extend the FSO base capabilities as well as integrate your existing applications with ServiceNow FSO.
 
-Before performing any of the integration tasks described in this document, you must first install the FSO application and perform all of the necessary configuration. For details, see [Configuring Financial Services Operations applications](../../../../product/fso-common/concept/setting-up-fso-applications.md).
+Before performing any of the integration tasks described in this document, you must first install the FSO application and perform all of the necessary configuration. For details, see [Configuring Financial Services Operations applications](setting-up-fso-applications.md).
 

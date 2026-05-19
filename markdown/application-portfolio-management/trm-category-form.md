@@ -23,12 +23,12 @@ Add a new request or edit an existing request to create a TRM category.
 |Parent Category|Select a parent category to add the category to a hierarchical structure. Look up and select a category from the TRM Categories page.|
 |Owner|Owner of the TRM category, responsible for maintaining consistent technology compliance standards for that TRM category.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference/eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
 
 **Related topics**  
 
 
-[Manage TRM categories](../concept/eaw-concept/eaw-configure-trm-categories.md)
+[Manage TRM categories](eaw-configure-trm-categories.md)
 
-[Add or edit a TRM category](../task/eaw-task/eaw-create-new-trm-category.md)
+[Add or edit a TRM category](eaw-create-new-trm-category.md)
 

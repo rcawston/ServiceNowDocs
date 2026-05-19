@@ -36,5 +36,5 @@ Role required: admin
     Once you have installed the required plugins and store apps, perform the activities outlined in the **Install Azure Apps and Authorize Notify Connector** section. After that, move on to complete the tasks in the **Configuration Steps** section.
 
 
-**Parent Topic:**[Configuring Notify in Service Operations Workspace](../concept/configure-notify-sow.md)
+**Parent Topic:**[Configuring Notify in Service Operations Workspace](configure-notify-sow.md)
 

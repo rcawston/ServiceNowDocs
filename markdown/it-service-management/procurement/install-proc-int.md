@@ -28,7 +28,7 @@ After the Asset Management - Procurement Integration has been entitled, you can 
 
 Scheduled jobs and tables are installed with Asset Management - Procurement Integration:
 
-For more information, see [Components installed with Asset Management - Procurement Integration](../reference/installed-with-proc-int.md).
+For more information, see [Components installed with Asset Management - Procurement Integration](installed-with-proc-int.md).
 
 ## Procedure
 

@@ -48,5 +48,5 @@ Role required: sam\_admin or sam\_user
 -   **[Close an asset reclamation request](close-an-asset-reclamation-request.md)**  
 Close an asset reclamation request to efficiently reclaim software assets when an employee leaves an organization or moves to a different role.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

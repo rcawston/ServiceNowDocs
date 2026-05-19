@@ -31,10 +31,10 @@ Role required: sn\_telecom\_c360.admin
     |PAR visualization filters|Name-value pairs that define the dynamic performance analytics filters used to associate each visualization to the current context record.|
 
 
-**Parent Topic:**[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](c360-configure-variables.md)
 
 **Related topics**  
 
 
-[Data visualization card](../concept/c360-data-visual-card.md)
+[Data visualization card](c360-data-visual-card.md)
 

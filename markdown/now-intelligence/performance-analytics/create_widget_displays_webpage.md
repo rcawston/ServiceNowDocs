@@ -122,5 +122,5 @@ The name of the UI page from step 1 to show in the widget.
 
 [Edit a responsive dashboard](t_EditADashboard.md)
 
-**Parent Topic:**[Widgets](../concept/widgets.md)
+**Parent Topic:**[Widgets](widgets.md)
 

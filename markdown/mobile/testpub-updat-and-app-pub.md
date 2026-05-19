@@ -48,7 +48,7 @@ Role required: admin
     -   **Approve** the build to move forward with publishing the app to your end users.
 5.  Customize your app's workflows:
 
-    Use Mobile App Builder to customize your app. See [Mobile App Builder](../concept/mab-concept.md) for detailed information about how you can customize your branded app.
+    Use Mobile App Builder to customize your app. See [Mobile App Builder](mab-concept.md) for detailed information about how you can customize your branded app.
 
 6.  After you have tested your app, set it up, and customized its workflows, you are ready to publish your branded Android app for public distribution.
 
@@ -59,7 +59,7 @@ Role required: admin
     -   Microsoft Intune: to sync your public branded Android app from Google to Microsoft Intune, see [Microsoft documentation](https://learn.microsoft.com/en-us/mem/intune/apps/apps-add-android-for-work).
 7.  Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features.
 
-    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](../reference/mobile-supported-devices.md).
+    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](mobile-supported-devices.md).
 
 
 **Parent Topic:**[Update a branded app](update-branded-app.md)

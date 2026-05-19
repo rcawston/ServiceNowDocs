@@ -42,7 +42,7 @@ You can render **Get Support** as a widget on the home page or as a modal window
     -   Static Content
 4.  Select **Content** from the available options.
 
-    -   For **Quick Link**, select the **Table name** \(sn\_ex\_sp\_quick\_link\) and **Document**. For more information on quick links, see [Quick links](../concept/emp-center-quick-link-config.md).
+    -   For **Quick Link**, select the **Table name** \(sn\_ex\_sp\_quick\_link\) and **Document**. For more information on quick links, see [Quick links](emp-center-quick-link-config.md).
     -   For **Static Content**, select the **Table name** \(sn\_ex\_sp\_static\_content\) and **Document**. For more information on static content, see [Configure static content](apn-config-static-content.md).
 
         **Note:** The admin can configure any number of items. The out-of-the-box **Get support** has a maximum of eight items.

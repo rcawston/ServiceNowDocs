@@ -91,5 +91,5 @@ Select the **Consumer** name and enter the following:-   Deal type: Indicates th
 
 [Add and view details of a quote](quote-management-details-tab.md).
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

@@ -19,7 +19,7 @@ This API is available in scoped and global apps and runs in the sn\_i18n namespa
 
 When formatted by language or locale, users can view numbers as expected. For example, if the locale is fr \(French\), a value provided as 100.00 returns as 100,00.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NumberFormatter – format\(Number number\)
 

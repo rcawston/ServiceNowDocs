@@ -53,11 +53,11 @@ To update the banner image in the **System Properties** &gt; **System** page, yo
 **Related topics**  
 
 
-[Banner logo link](../concept/c_CustomizeTheBannerLogoLink.md)
+[Banner logo link](c_CustomizeTheBannerLogoLink.md)
 
 [Customize the favicon](customize-favicon.md)
 
-[Examples of how to modify the banner](../concept/c_ExamplesOfHowToModifyTheBanner.md)
+[Examples of how to modify the banner](c_ExamplesOfHowToModifyTheBanner.md)
 
-[Modify the banner](../concept/c_ModifyTheBanner.md)
+[Modify the banner](c_ModifyTheBanner.md)
 

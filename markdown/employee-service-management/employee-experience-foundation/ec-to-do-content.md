@@ -22,7 +22,7 @@ The types of to-do content you can create are:
 -   Play Video
 -   View Link
 
-For more information on creating to-do content, see [To-do content form](../reference/to-do-content-form.md).
+For more information on creating to-do content, see [To-do content form](to-do-content-form.md).
 
 You can also create to-do content that appears in a banner or styled content. For more information, see [Creating to-do content](ecpro-content-to-dos.md).
 

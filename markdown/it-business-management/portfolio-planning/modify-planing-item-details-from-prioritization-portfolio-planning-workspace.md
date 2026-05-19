@@ -52,7 +52,7 @@ Edit using one of the following ways:
 -   Select the item name to open the full details page.
  The full details page shows the item's related lists such as Milestones, Dependencies, and others.
 
- For field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+ For field information, see [Planning item form](../scenario-planning-in-spw/planning-item-form.md).
 
 </td></tr><tr><td id="d200650e159">
 

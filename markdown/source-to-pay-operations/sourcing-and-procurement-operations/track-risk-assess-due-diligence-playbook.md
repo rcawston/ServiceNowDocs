@@ -262,5 +262,5 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+**Parent Topic:**[Streamlining the supplier risk assessment workflow](simplify-risk-assessment-wf.md)
 

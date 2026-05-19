@@ -103,5 +103,5 @@ Any instructions if you want to mention.
     An Asset Reclamation Request is created.
 
 
-**Parent Topic:**[Reclaim hardware assets](../concept/manage-asset-reclaim.md)
+**Parent Topic:**[Reclaim hardware assets](manage-asset-reclaim.md)
 

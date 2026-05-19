@@ -53,5 +53,5 @@ These Core UI email client features aren’t available after enabling the Next E
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Forms in the classic environment](../../../use/using-forms/concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 

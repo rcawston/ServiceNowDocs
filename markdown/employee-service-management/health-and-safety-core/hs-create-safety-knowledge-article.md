@@ -65,5 +65,5 @@ The knowledge article appears in a **Knowledge** list under **Configuration**:
 -   When published, it appears in the **My Articles - Published** list and the **All Articles** list. Published articles are visible to all employees.
 -   When unpublished, it appears in the **My Articles - Unpublished** list and the **All Articles** list.
 
-**Parent Topic:**[Managing safety knowledge articles](../concept/hs-managing-safety-knowledge-articles.md)
+**Parent Topic:**[Managing safety knowledge articles](hs-managing-safety-knowledge-articles.md)
 

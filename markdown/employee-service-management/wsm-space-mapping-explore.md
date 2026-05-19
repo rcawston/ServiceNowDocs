@@ -19,7 +19,7 @@ Workplace Space Mapping provides interactive locations and wayfinding solutions 
 
     **Note:** Install both Indoor Mapping and the dependent plugin Workplace Indoor Mapping.
 
--   To synchronize Indoor Mapping map data and map objects \(campus, buildings, floors, place, and place types\) that you created in Indoor Mapping Map Studio with Workplace Service Delivery, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+-   To synchronize Indoor Mapping map data and map objects \(campus, buildings, floors, place, and place types\) that you created in Indoor Mapping Map Studio with Workplace Service Delivery, see [Synchronize Indoor Mapping with Workplace Service Delivery](indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 ## Using External IDs
 

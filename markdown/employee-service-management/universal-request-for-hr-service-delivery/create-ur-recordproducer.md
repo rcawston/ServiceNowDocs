@@ -62,22 +62,22 @@ Requires Additional Review
 
 </td><td>
 
-Option to automatically select the **Needs resolution review** check box on the corresponding universal request. For information about the universal request fields, see [Universal Request form](../../universal-request/reference/new-ur-record-form.md).The **Requires Additional Review** field appears only when the **UR certified/enabled item** check box is selected.
+Option to automatically select the **Needs resolution review** check box on the corresponding universal request. For information about the universal request fields, see [Universal Request form](new-ur-record-form.md).The **Requires Additional Review** field appears only when the **UR certified/enabled item** check box is selected.
 
 </td></tr></tbody>
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Unified ticket experience setting](../../universal-request/concept/unified-ticket-experience.md)
+**Parent Topic:**[Unified ticket experience setting](unified-ticket-experience.md)
 
 **Related topics**  
 
 
-[Create universal request automatically for department tickets via other channels](../../universal-request/task/autocreate-ur-from-interactionrecord-WS.md)
+[Create universal request automatically for department tickets via other channels](autocreate-ur-from-interactionrecord-WS.md)
 
-[Email notification preferences for your service](../../universal-request/concept/ur-customize-email-notifcations.md)
+[Email notification preferences for your service](ur-customize-email-notifcations.md)
 
-[Automatically create universal request from an inbound email](../../universal-request/concept/create-ur-from-inbound-email.md)
+[Automatically create universal request from an inbound email](create-ur-from-inbound-email.md)
 
 [Service Catalog configuration for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/ur-catalog-config.md)
 

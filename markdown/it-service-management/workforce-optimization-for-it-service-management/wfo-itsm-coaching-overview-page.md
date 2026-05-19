@@ -110,5 +110,5 @@ Bar chart ![Bar chart](../../../reuse/reporting/image/bar-trend-sm.svg)
 Trend for the top five skills that are in demand.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](../../../product/configurable-workforce-optimization-itsm/concept/coaching-configurable-wfo-itsm.md)
+</table>**Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](coaching-configurable-wfo-itsm.md)
 

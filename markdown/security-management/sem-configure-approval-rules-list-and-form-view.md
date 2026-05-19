@@ -119,5 +119,5 @@ Indicates whether the rule can be used. Activation requires at least one approva
     The rule is active and routed based on the defined levels, tables, and conditions.
 
 
-**Parent Topic:**[Unified Approval Rules Overview](../concept/sem-approval-rules-overiew.md)
+**Parent Topic:**[Unified Approval Rules Overview](sem-approval-rules-overiew.md)
 

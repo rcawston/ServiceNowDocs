@@ -90,5 +90,5 @@ Substates
 -   **[View an automatically created onboarding task](view-auto-onboard-task.md)**  
 View an automatically created asset onboarding task.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

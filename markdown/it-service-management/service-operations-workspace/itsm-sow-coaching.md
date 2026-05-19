@@ -70,7 +70,7 @@ Use the **Discover** tab to:
 
 -   Browse the course catalog or filter them based on set criteria narrow down the display of them to what's relevant to you.
 -   Analyze details for a course and path such as the time that it takes to complete them, or the skills you have gained recently.
--   Get learning recommended to you based on your past activities or the activities of your teams to which you belong. The content is grouped into different categories. For more information, see [Recommendation grouping](../../configurable-workforce-optimization-itsm/reference/configurable-wfo-itsm-coaching-reference.md).
+-   Get learning recommended to you based on your past activities or the activities of your teams to which you belong. The content is grouped into different categories. For more information, see [Recommendation grouping](../workforce-optimization-for-it-service-management/configurable-wfo-itsm-coaching-reference.md).
 -   Select **Browse recommended learning**, and then select and enroll in the desired course item.
 
 ## My learning tab
@@ -81,7 +81,7 @@ Use the **My learning** tab to:
 -   See courses, which were assigned to you or the ones you've enrolled in that you've have completed.
 -   Use the **Assigned &amp; enrolled** filter to narrow down the search.
 
-[Take a survey](../task/take-survey-sow-wfo-itsm.md) or [review skills](../task/review-skills-wfo-itsm.md) to add to your skill set. You can receive surveys available for any group to which you belong. You can make a copy of the survey and work on it to complete them.
+[Take a survey](take-survey-sow-wfo-itsm.md) or [review skills](review-skills-wfo-itsm.md) to add to your skill set. You can receive surveys available for any group to which you belong. You can make a copy of the survey and work on it to complete them.
 
 -   **[Learning path and course item discovery in Service Operations Workspace](discovering-learning-sow-wfo-itsm.md)**  
 Browse courses or learning paths and take the ones that are of interest to you. You can also discover them using Predictive Intelligence that provides recommendations based on past activities.

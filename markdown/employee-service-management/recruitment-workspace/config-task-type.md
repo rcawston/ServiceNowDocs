@@ -33,7 +33,7 @@ Role required: sn\_uni\_task.admin
 3.  Select **Update** to save your changes to the record table.
 
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 
 **Related topics**  
 

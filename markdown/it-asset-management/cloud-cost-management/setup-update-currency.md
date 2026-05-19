@@ -50,5 +50,5 @@ Setting up currency options enables Cloud Cost Management users to choose from t
 
 After the **Status** field changes to Ready, the selected currencies become available for selection in the **Currency preference** list on the Operations view.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

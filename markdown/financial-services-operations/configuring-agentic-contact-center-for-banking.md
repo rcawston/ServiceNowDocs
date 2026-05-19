@@ -26,25 +26,25 @@ Configure Agentic Contact Center for Banking by integrating your CCaaS provider,
 
     **Note:** The Wrap Up Completion skill is dependent on Now Assist for Customer Service Management \(CSM\).
 
--   [Configure AI indexing for Agentic Contact Center for Banking](../task/configure-ai-indexing-fso-contact-center.md)
+-   [Configure AI indexing for Agentic Contact Center for Banking](configure-ai-indexing-fso-contact-center.md)
 
     Configure AI indexing for the sources that the AI skills and agents use to retrieve data and perform analysis.
 
--   [Configure the customer profile summarization AI skill](../../fso-now-assist/task/configure-customer-profile-summarization-fso.md)
+-   [Configure the customer profile summarization AI skill](now-assist-for-financial-services-operations-fso/configure-customer-profile-summarization-fso.md)
 
     Review and configure the AI skill settings for customer profile summarization in the Customer 360 page.
 
--   [Configure the customer interaction context summary AI skill](../../fso-now-assist/task/configure-customer-contextual-summarization-fso.md)
+-   [Configure the customer interaction context summary AI skill](now-assist-for-financial-services-operations-fso/configure-customer-contextual-summarization-fso.md)
 
     Review and configure the AI skill settings for the customer interaction context summary in the Interaction page.
 
     **Note:** This skill is dependent on the customer profile summarization AI skill.
 
--   [Activate AI agents](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md)
+-   [Activate AI agents](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md)
 
     Enable agentic AI support in the Customer 360 and Interaction pages.
 
--   [Configure Knowledge Graph tags](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md#section_rrc_ywv_n3c)
+-   [Configure Knowledge Graph tags](now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md#section_rrc_ywv_n3c)
 
     Review and configure the knowledge graph tags for each customer type to define the data sources for your AI agents.
 
@@ -53,5 +53,5 @@ Configure Agentic Contact Center for Banking by integrating your CCaaS provider,
     If required, create knowledge base articles that define any business rules or knowledge you want the AI agents to use as source information.
 
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

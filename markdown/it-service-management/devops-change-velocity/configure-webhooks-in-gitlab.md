@@ -86,5 +86,5 @@ You can also access manual configuration from the GitLab tool record in DevOps C
     ![Webhooks configured in GitLab.](../image/gitlab-manual-webhooks-3.png)
 
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](../concept/gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
 

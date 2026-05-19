@@ -25,7 +25,7 @@ Role required: sn\_critical.agent
 
 2.  On the Critical Event form, fill in the fields and select **Save**.
 
-    For a description of the field values, see [Critical Event form](../reference/new-critical-event-form.md).
+    For a description of the field values, see [Critical Event form](new-critical-event-form.md).
 
 3.  Open the critical event and select the **Playbook** tab.
 

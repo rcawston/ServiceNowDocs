@@ -17,7 +17,7 @@ Manage problems and problem tasks through their life cycle, share workarounds or
 
 ## Before you begin
 
-If you aren't using the base problem life cycle, you will continue to use the classic experience to manage problems or problem tasks through their life cycle. From the problem record page, select **Continue problem** to be redirected to the ServiceNow AI Platform user interface where you can make state transitions. For information about state transitions of a problem, see [Life cycle of a problem](../../problem-management/concept/understanding-state-mgmt-transitions.md).
+If you aren't using the base problem life cycle, you will continue to use the classic experience to manage problems or problem tasks through their life cycle. From the problem record page, select **Continue problem** to be redirected to the ServiceNow AI Platform user interface where you can make state transitions. For information about state transitions of a problem, see [Life cycle of a problem](../problem-management/understanding-state-mgmt-transitions.md).
 
 The base problem life cycle is included with the Problem Management  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management Migration Utility [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
 
@@ -104,7 +104,7 @@ From the drop-down list next to **Create problem task**, select **Create outage*
 
 </td><td>
 
-From the drop-down list next to **Create problem task**, select **Create known error article**.Known error articles document the root cause and the workaround of the problem. For a description of the field values, see [Known error article form](../../problem-management/reference/known-error-article-form.md).
+From the drop-down list next to **Create problem task**, select **Create known error article**.Known error articles document the root cause and the workaround of the problem. For a description of the field values, see [Known error article form](../problem-management/known-error-article-form.md).
 
 </td></tr><tr><td id="d409548e295">
 
@@ -150,7 +150,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 -   A known error article is not already attached.
 -   Work notes are not empty.
  1.  From the contextual side panel, select the recommendations icon \(![recommendations icon](../image/recommended-actions-icon.png)\).
-2.  From the **Recommended actions** tab, select **Create article**. For a description of the field values, see [Known error article form](../../problem-management/reference/known-error-article-form.md).
+2.  From the **Recommended actions** tab, select **Create article**. For a description of the field values, see [Known error article form](../problem-management/known-error-article-form.md).
 
 
 </td></tr><tr><td id="d409548e404">
@@ -221,18 +221,18 @@ From a problem in the closed or resolved state, select **Re-analyze**. The state
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Problem Management in Service Operations Workspace](../concept/problem-sow.md)
+**Parent Topic:**[Problem Management in Service Operations Workspace](problem-sow.md)
 
 **Related topics**  
 
 
 [Create a problem in Service Operations Workspace](create-problem-sow.md)
 
-[Problem Management models in Service Operations Workspace](../concept/problem-mgmt-models-sow.md)
+[Problem Management models in Service Operations Workspace](problem-mgmt-models-sow.md)
 
 [Create a problem task in Service Operations Workspace](create-problem-task-sow.md)
 
 [Work on a problem task in Service Operations Workspace](work-on-problem-task-sow.md)
 
-[Problem Management in Service Operations Workspace reference](../concept/reference-problem-management-sow.md)
+[Problem Management in Service Operations Workspace reference](reference-problem-management-sow.md)
 

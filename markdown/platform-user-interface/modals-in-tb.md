@@ -33,9 +33,9 @@ To override the default modal illustrations with custom images, upload each imag
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for modal illustrations](../task/configure-modal-colors.md)**  
+-   **[Configure colors for modal illustrations](configure-modal-colors.md)**  
 Configure and control the colors automatically applied to modal illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[Override modal illustrations with custom images](../task/override-modal-with-custom-images.md)**  
+-   **[Override modal illustrations with custom images](override-modal-with-custom-images.md)**  
 Modify or override the default modal illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
 **Parent Topic:**[Working with Image styles](working-with-image-styles.md)

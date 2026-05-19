@@ -25,5 +25,5 @@ An example of Schedule Optimization validation messages.
 **Related topics**  
 
 
-[Scheduling Health dashboard](../../../use/dashboards/application-content-packs/scheduling-health-dashboard.md)
+[Scheduling Health dashboard](../scheduling-health-dashboard.md)
 

@@ -54,5 +54,5 @@ After you pause a task, you can resume when you start working on it again. The s
 
 Each time you pause or resume work on the asset pick task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on a hardware asset pick task using the Mobile Agent application](../concept/record-time-pick-task-mobile-agent-ham.md)
+**Parent Topic:**[Record time worked on a hardware asset pick task using the Mobile Agent application](record-time-pick-task-mobile-agent-ham.md)
 

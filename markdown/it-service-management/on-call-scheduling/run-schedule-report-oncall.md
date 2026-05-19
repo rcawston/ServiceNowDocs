@@ -42,5 +42,5 @@ Example Formatted report: The report shows on-call commitments for all specified
 
 ![Formatted Schedule report](../image/ScheduleReportFormattedReport.png "Formatted Schedule report")
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](viewing-reports.md)
 

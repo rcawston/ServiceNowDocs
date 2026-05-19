@@ -56,12 +56,12 @@ Discovery installation and configuration
 
     The Discovery Schedule is the control point for running discoveries. The schedule controls when Discovery runs, defines the MID Server to use, the type of Discovery that should run, and the IP addresses to query. Create as many schedules as necessary, using different types of discoveries, and configure them to run at any time. Let Discovery run on its configured schedule or manually execute Discovery at any time. You can set up a single schedule for the entire network or separate schedules for each location or VLAN. If you don’t know the IP address to scan in your network, run a Network Discovery first to discover the IP networks. Once discovered, you can convert these networks into IP address range sets that you use in a Discovery Schedule.
 
-    **Note:** For advanced discoveries, such as those requiring load balancing or scanning across multiple domains, use Discovery [behaviors](../concept/c_DiscoveryBehaviors.md).
+    **Note:** For advanced discoveries, such as those requiring load balancing or scanning across multiple domains, use Discovery [behaviors](c_DiscoveryBehaviors.md).
 
 6.  Validate the Discovery results.
 
-    Open the ECC queue and analyze the XML payload, then check the [Discovery log](../reference/r_DiscoveryLog.md#). For more information, refer to the section for validating results in [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+    Open the ECC queue and analyze the XML payload, then check the [Discovery log](r_DiscoveryLog.md#). For more information, refer to the section for validating results in [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
 
 
-**Parent Topic:**[Discovery setup](../concept/discovery-setup.md)
+**Parent Topic:**[Discovery setup](discovery-setup.md)
 

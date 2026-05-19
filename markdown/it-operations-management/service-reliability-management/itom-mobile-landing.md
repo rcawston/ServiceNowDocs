@@ -21,15 +21,15 @@ Stay connected and keep services reliable with ITOM Mobile Agent, which lets you
 
 <table id="table_plh_4qx_42c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITOM Mobile Agent, including its benefits and common workflows.](../concept/explore-itom-mobile.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITOM Mobile Agent, including its benefits and common workflows.](explore-itom-mobile.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install ITOM Mobile Agent and configure notifications.](../concept/configure-itom-mobile.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install ITOM Mobile Agent and configure notifications.](configure-itom-mobile.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Log in and work with alerts, incidents, tasks, and on-call schedules.](../concept/use-itom-mobile.md)
+[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Log in and work with alerts, incidents, tasks, and on-call schedules.](use-itom-mobile.md)
 
 </td><td>
 

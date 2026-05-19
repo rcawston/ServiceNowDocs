@@ -77,9 +77,9 @@ Excludes documents that contain the search term after the NOT operator \(a diffe
 
 [Wildcard characters allow searching for patterns and variations](c_Wildcards.md)
 
-[Enable or disable the Zing junk filter](../task/t_DisableTheJunkFilter.md)
+[Enable or disable the Zing junk filter](t_DisableTheJunkFilter.md)
 
-[Debug Zing](../task/t_DebugZing.md)
+[Debug Zing](t_DebugZing.md)
 
 [Knowledge properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md)
 

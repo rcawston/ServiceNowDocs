@@ -28,7 +28,7 @@ You can add or manage controls to a processing activity in the following ways:
 -   Selecting from the recommended controls: This option enables you to choose from a list of recommended controls based on the information object that is mapped to a processing activity. If an information object is mapped to one or more control objectives, and the same information object is mapped to a processing activity, the system recommends the corresponding control objectives.
 -   Managing the automatically added controls: You can manage the controls that are automatically created based on the assessment responses.
 -   Applying controls from entities: You can apply privacy-related controls on the processing activity from the related entity.
--   Adding common controls: You can add common controls to a processing activity so that the privacy teams can be notified of control failures and avoid duplicate common control attestation process. For more information on common controls, refer to [Testing common control and implementing results on multiple reliant entities](../../grc-workspace-compliance/concept/common-controls-multiple-rel-entities.md).
+-   Adding common controls: You can add common controls to a processing activity so that the privacy teams can be notified of control failures and avoid duplicate common control attestation process. For more information on common controls, refer to [Testing common control and implementing results on multiple reliant entities](../grc-compliance-management-workspace/common-controls-multiple-rel-entities.md).
 
 **Note:**
 
@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-Click **New** and fill in the form.For details see, [Create a control](../../grc-policy-and-compliance/concept/c_GRCControls.md).
+Click **New** and fill in the form.For details see, [Create a control](../policy-and-compliance-management/c_GRCControls.md).
 
 </td></tr><tr><td id="d106501e154">
 
@@ -85,5 +85,5 @@ Click **New** and fill in the form.For details see, [Create a control](../../grc
 
 The mitigating controls are added to the processing activity.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

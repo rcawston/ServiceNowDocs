@@ -22,7 +22,7 @@ Key features include:
 
 ## Application setup
 
-First, you must activate the HR Service Delivery Integration with the Ultimate Kronos Group \[sn\_hr\_ukg\] application from the ServiceNow Store. Next, you must set up [HR Service Delivery Integration with Ultimate Kronos Group application](../task/set-up-ukg.md).
+First, you must activate the HR Service Delivery Integration with the Ultimate Kronos Group \[sn\_hr\_ukg\] application from the ServiceNow Store. Next, you must set up [HR Service Delivery Integration with Ultimate Kronos Group application](set-up-ukg.md).
 
 ## Overview of HR Service Delivery with Ultimate Kronos Group
 
@@ -34,7 +34,7 @@ As an employee, you can view your accrual balances, work hours, list of punches,
 
 -   **Retrieve My Accrual Balance**
 
-    You can view the aggregate of accrual leaves balance \(by type\) by selecting the **Retrieve My Accrual Balance \(Template\)**. If the [NLU model](../task/nlu-ukg-model.md) is trained, you can ask a question in the chat \(for example, show my sick leaves\) and view the balance of a single type of leave.
+    You can view the aggregate of accrual leaves balance \(by type\) by selecting the **Retrieve My Accrual Balance \(Template\)**. If the [NLU model](nlu-ukg-model.md) is trained, you can ask a question in the chat \(for example, show my sick leaves\) and view the balance of a single type of leave.
 
 -   **Retrieve My Hours Worked**
 
@@ -46,7 +46,7 @@ As an employee, you can view your accrual balances, work hours, list of punches,
 
 -   **Retrieve My Schedule**
 
-    You can view the work schedule for a given period by selecting the **Retrieve My Employee Schedule \(Template\)** and choosing a symbolic period. If the [NLU model](../task/nlu-ukg-model.md) is trained, you can ask a question in the chat \(for example, my work schedules of the previous pay period\) and view the work schedules for that symbolic period.
+    You can view the work schedule for a given period by selecting the **Retrieve My Employee Schedule \(Template\)** and choosing a symbolic period. If the [NLU model](nlu-ukg-model.md) is trained, you can ask a question in the chat \(for example, my work schedules of the previous pay period\) and view the work schedules for that symbolic period.
 
     You can also view your schedule location for three days from the current day.
 
@@ -58,7 +58,7 @@ As an employee, you can view your accrual balances, work hours, list of punches,
 
 -   **Retrieve My Upcoming Shift**
 
-    You can view the next upcoming shift by selecting the **Retrieve My Upcoming Shift \(Template\)**. If the [NLU model](../task/nlu-ukg-model.md) is trained, you can ask a question in chat \(for example, show my shifts\) and directly view the next upcoming shift.
+    You can view the next upcoming shift by selecting the **Retrieve My Upcoming Shift \(Template\)**. If the [NLU model](nlu-ukg-model.md) is trained, you can ask a question in chat \(for example, show my shifts\) and directly view the next upcoming shift.
 
     You can also view your location along with the shift date and time.
 
@@ -90,11 +90,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure ![Plan and configure your implementation](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](../task/set-up-ukg.md)
+[Configure ![Plan and configure your implementation](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](set-up-ukg.md)
 
 </td><td>
 
-[Reference ![Get details about components like fields, tables, and properties](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](../reference/ref-hrsd-ukg.md)
+[Reference ![Get details about components like fields, tables, and properties](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](ref-hrsd-ukg.md)
 
 </td></tr><tr><td>
 

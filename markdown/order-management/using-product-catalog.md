@@ -46,11 +46,11 @@ AI Search provides other features to enhance the search process:
 
 ![AI Search features in product catalog interface: Sort by filter options, sort order, and search bar. Another example shows search bar with auto-complete suggestions.](../image/ai-search-bar-catalog.png "Product catalog interface with AI Search")
 
-For more information on search queries and the search query language that you can use to find catalog items, see [Use AI Search in product catalogs](../task/use-ai-search-catalog.md).
+For more information on search queries and the search query language that you can use to find catalog items, see [Use AI Search in product catalogs](use-ai-search-catalog.md).
 
 **Note:** Check your entitlements to determine if you have access to this feature.
 
--   **[Use AI Search in product catalogs](../task/use-ai-search-catalog.md)**  
+-   **[Use AI Search in product catalogs](use-ai-search-catalog.md)**  
 As an agent or customer, use AI Search queries in the product catalog to find relevant product offerings or service specifications. For example, you can search by product offering characteristics or other attributes, when adding products in Sales Customer Relationship Management transactions.
 
 **Parent Topic:**[Using lead-to-cash foundation applications](using-lead-cash-foundation.md)

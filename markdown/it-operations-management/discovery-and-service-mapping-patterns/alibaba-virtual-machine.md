@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Alibaba - Virtual Machine \(LP\)
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md).
+Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -184,5 +184,5 @@ The Alibaba - Virtual Machine \(LP\) pattern collects tags and populates them in
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] table.|
 
-**Parent Topic:**[Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md)
+**Parent Topic:**[Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md)
 

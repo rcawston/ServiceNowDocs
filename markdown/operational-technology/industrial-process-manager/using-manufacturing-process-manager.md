@@ -19,11 +19,11 @@ The following graphic shows some common questions that industrial personnel ask 
 
 ![Diagram displaying the solutions to customer problems](../image/mfgr-personae-solution.png "Industrial personnel questions about operational problems")
 
-Betty, a Configuration Manager, works at the enterprise level and wants to know where the OT devices reside in the enterprise. To answer this question, a Configuration Manager can use the Operational Technology Manager functions on the Industrial Workspace Admin menu. To learn more, see [Industrial Workspace Admin application menu and Guided Setup](../task/manufacturing-app-menu-guided-setup.md).
+Betty, a Configuration Manager, works at the enterprise level and wants to know where the OT devices reside in the enterprise. To answer this question, a Configuration Manager can use the Operational Technology Manager functions on the Industrial Workspace Admin menu. To learn more, see [Industrial Workspace Admin application menu and Guided Setup](manufacturing-app-menu-guided-setup.md).
 
 Bhuvnesh, an OT engineer, works at the site level and wants to know how OT devices map to specific productions processes. For example, a question asked might be "What HMIs and PLCs are controlling this specific portion of the industrial processing? To answer this question, an OT Manager at the site level can use the Industrial Process Manager functions on the Industrial Workspace Admin menu.
 
--   **[Managing equipment models](../task/managing-equipment-models-after-data-import.md)**  
+-   **[Managing equipment models](managing-equipment-models-after-data-import.md)**  
 The Equipment Model Manager in the Industrial Workspace enables you to review and manage ISA-95 equipment model data. You use it to review imported equipment model data or to manually create an equipment model.
 
 **Parent Topic:**[Industrial Process Manager](industrial-process-manager-overview.md)

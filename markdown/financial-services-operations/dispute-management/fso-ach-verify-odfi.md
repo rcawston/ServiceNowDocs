@@ -55,5 +55,5 @@ You then review these updated details to determine if you should file a return, 
 9.  Close the task.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](process-dispute-ach.md)
 

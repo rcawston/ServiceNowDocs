@@ -19,13 +19,13 @@ You can import and configure data from various sources, such as RPA, ServiceNow 
 
 Earlier, for data of different data sources different types of summarization was required. It was time-consuming. However, now there’s a generic way to make updates to automation summary execution for data from different sources.
 
--   **[Create automation source type](../task/create-source-type.md)**  
+-   **[Create automation source type](create-source-type.md)**  
 Define the kind of source type that you want to import and use in Automation Center.
--   **[Create automation source](../task/create-source.md)**  
+-   **[Create automation source](create-source.md)**  
 Associate a data source for the selected source type.
--   **[Configure execution summary](../task/create-exe-sum-config.md)**  
+-   **[Configure execution summary](create-exe-sum-config.md)**  
 Configure the execution summary with the appropriate conditions.
--   **[Create execution state mapping](../task/create-exe-state-mapping.md)**  
+-   **[Create execution state mapping](create-exe-state-mapping.md)**  
 Define the mapping for the source and target tables for the configuration to work as expected.
 
 **Parent Topic:**[Configuring Automation Center](automation-center-setup.md)

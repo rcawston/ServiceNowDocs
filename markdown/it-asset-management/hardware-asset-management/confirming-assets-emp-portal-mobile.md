@@ -15,9 +15,9 @@ breadcrumb: [Audit your hardware assets by using Asset Attestation, Using Hardwa
 
 As an employee, acknowledge whether you have the serialized hardware that's assigned to you either through the Now Mobile app or on the Employee Center portal.
 
--   **[Confirm the assigned assets using the Now Mobile app](../task/confirm-ham-assets-now-mobile.md)**  
+-   **[Confirm the assigned assets using the Now Mobile app](confirm-ham-assets-now-mobile.md)**  
 As an employee, acknowledge or deny the ownership of the serialized hardware assets assigned to you using the Now Mobile app.
--   **[Confirm the assigned assets on the Employee Center portal](../task/confirm-assets-on-emp-center.md)**  
+-   **[Confirm the assigned assets on the Employee Center portal](confirm-assets-on-emp-center.md)**  
 As an employee, acknowledge or deny the ownership of the serialized hardware assets assigned to you on the Employee Center portal.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)

@@ -46,7 +46,7 @@ Role required: sn\_si.admin or sn\_si.analyst
 6.  View the data, and validate the isolate host details on the related lists.
 
 
-**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](../concept/additional-configurations-in-defender.md)
+**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](additional-configurations-in-defender.md)
 
 **Related topics**  
 

@@ -84,11 +84,11 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     5.  If your roadmap items \(such as projects, epics, or demands\) have milestones, adjust how they’re displayed using the toggles in the Milestones section.
 
-        For more information, see [Customizing milestones display on roadmap in Strategic Planning Workspace](../../alignment-planner-workspace/concept/personalizing-the-milestones-display-on-the-roadmap.md).
+        For more information, see [Customizing milestones display on roadmap in Strategic Planning Workspace](personalizing-the-milestones-display-on-the-roadmap.md).
 
     6.  If your roadmap items have dependencies, adjust how they’re displayed using the toggles in the Dependencies section.
 
-        For more information, see [Customizing the dependencies display on the roadmap in Strategic Planning Workspace](../../alignment-planner-workspace/concept/customizing-dependencies-display-on-roadmap.md).
+        For more information, see [Customizing the dependencies display on the roadmap in Strategic Planning Workspace](customizing-dependencies-display-on-roadmap.md).
 
     7.  Identify the current date on your timeline using the current date indicator.
 
@@ -105,5 +105,5 @@ From the Free-form Roadmaps tab, select a roadmap.
 6.  Apply filters to the data shown on the roadmap.
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 

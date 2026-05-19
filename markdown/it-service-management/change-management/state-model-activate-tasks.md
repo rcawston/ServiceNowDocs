@@ -122,5 +122,5 @@ You must also update any reports that run queries based on old state labels to r
 **Related topics**  
 
 
-[Installed with Change Management - State Model](../reference/r_InstalledWithStateModel.md#)
+[Installed with Change Management - State Model](r_InstalledWithStateModel.md#)
 

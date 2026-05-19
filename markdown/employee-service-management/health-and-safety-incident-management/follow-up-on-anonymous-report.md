@@ -52,7 +52,7 @@ After submitting the anonymous report, you’ll see a modal dialogue requesting 
 9.  Select **Post**.
 
 
-**Parent Topic:**[Managing an anonymous safety concern](../concept/managing_anonymous_safety_concern.md)
+**Parent Topic:**[Managing an anonymous safety concern](managing_anonymous_safety_concern.md)
 
 **Related topics**  
 

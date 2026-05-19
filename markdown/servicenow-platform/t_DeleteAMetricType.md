@@ -25,9 +25,9 @@ You must delete some of these records manually before deleting the type, while t
 
 1.  Delete the records associated with the type to delete:
 
-    -   [Assessment results](../reference/r_AssessmentResults.md) \(metric and category results\)
-    -   [Assessment instance](../concept/c_AssessmentInstances.md) \(questions and assessment instances, in that order\)
-    -   [Assessment groups](../concept/c_AssessmentGroups.md)
+    -   [Assessment results](r_AssessmentResults.md) \(metric and category results\)
+    -   [Assessment instance](c_AssessmentInstances.md) \(questions and assessment instances, in that order\)
+    -   [Assessment groups](c_AssessmentGroups.md)
 2.  Delete the type.
 
     A confirmation dialog box appears and alerts you that certain records associated with the type will also be deleted.
@@ -44,10 +44,10 @@ You must delete some of these records manually before deleting the type, while t
     -   Metric definitions
     -   Decision matrixes
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

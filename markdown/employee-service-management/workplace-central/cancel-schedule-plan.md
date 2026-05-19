@@ -40,5 +40,5 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 The schedule plan is moved to the Canceled state. If the schedule plan was published before being cancelled, the location assignments created in the plan are made inactive.
 
-**Parent Topic:**[Working with Schedule Planning](../concept/working-with-schedule-planning.md)
+**Parent Topic:**[Working with Schedule Planning](working-with-schedule-planning.md)
 

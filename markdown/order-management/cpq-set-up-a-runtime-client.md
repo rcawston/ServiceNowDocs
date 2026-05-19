@@ -59,5 +59,5 @@ Runtime clients can be set up that provide a token for authentication of runtime
 **Related topics**  
 
 
-[Use case: Embed CPQ UI in a Salesforce VisualForce page](../concept/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
+[Use case: Embed CPQ UI in a Salesforce VisualForce page](use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
 

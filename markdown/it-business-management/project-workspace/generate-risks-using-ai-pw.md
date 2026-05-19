@@ -21,7 +21,7 @@ Role required: it\_project\_manager
 
 -   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   Verify risk generation skill is active.
--   The risk generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../../now-assist-spm/concept/configuring-na-spm.md).
+-   The risk generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
 ## About this task
 
@@ -49,5 +49,5 @@ The AI Identified Risks menu is visible only to project managers when the risk g
     ![AI-generated risks for a project.](../../now-assist-spm/images/ai-generated-risks.png)
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

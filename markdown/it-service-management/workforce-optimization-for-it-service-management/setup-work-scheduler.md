@@ -164,5 +164,5 @@ Select a matching rule for the work configuration.
     5.  Select **Update**.
 
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](../concept/setting-up-work-scheduler.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for ITSM](setting-up-work-scheduler.md)
 

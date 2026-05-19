@@ -155,7 +155,7 @@ Any headers to be passed with the requests can be provided in Request Header Map
 View the list of all the subscribed webhook triggers for the current webhook.
 -   **[View webhook error logs](tisc-error-logs.md)**  
 Use this error logs section to view all the audit entries which are marked as error in the status for a particular webhook.
--   **[View webhook batches](../task/tisc-webhook-batch.md)**  
+-   **[View webhook batches](tisc-webhook-batch.md)**  
 A webhook batch record is created for each webhook execution.
 
 **Parent Topic:**[Working with Webhooks](tisc-webhooks.md)

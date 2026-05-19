@@ -112,7 +112,7 @@ Area unit
 
 Select the unit used for defining the space size: square feet or square meters.
 
- **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](../concept/c_SpaceRollupCalculations.md).
+ **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](c_SpaceRollupCalculations.md).
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ Occupiable
 
 </td><td>
 
-Select this check box if the space can be occupied. See [Space roll up calculations](../concept/c_SpaceRollupCalculations.md).
+Select this check box if the space can be occupied. See [Space roll up calculations](c_SpaceRollupCalculations.md).
 
 </td></tr></tbody>
 </table>4.  Use the **Associated Users** and **Assets** related lists to view or add users and assets to the space.
@@ -221,5 +221,5 @@ Action
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](r_Manually-builtMaps.md)
 

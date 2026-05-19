@@ -46,5 +46,5 @@ Role required: sn\_privacy.admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage the Privacy Management library](../concept/privacy-library-setup.md)
+**Parent Topic:**[Manage the Privacy Management library](privacy-library-setup.md)
 

@@ -58,18 +58,18 @@ This synchronization ensures that published technology standards remain current 
 
 **Note:** Some structural changes, such as renaming TRM phases or categories, require the catalog to be republished to apply the updates consistently across all articles.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
 
-[Create a new configuration to publish TRM data](../../task/eaw-task/config-trm-data-to-publish.md)
+[Create a new configuration to publish TRM data](config-trm-data-to-publish.md)
 
-[Publish a TRM catalog to the knowledge base](../../task/eaw-task/publish-trm-cat-to-kb.md)
+[Publish a TRM catalog to the knowledge base](publish-trm-cat-to-kb.md)
 
-[View publishing status and run log](../../task/eaw-task/view-run-log.md)
+[View publishing status and run log](view-run-log.md)
 
-[Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
 [Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

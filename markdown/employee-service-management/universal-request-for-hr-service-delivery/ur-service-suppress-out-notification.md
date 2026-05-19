@@ -36,5 +36,5 @@ Service emails, such as, service ticket creation, notes or state changes, can be
 4.  Click **Update**.
 
 
-**Parent Topic:**[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+**Parent Topic:**[Email notification preferences for your service](ur-customize-email-notifcations.md)
 

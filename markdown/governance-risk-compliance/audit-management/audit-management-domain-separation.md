@@ -115,7 +115,7 @@ The following changes are made to the domain assignment process to manage data s
 |Observation|Engagement|
 |Plan|User|
 
-**Parent Topic:**[Audit Management reference](../reference/audit-management-reference.md)
+**Parent Topic:**[Audit Management reference](audit-management-reference.md)
 
 **Related topics**  
 

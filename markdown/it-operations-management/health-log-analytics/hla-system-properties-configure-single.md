@@ -47,7 +47,7 @@ The new value overrides the previous setting for the selected log source.
 -   **[Configure global Health Log Analytics system properties](hla-system-properties-configure.md)**  
 Configure global Health Log Analytics system properties if you need to alter the default values, which should not usually be necessary.
 
-**Parent Topic:**[Administering Health Log Analytics](../concept/hla-administer.md)
+**Parent Topic:**[Administering Health Log Analytics](hla-administer.md)
 
 **Related topics**  
 

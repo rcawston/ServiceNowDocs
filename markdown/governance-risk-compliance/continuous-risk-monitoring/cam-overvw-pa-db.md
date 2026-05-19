@@ -37,11 +37,11 @@ To open the dashboard, navigate to **All** &gt; **Continuous Authorization &amp;
 |-----|----|------------|-----------|
 |Authorization boundary tab|
 |Boundaries connected to CMDB|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)|System elements \[sn\_irm\_cont\_auth\_boundary\_element\]|The number of authorization boundaries defined to work with your CMDB.|
-|Mission critical boundaries|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization boundaries defined as being mission critical. For more information, see [Define the authorization boundary](../../../product/grc-cam/task/define-auth-boundaries.md).|
+|Mission critical boundaries|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization boundaries defined as being mission critical. For more information, see [Define the authorization boundary](define-auth-boundaries.md).|
 |Orphan authorization boundaries|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization boundaries not related to an authorization package.|
 |Boundaries status|Bar chart ![Bar icon.](../../performance-analytics/image/column-icon.png)| |The number of authorization boundaries in each state.|
 |Authorization packages tab|
-|Packages with overridden impact|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization packages with an impact that have been overridden. For more information, see [RMF step 1 - Categorize the authorization package](../../../product/grc-cam/task/categorize.md).|
+|Packages with overridden impact|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization packages with an impact that have been overridden. For more information, see [RMF step 1 - Categorize the authorization package](categorize.md).|
 |Packages pending approval|Single Score ![Single-score icon.](../../performance-analytics/image/single-score.png)| |The number of authorization packages for which approval has been requested, but that haven’t yet received approval.|
 |Packages by impact|Bar chart ![Bar icon.](../../performance-analytics/image/column-icon.png)| |The number of authorization packages categorized by impact levels.|
 |Packages by step|Bar chart ![Bar icon.](../../performance-analytics/image/column-icon.png)| |The number of authorization packages categorized by steps \(for example, Monitor, Access, Select, and so on\).|

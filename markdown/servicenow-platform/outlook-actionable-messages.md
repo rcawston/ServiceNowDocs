@@ -13,47 +13,47 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 Outlook actionable messages plugin enables users to respond to the survey from within the Microsoft Outlook application.
 
--   **[Install Outlook Actionable Messages plugin](../task/install-outlook-actionable-messages-plugin.md)**  
+-   **[Install Outlook Actionable Messages plugin](install-outlook-actionable-messages-plugin.md)**  
 Install Outlook Actionable Messages\(sn\_ms\_oam\) plugin to configure actionable messages.
 -   **[Customize fields for the approval message](customize-approval-message.md)**  
 Customize the body message for a request, change, and request item approval sent in Microsoft Outlook.
--   **[Enable Advanced view for Outlook Actionable Message definition](../task/enable-advanced-view-oam.md)**  
+-   **[Enable Advanced view for Outlook Actionable Message definition](enable-advanced-view-oam.md)**  
 Enable the advanced view to customize the actionable message as per the requirement for Microsoft Outlook.
 
-**Parent Topic:**[Survey administration](../../survey-administration/reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../../survey-administration/task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
-[Survey designer](../../survey-administration/concept/c_SurveyDesigner.md)
+[Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../../survey-administration/task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
-[Survey users and groups](../../survey-administration/concept/c_SurveyUsersAndGroups.md)
+[Survey users and groups](c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../../survey-administration/task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../../survey-administration/task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../../survey-administration/task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
-[Survey definitions](../../survey-administration/concept/c_SurveyDefinitions.md)
+[Survey definitions](c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../../survey-administration/task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
-[Survey questions](../../survey-administration/concept/c_SurveyQuestion.md)
+[Survey questions](c_SurveyQuestion.md)
 
-[Survey trigger conditions](../../survey-administration/concept/c_TriggerConditions.md)
+[Survey trigger conditions](c_TriggerConditions.md)
 
-[Survey distribution](../../survey-administration/concept/c_SurveyDistribution.md)
+[Survey distribution](c_SurveyDistribution.md)
 
-[Sentiment analysis for surveys](../../survey-administration/concept/sentiment-analysis.md)
+[Sentiment analysis for surveys](sentiment-analysis.md)
 
-[Surveys in Service Portal and the Now Mobile app](../../survey-administration/concept/c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
 
-[Surveys in ITSM Virtual Agent](../../survey-administration/concept/survey-virtual-agent.md)
+[Surveys in ITSM Virtual Agent](survey-virtual-agent.md)
 
-[Legacy survey migration](../../survey-administration/concept/c_MigrateSurveys.md)
+[Legacy survey migration](c_MigrateSurveys.md)
 

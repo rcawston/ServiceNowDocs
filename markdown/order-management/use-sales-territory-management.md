@@ -22,12 +22,12 @@ You can update the primary territory on a lead in which Sales Territory Manageme
 -   **[Assign a territory on consumer](assign-territory-consumer.md)**  
 You can update the primary territory on a consumer in which Sales Territory Management​ has been implemented.
 
-**Parent Topic:**[Using lead and opportunity management applications](../concept/using-lead-opportunity-mgt.md)
+**Parent Topic:**[Using lead and opportunity management applications](using-lead-opportunity-mgt.md)
 
 **Related topics**  
 
 
-[Configuring Sales Territory Management​](../concept/configure-sales-territory-management.md)
+[Configuring Sales Territory Management​](configure-sales-territory-management.md)
 
-[Components installed with Sales Territory Management​](../reference/components-installed-sales-territory-management.md)
+[Components installed with Sales Territory Management​](components-installed-sales-territory-management.md)
 

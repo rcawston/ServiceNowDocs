@@ -18,11 +18,11 @@ The Auto-Assignment feature can be enabled for requests or tasks, depending on t
 -   If the Requests are assigned via auto-assignment option is enabled, requests are automatically assigned.
 -   If the Tasks are assigned via auto-assignment option is enabled, the tasks in a request are automatically assigned.
 
--   **[Agent auto assignment using rating-based criteria](../../planning-and-policy/concept/c_AgentAutoAssignUseRatBaseCrit.md)**  
+-   **[Agent auto assignment using rating-based criteria](c_AgentAutoAssignUseRatBaseCrit.md)**  
 Rating-based methods, such as location, skills, and time zones, help to auto assign agents based on configuration settings and optional properties. The calculated ratings are used to determine the best agent to perform the task.
--   **[Agent auto assignment using time-based criteria](../../planning-and-policy/concept/c_AgAtAssgnTime.md)**  
+-   **[Agent auto assignment using time-based criteria](c_AgAtAssgnTime.md)**  
 Time-based methods, such as schedules and priority assignment, help you auto assign agents based on configuration settings and optional properties. The calculated ratings are used to determine the best agent to perform the task.
--   **[Agent auto assignment using multiple selection criteria](../../planning-and-policy/concept/c_AgAtAssgmtMlt.md)**  
+-   **[Agent auto assignment using multiple selection criteria](c_AgAtAssgmtMlt.md)**  
 At its simplest, auto assignment involves identifying a set of selection criteria and automatically assigning the task to the agent who most closely meets the criteria. You can, however, select multiple sets of criteria, including both rating-based and time-based criteria.
 
 **Parent Topic:**[Agent assignment methods](c_AgentAssignment.md)

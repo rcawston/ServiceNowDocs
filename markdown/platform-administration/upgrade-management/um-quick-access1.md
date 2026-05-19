@@ -28,5 +28,5 @@ Role required: admin
     1.  Navigate to **System Update Sets** &gt; **Update Sets to Commit**.
     2.  Select any of the update sets to directly view the commit history of that update set.
 
-**Parent Topic:**[Reviewing upgrade history](../concept/um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](um-review-history.md)
 

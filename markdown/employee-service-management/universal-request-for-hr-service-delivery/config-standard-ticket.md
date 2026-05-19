@@ -40,5 +40,5 @@ By default, a standard ticket configuration is provided for UR. You can customiz
     For more information, see [Standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/standard-ticket-page.md).
 
 
-**Parent Topic:**[Standard Ticket page for Universal Request](../concept/ur-std-ticket-page.md)
+**Parent Topic:**[Standard Ticket page for Universal Request](ur-std-ticket-page.md)
 

@@ -45,8 +45,8 @@ Use the Invoice exception definition form to provide details about the new invoi
 Use the Approval Rule form to provide details about the new approval rule.
 -   **[Approval Plan form](approval-plan-form.md)**  
 Use the Approval Plan form to view details of the overall invoice approval process.
--   **[Accounts Payable Operations glossary](../concept/apo-glossary.md#)**  
+-   **[Accounts Payable Operations glossary](apo-glossary.md#)**  
 Learn about the terms and concepts used in Accounts Payable Operations \(APO\).
 
-**Parent Topic:**[Accounts Payable Operations](../concept/acc-pay-mgmt-landing-page.md)
+**Parent Topic:**[Accounts Payable Operations](acc-pay-mgmt-landing-page.md)
 

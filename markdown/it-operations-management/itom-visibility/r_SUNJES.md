@@ -30,5 +30,5 @@ The following data is collected in the JES `[cmdb_ci_email_server_jes]` table:
 |Class|sys\_class\_name|
 |Fully qualified domain name|fqdn|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

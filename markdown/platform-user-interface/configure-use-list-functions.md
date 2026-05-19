@@ -21,7 +21,7 @@ Role required: admin
 
 The following procedures describe functions that users can configure or use with lists.
 
-**Parent Topic:**[Lists in the classic environment](../concept/c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
 
 ## Sort a list
 
@@ -93,7 +93,7 @@ Field status indicators on lists are displayed with modern cell coloring, as a c
 
     3.  Click **OK**.
 
-    For more information, see [Creating Personal Lists](../concept/c_PersonalLists.md#).
+    For more information, see [Creating Personal Lists](c_PersonalLists.md#).
 
 
 ## Customize the number of list rows per page
@@ -196,7 +196,7 @@ Role required: admin
 
 Some lists may be embedded in forms. Use list controls to work with records in an embedded list within a form.
 
-Use these controls to work with an embedded list. For more information, see [Edit a form](../../using-forms/task/t_EditingInForms.md#).
+Use these controls to work with an embedded list. For more information, see [Edit a form](t_EditingInForms.md#).
 
 |Task|Icon|Action|
 |----|----|------|

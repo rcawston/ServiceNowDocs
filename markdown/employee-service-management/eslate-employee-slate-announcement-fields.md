@@ -40,7 +40,7 @@ To create an announcement, see [Create an Employee Slate announcement](../task/e
 
 ## Content priority levels
 
-To create an announcement through chat, see [Conversational authoring for announcements](../concept/eslate-conversational-authoring-announcements.md).
+To create an announcement through chat, see [Conversational authoring for announcements](eslate-conversational-authoring-announcements.md).
 
 |Priority level|Behavior|
 |--------------|--------|

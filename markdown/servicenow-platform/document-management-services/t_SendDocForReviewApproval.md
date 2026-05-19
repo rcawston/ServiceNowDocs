@@ -42,5 +42,5 @@ Role required: document\_management\_user
 6.  In the Document Revisions list, the revision you approved is now in the Ready for Publishing stage.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

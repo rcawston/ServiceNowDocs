@@ -30,5 +30,5 @@ Role required: sn\_ta\_hiring\_core.admin/ sn\_ta\_tp.talent\_profile\_admin
 
 You've created the talent profiles.
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

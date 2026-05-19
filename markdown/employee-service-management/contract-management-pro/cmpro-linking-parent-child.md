@@ -28,11 +28,11 @@ To link a contract as a parent, the following conditions must be met:
 -   Only one parent contract can be selected while linking.
 -   The parent contract must be a single contract type using own paper or third-party paper.
 
--   **[Link parent contract requests](../task/cmpro-link-parent-cmr.md)**  
+-   **[Link parent contract requests](cmpro-link-parent-cmr.md)**  
 Link parent contracts during drafting and negotiation phases to establish hierarchical relationship between the parent and child contracts.
--   **[Link and inherit parent contract fields](../task/cmpro-link-inhrt-prnt-flds.md)**  
+-   **[Link and inherit parent contract fields](cmpro-link-inhrt-prnt-flds.md)**  
 Link parent contracts during drafting and negotiation phases to establish hierarchical relationship between the parent and child contracts, and automatically inherit the configured fields from the parent contract.
--   **[Remove a linked contract](../task/cmpro-remove-linked-cntr.md)**  
+-   **[Remove a linked contract](cmpro-remove-linked-cntr.md)**  
 Remove a linked parent contract from contract requests when you have linked a wrong contract request or the linking is no longer required.
 
 **Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
@@ -40,11 +40,11 @@ Remove a linked parent contract from contract requests when you have linked a wr
 **Related topics**  
 
 
-[Link parent contract requests](../task/cmpro-link-parent-cmr.md)
+[Link parent contract requests](cmpro-link-parent-cmr.md)
 
-[Link and inherit parent contract fields](../task/cmpro-link-inhrt-prnt-flds.md)
+[Link and inherit parent contract fields](cmpro-link-inhrt-prnt-flds.md)
 
-[Remove a linked contract](../task/cmpro-remove-linked-cntr.md)
+[Remove a linked contract](cmpro-remove-linked-cntr.md)
 
-[Configure field mapping for parent-child contract linking](../task/cncor-conf-parent-child.md)
+[Configure field mapping for parent-child contract linking](cncor-conf-parent-child.md)
 

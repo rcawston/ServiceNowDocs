@@ -37,7 +37,7 @@ Role required: sn\_ti.admin
     **Note:** To load more location-related information, edit the **ThreatAdditionalInfo** script include and provide the appropriate API key from the website that provides the additional information.
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](c_Observables.md)
 
 **Related topics**  
 

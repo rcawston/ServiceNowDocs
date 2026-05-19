@@ -37,7 +37,7 @@ A permit type is a specific category of permit that addresses unique risks and s
 
 6.  On the Choice new record form, fill in the fields.
 
-    For a description of the field values, see [Choice new record form](../reference/hs-choice-new-record-form.md).
+    For a description of the field values, see [Choice new record form](hs-choice-new-record-form.md).
 
 7.  Select **Submit**.
 
@@ -52,7 +52,7 @@ A permit type is a specific category of permit that addresses unique risks and s
     5.  Create a variable set with grouped variables by selecting **Single row variable set**.
     6.  On the Variable set new record form, fill in the fields..
 
-        For a description of the field values, see [Variable set new record form](../reference/hs-variable-set-new-record-form.md).
+        For a description of the field values, see [Variable set new record form](hs-variable-set-new-record-form.md).
 
     7.  Select **Submit**.
     8.  Repeat these steps for each permit type.
@@ -60,7 +60,7 @@ A permit type is a specific category of permit that addresses unique risks and s
 
     1.  Open a variable set.
     2.  On the Variable new record form, fill in the fields.
-    3.  For a description, see [Variable new record form](../reference/hs-variable-new-record.md).
+    3.  For a description, see [Variable new record form](hs-variable-new-record.md).
     4.  Select **Submit**.
 10. Link the variable set to the permit type.
 
@@ -75,5 +75,5 @@ A permit type is a specific category of permit that addresses unique risks and s
     The variable set with the questions is linked with the permit type and these questions appear on the permit-to-work request form when the permit type is selected.
 
 
-**Parent Topic:**[Configure permit-to-work](../concept/hs-configure-permit-to-work.md)
+**Parent Topic:**[Configure permit-to-work](hs-configure-permit-to-work.md)
 

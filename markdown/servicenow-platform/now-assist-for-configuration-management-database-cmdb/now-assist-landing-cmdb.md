@@ -27,7 +27,7 @@ Use ServiceNow® Now Assist for Configuration Management Database \(CMDB\) to im
 
 </td></tr><tr><td>
 
-[Using skills in Now Assist for CMDB![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)](now-assist-cmdb-using-skills.md)[Use Now Assist for CMDB skills to view a concise summary of key CI data, to help you to resolve de-duplication tasks, and several other processes.](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+[Using skills in Now Assist for CMDB![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)](now-assist-cmdb-using-skills.md)[Use Now Assist for CMDB skills to view a concise summary of key CI data, to help you to resolve de-duplication tasks, and several other processes.](../common-service-data-model-csdm/csdm-content-frame-reference.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Use ServiceNow® Now Assist for Configuration Management Database \(CMDB\) to im
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)/&gt; Reference topics provide additional information about the property settings that you use to configure and administer Now Assist for CMDB.](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)/&gt; Reference topics provide additional information about the property settings that you use to configure and administer Now Assist for CMDB.](../common-service-data-model-csdm/csdm-content-frame-reference.md)
 
 </td><td>
 

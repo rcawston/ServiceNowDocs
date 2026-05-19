@@ -65,9 +65,9 @@ There are two ways to integrate Google Dialogflow intents with Bot Interconnect
 
 Test your configuration. You can execute the topics that are available in the secondary bot from channels where Bot Interconnect is deployed.
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)
 
 **Previous topic:**[Configure connections to Google Dialogflow in your Virtual Agent Bot Interconnect instance](configure-sn-instance-google-dialogflow.md)
 
-**Next topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Next topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 

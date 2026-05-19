@@ -16,7 +16,7 @@ breadcrumb: [Reference, External Content Connectors, ServiceNow Store applicatio
 
 Metrics that show how your external content connector has run over time.
 
-You can view analytics for an external content connector by navigating to the **Analytics** tab in the connector editor. For more details on this procedure, see [Review analytics for an external content connector](../task/review-analytics-external-content-connector.md).
+You can view analytics for an external content connector by navigating to the **Analytics** tab in the connector editor. For more details on this procedure, see [Review analytics for an external content connector](review-analytics-external-content-connector.md).
 
 ## Date range
 
@@ -151,5 +151,5 @@ User permission crawls
 -   Second value shows the number of failed user permission crawls run for the connector in the selected date range.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[External Content Connectors reference](../concept/reference-ext-cont-connectors.md)
+</table>**Parent Topic:**[External Content Connectors reference](reference-ext-cont-connectors.md)
 

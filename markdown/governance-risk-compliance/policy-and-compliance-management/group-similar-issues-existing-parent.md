@@ -47,5 +47,5 @@ Role required: \(per product\)
 5.  You can view the issue in the group by clicking the **Issues** tab.
 
 
-**Parent Topic:**[Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md)
+**Parent Topic:**[Manually create GRC issues](../audit-management/t_CreateAnIssue.md)
 

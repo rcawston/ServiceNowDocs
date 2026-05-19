@@ -42,5 +42,5 @@ Themes can be invoked in any of the following ways.
 5.  Use the **Style Sheet** related list to add style sheets to the theme.
 
 
-**Parent Topic:**[Design themes](../concept/c_DesignThemes.md)
+**Parent Topic:**[Design themes](c_DesignThemes.md)
 

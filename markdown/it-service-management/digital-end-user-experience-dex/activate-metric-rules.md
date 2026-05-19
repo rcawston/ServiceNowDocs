@@ -38,5 +38,5 @@ Role required: sn\_dex.admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Managing DEX alert rules](../concept/dex-metrics-metric-rules-management.md)
+**Parent Topic:**[Managing DEX alert rules](dex-metrics-metric-rules-management.md)
 

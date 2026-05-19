@@ -43,5 +43,5 @@ Role required: ot\_progress\_scorecard\_editor and cmdb\_ot\_isa\_viewer with si
 
     3.  Select **Update**.
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](setting-up-the-ot-progress-scorecard.md)
 

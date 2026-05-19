@@ -44,12 +44,12 @@ Use the Publishing Center to make architecture content accessible and actionable
 -   **[Working with the Setup page](eaw-work-with-setup-page.md)**  
 As an Enterprise Architect, use the Setup page to configure Enterprise Architecture Workspace features and functionality.
 
-**Parent Topic:**[Enterprise Architecture Workspace](../ea-workspace.md)
+**Parent Topic:**[Enterprise Architecture Workspace](ea-workspace.md)
 
 **Related topics**  
 
 
-[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 [Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

@@ -30,7 +30,7 @@ Role required: sn\_sec\_tisc.admin
 
 1.  Using your instance, access **Threat Intelligence Security Center**.
 
-2.  [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+2.  [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 3.  When the installation is complete, navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
@@ -75,5 +75,5 @@ Role required: sn\_sec\_tisc.admin
 
 After it is configured, Elasticsearch can be selected for performing sighting search on observables in Threat Intelligence Security Center.
 
-**Parent Topic:**[Get started with Sighting Search Configurations](../concept/tisc-get-sighting-configs.md)
+**Parent Topic:**[Get started with Sighting Search Configurations](tisc-get-sighting-configs.md)
 

@@ -20,5 +20,5 @@ Query Generation explicitly does not support some field types.
 -   Tags
 -   Domain Path
 
-**Parent Topic:**[Query Generation reference](../concept/query-generation-reference.md)
+**Parent Topic:**[Query Generation reference](query-generation-reference.md)
 

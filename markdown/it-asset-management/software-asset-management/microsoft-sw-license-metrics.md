@@ -17,7 +17,7 @@ The Per Core licensing model is used by many Microsoft server products, such as 
 
 Therefore, the Per Core licensing model is commonly used for enterprise software like Microsoft SQL Server.
 
-The licensing rules for on-premise installations of these products and the cloud installations are separate. The cloud licensing rules follow Bring Your Own License \(BYOL\). For more information, see [Licensing rules for BYOL and BYOS](../reference/byol-license-rules.md).
+The licensing rules for on-premise installations of these products and the cloud installations are separate. The cloud licensing rules follow Bring Your Own License \(BYOL\). For more information, see [Licensing rules for BYOL and BYOS](byol-license-rules.md).
 
 To license the on-premise installation of these products using the Per Core licensing model, consider the following two options.
 
@@ -28,7 +28,7 @@ To license the on-premise installation of these products using the Per Core lice
 
 You can either allocate manually, or the Software Asset Management application can automatically select the most cost-effective licensing option based on optimization criteria. The number of core licenses required depends on whether you’re licensing the physical server based on its physical cores or licensing individual virtual machines.
 
-For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](../task/view-cost-based-licensing-optimizations-microsoft.md).
+For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](view-cost-based-licensing-optimizations-microsoft.md).
 
 **Note:** Both options, whether licensing by physical cores or licensing by individual virtual machines, come with their own set of Microsoft rules that must be followed. For more information, see [SQL Server](https://www.microsoft.com/licensing/terms/productoffering/SQLServer/EAEAS).
 

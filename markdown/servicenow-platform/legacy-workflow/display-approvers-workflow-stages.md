@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-By default, only workflow stage fields that use the Workflow-driven renderer can display a list of approvers. Only these [workflow stage renderer](../reference/r_WorkflowStageRenderers.md#) types support displaying approvers.
+By default, only workflow stage fields that use the Workflow-driven renderer can display a list of approvers. Only these [workflow stage renderer](r_WorkflowStageRenderers.md#) types support displaying approvers.
 
 -   Linear renderer
 -   Main flow renderer

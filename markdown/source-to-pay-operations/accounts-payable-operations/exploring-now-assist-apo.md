@@ -34,7 +34,7 @@ The Now Assist for APO application includes the following:
 
     Provides AP fulfiller to automatically map the invoice lines with the purchase order lines.
 
-    The purchase order line-mapping skill generates the invoice line mapping, changes the invoice line status to review mapping state and provokes the fulfiller to manually review the mapping results. After the fulfiller reviews the mapping results, the invoice line status is changed to mapping complete. The purchase order lines mapped using the Now Assist skill are controlled using the APO properties. For more information on the use of purchase order mapping in workspace, see [Set APO properties](../task/set-apo-properties.md) and [Using Playbook in Accounts Payable Operations](../task/how-to-use-playbook.md).
+    The purchase order line-mapping skill generates the invoice line mapping, changes the invoice line status to review mapping state and provokes the fulfiller to manually review the mapping results. After the fulfiller reviews the mapping results, the invoice line status is changed to mapping complete. The purchase order lines mapped using the Now Assist skill are controlled using the APO properties. For more information on the use of purchase order mapping in workspace, see [Set APO properties](set-apo-properties.md) and [Using Playbook in Accounts Payable Operations](how-to-use-playbook.md).
 
 -   **Invoice case summarization**
 
@@ -70,7 +70,7 @@ The Now Assist for APO application includes the following:
 
     The skill compares the current invoice and its line descriptions with previously processed invoices along with its line descriptions, and generates a relevance score from 0 through 1 for each item. These invoices are then returned in a ranked list, ordered by relevance.
 
-    The Recommend invoice owner AI agent uses this match score to suggest a [resolution plan](../reference/resolution-plan-scenarios.md#multiple) for Missing or invalid business owner exceptions.
+    The Recommend invoice owner AI agent uses this match score to suggest a [resolution plan](resolution-plan-scenarios.md#multiple) for Missing or invalid business owner exceptions.
 
 -   **Email response for invoice case**
 
@@ -98,7 +98,7 @@ The Now Assist for APO application includes the following:
     -   For each additional invoice or credit memo, the system creates a separate invoice processing case. These cases are available under the **Linked Cases** related list on the parent case.
     -   All supporting documents are automatically copied to both the parent case and each linked case, ensuring every case has the context it needs for processing.
     -   **Supporting documents only**: If no invoices or credit memos are found, you can either cancel the case or convert it into an inquiry case.
-    This skill accelerates invoice processing and manages substantial volumes of data across various formats, thereby reducing errors, enabling audit transparency, and eliminating manual intervention. The AI solution accurately classifies document types prior to invoice extraction, confirming that non-invoice documents such as contracts and receipts aren’t inadvertently processed as invoices. For more information on configuring the skill, see [Configure Accounts payable document classification skill](../task/config-doc-classification-skill-apo.md).
+    This skill accelerates invoice processing and manages substantial volumes of data across various formats, thereby reducing errors, enabling audit transparency, and eliminating manual intervention. The AI solution accurately classifies document types prior to invoice extraction, confirming that non-invoice documents such as contracts and receipts aren’t inadvertently processed as invoices. For more information on configuring the skill, see [Configure Accounts payable document classification skill](config-doc-classification-skill-apo.md).
 
 
 **Related topics**  

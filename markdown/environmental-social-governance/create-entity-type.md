@@ -63,5 +63,5 @@ The entity type is created. The new entity type form is displayed with the **Det
 
 You can also [update an entity type](update-entity-type.md).
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](entities-in-esg.md)
 

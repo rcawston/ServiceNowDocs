@@ -63,13 +63,13 @@ If a request is denied because it exceeds the rate limit, the system returns a *
 
 The status code of a denied request is `429 Too Many Requests`.
 
--   **[Create an inbound REST API rate limit](../task/create-REST-API-rate-limits.md)**  
+-   **[Create an inbound REST API rate limit](create-REST-API-rate-limits.md)**  
 Create rate limit rules to limit the number of inbound REST API requests processed per hour.
--   **[Reset an inbound REST API rate limit](../task/reset-rest-api-rate-limits.md)**  
+-   **[Reset an inbound REST API rate limit](reset-rest-api-rate-limits.md)**  
 Reset a rate limit rule to reset the rate limit count to zero \(0\) and delete any violations for the current hour.
--   **[Monitor inbound REST API rate limit counts and violations](../task/monitor-request-counts.md)**  
+-   **[Monitor inbound REST API rate limit counts and violations](monitor-request-counts.md)**  
 To determine if you have set a rate limit rule appropriately, monitor the counts and violations for inbound REST API requests that are restricted by the rule.
--   **[Investigate inbound REST API rate limit violations](../task/investigate-rate-limit-violations.md)**  
+-   **[Investigate inbound REST API rate limit violations](investigate-rate-limit-violations.md)**  
 Investigate rate limit violations to determine which rate limit rules are being exceeded and which users are exceeding those rate limits.
 
 **Parent Topic:**[REST APIs](c_RESTAPI.md)

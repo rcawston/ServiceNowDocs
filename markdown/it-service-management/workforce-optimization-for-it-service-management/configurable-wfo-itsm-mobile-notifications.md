@@ -101,7 +101,7 @@ Time off rejected
 Manager rejects your time-off request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
+</table>**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](configurable-agent-schedule-mobile-wfo-itsm.md)
 
 **Related topics**  
 

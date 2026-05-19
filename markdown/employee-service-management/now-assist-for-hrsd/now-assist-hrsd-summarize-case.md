@@ -103,7 +103,7 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -122,7 +122,7 @@ If you want to check some details about the summary, select the more info icon \
 
 [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -134,7 +134,7 @@ If you want to check some details about the summary, select the more info icon \
 
 [Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

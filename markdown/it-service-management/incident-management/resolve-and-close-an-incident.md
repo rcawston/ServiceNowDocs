@@ -26,7 +26,7 @@ Role required:
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Open the incident that you want to resolve and close.
 
@@ -50,5 +50,5 @@ Role required:
     **Note:** Even when an incident is closed or canceled, you can edit the following fields on the Incident form, if you have an admin role: **Subcategory**, **Service**, **Service Offerings**, **Description**, **Contact type**, **Watch list**, **Work notes list,** **Parent Incident**, **Problem**, **Change Request**, **Caused by Change**, **Resolved by**, **Resolved**, **Reassignment count**.
 
 
-**Parent Topic:**[Incident resolution and closure](../concept/c_IncidentResolutionAndRecovery.md)
+**Parent Topic:**[Incident resolution and closure](c_IncidentResolutionAndRecovery.md)
 

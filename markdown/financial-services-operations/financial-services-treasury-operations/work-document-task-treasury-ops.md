@@ -51,5 +51,5 @@ The Document Management Service determines which documents are required in a wor
 -   The document task moves to the Closed Complete state.
 -   In the parent treasury case, the Agreement documents stage in the case playbook shows as complete and the case moves to the next stage.
 
-**Parent Topic:**[Using Financial Services Treasury Operations](../concept/using-treasury-ops.md)
+**Parent Topic:**[Using Financial Services Treasury Operations](using-treasury-ops.md)
 

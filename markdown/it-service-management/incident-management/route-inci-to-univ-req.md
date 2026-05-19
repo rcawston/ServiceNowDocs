@@ -48,5 +48,5 @@ Associate an incident with a Universal Request record.
 4.  Click **Transfer**.
 
 
-**Parent Topic:**[Universal Request integration - Incident Management](../concept/inci-mgmt-integ-with-univ-req.md)
+**Parent Topic:**[Universal Request integration - Incident Management](inci-mgmt-integ-with-univ-req.md)
 

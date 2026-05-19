@@ -36,12 +36,12 @@ By reviewing the coverage tables for AWS, Azure, and GCP, you can
 
 ![Bar chart that compares Patterns and Service Graph Connectors resource types: AWS (83 patterns, 70 SGC), Azure (60 patterns, 22 SGC), and GCP (120 patterns, 107 SGC).](../image/patterns-vs-sgc.jpg "Comparison of Discovery and Service Mapping Patters and Service Graph Connectors")
 
--   **[AWS discovery solutions comparison](../reference/aws-discovery-methods.md)**  
+-   **[AWS discovery solutions comparison](aws-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of AWS resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
--   **[Microsoft Azure discovery solutions comparison](../reference/azure-discovery-methods.md)**  
+-   **[Microsoft Azure discovery solutions comparison](azure-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of Microsoft Azure resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
--   **[GCP discovery solutions comparison](../reference/gcp-discovery-methods.md)**  
+-   **[GCP discovery solutions comparison](gcp-discovery-methods.md)**  
 ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
-**Parent Topic:**[Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md)
+**Parent Topic:**[Discovery for cloud environment](cloud-discovery-wizard.md)
 

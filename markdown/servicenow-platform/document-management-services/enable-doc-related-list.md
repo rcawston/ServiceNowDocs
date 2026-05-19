@@ -34,5 +34,5 @@ Role required: admin
 
 The Documents related list is added to the related lists available in the record.
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](doc-linked-parent-rec.md)
 

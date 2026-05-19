@@ -17,7 +17,7 @@ Use the CSDM Data Foundations dashboard to monitor and evaluate key foundational
 
 ## Before you begin
 
-For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../concept/csdm-data-foundations-dashboard.md).
+For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../configuration-management-database-cmdb/csdm-data-foundations-dashboard.md).
 
 -   Before you use the dashboard for the first time, populate the CSDM metrics: Navigate to **All** &gt; **System Scheduler** &gt; **Scheduled Jobs** and run the **CSDM Get Well Metric Collection** job.
 -   The CSDM Data Foundations dashboard adds the following scheduled jobs that must be running:
@@ -96,5 +96,5 @@ For an introduction to the dashboard, see [CSDM Data Foundations dashboard](../c
 
 The key foundational metric results are available for you to review and analyze.
 
-**Parent Topic:**[Configuring CSDM](../concept/configure-csdm.md)
+**Parent Topic:**[Configuring CSDM](configure-csdm.md)
 

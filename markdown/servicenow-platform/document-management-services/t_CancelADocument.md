@@ -38,5 +38,5 @@ When canceling a document, there is no confirmation message, so ensure that you 
     The **State** is set to **Cancelled**.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

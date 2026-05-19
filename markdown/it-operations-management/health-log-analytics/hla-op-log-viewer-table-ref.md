@@ -87,7 +87,7 @@ Log message
 The raw log message without the header.
 
 </td></tr></tbody>
-</table>**Note:** The Raw message column does not appear in the Log Viewer table by default. You can display this column by selecting it from the **Filters** pane. For more information, see [Customize the Log Viewer table in Health Log Analytics](../task/hla-op-log-viewer-table-sow.md).
+</table>**Note:** The Raw message column does not appear in the Log Viewer table by default. You can display this column by selecting it from the **Filters** pane. For more information, see [Customize the Log Viewer table in Health Log Analytics](hla-op-log-viewer-table-sow.md).
 
-**Parent Topic:**[Health Log Analytics reference](../../health-log-analytics-admin/concept/hla-reference.md)
+**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

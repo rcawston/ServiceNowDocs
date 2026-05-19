@@ -21,7 +21,7 @@ OpenFrame has two significant parts. One lives in the ServiceNow application \(r
 
 **Note:** To stay current with reference to the OpenFrame library, use the following resource URI: `https://[servicenow instance]/scripts/openframe/latest/openFrameAPI.min.js`.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## openFrameAPI - getAWAAgentPresence\(String success, String failure\)
 

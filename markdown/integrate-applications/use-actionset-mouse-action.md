@@ -19,13 +19,13 @@ Role required: none
 
 ## About this task
 
-Configure the properties for the ActionSet Mouse action. For more information about these properties, see [ActionSet-Mouse Action properties](../reference/actionset-actions-properties.md#actionset-mouse-action).
+Configure the properties for the ActionSet Mouse action. For more information about these properties, see [ActionSet-Mouse Action properties](actionset-actions-properties.md#actionset-mouse-action).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see [Anchor](../concept/anchor.md).
+    To know about the anchor, see [Anchor](anchor.md).
 
 2.  Click **Mouse Action**.
 

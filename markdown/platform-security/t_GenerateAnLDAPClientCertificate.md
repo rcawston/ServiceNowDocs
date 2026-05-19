@@ -63,12 +63,12 @@ Enter these commands in a command line interface.
 -   **[Generating a server certificate](t_GenerateAServerCertificate.md)**  
 You can use keytool to generate a new Java keystore file, create a certificate signing request \(CSR\), and import the private key, public certificate pair, and signed certificates into the keystore.
 
-**Parent Topic:**[Certificates](../concept/c_Certificates.md)
+**Parent Topic:**[Certificates](c_Certificates.md)
 
 **Related topics**  
 
 
-[Exploring Certificates](../concept/exploring-certificates.md)
+[Exploring Certificates](exploring-certificates.md)
 
 [Uploading a certificate to an instance](t_UploadACertificateToAnInstance.md)
 

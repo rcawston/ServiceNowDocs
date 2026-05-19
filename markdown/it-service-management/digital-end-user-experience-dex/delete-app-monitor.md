@@ -42,5 +42,5 @@ Role required: sn\_dex.admin
 
 The application is deleted from the list of monitored applications.
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

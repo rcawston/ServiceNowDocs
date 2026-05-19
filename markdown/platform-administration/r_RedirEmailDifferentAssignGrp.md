@@ -26,5 +26,5 @@ if(email.direct.indexOf('facilities@anycorp.com')>-1)
 current.assignment_group.setDisplayValue('Facilities Management');
 ```
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 

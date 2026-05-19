@@ -38,5 +38,5 @@ You have removed the selected talent profiles from the pool.
 
 **Note:** You can only remove a talent profile from a pool if you're the owner of the pool or one of the collaborators.
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](config-t-pool.md)
 

@@ -61,7 +61,7 @@ X- and Y-axes
 
 </td><td>
 
-Each axis represents one or more metric categories. If multiple categories are used for an axis, their respective[weights](../concept/c_AssessmentMetrics.md) determine the positioning of the plotted items.
+Each axis represents one or more metric categories. If multiple categories are used for an axis, their respective[weights](c_AssessmentMetrics.md) determine the positioning of the plotted items.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Plotted items
 
 </td><td>
 
-The labeled points you see on a decision matrix, called plotted items, represent averages of [category result](r_CategoryResults.md) data for assessable records. Point to a plotted item label to view a rating summary for that assessable record. Click a plotted item label to view the [scorecard](../task/t_ViewAnAssessmentScorecard.md) for the assessable record.![Vendor decision matrix](../images/VendorDecisionMatrix.png "Vendor decision matrix")
+The labeled points you see on a decision matrix, called plotted items, represent averages of [category result](r_CategoryResults.md) data for assessable records. Point to a plotted item label to view a rating summary for that assessable record. Click a plotted item label to view the [scorecard](t_ViewAnAssessmentScorecard.md) for the assessable record.![Vendor decision matrix](../images/VendorDecisionMatrix.png "Vendor decision matrix")
 
 </td></tr></tbody>
 </table>## Plotted item rating summaries
@@ -84,5 +84,5 @@ The summary shows:
 
 ![](../images/DecisionMatrixRatingSummary.png "Decision matrix rating summary")
 
-**Parent Topic:**[Create a decision matrix](../task/t_CreateADecisionMatrix.md)
+**Parent Topic:**[Create a decision matrix](t_CreateADecisionMatrix.md)
 

@@ -17,31 +17,31 @@ The survey designer generates a survey definition automatically when you save or
 
 Survey administrators and survey readers can also send survey invitations directly to users from the survey definition.
 
--   **[Modify a survey definition](../task/t_ModifySurveyDefinitions.md)**  
+-   **[Modify a survey definition](t_ModifySurveyDefinitions.md)**  
 You can configure additional options for a survey definition.
 -   **[Schedule periods](c_SchedulePeriods.md)**  
 The available schedule periods are **Only Once**, **No Limit**, **Daily**, **Weekly**, **Monthly**, and **Yearly**.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
 [Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
 [Survey users and groups](c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
 [Survey questions](c_SurveyQuestion.md)
 
@@ -49,7 +49,7 @@ The available schedule periods are **Only Once**, **No Limit**, **Daily**, **Wee
 
 [Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
 [Sentiment analysis for surveys](sentiment-analysis.md)
 
@@ -59,5 +59,5 @@ The available schedule periods are **Only Once**, **No Limit**, **Daily**, **Wee
 
 [Legacy survey migration](c_MigrateSurveys.md)
 
-[Send survey invitations to users](../task/t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 

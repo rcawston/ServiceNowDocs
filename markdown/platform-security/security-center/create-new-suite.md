@@ -81,5 +81,5 @@ Clone and customize the default access controls auditor suite in your instance t
 -   **[View the Access Controls Auditor Suite](view-access-controls-auditor-suites.md)**  
 View the checks available in the default Access Controls Auditor Suites to understand which checks are executed when this suite runs.
 
-**Parent Topic:**[Scan suites](../concept/sec-center-suites.md)
+**Parent Topic:**[Scan suites](sec-center-suites.md)
 

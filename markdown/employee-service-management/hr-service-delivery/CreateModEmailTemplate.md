@@ -105,5 +105,5 @@ This section provides a list of variables that can be used in the email template
     Or, select**Submit** or **Update** to return to the **Email Contents** list.
 
 
-**Parent Topic:**[HR notifications](../concept/HRNotifications.md)
+**Parent Topic:**[HR notifications](HRNotifications.md)
 

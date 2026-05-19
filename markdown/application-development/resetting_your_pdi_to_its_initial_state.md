@@ -40,5 +40,5 @@ If you want to start work on a new application or want to work with a fresh inst
 5.  Click the **Reset and wipe instance** button.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

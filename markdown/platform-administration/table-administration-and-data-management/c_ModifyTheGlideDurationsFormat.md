@@ -23,5 +23,5 @@ Results in list:
 
 ![](../image/DurationResult.png "Results in list")
 
-**Parent Topic:**[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+**Parent Topic:**[Altering tables and fields using dictionary attributes](c_DictionaryAttributes.md)
 

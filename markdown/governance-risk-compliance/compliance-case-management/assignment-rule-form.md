@@ -31,5 +31,5 @@ See the following table for a description of the field values.
 |Script|
 |Script|Script to define the advanced assignment rule.|
 
-**Parent Topic:**[Create an assignment rule](../task/create-assignment-rule.md)
+**Parent Topic:**[Create an assignment rule](create-assignment-rule.md)
 

@@ -52,5 +52,5 @@ The status displayed in the app header updates from **Inactive** to **Saving** t
 
 The playbook is ready to be deployed with your app. Once the app is deployed, the form is available in the associated service catalog. If the form's app hasn't been deployed, you need to deploy it.
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

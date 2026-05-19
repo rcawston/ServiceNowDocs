@@ -26,5 +26,5 @@ The Service Portal Designer **Defer widget loading** option helps configure the 
 **Related topics**  
 
 
-[Modify homepage banner instance for high-traffic](../task/config-defer-load-widget-instance-options.md)
+[Modify homepage banner instance for high-traffic](config-defer-load-widget-instance-options.md)
 

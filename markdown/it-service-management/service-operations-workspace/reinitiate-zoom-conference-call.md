@@ -36,5 +36,5 @@ Role required: itil
 7.  In the **Completed** calls, select **Reinitiate call**.
 
 
-**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](../concept/zoom-sow.md)
+**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](zoom-sow.md)
 

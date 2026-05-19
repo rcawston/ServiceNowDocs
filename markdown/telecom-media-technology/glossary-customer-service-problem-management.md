@@ -36,7 +36,7 @@ Glossary terms are grouped alphabetically.
 
 ### Measure consequence
 
-An action or response triggered when a threshold rule is violated, such as sending a warning or creating a repair task. To learn more, see [Define measure consequences for the threshold rules](../task/define-threshold-consequences-spm.md).
+An action or response triggered when a threshold rule is violated, such as sending a warning or creating a repair task. To learn more, see [Define measure consequences for the threshold rules](define-threshold-consequences-spm.md).
 
 ## N
 
@@ -72,17 +72,17 @@ Glossary terms are grouped alphabetically.
 
 ### Test group
 
-A collection of related tests \(manual or automated\) used to diagnose service problems for a specific service type, product model, or inventory. To learn more, see [Setting up a test group](../concept/setting-test-group.md).
+A collection of related tests \(manual or automated\) used to diagnose service problems for a specific service type, product model, or inventory. To learn more, see [Setting up a test group](setting-test-group.md).
 
 ### Test definition
 
-A configuration that specifies the parameters and metrics for a particular test, including what is measured and how.To learn more, see [Setting up test definitions](../concept/settingup-test-specifications.md).
+A configuration that specifies the parameters and metrics for a particular test, including what is measured and how.To learn more, see [Setting up test definitions](settingup-test-specifications.md).
 
 ### Test measure definition
 
-A unique metric or parameter to be measured during a test, such as speed, connectivity, or packet loss. To learn more, see [Define test measure definitions for a service test](../task/define-test-measure-spm.md).
+A unique metric or parameter to be measured during a test, such as speed, connectivity, or packet loss. To learn more, see [Define test measure definitions for a service test](define-test-measure-spm.md).
 
 ### Threshold rule
 
-A rule that sets acceptable performance or quality limits for a service. If test results exceed or fall below these thresholds, actions are triggered. To learn more, see [Define threshold rules for a test measure definition](../task/define-threshold-rules.md).
+A rule that sets acceptable performance or quality limits for a service. If test results exceed or fall below these thresholds, actions are triggered. To learn more, see [Define threshold rules for a test measure definition](define-threshold-rules.md).
 

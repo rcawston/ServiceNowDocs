@@ -45,7 +45,7 @@ Mark as certified
 
 </td><td>
 
-If you have a role that lets you certify a data visualization for use in your organization, certify or decertify the visualization here. For more information, see [Certify a data visualization in the Visualization Designer](../../dashboards/task/certify-dv-ac.md).
+If you have a role that lets you certify a data visualization for use in your organization, certify or decertify the visualization here. For more information, see [Certify a data visualization in the Visualization Designer](certify-dv-ac.md).
 
 </td></tr><tr><td>
 
@@ -83,8 +83,8 @@ Shared with
 
 </td><td>
 
-Icons for every user who the visualization is shared with. Point to an icon to view the user's full name and the sharing details. For more information, see [Share a data visualization in the Visualization Designer](../../reporting/task/share-dv-ac.md#).
+Icons for every user who the visualization is shared with. Point to an icon to view the user's full name and the sharing details. For more information, see [Share a data visualization in the Visualization Designer](share-dv-ac.md#).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Edit a data visualization in the Visualization Designer](../../dashboards/task/edit-dv-ac-center.md)
+</table>**Parent Topic:**[Edit a data visualization in the Visualization Designer](edit-dv-ac-center.md)
 

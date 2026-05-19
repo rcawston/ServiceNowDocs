@@ -44,5 +44,5 @@ Role required: admin
 7.  Right-click in the header and select **Save**.
 
 
-**Parent Topic:**[Universal linking for mobile](../concept/universal-links-mobile.md)
+**Parent Topic:**[Universal linking for mobile](universal-links-mobile.md)
 

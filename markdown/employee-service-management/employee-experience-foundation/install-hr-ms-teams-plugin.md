@@ -55,5 +55,5 @@ Verify that there are no duplicate entries in the Restricted Caller Access \(RCA
 -   **[Import Update set from XML and install fix script](upload-rca-hr.md#)**  
 Import update set from XML to provide cross-scope access to HR Service Delivery applications and run fix script to display field decorator in the ticket.
 
-**Parent Topic:**[Plan your installation](../concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](plan-installation-ms-teams.md)
 

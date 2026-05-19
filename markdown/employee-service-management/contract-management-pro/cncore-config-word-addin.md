@@ -128,5 +128,5 @@ The **ServiceNow Contracts** add-in is available on the Home ribbon. When you lo
 
 ## What to do next
 
-[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 

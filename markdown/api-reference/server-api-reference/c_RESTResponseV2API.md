@@ -21,7 +21,7 @@ You can use this API in scoped applications or within the global scope.
 
 This API runs in the `sn_ws` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RESTResponseV2 - getAllHeaders\(\)
 

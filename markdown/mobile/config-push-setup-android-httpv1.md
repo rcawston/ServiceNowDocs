@@ -17,7 +17,7 @@ Enter your Google Firebase Cloud Messaging push token authentication in your pus
 
 To use push notifications on your branded ServiceNow mobile apps for Android, you must enter your Google Firebase Cloud Messaging HTTP v1 API in your push application record. For information about generating the service account JSON in your Firebase console, see ServiceNow knowledge base article [KB1639289](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1639289). You must be logged in to your ServiceNow support account to access this information.
 
-**Note:** These steps are only necessary if you're using a custom branded mobile app. For more detail on custom branding, see [Request, test, and publish a branded mobile app](../concept/request-test-pub-branded-mob-app.md).
+**Note:** These steps are only necessary if you're using a custom branded mobile app. For more detail on custom branding, see [Request, test, and publish a branded mobile app](request-test-pub-branded-mob-app.md).
 
 Role required: admin
 
@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)
 

@@ -29,5 +29,5 @@ The following types of recommendations are currently available:
 |n Empty dashboards|Number of dashboards that do not contain any widgets|
 |n No active owner|Number of dashboards without an active owner|
 
-**Parent Topic:**[Platform Analytics library recommendations](../concept/pa-library-recommendations.md)
+**Parent Topic:**[Platform Analytics library recommendations](pa-library-recommendations.md)
 

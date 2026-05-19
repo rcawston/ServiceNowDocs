@@ -83,5 +83,5 @@ Cloud Discovery schedules display in a new tab of your browser.
 
 Install and use the latest Discovery and Service Mapping Patterns, at least version 1.15, as the default mechanism for performing Discovery.
 
-**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](../concept/cloud-mgt-general-setup-day-2.md)
+**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](cloud-mgt-general-setup-day-2.md)
 

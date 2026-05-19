@@ -36,10 +36,10 @@ Create a filter set to be able to apply your current filter selections to the sa
 Process step filtering enables you to get closer views of the different routes that records go through.
 -   **[Apply metrics](apply-metrics.md)**  
 Refine your project visualization to show the KPIs and metrics that are more relevant to your process goals.
--   **[Filtering activities and connections](../concept/node-filtering.md)**  
+-   **[Filtering activities and connections](node-filtering.md)**  
 Focus in on how activities relate to your process by refining the activities and connections views.
 -   **[Set data filter and map filter](map-data-filter.md)**  
 Set the data and map filters to focus on the data as per your requirement.
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
 

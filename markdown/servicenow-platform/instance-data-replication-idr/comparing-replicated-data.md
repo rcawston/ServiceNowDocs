@@ -178,9 +178,9 @@ All replication sets, but not unidirectional replication sets
 -   Journal fields are excluded from the comparison due to the potential size of their content.
 -   Sys Audit \[sys\_audit\] table records are excluded from the comparison.
 
--   **[Find missing or mismatched records in Instance Data Replication](../task/compare-replicated-data.md)**  
+-   **[Find missing or mismatched records in Instance Data Replication](compare-replicated-data.md)**  
 Find records missing from the consumer instance or mismatched records after data has been replicated by creating a data comparison request in Instance Data Replication \(IDR\).
--   **[Reseed missing or mismatched records in Instance Data Replication](../task/fix-replicated-data.md)**  
+-   **[Reseed missing or mismatched records in Instance Data Replication](fix-replicated-data.md)**  
 Synchronize data between instances by reseeding records missing from the consumer instance or mismatched records between the producer and consumer instance in Instance Data Replication \(IDR\).
 
 **Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
@@ -188,7 +188,7 @@ Synchronize data between instances by reseeding records missing from the consume
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
 
 [Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
 
@@ -200,5 +200,5 @@ Synchronize data between instances by reseeding records missing from the consume
 
 [Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

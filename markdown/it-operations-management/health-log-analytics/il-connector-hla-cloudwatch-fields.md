@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Amazon CloudWatch integration configuration forms for Health Log Analytics.
 
-For the Amazon CloudWatch integration setup procedure, see [Set up an Amazon CloudWatch integration for Health Log Analytics](../task/il-connector-hla-aws-cloudwatch.md).
+For the Amazon CloudWatch integration setup procedure, see [Set up an Amazon CloudWatch integration for Health Log Analytics](il-connector-hla-aws-cloudwatch.md).
 
 <table id="table_znf_rmf_shc"><thead><tr><th>
 

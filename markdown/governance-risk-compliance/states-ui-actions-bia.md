@@ -107,7 +107,7 @@ When you select **Archive** in the Create New Impact analysis form, the state of
 
 Download the PDF of the business impact analysis for reference. The PDF attachment is available in the **Activity** panel on the **Details** tab.
 
-For information on generating the PDF of a business impact analysis, see [Generate BIA reports in PDF or Microsoft Word formats](../task/generate-pdf-for-bia.md).
+For information on generating the PDF of a business impact analysis, see [Generate BIA reports in PDF or Microsoft Word formats](generate-pdf-for-bia.md).
 
 -   **Copy**
 
@@ -117,7 +117,7 @@ Save a copy of the PDF of the business impact analysis for future reference as a
 
 Visualize 360º representation of the business impact analysis such as its name, template used, dependencies, and BIA result.
 
-For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](../task/visualize-360-degree-view-for-bia.md).
+For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](visualize-360-degree-view-for-bia.md).
 
 -   **Delete**
 

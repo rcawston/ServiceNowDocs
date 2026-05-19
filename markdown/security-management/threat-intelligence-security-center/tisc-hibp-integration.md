@@ -19,8 +19,8 @@ This integration identifies compromised credentials and assesses organizational 
 
 During an investigation, email addresses or domains can be submitted to Have I Been Pwned for breach identification, either through the observables form or using case artifacts.
 
--   **[Configure and enable Have I Been Pwned integration](../task/tisc-config-hipw-integration.md)**  
+-   **[Configure and enable Have I Been Pwned integration](tisc-config-hipw-integration.md)**  
 Configure API credentials and enrichment behavior through the dedicated Have I Been Pwned \(HIBP\) configuration tile in TISC integration settings.
 
-**Parent Topic:**[Configure Observable Enrichment](../task/configure-observable-enrichment.md)
+**Parent Topic:**[Configure Observable Enrichment](configure-observable-enrichment.md)
 

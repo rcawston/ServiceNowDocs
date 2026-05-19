@@ -15,7 +15,7 @@ breadcrumb: [Server-side scripting, Scripting, API implementation, API implement
 
 Using methods in the GlideRecord API, you can return all records from a table, return records from a table that satisfy specific conditions, or return records that include a string from a single table or from multiple tables in a text index group.
 
-Query tables using the GlideRecord API. For API reference, see [GlideRecord - Scoped](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+Query tables using the GlideRecord API. For API reference, see [GlideRecord - Scoped](../server-api-reference/c_GlideRecordScopedAPI.md#).
 
 ## Return all records from a table
 
@@ -300,7 +300,7 @@ while (target.next()) {
 }
 ```
 
-For more information on the GlideRecord API and its available methods, see [GlideRecord](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+For more information on the GlideRecord API and its available methods, see [GlideRecord](../server-api-reference/c_GlideRecordScopedAPI.md#).
 
 ## GlideRecord query examples
 
@@ -362,5 +362,5 @@ while(gr.next()) {
   gs.addInfoMessage(gr.request_item.number); }
 ```
 
-For additional information see [GlideRecord](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).
+For additional information see [GlideRecord](../server-api-reference/c_GlideRecordScopedAPI.md#).
 

@@ -85,5 +85,5 @@ Enables an employee to relocate from one location to another. Employees can coll
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure Workplace Indoor Mapping](../concept/wsd-integration-indoor-mapping.md)
+**Parent Topic:**[Configure Workplace Indoor Mapping](wsd-integration-indoor-mapping.md)
 

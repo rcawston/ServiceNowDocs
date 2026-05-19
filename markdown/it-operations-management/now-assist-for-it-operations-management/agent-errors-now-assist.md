@@ -34,5 +34,5 @@ Role required: agent\_client\_collector\_admin
     Now Assist retrieves information on errors within agents.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 

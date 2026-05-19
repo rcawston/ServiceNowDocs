@@ -56,7 +56,7 @@ The following example shows the robot calendar when accessed from a bot process.
 
 ## Robot calendar landing page
 
-On the landing page of the robot calendar, you can view the events of the bot processes. The schedules are for different interval types such as minutes, hourly, daily, weekly, or monthly. For more information about viewing the robot events, see [View current robot events in RPA Hub](../task/view-robot-calendar.md). However, you can't see the past events on the robot calendar.
+On the landing page of the robot calendar, you can view the events of the bot processes. The schedules are for different interval types such as minutes, hourly, daily, weekly, or monthly. For more information about viewing the robot events, see [View current robot events in RPA Hub](view-robot-calendar.md). However, you can't see the past events on the robot calendar.
 
 You can view the robot calendar by the day, week, or month.
 
@@ -78,31 +78,31 @@ The following example shows the month view of the landing page of the robot cale
 
 ## Manage schedules
 
-You can create a schedule on the **Robot Calendar** tab in RPA Hub to execute unattended robots. You can also identify any conflicts in the schedule by selecting the **Preview** button. For more information, see [Create a schedule on the robot calendar in RPA Hub](../task/create-robot-schedule.md#).
+You can create a schedule on the **Robot Calendar** tab in RPA Hub to execute unattended robots. You can also identify any conflicts in the schedule by selecting the **Preview** button. For more information, see [Create a schedule on the robot calendar in RPA Hub](create-robot-schedule.md#).
 
-You can edit a robot schedule to resolve any scheduling conflicts or to modify the details on the schedule form. You can also delete an existing robot schedule that you no longer need. For more information, see [Edit a robot schedule in RPA Hub](../task/edit-robot-schedule.md) and [Delete a robot schedule in RPA Hub](../task/delete-robot-schedule.md).
+You can edit a robot schedule to resolve any scheduling conflicts or to modify the details on the schedule form. You can also delete an existing robot schedule that you no longer need. For more information, see [Edit a robot schedule in RPA Hub](edit-robot-schedule.md) and [Delete a robot schedule in RPA Hub](delete-robot-schedule.md).
 
 ## Scheduled maintenance days
 
 You can track scheduled maintenance \(SM\) days on the robot calendar to manage your future automations. Robotic Process Automation \(RPA\) release managers and RPA admins have visibility to the potential impacts of current or future automation executions to take an appropriate call to action, such as, either accepting or rejecting an associated SM event card on the robot calendar.
 
-For more information, see [Scheduled maintenance days in RPA Hub](sm-days-rpa.md) and [Manage scheduled maintenance days in RPA Hub](../task/manage-sm-request-rpa.md).
+For more information, see [Scheduled maintenance days in RPA Hub](sm-days-rpa.md) and [Manage scheduled maintenance days in RPA Hub](manage-sm-request-rpa.md).
 
 ## Plotting event duration
 
 The value in the **Runtime Threshold \(Mins\)** field on the bot process form and the configuration in the related **sn\_rpa\_fdn.process.runtime\_threshold** system property are used for plotting the event duration in the robot calendar. Based on value in the **Runtime Threshold \(Mins\)** field, the robot calendar shows as busy. For example, if this value is set to 60 \(that is 1 hour\), then in the robot calendar of this robot, it is displayed as blocked for that one hour.
 
-For more information about the bot process form, see [Bot Process form in RPA Hub](../task/select-botprocess.md#).
+For more information about the bot process form, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
-For more information about the system property, see [Configure RPA Hub properties](../reference/rpahub-sys-properties.md).
+For more information about the system property, see [Configure RPA Hub properties](rpahub-sys-properties.md).
 
--   **[View current robot events in RPA Hub](../task/view-robot-calendar.md)**  
+-   **[View current robot events in RPA Hub](view-robot-calendar.md)**  
 View the current robot events on the **Robot Calendar** tab in RPA Hub for unattended robots. By using the calendar, you can manage and plan a robot's schedule in a single view.
--   **[Create a schedule on the robot calendar in RPA Hub](../task/create-robot-schedule.md#)**  
+-   **[Create a schedule on the robot calendar in RPA Hub](create-robot-schedule.md#)**  
 Create a schedule on the **Robot Calendar** tab in RPA Hub to execute unattended robots. You can also identify any conflicts in the schedule by selecting the **Preview** button.
--   **[Edit a robot schedule in RPA Hub](../task/edit-robot-schedule.md)**  
+-   **[Edit a robot schedule in RPA Hub](edit-robot-schedule.md)**  
 Edit a robot schedule of a bot process on the **Robot Calendar** tab in RPA Hub to resolve any scheduling conflicts or to modify the details on the schedule form.
--   **[Delete a robot schedule in RPA Hub](../task/delete-robot-schedule.md)**  
+-   **[Delete a robot schedule in RPA Hub](delete-robot-schedule.md)**  
 Delete an existing robot schedule of a bot process on the **Robot Calendar** tab in RPA Hub that you no longer need.
 
 **Parent Topic:**[Using RPA Hub](managing-rpa-hub.md)

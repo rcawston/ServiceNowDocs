@@ -33,18 +33,18 @@ The numbering that you define in this process creates VLAN and LAG number ranges
 
 4.  On the **Details** tab, fill in the general information for inventory numbering.
 
-    To learn more about the fields that are unique to the Inventory Numbers form, see [Inventory Numbers form](../reference/inventory-numbers-form.md).
+    To learn more about the fields that are unique to the Inventory Numbers form, see [Inventory Numbers form](inventory-numbers-form.md).
 
 5.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
 6.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 
 ## What to do next
 
 To update or delete an inventory number record, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Inventory number allocation](../concept/vlan_or_lag_number_management.md)
+**Parent Topic:**[Inventory number allocation](vlan_or_lag_number_management.md)
 

@@ -131,9 +131,9 @@ Sys Id of the conversation.
 
 To download the conversation transcript, select a conversation from the conversations list and click **Download**.
 
-The conversation transcript .txt file includes various data elements such as user input, Virtual Agent response, Flow Designer Integration Hub, flow action, custom controls, and topic block information for the selected conversation. This information helps Virtual Agent administrators to troubleshoot conversations, for example, conversations where there were errors or transfers to a live agent. For more information on the .txt file, see [Conversation transcript template](../reference/chat-transcript-template-pae.md).
+The conversation transcript .txt file includes various data elements such as user input, Virtual Agent response, Flow Designer Integration Hub, flow action, custom controls, and topic block information for the selected conversation. This information helps Virtual Agent administrators to troubleshoot conversations, for example, conversations where there were errors or transfers to a live agent. For more information on the .txt file, see [Conversation transcript template](chat-transcript-template-pae.md).
 
--   **[Conversation transcript template](../reference/chat-transcript-template-pae.md)**  
+-   **[Conversation transcript template](chat-transcript-template-pae.md)**  
 The conversation transcript .txt file contains information used to troubleshoot individual conversations.
 -   **[Use filters in the Conversation tab](conversation-tab-filtering-pae.md)**  
 You can filter out conversation for a deeper understanding.

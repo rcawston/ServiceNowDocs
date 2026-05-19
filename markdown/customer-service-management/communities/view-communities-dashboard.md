@@ -94,7 +94,7 @@ Heat maps display data for **Number of Posts Moved** and **Featured Content**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Platform Analytics Solutions for Communities](../../../use/dashboards/application-content-packs/communities-content-pack.md)
+**Parent Topic:**[Platform Analytics Solutions for Communities](communities-content-pack.md)
 
 **Related topics**  
 

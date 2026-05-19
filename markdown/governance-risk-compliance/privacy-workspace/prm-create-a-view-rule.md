@@ -29,13 +29,13 @@ Role required: sn\_privacy\_case.privacy\_case\_admin
 
 4.  On the View Rule form, fill in the fields.
 
-    For a description of the fields on the View Rule form, see [View rule form](../reference/prm-view-rule-form.md).
+    For a description of the fields on the View Rule form, see [View rule form](prm-view-rule-form.md).
 
 5.  Select **Submit**.
 
 
--   **[View rule form](../reference/prm-view-rule-form.md)**  
+-   **[View rule form](prm-view-rule-form.md)**  
 Learn about the fields on the view rule form. Use this form to define workspace and default view rules in the Privacy Case Management application.
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

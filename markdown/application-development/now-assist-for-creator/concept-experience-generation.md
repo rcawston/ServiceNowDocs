@@ -75,7 +75,7 @@ When Now Assist generates an experience, it creates the following components:
 **Related topics**  
 
 
-[Create an AI-generated experience](../task/generate-ui.md#)
+[Create an AI-generated experience](generate-ui.md#)
 
 [Use case: Create an AI-generated experience](use-case-experience-generation.md)
 

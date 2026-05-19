@@ -58,7 +58,7 @@ For a list of all workspaces ServiceNow offers to target specific users, see [Li
 8.  Select **Done**.
 
 
-**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](../concept/advanced-configuration-workforce-optimization-itsm.md)
+**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](advanced-configuration-workforce-optimization-itsm.md)
 
 **Related topics**  
 

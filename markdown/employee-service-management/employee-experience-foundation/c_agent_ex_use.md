@@ -15,9 +15,9 @@ breadcrumb: [Use, ServiceNow for Microsoft Teams and Microsoft 365, Unified Empl
 
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams.
 
--   **[Use Notify connector for Microsoft Teams](../../notify2/concept/c-agent-ex-use-nc.md)**  
+-   **[Use Notify connector for Microsoft Teams](c-agent-ex-use-nc.md)**  
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Notify connector for Microsoft Teams.
--   **[Use Microsoft Teams Meeting Extensions](../../meeting-extensibility/concept/c-agent-ex-use-meet-ext.md)**  
+-   **[Use Microsoft Teams Meeting Extensions](c-agent-ex-use-meet-ext.md)**  
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams Meeting Extensions.
 
 **Parent Topic:**[Using ServiceNow for Microsoft Teams and Microsoft 365](c_using_sn_ms_teams.md)

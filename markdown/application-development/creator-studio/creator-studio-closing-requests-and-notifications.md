@@ -19,7 +19,7 @@ The records that your app creates when a form is completed are not automatically
 
 After an app's automation is done and the request is fulfilled, users must manually close the request record in the Request App Workspace. When fulfillers manually close the request, the ServiceNow AI Platform emails the person who made the request to notify them that the request is closed.
 
-Additionally, you can create a playbook in the app to automatically email the requester when their request is closed. For more information, see [Add activities to an app's playbook in Creator Studio](../task/creator-studio-add-activities-automation.md).
+Additionally, you can create a playbook in the app to automatically email the requester when their request is closed. For more information, see [Add activities to an app's playbook in Creator Studio](creator-studio-add-activities-automation.md).
 
 ## Default notifications for apps built with Creator Studio
 

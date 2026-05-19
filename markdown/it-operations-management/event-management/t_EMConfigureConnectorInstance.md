@@ -86,7 +86,7 @@ The vendor and protocol used to gather events from the external event source. Se
 -   PRTG
 -   vCenter
 -   Zabbix
-For a list of the connector definitions available in the base system, see [Configure Event Management connectors](../reference/connectors-and-listeners.md).
+For a list of the connector definitions available in the base system, see [Configure Event Management connectors](connectors-and-listeners.md).
 
 </td></tr><tr><td>
 
@@ -320,7 +320,7 @@ Configure the OP5 or OP5\_v2 Monitor connector instance to receive alerts from a
 Configure the Opsview\_V2 connector instance to receive alerts from an Opsview Monitor source.
 -   **[Configure PRTG connector](configure-prtg-connector.md)**  
 Configure the PRTG connector instance to receive alerts from a Paessler PRTG Network Monitor source.
--   **[Apache Kafka Consumer Connector](../concept/apache-kafka-consumer-connector.md)**  
+-   **[Apache Kafka Consumer Connector](apache-kafka-consumer-connector.md)**  
 The Apache Kafka Consumer connector instance enables you to create events from messages collected from the Apache Kafka topic as a JSON payload that contains essential information in a data block.
 -   **[Configure the Kafka metrics connector instance](configure-kafka-metrics-connector.md)**  
 Configure the Kafka metric consumer connector instance to read message send to Kafka server over topic.
@@ -337,10 +337,10 @@ Configure the VMware vRealize Operations \(vRealize or vRealize\_V2\) connector 
 -   **[Configure event collection from Zabbix server](t_EMConfigureZabbixConnector.md)**  
 Configure the Zabbix server connector instance to receiving alerts from the Zabbix server.
 
-**Parent Topic:**[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+**Parent Topic:**[Configure Event Management connectors](connectors-and-listeners.md)
 
 **Related topics**  
 
 
-[Configure Event Management connectors](../reference/connectors-and-listeners.md)
+[Configure Event Management connectors](connectors-and-listeners.md)
 

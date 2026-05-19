@@ -26,7 +26,7 @@ If you have permission, you can allocate and retire the sandboxes you've created
 
     Allocate the sandboxes created to your development teams.
 
-3.  [Requesting sandboxes](../concept/dsb-requesting-sandboxes.md)
+3.  [Requesting sandboxes](dsb-requesting-sandboxes.md)
 
     Request a sandbox for development.
 

@@ -28,7 +28,7 @@ Service organizations can:
 **Related topics**  
 
 
-[Sold products and install base plugins for service organizations](../reference/so-install-base-plugins.md)
+[Sold products and install base plugins for service organizations](so-install-base-plugins.md)
 
-[Assign roles](../task/configure-data-model-roles.md)
+[Assign roles](configure-data-model-roles.md)
 

@@ -52,7 +52,7 @@ You can use extension points to create events such as meeting, training, and tim
 |Time off|AgentScheduleTimeOffEventManager|
 |Work|AgentScheduleWorkEventManager|
 
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](setup-scheduling-configurable-workforce-optimization-itsm.md)
 
 **Related topics**  
 

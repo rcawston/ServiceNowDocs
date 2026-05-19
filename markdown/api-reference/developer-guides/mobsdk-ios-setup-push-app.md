@@ -28,7 +28,7 @@ func setup(with instanceURL: URL) -> AnyPublisher<NowService, ConfigurationError
 }
 ```
 
-For additional information on the NowPush.makePushService\(\) method, refer to [NowPush API - iOS](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/NowPush/concept/NowPushiOSAPI.md#).
+For additional information on the NowPush.makePushService\(\) method, refer to [NowPush API - iOS](../cllent-mobile-api-reference/NowPushiOSAPI.md#).
 
 ## Register the push token
 
@@ -52,7 +52,7 @@ func registerForPushNotifications(deviceToken: Data) {
 }
 ```
 
-For additional information on the registerPushToken\(\) method, refer to [NowPushService - registerPushToken\(\_token: Data, pushAppName: String, environment: NowPushEnvironment, completion: @escaping \(Result&lt;Data, NowPushError&gt;\) -&gt; Void\)](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/NowPushService/concept/NowPushServiceiOSAPI.md#).
+For additional information on the registerPushToken\(\) method, refer to [NowPushService - registerPushToken\(\_token: Data, pushAppName: String, environment: NowPushEnvironment, completion: @escaping \(Result&lt;Data, NowPushError&gt;\) -&gt; Void\)](../cllent-mobile-api-reference/NowPushServiceiOSAPI.md#).
 
 ## Unregister the push token
 
@@ -73,7 +73,7 @@ func unregisterFromPushNotifications(deviceToken: Data) {
 }
 ```
 
-For additional information on the unregisterPushToken\(\) method, refer to [NowPushService - unregisterPushToken\(\_token: Data, pushAppName: String, environment: NowPushEnvironment, completion: @escaping \(Result&lt;Data, NowPushError&gt;\) -&gt; Void\)](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/NowPushService/concept/NowPushServiceiOSAPI.md#).
+For additional information on the unregisterPushToken\(\) method, refer to [NowPushService - unregisterPushToken\(\_token: Data, pushAppName: String, environment: NowPushEnvironment, completion: @escaping \(Result&lt;Data, NowPushError&gt;\) -&gt; Void\)](../cllent-mobile-api-reference/NowPushServiceiOSAPI.md#).
 
 ## Parse push payload
 

@@ -22,7 +22,7 @@ The Move management workspace is a one stop workspace where you can perform mult
 The workspace has several key features such as move requests-related metrics, visual representation, detailed views, and also the option to create a move project. The Move management displays information in the following categories:
 
 -   **Move management**: Displays metrics of your active move projects, move requests, and move tasks. It also provides a visual representation of the planned and unplanned move requests, states of requests and active projects.
--   **Create project**: Option to create a move project. For more information, refer to [Create a move project from existing move requests](../task/create-move-project.md).
+-   **Create project**: Option to create a move project. For more information, refer to [Create a move project from existing move requests](create-move-project.md).
 -   **Move management**: Lists the details of the following:
     -   Details of all the move projects with their planned start and end date, their current state, and the assigned user.
     -   Details of all the move requests with their current state, the requested move date, the expected start, and the due date.
@@ -74,7 +74,7 @@ At a time, the workspace displays up to five move requests. To view all the move
 -   **[Move project views, actions, and states](move-project-schedule-view.md)**  
 As a move manager, create, track, and work on move projects to fulfill multiple move requests at a time. The move project enables you to work using a schedule view, which is faster than opening individual move requests.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

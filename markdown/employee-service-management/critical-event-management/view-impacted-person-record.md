@@ -46,7 +46,7 @@ Role required: sn\_critical.agent
     The record also shows the activity stream and notifications.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

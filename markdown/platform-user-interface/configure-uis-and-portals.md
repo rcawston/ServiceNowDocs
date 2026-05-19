@@ -15,23 +15,23 @@ Customize your interface to create an efficient, unique experience for users and
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Next Experience UI ![Icon for working with Next Experience](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) Unify your instance apps and reduce clicks with the ServiceNow® Next Experience.](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md)
+[Next Experience UI ![Icon for working with Next Experience](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) Unify your instance apps and reduce clicks with the ServiceNow® Next Experience.](next-experience-landing-page.md)
 
 </td><td>
 
-[Workspace UI ![Icon for working with Workspace UI](../../../reuse/icons/brand-icons/bus-monitor.svg) Improve agent efficiency with Workspace UI, to offer better customer experience.](../../configurable-workspace/concept/workspace-landing-page.md)
+[Workspace UI ![Icon for working with Workspace UI](../../../reuse/icons/brand-icons/bus-monitor.svg) Improve agent efficiency with Workspace UI, to offer better customer experience.](workspace-landing-page.md)
 
 </td><td>
 
-[Working in Core UI ![Icon for Working in Core UI](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Upgrade the user experience with custom homepages and URL navigation, all in Core UI.](../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
+[Working in Core UI ![Icon for Working in Core UI](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Upgrade the user experience with custom homepages and URL navigation, all in Core UI.](working-in-ui16-and-ui15.md)
 
 </td></tr><tr><td>
 
-[Service Portal ![Icon for working with Service Portal](../../../reuse/icons/brand-icons/bus-discover.svg) Build the perfect self-service interface for your customers with the mobile-friendly Service Portal.](../../../build/service-portal/concept/c_ServicePortal.md)
+[Service Portal ![Icon for working with Service Portal](../../../reuse/icons/brand-icons/bus-discover.svg) Build the perfect self-service interface for your customers with the mobile-friendly Service Portal.](service-portal/c_ServicePortal.md)
 
 </td><td>
 
-[Content Management System ![Icon for working with Content Management System](../../../reuse/icons/brand-icons/bus-learn.svg) Design custom interfaces for the ServiceNow platform and its applications using this highly flexible application.](../../content-management/concept/c_ContentManagementSystem.md)
+[Content Management System ![Icon for working with Content Management System](../../../reuse/icons/brand-icons/bus-learn.svg) Design custom interfaces for the ServiceNow platform and its applications using this highly flexible application.](content-management-system/c_ContentManagementSystem.md)
 
 </td><td>
 

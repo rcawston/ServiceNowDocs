@@ -68,5 +68,5 @@ These UI actions are available for the documentation sections:
 8.  To reset a documentation section to its template, select the More actions \(**...**\) icon and then select **Reset to template**.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

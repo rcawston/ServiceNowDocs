@@ -39,7 +39,7 @@ The document management system in TPRM enables you to create, version, and refer
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create new document form](../reference/tprm-create-new-document-form.md).
+    For descriptions of all these fields, see [Create new document form](tprm-create-new-document-form.md).
 
 4.  Select **Submit** to save the document record.
 

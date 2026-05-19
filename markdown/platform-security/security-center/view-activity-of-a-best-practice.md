@@ -30,5 +30,5 @@ Role required: admin
     Examples of activity that you can view includes field changes such as if the status of a security best practice has changed from Open to Complete, or when a task step is completed or skipped. In addition, you can enter additional information related to an activity by entering in a comment in the text box.
 
 
-**Parent Topic:**[Security Best Practices](../concept/security-best-practices-manager.md)
+**Parent Topic:**[Security Best Practices](security-best-practices-manager.md)
 

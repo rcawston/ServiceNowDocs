@@ -75,5 +75,5 @@ Procedure
 
 [Create a custom UI test](create-custom-ui-test.md)
 
-**Parent Topic:**[Custom UI test steps](../concept/custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](custom-ui-test-steps.md)
 

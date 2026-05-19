@@ -56,7 +56,7 @@ Understanding how choice fields work is helpful to understand why only the SP ad
 To learn more, see:
 
 -   [Exploring user administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/exploring-user-administration.md)
--   [Create an ACL rule](../../contextual-security/task/t_CreateAnACLRule.md)
+-   [Create an ACL rule](access-control/t_CreateAnACLRule.md)
 -   [Service Provider Learning Path on ServiceNow University](https://snc.do/path)
 -   [Domain separation for service providers](https://snc.do/sp)
 -   [Service Provider Concepts](https://snc.do/spc)
@@ -76,5 +76,5 @@ To learn more, see:
 
 [Concepts for service providers](sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](r_InstalledWithDomainSeparation.md)
 

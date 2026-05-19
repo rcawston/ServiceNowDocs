@@ -38,5 +38,5 @@ Role required: itil
 8.  Select **Leave call**.
 
 
-**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](../concept/microsoft-teams-sow.md)
+**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](microsoft-teams-sow.md)
 

@@ -67,7 +67,7 @@ Creating a table-specific property and setting it to false prevents users from d
 
 1.  Navigate to `sys_properties.list`.
 
-2.  [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
+2.  [Add a system property](r_AvailableSystemProperties.md#) with the following settings.
 
     |Property|Value|
     |--------|-----|

@@ -69,5 +69,5 @@ You can configure the personal portfolio solution card fields to display informa
 7.  Select **Update**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
 

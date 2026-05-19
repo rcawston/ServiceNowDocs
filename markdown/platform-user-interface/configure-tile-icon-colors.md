@@ -74,5 +74,5 @@ The new colors are applied to all tile icon illustration types.
 
 If your theme is published, your illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Tile icon illustrations in Theme Builder](../concept/tile-icons-in-tb.md)
+**Parent Topic:**[Tile icon illustrations in Theme Builder](tile-icons-in-tb.md)
 

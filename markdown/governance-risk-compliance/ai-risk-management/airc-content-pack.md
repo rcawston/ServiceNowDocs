@@ -47,5 +47,5 @@ Currently, the application offers the following:
 **Related topics**  
 
 
-[Install AI Risk and Compliance Content](../task/install-ai-risk-content-pack.md)
+[Install AI Risk and Compliance Content](install-ai-risk-content-pack.md)
 

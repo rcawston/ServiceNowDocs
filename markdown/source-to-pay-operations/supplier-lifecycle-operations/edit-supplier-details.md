@@ -31,7 +31,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 3.  Select the **Details** tab and update the fields in the Supplier and General sections as needed.![Selected tab for editing supplier details.](../image/edit-supplier-details-source-to-pay-workspace.png)
 
-    For descriptions of the fields on the **Details** tab, see [Manage supplier details](../concept/supp-ws-details-page.md).
+    For descriptions of the fields on the **Details** tab, see [Manage supplier details](supp-ws-details-page.md).
 
 4.  Select **Save**.
 
@@ -40,12 +40,12 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 The edited supplier details are updated in the system.
 
-**Parent Topic:**[Manage supplier details](../concept/supp-ws-details-page.md)
+**Parent Topic:**[Manage supplier details](supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 
 [Add a supplier location from the Source-to-Pay Workspace](add-supplier-location.md)
 

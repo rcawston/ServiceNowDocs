@@ -34,7 +34,7 @@ You determine whether the scheduling process must run again based on the values 
 
 ## Conflict field configuration
 
-The fields considered for conflict capture are configured using the Application Common Field Set. For each field in the field set, the Always Show attribute determines whether that field is included in conflict tracking. When Always Show is set to true, the field is considered during conflict capture. When set to false, it is not. To configure which fields are considered in conflict tracking, see [Configure task scheduling conflict triggers](../task/task-scheduling-conflict-triggers.md).
+The fields considered for conflict capture are configured using the Application Common Field Set. For each field in the field set, the Always Show attribute determines whether that field is included in conflict tracking. When Always Show is set to true, the field is considered during conflict capture. When set to false, it is not. To configure which fields are considered in conflict tracking, see [Configure task scheduling conflict triggers](task-scheduling-conflict-triggers.md).
 
 ## Conflict Prevention and Warnings Messages
 

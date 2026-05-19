@@ -35,12 +35,12 @@ Role required: sn\_apm.apm\_admin
 
 8.  On the Shape Library Element form, fill in the fields.
 
-    For field information, see [Shape library element form](../../reference/eaw-reference/eaw-modeling-shape-library-element-form.md).
+    For field information, see [Shape library element form](eaw-modeling-shape-library-element-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](eaw-working-custom-shapes.md)
 
 **Related topics**  
 

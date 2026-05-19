@@ -15,7 +15,7 @@ breadcrumb: [Employee Travel Safety, Safe Workplace, Health and Safety, Employee
 
 As a manager or travel approver, you can approve or reject travel requests.
 
-Before travel requests can be approved, user groups and roles must be set up for managers or travel approvers. For more information, see [Set up travel approvers](../task/configure-employee-travel.md#).
+Before travel requests can be approved, user groups and roles must be set up for managers or travel approvers. For more information, see [Set up travel approvers](configure-employee-travel.md#).
 
 There are multiple ways to view requests for travel:
 

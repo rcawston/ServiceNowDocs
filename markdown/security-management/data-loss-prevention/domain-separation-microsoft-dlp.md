@@ -23,7 +23,7 @@ Support: Basic.
 
 Follow these steps to achieve domain separation:
 
--   Create a user with the [required role](../reference/getting-started-microsoft-integration.md) in the respective domain.
+-   Create a user with the [required role](getting-started-microsoft-integration.md) in the respective domain.
 -   Perform the Microsoft DLP integration procedures in the appropriate domain.
 
 **Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)

@@ -20,7 +20,7 @@ Use the Claim summary page to view items such as claim status, service level agr
 **Note:**
 
 -   The Claim summary page is read-only and cannot be updated.
--   An admin can view and modify the page variant of the Claim summary page by accessing it from the UI Builder **CSM default record-post Details** page collection. For more information, see [Enable Claim workspace, Fraud score, and Claim summary pages](../task/enable-fraud-score-and-claim-summary-pages.md).
+-   An admin can view and modify the page variant of the Claim summary page by accessing it from the UI Builder **CSM default record-post Details** page collection. For more information, see [Enable Claim workspace, Fraud score, and Claim summary pages](enable-fraud-score-and-claim-summary-pages.md).
 
 From a claim case or adjuster task, select **Claim summary** to view the Claim Summary page.
 

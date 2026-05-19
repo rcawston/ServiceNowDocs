@@ -66,5 +66,5 @@ Create a distribution set to split cost allocations automatically for invoice li
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

@@ -53,5 +53,5 @@ The Twilio Notify bulk SMS feature is used to send SMS in bulk to customers. Use
 **Related topics**  
 
 
-[Using Notify with SMS](../concept/c_NotifySMS.md)
+[Using Notify with SMS](c_NotifySMS.md)
 

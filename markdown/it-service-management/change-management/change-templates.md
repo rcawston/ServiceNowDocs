@@ -21,7 +21,7 @@ Change templates streamline the process of creating common change records by pro
 
 You can create templates for specific change models, add change request fields, define the information in the fields, and set them as read-only or required using field policies.
 
-For more information, see [Create and propose a change template](../task/create-change-template.md).
+For more information, see [Create and propose a change template](create-change-template.md).
 
 You can create different template categories and group templates under specific parent and child categories. This categorization does not affect existing standard change categories.
 
@@ -32,7 +32,7 @@ View template metrics to analyze the usage and efficiency of the templates creat
 **Related topics**  
 
 
-[Configure template categories](../task/configure-template-categories.md)
+[Configure template categories](configure-template-categories.md)
 
 [Enhanced change data model](change-data-model.md)
 

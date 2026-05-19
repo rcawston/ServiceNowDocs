@@ -422,13 +422,13 @@ Test tool integration lets you view test results in DevOps for Jenkins, Azure De
 You can integrate additional security tools that are not supported in the base system in DevOps Change Velocity.
 -   **[DevOps user-created orchestration tool integration](devops-user-created-orchestration-tool-integration.md)**  
 Integrate DevOps Change Velocity with any orchestration tool that is not supported in the base system.
--   **[Create a DevOps tool integration](../task/set-up-dev-ops-integrations.md)**  
+-   **[Create a DevOps tool integration](set-up-dev-ops-integrations.md)**  
 To create a DevOps tool integration, your integration developer configures DevOps tool integration settings, and a Workflow Studio subflow to collect and transform data from the source tool. Then your DevOps admin configures your DevOps tool connections.
 -   **[Creating DevOps subflows](creating-dev-ops-subflows.md)**  
 For user-created integrations, create a DevOps Workflow Studio subflow to collect and transform data from the tool you are integrating.
--   **[Add custom fields for a planning tool integration](../task/add-custom-field-for-a-planning-tool-integration.md)**  
+-   **[Add custom fields for a planning tool integration](add-custom-field-for-a-planning-tool-integration.md)**  
 Add custom fields into your planning tool integration to improve configurability and access business-specific information, which facilitates more informed decision-making.
--   **[Create a tool integration from the DevOps Change Workspace](../task/create-a-tool-integration-from-the-devops-change-workspace.md)**  
+-   **[Create a tool integration from the DevOps Change Workspace](create-a-tool-integration-from-the-devops-change-workspace.md)**  
 Create a tool integration from the DevOps Change Workspace for integrating additional orchestration, planning, and coding tools that are not available by default in the DevOps Change Velocity application.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)

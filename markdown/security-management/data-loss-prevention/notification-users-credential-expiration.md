@@ -21,5 +21,5 @@ If the token expires, the data ingestion for associated profiles would be on hol
 
 You must create a token or renew the old one on Netskope, and then update the token on the ServiceNow instance. If you renew the token by extending the expiry time, then the Netskope application automatically detects the renewal and will continue with the data collection. If you create a token, you must update the token in the configuration.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

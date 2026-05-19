@@ -43,12 +43,12 @@ Role required: sn\_apm.apm\_user
     -   To remove an existing architectural artifact, select the artifact and then select **Remove**.
 9.  Fill in the form fields.
 
-    For field information, see [Create new architectural artifact form](../../reference/eaw-reference/eaw-new-arch-artifact-form.md).
+    For field information, see [Create new architectural artifact form](eaw-new-arch-artifact-form.md).
 
 10. Select **Save**.
 
 
-**Parent Topic:**[Working with digital integrations](../../concept/eaw-concept/eaw-work-with-digital-integrations.md)
+**Parent Topic:**[Working with digital integrations](eaw-work-with-digital-integrations.md)
 
 **Related topics**  
 

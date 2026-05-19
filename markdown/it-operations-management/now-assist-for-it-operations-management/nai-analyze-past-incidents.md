@@ -19,7 +19,7 @@ View a Now Assist summary of past incidents on the same or related Configuration
 
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
 -   Ensure that the Alert investigation skill is active. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../concept/now-assist-itom.md).
+-   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](now-assist-itom.md).
 
 For comprehensive information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -48,5 +48,5 @@ Role required: evt\_mgmt\_operator
     The incident page opens, showing the Overview tab.
 
 
-**Parent Topic:**[Speed up alert resolution with a Now Assist analysis of past related incidents](../concept/nai-past-incidents.md)
+**Parent Topic:**[Speed up alert resolution with a Now Assist analysis of past related incidents](nai-past-incidents.md)
 

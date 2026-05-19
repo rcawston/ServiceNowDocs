@@ -82,14 +82,14 @@ After you build a filter, select **Set**.
 ![A selected filter condition to activate the UI action.](../image/automation-trigger-cond-rpa.png "Example: Selected filter condition to activate the UI action")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md)
+</table>**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
 
 **Related topics**  
 
 
-[Create an attended configuration record in RPA Hub](../task/create-attended-config-rpa.md)
+[Create an attended configuration record in RPA Hub](create-attended-config-rpa.md)
 
-[Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md)
+[Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
 
 [List of steps for configuring embedded task automation](list-steps-eta-rpa.md)
 

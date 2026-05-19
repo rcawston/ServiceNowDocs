@@ -63,7 +63,7 @@ Select the type of related record to view
 
 </td><td>
 
-Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](../task/psds-playbook-customizing-rel-records-view.md).
+Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Search the related records list
 
 </td><td>
 
-Search field at the top of the Related Records list to perform a text search. Records that match the search text are highlighted. For more information, see [Customize the related records view in Service Request Playbook](../task/psds-playbook-customizing-rel-records-view.md).
+Search field at the top of the Related Records list to perform a text search. Records that match the search text are highlighted. For more information, see [Customize the related records view in Service Request Playbook](psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 

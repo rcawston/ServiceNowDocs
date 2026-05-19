@@ -23,8 +23,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
@@ -183,9 +183,9 @@ Role required: admin
 **Related topics**  
 
 
-[Service Graph Connector for OpenTelemetry properties](../reference/sgc-cmdb-otel-props.md)
+[Service Graph Connector for OpenTelemetry properties](sgc-cmdb-otel-props.md)
 
-[Accessing the connection details of Service Graph Connector for OpenTelemetry](../concept/sgc-cmdb-otel-conn.md#)
+[Accessing the connection details of Service Graph Connector for OpenTelemetry](sgc-cmdb-otel-conn.md#)
 
-[Linking inferred services with CIs](../concept/sgc-cmdb-opentelemetry-services.md#)
+[Linking inferred services with CIs](sgc-cmdb-opentelemetry-services.md#)
 

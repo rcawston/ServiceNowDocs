@@ -80,5 +80,5 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 10. If the models fail to predict the intent, add additional intents to the model, or utterances to the intents, as described in step 6.
 
 
-**Parent Topic:**[Natural Language Understanding of Virtual Agent responses](../concept/nlu-tab-pae.md)
+**Parent Topic:**[Natural Language Understanding of Virtual Agent responses](nlu-tab-pae.md)
 

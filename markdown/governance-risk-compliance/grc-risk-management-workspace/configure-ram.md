@@ -35,7 +35,7 @@ After you move a RAM to the **Retired** state, you can also move it back to the 
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the risk assessment methodology form, see [Risk Assessment Methodology form](../reference/risk-assessment-methodology-form.md).
+    For a description of the field values on the risk assessment methodology form, see [Risk Assessment Methodology form](risk-assessment-methodology-form.md).
 
 4.  Right-click and save the form.
 
@@ -53,8 +53,8 @@ After you move a RAM to the **Retired** state, you can also move it back to the 
     **Note:** After a new assessment is created on the same risk and the assessment is in the **Monitor** state, the other assessments automatically move to the **Completed** state. When an assessment instance is in the **Monitor** state, you can’t move the RAM back to the **Draft** state. A RAM can only be moved back to the **Draft** state if there are no assessment instances.
 
 
--   **[Risk Assessment Methodology form](../reference/risk-assessment-methodology-form.md)**  
+-   **[Risk Assessment Methodology form](risk-assessment-methodology-form.md)**  
 Use the Risk Assessment Methodology form in the Advanced Risk application to specify the types of risk assessments and the entities on which the risk assessment is performed.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

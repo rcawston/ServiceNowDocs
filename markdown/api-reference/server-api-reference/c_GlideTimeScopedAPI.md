@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideTime API provides methods for performing operations on GlideTime objects, such as instantiating GlideTime objects or working with GlideTime fields.
 
-For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../scripts/p_GlideServerAPIs.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideTime - GlideTime\(\)
 

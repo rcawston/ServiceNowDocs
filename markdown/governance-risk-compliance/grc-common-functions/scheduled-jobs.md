@@ -24,5 +24,5 @@ Starting with the Australia release, the following scheduled jobs are provided f
     The Operational Resilience base system includes five pillars. Pillars are the categories that are used to organize risk data that is pulled from their associated entity types. If the GRC: Operational Resilience application is installed in the instance, the **Pillar** field displays the pillar in the application to which an entity type is assigned. If an entity class is not defined for the entity type, it is mapped to the value that is displayed in the **Pillar** field using the **GRC set entity class on entities same as pillar** job.
 
 
-**Parent Topic:**[Entity classes](../../grc-common-workspace/concept/entity-class-in-risk-ws.md)
+**Parent Topic:**[Entity classes](entity-class-in-risk-ws.md)
 

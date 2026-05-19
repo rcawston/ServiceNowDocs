@@ -40,7 +40,7 @@ Now Assist for App Engine enables you to use ServiceNow AI Platform tools such a
     Use AI Control Tower to monitor, manage, and govern the AI assets in your application once they are deployed. AI Control Tower provides a centralized inventory of your skills, AI agents, and agentic workflows, along with visibility into their performance and lifecycle status. For more information, see [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-landing.md).
 
 
-To learn more about Now Assist for App Engine, see [Tools included with Now Assist for App Engine](../../now-assist-app-engine/concept/tools-included-with-now-assist-for-app-engine.md). For a complete list of tools and skills available with Now Assist for App Engine, see the product listing in the [ServiceNow Store](https://store.servicenow.com/store/app/5d27eef41bd92a50396216db234bcb45).
+To learn more about Now Assist for App Engine, see [Tools included with Now Assist for App Engine](now-assist-for-app-engine/tools-included-with-now-assist-for-app-engine.md). For a complete list of tools and skills available with Now Assist for App Engine, see the product listing in the [ServiceNow Store](https://store.servicenow.com/store/app/5d27eef41bd92a50396216db234bcb45).
 
 **Parent Topic:**[Adding AI to your apps](dev-get-start-adding-ai-to-your-apps.md)
 

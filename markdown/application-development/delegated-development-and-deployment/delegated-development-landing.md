@@ -19,15 +19,15 @@ Delegated development allows designated users without a system admin role to dev
 
 <table id="table_kqw_nbc_1dc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Delegated Development features and concepts.](../concept/exploring-delegated-development.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Delegated Development features and concepts.](exploring-delegated-development.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure permissions and users.](../task/configuring-delegated-development.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure permissions and users.](configuring-delegated-development.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Administer permissions and users.](../task/administer-delegated-development.md)
+[Administer![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Administer permissions and users.](administer-delegated-development.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

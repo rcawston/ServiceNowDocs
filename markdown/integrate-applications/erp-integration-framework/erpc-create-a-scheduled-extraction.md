@@ -40,7 +40,7 @@ Video that shows how to create a scheduled extraction.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Zero Copy Connector for ERP scheduled extraction field descriptions](../reference/erp-data-hub-scheduled-extraction-field-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP scheduled extraction field descriptions](erp-data-hub-scheduled-extraction-field-descriptions.md).
 
     ![New scheduled extraction fields.](../image/erpc-schedule-extraction-ys2.png)
 
@@ -59,5 +59,5 @@ Check the executions. After the scheduled job has run, select the **Executions**
 
 ![ERP scheduled extraction executions list.](../image/erpc-view-extraction-executions-ys2.png)
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](erp-canvas-extraction-tables.md)
 

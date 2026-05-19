@@ -48,5 +48,5 @@ You can add contract-level KPIs only if you have installed the Sourcing and Purc
     -   All contract-level KPIs are defined under their respective supplier-level KPIs. If a supplier-level KPI doesn’t exist for a newly created contract-level KPI, a corresponding parent supplier-level KPI is also created.
     -   Aggregated values from contract-level KPIs must fall in the threshold ranges of their respective supplier-level KPIs. Therefore, supplier-level KPI thresholds must be defined for all possible aggregated values of contract-level KPIs, otherwise the KPI data won’t be generated.
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 

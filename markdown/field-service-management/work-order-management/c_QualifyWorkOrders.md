@@ -15,7 +15,7 @@ breadcrumb: [Manage work orders, Prepare work orders, Use, Field Service Managem
 
 Work orders must be qualified to ensure that work order tasks are created and assigned. The qualifying process can be automatic or manual.
 
-Depending on how the [Qualification is required for new requests](../task/t_ConfigureFieldService.md#LifecycleOptions) option is set in the Field Service Management configuration, the qualifying process is manual or automatic.
+Depending on how the [Qualification is required for new requests](../t_ConfigureFieldService.md#LifecycleOptions) option is set in the Field Service Management configuration, the qualifying process is manual or automatic.
 
 -   **Manual qualification**
 

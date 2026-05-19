@@ -125,11 +125,11 @@ System script include
 The CredentiallessDiscoveryAjax script include runs on the instance and handles the installation and uninstallation of Nmap on Windows MID Servers, executed from UI actions on the form. Do not modify this script.
 
 </td></tr></tbody>
-</table>-   **[Credential-less host Discovery](../reference/credential-less-host-discovery.md)**  
+</table>-   **[Credential-less host Discovery](credential-less-host-discovery.md)**  
 Credential-less host discovery occurs when a scanned host is found to be alive, but not active, or when all configured credential-based classification probes have failed.
--   **[Credential-less Application Discovery](../reference/credential-less-app-discovery.md)**  
+-   **[Credential-less Application Discovery](credential-less-app-discovery.md)**  
 Credential-less Application Discovery attempts to identify an application service actively listening on a specific port at a given IP address.
--   **[Nmap commands and data collected with credential-less Discovery](../reference/data-collected-nmap.md)**  
+-   **[Nmap commands and data collected with credential-less Discovery](data-collected-nmap.md)**  
 Nmap executes in phases when collecting data and runs a controlled set of safe commands with two patterns for exploring applications and devices.
 
 **Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)

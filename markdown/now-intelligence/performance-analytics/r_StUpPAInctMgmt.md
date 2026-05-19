@@ -30,5 +30,5 @@ You can also try out the Spotlight feature with Complimentary Performance Analyt
 
 The free two-hour course [Platform Analytics Overview](https://learning.servicenow.com/lxp/en/now-intelligence/platform-analytics-pa-overview?id=learning_course_prev&course_id=fb9decf8932f06905402393d6cba10f6) provides an introduction to PA components and concepts you can use with Complimentary Performance Analytics for Incident Management. \(Registration required.\)
 
-**Parent Topic:**[Performance Analytics concepts](../concept/c_PerformanceAnalytics.md)
+**Parent Topic:**[Performance Analytics concepts](c_PerformanceAnalytics.md)
 

@@ -33,9 +33,9 @@ When multiple cards are displayed, they're arranged in the order value that was 
 
 ## Recommendation process
 
-When you add a product recommendation, the recommended product offering is added as a line item to your quote. For more information, see [Get additional product offering recommendations for quotes](../task/quote-get-product-offer.md). After you add or dismiss recommendations, they’re moved to the recommendation history. Use the History ![](../image/history-prod-recommendations-icon.png) icon in the Recommended products panel to view the recommendation history.
+When you add a product recommendation, the recommended product offering is added as a line item to your quote. For more information, see [Get additional product offering recommendations for quotes](quote-get-product-offer.md). After you add or dismiss recommendations, they’re moved to the recommendation history. Use the History ![](../image/history-prod-recommendations-icon.png) icon in the Recommended products panel to view the recommendation history.
 
--   **[Get additional product offering recommendations for quotes](../task/quote-get-product-offer.md)**  
+-   **[Get additional product offering recommendations for quotes](quote-get-product-offer.md)**  
 Get product offering recommendations to upsell or cross-sell additional products in quotes.
 
 **Parent Topic:**[Using Quote Management](quote-mgmt-using.md)

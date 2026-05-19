@@ -40,5 +40,5 @@ Role required: Privacy admin
 
 The configured options are available for the user to add during case creation, ensuring that each case accurately reflects its business context.
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

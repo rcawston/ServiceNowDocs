@@ -24,7 +24,7 @@ Workplace Reservation Management should be integrated with Microsoft Exchange On
 For more information about setting up Microsoft Azure portal configuration, see [Set up Microsoft Exchange](https://www.servicenow.com/docs/r/yokohama/integrate-applications/integration-hub/setup-ms-exch-ol.html?contentId=R1EDI02PGW_yQSiS3EQ1ow). To set up the Find Meeting Times and Lookup Schedules spoke actions for Microsoft Exchange Online, see [Microsoft Exchange Online Spoke Action](https://www.servicenow.com/docs/r/xanadu/integrate-applications/integration-hub/ms-exch-online-spoke.html).
 
 -   Microsoft Exchange Online integration is enabled with Workplace Reservation Management with availability of Spoke action 'Find Meeting Times'.
--   Ensure the Reservable Module property **Allow attendees-based search** option is enabled by your administrator. This property is available when you've installed and configured Workplace Calendar Synchronization. For more information, see [Configure Workplace Calendar Synchronization](../../workplace-calendar-synchronization/concept/configure-rsv-sync.md)
+-   Ensure the Reservable Module property **Allow attendees-based search** option is enabled by your administrator. This property is available when you've installed and configured Workplace Calendar Synchronization. For more information, see [Configure Workplace Calendar Synchronization](../workplace-calendar-synchronization/configure-rsv-sync.md)
 -   The sys\_user table must be populated with valid user data. Employees can select attendees for their event from the sys\_user table.
 -   Valid user email Id should be configured in Microsoft Exchange Online. When email Id is missing or not configured, the status of an employee is shown as unknown in the add attendee list.
 -   Workplace Calendar Synchronization should be installed and configured.
@@ -113,7 +113,7 @@ Recurring
 
 </td><td>
 
-Select the required recurring event option from the drop-down list. For example, Daily, Weekly, Monthly, Custom and so on. For more information, see [Create a reservation](create-reservation-request-1.md).**Note:** Recurring event scheduling is dependent on the **Max number of Occurrences** and **Max days in future** Reservable Module property value. You cannot select recurring occurrences beyond the value specified in the **Max number of Occurrences** Reservable module property value.
+Select the required recurring event option from the drop-down list. For example, Daily, Weekly, Monthly, Custom and so on. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).**Note:** Recurring event scheduling is dependent on the **Max number of Occurrences** and **Max days in future** Reservable Module property value. You cannot select recurring occurrences beyond the value specified in the **Max number of Occurrences** Reservable module property value.
 
 In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time suggestions for selected attendees are shown only for a single day \(24-hour\) duration. For Weekly, time suggestion for the first occurrence in a series is shown. For Daily and monthly recurring reservations, time suggestion for the first occurrence is shown.
 
@@ -199,7 +199,7 @@ In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time su
 
 10. Complete the required information on the Reservation details page.
 
-    For more information, see [Create a reservation](create-reservation-request-1.md).
+    For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 11. Select Invite Attendees to add external visitors or guests.
 
@@ -220,12 +220,12 @@ In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time su
     The Reservation summary page displays the invitees or attendees that are added to your reservation. The internal invitees \(attendees\) column that you've added shows Microsoft Exchange Online user mail IDs. External visitors' column show their personal mail IDs.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Auto-resolve recurring reservations](recurring-reservations.md)
 
@@ -239,7 +239,7 @@ In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time su
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

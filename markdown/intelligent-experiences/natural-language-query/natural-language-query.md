@@ -33,7 +33,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[References![](../images/icon-nlq-references.png)Get details about properties and roles installed with NLQ.](../reference/nlq-references.md)
+[References![](../images/icon-nlq-references.png)Get details about properties and roles installed with NLQ.](nlq-references.md)
 
 </td></tr></tbody>
 </table>

@@ -43,7 +43,7 @@ You can edit the **Name Pattern** field.
 
 ## What's next
 
-Use a this template to instantiate logical composites and related equipment and rack records using design and assign. To learn more, see [Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md).
+Use a this template to instantiate logical composites and related equipment and rack records using design and assign. To learn more, see [Create an equipment record by using design and assign](create-equipment-record-design-and-assign.md).
 
 **Parent Topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
 
@@ -54,9 +54,9 @@ Use a this template to instantiate logical composites and related equipment and 
 **Related topics**  
 
 
-[Define a network model relationship](../task/create-network-model-relationships.md)
+[Define a network model relationship](create-network-model-relationships.md)
 
-[Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](create-equipment-record-design-and-assign.md)
 
-[Equipment extension classes](../reference/equipment-extension-classes.md)
+[Equipment extension classes](equipment-extension-classes.md)
 

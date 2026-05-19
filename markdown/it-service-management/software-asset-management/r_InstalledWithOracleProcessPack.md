@@ -52,5 +52,5 @@ The Oracle Process Pack adds the following license calculation types.
 |Oracle Named User Plus|Oracle licensing scheme that counts by the number of unique users and devices.|
 |Oracle Processor|Oracle licensing scheme that counts by the number of processors on a server.|
 
-**Parent Topic:**[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
 

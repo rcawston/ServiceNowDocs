@@ -15,7 +15,7 @@ Add optional activities to different stages in a playbook. Although customer pro
 
 ## Before you begin
 
-This feature must be configured by an administrator. If optional activities aren’t configured for a playbook, the **Add Activity** menu item isn’t available. For more information, see [Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md).
+This feature must be configured by an administrator. If optional activities aren’t configured for a playbook, the **Add Activity** menu item isn’t available. For more information, see [Configure playbook stage and activity visibility](playbook-config-activity-visibility.md).
 
 Role required: agent
 

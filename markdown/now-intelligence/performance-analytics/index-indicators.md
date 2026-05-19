@@ -44,7 +44,7 @@ For indicators that have a **Minimize** direction, the formula is:
 
 If you are weighting the indicators evenly, you can index the final aggregation to 100 instead of indexing the individual indicators to 100.
 
-You can use methods of the PAFormulaUtils\(\) API to get the gap between score and target for the indicator from the Analytics Hub. For more information, see [Get analytics methods in formulas](../task/get-indicator-analytics.md):
+You can use methods of the PAFormulaUtils\(\) API to get the gap between score and target for the indicator from the Analytics Hub. For more information, see [Get analytics methods in formulas](get-indicator-analytics.md):
 
 ```
 pa.getGap(indicator, On date) / pa.getGlobalTarget(indicator, On date)
@@ -89,9 +89,9 @@ To get this single index, you follow these steps to produce an index indicator:
 **Related topics**  
 
 
-[Create a formula indicator](../task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](t_CreateAFormulaIndicator.md)
 
-[Get analytics methods in formulas](../task/get-indicator-analytics.md)
+[Get analytics methods in formulas](get-indicator-analytics.md)
 
 [Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
 
@@ -99,7 +99,7 @@ To get this single index, you follow these steps to produce an index indicator:
 
 [Applying time series to result or to contributing indicators](apply-time-series-result-components.md)
 
-[Detect indicators with no scores in a formula](../task/detect-indicators-no-scores-formula.md)
+[Detect indicators with no scores in a formula](detect-indicators-no-scores-formula.md)
 
 [Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md)
 

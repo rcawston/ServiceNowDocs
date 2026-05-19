@@ -37,7 +37,7 @@ For an example of an indicator, see the Number of open incidents automated indic
 
 [Formula indicators](formula-indicators.md)
 
-[Manual indicators](../task/t_CreateAManualIndicator.md)
+[Manual indicators](t_CreateAManualIndicator.md)
 
 [Using Performance Analytics with external data](pa-external-data.md#)
 

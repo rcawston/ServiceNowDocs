@@ -53,5 +53,5 @@ Role required: sn\_customerservice\_manager
 **Related topics**  
 
 
-[Assignment workbench overview](../concept/case-assignment-workbench.md)
+[Assignment workbench overview](case-assignment-workbench.md)
 

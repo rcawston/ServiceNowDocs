@@ -23,5 +23,5 @@ You can use the default license types provided by the legacy Software Asset Mana
 |Query table|The table that is being used for data. Possible values are Software install and Software usage.|
 |Count by|The calculation type by which the [license calculation type](r_LicenseCalculationTypes.md) counts software licenses.|
 
-**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

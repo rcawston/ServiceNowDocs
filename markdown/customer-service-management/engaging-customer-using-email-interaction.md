@@ -16,5 +16,5 @@ Engaging with customers through email interaction involves verifying customer de
 
 Agents are notified of email responses received from customers in the **Ongoing** tab \(![Ongoing tab](../image/Ongoing_tab.jpg)\) on the agent workspace. This feature enables agents to view and respond to customer inquiries.
 
-For more information, see [View notifications on email response](../task/view-notifications-email-responses-received.md).
+For more information, see [View notifications on email response](view-notifications-email-responses-received.md).
 

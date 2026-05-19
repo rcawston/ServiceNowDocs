@@ -15,7 +15,7 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 The NIST RMF navigation structure facilitates the management of the NIST security controls through activities of categorization, selection, implementation, assessment, authorization, and monitoring. These security controls are described in the NIST 800-37.r1 special publication.
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../continuous-risk-monitoring/grc-cam-landing-page.md).
 
 ## NIST RMF process overview
 

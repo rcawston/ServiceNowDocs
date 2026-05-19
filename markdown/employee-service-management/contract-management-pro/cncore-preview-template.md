@@ -40,7 +40,7 @@ Role required: sn\_cm\_core.contract\_config
 9.  Modify the contract template if you want to make any changes.
 
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

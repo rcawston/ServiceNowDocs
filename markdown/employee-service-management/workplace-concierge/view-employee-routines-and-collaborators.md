@@ -48,7 +48,7 @@ Using the Employee Presence module, you can perform the following:
     A list of your collaborators is displayed.
 
 
-**Parent Topic:**[Manage Workplace Concierge - Employee Presence](../concept/manage-workplace-concierge.md)
+**Parent Topic:**[Manage Workplace Concierge - Employee Presence](manage-workplace-concierge.md)
 
 **Related topics**  
 

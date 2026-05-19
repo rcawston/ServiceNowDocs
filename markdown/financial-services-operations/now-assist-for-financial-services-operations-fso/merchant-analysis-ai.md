@@ -63,7 +63,7 @@ This agent retrieves dispute task details, performs a web search to assess merch
 
 11. Once the dispute agent selects the appropriate action, the **Merchant analysis action** is updated with the **Final action** and **Resolution reason**.
 
-    For information about evaluate merchant analysis in ACH disputes, see [Evaluate merchant analysis](../../fso-card-operations/task/fso-ach-evaluate-merchant.md).
+    For information about evaluate merchant analysis in ACH disputes, see [Evaluate merchant analysis](../dispute-management/fso-ach-evaluate-merchant.md).
 
 
 ## Result

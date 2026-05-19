@@ -264,5 +264,5 @@ TABLE.super_menu_video_table {
 }
 ```
 
-**Parent Topic:**[Menu types](../reference/r_MenuTypes.md)
+**Parent Topic:**[Menu types](r_MenuTypes.md)
 

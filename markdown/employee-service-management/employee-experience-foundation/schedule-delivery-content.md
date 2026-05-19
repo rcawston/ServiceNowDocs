@@ -34,7 +34,7 @@ Role required: sn\_cd.content\_manager, admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create a Microsoft Teams campaign using direct content publishing](../concept/create-campaign-content-publishing.md)
+**Parent Topic:**[Create a Microsoft Teams campaign using direct content publishing](create-campaign-content-publishing.md)
 
 ## Schedule content form for Microsoft Teams notifications
 

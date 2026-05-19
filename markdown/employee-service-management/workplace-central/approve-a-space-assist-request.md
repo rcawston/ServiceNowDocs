@@ -61,7 +61,7 @@ As a workplace manager, you can approve a space assist request raised by a user 
             The request is rejected.
 
 
-**Parent Topic:**[Manage Workplace Central](../concept/manage-workplace-central.md)
+**Parent Topic:**[Manage Workplace Central](manage-workplace-central.md)
 
 **Related topics**  
 

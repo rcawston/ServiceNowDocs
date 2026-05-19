@@ -49,7 +49,7 @@ The base system includes knowledge articles for each of the playbook tasks. You 
 
 3.  Click the security incident you want to analyze.
 
-    Consider prioritizing security incidents with high [risk scores](../reference/setup-assistant-reference.md#).
+    Consider prioritizing security incidents with high [risk scores](setup-assistant-reference.md#).
 
 4.  If the playbook pane on the right-hand edge of the screen is closed, click the playbook icon \(![Playbook](../image/cj-sir-icon-playbook.png)\) to open it.
 
@@ -57,7 +57,7 @@ The base system includes knowledge articles for each of the playbook tasks. You 
 
     ![Select playbook](../image/cj-sir-playbook-select.png)
 
-    You can also assign a different playbook to the security incident. To include a playbook in the Selected Playbook choice list or to change the playbook for a security incident, see [Enable playbooks for analyst selection](../concept/sir-new-ui-add-playbook.md) for details.
+    You can also assign a different playbook to the security incident. To include a playbook in the Selected Playbook choice list or to change the playbook for a security incident, see [Enable playbooks for analyst selection](sir-new-ui-add-playbook.md) for details.
 
     The playbook specific to the type of security threat opens. It is divided into categories of similar tasks. For example, you use the tasks in the **Analysis** group to determine the validity and scope of the threat. The **Contain** group includes tasks for isolating the threat to a specific user or asset. The tasks in the **Eradicate** group guide you through the process of removing the malware or reimaging the host.
 
@@ -84,7 +84,7 @@ The Phishing playbook guides you through the tasks necessary for analyzing and r
 
 ### How security incidents are created from user-reported phishing attacks
 
-During Security Incident Response setup, your system administrator creates a series of [email matching rules](../reference/setup-assistant-reference.md#) that can identify emails that contain signs of a phishing attack. When employees receive a suspicious email that contains the common signs of a phishing attack \(as defined by your security policies\), they can send it as an .EML attachment to the phishing email address defined by your organization.
+During Security Incident Response setup, your system administrator creates a series of [email matching rules](setup-assistant-reference.md#) that can identify emails that contain signs of a phishing attack. When employees receive a suspicious email that contains the common signs of a phishing attack \(as defined by your security policies\), they can send it as an .EML attachment to the phishing email address defined by your organization.
 
 When the email is received at the phishing email address, the .EML attachment is parsed and its information is compared to the email matching rules. If a match is found, a security incident containing the following information is created:
 
@@ -218,7 +218,7 @@ Set the condition builder to:-   **Option:** Select **Short description**.
 
 [Create a security incident knowledge article](t_CrtScrIncdtKnwArt.md)
 
-[Create a Security Incident Response runbook](../reference/setup-assistant-reference.md#)
+[Create a Security Incident Response runbook](setup-assistant-reference.md#)
 
 ## Add a custom task to the playbook
 

@@ -38,7 +38,7 @@ Role required: discovery\_admin
 
 6.  Choose IP ranges by either selecting from existing sets or by manually entering the ranges.
 
-    -   To select from existing IP range sets, select **Use existing IP range set \(recommended\)**. See [Discovery IP address configuration](../reference/discovery-ip-address-configuration.md#) for more information on IP range sets.
+    -   To select from existing IP range sets, select **Use existing IP range set \(recommended\)**. See [Discovery IP address configuration](discovery-ip-address-configuration.md#) for more information on IP range sets.
     -   To manually enter comma-separated IPv4 address ranges, IPv4 networks, or individual IPs that describe the ranges you want to add, select **Enter new IP ranges** and enter the IP ranges.
 7.  Select **next**.
 
@@ -47,7 +47,7 @@ Role required: discovery\_admin
     |Option|Description|
     |------|-----------|
     |**Cluster of MID servers**|Select an existing MID Server or create one. Clusters provide failover protection and load balancing between MID Servers. See [Configure a MID Server cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureAMIDServerCluster.md) for more information.|
-    |**Auto-select MID server**|An available MID Server is automatically selected when the Discovery schedule runs. See [Automatic MID Server selection](../../agent-client-collector/concept/acc-auto-mid-selection.md) for more information.|
+    |**Auto-select MID server**|An available MID Server is automatically selected when the Discovery schedule runs. See [Automatic MID Server selection](../agent-client-collector/acc-auto-mid-selection.md) for more information.|
     |**MID server**|Choose a MID Server to run the Discovery schedule. All MID Server are shown, but only ones that are up and validated can successfully run a Discovery schedule.|
 
 9.  Select **next**.
@@ -68,6 +68,6 @@ Role required: discovery\_admin
 
 After you create and save a Discovery schedule, you can optionally configure the following settings:
 
--   Define IP addresses or ranges to exclude from all Discovery schedules. See [Use Global Excludes List for IP addresses and ranges](../reference/discovery-ip-address-configuration.md#).
+-   Define IP addresses or ranges to exclude from all Discovery schedules. See [Use Global Excludes List for IP addresses and ranges](discovery-ip-address-configuration.md#).
 -   Define Discovery schedule attributes to automatically set CI field values such as location or asset tag on discovered CIs. You can define attributes at the schedule, range set, or IP address range level. See [Define CI field attributes](define-ci-attributes.md).
 

@@ -36,5 +36,5 @@ If you want to restore records deleted through a delete job, execute a rollback 
 
 The rollback job is executed immediately and the deleted records are restored. If you want to delete the restored records, create a delete job using the same conditions, and then schedule the delete job or execute it immediately.
 
-**Parent Topic:**[Deleting records safely in Core UI](../concept/deleting-records-safely.md)
+**Parent Topic:**[Deleting records safely in Core UI](deleting-records-safely.md)
 

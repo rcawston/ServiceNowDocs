@@ -17,7 +17,7 @@ Establish a streamlined process for gaining insights into Certificate Inventory 
 
 ## Configuration overview
 
-Before using Certificate Inventory and Management, it's crucial to set up the necessary plugins, ensure activation, upgrade your instance to the latest version, and download the Certificate Inventory and Management application from ServiceNow Store. For additional details, see [Get started with Certificate Inventory and Management](../task/get-started-cert-inventory-mgmt.md).
+Before using Certificate Inventory and Management, it's crucial to set up the necessary plugins, ensure activation, upgrade your instance to the latest version, and download the Certificate Inventory and Management application from ServiceNow Store. For additional details, see [Get started with Certificate Inventory and Management](get-started-cert-inventory-mgmt.md).
 
 After the prerequisites are met, you can proceed with the following tasks.
 

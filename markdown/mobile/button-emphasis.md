@@ -17,7 +17,7 @@ Use button emphasis to define the appearance and color of function buttons throu
 
 Select the mobile theme colors for button emphasis throughout your mobile app. You can define different colors to compliment your branding guidelines and you can vary your selection according to different locations on your mobile app.
 
-The available theme colors for button emphasis are primary, secondary, tertiary, positive, and destructive. The following diagram shows the default colors that are available. For more information, see [Mobile theme color guidelines](../reference/sg-theme-colors.md).
+The available theme colors for button emphasis are primary, secondary, tertiary, positive, and destructive. The following diagram shows the default colors that are available. For more information, see [Mobile theme color guidelines](sg-theme-colors.md).
 
 ![Colors available for button emphasis.](../image/button-emphasis-chart.png)
 

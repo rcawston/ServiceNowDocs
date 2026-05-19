@@ -37,7 +37,7 @@ An HPE Security ArcSight ESM - Email Parser template is provided to use for the 
 
 4.  Click the **ArcSight ESM** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](../../../security-operations-common/task/parsing-emails.md).
+    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](../parsing-emails.md).
 
 5.  Check the **Active** box.
 

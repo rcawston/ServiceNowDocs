@@ -37,5 +37,5 @@ Role required: sn\_bia.bia\_admin, sn\_bia.bia\_manager, sn\_bcm.program\_manage
     When you approve the business impact analysis, its state is updated to **Approved**.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

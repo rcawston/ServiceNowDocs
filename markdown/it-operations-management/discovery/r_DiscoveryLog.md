@@ -40,7 +40,7 @@ Role required: discovery\_admin
 
 1.  Navigate to **All** &gt; **Discovery** &gt; **Status**.
 
-2.  Open a [Discovery Status](../concept/c_DiscoveryStatus.md) record.
+2.  Open a [Discovery Status](c_DiscoveryStatus.md) record.
 
     The **Discovery Log** related list displays the logs for probe-based discovery. See [Discovery log details](discovery-log.md).
 
@@ -69,7 +69,7 @@ Role required: discovery\_admin
 ### What to do next
 
 -   To fine-tune or troubleshoot the pattern-based discovery, retrieve the payload as described in [KB0998923: Retrieve Payload Feature](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998923).
--   [Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md), if there is one of the following errors:
+-   [Validate commands used in pattern-based discovery](validate-discovery-commands.md), if there is one of the following errors:
     -   Authentication issue
     -   Authorization/Permission issue
     -   No Valid credentials present

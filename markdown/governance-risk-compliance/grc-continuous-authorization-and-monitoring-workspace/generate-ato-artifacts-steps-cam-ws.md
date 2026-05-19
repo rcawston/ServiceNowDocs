@@ -29,11 +29,11 @@ Role required:
 
 -   Set up the ServiceNow Document designer for Word plugin before you create a Microsoft Word template and generate the ATO artifacts reports.
 
-    For more information, see [Configuring ATO artifacts report templates](../../grc-cam/reference/cam-configure-word-based-template.md).
+    For more information, see [Configuring ATO artifacts report templates](../continuous-risk-monitoring/cam-configure-word-based-template.md).
 
 -   Verify using which report type you want to generate the respective ATO artifacts.
 
-    For more information, see [Continuous Authorization and Monitoring system properties](../../grc-cam/reference/cam-components-installed.md#).
+    For more information, see [Continuous Authorization and Monitoring system properties](../continuous-risk-monitoring/cam-components-installed.md#).
 
 
 ## Procedure
@@ -64,8 +64,8 @@ Implement, Assess, Authorize, or Monitor
 -   POA&amp;M
  **Note:**
 
--   The repetition property "com.snc.word\_doc\_api.max\_repetitions" in the Document designer plugin must be set to 200 to generate an SSP report successfully. For more information, see [Reference information for Document designer](../../grc-common/reference/properties-for-document-designer.md).
--   For authorization packages with medium or high data limits, increase the number of records to 200 in the template configuration to generate the SSP report successfully. For more information, see [Create content configurations for CAM](../../grc-cam/reference/cam-create-content-configurations.md).
+-   The repetition property "com.snc.word\_doc\_api.max\_repetitions" in the Document designer plugin must be set to 200 to generate an SSP report successfully. For more information, see [Reference information for Document designer](../grc-common-functions/properties-for-document-designer.md).
+-   For authorization packages with medium or high data limits, increase the number of records to 200 in the template configuration to generate the SSP report successfully. For more information, see [Create content configurations for CAM](../continuous-risk-monitoring/cam-create-content-configurations.md).
 
 
 </td></tr><tr><td>
@@ -123,5 +123,5 @@ Authorize or Monitor
     To use the functionality of Generate ATO artifacts for an authorization package using the HTML template, see the [Configurations Required to Enable Report Generation for Authorization Package in CAM Workspace \[KB1649486\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1649486) article in the Now Support knowledge base.
 
 
-**Parent Topic:**[ATO artifacts for an authorization package](../concept/generate-ato-artifacts-cam-ws.md)
+**Parent Topic:**[ATO artifacts for an authorization package](generate-ato-artifacts-cam-ws.md)
 

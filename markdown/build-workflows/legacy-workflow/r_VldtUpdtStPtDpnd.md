@@ -30,7 +30,7 @@ This warning informs the user that this workflow and one or more workflows that 
     -   Prior to deploying the main flow update set, merge the dependencies into one update set before setting that update set to complete.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
+-   Related Information: [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#)
 
 ## Troubleshooting
 

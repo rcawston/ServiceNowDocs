@@ -52,5 +52,5 @@ Utilize the rich-text formatting options of the Doc to draft information relevan
 
 **Note:** To reference ServiceNow AI Platform records other than CWM tasks, work with your admin to update the **sn\_cwm.record\_mention\_config** system property. For more information, see [Enable ServiceNow AI Platform records in CWM Docs](enable-now-platform-servicenow-records-cwm-docs.md).
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](cwm-docs.md)
 

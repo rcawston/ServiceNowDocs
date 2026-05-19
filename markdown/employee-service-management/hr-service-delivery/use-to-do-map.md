@@ -46,7 +46,7 @@ To-do filter condition
 
 </td><td>
 
-To-do filter condition on which additional conditions are applied. For more information on to-do filter condition, see [Create or modify a to-dos filter](../../employee-center/task/configure-to-dos-page-filters.md).
+To-do filter condition on which additional conditions are applied. For more information on to-do filter condition, see [Create or modify a to-dos filter](../employee-experience-foundation/configure-to-dos-page-filters.md).
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Order in which additional filter conditions are applied.
 
 [RCA approvals for Manager Hub](run-rca-mh.md)
 
-[Activate a scheduled job](../reference/activate-sj-mh.md)
+[Activate a scheduled job](activate-sj-mh.md)
 
 [Configure important dates](configure-imp-dates.md)
 
@@ -127,7 +127,7 @@ Order in which additional filter conditions are applied.
 
 [Configure team filters](configure-team-filter.md)
 
-[Set up View as Direct Reports](../../employee-center/task/view-direct-reportee.md)
+[Set up View as Direct Reports](view-direct-reportee.md)
 
 [Configure daily stats](configure-daily-stats.md)
 

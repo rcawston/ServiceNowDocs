@@ -55,5 +55,5 @@ A visitor record is created in the Health and Safety Visitors table \[sn\_imt\_c
 
 To view all of your invited visitors, navigate to **Employee Health and Safety Status** &gt; **My Visitors**.
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

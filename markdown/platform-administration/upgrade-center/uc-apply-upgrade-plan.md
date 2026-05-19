@@ -25,7 +25,7 @@ Role required: admin
 
     If the upgrade plan has been implemented on the ongoing upgrade, the Review upgrade plan link shows up on the Target version card.
 
-    See Upgrade Plan background operations section in [Upgrade Plan overview](../concept/uc-upgrade-plan.md) for more information.
+    See Upgrade Plan background operations section in [Upgrade Plan overview](uc-upgrade-plan.md) for more information.
 
 2.  Check on the date and time of the implemented upgrade plan in the Upgrade duration card once the upgrade completes.
 
@@ -46,7 +46,7 @@ Role required: admin
 -   **[Review skipped records with upgrade plan](uc-review-skipped-records-upgrade-plan.md)**  
 Review the skipped records after the completion of the upgrade.
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](uc-prepare-up.md)
 
 **Related topics**  
 

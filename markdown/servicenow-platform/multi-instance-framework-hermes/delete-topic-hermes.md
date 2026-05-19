@@ -32,5 +32,5 @@ Role required: kafka\_admin
 
 The topic record is deleted from the Kafka Topics \[sys\_kafka\_topic\] table. The corresponding Kafka topic is deleted from the Hermes Kafka cluster.
 
-**Parent Topic:**[Managing topics in Hermes](../concept/managing-topics-hermes.md)
+**Parent Topic:**[Managing topics in Hermes](managing-topics-hermes.md)
 

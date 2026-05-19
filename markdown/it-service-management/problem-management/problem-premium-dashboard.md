@@ -17,7 +17,7 @@ This dashboard uses advanced features such as interactive filters and workbench 
 
 **Important:**
 
-Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [Problem dashboard](../problem.md) to view, and track the open problems.
 
 ![Process by Age tab](../image/problem-premium-process-age.png "Process by Age tab")
 

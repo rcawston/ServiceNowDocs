@@ -60,5 +60,5 @@ You can view any errors associated with loading a MIB module in the agent log.
 
 Update the appropriate pattern or probe to query for the specific OID values defined in the new MIB.
 
-**Parent Topic:**[SNMP probes](../concept/c_SNMPProbe.md)
+**Parent Topic:**[SNMP probes](c_SNMPProbe.md)
 

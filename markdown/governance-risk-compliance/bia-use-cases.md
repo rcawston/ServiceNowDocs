@@ -102,7 +102,7 @@ The sample use cases are considered for creating a business impact analysis with
 
 As a pre-requisite to the business impact analysis workflow, the BCM administrator of your organization sets up the BIA template in the BCM application. The template offers a survey-type user experience in the form of an assessment questionnaire.
 
-If you are the BCM administrator, you can set up the questions that are relevant to your organization and scenario in the BIA template. For more information on setting up the BIA template with the BCM administrator role, see [Configure BIA templates with legacy assessment](../task/configure-bia-template-uib-ws.md).
+If you are the BCM administrator, you can set up the questions that are relevant to your organization and scenario in the BIA template. For more information on setting up the BIA template with the BCM administrator role, see [Configure BIA templates with legacy assessment](configure-bia-template-uib-ws.md).
 
 If you are the BCM lead or BCM program manager, you can respond to the assessment questionnaire on the **Assessments** tab of the business impact analysis record. If you mainly use the business services and processes, your answers serve as key data points for the recovery time objective assessment and dependency assessment. Based on your responses, the criticality of the business process or service and recommended timelines are determined.
 

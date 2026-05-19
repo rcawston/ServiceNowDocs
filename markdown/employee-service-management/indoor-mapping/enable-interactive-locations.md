@@ -189,7 +189,7 @@ Create connectors \(stairs, elevators, escalators, ramps\) and activate the conn
 -   **[Copy direction graphs to multiple floors](copy-directions-multiple-floors.md)**  
 Select a campus or building and copy floor direction graphs from a floor to a single floor or multiple floors in a building.
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Create Indoor Mapping icons and place types](place-icons-place-type.md)
 

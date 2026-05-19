@@ -41,5 +41,5 @@ Role required: ham\_admin
 
 After you've created the hardware model, [normalize the model](normalize-hardware-consumable-models.md).
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](Work-with-hardware-normalization.md)
 

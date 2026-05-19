@@ -42,5 +42,5 @@ AI agents are associated with that application are installed on your instance.
 
 ## What to do next
 
-You can access AI agents in the Now Assist panel and in Virtual Agent. To enable the Now Assist panel, see [Turn on the Now Assist panel](../../now-assist-admin/task/activate-now-assist-panel.md).
+You can access AI agents in the Now Assist panel and in Virtual Agent. To enable the Now Assist panel, see [Turn on the Now Assist panel](activate-now-assist-panel.md).
 

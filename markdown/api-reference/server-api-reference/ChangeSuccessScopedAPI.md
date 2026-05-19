@@ -27,7 +27,7 @@ There are also methods that enable you to obtain the current values of specific 
 
 This API runs in the `sn_chg_score` namespace and the Change Management - Change Success Score \(com.snc.change\_management.change\_success\_score\) plugin must be activated.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ChangeSuccess - getEntryLevelTeamScore\(\)
 

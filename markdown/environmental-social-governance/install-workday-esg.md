@@ -36,7 +36,7 @@ The following items are installed with Operational Sustainability Integration wi
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Procedure
 

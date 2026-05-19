@@ -42,7 +42,7 @@ You can download the entire canvas of a network diagram in the PNG format and sa
 
 The image is downloaded in PNG format.
 
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](using-network-diagram.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ The image is downloaded in PNG format.
 
 [Create a protection path](create-a-protection-path.md)
 
-[Visualize circuits](../concept/unified-map-view-of-connection-elements.md)
+[Visualize circuits](unified-map-view-of-connection-elements.md)
 

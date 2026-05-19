@@ -79,7 +79,7 @@ This condition helps you to view relevant fields and analyze a focused view of t
 
 Starting with BCM release 9.0.x, the Crisis map application has been enhanced. You can now display more than 10,000 resources on the map. Similarly, the application handles more than 1,000 alerts without any performance issues.
 
-For information on creating a Resource configuration in Crisis map, see [Configure Resource Configuration records](../task/conf-resource-for-crisis-map-uib-ws.md).
+For information on creating a Resource configuration in Crisis map, see [Configure Resource Configuration records](conf-resource-for-crisis-map-uib-ws.md).
 
 ## Alert details page
 
@@ -116,7 +116,7 @@ You can add custom alert actions by searching for them in the Alert Actions sect
 
 For example, if you select the **Test Script** action, it runs a script without any input. You can check the log to confirm that the script has been executed. The log shows a message indicating that the test script alert action has run.
 
-You can add custom scripts for alert actions, and the system supports both base system and custom actions. This migration promotes better configuration, accessibility, and future support for the Crisis map application for the users. For information on alert actions, see [Configure alert actions](../task/configure-alert-action-uib-ws.md).
+You can add custom scripts for alert actions, and the system supports both base system and custom actions. This migration promotes better configuration, accessibility, and future support for the Crisis map application for the users. For information on alert actions, see [Configure alert actions](configure-alert-action-uib-ws.md).
 
 ## Enhanced accessibility and user experience
 

@@ -19,7 +19,7 @@ Initiate a chargeback for Mastercard transaction disputes and request collaborat
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -30,7 +30,7 @@ When you initiate a chargeback, the process follows one of these paths:
     -   If the **Card network collaboration** is **No**, then the merchant has the option to proceed with a second presentment.
 -   You select the proper action based on the merchant's decision on the second presentment as follows:
     -   If **Yes**, the task [Review chargeback response and decide on pre-arbitration or arbitration](review-and-decide-prearbitration.md) displays, starting the formal chargeback process.
-    -   If **No**, the case favors the cardholder and, based on the policy, the transaction moves to one of the Financial Adjustments 1, ending the dispute. For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](../concept/financial-adjustments.md).
+    -   If **No**, the case favors the cardholder and, based on the policy, the transaction moves to one of the Financial Adjustments 1, ending the dispute. For more information about Financial adjustments, see [About Financial adjustments in Mastercard disputes](financial-adjustments.md).
 
 ## Procedure
 
@@ -59,7 +59,7 @@ When you initiate a chargeback, the process follows one of these paths:
     **Note:**
 
     -   You must upload a single `.zip` file whenever you submit documents to Mastercard.
-    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 10. Select **Initiate chargeback**.
 
     A chargeback is initiated and a collaboration starts with the merchant, cardholder, and Mastercard.
@@ -70,7 +70,7 @@ When you initiate a chargeback, the process follows one of these paths:
     -   If the task state changes to Document Upload Pending, then the attached document isn't uploaded to Mastercard.
 11. To reupload the document, delete and replace your attachment with the one that meets Mastercard's requirements then select **Upload document**.
 
-    For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    For more information, see [Mastercard document requirements](../mastercard-image-and-document-requirements.md).
 
 12. If you want to stop and revert the chargeback for any reason, select **Reverse chargeback**.
 
@@ -95,5 +95,5 @@ When you initiate a chargeback, the process follows one of these paths:
 -   If the **Card network collaboration** is marked as **Yes**, the [Review and respond to collaboration](review-respond-collaboration.md) displays.
 -   Otherwise, based on the second presentment done by the merchant, the appropriate task is displayed.
 
-**Parent Topic:**[Chargeback in Mastercard transaction disputes](../concept/chargeback-stage-mastercard.md)
+**Parent Topic:**[Chargeback in Mastercard transaction disputes](chargeback-stage-mastercard.md)
 

@@ -180,5 +180,5 @@ Create an AWS CloudFormation Identity Access Manager \(IAM\) user in the managem
 
 ## What to do next
 
-[Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md)
+[Set up suspension of an AWS account using service control policy](configure-suspension-policy.md)
 

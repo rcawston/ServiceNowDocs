@@ -81,7 +81,7 @@ In this release, the available prebuilt integrations are:
 
 To learn more about configuring and using Knowledge Graph, see:
 
--   [Configuring Knowledge Graph](../Task/configuring-knowledge-graph.md)
--   [Using Knowledge Graph Designer](../Task/using-knowledge-graph-designer.md)
--   [Reference for Knowledge Graph](../Reference/reference-for-knowledge-graph.md)
+-   [Configuring Knowledge Graph](configuring-knowledge-graph.md)
+-   [Using Knowledge Graph Designer](using-knowledge-graph-designer.md)
+-   [Reference for Knowledge Graph](reference-for-knowledge-graph.md)
 

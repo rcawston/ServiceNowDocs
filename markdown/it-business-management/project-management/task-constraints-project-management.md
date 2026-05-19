@@ -38,7 +38,7 @@ When a task has both a dependency and a constraint, the behavior depends on the 
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -58,9 +58,9 @@ When a task has both a dependency and a constraint, the behavior depends on the 
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
-[Apply or change a task constraint](../task/change-task-constraint-project-management.md)
+[Apply or change a task constraint](change-task-constraint-project-management.md)
 

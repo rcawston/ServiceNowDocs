@@ -54,5 +54,5 @@ The key element that you must provide to the ServiceNow AI Platform admin is the
 
 ## What to do next
 
-[Provisioning modes for Cloud Account Management in Cloud Workspace](../concept/supported-provision-modes.md)
+[Provisioning modes for Cloud Account Management in Cloud Workspace](supported-provision-modes.md)
 

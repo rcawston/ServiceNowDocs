@@ -25,7 +25,7 @@ The Slack spoke v1.8.0 is the latest version.
 
 ## Slack account requirements
 
-The Slack spoke requires creating a workspace and custom app on your Slack account to generate the OAuth 2.0 tokens for the Slack spoke. See [Configure Slack app](../tasks/configure-slack-workspace.md).
+The Slack spoke requires creating a workspace and custom app on your Slack account to generate the OAuth 2.0 tokens for the Slack spoke. See [Configure Slack app](configure-slack-workspace.md).
 
 **Note:** The spoke set up procedure outlined here requires bot user tokens only. You can't use the Create User and Deactivate User actions while using the bot token scopes. To use these actions, you must obtain user token from your Slack account.
 
@@ -63,7 +63,7 @@ Post Actionable Message
 
 </td><td>
 
-Posts an actionable message to a Slack channel.**Note:** This subflow requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](../../integrationhub-store-spokes/task/conf-outbound-slack.md).
+Posts an actionable message to a Slack channel.**Note:** This subflow requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](conf-outbound-slack.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Post Approval Message
 
 </td><td>
 
-Posts an approval message to a Slack channel.**Note:** This subflow requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](../../integrationhub-store-spokes/task/conf-outbound-slack.md).
+Posts an approval message to a Slack channel.**Note:** This subflow requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](conf-outbound-slack.md).
 
 </td></tr><tr><td>
 
@@ -226,7 +226,7 @@ Post Actionable Message
 
 </td><td>
 
-Posts an actionable message to a Slack channel.**Note:** This action requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](../../integrationhub-store-spokes/task/conf-outbound-slack.md).
+Posts an actionable message to a Slack channel.**Note:** This action requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](conf-outbound-slack.md).
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ Post Approval Message
 
 </td><td>
 
-Posts an approval message to a Slack channel.**Note:** This action requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](../../integrationhub-store-spokes/task/conf-outbound-slack.md).
+Posts an approval message to a Slack channel.**Note:** This action requires an outbound configuration as an input. Customize the default outbound configurations or create an outbound configuration as per your requirement. For more information, see [Configure outbound configurations in ServiceNow instance](conf-outbound-slack.md).
 
 </td></tr><tr><td>
 
@@ -558,5 +558,5 @@ Slack Modal Configuration \[sn\_slack\_ah\_v2\_slack\_modal\_configuration\]
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up Slack spoke](../../integrationhub-store-spokes/task/set-up-slack.md).
+For information about setting up the spoke, see [Set up Slack spoke](set-up-slack.md).
 

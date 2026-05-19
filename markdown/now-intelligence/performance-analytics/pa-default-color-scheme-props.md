@@ -29,7 +29,7 @@ com.snc.pa.indicator\_target\_default\_color\_schema
 
 </td><td>
 
-Default [indicator target](../concept/performance-analytics-glossary.md#) color schemeDefault: 3 color traffic light
+Default [indicator target](performance-analytics-glossary.md#) color schemeDefault: 3 color traffic light
 
 </td></tr><tr><td>
 

@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [Components and Roles installed with Public Sector Digital Services Core](../reference/installed-with-public-sector-digital-services-core.md).
+For more information, see [Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components and Roles installed with Public Sector Dig
 
 ## What to do next
 
-Use [guided setup](../concept/configure-psds-foundation-data.md#) to configure the Public Sector Digital Services Core application. If you're not using guided setup, you can customize the Government Service Portal and configure the CSM Configurable Workspace for public sector use by following the [optional configuration steps for Public Sector Digital Services Core](../concept/psds-optional-config-steps.md).
+Use [guided setup](configure-psds-foundation-data.md#) to configure the Public Sector Digital Services Core application. If you're not using guided setup, you can customize the Government Service Portal and configure the CSM Configurable Workspace for public sector use by following the [optional configuration steps for Public Sector Digital Services Core](psds-optional-config-steps.md).
 

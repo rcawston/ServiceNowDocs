@@ -28,7 +28,7 @@ The following infographic provides you with an end to end explanation of how to 
 
 ![The infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare along with Journey designer](../image/mmasset0020433.png)
 
-For more details, see [Using HR Service Delivery for Healthcare](../task/using-hr-healthcare.md).
+For more details, see [Using HR Service Delivery for Healthcare](using-hr-healthcare.md).
 
 ## HR Service Delivery for Healthcare benefits
 

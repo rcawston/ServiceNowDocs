@@ -20,7 +20,7 @@ When adding an entity to a model using OData, if the service you need isn't list
 
 Role required: sn\_erp\_integration.erp\_admin
 
-You can connect to an ERP system based on a metadata URL or an uploaded metadata file \(xml\). The file option enables you to, for example, access data from SuccessFactors. For more information, see [Obtain data from SAP SuccessFactors using OData v2 APIs](../concept/obtain-data-from-successfactors-using-odata-v2-apis.md).
+You can connect to an ERP system based on a metadata URL or an uploaded metadata file \(xml\). The file option enables you to, for example, access data from SuccessFactors. For more information, see [Obtain data from SAP SuccessFactors using OData v2 APIs](obtain-data-from-successfactors-using-odata-v2-apis.md).
 
 Before you can add a service manually, you must do the following:
 
@@ -102,5 +102,5 @@ Before you can add a service manually, you must do the following:
 14. When you're finished, select **Add entity**.
 
 
-**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md)
+**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](erp-canvas-use-odata-and-http-connection.md)
 

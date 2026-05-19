@@ -61,7 +61,7 @@ How you elected to resolve this conflict:-   **Not reviewed**: Not yet reviewed
 -   **Reviewed and Retained**: Left customizations in place without update from upgrade
 -   **Reviewed and Reverted**: Customizations discarded, record updated according to upgrade
 
-For more information, see [Process the skipped records list](../task/um-process-skipped-records.md).
+For more information, see [Process the skipped records list](um-process-skipped-records.md).
 
 </td></tr><tr><td>
 
@@ -121,5 +121,5 @@ Table
 The table containing this record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resolve conflicts for an individual record](../task/um-resolve-conflict.md)
+</table>**Parent Topic:**[Resolve conflicts for an individual record](um-resolve-conflict.md)
 

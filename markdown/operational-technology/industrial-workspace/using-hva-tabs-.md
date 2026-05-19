@@ -53,12 +53,12 @@ The Hardware Vulnerability Assessment menu provides information of all vulnerabi
     **Important:** Enable the Opt-in feature in Enterprise Asset Management, which enables OT devices to be available for normalization. For more information, see [Opt-in to Enterprise Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/optin-cs-eam.md).
 
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 
 **Related topics**  
 
 
-[Operational Technology Hardware Vulnerability Assessment](../concept/understanding-hwd-vuln-assessment.md)
+[Operational Technology Hardware Vulnerability Assessment](understanding-hwd-vuln-assessment.md)
 
 [Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](configure-hva-using-guided-setup.md)
 

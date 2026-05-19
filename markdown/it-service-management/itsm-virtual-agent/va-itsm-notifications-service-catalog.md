@@ -15,7 +15,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 Notify employees of Service Catalog tasks and alerts with notifications from ITSM Virtual Agent.
 
-You must activate these notifications in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+You must activate these notifications in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](setup-actionable-notifications.md).
 
 ## Citrix provision notification
 
@@ -73,5 +73,5 @@ The requester can do the following:
     By default, Virtual Agent displays the articles included in the sc\_2\_kb table. An admin can define which table is used by changing the value of the **sn\_itsm\_va.cat\_item\_related\_kb** system property.
 
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](../concept/itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)
 

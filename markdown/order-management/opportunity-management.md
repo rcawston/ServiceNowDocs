@@ -47,7 +47,7 @@ Search for and add product offerings to your opportunity.
 
 </td></tr><tr><td>
 
-[Needs](../task/opp-mgmt-use-needs-analysis.md)
+[Needs](opp-mgmt-use-needs-analysis.md)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Create opportunity tasks.
 
 </td></tr><tr><td>
 
-[Team](../task/create-new-opportunity-team-member.md)
+[Team](create-new-opportunity-team-member.md)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Create opportunity team members.
 
 </td></tr><tr><td>
 
-[Contacts](../task/add-opportunity-associated-contact.md)
+[Contacts](add-opportunity-associated-contact.md)
 
 </td><td>
 

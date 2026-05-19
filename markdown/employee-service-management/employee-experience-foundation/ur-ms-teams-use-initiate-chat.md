@@ -43,5 +43,5 @@ Role required: agent
 
 The Microsoft Teams application opens the tab where you can chat with the selected employee.
 
-**Parent Topic:**[Manage chat messages from a record](../concept/ur-mst-use-start-import-chat.md)
+**Parent Topic:**[Manage chat messages from a record](ur-mst-use-start-import-chat.md)
 

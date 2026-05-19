@@ -13,7 +13,7 @@ breadcrumb: [Customer service case types, Case management, Organize agent worksp
 
 Manage the settings and the configuration for a case type from the Case Type form.
 
-After using the Customer Service Management Guided Setup to create and [configure a case type](../task/configure-csm-case-types.md), you can view and manage the settings and configuration for the case type from the [Case Type form](../reference/customer-service-case-type-form.md). To access a Case Type form, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select a case type from the list.
+After using the Customer Service Management Guided Setup to create and [configure a case type](configure-csm-case-types.md), you can view and manage the settings and configuration for the case type from the [Case Type form](customer-service-case-type-form.md). To access a Case Type form, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select a case type from the list.
 
 ## Case Type form related links
 

@@ -42,5 +42,5 @@ The selected stop word dictionary disappears from the search profile's Stop Word
 
 To make the change in stop word dictionary linking take effect, publish the search profile. For more information on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

@@ -104,5 +104,5 @@ The contract analysis is canceled.
 -   The contract request state is Work in progress.
 -   A cancellation email notification is sent to the contract fulfiller, group manager, and collaborator.
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md)
 

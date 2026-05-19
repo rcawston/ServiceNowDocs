@@ -33,7 +33,7 @@ The following steps describe information specific to SAP. For general instructio
 
 2.  On the form, fill in the fields.
 
-    **Note:** Only information specific to SAP software entitlements is shown in the following table. For a detailed description of all software entitlement fields, see [Software entitlement fields](../reference/software-entitlement-fields.md).
+    **Note:** Only information specific to SAP software entitlements is shown in the following table. For a detailed description of all software entitlement fields, see [Software entitlement fields](software-entitlement-fields.md).
 
 <table id="table_zql_nkm_11b"><thead><tr><th>
 
@@ -67,7 +67,7 @@ Select any of the following values:
 
  The type of usage is defined by the **SAP license metric** field on the software model.
 
- For more information about license metrics, see [Software license metrics](../concept/c_SAMLicenseMetrics.md).
+ For more information about license metrics, see [Software license metrics](c_SAMLicenseMetrics.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -95,12 +95,12 @@ Number of packs for SAP Engine measurement licenses.
 4.  After the form reloads, select **Publish**.
 
 
-**Parent Topic:**[Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for SAP](sap-publisher-pack.md)
 
 **Related topics**  
 
 
-[Tables installed with the SAP publisher pack](../concept/component-installed-sap-plugin.md)
+[Tables installed with the SAP publisher pack](component-installed-sap-plugin.md)
 
 [Deploy the ABAP program for SAP](import-abap-program-sap.md)
 
@@ -120,13 +120,13 @@ Number of packs for SAP Engine measurement licenses.
 
 [Import custom SAP price lists](import-custom-sap-price-list.md)
 
-[SAP USMM-based optimization](../concept/usmm-optimization.md)
+[SAP USMM-based optimization](usmm-optimization.md)
 
-[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+[User transaction activity for named user types](sap-named-user-transaction-activity.md)
 
-[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 
-[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)
 
-[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)
+[Publisher overview for SAP in the Software Asset Workspace](publisher-overview-sap.md)
 

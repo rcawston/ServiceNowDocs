@@ -21,7 +21,7 @@ To access the ServiceNow AI Lens functionality, perform the following steps:
 
 -   Install ServiceNow AI Lens on your ServiceNow instance. For more information, see [Install the ServiceNow Lens in the ServiceNow instance](install-sn-lens.md).
 -   Turn on the ServiceNow AI Lens skill to add the generative AI capability. For more information, see [Activate the ServiceNow AI Lens skill](activate-lens-skill.md).
--   Enable ServiceNow AI Lens topic for Now Assist in Virtual Agent. For more information, see [Enabling ServiceNow AI Lens in Virtual Agent](../concept/enabling-lens-for-virtual-agent.md#).
+-   Enable ServiceNow AI Lens topic for Now Assist in Virtual Agent. For more information, see [Enabling ServiceNow AI Lens in Virtual Agent](enabling-lens-for-virtual-agent.md#).
 
 Don't scan any personally identifiable information, such as medical reports, financial reports, or other sensitive data, when using ServiceNow AI Lens as you don't want to expose the large language model \(LLM\) to any sensitive information.
 

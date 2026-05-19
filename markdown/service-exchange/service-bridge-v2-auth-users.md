@@ -24,5 +24,5 @@ Enables the provider to subdivide services by user personas giving the consumers
 -   Consumers manage the active state for an Authorized User.
 -   Providers can set the maximum number of authorized users for each connection. This requires all consumers to maintain a list of active authorized users of less than or equal to the limit set by the provider. If the value is not set, consumers can have as many active authorized users as they want.
 
-To learn more, see [Add an authorized user](../task/service-bridge-v2-create-auth-user.md).
+To learn more, see [Add an authorized user](service-bridge-v2-create-auth-user.md).
 

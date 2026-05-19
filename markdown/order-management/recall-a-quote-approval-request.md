@@ -40,5 +40,5 @@ Recalling an approval request cancels any pending approval steps and returns the
 
 The approval request is canceled, all pending approval steps are canceled, and the quote is returned to the Draft state. You can update the quote and resubmit it for advanced approval when ready.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

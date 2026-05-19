@@ -73,7 +73,7 @@ Records in all tables that extend the Base Configuration Item \[cmdb\] table can
 -   Load Balancer VLAN Interface \[cmdb\_lb\_vlan\_interface\]
 -   Switch Port \[cmdb\_switch\_port\]
 
--   **[Configure domain-separated Discovery schedules](../task/configure-domain-separated-discovery-schedules.md)**  
+-   **[Configure domain-separated Discovery schedules](configure-domain-separated-discovery-schedules.md)**  
 Configuring the "Run as" user in a Discovery schedule directs discovered Configuration Items \(CIs\) to the correct domain and maintains data isolation.
 
 **Parent Topic:**[Configuring Discovery](c_DiscoveryConfiguration.md)

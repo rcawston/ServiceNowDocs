@@ -27,7 +27,7 @@ Role required: sn\_dex.admin
 
 3.  Enter relevant information in the DEX Self-service device action form fields.
 
-    **Note:** For more information on DEX Self-service device actions form field descriptions, see [DEX Self-service device actions form](../reference/dex-self-service-device-actions-form.md).
+    **Note:** For more information on DEX Self-service device actions form field descriptions, see [DEX Self-service device actions form](dex-self-service-device-actions-form.md).
 
 4.  Select **Submit** to add new device actions, and **Update** to modify existing device actions.
 

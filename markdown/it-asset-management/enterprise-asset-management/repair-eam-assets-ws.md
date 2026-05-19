@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](record-repair-time-eam-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Repair asset task.
 
@@ -54,7 +54,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
     -   If the asset can be redeployed, select **Redeployable**.
 12. In the **Failure code** field, select the code that corresponds to the reason for the asset failure.
 
-    This field shows the failure code that you selected in the Troubleshoot task. However, you can update this field if the reason for the asset failure differs from what was identified in the Troubleshoot task. For more details on codes, see [Manage failure and resolution codes](../concept/manage-failure-res-codes-eam.md).
+    This field shows the failure code that you selected in the Troubleshoot task. However, you can update this field if the reason for the asset failure differs from what was identified in the Troubleshoot task. For more details on codes, see [Manage failure and resolution codes](manage-failure-res-codes-eam.md).
 
     **Note:** The Failure code field value that you selected is also displayed in the Evaluate Asset task and the repair order line.
 
@@ -90,7 +90,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 [Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md).
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

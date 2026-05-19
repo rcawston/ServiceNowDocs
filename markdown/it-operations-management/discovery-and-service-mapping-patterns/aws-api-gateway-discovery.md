@@ -27,11 +27,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the AWS prerequisites**
 
-    For more information, see the prerequisite section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+    For more information, see the prerequisite section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 -   **Retire legacy data model CIs to avoid duplicates**
 
-    To avoid duplicate CIs, activate a schedule job to mark legacy data model CIs as retired. For more information, see [Retire legacy AWS API Gateway data model CIs](../task/retire-legacy-aws-api-gateway-cis.md).
+    To avoid duplicate CIs, activate a schedule job to mark legacy data model CIs as retired. For more information, see [Retire legacy AWS API Gateway data model CIs](retire-legacy-aws-api-gateway-cis.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -189,10 +189,10 @@ Service Mapping performs the top-down discovery of the AWS API Gateways in the c
 -   VPC Link for Virtual Private Cloud
 -   HTTP endpoint defined as the configured URL on the API Gateway
 
--   **[Test patterns for discovering AWS API Gateway and AWS Lambda](../task/test-patterns-for-discovering-aws-api-and-aws-lambda.md)**  
+-   **[Test patterns for discovering AWS API Gateway and AWS Lambda](test-patterns-for-discovering-aws-api-and-aws-lambda.md)**  
 Run the horizontal and top-down discovery using Amazon AWS API Gateway \[cmdb\_ci\_cloud\_gateway\] and Amazon AWS Lambda \[cmdb\_ci\_cloud\_function\] patterns. Verify that the result is as expected.
--   **[Retire legacy AWS API Gateway data model CIs](../task/retire-legacy-aws-api-gateway-cis.md)**  
+-   **[Retire legacy AWS API Gateway data model CIs](retire-legacy-aws-api-gateway-cis.md)**  
 Avoid duplicate AWS API Gateway configuration items \(CIs\) by retiring legacy data model CIs through a scheduled job.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

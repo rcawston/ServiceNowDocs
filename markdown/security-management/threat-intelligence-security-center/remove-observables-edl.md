@@ -34,7 +34,7 @@ Role required: sn\_sec\_tisc.analyst
     The **Remove from EDL** modal opens. Complete the removal process. You can add observables back to the list later. For more information, see [Add Observables to EDLs](add-obsesrvables-edl.md).
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](palo-alto-networks-integration.md)
 
 **Related topics**  
 

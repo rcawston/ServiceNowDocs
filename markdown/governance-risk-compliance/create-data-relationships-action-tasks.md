@@ -107,5 +107,5 @@ Table from which the data is obtained. This field is automatically populated.
 
 ## What to do next
 
-Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](../../grc-business-continuity-management/task/create-content-config-for-temp-config.md).
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](create-content-config-for-temp-config.md).
 

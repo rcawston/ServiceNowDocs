@@ -19,7 +19,7 @@ Delete unwanted or unused indicators from your instance. Deleting indicators is 
 
 Besides roles, check that you meet the following requirements before trying to delete an indicator:
 
--   Your instance has an active entitlement to the subscription version of Performance Analytics. For more information, see [Activating your Performance Analytics subscription](../concept/c_PremiumPerformanceAnalytics.md#).
+-   Your instance has an active entitlement to the subscription version of Performance Analytics. For more information, see [Activating your Performance Analytics subscription](c_PremiumPerformanceAnalytics.md#).
 -   If your instance is domain-separated, you have visibility into the same domain as the indicator.
 -   The indicator that you want to delete is not being used in a formula indicator. If it is so used, see whether you can delete those formula indicators first.
 -   The indicator is not a benchmark indicator.

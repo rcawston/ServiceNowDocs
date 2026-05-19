@@ -32,8 +32,8 @@ Role required: admin
 
 After the plugin is installed, Field Service Management application is integrated with Customer Service Management.
 
--   **[Integrating with Field Service Management](../concept/csm-fsm-integration.md)**  
+-   **[Integrating with Field Service Management](csm-fsm-integration.md)**  
 The Customer Service with Field Service Management plugin \(com.snc.csm\_fsm\_integration\) provides an integration between the Customer Service Management and Field Service Management applications.
 
-**Parent Topic:**[Configure order fulfillment](../../tmt-order-mgt/concept/configure-order-fulfillment.md)
+**Parent Topic:**[Configure order fulfillment](configure-order-fulfillment.md)
 

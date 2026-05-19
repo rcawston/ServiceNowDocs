@@ -134,14 +134,14 @@ You cannot set the lower limit on your history range to a time before this servi
 9.  Close the comparison view when finished.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 
 
-[Compare versions of CI configuration files](compare-configuration-files.md)
+[Compare versions of CI configuration files](../discovery/compare-configuration-files.md)
 
 [View the change history of application services in classic Service Mapping](t_ViewCIChanges.md)
 
-[Compare versions of CI configuration files](compare-configuration-files.md)
+[Compare versions of CI configuration files](../discovery/compare-configuration-files.md)
 

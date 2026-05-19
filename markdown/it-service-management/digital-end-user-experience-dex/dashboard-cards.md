@@ -58,7 +58,7 @@ Devices
 The devices world map shows device counts by location, enables you to drill down into specific regions, and redirects to the Devices page for detailed insights.
 
 </td></tr></tbody>
-</table>To return to the main page, see [Landing page](../concept/dex-workspace-dashboard-tab.md).
+</table>To return to the main page, see [Landing page](dex-workspace-dashboard-tab.md).
 
 **Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
 

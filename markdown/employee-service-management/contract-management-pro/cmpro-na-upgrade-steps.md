@@ -48,13 +48,13 @@ Your customized use cases are migrated to the Now Assist Admin console.
 
 [Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
 
-[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
 [Configuring contract obligation extraction](cncore-conf-obligation-extraction.md)
 
-[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 [Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
 
-[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 

@@ -31,12 +31,12 @@ SMS
 
 </td><td>
 
--   [Conversational SMS service channel](../../advanced-work-assignment/task/install-conversational-sms.md)
+-   [Conversational SMS service channel](../advanced-work-assignment/install-conversational-sms.md)
 -   [Twilio spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/twilio-spoke.md)
--   [Conversational SMS Integration with Twilio](../../virtual-agent/concept/sms-twilio-store-app.md)
+-   [Conversational SMS Integration with Twilio](../virtual-agent/sms-twilio-store-app.md)
 
  **Note:** The Conversational SMS Integration with Twilio application installs the Conversational SMS service channel and Twilio spoke applications, if not already installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+</table>**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](config-agent-init-messg-interface.md)
 

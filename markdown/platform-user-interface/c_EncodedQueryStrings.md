@@ -13,11 +13,11 @@ breadcrumb: [Filters and breadcrumbs, Lists in the classic environment, Working 
 
 An encoded query string represents a complex filter on a list of records.
 
-Use encoded query strings to include a filter as part of a URL parameter, such as the [Navigate to a record or module using a URL](../../navigation/task/navigate-using-url.md), or as a [reference qualifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) to restrict the data that is selectable for a reference field.
+Use encoded query strings to include a filter as part of a URL parameter, such as the [Navigate to a record or module using a URL](navigate-using-url.md), or as a [reference qualifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) to restrict the data that is selectable for a reference field.
 
-To construct an encoded query string, generate a list query and then [copy it from the list filter](../task/t_GenEncodQueryStringFilter.md). This is the preferred method because the alternative is to create the string manually.
+To construct an encoded query string, generate a list query and then [copy it from the list filter](t_GenEncodQueryStringFilter.md). This is the preferred method because the alternative is to create the string manually.
 
-In order to create an encoded query string manually, you need to know the relevant table and field names and [operators](../../common-ui-elements/reference/r_OpAvailableFiltersQueries.md).
+In order to create an encoded query string manually, you need to know the relevant table and field names and [operators](r_OpAvailableFiltersQueries.md).
 
 <table id="table_hkc_kvp_pq"><thead><tr><th>
 

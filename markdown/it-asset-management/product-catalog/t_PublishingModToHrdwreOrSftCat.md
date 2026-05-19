@@ -34,5 +34,5 @@ Role required: catalog\_admin
 5.  Click **OK**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](c_Models.md)
 

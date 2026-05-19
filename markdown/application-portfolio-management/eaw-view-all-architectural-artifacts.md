@@ -30,7 +30,7 @@ Role required: sn\_apm.apm\_user or sn\_apm.apm\_admin
 4.  Select **Architectural Artifacts**.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

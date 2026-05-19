@@ -37,7 +37,7 @@ The Cloud Account Management feature automates the management process for AWS ac
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)](../reference/cam-reference.md)Get details about components like fields, tables, and properties.
+[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)](cam-reference.md)Get details about components like fields, tables, and properties.
 
 </td></tr></tbody>
 </table>

@@ -90,5 +90,5 @@ Option to specify the severity assigned to the indicator in CrowdStrike when the
     ![Block Request work note example](../image/run-block-request-worknote.png)
 
 
-**Parent Topic:**[Security Operations Integration- Block Request capability](../concept/block-request-capability.md)
+**Parent Topic:**[Security Operations Integration- Block Request capability](block-request-capability.md)
 

@@ -44,5 +44,5 @@ After creating an insurance product model and a claim case service definition, y
 
 Associate another product model by repeating steps 3–5.
 
-**Parent Topic:**[Creating a service definition for Insurance claims](../concept/create-service-definitions-for-insurance-claims.md)
+**Parent Topic:**[Creating a service definition for Insurance claims](create-service-definitions-for-insurance-claims.md)
 

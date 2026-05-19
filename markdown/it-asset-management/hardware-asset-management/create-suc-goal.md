@@ -29,7 +29,7 @@ Role required: ham\_admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [HAM Success Goal Details](../reference/ham-suc-goal.md).
+    For a description of the field values, see [HAM Success Goal Details](ham-suc-goal.md).
 
 4.  Select **Save**.
 
@@ -40,5 +40,5 @@ Role required: ham\_admin
 
 The success goal that you created gets displayed on the Success goals page in the Asset operations view.
 
-**Parent Topic:**[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+**Parent Topic:**[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 

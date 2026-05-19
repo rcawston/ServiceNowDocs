@@ -28,12 +28,12 @@ Role required: sn\_apm.apm\_user
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage application families](../../concept/eaw-concept/eaw-configure-application-families.md)
+[Manage application families](eaw-configure-application-families.md)
 
 [Add or edit an application family](eaw-create-app-family.md)
 

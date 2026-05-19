@@ -21,5 +21,5 @@ Become familiar with the icons on calendar events to identify what they indicate
 |![lock icon](../image/lock.png)|The task is schedule locked.|lock.png|
 |![crew icon](../image/crew.png)|The work order task requires a crew.|crew.png|
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

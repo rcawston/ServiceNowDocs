@@ -17,7 +17,7 @@ As a catalog administrator, configure your Service Catalog items so that the har
 
 Complete the following tasks for your catalog requests to be available for fulfillment through the Zero Touch request flow:
 
-1.  [Associate your catalog items with the Zero Touch request flow](../task/associate-catalog-items-with-ztr.md).
-2.  [Create variables for the catalog item associated with the Zero Touch request flow](../task/create-variables-for-items-consumer.md).
-3.  [Associate a catalog item with a remote record producer](../task/associate-catalog-item-with-record-producer.md).
+1.  [Associate your catalog items with the Zero Touch request flow](associate-catalog-items-with-ztr.md).
+2.  [Create variables for the catalog item associated with the Zero Touch request flow](create-variables-for-items-consumer.md).
+3.  [Associate a catalog item with a remote record producer](associate-catalog-item-with-record-producer.md).
 

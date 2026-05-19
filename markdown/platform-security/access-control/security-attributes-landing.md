@@ -19,11 +19,11 @@ Security Attributes offer a flexible alternative to access control lists.
 
 <table id="table_tnd_gtm_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore Security Attributes![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn fundamentals of Security Attributes](../concept/security-attribute-fundamentals.md)
+[Explore Security Attributes![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn fundamentals of Security Attributes](security-attribute-fundamentals.md)
 
 </td><td>
 
-[Create Security Attributes![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create new Security Attributes](../task/create-security-attributes.md)
+[Create Security Attributes![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create new Security Attributes](create-security-attributes.md)
 
 </td></tr><tr><td>
 
@@ -31,7 +31,7 @@ Security Attributes offer a flexible alternative to access control lists.
 
 </td><td>
 
-[Security Attributes Logging![](../../../reuse/icons/brand-icons/bus-documentation.svg)Review Security Attribute logging](../concept/security-attribute-scope.md#)
+[Security Attributes Logging![](../../../reuse/icons/brand-icons/bus-documentation.svg)Review Security Attribute logging](security-attribute-scope.md#)
 
 </td></tr></tbody>
 </table>

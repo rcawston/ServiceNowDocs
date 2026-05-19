@@ -18,7 +18,7 @@ Modify existing ServiceNow applications using natural language prompts with Buil
 
 Install and enable Build Agent. For more information, see [Install Build Agent](install-build-agent.md).
 
-For some prompting guidelines and ideas, see [Example prompts](../reference/build-agent-example-prompts.md).
+For some prompting guidelines and ideas, see [Example prompts](build-agent-example-prompts.md).
 
 Role required: admin
 
@@ -28,7 +28,7 @@ You can edit an application with Build Agent in both ServiceNow Studio and the S
 
 -   Applications created with Build Agent are automatically added to the workspace in which they were created. They can also be opened in other workspace in the ServiceNow IDE.
 -   For applications that were not developed using the ServiceNow IDE, ServiceNow Studio, or the ServiceNow SDK, you must convert them into Fluent format to enable development within the Build Agent. You can prompt the Build Agent to use the Open App tool to locate the application you want. Alternatively, you can search for an application directly within the Build Agent, and it will automatically use the Open App tool. The Open App tool can find an application, convert it to Fluent format, and then add the converted app to your workspace.
--   Clone an existing application created with the ServiceNow IDE or ServiceNow SDK from a Git repository. For more information, see [Clone a Git repository with the ServiceNow IDE](../../servicenow-ide/task/clone-git-repository-servicenow-ide.md).
+-   Clone an existing application created with the ServiceNow IDE or ServiceNow SDK from a Git repository. For more information, see [Clone a Git repository with the ServiceNow IDE](servicenow-ide-family-release/clone-git-repository-servicenow-ide.md).
 
 ## Procedure
 
@@ -58,7 +58,7 @@ You can edit an application with Build Agent in both ServiceNow Studio and the S
 
 6.  Review the changes in the Change Log in a tab in ServiceNow Studio and continue iterating to refine the app.
 
-    For more information on the change log, see [Build Agent conversation change log](../concept/ba-conversational-change-log.md).
+    For more information on the change log, see [Build Agent conversation change log](ba-conversational-change-log.md).
 
     Review updates to generated tables, flows, and scripts, and preview any user interfaces created in your application. You can interact with the preview to make additional edits, for example, select a button in the **Preview** tab and tell Build Agent to `Change the color of the button to purple`.
 

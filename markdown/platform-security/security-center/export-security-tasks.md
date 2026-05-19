@@ -42,5 +42,5 @@ Role required: admin
         The **Email** field displays. Enter a email address in the **Email** field, and the export file is delivered to the specified email address.
 
 
-**Parent Topic:**[Security Tasks](../concept/security-task-manager.md)
+**Parent Topic:**[Security Tasks](security-task-manager.md)
 

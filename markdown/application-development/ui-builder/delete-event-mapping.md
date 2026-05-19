@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Open or create a page.
 
@@ -40,5 +40,5 @@ Role required: admin
 7.  The event mapping is removed from the associated component.
 
 
-**Parent Topic:**[Manage actions in UI Builder pages](../concept/work-events.md)
+**Parent Topic:**[Manage actions in UI Builder pages](work-events.md)
 

@@ -98,5 +98,5 @@ Your connector admin needs these items to configure a Workvivo external content 
 
 For details on creating and configuring a Workvivo external content connector, see [Create a Workvivo external content connector](create-ext-cont-connector-workvivo.md).
 
-**Parent Topic:**[Workvivo external content connector](../concept/workvivo-external-content-connector.md)
+**Parent Topic:**[Workvivo external content connector](workvivo-external-content-connector.md)
 

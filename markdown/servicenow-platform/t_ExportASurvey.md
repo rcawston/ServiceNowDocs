@@ -30,5 +30,5 @@ For information about update sets, see [System update sets](https://raw.githubus
 4.  If applicable, follow the prompt in your browser to save the XML file.
 
 
-**Parent Topic:**[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+**Parent Topic:**[Sharing surveys](c_SurveyInportAndExport.md)
 

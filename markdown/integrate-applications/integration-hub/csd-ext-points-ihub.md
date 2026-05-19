@@ -42,5 +42,5 @@ The script must set the **csdExtensionResult** object with these attributes:
 -   **softwareModel**: Software model sys\_id.
 -   **deploymentType**: An integer. Use **1** for deployment to a user and **2** for deployment to a device.
 
-**Parent Topic:**[Client software distribution extension framework](../concept/csd-ext-framewrk.md)
+**Parent Topic:**[Client software distribution extension framework](csd-ext-framewrk.md)
 

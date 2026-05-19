@@ -48,7 +48,7 @@ Review needed
 -   Unassigned cases: Displays a list of all the unassigned cases.
 -   Unassigned tasks: Displays a list of all the unassigned tasks.
 
- For more information, see [Create a task for a supplier case from the Source-to-Pay Workspace](../task/create-new-task-for-supp-case.md).
+ For more information, see [Create a task for a supplier case from the Source-to-Pay Workspace](../supplier-lifecycle-operations/create-new-task-for-supp-case.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ All work
 -   Interactions: Displays a list of all the interactions.
 -   Closed interactions: Displays a list of all the closed interactions.
 
- For more information, see [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md).
+ For more information, see [Interaction Management in Supplier Lifecycle Operations](../supplier-lifecycle-operations/interaction-mgmt-supplier-mgr-ws.md).
 
 </td></tr><tr><td>
 
@@ -82,14 +82,14 @@ Primary Data
 Suppliers: Displays a list of active suppliers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Source-to-Pay Workspace list page](../../source-to-pay-operations/concept/source-to-pay-list-page.md)
+</table>**Parent Topic:**[Source-to-Pay Workspace list page](source-to-pay-list-page.md)
 
 **Related topics**  
 
 
-[SPO list page](../../sourcing-procurement-operations/concept/procurement-specialist-list-page.md)
+[SPO list page](procurement-specialist-list-page.md)
 
-[APO list page](../../accounts-payable-operations/concept/acc-pay-workspace-list-page.md)
+[APO list page](acc-pay-workspace-list-page.md)
 
-[POM list page](../../purchase-order-management/concept/pom-list-page.md)
+[POM list page](pom-list-page.md)
 

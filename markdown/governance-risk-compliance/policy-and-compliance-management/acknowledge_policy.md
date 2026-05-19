@@ -54,8 +54,8 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
     -   **Request Exception**
 
-        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](../../grc-workspace-compliance/task/request-policy-exception-ws.md).
+        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](../grc-compliance-management-workspace/request-policy-exception-ws.md).
 
 
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](ack-policy.md)
 

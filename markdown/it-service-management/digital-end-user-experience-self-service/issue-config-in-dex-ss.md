@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 DEX Self-service provides the following issue configurations in the base system.
 
-Base system issue configurations are inactive by default. To enable them, see [Enable issue configurations for DEX Self-service](../task/enable-dex-self-service-issues.md).
+Base system issue configurations are inactive by default. To enable them, see [Enable issue configurations for DEX Self-service](enable-dex-self-service-issues.md).
 
 <table id="table_jzl_ytb_1fc"><tbody><tr><td>
 

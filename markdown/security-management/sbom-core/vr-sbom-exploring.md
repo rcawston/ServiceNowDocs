@@ -164,7 +164,7 @@ SBOM Response
 </td></tr></tbody>
 </table>## Vulnerability Response applications and CSDM tables
 
-The Vulnerability Response, Application Vulnerability Response, third-party vulnerability integrations and Software Bill of Materials applications manage \(contribute data to\) CSDM tables. These applications also use data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to these Security Operations applications. See [Vulnerability Response applications and CSDM tables](../../../vulnerability-response/concept/vr-avr-sbom-csdm-guidelines.md) for more information.
+The Vulnerability Response, Application Vulnerability Response, third-party vulnerability integrations and Software Bill of Materials applications manage \(contribute data to\) CSDM tables. These applications also use data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to these Security Operations applications. See [Vulnerability Response applications and CSDM tables](../vulnerability-response/vr-avr-sbom-csdm-guidelines.md) for more information.
 
 ## What to explore next
 

@@ -36,7 +36,7 @@ A process job represents the execution of a bot process by a robot.
 5.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 **Related topics**  
 

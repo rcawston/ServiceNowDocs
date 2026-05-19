@@ -31,7 +31,7 @@ For example, a web application might read data from an instance of Oracle, which
 
 The relationships between CIs can be automatically discovered. If you use Discovery, many relationships can be automatically loaded into the system through the discovery process. If you import your data from another system, you get some form of relationships.
 
-You can add to automatically discovered relationships, create relationships, or edit relationships for a CI by launching the [CI relationship editor](c_RelationshipEditor.md) from the CI form. As an alternative to the CI relationship editor, [Unified Map](cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](cmdb-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](../task/unified-map-edit-connection.md).
+You can add to automatically discovered relationships, create relationships, or edit relationships for a CI by launching the [CI relationship editor](c_RelationshipEditor.md) from the CI form. As an alternative to the CI relationship editor, [Unified Map](../unified-map/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](cmdb-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](../unified-map/unified-map-edit-connection.md).
 
 ## Dependent and non-dependent relationships
 
@@ -231,9 +231,9 @@ From the CI to an outgoing endpoint.
  **Note:** For internal use only \(service model\).
 
 </td></tr></tbody>
-</table>-   **[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)**  
+</table>-   **[Suggested class relationships](r_SuggestedRelationshipModel.md)**  
 The system keeps a table \(Suggested Relationship \[cmdb\_rel\_type\_suggest\]\) of relationship types that are appropriate for a CI type, based on its class. You can manage suggested relationships by navigating to **Configuration** &gt; **Suggested Relationships**, or in the CI Class Manager.
--   **[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)**  
+-   **[Add a suggested relationship](t_AddANewSuggestedRelationship.md)**  
 Add a suggested relationship for a class. The list of suggested relationships for a class is available when you create a new relationship for a CI of that class.
 -   **[Relationship governance rules](relationship-governance.md)**  
 Relationship governance rules is a set of relationship rules used to ensure consistency and validity in modeling relationships between configuration items \(CIs\) in the CMDB. Use relationship governance rules to prevent the selection of relationship types or directions that are not allowed between specific CI types.
@@ -245,7 +245,7 @@ Use the relationship editor to view, create, modify, or delete CI relationships.
 A relation qualifier, which is a CI of the Qualifier \[cmdb\_ci\_qualifier\] type, stores important information about the CI relationships.
 -   **[CI relationship security](c_CIRelationshipSecurity.md)**  
 When applying security to CI relationships, it is important to apply the access controls both to the CI Relationship \(cmdb\_rel\_ci\) table and to create an operation editCIRelations to the \* table as well.
--   **[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)**  
+-   **[Create a CI relation rollup](t_CreateACIRelationRollup.md)**  
 A CI relation rollup allows you to sum, count, max, min, or mean a relationship type. You can create CI relation rollups.
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](c_ITILConfigurationManagement.md)
@@ -253,5 +253,5 @@ A CI relation rollup allows you to sum, count, max, min, or mean a relationship 
 **Related topics**  
 
 
-[Create a CI relation rollup](../task/t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](t_CreateACIRelationRollup.md)
 

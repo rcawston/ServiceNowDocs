@@ -83,5 +83,5 @@ Use a decorative step slider to improve the overall look and feel of the user in
 -   EnforceStepSize: Optional
 -   Decoration
 
-For more information, see [Configure a decorative slider](../task/decorative-slider.md).
+For more information, see [Configure a decorative slider](decorative-slider.md).
 

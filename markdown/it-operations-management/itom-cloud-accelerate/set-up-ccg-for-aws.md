@@ -222,7 +222,7 @@ For more information, see [Configure the trusting account for Cloud Configuratio
 
 3.  If you want to use the OrganizationAccountAccessRole to access the member account, create an assume role configuration for the management account.
 
-For more information, see [Create an assume role configuration](../../it-operations-management/task/create-assume-role-config.md).
+For more information, see [Create an assume role configuration](create-assume-role-config.md).
 
 </td></tr><tr><td id="d147463e701">
 
@@ -242,17 +242,17 @@ For more information, see [Configure the trusting account for Cloud Configuratio
 </td></tr></tbody>
 </table>7.  Install and configure the MID Servers.
 
-    For more information, see [Install and configure MID Servers](../../it-operations-management/task/mid-server-configuration-cloud.md).
+    For more information, see [Install and configure MID Servers](../mid-server-configuration-cloud.md).
 
 8.  Run datacenter discovery to identify the datacenters associated with the service accounts.
 
-    For more information, see [Run datacenter discovery](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md).
+    For more information, see [Run datacenter discovery](../cloud-configuration-governance/disco-datacntrs-in-srv-acct.md).
 
 
 -   **[Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](configure-trusting-account-for-ccg.md)**  
 Configure the trusting account whose resources need to be accessed, to rely on the trusted account using the Identity and Access Management \(IAM\) role.
--   **[Create an assume role configuration](../../it-operations-management/task/create-assume-role-config.md)**  
+-   **[Create an assume role configuration](create-assume-role-config.md)**  
 Create a service account assume role configuration to facilitate cross-account access that is from a management account to a member account or from a trusted account to a trusting account. All the related member accounts or trusted accounts are automatically loaded avoiding the need to add account individually.
 
-**Parent Topic:**[Exploring Cloud Configuration Governance](../concept/exploring-cloud-configuration-governance.md)
+**Parent Topic:**[Exploring Cloud Configuration Governance](exploring-cloud-configuration-governance.md)
 

@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The Zero Copy Connector for ERP \(Enterprise Resource Planning\) Monitor enables you to track ERP transactions and their progress.
 
-For process details, see [Monitor Zero Copy Connector for ERP transactions and logged errors](../task/monitor-erp-data-hub-logged-extraction-and-remote-lookup-transactions.md).
+For process details, see [Monitor Zero Copy Connector for ERP transactions and logged errors](monitor-erp-data-hub-logged-extraction-and-remote-lookup-transactions.md).
 
 <table id="table_uk4_144_2dc"><thead><tr><th>
 

@@ -36,7 +36,7 @@ The relationship of the CMDB objects is shown in the illustration. The data show
 
 ![CSDM objects.](../image/csdm-objects-rel.png)
 
-For information on updating the node relationship configurations, see [Configure the Node relationship configurations](../task/update-node-rel-config.md)
+For information on updating the node relationship configurations, see [Configure the Node relationship configurations](update-node-rel-config.md)
 
 .
 

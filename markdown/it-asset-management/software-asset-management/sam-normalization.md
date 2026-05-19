@@ -31,23 +31,23 @@ When the normalization process completes, matches are added to the corresponding
 
 To standardize software discovery models, they must be normalized. You can either manually update the records with normalization content or let the normalization capability within Software Asset Management Professional to compare and standardize your records against Software Asset Management Content Library.
 
-The scheduled job **SAM - Normalize discovery models using content library rules** runs daily to normalize discovery models based on content rules and assign a normalization status to the discovery model record. For more information about the different normalization statuses, see [Normalization statuses](../reference/normalization-status.md).
+The scheduled job **SAM - Normalize discovery models using content library rules** runs daily to normalize discovery models based on content rules and assign a normalization status to the discovery model record. For more information about the different normalization statuses, see [Normalization statuses](normalization-status.md).
 
 **Note:** You can also opt in for Machine Learning normalization by activating the Software Asset Management – Machine Learning Normalization \(com.sn\_sam\_ml\_normalization\) plugin. For more information, see [Normalization of discovery models using machine learning](ml-learning-sam.md).
 
-The scheduled job, **SAM - Discovery Model Normalization job** runs daily to update the normalization trend charts on the Normalization and content dashboard. For more information about normalization trend charts, see [Normalization and content dashboard](../reference/norm-content-dashboard-workspace.md).
+The scheduled job, **SAM - Discovery Model Normalization job** runs daily to update the normalization trend charts on the Normalization and content dashboard. For more information about normalization trend charts, see [Normalization and content dashboard](norm-content-dashboard-workspace.md).
 
 ## Manual normalization
 
-Manual normalization is the process of updating a software discovery model when the platform hasn’t fully normalized it. You can manually normalize a software discovery model when its normalization status is **Partially Normalized**, **Publisher Normalized**, or **Match Not Found**. For more information about manually normalizing a software discovery model, see [Manually normalize a software model in the Software Asset Workspace](../task/manual-normalize-swmodel-workspace.md).
+Manual normalization is the process of updating a software discovery model when the platform hasn’t fully normalized it. You can manually normalize a software discovery model when its normalization status is **Partially Normalized**, **Publisher Normalized**, or **Match Not Found**. For more information about manually normalizing a software discovery model, see [Manually normalize a software model in the Software Asset Workspace](manual-normalize-swmodel-workspace.md).
 
 ## Normalization suggestion
 
-When a software discovery model is compared against the Software Asset Management plugin Content Library, normalization suggestions are generated for discovery models. These suggestions predict fields such as **Publisher**, **Product**, and **Version** based on the discovery source. You can accept or reject these suggestions. For more information about viewing normalization suggestions, see [View normalization suggestions in the Software Asset Workspace](../task/view-norm-sugg-workspace.md).
+When a software discovery model is compared against the Software Asset Management plugin Content Library, normalization suggestions are generated for discovery models. These suggestions predict fields such as **Publisher**, **Product**, and **Version** based on the discovery source. You can accept or reject these suggestions. For more information about viewing normalization suggestions, see [View normalization suggestions in the Software Asset Workspace](view-norm-sugg-workspace.md).
 
 ## Revert normalization
 
-You can manually revert normalization, which removes all normalized values and sets the discovery model's status to **Match not found**. You can revert the normalization of discovery models with a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** to **Match Not Found**. For more information about reverting the software discovery model normalization, see [Revert normalization in the workspace](../task/revert-norm-workspace.md).
+You can manually revert normalization, which removes all normalized values and sets the discovery model's status to **Match not found**. You can revert the normalization of discovery models with a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** to **Match Not Found**. For more information about reverting the software discovery model normalization, see [Revert normalization in the workspace](revert-norm-workspace.md).
 
 **Note:** Discovery models with a status of **Manually Normalized** and discovery models that have been normalized using pattern normalization rules can’t be reverted.
 
@@ -68,15 +68,15 @@ The Software Asset Management application uses the following normalization rules
 **Related topics**  
 
 
-[Manually normalize a software model in the Software Asset Workspace](../task/manual-normalize-swmodel-workspace.md)
+[Manually normalize a software model in the Software Asset Workspace](manual-normalize-swmodel-workspace.md)
 
-[View normalization suggestions in the Software Asset Workspace](../task/view-norm-sugg-workspace.md)
+[View normalization suggestions in the Software Asset Workspace](view-norm-sugg-workspace.md)
 
-[Revert normalization in the workspace](../task/revert-norm-workspace.md)
+[Revert normalization in the workspace](revert-norm-workspace.md)
 
-[Normalization statuses](../reference/normalization-status.md)
+[Normalization statuses](normalization-status.md)
 
 [Normalization of discovery models using machine learning](ml-learning-sam.md)
 
-[Normalization and content dashboard](../reference/norm-content-dashboard-workspace.md)
+[Normalization and content dashboard](norm-content-dashboard-workspace.md)
 

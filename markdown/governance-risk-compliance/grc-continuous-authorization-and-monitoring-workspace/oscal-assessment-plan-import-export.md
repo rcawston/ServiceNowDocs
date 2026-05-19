@@ -65,5 +65,5 @@ CAM exports engagement data to OSCAL Assessment Plan format using the following 
 -   Reviewed controls: Identifies which controls and requirements are in scope for testing
 -   SSP reference: Links the assessment plan to its parent package using the package UUID in the import-ssp section
 
-**Parent Topic:**[CAM OSCAL](../../grc-cam-workspace/concept/oscal-cam-ws.md)
+**Parent Topic:**[CAM OSCAL](oscal-cam-ws.md)
 

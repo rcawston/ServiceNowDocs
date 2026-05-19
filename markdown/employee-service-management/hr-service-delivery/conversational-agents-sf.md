@@ -17,7 +17,7 @@ Place requests to the SuccessFactors system using the HR Service Delivery AI age
 
 ## HCM AI agents Overview
 
-You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](../task/config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](../reference/sf-agent-mapping.md).
+You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](sf-agent-mapping.md).
 
 ## Worker profile retriever AI agent
 
@@ -50,11 +50,11 @@ The View paychecks AI agent enables you to view paycheck summaries for the selec
 
 [View job tracker details](view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](field-mappings-sf.md)
 
 [Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
 

@@ -20,5 +20,5 @@ Organizations can outsource their work order tasks to contractor companies. The 
 **Related topics**  
 
 
-[Field Service Contractor for mobile feature of the Now Mobile Agent application](field-service-contractor-portal-mobile.md)
+[Field Service Contractor for mobile feature of the Now Mobile Agent application](../mobile-experience-for-field-service-management-glide-family/field-service-contractor-portal-mobile.md)
 

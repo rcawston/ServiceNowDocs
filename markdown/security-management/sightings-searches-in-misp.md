@@ -25,9 +25,9 @@ Sightings that are created in MISP by users of organizations that are marked as 
 
 ## Sighting searches in SIR
 
-The [Security Operations Integration - Sightings Search workflow](../../security-operations-integrations/task/secops-integration-sightings-search-workflow.md) executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries that are based on the sighting search configurations, and executes the searches that are based on the configured flow.
+The [Security Operations Integration - Sightings Search workflow](secops-integration-sightings-search-workflow.md) executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries that are based on the sighting search configurations, and executes the searches that are based on the configured flow.
 
-Sighting searches helps analysts to determine the prevalence of a threat over time. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the Security Incident [Sightings](sightings-searches-in-misp.md#), [Sightings Search Results](../../security-operations-common/task/view-sightings-search-results.md), and [Sightings Search Details](../../security-operations-common/task/view-sightings-search-details.md) related lists.
+Sighting searches helps analysts to determine the prevalence of a threat over time. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the Security Incident [Sightings](sightings-searches-in-misp.md#), [Sightings Search Results](view-sightings-search-results.md), and [Sightings Search Details](view-sightings-search-details.md) related lists.
 
 As you start to analyze an incident, you can set up your ServiceNow AI Platform to [automatically perform a sightings search](sightings-searches-in-misp.md#) or [manually perform an observable sightings search](sightings-searches-in-misp.md#) to identify other users in your organization who are impacted by the same phishing attack.
 
@@ -39,13 +39,13 @@ Enable the sighting search in MISP to run automatically so that the Security Ope
 
 ### Before you begin
 
-Verify that the [Sightings Search Configuration profile for MISP](../task/configure-sightings-search.md) is active.
+Verify that the [Sightings Search Configuration profile for MISP](configure-sightings-search.md) is active.
 
 Role required: sn\_si.analyst
 
 ### About this task
 
-If you enable [the sighting search capability to run automatically in the MISP integration configuration](../task/review-the-misp-integration-settings.md), the sighting search in MISP triggers when new observables are associated with a security incident. By default, the **Run Sighting Search automatically when new observables are associated with the security incident** option is enabled.
+If you enable [the sighting search capability to run automatically in the MISP integration configuration](review-the-misp-integration-settings.md), the sighting search in MISP triggers when new observables are associated with a security incident. By default, the **Run Sighting Search automatically when new observables are associated with the security incident** option is enabled.
 
 ### Procedure
 
@@ -55,7 +55,7 @@ If you enable [the sighting search capability to run automatically in the MISP i
 
 3.  Review the work notes after new observables have been associated with the security incident.
 
-    A work note is posted when the [Security Operations Integration - Sightings Search workflow](../../security-operations-integrations/task/secops-integration-sightings-search-workflow.md) has triggered.
+    A work note is posted when the [Security Operations Integration - Sightings Search workflow](secops-integration-sightings-search-workflow.md) has triggered.
 
     The following example shows the work notes section.
 
@@ -63,7 +63,7 @@ If you enable [the sighting search capability to run automatically in the MISP i
 
 4.  View the aggregated information of observables that are seen across all the events \(global\) and categorized by their internal or external sightings after the workflow execution has completed.
 
-    View the information in the [Sightings](sightings-searches-in-misp.md#table_pxj_2dl_kqb), [Sightings Search Results](../../security-operations-common/task/view-sightings-search-results.md) and [Sightings Search Details](../../security-operations-common/task/view-sightings-search-details.md) related lists.The following example shows the sightings search record that was created in the Sightings related list.
+    View the information in the [Sightings](sightings-searches-in-misp.md#table_pxj_2dl_kqb), [Sightings Search Results](view-sightings-search-results.md) and [Sightings Search Details](view-sightings-search-details.md) related lists.The following example shows the sightings search record that was created in the Sightings related list.
 
     ![View the Sightings Search record that was created in the Sightings tab.](../image/misp-sightings-tab.png)
 
@@ -139,7 +139,7 @@ Select individual or multiple observables and perform a manual sighting search i
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### Procedure
@@ -194,7 +194,7 @@ Range of dates to search. Default dates are as follows:-   The date and time tha
 
 ### Result
 
-A Sightings Search record is created. After the workflow execution has completed, you can view the aggregated information of observables that are seen across all the events \(global\) and categorized by their internal or external sightings. Aggregate and associated sightings data are displayed in the security incident under the [Sightings](sightings-searches-in-misp.md#fig_m3s_lgk_kqb), [Sightings Search Results](../../security-operations-common/task/view-sightings-search-results.md), and [Sightings Search Details](../../security-operations-common/task/view-sightings-search-details.md) related lists.
+A Sightings Search record is created. After the workflow execution has completed, you can view the aggregated information of observables that are seen across all the events \(global\) and categorized by their internal or external sightings. Aggregate and associated sightings data are displayed in the security incident under the [Sightings](sightings-searches-in-misp.md#fig_m3s_lgk_kqb), [Sightings Search Results](view-sightings-search-results.md), and [Sightings Search Details](view-sightings-search-details.md) related lists.
 
 ## Report sightings to MISP
 
@@ -202,7 +202,7 @@ Report threat data sightings so that you can react to false positives in your da
 
 ### Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_si.analyst
 
 ### About this task

@@ -27,7 +27,7 @@ The ServiceNow® GRC: Metrics application enables organizations to track their g
 
 </td></tr><tr><td>
 
-[Reference ![](../../../common/image/icon-reference.png) Get details about components like fields, tables, roles, and properties installed with GRC: Metrics.](../../esg-management-reporting/concept/reference-data-esg.md)
+[Reference ![](../../../common/image/icon-reference.png) Get details about components like fields, tables, roles, and properties installed with GRC: Metrics.](reference-data-esg.md)
 
 </td><td>
 

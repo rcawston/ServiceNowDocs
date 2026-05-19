@@ -33,11 +33,11 @@ Find the **My Stacks view** tab at the end of the My Stacks ribbon to access one
 -   Stacks owned by groups I am part of: Stacks that are created by you and by all the groups you’re associated with.
 -   Stacks owned by anyone: All the stacks in the instance.
 
--   **[Manage My Stacks](../task/my-stacks.md)**  
+-   **[Manage My Stacks](my-stacks.md)**  
 Use the **My Stacks** tab to access all the stack properties such as the creation, update, and deletion details.
--   **[Work with stacks](../task/manage-my-stacks.md)**  
+-   **[Work with stacks](manage-my-stacks.md)**  
 Start your Day 2 operations by starting, stopping, deprovisioning, or modifying your stacks.
--   **[View stack dependency](../task/viewing-stack-dependency.md)**  
+-   **[View stack dependency](viewing-stack-dependency.md)**  
 Explore the details of the configuration items, services, and other tasks that are associated with the stacks and resources by using View Dependency.
 -   **[Stack activities view](using-stack-activities.md)**  
 Display the cloud actions on your stacks and resources by using the **View Activities** tab.

@@ -76,5 +76,5 @@ Train your model to save your updates. For issues with intents, see [Resolve int
 
 If there are any secondary language models associated to your target model, consider importing and translating the new content. See [Import primary model content to a secondary model](import-primary-model-content-to-secondary-model.md).
 
-For information about prebuilt Virtual Agent models that you can import from, see [Reusing intents from prebuilt NLU models](../concept/reusing-predefined-nlu-intents.md).
+For information about prebuilt Virtual Agent models that you can import from, see [Reusing intents from prebuilt NLU models](reusing-predefined-nlu-intents.md).
 

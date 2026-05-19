@@ -113,7 +113,7 @@ CSAT
 
 </td><td>
 
-Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](c_CustomerServiceSatisfactionSurvey.md).
+Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](../c_CustomerServiceSatisfactionSurvey.md).
 
 </td></tr><tr><td>
 

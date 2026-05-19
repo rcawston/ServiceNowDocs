@@ -34,7 +34,7 @@ The Obligation Management workflow starts after the signed contract is added to 
 1.  A contract manager reviews the contract in the contract repository and creates obligation records for key obligations.
 2.  The contract manager provides the obligation details, including an obligation task schedule, in the obligation record.
 
-    For more information, see [Create obligation records](../task/cncore-create-obligations.md).
+    For more information, see [Create obligation records](cncore-create-obligations.md).
 
 3.  Obligation tasks are created.
     -   For an ad hoc schedule, the contract manager creates an obligation task from the **Obligation tasks** tab.
@@ -48,13 +48,13 @@ The Obligation Management workflow starts after the signed contract is added to 
     -   If the obligation task is rejected, the state of the task changes to Open, and the assigned user continues to work on it.
     -   If the obligation task is approved, the state of the task changes to Completed.
 
--   **[Create obligation records](../task/cncore-create-obligations.md)**  
+-   **[Create obligation records](cncore-create-obligations.md)**  
 Create obligation records for signed contracts in Obligation Management to fulfill the responsibilities specified in the contract through obligation tasks. Recurring obligation tasks are automatically created from the record. You can also add ad hoc obligation tasks that are performed only once or at irregular intervals.
--   **[Submit obligation tasks](../task/cncore-work-on-ob-tasks.md)**  
+-   **[Submit obligation tasks](cncore-work-on-ob-tasks.md)**  
 As an obligation user, work on obligation tasks to fulfill the obligation specified in the contract, and submit them for review.
--   **[Cancel an obligation task](../task/cncore-cancel-ob-task.md)**  
+-   **[Cancel an obligation task](cncore-cancel-ob-task.md)**  
 Cancel an open obligation task in Obligation Management that is no longer required.
--   **[Approve or reject obligation tasks](../task/cncore-manage-ob-tasks.md)**  
+-   **[Approve or reject obligation tasks](cncore-manage-ob-tasks.md)**  
 As an obligation fulfiller, review obligation tasks in Obligation Management that have been submitted for approval, and take the appropriate action.
 
 **Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)

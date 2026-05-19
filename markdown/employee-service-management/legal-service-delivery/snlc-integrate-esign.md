@@ -146,5 +146,5 @@ Additional configuration items based on your electronic signature provider. Prov
 
 The configuration of the e-signature app is published and is ready to be used for the electronic signing of contract documents.
 
-**Parent Topic:**[Configuring external applications for legal contracts](../concept/snlc-set-legal-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for legal contracts](snlc-set-legal-ext-app-config.md)
 

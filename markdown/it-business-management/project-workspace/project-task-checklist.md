@@ -26,5 +26,5 @@ Checklists, as well as tasks, are copied into a project template. You also have 
 **Related topics**  
 
 
-[Create checklist items for a project task](../task/create-project-task-checklist.md)
+[Create checklist items for a project task](create-project-task-checklist.md)
 

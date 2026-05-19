@@ -64,5 +64,5 @@ For more information on viewing components that are installed with an applicatio
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](../concept/configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)
 

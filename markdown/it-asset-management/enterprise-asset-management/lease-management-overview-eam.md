@@ -34,5 +34,5 @@ Use the following tabs to view and manage your enterprise asset contracts:
 -   **My contract approvals**: View all enterprise asset contract and contract renewal requests that are waiting for your approval.
 -   **Terms and conditions**: Create and view terms and conditions for your enterprise asset contracts.
 
-For more information on contracts, see [Contract Management](../../contract-management/concept/c_ContractManagement.md).
+For more information on contracts, see [Contract Management](../contract-management/c_ContractManagement.md).
 

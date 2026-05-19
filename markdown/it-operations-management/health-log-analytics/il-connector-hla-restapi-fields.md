@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the REST API integration configuration forms for Health Log Analytics.
 
-For the REST API integration setup procedure, see [Set up a REST API integration for Health Log Analytics](../task/il-connector-hla-rest-api.md).
+For the REST API integration setup procedure, see [Set up a REST API integration for Health Log Analytics](il-connector-hla-rest-api.md).
 
 **Note:** REST API integrations support only UTF-8 encoding for incoming data.
 

@@ -33,7 +33,7 @@ Each suite contains multiple child suites and each child suite contains multiple
 
 You can also customize when scheduled suites run or assign a scheduled execution time to on-demand suites.
 
-To view the list of Service Exchange supported scan checks, see [List of scan checks](../reference/service-bridge-v2-list-of-scan-checks-in-sb.md).
+To view the list of Service Exchange supported scan checks, see [List of scan checks](service-bridge-v2-list-of-scan-checks-in-sb.md).
 
 These Service Exchange scan checks are available through the Service Exchange Health plugin. This plugin is activated when you install or upgrade Service Exchange. You can also activate this plugin manually. For activation instruction, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -50,5 +50,5 @@ You can access the Health Dashboard from the Service Exchange **Administration**
 **Related topics**  
 
 
-[List of scan checks](../reference/service-bridge-v2-list-of-scan-checks-in-sb.md)
+[List of scan checks](service-bridge-v2-list-of-scan-checks-in-sb.md)
 

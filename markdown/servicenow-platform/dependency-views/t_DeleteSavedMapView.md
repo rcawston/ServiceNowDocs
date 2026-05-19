@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_admin or admin
 3.  Select **Delete** from the **Actions on selected rows** drop-down menu.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

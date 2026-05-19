@@ -34,5 +34,5 @@ By default, the Lead-to-Cash Process Management hierarchical node map shows thre
 5.  Select **Update**.
 
 
-**Parent Topic:**[Customizing the sales process dashboard](../concept/customizing-sales-process-dashboard.md)
+**Parent Topic:**[Customizing the sales process dashboard](customizing-sales-process-dashboard.md)
 

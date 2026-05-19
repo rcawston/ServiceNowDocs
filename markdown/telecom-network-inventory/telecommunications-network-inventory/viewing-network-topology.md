@@ -38,5 +38,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 6.  In the details pane, select **View Details** to redirect to the CI record \(optional\).
 
 
-**Parent Topic:**[Network topology](../concept/using-network-topology.md)
+**Parent Topic:**[Network topology](using-network-topology.md)
 

@@ -44,5 +44,5 @@ To update the alert list manually, you can switch the live updates toggle to off
     -   When live updates are turned on, the setting is saved for future logins by the same user.
     -   When live updates are off, the refresh button displays a counter to show the number of changes since the last refresh. You can select the refresh button anytime to update the list manually.
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

@@ -29,7 +29,7 @@ Administrators can configure several settings that control form functionality.
 
     Control several aspects of form attachments, such as attachment size, allowed file extensions, and the roles that are allowed to attach files.
 
-    See [Administering attachments](../reference/r_AdministeringAttachments.md) for instructions.
+    See [Administering attachments](r_AdministeringAttachments.md) for instructions.
 
 -   **Formatters**
 
@@ -47,13 +47,13 @@ Administrators can configure several settings that control form functionality.
 
     Add buttons, links, and context menu items on forms to the UI more interactive, customizable, and specific to user activities.
 
-    See [Defining UI actions](../../list-administration/concept/c_UIActions.md) for more information.
+    See [Defining UI actions](c_UIActions.md) for more information.
 
 -   **UI policies**
 
     Configure the policies that dynamically change information on a form.
 
-    See [Create a UI policy](../task/t_CreateAUIPolicy.md#) for more information.
+    See [Create a UI policy](t_CreateAUIPolicy.md#) for more information.
 
 -   **Other advanced options**
 

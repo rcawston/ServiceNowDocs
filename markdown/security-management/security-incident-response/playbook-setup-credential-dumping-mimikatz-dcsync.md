@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for T1003 - Credential Dumping - Mimikatz DCSync playbook.](../image/playbook-mimikatz-dcsync-trigger.png "T1003 - Credential Dumping - Mimikatz DCSync playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for T1003 - Credential Dumping - Mimikatz DCSync](../concept/playbook-credential-dumping-mimikatz-dcsync.md)
+**Parent Topic:**[Playbook for T1003 - Credential Dumping - Mimikatz DCSync](playbook-credential-dumping-mimikatz-dcsync.md)
 

@@ -39,5 +39,5 @@ The Zero Copy Connector for ERP \(Enterprise Resource Planning\) SAP Foundation 
 |Storage Location|Retrieve a list of storage locations.|ERP|RFC/BAPI|
 |Valuation Area|Retrieve a list of valuation areas.|ERP|RFC/BAPI|
 
-**Parent Topic:**[Zero Copy Connector for ERP Enterprise Data Foundation content pack](../concept/erp-canvas-enterprise-data-foundation-content-pack.md)
+**Parent Topic:**[Zero Copy Connector for ERP Enterprise Data Foundation content pack](erp-canvas-enterprise-data-foundation-content-pack.md)
 

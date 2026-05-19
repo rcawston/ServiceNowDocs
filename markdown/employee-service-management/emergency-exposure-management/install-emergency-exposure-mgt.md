@@ -97,8 +97,8 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
     For more information, see [Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
 
 
--   **[Components installed with Emergency Exposure Management](../reference/emergency-exposure-installed-with.md)**  
+-   **[Components installed with Emergency Exposure Management](emergency-exposure-installed-with.md)**  
 Several types of components are installed with Emergency Exposure Management, including tables and user roles.
 
-**Parent Topic:**[Emergency Exposure Management](../concept/emergency-exposure-management.md)
+**Parent Topic:**[Emergency Exposure Management](emergency-exposure-management.md)
 

@@ -48,7 +48,7 @@ Open a category, and locate the **Assessment Metrics** related list.
 
 3.  On the Assessment Metric form, fill in the fields.
 
-    For a description of the field values, see [Assessment Metric form for a category](../reference/assessment-metric-category-form.md).
+    For a description of the field values, see [Assessment Metric form for a category](assessment-metric-category-form.md).
 
 4.  Save the record.
 
@@ -59,15 +59,15 @@ Open a category, and locate the **Assessment Metrics** related list.
 Metrics with Choice or Likert Scale data types must have metric definitions defined to represent answer options on questionnaires.
 -   **[Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)**  
 By default, the order of answer options is established when a question is created with a data type of **Choice** or **Likert Scale**.
--   **[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)**  
+-   **[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)**  
 In the Assessments application, assessment administrators create and administer metric types and assessable records.
 
-**Parent Topic:**[Assessment metrics](../concept/c_AssessmentMetrics.md)
+**Parent Topic:**[Assessment metrics](c_AssessmentMetrics.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
 [Create an assessment metric definition](t_CreateAMetricDefinition.md)
 

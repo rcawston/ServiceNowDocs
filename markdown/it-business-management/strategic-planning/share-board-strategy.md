@@ -52,7 +52,7 @@ Users or groups that you want to share the board with must have the sn\_apw\_adv
 
 The selected individual and group users are notified of the board sharing through an email.
 
-**Parent Topic:**[Managing boards in Strategic Planning Workspace](../concept/managing-boards-strategy.md)
+**Parent Topic:**[Managing boards in Strategic Planning Workspace](managing-boards-strategy.md)
 
 **Related topics**  
 

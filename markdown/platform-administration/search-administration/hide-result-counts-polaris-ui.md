@@ -54,20 +54,20 @@ By default, the search results page displays the total number of search results 
 
 Per-table search result counts no longer display on the search results page.
 
-**Parent Topic:**[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+**Parent Topic:**[Global search finds records from multiple tables](c_GlobalTextSearch.md)
 
 **Related topics**  
 
 
-[Global search displays a page of matching results](../concept/global-search-polaris-ui.md#)
+[Global search displays a page of matching results](global-search-polaris-ui.md#)
 
-[Text search views control format of global search results for tables](../concept/text-search-view-formats-results.md)
+[Text search views control format of global search results for tables](text-search-view-formats-results.md)
 
-[Search settings filter and group global search results by table](../concept/search-settings-filter-group-table.md#)
+[Search settings filter and group global search results by table](search-settings-filter-group-table.md#)
 
-[Global search displays exact matching records](../concept/exact-matches-global-search.md#)
+[Global search displays exact matching records](exact-matches-global-search.md#)
 
-[Global search displays your most recent search queries and results in Next Experience UI](../concept/global-search-recent-queries-results.md)
+[Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
 [Set global text search properties](set-global-text-search-properties.md)
 
@@ -75,5 +75,5 @@ Per-table search result counts no longer display on the search results page.
 
 [Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 

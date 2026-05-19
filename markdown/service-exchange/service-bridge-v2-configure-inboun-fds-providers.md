@@ -35,7 +35,7 @@ Description
 
 </td><td>
 
-[Request a foundation data offering from your consumer.](../task/service-bridge-v2-request-fds-offering-consumers.md)
+[Request a foundation data offering from your consumer.](service-bridge-v2-request-fds-offering-consumers.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Requests FDS offerings from your consumer based on the published offerings.After
 
 </td><td>
 
-[Configure the sample data and validate subscription items.](../task/service-bridge-v2-fds-validate-subs-items-provider.md)
+[Configure the sample data and validate subscription items.](service-bridge-v2-fds-validate-subs-items-provider.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Configure the incoming data based on the CMDB or non-CMDB table to validate subs
 
 </td><td>
 
-[Accept the subscription.](../task/service-bridge-v2-fds-accept-sups-provider.md)
+[Accept the subscription.](service-bridge-v2-fds-accept-sups-provider.md)
 
 </td><td>
 

@@ -23,15 +23,15 @@ Although no mandatory configuration is required, you can perform the following a
 
 -   **Migrate legacy goals data**
 
-    If your organization uses the legacy goal and strategy tables \(Goal, Enterprise Strategy, Business Unit Strategy, and Strategic Objective\), you can migrate the existing data to the new tables by running a scheduled job. After migration, you can create boards and manage your existing goals and strategic priories. For details, see [Migrate existing goals data to Goal Framework tables](../../spw-goals/task/migrate-existing-goals-data-apw.md).
+    If your organization uses the legacy goal and strategy tables \(Goal, Enterprise Strategy, Business Unit Strategy, and Strategic Objective\), you can migrate the existing data to the new tables by running a scheduled job. After migration, you can create boards and manage your existing goals and strategic priories. For details, see [Migrate existing goals data to Goal Framework tables](../scenario-planning-in-spw/migrate-existing-goals-data-apw.md).
 
 -   **Set display limit for goals**
 
-    By default, 250 goals are displayed in the Goals page. To modify this limit, configure the value in the **sn\_align\_ws.goal\_hierarchy.max\_records** system property. For details, see [Set display limit for goals and targets in Strategic Planning](../../spw-goals/task/set-display-limits-for-goals-and-targets-spw.md).
+    By default, 250 goals are displayed in the Goals page. To modify this limit, configure the value in the **sn\_align\_ws.goal\_hierarchy.max\_records** system property. For details, see [Set display limit for goals and targets in Strategic Planning](../scenario-planning-in-spw/set-display-limits-for-goals-and-targets-spw.md).
 
 -   **Customize goal and target labels**
 
-    You can customize the labels for the Goal \[sn\_gf\_goal\] and Target \[sn\_gf\_goal\_target\] tables to match your organization's terminology. For example, you can rename Goal to Objective and Target to Key Result. For details, see [Customize label for Goal and Target tables](../../spw-goals/task/customize-labels-for-goal-and-target-tables.md).
+    You can customize the labels for the Goal \[sn\_gf\_goal\] and Target \[sn\_gf\_goal\_target\] tables to match your organization's terminology. For example, you can rename Goal to Objective and Target to Key Result. For details, see [Customize label for Goal and Target tables](../scenario-planning-in-spw/customize-labels-for-goal-and-target-tables.md).
 
 -   **Configure assigned entities**
 
@@ -41,15 +41,15 @@ Although no mandatory configuration is required, you can perform the following a
 
     You can also create boards for your goals based on assigned entities. The default assigned entities are Business Unit \[business\_unit\], Department \[cmn\_department\], Company \[core\_company\], Product Model \[cmdb\_model\], Value Stream \[cmn\_value\_stream\], Initiative \[sn\_align\_core\_initiative\], and Strategic Program \[sn\_align\_core\_program\].
 
-    To create boards based on assigned entities other than the defaults, create an entry in the assigned entity configuration. For details, see [Configure a table for an assigned entity](../../spw-goals/task/configure-assigned-entity-egm.md).
+    To create boards based on assigned entities other than the defaults, create an entry in the assigned entity configuration. For details, see [Configure a table for an assigned entity](../scenario-planning-in-spw/configure-assigned-entity-egm.md).
 
 -   **Configure goal preferences**
 
-    Configure goal preferences including the calendar type for goal setting, weighted average calculation for goal progress, and deletion settings for goals and targets. For details, see [Configure goal preferences](../../spw-goals/task/configure-goal-preferences-apw.md).
+    Configure goal preferences including the calendar type for goal setting, weighted average calculation for goal progress, and deletion settings for goals and targets. For details, see [Configure goal preferences](../scenario-planning-in-spw/configure-goal-preferences-apw.md).
 
 -   **Configure reminders for target actuals**
 
-    Configure reminders to automatically notify target owners and contributors to update actuals for their targets before the due date, based on the check-in frequency defined for each target. For details, see [Configure reminders for target actuals](../task/configure-reminders-for-target-actuals-strategy.md).
+    Configure reminders to automatically notify target owners and contributors to update actuals for their targets before the due date, based on the check-in frequency defined for each target. For details, see [Configure reminders for target actuals](configure-reminders-for-target-actuals-strategy.md).
 
 -   **Configure Goal insights generation**
 

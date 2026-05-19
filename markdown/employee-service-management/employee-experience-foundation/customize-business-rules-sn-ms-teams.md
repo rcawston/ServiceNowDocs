@@ -97,5 +97,5 @@ Advanced
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Customize IT Service Management integration with ServiceNow](../concept/customize-sn-ms-teams.md)
+**Parent Topic:**[Customize IT Service Management integration with ServiceNow](customize-sn-ms-teams.md)
 

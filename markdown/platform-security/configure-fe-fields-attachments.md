@@ -114,5 +114,5 @@ Displays whether **Equality Preserving** is enabled in the field encryption modu
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

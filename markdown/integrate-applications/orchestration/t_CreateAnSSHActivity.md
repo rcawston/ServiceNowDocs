@@ -29,7 +29,7 @@ For instructions on using the activity template process flow, see [create custom
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SSH Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SSH Execution Command.
 
 <table id="choicetable_j2l_k2s_d1b"><tbody><tr><td id="d384812e120">
 
@@ -137,7 +137,7 @@ rm ~/specialFunctions.py
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## SSH template execution parameters
 

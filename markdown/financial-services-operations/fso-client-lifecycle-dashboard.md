@@ -116,5 +116,5 @@ The following table shows the available filters in the Client Lifecycle dashboar
 |----|----|-----------|
 |Age|Bucket|Shows the age ranges in days for the Client Lifecycle cases.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

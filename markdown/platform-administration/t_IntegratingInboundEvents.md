@@ -64,5 +64,5 @@ The following example steps assume you have your own demonstration instance.
     ![REST import set table](../image/RESTImportSetTable.png)
 
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 

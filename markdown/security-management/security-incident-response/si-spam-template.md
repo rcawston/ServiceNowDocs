@@ -27,7 +27,7 @@ The workflow is triggered when the **Category** in a security incident is set or
 
 ## Procedure
 
-1.  Open the security incident for which you want to handle email spam, or [create a new security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+1.  Open the security incident for which you want to handle email spam, or [create a new security incident](t_ManuallyCreateSecurityIncident.md).
 
 2.  In **Category**, select **Spam source**.
 
@@ -125,7 +125,7 @@ The **State** of the security incident is automatically changed to **Review**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Incident Response workflow templates](../concept/sir-orch-workflow-templates.md)
+**Parent Topic:**[Security Incident Response workflow templates](sir-orch-workflow-templates.md)
 
 **Related topics**  
 

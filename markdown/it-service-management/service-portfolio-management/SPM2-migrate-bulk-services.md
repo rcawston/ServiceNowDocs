@@ -51,5 +51,5 @@ When you convert a service, the record and all its relationships remain intact.
     To convert a service wile in the service record, find the convert options under **Related Links**. If you don't see the convert options, then you might be in a record that isn't in the CMDB service table \[cmdb\_ci\_service\].
 
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
 

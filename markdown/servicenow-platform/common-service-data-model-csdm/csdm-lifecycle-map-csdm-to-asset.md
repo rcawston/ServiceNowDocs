@@ -24,5 +24,5 @@ Legacy status values for Asset and Hardware Asset CIs are aligned with CSDM life
 |In Use / In Maintenance|Consume / Operate|The asset is actively supporting services or under maintenance.|
 |Pending Disposal / Disposed|Retire|Asset life cycle ends. CSDM also transitions to retirement.|
 
-**Parent Topic:**[CSDM reference](../../csdm-implementation/concept/csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
 

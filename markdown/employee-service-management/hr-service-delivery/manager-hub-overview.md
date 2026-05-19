@@ -49,7 +49,7 @@ Use resources on career development, leader enablement, hiring and transitions, 
 
 ## Customize your user experience
 
-A Manager Hub administrator can configure fields, customize display text and icons suiting the requirements of managers of your organization. For more information, see [Configure Manager Hub](../task/set-up-managerhub.md).
+A Manager Hub administrator can configure fields, customize display text and icons suiting the requirements of managers of your organization. For more information, see [Configure Manager Hub](set-up-managerhub.md).
 
 A predefined set of configurations are also available to use after you have activated Manager Hub from ServiceNow Store.
 
@@ -61,19 +61,19 @@ A predefined set of configurations are also available to use after you have acti
 
 </td><td>
 
-[Configure](../task/set-up-managerhub.md) ![Configure the application to get started](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started
+[Configure](set-up-managerhub.md) ![Configure the application to get started](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started
 
 </td><td>
 
-[Use](../task/use-manager-hub.md) ![Support your team and find resources to grow as leaders](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Support your team and find resources to grow as leaders
+[Use](use-manager-hub.md) ![Support your team and find resources to grow as leaders](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Support your team and find resources to grow as leaders
 
 </td></tr><tr><td>
 
-[Integrate](../reference/integrate-mh-jc.md) ![Extend Manager Hub capabilities by integrating with other applications](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Manager Hub capabilities by integrating with other applications
+[Integrate](integrate-mh-jc.md) ![Extend Manager Hub capabilities by integrating with other applications](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Manager Hub capabilities by integrating with other applications
 
 </td><td>
 
-[Reference](../reference/reference-manager-hub.md) ![Get details about user roles, tables, default configurations in Manager Hub](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about user roles, tables, default configurations in Manager Hub
+[Reference](reference-manager-hub.md) ![Get details about user roles, tables, default configurations in Manager Hub](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about user roles, tables, default configurations in Manager Hub
 
 </td><td>
 
@@ -82,7 +82,7 @@ A predefined set of configurations are also available to use after you have acti
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

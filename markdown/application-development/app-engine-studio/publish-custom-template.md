@@ -17,7 +17,7 @@ You can publish a custom template that is built from scratch or from an existing
 
 ## Before you begin
 
-You must have permissions to publish a custom template. For details, see [Assign permissions to publish custom templates](../concept/assign-permissions-publish-custom-templates.md#).
+You must have permissions to publish a custom template. For details, see [Assign permissions to publish custom templates](assign-permissions-publish-custom-templates.md#).
 
 Role required: admin, app\_template\_author
 
@@ -81,5 +81,5 @@ Select where you want the custom template published.-   To publish the template 
 
 The custom template is published and available to users the app template admin shares it with.
 
-**Parent Topic:**[Build a custom template](../concept/build-custom-template.md)
+**Parent Topic:**[Build a custom template](build-custom-template.md)
 

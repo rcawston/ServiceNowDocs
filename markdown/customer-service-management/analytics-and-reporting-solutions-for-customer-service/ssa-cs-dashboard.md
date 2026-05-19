@@ -29,7 +29,7 @@ You can access this dashboard by navigating to **All** &gt; **Platform analytics
 
 **Note:**
 
--   On the Knowledge tab, you can report knowledge gaps for unsuccessful searches. For more information, see [Report knowledge gaps based on unsuccessful searches](../../performance-analytics/task/report-knowledge-gap-unsucc-search.md).
+-   On the Knowledge tab, you can report knowledge gaps for unsuccessful searches. For more information, see [Report knowledge gaps based on unsuccessful searches](report-knowledge-gap-unsucc-search.md).
 -   The Communities tab is available when the Communities plugin \(com.sn\_communities\) is activated.
 -   The Virtual Agent tab is available when the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) is activated.
 

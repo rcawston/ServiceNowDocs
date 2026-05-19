@@ -86,5 +86,5 @@ You can also upgrade Kubernetes Visibility Agent Informer pods in Kubernetes clu
 
 For information about Kubernetes Visibility Agent administration and troubleshooting, see the [Administrating and Troubleshooting Kubernetes Visibility Agent \(formerly CNO for Visibility\) \[KB1532614\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1532614) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Configuring Kubernetes Visibility Agent](../concept/cnov-configuring.md)
+**Parent Topic:**[Configuring Kubernetes Visibility Agent](cnov-configuring.md)
 

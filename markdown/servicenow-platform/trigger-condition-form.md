@@ -128,5 +128,5 @@ Condition builder that defines the criteria that must be true to send the survey
 **Related topics**  
 
 
-[Configure a trigger condition for a survey](../task/t_CreateATriggerCondition.md)
+[Configure a trigger condition for a survey](t_CreateATriggerCondition.md)
 

@@ -32,5 +32,5 @@ Role required: cloud\_designer
     -   The field defined for the **region** variable does not appear on the Provision section of the request form for the catalog item \(the Location field serves that purpose\).
     -   The value that the user specifies for the Location field on the request form configures the datacenter or region for the resource.
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](using-ccg-terraform-connector.md)
 

@@ -17,8 +17,8 @@ Adhere to the following scoped application requirements to implement secure \(pa
 
 You can add secure inputs to Virtual Agent topics in two ways:
 
--   [Create a secure custom input control](../task/create-custom-control.md) that uses a Workflow Studio action or subflow with secure \(password2 type\) inputs.
--   Add an [Action utility node](../reference/va-action.md) to a topic that refers to a Workflow Studio action or subflow that has a single password2 field as an input.
+-   [Create a secure custom input control](create-custom-control.md) that uses a Workflow Studio action or subflow with secure \(password2 type\) inputs.
+-   Add an [Action utility node](va-action.md) to a topic that refers to a Workflow Studio action or subflow that has a single password2 field as an input.
 
 The [Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/understanding-kmf.md) \(KMF\) must be installed and configured for your instance. The scoped application that uses the secure fields must also have the following:
 

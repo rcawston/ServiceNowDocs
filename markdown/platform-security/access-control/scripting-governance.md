@@ -22,7 +22,7 @@ Use the Scripting Governance Tool \(SGT\) to provide a single, centralised contr
 
 </td><td>
 
-[Use![Configure Authentication factors](../../../reuse/icons/brand-icons/bus-sdlc.svg)Understand how to use the Scripting Governance Tool.](../task/use-sgt.md)
+[Use![Configure Authentication factors](../../../reuse/icons/brand-icons/bus-sdlc.svg)Understand how to use the Scripting Governance Tool.](use-sgt.md)
 
 </td></tr></tbody>
 </table>

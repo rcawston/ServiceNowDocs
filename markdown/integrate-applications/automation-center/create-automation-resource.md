@@ -47,7 +47,7 @@ Automation resource types:
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation resource form](../reference/automation-resource-form.md).
+    For a description of the field values, see [Automation resource form](automation-resource-form.md).
 
 7.  Select **Save**.
 
@@ -56,10 +56,10 @@ Automation resource types:
 
 \(Optional\) Create an automation goal. For more information, see [Create an automation goal](create-automation-goal.md).
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 
 
-[Automation resource form](../reference/automation-resource-form.md)
+[Automation resource form](automation-resource-form.md)
 

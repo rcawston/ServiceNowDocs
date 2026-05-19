@@ -25,16 +25,16 @@ As an Asset manager or an Inventory administrator, you can create a one-time ass
 
     **Important:** Starting with Hardware Asset Management version 13.0.0, the playbook is the default option for the creation of asset attestations and schedules. However, if you set the value of the **sn\_itam\_common.enable\_asset\_attestation\_playbook** system property to **false** with the asset or inventory\_admin role, you will be shown forms to complete the attestation process instead of the playbook.
 
--   Ability to perform remote asset audits for the required hardware assets irrespective of their locations. For more details, see [Create an asset attestation in the Inventory view](../task/create-attestation-req-ham.md).
--   Option to set a schedule for creating recurring asset attestations. For more details, see [Create an asset attestation schedule](../task/create-attest-schedule-ham.md).
+-   Ability to perform remote asset audits for the required hardware assets irrespective of their locations. For more details, see [Create an asset attestation in the Inventory view](create-attestation-req-ham.md).
+-   Option to set a schedule for creating recurring asset attestations. For more details, see [Create an asset attestation schedule](create-attest-schedule-ham.md).
 -   Intuitive and user-friendly Now Mobile app and Employee Center portal that enable the employees to confirm the ownership of the assigned hardware assets and also raise issues related to their hardware and consumable assets. For more details, see the following:
-    -   [Confirm the assigned assets using the Now Mobile app](../task/confirm-ham-assets-now-mobile.md)
-    -   [Confirm the assigned assets on the Employee Center portal](../task/confirm-assets-on-emp-center.md)
-    -   [Raise issue related to your asset on the Employee Center portal](../task/report-asset-issue-attestation.md)
+    -   [Confirm the assigned assets using the Now Mobile app](confirm-ham-assets-now-mobile.md)
+    -   [Confirm the assigned assets on the Employee Center portal](confirm-assets-on-emp-center.md)
+    -   [Raise issue related to your asset on the Employee Center portal](report-asset-issue-attestation.md)
 -   Comprehensive reports that enable Asset managers and Inventory administrators to monitor the status of asset attestations and remediation tasks, and take necessary actions. For more details, see the following:
-    -   [View open asset attestations in the Hardware Asset Workspace](../task/view-open-asset-attest-ham.md)
-    -   [View open remediation tasks for asset attestations in the Hardware Asset Workspace](../task/view-open-remediations-ham.md)
-    -   [View attestations for a serialized hardware asset](../task/view-attestations-for-asset-ham.md)
+    -   [View open asset attestations in the Hardware Asset Workspace](view-open-asset-attest-ham.md)
+    -   [View open remediation tasks for asset attestations in the Hardware Asset Workspace](view-open-remediations-ham.md)
+    -   [View attestations for a serialized hardware asset](view-attestations-for-asset-ham.md)
 
 ## Requirements and limitations
 

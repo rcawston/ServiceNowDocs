@@ -151,5 +151,5 @@ A conditional script that determines if a scheduled job should run. The last exp
 11. Select **Save** to save the schedule.
 
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

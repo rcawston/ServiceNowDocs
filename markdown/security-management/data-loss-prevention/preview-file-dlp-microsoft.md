@@ -18,7 +18,7 @@ Preview Data Loss Prevention Incident Response evidence files in the DLP IR Anal
 
 ## Before you begin
 
-**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](../../data-loss-prevention/task/configure-advanced-settings-dlp.md).
+**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md).
 
 Role required: sn\_dlir.analyst
 
@@ -91,5 +91,5 @@ PDF files
     Binary files won’t be rendered and have to be downloaded to preview their content. The preview evidence file feature also works for archived incidents.
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

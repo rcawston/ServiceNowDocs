@@ -18,7 +18,7 @@ The ServiceNow® Benchmarks application gives you instant visibility into your k
 -   User Roles: You can assign different roles based on specific access requirements.
 -   Opt in to Benchmarks: You can opt in to Benchmarks by accepting the opt-in agreement. Once you opt in, you have visibility into your service management key performance indicators and trends. It also provides a comparative insight relative to the industry averages of your peers.
 
-For more information, see [Getting started with the ITSM Success Dashboard admin console](../../benchmarks/concept/c_gettingstartedadminconsole.md).
+For more information, see [Getting started with the ITSM Success Dashboard admin console](../benchmarks/c_gettingstartedadminconsole.md).
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](configure-success-dashboards.md)
 

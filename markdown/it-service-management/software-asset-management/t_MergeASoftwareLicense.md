@@ -66,10 +66,10 @@ To merge a license:
     -   The cost of each individual license is summed up into the new license using the system base currency.
     -   A history of the consolidated licenses and where they went is maintained.
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
 **Related topics**  
 
 
-[License management with the legacy Software Asset Management plugin](../concept/c_ManageSoftwareLicenses.md)
+[License management with the legacy Software Asset Management plugin](c_ManageSoftwareLicenses.md)
 

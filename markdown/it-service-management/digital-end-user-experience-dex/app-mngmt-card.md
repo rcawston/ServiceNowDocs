@@ -72,7 +72,7 @@ Windows/macOS process
 Operating system associated with the application.
 
 </td></tr></tbody>
-</table>To learn more about adding an application, see [Add an application for monitoring](../task/add-new-application.md).
+</table>To learn more about adding an application, see [Add an application for monitoring](add-new-application.md).
 
 **Parent Topic:**[Administration cards](administration-cards.md)
 

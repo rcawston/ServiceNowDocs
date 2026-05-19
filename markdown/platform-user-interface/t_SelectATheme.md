@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Themes are user-specific. Each user can select a different theme and the selection is stored as a [user preference](../concept/c_UserPreferences.md).
+Themes are user-specific. Each user can select a different theme and the selection is stored as a [user preference](c_UserPreferences.md).
 
 This topic applies only when the Next Experience is not enabled. For information about selecting a theme with Next Experience, see [Select a theme in Next Experience](select-a-theme-in-next-experience.md).
 
@@ -30,5 +30,5 @@ This topic applies only when the Next Experience is not enabled. For information
 2.  Select the **Theme** tab, and then select the theme.
 
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](customizing-instance-appearance.md)
 

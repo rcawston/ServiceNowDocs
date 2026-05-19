@@ -36,5 +36,5 @@ Only active rules are evaluated during scheduled runs; inactive rules are skippe
 
 For information on managed and unmanaged assets, see [Assets list managed and unmanaged assets](assets-list-managing-and-unmanaging-assets.md)
 
-For information on creating rules, see [Create an Automation rule](../task/create-automation-rules.md)
+For information on creating rules, see [Create an Automation rule](create-automation-rules.md)
 

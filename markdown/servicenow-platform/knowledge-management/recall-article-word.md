@@ -25,7 +25,7 @@ Recall a knowledge article that is being reviewed and created using Microsoft Wo
 Ensure that the system administrator verifies the following settings:
 
 -   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
--   The article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 -   The Knowledge Management - Add-in for Microsoft Word is enabled. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](configure-km-add-in-word.md).\)
 
 ## About this task

@@ -22,7 +22,7 @@ Role required: sn\_csm\_ec.ec\_admin
 Perform the following tasks:
 
 -   [Configure Engagement Messenger](create-engagement-messenger-module.md).
--   [Create an identity provider \(IdP\) for Engagement Messenger](../concept/create-identity-providers-for-engagement-messenger.md).
+-   [Create an identity provider \(IdP\) for Engagement Messenger](create-identity-providers-for-engagement-messenger.md).
 -   [Configure a CORS rule for Engagement Messenger](create-cors-for-rest-api-ec.md).
 -   [Create HTTP response headers for Engagement Messenger](create-http-response-headers-for-ec.md).
 

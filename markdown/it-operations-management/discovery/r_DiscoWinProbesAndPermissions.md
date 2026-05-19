@@ -448,5 +448,5 @@ Several Windows Registry entries are available for Discovery Windows probes.
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 

@@ -84,20 +84,20 @@ Scheduled Script Execution and Scheduled Jobs are categorized as data records in
 
 You can optionally export and import data records via XML. However, to prevent unexpected data changes, Schedule Item \[sys\_trigger\] records are not created for data records imported from an XML file such as an update set. To run scheduled jobs or scripts imported from another instance, update the corresponding job or script record in the target instance.
 
-**Parent Topic:**[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+**Parent Topic:**[Scheduled jobs](c_ScheduledJobs.md)
 
 **Related topics**  
 
 
-[Advanced options for scheduled jobs](../task/advanced-options-for-scheduled-jobs.md)
+[Advanced options for scheduled jobs](advanced-options-for-scheduled-jobs.md)
 
-[Create a scheduled job](../task/t_CreateAScheduledJob.md)
+[Create a scheduled job](t_CreateAScheduledJob.md)
 
-[Enable run types for scheduled job child tables](../task/customize-run-times-for-scheduled-jobs.md#)
+[Enable run types for scheduled job child tables](customize-run-times-for-scheduled-jobs.md#)
 
-[Personalize the system date format](../task/t_PersonalizeTheSystemDateFormat.md)
+[Personalize the system date format](t_PersonalizeTheSystemDateFormat.md)
 
-[Set a system time zone](../task/t_SetASystemTimeZone.md)
+[Set a system time zone](t_SetASystemTimeZone.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

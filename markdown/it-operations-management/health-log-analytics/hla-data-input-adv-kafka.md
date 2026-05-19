@@ -35,7 +35,7 @@ You can set system parameters for reading log data that determine the actions th
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Apache Kafka data input configuration fields](../reference/hla-data-input-kafka-ref.md).
+    For a description of the fields, see [Apache Kafka data input configuration fields](hla-data-input-kafka-ref.md).
 
 5.  In the Streaming Sources related list, verify that this data input is streaming log data from all relevant endpoint devices.
 
@@ -61,7 +61,7 @@ You can set system parameters for reading log data that determine the actions th
 8.  Select **Publish** to publish the data input to the MID Server.
 
 
-**Parent Topic:**[Advanced data input configuration in Health Log Analytics](../concept/hla-data-input-adv-configuration.md)
+**Parent Topic:**[Advanced data input configuration in Health Log Analytics](hla-data-input-adv-configuration.md)
 
 **Related topics**  
 

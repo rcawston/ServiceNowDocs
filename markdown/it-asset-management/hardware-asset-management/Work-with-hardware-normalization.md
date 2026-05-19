@@ -38,21 +38,21 @@ The following reports are included.
 -   Hardware Model Normalization Status
 -   Consumable Model Normalization Status
 
--   **[Opt-in to the Hardware Asset Management Content Service](../task/opt-in-hardware-normalization.md)**  
+-   **[Opt-in to the Hardware Asset Management Content Service](opt-in-hardware-normalization.md)**  
 Opt in to the Hardware Asset Management Content Service to improve the normalization process by sharing hardware and consumable model data from your organization with ServiceNow.
--   **[Import and export content data](../task/import-export-ham.md)**  
+-   **[Import and export content data](import-export-ham.md)**  
 Import and export content data to the ServiceNow Hardware Asset Management content service to improve the normalization process. On-premise users can use the Manage Hardware Library module to import or export data via a zip file.
--   **[Create a hardware or consumable model](../task/create-hardware-consumable-model.md)**  
+-   **[Create a hardware or consumable model](create-hardware-consumable-model.md)**  
 To begin tracking your hardware and consumable assets, create a hardware or consumable model. Then, add lifecycle information to keep track of the lifecycle phase of your model.
--   **[Copy a hardware model from the Content lookup portal](../task/copy-hardware-model.md)**  
+-   **[Copy a hardware model from the Content lookup portal](copy-hardware-model.md)**  
 Copy a hardware model record from the Content lookup portal to add a new model entry to the Product Model \[cmdb\_model\] table.
--   **[Normalize hardware and consumable models](../task/normalize-hardware-consumable-models.md)**  
+-   **[Normalize hardware and consumable models](normalize-hardware-consumable-models.md)**  
 After you have created your hardware and consumable models, normalize the information of the model.
--   **[Revert normalization of hardware and consumable models](../task/revert-norm-ham.md)**  
+-   **[Revert normalization of hardware and consumable models](revert-norm-ham.md)**  
 Revert the normalization of hardware and consumable models in the Hardware Asset Workspace.
--   **[Add a custom product](../task/add-custom-hardware-model.md)**  
+-   **[Add a custom product](add-custom-hardware-model.md)**  
 If you have a product that is not represented in the Asset Management Content Service yet, you can create a custom product.
--   **[Add a custom hardware model](../task/add-custom-model.md)**  
+-   **[Add a custom hardware model](add-custom-model.md)**  
 If you have a hardware model that isn't represented in the Asset Management Content Service yet, you can create a custom model.
 
 **Parent Topic:**[Using Hardware Asset Management](using-ham-classic.md)
@@ -60,33 +60,33 @@ If you have a hardware model that isn't represented in the Asset Management Cont
 **Related topics**  
 
 
-[Manage asset bundles from your inventory](../task/create-bundled-assets.md)
+[Manage asset bundles from your inventory](create-bundled-assets.md)
 
 [Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
-[Manage loaner assets](../task/manage-loaner-asset.md)
+[Manage loaner assets](manage-loaner-asset.md)
 
 [Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
-[Use Advanced Shipment Notification](../task/advanced-shipment-notification.md)
+[Use Advanced Shipment Notification](advanced-shipment-notification.md)
 
 [Manage RMA requests](manage-rma-req.md)
 
-[Create an inventory stock order request](../task/create-inventory-stock-order.md)
+[Create an inventory stock order request](create-inventory-stock-order.md)
 
-[Create a disposal order](../task/create-disposal-order.md)
+[Create a disposal order](create-disposal-order.md)
 
-[Use a hardware asset request flow](../task/hardware-request-flow.md)
+[Use a hardware asset request flow](hardware-request-flow.md)
 
 [Audit hardware asset inventory](ham-inventory-audit.md)
 
-[Request a Hardware Asset Refresh](../task/hardware-asset-refresh.md#)
+[Request a Hardware Asset Refresh](hardware-asset-refresh.md#)
 
-[Manage your expiring contracts for leased hardware assets](../task/manage-your-leased-hw-asts-expiring-contract.md)
+[Manage your expiring contracts for leased hardware assets](manage-your-leased-hw-asts-expiring-contract.md)
 
 [Reclaim hardware assets](manage-asset-reclaim.md)
 
-[View RFID information of assets](../task/view-rfid-info.md)
+[View RFID information of assets](view-rfid-info.md)
 
 [Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 
@@ -96,7 +96,7 @@ If you have a hardware model that isn't represented in the Asset Management Cont
 
 [Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
-[Track asset location using indoor maps](../task/track-asset-location-using-indoor-maps.md)
+[Track asset location using indoor maps](track-asset-location-using-indoor-maps.md)
 
 [Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 
@@ -116,9 +116,9 @@ If you have a hardware model that isn't represented in the Asset Management Cont
 
 [Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 
-[Acknowledge receipt of assets on the Employee Center portal](../task/receive-assets-employee-center.md)
+[Acknowledge receipt of assets on the Employee Center portal](receive-assets-employee-center.md)
 
-[Update associated Decision tables for HAM flows](../task/trigger-flow-ham.md)
+[Update associated Decision tables for HAM flows](trigger-flow-ham.md)
 
 [Hardware Model Normalization](hardware-normalization.md#)
 

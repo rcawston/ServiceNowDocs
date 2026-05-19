@@ -40,5 +40,5 @@ Role required: sn\_esg.admin
 8.  To update a framework, select a framework and select **Update**.
 
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](../concept/configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
 

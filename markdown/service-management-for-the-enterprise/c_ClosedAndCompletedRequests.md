@@ -17,5 +17,5 @@ A **Close Complete** button is visible to the agent assigned to the request. The
 
 **Note:** To view all closed tasks, navigate to **All** &gt; **Field Service** &gt; **All Work Orders** and enter **Close Complete** in the **State** field.
 
-**Parent Topic:**[Close a request](../task/t_CloseARequest.md)
+**Parent Topic:**[Close a request](t_CloseARequest.md)
 

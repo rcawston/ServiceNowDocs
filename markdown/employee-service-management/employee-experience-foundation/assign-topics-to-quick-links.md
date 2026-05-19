@@ -63,5 +63,5 @@ Ensure you relog in to make the new quick links visible.
 
 [Modify the Quick links widget display](config-quick-links-widget.md)
 
-[Guided Self-Service in Employee Center](../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](gss-guided-self-service-overview.md)
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
--   Enable or disable an email digest if a digest is available for the notification. An [email digest](../concept/email-digests.md) is a single email that summarizes the activity for the notification during a time interval that you specify. Admins configure the email digest content for a notification.
+-   Enable or disable an email digest if a digest is available for the notification. An [email digest](email-digests.md) is a single email that summarizes the activity for the notification during a time interval that you specify. Admins configure the email digest content for a notification.
 -   Enable or disable a channel on which the notification is received.
 -   Set preconfigured schedules and filters that determine when you receive your notifications.
 -   Set more advanced filter conditions to limit the notifications delivered to you.
@@ -61,5 +61,5 @@ Role required: none
     2.  Select **Save**.
 
 
-**Parent Topic:**[Setting notification preferences in Core UI](../concept/user-notification-preferences.md)
+**Parent Topic:**[Setting notification preferences in Core UI](user-notification-preferences.md)
 

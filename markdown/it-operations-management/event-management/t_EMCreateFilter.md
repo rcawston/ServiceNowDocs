@@ -78,14 +78,14 @@ Specify the required time conditions, for example, anytime after yesterday.
 
 ![Event rule time condition](../image/event-rule-time-condition.png)
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 
 **Related topics**  
 
 
 [Create or edit an event rule](create-or-edit-event-rule.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](event-input-information.md)
 
 [Configure an event rule to customize alert content](t_EMComposeOuput.md)
 

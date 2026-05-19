@@ -165,18 +165,18 @@ Access all learning resources in a single page at **Overview** &gt; **Learning**
 
 To disable Security Center features on your instance, follow the steps provided in [KB1702514: Guidelines to disable Instance Security Center components \(while using Security Center\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1702514).
 
-**Parent Topic:**[Instance Security Center](../../security/concept/instance-security-center.md)
+**Parent Topic:**[Instance Security Center](instance-security-center.md)
 
 **Related topics**  
 
 
-[Monitor security events](../../security/concept/instance-sec-center-event-ribbon.md)
+[Monitor security events](instance-sec-center-event-ribbon.md)
 
-[Check the daily compliance score and configure security property settings](../../security/concept/instance-sec-center-hardening.md)
+[Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
 
-[Scan for incorrect security definitions](../../security/concept/scan-for-incorrect-security-definitions.md)
+[Scan for incorrect security definitions](scan-for-incorrect-security-definitions.md)
 
-[Monitor instance metrics](../../security/concept/monitoring-user-email-antivirus-metrics.md)
+[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 
-[Activate the ISC Virtual Agent interface](../../security/task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 

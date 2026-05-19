@@ -25,7 +25,7 @@ Role required: none
 
 3.  On the form, fill in the fields.
 
-    For more information on the business registration fields and the information that is collected when you sign up as a new business, see [Business Profile form](../reference/business-profile-form.md).
+    For more information on the business registration fields and the information that is collected when you sign up as a new business, see [Business Profile form](business-profile-form.md).
 
 4.  Select the **Security Code** check box, complete the CAPTCHA validation, and select **Verify**.
 

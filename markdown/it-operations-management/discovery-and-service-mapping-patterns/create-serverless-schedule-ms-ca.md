@@ -18,7 +18,7 @@ Create a serverless discovery schedule to discover Microsoft Certificate Authori
 ## Before you begin
 
 -   Verify that the CA process is up and running on the host machine.
--   Verify that a Windows host was discovered during a previous horizontal discovery. For more information, see [Windows discovery](../../discovery/reference/r_DataCollDiscoWindowsComputers.md).
+-   Verify that a Windows host was discovered during a previous horizontal discovery. For more information, see [Windows discovery](../itom-visibility/r_DataCollDiscoWindowsComputers.md).
 
 Role required: discovery\_admin
 
@@ -208,10 +208,10 @@ When searching on all request IDs, SAN is automatically discovered, so this para
 
 Either execute discovery immediately by selecting **Discover now** or wait until the predefined schedule triggers the discovery.
 
-**Parent Topic:**[Microsoft Certificate Authority \(CA\) certificates discovery](../reference/microsoft-ca-discovery.md)
+**Parent Topic:**[Microsoft Certificate Authority \(CA\) certificates discovery](microsoft-ca-discovery.md)
 
 **Related topics**  
 
 
-[Microsoft Certificate Authority \(CA\) certificates discovery](../reference/microsoft-ca-discovery.md)
+[Microsoft Certificate Authority \(CA\) certificates discovery](microsoft-ca-discovery.md)
 

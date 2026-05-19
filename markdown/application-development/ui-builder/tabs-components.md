@@ -48,7 +48,7 @@ Role required: admin
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+ Add content** button on the stage to open the toolbox.
 
@@ -62,7 +62,7 @@ Role required: admin
 
     ![Arrow pointing to tabs component in the toolbox.](../image/tabs-toolbox-options.png)
 
-    For more information on how to add a component to a page, see [Add and configure components](../task/add-components.md#).
+    For more information on how to add a component to a page, see [Add and configure components](add-components.md#).
 
 8.  Select **+ Add tab** on the stage.
 
@@ -94,12 +94,12 @@ Role required: admin
 
 15. Select the component that you want to add to the tab.
 
-    Components display under the tab in which they’re nested in the content tree. For more information, see [Add and configure components](../task/add-components.md#).
+    Components display under the tab in which they’re nested in the content tree. For more information, see [Add and configure components](add-components.md#).
 
 
 ### Result
 
-Your page shows the two tabs that you created. Select each tab to further configure them, add styling, or add an event handler. For more information on styling, see [Change the default appearance of components](../task/add-styling-to-component.md#). For more information on adding an event handler, see [Manage actions in UI Builder pages](work-events.md).
+Your page shows the two tabs that you created. Select each tab to further configure them, add styling, or add an event handler. For more information on styling, see [Change the default appearance of components](add-styling-to-component.md#). For more information on adding an event handler, see [Manage actions in UI Builder pages](work-events.md).
 
 ## Add repeater tabs
 
@@ -123,7 +123,7 @@ You can use [repeater](ui-builder-glossary.md#) tabs to create multiple tabs bas
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+ Add content** button on the stage to open the toolbox.
 
@@ -137,7 +137,7 @@ You can use [repeater](ui-builder-glossary.md#) tabs to create multiple tabs bas
 
     ![Arrow pointing to the tabs component in the toolbox.](../image/tabs-toolbox-options.png)
 
-    For more information on how to add a component to a page, see [Add and configure components](../task/add-components.md#).
+    For more information on how to add a component to a page, see [Add and configure components](add-components.md#).
 
 8.  Select **+ Add tab** on the stage.
 
@@ -207,7 +207,7 @@ The related list tab automatically populates tabs based on the record that your 
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+ Add content** button on the stage to open the toolbox.
 
@@ -221,7 +221,7 @@ The related list tab automatically populates tabs based on the record that your 
 
     ![Arrow pointing to tabs component in the toolbox.](../image/tabs-toolbox-options.png)
 
-    For more information on how to add a component to a page, see [Add and configure components](../task/add-components.md#).
+    For more information on how to add a component to a page, see [Add and configure components](add-components.md#).
 
 8.  Select **+ Add tab** on the stage.
 
@@ -274,7 +274,7 @@ A page collection is a group of prebuilt globally available pages. Use page coll
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
 
 4.  Select the **+ Add content** button on the stage to open the toolbox.
 
@@ -288,7 +288,7 @@ A page collection is a group of prebuilt globally available pages. Use page coll
 
     ![Arrow pointing to the tabs component in the toolbox.](../image/tabs-toolbox-options.png)
 
-    For more information on how to add a component to a page, see [Add and configure components](../task/add-components.md#).
+    For more information on how to add a component to a page, see [Add and configure components](add-components.md#).
 
 8.  Select **+ Add tab** on the stage.
 
@@ -302,7 +302,7 @@ A page collection is a group of prebuilt globally available pages. Use page coll
 
 11. Select a page collection from the list or create a collection by selecting **+ Create collection**.
 
-    To create your own page collection, see [Create a page collection across multiple UI pages](../task/create-page-collection.md).
+    To create your own page collection, see [Create a page collection across multiple UI pages](create-page-collection.md).
 
     ![Page collection selection screen with option to create a collection.](../image/page-collection-list.png)
 

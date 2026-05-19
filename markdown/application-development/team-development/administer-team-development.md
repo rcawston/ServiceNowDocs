@@ -23,11 +23,11 @@ Team Development provides the following features:
 -   The ability to compare a development instance to other development instances.
 -   A central dashboard for all Team Development activities.
 
--   [Code reviews](../concept/c_CodeReview.md)
--   [Code review notifications](../concept/c_CodeReviewNotifications.md)
--   [Code review workflow](../concept/c_CodeReviewWorkflow.md)
--   [Exclusion policies](../concept/c_ExclusionPolicies.md)
--   [Instance hierarchies](../concept/c_InstanceHierarchies.md)
--   [Pulls and pushes](../concept/c_PullsAndPushes.md)
+-   [Code reviews](c_CodeReview.md)
+-   [Code review notifications](c_CodeReviewNotifications.md)
+-   [Code review workflow](c_CodeReviewWorkflow.md)
+-   [Exclusion policies](c_ExclusionPolicies.md)
+-   [Instance hierarchies](c_InstanceHierarchies.md)
+-   [Pulls and pushes](c_PullsAndPushes.md)
 -   [Team Development process](t_TeamDevelopmentProcess.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [SOAP web service, Inbound, Web services, API implementation, API im
 
 Attach documents to records in ServiceNow by sending a SOAP message targeting the ecc\_queue table.
 
-**Important:** The AttachmentCreator SOAP web service is not recommended. Instead, use the REST [Attachment API](../../inbound-rest/concept/c_AttachmentAPI.md#) to manage attachments with web services.
+**Important:** The AttachmentCreator SOAP web service is not recommended. Instead, use the REST [Attachment API](../rest-apis/c_AttachmentAPI.md#) to manage attachments with web services.
 
 Using the AttachmentCreator SOAP web service, you can attach a single document to a message that is a maximum of 5 MB. The following is an example of a URL or target end point: `https://instance_name.service-now.com/ecc_queue.do?WSDL`
 
@@ -243,5 +243,5 @@ sub SOAP::Transport::HTTP::Client::get_basic_credentials {
 }
 ```
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

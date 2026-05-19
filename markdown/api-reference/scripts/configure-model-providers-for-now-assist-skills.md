@@ -19,7 +19,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 AI stewards can enable or disable AI model providers in the AI Control Tower. Administrators set the default AI model providers for Now Assist skills in your instance through the Now Assist Admin console. As a user, you can override the instance default AI model provider and select a different model provider for Now Assist for Code skills in the script editor.
 
-**Parent Topic:**[Configuring Now Assist for Code](../concept/configuring-now-assist-code.md)
+**Parent Topic:**[Configuring Now Assist for Code](configuring-now-assist-code.md)
 
 ## Set default AI model providers for your instance
 

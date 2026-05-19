@@ -15,7 +15,7 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 Bring in data from other ServiceNow applications to enhance the training of your agents.
 
--   [Continual Improvement Management](../../continual-improvement-management/concept/cim-landing-page.md)
+-   [Continual Improvement Management](../continual-improvement-management/cim-landing-page.md)
 
     One example of a coaching opportunity with CIM would be to use improvement initiatives to set up external training tasks.
 

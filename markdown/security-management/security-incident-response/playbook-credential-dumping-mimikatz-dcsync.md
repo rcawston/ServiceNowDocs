@@ -19,9 +19,9 @@ Mimikatz is a popular hacking tool that enables users to issue commands that hel
 
 **Note:** This is a high-fidelity alert, which is assumed to be rarely triggered. When it triggers, you should notify a senior team member or Manager immediately.
 
--   **[Set up the T1003 - Credential Dumping - Mimikatz DCsync playbook](../task/playbook-setup-credential-dumping-mimikatz-dcsync.md)**  
+-   **[Set up the T1003 - Credential Dumping - Mimikatz DCsync playbook](playbook-setup-credential-dumping-mimikatz-dcsync.md)**  
 Use the following steps to set up the T1003 - Credential Dumping - Mimikatz DCsync playbook.
--   **[Use the T1003 - Credential Dumping - Mimikatz DCsync playbook](../task/playbook-using-credential-dumping-mimikatz-dcsync.md)**  
+-   **[Use the T1003 - Credential Dumping - Mimikatz DCsync playbook](playbook-using-credential-dumping-mimikatz-dcsync.md)**  
 Use this playbook to investigate incidents suspected to be caused by Mimikatz DCSync. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the T1003 - Credential Dumping - Mimikatz DCsync playbook.
 
 **Parent Topic:**[Flow-based Playbooks](playbook-flow-based.md)

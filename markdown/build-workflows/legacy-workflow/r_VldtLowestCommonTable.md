@@ -30,7 +30,7 @@ For example, the Requested Item \[sc\_req\_item\] table is the lowest table in a
 -   Suggested Action: None
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+-   Related Information: [Workflow activities](../workflow-activities/c_WorkflowActivities.md)
 
 **Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
 

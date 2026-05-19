@@ -21,7 +21,7 @@ This script include does not have a constructor for creating an instance. Call e
 
 `sn_agent.AccCheckDefsAPI.<method>`
 
-For the REST API solution, refer to [Agent Client Collector API](../../../../../integrate/inbound-rest/concept/agnt_clnt_cll-api.md#).
+For the REST API solution, refer to [Agent Client Collector API](../rest-apis/agnt_clnt_cll-api.md#).
 
 This script include provides methods that enable the following:
 
@@ -29,7 +29,7 @@ This script include provides methods that enable the following:
 -   Get a list of check definitions
 -   Update checks and check parameters
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AccCheckDefsAPI - getCheck\(String checkDefId, Boolean withParams\)
 

@@ -40,7 +40,7 @@ In Contact Tracing version 1.29.4. and above, the navigation path is not availab
 The Contact Tracing application provides enhanced capabilities and additional features with other Safe Workplace suite applications.
 
 -   Emergency Outreach: Configure and send email and mobile notifications to users requesting them to submit [daily contact logs](employee-daily-log.md) and to get [responses for privacy consents](contact-tracing-user-privacy-options.md).
--   Emergency Exposure Management: Run a diagnostic report on affected users to identify potentially exposed users who might have interacted with the affected user. You can use multiple data sources to broaden the coverage of finding potential exposure. Review [tracing systems](../../business-continuity/concept/tracing-systems-exposure-mgnt.md) for data sources provided by Contact Tracing to see whether these tracing systems meet your business needs. You can modify these tracing systems or set up a new tracing system for your data source. For more information, see [Set up a tracing system for an exposure data source](../../business-continuity/task/set-up-tracing-system.md).
+-   Emergency Exposure Management: Run a diagnostic report on affected users to identify potentially exposed users who might have interacted with the affected user. You can use multiple data sources to broaden the coverage of finding potential exposure. Review [tracing systems](../emergency-exposure-management/tracing-systems-exposure-mgnt.md) for data sources provided by Contact Tracing to see whether these tracing systems meet your business needs. You can modify these tracing systems or set up a new tracing system for your data source. For more information, see [Set up a tracing system for an exposure data source](../emergency-exposure-management/set-up-tracing-system.md).
 -   Safe Workplace Dashboard: View the trend of active cases and potentially exposed contacts over a given time period for a campus or location. You can also get alerts to determine when the number of active cases is higher than the threshold in a particular campus or location.
 -   Emergency Self Report: A case is created automatically for a user who is reported to be in quarantine if no active case exists for the user at the time of reporting.
 -   Employee Readiness Core:
@@ -64,7 +64,7 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Install Contact Tracing](../task/install-contact-tracing.md#)**  
+-   **[Install Contact Tracing](install-contact-tracing.md#)**  
 You can install Contact Tracing if you have the admin role.
 -   **[Setting up Contact Tracing](set-up-contact-tracing.md)**  
 Configure system properties, scheduled jobs, script includes, Wi-Fi access log integration, and outreach notifications to aggregate contact tracing information for various data sources.
@@ -81,5 +81,5 @@ After employees start returning to the workplace, use daily contact logs to help
 -   **[Managing cases to follow up with potentially exposed contacts](exposure-case-management.md)**  
 When an employee who returns to the workplace is classified as positive for a condition, such as COVID-19, the case manager creates a case to identify and follow up with potentially exposed contacts.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](../safe-workplace/safe-workplace.md)
 

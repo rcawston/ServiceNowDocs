@@ -17,7 +17,7 @@ Learn about the available fields for adding a service level objective \(SLO\) to
 
 ## Service level objective form
 
-The following table describes the available options in the Service level objective form. For step-by-step instructions, see [Create SLOs, SLIs, and error budget policies](../../slo-management/task/sr-create-slo-sli.md).
+The following table describes the available options in the Service level objective form. For step-by-step instructions, see [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md).
 
 <table id="id_sdb_v2n_y1c"><thead><tr><th>
 
@@ -137,5 +137,5 @@ Period for which the metrics are calculated. The available options are:-   **Mon
 </td></tr></tbody>
 </table>**Note:** The **Assignment group** is auto-populated.
 
-**Parent Topic:**[SLO Management reference](../../slo-management/reference/service-level-objective-management-reference.md)
+**Parent Topic:**[SLO Management reference](service-level-objective-management-reference.md)
 

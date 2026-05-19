@@ -452,5 +452,5 @@ Triggers a specific bot process to stop in RPA Hub. Returns robots details and p
 -   **Result**: String
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spokes](../concept/spokes.md)
+</table>**Parent Topic:**[Spokes](spokes.md)
 

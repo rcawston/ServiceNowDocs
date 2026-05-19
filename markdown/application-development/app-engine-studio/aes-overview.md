@@ -34,7 +34,7 @@ By delegating development to citizen developers in your organization, administra
 
 </td><td>
 
-[Install ![](../../../reuse/icons/brand-icons/bus-cloud-download.svg) Install App Engine Studio and its associated apps.](../task/install-aes.md)
+[Install ![](../../../reuse/icons/brand-icons/bus-cloud-download.svg) Install App Engine Studio and its associated apps.](install-aes.md)
 
 </td><td>
 
@@ -46,11 +46,11 @@ By delegating development to citizen developers in your organization, administra
 
 </td><td>
 
-[Deploy ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Deploy applications to the instances in your pipeline, from development to production using App Engine Management Center.](../../app-engine-management-center/concept/app-engine-management-center.md)
+[Deploy ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Deploy applications to the instances in your pipeline, from development to production using App Engine Management Center.](../app-engine-management-center/app-engine-management-center.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about App Engine Studio components such as fields, tables, and properties.](../reference/aes-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about App Engine Studio components such as fields, tables, and properties.](aes-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources for App Engine Studio

@@ -29,7 +29,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-Set up basic details for your assistant and set it as a primary assistant. Primary assistants can be linked to secondary assistants. For general information about primary and secondary assistants, see [LLM assistants](../concept/llm-assistants.md).
+Set up basic details for your assistant and set it as a primary assistant. Primary assistants can be linked to secondary assistants. For general information about primary and secondary assistants, see [LLM assistants](llm-assistants.md).
 
 ## Procedure
 

@@ -31,13 +31,13 @@ To create a comprehensive digital model of your telecommunications network, do t
 
 1.  In the Equipment Model form, create inventory models for your telecommunications equipment.
     -   Creating an equipment inventory model is the first requirement for setting up the process to generate network asset instances when using inventory templates.
-    -   You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use. To learn more, see [Create an equipment model](../task/create-equipment-models.md).
-2.  In the Equipment Holder Model form, create the inventory model records for your equipment holders. To learn more, see [Create an equipment holder model](../task/create-equipment-holder-models.md).
-3.  In the Network Interface Model form, create the inventory model records for your network interfaces. To learn more, see [Create a card model](../task/create-interface-card-models.md).
-4.  In the Interface Cards Model form, create the inventory model records for your network interface cards. To learn more, see [Create a network interface model](../task/create-network-interface-model.md).
-5.  In the Physical Connection Model form, create the inventory model records for each physical or wired connection. To learn more, see [Create a physical connection model](../task/create-physical-connection-models.md).
-6.  In the Logical Connection Model form, create inventory model records for each logical connection. To learn more, see [Create a logical connection model](../task/create-logical-connection-models.md).
-7.  In the Network Model Relationship form, define the relationships between each model record in your network inventory. To learn more, see [Define a network model relationship](../task/create-network-model-relationships.md).
+    -   You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use. To learn more, see [Create an equipment model](create-equipment-models.md).
+2.  In the Equipment Holder Model form, create the inventory model records for your equipment holders. To learn more, see [Create an equipment holder model](create-equipment-holder-models.md).
+3.  In the Network Interface Model form, create the inventory model records for your network interfaces. To learn more, see [Create a card model](create-interface-card-models.md).
+4.  In the Interface Cards Model form, create the inventory model records for your network interface cards. To learn more, see [Create a network interface model](create-network-interface-model.md).
+5.  In the Physical Connection Model form, create the inventory model records for each physical or wired connection. To learn more, see [Create a physical connection model](create-physical-connection-models.md).
+6.  In the Logical Connection Model form, create inventory model records for each logical connection. To learn more, see [Create a logical connection model](create-logical-connection-models.md).
+7.  In the Network Model Relationship form, define the relationships between each model record in your network inventory. To learn more, see [Define a network model relationship](create-network-model-relationships.md).
 
 ## Inventory model related tabs
 
@@ -108,27 +108,27 @@ Network Model Relationships
 Related network inventory models.
 
 </td></tr></tbody>
-</table>-   **[Create a facility model](../task/create-facility-model.md)**  
+</table>-   **[Create a facility model](create-facility-model.md)**  
 Create a facility model in the Telecommunications Network Inventory application to define the physical characteristics data of the facility record according to the product manufacturer's recommendations.
--   **[Create an equipment model](../task/create-equipment-models.md)**  
+-   **[Create an equipment model](create-equipment-models.md)**  
 Create an equipment model in the Telecommunications Network Inventory application as the first requirement for setting up the process to generate your network asset instances. You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use.
--   **[Create an equipment holder model](../task/create-equipment-holder-models.md)**  
+-   **[Create an equipment holder model](create-equipment-holder-models.md)**  
 Create an equipment holder model in the Telecommunications Network Inventory application to define the physical characteristics data of the equipment holder according to the product manufacturer's recommendations. You create an equipment holder model every time a vendor or original equipment manufacturer \(OEM\) introduces a new equipment holder for your use.
--   **[Create a card model](../task/create-interface-card-models.md)**  
+-   **[Create a card model](create-interface-card-models.md)**  
 Create a card model in the Telecommunications Network Inventory application to define the physical characteristics data of the card as per the product manufacturer's recommendations.
--   **[Create a network interface model](../task/create-network-interface-model.md)**  
+-   **[Create a network interface model](create-network-interface-model.md)**  
 Create a network interface model in the Telecommunications Network Inventory application to define the physical characteristics data of the network interface as per the product recommendations of the manufacturer.
--   **[Create a cable model](../task/create-a-cable-model.md)**  
+-   **[Create a cable model](create-a-cable-model.md)**  
 Create a cable model in the Telecommunications Network Inventory application to define the physical characteristics data of the cable according to the product recommendations of the manufacturer.
--   **[Create a strand model](../task/create-a-strand-model.md)**  
+-   **[Create a strand model](create-a-strand-model.md)**  
 Create a strand model in the Telecommunications Network Inventory application to define the physical characteristics data of the strand according to the product recommendations of the manufacturer.
--   **[Create a physical connection model](../task/create-physical-connection-models.md)**  
+-   **[Create a physical connection model](create-physical-connection-models.md)**  
 Create a physical connection model in the Telecommunications Network Inventory application to define the metadata for the different physical connections. In the physical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
--   **[Create a logical connection model](../task/create-logical-connection-models.md)**  
+-   **[Create a logical connection model](create-logical-connection-models.md)**  
 Create a logical connection model in the ServiceNow Telecommunications Network Inventory application to define the metadata for the different logical connections. In the logical connection model, you can import models, attach a file or an image, add or remove optional fields, and add compatibilities and substitutions.
 -   **[Create a network topology model](create-network-topology-model.md)**  
 Create a network topology model in the Telecommunications Network Inventory application to define the metadata for the topology according to your recommendations. You can use a topology model to create a record by using the design and assign function.
--   **[Define a network model relationship](../task/create-network-model-relationships.md)**  
+-   **[Define a network model relationship](create-network-model-relationships.md)**  
 Create a network model relationship in the Telecommunications Network Inventory application that captures the relationships between your network model entities.
 
 **Parent Topic:**[Using Telecommunications Network Inventory](using-telecom-network-inventory.md)

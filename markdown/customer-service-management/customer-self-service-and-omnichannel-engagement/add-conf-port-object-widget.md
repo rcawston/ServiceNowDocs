@@ -51,7 +51,7 @@ The Portal Object widget displays the information based on the sy\_id entered in
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Object widget instance options form](../reference/port-object-inst-options.md).
+    For a description of the field values, see [Portal Object widget instance options form](../port-object-inst-options.md).
 
 12. Select **Save**.
 

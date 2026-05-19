@@ -33,7 +33,7 @@ The base system provides predefined Virtual Agent topics \(chatbot conversations
 **Related topics**  
 
 
-[PPM Virtual Agent conversation flows](../concept/ppm-va-conversations.md)
+[PPM Virtual Agent conversation flows](ppm-va-conversations.md)
 
-[Reusable PPM Virtual Agent topic blocks](../concept/ppm-va-topic-blocks.md)
+[Reusable PPM Virtual Agent topic blocks](ppm-va-topic-blocks.md)
 

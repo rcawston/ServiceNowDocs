@@ -18,27 +18,27 @@ Increase the impact of your cross‑enterprise workflows by automating manual pr
 
 <table id="table_w4r_vzq_rvb" class="nav-card"><tbody><tr><td>
 
-[Workflow Studio ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Access workflow applications from a single interface.](../../workflow-studio/reference/workflow-studio.md)
+[Workflow Studio ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Access workflow applications from a single interface.](workflow-studio/workflow-studio.md)
 
 </td><td>
 
-[Workflow Studio flows ![](../../../reuse/icons/brand-icons/bus-workflow.svg) Build multi-step flows from reusable components without having to code.](../../workflow-studio/concept/exploring-flows.md)
+[Workflow Studio flows ![](../../../reuse/icons/brand-icons/bus-workflow.svg) Build multi-step flows from reusable components without having to code.](workflow-studio/exploring-flows.md)
 
 </td><td>
 
-[Workflow Studio playbooks ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Author cross-enterprise workflows and create a single, unified process.](../../workflow-studio/reference/workflow-studio-playbooks-landing.md)
+[Workflow Studio playbooks ![](../../../reuse/icons/brand-icons/bus-anomaly-detection.svg) Author cross-enterprise workflows and create a single, unified process.](workflow-studio/workflow-studio-playbooks-landing.md)
 
 </td></tr><tr><td>
 
-[Workflow Studio playbook experience ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg) Interact with a business workflow in real time from within Workspace.](../../workspace/concept/playbook-ui.md)
+[Workflow Studio playbook experience ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg) Interact with a business workflow in real time from within Workspace.](workflow-studio/playbook-ui.md)
 
 </td><td>
 
-[Workflow Studio decision tables ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Decouple decision logic from code by creating and maintaining decision rules.](../../decision-table/concept/decision-designer-overview.md)
+[Workflow Studio decision tables ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Decouple decision logic from code by creating and maintaining decision rules.](workflow-studio/decision-designer-overview.md)
 
 </td><td>
 
-[Service Creator ![](../../../reuse/icons/brand-icons/bus-service-catalog.svg) Enables a department to offer custom services through the service catalog](../../../build/service-creator/concept/c_ServiceCreator.md)
+[Service Creator ![](../../../reuse/icons/brand-icons/bus-service-catalog.svg) Enables a department to offer custom services through the service catalog](service-creator/c_ServiceCreator.md)
 
 </td></tr></tbody>
 </table>## Workflow Studio
@@ -73,7 +73,7 @@ Service creator enables a department to offer custom services through the servic
 
 The ServiceNow AI Platform supports these classic workflow builder tools.
 
--   **[Classic Approvals](../../service-administration/reference/r_Approvals.md)**
+-   **[Classic Approvals](approvals/r_Approvals.md)**
 
     Classic approvals are a legacy process to require authorization on tasks before the work is done. In earlier releases, you could create approval records to define approval tasks and associate users or groups to approve or reject them. You can replace classic approvals with Workflow Studio flows or classic workflows.
 
@@ -81,46 +81,46 @@ The ServiceNow AI Platform supports these classic workflow builder tools.
 
     A business rule is a server-side script that runs when a record is displayed, inserted, updated, or deleted, or when a table is queried. You can replace classic business rules with Workflow Studio flows.
 
--   **[Classic Events](../../platform-events/concept/events.md)**
+-   **[Classic Events](system-events/events.md)**
 
     Events are special records that the system uses to log when certain conditions occur and to take some kind of action in response to the conditions. You can replace classic events with Workflow Studio flows or Playbooks processes.
 
--   **[Classic Workflow](../../workflow/concept/c_WorkflowOverview.md)**
+-   **[Classic Workflow](legacy-workflow/c_WorkflowOverview.md)**
 
     Workflow is a legacy application that provided a drag-and-drop interface for automating multi-step processes across the platform. Each workflow consists of a sequence of activities, such as generating records, notifying users of pending approvals, or running scripts. The graphical Workflow Editor represents workflows visually as a type of flowchart. It shows activities as boxes labeled with information about that activity and transitions from one activity to the next as lines connecting the boxes. You can replace classic workflows with Workflow Studio flows or Playbooks processes.
 
 
 ## Applications and features
 
--   **[Workflow Studio](../../workflow-studio/reference/workflow-studio.md)**
+-   **[Workflow Studio](workflow-studio/workflow-studio.md)**
 
     Integrate workflow authoring, configuring, and monitoring into a single page experience. Consolidate Playbooks, Workflow Studio, Workflow Studio, Integration Hub integrations, and Decision Builder into one design environment.
 
--   **[Workflow Studio playbooks](../../process-automation-designer/concept/process-automation-designer.md)**
+-   **[Workflow Studio playbooks](workflow-studio/process-automation-designer.md)**
 
     Playbook enable process owners to author cross-enterprise workflows and create a single, unified process. Build the underlying processes for playbooks that Playbook Experience agents and fulfillers use.
 
--   **[Workflow Studio flows](../../workflow-studio/concept/exploring-flows.md)**
+-   **[Workflow Studio flows](workflow-studio/exploring-flows.md)**
 
     Flows automate a repeatable multi-step process. When the flow trigger conditions are met, the flow runs a sequence of reusable actions and flow logic to complete the process.
 
--   **[Workflow Studio actions](../../workflow-studio/concept/exploring-actions.md)**
+-   **[Workflow Studio actions](workflow-studio/exploring-actions.md)**
 
     Actions automate a repeatable task or operation within a flow. Flows run actions by passing them data as inputs. Actions run a sequence of steps to complete the task, and pass data to the flow as outputs.
 
--   **[Workflow Studio decision tables](../../decision-table/concept/decision-designer-overview.md)**
+-   **[Workflow Studio decision tables](workflow-studio/decision-designer-overview.md)**
 
     Workflow Studio decision tables enable developers to decouple decision logic from their code by creating and maintaining decision rules.
 
--   **[Playbook experience](../../workspace/concept/playbook-ui.md)**
+-   **[Playbook experience](workflow-studio/playbook-ui.md)**
 
     Interact with a business workflow in real time from within Workspace. Agents can use Playbook to update records, upload attachments, and complete tasks across multiple workflow activities.
 
--   **[Service Creator](../../../build/service-creator/concept/c_ServiceCreator.md)**
+-   **[Service Creator](service-creator/c_ServiceCreator.md)**
 
     Service creator enables a department to offer custom services through the service catalog, such as the HR department offering tuition reimbursement for further education.
 
--   **[Classic Approvals](../../service-administration/reference/r_Approvals.md)**
+-   **[Classic Approvals](approvals/r_Approvals.md)**
 
     Classic approvals are a legacy process to require authorization on tasks before the work is done. In earlier releases, you could create approval records to define approval tasks and associate users or groups to approve or reject them.
 
@@ -128,11 +128,11 @@ The ServiceNow AI Platform supports these classic workflow builder tools.
 
     A business rule is a server-side script that runs when a record is displayed, inserted, updated, or deleted, or when a table is queried.
 
--   **[Classic Events](../../platform-events/concept/events.md)**
+-   **[Classic Events](system-events/events.md)**
 
     Events are special records that the system uses to log when certain conditions occur and to take some kind of action in response to the conditions.
 
--   **[Classic Workflow](../../workflow/concept/c_WorkflowOverview.md)**
+-   **[Classic Workflow](legacy-workflow/c_WorkflowOverview.md)**
 
     Workflow is a legacy application that provided a drag-and-drop interface for automating multi-step processes across the platform. Each workflow consists of a sequence of activities, such as generating records, notifying users of pending approvals, or running scripts. The graphical Workflow Editor represents workflows visually as a type of flowchart. It shows activities as boxes labeled with information about that activity and transitions from one activity to the next as lines connecting the boxes.
 

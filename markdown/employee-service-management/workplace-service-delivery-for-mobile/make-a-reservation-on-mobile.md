@@ -21,11 +21,11 @@ Ensure that you have the following applications installed:
 
 -   Workplace Core \(sn\_wsd\_core\).
 
-    For more information, see [Install Workplace Core](../../workplace-service-delivery/task/install-workplace-service-delivery.md).
+    For more information, see [Install Workplace Core](../workplace-core/install-workplace-service-delivery.md).
 
 -   Workplace Reservation Management \(sn\_wsd\_rsv\).
 
-    For more information, see [Install Workplace Reservation Management](../../wsd-reservation-management/task/install-wsd-reservation-mgmt.md).
+    For more information, see [Install Workplace Reservation Management](../workplace-reservation-management/install-wsd-reservation-mgmt.md).
 
 -   Workplace Service Delivery for Mobile
 
@@ -214,7 +214,7 @@ View the available reservations using a floor map view instead of a list view. T
         -   **End date and time**: Date and time when you would stop using the workplace item. The time is displayed based on the selected building's time zone.
 13. To reserve a space from your favorite space, tap **Browse favorites**.
 
-    The spaces that you have set as favorite using the Workplace Reservation Management Reservation portal are displayed with the favorite icon \(![Favorite space icon.](../../wsd-reservation-management/image/favorite-icon.png)\). If you want to set any location as favorite, refer to [Set a location as favorite using the Space details page](../../wsd-reservation-management/task/set-a-location-as-favorite.md).
+    The spaces that you have set as favorite using the Workplace Reservation Management Reservation portal are displayed with the favorite icon \(![Favorite space icon.](../../wsd-reservation-management/image/favorite-icon.png)\). If you want to set any location as favorite, refer to [Set a location as favorite using the Space details page](../workplace-reservation-management/set-a-location-as-favorite.md).
 
     **Note:** The favorite option appears only if you have Employee Center 25.0.0 and if your administrator has configured the settings.
 
@@ -380,7 +380,7 @@ Check-in-state
 
 Awaiting check-in.When workplace spaces are having occupancy sensor and if the state of the space is unoccupied or Invalid, application sends push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation".
 
-For more information, see [Configure automatic check-in for reserved spaces](../../wsd-reservation-management/concept/configure-rsv-check-in.md).
+For more information, see [Configure automatic check-in for reserved spaces](../workplace-reservation-management/configure-rsv-check-in.md).
 
 </td></tr><tr><td>
 
@@ -414,7 +414,7 @@ Reservation details updated date and time.
 
     **Note:** You must check in within 30 minutes before the reservation start time. If the reservation isn’t checked in within 30 minutes before the reservation start time, then the reservation is canceled. You receive an email about the cancellation. The Check in option is also available on the My Reservations page.
 
-    In case, if you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notifications on Workplace Service Delivery for Mobile app when your reserved spaces are checked in automatically. If the workplace location or space state is Occupied, then, application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You are automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is Unoccupied or Invalid, application sends push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](../../wsd-reservation-management/concept/configure-rsv-check-in.md).
+    In case, if you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notifications on Workplace Service Delivery for Mobile app when your reserved spaces are checked in automatically. If the workplace location or space state is Occupied, then, application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You are automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is Unoccupied or Invalid, application sends push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](../workplace-reservation-management/configure-rsv-check-in.md).
 
 
 ## Result
@@ -431,7 +431,7 @@ If the workplace item that you've reserved requires check-in and check out, see 
 
 To reserve a space using the QR code scanning option, see [Scan the QR code to reserve a space](scan-qr-code.md).
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Search for a campus, building and a space using AI Search](ai-search-buildings-floors.md)
 

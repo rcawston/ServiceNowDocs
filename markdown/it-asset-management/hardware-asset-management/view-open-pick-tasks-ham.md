@@ -38,9 +38,9 @@ The list of open asset pick tasks for the stockroom is displayed.
 
 ## What to do next
 
-Manage all the hardware asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage hardware asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-ham-mobile-app.md).
+Manage all the hardware asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage hardware asset pick tasks using the Mobile Agent application](manage-asset-pick-task-ham-mobile-app.md).
 
-**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md)
 
 **Related topics**  
 

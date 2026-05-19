@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The **Entity fields** tab for an ERP \(Enterprise Resource Planning\) model in Zero Copy Connector for ERP displays the table fields that are included in the ERP model.
 
-For process details, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+For process details, see [Add an entity to a model](add-an-entity-to-model.md).
 
 Zero Copy Connector for ERP automatically scans the linked ERP system to retrieve the latest entity data. However, you can select the refresh icon to update the data on demand.
 

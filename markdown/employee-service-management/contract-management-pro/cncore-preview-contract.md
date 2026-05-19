@@ -81,5 +81,5 @@ Steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

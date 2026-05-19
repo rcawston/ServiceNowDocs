@@ -23,13 +23,13 @@ Role required: none
 
 The ActionSet Click action simulates a manual click at the area you specify in the ActionSet Settings window. You can use it to click a button, open a menu, select an object, or perform any action typically performed by a mouse click.
 
-You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](../reference/actionset-actions-properties.md#actionset-click).
+You can configure the properties for the Click action. For more information about these properties, see [ActionSet Click properties](actionset-actions-properties.md#actionset-click).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    For more information about an anchor, see [Anchor](../concept/anchor.md).
+    For more information about an anchor, see [Anchor](anchor.md).
 
 2.  Click **Click**.
 

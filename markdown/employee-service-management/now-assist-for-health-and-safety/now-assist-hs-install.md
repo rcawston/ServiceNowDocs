@@ -33,12 +33,12 @@ The following table lists the skill that you can access from the Now Assist Admi
 
 1.  Install the Now Assist for Health and Safety \(sn\_hs\_gen\_ai\) plugin.
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Health and Safety](../concept/now-assist-hs-support-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Health and Safety](now-assist-hs-support-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 ## What to do next
 
 Activate the skill to enable the safety team to use the generative AI skills. For more information, see [Activate a Now Assist for Health and Safety skill](now-assist-hs-activate-skill.md).
 
-**Parent Topic:**[Configuring Now Assist for Health and Safety](../concept/now-assist-hs-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Health and Safety](now-assist-hs-configuring.md)
 

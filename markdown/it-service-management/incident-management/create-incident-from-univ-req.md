@@ -36,5 +36,5 @@ Activate the Universal Request \(sn\_uni\_req\) and the Universal Request Integr
     The universal request number from which the incident is created appears in the **Universal Request** field on the Incident form. The incident number appears in the **Primary Ticket** field and also in the **Associated Tickets** related list of the Universal Request form.
 
 
-**Parent Topic:**[Universal Request integration - Incident Management](../concept/inci-mgmt-integ-with-univ-req.md)
+**Parent Topic:**[Universal Request integration - Incident Management](inci-mgmt-integ-with-univ-req.md)
 

@@ -55,11 +55,11 @@ To ensure your locations move to the correct Space \(sn\_wsd\_core\_space\) or R
 
 You can import a Mappedin building \(single floor building\) and the 14 locations go to the correct tables and have the correct types.
 
--   **[Maintain type mappings](../task/wsm-mappedin-type-mappings.md)**  
+-   **[Maintain type mappings](wsm-mappedin-type-mappings.md)**  
 Use **Type mappings** to convert the Type and Subtype locations in Mappedin to the Table and Space type used in Workplace Space Mapping.
--   **[Import a new building - Mappedin](../task/wsm-mappedin-import-building.md)**  
+-   **[Import a new building - Mappedin](wsm-mappedin-import-building.md)**  
 Use **Import a new building** to import the Mappedin map and define the building details.
--   **[Import an existing building - Mappedin](../task/wsm-mappedin-import-existing-bldg.md)**  
+-   **[Import an existing building - Mappedin](wsm-mappedin-import-existing-bldg.md)**  
 Follow these steps to import an existing building for a Mappedin map.
 
 **Parent Topic:**[Configure Mappedin](mappedin-integration-topics.md)

@@ -17,11 +17,11 @@ Using the ServiceNow Creator Workflow products, you can create intuitive experie
 
 Use this document to discover how to:
 
--   [Find all ServiceNow developer products](../../applications/concept/dev-ex-overview.md)
+-   [Find all ServiceNow developer products](dev-ex-overview.md)
 -   [Understand low-code and pro-code development](low-vs-pro-code.md)
--   [Understand ServiceNow licenses](../reference/licensing.md)
--   [Get support as a developer](../../applications/reference/r_support-servicenow-developers.md)
--   [Understand the various ServiceNow user interfaces](../../applications/concept/understand-different-ui-experiences.md)
+-   [Understand ServiceNow licenses](licensing.md)
+-   [Get support as a developer](r_support-servicenow-developers.md)
+-   [Understand the various ServiceNow user interfaces](understand-different-ui-experiences.md)
 -   [Learn the basics of being a developer](software-dev-cycle.md)
 
 Please use the reader feedback feature to suggest additional topics.

@@ -174,5 +174,5 @@ Model Risk Initiator can request new models from the Employee Center or Service 
 </td></tr></tbody>
 </table>For more information, see the [Employee Center](https://www.servicenow.com/products/employee-center.html).
 
-**Parent Topic:**[Model Risk Management reference](../concept/mrm-reference.md)
+**Parent Topic:**[Model Risk Management reference](mrm-reference.md)
 

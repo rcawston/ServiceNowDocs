@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.admin
 
 3.  On the HTML Template record form, fill in the fields.
 
-    For more information on the fields, see [HTML Template form](../reference/html-template-form-op-vul.md).
+    For more information on the fields, see [HTML Template form](html-template-form-op-vul.md).
 
 4.  Select **Submit**.
 

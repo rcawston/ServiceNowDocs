@@ -41,5 +41,5 @@ The following is a typical workflow for the automated mapping feature.
 -   The Amazing admin activates or triggers the scheduled flow to automatically map OT devices for all sites on an instance.
 -   The Amazing editor can update the records that belong to the sites that they have editing access to.
 
-**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](../task/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
+**Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 

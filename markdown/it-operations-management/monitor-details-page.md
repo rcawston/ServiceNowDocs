@@ -78,7 +78,7 @@ The **Overview** tab provides an aggregated view of all the tests that the monit
 
 ## Details tab
 
-You can use the **Details** tab to create a monitor or edit an existing one. See [Create and edit a synthetic monitor](../task/create-synthetic-monitor.md) for more information.
+You can use the **Details** tab to create a monitor or edit an existing one. See [Create and edit a synthetic monitor](create-synthetic-monitor.md) for more information.
 
 ## Alerts tab
 

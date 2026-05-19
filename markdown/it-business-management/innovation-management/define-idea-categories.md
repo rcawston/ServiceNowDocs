@@ -33,7 +33,7 @@ You can use multiple idea categories with an Idea module, however, you can map o
 
 2.  On the form, fill in the fields.
 
-    For more information, see [Idea category form](../reference/idea-category-form.md).
+    For more information, see [Idea category form](idea-category-form.md).
 
 3.  Select **Submit**.
 
@@ -44,9 +44,9 @@ You can use multiple idea categories with an Idea module, however, you can map o
 
 Map idea categories with your idea module. For more information see, [Configure idea categories](category-configuration-existing-table.md).
 
-**Parent Topic:**[Idea Portal administration](../concept/idea-portal-administration.md)
+**Parent Topic:**[Idea Portal administration](idea-portal-administration.md)
 
 **Previous topic:**[Create an Idea module](create-idea-module.md)
 
-**Next topic:**[Adding Idea Portal to Employee Center](../concept/add-idea-portal-to-employee-center.md)
+**Next topic:**[Adding Idea Portal to Employee Center](add-idea-portal-to-employee-center.md)
 

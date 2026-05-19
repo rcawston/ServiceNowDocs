@@ -52,5 +52,5 @@ Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.hiring\_
     4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Interview Management](../concept/using-interview-mgmnt.md)
+**Parent Topic:**[Using Interview Management](using-interview-mgmnt.md)
 

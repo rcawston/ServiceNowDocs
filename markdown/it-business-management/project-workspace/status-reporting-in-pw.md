@@ -46,8 +46,8 @@ Status report templates simplify the process of generating project updates by pr
 -   One Page Status Report: This template provides a concise one-page summary of key project metrics, making it ideal for quick updates where a high-level overview is sufficient.
 -   Default Status Report: This template includes a more comprehensive range of data points, covering areas such as milestones, risks, issues, decisions, and change requests. It offers a detailed view of the project's progress and status, similar to a classic status report.
 
--   You can create a status report using one of the existing templates: [Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)
--   You can also create your own status report template from scratch: [Create a status report template in Project Workspace](../task/create-a-status-report-template-project-workspace.md)
+-   You can create a status report using one of the existing templates: [Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)
+-   You can also create your own status report template from scratch: [Create a status report template in Project Workspace](create-a-status-report-template-project-workspace.md)
 
 ## Now Assist project status reports
 
@@ -73,9 +73,9 @@ Now Assist health outcomes \(such as red/yellow/green\) are determined by admin-
 **Related topics**  
 
 
-[Analyze the status report in Project Workspace](../task/view-status-report-in-project-workspace.md)
+[Analyze the status report in Project Workspace](view-status-report-in-project-workspace.md)
 
-[Import old project status report to Project Workspace](../task/import-old-status-reports.md)
+[Import old project status report to Project Workspace](import-old-status-reports.md)
 
-[Add dynamic content to status report in Project Workspace](../task/add-dynamic-content-to-status-report-in-pw.md)
+[Add dynamic content to status report in Project Workspace](add-dynamic-content-to-status-report-in-pw.md)
 

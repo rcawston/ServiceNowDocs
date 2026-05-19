@@ -20,7 +20,7 @@ Field Service Management Access Hours Management enables you to schedule work or
 **Related topics**  
 
 
-[Configuring the auto-population of access hours in a work order task](configuring-access-hours.md)
+[Configuring the auto-population of access hours in a work order task](../work-order-management/configuring-access-hours.md)
 
 [Assigning work order task with defined access hours](assign-wot-access-hour.md)
 

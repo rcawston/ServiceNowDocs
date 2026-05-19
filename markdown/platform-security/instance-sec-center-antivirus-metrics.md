@@ -120,7 +120,7 @@ Lists the infected files in the instance quarantined by Antivirus Scanning:
 |Created|Date and time the quarantine file record was created.|
 |Table sys ID|Table system identifier assigned to the quarantine file record.|
 
-**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [Monitor security events](instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](../task/instance-sec-center-configure-event-ribbon.md).
+**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [Monitor security events](instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](instance-sec-center-configure-event-ribbon.md).
 
 **Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 
@@ -129,11 +129,11 @@ Lists the infected files in the instance quarantined by Antivirus Scanning:
 
 [Antivirus Scanning](antivirus-protection.md)
 
-[Configuring Antivirus Scanning](../task/configure-antivirus-protection.md)
+[Configuring Antivirus Scanning](configure-antivirus-protection.md)
 
-[Reviewing quarantined files](../task/resolve-infected-file.md)
+[Reviewing quarantined files](resolve-infected-file.md)
 
-[Review antivirus activity](../task/generate-log-report-of-quarantined-files.md)
+[Review antivirus activity](generate-log-report-of-quarantined-files.md)
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_UsePerformanceAnalyticsScorecards.md)
 

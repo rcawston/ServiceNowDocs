@@ -66,7 +66,7 @@ The portfolio plan is created and the page is refreshed to show the Planning pag
 
 ## What to do next
 
-Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](../concept/prioritizing-work-in-portfolio-planning-workspace.md).
+Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](prioritizing-work-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](managing-portfolio-plans-in-portfolio-planning.md)
 

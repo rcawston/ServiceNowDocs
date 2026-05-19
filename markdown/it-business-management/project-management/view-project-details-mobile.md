@@ -34,5 +34,5 @@ Role required: portfolio\_manager or project\_manager or program\_manager
 **Related topics**  
 
 
-[Manage status of your projects using Project Status application](../concept/mobile-project-status.md)
+[Manage status of your projects using Project Status application](mobile-project-status.md)
 

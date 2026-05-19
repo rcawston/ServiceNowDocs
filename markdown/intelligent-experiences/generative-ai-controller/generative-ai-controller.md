@@ -26,7 +26,7 @@ Get started with Generative AI Controller to integrate directly with external LL
 
 </td><td>
 
-[Configure ![](../../predictive-intelligence/images/icon-configure-pi.png) Configure Generative AI Controller provider capabilities.](../task/configure-generative-ai-controller.md)
+[Configure ![](../../predictive-intelligence/images/icon-configure-pi.png) Configure Generative AI Controller provider capabilities.](configure-generative-ai-controller.md)
 
 </td></tr><tr><td>
 
@@ -34,7 +34,7 @@ Use ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Use Ge
 
 </td><td>
 
-[Reference ![](../../predictive-intelligence/images/icon-references-pi.png) Reference for Generative AI Controller.](../reference/reference-for-generative-ai-controller.md)
+[Reference ![](../../predictive-intelligence/images/icon-references-pi.png) Reference for Generative AI Controller.](reference-for-generative-ai-controller.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -53,5 +53,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../opt-out-of-data-sharing-for-now-assist.md).
 

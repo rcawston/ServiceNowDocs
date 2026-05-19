@@ -27,7 +27,7 @@ Role required: admin or survey\_admin or survey\_creator
 
 3.  On the Trigger Condition form, fill in the fields.
 
-    For a description of the field values, see [Trigger Condition form for surveys](../reference/trigger-condition-form.md).
+    For a description of the field values, see [Trigger Condition form for surveys](trigger-condition-form.md).
 
     You can also create a trigger condition directly from the survey creator. If you select **Certain users can take this survey, based on conditions** in the Survey User Access section, the Trigger Condition form opens automatically when you click **Save as Draft** or **Publish**.
 
@@ -36,10 +36,10 @@ Role required: admin or survey\_admin or survey\_creator
 
 ![Survey Trigger Condition form](../image/SurveyTriggerConditionForm.png "Survey Trigger Condition form")
 
-**Parent Topic:**[Survey trigger conditions](../concept/c_TriggerConditions.md)
+**Parent Topic:**[Survey trigger conditions](c_TriggerConditions.md)
 
 **Related topics**  
 
 
-[Schedule periods](../concept/c_SchedulePeriods.md)
+[Schedule periods](c_SchedulePeriods.md)
 

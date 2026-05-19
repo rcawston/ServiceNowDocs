@@ -63,11 +63,11 @@ Use the template designer for the following tasks:
 
 [Using the template designer](sae-template-designer.md)
 
- [Create an assessment template](../task/sae-asmnt-template-create.md)
+ [Create an assessment template](sae-asmnt-template-create.md)
 
- [Add instructions and questions to an assessment template](../task/sae-asmnt-template-populate.md)
+ [Add instructions and questions to an assessment template](sae-asmnt-template-populate.md)
 
- [Add reference information to an assessment template](../task/sae-asmnt-add-reference.md)
+ [Add reference information to an assessment template](sae-asmnt-add-reference.md)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Combine multiple assigned assessments into a single, streamlined view. You can m
 
 </td><td>
 
-[Submit combined assessments](../task/sae-asmnt-combine.md)
+[Submit combined assessments](sae-asmnt-combine.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Migrate the metric types to the SAE assessment templates to use the assessment d
 
 </td><td>
 
-[Migrate a legacy metric type to an assessment template](../task/sae-asmnt-tmplt-migrate-metrics-to.md)
+[Migrate a legacy metric type to an assessment template](sae-asmnt-tmplt-migrate-metrics-to.md)
 
 </td><td>
 
@@ -177,5 +177,5 @@ sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_manager and sn\_s
     A user with the template admin or template manager role and template \[sn\_smart\_asmt.developer\] role can read, write, and create the script for response automation in assessment questions.
 
 
-For more information, see [Roles installed in Smart Assessment Engine](../reference/sae-roles-defined.md).
+For more information, see [Roles installed in Smart Assessment Engine](sae-roles-defined.md).
 

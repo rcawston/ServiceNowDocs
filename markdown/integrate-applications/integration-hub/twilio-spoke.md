@@ -92,5 +92,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 **Note:** Three connection and credential alias records are needed for the Twilio spoke. One each for Twilio Base, Twilio Notify, and Twilio Messaging. Each alias should be associated with the respective Twilio API.
 
-For information about setting up the spoke, see [Set up Twilio spoke](../task/setup-twilio.md#).
+For information about setting up the spoke, see [Set up Twilio spoke](setup-twilio.md#).
 

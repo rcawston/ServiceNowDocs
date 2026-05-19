@@ -17,7 +17,7 @@ When no locations exist, generate a complete location hierarchy for an ISA equip
 
 ## Before you begin
 
-Ensure the sn\_isa\_model.isa\_entity.validate\_and\_generate\_locations system property is enabled. For more information, see [ISA Equipment Model system properties](../reference/isa-equipment-model-system-properties.md).
+Ensure the sn\_isa\_model.isa\_entity.validate\_and\_generate\_locations system property is enabled. For more information, see [ISA Equipment Model system properties](isa-equipment-model-system-properties.md).
 
 Role required: cmdb\_ot\_isa\_editor
 

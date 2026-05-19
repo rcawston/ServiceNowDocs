@@ -15,7 +15,7 @@ breadcrumb: [Employee Readiness Surveys, Safe Workplace, Health and Safety, Empl
 
 The administrator can add or modify Employee Readiness Surveys notifications. Users with the sn\_imt\_checkin.checkin\_admin or survey\_admin role can view the base system survey and copy it to make changes, or add a new survey.
 
-**Parent Topic:**[Employee Readiness Surveys](../concept/employee-readiness-surveys.md)
+**Parent Topic:**[Employee Readiness Surveys](employee-readiness-surveys.md)
 
 ## Modify the Employee Readiness Surveys notification
 

@@ -24,11 +24,11 @@ Follow these instructions to get started with Now Assist Admin:
 2.  Activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin.
 3.  Install additional plugins, from the Now Assist Admin console.
 4.  The Now Assist Admin console guides your implementation, starting with installation.
-5.  Check out the [Now Assist Journey Checklist for more information.](../../now-assist-platform/concept/configuring-now-assist.md)
+5.  Check out the [Now Assist Journey Checklist for more information.](configuring-now-assist.md)
 
 ## About this task
 
-Then, activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin. to install additional plugins, you must first activate any Now Assist plugin from the ServiceNow StoreThe Now Assist Admin console can guide your implementation, starting with installation. Check out the [Now Assist Journey Checklist for more information.](../../now-assist-platform/concept/configuring-now-assist.md)
+Then, activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin. to install additional plugins, you must first activate any Now Assist plugin from the ServiceNow StoreThe Now Assist Admin console can guide your implementation, starting with installation. Check out the [Now Assist Journey Checklist for more information.](configuring-now-assist.md)
 
 ## Procedure
 
@@ -67,5 +67,5 @@ If you encounter issues installing or updating applications, see this [knowledge
 
 [Activate the Now Assist panel standard chat](activate-now-assist-panel.md) or [Activate a Now Assist skill](configure-a-now-assist-skill.md)
 
-**Parent Topic:**[Configuring Now Assist Admin features](../concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](configuring-na-landing.md)
 

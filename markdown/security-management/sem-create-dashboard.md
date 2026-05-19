@@ -49,5 +49,5 @@ Roles required:
 7.  To update the dashboard, select the **Edit filter** icon.
 
 
-**Parent Topic:**[Using Unified Security Exposure Management](../../security-exposure-management-workspace/concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

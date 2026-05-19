@@ -15,11 +15,11 @@ breadcrumb: [Explore, Digital Portfolio Management, IT Service Management]
 
 The Digital Portfolio Management \(DPM\) Workspace enables you to work in the plan-build-run life-cycle model. You can manage solutions that you own and view solutions that may have an impact on services or products that you care about.
 
-The DPM plan-build-run life cycle surfaces data from other ServiceNow® products in a central location. To view data and take basic actions in the DPM experience, you must install the plugins and roles. For more information, see [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+The DPM plan-build-run life cycle surfaces data from other ServiceNow® products in a central location. To view data and take basic actions in the DPM experience, you must install the plugins and roles. For more information, see [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 Listen to an overview of the DPM team, the application, and how it works for solution owners in the plan-build-run life cycle: [TechBytes, Episode 63](https://www.youtube.com/watch?v=73J2e5FuRwc&t=153s).
 
-The life-cycle management phases come standard with DPM but all records are fully configurable to match how you work. For information on how Admins can control the configuration in DPM, see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md). For information about other configurations, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md).
+The life-cycle management phases come standard with DPM but all records are fully configurable to match how you work. For information on how Admins can control the configuration in DPM, see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md). For information about other configurations, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md).
 
 <table id="table_wrf_jmf_gsb"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Monitor critical key performance indicator \(KPI\) results and operational perfo
 
     -   View flow metrics from DevOps Insights to view details on epics, bugs, stories, and works in progress in the context of your business applications.
     -   View accelerate metrics from the DevOps Change workspace to manage scrum and waterfall development and to gain visibility into your software development life cycle.
-**Note:** To view DevOps accelerate metrics and flow metrics in DPM, admins must enable the DevOps system property. See [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md) for more information.
+**Note:** To view DevOps accelerate metrics and flow metrics in DPM, admins must enable the DevOps system property. See [Configure the Digital Portfolio Management experience](dpm-configure-experience.md) for more information.
 
 
 </td><td>
@@ -91,7 +91,7 @@ Monitor critical key performance indicator \(KPI\) results and operational perfo
     -   Confirm risk conformance and act on risk remediation tasks.
     -   View accelerate metrics from the DevOps Change Workspace to manage scrum and waterfall development and to gain visibility into your software development life cycle.
 
-**Note:** To view DevOps accelerate metrics in DPM, admins must enable the DevOps system property. See [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md) for more information.
+**Note:** To view DevOps accelerate metrics in DPM, admins must enable the DevOps system property. See [Configure the Digital Portfolio Management experience](dpm-configure-experience.md) for more information.
 
 
 </td></tr></tbody>

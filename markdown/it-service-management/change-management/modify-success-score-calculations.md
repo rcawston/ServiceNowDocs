@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Success score calculation](../concept/change-score-calculation.md)
+**Parent Topic:**[Success score calculation](change-score-calculation.md)
 

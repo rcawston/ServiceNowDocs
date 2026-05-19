@@ -56,5 +56,5 @@ Role required: admin
     See [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) for more information on configuration of Now Assist Admin module.
 
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](ia-administer.md)
 

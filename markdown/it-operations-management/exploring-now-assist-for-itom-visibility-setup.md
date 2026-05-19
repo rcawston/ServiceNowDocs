@@ -54,7 +54,7 @@ Reduce setup time for new ITOM Visibility deployments by consolidating the insta
 
 </td><td>
 
-[Install ITOM Visibility using Now Assist for Setup](../task/install-nowassist-setup-itom-visibility.md)
+[Install ITOM Visibility using Now Assist for Setup](install-nowassist-setup-itom-visibility.md)
 
 </td><td>
 

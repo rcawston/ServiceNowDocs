@@ -21,5 +21,5 @@ Ribbons help agents quickly scan relevant information about a record, such as a 
 
 Legacy ribbon widgets work in CSM Configurable Workspace, but not the legacy ribbon configurations. Add ribbon settings to a ribbon configuration to appear in CSM Configurable Workspace.
 
-For more information, see [Set up a ribbon configuration in Configurable Workspace](../task/config-csm-config-ws-ribbon.md).
+For more information, see [Set up a ribbon configuration in Configurable Workspace](config-csm-config-ws-ribbon.md).
 

@@ -281,6 +281,6 @@ Role required: admin
 
 Select the installed certificate in the **Certificate** field to do either of the following actions:
 
--   To set up the Unattended Robot. For more information, see [Set up Unattended Robot](../../rpa-runtime/task/set-up-rpa-runtime.md).
--   To publish an automation project in RPA Desktop Design Studio. For more information, see [Publish an automation project in RPA Desktop Design Studio](../../rpa-studio/task/publish-automation-project.md).
+-   To set up the Unattended Robot. For more information, see [Set up Unattended Robot](set-up-rpa-runtime.md).
+-   To publish an automation project in RPA Desktop Design Studio. For more information, see [Publish an automation project in RPA Desktop Design Studio](publish-automation-project.md).
 

@@ -63,5 +63,5 @@ Steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Multicurrency in Demand Management](../concept/multicurrency-demand.md)
+**Parent Topic:**[Multicurrency in Demand Management](multicurrency-demand.md)
 

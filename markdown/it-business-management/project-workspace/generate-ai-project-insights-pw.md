@@ -57,5 +57,5 @@ The project insights are generated from the AI insights page with access to curr
     -   From the AI insights page, select **Regenerate** icon.
     -   Now Assist generates updated project insights.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

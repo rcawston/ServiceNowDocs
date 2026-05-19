@@ -45,7 +45,7 @@ Parent table
 
 </td><td>
 
-Parent table available for the employee form. Parent table is a department-specific table associated to a universal task. For more information configuring a parent table, see [Configure Universal Task for your service](../task/config-ut-for-service.md).**Note:**
+Parent table available for the employee form. Parent table is a department-specific table associated to a universal task. For more information configuring a parent table, see [Configure Universal Task for your service](config-ut-for-service.md).**Note:**
 
 -   Only the tables that are configured for Universal Task with **Collect Employee Input** task type can be selected.
 -   You can select a parent table only if you have write access to it.
@@ -67,5 +67,5 @@ State
 State of the form. This field gets auto-populated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Task reference](../concept/universal-task-reference.md)
+</table>**Parent Topic:**[Universal Task reference](universal-task-reference.md)
 

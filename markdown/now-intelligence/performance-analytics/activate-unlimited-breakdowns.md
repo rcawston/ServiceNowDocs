@@ -21,7 +21,7 @@ You have to meet the following requirements:
 
 -   Your instance must be running the RaptorDB Professional database.
 -   The Data Snapshots \(com.snc.pa.mlb\) plugin must be activated on the instance.
--   To use Data snapshots on a production instance, you must have a subscription to Performance Analytics as described in [Activating your Performance Analytics subscription](../concept/c_PremiumPerformanceAnalytics.md#). On a non-production instance, activate any of the Performance Analytics Premium plugins.
+-   To use Data snapshots on a production instance, you must have a subscription to Performance Analytics as described in [Activating your Performance Analytics subscription](c_PremiumPerformanceAnalytics.md#). On a non-production instance, activate any of the Performance Analytics Premium plugins.
 -   Your instance must not be domain-separated.
 
 **Warning:** Data snapshots is deactivated on the instance if the Data Snapshots plugin is deactivated or domain separation is activated. If you want to re-activate Data snapshots on such an instance, contact Now Support.
@@ -30,7 +30,7 @@ Role required: pa\_data\_collector or higher
 
 ## About this task
 
-Certain indicators support more than two levels of breakdown. This feature is called multiple breakdowns, and is one of the features of Data snapshots. This feature is not available for all indicators. For a list of restrictions, see [Limitations and requirements for Data snapshots](../reference/limitations-mlb.md).
+Certain indicators support more than two levels of breakdown. This feature is called multiple breakdowns, and is one of the features of Data snapshots. This feature is not available for all indicators. For a list of restrictions, see [Limitations and requirements for Data snapshots](limitations-mlb.md).
 
 You have to activate Data snapshots for the instance by enabling the Data Snapshots \(com.snc.pa.mlb\) plugin. You then have to activate Data snapshots for each indicator, either one-at-a-time or in bulk.
 
@@ -69,7 +69,7 @@ All eligible selected indicators now have Data snapshots enabled and thus suppor
 
 To see why a specific indicator does not support Data snapshots \(Data snapshots status = unsupported\), you can examine its indicator record. Select the Edit icon ![Edit icon](../../../administer/process-mining/image/edit-icon.png) for that indicator to open its record. Decide whether to alter the indicator and try to activate Data snapshots for it.
 
-**Parent Topic:**[Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md)
+**Parent Topic:**[Data snapshots and multiple breakdowns](multi-level-breakdowns.md)
 
 **Related topics**  
 
@@ -113,7 +113,7 @@ Role required:
 
     A modal opens explaining the process of enabling Data snapshots:
 
-    -   That the indicator will be linked to an appropriate [Data snapshots source](../reference/tables-unlimited-breakdowns.md) if one exists
+    -   That the indicator will be linked to an appropriate [Data snapshots source](tables-unlimited-breakdowns.md) if one exists
     -   That if no suitable Data snapshots source exists, one will be created
     -   Which of the requirements for Data snapshots are met or not met
     -   Whether the record volume is within the allowed threshold for your license

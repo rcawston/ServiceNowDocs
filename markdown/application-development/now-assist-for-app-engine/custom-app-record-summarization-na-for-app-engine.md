@@ -65,7 +65,7 @@ You can choose where you want record summarization to be available to your appli
 
     For more information about adding record summarization to a workspace, see the following resources:
 
-    -   [Customize UI Builder pages using components](../../../administer/ui-builder/concept/work-components.md)
+    -   [Customize UI Builder pages using components](../ui-builder/work-components.md)
     -   [Components documentation for the AI summary card](https://horizon.servicenow.com/workspace/components/now-ai-summary-card?release=zurich)
     -   [UI Builder setup documentation for the AI summary card](https://developer.servicenow.com/dev.do#!/reference/next-experience/zurich/now-components/now-ai-summary-card/uib-setup)
 -   **Now Assist panel**

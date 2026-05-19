@@ -41,5 +41,5 @@ Role required: admin
 
 [Create new highlighted values for Prioritization columns in Strategic Planning](customize-highlighted-fields-prioritzation-page-strategic-planning-workspace.md)
 
-**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
+**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](customizing-highlighted-fields-prioritization-page-strategic-planning.md)
 

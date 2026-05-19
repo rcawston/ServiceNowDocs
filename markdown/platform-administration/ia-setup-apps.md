@@ -77,8 +77,8 @@ Role required: admin
 
 9.  Select **Configure** to move to the Configuration Console page.
 
-    See [Configure in Now Assist for Setup](../concept/ia-config-landing.md) for more information.
+    See [Configure in Now Assist for Setup](ia-config-landing.md) for more information.
 
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](ia-administer.md)
 

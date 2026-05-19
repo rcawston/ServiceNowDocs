@@ -247,5 +247,5 @@ The href uses the package UUID. If the package was imported, it uses the UUID fr
 
 Custom properties contain CAM-specific data not natively supported by OSCAL standards. These properties use the ServiceNow namespace \(identified by "ns:servicenow" in the JSON\). Custom properties include engagement-specific fields such as fieldwork dates, budget information, and control test methods. Documentation of all custom properties is available on the ServiceNow product documentation site.
 
-**Parent Topic:**[CAM OSCAL](../../grc-cam-workspace/concept/oscal-cam-ws.md)
+**Parent Topic:**[CAM OSCAL](oscal-cam-ws.md)
 

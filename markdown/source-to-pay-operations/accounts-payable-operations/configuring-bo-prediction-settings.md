@@ -16,7 +16,7 @@ breadcrumb: [Recommend invoice owner AI agent, Using AI agents in Now Assist for
 
 The Recommend invoice owner AI agent uses a set of configurable system properties. These properties define the logic to identify and assign business owners for Non-PO invoices and Non-PO credit memos.
 
-Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Properties** to access the invoice owner prediction settings. These settings influence the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The AP admin can modify these settings. For more information on the settings, see [Set APO properties](../task/set-apo-properties.md).
+Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Properties** to access the invoice owner prediction settings. These settings influence the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The AP admin can modify these settings. For more information on the settings, see [Set APO properties](set-apo-properties.md).
 
 ![Use theInvoice owner prediction settings to check the number of historical invoices analyzed, the time considered, and the confidence threshold used to make recommendations. The screenshot shows the default values.](../image/apo-invoice-owner-prediction.png)
 
@@ -84,5 +84,5 @@ No
 </table>**Related topics**  
 
 
-[Set APO properties](../task/set-apo-properties.md)
+[Set APO properties](set-apo-properties.md)
 

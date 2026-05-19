@@ -45,5 +45,5 @@ When you create a disclosure, that disclosure is the primary document. While you
 7.  To view the document details, select the document and on the Attachments side panel, the details are displayed.
 
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

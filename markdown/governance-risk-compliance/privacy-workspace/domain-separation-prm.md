@@ -74,5 +74,5 @@ While the behavior offered with domain separation provides multi-tenancy support
 
 If you need complete and total separation of all system properties and do not require global reporting or global processes, separate instances are the best option.
 
-**Parent Topic:**[Privacy Management reference](../reference/privacy-mgmt-reference.md)
+**Parent Topic:**[Privacy Management reference](privacy-mgmt-reference.md)
 

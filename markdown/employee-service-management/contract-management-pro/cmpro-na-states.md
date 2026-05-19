@@ -36,5 +36,5 @@ The following table describes the status of the documents in the Analyze contrac
 |Analysis in progress|Now Assist analysis is in progress.|
 |Error|Error occurred while evaluating the details for the contract analysis.|
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](cncore-NA-review-land.md)
 

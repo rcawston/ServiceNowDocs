@@ -15,7 +15,7 @@ Before creating an app in ServiceNow, determine if the idea is a good candidate 
 
 Consider the following questions to determine if you should create an application.
 
--   Can you configure or customize an existing application instead of building a new one? For more information, see [Modifying versus building an application](../../custom-application/concept/modifying-versus-building-an-application.md).
+-   Can you configure or customize an existing application instead of building a new one? For more information, see [Modifying versus building an application](modifying-versus-building-an-application.md).
 -   How many people will the application serve, and how often would they use it? If not many people would use it frequently, is it worth the effort?
 -   Are you willing to maintain the application as things change over time?
 

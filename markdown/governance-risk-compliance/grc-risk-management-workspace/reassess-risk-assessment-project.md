@@ -48,5 +48,5 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 [Perform assessment on a risk assessment project in stacked view](perform-assessment-on-risk-assessment-project.md)
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](risk-assessment-project.md)
 

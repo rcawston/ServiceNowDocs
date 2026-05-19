@@ -254,7 +254,7 @@ Enter a confidence value \(0–100\) for indicators with unverified malicious co
     For more information, see [Duplicate threat intelligence feeds](tisc-duplicate-feeds.md).
 
 
--   **[System Properties for CrowdStrike](../concept/premium-threat-feed-system-properties.md)**  
+-   **[System Properties for CrowdStrike](premium-threat-feed-system-properties.md)**  
 The following details the system properties for CrowdStrike.
 
 **Parent Topic:**[View Custom Feed](view-oob-custom-feeds.md)

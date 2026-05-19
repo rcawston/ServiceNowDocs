@@ -60,7 +60,7 @@ To improve security on your mobile device, block the logging in of mobile apps w
 
 **glide.sg.allow\_rooted\_jailbroken\_devices system**
 
-For more information, see [Configure the status for rooted and jailbroken devices](../task/configure-rooted-jailbroken-devices.md).
+For more information, see [Configure the status for rooted and jailbroken devices](configure-rooted-jailbroken-devices.md).
 
 ## Penetration testing
 

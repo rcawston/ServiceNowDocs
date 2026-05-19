@@ -135,7 +135,7 @@ Configure word document templates for contract to streamline and reduce the need
 
 </td><td>
 
-[Word Document Templates](../../contract-mgmt-pro/concept/cncore-expl-wdt.md)
+[Word Document Templates](../contract-management-pro/cncore-expl-wdt.md)
 
 </td><td>
 
@@ -147,7 +147,7 @@ Effectively manage a library of clause variations. Use clause variations to dyna
 
 </td><td>
 
-[Clause Management](../../contract-mgmt-pro/concept/cncore-expl-clause-mgmt.md)
+[Clause Management](../contract-management-pro/cncore-expl-clause-mgmt.md)
 
 </td><td>
 
@@ -159,7 +159,7 @@ Use Microsoft Word documents to add content controls that act as placeholders fo
 
 </td><td>
 
-[Microsoft Word add-in for ServiceNow Contracts](../../contract-mgmt-pro/concept/cncore-expl-snc-addin.md)
+[Microsoft Word add-in for ServiceNow Contracts](../contract-management-pro/cncore-expl-snc-addin.md)
 
 </td><td>
 
@@ -184,7 +184,7 @@ Track and manage contract obligations to help ensure compliance and minimize ris
 
 </td><td>
 
-[Obligation Management](../../contract-mgmt-pro/concept/cncore-obligation-management.md)
+[Obligation Management](../contract-management-pro/cncore-obligation-management.md)
 
 </td><td>
 
@@ -196,7 +196,7 @@ Use Now Assist in Contract Management to analyze contracts for non-standard and 
 
 </td><td>
 
-[Now Assist in Contract Management](../../contract-mgmt-pro/concept/cncore-now-assit-landing.md)
+[Now Assist in Contract Management](../contract-management-pro/cncore-now-assit-landing.md)
 
 </td><td>
 
@@ -208,8 +208,8 @@ Now Assist contract fulfiller
 To learn more about configuring and using , see:
 
 -   [Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md)
--   -   [Non-disclosure agreement requests](snlc-request-nda-1.md)
--   [Third-party contract review requests](snlc-request-third-party-contract-1.md)
+-   -   [Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
+-   [Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 -   [Contract Management Pro for Legal Service Delivery reference](snlc-ref-sn-legal-contracts.md)
 
 -   **[Contract Management Pro for Legal Service Delivery](snlc-expl-legal-contracts.md)**  

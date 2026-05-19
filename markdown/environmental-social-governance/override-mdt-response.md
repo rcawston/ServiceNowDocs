@@ -34,5 +34,5 @@ Role required: admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

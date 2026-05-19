@@ -45,7 +45,7 @@ Notifications are sent to employees, managers, and mentors that are associated w
 
 **Note:** For a holistic experience of the journey outcome in Virtual Agent, turn on all the six Journey created scenario notifications \(Manager, Mentor, and Employee\).
 
-For more information about HR Service Delivery Virtual Agent Conversations and topic blocks, see [Virtual Agent for HR Service Delivery](hr-virtual-agent-conversations.md#).
+For more information about HR Service Delivery Virtual Agent Conversations and topic blocks, see [Virtual Agent for HR Service Delivery](../hr-service-delivery/hr-virtual-agent-conversations.md#).
 
 ## Actionable notification in the Journey designer app
 
@@ -68,5 +68,5 @@ There are four action topics linked to Journey designer provided in the base sys
 
 You can also associate other actions with the notifications. For more information, see [Add actions to the notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/noti-select-provider-actions-order.md).
 
-**Parent Topic:**[Integrations for Journey designer app](jny-integrations-1.md)
+**Parent Topic:**[Integrations for Journey designer app](../employee-service-management/jny-integrations-1.md)
 

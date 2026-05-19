@@ -21,7 +21,7 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 Two download types are supported: \(1\) Excel master template — for internal review and analysis; does NOT require Competent Authority, Reference Date, or Date of Reporting fields. \(2\) Plain-CSV reporting package — for regulatory submission; requires Competent Authority, Reference Date, and Date of Reporting; includes Level 3 DPM validation on generation. Currency conversion and aggregation settings are available for both types.
 
-Once the instance is activated, currency rates populate automatically via a daily scheduled job. To align with regulator requirements, administrators or DORA administrators can update currency rates and validation rules at **All &gt; Digital Operational Resilience Management &gt; Digital Resilience Choices or DPM Business Validation Rules**. For more information, see [Currency conversion and third-party aggregation](../concept/currency-conversion-aggregation.md).
+Once the instance is activated, currency rates populate automatically via a daily scheduled job. To align with regulator requirements, administrators or DORA administrators can update currency rates and validation rules at **All &gt; Digital Operational Resilience Management &gt; Digital Resilience Choices or DPM Business Validation Rules**. For more information, see [Currency conversion and third-party aggregation](currency-conversion-aggregation.md).
 
 ![DPM business validation rules.](../image/dora-excel-validation-rules.png)
 
@@ -106,5 +106,5 @@ Once the instance is activated, currency rates populate automatically via a dail
     **Note:** If any providers were ineligible for aggregation, the aggregation summary and detail reports identify those providers and explain the reason they were skipped.
 
 
-**Parent Topic:**[Currency conversion and third-party aggregation](../concept/currency-conversion-aggregation.md)
+**Parent Topic:**[Currency conversion and third-party aggregation](currency-conversion-aggregation.md)
 

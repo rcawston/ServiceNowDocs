@@ -110,13 +110,13 @@ Remember that the REST API calls take place inside the MID Server script include
 
 ## Get started here
 
-1.  [Review CAPI APIs that are provided with Cloud Provisioning and Governance by default](../reference/default-apis.md).
+1.  [Review CAPI APIs that are provided with Cloud Provisioning and Governance by default](default-apis.md).
 2.  [Review the CAPI classes that are provided by default](mid-server-script-includes.md). These classes can be called from the MID Server script includes in your CAPI API operations.
-3.  Walk through the provisioning of an [Azure virtual machine](../task/walk-through-azure-provisioning.md) and an [AWS virtual machine](../task/walk-through-provisioning.md) to see how the components work together. The Azure walkthrough uses a MID Server script include so you can see the various CAPI classes used in the provision operation. The AWS walkthrough does not use a MID Server script include.
-4.  [Add a product to an existing provider in CAPI](../task/create-provider.md).
-5.  [Create a CI class for a virtual cloud resource](../task/create-a-ci-class-cloud.md).
-6.  [Create or extend a CAPI interface](../task/create-interface.md).
-7.  [Create a CAPI API](../task/create-api.md), and a custom MID Server script include that makes the REST calls to the cloud provider. An empty MID Server script include is always generated for new CAPI APIs. Modify it with the calls to other JavaScript classes and methods, such as the methods in the Invoker class.
+3.  Walk through the provisioning of an [Azure virtual machine](walk-through-azure-provisioning.md) and an [AWS virtual machine](walk-through-provisioning.md) to see how the components work together. The Azure walkthrough uses a MID Server script include so you can see the various CAPI classes used in the provision operation. The AWS walkthrough does not use a MID Server script include.
+4.  [Add a product to an existing provider in CAPI](create-provider.md).
+5.  [Create a CI class for a virtual cloud resource](create-a-ci-class-cloud.md).
+6.  [Create or extend a CAPI interface](create-interface.md).
+7.  [Create a CAPI API](create-api.md), and a custom MID Server script include that makes the REST calls to the cloud provider. An empty MID Server script include is always generated for new CAPI APIs. Modify it with the calls to other JavaScript classes and methods, such as the methods in the Invoker class.
 
 **Parent Topic:**[Cloud Provisioning and Governance](cloud-management-v2-landing-page.md)
 

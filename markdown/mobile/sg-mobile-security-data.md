@@ -62,7 +62,7 @@ Offline data is protected by local-auth and the app PIN that can be optionally e
 
 ## Disabling mobile attachments
 
-You can disable attachments for mobile apps by using access control rules. For more details on this process see [Disable attachments in mobile apps](../task/sg-disable-mobile-attach.md).
+You can disable attachments for mobile apps by using access control rules. For more details on this process see [Disable attachments in mobile apps](sg-disable-mobile-attach.md).
 
 **Parent Topic:**[Device security for ServiceNow Mobile apps](sg-mobile-security.md)
 

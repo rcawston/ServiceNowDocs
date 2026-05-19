@@ -46,5 +46,5 @@ Role required: admin
 
 After saving a filter you can load it in the **Advanced View** using the **Use existing filter** button.
 
-**Parent Topic:**[All settings](../concept/all-settings.md)
+**Parent Topic:**[All settings](all-settings.md)
 

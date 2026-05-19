@@ -40,7 +40,7 @@ Role required: ts\_admin or admin
 
 Text searches on this table use the selected synonym dictionaries.
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
 **Related topics**  
 

@@ -35,10 +35,10 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 6.  On the Create New Invoice task form, fill in the fields.
 
-    For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+    For a description of the field values, see [Create New Invoice task form](create-apm-task-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](work-with-inquiry-cases.md)
 

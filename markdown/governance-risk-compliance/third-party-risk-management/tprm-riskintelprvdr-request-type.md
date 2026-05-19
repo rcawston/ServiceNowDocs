@@ -36,5 +36,5 @@ A request type is the name of the report available for the provider. Request typ
 
 You can now request different types of risk scores from the risk intelligence provider.
 
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](tprm-riskintelprvdr-overview.md)
 

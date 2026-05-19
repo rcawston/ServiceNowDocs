@@ -40,18 +40,18 @@ You can perform this activity only from your desktop.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Using Shopping Hub Mobile](../concept/using-sh-mobile.md)
+**Parent Topic:**[Using Shopping Hub Mobile](using-sh-mobile.md)
 
 **Related topics**  
 
 
-[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 
 [View and revise your purchase from your mobile device](view-revise-purchase-mobile.md)
 
-[Shopping Hub Mobile](../concept/shoppinghub-mobile.md)
+[Shopping Hub Mobile](shoppinghub-mobile.md)
 
-[My purchases on your mobile](../concept/my-purchases-mobile.md)
+[My purchases on your mobile](my-purchases-mobile.md)
 
 [View and revise your purchase from your mobile device](view-revise-purchase-mobile.md)
 

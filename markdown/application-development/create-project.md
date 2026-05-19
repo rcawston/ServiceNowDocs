@@ -67,5 +67,5 @@ Role required: none.
 -   **[Import an application into Visual Studio Code](vscode-import-application.md)**  
 After you create a project, import an application from your instance into the project to begin editing.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

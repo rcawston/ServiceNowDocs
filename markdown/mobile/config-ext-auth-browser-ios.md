@@ -95,5 +95,5 @@ To enable end users to access links on different platforms that use the same SSO
 6.  Select **Update** to save your changes.
 
 
-**Parent Topic:**[Mobile authentication](../concept/mobile-authentication.md)
+**Parent Topic:**[Mobile authentication](mobile-authentication.md)
 

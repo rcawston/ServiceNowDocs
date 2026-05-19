@@ -126,7 +126,7 @@ The record producer is created.
 
 Link the record producer to the workplace service, see [Create a Workplace service](create-workplace-service.md).
 
-**Parent Topic:**[Configuring Workplace Case Management](../concept/workplace-case-mgmt-setup.md)
+**Parent Topic:**[Configuring Workplace Case Management](workplace-case-mgmt-setup.md)
 
 **Related topics**  
 
@@ -139,13 +139,13 @@ Link the record producer to the workplace service, see [Create a Workplace servi
 
 [Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
 
-[Automating seat assignment for new hires](../concept/auto-assign-new-hires.md)
+[Automating seat assignment for new hires](auto-assign-new-hires.md)
 
 [Configure Approval options](config-approval-optns.md)
 
-[Configuring a record producer for request edit](../concept/config-case-edit-rp.md)
+[Configuring a record producer for request edit](config-case-edit-rp.md)
 
-[Configuring a record producer for reservation](../concept/config-reservation-rp.md)
+[Configuring a record producer for reservation](config-reservation-rp.md)
 
 [Create an SLA Definition](create-sla-defn-case-mgmt.md)
 

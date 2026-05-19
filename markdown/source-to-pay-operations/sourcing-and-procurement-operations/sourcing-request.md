@@ -47,7 +47,7 @@ Assigned to
 
 </td><td>
 
-User who is responsible for the purchase. Determined using purchasing assignment rules. For details, see [Create a purchasing assignment rule](../task/create-purchasing-assignment-rule.md).
+User who is responsible for the purchase. Determined using purchasing assignment rules. For details, see [Create a purchasing assignment rule](create-purchasing-assignment-rule.md).
 
 </td></tr><tr><td>
 
@@ -330,7 +330,7 @@ The default states that are available for a sourcing request are listed.
 
 For more information on NEGs and NEs, see [Negotiations](negotiations.md) and [Sourcing events](negotiation-events.md) respectively.
 
-For information on how a supplier tiering assessment task influences SR states, see [Sourcing and Procurement Operations integration with Third-party Risk Management](../concept/better-together-with-vrm.md).
+For information on how a supplier tiering assessment task influences SR states, see [Sourcing and Procurement Operations integration with Third-party Risk Management](better-together-with-vrm.md).
 
 For a list of all sourcing request states and the conditions that trigger each state change, see [Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md).
 

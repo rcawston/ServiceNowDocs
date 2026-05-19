@@ -79,5 +79,5 @@ After the record is saved, and the **Active** field is enabled, new data created
 
 ![Shows a diagram of multiple modules.](../../key-management-framework/image/MultipleModules.png)
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

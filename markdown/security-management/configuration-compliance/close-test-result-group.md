@@ -45,5 +45,5 @@ When you resolve a remediation task, the resolution notes reflects in the work n
 **Related topics**  
 
 
-[Configuration Compliance states](../concept/vuln-config-compl-states.md)
+[Configuration Compliance states](vuln-config-compl-states.md)
 

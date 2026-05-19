@@ -59,17 +59,17 @@ Learn about the various SAFe entities that are used to successfully plan, track,
     Program Increments in SAFe are further segmented into sprints for teams involved in it, and are measured in terms of weeks.
 
 
--   **[Define an epic in SAFe](../task/create-SAFeepic.md)**  
+-   **[Define an epic in SAFe](create-SAFeepic.md)**  
 Create an epic within SAFe. An epic is the largest unit of work that has one common objective such customer request, or business requirement. An epic is further decomposed into features for implementation and delivery by SAFe agile release trains \(ARTs\).
--   **[Define a feature in SAFe](../task/create-SAFefeature.md)**  
+-   **[Define a feature in SAFe](create-SAFefeature.md)**  
 Create a feature in SAFe and break it down into smaller user stories for implementation and delivery by SAFe teams.
--   **[Define a story in SAFe](../task/create-SAFestory.md)**  
+-   **[Define a story in SAFe](create-SAFestory.md)**  
 Create high-level definitions of your requirements in the form of stories in SAFe.
--   **[Define an Agile Release Train](../task/create-SAFeprogram.md)**  
+-   **[Define an Agile Release Train](create-SAFeprogram.md)**  
 From SAFe, define an Agile Release Train \(ART\) which is a group of agile teams working towards a single solution.
--   **[Define a program increment in SAFe](../task/create-SAFeprogramincrement.md)**  
+-   **[Define a program increment in SAFe](create-SAFeprogramincrement.md)**  
 With SAFe, define a program increment \(PI\). A program increment is typically 8–12 weeks long, during which an ART delivers incremental value in the form of working, tested software and systems.
--   **[Define a SAFe team](../task/create-SAFeteams.md)**  
+-   **[Define a SAFe team](create-SAFeteams.md)**  
 From SAFe, create an agile team and associate it to an ART.
 
 **Parent Topic:**[Essential SAFe](essential-overview.md)
@@ -77,9 +77,9 @@ From SAFe, create an agile team and associate it to an ART.
 **Related topics**  
 
 
-[Components installed with Essential SAFe](../reference/installed-with-EssentialSAFe.md)
+[Components installed with Essential SAFe](installed-with-EssentialSAFe.md)
 
-[Quick start tests for Essential SAFe](../../../administer/atf-quick-start-tests/reference/quick-start-tests-essentialSAFe.md)
+[Quick start tests for Essential SAFe](quick-start-tests-essentialSAFe.md)
 
 [SAFe PI objectives](safe-pi-objectives.md)
 

@@ -15,10 +15,10 @@ The SAP S/4HANA connector provides read-only access to data and metadata from an
 
 A connection admin can create a connection to SAP S/4HANA and give data stewards access to that connection in Zero Copy Connector Hub. A data steward can select the established connection to create a data fabric table and map data from SAP S/4HANA. This allows users to retrieve SAP S/4HANA data through the table list view or GlideRecord scripts.
 
-For details on implementation, refer to [Zero Copy Connector for ERP](../../erp-integration/concept/erp-integration-overview.md).
+For details on implementation, refer to [Zero Copy Connector for ERP](erp-integration-framework/erp-integration-overview.md).
 
 **Related topics**  
 
 
-[Create an SAP S/4HANA connection](../task/create-sap-s4hana-connection-primary.md)
+[Create an SAP S/4HANA connection](create-sap-s4hana-connection-primary.md)
 

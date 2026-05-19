@@ -18,7 +18,7 @@ View the results of command validation tasks to verify you have the correct cred
 ## Before you begin
 
 -   Verify that Pattern Designer Enhancements \(sn\_itom\_pde\) is installed.
--   Verify that a command validation task has been created. For more information, see [Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md).
+-   Verify that a command validation task has been created. For more information, see [Validate commands used in pattern-based discovery](validate-discovery-commands.md).
 
 Role required: One of the following.
 
@@ -61,9 +61,9 @@ If you're using the discovery\_admin role and a command fails, follow the remedi
 **Related topics**  
 
 
-[Command Validation Tasks form for pattern-based discovery](../../it-operations-management/reference/command-validation-reference.md)
+[Command Validation Tasks form for pattern-based discovery](command-validation-reference.md)
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 
-[Command List form for pattern-based discovery](../../it-operations-management/reference/commands-list-discovery.md)
+[Command List form for pattern-based discovery](commands-list-discovery.md)
 

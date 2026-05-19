@@ -19,7 +19,7 @@ Role required: sales\_agent
 
 ## About this task
 
-You can add opportunity lines by location if the [location-based transactions property](som-activate-location-filter.md) is enabled by your admin and [eligibility rule filters and product eligibility rules](../concept/config-location-transaction.md) have been configured by your product catalog admin for location-based transactions.
+You can add opportunity lines by location if the [location-based transactions property](som-activate-location-filter.md) is enabled by your admin and [eligibility rule filters and product eligibility rules](config-location-transaction.md) have been configured by your product catalog admin for location-based transactions.
 
 ## Procedure
 
@@ -38,5 +38,5 @@ You can add opportunity lines by location if the [location-based transactions pr
 5.  Navigate to the **Line Items** tab to view the details of the newly added opportunity line item.
 
 
-**Parent Topic:**[Location-based transactions for Opportunity Management](../concept/location_based_transactions_for_opportunity.md)
+**Parent Topic:**[Location-based transactions for Opportunity Management](location_based_transactions_for_opportunity.md)
 

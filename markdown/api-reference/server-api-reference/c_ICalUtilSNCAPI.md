@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The ICalUtilSNC script include provides functions to generate iCalendar compliant events.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ICalUtilSNC - formatICalComponent\(Array arrEvents\)
 

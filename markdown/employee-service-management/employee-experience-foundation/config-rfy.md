@@ -29,7 +29,7 @@ Role required: sp\_admin or admin
 
 3.  Map the **Taxonomy** that you created or use the default **Employee** taxonomy at the portal level.
 
-    For more information on taxonomy, see [Unified Taxonomy for Employee Center](../concept/config-taxonomy.md).
+    For more information on taxonomy, see [Unified Taxonomy for Employee Center](config-taxonomy.md).
 
 4.  Navigate to **System Definition** &gt; **Fix Scripts**.
 

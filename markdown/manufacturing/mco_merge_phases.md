@@ -40,5 +40,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 The current phase or sub-phase state is canceled, and all associated assets are transferred to the target phase.
 
-**Parent Topic:**[Recall management](../concept/mco-recall-management.md)
+**Parent Topic:**[Recall management](mco-recall-management.md)
 

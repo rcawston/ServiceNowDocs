@@ -17,7 +17,7 @@ Add teams to your scrum program to assign work and track the progress of the wor
 
 ## Before you begin
 
-Ensure that the teams that work on this scrum program are created as agile groups. For the procedure to create an agile group and assign members to it, see [Create an agile group in Agile Development 2.0](../../agile-development/task/create-an-agile-group.md#).
+Ensure that the teams that work on this scrum program are created as agile groups. For the procedure to create an agile group and assign members to it, see [Create an agile group in Agile Development 2.0](create-an-agile-group.md#).
 
 Role required: it\_program\_manager
 
@@ -40,5 +40,5 @@ Role required: it\_program\_manager
 
 [Plan a scrum program](plan-scrum-program.md).
 
-**Parent Topic:**[Scrum Programs for Agile Development 2.0](../concept/scrum-programs-concept.md)
+**Parent Topic:**[Scrum Programs for Agile Development 2.0](scrum-programs-concept.md)
 

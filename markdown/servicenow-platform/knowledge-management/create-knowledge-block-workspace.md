@@ -87,7 +87,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](../concept/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Version
 
 </td><td>
 
-Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](../concept/article-versioning.md).
+Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](article-versioning.md).
 
 </td></tr><tr><td>
 

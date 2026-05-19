@@ -25,7 +25,7 @@ At least one of the following properties or sets of properties must be provided:
 -   country
 -   latitude and longitude
 
--   **[Define Location](../task/define-location.md)**  
+-   **[Define Location](define-location.md)**  
 Define a geographic location to provide more context to other SDOs.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Financial Services Payment Operations
 
-All [Financial Services Operations \(FSO\)](../../fso-common/concept/fso-overview.md) applications are built on top of Customer Service Management \(CSM\) and use many CSM tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
+All [Financial Services Operations \(FSO\)](../fso-overview.md) applications are built on top of Customer Service Management \(CSM\) and use many CSM tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
 
 ## Tables
 

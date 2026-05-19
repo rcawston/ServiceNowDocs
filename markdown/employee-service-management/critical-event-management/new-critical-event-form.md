@@ -153,5 +153,5 @@ Close notes
 Comments about the critical event closure.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+</table>**Parent Topic:**[Critical Event Management reference](critical-event-management-reference.md)
 

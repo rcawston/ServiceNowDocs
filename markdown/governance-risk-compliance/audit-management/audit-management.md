@@ -35,7 +35,7 @@ Auditors are responsible for the following:
 
 ![Audit Management and the ServiceNow AI Platform](../image/mmasset0021307-audit-servicenow-solution-horizontal.png "Audit Management and the ServiceNow AI Platform")
 
-**Note:** For more information on the GRC application nomenclature and industry terminology, see [Governance, Risk, and Compliance application nomenclature updates and industry terminology](../../grc-common/reference/grc-terms.md).
+**Note:** For more information on the GRC application nomenclature and industry terminology, see [Governance, Risk, and Compliance application nomenclature updates and industry terminology](../grc-common-functions/grc-terms.md).
 
 **Parent Topic:**[Audit Management](c_GRCAudits.md)
 

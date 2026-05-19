@@ -46,5 +46,5 @@ Role required: admin
     For more information, see [Configure Application Registry on the ServiceNow instance](app-registry-chat-single-tenant.md#).
 
 
-**Parent Topic:**[Working on campaigns in Microsoft Teams](../concept/using-campaigns-ms-teams.md)
+**Parent Topic:**[Working on campaigns in Microsoft Teams](using-campaigns-ms-teams.md)
 

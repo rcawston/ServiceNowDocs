@@ -22,7 +22,7 @@ Using the Enterprise Architecture Workspace, business units can manage their bus
 **Related topics**  
 
 
-[View all business units](../../task/eaw-task/eaw-view-all-business-units.md)
+[View all business units](eaw-view-all-business-units.md)
 
-[Add or edit a business unit](../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
+[Add or edit a business unit](eaw-add-or-edit-a-business-unit.md)
 

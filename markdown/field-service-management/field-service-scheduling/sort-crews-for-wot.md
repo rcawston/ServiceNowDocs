@@ -43,7 +43,7 @@ Crews are sorted in alphabetic order by default. Agents are recommended based on
 
     **Note:**
 
-    The agent panel displays a task-specific crew on the top of the list if one has been created for the selected work order task. For more information, see [Create ad hoc task-specific crews](create-adhoc-crew.md)
+    The agent panel displays a task-specific crew on the top of the list if one has been created for the selected work order task. For more information, see [Create ad hoc task-specific crews](../workforce-optimization-for-field-service/create-adhoc-crew.md)
 
 5.  Sort the crew list based on distance or skills.
 

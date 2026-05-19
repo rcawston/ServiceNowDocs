@@ -65,7 +65,7 @@ Files attached to an article. This section appears only when the attachments are
 3.  Respond to and evaluate the article.
 
 
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](mobile-experience-for-km.md)
 
 **Related topics**  
 

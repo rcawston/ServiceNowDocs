@@ -30,7 +30,7 @@ Role required: personalize\_dictionary or admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](c_DocumentFeeds.md)
 
 **Related topics**  
 
@@ -39,9 +39,9 @@ Role required: personalize\_dictionary or admin
 
 [Configure document feeds](t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](c_ConfigureFeedSecurity.md)
 
 [Disable a record feed](t_DisableARecordFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](r_InstalledComponents.md)
 

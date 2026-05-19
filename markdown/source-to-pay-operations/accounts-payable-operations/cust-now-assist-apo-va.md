@@ -28,7 +28,7 @@ Use the Now Assist Admin console to configure Now Assist for APO. This console c
 
 1.  Install the Now Assist for Accounts Payable Operations \(APO\) plugin \(com.snc.sn\_ap\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 

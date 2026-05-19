@@ -21,7 +21,7 @@ The Third Party Unit \[sn\_spend\_intg\_third\_party\_uom\] staging table tempor
 |Third party unit|String|Name of the third-party unit.|
 |Unit|Reference|Reference to the Unit table.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

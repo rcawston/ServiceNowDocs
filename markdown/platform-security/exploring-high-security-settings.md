@@ -13,7 +13,7 @@ breadcrumb: [High Security Settings]
 
 High Security Settings refer to several security options available in your instance.
 
-The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [Requesting High Security Settings activation](../task/t_ActivateHighSecuritySettings.md). To learn more about this plugin, see [Enable High Security Plugin](../../security-center/reference/sc-high-security-plugin.md) in Instance Security Hardening Settings. Properties for these types of high security settings are available:
+The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [Requesting High Security Settings activation](t_ActivateHighSecuritySettings.md). To learn more about this plugin, see [Enable High Security Plugin](instance-security-hardening-settings/sc-high-security-plugin.md) in Instance Security Hardening Settings. Properties for these types of high security settings are available:
 
 -   Default property values: To harden security on your platform by centralizing all critical security settings to one location for management and auditing.
 -   Default deny property: Provides a security manager property to control the default security behavior for table access.
@@ -27,7 +27,7 @@ The High Security Settings module is activated with the High Security Settings p
 
 -   High Security Settings also automatically activates the Contextual Security plugin, if it is not already active. In addition, Platform Security Settings - High delivers settings and features in the context of increasing the security of your instance.
 -   The Instance Security Hardening Settings content contains detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
--   To learn more about each of these properties, see [Hardening settings](../../security-center/reference/security-hardening-settings.md).
+-   To learn more about each of these properties, see [Hardening settings](instance-security-hardening-settings/security-hardening-settings.md).
 
 There are two ways to set or change High Security Settings properties.
 
@@ -89,7 +89,7 @@ Yes
 
 </td><td>
 
-[Escape XML markup](../../security-center/reference/sc-escape-xml.md)
+[Escape XML markup](instance-security-hardening-settings/sc-escape-xml.md)
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Yes in new instances
 
 </td><td>
 
-[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](../../security-center/reference/sc-escape-jelly.md)
+[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](instance-security-hardening-settings/sc-escape-jelly.md)
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ If you are using the SAML 2.0 plugin for Single Sign-on authentication, set this
 
 </td><td>
 
-[Rotate HTTP session identifiers](../../security-center/reference/sc-rotate-http-session-identifiers.md)
+[Rotate HTTP session identifiers](instance-security-hardening-settings/sc-rotate-http-session-identifiers.md)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Yes
 
 </td><td>
 
-[Enforce strict security of session cookies](../../security-center/reference/sc-secure-session-cookies.md)
+[Enforce strict security of session cookies](instance-security-hardening-settings/sc-secure-session-cookies.md)
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Yes
 
 </td><td>
 
-[Double check inbound transactions](../../security-center/reference/sc-double-check-inbound-transactions.md)
+[Double check inbound transactions](instance-security-hardening-settings/sc-double-check-inbound-transactions.md)
 
 </td></tr><tr><td>
 
@@ -189,7 +189,7 @@ Yes
 
 </td><td>
 
-[Check UI action conditions before execution](../../security-center/reference/sc-check-ui-action-conditions-before-execution.md)
+[Check UI action conditions before execution](instance-security-hardening-settings/sc-check-ui-action-conditions-before-execution.md)
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Yes
 
 </td><td>
 
-[Enable Anti-CSRF token \[New in Security Center 1.3, updated in 1.5, and removed in 2.0\]](../../security-center/reference/sc-anti-csrf-token.md)
+[Enable Anti-CSRF token \[New in Security Center 1.3, updated in 1.5, and removed in 2.0\]](instance-security-hardening-settings/sc-anti-csrf-token.md)
 
 </td></tr><tr><td>
 
@@ -221,7 +221,7 @@ Yes
 
 </td><td>
 
-[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](../../security-center/reference/sc-escape-html.md)
+[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](instance-security-hardening-settings/sc-escape-html.md)
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ Yes
 
 </td><td>
 
-[Escape JavaScript \[Updated in Security Center 1.3\]](../../security-center/reference/sc-escape-javascript.md)
+[Escape JavaScript \[Updated in Security Center 1.3\]](instance-security-hardening-settings/sc-escape-javascript.md)
 
 </td></tr><tr><td>
 
@@ -253,7 +253,7 @@ Yes
 
 </td><td>
 
-[Remove remember me](../../security-center/reference/sc-remove-remember-me.md)
+[Remove remember me](instance-security-hardening-settings/sc-remove-remember-me.md)
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Yes
 
 </td><td>
 
-[Enforce SOAP request strict security](../../security-center/reference/sc-soap-request-strict-security.md)
+[Enforce SOAP request strict security](instance-security-hardening-settings/sc-soap-request-strict-security.md)
 
 </td></tr><tr><td>
 
@@ -303,7 +303,7 @@ Yes
 
 </td><td>
 
-[Require authorization for WSDL request](../../security-center/reference/sc-wsdl-request-authorization.md)
+[Require authorization for WSDL request](instance-security-hardening-settings/sc-wsdl-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -321,7 +321,7 @@ Yes
 
 </td><td>
 
-[Require authorization for csv requests \[Updated in Security Center 1.3\]](../../security-center/reference/sc-require-authorization-for-csv-requests.md)
+[Require authorization for csv requests \[Updated in Security Center 1.3\]](instance-security-hardening-settings/sc-require-authorization-for-csv-requests.md)
 
 </td></tr><tr><td>
 
@@ -337,7 +337,7 @@ Yes
 
 </td><td>
 
-[Require authorization for excel requests](../../security-center/reference/sc-excel-request-authorization.md)
+[Require authorization for excel requests](instance-security-hardening-settings/sc-excel-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -353,7 +353,7 @@ Yes
 
 </td><td>
 
-[Require authorization for import requests](../../security-center/reference/sc-import-request-authorization.md)
+[Require authorization for import requests](instance-security-hardening-settings/sc-import-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -369,7 +369,7 @@ Yes
 
 </td><td>
 
-[Require authorization for PDF requests](../../security-center/reference/sc-require-authorization-for-pdf-requests.md)
+[Require authorization for PDF requests](instance-security-hardening-settings/sc-require-authorization-for-pdf-requests.md)
 
 </td></tr><tr><td>
 
@@ -385,7 +385,7 @@ Yes
 
 </td><td>
 
-[Require authorization for RSS requests](../../security-center/reference/sc-rss-request-authorization.md)
+[Require authorization for RSS requests](instance-security-hardening-settings/sc-rss-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -401,7 +401,7 @@ Yes
 
 </td><td>
 
-[Require authorization for script requests](../../security-center/reference/sc-script-request-authorization.md)
+[Require authorization for script requests](instance-security-hardening-settings/sc-script-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -417,7 +417,7 @@ Yes
 
 </td><td>
 
-[Require authorization for SOAP requests](../../security-center/reference/sc-soap-request-authorization.md)
+[Require authorization for SOAP requests](instance-security-hardening-settings/sc-soap-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -433,7 +433,7 @@ Yes
 
 </td><td>
 
-[Require authorization for unload requests](../../security-center/reference/sc-require-authorization-for-unload-requests.md)
+[Require authorization for unload requests](instance-security-hardening-settings/sc-require-authorization-for-unload-requests.md)
 
 </td></tr><tr><td>
 
@@ -449,7 +449,7 @@ Yes
 
 </td><td>
 
-[Require authorization for XML requests](../../security-center/reference/sc-xml-request-authorization.md)
+[Require authorization for XML requests](instance-security-hardening-settings/sc-xml-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -465,7 +465,7 @@ Yes
 
 </td><td>
 
-[Require Authorization for XSD Requests](../../security-center/reference/sc-xsd-request-authorization.md)
+[Require Authorization for XSD Requests](instance-security-hardening-settings/sc-xsd-request-authorization.md)
 
 </td></tr><tr><td>
 
@@ -481,7 +481,7 @@ Yes
 
 </td><td>
 
-[Enforce relative links](../../security-center/reference/sc-enforce-relative-links.md)
+[Enforce relative links](instance-security-hardening-settings/sc-enforce-relative-links.md)
 
 </td></tr><tr><td>
 
@@ -497,7 +497,7 @@ Yes
 
 </td><td>
 
-[Implement the x-frame-options: SAMEORIGIN security header](../../security-center/reference/sc-x-frame-options-sameorigin.md)
+[Implement the x-frame-options: SAMEORIGIN security header](instance-security-hardening-settings/sc-x-frame-options-sameorigin.md)
 
 </td></tr><tr><td>
 
@@ -513,7 +513,7 @@ A list of comma-separated attachment mime types that do not render inline in the
 
 </td><td>
 
-[Restrict downloadable MIME types](../../security-center/reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](instance-security-hardening-settings/sc-downloadable-mime-type-denylist.md)
 
 </td></tr><tr><td>
 
@@ -545,7 +545,7 @@ No
 
 </td><td>
 
-[Restrict performance monitoring access](../../security-center/reference/sc-performance-monitoring-acl.md)
+[Restrict performance monitoring access](instance-security-hardening-settings/sc-performance-monitoring-acl.md)
 
 </td></tr><tr><td>
 
@@ -563,7 +563,7 @@ No
 
 </td><td>
 
-[Disable embedded HTML code \[Updated in Security Center 1.3\]](../../security-center/reference/sc-allow-embedded-html-code.md)
+[Disable embedded HTML code \[Updated in Security Center 1.3\]](instance-security-hardening-settings/sc-allow-embedded-html-code.md)
 
 </td></tr><tr><td>
 
@@ -579,7 +579,7 @@ No
 
 </td><td>
 
-[Disable AJAXEvaluate](../../security-center/reference/sc-disable-ajaxevaluate.md)
+[Disable AJAXEvaluate](instance-security-hardening-settings/sc-disable-ajaxevaluate.md)
 
 </td></tr></tbody>
 </table>The following properties are defined in the sys\_properties table, but are not visible on the High Security Settings page.
@@ -682,7 +682,7 @@ false
 
 </td><td>
 
-[Prevent Users From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](../../security-center/reference/sc-csrf-strict-validation.md)
+[Prevent Users From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](instance-security-hardening-settings/sc-csrf-strict-validation.md)
 
 </td></tr><tr><td>
 

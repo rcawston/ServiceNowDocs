@@ -85,7 +85,7 @@ If you express dissatisfaction or explicitly request human assistance at any poi
 
 When the dispute is resolved, an email notification is sent to you with a summary and a hyperlink to the case.
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
 
 **Related topics**  
 

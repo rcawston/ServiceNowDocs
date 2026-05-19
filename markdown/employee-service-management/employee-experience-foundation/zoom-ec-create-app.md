@@ -29,7 +29,7 @@ The Zoom admin role is the Zoom account admin role, and it is not a role in Serv
 
 Integrating Zoom with  Employee Center enables access  to Employee Center functionality from within the Zoom client either on Windows OS or iOS.​ For more information, see [Use Employee Center from Zoom](zoom-create-email-notification.md).
 
-For information about ServiceNow integrations with the Zoom application, see [ServiceNow for Zoom](../../sn-zoom/concept/sn_zoomIntegration.md).
+For information about ServiceNow integrations with the Zoom application, see [ServiceNow for Zoom](sn_zoomIntegration.md).
 
 ## Procedure
 
@@ -85,7 +85,7 @@ Connect your Zoom account to another ServiceNow® instance by overriding your ex
 -   **[Change existing Zoom account connection](zoom-account-change.md)**  
 Change your existing Zoom account connection in your ServiceNow® instance.
 
-**Parent Topic:**[Employee Center Integrations](../concept/integrate-ec.md)
+**Parent Topic:**[Employee Center Integrations](integrate-ec.md)
 
 **Related topics**  
 

@@ -74,5 +74,5 @@ The log level to use for all requests and responses when **glide.outbound\_http\
 -   Location: Add to the System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Outbound web services: Logging](../concept/outbound-request-logging.md)
+</table>**Parent Topic:**[Outbound web services: Logging](outbound-request-logging.md)
 

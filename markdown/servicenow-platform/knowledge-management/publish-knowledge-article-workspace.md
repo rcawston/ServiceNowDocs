@@ -39,12 +39,12 @@ A knowledge article is published depending on the workflow setting of its knowle
 -   **Knowledge - Instant Publish**: The knowledge article is immediately published unless it is scheduled to be published at a later date.
 -   **Knowledge - Approval Publish**: The knowledge article is published on approval completion unless it is scheduled to be published at a later date.
 
-    **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+    **Note:** With an ownership group associated with a knowledge article, ownership group members can approve self-authored articles for publication. An administrator can override this behavior by disabling the **glide.knowman.ownership\_group.enable\_self\_approval** property. For more information, see [Ownership groups](enable-ownership-group.md).
 
 
 For more information, see [Schedule a knowledge article for publishing in Agent Workspace](schedule-article-publishing-agent.md).
 
-When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](../concept/knowledge-article-version-numbers.md).
+When published, your knowledge article appears in the My Articles - Published and All Articles lists. If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](knowledge-article-version-numbers.md).
 
 **Related topics**  
 
@@ -53,5 +53,5 @@ When published, your knowledge article appears in the My Articles - Published an
 
 [Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 

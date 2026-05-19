@@ -27,8 +27,8 @@ The Entity tiers option is displayed under the Lists view in the workspace. Clic
 |Tier level|Tier level of the entity tier such as 15 or 20.|
 |Name|Name of the entity tier such as application or business.|
 
--   **[Create an entity tier](../task/create-new-entity-tier-ws.md)**  
+-   **[Create an entity tier](create-new-entity-tier-ws.md)**  
 Create an entity tier for the entity classes in your organization. When you create entity tiers, you can apply a level or hierarchy to the entity classes. The hierarchy level applies to all the entities associated with the entity classes.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 

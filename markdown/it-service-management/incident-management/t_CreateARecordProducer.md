@@ -70,7 +70,7 @@ The following example demonstrates how to create a record producer to request a 
     In Service Catalog, the new catalog item appears and any user can select it.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](incident-templates-record-producers.md)
 
 **Related topics**  
 

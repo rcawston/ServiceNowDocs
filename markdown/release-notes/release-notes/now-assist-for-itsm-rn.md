@@ -14,12 +14,12 @@ The ServiceNow® Now Assist for IT Service Management \(ITSM\) application bring
 
 ## Now Assist for IT Service Management \(ITSM\) highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](../australia-patch-2.md)
 
 -   Track which knowledge articles and catalog items support successful virtual agent deflections instead of transferring to human agents using the ITSM Virtual Agent Analytics dashboard.
 -   Use the ITSM MCP server to query and retrieve any information within the context of an incident.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Answer incident-related questions with context-aware agents using the incident assist agentic workflow.
 -   Submit a catalog item for an account unlock using the voice AI agent.
@@ -41,9 +41,9 @@ To use the Knowledge Article Advanced Editor page in the generate a knowledge ar
 4.  Select **Knowledge**.
 5.  Make sure the knowledge content recommendation skill is active.
 
-The incident assist agentic workflow is active by default and includes all the capabilities of the \[DEPRECATED\] incident assist skill, with enhancements. When you upgrade to [Australia Patch 1](../quality/australia-patch-1.md), if you have the \[DEPRECATED\] incident assist skill activated, consider deactivating it to avoid redundancy. For more information, see [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md).
+The incident assist agentic workflow is active by default and includes all the capabilities of the \[DEPRECATED\] incident assist skill, with enhancements. When you upgrade to [Australia Patch 1](../australia-patch-1.md), if you have the \[DEPRECATED\] incident assist skill activated, consider deactivating it to avoid redundancy. For more information, see [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md).
 
-Starting with the [Australia Patch 2](../quality/australia-patch-2.md), the Incident assist skill has been deprecated, moved to the **Archive** section, and is no longer available for use.
+Starting with the [Australia Patch 2](../australia-patch-2.md), the Incident assist skill has been deprecated, moved to the **Archive** section, and is no longer available for use.
 
 ## New in the Australia release
 
@@ -186,7 +186,7 @@ Starting with the [Australia Patch 2](../quality/australia-patch-2.md), the Inci
 
 ## Deprecated features
 
-Starting with the [Australia Patch 2](../quality/australia-patch-2.md) release, the [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md) is deprecated, moved to the **Archived** folder and is no longer available for use.
+Starting with the [Australia Patch 2](../australia-patch-2.md) release, the [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md) is deprecated, moved to the **Archived** folder and is no longer available for use.
 
 ## Activation information
 
@@ -213,5 +213,5 @@ Install Now Assist for IT Service Management \(ITSM\) by requesting it from the 
 
 **Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

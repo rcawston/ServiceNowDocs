@@ -25,12 +25,12 @@ When the change moves to the Implement state, the required update for each CI re
 
 **Note:** You cannot add or delete a CI when the change request in the **In-progress** state and is not approved.
 
-**Parent Topic:**[Process a change request](../task/t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](t_ProcessAChangeRequest.md)
 
 **Related topics**  
 
 
-[Activate Change Management - Mass Update CI](../task/t_ActivateChangeManagementBulkCI.md)
+[Activate Change Management - Mass Update CI](t_ActivateChangeManagementBulkCI.md)
 
 [Associate multiple CIs with a change request](c_AffectedCIsAndImpactedServices.md#)
 

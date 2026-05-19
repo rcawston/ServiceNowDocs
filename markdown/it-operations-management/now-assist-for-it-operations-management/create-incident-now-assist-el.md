@@ -43,5 +43,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     An incident with a human-readable, AI-generated description is created from the selected alert and a confirmation message is displayed.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 

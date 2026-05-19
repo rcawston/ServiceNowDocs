@@ -25,10 +25,10 @@ Examples demonstrating an integration with a Perl web services client.
 Examples demonstrating an integration with a Python web services client.
 -   **[Web services C Sharp .NET end to end tutorial](c_CSharpNETEndEnd.md)**  
 Examples demonstrating how to use .NET to consume a ServiceNow web service.
--   **[Sample ASP.NET with C Sharp redirect with cookies](../../../script/useful-scripts/reference/r_ASPNETCSharpRdrctCks.md)**  
+-   **[Sample ASP.NET with C Sharp redirect with cookies](r_ASPNETCSharpRdrctCks.md)**  
 This sample ASP.NET code creates a simple authentication portal and passes an unencrypted HTTP header as a cookie.
--   **[Sample ASP Script for unencrypted single sign-on](../../../script/useful-scripts/concept/c_SampleASPScriptUnencryptedSSO.md)**  
+-   **[Sample ASP Script for unencrypted single sign-on](c_SampleASPScriptUnencryptedSSO.md)**  
 This sample ASP.NET code creates a simple authentication portal and passes an unencrypted HTTP header as a URL parameter.
 
-**Parent Topic:**[Inbound web services](../../web-services/concept/inbound-web-services.md)
+**Parent Topic:**[Inbound web services](inbound-web-services.md)
 

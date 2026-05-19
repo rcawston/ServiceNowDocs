@@ -36,7 +36,7 @@ The following items are installed with Supplier Case Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md).
+For more information, see [Components installed with Supplier Case Management](installed-with-supp-mgmt.md).
 
 ## Procedure
 
@@ -61,20 +61,20 @@ For more information, see [Components installed with Supplier Case Management](.
 6.  Select **Install**.
 
 
--   **[Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md)**  
+-   **[Components installed with Supplier Case Management](installed-with-supp-mgmt.md)**  
 Several types of components are installed with activation of Supplier Case Management, including tables and user roles.
--   **[Explicit Roles in Supplier Case Management](../concept/slo-explicit-roles-plugin.md)**  
+-   **[Explicit Roles in Supplier Case Management](slo-explicit-roles-plugin.md)**  
 You can grant access to your instance to both internal and external users. However, it is important to differentiate their access levels for added security. To achieve this, every user must have at least one role, allowing the instance to distinguish between internal and external users.
--   **[Application plugin installation sequence in Supplier Case Management](../reference/slm-plugin-list.md)**  
+-   **[Application plugin installation sequence in Supplier Case Management](slm-plugin-list.md)**  
 The following table provides the list of plugins for Supplier Case Management, a high-level description of each plugin, and the dependencies that are required before installing each plugin.
--   **[Prerequisites for upgrading Supplier Case Management to Washington DC or later releases](../concept/smw-upgrade.md)**  
+-   **[Prerequisites for upgrading Supplier Case Management to Washington DC or later releases](smw-upgrade.md)**  
 Starting with the Washington DC release, Supplier Manager Workspace is being prepared for future deprecation. It will be hidden from the navigation and no longer be activated on new instances but will continue to be supported. Source-to-Pay Workspace provides the latest experience for this functionality.
--   **[Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md)**  
+-   **[Configure properties for Supplier Case Management](config-prop-supp-mgmt.md)**  
 Use these properties to configure settings for the Supplier Case Management application from the Properties page.
--   **[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)**  
+-   **[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)**  
 After you upgrade to Washington DC, you must review all the post-upgrade tasks and complete them as needed.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](../concept/config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
 
 **Related topics**  
 
@@ -85,21 +85,21 @@ After you upgrade to Washington DC, you must review all the post-upgrade tasks a
 
 [Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 [Configure the document template for the Sign document action type for supplier task](configure-pdf-template-sign-doc-task.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
 [Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 [Install Universal Request for SLO](install-universal-request.md)
 
-[Configure smart assessments](../concept/configure-smart-assessments.md)
+[Configure smart assessments](configure-smart-assessments.md)
 
-[Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md)
+[Components installed with Supplier Case Management](installed-with-supp-mgmt.md)
 
-[Application plugin installation sequence in Supplier Case Management](../reference/slm-plugin-list.md)
+[Application plugin installation sequence in Supplier Case Management](slm-plugin-list.md)
 

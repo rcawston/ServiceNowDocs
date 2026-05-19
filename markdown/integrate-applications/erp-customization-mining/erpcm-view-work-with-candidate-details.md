@@ -96,7 +96,7 @@ Additional information about the candidate.
 
 5.  View details about tables relevant to the candidate and the ERP system scan details by selecting the **ERP scan results** tab.
 
-    For a description of the field values, see [ERP Semantic Mining candidate scan results field descriptions](../reference/erpcm-candidate-scan-results-descriptions.md).
+    For a description of the field values, see [ERP Semantic Mining candidate scan results field descriptions](erpcm-candidate-scan-results-descriptions.md).
 
 6.  Check and note which ERP models are ERP Semantic Mining identified as being related to the candidate by selecting the **Models** tab.
 
@@ -116,7 +116,7 @@ Additional information about the candidate.
 
     Similar candidates are helpful when planning how to best replatform a legacy app. When you replatform a custom app from the system of record, you don't have to replicate the old app exactly. Use the replatforming process to design a better app. For example, an app that addresses the needs of multiple similar candidates in a single, new app built using low-code tools on the ServiceNow AI Platform.
 
-    For a description of the field values, see [ERP Semantic Mining similar candidates field descriptions](../reference/erpcm-similar-candidates-field-descriptions.md).
+    For a description of the field values, see [ERP Semantic Mining similar candidates field descriptions](erpcm-similar-candidates-field-descriptions.md).
 
 9.  Select the **Save** button and save any changes you made to the candidate details.
 
@@ -127,11 +127,11 @@ After you work with the candidate details and identify similar candidates, you c
 
 -   [Check candidate recommendations in ERP Semantic Mining](erpcm-work-with-recommendations.md).
 -   [Save potential candidates to replatform](erpcm-find-candidates.md).
--   Continue building remote table and extraction tables in the relevant ERP model in Zero Copy Connector for ERP, making the data available on the ServiceNow AI Platform. For more information, see [Using Zero Copy Connector for ERP](../../erp-integration/concept/work-with-erp-systems-connections-and-remote-tables.md).
+-   Continue building remote table and extraction tables in the relevant ERP model in Zero Copy Connector for ERP, making the data available on the ServiceNow AI Platform. For more information, see [Using Zero Copy Connector for ERP](../erp-integration-framework/work-with-erp-systems-connections-and-remote-tables.md).
 
 **Note:**
 
 If you delete a candidate from ERP Semantic Mining, the candidate automatically reappears the next time the ERP system is scanned. Instead of deleting candidates, use the **Save as potential candidate** feature to organize your candidates.
 
-**Parent Topic:**[Finding and working with candidates to replatform](../concept/work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](work-with-candidates.md)
 

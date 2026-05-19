@@ -48,7 +48,7 @@ The **com.glide.codesigning.tracking.unsupported\_script\_tracking.enabled** pro
 **Related topics**  
 
 
-[Discovery on Code Signing instances](../concept/code-sign-disco-probes.md)
+[Discovery on Code Signing instances](code-sign-disco-probes.md)
 
 [Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 

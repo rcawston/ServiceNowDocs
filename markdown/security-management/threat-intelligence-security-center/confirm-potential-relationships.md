@@ -39,31 +39,31 @@ Role required: sn\_sec\_tisc.analyst
 
 8.  Click **Confirm Relationships** button to confirm the relationships between the objects.
 
-    **Note:** For more information, see[Relationships Objects](../concept/relationship-objects.md) and [Potential Relationships](../concept/potential-relationships.md).
+    **Note:** For more information, see[Relationships Objects](relationship-objects.md) and [Potential Relationships](potential-relationships.md).
 
     ![Related Records-Potential Relationships](../image/tisc-confirm-relationships-related-records.png)
 
 9.  Click **Delete** to delete the associated observables.
 
-    For information on how the potential relationships and relationships are established between the SDOs, see [Potential Relationships](../concept/potential-relationships.md) and [Relationships Objects](../concept/relationship-objects.md).
+    For information on how the potential relationships and relationships are established between the SDOs, see [Potential Relationships](potential-relationships.md) and [Relationships Objects](relationship-objects.md).
 
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 
 [Deleting threat intelligence library records](tisc-delete-lib-records.md)
 
 [Export intelligence data](tisc-export-observables.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](automated-correlation-rules.md)
 

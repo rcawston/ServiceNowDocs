@@ -21,9 +21,9 @@ Role required: none
 
 Using the ActionSet component, you can simulate a user interaction in an automation by specifying multiple user actions.
 
-You can configure the properties for the ActionSet component settings. For more information about these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+You can configure the properties for the ActionSet component settings. For more information about these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
-Using the controls in the window, you capture an area of an application window, set one or more anchors, and define the user interactions that you want to simulate in that window. An anchor helps specify the target area for the interaction by defining a static area from which actions can be defined at a relative distance. For more information about anchors, see [Anchor](../concept/anchor.md).
+Using the controls in the window, you capture an area of an application window, set one or more anchors, and define the user interactions that you want to simulate in that window. An anchor helps specify the target area for the interaction by defining a static area from which actions can be defined at a relative distance. For more information about anchors, see [Anchor](anchor.md).
 
 ![ActionSet Settings Window.](../image/action-set-settings-window-rpa.png "The ActionSet Settings Window")
 
@@ -130,5 +130,5 @@ Set text or perform keyboard shortcuts on fields and elements on the desktop, Wi
 -   **[Use the ActionSet Mouse action](use-actionset-mouse-action.md)**  
 Do various mouse device actions on the desktop, Windows applications, and web pages on the Internet Explorer browser using the ActionSet Mouse action in RPA Desktop Design Studio.
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

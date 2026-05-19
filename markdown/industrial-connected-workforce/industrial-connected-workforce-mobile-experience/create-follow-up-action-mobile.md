@@ -37,7 +37,7 @@ The following procedure describes creating a follow-up action from an existing a
 
 4.  Change the values for the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form-mobile.md).
+    For a description of the field values, see [Action form](action-form-mobile.md).
 
 5.  Select **Next** twice to go through the entire form.
 
@@ -48,5 +48,5 @@ The following procedure describes creating a follow-up action from an existing a
 
 The new follow-up action is created and displayed in the Follow-up actions related list of the origin task. Follow-up actions can also be created from this list. Closing of follow-up tasks isn’t a prerequisite for closing of the origin task.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

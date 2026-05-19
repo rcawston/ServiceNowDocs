@@ -48,7 +48,7 @@ Capacity Definition
 
 </td><td>
 
-Name of the capacity definition based on which the capacity will be assigned. For more information, see [.](../task/create-capacity-definitions.md)
+Name of the capacity definition based on which the capacity will be assigned. For more information, see [.](create-capacity-definitions.md)
 
 </td></tr><tr><td>
 

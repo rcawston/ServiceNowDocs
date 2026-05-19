@@ -17,5 +17,5 @@ For configuring cross-plan dependencies, you must associate related plans to a r
 
 For more information on using nested plans in an event, see [Using nested plans](creating-nested-plan-in-event.md).
 
-**Parent Topic:**[Add associated plans and recovery teams](../task/add-related-plans-recovery-teams-bcp-uib-ws.md)
+**Parent Topic:**[Add associated plans and recovery teams](add-related-plans-recovery-teams-bcp-uib-ws.md)
 

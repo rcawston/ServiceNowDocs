@@ -19,15 +19,15 @@ Use the ServiceNow® Cloud Services Catalog Terraform Connector to generate cata
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-explore.png) Learn about the Cloud Services Catalog Terraform Connector application.](../concept/exploring-cpg-terraform-connector.md)
+[Explore ![Explore the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-explore.png) Learn about the Cloud Services Catalog Terraform Connector application.](exploring-cpg-terraform-connector.md)
 
 </td><td>
 
-[Configure ![Configure the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-set-up.png) Plan and configure your implementation.](../concept/configure-cpg-terraform-connector.md)
+[Configure ![Configure the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-set-up.png) Plan and configure your implementation.](configure-cpg-terraform-connector.md)
 
 </td></tr><tr><td>
 
-[Use ![Use the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-workspace.png) Use the Cloud Services Catalog Terraform Connector app to discover resources from the Terraform environment, create catalog items, and maintain them.](../concept/using-ccg-terraform-connector.md)
+[Use ![Use the Cloud Services Catalog Terraform Connector app.](../../../common/image/icon-workspace.png) Use the Cloud Services Catalog Terraform Connector app to discover resources from the Terraform environment, create catalog items, and maintain them.](using-ccg-terraform-connector.md)
 
 </td><td>
 

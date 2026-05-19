@@ -69,5 +69,5 @@ Role required: admin
 
 After successfully adding the ServiceNow app from the iOS store platforms, install the ServiceNow application from the Citrix Hub app from your devices. For Android, the ServiceNow app appears in the Google Play Store managed by your Android Work Profile.
 
-**Parent Topic:**[Citrix XenMobile](../concept/citrix-mdm.md)
+**Parent Topic:**[Citrix XenMobile](citrix-mdm.md)
 

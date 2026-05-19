@@ -99,5 +99,5 @@ Auto-populated during the pre-published app installation.
 
 Guests belonging to the selected guest domains can now start or import chats.
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-mt.md)
+**Parent Topic:**[Request-based chat access for a guest user](guest-user-chat-access-mt.md)
 

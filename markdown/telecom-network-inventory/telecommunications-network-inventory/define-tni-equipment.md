@@ -35,7 +35,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
     The following table lists the fields that are unique to the Telco Equipment form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -44,9 +44,9 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the telco equipment.
 
-    To learn more about the fields that are unique to the Configuration section in the Telco Equipment form, see [Telco Equipment form](../reference/tni-equipment-form-configuration.md).
+    To learn more about the fields that are unique to the Configuration section in the Telco Equipment form, see [Telco Equipment form](tni-equipment-form-configuration.md).
 
-    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
 6.  Select **Save**.
 
@@ -56,7 +56,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 8.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 9.  To view the Dependency Views map, select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Dependency View**.
 
@@ -73,12 +73,12 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## What to do next
 
-If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
 **Parent Topic:**[Create a telecommunications equipment instance](define-equipment-type.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](telecommunications-network-inventory-workflow.md)
 

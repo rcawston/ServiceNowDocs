@@ -110,23 +110,23 @@ The **Administration** module in BCM displays types of feeds:
 
 -   **Scheduled imports**
 
-    To manage your threat feed subscriptions that are sourced internally and externally, you must schedule a data import from the data source at defined intervals. For more information on scheduled imports, see [Configure Scheduled Data Imports records](../task/sched-data-imports-crisis-map-uib-ws.md).
+    To manage your threat feed subscriptions that are sourced internally and externally, you must schedule a data import from the data source at defined intervals. For more information on scheduled imports, see [Configure Scheduled Data Imports records](sched-data-imports-crisis-map-uib-ws.md).
 
 -   **Resource configuration**
 
-    To plot your organization's assets or resources on the Crisis map, you must configure the resources in the application. For more information on resource configuration, see [Configure Resource Configuration records](../task/conf-resource-for-crisis-map-uib-ws.md).
+    To plot your organization's assets or resources on the Crisis map, you must configure the resources in the application. For more information on resource configuration, see [Configure Resource Configuration records](conf-resource-for-crisis-map-uib-ws.md).
 
 -   **Alert rules**
 
-    To display the feeds as alerts on the Crisis map, configure the alert rules. For more information on alert rules, see [Configure alert rules](../task/conf-alert-rule-uib-ws.md).
+    To display the feeds as alerts on the Crisis map, configure the alert rules. For more information on alert rules, see [Configure alert rules](conf-alert-rule-uib-ws.md).
 
 -   **Alert actions**
 
-    To act on a critical alert from the Crisis map dashboard, see [Configure alert actions](../task/configure-alert-action-uib-ws.md).
+    To act on a critical alert from the Crisis map dashboard, see [Configure alert actions](configure-alert-action-uib-ws.md).
 
 
 -   For information on the administrative tasks for Crisis map, see [Setup for Crisis map](crisis-map-admin-tasks.md).
--   To search for locations on the Crisis map, you must set the **sn\_bcm\_map.use\_google\_places\_lib** system property. For more information, see [Properties installed with BCM](../reference/properties-bcm.md).
+-   To search for locations on the Crisis map, you must set the **sn\_bcm\_map.use\_google\_places\_lib** system property. For more information, see [Properties installed with BCM](properties-bcm.md).
 
 ## Crisis map
 

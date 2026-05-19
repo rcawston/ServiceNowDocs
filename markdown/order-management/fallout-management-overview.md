@@ -87,7 +87,7 @@ The Fallout Management function includes the following tools:
 
 -   **Order fallout tracking**
 
-    With this tool, you can assign a unique number to each order fallout to track the progress of the fallout, from inception through resolution. By using an Order Fallout dashboard, a designated order fallout manager can view the status of all open fallout records. To learn more, see [Review a fallout record](../task/select-order-fallout-records-review.md#).
+    With this tool, you can assign a unique number to each order fallout to track the progress of the fallout, from inception through resolution. By using an Order Fallout dashboard, a designated order fallout manager can view the status of all open fallout records. To learn more, see [Review a fallout record](select-order-fallout-records-review.md#).
 
 -   **Fallout resolution**
 
@@ -105,13 +105,13 @@ Without a fallout management process, your order fulfillment personnel would hav
 
 -   **[Creating automated fallout records](creating-automated-manual-fallout-records.md)**  
 With Fallout Management, a provider can create automated fallout records for specific order tasks so that your orders can continue processing through to completion.
--   **[Create a manual fallout record](../task/create-manual-order-fallout-record.md)**  
+-   **[Create a manual fallout record](create-manual-order-fallout-record.md)**  
 Create a fallout record manually for an order task that has a condition or issue that prevents it from being completed.
--   **[Review a fallout record](../task/select-order-fallout-records-review.md#)**  
+-   **[Review a fallout record](select-order-fallout-records-review.md#)**  
 Review a fallout record to make sure that the detailed information is correct and complete.
--   **[Update a fallout record](../task/review-update-selected-order-fallout-records.md)**  
+-   **[Update a fallout record](review-update-selected-order-fallout-records.md)**  
 Review the detailed information for a selected fallout record to verify that the information is correct and complete. You can change the fallout type, state, or priority. You can even assign it to a specific person to follow up on.
--   **[Resolve order fallouts](../task/resolve-order-fallouts.md)**  
+-   **[Resolve order fallouts](resolve-order-fallouts.md)**  
 Learn how to close the order fallout tasks in Order Management so that you can progress with order fulfillment.
 
 **Parent Topic:**[Using Order Management](using-order-management.md)

@@ -35,7 +35,7 @@ Role required: Salesforce admin, sam\_admin
 
 4.  Register the Salesforce application through the Salesforce admin portal.
 
-    For more information, see [Register a Salesforce application](../concept/integrate-with-salesforce-crm.md#).
+    For more information, see [Register a Salesforce application](integrate-with-salesforce-crm.md#).
 
     1.  Select **Register a Salesforce application** in the side pane.
 
@@ -194,7 +194,7 @@ URL of the OAuth provider that users are redirected to after authentication. Thi
 
     4.  Review the required user roles or API permissions specified in the **Vendor configuration** field for each process to minimize security risks and optimize SaaS licenses.
 
-        **Note:** For more information, see [Minimal user permissions](../concept/integrate-with-workfront.md#) table.
+        **Note:** For more information, see [Minimal user permissions](integrate-with-workfront.md#) table.
 
         1.  In the Download Subscription Subflow section, verify that the **Subflow** field is set to **Salesforce CRM Download Subscriptions**.
 
@@ -217,5 +217,5 @@ URL of the OAuth provider that users are redirected to after authentication. Thi
 
 After the integration is published successfully, you’re redirected to the record page. You can view the details of the integration profile, associated software models, triggered scheduled jobs, scheduled job results, and unrecognized subscription identifier.
 
-**Parent Topic:**[Playbook for SaaS integrations](../concept/playbook-saas-integrations.md)
+**Parent Topic:**[Playbook for SaaS integrations](playbook-saas-integrations.md)
 

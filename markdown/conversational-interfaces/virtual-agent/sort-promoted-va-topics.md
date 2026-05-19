@@ -58,5 +58,5 @@ The list of promoted assets is presented in a Virtual Agent conversation based o
 
 Repeat the previous steps to adjust any other promoted assets to sort them in a preferred order.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

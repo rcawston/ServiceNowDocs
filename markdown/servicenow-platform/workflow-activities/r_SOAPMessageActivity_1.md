@@ -15,9 +15,9 @@ breadcrumb: [Utility workflow activities, Workflow activities reference, Workflo
 
 The legacy **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a MID Server.
 
-This activity is deprecated in the Australia release and no longer shows up in the Workflow canvas for new workflow development. New workflows should use the [Orchestration](../../../product/orchestration/reference/r-orchestration.md) SOAP Activity templates instead.
+This activity is deprecated in the Australia release and no longer shows up in the Workflow canvas for new workflow development. New workflows should use the [Orchestration](../orchestration/r-orchestration.md) SOAP Activity templates instead.
 
-Existing workflows using it will continue to work as designed. To edit this activity in an existing workflow, you must [re-activate the activity](../../orchestration-activities/task/t_ReactivateDeprecatedActivity.md).
+Existing workflows using it will continue to work as designed. To edit this activity in an existing workflow, you must [re-activate the activity](../orchestration/t_ReactivateDeprecatedActivity.md).
 
 ## Input variables
 
@@ -122,5 +122,5 @@ sensor\_script
 The script to execute after the request has been made and a response has been received. You can access the full XML response body from the activity.output object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Utility workflow activities](../concept/c_UtilityActivities.md)
+</table>**Parent Topic:**[Utility workflow activities](c_UtilityActivities.md)
 

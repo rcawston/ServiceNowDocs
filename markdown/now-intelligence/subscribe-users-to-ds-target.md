@@ -23,7 +23,7 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 
 ## Procedure
 
-1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](../../performance-analytics/task/view-kpi-details.md).
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](view-kpi-details.md).
 
 2.  Select the target icon \(![Target icon](../image/target-icon.png)\) in the sidebar.
 
@@ -34,7 +34,7 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 4.  Select users from the Users \[sys\_user\] table to receive email notifications when a target is met or missed.
 
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 
 [Add a target to multiple breakdown elements in KPI Details](add-multiple-targets.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](responsibiity-targets-kpi-details.md#)
 
 [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notifications.md)
 

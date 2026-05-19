@@ -39,7 +39,7 @@ With the Legal Contract Management Pro for Legal Service Delivery, you can confi
 
 </td><td>
 
-[Now Assist in Contract Management ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use Now Assist in Contract Management to enhance user productivity using generative AI](../../contract-mgmt-pro/concept/cncore-now-assit-landing.md)
+[Now Assist in Contract Management ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use Now Assist in Contract Management to enhance user productivity using generative AI](../contract-management-pro/cncore-now-assit-landing.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

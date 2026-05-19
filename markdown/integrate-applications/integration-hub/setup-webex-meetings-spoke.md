@@ -122,7 +122,7 @@ Role required: admin
 
         ![Click View Details to configure the default connection and credential alias record.](../image/cisco-webex-meetings-conf1.png)
 
-    -   To manage more than one Cisco Webex Meetings spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Cisco Webex Meetings spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Click Configure if you are configuring the spoke for the first time.](../image/cisco-webex-meetings-conf2.png)

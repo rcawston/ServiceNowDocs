@@ -80,7 +80,7 @@ To keep the XML attributes and enclosing text in their original format when expo
 
 [Uploading your config data](cdm-upload-process.md)
 
-[Add the nodes that will contain config data to a new CDM application](../task/cdm-data-structure-add-for-upload.md)
+[Add the nodes that will contain config data to a new CDM application](cdm-data-structure-add-for-upload.md)
 
 [Parsing of CSV files in CDM](cdm-parsing-csv-file.md)
 

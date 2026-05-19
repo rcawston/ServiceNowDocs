@@ -91,5 +91,5 @@ Option to retrieve the translated content automatically.When selected, the trans
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Translation Management System configurations](../concept/tms-configuration.md)
+**Parent Topic:**[Translation Management System configurations](tms-configuration.md)
 

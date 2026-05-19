@@ -23,8 +23,8 @@ SaaS applications and services are typically subscribed to on a per-user basis. 
 
     Hybrid SaaS combines on-premise installations with cloud-based subscriptions. It’s commonly used by organizations that require offline access to certain applications while also using cloud features for collaboration. This model is also suitable for businesses with compliance requirements that mandate local installations. For example, a Microsoft 365 subscription enables you to access cloud services and install applications like Microsoft Excel on their devices. SAM supports the following Hybrid SaaS integrations:
 
-    -   [Adobe Cloud integration](adobe-cloud-integration.md)
-    -   [Microsoft 365 integration](microsoft-o365.md)
+    -   [Adobe Cloud integration](../software-asset-management/adobe-cloud-integration.md)
+    -   [Microsoft 365 integration](../software-asset-management/microsoft-o365.md)
 -   **Direct SaaS**
 
     Direct SaaS refers to applications where all data and functionality are hosted in the cloud and accessed through the internet. You typically log in via a web browser or a dedicated app without installing software locally. For example, a Miro subscriber accesses the application entirely online. This model is common for organizations that prioritize ease of deployment and minimal maintenance, and for teams that work remotely or across multiple locations.
@@ -40,7 +40,7 @@ Managing Direct SaaS applications can vary based on organizational needs. The be
 -   Use [SaaS License Connections](saas-license-connections.md) when you want flexibility to connect any SaaS app with a public API and prefer a low-code setup.
 -   Use [SSO Integration](saas-sso-integration.md) when you need visibility into apps connected through an SSO provider and want to address SaaS sprawl.
 
-For more information about installing SaaS License Management, see [Request SaaS License Management](../task/request-saas-license-management.md).
+For more information about installing SaaS License Management, see [Request SaaS License Management](request-saas-license-management.md).
 
 ![Flowchart to guide through SaaS license management](../image/saas-license-management.png)
 
@@ -102,7 +102,7 @@ Benefits
 -   Simplifies user access management
 
 </td></tr></tbody>
-</table>-   **[Request SaaS License Management](../task/request-saas-license-management.md)**  
+</table>-   **[Request SaaS License Management](request-saas-license-management.md)**  
 Request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) so that you can create and manage integrations with your SaaS and Single Sign-on \(SSO\) applications. You can use these integrations to track license usage and to reclaim unused licenses.
 -   **[SaaS License Management setup for large companies](saas-setup-large-companies.md)**  
 Set up SaaS License Management for large companies to confirm that you can view all SaaS usage data in your ServiceNow instance.
@@ -116,21 +116,21 @@ Integrate with a Single Sign-On \(SSO\) provider to view software usage for all 
 The SaaS playbook provides step-by-step guidance for integrating an SaaS application. It takes you in a phased way through each stage of the integration process, from initiation to completion.
 -   **[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)**  
 View a list of all subscriptions for your SaaS and Single Sign-On \(SSO\) applications.
--   **[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)**  
+-   **[Review a software reclamation rule](add-reclamation-rule-sub.md)**  
 Use reclamation rules to cancel user subscriptions that have limited to no activity.
 -   **[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)**  
 You can reclaim unused SaaS and SSO subscriptions to reduce your total software costs.
--   **[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)**  
+-   **[Create a child alias to set up multiple integration profiles](create-child-alias-saas.md)**  
 Create a child alias to set up multiple integration profiles with unique connections and manage different configurations for each integration profile.
--   **[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)**  
+-   **[Create a child alias to set up multiple Cisco Webex integration profiles](create-child-alias-webex.md)**  
 Create a child alias to set up multiple Cisco Webex integration profiles.
--   **[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)**  
+-   **[Create a child alias to set up multiple Confluence Cloud integration profiles](create-child-alias-confluence.md)**  
 Create a child alias to set up multiple Confluence Cloud integration profiles.
--   **[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)**  
+-   **[Create a child alias to set up multiple Jira integration profiles](create-child-alias-jira.md)**  
 Create a child alias to set up multiple Jira integration profiles with unique connections and manage different configurations for each integration profile.
--   **[Associate a user with subscription records](../task/map-user-data.md)**  
+-   **[Associate a user with subscription records](map-user-data.md)**  
 If the **User** field in the Software Subscription \[samp\_sw\_subscription\] table is empty, map the field with an associated user in the User \[sys\_user\] table within ServiceNow AI Platform.
--   **[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)**  
+-   **[Disconnect SSO apps](disconnect-azure-ad-apps.md)**  
 Disconnect an SSO application to stop viewing subscription information for the app, or before creating a direct integration for the app.
 -   **[Delete an integration profile](delete-saas-integration.md)**  
 If your company stops using a SaaS application or SSO provider, you can delete the integration profile.
@@ -139,5 +139,5 @@ Use the SaaS License Management application to view, manage, and resolve subscri
 -   **[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)**  
 Define subscription exclusions for your SaaS and SSO applications to optimize your licensing costs by keeping the excluded subscriptions out of license cost calculations.
 
-**Parent Topic:**[Software Asset Management](c_SoftwareAssetMgmt.md)
+**Parent Topic:**[Software Asset Management](../software-asset-management/c_SoftwareAssetMgmt.md)
 

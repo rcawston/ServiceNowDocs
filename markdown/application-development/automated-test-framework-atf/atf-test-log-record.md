@@ -82,7 +82,7 @@ Type of test log: -   Step Result
 -   Client Log
 -   Client Error
 
- **Note:** If a Client Error, you can optionally add it as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, refer to [Allowed client errors](../concept/whitelisted-client-errors.md).
+ **Note:** If a Client Error, you can optionally add it as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, refer to [Allowed client errors](whitelisted-client-errors.md).
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ Allow listed client error
 Reference to the Allowed Client Error record \(if any\). Click ![Reference field icon](../image/atf-test-results-item.png) to view the Allowed Client Error record for this client error.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Test results](../concept/atf-test-results-module.md)
+</table>**Parent Topic:**[Test results](atf-test-results-module.md)
 
 **Related topics**  
 
@@ -170,7 +170,7 @@ Reference to the Allowed Client Error record \(if any\). Click ![Reference field
 
 [Step results record](atf-step-result-record.md)
 
-[Allow client errors from the test logs](../task/whitelist-errors-from-test-log-related-list.md)
+[Allow client errors from the test logs](whitelist-errors-from-test-log-related-list.md)
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](whitelisted-client-errors.md)
 

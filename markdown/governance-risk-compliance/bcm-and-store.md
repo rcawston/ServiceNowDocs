@@ -34,9 +34,9 @@ GRC: Business Continuity Management – Core provides capabilities to configure 
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
--   **[Get entitlement for the BCM application](../task/entitle-bcm-product.md)**  
+-   **[Get entitlement for the BCM application](entitle-bcm-product.md)**  
 The first step in installing an application is to verify that the application or the product and its associated applications have valid ServiceNow entitlements.
--   **[Install Business Continuity Management from ServiceNow Store](../task/install-business-continuity-management.md)**  
+-   **[Install Business Continuity Management from ServiceNow Store](install-business-continuity-management.md)**  
 You can install the Business Continuity Management application if you have the admin role. This application includes demo data and installs the related store applications if they are not already installed.
 -   **[BCM lite operators](bcm-lite-operators.md)**  
 The Business Continuity Management application provides flexible user licensing terms. The terms are based on whether your operator has read-only access or can complete certain types of tasks.

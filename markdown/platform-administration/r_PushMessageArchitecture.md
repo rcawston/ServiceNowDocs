@@ -55,14 +55,14 @@ https://{instance_name}/api/now/v1/push/{application Name}/action/{action}
 
 The application name is the push application the user is using. The application name must match the application name in the Push Application \[sys\_push\_application\] table. The action is the Sys ID of the action in the Push Notifications Actions \[sys\_push\_notif\_act\_script\] table.
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Activate push notifications](../task/t_ActivatePushNotifications.md)
+[Activate push notifications](t_ActivatePushNotifications.md)
 
-[Enable push notifications for logged-out users](../task/enable-notifications-logged-out-users.md)
+[Enable push notifications for logged-out users](enable-notifications-logged-out-users.md)
 
 [Installed with push notifications](r_InstalledWithPushNotifications.md#)
 
@@ -72,7 +72,7 @@ The application name is the push application the user is using. The application 
 
 [Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
-[Requeue failed push notification messages](../task/t_HandlingFailedPushMessages.md)
+[Requeue failed push notification messages](t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 

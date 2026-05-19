@@ -103,5 +103,5 @@ Several key improvements were added to the Now LLM Service that are aimed at enh
     -   Lower token consumption: The fixed structure of JSON can reduce token usage, making it more efficient and cost-effective for applications with high response frequency.
 -   Improvements in instruction following: The model has been fine-tuned to understand and follow instructions more precisely. This enables the model to deliver more to-the-point and actionable responses, helping users get the information they need faster and more efficiently.
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](exploring-large-language-models.md)
 

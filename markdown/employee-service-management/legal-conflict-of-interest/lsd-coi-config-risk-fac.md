@@ -61,5 +61,5 @@ Add risk factors to define the criteria the risk assessment functionality evalua
 -   **[Configure risk factors](lsd-coi-config-rsk-factors.md)**  
 Configure risk factors to define the criteria the risk assessment functionality evaluates a request. Each risk factor uses one of three evaluation types: Condition, Skill, or Subflow.
 
-**Parent Topic:**[Configure Legal Conflict of Interest](../concept/legal-coi-administration.md)
+**Parent Topic:**[Configure Legal Conflict of Interest](legal-coi-administration.md)
 

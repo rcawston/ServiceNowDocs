@@ -21,7 +21,7 @@ An inventory tracker app enables your business and teams to easily track what th
 
 This app covers three inventory use cases: consumables, loaners, and discontinued. Employees can request items via mobile app or web portal from any warehouse. Inventory managers can set reorder levels and will be automatically notified if an item is low on stock. Discontinued items with outstanding stock can still be requested but will not prompt inventory managers for reorder. Inventory managers can create items manually or by uploading a spreadsheet.
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

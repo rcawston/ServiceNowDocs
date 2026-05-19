@@ -31,7 +31,7 @@ The cards display different issues:
 -   **intents have low test utterance count**: The default test set does not have enough test utterances for the intent. This card displays when the count of test utterances for an intent is below the recommended 15.
 -   **intents have critical conflicts**: Intent contains training utterances that overlap with utterances in another intent.
 
-    **Note:** Utterances which are marked as `Not relevant`may also conflict with utterances assigned to intents. For more information, see [Irrelevance detection in NLU](../concept/irrelevance-detection-nlu.md).
+    **Note:** Utterances which are marked as `Not relevant`may also conflict with utterances assigned to intents. For more information, see [Irrelevance detection in NLU](irrelevance-detection-nlu.md).
 
 -   **intents need review**: Intent was translated but must be reviewed by an nlu\_admin or nlu\_editor.
 
@@ -93,7 +93,7 @@ In this example procedure, you are resolving critical conflicts in one of your i
 
 ## What to do next
 
-Utterances designated as `Irrelevant` or `Not relevant`may also conflict with training utterances. Irrelevant utterances are displayed as though they are in their own intent named **NO\_INTENT**. However, these utterances cannot be edited or deleted in Conflicts. Copy the utterance to the Irrelevance Detection module to edit or delete. For more information, see [Irrelevance detection in NLU](../concept/irrelevance-detection-nlu.md).
+Utterances designated as `Irrelevant` or `Not relevant`may also conflict with training utterances. Irrelevant utterances are displayed as though they are in their own intent named **NO\_INTENT**. However, these utterances cannot be edited or deleted in Conflicts. Copy the utterance to the Irrelevance Detection module to edit or delete. For more information, see [Irrelevance detection in NLU](irrelevance-detection-nlu.md).
 
 Continue to resolve all conflicts. When finished, train your model to see a list of updated conflicts, if any. Resolve all intent issues prior to testing and publishing your model.
 

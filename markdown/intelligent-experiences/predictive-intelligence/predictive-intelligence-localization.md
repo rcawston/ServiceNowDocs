@@ -17,24 +17,24 @@ Predictive Intelligence provides international language support. Learn which lan
 
 When you create a Predictive Intelligence solution, you can choose the language you want the system to use for processing your training records. English is the default language.
 
-For an example of how to assign a language to a solution, see the Processing Language section in Step 3 of the [Create and train a classification solution](../task/create-solution-definition.md) documentation.
+For an example of how to assign a language to a solution, see the Processing Language section in Step 3 of the [Create and train a classification solution](create-solution-definition.md) documentation.
 
-You can also create custom stopwords lists for a language. For more information, see [Create a custom stopwords list](../task/create-custom-stopwords-list.md).
+You can also create custom stopwords lists for a language. For more information, see [Create a custom stopwords list](create-custom-stopwords-list.md).
 
 ## Language support coverage
 
 The current available languages for Predictive Intelligence solutions and stopwords lists are as follows: Brazilian Portuguese, Chinese \(simplified\), Danish, Dutch, English, Finnish, French, French Canadian, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Spanish, and Swedish.
 
-**Parent Topic:**[Predictive Intelligence references](../reference/reference-predictive-intelligence.md)
+**Parent Topic:**[Predictive Intelligence references](reference-predictive-intelligence.md)
 
 **Related topics**  
 
 
 [Domain separation and Predictive Intelligence](domain-separation-predictive-intelligence.md)
 
-[Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md)
+[Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md)
 
-[Predictive Intelligence properties](../reference/predictive-intelligence-properties.md)
+[Predictive Intelligence properties](predictive-intelligence-properties.md)
 
-[Predictive Intelligence roles](../reference/predictive-intelligence-roles.md#)
+[Predictive Intelligence roles](predictive-intelligence-roles.md#)
 

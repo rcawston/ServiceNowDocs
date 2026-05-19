@@ -38,5 +38,5 @@ Role required: itil
     The list is renamed.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

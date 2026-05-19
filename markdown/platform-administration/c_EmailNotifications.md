@@ -22,7 +22,7 @@ Email notifications allow administrators to specify:
 -   What content is in the notification
 -   Whether the notification can be delivered in an [email digest](email-digests.md) and if so, the digest content
 
-Additional email notification options are available. You can [subscribe to notifications](c_SubscriptionBasedNotifications.md), and administrators can make some [notifications mandatory](../task/t_MakingANotificationMandatory.md).
+Additional email notification options are available. You can [subscribe to notifications](c_SubscriptionBasedNotifications.md), and administrators can make some [notifications mandatory](t_MakingANotificationMandatory.md).
 
 Administrators also have the option of converting existing email notifications to a rich HTML format. This format provides several advantages, including:
 
@@ -35,17 +35,17 @@ Administrators also have the option of converting existing email notifications t
 
 **Note:** Instances can’t send or receive encrypted email messages. The system strips out the body of the encrypted email because it can’t process the encrypted content in plain text or HTML.
 
-An email notification can also send as an SMS notification if the recipient has subscribed to the notification on an SMS channel. The system uses the subject line of the email notification and converts it to an SMS message. If the administrator doesn't want to use the email notification subject for the SMS notification, they can define an alternate SMS message in the email template form or email notification form. For more information, see [Create an email notification](../task/t_CreateANotification.md).
+An email notification can also send as an SMS notification if the recipient has subscribed to the notification on an SMS channel. The system uses the subject line of the email notification and converts it to an SMS message. If the administrator doesn't want to use the email notification subject for the SMS notification, they can define an alternate SMS message in the email template form or email notification form. For more information, see [Create an email notification](t_CreateANotification.md).
 
-For more information on creating an SMS channel, see [Create notification channels](../task/create-channel.md).
+For more information on creating an SMS channel, see [Create notification channels](create-channel.md).
 
 For more information on setting up SMS notification see [KB0712569](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0712569).
 
-If you want to change how the instance processes incoming email, see [Inbound email actions](c_InboundEmailActions.md). See [System email log and mailboxes](../../time/reference/r_EmailLogs.md) for examples of messages the system displays when notifications or inbound email actions aren’t processed.
+If you want to change how the instance processes incoming email, see [Inbound email actions](c_InboundEmailActions.md). See [System email log and mailboxes](r_EmailLogs.md) for examples of messages the system displays when notifications or inbound email actions aren’t processed.
 
--   **[Create notification categories](../task/create-notification-categories.md)**  
+-   **[Create notification categories](create-notification-categories.md)**  
 You can create notification categories to identify and group related notifications that are listed in the notification settings for your users.
--   **[Create an email notification](../task/t_CreateANotification.md)**  
+-   **[Create an email notification](t_CreateANotification.md)**  
 Create an email notification specifying when to send it, who receives it, what it contains, and if it can be delivered in an email digest.
 -   **[Email notifications dashboard](email-notifications-dashboard.md)**  
 The email notification dashboard provides visibility into key metrics and enables admins to configure the dashboard to enable access to other users.
@@ -59,7 +59,7 @@ Create reusable content for the message body of email templates.
 You can archive and eventually destroy email messages that you no longer need or if your Email table is excessively large.
 -   **[Watermarks on notification emails](c_WorkingWithWatermarks.md)**  
 By default, a unique watermark label will be generated at the bottom of each notification email to allow matching incoming email to existing records.
--   **[Parse an email thread](../task/parse-email.md)**  
+-   **[Parse an email thread](parse-email.md)**  
 When an email is received, parse the most recent message in an email thread by creating **Email Reply Separators** using specified string or regular expressions.
 -   **[Email digests](email-digests.md)**  
 An email digest is a single email that summarizes the activity for a selected notification and its target records during a specified time interval. You can enable an email digest to reduce the number of notifications received when frequent updates to the associated records occur within a short time period.

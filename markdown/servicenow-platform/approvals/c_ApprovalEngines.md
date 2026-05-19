@@ -54,8 +54,8 @@ Turn off Engines
 Turn off both approval engines for this Task table. This option should be selected and is made read-only when a workflow is used to manage the approval process for the table. **Note:** Not turning off the approval engines might have a performance or behavioral impact on your instance.
 
 </td></tr></tbody>
-</table>-   **[Set up an approval engine](../task/t_SetupAnApprovalEngine.md)**  
+</table>-   **[Set up an approval engine](t_SetupAnApprovalEngine.md)**  
 To manage the approvals for each of the Task tables in the system, set up an approval engine.
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 

@@ -51,9 +51,9 @@ Store the credentials as an Account on the CyberArk vault. When you configure ac
 
 ## What to do next
 
-If you have not done so already, create a credential identifier on your instance to configure access to the CyberArk vault. For more details, see [Configure access to external credential storage for AWS](../../credentials/concept/external_cred_storage_configuration.md#).
+If you have not done so already, create a credential identifier on your instance to configure access to the CyberArk vault. For more details, see [Configure access to external credential storage for AWS](external_cred_storage_configuration.md#).
 
-**Parent Topic:**[CyberArk integration configuration](../../credentials/concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 
 ## Configure AWS Credentials on a CyberArk Vault using Classic UI
 
@@ -90,5 +90,5 @@ CyberArk Password Vault v14.2.1 includes both Accounts View and Accounts View \(
 
 ### What to do next
 
-If you have not done so already, create a credential identifier on your instance to configure access to the CyberArk vault. For more details, see [Configure access to external credential storage for AWS](../../credentials/concept/external_cred_storage_configuration.md#).
+If you have not done so already, create a credential identifier on your instance to configure access to the CyberArk vault. For more details, see [Configure access to external credential storage for AWS](external_cred_storage_configuration.md#).
 

@@ -17,7 +17,7 @@ Connect to your Argo CD instance using the DevOps Change Workspace playbook to a
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -116,5 +116,5 @@ Steps
 
 You’ve successfully onboarded your Argo CD tool to DevOps Change Velocity.
 
-**Parent Topic:**[Argo CD integration with DevOps Change Velocity](../concept/argo-cd-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Argo CD integration with DevOps Change Velocity](argo-cd-integration-with-devops-change-velocity.md)
 

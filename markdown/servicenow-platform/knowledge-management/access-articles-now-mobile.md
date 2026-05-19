@@ -55,7 +55,7 @@ Up to five of the most popular knowledge articles.The Now Mobile app homepage in
 </table>    **Note:** Tap **See All** to view the complete list of articles within the selected section.
 
 
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](mobile-experience-for-km.md)
 
 **Related topics**  
 

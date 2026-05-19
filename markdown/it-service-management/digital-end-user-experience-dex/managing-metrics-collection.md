@@ -26,5 +26,5 @@ Collecting metrics helps you proactively identify and resolve problems with your
 
 You can view and manage the metrics collected under DEX policies, such as an agent policy. Modify the metrics that you want to collect for a CI or scenario, or change how often a metric is collected.
 
-For details on how to create an agent policy, see [Create an agent policy](../task/create-agent-policy.md).
+For details on how to create an agent policy, see [Create an agent policy](create-agent-policy.md).
 

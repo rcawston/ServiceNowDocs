@@ -36,5 +36,5 @@ The default automatically runs every 5 minutes after you activate it.
 4.  Select **Update**.
 
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](work-with-invoice-exceptions.md)
 

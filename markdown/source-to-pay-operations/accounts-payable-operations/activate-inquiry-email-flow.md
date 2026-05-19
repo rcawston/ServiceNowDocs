@@ -44,5 +44,5 @@ Role required: admin
 9.  Select **Activate**.
 
 
-**Parent Topic:**[Components installed with Invoice Case Management](../reference/installed-with-invoice-case-mgmt.md)
+**Parent Topic:**[Components installed with Invoice Case Management](installed-with-invoice-case-mgmt.md)
 

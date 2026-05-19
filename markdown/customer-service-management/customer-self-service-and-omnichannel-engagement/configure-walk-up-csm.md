@@ -95,7 +95,7 @@ Surveys
 
 </td><td>
 
-Access customer satisfaction surveys and enable public access to the surveys, set survey trigger conditions, and view user responses. For more information about configuring schedules, see [CSM Walk-up Experience customer satisfaction surveys](../concept/csm-walkup-survey.md).
+Access customer satisfaction surveys and enable public access to the surveys, set survey trigger conditions, and view user responses. For more information about configuring schedules, see [CSM Walk-up Experience customer satisfaction surveys](csm-walkup-survey.md).
 
 </td></tr></tbody>
 </table>

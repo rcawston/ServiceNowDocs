@@ -28,5 +28,5 @@ Role required: password\_reset\_admin
     A progress page displays the result of the test.
 
 
-**Parent Topic:**[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+**Parent Topic:**[Credential stores for Password Reset](c_CredentialStores.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_cwm.cwm\_user
 
 The Doc is exported and saved in your local system as a PDF file.
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](cwm-docs.md)
 

@@ -24,15 +24,15 @@ With ServiceNow AI Lens, which is a ServiceNow® Now Assist application, you can
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the ServiceNow AI Lens application to get started.](../task/install-sn-lens.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the ServiceNow AI Lens application to get started.](install-sn-lens.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Capture screens to analyze, comprehend, and use data.](../task/servicenow-lens-use.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Capture screens to analyze, comprehend, and use data.](servicenow-lens-use.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ServiceNow AI Lens components, such as roles, tables, and limitations.](../reference/servicenow-lens-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ServiceNow AI Lens components, such as roles, tables, and limitations.](servicenow-lens-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -58,7 +58,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../../administer/now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../../administer/now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](../platform-now-assist-landing.md).
 

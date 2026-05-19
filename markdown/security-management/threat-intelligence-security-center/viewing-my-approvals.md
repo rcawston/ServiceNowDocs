@@ -47,7 +47,7 @@ Role required: sn\_sec\_tisc.analyst
     -   An email notification is sent to the user who created the import job import job when the import job that was in process is rejected.
     -   An email notification is sent to the approvers requesting for the approval.
 
-**Parent Topic:**[Working with Data Imports](../concept/working-with-data-imports.md)
+**Parent Topic:**[Working with Data Imports](working-with-data-imports.md)
 
 **Related topics**  
 

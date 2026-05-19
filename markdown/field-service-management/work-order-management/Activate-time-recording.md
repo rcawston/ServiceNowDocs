@@ -21,7 +21,7 @@ You can activate the Time Recording for Field Service plugin \(com.snc.wm\_time\
     -   **Required ServiceNow plugins**
         -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 
 Role required: admin.
@@ -33,7 +33,7 @@ The following items are installed with Time Recording for Field Service plugin:
 -   Plugins
 -   Roles
 
-For more information, see [Time Recording for Field Service components](../reference/components-time-recording-fsm.md).
+For more information, see [Time Recording for Field Service components](../components-time-recording-fsm.md).
 
 ## Procedure
 

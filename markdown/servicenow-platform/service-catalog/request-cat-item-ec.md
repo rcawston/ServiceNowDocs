@@ -71,5 +71,5 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(![Ic
     The corresponding request is displayed in the My Requests page with the request number, estimated delivery date for the order, price, and the order status.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](service-catalog-in-ec.md)
 

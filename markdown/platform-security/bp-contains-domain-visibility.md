@@ -19,34 +19,34 @@ Use a "contains" query only in special cases, such as when users or groups need 
 
 Before you move users to a domain, make sure that they really should have access to that domain. Weigh the benefits and limitations. The query above is for just one contains relationship. If you have a domain that contains another domain, and that domain is the parent of a number of other domains, you will have many more OR conditions. Be careful when you create a domain map so that you do not impact the performance of your instance.
 
-**Parent Topic:**[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
 [Domain separation explained](bp-what-is-domain-separation.md)
 
-[Domain separation hierarchies](../reference/bp-domain-sep-hierarchies.md)
+[Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
 [Context and domain separation](bp-domain-sep-context.md)
 
-[Segregating and securing data with domain separation](../reference/bp-segregate-secure.md)
+[Segregating and securing data with domain separation](bp-segregate-secure.md)
 
-[Alternatives to domain separation](../reference/bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](../reference/bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](../reference/bp-advantages-dom-sep.md)
+[Benefits of domain separation](bp-advantages-dom-sep.md)
 
 [How a database query works with domain separation](bp-db-query-with-ds.md)
 
-[Domain separation levels of support](../reference/bp-domain-levels.md)
+[Domain separation levels of support](bp-domain-levels.md)
 
-[Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](../reference/bp-terms-conditions.md)
+[Domain separation terms](bp-terms-conditions.md)
 
-[Domain-separate a custom table](../reference/bp-ds-custom-table.md)
+[Domain-separate a custom table](bp-ds-custom-table.md)
 
 [Customizing domain properties and themes](bp-domain-prop-themes.md)
 
@@ -70,7 +70,7 @@ Before you move users to a domain, make sure that they really should have access
 
 [Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](../reference/bp-domain-assignment.md)
+[Domain assignments](bp-domain-assignment.md)
 
 [Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

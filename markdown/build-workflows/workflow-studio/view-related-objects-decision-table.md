@@ -36,5 +36,5 @@ Role required: none
 5.  Select a related object to open it in Workflow Studio.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

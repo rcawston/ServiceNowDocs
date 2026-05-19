@@ -23,5 +23,5 @@ Customer success managers can use the onboarding case record to:
 -   Help transition the account to the next stage in the customer success journey.
 -   Manage new products and services.
 
-Onboarding case tasks are used to capture and track specific tasks associated with the customer account during each stage of the onboarding process. Customer success managers can track task progress across accounts and verify that important items haven’t been missed. See [Create an account onboarding case](../task/account-lifecycle-create-case.md) for more details.
+Onboarding case tasks are used to capture and track specific tasks associated with the customer account during each stage of the onboarding process. Customer success managers can track task progress across accounts and verify that important items haven’t been missed. See [Create an account onboarding case](account-lifecycle-create-case.md) for more details.
 

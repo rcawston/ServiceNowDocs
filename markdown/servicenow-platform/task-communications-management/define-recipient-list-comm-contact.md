@@ -87,5 +87,5 @@ The method used to generate the recipient list.-   Upload File: Upload an Excel 
 
 Define a communication contact for the task.
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](working-with-tcm.md)
 

@@ -29,7 +29,7 @@ Role required: it\_demand\_manager
 
 4.  On the Resource assignment new record form, fill in the fields.
 
-    For a description of the field names, see [New Resource Assignment form](../../resource-management-workspace/concept/create-ra-form-rmw.md).
+    For a description of the field names, see [New Resource Assignment form](../resource-management/create-ra-form-rmw.md).
 
 5.  Select **Submit**.
 

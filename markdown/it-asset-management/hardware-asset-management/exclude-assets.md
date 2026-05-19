@@ -41,7 +41,7 @@ Role required: admin
 
 The asset is excluded from using the licensed Hardware Asset Management features.
 
-**Parent Topic:**[Manage Hardware Asset Management subscriptions](../concept/managing-ham-subscriptions.md)
+**Parent Topic:**[Manage Hardware Asset Management subscriptions](managing-ham-subscriptions.md)
 
 **Related topics**  
 

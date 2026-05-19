@@ -64,5 +64,5 @@ Role required: admin
 7.  Select **Show Advanced Details** to view the configuration details.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](../concept/integrate-teams-msim.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](integrate-teams-msim.md)
 

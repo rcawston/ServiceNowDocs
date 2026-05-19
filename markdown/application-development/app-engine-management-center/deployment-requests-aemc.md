@@ -34,7 +34,7 @@ A reviewer can deploy the app to a test environment, reject it, or publish it, a
 
 **Note:** If you submit deployment requests without upgrading all instances in the pipeline, your existing pipeline continues to be used.
 
-For more information on reviewing a deployment request, see [Deployment Request form in the Pipelines and Deployments app](../../app-engine-studio/reference/deployment-req-form-d-and-p.md) and [Manage deployment requests](../../app-engine-studio/task/manage-deployment-requests.md).
+For more information on reviewing a deployment request, see [Deployment Request form in the Pipelines and Deployments app](deployment-req-form-d-and-p.md) and [Manage deployment requests](manage-deployment-requests.md).
 
 ## ReleaseOps deployment requests
 
@@ -42,7 +42,7 @@ Starting with version 28.2.1 of AEMC, you can also manage ReleaseOps deployment 
 
 ![View of a ReleaseOps deployment request in AEMC, where you can see the changes, deployment request state, Automated Test Framework and Instance Scan test suites, and the associated playbook.](../image/releaseops-deployment-request.png "ReleaseOps deployment request in AEMC")
 
-A ReleaseOps deployment request references the release the deployment request is associated with. For more information about ReleaseOps releases, see [Releases in ReleaseOps](../../release-ops/concept/releases-in-release-ops.md).
+A ReleaseOps deployment request references the release the deployment request is associated with. For more information about ReleaseOps releases, see [Releases in ReleaseOps](../releaseops/releases-in-release-ops.md).
 
 ReleaseOps deployment requests also contain the following information:
 

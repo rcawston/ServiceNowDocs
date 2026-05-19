@@ -21,7 +21,7 @@ Pattern entities use regular expressions \(regex\) to match any pattern of text,
 
 ## Regex examples
 
-For a full example of regex code used in a pattern entity, see [Create a pattern entity](../task/create-pattern-entity.md).
+For a full example of regex code used in a pattern entity, see [Create a pattern entity](create-pattern-entity.md).
 
 The following four examples provide the format and regex code for different pattern entities.
 

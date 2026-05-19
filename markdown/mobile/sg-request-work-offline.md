@@ -69,7 +69,7 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 
 **Related topics**  
 

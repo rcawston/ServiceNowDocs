@@ -258,5 +258,5 @@ Additional comments about the calibration.
     The state of both the work order task and associated work order changes from Work In Progress to Closed Complete.
 
 
-**Parent Topic:**[Managing work for your enterprise assets](../concept/managing-work-enterprise-assets.md)
+**Parent Topic:**[Managing work for your enterprise assets](managing-work-enterprise-assets.md)
 

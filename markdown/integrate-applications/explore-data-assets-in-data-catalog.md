@@ -62,5 +62,5 @@ Discover data assets using search or browsing. Search looks across asset names, 
     -   Search looks across multiple fields including names, descriptions, and business context
     -   Results display with key information including asset type, source system, and description
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](find-access-data-assets-dc.md)
 

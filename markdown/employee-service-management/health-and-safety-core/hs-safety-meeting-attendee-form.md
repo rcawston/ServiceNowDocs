@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 A safety team such as a safety meeting manager can use the Health and Safety meeting form to add an external attendee or a single internal attendee to a safety meeting.
 
-For more information, see [Add attendees to a safety meeting](../task/add-attendees-safety-meeting.md).
+For more information, see [Add attendees to a safety meeting](add-attendees-safety-meeting.md).
 
 <table id="table_mdh_33b_1fc"><thead><tr><th>
 
@@ -92,12 +92,12 @@ Work notes
 Notes for the meeting attendee.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](components-installed-hs-core.md)
 
 [Health and Safety action form](hs-action-form.md)
 

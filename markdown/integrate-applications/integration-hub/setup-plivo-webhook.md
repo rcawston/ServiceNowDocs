@@ -90,7 +90,7 @@ Role required: sn\_plivo\_spoke.Plivo\_Admin and decision\_table\_admin
 
 ### About this task
 
-Routing policy in the Plivo WebHook Routing Policy module triggers the subflows and notifies the ServiceNow instance when certain events occur in your Plivo account. See [Plivo Spoke](../concept/plivo-spoke.md) for information about the fields that the routing policy and subflows support.
+Routing policy in the Plivo WebHook Routing Policy module triggers the subflows and notifies the ServiceNow instance when certain events occur in your Plivo account. See [Plivo Spoke](plivo-spoke.md) for information about the fields that the routing policy and subflows support.
 
 ### Procedure
 
@@ -104,7 +104,7 @@ Routing policy in the Plivo WebHook Routing Policy module triggers the subflows 
 
 4.  Customize the subflow as per your requirement and publish it.
 
-    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [Plivo Spoke](../concept/plivo-spoke.md) for information about the supported fields.
+    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [Plivo Spoke](plivo-spoke.md) for information about the supported fields.
 
 5.  Navigate to **Plivo Spoke** &gt; **Plivo WebHook Routing Policy**.
 

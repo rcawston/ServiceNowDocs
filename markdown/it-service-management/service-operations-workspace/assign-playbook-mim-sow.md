@@ -50,7 +50,7 @@ Role required: admin
 
 The recommended playbooks section displays the following two base system playbooks that are shipped with Major Incident Management: -   **MI playbook**: Provides a simple and concise interface for communication and collaboration, as well as for unplanned communication or collaboration features in separate sections in a task-oriented view. This playbook is suggested for and can be used by upgrade customers.
 -   **Advanced MI playbook**: Provides a similar interface to the MI Playbook but has advanced, configurable capabilities for communication and collaboration, as well as unplanned communication or collaboration placed under a single section. You can configure the unplanned communication or collaboration section of the playbook to create, add, and configure the communication plans, tasks, collaboration channels, and channel types as required using the Playbooks.
-For more information, see [Designing a major incident playbook](../concept/design-playbooks-mim-sow.md). Playbooks enables you to make the Advanced MI Playbook more flexible to use. This playbook is suggested for and can be used by new or zBoot customers. For more information, see [Managing major incidents using playbooks](../concept/managing-mi-playbook-sow.md).
+For more information, see [Designing a major incident playbook](design-playbooks-mim-sow.md). Playbooks enables you to make the Advanced MI Playbook more flexible to use. This playbook is suggested for and can be used by new or zBoot customers. For more information, see [Managing major incidents using playbooks](managing-mi-playbook-sow.md).
 
 You can assign and use any or both playbooks with Major Incident Management based on your requirements and usage. Use the **sn\_sow.mim\_playbook\_ids** property to add the sys\_id of the playbook that you want to display under the playbook section and use for Major Incident Management.
 
@@ -70,7 +70,7 @@ Select the **Available playbooks** tab, then select **Playbook** and then select
 
 </td><td>
 
-Select the **Process Automation Designer** link in the Create new playbook section on the side panel to create a playbook or configure an existing playbook. For more information, see [Designing a major incident playbook](../concept/design-playbooks-mim-sow.md).
+Select the **Process Automation Designer** link in the Create new playbook section on the side panel to create a playbook or configure an existing playbook. For more information, see [Designing a major incident playbook](design-playbooks-mim-sow.md).
 
 </td></tr></tbody>
 </table>

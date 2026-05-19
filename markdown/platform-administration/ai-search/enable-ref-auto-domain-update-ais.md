@@ -39,7 +39,7 @@ This topic provides steps for configuring a **dot\_walk\_fields** field setting 
     |Field|&lt;reference field&gt;|
     |Value|sys\_domain,sys\_domain\_path|
 
-    For a description of the field values, see [Field Setting form](../reference/field-setting-form-ais.md).
+    For a description of the field values, see [Field Setting form](field-setting-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -52,5 +52,5 @@ The new **dot\_walk\_fields** field setting appears in the Field Settings &amp; 
 
 To make the new **dot\_walk\_fields** attribute take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Domain separation and AI Search](../concept/ai-search-domain-separation.md)
+**Parent Topic:**[Domain separation and AI Search](ai-search-domain-separation.md)
 

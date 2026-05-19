@@ -54,5 +54,5 @@ Co-owners have the same capabilities as owners.
 10. Select **Submit**.
 
 
-**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](../concept/jny-dsgnr-plan-config-admin.md)
+**Parent Topic:**[Setup the Journey designer plan configuration review and approval process](jny-dsgnr-plan-config-admin.md)
 

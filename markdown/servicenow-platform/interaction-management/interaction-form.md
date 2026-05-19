@@ -127,5 +127,5 @@ If using the Interaction wrap up feature, the system administrator can configure
  The default value for this field is false.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+</table>**Parent Topic:**[Interaction wrap up](interaction-wrap-up-state.md)
 

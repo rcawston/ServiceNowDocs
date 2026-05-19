@@ -19,7 +19,7 @@ Work on a complaint case to provide additional information, ensure that any outs
 
 Role required: sn\_bom\_compl.agent or sn\_bom\_compl.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -47,7 +47,7 @@ Use the case playbook that provides the activities and tasks to research and res
 
     Any tasks generated during playbook activities appear in the **Tasks** tab of the case.
 
-    **Note:** For information on complaint case field descriptions, see [Field descriptions for a complaint case](../reference/fso-complaint-form-fields.md).
+    **Note:** For information on complaint case field descriptions, see [Field descriptions for a complaint case](fso-complaint-form-fields.md).
 
 
 ## What to do next

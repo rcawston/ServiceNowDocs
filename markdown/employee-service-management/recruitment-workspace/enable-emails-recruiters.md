@@ -32,5 +32,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 

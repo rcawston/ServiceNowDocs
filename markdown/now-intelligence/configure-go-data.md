@@ -38,7 +38,7 @@ You can configure chart interactions only in the Visualization Designer or the i
     -   Go to URL
     -   Drill down to chart \(available from within the Visualization Designer\): Lets you add multiple layers of visualizations to drill down to from each metric in the visualization.
     -   Apply as filter \(available only when editing within a dashboard\)
-    The interactions are described in [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+    The interactions are described in [Chart interactions in a data visualization](dv-chart-interactions.md).
 
     ![Chart interaction section of data visualization configuration panel with available actions.](../image/chart-int-go-data-view.png)
 
@@ -66,5 +66,5 @@ Consider a horizontal bar data visualization of the number of incidents on the I
     ![Drilling down from parent visualization to child and navigating back up to parent.](../../par-for-workspace/image/dv-c2c-incident-by-priority-gif.gif)
 
 
-**Parent Topic:**[Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md)
+**Parent Topic:**[Chart interactions in a data visualization](dv-chart-interactions.md)
 

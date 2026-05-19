@@ -96,5 +96,5 @@ On the left side of this form in the following figure, the LogRhythm alarm rules
 
 After you complete the field mapping, the next step is to [Filter alarms for LogRhythm](filter-alarms-logrhythm.md).
 
-**Parent Topic:**[Mapping](../concept/mapping-logrhythm.md)
+**Parent Topic:**[Mapping](mapping-logrhythm.md)
 

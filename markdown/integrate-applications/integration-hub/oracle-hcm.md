@@ -208,5 +208,5 @@ The Oracle HCM Cloud spoke adds the Oracle HCM Cloud application to your instanc
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Configure the Oracle HCM Cloud spoke connection record](../../integrationhub-store-spokes/task/setup-oracle-hcm.md).
+For information about setting up the spoke, see [Configure the Oracle HCM Cloud spoke connection record](setup-oracle-hcm.md).
 

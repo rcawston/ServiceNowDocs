@@ -126,5 +126,5 @@ curl -i https://install.service-now.com/
 8.  Inspect the output of the cURL to see if the command succeeded using the proxy.
 
 
-**Parent Topic:**[Advanced configuration](../concept/dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
 

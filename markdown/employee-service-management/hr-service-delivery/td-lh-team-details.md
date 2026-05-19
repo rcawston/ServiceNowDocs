@@ -63,7 +63,7 @@ Range of years spent at the company
 Widget reflects a distribution of team members by tenure at the company. Administrators can configure the following components for the data that appears in this widget:-   Up to six segments
 -   The time range for each segment
 
-**Tip:** For more information about the configuration process, see [Configure time range data in tenure widgets](../task/td-lh-configure-tenure-widgets.md).
+**Tip:** For more information about the configuration process, see [Configure time range data in tenure widgets](td-lh-configure-tenure-widgets.md).
 
 The following time ranges are provided by default:
 
@@ -83,7 +83,7 @@ Time spent in current positions
 Widget reflects a distribution of team members by tenure in their current position. Administrators can configure the following components for the data that appears in this widget:-   Up to six segments
 -   The time range for each segment
 
-**Tip:** For more information about the configuration process, see [Configure time range data in tenure widgets](../task/td-lh-configure-tenure-widgets.md).
+**Tip:** For more information about the configuration process, see [Configure time range data in tenure widgets](td-lh-configure-tenure-widgets.md).
 
 The following time ranges are provided by default:
 

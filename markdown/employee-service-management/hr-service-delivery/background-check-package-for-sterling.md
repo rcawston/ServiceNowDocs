@@ -47,11 +47,11 @@ Role required: sn\_hr\_integrations.admin
 
 .
 
-**Parent Topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Parent Topic:**[Integrating with the Sterling Talent Solutions service](integrate-with-sterling-service.md)
 
 **Previous topic:**[Verify integration for the Sterling service](verify-base-integration-for-sterling.md)
 
-**Next topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Next topic:**[Integrating with the DocuSign service](docusign-integration-for-hr.md)
 
 **Related topics**  
 

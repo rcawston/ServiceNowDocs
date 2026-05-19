@@ -72,7 +72,7 @@ After you have the foundation of an app created, save your session and keep prom
 
 Prompting with governance requirements helps produce secure and compliant applications on the ServiceNow AI Platform. By embedding governance requirements directly into your prompts, you help the AI produce results aligned with your organizational standards for security, compliance, and quality.
 
-For more information on governance, see [Build Agent governance](../../build-agent/concept/build-agent-governance.md).
+For more information on governance, see [Build Agent governance](build-agent-governance.md).
 
 **Tip:** If you have explicit security requirements, include them in your initial prompt.
 

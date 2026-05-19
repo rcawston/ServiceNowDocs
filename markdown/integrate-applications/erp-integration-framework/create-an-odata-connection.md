@@ -20,7 +20,7 @@ Create an OData v2 connection to link to SAP via HTTP so data can be extracted f
 
 Role required: admin
 
-For information about OData connections in Zero Copy Connector for ERP, see [Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md) and [OData capabilities supported by Zero Copy Connector for ERP](../reference/erp-data-hub-odata-query-capabilities.md).
+For information about OData connections in Zero Copy Connector for ERP, see [Connect Zero Copy Connector for ERP to SAP using OData and HTTP](erp-canvas-use-odata-and-http-connection.md) and [OData capabilities supported by Zero Copy Connector for ERP](erp-data-hub-odata-query-capabilities.md).
 
 ## About this task
 
@@ -174,5 +174,5 @@ An admin or a user with the sn\_erp\_integration.erp\_admin role must enable the
     9.  View and check the output, for example, in **Output Data**, select the **Response** to view the output.
 
 
-**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md)
+**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](erp-canvas-use-odata-and-http-connection.md)
 

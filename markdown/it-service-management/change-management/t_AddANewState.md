@@ -23,7 +23,7 @@ Role required: script\_include\_admin, ui\_policy\_admin, ui\_action\_admin, or 
 
 ## About this task
 
-The [State model](t_ActivateStateModel.md) plugin is activated by default. For more information about base system states for change requests, see [Legacy: State model and transitions](../concept/c_ChangeStateModel.md).
+The [State model](t_ActivateStateModel.md) plugin is activated by default. For more information about base system states for change requests, see [Legacy: State model and transitions](c_ChangeStateModel.md).
 
 ## Procedure
 
@@ -176,7 +176,7 @@ Script
 
 To ensure that the new state works as expected, review the default workflows. Add the new state to the workflow as necessary.
 
-**Parent Topic:**[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+**Parent Topic:**[Legacy: State model and transitions](c_ChangeStateModel.md)
 
 ## Legacy: Review default workflows
 

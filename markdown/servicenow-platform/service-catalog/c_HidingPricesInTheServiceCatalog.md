@@ -22,7 +22,7 @@ Item prices can appear in the following locations:
 -   The **Shopping Cart** panel.
 -   The Edit Cart, Order Confirmation, and Order Status pages.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 
 ## Hide prices globally
 

@@ -42,7 +42,7 @@ Automated Test Framework: In this example, the second step references an output 
     ![Field values validation test step](../image/atf-use-backref-03.png "Step 3 - Field Values Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 
 **Related topics**  
 

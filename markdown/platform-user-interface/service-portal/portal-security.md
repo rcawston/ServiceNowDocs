@@ -28,19 +28,19 @@ Control who accesses your portal and what they can see in the following ways:
 
 -   **[Single sign-on, logins, and URL redirects](c_SPSSOLoginAndRedirects.md#)**  
 Service Portal uses a combination of system properties and script includes to determine how the system handles URL redirects for users logging in to the portal.
--   **[Configure page security by role](../task/configure-page-security.md)**  
+-   **[Configure page security by role](configure-page-security.md)**  
 Set up pages to be public or filter them by role.
--   **[Configure widget security](../task/configure-widget-security.md)**  
+-   **[Configure widget security](configure-widget-security.md)**  
 Configure widget security to ensure that your widget is being accessed only by the intended audience.
 -   **[User criteria for Service Portal](user-criteria.md)**  
 User criteria enables you to allow access to users based on role, department, group, location, or company. Administrators can control access to pages, widgets, widget instances, announcements, and search sources in a portal by creating and applying user criteria.
--   **[Enable e-signature for Service Portal](../task/enable-esignature-sp.md#)**  
+-   **[Enable e-signature for Service Portal](enable-esignature-sp.md#)**  
 You can configure e-signature in Service Portal to require re-authentication from approving users.
--   **[Enable external user self-registration for Service Portal](../task/enable-self-registration.md)**  
+-   **[Enable external user self-registration for Service Portal](enable-self-registration.md)**  
 Enable external users to register to a ServiceNow app through Service Portal.
--   **[Register your PIV/CAC card for Service Portal login](../task/piv-cac-login.md)**  
+-   **[Register your PIV/CAC card for Service Portal login](piv-cac-login.md)**  
 Register your Personal Identity Verification \(PIV\) or Common Access Card \(CAC\) card so that you can log in to your organization's portal without entering a password.
--   **[Deactivate a portal](../task/deactivate-portal.md)**  
+-   **[Deactivate a portal](deactivate-portal.md)**  
 Turn off access to a portal that you no longer want users to visit and optionally redirect them to another portal.
 
 **Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)

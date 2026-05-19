@@ -52,5 +52,5 @@ You can also specify to close the parent record on creation of the new record in
 9.  Select **OK**.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

@@ -73,5 +73,5 @@ Policy and Compliance
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Approver Configurator for setting up approvals](../concept/approval-configuration.md)
+</table>**Parent Topic:**[Using Approver Configurator for setting up approvals](approval-configuration.md)
 

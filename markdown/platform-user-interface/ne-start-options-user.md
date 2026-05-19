@@ -23,14 +23,14 @@ The start page that you configure should address your daily needs. Next Experien
 
 -   **Next Experience default landing page**
 
-    The default landing page provides information to help orient you to your tasks in an instance with Next Experience enabled. Variants of this page are available, depending on your setup. For more information, see [Exploring your Next Experience default landing page](../../../get-started/servicenow-overview/concept/exploring-your-next-experience-homepage.md).![Next Experience default landing page.](../image/ne-landing-page-user.png)
+    The default landing page provides information to help orient you to your tasks in an instance with Next Experience enabled. Variants of this page are available, depending on your setup. For more information, see [Exploring your Next Experience default landing page](exploring-your-next-experience-homepage.md).![Next Experience default landing page.](../image/ne-landing-page-user.png)
 
 -   **Configurable workspace home**
 
-    Any page within a configurable workspace can be the start page. For more information about configurable workspace options, see [Configuring Configurable Workspace](../../configurable-workspace/concept/c_set-up-configurable-workspace.md).
+    Any page within a configurable workspace can be the start page. For more information about configurable workspace options, see [Configuring Configurable Workspace](c_set-up-configurable-workspace.md).
 
 -   **Another user-selected landing page**
 
-    You can select any page on the platform to be your start, based on a user preference. A user-selected landing page can be any page inside a configurable workspace as well. For more information, see [Configure a user-selected start page](../task/configure-user-selected-start-page-preference.md).
+    You can select any page on the platform to be your start, based on a user preference. A user-selected landing page can be any page inside a configurable workspace as well. For more information, see [Configure a user-selected start page](configure-user-selected-start-page-preference.md).
 
 

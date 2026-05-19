@@ -19,7 +19,7 @@ This class requires the Messaging Notification plugin \(com.glide.notification.m
 
 Use the `sn_notification` namespace to access the Messaging API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Messaging - send\(GlideRecord messagingApplication, String recipient, GlideRecord messagingContent, GlideRecord target\)
 

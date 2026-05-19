@@ -64,7 +64,7 @@ Active
 Option to make the page configuration active.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

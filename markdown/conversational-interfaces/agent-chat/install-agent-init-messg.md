@@ -29,7 +29,7 @@ The following items are installed with Agent-Initiated Messaging Interface:
 -   Store applications
 -   Tables
 
-For more information, see [Components installed with Agent-initiated messaging interface](../reference/installed-with-agent-init-messg.md).
+For more information, see [Components installed with Agent-initiated messaging interface](installed-with-agent-init-messg.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Agent-initiated messaging i
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](config-agent-init-messg-interface.md)
 

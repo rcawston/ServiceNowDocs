@@ -34,5 +34,5 @@ var pa = new SNC.PADomainUtils();
 pa.copyJob('82ba2023d7101100b96d45a3ce6103cd','797d14341f1310005a3637b8ec8b7010');
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

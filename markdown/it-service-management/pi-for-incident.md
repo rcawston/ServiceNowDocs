@@ -26,5 +26,5 @@ These solution definitions are available as templates on instances where both Pr
 
 For more information on similarity solution, refer [Create similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md).
 
-**Parent Topic:**[Request Predictive Intelligence for Incident](../task/request-predictive-intelligence-for-im.md)
+**Parent Topic:**[Request Predictive Intelligence for Incident](request-predictive-intelligence-for-im.md)
 

@@ -58,11 +58,11 @@ This task provides guidance to create child items directly from the parent work 
 
 ## What to do next
 
--   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md).
+-   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md).
 
     This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
 
 -   [Schedule work items into iterations in EAP Backlog](schedule-work-items-into-iterations-in-eap-backlog.md).
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](using-eap.md)
 

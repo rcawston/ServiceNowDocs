@@ -65,12 +65,12 @@ The Outlook Actionable Messages plugin \(sn\_ms\_oam\) should be activated.
     An email notification with the embedded survey is sent to the user. The user can take the survey and submit it from the email client instead of opening the survey in a new browser tab.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](email-notification-for-surveys.md)
 
 [Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
@@ -80,11 +80,11 @@ The Outlook Actionable Messages plugin \(sn\_ms\_oam\) should be activated.
 
 [Enable localization for a survey](enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](c_SurveyURLs.md)
 
 [Create a survey module](t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](c_SurveyInportAndExport.md)
 
 [Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

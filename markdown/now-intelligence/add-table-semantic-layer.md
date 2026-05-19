@@ -79,7 +79,7 @@ If you have users who need to explore and discuss data relating to asset contrac
     ![Dimensions added for the Contract table.](../image/qgen-contract-dimensions.png)
 
 
-**Parent Topic:**[Configuring Query Generation](../concept/configuring-query-generation.md)
+**Parent Topic:**[Configuring Query Generation](configuring-query-generation.md)
 
 ## Add a batch of tables to the semantic layer
 

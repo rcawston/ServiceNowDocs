@@ -25,7 +25,7 @@ Universal Task offers pre-defined tasks for the agent to use. With Universal Tas
 
 ## Requester experience
 
-Universal Task enables employees to view the tasks that are assigned to them within the same request that must be completed. Employees can also communicate with the agents within the task that was created. For example, an employee creates a universal request for a laptop. The agent that is assigned for this request can task the employee to submit a catalog request to order the laptop. Employees can view the task in the **To-Do** tab of the Employee Service Center. Employees can also view the task under the **Tasks** tab, under individual Requests in the **Requests** page of the Employee Service Center and Service Portal, if the respective service configures the tab as shown in [Add a Task tab on the Standard Ticket page](../task/config-stdtktpage-for-ut.md).
+Universal Task enables employees to view the tasks that are assigned to them within the same request that must be completed. Employees can also communicate with the agents within the task that was created. For example, an employee creates a universal request for a laptop. The agent that is assigned for this request can task the employee to submit a catalog request to order the laptop. Employees can view the task in the **To-Do** tab of the Employee Service Center. Employees can also view the task under the **Tasks** tab, under individual Requests in the **Requests** page of the Employee Service Center and Service Portal, if the respective service configures the tab as shown in [Add a Task tab on the Standard Ticket page](config-stdtktpage-for-ut.md).
 
 ## Agent Experience
 

@@ -36,5 +36,5 @@ An administrator can reroute the workflow when a script error occurs by creating
     ![Error handling exit](../image/ErrorHandlingExit2.png)
 
 
-**Parent Topic:**[Workflow error handling](../concept/c_WorkflowErrorHandling.md)
+**Parent Topic:**[Workflow error handling](c_WorkflowErrorHandling.md)
 

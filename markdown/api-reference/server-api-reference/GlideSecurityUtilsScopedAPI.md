@@ -17,7 +17,7 @@ The GlideSecurityUtils API provides methods to work with URLs.
 
 Access these methods using the static object GlideSecurityUtils. This class is available in scoped and global scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSecurityUtils - cleanURL\(String url\)
 

@@ -38,5 +38,5 @@ Beginning with the Quebec release, the migration of keys and encrypted data from
 
 **Note:** Existing customers on the Paris release must contact ServiceNow Customer Support to migrate keys and encrypted data from Encryption Support to Column Level Encryption Enterprise.
 
-**Parent Topic:**[EMR Help reference](../reference/emr-reference.md)
+**Parent Topic:**[EMR Help reference](emr-reference.md)
 

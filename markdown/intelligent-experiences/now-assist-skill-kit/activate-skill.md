@@ -64,7 +64,7 @@ After activation, the skill moves to the **Active** tab in Now Assist Admin. Use
 
 You can enable Now Assist Guardian for your skills. To learn more about Now Assist Guardian, see .
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

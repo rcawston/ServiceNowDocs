@@ -19,8 +19,8 @@ The following CSS variables control the look and feel of the AI Search features 
 
 You can edit these variables in the **CSS variables** field of a Theme \[sp\_theme\] record. You can also configure these variables with a CSS Include associated with a portal's theme. For more information, see the following topics:
 
--   [Create a portal theme](../concept/c_CustomCSS.md)
--   [Create a CSS include to override theming for AI Search in Service Portal](../task/css-override-ais-theming-sp.md)
+-   [Create a portal theme](c_CustomCSS.md)
+-   [Create a CSS include to override theming for AI Search in Service Portal](css-override-ais-theming-sp.md)
 
 <table id="table_wcz_tww_knb"><thead><tr><th>
 
@@ -589,5 +589,5 @@ Text background color for title highlights in search results.**Note:** For this 
 To learn about configuring settings in EVAM view templates, see [Define an EVAM view template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-evam-template.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a CSS include to override theming for AI Search in Service Portal](../task/css-override-ais-theming-sp.md)
+</table>**Parent Topic:**[Create a CSS include to override theming for AI Search in Service Portal](css-override-ais-theming-sp.md)
 

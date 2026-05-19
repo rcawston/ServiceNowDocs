@@ -24,7 +24,7 @@ An improvement initiative consists of:
 ## Continual Improvement Management concepts
 
 -   [Continual Improvement Management overview](get-started-cim.md)
--   [Install Continual Improvement Management](../task/request-cim.md)
+-   [Install Continual Improvement Management](request-cim.md)
 -   [Identifying improvement opportunities](cim-improvement-request.md)
 -   [Managing improvements](cim-improvement-initiative-mgmt.md)
 -   [Domain separation and Continual Improvement Management](cim-domain-separation.md)

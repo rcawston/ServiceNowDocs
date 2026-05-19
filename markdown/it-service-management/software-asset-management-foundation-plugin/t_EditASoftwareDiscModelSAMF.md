@@ -34,5 +34,5 @@ If the information automatically added to the software discovery model is incomp
     The normalization status is set to Manually Normalized.
 
 
-**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](../concept/samf-plugin-configuration.md)
+**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](samf-plugin-configuration.md)
 

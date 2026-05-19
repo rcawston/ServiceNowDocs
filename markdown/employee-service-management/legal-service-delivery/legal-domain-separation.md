@@ -33,26 +33,26 @@ Legal Service Delivery includes the following applications:
 
 -   Legal Request Management
 -   Legal Matter Management
--   [Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
+-   [Gifts and Entertainment Compliance](../legal-gifts-and-entertainment/lsd-ge-landing-page.md)
 -   Legal Conflict of Interest
 -   Legal Digital Forensics
--   [Legal Invention Disclosure](../../legal-invention-disclosure/reference/legal-invention-disclosure-landing.md)
--   [Legal Investigations](../../legal-investigations/reference/legal-investigations-landing-page.md)
+-   [Legal Invention Disclosure](../legal-invention-disclosure/legal-invention-disclosure-landing.md)
+-   [Legal Investigations](../legal-investigations/legal-investigations-landing-page.md)
 -   Legal Simple Contracts
--   [Legal Simple Privacy](../../legal-simple-privacy/concept/legal-simple-privacy-landing-page.md)
+-   [Legal Simple Privacy](../legal-simple-privacy/legal-simple-privacy-landing-page.md)
 -   Legal Stock Preclearance
 
 All tables installed with the following applications can be domain-separated:
 
 -   Legal Request Management
 -   Legal Matter Management
--   [Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
+-   [Gifts and Entertainment Compliance](../legal-gifts-and-entertainment/lsd-ge-landing-page.md)
 -   Legal Conflict of Interest
 -   Legal Digital Forensics
--   [Legal Invention Disclosure](../../legal-invention-disclosure/reference/legal-invention-disclosure-landing.md)
--   [Legal Investigations](../../legal-investigations/reference/legal-investigations-landing-page.md)
+-   [Legal Invention Disclosure](../legal-invention-disclosure/legal-invention-disclosure-landing.md)
+-   [Legal Investigations](../legal-investigations/legal-investigations-landing-page.md)
 -   Legal Simple Contracts
--   [Legal Simple Privacy](../../legal-simple-privacy/concept/legal-simple-privacy-landing-page.md)
+-   [Legal Simple Privacy](../legal-simple-privacy/legal-simple-privacy-landing-page.md)
 -   Legal Stock Preclearance
 
 ## How domain separation works in Legal Service Delivery

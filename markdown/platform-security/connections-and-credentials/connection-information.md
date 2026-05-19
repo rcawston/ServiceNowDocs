@@ -46,15 +46,15 @@ Credential is unique across active connections, if not empty.
     -   Database port is renamed to port
     -   Data of the JDBC server and database migrates to host and port during the upgrade
 
--   **[Create a basic connection for PowerShell and SSH](../task/configure-ps-connection.md)**  
+-   **[Create a basic connection for PowerShell and SSH](configure-ps-connection.md)**  
 Configure connection information to use with a custom activity or action that uses the PowerShell or Secure Shell \(SSH\) protocol.
--   **[Create an HTTP\(s\) connection](../task/create-https-connection.md)**  
+-   **[Create an HTTP\(s\) connection](create-https-connection.md)**  
 The HTTP\(s\) connection provides the information custom HTTP\(s\) actions or activities use to connect.
--   **[Create a JDBC connection](../task/create-JDBC-connection.md)**  
+-   **[Create a JDBC connection](create-JDBC-connection.md)**  
 The JDBC Connection provides the information custom JDBC actions or activities use to connect to various target databases.
--   **[Create a JMS connection](../task/configure-connection-JMS.md)**  
+-   **[Create a JMS connection](configure-connection-JMS.md)**  
 Configure your system to use Java Messaging Service \(JMS\) with a custom JMS activity or action.
--   **[Create connection attributes for IntegrationHub](../task/create-connection-attributes.md)**  
+-   **[Create connection attributes for IntegrationHub](create-connection-attributes.md)**  
 Define connection-specific variables that you can use in Integration Hub integration steps.
 
 **Parent Topic:**[Connections and Credentials](r-credentials.md)

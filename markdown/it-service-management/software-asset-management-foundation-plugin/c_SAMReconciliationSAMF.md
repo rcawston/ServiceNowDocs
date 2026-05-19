@@ -15,7 +15,7 @@ breadcrumb: [Exploring Software Asset Management Foundation plugin, Software Ass
 
 Automated license reconciliation keeps license positions accurate and up to date without manual calculations. Reconciliation runs weekly or on demand.
 
-Reconciliation is a scheduled job that is run at a specified frequency \(default is weekly\). It can also be run on demand for specific or all publishers. For details on running software reconciliation in workspace, see [Run Software Asset Management Foundation plugin software reconciliation in workspace](../task/run-samf-software-recon-workspace.md). For details on running software reconciliation in the classic Software Asset Management Foundation plugin framework, see [Run Software Asset Management Foundation plugin software reconciliation in classic](../task/t_RunReconciliationSAMF.md).
+Reconciliation is a scheduled job that is run at a specified frequency \(default is weekly\). It can also be run on demand for specific or all publishers. For details on running software reconciliation in workspace, see [Run Software Asset Management Foundation plugin software reconciliation in workspace](run-samf-software-recon-workspace.md). For details on running software reconciliation in the classic Software Asset Management Foundation plugin framework, see [Run Software Asset Management Foundation plugin software reconciliation in classic](t_RunReconciliationSAMF.md).
 
 When reconciliation is run, a list of reconciliation results is created that shows the compliance status of software products with respect to discovery and entitlements. Users with the sam\_user role can view reconciliation results.
 

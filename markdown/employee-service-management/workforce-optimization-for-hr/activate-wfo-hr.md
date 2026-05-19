@@ -32,7 +32,7 @@ Role required: sn\_hr\_wfo.admin
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears:`Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>`
 
 
--   **[RCA approvals in Workforce Optimization for HR](../task/approve-rcas-script-wfo-hr.md)**  
+-   **[RCA approvals in Workforce Optimization for HR](approve-rcas-script-wfo-hr.md)**  
 After you install or upgrade to the latest Workforce Optimization for HR from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages.
 
 **Parent Topic:**[Configuring Workforce Optimization for HR](configure-wfo-hr.md)
@@ -42,9 +42,9 @@ After you install or upgrade to the latest Workforce Optimization for HR from Se
 
 [Workforce Optimization for HR Domain Separation](wfo-hr-domain-separation.md)
 
-[Setting up Scheduling for Workforce Optimization for HR](../task/setup-scheduling-wfo-hr.md)
+[Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)
 
-[Setting up Teams in Workforce Optimization for HR](../task/setup-team-workforce-wfo-hr.md)
+[Setting up Teams in Workforce Optimization for HR](setup-team-workforce-wfo-hr.md)
 
 [Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)
 

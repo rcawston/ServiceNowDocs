@@ -23,16 +23,16 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure case management](../task/configure-csm-case-management.md)
+[Configure case management](configure-csm-case-management.md)
 
 </td><td>
 
 Configure the case management features that enable agents and customers to create cases for issues and questions, track the activities related to resolving issues, and provide communication between the agent and customer.Some of the case management features include the following:
 
--   [Configure a Case form view](../task/configure-case-form.md) to display the desired fields and related lists.
--   [Configure SLA definitions for customer service cases](../task/t_DefineSLAForCustServiceCase.md) to specify the time within which service must be provided.
--   [Configure major issue management](../task/configure-major-issue-management.md) to manage the communication and resolution process for issues that impact multiple customers.
--   [Configure special handling notes](../task/configure-special-handling-notes.md) to bring important case information to an agent’s attention.
+-   [Configure a Case form view](configure-case-form.md) to display the desired fields and related lists.
+-   [Configure SLA definitions for customer service cases](t_DefineSLAForCustServiceCase.md) to specify the time within which service must be provided.
+-   [Configure major issue management](configure-major-issue-management.md) to manage the communication and resolution process for issues that impact multiple customers.
+-   [Configure special handling notes](configure-special-handling-notes.md) to bring important case information to an agent’s attention.
 
 </td></tr><tr><td>
 

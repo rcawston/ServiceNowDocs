@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure product data](../task/configure-csm-products.md)
+[Configure product data](configure-csm-products.md)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Configure the product data for your company, including:-   Product models: Goods
 
 </td></tr><tr><td>
 
-[Configure assets](../task/configure-csm-assets.md)
+[Configure assets](configure-csm-assets.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Assign an asset to a customer contact who is responsible for managing that asset
 
 </td></tr><tr><td>
 
-[Create service contracts](../task/create-csm-service-contracts.md)
+[Create service contracts](create-csm-service-contracts.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ Service contracts define the type of support that accounts and consumers receive
 
 </td></tr><tr><td>
 
-[Configure entitlements](../task/configure-csm-entitlements.md)
+[Configure entitlements](configure-csm-entitlements.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Entitlements define the type of support that an account or consumer receives as 
 
 </td></tr><tr><td>
 
-[Configure Customer Contracts and Entitlements](../../post-sales-support/concept/configuring-post-sales-support.md)
+[Configure Customer Contracts and Entitlements](configuring-post-sales-support.md)
 
 </td><td>
 

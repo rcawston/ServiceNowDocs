@@ -17,7 +17,7 @@ Provides Security Operations actions for flow designers to manage Security Incid
 
 ## Security Incident Response flow templates
 
-The Security Incident Response flow templates are created using [Workflow Studio](../../workflow-studio/reference/workflow-studio.md).
+The Security Incident Response flow templates are created using [Workflow Studio](workflow-studio.md).
 
 **Note:** Each of the flows is triggered when the **Category** in a security incident is set or changed.
 
@@ -35,5 +35,5 @@ The Security Incident Response flow templates are created using [Workflow Studio
 |[Security Incident Unauthorized Access flow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-unauth-access-integhub-flow-template.md)|Perform a series of tasks designed to handle unauthorized access to your network.|
 |[Security Incident Web/BBS Defacement flow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-web-defacement-integhub-flow-template.md)|Perform a series of tasks designed to handle vandalism directed against one of your BBS or web sites.|
 
-**Parent Topic:**[Spokes](../../flow-designer/concept/spokes.md)
+**Parent Topic:**[Spokes](spokes.md)
 

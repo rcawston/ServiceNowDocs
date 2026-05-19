@@ -20,5 +20,5 @@ Limitations in Proactive Engagement:
 -   Remedial action resolution type cannot be used if the remedial actions require any runtime parameters.
 -   Actionable notifications for LLM will be supported from WP3 and Xanadu. However, In Vancouver, the portal with NLU will get notifications.
 
-**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

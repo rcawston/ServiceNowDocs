@@ -142,5 +142,5 @@ Details for the execution that is currently running.
 **Related topics**  
 
 
-[Rightsizing resources](../concept/rs-cloudin.md)
+[Rightsizing resources](rs-cloudin.md)
 

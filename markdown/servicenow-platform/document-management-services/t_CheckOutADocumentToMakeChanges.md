@@ -42,5 +42,5 @@ Role required: document\_management\_user
     For example, `Policy_POL_02.txt`.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](c_ManagedDocuments.md)
 

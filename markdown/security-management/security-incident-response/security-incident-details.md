@@ -73,7 +73,7 @@ The **Details** tab contains the **Activity** stream section within the details 
 
 11. Select **Switch to SIR workspace** to jump to the security incident form and the customized section within the **Details** tab of the workspace.
 
--   **[Security incident Details tab](../reference/security-incident-details-form.md)**  
+-   **[Security incident Details tab](security-incident-details-form.md)**  
 This section describes all the fields of the **Details** tab of a security incident.
 
 **Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
@@ -91,9 +91,9 @@ This section describes all the fields of the **Details** tab of a security incid
 
 [Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Reports in Security Incident Response](report-templates-sir.md)
 

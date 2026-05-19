@@ -28,5 +28,5 @@ System administrators can configure settings for the leaderboard widget:
 -   The leaderboard type \(community, forum, or topic\)
 -   Anchor to a specific forum or topic \(not recommended\)
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](communities-gamification-UI.md)
 

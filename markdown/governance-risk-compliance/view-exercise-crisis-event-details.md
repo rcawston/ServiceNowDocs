@@ -61,7 +61,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
         **Note:** If the activated plan refers to a different plan to recover a related asset, then all those related plans are listed below the main activated plan as **Related plans** in the left pane.
 
-        For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](../concept/planning-execution-event-bcm.md).
+        For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](planning-execution-event-bcm.md).
 
     2.  To add an ad hoc task to the event, click the **Add ad hoc task** button.
 

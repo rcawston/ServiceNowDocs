@@ -27,5 +27,5 @@ This stage enables you to report fraud, initiate chargeback, associate dispute t
 **Related topics**  
 
 
-[Summarize a dispute or claims case with case summarization](../../fso-common/task/summarize-case-using-now-assist-fso.md)
+[Summarize a dispute or claims case with case summarization](../now-assist-for-financial-services-operations-fso/summarize-case-using-now-assist-fso.md)
 

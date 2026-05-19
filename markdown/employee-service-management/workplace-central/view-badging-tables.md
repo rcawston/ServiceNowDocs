@@ -54,7 +54,7 @@ Role required: sn\_wsd\_wc.admin
     -   Total headcount vs online headcount by department
     -   Total headcount vs onsite headcount by workplace entity
 
-        Filter by workplace entity to view space allocations of a building based on workplace entities. Workplace entity-based allocation, enables you to control the space consumption of each business in your organization. For more information, see [Map designated workspaces to user profiles](../../workplace-service-delivery/task/map-employees-to-existing-workplace-locations-wsd.md) and [Attendance Analytics](attendance-analytics.md).
+        Filter by workplace entity to view space allocations of a building based on workplace entities. Workplace entity-based allocation, enables you to control the space consumption of each business in your organization. For more information, see [Map designated workspaces to user profiles](../workplace-core/map-employees-to-existing-workplace-locations-wsd.md) and [Attendance Analytics](../workplace-connectors/attendance-analytics.md).
 
     ![Occupancy dashboard showing headcount trends.](../../workplace-maintenance-management/images/wsd-workplace-entity-total-headcount.png)
 
@@ -74,16 +74,16 @@ Role required: sn\_wsd\_wc.admin
 10. After exporting the data, download or email the data.
 
 
-**Parent Topic:**[Working with Workplace Analytics](../../workplace-central/concept/working-with-workplace-analytics.md)
+**Parent Topic:**[Working with Workplace Analytics](working-with-workplace-analytics.md)
 
 **Related topics**  
 
 
-[View Space Optimization metrics](../../workplace-central/task/view-space-opt-analytics.md)
+[View Space Optimization metrics](view-space-opt-analytics.md)
 
-[View Lease Administration metrics](../../workplace-central/task/view-lease-admin-analytics.md)
+[View Lease Administration metrics](view-lease-admin-analytics.md)
 
-[View Maintenance Management metrics](../../workplace-central/task/view-maintenence-mgmt-analytics.md)
+[View Maintenance Management metrics](view-maintenence-mgmt-analytics.md)
 
-[Manage Workplace Dashboards](../../workplace-central/task/workplace-dashboards-wsd-central.md)
+[Manage Workplace Dashboards](workplace-dashboards-wsd-central.md)
 

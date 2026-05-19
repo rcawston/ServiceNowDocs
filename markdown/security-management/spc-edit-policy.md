@@ -63,7 +63,7 @@ If you publish a new version of a policy, you have the option to close any exist
 
 If you cancel at this point or exit edit mode, a message is displayed that you have an unpublished edit for this policy.
 
-If you choose to close its existing related test results \(findings\), test result and remediation task states transition in accordance with the state transition processes of the Configuration Compliance application. See [Test result and remediation task state transitions in the Security Posture Control application](../concept/spc-findings-state-transition.md) for more information.
+If you choose to close its existing related test results \(findings\), test result and remediation task states transition in accordance with the state transition processes of the Configuration Compliance application. See [Test result and remediation task state transitions in the Security Posture Control application](spc-findings-state-transition.md) for more information.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Configure findings
 
 </td><td>
 
-Select **Yes** in the modal to generate findings for the policy. See [Security Posture Control: Configuring and viewing your findings](../concept/spc-view-findings.md).
+Select **Yes** in the modal to generate findings for the policy. See [Security Posture Control: Configuring and viewing your findings](spc-view-findings.md).
 
 </td></tr><tr><td>
 

@@ -51,5 +51,5 @@ Role required: System Admin \(admin\)
 4.  Select **Run script**.
 
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

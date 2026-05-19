@@ -332,7 +332,7 @@ If the schedule entry is scheduled to repeat, specifies an end date until which 
 
 You can modify CAB meeting details and send meeting requests to attendees. You can also manage agendas by reviewing or adding agenda items to each of the CAB meetings.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
@@ -341,7 +341,7 @@ You can modify CAB meeting details and send meeting requests to attendees. You c
 
 [Work on a change request in Service Operations Workspace](work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Create a change task in Service Operations Workspace](create-change-task-sow.md)
 

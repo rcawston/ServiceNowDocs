@@ -17,7 +17,7 @@ Skills Foundation integrates with Learning to introduce skills-driven learning s
 
 Learning integrates with Skills Foundation to enhances a user's learning experience.
 
-When the Skills Foundation property sn\_skills\_int.enable\_skills is set to true, the use of is enabled for Learning. See [Configuring Skills Foundation](../../skills-intelligence/concept/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+When the Skills Foundation property sn\_skills\_int.enable\_skills is set to true, the use of is enabled for Learning. See [Configuring Skills Foundation](../talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
 ## Skills associated with Learning content
 

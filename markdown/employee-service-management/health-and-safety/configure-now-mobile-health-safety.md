@@ -33,7 +33,7 @@ Role required: none
 
     -   Now Mobile app for submitting safety incidents, observations, and JSAs, and viewing safety register documents.
 
-        For more information on using this mobile app, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+        For more information on using this mobile app, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
     -   ServiceNow Agent mobile app for conducting inspection and audit surveys offline.
 
@@ -58,5 +58,5 @@ Role required: none
 
 -   For an instance with the Health and Safety Risk Management application, the **Create a job safety analysis** quick link appears in the **Home** tab of the Now Mobile app in your mobile device.
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

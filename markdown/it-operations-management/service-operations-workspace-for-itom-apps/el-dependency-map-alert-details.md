@@ -36,5 +36,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     The **Dependency View** map opens.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](dependency-maps.md)
 

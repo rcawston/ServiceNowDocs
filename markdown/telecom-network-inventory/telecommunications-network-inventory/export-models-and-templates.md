@@ -52,14 +52,14 @@ Export models and templates is used when an admin or catalog manager needs to do
     When exporting a model or template with parent-child relationships, only the parent and its children are included. Siblings aren't be exported.
 
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](import-models-and-templates.md)
 
 **Related topics**  
 
 
-[Exporting hierarchy process via JSON](../concept/exporting-hierarchy-process-via-json.md)
+[Exporting hierarchy process via JSON](exporting-hierarchy-process-via-json.md)
 
-[Exporting hierarchy via XML](../concept/exporting-hierarchy-process-via-xml.md)
+[Exporting hierarchy via XML](exporting-hierarchy-process-via-xml.md)
 
 [Export hierarchy of models and templates as JSON](export-hierarchy-of-models-and-templates-as-json.md)
 

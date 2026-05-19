@@ -46,5 +46,5 @@ To migrate your Discovery Source to ServiceNow:
 7.  Use the Update All option to change the value to ServiceNow.
 
 
-**Parent Topic:**[Advanced Discovery configuration](../concept/c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
 

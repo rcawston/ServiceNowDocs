@@ -19,7 +19,7 @@ The following experiences are available after configuring the employee experienc
 -   Now Assist Virtual Agent enhanced with prebuilt AI agents for requesters, enabling incident creation, status checks, and approvals in their preferred channels such as Microsoft Teams.
 -   Prebuilt content such as taxonomy, catalog items, and record producers to resolve common IT issues and requests.
 
-For information about available AI agents for employee configurations, see [AI agents and agentic workflows in Simplified IT Service Management](../reference/agents-ai-native-it-service-desk.md).
+For information about available AI agents for employee configurations, see [AI agents and agentic workflows in Simplified IT Service Management](agents-ai-native-it-service-desk.md).
 
 ## Service channels
 
@@ -110,7 +110,7 @@ The Virtual Agent platform provides user assistance through conversations within
 
 |Configuration|Description|Default configuration|Optional configurations|
 |-------------|-----------|---------------------|-----------------------|
-|Catalog items|Services or product offerings available for your users.|Prebuilt catalog items and record producer with fulfillment workflows covering common IT issues and requests are active. For information about prebuilt catalog items, see [Catalog items installed with Simplified IT Service Management](../reference/catalog-items-base-system.md).|Review and edit a catalog item or create a catalog item using the native catalog builder experience. For information about adding a catalog item using Catalog Builder, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-item-cat-builder.md).|
+|Catalog items|Services or product offerings available for your users.|Prebuilt catalog items and record producer with fulfillment workflows covering common IT issues and requests are active. For information about prebuilt catalog items, see [Catalog items installed with Simplified IT Service Management](catalog-items-base-system.md).|Review and edit a catalog item or create a catalog item using the native catalog builder experience. For information about adding a catalog item using Catalog Builder, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-item-cat-builder.md).|
 
 ## Surveys
 
@@ -144,7 +144,7 @@ Preconfigured employee satisfaction surveys to gather feedback post incident res
 
 </td><td>
 
-Create or edit an existing survey using Survey Designer. For information about configuring surveys, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).For information about the Implementation Plan Manager Agent that provides conversational AI-native experience for survey configuration, see [AI agents and agentic workflows in Simplified IT Service Management](../reference/agents-ai-native-it-service-desk.md).
+Create or edit an existing survey using Survey Designer. For information about configuring surveys, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).For information about the Implementation Plan Manager Agent that provides conversational AI-native experience for survey configuration, see [AI agents and agentic workflows in Simplified IT Service Management](agents-ai-native-it-service-desk.md).
 
 </td></tr></tbody>
 </table>

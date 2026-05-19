@@ -53,7 +53,7 @@ For example, a critical announcement that is 20 days old might appear after a hi
 
 [Conversational authoring for announcements](eslate-conversational-authoring-announcements.md)
 
-[Create an announcement using chat](../task/eslate-create-announcement-with-now-assist.md)
+[Create an announcement using chat](eslate-create-announcement-with-now-assist.md)
 
-[Employee Slate announcement form](../reference/eslate-employee-slate-announcement-fields.md)
+[Employee Slate announcement form](eslate-employee-slate-announcement-fields.md)
 

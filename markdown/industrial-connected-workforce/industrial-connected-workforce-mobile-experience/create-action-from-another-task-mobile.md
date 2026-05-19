@@ -35,7 +35,7 @@ You can create an action from an existing action, deviation, breakdown, or root 
 
 4.  Change the values for the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form-mobile.md).
+    For a description of the field values, see [Action form](action-form-mobile.md).
 
 5.  Select **Next** twice to go through the entire form.
 
@@ -46,5 +46,5 @@ You can create an action from an existing action, deviation, breakdown, or root 
 
 The action is created and can be found in the **Actions** related list of the parent task. The parent task can’t be closed until all child tasks in the Actions list are closed.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-As an audit manager, and IT project manager, create an audit plan to manage different types of audits in a periodic manner and group engagements in a logical manner. For details see, [Create an audit plan](../../grc-audit/task/create-audit-plan.md)
+As an audit manager, and IT project manager, create an audit plan to manage different types of audits in a periodic manner and group engagements in a logical manner. For details see, [Create an audit plan](create-audit-plan.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ As an audit manager, and IT project manager, create an audit plan to manage diff
 
 </td><td>
 
-As an audit user or an audit manager, create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform risk assessments on the auditable units. For details, see [Create an auditable unit](../../grc-audit/task/create-auditable-unit.md)
+As an audit user or an audit manager, create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform risk assessments on the auditable units. For details, see [Create an auditable unit](create-auditable-unit.md)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ As an audit user or an audit manager, create auditable units with entities such 
 
 </td><td>
 
-As an audit manager, use the advanced planning capabilities to create an engagement that automatically creates an engagement project. For details, see [Create an engagement with advanced planning](../../grc-audit/task/creating-an-engagement-with-advance-planning.md)
+As an audit manager, use the advanced planning capabilities to create an engagement that automatically creates an engagement project. For details, see [Create an engagement with advanced planning](creating-an-engagement-with-advance-planning.md)
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ As an audit manager, use the advanced planning capabilities to create an engagem
 
 </td><td>
 
-As an audit manager, create milestones that can be used to track the progress of an engagement.After you create milestones for an engagement, you can also add audit tasks to the milestone and track those tasks as milestones. For details see, [Create an engagement milestone](../../grc-audit/task/create-milestones.md)
+As an audit manager, create milestones that can be used to track the progress of an engagement.After you create milestones for an engagement, you can also add audit tasks to the milestone and track those tasks as milestones. For details see, [Create an engagement milestone](create-milestones.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ As an IT project manager, create a cost plan to specify the unit cost of a cost 
 
 </td><td>
 
-Audit observations are the results of an audit. As an important part of the audit report, audit observations represent the results of reviews, analysis, interviews, and discussions. For details see, [Audit observations](../../grc-audit/concept/audit-observations.md)
+Audit observations are the results of an audit. As an important part of the audit report, audit observations represent the results of reviews, analysis, interviews, and discussions. For details see, [Audit observations](audit-observations.md)
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Audit observations are the results of an audit. As an important part of the audi
 
 </td><td>
 
-As an audit user, request evidence. Evidence request is used by audit and compliance teams for requesting supporting documents during an audit. Auditors and compliance teams require these documents from the first line of defense. For details see, [Request evidence for audit](../../grc-audit/task/request-evidence.md)
+As an audit user, request evidence. Evidence request is used by audit and compliance teams for requesting supporting documents during an audit. Auditors and compliance teams require these documents from the first line of defense. For details see, [Request evidence for audit](request-evidence.md)
 
 </td></tr></tbody>
 </table>

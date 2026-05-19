@@ -49,6 +49,6 @@ To learn more about configuring and using Predictive Intelligence for Legal Serv
 
 -   [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)
 -   [Configure Predictive Intelligence for Legal Service Delivery](lsd-PI-configure-landing.md)
--   [Use Predictive Intelligence for Legal Service Delivery](../task/lsd-pi-use-legal-request.md)
+-   [Use Predictive Intelligence for Legal Service Delivery](lsd-pi-use-legal-request.md)
 -   [Predictive Intelligence for Legal Service Delivery reference](lsd-PI-reference-landing.md)
 

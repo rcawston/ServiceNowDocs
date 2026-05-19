@@ -43,7 +43,7 @@ Refer to a base system configuration collector as an example for creating the co
 
         **Note:**
 
-        For more information on the available CAL actions, see [Cloud Action Library actions reference](../reference/ccg-cal-actions.md).
+        For more information on the available CAL actions, see [Cloud Action Library actions reference](ccg-cal-actions.md).
 
         If CAL doesn’t have the required action, you can refer to an existing CAL action and use the Integration Hub REST step to implement the custom action. For more information, see [REST step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/rest-request-action-designer.md).
 

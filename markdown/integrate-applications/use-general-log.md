@@ -15,7 +15,7 @@ Capture custom messages as automation logs by using the Log component in an auto
 
 ## Before you begin
 
-Make sure that you enable the **Track Execution Automation Logs** option from a bot process. For more information on how to enable Track Execution Logs, see [Bot Process form in RPA Hub](../../rpa-hub/task/select-botprocess.md#).
+Make sure that you enable the **Track Execution Automation Logs** option from a bot process. For more information on how to enable Track Execution Logs, see [Bot Process form in RPA Hub](select-botprocess.md#).
 
 Role required: none
 
@@ -25,7 +25,7 @@ Previously, the messages from the Log component were updated to the product erro
 
 Starting from the Vancouver release, the log messages from the automations that execute on the RPA Desktop Design Studio, the attended robots, and the unattended robots are written to the **Message** field in the Automation logs table of a process job in RPA Hub.
 
-You aren’t required to upgrade the plugin version of the older automations. For more information about the list components that are upgraded with RPA Desktop Design Studio, Attended Robot, and Unattended Robot, see [List of components compatible with latest version](../reference/list-components-upgrade.md).
+You aren’t required to upgrade the plugin version of the older automations. For more information about the list components that are upgraded with RPA Desktop Design Studio, Attended Robot, and Unattended Robot, see [List of components compatible with latest version](list-components-upgrade.md).
 
 ## Procedure
 
@@ -48,12 +48,12 @@ You aren’t required to upgrade the plugin version of the older automations. Fo
 
         **Important:** In the previous version of RPA Desktop Design Studio, the **Error image** and **Verbose** options were available. If you open an older automation project in the Vancouver release of RPA Desktop Design Studio, these options are converted to the type **Error**.
 
-    For more information on how to configure the remaining properties of the Log component, see [Properties of the General components](../reference/Properties-general-components.md).
+    For more information on how to configure the remaining properties of the Log component, see [Properties of the General components](Properties-general-components.md).
 
 5.  To test the component, under the **DESIGN** tab, select **Run**.
 
     **Note:** When you run the Log component from RPA Desktop Design Studio, no message updates to RPA Hub because no process job is associated to it.
 
 
-**Parent Topic:**[RPA Hub](../concept/rpa-hub.md)
+**Parent Topic:**[RPA Hub](rpa-hub.md)
 

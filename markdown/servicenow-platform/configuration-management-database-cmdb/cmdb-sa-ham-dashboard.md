@@ -134,15 +134,15 @@ Displays key metrics related to CIs missing model details, ownership, and other 
 
 |Card|Description|Indicators|
 |----|-----------|----------|
-|CIs missing model name|Operational CIs not associated with a model ID or associated with a model ID missing a name.|[CIs missing model name](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-name)|
-|CIs missing model number|Operational CIs not associated with a model ID or associated with a model ID missing a model number.|[CIs missing model number](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-number)|
-|CIs missing model manufacturer|Operational CIs not associated with a model ID or associated with a model ID missing a manufacturer.|[CIs missing manufacturer](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-manufacturer)|
-|CIs missing model ID|Operational CIs not associated with a model ID.|[CIs missing model ID](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-id)|
-|CIs missing assigned to|Operational CIs not assigned to a specific user, leading to unclear ownership and delayed action.|[CIs missing assigned to](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-assigned-to)|
-|CIs missing location|Operational CIs not associated with a location, leading to gaps in asset tracking and service mapping.|[CIs missing location](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-location)|
-|CIs missing owner|Operational CIs not associated with an owner, leading to unclear accountability and delayed issue resolution.|[CIs missing owner](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-owner)|
-|CIs missing managed by group|Operational CIs not managed by a specific ownership group, leading to inefficient support assignment and operational risk.|[CIs missing managed by group](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-managed-by-grp)|
-|CIs missing serial number|Operational CIs missing a serial number, leading to issues with duplicate identification.|[CIs missing serial number](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-serial-number)|
+|CIs missing model name|Operational CIs not associated with a model ID or associated with a model ID missing a name.|[CIs missing model name](cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-name)|
+|CIs missing model number|Operational CIs not associated with a model ID or associated with a model ID missing a model number.|[CIs missing model number](cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-number)|
+|CIs missing model manufacturer|Operational CIs not associated with a model ID or associated with a model ID missing a manufacturer.|[CIs missing manufacturer](cmdb-sa-ham-dashboard-indicators.md#ci-missing-manufacturer)|
+|CIs missing model ID|Operational CIs not associated with a model ID.|[CIs missing model ID](cmdb-sa-ham-dashboard-indicators.md#ci-missing-model-id)|
+|CIs missing assigned to|Operational CIs not assigned to a specific user, leading to unclear ownership and delayed action.|[CIs missing assigned to](cmdb-sa-ham-dashboard-indicators.md#ci-missing-assigned-to)|
+|CIs missing location|Operational CIs not associated with a location, leading to gaps in asset tracking and service mapping.|[CIs missing location](cmdb-sa-ham-dashboard-indicators.md#ci-missing-location)|
+|CIs missing owner|Operational CIs not associated with an owner, leading to unclear accountability and delayed issue resolution.|[CIs missing owner](cmdb-sa-ham-dashboard-indicators.md#ci-missing-owner)|
+|CIs missing managed by group|Operational CIs not managed by a specific ownership group, leading to inefficient support assignment and operational risk.|[CIs missing managed by group](cmdb-sa-ham-dashboard-indicators.md#ci-missing-managed-by-grp)|
+|CIs missing serial number|Operational CIs missing a serial number, leading to issues with duplicate identification.|[CIs missing serial number](cmdb-sa-ham-dashboard-indicators.md#ci-missing-serial-number)|
 
 **Note:** Select **Show more** in the CIs missing model data and other key attributes section to view all the cards.
 
@@ -172,13 +172,13 @@ Operational CIs not updated, causing data gaps and inaccuracies in the CMDB.
 
 </td><td>
 
-[CIs not updated in last 7 days](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-7)[CIs not updated in last 14 days](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-14)
+[CIs not updated in last 7 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-7)[CIs not updated in last 14 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-14)
 
-[CIs not updated in last 30 days](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-30)
+[CIs not updated in last 30 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-30)
 
-[CIs not updated in last 60 days](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-60)
+[CIs not updated in last 60 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-60)
 
-[CIs not updated in last 90 days](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-90)
+[CIs not updated in last 90 days](cmdb-sa-ham-dashboard-indicators.md#ci-not-updated-90)
 
 **Note:** The CIs not updated card data is additionally filtered based on the Stale CI filter. See [Filters](cmdb-sa-ham-dashboard.md#section_an4_nnj_fgc).
 
@@ -192,7 +192,7 @@ Operational CIs identified as duplicates based on key matching attributes, causi
 
 </td><td>
 
-[Hardware CIs group by](../reference/cmdb-sa-ham-dashboard-indicators.md#hw-ci-group-by)
+[Hardware CIs group by](cmdb-sa-ham-dashboard-indicators.md#hw-ci-group-by)
 
 </td></tr></tbody>
 </table>## CI and asset-related issues
@@ -221,7 +221,7 @@ Operational CIs not associated with an asset record, leading to incomplete asset
 
 </td><td>
 
-[CIs missing asset](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-missing-asset)
+[CIs missing asset](cmdb-sa-ham-dashboard-indicators.md#ci-missing-asset)
 
 </td></tr><tr><td>
 
@@ -233,7 +233,7 @@ Virtual assets created for virtual CIs that are operational, leading to inaccura
 
 </td><td>
 
-[Assets created for virtual CIs](../reference/cmdb-sa-ham-dashboard-indicators.md#asset-created-virtual-ci)
+[Assets created for virtual CIs](cmdb-sa-ham-dashboard-indicators.md#asset-created-virtual-ci)
 
 </td></tr><tr><td>
 
@@ -245,7 +245,7 @@ Assets without a matching CI, caused by CIs not being discoverable on the networ
 
 </td><td>
 
-[Assets missing CI](../reference/cmdb-sa-ham-dashboard-indicators.md#assets-missing)
+[Assets missing CI](cmdb-sa-ham-dashboard-indicators.md#assets-missing)
 
 </td></tr><tr><td>
 
@@ -257,7 +257,7 @@ All CIs where the install status matches or differs from the corresponding asset
 
 </td><td>
 
-[CI install status vs. asset state matched](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-install-status-asset-state-matched)[CI install status vs. asset state mismatched](../reference/cmdb-sa-ham-dashboard-indicators.md#ci-install-status-asset-state-mismatched)
+[CI install status vs. asset state matched](cmdb-sa-ham-dashboard-indicators.md#ci-install-status-asset-state-matched)[CI install status vs. asset state mismatched](cmdb-sa-ham-dashboard-indicators.md#ci-install-status-asset-state-mismatched)
 
 </td></tr></tbody>
 </table>

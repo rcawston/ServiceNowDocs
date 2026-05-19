@@ -32,5 +32,5 @@ When you deactivate a requirement, all records for the requirement in the Employ
 3.  Click **Deactivate**.
 
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

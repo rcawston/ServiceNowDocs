@@ -129,5 +129,5 @@ The request is now fulfilled and the procurement case moves to the Closed Comple
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Fulfilling request for copy of contract in playbook](../concept/fulfilling-request-for-contract.md)
+**Parent Topic:**[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
 

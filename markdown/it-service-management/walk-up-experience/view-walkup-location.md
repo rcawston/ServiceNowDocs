@@ -43,5 +43,5 @@ The agents can view associated walk-up location stockrooms in following ways:
     If there are any pending interactions with no associated guests at the queue, select **Abandon All** to cancel these interactions.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 

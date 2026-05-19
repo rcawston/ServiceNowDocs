@@ -77,5 +77,5 @@ The maximum number of categories a user can select while submitting an idea. Def
 **Related topics**  
 
 
-[Create an Idea module](../task/create-idea-module.md)
+[Create an Idea module](create-idea-module.md)
 

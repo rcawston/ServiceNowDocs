@@ -65,7 +65,7 @@ To create custom prompts for OOB and custom knowledge article templates, clone t
     |Provider|Select the third-party AI provider that you want to use|
     |Provider API|Select the API details of the third-party AI provider|
 
-9.  To develop a prompt, see [Guidelines for creating prompts](../concept/guidelines-for-creating-prompts.md).
+9.  To develop a prompt, see [Guidelines for creating prompts](guidelines-for-creating-prompts.md).
 
 10. Save the prompt.
 
@@ -112,8 +112,8 @@ To create custom prompts for OOB and custom knowledge article templates, clone t
     The KB generation skill for Now Assist is activated and ready to use the custom templates as defined by the prompt.
 
 
--   **[Guidelines for creating prompts](../concept/guidelines-for-creating-prompts.md)**  
+-   **[Guidelines for creating prompts](guidelines-for-creating-prompts.md)**  
 The guidelines help to write prompts for Out-of-Box \(OOB\) and custom knowledge article templates. Follow these instructions to create ideal prompts that optimize the use of AI models for generating knowledge articles.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 

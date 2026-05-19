@@ -65,5 +65,5 @@ The following examples show effective column descriptions and usage instructions
 
 Test your column configuration by asking questions that involve this field in Query Generation and verifying that the correct filters are generated.
 
-**Parent Topic:**[Customizing semantic metadata](../concept/customize-semantic-metadata.md)
+**Parent Topic:**[Customizing semantic metadata](customize-semantic-metadata.md)
 

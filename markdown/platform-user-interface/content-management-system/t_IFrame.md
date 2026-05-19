@@ -25,7 +25,7 @@ Configure an iFrame with forms you create in the instance and link to the page i
 
 **Note:** Do not add any type of report, such as a calendar, to iFrames. For more information on adding a report directly onto a page without using iFrames, see [Embedding reports in Jelly](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_EmbeddingReportsInJelly.md).
 
-**Note:** To deliver ServiceNow content from a web page, see [Service Portal](../../../build/service-portal/concept/c_ServicePortal.md) instead.
+**Note:** To deliver ServiceNow content from a web page, see [Service Portal](../service-portal/c_ServicePortal.md) instead.
 
 ## Procedure
 
@@ -71,7 +71,7 @@ Enter the URL to display in the iFrame. If you use the iFrame to display Service
 
  `sc_req_item_list.do?sysparm_query=active=true`
 
- For more information, see [Navigate to a record or module using a URL](../../../use/navigation/task/navigate-using-url.md).
+ For more information, see [Navigate to a record or module using a URL](../navigate-using-url.md).
 
 </td></tr><tr><td>
 
@@ -87,10 +87,10 @@ Select an option for iFrame block size.**Note:** The **Expand to fit content** c
 
 -   **[Integrate Live Feed with CMS](t_AddLiveFeedToIFrame.md)**  
 You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
--   **[iFrame methods](../concept/c_IFrameMethods.md)**  
+-   **[iFrame methods](c_IFrameMethods.md)**  
 The following examples show how system records are pulled into an iFrame that is placed on a content page.
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
@@ -111,7 +111,7 @@ The following examples show how system records are pulled into an iFrame that is
 
 [Configure a detailed content block](t_DetailedContentBlock.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a content block](t_CreateAContentBlock.md)
 

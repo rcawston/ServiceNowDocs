@@ -44,10 +44,10 @@ Role required: sn\_apm.apm\_read
     **Note:** You can also clear all applied filters by selecting the **Clear all filters** button.
 
 
-**Parent Topic:**[Working with Enterprise Architecture workspace home page](../../concept/eaw-concept/eaw-work-with-ea-workspace-homepage.md)
+**Parent Topic:**[Working with Enterprise Architecture workspace home page](eaw-work-with-ea-workspace-homepage.md)
 
 **Related topics**  
 
 
-[Enterprise Architecture Workspace Overview](../../reference/eaw-reference/eaw-overview.md)
+[Enterprise Architecture Workspace Overview](eaw-overview.md)
 

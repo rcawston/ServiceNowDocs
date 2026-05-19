@@ -54,7 +54,7 @@ The system uses roles, groups, skills, and location to determine the appropriate
 
 You can view group information by selecting any tier in the **Escalate from** or **Escalate to** fields. The escalation rule takes effect immediately for new case assignments.
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](c_ManageRoles.md)
 
 **Related topics**  
 

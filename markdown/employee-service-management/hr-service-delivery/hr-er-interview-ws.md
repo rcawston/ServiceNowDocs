@@ -103,7 +103,7 @@ Scheduling method
 
 The method you are using to schedule the interview. Select **Manual entry** to select the Start and End dates and times of the interview.
 
- If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can schedule an interview with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](../concept/using-interview-management.md).
+ If your company uses the integration with Microsoft Outlook Calendar to schedule, select **Calendar**. You can schedule an interview with an interface that syncs with your company's Outlook Calendar. For more information, see [Using Interview Management](using-interview-management.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Notes from the interview or you can enter the answers to the questions from the 
 
  Select ![Interview Template icon](../image/hr-ws-int-temp-icon2.png) to see the Insert to notes or Copy to clipboard choices.
 
- Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](../concept/hr-er-interview-1.md#).
+ Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](hr-er-interview-1.md#).
 
 </td></tr></tbody>
 </table>8.  Select **Save**.

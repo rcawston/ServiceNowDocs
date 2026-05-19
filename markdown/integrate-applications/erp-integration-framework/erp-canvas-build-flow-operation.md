@@ -24,7 +24,7 @@ The Use ERP Data action enables you to use ERP data outside of Zero Copy Connect
 
 After you're done creating and managing your model in Zero Copy Connector for ERP, go to Workflow Studio and use the Use ERP Data action to test your model's inputs and outputs.
 
-When you test the action, you must specify the model you're using, which fields to read or update, and the ERP system. For more information on the action, see [Use ERP Data action details for flows](../reference/erp-canvas-flow-reference-2.md).
+When you test the action, you must specify the model you're using, which fields to read or update, and the ERP system. For more information on the action, see [Use ERP Data action details for flows](erp-canvas-flow-reference-2.md).
 
 ## Using parameters to filter data requests
 
@@ -40,10 +40,10 @@ If you want to use ERP data for processes or tasks outside of Zero Copy Connecto
 
 1.  In Workflow Studio, test the **Use ERP Data** action by selecting the model in the **System** field of the Test Action modal and then specifying the inputs.
     -   For more information on testing actions, see [Test an action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/test-action.md).
-    -   For more details on inputs for the action, see [Use ERP Data action details for flows](../reference/erp-canvas-flow-reference-2.md).
+    -   For more details on inputs for the action, see [Use ERP Data action details for flows](erp-canvas-flow-reference-2.md).
 2.  After the test runs, view the action execution details. For more information, see [Flow execution details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-execution-details.md).
 3.  The returned data from testing the action appears in the **Response** field of the output data.
-    -   For more information on outputs for the action, see [Use ERP Data action details for flows](../reference/erp-canvas-flow-reference-2.md).
+    -   For more information on outputs for the action, see [Use ERP Data action details for flows](erp-canvas-flow-reference-2.md).
     -   For details on incorporating returned ERP data, see [Specifying where ERP system data is saved](erpc-call-response-data.md).
 4.  Build a flow that runs the Use ERP Data action.
 

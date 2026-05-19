@@ -238,7 +238,7 @@ Hardware
 </td></tr></tbody>
 </table>The Subscription unit ratio is the ratio of the number of assets to the number of subscription units. For example, the subscription unit ratio of Industrial Consumable is 25:1, where 25 assets require a single unit of license. If 1 license costs $100, then 25 industrial consumable assets cost $100 and 50 industrial consumable assets cost $200.
 
-You can view the subscription details of your OT Asset Management application using the ITAM License Report. For more details, see [View the license report for the OT Asset Management application](../task/view-license-report-otam.md).
+You can view the subscription details of your OT Asset Management application using the ITAM License Report. For more details, see [View the license report for the OT Asset Management application](view-license-report-otam.md).
 
 ## OT hardware assets in OT Asset Management licensing
 
@@ -268,9 +268,9 @@ When both OT Asset Management and Hardware Asset Management applications or lice
 -   OT Asset Management workflows support only OT hardware assets.
 -   HAM workflows support both OT hardware assets and non-OT hardware assets.
 
-For more details on licensing hardware assets, see [Licensing framework for Hardware Asset Management solutions](../../hardware-asset-management/concept/licensing-ham-solutions.md).
+For more details on licensing hardware assets, see [Licensing framework for Hardware Asset Management solutions](../hardware-asset-management/licensing-ham-solutions.md).
 
--   **[View the license report for the OT Asset Management application](../task/view-license-report-otam.md)**  
+-   **[View the license report for the OT Asset Management application](view-license-report-otam.md)**  
 View details of the subscriptions consumed by your organization for the OT Asset Management application by using the ITAM License Report.
 
 **Parent Topic:**[OT Asset Management](ot-asset-management.md)
@@ -278,9 +278,9 @@ View details of the subscriptions consumed by your organization for the OT Asset
 **Related topics**  
 
 
-[Install OT Asset Management](../task/install-otam.md)
+[Install OT Asset Management](install-otam.md)
 
-[Installed with OT Asset Management](../reference/installed-with-otam.md)
+[Installed with OT Asset Management](installed-with-otam.md)
 
 [OT Asset Workspace](ot-asset-ws-otam.md)
 

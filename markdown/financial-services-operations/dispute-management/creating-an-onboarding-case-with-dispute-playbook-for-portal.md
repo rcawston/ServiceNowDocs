@@ -31,11 +31,11 @@ Let's see how to create a disputes case from the dispute intake in portal. Perfo
 
 1.  Create a card disputes case.
 
-    Create a request by navigating to either the portal landing page or the portal menu header. For more information on how to create a request, see [Create a card disputes case request from the service catalog](../task/create-an-onboarding-request-from-the-service-catalog.md)
+    Create a request by navigating to either the portal landing page or the portal menu header. For more information on how to create a request, see [Create a card disputes case request from the service catalog](create-an-onboarding-request-from-the-service-catalog.md)
 
 2.  Initiate a dispute.
 
-    Select the financial account to initiate a dispute. A series of questions need to be answered by the user to arrive at the category and reason code. Choose the disputed transaction from the list of transactions under the financial account and provide additional information to determine the dispute category by answering the questions. For more details on the various stages of activities, see [Initiate a dispute](../task/create-case-with-intake-workspace.md#).
+    Select the financial account to initiate a dispute. A series of questions need to be answered by the user to arrive at the category and reason code. Choose the disputed transaction from the list of transactions under the financial account and provide additional information to determine the dispute category by answering the questions. For more details on the various stages of activities, see [Initiate a dispute](create-case-with-intake-workspace.md#).
 
     **Note:** If the dispute category is Fraud, select additional transactions from the transaction list if more than one transaction is being disputed.
 
@@ -55,12 +55,12 @@ Let's see how to create a disputes case from the dispute intake in portal. Perfo
 
 6.  Submit the case for review.
 
-    Review the dispute amount, add any additional comments regarding the disputed transactions, and then submit the case for review. For more information, see [Investigating a dispute](../task/investigate-a-dispute.md).
+    Review the dispute amount, add any additional comments regarding the disputed transactions, and then submit the case for review. For more information, see [Investigating a dispute](investigate-a-dispute.md).
 
 
-**Note:** Before submitting an application, you can save it as a draft to return and complete later. Once saved, you can find your drafts in the case list under **Requests** &gt; **All Requests**. After submission, you can view updates on the case in the dispute tracker. For more information on the dispute tracker, see [View the status of a request using the dispute tracker](../task/view-the-status-of-a-request.md)
+**Note:** Before submitting an application, you can save it as a draft to return and complete later. Once saved, you can find your drafts in the case list under **Requests** &gt; **All Requests**. After submission, you can view updates on the case in the dispute tracker. For more information on the dispute tracker, see [View the status of a request using the dispute tracker](view-the-status-of-a-request.md)
 
--   **[View the status of a request using the dispute tracker](../task/view-the-status-of-a-request.md)**  
+-   **[View the status of a request using the dispute tracker](view-the-status-of-a-request.md)**  
 Track the progress of card disputes case requests using the dispute tracker.
 
 **Parent Topic:**[About dispute intake](dispute-intake-overview.md)

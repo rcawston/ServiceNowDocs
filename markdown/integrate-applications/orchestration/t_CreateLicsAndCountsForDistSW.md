@@ -34,7 +34,7 @@ You can create software licenses and counters in Software Asset Management for s
 5.  Run the counter to retrieve the software license information.
 
 
-**Parent Topic:**[Client Software Distribution](../concept/c_ClientSoftwareDistribution.md)
+**Parent Topic:**[Client Software Distribution](c_ClientSoftwareDistribution.md)
 
 ## Client software distribution ordering process
 

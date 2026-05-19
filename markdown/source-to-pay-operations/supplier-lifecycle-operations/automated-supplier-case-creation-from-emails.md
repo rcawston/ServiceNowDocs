@@ -21,7 +21,7 @@ The Email Intent to Action Agentic workflow analyzes incoming supplier emails, i
 
 To use this functionality, verify that the following steps are completed:
 
--   Configure the \[sn\_supplier.slm\_email\] system property and edit the Value field to contain supplier email address. For more information, see [Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md).
+-   Configure the \[sn\_supplier.slm\_email\] system property and edit the Value field to contain supplier email address. For more information, see [Configure properties for Supplier Case Management](config-prop-supp-mgmt.md).
 -   Deactivate the Create Supplier case for email inbound action. For more information, see [Deactivate Create supplier case from email inbound action](deactivate-create-supplier-case-from-email-inbound-action.md).
 -   Activate the Trigger Intent to Action inbound action. For more information, see [Enable intent to action workflow from inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-intent-to-action.md).
 

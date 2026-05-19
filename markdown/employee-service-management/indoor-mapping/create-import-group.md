@@ -31,7 +31,7 @@ Role required: sn\_map\_core.map\_admin, sn\_map\_core.map\_editor
 
 3.  On the Floor plan import group form, fill in the fields.
 
-    For a description of the field values, see [Floor map import group form](../reference/import-group-form.md).
+    For a description of the field values, see [Floor map import group form](import-group-form.md).
 
 4.  Select **Submit**.
 
@@ -50,13 +50,13 @@ Work on the import tasks that are created for your import group. For more inform
 
 After the import tasks are created, the Automate map updates AI agentic workflow is triggered for each task. The Map Admin Agent autonomously retrieves sources for the uploaded CAD file and resumes the import task. If the source isn't found, the agent moves the task to the `Waiting user input` state.
 
-For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](../../now-assist-wsd/concept/automate-map-updates-agent-ai.md).
+For more information about the Automate map updates AI agentic workflow, see [Automate map updates agentic workflow](../now-assist-for-wsd/automate-map-updates-agent-ai.md).
 
 **Note:** If you selected **Supervised AI execution** in the Floor map import group form, you must manually trigger the AI agent for every import task.
 
-**Parent Topic:**[Bulk update floor plans](../concept/bulk-import-cad-files.md)
+**Parent Topic:**[Bulk update floor plans](bulk-import-cad-files.md)
 
-**Previous topic:**[Bulk update floor plans](../concept/bulk-import-cad-files.md)
+**Previous topic:**[Bulk update floor plans](bulk-import-cad-files.md)
 
 **Next topic:**[Work on an import task](work-import-task.md)
 

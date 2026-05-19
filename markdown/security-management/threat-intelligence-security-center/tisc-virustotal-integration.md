@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:** type="note"&gt;The Threat Intelligence Security Center and VirusTotal Threat Lookup plugins must be installed and active.
 
-Download the VirusTotal integration from the ServiceNow Store. Verify you have a valid VirusTotal account before use. For more information see, [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+Download the VirusTotal integration from the ServiceNow Store. Verify you have a valid VirusTotal account before use. For more information see, [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 This integration requires a valid VirusTotal API key and enables automated security analysis.
 
@@ -57,5 +57,5 @@ This integration requires a valid VirusTotal API key and enables automated secur
 
 After configuration, you can select VirusTotal to perform lookups on observables in Threat Intelligence Security Center.
 
-**Parent Topic:**[TISC VirusTotal integration](../concept/tisc-virustotal-integration_0.md)
+**Parent Topic:**[TISC VirusTotal integration](tisc-virustotal-integration_0.md)
 

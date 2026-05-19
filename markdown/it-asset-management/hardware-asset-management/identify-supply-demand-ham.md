@@ -79,5 +79,5 @@ Role required: asset
     The Supply vs Demand graph updates to show the recently calculated values.
 
 
-**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](../concept/manage-stockroom-inventory-report-ham.md)
+**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](manage-stockroom-inventory-report-ham.md)
 

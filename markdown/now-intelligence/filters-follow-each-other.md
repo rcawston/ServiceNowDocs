@@ -13,9 +13,9 @@ breadcrumb: [Select or cascading filters, Filters, Platform Analytics experience
 
 It is possible to set up two filters to follow each other mutually. However, several technical limitations apply.
 
-Two Single/Multiple select filters can follow each other through a direct connection, as described in [Configure a Single/Multiple select or cascading filter](../task/create-select-filter-workspace.md). The conditions described in that topic apply to both filters. For example, both filters must filter data on the other's filter source.
+Two Single/Multiple select filters can follow each other through a direct connection, as described in [Configure a Single/Multiple select or cascading filter](create-select-filter-workspace.md). The conditions described in that topic apply to both filters. For example, both filters must filter data on the other's filter source.
 
-Two Single/Multiple select filters can also filter each other through a many-to-many connection, as described in [Set a filter to follow another filter in a many-to-many relationship](../task/set-filter-to-follow-filter.md). Only admins can set up such a connection.
+Two Single/Multiple select filters can also filter each other through a many-to-many connection, as described in [Set a filter to follow another filter in a many-to-many relationship](set-filter-to-follow-filter.md). Only admins can set up such a connection.
 
 Besides the general conditions for a filter to follow another, the following conditions also apply:
 

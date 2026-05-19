@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Use the Mobile Offline properties area to specify the type and amount of information to display to a user when they are in offline mode. For example, you can display a month’s worth of tasks in online mode and only three days’ worth in offline mode. In both online and offline modes, the data item type is always the same and the information is extracted from the same table. For more information, see [Data items](../concept/sg-data-item.md).
+Use the Mobile Offline properties area to specify the type and amount of information to display to a user when they are in offline mode. For example, you can display a month’s worth of tasks in online mode and only three days’ worth in offline mode. In both online and offline modes, the data item type is always the same and the information is extracted from the same table. For more information, see [Data items](sg-data-item.md).
 
 **Note:** If a data item is not created for offline mode, then the standard data item is used for both offline and online modes.
 
@@ -46,5 +46,5 @@ Use the Mobile Offline properties area to specify the type and amount of informa
 6.  Select **Save**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

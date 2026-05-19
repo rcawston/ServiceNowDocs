@@ -155,7 +155,7 @@ Configure a mobile-friendly experience for a company's employees to engage with 
 
 </td></tr><tr><td>
 
-[Table Builder](../../../administer/form-builder/concept/tb-landing-page.md)
+[Table Builder](form-builder-glide-family-release/tb-landing-page.md)
 
 </td><td>
 
@@ -183,7 +183,7 @@ Configure a dark theme for your company's brand that makes use of a primary colo
 
 </td></tr><tr><td>
 
-[UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md)
+[UI Builder](ui-builder/ui-builder-overview.md)
 
 </td><td>
 
@@ -211,7 +211,7 @@ Create and configure a conversation flow that enables end users to see the statu
 
 </td></tr><tr><td>
 
-[Workspace Builder](../../workspace-builder/concept/using-workspace-builder.md)
+[Workspace Builder](workspace-builder/using-workspace-builder.md)
 
 </td><td>
 

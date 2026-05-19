@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-When you submit a time sheet, time cards are verified against the assigned [time sheet policy](../concept/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
+When you submit a time sheet, time cards are verified against the assigned [time sheet policy](time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ When you submit a time sheet, time cards are verified against the assigned [time
     The time sheet moves to the Submitted state.
 
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](worker-portal.md)
 
 **Related topics**  
 

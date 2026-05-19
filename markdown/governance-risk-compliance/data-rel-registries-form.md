@@ -75,5 +75,5 @@ Relationship table
 Read-only field. The table selected in the **Relationship** field is displayed as a relationship table by default. For example, Issue \[sn\_grc\_issue\].
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a relationship registry record](../task/create-a-rela-registry-record.md)
+</table>**Parent Topic:**[Create a relationship registry record](create-a-rela-registry-record.md)
 

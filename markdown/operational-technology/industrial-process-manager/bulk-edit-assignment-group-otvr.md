@@ -40,5 +40,5 @@ Role required: cmdb\_ot\_isa\_admin
 
 The **OT VR assignment group** field is updated for each selected site.
 
-**Parent Topic:**[Review and update the equipment model details](../../mftg-manufacturing-process-mgr/task/equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
 

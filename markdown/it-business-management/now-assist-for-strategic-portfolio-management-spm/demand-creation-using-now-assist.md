@@ -23,7 +23,7 @@ Use the conversational experience of Now Assist in Virtual Agent to create a dem
 Ensure that the following tasks are completed:
 
 -   Install an application that supports Virtual Agent.
--   Complete configuring the conversational experiences for demand creation. For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+-   Complete configuring the conversational experiences for demand creation. For more information, see [Configure Now Assist Admin features](configuring-na-spm.md).
 
 Role required: none
 
@@ -90,7 +90,7 @@ Using the context that you provided, Virtual Agent automatically matches it to t
     The conversation is now complete.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 

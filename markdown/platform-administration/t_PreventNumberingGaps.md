@@ -32,5 +32,5 @@ When records are created but not saved, a gap in the numbering is created. You c
 3.  Click **Save**.
 
 
-**Parent Topic:**[Record numbering](../concept/c_ManagingRecordNumbering.md)
+**Parent Topic:**[Record numbering](c_ManagingRecordNumbering.md)
 

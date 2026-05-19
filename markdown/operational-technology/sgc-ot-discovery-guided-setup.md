@@ -15,7 +15,7 @@ Use the Guided Setup for the Service Graph Connector \(SGC\) for ServiceNow OT D
 
 ## Before you begin
 
-Review the [Service Graph Connector prerequisites and settings](../concept/sgc-prereq-settings.md) section before beginning.
+Review the [Service Graph Connector prerequisites and settings](sgc-prereq-settings.md) section before beginning.
 
 Role required: admin
 

@@ -64,5 +64,5 @@ High impact Problem with no known error article
 Displays the Create known error article recommendation for a high-impact problem with no attached known error article.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recommended Actions for ITSM reference](../concept/recommended-actions-for-itsm-reference.md)
+</table>**Parent Topic:**[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)
 

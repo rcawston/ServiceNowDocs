@@ -94,7 +94,7 @@ Retain indefinitely
 
 </td><td>
 
-Check box to keep this record even after the specified data retention period has passed. For more information, see [Table Cleanup](../concept/table-cleanup.md).
+Check box to keep this record even after the specified data retention period has passed. For more information, see [Table Cleanup](table-cleanup.md).
 
 </td></tr><tr><td>
 
@@ -169,10 +169,10 @@ Previous suite result
 Only appears if this suite result is for a re-run of failed tests and you are logged on with the atf\_test\_admin, atf\_test\_designer, or admin role. Click the information icon to navigate to the "original" suite result record. ![Previous suite test result](../image/atf-prev-suite-results.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Suite results](../concept/suite-results-module.md)
+</table>**Parent Topic:**[Suite results](suite-results-module.md)
 
 **Related topics**  
 
 
-[Test results](../concept/atf-test-results-module.md)
+[Test results](atf-test-results-module.md)
 

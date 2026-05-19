@@ -148,5 +148,5 @@ Application access controls
 2.  In the **Application Access Controls** field, select Read, Create, Update, and/or Delete selection boxes to specify the desired level of access for the table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Table Builder reference](../concept/fb-reference.md)
+</table>**Parent Topic:**[Table Builder reference](fb-reference.md)
 

@@ -25,7 +25,7 @@ Analyzing self-service deflection metrics has the following benefits:
 
 ## Activation information
 
-The Self-Service Analytics framework requires the Self-Service Analytics Core plugin \(com.snc.self\_service\_analytics\_core\). For more information, see [Activate Self-Service Analytics](../task/activate-ssa-cs.md).
+The Self-Service Analytics framework requires the Self-Service Analytics Core plugin \(com.snc.self\_service\_analytics\_core\). For more information, see [Activate Self-Service Analytics](activate-ssa-cs.md).
 
 **Note:** The data for the Communities and Virtual Agent channels are generated when the Communities plugin \(com.sn\_communities\) and Glide Virtual Agent plugin \(com.glide.cs.chatbot\) are activated respectively.
 
@@ -37,7 +37,7 @@ You can quantify your self-service effectiveness by measuring case deflections.
 **Related topics**  
 
 
-[Configure Self-Service Analytics](../task/config-ssa.md)
+[Configure Self-Service Analytics](config-ssa.md)
 
 [Self-Service Analytics concepts](ssa-concepts.md)
 

@@ -92,5 +92,5 @@ Combination of conditions that must be met before the task is assigned to a user
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
 

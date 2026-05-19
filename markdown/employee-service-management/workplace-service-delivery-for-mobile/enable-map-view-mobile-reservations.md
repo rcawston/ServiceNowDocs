@@ -123,7 +123,7 @@ Select **ServiceNow** from the drop-down list.
 
 Option to view a floor map using the Map view instead of a list view is available for Workplace Service Delivery for Mobile users. You can use the **Toggle map view** option while making a reservation to view floor maps and select spaces. For more information, see [Configure the Toggle map view property](configure-toggle-map-view.md).
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](configure-wsd-mobile.md)
 
 **Previous topic:**[Configure a custom Map provider](configure-custom-map-provider.md)
 

@@ -47,7 +47,7 @@ There are three steps to importing data.
     After you've configured the data source and determined the data mapping, you can run the import. You can also schedule the import to run later. When the import runs, data is gathered from the source, moved to a staging table, and transformed to the target tables according to the specifications in your mapping.
 
 
-For more details about how importing data works, see [Import sets](../../import-sets/reference/import-sets-landing-page.md).
+For more details about how importing data works, see [Import sets](../system-import-sets/import-sets-landing-page.md).
 
 ## Integration Hub import environment
 
@@ -134,7 +134,7 @@ The table selection section has these components.
 
 -   **2. Transform Settings**
 
-    Button to configure the transform settings for your integration. You can specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration. For more information, see [Transform settings](../reference/transform-settings.md).
+    Button to configure the transform settings for your integration. You can specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration. For more information, see [Transform settings](transform-settings.md).
 
     The **Transform Settings** button doesn't appear until you've added at least one target table.
 
@@ -240,7 +240,7 @@ The execution details section has these components.
 
 -   **2. Execution Details**
 
-    Section with cards showing the total number of rows imported, processed, pending, or skipped, and the number of errors that occurred. If the import is processed concurrently, this section also includes a Partitions card. For more information, see [Concurrent imports](../../import-sets/concept/concurrent-imports.md).
+    Section with cards showing the total number of rows imported, processed, pending, or skipped, and the number of errors that occurred. If the import is processed concurrently, this section also includes a Partitions card. For more information, see [Concurrent imports](../system-import-sets/concurrent-imports.md).
 
     You can click the cards to filter the results. Filtered results display in the Import Set Rows tab toward the bottom of the page. For example, clicking the **Pending** card displays the pending rows. Clicking **Total rows imported** or **Clear Selection** clears the filters.
 
@@ -309,13 +309,13 @@ Follow these guidelines to achieve the benefits offered by Integration Hub impor
     Modifying Data Stream actions used as data sources might change the mapping from source to target. When the output for a Data Stream action changes, the Map to target page displays a warning that the complex object schema has changed. You might need to reconfigure the mapping.
 
 
--   **[Configure a data source](../tasks/configure-data-source.md)**  
+-   **[Configure a data source](configure-data-source.md)**  
 Start importing data with Integration Hub by creating a data source. A data source specifies how and where to get the data you want to import.
--   **[Map source data to a target table](../tasks/map-source-data-target.md)**  
+-   **[Map source data to a target table](map-source-data-target.md)**  
 Specify how source data is transformed to your target tables.
--   **[Run or schedule a data import](../tasks/run-schedule-data-imports.md)**  
+-   **[Run or schedule a data import](run-schedule-data-imports.md)**  
 Specify when to run a data import by creating a schedule. Schedule an import to run at a specific time, at regular intervals, or after a parent import. You can also run your import immediately.
--   **[Transform settings](../reference/transform-settings.md)**  
+-   **[Transform settings](transform-settings.md)**  
 Configure the transform settings for your Integration Hub - Import integration. Specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration.
 
 **Parent Topic:**[Importing and streaming data in Integration Hub](importing-streaming-data-ih.md)

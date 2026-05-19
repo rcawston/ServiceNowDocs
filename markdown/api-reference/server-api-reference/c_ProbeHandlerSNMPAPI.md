@@ -17,7 +17,7 @@ The ProbeHandlerSNMP script include is a discovery probe handler for SNMP probes
 
 You can use this script include in any server-side script where you need to configure an SNMP probe.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProbeHandlerSNMP - addBoolean\(String dbName, String paramName, String paramMap\)
 

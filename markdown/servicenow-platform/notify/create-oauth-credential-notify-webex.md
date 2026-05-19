@@ -99,5 +99,5 @@ Credential alias associated with the spoke.
     On successful authentication, a confirmation message is displayed on the header.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](setup-cisco-webex-notify.md)
 

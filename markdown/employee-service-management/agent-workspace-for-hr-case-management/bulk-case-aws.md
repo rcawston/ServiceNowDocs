@@ -31,7 +31,7 @@ Role required: sn\_hr\_core\_admin
 
 5.  On the form, fill in the fields.
 
-    For more information, see [Bulk case request form](../reference/bulk-case-request-form.md).
+    For more information, see [Bulk case request form](bulk-case-request-form.md).
 
 6.  Select **Save**.
 

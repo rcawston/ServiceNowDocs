@@ -19,7 +19,7 @@ Initiate an alert analysis from the Now Assist panel. The alert analysis display
 ## Before you begin
 
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../concept/now-assist-itom.md).
+-   View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](now-assist-itom.md).
 
 For comprehensive information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -80,5 +80,5 @@ The alert analysis displays in the panel.
     For example: `Summarize the analysis` or `Show alert severity`.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
 

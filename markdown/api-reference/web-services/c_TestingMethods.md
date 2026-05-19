@@ -40,5 +40,5 @@ Role required: web\_service\_admin or admin
 
 Completed test runs for an HTTP method appear in the **Test Runs** related list. If there was an error during the request, the **Error Code** and **Error Message** fields appear.
 
-**Parent Topic:**[Define a REST message HTTP method](../task/t_DefineAnHTTPMethod.md)
+**Parent Topic:**[Define a REST message HTTP method](t_DefineAnHTTPMethod.md)
 

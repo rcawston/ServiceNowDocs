@@ -124,7 +124,7 @@ Area unit
 
 Select the unit used for defining the space size: square feet or square meters.
 
- **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](../concept/c_SpaceRollupCalculations.md).
+ **Note:** The **Area unit** assigned to all spaces must be consistent for the rollup calculations to work properly. See [Space roll up calculations](c_SpaceRollupCalculations.md).
 
 </td></tr><tr><td>
 

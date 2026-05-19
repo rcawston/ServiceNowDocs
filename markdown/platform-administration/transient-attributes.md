@@ -19,11 +19,11 @@ Implementing Dynamic Schema is a flexible process. To get started, you can simpl
 
 Implement attributes transiently using the following process.
 
-1.  [Create a dynamic attribute store field](../task/create-dynamic-attribute-store-field-transient.md)
+1.  [Create a dynamic attribute store field](create-dynamic-attribute-store-field-transient.md)
 
     Get started by creating a dynamic attribute store field for storing attributes on a record.
 
-2.  [Add transient attributes to a record](../task/add-transient-attributes.md)
+2.  [Add transient attributes to a record](add-transient-attributes.md)
 
     After creating the dynamic attribute store field, describe your records by using transient attributes and string values.
 

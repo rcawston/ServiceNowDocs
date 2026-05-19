@@ -34,7 +34,7 @@ You can set up Playbooks for Portals using the following high level steps.
 
 1.  Define your process using Workflow Studio. See [Create a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-process-definition.md) for more information.
 2.  Activate the record generator. For more information, see [Activate the record generator](activate-the-record-generator.md).
-3.  Set up ACLs \(Access Control Lists\) to provide the appropriate read, write, and create permissions for users. See [Explicit Roles in CSM](../../../administer/contextual-security/concept/explicit-roles-in-csm.md) for more information.
+3.  Set up ACLs \(Access Control Lists\) to provide the appropriate read, write, and create permissions for users. See [Explicit Roles in CSM](explicit-roles-in-csm.md) for more information.
 
     **Note:** Add write and create roles with a condition based on "State=draft" so that users can only edit the fields in the draft state.
 

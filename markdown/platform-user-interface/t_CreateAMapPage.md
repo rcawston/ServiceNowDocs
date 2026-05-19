@@ -131,13 +131,13 @@ Script
 
 </td><td>
 
-Create a script to define the type of data to display on this map. For more information, see [Scripting for map pages](../reference/scripting-for-map-pages.md).
+Create a script to define the type of data to display on this map. For more information, see [Scripting for map pages](scripting-for-map-pages.md).
 
 </td></tr></tbody>
 </table>4.  Save the record.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](c_MapPages.md)
 
 **Related topics**  
 
@@ -152,5 +152,5 @@ Create a script to define the type of data to display on this map. For more info
 
 [Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](scripting-for-map-pages.md)
 

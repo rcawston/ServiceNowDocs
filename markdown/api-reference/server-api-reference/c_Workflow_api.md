@@ -17,7 +17,7 @@ The Workflow script include provides methods that interface with the Workflow en
 
 Use these methods to manipulate workflows.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Workflow - broadcastEvent\(String contextId, String eventName\)
 
@@ -155,7 +155,7 @@ Returns all workflow contexts for a specified record.
 
 |Name|Type|Description|
 |----|----|-----------|
-|record|[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)|GlideRecord for which the caller wants a list of all workflow contexts. This can be any record on any table for which the caller wants the running workflow contexts.|
+|record|[GlideRecord](c_GlideRecordAPI.md#)|GlideRecord for which the caller wants a list of all workflow contexts. This can be any record on any table for which the caller wants the running workflow contexts.|
 
 |Type|Description|
 |----|-----------|

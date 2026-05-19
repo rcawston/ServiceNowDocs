@@ -30,5 +30,5 @@ To view the universal request with an active primary ticket, do the following.
 2.  Open and view the universal request you want to work on.
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

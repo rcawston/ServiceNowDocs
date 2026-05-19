@@ -21,7 +21,7 @@ To access this API, the Process Mining for external data \(sn\_po\_extdata\) plu
 
 For additional information on external audit records and Process Mining, see [Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProcessMiningForExternalData - scheduleCaseGeneration\(String externalDataSysId\)
 

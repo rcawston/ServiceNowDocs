@@ -25,7 +25,7 @@ Role required: admin
 
 Third-party libraries are added to applications as JavaScript modules. For general information about the syntax used to create JavaScript modules, see the [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) page on the MDN Web Docs website.
 
-**Important:** You can't use third-party libraries that rely on unsupported functionality, such as unsupported APIs or ECMAScript features. For more information about unsupported functionality, see [Third-party library support in Australia](../reference/third-party-library-support.md) and [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+**Important:** You can't use third-party libraries that rely on unsupported functionality, such as unsupported APIs or ECMAScript features. For more information about unsupported functionality, see [Third-party library support in Australia](../third-party-library-support.md) and [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 
 ## Procedure
 
@@ -68,10 +68,10 @@ Third-party libraries are added to applications as JavaScript modules. For gener
 
 Build and install your changes on an instance. For more information, see [Build and install an application with the ServiceNow SDK](build-deploy-application-now-sdk.md).
 
-**Parent Topic:**[Developing applications with the ServiceNow SDK](../concept/developing-applications-sdk.md)
+**Parent Topic:**[Developing applications with the ServiceNow SDK](developing-applications-sdk.md)
 
 **Related topics**  
 
 
-[JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md)
+[JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md)
 

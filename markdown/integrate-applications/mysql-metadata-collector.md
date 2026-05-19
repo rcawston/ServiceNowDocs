@@ -86,9 +86,9 @@ The harvested metadata includes catalog pages for the following data asset types
 
 The MySQL collector supports username/password authentication to MySQL.
 
--   **[Prepare to run the MySQL collector](../task/prepare-to-run-mysql-collector.md)**  
+-   **[Prepare to run the MySQL collector](prepare-to-run-mysql-collector.md)**  
 Create a MySQL user and grant permissions before running the collector.
--   **[Create a MySQL metadata collector](../task/create-mysql-metadata-collector.md)**  
+-   **[Create a MySQL metadata collector](create-mysql-metadata-collector.md)**  
 Create a collector to import metadata from MySQL.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

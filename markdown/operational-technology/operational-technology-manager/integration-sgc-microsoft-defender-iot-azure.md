@@ -32,7 +32,7 @@ You can use the Service Graph Connector for Microsoft Defender for IoT \(Azure\)
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for Microsoft Defender for IoT \(Azure\) provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure guided setup](../task/configuring-sgc-microsoft-d4iot-azure.md).
+The guided setup for the Service Graph Connector for Microsoft Defender for IoT \(Azure\) provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure guided setup](configuring-sgc-microsoft-d4iot-azure.md).
 
 ## CMDB integrations dashboard
 
@@ -99,19 +99,19 @@ The imported data from the staging tables is then inserted into the following ta
 -   Uninterruptible Power Supply \(UPS\) \[cmdb\_ci\_ups\]
 -   Wireless Access Point \[cmdb\_ci\_wap\_network\]
 
-For more information on where data is saved when pulling data from a Microsoft Defender for IoT \(Azure\) project, see [CMDB classes targeted](../reference/sgc-microsoft-d4iot-azure-classes.md).
+For more information on where data is saved when pulling data from a Microsoft Defender for IoT \(Azure\) project, see [CMDB classes targeted](sgc-microsoft-d4iot-azure-classes.md).
 
--   **[Configure the Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../task/configuring-sgc-microsoft-d4iot-azure.md)**  
+-   **[Configure the Service Graph Connector for Microsoft Defender for IoT \(Azure\)](configuring-sgc-microsoft-d4iot-azure.md)**  
 Use the guided setup for the Service Graph Connector for Microsoft Defender for IoT \(Azure\) to lead you through the integration steps.
--   **[Validate NIDS sensors](../task/validate-nids-appliances-sgc-msft-d4iot-azure.md)**  
+-   **[Validate NIDS sensors](validate-nids-appliances-sgc-msft-d4iot-azure.md)**  
 Validate the Network IDS \(NIDS\) sensors once they're imported to prepare for the device import. Sensors only pass the validation if they aren't in learning mode as such sensors are not eligible for device import.
 -   **[Accessing the connection details of the Service Graph Connector for Microsoft Defender for IoT \(Azure\)](sgc-cmdb-msft-d4iot-azure.md#)**  
 You can access the connection details of the Service Graph Connector for Microsoft Defender for IoT \(Azure\) in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
--   **[Import OT devices using the Standard mode of discovery](../task/actively-scan-device-data-msft-azure.md)**  
+-   **[Import OT devices using the Standard mode of discovery](actively-scan-device-data-msft-azure.md)**  
 Use the Service Graph Connector for Microsoft Defender for IoT \(Azure\) to import Operational Technology \(OT\) devices discovered through the Standard mode of discovery from Microsoft Defender for IoT.
--   **[CMDB classes targeted in the Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../reference/sgc-microsoft-d4iot-azure-classes.md)**  
+-   **[CMDB classes targeted in the Service Graph Connector for Microsoft Defender for IoT \(Azure\)](sgc-microsoft-d4iot-azure-classes.md)**  
 When you complete the guided setup, you can configure the integration to periodically pull data from a Service Graph Connector for Microsoft Defender for IoT \(Azure\) \(Azure\) project. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
--   **[Attribute mapping and classification for Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../reference/attribute-mapping-sgc-msft-d4iot-azure.md)**  
+-   **[Attribute mapping and classification for Service Graph Connector for Microsoft Defender for IoT \(Azure\)](attribute-mapping-sgc-msft-d4iot-azure.md)**  
 The following tables describe the attribute mapping and classification for sensors and devices.
 
 **Parent Topic:**[Operational Technology Manager Integrations](otm_integrations.md)

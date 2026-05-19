@@ -51,5 +51,5 @@ Direct usage of the `admin` role for feature administration resulted in:
 -   `sn_apm.apm_read` – Read‑only access to Enterprise Architecture data
 -   `sn_apm.apm_user` – Standard Enterprise Architecture user access
 
-**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+**Parent Topic:**[Install Enterprise Architecture Workspace](install-ea-workspace.md)
 

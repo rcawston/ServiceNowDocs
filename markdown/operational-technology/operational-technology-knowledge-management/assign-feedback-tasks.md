@@ -40,5 +40,5 @@ To view other assigned feedback tasks, select the Assigned Feedback Tasks list u
 
 To view the unassigned OT knowledge gaps, select the Unassigned OT Knowledge Gaps list under the Knowledge module list view in the Industrial Workspace.
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](using-operational-technology-knowledge-management.md)
 

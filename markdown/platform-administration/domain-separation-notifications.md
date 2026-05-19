@@ -66,9 +66,9 @@ Solution: Set the \[sys\_overrides\] field on the notification that belongs to
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](t_CreateANotification.md)
 
 [Email notifications dashboard](email-notifications-dashboard.md)
 
@@ -82,7 +82,7 @@ Solution: Set the \[sys\_overrides\] field on the notification that belongs to
 
 [Watermarks on notification emails](c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](parse-email.md)
 
 [Email digests](email-digests.md)
 

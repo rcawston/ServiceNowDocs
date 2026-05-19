@@ -142,7 +142,7 @@ Click the **More Actions** \(![More Actions icon](../images/MoreActionsIcon.png)
 
 -   **Manage natural language title**
 
-    Create or edit a subflow title with styled or dynamic text. For more information, see [Manage natural language titles](../task/manage-natural-language-title.md).
+    Create or edit a subflow title with styled or dynamic text. For more information, see [Manage natural language titles](manage-natural-language-title.md).
 
 
 ## Testing subflows
@@ -201,36 +201,36 @@ Reasons to use a subflow instead of a flow include:
     Rather than recreate the same sequence of actions in multiple flows, create reusable subflows to correct errors to your record data. When a flow error leaves your record data in an undesired state, use subflows to correct these records. You can use the error handler to identify such record data as a subflow output.
 
 
--   **[Create a subflow in Workflow Studio](../task/create-subflow.md)**  
+-   **[Create a subflow in Workflow Studio](create-subflow.md)**  
 Reuse an entire flow's content as a subflow. Define the input data the subflow uses and the output data it generates. Call subflows from other flows or script.​
--   **[Create a subflow with Now Assist](../task/create-subflow-now-asist.md)**  
+-   **[Create a subflow with Now Assist](create-subflow-now-asist.md)**  
 Use generative AI to create a subflow from text directionsand images.
--   **[Create conversational subflow skill](../task/create-conversational-subflow-skill.md)**  
+-   **[Create conversational subflow skill](create-conversational-subflow-skill.md)**  
 Create a skill for the conversational subflow and make the skill available for users in a conversation. You can have multiple skills for the same subflow.
--   **[Configure subflow conversational settings](../task/configure-subflow-conversation-settings.md)**  
+-   **[Configure subflow conversational settings](configure-subflow-conversation-settings.md)**  
 Configure conversation settings to make a subflow available to conversational interfaces.
--   **[Configure LLM to generate descriptions for conversational subflows](../task/configure-llm-for-conversational-subflow.md)**  
+-   **[Configure LLM to generate descriptions for conversational subflows](configure-llm-for-conversational-subflow.md)**  
 Choose which LLM you want to use by default to generate descriptions for inputs, outputs, and skills for conversational subflows.
--   **[Copy a subflow](../task/copy-subflow.md)**  
+-   **[Copy a subflow](copy-subflow.md)**  
 Copy a subflow to give it a new name and move it to another application scope.
--   **[Create a decision table in a subflow](../task/create-decision-table-subflow.md)**  
+-   **[Create a decision table in a subflow](create-decision-table-subflow.md)**  
 Create a decision table structure while you author your flow in Workflow Studio. Use data from the subflow to create inputs, conditions, and results for the decision table, all in a convenient modal.
--   **[Convert items to subflow](../task/convert-items-subflow.md)**  
+-   **[Convert items to subflow](convert-items-subflow.md)**  
 Convert consecutive items of a flow into a new subflow that preserves data pill references between the converted items. Update the original flow to replace the converted items with a call to the new subflow.
--   **[Create a template value input](../task/template-value.md)**  
+-   **[Create a template value input](template-value.md)**  
 Enable flow authors to set field values for a record being created or updated. Use a template value input to set different field values each time you add an action or subflow to a flow.
--   **[Get started with Dynamic Flow and Get Flow Outputs](../task/getting-started-dynamic-flow-get-flow-outputs.md#)**  
+-   **[Get started with Dynamic Flow and Get Flow Outputs](getting-started-dynamic-flow-get-flow-outputs.md#)**  
 Create a sample flow that dynamically calls subflows for provisioning cloud services.
--   **[Publish a subflow](../task/publish-subflow.md)**  
+-   **[Publish a subflow](publish-subflow.md)**  
 Publish a subflow to make it available to other users and to add it to activated flows.
--   **[Summarize a subflow](../task/summarize-a-subflow.md)**  
+-   **[Summarize a subflow](summarize-a-subflow.md)**  
 Generate a summary of a subflow with Now Assist for Creator.
 -   **[Subflow history](subflow-history.md)**  
 View and manage the history of a subflow. See past configurations of a subflow to copy, restore, or remove them.
--   **[Test a subflow](../task/test-subflow.md)**  
+-   **[Test a subflow](test-subflow.md)**  
 You can test a subflow alone, or when added to a flow. When testing a subflow alone, you must define the inputs that the subflow uses in its actions. Because a subflow does not have a trigger, testing a subflow runs the actions using the defined input values. Unless updated, subsequent tests use the same inputs defined in the initial test run.
--   **[Test conversational subflow](../task/test-conversational-subflow.md)**  
+-   **[Test conversational subflow](test-conversational-subflow.md)**  
 Test a conversational subflow to verify it responds correctly to user inputs and performs the expected operations before deploying it in production.
 
-**Parent Topic:**[Workflow Studio flows, subflows, and actions](../../workflow-studio/reference/workflow-studio-flows-subflows-and-actions-landing.md)
+**Parent Topic:**[Workflow Studio flows, subflows, and actions](workflow-studio-flows-subflows-and-actions-landing.md)
 

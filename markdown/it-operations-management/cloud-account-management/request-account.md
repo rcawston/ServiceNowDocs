@@ -29,7 +29,7 @@ Role required: sn\_itom\_cam.cw\_requester
 
 3.  On the Request new cloud account form, fill in the fields.
 
-    For a description of the field values, see [New cloud account request fields](../reference/account-creation-details.md).
+    For a description of the field values, see [New cloud account request fields](account-creation-details.md).
 
     **Note:** To create your custom catalog, see [Configure a custom catalog ID in Cloud Account Management account request](configuring-catalog-ids-in-cam-account-request.md).
 

@@ -32,5 +32,5 @@ Role required: sn\_team\_perf.team\_performance\_admin
     You can change the name, description, and order according to your requirements. You can also change the supporting KPIs.
 
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](setup-teams-configurable-workforce-optimization-itsm.md)
 

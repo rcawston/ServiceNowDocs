@@ -97,5 +97,5 @@ Description of what is being tested.
 
 You can create a copy of this test by clicking the **Create Duplicate** related link. For more information, see [Create a copy of an existing test](t_CopyATest.md).
 
-**Parent Topic:**[Tests](../concept/c_Tests.md)
+**Parent Topic:**[Tests](c_Tests.md)
 

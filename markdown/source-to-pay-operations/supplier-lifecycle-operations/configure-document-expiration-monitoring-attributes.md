@@ -39,7 +39,7 @@ Grace period
 
 </td><td>
 
-Additional time allotted to complete the document upload task after the initial due date is past. The default duration for this attribute is 30 days.**Note:** A supplier case is created once the grace period elapses. For more information, see [Case playbook for specific supplier case types](../concept/gen-playbook-cases.md).
+Additional time allotted to complete the document upload task after the initial due date is past. The default duration for this attribute is 30 days.**Note:** A supplier case is created once the grace period elapses. For more information, see [Case playbook for specific supplier case types](gen-playbook-cases.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ The number of days before the document expiry date when a document upload task i
 3.  Select **Save**.
 
 
-**Parent Topic:**[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+**Parent Topic:**[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 **Related topics**  
 
@@ -72,5 +72,5 @@ The number of days before the document expiry date when a document upload task i
 
 [Manually run a supplier document configuration](run-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](upload-doc-about.md)
 

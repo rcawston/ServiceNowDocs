@@ -193,5 +193,5 @@ Your connector admin needs these items to configure a Microsoft SharePoint Onlin
 
 For details on creating and configuring a Microsoft SharePoint Online external content connector, see [Create a Microsoft SharePoint Online external content connector](create-ext-cont-connector-mspo.md).
 
-**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+**Parent Topic:**[Microsoft SharePoint Online external content connector](microsoft-sharepoint-online-external-content-connector.md)
 

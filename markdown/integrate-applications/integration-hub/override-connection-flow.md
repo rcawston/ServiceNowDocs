@@ -17,7 +17,7 @@ Override a connection for a flow, subflow, or action.
 
 ## Before you begin
 
-For details about flow overrides, including how they affect actions with dynamic inputs and how multiple overrides are applied, see [Supporting multiple connections](../concept/support-multiple-connections.md).
+For details about flow overrides, including how they affect actions with dynamic inputs and how multiple overrides are applied, see [Supporting multiple connections](support-multiple-connections.md).
 
 Role required: flow\_designer or admin
 

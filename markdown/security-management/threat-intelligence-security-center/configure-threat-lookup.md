@@ -26,7 +26,7 @@ The Threat Intelligence Security Center supports Threat Lookup only for the foll
 -   VirusTotal
 -   CrowdStrike Intelligence
 
-For more information, see [Threat Lookup](../concept/tisc-threat-lookup.md).
+For more information, see [Threat Lookup](tisc-threat-lookup.md).
 
 ## About this task
 
@@ -83,7 +83,7 @@ This section displays cards for each of the configured integration implementatio
 -   **[View Threat Lookup Reputation Calculators](view-threat-lookup-reputation-calculators.md)**  
 You can view the Threat Lookup Finding Calculator to calculate the observable findings for your integration.
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](tisc-enrichment-integrations.md)
 
 **Related topics**  
 

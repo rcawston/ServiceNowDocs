@@ -27,8 +27,8 @@ Administrators can override these aspects of a field:
 -   Default column display values
 -   Mandatory and read-only status
 
--   **[Define a dictionary override](../task/t_DefineADictionaryOverride.md)**  
+-   **[Define a dictionary override](t_DefineADictionaryOverride.md)**  
 Use a dictionary override to allow a field in a child table to have a different value or behavior than the same field in a parent table. For example, a dictionary override changes the default value of the priority field from 4 in the parent table to 5 in the Incident table.
 
-**Parent Topic:**[Managing tables and indexes](../../table-administration/concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](using-table-administration.md)
 

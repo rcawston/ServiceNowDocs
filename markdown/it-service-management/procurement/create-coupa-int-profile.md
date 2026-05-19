@@ -240,5 +240,5 @@ Verify if the scheduled job **ITAM - Sync Coupa purchase orders** has run succes
 
 Create software requisitions directly on Coupa through the ServiceNow Procurement application to purchase software.
 
-If you want to delete the Coupa integration profile, see [Deleting an external procurement application integration profile](../concept/delete-ext-profile.md).
+If you want to delete the Coupa integration profile, see [Deleting an external procurement application integration profile](delete-ext-profile.md).
 

@@ -31,7 +31,7 @@ For guidance on choosing the right classes, see the [Guidance on designating pri
 
 1.  On the CMDB success advisor landing page, select **Edit principal classes** within the Data Foundations card.
 
-    See [Viewing the CMDB success advisor landing page](../concept/cmdb-sa-landing-page.md).
+    See [Viewing the CMDB success advisor landing page](cmdb-sa-landing-page.md).
 
 2.  In the Edit principal classes dialog box, add or remove CI classes to update your principal class selection.
 

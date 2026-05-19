@@ -13,7 +13,7 @@ breadcrumb: [Decision trees in Guided decision, Guided Decisions configuration, 
 
 Decision trees are made up of several types of elements including nodes, inputs, and paths.
 
-Decision trees are built using different elements, which are described in the following table. The terminology for these elements differs slightly between Decision Tree Builder and Core UI but the definitions remain the same. For more information decision tree nodes and paths, see [Decision tree nodes](../concept/guided-decision-tree-node-types.md) and [Decision tree paths](guided-decision-tree-paths.md).
+Decision trees are built using different elements, which are described in the following table. The terminology for these elements differs slightly between Decision Tree Builder and Core UI but the definitions remain the same. For more information decision tree nodes and paths, see [Decision tree nodes](guided-decision-tree-node-types.md) and [Decision tree paths](guided-decision-tree-paths.md).
 
 <table id="table_ofw_y5h_vwb"><thead><tr><th>
 
@@ -112,7 +112,7 @@ Guidance
 
 </td><td>
 
-An action that an agent can take or information that an agent can share. You can select guidances included with the Guided Decisions Experience plugin or you can [Create a guidance in the Core UI](../task/create-guidances.md).
+An action that an agent can take or information that an agent can share. You can select guidances included with the Guided Decisions Experience plugin or you can [Create a guidance in the Core UI](create-guidances.md).
 
 </td></tr><tr><td>
 

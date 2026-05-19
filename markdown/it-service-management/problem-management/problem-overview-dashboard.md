@@ -17,7 +17,7 @@ This dashboard shows the current state of open problems.
 
 **Important:**
 
-Starting in Xanadu release, the Problem overview dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem overview dashboard is deprecated. Users can use [Problem dashboard](../problem.md) to view, and track the open problems.
 
 ![The Problem Overview dashboard showing all widgets and reports](../image/problem-overview.png)
 

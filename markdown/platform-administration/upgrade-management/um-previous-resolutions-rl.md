@@ -84,5 +84,5 @@ Table
 The table where the skipped record belongs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Skipped Records visual task board \(VTB\)](../concept/um-vtb-history.md)
+</table>**Parent Topic:**[Skipped Records visual task board \(VTB\)](um-vtb-history.md)
 

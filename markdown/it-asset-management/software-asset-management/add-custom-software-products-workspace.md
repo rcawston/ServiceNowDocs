@@ -123,5 +123,5 @@ The custom software product is immediately available to use in your downstream p
         For more information on product suggestions, see [View custom software product suggestions in workspace](view-custom-software-product-suggestions-workspace.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

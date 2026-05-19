@@ -15,7 +15,7 @@ breadcrumb: [System Events, Configure core features, Administer the ServiceNow A
 
 Reference topics provide information about system events.
 
--   **[Event logs](r_EventLogs.md)**  
+-   **[Event logs](../../platform-security/r_EventLogs.md)**  
 The event log records all system events that occur within the ServiceNow AI Platform.
 -   **[Event states](r_EventStates.md)**  
 The event state describes where in the life cycle the event is.
@@ -28,5 +28,5 @@ You can use script actions to create server-side scripts that perform a variety 
 -   **[Sample scripts from the change events business rule](r_ChangeEventsSampleScripts.md)**  
 Several scripts are found in the baseline change events business rule.
 
-**Parent Topic:**[System Events](../concept/system-events-landing.md)
+**Parent Topic:**[System Events](system-events-landing.md)
 

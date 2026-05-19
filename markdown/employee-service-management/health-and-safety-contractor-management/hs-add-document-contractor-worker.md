@@ -61,7 +61,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety document version form](../../ohs-incident-management/reference/hs-document-form.md).
+    For information on form field descriptions, see [Health and Safety document version form](../health-and-safety-core/hs-document-form.md).
 
 5.  Select **Save**.
 

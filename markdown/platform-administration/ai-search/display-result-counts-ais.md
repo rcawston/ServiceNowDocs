@@ -17,7 +17,7 @@ Display search result counts for facets on the results page for AI Search applic
 
 ## Before you begin
 
-The search application configuration must not have hybrid search enabled. When hybrid search is activated in a search application configuration, search result counts for facets aren't displayed in that search application configuration. For more information on hybrid search, see [Hybrid search in AI Search](../concept/hybrid-search-ais.md).
+The search application configuration must not have hybrid search enabled. When hybrid search is activated in a search application configuration, search result counts for facets aren't displayed in that search application configuration. For more information on hybrid search, see [Hybrid search in AI Search](hybrid-search-ais.md).
 
 Role required: search\_application\_admin
 
@@ -29,11 +29,11 @@ Because the late binding security implementation may have removed some search re
 
 **Note:** Source facet buckets with 1,000 or more matching search results display **1000+** as their result count. When search result counts for facets are enabled, source facet buckets with 0 matching search results aren't shown on the search results page.
 
-To learn more about content security in AI Search and how the late binding security implementation can affect search result counts, see [Content security in AI Search](../concept/content-security-ais.md).
+To learn more about content security in AI Search and how the late binding security implementation can affect search result counts, see [Content security in AI Search](content-security-ais.md).
 
 ![Service Portal results page showing result counts for source facet buckets.](../image/service-portal-result-counts-ais.png "Sample results page with results counts")
 
-**Note:** Search result counts for facets indicate the number of results that matched the user's search. Late binding security can remove results after they’re counted, causing the actual number of displayed results to be lower than the count. For more information on late binding security, see [Content security in AI Search](../concept/content-security-ais.md).
+**Note:** Search result counts for facets indicate the number of results that matched the user's search. Late binding security can remove results after they’re counted, causing the actual number of displayed results to be lower than the count. For more information on late binding security, see [Content security in AI Search](content-security-ais.md).
 
 Search result counts for facets are supported in search applications that use Seismic components. You can display search result counts for facets in these search applications:
 
@@ -61,5 +61,5 @@ Search result counts for facets are enabled by default for new search applicatio
 
 AI Search displays source facet bucket result counts on the results page for the selected search application.
 
-**Parent Topic:**[Search application configurations](../concept/defining-search-app-cfgs-ais.md)
+**Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
 

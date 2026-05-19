@@ -17,7 +17,7 @@ Validate that your instance still works after you make any configuration change 
 
 **Danger**
 
-By default, the system property that is used to run automated tests is disabled to prevent you from accidentally running these tests on a production system. To avoid data corruption or an outage, run tests only on development, test, and other non-production instances. See [Enable or disable executing Automated Test Framework tests](../task/atf-enable-tests.md).
+By default, the system property that is used to run automated tests is disabled to prevent you from accidentally running these tests on a production system. To avoid data corruption or an outage, run tests only on development, test, and other non-production instances. See [Enable or disable executing Automated Test Framework tests](atf-enable-tests.md).
 
 ## Agile Development 2.0
 
@@ -5858,5 +5858,5 @@ Walk-up Experience quick start tests require activating the Walk-up Experience p
 
 To learn more about Walk-up Experience, see [Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md).
 
-**Parent Topic:**[Quick start tests](../concept/quick-start-tests.md)
+**Parent Topic:**[Quick start tests](quick-start-tests.md)
 

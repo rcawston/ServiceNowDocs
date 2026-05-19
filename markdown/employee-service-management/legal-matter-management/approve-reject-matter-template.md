@@ -43,5 +43,5 @@ Role required: approver\_user
 -   If you approve, the matter template is published. The state of the matter template record updates to Published.
 -   If you reject, the matter template state updates to Draft. The user who created the matter template can work on the template again to complete the required information and resubmit for approval.
 
-**Parent Topic:**[Legal matter templates](../concept/legal-matter-administration.md)
+**Parent Topic:**[Legal matter templates](legal-matter-administration.md)
 

@@ -43,7 +43,7 @@ There are no visibility options for breakdowns. Instead, access to breakdowns is
 5.  Specify the roles that the elements security list applies to.
 
 
-**Parent Topic:**[Indicator breakdowns](../concept/c_CreatingBreakdowns.md)
+**Parent Topic:**[Indicator breakdowns](c_CreatingBreakdowns.md)
 
 ## Define an elements security list
 

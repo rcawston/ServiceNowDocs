@@ -20,7 +20,7 @@ Real-time prevention monitoring provides the following capabilities:
 -   **Guided resolution:** Provides details such as line numbers, impact levels, and steps to resolve found issues.
 -   **Governance:** Supports exception workflows and links to supporting documentation for compliance.
 
-**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure Scan Engine properties](configure-scan-engine-properties.md).
 
 ## Finding levels
 
@@ -169,5 +169,5 @@ Real-time messaging enforcement can be disabled on the Scan Engine properties pa
 
 Visibility of real-time messaging can also be configured to limit which users receive finding notifications. You can restrict messaging to a specific group if necessary.
 
-For more information, refer to [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+For more information, refer to [Configure Scan Engine properties](configure-scan-engine-properties.md).
 

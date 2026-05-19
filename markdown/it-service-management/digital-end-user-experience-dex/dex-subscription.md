@@ -19,7 +19,7 @@ If multiple DEX features report usage on the same Configuration Items \(CIs\), t
 
 ## DEX capacity limitations
 
-DEX uses the MetricBase datastore to store time-series data sampled at regular intervals. The MetricBase Series limit is controlled by data collection and retention policies for applications and devices that can’t be modified. For example, application and device metric data collected at five-minute intervals from each device is retained for up to seven days for troubleshooting purposes. Roll-ups of aggregated data is available for longer periods to analyze performance and usage trends. For information on policies and check definitions, see [DEX Content Playbook reference](../reference/dex-content-playbook-reference.md).
+DEX uses the MetricBase datastore to store time-series data sampled at regular intervals. The MetricBase Series limit is controlled by data collection and retention policies for applications and devices that can’t be modified. For example, application and device metric data collected at five-minute intervals from each device is retained for up to seven days for troubleshooting purposes. Roll-ups of aggregated data is available for longer periods to analyze performance and usage trends. For information on policies and check definitions, see [DEX Content Playbook reference](dex-content-playbook-reference.md).
 
 DEX can monitor up to 200 active applications per ServiceNow instance, with no more than 40 active applications per user per week. Active applications include Software as a Service \(SaaS\) and installed applications on end-user computing devices that are monitored by DEX.
 

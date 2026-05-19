@@ -48,5 +48,5 @@ The certificate is imported into the truststore.
 
 If a security warning appears, select **Confirm** to confirm the import.
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
 

@@ -32,5 +32,5 @@ The board information displays.
 
 ![The board information appears](../image/BoardInfoFlyout.png)
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](viewing-sharing-vis-task-brds.md)
 

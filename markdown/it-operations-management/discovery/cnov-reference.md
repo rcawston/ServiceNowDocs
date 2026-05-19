@@ -27,5 +27,5 @@ This section refers to advanced configuration options for the Kubernetes Visibil
 -   **[Install Kubernetes Visibility Agent \(KVA\) using the Terraform Helm provider](untitled2.md)**  
 You can install Kubernetes Visibility Agent using the Terraform Helm provider.
 
-**Parent Topic:**[Kubernetes Visibility Agent](../../agent-client-collector/concept/acc-kubernetes-visibility-landing-page.md)
+**Parent Topic:**[Kubernetes Visibility Agent](acc-kubernetes-visibility-landing-page.md)
 

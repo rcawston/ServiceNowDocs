@@ -78,7 +78,7 @@ Select **Add a standalone action set**.
 
     Based on the selected action type, new fields appear requiring additional details.
 
-    The options displayed in the **Action type** field are subflows linked to the chosen template's categories. For more information on automated actions, see [Post-assessment automations](../concept/impact-automation.md).
+    The options displayed in the **Action type** field are subflows linked to the chosen template's categories. For more information on automated actions, see [Post-assessment automations](impact-automation.md).
 
     **Note:** Responses from dropdown, check box, radio, and attachment question types cannot be passed as action parameters because they are not supported.
 

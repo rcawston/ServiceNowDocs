@@ -29,7 +29,7 @@ When the users are performing local login and to verify the Identity of the user
 **Note:**
 
 -   From Yokohama, MFA is enforced to users for every login to ServiceNow performing local login.
--   Make sure the MFA properties are Active and configured based on your requirement. To know more about MFA properties, see [Multi-factor Authentication system properties](../reference/mfa-properties.md).
+-   Make sure the MFA properties are Active and configured based on your requirement. To know more about MFA properties, see [Multi-factor Authentication system properties](authentication/mfa-properties.md).
 
 To know more, see [High Assurance session for non-SSO login](high-assurance-non-sso-logins.md).
 
@@ -60,7 +60,7 @@ To know more, see [High Assurance for SSO login](high-assurance-sso-logins.md).
 
 [Exploring Continuous Authentication](explore-continuous-auth.md)
 
-[Activating Continuous Authentication](../task/activate-continuous-authentication.md)
+[Activating Continuous Authentication](activate-continuous-authentication.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](configure-ca.md)
 

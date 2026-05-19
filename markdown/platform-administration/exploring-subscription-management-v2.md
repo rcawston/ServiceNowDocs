@@ -56,7 +56,7 @@ In this workflow:
 |-------|-------|----|
 |Fix over-allocated subscriptions|[Insights](discovering-insights-subscription-management-v2.md)|Usage admin|
 |View unallocated subscriptions|[Insights](discovering-insights-subscription-management-v2.md)|Usage admin|
-|Allocate available subscriptions using recommended groups|[Allocate subscriptions](../task/allocate-subscriptions-v2.md)|Usage admin|
+|Allocate available subscriptions using recommended groups|[Allocate subscriptions](allocate-subscriptions-v2.md)|Usage admin|
 |Map global custom tables to a product subscription|[Issues](addressing-issues-subscription-management-v2.md)|Usage admin|
 |Map custom applications to a product subscription|[Issues](addressing-issues-subscription-management-v2.md)|Usage admin|
 |View a summary of subscription allocations|[Subscription details](subscription-details-v2.md)|Usage admin|
@@ -71,5 +71,5 @@ To learn more about configuring and using Subscription Management, see:
 -   [Managing per-user subscriptions in Subscription Management](managing-user-subscriptions-v2.md)
 -   [Managing custom tables and applications in Subscription Management](allocating-custom-tables-subscr-apps-v2.md)
 -   [Monitoring capacity subscriptions](monitoring-capacity-subscriptions.md)
--   [Subscription Management reference](../reference/subscription-management-reference-v2.md)
+-   [Subscription Management reference](subscription-management-reference-v2.md)
 

@@ -50,5 +50,5 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
 
 The request associated with the **Enroll a new supplier user** case type is approved.
 
-**Parent Topic:**[Supplier contact self-registration](../concept/how-self-reg-works.md)
+**Parent Topic:**[Supplier contact self-registration](how-self-reg-works.md)
 

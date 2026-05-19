@@ -79,7 +79,7 @@ The Connection and credential alias is set.
 
 [Configure Microsoft Exchange Online calendar provider](configure-xsex-calendar-provider-in-normal-mode.md)
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 

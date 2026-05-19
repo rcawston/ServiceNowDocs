@@ -77,5 +77,5 @@ The set of groups eligible for assignment. -   Click the lock icon to unlock it 
     **Note:** For a new service channel, you must first create a new assignment rule and then [create a service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-service-channel.md).
 
 
-**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)
 

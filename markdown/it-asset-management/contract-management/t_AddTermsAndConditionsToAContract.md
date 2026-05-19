@@ -49,7 +49,7 @@ Terms and Conditions can only be added to a contract when it is being created. A
         2.  In the dialog box, select the check box for each term and condition that you want to add.
         3.  Click **Add**.
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](c_TermsAndConditions.md)
 
 **Related topics**  
 

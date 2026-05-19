@@ -69,7 +69,7 @@ Adding comprehensive search sources to Employee Slate provides several advantage
 **Related topics**  
 
 
-[Add internal search sources](../task/eslate-add-internal-search.md)
+[Add internal search sources](eslate-add-internal-search.md)
 
-[Add external search sources](../task/eslate-add-external-search.md)
+[Add external search sources](eslate-add-external-search.md)
 

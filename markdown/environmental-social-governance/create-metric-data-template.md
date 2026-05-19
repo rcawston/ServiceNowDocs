@@ -38,5 +38,5 @@ The metric import template must be used for importing historical metric data and
 
 Upload the complete metric import template as part of an metric import job. For more information, see [Import historical metric data and tasks](import-metric-data.md).
 
-**Parent Topic:**[Importing historical metric data](../concept/importing-metric-data.md)
+**Parent Topic:**[Importing historical metric data](importing-metric-data.md)
 

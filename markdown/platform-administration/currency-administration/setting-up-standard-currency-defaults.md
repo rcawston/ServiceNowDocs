@@ -15,13 +15,13 @@ breadcrumb: [Configure, Currency administration, Configure core features, Admini
 
 Set up the defaults required for use of standard currency fields in your instance.
 
--   **[Control default currency field configuration and use in an instance](../reference/currency-properties.md)**  
+-   **[Control default currency field configuration and use in an instance](currency-properties.md)**  
 You can control how currency fields are configured and used in your instance.
--   **[Change default currency decimal places](../task/change-currency-fraction-digits.md)**  
+-   **[Change default currency decimal places](change-currency-fraction-digits.md)**  
 You can specify the number of decimal places stored and used in currency fields and calculations.
--   **[Configure default currency fields in audit records](../task/audit-currency-fields.md)**  
+-   **[Configure default currency fields in audit records](audit-currency-fields.md)**  
 You can control what currency value is stored in audit records.
--   **[Configure the currency optimizer](../task/configure-currency-optimizer.md)**  
+-   **[Configure the currency optimizer](configure-currency-optimizer.md)**  
 You can configure the system to use an optimizer for currency/price fields to speed up list view \(reading currency/price values\).
 -   **[Default currency conversions](currency-conversions.md)**  
 Currency values can be converted to other currencies when stored and accessed.

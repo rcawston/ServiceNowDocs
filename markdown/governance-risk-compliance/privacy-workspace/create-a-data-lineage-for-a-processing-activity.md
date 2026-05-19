@@ -77,5 +77,5 @@ Delete a lineage to remove a specific connection or node from the hierarchy of a
 -   **[Update the maximum node level for the lineage map](updating-node-level-for-lineage-map.md)**  
 Update the `sn_privacy.nodemap.maxLevel system` property to control how many node levels are visible on the lineage map.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

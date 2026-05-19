@@ -24,8 +24,8 @@ The following roles and tasks are associated with this Solution:
 
 For information about additional roles, see .
 
--   **[Usage Insights for Service Portal](../../../build/service-portal/concept/sp-analytics.md)**  
+-   **[Usage Insights for Service Portal](sp-analytics.md)**  
 The Usage Insights application provides views for monitoring usage analytics of your Service Portal applications. Visualize metrics and interactions to better understand the Service Portal user experience and identify how to improve it.
 
-**Parent Topic:**[Analyzing portal performance and usage](../../../build/service-portal/concept/using-portal-analytics.md)
+**Parent Topic:**[Analyzing portal performance and usage](using-portal-analytics.md)
 

@@ -32,6 +32,6 @@ Access Dynamic Translation spoke actions from Workflow Studio to detect and tran
 
     All the actions built in the Dynamic Translation spoke are displayed.
 
-    For more information, see [Actions in Dynamic Translation spoke](../reference/actions-dt-spoke.md).
+    For more information, see [Actions in Dynamic Translation spoke](actions-dt-spoke.md).
 
 

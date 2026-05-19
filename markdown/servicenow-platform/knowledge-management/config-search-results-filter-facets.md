@@ -237,10 +237,10 @@ If enabled, shows categories with their hierarchy list up to the fourth-level. W
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 
 **Related topics**  
 
 
-[Knowledge Management properties](../reference/r_KnowledgeProperties.md#)
+[Knowledge Management properties](r_KnowledgeProperties.md#)
 

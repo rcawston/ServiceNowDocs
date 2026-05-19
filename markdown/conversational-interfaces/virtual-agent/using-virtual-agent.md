@@ -17,7 +17,7 @@ Convert the time your agents and technicians spend handling low-impact user requ
 
 You can quickly deploy AI‑powered chatbot conversations using customizable templates for the most common enterprise IT, HR, and customer service scenarios. You can design, build, and test conversations with Virtual Agent Designer.
 
--   **[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)**  
+-   **[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)**  
 The Virtual Agent Designer is a diagram tool for creating and managing assets, which are blueprints for conversations between a Virtual Agent and a user. You can design topics that help your users resolve common work issues or guide them through self-service tasks.
 -   **[Case and incident deflection in Virtual Agent](case-incident-deflection-virtual-agent.md)**  
 Virtual Agent provides several self-service options for your user that can help deflect tickets.

@@ -93,5 +93,5 @@ Saved credentials to use for the source control connection. All application deve
 5.  Select **Save**.
 
 
-**Parent Topic:**[AES integration with a Git source control repository](../concept/aes-source-control-integration.md)
+**Parent Topic:**[AES integration with a Git source control repository](aes-source-control-integration.md)
 

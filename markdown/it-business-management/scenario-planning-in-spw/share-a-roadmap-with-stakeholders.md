@@ -20,7 +20,7 @@ Add people from your organization who are the stakeholders for the work involved
 
 -   [Create a free-form roadmap](create-a-roadmap-in-roadmap-planning.md).
 
--   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Strategic Planning Workspace](../../alignment-planner-workspace/reference/components-installed-with-alignment-planner-workspace.md).
+-   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Strategic Planning Workspace](components-installed-with-alignment-planner-workspace.md).
 
 
 Role required: sn\_align\_core.apw\_user

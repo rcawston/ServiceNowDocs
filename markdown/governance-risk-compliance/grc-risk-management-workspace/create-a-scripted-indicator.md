@@ -230,5 +230,5 @@ Previous status of the indicator to show whether the indicator passed or failed.
         Live records always open in the classic user interface and not in the Risk Workspace user interface.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

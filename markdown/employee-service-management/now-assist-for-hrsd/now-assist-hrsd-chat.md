@@ -64,7 +64,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
     **Note:** Generative AI doesn’t override an existing short description that is in the HR case template.
 
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -83,7 +83,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
 
 [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -95,7 +95,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
 
 [Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](analyze-sentiments-now-assist.md)
 

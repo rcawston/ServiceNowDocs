@@ -23,7 +23,7 @@ You can perform the following actions in the map editor:
 -   Select the Attributes icon ![](../image/icon-um-attributes-panel.png) to manage CIs and relationships.
 -   Select the Add CI icon ![](../image/icon-um-add-ci.png) to add an existing CI and its existing relationships to the map.
 -   Select a relationship or CI and then select the Manage relationship icon ![](../image/icon-um-edit-connection.png) to add, update, or delete relationships.
--   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. Select **Remove** for a CI to delete the CMDB records for all relationships to and from the CI. The CI is removed from the map, but the CI record isn’t deleted from the CMDB. For more information, see [Delete a connection using the map editor](../task/unified-map-delete-connection.md)
+-   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. Select **Remove** for a CI to delete the CMDB records for all relationships to and from the CI. The CI is removed from the map, but the CI record isn’t deleted from the CMDB. For more information, see [Delete a connection using the map editor](unified-map-delete-connection.md)
 
 ## Working in the map editor
 
@@ -48,7 +48,7 @@ You can perform the following actions in the map editor:
 
 Use the map editor to add a connection between two CIs or to modify an existing connection.
 
-To learn more, see [CI relationships in the CMDB](c_CIRelationships.md).
+To learn more, see [CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md).
 
 ## Deleting a connection
 
@@ -78,15 +78,15 @@ The map editor does not support the following actions:
 **Related topics**  
 
 
-[CI relationships in the CMDB](c_CIRelationships.md)
+[CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md)
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](../configuration-management-database-cmdb/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](../configuration-management-database-cmdb/t_AddANewSuggestedRelationship.md)
 
-[Add a CI to a map using the map editor](../task/unified-map-add-ci.md)
+[Add a CI to a map using the map editor](unified-map-add-ci.md)
 
-[Create or modify a connection using the map editor](../task/unified-map-edit-connection.md)
+[Create or modify a connection using the map editor](unified-map-edit-connection.md)
 
-[Delete a connection using the map editor](../task/unified-map-delete-connection.md)
+[Delete a connection using the map editor](unified-map-delete-connection.md)
 

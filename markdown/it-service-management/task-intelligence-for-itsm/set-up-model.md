@@ -30,7 +30,7 @@ Role required: sn\_ti\_admin.tia\_admin or sn\_itsm\_ml\_task.ti\_admin
     This action opens the model and displays the introductory pages. Each page in the model asks you questions and helps you select the information needed to build an effective model.
 
 
-**Parent Topic:**[Create an incident prediction model in Task Intelligence for ITSM](../concept/create-incident-prediction-model.md)
+**Parent Topic:**[Create an incident prediction model in Task Intelligence for ITSM](create-incident-prediction-model.md)
 
 ## Train your model
 
@@ -138,7 +138,7 @@ Adds the best predicted value to the field on the Incident form.
 
 </td><td>
 
-Shows the top recommended values for a field. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+Shows the top recommended values for a field. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for ITSM. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md).
 
 </td></tr><tr><td id="d286683e460">
 
@@ -189,5 +189,5 @@ A pop-up appears confirming that your model was deployed.
 
 ### What to do next
 
-Select **Configure Recommended Actions** to configure the implementation of the incident prediction model in the incident fields. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../../service-operations-workspace/concept/recommended-actions-for-itsm-in-service-operations-workspace.md).
+Select **Configure Recommended Actions** to configure the implementation of the incident prediction model in the incident fields. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](../service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md).
 

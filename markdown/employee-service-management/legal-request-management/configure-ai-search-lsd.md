@@ -52,5 +52,5 @@ Role required: admin
     6.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

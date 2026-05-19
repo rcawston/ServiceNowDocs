@@ -135,7 +135,7 @@ AI-powered analysis of the case timeline and overall investigation effort.-   **
 </table>**Related topics**  
 
 
-[Activate the GRC case summarization skill](../../now-assist-irm/task/activate-grc-case-summarization-skill.md)
+[Activate the GRC case summarization skill](../grc-common-functions/activate-grc-case-summarization-skill.md)
 
-[Summarize a privacy case using the GRC case summarization skill](../task/summarize-privacy-case.md)
+[Summarize a privacy case using the GRC case summarization skill](summarize-privacy-case.md)
 

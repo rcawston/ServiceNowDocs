@@ -20,7 +20,7 @@ Virtual Agent provides pre-built topic blocks that topic authors or admins can u
 
 Certain pre-built topic blocks are included automatically with the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin and Virtual Agent Lite. If you're using Virtual Agent Lite, you have read access to the topic blocks but you can't create topic blocks or add them to calling topics.
 
-You can duplicate pre-built topic blocks and modify the duplicates by using Virtual Agent Designer. For information about working with topic blocks and how to add them to calling topics, see [Maximizing code reuse with topic blocks](../concept/topic-blocks-overview.md) and [Add a reusable topic block to a calling topic or topic block](../task/add-topic-blocks-to-topic.md).
+You can duplicate pre-built topic blocks and modify the duplicates by using Virtual Agent Designer. For information about working with topic blocks and how to add them to calling topics, see [Maximizing code reuse with topic blocks](topic-blocks-overview.md) and [Add a reusable topic block to a calling topic or topic block](add-topic-blocks-to-topic.md).
 
 The following sections describe the input and output parameters for calling different types of platform topic blocks. The topic block input parameters are passed from the calling topic, and the output parameters are returned from the topic block to the calling topic.
 
@@ -44,7 +44,7 @@ The following table lists the output parameters for this topic block.
 
 Use the deflection topic block in Virtual Agent conversation topics to track the issues that Virtual Agent helped to resolve or actually resolved for a user.
 
-For example, the pre-built Auto Resolution Virtual Agent topic uses a deflection topic block to track deflections. For more information, see [Using the deflection topic block to track deflections in Virtual Agent](../concept/deflections-virtual-agent.md).
+For example, the pre-built Auto Resolution Virtual Agent topic uses a deflection topic block to track deflections. For more information, see [Using the deflection topic block to track deflections in Virtual Agent](deflections-virtual-agent.md).
 
 The following table lists the input parameters for this topic block.
 
@@ -78,7 +78,7 @@ Activity Table
 
 </td><td>
 
-Table where the deflection activity occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](../task/set-up-deflection-settings-va.md).
+Table where the deflection activity occurs. This table is associated with the primary activity table. For more information, see [Create deflection configurations and patterns](set-up-deflection-settings-va.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ The following tables list the input and output parameters for this topic block.
 
 ## Form Content Popup topic block
 
-Use this topic block to open a form in a popup window from the chat widget. Once the user submits the required information, the record appears as a card in the Virtual Agent chat window. If a new record is created, the sys ID for that record is sent to the server so that the Virtual Agent topic has that information. For information about creating a pop-up window from a link, see [Create a smart link preference](../../conversational-interfaces/task/create-smart-link-preference.md).
+Use this topic block to open a form in a popup window from the chat widget. Once the user submits the required information, the record appears as a card in the Virtual Agent chat window. If a new record is created, the sys ID for that record is sent to the server so that the Virtual Agent topic has that information. For information about creating a pop-up window from a link, see [Create a smart link preference](../create-smart-link-preference.md).
 
 |Parameter|Description|
 |---------|-----------|
@@ -242,13 +242,13 @@ Number of seconds to wait before continuing the chat. The maximum value allowed 
 
 **Note:** If you're upgrading from Rome or a prior release, you must replace the legacy AI Search topic block with the Run AI Search topic block in order for it to work.
 
-Use this topic block to generate AI Search results in a conversation. This block doesn't require specific input parameters from a calling topic because it is controlled by the AI Search application in Virtual Agent. The default Virtual Agent Search Application and EVAM configuration set in the [chat experience](../concept/va-conversation-settings.md) control how AI Search results are displayed in conversations.
+Use this topic block to generate AI Search results in a conversation. This block doesn't require specific input parameters from a calling topic because it is controlled by the AI Search application in Virtual Agent. The default Virtual Agent Search Application and EVAM configuration set in the [chat experience](va-conversation-settings.md) control how AI Search results are displayed in conversations.
 
-For information about how Virtual Agent uses AI Search, see [Improving the user experience with AI Search](../concept/va-ai-search.md). To learn more about Virtual Agent chat experiences and how to configure them, see [Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md).
+For information about how Virtual Agent uses AI Search, see [Improving the user experience with AI Search](va-ai-search.md). To learn more about Virtual Agent chat experiences and how to configure them, see [Customizing a Virtual Agent chat experience](va-conversation-settings.md).
 
 You can control certain aspects of the Run AI Search topic block:
 
--   Optionally customize the AI Search experience - You can customize the search experience by creating a custom Search Application Configuration to be used by the topic block, rather than the default Virtual Agent Search Application Configuration. The Search Application Configuration defines the search results returned in the conversation. For details on using a custom Search Application Configuration in the topic block, see [Create a custom AI Search experience for Virtual Agent conversations](../task/create-va-aisearch-application.md).
+-   Optionally customize the AI Search experience - You can customize the search experience by creating a custom Search Application Configuration to be used by the topic block, rather than the default Virtual Agent Search Application Configuration. The Search Application Configuration defines the search results returned in the conversation. For details on using a custom Search Application Configuration in the topic block, see [Create a custom AI Search experience for Virtual Agent conversations](create-va-aisearch-application.md).
 
     To use the default Virtual Agent configuration for AI Search, leave the **Search Application Configuration** field empty in the Topic Block Properties sheet when you're adding the Run AI Search topic block to a topic.
 

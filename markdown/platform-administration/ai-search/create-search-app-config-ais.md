@@ -27,7 +27,7 @@ Role required: search\_application\_admin
 
 3.  On the Search Application Configuration form, fill in the fields.
 
-    For a description of the field values, see [Search Application Configuration form](../reference/search-app-config-form-ais.md).
+    For a description of the field values, see [Search Application Configuration form](search-app-config-form-ais.md).
 
 4.  Select **Submit**.
 
@@ -38,7 +38,7 @@ The new search application configuration record appears in the Search Applicatio
 
 ## What to do next
 
-To use your new search application configuration, select it in the configuration for a ServiceNow AI Platform application that supports AI Search. For more information on these ServiceNow AI Platform applications, see [Enabling and configuring AI Search in ServiceNow AI Platform applications](../concept/enable-configure-apps-ais.md).
+To use your new search application configuration, select it in the configuration for a ServiceNow AI Platform application that supports AI Search. For more information on these ServiceNow AI Platform applications, see [Enabling and configuring AI Search in ServiceNow AI Platform applications](enable-configure-apps-ais.md).
 
-**Parent Topic:**[Search application configurations](../concept/defining-search-app-cfgs-ais.md)
+**Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
 

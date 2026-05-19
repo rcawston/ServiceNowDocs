@@ -17,7 +17,7 @@ Maintain the integrity of the CMDB by deleting any CI relationships that are no 
 
 ## About this task
 
-As an alternative to the CI relationship editor, [Unified Map](../concept/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](../concept/cmdb-workspace.md)or in [Service Graph Workspace store app](../concept/sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](unified-map-edit-connection.md).
+As an alternative to the CI relationship editor, [Unified Map](../unified-map/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](cmdb-workspace.md)or in [Service Graph Workspace store app](sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](../unified-map/unified-map-edit-connection.md).
 
 ## Before you begin
 
@@ -42,5 +42,5 @@ Role required: sn\_cmdb\_editor, itil, or asset
 4.  Click **Save** or **Save and Exit**.
 
 
-**Parent Topic:**[CI relationship editor](../concept/c_RelationshipEditor.md)
+**Parent Topic:**[CI relationship editor](c_RelationshipEditor.md)
 

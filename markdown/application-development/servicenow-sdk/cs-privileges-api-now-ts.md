@@ -17,14 +17,14 @@ The Cross-Scope Privilege API defines cross-scope privileges \[sys\_scope\_privi
 
 **Note:** For the latest ServiceNow Fluent API documentation and examples, see the [ServiceNow Fluent API reference](https://servicenow.github.io/sdk/) and [ServiceNow SDK examples repository](https://github.com/ServiceNow/sdk-examples) on GitHub.
 
-Runtime access tracking allows administrators to manage script access to application resources by creating a list of script operations and targets that the system authorizes to run. For general information about cross-scope privileges, see [Cross-scope privilege record](../../applications/reference/c_CrossScopePrivilegeRecord.md).
+Runtime access tracking allows administrators to manage script access to application resources by creating a list of script operations and targets that the system authorizes to run. For general information about cross-scope privileges, see [Cross-scope privilege record](../c_CrossScopePrivilegeRecord.md).
 
 **Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## CrossScopePrivilege object
 

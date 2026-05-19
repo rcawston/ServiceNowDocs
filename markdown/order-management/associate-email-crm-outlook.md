@@ -48,10 +48,10 @@ Role required: sn\_crm\_outlook.crm\_outlook\_user
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[Lead form in the ServiceNow CRM for Outlook add-in](../reference/lead-fields-outlook.md)|
-    |**Opportunity**|[Opportunity form in the ServiceNow CRM for Outlook add-in](../reference/opportunity-fields-outlook.md)|
-    |**Account**|[Account form in the ServiceNow CRM for Outlook add-in](../reference/account-fields-outlook.md)|
-    |**Contact**|[Contact form in the ServiceNow CRM for Outlook add-in](../reference/contact-fields-outlook.md)|
+    |**Lead**|[Lead form in the ServiceNow CRM for Outlook add-in](lead-fields-outlook.md)|
+    |**Opportunity**|[Opportunity form in the ServiceNow CRM for Outlook add-in](opportunity-fields-outlook.md)|
+    |**Account**|[Account form in the ServiceNow CRM for Outlook add-in](account-fields-outlook.md)|
+    |**Contact**|[Contact form in the ServiceNow CRM for Outlook add-in](contact-fields-outlook.md)|
 
 9.  View the associated record in the CRM by selecting **Open**.
 
@@ -66,5 +66,5 @@ The email is associated with the CRM record, and the engagement is logged for fu
 
 You can view the associated emails if you have the staging\_emails\_admin role. For more information, see [Track emails linked from Microsoft Outlook](view-associated-emails-crm.md).
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

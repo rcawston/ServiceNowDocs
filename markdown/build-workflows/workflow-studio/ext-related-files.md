@@ -83,5 +83,5 @@ sn\_ext\_files\_spoke.provider\_admin
 Read, update, and delete records in the External Provider table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spokes](../concept/spokes.md)
+</table>**Parent Topic:**[Spokes](spokes.md)
 

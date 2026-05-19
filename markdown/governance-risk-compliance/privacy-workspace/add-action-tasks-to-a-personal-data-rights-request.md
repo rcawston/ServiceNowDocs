@@ -31,13 +31,13 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 5.  On the form, fill in the fields.
 
-    For information on the form fields, see [New action task form](../reference/new-action-task-form.md).
+    For information on the form fields, see [New action task form](new-action-task-form.md).
 
 6.  Select **Save**.
 
 
--   **[New action task form](../reference/new-action-task-form.md)**  
+-   **[New action task form](new-action-task-form.md)**  
 Use the new action task form to create action tasks for the appropriate owners.
 
-**Parent Topic:**[Using Personal Data Rights](../concept/using-personal-data-right.md)
+**Parent Topic:**[Using Personal Data Rights](using-personal-data-right.md)
 

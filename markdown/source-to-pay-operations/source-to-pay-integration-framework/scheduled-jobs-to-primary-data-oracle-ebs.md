@@ -15,13 +15,13 @@ breadcrumb: [Configure, Source-to-Pay integration with Oracle EBS, Integration w
 
 You can schedule on-demand jobs to be run at specific intervals of time to fetch primary data from different Oracle EBS ERP sources into ServiceNow.
 
-Before you start the Oracle EBS ERP integration, you must configure the integration services record for target ERP source using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating an integration service record, see [Create Integration Service record](../../accounts-payable-operations/task/create-integration-service-record.md).
+Before you start the Oracle EBS ERP integration, you must configure the integration services record for target ERP source using the `sn_fcms_intg_service` table. The `sn_fcms_intg_service` table is a mapping table between sub flows and target ERP source. For more information on creating an integration service record, see [Create Integration Service record](create-integration-service-record.md).
 
 Scheduled jobs are configured for entities using scripts. Example: Fetch cost center from ERP systems. For more information on configuring scheduled jobs using scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ScheduleAScriptExecution.md). The script invokes a subflow, which is associated with an entity as shown in the following figure. The subflow queries the active entities or ERP source configuration \(optional\) listed in the integration service table.
 
 ![Scheduled script execution](../../accounts-payable-operations/image/scheduled-script.png)
 
--   **[Run scheduled jobs in Oracle EBS](../task/run-scheduled-jobs-oracle-ebs.md)**  
+-   **[Run scheduled jobs in Oracle EBS](run-scheduled-jobs-oracle-ebs.md)**  
 Run adhoc scheduled jobs to look up entity primary data from the target Oracle EBS ERP source.
 
 **Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](configuring-source-to-pay-oracle-ebs-integration.md)
@@ -31,11 +31,11 @@ Run adhoc scheduled jobs to look up entity primary data from the target Oracle E
 
 [ERP source configuration for Oracle EBS](erp-source-configuration-oracle.md)
 
-[Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md)
+[Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)
 
-[Configure integration services for Oracle EBS](../task/configure-service-maps-oracle-ebs.md)
+[Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)
 
-[Load data to ERP user-mapping table for Oracle EBS](../task/load-data-erp-user-mapping-oracle-ebs.md)
+[Load data to ERP user-mapping table for Oracle EBS](load-data-erp-user-mapping-oracle-ebs.md)
 
 [Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
 

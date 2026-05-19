@@ -28,7 +28,7 @@ Each internal stakeholder can be assigned only one of the following relationship
 
 **Note:** You can configure all relationship types, except the Primary Relationship Manager type, to align with your business requirements.
 
-Internal stakeholders with Primary Relationship Manager relationship type must be assigned the \[sn\_slm.owner\] role manually, which enables them to view, create, and update stakeholders for the associated supplier. All relationship types, other than Primary Relationship Manager, are for reference only. For more information on roles and their description, see [Components installed with Supplier Case Management](../reference/installed-with-supp-mgmt.md).
+Internal stakeholders with Primary Relationship Manager relationship type must be assigned the \[sn\_slm.owner\] role manually, which enables them to view, create, and update stakeholders for the associated supplier. All relationship types, other than Primary Relationship Manager, are for reference only. For more information on roles and their description, see [Components installed with Supplier Case Management](installed-with-supp-mgmt.md).
 
 -   **[Add internal stakeholders from the Source-to-Pay Workspace](add-internal-stakeholder.md)**  
 Assign relationship types such as Primary relationship manager and Category manager to internal users associated with a supplier.
@@ -40,7 +40,7 @@ Remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage supplier details](supp-ws-details-page.md)
 
@@ -50,9 +50,9 @@ Remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
@@ -60,9 +60,9 @@ Remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 
 [Overall supplier dashboard](overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
 [Add internal stakeholders from the Source-to-Pay Workspace](add-internal-stakeholder.md)
 

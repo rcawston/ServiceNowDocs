@@ -46,7 +46,7 @@ Roles required: itil, report\_user, report\_group, report\_global, report\_admin
 
 6.  On the **Type** tab, select the type of report to create and select **Next**.
 
-    Only time series reports are available. For information on specific reports types, see [Report types](../reference/report-types-creation-details-rd.md). To view the updated report, select **Run**.
+    Only time series reports are available. For information on specific reports types, see [Report types](report-types-creation-details-rd.md). To view the updated report, select **Run**.
 
 7.  On the **Configure** tab, fill in the following fields and select **Next**.
 
@@ -83,7 +83,7 @@ Transform
 Data is altered.-   Select no transforms to show the raw data in your report.
 -   Select one transform.
 -   Select multiple transforms to create a transform chain. A transform chain applies a new transform to the results of the previous transform.
-For more information, see [MetricBase transforms](../reference/metricbase-transforms.md).
+For more information, see [MetricBase transforms](metricbase-transforms.md).
 
 </td></tr><tr><td>
 
@@ -112,9 +112,9 @@ Select this option to show report data in a list below the report. The list appe
 
     See the Style options section of the report that you're creating for more information.
 
-    -   [Area and spline report style options](../concept/c_CreateAreaAndSplineCharts.md#)
-    -   [Line report style options](../concept/c_CreateLineCharts.md#)
-    -   [Step line report style options](../concept/step-reports.md#)
+    -   [Area and spline report style options](c_CreateAreaAndSplineCharts.md#)
+    -   [Line report style options](c_CreateLineCharts.md#)
+    -   [Step line report style options](step-reports.md#)
 10. Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
 
@@ -127,8 +127,8 @@ The report is created from the MetricBase source. If the report visualization is
 -   Select the Report info icon \(![Info icon](../../../common/image/Form_ReferenceLookupIcon.png)\) and add a description of the report.
 -   Select the sharing icon \(![Sharing icon](../image/ShareIcon.png)\) to open the **Sharing** menu. On this menu, you can add the report to a dashboard, export the report to PDF, publish the report to the web, and set visibility and schedules.
 
--   **[MetricBase transforms](../reference/metricbase-transforms.md)**  
+-   **[MetricBase transforms](metricbase-transforms.md)**  
 Transforms enable you to visualize MetricBase data in different ways.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 

@@ -21,12 +21,12 @@ Configure a workspace in Workspace Builder
 
 ## Before you begin
 
-Before you can configure a workspace in Workspace Builder, you must first create the workspace. See [Add a workspace](../../workspace-builder/task/workspace-builder-add-workspace.md).
+Before you can configure a workspace in Workspace Builder, you must first create the workspace. See [Add a workspace](workspace-builder-add-workspace.md).
 
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -36,7 +36,7 @@ You can customize essential elements and components in Workspace Builder. For mo
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](accessing-workspace-builder-aes-crs.md).
 
     The Workspace Builder tab displays your workspace within AES:
 
@@ -58,7 +58,7 @@ You can customize essential elements and components in Workspace Builder. For mo
 
     For more information on editing a clickable home page, see [Customize a workspace home page in Workspace Builder](edit-workspace-home-page.md).
 
-    **Note:** If the workspace was created before Tokyo, you must edit it in UI Builder. See [UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md) for more information.
+    **Note:** If the workspace was created before Tokyo, you must edit it in UI Builder. See [UI Builder](../ui-builder/ui-builder-overview.md) for more information.
 
 4.  Add or edit a list category and any subsequent filtered lists.
 

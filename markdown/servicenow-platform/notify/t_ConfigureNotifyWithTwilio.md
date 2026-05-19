@@ -61,5 +61,5 @@ If a Twilio account is already associated with a different system, disconnect th
 -   **[Configure Amazon Polly as default voice tone for text to speech](configure-amazon-polly-voice-tone.md)**  
 You can configure Amazon Polly as the default voice by overriding the default voice tone for text to speech.
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](configuring-notify.md)
 

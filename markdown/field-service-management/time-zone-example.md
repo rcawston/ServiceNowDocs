@@ -51,5 +51,5 @@ Time zones for dispatchers example
 
 [Configure multiple time zones for dispatchers](add-remore-time-zones.md)
 
-[Change the time zone in Dispatcher Workspace](change-timezone-calendar.md)
+[Change the time zone in Dispatcher Workspace](field-service-scheduling/change-timezone-calendar.md)
 

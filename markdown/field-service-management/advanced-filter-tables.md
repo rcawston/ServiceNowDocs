@@ -68,5 +68,5 @@ Territory crew configuration \(terr\_crew\_filter\_config\_view\)
 -   wm\_crew\_skill
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+</table>**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

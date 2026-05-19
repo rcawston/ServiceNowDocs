@@ -59,7 +59,7 @@ Role required: admin
 
     To push your changes to a remote repository that other developers can access, you need to create a repository with a Git provider like GitHub and generate a personal access token.
 
-    **Note:** The following steps demonstrate using GitHub and basic authentication as an example, but you could use another Git provider of your choosing or OAuth 2.0 authentication. For more information, see [Integrating source control with the ServiceNow IDE](../concept/integrating-source-control-servicenow-ide.md).
+    **Note:** The following steps demonstrate using GitHub and basic authentication as an example, but you could use another Git provider of your choosing or OAuth 2.0 authentication. For more information, see [Integrating source control with the ServiceNow IDE](integrating-source-control-servicenow-ide.md).
 
 4.  Create a remote repository.
 
@@ -140,7 +140,7 @@ Role required: admin
 
 ## Result
 
-You can check out or create branches in the repository and push changes to the remote repository. For more information, see [Using source control in the ServiceNow IDE](../concept/using-source-control-servicenow-ide.md).
+You can check out or create branches in the repository and push changes to the remote repository. For more information, see [Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md).
 
 **Note:** An application on an instance can be connected to only one repository at a time. To update the remote repository an application is connected to, you can use the `Git: Update remote origin` command from the command palette and enter a different remote repository URL.
 
@@ -148,5 +148,5 @@ You can check out or create branches in the repository and push changes to the r
 
 Continue to [Tutorial part 3: Define a table in ServiceNow Fluent code](tutorial-define-table-fluent-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](getting-started-create-application-ide.md)
 

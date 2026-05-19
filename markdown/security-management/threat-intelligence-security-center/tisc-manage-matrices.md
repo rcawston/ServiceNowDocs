@@ -52,5 +52,5 @@ Role required: sn\_sec\_tisc.analyst
     |Comments|Add any comments that you might have in addition.|
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK Repository](../concept/tisc-mitre-att-ck-framework-overview.md)
+**Parent Topic:**[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
 

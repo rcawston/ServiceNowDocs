@@ -48,5 +48,5 @@ Also, ensure that the same users have the System Administrator \[admin\] role to
 7.  Log out.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

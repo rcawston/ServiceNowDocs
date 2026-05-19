@@ -32,5 +32,5 @@ If the data coming from the ODBC source exceeds the field size of the dictionary
     **Note:** By default, the ODBC driver uses the VARCHAR data type to store query string output. When strings become very large \(roughly 16000 characters\), the ODBC driver uses the LONGVARCHAR data type instead. It is important to keep in mind, however, that the LONGVARCHAR data type has a more limited set of SQL commands that can be executed on it. For example, it does not support queries using scalar data.
 
 
-**Parent Topic:**[ODBC behavior](../reference/r_ODBCBehavior.md)
+**Parent Topic:**[ODBC behavior](r_ODBCBehavior.md)
 

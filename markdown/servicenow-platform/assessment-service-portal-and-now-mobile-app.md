@@ -77,7 +77,7 @@ When users open an assessment either in Service Portal or the Now Mobile app, th
     **Note:** For mobile users, the pagination is always by question for assessments.
 
 
-**Parent Topic:**[Take an assessment](../task/t_TakeAnAssessment.md)
+**Parent Topic:**[Take an assessment](t_TakeAnAssessment.md)
 
 **Related topics**  
 

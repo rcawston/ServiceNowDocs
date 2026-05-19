@@ -35,7 +35,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 6.  On the Create New Maintenance Plan page, fill in the details.
 
-    For a detailed description of all the maintenance plan fields, see [Maintenance plan fields for Enterprise Asset Management](../reference/maintenance-plan-fields-eam.md).
+    For a detailed description of all the maintenance plan fields, see [Maintenance plan fields for Enterprise Asset Management](maintenance-plan-fields-eam.md).
 
 7.  Select **Save**.
 

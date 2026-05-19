@@ -55,7 +55,7 @@ This property enables you to exclude a room if you do not want it to appear in t
 -   Default value: &lt;empty&gt;
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](../concept/workplace-rsv-for-outlook-addin-reference.md)
+</table>**Parent Topic:**[Workplace Reservations for Microsoft Outlook Add-in references](workplace-rsv-for-outlook-addin-reference.md)
 
 **Related topics**  
 

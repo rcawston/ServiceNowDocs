@@ -74,5 +74,5 @@ Response:
 
 When sending a binary type in a response, you must set the response content type and write the binary stream directly using a `RESTAPIResponseStream` object. You can access this object by calling `getStreamWriter()` on the response object. For more information, see.
 
-**Parent Topic:**[Create a scripted REST API](../task/t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
 

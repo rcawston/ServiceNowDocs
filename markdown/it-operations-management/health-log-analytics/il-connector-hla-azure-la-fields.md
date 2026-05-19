@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Microsoft Azure Log Analytics integration configuration forms for Health Log Analytics.
 
-For the Microsoft Azure Log Analytics integration setup procedure, see [Set up a Microsoft Azure Log Analytics integration for Health Log Analytics](../task/il-connector-hla-azure-la.md).
+For the Microsoft Azure Log Analytics integration setup procedure, see [Set up a Microsoft Azure Log Analytics integration for Health Log Analytics](il-connector-hla-azure-la.md).
 
 <table id="table_pxx_hz1_42c"><thead><tr><th>
 

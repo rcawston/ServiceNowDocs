@@ -21,7 +21,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
 ## About this task
 
-Collects and analyzes metric data for an engagement and determines if a risk signal is to be created. The [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](../concept/now-assist-tmt-monitor-health.md) uses the metric data to monitor the health score and generates risk signals when the Poor and Neutral range thresholds defined in the Color Banding table are exceeded. You can view the status of the metric collection in the [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
+Collects and analyzes metric data for an engagement and determines if a risk signal is to be created. The [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](now-assist-tmt-monitor-health.md) uses the metric data to monitor the health score and generates risk signals when the Poor and Neutral range thresholds defined in the Color Banding table are exceeded. You can view the status of the metric collection in the [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
 ## Procedure
 
@@ -33,8 +33,8 @@ Collects and analyzes metric data for an engagement and determines if a risk sig
 
 3.  Select the user role that can utilize this skill and select **Save** to activate the skill.
 
-    The collected metric data is used by the [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](../concept/now-assist-tmt-monitor-health.md).
+    The collected metric data is used by the [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](now-assist-tmt-monitor-health.md).
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

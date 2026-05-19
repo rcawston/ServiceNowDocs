@@ -18,22 +18,22 @@ Email properties are available from either of these modules:
 -   **System Mailboxes** &gt; **Email Properties**
 -   **System Properties** &gt; **Email Properties**
 
-Email accounts are configured in the **System Mailboxes** &gt; **Administration** &gt; **Email Accounts** module. For more information and instructions, see [Create an email account](../../notification/task/t_ConfigureAnEmailAccount.md).
+Email accounts are configured in the **System Mailboxes** &gt; **Administration** &gt; **Email Accounts** module. For more information and instructions, see [Create an email account](t_ConfigureAnEmailAccount.md).
 
 Email diagnostics are available from the **System Mailboxes** &gt; **Email Diagnostics** module.
 
 **Note:** To learn more about the security properties that affect email processing, see [SMTP authentication \(deprecated\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/smtp-authentication.md) in Instance Security Hardening Settings.
 
--   **[Outbound email configuration](../reference/r_OutboundMailConfiguration.md)**  
+-   **[Outbound email configuration](r_OutboundMailConfiguration.md)**  
 The **Outbound Email Configuration** section of the Email Properties page contains properties for sending email.
--   **[Inbound email configuration](../reference/r_InboundMailConfiguration.md)**  
+-   **[Inbound email configuration](r_InboundMailConfiguration.md)**  
 The **Inbound Email Configuration** section of the Email Properties page contains properties to control inbound email.
--   **[Email image filtering properties](../../notification/concept/email-image-filters.md)**  
+-   **[Email image filtering properties](email-image-filters.md)**  
 Use email image filtering properties to control how inbound email images attach to a target record.
--   **[Email digest properties](../../notification/concept/email-digest-properties.md)**  
+-   **[Email digest properties](email-digest-properties.md)**  
 Several properties are available to manage digest intervals for email digests.
--   **[Advanced email properties](../reference/r_AdditionalProperties.md)**  
+-   **[Advanced email properties](r_AdditionalProperties.md)**  
 Use advanced email properties to fine-tune the way your instance sends or receives email.
 
-**Parent Topic:**[Configure email administration](../../notification/concept/configuring-email-admin.md)
+**Parent Topic:**[Configure email administration](configuring-email-admin.md)
 

@@ -27,19 +27,19 @@ Explore
 
 Configure![](../images/BUS_64px_SDLC_YG.png)
 
- [Configure the Discovery Console for OT](../task/configure-ot-console-steps.md)
+ [Configure the Discovery Console for OT](configure-ot-console-steps.md)
 
 </td></tr><tr><td>
 
 Interact![](../images/BUS_64px_Manage_YG.png)
 
- [Use the Discovery Console for OT interactive configuration wizard](../task/console-onboarding-wizard.md)
+ [Use the Discovery Console for OT interactive configuration wizard](console-onboarding-wizard.md)
 
 </td><td>
 
 Use![](../images/BUS_64px_Optimize-Manage_YG.png)
 
- [Use the Discovery Console for OT pages](../../operational-technology-discovery-deployment-guide/concept/using-discovery-console.md)
+ [Use the Discovery Console for OT pages](using-discovery-console.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

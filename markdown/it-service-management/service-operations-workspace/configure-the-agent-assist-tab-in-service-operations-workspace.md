@@ -61,5 +61,5 @@ Add or remove a record table from the screen condition and update the sys\_id fo
 -   **[Edit the table configuration for Agent Assist in Service Operations Workspace](edit-the-table-configuration-for-agent-assist-in-service-operations-workspace.md)**  
 Edit the table configuration for Agent Assist to see the required search results in the Agent Assist tab.
 
-**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](../concept/contextual-side-panel-configurations-sow-itsm.md)
+**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](contextual-side-panel-configurations-sow-itsm.md)
 

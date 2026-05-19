@@ -51,7 +51,7 @@ When the configuration is complete, agents can discover similar information acro
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

@@ -40,5 +40,5 @@ You enabled team tasks for the selected journey configuration. Managers are able
 
 To learn how to add tasks to activity sets from the Employee Center, see [Add tasks to an activity set using Journey designer](add-tasks-activity-set.md).
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

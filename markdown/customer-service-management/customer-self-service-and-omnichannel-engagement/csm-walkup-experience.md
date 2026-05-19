@@ -62,15 +62,15 @@ User personas and roles are defined as follows:
 
 ## Configuring Walk-up Experience for Customer Service Management
 
-To get started with Walk-up Experience for Customer Service Management, see [Configure Walk-up Experience for Customer Service Management](../task/configure-walk-up-csm.md).
+To get started with Walk-up Experience for Customer Service Management, see [Configure Walk-up Experience for Customer Service Management](configure-walk-up-csm.md).
 
 -   **[Walk-up Experience for guest users](csm-walkup-guest-store-app.md)**  
 The Walk-up Experience application can enable guest users to manage walk-up appointments online from the Consumer Service Portal or Customer Service Portal home page.
 
-**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](../c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
-[Walk-up Experience for CSM user roles](../reference/walk-up-experience-user-roles.md)
+[Walk-up Experience for CSM user roles](../walk-up-experience-user-roles.md)
 

@@ -14,7 +14,7 @@ The ServiceNow® Enterprise Asset Management application manages the entire life
 
 ## Enterprise Asset Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Streamline the enterprise asset request process by using the help manage enterprise asset requests agentic workflow.
 -   Automatically generate troubleshooting, diagnostics, and repair instructions for your enterprise asset repairs by using the help repair enterprise assets agentic workflow.

@@ -36,7 +36,7 @@ The integration supports the following observable types:
 -   Email address
 -   Domain name
 
-**Note:** Before you begin, [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+**Note:** Before you begin, [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 ## Procedure
 
@@ -82,5 +82,5 @@ After configuration, you can select Have I Been Pwned for performing enrichment 
 
 To run observable enrichment, see [Run Have I Been Pwned enrichment integration](tisc-hibp-enrichment-integration.md) for the detailed procedure.
 
-**Parent Topic:**[Have I Been Pwned integration](../concept/tisc-hibp-integration.md)
+**Parent Topic:**[Have I Been Pwned integration](tisc-hibp-integration.md)
 

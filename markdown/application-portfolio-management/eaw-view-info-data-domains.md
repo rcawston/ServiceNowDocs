@@ -28,12 +28,12 @@ Role required: admin
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage information data domains](../../concept/eaw-concept/eaw-config-info-data-domains.md)
+[Manage information data domains](eaw-config-info-data-domains.md)
 
 [Add or edit an information data domain](eaw-add-edit-info-data-domain.md)
 

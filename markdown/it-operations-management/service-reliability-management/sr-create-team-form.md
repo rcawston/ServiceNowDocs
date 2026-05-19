@@ -17,7 +17,7 @@ Request to create a team to start monitoring your services.
 
 ## Create a team form
 
-For more information, see [Add an SRM team](../task/sr-create-team.md).
+For more information, see [Add an SRM team](sr-create-team.md).
 
 |Field|Description|
 |-----|-----------|

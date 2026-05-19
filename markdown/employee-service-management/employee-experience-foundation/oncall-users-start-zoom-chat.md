@@ -19,7 +19,7 @@ The users who are associated with On-call Scheduling will be displayed in the **
 
 **sn\_tcm\_collab\_hook.zoom\_on\_call\_tables\_for\_start\_chat\_action** system property is created to support this functionality. You can extend this functionality to the change and request tables.
 
--   **[Extend On-call users for Start Zoom Team Chat](../task/extend-oncall-users-start-zoom-chat.md)**  
+-   **[Extend On-call users for Start Zoom Team Chat](extend-oncall-users-start-zoom-chat.md)**  
 Shows the list of On-call users in Start Zoom Team Chat for a change, request, or a request item.
 
 **Parent Topic:**[Chat-specific configuration for Collaboration services for Zoom](additional-configuration-sn-cs-zoom.md)

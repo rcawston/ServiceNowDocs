@@ -24,9 +24,9 @@ Incident Management in Service Operations Workspace quick start tests are availa
 |SOW Incident: Create problem from incident|Test to verify the creation of a problem record from an Incident using the **Create Problem** UI action on the Incident form.|Xanadu \(August store release, 6.0 version\)|
 |SOW Incident: Verify Assign to me button functionality|Test to verify the assignment of the incident record to the logged-in user using the **Assign to me** UI option on the Record information side panel of the Incident form.|Xanadu \(August store release, 6.0 version\)|
 
-To learn more about Incident Management in Service Operations Workspace, see [Incident Management in Service Operations Workspace](../../../product/service-operations-workspace/concept/incident-sow.md).
+To learn more about Incident Management in Service Operations Workspace, see [Incident Management in Service Operations Workspace](incident-sow.md).
 
-**Parent Topic:**[Incident Management in Service Operations Workspace reference](../../../product/service-operations-workspace/concept/sow-im-reference.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 
 **Related topics**  
 

@@ -48,7 +48,7 @@ Role required: sn\_si.admin or sn\_si.analyst
 5.  Validate the status of the action on the Additional Actions on Endpoint related lists.
 
 
-**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](../concept/additional-configurations-in-defender.md)
+**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](additional-configurations-in-defender.md)
 
 **Related topics**  
 

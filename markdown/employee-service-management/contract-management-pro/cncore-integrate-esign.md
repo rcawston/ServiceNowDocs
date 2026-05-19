@@ -160,7 +160,7 @@ The conﬁguration for the electronic signature is ready to be used for signing 
 
 For information on configuring external storage, see [Configure an external storage system](cncore-integrate-ext-storage.md).
 
-**Parent Topic:**[Configuring external applications for Contract Management Pro](../concept/cncore-set-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for Contract Management Pro](cncore-set-ext-app-config.md)
 
 **Related topics**  
 

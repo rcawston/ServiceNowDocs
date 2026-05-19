@@ -52,14 +52,14 @@ Theme Builder includes an option on the home page that you can use to provide fe
 
 -   **[Create a theme with Theme Builder](tb-create-theme.md)**  
 Create a theme record for your web or mobile experiences by using the Home view in the Theme Builder application.
--   **[Theme creation with AI](../concept/theme-creation-with-ai.md)**  
+-   **[Theme creation with AI](theme-creation-with-ai.md)**  
 Use AI to generate themes from images directly in Theme Builder or from the Now Assist panel.
 -   **[Manage or edit a theme with Theme Builder](tb-edit-theme.md)**  
 Customize and manage your theme and styling in a time and cost efficient way. After customizing, publish your new theme to either a web or mobile implementation of your instance.
 -   **[Publish your themes with Theme Builder](tb-apply-theme.md)**  
 Publish multiple themes to your web instance or a single theme to your mobile instance to reflect your company's brand.
--   **[Theme Builder and domain separation](../concept/tb-domain-sep.md)**  
+-   **[Theme Builder and domain separation](tb-domain-sep.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
 

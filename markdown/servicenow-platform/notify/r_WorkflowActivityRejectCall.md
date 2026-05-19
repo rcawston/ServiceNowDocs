@@ -25,5 +25,5 @@ Input variables determine the initial behavior of the activity.
 |--------|-----------|
 |reason|Select a reason for rejecting the call, such as **busy**.|
 
-**Parent Topic:**[Notify workflow activities](../concept/c_NotifyActivities.md)
+**Parent Topic:**[Notify workflow activities](c_NotifyActivities.md)
 

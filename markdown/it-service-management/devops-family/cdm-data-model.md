@@ -122,7 +122,7 @@ This diagram is simplified. In your implementation, deployables can include mult
 
     Components are the building blocks that typically represent the config data for a logical element of an application or a part of an infrastructure service. For example, a monolithic app, a micro-service, a physical server, or a Docker template.
 
-    A component can contain variables that can take on different values in collections and deployables. More detailed instructions appear in [Define or update a component](../task/cdm-component-define.md).
+    A component can contain variables that can take on different values in collections and deployables. More detailed instructions appear in [Define or update a component](cdm-component-define.md).
 
 -   **Collections**
 
@@ -156,12 +156,12 @@ This diagram is simplified. In your implementation, deployables can include mult
 -   **[Contextual variables for config data](cdm-context-var.md)**  
 Contextual variables are out-of-the-box variables delivered by ServiceNow that enable you to use the context of a node to define a variable.
 
-**Parent Topic:**[DevOps Config reference](../../devops-config/reference/devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
 
 **Related topics**  
 
 
-[Preparing an application for config data upload](../concept/cdm-prep-app-for-upload.md)
+[Preparing an application for config data upload](cdm-prep-app-for-upload.md)
 
-[Create and update a deployable](../task/cdm-deployable-define.md)
+[Create and update a deployable](cdm-deployable-define.md)
 

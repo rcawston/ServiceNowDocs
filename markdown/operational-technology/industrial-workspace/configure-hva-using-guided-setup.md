@@ -56,12 +56,12 @@ Select **Firmware Discovery Model** Opt-in option for ServiceNow Asset Managemen
 -   **[Delete obsolete and expired hardware vulnerability assessments](otvr-delete-obsolete-and-expired-assessments.md)**  
 Set up automatic deletion of obsolete or expired assessment records.
 
-**Parent Topic:**[Configuring the Industrial Workspace](../../operational-technology-management/concept/configuring-industrial-workspace.md)
+**Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)
 
 **Related topics**  
 
 
 [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md)
 
-[Operational Technology Hardware Vulnerability Assessment](../concept/understanding-hwd-vuln-assessment.md)
+[Operational Technology Hardware Vulnerability Assessment](understanding-hwd-vuln-assessment.md)
 

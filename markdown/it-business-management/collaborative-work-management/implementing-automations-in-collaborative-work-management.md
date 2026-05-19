@@ -39,11 +39,11 @@ Going forward, when the priority of any item of this Board changes to High, a no
 
 ![New automation in CWM Board.](../images/cwm-add-automation.jpg)
 
-Get started with automations in CWM. See [Create automations in CWM](../task/create-and-manage-automations-in-cwm.md).
+Get started with automations in CWM. See [Create automations in CWM](create-and-manage-automations-in-cwm.md).
 
--   **[Create automations in CWM](../task/create-and-manage-automations-in-cwm.md)**  
+-   **[Create automations in CWM](create-and-manage-automations-in-cwm.md)**  
 Add conditions to build task automations for CWM Boards and help your team save time from manual task updates.
--   **[Manage or delete automations in CWM](../task/manage-or-delete-automations-in-cwm.md)**  
+-   **[Manage or delete automations in CWM](manage-or-delete-automations-in-cwm.md)**  
 Edit, disable, or delete automations for your Boards in Collaborative Work Management based on the changing conditions of your team's workflow.
 
 **Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)

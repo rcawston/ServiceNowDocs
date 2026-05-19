@@ -19,7 +19,7 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-The first step of the guided setup includes defining the fundamentals of the agentic workflow. The description and list of steps fields are used by the large language model \(LLM\) to achieve its objectives. Descriptions and list of steps should be clear and well-defined. For guidelines for writing these fields, see [Writing effectively for agentic AI](../concept/gg-creating-aia.md). For an example agentic workflow, see an [example agentic workflow](../concept/example-aw.md).
+The first step of the guided setup includes defining the fundamentals of the agentic workflow. The description and list of steps fields are used by the large language model \(LLM\) to achieve its objectives. Descriptions and list of steps should be clear and well-defined. For guidelines for writing these fields, see [Writing effectively for agentic AI](gg-creating-aia.md). For an example agentic workflow, see an [example agentic workflow](example-aw.md).
 
 You also assign the AI agents that the agentic workflow has access to in this step. The AI agents should be clearly defined and referred to in your list of steps so that the LLM knows how to use them. You can use existing AI agents installed with Now Assist applications or create your own. See [Create an AI agent](configure-next-best-action-agent.md) for the steps to create your own custom AI agents.
 
@@ -31,7 +31,7 @@ You also assign the AI agents that the agentic workflow has access to in this st
 
 3.  Craft a list of steps.
 
-    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [Version control](../concept/version-control.md) for more information.
+    You can also use an old version of a list of steps. Select **View versions** for a full list of previous versions of the field. See [Version control](version-control.md) for more information.
 
     ![Name, description, and list of steps for Generate Resolution Plans](../image/def-key-reqs-1.png)
 

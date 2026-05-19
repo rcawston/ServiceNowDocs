@@ -50,7 +50,7 @@ Role required: admin
 
 Google Dialogflow ES is the NLU service provider for your instance.
 
-**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)
 
 **Previous topic:**[Generate a Java Keystore \(JKS\) file and configure security on your ServiceNow instance](vad-configure-dialogflow-security.md)
 

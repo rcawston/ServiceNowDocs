@@ -197,5 +197,5 @@ The number of seconds to cache the client session. After an initial CORS request
 
 [Add the portable Virtual Agent chat widget to a third-party website](add-portable-va-client-website.md).
 
-**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](../concept/use-portable-va-web-client.md)
+**Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](use-portable-va-web-client.md)
 

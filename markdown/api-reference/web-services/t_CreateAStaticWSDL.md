@@ -30,8 +30,8 @@ Role required: web\_service\_admin or admin
 4.  Click **Submit**.
 
 
--   **[Static WSDL example](../reference/r_StaticWSDLExample.md)**  
+-   **[Static WSDL example](r_StaticWSDLExample.md)**  
 This example demonstrates the FakeStockValue WSDL.
 
-**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](../reference/createSOAPwebserviceStaticWSDL.md)
+**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](createSOAPwebserviceStaticWSDL.md)
 

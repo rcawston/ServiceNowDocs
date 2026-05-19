@@ -17,9 +17,9 @@ Creates a Line object using methods to draw a line in a PDF.
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](DocumentBothAPI.md#) to generate a PDF.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Line - Line\(\)
 
@@ -57,7 +57,7 @@ Document
 
 </td><td>
 
-[Document](../../DocumentBoth/concept/DocumentBothAPI.md#)
+[Document](DocumentBothAPI.md#)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Optional. Value of line thickness in points.Default: 1
 |----|-----------|
 |None| |
 
-The following example shows how to create a line at the lower margin of a document page. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to create a line at the lower margin of a document page. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -155,13 +155,13 @@ Sets the color of a line.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Line color.|
+|color|[Color](ColorBothAPI.md#)|Line color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to create a line and set its color in a document. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to create a line and set its color in a document. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");

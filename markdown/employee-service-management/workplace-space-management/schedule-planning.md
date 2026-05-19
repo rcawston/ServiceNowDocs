@@ -41,7 +41,7 @@ To access the Schedule Planner, navigate to **All** &gt; **Workplace Central**, 
 
 ![Schedule Planner dashboard with information about schedule plans, departments, users, and allocations.](../images/schedule-plan-dashboard.png)
 
-As a project owner, you can view the created schedule plans, projects assigned to you, and the spaces and users assigned to the projects. You can create a schedule plan or edit existing schedule plans. For more information, see [Working with Schedule Planning](working-with-schedule-planning.md).
+As a project owner, you can view the created schedule plans, projects assigned to you, and the spaces and users assigned to the projects. You can create a schedule plan or edit existing schedule plans. For more information, see [Working with Schedule Planning](../workplace-central/working-with-schedule-planning.md).
 
 **Note:** A project owner can create schedule plans for the projects that are assigned to them. Projects can be assigned to a user from the following fields:
 
@@ -63,9 +63,9 @@ A schedule plan can be in one of the following states:
 
 **Note:** The **Complete the lapsed schedule plan** job runs every day to check which schedule plans have reached the end date and move them to the **Complete** state.
 
-**Parent Topic:**[Exploring Workplace Space Management](../../workplace-space-management/concept/explore_wsm.md)
+**Parent Topic:**[Exploring Workplace Space Management](explore_wsm.md)
 
-**Parent Topic:**[Explore Workplace Central](workplace-central.md)
+**Parent Topic:**[Explore Workplace Central](../workplace-central/workplace-central.md)
 
 **Related topics**  
 
@@ -74,25 +74,25 @@ A schedule plan can be in one of the following states:
 
 [Scenario Planning](scenario-planning.md)
 
-[Allocation - types, setting, and impact](../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md)
+[Allocation - types, setting, and impact](setting-an-allocation-and-its-impact.md)
 
-[Lists module](wsd-lists-module.md)
+[Lists module](../workplace-central/wsd-lists-module.md)
 
-[Workplace Analytics](workplace-analytics.md)
+[Workplace Analytics](../workplace-central/workplace-analytics.md)
 
-[Space Planning](space-planning.md)
+[Space Planning](../workplace-central/space-planning.md)
 
 [Space Optimization](space-optimization.md)
 
 [Scenario Planning](scenario-planning.md)
 
-[Space assistance](space-assistance.md)
+[Space assistance](../workplace-central/space-assistance.md)
 
-[Event Planner](event-planner.md)
+[Event Planner](../workplace-central/event-planner.md)
 
-[Move Management](move-mgmt.md)
+[Move Management](../workplace-central/move-mgmt.md)
 
-[Case management](case-management-workspace.md)
+[Case management](../workplace-central/case-management-workspace.md)
 
-[Kiosk Indoor Mapping](kiosk-indoor-mapping.md)
+[Kiosk Indoor Mapping](../workplace-central/kiosk-indoor-mapping.md)
 

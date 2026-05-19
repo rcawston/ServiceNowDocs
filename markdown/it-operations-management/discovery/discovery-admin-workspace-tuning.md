@@ -22,5 +22,5 @@ The Discovery Admin Workspace Tuning Home page provides tools to assess instance
 
 ## Tuning check results
 
-Use the tuning tools to interrogate your instance for configurations that indicate health issues and identify opportunities to address best practices. Tuning checks your existing configurations and helps you resolving issues. For more information on how to run checks, see [Run Tuning checks](../task/run-tuning-checks.md).
+Use the tuning tools to interrogate your instance for configurations that indicate health issues and identify opportunities to address best practices. Tuning checks your existing configurations and helps you resolving issues. For more information on how to run checks, see [Run Tuning checks](run-tuning-checks.md).
 

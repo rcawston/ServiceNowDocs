@@ -19,7 +19,7 @@ The GlideRecord API is the primary means of interfacing with the database on the
 
 See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_scripting_utah_scripting_in_servicenow/app_store_learnv2_scripting_utah_server_side_scripting/app_store_learnv2_scripting_utah_gliderecord) article for details on building and running queries.
 
-For information on a class that performs the same functions as GlideRecord and enforces ACLs, see [Using GlideRecordSecure](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For information on a class that performs the same functions as GlideRecord and enforces ACLs, see [Using GlideRecordSecure](../scripts/p_GlideServerAPIs.md#).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -42,11 +42,11 @@ var mgr = current.caller_id.manager.toString();
 
 See also:
 
--   [GlideAggregate](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#)
--   [GlideElement](../../glideElement/concept/c_GlideElementScopedAPI.md#)
--   [GlideQuery](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
+-   [GlideAggregate](c_GlideAggregateScopedAPI.md#)
+-   [GlideElement](c_GlideElementScopedAPI.md#)
+-   [GlideQuery](GlideQueryGlobalAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideRecord - addActiveQuery\(\)
 
@@ -331,7 +331,7 @@ while (target.next()) {
 
 Build a search query and return the rows that match the request.
 
-If you are familiar with SQL, this method is similar to the "where" clause. One or more addQuery\(\) calls can be made in a single query; in this case the queries are AND'ed. If any of the query statements need to be OR'ed, use the GlideQueryCondition method [addOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#).
+If you are familiar with SQL, this method is similar to the "where" clause. One or more addQuery\(\) calls can be made in a single query; in this case the queries are AND'ed. If any of the query statements need to be OR'ed, use the GlideQueryCondition method [addOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#).
 
 **Note:** To enforce query access based on the user, use[addUserQuery\(\)](c_GlideRecordScopedAPI.md#).
 
@@ -366,7 +366,7 @@ String
 Name of the table field to query, or one of the following reserved names:-   123TEXTQUERY321: Adds a string search term to the query. Specify the string you want to match as the value. Use this option to return records with field values containing the search string. This option searches against all fields in the table, which must be configured for indexing and search. For more information about configuring tables for indexing and search, see [Configure a single table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md).
 -   123TEXTINDEXGROUP321: Adds a text index group to the query. Specify the name of the text index group from the Text Index Groups \[ts\_index\_group\] table you want to query as the value. Use this option to return search results from one of the tables in a text index group, with result relevancy scores normalized using that text index group's settings. For more information about configuring text index groups, see [Configure multiple tables for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-multiple-tables.md).
 
-**Note:** For more details on the use of the reserved names, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+**Note:** For more details on the use of the reserved names, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 </td></tr><tr><td>
 
@@ -410,7 +410,7 @@ now_GR.query();
 
 Provides the ability to build a request, which when executed, returns the rows from the specified table, that match the request.
 
-If you are familiar with SQL, this method is similar to the "where" clause. One or more addQuery\(\) calls can be made in a single query; in this case the queries are AND'ed. If any of the query statements need to be OR'ed, use the GlideQueryCondition method [addOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#).
+If you are familiar with SQL, this method is similar to the "where" clause. One or more addQuery\(\) calls can be made in a single query; in this case the queries are AND'ed. If any of the query statements need to be OR'ed, use the GlideQueryCondition method [addOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -526,10 +526,10 @@ Additional methods for system-level access that bypass query ACL checks:
 -   [addSystemOrderBy\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -585,8 +585,8 @@ Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in ascending order. To arrange records in descending order, see [addSystemOrderByDesc\(\)](c_GlideRecordScopedAPI.md#).
 
@@ -636,8 +636,8 @@ Additional methods for system-level access that bypass query ACL checks:
 
 -   [addSystemEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in descending order. To arrange records in ascending order, see [addSystemOrderBy\(\)](c_GlideRecordScopedAPI.md#).
 
@@ -688,8 +688,8 @@ Additional methods for system-level access that bypass query ACL checks:
 -   [addSystemEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemOrderBy\(\)](c_GlideRecordScopedAPI.md#)
 -   [addSystemOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addSystemCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addSystemOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addSystemOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -797,7 +797,7 @@ Value on which to query \(not case-sensitive\).
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[GlideQueryCondition](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)|The query condition that was added to the GlideRecord.|
+|[GlideQueryCondition](c_GlideQueryConditionScopedAPI.md#)|The query condition that was added to the GlideRecord.|
 
 The following example shows how to explicitly return all active users named Fred.
 
@@ -834,10 +834,10 @@ Additional methods for enforcing query ACL checks:
 -   [addUserOrderBy\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
-For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#enforcing_query_ACLs).
+For information on using this method with GlideRecordSecure, see [Enforcing query ACLs](../scripts/p_GlideServerAPIs.md#enforcing_query_ACLs).
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -898,8 +898,8 @@ Additional methods for enforcing query ACL checks:
 
 -   [addUserEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in ascending order. To arrange records in descending order, see [addUserOrderByDesc\(\)](c_GlideRecordScopedAPI.md#).
 
@@ -954,8 +954,8 @@ Additional methods for enforcing query ACL checks:
 
 -   [addUserEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserQuery\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Call this method more than once to order by multiple columns. Results are arranged in descending order. To arrange records in ascending order, see [addUserOrderBy\(\)](c_GlideRecordScopedAPI.md#).
 
@@ -1011,8 +1011,8 @@ Additional methods for enforcing query ACL checks:
 -   [addUserOrderBy\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserEncodedQuery\(\)](c_GlideRecordScopedAPI.md#)
 -   [addUserOrderByDesc\(\)](c_GlideRecordScopedAPI.md#)
--   [GlideQueryCondition - addUserCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
--   [GlideQueryCondition - addUserOrCondition\(\)](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
+-   [GlideQueryCondition - addUserOrCondition\(\)](c_GlideQueryConditionScopedAPI.md#)
 
 Always test queries on a sub-production instance prior to deploying them on a production instance. An incorrectly constructed encoded query, such as including an invalid field name, produces an invalid query. When the invalid query is run, the invalid part of the query condition is dropped, and the results are based on the valid part of the query, which may return all records from the table. Using an insert\(\), update\(\), deleteRecord\(\), or deleteMultiple\(\) method on bad query results can result in data loss.
 
@@ -1120,7 +1120,7 @@ Value on which to query \(not case-sensitive\).
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[GlideQueryCondition](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)|The query condition that was added to the GlideRecord.|
+|[GlideQueryCondition](c_GlideQueryConditionScopedAPI.md#)|The query condition that was added to the GlideRecord.|
 
 The following shows how to return only users named Fred that the current user has permission to see.
 
@@ -1694,7 +1694,7 @@ var mgr = current.caller_id.manager.toString();
 
 See also:
 
--   [GlideElement – toString\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#)
+-   [GlideElement – toString\(\)](c_GlideElementScopedAPI.md#)
 -   [getElements\(\)](c_GlideRecordScopedAPI.md#)
 
 |Name|Type|Description|
@@ -1736,7 +1736,7 @@ var mgr = current.caller_id.manager.toString();
 
 See also:
 
--   [GlideElement – toString\(\)](../../glideElement/concept/c_GlideElementScopedAPI.md#)
+-   [GlideElement – toString\(\)](c_GlideElementScopedAPI.md#)
 -   [getElement\(\)](c_GlideRecordScopedAPI.md#)
 
 |Name|Type|Description|
@@ -1745,7 +1745,7 @@ See also:
 
 |Type|Description|
 |----|-----------|
-|Array|Array of [GlideElement](../../glideElement/concept/c_GlideElementScopedAPI.md#) objects. Each object describes a field in the current GlideRecord.|
+|Array|Array of [GlideElement](c_GlideElementScopedAPI.md#) objects. Each object describes a field in the current GlideRecord.|
 
 The following example displays the value of the name field for the five most recent records created in the Question \[question\] table.
 
@@ -1950,7 +1950,7 @@ Retrieves the number of rows \(records\) in the current GlideRecord object.
 
 -   **Retrieving the number of records in GlideRecord or GlideAggregate**
 
-    The GlideRecord getRowCount\(\) and [GlideAggregate getAggregate\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#) APIs offer similar information. Use the following criteria to determine which option is best for you.
+    The GlideRecord getRowCount\(\) and [GlideAggregate getAggregate\(\)](c_GlideAggregateScopedAPI.md#) APIs offer similar information. Use the following criteria to determine which option is best for you.
 
     -   The GlideRecord getRowCount\(\) method tells you how many records have been returned from a query along with the records themselves. If you need the number of records in the result set before or after you iterate over the set to perform actions on the records, use this method.
     -   The GlideAggregate getAggregate\(\) method retrieves only a count of records matching the query, excluding the actual records. The aggregate must be set on the GlideAggregate object before issuing the query.
@@ -2585,7 +2585,7 @@ Determines if an operation is insert, update, or delete.
 
 Knowing the operation enables using current.operation\(\) to make a generic business rule which can handle each operation uniquely.
 
-For information on using the global variable current, refer to [Global variables in business rules](../../../../../script/business-rules/concept/c_BusinessRules.md#).
+For information on using the global variable current, refer to [Global variables in business rules](../business-rules-classic/c_BusinessRules.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -2701,7 +2701,7 @@ Can't launch 64-bit Windows 7 virtual machine
 
 Runs a query against the table based on the filters specified in the query methods such as addQuery\(\) and addEncodedQuery\(\).
 
-This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 **Note:** This method fails if there is a field in the table called "query". If that is the case, use the[\_query\(\)](c_GlideRecordScopedAPI.md#) method instead.
 
@@ -2709,9 +2709,9 @@ See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/ut
 
 See also:
 
--   [GlideAggregate - Scoped](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#)
--   [GlideQuery - Scoped, Global](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
--   [GlideQueryCondition - Scoped](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideAggregate - Scoped](c_GlideAggregateScopedAPI.md#)
+-   [GlideQuery - Scoped, Global](GlideQueryGlobalAPI.md#)
+-   [GlideQueryCondition - Scoped](c_GlideQueryConditionScopedAPI.md#)
 
 <table id="id_nxt_s5d_lpb" class="parameters"><thead><tr><th>
 
@@ -2792,15 +2792,15 @@ kb_feedback
 
 Runs a query against the table based on the filters specified in the query methods such as addQuery\(\) and addEncodedQuery\(\). This method is intended to be used on tables in which there's a column named "query", which might cause errors running the query\(\) method.
 
-This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../../../../../script/server-scripting/concept/c_UsingGlideRecordToQueryTables.md#).
+This method queries the GlideRecord table as well as any references of the table. For more information, see [Querying tables in script](../scripts/c_UsingGlideRecordToQueryTables.md#).
 
 See the [GlideRecord](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_scripting_utah_scripting_in_servicenow/app_store_learnv2_scripting_utah_server_side_scripting/app_store_learnv2_scripting_utah_gliderecord) article for details on building and running queries.
 
 See also:
 
--   [GlideAggregate - Scoped](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#)
--   [GlideQuery - Scoped, Global](../../GlideQuery/concept/GlideQueryGlobalAPI.md#)
--   [GlideQueryCondition - Scoped](../../glideQueryConditionScoped/concept/c_GlideQueryConditionScopedAPI.md#)
+-   [GlideAggregate - Scoped](c_GlideAggregateScopedAPI.md#)
+-   [GlideQuery - Scoped, Global](GlideQueryGlobalAPI.md#)
+-   [GlideQueryCondition - Scoped](c_GlideQueryConditionScopedAPI.md#)
 
 <table id="id_a3y_t5d_lpb" class="parameters"><thead><tr><th>
 
@@ -3127,7 +3127,7 @@ The **glide.db.forced.chunk.threshold** system property sets the threshold above
 
 **Note:** Do not use this method with the chooseWindow\(\) or setLimit\(\) methods when working with large tables.
 
-This method sets new values and does not clear existing values. To clear an existing value, use the setValue\(\) method and set the field to 'NULL'. For more information, see [Setting a GlideRecord variable to 'NULL'](../../../../../script/server-scripting/reference/r_SettingAGlideRecordVariableToNull.md).
+This method sets new values and does not clear existing values. To clear an existing value, use the setValue\(\) method and set the field to 'NULL'. For more information, see [Setting a GlideRecord variable to 'NULL'](../scripts/r_SettingAGlideRecordVariableToNull.md).
 
 |Name|Type|Description|
 |----|----|-----------|

@@ -24,5 +24,5 @@ After installing the Conversational IVR with Amazon Connect application from the
 |Amazon S3 Spoke - \(ih-amazon-s3-action-pack\)\(ih-s3-actions\)|Simplifies how you integrate with Amazon S3.|
 |Omnichannel Callback - \(sn\_omni\_callback\) \(com.sn.omnichannel.callback\)|Provides a consistent omnichannel experience for requesters whether they are coming from the digital channel or from the phone.|
 
-**Parent Topic:**[Install Conversational IVR with Amazon Connect](../task/install-va-ivr.md)
+**Parent Topic:**[Install Conversational IVR with Amazon Connect](install-va-ivr.md)
 

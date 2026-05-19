@@ -76,5 +76,5 @@ Select **To my groups**.
     You can see the progress your agents have made as they work on a path.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](learning-wfo-hr.md)
 

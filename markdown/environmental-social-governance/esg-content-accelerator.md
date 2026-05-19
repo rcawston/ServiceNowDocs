@@ -34,7 +34,7 @@ The application contains the following frameworks and regulations.
 
 An emission factor is a coefficient that quantifies the emissions released per unit of activity or output. It is used extensively in environmental science, engineering, and regulatory contexts to estimate the amount of pollutants or greenhouse gases emitted into the atmosphere from various sources. The Unified content management also contains several emission factors. For more information on emission factors, refer to [Emission factor library](emission-factor-library.md).
 
-Emission factors are sourced from certain standard content providers. These content providers publish the emission factors for a variety of industries and geographies. As an ESG administrator, while you can create your own [emission factor](../task/create-an-emission-factor.md) to calculate your emissions, you can also use the emission factors provided through the Unified content management application. Using the emission factors through the Unified content management application saves your time and effort. The following emission factors are provided by this application.
+Emission factors are sourced from certain standard content providers. These content providers publish the emission factors for a variety of industries and geographies. As an ESG administrator, while you can create your own [emission factor](create-an-emission-factor.md) to calculate your emissions, you can also use the emission factors provided through the Unified content management application. Using the emission factors through the Unified content management application saves your time and effort. The following emission factors are provided by this application.
 
 -   eGRID
 -   GHG Emission Factors by US EPA
@@ -63,7 +63,7 @@ The following figure displays the life cycle of the Unified content management a
 
 ![Workflow of how the Unified content management application works.](../images/esg-unified-content-management.png)
 
-For more information see, [Activate or update a framework and install citations using the Unified content management](../task/install-citations-frameworks-from-esg-content-accelerator.md).
+For more information see, [Activate or update a framework and install citations using the Unified content management](install-citations-frameworks-from-esg-content-accelerator.md).
 
 **Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](esg-new-explore.md)
 

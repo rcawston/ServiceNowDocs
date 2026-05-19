@@ -19,7 +19,7 @@ Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_k
 
 ## About this task
 
-This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 ## Procedure
 
@@ -69,5 +69,5 @@ To open the configuration options, click the newly created cryptographic module.
 
 [Create a cryptographic specification for Field Encryption](create-crypto-spec-pe.md).
 
-**Parent Topic:**[Using Field Encryption](../../encryption/concept/using-column-level-encryption.md)
+**Parent Topic:**[Using Field Encryption](using-column-level-encryption.md)
 

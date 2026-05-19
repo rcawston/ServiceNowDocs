@@ -36,5 +36,5 @@ The records related to a requester are displayed when an agent views the request
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](../concept/configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)
 

@@ -24,7 +24,7 @@ For general information about system properties, see [Add a system property](htt
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Property object
 

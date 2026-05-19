@@ -61,5 +61,5 @@ Base input fields
 -   DUNS number
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customize supplier summarization for fulfillers skill](../task/cust-na-fsc-supplier-skill.md)
+</table>**Parent Topic:**[Customize supplier summarization for fulfillers skill](cust-na-fsc-supplier-skill.md)
 

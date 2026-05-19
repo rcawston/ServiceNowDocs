@@ -167,7 +167,7 @@ Condition type
 
  -   Operator attributes, which determine how the filter operates on the data.
 -   Display Type attributes, which determine how the data that is returned by the Operator attribute gets displayed in your mobile app.
- Select one of the Condition types from the drop-down list. See [Filter condition attributes](../reference/filter-condition-attributes.md) where the default Operator and Display Type attributes are listed for each Condition type. The default values are marked with an asterisk \(\*\).
+ Select one of the Condition types from the drop-down list. See [Filter condition attributes](filter-condition-attributes.md) where the default Operator and Display Type attributes are listed for each Condition type. The default values are marked with an asterisk \(\*\).
 
  **Note:** If your requirements are satisfied with the default attributes and values, then you don't need to configure attributes any further. Selecting the **Condition type** is all you need to do. If you need to customize your filtering options, you can configure them in Step 10 below.
 
@@ -193,7 +193,7 @@ The database fields that users can filter on. Select **New** to configure a filt
 
 10. To configure filter condition attributes, navigate back to the Filter Condition form by selecting it in the navigation menu, scroll down to the **Filter condition attributes** section, and then select **New**.
 
-    In the Filter Condition Attribute form, complete the fields as needed based on the **Condition type** that was set in Step 8. See [Filter condition attributes](../reference/filter-condition-attributes.md) for descriptions of all attributes and their values.
+    In the Filter Condition Attribute form, complete the fields as needed based on the **Condition type** that was set in Step 8. See [Filter condition attributes](filter-condition-attributes.md) for descriptions of all attributes and their values.
 
 11. Add additional filters by repeating Steps 5 through 12 as needed.
 

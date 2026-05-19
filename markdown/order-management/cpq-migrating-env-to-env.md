@@ -15,7 +15,7 @@ Migrate blueprints between CPQ environments to ensure consistent configuration m
 
 ## Before you begin
 
-Understand CPQ upgrade windows, described in [CPQ Upgrade Schedule](../concept/logik_io_upgrade_schedule.md). Schedule your migration to avoid published upgrade windows. If you have questions regarding this topic, reach out to your Customer Success Manager.
+Understand CPQ upgrade windows, described in [CPQ Upgrade Schedule](logik_io_upgrade_schedule.md). Schedule your migration to avoid published upgrade windows. If you have questions regarding this topic, reach out to your Customer Success Manager.
 
 The following terms are used in this task:
 
@@ -93,7 +93,7 @@ Role required: \(unknown\)
         fullBlueprintMigration: true
         ```
 
-        For a description of how this parameter affects the blueprint migration, see [The fullBlueprintMigration parameter](../reference/cpq-fullblueprintmigration-param.md).
+        For a description of how this parameter affects the blueprint migration, see [The fullBlueprintMigration parameter](cpq-fullblueprintmigration-param.md).
 
     3.  If your environment is integrated with Salesforce and you are migrating the blueprint for the first time, perform step 2 in [Migrate a blueprint to an SFDC-integrated destination](cpq-migrating-to-sfdc.md).
 
@@ -129,7 +129,7 @@ Role required: \(unknown\)
 **Related topics**  
 
 
-[CPQ Upgrade Schedule](../concept/logik_io_upgrade_schedule.md)
+[CPQ Upgrade Schedule](logik_io_upgrade_schedule.md)
 
 [Migrate a blueprint to an SFDC-integrated destination](cpq-migrating-to-sfdc.md)
 

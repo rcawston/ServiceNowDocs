@@ -50,5 +50,5 @@ top.window.open(result.url);​
 
 [Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
 
-[Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md)
+[Conditions for the visibility of UI action \(button\)](visibility-cond-button-rpa.md)
 

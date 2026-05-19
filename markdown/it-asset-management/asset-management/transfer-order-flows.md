@@ -41,7 +41,7 @@ In the asset life cycle automation process, when multiple assets are transferred
 
 [Customize transfer order line tasks](customize-transfer-order-line-tasks.md)
 
-[Transfer order line asset tracking](../reference/r_TransferOrderLineAssetTracking.md)
+[Transfer order line asset tracking](r_TransferOrderLineAssetTracking.md)
 
 [t_TransferAssetsUsingTransferOrders]
 

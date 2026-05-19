@@ -22,7 +22,7 @@ The following page templates are available with the Playbooks for Customer Servi
 
 Considerations for using these page templates include the number of stages that appear in the picker and the length of the stage names. For example, longer stage names in the horizontal playbook can be truncated.
 
-**Note:** By default, the playbook page templates aren’t active. To activate a page template, see [Activate a playbook page or page variant](../task/activate-process-based-page.md).
+**Note:** By default, the playbook page templates aren’t active. To activate a page template, see [Activate a playbook page or page variant](activate-process-based-page.md).
 
 ## Case playbook: horizontal stages page template
 
@@ -57,7 +57,7 @@ Page header
 The page header includes record information that is displayed in the primary and secondary fields:-   The primary field displays the short description of the record.
 -   The secondary fields display the additional record information such as the priority, state, and contact or consumer details.
 
-You can configure the fields that appear in the page header. For more information, see [Customize the page header for a playbook page](../task/customize-process-form-header.md).
+You can configure the fields that appear in the page header. For more information, see [Customize the page header for a playbook page](customize-process-form-header.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ The action bar contains the actions that are available to users while working on
 -   **Save**: Save changes to the case record.
 -   **More Actions**: Perform additional actions such as proposing a major case or reporting a knowledge gap.
 
-You can configure the actions that are included in the action bar. For more information, see [Customize UI actions for a playbook page](../task/customize-process-ui-actions-bar.md).
+You can configure the actions that are included in the action bar. For more information, see [Customize UI actions for a playbook page](customize-process-ui-actions-bar.md).
 
 </td></tr><tr><td>
 

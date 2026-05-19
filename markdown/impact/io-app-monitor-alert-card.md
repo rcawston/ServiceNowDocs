@@ -50,5 +50,5 @@ Role required: admin
     To set notification, see the [Set notification step](configuring-io-alerts.md) of [Configure Key Alerts](configuring-io-alerts.md).
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

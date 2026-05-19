@@ -51,5 +51,5 @@ Create transfer order lines in Enterprise Asset Management to specify the items 
 -   **[Close transfer order line tasks in Enterprise Asset Workspace](close-eamtransferorder-task.md)**  
 Close transfer order line tasks to move transfer order lines from one stage to the other.
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
 

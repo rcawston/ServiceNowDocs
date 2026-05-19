@@ -23,7 +23,7 @@ Enable your team to collaborate in real time and add versions, store, copy, dele
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Activate Multi Provider Document Services Framework](../task/activate-multi-provider-doc-framework.md)
+[Activate![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Activate Multi Provider Document Services Framework](activate-multi-provider-doc-framework.md)
 
 </td><td>
 

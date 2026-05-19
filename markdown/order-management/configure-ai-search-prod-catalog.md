@@ -63,21 +63,21 @@ Users with the admin role perform the following steps to implement AI Search for
 
     Skip this step if you're a new customer using the Australia release or if your instance was zBooted in the Australia release. AI Search for Next Experience is automatically installed.
 
-2.  [Configure Now Assist for Sales Force Automation \(SFA\)](../../now-assist-som/task/configure-now-assist-som.md).
+2.  [Configure Now Assist for Sales Force Automation \(SFA\)](configure-now-assist-som.md).
 
     Depending on your entitlements, the Now Assist for Sales Force Automation \(SFA\) plugin might be automatically installed. If it is not automatically installed but you have the appropriate entitlements, install the Now Assist for Sales Force Automation \(SFA\) plugin \(sn\_som\_gen\_ai\). This plugin installs the AI Search RAG plugin \(sn\_ais\_rag\) and the AI Search Semantic Controller plugin \(com.glide.ais.semantic\_search\) for the AI Search Retrieval Augmented Generation \(RAG\) application used by AI Search for product catalog.
 
     **Note:** If you do not install Now Assist for Sales Force Automation \(SFA\) plugin \(sn\_som\_gen\_ai\), the product catalog interface provides simple keyword search, also known as Zing search.
 
-3.  [Run scheduled job to populate product offering categories](../task/run-scheduled-job-prod-offer-categories.md) only if you upgraded to the Australia.
+3.  [Run scheduled job to populate product offering categories](run-scheduled-job-prod-offer-categories.md) only if you upgraded to the Australia.
 
     This step adds the product offering categories field to the Product Offering table. Skip this step if you're a new customer using the Australia release or if your instance was zBooted in the Australia release.
 
-4.  [Run scheduled job to publish stop words dictionary, search profiles, and index tables](../task/run-sched-job-index-stopwords-profile.md).
+4.  [Run scheduled job to publish stop words dictionary, search profiles, and index tables](run-sched-job-index-stopwords-profile.md).
 
     This scheduled job sets up the indexes and publishes the stop word dictionary and search profiles used in AI Search for product catalogs.
 
-5.  [Enable AI Search in product catalog](../task/enable-ai-search-catalog.md).
+5.  [Enable AI Search in product catalog](enable-ai-search-catalog.md).
 
     Set the **enable\_ai\_search\_in\_catalog** property to true, which enables AI Search for the product catalog interface and verifies that the necessary files are configured to run AI Search.
 

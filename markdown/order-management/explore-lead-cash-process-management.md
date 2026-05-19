@@ -64,9 +64,9 @@ The following illustration describes the tasks involved in configuring and using
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create a hierarchical relationship between sales entities using built-in or custom business objects that mirror your organization’s structure and strategic goals.|[Create business objects and set up relationships between the entities](../task/create-business-object-group-define-entity-relationship.md)|Sales admin|
+|Create a hierarchical relationship between sales entities using built-in or custom business objects that mirror your organization’s structure and strategic goals.|[Create business objects and set up relationships between the entities](create-business-object-group-define-entity-relationship.md)|Sales admin|
 |Customize the number of levels and tile content on the node map, enhancing clarity and control so that the sales process managers can focus on relevant data and navigate through complex sales processes effectively.|[Customize the sales process dashboard](customizing-sales-process-dashboard.md)|Sales admin|
-|Select parent entities \(such as Opportunity, Quote, or Order\) and child entities \(such as Quote lines or Order lines\) to create a customized view of the sales life cycle that reflects the structure and needs of each account. This capability helps you track only relevant records, reducing noise and improving focus.|[Create account-specific sales process records](../task/create-sales-process-record.md)|Sales process manager|
+|Select parent entities \(such as Opportunity, Quote, or Order\) and child entities \(such as Quote lines or Order lines\) to create a customized view of the sales life cycle that reflects the structure and needs of each account. This capability helps you track only relevant records, reducing noise and improving focus.|[Create account-specific sales process records](create-sales-process-record.md)|Sales process manager|
 |Gain end-to-end visibility of the defined sales process through a consolidated view that provides a real-time snapshot of opportunities, quotes, orders, and related entities. The ability to see an entity's details eliminates the need to toggle between systems.|[Consolidated view and nodal hierarchy for monitoring a sales process](navigating-sales-process-dashboard.md)|Sales process manager|
 |Adjust which entities are actively tracked by linking and delinking records or changing how records are linked to focus on relevant sales activities.|[Link and delink records](navigating-sales-process-dashboard.md)|Sales process manager|
 |Streamline communication, task management, and documentation, which accelerates decision-making and improves cross-functional alignment and collaboration without having to leave the workspace.|[View consolidated emails and tasks, create checklists and attachments, and use integrated chat](navigating-sales-process-dashboard.md)|Sales process manager|
@@ -77,5 +77,5 @@ The following topics provide more information about configuring and using Lead-t
 
 -   [Configuring Lead-to-Cash Process Management](configuring-lead-cash-process-management.md)
 -   [Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
--   [Lead-to-Cash Process Management reference](../reference/lead-cash-process-management-reference.md)
+-   [Lead-to-Cash Process Management reference](lead-cash-process-management-reference.md)
 

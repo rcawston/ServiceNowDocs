@@ -15,8 +15,8 @@ The Security Posture Control and the Mitigation Controls applications are requir
 
 Refer to the following topics for more information about downloading and installing applications from the ServiceNow® Store.
 
--   [Download an application from the ServiceNow Store for the first time](../../security-incident-response/reference/download-app-first-time.md)
--   [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md)
+-   [Download an application from the ServiceNow Store for the first time](download-app-first-time.md)
+-   [Install a Security Operations integration](install-non-core-apps.md)
 
 To view the mitigation controls policies, users in the SPC Admin Group and SPC Analyst Group can navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Policies and findings** &gt; **All** in the SPC Workspace navigation panel.
 
@@ -48,5 +48,5 @@ The following mitigation controls policies are included with the application and
 The following categories of mitigation controls are currently supported with the SPC.
 
 -   [Mitigation controls and policies required for Exploit Protection \(EDR\) mitigation controls](spc-controls-policies-for-edr.md).
--   [Exploit Protection \(WAF\) mitigation controls](spc-controls-policies-for-exploit-waf.md). You must create policies for AWS WAF. See [Create a policy for the AWS WAF integration for mitigation controls monitoring](../task/spc-create-AWS-WAF-policy.md) for more information.
+-   [Exploit Protection \(WAF\) mitigation controls](spc-controls-policies-for-exploit-waf.md). You must create policies for AWS WAF. See [Create a policy for the AWS WAF integration for mitigation controls monitoring](spc-create-AWS-WAF-policy.md) for more information.
 

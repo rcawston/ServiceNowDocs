@@ -17,7 +17,7 @@ Request activation of the External Content for AI Search plugin \(com.glide.ais.
 
 ## Before you begin
 
-You must purchase a paid subscription before requesting activation of the plugin. For details on purchasing a paid subscription for a plugin, see [ServiceNow plugins](../../plugins/concept/c_ServiceNowPlugins.md).
+You must purchase a paid subscription before requesting activation of the plugin. For details on purchasing a paid subscription for a plugin, see [ServiceNow plugins](../c_ServiceNowPlugins.md).
 
 Role required: admin
 
@@ -75,5 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Indexing and searching external content in AI Search](../concept/external-content-ais.md)
+**Parent Topic:**[Indexing and searching external content in AI Search](external-content-ais.md)
 

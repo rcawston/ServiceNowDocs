@@ -26,7 +26,7 @@ As a user with the sn\_dpm.dpm\_admin role, you can configure KPIs to display in
 
 **Note:** You must have Service Portfolio Management premium subscription to perform this task. This premium subscription automatically installs if you have DPM installed.
 
-For general information about KPI groups, see [KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi.md).
+For general information about KPI groups, see [KPI groups in Digital Portfolio Management](dpm-configure-kpi.md).
 
 To create KPI groups, see [Create KPI groups, mappings, and visualizations](dpm-create-kpi-groups.md).
 
@@ -154,7 +154,7 @@ Mapping that you want to associate with this KPI group. The fields that are disp
         -   If you created the availability KPI for an enterprise portfolio, then use the enterprise portfolio tree structure to find the service offering record.
     3.  On the **Run** tab, ensure that the Performance snapshot Availability card displays the correct percentage value.
 
-**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)
 
 **Related topics**  
 

@@ -41,5 +41,5 @@ Role required: cmdb\_ot\_editor
     4.  Select the OT system service record you want to view the OT dependency map for.
     5.  Select **View OT Dependency map**.
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](modeling-ot-system.md)
 

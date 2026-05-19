@@ -121,7 +121,7 @@ Define the template subsection content.
 </table>7.  Save and **Submit** the new report template section.
 
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
@@ -132,5 +132,5 @@ Define the template subsection content.
 
 [Create Report Subsection Element template](create-report-subsection-element-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](adding-system-properties-to-your-status-reports.md)
 

@@ -17,8 +17,8 @@ Use these standalone AI agents to autonomously complete Sales CRM for Telecommun
 
 The following AI agents are available with Now Assist for Sales CRM for Telecommunications:
 
--   [Order enrichment AI agent](../concept/order-enrichment-agent-somt.md)
--   [Order fulfillment AI agent](../concept/order-fulfillment-agent-somt.md)
--   [Move order voice AI agent](../concept/now-assist-move-order-somt.md)
--   [Order fallout AI agent](../concept/now-assist-order-fallout-somt.md)
+-   [Order enrichment AI agent](order-enrichment-agent-somt.md)
+-   [Order fulfillment AI agent](order-fulfillment-agent-somt.md)
+-   [Move order voice AI agent](now-assist-move-order-somt.md)
+-   [Order fallout AI agent](now-assist-order-fallout-somt.md)
 

@@ -52,5 +52,5 @@ Perform the following configuration for the communication channels you want use:
 -   To configure the Conference Call Microsoft Teams integration using the self-configured app, see [Integrating Notify connector self-configured app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-single-tenant.md).
 
 
-**Parent Topic:**[Security Incident Response conference call integration](../concept/sir-conf-call-capability.md)
+**Parent Topic:**[Security Incident Response conference call integration](sir-conf-call-capability.md)
 

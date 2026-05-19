@@ -42,5 +42,5 @@ Role required: web\_service\_admin
     ![Soap message demo 1](../image/SoapMessageDemoi1.png)
 
 
-**Parent Topic:**[SOAP message](../concept/c_SOAPMessage.md)
+**Parent Topic:**[SOAP message](c_SOAPMessage.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 From an existing remediation task in the Configuration Compliance application, identify a subset of test results that you want to move to a new Remediation Task.
 
-**Important:** As an admin and a remediation owner, you can split a remediation task from the [Vulnerability Manager Workspace](../../vulnerability-response/concept/vr-ws-exceptions-split-VMGR-ws.md) and [IT Remediation Workspace](../../vulnerability-response/task/vr-ws-split-task.md) respectively.
+**Important:** As an admin and a remediation owner, you can split a remediation task from the [Vulnerability Manager Workspace](../vulnerability-manager-workspace/vr-ws-exceptions-split-VMGR-ws.md) and [IT Remediation Workspace](../it-remediation-workspace/vr-ws-split-task.md) respectively.
 
 ## Before you begin
 

@@ -32,5 +32,5 @@ Service Builder is a feature of Service Portfolio Management. Its plugin \(sn\_s
 **Related topics**  
 
 
-[Installed with Service Portfolio Management](../../service-portfolio-management2/reference/r_InstalledWSPM2.md)
+[Installed with Service Portfolio Management](../service-portfolio-management/r_InstalledWSPM2.md)
 

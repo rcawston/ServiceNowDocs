@@ -1327,5 +1327,5 @@ For more information about these features, see the ECMAScript language specifica
 |-------|-----------------------------|------------------|
 |JSON|Supported|Supported|
 
-**Parent Topic:**[JavaScript engine on the platform](../concept/c_JS_engine_upgrade.md)
+**Parent Topic:**[JavaScript engine on the platform](c_JS_engine_upgrade.md)
 

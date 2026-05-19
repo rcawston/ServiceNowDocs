@@ -26,9 +26,9 @@ Use [CMDB Workspace](cmdb-workspace.md)or [Service Graph Workspace](sg-workspace
 
 Manage CMDB Data Manager policies in CMDB Workspaceor in Service Graph Workspace:
 
--   [Create a CMDB Data Manager policy](../task/data-manager-create-policy-wrkspc.md)
--   [Review CMDB Data Manager tasks](../task/data-manager-review-task-wrkspc.md)
--   [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](../task/review-data-manager-attes-task.md)
--   [Manage retirement definitions for CMDB Data Manager](../task/data-manager-manage-ret-def-wrkspc.md#)
--   [Manage exclusion lists for CMDB Data Manager](../task/data-mgr-manage-ci-exclusion-wrkspc.md)
+-   [Create a CMDB Data Manager policy](data-manager-create-policy-wrkspc.md)
+-   [Review CMDB Data Manager tasks](data-manager-review-task-wrkspc.md)
+-   [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](review-data-manager-attes-task.md)
+-   [Manage retirement definitions for CMDB Data Manager](data-manager-manage-ret-def-wrkspc.md#)
+-   [Manage exclusion lists for CMDB Data Manager](data-mgr-manage-ci-exclusion-wrkspc.md)
 

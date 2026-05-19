@@ -33,9 +33,9 @@ When sharing a page, you must specify all the linked pages associated with it. *
 
 **Note:** Shared pages can only be configured in the ServiceNow® platform currently. However, you can view these pages while in the Experience View of UI Builder.
 
--   **[Enable pages to be used across experiences](../task/enable-use-across-exp.md#)**  
+-   **[Enable pages to be used across experiences](enable-use-across-exp.md#)**  
 Select pages that you want to share across experiences in UI Builder.
--   **[Add shared pages to an experience](../task/add-shared-pages-to-an-experience.md)**  
+-   **[Add shared pages to an experience](add-shared-pages-to-an-experience.md)**  
 Add a page from another experience so that users can access shared content without duplicating pages.
 
 **Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)

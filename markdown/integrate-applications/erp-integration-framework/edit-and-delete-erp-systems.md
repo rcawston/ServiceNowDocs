@@ -30,7 +30,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 4.  Edit system information, such as name, description, connection, or ERP software.
 
-    For detailed information about the system record fields, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    For detailed information about the system record fields, see [Zero Copy Connector for ERP new system field descriptions](erp-canvas-create-new-system-descriptions.md).
 
 5.  On the status bar, confirm that the heartbeats are successful and the retrieval status is complete.
 
@@ -49,5 +49,5 @@ Role required: sn\_erp\_integration.erp\_admin
     5.  Select **Delete**.
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](erp-canvas-work-with-systems.md)
 

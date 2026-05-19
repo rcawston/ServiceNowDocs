@@ -19,9 +19,9 @@ The variable `g_list` is used to access a specified list object. The `g_list` va
 
 These methods are used in UI context menus and UI actions.
 
-Several of these methods are available in Next Experience UI Framework. For details, see [GlideList \(Next Experience UI Framework\)](../../GlideListClientNowEx/concept/GlideListClientAPINEx.md#).
+Several of these methods are available in Next Experience UI Framework. For details, see [GlideList \(Next Experience UI Framework\)](GlideListClientAPINEx.md#).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideList2 - addFilter\(String filter\)
 

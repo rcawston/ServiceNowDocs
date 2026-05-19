@@ -80,7 +80,7 @@ If the Palo Alto Networks firewall administrator is not using the ServiceNow AI 
 -   **[Activate an EDL for Palo Alto Networks Next-Generation Firewall with a change request](paloalto_sncr_edl.md)**  
 If configured, the ServiceNow change request form is used to activate the External Dynamic List \(EDL\). This option is recommended if your firewall administrator is also using the ServiceNow AI Platform for firewall policy or rule changes. The EDL is activated automatically and ready to receive EDL entries upon closure of the ServiceNow AI Platform change request.
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
 **Previous topic:**[Create an EDL for Palo Alto Networks Next-Generation Firewall](palo_alto_config_edl.md)
 

@@ -29,5 +29,5 @@ Uninstall the Agent Client Collector from a Linux machine by running an efficien
     **Note:** Uninstalling the Agent Client Collector removes the `acc.yml` file and its directory from your machine.
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 

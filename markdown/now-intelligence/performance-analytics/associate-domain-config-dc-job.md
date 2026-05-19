@@ -23,7 +23,7 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 ## About this task
 
-**Important:** Regardless of whether a domain configuration is used, the **Run as** user always determines the domain context of where the [data collection job](../concept/performance-analytics-glossary.md#) runs.
+**Important:** Regardless of whether a domain configuration is used, the **Run as** user always determines the domain context of where the [data collection job](performance-analytics-glossary.md#) runs.
 
 ## Procedure
 
@@ -46,5 +46,5 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
     **Tip:** When using multiple domain configurations with a single job, ensure each domain configuration specifies a unique set of domains.
 
 
-**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](../concept/pa-domain-separation-msp.md)
+**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](pa-domain-separation-msp.md)
 

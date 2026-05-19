@@ -40,7 +40,7 @@ You must integrate Coaching with third-party learning management systems. For in
     You can review and learn the external course.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 
 **Related topics**  
 

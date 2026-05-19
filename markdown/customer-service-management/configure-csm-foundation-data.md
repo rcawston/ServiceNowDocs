@@ -60,7 +60,7 @@ Import Accounts
 
 </td><td>
 
-In the business-to-business \(B2B\) model, an account is a supported external customer. Import and verify existing account data. For more information, see [Import accounts and contacts with guided setup](import-csm-accounts.md).**Note:** After importing customer account data, you must also [set the account code system property](../reference/set-csm-account-code-property.md).
+In the business-to-business \(B2B\) model, an account is a supported external customer. Import and verify existing account data. For more information, see [Import accounts and contacts with guided setup](import-csm-accounts.md).**Note:** After importing customer account data, you must also [set the account code system property](set-csm-account-code-property.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Create Customer Relationships
 
 </td><td>
 
-Create relationships between partners, contacts, and customers to make account and asset management easy and flexible. For more information, see [Create customer relationships](../concept/c_CustomerServiceRelationships.md).You can create the following types of relationships:
+Create relationships between partners, contacts, and customers to make account and asset management easy and flexible. For more information, see [Create customer relationships](c_CustomerServiceRelationships.md).You can create the following types of relationships:
 
 -   Bi-directional account relationships
 -   Account hierarchy
@@ -181,7 +181,7 @@ Create Asset Contact Relationships
 
 </td><td>
 
-Assign assets to the customer contacts who are responsible for managing those assets. If desired, enable a property that limits access to asset information to just the assigned contacts. For more information, see [Create asset contact relationships](../concept/c_AssetContactRelationships.md#).
+Assign assets to the customer contacts who are responsible for managing those assets. If desired, enable a property that limits access to asset information to just the assigned contacts. For more information, see [Create asset contact relationships](c_AssetContactRelationships.md#).
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Create Account Teams
 
 </td><td>
 
-Account teams are made up of employees who fulfill specific jobs or roles for a particular account. Create these roles, or responsibility definitions, and then assign them to employees and contacts. For more information, see [Creating an account team](../concept/configure-csm-account-teams.md).
+Account teams are made up of employees who fulfill specific jobs or roles for a particular account. Create these roles, or responsibility definitions, and then assign them to employees and contacts. For more information, see [Creating an account team](configure-csm-account-teams.md).
 
 </td></tr></tbody>
 </table>

@@ -47,7 +47,7 @@ The Block Request Category List includes two Hash Categories.
     2.  Select **Approvers for adding observable** from the search bar.
     3.  Select **Approvers for Removing Observable** from the search bar.
 
-        For a description of the field values, see [CrowdStrike Block Request Category List](../reference/block-req-category-list.md).
+        For a description of the field values, see [CrowdStrike Block Request Category List](block-req-category-list.md).
 
 5.  Select **Update**.
 

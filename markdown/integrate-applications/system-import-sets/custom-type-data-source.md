@@ -19,7 +19,7 @@ When you select a **Type** of **Custom \(Load by Script\)** for your data source
 
 The **Data Loader** script loads the data. You can also **Enable parallel loading** to use a script to partition the data into smaller sections, then load them in parallel. Parallel loading can enable your integrations to finish in less time and create less of an impact on other tasks. Parallel jobs are usually processed immediately. If you need to delay a job, you can configure a delay in the Data Loader script.
 
-**Note:** With parallel loading, you must be running a concurrent import and the **Partition Method** for the import must be set to **Custom size**. For more information see, [Schedule a data import](../task/t_ScheduleADataImport.md).
+**Note:** With parallel loading, you must be running a concurrent import and the **Partition Method** for the import must be set to **Custom size**. For more information see, [Schedule a data import](t_ScheduleADataImport.md).
 
 ## Data Loader script
 

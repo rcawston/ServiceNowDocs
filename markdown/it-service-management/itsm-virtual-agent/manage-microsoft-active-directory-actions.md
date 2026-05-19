@@ -59,5 +59,5 @@ This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
 
 ![Show my AD Group Membership topic.](../image/ShowADGroup2.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
 

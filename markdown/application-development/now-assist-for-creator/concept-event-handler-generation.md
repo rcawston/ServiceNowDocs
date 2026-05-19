@@ -86,7 +86,7 @@ When an event has no payload — such as the Button clicked event — parameters
 **Related topics**  
 
 
-[Configure an event handler with Now Assist](../task/configure-an-event-handler-with-now-assist.md)
+[Configure an event handler with Now Assist](configure-an-event-handler-with-now-assist.md)
 
 [Use case: Configure an event handler with Now Assist](use-case-event-handler-generation.md)
 

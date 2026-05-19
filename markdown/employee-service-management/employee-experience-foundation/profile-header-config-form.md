@@ -67,7 +67,7 @@ Format in which the primary user information is to be displayed. Available optio
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

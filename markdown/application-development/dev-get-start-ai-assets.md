@@ -13,7 +13,7 @@ breadcrumb: [Adding AI to your apps, Getting Started guide for developers, Build
 
 Learn about the AI assets that you can create on the ServiceNow AI Platform.
 
-There are three types of AI assets that you can create on the ServiceNow AI Platform: skills, AI agents, and agentic workflows. Each AI asset type serves a different purpose and suits different use cases. Learning about what each asset is can help you decide how to approach adding AI to your custom applications. For detailed guidance about choosing the right asset type for your use case, see [Choosing the right AI capability](../../now-assist-app-engine/concept/choosing-the-right-ai-capability.md).
+There are three types of AI assets that you can create on the ServiceNow AI Platform: skills, AI agents, and agentic workflows. Each AI asset type serves a different purpose and suits different use cases. Learning about what each asset is can help you decide how to approach adding AI to your custom applications. For detailed guidance about choosing the right asset type for your use case, see [Choosing the right AI capability](now-assist-for-app-engine/choosing-the-right-ai-capability.md).
 
 -   **Skills**
 
@@ -28,7 +28,7 @@ There are three types of AI assets that you can create on the ServiceNow AI Plat
     An agentic workflow combines one or more AI agents to accomplish a broader objective. An AI Agent Orchestrator coordinates the work between agents, directing each one to perform its part of the overall task. Agentic workflows are appropriate when the outcome requires multiple agents working in sequence or in parallel. For example, classifying a request, retrieving relevant records, and generating a recommended response in a single end-to-end workflow.
 
 
-For each asset type, you can use preconfigured Now Assist Platform assets as a starting point and modify their underlying structure to fit your app's use case. Or you can build custom AI assets tailored to your app from scratch. Preconfigured assets are designed for existing platform use cases and typically require significant reconfiguration to work within custom applications. Custom AI assets can be designed for your specific tables, fields, and workflows from the beginning. For more information, see [AI capabilities for enhancing custom applications](../../now-assist-app-engine/concept/ai-capabilities-with-now-assist-for-app-engine.md).
+For each asset type, you can use preconfigured Now Assist Platform assets as a starting point and modify their underlying structure to fit your app's use case. Or you can build custom AI assets tailored to your app from scratch. Preconfigured assets are designed for existing platform use cases and typically require significant reconfiguration to work within custom applications. Custom AI assets can be designed for your specific tables, fields, and workflows from the beginning. For more information, see [AI capabilities for enhancing custom applications](now-assist-for-app-engine/ai-capabilities-with-now-assist-for-app-engine.md).
 
 **Parent Topic:**[Adding AI to your apps](dev-get-start-adding-ai-to-your-apps.md)
 

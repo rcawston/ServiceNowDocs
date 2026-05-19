@@ -33,7 +33,7 @@ When enabled, the fields, **Impact on parent goal** and**Impact on goal** appear
 
  The progress value of a parent goal is calculated based on the progress value and the value defined in the **Impact on parent goal** and**Impact on goal** fields for sub-goals and targets respectively.
 
- For more information on how the progress value is calculated, see [progress value calculation](../concept/progress-value-calculation.md).
+ For more information on how the progress value is calculated, see [progress value calculation](progress-value-calculation.md).
 
 </td></tr><tr><td>
 

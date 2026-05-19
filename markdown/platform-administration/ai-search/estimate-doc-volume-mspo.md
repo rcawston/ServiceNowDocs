@@ -78,5 +78,5 @@ If your Microsoft SharePoint Online source system's total available document cou
 
 For details on configuring the Microsoft SharePoint Online connector's crawl settings, see [Configure crawl settings for a Microsoft SharePoint Online external content connector](configure-crawl-settings-spo-ext-cont-connector.md).
 
-**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+**Parent Topic:**[Microsoft SharePoint Online external content connector](microsoft-sharepoint-online-external-content-connector.md)
 

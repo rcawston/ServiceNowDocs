@@ -158,5 +158,5 @@ The Microsoft SCCM integration reconciles the software package count in the reco
 
 **Note:** The table data imported from SCCM must contain complete data for the CI. The instance assumes that the import represents all relationships that exist and adjusts the CMDB accordingly. Partial data received from SCCM tables can cause the deletion of active relationships.
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](c_MicrosoftSCCMIntegration.md)
 

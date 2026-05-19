@@ -40,7 +40,7 @@ To retain item-specific settings, clear the **Use cart layout** check box in the
 
 **Note:** You can configure the form to display the **Use cart layout** check box.
 
--   **[Migrate customizations and enable cart layouts](../task/t_MoveCustomizationsToCartLayouts.md)**  
+-   **[Migrate customizations and enable cart layouts](t_MoveCustomizationsToCartLayouts.md)**  
 Move customization to cart layout widgets, and then enable cart layouts.
 
 **Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)

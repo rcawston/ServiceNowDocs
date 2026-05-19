@@ -64,23 +64,23 @@ Survey wizards are not impacted and cannot be migrated.
 |Public survey: Allow persons to take a survey without logging in.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
 |Use update sets to track changes.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
 
--   **[Using surveys](../concept/using-surveys.md)**  
+-   **[Using surveys](using-surveys.md)**  
 Survey administrators—users with the survey\_admin role—create and maintain surveys and configure how they are distributed and published. Surveys on Service Portal are also supported.
 -   **[Surveys reference](survey-reference.md)**  
 Reference topics provide additional information about the forms, fields, and properties you use while working with surveys.
 
-**Parent Topic:**[Assessments and Surveys](../../assessments/concept/assessments-surveys-landing-page.md)
+**Parent Topic:**[Assessments and Surveys](assessments-surveys-landing-page.md)
 
 **Related topics**  
 
 
-[Legacy survey migration](../concept/c_MigrateSurveys.md)
+[Legacy survey migration](c_MigrateSurveys.md)
 
-[Survey designer](../concept/c_SurveyDesigner.md)
+[Survey designer](c_SurveyDesigner.md)
 
 [Survey roles](r_SurveyManagementRoles.md#)
 
-[Surveys in Service Portal and the Now Mobile app](../concept/c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
 
 [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 

@@ -106,7 +106,7 @@ Document template to generate standard letters or documents associated with the 
 
  **Note:** You can associate only one active policy with a document template.
 
- For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](../concept/hcls-config-doc-templates.md).
+ For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](hcls-config-doc-templates.md).
 
 </td></tr><tr><td>
 

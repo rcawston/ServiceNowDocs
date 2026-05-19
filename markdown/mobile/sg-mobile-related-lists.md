@@ -19,15 +19,15 @@ A related list appears in a tab on your mobile form, and displays a list of reco
 
 Creating a related list involves three tasks:
 
--   **1. [Create a parametrized data item for your related list](../task/sg-create-related-list.md)**
+-   **1. [Create a parametrized data item for your related list](sg-create-related-list.md)**
 
     Create a parametrized data item to contain the records that display in your related list.
 
--   **2. [Create a list screen to use as a related list](../task/sg-create-related-list-2.md)**
+-   **2. [Create a list screen to use as a related list](sg-create-related-list-2.md)**
 
     Create a related list using your parametrized data item. This list appears for your users when they select the related list tab on their form screen.
 
--   **3. [Update your record screen to display a related list](../task/sg-create-related-list-3.md)**
+-   **3. [Update your record screen to display a related list](sg-create-related-list-3.md)**
 
     Update your record screen to display a list of related records, and define the relationship between your record screen and the related list.
 

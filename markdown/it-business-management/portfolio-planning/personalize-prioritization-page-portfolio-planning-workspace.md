@@ -42,7 +42,7 @@ Personalization preferences are saved as the portfolio plan's settings in Portfo
 
         You can reorder the columns here to change their display order on the backlog.
 
-        If you want additional columns to be available in this page, your admin can configure them. See [Configuring additional columns for Prioritization page in Portfolio Planning](../concept/customizing-the-columns-for-prioritization-page-in-portfolio-planning.md).
+        If you want additional columns to be available in this page, your admin can configure them. See [Configuring additional columns for Prioritization page in Portfolio Planning](customizing-the-columns-for-prioritization-page-in-portfolio-planning.md).
 
     3.  From the Rows section, choose how the rows are displayed, using the **Shade alternate rows** toggle.
 

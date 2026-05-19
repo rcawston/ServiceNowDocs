@@ -26,7 +26,7 @@ You can do the following:
 
 -   You can also click on the pop out icon to view the graph in a much larger window.
 
--   **[Link node actions in Relationship Graph](../task/tisc-link-nodes.md)**  
+-   **[Link node actions in Relationship Graph](tisc-link-nodes.md)**  
 Add new related records to link the nodes.
 
 **Parent Topic:**[Observables](observables.md)

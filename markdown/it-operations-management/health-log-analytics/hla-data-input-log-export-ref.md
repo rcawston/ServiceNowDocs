@@ -46,7 +46,7 @@ Certificate password alias
 
 </td><td>
 
-The credential alias you created in **Basic Auth Credentials**. This field is required.For more information, see the Before you begin section in [Configure a ServiceNow Log Export data input in Health Log Analytics manually](../task/hla-data-input-log-export.md).
+The credential alias you created in **Basic Auth Credentials**. This field is required.For more information, see the Before you begin section in [Configure a ServiceNow Log Export data input in Health Log Analytics manually](hla-data-input-log-export.md).
 
 </td></tr><tr><td>
 
@@ -85,5 +85,5 @@ Disabled since
 The time when the data input stopped or failed. This field is read-only.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

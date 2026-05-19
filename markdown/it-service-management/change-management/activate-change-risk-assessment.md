@@ -75,7 +75,7 @@ Provides an interface to create and edit the Change Risk Assessment form that is
 
 You can [define risk assessment](t_DefineARiskAssessment.md) conditions for change requests.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 
@@ -122,9 +122,9 @@ You can [define risk assessment](t_DefineARiskAssessment.md) conditions for chan
 
 [Activate Change Management - Data Archiving](activate-data-retention-archive-rule.md)
 
-[Risk conditions and calculation](../concept/change-risk-assess-detect-conflict.md)
+[Risk conditions and calculation](change-risk-assess-detect-conflict.md)
 
-[Change Management properties](../reference/r_ChangeManagementProperties.md)
+[Change Management properties](r_ChangeManagementProperties.md)
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

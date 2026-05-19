@@ -56,5 +56,5 @@ The ad-hoc approver can approve or reject the approval request in one of the fol
 -   In the approval step card in the General chain, by selecting the **More options** ![](../image/icon-three-dots.png) menu and choosing the **Approve** or **Reject** option.
 -   In the My approvals feature in the ServiceNow AI Platform.
 
-**Parent Topic:**[Using Advanced Approval Management](../concept/using-advanced-approval-management.md)
+**Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)
 

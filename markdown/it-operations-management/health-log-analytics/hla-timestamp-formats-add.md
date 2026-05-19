@@ -88,5 +88,5 @@ Description of the timestamp format.
 
 The system validates the timestamp format and adds it to the list of available timestamps.
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)
 

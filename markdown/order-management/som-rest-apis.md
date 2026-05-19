@@ -22,7 +22,7 @@ Sales Customer Relationship Management \(Sales CRM\) APIs provide endpoints to c
 |[Sales Agreement API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/sales_agreement-api.md)|The Sales Agreement API provides methods for creating a new sales agreement and retrieving an existing sales agreement of a given sys\_id.|
 |[Work Order Management API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/work-order-mgmt-api.md)|The Work Order Management API provides endpoints to create, update, and retrieve work orders.|
 
-**Parent Topic:**[Sales Customer Relationship Management reference](../concept/som-reference.md)
+**Parent Topic:**[Sales Customer Relationship Management reference](som-reference.md)
 
 **Related topics**  
 

@@ -37,7 +37,7 @@ Application team
 
 AI Service**Important:** This tag category is available with the Cloud Cost Management 8.0.0 version or later.
 
-**Note:** If you want to associate a tag name with its corresponding tag value whenever a new AI service or a category within an existing AI service is introduced for Amazon Web Services \(AWS\), Microsoft Azure, or Google Cloud Platform \(GCP\), see [Add or update a tag value for an AI Service tag category](../task/create-tag-value-ai.md).
+**Note:** If you want to associate a tag name with its corresponding tag value whenever a new AI service or a category within an existing AI service is introduced for Amazon Web Services \(AWS\), Microsoft Azure, or Google Cloud Platform \(GCP\), see [Add or update a tag value for an AI Service tag category](create-tag-value-ai.md).
 
 </td></tr><tr><td>
 
@@ -72,12 +72,12 @@ Environment
 Kubernetes cluster name
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](reference-cloudinsights.md)
 
 **Related topics**  
 
 
 [Tags and tag categories](tags-overview.md)
 
-[Create and update a tag category](../task/tag-category-crud-cloudin.md)
+[Create and update a tag category](tag-category-crud-cloudin.md)
 

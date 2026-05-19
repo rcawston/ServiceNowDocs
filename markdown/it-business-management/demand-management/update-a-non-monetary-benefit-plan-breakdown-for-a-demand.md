@@ -35,7 +35,7 @@ Role required: it\_demand\_manager
 
 7.  On the Non-monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
-    For a detailed description of the field names, see [Non-monetary Benefit Plan Breakdown form](../reference/non-monetary-benefit-plan-breakdown-form.md).
+    For a detailed description of the field names, see [Non-monetary Benefit Plan Breakdown form](non-monetary-benefit-plan-breakdown-form.md).
 
 8.  Select **Update**.
 

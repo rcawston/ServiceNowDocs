@@ -31,5 +31,5 @@ The Similar Knowledge Articles for HR Case solution definition is configured and
 
 You can also [manually train the predictive model](hr-predictive-intelligence-train.md) if it is not auto trained by default.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](../employee-service-management/predictive-intelligence-for-hr-service-delivery-1.md)
 

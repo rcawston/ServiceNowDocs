@@ -116,7 +116,7 @@ When you enable this property, Cloud Configuration Governance writes the logs to
  Ensure that the application scope is **Global**, when you set or clear this property.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Configuration Governance reference](../reference/ccg-reference.md)
+</table>**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)
 
 **Related topics**  
 

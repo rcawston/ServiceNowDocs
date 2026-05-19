@@ -190,14 +190,14 @@ Stores the permalink and expiration date for the document.
 </td></tr></tbody>
 </table>**Note:** The Documents \[ds\_document\] and Versions \[ds\_document\_version\] tables can be extended.
 
-**Parent Topic:**[References](../concept/reference-document-management.md)
+**Parent Topic:**[References](reference-document-management.md)
 
 **Related topics**  
 
 
 [Document Management roles](document-management-roles.md#)
 
-[Domain separation and Document Management](../concept/domain-separation-document-services.md)
+[Domain separation and Document Management](domain-separation-document-services.md)
 
 [Granular admin roles in Document Management](granular-admin-roles-dms.md)
 

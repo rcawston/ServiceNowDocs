@@ -137,5 +137,5 @@ Your connector admin needs these settings to configure a Zendesk Guide external 
 
 For details on creating and configuring a Zendesk Guide external content connector, see [Create a Zendesk Guide external content connector](create-ext-cont-connector-zendesk-guide.md).
 
-**Parent Topic:**[Zendesk Guide external content connector](../concept/zendesk-guide-external-content-connector.md)
+**Parent Topic:**[Zendesk Guide external content connector](zendesk-guide-external-content-connector.md)
 

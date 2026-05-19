@@ -64,12 +64,12 @@ Action
 </td></tr></tbody>
 </table>5.  On the Create demand form, fill in the fields.
 
-    For a description of the field values, see [Create demand form](../../reference/eaw-reference/eaw-demand-form.md).
+    For a description of the field values, see [Create demand form](eaw-demand-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
 **Related topics**  
 

@@ -44,11 +44,11 @@ The following examples illustrate business validation rules and system currency 
 
 ## Related documentation
 
-For information on creating a Microsoft Excel download and upload request and generating the reports, see [Create Microsoft Excel download and upload request](../task/create-excel-upload-download-request.md).
+For information on creating a Microsoft Excel download and upload request and generating the reports, see [Create Microsoft Excel download and upload request](create-excel-upload-download-request.md).
 
-For steps on converting and aggregating contractual expenses to regulator-required currencies, see [Convert and aggregate contractual expenses to regulator-required currencies](../task/create-excel-report-aggregate-expenses.md).
+For steps on converting and aggregating contractual expenses to regulator-required currencies, see [Convert and aggregate contractual expenses to regulator-required currencies](create-excel-report-aggregate-expenses.md).
 
--   **[Convert and aggregate contractual expenses to regulator-required currencies](../task/create-excel-report-aggregate-expenses.md)**  
+-   **[Convert and aggregate contractual expenses to regulator-required currencies](create-excel-report-aggregate-expenses.md)**  
 Convert and aggregate contractual expenses to regulator-required currencies and generate consolidated reports for reporting submissions. Beginning with Digital Operational Resilience Management \(sn\_dora\_accel\), version 22.x.x, these currency conversion and third-party aggregation capabilities are supported for DORA reporting.
 
 **Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)

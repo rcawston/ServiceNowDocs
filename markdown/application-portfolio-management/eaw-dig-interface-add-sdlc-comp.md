@@ -39,12 +39,12 @@ Role required: sn\_apm.apm\_analyst
 
 8.  On the Digital Interface SDLC Component form, fill in the fields.
 
-    For field descriptions, see [Digital interface SDLC component form](../../reference/eaw-reference/eaw-dig-interface-sdlc-comp-form.md).
+    For field descriptions, see [Digital interface SDLC component form](eaw-dig-interface-sdlc-comp-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

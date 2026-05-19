@@ -183,7 +183,7 @@ By default, the job deletes all import sets that are older than 7 days, as well 
 
 ![Import Set Deleter.](../image/import-set-scheduled-cleanup.png "Scheduled Script Execution")
 
-For procedures, see [Delete import sets](../task/delete-import-sets.md).
+For procedures, see [Delete import sets](delete-import-sets.md).
 
 ## Import set table deleter
 
@@ -198,7 +198,7 @@ You can also delete the related transform maps, or you can delete data only and 
 
 ![Import set table deleter.](../image/cleanup-import-set-tables.png "Tables available for deletion")
 
-For procedures, see [Delete import set tables](../task/delete-import-set-tables.md).
+For procedures, see [Delete import set tables](delete-import-set-tables.md).
 
-**Parent Topic:**[Import sets](../reference/import-sets-landing-page.md)
+**Parent Topic:**[Import sets](import-sets-landing-page.md)
 

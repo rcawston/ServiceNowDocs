@@ -33,7 +33,7 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing scoring profile, select the scoring profile.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new scoring profile form](../../reference/eaw-reference/create-new-scoring-profile-form.md).
+    For field information, see [Create new scoring profile form](create-new-scoring-profile-form.md).
 
 7.  Select **Save**.
 
@@ -41,7 +41,7 @@ Role required: sn\_apm.apm\_admin
 -   **[Attach a profile indicator with an application scoring profile](eaw-attach-profile-indicators-with-application-scoring-profiles.md)**  
 You must associate scoring profiles with profile indicators.
 
-**Parent Topic:**[Configure scoring profiles](../../concept/eaw-concept/eaw-setup-scroring-prof.md)
+**Parent Topic:**[Configure scoring profiles](eaw-setup-scroring-prof.md)
 
 **Related topics**  
 

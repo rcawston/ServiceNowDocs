@@ -150,14 +150,14 @@ Widget
 Displays the number of all exception tasks that are assigned to you. Select the exception tasks count link to view the list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+</table>**Parent Topic:**[Source-to-Pay Workspace landing page](source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SPO landing page](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[SPO landing page](procurement-workspace-landing-page.md)
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](supp-manager-ws-home.md)
 
-[APO landing page](../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
+[APO landing page](acc-pay-workspace-landing-page.md)
 

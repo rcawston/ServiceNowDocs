@@ -42,5 +42,5 @@ Role required: sn\_esg.admin
 
 Define data range configurations. See [Map data range configurations](map-data-range-configurations.md).
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](configure-sustainable-it.md)
 

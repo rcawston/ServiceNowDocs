@@ -48,5 +48,5 @@ sn\_releaseops.release\_notes\_user
 Grants access to generate and view release notes within ReleaseOps.**Note:** The releaseops\_admin role also includes the release\_notes\_user role. Assigning the releaseops\_admin role is sufficient for using the release lifecycle documentation AI agent, if the user already needs full ReleaseOps admin access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure release lifecycle documentation AI agent](../concept/configure-release-lifecycle-documentation-ai-agent.md)
+</table>**Parent Topic:**[Configure release lifecycle documentation AI agent](configure-release-lifecycle-documentation-ai-agent.md)
 

@@ -117,9 +117,9 @@ These usage instructions are for a free-text Approximate Location field with hie
     -   User: "Show me things in North Carolina" → Query: location CONTAINS "North Carolina" OR location CONTAINS "NC"
     -   User: "Show me everything in Europe" → Decomposition: Europe &gt; \[UK, Spain, France, Germany...\] → Query: location CONTAINS "UK" OR location CONTAINS "United Kingdom" OR location CONTAINS "Spain" OR location CONTAINS "France"...
 
--   **[Customize entity descriptions for the semantic layer](../task/customize-entity-descriptions.md)**  
+-   **[Customize entity descriptions for the semantic layer](customize-entity-descriptions.md)**  
 Create custom entity descriptions in the Semantic Table Configuration table so that customizations can be transferred between instances via update sets.
--   **[Customize column descriptions and usage instructions](../task/customize-column-descriptions.md)**  
+-   **[Customize column descriptions and usage instructions](customize-column-descriptions.md)**  
 Create custom column descriptions and usage instructions in the Semantic Column Configuration table so that customizations can be transferred between instances via update sets.
 
 **Parent Topic:**[Tuning the semantic layer](semantic-layer-tuning-overview.md)
@@ -127,5 +127,5 @@ Create custom column descriptions and usage instructions in the Semantic Column 
 **Related topics**  
 
 
-[Roles, tables, and scheduled jobs included with Query Generation](../../par-for-workspace/concept/tables-sched-jobs-query-gen.md)
+[Roles, tables, and scheduled jobs included with Query Generation](tables-sched-jobs-query-gen.md)
 

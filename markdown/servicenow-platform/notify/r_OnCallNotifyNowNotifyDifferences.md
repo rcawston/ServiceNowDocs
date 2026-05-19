@@ -19,14 +19,14 @@ There are key differences between on-call scheduling with NotifyNow and on-call 
 
 The On call:Assign by Acknowledgement workflow no longer uses the Notify Question tables to track assignment responses. When you install On-Call Scheduling with Notify, the message\_number column is added to the Notify Messages \[notify\_messages\] table to track responses to on-call assignment requests. This column indicates if the contacted user accepted or rejected the assignment.
 
-**Parent Topic:**[Using Notify with On-Call Scheduling](../concept/c_NotifyWithOnCall.md)
+**Parent Topic:**[Using Notify with On-Call Scheduling](c_NotifyWithOnCall.md)
 
 **Related topics**  
 
 
-[Set up Notify with On-Call Scheduling](../task/t_SetUpNotifyWithOnCall.md)
+[Set up Notify with On-Call Scheduling](t_SetUpNotifyWithOnCall.md)
 
-[Controlling the on-call communication channel with Notify](../concept/c_OnCallNotifyForceCommChannel.md)
+[Controlling the on-call communication channel with Notify](c_OnCallNotifyForceCommChannel.md)
 
-[Call a user from the WebRTC UI](../task/t_CallfromWEBRTCUI.md)
+[Call a user from the WebRTC UI](t_CallfromWEBRTCUI.md)
 

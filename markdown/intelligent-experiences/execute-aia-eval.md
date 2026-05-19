@@ -21,7 +21,7 @@ Evaluation runs require execution log data of the agentic AI asset you want to e
 
 For more information about testing agentic workflows, see [Manually test the execution of an agentic workflow](test-aia-use-case.md).
 
-For more information about getting started with agentic evaluations, see [General guidelines for agentic evaluation runs](../concept/gg-aia-eval.md).
+For more information about getting started with agentic evaluations, see [General guidelines for agentic evaluation runs](gg-aia-eval.md).
 
 Role required: sn\_aia.admin
 
@@ -142,7 +142,7 @@ Description
 Description of the records contained within the dataset. This can be useful if you plan on using the same dataset again.
 
 </td></tr></tbody>
-</table>        **Note:** If you're creating new execution logs, the user submitting the evaluation must pass the ACLs of the agentic AI asset and its components. Without correct role requirements, execution logs report access denial and the evaluation fails. See [Security for agentic AI](../concept/aia-security-implementation.md) for more information.
+</table>        **Note:** If you're creating new execution logs, the user submitting the evaluation must pass the ACLs of the agentic AI asset and its components. Without correct role requirements, execution logs report access denial and the evaluation fails. See [Security for agentic AI](aia-security-implementation.md) for more information.
 
         ![Generate new execution logs selected. Sample records have a state and priority filter applied](../image/aia-eval-data-new-logs-1.png)
 
@@ -194,5 +194,5 @@ The maximum number of records within the dataset for evaluation. If the dataset 
 
 Your evaluation run executes. Completion time varies, but after completion you can select the evaluation from the Agentic Evaluations page to view results.
 
-For more information on the metrics on the results page, see [Agentic evaluation run results](../concept/aia-eval-metrics.md).
+For more information on the metrics on the results page, see [Agentic evaluation run results](aia-eval-metrics.md).
 

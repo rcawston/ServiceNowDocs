@@ -25,11 +25,11 @@ Access Employee Center capabilities beyond the portal to further enhance the emp
 
 </td></tr><tr><td>
 
-[Employee Center for Microsoft Viva![](../../../reuse/icons/brand-icons/bus-chat.svg)Deliver the ServiceNow employee experience into the Microsoft Viva Connections dashboard.](../../sn-ms-viva-integrations/concept/sn-ms-viva-integrations.md)
+[Employee Center for Microsoft Viva![](../../../reuse/icons/brand-icons/bus-chat.svg)Deliver the ServiceNow employee experience into the Microsoft Viva Connections dashboard.](sn-ms-viva-integrations.md)
 
 </td><td>
 
-[Employee Center for Zoom![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Enable employees to access Employee Center capabilities from the Zoom client app.](../task/zoom-ec-create-app.md)
+[Employee Center for Zoom![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Enable employees to access Employee Center capabilities from the Zoom client app.](zoom-ec-create-app.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Access Employee Center capabilities beyond the portal to further enhance the emp
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

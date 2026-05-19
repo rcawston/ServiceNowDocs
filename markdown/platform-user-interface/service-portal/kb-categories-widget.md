@@ -23,7 +23,7 @@ Categories are determined by the list of Knowledge Categories provided for the K
 
 The knowledge base that a portal uses is determined in the portal form. If your portal uses multiple knowledge bases, you can use the [KB Knowledge Bases widget](knowledge-bases-widget.md) to filter the content of the KB Categories widget.
 
-For more information on associating your portal with a knowledge base, see [Associate a portal with a knowledge base](../task/associate-portal-knowledge.md).
+For more information on associating your portal with a knowledge base, see [Associate a portal with a knowledge base](associate-portal-knowledge.md).
 
 **Note:** In the widget Instance Options, if the **Max number of articles evaluated per category to determine visibility** value is set to 1 or higher the user must have access to at least one article in the category for the category to be displayed.
 
@@ -36,9 +36,9 @@ The KB categories widget does not include instance options.
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

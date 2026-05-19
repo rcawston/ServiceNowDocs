@@ -142,11 +142,11 @@ All instances use identifiers from the CMDB Identification and Reconciliation fr
 
 -   **[How Discovery identifiers work](c_HowDiscoveryIdentifiersWork.md)**  
 When Discovery has determined the device's class, it launches an identity probe that is configured to run one or more commands with a single authentication.
--   **[Configure Discovery identity probes](../task/t_ConfigureDiscoveryIdentityProbes.md)**  
+-   **[Configure Discovery identity probes](t_ConfigureDiscoveryIdentityProbes.md)**  
 Identity probes are multi-probes, which contain one or more simple probes configured to extract specific information from manageable devices. You can create your own identity multi-probe to identify CIs that Discovery does not already identify.
--   **[Configure Discovery identity sensors](../task/t_ConfigDiscoIdentSens.md)**  
+-   **[Configure Discovery identity sensors](t_ConfigDiscoIdentSens.md)**  
 If you customize an identify multi-probe, you can also configure a multi-sensor for it.
--   **[Serial number types for identification](../reference/r_SerialNumberTypes.md)**  
+-   **[Serial number types for identification](r_SerialNumberTypes.md)**  
 As Discovery finds CIs, their serial numbers are listed in the Serial Number \[cmdb\_serial\_number\] table so they are easy to identify. Serial number types vary depending on the CI, as described in the following examples.
 
 **Parent Topic:**[Configuring Discovery](c_DiscoveryConfiguration.md)

@@ -24,7 +24,7 @@ This script include provides methods that enable the following:
 -   Gets response from Now Assist as per provided directions
 -   Does not require ServiceNow AI Lens desktop app
 
-**Parent Topic:**[ServiceNow AI Lens reference](../reference/servicenow-lens-reference.md)
+**Parent Topic:**[ServiceNow AI Lens reference](servicenow-lens-reference.md)
 
 ## AILensActionService - AILensActionService\(\)
 

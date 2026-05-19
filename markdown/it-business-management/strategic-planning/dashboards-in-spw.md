@@ -25,7 +25,7 @@ Dashboards in Strategic Planning Workspace help product and portfolio managers m
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Add existing Platform Analytics dashboards to Strategic Planning Workspace](../Task/add-platform-dashboard-to-spw.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Add existing Platform Analytics dashboards to Strategic Planning Workspace](add-platform-dashboard-to-spw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

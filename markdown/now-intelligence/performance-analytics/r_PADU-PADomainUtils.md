@@ -26,5 +26,5 @@ Use the PADomainUtils\(String domainFrom\) constructor instead when moving or co
 var globalUtils = new SNC.PADomainUtils();
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](c_PADomainUtils.md)
 

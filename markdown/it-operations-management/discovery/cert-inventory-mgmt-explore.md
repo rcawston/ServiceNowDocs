@@ -61,7 +61,7 @@ Automated features to streamline tracking, preventing manual oversight of a larg
 
 </td><td>
 
-[Exploring ACME](../../it-operations-management/concept/exploring-acme.md)
+[Exploring ACME](exploring-acme.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ A secure and compliant certificate environment is maintained by overseeing, appr
 
 </td><td>
 
-[Approve certificate tasks](../task/approve-cert-task.md)
+[Approve certificate tasks](approve-cert-task.md)
 
 </td><td>
 

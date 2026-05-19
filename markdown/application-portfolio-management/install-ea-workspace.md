@@ -48,14 +48,14 @@ Role required: admin
 6.  Select **Install**.
 
 
--   **[Enterprise Architecture Workspace access roles](../reference/eaw-reference/eaw-access-roles.md)**  
+-   **[Enterprise Architecture Workspace access roles](eaw-access-roles.md)**  
 The following roles help you to configure and use the Enterprise Architecture Workspace application. After access has been granted to a role, all the groups or users assigned to the role are granted access. Roles can contain other roles, and any access granted to a role is granted to any other role that includes it.
--   **[Tables installed with Enterprise Architecture Workspace](../reference/eaw-reference/eaw-installed-tables.md)**  
+-   **[Tables installed with Enterprise Architecture Workspace](eaw-installed-tables.md)**  
 The following tables are added with activation of Enterprise Architecture Workspace.
--   **[Granular admin role changes in Enterprise Architecture](../reference/eaw-reference/eaw-gran-admin-role-changes.md)**  
+-   **[Granular admin role changes in Enterprise Architecture](eaw-gran-admin-role-changes.md)**  
 Understand the transition from global admin usage to feature‑specific granular admin roles, outlining the intent, architectural principles, and governance expectations defined by the Granular Admin Directive.
--   **[Application plugin installation sequence for Enterprise Architecture Workspace](../reference/eaw-reference/eaw-plugin-activation-sequence.md)**  
+-   **[Application plugin installation sequence for Enterprise Architecture Workspace](eaw-plugin-activation-sequence.md)**  
 The following table provides the list of plugins for Enterprise Architecture Workspace, a high-level description of each plugin, and the dependencies that are required before installing each plugin.
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](configure-eaw.md)
 

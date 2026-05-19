@@ -56,5 +56,5 @@ Role required: sn\_icw\_igt.standard author
 
 The template is now available when creating standards in the Standards hub.
 
-**Parent Topic:**[Using templates to create standards](../concept/creating-standards-from-templates.md)
+**Parent Topic:**[Using templates to create standards](creating-standards-from-templates.md)
 

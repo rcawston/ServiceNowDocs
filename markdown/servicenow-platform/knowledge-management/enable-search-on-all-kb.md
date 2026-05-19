@@ -32,7 +32,7 @@ Role required: admin
 5.  Click **Save**.
 
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 

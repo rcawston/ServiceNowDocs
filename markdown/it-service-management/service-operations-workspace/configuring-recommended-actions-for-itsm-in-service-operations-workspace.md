@@ -30,7 +30,7 @@ The ITSM base system ships the following contexts:
 -   Interaction
 -   Request
 
-For more information about the field description of this context, see [Contexts in Recommended Actions for ITSM](../reference/contexts-in-recommended-actions-for-itsm.md).
+For more information about the field description of this context, see [Contexts in Recommended Actions for ITSM](contexts-in-recommended-actions-for-itsm.md).
 
 **Note:** Recommended Actions have now introduced a context for the Interaction table.
 
@@ -51,7 +51,7 @@ The ITSM base system includes the following rules:
 
 **Note:** These rules are available only for the Incident context.
 
-For more information about the field descriptions of these rules, see [Rules in Recommended Actions for ITSM](../reference/rules-in-recommended-actions-for-itsm.md).
+For more information about the field descriptions of these rules, see [Rules in Recommended Actions for ITSM](rules-in-recommended-actions-for-itsm.md).
 
 **Note:** To create a rule, see [Create a rule in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md).
 
@@ -82,7 +82,7 @@ The ITSM base system includes these guidance-based recommendations:
 -   Similar resolved incidents \(CI &amp; Service\)
 -   Similar resolved incidents \(Similarity\)
 
-For more information about the field descriptions of the guidance-based recommendations, see [Guidance based recommendations in Recommended Actions for ITSM](../reference/guidance-based-recommendations-in-recommended-actions-for-itsm.md).
+For more information about the field descriptions of the guidance-based recommendations, see [Guidance based recommendations in Recommended Actions for ITSM](guidance-based-recommendations-in-recommended-actions-for-itsm.md).
 
 ## Field-level recommendations
 
@@ -97,7 +97,7 @@ The ITSM base system includes the following field-level recommendations:
     **Note:** All Predictive Intelligence -based recommendations included in the ITSM base system are inactive by default. To activate them, navigate to the Recommendations screen, edit the corresponding Active column to the required recommendation of **true**, and select **Update**.
 
 
-For more information about the field-level recommendations field descriptions, see [Field level recommendations in Recommended Actions for ITSM](../reference/field-level-recommendations-in-recommended-actions-for-itsm.md).
+For more information about the field-level recommendations field descriptions, see [Field level recommendations in Recommended Actions for ITSM](field-level-recommendations-in-recommended-actions-for-itsm.md).
 
 **Note:** To create a guidance and field recommendations, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
@@ -122,7 +122,7 @@ The ITSM base system includes the following resource generators:
 -   Resolved Incidents with same CI &amp; Service
 -   Similar resolved incidents using similarity.
 
-For more information about the field descriptions of resource generators, see [Resource generators in Recommended Actions for ITSM](../reference/resource-generators-in-recommended-actions-for-itsm.md).
+For more information about the field descriptions of resource generators, see [Resource generators in Recommended Actions for ITSM](resource-generators-in-recommended-actions-for-itsm.md).
 
 For more information about the types of resource generator, see [Resource generators in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators.md).
 
@@ -153,7 +153,7 @@ The ITSM base system includes the following guidance:
 -   \[Task\] Link problem
 -   \[Task\] Order item
 
-For more information about the field descriptions of the guidance, see [Guidances in Recommended Actions for ITSM](../reference/guidances-in-recommended-actions-for-itsm.md).
+For more information about the field descriptions of the guidance, see [Guidances in Recommended Actions for ITSM](guidances-in-recommended-actions-for-itsm.md).
 
 **Note:** To create guidance, see [Create a guidance in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-create.md).
 
@@ -191,7 +191,7 @@ With Advanced Recommended actions for ITSM, your agents can use recommendations 
 -   Similar major incidents
 -   Propose major incident
 
-For more information, see [Task Intelligence for ITSM](../../task-intelligence-for-itsm/concept/c-itsm-task-intelligence.md).
+For more information, see [Task Intelligence for ITSM](../task-intelligence-for-itsm/c-itsm-task-intelligence.md).
 
 **Note:** The Advanced Recommended actions for ITSM \(sn\_sow\_itsm\_ra\_adv\) and Task Intelligence Admin Console \(com.sn\_ti\_admin\) plugins are installed as dependencies of the ITSM Pro package subscription.
 
@@ -199,13 +199,13 @@ For more information, see [Task Intelligence for ITSM](../../task-intelligence-f
 
 To use recommendations powered by Predictive Intelligence, install the following plugins:
 
--   Install the Predictive Intelligence for Incident \(com.snc.incident.ml\) plugin to install the Relevant problems solution definition-Similar open PRBs \(Similarity\). For information about this plugin installation, see [Request Predictive Intelligence for Incident](../../incident-management/task/request-predictive-intelligence-for-im.md).
+-   Install the Predictive Intelligence for Incident \(com.snc.incident.ml\) plugin to install the Relevant problems solution definition-Similar open PRBs \(Similarity\). For information about this plugin installation, see [Request Predictive Intelligence for Incident](../request-predictive-intelligence-for-im.md).
 -   Install the Problem Management for Service Operations Workspace \(**com.snc.uib.sow\_problem**\) plugin to install the solution definition-Create Problem for Major incident.
 -   Install the Predictive Intelligence for Major Incident Management \(com.snc.incident.mim.ml\_solution\) plugin to install the following IT Service Management solution definitions.
 
     -   Propose major incident \(Trend\)
     -   Similar major incident \(Trend\)
-    For information about this plugin installation, see [Request Predictive Intelligence for Major Incident Management](../../incident-management/task/request-pred-intelli-mim.md).
+    For information about this plugin installation, see [Request Predictive Intelligence for Major Incident Management](../request-pred-intelli-mim.md).
 
 -   Install the Predictive Intelligence for Incident Management \(com.snc.incident.ml\_solution\) plugin to install the following IT Service Management solution definitions.
 
@@ -219,10 +219,10 @@ To use recommendations powered by Predictive Intelligence, install the following
 
         **Note:** Similar Incidents \(TI\) recommendation is available only from Service Operations Workspace version 6.0.
 
-    For more information, see [Request Predictive Intelligence for Incident Management](../../incident-management/task/request-pred-intelli-inc-mgmt.md).
+    For more information, see [Request Predictive Intelligence for Incident Management](../request-pred-intelli-inc-mgmt.md).
 
 
-Train solution definitions to predict recommendations for an incident. For information about training solution definitions, see [Predictive Intelligence for Incident Management](../../incident-management/concept/predictive-intelligence-for-incident.md)
+Train solution definitions to predict recommendations for an incident. For information about training solution definitions, see [Predictive Intelligence for Incident Management](../predictive-intelligence-for-incident.md)
 
 **Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](contextual-side-panel-configurations-sow-itsm.md)
 

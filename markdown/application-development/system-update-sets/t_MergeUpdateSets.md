@@ -17,7 +17,7 @@ Merge multiple update sets into a single update set.
 
 ## Before you begin
 
-The batch update sets feature accomplishes the same outcome with a more predictable and robust solution. See [Update set batching](../hier-update-sets/concept/us-hier-overview.md).
+The batch update sets feature accomplishes the same outcome with a more predictable and robust solution. See [Update set batching](us-hier-overview.md).
 
 Role required: admin
 
@@ -48,5 +48,5 @@ Role required: admin
 8.  Delete or empty the original update sets to avoid committing an older change by mistake.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](configure-system-update-sets.md)
 

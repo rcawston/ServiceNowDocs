@@ -17,7 +17,7 @@ Import your workspaces data from an Excel spreadsheet into the Workplace Core ap
 
 ## Before you begin
 
-Complete [Configuring spreadsheets to import workplace data](../concept/importing-workspace-data.md#).
+Complete [Configuring spreadsheets to import workplace data](importing-workspace-data.md#).
 
 Role required: sn\_wsd\_core.admin
 
@@ -48,7 +48,7 @@ Role required: sn\_wsd\_core.admin
 10. Verify that the data records were imported into the Spaces table by navigating to **Workplace Safety Management** &gt; **Space Administration** &gt; **Spaces**
 
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data.md)
 
 **Related topics**  
 

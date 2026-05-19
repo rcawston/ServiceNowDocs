@@ -22,7 +22,7 @@ Use the following steps as guidelines for your Portfolio Planning with Project P
 
 1.  [Create an alignment integration](create-alignment-integration-ppw.md).
 2.  [Generate default mapping configurations](generate-mapping-configurations-ppw.md).
-3.  [Create custom mapping configurations](../../apw-internal-integrations/task/generate-custom-mapping-configurations-ppw.md).
+3.  [Create custom mapping configurations](generate-custom-mapping-configurations-ppw.md).
 
 ## Guided Setup
 

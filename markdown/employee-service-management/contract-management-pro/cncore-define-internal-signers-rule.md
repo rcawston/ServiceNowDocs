@@ -123,6 +123,6 @@ An internal signatory rule is created to map a user as an internal signatory for
 
 -   A user from **Signers mappings** is picked as a signatory.
 -   For contract templates configured with participants, when a participant does not meet the **Internal Signatory** rule criteria, a signatory is picked from the user field mapping of the participant list in the template.
--   While creating the signer task for an internal user, check whether the user's legal name is available in the user's employee profile. If no value is provided in the **Legal Name** field, use the user name from the Users \[sys\_user\] table. For more information, see [Employee Profile form](../../employee-center/reference/employee-profile-fieldconfig.md).
+-   While creating the signer task for an internal user, check whether the user's legal name is available in the user's employee profile. If no value is provided in the **Legal Name** field, use the user name from the Users \[sys\_user\] table. For more information, see [Employee Profile form](../employee-experience-foundation/employee-profile-fieldconfig.md).
 -   When no data is found, an empty signatory record is created that can update with the correct signatory details.
 

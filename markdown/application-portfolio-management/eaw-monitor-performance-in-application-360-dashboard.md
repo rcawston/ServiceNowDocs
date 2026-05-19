@@ -34,12 +34,12 @@ Role required: sn\_apm.apm\_analyst
 5.  From the Breakdown list, select the type of breakdown that you want to see the trend and distribution details for.
 
 
-**Parent Topic:**[Working with Dashboards](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
+**Parent Topic:**[Working with Dashboards](eaw-work-with-dashboards.md)
 
 **Related topics**  
 
 
-[Explore the Application 360 dashboard in Enterprise Architecture Workspace](../concept/eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace.md)
+[Explore the Application 360 dashboard in Enterprise Architecture Workspace](eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace.md)
 
 [View the performance of applications using the Application Assessments dashboard](eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard.md)
 

@@ -58,5 +58,5 @@ Status
 Value denoting whether you need to install a spoke or plugin, or if the requirements are met and the topic is available to use.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+</table>**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

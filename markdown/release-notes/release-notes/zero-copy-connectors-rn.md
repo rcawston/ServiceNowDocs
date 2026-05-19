@@ -31,7 +31,7 @@ See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
     Retrieve data from Cloudera Impala in real time without copying or duplicating the data.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](../australia-patch-1.md)**
 
     [Connect to Prometheus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/prometheus-zcc.md)
 
@@ -52,7 +52,7 @@ See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
     Workflow Data Fabric Hub is now Zero Copy Connector Hub.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](../australia-patch-1.md)**
 
     [New connector package options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/zero-copy-connectors.md)
 
@@ -69,25 +69,25 @@ See [Zero Copy Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
     Primary connectors that are still being enhanced to include all planned functionality are now marked with a Preview label. These connectors are fully supported by ServiceNow®.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](../australia-patch-1.md)**
 
     [Amazon S3 Tables connector — Preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/primary-connectors-zcc.md)
 
     The Amazon S3 Tables connector is now available with a Preview label, indicating that enhancements are ongoing. This connector is fully supported by ServiceNow®.
 
--   **[Australia Patch 1](../quality/australia-patch-1.md)**
+-   **[Australia Patch 1](../australia-patch-1.md)**
 
     [Apache Iceberg connector — Preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/primary-connectors-zcc.md)
 
     The Apache Iceberg connector is now available with a Preview label, indicating that enhancements are ongoing. This connector is fully supported by ServiceNow®.
 
--   **[Australia Patch 2](../quality/australia-patch-2.md)**
+-   **[Australia Patch 2](../australia-patch-2.md)**
 
     [Teradata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/teradata-zcc.md)
 
     The Teradata connector now supports Bearer Token and OAuth authentication methods.
 
--   **[Australia Patch 2](../quality/australia-patch-2.md)**
+-   **[Australia Patch 2](../australia-patch-2.md)**
 
     [Apache Iceberg](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/apache-iceberg-primary-zcc.md)
 
@@ -107,7 +107,7 @@ Zero Copy Connector Hub is also available with activation of the Zero Copy Conne
     The following plugins were renamed or changed in Australia:
 
     -   Workflow Data Fabric Hub \(sn\_data\_fabric\): Renamed to Zero Copy Connector Hub \(sn\_data\_fabric\).
-    -   [Australia Patch 1](../quality/australia-patch-1.md): Zero Copy Connectors \(sn\_data\_fabric\_zcc\): Now contains primary and community connectors. Previously contained all connectors in a single package.
+    -   [Australia Patch 1](../australia-patch-1.md): Zero Copy Connectors \(sn\_data\_fabric\_zcc\): Now contains primary and community connectors. Previously contained all connectors in a single package.
 
 -   **New plugins**
 

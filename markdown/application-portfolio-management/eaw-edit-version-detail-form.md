@@ -24,7 +24,7 @@ Add version labels, descriptions, and rollout dates to an Enterprise Modeling an
 **Related topics**  
 
 
-[Add or edit diagram version details](../../task/eaw-task/eaw-add-or-edit-diagram-version-details.md)
+[Add or edit diagram version details](eaw-add-or-edit-diagram-version-details.md)
 
-[Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md)
+[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
 

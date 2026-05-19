@@ -32,5 +32,5 @@ Export an individual record or list of records into a PDF format that supports a
 -   **[Guardrails for PDF generation and accessibility](guardrails-pdf-generation-accessibility.md)**  
 Static and dynamic guardrails are safeguards that help maintain stability during PDF generation. Static guardrails enforce fixed limits like maximum PDF size, while dynamic guardrails monitor real-time memory usage and terminate exports when memory pressure exceeds a defined threshold.
 
-**Parent Topic:**[Document Services](../reference/document-services-landing-page.md)
+**Parent Topic:**[Document Services](document-services-landing-page.md)
 

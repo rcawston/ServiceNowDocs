@@ -43,5 +43,5 @@ You must create a REST credential record on the ServiceNow instance that each In
 5.  Paste the sys\_id into the **restCredentials** input field of each activity you use.
 
 
-**Parent Topic:**[Infoblox DDI activity pack](../concept/c_InfobloxDDIActivityPack.md)
+**Parent Topic:**[Infoblox DDI activity pack](c_InfobloxDDIActivityPack.md)
 

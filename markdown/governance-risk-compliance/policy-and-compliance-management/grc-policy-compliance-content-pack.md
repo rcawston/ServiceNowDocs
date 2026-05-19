@@ -50,5 +50,5 @@ NIST Framework Profiling Overview dashboard contains reports within each of the 
 -   **[Application Risk and Compliance Overview dashboard](application-risk-comp-ovrvw-db-pc.md)**  
 The Application Risk and Compliance Overview dashboard provides the current view of risk and compliance posture for the business applications that are used in an enterprise. You can now view the dashboard in Next Experience UI Framework.
 
-**Parent Topic:**[Policy and Compliance Management](../../../product/grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
+**Parent Topic:**[Policy and Compliance Management](r_PolicyComplianceMgmt.md)
 

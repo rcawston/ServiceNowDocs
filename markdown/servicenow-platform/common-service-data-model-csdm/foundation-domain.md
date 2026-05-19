@@ -21,7 +21,7 @@ The tables in the Foundation domain aren't used in CMDB relationships. Instead, 
 
 In the Foundation stage of implementing the CSDM framework, admins prepare the referential data that enables accurate reporting to support good business decisions. Use the base-system tables when you begin implementing the CSDM to derive the highest value from your ServiceNow products and the ServiceNow AI Platform. For more information on this stage of building your CMDB, see [CSDM implementation stage — Foundation](csdm-implement-foundation-stage.md).
 
-**Note:** For an introductory walk-through of the tables and attributes that you should populate for any domain, see the videos listed in [CSDM resources](../reference/csdm-resources.md).
+**Note:** For an introductory walk-through of the tables and attributes that you should populate for any domain, see the videos listed in [CSDM resources](csdm-resources.md).
 
 ## Foundation domain tables used during the service life cycle
 
@@ -55,7 +55,7 @@ A contract is a binding agreement between two parties. In the ServiceNow AI Plat
 -   Service contracts used by Vendor Management Workspace can support tangible/physical CIs as part of an SLA.
 -   In the Customer Service Management product, service contracts define the type of support that customers receive. A contract can include an account and contact or a consumer and the specific assets that are covered. A contract can also include multiple service entitlements and SLAs. See [Define a service contract in Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-contracts.md).
 
-For more information, see [Definitions of life-cycle values for document and contract entities](../reference/csdm-lifecycle-df-document.md).
+For more information, see [Definitions of life-cycle values for document and contract entities](csdm-lifecycle-df-document.md).
 
 ## Data managed by the product owner
 
@@ -76,7 +76,7 @@ For more information, see [Definitions of life-cycle values for document and con
     -   Hardware Model \[cmdb\_hardware\_product\_model\] \(tangible/physical devices\)
     -   Consumable Model \[cmdb\_consumable\_product\_model\]
     -   Service Model \[cmdb\_service\_product\_model\]
-    Application, service, and software class instance CIs aren't created through Discovery, so their **Model ID \[model\_id\]** values might not refer to product model records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. For recommendations, see [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+    Application, service, and software class instance CIs aren't created through Discovery, so their **Model ID \[model\_id\]** values might not refer to product model records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. For recommendations, see [Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md).
 
 -   **Product features**
 
@@ -99,7 +99,7 @@ For more information, see [Definitions of life-cycle values for document and con
     -   For the CSDM, the Dynamic CI Group references a CMDB group to provide a list of CIs based on a common criteria.
     -   CMDB groups are stored in the Group \[cmdb\_group\] table.
     -   The CMDB group can potentially replace the spreadsheets that you might be using to group your CIs.
-    For more information, see [CMDB groups](../../configuration-management/concept/cmdb-groups.md#).
+    For more information, see [CMDB groups](../configuration-management-database-cmdb/cmdb-groups.md#).
 
 -   **Locations**
 
@@ -114,7 +114,7 @@ For more information, see [Definitions of life-cycle values for document and con
 
     life-cycle value pairs track the life cycles for products, assets, contracts, CIs, locations, and other objects. Using the standard CSDM life-cycle values consistently helps you to effectively track objects through their transitions over time. Reporting can therefore accurately reflect the actual states of CIs: usage, availability, end of support, and so on.
 
-    When you enable the CSDM framework, you can start using the **Life Cycle Stage** and **Life Cycle Stage Status** values to track an asset's life cycle. To use the fields, follow the procedure described in [Activate the CSDM plugin](../task/csdm-enable.md). The following processes can use the life-cycle value pairs:
+    When you enable the CSDM framework, you can start using the **Life Cycle Stage** and **Life Cycle Stage Status** values to track an asset's life cycle. To use the fields, follow the procedure described in [Activate the CSDM plugin](csdm-enable.md). The following processes can use the life-cycle value pairs:
 
     -   [Life cycle of product entities](csdm-lifecycle-product.md)
     -   [Life cycle of tangible/physical CIs](csdm-lifecycle-hardware.md)

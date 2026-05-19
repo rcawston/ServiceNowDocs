@@ -31,7 +31,7 @@ Configure the control assessment criteria with details such as factors, the scor
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the control assessment form, see [Control Assessment form](../reference/control-assessment-form.md).
+    For a description of the field values on the control assessment form, see [Control Assessment form](control-assessment-form.md).
 
 4.  Select the Factors section and select **Edit**.
 
@@ -83,8 +83,8 @@ Configure the control assessment criteria with details such as factors, the scor
 
 The control assessment type is published.
 
--   **[Control Assessment form](../reference/control-assessment-form.md)**  
+-   **[Control Assessment form](control-assessment-form.md)**  
 Use the Control Assessment form in the Advanced Risk application to assess the effectiveness of controls in mitigating risks.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

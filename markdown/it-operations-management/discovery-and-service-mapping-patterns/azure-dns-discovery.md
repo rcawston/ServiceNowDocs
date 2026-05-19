@@ -20,9 +20,9 @@ The Discovery and Service Mapping Patterns application uses the Azure - DNS Zone
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Azure DNS zones and record sets and their version that you can discovery, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about Azure DNS zones and record sets and their version that you can discovery, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
-For more information on Azure cloud discovery, see [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md).
+For more information on Azure cloud discovery, see [Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md).
 
 ## Prerequisites
 
@@ -32,15 +32,15 @@ For more information on Azure cloud discovery, see [Discovery for Microsoft Azur
 
 -   **Create Azure Service Principal credentials**
 
-    For more information see: [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md).
+    For more information see: [Create Azure cloud credentials](../discovery/create-azure-cloud-credentials.md).
 
 -   **Configure Azure service account**
 
-    For more information, see [Set up a cloud account for Azure](../../cloud-management-v2-setup/task/azure-cloud-accts-cloud-mgt.md).
+    For more information, see [Set up a cloud account for Azure](../cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md).
 
 -   **Create discovery schedule**
 
-    Create a schedule for the relevant Azure service accounts. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md).
+    Create a schedule for the relevant Azure service accounts. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md).
 
 
 ## Verify the REST API Permissions

@@ -41,7 +41,7 @@ Internet Explorer
 
 </td><td>
 
-A connector that enables automating web applications inside Microsoft Internet Explorer.For more information about the IE connector, see [IE connector](../concept/internet-explorer-connector.md).
+A connector that enables automating web applications inside Microsoft Internet Explorer.For more information about the IE connector, see [IE connector](internet-explorer-connector.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ SSH
 
 </td><td>
 
-Connector for interacting with server via Secure Shell \(SSH\).For more information about the SSH connector, see [Secure Shell \(SSH\) connector](../concept/ssh-connector.md).
+Connector for interacting with server via Secure Shell \(SSH\).For more information about the SSH connector, see [Secure Shell \(SSH\) connector](ssh-connector.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ FTP
 
 </td><td>
 
-Connector to transfer files between a client and server on a network.For more information about the FTP connector, see [FTP](../concept/ftp-connector.md).
+Connector to transfer files between a client and server on a network.For more information about the FTP connector, see [FTP](ftp-connector.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Windows
 
 </td><td>
 
-Enables automation of Windows desktop applications.For more information about the Windows connector, see [Windows connector](../concept/windows-connector.md).
+Enables automation of Windows desktop applications.For more information about the Windows connector, see [Windows connector](windows-connector.md).
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Universal App Connector
 
 </td><td>
 
-Connector for interacting with Google Chrome, Edge, Java, and Windows based applications.For more information about the Universal App connector, see [Universal app connector](../concept/universal-app-connector.md).
+Connector for interacting with Google Chrome, Edge, Java, and Windows based applications.For more information about the Universal App connector, see [Universal app connector](universal-app-connector.md).
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Terminal \(Mainframe\)
 
 </td><td>
 
-Connector that interacts with Mainframe applications through IBM Personal Communications \(PCOMM\) and Rocket BlueZone emulators.For more information about the Terminal connector, see [Configure the Terminal connector](../concept/configure-terminal-connector.md).
+Connector that interacts with Mainframe applications through IBM Personal Communications \(PCOMM\) and Rocket BlueZone emulators.For more information about the Terminal connector, see [Configure the Terminal connector](configure-terminal-connector.md).
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Chromium
 
 </td><td>
 
-A connector that enables automating web applications inside Google Chrome or Microsoft Edge.For more information about the Chromium connector, see [Chromium connector](../concept/chrome-connector.md).
+A connector that enables automating web applications inside Google Chrome or Microsoft Edge.For more information about the Chromium connector, see [Chromium connector](chrome-connector.md).
 
 </td></tr><tr><td>
 
@@ -203,5 +203,5 @@ Steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

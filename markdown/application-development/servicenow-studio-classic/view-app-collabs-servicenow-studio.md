@@ -44,5 +44,5 @@ You can take additional actions when viewing collaborators. For more information
 -   [Modify or customize collaboration permissions for a user or group in ServiceNow Studio](modify-collab-descriptor-servicenow-studio.md)
 -   [Remove collaborators from an app in ServiceNow Studio](remove-collaborators-servicenow-studio.md)
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md)
 

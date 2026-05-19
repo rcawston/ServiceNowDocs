@@ -123,7 +123,7 @@ The color you select for each threshold is inherited by the Status column \(show
     **Note:** A KPI is activated only when at least two active thresholds are added to it and one of those thresholds is marked as **Target threshold**.
 
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
 **Related topics**  
 

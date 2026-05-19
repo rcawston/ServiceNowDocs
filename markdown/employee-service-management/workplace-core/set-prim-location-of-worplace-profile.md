@@ -54,5 +54,5 @@ When there are multiple locations to which as user workplace profile is assigned
 
 The primary workplace location is set. The **Primary Workplace location** field is updated with the location.
 
-**Parent Topic:**[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+**Parent Topic:**[Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 

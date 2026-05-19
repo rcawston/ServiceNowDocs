@@ -17,5 +17,5 @@ When the questionnaire for False positive or Request exception is raised but not
 
 In case the questionnaire is half filled and the same Vulnerability Item \(VIT\)/ or any ITEM is opened in classic view, you’re navigated to the workspace questionnaire to fill the remaining data if the same type of request is raised again. If the questionnaire in classic view is selectively filled and the same item is opened in the workspace, then the classic view questionnaire is opened in the workspace.
 
-**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](../concept/sem-smart-assessment-exp-management.md)
+**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](sem-smart-assessment-exp-management.md)
 

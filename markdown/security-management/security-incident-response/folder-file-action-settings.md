@@ -128,5 +128,5 @@ Role required: sn\_msi.workspace\_admin
     ![Three-dot menu with Folder and File Actions highlighted](../image/msim-workspace-folder-file-actions-page.png)
 
 
-**Parent Topic:**[Configure File Explorer Component](../concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](file-explorer.md)
 

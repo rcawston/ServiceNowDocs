@@ -17,7 +17,7 @@ As an itil user, you can attend a Change Advisory Board \(CAB\) meeting, view th
 
 View the details of a CAB meeting and its agenda by navigating to **Change** &gt; **Change Advisory Board** &gt; **CAB Workbench**. From the calendar, you can view the CAB meeting schedule for a day, week, or month. To view details of a meeting, click the meeting and then click **Open** in the pop-up window.
 
-**Note:** If the system property **sn\_change\_cab.com.snc.change\_management.cab.use\_sow\_meeting** is set to true and you have the sn\_sow.sow\_user role, the CAB meeting opens in the CAB Workbench in Service Operations Workspace. If it is set to false, the meeting opens in the Core UI. For more information, see [Change Management properties](../reference/r_ChangeManagementProperties.md).
+**Note:** If the system property **sn\_change\_cab.com.snc.change\_management.cab.use\_sow\_meeting** is set to true and you have the sn\_sow.sow\_user role, the CAB meeting opens in the CAB Workbench in Service Operations Workspace. If it is set to false, the meeting opens in the Core UI. For more information, see [Change Management properties](r_ChangeManagementProperties.md).
 
 ![CAB meeting details.](../image/cab-meeting.png "CAB Workbench")
 

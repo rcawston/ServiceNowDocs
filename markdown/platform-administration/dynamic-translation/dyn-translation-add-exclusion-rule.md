@@ -99,5 +99,5 @@ For exact match rules, you can modify the case sensitivity in its Exclusion Rule
 
 From the Zurich release, you can manually test your pattern. For more information see [Test Exclusion Rule](dyn-translation-test-exclusion-rule.md).
 
-**Parent Topic:**[Exclusion Framework in Dynamic Translation](../concept/dyn-translation-exclusion-framework.md)
+**Parent Topic:**[Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md)
 

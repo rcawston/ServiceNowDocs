@@ -36,7 +36,7 @@ Role required: admin
     **Note:** Any files that use a file extension that is not included in the list of values appear broken in the UI.
 
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 

@@ -29,7 +29,7 @@ There are two types of reconciliation rules:
 
 -   **Dynamic reconciliation rules**
 
-    Dynamic reconciliation rules are based on attribute values processed by [CMDB 360](../concept/multisource-cmdb.md) rather than on discovery source priority. First, CMDB 360 processes the current payload data into the CMDB 360 data store. Then, applying a dynamic reconciliation rule, IRE selects the largest or most reported value, for example, across all discovery sources. Because dynamic reconciliation rules leverage CMDB 360, you must enable that feature to use dynamic reconciliation rules.
+    Dynamic reconciliation rules are based on attribute values processed by [CMDB 360](multisource-cmdb.md) rather than on discovery source priority. First, CMDB 360 processes the current payload data into the CMDB 360 data store. Then, applying a dynamic reconciliation rule, IRE selects the largest or most reported value, for example, across all discovery sources. Because dynamic reconciliation rules leverage CMDB 360, you must enable that feature to use dynamic reconciliation rules.
 
     Creating dynamic reconciliation rules can be useful, for example, if it becomes difficult to set priority order for multiple discovery sources. Only a single dynamic reconciliation rule can exist per class attribute.
 
@@ -47,7 +47,7 @@ The following sample static reconciliation rules are created for the **cmdb\_ci\
 2.  ServiceWatch is exclusively authorized to update the **name** attribute in the **cmdb\_ci\_linux\_server** class.
 3.  ServiceWatch is exclusively authorized to update all attributes in the **cmdb\_ci\_linux\_server** class, as configured by leaving the **Attributes** field empty in the rule.
 
-See [Create a CI reconciliation rule](../concept/create-reconciliation-rule.md#) for details about creating a static reconciliation rule that, for example, authorizes a discovery source to update a specific attribute such as **name**.
+See [Create a CI reconciliation rule](create-reconciliation-rule.md#) for details about creating a static reconciliation rule that, for example, authorizes a discovery source to update a specific attribute such as **name**.
 
 ## Using reconciliation rules
 
@@ -98,10 +98,10 @@ For more information about reconciliation rules, see the [CMDB - Data Precedence
 
 If Domain Separation is enabled, then you can scope reconciliation rules to specific domains. Rules of the parent domain, if not overridden, apply to CIs of child domain. All rules that are visible to a domain are applied, and a rule overriding the parent domain displays the child domain version.
 
--   **[Create a CI reconciliation rule](../concept/create-reconciliation-rule.md#)**  
+-   **[Create a CI reconciliation rule](create-reconciliation-rule.md#)**  
 Create a static or a dynamic CI reconciliation rule.
--   **[Create a data refresh rule](../task/create-datasource-staleness-rule.md)**  
+-   **[Create a data refresh rule](create-datasource-staleness-rule.md)**  
 Specify data refresh rules to determine if a CI is stale for a specific discovery source. Such CIs can then be updated by a lower-priority authorized discovery source.
 
-**Parent Topic:**[Configuring CMDB Identification and Reconciliation](../concept/configuring-ire.md)
+**Parent Topic:**[Configuring CMDB Identification and Reconciliation](configuring-ire.md)
 

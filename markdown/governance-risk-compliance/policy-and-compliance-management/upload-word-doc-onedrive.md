@@ -19,7 +19,7 @@ Upload a Microsoft Word document that exists in your local machine to Microsoft 
 
 Role required: sn\_compliance\_ws.corporate\_compliance\_analyst; mp\_document\_user
 
-**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to cloud. For more information, see [Pre-requisites to enable policy redlining feature](../../grc-policy-and-compliance/concept/pre-req-policy-redlining.md).
+**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to cloud. For more information, see [Pre-requisites to enable policy redlining feature](pre-req-policy-redlining.md).
 
 ## Procedure
 

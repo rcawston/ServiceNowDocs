@@ -63,5 +63,5 @@ Create as many baselines as necessary to review the changes made to and progress
     If you don't see the baseline columns on the data grid, refresh the workspace using the Refresh icon ![Refresh project workspace.](../image/icon-refresh.png).
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

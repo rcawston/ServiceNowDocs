@@ -34,8 +34,8 @@ However, catalogs that are cluttered, inconsistent, or overly complex make it di
 
     See:
 
-    -   [Catalog Conversational Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/using-catalog-conversational-experience.md)
-    -   [Conversational catalog overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/using-catalog-conversational-experience.md)
+    -   [Catalog Conversational Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md)
+    -   [Conversational catalog overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md)
 -   **3. Determine which catalogs can be made conversational**
 
     Identify catalog items with fewer than 15 variables. \(Items with more than 15 variables are better suited to be submitted as pop-up links to forms.\)
@@ -74,7 +74,7 @@ However, catalogs that are cluttered, inconsistent, or overly complex make it di
 
 -   [Use Now Assist in Catalog Builder to generate catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md).
 -   Limit the number of variables. Fewer is better.
--   [For form-based requests, select the Make item non-conversational in VA check box.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/using-catalog-conversational-experience.md)
+-   [For form-based requests, select the Make item non-conversational in VA check box.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/servicenow-platform/using-catalog-conversational-experience.md)
 -   Provide clear context for the LLM with distinct names, labels, and tooltips.
 -   Minimize the use of custom variable types. [Use the service catalog variables included on the platform instead.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_VariableTypes.md)
 -   [Limit client-side scripting and use regular expressions for validation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/define-regex-vrble.md)

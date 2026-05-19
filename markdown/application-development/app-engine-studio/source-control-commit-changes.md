@@ -63,5 +63,5 @@ Commit changes made in your application in App Engine Studio \(AES\) to a linked
     **Note:** For list of known files that don’t have customer update records and are untracked, see [Customer Updates table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CustomerUpdatesTable.md).
 
 
-**Parent Topic:**[Work with changes in Git](../concept/work-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](work-changes-in-git.md)
 

@@ -36,7 +36,7 @@ You can set up Playbooks for Portals using the following high level steps.
 2.  [Activate the record generator](activate-the-record-generator.md)
 3.  [Activate a new onboarding playbook with self-service](activate-a-new-onboarding-playbook-with-self-service-in-pad.md)
 4.  Activate guided onboarding in the playbook content items. For more information, see [Activate guided onboarding in Playbook content items](activate-guided-onboarding-in-playbook-content-items.md).
-5.  Add a **Process** tab to the Portal so that users can see where they are in the Playbook process. See [Add the Process tab to the portal](../task/add-process-tab-portal.md) for more information.
+5.  Add a **Process** tab to the Portal so that users can see where they are in the Playbook process. See [Add the Process tab to the portal](add-process-tab-portal.md) for more information.
 
 **Related topics**  
 

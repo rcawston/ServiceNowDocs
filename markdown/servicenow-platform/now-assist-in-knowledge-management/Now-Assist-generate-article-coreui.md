@@ -50,7 +50,7 @@ Role required: author or agent
     The article appears in a new tab with a unique ID number for the article.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 
 ## Generate article in classic environment for authors
 

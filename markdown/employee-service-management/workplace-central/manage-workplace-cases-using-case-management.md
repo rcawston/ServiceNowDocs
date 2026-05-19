@@ -68,7 +68,7 @@ Check the number of active cases and the details of those cases using the dashbo
 -   **[Create your own list to view case metrics](create-your-own-list-to-view-case-metrics.md)**  
 Configure a custom list to view workplace cases. You can view the workplace cases based on the filter that you apply and monitor the cases.
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -81,7 +81,7 @@ Configure a custom list to view workplace cases. You can view the workplace case
 
 [Print a workplace case](print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 
 [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 

@@ -59,7 +59,7 @@ Views and analyzes tag reports related to tag usage and compliance. Assign this 
 </td></tr></tbody>
 </table>## Tag categories installed
 
-Starting with version 1.7.0, the predefined categories listed in the table are installed with Tag Governance and require the installation of at least Service Mapping Plus version 1.16.3. For more information see [Install Service Mapping Plus](../../service-mapping/task/install-service-mapping-plus.md).
+Starting with version 1.7.0, the predefined categories listed in the table are installed with Tag Governance and require the installation of at least Service Mapping Plus version 1.16.3. For more information see [Install Service Mapping Plus](../service-mapping/install-service-mapping-plus.md).
 
 <table id="table_odc_mry_tfc"><thead><tr><th>
 
@@ -199,5 +199,5 @@ Sets the number of items processed together in a single batch when a tag policy 
 -   **Default value:** 1000
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tag Governance reference](../concept/reference-tag-governance.md)
+</table>**Parent Topic:**[Tag Governance reference](reference-tag-governance.md)
 

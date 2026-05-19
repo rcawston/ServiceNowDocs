@@ -35,5 +35,5 @@ Agentic Contact Center for Banking equips bank customer service representatives 
 </table>-   **[Agentic Contact Center for Banking reference](agentic-contact-center-for-banking-reference.md)**  
 Learn about the components and properties that are installed with Agentic Contact Center for Banking.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

@@ -286,7 +286,7 @@ Ensure that the custom script includes:Run the monitor function, which is called
 </td></tr></tbody>
 </table>    You can use the Monitoring Configurations \[em\_monitor\_conf\] table for self-health monitoring configuration, the Health Monitor Scripts \[em\_monitor\_scripts\] table for scripts, and Monitoring States \[em\_monitor\_state\] table for displaying the results of the monitor, as initialized inside **runInsertHealthMonitorScripts**.
 
-    For more information about script includes and APIs, see:Script includes that are [installed with Event Management](../reference/r_InstalledWithEventManagement.md#)
+    For more information about script includes and APIs, see:Script includes that are [installed with Event Management](r_InstalledWithEventManagement.md#)
 
 5.  Click **Submit**.
 
@@ -295,5 +295,5 @@ Ensure that the custom script includes:Run the monitor function, which is called
 
 To monitor the Event Management components that you specify, you can configure a self-health monitor that uses the custom health monitor script that you created.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](self-monitoring.md)
 

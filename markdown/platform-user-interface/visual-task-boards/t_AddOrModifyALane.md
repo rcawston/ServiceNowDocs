@@ -110,14 +110,14 @@ The Child table lanes and records are excluded.
 </table>    **Note:** When moving the card from lane to another, if you get an error message while having write access to the record then create a system property **glide.vtb.enable\_list\_edit\_acl** and set it to **false**.
 
 
-**Parent Topic:**[Creating Visual Task Boards](../concept/c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 
-[Data driven Visual Task Boards](../concept/data-driven-tasks.md)
+[Data driven Visual Task Boards](data-driven-tasks.md)
 
 [Add a task to a flexible or guided Visual Task Board](t_AddATaskToAFlexibleOrGuidedBoard.md)
 

@@ -21,7 +21,7 @@ Role required: none
 
 For example, you can set two threads. In thread 1, the component launches the Google Chrome window with the START APP component and in thread 2, the component uses the Send Keys component to enter a URL.
 
-You can configure the properties for the Parallel component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Parallel component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ You can configure the properties for the Parallel component. For more informatio
     **Note:** The Send Keys and the Mouse components under the Utilities category don't work with the Parallel component.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

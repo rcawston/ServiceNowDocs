@@ -41,7 +41,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the observable. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Select one of the following:-   **Malicious**: Indicates that the observable is 
 -   **Suspicious**: Indicates that the observable might be harmful to the organization.
 -   **Clean**: Indicates that the observable is not harmful to the organization.
 -   **Unknown**: Indicates that we are yet to determine the observable's finding.
--   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](../concept/threat-lookup-finding-calculators.md).
+-   Default value: Unknown. For more information, see [Threat Lookup Finding Calculators](threat-lookup-finding-calculators.md).
 
  **Note:** After an upgrade, existing observables are marked Malicious.
 
@@ -142,7 +142,7 @@ Enter any additional notes about the observable.
     |Security Annotations|Lists security annotations added to this observable.|
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](c_Observables.md)
 
 **Related topics**  
 

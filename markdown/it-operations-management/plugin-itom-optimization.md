@@ -26,11 +26,11 @@ Table that lists the plugins that are activated with the ITOM Optimization appli
 **Related topics**  
 
 
-[Plugins or applications installed with ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md)
+[Plugins or applications installed with ITOM Cloud Accelerate](itom-cloud-accelerate/plugin-app-cloud-accelerate.md)
 
-[Plugins or applications installed with ITOM Visibility](plugin-app-itom-visibility.md)
+[Plugins or applications installed with ITOM Visibility](itom-visibility/plugin-app-itom-visibility.md)
 
 [Plugins or applications installed with ITOM AIOps](plugin-app-itom-health.md)
 
-[Applications installed with Now Assist for ITOM](../../now-assist-itom/reference/app-now-assist-itom.md)
+[Applications installed with Now Assist for ITOM](now-assist-for-it-operations-management/app-now-assist-itom.md)
 

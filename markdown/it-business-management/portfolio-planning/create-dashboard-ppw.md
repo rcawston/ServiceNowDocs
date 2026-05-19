@@ -47,7 +47,7 @@ Edit a dashboard as needed by adding sections, filters, images, lists, process m
 -   **[Edit a dashboard](edit-dashboard-ppw.md)**  
 Customize or edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. If the dashboard has been shared, any changes you make are applied globally.
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 
 **Related topics**  
 

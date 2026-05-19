@@ -36,25 +36,25 @@ An email client configuration consists of the following components:
     By default, attachments that are sent from the email client are attached to the target record. Instead, you can select to attach files to the Email \[sys\_email\] record, or you can set conditions that define which email client attachments are added to the target record. To see the status of all email attachments, go to the Email Attachments \[sys\_email\_attachment\] table.
 
 
-You can also use an [Email Client Template](../task/t_CreateAnEmailClientTemplate.md#) to define the content of an email client message and set other message characteristics, such as an email sender \(From address\) configuration.
+You can also use an [Email Client Template](t_CreateAnEmailClientTemplate.md#) to define the content of an email client message and set other message characteristics, such as an email sender \(From address\) configuration.
 
 ## Email client configuration process
 
 Users with the admin role define and edit email client configurations. Users with the email\_client\_admin role can edit configuration information in selected tables.
 
 -   **1. Build the various email client controls that can be used to create an email client configuration.**
-    -   [Define email client recipient qualifiers](../task/define-email-recipient-qualifiers.md)
-    -   [Define email client from addresses](../task/define-email-client-from-addresses.md)
--   **2. [Create the email client configuration.](../task/create-email-client-config.md)**
+    -   [Define email client recipient qualifiers](define-email-recipient-qualifiers.md)
+    -   [Define email client from addresses](define-email-client-from-addresses.md)
+-   **2. [Create the email client configuration.](create-email-client-config.md)**
 
     Define an email client configuration that determines how your email client behaves when users create an email message.
 
 
--   **[Define email client recipient qualifiers](../task/define-email-recipient-qualifiers.md)**  
+-   **[Define email client recipient qualifiers](define-email-recipient-qualifiers.md)**  
 Create a configuration that controls the auto-complete list of recipients displayed in the email client.
--   **[Define email client from addresses](../task/define-email-client-from-addresses.md)**  
+-   **[Define email client from addresses](define-email-client-from-addresses.md)**  
 Set an allowable email address that is displayed in the From address of a message sent from the email client.
--   **[Create an email client configuration](../task/create-email-client-config.md)**  
+-   **[Create an email client configuration](create-email-client-config.md)**  
 Define a configuration that controls the display and behavior of the email client that is based on a selected ServiceNow table.
 
 **Parent Topic:**[Configure email client](configuring-email-client.md)

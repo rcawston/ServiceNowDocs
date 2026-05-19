@@ -24,5 +24,5 @@ Notify adds the following properties.
 -   **[Business rules installed with Notify](r_NotifyBusinessRules.md)**  
 Notify adds the following business rules.
 
-**Parent Topic:**[Notify reference](../concept/notify-reference-section.md)
+**Parent Topic:**[Notify reference](notify-reference-section.md)
 

@@ -118,7 +118,7 @@ Allow in bundle
 
 </td><td>
 
-Use items in this category in [bundles](../concept/c_CreatingBundledModels.md).
+Use items in this category in [bundles](c_CreatingBundledModels.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Prevents the system from automatically creating assets in a specific model categ
 </table>3.  Select **Submit**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](c_ModelCategories.md)
 
 **Related topics**  
 

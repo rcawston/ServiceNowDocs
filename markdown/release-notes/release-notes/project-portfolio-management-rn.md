@@ -22,7 +22,7 @@ See [Explore Project Portfolio Management](https://raw.githubusercontent.com/Ser
 
 ## New in the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -66,7 +66,7 @@ See [Explore Project Portfolio Management](https://raw.githubusercontent.com/Ser
 
 ## Changed in this release
 
-[Australia Patch 2](../quality/australia-patch-1.md)
+[Australia Patch 2](../australia-patch-1.md)
 
 -   **[Demand summarization skill enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)**
 

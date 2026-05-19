@@ -83,5 +83,5 @@ Your connector admin needs these items to configure a ManageEngine external cont
 
 For details on creating and configuring a ManageEngine external content connector, see [Create a ManageEngine external content connector](create-ext-cont-connector-manageengine.md).
 
-**Parent Topic:**[ManageEngine external content connector](../concept/manageengine-external-content-connector.md)
+**Parent Topic:**[ManageEngine external content connector](manageengine-external-content-connector.md)
 

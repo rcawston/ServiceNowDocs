@@ -17,27 +17,27 @@ The system locates users from latitude and longitude information provided by the
 
 Geolocation features can be configured by users with the admin role.
 
--   **[Activate geolocation](../task/t_ActivateGeolocation.md)**  
+-   **[Activate geolocation](t_ActivateGeolocation.md)**  
 An administrator can activate the Geolocation plugin.
--   **[Installed with geolocation](../reference/r_InstalledWithGeolocation.md#)**  
+-   **[Installed with geolocation](r_InstalledWithGeolocation.md#)**  
 Several component types are installed with Geolocation.
--   **[Geolocation Google key](../reference/r_GeolocationGoogleKey.md)**  
+-   **[Geolocation Google key](r_GeolocationGoogleKey.md)**  
 Geolocation functions in the ServiceNow AI Platform® require a Google Maps API for Business license, or a Google Maps Javascript API Key, to enable use of Google Maps.
--   **[Geolocation history](../reference/r_GeolocationHistory.md)**  
+-   **[Geolocation history](r_GeolocationHistory.md)**  
 The Geolocation History \[geo\_history\] table contains the history of each tracked user's location over time.
--   **[Location tracking](../reference/r_LocationTracking.md)**  
+-   **[Location tracking](r_LocationTracking.md)**  
 Geolocation adds the **Geolocation tracked** field to the User form. In the default view of a user record, select the **Geolocation tracked** check box to enable location tracking for the user.
 
-**Parent Topic:**[Exploring Service Administration](../../service-administration/concept/c_ServiceAdministration.md)
+**Parent Topic:**[Exploring Service Administration](c_ServiceAdministration.md)
 
 **Related topics**  
 
 
-[Geolocation Google key](../reference/r_GeolocationGoogleKey.md)
+[Geolocation Google key](r_GeolocationGoogleKey.md)
 
-[Geolocation history](../reference/r_GeolocationHistory.md)
+[Geolocation history](r_GeolocationHistory.md)
 
-[Location tracking](../reference/r_LocationTracking.md)
+[Location tracking](r_LocationTracking.md)
 
-[Activate geolocation](../task/t_ActivateGeolocation.md)
+[Activate geolocation](t_ActivateGeolocation.md)
 

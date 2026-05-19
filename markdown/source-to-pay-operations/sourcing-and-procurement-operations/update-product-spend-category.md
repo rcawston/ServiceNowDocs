@@ -56,12 +56,12 @@ Role required: sn\_shop\_procurement\_specialist
 
 The product category or spend category for the selected purchase line is successfully updated.
 
-**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](../concept/agentic-ai-now-assist-spo.md)
+**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](agentic-ai-now-assist-spo.md)
 
 **Related topics**  
 
 
-[Conversational intake for sourcing and procurement agentic workflow](../concept/spo-help-fulfill-pr-agentic.md)
+[Conversational intake for sourcing and procurement agentic workflow](spo-help-fulfill-pr-agentic.md)
 
 [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)
 

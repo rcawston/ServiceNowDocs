@@ -21,7 +21,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download an application from the ServiceNow Store for the first time](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download an application from the ServiceNow Store for the first time](../download-app-first-time.md).
 
 2.  When the installation is complete, access Palo Alto Networks support site and obtain the API Key.
 

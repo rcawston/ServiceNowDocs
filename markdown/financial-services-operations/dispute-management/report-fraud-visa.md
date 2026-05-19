@@ -61,5 +61,5 @@ Depending on the policy rule, the task moves to the next activity. The following
 |No Credit|Alert merchant task|
 |Deny|Case is denied|
 
-**Parent Topic:**[Investigate stage](../concept/investigate-stage.md)
+**Parent Topic:**[Investigate stage](investigate-stage.md)
 

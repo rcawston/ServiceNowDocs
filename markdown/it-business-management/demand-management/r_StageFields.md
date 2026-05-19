@@ -29,5 +29,5 @@ Hovering over the **Stage** field displays a pop-up window that shows the progre
 
 ![Stage fields summary pop-up window.](../image/demand-stage-fields.png)
 
-**Parent Topic:**[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)
+**Parent Topic:**[Demand Management reference](demand-management-reference.md)
 

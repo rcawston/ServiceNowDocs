@@ -25,7 +25,7 @@ Role required: it\_project\_user
 
 ## About this task
 
-The **Details** tab in project workspace displays the [project form](t_CreateAProject.md) for the selected project.
+The **Details** tab in project workspace displays the [project form](../project-management/t_CreateAProject.md) for the selected project.
 
 ## Procedure
 
@@ -36,5 +36,5 @@ The **Details** tab in project workspace displays the [project form](t_CreateAPr
 3.  Edit the project record as required.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

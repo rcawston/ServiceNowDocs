@@ -45,5 +45,5 @@ Once the database upgrade starts, the following details show up. ![Image showing
 |Version|The current build for the selected node \(indicated by the arrow\).|
 |Successful upgrade|When the selected node is online, shows how long the node has been online. If the selected node is offline, shows how long the node has been offline.|
 
-**Parent Topic:**[Monitor an upgrade to an instance](../task/um-monitor-instance-upgrade.md)
+**Parent Topic:**[Monitor an upgrade to an instance](um-monitor-instance-upgrade.md)
 

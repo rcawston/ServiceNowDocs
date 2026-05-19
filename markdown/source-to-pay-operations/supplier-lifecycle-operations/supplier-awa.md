@@ -21,7 +21,7 @@ Advanced Work Assignment for Supplier Lifecycle Operations pushes work to qualif
 
 ## Prerequisites for installing Advanced Work Assignment for Supplier Lifecycle Operations
 
-Before you install Advanced Work Assignment for Supplier Lifecycle Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md).
+Before you install Advanced Work Assignment for Supplier Lifecycle Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](load-demo-agent-chat.md).
 
 ## Required plugins
 
@@ -34,7 +34,7 @@ Install the Advanced Work Assignment for Supplier Lifecycle Operations \(com.snc
 
 -   **[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)**  
 Use the agent inbox to manage your incoming work items, such as chats, cases, incidents, and more.
--   **[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)**  
+-   **[Activate Agent Chat and load demo data](load-demo-agent-chat.md)**  
 Activate Agent Chat and load demo data.
 -   **[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)**  
 Plan and configure your implementation of Advanced Work Assignment for Supplier Lifecycle Operations.
@@ -46,23 +46,23 @@ Enables supplier contacts to interact with supplier owners and resolve their iss
 **Related topics**  
 
 
-[Install Supplier Case Management](../task/install-supp-mgmt.md)
+[Install Supplier Case Management](install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](install-supp-central.md)
 
-[Install Supplier Operations](../task/install-supplier-ops.md)
+[Install Supplier Operations](install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](../task/install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
 [Supplier Document Management](supp-doc-mgmt-overview.md)
 
 [Configure the document template for the Sign document action type for supplier task](../task/configure-pdf-template-sign-doc-task.md)
 
-[Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
 [Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 
-[Install Universal Request for SLO](../task/install-universal-request.md)
+[Install Universal Request for SLO](install-universal-request.md)
 
 [Configure smart assessments](configure-smart-assessments.md)
 

@@ -80,5 +80,5 @@ Enter a description of the update set.
 </table>3.  Select **Submit** to create the update set or select **Submit and Make Current**.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 

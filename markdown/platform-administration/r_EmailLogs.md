@@ -15,7 +15,7 @@ The system email log records all emails that the instance creates or receives. S
 
 Every notification email that the instance creates or receives is recorded in an Email \[sys\_email\] record. You can navigate to a log of these records at **System Logs** &gt; **Emails**.
 
-The System Mailboxes are filtered views of the Emails \[sys\_email\] table. The instance assigns an email record to a system mailbox depending on the values of the **Type** and **State** fields. For more information, see [System mailboxes](../../notification/concept/c_SystemMailboxes.md).
+The System Mailboxes are filtered views of the Emails \[sys\_email\] table. The instance assigns an email record to a system mailbox depending on the values of the **Type** and **State** fields. For more information, see [System mailboxes](c_SystemMailboxes.md).
 
 The following fields can be included in the layout of the system log and any of the system mailboxes:
 
@@ -190,5 +190,5 @@ Headers
 Any headers embedded in the email.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](../../notification/concept/troubleshooting-notification-emails.md)
+</table>**Parent Topic:**[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
 

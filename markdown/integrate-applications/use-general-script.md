@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Script component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Script component. For more information about these properties, see [Properties of the General components](Properties-general-components.md).
 
 You can use this component to perform actions that are not covered by existing RPA components or combine actions of multiple components.
 
@@ -109,5 +109,5 @@ Yes.To view the output, right-click the **Return** field and click **Preview Dat
 </table>10. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](general-component.md)
 

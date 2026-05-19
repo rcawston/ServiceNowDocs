@@ -66,5 +66,5 @@ Role required: sn\_msi.workspace\_manager
     If the conference call was recorded, then the recording will be available in the Conference call section of the associated major security incident after sometime.
 
 
-**Parent Topic:**[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+**Parent Topic:**[Integrate MSIM Conference Calls with Zoom](integrate-msim-conf-calls-zoom.md)
 

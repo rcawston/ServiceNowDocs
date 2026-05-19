@@ -22,7 +22,7 @@ Available utility methods:
 
 For additional information, see [Service Portal pages](https://servicenow.com/docs/bundle/vancouver-servicenow-platform/page/build/service-portal/task/add-human-readable-keywords-page-urls.html).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSPUtil - GlideSPUtil\(\)
 

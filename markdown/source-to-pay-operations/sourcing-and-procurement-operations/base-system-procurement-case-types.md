@@ -234,11 +234,11 @@ Employee submits the **Request a copy of contract** catalog item in the Service 
 
 [Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](spo-glossary.md#)
 
-[Procurement case types](../concept/procurement-case-types.md)
+[Procurement case types](procurement-case-types.md)
 

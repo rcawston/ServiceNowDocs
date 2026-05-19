@@ -108,12 +108,12 @@ If this property isn't set or present, there's no limit on the number of records
 -   Default value:
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Instance Data Replication reference](../concept/reference-instance-data-replication.md)
+</table>**Parent Topic:**[Instance Data Replication reference](reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Data privacy in Instance Data Replication](../concept/data-privacy-consumers-idr.md)
+[Data privacy in Instance Data Replication](data-privacy-consumers-idr.md)
 
 [Adapter descriptions for Instance Data Replication](adapter-descriptions.md)
 

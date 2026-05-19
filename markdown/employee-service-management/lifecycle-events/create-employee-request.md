@@ -42,5 +42,5 @@ Click **Requests** to view your request.
 
 **Note:** The HR case or catalog request that was initiated from the employee request is associated with the parent Lifecycle Events case. Agents can see the status of the employee request from the Lifecycle event.
 
-**Parent Topic:**[Lifecycle Events employee requests](../concept/employee-requests.md)
+**Parent Topic:**[Lifecycle Events employee requests](employee-requests.md)
 

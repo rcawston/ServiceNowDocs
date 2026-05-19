@@ -44,5 +44,5 @@ You can use the related links and related lists of the new test suite for the fo
 -   Add this test suite, with all associated test cases, to a test plan by clicking the **Add to Test Plan** related link.
 -   use the Test Cases related list to associate test cases to this test suite.
 
-**Parent Topic:**[Test suites](../concept/c_TestSuites.md)
+**Parent Topic:**[Test suites](c_TestSuites.md)
 

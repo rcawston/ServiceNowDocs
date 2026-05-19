@@ -33,7 +33,7 @@ You must have already created a stop word dictionary. For information on creatin
 
 4.  On the Dictionary Term form, fill in the fields.
 
-    For a description of the field values, see [Dictionary Term form](../reference/dictionary-term-form-ais.md).
+    For a description of the field values, see [Dictionary Term form](dictionary-term-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -46,5 +46,5 @@ You must have already created a stop word dictionary. For information on creatin
     -   To save the modified dictionary and refresh its active stop words in all linked search profiles, select **Publish**.
     -   To save the modified dictionary without refreshing its active stop words in all linked search profiles, select **Update**.
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

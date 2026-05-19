@@ -99,5 +99,5 @@ Enabling the **Playbooks for Customer Service Management \[com.sn\_csm\_playbook
 
 **Note:** If you create a custom table that extends a CSM table such as Case, you can create playbooks that trigger from it.
 
-**Parent Topic:**[Activate Playbooks](../concept/activate-process-automation-designer.md)
+**Parent Topic:**[Activate Playbooks](activate-process-automation-designer.md)
 

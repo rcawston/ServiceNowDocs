@@ -30,14 +30,14 @@ Role required: notify\_view, or itil
     ![Screen for WebRTC UI](../image/WebRTC2.png)
 
 
-**Parent Topic:**[Using Notify with On-Call Scheduling](../concept/c_NotifyWithOnCall.md)
+**Parent Topic:**[Using Notify with On-Call Scheduling](c_NotifyWithOnCall.md)
 
 **Related topics**  
 
 
 [Set up Notify with On-Call Scheduling](t_SetUpNotifyWithOnCall.md)
 
-[Controlling the on-call communication channel with Notify](../concept/c_OnCallNotifyForceCommChannel.md)
+[Controlling the on-call communication channel with Notify](c_OnCallNotifyForceCommChannel.md)
 
-[Key differences between on-call scheduling with NotifyNow and with Notify](../reference/r_OnCallNotifyNowNotifyDifferences.md)
+[Key differences between on-call scheduling with NotifyNow and with Notify](r_OnCallNotifyNowNotifyDifferences.md)
 

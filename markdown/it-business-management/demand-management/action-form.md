@@ -120,5 +120,5 @@ Work notes
 Information about the action. Add work notes to communicate about the status of action approval, rejection, or implementation with other users.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

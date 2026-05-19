@@ -47,17 +47,17 @@ Add an entity to the case. For information on how to do this, see the following:
 **Related topics**  
 
 
-[Add an associated person to an Investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated person to an Investigative case](psds-using-icm-add-entities.md#)
 
-[Add a location to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add a location to an investigative case](psds-using-icm-add-entities.md#)
 
-[Add a related property to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add a related property to an investigative case](psds-using-icm-add-entities.md#)
 
-[Add an associated event to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated event to an investigative case](psds-using-icm-add-entities.md#)
 
-[Add an associated vehicle to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated vehicle to an investigative case](psds-using-icm-add-entities.md#)
 
-[Add an associated organization to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated organization to an investigative case](psds-using-icm-add-entities.md#)
 
-[Add an associated firearm to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated firearm to an investigative case](psds-using-icm-add-entities.md#)
 

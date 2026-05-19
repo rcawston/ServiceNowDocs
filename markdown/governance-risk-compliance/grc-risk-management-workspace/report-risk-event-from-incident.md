@@ -116,5 +116,5 @@ A brief description of the incident.
 
 The risk event is created.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 

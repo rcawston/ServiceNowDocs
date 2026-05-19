@@ -55,5 +55,5 @@ In the conversational subflow settings, you can use generative AI to generate de
 6.  Select **Update**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

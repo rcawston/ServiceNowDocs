@@ -31,11 +31,11 @@ With the ServiceNow® Financial Services Operations Integration with Socure appl
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Work on integrating FSO with the Socure application.](../task/configure-fso-integration-socure.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Work on integrating FSO with the Socure application.](configure-fso-integration-socure.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components like fields, tables, and properties.](../reference/components-installed-with-fso-integration-socure.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components like fields, tables, and properties.](components-installed-with-fso-integration-socure.md)
 
 </td></tr></tbody>
 </table>

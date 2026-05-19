@@ -34,5 +34,5 @@ Role required: admin
     ![Group assignments.](../image/csd2-app-group-assignments.png)
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Intune](../concept/csd2-ms-intune.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Intune](csd2-ms-intune.md)
 

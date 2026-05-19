@@ -45,5 +45,5 @@ Role required: admin
 
 After creating wrap-up codes, system administrators can enable wrap-up codes in the interaction wrap-up configuration record and select the wrap-up codes that are available to agents. For more information, see [Create an interaction wrap-up configuration](create-interaction-wrap-up-config.md).
 
-**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+**Parent Topic:**[Interaction wrap up](interaction-wrap-up-state.md)
 

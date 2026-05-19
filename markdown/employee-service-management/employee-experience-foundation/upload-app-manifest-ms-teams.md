@@ -32,5 +32,5 @@ Role required: Microsoft Teams admin
     This App ID is used for Meeting Extensions and so, this App ID must be updated in System Properties in ServiceNow® instance.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)
 

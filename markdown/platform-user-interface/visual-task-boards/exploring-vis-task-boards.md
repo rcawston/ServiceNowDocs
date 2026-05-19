@@ -67,7 +67,7 @@ You can edit card details, add attachments, configure card view and card limit, 
 
 </td><td>
 
-[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+[Working with Visual Task Board cards](r_TaskCards.md)
 
 </td></tr><tr><td>
 
@@ -82,12 +82,12 @@ Create checklist and checklist template. Configure task types that can be create
 You can create guided Visual Task Boards, which are driven by data in your ServiceNow® instance. You can also create freeform boards that display a variety of information, or flexible boards, which combine both types.
 -   **[Elements of Visual Task Boards](vtb-elements.md)**  
 Visual Task Boards contain cards that represent a task. These cards are arranged in lanes based on the criteria you choose to sort them.
--   **[Visual Task Board tools](../reference/task-board-tools.md)**  
+-   **[Visual Task Board tools](task-board-tools.md)**  
 The task board tools area in a Visual Task Board contains several tabs, each represented by an icon.
 -   **[Visual Task Board SLA indicators](c_VTBSLAIndicators.md)**  
 SLA \(service-level agreement\) indicators alert board members if any cards on the board have breached SLAs.
 -   **[Visual Task Board accessibility](accessibility-vtb.md)**  
 Accessibility improvements in Visual Task Boards include skip links and the ability to view card details.
 
-**Parent Topic:**[Configure UIs and portals](../../../administer/general/concept/configure-uis-and-portals.md)
+**Parent Topic:**[Configure UIs and portals](../configure-uis-and-portals.md)
 

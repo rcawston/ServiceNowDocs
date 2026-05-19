@@ -30,5 +30,5 @@ Use this reference to find which values to use to translate your mobile elements
 
 This example shows a translation record for an applet called **My Tasks** translated into Spanish.![Translation record example.](../image/mobile-translate-example.png)
 
-**Parent Topic:**[Server-side localization](../concept/localization-server-side.md)
+**Parent Topic:**[Server-side localization](localization-server-side.md)
 

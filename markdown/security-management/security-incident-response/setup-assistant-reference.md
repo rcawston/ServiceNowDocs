@@ -578,7 +578,7 @@ Use filter group
 
 </td><td>
 
-Select this check box to use a predefined filter group or [create a new filter group](../../security-operations-common/task/create-filter-group.md) to define the calculator criteria.
+Select this check box to use a predefined filter group or [create a new filter group](../create-filter-group.md) to define the calculator criteria.
 
 </td></tr><tr><td>
 
@@ -803,7 +803,7 @@ The risk score is calculated as an arithmetic mean that represents the risk base
 
 The risk score aids in prioritizing security incident work for the analysts.
 
-**Important:** If you want to use the new Risk Score Calculator, refer to [Define the new Risk Score Calculator Rules](../../secops-analyst-workspace/task/define-risk-score-calculator-rules-sir.md).
+**Important:** If you want to use the new Risk Score Calculator, refer to [Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md).
 
 The **Set priority with category and services** and **Set priority with observables** [security incident calculators](setup-assistant-reference.md#) are used to calculate a risk score for a security incident. Additionally, the following business rules trigger automatic calculation of risk scores:
 
@@ -926,7 +926,7 @@ A runbook is an association between a published knowledge article and a specific
 
 ### Before you begin
 
-There must be existing knowledge articles in the Security Incident Response Runbook knowledge base. When you [create a security incident knowledge article](../task/t_CrtScrIncdtKnwArt.md), be sure to select **Security Incident Response Runbook** in the **Knowledge base** field. After you publish the article, you can select the **Create Runbook** button.
+There must be existing knowledge articles in the Security Incident Response Runbook knowledge base. When you [create a security incident knowledge article](t_CrtScrIncdtKnwArt.md), be sure to select **Security Incident Response Runbook** in the **Knowledge base** field. After you publish the article, you can select the **Create Runbook** button.
 
 Role required: sn\_si.knowledge\_admin
 
@@ -970,7 +970,7 @@ Use filter group
 
 </td><td>
 
-Select this check box to use a predefined filter group or [create a new filter group](../../security-operations-common/task/create-filter-group.md) to define the runbook criteria.
+Select this check box to use a predefined filter group or [create a new filter group](../create-filter-group.md) to define the runbook criteria.
 
 </td></tr><tr><td>
 

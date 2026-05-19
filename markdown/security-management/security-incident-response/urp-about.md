@@ -319,7 +319,7 @@ The **Transform Phishing Email to Security Incident** flow converts or transform
 
 ### Before you begin
 
-**Note:** To enable the User Reported Phishing functionality, you must make a copy of the flow and [activate](../task/getting-started-phishing-playbook.md) it. If you have created custom inbound actions and custom flows to handle user reported phishing submissions, the flow modifications suggested here aren’t required.
+**Note:** To enable the User Reported Phishing functionality, you must make a copy of the flow and [activate](getting-started-phishing-playbook.md) it. If you have created custom inbound actions and custom flows to handle user reported phishing submissions, the flow modifications suggested here aren’t required.
 
 -   Role required: sn\_si.admin
 -   Flow Designer spoke must be installed.
@@ -343,7 +343,7 @@ This flow is automatically launched when a user reported phishing email record w
 
 -   This flow is provided with the base system and is in **Read Only** mode and can’t be used.
 
-    Select the more icon ![More icon](../image/cj-sir-flow-more-icon.png), make a copy of the flow and open it for your use. You can now change your flow, such as modifying trigger conditions or actions, or adding and removing actions. After making the necessary changes, you must activate \(See [Activate a Security Incident Response flow](../task/getting-started-phishing-playbook.md)\) the flow so that it can be executed.![Transform Phishing Email to Security Incidents flow](../image/urp-transform-flow.png)
+    Select the more icon ![More icon](../image/cj-sir-flow-more-icon.png), make a copy of the flow and open it for your use. You can now change your flow, such as modifying trigger conditions or actions, or adding and removing actions. After making the necessary changes, you must activate \(See [Activate a Security Incident Response flow](getting-started-phishing-playbook.md)\) the flow so that it can be executed.![Transform Phishing Email to Security Incidents flow](../image/urp-transform-flow.png)
 
     This figure shows the trigger and the steps executed with the flow. The-right hand panel shows the data flow. Select on an icon to expand the step and view the details.
 

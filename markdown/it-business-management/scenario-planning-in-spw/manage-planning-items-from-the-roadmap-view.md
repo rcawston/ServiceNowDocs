@@ -59,7 +59,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     The side panel opens with the Details tab.
 
-    Further, you can click **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+    Further, you can click **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Planning item form](planning-item-form.md).
 
     You can refine planning item descriptions—for item types such as Demand, Epic, Project, Capability, Feature, and Story—using the Write planning item skill, if the Now Assist for SPM application is installed.
 

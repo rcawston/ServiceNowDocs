@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** This topic creates a legacy v3 knowledge homepage. You can create a portal homepage and configure it to get a new look and feel. For information, see [Configure the Knowledge Management Service Portal](../concept/knowledge-management-service-portal.md).
+**Note:** This topic creates a legacy v3 knowledge homepage. You can create a portal homepage and configure it to get a new look and feel. For information, see [Configure the Knowledge Management Service Portal](knowledge-management-service-portal.md).
 
 ## Procedure
 
@@ -69,12 +69,12 @@ Enter the default sort order for articles to appear in.
 </table>
 ## Example
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+[Configuring Knowledge Management](configuring-knowledge-management.md)
 
-[I18N - Knowledge internationalization](../concept/c_I18NKMInternational.md)
+[I18N - Knowledge internationalization](c_I18NKMInternational.md)
 

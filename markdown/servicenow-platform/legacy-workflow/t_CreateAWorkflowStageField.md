@@ -23,7 +23,7 @@ Role required: admin
 
 In a form, the workflow field displays the current stage as a choice list value.
 
-In a list, the workflow field displays stage icons that represent the series of states, stages, phases, or tasks within a workflow. The stage icons are populated using the activity stages from the associated workflow. For more information, see [Workflow stages](../../using-workflows/concept/c_WorkflowStages.md).
+In a list, the workflow field displays stage icons that represent the series of states, stages, phases, or tasks within a workflow. The stage icons are populated using the activity stages from the associated workflow. For more information, see [Workflow stages](c_WorkflowStages.md).
 
 ![Workflow stage field in a list](../image/400pxWorkflowList.png)
 
@@ -53,7 +53,7 @@ To create a workflow stage field:
 
 10. To ensure that the workflow field properly displays stages on the form, define a choice for each workflow stage.
 
-    -   To create workflow stages using a choice list that already has choices, you can import the stages from the choice list. A stage is created for each choice defined for the **Stage field** selected in the workflow properties. For detailed steps about importing a choice list, see [Import stages from a choice list](../../using-workflows/concept/c_WorkflowStageSets.md#).
+    -   To create workflow stages using a choice list that already has choices, you can import the stages from the choice list. A stage is created for each choice defined for the **Stage field** selected in the workflow properties. For detailed steps about importing a choice list, see [Import stages from a choice list](c_WorkflowStageSets.md#).
     -   The **Value** of each choice must match the **Value** of the corresponding workflow stage.
     -   Do not use spaces in the **Value** field for either choices or stages. Use underscores in place of spaces.
     -   Make the choice list read-only. If a user changes the stage value for a record from the choice list rather than allowing the workflow to control the value, the workflow-driven, legacy, and linear renders may not work as intended. You can also use business rules or events to ensure the workflow progresses accordingly.
@@ -75,10 +75,10 @@ After you create or update the workflow field:
 A **Stage field** allows the workflow context to show additional workflow information, such as the stage name and the estimated completion time for an activity.
 -   **[Display approvers in workflow stage fields](display-approvers-workflow-stages.md)**  
 Enable workflow stage fields to display approvers, change the number of approvers to display, or disable displaying approvers.
--   **[Workflow stage field icons and tooltips](../reference/r_WorkflowFieldIcons.md#)**  
+-   **[Workflow stage field icons and tooltips](r_WorkflowFieldIcons.md#)**  
 A workflow stage field displays icons to indicate the workflow stage.
--   **[Workflow stage renderers](../reference/r_WorkflowStageRenderers.md#)**  
+-   **[Workflow stage renderers](r_WorkflowStageRenderers.md#)**  
 Workflow stage renderers determine how a workflow displays stages in a workflow field.
 
-**Parent Topic:**[Workflow stages](../../using-workflows/concept/c_WorkflowStages.md)
+**Parent Topic:**[Workflow stages](c_WorkflowStages.md)
 

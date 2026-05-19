@@ -39,11 +39,11 @@ Crew members can perform the following actions on the work order task:
 **Related topics**  
 
 
-[Accept or reject a work order task](../task/accept-reject-task-on-mobile.md)
+[Accept or reject a work order task](../work-order-management/accept-reject-task-on-mobile.md)
 
-[Start work on a work order task](../task/work-task-on-mobile.md)
+[Start work on a work order task](../work-order-management/work-task-on-mobile.md)
 
-[Record time worked for a task or activity manually](../task/field-service-agent-record-time.md)
+[Record time worked for a task or activity manually](../work-order-management/field-service-agent-record-time.md)
 
-[Knowledge articles on ServiceNow Agent](access-information-you-need-mobile.md#)
+[Knowledge articles on ServiceNow Agent](../work-order-management/access-information-you-need-mobile.md#)
 

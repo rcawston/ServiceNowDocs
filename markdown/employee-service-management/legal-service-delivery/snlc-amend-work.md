@@ -17,7 +17,7 @@ Review and work on an amendment request for an existing contract.
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../employee-service-management/assign-legal-request-1.md).
 
 Role required: sn\_lg\_cnt.contract\_fulfiller
 
@@ -165,7 +165,7 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
 
 12. Send the contract amendment document for signature.
 
-    For more information, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+    For more information, see [Signature workflow for a request](snlc-lsd-signature-workflow.md)
 
 
 ## Result
@@ -183,5 +183,5 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
 
     -   Attachment pane: View the certificate of completion for the contract and amendment requests if electronic signature was selected.
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](snlc-amend-req-landing.md)
 

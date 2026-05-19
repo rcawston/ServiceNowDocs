@@ -26,5 +26,5 @@ The Task attributes in Create physical connection form enables you to create a l
 |Physical Connection Model|Physical connection model where this physical connection is configured.|
 |Bandwidth|Total bandwidth capacity between starting and ending sites for this network connection.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

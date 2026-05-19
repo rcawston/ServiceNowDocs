@@ -28,7 +28,7 @@ Summarization for Request Management involves individual skills used to summariz
 -   Requested items
 -   Catalog tasks
 
-These Request Management summarization skills provide you with concise summaries generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+These Request Management summarization skills provide you with concise summaries generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
 ## Procedure
 

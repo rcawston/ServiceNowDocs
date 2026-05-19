@@ -63,7 +63,7 @@ Automated Root Cause Analysis
 
 </td><td>
 
-Select to set the automated root cause analysis. For more information, see [Automated root cause analysis](../concept/auto-rca.md).
+Select to set the automated root cause analysis. For more information, see [Automated root cause analysis](auto-rca.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Cluster Analysis
 
 </td><td>
 
-Select to set the cluster analysis. For more information, see [Cluster analysis](../concept/cluster-analysis.md).
+Select to set the cluster analysis. For more information, see [Cluster analysis](cluster-analysis.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Finding Definitions
 
 Select to set the rule-based improvement opportunities either from the Classic view or from the Finding Builder.
 
- For more information, see [Set improvement opportunities for process tables](../concept/impr-opp-table.md).
+ For more information, see [Set improvement opportunities for process tables](impr-opp-table.md).
 
 </td></tr><tr><td>
 
@@ -91,11 +91,11 @@ Automated Finding Definitions
 
 Select to set the automated improvement opportunities either from the Classic view or from the Finding Builder.
 
- For more information, see [Set improvement opportunities for process tables](../concept/impr-opp-table.md).
+ For more information, see [Set improvement opportunities for process tables](impr-opp-table.md).
 
 </td></tr></tbody>
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Creating process configuration](../concept/creating-process-config.md)
+**Parent Topic:**[Creating process configuration](creating-process-config.md)
 

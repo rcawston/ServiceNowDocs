@@ -48,7 +48,7 @@ Constraints
 -   12 languages have NLU intent support only
 -   Increased coverage is not typically scalable
 -   Not easily extensible
- For more information, see [Language support for NLU services](../reference/language-support-nlu-services.md).
+ For more information, see [Language support for NLU services](language-support-nlu-services.md).
 
 </td></tr></tbody>
 </table>-   **[Dynamic language detection and machine translation](multi-language-options-va.md)**
@@ -77,7 +77,7 @@ Constraints
 -   Limited extensibility
 -   5 languages have NLU intent and entity support
 -   12 languages have NLU intent support only
- For more information, see [Language support for NLU services](../reference/language-support-nlu-services.md).
+ For more information, see [Language support for NLU services](language-support-nlu-services.md).
 
 </td></tr></tbody>
 </table>    Dynamic machine translation for languages that are not supported on the ServiceNow platform provides coverage, but the quality of the user experience may be lower.
@@ -112,7 +112,7 @@ Constraints
 
 Depending on the needs of your user base, you may want a mix of solutions to maximize both user experience and access. For example, you may choose to professionally localize prioritized languages and dynamically translate others. For example, if 95% of your users speak six languages, you may decide to use a linguist to translate your topics into those six. You might then use Dynamic Translation for the remaining five percent.
 
-You can also enable locale support by [designating translated languages as fallback languages](../task/specify-fallback-language-nlu-prediction.md). For example, you can support Mexican Spanish users by designating Spanish as the fallback language for that locale.
+You can also enable locale support by [designating translated languages as fallback languages](specify-fallback-language-nlu-prediction.md). For example, you can support Mexican Spanish users by designating Spanish as the fallback language for that locale.
 
 In the following example, French, German, and Spanish are professionally localized, including the NLU models, intents, and entities. This localized content provides the best user experience. Polish is supported as a language on the ServiceNow platform, and when the plugin is installed and activated, it includes some translated content. In this imaginary scenario, the business decision was made to dynamically translate Polish content because it accounts for a smaller percentage of users. The quality of this experience may vary since NLU models are not localized. Instead, utterances are dynamically translated to English, and NLU topic discovery is run through the English model. Since Czech is currently not a supported language on the ServiceNow platform, dynamic machine translation is the only option. Admins can add Czech as a language and enable Dynamic Translation for the language in Virtual Agent.
 
@@ -130,17 +130,17 @@ Enable a combination of language detection and machine translation for Virtual A
 Enable a combination of language detection and machine translation for Virtual Agent to improve the chat experience for diverse users. You can designate fallback languages for locales or dynamically translate languages that are not professionally localized or are not supported in topic discovery.
 -   **[Prerequisites for using Dynamic Translation in Virtual Agent](prereq-using-dt-va.md)**  
 To enable dynamic machine translation, install ServiceNow® language plugins and Dynamic Translation plugins. Then configure Dynamic Translation for your instance.
--   **[Configure Dynamic Translation service integration credentials](../task/configure-translation-srvc-integration-credentials.md)**  
+-   **[Configure Dynamic Translation service integration credentials](configure-translation-srvc-integration-credentials.md)**  
 Configure the credential and connection for your translation service.
--   **[Activate your translation service in Dynamic Translation](../task/activate-dt-translation-service.md)**  
+-   **[Activate your translation service in Dynamic Translation](activate-dt-translation-service.md)**  
 Activate your preferred Dynamic Translation provider and mark it as the default service for both translation and language detection.
--   **[Enable Dynamic Translation for languages in Virtual Agent](../task/enable-dynamic-lang-detection.md)**  
+-   **[Enable Dynamic Translation for languages in Virtual Agent](enable-dynamic-lang-detection.md)**  
 Enable Dynamic Translation for one or more languages in Chat Settings for Virtual Agent.
--   **[Configure multilingual service for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md)**  
+-   **[Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md)**  
 Turn on multilingual service for user-entered text with native translation or Dynamic Translation in Now Assist applications.
--   **[Enable Dynamic Translation for an unsupported language](../task/enable-dt-unsupported-language.md)**  
+-   **[Enable Dynamic Translation for an unsupported language](enable-dt-unsupported-language.md)**  
 The ServiceNow® platform supports several languages, but you can enable dynamic machine translation for additional languages in Virtual Agent.
--   **[Specify a fallback language for locale-specific languages and NLU prediction](../task/specify-fallback-language-nlu-prediction.md)**  
+-   **[Specify a fallback language for locale-specific languages and NLU prediction](specify-fallback-language-nlu-prediction.md)**  
 Provide language locale support by specifying a fallback language for Virtual Agent to use for topics, keywords, and NLU prediction. For example, the ServiceNow® platform doesn't support Mexican Spanish \(mx-es\), but it does support Spanish \(es\), which you can designate as the fallback language for a better user experience.
 -   **[Localizing Virtual Agent conversations](localize-va-topic.md)**  
 The ServiceNow platform provides several methods for localizing Virtual Agent conversations, depending on your needs. Use the Localization Framework to manage all aspects of the translation process, whether you are using machine translation, a third-party provider, or both.

@@ -66,5 +66,5 @@ Each strategy is explained as follows:
 
 **Note:** The risk response workflow is not available for an object assessment.
 
-**Parent Topic:**[Advanced Risk Assessment](../../grc-risk/concept/advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
 

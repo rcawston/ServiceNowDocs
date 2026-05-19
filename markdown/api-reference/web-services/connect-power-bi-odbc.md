@@ -78,5 +78,5 @@ This connection enables you to query ServiceNow data directly without requiring 
 
 Power BI Desktop is now connected to your ServiceNow instance via the ODBC driver. You can create visualizations, reports, and dashboards using your ServiceNow data. The connection respects all ServiceNow security controls, including ACLs and role-based access restrictions.
 
-**Parent Topic:**[Integrate SQL API Drivers with external BI tools](../reference/configure-drivers-bi-tools.md)
+**Parent Topic:**[Integrate SQL API Drivers with external BI tools](configure-drivers-bi-tools.md)
 

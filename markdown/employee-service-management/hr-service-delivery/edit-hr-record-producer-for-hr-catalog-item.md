@@ -110,7 +110,7 @@ Expand help for all questions
 7.  Click **Update**.
 
 
-**Parent Topic:**[HR catalog item configuration](../concept/hr-catalog-item-configuration.md)
+**Parent Topic:**[HR catalog item configuration](hr-catalog-item-configuration.md)
 
 **Previous topic:**[Create an HR catalog item](create-hr-catalog-item.md)
 

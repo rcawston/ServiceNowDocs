@@ -15,7 +15,7 @@ breadcrumb: [Report types, Reporting, Reporting, dashboards, and Performance Ana
 
 Dials and speedometers provide a real-time count for an indicator. These charts cannot contain comparison or historical data. You can configure colors to display at a glance that values are within specified ranges.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 
 Report creators often use red to indicate unacceptable value ranges. A low value for monthly sales is worse than a high value, but a low value for incident resolution times is better than a high value. You can configure red for low monthly sales values and red for high incident resolution values.
 
@@ -28,7 +28,7 @@ Dials and speedometers also have different appearances:
 
 ![Solid dial report](../image/SolidGauge.png "Solid dial report")
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a dial or speedometer report
 
@@ -68,7 +68,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d197145e307">
 
@@ -111,7 +111,7 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Average**, **Sum**, or **Count Distinct**, to show a list of fields from the selected **Table**. Select a field to **Aggregate by** from this list. For example, if you select an integer field, such as **Priority**, the data is expressed as a decimal value number.
 
- If you choose **Average**,**Sum**, or **Count Distinct**, you may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](../task/t_AccessFieldExtendedTable.md#)
+ If you choose **Average**,**Sum**, or **Count Distinct**, you may further be able to aggregate on fields from extended tables. See [How to report on extended tables.](t_AccessFieldExtendedTable.md#)
 
  **Note:** For duration values, the unit of measurement displayed in the aggregation axis cannot be customized.
 

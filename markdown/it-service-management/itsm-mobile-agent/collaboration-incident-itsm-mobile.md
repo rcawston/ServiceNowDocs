@@ -15,22 +15,22 @@ breadcrumb: [My incidents, Managing incidents and tasks using My Work applet, IT
 
 Initiate and manage the collaboration for incident records from the ITSM Mobile Agent app.
 
--   **[Initiate a chat with the caller from an incident](../task/initiate-chat-incident-itsm-mobile.md)**  
+-   **[Initiate a chat with the caller from an incident](initiate-chat-incident-itsm-mobile.md)**  
 Initiate a chat with the caller from an incident to discuss about the resolution of an incident.
--   **[Initiate a chat with the assignment group from an incident](../task/initiate-chat-assignment-group-itsm-mobile.md)**  
+-   **[Initiate a chat with the assignment group from an incident](initiate-chat-assignment-group-itsm-mobile.md)**  
 Initiate a chat with the assignment group members from an incident to discuss about the resolution of an incident.
--   **[Initiate a conference call with the caller from an incident](../task/initiate-conf-call-inc-itsm-mobile.md)**  
+-   **[Initiate a conference call with the caller from an incident](initiate-conf-call-inc-itsm-mobile.md)**  
 Initiate a conference call from an incident to discuss about the resolution of an incident.
--   **[Add participants to a conference call from an incident](../task/add-participants-inc-call-itsm-mobile.md)**  
+-   **[Add participants to a conference call from an incident](add-participants-inc-call-itsm-mobile.md)**  
 Add participants to an active conference call from an incident to discuss about the resolution of an incident.
--   **[Join an active conference call from an incident](../task/join-call-inc-itsm-mobile.md)**  
+-   **[Join an active conference call from an incident](join-call-inc-itsm-mobile.md)**  
 You can join an active conference call from an incident to discuss about the resolution of an incident.
--   **[View active collaborations](../task/active-collaborations-inc-itsm-mobile.md)**  
+-   **[View active collaborations](active-collaborations-inc-itsm-mobile.md)**  
 As an incident manager, you can view all the active collaborations for the incidents.
--   **[View active and inactive participants in the conference call](../task/view-participants-inc-call-itsm-mobile.md)**  
+-   **[View active and inactive participants in the conference call](view-participants-inc-call-itsm-mobile.md)**  
 You can view the participant status in an active conference call.
--   **[End a conference call](../task/end-inc-call-itsm-mobile.md)**  
+-   **[End a conference call](end-inc-call-itsm-mobile.md)**  
 As a host or a user with the incident manager role, you can end the conference call.
 
-**Parent Topic:**[My incidents](../task/assigned-incidents-mobile.md)
+**Parent Topic:**[My incidents](assigned-incidents-mobile.md)
 

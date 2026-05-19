@@ -23,21 +23,21 @@ Use external user self-registration to on-board a large volume of external users
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/external-user-registration-plugin.md)
+[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](external-user-registration-plugin.md)
 
- [Understand how to Activate External Self-register.](../task/external-user-registration-plugin.md)
+ [Understand how to Activate External Self-register.](external-user-registration-plugin.md)
 
 </td></tr><tr><td>
 
-[Configure](../task/external-user-configuration.md)![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Configure](external-user-configuration.md)![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [Configure the Self-register.](../task/external-user-configuration.md)
+ [Configure the Self-register.](external-user-configuration.md)
 
 </td><td>
 
-[Enable![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../task/sp-ext-user-self-reg.md)
+[Enable![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](sp-ext-user-self-reg.md)
 
- [Know about the properties in Self-register.](../task/sp-ext-user-self-reg.md)
+ [Know about the properties in Self-register.](sp-ext-user-self-reg.md)
 
 </td></tr></tbody>
 </table>

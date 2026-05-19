@@ -35,6 +35,6 @@ Role required: admin
 
 5.  Create relationships to show health screening information on Agent Workspace.
 
-6.  [Customize the Consumer or Customer Service Portal](customize-csp-csm-portals.md) to display a link to the Health Verification form in the portal header menu.
+6.  [Customize the Consumer or Customer Service Portal](customer-self-service-and-omnichannel-engagement/customize-csp-csm-portals.md) to display a link to the Health Verification form in the portal header menu.
 
 

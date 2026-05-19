@@ -42,14 +42,14 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
     After an incident expense line is created, the allocation rule processes the expense line and generates an expense allocation linking the expense and amount to the caller's department. The expense is stored in the **Target** field on the Expense Allocation record.
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
 [Create an allocation rule](t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](c_CreateExpenseLinesAutomatically.md)
 
 [Create expense lines manually](t_CreateExpenseLinesManually.md)
 

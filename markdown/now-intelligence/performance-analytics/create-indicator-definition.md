@@ -17,13 +17,13 @@ You can create a new KPI Composer indicator definition directly from the relevan
 
 ## Before you begin
 
-You have an existing [KPI Composer project](../concept/kpi-composer-projects.md) with a complete draft of the [KPI tree](../concept/design-kpi-tree.md#) in the Analytics tab. You also need technical knowledge of Performance Analytics indicators.
+You have an existing [KPI Composer project](kpi-composer-projects.md) with a complete draft of the [KPI tree](design-kpi-tree.md#) in the Analytics tab. You also need technical knowledge of Performance Analytics indicators.
 
 Role required: sn\_kpi\_composer.admin or admin to link to a Performance Analytics indicator, sn\_kpi\_composer.user for other functionality. No roles are required for responsible users or users with edit access, except to link to a Performance Analytics indicator.
 
 ## About this task
 
-You can create an indicator definition for every artifact in your project, whether or not it is associated with a Performance Analytics widget. You cannot add more than one indicator definition for an artifact. However, if you link an artifact to a formula indicator, you automatically link it to all the [contributing indicators](../concept/performance-analytics-glossary.md#) in the formula.
+You can create an indicator definition for every artifact in your project, whether or not it is associated with a Performance Analytics widget. You cannot add more than one indicator definition for an artifact. However, if you link an artifact to a formula indicator, you automatically link it to all the [contributing indicators](performance-analytics-glossary.md#) in the formula.
 
 ## Procedure
 
@@ -122,16 +122,16 @@ In the following short animation, the user defines a formula indicator for the m
 
 ![Creating an indicator definition for a measurement](../image/kpi-comp-create-indicator-def.gif)
 
-**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](../concept/designing-pa-solution.md)
+**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
 
 **Related topics**  
 
 
-[Automated indicators](../concept/automated-indicators.md)
+[Automated indicators](automated-indicators.md)
 
-[Indicator sources](../concept/c_IndicatorSources.md#)
+[Indicator sources](c_IndicatorSources.md#)
 
-[Formula indicators](../concept/formula-indicators.md)
+[Formula indicators](formula-indicators.md)
 
 [Manual indicators](t_CreateAManualIndicator.md)
 
@@ -162,7 +162,7 @@ Role required: Same as creating an indicator definition
 
 ### Result
 
-After saving the changes, the artifact in the Data Definition tab shows the [contributing indicator](../concept/performance-analytics-glossary.md#) definitions under the main indicator definition, with a darker background.
+After saving the changes, the artifact in the Data Definition tab shows the [contributing indicator](performance-analytics-glossary.md#) definitions under the main indicator definition, with a darker background.
 
 ### Adding a contributing indicator
 

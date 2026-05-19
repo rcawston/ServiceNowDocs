@@ -24,12 +24,12 @@ If you enter a mail script inside `${{mail_script:script name}}` and the HTML sa
 
 -   **[JavaScript in emails](c_UseJavaScriptInEmails.md)**  
 Create mail scripts in **System Notifications** &gt; **Email** &gt; **Notification Email Script**, and refer to them by using `${mail_script:script name}` in the script field.
--   **[Mail script variables](../reference/r_MailScriptAPI.md)**  
+-   **[Mail script variables](r_MailScriptAPI.md)**  
 Certain variables are available when processing mail\_script scripts.
--   **[Example scripting for email notifications](../reference/r_ExScptEmlNtfn.md)**  
+-   **[Example scripting for email notifications](r_ExScptEmlNtfn.md)**  
 Examples of scripting for email notifications.
--   **[Useful attachment scripts](../../useful-scripts/reference/r_UsefulAttachmentScripts.md)**  
+-   **[Useful attachment scripts](r_UsefulAttachmentScripts.md)**  
 This is a searchable version of the Useful Attachment Scripts.
 
-**Parent Topic:**[Create an email notification](../../../administer/notification/task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 

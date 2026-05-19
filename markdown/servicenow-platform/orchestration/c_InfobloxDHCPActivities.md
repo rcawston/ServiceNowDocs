@@ -23,7 +23,7 @@ Use these activities to reserve, list, or delete IP addresses that are used for 
 
 The DHCP Reserve IP v4 Address Range activity reserves an IP address range for DHCP use.
 
-The DHCP activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DHCP activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DHCP**.
 
@@ -109,7 +109,7 @@ An automation can obtain an Infoblox DHCP object to delete from either of these 
 -   [DHCP List IP Reservations](c_InfobloxDHCPActivities.md#)
 -   [DHCP Reserve IPv4 Address Range](c_InfobloxDHCPActivities.md#)
 
-The DHCP activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DHCP activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DHCP**.
 
@@ -174,7 +174,7 @@ Defines the version of WAPI to use for the integration endpoints. The default va
 
 The DHCP List IP Reservations activity generates a list of all the DHCP range reservations on a specific InfoBlox server.
 
-The DHCP activities use the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
+The DHCP activities use the [REST web service activity template](t_CreateARESTWebServiceActivity.md#) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DHCP**.
 

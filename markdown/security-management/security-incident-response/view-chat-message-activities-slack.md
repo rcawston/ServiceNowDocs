@@ -21,7 +21,7 @@ Role required: sn\_msi.workspace\_admin
 
 ## About this task
 
-The chat message activity includes all the chat conversations occurred between the participants, different user groups. For more information, see [Manage Chat Channels communications using Slack](../concept/collab-tab.md#).
+The chat message activity includes all the chat conversations occurred between the participants, different user groups. For more information, see [Manage Chat Channels communications using Slack](collab-tab.md#).
 
-**Parent Topic:**[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)
+**Parent Topic:**[Configure Slack chat connector for major security incidents](configure-slack-chat-connector-msi.md)
 

@@ -49,7 +49,7 @@ The audit process identifies discrepancies by comparing discovered network data 
         -   Invalid Slot Assignments that breach model rules.
         The impact is the affected records are marked as failed in audit reports. Follow-On Tasks may invoke context-specific remediation subflows to realign inventory data with the actual network state.
 
-        **Note:** For more information, see [Configure attribute value discrepancy in CMDB 360](../task/configure-attribute-value-discrepancy-in-cmdb-360.md).
+        **Note:** For more information, see [Configure attribute value discrepancy in CMDB 360](configure-attribute-value-discrepancy-in-cmdb-360.md).
 
 -   **Missing in CMDB — entities discovered on the network but not present in inventory**
 
@@ -161,7 +161,7 @@ Equipment \(sn\_tsom\_core.audit. equipment\_tables\)
 **Related topics**  
 
 
-[Activate Telecom Discrepancy Identification and Reconciliation](../task/configure-telecom-reconciliation.md)
+[Activate Telecom Discrepancy Identification and Reconciliation](configure-telecom-reconciliation.md)
 
-[Run Telecom Discrepancy audit](../task/run-audits.md#)
+[Run Telecom Discrepancy audit](run-audits.md#)
 

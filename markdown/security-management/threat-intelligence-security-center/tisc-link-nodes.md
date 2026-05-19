@@ -52,5 +52,5 @@ Role required: sn\_sec\_tisc.analyst
 10. Select **Show details** to see the associated observables data.
 
 
-**Parent Topic:**[View details in Visualizer](../concept/objects-visualizer.md)
+**Parent Topic:**[View details in Visualizer](objects-visualizer.md)
 

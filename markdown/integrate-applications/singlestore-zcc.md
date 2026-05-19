@@ -18,5 +18,5 @@ A connection admin can create a connection to SingleStore and give data stewards
 **Related topics**  
 
 
-[Create a SingleStore connection](../task/create-singlestore-connection-zcc.md)
+[Create a SingleStore connection](create-singlestore-connection-zcc.md)
 

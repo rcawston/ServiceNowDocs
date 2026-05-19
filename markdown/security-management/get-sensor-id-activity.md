@@ -45,7 +45,7 @@ The output variables contain data that can be used in subsequent activities.
 |Array Element type|API variables.|
 |sensor\_detail|Description of the Carbon Black sensor in JSON format.|
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Isolate Host Flow](../task/secops-integration-cb-isolate-host-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Isolate Host Flow](secops-integration-cb-isolate-host-workflow.md)
 

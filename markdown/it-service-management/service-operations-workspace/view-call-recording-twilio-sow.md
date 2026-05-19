@@ -38,5 +38,5 @@ Role required: itil
 
 You can view the list of all the conference call recordings related to the incident record.
 
-**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](../concept/telephony-sow.md)
+**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](telephony-sow.md)
 

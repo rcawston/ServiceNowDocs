@@ -290,9 +290,9 @@ Role required: sn\_wsd\_core.workplace\_user \(workplace\_user\)
     -   Copy URL: Option to share the space location URL link and share it with your team members.
     -   Raise an Issue: Option to raise a workplace service request. This option is available in the More actions option only for a space that can be booked or reserved. In case if a space is already reserved or not available, then the Raise an issue option is available as a button in the space card.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Scan the QR code to reserve a space](scan-qr-code.md)
 
-**Next topic:**[Workplace Service Delivery for Mobile references](../concept/wsd-mobile-references.md)
+**Next topic:**[Workplace Service Delivery for Mobile references](wsd-mobile-references.md)
 

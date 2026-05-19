@@ -35,17 +35,17 @@ Strong universal process standards, data-driven process design, strict governanc
 
     Ensure that management keys and service account credentials are unique to each domain and are not shared. To set up cloud accounts and service accounts for multiple cloud providers, perform Day 1 Setup actions:
 
-    -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-aws-setup-day-1.md)
-    -   [Day 1 setup guide for Azure on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-azure-setup-guide.md)
-    -   [Day 1 setup guide for Google Cloud Connector on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-gcp-setup-day-1.md)
-    -   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](../../cloud-management-v2-setup/concept/cloud-mgt-vmware-setup-guide.md)
--   [Cloud API \(CAPI\)](../concept/cloud-management-api.md) and [Cloud scripts and cloud script templates](../concept/cloud-scripts-and-templates.md)
+    -   [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and Governance](cloud-mgt-aws-setup-day-1.md)
+    -   [Day 1 setup guide for Azure on Cloud Provisioning and Governance](cloud-mgt-azure-setup-guide.md)
+    -   [Day 1 setup guide for Google Cloud Connector on Cloud Provisioning and Governance](cloud-mgt-gcp-setup-day-1.md)
+    -   [Day 1 setup guide for VMware on Cloud Provisioning and Governance](cloud-mgt-vmware-setup-guide.md)
+-   [Cloud API \(CAPI\)](cloud-management-api.md) and [Cloud scripts and cloud script templates](cloud-scripts-and-templates.md)
 
     CAPI is not domain separated as, domain separation support in Cloud Provisioning and Governance. Since CAPI is set up at a global domain and shared across leaf domains, ensure that scripts do not contain hard-coded sensitive information such as account details, credentials, or names even in comments or annotations.
 
     CAPI enables you to integrate Cloud Provisioning and Governance with cloud providers using REST APIs. Cloud scripts are simple java scripts that use platform features. In the Cloud Provisioning and Governance application, script execution is divided into cloud scripts and cloud script templates. Use scripts in templates, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data. Cloud script templates are actual executables which are passed to target a virtual machine for execution. Create a cloud template first and then associate it with a cloud script.
 
--   [Cloud Discovery](../../discovery/concept/cloud-discovery-wizard.md)
+-   [Cloud Discovery](../discovery/cloud-discovery-wizard.md)
 
     Service Providers \(SPs\) use domain separation to segregate data for each customer. Users in a given domain have visibility only to the data in their own domains or in child domains. SPs typically control the top-level domain, which gives them visibility to data associated with all domains. Though domain separation support for Discovery is considered Level 2, there is no delegated administration to the child domains in Cloud Provisioning and Governance. The SPs must retain administrative control. As a SP, always run discovery from a leaf domain by logging in as or impersonating a domain administrator to discover your cloud resources.
 
@@ -53,25 +53,25 @@ Strong universal process standards, data-driven process design, strict governanc
 
     For more information see,
 
-    -   [Discovery Manager](../../discovery/concept/discovery-manager.md#)
-    -   [Running discoveries in your network](../../discovery/concept/running-discoveries.md)
-        -   [Microsoft Azure Cloud Discovery](../../discovery/concept/azure-cloud-discovery.md)
-        -   [VMware Cloud Discovery](../../discovery/concept/vmware-cloud-discovery.md)
-        -   [Google Cloud Platform Discovery](../../service-mapping/reference/google-gcp-discovery-pattern.md)
-        -   [IBM Cloud Discovery](../../discovery/concept/ibm-cloud-discovery.md)
+    -   [Discovery Manager](../discovery/discovery-manager.md#)
+    -   [Running discoveries in your network](../discovery/running-discoveries.md)
+        -   [Microsoft Azure Cloud Discovery](../discovery/azure-cloud-discovery.md)
+        -   [VMware Cloud Discovery](../discovery/vmware-cloud-discovery.md)
+        -   [Google Cloud Platform Discovery](../discovery/google-gcp-discovery-pattern.md)
+        -   [IBM Cloud Discovery](../discovery/ibm-cloud-discovery.md)
 -   Set up and configure event management to receive external events and generates alerts based on event and alert management rules. The visibility of events depends on the associated service account's domain. Only users belonging that domain can see the event details for processed events. Events that are not associated to a service account are visible to all domains.
 
     Monitor the health of business services and infrastructure using a single management console and respond appropriately to any issues that come up. Event Management provides intelligent event and alert analysis to ensure continuity of your business service performance. Event Management receives and processes events via the MID Server.
 
     For more information, see
 
-    -   [Exploring Event Management](../../event-management/concept/exploring-event-management.md)
-    -   [Event Management Setup](../../event-management/concept/c_EMConfiguration.md)
-        -   [AWS events-driven discovery](../../it-operations-management/concept/aws-events-driven-discovery.md)
-        -   [Configure the Microsoft Azure Alert service to auto-update the CMDB](../../it-operations-management/concept/microsoft-azure-alert-driven-discovery.md#)
-        -   [Configure the Google Cloud Logging service to auto-update the CMDB](../../it-operations-management/task/gcp-stackdriver-service.md)
-        -   [Configure the VMware Events service to auto-update the CMDB](../../it-operations-management/task/vmware-events-service-cloud-mgt.md)
--   The Cloud Provisioning and Governance application supports integration with continuous delivery solutions \(also known as configuration management\). Create an Ansible or Terraform configuration management provider and then run Discovery on the provider to find its resources. For more information, see [Support for continuous delivery \(configuration management\)](../../cloud-management-v2-user/concept/support-config-management-providers.md) and [Create a workload provider type](../task/create-workload-provider-type.md) for each new configuration management provider. This information appears in the order catalog form as management attributes that your users can select when provisioning a virtual resource through a configuration management provider.
+    -   [Exploring Event Management](../event-management/exploring-event-management.md)
+    -   [Event Management Setup](../event-management/c_EMConfiguration.md)
+        -   [AWS events-driven discovery](../discovery/aws-events-driven-discovery.md)
+        -   [Configure the Microsoft Azure Alert service to auto-update the CMDB](../discovery/microsoft-azure-alert-driven-discovery.md#)
+        -   [Configure the Google Cloud Logging service to auto-update the CMDB](../discovery/gcp-stackdriver-service.md)
+        -   [Configure the VMware Events service to auto-update the CMDB](../discovery/vmware-events-service-cloud-mgt.md)
+-   The Cloud Provisioning and Governance application supports integration with continuous delivery solutions \(also known as configuration management\). Create an Ansible or Terraform configuration management provider and then run Discovery on the provider to find its resources. For more information, see [Support for continuous delivery \(configuration management\)](support-config-management-providers.md) and [Create a workload provider type](create-workload-provider-type.md) for each new configuration management provider. This information appears in the order catalog form as management attributes that your users can select when provisioning a virtual resource through a configuration management provider.
 
 -   If you are creating catalogs based on terraform templates and sharing the catalog with multiple domains. Perform module listing \(config discovery\) in the global domain. The MID Server should be created in the global domain and should only be assigned with Terraform capability for its discovery. This allows SPs to share catalogs with multiple domains.
 
@@ -82,18 +82,18 @@ Strong universal process standards, data-driven process design, strict governanc
     Create a common terraform catalog and share it with multiple customers:
 
     -   Create MID Server in global domain as a global admin.
-    -   [Create a Terraform Open Source config provider](../task/setup-cpg-terraform-connector-for-terraform-open-source.md).
+    -   [Create a Terraform Open Source config provider](setup-cpg-terraform-connector-for-terraform-open-source.md).
 
         **Note:** Add only “Terraform” as the config provider.
 
-    -   [Create a catalog item based on a Terraform template](../task/catalog-item-terraform-template.md).
--   Cloud Provisioning and Governance supports using ServiceNow AI Platform with subflows. Rules are collections of conditions and actions. ​If all conditions of a rule evaluate to true, the system performs the actions. If any condition evaluates to false, the system does not perform the actions. Creating rules helps you track activities and more quickly respond to and resolve issues. Take advantage of the flow designer subflow to automate your Day 2 operations. Quickly write a subflow that communicates with a Cloud API or a particular resource. Use SSH, PowerShell, or a similar tool, to access and then extend the subflow capabilities. For more information, see [Day 2 operations using subflows](../concept/day-2-ops-using-workflows.md).
+    -   [Create a catalog item based on a Terraform template](catalog-item-terraform-template.md).
+-   Cloud Provisioning and Governance supports using ServiceNow AI Platform with subflows. Rules are collections of conditions and actions. ​If all conditions of a rule evaluate to true, the system performs the actions. If any condition evaluates to false, the system does not perform the actions. Creating rules helps you track activities and more quickly respond to and resolve issues. Take advantage of the flow designer subflow to automate your Day 2 operations. Quickly write a subflow that communicates with a Cloud API or a particular resource. Use SSH, PowerShell, or a similar tool, to access and then extend the subflow capabilities. For more information, see [Day 2 operations using subflows](day-2-ops-using-workflows.md).
 
--   [Budget-based notification and approval](../concept/cloud-dashboards.md#)
+-   [Budget-based notification and approval](cloud-dashboards.md#)
 
-    Domain Separation in Cloud Provisioning and Governance supports data separation of budgets. You can assign domain-specific budgets. Assign a budget for a group and a user within the group. When the user or group reaches the budget limit threshold, notifications are sent alerting them about it. For more information, see [Configure budgets](../concept/cloud-dashboards.md#)
+    Domain Separation in Cloud Provisioning and Governance supports data separation of budgets. You can assign domain-specific budgets. Assign a budget for a group and a user within the group. When the user or group reaches the budget limit threshold, notifications are sent alerting them about it. For more information, see [Configure budgets](cloud-dashboards.md#)
 
-    -   [Create Tags for cloud resources](../concept/cloud-tagging.md#)
+    -   [Create Tags for cloud resources](cloud-tagging.md#)
 
         Tags categorize cloud resources to provide richer and more detailed tracking and billing report data. Tag keys are not domain separated and are shown to users of other domains. Tag visibility depends on the associated CI domain or associated billing record domain. Tags that are not associated to any CI or billing record are visible to all domain admins. When a tag is created, it shows up in any new catalog that you create. The cloud admin has to choose the tags they want for their catalog.
 
@@ -103,8 +103,8 @@ Strong universal process standards, data-driven process design, strict governanc
 
         For more information on setting up billing schedules and downloading billing reports, see:
 
-        -   [Define the schedule for downloading AWS billing data](../../cloud-management-v2-setup/task/aws-bill-dwnld-sched-cloud-mgt.md)
-        -   [Define the schedule for downloading Azure billing data](../../cloud-management-v2-setup/task/azure-bill-dwnld-sched-cloud-mgt.md)
+        -   [Define the schedule for downloading AWS billing data](aws-bill-dwnld-sched-cloud-mgt.md)
+        -   [Define the schedule for downloading Azure billing data](azure-bill-dwnld-sched-cloud-mgt.md)
 
 ## Next Steps
 
@@ -120,12 +120,12 @@ new CMPDomainSeparationUtil() .impersonateUser(current.request.requested_for);
 
 ```
 
-For more information on performing Cloud Provisioning and Governance life-cycle operations that are available for each domain that you are managing in your instance, see [Cloud User Portal](../../cloud-management-v2-user/concept/cloudmgt-cloud-user-portal.md).
+For more information on performing Cloud Provisioning and Governance life-cycle operations that are available for each domain that you are managing in your instance, see [Cloud User Portal](cloudmgt-cloud-user-portal.md).
 
 **Related topics**  
 
 
-[Additional Cloud Provisioning and Governance setup on Day 2](../../cloud-management-v2-setup/concept/cloud-mgt-general-setup-day-2.md)
+[Additional Cloud Provisioning and Governance setup on Day 2](cloud-mgt-general-setup-day-2.md)
 
-[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 

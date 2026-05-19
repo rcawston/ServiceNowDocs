@@ -61,7 +61,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Roadmap milestone form](../reference/roadmap-milestone-form.md).
+    For field information, see [Roadmap milestone form](roadmap-milestone-form.md).
 
 4.  Select **Submit**.
 
@@ -87,5 +87,5 @@ If multiple milestones are scheduled close to each other, they might appear grou
 -   **[Update a roadmap milestone](update-roadmap-milestone-in-portfolio-planning.md)**  
 Update or delete the milestones that you added to your portfolio plan or free-form roadmap so that they reflect any change of plans.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

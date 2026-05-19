@@ -91,5 +91,5 @@ Integration Hub uses aliases to manage connection and credential information, an
 
 ## Set up the Microsoft Azure Virtual Network Spoke
 
-To execute the actions of the Microsoft Azure Virtual Network Spoke, you must first install and configure the Microsoft Azure Resource Management Spoke. No separate configuration of the Microsoft Azure Virtual Network Spoke is necessary. To view the procedure to set up the Microsoft Azure Resource Management Spoke, see [Set up the Microsoft Azure Resource Management spoke](../task/setup-res-mngmt.md#).
+To execute the actions of the Microsoft Azure Virtual Network Spoke, you must first install and configure the Microsoft Azure Resource Management Spoke. No separate configuration of the Microsoft Azure Virtual Network Spoke is necessary. To view the procedure to set up the Microsoft Azure Resource Management Spoke, see [Set up the Microsoft Azure Resource Management spoke](setup-res-mngmt.md#).
 

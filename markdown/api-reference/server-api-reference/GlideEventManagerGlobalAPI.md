@@ -15,9 +15,9 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideEventManager API provides methods to process events.
 
-For information on creating an event queue, see [Creating custom queues to process events](../../../../../script/useful-scripts/concept/useful-server-side-scripts.md#).
+For information on creating an event queue, see [Creating custom queues to process events](../scripts/useful-server-side-scripts.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideEventManager - GlideEventManager\(String queueName\)
 

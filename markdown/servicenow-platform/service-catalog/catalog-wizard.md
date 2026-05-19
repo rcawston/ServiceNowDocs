@@ -134,7 +134,7 @@ Label of the Review and submit step.
 </table>    For more information on fields, steps, sections, or questions on Service Catalog wizard, see the following:
 
     -   [Add a step, section, or question to a catalog item wizard](configure-the-catalog-builder-experience.md)
-    -   [Catalog Wizard form](../reference/service-catalog-wizard-forms-field.md)
+    -   [Catalog Wizard form](service-catalog-wizard-forms-field.md)
     ![Catalog Wizard form.](../image/wiztemplate_callouts.png)
 
     After you set up the field values, the resulting wizard with the steps, layout, labels, and other elements appear as follows:
@@ -162,5 +162,5 @@ Label of the Review and submit step.
 -   **[Create declarative actions for Service Catalog Wizards](declar-action-cw.md)**  
 Create and configure declarative actions to enable administrators to configure buttons \(wizard actions\) in Service Catalog Wizards.
 
-**Parent Topic:**[Service Catalog](../concept/service-catalog.md)
+**Parent Topic:**[Service Catalog](service-catalog.md)
 

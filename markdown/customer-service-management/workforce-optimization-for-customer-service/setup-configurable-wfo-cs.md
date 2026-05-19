@@ -15,21 +15,21 @@ breadcrumb: [Workforce Optimization for Customer Service, Customer Service Manag
 
 Enable Workforce Optimization for Customer Service and configure settings to use the Channel Management, Scheduling, Teams, and Coaching applications.
 
--   **[Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md)**  
+-   **[Activate Workforce Optimization for Customer Service](request-configurable-wfo-cs.md)**  
 Workforce Optimization for Customer Service solution is highly modular, offering a wide range of capabilities such as Channel Management, Scheduling, Coaching, and Teams applications in CSM Manager Workspace. The Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) plugin activates all other dependent plugins to enable users to the Channel Management, Scheduling, Coaching, and Teams applications in Workforce Optimization for Customer Service.
--   **[Components installed with Workforce Optimization for Customer Service](../reference/components-installed-configurable-wfo-cs.md)**  
+-   **[Components installed with Workforce Optimization for Customer Service](components-installed-configurable-wfo-cs.md)**  
 Several types of components are installed with activation of the CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) plugin, including user roles, key performance indicators \(KPIs\), scheduled jobs, properties, and tables.
--   **[Decouple Channel Management dependencies from WFO](../../customer-service-management/concept/decouple-channel-management-dependencies-from-wfo.md)**  
+-   **[Decouple Channel Management dependencies from WFO](decouple-channel-management-dependencies-from-wfo.md)**  
 Decouple Channel Management from core Workforce Optimization \(WFO\) modules to support modular deployment, enabling independent updates or scaling of Channel Management without impacting other workforce engagement.
--   **[Work Scheduler components in Workforce Optimization for Customer Service reference](../reference/work-scheduler-wfo-cs-reference.md)**  
+-   **[Work Scheduler components in Workforce Optimization for Customer Service reference](work-scheduler-wfo-cs-reference.md)**  
 Workforce Optimization for ITSM has properties to configure the Work scheduler default behavior.
 -   **[Domain separation in Workforce Optimization for Customer Service](domain-separation-configurable-wfo-cs.md)**  
 Domain separation is supported in Workforce Optimization for Customer Service. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation in Workforce Optimization for Customer Service is configured to apply to all features of the application. Separation of data is configured along with separation of logic and process.
--   **[Create Manager Workspace Landing Page](../task/create-configurable-csm-landing-page.md#)**  
+-   **[Create Manager Workspace Landing Page](create-configurable-csm-landing-page.md#)**  
 Create a landing page based on your business requirement.
--   **[Manager Workspace properties](../reference/manager-workspace-properties.md)**  
+-   **[Manager Workspace properties](manager-workspace-properties.md)**  
 Modify the Manager Workspace configuration by customizing the system properties to set the Alerts card limit and the widget refresh interval.
--   **[Configure filters for Manager Workspace](../task/configuring-filters-manager-configurable-workspace.md)**  
+-   **[Configure filters for Manager Workspace](configuring-filters-manager-configurable-workspace.md)**  
 Configure filters for scheduling and coaching applications and use the default filter for channel management to refine your search results.
 -   **[Setting up service channels and queues](setup-channels-queues-configurable-wfo-cs.md#)**  
 You can set up service channels, queues, and key performance indicators \(KPIs\) to route work items automatically to agents based on an agent's availability, capacity, and skills.

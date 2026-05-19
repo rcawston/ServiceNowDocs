@@ -50,7 +50,7 @@ The **Check exceptions** option is available for all invoices that are in **Exce
     -   If no exceptions are found on the invoice, the status of the invoice changes to No exceptions found.
     -   If exceptions are found on the invoice, the status of the invoice remains as Exceptions found.
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

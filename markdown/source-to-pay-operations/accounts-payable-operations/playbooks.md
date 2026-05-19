@@ -28,7 +28,7 @@ For more information about the workflow of playbooks, see [Process Automation De
 
 -   **[View the Playbook activities](how-playbook-works.md)**  
 Playbooks in Accounts Payable Operations displays step by step process involved in processing an invoice processing case through activity views.
--   **[Using Playbook in Accounts Payable Operations](../task/how-to-use-playbook.md)**  
+-   **[Using Playbook in Accounts Payable Operations](how-to-use-playbook.md)**  
 Configure a playbook and visualize the step-by-step actions performed by an Accounts Payable specialist while processing an invoice.
 -   **[Document Intelligence processing with playbook](use-di-with-playbook.md)**  
 Invoices ingested through Document Intelligence require Accounts Payable specialists or admins to perform manual actions depending on Document Intelligence availability and invoice processing using Document Intelligence.
@@ -38,7 +38,7 @@ Invoices ingested through Document Intelligence require Accounts Payable special
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -48,11 +48,11 @@ Invoices ingested through Document Intelligence require Accounts Payable special
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
 [Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Interaction management in Accounts Payable Operations](interaction-record.md)
 

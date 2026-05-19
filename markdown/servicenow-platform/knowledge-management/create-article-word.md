@@ -76,7 +76,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they are associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it is automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they are associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it is automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ The date this knowledge article expires. Articles do not appear in search result
 
  An article author or editor can select whether to keep or change the default **Valid to** date.
 
- On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are about to expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](../concept/email-notifications-km.md).
+ On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are about to expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](email-notifications-km.md).
 
  **Note:** If the system date format or user preferences are set to use the `yy` year format, you might face issues when the **Valid to** date is set to the default date. Contact your system administrator or modify the user preferences to use a date format with the `yyyy` year format. For more information, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md) and [Personalize the system date format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_PersonalizeTheSystemDateFormat.md) topics.
 
@@ -153,7 +153,7 @@ Future date when the knowledge article will be published automatically. For more
     -   **Knowledge - Approval Publish**: The knowledge article is published on approval completion unless it is scheduled to be published at a later date.
     For more information, see [Schedule a knowledge article for publishing in Microsoft Word](schedule-article-publishing-word.md).
 
-    If the article versioning feature is enabled, the version number of the knowledge article is updated. For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+    If the article versioning feature is enabled, the version number of the knowledge article is updated. For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 
 ## What to do next

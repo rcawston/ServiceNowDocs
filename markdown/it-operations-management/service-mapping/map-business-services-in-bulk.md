@@ -144,7 +144,7 @@ If the discovery based on Predictive Intelligence is enabled, the newly mapped a
 -   **[Add CIs to multiple application services using connection rules](add-cis-connection-rules-multiple.md)**  
 Create rules for automatically adding traffic-based connections and the CIs they lead to in discovered service instances. Create rules that add CIs to multiple application services.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -163,7 +163,7 @@ Create rules for automatically adding traffic-based connections and the CIs they
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

@@ -57,5 +57,5 @@ Select expense type from the list.-   Select **Capex** to allocate your budget t
 -   Select Opex to allocate your budget to operational expenses.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

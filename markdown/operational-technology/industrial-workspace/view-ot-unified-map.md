@@ -63,5 +63,5 @@ You can now view the OT Unified Map. On the Unified Map, you can also see the hi
 -   Active OT Alerts
 -   OT Vulnerable Items
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

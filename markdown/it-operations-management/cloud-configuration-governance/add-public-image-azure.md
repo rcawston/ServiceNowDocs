@@ -122,5 +122,5 @@ Vendor
     This step also creates a relationship between the public image and the logical datacenter \(LDC\) in the CMDB.
 
 
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](cloud-resource-profiles.md)
 

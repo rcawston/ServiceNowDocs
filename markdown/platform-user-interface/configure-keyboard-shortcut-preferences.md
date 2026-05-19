@@ -17,7 +17,7 @@ Determine which shortcut key pairings users can use to access elements in an ins
 
 Role required: admin
 
-For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md).
+For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](r_KeyboardShortcuts.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For a list of available keyboard shortcuts, see [Core UI keyboard shortcuts](../
 4.  Select **Update**.
 
 
-**Parent Topic:**[Core UI keyboard shortcuts](../reference/r_KeyboardShortcuts.md)
+**Parent Topic:**[Core UI keyboard shortcuts](r_KeyboardShortcuts.md)
 

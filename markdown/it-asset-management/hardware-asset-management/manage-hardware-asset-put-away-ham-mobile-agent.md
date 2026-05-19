@@ -16,7 +16,7 @@ breadcrumb: [Manage hardware asset tasks using the Mobile Agent application, Usi
 
 Scan and put away the assets from the receiving bay in the designated aisle-space using the ServiceNow Agent application.
 
--   **[Put away assets using the ServiceNow Agent application](../task/perform-put-away-mobile-agent-ham.md)**  
+-   **[Put away assets using the ServiceNow Agent application](perform-put-away-mobile-agent-ham.md)**  
 Scan available assets in the inventory and perform an asset put away task in the designated scanned drop-off location.
 
 **Parent Topic:**[Manage hardware asset tasks using the Mobile Agent application](manage-hardware-asset-tasks-mobile-agent.md)

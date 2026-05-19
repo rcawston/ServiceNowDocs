@@ -42,5 +42,5 @@ When a draft of the document is ready, submit the draft for review. If the docum
     The document name and parameters are changed to read-only. The document state is set to Active.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

@@ -160,5 +160,5 @@ Shows the average duration of individual assignments for achieved task SLAs comp
  This report is based on SLA Breakdown data and shows data only for SLA definitions that are linked to an [SLA Breakdown definition](sla-breakdown-definition.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy: Platform Analytics Solutions for Service Level Management](../../../use/dashboards/application-content-packs/service-level-mgmt-content-pack.md)
+</table>**Parent Topic:**[Legacy: Platform Analytics Solutions for Service Level Management](service-level-mgmt-content-pack.md)
 

@@ -22,7 +22,7 @@ Domain separation is unsupported for CMDB Coverage. Domain separation enables yo
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[CMDB Coverage reference](../concept/cmdb-coverage-reference.md)
+**Parent Topic:**[CMDB Coverage reference](cmdb-coverage-reference.md)
 
 **Related topics**  
 

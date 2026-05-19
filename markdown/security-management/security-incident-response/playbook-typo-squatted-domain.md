@@ -19,9 +19,9 @@ The Typo Squatted Domains are reported to the Security Operations Team from diff
 
 The workflow is created based on an existing playbook, which provides a consistent and efficient approach for incident investigation. Each decision point in the playbook has been converted into an outcome-driven task and the flow changes direction based on the outcome of such tasks.
 
--   **[Set up the Typo Squatted Domain playbook](../task/playbook-setup-typo-squatted-domain.md)**  
+-   **[Set up the Typo Squatted Domain playbook](playbook-setup-typo-squatted-domain.md)**  
 Use the following steps to set up the Typo Squatted Domain playbook.
--   **[Use the Typo Squatted Domain playbook](../task/playbook-using-typo-squatted-domain.md)**  
+-   **[Use the Typo Squatted Domain playbook](playbook-using-typo-squatted-domain.md)**  
 Use this playbook to investigate misspelled domains and collaborating with the organization’s legal department for take-downs. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the Typo Squatted Domain playbook.
 
 **Parent Topic:**[Flow-based Playbooks](playbook-flow-based.md)

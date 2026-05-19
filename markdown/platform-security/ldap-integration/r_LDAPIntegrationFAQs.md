@@ -43,7 +43,7 @@ If an entry were to be deleted, the entire history would also get deleted, and a
 
 ## Security
 
-The connection is made from a single machine using a fixed IP address through a specific port on your firewall. Authentication is done with a read-only LDAP account of your choosing. You can use standard LDAP, or load the public side of an [SSL certificate installed on your directory](../task/t_UploadTheX509SSLCertificate.md), in which case we can use LDAPS. To add another layer of security, we also offer the option of a point-to-point IPSEC VPN tunnel. Speak to your account manager for details and pricing.
+The connection is made from a single machine using a fixed IP address through a specific port on your firewall. Authentication is done with a read-only LDAP account of your choosing. You can use standard LDAP, or load the public side of an [SSL certificate installed on your directory](t_UploadTheX509SSLCertificate.md), in which case we can use LDAPS. To add another layer of security, we also offer the option of a point-to-point IPSEC VPN tunnel. Speak to your account manager for details and pricing.
 
 |Connection|Description|
 |----------|-----------|
@@ -51,7 +51,7 @@ The connection is made from a single machine using a fixed IP address through a 
 |LDAPS|To establish an encrypted LDAPS connection, load the public side of your LDAP server's SSL certificate. The integration uses the certificate to encrypt all communication between the LDAP server and the instance.|
 |VPN|To secure the LDAP server with an encrypted point-to-point IPSEC VPN tunnel, speak to your account manager for details and pricing.|
 
-Another security aspect to consider is the data shared in an LDAP integration. To limit the data exposed to your instance, specify attributes in your transform map. For more information, see [LDAP transform maps](../concept/c_LDAPTransformMaps.md).
+Another security aspect to consider is the data shared in an LDAP integration. To limit the data exposed to your instance, specify attributes in your transform map. For more information, see [LDAP transform maps](c_LDAPTransformMaps.md).
 
 ## Importing LDAP data to the instance
 

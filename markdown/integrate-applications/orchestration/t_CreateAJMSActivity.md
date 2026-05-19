@@ -46,7 +46,7 @@ The JMS activity supports third party JMS providers whose JMS client application
 
     This action creates a custom activity using a template.
 
-4.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JMS Execution Command.
+4.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JMS Execution Command.
 
 <table id="choicetable_py3_zmj_4y"><tbody><tr><td id="d181711e164">
 
@@ -148,7 +148,7 @@ MID Server to use, by capabilities.
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## Create a JMS connection for an Orchestration activity
 

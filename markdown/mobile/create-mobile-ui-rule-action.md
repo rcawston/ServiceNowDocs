@@ -171,11 +171,11 @@ Use this value to set a background color, font color, and text decorator icon. T
 }
 ```
 
- You can also use color variables to change theming in your mobile UI rules. For details see [Color variable support for UI rules](../reference/color-var-ui-rule.md).
+ You can also use color variables to change theming in your mobile UI rules. For details see [Color variable support for UI rules](color-var-ui-rule.md).
 
  **Note:**
 
--   `IconCode` must be replaced with a valid icon code. For a list of icon codes, see [Mobile icons](../reference/sg-mobile-icon.md)
+-   `IconCode` must be replaced with a valid icon code. For a list of icon codes, see [Mobile icons](sg-mobile-icon.md)
 -   Use a JSON validator when copying and pasting JSON code from a topic, to make sure all code is correctly applied.
 
 

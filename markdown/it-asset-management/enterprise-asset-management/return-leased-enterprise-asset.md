@@ -422,5 +422,5 @@ Notes about the task that are visible to all users within your organization.
 
 After you successfully return the leased enterprise asset, the **State** and **Substate** fields change to **Retired** and **Lease Return** in the corresponding asset record.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](managing-expiring-contracts-leased-assets.md)
 

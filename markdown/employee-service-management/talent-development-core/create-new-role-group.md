@@ -107,7 +107,7 @@ Actions
 
 The new role group is opened in form view starting with the Skills matrix. You can see all the skills and role levels related to the role group. You can add more skills to the role group after it is created if necessary. For more information, see [Add more skills to a role group](adding-skills-with-skills-matrix.md).
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](job-architecture-working.md)
 
 **Related topics**  
 

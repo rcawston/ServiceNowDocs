@@ -45,5 +45,5 @@ Only validated MID Servers can accept connections from agents.
     The values in the **Number of agents** column for any affected MID Server will show a change if any agents were redistributed.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

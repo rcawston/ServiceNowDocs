@@ -21,7 +21,7 @@ Role required: flow\_designer or admin
 
 ## About this task
 
-Testing a flow bypasses the flow trigger conditions to run it with the test data you provide. For example, testing a flow with a record **Created** trigger causes the system to act as if the selected record was created. For a list of data pills available by trigger type, see [Workflow Studio flow trigger types](../reference/flow-triggers.md).
+Testing a flow bypasses the flow trigger conditions to run it with the test data you provide. For example, testing a flow with a record **Created** trigger causes the system to act as if the selected record was created. For a list of data pills available by trigger type, see [Workflow Studio flow trigger types](flow-triggers.md).
 
 **Note:** Because testing a flow creates or changes records on the instance, flow designers should always test flows on a non-production instance containing relevant demonstration data.
 
@@ -66,7 +66,7 @@ Testing a flow bypasses the flow trigger conditions to run it with the test data
 
 ## What to do next
 
-Review the [Flow execution details](../concept/flow-execution-details.md).
+Review the [Flow execution details](flow-execution-details.md).
 
 **Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
 

@@ -19,7 +19,7 @@ Create an example action to configure and run as an activity from Playbooks.
 
 Role required:
 
--   This task requires some knowledge of creating flows in Workflow Studio environment. For more information, see [Building flows](../../flow-designer/concept/flows.md).
+-   This task requires some knowledge of creating flows in Workflow Studio environment. For more information, see [Building flows](flows.md).
 -   This task requires some knowledge of server-side scripting. For more information, see [Server-side scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md).
 -   admin
 
@@ -116,12 +116,12 @@ You can now add your custom Workflow Studio action to an automation plan for you
 
 Add your custom action to an automation plan when you [Create an activity definition](create-activity-definition.md).
 
-**Parent Topic:**[Activity definitions](../concept/activity-definitions.md)
+**Parent Topic:**[Activity definitions](activity-definitions.md)
 
 **Related topics**  
 
 
 [Create an activity definition](create-activity-definition.md)
 
-[UI Layouts](../concept/experience-types.md)
+[UI Layouts](experience-types.md)
 

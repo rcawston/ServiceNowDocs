@@ -40,7 +40,7 @@ The IT Service Management integration with Microsoft Teams application includes 
 
 You must perform the following activities to integrate IT Service Management with Microsoft Teams in your ServiceNow instance:
 
-1.  [Install IT Service Management integration with Microsoft Teams application](../task/install-sn-ms-teams-plugin.md)
+1.  [Install IT Service Management integration with Microsoft Teams application](install-sn-ms-teams-plugin.md)
 2.  [Setting up the ServiceNow instance for Microsoft Teams integration](setup-tenants.md)
 
 To configure the IT Service Management integration with Microsoft Teams in your ServiceNow instance, see [Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md).

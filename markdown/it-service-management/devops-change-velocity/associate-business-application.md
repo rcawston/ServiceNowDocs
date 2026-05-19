@@ -34,5 +34,5 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
     An AppTrust application is created in JFrog with the same name as the business application.
 
 
-**Parent Topic:**[Integration with JFrog AppTrust application](../concept/integration-with-jfrog-apptrust-application.md)
+**Parent Topic:**[Integration with JFrog AppTrust application](integration-with-jfrog-apptrust-application.md)
 

@@ -17,7 +17,7 @@ Create a telephone number to add that number to an area or to a region by using 
 
 ## Before you begin
 
--   Ensure that the Telecommunications Network Inventory application includes all the required components of your telephone number. Otherwise, see [Create the components of a telephone number](../concept/create_components_of_a_telephone_number.md).
+-   Ensure that the Telecommunications Network Inventory application includes all the required components of your telephone number. Otherwise, see [Create the components of a telephone number](create_components_of_a_telephone_number.md).
 -   Role required: sn\_inv\_num\_mgmt.inventory\_number\_manager
 
 ## About this task
@@ -61,7 +61,7 @@ Portion of a telephone number that uniquely identifies an individual telephone l
  **Note:** If the provided line number isn’t in a series of numbers, multiple number allocations are created.
 
 </td></tr></tbody>
-</table>    To learn about the other fields, see [Inventory number allocation fields](../reference/inventory-number-allocation-fields.md).
+</table>    To learn about the other fields, see [Inventory number allocation fields](inventory-number-allocation-fields.md).
 
 5.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
@@ -74,5 +74,5 @@ Portion of a telephone number that uniquely identifies an individual telephone l
 
 You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create a telephone infrastructure](../concept/telephone_block_telephone_number_and_telephone_number.md)
+**Parent Topic:**[Create a telephone infrastructure](telephone_block_telephone_number_and_telephone_number.md)
 

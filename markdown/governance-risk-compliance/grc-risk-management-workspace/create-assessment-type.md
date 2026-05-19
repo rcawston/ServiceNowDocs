@@ -113,5 +113,5 @@ Additional user roles that can view the results and access records associated wi
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Assess risks](../concept/assess-risk-old-way.md)
+**Parent Topic:**[Assess risks](assess-risk-old-way.md)
 

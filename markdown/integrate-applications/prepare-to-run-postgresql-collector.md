@@ -69,5 +69,5 @@ Role required: admin
     See the [AWS IAM authentication documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.html) for setup instructions.
 
 
-**Parent Topic:**[PostgreSQL metadata collector](../concept/postgresql-metadata-collector.md)
+**Parent Topic:**[PostgreSQL metadata collector](postgresql-metadata-collector.md)
 

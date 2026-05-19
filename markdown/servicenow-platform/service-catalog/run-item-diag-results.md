@@ -39,10 +39,10 @@ This report runs every weekend on all catalog items of all types.
     -   The higher the score, the more is the catalog item deviating from ServiceNow recommended practices.
 4.  Click the score of the required catalog item.
 
-    Diagnostic results are displayed for the catalog item with violated rules. For information on default diagnostic rules per ServiceNow recommended practices, see [Item diagnostic report](../concept/c_ItemDiagnostic.md).
+    Diagnostic results are displayed for the catalog item with violated rules. For information on default diagnostic rules per ServiceNow recommended practices, see [Item diagnostic report](c_ItemDiagnostic.md).
 
 5.  To understand details of each violated rule, click the **Count** value for that rule.
 
 
-**Parent Topic:**[Item diagnostic report](../concept/c_ItemDiagnostic.md)
+**Parent Topic:**[Item diagnostic report](c_ItemDiagnostic.md)
 

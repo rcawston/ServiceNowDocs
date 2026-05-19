@@ -79,5 +79,5 @@ If the entity does not belong to an entity type such as Facilities, People, Supp
 
 ## Support for main node configuration in Data Relationships Framework
 
-For information on the Data Relationships Framework and main node configuration, see [Data Relationships Framework](../../grc-common/concept/data-relationship-framework.md) and [Create a main node configuration record](../../grc-common/task/create-a-main-node-config-record.md).
+For information on the Data Relationships Framework and main node configuration, see [Data Relationships Framework](data-relationship-framework.md) and [Create a main node configuration record](create-a-main-node-config-record.md).
 

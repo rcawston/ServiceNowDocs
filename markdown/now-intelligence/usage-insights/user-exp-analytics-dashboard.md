@@ -17,7 +17,7 @@ Understand how to navigate the Usage Insights application, including the **All A
 
 Users with any Usage Insights viewer role can access the application by navigating to **All** &gt; **Platform Analytics** &gt; **Usage Insights**.
 
-Different users have different rights and privileges in the Usage Insights application. For more information, see [Roles installed with Usage Insights](../reference/components-installed-user-exp-analytics.md).
+Different users have different rights and privileges in the Usage Insights application. For more information, see [Roles installed with Usage Insights](components-installed-user-exp-analytics.md).
 
 ## All Applications view
 
@@ -112,7 +112,7 @@ Filters
 
 </td><td>
 
-Default filters you can use to limit the data, including Date Range, User type, and location. Use the **Add Filter** option to add more filters to the page. For more information, see [Filter data in Usage Insights](../task/filter-user-list.md).
+Default filters you can use to limit the data, including Date Range, User type, and location. Use the **Add Filter** option to add more filters to the page. For more information, see [Filter data in Usage Insights](filter-user-list.md).
 
 </td></tr><tr><td>
 
@@ -157,5 +157,5 @@ List of pages with the most views and most sessions. Select any entry in the lis
 -   If a country’s tracking consent policy is set to **Disabled**, user metrics are not tracked.
 -   The sampled data represents 5-10% of the total data that is collected in real time.
 
-**Parent Topic:**[Exploring Usage Insights](../content-framework/concept/exploring-user-exp-analytics.md)
+**Parent Topic:**[Exploring Usage Insights](exploring-user-exp-analytics.md)
 

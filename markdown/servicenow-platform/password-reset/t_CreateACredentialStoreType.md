@@ -140,13 +140,13 @@ When selected, notifies the user to change the password when the user signs in f
     -   The workflows are available only if you have upgraded from the previous releases.
     |Field|Description|
     |-----|-----------|
-    |Password Reset workflow|Defines the credential store processing. Password Reset workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more information about how to create a workflow, see [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md).|
-    |Connection test workflow|Defines how to test the connection. Connection test workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md).|
-    |Get user lock state workflow|Defines how to get the user lock state. Get user lock state workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more on how to create a workflow, see [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md).|
-    |Unlock user workflow|Defines how to unlock a user. Unlock user workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](../reference/r_InstalledWithPasswordReset.md).|
+    |Password Reset workflow|Defines the credential store processing. Password Reset workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more information about how to create a workflow, see [Create a workflow](../legacy-workflow/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](r_InstalledWithPasswordReset.md).|
+    |Connection test workflow|Defines how to test the connection. Connection test workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](r_InstalledWithPasswordReset.md).|
+    |Get user lock state workflow|Defines how to get the user lock state. Get user lock state workflows are available to use as a model. Provide scripts for each of the activities defined for the subflow. For more on how to create a workflow, see [Create a workflow](../legacy-workflow/t_CreateAWorkflow.md). For installed workflows, see [Installed with Password Reset](r_InstalledWithPasswordReset.md).|
+    |Unlock user workflow|Defines how to unlock a user. Unlock user workflows are available to use as a model. If you create a connection test subflow, provide scripts for each of the activities defined for the subflow. For installed workflows, see [Installed with Password Reset](r_InstalledWithPasswordReset.md).|
 
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

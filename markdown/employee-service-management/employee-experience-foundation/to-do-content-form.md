@@ -42,7 +42,7 @@ Defines the kind of to-do link. -   Button Complete: Employee selects a button t
 -   View Link: Employee selects a link to complete the task.
 -   E-Signature: Requires an e-signature to complete to task.
 
- **Note:** For more information, see [Add or modify content type for Content Publishing](../task/ecpro-manage-content-types.md).
+ **Note:** For more information, see [Add or modify content type for Content Publishing](ecpro-manage-content-types.md).
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Block content
 
 The block content for the to-do.Appears when you check **Use block content**.
 
-**Note:** For more information, see [Add or modify block content](../task/ecpro-manage-block-content.md).
+**Note:** For more information, see [Add or modify block content](ecpro-manage-block-content.md).
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ The video link you want an employee to click.Appears when you select **Play Vide
 
  Define video links in Link Content.
 
-**Note:** For more information, see [Add or modify block content](../task/ecpro-manage-block-content.md).
+**Note:** For more information, see [Add or modify block content](ecpro-manage-block-content.md).
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Link
 
 The link you want an employee to click.Appears when **View Link** is selected from **Content type**.
 
- Define links in Link Content. For more information, see [Add or modify block content](../task/ecpro-manage-block-content.md).
+ Define links in Link Content. For more information, see [Add or modify block content](ecpro-manage-block-content.md).
 
 **Note:** Depending on your configurations or extensions, your link may open in a new window.
 
@@ -128,9 +128,9 @@ Area to provide detailed information about the task. Use the editing tools to en
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -140,13 +140,13 @@ Area to provide detailed information about the task. Use the editing tools to en
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

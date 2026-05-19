@@ -17,7 +17,7 @@ Work on a legal matter assigned to you to conduct legal investigations and resol
 
 ## Before you begin
 
-The practice area lead or the group manager would have [assigned the legal matter to you](../../legal-matter-management/task/assign-legal-matter.md) to work on.
+The practice area lead or the group manager would have [assigned the legal matter to you](../legal-matter-management/assign-legal-matter.md) to work on.
 
 Role required: sn\_lg\_investigate.fulfiller
 
@@ -43,10 +43,10 @@ Role required: sn\_lg\_investigate.fulfiller
 
         **Note:** For a legal investigation matter, add tasks of the following types:
 
-        -   **Documentation**: Store documents that you collected as part of the investigations in the legal matter. You can also assign the task of collecting investigation documentation to another user. For detailed instructions, see [Add a task in the legal matter](../../legal-matter-management/task/add-tasks-to-legal-matter.md).
+        -   **Documentation**: Store documents that you collected as part of the investigations in the legal matter. You can also assign the task of collecting investigation documentation to another user. For detailed instructions, see [Add a task in the legal matter](../legal-matter-management/add-tasks-to-legal-matter.md).
         -   **Interview**: Conduct interviews with the involved parties, and as needed, include other users on the interview panel. For detailed instructions on adding interviews, see [Add an interview task to a legal matter](add-interview-matter-task.md).
-        -   **Recommended Actions**: Based on the findings of the investigations, provide recommendations for the involved parties. For detailed instructions on adding recommended actions, see [Add a recommended actions task to a legal matter](add-recommended-action-matter-task-1.md).
-    -   [Perform other general tasks on the legal matter](../../legal-matter-management/task/work-on-legal-matter-1.md).
-7.  [Close the legal matter](../../legal-matter-management/task/close-legal-matter.md) or [transfer the legal matter](../../legal-request-management/task/transfer-legal-request-universal-request.md) based on the requirements.
+        -   **Recommended Actions**: Based on the findings of the investigations, provide recommendations for the involved parties. For detailed instructions on adding recommended actions, see [Add a recommended actions task to a legal matter](../employee-service-management/add-recommended-action-matter-task-1.md).
+    -   [Perform other general tasks on the legal matter](../employee-service-management/work-on-legal-matter-1.md).
+7.  [Close the legal matter](../legal-matter-management/close-legal-matter.md) or [transfer the legal matter](../legal-service-delivery/transfer-legal-request-universal-request.md) based on the requirements.
 
 

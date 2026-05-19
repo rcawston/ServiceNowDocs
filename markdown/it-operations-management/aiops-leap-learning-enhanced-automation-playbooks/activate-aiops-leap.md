@@ -56,7 +56,7 @@ Steps
 </td></tr></tbody>
 </table>2.  In the LEAP installer input section, enter the details for LEAP to run scans on existing records, and select **Save and continue**.
 
-    For details on installer fields, see [LEAP Installer fields](../reference/aiops-leap-installation-fields.md)
+    For details on installer fields, see [LEAP Installer fields](aiops-leap-installation-fields.md)
 
 3.  In the Define access section, select the role to whom you want to provide access to LEAP skills.
 

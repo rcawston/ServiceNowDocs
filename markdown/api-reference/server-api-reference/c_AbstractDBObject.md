@@ -17,13 +17,13 @@ The AbstractDBObject script include provides common methods for classes based on
 
 Use this script include as a base class to create your own database object class.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AbstractDBObject - isValid\(\)
 
 Determines if the current database record is valid.
 
-See also [IPService - Global](../../IPService/concept/c_IPServiceAPI.md#).
+See also [IPService - Global](c_IPServiceAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

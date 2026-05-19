@@ -82,12 +82,12 @@ The date and time to activate the plugin.
     For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
 
 
-**Parent Topic:**[ServiceNow plugins](../concept/c_ServiceNowPlugins.md)
+**Parent Topic:**[ServiceNow plugins](c_ServiceNowPlugins.md)
 
 **Related topics**  
 
 
 [Activate a plugin](t_ActivateAPlugin.md)
 
-[List of plugins \(Australia\)](../reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](list-of-plugins.md#)
 

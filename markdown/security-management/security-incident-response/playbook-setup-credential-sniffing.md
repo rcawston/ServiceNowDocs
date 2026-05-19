@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Credential Sniffing playbook](../../secops-analyst-workspace/image/playbook-credential-sniff.png "Credential Sniffing Playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for Credential Sniffing](../concept/playbook-credential-sniffing.md)
+**Parent Topic:**[Playbook for Credential Sniffing](playbook-credential-sniffing.md)
 

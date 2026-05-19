@@ -35,7 +35,7 @@ Use the **Flows** tab in Table Builder to search and filter a list of flows that
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -109,7 +109,7 @@ Add flows that are triggered when a table record is updated, created, or both up
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -270,7 +270,7 @@ Edit flows that are triggered when table records that you select are updated, cr
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -319,7 +319,7 @@ Delete a record-based flow by using the **Flows** tab in Table Builder.
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -350,7 +350,7 @@ Create a new record-based flow from an existing flow by using the **Flows** tab 
 -   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](form-builder-domain-separation.md).
 -   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](fb-application-scope.md).
 
-Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_forms, personalize\_dictionary, and flow\_designer permissions \(or relevant AES user role and delegated developer permissions\). For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 

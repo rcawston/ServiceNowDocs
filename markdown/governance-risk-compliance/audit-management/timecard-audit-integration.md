@@ -36,7 +36,7 @@ To use the Time Card management feature integration with GRC Advanced Audit, you
 
 When an audit user logs time using time cards, the time cards are sent for approval based on the approvers defined in the time sheets policy. To learn more about time sheets policy, see [Time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheet-policies.md)
 
-**Note:** If there's no approver identified or **None** is selected in the **Non-project time approver** field on the time sheet policy assigned to the user, then the users in the **Time card approver** field are able to approve the time cards associated to that engagement. If **User Manager** or **Auto** is selected in the **Non-project time approver** field, then the approvers are not overridden and remain as is. For details on the roles required to approve time cards, see [Roles required for Advanced planning capability](../reference/roles-for-audit-and-ppm.md)
+**Note:** If there's no approver identified or **None** is selected in the **Non-project time approver** field on the time sheet policy assigned to the user, then the users in the **Time card approver** field are able to approve the time cards associated to that engagement. If **User Manager** or **Auto** is selected in the **Non-project time approver** field, then the approvers are not overridden and remain as is. For details on the roles required to approve time cards, see [Roles required for Advanced planning capability](roles-for-audit-and-ppm.md)
 
 To create a time card, see [Create a time card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/t_CreateATimeCard.md).
 
@@ -49,5 +49,5 @@ In the version 12.0.1, release of Audit Management, when an engagement has a pro
 **Related topics**  
 
 
-[Roles required for Advanced planning capability](../reference/roles-for-audit-and-ppm.md)
+[Roles required for Advanced planning capability](roles-for-audit-and-ppm.md)
 

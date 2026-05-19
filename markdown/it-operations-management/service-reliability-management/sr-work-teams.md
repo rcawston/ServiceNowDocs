@@ -37,18 +37,18 @@ Choices are:
 
 The Your team requests section contains team cards for any pending requests, if there are any.
 
-The Your teams section contains cards that provide information about a specific team, such as the status of the team, name of the team, manager, team email, current shift name and duration, and primary responder. See [Manage your SRM team details](../task/sr-manage-team-details.md) for more information.
+The Your teams section contains cards that provide information about a specific team, such as the status of the team, name of the team, manager, team email, current shift name and duration, and primary responder. See [Manage your SRM team details](sr-manage-team-details.md) for more information.
 
--   **[Add an SRM team](../task/sr-create-team.md)**  
+-   **[Add an SRM team](sr-create-team.md)**  
 Request to create a team to start monitoring your services. Teams are responsible for the issues that occur in the associated services.
--   **[Create an SRM on-call schedule](../task/sr-create-on-call-schedule.md)**  
+-   **[Create an SRM on-call schedule](sr-create-on-call-schedule.md)**  
 Set up an on-call schedule to make sure that someone is available to respond to incidents and critical alerts.
--   **[Set up escalation policies for your team in SRM](../task/sr-create-escalation-policies.md)**  
+-   **[Set up escalation policies for your team in SRM](sr-create-escalation-policies.md)**  
 Set up an escalation policy for your team to ensure that alerts or incidents are resolved in a timely manner by the appropriate team member.
 
 **Parent Topic:**[Using Service Reliability Management](using-service-reliability-management.md)
 
 **Previous topic:**[Working with integrations in SRM](sr-work-integrations.md)
 
-**Next topic:**[Add an SRM team](../task/sr-create-team.md)
+**Next topic:**[Add an SRM team](sr-create-team.md)
 

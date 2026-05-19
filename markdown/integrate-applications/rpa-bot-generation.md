@@ -26,9 +26,9 @@ RPA developer \(sn\_rpa\_fdn.rpa\_developer\) or RPA admin \(sn\_rpa\_fdn.rpa\_a
 
 ## Activation
 
-Install the Now Assist for RPA Hub application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website. For more information, see [Configure Now Assist for RPA Hub](../task/configure-now-assist-rpa-hub.md).
+Install the Now Assist for RPA Hub application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website. For more information, see [Configure Now Assist for RPA Hub](configure-now-assist-rpa-hub.md).
 
-Then, turn on the RPA bot generation skill to use generative AI for creating automations and activities, and extending automation logic. For more information, see [Turn on the RPA bot generation skill](../task/turn-rpa-bot-generation-skill.md).
+Then, turn on the RPA bot generation skill to use generative AI for creating automations and activities, and extending automation logic. For more information, see [Turn on the RPA bot generation skill](turn-rpa-bot-generation-skill.md).
 
 You must have a subscription for Now Assist for Creator and RPA Hub applications. For more information, see [Supporting information for Now Assist for RPA Hub](now-assist-rpa-hub-supporting-info.md).
 
@@ -128,7 +128,7 @@ Follow these general guidelines when writing Now Assist instructions:
 
 ## Limitations of the RPA bot generation skill
 
-For more information about the limitations of the Robotic Process Automation \(RPA\) bot generation skill, see [Limitations of Robotic Process Automation \(RPA\) bot generation skill](../reference/limitations-rpa-bot-gen-skill.md).
+For more information about the limitations of the Robotic Process Automation \(RPA\) bot generation skill, see [Limitations of Robotic Process Automation \(RPA\) bot generation skill](limitations-rpa-bot-gen-skill.md).
 
 ## Accessing the generative AI capability in RPA Desktop Design Studio
 
@@ -143,13 +143,13 @@ If you log in to the RPA Desktop Design Studio with either RPA Developer or RPA 
 **Related topics**  
 
 
-[Turn on the RPA bot generation skill](../task/turn-rpa-bot-generation-skill.md)
+[Turn on the RPA bot generation skill](turn-rpa-bot-generation-skill.md)
 
-[Create an automation with Now Assist](../task/create-automation-now-assist.md)
+[Create an automation with Now Assist](create-automation-now-assist.md)
 
-[Create an activity with Now Assist](../task/create-activity-now-assist.md)
+[Create an activity with Now Assist](create-activity-now-assist.md)
 
-[Build an automation with Now Assist](../task/build-automation-now-assist.md)
+[Build an automation with Now Assist](build-automation-now-assist.md)
 
-[Limitations of Robotic Process Automation \(RPA\) bot generation skill](../reference/limitations-rpa-bot-gen-skill.md)
+[Limitations of Robotic Process Automation \(RPA\) bot generation skill](limitations-rpa-bot-gen-skill.md)
 

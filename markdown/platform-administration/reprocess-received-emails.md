@@ -39,5 +39,5 @@ Take the following steps only after fixing the underlying problem. This procedur
     Remember that you can reprocess only `received` or `received-ignored` emails.
 
 
-**Parent Topic:**[Use Inbound email actions](../concept/use-inbound-email-action.md)
+**Parent Topic:**[Use Inbound email actions](use-inbound-email-action.md)
 

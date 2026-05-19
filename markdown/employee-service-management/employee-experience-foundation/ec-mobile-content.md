@@ -15,11 +15,11 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 Create different types of content that your employees can view on their mobile devices.
 
--   **[Create mobile banner content](../task/ec-content-library-mobile-banner.md)**  
+-   **[Create mobile banner content](ec-content-library-mobile-banner.md)**  
 Create banner content that your employees can view on their mobile devices.
--   **[Create mobile text card content](../task/ec-content-library-mobile-txt-card.md)**  
+-   **[Create mobile text card content](ec-content-library-mobile-txt-card.md)**  
 Create text card content that your employees can view on their mobile devices.
--   **[Create or edit mobile video content](../task/ec-content-library-mobile-video.md)**  
+-   **[Create or edit mobile video content](ec-content-library-mobile-video.md)**  
 Create video content that your employees can view on their mobile devices.
 
 **Parent Topic:**[Creating employee communications](ec-publish-content.md)

@@ -34,5 +34,5 @@ Role required: Admin
 6.  Under **Decision table**, update the **Action Type** against the appropriate **CI Type**.
 
 
-**Parent Topic:**[Viewing your network inventory configuration items with CMDB or Service Graph Workspace](../concept/viewing-network-inventory-using-cmdb-workspace.md)
+**Parent Topic:**[Viewing your network inventory configuration items with CMDB or Service Graph Workspace](viewing-network-inventory-using-cmdb-workspace.md)
 

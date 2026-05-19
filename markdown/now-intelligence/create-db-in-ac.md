@@ -29,7 +29,7 @@ Role required: Any user with an internal role can create dashboards with the inl
 
 3.  Select the **inline editor** tile and give the dashboard a name and a description.
 
-    If you want to use scripting, data binding, and other advanced capabilities, select the **Technical editor** tile to continue in UI Builder. This editor is available only to users who can access UI Builder \(ui\_builder\_admin role\). If you do not have this role, go to step 6. For more information about the technical editor, see [Technical dashboards](../../performance-analytics/concept/technical-dashboards.md).
+    If you want to use scripting, data binding, and other advanced capabilities, select the **Technical editor** tile to continue in UI Builder. This editor is available only to users who can access UI Builder \(ui\_builder\_admin role\). If you do not have this role, go to step 6. For more information about the technical editor, see [Technical dashboards](technical-dashboards.md).
 
 4.  Select **Create new dashboard**.
 
@@ -43,7 +43,7 @@ Role required: Any user with an internal role can create dashboards with the inl
 
 7.  Select **Add new element** to add content to the dashboard.
 
-    See [Exploring Platform Analytics dashboards](../reference/ac-elements.md) for information about what you can add to a dashboard.
+    See [Exploring Platform Analytics dashboards](ac-elements.md) for information about what you can add to a dashboard.
 
     When you add a data visualization, select **New data visualization** to create a visualization from scratch or **Saved data visualization** to choose one from the library. When you add a filter, select **New filter** to create the filter without preconfigured data or **Saved filter** to reuse an existing filter.
 
@@ -67,7 +67,7 @@ Role required: Any user with an internal role can create dashboards with the inl
 -   [Edit in-line Platform Analytics dashboard elements](edit-db-elements-in-ac.md)
 -   [Configure Platform Analytics dashboard details](config-db-in-ac.md)
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -76,13 +76,13 @@ Role required: Any user with an internal role can create dashboards with the inl
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

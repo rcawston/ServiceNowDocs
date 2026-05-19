@@ -21,7 +21,7 @@ Any employee at your organization can request due diligence, which is an investi
 -   A third party is any organization or individual that you’ve interacted or entered into a business relationship with. Third parties can have subsidiaries and can contract with fourth parties. For example, departments are subsidiaries.
 -   A fourth party can contract with further parties. All downstream parties, such as the fourth through the nth parties, carry risk in the same ways as third parties.
 
-For more information about the terms that are used in these sections or why you might conduct due diligence, see [Terminology](../reference/tprm-terminology.md) and [Why you conduct due diligence](vrm-due-diligence-why.md).
+For more information about the terms that are used in these sections or why you might conduct due diligence, see [Terminology](tprm-terminology.md) and [Why you conduct due diligence](vrm-due-diligence-why.md).
 
 The following infographic shows the due diligence request process.
 
@@ -37,7 +37,7 @@ The following are the steps of the due diligence request process.
 6.  The TPR manager reviews the request for due diligence for the engagement and approves it. If the information provided by the requester was insufficient or the engagement isn’t possible for your organization, the TPR manager rejects it.
 7.  The IRQ process starts after the TPR manager approves the request for due diligence.
 
-To learn more about creating or monitoring a due diligence request, see [Request due diligence for a third-party engagement](../../grc-workspace-vrm/task/tprm-ws-request-dd-for-engagement.md) and [Monitoring the due diligence request process](../../grc-workspace-vrm/concept/tprm-ws-dd-mgt-pg-overview.md).
+To learn more about creating or monitoring a due diligence request, see [Request due diligence for a third-party engagement](tprm-ws-request-dd-for-engagement.md) and [Monitoring the due diligence request process](tprm-ws-dd-mgt-pg-overview.md).
 
 When creating a due diligence request, the following options are available:
 
@@ -48,7 +48,7 @@ When creating a due diligence request, the following options are available:
 
     Extenuating circumstances can contribute to the decision. For example, if the third party is sourcing materials that are difficult to obtain, switching providers might be costly and introduce additional risks. In such cases, continuing with the existing third party, with whom a long-term relationship exists, might be preferable to mitigate potential disruptions and higher risks.
 
--   **Offboard an engagement with no due diligence** Request that an engagement be permanently terminated when an engagement ends or you want to switch to a different third party for other reasons. In this case, you typically don't need to conduct additional due diligence. The process does, however, include the normal Inherent Risk Questionnaire \(IRQ\) process to confirm that the services provided by the engagement will no longer continue. For more information about this type of offboarding, see [Offboarding an engagement without conducting due diligence](../../grc-workspace-vrm/concept/tprm-dd-request-offboard-no-dd.md).
+-   **Offboard an engagement with no due diligence** Request that an engagement be permanently terminated when an engagement ends or you want to switch to a different third party for other reasons. In this case, you typically don't need to conduct additional due diligence. The process does, however, include the normal Inherent Risk Questionnaire \(IRQ\) process to confirm that the services provided by the engagement will no longer continue. For more information about this type of offboarding, see [Offboarding an engagement without conducting due diligence](tprm-dd-request-offboard-no-dd.md).
 
 For each due diligence request, the system auto-assigns a unique ID number that starts with the text DDR. Use the ID to track your request. You can post a message to reviewers and add attachments from the page.
 
@@ -56,5 +56,5 @@ The following example shows how a new due diligence request appears.
 
 ![Due diligence request view from the activity tab in Employee Service Center.](../../grc-workspace-vrm/image/tprm-my-request-page-activity-tab.png "Due diligence request tracking example")
 
-For more information on the different processes that make up the overall due diligence workflow, see [Due diligence workflow](../../grc-workspace-vrm/concept/tprm-workflow-in-workspace.md) and [Assessing your third-party risk](tprm-assessing-tpr.md).
+For more information on the different processes that make up the overall due diligence workflow, see [Due diligence workflow](tprm-workflow-in-workspace.md) and [Assessing your third-party risk](tprm-assessing-tpr.md).
 

@@ -17,5 +17,5 @@ The Predictive Intelligence for Customer Service Management plugin \(com.snc.csm
 
 By default, the **Case Email Autoresponder KB search** search context includes contextual search results based on Predictive Intelligence. You can edit this search context to include any additional resources. For more information, see [Define a search context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_DefineSearchContext.md).
 
-**Note:** To provide other relevant recommendations to resolve a customer service case when Predictive Intelligence results are insufficient or unavailable, you can also enable the text search recommendations in the Auto-Responder email notification. For more information, see [Enable text search recommendations in Auto-Responder notifications](../task/enable-text-based-auto-responder.md).
+**Note:** To provide other relevant recommendations to resolve a customer service case when Predictive Intelligence results are insufficient or unavailable, you can also enable the text search recommendations in the Auto-Responder email notification. For more information, see [Enable text search recommendations in Auto-Responder notifications](enable-text-based-auto-responder.md).
 

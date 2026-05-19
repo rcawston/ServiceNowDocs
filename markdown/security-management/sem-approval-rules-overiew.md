@@ -25,10 +25,10 @@ It is a standardized way to route approval requests across multiple findings and
 -   Configurable expiry periods for approvals and notifications.
 -   Role-based routing using users and groups.
 
--   **[Create or edit approval rules](../task/sem-configure-approval-rules-list-and-form-view.md)**  
+-   **[Create or edit approval rules](sem-configure-approval-rules-list-and-form-view.md)**  
 Create and activate an approval rule by selecting a rule type, choosing the target tables, defining conditions, and configuring approval levels.
--   **[Create or edit approval levels](../task/sem-create-or-edit-approval-levels.md)**  
+-   **[Create or edit approval levels](sem-create-or-edit-approval-levels.md)**  
 Define the levels of users and user groups that are going to approve the exception requests.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../../security-exposure-management-workspace/concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](using-unified-security-exposure-management.md)
 

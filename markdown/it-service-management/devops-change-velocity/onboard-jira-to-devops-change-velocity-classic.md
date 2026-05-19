@@ -17,7 +17,7 @@ Connect your Jira Server or Jira Cloud instance to discover, configure, and impo
 
 ## Before you begin
 
-Complete the tasks in [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md).
+Complete the tasks in [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md).
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -81,7 +81,7 @@ In the **Tool credential** field, select an existing OAuth 2.0 tool credential r
 **Note:** Only records that are not in use and configured for Jira Cloud can be selected as an existing credential record.
 
 </td></tr></tbody>
-</table>        For a list of all the permissions required on the credentials for connecting to Jira, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>        For a list of all the permissions required on the credentials for connecting to Jira, see Jira permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     3.  If your Jira instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -130,5 +130,5 @@ In the **Tool credential** field, select an existing OAuth 2.0 tool credential r
     **Note:** If the project key for a project is updated in Jira, the updated object names will not reflect in DevOps Change Velocity. Only when the object is updated in Jira, the new name will reflect in DevOps Change Velocity.
 
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](jira-integration-dev-ops.md)
 

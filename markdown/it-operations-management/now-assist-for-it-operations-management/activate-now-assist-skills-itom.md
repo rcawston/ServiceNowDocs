@@ -59,5 +59,5 @@ The Service Mapping Candidate skill provides Now Assist the ability to classify 
 -   **[Activate the Service Mapping Candidates Impact skill](activate-sm-candidates-impact-skill.md)**  
 The Service Mapping Candidates Impact skill analyzes connections and effects on servers. It enables generating an impact summary, using Now Assist. The skill is active by default. If needed, administrators can activate or deactivate the skill.
 
-**Parent Topic:**[Configure Now Assist for ITOM](../concept/now-assist-itom-configure.md)
+**Parent Topic:**[Configure Now Assist for ITOM](now-assist-itom-configure.md)
 

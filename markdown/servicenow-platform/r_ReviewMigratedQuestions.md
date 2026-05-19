@@ -54,12 +54,12 @@ If there are no **Order** values for the legacy survey question choices, the sys
 
 You may also need to change the **Scale definition** setting for other migrated questions. For details, see the scale definition recommendations for each survey question data type.
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)
+[Migrate a legacy survey](t_MigrateALegacySurvey.md)
 
 [Survey question migration](r_SurveyQuestionMigration.md)
 

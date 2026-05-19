@@ -81,7 +81,7 @@ Type
 
 </td><td>
 
-Data type of the input. For supported data types, see [Workflow Studio input and output data variables](../reference/action-inputs-outputs.md).
+Data type of the input. For supported data types, see [Workflow Studio input and output data variables](action-inputs-outputs.md).
 
 </td></tr><tr><td>
 
@@ -175,14 +175,14 @@ Create an action input based on the data type of a step input. Map the step inpu
 Test an action before publishing it for other users.
 -   **[Copy an action](copy-action.md)**  
 Copy an action to give it a new name and move it to another application scope.
--   **[Dynamic inputs](../concept/dynamic-inputs.md)**  
+-   **[Dynamic inputs](dynamic-inputs.md)**  
 Generate a list of action inputs or input values each time that someone configures the action in a flow. Dynamic inputs can display a list of related action inputs, a list of fields from a record, or a list of options available in a choice list.
--   **[Dynamic outputs](../concept/dynamic-outputs.md)**  
+-   **[Dynamic outputs](dynamic-outputs.md)**  
 Access action and subflow outputs as dynamically generated data pills during flow design. You can also build data gathering actions to generate complex objects from ServiceNow AI Platform and Integration Hub outputs.
--   **[Action error evaluation](../concept/action-error-evaluation.md)**  
+-   **[Action error evaluation](action-error-evaluation.md)**  
 Enable actions to catch step failures and continue running. Identify when specific error conditions occur and return your own action status code, status message, and error state.
--   **[Retry policy](../concept/retry-policy.md#)**  
+-   **[Retry policy](retry-policy.md#)**  
 Automatically retry failed requests when a step encounters an intermittent issue such as a network failure or request rate limit. Set a retry policy to prevent having to manually trigger the step again.
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

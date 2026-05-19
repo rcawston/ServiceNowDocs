@@ -38,5 +38,5 @@ When this subflow is used, the input parameters are considered in this subflow t
 
 ![Update Password Reset Request Status subflow.](../image/update-password-reset-subflow.png "Update Password Reset Request Status subflow")
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

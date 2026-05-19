@@ -42,7 +42,7 @@ Indicators
 Enable any indicator to display related records such as incidents or problems for CIs. The respective icon displays on the timeline in the metric chart, indicating the number of records for the CI.A toggle is available only if the **Active in Metrics** field is selected on the Map Indicator form for the respective table. For example, the **Incident** toggle is available only if **Active in Metrics** is selected on the Map Indicator form for the incident \[Incident\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Metric Intelligence reference](../../metric-intelligence/reference/metric-intelligence-reference.md)
+</table>**Parent Topic:**[Metric Intelligence reference](metric-intelligence-reference.md)
 
 **Related topics**  
 

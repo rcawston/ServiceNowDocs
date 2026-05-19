@@ -26,7 +26,7 @@ Consider using playbook variants if you have similar business processes that cha
 -   Business processes and requirements for different users and roles.
 -   Business processes and requirements for different kinds of applications, such as licenses and permits for different kinds of businesses, etc.
 
-To get started, see [Create a playbook variant](../task/create-playbook-variant.md).
+To get started, see [Create a playbook variant](create-playbook-variant.md).
 
 ## General Guidelines
 
@@ -49,13 +49,13 @@ Create, run, troubleshoot, and monitor your playbook variants more effectively. 
     Stage overrides are not currently supported in playbook variants.
 
 
--   **[Create a playbook variant](../task/create-playbook-variant.md)**  
+-   **[Create a playbook variant](create-playbook-variant.md)**  
 Create variations of a playbook for different use cases.
--   **[Set variant evaluation point](../task/set-evaluation-point.md)**  
+-   **[Set variant evaluation point](set-evaluation-point.md)**  
 Set a point in your base playbook after which the variants are evaluated and run.
--   **[Re-order playbook variants](../task/reorder-playbook-variants.md)**  
+-   **[Re-order playbook variants](reorder-playbook-variants.md)**  
 Change the order in which playbook variants are evaluated.
--   **[Save a playbook variant as a favorite](../task/bookmark-playbook-variant.md)**  
+-   **[Save a playbook variant as a favorite](bookmark-playbook-variant.md)**  
 Save a playbook variant as a favorite for quick reference.
 
 **Parent Topic:**[Understanding the playbook components](playbook-building-blocks.md)

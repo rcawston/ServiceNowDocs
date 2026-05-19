@@ -118,5 +118,5 @@ This tab shows details and requirements from the policy, as well as the **Refere
 11. You can also identify any audience members who have exceeded the acknowledgement time line by navigating to **Policy and Compliance** &gt; **Policy Acknowledgement** &gt; **Overdue Acknowledgements**.
 
 
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](ack-policy.md)
 

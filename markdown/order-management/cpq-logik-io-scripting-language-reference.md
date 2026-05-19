@@ -170,7 +170,7 @@ Each object supported can be declared with the following:
 
 We do not support `while` or unconditional `for` loops with `break`, because of the risk of infinite loops halting performance.
 
-We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md) and [Minimizing table queries](table_queries.md).
+We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [Matrix Loader: CSV table upload](cpq-matrix-loader-csv-table-upload.md) and [Minimizing table queries](table_queries.md).
 
 ## Alternative scripts for unsupported operations
 

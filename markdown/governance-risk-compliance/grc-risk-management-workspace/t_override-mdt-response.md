@@ -36,5 +36,5 @@ Role required: sn\_grc\_metric.admin, sn\_risk.admin, and sn\_compliance.admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-metrics-irm.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-metrics-irm.md)
 

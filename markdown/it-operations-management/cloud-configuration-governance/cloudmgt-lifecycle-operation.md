@@ -32,7 +32,7 @@ Life-cycle operations require the user with `sn_cmp.cloud_service_user` role who
 
 2.  While viewing the **Stack Details** page, select the operation from the **Select Stack Operation** or **Select Resource Operation** list.
 
-    For for full descriptions of the operations, see [Life-cycle operations in Cloud Provisioning and Governance](../reference/life-cycle-operation-cloudmgt.md).
+    For for full descriptions of the operations, see [Life-cycle operations in Cloud Provisioning and Governance](life-cycle-operation-cloudmgt.md).
 
     Some operations require settings \(for example, the name of a script or new schedule settings\).
 

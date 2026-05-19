@@ -21,11 +21,11 @@ You can access the Software asset analytics view by navigating to **Software Ass
 
 The Software asset analytics view includes the following dashboards:
 
--   [SaaS overview](../reference/saas-dashboard-workspace.md): View all SaaS related analytics, create direct integration profiles, create entitlements, and view consumption analysis and details of various publishers.
+-   [SaaS overview](saas-dashboard-workspace.md): View all SaaS related analytics, create direct integration profiles, create entitlements, and view consumption analysis and details of various publishers.
 -   [Discovered inventory](discovered-inventory-dashboard.md): View your licensable discovered software and devices.
--   [Normalization and content](../reference/norm-content-dashboard-workspace.md): View normalization and Content Service trend charts.
+-   [Normalization and content](norm-content-dashboard-workspace.md): View normalization and Content Service trend charts.
 -   [Lifecycle management](lifecycle-management-dashboard.md): Review and track the end of life \(EOL\) software products in your asset estate.
--   [Optimization and savings](../reference/optimization-dashboard-workspace.md): View metrics on how to maximize and save costs on your software assets. The dashboard also displays licensing optimizations for third-party publishers such as Microsoft, Red Hat, Adobe, and SAP.
--   [Engineering License Overview](../reference/engineering-license-dashboard-workspace.md): View all your engineering applications license position and usage.
+-   [Optimization and savings](optimization-dashboard-workspace.md): View metrics on how to maximize and save costs on your software assets. The dashboard also displays licensing optimizations for third-party publishers such as Microsoft, Red Hat, Adobe, and SAP.
+-   [Engineering License Overview](engineering-license-dashboard-workspace.md): View all your engineering applications license position and usage.
 -   [Cloud cost simulator](cloud-simulator-dashboard.md): Compare and evaluate the estimated costs of migrating your on-premises resources to the cloud for each cloud environment.
 

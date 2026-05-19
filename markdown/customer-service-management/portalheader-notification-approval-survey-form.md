@@ -46,5 +46,5 @@ Notifications, approval, and, survey forms fields for portal header.
 **Related topics**  
 
 
-[Configure notification, approval, and survey for your portal header](../task/portal-config-notification-approval-surveys.md)
+[Configure notification, approval, and survey for your portal header](customer-self-service-and-omnichannel-engagement/portal-config-notification-approval-surveys.md)
 

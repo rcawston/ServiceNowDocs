@@ -33,11 +33,11 @@ The Create a new action plan for your employee activity by default is not active
 
 4.  Click **Update**.
 
-    See, [Configure the supporting components for a lifecycle event](../concept/configure-supporting-components-for-lifecycle-event.md) if you want more information about Lifecycle Events and fulfiller activities.
+    See, [Configure the supporting components for a lifecycle event](../lifecycle-events/configure-supporting-components-for-lifecycle-event.md) if you want more information about Lifecycle Events and fulfiller activities.
 
 
 **Related topics**  
 
 
-[Open an HR case to create a Journey Accelerator action plan](create-journey-accelerator-plan.md)
+[Open an HR case to create a Journey Accelerator action plan](../hr-service-delivery/create-journey-accelerator-plan.md)
 

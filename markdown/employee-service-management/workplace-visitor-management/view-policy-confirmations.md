@@ -81,7 +81,7 @@ State of the policy confirmation.This field is automatically updated based on wh
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
@@ -92,7 +92,7 @@ State of the policy confirmation.This field is automatically updated based on wh
 
 [View visitor registrations](view-visitor-registrations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](visitor-registration-states.md)
 
 [Anonymize a visitor](anonymize-visitor.md)
 

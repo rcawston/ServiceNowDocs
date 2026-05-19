@@ -52,5 +52,5 @@ A request to this resource returns the following response.
  */
 ```
 
-**Parent Topic:**[Scripted REST API examples](../concept/c_ScriptedRESTAPIExamples.md)
+**Parent Topic:**[Scripted REST API examples](c_ScriptedRESTAPIExamples.md)
 

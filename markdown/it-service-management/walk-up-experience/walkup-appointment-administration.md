@@ -21,7 +21,7 @@ Walk-up Experience is an application level configuration provided with the base 
 
 For more information on appointment booking administration, see [Administer appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appointment-booking-administer.md)
 
--   **[Enable Walk-up Experience appointment booking](../task/enable-walkup-appointment-booking.md)**  
+-   **[Enable Walk-up Experience appointment booking](enable-walkup-appointment-booking.md)**  
 Enable or disable the appointment booking feature for Walk-up Experience as well as for the individual walk-up service locations available to requesters.
 -   **[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)**  
 Create or modify appointment booking configurations for the Walk-up Experience. You can view or modify the Walk-up Experience application appointment booking configuration and create or modify related service appointment configurations.

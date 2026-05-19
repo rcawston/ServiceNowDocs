@@ -15,14 +15,14 @@ Before you run the Unified Security Exposure Management application in your Serv
 
 ## Before you begin
 
-**Note:** This process applies only to applications that are downloaded to production instances. If you're downloading applications to non-production or development instances, it's not necessary to get entitlements. Proceed to [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+**Note:** This process applies only to applications that are downloaded to production instances. If you're downloading applications to non-production or development instances, it's not necessary to get entitlements. Proceed to [Activate a ServiceNow Store application](activate-entitled-store-app.md).
 
 -   Verify that you have the required ServiceNow roles assigned for your instance.
 -   The admin role is required for installation and assigning roles.
 
 **Important:** Unified Security Exposure Management \(USEM\) is a major architectural upgrade to Vulnerability Response applications. If you are currently using Vulnerability Response and upgrading to USEM for the first time, you must use the Migration assistant for Unified Security Exposure Management to ensure a successful upgrade.
 
-For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2556844) and [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](../../vulnerability-response/concept/migrating-to-usem.md) before proceeding.
+For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2556844) and [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](vulnerability-response/migrating-to-usem.md) before proceeding.
 
 Role required: admin
 
@@ -62,7 +62,7 @@ Role required: admin
 
     **Note:**
 
-    If you want to use a version of a supported application that is compatible with Unified Security Exposure Management \(USEM\), see [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](../../vulnerability-response/concept/migrating-to-usem.md) for more information about USEM and the Unified Security Exposure Management migration.
+    If you want to use a version of a supported application that is compatible with Unified Security Exposure Management \(USEM\), see [Migrating from Vulnerability Response to Unified Security Exposure Management \(USEM\)](vulnerability-response/migrating-to-usem.md) for more information about USEM and the Unified Security Exposure Management migration.
 
     If you do not intend to upgrade to Unified Security Exposure Management, install a version that is lower than v30.x of an application and for upgrades to its supported third-party integration applications.
 

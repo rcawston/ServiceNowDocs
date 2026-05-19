@@ -41,7 +41,7 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Static translation](../concept/static-translation.md)
+**Parent Topic:**[Static translation](static-translation.md)
 
 **Related topics**  
 

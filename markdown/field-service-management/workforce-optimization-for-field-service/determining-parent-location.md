@@ -26,10 +26,10 @@ Rules are executed in the following order to determine a parent location when a 
 
 **Note:** The **Country** name is the default selection for all the criteria.
 
-For more information, see [Create parent determination rules for service locations](../task/configure-parent-determination.md).
+For more information, see [Create parent determination rules for service locations](configure-parent-determination.md).
 
 **Related topics**  
 
 
-[Setting ad-hoc locations in work orders and work order tasks](service-locations-work-orders.md)
+[Setting ad-hoc locations in work orders and work order tasks](../work-order-management/service-locations-work-orders.md)
 

@@ -165,5 +165,5 @@ Delete the schedule entry. A warning message appears.
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](roles-assigning-oncall.md)
 

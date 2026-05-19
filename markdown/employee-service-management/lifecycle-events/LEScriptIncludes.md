@@ -45,5 +45,5 @@ Advanced:
 -   checkForElapsedDate\(date\) – Verify when the date passed in has elapsed.
 -   checkForElapsedDateWithOffset\(date, offset, offsetUnits, offsetType\)
 
-**Parent Topic:**[Activate Lifecycle Events](../task/activate-enterprise-onboarding-and-transitions-scoped.md)
+**Parent Topic:**[Activate Lifecycle Events](activate-enterprise-onboarding-and-transitions-scoped.md)
 

@@ -70,7 +70,7 @@ Domain separated tables for Skill Recommendation
 
 ## Domain separation for Coaching in Workforce Optimization for ITSM
 
-For information on how domain separation works in Coaching for Workforce Optimization for ITSM, refer to [Domain separation and Coaching](../../cf-coaching/concept/cf-domain-separation-coaching.md).
+For information on how domain separation works in Coaching for Workforce Optimization for ITSM, refer to [Domain separation and Coaching](../coaching/cf-domain-separation-coaching.md).
 
 **Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](advanced-configuration-workforce-optimization-itsm.md)
 

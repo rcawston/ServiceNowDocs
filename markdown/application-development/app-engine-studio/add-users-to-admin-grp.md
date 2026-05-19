@@ -40,5 +40,5 @@ If you are not using pipelines, you must also add users to the App Engine Admin 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Perform AES configuration tasks](../reference/aes-config-tasks.md)
+**Parent Topic:**[Perform AES configuration tasks](aes-config-tasks.md)
 

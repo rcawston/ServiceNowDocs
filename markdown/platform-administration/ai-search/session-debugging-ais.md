@@ -46,5 +46,5 @@ Once enabled, session debugging remains active for the user session until you di
     A message reports completion of the Disable All session debug script.
 
 
-**Parent Topic:**[AI Search logging and debugging](../concept/logging-debugging-ais.md)
+**Parent Topic:**[AI Search logging and debugging](logging-debugging-ais.md)
 

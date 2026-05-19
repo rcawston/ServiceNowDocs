@@ -38,5 +38,5 @@ By default, encrypted values appear in all views as `*******`. Only users with t
 -   Cannot view, create, or update encrypted values in config data.
 -   Cannot export a snapshot that includes encrypted data.
 
-**Parent Topic:**[DevOps Config reference](../../devops-config/reference/devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
 

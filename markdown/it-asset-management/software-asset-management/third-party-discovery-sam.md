@@ -32,7 +32,7 @@ For more information on IRE, see [Identification and Reconciliation Engine](http
 
 You should have already configured loading the CIs in the ServiceNow instance. For each CI in your environment, the Hardware \[cmdb\_ci\_hardware\] table has a corresponding CI identifier rule. When the third-party discovery application runs, the software is identified on CIs. The third-party application constructs a payload and sends the payload via the IRE REST API endpoint to the ServiceNow instance to insert or update data into the Software Asset Management tables.
 
-A [generic payload](../reference/payload-details.md) is used for creating installed software records. For Oracle, VMware, and Citrix, specific payloads feed additional publisher-specific data apart from software installations.
+A [generic payload](payload-details.md) is used for creating installed software records. For Oracle, VMware, and Citrix, specific payloads feed additional publisher-specific data apart from software installations.
 
 If multiple discovery sources are enabled and if the key details of the software, such as the display name and the version for all discovery sources, match, the Installation record is overwritten. If multiple discovery sources identify the same software with different field values, an entry is created in the Software Installation \[cmdb\_sam\_sw\_install\] table. When the schedule job **SAM- Deduplication install table** runs and if all the normalized values of these installations match, only one record is set to active. The rest of the records are marked as inactive.
 

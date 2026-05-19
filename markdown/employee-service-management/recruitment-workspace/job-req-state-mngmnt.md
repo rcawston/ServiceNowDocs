@@ -628,5 +628,5 @@ Closed
 Read only
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+</table>**Parent Topic:**[Recruitment Workspace reference](recruitment-workspace-reference.md)
 

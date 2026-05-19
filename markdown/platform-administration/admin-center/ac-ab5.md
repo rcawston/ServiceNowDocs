@@ -71,7 +71,7 @@ Use the Cloud Provisioning and Governance application to provide a single interf
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -139,5 +139,5 @@ pa\_data\_collector
 [Vendor Management Workspace overview \(video\)](https://www.youtube.com/watch?v=qecN5VLItiA&t=3s)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

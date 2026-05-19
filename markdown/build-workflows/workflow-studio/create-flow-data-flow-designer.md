@@ -99,5 +99,5 @@ Send Email with user input Activity is a subflow that gathers the information ne
 
 The subflow waits until the Create Flow Data record is in the Complete state before sending an email. The Send Email action is configured to use the body variable from the Create Flow Data action as the body of the email.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

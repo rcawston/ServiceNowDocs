@@ -43,7 +43,7 @@ After your Testflight testers have validated the branding and functionality of y
 
 1.  Set up push notifications by downloading the Apple push certificate \(`p12` file\) from your app's **Build History** and upload it to your app's push application record:
     1.  Access the Push Applications table on your instance by navigating to **All** &gt; **Push Application**.
-    2.  Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](../task/sg-push-setup-ios.md).
+    2.  Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](sg-push-setup-ios.md).
 
         **Note:** The push certificate password is sent in the email from ServiceNow with the subject of "Ready For Testing - ServiceNow Mobile Publishing App." This email is sent from "mobilepublishing@servicenow.com"
 
@@ -71,5 +71,5 @@ Apple conducts a final review where your build status will show **Deployment in 
 
 ## 6. Keep your app updated
 
-Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](../reference/mobile-supported-devices.md).
+Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](mobile-supported-devices.md).
 

@@ -46,9 +46,9 @@ Role required: virtual\_agent\_admin or admin
     ![When the user's first utterance is "I like red," Virtual Agent matches the intent and responds with, "We have red as Input Color, is this correct?"](../images/ggl-df-test-topic-slotfill.png)
 
 
-**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](configure-dialogflow-es-integration.md)
 
 **Previous topic:**[Activate the Google Dialogflow ES service and enable it in your instance](activate-ggl-df-es-service.md)
 
-**Next topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](../concept/natural-language-user-response-handling.md)
+**Next topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](natural-language-user-response-handling.md)
 

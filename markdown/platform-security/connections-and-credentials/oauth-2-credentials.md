@@ -57,7 +57,7 @@ Connect to Auth Server via MID Server
 
 Connects your ServiceNow instance to an on-premise OAuth server that resides behind a firewall through a MID Server. It can also connect your ServiceNow instance to a cloud-based OAuth server through a MID server. When this option is enabled, the request for an OAuth token is sent through the MID Server.**Important:**
 
--   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**Client Credentials**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](../../../administer/security/task/connect-3rd-party-oauth-provider.md).
+-   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**Client Credentials**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](../authentication/connect-3rd-party-oauth-provider.md).
 -   If you select the **Connect to Auth Server via MID Server** checkbox, you must identify the required MID Server or MID Servers from the **Applies to** list.
 
 </td></tr><tr><td>

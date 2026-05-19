@@ -17,13 +17,13 @@ Learn how about the different objects that are used in map reports, and how to c
 
 -   **[Map report objects](c_MapReportObjects.md)**  
 Map objects define the different levels that users can drill down into on a map report and the data displayed on these levels. Admins can create and manage these objects.
--   **[Automatically generate a map source hierarchy](../task/t_AutoGenerateMapSourceHierarchy.md)**  
+-   **[Automatically generate a map source hierarchy](t_AutoGenerateMapSourceHierarchy.md)**  
 A map source hierarchy is a data source that is used to create a map report. Except for the top-level wrapper, each map source level in the hierarchy defines the data for one map drill level.
--   **[Customize a map source level](../task/t_CustomizeAMapSourceLevel.md)**  
+-   **[Customize a map source level](t_CustomizeAMapSourceLevel.md)**  
 A map source configures data to be displayed in a map report. Customize existing map sources according to your needs.
--   **[Create a key-value pair mapping](../task/t_CreateKeyValuePairMapping.md)**  
+-   **[Create a key-value pair mapping](t_CreateKeyValuePairMapping.md)**  
 Key-value pair mappings transform data in the ServiceNow platform to a value that can be plotted on a map. Mappings are used during map source configuration when data requires transformation. Each mapping exists in a mapping group.
--   **[Create a map](../task/t_CreateAMap.md#)**  
+-   **[Create a map](t_CreateAMap.md#)**  
 Create a map that can be used in a map hierarchy.
 
 **Parent Topic:**[Administering reports](c_AdminsteringReports.md)

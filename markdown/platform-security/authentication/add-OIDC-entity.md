@@ -23,7 +23,7 @@ Role required: oauth\_admin
 
 The ServiceNow AI Platform supports OpenID Connect \(OIDC\) through the external Single Sign-On \(SSO\) implementation in addition to inbound API calls.
 
-For an example of an OIDC provider configuration, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-azure.md). For an SSO-specific example of an OIDC provider configuration, see [Create an OpenID Connect \(OIDC\) configuration for Single Sign-On \(SSO\)](../../../integrate/single-sign-on/task/create-OIDC-configuration-SSO.md).
+For an example of an OIDC provider configuration, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-azure.md). For an SSO-specific example of an OIDC provider configuration, see [Create an OpenID Connect \(OIDC\) configuration for Single Sign-On \(SSO\)](create-OIDC-configuration-SSO.md).
 
 ## Procedure
 
@@ -91,7 +91,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select this option to allow only tokens used with APIs set to enable the authentication profile. You can grant access using an API access policy. For more information, see [Create REST API access policy](../../../integrate/authentication/task/create-api-access-policy.md).
+Select this option to allow only tokens used with APIs set to enable the authentication profile. You can grant access using an API access policy. For more information, see [Create REST API access policy](create-api-access-policy.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Client Type
 Choose the client type, based on the type of your client. Options:-   **Iframe Embedded**
 -   **Integration as a User**
 -   **Integration as a Service**
-To learn more, see [Configure client type for OAuth and SSO records](../../../integrate/authentication/concept/client-type.md).
+To learn more, see [Configure client type for OAuth and SSO records](client-type.md).
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.

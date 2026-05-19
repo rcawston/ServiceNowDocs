@@ -21,5 +21,5 @@ Metadata and app file types are ServiceNow Fluent plugins that Build Agent can p
 -   **[Example prompts](build-agent-example-prompts.md)**  
 Explore example prompts for building apps, as well as adding governance, UI and other ServiceNow metadata to help you get started with prompting Build Agent.
 
-**Parent Topic:**[Build Agent](../concept/build-agent.md)
+**Parent Topic:**[Build Agent](build-agent.md)
 

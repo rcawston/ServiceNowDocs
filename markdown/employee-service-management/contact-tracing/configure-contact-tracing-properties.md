@@ -23,7 +23,7 @@ Role required: admin
 
 Employers remain solely responsible for complying with their legal obligations under applicable law, including data protection laws on collection, use, disclosure, and retention of personal data, and should enable, choose not to enable, or customize any functionality available within the application to meet the Employers’ specific requirements.
 
-**Note:** For system properties associated with tracing systems, see [System properties for tracing systems in Emergency Exposure Management](../../business-continuity/reference/list-of-tracing-system-sys-properties.md).
+**Note:** For system properties associated with tracing systems, see [System properties for tracing systems in Emergency Exposure Management](../emergency-exposure-management/list-of-tracing-system-sys-properties.md).
 
 ## Procedure
 
@@ -68,5 +68,5 @@ Enables or disables automatic creation of a case task when a case manager adds a
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

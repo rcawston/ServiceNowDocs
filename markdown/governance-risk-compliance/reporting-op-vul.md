@@ -33,7 +33,7 @@ When an operational vulnerability is reported, it is opened in the **New** state
 
 5.  On the form, fill in the fields.
 
-    See the [Report operational vulnerability form](../reference/report-op-vul-form.md) for an explanation of each field.
+    See the [Report operational vulnerability form](report-op-vul-form.md) for an explanation of each field.
 
 6.  To provide supporting material or evidence, select **Add attachments**.
 

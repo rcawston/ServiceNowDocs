@@ -21,11 +21,11 @@ Use Now Assist for Workflow Data Fabric \(WDF\) to describe what you want to ach
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for WDF to get started](../task/configure-now-assist-for-workflow-data-fabric.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for WDF to get started](configure-now-assist-for-workflow-data-fabric.md)
 
 </td></tr><tr><td>
 
-[Ask Now Assist![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to get guidance from Now Assist for WDF](../task/ask-now-assist-for-recommendation.md)
+[Ask Now Assist![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to get guidance from Now Assist for WDF](ask-now-assist-for-recommendation.md)
 
 </td><td>
 

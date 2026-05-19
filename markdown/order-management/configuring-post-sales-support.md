@@ -86,7 +86,7 @@ Provides workflows to manage changes on Customer Contracts and Entitlements.
 </td></tr></tbody>
 </table>With the activation of Customer Contracts and Entitlements, the existing contracts are available for viewing only.
 
-For more information on the installed roles and tables, see [Components installed with Customer Contracts and Entitlements](../reference/components-installed-pss.md).
+For more information on the installed roles and tables, see [Components installed with Customer Contracts and Entitlements](components-installed-pss.md).
 
 ## Request apps from the ServiceNow Store
 

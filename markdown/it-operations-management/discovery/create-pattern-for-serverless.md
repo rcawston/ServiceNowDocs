@@ -31,7 +31,7 @@ In the pattern, you must specify input parameters to explore the CI.
 
 3.  Specify an **Infrastructure** type pattern with the correct CI type that applies to the CIs you want to discover.
 
-    See [Create or customize patterns](../../service-mapping/task/t_CreatePatternPatDef.md) for an explanation of all form fields.
+    See [Create or customize patterns](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) for an explanation of all form fields.
 
 4.  Create an identification section and save the pattern.
 
@@ -115,5 +115,5 @@ Check the Discovery status to see the Discovery log, the devices list, which hol
 **Related topics**  
 
 
-[Discovery status](../concept/c_DiscoveryStatus.md)
+[Discovery status](c_DiscoveryStatus.md)
 

@@ -85,11 +85,11 @@ The CCG Content Pack plugin \(sn\_itom\_ccg\_cp\) provides optional predefined c
 **Related topics**  
 
 
-[Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md)
+[Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md)
 
-[Plugins or applications installed with ITOM AIOps](../../it-operations-management/reference/plugin-app-itom-health.md)
+[Plugins or applications installed with ITOM AIOps](../plugin-app-itom-health.md)
 
-[Plugins activated with ITOM Optimization](../../it-operations-management/reference/plugin-itom-optimization.md)
+[Plugins activated with ITOM Optimization](../plugin-itom-optimization.md)
 
-[Applications installed with Now Assist for ITOM](../../now-assist-itom/reference/app-now-assist-itom.md)
+[Applications installed with Now Assist for ITOM](../now-assist-for-it-operations-management/app-now-assist-itom.md)
 

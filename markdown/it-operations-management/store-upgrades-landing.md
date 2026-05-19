@@ -23,13 +23,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## List of store upgrades
 
--   [Agent Client Collector](../../agent-client-collector/concept/acc-landing-page.md)
--   [Certificate Inventory and Management](../reference/cert-inventory-mgmt.md)
--   [Discovery patterns](../../service-mapping/concept/available-patterns.md)
--   [Firewall Audit and Reporting](../reference/firewall-audit-reporting.md)
+-   [Agent Client Collector](agent-client-collector/acc-landing-page.md)
+-   [Certificate Inventory and Management](discovery/cert-inventory-mgmt.md)
+-   [Discovery patterns](discovery-and-service-mapping-patterns/available-patterns.md)
+-   [Firewall Audit and Reporting](discovery/firewall-audit-reporting.md)
 -   [CMDB CI Class Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md)
--   [Health Log Analytics](../../health-log-analytics-admin/reference/hla-landing-page.md)
--   [Performance Analytics Content Pack for Cloud Resources](../../../use/dashboards/application-content-packs/cloud-resources-content-pack.md)
--   [Application service readiness dashboard in configurable workspace](../../service-mapping/reference/readiness-dashboard-ml.md)
--   [ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/itom-cloud-accelerate-landing-page.md)
+-   [Health Log Analytics](health-log-analytics/hla-landing-page.md)
+-   [Performance Analytics Content Pack for Cloud Resources](discovery/cloud-resources-content-pack.md)
+-   [Application service readiness dashboard in configurable workspace](service-mapping/readiness-dashboard-ml.md)
+-   [ITOM Cloud Accelerate](itom-cloud-accelerate/itom-cloud-accelerate-landing-page.md)
 

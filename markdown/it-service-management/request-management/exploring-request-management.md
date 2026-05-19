@@ -16,8 +16,8 @@ breadcrumb: [Request Management, IT Service Management]
 
 Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
--   **[Request Management architecture](../../planning-and-policy/concept/request-management-architecture.md)**  
+-   **[Request Management architecture](request-management-architecture.md)**  
 Request Management allows catalog items to be requested and fulfilled based on defined flows.
 
-**Parent Topic:**[Request Management](../../planning-and-policy/concept/c_RequestManagement.md)
+**Parent Topic:**[Request Management](c_RequestManagement.md)
 

@@ -25,5 +25,5 @@ You can access the **All** &gt; **Policy and compliance integrator** &gt; **Cont
 
 
 
-For information on how you can import the content from your third-party content providers into the Policy and Compliance Management application tables, see [Content integration batch table](api-batch.md) and [Assign a library import task for compliance approval](../task/assign-lib-import-task.md).
+For information on how you can import the content from your third-party content providers into the Policy and Compliance Management application tables, see [Content integration batch table](api-batch.md) and [Assign a library import task for compliance approval](assign-lib-import-task.md).
 

@@ -23,7 +23,7 @@ Role required: sn\_adv\_appr\_mgmt.approval\_rule\_admin or sn\_adv\_appr\_mgmt.
 
 Approval rules define the approvers for the rule, associate the trigger conditions to the rule, and provide escalation rules for the rule if escalations are enabled in your configuration. The escalation feature enables you to reassign an approval request to another approver when the original approver does not approve or reject a request within a timeframe that you define.
 
-**Note:** If you have the admin role, you can use a script to identify the functional approver for the rule. For details, see the [Create Approval Rule form](../reference/create-approval-rule-form.md).
+**Note:** If you have the admin role, you can use a script to identify the functional approver for the rule. For details, see the [Create Approval Rule form](create-approval-rule-form.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Approval rules define the approvers for the rule, associate the trigger conditio
 
 5.  On the Create New Approval Rule form, fill in the fields.
 
-    For field descriptions, see [Create Approval Rule form](../reference/create-approval-rule-form.md).
+    For field descriptions, see [Create Approval Rule form](create-approval-rule-form.md).
 
 6.  Select **Save**.
 

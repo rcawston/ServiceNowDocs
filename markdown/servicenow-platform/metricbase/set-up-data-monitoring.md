@@ -66,7 +66,7 @@ Retention policy
 
 </td><td>
 
-Sampling frequency and how long MetricBase keeps the values in the database. You cannot customize the value. For a definition of the values, click the magnifying glass and then a policy. The coarser the sampling rate, the less data that stores. Use the coarsest sampling rate that works for your dataset. For example, do not collect data every minute if collecting it once an hour suffices. See [MetricBase retention policies](../reference/metricbase-retention-policies.md) for a description of the policies you can select.
+Sampling frequency and how long MetricBase keeps the values in the database. You cannot customize the value. For a definition of the values, click the magnifying glass and then a policy. The coarser the sampling rate, the less data that stores. Use the coarsest sampling rate that works for your dataset. For example, do not collect data every minute if collecting it once an hour suffices. See [MetricBase retention policies](metricbase-retention-policies.md) for a description of the policies you can select.
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ You've created a time-series specification for a metric that you want to track.
 
 Sample the data according to the time-series specification and send it from an instance to the MetricBase database server.
 
-Use the REST or JavaScript APIs to send the data to the MetricBase database at the rate that is prescribed by the time-series definition. See [Developer resources](../concept/developer-resources.md).
+Use the REST or JavaScript APIs to send the data to the MetricBase database at the rate that is prescribed by the time-series definition. See [Developer resources](developer-resources.md).
 
 **Important:** Send the data at the rate that the time-series definition prescribes. If you send the data at a different rate or for a different duration, you receive an error. Make sure to aggregate the data according to the time-series metric definition. Also, the MetricBase database only stores values of data type float.
 

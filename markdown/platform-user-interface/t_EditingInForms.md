@@ -36,7 +36,7 @@ Role required: none
     **Note:** If you entered a different value from the value saved by the other user, the system does not update the field automatically. Change your value manually to match value entered by the other user. Otherwise, you overwrite the change when you save the record.
 
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 
 ## Insert a record
 

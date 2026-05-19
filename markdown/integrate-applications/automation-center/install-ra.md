@@ -32,5 +32,5 @@ Role required: admin
 3.  Select **Install**.
 
 
-**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md)
+**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](config-ra.md)
 

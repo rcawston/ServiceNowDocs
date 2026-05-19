@@ -23,7 +23,7 @@ Role required: admin or delegated\_developer
 
 Files with preview capabilities open directly in preview mode in ServiceNow Studio, bypassing the record view.
 
-Begin or continue a conversation with Build Agent to edit previewed files through a conversational interaction. For more information, see [Use Build Agent](../../build-agent/tasks/use-build-agent.md).
+Begin or continue a conversation with Build Agent to edit previewed files through a conversational interaction. For more information, see [Use Build Agent](../use-build-agent.md).
 
 ## Procedure
 
@@ -62,5 +62,5 @@ Files with preview capabilities automatically open in preview mode. After you cl
 </table>3.  Take any action you need to based on how the previewed file looks and works.
 
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](working-with-apps-in-servicenow-studio.md)
 

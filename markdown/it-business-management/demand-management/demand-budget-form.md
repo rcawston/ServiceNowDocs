@@ -64,5 +64,5 @@ Total Budget in Demand Currency
 Sum of Capex and Opex amounts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

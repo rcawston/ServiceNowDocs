@@ -52,5 +52,5 @@ Role required: sn\_wfo\_cfg\_itsm.manager
     3.  In the **Group** field, select a group that you want to associate with the learning library.
     4.  Select **Save**.
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

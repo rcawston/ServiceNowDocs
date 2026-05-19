@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure instance user story integration](../task/sn-user-story-integration.md)
+[Configure instance user story integration](sn-user-story-integration.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ With Agile 2.0, map your instances so that they create stories in Production fro
 
 </td></tr><tr><td>
 
-[Configure Azure DevOps story integration](../task/configure-azure-devops-integration-options.md#)
+[Configure Azure DevOps story integration](configure-azure-devops-integration-options.md#)
 
 </td><td>
 
@@ -48,7 +48,7 @@ With Azure DevOps as a Storyboard, you can link your organization and project to
 
 </td></tr><tr><td>
 
-[Configure Jira user story integration](../task/configure-jira-integration-options.md#)
+[Configure Jira user story integration](configure-jira-integration-options.md#)
 
 </td><td>
 
@@ -56,7 +56,7 @@ With Jira as a storyboard, you can link your domain to create specific work item
 
 </td></tr><tr><td>
 
-[Configure other integration options](../task/configure-other-integration-options.md#)+
+[Configure other integration options](configure-other-integration-options.md#)+
 
 </td><td>
 

@@ -314,9 +314,9 @@ This stage is the final stage of the demand workflow.
 **Related topics**  
 
 
-[Create and customize playbooks](../task/playbooks-configuration-for-dmnd-wpc.md)
+[Create and customize playbooks](playbooks-configuration-for-dmnd-wpc.md)
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace.md)
+[Playbooks in Next Experience for Demand Management](playbooks-in-demand-workspace.md)
 
-[Use Playbooks](../task/use-playbooks-in-dw.md)
+[Use Playbooks](use-playbooks-in-dw.md)
 

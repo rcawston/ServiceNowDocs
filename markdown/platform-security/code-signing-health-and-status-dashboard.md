@@ -36,5 +36,5 @@ The Key Pair and Certificates dashboard displays details about the cryptographic
 -   **[Code Signing Configuration](code-signing-configuration.md)**  
 The Code Signing Configuration dashboard displays the system properties and key settings that control Code Signing in your environment, including flags and enforcement policies. These settings enable features, enforce signature validation, and define trusted sources.
 
-**Parent Topic:**[Code Signing](../../encryption/concept/code-signing-landing.md)
+**Parent Topic:**[Code Signing](code-signing-landing.md)
 

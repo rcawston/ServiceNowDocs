@@ -123,5 +123,5 @@ Sends the source file to the email addresses configured in translation preferenc
 
 The translations of the localization task are published and the task is updated with the Closed Complete state.
 
-You can move translation records across instances by using update sets. The translation-related XML files are saved to the update set specified in the settings. For more information, see [Localization Framework Properties: Update Set Strategies](../concept/lf-update-set-strategies.md).
+You can move translation records across instances by using update sets. The translation-related XML files are saved to the update set specified in the settings. For more information, see [Localization Framework Properties: Update Set Strategies](lf-update-set-strategies.md).
 

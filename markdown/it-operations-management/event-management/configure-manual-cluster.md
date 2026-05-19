@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 In a manual service that was not discovered automatically, you can manually group a specific CI or a generic CI class under a logical cluster. The relative impact of a cluster member on the cluster can be configured in the impact tree.
 
-For more information, see [Alert impact calculation](../concept/c_EMImpactCalculation.md).
+For more information, see [Alert impact calculation](c_EMImpactCalculation.md).
 
 ## Procedure
 
@@ -62,10 +62,10 @@ For more information, see [Alert impact calculation](../concept/c_EMImpactCalcul
 
 The manual cluster is saved in the EM Impact Manual Cluster \[em\_impact\_manual\_cluster\] table. The impact calculation is recalculated automatically.
 
-**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+**Parent Topic:**[Configuring CIs in a manual service as a manual cluster](manual-cluster-in-a-manual-service.md)
 
 **Related topics**  
 
 
-[Configuring CIs in a manual service as a manual cluster](../concept/manual-cluster-in-a-manual-service.md)
+[Configuring CIs in a manual service as a manual cluster](manual-cluster-in-a-manual-service.md)
 

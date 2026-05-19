@@ -21,11 +21,11 @@ You should begin your Embedded Help configuration by planning, including identif
 
 -   **[Embedded Help planning](embedded-help-planning.md)**  
 Before writing custom embedded help, plan the content and note the information used in the Embedded Help form. Careful planning ensures that the topic appears for the right page and role.
--   **[Add custom Embedded Help from a copy](../task/add-custom-help-copy.md)**  
+-   **[Add custom Embedded Help from a copy](add-custom-help-copy.md)**  
 To customize embedded help for your organization, you can edit a topic in the base system and save it as a copy.
--   **[Add custom Embedded Help content](../task/add-custom-help-topic.md)**  
+-   **[Add custom Embedded Help content](add-custom-help-topic.md)**  
 You can create a new custom embedded help topic, for example, if you have a custom application and you want to provide help to users.
--   **[Embed video content in help topics](../task/embed-video-help-content.md)**  
+-   **[Embed video content in help topics](embed-video-help-content.md)**  
 You can embed a link to video content in a custom embedded help topic. YouTube and Vimeo video content is supported.
 
 **Parent Topic:**[Embedded Help](embedded-help.md)

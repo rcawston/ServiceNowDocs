@@ -99,7 +99,7 @@ Color of the schedule span displayed for each record on the timeline that matche
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](style-rules-definition.md)
 
 **Related topics**  
 

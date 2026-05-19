@@ -47,7 +47,7 @@ The following items are installed with AI Risk and Compliance:
 -   Roles
 -   Tables
 
-For more information, see [AI Risk and Compliance reference](../reference/ai-risk-and-compliance-reference.md).
+For more information, see [AI Risk and Compliance reference](ai-risk-and-compliance-reference.md).
 
 ## Procedure
 

@@ -19,7 +19,7 @@ Generate a playbook outline and get recommendations for placeholder activities
 
 ## Before you begin
 
-Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](../concept/playbook-assist.md#writing-playbook-prompts).
+Learn how to write prompts to generate better playbooks. For more information, see [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-playbook-prompts).
 
 Role required:
 
@@ -72,7 +72,7 @@ Directions for the playbook that you want outlined.-   **Be precise and descript
 
 </td><td>
 
-Application scope that you want your playbook to run in. Selecting **Global** lets your playbook run in any application scope. For more information, see [Application scope](../../../build/applications/concept/c_ApplicationScope.md).**Important:** You can't change the application scope of a playbook after you've generated a preview for it.
+Application scope that you want your playbook to run in. Selecting **Global** lets your playbook run in any application scope. For more information, see [Application scope](../c_ApplicationScope.md).**Important:** You can't change the application scope of a playbook after you've generated a preview for it.
 
 </td></tr></tbody>
 </table>4.  Select **Generate playbook preview**.
@@ -85,7 +85,7 @@ Application scope that you want your playbook to run in. Selecting **Global** le
 
 6.  Review the preview of the playbook for accuracy.
 
-7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](../concept/playbook-assist.md#writing-playbook-prompts), and select **Regenerate preview**.
+7.  If the playbook outline doesn’t meet your requirements, try rephrasing your prompt according to [Writing prompts and reviewing playbook outlines](playbook-assist.md#writing-playbook-prompts), and select **Regenerate preview**.
 
 8.  If you're ready to generate your playbook outline, select **Save and edit playbook**.
 
@@ -146,5 +146,5 @@ When your playbook's trigger conditions are met, your playbook runs. As a result
 
 Design the Playbook Experience for your agents and fulfillers in UI Builder. To learn how to design and customize the runtime playbook experience in UI Builder, see [Customizing the Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-customize-playbook.md).
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](playbook-assist-landing.md)
 

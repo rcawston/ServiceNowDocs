@@ -34,5 +34,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](configure-sustainable-it.md)
 

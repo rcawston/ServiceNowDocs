@@ -237,22 +237,22 @@ visualization-designer
 </td></tr></tbody>
 </table>**Important:** You must use these paths, which are the same paths of the pages in the Platform Analytics experience. The preconfigured event handlers on the pages use these paths. If you do not give your pages these paths, the event handlers will not work.
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](create-analytics-ws-aes.md)
 
 [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 
 [Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](configure-dashboard-data-broker.md)
 
 [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
 

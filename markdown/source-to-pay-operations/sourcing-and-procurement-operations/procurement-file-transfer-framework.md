@@ -42,15 +42,15 @@ Currently, the following integrations are supported:
 
 **Exports**: Order export
 
-Your suppliers can upload the files with the recommended [folder](../reference/data-sources-info.md) structure and format on the server. ServiceNow imports and exports all the details automatically through scheduled data imports and exports.
+Your suppliers can upload the files with the recommended [folder](data-sources-info.md) structure and format on the server. ServiceNow imports and exports all the details automatically through scheduled data imports and exports.
 
--   **[Third‑party registration for PIF and PFTF integrations](../reference/third-party-registration-for-pif-pftf.md)**  
+-   **[Third‑party registration for PIF and PFTF integrations](third-party-registration-for-pif-pftf.md)**  
 Third‑party registration enables you to configure supplier integrations for Source-to-Pay Integration Framework \(PIF\) and Procurement File Transfer Framework \(PFTF\).
--   **[Import data using FTP server](../task/ftp-data-import.md)**  
+-   **[Import data using FTP server](ftp-data-import.md)**  
 Import a file from a local source, a remote network server, or another instance by providing a path and authentication information. Transfer and manage procurement data in a principled structure that administrators can use for various data management operations.
--   **[Perform export steps](../task/validate-errors.md)**  
+-   **[Perform export steps](validate-errors.md)**  
 Export a file from a local source, a remote network server, or another instance by providing a path and authentication information.
--   **[Data source table information](../reference/data-sources-info.md)**  
+-   **[Data source table information](data-sources-info.md)**  
 The following information can help you with the FTP import and export data.
 
 **Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
@@ -74,7 +74,7 @@ The following information can help you with the FTP import and export data.
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

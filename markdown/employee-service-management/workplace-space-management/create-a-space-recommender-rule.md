@@ -146,16 +146,16 @@ Create a space recommender rule set consisting multiple rules. The rule set calc
 -   **[Add space recommender rules to a space recommender rule set](add-rules-to-space-recommender-rule-set.md)**  
 Add rules to a space recommender rule set based on which qualifying spaces must be calculated when a space assistance request is raised using the Workplace Service Portal. A rule set is a collection of rules.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add an area using Workplace Space Management](add-an-area.md)
 
@@ -179,5 +179,5 @@ Add rules to a space recommender rule set based on which qualifying spaces must 
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

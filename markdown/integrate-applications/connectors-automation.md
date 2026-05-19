@@ -17,7 +17,7 @@ Learn about the connectors that you can use in RPA Desktop Design Studio to crea
 
 **Important:**
 
-For more information about connectors, see [Connectors](../concept/connectors.md).
+For more information about connectors, see [Connectors](connectors.md).
 
 The following table lists the connectors that are available in the RPA Desktop Design Studio.
 
@@ -38,7 +38,7 @@ The following table lists the connectors that are available in the RPA Desktop D
 |Microsoft Excel|[Microsoft Excel connector methods](microsoft-excel-connector-methods.md)|
 |Microsoft Outlook|[Microsoft Outlook connector methods](microsoft-outlook-connector-methods.md)|
 |Microsoft Word|[Microsoft Word connector methods](connectors-msword-methods.md)|
-|PDF|[PDF connector methods](../concept/pdf-connector-methods.md)|
+|PDF|[PDF connector methods](pdf-connector-methods.md)|
 |Python||
 |SAP Connector|[SAP Connector methods](sap-connector-methods.md)|
 |Secure Shell \(SSH\) Connector|[Secure Shell \(SSH\) connector methods](connector-ssh-methods.md)|
@@ -46,9 +46,9 @@ The following table lists the connectors that are available in the RPA Desktop D
 |Table|[Table connector methods](connectors-table-methods.md)|
 |Terminal \(Mainframe\) Connector|[Terminal connector methods](connectors-terminal-methods.md)|
 |Timer|[Timer connector methods](timer-connector-methods.md)|
-|Universal App Connector|[Universal app connector](../concept/universal-app-connector.md)|
+|Universal App Connector|[Universal app connector](universal-app-connector.md)|
 |VB.Net|[VB connector methods](connector-vb-methods.md)|
 |Windows Connector|[Windows Connector methods](connectors-windows-methods.md)|
 
-**Parent Topic:**[Use a connector in RPA Desktop Design Studio](../task/use-connector.md)
+**Parent Topic:**[Use a connector in RPA Desktop Design Studio](use-connector.md)
 

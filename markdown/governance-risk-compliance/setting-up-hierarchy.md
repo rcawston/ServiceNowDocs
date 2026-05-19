@@ -118,7 +118,7 @@ Activate Pillars -   Navigate to the Pillars module.
 
 </td><td>
 
-[Set up pillars and entity types from Workspace UI](../task/set-up-from-ws.md)
+[Set up pillars and entity types from Workspace UI](set-up-from-ws.md)
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Activate entity types -   Navigate to the Entity types module.
 
 </td><td>
 
-[Set up pillars and entity types from Workspace UI](../task/set-up-from-ws.md)
+[Set up pillars and entity types from Workspace UI](set-up-from-ws.md)
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Configure entity filters -   Within each entity type, configure filters.
 
 </td><td>
 
-[Configure the entity filters](../task/conf-ent-filter.md), [Activate the entity filters](../task/activate-ent-fil-directly.md), and [Verify the configuration of entity filters](../task/verify-ent-fil.md)
+[Configure the entity filters](conf-ent-filter.md), [Activate the entity filters](activate-ent-fil-directly.md), and [Verify the configuration of entity filters](verify-ent-fil.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Generate entities -   Run entity generation process. Entities are created automa
 
 </td><td>
 
-[Generate entities automatically using a scheduled job](../task/gen-ent-auto.md)
+[Generate entities automatically using a scheduled job](gen-ent-auto.md)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Configure Main node \(Post-setup\) -   Set up CMDB integration.
 
 </td><td>
 
-[Configure the Main node configurations](../task/set-up-main-node.md)
+[Configure the Main node configurations](set-up-main-node.md)
 
 </td></tr></tbody>
 </table>

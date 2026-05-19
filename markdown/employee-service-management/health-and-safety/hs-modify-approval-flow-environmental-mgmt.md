@@ -47,5 +47,5 @@ If you decide to modify the flow, deactivate the original flow and make a copy. 
 -   **[Configure the chemical request approver based on location](hs-configure-approver-by-location.md)**  
 Configure approvers according to the location name entered on the request form. Multiple approvers can be associated with a single location.
 
-**Parent Topic:**[Setting up Health and Safety Environmental Management](../concept/hs-setting-up-environmental-management.md)
+**Parent Topic:**[Setting up Health and Safety Environmental Management](hs-setting-up-environmental-management.md)
 

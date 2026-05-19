@@ -239,7 +239,7 @@ When a service acknowledgment is triggered, a task is created against the invoic
 </td></tr></tbody>
 </table>To create an invoice from a supplier for a received product or service, edit the **Subtotal** field in the Invoice form to the actually received amount, add an invoice line to capture the specifics of that purchase order line, and update the **Line amount invoiced** field in that Invoice Line form to reflect the same received amount. When the invoice line and the invoice are both updated to the Paid state, an expense line in auto-generated in the Project form of Project Management for which the purchase was originally made.
 
-For more information on Sourcing and Procurement Operations's integration with Project Management, see [Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md).
+For more information on Sourcing and Procurement Operations's integration with Project Management, see [Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md).
 
 ## Invoice calculations and state flows
 

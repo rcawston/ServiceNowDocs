@@ -38,5 +38,5 @@ Role required: sn\_sec\_tisc\_analyst
     **Note:** You can also preview the report before sharing.
 
 
-**Parent Topic:**[Working with Reports in TISC](../concept/tisc-reports-lib-view.md)
+**Parent Topic:**[Working with Reports in TISC](tisc-reports-lib-view.md)
 

@@ -48,11 +48,11 @@ console.log(errorMessage, errorType);
 **Related topics**  
 
 
-[Configure the Case view component instance](../task/configure-case-view-component-on-instance.md)
+[Configure the Case view component instance](configure-case-view-component-on-instance.md)
 
-[Embed the Case view component instance on the third-party website](../task/embed-case-view-comp-on-third-party-website.md)
+[Embed the Case view component instance on the third-party website](embed-case-view-comp-on-third-party-website.md)
 
-[Component properties for the Case view](component-properties-for-case-view-comp.md)
+[Component properties for the Case view](../component-properties-for-case-view-comp.md)
 
-[Event handler in the enhanced Case view component](we-case-view-event-handler.md)
+[Event handler in the enhanced Case view component](../we-case-view-event-handler.md)
 

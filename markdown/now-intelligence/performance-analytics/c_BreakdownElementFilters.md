@@ -26,7 +26,7 @@ An elements filter consists of a conditional filter or related list conditions a
 
 [Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)
 
-[Examining indicators with KPI Details](../../par-for-workspace/reference/kpi-details-components.md)
+[Examining indicators with KPI Details](../kpi-details-components.md)
 
 [Performance Analytics widgets](c_Widgets.md)
 

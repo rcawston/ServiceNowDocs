@@ -48,7 +48,7 @@ Analyze the data by drilling down into the data for a team, a specific team memb
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [system property](../reference/components-installed-configurable-wfo-cs.md).
+    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [system property](components-installed-configurable-wfo-cs.md).
 
 4.  Analyze team performance.
 

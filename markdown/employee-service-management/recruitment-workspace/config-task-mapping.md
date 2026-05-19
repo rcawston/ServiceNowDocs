@@ -33,12 +33,12 @@ Role required: admin
 
 6.  In the Answer new record form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Task mapping form](../reference/answer-record-ta.md).
+    For a description of the field values, see [Task mapping form](answer-record-ta.md).
 
 
 ## Result
 
 You've mapped a task to a task type.
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
 

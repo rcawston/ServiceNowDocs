@@ -18,7 +18,7 @@ Install the Zero Copy Connector for ERP \(Enterprise Resource Planning\) applica
 
 ## Before you begin
 
-For a complete list of prerequisites for installing Zero Copy Connector for ERP, including licensing information, see [Requirements for installing Zero Copy Connector for ERP](../reference/erpc-prereqs-for-installation.md).
+For a complete list of prerequisites for installing Zero Copy Connector for ERP, including licensing information, see [Requirements for installing Zero Copy Connector for ERP](erpc-prereqs-for-installation.md).
 
 Role required: admin
 
@@ -54,5 +54,5 @@ An admin or a user with the sn\_erp\_integration.erp\_admin role must enable the
 -   The property must be configured for either a non-production or production state. \(Enabling the property on a production instance can create metadata records when new models and fields are added in Zero Copy Connector for ERP.\)
 -   System properties are maintained in the System Property table \[sys\_properties\], which you can access by entering `sys_properties.list` directly in the Navigator Filter.
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)
 

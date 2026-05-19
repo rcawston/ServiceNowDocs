@@ -275,7 +275,7 @@ Disabled
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](understanding-the-data-model.md)
 
 [TISC Library Objects form view](tisc-library-home-page-view.md)
 
@@ -283,9 +283,9 @@ Disabled
 
 [Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](../task/tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](tisc-delete-lib-records.md)
 
-[Export intelligence data](../task/tisc-export-observables.md)
+[Export intelligence data](tisc-export-observables.md)
 
-[Confirm Potential Relationships from Related Records](../task/confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
 

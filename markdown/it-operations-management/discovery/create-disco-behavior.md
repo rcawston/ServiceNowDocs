@@ -143,14 +143,14 @@ Enter the actual name of the MID Server \(`mid_server`\) or domain \(`win_domain
 
 [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#) of type **Configuration Item**, and select **Use Behavior** for the MID Server selection method.
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
 
 [Set up a load balancing behavior](t_SetUpLoadBalDiscoBehavr.md)
 
-[Examples of Discovery behavior functionalities](../reference/r_DefineTheFunctionalities.md)
+[Examples of Discovery behavior functionalities](r_DefineTheFunctionalities.md)
 
 [Discovery behavior example: access an ACL protected SNMP device](t_AccessAnACLProtectedSNMPDevice.md)
 

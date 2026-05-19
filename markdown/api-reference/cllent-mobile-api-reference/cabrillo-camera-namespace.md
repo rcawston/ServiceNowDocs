@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS camera functions to provide camera access for bar code scanning.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.camera - getBarcode\(\)
 

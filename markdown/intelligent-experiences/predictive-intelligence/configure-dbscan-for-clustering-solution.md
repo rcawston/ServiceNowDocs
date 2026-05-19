@@ -63,7 +63,7 @@ In this example scenario, you apply DBSCAN to a clustering solution.
     ![When you submit the record you created, the DBSCAN solution parameter appears on your clustering solution definition form.](../images/configure-dbscan-clustering5.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 

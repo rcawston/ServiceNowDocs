@@ -64,5 +64,5 @@ Items in a transfer order must be received before they can be returned.
     If you return another defective model from the same, original order, the two defective returns are merged into one line item.
 
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](work-with-transfer-orders.md)
 

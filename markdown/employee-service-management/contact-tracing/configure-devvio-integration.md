@@ -93,5 +93,5 @@ The Devvio Users Risk Report updates daily at midnight \(00:00\) instance time. 
 
 **Note:** If a user with an open case has a health status other than **Cleared**, a work note is added but the source remains unchanged. If a user with an open case has a health status of **Cleared**, their health status updates to **Under Investigation** or **Infected** and a work note is added. The source for the case remains unchanged.
 
-**Parent Topic:**[Collecting risk scores in Contact Tracing](../concept/contact-tracing-collect-risk-scores.md)
+**Parent Topic:**[Collecting risk scores in Contact Tracing](contact-tracing-collect-risk-scores.md)
 

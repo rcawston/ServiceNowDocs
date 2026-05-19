@@ -93,5 +93,5 @@ Description
     An approval request task is sent to each of the approvers for the plan configuration.
 
 
-**Parent Topic:**[Journey designer plan configuration owners](../concept/jny-dsgnr-owner-role-and-responsibility.md)
+**Parent Topic:**[Journey designer plan configuration owners](jny-dsgnr-owner-role-and-responsibility.md)
 

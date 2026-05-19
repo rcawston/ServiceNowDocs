@@ -27,7 +27,7 @@ Application templates automatically add data to your application. If you use a t
 
 ## Forms
 
-When you add data to your app, any associated form views display in the **Experience** section of your app. To edit the form, select it in the **Experience** section. Form views can be edited in the **Forms** tab of Table Builder. For more information, see [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md).
+When you add data to your app, any associated form views display in the **Experience** section of your app. To edit the form, select it in the **Experience** section. Form views can be edited in the **Forms** tab of Table Builder. For more information, see [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md).
 
 ## Table extension
 
@@ -342,13 +342,13 @@ Stores data that allows you to require authorization on tasks before the work is
 </td></tr></tbody>
 </table>Use the methods listed below to create a data model and add data to your application.
 
--   **[Create a blank table](../task/use-existing-table.md)**  
+-   **[Create a blank table](use-existing-table.md)**  
 Add a data table to your application from an existing table that you or someone else previously created or from scratch.
--   **[Use a spreadsheet to add data](../task/upload-multi-sheets.md)**  
+-   **[Use a spreadsheet to add data](upload-multi-sheets.md)**  
 Add data tables and records to your application by uploading a Microsoft Excel spreadsheet.
 -   **[Use a PDF to create data tables](pdf-extractor.md#)**  
 Create tables from a PDF form using the PDF extractor tool in App Engine Studio.
--   **[Create a data integration](../task/import-map-data-existing-table.md)**  
+-   **[Create a data integration](import-map-data-existing-table.md)**  
 Add new or updated information to your current data sets by importing it into existing tables in your application through the power of Integration Hub. Schedule future imports to add data at specific times.
 -   **[Modify application data tables](edit-data.md)**  
 Use Table Builder to modify data tables used in your application.

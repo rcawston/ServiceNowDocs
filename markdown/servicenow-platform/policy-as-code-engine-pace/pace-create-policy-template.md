@@ -88,7 +88,7 @@ Select this check box if the policy template will be written in low-code.**Note:
 
 5.  Select the **Template Builder** tab and fill in the conditions in the Policy logic section, then **Save**.
 
-    For more information about the parameters and condition fields, see the [Passing parameters to PaCE policies](../concept/pace-passing-parameters.md) and [Policy logic condition fields](../reference/pace-policy-logic-fields.md) topic.
+    For more information about the parameters and condition fields, see the [Passing parameters to PaCE policies](pace-passing-parameters.md) and [Policy logic condition fields](pace-policy-logic-fields.md) topic.
 
 
 ## What to do next

@@ -19,7 +19,7 @@ Create and view Sidebar discussions on the Mobile Agent application.
 
 Role required: wm\_agent
 
-Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](activate-sidebar-mobile.md).
+Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](../mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 
 ## About this task
 
@@ -52,5 +52,5 @@ Participants can view and reply to the discussion. The discussion can be accesse
 **Related topics**  
 
 
-[Summarize a Sidebar discussion on the ServiceNow Agent application](na-fsm-summarize-sidebar-platform.md#)
+[Summarize a Sidebar discussion on the ServiceNow Agent application](../now-assist-for-field-service-management-fsm/na-fsm-summarize-sidebar-platform.md#)
 

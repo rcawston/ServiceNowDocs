@@ -17,8 +17,8 @@ All FSO applications have a base case type table. Use the base case type table w
 
 For more information on the application case types that are available, see the following:
 
--   [Using banking applications](../../../../product/fso-common/concept/fso-banking-overview.md)
--   [Using insurance applications](../../../../product/fso-common/concept/fso-insurance-overview.md)
+-   [Using banking applications](fso-banking-overview.md)
+-   [Using insurance applications](fso-insurance-overview.md)
 
 When implementing FSO, start with mapping your use cases to the FSO domain-level case types. This enables you to extend the prebuilt FSO applications and use the provided roles and business logic.
 

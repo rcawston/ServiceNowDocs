@@ -77,5 +77,5 @@ The space type you are associating a Mappedin location.**Note:** The Location ty
 </table>3.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](../concept/wsm-mappedin-type-table.md)
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](wsm-mappedin-type-table.md)
 

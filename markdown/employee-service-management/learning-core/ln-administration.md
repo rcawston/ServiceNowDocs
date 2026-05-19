@@ -33,7 +33,7 @@ Role required: learning\_admin
 
 3.  View the consolidated report on courses in each source, the number of catalogs associated with each of the source, and the status of learning tasks by source.
 
-    For more information, see [Reporting Solutions for Learning Core](../concept/learning-exp-db.md).
+    For more information, see [Reporting Solutions for Learning Core](learning-exp-db.md).
 
 
 -   **[Create a source for a learning system](set-up-int-lc.md)**  
@@ -43,7 +43,7 @@ Configure properties for various settings used in Learning Core.
 -   **[Configure a learning system](create-source-ln.md)**  
 Configure the learning system so that the schedule flow pulls learning content from the third-party system into a ServiceNow instance.
 
-**Parent Topic:**[Configuring Learning Core](../concept/configuring-learning-core.md)
+**Parent Topic:**[Configuring Learning Core](configuring-learning-core.md)
 
 **Related topics**  
 

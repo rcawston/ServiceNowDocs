@@ -15,7 +15,7 @@ breadcrumb: [Monitor, Document Intelligence, Enable AI experiences]
 
 Monitor Document Intelligence \(DocIntel\) performance at the use case and field levels in the use case performance dashboard.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the use case performance dashboard
 
@@ -48,7 +48,7 @@ Access the use case performance dashboard in the Performance tab on the use case
 
 ### Before you begin
 
--   Ensure that the Document Intelligence application \(sn\_docintel\) and Document Intelligence Admin \(com.snc.docintel\_admin\) ServiceNow® Store application is installed and active. For more information, see [Install Document Intelligence](../task/install-document-intelligence.md).
+-   Ensure that the Document Intelligence application \(sn\_docintel\) and Document Intelligence Admin \(com.snc.docintel\_admin\) ServiceNow® Store application is installed and active. For more information, see [Install Document Intelligence](install-document-intelligence.md).
 -   Have an active use case with multiple completed document tasks. For more information, see [Set up document extraction use cases](set-up-document-extraction-use-cases.md).
 -   Role required: sn\_docintel.admin, sn\_docintel.manager, or admin.
 

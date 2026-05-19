@@ -53,5 +53,5 @@ When the template is not configured to automatically create Journey Accelerator 
 **Related topics**  
 
 
-[Working with Journey Accelerator plans](../concept/working-with-journey-accelerator-plans.md)
+[Working with Journey Accelerator plans](../journey-accelerator/working-with-journey-accelerator-plans.md)
 

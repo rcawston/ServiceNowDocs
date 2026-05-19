@@ -38,7 +38,7 @@ Role required: it\_project\_manager
     The selected file appears in the Attachments related list.
 
 
-**Parent Topic:**[Applying templates to projects](../concept/c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](c_ProjectTemplates.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Role required: it\_project\_manager
 
 [Apply template to a blank project in project workspace](t_ApplyTempProjWorkbench.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](c_ProjectTemplateConfiguration.md)
 

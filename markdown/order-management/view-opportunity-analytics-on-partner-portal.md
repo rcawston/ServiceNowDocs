@@ -36,10 +36,10 @@ Role required: sn\_prm\_opptym.oppty.parnter\_ui
 
 4.  You can also view all the active opportunities from highest to lowest.
 
-    To learn more about the fields on the Opportunity list, see [Add and view the details of an opportunity](../concept/opportunity-management-details-tab.md).
+    To learn more about the fields on the Opportunity list, see [Add and view the details of an opportunity](opportunity-management-details-tab.md).
 
 5.  View all the opportunities that the user has access to from the **All Opportunities** tab.
 
 
-**Parent Topic:**[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+**Parent Topic:**[Using Partner Relationship Management](using-partner-relationship-management.md)
 

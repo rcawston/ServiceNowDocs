@@ -41,5 +41,5 @@ Install DevOps Config Policy content pack for a default set of DevOps Config pol
 -   **[Install DevOps Config Exporter content pack](devops-config-install-launch-pack.md)**  
 Install DevOps Config Exporter content pack for a default set of DevOps Config exporters that you can use as-is, or customize for your needs.
 
-**Parent Topic:**[Configuring DevOps Config](../concept/setting-up-devops-config-validation.md)
+**Parent Topic:**[Configuring DevOps Config](setting-up-devops-config-validation.md)
 

@@ -30,7 +30,7 @@ The MID Server polls the ECC queue at the maximum regular interval defined in th
 
 ![MID Server ECC queue polling process](../image/MIDServerPollingArchitectureDiagram.png "MID Server ECC queue polling process")
 
-**Note:** The AMB client on the MID Server does not work in all environments and might need to be disabled to avoid performance issues. To disable AMB in your environment, set the **mid.disable\_amb** parameter to **true**. When you disable AMB, the MID Server no longer receives notifications for each new ECC queue output record. See  **mid.poll.time** in  [MID Server parameters](../reference/mid-server-parameters.md#) for more information.
+**Note:** The AMB client on the MID Server does not work in all environments and might need to be disabled to avoid performance issues. To disable AMB in your environment, set the **mid.disable\_amb** parameter to **true**. When you disable AMB, the MID Server no longer receives notifications for each new ECC queue output record. See  **mid.poll.time** in  [MID Server parameters](mid-server-parameters.md#) for more information.
 
 ## ECC Queue information
 

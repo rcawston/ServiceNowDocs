@@ -18,7 +18,7 @@ ServiceNow Order Management provides a centralized platform to create and manage
 
 Access the Order Management capabilities from the CSM/FSM Configurable Workspace to capture and manage orders. A typical order life cycle is a structured, multiphase process that guides a customer's request from initial submission to final delivery and fulfillment.
 
-1.  [Creating orders](../task/som-create-product-order.md)
+1.  [Creating orders](som-create-product-order.md)
 
     The order life cycle begins when a customer's request is submitted. This could be from a salesperson creating a quote that's then converted to an order, a sales agent directly capturing an order through the workspace, a customer placing an order online through the Business Portal, or an order being created via an API from another system. This phase focuses on getting all the customer-facing details, including what was ordered, pricing, and customer information, into the system.
 
@@ -34,7 +34,7 @@ Access the Order Management capabilities from the CSM/FSM Configurable Workspace
 
     This is a critical step for businesses selling complex products or services. The single, high-level order is automatically broken down into smaller, actionable service orders or fulfillment tasks based on how the process admin has configured order decomposition. For example, a customer's order for a telecom bundle would be decomposed into separate tasks for IT provisioning, a field technician, and the billing department. This process translates the customer's request into a detailed operational plan.
 
-    View product, service, or resource orders for tracking the fulfillment process, verifying that all required tasks and suborders are created correctly, and confirming that the order progresses through its life cycle as expected. For more information, see [View domain orders](../task/view-domain-orders.md).
+    View product, service, or resource orders for tracking the fulfillment process, verifying that all required tasks and suborders are created correctly, and confirming that the order progresses through its life cycle as expected. For more information, see [View domain orders](view-domain-orders.md).
 
 5.  \[System\] [Order orchestration](order-orchestration.md)
 
@@ -56,7 +56,7 @@ Access the Order Management capabilities from the CSM/FSM Configurable Workspace
 
     Manage failures that may take place during order fulfillment due to errors and exceptions. These exceptions include incorrect data, connectivity problems, inadequate inventory supply, or other unforeseen issues.
 
-9.  [Monitoring order jeopardy](../task/monitoring-jeopardy-management.md)
+9.  [Monitoring order jeopardy](monitoring-jeopardy-management.md)
 
     Proactively monitor and mitigate order delivery delays, dynamically track task progression to predict potential order fulfillment delays, and alert service delivery teams when fulfillment plans exceed or are expected to exceed committed completion times by monitoring the jeopardy status.
 
@@ -84,7 +84,7 @@ Access the Order Management capabilities from the CSM/FSM Configurable Workspace
 
 [Reviewing customer or partner accounts](reviewing-customer-accounts.md)
 
-[Now Assist for Order Management](../../now-assist-order-mgmt/concept/now-assist-order-management.md)
+[Now Assist for Order Management](now-assist-order-management.md)
 
-[Order Management reference](../reference/order-mgt-reference.md)
+[Order Management reference](order-mgt-reference.md)
 

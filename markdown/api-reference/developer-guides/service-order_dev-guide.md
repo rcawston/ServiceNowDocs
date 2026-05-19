@@ -15,7 +15,7 @@ breadcrumb: [Developer guides, API implementation and reference]
 
 Use the Service Order Open API to create, update, and retrieve service order information.
 
-This developer guide provides information on how to extend the [Service Order Open API](../../../inbound-rest/concept/service-order-open-api.md#) to make various customizations.
+This developer guide provides information on how to extend the [Service Order Open API](../rest-apis/service-order-open-api.md#) to make various customizations.
 
 ## Extending the Service Order Open API
 
@@ -92,7 +92,7 @@ ServiceOrderProcessor.prototype = Object.extendsObject(ServiceOrderExtensionOOB,
 
 ### Additional REST operations
 
-To create additional operations beyond the existing GET and POST operations, [create additional scripted REST resources](../../../custom-web-services/task/t_CreateAScriptedRESTAPIResource.md) for the Service Order Open API. The logic of the new scripted REST resources should be consistent with the existing operations. Define functions for the new operations in a new script include.
+To create additional operations beyond the existing GET and POST operations, [create additional scripted REST resources](../rest-api-explorer/t_CreateAScriptedRESTAPIResource.md) for the Service Order Open API. The logic of the new scripted REST resources should be consistent with the existing operations. Define functions for the new operations in a new script include.
 
 ### Field mapping
 

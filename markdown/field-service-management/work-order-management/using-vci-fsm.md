@@ -17,5 +17,5 @@ Initiate a conference call from your native mobile application with the help of 
 
 As a field service agent you can initiate a Zoom or Microsoft Teams meeting from the ServiceNow Agent application. You can set up both Zoom and Microsoft Teams conference bridges or either one in your ServiceNow instance.
 
-If you have set up both conference bridges in your ServiceNow instance, you can select either bridge option to [make a call from the ServiceNow Agent application](../task/make-a-call-fsm-vci.md). Selecting Zoom enables you to connect with customers and your peer agents. Microsoft Teams enables you to connect with your peers only.
+If you have set up both conference bridges in your ServiceNow instance, you can select either bridge option to [make a call from the ServiceNow Agent application](make-a-call-fsm-vci.md). Selecting Zoom enables you to connect with customers and your peer agents. Microsoft Teams enables you to connect with your peers only.
 

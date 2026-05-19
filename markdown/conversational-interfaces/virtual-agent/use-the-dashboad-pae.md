@@ -44,5 +44,5 @@ Set the date range for the visualizations using the date picker. You can either 
     The data displayed on the dashboard adjusts according to the new date range.
 
 
-**Parent Topic:**[Using the Conversational Analytics Dashboard](../concept/use-the-dashboard-overview-pae.md)
+**Parent Topic:**[Using the Conversational Analytics Dashboard](use-the-dashboard-overview-pae.md)
 

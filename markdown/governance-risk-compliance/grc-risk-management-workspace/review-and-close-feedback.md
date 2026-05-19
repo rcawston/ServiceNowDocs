@@ -41,5 +41,5 @@ Role required: sn\_rvw\_feedback.reviewer
     2.  Select **Ok**.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](integrate-advanced-risk-with-parallel-review-feedback.md)
 

@@ -115,5 +115,5 @@ As a legal fulfiller, assign the task created for filling Legal Tracker details 
 -   **[Enter Legal Tracker details and submit for integration](lmm-enter-lt-details.md)**  
 As a task fulfiller, enter the details in the Legal Tracker section of the outside counsel engagement request.
 
-**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

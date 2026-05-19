@@ -40,5 +40,5 @@ Copying a threshold duplicates all threshold parameters including type, color, v
 
 A new threshold is created for the metric with the configuration from the original threshold. You can now modify either threshold independently.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

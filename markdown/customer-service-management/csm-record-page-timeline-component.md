@@ -19,7 +19,7 @@ The timeline uses icons to display record events and colors to show ranges of ti
 -   Select the **Show details** toggle to display more information.
 -   Hover over the icons to show tool tips.
 
-For more information about the timeline features, see [CSM Configurable Workspace form ribbon and components](../reference/csm-agent-workspace-ribbon.md).
+For more information about the timeline features, see [CSM Configurable Workspace form ribbon and components](csm-agent-workspace-ribbon.md).
 
 ![The timeline component shows record activities, the duration of each activity, and who performed the activity using colors and icons.](../image/component-timeline.png "Timeline component with Task activity timeline preset and controller")
 
@@ -27,6 +27,6 @@ The [Timeline component](https://horizon.servicenow.com/workspace/components/sn-
 
 To add the Timeline component to a record page as a standalone component, the admin can select the **Task activity timeline preset and controller** and complete the component configuration. For more information, see the following topics:
 
--   [Add the Timeline component as a standalone component](../task/add-timeline-component-as-standalone.md)
--   [Enable the Timeline component to refresh](../task/enable-timeline-component-to-refresh.md)
+-   [Add the Timeline component as a standalone component](add-timeline-component-as-standalone.md)
+-   [Enable the Timeline component to refresh](enable-timeline-component-to-refresh.md)
 

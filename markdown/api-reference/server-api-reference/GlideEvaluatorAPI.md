@@ -17,7 +17,7 @@ The GlideScopedEvaluator API allows you to evaluate scripts in a GlideRecord fie
 
 This API evaluates scripts within the script field type. The scope of the record defines the scope of the script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideScopedEvaluator - GlideScopedEvaluator\(\)
 
@@ -29,7 +29,7 @@ Instantiates a GlideScopedEvaluator object.
 
 ### Scoped equivalent
 
-To use the GlideScopedEvaluator\(\) method in a scoped application, use the corresponding scoped method: [GlideScopedEvaluator\(\)](../../glideEvaluatorScoped/concept/c_GlideEvaluatorScopedAPI.md#).
+To use the GlideScopedEvaluator\(\) method in a scoped application, use the corresponding scoped method: [GlideScopedEvaluator\(\)](c_GlideEvaluatorScopedAPI.md#).
 
 ## GlideScopedEvaluator - evaluateScript\(GlideRecord grObj, String scriptField, Object variables\)
 
@@ -73,7 +73,7 @@ admin says hello
 
 ### Scoped equivalent
 
-To use the evaluateScript\(\) method in a scoped application, use the corresponding scoped method: [evaluateScript\(\)](../../glideEvaluatorScoped/concept/c_GlideEvaluatorScopedAPI.md#).
+To use the evaluateScript\(\) method in a scoped application, use the corresponding scoped method: [evaluateScript\(\)](c_GlideEvaluatorScopedAPI.md#).
 
 ## GlideScopedEvaluator - getVariable\(String name\)
 
@@ -111,7 +111,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the getVariable\(\) method in a scoped application, use the corresponding scoped method: [getVariable\(\)](../../glideEvaluatorScoped/concept/c_GlideEvaluatorScopedAPI.md#).
+To use the getVariable\(\) method in a scoped application, use the corresponding scoped method: [getVariable\(\)](c_GlideEvaluatorScopedAPI.md#).
 
 ## GlideScopedEvaluator - putVariable\(String name, Object value\)
 
@@ -150,5 +150,5 @@ Output:
 
 ### Scoped equivalent
 
-To use the putVariable\(\) method in a scoped application, use the corresponding scoped method: [putVariable\(\)](../../glideEvaluatorScoped/concept/c_GlideEvaluatorScopedAPI.md#).
+To use the putVariable\(\) method in a scoped application, use the corresponding scoped method: [putVariable\(\)](c_GlideEvaluatorScopedAPI.md#).
 

@@ -17,7 +17,7 @@ To create a certification template, follow these instructions.
 
 ## Before you begin
 
-Activate the Certification Core plugin to enable the Compliance functionality. See [Compliance Activation](../concept/c_ActivatingCompliance.md) for details.
+Activate the Certification Core plugin to enable the Compliance functionality. See [Compliance Activation](c_ActivatingCompliance.md) for details.
 
 ## Procedure
 

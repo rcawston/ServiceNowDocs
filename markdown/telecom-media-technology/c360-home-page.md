@@ -36,14 +36,14 @@ The Related items in the contextual sidebar provides quick access to related rec
 
 To configure the list of related items that appears, navigate to **All** &gt; **Customer service** &gt; **Customer**. Then select Account, Consumer, or Contact, add, or remove a related list from the view to update it in the contextual panel.
 
-**Note:** The related items that appear are determined by the related lists configured in the Customer 360 view. See [Setup Telecommunications Customer 360](../task/telecom-cust-360-landing.md) for details.
+**Note:** The related items that appear are determined by the related lists configured in the Customer 360 view. See [Setup Telecommunications Customer 360](telecom-cust-360-landing.md) for details.
 
 ## Tasks
 
 You can perform the following tasks on this page by selecting an option from the **Create** drop down list. You will either see a dialog box or a new page where you can enter information related to the selected option.
 
--   Service Problem Case: See [Create a service problem case from the workspace](../../tmt-spmc/task/create-service-problem-case.md).
--   Case: See [Create a service problem case from the Customer Service Portal](../../tmt-assurance-workflows/task/create-a-product-case-from-the-customer-service-portal.md).
+-   Service Problem Case: See [Create a service problem case from the workspace](create-service-problem-case.md).
+-   Case: See [Create a service problem case from the Customer Service Portal](create-a-product-case-from-the-customer-service-portal.md).
 -   Customer Order: See [Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md).
 -   Work Order: See [Create a work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrder.md).
 -   Complaint Case: See [Case Playbook for Complaints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-complaint-overview.md).

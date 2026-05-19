@@ -17,9 +17,9 @@ Create orders or quotes from product inventory records on the CSM Configurable W
 
 |Action|Description|
 |------|-----------|
-|[Modify product inventory records](../task/modify_product_inventory_records.md)|Perform the **Modify** operation on a single product inventory record that results in the creation of an order.|
-|[Modify product inventory records to create a quote](../task/modify_product_inventory_records_to_create_a_quote.md)|Perform the **Modify** operation on a single product inventory record that results in the creation of a quote.|
-|[Resume product inventory records](../task/resume_product_inventory_records.md)|Perform the **Resume** operation on single or multiple product inventory records that result in the creation of resume orders.|
-|[Suspend product inventory records](../task/suspend_product_inventory_records.md)|Perform the **Suspend** operation on single or multiple product inventory records that result in the creation of suspend orders.|
-|[Disconnect product inventory records](../task/disconnect_product_inventory_records.md)|Perform the **Disconnect** operation on single or multiple product inventory records that result in the creation of disconnect orders.|
+|[Modify product inventory records](modify_product_inventory_records.md)|Perform the **Modify** operation on a single product inventory record that results in the creation of an order.|
+|[Modify product inventory records to create a quote](modify_product_inventory_records_to_create_a_quote.md)|Perform the **Modify** operation on a single product inventory record that results in the creation of a quote.|
+|[Resume product inventory records](resume_product_inventory_records.md)|Perform the **Resume** operation on single or multiple product inventory records that result in the creation of resume orders.|
+|[Suspend product inventory records](suspend_product_inventory_records.md)|Perform the **Suspend** operation on single or multiple product inventory records that result in the creation of suspend orders.|
+|[Disconnect product inventory records](disconnect_product_inventory_records.md)|Perform the **Disconnect** operation on single or multiple product inventory records that result in the creation of disconnect orders.|
 

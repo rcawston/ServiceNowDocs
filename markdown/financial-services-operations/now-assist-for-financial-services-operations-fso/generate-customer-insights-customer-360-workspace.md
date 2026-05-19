@@ -47,7 +47,7 @@ The AI agent answers your questions using information from its configured knowle
 **Related topics**  
 
 
-[Agentic AI use cases for FSO](../concept/usecase-now-assist.md)
+[Agentic AI use cases for FSO](usecase-now-assist.md)
 
-[Agentic Contact Center for Banking AI agents overview](../concept/agentic-contact-center-for-banking-agents-overview.md)
+[Agentic Contact Center for Banking AI agents overview](agentic-contact-center-for-banking-agents-overview.md)
 

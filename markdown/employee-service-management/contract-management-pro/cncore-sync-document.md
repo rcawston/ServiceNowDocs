@@ -44,5 +44,5 @@ Role required: sn\_cm\_core.contract\_fulfiller or sn\_cm\_core.contract\_user
 
 A new contract document revision is created with the updated metadata and signatories. The changes made in the previous revision are retained.
 
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](../employee-service-management/cncore-request-ss-contract-1.md)
 

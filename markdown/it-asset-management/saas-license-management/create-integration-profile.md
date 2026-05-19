@@ -20,7 +20,7 @@ A SaaS integration profile pulls your company's software usage information from 
 
 You can create an integration profile for the following SaaS applications:
 
--   [Adobe Cloud](adobe-cloud-integration.md)
+-   [Adobe Cloud](../software-asset-management/adobe-cloud-integration.md)
 -   [Adobe Workfront](integrate-with-workfront.md#)
 -   [Aha!](integrate-with-aha.md#)
 -   [Asana](integrate-with-asana.md#)
@@ -36,7 +36,7 @@ You can create an integration profile for the following SaaS applications:
 -   [GoTo](integrate-with-goto.md#)
 -   [Jira Software](integrate-with-jira.md)
 -   [Looker](integrate-with-looker.md#)
--   [Microsoft 365](microsoft-o365.md)
+-   [Microsoft 365](../software-asset-management/microsoft-o365.md)
 -   [Microsoft Dynamics 365 and Power Apps](integrating-with-microsoft365.md#)
 -   [Miro](integrate-with-miro-enterprise.md#)
 -   [monday.com](integrate-with-monday.md#)
@@ -59,15 +59,15 @@ You can create an integration profile for the following SaaS applications:
 -   [Zendesk](integrate-with-zendesk.md#)
 -   [Zoom](integrate-with-zoom.md#)
 
-You can also create integrations for Adobe Cloud and Microsoft Office 365. For more information, see [Microsoft 365 integration](microsoft-o365.md) and [Software Asset Management publisher pack for Adobe](adobe-publisher-pack.md).
+You can also create integrations for Adobe Cloud and Microsoft Office 365. For more information, see [Microsoft 365 integration](../software-asset-management/microsoft-o365.md) and [Software Asset Management publisher pack for Adobe](../software-asset-management/adobe-publisher-pack.md).
 
-If you want to integrate with a SaaS application that is not on this list, you can create a custom integration profile. For more information, see [Create a custom integration profile](../task/create-integration-custom.md).
+If you want to integrate with a SaaS application that is not on this list, you can create a custom integration profile. For more information, see [Create a custom integration profile](create-integration-custom.md).
 
 **Note:**
 
-The SaaS integration automatically creates a software model and a reclamation rule for the software. Always [review the reclamation rule](../task/add-reclamation-rule-sub.md) to make sure that reclamation candidates are identified using the criteria you want.
+The SaaS integration automatically creates a software model and a reclamation rule for the software. Always [review the reclamation rule](add-reclamation-rule-sub.md) to make sure that reclamation candidates are identified using the criteria you want.
 
-After reviewing the reclamation rule, [create a software entitlement](../task/track-software-rights.md) to track purchased licenses and cost.
+After reviewing the reclamation rule, [create a software entitlement](../software-asset-management/track-software-rights.md) to track purchased licenses and cost.
 
 ![Process for setting up a SaaS integration: Initiate the connection in the software admin account, create an integration profile, add a software entitlement, and review the reclamation rule.](../image/mmasset0021802-saas-integration.svg "Integrating with SaaS applications")
 

@@ -40,7 +40,7 @@ If changes are made to a contract start date, end date, or terms and conditions,
 -   **[Run a contract report](t_CreatingContractReports.md)**  
 A variety of contract reports are available to help track and manage contracts.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](c_Contracts.md)
 
 **Related topics**  
 
@@ -53,7 +53,7 @@ A variety of contract reports are available to help track and manage contracts.
 
 [Send the contract for approval](t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](c_TermsAndConditions.md)
 
 [Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
 

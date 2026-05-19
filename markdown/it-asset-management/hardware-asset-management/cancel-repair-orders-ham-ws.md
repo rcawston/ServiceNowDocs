@@ -35,7 +35,7 @@ Role required: asset
 -   The stage of the repair order changes to Cancelled and the state changes to Closed Incomplete.
 -   The stage and state of the repair order lines that weren't completed change to Cancelled and Closed Incomplete.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

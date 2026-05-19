@@ -22,7 +22,7 @@ If the before business rule is executed during an insert action, and a condition
 **Related topics**  
 
 
-[GlideRecord - setAbortAction\(Boolean b\)](../../../app-store/dev_portal/API_reference/GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - setAbortAction\(Boolean b\)](../server-api-reference/c_GlideRecordAPI.md#)
 
-[Scoped GlideRecord - setAbortAction\(Boolean b\)](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[Scoped GlideRecord - setAbortAction\(Boolean b\)](../server-api-reference/c_GlideRecordScopedAPI.md#)
 

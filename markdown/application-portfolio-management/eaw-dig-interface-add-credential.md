@@ -39,12 +39,12 @@ You can also relate credentials to from a business application record or from a 
 
 8.  On the Create New Credential form, fill in the fields.
 
-    For field descriptions, see [Digital interface credentials form](../../reference/eaw-reference/eaw-dig-interface-credential-form.md).
+    For field descriptions, see [Digital interface credentials form](eaw-dig-interface-credential-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

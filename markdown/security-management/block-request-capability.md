@@ -13,13 +13,13 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The Block Action capability blocks observables associated with a security incident on a firewall, web proxy, or other control point using implementation flows. This capability is used during incident response investigations to contain an identified threat.
 
-The Block Request capability has a flow, [Security Operations Integration - Block Request Flow](../../security-operations-integrations/concept/secops-integration-block-request-workflow.md), that executes the request to block. This flow accepts a list of observables, finds any implementing capabilities, and executes the request based on the configured flow.
+The Block Request capability has a flow, [Security Operations Integration - Block Request Flow](secops-integration-block-request-workflow.md), that executes the request to block. This flow accepts a list of observables, finds any implementing capabilities, and executes the request based on the configured flow.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Run Block Request](../task/run-block-request.md)**  
+-   **[Run Block Request](run-block-request.md)**  
 Blocks communication with observables associated with a security incident.
--   **[Security Operations Integration - Block Request Flow](../../security-operations-integrations/concept/secops-integration-block-request-workflow.md)**  
+-   **[Security Operations Integration - Block Request Flow](secops-integration-block-request-workflow.md)**  
 The Security Operations Integration - Block Request flow is a high-level flow independent of integrations. It blocks observables associated with a security incident. Use it to fulfill an integration such as Palo Alto Networks - Firewall.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -45,5 +45,5 @@ The Security Operations Integration - Block Request flow is a high-level flow in
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

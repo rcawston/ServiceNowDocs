@@ -23,7 +23,7 @@ Navigate to the modules that assist you in implementing and managing the CSDM do
 
 -   **CSDM Data Foundations Dashboard**
 
-    The CSDM Data Foundations dashboard displays key CSDM indicators on a single page to help you get the full benefit from your ServiceNow AI Platform products. See [CSDM Data Foundations dashboard](csdm-data-foundations-dashboard.md).
+    The CSDM Data Foundations dashboard displays key CSDM indicators on a single page to help you get the full benefit from your ServiceNow AI Platform products. See [CSDM Data Foundations dashboard](../configuration-management-database-cmdb/csdm-data-foundations-dashboard.md).
 
 -   **Getting Started**
 
@@ -31,9 +31,9 @@ Navigate to the modules that assist you in implementing and managing the CSDM do
 
 -   **Service Instance Settings**
 
-    Use the Service Instance Settings module to specify the attributes and relationships that are required when a user creates a service instance. For more information, see [Modify the attributes and relationships required for application services](../../configuration-management/task/modify-req-fields-appservice.md).
+    Use the Service Instance Settings module to specify the attributes and relationships that are required when a user creates a service instance. For more information, see [Modify the attributes and relationships required for application services](../configuration-management-database-cmdb/modify-req-fields-appservice.md).
 
-    See [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+    See [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
 -   **Service instances Dashboard**
 
@@ -41,7 +41,7 @@ Navigate to the modules that assist you in implementing and managing the CSDM do
 
 -   **Life Cycle Mapping**
 
-    Use the Life Cycle Mapping module to specify how existing legacy status values should be converted to CSDM life-cycle value pairs \(**life cycle stage** and **life cycle stage status**\). You map both asset and CI legacy status values to life-cycle value pairs. See [Enabling life-cycle synchronization from legacy to asset](../../configuration-management/concept/csdm-life-cycle-standard-values.md#).
+    Use the Life Cycle Mapping module to specify how existing legacy status values should be converted to CSDM life-cycle value pairs \(**life cycle stage** and **life cycle stage status**\). You map both asset and CI legacy status values to life-cycle value pairs. See [Enabling life-cycle synchronization from legacy to asset](csdm-life-cycle-standard-values.md#).
 
 -   **Design**
 
@@ -60,11 +60,11 @@ Navigate to the modules that assist you in implementing and managing the CSDM do
 
 [Synchronizing group assignment attributes](csdm-data-synchronize.md)
 
-[Set the group for a CI or an entire class of CIs](../task/csdm-data-synchronize-enable.md)
+[Set the group for a CI or an entire class of CIs](csdm-data-synchronize-enable.md)
 
-[Synchronize user groups for a technology management offering](../task/csdm-enable-tso.md)
+[Synchronize user groups for a technology management offering](csdm-enable-tso.md)
 
--   **[CSDM Data Foundations dashboard](csdm-data-foundations-dashboard.md)**  
+-   **[CSDM Data Foundations dashboard](../configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)**  
 The CSDM Data Foundations dashboard displays key CSDM indicators on a single page to help you get the full benefit from your ServiceNow AI Platform products.
 -   **[Monitoring and managing service instance settings](csdm-module-app-service-dashboard.md)**  
 The Service instance dashboard enables you to monitor and manage service instances \(service instances were formerly called application services\) to confirm that they are fully configured and are populated in the CMDB.

@@ -74,5 +74,5 @@ Brief description on how the major incident was resolved.
 
 The state of the major incident is set to **Closed**.
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](managing-major-incident-sow.md)
 

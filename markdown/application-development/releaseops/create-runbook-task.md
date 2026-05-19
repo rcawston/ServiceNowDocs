@@ -21,7 +21,7 @@ Role required: sn\_releaseops.releaseops\_tester or sn\_releaseops.releaseops\_d
 
 ## About this task
 
-Runbook tasks enable you to pause playbook progress until a task is resolved. To learn more about runbook tasks, see [Runbook tasks in ReleaseOps](../concept/runbook-tasks.md).
+Runbook tasks enable you to pause playbook progress until a task is resolved. To learn more about runbook tasks, see [Runbook tasks in ReleaseOps](runbook-tasks.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ Runbook tasks enable you to pause playbook progress until a task is resolved. To
 
 The runbook task is added to the playbook stage that you selected. When the playbook is executed, progress will stop until the runbook task is completed.
 
-**Parent Topic:**[Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md)
+**Parent Topic:**[Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md)
 

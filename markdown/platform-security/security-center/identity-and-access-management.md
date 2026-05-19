@@ -17,17 +17,17 @@ Use the tools in the Access Management section verify that your data is only acc
 
 ![Identity and Access Management in Security Center](../images/iam1.png)
 
-IAM consists of three tools you can use to manage access to the data on your instance. You can also select **Go to Console** to view these and other tools within the [Access management console](../../contextual-security/concept/access-management-console.md).
+IAM consists of three tools you can use to manage access to the data on your instance. You can also select **Go to Console** to view these and other tools within the [Access management console](../access-control/access-management-console.md).
 
--   **[Access findings](../../contextual-security/concept/access-findings.md)**
+-   **[Access findings](../access-control/access-findings.md)**
 
     Access findings feature displays the potential vulnerabilities that are discovered the last time access checks were ran on your ServiceNow AI Platform.
 
--   **[Access Analyzer](../../../integrate/identity/concept/access-analyzer.md)**
+-   **[Access Analyzer](../access-control/access-analyzer.md)**
 
     Use the **Analyze Access and Permissions** console to view permissions for a selected user, role, group, or compare access between two users.
 
--   **[Scripting Governance for default group](../../security/concept/scripting-governance.md)**
+-   **[Scripting Governance for default group](../access-control/scripting-governance.md)**
 
     Use the Scripting Governance Tool to configure preferences for the Conditional Script Writer group. Users in this group are assigned the **snc\_required\_script\_writer\_permission** role, which allows users to access scripts and script-like fields across the platform.
 

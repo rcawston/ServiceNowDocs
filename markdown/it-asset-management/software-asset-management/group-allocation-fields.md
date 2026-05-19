@@ -103,7 +103,7 @@ Entitlement condition to allocate a user group to the filtered software entitlem
 **Related topics**  
 
 
-[Create group allocations](../task/create-group-allocations.md)
+[Create group allocations](create-group-allocations.md)
 
-[Allocating licenses to a user group](../concept/group-user-allocation.md)
+[Allocating licenses to a user group](group-user-allocation.md)
 

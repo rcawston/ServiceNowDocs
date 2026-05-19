@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.admin
 
     ![Node configuration new record.](../image/node-config-new-record.png)
 
-    For more information on the fields, see [Node configuration form](../reference/node-configuration-form.md).
+    For more information on the fields, see [Node configuration form](node-configuration-form.md).
 
 4.  Select the table in the **Table** field.
 

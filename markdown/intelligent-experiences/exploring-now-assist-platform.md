@@ -165,14 +165,14 @@ The Other workflow accommodates additional plugins and skills that don't fit int
 [Now Assist for Zero Copy Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-for-zero-copy-connector-for-erp.md)
 
 </td></tr></tbody>
-</table>Now Assist products include some or all of the following foundational platform tools for Now Assist. For more information, see [Now Assist skills in the Platform workflow](../../now-assist-skills/concept/now-assist-on-now-platform.md).
+</table>Now Assist products include some or all of the following foundational platform tools for Now Assist. For more information, see [Now Assist skills in the Platform workflow](now-assist-skills/now-assist-on-now-platform.md).
 
 -   Administrators install plugins, manage skills, and analyze usage and performance with the [Overview tab in Now Assist Admin](configuring-now-assist.md).
 -   Users can take advantage of Now Assist skills by using the [Now Assist panel](now-assist-panel-overview.md) on the instance.
 -   Use [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md) to generate answers for AI Search.
 -   Use [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md) to run generative AI skills in a mobile environment.
 -   Use [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md) to create conversational catalog experiences and author topics that use LLM topic discovery.
--   Developers can use the [Generative AI Controller](../../generative-ai-controller/concept/generative-ai-controller.md) to integrate generative AI features in custom flows and conversations by using your own third-party large language model \(LLM\) licenses.
+-   Developers can use the [Generative AI Controller](generative-ai-controller/generative-ai-controller.md) to integrate generative AI features in custom flows and conversations by using your own third-party large language model \(LLM\) licenses.
 
 The following diagram shows what's available in the Now Assist framework.
 
@@ -183,12 +183,12 @@ The following diagram shows what's available in the Now Assist framework.
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Leverage the power of search with the Now LLM generative AI model to answer questions in user searches with actionable AI-generated summaries of relevant knowledge articles.|[Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md)|Everyone|
-|Install and configure Now Assist applications and the skills they provide.|[Now Assist Admin console](../../now-assist-admin/task/install-now-assist-feature-plugins.md)|Administrators|
-|Choose which skills to turn on, and which users can access them.|[Now Assist Admin console](../../now-assist-admin/task/configure-a-now-assist-skill.md)|Administrators|
-|Monitor the usage and performance of generative AI features and capabilities offered under Now Assist.|[Now Assist Analytics](../../now-assist-analytics/concept/now-assist-analytics.md)|Administrators|
+|Install and configure Now Assist applications and the skills they provide.|[Now Assist Admin console](install-now-assist-feature-plugins.md)|Administrators|
+|Choose which skills to turn on, and which users can access them.|[Now Assist Admin console](configure-a-now-assist-skill.md)|Administrators|
+|Monitor the usage and performance of generative AI features and capabilities offered under Now Assist.|[Now Assist Analytics](now-assist-analytics.md)|Administrators|
 |Access generative AI skills in context through a user-friendly interface.|[Now Assist panel](now-assist-panel-overview.md)|Everyone|
 |Use Now Assist skills on mobile devices.|[Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)|Everyone|
-|Customize your workflows and use your own third-party LLM license.|[Generative AI Controller](../../generative-ai-controller/concept/generative-ai-controller.md)|Administrators or developers|
-|Use Now Assist in other platform features.|[Now Assist skills in the Platform workflow](../../now-assist-skills/concept/now-assist-on-now-platform.md)|Administrators or developers|
+|Customize your workflows and use your own third-party LLM license.|[Generative AI Controller](generative-ai-controller/generative-ai-controller.md)|Administrators or developers|
+|Use Now Assist in other platform features.|[Now Assist skills in the Platform workflow](now-assist-skills/now-assist-on-now-platform.md)|Administrators or developers|
 |Monitor Now Assist consumption on your instance.|[Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md)|Administrators|
 

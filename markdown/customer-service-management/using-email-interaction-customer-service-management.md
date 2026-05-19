@@ -58,7 +58,7 @@ By default, when multiple agents initiate outbound emails for the same customer,
 
 This behavior is configurable using the **sn\_eaai\_core.create\_outbound\_interaction\_per\_agent.target\_tables** system property. When a table is listed in this property, new outbound interaction is created for each outbound email initiated by different agents for the same customer. For example, if Agent A and Agent B both compose emails to the same contact, each agent gets a separate outbound interaction instead of sharing one. When a table isn’t listed, all agent drafts are consolidated into a single WIP interaction.
 
-For more information, see [System properties for configuring Email Interaction](../reference/system-properties-for-configuring-email-as-an-interaction.md).
+For more information, see [System properties for configuring Email Interaction](system-properties-for-configuring-email-as-an-interaction.md).
 
 ## Wrap-up codes for email interactions
 
@@ -89,17 +89,17 @@ For CCaaS-routed email interactions, agents can transfer the interaction to anot
 
 [Omnichannel](omnichannels-communicating-customers.md#)
 
-[System properties for configuring Email Interaction](../reference/system-properties-for-configuring-email-as-an-interaction.md)
+[System properties for configuring Email Interaction](system-properties-for-configuring-email-as-an-interaction.md)
 
-[Wrap up email interactions](../task/wrap-up-email-interactions-eaai.md)
+[Wrap up email interactions](wrap-up-email-interactions-eaai.md)
 
-[Transfer email interactions](../task/transfer-email-interactions-eaai.md)
+[Transfer email interactions](transfer-email-interactions-eaai.md)
 
-[Create outbound email interactions](../task/create-outbound-email-interactions-eaai.md)
+[Create outbound email interactions](create-outbound-email-interactions-eaai.md)
 
-[Configure wrap-up codes for email interactions](../task/configure-wrap-up-codes-email-interactions-eaai.md)
+[Configure wrap-up codes for email interactions](configure-wrap-up-codes-email-interactions-eaai.md)
 
-[Associate wrap-up codes with email interactions](../task/associate-wrap-up-codes-email-interactions.md)
+[Associate wrap-up codes with email interactions](associate-wrap-up-codes-email-interactions.md)
 
 [Routing and assigning an email interaction to agents](routing-assigning-email-interaction-agents.md#)
 

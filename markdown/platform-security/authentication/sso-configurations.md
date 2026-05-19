@@ -17,8 +17,8 @@ You must perform several steps to set up Multi-Provider SSO, including configuri
 
 Refer the following topics to know more about each of the configurations.
 
--   [Multi-Provider SSO \(SAML\) IdP authentication flow](../../authentication/concept/idpauthflow.md)
--   [Configure Multi-Provider SSO properties](../task/t_ConfigureMultiProviderSSOProps.md)
--   [Create an external identity provider](../task/t_CreateUpdateIdentityProvider.md)
--   [Configure users for Multi-Provider SSO](../task/t_ConfigureUsersMultiProviderSSO.md)
+-   [Multi-Provider SSO \(SAML\) IdP authentication flow](idpauthflow.md)
+-   [Configure Multi-Provider SSO properties](t_ConfigureMultiProviderSSOProps.md)
+-   [Create an external identity provider](t_CreateUpdateIdentityProvider.md)
+-   [Configure users for Multi-Provider SSO](t_ConfigureUsersMultiProviderSSO.md)
 

@@ -82,5 +82,5 @@ To view validation status of changes and changes to related items, like tracked 
             ![Select CI to view corresponding change record in the Change history pane](../image/ws-map-history-select-CI.png)
 
 
-**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](../concept/service-analysis-maintenance-legacy-workspace.md)
+**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](service-analysis-maintenance-legacy-workspace.md)
 

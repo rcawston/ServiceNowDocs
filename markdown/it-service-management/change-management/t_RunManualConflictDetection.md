@@ -131,7 +131,7 @@ Issue that caused the conflict. The available types are:
 
 Resolve any conflicts and reschedule the change.
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](c_ConflictDetection.md)
 
 **Related topics**  
 
@@ -142,7 +142,7 @@ Resolve any conflicts and reschedule the change.
 
 [Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](change-conflict-calendar.md)
 
 [Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
 

@@ -22,15 +22,15 @@ Use the combination of the following data integration methods to integrate third
 
 <table id="table_l4j_j3q_wxb" class="nav-card"><tbody><tr><td>
 
-[Integration Commons for CMDB![](../image/icon-common-integration.png)Framework that provides a set of common operations and functionalities for integrations.](integration-commons-for-cmdb.md)
+[Integration Commons for CMDB![](../image/icon-common-integration.png)Framework that provides a set of common operations and functionalities for integrations.](../cmdb-integration-commons/integration-commons-for-cmdb.md)
 
 </td><td>
 
-[IntegrationHub ETL![](../image/icon-integrate-cmdb.png)ETL transform maps for integrations.](integrationhub-etl.md)
+[IntegrationHub ETL![](../image/icon-integrate-cmdb.png)ETL transform maps for integrations.](../integration-hub-etl/integrationhub-etl.md)
 
 </td><td>
 
-[Service Graph Connectors![](../image/icon-sgc.png)Connectors for bringing in third-party data correctly and quickly.](cmdb-sgc-available.md)
+[Service Graph Connectors![](../image/icon-sgc.png)Connectors for bringing in third-party data correctly and quickly.](../service-graph-connectors/cmdb-sgc-available.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Simplify integration and resolve issues with the following enhanced integration 
 
 <table id="table_itc_2y5_3dc" class="nav-card"><tbody><tr><td>
 
-[Service Graph Connector Central![](../../../reuse/icons/brand-icons/bus-workflow.svg)CMDB Workspace](../../sgc-central/reference/sgcc-landing.md)A view for managing the full life cycle of creating, editing, monitoring, and debugging Service Graph Connector connections.
+[Service Graph Connector Central![](../../../reuse/icons/brand-icons/bus-workflow.svg)CMDB Workspace](../sgcc-landing.md)A view for managing the full life cycle of creating, editing, monitoring, and debugging Service Graph Connector connections.
 
 </td><td>
 
@@ -68,11 +68,11 @@ Simplify integration and resolve issues with the following enhanced integration 
 
     A collection of class diagrams and class attributes for key CMDB classes.
 
--   **[CMDB tables descriptions](../reference/cmdb-tables-details.md)**
+-   **[CMDB tables descriptions](cmdb-tables-details.md)**
 
     Descriptions of key CMDB tables in the base system.
 
--   **[CMDB CI Class Models](cmdb-ci-class-models.md)**
+-   **[CMDB CI Class Models](../cmdb-ci-class-models/cmdb-ci-class-models.md)**
 
     A ServiceNow Store app that adds class models that extend the base CMDB class hierarchy. The hierarchy includes class descriptions, identification rules, identifier entries, and dependent relationships, if applicable. You can then use the added classes as any other CMDB base class.
 

@@ -21,7 +21,7 @@ Role required: sn\_ca.campaign\_manager or sn\_cd.content\_admin or admin
 
 ## About this task
 
-For information about campaigns and campaign bundles/stages, see [Creating campaigns](../../employee-center/concept/ecpro-campaigns.md).
+For information about campaigns and campaign bundles/stages, see [Creating campaigns](ecpro-campaigns.md).
 
 ## Procedure
 
@@ -106,5 +106,5 @@ Brief description about the campaign bundle.
 
 The campaign is delivered to the employees on the scheduled job timeline.
 
-**Parent Topic:**[Create Microsoft Teams campaigns using the Content Experience Builder](../concept/create-campaign-content-experience-builder.md)
+**Parent Topic:**[Create Microsoft Teams campaigns using the Content Experience Builder](create-campaign-content-experience-builder.md)
 

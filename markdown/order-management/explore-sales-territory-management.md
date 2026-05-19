@@ -43,6 +43,6 @@ Sales Territory Management​ executes and refines the territory plan so that th
 The following topics provide more information about configuring and using Sales Territory Management​:
 
 -   [Configuring Sales Territory Management​](configure-sales-territory-management.md)
--   [Using Sales Territory Management​](../task/use-sales-territory-management.md)
--   [Components installed with Sales Territory Management​](../reference/components-installed-sales-territory-management.md)
+-   [Using Sales Territory Management​](use-sales-territory-management.md)
+-   [Components installed with Sales Territory Management​](components-installed-sales-territory-management.md)
 

@@ -20,7 +20,7 @@ Inform any users who can view the dashboard that you’re deleting it. Users who
 
 Role required: You can delete any dashboard that you created. Users with the admin or dashboard\_admin role can delete any dashboard.
 
-**Note:** The steps to delete a Core UI responsive dashboard are different. For more information, see [Manage responsive dashboards](manage-responsive-dashboards.md#).
+**Note:** The steps to delete a Core UI responsive dashboard are different. For more information, see [Manage responsive dashboards](performance-analytics/manage-responsive-dashboards.md#).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Role required: You can delete any dashboard that you created. Users with the adm
 -   **[Configure dashboard deletion actions in the Workflow Studio](delete-db-in-ac-wf.md)**  
 Using the Workflow Studio, you can add actions to the dashboard deletion process. Actions may include sending an email to the dashboard's users or generating an approval request.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -55,13 +55,13 @@ Using the Workflow Studio, you can add actions to the dashboard deletion process
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

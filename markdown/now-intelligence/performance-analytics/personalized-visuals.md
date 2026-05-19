@@ -35,7 +35,7 @@ When an element filter returns more than one element, the scores for these eleme
 
 ![A widget on a breakdown dashboard showing multiple elements from the breakdown dashboard separately but showing multiple elements from the personalized visual as an aggregate](../image/personal-vis-bkdown-dashboard.png "Widget with personalized visual on breakdown dashboard")
 
-For more information, see [Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md).
+For more information, see [Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md).
 
 ## Configure a widget with personalized visuals
 
@@ -141,7 +141,7 @@ Select any roles that a user must have to select this element filter on a widget
     |-----|-----------|
     |Name|My open incidents|
     |Indicator|Number of open incidents|
-    |Breakdown|Select `Assigned To`. If this breakdown is not available, add it to the indicator. For more information, see [assign and map breakdowns](../task/create-breakdown-mapping.md#).|
+    |Breakdown|Select `Assigned To`. If this breakdown is not available, add it to the indicator. For more information, see [assign and map breakdowns](create-breakdown-mapping.md#).|
     |Type|Score|
     |Visualization|Latest Score|
 

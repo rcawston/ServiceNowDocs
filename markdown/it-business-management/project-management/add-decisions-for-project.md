@@ -29,7 +29,7 @@ Role required: it\_project\_manager
 
 4.  On the Decision form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](ridac-forms.md).
 
 5.  Search in the knowledge base for any article related to the decision.
 
@@ -52,5 +52,5 @@ Role required: it\_project\_manager
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 

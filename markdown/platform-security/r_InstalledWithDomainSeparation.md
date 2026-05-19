@@ -108,20 +108,20 @@ MSP Extensions add several new default options to the type field of the Group ta
 |Deactivated script|
 |\(BP\) Set Location to User|Monitors the incident location field and sets the location field to the caller's location.|
 
-**Parent Topic:**[Exploring domain separation](../concept/c_DomainSeparation.md)
+**Parent Topic:**[Exploring domain separation](c_DomainSeparation.md)
 
 **Related topics**  
 
 
-[Configuration that can be delegated to internal or external customers](../concept/ds-before-you-begin.md)
+[Configuration that can be delegated to internal or external customers](ds-before-you-begin.md)
 
-[Domain assignment](../concept/c_DomainAssignment.md)
+[Domain assignment](c_DomainAssignment.md)
 
-[Visibility domains and Contains domains](../concept/c_DomainVisibility.md)
+[Visibility domains and Contains domains](c_DomainVisibility.md)
 
-[Domain scope](../concept/c_DomainScope.md)
+[Domain scope](c_DomainScope.md)
 
-[Concepts for service providers](../concept/sp-concepts.md)
+[Concepts for service providers](sp-concepts.md)
 
 [Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 

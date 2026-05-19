@@ -45,7 +45,7 @@ The location consent form helps you configure the communication channels for app
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

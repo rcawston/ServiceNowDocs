@@ -61,7 +61,7 @@ https://myinstance.service-now.com/oauth_token.do?grant_type=authorization_code&
 
 The endpoint on the instance returns an access token and a refresh token. The refresh token can be used to request additional access tokens.
 
-You can manage the tokens, including revoking the token, in the instance. See [Manage OAuth tokens](../task/t_ManageTokens.md).
+You can manage the tokens, including revoking the token, in the instance. See [Manage OAuth tokens](t_ManageTokens.md).
 
 ![Client application sends a token to ServiceNow instance, which then sends a JSON payload of data](../../../product/discovery/image/AuthCodeGrantFlow3.png)
 

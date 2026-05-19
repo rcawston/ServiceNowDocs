@@ -17,7 +17,7 @@ The elements of an attack are represented by other SDOs or SCOs. However, the In
 
 Examples of infrastructure include, C2 servers used in an attack, a device, or a server that is part of a defense, or database servers targeted by an attack.
 
--   **[Define infrastructure](../task/define-infrastructure.md)**  
+-   **[Define infrastructure](define-infrastructure.md)**  
 Define an Infrastructure that is any systems, software services, and any associated physical or virtual resources intended to support some purpose of an attack.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

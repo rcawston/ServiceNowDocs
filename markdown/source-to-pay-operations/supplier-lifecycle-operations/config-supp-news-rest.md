@@ -36,12 +36,12 @@ Get the Bing News Search API subscription key.
 6.  Select **Update**.
 
 
-**Parent Topic:**[News Integration for Supplier Lifecycle Operations](../concept/supp-news-integration.md)
+**Parent Topic:**[News Integration for Supplier Lifecycle Operations](supp-news-integration.md)
 
 **Related topics**  
 
 
-[News Integration for Supplier Lifecycle Operations](../concept/supp-news-integration.md)
+[News Integration for Supplier Lifecycle Operations](supp-news-integration.md)
 
-[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 

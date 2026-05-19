@@ -19,8 +19,8 @@ Use Jamf to install Agent Client Collector \(ACC\) on multiple macOS devices at 
 
 Installing ACC on user devices using Jamf 
 
--   Create an agent registration key and retrieve its value to use in the procedure. For more information, see [Create an ACC registration key](../../product/digital-end-user-experience/task/setup-acc.md).
--   Install ACC on your local machine. For more information, see [Install ACC for DEX on macOS](../../product/digital-end-user-experience/task/install-acc-for-dex-macos.md).
+-   Create an agent registration key and retrieve its value to use in the procedure. For more information, see [Create an ACC registration key](setup-acc.md).
+-   Install ACC on your local machine. For more information, see [Install ACC for DEX on macOS](install-acc-for-dex-macos.md).
 
 Role required: agent\_client\_collector\_admin
 

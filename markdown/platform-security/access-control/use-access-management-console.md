@@ -25,6 +25,6 @@ Role required: access\_analyzer\_admin, user\_admin
 
 2.  Use the following features:
 
-    -   [Access analyzer](../../../integrate/identity/concept/access-analyzer.md)
-    -   [Access findings](../concept/access-findings.md)
+    -   [Access analyzer](access-analyzer.md)
+    -   [Access findings](access-findings.md)
 

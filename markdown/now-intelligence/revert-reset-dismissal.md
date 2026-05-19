@@ -46,5 +46,5 @@ Role required: You must be a responsible user for the KPI, or have the admin, pa
 
 Now make a new decision for the oldest signal whose decision you reverted. Then work your way through any subsequent signals.
 
-**Parent Topic:**[Using KPI Signals](../concept/using-kpi-signals.md)
+**Parent Topic:**[Using KPI Signals](using-kpi-signals.md)
 

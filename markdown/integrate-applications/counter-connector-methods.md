@@ -17,7 +17,7 @@ The Counter connector methods increment, decrement, or reset integers as part of
 
 Increments an integer by the value that you specify.
 
-To provide input, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide input, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -29,7 +29,7 @@ To view or update the properties, see [Counter method properties](counter-method
 
 Decrements an integer by the value that you specify. The default integer is 1.
 
-To provide input, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide input, see [Configure port properties](configure-input-port-properties.md).
 
 |Parameter|Description|Data port type|Data type|Default value|Mandatory|
 |---------|-----------|--------------|---------|-------------|---------|
@@ -61,5 +61,5 @@ To view or update the properties, see [Counter method properties](counter-method
 
 The following example shows the use of the Counter connector methods.![Counter connector methods.](../image/counter-connector-illustration.png)
 
-**Parent Topic:**[Counter](../concept/counter.md)
+**Parent Topic:**[Counter](counter.md)
 

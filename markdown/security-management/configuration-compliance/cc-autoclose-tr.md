@@ -17,7 +17,7 @@ Activate Auto-Close Stale Test Results \(TRs\) to automatically close older test
 
 ## Before you begin
 
-For more information about this feature, key terms, and any setup that may be required for your third-party integrations that import test result data, see [Automatically closing stale test results in Configuration Compliance](../concept/cc-autoclose-tr-overview.md).
+For more information about this feature, key terms, and any setup that may be required for your third-party integrations that import test result data, see [Automatically closing stale test results in Configuration Compliance](cc-autoclose-tr-overview.md).
 
 Role required: sn\_vulc.admin
 
@@ -47,6 +47,6 @@ Role required: sn\_vulc.admin
     1.  If any TRs in a remediation task are **Open**, the remediation task state is not changed.
     2.  If at least one TR is State: **Closed** Resolution: **Fixed** and the rest are **Closed-Stale**, the remediation task state transitions to **Closed** Resolution: **Fixed**.
     3.  If all the TRs in a remediation task are **Closed** Resolution: **Fixed**, the TRG state transitions to State: **Closed** Resolution: **Canceled**.
-    For more information about state transitions, see [Test result and remediation task state transitions in the Configuration Compliance application](../concept/cc-state-transition.md).
+    For more information about state transitions, see [Test result and remediation task state transitions in the Configuration Compliance application](cc-state-transition.md).
 
 

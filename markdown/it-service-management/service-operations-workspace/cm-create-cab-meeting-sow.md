@@ -200,7 +200,7 @@ Add change requests to your CAB meeting agenda for review.
 -   **[Manage attendees in a CAB meeting](cm-manage-attendees-cab-meeting-sow.md)**  
 Manage attendees of your CAB meeting who will review the change requests during the meeting.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
@@ -209,7 +209,7 @@ Manage attendees of your CAB meeting who will review the change requests during 
 
 [Work on a change request in Service Operations Workspace](work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Create a change task in Service Operations Workspace](create-change-task-sow.md)
 

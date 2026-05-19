@@ -218,7 +218,7 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](../concept/work-playbooks-spo.md)
+**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
 
 **Related topics**  
 
@@ -231,15 +231,15 @@ Updates the case to Closed Completed.
 
 [Process an edit receipt request in playbook](playbook-process-edit-receipt.md)
 
-[Fulfilling request for copy of contract in playbook](../concept/fulfilling-request-for-contract.md)
+[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
 
-[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+[Routing NDAs to suppliers](routing-ndas-to-suppliers.md)
 
-[Verifying delivery addresses in playbook](../concept/delivery-address-in-playbook.md)
+[Verifying delivery addresses in playbook](delivery-address-in-playbook.md)
 
-[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+[Reviewing and updating general ledger details in playbook](general-ledger-details-in-playbook.md)
 
-[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 
-[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+[Streamlining the supplier risk assessment workflow](simplify-risk-assessment-wf.md)
 

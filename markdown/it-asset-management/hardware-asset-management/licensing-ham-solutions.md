@@ -87,11 +87,11 @@ When you activate all the Hardware Asset Management solutions on your ServiceNow
 |Telecom Network Inventory|1:1|Resource category isn't available|Installed|Installed|Telecommunications Network Inventory|
 |End User Computers|4:1|Resource category isn't available|Resource category isn't available|Installed|Hardware Asset Management|
 
-You can view the subscription details of your Hardware Asset Management application and solutions using the ITAM License Report. For more details, see [View the license report for the Hardware Asset Management application](../task/view-license-report-ham.md).
+You can view the subscription details of your Hardware Asset Management application and solutions using the ITAM License Report. For more details, see [View the license report for the Hardware Asset Management application](view-license-report-ham.md).
 
 ## Exclusion of Operational Technology \(OT\) hardware assets from HAM licensing
 
-The licensing model of the OT Asset Management \(OTAM\) application supports a few default hardware resource categories to license OT hardware assets. For more details on OT hardware assets, see [OT Asset Workspace](../../enterprise-asset-management/concept/ot-asset-ws-otam.md). These OTAM hardware resource categories have equivalent HAM licensing resource categories.
+The licensing model of the OT Asset Management \(OTAM\) application supports a few default hardware resource categories to license OT hardware assets. For more details on OT hardware assets, see [OT Asset Workspace](../enterprise-asset-management/ot-asset-ws-otam.md). These OTAM hardware resource categories have equivalent HAM licensing resource categories.
 
 |HAM resource category|Equivalent OTAM hardware resource category|
 |---------------------|------------------------------------------|
@@ -107,7 +107,7 @@ The licensing model of the OT Asset Management \(OTAM\) application supports a f
 When you activate all the Hardware Asset Management solutions along with the OT Asset Management application, and opt-in HAM resource categories, consider the following points:
 
 -   Non-OT hardware assets, with the **OT entity** flag set to **false**, are licensed only under the resource categories of HAM licensing.
--   OT hardware assets, with the **OT entity** flag set to **true**, are licensed only under the hardware resource categories of the OT Asset Management application. For details, see [OT Asset Management licensing](../../enterprise-asset-management/concept/licensing-ot-asset-management.md).
+-   OT hardware assets, with the **OT entity** flag set to **true**, are licensed only under the hardware resource categories of the OT Asset Management application. For details, see [OT Asset Management licensing](../enterprise-asset-management/licensing-ot-asset-management.md).
 -   HAM workflows support both OT hardware assets and non-OT hardware assets.
 -   OT Asset Management workflows support only OT hardware assets.
 

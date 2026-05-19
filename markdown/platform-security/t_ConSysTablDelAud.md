@@ -27,6 +27,6 @@ Role required: admin
 
 4.  Click **Save**.
 
-    **Note:** For more information about auditing, see [Understanding the sys audit Table](../../security/concept/c_UnderstandingTheSysAuditTable.md#).
+    **Note:** For more information about auditing, see [Understanding the sys audit Table](c_UnderstandingTheSysAuditTable.md#).
 
 

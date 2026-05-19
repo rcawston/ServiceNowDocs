@@ -49,7 +49,7 @@ Use record producers to create a custom set of questions to ask shoppers during 
 
 Edits to an existing sourcing checkout are now complete.
 
-**Parent Topic:**[Sourcing checkout](../concept/sourcing-checkout.md)
+**Parent Topic:**[Sourcing checkout](sourcing-checkout.md)
 
 **Related topics**  
 

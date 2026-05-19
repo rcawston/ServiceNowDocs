@@ -201,7 +201,7 @@ Use the Hardware Asset Workspace for an intuitive and centralized view of your h
 
 ## Accelerate your cloud strategy and reduce costs
 
-The [Cloud Cost Management](../../cloud-insights/reference/cloud-insights-landing-page.md) application enables you to analyze the full range of costs that are associated with your cloud assets. You can identify and correct cost optimization targets, such as underused, over-provisioned, and stranded cloud assets, with the choice of automated or semi-automated operations.
+The [Cloud Cost Management](cloud-cost-management/cloud-insights-landing-page.md) application enables you to analyze the full range of costs that are associated with your cloud assets. You can identify and correct cost optimization targets, such as underused, over-provisioned, and stranded cloud assets, with the choice of automated or semi-automated operations.
 
 ## Learn
 
@@ -225,16 +225,16 @@ The [Cloud Cost Management](../../cloud-insights/reference/cloud-insights-landin
 
 ## Applications and features
 
--   [Asset Management](../../asset-management/reference/am-landing-page.md)
--   [Software Asset Management](c_SoftwareAssetMgmt.md)
--   [Now Assist for Software Asset Management \(SAM\)](../../now-assist-sam/concept/now-assist-sam.md)
--   [Hardware Asset Management](../../hardware-asset-management/reference/ham-landing-page.md)
--   [Enterprise Asset Management](../../enterprise-asset-management/concept/enterprise-asset-management.md)
--   [Cloud Cost Management](../../cloud-insights/reference/cloud-insights-landing-page.md)
--   [Asset Audit Response](../../asset-audit-response/concept/asset-audit-response.md)
+-   [Asset Management](asset-management/am-landing-page.md)
+-   [Software Asset Management](software-asset-management/c_SoftwareAssetMgmt.md)
+-   [Now Assist for Software Asset Management \(SAM\)](now-assist-for-software-asset-management-sam/now-assist-sam.md)
+-   [Hardware Asset Management](hardware-asset-management/ham-landing-page.md)
+-   [Enterprise Asset Management](enterprise-asset-management/enterprise-asset-management.md)
+-   [Cloud Cost Management](cloud-cost-management/cloud-insights-landing-page.md)
+-   [Asset Audit Response](asset-audits/asset-audit-response.md)
 -   [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)
 -   [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_Procurement.md)
 -   [Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ProductCatalog.md)
 -   [IT Asset Management content request](content-request-itam.md)
--   [Licensing for IT Asset Management](../../hardware-asset-management/concept/subscription-itam-licensing.md)
+-   [Licensing for IT Asset Management](subscription-itam-licensing.md)
 

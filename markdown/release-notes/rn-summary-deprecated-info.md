@@ -194,9 +194,9 @@ Now Assist
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
--   Starting with [Australia Patch 1](../quality/australia-patch-1.md) release, Conversational Help Skills is no longer deployed, enhanced, or supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
+-   Starting with [Australia Patch 1](australia-patch-1.md) release, Conversational Help Skills is no longer deployed, enhanced, or supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 </td></tr><tr><td>
 
@@ -204,9 +204,9 @@ Now Assist AI Agents
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
--   The support for manually integrating external agents has been deprecated from [Australia Patch 1](../quality/australia-patch-1.md) release.
+-   The support for manually integrating external agents has been deprecated from [Australia Patch 1](australia-patch-1.md) release.
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ Now Assist for IT Service Management \(ITSM\)
 
 </td><td>
 
-Starting with the [Australia Patch 2](../quality/australia-patch-2.md) release, the [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md) is deprecated, moved to the **Archived** folder and is no longer available for use.
+Starting with the [Australia Patch 2](australia-patch-2.md) release, the [Incident assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-incident-assist.md) is deprecated, moved to the **Archived** folder and is no longer available for use.
 
 </td></tr><tr><td>
 
@@ -301,5 +301,5 @@ ServiceNow AI Platform core feature
 Starting with the Australia release, the legacy user interfaces commonly referred to as UI11 and UI15 are deprecated. These legacy UIs no longer receive enhancements or defect fixes, and will no longer be supported. Certain system features might continue to display through legacy rendering paths \(for example, printer‑friendly views\) and will be addressed case by case as part of ongoing platform improvements. Use the Next Experience for a modern, accessible, unified interface. For information about activating the Next Experience UI, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

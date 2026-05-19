@@ -45,5 +45,5 @@ Mappedin is integrated with Workplace Service Delivery depending on the release 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configure Mappedin](../concept/mappedin-integration-topics.md)
+**Parent Topic:**[Configure Mappedin](mappedin-integration-topics.md)
 

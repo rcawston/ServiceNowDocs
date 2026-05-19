@@ -37,7 +37,7 @@ Most column layout options on the property pane can be edited for different form
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch with responsive authoring.
 
@@ -122,5 +122,5 @@ Most column layout options on the property pane can be edited for different form
 21. Select the **X** to close the **Preview** overlay.
 
 
-**Parent Topic:**[Responsive authoring](../concept/responsive-authoring.md)
+**Parent Topic:**[Responsive authoring](responsive-authoring.md)
 

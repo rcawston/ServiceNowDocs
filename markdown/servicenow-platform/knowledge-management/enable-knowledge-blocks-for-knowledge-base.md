@@ -42,14 +42,14 @@ Role required: knowledge\_admin or knowledge\_manager
 
 Create knowledge blocks to use within the enabled knowledge base.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Knowledge blocks](../concept/knowledge-blocks.md)
+[Knowledge blocks](knowledge-blocks.md)
 
-[Using knowledge blocks](../concept/using-knowlege-blocks.md)
+[Using knowledge blocks](using-knowlege-blocks.md)
 
-[Knowledge blocks authoring in Agent Workspace](../concept/knowledge-blocks-authoring-agent.md)
+[Knowledge blocks authoring in Agent Workspace](knowledge-blocks-authoring-agent.md)
 

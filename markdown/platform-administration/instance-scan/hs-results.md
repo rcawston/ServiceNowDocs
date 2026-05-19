@@ -53,5 +53,5 @@ There are the following related lists in the **Scan Result** form.
 -   **[Scan results](hc-scan-results.md)**  
 Scan Results dashboard helps you with an overview of all details of an executed scan.
 
-**Parent Topic:**[Reviewing of scans](../reference/hs-review-scans.md)
+**Parent Topic:**[Reviewing of scans](hs-review-scans.md)
 

@@ -28,7 +28,7 @@ You can do the following:
 -   Add filters to the columns to customize the list of records displayed.
 -   Select a link to drill down to the related record page.
 
-You can configure variables such as tables, display fields, and query conditions. See [Configure the all tasks card variables](../task/c360-configure-tasks-card.md) for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the all tasks card variables](c360-configure-tasks-card.md) for details.
 
 **Parent Topic:**[Telecommunications Customer 360 home page](c360-home-page.md)
 

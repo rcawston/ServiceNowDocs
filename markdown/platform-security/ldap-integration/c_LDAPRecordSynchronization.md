@@ -25,5 +25,5 @@ A data indicator can be:
 
 Imported data comes into the instance through import set tables where the data can be evaluated and processed.
 
-The import process can use [LDAP refresh filters](../reference/r_LDAPRefreshFilters.md)on multiple import jobs to divide different types of user records and segregarte records for separate processing.
+The import process can use [LDAP refresh filters](r_LDAPRefreshFilters.md)on multiple import jobs to divide different types of user records and segregarte records for separate processing.
 

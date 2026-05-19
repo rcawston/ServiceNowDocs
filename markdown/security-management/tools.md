@@ -17,7 +17,7 @@ Tools enable you to know how and when threat actors use them for executing campa
 
 For example, remote access tools \(RDP\) and network scanning tools \(Nmap\) are tools that a threat actor uses during an attack.
 
--   **[Define tools](../task/define-tools.md)**  
+-   **[Define tools](define-tools.md)**  
 Define tools as legitimate software that is used to perform attacks.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

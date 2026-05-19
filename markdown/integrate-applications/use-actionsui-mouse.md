@@ -19,9 +19,9 @@ Role required: none
 
 ## About this task
 
-The Mouse component uses hardware interrupts to simulate the actions of a computer mouse. You can use it to simulate a manual click, drag, move, scroll, or paste operation at an area that you specify in the [ActionSet Settings](../reference/actionset-actions-properties.md) window. Additionally, you can use it to interact with files, objects, menus, or any other items that typically respond to mouse input.
+The Mouse component uses hardware interrupts to simulate the actions of a computer mouse. You can use it to simulate a manual click, drag, move, scroll, or paste operation at an area that you specify in the [ActionSet Settings](actionset-actions-properties.md) window. Additionally, you can use it to interact with files, objects, menus, or any other items that typically respond to mouse input.
 
-Many properties of the Mouse component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](../reference/properties-actions-ui-components.md).
+Many properties of the Mouse component are common with other Actions UI components, to configure these properties, see [Properties of Actions \(UI\) components](properties-actions-ui-components.md).
 
 The properties unique to the Mouse component are given.
 
@@ -71,7 +71,7 @@ The properties unique to the Mouse component are given.
 
 8.  Add an anchor to the captured image by doing the following actions:
 
-    An anchor is a unique identifier that enables the Mouse component to identify the application where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Mouse component treats the whole captured image as an anchor. To know more about the anchor, see the steps to use the [Anchor](../concept/anchor.md).
+    An anchor is a unique identifier that enables the Mouse component to identify the application where the component will perform an action. Although adding an anchor is a good approach, it's optional. If you don't add an anchor, the Mouse component treats the whole captured image as an anchor. To know more about the anchor, see the steps to use the [Anchor](anchor.md).
 
     1.  In the Mouse component, right-click the image and click **Add Anchor**.
 
@@ -118,5 +118,5 @@ The properties unique to the Mouse component are given.
 
 Two Mouse components are used in this example. The first identifies the folder and drags it. The second identifies the destination folder and moves the folder inside.![Move a folder to another folder](../image/mouse-example.png)
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](actions-ui.md)
 

@@ -52,7 +52,7 @@ To edit the trigger for a playbook, you must be given permission to work on the 
 
 8.  Change the conditions that must be met for the playbook to begin running by selecting **Add condition set**.
 
-    -   If you want to trigger the playbook based on the value of a column in a table, select the **[Field](../concept/creator-studio-glossary.md#)** that you want to be the trigger, as well as its condition **Operator** and the specific trigger **Value**. For example, when a **Start date** is **after** the **Date** needed.
+    -   If you want to trigger the playbook based on the value of a column in a table, select the **[Field](creator-studio-glossary.md#)** that you want to be the trigger, as well as its condition **Operator** and the specific trigger **Value**. For example, when a **Start date** is **after** the **Date** needed.
     -   If you want to trigger the playbook based on the response from a form, select **Questions** as the trigger **Field**. Then select the question you want in the **Question** field, the condition **Operator** and the answer's **Value**.
     ![Use a specific answer to a form's question as trigger](../image/crs-trigger-question-answer.png "Question answer as trigger for an automation")
 
@@ -61,5 +61,5 @@ To edit the trigger for a playbook, you must be given permission to work on the 
 9.  Save your changes by selecting the **Done** button.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

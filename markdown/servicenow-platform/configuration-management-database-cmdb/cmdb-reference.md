@@ -15,8 +15,8 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 The topics in this section provide various reference details for CMDB.
 
--   [Domain separation and Configuration Management Database \(CMDB\)](../concept/domain-separation-cmdb.md)
--   [CMDB APIs \(CMDB SDK\)](../concept/domain-separation-APIs.md)
--   [Quick start tests for Configuration Management Database \(CMDB\)](../../../administer/atf-quick-start-tests/reference/quick-start-tests-cmdb.md)
+-   [Domain separation and Configuration Management Database \(CMDB\)](domain-separation-cmdb.md)
+-   [CMDB APIs \(CMDB SDK\)](domain-separation-APIs.md)
+-   [Quick start tests for Configuration Management Database \(CMDB\)](quick-start-tests-cmdb.md)
 -   [CMDB glossary](cmdb-glossary.md)
 

@@ -82,7 +82,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## Outputs
@@ -135,5 +135,5 @@ The JSON payload generator doesn’t support the following.
 
 **Note:** Generating a JSON payload overrides any existing structures in the JSON Builder step.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

@@ -76,7 +76,7 @@ In this example scenario, you apply XGBoost to both a classification solution an
     XGBoost is configured for your regression solution. Its solution parameter appears on the Advanced Solution Settings tab of your regression solution definition form.
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 

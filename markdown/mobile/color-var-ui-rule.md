@@ -24,7 +24,7 @@ Use the following color variables in the **Value** field of your UI rules with t
 
  `{“BackgroundColorVariable”: “--now-color-secondary-3", “BackgroundColor”: “#3f2c11”}`
 
- For details on creating these UI rule actions, see [Create a mobile UI rule action](../task/create-mobile-ui-rule-action.md).
+ For details on creating these UI rule actions, see [Create a mobile UI rule action](create-mobile-ui-rule-action.md).
 
 </td><td>
 

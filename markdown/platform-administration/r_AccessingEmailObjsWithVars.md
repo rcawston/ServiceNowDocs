@@ -157,5 +157,5 @@ var rarray  = email.recipients_array ; for ( var i  = 0 ; i  < rarray.length ; i
 
 This variable lets you access the received sys\_email record that triggered the inbound email action. It can be used to reference fields on the email record, such as **uid**, **sys\_id**, **content\_type**, and so on.
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 

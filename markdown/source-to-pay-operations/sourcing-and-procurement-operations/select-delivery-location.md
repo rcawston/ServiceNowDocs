@@ -31,7 +31,7 @@ Role required: sn\_shop.shopper.
 
     **Note:**
 
-    -   You can go with your default delivery location, which is based on what you selected from the **Deliver to** list on the primary navigation bar. You can also choose to deliver to an office location, another address, or multiple locations, if need be. For more information on these, see [Delivery location options](../reference/delivery-location-details.md).
+    -   You can go with your default delivery location, which is based on what you selected from the **Deliver to** list on the primary navigation bar. You can also choose to deliver to an office location, another address, or multiple locations, if need be. For more information on these, see [Delivery location options](delivery-location-details.md).
     -   You can view your order details such as negotiated unit cost, purchase quantity, estimated tax, and estimated shipping on the Delivery location page as well as in the Summary section.
     -   If you update the quantities, the amount \(including shipping\) is recalculated in real time and reflected accordingly in the product header card as well as in the Summary section.
 
@@ -41,11 +41,11 @@ When you are done selecting delivery locations for the products in your cart, yo
 
 To prevent products from being shipped to invalid locations, see [Manage delivery to valid address](manage-shipping-address.md)
 
--   **[Delivery location options](../reference/delivery-location-details.md)**  
+-   **[Delivery location options](delivery-location-details.md)**  
 As a shopper, you can select either a single delivery location or multiple delivery locations for the various products in your cart.
--   **[Delivery address suggestions](../concept/delivery-address-validation.md)**  
+-   **[Delivery address suggestions](delivery-address-validation.md)**  
 Improve your shopper experience with filling in a new address location through type-ahead and auto-fill, in the Deliver to somewhere else form​. You can further use the StreetService script to integrate with an Address Verification Service \(AVS\) of your choice to get enhanced address suggestions.
--   **[Valid countries for delivery](../concept/valid-countries.md)**  
+-   **[Valid countries for delivery](valid-countries.md)**  
 As a shopper, you can view, add, and select the delivery locations and office locations while placing an order on ShoppingHub.
 
 **Parent Topic:**[Complete your checkout](complete-your-checkout.md)

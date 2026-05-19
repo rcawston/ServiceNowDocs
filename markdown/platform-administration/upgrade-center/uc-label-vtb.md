@@ -48,5 +48,5 @@ Role required: admin
 
 ## What to do next
 
-Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](../reference/uc-history-task-form.md) for more information.
+Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](uc-history-task-form.md) for more information.
 

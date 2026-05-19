@@ -50,5 +50,5 @@ Individuals performing entitlement must have a Now Support account and have perm
     You are now ready to install the application.
 
 
-**Parent Topic:**[Business Continuity Management and ServiceNow Store](../concept/bcm-and-store.md)
+**Parent Topic:**[Business Continuity Management and ServiceNow Store](bcm-and-store.md)
 

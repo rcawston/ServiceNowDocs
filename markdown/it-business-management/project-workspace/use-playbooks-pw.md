@@ -51,7 +51,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
     For more information on how to use playbooks, see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-experience-admins.md).
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 
@@ -60,7 +60,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
 
 [Playbooks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer-reference.md)
 
-[Playbooks configuration](../concept/configure-playbooks-pw.md)
+[Playbooks configuration](configure-playbooks-pw.md)
 
-[Playbooks in Project Workspace](../concept/playbooks-in-pw.md)
+[Playbooks in Project Workspace](playbooks-in-pw.md)
 

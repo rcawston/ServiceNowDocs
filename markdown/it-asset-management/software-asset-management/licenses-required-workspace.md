@@ -27,7 +27,7 @@ Role required: sam\_admin and sam\_user
 
 3.  View the number of licenses purchased and required by selecting the **License Metric Results** tab.
 
-    For more information about the fields in the License Metric Results tab, see the License metric results table in [License usage publisher fields in workspace](../reference/workbench-publisherfields-workspace.md).
+    For more information about the fields in the License Metric Results tab, see the License metric results table in [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
 4.  View the details about the required licenses by selecting a value for a configuration item under the **License required** column.
 
@@ -189,7 +189,7 @@ A detailed license consumption summary post reconciliation. The summary gives yo
 </td></tr></tbody>
 </table>7.  View the infrastructure of a configuration item and the metric attributes applied by selecting the **License consumption breakdown** tab.
 
-    For more information on the license calculation for CrowdStrike products, see [License usage breakdown for CrowdStrike products](../reference/license-usage-crowdstrike.md).
+    For more information on the license calculation for CrowdStrike products, see [License usage breakdown for CrowdStrike products](license-usage-crowdstrike.md).
 
     ![License consumption breakdown of a configuration item.](../image/license-consumption-breakdown.png)
 
@@ -245,5 +245,5 @@ A detailed license consumption summary post reconciliation. The summary gives yo
     |Mandatory|Requirement of a suite component. A suite component can be Optional, Always Mandatory, or Mandatory Group.|
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

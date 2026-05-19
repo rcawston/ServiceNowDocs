@@ -23,9 +23,9 @@ The standard Microsoft Windows keyboard provides many keyboard functions to perf
 
 **Note:** You must specify the keyboard shortcuts within the square brackets \[\]. For example, \[Ctrl+A\].
 
-To see the various supported keys, see [Supported keys and functions](../reference/supported-keys-and-functions.md).
+To see the various supported keys, see [Supported keys and functions](supported-keys-and-functions.md).
 
-You can configure the properties for the SendKeys component. For more information about these properties, see [Properties of keyboard components](../reference/properties-of-keyboard-components.md).
+You can configure the properties for the SendKeys component. For more information about these properties, see [Properties of keyboard components](properties-of-keyboard-components.md).
 
 ## Procedure
 
@@ -44,5 +44,5 @@ You can configure the properties for the SendKeys component. For more informatio
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Keyboard](../concept/keyboard-utilities.md)
+**Parent Topic:**[Keyboard](keyboard-utilities.md)
 

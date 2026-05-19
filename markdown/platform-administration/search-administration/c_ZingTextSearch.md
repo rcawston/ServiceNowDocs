@@ -17,7 +17,7 @@ Index and search record data by table.
 
 The ServiceNow® Zing text indexing and search engine is a legacy search engine that you can use to search ServiceNow AI Platform® record data. Its engine is created entirely with ServiceNow code and implemented within the relational model.
 
-**Note:** To learn about the AI Search engine, which is the default search engine for ServiceNow AI Platform record data, see [AI Search](../../ai-search/concept/overview-ais.md).
+**Note:** To learn about the AI Search engine, which is the default search engine for ServiceNow AI Platform record data, see [AI Search](../ai-search/overview-ais.md).
 
 The Zing text search index is split into multiple database shards for parallel querying. Its search engine logic yields fast results and emphasizes relevancy scoring. Relevancy scores include frequency and proximity weighting. Scores also include weighting for specific indexed fields such as title, short description, and metadata.
 
@@ -37,14 +37,14 @@ Administrators and users with the ts\_admin role can configure the following Zin
 Explore
 
  -   Australia
--   [Features of Search administration](../reference/features-search-administration.md)
--   [Features of Zing text indexing and search engine](../reference/features-zing.md)
+-   [Features of Search administration](features-search-administration.md)
+-   [Features of Zing text indexing and search engine](features-zing.md)
 
 </td><td>
 
 Set up
 
- -   [Set global text search properties](../task/set-global-text-search-properties.md)
+ -   [Set global text search properties](set-global-text-search-properties.md)
 -   [Zing can include attachments in search results](c_SearchingForAttachments.md)
 -   [Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
@@ -70,7 +70,7 @@ Develop
 
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
--   [Create synonym dictionaries](../task/create-synonym-dictionaries.md)
+-   [Create synonym dictionaries](create-synonym-dictionaries.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Troubleshoot and get help
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
 </td></tr></tbody>
-</table>-   **[Features of Zing text indexing and search engine](../reference/features-zing.md)**  
+</table>-   **[Features of Zing text indexing and search engine](features-zing.md)**  
 Enable and configure Zing text indexing and search engine features.
 -   **[Available search options](c_IntroductionToSearching.md)**  
 Zing offers users several search interfaces and search operators to conduct text searches.
@@ -105,8 +105,8 @@ Convert any multiple-character search keyword to its stem form to find derived v
 Expand search results to include additional search terms.
 -   **[Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)**  
 Display possible search query completions as users enter search terms.
--   **[Installed with Zing](../reference/installed-with-zing.md)**  
+-   **[Installed with Zing](installed-with-zing.md)**  
 Several types of components are installed with Zing.
 
-**Parent Topic:**[Search administration](../reference/search-administration.md)
+**Parent Topic:**[Search administration](search-administration.md)
 

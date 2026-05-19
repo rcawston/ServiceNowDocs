@@ -32,7 +32,7 @@ Role required: none
 3.  Enter the appropriate values and select **Save**.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](r_MethodsForListEdits.md)
 
 **Related topics**  
 

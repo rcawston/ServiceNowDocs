@@ -16,9 +16,9 @@ breadcrumb: [Conversational Integration with Google chat, Integrate VA with mess
 
 Activate the necessary plugins and Now Assist in Virtual Agent for Google chat
 
--   **[Activate plugins for Conversational Integration with Google chat](../task/additional-plugins-google-chat.md)**  
+-   **[Activate plugins for Conversational Integration with Google chat](additional-plugins-google-chat.md)**  
 Activate the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin and the Conversational Integration with Google chat \[sn\_va\_google-chat\] plugin.
--   **[Activate Now Assist in Virtual Agent for Google chat](../task/activate-na-va-google-chat.md)**  
+-   **[Activate Now Assist in Virtual Agent for Google chat](activate-na-va-google-chat.md)**  
 Add Now Assist in Virtual Agent to your Google chat bot.
 
 **Parent Topic:**[Conversational Integration with Google chat](gchat-conv-integration.md)

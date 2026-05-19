@@ -23,7 +23,7 @@ Role required: sn\_change\_cab.cab\_manager
 
 1.  Navigate to **All** &gt; **Change** &gt; **Change Advisory Board** &gt; **My CAB Definitions**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Click **New**.
 
@@ -335,7 +335,7 @@ If the schedule entry is scheduled to repeat, specifies an end date until which 
 
 You can modify CAB meeting details and send meeting requests to attendees. You can also manage agendas by reviewing or adding agenda items to each of the meetings.
 
-**Parent Topic:**[Working with the CAB Workbench](../concept/using-cab-workbench-cf.md)
+**Parent Topic:**[Working with the CAB Workbench](using-cab-workbench-cf.md)
 
 **Related topics**  
 

@@ -32,5 +32,5 @@ Role required: password\_reset\_admin
         You clear the setting for a **guest** user to enable the instance to dynamically set the language during the session.
 
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

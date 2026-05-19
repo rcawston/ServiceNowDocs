@@ -57,5 +57,5 @@ Role required: sp\_admin
 
 Open the Performance details window to view how long the custom widget takes to load data: [View widget performance metrics](view-widget-performance-metrics.md)
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](improve-manage.md)
 

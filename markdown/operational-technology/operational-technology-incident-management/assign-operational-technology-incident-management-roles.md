@@ -68,7 +68,7 @@ Can create, view, and edit OT incident records.
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 
 ## Assign new roles to your users
 

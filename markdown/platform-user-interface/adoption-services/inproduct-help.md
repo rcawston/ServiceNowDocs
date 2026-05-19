@@ -19,7 +19,7 @@ There are two kinds of in-product help to assist users understand the UI that th
 
 For both in-product help experiences, ServiceNow® provides some help content out of box, and you can replace it or create your own custom help content based on the needs of your users.
 
-Embedded Help provides targeted help content to a user in a page in the classic environment based on the user's role. For more information, see [Embedded Help](../../help-guided-tours/concept/embedded-help.md).
+Embedded Help provides targeted help content to a user in a page in the classic environment based on the user's role. For more information, see [Embedded Help](embedded-help.md).
 
 ![Catalog task page with embedded help.](../image/embedded-help.png "Embedded Help for a Catalog task page")
 
@@ -33,7 +33,7 @@ Help Center will display Embedded Help content, so you don't have to rewrite any
 
 <table id="table_h5k_wp5_5zb" class="nav-card"><tbody><tr><td>
 
-[Embedded Help![](../../../reuse/icons/brand-icons/bus-light-bulb.svg)Embedded Help provides targeted help content to a user in a UI page, based on their role.](../../help-guided-tours/concept/embedded-help.md)
+[Embedded Help![](../../../reuse/icons/brand-icons/bus-light-bulb.svg)Embedded Help provides targeted help content to a user in a UI page, based on their role.](embedded-help.md)
 
 </td><td>
 

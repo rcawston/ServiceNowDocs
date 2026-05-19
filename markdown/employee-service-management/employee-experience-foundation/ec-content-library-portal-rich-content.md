@@ -69,7 +69,7 @@ Version
 
 </td><td>
 
-Tracks content changes if content versioning is enabled. For more information, see [Content versioning](../concept/ec-content-versioning.md).
+Tracks content changes if content versioning is enabled. For more information, see [Content versioning](ec-content-versioning.md).
 
 </td></tr><tr><td>
 

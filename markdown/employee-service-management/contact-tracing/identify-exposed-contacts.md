@@ -23,7 +23,7 @@ Role required: sn\_imt\_tracing.case\_manager
 
 ## About this task
 
-**Note:** You cannot create or run a diagnostic request for affected employees who have not consented to use their data for contact tracing. For more information, see [User privacy consent for Contact Tracing](../concept/contact-tracing-user-privacy.md).
+**Note:** You cannot create or run a diagnostic request for affected employees who have not consented to use their data for contact tracing. For more information, see [User privacy consent for Contact Tracing](contact-tracing-user-privacy.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Role required: sn\_imt\_tracing.case\_manager
 
     4.  Select users from the All Impacted Users related list and select the **Add Users to Case** option in the Actions on selected rows list.
 
-    For more information on running a diagnostic request, see [Run a diagnostic request](../../business-continuity/task/use-emergency-exposure-mgnt.md).
+    For more information on running a diagnostic request, see [Run a diagnostic request](../emergency-exposure-management/use-emergency-exposure-mgnt.md).
 
 6.  If you know of other employees in addition to employees identified from the diagnostics, click **New** in the Exposed Contacts list and add them as potentially exposed contacts.
 
@@ -64,9 +64,9 @@ If automatic case task creation is enabled by the **sn\_imt\_tracing.auto\_creat
 
 **Note:** If a potentially exposed employee added to the case has an active case, the health status of the employee in the current exposed contact record is automatically set from the corresponding exposed contact record of the active case.
 
-These potentially exposed contacts also appear in the exposed contacts visualization section. For more information, see [Working on a case through contact tracing visualization](../reference/contact-tracing-case-visualization.md).
+These potentially exposed contacts also appear in the exposed contacts visualization section. For more information, see [Working on a case through contact tracing visualization](contact-tracing-case-visualization.md).
 
-If you have the [Employee Readiness Core](../../employee-readiness-core/concept/employee-readiness-core.md) application installed and a health and safety requirement for the potentially exposed contacts activated, a record is created with the requirement status as Not Cleared for these potentially exposed employees.
+If you have the [Employee Readiness Core](../employee-readiness-core/employee-readiness-core.md) application installed and a health and safety requirement for the potentially exposed contacts activated, a record is created with the requirement status as Not Cleared for these potentially exposed employees.
 
 ## What to do next
 
@@ -74,5 +74,5 @@ If you have the [Employee Readiness Core](../../employee-readiness-core/concept/
 
 If the automatic case task creation is disabled, [create a case task for each exposed contact](create-task-exposed-contact.md).
 
-**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](exposure-case-management.md)
 

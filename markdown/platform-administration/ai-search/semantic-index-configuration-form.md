@@ -16,7 +16,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Semantic Index Configuration form contains information about semantic indexing settings for an AI Search indexed source. Use this form when defining or modifying semantic indexing settings for an indexed source.
 
-For details on defining and modifying semantic indexing settings for an indexed source, see [Configure semantic indexing settings for an indexed source](../task/configure-semantic-indexing-ais.md).
+For details on defining and modifying semantic indexing settings for an indexed source, see [Configure semantic indexing settings for an indexed source](configure-semantic-indexing-ais.md).
 
 **Note:** This form is only available when the AI Search Semantic Controller plugin \(com.glide.ais.semantic\_search\) is active on your instance. To activate this plugin, your instance must have at least one [Now Assist application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) installed.
 
@@ -63,7 +63,7 @@ Indexed Source
 
 </td><td>
 
-Reference to the AI Search indexed source that you want to apply this semantic index configuration to. This field is automatically set. For more details on indexed sources, see [Indexed sources in AI Search](../concept/indexed-sources-ais.md).
+Reference to the AI Search indexed source that you want to apply this semantic index configuration to. This field is automatically set. For more details on indexed sources, see [Indexed sources in AI Search](indexed-sources-ais.md).
 
 </td></tr><tr><td>
 
@@ -141,5 +141,5 @@ Maximum number of words to index for semantic vector search from the concatenate
 -   Type: integer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

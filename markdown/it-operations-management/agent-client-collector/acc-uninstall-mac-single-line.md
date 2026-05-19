@@ -31,5 +31,5 @@ Uninstall the Agent Client Collector from macOS machine by running an efficient 
     **Note:** Uninstalling the Agent Client Collector removes the `acc.yml` file and its directory from your machine. The user and group **\_servicenow**, created as part of the installation process, is also removed.
 
 
-**Parent Topic:**[Agent Client Collector installation on a macOS system](../concept/acc-install-mac-os.md)
+**Parent Topic:**[Agent Client Collector installation on a macOS system](acc-install-mac-os.md)
 

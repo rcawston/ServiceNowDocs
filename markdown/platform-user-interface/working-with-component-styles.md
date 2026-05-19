@@ -21,10 +21,10 @@ Each component is represented as a tile and grouped by function, such as Navigat
 
 ![Component styles panel with filter and component tiles displayed.](../image/tb-component-styles.png "Component styles panel")
 
--   **[Preview components](../task/tb-preview-components.md)**  
+-   **[Preview components](tb-preview-components.md)**  
 As you’re creating or managing your theme, you can preview the components available for inclusion on your instance.
--   **[Edit components](../task/tb-edit-components.md)**  
+-   **[Edit components](tb-edit-components.md)**  
 Edit Theme Builder individual components to better suit your brand and to meet accessibility conformance standards. The theme hooks that you can edit are specific to each type of component.
 
-**Parent Topic:**[Manage or edit a theme with Theme Builder](../task/tb-edit-theme.md)
+**Parent Topic:**[Manage or edit a theme with Theme Builder](tb-edit-theme.md)
 

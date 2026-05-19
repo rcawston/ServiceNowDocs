@@ -59,5 +59,5 @@ Activate the Kentik analysis AI agent to use it in the analyze alert impact agen
 
 To learn more about using the Kentik analysis AI agent in the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](now-assist-itom-use-aia.md).
 
-**Parent Topic:**[Configuring agents for Now Assist for ITOM](../concept/itom-ai-agent-configuration.md)
+**Parent Topic:**[Configuring agents for Now Assist for ITOM](itom-ai-agent-configuration.md)
 

@@ -137,5 +137,5 @@ These field variables are dynamically replaced by the values in each field while
 
 The configuration for the external storage system is published and is ready to be used for storing contract documents.
 
-**Parent Topic:**[Configuring external applications for legal contracts](../concept/snlc-set-legal-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for legal contracts](snlc-set-legal-ext-app-config.md)
 

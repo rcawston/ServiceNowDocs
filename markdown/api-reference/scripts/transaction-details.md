@@ -26,7 +26,7 @@ The Script Debugger only displays transaction details when it pauses on a script
 -   Inspect network information about the current transaction.
 -   Inspect the user and session ID that initiated the debug transaction.
 
-**Parent Topic:**[Script Debugger user interface](../reference/parts-script-debugger-interface.md)
+**Parent Topic:**[Script Debugger user interface](parts-script-debugger-interface.md)
 
 **Related topics**  
 

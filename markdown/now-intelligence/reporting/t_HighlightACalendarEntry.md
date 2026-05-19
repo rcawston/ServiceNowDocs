@@ -53,7 +53,7 @@ If calendar reports are configured to use field styles from their tables or repo
 5.  Select **Update**.
 
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](c_CustomizeCalendarReports.md)
 
 **Related topics**  
 

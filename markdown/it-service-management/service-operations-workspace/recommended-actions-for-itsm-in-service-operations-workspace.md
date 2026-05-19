@@ -15,9 +15,9 @@ breadcrumb: [Managing IT services in your organization, Service Operations Works
 
 Get guidance-based or field-level recommendations for records in Service Operations Workspace.
 
--   **[Get Guidance based recommendations](../task/get-guidance-based-recommendations.md)**  
+-   **[Get Guidance based recommendations](get-guidance-based-recommendations.md)**  
 Get actionable real-time recommendations in the side panel to help address customer issues and resolve issues quickly.
--   **[Get field recommendations](../task/get-field-recommendations.md)**  
+-   **[Get field recommendations](get-field-recommendations.md)**  
 Get incident field recommendations in Service Operations Workspace while creating or updating incidents.
 -   **[Recommended Actions for ITSM reference](recommended-actions-for-itsm-reference.md)**  
 Reference topics provide additional information about various form fields and components installed with Recommended Actions for ITSM.

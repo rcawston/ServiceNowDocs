@@ -22,7 +22,7 @@ Actual project costs come after you create expense lines for cost plans or after
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -40,11 +40,11 @@ Actual project costs come after you create expense lines for cost plans or after
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[View actual project costs](../../project-portfolio-suite-with-financials/task/t_ViewActualProjectCosts.md)
+[View actual project costs](t_ViewActualProjectCosts.md)
 

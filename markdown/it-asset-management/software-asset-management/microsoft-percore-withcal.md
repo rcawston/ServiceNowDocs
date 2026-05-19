@@ -15,7 +15,7 @@ breadcrumb: [Software license maintenance, Exploring Software Asset Management, 
 
 The Per Core \(with CAL\) metric licensing model is followed by various Microsoft Server products such as Windows Server, System Center, and Core Infrastructure Server Suite. The number of licenses depends on the number of installations and operating system environments \(OSE\).
 
-The licensing rules for on-premise installations of these products and the cloud installations are separate. The cloud licensing rules follow Bring Your Own License \(BYOL\). For more information, see [Licensing rules for BYOL and BYOS](../reference/byol-license-rules.md).
+The licensing rules for on-premise installations of these products and the cloud installations are separate. The cloud licensing rules follow Bring Your Own License \(BYOL\). For more information, see [Licensing rules for BYOL and BYOS](byol-license-rules.md).
 
 To license the on-premise installation of these products using the Per Core \(with CAL\) licensing model, consider the following two options.
 
@@ -24,7 +24,7 @@ To license the on-premise installation of these products using the Per Core \(wi
 
 **Note:** You can either allocate to individual hosts or individual virtual machines, not to cluster.
 
-You can either allocate manually, or the Software Asset Management application can automatically select the most cost-effective licensing option based on optimization criteria. For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](../task/view-cost-based-licensing-optimizations-microsoft.md).
+You can either allocate manually, or the Software Asset Management application can automatically select the most cost-effective licensing option based on optimization criteria. For more information about how to perform allocation, see [Allocation management](https://www.servicenow.com/community/sam-blog/allocation-management-on-servicenow-sam-pro/ba-p/2649232) and how the Software Asset Management application performs automated optimization, see [View realized and potential cost-based licensing optimizations for Microsoft](view-cost-based-licensing-optimizations-microsoft.md).
 
 **Note:** Both options, whether licensing by physical cores or licensing by individual virtual machines, come with their own set of Microsoft rules that must be followed. For more information, see [Windows Server Standard, Datacenter, and Essentials](https://www.microsoft.com/licensing/terms/productoffering/WindowsServerStandardDatacenterEssentials/EAEAS).
 

@@ -25,7 +25,7 @@ Use the location policy form to assign a visitor policy to a workplace location,
 |Required for external|Option to enable the policy for external visitors.|
 |Require signature for external|Option to enable signatures for external visitors to acknowledge the policy. The visitor signature is stored in the visitor policy confirmation record.|
 
-**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

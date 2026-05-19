@@ -29,11 +29,11 @@ The test step form doesn't indicate if a test step has output variables or not. 
 
 ![Available output variables](../image/atf-use-backref-icon-clked.png "Example test step showing output variables")
 
-For step-by-step instructions on how to assign the value of an output variable to another step's input variable, see [Pass values from one automated test step to another](../task/atf-retrieve-value.md).
+For step-by-step instructions on how to assign the value of an output variable to another step's input variable, see [Pass values from one automated test step to another](atf-retrieve-value.md).
 
-For an example of a test that passes variables using input and output variables, see [Automated Test Framework use case: reference a value from a previous step](../task/atf-use-backref.md).
+For an example of a test that passes variables using input and output variables, see [Automated Test Framework use case: reference a value from a previous step](atf-use-backref.md).
 
--   **[Pass values from one automated test step to another](../task/atf-retrieve-value.md)**  
+-   **[Pass values from one automated test step to another](atf-retrieve-value.md)**  
 Assign a form field the value of an output variable returned from a previous step.
 
 **Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)

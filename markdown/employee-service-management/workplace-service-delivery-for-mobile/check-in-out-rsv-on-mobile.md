@@ -17,7 +17,7 @@ Check in an upcoming reservation or check out an ending reservation using the No
 
 ## Before you begin
 
-If you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notifications on Workplace Service Delivery for Mobile app when your reserved spaces are checked in automatically. If the workplace location or space state is **Occupied**, then, application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You are automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is **Unoccupied** or **Invalid**, application sends push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](../../wsd-reservation-management/concept/configure-rsv-check-in.md).
+If you have occupancy sensors installed in your workplace location, your reserved spaces are automatically checked in. You also receive a push notifications on Workplace Service Delivery for Mobile app when your reserved spaces are checked in automatically. If the workplace location or space state is **Occupied**, then, application automatically checks in the reservation. The reservation state moves to In progress state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You are automatically checked in based on the presence detected at the space. No further action is required." If the state of the space is **Unoccupied** or **Invalid**, application sends push notification "Your reservation for Reservation for &lt;space-name&gt; has started. Either Check in to confirm your attendance or Release Booking to Cancel the space reservation". For more information, see [Configure automatic check-in for reserved spaces](../workplace-reservation-management/configure-rsv-check-in.md).
 
 **Note:** Reservation check-in and check-out is currently not supported for multi-location reservations \(combining two or more reservations into one reservation\). Check-in or check-out of reservations with multiple locations for the same date and time and with the same reservation owner is not allowed by the application. In case of group reservations, each space is assigned to a different employee, check-in for group reservations is also not allowed in bulk. You have to check-in a reservation one at a time.
 
@@ -45,7 +45,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 The reservation is checked in or checked out accordingly.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Previous topic:**[Edit or cancel a reservation on Now Mobile app](edit-rsv-on-mobile.md)
 

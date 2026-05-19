@@ -25,7 +25,7 @@ The following are the key features of the email interaction page:
 -   View the email conversation between the customer and the agent in the Activity stream that provides complete context.
 -   Identify the most recent conversation with using annotated new emails, the latest reply, and work notes.
 
-The email interaction page consists of sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [Email interaction sections](../reference/email-interaction-page.md).
+The email interaction page consists of sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [Email interaction sections](email-interaction-page.md).
 
 **Note:** Agents can use the Contact component to do the following:
 

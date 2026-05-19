@@ -79,7 +79,7 @@ Email history notifications
 
 </td><td>
 
-By default, the email history shows the last three messages in the case record. To show all activities on a case record in email replies and email notifications, add this script `${mail_script:get_emails_comments_activity_history}` to the email reply system property \(reply-received\) and the case commented system property \(case.commented.for.customer\). For more information, refer to [Configure email and comment notifications](../concept/config-email-notifications.md)
+By default, the email history shows the last three messages in the case record. To show all activities on a case record in email replies and email notifications, add this script `${mail_script:get_emails_comments_activity_history}` to the email reply system property \(reply-received\) and the case commented system property \(case.commented.for.customer\). For more information, refer to [Configure email and comment notifications](config-email-notifications.md)
 
 .
 

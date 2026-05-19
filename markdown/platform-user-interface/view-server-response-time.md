@@ -46,5 +46,5 @@ Role required: admin
     The server response times for that particular interaction are displayed.
 
 
-**Parent Topic:**[Measuring the performance of your instance in Next Experience](../concept/measuring-performance-next-experience.md)
+**Parent Topic:**[Measuring the performance of your instance in Next Experience](measuring-performance-next-experience.md)
 

@@ -32,5 +32,5 @@ For example, you could see records for employees in San Diego who were not grant
 2.  To evaluate request for entry data, build a query or sort and group the list by the appropriate columns.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](employee-health-screening.md)
 

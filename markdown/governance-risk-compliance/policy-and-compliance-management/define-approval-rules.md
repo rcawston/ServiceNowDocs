@@ -126,5 +126,5 @@ Select the order to determine the sequence of levels used with respect to other 
     If you selected the **Auto-trigger approvals** check box, the designated approvers are notified that their approvals are required. Alternatively, the approvers are notified when the compliance manager clicks the **Send for Approval** button.
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

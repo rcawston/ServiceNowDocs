@@ -36,7 +36,7 @@ The ServiceNow Fluent Language server provides code completion features and vali
 
 To use ServiceNow Fluent in applications with the ServiceNow SDK, see [Define application metadata in code with ServiceNow Fluent and the ServiceNow SDK](define-metadata-code-fluent-sdk.md).
 
-**Parent Topic:**[Configuring the ServiceNow SDK](../concept/configuring-servicenow-sdk.md)
+**Parent Topic:**[Configuring the ServiceNow SDK](configuring-servicenow-sdk.md)
 
 **Related topics**  
 
@@ -45,5 +45,5 @@ To use ServiceNow Fluent in applications with the ServiceNow SDK, see [Define ap
 
 [Upgrade the ServiceNow SDK](upgrade-servicenow-sdk.md)
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 

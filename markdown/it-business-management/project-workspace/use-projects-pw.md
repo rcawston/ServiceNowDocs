@@ -150,7 +150,7 @@ Edit project details \(![Edit icon.](../image/icon-edit.png)\)
 
 Opens the project details in the side panel to edit.
 
- See [Create a project from Project Workspace](../task/create-project-from-project-workspace.md).
+ See [Create a project from Project Workspace](create-project-from-project-workspace.md).
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ Activity \(![Activity icon.](../image/icon-activity.png)\)
 
 Facilitates conversation between different stakeholders.
 
- See [Collaborate with stakeholders from Project Workspace](../task/collaborate-with-stakeholders-from-project-workspace.md).
+ See [Collaborate with stakeholders from Project Workspace](collaborate-with-stakeholders-from-project-workspace.md).
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ Attachments \(![Attachments icon.](../image/icon-attachments.png)\)
 
 Enables you to add files to the project.
 
- See [Collaborate with stakeholders from Project Workspace](../task/collaborate-with-stakeholders-from-project-workspace.md).
+ See [Collaborate with stakeholders from Project Workspace](collaborate-with-stakeholders-from-project-workspace.md).
 
 </td></tr><tr><td>
 
@@ -240,7 +240,7 @@ Baselines \(![Baselines option.](../image/icon-baselines.png)\)
 
 Enables you to create and compare schedule and financial baselines.
 
- See [Create and compare project baselines in Project Workspace](../task/create-project-baselines-in-project-workspace.md).
+ See [Create and compare project baselines in Project Workspace](create-project-baselines-in-project-workspace.md).
 
 </td></tr><tr><td>
 
@@ -260,7 +260,7 @@ Add Task![Add project task.](../image/workspace-add-task.png)
 
 Adds a project task in the data grid.
 
- See [Create and assign project tasks from Project Workspace](../task/create-a-project-task-from-project-workspace.md).
+ See [Create and assign project tasks from Project Workspace](create-a-project-task-from-project-workspace.md).
 
 </td></tr><tr><td>
 
@@ -437,7 +437,7 @@ Edit multiple cells
 Bulk-edit cells by selecting multiple cells and select and hold \(or right-click\) one of the cells. You can also use the cell context menu \(![Context menu.](../image/icon-row-context-menu.png)\) for more options.
 
 </td></tr></tbody>
-</table>Selecting a project task by selecting its short description opens the task details in a side panel, enabling you to edit them. See [Update a project task from the Project Workspace](../task/update-project-task-from-project-workspace.md).
+</table>Selecting a project task by selecting its short description opens the task details in a side panel, enabling you to edit them. See [Update a project task from the Project Workspace](update-project-task-from-project-workspace.md).
 
 You can also increase or reduce the area occupied by the data grid by dragging the line that separates them.
 
@@ -445,7 +445,7 @@ You can also increase or reduce the area occupied by the data grid by dragging t
 
 The timeline view shows the project timeline based on its planned start and end dates, and displays the project task bars and milestones.
 
-By using the planning settings \(![Settings icon.](../../alignment-planner-workspace/images/icon-settings.png)\), you can choose to display the bar labels, dependency lines, and the critical path. See [Personalize the planning page view in Project Workspace](../task/personalize-planning-console-in-project-workspace.md).
+By using the planning settings \(![Settings icon.](../../alignment-planner-workspace/images/icon-settings.png)\), you can choose to display the bar labels, dependency lines, and the critical path. See [Personalize the planning page view in Project Workspace](personalize-planning-console-in-project-workspace.md).
 
 ## Project timeline
 
@@ -455,67 +455,67 @@ The timescale view that you choose is saved in the preferences.
 
 ## Dependency lines
 
-These lines show the dependencies between the project tasks. You can add new dependencies by drawing them on the timeline view, or select an existing dependency to edit its details in the side panel. See [Add internal project task dependencies from Project Workspace](../task/create-dependencies-for-project-tasks-from-project-workspace.md). The dependencies that you choose are saved in the preferences.
+These lines show the dependencies between the project tasks. You can add new dependencies by drawing them on the timeline view, or select an existing dependency to edit its details in the side panel. See [Add internal project task dependencies from Project Workspace](create-dependencies-for-project-tasks-from-project-workspace.md). The dependencies that you choose are saved in the preferences.
 
--   **[Access the new Project Workspace](../task/access-new-project-workspace.md)**  
+-   **[Access the new Project Workspace](access-new-project-workspace.md)**  
 Learn how to navigate to the new Project Workspace and open a project in the planning page.
--   **[Create a project from Project Workspace](../task/create-project-from-project-workspace.md)**  
+-   **[Create a project from Project Workspace](create-project-from-project-workspace.md)**  
 Use Project Workspace to create a project and start planning for your project tasks.
--   **[Update the project details from Project Workspace](../task/update-project-details-from-project-workspace.md)**  
+-   **[Update the project details from Project Workspace](update-project-details-from-project-workspace.md)**  
 Update the details of a project to reflect the updates or changed priorities using the details page from Project Workspace.
--   **[Generate and track project details from AI insights page](../task/generate-ai-project-insights-pw.md)**  
+-   **[Generate and track project details from AI insights page](generate-ai-project-insights-pw.md)**  
 Generate and monitor project insights directly from AI insights page in Project Workspace.
--   **[Generate a project plan using project plan generation skill](../task/generate-project-using-ai-pw.md)**  
+-   **[Generate a project plan using project plan generation skill](generate-project-using-ai-pw.md)**  
 Use Project plan generation skill to generate a project plan from natural language input, uploaded files, or both.
--   **[Generate tasks for a project using project plan generation skill](../task/generate-tasks-using-ai-pw.md)**  
+-   **[Generate tasks for a project using project plan generation skill](generate-tasks-using-ai-pw.md)**  
 Use project plan generation skill to populate an empty project with tasks by providing text input, uploading files, or both.
--   **[Create an Asset Project Request from Project Workspace](../task/create-asset-project-requests-pw.md)**  
+-   **[Create an Asset Project Request from Project Workspace](create-asset-project-requests-pw.md)**  
 Create a new asset project request directly from Project Workspace and associate it to a project for tracking and reporting purpose.
--   **[Use Playbooks in Project Workspace](../task/use-playbooks-pw.md)**  
+-   **[Use Playbooks in Project Workspace](use-playbooks-pw.md)**  
 Plan your project stages and assign specific actions to each stage using Playbooks.
--   **[Analyze project analytics from Project Workspace](../task/analyze-project-analytics-in-project-workspace.md)**  
+-   **[Analyze project analytics from Project Workspace](analyze-project-analytics-in-project-workspace.md)**  
 View the summary of a project in Analytics tab of Project Workspace.
--   **[Personalize the planning page view in Project Workspace](../task/personalize-planning-console-in-project-workspace.md)**  
+-   **[Personalize the planning page view in Project Workspace](personalize-planning-console-in-project-workspace.md)**  
 Customize the display of the planning page. Choose the data you want to see on the data grid and the timeline.
--   **[Create and assign project tasks from Project Workspace](../task/create-a-project-task-from-project-workspace.md)**  
+-   **[Create and assign project tasks from Project Workspace](create-a-project-task-from-project-workspace.md)**  
 Add new tasks for your projects and assign them to your team directly from the new Project Workspace.
--   **[Create checklist items for a project task](../task/create-project-task-checklist.md)**  
+-   **[Create checklist items for a project task](create-project-task-checklist.md)**  
 Create checklist items for a project task to track items to be completed in the task.
--   **[Add internal project task dependencies from Project Workspace](../task/create-dependencies-for-project-tasks-from-project-workspace.md)**  
+-   **[Add internal project task dependencies from Project Workspace](create-dependencies-for-project-tasks-from-project-workspace.md)**  
 Create dependencies between project tasks using the interactive UI of Project Workspace.
--   **[Add external dependencies between projects from Project Workspace](../task/add-external-dependencies-between-projects-from-project-workspace.md)**  
+-   **[Add external dependencies between projects from Project Workspace](add-external-dependencies-between-projects-from-project-workspace.md)**  
 Set up a dependency between tasks of different projects using the new Project Workspace.
--   **[Create and compare project baselines in Project Workspace](../task/create-project-baselines-in-project-workspace.md)**  
+-   **[Create and compare project baselines in Project Workspace](create-project-baselines-in-project-workspace.md)**  
 Create a schedule baseline and financial baseline of a project. A baseline is a snapshot of the project's progress at the particular moment of time.
--   **[Create a status report template in Project Workspace](../task/create-a-status-report-template-project-workspace.md)**  
+-   **[Create a status report template in Project Workspace](create-a-status-report-template-project-workspace.md)**  
 Create a custom template for status reporting in Project Workspace. Use the template to create status reports according to your specific requirements.
--   **[Generate a project status report with Now Assist](../task/generate-ai-project-status-report.md)**  
+-   **[Generate a project status report with Now Assist](generate-ai-project-status-report.md)**  
 Generate an AI‑assisted project status report with predicted health indicators. Now assist pre-populates project health, an executive summary, and supporting rationale based on weekly project data.
--   **[Create a status report in Project Workspace](../task/create-a-status-report-in-project-workspace.md)**  
+-   **[Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)**  
 Create a status report in Project Workspace for your projects. Your team can view the report and be updated on project health, metrics, risks, issues, and milestones.
--   **[Collaborate with stakeholders from Project Workspace](../task/collaborate-with-stakeholders-from-project-workspace.md)**  
+-   **[Collaborate with stakeholders from Project Workspace](collaborate-with-stakeholders-from-project-workspace.md)**  
 Add comments and attachments to the project or a project task and share them with other users of your organization. Collaborate and verify that your project is in line with your organizational priorities.
--   **[Collaborate on projects using Docs](../task/collaborative-project-planning-with-docs.md)**  
+-   **[Collaborate on projects using Docs](collaborative-project-planning-with-docs.md)**  
 Collaborate with team members, save notes, create project charters, and project briefs using Docs.
--   **[Generate the summary for selected or complete content with Project doc generation and insights skill](../task/summarize-docs-genai-skill-pw.md)**  
+-   **[Generate the summary for selected or complete content with Project doc generation and insights skill](summarize-docs-genai-skill-pw.md)**  
 Quickly learn the details of the documents from the summary that is generated by Now Assist in Strategic Planning.
--   **[Schedule the project insights email](../task/email-project-summary-pw.md)**  
+-   **[Schedule the project insights email](email-project-summary-pw.md)**  
 Schedule the project insights email to prioritize and track the most important changes in the project in Project Workspace.
--   **[Project financials and Source-to-Pay Operations integration](../../pw-financials/task/pws-fin-spo-integration.md)**  
+-   **[Project financials and Source-to-Pay Operations integration](pws-fin-spo-integration.md)**  
 Request, track, and manage procurement requests of assets for your projects.
--   **[Add a RIDAC record to a project in Project Workspace](../task/add-risk-project-project-workspace.md)**  
+-   **[Add a RIDAC record to a project in Project Workspace](add-risk-project-project-workspace.md)**  
 Add a Risk, Issue, Decision, Action, or Request Change \(RIDAC\) record to your project in the Project Workspace. Adding RIDAC records enable you to keep a track of risks or issues during the project life cycle and help in analyzing the outcome of a project.
--   **[Associate existing RIDAC records for a project in Project Workspace](../task/associate-ridac-project-workspace.md)**  
+-   **[Associate existing RIDAC records for a project in Project Workspace](associate-ridac-project-workspace.md)**  
 Link existing RIDAC records to one another for your project in Project Workspace. A RIDAC record stands for Risks, Issues, Actions, Decisions, and Request Changes. Keep a record of risks or issues and their outcome for analysis at project closure and planning.
--   **[Convert one RIDAC record to another for a project in Project Workspace](../task/convert-ridac-project-workspace.md)**  
+-   **[Convert one RIDAC record to another for a project in Project Workspace](convert-ridac-project-workspace.md)**  
 Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a project in the Project Workspace. Keep a record of risks or issues and their outcome for analysis at project closure and planning. Track the risks and issues throughout the project life cycle.
--   **[Generate, accept, and reject risks using risk generation skill](../task/generate-risks-using-ai-pw.md)**  
+-   **[Generate, accept, and reject risks using risk generation skill](generate-risks-using-ai-pw.md)**  
 Use generative AI to identify, generate, and manage potential risks in your project based on insights, resources, financials, and milestones.
--   **[Export a project status report to Microsoft PowerPoint from Project Workspace](../task/export-project-status-report-to-powerpoint-from-project-workspace.md)**  
+-   **[Export a project status report to Microsoft PowerPoint from Project Workspace](export-project-status-report-to-powerpoint-from-project-workspace.md)**  
 Generate a status report of your project and export it as a Microsoft PowerPoint file from Project Workspace. You can use this file to present the project status to stakeholders or to collaborate with them over risks and next steps. Save time by generating a Microsoft PowerPoint file with the latest information and avoid copying information into slides.
--   **[Export a project from Project Workspace](../task/export-project-to-powerpoint-from-project-workspace.md)**  
+-   **[Export a project from Project Workspace](export-project-to-powerpoint-from-project-workspace.md)**  
 Export your project as a file from Project Workspace. Use this file to provide project updates to external stakeholders or a wider audience. Save time by generating an export file with the latest information and avoid copying information into different files.
--   **[Closing a project in Project Workspace](../task/close-a-project-pw.md)**  
+-   **[Closing a project in Project Workspace](close-a-project-pw.md)**  
 End the project when all tasks are completed. When you close a project, all project tasks, sub-projects, and resource assignments associated with the project are closed automatically.
 
 **Parent Topic:**[Project Workspace](project-workspace-landing-page.md)

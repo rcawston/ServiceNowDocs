@@ -63,5 +63,5 @@ Role required: admin
 
     -   You can make edits in the records directly within Configuration Hub. You don't have to open the records in a conventional way to make edits in them.
 
-**Parent Topic:**[Configuration Hub](../concept/ac-configuration-hub.md)
+**Parent Topic:**[Configuration Hub](ac-configuration-hub.md)
 

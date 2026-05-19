@@ -45,7 +45,7 @@ The KPI Data \[sn\_kpi\_data\] table contains the following fields.
 **Related topics**  
 
 
-[Create KPIs without using KPI template](../task/create-kpis.md)
+[Create KPIs without using KPI template](create-kpis.md)
 
-[Create KPIs by adding suppliers to a KPI template](../task/add-supplier-kpi-template.md)
+[Create KPIs by adding suppliers to a KPI template](add-supplier-kpi-template.md)
 

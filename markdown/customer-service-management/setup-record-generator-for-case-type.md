@@ -19,7 +19,7 @@ Role required: playbook\_experience.admin
 
 ## About this task
 
-A record generator is set up for a specific table. You can specify the name of the record generator activity, the form view, and the playbook that a user sees before a record is created. You can also configure the declarative action that are used to submit the form. For more information on declarative actions, see [Declarative actions](../concept/migration-form-declarative-actions.md).
+A record generator is set up for a specific table. You can specify the name of the record generator activity, the form view, and the playbook that a user sees before a record is created. You can also configure the declarative action that are used to submit the form. For more information on declarative actions, see [Declarative actions](migration-form-declarative-actions.md).
 
 ## Procedure
 

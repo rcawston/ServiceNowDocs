@@ -118,5 +118,5 @@ Estimated level of model complexity. The options are as follows:-   Simple
 </td></tr></tbody>
 </table>**Note:** The fields shown in the intake form are sample basic fields. You can configure additional fields and update choice values as needed to meet your specific requirements.
 
-**Parent Topic:**[Request a new model](../task/request-new-model.md)
+**Parent Topic:**[Request a new model](request-new-model.md)
 

@@ -28,8 +28,8 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 3.  In the connector editor, select the Analytics tab.
 
-    For details on the available analytics metrics, see [Analytics for external content connectors](../reference/analytics-external-content-connectors.md).
+    For details on the available analytics metrics, see [Analytics for external content connectors](analytics-external-content-connectors.md).
 
 
-**Parent Topic:**[Reviewing external content connector crawl results and analytics](../concept/reviewing-external-content-connector-results-and-analytics.md)
+**Parent Topic:**[Reviewing external content connector crawl results and analytics](reviewing-external-content-connector-results-and-analytics.md)
 

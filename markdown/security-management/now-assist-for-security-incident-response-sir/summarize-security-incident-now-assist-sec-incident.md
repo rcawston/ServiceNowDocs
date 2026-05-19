@@ -18,7 +18,7 @@ Understand the context of a security incident with the Security Incident summari
 
 ## Before you begin
 
-You can summarize a security incident in the legacy Core UI \(UI16\) and in the Security Incident Response Workspace. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](../reference/input-triggers-now-assist-security-incident.md).
+You can summarize a security incident in the legacy Core UI \(UI16\) and in the Security Incident Response Workspace. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](input-triggers-now-assist-security-incident.md).
 
 Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 

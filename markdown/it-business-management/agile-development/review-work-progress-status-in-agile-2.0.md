@@ -25,7 +25,7 @@ The Status column of the epics list shows a Green, Yellow, or Red indicator for 
 
 The estimated completion date displays a date with the likelihood of the epic's completion.
 
-The [\[Scrum\] daily data collection job](../../../use/dashboards/application-content-packs/enable-daily-data-collection.md) helps generate the burnup report for your epics. Using the data generated for these epic burnup reports, an estimated completion date is determined for each of your epics. You can see that this date is the intersection of Completed and Scope forecast series in the respective epic burnup reports.
+The [\[Scrum\] daily data collection job](enable-daily-data-collection.md) helps generate the burnup report for your epics. Using the data generated for these epic burnup reports, an estimated completion date is determined for each of your epics. You can see that this date is the intersection of Completed and Scope forecast series in the respective epic burnup reports.
 
 Based on this estimated completion date, the progress status for your epics is determined. Progress status for an epic is calculated only under the following conditions:
 
@@ -43,5 +43,5 @@ The color of the progress status indicator is determined using the following con
 **Related topics**  
 
 
-[Agile 2.0 Epic Dashboard](../../../use/dashboards/application-content-packs/agile-development-epic-dashboard.md)
+[Agile 2.0 Epic Dashboard](agile-development-epic-dashboard.md)
 

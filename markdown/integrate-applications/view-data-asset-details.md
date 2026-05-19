@@ -47,5 +47,5 @@ Asset detail pages organize information into tabs for easy navigation. The Overv
     -   Use the **Show assets details** option to view the details of a related asset.
     -   Move nodes freely across the canvas to customize your layout.
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](find-access-data-assets-dc.md)
 

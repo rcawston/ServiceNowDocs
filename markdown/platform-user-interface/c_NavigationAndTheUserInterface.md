@@ -18,11 +18,11 @@ Click any of the tiles below to learn more about the variety of customizations, 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure UIs and Portals ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build user interfaces and create custom user experiences with this versatile suite of tools.](../../general/concept/configure-uis-and-portals.md)
+[Configure UIs and Portals ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build user interfaces and create custom user experiences with this versatile suite of tools.](configure-uis-and-portals.md)
 
 </td><td>
 
-[Provide user assistance ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Give users assistance on the ServiceNow AI Platform with knowledge articles, step-by-step tutorials, and more.](../../../build/adoption-services/concept/adoption-services.md)
+[Provide user assistance ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Give users assistance on the ServiceNow AI Platform with knowledge articles, step-by-step tutorials, and more.](adoption-services/adoption-services.md)
 
 </td></tr></tbody>
 </table>## Configure UIs and portals
@@ -37,7 +37,7 @@ Inform, educate, and assist your users with a full set of guidance and knowledge
 
 Access workspaces, Core UI, applications, history, and favorites through the single pane Next Experience UI.
 
-For highlights, see the [Next Experience UI landing page](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md).
+For highlights, see the [Next Experience UI landing page](next-experience-landing-page.md).
 
 ## Provide just the data that you need
 
@@ -65,11 +65,11 @@ Solve issues faster with a workspace that is built to facilitate resolutions. Ag
 
 ## Applications and features
 
--   [Next Experience UI](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md)
--   [Workspace UI](../../configurable-workspace/concept/workspace-landing-page.md)
--   [Working in Core UI](../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
--   [Content Management System \(CMS\)](../../content-management/concept/c_ContentManagementSystem.md)
--   [Service Portal](../../../build/service-portal/concept/c_ServicePortal.md)
--   [Adoption services](../../../build/adoption-services/concept/adoption-services.md)
--   [Visual Task Boards \(VTB\)](../../../use/visual-task-boards/concept/c_VisualTaskBoards.md)
+-   [Next Experience UI](next-experience-landing-page.md)
+-   [Workspace UI](workspace-landing-page.md)
+-   [Working in Core UI](working-in-ui16-and-ui15.md)
+-   [Content Management System \(CMS\)](content-management-system/c_ContentManagementSystem.md)
+-   [Service Portal](service-portal/c_ServicePortal.md)
+-   [Adoption services](adoption-services/adoption-services.md)
+-   [Visual Task Boards \(VTB\)](visual-task-boards/c_VisualTaskBoards.md)
 

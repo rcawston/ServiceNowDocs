@@ -54,7 +54,7 @@ The Agile assignment groups are created and stored in the Groups \[sys\_user\_gr
 ## What to do next
 
 -   [Add members to an assignment group in Agile Development 2.0](add-group-members-to-group.md).
--   Use the related links and lists to create sprints and plan the sprint activities for your group. For more information, see [Related links and lists of assignment group in Agile Development 2.0](../reference/related-links-lists-of-assignment-group-in-agile-dev-2.md).
+-   Use the related links and lists to create sprints and plan the sprint activities for your group. For more information, see [Related links and lists of assignment group in Agile Development 2.0](related-links-lists-of-assignment-group-in-agile-dev-2.md).
 
-**Parent Topic:**[Assignment groups in Agile Development 2.0](../concept/manage-groups-agile-dev.md)
+**Parent Topic:**[Assignment groups in Agile Development 2.0](manage-groups-agile-dev.md)
 

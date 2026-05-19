@@ -40,5 +40,5 @@ Role required: it\_project\_manager
 
 [Create a project from Project Workspace](create-project-from-project-workspace.md)
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

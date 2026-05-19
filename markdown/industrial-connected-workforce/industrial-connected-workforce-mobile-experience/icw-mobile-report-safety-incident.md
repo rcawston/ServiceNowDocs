@@ -51,14 +51,14 @@ The Industrial Connected Workforce Mobile Experience enables operators to quickl
 
 The safety incident is created and submitted for triage. You can view the incident status from the safety incidents list.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 
 **Related topics**  
 
 
-[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../../icw-digital-factory-workspace/concept/icw-health-and-security-integraton.md)
+[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../digital-factory-workspace/icw-health-and-security-integraton.md)
 
 [Create a safety incident from a task](icw-mobile-create-safety-incident-from-task.md)
 
-[Using ICW Health and Safety Integration](../../icw-digital-factory-workspace/concept/using-icw-health-and-safety-integration.md)
+[Using ICW Health and Safety Integration](../digital-factory-workspace/using-icw-health-and-safety-integration.md)
 

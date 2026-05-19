@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../service-mapping/tag_discovery_configuration.md).
 
 -   **Azure Availability Set**
 
@@ -40,19 +40,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Set up Azure service accounts**
 
-    Enable Cloud Discovery to access your Azure environment. For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+    Enable Cloud Discovery to access your Azure environment. For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md).
 
 -   **Create an Azure cloud discovery schedule**
 
-    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-azure-schedule-DAW.md).
+    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](../discovery/create-azure-schedule-DAW.md).
 
 -   **\(Optional\) Discover datacenters only for new subscriptions**
 
-    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../task/discover-datacenter-only-new-account.md).
+    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -903,25 +903,25 @@ Service Mapping uses tag-based discovery to create service instance maps includi
 |Configuration Item \[cmdb\_ci\]|Hosted on::Hosts|Logical Datacenter \[cmdb\_ci\_logical\_datacenter\]|
 |Logical Datacenter \[cmdb\_ci\_logical\_datacenter\]|Hosted on::Hosts|Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]|
 
--   **[Azure Application Insight Data Collection Rule pattern-based discovery](../../patterns/azure-app-insight-data-collect-rule.md)**  
+-   **[Azure Application Insight Data Collection Rule pattern-based discovery](azure-app-insight-data-collect-rule.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Blob Storage pattern-based discovery](azure-blob-storage-pattern.md)**  
 Discovery and Service Mapping Patterns finds blob resources within Azure Blob Storage on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Classic Load Balancer pattern-based discovery](azure-classic-load-balancer-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Classic Load Balancers on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Cosmos DB for PostgreSQL Cluster pattern-based discovery](../../patterns/azure-cosmos-db-postgresql-cluster.md)**  
+-   **[Azure Cosmos DB for PostgreSQL Cluster pattern-based discovery](azure-cosmos-db-postgresql-cluster.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Data Explorer Cluster pattern-based discovery](../../patterns/azure-data-explorer-cluster.md)**  
+-   **[Azure Data Explorer Cluster pattern-based discovery](azure-data-explorer-cluster.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Datacenter discovery pattern-based discovery](azure-datacenter-discovery-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Datacenter resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Dev Center pattern-based discovery](../../patterns/azure-dev-center.md)**  
+-   **[Azure Dev Center pattern-based discovery](azure-dev-center.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Express Route Circuit pattern-based discovery](azure-express-route-circuit-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Express Route Circuit resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure File Share pattern-based discovery](azure-file-share-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure File Share resources within Storage Accounts on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Firewall Network Security pattern-based discovery](../../patterns/azure-firewall-network-security.md)**  
+-   **[Azure Firewall Network Security pattern-based discovery](azure-firewall-network-security.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure hardware type pattern-based discovery](azure-hardware-type-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure hardware type configurations on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
@@ -929,7 +929,7 @@ Discovery and Service Mapping Patterns finds Azure hardware type configurations 
 Discovery and Service Mapping Patterns finds Azure Hosts on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Local Network Gateway pattern-based discovery](azure-local-network-gateway-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Local Network Gateway resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Log Analytics Workspace pattern-based discovery](../../patterns/azure-log-analytics-workspace.md)**  
+-   **[Azure Log Analytics Workspace pattern-based discovery](azure-log-analytics-workspace.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Network Address Translation \(NAT\) Gateway pattern-based discovery](azure-nat-gateway-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure NAT Gateway resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
@@ -937,11 +937,11 @@ Discovery and Service Mapping Patterns finds Azure NAT Gateway resources on your
 Discovery and Service Mapping Patterns finds Azure OS images on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Private Domain Name System \(DNS\) Zone pattern-based discovery](azure-private-dns-zone-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Private DNS Zone resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Recovery Services Vault pattern-based discovery](../../patterns/azure-recovery-services-vault.md)**  
+-   **[Azure Recovery Services Vault pattern-based discovery](azure-recovery-services-vault.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Recovery Services Vault Backup Item pattern-based discovery](../../patterns/azure-recovery-services-vault-backup.md)**  
+-   **[Azure Recovery Services Vault Backup Item pattern-based discovery](azure-recovery-services-vault-backup.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Service Endpoint Policy pattern-based discovery](../../patterns/azure-service-endpoint-policy.md)**  
+-   **[Azure Service Endpoint Policy pattern-based discovery](azure-service-endpoint-policy.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Subscriptions Discovery For Management Group pattern-based discovery](azure-sub-mgmt-group-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Subscription entities under Management Groups on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
@@ -949,17 +949,17 @@ Discovery and Service Mapping Patterns finds Azure Subscription entities under M
 Discovery and Service Mapping Patterns finds Azure virtual machines \(VMs\) on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Azure Virtual Network Gateway Connection pattern-based discovery](azure-vng-connection-pattern.md)**  
 Discovery and Service Mapping Patterns finds Azure Virtual Network Gateway Connection resources on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Azure Web Application Firewall Policy pattern-based discovery](../../patterns/azure-web-app-firewall-policy.md)**  
+-   **[Azure Web Application Firewall Policy pattern-based discovery](azure-web-app-firewall-policy.md)**  
 Discovery and Service Mapping Patterns finds Azure services on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-**Parent Topic:**[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+**Parent Topic:**[Available cloud discovery patterns](available-patterns-cloud.md)
 
 **Related topics**  
 
 
-[Kubernetes discovery using patterns](../concept/kubernetes-discovery.md)
+[Kubernetes discovery using patterns](../discovery/kubernetes-discovery.md)
 
-[Azure Key Vault certificate discovery](../../discovery/reference/azure-certificate-discovery-pattern.md)
+[Azure Key Vault certificate discovery](../discovery/azure-certificate-discovery-pattern.md)
 
-[Microsoft Foundry \(Classic\) pattern-based discovery](../../ai-agent-topology-mapping/reference/microsoft-foundry-classic-pattern.md)
+[Microsoft Foundry \(Classic\) pattern-based discovery](../itom-visibility/microsoft-foundry-classic-pattern.md)
 

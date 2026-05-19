@@ -46,7 +46,7 @@ Workflow Studio displays the last saved icon after saving a flow ![Auto save ico
 
 You can't save a flow that you don't have edit rights to. Make sure to save your work while you’re editing a flow. To avoid losing changes to the editing time-out value, perform any of the operations that trigger automatically saving the flow. For more information about when flows are in a read-only state, see [Default read-only flows](default-read-only-flows.md).
 
--   **[Restore save as you go functionality](../task/restore-save-as-you-go-functionality.md)**  
+-   **[Restore save as you go functionality](restore-save-as-you-go-functionality.md)**  
 Restore save as you go functionality that was disabled in the Washington DC release.
 
 **Parent Topic:**[Building flows](flows.md)

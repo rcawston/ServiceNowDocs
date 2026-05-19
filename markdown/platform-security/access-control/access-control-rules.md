@@ -21,15 +21,15 @@ Rules for access control lists \(ACLs\) restrict access to data by requiring use
 
 </td><td>
 
-[Configure ACLs![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/t_CreateAnACLRule.md)
+[Configure ACLs![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](t_CreateAnACLRule.md)
 
- [Configure ACLs.](../task/t_CreateAnACLRule.md)
+ [Configure ACLs.](t_CreateAnACLRule.md)
 
 </td></tr><tr><td>
 
-[Contextual Security Manager![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](../../roles/reference/r_ContextualSecurity.md)
+[Contextual Security Manager![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](r_ContextualSecurity.md)
 
- [Learn about the about Contextual Security Manager.](../../roles/reference/r_ContextualSecurity.md)
+ [Learn about the about Contextual Security Manager.](r_ContextualSecurity.md)
 
 </td><td>
 

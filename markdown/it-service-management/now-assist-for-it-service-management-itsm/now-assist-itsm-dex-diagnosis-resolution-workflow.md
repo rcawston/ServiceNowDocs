@@ -29,7 +29,7 @@ Using the DEX issue diagnosis and resolution agentic workflow:
 To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
 -   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
--   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](../../digital-end-user-experience/task/install-app-device-health.md) and [Configuring Digital End-User Experience](../../digital-end-user-experience/concept/config-dex-console.md).
+-   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](../digital-end-user-experience-dex/install-app-device-health.md) and [Configuring Digital End-User Experience](../digital-end-user-experience-dex/config-dex-console.md).
 
 ## Roles required to access the agentic workflow
 
@@ -45,7 +45,7 @@ The DEX issue diagnosis and resolution agentic workflow provides incident diagno
 -   The agentic workflow must be activated. For more information, see [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md).
 -   The incident number must be valid.
 -   The incident record must be associated with a single, DEX monitored physical endpoint or device. Only one device configuration item \(CI\) must be configured either as the primary CI in the **Configuration item** field or in the **Affected CIs** list.
--   The device associated with the incident must have a DEX compatible operating system. For more information, see [DEX system requirements](../../digital-end-user-experience/concept/dex-sys-requirements.md).
+-   The device associated with the incident must have a DEX compatible operating system. For more information, see [DEX system requirements](../digital-end-user-experience-dex/dex-sys-requirements.md).
 -   The incident must be created within the past month. Incidents older than one month cannot be diagnosed and resolved using the agentic workflow.
 -   To make sure that the correct agentic workflow is initiated, include the phrase "diagnose and resolve" in your Now Assist panel prompt.
 
@@ -95,7 +95,7 @@ Service desk agents can use the agentic workflow to generate incident diagnosis 
 2.  Select the Now Assist icon ![Now Assist icon](../image/icon-now-assist-panel.png) to open the Now Assist panel.
 3.  Type your prompt that includes the phrase "diagnose and resolve". For example, Diagnose and resolve this incident.
 
-After the resolution plan is generated, you can execute it directly from the Investigation tab of the incident record. For more information, see [Incident investigation with DEX](../../digital-end-user-experience/concept/dex-diagnostics-guided-resolutions.md).
+After the resolution plan is generated, you can execute it directly from the Investigation tab of the incident record. For more information, see [Incident investigation with DEX](../digital-end-user-experience-dex/dex-diagnostics-guided-resolutions.md).
 
 **Example of DEX issue diagnosis and resolution agentic workflow output in Service Operations Workspace**![DEX issue diagnosis and resolution agentic workflow output in Now Assist panel within the Service Operations Workspace](../../digital-end-user-experience/image/dex-agentic-nap.png)
 

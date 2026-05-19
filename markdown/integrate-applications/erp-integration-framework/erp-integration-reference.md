@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP, Workflow Data Fabric]
 
 Find reference information for Zero Copy Connector for ERP \(Enterprise Resource Planning\), including ERP table details.
 
--   **[Zero Copy Connector for ERP and domain separation](../concept/erpi-domain-separation.md)**  
+-   **[Zero Copy Connector for ERP and domain separation](erpi-domain-separation.md)**  
 Domain separation is unsupported for Zero Copy Connector for ERP \(Enterprise Resource Planning\). Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Sample Glide query for ERP data in Zero Copy Connector for ERP](erp-canvas-sample-glide-query-code.md)**  
 Access data from the ERP \(Enterprise Resource Planning\) system of record through the Glide API.
@@ -35,5 +35,5 @@ Review the system properties for Zero Copy Connector for ERP \(Enterprise Resour
 -   **[Zero Copy Connector for ERP and ERP Semantic Mining glossary](erp-integration-glossary.md)**  
 Learn about ERP \(Enterprise Resource Planning\) terminology and concepts that apply to Zero Copy Connector for ERP, ERP Semantic Mining, and ERP content packs.
 
-**Parent Topic:**[Zero Copy Connector for ERP](../concept/erp-integration-overview.md)
+**Parent Topic:**[Zero Copy Connector for ERP](erp-integration-overview.md)
 

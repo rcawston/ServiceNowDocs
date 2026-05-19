@@ -32,5 +32,5 @@ Role required: sn\_vaccine\_sm.clinician
     **Note:** Records of internal users who have provided personal information through the Vaccine Administration Management portal will be included in the search results. However, a clinician or a vaccine agent won’t be able to book appointments on behalf of the internal users.
 
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](user-appt-mngt-clinicans-agents.md)
 

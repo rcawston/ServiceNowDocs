@@ -37,17 +37,17 @@ Role required: admin
 
     Applying default configurations sets the required default settings for Core Business Suite.
 
-    For information about the default configurations, see [Core Business Suite Foundation default configurations](../concept/cbs-default-configs.md).
+    For information about the default configurations, see [Core Business Suite Foundation default configurations](cbs-default-configs.md).
 
     If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](reset-default-configurations.md).
 
 
 ## What to do next
 
-Install the Core Business Suite applications. For more information, see [Install Core Business Suite applications](../concept/install-cbs-apps.md).
+Install the Core Business Suite applications. For more information, see [Install Core Business Suite applications](install-cbs-apps.md).
 
--   **[Core Business Suite Foundation default configurations](../concept/cbs-default-configs.md)**  
+-   **[Core Business Suite Foundation default configurations](cbs-default-configs.md)**  
 Details of the default configurations for Core Business Suite Foundation.
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
 

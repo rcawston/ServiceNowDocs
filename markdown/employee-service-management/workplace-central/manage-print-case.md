@@ -25,17 +25,17 @@ Use one of the following options to proceed:
 **Related topics**  
 
 
-[Manage workplace cases using Case management](../task/manage-workplace-cases-using-case-management.md)
+[Manage workplace cases using Case management](manage-workplace-cases-using-case-management.md)
 
-[Work on a workplace case using Case management](../task/work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md)
 
-[Create a workplace service case](../task/create-a-case-casemgmtworkspace.md)
+[Create a workplace service case](create-a-case-casemgmtworkspace.md)
 
-[Create a child case and a child task](../task/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Print a workplace case](../task/print-a-workplace-case.md)
+[Print a workplace case](print-a-workplace-case.md)
 
-[Cancel or delete a case](../task/cancel-or-delete-a-case-casemgmtworkspace.md)
+[Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 
 ## Print filtered cases
 

@@ -13,9 +13,9 @@ breadcrumb: [Case creation from security artifacts, Security Case Management, Th
 
 In Security Incident Response, you can create cases from security incidents, CIs, and affected users, as well as add those artifacts to existing cases.
 
--   **[Create a case from security incidents](../task/create-cases-from-security-incidents.md)**  
+-   **[Create a case from security incidents](create-cases-from-security-incidents.md)**  
 In Security Incident Response, you can create cases from security incidents. After the security incidents have been used to create a new case, you can use Security Case Management to analyze the data.
--   **[Add security incidents to an existing case](../task/add-sec-inc-to-cases.md)**  
+-   **[Add security incidents to an existing case](add-sec-inc-to-cases.md)**  
 You can add security incidents to one or more existing cases. After the security incidents have been added to cases, you can use Security Case Management to analyze the data.
 
 **Parent Topic:**[Case creation from security artifacts](case-creation-from-security-artifacts.md)

@@ -24,22 +24,22 @@ From the Portfolio page in Enterprise Architecture Workspace, you can perform th
 -   Add a sub-capability
 -   Add architectural artifacts to a business capability
 
-You can also view and add business capabilities and perform a host of other tasks relating to business capabilities, from the Business Portfolio page. For more information, see [Exploring a business portfolio](../manage-business-portfolio.md).
+You can also view and add business capabilities and perform a host of other tasks relating to business capabilities, from the Business Portfolio page. For more information, see [Exploring a business portfolio](manage-business-portfolio.md).
 
 **Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View all business capabilities on the Portfolio page](../../task/eaw-task/eaw-view-all-capabilities-on-the-portfolio-page.md)
+[View all business capabilities on the Portfolio page](eaw-view-all-capabilities-on-the-portfolio-page.md)
 
-[Add or edit a business capability from the Portfolio page](../../task/eaw-task/eaw-add-capability.md)
+[Add or edit a business capability from the Portfolio page](eaw-add-capability.md)
 
-[Create a sub-capability from the Portfolio page](../../task/eaw-task/eaw-create-a-sub-capability-from-the-portfolio-page.md)
+[Create a sub-capability from the Portfolio page](eaw-create-a-sub-capability-from-the-portfolio-page.md)
 
-[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-create-lucid-diagram-cap.md)
+[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](eaw-create-lucid-diagram-cap.md)
 
-[Manage architectural artifacts of a business capability in EA Workspace](../../task/eaw-task/eaw-assoicate-artifact-bc.md)
+[Manage architectural artifacts of a business capability in EA Workspace](eaw-assoicate-artifact-bc.md)
 
-[Add or remove a business capability from a value stream stage](../../task/eaw-task/add-or-remove-a-bc-from-vs-stage.md)
+[Add or remove a business capability from a value stream stage](add-or-remove-a-bc-from-vs-stage.md)
 

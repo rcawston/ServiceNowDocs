@@ -39,9 +39,9 @@ When responding to a major incident, some crucial actions involve finding the ri
 A major incident is a highest-impact, highest-urgency incident that affects a large number of users, depriving the business of one or more crucial services. Given the urgency of the situation, a well-coordinated response process is required to accelerate the resolution and minimize the business impact.
 -   **[Major Incident Management plugins](mim-plugins.md)**  
 You can activate the Major Incident Management plugins if you have the admin role.
--   **[Quick start tests for Major Incident Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-mim.md)**  
+-   **[Quick start tests for Major Incident Management](quick-start-tests-mim.md)**  
 Validate that Major Incident Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
--   **[Create trigger rules for major incidents](../task/major-incident-trigger-rules.md)**  
+-   **[Create trigger rules for major incidents](major-incident-trigger-rules.md)**  
 Create trigger rules to define the conditions under which a trigger action is executed. You can create major incident trigger rules to define the conditions under which an incident is automatically considered as a major incident candidate.
 -   **[Working on major incident management](work-on-mim.md)**  
 The section covers topics that help you with a variety of technical concepts related to major incident management such as the different ways to create a major incident, ways to reject a major incident candidate, demote a major incident, or close a major incident.

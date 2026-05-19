@@ -58,5 +58,5 @@ Remove a named connection profile that you no longer need from the configuration
 -   **[Refresh your connection](refresh-profile.md)**  
 Update the available commands from the instance for the given profile. Refresh your connection after modifying any of the commands on the corresponding instance in order to keep the CLI up-to-date.
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

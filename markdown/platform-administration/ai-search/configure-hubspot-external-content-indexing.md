@@ -94,5 +94,5 @@ Your connector admin needs these items to configure a HubSpot external content c
 
 For details on creating and configuring a HubSpot external content connector, see [Create a HubSpot external content connector](create-ext-cont-connector-hubspot.md).
 
-**Parent Topic:**[HubSpot external content connector](../concept/hubspot-external-content-connector.md)
+**Parent Topic:**[HubSpot external content connector](hubspot-external-content-connector.md)
 

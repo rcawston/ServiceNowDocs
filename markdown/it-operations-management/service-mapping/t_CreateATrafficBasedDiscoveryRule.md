@@ -34,7 +34,7 @@ For example, you enable traffic-based discovery for a specific service instance 
 
 Depending on your configuration, the behavior of traffic-based discovery is different. If Predictive Intelligence is enabled, Service Mapping automatically adds connections to service instances based on connection rules. These suggestions are generated using traffic-related data from the Configuration Management Database \(CMDB\) and the analysis of application fingerprints, CIs, and processes by Predictive Intelligence.
 
-If discovery based on Predictive Intelligence isn't enabled, Service Mapping automatically adds traffic-based connections using data from the CMDB to the service instances. However, to keep your service instances well-organized, you might need to manually remove connections to irrelevant CIs. To learn more about traffic-based method, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+If discovery based on Predictive Intelligence isn't enabled, Service Mapping automatically adds traffic-based connections using data from the CMDB to the service instances. However, to keep your service instances well-organized, you might need to manually remove connections to irrelevant CIs. To learn more about traffic-based method, see [Traffic-based discovery in Service Mapping](traffic-based-discovery.md).
 
 If your instance uses domain separation, you can create traffic-based rules for specific domains. Rules in the base system are assigned to the global domain and apply to all domains of all levels.
 

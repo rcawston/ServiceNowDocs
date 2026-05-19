@@ -104,5 +104,5 @@ If you think that data might have changed after you viewed the summary, select t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](../concept/using-now-assist-for-tprm.md)
+**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](using-now-assist-for-tprm.md)
 

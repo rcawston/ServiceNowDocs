@@ -39,5 +39,5 @@ Administrators can see logs with individual AI agent names as a record of who ap
 
 With impersonation, the fulfiller in the Now Assist panel and the requester in Virtual Agent can see the transactions recorded in the name of the AI agent that performed the agentic workflow execution.
 
-**Note:** Virtual Agent can be turned on only for AI agents at the Define availability section in the AI agent guided setup. For more information, see [Create an AI agent](../task/configure-next-best-action-agent.md).
+**Note:** Virtual Agent can be turned on only for AI agents at the Define availability section in the AI agent guided setup. For more information, see [Create an AI agent](configure-next-best-action-agent.md).
 

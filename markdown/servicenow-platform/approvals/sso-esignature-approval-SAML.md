@@ -83,5 +83,5 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 6.  Copy the service provider metadata, and update it on the SAML IdP.
 
 
-**Parent Topic:**[Approval with e-signature](../../../administer/service-administration/concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](approval-with-e-signature.md)
 

@@ -17,7 +17,7 @@ Review details on the scan suites available on your instance.
 
 ![Scan suite list and details page](../images/sc-suites.png)
 
-Scan suites are collections of security center checks that execute together. You can use base system suites or create your own by cloning an existing suite and updating the checks made in the clone. For details, see [Create a scan suite](../task/create-new-suite.md).
+Scan suites are collections of security center checks that execute together. You can use base system suites or create your own by cloning an existing suite and updating the checks made in the clone. For details, see [Create a scan suite](create-new-suite.md).
 
 Select the **+Create task** button to create a Security Task related to a scan suite. For details on Security Tasks, see [Security Tasks](security-task-manager.md).
 
@@ -48,13 +48,13 @@ Select the **Name** field of a suite to view the suite details. This page provid
     Details of the scheduled execution of this suite.
 
 
--   **[Access Controls Auditor checks](../reference/auditor-control-checks.md)**  
+-   **[Access Controls Auditor checks](auditor-control-checks.md)**  
 Learn about the checks available in the default Access Controls Auditor Suites, what criteria they evaluate, and how they can be used to improve the security of your instance.
--   **[Auditor checks](../reference/auditor.md)**  
+-   **[Auditor checks](auditor.md)**  
 Use the Auditor suite to SecureCheck to detect misconfiguration that can impact the security posture of your instance.
--   **[Create a scan suite](../task/create-new-suite.md)**  
+-   **[Create a scan suite](create-new-suite.md)**  
 Create and schedule a custom suite so that you can analyze the security of your instance for your organization.
--   **[Reschedule a scan suite](../task/reschedule-suite-scan.md)**  
+-   **[Reschedule a scan suite](reschedule-suite-scan.md)**  
 Change the schedule of your scan suites to suit your needs.
 
 **Parent Topic:**[Security scanner](sc-scanning.md)

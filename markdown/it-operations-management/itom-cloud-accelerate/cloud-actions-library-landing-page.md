@@ -19,15 +19,15 @@ Use the ready-to-use actions and subflows of the ServiceNow® Cloud Action Libra
 
 Explore
 
- [Explore Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+ [Explore Cloud Action Library](exploring-cloud-actions-library.md)
 
 </td><td>
 
 Set up
 
- -   [Install Cloud Action Library](../task/install-cloud-actions-library.md)
--   [Set up Cloud Action Library for Amazon Web Services \(AWS\)](../task/set-up-cloud-action-library-for-aws.md)
--   [Set up Cloud Action Library for Microsoft Azure](../task/set-up-cloud-action-library-for-azure.md)
+ -   [Install Cloud Action Library](install-cloud-actions-library.md)
+-   [Set up Cloud Action Library for Amazon Web Services \(AWS\)](set-up-cloud-action-library-for-aws.md)
+-   [Set up Cloud Action Library for Microsoft Azure](set-up-cloud-action-library-for-azure.md)
 
 </td><td>
 

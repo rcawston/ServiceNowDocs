@@ -27,7 +27,7 @@ In each chart, you can point to any part of a chart \(bar, pie, data point\) to 
 
 **Note:**
 
--   Dashboards on the Configuration Compliance homepage are available only when the Performance Analytics for Configuration Compliance application is activated. For steps to activate this application, see [Activate Performance Analytics for Configuration Compliance](../../../use/application-content-packs/concept/configuration-compliance-install.md).
+-   Dashboards on the Configuration Compliance homepage are available only when the Performance Analytics for Configuration Compliance application is activated. For steps to activate this application, see [Activate Performance Analytics for Configuration Compliance](configuration-compliance-install.md).
 -   Anyone with the sn\_vulc.read role can view the dashboard. Anyone in the sn\_vulc.write or sn\_vulc.admin role can create and edit a dashboard. Only sn\_vulc.admin can delete a dashboard.
 
 

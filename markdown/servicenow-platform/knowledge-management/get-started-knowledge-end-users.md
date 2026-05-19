@@ -25,24 +25,24 @@ If you need these permissions, contact the knowledge manager or knowledge admini
 
 -   **Create knowledge articles**
 
-    If you have the required permissions for a knowledge base, you can create articles for it. You can [Create a knowledge article from an incident in Service Operations Workspace](../task/create-knowledge-article.md) or by [importing Word documents](../task/t_ImportADocument.md).
+    If you have the required permissions for a knowledge base, you can create articles for it. You can [Create a knowledge article from an incident in Service Operations Workspace](create-knowledge-article.md) or by [importing Word documents](t_ImportADocument.md).
 
-    You can also create knowledge articles from [incidents and problems](../task/t_ApproveKnowledgeSubmission.md).
+    You can also create knowledge articles from [incidents and problems](t_ApproveKnowledgeSubmission.md).
 
 -   **Search for knowledge articles**
 
-    From the [Knowledge homepage](../concept/c_KnowledgeHomepage.md), you can select a knowledge base to [search for articles and answers](r_KnowledgeSearch.md). You can view only the knowledge bases to which you have access.
+    From the [Knowledge homepage](c_KnowledgeHomepage.md), you can select a knowledge base to [search for articles and answers](r_KnowledgeSearch.md). You can view only the knowledge bases to which you have access.
 
-    Access to knowledge using [your mobile device](../concept/c_UsingKnowledgeOnMobile.md#) is supported.
+    Access to knowledge using [your mobile device](c_UsingKnowledgeOnMobile.md#) is supported.
 
 
 ## Next steps
 
 After articles are created, you can perform the following tasks to make sure that articles are organized in the right knowledge bases and retired when appropriate. If existing knowledge bases do not fit your needs, you can request a new knowledge base.
 
--   [Move a knowledge article](../task/t_MoveAnArticle.md)
--   [Retire a knowledge article](../concept/c_RetiredKnowledgeArticles.md)
--   [Request a knowledge base](../task/t_RequestAKnowledgeBase.md)
+-   [Move a knowledge article](t_MoveAnArticle.md)
+-   [Retire a knowledge article](c_RetiredKnowledgeArticles.md)
+-   [Request a knowledge base](t_RequestAKnowledgeBase.md)
 
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
 

@@ -38,7 +38,7 @@ Role required: localization\_editor
     After survey translations are published, they are made available to any user who takes a survey.
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
 
 **Related topics**  
 
@@ -49,9 +49,9 @@ Role required: localization\_editor
 
 [View a survey scorecard](t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)
 
 [Request translations for surveys](request-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](survey-result-database-view.md)
 

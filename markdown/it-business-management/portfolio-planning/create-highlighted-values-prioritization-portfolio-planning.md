@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Highlighted Value form](../reference/highlighted-value-form-portfolio-planning.md).
+    For field information, see [Highlighted Value form](highlighted-value-form-portfolio-planning.md).
 
 4.  Save the form.
 
@@ -40,7 +40,7 @@ Role required: admin
 
     2.  On the form, fill in the fields.
 
-        For field, information, see [Highlighted Value Condition form](../reference/highlighted-value-condition-form-portfolio-planning.md).
+        For field, information, see [Highlighted Value Condition form](highlighted-value-condition-form-portfolio-planning.md).
 
     3.  Select **Submit**.
 
@@ -51,5 +51,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](../concept/customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
+**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
 

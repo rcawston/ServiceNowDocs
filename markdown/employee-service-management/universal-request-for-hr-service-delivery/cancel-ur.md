@@ -43,5 +43,5 @@ You can cancel a universal request only if
 
 When the UR is canceled, email notifications are sent to the stakeholders associated with the request.
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](using-ur.md)
 

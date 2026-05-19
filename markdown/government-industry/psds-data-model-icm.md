@@ -20,5 +20,5 @@ The following logical diagram shows the tables and their relationships within th
 -   **[Tables installed with Investigative Case Management](psds-data-model-icm-tables.md)**  
 This section describes the tables installed with the Investigative Case Management application and shows how they store and manage information.
 
-**Parent Topic:**[Public Sector Digital Services Data Model](../concept/public-sector-digital-services-data-model.md)
+**Parent Topic:**[Public Sector Digital Services Data Model](public-sector-digital-services-data-model.md)
 

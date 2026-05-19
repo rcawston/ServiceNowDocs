@@ -43,5 +43,5 @@ You can modify the system properties for the following OT applications from **Al
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring the Industrial Process Manager](../concept/configuring-manufacturing-process-mgr.md)
+**Parent Topic:**[Configuring the Industrial Process Manager](configuring-manufacturing-process-mgr.md)
 

@@ -25,5 +25,5 @@ The errors are indicated in the following ways:
 -   A label for a count of nodes and paths that have errors in the top-right corner
 -   An alert message in the side panel showing a list of errors in the selected node or path
 
-For more information on errors and recovery across various nodes and paths, see [Validation errors](../reference/ra-validation-errors.md).
+For more information on errors and recovery across various nodes and paths, see [Validation errors](ra-validation-errors.md).
 

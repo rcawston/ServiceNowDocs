@@ -30,5 +30,5 @@ Role required: sn\_imt\_checkin.checkin\_admin or sn\_imt\_tracing.admin
     The **Notification count** field shows the number of times the notification is sent to the employees who have not yet responded. You can [send the notification](configure-outreach-notif-daily-log.md) again only to employees who have not yet responded.
 
 
-**Parent Topic:**[Tracking employee contacts using daily logs](../concept/employee-daily-log.md)
+**Parent Topic:**[Tracking employee contacts using daily logs](employee-daily-log.md)
 

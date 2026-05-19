@@ -54,12 +54,12 @@ These groups are available for assignment.
 -   Assign roles to the group. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
 -   Add users to the group.
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](install-hs-core.md)
 
 [Workplace location data](configure-hs-workplace-location-data.md)
 
@@ -73,5 +73,5 @@ These groups are available for assignment.
 
 [Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md)
 

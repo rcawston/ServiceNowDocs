@@ -19,9 +19,9 @@ Agent Client Collector Monitoring enables you to monitor your service availabili
 
 **Note:**
 
-If checks are not running on the agent's devices, your agent may be in CPU protection mode. CPU protection mode is activated automatically when a device's CPU consumption is too high for one of two reasons: either the user is running too many checks, or the machine is under-resourced. When it happens, the agent's Data Collection status turns to Off. ACC-F generates an event and records it in a log. To manually resume data collection by the ACC agent, see [Pause Agent Client Collector data collection](../task/acc-enable-silent-mode.md).
+If checks are not running on the agent's devices, your agent may be in CPU protection mode. CPU protection mode is activated automatically when a device's CPU consumption is too high for one of two reasons: either the user is running too many checks, or the machine is under-resourced. When it happens, the agent's Data Collection status turns to Off. ACC-F generates an event and records it in a log. To manually resume data collection by the ACC agent, see [Pause Agent Client Collector data collection](acc-enable-silent-mode.md).
 
-The user needs to monitor the activity of the ACC to resolve the issue through manual intervention and then re-enable ACC collection. To setup the ACC monitoring, see [Enable Agent Client Collector monitoring on the MID Server](../task/acc-monitoring-setup.md).
+The user needs to monitor the activity of the ACC to resolve the issue through manual intervention and then re-enable ACC collection. To setup the ACC monitoring, see [Enable Agent Client Collector monitoring on the MID Server](acc-monitoring-setup.md).
 
 <table id="table_vfd_41y_51c" class="nav-card"><tbody><tr><td>
 
@@ -33,7 +33,7 @@ The user needs to monitor the activity of the ACC to resolve the issue through m
 
 </td><td>
 
-[Metric Intelligence ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Metric Intelligence to explore metric data and identify anomalies.](operational-metrics.md)
+[Metric Intelligence ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Metric Intelligence to explore metric data and identify anomalies.](../metric-intelligence/operational-metrics.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ The user needs to monitor the activity of the ACC to resolve the issue through m
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details about checks and policies, and metric collection.](../reference/acc-monitoring-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details about checks and policies, and metric collection.](acc-monitoring-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

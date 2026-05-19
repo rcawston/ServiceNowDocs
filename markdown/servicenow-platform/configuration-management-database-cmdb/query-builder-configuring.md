@@ -17,11 +17,11 @@ You can configure settings that affect some functionality of the CMDB Query Buil
 
 ## Configuration overview
 
--   **[Configure CMDB Query Builder settings](../task/cmdb-querybldr-config-display.md)**
+-   **[Configure CMDB Query Builder settings](cmdb-querybldr-config-display.md)**
 
     Configure settings that control the appearance and operation of the CMDB Query Builder canvas.
 
--   **[Configure the relationships to query on](../task/cmdb-query-bldr-relationship-props.md)**
+-   **[Configure the relationships to query on](cmdb-query-bldr-relationship-props.md)**
 
     Configure relationships between CIs, such as the parent/child \(direction\) relationship or first- or second-level relationships.
 
@@ -29,7 +29,7 @@ You can configure settings that affect some functionality of the CMDB Query Buil
 
     If necessary, override the default global batch size \(100\) that is allocated for every Query Builder query run. Or, optimize the batch size value per saved query.
 
--   **[Set execution mode for running a query](../task/config-query-builder-engine-mode.md)**
+-   **[Set execution mode for running a query](config-query-builder-engine-mode.md)**
 
     Set the query execution mode for running a query, to use either the legacy engine or an performance-enhancing engine.
 

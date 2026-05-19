@@ -19,7 +19,7 @@ After vibe coding or developing an application with Build Agent or Now Assist fo
 
 If you're a developer who's new to vibe coding and AI-assisted development, ServiceNow Studio provides a more abstracted approach to code refinement compared to ServiceNow IDE.
 
-For documentation on using Build Agent in ServiceNow Studio, see [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
+For documentation on using Build Agent in ServiceNow Studio, see [Build Agent in ServiceNow Studio](servicenow-studio-classic/build-agent-in-servicenow-studio.md).
 
 ## ServiceNow Studio workflow
 

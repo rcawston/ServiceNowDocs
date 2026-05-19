@@ -76,7 +76,7 @@ Description
 3.  Click **Save**.
 
 
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](interaction-sow.md)
 
 **Related topics**  
 

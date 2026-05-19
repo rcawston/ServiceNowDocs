@@ -48,5 +48,5 @@ Role required: admin
         **Note:** The **Searcher default search** field appears only when the **Searcher** field contains more than one source.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

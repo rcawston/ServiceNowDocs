@@ -116,5 +116,5 @@ Inbound asset order line
 Information about each asset that is associated with your inbound asset orders, including the model of the asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management for Providers](../concept/eam-providers.md)
+</table>**Parent Topic:**[Enterprise Asset Management for Providers](eam-providers.md)
 

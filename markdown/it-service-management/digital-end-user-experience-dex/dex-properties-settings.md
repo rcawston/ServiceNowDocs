@@ -380,5 +380,5 @@ Desktop Assistant
 Minimum compatible version for desktop application on Windows
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital End-User Experience reference](../concept/dex-reference.md)
+</table>**Parent Topic:**[Digital End-User Experience reference](dex-reference.md)
 

@@ -157,7 +157,7 @@ Be sure to enable the criteria by selecting this check box \(**true**\).
     ![Schedule Record](../image/DiscoveryBehaviorScheduleACL.png "Discovery Schedule Record")
 
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
@@ -166,5 +166,5 @@ Be sure to enable the criteria by selecting this check box \(**true**\).
 
 [Set up a load balancing behavior](t_SetUpLoadBalDiscoBehavr.md)
 
-[Examples of Discovery behavior functionalities](../reference/r_DefineTheFunctionalities.md)
+[Examples of Discovery behavior functionalities](r_DefineTheFunctionalities.md)
 

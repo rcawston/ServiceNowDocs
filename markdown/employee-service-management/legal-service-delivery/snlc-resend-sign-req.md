@@ -34,5 +34,5 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 Notification is resent to the current signatory.
 
-**Parent Topic:**[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a request](snlc-lsd-signature-workflow.md)
 

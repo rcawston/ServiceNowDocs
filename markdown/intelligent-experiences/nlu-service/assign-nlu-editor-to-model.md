@@ -17,7 +17,7 @@ Assign an editor to review your Natural Language Understanding \(NLU\) model tra
 
 ## Before you begin
 
--   Create a model, or use an existing one. For translation review, create both primary and secondary \(translated\) models. For more information on multilingual model groups, see [Multilingual model management](../concept/multilingual-model-managent.md).
+-   Create a model, or use an existing one. For translation review, create both primary and secondary \(translated\) models. For more information on multilingual model groups, see [Multilingual model management](multilingual-model-managent.md).
 -   Assign the nlu\_editor role to users. See [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md).
 -   Role required: nlu\_admin. The nlu\_editor can't assign another editor to models.
 
@@ -34,14 +34,14 @@ The nlu\_editor can do the following, when assigned to a model:
 -   Edit the model name and description in **Settings**.
 -   Review, edit, and approve translated utterances.
 -   Add, edit, and delete training utterances.
--   Annotate training utterances \(add references to [NLU vocabulary](../concept/using-nlu-vocabulary.md) and [NLU entities](../concept/entities.md)\).
+-   Annotate training utterances \(add references to [NLU vocabulary](using-nlu-vocabulary.md) and [NLU entities](entities.md)\).
 -   Update entity properties \(except the entity name in a secondary model\).
 -   Add, edit, or delete the model's vocabulary.
 -   View the **Vocabulary sources** module \(read only\).
--   Add, activate, and de-activate [NLU intents](../concept/intents.md) in primary and secondary models.
--   Resolve conflicting intents; also access the [Cross-model Conflict Review](../concept/nlu-intent-conflict-review-resolution.md) module.
--   View the [Irrelevance detection in NLU](../concept/irrelevance-detection-nlu.md) module.
--   Add, edit, or delete a test utterance in a test set; also access the [Multi-model Batch Testing](../concept/batch-testing-nlu.md) module.
+-   Add, activate, and de-activate [NLU intents](intents.md) in primary and secondary models.
+-   Resolve conflicting intents; also access the [Cross-model Conflict Review](nlu-intent-conflict-review-resolution.md) module.
+-   View the [Irrelevance detection in NLU](irrelevance-detection-nlu.md) module.
+-   Add, edit, or delete a test utterance in a test set; also access the [Multi-model Batch Testing](batch-testing-nlu.md) module.
 
 **Note:** The editor must be assigned to a model and in the model's application scope to take these actions, unless otherwise indicated.
 
@@ -53,7 +53,7 @@ The nlu\_editor can't do the following:
 -   Import primary model content to a secondary \(translated\) model.
 -   Sync or edit vocabulary sources.
 -   View model performance.
--   Provide feedback in [NLU Expert Feedback Loop](../concept/nlu-expert-feedback-loop.md).
+-   Provide feedback in [NLU Expert Feedback Loop](nlu-expert-feedback-loop.md).
 -   Manage other editors, such as assigning an editor to a model or removing an editor from a model.
 
 ![In the Build and train your model phase, the Intents need review card is highlighted. In the list of the model's intents, three intents are marked as Needs review.](../images/assign-editor1U.png)

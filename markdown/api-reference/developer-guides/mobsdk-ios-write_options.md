@@ -15,7 +15,7 @@ breadcrumb: [Interact with table data in a ServiceNow instance, Mobile SDK Devel
 
 Within the Mobile SDK, when writing data to a ServiceNow instance through a REST endpoint, you can define field write options.
 
-You configure field write options using the [FieldWriteOptions class - iOS](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#) structure. This structure enables you to configure:
+You configure field write options using the [FieldWriteOptions class - iOS](../cllent-mobile-api-reference/FieldWriteOptionsiOSStruct.md#) structure. This structure enables you to configure:
 
 -   Whether to suppress automatic generation of system fields.
 -   Whether to set field values using their [display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md)[display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) rather than their actual value.

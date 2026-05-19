@@ -85,14 +85,14 @@ Filter to determine whether the **Use time worked** option applies to this rate 
 
 If you’re working on multiple HAM workflows including a labor rate card, the same value is used for all the time recorded tasks. But a labor rate card isn't included, the Default labor rate mentioned in the task rate card is used. For more information, see [Create a task rate card in Hardware Asset Workspace](create-ham-task-rate-card.md).
 
-**Parent Topic:**[Configure the Total Cost of Ownership of assets](../concept/configure-ham-tco.md)
+**Parent Topic:**[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
 
 **Related topics**  
 
 
-[Asset Total Cost of Ownership for Hardware Asset Management](../concept/asset-mgmt-tco.md)
+[Asset Total Cost of Ownership for Hardware Asset Management](asset-mgmt-tco.md)
 
-[Asset analytics view](../concept/asset-analytics-view.md)
+[Asset analytics view](asset-analytics-view.md)
 
-[Asset operations view](../concept/asset-operations-view.md)
+[Asset operations view](asset-operations-view.md)
 

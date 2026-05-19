@@ -30,5 +30,5 @@ Role required: none
 3.  Click a hashtag to view all messages containing that hashtag.
 
 
-**Parent Topic:**[Use hashtags in Live Feed](../concept/c_UseHashtagsInLiveFeed.md)
+**Parent Topic:**[Use hashtags in Live Feed](c_UseHashtagsInLiveFeed.md)
 

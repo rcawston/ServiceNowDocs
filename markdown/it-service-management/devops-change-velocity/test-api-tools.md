@@ -385,5 +385,5 @@ pipeline {
 -   Waiting logic will not be taken care of.
 -   Re-run scenarios cannot be handled.
 
-**Parent Topic:**[DevOps test tool integration](../concept/dev-ops-test-tool-integration.md)
+**Parent Topic:**[DevOps test tool integration](dev-ops-test-tool-integration.md)
 

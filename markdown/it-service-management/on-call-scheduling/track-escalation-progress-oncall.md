@@ -23,7 +23,7 @@ Role required: Any role that enables the user to read incidents.
 
 **Note:**
 
--   Escalation logging must be enabled to view the On-Call Escalation Tracking page. See the **com.snc.on\_call\_rotation.log\_escalations** property in [System properties for On-Call Scheduling](../reference/on-call-properties.md).
+-   Escalation logging must be enabled to view the On-Call Escalation Tracking page. See the **com.snc.on\_call\_rotation.log\_escalations** property in [System properties for On-Call Scheduling](on-call-properties.md).
 -   An on-call escalation is canceled when the assignment group of the associated task record, for example, an incident, changes to a different group without a matching trigger rule. It ensures that an existing irrelevant escalation workflow is no longer associated with that task record.![An on-call escalation has been cancelled.](../image/canceled-escalation-oncall.png)
 
 ## Procedure
@@ -61,12 +61,12 @@ Role required: Any role that enables the user to read incidents.
     Click ![Info icon](../image/icon-information.png) to view delegator and delegated user's information.
 
 
-**Parent Topic:**[Escalations in On-Call Scheduling](../concept/escalations-oncall.md)
+**Parent Topic:**[Escalations in On-Call Scheduling](escalations-oncall.md)
 
 **Related topics**  
 
 
-[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+[Designing an escalation process](designing-escalation-process-oncall.md)
 
 [View details in an escalation log](view-escalation-logs-oncall.md)
 

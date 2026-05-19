@@ -21,7 +21,7 @@ The following diagram illustrates the setup process. It is separated into two su
 
 ![Security Incident Response setup process](../image/sir-setup.png)
 
-The first setup step is to [download the Security Incident Response application from the ServiceNow Store](../task/install-and-configure-sir.md). When the download is complete, several dependent applications, including the Setup Assistant, are loaded and ready for use to configure Security Incident Response.
+The first setup step is to [download the Security Incident Response application from the ServiceNow Store](install-and-configure-sir.md). When the download is complete, several dependent applications, including the Setup Assistant, are loaded and ready for use to configure Security Incident Response.
 
 ## Setup Assistant
 
@@ -29,7 +29,7 @@ The Security Incident Response Setup Assistant is a wizard-like application that
 
 ![Setup assistant](../image/playbook-setup-assist.png)
 
-The setup steps are fairly self-explanatory; however, if you require additional explanation, you can find additional assistance in the [Setup Assistant reference](../reference/setup-assistant-reference.md#). After you have completed the setup using the Setup Assistant, you can perform [other optional setup procedures](../task/t_ConfigureSIM.md#), as needed. These procedures include options for:
+The setup steps are fairly self-explanatory; however, if you require additional explanation, you can find additional assistance in the [Setup Assistant reference](setup-assistant-reference.md#). After you have completed the setup using the Setup Assistant, you can perform [other optional setup procedures](t_ConfigureSIM.md#), as needed. These procedures include options for:
 
 -   Setting up the request life cycle
 -   Creating catalogs and requests
@@ -37,5 +37,5 @@ The setup steps are fairly self-explanatory; however, if you require additional 
 -   Setting up manual and auto-assignment
 -   Enabling the knowledge base, managed documents, and task activities
 
-A new and improved Security Incident Response Workspace is available. For more information, see [Security Incident Response Workspace](../../secops-analyst-workspace/reference/sir-workspace-landing-page.md).
+A new and improved Security Incident Response Workspace is available. For more information, see [Security Incident Response Workspace](sir-workspace-landing-page.md).
 

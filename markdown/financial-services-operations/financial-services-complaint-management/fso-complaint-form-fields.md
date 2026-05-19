@@ -133,7 +133,7 @@ Legal impact
 
 </td><td>
 
-Option to indicate if the complaint has a legal implication.If you select **Yes** in this field, the workflow automatically generates a complaint legal fulfillment task for a legal review. For more information, see [Work on a complaint task](../task/work-fso-complaint-task.md).
+Option to indicate if the complaint has a legal implication.If you select **Yes** in this field, the workflow automatically generates a complaint legal fulfillment task for a legal review. For more information, see [Work on a complaint task](work-fso-complaint-task.md).
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Regulatory impact
 
 </td><td>
 
-Option to indicate if the complaint has a potential regulatory impact.If you select **Yes** in this field, the workflow generates a quality control task. For more information, see [Work on a quality control task for a complaint case](../task/work-fso-quality-control-task.md).
+Option to indicate if the complaint has a potential regulatory impact.If you select **Yes** in this field, the workflow generates a quality control task. For more information, see [Work on a quality control task for a complaint case](work-fso-quality-control-task.md).
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Regulatory category
 
 </td><td>
 
-Regulation category for the complaint. The list shows the regulation categories configured by your complaint admin. For more information, see [Configure regulation categories and subcategories](../task/configure-regulation-categories-fso-complaint-mgmt.md).
+Regulation category for the complaint. The list shows the regulation categories configured by your complaint admin. For more information, see [Configure regulation categories and subcategories](configure-regulation-categories-fso-complaint-mgmt.md).
 
  This field appears only when you select **Yes** in the **Regulatory impact** field.
 
@@ -159,7 +159,7 @@ Regulatory subcategory
 
 </td><td>
 
-Regulation subcategory for the complaint.The list shows the regulation subcategories configured by your complaint admin. For more information, see [Configure regulation categories and subcategories](../task/configure-regulation-categories-fso-complaint-mgmt.md).
+Regulation subcategory for the complaint.The list shows the regulation subcategories configured by your complaint admin. For more information, see [Configure regulation categories and subcategories](configure-regulation-categories-fso-complaint-mgmt.md).
 
  This field appears only when you select **Yes** in the **Regulatory impact** field.
 
@@ -187,7 +187,7 @@ Response
 
 Response drafted by the agent to resolve the case. To copy content from a response template and add to this field, select the response template icon \(![response template icon](../image/response-template-icon.png)\). For more information on how to use a response template, see [Use response templates to add information to cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-aw-agent-use-response-template.md).
 
-**Note:** Response templates are available only if they're configured by your complaint admin. For more information, see [Define response templates](../task/configure-response-templates-fso-complaints.md).
+**Note:** Response templates are available only if they're configured by your complaint admin. For more information, see [Define response templates](configure-response-templates-fso-complaints.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

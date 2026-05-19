@@ -37,5 +37,5 @@ Each request type has a dedicated flow that triggers tasks from the parent credi
 
 To resolve cases, agents perform activities such as gathering documents, performing credit assessments, and changing credit limits for the tasks assigned to them.
 
-Both the case and its tasks are assigned to the assignment groups or agents by using assignment rules. For more information on assignment groups that are installed with the application, see [Configure groups](../../fso-common/task/configure-groups-fso.md).
+Both the case and its tasks are assigned to the assignment groups or agents by using assignment rules. For more information on assignment groups that are installed with the application, see [Configure groups](../configure-groups-fso.md).
 

@@ -961,5 +961,5 @@ Legal Matter \[sn\_lg\_matter\_matter\]
 Number of legal matters created from legal fulfillers in various regions so far this year is displayed on a map.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](../../application-content-packs/concept/legalsd-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](legalsd-content-pack.md)
 

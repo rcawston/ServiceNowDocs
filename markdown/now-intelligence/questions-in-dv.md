@@ -33,7 +33,7 @@ If there is a Record Producer associated with the table, variables defined in th
 
 You cannot group by Record Producer variables. For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md).
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 
 ## Use questions in data visualizations
 

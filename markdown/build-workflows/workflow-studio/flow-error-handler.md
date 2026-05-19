@@ -111,9 +111,9 @@ Follow these general guidelines to achieve the benefits offered by flow error ha
     Rather than recreate the same sequence of actions in multiple flows, create reusable subflows to correct errors to your record data. When a flow error leaves your record data in an undesired state, use subflows to correct these records. You can use the error handler to identify such record data as a subflow output.
 
 
--   **[Add an error handler to a flow](../task/add-error-handler-flow.md)**  
+-   **[Add an error handler to a flow](add-error-handler-flow.md)**  
 Run a sequence of Workflow Studio actions and subflows to identify and correct issues that are caused by flow errors.
--   **[Create a custom action to throw an error](../task/create-custom-action-throw-error.md)**  
+-   **[Create a custom action to throw an error](create-custom-action-throw-error.md)**  
 Create an action that intentionally throws an error to test flow error handling.
 
 **Parent Topic:**[Building flows](flows.md)

@@ -44,7 +44,7 @@ Role required: sn\_vulc.remediation\_owner
 
 7.  On the Take Questionnaire modal, answer the questions to provide additional information about your request to the approver and select **Submit**.
 
-    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information on how a questionnaire is configured, see [Configure Exception Management for Configuration Compliance](../../vulnerability-config-compliance/task/configure-exception-management-configuration-compliance.md).
+    **Note:** The Take Questionnaire modal appears only when the **Enable questionnaire to mark false positive** check box is selected in the Exception Management Configuration form. For more information on how a questionnaire is configured, see [Configure Exception Management for Configuration Compliance](../configuration-compliance/configure-exception-management-configuration-compliance.md).
 
 
 ## Result

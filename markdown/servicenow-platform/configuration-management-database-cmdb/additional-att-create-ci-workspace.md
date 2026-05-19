@@ -23,7 +23,7 @@ Requests for additional attributes for new CIs are stored in the CI additional a
 
 For more information:
 
--   About configuration identifiers, see [Configuration identifiers framework](../concept/configuration-identifiers-framework.md).
+-   About configuration identifiers, see [Configuration identifiers framework](configuration-identifiers-framework.md).
 -   About the experience of manually creating a new CI in CMDB Workspace, see [Create a CI manually in CMDB Workspace](create-ci-manual-cmdb-workspace.md).
 
 ## Before you begin
@@ -102,5 +102,5 @@ Pre-set to 'Create CI'.
 
 When manually creating a new CI for the specified **CI class** in the respective workspace, users are requested to enter values for the specified **Additional attributes** on the Additional attributes page.
 
-**Parent Topic:**[Configuring CMDB Workspace](../concept/configuring-cmdb-workspace.md)
+**Parent Topic:**[Configuring CMDB Workspace](configuring-cmdb-workspace.md)
 

@@ -21,11 +21,11 @@ ITOM AIOps enables IT operations teams, site reliability engineers, and DevOps p
 
 </td><td>
 
-[Configure](../../service-operations-workspace-itom/concept/configure-sow-itom.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Service Operations Workspace to work with ITOM AIOps
+[Configure](service-operations-workspace-for-itom-apps/configure-sow-itom.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Service Operations Workspace to work with ITOM AIOps
 
 </td></tr><tr><td>
 
-[Reference](../concept/itom-health-use-case-product-view.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about ITOM AIOps
+[Reference](itom-health-use-case-product-view.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about ITOM AIOps
 
 </td><td>
 

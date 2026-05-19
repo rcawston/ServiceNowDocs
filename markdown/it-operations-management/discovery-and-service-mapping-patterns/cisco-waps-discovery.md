@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the Cisco WAPs extension to find Wireless Access Points \(WAPs\) that are controlled by a Cisco network switch. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-This extension extends the Network Switch discovery pattern. For more information, see [Network switch and router discovery](../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
+This extension extends the Network Switch discovery pattern. For more information, see [Network switch and router discovery](../itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
 
 Discovery uses the Cisco WAPs extension to run horizontal discovery.
 
@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
-For prerequisites related to network switch discovery, see [Network switch and router discovery](../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
+For prerequisites related to network switch discovery, see [Network switch and router discovery](../itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md).
 
 In addition, these prerequisites must be in place for the Cisco WAPs extension:
 
@@ -62,5 +62,5 @@ These relationships are created to support Cisco WAPs discovery:
 |---|------------|---|
 |cmdb\_ci\_ip\_switch|Controller for :: Controlled by|cmdb\_ci\_wap\_network|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

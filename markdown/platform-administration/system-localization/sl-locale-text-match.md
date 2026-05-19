@@ -25,7 +25,7 @@ Locale text match is available from Zurich Patch 9 and Australia Patch 2. Settin
 
 **Note:**
 
--   You can't use the **i18n\_locale\_text\_match** column attribute when the following attribute is set on the same column: **i18n\_session\_language\_sortable**. For more information see [Sorting according to the session language](../task/sorting-session-language.md#).
+-   You can't use the **i18n\_locale\_text\_match** column attribute when the following attribute is set on the same column: **i18n\_session\_language\_sortable**. For more information see [Sorting according to the session language](sorting-session-language.md#).
 -   Be sure to test the case and accent sensitive behavior thoroughly, because when the **i18n\_locale\_text\_match** column attribute is set the behavior is applied to all queries including ACLs, Business rules, and so forth.
 
 ## Setting the column attribute i18n\_locale\_text\_match

@@ -17,7 +17,7 @@ If you receive an email, mobile push notification, or SMS notification to report
 
 ## Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: none
 
@@ -48,5 +48,5 @@ Role required: none
 
 After you reply to the notification, your response is sent to you and your employer. A record for your response is also updated. Your personal information is secure. Only the staff managing the health situation have access to your response.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 

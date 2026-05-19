@@ -23,7 +23,7 @@ Use the Care Team Portal to create and track service requests, manage your teams
 
     Manage your teams from directly within the Care Team Portal.
 
--   [View knowledge articles in the Care Team Portal](../task/hcls-cto-view-kb-portal.md)
+-   [View knowledge articles in the Care Team Portal](hcls-cto-view-kb-portal.md)
 
     Review knowledge articles posted by your organization from directly within the Care Team Portal.
 

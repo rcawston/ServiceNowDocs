@@ -25,7 +25,7 @@ A stakeholder group is defined as the following:
     -   The Impact experience can be managed across your Group Views with the Impact Squad, including stakeholder groups and instances. Your customer homepage is personalized to the stakeholder groups relevant to you.​
     -   Impact helps you accelerate your stakeholder group's objectives and manage value for these groups, including the initiatives and activities that contribute toward your Value Journey.
     -   Capabilities map is available on an instance level and shows capabilities maps for instances that are associated to stakeholder groups. Work with your Impact Squad to define for which instance a capabilities map will be created.
-    -   Product Adoption Roadmaps can be associated to a stakeholder group making it easier to manage your roadmaps. See [Product Adoption Roadmaps](impact-par.md) for more information.
+    -   Product Adoption Roadmaps can be associated to a stakeholder group making it easier to manage your roadmaps. See [Product Adoption Roadmaps](impact-product-adoption-roadmap/impact-par.md) for more information.
     -   You can filter across stakeholder groups and instances and display a combined view of Impact across your organization.
 -   **Getting started**
 

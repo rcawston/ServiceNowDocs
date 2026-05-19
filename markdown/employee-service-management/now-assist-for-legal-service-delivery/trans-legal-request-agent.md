@@ -55,5 +55,5 @@ The agentic workflow conversation can be seen in the Now Assist panel by the leg
     -   If you choose to transfer the general legal request, enter `Yes` and select the send icon \(![Send icon.](../image/send-chat-icon.png)\) in the panel. When it's transferred, the original request is canceled and a new request is created with the predicted legal category. The agentic conversation is closed after the transfer of the legal request.
     -   If you choose not to transfer the general legal request, enter `No` and select the send icon \(![Send icon.](../image/send-chat-icon.png)\) in the panel. The general legal request isn’t transferred and the agentic conversation is closed.
 
-**Parent Topic:**[Using agentic workflow in Now Assist for Legal Service Delivery \(LSD\)](../concept/agentic-ai-now-assist-lsd.md)
+**Parent Topic:**[Using agentic workflow in Now Assist for Legal Service Delivery \(LSD\)](agentic-ai-now-assist-lsd.md)
 

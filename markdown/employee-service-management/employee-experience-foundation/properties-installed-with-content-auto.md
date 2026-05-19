@@ -39,7 +39,7 @@ Allow Ownership for Audiences \(sn\_cd.activate\_audience\_delegation\_controls\
 
 </td><td>
 
-Indicates you want to be able to enable audience ownership within Content Experiences.For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+Indicates you want to be able to enable audience ownership within Content Experiences.For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Allow Ownership for Content Items \(sn\_cd.activate\_content\_authoring\_control
 
 </td><td>
 
-Indicates you want to be able to enable content item ownership within Content Experiences.For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+Indicates you want to be able to enable content item ownership within Content Experiences.For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Indicates you want to enable topic ownership within Content Experiences.Ownershi
 
 **Note:** Other users that have access to the content can view the content scheduled to the restricted topic, but cannot remove the topic from the schedule.
 
- For more information on this and what roles are required, see [Content Ownership](../concept/ecpro-content-restriction.md).
+ For more information on this and what roles are required, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -413,7 +413,7 @@ The number of days after which the campaign audience to be re-evaluated \(sn\_ca
 
 </td><td>
 
-The default number of days to re-evaluate a campaign audience.You can override this default from the **Re-evaluate campaign** and **Re-evaluate frequency** fields on the Campaign form. For more information, see [View campaign targets](../task/manage-campaign-targets.md).
+The default number of days to re-evaluate a campaign audience.You can override this default from the **Re-evaluate campaign** and **Re-evaluate frequency** fields on the Campaign form. For more information, see [View campaign targets](manage-campaign-targets.md).
 
  Default value: 7 days
 
@@ -446,9 +446,9 @@ The URL suffix of the service portal or Employee Center \(EC\) your company uses
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -458,13 +458,13 @@ The URL suffix of the service portal or Employee Center \(EC\) your company uses
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

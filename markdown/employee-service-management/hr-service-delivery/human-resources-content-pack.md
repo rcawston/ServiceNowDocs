@@ -28,7 +28,7 @@ The dashboard for HR Agents monitors caseloads to help stay on top of the backlo
 -   **[Human Resources manager dashboard](human-resources-manager-dashboard.md)**  
 The dashboard for HR Managers provides insights on how HR teams are meeting expectations. The HR Manager can measure and improve the influence of their team on meeting and exceeding workforce expectations.
 
-**Parent Topic:**[Performance Analytics for HR Service Delivery](../../../product/human-resources/concept/scoped-hr-performance-analytics.md)
+**Parent Topic:**[Performance Analytics for HR Service Delivery](scoped-hr-performance-analytics.md)
 
 **Related topics**  
 

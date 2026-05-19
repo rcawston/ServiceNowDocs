@@ -21,7 +21,7 @@ Role required: vendor\_contact
 
 ## About this task
 
-The Microsoft Excel questionnaire template enables third-party and engagement contacts to provide information outside the third-party portal, streamlining the due diligence process. For more information, see [Using a Microsoft Excel spreadsheet template for external questionnaires](../concept/tprm-excel-template-support.md).
+The Microsoft Excel questionnaire template enables third-party and engagement contacts to provide information outside the third-party portal, streamlining the due diligence process. For more information, see [Using a Microsoft Excel spreadsheet template for external questionnaires](tprm-excel-template-support.md).
 
 ## Procedure
 

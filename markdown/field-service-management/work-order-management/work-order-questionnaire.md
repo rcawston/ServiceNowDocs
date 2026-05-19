@@ -46,11 +46,11 @@ This demo questionnaire works as follows:
 
 The steps for setting up work order questionnaires are:
 
-1.  [Activate Field Service Questionnaire](../task/Activate-fsm-questionnaire.md)
+1.  [Activate Field Service Questionnaire](Activate-fsm-questionnaire.md)
 
     Install the Field Service- Questionnaire plugin \(com.snc.wm\_questionnaire\) if you have the admin role.
 
-2.  [Create a questionnaire for a work order or task](../task/create-questionnaire-for-work-order.md)
+2.  [Create a questionnaire for a work order or task](create-questionnaire-for-work-order.md)
 
     Create a questionnaire to be completed before work starts or after a work is done.
 
@@ -58,7 +58,7 @@ The steps for setting up work order questionnaires are:
 **Related topics**  
 
 
-[Activate Field Service Questionnaire](../task/Activate-fsm-questionnaire.md)
+[Activate Field Service Questionnaire](Activate-fsm-questionnaire.md)
 
-[Create a questionnaire for a work order or task](../task/create-questionnaire-for-work-order.md)
+[Create a questionnaire for a work order or task](create-questionnaire-for-work-order.md)
 

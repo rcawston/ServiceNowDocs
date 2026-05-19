@@ -28,7 +28,7 @@ To modify the default taxonomy, clone the taxonomy first, and then create new pa
 
 **Note:** Only the active topics that have connected content are shown in the mega menu.
 
-For more information on the EC information architecture and configuring the portal navigation, see [Advanced Portal Navigation](../concept/adv-portal-navigation-overview.md).
+For more information on the EC information architecture and configuring the portal navigation, see [Advanced Portal Navigation](adv-portal-navigation-overview.md).
 
 ![Mega menu and the Browse all button at the bottom.](../images/mega-menu-browse-all.jpg "Mega menu on the Employee Center home page")
 

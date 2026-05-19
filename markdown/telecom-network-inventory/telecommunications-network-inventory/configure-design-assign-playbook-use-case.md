@@ -76,7 +76,7 @@ Don't set any model state transition for this state.
 **Note:** You must add Allow CI Modification attribute to the **Design in progress** and **Design complete** model states.
 
 </td></tr></tbody>
-</table>    To learn more about the detailed steps, see [Create a Change Model for Design and Assign function](../task/create-change-model-design-assign-playbook.md).
+</table>    To learn more about the detailed steps, see [Create a Change Model for Design and Assign function](create-change-model-design-assign-playbook.md).
 
 2.  Create a record producer to capture the ONT input details such as ONT site and inventory template. This record producer is used in the second activity in the playbook.
 
@@ -99,7 +99,7 @@ Record producer
 
 
 </td></tr></tbody>
-</table>    To learn more about the detailed steps, see [Create a record producer for the Design and Assign function](../task/create-record-producer-design-assign-playbook.md).
+</table>    To learn more about the detailed steps, see [Create a record producer for the Design and Assign function](create-record-producer-design-assign-playbook.md).
 
 3.  Add variables to the record producer.
 
@@ -134,11 +134,11 @@ Set the following details for Variable 1.-   Set the **Type** field as **Referen
 
 
 </td></tr></tbody>
-</table>    To learn more about the detailed steps, see [Create variables for Design and Assign function](../task/create-variables-record-producer-design-assign-playbook.md).
+</table>    To learn more about the detailed steps, see [Create variables for Design and Assign function](create-variables-record-producer-design-assign-playbook.md).
 
 4.  Select **DA common variables** as a variable set to the record producer.
 
-    To learn more about the detailed steps, see [Add variable set to the record producer for Design and Assign function](../task/add-variable-set-record-producer-design-assign-playbook.md).
+    To learn more about the detailed steps, see [Add variable set to the record producer for Design and Assign function](add-variable-set-record-producer-design-assign-playbook.md).
 
 5.  Create a subflow for the request definition that you use to configure the second activity in the playbook.
 
@@ -180,7 +180,7 @@ Add the following actions to the subflow.-   Add the **Get Catalog Variable** ac
 
 
 </td></tr></tbody>
-</table>    To learn more about the detailed steps, see [Create subflow for Design and Assign function](../task/create-subflow-design-assign-playbook.md).
+</table>    To learn more about the detailed steps, see [Create subflow for Design and Assign function](create-subflow-design-assign-playbook.md).
 
 6.  Create a request definition that you use to configure the second activity in the playbook.
 
@@ -203,12 +203,12 @@ Set the following details for the request definition.-   Set the request definit
 
 
 </td></tr></tbody>
-</table>    To learn more about the detailed steps, see [Create subflow for Design and Assign function](../task/create-subflow-design-assign-playbook.md).
+</table>    To learn more about the detailed steps, see [Create subflow for Design and Assign function](create-subflow-design-assign-playbook.md).
 
 
 ## Creating and configuring a playbook
 
-As a playbook admin, you create and configure the playbook for the Design and Assign function in the Workflow Studio. For the detailed information about the following steps, see [Create a playbook for the Design and Assign function](../task/create-playbook-design-assign-function.md).
+As a playbook admin, you create and configure the playbook for the Design and Assign function in the Workflow Studio. For the detailed information about the following steps, see [Create a playbook for the Design and Assign function](create-playbook-design-assign-function.md).
 
 1.  Create a playbook and set the name as **Design Network Service**.
 2.  Add and configure your trigger.
@@ -373,7 +373,7 @@ The following example shows the playbook that you created and configured in the 
 
 ## Adding playbook to home page
 
-You add the sys\_id of the Network Service Automated Flow Change model in the `sn_ni_ws.tni_design_assign_chg_models` record. To learn more about the detailed steps, see [Update system property to configure the Design and Assign home page](../task/update-system-property-configure-design-assign-home-page.md).
+You add the sys\_id of the Network Service Automated Flow Change model in the `sn_ni_ws.tni_design_assign_chg_models` record. To learn more about the detailed steps, see [Update system property to configure the Design and Assign home page](update-system-property-configure-design-assign-home-page.md).
 
 ## Using a Design and Assign function
 

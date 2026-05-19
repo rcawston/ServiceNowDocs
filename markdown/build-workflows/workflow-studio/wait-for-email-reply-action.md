@@ -98,5 +98,5 @@ Use these general guidelines when creating flows that wait for an email reply.
 
 In this example flow, the flow sends an email when an incident update is resolved. The Wait For Email Reply action waits for three business days for a reply. If there’s a reply, the incident record state is updated to Work in Progress for an agent to review. If there’s no reply, the incident record is updated to the Closed state.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

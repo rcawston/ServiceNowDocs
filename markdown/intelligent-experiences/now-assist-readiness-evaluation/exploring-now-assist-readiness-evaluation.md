@@ -53,7 +53,7 @@ The following list details what generative AI Now Assist products are evaluated 
 
     This feature analyzes customizations in the HR Core Case and Task tables, tracking field-level changes and promoting data completeness for critical fields. The assessment provides insights into historical HR Core cases, including field population percentages, to enhance data accuracy in HRSD processes. Additionally, the feature identifies estimated remediation efforts required and reports the languages used within the instance.
 
-    **Note:** Additional configuration is needed to run the HRSD assessment successfully. For more information, see [Configure the Now Assist Readiness Evaluation guided setup](../task/configure-nare-guided-setup.md).
+    **Note:** Additional configuration is needed to run the HRSD assessment successfully. For more information, see [Configure the Now Assist Readiness Evaluation guided setup](configure-nare-guided-setup.md).
 
 
 ## Now Assist Readiness Evaluation users
@@ -66,7 +66,7 @@ The following list details what generative AI Now Assist products are evaluated 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Run scheduled jobs for applicable agentic and generative AI Now Assist products from a single assessment job.|[Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md)|Admins|
+|Run scheduled jobs for applicable agentic and generative AI Now Assist products from a single assessment job.|[Run the GenAI/AgenticAI Assessment scheduled job](run-genai-agenticai-assessment-scheduled-job.md)|Admins|
 |Review an overall dashboard of your issues before implementing agentic and generative AI Now Assist.|[Using Now Assist Readiness Evaluation dashboard](using-now-assist-readiness-evaluation-dashboard.md)|Admins|
 |View your overall go or no-go status to implement Now Assist generative AI skills or agentic AI agents, and view the go or no-go status' issues categorized by percentage.|[Assessing readiness status](assessing-go-no-go.md)|Admins|
 |Review summary information of overall implementation readiness.|[Reviewing your Now Assist assessment](reviewing-now-assist-assessment.md) and [Reviewing your Agentic AI assessment](reviewing-agentic-ai-assesment.md)|Admins|

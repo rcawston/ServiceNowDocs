@@ -32,8 +32,8 @@ Role required: admin
 3.  Select **Update**.
 
 
--   **[Dictionary entry form](../reference/r_DictionaryEntryForm.md)**  
+-   **[Dictionary entry form](r_DictionaryEntryForm.md)**  
 The Dictionary Entry form was redesigned to provide an Advanced view and additional fields. You might need to configure the form to see all fields.
 
-**Parent Topic:**[Managing tables and indexes](../../table-administration/concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](using-table-administration.md)
 

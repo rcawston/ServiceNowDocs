@@ -44,5 +44,5 @@ A process, service, or log does not exist when the following checks do not conta
     If you want to receive notification about the missing process or service, leave the **skip\_events\_for\_nonexistent** parameter with its default value of **false**.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

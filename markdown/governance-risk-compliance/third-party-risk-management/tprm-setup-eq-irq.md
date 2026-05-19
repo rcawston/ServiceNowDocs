@@ -35,7 +35,7 @@ You can set up questionnaires to be automatically added to external assessments 
 
 3.  Select the Metric Categories related list, the category name, and then select the question from the Assessments Metrics related list that you want to configure.
 
-    For more information on the different types of questions and how to define them, see [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
+    For more information on the different types of questions and how to define them, see [Define a question](tprm-questions-create.md).
 
 4.  Add a configuration to the Questionnaires templates related list by selecting **New**.
 

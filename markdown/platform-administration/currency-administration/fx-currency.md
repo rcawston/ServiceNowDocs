@@ -28,7 +28,7 @@ Use the FX Currency field type in place of the standard currency fields when you
 
 -   Create custom conversion rate tables.
 
-    To learn more about custom table rates, see [Add conversion rates using a custom rate table](../task/custom-rate-table.md).
+    To learn more about custom table rates, see [Add conversion rates using a custom rate table](custom-rate-table.md).
 
 -   Have more control over when the actual currency conversion occurs. FX Currency values convert on demand only, making the conversion results much more transparent.
 
@@ -58,5 +58,5 @@ In general, currency values crossing the boundaries of the platform represent wh
 
 [Standard currency fields](configure-and-use-default-currency-fields.md)
 
-[Field types reference](../../reference-pages/reference/r_FieldTypes.md)
+[Field types reference](../r_FieldTypes.md)
 

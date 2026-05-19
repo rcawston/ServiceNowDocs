@@ -53,7 +53,7 @@ To use Now Assist for FSC Common \(sn\_fsc\_genai\) with SPO, SLO, or APO, insta
 -   Now Assist for APO \(sn\_ap\_gen\_ai\)
 
 
-For more information, see [Configuring Now Assist for Common Finance and Supply Chain features](../task/configure-now-assist-fsc.md).
+For more information, see [Configuring Now Assist for Common Finance and Supply Chain features](configure-now-assist-fsc.md).
 
 **Parent Topic:**[Explore Now Assist for Common Finance and Supply Chain features](now-assist-fsc-exploring.md)
 
@@ -62,9 +62,9 @@ For more information, see [Configuring Now Assist for Common Finance and Supply 
 
 [Now Assist roles for Common Finance and Supply Chain features](now-assist-common-roles.md)
 
-[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations \(SPO\)](../sourcing-and-procurement-operations/now-assist-spo.md)
 
-[Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations \(SLO\)](../supplier-lifecycle-operations/now-assist-slo.md)
 
-[Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/now-assist-apo.md)
+[Now Assist for Accounts Payable Operations \(APO\)](../accounts-payable-operations/now-assist-apo.md)
 

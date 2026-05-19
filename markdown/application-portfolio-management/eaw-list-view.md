@@ -21,12 +21,12 @@ The list view of application rationalization enables you to view all available a
 
 You can perform side-by-side comparison of application scores and indicators across multiple dimensions.
 
-You can also create your own application indicators to analyze business applications in the List view. For information on how to create custom application indicators, see [Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md). The new custom indicators appear as new columns in the list view.
+You can also create your own application indicators to analyze business applications in the List view. For information on how to create custom application indicators, see [Add or edit an application indicator](eaw-create-indicator.md). The new custom indicators appear as new columns in the list view.
 
 **Note:**
 
--   The created indicator must also be attached to the default application profile. For information on how to attach new profile indicators with a scoring profile, see [Attach a profile indicator with an application scoring profile](../../task/eaw-task/eaw-attach-profile-indicators-with-application-scoring-profiles.md).
--   If the created indicator isn’t displayed in the list, verify that the indicator is active. For information on how to activate an indicator, see [Activate or turn off an application or capability indicator](../../task/eaw-task/eaw-enable-or-disable-an-application-indicator.md).
+-   The created indicator must also be attached to the default application profile. For information on how to attach new profile indicators with a scoring profile, see [Attach a profile indicator with an application scoring profile](eaw-attach-profile-indicators-with-application-scoring-profiles.md).
+-   If the created indicator isn’t displayed in the list, verify that the indicator is active. For information on how to activate an indicator, see [Activate or turn off an application or capability indicator](eaw-enable-or-disable-an-application-indicator.md).
 
 All the indicator scores are displayed according to the latest fiscal period, by default. You can also select a different fiscal period from the Scores for fiscal period list. Your fiscal period preferences are saved and applied the next time you visit the page.
 
@@ -38,7 +38,7 @@ You can select the name of a business application to open it and view its associ
 
 Business applications marked as **Retired** or in **End of Life** lifecycle stage aren’t displayed on the Application Rationalization List view page. However, you can view those business applications by updating the **sn\_apm\_ws.business\_application\_default\_filter** system property. Contact your ServiceNow® account service manager to update the system property.
 
-You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 ## View and compare actual and normalized indicator scores
 
@@ -62,12 +62,12 @@ Your display preferences are saved and applied the next time you visit the page.
 
 You can perform the following from the list view page:
 
--   Edit business application details. For more information, see [Edit business application details in list view](../../task/eaw-task/eaw-edit-business-application-details.md).
--   Create a demand for a business application. For more information, see [Create a demand using the list view](../../task/eaw-task/eaw-create-a-demand-using-the-list-view.md).
--   Set the planned disposition of a business application. For more information, see [Set the planned disposition of a business application](../../task/eaw-task/eaw-set-planned-disposition-of-a-business-application-listview.md).
--   Add the business application lifecycle data. For more information, see [Add business application lifecycle data using the list view](../../task/eaw-task/eaw-add-business-application-lifecycle-data-listview.md).
+-   Edit business application details. For more information, see [Edit business application details in list view](eaw-edit-business-application-details.md).
+-   Create a demand for a business application. For more information, see [Create a demand using the list view](eaw-create-a-demand-using-the-list-view.md).
+-   Set the planned disposition of a business application. For more information, see [Set the planned disposition of a business application](eaw-set-planned-disposition-of-a-business-application-listview.md).
+-   Add the business application lifecycle data. For more information, see [Add business application lifecycle data using the list view](eaw-add-business-application-lifecycle-data-listview.md).
 -   You can add or hide the displayed columns according to your requirement by selecting the Personalize icon \(![Personalize icon.](../../image/eaw-image/icon-bubblechart-settings.png)\). Your display preferences are saved and applied the next time you visit the page.
--   Export the list view data to Microsoft Excel or CSV. For more information, see [Export application rationalization data to Excel or CSV](../../task/eaw-task/eaw-export-app-rat-list-data.md).
+-   Export the list view data to Microsoft Excel or CSV. For more information, see [Export application rationalization data to Excel or CSV](eaw-export-app-rat-list-data.md).
 
 **Note:** You can zoom on this page to 200% or 400% through your browser settings without the loss of content or functionality. Page layouts are transformed into a vertical, stacked view automatically.
 
@@ -76,13 +76,13 @@ You can perform the following from the list view page:
 **Related topics**  
 
 
-[Edit a demand associated with a business application](../../task/eaw-task/eaw-edit-a-demand-associated-with-a-business-application.md)
+[Edit a demand associated with a business application](eaw-edit-a-demand-associated-with-a-business-application.md)
 
-[Edit a project associated with a business application](../../task/eaw-task/eaw-edit-a-project-associated-with-a-business-application.md)
+[Edit a project associated with a business application](eaw-edit-a-project-associated-with-a-business-application.md)
 
-[Export application rationalization data to Excel or CSV](../../task/eaw-task/eaw-export-app-rat-list-data.md)
+[Export application rationalization data to Excel or CSV](eaw-export-app-rat-list-data.md)
 
-[Apply filters on the Application Rationalization page](../../task/eaw-task/eaw-apply-filters-app-rat.md)
+[Apply filters on the Application Rationalization page](eaw-apply-filters-app-rat.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

@@ -19,7 +19,7 @@ Once the maximum retry limit is exceeded, Netskope integration sends out an emai
 
 After you complete the integration setup and configuration, provide the DLP Admin \(sn\_dlir.admin\) role to the users who should be notified when the maximum retry limit exceeds.
 
-Once the maximum retry limit is exceeded, the profile will skip ingestion for a duration of up to one hour. The maximum retries are configured using the property: `Maximum number of retries to be performed for API failures`. For more information, see[Configure Netskope DLP integration settings](../task/configure-netskope-dlp-integration-settings.md).
+Once the maximum retry limit is exceeded, the profile will skip ingestion for a duration of up to one hour. The maximum retries are configured using the property: `Maximum number of retries to be performed for API failures`. For more information, see[Configure Netskope DLP integration settings](configure-netskope-dlp-integration-settings.md).
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 

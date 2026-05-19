@@ -48,5 +48,5 @@ You can use the Now Assist feature for work notes analysis even with 5-50 eligib
     Use the thumbs up and thumbs down icons to provide feedback for the result that you have received.
 
 
-**Parent Topic:**[Using Now Assist for Process Mining](../concept/use-na-process-mining.md)
+**Parent Topic:**[Using Now Assist for Process Mining](use-na-process-mining.md)
 

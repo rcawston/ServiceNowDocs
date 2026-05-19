@@ -17,7 +17,7 @@ Sync quote information from the quote record to an opportunity record. This keep
 
 As a sales agent, you can establish the sync between quote and opportunity records and ensure that a defined set of fields between opportunity-quote and opportunity line items-quote line items remain synchronized.
 
-When a quote is created through an opportunity, the **Source Opportunity** field on the quote record is automatically populated with the details of the opportunity through which the quote is created. To create a quote through an opportunity, see [Create a quote](../task/create-new-quote.md).
+When a quote is created through an opportunity, the **Source Opportunity** field on the quote record is automatically populated with the details of the opportunity through which the quote is created. To create a quote through an opportunity, see [Create a quote](create-new-quote.md).
 
 When a quote is created with child line items, the revenue metrics and prices for the quote are automatically calculated. To learn more about the revenue metrics and how they’re calculated, see [Subscription revenue metrics](som-subscription-pricing.md).
 
@@ -25,7 +25,7 @@ When the quote record is synchronized with the opportunity record, the prices an
 
 The **Synced** banner on the **Details** tab on the opportunity record displays whether the quote is in sync with its opportunity. To automatically sync the first quote with its source opportunity, set the autoEnableSyncFirstQuote system property to **true**.
 
-To learn more about establishing a sync between quote and opportunity and automatically enable sync, see [Sync a quote with an opportunity](../task/som-sync-quote-with-opportunity.md).
+To learn more about establishing a sync between quote and opportunity and automatically enable sync, see [Sync a quote with an opportunity](som-sync-quote-with-opportunity.md).
 
 You can create a new version of a quote from a quote record to establish a sync between the new revised quote with the initial opportunity.
 

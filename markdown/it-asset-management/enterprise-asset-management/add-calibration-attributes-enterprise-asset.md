@@ -306,7 +306,7 @@ If you set the **Value type** field to either **Accuracy % full scale** or **Acc
 
 ## What to do next
 
-Create work orders to track the calibrations that are made to your enterprise asset. These work orders must use a work order template with tasks that have a Work type of Calibration. For more information on work orders, see [Managing work orders for your enterprise assets](../concept/create-manage-wo-enterprise-assets.md).
+Create work orders to track the calibrations that are made to your enterprise asset. These work orders must use a work order template with tasks that have a Work type of Calibration. For more information on work orders, see [Managing work orders for your enterprise assets](create-manage-wo-enterprise-assets.md).
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

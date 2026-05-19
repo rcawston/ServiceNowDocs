@@ -57,7 +57,7 @@ CMDB installation administrator
 
 </td><td>
 
-Users with the cmdb\_inst\_admin role can use [IntegrationHub ETL](../../configuration-management/concept/integrationhub-etl.md) to create and customize integrations. CMDB installation administrators can perform the following tasks:-   Read all Service Graph Connector application modules.
+Users with the cmdb\_inst\_admin role can use [IntegrationHub ETL](integration-hub-etl/integrationhub-etl.md) to create and customize integrations. CMDB installation administrators can perform the following tasks:-   Read all Service Graph Connector application modules.
 -   Read and write the system properties that are used by the connectors.
 -   Create, update, and delete custom tables.
 -   Create, update, and delete scheduled imports and data sources.

@@ -133,7 +133,7 @@ To manage access to services that contain sensitive financial information in you
 
 As a result, only users with the Financial Services administrator role can access application services belonging to the Financial Services group.
 
-**Parent Topic:**[Application service completion](../concept/advanced-business-service-definitions.md)
+**Parent Topic:**[Application service completion](advanced-business-service-definitions.md)
 
 **Related topics**  
 
@@ -144,5 +144,5 @@ As a result, only users with the Financial Services administrator role can acces
 
 [Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
 
-[Service definition transfer from one instance to another](../concept/transfer-service-definitions.md#)
+[Service definition transfer from one instance to another](transfer-service-definitions.md#)
 

@@ -31,5 +31,5 @@ Role required: sn\_imt\_core.privacy\_consent\_user
 
     -   If you are reviewing the record, review the record and click **Back** to return to the list of vaccine responses.
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

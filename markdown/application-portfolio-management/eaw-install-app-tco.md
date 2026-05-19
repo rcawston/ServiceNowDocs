@@ -38,5 +38,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-setup-app-tco.md)
+**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-setup-app-tco.md)
 

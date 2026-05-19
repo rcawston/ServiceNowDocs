@@ -86,7 +86,7 @@ Field values that are populated on the change task created as part of the standa
 -   **[Propose a standard change template](propose-standard-chg-template.md)**  
 Propose a new standard change template when you identify a need while creating a change request.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 

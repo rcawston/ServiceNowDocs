@@ -64,21 +64,21 @@ Role required: admin
     If you select more than 1 changed file while creating a task, it still creates just 1 task for the multiple files.
 
 
--   **[Metadata exception list](../concept/atf-metadata-exception-triage.md)**  
+-   **[Metadata exception list](atf-metadata-exception-triage.md)**  
 The following list of tables are not supported by the ATF tests failure resolution feature.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](../concept/atf-test-type-testing.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](atf-test-type-testing.md)
 
 **Related topics**  
 
 
-[Reusable tests](../concept/atf-reuse-tests.md)
+[Reusable tests](atf-reuse-tests.md)
 
-[Mutually exclusive tests](../concept/mutual-exclusion-rule.md)
+[Mutually exclusive tests](mutual-exclusion-rule.md)
 
-[Quick start tests](../concept/quick-start-tests.md)
+[Quick start tests](quick-start-tests.md)
 
-[Parallel testing](../concept/parallel-testing.md)
+[Parallel testing](parallel-testing.md)
 
-[Performance profiling](../concept/atf-perf-prof.md#)
+[Performance profiling](atf-perf-prof.md#)
 

@@ -52,7 +52,7 @@ Description
 1.  Select **Register External Partner Staff** from the channel partner record.
 2.  Select the **Role Type** you want to associate with your user, whether external partner manager or external partner associate.
 3.  Select **Submit**.
- To learn more about the role type and the member registration fields, see [Member registration form](../reference/member-registration-form.md).
+ To learn more about the role type and the member registration fields, see [Member registration form](member-registration-form.md).
 
 </td></tr><tr><td id="d46161e173">
 
@@ -72,5 +72,5 @@ Description
 
 An external staff member or an enterprise partner relationship manager is registered.
 
-**Parent Topic:**[Roles and components of Partner Relationship Management](../concept/roles-and-components-of-partner-relationship-management.md)
+**Parent Topic:**[Roles and components of Partner Relationship Management](roles-and-components-of-partner-relationship-management.md)
 

@@ -19,7 +19,7 @@ Clause management enables you to effectively manage a library of clauses, clause
 
 A clause is a collection of clause variations, which contain a block of content.
 
-Clauses are stored in a clause library, from which you can insert them in contract templates. You can create and add clause variations while creating a contract template or add them later. For more information, see [Create or edit a contract clause](../task/cncore-create-clause-library.md).
+Clauses are stored in a clause library, from which you can insert them in contract templates. You can create and add clause variations while creating a contract template or add them later. For more information, see [Create or edit a contract clause](cncore-create-clause-library.md).
 
 ![Clause library](../image/cmpro-clause-library.png "Clause library")
 

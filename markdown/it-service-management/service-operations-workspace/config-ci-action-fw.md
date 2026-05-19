@@ -378,5 +378,5 @@ Type of choice list that must be applicable for the parameter.**Note:** This fie
 
 You must configure the Remedial Actions Framework. For more information, see [Configure the Remedial Actions Framework](config-remedial-action-fw.md).
 
-**Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](../concept/set-up-investigate.md)
+**Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](set-up-investigate.md)
 

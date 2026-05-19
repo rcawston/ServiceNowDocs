@@ -17,7 +17,7 @@ Role required: sn\_si\_analyst
 
 ![Flow Designer for Security Operations - ArcSight Logger Sightings Search](../image/arcsight-logger-sightings-search-flow.png "Arcsight Logger Sightings Search")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration - Sightings Search Flow](../task/secops-integration-sightings-search-workflow.md)
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](secops-integration-sightings-search-workflow.md)
 

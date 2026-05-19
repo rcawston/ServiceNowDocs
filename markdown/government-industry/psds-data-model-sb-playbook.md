@@ -17,7 +17,7 @@ The following logical diagram shows the tables and their relationships within th
 
 ![Public Sector Digital Services Social Benefits Data Model](../image/psds-datamodel-sb.png "Social Benefits Data Model")
 
--   **[Tables installed with Social Benefits Playbook](../reference/psds-data-model-sb-playbook-tables.md)**  
+-   **[Tables installed with Social Benefits Playbook](psds-data-model-sb-playbook-tables.md)**  
 This section describes the tables installed with the Social Benefits Playbook application and shows how they store and manage information.
 
 **Parent Topic:**[Public Sector Digital Services Data Model](public-sector-digital-services-data-model.md)

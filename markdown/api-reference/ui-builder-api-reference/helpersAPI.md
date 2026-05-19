@@ -22,7 +22,7 @@ This API is only available to page scripts, it is not available in any other UI 
 -   event payload scripts
 -   UX client script includes
 
-**Parent Topic:**[UIB API reference](../../../../../build/applications/concept/api-uib.md)
+**Parent Topic:**[UIB API reference](api-uib.md)
 
 ## helpers - helpers.modal.close\(String modalId\)
 
@@ -892,7 +892,7 @@ function handler({api, helpers}) {
 
 Asynchronously retrieves and translates the specified message based on the current user's session language.
 
-You can use this method with the [api - setState\(String stateParam, Any value\)](../../api/concept/apiAPI.md#) to bind the translated value to other fields on the page.
+You can use this method with the [api - setState\(String stateParam, Any value\)](apiAPI.md#) to bind the translated value to other fields on the page.
 
 **Note:** You can call this method using a promise or `async` and `await`. The code examples below show both implementations.
 

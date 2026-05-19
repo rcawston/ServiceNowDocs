@@ -39,5 +39,5 @@ A service channel is a means of assigning a specific type of work items to agent
     The queue is created in the service channel.
 
 
-**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](setup-channels-configurable-workforce-optimization-itsm.md)
 

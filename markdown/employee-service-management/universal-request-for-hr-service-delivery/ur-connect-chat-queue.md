@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Chat queues](../concept/config-chat-queues.md)
+**Parent Topic:**[Configure Chat queues](config-chat-queues.md)
 

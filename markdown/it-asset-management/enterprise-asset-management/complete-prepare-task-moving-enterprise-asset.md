@@ -139,5 +139,5 @@ If you set the **Move type** field to **Local Move**, proceed to [Complete the l
 
 If you set the **Move type** field to **Ship**, proceed to [Complete the shipment for a moving enterprise asset](complete-shipment-moving-enterprise-asset.md) to complete the shipment.
 
-**Parent Topic:**[Completing an enterprise asset move order](../concept/completing-enterprise-asset-move-order.md)
+**Parent Topic:**[Completing an enterprise asset move order](completing-enterprise-asset-move-order.md)
 

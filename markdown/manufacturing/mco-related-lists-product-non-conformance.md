@@ -39,5 +39,5 @@ Create one or more Service Level Agreement \(SLA\) definitions and use them to c
 -   **[Create a parent-child relationship](mco-relationships.md)**  
 Create the relationship between parent and child and assign the type of relationship.
 
-**Parent Topic:**[Product non-conformance](../concept/mco-product-non-conformances.md)
+**Parent Topic:**[Product non-conformance](mco-product-non-conformances.md)
 

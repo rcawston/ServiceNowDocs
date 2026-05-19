@@ -56,5 +56,5 @@ To learn more about using the sidebar, see [Using Sidebar](https://raw.githubuse
 
 For information on the activity stream in the sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/activity-stream-sidebar.md).
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

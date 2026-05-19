@@ -46,7 +46,7 @@ You can download the fix script XML files from the [ServiceNow Store](https://st
 7.  Select **Run Fix Script**.
 
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -63,11 +63,11 @@ You can download the fix script XML files from the [ServiceNow Store](https://st
 
 [Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 
 [Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md)
 
 [Run fix script to update the KPI Instruction field in the Supplier Task table](run-fixscript-update-kpi-instruction.md)
 
-[Restructured Supplier Task table](../concept/supplier-task-table-restructure.md)
+[Restructured Supplier Task table](supplier-task-table-restructure.md)
 

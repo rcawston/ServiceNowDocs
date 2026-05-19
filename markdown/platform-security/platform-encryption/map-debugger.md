@@ -84,11 +84,11 @@ Each line starts with an icon that indicates its message type.
 **Related topics**  
 
 
-[Key Management Framework key life-cycle states](../reference/key-life-cycle-states.md)
+[Key Management Framework key life-cycle states](key-life-cycle-states.md)
 
-[Roles installed with Key Management Framework](../reference/kmf-roles.md#)
+[Roles installed with Key Management Framework](kmf-roles.md#)
 
 [Module access policy visualization](map-vis-concept.md)
 
-[Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md)
+[Encryption and Key Management subscription bundle](encryption-sku.md)
 

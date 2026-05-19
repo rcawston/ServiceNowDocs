@@ -46,5 +46,5 @@ After the automation request is moved to the following states, the option to edi
     If you select **Delete**, select **Delete** on the confirmation window.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](working-golive.md)
 

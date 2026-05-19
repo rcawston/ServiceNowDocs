@@ -84,5 +84,5 @@ Notes
 Description of the test step.
 
 </td></tr></tbody>
-</table>See [Reusable tests](../concept/atf-reuse-tests.md) for more details.
+</table>See [Reusable tests](atf-reuse-tests.md) for more details.
 

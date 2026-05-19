@@ -40,7 +40,7 @@ Function fields provide several glidefunction operations for working with geo po
     ```
 
 
-See [Function field](../../../build/platform-functions/concept/platform-support-functions.md#).
+See [Function field](platform-support-functions.md#).
 
 Values for geo points are in longitude, latitude format where:
 

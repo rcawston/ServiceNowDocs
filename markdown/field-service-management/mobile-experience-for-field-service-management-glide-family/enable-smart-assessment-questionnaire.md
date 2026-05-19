@@ -43,5 +43,5 @@ Smart Assessment Questionnaire is enabled for work order tasks.
 
 [Activate Smart Assessment for Field Service questionnaire](activate-smart-assessment.md)
 
-[Migrating to Smart Assessment from survey-based questionnaire](../concept/configuring-sa-by-migrating.md)
+[Migrating to Smart Assessment from survey-based questionnaire](configuring-sa-by-migrating.md)
 

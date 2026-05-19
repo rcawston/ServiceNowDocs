@@ -19,7 +19,7 @@ Create a single global API access policy to protect all the SOAP APIs.
 
 -   Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 -   Install the **Processor Access policy** \(`com.glide.processor.policy`\) plugin
--   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](../../authentication/task/create-authentication-profile.md).
+-   Make sure that an authentication profile is created. For more information, see [Create an authentication profile](create-authentication-profile.md).
 
 The following steps describes how to create a single global access policy to protect all the SOAP APIs.
 

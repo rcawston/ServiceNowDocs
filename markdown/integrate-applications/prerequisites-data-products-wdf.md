@@ -15,7 +15,7 @@ Before creating data interfaces and data products, confirm that the required plu
 
 **Note:**
 
-Build and test data interfaces and data products in a development or subproduction instance first. When you're ready for production, use a ServiceNow update set to move your assets. See [Move data interfaces and data products to production](../task/move-data-interfaces-products-to-prod-wdf.md)
+Build and test data interfaces and data products in a development or subproduction instance first. When you're ready for production, use a ServiceNow update set to move your assets. See [Move data interfaces and data products to production](move-data-interfaces-products-to-prod-wdf.md)
 
 ## Required roles
 
@@ -40,7 +40,7 @@ Zero-copy connectors and metadata collectors serve different purposes and are bo
 
 The zero-copy connector must be tested and verified as operational before creating data interfaces. Connection failures during data interface creation indicate that the connector is not properly configured or the external system is unavailable.
 
-For setup instructions, see [Zero Copy Connectors](../../../build/zero-copy-connectors/concept/zero-copy-connectors.md).
+For setup instructions, see [Zero Copy Connectors](zero-copy-connectors.md).
 
 ## Metadata collectors and Data Catalog visibility
 

@@ -21,12 +21,12 @@ You can use this API in scoped applications or within the global scope. This API
 
 See also:
 
--   [Direct SOAPMessageV2 example](../reference/r_DirectSOAPMessageV2Example.md)
--   [Recordless SOAPMessageV2 example](../reference/r_RecordlessSOAPMessageV2Example.md)
--   [Asynchronous SOAPMessageV2 example](../reference/r_AsyncronousSOAPMessageV2Example.md)
--   [SOAPMessageV2 MID server example](../reference/r_SOAPMessageV2MIDServerExample.md)
+-   [Direct SOAPMessageV2 example](../web-services/r_DirectSOAPMessageV2Example.md)
+-   [Recordless SOAPMessageV2 example](../web-services/r_RecordlessSOAPMessageV2Example.md)
+-   [Asynchronous SOAPMessageV2 example](../web-services/r_AsyncronousSOAPMessageV2Example.md)
+-   [SOAPMessageV2 MID server example](../web-services/r_SOAPMessageV2MIDServerExample.md)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SOAPMessageV2 - SOAPMessageV2\(\)
 
@@ -75,7 +75,7 @@ Things to consider when using this method:
 
 |Type|Description|
 |----|-----------|
-|[SOAPResponseV2](../../SOAPResponseV2/concept/c_SOAPResponseV2API.md#)|Response returned by the SOAP provider.|
+|[SOAPResponseV2](c_SOAPResponseV2API.md#)|Response returned by the SOAP provider.|
 
 ```
 var sm = new sn_ws.SOAPMessageV2("StockQuote","GetQuote"); //Might throw exception if message doesn't exist or not visible due to scope.
@@ -195,7 +195,7 @@ var requestHeaders = sm.getRequestHeaders();
 
 Sets one or more URIs allowed to be redirected to. Controlling the allowed outbound URIs reduces security concerns and helps prevent URL redirect attacks that send users to malicious sites.
 
-For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#).
+For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](UriMatcherScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

@@ -30,7 +30,7 @@ For more information, see [Now Assist Center workspace](now-assist-center-worksp
 
 ## Licensing requirements
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
 
 ## Application information
 

@@ -96,12 +96,12 @@ If one of your connectors reaches the content indexing limit, you can update its
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Configure source systems for external content indexing|[Configuring source systems for external content indexing](cfg-src-sys-ext-content-indexing.md)|Source system administrators|
-|Create connectors to retrieve searchable content and metadata and user permissions from supported external data source systems|[Creating external content connectors](../task/creating-ext-cont-connectors.md)|Connector administrators|
+|Create connectors to retrieve searchable content and metadata and user permissions from supported external data source systems|[Creating external content connectors](creating-ext-cont-connectors.md)|Connector administrators|
 |Control the scope of external content connector crawls by specifying source system locations to crawl and content types to feed to AI Search for indexing|[Configuring crawl settings for external content connectors](cfg-crawl-settings-ext-cont-connector.md)|Connector administrators|
-|Update searchable content and metadata from source systems on demand or on a scheduled recurring basis|[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)|Connector administrators|
-|Update user and group access permissions from source systems on demand or on a scheduled recurring basis|[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)|Connector administrators|
-|Review metrics for source system items retrieved by content crawls|[Review crawl history for an external content connector](../task/review-crawl-ext-cont-connector.md)|Connector administrators|
-|Review user and group access permissions retrieved by user permission crawls|[Review user permissions for an external content connector](../task/review-usr-maps-ext-cont-connector.md)|Search high security administrators|
+|Update searchable content and metadata from source systems on demand or on a scheduled recurring basis|[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)|Connector administrators|
+|Update user and group access permissions from source systems on demand or on a scheduled recurring basis|[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)|Connector administrators|
+|Review metrics for source system items retrieved by content crawls|[Review crawl history for an external content connector](review-crawl-ext-cont-connector.md)|Connector administrators|
+|Review user and group access permissions retrieved by user permission crawls|[Review user permissions for an external content connector](review-usr-maps-ext-cont-connector.md)|Search high security administrators|
 |Search content and metadata indexed from external data source systems|[Searching in AI Search](use-ais.md)|AI Search users|
 
 ## Interaction with Now Assist Genius Results
@@ -114,12 +114,12 @@ External content search results are ignored when generating Now Assist Q&amp;A o
 Source system tools allow you to estimate the number of documents available for retrieval by external content connectors. By estimating the available document count for a source system, you can determine whether you need to apply crawl scope restrictions when configuring an external content connector for that source system.
 -   **[Configuring source systems for external content indexing](cfg-src-sys-ext-content-indexing.md)**  
 Source system administrators configure settings to allow external content connectors to index your documents and security settings for search. These settings must be configured for a source system before you create an external content connector to crawl that source system.
--   **[Creating external content connectors](../task/creating-ext-cont-connectors.md)**  
+-   **[Creating external content connectors](creating-ext-cont-connectors.md)**  
 Connector administrators can create external content connectors to retrieve searchable content and metadate and security permissions from supported source systems.
 -   **[Configuring crawl settings for external content connectors](cfg-crawl-settings-ext-cont-connector.md)**  
 Connector administrators can configure crawl settings for each external content connector, such as which source system locations it crawls and which types of content it sends to AI Search for indexing.
 -   **[Domain separation and External Content Connectors](ext-cont-connectors-domain-separation.md)**  
 Domain separation is unsupported for External Content Connectors. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[External Content Connectors](../reference/ext-cont-connectors-landing-page.md)
+**Parent Topic:**[External Content Connectors](ext-cont-connectors-landing-page.md)
 

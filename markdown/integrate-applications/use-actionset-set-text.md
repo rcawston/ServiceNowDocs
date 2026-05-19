@@ -23,13 +23,13 @@ Role required: none
 
 The ActionSet Set Text action enters text in a field that you specify in the ActionSet Settings window. You can use it to enter any text data such as a user name, an address, a survey response, or in any situation where text entry is accepted.
 
-You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](../reference/actionset-actions-properties.md#ActionSet-GetText).
+You can configure the properties for the GetText component. For more information about these properties, see [ActionSet-Get Text properties](actionset-actions-properties.md#ActionSet-GetText).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To learn about the anchor, see how to use the [Anchor](../concept/anchor.md).
+    To learn about the anchor, see how to use the [Anchor](anchor.md).
 
 2.  Click **Get Text**.
 

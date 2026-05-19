@@ -52,5 +52,5 @@ Use and customize the action framework according to your priority to provide bet
 **Related topics**  
 
 
-[Action framework](../concept/action-group-framework.md)
+[Action framework](action-group-framework.md)
 

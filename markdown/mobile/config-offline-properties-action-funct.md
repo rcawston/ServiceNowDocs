@@ -98,5 +98,5 @@ Define whether to show or hide buttons while users are in offline mode on their 
 -   **[Trigger offline cache download](trigger-offline-cache-download.md)**  
 **Trigger offline cache download** is an optional button attribute \(**sys\_sg\_button\_atribute\_name**\) that will generate an offline cache after a successful completion of the assigned writeback action.
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](mobile-offline-mode.md)
 

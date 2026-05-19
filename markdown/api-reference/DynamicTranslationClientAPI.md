@@ -23,7 +23,7 @@ To use this API you must activate the Dynamic Translation plugin. For informatio
 
 **Note:** The name of the class to use in Service Portal clients is dynamicTranslation, while the name of the class to use in standard clients is DynamicTranslation.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## DynamicTranslation - getDetectedLanguage\(String text, Object parms\)
 

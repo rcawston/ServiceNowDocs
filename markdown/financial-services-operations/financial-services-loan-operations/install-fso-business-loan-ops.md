@@ -30,7 +30,7 @@ The following items are installed with Financial Services Business Loan Operatio
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Financial Services Business Loan Operations](../reference/installed-with-business-loan-operations.md).
+For more information, see [Components installed with Financial Services Business Loan Operations](installed-with-business-loan-operations.md).
 
 ## Procedure
 
@@ -53,5 +53,5 @@ For more information, see [Components installed with Financial Services Business
 5.  Select **Install**.
 
 
-**Parent Topic:**[Install Financial Services Loan Operations](../concept/install-loan-operations.md)
+**Parent Topic:**[Install Financial Services Loan Operations](install-loan-operations.md)
 

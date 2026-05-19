@@ -47,5 +47,5 @@ The subflow launched by the activity that completed most recently. You can use t
 -   contextId: the sys\_id of the workflow context for the subflow
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Parallel Flow Launcher workflow activity](../reference/r_ParallelFlowLauncher.md)
+</table>**Parent Topic:**[Parallel Flow Launcher workflow activity](r_ParallelFlowLauncher.md)
 

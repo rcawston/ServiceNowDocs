@@ -45,7 +45,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 The Primary contact column is set to **true** for this contact on the Supplier contacts page, and the contact is elevated to the primary contact role.
 
-**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+**Parent Topic:**[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
 **Related topics**  
 

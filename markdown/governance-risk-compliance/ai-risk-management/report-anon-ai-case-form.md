@@ -135,5 +135,5 @@ Text verification
 Enter the CAPTCHA verification code on the screen.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Report an AI case anonymously](../task/report-ai-case-anon.md)
+</table>**Parent Topic:**[Report an AI case anonymously](report-ai-case-anon.md)
 

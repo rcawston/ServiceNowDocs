@@ -17,7 +17,7 @@ The Script Include API defines script includes \[sys\_script\_include\] that sto
 
 **Note:** For the latest ServiceNow Fluent API documentation and examples, see the [ServiceNow Fluent API reference](https://servicenow.github.io/sdk/) and [ServiceNow SDK examples repository](https://github.com/ServiceNow/sdk-examples) on GitHub.
 
-For new scripts, use JavaScript modules instead of script includes when possible to support code reuse and using third-party libraries within an application scope. For more information about JavaScript module support and limitations, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+For new scripts, use JavaScript modules instead of script includes when possible to support code reuse and using third-party libraries within an application scope. For more information about JavaScript module support and limitations, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 
 For general information about script includes, see [Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
@@ -26,7 +26,7 @@ For general information about script includes, see [Script includes](https://raw
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## ScriptInclude object
 
@@ -172,7 +172,7 @@ String
 
 </td><td>
 
-An option for how cross-scope access to the script include is permitted. For more information, see [Restricted caller access privilege settings](../../applications/concept/restricted-caller-access-privilege.md).Valid values:
+An option for how cross-scope access to the script include is permitted. For more information, see [Restricted caller access privilege settings](../restricted-caller-access-privilege.md).Valid values:
 
 -   restriction: Calls to the script include must be manually approved. Access requests are tracked in the Restricted Caller Access table with a status of Requested.
 -   tracking: Calls to the script include are automatically approved. Calls are tracked in the Restricted Caller Access table with a status of Allowed.

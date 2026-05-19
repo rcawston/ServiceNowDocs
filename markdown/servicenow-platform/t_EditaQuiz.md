@@ -69,10 +69,10 @@ Only scored questions are considered when calculating category and quiz results.
 -   **[Configure a template question](t_ConfigureATemplateQuestion.md)**  
 You can configure template questions when designing quizzes.
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](c_QuizDesigner.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 

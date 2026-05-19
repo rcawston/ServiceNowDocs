@@ -37,7 +37,7 @@ The Invoice attachment DI processing flow is deactivated.
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](../concept/acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](acc-pay-invoice-processing.md)
 
-[Accounts Payable Operations integration with Document Intelligence](../concept/apo-docintel-integration.md)
+[Accounts Payable Operations integration with Document Intelligence](apo-docintel-integration.md)
 

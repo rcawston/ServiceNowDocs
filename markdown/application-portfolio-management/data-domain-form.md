@@ -56,12 +56,12 @@ Leaf Node
 Indicator that the data domain is at the lowest level of the hierarchy.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference/eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a data domain from the Portfolio page](../task/eaw-task/eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
+[Add or edit a data domain from the Portfolio page](eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
 
-[Add or edit an information data domain](../task/eaw-task/eaw-add-edit-info-data-domain.md)
+[Add or edit an information data domain](eaw-add-edit-info-data-domain.md)
 

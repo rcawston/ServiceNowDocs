@@ -65,10 +65,10 @@ Action
 </td></tr></tbody>
 </table>2.  On the Asset record fields form, fill in the fields.
 
-    For a description of the field values, see [Asset record fields](../reference/asset-record-fields.md).
+    For a description of the field values, see [Asset record fields](../hardware-asset-management/asset-record-fields.md).
 
 3.  Submit or save the asset form.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

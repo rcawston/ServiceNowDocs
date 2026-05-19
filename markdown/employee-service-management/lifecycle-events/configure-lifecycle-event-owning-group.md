@@ -85,5 +85,5 @@ HR skills assigned to the owning group.**Note:** Any HR skills assigned to the p
 </table>6.  Click **Update**.
 
 
-**Parent Topic:**[Configure the supporting components for a lifecycle event](../concept/configure-supporting-components-for-lifecycle-event.md)
+**Parent Topic:**[Configure the supporting components for a lifecycle event](configure-supporting-components-for-lifecycle-event.md)
 

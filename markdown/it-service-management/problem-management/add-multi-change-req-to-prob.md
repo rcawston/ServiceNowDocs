@@ -38,5 +38,5 @@ The topic applies to Problems where you have activated the Problem Management Be
     The selected change requests appear under the **Change Requests** tab.
 
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

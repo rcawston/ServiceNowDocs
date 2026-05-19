@@ -43,16 +43,16 @@ You can create a change schedule to view all scheduled changes, change tasks, bl
     The change schedule is displayed in the timeline view.
 
 
-**Parent Topic:**[Change schedules](../concept/change-schedule.md)
+**Parent Topic:**[Change schedules](change-schedule.md)
 
 **Related topics**  
 
 
-[Change schedules view](../concept/change-schedules-view.md)
+[Change schedules view](change-schedules-view.md)
 
 [Create a change schedule from the change schedule definition](create-chng-sch-from-chng-sch-def.md)
 
 [Add related tasks to a change schedule](add-related-tasks-to-chng-schedule.md)
 
-[Style rules definition](../concept/style-rules-definition.md)
+[Style rules definition](style-rules-definition.md)
 

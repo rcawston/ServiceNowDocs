@@ -19,16 +19,16 @@ Linking an application or application-customization to source control allows app
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 -   Role required: admin
--   Learn more about [Managing application-customizations](manage-customizations-store-apps.md).
+-   Learn more about [Managing application-customizations](../application-repository-self-hosted/manage-customizations-store-apps.md).
 -   Create a dedicated Git repository for the application. For increased security, enable multi-factor authentication for the Git repository.
 -   Generate an access token that the source control integration can use instead of a password and multi-factor authentication passkey. Search for personal access token on [GitHub](https://help.github.com) or [GitLab](https://docs.gitlab.com).
 -   Restrict permissions on the access token to allow read and write access to the Git repository.
 -   Verify that the non-production instance has network access to the Git repository.
 -   Ensure that users add the email address to their respective Users Table \(ServiceNow sys\_user\) records that they use in their commits to the Git repository.
--   Learn more: [Legacy - Migrate completed update set history to Source Control](../concept/migrate-update-set-history.md)
+-   Learn more: [Legacy - Migrate completed update set history to Source Control](migrate-update-set-history.md)
 
 ## About this task
 
@@ -94,7 +94,7 @@ The name of the existing MID Server to link through.**Note:** Use a separate MID
 
 Be sure that the MID server user can create files to the sys\_attachment table and that the table can accept files of the “bundle” type.
 
- Linking or [importing](t_ImportAppFromSourceControl.md) an application through a MID Server enables access to repositories behind a firewall. See the [Using MID Server with source control](../concept/tips-source-control-midserver.md) and [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) topics to learn more
+ Linking or [importing](t_ImportAppFromSourceControl.md) an application through a MID Server enables access to repositories behind a firewall. See the [Using MID Server with source control](tips-source-control-midserver.md) and [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) topics to learn more
 
 </td></tr><tr><td>
 
@@ -122,10 +122,10 @@ An optional description of the repository or application.
     All application developers on the instance can use the linked Git repository to manage changes.
 
 
--   **[Legacy - Using MID Server with source control](../concept/tips-source-control-midserver.md)**  
+-   **[Legacy - Using MID Server with source control](tips-source-control-midserver.md)**  
 The ServiceNow® MID Server enables communication and the movement of data between a ServiceNow instance and external applications, data sources, and services.
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](c_SourceControlIntegration.md)
 
 **Related topics**  
 

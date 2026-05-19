@@ -36,5 +36,5 @@ Role required: web\_service\_admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[Outbound SOAP security](../concept/c_OutboundSOAPSecurity.md)
+**Parent Topic:**[Outbound SOAP security](c_OutboundSOAPSecurity.md)
 

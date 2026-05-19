@@ -118,5 +118,5 @@ A default outbound filter applies to all active SMTP email accounts automaticall
 
 For a non-default filter, the next step is to apply the filter to an email account manually. For more information on applying a filter to an email account, see [Create an email account](t_ConfigureAnEmailAccount.md).
 
-**Parent Topic:**[Email service](../../../integrate/inbound-rest/concept/email-service.md)
+**Parent Topic:**[Email service](email-service.md)
 

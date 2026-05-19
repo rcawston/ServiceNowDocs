@@ -62,11 +62,11 @@ The Automation Anywhere spoke provides actions to automate Automation Anywhere t
 
 ## Spoke module
 
-The Automation Anywhere spoke adds the Automation Anywhere application to your instance and includes the Authentication module. In this module, you should provide details in the default credential record to authentication the ServiceNow requests. See [Create a Credential record for the Automation Anywhere spoke](../task/cred-automation-anywhr-1.md) for more information.
+The Automation Anywhere spoke adds the Automation Anywhere application to your instance and includes the Authentication module. In this module, you should provide details in the default credential record to authentication the ServiceNow requests. See [Create a Credential record for the Automation Anywhere spoke](../integrate-applications/cred-automation-anywhr-1.md) for more information.
 
 ## Connection and credential alias requirements
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Automation Anywhere spoke](../task/setup-auto-anywhr.md#).
+For information about setting up the spoke, see [Set up the Automation Anywhere spoke](setup-auto-anywhr.md#).
 

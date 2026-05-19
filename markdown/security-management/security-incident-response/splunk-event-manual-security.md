@@ -31,7 +31,7 @@ Create an event profile
 
 </td><td>
 
-See [Create a profile](../task/splunk-event-create-profile-manual-security.md)
+See [Create a profile](splunk-event-create-profile-manual-security.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Create custom mappings
 
 </td><td>
 
-See [Create mappings for Splunk ES notable event incident review and contributing event details \(manual forwarding\)](../task/splunk-event-ingest-map-manual-security.md)
+See [Create mappings for Splunk ES notable event incident review and contributing event details \(manual forwarding\)](splunk-event-ingest-map-manual-security.md)
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Preview the security incident
 
 </td><td>
 
-See [Preview security incident](../task/splunk-event-ingest-preview-security.md)
+See [Preview security incident](splunk-event-ingest-preview-security.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Set up your Splunk environment for manual ingestion
 
 </td><td>
 
-[Create a profile](../task/splunk-event-create-profile-manual-security.md)
+[Create a profile](splunk-event-create-profile-manual-security.md)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Automate notable event updates and closure based on SIR incident status
 
 </td><td>
 
-See [Automate notable event updates and closures](../task/splunk-additional-security.md)
+See [Automate notable event updates and closures](splunk-additional-security.md)
 
 </td></tr></tbody>
 </table>

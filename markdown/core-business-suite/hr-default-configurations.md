@@ -21,5 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Intake forms|Activates required intake forms for submitting Human Resources requests and capturing request details.|
 |Human Resources services|Configures required Human Resources services that define service offerings and support request routing and fulfillment.|
 
-**Parent Topic:**[Install Human Resources](../task/install-human-resources.md)
+**Parent Topic:**[Install Human Resources](install-human-resources.md)
 

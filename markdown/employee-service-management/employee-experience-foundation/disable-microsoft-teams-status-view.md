@@ -40,5 +40,5 @@ For non-employees, follow this procedure:
 
 Customize your employee profile page as per your business requirement, by adding or removing the Microsoft Teams status view.
 
-**Parent Topic:**[Employee Profile integration with Microsoft Teams](../concept/employee-profile-integration-with-microsoft-teams.md)
+**Parent Topic:**[Employee Profile integration with Microsoft Teams](employee-profile-integration-with-microsoft-teams.md)
 

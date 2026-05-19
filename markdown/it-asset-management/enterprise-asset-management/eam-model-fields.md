@@ -275,7 +275,7 @@ Failure likelihood
 
 The likelihood values for the risk score.
 
- The configuration values that you created for risk likelihood appear as options in this field. The options appear in the format of `value-label`. For example, `1-Low` where 1 is the value and Low is the label. For details, see [Create configuration values for risk likelihood](../task/risk-likelihood-config.md).
+ The configuration values that you created for risk likelihood appear as options in this field. The options appear in the format of `value-label`. For example, `1-Low` where 1 is the value and Low is the label. For details, see [Create configuration values for risk likelihood](risk-likelihood-config.md).
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Failure impact
 
 The impact values for the risk score.
 
- The configuration values that you create for risk impact appear as options in this field. The options appear in the format of `value-label`. For example, `2-Medium` where 2 is the value and Medium is the label. For details, see [Create configuration values for risk impact](../task/risk-impact-config.md).
+ The configuration values that you create for risk impact appear as options in this field. The options appear in the format of `value-label`. For example, `2-Medium` where 2 is the value and Medium is the label. For details, see [Create configuration values for risk impact](risk-impact-config.md).
 
 </td></tr><tr><td>
 
@@ -451,12 +451,12 @@ Indicates that the lifecycle of the model is active.
 |Specifications|Product specifications that come from the vendor.|
 |Features|Product features that come from the vendor.|
 
-**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

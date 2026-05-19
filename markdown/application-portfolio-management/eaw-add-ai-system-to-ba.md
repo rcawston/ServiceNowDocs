@@ -62,12 +62,12 @@ You can also add a business application to a new AI System. For information, see
     The association also appears under **Workspaces** &gt; **AI Control Tower** &gt; **AI Assets** &gt; **AI systems** &gt; **Select an AI system** &gt; **Details** &gt; **Business applications**.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[AI Control Tower integration with Enterprise Architecture](../../concept/eaw-concept/eaw-aict.md)
+[AI Control Tower integration with Enterprise Architecture](eaw-aict.md)
 
 [AI Control Tower Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-home-page.md)
 

@@ -131,5 +131,5 @@ Any execution instructions that you want to provide.
     If you select **Activate**, you cannot make any other changes to the action configuration, that is the **Action Type** and **Action** fields. The other fields can be updated.
 
 
-**Parent Topic:**[Creating an action](../concept/creating-action.md)
+**Parent Topic:**[Creating an action](creating-action.md)
 

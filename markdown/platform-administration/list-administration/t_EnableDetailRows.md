@@ -27,7 +27,7 @@ To display detail rows, an administrator must enable them globally and add them 
 
 ## Procedure
 
-1.  To enable detail rows, [add a new system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following field values.
+1.  To enable detail rows, [add a new system property](../r_AvailableSystemProperties.md#) with the following field values.
 
 <table id="table_esm_jyw_j1b"><tbody><tr><td>
 
@@ -56,7 +56,7 @@ true
 </td></tr></tbody>
 </table>2.  To add detail rows to a list, complete the following steps.
 
-    1.  Add the **detail\_row** [dictionary attribute](../../reference-pages/concept/c_DictionaryAttributes.md) to the table.
+    1.  Add the **detail\_row** [dictionary attribute](../table-administration-and-data-management/c_DictionaryAttributes.md) to the table.
 
         Specify the name of the field to display in the following format: `detail_row=short_description`
 
@@ -70,5 +70,5 @@ true
 
 [Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](../table-administration-and-data-management/c_DictionaryAttributes.md)
 

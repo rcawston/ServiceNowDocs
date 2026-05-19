@@ -43,7 +43,7 @@ Provide a value for each input that your flow needs. To add dynamic values, you 
 
     The record values necessary to resume running the flow. For example, if the condition is **\[State\]** **\[is\]** **\[Closed\]**, the flow pauses until the condition is met. Once met, the flow moves on to the next flow step. Only select conditions that apply to field values in the table to which the record belongs. See Condition evaluation for more information about creating valid conditions.
 
-    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md) instead.
+    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](flow-logic-wait-for-a-duration.md) instead.
 
 -   **Enable Timeout**
 
@@ -89,7 +89,7 @@ The Wait for Condition action only evaluates the wait condition when there are c
 
 -   Each condition specifies a field value change rather than a relative time period.
 
-    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](../concept/flow-logic-wait-for-a-duration.md) instead.
+    **Note:** For conditions that depend on a specific duration, consider using [Wait for a duration flow logic](flow-logic-wait-for-a-duration.md) instead.
 
 
 In this example, the wait condition is valid because the **State** field belongs to the Incident table and the condition is a field value change to **Closed**.
@@ -116,11 +116,11 @@ Follow these general guidelines when creating flows that wait for a condition.
 
 -   **Cancel flows whose resume conditions can never occur**
 
-    Prevent your flows from waiting indefinitely by specifying flow stop conditions with [End Flow flow logic](../concept/flow-logic-end-action.md). To free up system resources, you can also cancel any flow whose resume conditions can never be met. For example, cancel flows waiting for incident record updates where the related incident is closed.
+    Prevent your flows from waiting indefinitely by specifying flow stop conditions with [End Flow flow logic](flow-logic-end-action.md). To free up system resources, you can also cancel any flow whose resume conditions can never be met. For example, cancel flows waiting for incident record updates where the related incident is closed.
 
 -   **Provide at least one condition to resume a flow**
 
-    The Wait For Condition action requires at least one condition to resume running a flow. If you want to pause a flow for a specific amount of time, use the [Wait for a duration of time flow logic](../concept/flow-logic-wait-for-a-duration.md) instead.
+    The Wait For Condition action requires at least one condition to resume running a flow. If you want to pause a flow for a specific amount of time, use the [Wait for a duration of time flow logic](flow-logic-wait-for-a-duration.md) instead.
 
 -   **Restrict wait conditions to fields present on the current table**
 
@@ -162,5 +162,5 @@ The system does not support Wait for Condition for the following tables.
 |Users|User Session \[sys\_user\_session\], User Token \[sys\_user\_token\], User Preference \[sys\_user\_preference\], Navigator History \[sys\_ui\_navigator\_history\]|
 |Workflow|Workflow Execution \[wf\_workflow\_execution\], Workflow History \[wf\_history\], Workflow Executing Activity \[wf\_executing\], Workflow Queued Command \[wf\_command\], Workflow Context \[wf\_context\], Workflow Transition History \[wf\_transition\_history\]|
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

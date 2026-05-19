@@ -30,9 +30,9 @@ By default, your iOS users can use the following pre-configured shortcuts in the
     -   The instance must have global search set up. For details on configuration, see [Global search for mobile](mobile-search-config.md).
     -   The global search must be configured on the first tab in the mobile app.
 
-For details about configuring a Siri shortcut on your instance, see [Configure a Siri shortcut](../task/config-siri-shortcuts-2.md).
+For details about configuring a Siri shortcut on your instance, see [Configure a Siri shortcut](config-siri-shortcuts-2.md).
 
--   **[Configure a Siri shortcut](../task/config-siri-shortcuts-2.md)**  
+-   **[Configure a Siri shortcut](config-siri-shortcuts-2.md)**  
 Change the destination screen of your Siri shortcuts to direct your users to a different screen than the default.
 
 **Parent Topic:**[Considerations before implementation](imp-considerations.md)

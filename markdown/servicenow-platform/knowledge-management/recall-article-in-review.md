@@ -36,5 +36,5 @@ When a revised article is in **Review** state, only the corresponding versions r
     The system returns the state of the article to **Draft**, increments the version number by 0.01, and displays a message to the user.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

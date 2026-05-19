@@ -68,5 +68,5 @@ Under **Cases**, click **Accept** by a transfer request.![The transfer request c
 **Related topics**  
 
 
-[Configure a survey in the Connect chat support](../../../administer/survey-administration/task/take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](../take-survey-connect-chat.md)
 

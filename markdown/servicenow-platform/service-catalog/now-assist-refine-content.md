@@ -30,7 +30,7 @@ This skill is available in the following workflow and product.
 |--------|-------|
 |Creator||
 
-**Parent Topic:**[Catalog item generation reference](../reference/catalog-item-generation-reference.md)
+**Parent Topic:**[Catalog item generation reference](catalog-item-generation-reference.md)
 
 **Related topics**  
 

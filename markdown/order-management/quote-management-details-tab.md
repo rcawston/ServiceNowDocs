@@ -29,7 +29,7 @@ Use the Details tab to add more information about your quote, such as addresses 
 
 3.  Fill in the information on the Details tab.
 
-    For more information, see [Quote details forms](../reference/quote-detail-form-fields.md).
+    For more information, see [Quote details forms](quote-detail-form-fields.md).
 
 4.  Select **Save**.
 
@@ -38,5 +38,5 @@ Use the Details tab to add more information about your quote, such as addresses 
 
 [Add products to a quote](quote-management-catalog-tab.md).
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

@@ -45,5 +45,5 @@ With this role, you can:-   Configure Predictive Intelligence Workbench property
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate HR Predictive Intelligence Workbench](../task/activate-HRSD-WB.md)
+</table>**Parent Topic:**[Activate HR Predictive Intelligence Workbench](activate-HRSD-WB.md)
 

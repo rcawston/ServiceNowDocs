@@ -19,7 +19,7 @@ The tables that extend the sync tables are MID Server JAR file \(ecc\_agent\_jar
 
 Use in server scripts to notify MID Servers.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MIDServerFileSync - MIDServerFileSync\(\)
 

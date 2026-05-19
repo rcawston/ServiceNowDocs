@@ -21,9 +21,9 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-To activate the *var.adv-promo-eng*, you also need to install a plugin for ACC-M, which includes Metric Intelligence plugin, as described in [Exploring Agent Client Collector Monitoring](../concept/exploring-agent-client-collector-monitoring.md).
+To activate the *var.adv-promo-eng*, you also need to install a plugin for ACC-M, which includes Metric Intelligence plugin, as described in [Exploring Agent Client Collector Monitoring](../agent-client-collector/exploring-agent-client-collector-monitoring.md).
 
-If you don't plan to use ACC-M, install Metrics Intelligence plugin only, as described in [Get started with Metric Intelligence](../../event-management/task/get-started-metrics.md).
+If you don't plan to use ACC-M, install Metrics Intelligence plugin only, as described in [Get started with Metric Intelligence](get-started-metrics.md).
 
 ## Procedure
 

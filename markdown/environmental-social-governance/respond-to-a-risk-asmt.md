@@ -61,5 +61,5 @@ Role required: sn\_esg.data\_owner
     |**Reassign**|If the assessment must be assigned to someone else, select this option.|
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](../concept/esg-risk-management.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](esg-risk-management.md)
 

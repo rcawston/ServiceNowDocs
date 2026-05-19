@@ -18,32 +18,32 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="jrny-acclrtr-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees, managers, and mentors use Journey Accelerator.](exploring-jny-accelerator.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees, managers, and mentors use Journey Accelerator.](../journey-accelerator/exploring-jny-accelerator.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/install-journey-accelerator.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../journey-accelerator/install-journey-accelerator.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Journey Accelerator capabilities by integrating with other applications.](ja-integrations.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Journey Accelerator capabilities by integrating with other applications.](../journey-accelerator/ja-integrations.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work with journeys.](working-with-journey-accelerator-plans.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work with journeys.](../journey-accelerator/working-with-journey-accelerator-plans.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg) Improve process and track the progress of different journeys.](../task/monitor-journey-accelerator-plans.md)
+[Analytics and Reporting Solutions ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg) Improve process and track the progress of different journeys.](../journey-accelerator/monitor-journey-accelerator-plans.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Get details about components like roles, fields, tables, and properties.](../reference/components-installed-with-journey-accelerator.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Get details about components like roles, fields, tables, and properties.](../journey-accelerator/components-installed-with-journey-accelerator.md)
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

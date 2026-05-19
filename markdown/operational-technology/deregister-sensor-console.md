@@ -34,5 +34,5 @@ Role required: admin
 
 The Sensor is deregistered, and the Sensor is reset to the default network configuration, which is the DHCP with the link-local fallback.
 
-For removing a lost Sensor, see [Remove a lost Sensor](../../operational-technology-discovery/concept/ot-discovery-console-user-guide/task/remove-lost-sensor-console.md).
+For removing a lost Sensor, see [Remove a lost Sensor](remove-lost-sensor-console.md).
 

@@ -140,8 +140,8 @@ Individuals or groups that have an interest in the enterprise portfolio.
 
 9.  In the dialog box, select an existing taxonomy node or create one.
 
-    You can add a parent, child, sibling, or duplicate node. For more information on enterprise taxonomy nodes, see Table 2 in [Navigate portfolio types in Digital Portfolio Management](../concept/dpm-navigating-enterprise-portfolios.md).
+    You can add a parent, child, sibling, or duplicate node. For more information on enterprise taxonomy nodes, see Table 2 in [Navigate portfolio types in Digital Portfolio Management](dpm-navigating-enterprise-portfolios.md).
 
 
-**Parent Topic:**[Enterprise portfolios](../concept/dpm-enterprise-portfolios.md)
+**Parent Topic:**[Enterprise portfolios](dpm-enterprise-portfolios.md)
 

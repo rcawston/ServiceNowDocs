@@ -89,7 +89,7 @@ I can't generate a knowledge article
 
 1.  Verify that Now Assist in Knowledge Management is installed and configured.
 2.  Verify that all Now Assist plugins are up to date.
-3.  Verify that the knowledge generation skill is activated. For details, see [Activate a Now Assist skill](../task/configure-a-now-assist-skill.md).
+3.  Verify that the knowledge generation skill is activated. For details, see [Activate a Now Assist skill](configure-a-now-assist-skill.md).
 4.  Try repairing the plugins.
 
 </td></tr><tr><td>
@@ -126,7 +126,7 @@ Can't access skills in the Now Assist panel
 
 </td><td>
 
--   Verify that the skill is configured to display in the Now Assist panel. For details, see [Edit a Now Assist skill](../task/edit-a-now-assist-skill.md).
+-   Verify that the skill is configured to display in the Now Assist panel. For details, see [Edit a Now Assist skill](edit-a-now-assist-skill.md).
 -   If you are using Now Assist in Virtual Agent, verify that search sources were configured for the Now Assist panel. You can specify search sources for a Now Assist panel assistant when you set it up. Search sources are essential for the Now Assist panel and Virtual Agent. Without them, they cannot discover or rank skills and agentic workflows. For details, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md) and [Assign search sources to a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-info-sources-assistant.md).
 
 If Now Assist in Virtual Agent is not installed, the Now Assist panel uses default search sources.
@@ -142,7 +142,7 @@ Some users don't get a response to a question
 
 </td><td>
 
-Many Now Assist skills require specific user roles. Verify that there are active skills with the user's role. For details, see [Activate a Now Assist skill](../task/configure-a-now-assist-skill.md).
+Many Now Assist skills require specific user roles. Verify that there are active skills with the user's role. For details, see [Activate a Now Assist skill](configure-a-now-assist-skill.md).
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ I don't want skills to be available in Now Assist panel
 
 </td><td>
 
-Disable the Now Assist panel when you configure the skill. For details, see [Edit a Now Assist skill](../task/edit-a-now-assist-skill.md).
+Disable the Now Assist panel when you configure the skill. For details, see [Edit a Now Assist skill](edit-a-now-assist-skill.md).
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Features/skills are missing or generally not working
 
 -   Verify that all of your Now Assist plugins are up to date. For details, see [Install an update to a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallUpdates.md).
 -   Verify that version and dependency requirements are met. For details, see [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md).
--   For skills, verify that they are active in the Now Assist Admin console. For details, see [Activate a Now Assist skill](../task/configure-a-now-assist-skill.md).
+-   For skills, verify that they are active in the Now Assist Admin console. For details, see [Activate a Now Assist skill](configure-a-now-assist-skill.md).
 -   Verify that the user has the correct role for the skill.
 -   Try clearing the cookies and cache in the web browser.
 -   Try repairing Generative AI Controller. For details, see [Repair a ServiceNow application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/repair-app.md).
@@ -221,7 +221,7 @@ Can't edit a skill
 
 Verify that you have the Now Assist Admin role: sn\_nowassist\_admin.nsa\_admin.
 
- You can edit a skill or make a copy of a skill to edit. For details, see [Edit a Now Assist skill](../task/edit-a-now-assist-skill.md) and [Make a copy of a Now Assist skill](../task/make-a-copy-of-a-now-assist-skill.md).
+ You can edit a skill or make a copy of a skill to edit. For details, see [Edit a Now Assist skill](edit-a-now-assist-skill.md) and [Make a copy of a Now Assist skill](make-a-copy-of-a-now-assist-skill.md).
 
 </td></tr><tr><td>
 
@@ -273,7 +273,7 @@ Don't see code suggestions
 
 </td><td>
 
--   Verify that the skill is active. For details, see [Activate a Now Assist skill](../task/configure-a-now-assist-skill.md).
+-   Verify that the skill is active. For details, see [Activate a Now Assist skill](configure-a-now-assist-skill.md).
 -   Verify that the user has the appropriate role. Any authenticated builder can use the related active skill.
 -   Verify that autocomplete is enabled. For details, see [Generate code with autocomplete](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/generate-code-with-autocomplete.md).
 
@@ -300,7 +300,7 @@ Now Assist Skill Kit is not visible on my instance
 
 </td><td>
 
--   Verify that you have at least one Now Assist product installed. For details, see [Install Now Assist plugins](../task/install-now-assist-feature-plugins.md).
+-   Verify that you have at least one Now Assist product installed. For details, see [Install Now Assist plugins](install-now-assist-feature-plugins.md).
 -   Verify that the sn\_skill\_builder.admin role is assigned to the user.
 
 </td></tr><tr><td>

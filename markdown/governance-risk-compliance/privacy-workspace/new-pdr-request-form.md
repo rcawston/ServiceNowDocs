@@ -271,5 +271,5 @@ Additional comments \(Customer visible\)
 Additional information about the case that you want to share with the customers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a Personal Data Rights request](../task/create-a-personal-data-rights-request.md)
+</table>**Parent Topic:**[Create a Personal Data Rights request](create-a-personal-data-rights-request.md)
 

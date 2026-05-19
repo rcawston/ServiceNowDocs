@@ -219,8 +219,8 @@ Lists categories that define the Y-axis of the decision matrix.
 
 </td></tr></tbody>
 </table>
--   **[Decision matrixes](../reference/r_AdministerDecisionMatrixes.md)**  
+-   **[Decision matrixes](r_AdministerDecisionMatrixes.md)**  
 Assessment results obtained by questionnaires and scripted metrics can be mapped to decision matrixes.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

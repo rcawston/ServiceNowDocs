@@ -32,5 +32,5 @@ Role required: admin
 5.  To navigate to the current customer update record from a customized object or an app file, select and hold \(or right-click\) the form header and select **Show latest Update**.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 

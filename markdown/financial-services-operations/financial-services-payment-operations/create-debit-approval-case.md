@@ -41,7 +41,7 @@ Role required: sn\_bom\_payment.claim\_agent or sn\_bom\_payment.claim\_agent\_c
     -   Debit customer or Debit account
     -   Debit financial account
     -   Receiving transaction
-    For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+    For information on the Claim form field descriptions, see [Field descriptions for a claim case](claim-form-fields.md).
 
 6.  Click **Create Debit Approval**.
 

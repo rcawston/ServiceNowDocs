@@ -13,7 +13,7 @@ breadcrumb: [Using Field Encryption, Field Encryption, Encryption]
 
 These examples walk you through the encryption of fields and attachments using customer-supplied keys.
 
-**Parent Topic:**[Using Field Encryption](../../encryption/concept/using-column-level-encryption.md)
+**Parent Topic:**[Using Field Encryption](using-column-level-encryption.md)
 
 ## Field Encryption Enterprise walkthrough
 
@@ -21,11 +21,11 @@ This walkthrough shows you how to encrypt a field in your instance using Field E
 
 ### Before you begin
 
-**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_kmf.admin
 
-**Note:** security\_admin is a privileged role, for details on using privileged roles, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+**Note:** security\_admin is a privileged role, for details on using privileged roles, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md)
 
 ### About this task
 
@@ -35,13 +35,13 @@ After the key has been stored in a cryptographic module, you can start configuri
 
 This task demonstrates two scenarios. One example encrypts the **Short Description** field in an Incident for users who are not authorized to view the sensitive data.
 
-Attachments can also be encrypted and only visible to users who are granted access, or is visible to all users that are not restricted from viewing the data. See [Attachment encryption walkthrough](../task/attachment-encryption-walkthrough.md) to encrypt an attachment.
+Attachments can also be encrypted and only visible to users who are granted access, or is visible to all users that are not restricted from viewing the data. See [Attachment encryption walkthrough](attachment-encryption-walkthrough.md) to encrypt an attachment.
 
 ### Procedure
 
 1.  Create a cryptographic module for column\_level\_encryption.
 
-    See [Create cryptographic module for Field Encryption](../task/create-PE-cryptographic-module.md) [Create a cryptographic module](../task/create-cryptographic-module.md) for more information.
+    See [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md) [Create a cryptographic module](platform-encryption/create-cryptographic-module.md) for more information.
 
 2.  Select **View module details** for the module you created.
 
@@ -65,7 +65,7 @@ Attachments can also be encrypted and only visible to users who are granted acce
 
 6.  Click **Save**.
 
-    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. See [Create a module access policy](../task/create-module-access-policy.md) for additional information.
+    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. See [Create a module access policy](platform-encryption/create-module-access-policy.md) for additional information.
 
 7.  Select **Access Policies** to set up the MAP.
 
@@ -111,7 +111,7 @@ This walkthrough shows you how to encrypt an attachment in your instance using F
 
 ### Before you begin
 
-**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](../../now-platform-encryption/task/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
+**Note:** This procedure only applies to Field Encryption Enterprise functionality. See [Activate Field Encryption](activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 Role required: sn\_kmf.cryptographic\_manager
 
@@ -131,7 +131,7 @@ We show you how to encrypt attachments to only be visible to users who are grant
 
 2.  Create a cryptographic module.
 
-    See [Create cryptographic module for Field Encryption](../task/create-PE-cryptographic-module.md) for more information.
+    See [Create cryptographic module for Field Encryption](create-PE-cryptographic-module.md) for more information.
 
 3.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
@@ -230,7 +230,7 @@ The **Single Module** option is used to apply the policies for one module. **Mul
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
-    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. Refer to [Create a module access policy](../task/create-module-access-policy.md) for additional information.
+    Establish a Module Access Policy \(MAP\) to assign access to the cryptographic module. Refer to [Create a module access policy](platform-encryption/create-module-access-policy.md) for additional information.
 
 8.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies**.
 

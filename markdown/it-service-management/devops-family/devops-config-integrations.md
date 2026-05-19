@@ -41,5 +41,5 @@ Set up change acceleration in your pipeline.
 
 In DevOps Change Velocity, navigate to **DevOps** &gt; **Orchestrate** &gt; **Pipeline Change Requests** to view and approve DevOps change requests created by DevOps Config changes.
 
-See [Accelerating your DevOps change process](../../enterprise-dev-ops/concept/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
+See [Accelerating your DevOps change process](../devops-change-velocity/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
 

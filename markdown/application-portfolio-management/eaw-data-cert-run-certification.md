@@ -38,7 +38,7 @@ Role required: sn\_apm.apm\_analyst
 6.  Select the Track progress link or select the Track progress tab to see the status.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 
 **Related topics**  
 

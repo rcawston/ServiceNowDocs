@@ -15,7 +15,7 @@ breadcrumb: [Discovery probes and sensors, Using Discovery, Discovery, ITOM Visi
 
 Multiprobes contain one or more simple probes configured to extract specific information from manageable devices by executing multiple queries with a single authentication.
 
-You can schedule multiprobes to run any time in the discovery process to make exploration more efficient. One common use for multiprobes is as [identity probes](../concept/c_HowDiscoveryIdentifiersWork.md). Identity probes ask a device for information such as its name and serial number, and then use the results of those queries to update existing CIs in the CMDB.
+You can schedule multiprobes to run any time in the discovery process to make exploration more efficient. One common use for multiprobes is as [identity probes](c_HowDiscoveryIdentifiersWork.md). Identity probes ask a device for information such as its name and serial number, and then use the results of those queries to update existing CIs in the CMDB.
 
 To process the data returned from a multiprobe, you must create multisensors, which run scripts that process the data returned by the multiprobes. Multisensors typically use the same name as their corresponding multiprobes.
 
@@ -247,7 +247,7 @@ Windows - Storage 2012
 </td></tr></tbody>
 </table>**Note:** † This probe requires the installation of a command line tool from Oracle called SNEEP. To download and install this tool, log in to the [Oracle website](https://docs.oracle.com/cd/E35557_01/doc.81/e35226/ch3_sneep.htm). After this tool is installed, the **Solaris - Serial Number** probe runs automatically when Discovery detects a Solaris device. For Fujitsu PRIMEPOWER devices, you must run this probe with root credentials.
 
-**Parent Topic:**[Discovery probes and sensors](../concept/c_DiscoveryProbesAndSensors.md)
+**Parent Topic:**[Discovery probes and sensors](c_DiscoveryProbesAndSensors.md)
 
 ## Add a simple probe to a multiprobe
 

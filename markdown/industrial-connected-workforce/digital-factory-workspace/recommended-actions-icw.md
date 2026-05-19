@@ -34,5 +34,5 @@ The following use cases are currently supported and configured:
     You can view knowledge articles that are linked to an IGT standard from within the task form.
 
 
-**Parent Topic:**[Exploring Digital Factory Workspace](../../icw-digital-factory-workspace/concept/exploring-digital-factory-workspace.md)
+**Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)
 

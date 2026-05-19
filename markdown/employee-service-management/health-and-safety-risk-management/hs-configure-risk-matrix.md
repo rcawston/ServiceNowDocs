@@ -47,7 +47,7 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 
     3.  Configure your risk tolerance levels.​
 
-    For more information about field descriptions, see [Risk matrix form](../reference/hs-risk-matrix-form.md).
+    For more information about field descriptions, see [Risk matrix form](hs-risk-matrix-form.md).
 
 6.  In the **Risk matrix preview** section, preview a visual representation of the configured risk matrix.
 
@@ -65,5 +65,5 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 
 ![An example 5*5 risk matrix showing likelihood and severity values, risk tolerance levels, and the heatmap of the risk matrix.](../image/hs-risk-matrix-example.png)
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](hs-setting-up-risk-mgmt.md)
 

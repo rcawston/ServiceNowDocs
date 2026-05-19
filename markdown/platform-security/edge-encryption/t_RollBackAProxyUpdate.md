@@ -40,5 +40,5 @@ If you would like to roll back a manual upgrade, you can follow these steps.
 5.  Check the proxy log and the instance to verify that the proxy is online.
 
 
-**Parent Topic:**[Upgrading Edge Encryption](../concept/c_UpdateEdgeEncryptionProxy.md)
+**Parent Topic:**[Upgrading Edge Encryption](c_UpdateEdgeEncryptionProxy.md)
 

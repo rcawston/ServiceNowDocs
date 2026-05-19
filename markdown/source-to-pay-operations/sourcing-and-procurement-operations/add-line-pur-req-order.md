@@ -338,5 +338,5 @@ Enter additional comments if any.
     A confirmation message screen appears.
 
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
 

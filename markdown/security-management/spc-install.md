@@ -51,12 +51,12 @@ Role required: admin for download, installation, and activation of all applicati
     |------|---------|
     |ServiceNow IntergationHub Action Template - Data Stream|com.glide.hub.action\_type.datastream|
 
-    See [Creating your own API connectors in Security Posture Control](../concept/spc-creating-sgc-template.md) for more information.
+    See [Creating your own API connectors in Security Posture Control](spc-creating-sgc-template.md) for more information.
 
     For more information about downloading and activating applications, see the following topics:
 
-    -   [Download an application from the ServiceNow Store for the first time](../../security-incident-response/reference/download-app-first-time.md).
-    -   [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+    -   [Download an application from the ServiceNow Store for the first time](download-app-first-time.md).
+    -   [Activate a ServiceNow Store application](activate-entitled-store-app.md).
 2.  After you have downloaded the applications, navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 3.  Locate the applications that you downloaded and select **Install** to activate them along with their dependencies.
@@ -99,7 +99,7 @@ Role required: admin for download, installation, and activation of all applicati
 
 6.  Set the **ignoreCIClass** \[sn\_sec\_cmn.ignoreCIClass\] system property to ignore some configuration item \(CI\) classes when running CI Lookup Rules.
 
-    As an SPC Admin and SPC Analyst, you might need to ignore certain hardware or virtual classes so that you do not ingest information about assets you do not want to control. See [Create a Vulnerability Response CI lookup rule](../../security-operations-common/task/create-ci-identifier-rules.md) and [Ignore CI classes](../../security-operations-common/task/ignore-CI-classes.md) for more information.
+    As an SPC Admin and SPC Analyst, you might need to ignore certain hardware or virtual classes so that you do not ingest information about assets you do not want to control. See [Create a Vulnerability Response CI lookup rule](vulnerability-response/create-ci-identifier-rules.md) and [Ignore CI classes](vulnerability-response/ignore-CI-classes.md) for more information.
 
 7.  Modify reconcilation and recompute CMDB data sources to set the source of truth for attribute values.
 

@@ -26,7 +26,7 @@ Software counters return results by Licensing Type:
 -   Not entitled: Number of people using an unauthorized copy of the software.
 -   Not allocated: Number of licenses not assigned.
 
-**Note:** For information about the scheduled job that runs all counters each day or the steps to run all counters manually, see [Scheduling Software Counts](../task/t_ScheduleASoftwareCount.md).
+**Note:** For information about the scheduled job that runs all counters each day or the steps to run all counters manually, see [Scheduling Software Counts](t_ScheduleASoftwareCount.md).
 
 The Software Counters list is color coded:
 

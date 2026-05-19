@@ -37,7 +37,7 @@ An approval definition is a set of rules that specify how tasks will be approved
     -   To modify an existing approval definition, open the approval definition from the list.
 5.  On the form, fill in the fields.
 
-    For more information on approval definition field descriptions, see [Approval definition form](../reference/approval-definition-form.md).
+    For more information on approval definition field descriptions, see [Approval definition form](approval-definition-form.md).
 
 6.  Select **Submit**.
 

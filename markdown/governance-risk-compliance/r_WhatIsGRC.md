@@ -16,55 +16,55 @@ Respond to business risks in real time. Connect security and IT with an integrat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[AI Risk and Compliance![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
+[AI Risk and Compliance![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](ai-risk-management/ai-risk-and-compliance.md)
 
 </td><td>
 
-[Audit Management ![](../image/app-audit-mgt.svg)Use risk data to scope and prioritize audit plans and automate cross-functional processes.](../../grc-audit/concept/c_GRCAudits.md)
+[Audit Management ![](../image/app-audit-mgt.svg)Use risk data to scope and prioritize audit plans and automate cross-functional processes.](audit-management/c_GRCAudits.md)
 
 </td><td>
 
-[Business Continuity Management ![](../image/app-bcm.svg)Plan, exercise, and recover from disasters effectively and efficiently.](../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
+[Business Continuity Management ![](../image/app-bcm.svg)Plan, exercise, and recover from disasters effectively and efficiently.](business-continuity-mangmt-overview.md)
 
 </td></tr><tr><td>
 
-[Compliance Case Management ![](../image/app-ccm.svg)Report, investigate, analyze, and resolve compliance cases.](../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
+[Compliance Case Management ![](../image/app-ccm.svg)Report, investigate, analyze, and resolve compliance cases.](compliance-case-management/compliance-case-management.md)
 
 </td><td>
 
-[Continuous Authorization and Monitoring ![](../image/app-cam.svg)Accelerate the process of bringing IT systems online and continuously monitoring them.](../../grc-cam/reference/grc-cam-landing-page.md)
+[Continuous Authorization and Monitoring ![](../image/app-cam.svg)Accelerate the process of bringing IT systems online and continuously monitoring them.](continuous-risk-monitoring/grc-cam-landing-page.md)
 
 </td><td>
 
-[Operational Resilience ![](../image/app-op-res.svg)Gain real-time visibility into the resilience of your technology, people, processes, and facilities.](../../grc-operational-res/reference/grc-opres-landing-page.md)
+[Operational Resilience ![](../image/app-op-res.svg)Gain real-time visibility into the resilience of your technology, people, processes, and facilities.](grc-opres-landing-page.md)
 
 </td></tr><tr><td>
 
-[Policy and Compliance Management ![](../image/app-policy-compliance-mgt.svg)Automate and manage policy life-cycles and continuously monitor for compliance.](../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
+[Policy and Compliance Management ![](../image/app-policy-compliance-mgt.svg)Automate and manage policy life-cycles and continuously monitor for compliance.](policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 
 </td><td>
 
-[Privacy Management ![](../image/app-privacy-mgt.svg)Manage privacy risk and compliance across the enterprise in real time.](../../grc-privacy-management/concept/privacy-management.md)
+[Privacy Management ![](../image/app-privacy-mgt.svg)Manage privacy risk and compliance across the enterprise in real time.](privacy-workspace/privacy-management.md)
 
 </td><td>
 
-[Regulatory Change Management ![](../image/app-rcm.svg)Keep pace with today's complex regulatory landscape with integration to leading content providers.](../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
+[Regulatory Change Management ![](../image/app-rcm.svg)Keep pace with today's complex regulatory landscape with integration to leading content providers.](regulatory-change-management-service-portal/reg-change-mgmt-landing-page.md)
 
 </td></tr><tr><td>
 
-[Risk Management![](../image/app-risk-mgt.svg) Enable fine-grained business impact analysis to appropriately prioritize and respond to risks.](../../grc-risk/concept/grc-risk-overview.md)
+[Risk Management![](../image/app-risk-mgt.svg) Enable fine-grained business impact analysis to appropriately prioritize and respond to risks.](grc-risk-management-workspace/grc-risk-overview.md)
 
 </td><td>
 
-[Smart Assessment Engine![](../image/app-sae.svg)Reduce the manual burden and costs of your risk assessment processes through automation.](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
+[Smart Assessment Engine![](../image/app-sae.svg)Reduce the manual burden and costs of your risk assessment processes through automation.](smart-assessment-engine/smart-asmnt-engine-landing-page.md)
 
 </td><td>
 
-[Third-party Risk Management ![](../image/app-tprm.svg)Continuously monitor, detect, assess, mitigate, and remediate risks in third-party ecosystems.](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
+[Third-party Risk Management ![](../image/app-tprm.svg)Continuously monitor, detect, assess, mitigate, and remediate risks in third-party ecosystems.](third-party-risk-management/third-party-risk-mgt-landing-page.md)
 
 </td></tr><tr><td>
 
-Common GRC features[![](../image/app-grc-core.svg)Leverage the power of entities, 360 degree views, the tasks landing page, and security features across GRC products.](../concept/common-grc-features.md)
+Common GRC features[![](../image/app-grc-core.svg)Leverage the power of entities, 360 degree views, the tasks landing page, and security features across GRC products.](grc-common-functions/common-grc-features.md)
 
 </td><td>
 
@@ -189,18 +189,18 @@ By aligning Vendor Risk Management with overall enterprise risk management prior
 
 ## Applications and features
 
--   [AI Risk and Compliance](../../grc-ai-risk-compliance/reference/ai-risk-and-compliance.md)
--   [Audit Management](../../grc-audit/concept/c_GRCAudits.md)
--   [Business Continuity Management](../../grc-business-continuity-management/concept/business-continuity-mangmt-overview.md)
--   [Compliance Case Management](../../grc-compliance-case-mgmt/concept/compliance-case-management.md)
--   [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md)
--   [Operational Resilience](../../grc-operational-res/reference/grc-opres-landing-page.md)
--   [Policy and Compliance Management](../../grc-policy-and-compliance/reference/r_PolicyComplianceMgmt.md)
--   [Privacy Management](../../grc-privacy-management/concept/privacy-management.md)
--   [Regulatory Change Management](../../grc-rcm/reference/reg-change-mgmt-landing-page.md)
--   [Risk Management](../../grc-risk/concept/grc-risk-overview.md)
--   [Smart Assessment Engine](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md)
--   [Third-party Risk Management](../../grc-vendor-risk/concept/third-party-risk-mgt-landing-page.md)
--   [GRC and the ServiceNow Store](../concept/grc-and-store.md)
--   [Common GRC Features](../concept/common-grc-features.md)
+-   [AI Risk and Compliance](ai-risk-management/ai-risk-and-compliance.md)
+-   [Audit Management](audit-management/c_GRCAudits.md)
+-   [Business Continuity Management](business-continuity-mangmt-overview.md)
+-   [Compliance Case Management](compliance-case-management/compliance-case-management.md)
+-   [Continuous Authorization and Monitoring](continuous-risk-monitoring/grc-cam-landing-page.md)
+-   [Operational Resilience](grc-opres-landing-page.md)
+-   [Policy and Compliance Management](policy-and-compliance-management/r_PolicyComplianceMgmt.md)
+-   [Privacy Management](privacy-workspace/privacy-management.md)
+-   [Regulatory Change Management](regulatory-change-management-service-portal/reg-change-mgmt-landing-page.md)
+-   [Risk Management](grc-risk-management-workspace/grc-risk-overview.md)
+-   [Smart Assessment Engine](smart-assessment-engine/smart-asmnt-engine-landing-page.md)
+-   [Third-party Risk Management](third-party-risk-management/third-party-risk-mgt-landing-page.md)
+-   [GRC and the ServiceNow Store](grc-and-store.md)
+-   [Common GRC Features](grc-common-functions/common-grc-features.md)
 

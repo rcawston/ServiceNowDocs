@@ -132,66 +132,66 @@ Highlights the most relevant content for the employee. It is based on popularity
 admin, sp\_admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Employee Center reference](../reference/emp-center-reference.md)
+</table>**Parent Topic:**[Employee Center reference](emp-center-reference.md)
 
 **Related topics**  
 
 
-[Activity Configuration form](../reference/ec-activity-configuration-form.md)
+[Activity Configuration form](ec-activity-configuration-form.md)
 
-[Activity Configuration Detail form](../reference/activity-configuration-detail-form.md)
+[Activity Configuration Detail form](activity-configuration-detail-form.md)
 
-[Approvals experience reference](../reference/approval-hub-ootb.md)
+[Approvals experience reference](approval-hub-ootb.md)
 
-[Connected Content form](../reference/connected-content-form.md)
+[Connected Content form](connected-content-form.md)
 
-[Default Employee Profile Header Configuration record](../reference/default-profile-header.md)
+[Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Profile form](../reference/employee-profile-fieldconfig.md)
+[Employee Profile form](employee-profile-fieldconfig.md)
 
-[Employee Profile Header Configuration form](../reference/profile-header-config-form.md)
+[Employee Profile Header Configuration form](profile-header-config-form.md)
 
-[Employee Profile portal configuration form](../reference/profile-portal-config-form.md)
+[Employee Profile portal configuration form](profile-portal-config-form.md)
 
-[Employee Profile upgrade scenarios](../reference/emp-profile-upgrade.md)
+[Employee Profile upgrade scenarios](emp-profile-upgrade.md)
 
-[Enhanced Requests Experience forms](../reference/req-concept-ec.md)
+[Enhanced Requests Experience forms](req-concept-ec.md)
 
-[External Link form](../reference/external-link-form.md)
+[External Link form](external-link-form.md)
 
-[Featured Content form](../reference/featured-content-form.md)
+[Featured Content form](featured-content-form.md)
 
-[Footer form](../reference/ec-footer-form.md)
+[Footer form](ec-footer-form.md)
 
-[Footer Menus form](../reference/ec-footer-menus.md)
+[Footer Menus form](ec-footer-menus.md)
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](gss-guided-self-service-reference-info.md)
 
-[Menu Item form](../reference/menu-item-form.md)
+[Menu Item form](menu-item-form.md)
 
-[Overview section form](../reference/profile-overview-section-form.md)
+[Overview section form](profile-overview-section-form.md)
 
-[Portal notification configuration form](../reference/portal-notif-config-form.md)
+[Portal notification configuration form](portal-notif-config-form.md)
 
-[Portal notification content form](../reference/notif-content-form.md)
+[Portal notification content form](notif-content-form.md)
 
-[Trigger conditions form](../reference/notif-trigger-form.md)
+[Trigger conditions form](notif-trigger-form.md)
 
-[Quick Link form](../reference/ec-quick-link-form.md)
+[Quick Link form](ec-quick-link-form.md)
 
-[Tab widget mapping form](../reference/tab-widget-mapping-form.md)
+[Tab widget mapping form](tab-widget-mapping-form.md)
 
-[Taxonomy form](../reference/taxonomy-form.md)
+[Taxonomy form](taxonomy-form.md)
 
-[Topic form](../reference/topic-form.md)
+[Topic form](topic-form.md)
 
-[User Criteria form](../reference/ec-user-criteria-form.md)
+[User Criteria form](ec-user-criteria-form.md)
 
-[User Criteria output](../reference/user-criteria-output.md)
+[User Criteria output](user-criteria-output.md)
 
-[Schedule appointment form](../reference/schedule-appointment-form.md)
+[Schedule appointment form](schedule-appointment-form.md)
 
-[Location Consent form](../reference/location-consent-form.md)
+[Location Consent form](location-consent-form.md)
 
-[Website configuration form](../reference/config-website-form.md)
+[Website configuration form](config-website-form.md)
 

@@ -69,5 +69,5 @@ Role that is part of the Entity Based Access application.Assign this role to use
 |sn\_grc\_reg\_change.user|Regulatory change management user. This role is excluded from the Entity Based Access configuration.|
 |sn\_ai\_governance.ai\_steward|The AI steward role. This role is excluded from the Entity Based Access configuration.|
 
-**Parent Topic:**[Entity Based Access](../concept/entity-based-access.md)
+**Parent Topic:**[Entity Based Access](entity-based-access.md)
 

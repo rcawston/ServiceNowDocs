@@ -29,7 +29,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 5.  On the corrective action form, fill in the fields.
 
-    For a description of the field values, see [Corrective action form](../reference/mco-corrective-action-form.md).
+    For a description of the field values, see [Corrective action form](mco-corrective-action-form.md).
 
 6.  Select **Save**.
 
@@ -45,5 +45,5 @@ Create correction action charges to enable the expenses incurred to address a no
 -   **[Generate a part requirement](mco-part-requirements.md)**  
 Capture all the part requirements at the campaign level.
 
-**Parent Topic:**[Related lists for my campaigns](../concept/mco-related-list-for-my-campaigns.md)
+**Parent Topic:**[Related lists for my campaigns](mco-related-list-for-my-campaigns.md)
 

@@ -41,11 +41,11 @@ When the product offerings and services available to customers vary based on loc
 
     For details on how agents add products to an opportunity, quote, or order by location, see the following:
 
-    -   [Use location filter to add opportunity line items](../task/use_location_filter_to_add_line_items.md).
-    -   [Copy opportunity line items to a location](../task/copy_opportunity_line_items_to_a_location.md).
-    -   [Filter catalogs by location in a quote](../task/quote-using-product-location.md).
-    -   [Copy locations for quote line items](../task/quote-mgt-copy-quote-item-location.md).
-    -   [Filter product catalog by location](../task/order-mgt-filter-catalog-by-location.md).
+    -   [Use location filter to add opportunity line items](use_location_filter_to_add_line_items.md).
+    -   [Copy opportunity line items to a location](copy_opportunity_line_items_to_a_location.md).
+    -   [Filter catalogs by location in a quote](quote-using-product-location.md).
+    -   [Copy locations for quote line items](quote-mgt-copy-quote-item-location.md).
+    -   [Filter product catalog by location](order-mgt-filter-catalog-by-location.md).
 
 ## Setting up location-based transactions
 
@@ -53,11 +53,11 @@ Admins and product catalog admins complete the following configuration tasks to 
 
 |Step|Description|Role|
 |----|-----------|----|
-|[Activate location-based transactions](../task/som-activate-location-filter.md)|Enable the **sn\_sales\_common.enable\_location\_based\_transactions** system property.|Admin|
-|[Create rule entity filters](../task/som-create-rule-entity-filter.md)|Define the rule entity filters that make catalogs, categories, and product offerings either eligible or ineligible for display.|Product catalog admin|
-|[Define product eligibility rules](../task/som-define-eligibility-rules.md)|Set the product eligibility rules by selecting the context variables, such as the service location context variables, that control the display of product catalog, category, or offerings.|Product catalog admin|
+|[Activate location-based transactions](som-activate-location-filter.md)|Enable the **sn\_sales\_common.enable\_location\_based\_transactions** system property.|Admin|
+|[Create rule entity filters](som-create-rule-entity-filter.md)|Define the rule entity filters that make catalogs, categories, and product offerings either eligible or ineligible for display.|Product catalog admin|
+|[Define product eligibility rules](som-define-eligibility-rules.md)|Set the product eligibility rules by selecting the context variables, such as the service location context variables, that control the display of product catalog, category, or offerings.|Product catalog admin|
 
--   **[Activate location-based transactions](../task/som-activate-location-filter.md)**  
+-   **[Activate location-based transactions](som-activate-location-filter.md)**  
 Turn on location-based transactions for opportunities, quotes, and orders by using the **sn\_sales\_common.enable\_location\_based\_transactions** system property.
 
 **Parent Topic:**[Configuring agent tools in Sales Customer Relationship Management](som-agent-tools.md)

@@ -46,5 +46,5 @@ Role required: admin
 9.  Select and hold \(or right-click\) in the header and select **Save** from the menu.
 
 
-**Parent Topic:**[User criteria permissions in mobile apps](../concept/user-criteria-permissions.md)
+**Parent Topic:**[User criteria permissions in mobile apps](user-criteria-permissions.md)
 

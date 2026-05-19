@@ -131,5 +131,5 @@ Configure the Export to PowerPoint add-in in your Microsoft PowerPoint to intera
     **Note:** The Export to PowerPoint for Strategic Portfolio Management application comes with default templates which you can use to generate reports and consider as a reference to create templates.
 
 
-**Parent Topic:**[Using Export to PowerPoint](../concept/using-export-to-ppt.md)
+**Parent Topic:**[Using Export to PowerPoint](using-export-to-ppt.md)
 

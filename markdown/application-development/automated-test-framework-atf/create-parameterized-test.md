@@ -59,5 +59,5 @@ Role required: atf\_test\_admin, atf\_test\_designer, or admin
 
 [Add a parameter to a test step](add-parameterized-value-to-step.md)
 
-**Parent Topic:**[Parameterized tests](../concept/parameterized-tests.md)
+**Parent Topic:**[Parameterized tests](parameterized-tests.md)
 

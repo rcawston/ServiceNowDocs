@@ -34,7 +34,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 The contract state changes to Canceled.
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](manage-contracts-from-core-ui.md)
 
 **Related topics**  
 

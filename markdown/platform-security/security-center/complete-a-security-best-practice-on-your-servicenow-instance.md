@@ -54,5 +54,5 @@ Complete the following steps to implement security best practices on your Servic
     You can complete a security best practice at any time. You don’t have to complete all the steps and it’s ok if you skip them. However, consider inserting a comment in the Activity subtab when completing a security best practice when you have not completed all the steps for an audit reference.
 
 
-**Parent Topic:**[Security Best Practices](../concept/security-best-practices-manager.md)
+**Parent Topic:**[Security Best Practices](security-best-practices-manager.md)
 

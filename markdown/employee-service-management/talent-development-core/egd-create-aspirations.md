@@ -58,5 +58,5 @@ Role required: None
 
 You can create a **Growth Plan** from your **Aspiration**. For details about creating growth plans, see [Create a growth plan](egd-create-growth-plan.md)
 
-**Parent Topic:**[Using the Talent Development Core application](../concept/egd-use.md)
+**Parent Topic:**[Using the Talent Development Core application](egd-use.md)
 

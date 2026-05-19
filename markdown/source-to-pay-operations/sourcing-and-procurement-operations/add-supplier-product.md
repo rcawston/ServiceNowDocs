@@ -233,7 +233,7 @@ Countries where the suppliers can deliver the product.
     |Purchasing time in days|Estimated number of days to complete the purchase requisition and create a purchase order.|
     |Shipping time in days|Estimated number of days to ship the product to the delivery location.|
 
-    For more information, see [Lead time calculations](../reference/lead-time-calculations.md).
+    For more information, see [Lead time calculations](lead-time-calculations.md).
 
 7.  Select **Submit**.
 

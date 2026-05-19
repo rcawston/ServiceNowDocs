@@ -33,14 +33,14 @@ Some key features of Process Mining are listed in this topic.
 
 -   **Easy collaboration and sharing**
 
-    Share projects with stakeholders and collaborate with notes and screenshots within a project. For more information on sharing projects, see [Share a Process Mining project](../task/share-project.md). For more information on creating notes, see [Adding notes to a project](annotate-project.md#).
+    Share projects with stakeholders and collaborate with notes and screenshots within a project. For more information on sharing projects, see [Share a Process Mining project](share-project.md). For more information on creating notes, see [Adding notes to a project](annotate-project.md#).
 
 -   **Integrated continual optimization**
 
     Create and view statuses of improvement initiatives. For more information, see [Integration with Continual Improvement Management](integrate-with-continuous-i.md#).
 
 -   **Integration with Performance Analytics and Benchmarks**
-    -   Analyze low-performing [indicators](../../../use/performance-analytics/concept/performance-analytics-glossary.md#) for root cause analysis with Performance Analytics integration. For more information, see [Integration with indicator data sources \(PA\)](integrate-pa.md#).
+    -   Analyze low-performing [indicators](../performance-analytics/performance-analytics-glossary.md#) for root cause analysis with Performance Analytics integration. For more information, see [Integration with indicator data sources \(PA\)](integrate-pa.md#).
     -   Use best practice-based implementation. Predefined ITSM Process Mining projects and improvement initiatives provide you with faster time to value. For more information, see [Content pack for ITSM](itsm-proc-opti-content-pack.md).
 -   **Compare processes**
 
@@ -48,7 +48,7 @@ Some key features of Process Mining are listed in this topic.
 
 -   **Multi-dimensional processes**
 
-    Multi-dimensional processes refer to mining a hierarchy of tables. It’s a multi-table mining. It’s used for a more comprehensive view into process dependencies. For more information, [Configure multi-dimensional mining](../task/configure-multidimensional-mining.md).
+    Multi-dimensional processes refer to mining a hierarchy of tables. It’s a multi-table mining. It’s used for a more comprehensive view into process dependencies. For more information, [Configure multi-dimensional mining](configure-multidimensional-mining.md).
 
 -   **Bottleneck analysis**
 

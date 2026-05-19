@@ -115,5 +115,5 @@ Security tag rules provide filtering for security tag access.
 -   **[Import security tag rules](import-security-tag-rules.md)**  
 You can import security tag rules from other tables in your deployment.
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 

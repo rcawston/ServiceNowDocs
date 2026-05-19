@@ -116,5 +116,5 @@ Set a schedule to retrieve the incident data and ingest Symantec DLP incidents t
 -   **[Mapping Symantec DLP incident statuses with ServiceNow incident Status](map-symantec-dlp.md)**  
 Synchronize the status of the DLP incidents ingested on the ServiceNow with the DLP incidents of the Symantec. Map the **ServiceNow Incident Status** field with the **Symantec Incident Status** field.
 
-**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](../concept/symantec-dlp-integration.md)
+**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](symantec-dlp-integration.md)
 

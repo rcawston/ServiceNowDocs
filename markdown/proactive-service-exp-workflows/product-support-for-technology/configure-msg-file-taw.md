@@ -36,5 +36,5 @@ Each subflow in Proactive Service Experience Workflows references a message file
 5.  Select **Update**.
 
 
-**Parent Topic:**[About messages used in escalation workflows in Proactive Service Experience Workflows](../concept/psew-about-msgs.md)
+**Parent Topic:**[About messages used in escalation workflows in Proactive Service Experience Workflows](psew-about-msgs.md)
 

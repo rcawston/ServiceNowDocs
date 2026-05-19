@@ -102,5 +102,5 @@ For Touchpoints, the Email message must contain the required fields:
 -   If the validation passes, a record is created in the touchpoint and you receive a success email with the link to the created record.
 -   The emails are prepared and pushed to the outbound queue where they’re scheduled to be sent.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

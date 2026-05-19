@@ -56,5 +56,5 @@ Note: If you have custom event types and flows for intraday optimization, migrat
 **Related topics**  
 
 
-[Schedule Optimization properties](../reference/schedule-optimization-properties.md)
+[Schedule Optimization properties](../schedule-optimization-properties.md)
 

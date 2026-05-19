@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-Hybrid search combines traditional keyword-based search with AI-powered semantic understanding. When hybrid search mode is on, it processes keywords and comprehends the meaning and context of your query, which delivers more accurate and comprehensive results. For more information, see [Hybrid search in AI Search](../concept/hybrid-search-ais.md).
+Hybrid search combines traditional keyword-based search with AI-powered semantic understanding. When hybrid search mode is on, it processes keywords and comprehends the meaning and context of your query, which delivers more accurate and comprehensive results. For more information, see [Hybrid search in AI Search](hybrid-search-ais.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ Hybrid search combines traditional keyword-based search with AI-powered semantic
 
 Hybrid search mode is updated for the selected application.
 
-**Parent Topic:**[Using AI Search Admin console](../concept/using-ais-admin-console.md)
+**Parent Topic:**[Using AI Search Admin console](using-ais-admin-console.md)
 

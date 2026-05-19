@@ -17,7 +17,7 @@ As a manager, view a list of tasks assigned to your team members and reassign th
 
 ## Before you begin
 
-To access this content, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../emergency-self-report/emergency-self-report.md) application installed.
 
 Role required: none
 
@@ -46,7 +46,7 @@ From the Safe Workplace for mobile app, users can access applications from the E
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](mobile-emergency-response.md)
 

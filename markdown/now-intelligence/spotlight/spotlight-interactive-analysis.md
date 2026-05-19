@@ -19,7 +19,7 @@ To open the Spotlight interactive analysis, open the Spotlight Group record for 
 
 **Note:** Interactive analysis uses the Spotlight database view. Spotlight creates the database view for each Spotlight group when you create the group. If the database view is missing, a warning appears. If you have the pa\_spotlight or admin roles, a link also appears for generating a database view. For more information, see [Spotlight database views](spotlight-analyzing-data.md).
 
-Using interactive analysis with any table other than incident requires fully enabled, subscription version of Performance Analytics. See [Activating your Performance Analytics subscription](c_PremiumPerformanceAnalytics.md#).
+Using interactive analysis with any table other than incident requires fully enabled, subscription version of Performance Analytics. See [Activating your Performance Analytics subscription](../performance-analytics/c_PremiumPerformanceAnalytics.md#).
 
 Interactive Analysis contains the following information:
 
@@ -43,11 +43,11 @@ You can apply interactive filters to the analysis. The following filters are ava
 -   The **Assignment Group** \(tasks only\)
 -   The **State** that the record is in
 
-For information about adding or removing any of these filters, see [Add a filter to Interactive Analysis](../../dashboards/task/add-filter-to-ia.md) and [Remove a filter from Interactive Analysis](../../dashboards/task/remove-filter-from-ia.md).
+For information about adding or removing any of these filters, see [Add a filter to Interactive Analysis](../performance-analytics/add-filter-to-ia.md) and [Remove a filter from Interactive Analysis](../performance-analytics/remove-filter-from-ia.md).
 
 **Note:** If you create an interactive filter for a Spotlight interactive analysis, the filter must be created on top of the relevant Spotlight database view. The admin role is necessary to access the database view. If you do not have this role, contact your system administrator.
 
-To share the interactive analysis, share the URL from the Filter Info. The user with whom you share the interactive analysis must have the pa\_spotlight\_viewer role. For more information about the Filter Info, see [Interactive Analysis information panel](../../dashboards/concept/interactive-analysis-info-panel.md#).
+To share the interactive analysis, share the URL from the Filter Info. The user with whom you share the interactive analysis must have the pa\_spotlight\_viewer role. For more information about the Filter Info, see [Interactive Analysis information panel](../performance-analytics/interactive-analysis-info-panel.md#).
 
 **Parent Topic:**[Ranking records with Spotlight](spotlight.md)
 

@@ -48,9 +48,9 @@ These pages are mandatory if you plan on accessing system data. For example, if 
 
 ## New templates
 
-If the base system sample site pages are not suitable, you can create a template from scratch. Create a page and then use it as a template. For more information, see [Create a Content Page](../task/t_CreateAContentPage.md).
+If the base system sample site pages are not suitable, you can create a template from scratch. Create a page and then use it as a template. For more information, see [Create a Content Page](t_CreateAContentPage.md).
 
 When you save a new template, include the word "template" in the page name.
 
-**Parent Topic:**[Content Management templates](../concept/c_ContentManagementTemplates.md)
+**Parent Topic:**[Content Management templates](c_ContentManagementTemplates.md)
 

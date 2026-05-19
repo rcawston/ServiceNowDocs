@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 A safety report mapping manager can create a mapping report for generating reports using the report field mapping form.
 
-For more information on creating a mapping, see [Create a safety report field mapping for generating reports](../task/create-safety-report-field-mapping.md).
+For more information on creating a mapping, see [Create a safety report field mapping for generating reports](create-safety-report-field-mapping.md).
 
 <table id="table_hs_report_mapping"><thead><tr><th>
 
@@ -105,12 +105,12 @@ PDF document
 PDF template that you need to use for reporting and map the safety record fields to. Select **Attach file** to import the reporting PDF template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](components-installed-hs-core.md)
 
 [Health and Safety action form](hs-action-form.md)
 

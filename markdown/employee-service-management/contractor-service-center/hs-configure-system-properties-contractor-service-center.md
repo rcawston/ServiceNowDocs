@@ -39,5 +39,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Contractor Service Center](../concept/hs-configure-contractor-service-center.md)
+**Parent Topic:**[Configuring Contractor Service Center](hs-configure-contractor-service-center.md)
 

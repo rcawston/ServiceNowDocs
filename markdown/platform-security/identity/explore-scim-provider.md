@@ -23,11 +23,11 @@ The SCIM provider synchronizes the changes made to identities in the IdP, includ
 
 To configure the SCIM Provider, perform the following tasks:
 
--   Activate the **SCIM v2 - ServiceNow Cross-domain Identity Management** plugin. To learn more, see [Activating the SCIM plugin](../task/activate-scim-plugin.md).​
+-   Activate the **SCIM v2 - ServiceNow Cross-domain Identity Management** plugin. To learn more, see [Activating the SCIM plugin](activate-scim-plugin.md).​
 -   Activate the other plugins that other plugins that are required for SCIM:
-    -   [OAuth 2.0](../../../administer/security/task/t_SettingUpOAuth.md)
+    -   [OAuth 2.0](../authentication/t_SettingUpOAuth.md)
     -   REST API Provider
-    -   [REST API Access Policy​](../task/activate-rest-api-access-policy.md)
+    -   [REST API Access Policy​](../authentication/activate-rest-api-access-policy.md)
 -   Add the scim\_admin role as part of the SCIM service.​
 
 **Warning:** Grant this role carefully. The scim\_admin role is equivalent to giving the user the admin role, where the scmin\_admin can add or update Personally Identifiable Information \(PII\).

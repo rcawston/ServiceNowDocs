@@ -282,5 +282,5 @@ The AWS region where the Amazon S3 bucket is located, for example, us-west-1. Fo
 |Polling interval|The interval, in seconds, to wait before polling for new events.|0|
 |Drop if queue is full|Option to discard logs if there is a load on the MID Server.|False|
 
-**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

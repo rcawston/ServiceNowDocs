@@ -25,7 +25,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 3.  On the required recall campaign form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](mco-recall-campaign-phases-form.md).
 
 4.  Select **Save**.
 
@@ -41,5 +41,5 @@ Create a set of phases and sub-phase within a recall campaign to enable detailed
 -   **[Create a phase part allocation](mco-phase-part-allocations.md)**  
 Create an allocation entry for a required part.
 
-**Parent Topic:**[Related lists for my campaigns](../concept/mco-related-list-for-my-campaigns.md)
+**Parent Topic:**[Related lists for my campaigns](mco-related-list-for-my-campaigns.md)
 

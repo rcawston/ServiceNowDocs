@@ -191,5 +191,5 @@ Impact of discontinuing the function according to the financial entity’s asses
 -   **Assessment not performed**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a function and enhance digital resilience data](../task/create-drtp-reg-function.md)
+</table>**Parent Topic:**[Create a function and enhance digital resilience data](create-drtp-reg-function.md)
 

@@ -28,8 +28,8 @@ Set up and monitor Playbooks and Playbook Experience.
 Activate the Workflow Studio application to create flows, playbooks, and more for any of your use cases.
 -   **[Administering Playbooks](administering-process-automation-designer.md)**  
 Monitor and troubleshoot issues by reviewing playbook executions.
--   **[Configure accessibility preferences](../task/view-all-buttons-without-hover.md)**  
+-   **[Configure accessibility preferences](view-all-buttons-without-hover.md)**  
 View all buttons in a playbook diagram by default, without the need to hover or select any element.
 
-**Parent Topic:**[Workflow Studio playbooks](../../workflow-studio/reference/workflow-studio-playbooks-landing.md)
+**Parent Topic:**[Workflow Studio playbooks](workflow-studio-playbooks-landing.md)
 

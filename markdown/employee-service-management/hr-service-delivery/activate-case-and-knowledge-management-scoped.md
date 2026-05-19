@@ -65,10 +65,10 @@ Provides HR Integrations.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Case and Knowledge Management](../concept/configuring-ckm.md)
+**Parent Topic:**[Configuring Case and Knowledge Management](configuring-ckm.md)
 
 **Related topics**  
 
 
-[Components installed with Case and Knowledge Management](../reference/components-installed-with-case-and-knowledge-management.md)
+[Components installed with Case and Knowledge Management](components-installed-with-case-and-knowledge-management.md)
 

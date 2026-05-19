@@ -41,7 +41,7 @@ The **Tolerance Status** and the **Calculated Score** are based on the Calculate
 
 ![screen shows calculations on the Risk Rollup and Tolerance tab](../image/risk-rollup-tolerance-tab.png "Risk Rollup and Tolerance tab")
 
--   **[Association of entities at any level of a risk statement](../concept/associate-entity-types-at-any-level-of-risk-stmt.md)**  
+-   **[Association of entities at any level of a risk statement](associate-entity-types-at-any-level-of-risk-stmt.md)**  
 You can associate entities, entity types, and indicator templates, at any level of the risk statement hierarchy. Creating this association is useful for risk managers while assessing risks.
 
 **Parent Topic:**[Manage risks, risk statements, and risk frameworks](r_RiskRegister.md)
@@ -49,7 +49,7 @@ You can associate entities, entity types, and indicator templates, at any level 
 **Related topics**  
 
 
-[Workflow of a risk using Advanced Risk](../concept/risk-lifecycle-using-advanced-risk.md)
+[Workflow of a risk using Advanced Risk](risk-lifecycle-using-advanced-risk.md)
 
-[Manage risks linked to the same risk statement](../concept/manage_risks_linked_to_same_risk_stmnt.md)
+[Manage risks linked to the same risk statement](manage_risks_linked_to_same_risk_stmnt.md)
 

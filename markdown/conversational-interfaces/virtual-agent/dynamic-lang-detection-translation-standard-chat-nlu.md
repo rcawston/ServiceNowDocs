@@ -33,7 +33,7 @@ You can use Dynamic Translation during the localization process as well. If you 
 
 When you enable language detection and Dynamic Translation for Virtual Agent for other languages, a variety of diverse users gain access to your Virtual Agent chat environment.
 
-Language detection for NLU and LLM conversations are enabled in the same location. For more information on enabling language detection, see [Enable Dynamic Translation for languages in Virtual Agent](../task/enable-dynamic-lang-detection.md). Dynamic Translation for NLU and LLM conversations are enabled in different locations. For more information on enabling dynamic translation, see [Enable Dynamic Translation for languages in Virtual Agent](../task/enable-dynamic-lang-detection.md) and [Configure multilingual service for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md).
+Language detection for NLU and LLM conversations are enabled in the same location. For more information on enabling language detection, see [Enable Dynamic Translation for languages in Virtual Agent](enable-dynamic-lang-detection.md). Dynamic Translation for NLU and LLM conversations are enabled in different locations. For more information on enabling dynamic translation, see [Enable Dynamic Translation for languages in Virtual Agent](enable-dynamic-lang-detection.md) and [Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md).
 
 Language detection is only applicable to the first utterance entered into the conversation. Conversational language switching cannot occur mid-conversation. Language detection prompts users with a question regarding whether they'd like to switch the conversational language during Virtual Agent NLU or LLM standard chat conversations.
 
@@ -109,13 +109,13 @@ The language detection and dynamic machine translation process operates accordin
 
 ## Dynamic Translation and Agent Chat
 
-If Dynamic Translation is enabled on Virtual Agent but turned off for Agent Chat, the live agent will see what the user sees. If the user started the conversation in another language and the conversational language switches, then the live agent will see the conversation in the user's detected language. This may cause some confusion for both the agent and the customer. To resolve this issue, consider turning on Dynamic Translation for Agent Chat as well. For details, see [Configuring Dynamic Translation for Agent Chat](../../conversational-interfaces/concept/configure-dtac.md).
+If Dynamic Translation is enabled on Virtual Agent but turned off for Agent Chat, the live agent will see what the user sees. If the user started the conversation in another language and the conversational language switches, then the live agent will see the conversation in the user's detected language. This may cause some confusion for both the agent and the customer. To resolve this issue, consider turning on Dynamic Translation for Agent Chat as well. For details, see [Configuring Dynamic Translation for Agent Chat](../agent-chat/configure-dtac.md).
 
 ## Supported languages
 
 For better results, install the ServiceNow language plugins for each language that uses dynamic translation. For a detailed list of language plugins, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
-You can enable dynamic translation for languages that are not currently supported on the ServiceNow platform. For details, see [Enable Dynamic Translation for an unsupported language](../task/enable-dt-unsupported-language.md).
+You can enable dynamic translation for languages that are not currently supported on the ServiceNow platform. For details, see [Enable Dynamic Translation for an unsupported language](enable-dt-unsupported-language.md).
 
 ## Supported channels
 

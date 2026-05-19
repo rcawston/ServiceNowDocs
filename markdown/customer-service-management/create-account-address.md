@@ -26,7 +26,7 @@ Role required: One of the following roles:
 
 ## About this task
 
-The main address for an account is stored in fields on the [Account form](../reference/customer-service-account-form.md). Shipping and billing addresses for an account are created and stored in the **Addresses** related list. An account can have multiple shipping and billing addresses.
+The main address for an account is stored in fields on the [Account form](customer-service-account-form.md). Shipping and billing addresses for an account are created and stored in the **Addresses** related list. An account can have multiple shipping and billing addresses.
 
 ## Procedure
 

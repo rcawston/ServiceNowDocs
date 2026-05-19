@@ -182,10 +182,10 @@ Internal notes
 Post-meeting observations and follow-up actions for internal teams. This field supports rich text formatting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+</table>**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 
 **Related topics**  
 
 
-[Schedule a meeting from a touchpoint](../task/schedule-meeting-touchpoint.md)
+[Schedule a meeting from a touchpoint](schedule-meeting-touchpoint.md)
 

@@ -28,5 +28,5 @@ Check definitions for macOS are predetermined sets of rules and criteria that as
 -   **[DEX check definitions for Windows](dex-check-definitions-windows.md)**  
 Check definitions for Windows are predetermined sets of rules and criteria that assess the performance, security, and conformance of Windows devices. These checks can cover various aspects such as CPU usage, memory usage, network tests, network bytes, and logged-in users.
 
-**Parent Topic:**[Digital End-User Experience reference](../concept/dex-reference.md)
+**Parent Topic:**[Digital End-User Experience reference](dex-reference.md)
 

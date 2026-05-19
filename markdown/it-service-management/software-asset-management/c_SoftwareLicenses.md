@@ -17,7 +17,7 @@ Software licenses are based on models that are defined through the legacy Softwa
 
 You can create the models to organize software licenses in any way that makes sense for your organization. Common methods of defining models and licenses include by department or by region.
 
-Licenses can be associated with a contract. For more information, see the [Contract Management](../../contract-management/concept/c_ContractManagement.md) application.
+Licenses can be associated with a contract. For more information, see the [Contract Management](../contract-management/c_ContractManagement.md) application.
 
 ## Licensing types
 
@@ -43,19 +43,19 @@ The following license types are available in the legacy Software Asset Managemen
 
 -   **[License management with the legacy Software Asset Management plugin](c_ManageSoftwareLicenses.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin allows asset managers to track and organize the number of licenses available to the organization.
--   **[Add a software license using the legacy Software Asset Management plugin](../task/t_AddANewSoftwareLicense.md)**  
+-   **[Add a software license using the legacy Software Asset Management plugin](t_AddANewSoftwareLicense.md)**  
 You can add a new software license using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
--   **[Create and manage an enterprise license using the legacy Software Asset Management plugin](../task/t_CreateAndManageAnEnterpriseLicense.md)**  
+-   **[Create and manage an enterprise license using the legacy Software Asset Management plugin](t_CreateAndManageAnEnterpriseLicense.md)**  
 Enterprise licenses are typically for large customers and provide some flexibility, an agreed upon discount price, and a mechanism for easy administration.
--   **[Create and manage a subscription license using the legacy Software Asset Management plugin](../task/t_CreateManageSubscriptionLicense.md)**  
+-   **[Create and manage a subscription license using the legacy Software Asset Management plugin](t_CreateManageSubscriptionLicense.md)**  
 Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to create subscription licenses and manage the information as it changes.
--   **[Software license entitlements for the legacy Software Asset Management plugin](../task/t_CreatSWLicenseEntitlemnt.md)**  
+-   **[Software license entitlements for the legacy Software Asset Management plugin](t_CreatSWLicenseEntitlemnt.md)**  
 Software entitlements enable you to define the people or machines to which a specific, purchased software license is assigned.
 -   **[License upgrade and downgrade with the legacy Software Asset Management plugin](c_UpgradingAndDowngradingLicenses.md)**  
 The concept of upgrading and downgrading licenses is built in to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
--   **[View a list of unallocated software licenses for the legacy Software Asset Management plugin](../task/t_ViewListUnAllocSWLicen.md)**  
+-   **[View a list of unallocated software licenses for the legacy Software Asset Management plugin](t_ViewListUnAllocSWLicen.md)**  
 Managing software licenses includes knowing what licenses are owned by your organization, but are not allocated.
--   **[Merge software licenses using the legacy Software Asset Management plugin](../task/t_MergeASoftwareLicense.md)**  
+-   **[Merge software licenses using the legacy Software Asset Management plugin](t_MergeASoftwareLicense.md)**  
 If you have multiple software licenses that are linked to the same model, you can merge the individual licenses into a consolidated license using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
@@ -69,7 +69,7 @@ If you have multiple software licenses that are linked to the same model, you ca
 
 [Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

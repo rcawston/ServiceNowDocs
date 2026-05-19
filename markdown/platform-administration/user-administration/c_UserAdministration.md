@@ -39,7 +39,7 @@ Manage the individuals who can access your instance by defining them as users in
 
 </td><td>
 
-[Monitor instance usage![](../../../reuse/icons/brand-icons/bus-management-console.svg)Track application usage on your instance.](../../subscription-management/concept/usage-analytics-module-subscription.md)
+[Monitor instance usage![](../../../reuse/icons/brand-icons/bus-management-console.svg)Track application usage on your instance.](../platform-performance/usage-analytics-module-subscription.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

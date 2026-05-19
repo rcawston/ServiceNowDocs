@@ -35,27 +35,27 @@ Workforce Optimization for ITSM enables you to do these tasks:
 
 </td><td>
 
-[Channels![](../../../reuse/icons/brand-icons/ind-service-provider.svg) Route work to specific groups so that the right work goes to the right agent](../concept/exploring-channels-configurable-workforce-optimization-itsm.md)
+[Channels![](../../../reuse/icons/brand-icons/ind-service-provider.svg) Route work to specific groups so that the right work goes to the right agent](exploring-channels-configurable-workforce-optimization-itsm.md)
 
 </td></tr><tr><td>
 
-[Schedule![](../../../reuse/icons/brand-icons/bus-calendar.svg) Manage your agents' schedule effectively](../concept/explore-schedule-configurable-wfo-itsm.md)
+[Schedule![](../../../reuse/icons/brand-icons/bus-calendar.svg) Manage your agents' schedule effectively](explore-schedule-configurable-wfo-itsm.md)
 
 </td><td>
 
-[Work scheduler![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Assign complex work items to agents based on their skills and availability](../concept/work-scheduling-wfo-itsm.md)
+[Work scheduler![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Assign complex work items to agents based on their skills and availability](work-scheduling-wfo-itsm.md)
 
 </td></tr><tr><td>
 
-[Teams![](../../../reuse/icons/brand-icons/bus-3-person.svg) Organize your teams into assignment groups](../concept/explore-teams-configurable-workforce-optimization-itsm.md)
+[Teams![](../../../reuse/icons/brand-icons/bus-3-person.svg) Organize your teams into assignment groups](explore-teams-configurable-workforce-optimization-itsm.md)
 
 </td><td>
 
-[Coaching![](../../../reuse/icons/brand-icons/bus-learn.svg) Assess the quality of your teams' completed interactions](../concept/explore-coaching-configurable-workforce-optimization-itsm.md)
+[Coaching![](../../../reuse/icons/brand-icons/bus-learn.svg) Assess the quality of your teams' completed interactions](explore-coaching-configurable-workforce-optimization-itsm.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Get details about Workforce Optimization for ITSM components such as roles, tables, and system properties](../concept/advanced-configuration-workforce-optimization-itsm.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Get details about Workforce Optimization for ITSM components such as roles, tables, and system properties](advanced-configuration-workforce-optimization-itsm.md)
 
 </td><td>
 

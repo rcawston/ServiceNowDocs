@@ -123,7 +123,7 @@ To add an EVAM definition, and other information about the data source, select *
 ![Search EVAM Data resource configuration.](../image/evam-search-data-resource.png)
 
 </td></tr></tbody>
-</table>-   **[Add an Entity View Action Mapper data resource to a page](../task/evam-working.md)**  
+</table>-   **[Add an Entity View Action Mapper data resource to a page](evam-working.md)**  
 Add an Entity View Action Mapper \(EVAM\) data resource to your page in UI Builder so that you can standardize how the data sources in your components are displayed in your cards and lists.
 
 **Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)

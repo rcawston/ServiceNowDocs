@@ -28,7 +28,7 @@ Roles and responsibilities of additional managers:
     -   Onboard agents for contractor companies
     -   Assign and manage work order tasks to the contractor agents using the Field Service Contractor portal.
 
-**Note:** An off-boarded agent automatically gets deleted from the additional manager role if assigned to. For more information, see [Offboard agents on the Field Service Contractor Portal](../task/offboard-agents-fsmcp.md).
+**Note:** An off-boarded agent automatically gets deleted from the additional manager role if assigned to. For more information, see [Offboard agents on the Field Service Contractor Portal](../work-order-management/offboard-agents-fsmcp.md).
 
 ## Add additional internal managers
 
@@ -75,7 +75,7 @@ Assign wm\_ext\_agent role to the employee of an external company whom you want 
 
 Internal manager of a company can onboard field service agents for contractor companies and also appoint them as additional external managers to manage the managerial activities of contractor companies.
 
-External manager of the contractor company can also assign additional manager role to a field service agent while on boarding them or later. For more information, see [Onboard agents on the Field Service Contractor Portal](../task/onboard-field-service-agent.md) and [Assign additional manager assignments to an agent](../task/assign-additional-manager-assignments.md).
+External manager of the contractor company can also assign additional manager role to a field service agent while on boarding them or later. For more information, see [Onboard agents on the Field Service Contractor Portal](../work-order-management/onboard-field-service-agent.md) and [Assign additional manager assignments to an agent](../work-order-management/assign-additional-manager-assignments.md).
 
 This procedure explains how an internal manager can onboard additional external manager using ServiceNow AI Platform.
 

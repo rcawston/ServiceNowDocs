@@ -54,5 +54,5 @@ Role required: sn\_sd.success\_dashboard\_admin
 
 The new dashboard appears on the Operational success dashboard.
 
-**Parent Topic:**[Operational Success Admin Console](../concept/admin-console-os.md)
+**Parent Topic:**[Operational Success Admin Console](admin-console-os.md)
 

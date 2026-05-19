@@ -17,7 +17,7 @@ The Virtual Agent Designer user input and bot response controls for creating con
 
 Starting with Version 2.0.0, the updated card and new video bot response controls are supported in Microsoft Teams conversations. The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
 
-For more information about user input controls and bot responses, see [Assistant Designer user input controls](../reference/va-user-inputs.md) and [Assistant Designer bot responses](../reference/va-bot-responses.md), respectively.
+For more information about user input controls and bot responses, see [Assistant Designer user input controls](va-user-inputs.md) and [Assistant Designer bot responses](va-bot-responses.md), respectively.
 
 Starting with Version 3.0.10, to improve the bot performance and enable a better conversational experience with Virtual Agent on Microsoft Teams, the non-card bot response controls such as text, links, and date cards are converted into adaptive cards.
 

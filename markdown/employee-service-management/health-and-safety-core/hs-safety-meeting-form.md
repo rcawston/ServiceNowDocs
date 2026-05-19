@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 A safety team such as a safety meeting manager can use the Health and Safety meeting form to add or modify a safety-related meeting.
 
-For more information, see [Log a safety meeting](../task/log-hs-safety-meeting.md).
+For more information, see [Log a safety meeting](log-hs-safety-meeting.md).
 
 <table id="table_ztx_ds5_b2c"><thead><tr><th>
 
@@ -128,7 +128,7 @@ External attendees \(Deprecated\)
 
 </td><td>
 
-Names of the external users attending this meeting.**Note:** This field is deprecated. To add an external attendee, you can use the **Public attendee** field on the meeting attendee form. For more information, see [Add attendees to a safety meeting](../task/add-attendees-safety-meeting.md).
+Names of the external users attending this meeting.**Note:** This field is deprecated. To add an external attendee, you can use the **Public attendee** field on the meeting attendee form. For more information, see [Add attendees to a safety meeting](add-attendees-safety-meeting.md).
 
 </td></tr></tbody>
 </table><table id="table_otb_xbv_b2c"><thead><tr><th>
@@ -156,12 +156,12 @@ Meeting notes
 Rich text field for adding meeting notes when the meeting is in progress or after the meeting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](components-installed-hs-core.md)
 
 [Health and Safety action form](hs-action-form.md)
 

@@ -27,5 +27,5 @@ The SDLC components represent the artifacts or configurations that are used to i
 **Related topics**  
 
 
-[Relate an SDLC component to a digital interface](../../task/eaw-task/eaw-dig-interface-add-sdlc-comp.md)
+[Relate an SDLC component to a digital interface](eaw-dig-interface-add-sdlc-comp.md)
 

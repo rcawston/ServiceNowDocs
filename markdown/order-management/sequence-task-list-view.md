@@ -87,5 +87,5 @@ Added at
 Timestamp when the sequence task was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Engagement Sequences reference](../concept/customer-engagement-sequences-reference.md)
+</table>**Parent Topic:**[Customer Engagement Sequences reference](customer-engagement-sequences-reference.md)
 

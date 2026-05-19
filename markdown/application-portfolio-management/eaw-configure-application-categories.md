@@ -20,7 +20,7 @@ Such a categorization helps you to consolidate applications and rationalize deci
 **Related topics**  
 
 
-[View all application categories](../../task/eaw-task/eaw-view-all-application-categories.md)
+[View all application categories](eaw-view-all-application-categories.md)
 
-[Add or edit an application category](../../task/eaw-task/eaw-create-app-category.md)
+[Add or edit an application category](eaw-create-app-category.md)
 

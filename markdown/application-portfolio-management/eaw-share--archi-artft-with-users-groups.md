@@ -45,7 +45,7 @@ Based on your existing role, you can provide certain permissions.
 
 7.  In the **Share architectural artifact** pop-up window, fill in the form fields.
 
-    For field information, see [Share architectural artifacts form](../../reference/eaw-reference/eaw-share-architectural-artifacts-form.md).
+    For field information, see [Share architectural artifacts form](eaw-share-architectural-artifacts-form.md).
 
 8.  Select **Share**.
 
@@ -59,7 +59,7 @@ On sharing an architectural artifact, the recipients receive an email notificati
 -   A link to the architectural artifact
 -   Comments mentioned by you while sharing the artifact
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

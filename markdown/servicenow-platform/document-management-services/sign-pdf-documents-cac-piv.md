@@ -56,5 +56,5 @@ Role required: none
     The signature is successfully captured and authenticated after document validation.
 
 
-**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](../concept/digital-signature.md)
+**Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](digital-signature.md)
 

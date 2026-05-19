@@ -29,5 +29,5 @@ Your instance attempts to access your Integration Hub subscription information o
 
 When your instance cannot access your subscription information, it displays generic information messages. Whenever you use a feature that requires an Integration Hub subscription, the system displays a reminder information message. Verify that you have an appropriate Integration Hub subscription for the features you want to use.
 
-**Parent Topic:**[Request Integration Hub](../../flow-designer/concept/request-ih-overview.md)
+**Parent Topic:**[Request Integration Hub](request-ih-overview.md)
 

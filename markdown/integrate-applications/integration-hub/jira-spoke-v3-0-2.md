@@ -160,7 +160,7 @@ Version
 -   Merged To Version Description
 
 </td></tr></tbody>
-</table>To use other conditions in the routing policy, create a routing policy in the Jira WebHook Routing Policies module and specify conditions as per your requirement. See [Set up a bi-directional webhook for the Jira spoke](../task/setup-jira302-webhooks.md#) for information regarding setting up and configuring the webhooks.
+</table>To use other conditions in the routing policy, create a routing policy in the Jira WebHook Routing Policies module and specify conditions as per your requirement. See [Set up a bi-directional webhook for the Jira spoke](setup-jira302-webhooks.md#) for information regarding setting up and configuring the webhooks.
 
 **Tip:** To set up and use webhooks, you should configure webhook registries, decision tables, and create subflows. For a low-code alternative with less configurations, you can use [Spoke triggers](jira-spoke-v3-0-2.md#section_cpg_rpm_ccc).
 
@@ -249,7 +249,7 @@ While customizing subflows, you must ensure that the subflows are configured to 
 
 **Note:**
 
--   You must configure webhooks to use the spoke subflow. See [Set up a bi-directional webhook for the Jira spoke](../task/setup-jira302-webhooks.md#) for information regarding setting up and configuring the webhook.
+-   You must configure webhooks to use the spoke subflow. See [Set up a bi-directional webhook for the Jira spoke](setup-jira302-webhooks.md#) for information regarding setting up and configuring the webhook.
 -   The sample subflow runs as a user by default. The subflow can be configured to run as system.
 
 ## Spoke triggers
@@ -274,7 +274,7 @@ Use triggers in the Jira spoke to subscribe to the required events. The endpoint
 |Sprint Closed|Trigger is initiated when a sprint is closed.|
 |Sprint Started|Trigger is initiated when a sprint is started.|
 
-For information about setting up the triggers for the Jira spoke, see [Set up triggers for the Jira spoke](../task/jira-ext-trigger.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](../../integrationhub/concept/conditional-and-event-driven-inbound-integration.md).
+For information about setting up the triggers for the Jira spoke, see [Set up triggers for the Jira spoke](jira-ext-trigger.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](conditional-and-event-driven-inbound-integration.md).
 
 ## Spoke actions
 
@@ -807,7 +807,7 @@ Updates webhook with the given ID in Jira.**Note:** This action isn’t supporte
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 

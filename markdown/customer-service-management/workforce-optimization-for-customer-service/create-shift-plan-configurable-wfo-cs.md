@@ -114,5 +114,5 @@ You can view the name of the primary agent for each on-call shift on the shift c
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
 

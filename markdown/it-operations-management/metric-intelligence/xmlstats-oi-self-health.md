@@ -50,5 +50,5 @@ Details in the instance section are for the entire instance, showing the status 
 |oi\_extension\_monitor|Status of the self-health monitor that checks if the Metric Intelligence extension is running properly.|
 |metrics\_collection\_monitor|Status of the self-health monitor that checks if metrics are being collected by active connectors that are configured for metrics collection.|
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

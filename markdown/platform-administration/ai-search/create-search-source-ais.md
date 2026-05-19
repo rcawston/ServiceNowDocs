@@ -33,12 +33,12 @@ Define at least one search source for each of your indexed sources. You can defi
 
 3.  On the Search Source form, fill in the fields.
 
-    For a description of the field values, see [Search Source form](../reference/search-source-form-ais.md).
+    For a description of the field values, see [Search Source form](search-source-form-ais.md).
 
 4.  Select **Submit**.
 
     The new search source appears in the Search Sources related list.
 
 
-**Parent Topic:**[Search sources in AI Search](../concept/search-sources-ais.md)
+**Parent Topic:**[Search sources in AI Search](search-sources-ais.md)
 

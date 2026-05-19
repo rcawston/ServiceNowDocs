@@ -37,5 +37,5 @@ Role required:
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring CMDB Identification and Reconciliation](../concept/configuring-ire.md)
+**Parent Topic:**[Configuring CMDB Identification and Reconciliation](configuring-ire.md)
 

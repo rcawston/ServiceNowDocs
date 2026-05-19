@@ -26,5 +26,5 @@ The prerequisites to enable user hierarchy access control are:
 
 The concept of user hierarchy is helpful as it provides more visibility to the users in the hierarchy in tracking its completion when it is assigned to a user in a team. User hierarchy fields are not visible in the Issue or Remediation task form, however internally this feature enables you to restrict access to records based on those users in the hierarchy who can access them.
 
-**Parent Topic:**[Manually create GRC issues](../../grc-common/task/t_CreateAnIssue.md)
+**Parent Topic:**[Manually create GRC issues](../audit-management/t_CreateAnIssue.md)
 

@@ -29,7 +29,7 @@ A task template can have static and dynamic mappings. In static mappings, the va
 
 2.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Universal Task template form](../reference/ut-task-template-form.md)
+    For more information on form fields and descriptions, see [Universal Task template form](ut-task-template-form.md)
 
 3.  Select **Schedule** to create a scheduled job to create records based on this template.
 
@@ -38,5 +38,5 @@ A task template can have static and dynamic mappings. In static mappings, the va
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](ut-task-template-landing.md)
 

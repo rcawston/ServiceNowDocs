@@ -164,5 +164,5 @@ List of all associated services shown for leaf nodes. Edit the list by selecting
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md)
+**Parent Topic:**[Service Portfolio Management taxonomy](SPM2-taxonomy.md)
 

@@ -530,7 +530,7 @@ sa.metric.map.with.ci.expiration.sec
 Length of time \(in seconds\) that records for mapping of raw data to CIs remains in effect if the mapping to CI is found.-   **Type**: numeric
 -   **Default value**: 432000
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Metric Intelligence](../../agent-client-collector/concept/operational-metrics.md)
+-   **Learn more**: [Metric Intelligence](../metric-intelligence/operational-metrics.md)
 
 </td></tr><tr><td>
 
@@ -541,7 +541,7 @@ sa.metric.map.without.ci.expiration.sec
 Length of time \(in seconds\) that records for mapping of raw data to CIs remains in effect if the mapping to CI is not found.-   **Type**: numeric
 -   **Default value**: 86400
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Metric Intelligence](../../agent-client-collector/concept/operational-metrics.md)
+-   **Learn more**: [Metric Intelligence](../metric-intelligence/operational-metrics.md)
 
 </td></tr><tr><td>
 
@@ -710,7 +710,7 @@ Enables resource binding.
  -   **Type**: true \| false
 -   **Default value**: true
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Metric binding to resources](../concept/resource-binding.md)
+-   **Learn more**: [Metric binding to resources](../metric-intelligence/resource-binding.md)
 
 </td></tr><tr><td>
 
@@ -723,7 +723,7 @@ Displays the **Setup Metric Intelligence** related link on the MID Server form, 
  -   **Type**: true \| false
 -   **Default value**: true
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [MID Server and MID Server distributed cluster for Metric Intelligence](../concept/ops-intelligence-mid-server.md)
+-   **Learn more**: [MID Server and MID Server distributed cluster for Metric Intelligence](../metric-intelligence/ops-intelligence-mid-server.md)
 
 </td></tr><tr><td>
 
@@ -736,7 +736,7 @@ Stores historical information about CIs start and end maintenance mode, in the S
  -   **Type**: true \| false
 -   **Default value**: true
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Understanding Metric Intelligence](../concept/operational-intelligence-overview.md)
+-   **Learn more**: [Understanding Metric Intelligence](../metric-intelligence/operational-intelligence-overview.md)
 
 </td></tr><tr><td>
 
@@ -749,7 +749,7 @@ Excludes metrics for CIs that are in maintenance mode, from model learning.
  -   **Type**: true \| false
 -   **Default value**: true
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Understanding Metric Intelligence](../concept/operational-intelligence-overview.md)
+-   **Learn more**: [Understanding Metric Intelligence](../metric-intelligence/operational-intelligence-overview.md)
 
 </td></tr><tr><td>
 
@@ -764,7 +764,7 @@ Determines the number of data series per batch when storing information about CI
  -   **Type**: integer
 -   **Default value**: 1000
 -   **Location**: System Property \[sys\_properties\] table
--   **Learn more**: [Understanding Metric Intelligence](../concept/operational-intelligence-overview.md)
+-   **Learn more**: [Understanding Metric Intelligence](../metric-intelligence/operational-intelligence-overview.md)
 
 </td></tr><tr><td>
 
@@ -777,5 +777,5 @@ Contains the sys\_ids of the 3 scheduled jobs that self-health monitoring for Me
 -   Metric Intelligence — Validate MID Distributed cluster
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring reference](../../agent-client-collector/reference/acc-monitoring-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)
 

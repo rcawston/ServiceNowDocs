@@ -40,7 +40,7 @@ Be sure to identify people within your organization that can be assigned the fol
 
 -   **[Facilities requests](c_FacilitiesRequests.md)**  
 A facilities request is a record in the system that tracks a proposed change to the physical facility of the organization. Typical facilities requests include the reporting of something bring broken or an issue like a beeping smoke alarm.
--   **[Facilities request tasks](../../planning-and-policy/concept/c_FacRequestTasks.md)**  
+-   **[Facilities request tasks](c_FacRequestTasks.md)**  
 A facilities request contains one or more tasks. These tasks allow qualifiers to define separate activities that must be done to complete a facilities request.
 
 **Parent Topic:**[Facilities Service Management overview](c_FacilitiesServiceManagement.md)

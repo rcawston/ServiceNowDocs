@@ -62,14 +62,14 @@ Observable enrichment results are displayed on the **Observable Enrichment Resul
 
 If you cannot view expected results, review the work notes. Also, verify the observable is supported for the lookup by the integration.
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
-**Previous topic:**[RISKIQ SSL certificate lookups that return multiple certificates or no certificates](../reference/riskiq_ssl_no_match.md)
+**Previous topic:**[RISKIQ SSL certificate lookups that return multiple certificates or no certificates](riskiq_ssl_no_match.md)
 
 **Next topic:**[Create an observable for manual WHOISIQ lookups](manually-attch-obsv-whoisiq.md)
 
 **Related topics**  
 
 
-[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+[Supported observables for RISKIQ and RISKIQ WHOISIQ](riskiq_supported_obsv.md)
 

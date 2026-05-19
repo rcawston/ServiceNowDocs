@@ -57,11 +57,11 @@ The Virtual Agent interface for the Conversational Integration apps \(Slack, Mic
     6.  Select the command record to be changed and update as needed.
 -   **Configuring Virtual Agent system messaging in the Conversational Integration apps**
 
-    You can modify the default messages displayed to your users in Virtual Agent and Agent Chat conversations. For details on customizing them, see [Change Virtual Agent and Agent Chat system messages](../../conversational-interfaces/task/ac-change-system-messages.md).
+    You can modify the default messages displayed to your users in Virtual Agent and Agent Chat conversations. For details on customizing them, see [Change Virtual Agent and Agent Chat system messages](../ac-change-system-messages.md).
 
 -   **Rendering of input controls and bot responses in conversations**
 
-    Input controls in Virtual Agent Designer, such as the Carousel render differently in bot conversations in messaging apps than in the web-based interface. For example, the Date Time picker control in Workplace presents buttons for users to select a date and time. Similarly, certain bot response controls, such as the Image response and Multi-response controls, also render differently in third-party messaging apps. For details on these differences, see the descriptions of the Virtual Agent Designer [input controls](../reference/va-user-inputs.md), [bot responses](../reference/va-bot-responses.md), and [utilities](../reference/va-utilities.md).
+    Input controls in Virtual Agent Designer, such as the Carousel render differently in bot conversations in messaging apps than in the web-based interface. For example, the Date Time picker control in Workplace presents buttons for users to select a date and time. Similarly, certain bot response controls, such as the Image response and Multi-response controls, also render differently in third-party messaging apps. For details on these differences, see the descriptions of the Virtual Agent Designer [input controls](va-user-inputs.md), [bot responses](va-bot-responses.md), and [utilities](va-utilities.md).
 
 -   **Attachments**
 
@@ -85,11 +85,11 @@ The Virtual Agent interface for the Conversational Integration apps \(Slack, Mic
 |IBM Watson Assistant|No|No|
 |Alexa|No|No|
 
--   **[Redirect user authentication to a Service Portal](../task/set-user-linkage.md)**  
+-   **[Redirect user authentication to a Service Portal](set-user-linkage.md)**  
 After installing a pre-built Conversational Integration \(for messaging apps, Consumer apps or voice apps\), you can specify a Service Portal in which unauthenticated end users complete the user authentication step \(user account linking\), instead of in their ServiceNow instance. Users who do not have linked accounts complete authentication before continuing with the virtual agent in the messaging application.
 -   **[Account linking in pre-built messaging integrations](va-adapter-autolinking.md)**  
 In Virtual Agent, account linking maps the users of a supported chat or messaging application to their ServiceNow user profile. Account auto-linking authenticates your messaging users, which enables users to automatically access Virtual Agent topics that involve ServiceNow records. If needed, users can also manually unlink from or link to their ServiceNow accounts.
--   **[Control topic visibility in Virtual Agent messaging channels](../task/control-topic-visibility-channel.md)**  
+-   **[Control topic visibility in Virtual Agent messaging channels](control-topic-visibility-channel.md)**  
 Suppress the display of a topic in a Virtual Agent messaging channel by using a condition script that excludes the topic from a channel.
 -   **[Conversational Integration with Apple Messages for Business](integration-apple-mssg.md)**  
 Use the Conversational Integration with Apple Messages for Business application to empower customers to engage with your business using their Apple devices. Conversational Integration with Apple Messages for Business provides rich messaging capabilities such as Apple pay, forms, time picker, and authentication.
@@ -101,11 +101,11 @@ Enable requesters to chat with Google chat or live agents using the Google chat 
 Conduct user-initiated, system-initiated, or agent-initiated conversations using the Conversational Integration with LINE application. The application connects a requester with a virtual agent or live agent using your company's LINE account.
 -   **[Conversational Integration with Microsoft Teams](teams-conv-integration.md)**  
 Enable requesters to chat with Microsoft Teams or live agents using the Microsoft Teams application. Use the Conversational Integration with Microsoft Teams app, available from the ServiceNow Store, to associate your instance with Microsoft Teams.
--   **[Conversational Integration with Slack](../task/mssg-slack.md)**  
+-   **[Conversational Integration with Slack](mssg-slack.md)**  
 Use the Conversational Integration with Slack application to connect your requesters with Virtual Agent or live agents through your company’s Slack workspace.
 -   **[Conversational SMS Integration with Twilio](sms-twilio-store-app.md)**  
 Use this ServiceNow Store application to host Virtual Agent conversations on Twilio SMS to chat with virtual agent or live agents.
--   **[Conversational Integration with Workplace from Facebook](../task/mssg-workplace.md)**  
+-   **[Conversational Integration with Workplace from Facebook](mssg-workplace.md)**  
 Use the Conversational Integration with Workplace from Facebook application to connect your requesters with Virtual Agent or live agents through your company’s Workplace from Facebook application.
 -   **[Conversational Integration with WhatsApp \(powered by Twilio\)](messg-whatsapp-twilio.md)**  
 Use this application to enable requesters to interact on WhatsApp chat with a virtual agent or live agent. The application connects a requester with a virtual agent or live agent using your company's WhatsApp-enabled Twilio phone number.

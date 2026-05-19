@@ -35,15 +35,15 @@ The following diagram shows the architecture of the TOTP authentication in RPA H
 
 To enable TOTP authentication in the RPA Hub, do the following actions:
 
--   Create a multi-factor authentication \(MFA\) authenticator record in the classic environment. For more information, see [Create an MFA authenticator in RPA Hub](../task/create-mfa-authenticator-rpa.md).
--   Associate a TOTP authenticator to a robot credential with the secret key \(Seed\). You can do this task in the workspace and classic environment. For more information, see [Create a TOTP authenticator in RPA Hub](../task/map-totp-credential-set-rpa.md).
+-   Create a multi-factor authentication \(MFA\) authenticator record in the classic environment. For more information, see [Create an MFA authenticator in RPA Hub](create-mfa-authenticator-rpa.md).
+-   Associate a TOTP authenticator to a robot credential with the secret key \(Seed\). You can do this task in the workspace and classic environment. For more information, see [Create a TOTP authenticator in RPA Hub](map-totp-credential-set-rpa.md).
 
-In the RPA Desktop Design Studio, as an RPA developer, you can define the GetTOTP component \(previously known as the getOKTAtoken component\) with AuthenticatorName as an input parameter. The authenticator name that you provide from the component is compared against the unique authenticator name in the TOTP record. If the comparison is successful, the TOTP password is generated. For more information, see [Use the GetTOTP component](../../rpa-studio/task/use-utilities-token-getoktatoken.md).
+In the RPA Desktop Design Studio, as an RPA developer, you can define the GetTOTP component \(previously known as the getOKTAtoken component\) with AuthenticatorName as an input parameter. The authenticator name that you provide from the component is compared against the unique authenticator name in the TOTP record. If the comparison is successful, the TOTP password is generated. For more information, see [Use the GetTOTP component](use-utilities-token-getoktatoken.md).
 
 **Related topics**  
 
 
-[Delete a TOTP authenticator in RPA Hub](../task/delete-mfa-authenticator-rpa.md)
+[Delete a TOTP authenticator in RPA Hub](delete-mfa-authenticator-rpa.md)
 
-[Retire an MFA authenticator in RPA Hub](../task/retire-mfa-authenticator.md)
+[Retire an MFA authenticator in RPA Hub](retire-mfa-authenticator.md)
 

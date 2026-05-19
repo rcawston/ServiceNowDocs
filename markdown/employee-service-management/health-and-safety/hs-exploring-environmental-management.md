@@ -32,5 +32,5 @@ In the Health and Safety Workspace, environmental management list view displays 
 -   **[Chemical management overview](hs-chemical-management-workflow.md)**  
 The chemical management solution is designed to scale for organizations with large chemical inventories and complex conformance needs. It provides tools for managing chemical requests, approvals, and risk assessments, supporting safer workplace practices.
 
-**Parent Topic:**[Health and Safety Environmental Management](../reference/hs-environmental-management-landing-page.md)
+**Parent Topic:**[Health and Safety Environmental Management](hs-environmental-management-landing-page.md)
 

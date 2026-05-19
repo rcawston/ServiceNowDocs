@@ -58,5 +58,5 @@ Board members can edit the labels on a board. All the labels are visible on the 
     **Note:** The **table** label can also be used for Tags.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 

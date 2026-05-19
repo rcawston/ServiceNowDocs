@@ -55,5 +55,5 @@ Role required: admin
     **Note:** The Import operation can be used for inserting new data or updating the existing data in the tables. By default, the Name and Owner values are the primary keys used for updating the existing records. You can also add additional fields as primary key for inserting new data or updating the existing data. For details on how to add additional fields as primary key, see [Import goals and targets data \[KB1191233\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1191233).
 
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](../concept/configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](configuring-goal-framework.md)
 

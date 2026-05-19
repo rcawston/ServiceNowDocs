@@ -18,9 +18,9 @@ Safety Registers help safety teams and line managers to keep track of hazardous 
 -   Safety team manages safety registers like chemicals and asbestos in the Health and Safety Workspace. The safety team also attaches Safety Data Sheets \(SDSs\) to safety register records.
 -   Employees can search and access these SDSs in the Employee Center or on Now Mobile app.
 
--   **[Manage your safety registers](../task/hs-manage-safety-registers.md)**  
+-   **[Manage your safety registers](hs-manage-safety-registers.md)**  
 Manage your safety registers to log and keep track of the hazardous materials used in your organization, along with Safety Data Sheets \(SDSs\).
--   **[Access a safety register document in Employee center](../task/hs-view-safety-register-docs-ec.md)**  
+-   **[Access a safety register document in Employee center](hs-view-safety-register-docs-ec.md)**  
 Access and view safety register documents for chemicals and asbestos through the Employee Center.
 
 **Parent Topic:**[Using Health and Safety Risk Management](hs-using-hs-risk-mgmt.md)

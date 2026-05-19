@@ -65,7 +65,7 @@ Essential SAFe: Feature tests
 
 </td><td>
 
-If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe feature using the **Create SAFe Feature** related link on the Demand form. For more information on how to create an SAFe feature from a demand, see [Create an artifact from a demand](../../../product/planning-and-policy/task/t_CrtArtftDmdMnu.md).
+If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe feature using the **Create SAFe Feature** related link on the Demand form. For more information on how to create an SAFe feature from a demand, see [Create an artifact from a demand](../demand-management/t_CrtArtftDmdMnu.md).
 
 </td><td>
 
@@ -173,7 +173,7 @@ Essential SAFe: Story tests
 
 </td><td>
 
-If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe story using the **Create SAFe Story** related link on the Demand form. For more information on how to create a SAFe story from a demand, see [Create an artifact from a demand](../../../product/planning-and-policy/task/t_CrtArtftDmdMnu.md).
+If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe story using the **Create SAFe Story** related link on the Demand form. For more information on how to create a SAFe story from a demand, see [Create an artifact from a demand](../demand-management/t_CrtArtftDmdMnu.md).
 
 </td><td>
 
@@ -213,7 +213,7 @@ Essential SAFe: Epic tests
 
 </td><td>
 
-If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe epic using the **Create SAFe Epic** related link on the Demand form.For more information on how to create a SAFe epic agile from a demand, see [Create an artifact from a demand](../../../product/planning-and-policy/task/t_CrtArtftDmdMnu.md).
+If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe epic using the **Create SAFe Epic** related link on the Demand form.For more information on how to create a SAFe epic agile from a demand, see [Create an artifact from a demand](../demand-management/t_CrtArtftDmdMnu.md).
 
 </td><td>
 
@@ -248,20 +248,20 @@ Verify the functionality of creating and updating team PI Objectives-   Verify t
 Rome
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Essential SAFe](../../../product/agile-SAFe/concept/essential-overview.md)
+</table>**Parent Topic:**[Essential SAFe](essential-overview.md)
 
 **Related topics**  
 
 
-[Components installed with Essential SAFe](../../../product/agile-SAFe/reference/installed-with-EssentialSAFe.md)
+[Components installed with Essential SAFe](installed-with-EssentialSAFe.md)
 
-[SAFe entities](../../../product/agile-SAFe/concept/key-entities-SAFe.md)
+[SAFe entities](key-entities-SAFe.md)
 
-[SAFe PI objectives](../../../product/agile-SAFe/concept/safe-pi-objectives.md)
+[SAFe PI objectives](safe-pi-objectives.md)
 
-[SAFe Board — ART level](../../../product/agile-SAFe/concept/program-level-tabs.md)
+[SAFe Board — ART level](program-level-tabs.md)
 
-[SAFe Board — Team level](../../../product/agile-SAFe/concept/team-level-tabs.md)
+[SAFe Board — Team level](team-level-tabs.md)
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
 

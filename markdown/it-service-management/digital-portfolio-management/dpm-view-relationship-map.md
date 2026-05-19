@@ -35,5 +35,5 @@ On the map page, use the panels for more information about the mapped solutions.
 
 -   Select ![Service instances icon.](../../../common/image/icon-pipelines.png) to see the service instances associated with the selected solution.
 
-**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+**Parent Topic:**[Work with solution data in Digital Portfolio Management](dpm-working-with.md)
 

@@ -920,7 +920,7 @@ string
 
 </td><td>
 
-The equipment models start at the site level and contain a detailed hierarchical structure that describes each industrial site.For more information, see [ISA-95 equipment model](../../mftg-manufacturing-process-mgr/concept/isa-95-equipment-model.md).
+The equipment models start at the site level and contain a detailed hierarchical structure that describes each industrial site.For more information, see [ISA-95 equipment model](../industrial-process-manager/isa-95-equipment-model.md).
 
 </td></tr><tr><td>
 

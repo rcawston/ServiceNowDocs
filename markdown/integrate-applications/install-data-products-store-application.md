@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Installing Data products automatically installs the [Data Catalog application](../../workflow-data-fabric/concept/data-catalog.md) as a dependency.
+Installing Data products automatically installs the [Data Catalog application](data-catalog.md) as a dependency.
 
 The following items are installed with Data products:
 
@@ -51,5 +51,5 @@ The following items are installed with Data products:
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure data products](../concept/configure-data-products.md)
+**Parent Topic:**[Configure data products](configure-data-products.md)
 

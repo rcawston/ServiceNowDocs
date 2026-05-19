@@ -39,7 +39,7 @@ The following items are installed with ServiceNow AI Lens:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with ServiceNow AI Lens](../reference/components-installed-sn-lens.md).
+For more information, see [Components installed with ServiceNow AI Lens](components-installed-sn-lens.md).
 
 ## Procedure
 

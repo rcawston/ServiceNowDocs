@@ -19,7 +19,7 @@ Variable sets can have one of many layouts. You can define the order of the vari
 -   **2 columns wide, alternating sides**: Variables are laid out in two columns with variables placed alternately in the left and right columns.
 -   **2 columns wide, one side, then the other**: The first half of the variable set is laid out sequentially in the left column and the second half is laid out sequentially in the right column.
 
-**Note:** Variables with several possible choices defined, such as [multiple choice](../reference/r_VariableTypes.md#sect_MultipleChoice) variables, are considered a single entity in layouts. All choices are displayed as a single, contiguous unit.
+**Note:** Variables with several possible choices defined, such as [multiple choice](r_VariableTypes.md#sect_MultipleChoice) variables, are considered a single entity in layouts. All choices are displayed as a single, contiguous unit.
 
 ## Variable set order
 
@@ -43,7 +43,7 @@ The variables are displayed in this order:
 
 ## Additional layout options
 
-For additional layout options, you can also add [container variables](../reference/r_VariableTypes.md#sect_Container) to a variable set.
+For additional layout options, you can also add [container variables](r_VariableTypes.md#sect_Container) to a variable set.
 
 For example, create the following variables and orders:
 

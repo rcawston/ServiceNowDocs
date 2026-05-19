@@ -61,7 +61,7 @@ How you elected to resolve this conflict:-   **Not reviewed**: Not yet reviewed
 -   **Reviewed and Retained**: Left customizations in place without update from upgrade
 -   **Reviewed and Reverted**: Customizations discarded, record updated according to upgrade
 
-For more information, see [Process the skipped records list](../task/uc-process-skipped-records.md).
+For more information, see [Process the skipped records list](uc-process-skipped-records.md).
 
 </td></tr><tr><td>
 

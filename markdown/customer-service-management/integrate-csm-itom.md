@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For more information about this integration, see [Integration with Event Management](../concept/pcso-event-management.md).
+For more information about this integration, see [Integration with Event Management](pcso-event-management.md).
 
 ## Procedure
 

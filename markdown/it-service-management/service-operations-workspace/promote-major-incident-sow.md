@@ -53,5 +53,5 @@ Role required: major\_incident\_manager or admin
     **Note:** You can also promote a major incident by selecting the **More actions** \(![More action icon from the top menu](../image/mim-more-actions-top-icon.png)\) icon and then selecting **Promote to Major Incident**.
 
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](managing-major-incident-sow.md)
 

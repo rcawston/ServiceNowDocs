@@ -116,7 +116,7 @@ The following table lists the keyboard shortcuts available for navigating:
 |Enter|Select the focused shape, relationship, or control.|
 |Shift + Enter|Move focus to shape or relationship adornments.|
 
--   **[Shapes to create a modeling diagram](../../reference/eaw-reference/eaw-modeling-shapes.md)**  
+-   **[Shapes to create a modeling diagram](eaw-modeling-shapes.md)**  
 The shapes available in Enterprise Modeling and Visualization help you create diagrams. You can add a shape to the canvas by either selecting the shape or by dragging the shape from the **Shapes** palette to the canvas.
 -   **[ArchiMate shapes support in the Enterprise Modeling and Visualization](eaw-modeling-archimate.md)**  
 ArchiMate® shapes are industry-standard elements used by enterprise architects to create diagrams that represent relationships across different domains of an enterprise. ArchiMate is a registered trademark of The Open Group. Enterprise Modeling and Visualization supports ArchiMate shapes along with General and Enterprise Architecture shapes.
@@ -129,7 +129,7 @@ Custom shapes are the user-defined graphical elements that can be used to repres
 -   **[Business process modeling](business-process-modeling.md)**  
 Business processes are a structured sequence of tasks that are grouped, helping to accomplish specific business outcomes. A business process modeling diagram or a BPMN \(Business Process Model and Notation\) diagram is a visual representation of a business process.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
@@ -138,13 +138,13 @@ Business processes are a structured sequence of tasks that are grouped, helping 
 
 [Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
-[Add or edit diagram version details](../../task/eaw-task/eaw-add-or-edit-diagram-version-details.md)
+[Add or edit diagram version details](eaw-add-or-edit-diagram-version-details.md)
 
-[Add labels to connector lines between shapes in a diagram](../../task/eaw-task/eaw-modeling-add-labels-to-connector-lines.md)
+[Add labels to connector lines between shapes in a diagram](eaw-modeling-add-labels-to-connector-lines.md)
 
-[Approve or reject a modeling diagram request](../../task/eaw-task/eaw-approve-diagram-req.md)
+[Approve or reject a modeling diagram request](eaw-approve-diagram-req.md)
 
-[Delete a shape](../../task/eaw-task/eaw-modeling-delete-shape.md)
+[Delete a shape](eaw-modeling-delete-shape.md)
 
-[Delete Enterprise Modeling and Visualization diagrams](../../task/eaw-task/eaw-modeling-delete-diagram.md)
+[Delete Enterprise Modeling and Visualization diagrams](eaw-modeling-delete-diagram.md)
 

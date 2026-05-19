@@ -43,5 +43,5 @@ Navigate to **Universal Request** &gt; **Administration**, open the following gu
 -   **Guided setup for UR**
 -   **Guided setup for Services**
 
-**Parent Topic:**[Exploring Universal Request](../concept/explore-universal-request.md)
+**Parent Topic:**[Exploring Universal Request](explore-universal-request.md)
 

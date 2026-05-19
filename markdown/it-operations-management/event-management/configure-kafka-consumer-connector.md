@@ -130,7 +130,7 @@ This field is automatically set to the last error message.
 
     4.  On the Kafka SSL Authentication screen, fill in the Kafka SSL credentials fields.
 
-        For the Kafka SSL credentials fields descriptions, see [.](../../health-log-analytics-admin/reference/hla-data-input-kafka-credentials.md)
+        For the Kafka SSL credentials fields descriptions, see [.](../health-log-analytics/hla-data-input-kafka-credentials.md)
 
         **Note:** If you clear the **Disable hostname verification** field, then in the **Additional Kafka consumer properties** field, enter the value of the **ssl.endpoint.identification.algorithm** parameter the same as of the Kafka server parameter value. For example:
 
@@ -282,5 +282,5 @@ The Kafka topic from which the messages are fetched.
 
 After the connector is created, you must map the fields. For more information, see [Map Kafka message payload attributes to alert fields](map-kafka-message-payload-attributes-to-alert-fields.md).
 
-**Parent Topic:**[Apache Kafka Consumer Connector](../concept/apache-kafka-consumer-connector.md)
+**Parent Topic:**[Apache Kafka Consumer Connector](apache-kafka-consumer-connector.md)
 

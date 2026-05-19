@@ -95,8 +95,8 @@ Select the events to be tracked.For example:
 </td></tr></tbody>
 </table>6.  Select **Create**.
 
-    If you want to test the webhook, see the section on Jira in [Test webhooks manually](../reference/test-wehooks-manually.md).
+    If you want to test the webhook, see the section on Jira in [Test webhooks manually](test-wehooks-manually.md).
 
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](jira-integration-dev-ops.md)
 

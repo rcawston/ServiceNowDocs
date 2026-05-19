@@ -101,8 +101,8 @@ Note the following rules when exporting and importing custom ERP models:
 
 11. Make any other necessary changes to the model.
 
-    For detailed information about editing and managing models, see [Managing how models read and update the ERP system](../concept/erpc-managing-models-read.md).
+    For detailed information about editing and managing models, see [Managing how models read and update the ERP system](erpc-managing-models-read.md).
 
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

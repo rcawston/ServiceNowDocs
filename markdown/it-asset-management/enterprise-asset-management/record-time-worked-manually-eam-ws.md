@@ -54,7 +54,7 @@ Role required: enterprise\_asset\_technician
 
 The Time Worked form is saved and the time card is added to the Time Worked tab of the asset repair task.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](record-repair-time-eam-ws.md)
 
 **Related topics**  
 

@@ -50,15 +50,15 @@ To learn about the integration tables, see [Integration tables for third-party s
 -   If additional supplier bids are returned from the third-party solution, an existing logic in ServiceNow determines if a new supplier, supplier product record, or both must be created.
 -   After awarding is done in ServiceNow, that information is sent back to the third party using the Awarded Supplier Outbound Queue table. Awarding can also be done in the third-party tool, in which case the data is received by ServiceNow.
 
-For information on sourcing request, negotiation, and sourcing event flows, see [Sourcing request](../reference/sourcing-request.md), [Negotiations](../reference/negotiations.md) and [Sourcing events](../reference/negotiation-events.md), respectively. For more information, see [Compare quotes and select a supplier](../task/work-compare-quotes-todos.md).
+For information on sourcing request, negotiation, and sourcing event flows, see [Sourcing request](sourcing-request.md), [Negotiations](negotiations.md) and [Sourcing events](negotiation-events.md), respectively. For more information, see [Compare quotes and select a supplier](work-compare-quotes-todos.md).
 
 -   **[Decision configuration for third-party sourcing](decision-config-third-party-sourcing.md)**  
 The Sourcing Event Generation Rule decision table in Sourcing and Procurement Operations helps the sourcing managers and procurement teams to configure the business criteria on demand, which provides them with flexibility to decide on the types of requests that should be integrated with a third-party sourcing solution.
 -   **[Integration tables for third-party sourcing](integ-tables-third-party-sourcing.md)**  
 Integration tables are used to interact with the third-party sourcing application. Relevant information that is required to conduct a Request for anything \(RFx\) in the third-party application is staged within ServiceNow and transferred through APIs to the third-party application.
--   **[Submit multi-product sourcing requests](../task/multi-product-sourcing-intake-with-third-party-integration.md)**  
+-   **[Submit multi-product sourcing requests](multi-product-sourcing-intake-with-third-party-integration.md)**  
 Requesters can submit sourcing requests with multiple products in a single sourcing intake form. When a sourcing request form contains multiple products, the third-party sourcing solution automatically creates individual sourcing events for each product.
--   **[Manage third-party RFx tasks in Employee Center](../task/third-party-rfx-task-management-for-requestors.md)**  
+-   **[Manage third-party RFx tasks in Employee Center](third-party-rfx-task-management-for-requestors.md)**  
 Requesters can view and manage third-party Request for anything \(RFx\) tasks in the Employee Center and navigate to the third-party sourcing tool to review, publish, and award RFx.
 
 **Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
@@ -80,7 +80,7 @@ Requesters can view and manage third-party Request for anything \(RFx\) tasks in
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

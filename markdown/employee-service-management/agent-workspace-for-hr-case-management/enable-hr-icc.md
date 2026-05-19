@@ -66,5 +66,5 @@ Role required: admin
 
 ## What to do next
 
-Refer to [Plugin requirements](../concept/plugin-req-hr-icc.md) for dependencies and address all prerequisite requirements to access the ICC features.
+Refer to [Plugin requirements](plugin-req-hr-icc.md) for dependencies and address all prerequisite requirements to access the ICC features.
 

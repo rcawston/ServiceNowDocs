@@ -25,29 +25,29 @@ Familiarize yourself with the terminology and artifacts used in Agile Developmen
 
     In an assignment group, a user is designated as the scrum master, who is responsible to ensure that all the scrum activities are properly performed for a release. For more information, see [Assignment groups in Agile Development 2.0](manage-groups-agile-dev.md).
 
--   **[Epic](../task/create-an-epic.md)**
+-   **[Epic](create-an-epic.md)**
 
     High-level definition of a requirement that provides value to the business, such as a new feature or a significant enhancement. Epics are broken down into Agile stories and can be worked on by a single or multiple teams.
 
--   **[Story](../task/create-a-story.md)**
+-   **[Story](create-a-story.md)**
 
     Short, manageable pieces of work that are related to an epic. Stories capture the who, what, and why of a requirement in a simple and concise way. Using the description and criteria mentioned in the stories, teams can accurately estimate the effort required to implement the work in it.
 
--   **[Scrum task](../task/create-a-scrum-task.md)**
+-   **[Scrum task](create-a-scrum-task.md)**
 
     Distinct tasks that are required to complete a story. A task might require from 4 through 12 hours to complete.
 
--   **[Backlog](../../sdlc-scrum/task/manage-maintain-backlog.md)**
+-   **[Backlog](manage-maintain-backlog.md)**
 
     List of work that must be implemented, as part of achieving specific outcomes. Backlog contains work related to new features, enhancements to existing features, and other activities of product development.
 
     Backlog is considered as the single source of work for a product or team. Anything that is not included in the backlog would not be prioritized for development.
 
--   **[Personal Backlog](../../sdlc-scrum/task/create-a-backlog.md)**
+-   **[Personal Backlog](create-a-backlog.md)**
 
     Product owners define a personalized work pipeline called personal backlog, by applying relevant filter criteria. In Agile Development 2.0, product owners can define as many personalized backlogs as necessary. The criteria used to create the personalized backlog is flexible and can be modified at any time.
 
--   **[Sprints](../../sdlc-scrum/task/plan-sprint-activities.md)**
+-   **[Sprints](plan-sprint-activities.md)**
 
     Short, fixed periods, in which team members pick and complete a set number of stories. These short, time-boxed cycles provide the teams the flexibility to adapt to changing priorities.
 
@@ -77,20 +77,20 @@ Familiarize yourself with the terminology and artifacts used in Agile Developmen
 
     Defects can be used to report and track the resolution of issues that are noticed during the development of a new feature, or as a feedback for existing features. Product owners then review these defects and decides on creating stories for them, which are assigned to the relevant assignment groups.
 
-    Using the Agile Development — Unified Backlog, you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](../../sdlc-scrum/concept/unified-backlog.md).
+    Using the Agile Development — Unified Backlog, you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](unified-backlog.md).
 
 -   **[Enhancements](enhancement-requests.md#)**
 
     Enhancement requests can be used to log feature enhancements for a product. These requests can arise from internal requirements or customer feedback. Product owners review these logged requests and decides on creating stories for them based on priority. These stories are then assigned to the relevant assignment groups for development.
 
-    Using the Agile Development — Unified Backlog, you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](../../sdlc-scrum/concept/unified-backlog.md).
+    Using the Agile Development — Unified Backlog, you can set up a triage board to maintain a centralized backlog for records of different task types, such as defects, stories, and enhancements. For more information, see [Agile Development — Unified Backlog](unified-backlog.md).
 
 
 ## Scrum activities
 
 The Scrum process usually consists of the following activities.
 
--   **[Sprint planning](../../sdlc-scrum/task/plan-sprint-activities.md)**
+-   **[Sprint planning](plan-sprint-activities.md)**
 
     Assignment group members meet to decide on the stories that they can commit to deliver in the sprint. Typically, they commit to the top ranked stories first. The group decides which scrum tasks are necessary for each story. The product owner should be present to answer any questions.
 
@@ -115,7 +115,7 @@ The Scrum process usually consists of the following activities.
 
 Scrum reports help you analyze the performance and progress of your agile team. These reports can be related to an epic, sprint or release, and provide historical data of your team's work velocity. Performance Analytics Content Pack for Agile 2.0 provides pre-configured dashboards with data visualizations to help you improve your Agile practices.
 
-For more information, see [Performance Analytics Content Pack for Agile 2.0](../../../use/dashboards/application-content-packs/pa-content-pack-for-agile-2.0.md).
+For more information, see [Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md).
 
 **Parent Topic:**[Exploring Agile Development 2.0](exploring-agile-development-2.md)
 

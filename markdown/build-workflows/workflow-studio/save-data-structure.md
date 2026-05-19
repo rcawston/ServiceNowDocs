@@ -41,5 +41,5 @@ Save the data structure of child variables within an Object variable for later r
 
 Load the data structure in another action or subflow. Make updates to the data structure and save them.
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](complex-data.md)
 

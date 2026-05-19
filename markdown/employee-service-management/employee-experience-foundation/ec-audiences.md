@@ -91,7 +91,7 @@ HR Criteria \[sn\_hr\_core\_criteria\]
 
 </td><td>
 
-\(HR Service Delivery only\) Use pre-defined HR criteria. HR criteria is based on conditions defined by the HR Profile \[sn\_hr\_core\_profile\] or User \[sys\_user\] tables. The base system provides examples that can be used.**Note:** For more information, see [HR criteria](../../human-resources/concept/hr-criteria.md#) and [Configure an HR criteria record](../../human-resources/concept/hr-criteria.md#).
+\(HR Service Delivery only\) Use pre-defined HR criteria. HR criteria is based on conditions defined by the HR Profile \[sn\_hr\_core\_profile\] or User \[sys\_user\] tables. The base system provides examples that can be used.**Note:** For more information, see [HR criteria](../hr-service-delivery/hr-criteria.md#) and [Configure an HR criteria record](../hr-service-delivery/hr-criteria.md#).
 
 </td></tr><tr><td>
 
@@ -116,5 +116,5 @@ Browse and choose a file with populated with user names or email addresses. -   
 
 If you click **Save** and the **Allow Ownership for Audiences** property is set to **Yes**, the **Restrict audience by user** and **Restrict audience by group** related lists appear.
 
-**Note:** For more information on restricting an audience by user or group, see [Content Ownership](../concept/ecpro-content-restriction.md) and [Assign ownership of an audience](ecpro-ca-cd-audience-delegation.md).
+**Note:** For more information on restricting an audience by user or group, see [Content Ownership](ecpro-content-restriction.md) and [Assign ownership of an audience](ecpro-ca-cd-audience-delegation.md).
 

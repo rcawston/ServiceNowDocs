@@ -96,5 +96,5 @@ Compliance administrators can change this setting.-   Type: string
 
 Return to the [Policy and Compliance Management setup checklist](policy-compliance-impl-checklist.md).
 
-**Parent Topic:**[Perform Policy and Compliance Management administration](../concept/perform-policy-compliance-admin.md)
+**Parent Topic:**[Perform Policy and Compliance Management administration](perform-policy-compliance-admin.md)
 

@@ -40,5 +40,5 @@ You can convert all general shapes to group shapes, except shapes such as actor,
     ![Change a general shape to a group shape](../../image/eaw-image/modeling/modeling-grop-ungroup-shape.gif)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

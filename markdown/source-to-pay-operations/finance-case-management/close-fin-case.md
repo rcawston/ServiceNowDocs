@@ -54,5 +54,5 @@ Role required: sn\_fin\_ops.specialist
 
 The case moves to the Closed complete state, the associated open tasks are closed, and the details in the Closure section are filled.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

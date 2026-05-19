@@ -25,7 +25,7 @@ The **Parent** reference field also has to contain a value for the breadcrumbs t
 
 ![Problem Task showing breadcrumbs and the Parent reference field](../image/ParentBreadcrumbReferenceField.png "Breadcrumbs")
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 ## Customize the parent breadcrumbs formatter
 

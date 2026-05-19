@@ -32,11 +32,11 @@ The following example shows the access hour preferences for an account at two di
 
 The steps for setting up the auto-population of access hours are:
 
-1.  [Activate Field Service Management Access Hours Management](../task/install-access-hour-fsm.md)
+1.  [Activate Field Service Management Access Hours Management](install-access-hour-fsm.md)
 
     Activate the Field Service Management Access Hours Management plugin \(com.snc.fsm\_access\_hours\) for Field Service Management if you have the admin role.
 
-2.  [Define access hour preferences for a work order task](../task/define-access-hour-preferences.md)
+2.  [Define access hour preferences for a work order task](define-access-hour-preferences.md)
 
     Define the access hours to set the times that a location is available for an agent to go to and complete work.
 

@@ -139,14 +139,14 @@ Business application that this feedback is related to.
 </td></tr></tbody>
 </table>The following is the list of related tabs:
 
--   Product ideas tab: Displays all the ideas that are linked with the feedback record. For more information, see [Associate feedback with a product idea](../task/associate-feedback-with-product-idea.md).
--   Planning items tab: Displays all the planning items that are linked with the feedback record. For more information, see [Associate a feedback or product idea with a planning item](../task/associate-feedback-with-planning-item.md).
--   Related items tab: Displays all the non-planning items that are linked with the feedback record. This tab is only available if the non-planning items are linked. For more information, see [Associate a feedback or a product idea record with a non-planning item](../task/associate-feedback-with-non-planning-item.md).
+-   Product ideas tab: Displays all the ideas that are linked with the feedback record. For more information, see [Associate feedback with a product idea](associate-feedback-with-product-idea.md).
+-   Planning items tab: Displays all the planning items that are linked with the feedback record. For more information, see [Associate a feedback or product idea with a planning item](associate-feedback-with-planning-item.md).
+-   Related items tab: Displays all the non-planning items that are linked with the feedback record. This tab is only available if the non-planning items are linked. For more information, see [Associate a feedback or a product idea record with a non-planning item](associate-feedback-with-non-planning-item.md).
 
 **Parent Topic:**[Form field information for Feedback application](form-field-information-for-product-feedback.md)
 
 **Related topics**  
 
 
-[Create Feedback in Strategic Planning](../task/create-feedback-in-sp.md)
+[Create Feedback in Strategic Planning](create-feedback-in-sp.md)
 

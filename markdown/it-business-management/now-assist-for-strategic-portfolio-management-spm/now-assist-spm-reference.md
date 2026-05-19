@@ -18,11 +18,11 @@ Reference information to provide additional information about tables, roles, and
 **Related topics**  
 
 
-[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](../concept/exploring-now-assist-for-spm.md)
+[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](exploring-now-assist-for-spm.md)
 
-[Configure Now Assist Admin features](../concept/configuring-na-spm.md)
+[Configure Now Assist Admin features](configuring-na-spm.md)
 
-[Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-na-spm-ai-agents.md)
+[Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](using-na-spm-ai-agents.md)
 
-[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

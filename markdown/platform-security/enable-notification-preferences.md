@@ -53,7 +53,7 @@ Failed Login
 
 </td><td>
 
-Send the selected type of notification whenever other users fail to log in into this instance in less than the number of attempts defined in the **glide.user.max\_unlock\_attempts** property. If you don't configure this property, the default value is 5. To learn more about this property, see [Specify lockout for failed login attempts](t_LockoutForFailedLogins.md).
+Send the selected type of notification whenever other users fail to log in into this instance in less than the number of attempts defined in the **glide.user.max\_unlock\_attempts** property. If you don't configure this property, the default value is 5. To learn more about this property, see [Specify lockout for failed login attempts](authentication/t_LockoutForFailedLogins.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ HP Role Added
 
 </td><td>
 
-Send the selected type of notification whenever a high privilege security role \(including oauth\_admin, admin, security\_admin, and impersonator roles\) is granted to another user.To learn more about elevating user security, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](../concept/c_ElevatedPrivilege.md).
+Send the selected type of notification whenever a high privilege security role \(including oauth\_admin, admin, security\_admin, and impersonator roles\) is granted to another user.To learn more about elevating user security, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](c_ElevatedPrivilege.md).
 
 </td></tr><tr><td>
 
@@ -146,5 +146,5 @@ Select a specific type of notification for all types security events. For exampl
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[Monitor security events](../concept/instance-sec-center-event-ribbon.md)
+**Parent Topic:**[Monitor security events](instance-sec-center-event-ribbon.md)
 

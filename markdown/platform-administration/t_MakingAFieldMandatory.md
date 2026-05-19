@@ -21,7 +21,7 @@ Role required: personalize\_dictionary
 
 A mandatory field that is pre-populated by the platform with default data, such as a value from a client script, does not display the indicator. If you delete this value from the field, however, the indicator appears. The color of the indicator depends on the field state.
 
-Using a dictionary entry to make a field mandatory does not work when using WebServices. You can use a data policy instead. For more information on data policies, see [Data policy](../concept/c_DataPolicy.md).
+Using a dictionary entry to make a field mandatory does not work when using WebServices. You can use a data policy instead. For more information on data policies, see [Data policy](c_DataPolicy.md).
 
 ## Procedure
 
@@ -42,12 +42,12 @@ Using a dictionary entry to make a field mandatory does not work when using WebS
 4.  Use **dictionary override&gt;override mandatory** to make a field that is mandatory only in the child table and not the parent table.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 
 **Related topics**  
 
 
 [Set a CI field to be mandatory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_SetCIFieldMandatory.md)
 
-[Define a dictionary override](../../data-dictionary-tables/task/t_DefineADictionaryOverride.md)
+[Define a dictionary override](table-administration-and-data-management/t_DefineADictionaryOverride.md)
 

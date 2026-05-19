@@ -39,7 +39,7 @@ To create an event that repeats daily, weekly, or monthly, see [Create repeatabl
 
 4.  On the New event form, fill the fields.
 
-    For a description of the field names, see [New event form](../reference/new-event-form.md).
+    For a description of the field names, see [New event form](new-event-form.md).
 
 5.  Select **Submit**.
 
@@ -49,7 +49,7 @@ To create an event that repeats daily, weekly, or monthly, see [Create repeatabl
 -   When you add a calender event, the resource aggregate daily, weekly, and monthly tables are updated. The resource aggregate daily table isn’t enabled by default. To generate daily aggregates and store them in this table, create the **com.snc.resource\_management.generate\_daily\_aggregates** property and set its value to true.
 -   All the non-project events created for you from the calender appear as Operational Work for you in [Resource Finder](create-resource-plan-with-finder.md).
 
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](c_MyCalendar.md)
 
 **Related topics**  
 

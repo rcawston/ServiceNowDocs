@@ -47,7 +47,7 @@ The start node is the first node in a decision tree. It contains a task input an
 
 9.  Select the type of answer for your question.
 
-    For a description of the answer types, see [Answer types for questions](../reference/type-of-answer.md).
+    For a description of the answer types, see [Answer types for questions](type-of-answer.md).
 
     The answer the customer provides to a question can be passed to other nodes and paths via input mapping.
 

@@ -70,6 +70,6 @@ Use Microsoft Word to edit a knowledge article originally created in Microsoft W
     -   **Knowledge - Approval Publish**: The knowledge article is published on approval completion unless it is scheduled to be published at a later date.
     For more information, see [Schedule a knowledge article for publishing in Microsoft Word](schedule-article-publishing-word.md).
 
-    If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+    If the article versioning feature is enabled, the version number of the knowledge article increments to the next whole number \(for example, from 2.02 to 3.0\). For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 

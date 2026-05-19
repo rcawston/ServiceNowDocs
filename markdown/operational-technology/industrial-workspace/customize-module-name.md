@@ -32,5 +32,5 @@ Role required: admin or ui\_builder\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](setting-up-the-ot-progress-scorecard.md)
 

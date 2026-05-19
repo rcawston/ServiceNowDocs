@@ -19,7 +19,7 @@ Create rules for automatically adding traffic-based connections and the CIs they
 
 -   Analyze the infrastructure you are mapping to identify the most common connections. These common connections are good candidates for connection rules.
 -   Confirm that discovery based on Predictive Intelligence is enabled. Navigate to the System Property \[sys\_properties\] table and verify that the **sa\_ml.connection\_suggestions.active** property is set to **True**.
--   [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md).
+-   [Discover applications based on fingerprints](../discovery/discover-application-based-process.md).
 
 Role required: service\_mapping\_admin
 
@@ -29,7 +29,7 @@ Connection rules enhance the connection suggestions generated using Predictive I
 
 You can create connection rules that apply to specific application services or to all application services. If the rule is for a specific service, but the rule condition points at a CI that is part of multiple services, Service Mapping adds this CI to all relevant services.
 
-For information about Service Mapping evaluating and applying connection rules, see [Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md).
+For information about Service Mapping evaluating and applying connection rules, see [Traffic-based discovery in Service Mapping](traffic-based-discovery.md).
 
 In addition to connection rules that add CIs to specific services, you can [create rules for adding CIs to multiple application services](add-cis-connection-rules-multiple.md).
 

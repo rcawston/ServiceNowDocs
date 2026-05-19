@@ -52,7 +52,7 @@ You receive an email when the request has been processed.
 
 After the request has been processed, view on-premise licensing requests to download the data.
 
-**Parent Topic:**[Configuring Subscription Management](../concept/configuring-subscription-management-v2.md)
+**Parent Topic:**[Configuring Subscription Management](configuring-subscription-management-v2.md)
 
 ## View on-premise licensing information requests
 

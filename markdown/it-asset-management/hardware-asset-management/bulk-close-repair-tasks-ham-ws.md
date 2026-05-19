@@ -65,7 +65,7 @@ You can bulk close only similar asset repair tasks that are in the Open state. H
 
 All the selected repair tasks are closed with the same task result and Work notes.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

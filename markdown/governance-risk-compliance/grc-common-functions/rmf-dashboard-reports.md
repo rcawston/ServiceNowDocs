@@ -15,7 +15,7 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 The NIST RMF Use Case Accelerator contains various reports displayed on different dashboards, available within each of the sections in the NIST RMF process: Categorize, Select, Implement, Assess, Authorize, and Monitor.
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../continuous-risk-monitoring/grc-cam-landing-page.md).
 
 |Reports|Purpose|
 |-------|-------|
@@ -162,5 +162,5 @@ Baseline Security Controls are recommended set of security controls from Nationa
 |Test Plan effectiveness|Provides an overview of the test plan effectiveness of security controls based on the effectiveness of the associated control tests.|
 |Risks|List of Risks grouped by profiles and associated with security controls.|
 
-**Parent Topic:**[NIST RMF Use Case Accelerator](../concept/grc-and-nistrmf-usecase-accelerator.md)
+**Parent Topic:**[NIST RMF Use Case Accelerator](grc-and-nistrmf-usecase-accelerator.md)
 

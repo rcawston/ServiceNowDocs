@@ -132,9 +132,9 @@ Select the report to view details about the cost savings that you have achieved 
 **Related topics**  
 
 
-[Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md)
+[Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md)
 
 [Reclamation rules for Microsoft 365 integration](m365-reclamation-rules.md)
 
-[Microsoft 365 integration](../concept/microsoft-o365.md)
+[Microsoft 365 integration](microsoft-o365.md)
 

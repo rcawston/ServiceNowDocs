@@ -54,7 +54,7 @@ View skills
 
 </td><td>
 
-Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](../concept/skill-details-emp.md).
+Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](skill-details-emp.md).
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ The employee profile page appears with details such as reporting structure, cowo
     3.  Select the Skill pill icon \(![View menu icon](../image/viewmenu.png)\) on a skill to perform one of the following:
 
         -   **View skill details**: View a detailed description of the skill.
-        -   **Assign learning**: Assign a learning course to an employee. For more information, see [Assign learning form](../reference/assign-learning-form.md).
+        -   **Assign learning**: Assign a learning course to an employee. For more information, see [Assign learning form](assign-learning-form.md).
 5.  To view all the employee cards, select **View all**.
 
 6.  If you have team members reporting from different job functions, you can filter the skill distribution by job function.

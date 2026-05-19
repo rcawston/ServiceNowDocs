@@ -2827,5 +2827,5 @@ cmdb\_ci\_server
 Same as when the operating system isn't present.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](../concept/integration-sgc-microsoft-defender-iot-on-prem.md)
+</table>**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](integration-sgc-microsoft-defender-iot-on-prem.md)
 

@@ -29,7 +29,7 @@ Mobile list filters enable your users to find what they need in the records on y
 
 -   **Dynamic screen name**
 
-Configure your list screen to inherit the name of a previous screen selection or form field and display it as the header on a subsequent screen. For more information, see [Configure a dynamic screen name for a list screen](../task/dynamic-screen-titles.md).
+Configure your list screen to inherit the name of a previous screen selection or form field and display it as the header on a subsequent screen. For more information, see [Configure a dynamic screen name for a list screen](dynamic-screen-titles.md).
 
 -   **Functions**
 
@@ -45,7 +45,7 @@ Functions determine which actions users can perform in your mobile apps. For mor
 
 <table id="table_y4t_zv3_nlb"><tbody><tr><td>
 
-Configure your list with a record screen so your users can tap list items to view details of the records on your list. For details on list configuration, see [List screen configuration](../task/sg-configure-list-screen.md).
+Configure your list with a record screen so your users can tap list items to view details of the records on your list. For details on list configuration, see [List screen configuration](sg-configure-list-screen.md).
 
 </td><td>
 
@@ -108,7 +108,7 @@ If the default filters do not fit your requirements, you can create a custom fil
 
 ## Dynamic screen name
 
-Use dynamic screen name functionality to let users to easily identify the screen or field which they are currently viewing. You can configure a screen to inherit a name from a previous screen selection. These dynamic names can be used with grouped lists, where the selected group name becomes the header on a subsequent screen. Alternatively, a field in a form can be used as a header in a different screen. For more information, see [Configure a dynamic screen name for a list screen](../task/dynamic-screen-titles.md).
+Use dynamic screen name functionality to let users to easily identify the screen or field which they are currently viewing. You can configure a screen to inherit a name from a previous screen selection. These dynamic names can be used with grouped lists, where the selected group name becomes the header on a subsequent screen. Alternatively, a field in a form can be used as a header in a different screen. For more information, see [Configure a dynamic screen name for a list screen](dynamic-screen-titles.md).
 
 <table id="table_rjt_nmr_ylb"><tbody><tr><td>
 

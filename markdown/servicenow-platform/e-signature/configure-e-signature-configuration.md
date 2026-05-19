@@ -100,5 +100,5 @@ Adds a check box with accompanying acknowledgment text that the user must select
 
 You can use the e-signature template in task forms to request electronic signatures from users.
 
-**Parent Topic:**[Using e-signature](../concept/using-esignature.md)
+**Parent Topic:**[Using e-signature](using-esignature.md)
 

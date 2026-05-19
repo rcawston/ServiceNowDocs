@@ -86,16 +86,16 @@ if(!current.watch_list.nil()){
       email.addAddress("cc", user.email, user.getDisplayValue());}}
 ```
 
-**Parent Topic:**[Scripting for email notifications](../concept/c_ScriptingForEmailNotifications.md)
+**Parent Topic:**[Scripting for email notifications](c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
 
-[JavaScript in emails](../concept/c_UseJavaScriptInEmails.md)
+[JavaScript in emails](c_UseJavaScriptInEmails.md)
 
 [Mail script variables](r_MailScriptAPI.md)
 
-[Useful attachment scripts](../../useful-scripts/reference/r_UsefulAttachmentScripts.md)
+[Useful attachment scripts](r_UsefulAttachmentScripts.md)
 
 [TemplatePrinter API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_TemplatePrinterScopedAPI.md)
 

@@ -303,5 +303,5 @@ Excludes the resource assignments with defined statuses from calculating resourc
 This field is left empty.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

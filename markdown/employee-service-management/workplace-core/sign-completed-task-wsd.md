@@ -44,5 +44,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 A PDF document of the signed form is generated based on the signing template associated with the task and is attached to the task.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

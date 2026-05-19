@@ -47,16 +47,16 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 -   **[Configure metric categories or metrics for a survey using the question bank](configure-questionbank-survey.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a survey.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](c_SurveyQuestion.md)
 
 **Related topics**  
 
 
 [Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
 [Create or modify answer options](t_CreateOrModifyAnswerOptions.md)
 

@@ -40,5 +40,5 @@ Role required: admin
 
 If the skill was successfully activated or deactivated, the system notifies you.
 
-**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](../concept/configuring-now-ass-skills-pa.md)
+**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](configuring-now-ass-skills-pa.md)
 

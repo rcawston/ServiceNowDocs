@@ -15,7 +15,7 @@ The XMLTemplate methods classify the templates and get the fields added to the t
 
 ## Clasify
 
-Classifies the template created. To see the steps to create templates, see [Use the XmlTemplate component](../task/configure-xml-template.md).
+Classifies the template created. To see the steps to create templates, see [Use the XmlTemplate component](configure-xml-template.md).
 
 You must first configure the method before executing it. To configure, do the following steps.
 
@@ -44,5 +44,5 @@ Returns the fields that were added to the template. You must configure the metho
 
 4.  Click **OK**.
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](data-modellers.md)
 

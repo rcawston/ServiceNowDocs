@@ -29,9 +29,9 @@ Assign a learning task to an employee that can be completed from the To-dos page
 Create definitions for achievements to define the end goal.
 -   **[Create user achievements](create-user-achievements.md)**  
 Create user achievements to project the accomplishments of course takers on My Learning.
--   **[Create an achievement rule](../task/create-achievement-rule.md)**  
+-   **[Create an achievement rule](create-achievement-rule.md)**  
 Create achievement rules to define the criteria to be met to complete an achievement.
--   **[Create an achievement rule item](../task/achievement-rule-item.md)**  
+-   **[Create an achievement rule item](achievement-rule-item.md)**  
 Create an achievement rule item to define if all or a count of items need to be completed to receive an achievement.
 
 **Parent Topic:**[Using My Learning](manage-your-learning.md)
@@ -39,9 +39,9 @@ Create an achievement rule item to define if all or a count of items need to be 
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](resume-course.md)
 
 [Create a personal course collection](create-personal-collection.md)
 
@@ -49,7 +49,7 @@ Create an achievement rule item to define if all or a count of items need to be 
 
 [View recent activity](view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](assign-learning-lxp.md)
 
 [Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

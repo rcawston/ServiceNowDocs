@@ -320,10 +320,10 @@ Controls the size of the result, including the payload.**Note:** If this is grea
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+</table>**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
 
 **Related topics**  
 
 
-[Application Dependency Mapping \(ADM\) for Discovery](r_ApplicationDependencyMapping.md#)
+[Application Dependency Mapping \(ADM\) for Discovery](../discovery/r_ApplicationDependencyMapping.md#)
 

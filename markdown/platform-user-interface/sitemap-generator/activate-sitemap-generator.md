@@ -23,7 +23,7 @@ Role required: admin
 
 Scheduled jobs and tables are installed with Sitemap Generator.
 
-For more information, see [Components installed with Sitemap Generator](../reference/installed-with-sitemap-generator.md).
+For more information, see [Components installed with Sitemap Generator](installed-with-sitemap-generator.md).
 
 ## Procedure
 
@@ -40,8 +40,8 @@ For more information, see [Components installed with Sitemap Generator](../refer
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Sitemap Generator](../reference/installed-with-sitemap-generator.md)**  
+-   **[Components installed with Sitemap Generator](installed-with-sitemap-generator.md)**  
 Several types of components are installed with activation of the Sitemap Generator plugin, including tables and scheduled jobs.
 
-**Parent Topic:**[Sitemap Generator](../concept/sitemap-generator.md)
+**Parent Topic:**[Sitemap Generator](sitemap-generator.md)
 

@@ -62,5 +62,5 @@ Role required: admin
 
 After adding the app to Workspace ONE UEM, it appears in the **Apps &amp; Books** &gt; **Applications** &gt; **Native** &gt; **Public** section of the Workspace ONE UEM portal. Mobile users can download the app from the Workspace ON UEM App Catalog app.
 
-**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](../concept/airwatch-mdm.md)
+**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](airwatch-mdm.md)
 

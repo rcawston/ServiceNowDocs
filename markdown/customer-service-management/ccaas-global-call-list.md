@@ -84,7 +84,7 @@ Default Workspace
 
 </td><td>
 
-Workspace configured via OpenFrame enables agents to navigate to an ICC integrated workspace if they are in an unsupported workspace. See: [Set default workspace for CCaaS](../task/ccaas-set-default-workspace.md).
+Workspace configured via OpenFrame enables agents to navigate to an ICC integrated workspace if they are in an unsupported workspace. See: [Set default workspace for CCaaS](ccaas-set-default-workspace.md).
 
 </td></tr></tbody>
 </table>Let’s go over some scenarios to understand how an agent can switch between supported and unsupported workspaces while managing inbound and outbound calls:
@@ -101,7 +101,7 @@ Workspace configured via OpenFrame enables agents to navigate to an ICC integrat
 
     The agent selects the phone icon to open the phone dial pad to make an outbound call from an unsupported workspace. The related interaction record opens in the agent’s current unsupported workspace. However, the agent must have default workspace configured to see the current call in the Interaction screen.
 
-    **Note:** See: [Set default workspace for CCaaS](../task/ccaas-set-default-workspace.md).
+    **Note:** See: [Set default workspace for CCaaS](ccaas-set-default-workspace.md).
 
 -   **Scenario 4**
 

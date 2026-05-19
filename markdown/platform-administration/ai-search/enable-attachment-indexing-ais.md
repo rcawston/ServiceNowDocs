@@ -67,5 +67,5 @@ Attachment indexing is enabled for the indexed source.
 
 If you changed the **index\_attachments** attribute's value from **false** to **true**, reindex content for the indexed source. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md)
+**Parent Topic:**[Indexed source attributes for AI Search](indexed-source-attributes-ais.md)
 

@@ -21,7 +21,7 @@ With the integration of ServiceNow® Collaborative Work Management \(CWM\) with 
 
 The lenses supported to configure CMW Board as a planning item are Organization and Project Portfolio.
 
-For more information on integration of CWM with Portfolio Planning, see [Connecting CWM with Strategic Planning or Portfolio Planning](../../collab-work-mgmt/concept/connect-cwm-spw.md#).
+For more information on integration of CWM with Portfolio Planning, see [Connecting CWM with Strategic Planning or Portfolio Planning](../collaborative-work-management/connect-cwm-spw.md#).
 
 **Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
 

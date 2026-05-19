@@ -34,5 +34,5 @@ Role required: admin
 4.  Select **Save**.
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo-setup.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](awa-spo-setup.md)
 

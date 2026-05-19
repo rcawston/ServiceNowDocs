@@ -116,12 +116,12 @@ Order
 Order field value.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create capacity function](../task/create-capacity-function.md)
+[Create capacity function](create-capacity-function.md)
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](capacity-management-reporting.md)
 

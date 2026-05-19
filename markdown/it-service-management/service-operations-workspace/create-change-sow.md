@@ -148,7 +148,7 @@ DevOps or DevOps Simplified
 Change model used for DevOps change requests.To use the DevOps models, you must activate the DevOps Change Velocity application.
 
 </td></tr></tbody>
-</table>    For more information, see [Change models](../../change-management/concept/change-models.md).
+</table>    For more information, see [Change models](../change-management/change-models.md).
 
     **Note:** When you create a change request from an interaction, only pre-approved change types are available.
 
@@ -294,7 +294,7 @@ Information about how to resolve the change or steps taken to resolve it, if app
 
 7.  Schedule the implementation for the change and view conflicts detected.
 
-    **Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](../../change-management/task/t_RunManualConflictDetection.md#)
+    **Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](../change-management/t_RunManualConflictDetection.md#)
 
     1.  Select **Set schedule**.
 
@@ -382,7 +382,7 @@ Last checked
 Date when the conflict detection process was last run.
 
 </td></tr></tbody>
-</table>        For more information, see [Conflict detection](../../change-management/concept/c_ConflictDetection.md).
+</table>        For more information, see [Conflict detection](../change-management/c_ConflictDetection.md).
 
         **Note:** You can also run the conflict detection process manually by selecting **Check conflicts**.
 
@@ -470,7 +470,7 @@ The specific data to associate with the change request. You can select multiple 
 
 11. Associate the change with a product or service release.
 
-    This option is available only if you have the Digital Product Release v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](../../digital-product-release/concept/dpr-sow-integration-cr.md).
+    This option is available only if you have the Digital Product Release v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](../digital-product-release/dpr-sow-integration-cr.md).
 
     1.  Select **Assign** in the **Related release** card on the contextual side panel.
 
@@ -515,14 +515,14 @@ The specific data to associate with the change request. You can select multiple 
 -   **[Create and propose a change template in Service Operations Workspace](create-change-template-sow.md)**  
 Create, customize, and then propose a change template aligned to a change model.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
 
 [Work on a change request in Service Operations Workspace](work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Create a change task in Service Operations Workspace](create-change-task-sow.md)
 

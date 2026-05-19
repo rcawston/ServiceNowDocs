@@ -41,9 +41,9 @@ The **Due date duration \(days\)** field is added for manual indicator in the In
 
 A new field introduced in the indicator supporting data table, which is of type JSON, helps in efficient data management.
 
--   For more information related to the table changes, see [Tables installed with Governance, Risk, and Compliance](../../grc-common/reference/tables-installed-with-grc.md).
--   For more information on the additional system properties, see [Governance, Risk, and Compliance properties](../../grc-common/reference/grc-properties.md).
--   For Indicator form changes, see [Create a GRC indicator](../../grc-indicators/task/t_CreateAnIndicator.md).
--   For the Indicator template form changes in Compliance Workspace, see [Create a GRC indicator template using the Compliance Workspace](../task/create-grc-indicator-template-ws.md).
--   For the Indicator template form changes in the classic UI, see [Create a GRC indicator template](../../grc-indicators/task/t_CreateIndicatorTemplate.md).
+-   For more information related to the table changes, see [Tables installed with Governance, Risk, and Compliance](../grc-common-functions/tables-installed-with-grc.md).
+-   For more information on the additional system properties, see [Governance, Risk, and Compliance properties](../grc-common-functions/grc-properties.md).
+-   For Indicator form changes, see [Create a GRC indicator](../audit-management/t_CreateAnIndicator.md).
+-   For the Indicator template form changes in Compliance Workspace, see [Create a GRC indicator template using the Compliance Workspace](create-grc-indicator-template-ws.md).
+-   For the Indicator template form changes in the classic UI, see [Create a GRC indicator template](../audit-management/t_CreateIndicatorTemplate.md).
 

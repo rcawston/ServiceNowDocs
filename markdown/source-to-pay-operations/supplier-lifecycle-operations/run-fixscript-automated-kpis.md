@@ -36,7 +36,7 @@ Role required: admin
 
 After running the fix script, a new field **Data collection type** is added in the KPI Template \[sn\_kpi\_template\] table.
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -53,7 +53,7 @@ After running the fix script, a new field **Data collection type** is added in t
 
 [Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 
 [Run fix script to update the Aggregation method field in the KPI table](run-fixscript-update-kpi-aggregation-method.md)
 

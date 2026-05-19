@@ -17,7 +17,7 @@ Create AWS CloudFormation Identity Access Manager \(IAM\) resources for three AW
 
 ## Before you begin
 
-Verify that the target user account has the required AWS IAM permissions. For more information, see [About Amazon Web Services API permissions](../concept/about-aws-api-permissions.md).
+Verify that the target user account has the required AWS IAM permissions. For more information, see [About Amazon Web Services API permissions](about-aws-api-permissions.md).
 
 **Note:** Always follow your organization's security policies when implementing IAM permissions.
 

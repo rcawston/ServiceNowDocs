@@ -24,9 +24,9 @@ You can create filter criteria for APIs using the same process as filter criteri
 **Related topics**  
 
 
-[Create IP filter criteria](../task/create-ip-filter-criteria.md)
+[Create IP filter criteria](create-ip-filter-criteria.md)
 
-[Create role filter criteria](../task/create-role-filter-criteria.md)
+[Create role filter criteria](create-role-filter-criteria.md)
 
-[Create group filter criteria](../task/create-group-filter-criteria.md)
+[Create group filter criteria](create-group-filter-criteria.md)
 

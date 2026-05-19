@@ -17,7 +17,7 @@ Use this dashboard to gain a high-level view across the problem management proce
 
 **Important:**
 
-Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [Problem dashboard](../problem.md) to view, and track the open problems.
 
 ![Problem Overview tab of the Problem Management dashboard](../image/problem-mgmt-overview.png "Problem Overview tab")
 

@@ -19,14 +19,14 @@ Role required: Any, if the user has access to the dashboard.
 
 **Note:**
 
--   This task only applies to dashboards created in the inline editor. Technical dashboards do not have the **Export** option in the **More actions** menu. For more information, see [Technical dashboards compared to inline dashboards](../../performance-analytics/reference/technical-vs-in-line-dashboards.md).
+-   This task only applies to dashboards created in the inline editor. Technical dashboards do not have the **Export** option in the **More actions** menu. For more information, see [Technical dashboards compared to inline dashboards](technical-vs-in-line-dashboards.md).
 -   Pivot, calendar report, geomap, and indicator scorecard visualizations are not supported for export. Lists are not supported for export to PowerPoint. These visualization types will not appear in the exported file.
 -   Only the supported data visualizations and Lists \(PDF\) are exported, not Headings or Rich Text or any other element.
 -   Content is not necessarily exported in the order it appears on the dashboard.
--   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](../../par-for-workspace/task/export-db-dv-now-assist-panel.md).
+-   Depending on your entitlements, you may be able export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](export-db-dv-now-assist-panel.md).
 -   Dashboards exported to PowerPoint include the title above and the description below each visualization in an editable format if this information is provided in the source visualization.
 
--   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [Download a data visualization from a dashboard](../../performance-analytics/task/export-data-vis-from-dboard.md).
+-   You can also export individual data visualizations from a dashboard to a PNG or JPEG file. For more information, see [Download a data visualization from a dashboard](export-data-vis-from-dboard.md).
 
 ## Procedure
 
@@ -103,7 +103,7 @@ You can select whether to apply to the export any values that have been set in f
 
 The dashboard with selected tabs and filters is exported to a PDF or PowerPoint file and delivered by the chosen method.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -114,11 +114,11 @@ The dashboard with selected tabs and filters is exported to a PDF or PowerPoint 
 
 [Share a Platform Analytics dashboard](share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

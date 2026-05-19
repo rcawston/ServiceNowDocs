@@ -56,7 +56,7 @@ Role required: procurement\_admin or procurement\_user
     For auditing, the **Assigned Licences** related list in the Request form will provide the details of all the assignments done as part of this request.
 
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
 **Related topics**  
 

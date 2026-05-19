@@ -205,11 +205,11 @@ Retried emails type is set to **send-retry-backoff**.
 
 **Note:** Address validation errors that occur during the email delivery are handled differently. The type of email record is set to **send-retry-delayed** and the email delivery is retried in fixed intervals of 30 minutes until the lookback period is lapsed.
 
--   **[Email diagnostics](../../reference-pages/reference/r_MailDiagnostics.md)**  
+-   **[Email diagnostics](r_MailDiagnostics.md)**  
 The Diagnostics and Connection page provides information on the current state of your email configuration. This page includes status on email properties, scheduled jobs, and email account connections that affect how your instance receives and sends email.
--   **[System email log and mailboxes](../../time/reference/r_EmailLogs.md)**  
+-   **[System email log and mailboxes](r_EmailLogs.md)**  
 The system email log records all emails that the instance creates or receives. System mailboxes are filtered views of this log.
--   **[Message logs for individual emails](../reference/message-logs-individual-emails.md)**  
+-   **[Message logs for individual emails](message-logs-individual-emails.md)**  
 The email log entries for an individual notification email are accessible as a related list in the email record. The **Error string** field in the email record can provide additional information.
 
 **Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
@@ -217,9 +217,9 @@ The email log entries for an individual notification email are accessible as a r
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](t_CreateANotification.md)
 
 [Email notifications dashboard](email-notifications-dashboard.md)
 
@@ -233,7 +233,7 @@ The email log entries for an individual notification email are accessible as a r
 
 [Watermarks on notification emails](c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](parse-email.md)
 
 [Email digests](email-digests.md)
 

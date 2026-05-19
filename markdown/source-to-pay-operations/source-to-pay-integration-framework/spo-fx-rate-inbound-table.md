@@ -126,7 +126,7 @@ String
 Currency that is imported to. This is a mandatory field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+</table>**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

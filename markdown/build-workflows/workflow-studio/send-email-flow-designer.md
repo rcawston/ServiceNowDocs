@@ -95,5 +95,5 @@ To verify that the email was generated when testing the action, review the email
 
 In this example, the system sends an email whenever an incident record is created where the Assigned to filed is not empty and when the incident category is inquiry/help. The incident trigger record provides the values used by the send email action. For example, the email is sent to the email address of the assigned to user, and the email subject and email body both refer to the incident number.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

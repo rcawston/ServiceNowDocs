@@ -15,11 +15,11 @@ breadcrumb: [View the Initiatives and Accelerators catalog, Initiatives and Acce
 
 This is a complete catalog of Impact initiatives.
 
-Refer to [Impact packages](impact-packages.md) for additional information on initiative consumption.
+Refer to [Impact packages](../impact-packages.md) for additional information on initiative consumption.
 
 <table id="table_dcj_bbv_bdc" class="nav-card presentation"><tbody><tr><td>
 
-[Access to Expertise ![](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Seek feature guidance and the most effective path forward provided by subject matter experts.](../concept/access-expertise-initiative.md)
+[Access to Expertise ![](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Seek feature guidance and the most effective path forward provided by subject matter experts.](access-expertise-initiative.md)
 
 </td><td>
 
@@ -27,7 +27,7 @@ Refer to [Impact packages](impact-packages.md) for additional information on ini
 
 </td><td>
 
-[Preventive Care![](../../../reuse/icons/brand-icons/bus-compliance.svg)A premium, engineer-led diagnostic of instance performance executed quarterly.](../concept/preventive-care.md)
+[Preventive Care![](../../../reuse/icons/brand-icons/bus-compliance.svg)A premium, engineer-led diagnostic of instance performance executed quarterly.](preventive-care.md)
 
 </td></tr></tbody>
 </table>

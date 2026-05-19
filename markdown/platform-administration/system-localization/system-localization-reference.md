@@ -20,5 +20,5 @@ System Localization properties configure translation, currency, and locale setti
 -   **[Translation tables](r_TranslationTables.md)**  
 ServiceNow stores translation information in these tables.
 
-**Parent Topic:**[System Localization](../concept/system-localization-landing.md)
+**Parent Topic:**[System Localization](system-localization-landing.md)
 

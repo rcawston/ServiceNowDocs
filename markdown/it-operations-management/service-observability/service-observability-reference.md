@@ -32,5 +32,5 @@ Field descriptions for the Observability data mapping form. Use this form to map
 -   **[Chart error states](chart-error-states.md)**  
 Understand the different error states that the charts in Service Observability might display and how to fix them.
 
-**Parent Topic:**[Service Observability](../concept/service-observability.md)
+**Parent Topic:**[Service Observability](service-observability.md)
 

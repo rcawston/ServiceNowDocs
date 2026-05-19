@@ -43,7 +43,7 @@ Procedure
 
 1.  Select a CI candidate record and review the information on the form.
 
-For field descriptions, see [Log-based CI candidates fields in Health Log Analytics](../reference/hla-cmdb-enrich-fields.md).
+For field descriptions, see [Log-based CI candidates fields in Health Log Analytics](hla-cmdb-enrich-fields.md).
 
 2.  Add the CI candidate to the CMDB or delete it.
     -   If the CI candidate is appropriate, either add it to the CMDB as is or include more information in it before adding it to the CMDB.
@@ -76,5 +76,5 @@ The selected CIs are added to the CMDB. The CI candidate records are automatical
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Enhancing the CMDB with host data Health Log Analytics found in logs](../concept/hla-cmdb-enrich-concept.md)
+**Parent Topic:**[Enhancing the CMDB with host data Health Log Analytics found in logs](hla-cmdb-enrich-concept.md)
 

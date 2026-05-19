@@ -55,7 +55,7 @@ Order a catalog item.
 
 </td><td>
 
-[Reference](../reference/csc-reference.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Get more details about the permissions and workarounds.
+[Reference](csc-reference.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Get more details about the permissions and workarounds.
 
 </td></tr></tbody>
 </table>

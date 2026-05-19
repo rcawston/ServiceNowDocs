@@ -21,7 +21,7 @@ Role required: sn\_jny.admin
 
 ## About this task
 
-The Journey designer application includes roles with the permissions necessary for that user to complete tasks. For more information on the roles installed with Journey designer, refer to [Roles](../reference/components-installed-with-jny-dsgnr.md#sec-roles-installed).
+The Journey designer application includes roles with the permissions necessary for that user to complete tasks. For more information on the roles installed with Journey designer, refer to [Roles](components-installed-with-jny-dsgnr.md#sec-roles-installed).
 
 As an administrator, you can assign users to roles to enable them to perform tasks in Journey designer.
 
@@ -38,5 +38,5 @@ As an administrator, you can assign users to roles to enable them to perform tas
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
 

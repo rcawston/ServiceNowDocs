@@ -52,5 +52,5 @@ Once you select **Confirm**, a message appears to notify you that the selected O
 
 To view the newly mapped devices, you can select the link provided in the message. The link takes you back to the equipment model entity record. You can then open the **Mapped OT devices** tab to see the devices added to the list.
 
-**Parent Topic:**[Automatically map all OT devices to an equipment model entity](../../operational-technology-management/task/automatedly-map-all-ot-assets.md)
+**Parent Topic:**[Automatically map all OT devices to an equipment model entity](automatedly-map-all-ot-assets.md)
 

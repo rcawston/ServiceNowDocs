@@ -37,5 +37,5 @@ When CI Lifecycle Management operations do not complete properly, for example du
 4.  Click the **Save** icon.
 
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
 

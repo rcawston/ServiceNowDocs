@@ -41,5 +41,5 @@ Role required: it\_project\_user
     -   Select the more actions menu to delete, duplicate, or create child pages in the pages section.
     -   Apply rich text paragraph formatting, which includes headings, lists, alignment, and other styling options.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

@@ -15,6 +15,6 @@ breadcrumb: [Using Upgrade Center, Upgrade Center, Upgrade, Administer the Servi
 
 Use the Upgrade Preview module to have an insight about the experience of an upgrade prior to the actual upgrade. You can explore and preview upgrades to different ServiceNow release versions and see how your instance might be impacted with your current configurations.
 
--   [Preview predicted changes](../reference/uc-previewed-changes.md): Preview the changes that have been predicted to occur after an upgrade.
--   [Upgrade Preview form](../task/uc-upgrade-preview-form1.md): Alternate view of a previewed upgrade.
+-   [Preview predicted changes](uc-previewed-changes.md): Preview the changes that have been predicted to occur after an upgrade.
+-   [Upgrade Preview form](uc-upgrade-preview-form1.md): Alternate view of a previewed upgrade.
 

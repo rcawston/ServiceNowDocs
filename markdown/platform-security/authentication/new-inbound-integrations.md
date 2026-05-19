@@ -28,7 +28,7 @@ To learn more about the different grant types and how to configure them, refer t
 
 -   [Authorization code grant](authorization-code-grant.md)
 -   [Client credentials grant](client-credential-grant.md)
--   [Third party token grant](../../machine-identity/task/third-party-id-token.md)
--   [JSON Web token bearer grant](../../machine-identity/task/jwt-bearer-grant.md)
--   [Resource owner password credential grant](../../machine-identity/task/resource-owner-password-grant.md)
+-   [Third party token grant](third-party-id-token.md)
+-   [JSON Web token bearer grant](jwt-bearer-grant.md)
+-   [Resource owner password credential grant](resource-owner-password-grant.md)
 

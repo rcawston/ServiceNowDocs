@@ -47,12 +47,12 @@ Administrators should set this system property's value to **true** if the NLQ Ge
     |Type|true \| false|
     |Value|true|
 
-    For details on this system property's values, see the [System properties for NLQ Genius Results](../reference/sys-properties-nlq-gr.md) section.
+    For details on this system property's values, see the [System properties for NLQ Genius Results](sys-properties-nlq-gr.md) section.
 
 4.  Press **Submit**.
 
     The new **glide.service\_portal.ais\_nlq\_enabled** record appears in the System Property \[sys\_properties\] table list view.
 
 
-**Parent Topic:**[NLQ Genius Results](../concept/genius-result-nlq-ais.md)
+**Parent Topic:**[NLQ Genius Results](genius-result-nlq-ais.md)
 

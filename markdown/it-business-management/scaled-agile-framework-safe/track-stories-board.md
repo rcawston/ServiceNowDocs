@@ -42,5 +42,5 @@ Role required: safe\_scrum\_user or safe\_admin
         2.  In the form, fill in the fields.
         3.  Click **Submit**.
 
-**Parent Topic:**[SAFe Board — Team level](../concept/team-level-tabs.md)
+**Parent Topic:**[SAFe Board — Team level](team-level-tabs.md)
 

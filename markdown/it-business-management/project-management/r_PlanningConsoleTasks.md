@@ -75,7 +75,7 @@ View and modify task status
 
 </td><td>
 
-View the status of the project task based on the difference of the planned end date of the task from the current date. The status of the task updates automatically from Green to Yellow to Red as the planned end date approaches.You can manually update the task status by double-clicking the **Status** column and selecting a different task status. For more information, see **Status** field description in the [Create a project task from a project](../task/t_CreateATaskFromAProject.md) topic.
+View the status of the project task based on the difference of the planned end date of the task from the current date. The status of the task updates automatically from Green to Yellow to Red as the planned end date approaches.You can manually update the task status by double-clicking the **Status** column and selecting a different task status. For more information, see **Status** field description in the [Create a project task from a project](t_CreateATaskFromAProject.md) topic.
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Add an agile phase or a test phase
 
 </td><td>
 
-Right-click a project and select **Add Agile Phase** or **Add Test Phase**. The agile phase icon or test phase icons appear next to the task in the **Name** column. See [phase icons](../concept/c_GanttChart.md#phase_icons). **Note:**
+Right-click a project and select **Add Agile Phase** or **Add Test Phase**. The agile phase icon or test phase icons appear next to the task in the **Name** column. See [phase icons](c_GanttChart.md#phase_icons). **Note:**
 
 -   The **Add Agile Phase** option is available only for Agile and Hybrid projects. You must also have the Agile Development 2.0 plugin installed.
 -   You can add multiple agile phases and multiple test phases to a project.
@@ -105,7 +105,7 @@ Cancel a resource plan for a Closed project
 
 </td><td>
 
-Right-click the project and select **Cancel Resource Plans**. All past and future allocations for the selected [resource plan are canceled](../../resource-management/task/cancel-resource-plan-from-project-or-demand.md).The option is available only for a project in any of the Closed states.
+Right-click the project and select **Cancel Resource Plans**. All past and future allocations for the selected [resource plan are canceled](../resource-management/cancel-resource-plan-from-project-or-demand.md).The option is available only for a project in any of the Closed states.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Complete a resource plan for a Closed project
 
 </td><td>
 
-Right-click the project and select **Complete Resource Plans**. All the requested and resource allocations for the resource plan post the completion date are deleted.The option to [complete resource plans](../../resource-management/task/complete-resource-plan-from-project-or-demand.md) is available only for a project in any of the Closed states.
+Right-click the project and select **Complete Resource Plans**. All the requested and resource allocations for the resource plan post the completion date are deleted.The option to [complete resource plans](../resource-management/complete-resource-plan-from-project-or-demand.md) is available only for a project in any of the Closed states.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Add an external dependency between tasks of different projects
 
 </td><td>
 
-Right-click a task and select **Add External Dependency**. Select the project and task to which the [dependency is added](../task/create-external-dependency-planning-console.md).
+Right-click a task and select **Add External Dependency**. Select the project and task to which the [dependency is added](create-external-dependency-planning-console.md).
 
 </td></tr><tr><td>
 
@@ -183,7 +183,7 @@ Show external dependency notifications
 
 </td><td>
 
-Select the notification bell icon to display the notifications raised in the successor project. The notifications are triggered as a result of changes made in the predecessor project.-   For a [soft dependency](../concept/external-dependency-types.md), select **Accept** or **Reject** to accept or reject the changes in the notification.
+Select the notification bell icon to display the notifications raised in the successor project. The notifications are triggered as a result of changes made in the predecessor project.-   For a [soft dependency](external-dependency-types.md), select **Accept** or **Reject** to accept or reject the changes in the notification.
 -   For a hard dependency, view the displayed notification to review the changes in the notification.
 
 </td></tr><tr><td>
@@ -192,7 +192,7 @@ Save changes to the server
 
 </td><td>
 
-Select the save icon to commit changes made in the planning console. The option is available only when [Client Side Planning Console](../concept/client-side-planning-console.md) is enabled.
+Select the save icon to commit changes made in the planning console. The option is available only when [Client Side Planning Console](client-side-planning-console.md) is enabled.
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ Show or hide columns in the planning console
 
 </td><td>
 
-Select the show or hide columns in gantt icon, and then select or clear the check boxes for the columns available. Admin can [customize](../concept/custom-columns-planning-console.md) which columns appear in this list. The selection is saved in the user preference. The next time you open the planning console, the same columns you selected will appear.
+Select the show or hide columns in gantt icon, and then select or clear the check boxes for the columns available. Admin can [customize](custom-columns-planning-console.md) which columns appear in this list. The selection is saved in the user preference. The next time you open the planning console, the same columns you selected will appear.
 
 </td></tr><tr><td>
 
@@ -216,7 +216,7 @@ Select WBS levels to show
 
 </td><td>
 
-Select the show or hide columns in gantt icon, and then select the level from the [WBS](../concept/c_WorkBreakdownStructure.md) **Depth** list.
+Select the show or hide columns in gantt icon, and then select the level from the [WBS](c_WorkBreakdownStructure.md) **Depth** list.
 
 </td></tr><tr><td>
 
@@ -281,7 +281,7 @@ Create a baseline
 
 </td><td>
 
-Select the more options icon, and then select **Create new baseline**. See [Create baseline of a project](../task/t_CreateAProjectBaseline.md) for more information.
+Select the more options icon, and then select **Create new baseline**. See [Create baseline of a project](t_CreateAProjectBaseline.md) for more information.
 
 </td></tr><tr><td>
 
@@ -299,7 +299,7 @@ Display the critical path
 
 </td><td>
 
-Select the critical path icon. For more information on the critical path, see [Gantt chart](../concept/c_GanttChart.md).
+Select the critical path icon. For more information on the critical path, see [Gantt chart](c_GanttChart.md).
 
 </td></tr><tr><td>
 
@@ -364,7 +364,7 @@ Open the project workbench
 
 </td><td>
 
-Select the **Planning Console** selection arrow on the banner and select **Project Workbench**. For more information, see [Using Project workbench - Legacy](../concept/c_ProjectWorkbench.md).
+Select the **Planning Console** selection arrow on the banner and select **Project Workbench**. For more information, see [Using Project workbench - Legacy](c_ProjectWorkbench.md).
 
 </td></tr><tr><td>
 
@@ -380,7 +380,7 @@ Export project data in MPP, CSV, or XML format
 
 </td><td>
 
-Select the more options icon, and then select **Export Planning Console**. For more information, see [Export project data](../task/t_ExportAProjectWithTheProjectForm.md).
+Select the more options icon, and then select **Export Planning Console**. For more information, see [Export project data](t_ExportAProjectWithTheProjectForm.md).
 
 </td></tr><tr><td>
 
@@ -397,5 +397,5 @@ Select the more options icon, and then select **Print**.**Note:**
 </table>**Related topics**  
 
 
-[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 

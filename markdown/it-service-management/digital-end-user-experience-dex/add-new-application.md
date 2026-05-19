@@ -43,7 +43,7 @@ Role required: sn\_dex.admin
 
 5.  On the form, fill in the fields.
 
-    For more information on each field, see [New web or installed application form](../reference/admin-new-app-form.md).
+    For more information on each field, see [New web or installed application form](admin-new-app-form.md).
 
 6.  Move the monitoring toggle switch \(![Use the toggle switch to activate monitoring for the application.](../image/icon-toggle-button-enabled.png)\) to turn on the reporting.
 
@@ -54,5 +54,5 @@ Role required: sn\_dex.admin
 
 The application is added to the list of monitored applications.
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

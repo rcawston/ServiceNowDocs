@@ -15,7 +15,7 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 Rule-based alert grouping is created by alert correlation rules. These rules allow you to manually classify alerts as primary or secondary and establish a relationship between them. Use alert correlation rules to group related alerts. The rule runs only for new alerts or alerts whose status changed from close/flapping to open/reopen.
 
-Example: If rule-based alert grouping is applied, secondary alerts indicating that virtual machines or applications on the offline server are also down and are grouped under the primary alert, which is the root alert for the server that is offline. You can view rule-based alert grouping in Express List of Service Operations Workspace \(ITOM\). For more information, see [Viewing links between alerts in rules-based alert groups](../../service-operations-workspace-itom/concept/el-rule-based-link-view.md).
+Example: If rule-based alert grouping is applied, secondary alerts indicating that virtual machines or applications on the offline server are also down and are grouped under the primary alert, which is the root alert for the server that is offline. You can view rule-based alert grouping in Express List of Service Operations Workspace \(ITOM\). For more information, see [Viewing links between alerts in rules-based alert groups](../service-operations-workspace-for-itom-apps/el-rule-based-link-view.md).
 
 ## Primary and secondary alerts
 
@@ -52,7 +52,7 @@ When alert A is triggered:
 
 Therefore, if all alerts are triggered, only B appears as the primary alert for A, D, and C, while E remains a standalone alert.
 
--   **[Create an alert correlation rule](../task/t_EMConfigureAnEventCorrelationRule.md)**  
+-   **[Create an alert correlation rule](t_EMConfigureAnEventCorrelationRule.md)**  
 Create an alert correlation rule to designate primary and secondary alerts. The primary alert is identified as the root cause of the alert group and the secondary alerts are grouped under the primary alert.
 
 **Parent Topic:**[Event Management](c_EM.md)

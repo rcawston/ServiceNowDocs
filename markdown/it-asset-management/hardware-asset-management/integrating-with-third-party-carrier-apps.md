@@ -29,7 +29,7 @@ You can check the status of your shipments in real time by integrating your Serv
 
 3.  Add the application name, API, and connection details to the Carrier integration profile \[sn\_itam\_carrier\_int\_profile\] table.
 
-    For more details, see [View the carrier integration profile details](../task/view-integration-profiles.md).
+    For more details, see [View the carrier integration profile details](view-integration-profiles.md).
 
 
 **Note:** If you are creating the integration as part of an application, complete the following steps before you create a script include:

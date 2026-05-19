@@ -167,9 +167,9 @@ Demo data should be loaded only in a development or test instance to prevent con
 
 1.  From the UI Builder home page, select the **UI interactions** tab to view the list of available interactions.
 2.  Use either the list filter from the Label column to search for interactions that begin with DEMO or enter `DEMO` in the search field.
-3.  Select any DEMO interaction to view how it works or [duplicate it for your own use](../task/duplicate-demo-data.md).
+3.  Select any DEMO interaction to view how it works or [duplicate it for your own use](duplicate-demo-data.md).
 
--   **[Duplicate a demo UI interaction](../task/duplicate-demo-data.md)**  
+-   **[Duplicate a demo UI interaction](duplicate-demo-data.md)**  
 Create a duplicate of a demo UI interaction example to work with a separate, editable copy.
 
 **Parent Topic:**[UI interactions](uib-ui-interactions.md)

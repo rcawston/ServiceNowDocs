@@ -19,7 +19,7 @@ Field Service Manager Mobile is available for any user who has the wm\_manager, 
 
 ## Using Now Assist on the Field Service Manager Mobile
 
-If your organization has Now Assist for Field Service Management \(FSM\) installed you can access your virtual agent by tapping the **More actions** icon in the top right, then selecting Ask Now Assist. For more information on using Now Assist on your mobile device, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). For more information on Now Assist for Field Service Management \(FSM\), see [Now Assist for Field Service Management \(FSM\)](../reference/now-assist-fsm.md).
+If your organization has Now Assist for Field Service Management \(FSM\) installed you can access your virtual agent by tapping the **More actions** icon in the top right, then selecting Ask Now Assist. For more information on using Now Assist on your mobile device, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). For more information on Now Assist for Field Service Management \(FSM\), see [Now Assist for Field Service Management \(FSM\)](../now-assist-for-field-service-management-fsm/now-assist-fsm.md).
 
 ## Offline mode
 
@@ -27,67 +27,67 @@ Offline mode is available for Manager Mobile and functions the same way that it 
 
 Managers can perform the following actions on the manager mobile application.
 
--   [Manage Field Service agents from Field Service Manager Mobile](../task/mange-agents-mobile.md)
+-   [Manage Field Service agents from Field Service Manager Mobile](mange-agents-mobile.md)
 
     Enables managers to see work assigned to Field Service agents, agent schedules, and contact information.
 
--   [View the tasks assigned to an agent](../task/view-tasks-for-agent.md)
+-   [View the tasks assigned to an agent](view-tasks-for-agent.md)
 
     See what tasks are assigned to an agent for the rest of the day.
 
--   [View all tasks in Field Service Manager Mobile](../task/view-all-manager-mobile.md)
+-   [View all tasks in Field Service Manager Mobile](view-all-manager-mobile.md)
 
     See all the tasks assigned to technicians you manage.
 
--   [Search in Field Service Manager Mobile](../task/search-manager-mobile.md)
+-   [Search in Field Service Manager Mobile](search-manager-mobile.md)
 
     Search for a technician or a task.
 
--   [Save a task from Field Service Manager Mobile](../task/save-manager-mobile.md)
+-   [Save a task from Field Service Manager Mobile](save-manager-mobile.md)
 
     Save a task so you can review it later.
 
--   [View agent information](../task/view-agent-manager-app.md)
+-   [View agent information](view-agent-manager-app.md)
 
     Quickly see information related to any of the Field Service agents that you manage.
 
--   [View agents' agenda in Field Service Manager Mobile](../task/agenda-manager-mobile.md)
+-   [View agents' agenda in Field Service Manager Mobile](agenda-manager-mobile.md)
 
     View the agenda that a technician has scheduled.
 
--   [View task SLA status](../task/view-sla-manager.md)
+-   [View task SLA status](view-sla-manager.md)
 
     View the SLA status for the tasks assigned to technicians you manage.
 
--   [View analytics from Field Service Manager Mobile](../task/view-analytics-manager.md)
+-   [View analytics from Field Service Manager Mobile](view-analytics-manager.md)
 
     View analytics about the tasks assigned to technicians you manage.
 
--   [Create a work order task](../task/create-task-manager-mobile.md)
+-   [Create a work order task](create-task-manager-mobile.md)
 
     Create a task and assign it to a technician.
 
--   [Reassign a task to another agent](../task/reassign-task-manager.md)
+-   [Reassign a task to another agent](reassign-task-manager.md)
 
     Reassign a task if something happens and the original technician can't complete the task.
 
--   [Filter agents in Field Service Manager Mobile](../task/filter-agents-manager.md)
+-   [Filter agents in Field Service Manager Mobile](filter-agents-manager.md)
 
     Filter the technicians that you manage.
 
--   [Filter an agent’s tasks in Field Service Manager Mobile](../task/filter-task-manager.md)
+-   [Filter an agent’s tasks in Field Service Manager Mobile](filter-task-manager.md)
 
     Filter the tasks that are assigned to technicians you manage.
 
--   [View your profile in Field Service Manager Mobile](../task/view-profile-manager-app.md)
+-   [View your profile in Field Service Manager Mobile](view-profile-manager-app.md)
 
     View your manager profile.
 
--   [Show that an agent is busy with a non-work order event on Field Service Manager Mobile](../task/event-manager-mobile.md)
+-   [Show that an agent is busy with a non-work order event on Field Service Manager Mobile](event-manager-mobile.md)
 
     Block a technician's calendar for a personal event.
 
--   [Delete or edit a non-work order event on Field Service Manager Mobile](../task/delete-edit-event-manager.md)
+-   [Delete or edit a non-work order event on Field Service Manager Mobile](delete-edit-event-manager.md)
 
     Make changes to a personal event.
 

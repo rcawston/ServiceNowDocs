@@ -50,12 +50,12 @@ Role required: sn\_apm.apm\_user
     -   You can select and remove multiple business capabilities simultaneously.
     -   This action just removes the association between the value stream stage and the business capability. The business capability record isn’t deleted from the system.
 
-**Parent Topic:**[Manage value stream stages](../../concept/eaw-concept/eaw-manage-value-stream-stages.md)
+**Parent Topic:**[Manage value stream stages](eaw-manage-value-stream-stages.md)
 
 **Related topics**  
 
 
-[Exploring value stream stages](../../concept/eaw-concept/eaw-value-stream-stage.md)
+[Exploring value stream stages](eaw-value-stream-stage.md)
 
 [View value stream stage details](eaw-view-all-value-stream-stages.md)
 

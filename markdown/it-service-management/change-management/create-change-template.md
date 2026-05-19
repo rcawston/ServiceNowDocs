@@ -136,7 +136,7 @@ Description
 
     If no approvers have been configured for the change template, the template moves from Proposed to Published state by default. If the template is active, the published template is available for use immediately.
 
-    For information about template approval flows, see [Change template management flows](../concept/change-template-management-flows.md).
+    For information about template approval flows, see [Change template management flows](change-template-management-flows.md).
 
 10. Select **Save**.
 
@@ -155,7 +155,7 @@ Copy and modify change templates.
 Review a change template proposed for common change requests.
 -   **[Retire a change template](retire-a-change-template.md)**  
 Retire change templates that you no longer need.
--   **[Change template management flows](../concept/change-template-management-flows.md)**  
+-   **[Change template management flows](change-template-management-flows.md)**  
 Change template management flows trigger and manage steps for the template proposal, modification, and retirement processes.
 
 **Parent Topic:**[Create a Change model](create-a-change-model.md)

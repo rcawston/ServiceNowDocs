@@ -38,5 +38,5 @@ Role required: resource\_user, resource\_manager, it\_project\_manager
 
 The resource portfolio view is exported with `export_file` as the file name in the selected format.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](using-rmw.md)
 

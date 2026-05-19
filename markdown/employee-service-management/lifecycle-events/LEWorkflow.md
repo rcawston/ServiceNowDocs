@@ -46,5 +46,5 @@ Each activity set in a lifecycle event has an associated workflow. Each workflow
         See [Parallel Flow Launcher workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/r_ParallelFlowLauncher.md) .
 
 
-**Parent Topic:**[Activate Lifecycle Events](../task/activate-enterprise-onboarding-and-transitions-scoped.md)
+**Parent Topic:**[Activate Lifecycle Events](activate-enterprise-onboarding-and-transitions-scoped.md)
 

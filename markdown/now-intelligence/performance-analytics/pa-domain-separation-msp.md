@@ -72,15 +72,15 @@ The Performance Analytics – Domain Separation Support plugin adds the Domain C
 
 ## Transferring records between instances
 
-Use update sets to transfer domain configurations between instances. If the domain configuration has **Collect aggregate** enabled, also transfer the aggregation domain separately. For more information, see [Transfer domain configuration with score aggregation](../task/transfer-aggregation-domains.md).
+Use update sets to transfer domain configurations between instances. If the domain configuration has **Collect aggregate** enabled, also transfer the aggregation domain separately. For more information, see [Transfer domain configuration with score aggregation](transfer-aggregation-domains.md).
 
--   **[Create a domain configuration](../task/create-domain-configuration.md)**  
+-   **[Create a domain configuration](create-domain-configuration.md)**  
 Create a domain configuration to define which domains to collect scores from and how to store scores within the domain hierarchy.
--   **[Associate a domain configuration with a data collection job](../task/associate-domain-config-dc-job.md)**  
+-   **[Associate a domain configuration with a data collection job](associate-domain-config-dc-job.md)**  
 To collect Performance Analytics indicator scores from the domains specified in a domain configuration, associate that domain configuration with a collection job.
--   **[Associate a domain configuration with a dashboard](../task/associate-domain-config-dashboard.md)**  
+-   **[Associate a domain configuration with a dashboard](associate-domain-config-dashboard.md)**  
 Display a domain picker on a dashboard to enable users of that dashboard to view scores from specific domains.
--   **[Transfer domain configuration with score aggregation](../task/transfer-aggregation-domains.md)**  
+-   **[Transfer domain configuration with score aggregation](transfer-aggregation-domains.md)**  
 To transfer between instances a Performance Analytics domain configuration that is set to aggregate scores, transfer both the configuration and the aggregation domain.
 
 **Parent Topic:**[Domain separation and Performance Analytics](c_PAWithDomainSeparation.md)

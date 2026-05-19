@@ -30,7 +30,7 @@ Role required: approver\_user
 4.  Approve or reject the reservation by selecting **Approve** or **Reject**.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](manage-reservation-requests.md)
 
 **Related topics**  
 

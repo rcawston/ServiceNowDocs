@@ -15,7 +15,7 @@ breadcrumb: [Automated root cause analysis, Analyzing and getting process insigh
 
 Review the analysis report and understand the root cause of performance issues. Use this information to optimize your processes.
 
-**Note:** You must have run automated root cause analysis to review and interpret the results. For more information, see [Run automated root cause analysis reports](../task/run-view-arca.md).
+**Note:** You must have run automated root cause analysis to review and interpret the results. For more information, see [Run automated root cause analysis reports](run-view-arca.md).
 
 You must read and understand the automated root cause analysis results as follows.
 

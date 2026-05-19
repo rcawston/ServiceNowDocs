@@ -52,9 +52,9 @@ Domain separation recommendations in Cloud Services Catalog:
 
 ## Next steps
 
-For more information on how domain separation works in Cloud Provisioning and Governance, visit [Domain separation and Cloud Provisioning and Governance](../../cloud-management-v2/concept/domain-separation-cloud-management.md).
+For more information on how domain separation works in Cloud Provisioning and Governance, visit [Domain separation and Cloud Provisioning and Governance](../cloud-configuration-governance/domain-separation-cloud-management.md).
 
-**Parent Topic:**[CSC references](../reference/csc-reference.md)
+**Parent Topic:**[CSC references](csc-reference.md)
 
 **Related topics**  
 

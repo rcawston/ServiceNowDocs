@@ -171,36 +171,36 @@ On questionnaires, users can select a different order number for each option to 
 
 One order number cannot be selected twice. This question can be mandatory and it can also be dependent on a parent question, but not vice versa.
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](c_SurveyDesigner.md)
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](c_SurveyQuestion.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](c_SurveyDesignerElements.md)
 
-[Configure a survey in the survey designer](../task/t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](c_SurveyCategory.md)
 
-[Create a question in the survey designer](../task/t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
 
-[Create custom metric type](../task/create-custom-templates-questions.md)
+[Create custom metric type](create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](../task/t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](../task/t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
 
-[Create or modify survey questions](../task/t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
-[Add a metric category and metric in the question bank for surveys](../task/add-questionbank-for-survey.md)
+[Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
 
-[Create or modify answer options](../task/t_CreateOrModifyAnswerOptions.md)
+[Create or modify answer options](t_CreateOrModifyAnswerOptions.md)
 
-[Change the order of survey questions](../task/t_ChangeTheOrderOfSurveyQuestions.md)
+[Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 

@@ -195,7 +195,7 @@ You can cancel and revert work done in a lifecycle event case using the rescind 
 
 Role required: sn\_hr\_le.case\_writer
 
-For more information, see [Configure the rescind process for a lifecycle event](../task/configure-rescind-for-a-lifecycle-event.md).
+For more information, see [Configure the rescind process for a lifecycle event](../lifecycle-events/configure-rescind-for-a-lifecycle-event.md).
 
 ### Procedure
 

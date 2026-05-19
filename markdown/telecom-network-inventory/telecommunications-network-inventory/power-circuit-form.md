@@ -122,10 +122,10 @@ Model ID
 Model ID of the asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Define the power circuit details](../task/define-power-circuit-details.md)
+[Define the power circuit details](define-power-circuit-details.md)
 

@@ -25,7 +25,7 @@ This API is part of the Remedial Actions Framework and can be used to perform th
 
 This API requires the Remedial Actions Framework \(com.snc.sn\_reacf\) store application and is provided within the `sn_reacf` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RemedialActionEngine - beginRemediation \(String remedialAction, String parentTable, String parentRecord, Object actionParams, String targetRecord, String originRecord\)
 

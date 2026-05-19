@@ -41,8 +41,8 @@ By mapping the states of the service to the UR state, it is ensured that the cor
 
 3.  On the form, fill in the fields.
 
-    For more information on the field description, see [State mapping form](../reference/ur-state-mapping-form.md).
+    For more information on the field description, see [State mapping form](ur-state-mapping-form.md).
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

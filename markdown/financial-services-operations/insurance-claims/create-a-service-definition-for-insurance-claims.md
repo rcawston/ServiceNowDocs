@@ -27,7 +27,7 @@ A service definition describes a service that your workflow offers to support a 
 
 Create an adjuster task service definition for each incident type to ensure clear categorization and efficient task management in Insurance claims.
 
-The service definition for the claim type and the adjuster service definition are both used in the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table as part of configuring your workflow. For more information, see [Claim Incident Configuration table](../concept/claim-incident-configuration-table.md).
+The service definition for the claim type and the adjuster service definition are both used in the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table as part of configuring your workflow. For more information, see [Claim Incident Configuration table](claim-incident-configuration-table.md).
 
 ## Procedure
 
@@ -66,5 +66,5 @@ The service definition for the claim type and the adjuster service definition ar
     ![Service definition for a travel claim with a service category relationship.](../image/create-service-definition-example.png)
 
 
-**Parent Topic:**[Creating a service definition for Insurance claims](../concept/create-service-definitions-for-insurance-claims.md)
+**Parent Topic:**[Creating a service definition for Insurance claims](create-service-definitions-for-insurance-claims.md)
 

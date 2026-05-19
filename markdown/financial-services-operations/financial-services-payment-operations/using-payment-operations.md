@@ -23,7 +23,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md).
+For more information, see [Workspaces](../fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -79,7 +79,7 @@ Payment admin
 
 </td><td>
 
-Configures the payment workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Configures the payment workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows

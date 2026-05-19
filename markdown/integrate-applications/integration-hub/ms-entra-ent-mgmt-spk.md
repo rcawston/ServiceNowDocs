@@ -36,7 +36,7 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 
 ## Microsoft Entitlement Management account requirements
 
-The Microsoft Entitlement Management spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create a custom application in Azure portal](../task/setup-entra-entitlement-spk.md#).
+The Microsoft Entitlement Management spoke requires creating a custom app on your Microsoft Entra account to generate OAuth 2.0 tokens. See: [Create a custom application in Azure portal](setup-entra-entitlement-spk.md#).
 
 ## Spoke actions
 

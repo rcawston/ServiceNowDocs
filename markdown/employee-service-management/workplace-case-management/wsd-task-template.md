@@ -44,7 +44,7 @@ Create a task template for use when creating a workplace service.
 
 The task template is created. You can use this template for Workplace services.
 
-**Parent Topic:**[Configuring Workplace Case Management](../concept/workplace-case-mgmt-setup.md)
+**Parent Topic:**[Configuring Workplace Case Management](workplace-case-mgmt-setup.md)
 
 **Related topics**  
 
@@ -55,15 +55,15 @@ The task template is created. You can use this template for Workplace services.
 
 [Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
 
-[Automating seat assignment for new hires](../concept/auto-assign-new-hires.md)
+[Automating seat assignment for new hires](auto-assign-new-hires.md)
 
 [Configure Approval options](config-approval-optns.md)
 
 [Configure a Record producer](wsd-create-record-producer.md)
 
-[Configuring a record producer for request edit](../concept/config-case-edit-rp.md)
+[Configuring a record producer for request edit](config-case-edit-rp.md)
 
-[Configuring a record producer for reservation](../concept/config-reservation-rp.md)
+[Configuring a record producer for reservation](config-reservation-rp.md)
 
 [Create an SLA Definition](create-sla-defn-case-mgmt.md)
 

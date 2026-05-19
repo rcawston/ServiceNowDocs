@@ -38,7 +38,7 @@ Manage stories in your project using the **Manage Stories** option in the Projec
 4.  Select **Update** or **Submit**.
 
 
-**Parent Topic:**[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+**Parent Topic:**[Managing Project workbench](c_UsingProjectWorkbench.md)
 
 **Related topics**  
 
@@ -51,5 +51,5 @@ Manage stories in your project using the **Manage Stories** option in the Projec
 
 [Create a test case in the project workbench](t_CreateTestCaseProjWorkbench.md)
 
-[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+[Managing Project workbench](c_UsingProjectWorkbench.md)
 

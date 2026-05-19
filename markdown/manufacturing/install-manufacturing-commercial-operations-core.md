@@ -32,7 +32,7 @@ The Manufacturing Commercial Operations Core application is dependent on the Pro
 
 To review all the plugins that are activated by installing the Sales promotion management, Manufacturing recall management, and Manufacturing repair management, see [Plugins installed with Manufacturing Commercial Operations](manufacturing-commercial-operations-plugins.md).
 
-For more information on the components, see [Components installed](../reference/mco-components-installed.md).
+For more information on the components, see [Components installed](mco-components-installed.md).
 
 ## Procedure
 

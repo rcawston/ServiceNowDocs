@@ -40,5 +40,5 @@ When you make a notification mandatory, the toggle button for that notification 
     **Note:** To honor auto opt-in capability over mandatory notifications, add the property **glide.notification.provider.mandatory.honor\_auto\_opt\_in** and set it to `true`.
 
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

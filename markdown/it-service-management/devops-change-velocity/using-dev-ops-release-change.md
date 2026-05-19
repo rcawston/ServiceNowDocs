@@ -23,7 +23,7 @@ When you associate commits with an artifact version \(CI pipeline\), and define 
 
 DevOps change request attributes:
 
--   **Category** DevOps or the **Categorize DevOps change requests on "DevOps Change" field** check box is selected in DevOps properties. For more information, see [DevOps change request without mandating category as DevOps](../task/create-devops-change-any-category.md).
+-   **Category** DevOps or the **Categorize DevOps change requests on "DevOps Change" field** check box is selected in DevOps properties. For more information, see [DevOps change request without mandating category as DevOps](create-devops-change-any-category.md).
 -   Commits and Work Items related lists
 
 **Packages**

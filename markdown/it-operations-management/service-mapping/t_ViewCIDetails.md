@@ -38,7 +38,7 @@ You can view the following information for each CI:
 
 Each CI type \(CI class\) has different attributes. For example, the Linux Server type has different attributes than the SQL Instance type.
 
-If Service Mapping is deployed, the way CIs appear on the map depends on the [view you select for the map](modify-map-view.md). Attributes available for viewing also depend on the Service Mapping setup. For more information, see description of [components installed with Service Mapping](../reference/components-installed-with-service-mapping.md).
+If Service Mapping is deployed, the way CIs appear on the map depends on the [view you select for the map](modify-map-view.md). Attributes available for viewing also depend on the Service Mapping setup. For more information, see description of [components installed with Service Mapping](components-installed-with-service-mapping.md).
 
 ## Procedure
 
@@ -71,5 +71,5 @@ If Service Mapping is deployed, the way CIs appear on the map depends on the [vi
     -   Review the list of files under **Tracked Files** in the **Properties** pane. Click the file name to open the actual file.
     -   Click the **Affected CIs** tab and view the list of configuration files. Click the file name to open the actual file.
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

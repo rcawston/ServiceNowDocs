@@ -17,9 +17,9 @@ You must complete several tasks to migrate your App Engine pipelines to ReleaseO
 
 Starting with version 28.2.1 of AEMC, you can migrate your existing pipelines to ReleaseOps. To learn more about the migration process and the advantages of migrating to ReleaseOps, see [Migrating App Engine pipelines to ReleaseOps](migrating-ae-pipelines-to-releaseops-aemc.md). To start migrating your existing pipelines, complete each of the following procedures.
 
-1.  [Install ReleaseOps](../../release-ops/task/install-releaseops.md) on each environment \(instance\) in your App Engine pipeline.
-2.  Complete ReleaseOps setup by [configuring a new ReleaseOps ecosystem](../../release-ops/task/configure-new-releaseops-ecosystem.md) and [configuring multi-instance management](../../release-ops/task/configure-mif.md).
-3.  [Configure the system property to enable migration to ReleaseOps](../task/configure-sys-property-for-migration-to-releaseops-aemc.md).
-4.  [Map deployment request states](../task/map-deployment-request-states-aemc.md) to match ReleaseOps deployment request states to the corresponding App Engine deployment request states.
-5.  [Add custom conditions to enable ReleaseOps deployments](../task/add-custom-conditions-to-enable-releaseops-deployment.md) in Workflow Studio.
+1.  [Install ReleaseOps](../releaseops/install-releaseops.md) on each environment \(instance\) in your App Engine pipeline.
+2.  Complete ReleaseOps setup by [configuring a new ReleaseOps ecosystem](../releaseops/configure-new-releaseops-ecosystem.md) and [configuring multi-instance management](../releaseops/configure-mif.md).
+3.  [Configure the system property to enable migration to ReleaseOps](configure-sys-property-for-migration-to-releaseops-aemc.md).
+4.  [Map deployment request states](map-deployment-request-states-aemc.md) to match ReleaseOps deployment request states to the corresponding App Engine deployment request states.
+5.  [Add custom conditions to enable ReleaseOps deployments](add-custom-conditions-to-enable-releaseops-deployment.md) in Workflow Studio.
 

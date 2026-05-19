@@ -102,7 +102,7 @@ Priority level at which you want the system to run this flow by default. Options
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](flow-priority.md).
 
 </td></tr></tbody>
 </table>6.  Select **Submit**.
@@ -113,13 +113,13 @@ Priority level at which you want the system to run this flow by default. Options
 
 7.  Create a trigger for the flow.
 
-    **Tip:** You can either create a trigger for the flow or use a saved trigger. To use a saved trigger, proceed to the next step.To learn more about saved triggers, see [Building triggers](../concept/building-triggers.md)
+    **Tip:** You can either create a trigger for the flow or use a saved trigger. To use a saved trigger, proceed to the next step.To learn more about saved triggers, see [Building triggers](../build-workflows/building-triggers.md)
 
     1.  Under the TRIGGER section, select **Add a trigger**.
 
     2.  From the Trigger list, select a trigger that will start running your flow.
 
-        For more information on trigger types, see [Workflow Studio flow trigger types](../reference/flow-triggers.md).
+        For more information on trigger types, see [Workflow Studio flow trigger types](flow-triggers.md).
 
         The system displays a set of fields depending on the type of trigger that you've selected.
 
@@ -165,7 +165,7 @@ Action
 
 </td><td>
 
-Select the desired action. Workflow Studio includes [Workflow Studio actions](../concept/flow-actions.md) that are available to flows and subflows. Alternatively, a user with the action\_designer role can create additional actions to add to flows. The [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md) and [Spokes](../concept/spokes.md) plugins install additional actions.
+Select the desired action. Workflow Studio includes [Workflow Studio actions](flow-actions.md) that are available to flows and subflows. Alternatively, a user with the action\_designer role can create additional actions to add to flows. The [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md) and [Spokes](spokes.md) plugins install additional actions.
 
  To add draft actions from the More Actions menu, set **Show draft actions** to **true**.
 
@@ -229,7 +229,7 @@ Use Performance Analytics indicators to start a flow. Define the flow start cond
 Start a flow when a Service Catalog item is requested to automate the fulfillment process.
 -   **[Create a flow with an SLA Task trigger](create-sla-task-flow.md)**  
 Configure your Service Level Agreement \(SLA\) definition to run a flow as the action plan.
--   **[Create a flow with an external trigger](../../integrationhub/tasks/create-a-flow-with-an-external-trigger-definition.md)**  
+-   **[Create a flow with an external trigger](create-a-flow-with-an-external-trigger-definition.md)**  
 Set up a flow with a base system external trigger definition. The flow responds to an event-driven external trigger from a third-party system. For example, run a flow when an issue is created in a third-party issue-tracking system.
 -   **[Create a flow with roles](create-flow-roles.md)**  
 Create a flow or subflow that runs with assigned roles. Assigning roles enables you to create a user-initiated flow that runs with its own roles rather than the user's roles.
@@ -254,5 +254,5 @@ Delete a flow that you no longer need.
 -   **[View activated flows for a table](view-activated-flows.md)**  
 View flows with record-based triggers that run on a specific table.
 
-**Parent Topic:**[Building flows](../concept/flows.md)
+**Parent Topic:**[Building flows](flows.md)
 

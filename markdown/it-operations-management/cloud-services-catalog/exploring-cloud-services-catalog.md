@@ -29,15 +29,15 @@ The following table lists the benefits of Cloud Services Catalog.
 |Out Of Box content for Amazon AWS Cloud request and automation|[AWS Out Of Box Catalogs](out-of-the-box-catalog-items.md)|
 |Out Of Box content for Microsoft AzureMicrosoft Azure Cloud Services request and automation|[Azure Out Of Box Catalogs](out-of-the-box-catalog-items.md)|
 |Out Of Box content for Google Cloud Platform request|[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)|
-|Requests for process and pages for ordering Cloud Services|[Cloud Services Request process](../task/request-the-cloud-services-user-portal.md)|
+|Requests for process and pages for ordering Cloud Services|[Cloud Services Request process](request-the-cloud-services-user-portal.md)|
 |My Stacks management page for viewing and operating on stacks|[Stacks Management](manage-stacks.md)|
 |My Resources management page for viewing and operating on resources|[Resources Management](explore-my-resources.md)|
 |Azure DevOps Continuous Integration Continuous Deployment \(CICD\) Pipeline Integration|[Azure DevOps and CI-CD Pipeline Integration](integrating-azure-devops-and-cicd-pipeline.md)|
 |Integration of Ansible with Cloud services|[Integrate Ansible](integrating-ansible-with-cloud-services-catalog.md)|
 |Microsoft Azure and Amazon AWS Cloud setup|Cloud Setup|
-|Multi-repo support with Terraform Connector app|[Exploring Cloud Services Catalog Terraform Connector](../../cloud-management-v2/concept/exploring-cpg-terraform-connector.md)|
+|Multi-repo support with Terraform Connector app|[Exploring Cloud Services Catalog Terraform Connector](../cloud-configuration-governance/exploring-cpg-terraform-connector.md)|
 
 ## What to do next
 
-See [Plugins or applications installed with ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md) to find the list of plugins you activate with Cloud Services Catalog.
+See [Plugins or applications installed with ITOM Cloud Accelerate](../itom-cloud-accelerate/plugin-app-cloud-accelerate.md) to find the list of plugins you activate with Cloud Services Catalog.
 

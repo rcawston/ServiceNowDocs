@@ -89,5 +89,5 @@ Option to provide the app Id of Meeting Extensibility app. Provide the Meeting E
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](config-notify-ms-teams.md)
 

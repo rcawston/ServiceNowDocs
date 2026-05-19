@@ -66,7 +66,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
         -   **Typography:** Specifies the fonts that are used throughout the application.
     -   **Type**
 
-        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [Working with themes in Next Experience](../concept/next-experience-theming.md).
+        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [Working with themes in Next Experience](next-experience-theming.md).
 
 6.  Select the **Style** field and select the lookup icon ![](../image/ux-style-search.png).
 
@@ -114,7 +114,7 @@ Type
 
 -   Core
 -   Variant
- For more information on types, see [Difference between core styles and variants](../reference/difference-themes-variants.md).
+ For more information on types, see [Difference between core styles and variants](difference-themes-variants.md).
 
 </td></tr><tr><td>
 

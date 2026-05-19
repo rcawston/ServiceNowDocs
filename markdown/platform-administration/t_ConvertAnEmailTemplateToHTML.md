@@ -48,5 +48,5 @@ If you manually enter a mail script in the body of a new or converted email noti
 
 You can view the mail scripts in their original form by opening the email template and clicking the **Show Notification Scripts** related link.
 
-**Parent Topic:**[Email templates](../concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](c_EmailTemplates.md)
 

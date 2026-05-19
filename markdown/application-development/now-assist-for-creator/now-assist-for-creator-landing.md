@@ -28,23 +28,23 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_jb4_kgc_r1c_ddd" class="nav-card"><tbody><tr><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Now Assist for Creator.](../task/install-now-assist-for-creator.md)
+[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Now Assist for Creator.](install-now-assist-for-creator.md)
 
 </td><td>
 
-[App generation![](../../../reuse/icons/brand-icons/bus-application-development.svg)Generate simplified apps with AI-generated tables, experiences, and roles tailored to your text prompts.](../../../build/now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md)
+[App generation![](../../../reuse/icons/brand-icons/bus-application-development.svg)Generate simplified apps with AI-generated tables, experiences, and roles tailored to your text prompts.](sns-now-assist-app-gen-landing.md)
 
 </td><td>
 
-[App summary generation![](../../../reuse/icons/brand-icons/bus-news.svg)Summarize what an app does using generative AI.](../../../build/now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md)
+[App summary generation![](../../../reuse/icons/brand-icons/bus-news.svg)Summarize what an app does using generative AI.](sns-now-assist-app-summarize-landing.md)
 
 </td></tr><tr><td>
 
-[ATF troubleshooting agent![](../../../reuse/icons/brand-icons/bus-field-service-technician.svg)Simplify test failure diagnosis on specific metadata.](../../atf-troubleshooting-agent/reference/atf-troubleshooting-agent-landing-page.md)
+[ATF troubleshooting agent![](../../../reuse/icons/brand-icons/bus-field-service-technician.svg)Simplify test failure diagnosis on specific metadata.](atf-troubleshooting-agent-landing-page.md)
 
 </td><td>
 
-[Build Agent![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Generate a complete scoped application, including core logic and user interface components, in the ServiceNow IDE.](../../../build/build-agent/concept/build-agent.md)
+[Build Agent![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Generate a complete scoped application, including core logic and user interface components, in the ServiceNow IDE.](../build-agent.md)
 
 </td><td>
 
@@ -56,11 +56,11 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Flow generation![](../../../reuse/icons/brand-icons/bus-workflow.svg)Create multiple step flows with generative AI.](../reference/flow-generation-landing.md)
+[Flow generation![](../../../reuse/icons/brand-icons/bus-workflow.svg)Create multiple step flows with generative AI.](flow-generation-landing.md)
 
 </td><td>
 
-[Flow recommendations![](../../../reuse/icons/brand-icons/bus-innovation.svg)Generate recommendations for the next step of a flow.](../reference/flow-recommendations-landing.md)
+[Flow recommendations![](../../../reuse/icons/brand-icons/bus-innovation.svg)Generate recommendations for the next step of a flow.](flow-recommendations-landing.md)
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Playbook generation![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Generate playbook outlines from text directions.](../../process-automation-designer/concept/playbook-assist-landing.md)
+[Playbook generation![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Generate playbook outlines from text directions.](playbook-assist-landing.md)
 
 </td></tr><tr><td>
 
@@ -84,11 +84,11 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td><td>
 
-[Test generation ![](../../../reuse/icons/brand-icons/bus-siem.svg)Automate test creation from simple descriptions with AI-powered test generation.](../../test-generation/concept/test-generation-intro.md)
+[Test generation ![](../../../reuse/icons/brand-icons/bus-siem.svg)Automate test creation from simple descriptions with AI-powered test generation.](../test-generation/test-generation-intro.md)
 
 </td></tr><tr><td>
 
-[UI generation![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Create experiences by describing what you want using natural language.](../../ui-generation/concept/ui-generation-landing.md)
+[UI generation![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Create experiences by describing what you want using natural language.](ui-generation-landing.md)
 
 </td><td>
 

@@ -36,5 +36,5 @@ Role required: dm\_user\_criteria\_read
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Document security and access](../concept/document-access-settings.md)
+**Parent Topic:**[Document security and access](document-access-settings.md)
 

@@ -47,7 +47,7 @@ Level of log messages for the associated logger to store.Valid values:
 -   none
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowLoggingService - logger\(for category: NowLogCategory\)
 

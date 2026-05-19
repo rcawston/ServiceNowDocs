@@ -111,7 +111,7 @@ Floor to which places and place types are added.
 
 12. Select a place \(configured using the CAD configuration page\) to open the place editing panel.
 
-    Notice that the **Name**, **Title**, and **Floor** are read-only fields and cannot be edited. Only the **Place type** field can edited. A validation message is displayed to inform that the selected place was created using an Autocad file. These fields can be edited in the Autocad Configuration page \(Indoor Mapping v 1.8.0\). For more information, see [Autocad import tool](../concept/autocad-ovw-v2.md) and [Configure places](edit-places.md).
+    Notice that the **Name**, **Title**, and **Floor** are read-only fields and cannot be edited. Only the **Place type** field can edited. A validation message is displayed to inform that the selected place was created using an Autocad file. These fields can be edited in the Autocad Configuration page \(Indoor Mapping v 1.8.0\). For more information, see [Autocad import tool](autocad-ovw-v2.md) and [Configure places](edit-places.md).
 
     ![Selected place in Map Studio showing created in Autocad message.](../images/wsd-place-created-with-autocad-config-msg.png)
 
@@ -127,7 +127,7 @@ Floor to which places and place types are added.
 -   **[Create Indoor Mapping icons and place types](place-icons-place-type.md)**  
 To manage places and place types in Indoor Mapping Map Studio, start with creating icons for places, and then create a place type.
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Import outdoor elements](import-outdoor-elements.md)
 

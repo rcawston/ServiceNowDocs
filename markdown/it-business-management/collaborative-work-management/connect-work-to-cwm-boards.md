@@ -70,7 +70,7 @@ Role required: sn\_cwm.cwm\_user
 
 -   The Board is refreshed to load and display all the connected work items.
 -   Any existing information such as Assigned to, State, and Start and End dates is also shown on the Board.
--   With the Sprint planning view enabled, you can see all these connected work items in the Backlog list. For more information about performing sprint planning, see [Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md).
+-   With the Sprint planning view enabled, you can see all these connected work items in the Backlog list. For more information about performing sprint planning, see [Sprint planning in CWM](agile-sprint-planning-in-cwm.md).
 
 ![CWM Board with connected work items displayed in the List view.](../images/cwm-connected-work-board.png)
 
@@ -78,7 +78,7 @@ Role required: sn\_cwm.cwm\_user
 
 To enable additional fields from any connected work table, change the form layout configuration for the Default view of the table. You can then surface these fields as columns in CWM. For more information, see [Show or hide fields on a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
-**Parent Topic:**[Connected work in CWM](../concept/unified-boards-for-connected-work-in-cwm.md)
+**Parent Topic:**[Connected work in CWM](unified-boards-for-connected-work-in-cwm.md)
 
 **Related topics**  
 

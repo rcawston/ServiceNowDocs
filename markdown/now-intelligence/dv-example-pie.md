@@ -15,7 +15,7 @@ The pie data visualization uses a circular shape to show the proportion or perce
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -23,7 +23,7 @@ Use this visualization type to show the proportion of parts that make a whole, s
 
 ## Procedure
 
-1.  Follow the first steps to [Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md):
+1.  Follow the first steps to [Create a pie or donut data visualization](create-dv-donut-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -139,5 +139,5 @@ Use this visualization type to show the proportion of parts that make a whole, s
 
 You have created a pie visualization grouped on one value. You have also configured the visualization's labeling, legend, and colors.
 
-**Parent Topic:**[Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md)
+**Parent Topic:**[Create a pie or donut data visualization](create-dv-donut-ac.md)
 

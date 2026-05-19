@@ -46,5 +46,5 @@ Role required: sn\_lg\_matter.matter\_config
 
 [Set up Outside Counsels for Legal Invention Disclosure](setup-outside-counsels.md)
 
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](configure-legal-invention-disclosure.md)
 

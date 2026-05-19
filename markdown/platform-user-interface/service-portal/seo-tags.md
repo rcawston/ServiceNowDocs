@@ -194,7 +194,7 @@ Select a field from the table defined in the **Table** field. This field is used
     ```
 
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](seo-sp.md)
 
 **Related topics**  
 

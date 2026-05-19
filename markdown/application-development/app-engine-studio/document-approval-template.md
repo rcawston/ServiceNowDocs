@@ -27,7 +27,7 @@ This app template is an ideal way to quickly and efficiently make your internal 
 
 ![Document Approval template](../image/template-doc-approval.png "Document Approval template")
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

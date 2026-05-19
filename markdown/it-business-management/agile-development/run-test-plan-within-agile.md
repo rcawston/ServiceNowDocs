@@ -70,5 +70,5 @@ The result of each test is indicated on the Agile board as Passed, Failed, Block
 
 [View the test results for a story in Agile Development 2.0](view-test-result-form.md)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

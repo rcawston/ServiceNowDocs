@@ -837,7 +837,7 @@ No
 </td></tr></tbody>
 </table>## Enter inputs for parameters
 
-To enter inputs for the parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs for the parameters, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[Microsoft Excel](../concept/microsoft-excel-connector.md)
+**Parent Topic:**[Microsoft Excel](microsoft-excel-connector.md)
 

@@ -44,5 +44,5 @@ As a contract fulfiller, share information requested by the reviewer to proceed 
 -   **[Cancel an internal review task](cncore-close-review-task.md)**  
 As a contract fulfiller, cancel a review task irrespective of its state.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

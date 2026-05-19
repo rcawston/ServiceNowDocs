@@ -76,7 +76,7 @@ Tool Password / Access Token
 Jenkins password, access token or the API token you generate.**Note:** To generate API token, see [Connect to Jenkins using API token authentication](authenticate-jenkins-using-api-token.md).
 
 </td></tr></tbody>
-</table>        For a list of all the permissions required on the credentials for connecting to Jenkins, see Jenkins permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>        For a list of all the permissions required on the credentials for connecting to Jenkins, see Jenkins permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     3.  Select MID Server for an on-premises tool that is attached to a MID Server.
 
@@ -101,7 +101,7 @@ Jenkins password, access token or the API token you generate.**Note:** To genera
 
 4.  Click **Discover** to discover the existing orchestration tasks \(Jenkins stages\) and pipelines.
 
-    **Note:** Orchestration tasks and pipelines are discovered for folders nested to the level specified in the **sn\_devops.discover.folder.depth** property. For more information, see [Properties installed with DevOps](../concept/dev-ops-administration.md).
+    **Note:** Orchestration tasks and pipelines are discovered for folders nested to the level specified in the **sn\_devops.discover.folder.depth** property. For more information, see [Properties installed with DevOps](dev-ops-administration.md).
 
     Records are added to the corresponding related lists.
 
@@ -110,5 +110,5 @@ Jenkins password, access token or the API token you generate.**Note:** To genera
     Imported task execution records and step execution records are added to the corresponding related lists.
 
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](../concept/jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](jenkins-integration-dev-ops.md)
 

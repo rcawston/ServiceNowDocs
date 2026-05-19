@@ -37,14 +37,14 @@ Several content types are available by default for tables such as Catalog Item \
 
 Content type defaults that are set for CMS can be overridden for individual sites. Use the **Content Types** related list on the site record to customize content types.
 
--   **[Configure a content type](../task/t_CreateAContentType.md)**  
+-   **[Configure a content type](t_CreateAContentType.md)**  
 Users with the content\_admin role can create a content type.
 -   **[CMS gauge support](c_CMSGaugeSupport.md)**  
 Gauges are a graphical way to display information from an instance.
--   **[View content types](../task/t_ViewContentTypes.md)**  
+-   **[View content types](t_ViewContentTypes.md)**  
 The following is an example of where you might use Content Types.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](t_CreateASite.md)
 
 **Related topics**  
 

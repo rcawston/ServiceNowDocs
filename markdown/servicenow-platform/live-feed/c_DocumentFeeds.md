@@ -39,17 +39,17 @@ The following list describes features of the document feed group.
 
 A user who participates in Live Feed becomes a member of the group.
 
--   **[Add a Live Feed UI action on a table](../task/t_AddALiveFeedUIActionOnATable.md)**  
+-   **[Add a Live Feed UI action on a table](t_AddALiveFeedUIActionOnATable.md)**  
 You can add UI actions on a table to allow users to follow records in live feed.
--   **[Configure document feeds](../task/t_ConfigureDocumentFeeds.md)**  
+-   **[Configure document feeds](t_ConfigureDocumentFeeds.md)**  
 You can configure a table to support document feeds.
 -   **[Security configuration for document feeds](c_ConfigureFeedSecurity.md)**  
 Document feeds honor the access control rules \(ACLs\) for the associated record. Users can only view messages on the document feed if they have access to the same information on the record.
--   **[Disable a record feed](../task/t_DisableARecordFeed.md)**  
+-   **[Disable a record feed](t_DisableARecordFeed.md)**  
 You can disable Live Feed functionality from the form of any table.
--   **[Disable a document feed](../task/t_DisableADocumentFeed.md)**  
+-   **[Disable a document feed](t_DisableADocumentFeed.md)**  
 You can disable a document feed from the form of any table.
--   **[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)**  
+-   **[Business rule installed with Live Feed Document](r_InstalledComponents.md)**  
 This business rule is installed with Live Feed Document. There are no tables, roles, or notifications installed with it.
 
 **Parent Topic:**[Administering Live Feed](c_AdministerLiveFeed.md)
@@ -61,9 +61,9 @@ This business rule is installed with Live Feed Document. There are no tables, ro
 
 [Live Feed table notifications](c_SetUpLiveFeedTableNotifications.md)
 
-[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)
+[Live Feed security and table access](r_LiveFeedTableAccessRules.md)
 
-[Provide access to Live Feed from CMS pages](../task/t_AccessLiveFeedFromCMSPages.md)
+[Provide access to Live Feed from CMS pages](t_AccessLiveFeedFromCMSPages.md)
 
 [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 

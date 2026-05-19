@@ -35,7 +35,7 @@ Customer Service Install Base Management\(com.snc.install\_base\)
 
 </td><td>
 
-Enables customers to capture the current state of a customer's install base and establish the relationship to any downstream entities that might impact their functioning.To learn more about install base management, see [Configure install base](../task/configure-install-base.md).
+Enables customers to capture the current state of a customer's install base and establish the relationship to any downstream entities that might impact their functioning.To learn more about install base management, see [Configure install base](configure-install-base.md).
 
 </td></tr><tr><td>
 
@@ -167,9 +167,9 @@ To learn more about the configurations, see [Entity configuration and mapping](h
 **Related topics**  
 
 
-[Modify a sold product and hierarchy](../task/modify-a-sold-product.md)
+[Modify a sold product and hierarchy](modify-a-sold-product.md)
 
-[Modify a sold product to create a quote](../task/modify_a_sold_product_to_create_a_quote.md)
+[Modify a sold product to create a quote](modify_a_sold_product_to_create_a_quote.md)
 
 [Resume a single sold product](resuming_sold_products.md#)
 

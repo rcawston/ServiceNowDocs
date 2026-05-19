@@ -24,15 +24,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Azure Functions detailed information**
 
-    [Detailed information on products discovered by ITOM Visibility](../reference/r_SupportedApplications.md)
+    [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
 -   **Azure service account**
 
-    Configure the Azure service account. For more information, see [Set up a cloud account for Azure](../../cloud-management-v2-setup/task/azure-cloud-accts-cloud-mgt.md)
+    Configure the Azure service account. For more information, see [Set up a cloud account for Azure](../cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md)
 
 -   **Azure Principal credentials**
 
-    On the ServiceNow AI Platform, create a service account for cloud discovery. Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console. For more information see: [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md)
+    On the ServiceNow AI Platform, create a service account for cloud discovery. Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console. For more information see: [Create Azure cloud credentials](../discovery/create-azure-cloud-credentials.md)
 
 -   **Privileges**
 
@@ -40,11 +40,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Run Azure Cloud discovery**
 
-    For detailed information, see: [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+    For detailed information, see: [Discovery for Microsoft Azure](../discovery/azure-cloud-discovery.md)
 
 -   **Create discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -79,10 +79,10 @@ Service Mapping can discover the following connections:
     **Note:** Service Mapping does not scan java classes/jars and binary files for possible information about outgoing HTTP connections of Azure Functions. If java classes/jars and binary files are the only source of information about some outgoing HTTP connections, Service Mapping does not find such HTTP connections.
 
 
-**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](../reference/azure-cloud-discovery-patterns.md)
+**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
 
 **Related topics**  
 
 
-[Define a Cloud REST Query for cloud computing devices](../task/cloud-rest-query-pattern.md)
+[Define a Cloud REST Query for cloud computing devices](cloud-rest-query-pattern.md)
 

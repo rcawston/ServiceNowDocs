@@ -44,5 +44,5 @@ The Now Assist Knowledge skill required to enable the identify duplicate article
     This feature may not work as expected for non-English articles.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 

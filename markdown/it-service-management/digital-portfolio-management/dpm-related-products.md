@@ -323,7 +323,7 @@ To see roadmap data:
 
  To see flow metrics and accelerate metrics:
 
- Enable DevOps for DPM \(see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md)\)
+ Enable DevOps for DPM \(see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md)\)
 
 -   To see details in the DevOps Change Workspace, select **View DevOps Insights** from the Flow metrics section.
 -   To see details in the DevOps Change Workspace, select **View Accelerate metrics in DevOps** from the Accelerate metrics section.

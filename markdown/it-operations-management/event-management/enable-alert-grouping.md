@@ -48,11 +48,11 @@ The scheduled job Service Analytics: Group Alerts Using RCA/Alert Aggregation he
 **Related topics**  
 
 
-[Automated alert grouping](../concept/c_SACorrelatedAlertGroups.md)
+[Automated alert grouping](c_SACorrelatedAlertGroups.md)
 
-[CMDB based alert grouping](../concept/cmdb-alert-groups.md)
+[CMDB based alert grouping](cmdb-alert-groups.md)
 
-[Text-based alert grouping](../concept/text-based-alert-groups.md)
+[Text-based alert grouping](text-based-alert-groups.md)
 
-[Tag cluster alert grouping](../concept/alert-clustering-tag-definitions-concept.md)
+[Tag cluster alert grouping](alert-clustering-tag-definitions-concept.md)
 

@@ -56,13 +56,13 @@ App Engine Studio includes default roles that you can use for your application.
 ![](../../../reuse/icons/brand-icons/bus-application-developer.svg) [Elevating Privileges - ServiceNow Developers site](https://developer.servicenow.com/dev.do#!/learn/courses/vancouver/app_store_learnv2_aescreateappfromscratch_vancouver_create_an_app_from_scratch_with_app_engine_studio/app_store_learnv2_aescreateappfromscratch_vancouver_secure_apps_and_data/app_store_learnv2_aescreateappfromscratch_vancouver_elevating_privileges)
 
 </td></tr></tbody>
-</table>-   **[Build a new role for your application](../task/aes-create-role.md)**  
+</table>-   **[Build a new role for your application](aes-create-role.md)**  
 Create a custom role for your application in App Engine Studio \(AES\).
--   **[Use an existing role for your application](../task/aes-existing-role.md)**  
+-   **[Use an existing role for your application](aes-existing-role.md)**  
 Use a previously created role for your application in App Engine Studio \(AES\).
--   **[Change access settings for a role](../task/edit-role.md)**  
+-   **[Change access settings for a role](edit-role.md)**  
 Control the application permissions for a role in App Engine Studio \(AES\).
--   **[Delete a role](../task/delete-role.md)**  
+-   **[Delete a role](delete-role.md)**  
 Delete a role that you no longer need in App Engine Studio \(AES\).
 
 **Parent Topic:**[Enhance your app](customize-application.md)

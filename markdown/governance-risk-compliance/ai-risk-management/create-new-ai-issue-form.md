@@ -105,7 +105,7 @@ Workflow state of the issue. This field is automatically set to **Review**. The 
 -   **Closed Complete**
 -   **Closed Incomplete**
 
- For more information on Issue management workflow and life cycle, see [Manage issues](../../grc-common/concept/manage-issues-common-core.md).
+ For more information on Issue management workflow and life cycle, see [Manage issues](../grc-common-functions/manage-issues-common-core.md).
 
 </td></tr><tr><td>
 
@@ -350,5 +350,5 @@ Functional domain
 Functional domain that the issue belongs to. For example, an issue may belong to the AI Risk and Compliance domain.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an AI issue in the AI Risk and Compliance workspace](../task/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md)
+</table>**Parent Topic:**[Create an AI issue in the AI Risk and Compliance workspace](create-ai-issue-in-the-ai-risk-and-compliance-workspace.md)
 

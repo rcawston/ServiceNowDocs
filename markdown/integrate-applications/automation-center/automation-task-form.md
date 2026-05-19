@@ -113,5 +113,5 @@ Assigned to
 Name of the user assigned to the automation task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

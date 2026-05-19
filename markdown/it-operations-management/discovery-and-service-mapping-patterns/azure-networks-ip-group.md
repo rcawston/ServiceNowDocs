@@ -20,15 +20,15 @@ Discovery and Service Mapping Patterns finds Azure services on your cloud enviro
 
 -   **Verify the Microsoft Azure discovery prerequisites**
 
-    For more information, see the prerequisites section in [Microsoft Azure Cloud discovery using patterns](../service-mapping/reference/azure-cloud-discovery-patterns.md).
+    For more information, see the prerequisites section in [Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md).
 
 -   **Enable the relevant pattern**
 
-    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](../service-mapping/task/activate-disabled-pattern.md).
+    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](activate-disabled-pattern.md).
 
 -   **Configure the Discovery schedule to support GovCloud**
 
-    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](../it-operations-management/task/setup-azure-service-accounts.md).
+    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md).
 
 
 Discovery and Service Mapping Patterns application populates data in both CMDB and non-CMDB tables.
@@ -80,5 +80,5 @@ The pattern collects tags and populates them in the Key Value \[cmdb\_key\_value
 |Key \[key\]|Tag name.|
 |Value \[value\]|Tag value.|
 
-**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](../service-mapping/reference/azure-cloud-discovery-patterns.md)
+**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
 

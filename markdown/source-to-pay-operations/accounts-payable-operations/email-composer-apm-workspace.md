@@ -38,7 +38,7 @@ Open the response template that you want to use for your email and select **Copy
 
 For more information on how to work with response templates, see [Create or modify a response template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-modify-templated-snippet.md).
 
--   **[Communicate using emails from the Source-to-Pay Workspace](../task/send-emails-apm-ws.md)**  
+-   **[Communicate using emails from the Source-to-Pay Workspace](send-emails-apm-ws.md)**  
 Compose and send emails directly from an invoice inquiry case or an invoice processing case in the Source-to-Pay Workspace.
 
 **Parent Topic:**[Use Accounts Payable Operations](use-acc-pay-mgmt.md)
@@ -46,7 +46,7 @@ Compose and send emails directly from an invoice inquiry case or an invoice proc
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -56,11 +56,11 @@ Compose and send emails directly from an invoice inquiry case or an invoice proc
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
 [Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Interaction management in Accounts Payable Operations](interaction-record.md)
 

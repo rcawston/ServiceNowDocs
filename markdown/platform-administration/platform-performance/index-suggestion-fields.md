@@ -22,8 +22,8 @@ A description of the fields in the index suggestion form.
 |Table name|Name of the table used in the query.|
 |Column names|Names of the columns used in the query.|
 |Index name|Name of the index, assigned by the ISE after the index is created.|
-|State|Processing state of the index. For details, refer to [Index suggestions for slow queries](../concept/index-suggestions.md) to see index suggestion states and table.|
+|State|Processing state of the index. For details, refer to [Index suggestions for slow queries](index-suggestions.md) to see index suggestion states and table.|
 |Imported|This box, if checked, indicates that the index suggestion was imported from a different instance for evaluation and testing.|
 
-**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

@@ -17,7 +17,7 @@ A software contract is a binding agreement between the owner of a software produ
 
 You can use the Contract Management application to create contracts for software that is tracked and managed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin. When you create a new software contract, you can specify that the contract is an enterprise or subscription license.
 
--   **[Create software contracts for the legacy Software Asset Management plugin](../task/t_CreatingSoftwareContracts.md)**  
+-   **[Create software contracts for the legacy Software Asset Management plugin](t_CreatingSoftwareContracts.md)**  
 You can create binding agreements that enable buyers to legally use software that is tracked and managed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
@@ -33,7 +33,7 @@ You can create binding agreements that enable buyers to legally use software tha
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

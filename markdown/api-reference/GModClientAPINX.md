@@ -54,7 +54,7 @@ dialog.setWidth(550);
 dialog.render();
 ```
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](api-client-next.md)
 
 ## GlideModal \(Next Experience\) - GlideModal\(String id, Boolean readOnly, Number/String width\)
 
@@ -82,7 +82,7 @@ String
 
 </td><td id="GMod-GMod-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](scripts/r_UIPages.md#) to load into the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 
@@ -276,7 +276,7 @@ String
 
 </td><td id="GMod-get-id-entry">
 
-Name of the[UI page](../../../../../script/server-scripting/reference/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
+Name of the[UI page](scripts/r_UIPages.md#) associated with the modal.You can also specify either the `glide_modal_confirm` or `glide_modal_info` modals that are provided in the base system.
 
 Table: UI Page \[sys\_ui\_page\]
 

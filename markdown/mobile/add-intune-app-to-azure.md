@@ -50,5 +50,5 @@ Role required: Microsoft Intune admin
 10. Review the information you entered and when you are finished, click **Create**.
 
 
-**Parent Topic:**[Intune mobile device management \(MDM\)](../concept/intune-mdm.md)
+**Parent Topic:**[Intune mobile device management \(MDM\)](intune-mdm.md)
 

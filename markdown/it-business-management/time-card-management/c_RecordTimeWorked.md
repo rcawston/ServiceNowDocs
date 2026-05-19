@@ -15,7 +15,7 @@ breadcrumb: [Time Card management, Project Portfolio Management, Strategic Portf
 
 The time card retrieves time accrued on a project or spent working on any record in the Task table from the **Time worked** field.
 
-This field does not appear by default on the Project Task, Incident, Problem, and Change forms and must be added by personalizing the form. Time recorded in this field is used to populate an existing time card or to create a new time card if one does not exist. A [time sheet policy](../task/create-time-sheet-policy.md#time_sheet_policy_form) controls this behavior.
+This field does not appear by default on the Project Task, Incident, Problem, and Change forms and must be added by personalizing the form. Time recorded in this field is used to populate an existing time card or to create a new time card if one does not exist. A [time sheet policy](create-time-sheet-policy.md#time_sheet_policy_form) controls this behavior.
 
 **Note:**
 

@@ -126,5 +126,5 @@ A grant type is the way that the client obtains the access token. The following 
 
 ## Storage of authentication credentials
 
-The OAuth client secret is stored as a **password2** type field, which is encrypted with KMF. User passwords, which are used to check incoming endpoint requests, are stored as a hash value in the User table in a **password** type field \(SHA 256\). For details on this encryption, see [Password2 encryption with KMF](../../key-management-framework/concept/password-2way-encrypted-fields.md)
+The OAuth client secret is stored as a **password2** type field, which is encrypted with KMF. User passwords, which are used to check incoming endpoint requests, are stored as a hash value in the User table in a **password** type field \(SHA 256\). For details on this encryption, see [Password2 encryption with KMF](../platform-encryption/password-2way-encrypted-fields.md)
 

@@ -33,13 +33,13 @@ Element variables are custom elements that are used in the Grid configuration. A
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Element variable record form](../reference/element-variable-record-form.md).
+    For more information on the fields in the form, see [Element variable record form](element-variable-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Element variable record form](../reference/element-variable-record-form.md)**  
+-   **[Element variable record form](element-variable-record-form.md)**  
 Use the Element variable record form to configure an element variable. Element variables are custom elements that are used in the Grid configuration. You can set up an element variable that is specific custom columns, which are required for a particular dependency of an element.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

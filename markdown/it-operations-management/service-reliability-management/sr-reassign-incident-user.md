@@ -63,5 +63,5 @@ Delete the name in the **Assigned to** field and reassign. Select **Save**.
 </table>    The incident is now assigned to the new responder and an email notification sent. The assignee is displayed in the list view and on the form.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

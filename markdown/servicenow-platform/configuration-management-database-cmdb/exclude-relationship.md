@@ -35,5 +35,5 @@ Role required:
     Excluded relationships do not appear in the relations formatter view on CI forms.
 
 
-**Parent Topic:**[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+**Parent Topic:**[CI relations formatter](c_CIRelationsFormatterNG.md)
 

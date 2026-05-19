@@ -15,9 +15,9 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 Localization Framework uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in Localization Workspace.
 
-For more information about Localization Workspace, see [Localization Workspace](../../localization-workspace/concept/localization-workspace.md). To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+For more information about Localization Workspace, see [Localization Workspace](../localization-workspace/localization-workspace.md). To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Explore Localization Framework](../concept/exploring-localization-framework.md)
+**Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
 
 ## Localization administrator \[localization\_admin\]
 
@@ -146,5 +146,5 @@ If the Localization Framework Hub and Spoke architecture is activated, the local
 -   Localization Framework Hub Translation Request \[sn\_lf\_hub\_translation\_request\]
 -   Localization Framework Hub Translation Item \[sn\_lf\_hub\_translation\_item\]
 
-For more information, see [Localization Framework Hub and Spoke architecture](../concept/localization-framework-hub-spoke-architecture.md).
+For more information, see [Localization Framework Hub and Spoke architecture](localization-framework-hub-spoke-architecture.md).
 

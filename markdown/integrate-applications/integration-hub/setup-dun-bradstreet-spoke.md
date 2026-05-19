@@ -41,7 +41,7 @@ Add and configure a Dun and Bradstreet DirectPlus connection to authenticate Ser
 4.  Locate the alias for **DunAndBradstreet** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Dun and Bradstreet DirectPlus spoke, click **View Details**.![Dun and Bradstreet connection template](../image/d-and-b-spoke-conn-template.png)
-    -   To manage more than one Dun and Bradstreet DirectPlus connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Dun and Bradstreet DirectPlus connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Dun and bradstreet spoke connection configuration](../image/d-and-b-conn-temp-config.png)

@@ -56,5 +56,5 @@ Journey designer must be installed as a store application.
 5.  Select **Install**.
 
 
-**Parent Topic:**[Installation and configuration overview](../concept/jny-inst-config-overview.md)
+**Parent Topic:**[Installation and configuration overview](jny-inst-config-overview.md)
 

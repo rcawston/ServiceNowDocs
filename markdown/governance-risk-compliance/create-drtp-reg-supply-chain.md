@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.manager
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New ICT service supply chain form](../reference/create-supply-chain-form.md).
+    For more information, see [Create New ICT service supply chain form](create-supply-chain-form.md).
 
 4.  Select **Save**.
 
@@ -44,8 +44,8 @@ Role required: sn\_oper\_res.manager
 10. To delete the supply chain record, select it from the list and select **Delete**.
 
 
--   **[Create New ICT service supply chain form](../reference/create-supply-chain-form.md)**  
+-   **[Create New ICT service supply chain form](create-supply-chain-form.md)**  
 On the Create New ICT service supply chain form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

@@ -193,12 +193,12 @@ In the **Filter By Accounts** field, select an account. The map highlights the C
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](using-floor-map.md)
 
 **Related topics**  
 
 
-[Floor map](../concept/visualization-floor-maps.md)
+[Floor map](visualization-floor-maps.md)
 
-[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+[Configuring overlays on floor map](configure-overlays-floor-map.md)
 

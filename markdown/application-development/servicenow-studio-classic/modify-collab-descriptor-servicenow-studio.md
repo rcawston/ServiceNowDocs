@@ -41,7 +41,7 @@ Role required: admin or delegated\_developer
 
     2.  Choose the permissions you want the group or user to have.
 
-        For more information on permissions and descriptions, see [Collaboration permissions for ServiceNow Studio](../reference/servicenow-studio-collab-permissions.md).
+        For more information on permissions and descriptions, see [Collaboration permissions for ServiceNow Studio](servicenow-studio-collab-permissions.md).
 
         ![Select custom collaboration permissions](../../creator-studio/image/cs-collab-custom-2.png "Customize collaboration permissions")
 
@@ -54,7 +54,7 @@ Your changes are automatically saved when you close the Collaborate with others 
 
 ## What to do next
 
-Your App Engine admin must then approve the changes to collaborators. For more information, admins should see [Approve a collaboration request](../../creator-studio/task/approve-collaboration-request.md).
+Your App Engine admin must then approve the changes to collaborators. For more information, admins should see [Approve a collaboration request](../creator-studio/approve-collaboration-request.md).
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md)
 

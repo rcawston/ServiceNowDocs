@@ -57,5 +57,5 @@ You can approve or reject your purchase requisitions and invoice requests from t
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

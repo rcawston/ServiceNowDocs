@@ -78,7 +78,7 @@ The release teams can use these templates to create a release. All the phases, t
 
         The list shows the schedule entries from the Schedule \[cmn\_schedule\] table of the type Excluded.
 
-        Adding a schedule considers holidays and weekends and adjusts the phase and release durations accordingly. This helps improve release planning accuracy by including actual working days. For more information, see [Holiday schedules in a release](../concept/dpr-release-holiday-schedule.md).
+        Adding a schedule considers holidays and weekends and adjusts the phase and release durations accordingly. This helps improve release planning accuracy by including actual working days. For more information, see [Holiday schedules in a release](dpr-release-holiday-schedule.md).
 
         **Note:** This option is available only for the timeline-oriented release process.
 
@@ -251,7 +251,7 @@ Select the more actions button \(![More actions button icon.](../image/dpr-icon-
 </table>**Related topics**  
 
 
-[Release for a product or service](../concept/dpr-product-release.md)
+[Release for a product or service](dpr-product-release.md)
 
 [Create a release with a wizard](dpr-create-release-guided.md)
 
@@ -259,7 +259,7 @@ Select the more actions button \(![More actions button icon.](../image/dpr-icon-
 
 [Work on a timeline-oriented release for a single product or service](dpr-work-release.md#)
 
-[Managing multiple releases through release bundles](../concept/dpr-release-bundle.md)
+[Managing multiple releases through release bundles](dpr-release-bundle.md)
 
 ## Display custom template fields on release task records
 

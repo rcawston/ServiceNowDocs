@@ -42,5 +42,5 @@ Your manager creates plans for different employee transition events. When you ca
     -   **Comments**: Sends messages to the plan manager.
     -   **Attachments**: Adds files, such as certificates of completion, for training or other documents.
 
-**Parent Topic:**[Working with Journey Accelerator plans](../concept/working-with-journey-accelerator-plans.md)
+**Parent Topic:**[Working with Journey Accelerator plans](working-with-journey-accelerator-plans.md)
 

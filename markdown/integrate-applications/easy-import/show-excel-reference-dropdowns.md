@@ -44,5 +44,5 @@ Role required: admin
     ![Excel choice list](../../key-management-framework/image/excel-list.png)
 
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](c_EasyImport.md)
 

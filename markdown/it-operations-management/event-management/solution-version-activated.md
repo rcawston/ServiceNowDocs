@@ -36,5 +36,5 @@ Role required: evt\_mgmt\_admin
     The system activates this solution version and deactivates any other solution version.
 
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](alert-similarity.md)
 

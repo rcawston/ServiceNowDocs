@@ -21,7 +21,7 @@ Define your application services prior to defining discovery schedules for disco
 
 When creating a schedule for CI types or specific CIs, make sure that at least one application service containing the relevant CI is in the **operational** state.
 
-Learn about different types of [top-down discovery schedules](../concept/top-down-discovery-schedules.md).
+Learn about different types of [top-down discovery schedules](top-down-discovery-schedules.md).
 
 Role required: service\_mapping\_admin
 
@@ -116,15 +116,15 @@ This field contains the condition builder and is available when `Service Group A
 
 6.  Define the rediscovery frequency by selecting the relevant option from the **Run** list.
 
-    See [Run options for discovery schedules](../../it-operations-management/reference/discovery-schedule-run-options.md).
+    See [Run options for discovery schedules](../itom-visibility/discovery-schedule-run-options.md).
 
 7.  Click **Submit**.
 
 
--   **[Top-down discovery schedules](../concept/top-down-discovery-schedules.md)**  
+-   **[Top-down discovery schedules](top-down-discovery-schedules.md)**  
 Learn about schedules that trigger top-down discovery of application services.
 
-**Parent Topic:**[Application service completion](../concept/advanced-business-service-definitions.md)
+**Parent Topic:**[Application service completion](advanced-business-service-definitions.md)
 
 **Related topics**  
 
@@ -135,7 +135,7 @@ Learn about schedules that trigger top-down discovery of application services.
 
 [Control user access to application services](control-user-access-to-business-services.md)
 
-[Service definition transfer from one instance to another](../concept/transfer-service-definitions.md#)
+[Service definition transfer from one instance to another](transfer-service-definitions.md#)
 
-[Pattern-based discovery in Service Mapping](../concept/pattern-based-discovery.md)
+[Pattern-based discovery in Service Mapping](pattern-based-discovery.md)
 

@@ -40,5 +40,5 @@ Three things to note at this point:
 -   Within that table, the imported records are designated with their own Set value.
 -   A new module is created in the System Import Sets application for the new table.
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

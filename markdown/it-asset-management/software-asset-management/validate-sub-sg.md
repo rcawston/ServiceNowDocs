@@ -43,7 +43,7 @@ Role required: sam\_admin, sam\_user
 
             -   Check if the software model is resolved correctly as per the subscription product definition.
             -   Check if the **User** field on the subscription records is resolved. If it is not resolved, check the email of the user, which must match with the user principal name. You can also match the user name from the user principal with the user\_name on the sys\_user record.
-            -   If subscription identifiers are incorrect or empty, manage and resolve the subscription identifiers. For more information, see [Subscription identifiers for SaaS and SSO applications](../concept/subscription-identifiers.md#).
+            -   If subscription identifiers are incorrect or empty, manage and resolve the subscription identifiers. For more information, see [Subscription identifiers for SaaS and SSO applications](../saas-license-management/subscription-identifiers.md#).
 2.  Validate installation and usage data from inventory tools.
 
     **Note:**

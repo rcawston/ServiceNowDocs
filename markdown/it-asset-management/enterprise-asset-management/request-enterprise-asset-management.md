@@ -49,7 +49,7 @@ Procurement\(com.snc.procurement\)
 
 </td><td>
 
-Provides the capability to source and receive requested assets so that you can fulfill service catalog requests. See [Procuring enterprise assets](../concept/procuring-assets.md) for more information on procurement.
+Provides the capability to source and receive requested assets so that you can fulfill service catalog requests. See [Procuring enterprise assets](procuring-assets.md) for more information on procurement.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Expanded Model and Asset Classes
 
 </td><td>
 
-Adds enterprise model and asset classes that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates model categories that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes. See [Expanded Model and Asset Classes](../concept/enterprise-model-asset-classes-app.md) for more information on this application.
+Adds enterprise model and asset classes that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates model categories that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes. See [Expanded Model and Asset Classes](enterprise-model-asset-classes-app.md) for more information on this application.
 
 </td></tr><tr><td>
 

@@ -163,5 +163,5 @@ You can view incident tasks in the Industrial Workspace list view in the followi
 -   Incident tasks assigned to your group: **OT Tasks** &gt; **Assigned to My Groups**
 -   Unassigned incident tasks: **OT Tasks** &gt; **Unassigned**
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

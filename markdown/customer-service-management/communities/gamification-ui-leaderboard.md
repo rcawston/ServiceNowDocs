@@ -30,5 +30,5 @@ For each user, the leaderboard displays:
 
 By default, the leaderboard displays 10 users per page. Users can use the pagination controls to view additional pages. Pointing to a user name in the leaderboard displays a pop-up window with more information about the user.
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](communities-gamification-UI.md)
 

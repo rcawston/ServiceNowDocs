@@ -40,5 +40,5 @@ Role required: sn\_model\_risk\_mgmt.model\_owner or sn\_model\_risk\_mgmt.model
 
 The model risk task is submitted for approval. If no approvers are configured, the model directly moves to the Pre-deployment state.
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

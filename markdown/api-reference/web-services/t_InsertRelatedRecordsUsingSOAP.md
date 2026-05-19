@@ -32,17 +32,17 @@ For example, when a related list is created for the incident table called `u_cus
 
 And `u_comment_items` is created as a related list for `u_custom_comments`
 
--   **[WSDL Schema with related records](../reference/r_WSDLSchemaWithRelatedRecords.md)**  
+-   **[WSDL Schema with related records](r_WSDLSchemaWithRelatedRecords.md)**  
 When a WSDL for the target Incident table is requested with an additional parameter of **hierarchical=true**, the WSDL schema for the Insert function will reflect available related records that may participate in the hierarchical data payload.
--   **[Hierarchical SOAP Message](../reference/r_HierarchicalSOAPMessage.md)**  
+-   **[Hierarchical SOAP Message](r_HierarchicalSOAPMessage.md)**  
 When the SOAP message is constructed from the hierarchical web service described by the WSDL and invoked, it will create the `incident`, `u_custom_comments`, and `u_comment_items` records.
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 
 **Related topics**  
 
 
-[WSDL Schema with related records](../reference/r_WSDLSchemaWithRelatedRecords.md)
+[WSDL Schema with related records](r_WSDLSchemaWithRelatedRecords.md)
 
-[Hierarchical SOAP Message](../reference/r_HierarchicalSOAPMessage.md)
+[Hierarchical SOAP Message](r_HierarchicalSOAPMessage.md)
 

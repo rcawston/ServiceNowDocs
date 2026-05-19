@@ -39,5 +39,5 @@ This example workflow appears to be perfectly valid. Under closer inspection, ho
 
 This validator directs the designer to the specific activity and condition that has no inbound transition. The designer should establish a transition or remove the activity.
 
-**Parent Topic:**[Workflow validator](../reference/r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
 

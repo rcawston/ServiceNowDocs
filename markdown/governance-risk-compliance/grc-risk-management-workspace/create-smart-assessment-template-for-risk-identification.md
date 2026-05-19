@@ -67,7 +67,7 @@ Category that the new assessment template should be a member of. You must select
 
 Template purposes enforce data segregation for templates. A purpose controls which users can view a template. Each assessment template is associated with a purpose. To view a template within a specific purpose, you must have a category role associated with that purpose.
 
-See [Create an assessment template category](../../assessment-engine/task/sae-asmnt-template-category-create.md)**Note:** You can create an assessment only from a published assessment template.
+See [Create an assessment template category](../smart-assessment-engine/sae-asmnt-template-category-create.md)**Note:** You can create an assessment only from a published assessment template.
 
 </td></tr><tr><td>
 
@@ -81,10 +81,10 @@ The table records selected to be assessed, otherwise known as the assessment sco
 </table>3.  Select **Create**.
 
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](../concept/risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](risk-and-apm-better-together.md)
 
 **Related topics**  
 
 
-[Using the template designer](../../assessment-engine/concept/sae-template-designer.md)
+[Using the template designer](../smart-assessment-engine/sae-template-designer.md)
 

@@ -36,5 +36,5 @@ After the Script Debugger pauses a script, use the step-through controls to move
 **Related topics**  
 
 
-[Set or remove breakpoints](../task/set-remove-breakpoints.md)
+[Set or remove breakpoints](set-remove-breakpoints.md)
 

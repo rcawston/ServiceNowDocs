@@ -101,5 +101,5 @@ To view the Exposure by Risk Statements dashboard, navigate to **Risk** &gt; **E
 
 **Important:** Starting with version 18.1.0 of the Advanced Risk and Risk Management applications, the Exposure by Entity dashboard is deprecated. If you're on a legacy release or already using the dashboard, you can continue to use it.
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
 

@@ -23,15 +23,15 @@ The ServiceNow® GRC: Operational Resilience application empowers your organizat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Operational Resilience](../concept/what-is-opres.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Operational Resilience](what-is-opres.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Operational Resilience application](../concept/configure-operational-resilience.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Operational Resilience application](configure-operational-resilience.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage Operational Resilience tasks](../../grc-operational-res-ws/concept/working-in-opres-ws.md)
+[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage Operational Resilience tasks](working-in-opres-ws.md)
 
 </td><td>
 

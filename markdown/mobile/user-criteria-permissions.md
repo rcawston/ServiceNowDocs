@@ -21,7 +21,7 @@ Use user criteria permissions to control access to mobile app components based o
 -   User criteria can also be used for mobile theming. For example, a large corporation with many subsidiary companies can maintain the look-and-feel specific to each company. This can include the overall appearance, the empty state images, and the different tabs that display on the navigation bar.
 -   You can assign management employees the ability to view certain navigation tabs and data visualizations.
 
-**Note:** If you don't select user criteria for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user role permissions may be defined. For a full list of the components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](../reference/components-roles-criteria.md).
+**Note:** If you don't select user criteria for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user role permissions may be defined. For a full list of the components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](components-roles-criteria.md).
 
 User criteria permissions are supported for the following components: Native Client, launcher screen, UI sections, navigation tabs and icon section destination.
 
@@ -47,23 +47,23 @@ User criteria permissions are supported for the following components: Native Cli
 
     Limit a user's ability to view either the whole icon section or the icon destination component within an icon section. Icon destination components are icons and images that represent a launcher screen, a function, or a navigation point to a screen.
 
-    -   For icons, use the reference lookup icon to select an existing icon to display in the icon section. For more information, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
-    -   For images, use the reference lookup icon to select the image to display in the icon section. For more information, see [Adding images to an icon section](../task/add-image-icon-section.md).
+    -   For icons, use the reference lookup icon to select an existing icon to display in the icon section. For more information, see [Configure an icon UI section](sg-ui-section-config-navig.md).
+    -   For images, use the reference lookup icon to select the image to display in the icon section. For more information, see [Adding images to an icon section](add-image-icon-section.md).
 
 ## General guidelines for using user criteria
 
 -   Use user criteria if the segmentation is based on things such as location, companies, departments, and groups. Use user roles if the segmentation is based on the user’s skill and role definition.
 -   Consider how you're managing different brands, subsidiaries, and locations. Consider if user criteria or user roles is a more appropriate solution for you.
--   Some components can be associated with both user roles and user components, whereas other components are associated with one access control mechanism. For a list of how the components are associated, see [Mobile components where user roles and user criteria permissions apply](../reference/components-roles-criteria.md).
+-   Some components can be associated with both user roles and user components, whereas other components are associated with one access control mechanism. For a list of how the components are associated, see [Mobile components where user roles and user criteria permissions apply](components-roles-criteria.md).
 -   For components where you can assign both user roles and user criteria, prioritize assigning user roles unless there's a specific need otherwise, as this approach streamlines operations and improves system responsiveness.
 -   Don't associate more than two user criteria to a single mobile component. Exceeding this number may complicate the conditions set and could result in the component not displaying as intended.
 -   When assigning user criteria, note that broader user criteria takes precedence over more specific user criteria. For example, if you choose to hide the entire icon section, it overrides any other user criteria that specify hiding individual icons within that section.
 -   Minimize the use of scripted user criteria, as they can adversely affect performance.
 -   User roles are supported in offline.
 
--   **[Assign mobile user criteria permissions](../task/user-criteria-config.md)**  
+-   **[Assign mobile user criteria permissions](user-criteria-config.md)**  
 Apply user criteria permissions to segment your users into different groups, such as location, department, or company.
--   **[Define user criteria status as active or inactive](../task/user-criteria-active-inactive.md)**  
+-   **[Define user criteria status as active or inactive](user-criteria-active-inactive.md)**  
 Learn how to define a user criteria component's status as active or inactive.
 
 **Parent Topic:**[User roles and user criteria permissions for mobile apps](roles-user-criteria.md)

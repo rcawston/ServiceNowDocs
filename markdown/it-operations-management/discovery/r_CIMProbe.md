@@ -15,7 +15,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 The CIM probe uses WBEM protocols to query a particular CIM server, the CIM Object Manager, for a set of data objects and properties.
 
-For instructions on configuring probe parameters, see [Set probe parameters](../task/t_SetProbeParameters.md).
+For instructions on configuring probe parameters, see [Set probe parameters](t_SetProbeParameters.md).
 
 The following parameters may be passed to the CIM probe:
 

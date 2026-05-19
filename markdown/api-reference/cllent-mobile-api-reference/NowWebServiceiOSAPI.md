@@ -17,9 +17,9 @@ The NowWebService class provides functions that enable the browsing of web pages
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration parameters to use when initializing the NowWebService instance.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Configuration parameters to use when initializing the NowWebService instance.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowWebService - init\(configuration: NowServiceConfiguration, coreServiceProvider: NowCoreServiceProviding? = nil\)
 
@@ -43,7 +43,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -126,7 +126,7 @@ theme
 
 </td><td>
 
-[NowWebThemeable protocol - iOS](../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)
+[NowWebThemeable protocol - iOS](NowWebThemeableiOSProtocol.md)
 
 </td><td>
 

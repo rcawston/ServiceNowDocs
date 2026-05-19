@@ -66,5 +66,5 @@ Description
 
 One or more custom tables are mapped to a product subscription and your custom table entitlement count is updated. If you mapped a custom table to a subscription through the Custom Table Inventory form, Subscription Management is updated the next day.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](allocating-custom-tables-subscr-apps-v2.md)
 

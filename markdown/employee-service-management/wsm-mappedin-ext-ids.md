@@ -40,5 +40,5 @@ Role required: employee and admin
     An email notification verifies the generated external IDs for the spaces, floors, and buildings. Use the links in the email to export a file that you can provide to Mappedin.
 
 
-**Parent Topic:**[Using Workplace Space Mapping](../concept/wsm-using-workplace-space-mapping.md)
+**Parent Topic:**[Using Workplace Space Mapping](wsm-using-workplace-space-mapping.md)
 

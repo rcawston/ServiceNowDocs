@@ -19,7 +19,7 @@ You must verify that all the required prerequisites are met before you activate 
 
 -   Verify required Service Graph Connectors activated.
 -   Verify any required applications such as Vulnerability Response are installed and activated, if applicable.
--   For more information about policies used for mitigation controls monitoring, see [Mitigation controls policies](../concept/spc-mitigation-policies.md).
+-   For more information about policies used for mitigation controls monitoring, see [Mitigation controls policies](spc-mitigation-policies.md).
 
 **Note:**
 

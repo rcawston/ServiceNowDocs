@@ -60,7 +60,7 @@ Steps
 
 4.  Scroll down to see all the tracks for the selected adoption blueprint.
 
-    See [Adoption blueprints](../concept/ac-achieve-business-objective.md) for more information.
+    See [Adoption blueprints](ac-achieve-business-objective.md) for more information.
 
 5.  Expand the Optional list to view the optional list of applications and features that may be beneficial for you to install.
 
@@ -73,18 +73,18 @@ Steps
     **Note:** You can skip this step if you don't want to install the application mentioned in the Next Up card. You are also required to consider the current needs of your organization along with the suggested applications.
 
 
--   **[Expand technology services while reducing costs blueprint](../reference/expand-tech-services-adoption-blueprints.md)**  
+-   **[Expand technology services while reducing costs blueprint](expand-tech-services-adoption-blueprints.md)**  
 Select this adoption blueprint to create actionable plans to achieve your organization's business goals for automating core service and operations processes.
--   **[Deliver extraordinary employee experiences, resiliency and productivity blueprint](../reference/ac-ab1.md)**  
+-   **[Deliver extraordinary employee experiences, resiliency and productivity blueprint](ac-ab1.md)**  
 Select this adoption blueprint to enhance your employees' IT experience by automating and optimizing IT service operations that enable self-resolution of incidents, improved productivity, and recovering from complicated IT scenarios.
--   **[Modernize your change management process blueprint](../reference/ac-ab3.md)**  
+-   **[Modernize your change management process blueprint](ac-ab3.md)**  
 Select this adoption blueprint to get a walk through on how you can adopt the required capabilities to allow your change process to dynamically scale without compromising stability and governance.
--   **[Reduce incidents and keep services flowing with AI based automation blueprint](../reference/ac-ab4.md)**  
+-   **[Reduce incidents and keep services flowing with AI based automation blueprint](ac-ab4.md)**  
 Select this adoption blueprint to leverage AI-based automation to keep the business running by reducing and prioritizing incidents and issues.
--   **[Ensure technology teams meet compliance and performance standards blueprint](../reference/ac-ab5.md)**  
+-   **[Ensure technology teams meet compliance and performance standards blueprint](ac-ab5.md)**  
 Select this adoption blueprint to ensure that your technology teams meet all of the required compliance standards for vendors, security, and performance.
--   **[Operationalize workforce effectiveness and processes blueprint](../reference/ac-ab6.md)**  
+-   **[Operationalize workforce effectiveness and processes blueprint](ac-ab6.md)**  
 Select this adoption blueprint to increase the effectiveness and efficiency of your workforce processes.
 
-**Parent Topic:**[Adoption blueprints](../concept/ac-achieve-business-objective.md)
+**Parent Topic:**[Adoption blueprints](ac-achieve-business-objective.md)
 

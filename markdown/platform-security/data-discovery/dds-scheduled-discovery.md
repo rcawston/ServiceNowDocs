@@ -17,7 +17,7 @@ Set up and schedule data discovery jobs to scan your instance for sensitive info
 
 ## Discovery Jobs
 
-The **Discovery Jobs** table lists all discovery jobs. See [Create discovery job](../task/dds-create-new-job.md) to create a new discovery job.
+The **Discovery Jobs** table lists all discovery jobs. See [Create discovery job](dds-create-new-job.md) to create a new discovery job.
 
 <table id="table_fhd_dhg_cgc"><thead><tr><th>
 
@@ -101,7 +101,7 @@ How often the job is scheduled to run.
 </td></tr></tbody>
 </table>## Discovery Findings
 
-The **Discovery Findings** table lists all the discovered findings from discovery jobs. See [Review discovery findings](../../task/concept/dds-review-discovery-findings.md) to review and classify findings from discovery jobs.
+The **Discovery Findings** table lists all the discovered findings from discovery jobs. See [Review discovery findings](dds-review-discovery-findings.md) to review and classify findings from discovery jobs.
 
 |Label|Description|
 |-----|-----------|
@@ -116,7 +116,7 @@ The **Discovery Findings** table lists all the discovered findings from discover
 
 ## Granular Configuration
 
-The **Granular Configuration** table lists all granular discovery jobs. See [Create granular job](../task/dds-create-granular-job.md) to learn how to create a granular discovery job.
+The **Granular Configuration** table lists all granular discovery jobs. See [Create granular job](dds-create-granular-job.md) to learn how to create a granular discovery job.
 
 <table id="table_jmf_q4g_cgc"><thead><tr><th>
 
@@ -161,7 +161,7 @@ The state of the granular discovery job.
 </td></tr></tbody>
 </table>## Granular Findings
 
-The **Granular Findings** table lists all the granular findings from granular discovery jobs. See [Review granular findings](../task/dds-review-granular-findings.md) to review the findings from granular discovery jobs.
+The **Granular Findings** table lists all the granular findings from granular discovery jobs. See [Review granular findings](dds-review-granular-findings.md) to review the findings from granular discovery jobs.
 
 <table id="table_h3c_2pg_cgc"><thead><tr><th>
 

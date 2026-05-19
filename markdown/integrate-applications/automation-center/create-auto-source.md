@@ -38,7 +38,7 @@ The following steps must be followed in the same order to create an automation s
 
 -   **[Define source for automation](define-source.md)**  
 Define the source that you want to add for your automations.
--   **[Configuring data import](../concept/configure-data-import.md)**  
+-   **[Configuring data import](configure-data-import.md)**  
 Configure the details of the data import, such as the kind of data, the schedule of the import, and so on.
 -   **[Align source and destination fields](align-fields.md)**  
 Align the source and destination fields to ensure that the selected output from the selected action align correctly with ServiceNow tables enabling accurate integration of automation data.
@@ -47,5 +47,5 @@ Align source and destination values for precise data representation in Automatio
 -   **[Review and activate automation source](review-activate.md)**  
 Review all configurations for the automation source, and then activate the automation source.
 
-**Parent Topic:**[Working with Connection Manager](../concept/connection-manager.md)
+**Parent Topic:**[Working with Connection Manager](connection-manager.md)
 

@@ -167,7 +167,7 @@ Send On-Call Reminders
 
 </td><td>
 
-Option to send [on-call reminders](../reference/escalation-remind-settings-oncall.md) to members of the roster.
+Option to send [on-call reminders](escalation-remind-settings-oncall.md) to members of the roster.
 
 </td></tr><tr><td>
 
@@ -244,7 +244,7 @@ Type of the rotation interval. Possible options are:-   Daily
 -   Weekly
 -   Monthly
 
-**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](../concept/oncall-schedule-engine.md).
+**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](oncall-schedule-engine.md).
 
 </td></tr><tr><td>
 
@@ -393,5 +393,5 @@ The Calendar view displays all shifts for a user group for a specified time inte
 -   **[Manage shifts from the Timeline view](customize-timeline-view-oncall.md)**  
 Use the Timeline view of an On-Call schedule to update or manage shifts based on the geographical location of roster members.
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](manage-schedules-and-shifts.md)
 

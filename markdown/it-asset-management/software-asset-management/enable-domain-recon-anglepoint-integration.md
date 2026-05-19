@@ -32,5 +32,5 @@ Role required: asset or domain\_admin
     **Important:** If you have both parent and child domains, you can enable reconciliation for either the parent domain or child domain. You cannot enable reconciliation for both parent and child domains.
 
 
-**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](../concept/ibm-asp-integration.md)
+**Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](ibm-asp-integration.md)
 

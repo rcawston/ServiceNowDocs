@@ -35,5 +35,5 @@ Ensure that you have activated the Agent Chat \(com.glide.interaction.awa\) plug
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Chat queues](../concept/config-chat-queues.md)
+**Parent Topic:**[Configure Chat queues](config-chat-queues.md)
 

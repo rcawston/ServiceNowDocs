@@ -29,24 +29,24 @@ To use PADomainUtils, you must satisfy these requirements:
 -   The script must be run from the global domain.
 -   When moving or copying records, the source and target domains must be different.
 
--   **[PADomainUtils - PADomainUtils\(\)](../reference/r_PADU-PADomainUtils.md)**  
+-   **[PADomainUtils - PADomainUtils\(\)](r_PADU-PADomainUtils.md)**  
 Instantiates a new PADomainUtils object to move or copy Performance Analytics records from the global domain.
--   **[PADomainUtils - PADomainUtils\(String domainFrom\)](../reference/r_PADU-PADomainUtils_String.md)**  
+-   **[PADomainUtils - PADomainUtils\(String domainFrom\)](r_PADU-PADomainUtils_String.md)**  
 Instantiates a new PADomainUtils object to move or copy Performance Analytics records from the specified domain.
--   **[PADomainUtils - setFoundation\(Boolean foundation\)](../reference/r_PADU-setFoundation_boolean.md)**  
+-   **[PADomainUtils - setFoundation\(Boolean foundation\)](r_PADU-setFoundation_boolean.md)**  
 Use this method to move or copy only foundational records in a hybrid domain configuration.
--   **[PADomainUtils - setOverrides\(Boolean overrides\)](../reference/r_PADU-setOverrides_boolean.md)**  
+-   **[PADomainUtils - setOverrides\(Boolean overrides\)](r_PADU-setOverrides_boolean.md)**  
 Use this method before copying records to set the sys\_override value of the new record to the original parent record.
--   **[PADomainUtils - copy\(String runAs\)](../reference/r_PADU-copy_String.md)**  
+-   **[PADomainUtils - copy\(String runAs\)](r_PADU-copy_String.md)**  
 Copies Performance Analytics records to a different domain.
--   **[PADomainUtils - copyJob\(String paJob, String runAs\)](../reference/r_PADU-copyJob_String_String.md)**  
+-   **[PADomainUtils - copyJob\(String paJob, String runAs\)](r_PADU-copyJob_String_String.md)**  
 Copies a Performance Analytics scheduled data collection job record to another domain.
--   **[PADomainUtils - copyDashboard\(String dashboardId, String runAs\)](../reference/PADU-copyDashboard_S_S.md)**  
+-   **[PADomainUtils - copyDashboard\(String dashboardId, String runAs\)](PADU-copyDashboard_S_S.md)**  
 Copy a dashboard to another domain.
--   **[PADomainUtils - move\(String runAs\)](../reference/r_PADU-move_String.md)**  
+-   **[PADomainUtils - move\(String runAs\)](r_PADU-move_String.md)**  
 Moves Performance Analytics records to a different domain.
--   **[PADomainUtils - isWriteable\(String table, String id\)](../reference/r_PADU-isWriteable_String_String.md)**  
+-   **[PADomainUtils - isWriteable\(String table, String id\)](r_PADU-isWriteable_String_String.md)**  
 Evaluate if you can write to a specific record identified by table and sys\_id.
 
-**Parent Topic:**[Domain separation and Performance Analytics](../../../../../use/performance-analytics/concept/c_PAWithDomainSeparation.md)
+**Parent Topic:**[Domain separation and Performance Analytics](c_PAWithDomainSeparation.md)
 

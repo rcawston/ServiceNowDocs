@@ -24,7 +24,7 @@ The GlideCurrencyConverter API also provides optional methods that enable you to
 
 This API is provided within the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencyConverter - GlideCurrencyConverter\(\)
 
@@ -75,7 +75,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[GlideCurrencyExchangeValue](../../GlideCurrencyExchangeValue/concept/GlideCurrencyExchangeValueScopedAPI.md#) object
+[GlideCurrencyExchangeValue](GlideCurrencyExchangeValueScopedAPI.md#) object
 
 </td><td>
 

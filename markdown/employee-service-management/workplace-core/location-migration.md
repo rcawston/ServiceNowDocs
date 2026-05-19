@@ -28,9 +28,9 @@ When you set a configuration as optional, then the records that don’t match th
 
 After migrating the locations, if you create a location in the Workplace Core application, the location is automatically added in the ServiceNow® Location \[cmn\_location\] table. You can configure the type of the location by setting Dictionary Overrides.
 
--   **[Configure location migration hierarchy](../task/add-location-migration-hierarchy.md)**  
+-   **[Configure location migration hierarchy](add-location-migration-hierarchy.md)**  
 Create a hierarchy for how the location data from the ServiceNow® Location table \[cmn\_location\] must be migrated to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table of Workplace Service Delivery.
--   **[Set the location type in Location table](../task/set-loc-type-in-loc-table.md)**  
+-   **[Set the location type in Location table](set-loc-type-in-loc-table.md)**  
 Set the location type of a location by creating a dictionary override of the table.
 
 **Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
@@ -38,25 +38,25 @@ Set the location type of a location by creating a dictionary override of the tab
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
 [Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
 [Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
 [Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
@@ -66,7 +66,7 @@ Set the location type of a location by creating a dictionary override of the tab
 
 [Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
 [Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
@@ -74,5 +74,5 @@ Set the location type of a location by creating a dictionary override of the tab
 
 [QR code management](qr-code-mgmt.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

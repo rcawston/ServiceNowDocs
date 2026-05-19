@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS functions for forward and backward navigation.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.navigation - goBack\(\)
 

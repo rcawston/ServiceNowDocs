@@ -23,7 +23,7 @@ The Devvio DevvTrace platform collects data from supported wearable devices and 
 -   Create cases and work notes automatically if a risk score is equal to or greater than a risk threshold value.
 -   Examine the Daily Risk Scores for Devvio users report to analyze daily trends. The indicator source for use in Performance Analytics is Devvio.Users.Risk.Report.
 
--   **[Configure Devvio integration](../task/configure-devvio-integration.md)**  
+-   **[Configure Devvio integration](configure-devvio-integration.md)**  
 Configure Contact Tracing properties to import risk scores from the DevvTrace platform using the Devvio API.
 
 **Parent Topic:**[Contact Tracing](contact-tracing.md)

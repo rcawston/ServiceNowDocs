@@ -34,5 +34,5 @@ Role required: asset or inventory\_admin
 
 The list of asset attestations with **Status** as **Open** is displayed.
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 

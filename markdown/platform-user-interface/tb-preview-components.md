@@ -66,5 +66,5 @@ The components you can preview in Theme Builder were created in the Now Design S
 
 After previewing and selecting the desired components, edit their properties to fine-tune their appearance. For more information, see [Edit components](tb-edit-components.md).
 
-**Parent Topic:**[Working with Component styles](../concept/working-with-component-styles.md)
+**Parent Topic:**[Working with Component styles](working-with-component-styles.md)
 

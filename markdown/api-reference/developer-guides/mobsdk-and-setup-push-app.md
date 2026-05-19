@@ -42,7 +42,7 @@ class SdkManager @Inject constructor() {
 }
 ```
 
-For additional information on the NowPushSDK.makePushService\(\) method, refer to [NowPushSDK - makePushService\(instanceURL: URL\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowPushSDK/concept/NowPushSDKAndroidAPI.md#).
+For additional information on the NowPushSDK.makePushService\(\) method, refer to [NowPushSDK - makePushService\(instanceURL: URL\)](../cllent-mobile-api-reference/NowPushSDKAndroidAPI.md#).
 
 ## Register the push token
 
@@ -64,7 +64,7 @@ FirebaseMessaging.getInstance().token.addOnCompleteListener {task ->
 }
 ```
 
-For additional information on the registerPushToken\(\) method, refer to [NowPushService - registerPushToken\(pushToken: String, pushApp: String, successCallback: Runnable, errorCallback: Consumer&lt;Throwable&gt;\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowPushService/concept/NowPushServiceAndroidAPI.md#).
+For additional information on the registerPushToken\(\) method, refer to [NowPushService - registerPushToken\(pushToken: String, pushApp: String, successCallback: Runnable, errorCallback: Consumer&lt;Throwable&gt;\)](../cllent-mobile-api-reference/NowPushServiceAndroidAPI.md#).
 
 ## Unregister the push token
 
@@ -78,7 +78,7 @@ pushService.unregisterPushToken(token, "PushAppName", {
 })
 ```
 
-For additional information on the unregisterPushToken\(\) method, refer to [NowPushService - unregisterPushToken\(pushToken: String, pushApp: String, successCallback: Runnable, errorCallback: Consumer&lt;Throwable&gt;\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowPushService/concept/NowPushServiceAndroidAPI.md#).
+For additional information on the unregisterPushToken\(\) method, refer to [NowPushService - unregisterPushToken\(pushToken: String, pushApp: String, successCallback: Runnable, errorCallback: Consumer&lt;Throwable&gt;\)](../cllent-mobile-api-reference/NowPushServiceAndroidAPI.md#).
 
 ## Implement the FirebaseMessagingService
 
@@ -114,7 +114,7 @@ private suspend fun handleNowPush(remoteMessage: RemoteMessage): Result<NowPushP
 }
 ```
 
-For additional information on the handlePush\(\) method, refer to [NowPushService - handlePush\(remoteMessage: RemoteMessage, successCallback: Consumer&lt;NowPushPayload&gt;, errorCallback: Consumer&lt;Throwable&gt;\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowPushService/concept/NowPushServiceAndroidAPI.md#).
+For additional information on the handlePush\(\) method, refer to [NowPushService - handlePush\(remoteMessage: RemoteMessage, successCallback: Consumer&lt;NowPushPayload&gt;, errorCallback: Consumer&lt;Throwable&gt;\)](../cllent-mobile-api-reference/NowPushServiceAndroidAPI.md#).
 
 In addition, you must override onNewToken\(token: String\). Be sure to pass the token through to the pushService.registerPushToken\(\), similar to what was done in the "Register the push token" section.
 

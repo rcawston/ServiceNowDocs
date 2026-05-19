@@ -15,7 +15,7 @@ Modify the Government Service Portal to meet your needs, for example to set the 
 
 ## Before you begin
 
-You can customize the Government Service Portal by following this procedure or by using [guided setup for Public Sector Digital Services Core application](../concept/configure-psds-foundation-data.md#).
+You can customize the Government Service Portal by following this procedure or by using [guided setup for Public Sector Digital Services Core application](configure-psds-foundation-data.md#).
 
 Role required: admin
 

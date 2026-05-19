@@ -23,19 +23,19 @@ Learn how to get started developing applications with the ServiceNow IDE in the 
 
 ## System requirements
 
-ServiceNow IDE uses the public npm registry \(`https://registry.npmjs.org`\) as its default package source. If your network blocks access to this registry, you must have access to an alternate registry to download packages and build applications in the ServiceNow IDE. If access to the public npm registry is blocked on your system, you must configure a private npm registry in your Package Manager user settings in the ServiceNow IDE. For more information, see [Install an npm package from a private registry with the ServiceNow IDE](../task/use-library-private-npm-registry.md).
+ServiceNow IDE uses the public npm registry \(`https://registry.npmjs.org`\) as its default package source. If your network blocks access to this registry, you must have access to an alternate registry to download packages and build applications in the ServiceNow IDE. If access to the public npm registry is blocked on your system, you must configure a private npm registry in your Package Manager user settings in the ServiceNow IDE. For more information, see [Install an npm package from a private registry with the ServiceNow IDE](use-library-private-npm-registry.md).
 
 -   **[Synchronizing applications in the ServiceNow IDE](synchronizing-applications.md)**  
 Synchronizing an application in the ServiceNow IDE downloads and transforms application metadata into ServiceNow Fluent code.
--   **[Define application metadata in code with ServiceNow Fluent in the ServiceNow IDE](../task/define-metadata-code-fluent-ide.md)**  
+-   **[Define application metadata in code with ServiceNow Fluent in the ServiceNow IDE](define-metadata-code-fluent-ide.md)**  
 Define application metadata in code with ServiceNow Fluent in the ServiceNow IDE.
--   **[Create and use JavaScript modules in applications in the ServiceNow IDE](../task/create-use-javascript-modules-ide.md)**  
+-   **[Create and use JavaScript modules in applications in the ServiceNow IDE](create-use-javascript-modules-ide.md)**  
 Optimize your codebase by defining reusable code blocks with JavaScript modules in the ServiceNow IDE.
--   **[Use third-party libraries in applications in the ServiceNow IDE](../task/use-third-party-libraries-ide.md)**  
+-   **[Use third-party libraries in applications in the ServiceNow IDE](use-third-party-libraries-ide.md)**  
 Call third-party libraries in your application to use existing open-source functionality with the ServiceNow IDE.
--   **[Create an application file in the ServiceNow IDE](../task/create-application-file-servicenow-ide.md)**  
+-   **[Create an application file in the ServiceNow IDE](create-application-file-servicenow-ide.md)**  
 Create an application file in an embedded ServiceNow AI Platform user interface from the ServiceNow IDE.
--   **[Build and install an application in the ServiceNow IDE](../task/build-applications-servicenow-ide.md)**  
+-   **[Build and install an application in the ServiceNow IDE](build-applications-servicenow-ide.md)**  
 Build an application to compile its source code and install application changes across an instance from the ServiceNow IDE.
 
 **Parent Topic:**[ServiceNow IDE](servicenow-ide-landing.md)
@@ -45,5 +45,5 @@ Build an application to compile its source code and install application changes 
 
 [Integrating source control with the ServiceNow IDE](integrating-source-control-servicenow-ide.md)
 
-[ServiceNow Fluent API reference](../../servicenow-sdk/reference/servicenow-fluent-api-reference.md)
+[ServiceNow Fluent API reference](../servicenow-sdk/servicenow-fluent-api-reference.md)
 

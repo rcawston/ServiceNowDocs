@@ -33,17 +33,17 @@ Assign each member of staff certain responsibilities and accesses to perform dai
 
 5.  On the form, fill in the fields.
 
-    To learn more about the fields on the member registration form and their descriptions, see [Member registration form](../reference/member-registration-form.md).
+    To learn more about the fields on the member registration form and their descriptions, see [Member registration form](member-registration-form.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+**Parent Topic:**[Using Partner Relationship Management](using-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+[Using Partner Relationship Management](using-partner-relationship-management.md)
 
 [Raise an inquiry on Partner Portal](raise-an-inquiry-on-partner-portal.md)
 

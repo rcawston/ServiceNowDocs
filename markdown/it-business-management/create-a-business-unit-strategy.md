@@ -45,5 +45,5 @@ Role required: user\_admin, business\_planner
 
 ## What to do next
 
-View the strategic objectives that you’ve created in the [business planning portal](../concept/overview-business-planning.md). The records of business planning strategic objectives give you a clear visibility of the status, to whom they’re assigned to, the period of validity, and their type.
+View the strategic objectives that you’ve created in the [business planning portal](overview-business-planning.md). The records of business planning strategic objectives give you a clear visibility of the status, to whom they’re assigned to, the period of validity, and their type.
 

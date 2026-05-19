@@ -25,9 +25,9 @@ Based on the insights gained, you can decide if a user has inappropriate access 
 
 **Important:** As a best practice, compare users at a peer-level \(same organization, same department, same manager\).
 
-You enable Access Insights in **Settings**. To learn more, see [Configuring Access Insights](../task/configure-access-insights.md).
+You enable Access Insights in **Settings**. To learn more, see [Configuring Access Insights](configure-access-insights.md).
 
-You use Access Insights while comparing users' access with the **Compare user access** feature in Access Analyzer. To learn more about using Access Insights, see [Using Access Insights](../task/use-access-insights.md).
+You use Access Insights while comparing users' access with the **Compare user access** feature in Access Analyzer. To learn more about using Access Insights, see [Using Access Insights](use-access-insights.md).
 
 ![Access Insights](../images/access-insights-homepage.png)
 

@@ -40,7 +40,7 @@ The following diagram illustrates the tables and relationships that the AI Agent
     -   CMDB CI Class Models
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../../service-mapping/concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../service-mapping/tag_discovery_configuration.md).
 
 -   **Azure Availability Set**
 
@@ -54,19 +54,19 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
     Enable Cloud Discovery to access your Azure environment.
 
-    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+    Discovering Azure GovCloud \(US\) accounts requires using a datacenter URL when setting up an Azure service account. For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md).
 
 -   **Create an Azure cloud discovery schedule**
 
-    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-azure-schedule-DAW.md).
+    For more information, see [Create an Azure Discovery schedule in Discovery Admin Workspace](../discovery/create-azure-schedule-DAW.md).
 
 -   **\(Optional\) Discover datacenters only for new subscriptions**
 
-    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../../service-mapping/task/discover-datacenter-only-new-account.md).
+    Starting with Zurich Patch 2, you can discover datacenters only for new subscriptions added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../discovery-and-service-mapping-patterns/discover-datacenter-only-new-account.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../discovery-and-service-mapping-patterns/query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -346,5 +346,5 @@ The Azure - AI Service Foundry Project pattern collects tags and populates them 
 **Related topics**  
 
 
-[Microsoft Azure Cloud discovery using patterns](../../service-mapping/reference/azure-cloud-discovery-patterns.md)
+[Microsoft Azure Cloud discovery using patterns](../discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 

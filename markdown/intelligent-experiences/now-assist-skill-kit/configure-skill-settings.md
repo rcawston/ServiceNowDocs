@@ -112,7 +112,7 @@ Allows the skill to be triggered through the Now Assist Panel.
 
 </td><td>
 
-The Now Assist panel is the conversational interface found within the Now Assist Center, learn more about this feature at [Now Assist panel](../../now-assist-center/concept/now-assist-center-now-assist-panel.md).
+The Now Assist panel is the conversational interface found within the Now Assist Center, learn more about this feature at [Now Assist panel](../now-assist-center-now-assist-panel.md).
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Makes the skill available for activation and use through the Now Assist context 
 
 </td><td>
 
-For details on the context menu, see[Now Assist context menu](../../now-assist-platform/concept/now-assist-write-overview.md).
+For details on the context menu, see[Now Assist context menu](../now-assist-write-overview.md).
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Learn how to use UI Builder to create web user interfaces at [UI Builder](https:
 
 After you configure the skill settings, you can publish your skill. To learn more about publishing skills, see [Finalize and publish a skill](publish-skill.md).
 
-**Parent Topic:**[Configuring Now Assist Skill Kit](../concept/configuring-now-assist-skill-kit.md)
+**Parent Topic:**[Configuring Now Assist Skill Kit](configuring-now-assist-skill-kit.md)
 
 **Related topics**  
 

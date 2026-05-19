@@ -42,5 +42,5 @@ Role required: sn\_dex.admin
 
 [Install ACC for DEX on Windows](install-acc-for-dex-windows.md) or [Install ACC for DEX on macOS](install-acc-for-dex-macos.md).
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 

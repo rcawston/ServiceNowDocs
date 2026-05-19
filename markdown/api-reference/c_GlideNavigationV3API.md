@@ -17,7 +17,7 @@ The GlideNavigation API provides methods to control and refresh the navigator an
 
 These methods are accessed using the `g_navigation` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideNavigation - open\(String url, String target\)
 

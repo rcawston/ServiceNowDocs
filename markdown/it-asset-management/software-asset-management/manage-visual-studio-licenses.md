@@ -62,7 +62,7 @@ First, set up software models and entitlements to track your Visual Studio subsc
 
 ## What to do next
 
-Run a reconciliation to view your Visual Studio license compliance. Reconciliation runs weekly or on demand. Reconciliation compares your purchased Visual Studio rights recorded in software entitlements with actual installations found by Discovery. To view reconciliation results in a simplified workbench view, navigate to **Software Asset** &gt; **Reconciliation** &gt; **License Workbench**. For more information, see [Software reconciliation for compliance](../concept/c_SAMReconciliation.md).
+Run a reconciliation to view your Visual Studio license compliance. Reconciliation runs weekly or on demand. Reconciliation compares your purchased Visual Studio rights recorded in software entitlements with actual installations found by Discovery. To view reconciliation results in a simplified workbench view, navigate to **Software Asset** &gt; **Reconciliation** &gt; **License Workbench**. For more information, see [Software reconciliation for compliance](c_SAMReconciliation.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Microsoft](../concept/microsoft-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md)
 

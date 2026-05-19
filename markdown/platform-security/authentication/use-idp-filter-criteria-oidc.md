@@ -49,7 +49,7 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         Based on this configuration, when the device is trusted from the Okta \(IdP\), then the user is authenticated to the instance.
 
-        For more information on how to create Post Authentication Context with Policy and Condition, see [Post-authentication context](../concept/post-auth-context.md).
+        For more information on how to create Post Authentication Context with Policy and Condition, see [Post-authentication context](post-auth-context.md).
 
 2.  Use of IDP attribute in MFA Policy Context.
 
@@ -69,7 +69,7 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         Based on this configuration, when the device is not-trusted from the Okta \(IdP\), then the user shown a second factor authentication to log in to the instance.
 
-        For more information on how to create MFA Context with Policy and Condition, see [Multi-factor Authentication context](../concept/mfa-auth-context.md).
+        For more information on how to create MFA Context with Policy and Condition, see [Multi-factor Authentication context](mfa-auth-context.md).
 
 3.  Use of IDP attribute in Zero Trust - Policy based session access.
 
@@ -91,6 +91,6 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         Based on this configuration, when the `itil` user using a device that is not-trusted from the Okta \(IdP\), then the user's privileges are reduced for the logged in session.
 
-        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [Zero Trust Access \(ZTA\)](../concept/session-access.md).
+        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [Zero Trust Access \(ZTA\)](../session-access.md).
 
 

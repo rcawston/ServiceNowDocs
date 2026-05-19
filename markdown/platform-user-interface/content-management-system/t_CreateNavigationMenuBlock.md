@@ -55,12 +55,12 @@ The following three objects define navigation menus.
 
 -   **[Configure menu sections](t_ConfigureMenuSections.md)**  
 Menu sections define groups of links displayed within the navigation menu block.
--   **[Menu types](../reference/r_MenuTypes.md)**  
+-   **[Menu types](r_MenuTypes.md)**  
 By changing the **Type** field on the navigation menu block, you can format the same menu in different ways.
--   **[Example menu items and content links](../concept/c_NavigationMenusAndContentLinks.md)**  
+-   **[Example menu items and content links](c_NavigationMenusAndContentLinks.md)**  
 The method for choosing a link target \(current window, iFrame, or new window\) and referencing the item linked \(page, attachment, or URL\) are similar. Review examples of how to link within these elements.
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
@@ -81,5 +81,5 @@ The method for choosing a link target \(current window, iFrame, or new window\) 
 
 [Configure a detailed content block](t_DetailedContentBlock.md)
 
-[Menu style customization](../concept/c_CustomizeTheMenuStyle.md)
+[Menu style customization](c_CustomizeTheMenuStyle.md)
 

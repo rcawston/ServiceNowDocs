@@ -25,7 +25,7 @@ Customer Central provides customer service agents with all the information about
 
 Customer Central consists of two views, Customer Information and Customer History. In CSM Configurable Workspace, Customer Central is displayed on the interaction, account, contact, or consumer records.
 
-For more information, see [Customer Central](../concept/customer-central.md).
+For more information, see [Customer Central](customer-central.md).
 
 ## Procedure
 

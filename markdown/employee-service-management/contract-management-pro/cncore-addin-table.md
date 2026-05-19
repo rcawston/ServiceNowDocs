@@ -161,7 +161,7 @@ Configure dynamic tables in a contract template to display additional data from 
 
 [Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md)
 
-[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)
 
 [Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-clauses.md)
 

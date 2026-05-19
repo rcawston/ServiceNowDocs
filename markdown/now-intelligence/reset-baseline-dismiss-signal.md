@@ -15,7 +15,7 @@ When you get a signal that abnormal variation has occurred, either dismiss the s
 
 ## Before you begin
 
-Role required: You must be a [responsible user](../concept/kpi-signals-responsible-users.md#), unless you have the admin, pa\_admin, or pa\_kpi\_signal\_admin role.
+Role required: You must be a [responsible user](kpi-signals-responsible-users.md#), unless you have the admin, pa\_admin, or pa\_kpi\_signal\_admin role.
 
 ## About this task
 
@@ -77,5 +77,5 @@ The default number of scores for calculating the baseline depends on the indicat
 
 If you reset the baseline, a message appears that the baseline is reset. You also see whether there is a more recent signal than the one you just handled. You can review the signals that you dismissed and your baseline resets in the **Past** tab.
 
-**Parent Topic:**[Using KPI Signals](../concept/using-kpi-signals.md)
+**Parent Topic:**[Using KPI Signals](using-kpi-signals.md)
 

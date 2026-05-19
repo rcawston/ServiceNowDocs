@@ -31,7 +31,7 @@ The Australia release introduces enhanced protections for read‑only fields acr
 
 ## New in the Australia release
 
--   **[Business calendar as a scheduled trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-trigger-business-calendar.md)**
+-   **[Business calendar as a scheduled trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows/create-trigger-business-calendar.md)**
 
     Use the business calendar to trigger flows on existing business schedules. The business calendar trigger helps align automation with shifts, holidays, and operating hours.
 

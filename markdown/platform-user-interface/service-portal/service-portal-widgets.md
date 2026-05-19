@@ -52,7 +52,7 @@ For example, navigate to **Service Portal** &gt; **Service Portal Home** to open
 |Widget performance|How long it takes for a widget to load|
 |Instance options|Specify an [instance of a widget](c_ConfigureWidgetInstances.md). Widget instance options vary depending on the widget that you select. For example, the instance options for the cool clock widget include different time zones for each instance, so you can have the same clock four times on a page, but with all different time zones.|
 |Instance in Page Editor|Opens that instance of the widget in the Page Editor|
-|Page Designer|Opens the widget in the [Service Portal Designer](../task/t_ConfigureAPage.md#), which enables you to add containers, columns, and widgets. You can add styling from the Service Portal Designer to the widget or to the page the widget lives on.|
+|Page Designer|Opens the widget in the [Service Portal Designer](t_ConfigureAPage.md#), which enables you to add containers, columns, and widgets. You can add styling from the Service Portal Designer to the widget or to the page the widget lives on.|
 |Show Widget Customizations|Shows customization levels of widgets on the page so that you can diagnose page issues. For more information, see [Widget diagnostics](sp-diagnostic-tool.md).|
 |Edit Container Background|Edit the layout in which the widget is located.|
 |Widget Options Schema|Define the options that you can select for an instance of a widget. For more information on configuring your own instance options, see [Widget option schema](c_WidgetInstanceOptions.md#).|
@@ -69,7 +69,7 @@ Base system widgets are read-only so you can benefit from future updates. To mak
 Create unique instances of widgets by configuring the options for each instance.
 -   **[Widget library](widget-showcase.md)**  
 You can use base system widgets as-is in your Service Portal or duplicate them to suit your own business needs.
--   **[Configure widget loading order in Service Portal](../task/configure-widget-loading-order.md)**  
+-   **[Configure widget loading order in Service Portal](configure-widget-loading-order.md)**  
 Configure service portal pages to defer load the widgets on a page. The delay in loading of non-essential widgets helps to improve page loading speed and optimizes the use of resources.
 
 **Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)

@@ -210,5 +210,5 @@ Close notes \(General task only\)
 Inscription on the work you have completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference section for Problem Management](../concept/reference-section-for-problem-management.md)
+</table>**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
 

@@ -53,5 +53,5 @@ Ensure that the Delegates related list displays on the form. If the Delegates re
         -   If your delegate gets email notifications, they will be the same email notifications sent to you. The delegate may be confused to see "Incident assigned to you" emails, so make sure they know they are a delegate.
     -   **Meeting invitations**: The delegate receives a copy of email notifications sent of the type Meeting Invitation.
 
-**Parent Topic:**[Service Delegation](../concept/c_ServiceDelegation.md)
+**Parent Topic:**[Service Delegation](c_ServiceDelegation.md)
 

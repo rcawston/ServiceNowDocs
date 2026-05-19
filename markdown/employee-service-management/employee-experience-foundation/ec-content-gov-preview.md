@@ -23,7 +23,7 @@ The content requester can preview the content item that appears in a preview por
 
 **Note:** Only rich content, news, and portal type content can be previewed.
 
-The portal used for previews is determined by the sn\_ca.campaign.preview.portal\_url\_suffix system property found in **Properties** under Content Experiences Configurations. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md) and [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md).
+The portal used for previews is determined by the sn\_ca.campaign.preview.portal\_url\_suffix system property found in **Properties** under Content Experiences Configurations. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md) and [Properties installed with Content Experiences](properties-installed-with-content-auto.md).
 
 ## Email notification
 

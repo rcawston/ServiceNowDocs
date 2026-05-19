@@ -32,7 +32,7 @@ Role required: none
 
 3.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](r_WorkbenchConfiguration.md).
 
     ![In this figure, a facilities map image displays a building floor and its designated spaces.](../image/CampusFloorSelection.png)
 

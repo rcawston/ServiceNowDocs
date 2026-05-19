@@ -16,13 +16,13 @@ Core Business Suite application provides a unified request experience across dep
 
 -   **[Now Assist requester experience](now-assist-configurations-requesters.md)**  
 Requesters in CBS can use Now Assist in the conversational interface and in search functionality to raise requests and get AI-enabled responses.
--   **[Raise requests on the employee portal](../task/request-emp-rest.md)**  
+-   **[Raise requests on the employee portal](request-emp-rest.md)**  
 Raise a general request across departments, as an employee, on CBS.
--   **[Raise HR requests](../task/request-emp-cbs.md)**  
+-   **[Raise HR requests](request-emp-cbs.md)**  
 Raise an HR request for general requests, payroll, or benefits on CBS.
--   **[Raise a general supplier request](../task/request-slo.md)**  
+-   **[Raise a general supplier request](request-slo.md)**  
 Raise a general request for any common query or issue as a supplier on CBS.
--   **[Raise an invoice request](../task/request-apo.md)**  
+-   **[Raise an invoice request](request-apo.md)**  
 Raise an invoice request for any payment-related issues as a supplier on CBS.
 -   **[Notifications in CBS](cbs-notif.md)**  
 Notifications in CBS provide multi-faceted and timely communication when a request is raised or fulfilled.

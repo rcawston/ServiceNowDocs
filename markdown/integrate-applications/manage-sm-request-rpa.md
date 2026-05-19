@@ -15,7 +15,7 @@ Track scheduled maintenance days on the **Robot Calendar** tab to manage your cu
 
 ## Before you begin
 
-Ensure you’re familiar with scheduled maintenance days concepts. For more information, see [Scheduled maintenance days in RPA Hub](../concept/sm-days-rpa.md).
+Ensure you’re familiar with scheduled maintenance days concepts. For more information, see [Scheduled maintenance days in RPA Hub](sm-days-rpa.md).
 
 Create a change request from the **Change** module. For more information, see [Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md). Ensure to do the following tasks while creating a change request:
 
@@ -128,7 +128,7 @@ If the MR is In Progress state, it is updated to complete state. If the MR is in
     3.  In the **Activity** and **Compose** fields, view the notifications of the source of the CI from where it is published or is in use.
 
 
-**Parent Topic:**[Scheduled maintenance days in RPA Hub](../concept/sm-days-rpa.md)
+**Parent Topic:**[Scheduled maintenance days in RPA Hub](sm-days-rpa.md)
 
 **Related topics**  
 

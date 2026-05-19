@@ -91,5 +91,5 @@ Reported Observables
 Lists of observables reported in the threat report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat reports](../concept/threat-reports.md)
+</table>**Parent Topic:**[Threat reports](threat-reports.md)
 

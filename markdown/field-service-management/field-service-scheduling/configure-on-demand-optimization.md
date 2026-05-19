@@ -57,5 +57,5 @@ Intraday optimization can now be triggered on demand by dispatchers to adapt to 
 **Related topics**  
 
 
-[Run optimization for your groups or territories from Dispatcher Workspace](../concept/optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
+[Run optimization for your groups or territories from Dispatcher Workspace](optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
 

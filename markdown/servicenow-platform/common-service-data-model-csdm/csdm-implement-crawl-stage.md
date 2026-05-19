@@ -39,7 +39,7 @@ During this stage, you work on the following base-system CMDB tables:
 -   Application \[cmdb\_ci\_appl\] table \(discoverable\)
 -   Server/host \(discoverable\)
 
-**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](csdm-auto-create-prod-model-for-ci.md).
 
 ![Tables that you work on during the Crawl stage.](../image/implementation-stage-crawl.png)
 
@@ -69,7 +69,7 @@ Start by focusing on applications and the application-related data in these area
 
     Because service instances are logical in nature, they should use the Logical life-cycle value pairs. Service instances follow the same life-cycle guidance as any other logical CI.
 
-    See [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+    See [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
 -   **Application \[cmdb\_ci\_appl\] table**
 

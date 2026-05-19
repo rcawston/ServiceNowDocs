@@ -31,7 +31,7 @@ The MID Server checks with the instance periodically to see if an upgrade is nec
 
 ## Resolving MID Server issues
 
-You can search the HI Knowledge Base for troubleshooting articles or monitor the MID Server status and track active issues from within the instance. Many articles on resolved MID Server issues have been collected on [Servicenow MID Server Landing page \[KB0960404\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0960404). For more information about common resolution procedures, see [Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md).
+You can search the HI Knowledge Base for troubleshooting articles or monitor the MID Server status and track active issues from within the instance. Many articles on resolved MID Server issues have been collected on [Servicenow MID Server Landing page \[KB0960404\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0960404). For more information about common resolution procedures, see [Resolving MID Server issues](r_MIDServerTroubleshooting.md).
 
 ## ServiceNow applications that use the MID Server
 

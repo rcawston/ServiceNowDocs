@@ -29,7 +29,7 @@ The JavascriptProbe activity has the same functionality as making ‘Packages’
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JavaScript probe activity Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JavaScript probe activity Execution Command.
 
 <table id="choicetable_jlf_3tp_vz"><tbody><tr><td id="d202780e112">
 
@@ -97,7 +97,7 @@ Name-value pairs to pass to the host with this probe. You can create these param
 
 Finish creating your JavaScript probe activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## JavaScript probe template execution parameters
 

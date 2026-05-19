@@ -17,7 +17,7 @@ Create an incident or VTB task or chat with a virtual agent directly from within
 
 ## Before you begin
 
-You must activate and deploy the ServiceNow Add-in for Microsoft outlook. For more information, see [Configuring Microsoft Outlook to create incidents and VTB tasks](../concept/create-incident-outlook.md)
+You must activate and deploy the ServiceNow Add-in for Microsoft outlook. For more information, see [Configuring Microsoft Outlook to create incidents and VTB tasks](create-incident-outlook.md)
 
 Role required: none
 

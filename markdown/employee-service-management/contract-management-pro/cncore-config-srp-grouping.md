@@ -66,7 +66,7 @@ Customize the Standard Record Page \(SRP\) to display contract documents grouped
 
 The contract documents will be grouped by contract type in the Contract document tab while viewing a contract request.
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](cncore-uptake-steps.md)
 
 **Related topics**  
 

@@ -118,5 +118,5 @@ Select elaborate to get more comprehensive summary with additional details.
 -   **[Use the Now Assist for Legal Service Delivery \(LSD\) capabilities from the Now Assist panel](now-assist-request-gen-ai-cap.md)**  
 Use the contextual generative AI capabilities, such as a request summary by using the conversational interface in the Now Assist panel.
 
-**Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](../concept/now-assist-lsd-using.md)
+**Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-using.md)
 

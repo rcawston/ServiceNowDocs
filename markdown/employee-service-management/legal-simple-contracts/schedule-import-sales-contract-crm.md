@@ -45,7 +45,7 @@ Based on the number of records pulled for your system, you can modify the values
     -   **Sales Representatives Scheduled Data Import**
     -   **Sales Accounts Scheduled Data Import**
     -   **Sales Opportunities Scheduled Data Import**
-    For more information, see [Scheduled data imports](../reference/installed-with-legal-simple-contracts.md#section_scheduled_jobs)
+    For more information, see [Scheduled data imports](installed-with-legal-simple-contracts.md#section_scheduled_jobs)
 
 3.  Configure the data import job as needed.
 

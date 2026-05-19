@@ -44,7 +44,7 @@ After a receiving slip has been created for a purchase order, all fields on the 
 
 Add a receiving slip line to the receiving slip to identify the items from the purchase order that were received.
 
-**Parent Topic:**[Receive assets](../concept/c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](c_ReceiveAssets.md)
 
 **Related topics**  
 
@@ -53,5 +53,5 @@ Add a receiving slip line to the receiving slip to identify the items from the p
 
 [Create a receiving slip line](t_CreateAReceivingSlipLine.md)
 
-[Consumable assets](../concept/c_ReceiveAConsumableAsset.md)
+[Consumable assets](c_ReceiveAConsumableAsset.md)
 

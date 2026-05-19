@@ -17,7 +17,7 @@ Review and work on an amendment request for an existing contract.
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../employee-service-management/assign-legal-request-1.md).
 
 Role required: sn\_cm\_core.contract\_fulfiller
 
@@ -152,14 +152,14 @@ The state and the Contract status of the contract request is Work in progress.
 
     |Options|Steps|
     |-------|-----|
-    |**Ad hoc approval**|[Initiate an ad hoc approval for a contract document revision](../../lsd-sn-legal-contracts/task/snlc-initiate-approval-cr.md)|
-    |**Internal review**|[Request an internal review](../../lsd-sn-legal-contracts/task/snlc-add-review-task.md).|
+    |**Ad hoc approval**|[Initiate an ad hoc approval for a contract document revision](../legal-service-delivery/snlc-initiate-approval-cr.md)|
+    |**Internal review**|[Request an internal review](../legal-service-delivery/snlc-add-review-task.md).|
     |**Email communication**|Set up an email to stakeholders to request to have the completed contract document reviewed and the changes confirmed using **Compose Email** option.|
     |**Signature workflow**| |
 
 13. Send the contract amendment document for signature.
 
-    For more information, see [Signature workflow for a request](../../lsd-sn-legal-contracts/concept/snlc-lsd-signature-workflow.md)
+    For more information, see [Signature workflow for a request](../legal-service-delivery/snlc-lsd-signature-workflow.md)
 
 
 ## Result

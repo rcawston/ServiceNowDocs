@@ -30,5 +30,5 @@ Discovery populates the data in the CMDB when running the Active Directory Domai
 |Class|sys\_class\_name|
 |TCP port\(s\)|tcp\_port|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

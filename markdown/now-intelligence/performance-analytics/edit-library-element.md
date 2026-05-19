@@ -41,7 +41,7 @@ Role required: sn\_kpi\_composer.admin or admin for full editing functions
 
     -   You can open a library element from any artifact in that element, not only the root artifact.
     -   If you have the sn\_kpi\_composer.admin or admin role, you can instead navigate to **KPI Composer** &gt; **Library** and open a library element from a set of library element tiles.
-5.  To add an artifact to the library element, follow the instructions in [Add artifacts to a KPI tree](../concept/design-kpi-tree.md#).
+5.  To add an artifact to the library element, follow the instructions in [Add artifacts to a KPI tree](design-kpi-tree.md#).
 
     **Note:**
 
@@ -54,7 +54,7 @@ Role required: sn\_kpi\_composer.admin or admin for full editing functions
     You need the sn\_kpi\_composer.admin or admin role to edit properties. Otherwise, they are read-only.
 
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](cross-project-artifact-libraries.md)
 
 ## Library element properties
 
@@ -140,7 +140,7 @@ Responsible
 
 </td><td>
 
-A responsible user has full editing privileges but also is expected to be responsible for maintaining the library element. For more information, see [Access to KPI Composer](../concept/access-to-kpi-composer.md).
+A responsible user has full editing privileges but also is expected to be responsible for maintaining the library element. For more information, see [Access to KPI Composer](access-to-kpi-composer.md).
 
 </td><td>
 

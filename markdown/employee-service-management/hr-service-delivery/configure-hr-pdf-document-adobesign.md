@@ -124,5 +124,5 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 8.  Click **Update**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](integrating-with-adobe-sign-service.md)
 

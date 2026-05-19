@@ -252,13 +252,13 @@ Securely share threat intelligence within and across organizations using automat
 </td></tr></tbody>
 </table>-   **[TISC Key terminology](tisc-key-terminology.md)**  
 Key terms and definitions used in TISC to help you understand threat intelligence concepts and navigate the interface effectively.
--   **[TISC Workspace](../task/view-threat-intelligence-security-center-homepage.md)**  
+-   **[TISC Workspace](view-threat-intelligence-security-center-homepage.md)**  
 View a centralized dashboard of threat intelligence data including feeds overview, trending threats, and intelligence sharing metrics. Monitor your security posture with trending intelligence data.
 
 **Related topics**  
 
 
-[Configuring Threat Intelligence Security Center](../concept/tisc-configure.md)
+[Configuring Threat Intelligence Security Center](tisc-configure.md)
 
 [Download TISC application from ServiceNow Store](tisc-download-app-first-time.md)
 

@@ -17,7 +17,7 @@ The SummaryTableWriter script include enables the creation of summary sets for r
 
 This script include provides methods that enable you to customize the output of the summary sets for reports, such as adding a title, defining a query on which to base the report data, and specifying the stack column and X axis.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SummaryTableWriter - SummaryTableWriter\(String tableName, String columnName\)
 

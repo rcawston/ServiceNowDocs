@@ -46,5 +46,5 @@ Role required: sales agent, order agent, customer
     The configurable product is added as a line item to the transaction.
 
 
-**Parent Topic:**[Using the CPQ Configurator](../concept/using-servicenowcpq.md)
+**Parent Topic:**[Using the CPQ Configurator](using-servicenowcpq.md)
 

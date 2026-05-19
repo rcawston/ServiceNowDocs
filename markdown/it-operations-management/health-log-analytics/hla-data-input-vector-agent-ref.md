@@ -72,5 +72,5 @@ Status
 Status of the data input.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data input configuration fields](../concept/hla-data-input-config-fields.md)
+</table>**Parent Topic:**[Data input configuration fields](hla-data-input-config-fields.md)
 

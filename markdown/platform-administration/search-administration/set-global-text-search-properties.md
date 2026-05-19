@@ -180,7 +180,7 @@ Number of concurrent threads global text search uses when searching multiple sea
 
 4.  To set the maximum number of matches to display for a wildcard search term, follow these steps.
 
-    1.  [Open the System Properties table](../../reference-pages/reference/r_AvailableSystemProperties.md#) and search for the property **glide.ts.max\_wildcard\_expansion**.
+    1.  [Open the System Properties table](../r_AvailableSystemProperties.md#) and search for the property **glide.ts.max\_wildcard\_expansion**.
 
         |Field|Description|
         |-----|-----------|
@@ -199,7 +199,7 @@ Number of concurrent threads global text search uses when searching multiple sea
 
     1.  Install the internationalization \(i18n\) plugin for the language you want to stem text search terms in.
 
-    2.  [Add a new system property](../../reference-pages/reference/r_AvailableSystemProperties.md#), **glide.ts.stemming\_language**:
+    2.  [Add a new system property](../r_AvailableSystemProperties.md#), **glide.ts.stemming\_language**:
 
 <table id="table_krx_crr_2jb"><thead><tr><th>
 
@@ -223,7 +223,7 @@ Description
 
 </td><td>
 
-Language to use for text search stemming. For details on stemming, see [Zing matches derived words with stemming](../concept/stemming-matches-derived-words.md).
+Language to use for text search stemming. For details on stemming, see [Zing matches derived words with stemming](stemming-matches-derived-words.md).
 
 </td></tr><tr><td>
 
@@ -261,7 +261,7 @@ English
 
     **Note:** Fallback number search is disabled by default. When it's enabled, if a global text search finds no exact match for a record number, the system searches a list of specified tables for matches. This additional search can make global text searches take longer, so enable fallback number search only if you need it.
 
-    1.  To enable fallback number search, [add a new system property](../../reference-pages/reference/r_AvailableSystemProperties.md#), **glide.ui.text\_search.enable\_fallback\_number\_search**:
+    1.  To enable fallback number search, [add a new system property](../r_AvailableSystemProperties.md#), **glide.ui.text\_search.enable\_fallback\_number\_search**:
 
 <table id="table_pfs_xdm_swb"><thead><tr><th>
 
@@ -304,7 +304,7 @@ Default value
 false
 
 </td></tr></tbody>
-</table>    2.  To configure the list of tables searched by fallback number search, [add a new system property](../../reference-pages/reference/r_AvailableSystemProperties.md#), **glide.ui.text\_search.fallback\_table\_list**:
+</table>    2.  To configure the list of tables searched by fallback number search, [add a new system property](../r_AvailableSystemProperties.md#), **glide.ui.text\_search.fallback\_table\_list**:
 
 <table id="table_ep1_c2m_swb"><thead><tr><th>
 
@@ -355,20 +355,20 @@ To improve performance, only activate search groups and tables that are necessar
 -   **[Revert to the legacy global search UI](revert-to-legacy-global-search.md#)**  
 Disable the dynamic global search UI to preserve customizations you made to the legacy global search UI.
 
-**Parent Topic:**[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+**Parent Topic:**[Global search finds records from multiple tables](c_GlobalTextSearch.md)
 
 **Related topics**  
 
 
-[Global search displays a page of matching results](../concept/global-search-polaris-ui.md#)
+[Global search displays a page of matching results](global-search-polaris-ui.md#)
 
-[Text search views control format of global search results for tables](../concept/text-search-view-formats-results.md)
+[Text search views control format of global search results for tables](text-search-view-formats-results.md)
 
-[Search settings filter and group global search results by table](../concept/search-settings-filter-group-table.md#)
+[Search settings filter and group global search results by table](search-settings-filter-group-table.md#)
 
-[Global search displays exact matching records](../concept/exact-matches-global-search.md#)
+[Global search displays exact matching records](exact-matches-global-search.md#)
 
-[Global search displays your most recent search queries and results in Next Experience UI](../concept/global-search-recent-queries-results.md)
+[Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
 [Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
 
@@ -376,5 +376,5 @@ Disable the dynamic global search UI to preserve customizations you made to the 
 
 [Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 

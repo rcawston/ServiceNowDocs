@@ -29,7 +29,7 @@ Each lifecycle event is a collection of activities that often span multiple depa
 
     Track requests that are opened by users from within Lifecycle Events. Requests from users can be either an HR service or a catalog item.
 
--   [Create an HR case for a lifecycle event](../task/create-hr-lifecycle-event-case.md)
+-   [Create an HR case for a lifecycle event](create-hr-lifecycle-event-case.md)
 
     Create a lifecycle event case. A lifecycle event case is an HR case that is fulfilled by a lifecycle event. For example, the HR service for New Hire Onboarding is fulfilled by the lifecycle event for New Hire Onboarding.
 

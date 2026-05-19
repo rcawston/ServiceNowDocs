@@ -43,7 +43,7 @@ For more information, see [Agent Client Collector user roles](https://raw.github
     -   `AMER: itomcnc-prod-gateway-amer.sncapps.service-now.com:443`
     -   `EMEA: itomcnc-prod-gateway-emea.sncapps.service-now.com:443`
     -   `APAC: itomcnc-prod-gateway-apac.sncapps.service-now.com:443`
-    For more information on how the Agent uses the ITOM Cloud Services Gateway, see [DEX Architecture](../concept/dex-architecture.md).
+    For more information on how the Agent uses the ITOM Cloud Services Gateway, see [DEX Architecture](dex-architecture.md).
 
 5.  Configure the following parameters:
 
@@ -80,5 +80,5 @@ For more information, see [Agent Client Collector user roles](https://raw.github
     -   On Windows, open Services as administrator, then start the Agent Client Collector Service.
     -   On macOS, use the command: `sudo launchctl load -w /Library/LaunchDaemons/com.sn.acc.plist`.
 
-**Parent Topic:**[Advanced configuration](../concept/dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
 

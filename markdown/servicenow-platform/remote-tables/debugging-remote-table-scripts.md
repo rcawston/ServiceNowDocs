@@ -27,7 +27,7 @@ Prolonged use of the **glide.script.vtable.log.debug** property can affect perfo
 
 Use the v\_query.setLastErrorMessage\(message\) API to set the last error message that appears at the bottom of the list view. In script, you can retrieve this message using the glideRecord.getLastErrorMessage\(\) API. To learn more about these APIs, see [Text-To-Display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideRecordScopedAPI.md).
 
-**Parent Topic:**[Remote tables](../concept/remote-tables.md)
+**Parent Topic:**[Remote tables](remote-tables.md)
 
 **Related topics**  
 

@@ -38,7 +38,7 @@ Check-in with Qr-code
 
 </td><td>
 
-Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
+Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../workplace-services-kiosk/setting-up-kiosk-device.md#).
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Check-out with Qr-code
 
 </td><td>
 
-Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
+Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../workplace-services-kiosk/setting-up-kiosk-device.md#).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ After creating an end page configuration, you can add further steps for the visi
 |Page|End page that the record is linked to.|
 |Active|Option to make the record active.|
 
-**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

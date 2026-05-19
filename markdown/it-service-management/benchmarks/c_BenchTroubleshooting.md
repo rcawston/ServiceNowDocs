@@ -123,5 +123,5 @@ Top Performer score shows N/A if the minimum historical data scores for KPIs are
 Make sure that a minimum of one to two months of aggregate monthly historical data for a KPI is available. The recommended time interval is 60 days.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Benchmarks](../reference/r_Benchmarks.md)
+</table>**Parent Topic:**[Benchmarks](r_Benchmarks.md)
 

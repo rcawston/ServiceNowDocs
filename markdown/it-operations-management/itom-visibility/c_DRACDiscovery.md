@@ -25,7 +25,7 @@ To identify the DRAC, Discovery uses the **SNMP – DRAC** probe. This probe use
 
 -   **Run network discovery**
 
-    For information on configuring and running network discovery to discover DRAC devices, see [Run network Discovery](c_NetworkDiscovery.md#).
+    For information on configuring and running network discovery to discover DRAC devices, see [Run network Discovery](../discovery/c_NetworkDiscovery.md#).
 
 
 ## Data collected

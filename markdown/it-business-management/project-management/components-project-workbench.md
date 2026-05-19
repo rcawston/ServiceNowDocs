@@ -82,7 +82,7 @@ Information in the bottom pane can be displayed in list view or in a visual task
 **Related topics**  
 
 
-[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)
+[Access the project workbench](t_AccessTheProjectWorkbench.md)
 
 [Project calculation](c_ProjectWorkbenchProjectCalc.md)
 

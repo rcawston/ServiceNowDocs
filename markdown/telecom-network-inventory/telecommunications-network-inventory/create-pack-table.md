@@ -59,7 +59,7 @@ The pack table is created with a set of attributes.
 
 To use the pack table in inventory forms, you must configure it to map with the inventory objects. To learn more, see [Configure an attribute pack table against a configuration item](configure-packs-for-a-ci-form.md).
 
-**Parent Topic:**[Configuring an attribute pack table](../concept/configuring-pack-table.md)
+**Parent Topic:**[Configuring an attribute pack table](configuring-pack-table.md)
 
 **Related topics**  
 

@@ -36,7 +36,7 @@ For example, you can set up a rule to display records that took more than 7 days
 
 3.  Provide details in the **Define** section.
 
-    For details, see [Rule-based finding definition form](../reference/finding-definition-form.md).
+    For details, see [Rule-based finding definition form](finding-definition-form.md).
 
 4.  Select **Configure**.
 
@@ -99,5 +99,5 @@ For example, you can set up a rule to display records that took more than 7 days
 7.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting improvement opportunities](../concept/working-with-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunities](working-with-imp-opp.md)
 

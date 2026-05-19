@@ -62,5 +62,5 @@ HTTP methods, such as GET, POST, or DELETE interact with the data at the endpoin
  A REST message may specify multiple HTTP methods. When sending a REST message, such as through a workflow activity or script, you must specify which HTTP method to use.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Outbound REST web service](../concept/c_OutboundRESTWebService.md)
+</table>**Parent Topic:**[Outbound REST web service](c_OutboundRESTWebService.md)
 

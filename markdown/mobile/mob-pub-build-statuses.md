@@ -34,10 +34,10 @@ When the build status becomes "Ready for testing," one of the following actions 
 |New|iOS|Private|See [Test and publish a new branded iOS app for private distribution](testpubnu-iosapp-privdist.md).|
 |New|Android|Public|See [Test and publish a new branded Android app for public distribution](testpubnu-andapp-pubdist.md).|
 |New|iOS|Public|See [Test and publish a new branded iOS app for public distribution](testpubnu-iosapp-pubdist.md).|
-|Updated|Android|Private|See [Test and publish an updated Android app for private distribution](../task/testpub-updat-and-app-priv.md).|
-|Updated|iOS|Private|See [Test and publish an updated iOS app for private distribution](../task/testpub-updat-ios-app-priv.md).|
-|Updated|Android|Public|See [Test and publish an updated Android app for public distribution](../task/testpub-updat-and-app-pub.md).|
-|Updated|iOS|Public|See [Test and publish an updated iOS app for public distribution](../task/testpub-updat-ios-app-pub.md).|
+|Updated|Android|Private|See [Test and publish an updated Android app for private distribution](testpub-updat-and-app-priv.md).|
+|Updated|iOS|Private|See [Test and publish an updated iOS app for private distribution](testpub-updat-ios-app-priv.md).|
+|Updated|Android|Public|See [Test and publish an updated Android app for public distribution](testpub-updat-and-app-pub.md).|
+|Updated|iOS|Public|See [Test and publish an updated iOS app for public distribution](testpub-updat-ios-app-pub.md).|
 
 **Parent Topic:**[Request, test, and publish a branded mobile app](request-test-pub-branded-mob-app.md)
 

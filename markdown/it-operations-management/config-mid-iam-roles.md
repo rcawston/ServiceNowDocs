@@ -44,5 +44,5 @@ Role required: discovery\_admin or sn\_cmp.cloud\_admin \(for Cloud Provisioning
     The new parameter is listed in the MID Server record.
 
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 

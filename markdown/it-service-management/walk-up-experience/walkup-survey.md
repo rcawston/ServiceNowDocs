@@ -27,7 +27,7 @@ Walk-up administrators and managers can modify these surveys and the associated 
 
 For more information about working with surveys, sentiment analysis, trigger conditions, and survey questions, see [Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md).
 
--   **[Create or modify a Walk-up Experience customer satisfaction survey](../task/configure-walkup-csat-survey.md)**  
+-   **[Create or modify a Walk-up Experience customer satisfaction survey](configure-walkup-csat-survey.md)**  
 Improve your **Walk-up Experience** operations and customer service by using surveys and monitoring survey results. Walk-up surveys capture important information from users about the interaction experience provided to them at the venue.
 
 **Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)

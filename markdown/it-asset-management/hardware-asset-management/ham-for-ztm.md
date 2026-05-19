@@ -35,7 +35,7 @@ Requirements and limitations for Hardware Asset Management integration with Zero
 
     -   Bring Your Own Asset
     -   Corporate Asset
--   Only mobile devices are licensed under this solution. You can view the subscription details using the ITAM license report. For more information, see [View the license report for the Hardware Asset Management application](../task/view-license-report-ham.md).
+-   Only mobile devices are licensed under this solution. You can view the subscription details using the ITAM license report. For more information, see [View the license report for the Hardware Asset Management application](view-license-report-ham.md).
 
     **Note:** Even if Hardware Asset Management is activated explicitly on your ServiceNow instance, the mobile devices are licensed only under the Mobile Device resource category of the Hardware Asset Management integration with Zero Touch Mobility solution. For more information, see [Licensing framework for Hardware Asset Management solutions](licensing-ham-solutions.md).
 
@@ -55,17 +55,17 @@ Requirements and limitations for Hardware Asset Management integration with Zero
 
 The following Hardware Asset Management features are available without any restrictions:
 
--   [Stock order](../task/create-inventory-stock-order.md)
--   [Advanced Shipment Notification](../task/advanced-shipment-notification.md)
--   [Standard Asset Request flow](../task/hardware-request-flow.md)
+-   [Stock order](create-inventory-stock-order.md)
+-   [Advanced Shipment Notification](advanced-shipment-notification.md)
+-   [Standard Asset Request flow](hardware-request-flow.md)
 -   [Shipment carrier integration](integrating-with-third-party-carrier-apps.md)
--   [Advanced inventory and distribution](../task/associate-stockroom-with-distribution-channels.md)
+-   [Advanced inventory and distribution](associate-stockroom-with-distribution-channels.md)
 -   [Asset reclamation](reclaim-asset.md#)
 
 The following Hardware Asset Management features have limited availability:
 
 -   HAM workflows: Non-mobile devices are excluded from the HAM workflows.
--   [Lease expiration flow](../task/manage-your-leased-hw-asts-expiring-contract.md): Non-mobile devices are excluded from this flow.
+-   [Lease expiration flow](manage-your-leased-hw-asts-expiring-contract.md): Non-mobile devices are excluded from this flow.
 -   [Hardware Asset Workspace](using-ham-workspace.md): Reports and dashboards related to normalization of assets aren't available.
 
 **Parent Topic:**[Hardware Asset Management integrations](ham-integrations.md)

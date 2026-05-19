@@ -38,5 +38,5 @@ You must have a subscription for Virtual Agent before you can activate the Glide
 
 ## What to do next
 
-Activate [additional Virtual Agent plugins](../reference/additional-va-plugins.md) for related features, such as the plugins for predefined Virtual Agent topics.
+Activate [additional Virtual Agent plugins](additional-va-plugins.md) for related features, such as the plugins for predefined Virtual Agent topics.
 

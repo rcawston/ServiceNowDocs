@@ -59,7 +59,7 @@ For the Madrid release and later family releases, the com.snc.si\_dep plugin is 
 3.  Security Support Orchestration
 4.  Security Incident Response
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>Role required: admin
@@ -88,7 +88,7 @@ Perform the following steps to update system properties and install and configur
 
     ![Attributes for the system property required for this integration.](../image/hybrid-analysis-system-property.png)
 
-4.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+4.  If you have not installed the application for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 5.  After the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Hybrid Analysis tile.
 
@@ -107,9 +107,9 @@ Perform the following steps to update system properties and install and configur
     If an error message is displayed during the configuration, the Hybrid Analysis API key may be invalid.
 
 
-**Parent Topic:**[Hybrid Analysis integration](../concept/hybrid-analysis-lookups.md)
+**Parent Topic:**[Hybrid Analysis integration](hybrid-analysis-lookups.md)
 
-**Previous topic:**[Hybrid Analysis integration](../concept/hybrid-analysis-lookups.md)
+**Previous topic:**[Hybrid Analysis integration](hybrid-analysis-lookups.md)
 
 **Next topic:**[Verify expected results for Hybrid Analysis](verify-expected-results-hybrid-analysis-.md)
 

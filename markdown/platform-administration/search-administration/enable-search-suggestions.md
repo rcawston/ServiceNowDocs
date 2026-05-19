@@ -57,7 +57,7 @@ On new instances, the first parameter is set to **true** and the second is set t
     2.  In the **Value** field, double-click the value and select **true** to enable suggestions, or **false** to disable Search Suggestions globally.
 
 
-**Parent Topic:**[Zing displays search suggestions as users enter search terms](../concept/search-suggestions-zing.md)
+**Parent Topic:**[Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
 **Related topics**  
 

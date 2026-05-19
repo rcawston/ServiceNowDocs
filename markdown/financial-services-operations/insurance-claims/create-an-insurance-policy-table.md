@@ -44,5 +44,5 @@ Each type of insurance policy requires a table that extends the Insurance Policy
 
 Set up the roles, establish read-and-write access control lists \(ACLs\), and then grant access to the table. For more information, see [Create a role to access insurance policy tables](create-roles-acls-and-grant-access.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
 

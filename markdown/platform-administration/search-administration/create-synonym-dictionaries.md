@@ -55,7 +55,7 @@ By default, the system provides a sample Zing synonym dictionary called **Exampl
     A message indicates that publication of your synonym dictionaries has been scheduled. Refresh the page to see whether publication is complete. The dictionary is published when its state changes from **Draft** to **Published**.
 
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
 **Related topics**  
 

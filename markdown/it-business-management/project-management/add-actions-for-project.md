@@ -33,7 +33,7 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 
 4.  On the Action form, fill in the fields.
 
-    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](../reference/ridac-forms.md).
+    For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](ridac-forms.md).
 
 5.  If the action requires approval from other stakeholders, request approval with a due date using the **Approval** and **Due date** fields.
 
@@ -48,5 +48,5 @@ After analyzing the risks and issues and taking a decision on how to manage thos
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 

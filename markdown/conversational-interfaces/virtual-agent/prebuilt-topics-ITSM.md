@@ -83,7 +83,7 @@ Request Legal Virtual Agent Conversations from the ServiceNow Store.
 
 Virtual Agent Platform topics and topic blocks
 
--   [Virtual Agent Designer setup topics](../concept/working-setup-topics.md)
+-   [Virtual Agent Designer setup topics](working-setup-topics.md)
 -   [Virtual Agent pre-built topic blocks for NLU](va-platform-topicblocks.md) \(such as Agent Availability, AI Search, and FAQ Conversation Builder\)
 
 </td><td>
@@ -100,9 +100,9 @@ After installing the plugins or apps, you can preview \(test\) the topics and to
 ## Working with prebuilt topics and topic blocks in Virtual Agent Designer
 
 -   Previewing topics and topic blocks – After you install the plugins for prebuilt topics, admins or Virtual Agent admins can access the prebuilt topics and topic blocks in the Virtual Agent Designer home page. Select the topic and in the **Flow** tab, select **Test**. Review the conversation as it runs in the test window to determine the topics and topic blocks that you want to use.
--   Using prebuilt topics and topic blocks – Although prebuilt topics and topic blocks are read only and can't be changed, you can reuse them by [duplicating](../task/duplicate-virtual-agent-topic.md) and modifying them as needed. After you test a duplicated topic and are ready to deploy it to your Virtual Agent clients, [publish](../task/publish-virtual-agent-topic.md) the topic. Similarly, after testing a duplicated topic block, publish it to make it available for use in conversation \(calling\) topics.
+-   Using prebuilt topics and topic blocks – Although prebuilt topics and topic blocks are read only and can't be changed, you can reuse them by [duplicating](duplicate-virtual-agent-topic.md) and modifying them as needed. After you test a duplicated topic and are ready to deploy it to your Virtual Agent clients, [publish](publish-virtual-agent-topic.md) the topic. Similarly, after testing a duplicated topic block, publish it to make it available for use in conversation \(calling\) topics.
 
-For details on creating, testing \(previewing\), duplicating, and publishing a topic, see [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md). For details on working with topic blocks, see [Maximizing code reuse with topic blocks](../concept/topic-blocks-overview.md).
+For details on creating, testing \(previewing\), duplicating, and publishing a topic, see [Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md). For details on working with topic blocks, see [Maximizing code reuse with topic blocks](topic-blocks-overview.md).
 
 ## Working with prebuilt ServiceNow NLU models in ServiceNow NLU Workbench
 

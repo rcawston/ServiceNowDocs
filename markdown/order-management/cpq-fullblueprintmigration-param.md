@@ -90,5 +90,5 @@ CPQ administrators do not directly associate or remove rules to or from blueprin
 **Related topics**  
 
 
-[Testing in non-production environments before migration](../concept/cpq-env-to-env-bp-migration-intro.md)
+[Testing in non-production environments before migration](cpq-env-to-env-bp-migration-intro.md)
 

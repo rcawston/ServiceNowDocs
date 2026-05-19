@@ -187,10 +187,10 @@ Option to make users active in a neighborhood.
 
 11. To create and manage a neighborhood in Workplace Central for a scenario, see [Create a scenario](../../workplace-central/task/create-a-scenario.md).
 
-12. To view and reserve spaces in a neighborhood using the Reservation Management portal, see [Create neighborhood reservations](../../wsd-reservation-management/task/create-neighborhood-reservations.md).
+12. To view and reserve spaces in a neighborhood using the Reservation Management portal, see [Create neighborhood reservations](../workplace-reservation-management/create-neighborhood-reservations.md).
 
 13. To add a user to the neighborhood, refer to [Add a user to the neighborhood](add-a-user-to-neighbourhood.md).
 
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](neighborhoods.md)
 

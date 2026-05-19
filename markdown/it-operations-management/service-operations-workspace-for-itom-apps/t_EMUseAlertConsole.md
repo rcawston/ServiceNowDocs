@@ -133,7 +133,7 @@ Impacted Services
 
 </td><td>
 
-Lists the services affected by this alert group. Select an impacted service to view its record.**Note:** You can access the Service Map in Service Operations Workspace directly from the impacted service form by selecting **Service Map**. The service map shows the impacted path of alerts, enabling you to quickly assess their effect on the service. For more information, see [View unified service map and the impact paths in Service Operations Workspace](../../service-operations-workspace-itom/task/view-impact-tree.md).
+Lists the services affected by this alert group. Select an impacted service to view its record.**Note:** You can access the Service Map in Service Operations Workspace directly from the impacted service form by selecting **Service Map**. The service map shows the impacted path of alerts, enabling you to quickly assess their effect on the service. For more information, see [View unified service map and the impact paths in Service Operations Workspace](view-impact-tree.md).
 
 ![Service Map button on the impacted service form.](../../service-operations-workspace-itom/image/el-imp-service-open-map.png)el-imp-service-open-map.png
 
@@ -186,9 +186,9 @@ If Operational Intelligence is activated, you can right-click an alert and click
 **Related topics**  
 
 
-[Metric Intelligence](../../agent-client-collector/concept/operational-metrics.md)
+[Metric Intelligence](../metric-intelligence/operational-metrics.md)
 
-[View alert information](t_EMViewAlert.md)
+[View alert information](../event-management/t_EMViewAlert.md)
 
-[Alert grouping types and creation methods](../concept/Alert-Groups.md)
+[Alert grouping types and creation methods](../event-management/Alert-Groups.md)
 

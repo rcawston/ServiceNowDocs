@@ -75,5 +75,5 @@ Option displayed when **Send auto reminders** is enabled. Enter the time \(days,
 **Related topics**  
 
 
-[Create an approval configuration](../task/create-approval-configuration.md)
+[Create an approval configuration](create-approval-configuration.md)
 

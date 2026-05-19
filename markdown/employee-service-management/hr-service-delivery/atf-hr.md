@@ -25,7 +25,7 @@ Role required: sn\_hr\_core.admin, atf\_test\_admin, atf\_test\_designer
 
 2.  Search and select the tests for HR Service Delivery.
 
-    For a list of quick start tests and their descriptions, see [Quick start tests for HR Service Delivery](../../../administer/atf-quick-start-tests/reference/quick-start-tests-hr.md).
+    For a list of quick start tests and their descriptions, see [Quick start tests for HR Service Delivery](quick-start-tests-hr.md).
 
 3.  Select **Run Test**.
 

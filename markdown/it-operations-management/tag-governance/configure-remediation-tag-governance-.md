@@ -56,7 +56,7 @@ The list of CMDB classes for which you can update tags on CIs in the CMDB as wel
 5.  In the Tag Policies list, configure a remediation policy in one of the following ways:
 
     -   Select an existing tag policy from the lookup list.
-    -   Select **New**. Fill in fields on the Tag Policies form \(the fields are described in [Tag Policies form](../../itom-cloud-accelerate/reference/tag-gov-tag-policies-form.md).
+    -   Select **New**. Fill in fields on the Tag Policies form \(the fields are described in [Tag Policies form](tag-gov-tag-policies-form.md).
 
         **Note:** If you are creating a new tag policy, you must run an audit before you can run remediation flows.
 
@@ -68,7 +68,7 @@ The list of CMDB classes for which you can update tags on CIs in the CMDB as wel
 
 7.  Select the **Update Tags in Cloud** check box to apply remediation and update the tags in the relevant cloud provider environment for supported CMDB CI classes.
 
-    **Important:** The **Update Tags in Cloud** feature works only for AWS and Microsoft Azure Cloud resources for CMDB classes listed in the Tag Remediation form. See [Performing real-time updates to tags for cloud resources](../concept/tag-governance-real-time-updates.md).
+    **Important:** The **Update Tags in Cloud** feature works only for AWS and Microsoft Azure Cloud resources for CMDB classes listed in the Tag Remediation form. See [Performing real-time updates to tags for cloud resources](tag-governance-real-time-updates.md).
 
 8.  On the Tag Remediation form, select **Submit**.
 

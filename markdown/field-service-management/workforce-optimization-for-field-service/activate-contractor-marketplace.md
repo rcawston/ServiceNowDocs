@@ -29,7 +29,7 @@ The following items are installed with Field Service Marketplace:
 -   Business rules
 -   Script includes
 
-For more information, see [Field Service Marketplace components](../reference/contractor-marketplace-cmpnts.md).
+For more information, see [Field Service Marketplace components](../contractor-marketplace-cmpnts.md).
 
 **Note:** To utilize automation in Field Service Marketplace, the Dynamic Scheduling plugin must be installed and the **Use task filters for determining contractor tasks** property must be enabled.
 

@@ -31,7 +31,7 @@ The following items are installed with Commercial Lines Claims:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Commercial Lines Claims](../reference/components_installed_with_commercial_lines_claims.md).
+For more information, see [Components installed with Commercial Lines Claims](components_installed_with_commercial_lines_claims.md).
 
 ## Procedure
 

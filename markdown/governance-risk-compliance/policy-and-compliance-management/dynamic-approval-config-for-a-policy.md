@@ -64,13 +64,13 @@ You can set up various approval rules using the Approval Configurator:
 
 To set up approval configuration on a record, see the following sections.
 
-1.  To set up an approval configuration record, see [Set up an approval configuration record](../../grc-common/task/set-up-approval-configurator.md).
-2.  To assign an approval level for the approval configuration record, see [Assign an approval level for the approval configuration record](../../grc-common/task/set-up-approval-levels.md).
-3.  To set up an approval rule for the approval level in the approval configuration record, see [Set up an approval rule for the approval level](../../grc-common/task/set-up-approval-rules.md).
+1.  To set up an approval configuration record, see [Set up an approval configuration record](../grc-common-functions/set-up-approval-configurator.md).
+2.  To assign an approval level for the approval configuration record, see [Assign an approval level for the approval configuration record](../grc-common-functions/set-up-approval-levels.md).
+3.  To set up an approval rule for the approval level in the approval configuration record, see [Set up an approval rule for the approval level](../grc-common-functions/set-up-approval-rules.md).
 
 **Note:**
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../grc-common-functions/roles-installed-with-approver-configurator.md).
 
 ## Roles required for creating policy approval rules
 

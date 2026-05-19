@@ -32,9 +32,9 @@ You can view up to 50 skills at any point in time. For more information on skill
 
 When your agents gain new skills you can add them manually or use Predictive Intelligence to recommend skills that agents have used that have not yet been added to their skill set. For information on how predictive intelligence works to recommend skills for agents, see [Coaching in Workforce Optimization for ITSM](explore-coaching-configurable-workforce-optimization-itsm.md).
 
--   **[Add or update skills using Workforce Optimization for ITSM](../task/add-skills-configurable-workspace.md)**  
+-   **[Add or update skills using Workforce Optimization for ITSM](add-skills-configurable-workspace.md)**  
 Add skills or update skill levels for an agent so that it gets added to their skill set.
--   **[Approve or reject recommended skills in Workforce Optimization for ITSM](../task/approve-reject-recommended-skills-configurable-workspace.md)**  
+-   **[Approve or reject recommended skills in Workforce Optimization for ITSM](approve-reject-recommended-skills-configurable-workspace.md)**  
 Approve predicted skills if the skill is necessary for the agent to complete assigned tasks. If the skill doesn't apply to the agent, you can reject a skill.
 
 **Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)

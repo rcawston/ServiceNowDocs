@@ -17,7 +17,7 @@ Install and configure the Conversational Integration with Amazon Connect applica
 
 ## Configuration overview
 
-1.  [Install Conversational IVR with Amazon Connect](../task/install-va-ivr.md)
+1.  [Install Conversational IVR with Amazon Connect](install-va-ivr.md)
 
     Install the pre-built adapter for Conversational Integration with Amazon Connect.
 
@@ -25,23 +25,23 @@ Install and configure the Conversational Integration with Amazon Connect applica
 
     Set up your Amazon Connect account.
 
-3.  [Configure Conversational IVR with Amazon Connect](../task/configure-va-ivr.md)
+3.  [Configure Conversational IVR with Amazon Connect](configure-va-ivr.md)
 
     Configure Conversational Integration with Amazon Connect.
 
-4.  [Sync agents to set up live agent transfer](../task/setup-live-agent-transfer.md)
+4.  [Sync agents to set up live agent transfer](setup-live-agent-transfer.md)
 
     Set up live agent transfer for Conversational Integration with Amazon Connect.
 
-5.  [Configure user authentication for Conversational IVR](../task/setup-user-authentication-ivr.md)
+5.  [Configure user authentication for Conversational IVR](setup-user-authentication-ivr.md)
 
     Configure user authentication.
 
-6.  [Manage bot messages for Conversational IVR](../task/edit-va-ivr-messages.md)
+6.  [Manage bot messages for Conversational IVR](edit-va-ivr-messages.md)
 
     Modify the Conversational Integration with Amazon Connect settings for the best interactive voice response.
 
-7.  [Configure callback behavior for a channel](../../omnichannel-callback/task/configure-callback-behavior.md)
+7.  [Configure callback behavior for a channel](../omnichannel-callback/configure-callback-behavior.md)
 
     Configure callback functionality.
 
@@ -50,7 +50,7 @@ Install and configure the Conversational Integration with Amazon Connect applica
 
 -   **[Configuring your AWS account for use with Conversational IVR](configure-aws-account.md)**  
 To enable the Conversational IVR functionality within your ServiceNow instance, you must utilize a third-party Contact Center application. One such option is Amazon Connect, which is part of the Amazon Web Services \(AWS\) platform. You must configure your organization’s AWS account prior to making it available for use in the Conversational IVR feature.
--   **[Configure Conversational IVR with Amazon Connect](../task/configure-va-ivr.md)**  
+-   **[Configure Conversational IVR with Amazon Connect](configure-va-ivr.md)**  
 Configure Amazon Connect service provider to integrate with Virtual Agent and use interactive voice response.
 
 **Parent Topic:**[Conversational IVR with Amazon Connect](va-ivr-voice.md)

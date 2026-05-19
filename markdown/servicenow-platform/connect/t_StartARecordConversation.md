@@ -92,5 +92,5 @@ In the form header, click **Follow**.
 **Related topics**  
 
 
-[Live Feed Core UI](../../live-feed/concept/c_GetStartedWithLiveFeed.md)
+[Live Feed Core UI](../live-feed/c_GetStartedWithLiveFeed.md)
 

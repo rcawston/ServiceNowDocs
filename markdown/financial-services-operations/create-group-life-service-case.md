@@ -17,9 +17,9 @@ A processor or contributor can begin the change member info request process by c
 
 Role required: sn\_ins\_group\_life.processor, sn\_ins\_group\_life.processor\_connector, or sn\_ins\_group\_life.contributor
 
-**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](../../fso-common/reference/fso-core-roles.md).
+**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](fso-core-roles.md).
 
-**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](fso-combine-csm-industry-roles.md).
 
 ## About this task
 

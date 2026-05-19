@@ -33,5 +33,5 @@ Role required: none.
     -   Type: string
     -   Value: a comma-separated list of tables. The default value is sys\_user,sys\_import\_set\_row.
 
-**Parent Topic:**[Versions](../concept/c_Versions.md)
+**Parent Topic:**[Versions](c_Versions.md)
 

@@ -45,7 +45,7 @@ The parallel loading feature is available for the following data sources:
 
 For a full data pull, the **azure\_full\_pull\_partition\_size** property determines the number of Azure subscriptions that can be executed as parallel jobs to retrieve configuration item \(CI\) data. Partition size determines how many Azure subscriptions a single parallel-thread evaluates for data retrieval. If you set the **azure\_full\_pull\_partition\_size** property to `100`, the partition size is 100 subscriptions.
 
-**Note:** If the **azure\_full\_pull\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](../concept/integration-commons-part-size.md).
+**Note:** If the **azure\_full\_pull\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-part-size.md).
 
 ## Procedure
 
@@ -55,7 +55,7 @@ For a full data pull, the **azure\_full\_pull\_partition\_size** property determ
 
 3.  From the **Property** column of the Service Graph Connection Properties related list, select **azure\_full\_pull\_partition\_size**.
 
-    The **azure\_full\_pull\_partition\_size** system property determines the number of subscriptions that each partition processes for a full pull. For more information, see [Service Graph Connector for Microsoft Azure properties](../reference/cmdb-sgc-azure-props.md).
+    The **azure\_full\_pull\_partition\_size** system property determines the number of subscriptions that each partition processes for a full pull. For more information, see [Service Graph Connector for Microsoft Azure properties](cmdb-sgc-azure-props.md).
 
 4.  In the **Value** field, enter a numeric value greater than `0` for the partition size.
 

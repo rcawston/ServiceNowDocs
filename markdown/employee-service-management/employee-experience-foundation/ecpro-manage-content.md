@@ -49,7 +49,7 @@ The title you entered from the **To-do content** form.This field only appears wh
 -   View Link
 These are all to-do types of content that request the user to complete a task.
 
-**Note:** For more information, see [Creating employee communications](../concept/ec-publish-content.md).
+**Note:** For more information, see [Creating employee communications](ec-publish-content.md).
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Content
 
 The content you want to appear in your campaign.Select the **Lookup using list** icon and select the content from the list. The content you want to select must already be created before you can add it to a campaign.
 
-**Note:** For more information, see [Creating employee communications](../concept/ec-publish-content.md).
+**Note:** For more information, see [Creating employee communications](ec-publish-content.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Filters what topics you can schedule your content to. Taxonomy is a collection o
 
  For this field to appear, select a page that has Taxonomy \(sn\_ex\_sp\_taxonomy\) entered in the Choices tab for the dictionary entry for the Category table of the page. For more information, see [Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateATable.md).
 
- For more information on taxonomy for the Employee Center, see [Unified Taxonomy for Employee Center](../concept/config-taxonomy.md).
+ For more information on taxonomy for the Employee Center, see [Unified Taxonomy for Employee Center](config-taxonomy.md).
 
  For child topics to appear on your Employee Center, you must add it to the Portal form under Service Portal. For more information, see [Create a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md).
 
@@ -113,7 +113,7 @@ Topic
 
 </td><td>
 
-The topics you want your content to appear in under a taxonomy.Only topics that are associated with a specific page/template display. When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) sys property is set to **Yes**, topic ownership is enabled. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+The topics you want your content to appear in under a taxonomy.Only topics that are associated with a specific page/template display. When the Allow Ownership for Topics \(sn\_cd.activate\_topic\_ownership\) sys property is set to **Yes**, topic ownership is enabled. For more information, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
  Ownership of a topic includes:
 
@@ -122,7 +122,7 @@ The topics you want your content to appear in under a taxonomy.Only topics that 
 -   Ability to preview content for the topic.
 **Note:** Other users that have access to the content can view the restricted content assigned to a topic, but cannot edit or delete the topic.
 
- For more information, see [Content Ownership](../concept/ecpro-content-restriction.md) and [Create and associate topics](create-topics-for-taxonomy.md).
+ For more information, see [Content Ownership](ecpro-content-restriction.md) and [Create and associate topics](create-topics-for-taxonomy.md).
 
 </td></tr><tr><td>
 
@@ -211,7 +211,7 @@ Portal Content
 
 </td><td>
 
-Content that appears on your Employee Center or Service Portal.**Note:** For information on creating portal content, see [Portal content](../concept/ec-streamline-content.md).
+Content that appears on your Employee Center or Service Portal.**Note:** For information on creating portal content, see [Portal content](ec-streamline-content.md).
 
 </td></tr><tr><td>
 

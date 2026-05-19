@@ -33,7 +33,7 @@ Project Portfolio Management is domain separation-compliant with the following l
 -   Only users belonging to the same domain, parent domain, or the top domain have the visibility into PPM entities of a domain.
 -   All system properties are in the global domain and are not specific to a domain. Planning console settings, however, are still domain-specific.
 
-**Parent Topic:**[Project Portfolio Management reference](../reference/project-portfolio-management-reference.md)
+**Parent Topic:**[Project Portfolio Management reference](project-portfolio-management-reference.md)
 
 **Related topics**  
 

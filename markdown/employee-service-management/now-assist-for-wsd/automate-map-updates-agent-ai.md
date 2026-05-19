@@ -17,7 +17,7 @@ This AI agent helps map admins configure the map during bulk updates to Indoor M
 
 ## Automate map updates workflow overview
 
-The AI agent autonomously retrieves sources for the CAD file and resumes the import task. If the source isn't found, the AI agent moves the task to the `Waiting user input` state. For more information about import tasks, see [Work on an import task](../../wsd-indoor-mapping/task/work-import-task.md).
+The AI agent autonomously retrieves sources for the CAD file and resumes the import task. If the source isn't found, the AI agent moves the task to the `Waiting user input` state. For more information about import tasks, see [Work on an import task](../indoor-mapping/work-import-task.md).
 
 The AI agent autonomously performs the following:
 

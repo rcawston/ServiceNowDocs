@@ -40,22 +40,22 @@ The invoice document is displayed for invoice, invoice lines, invoice processing
     You can toggle the invoice document icon \(![Invoice document icon](../image/invoice-document-icon.png)\) to show or hide the invoice document.
 
 
-**Parent Topic:**[Using Accounts Payable Invoice Processing](../concept/use-ap-invoice-processing.md)
+**Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
 
 **Related topics**  
 
 
-[Invoice ingestion using Application programming interface \(API\)](../concept/invoice-ingestion-using-api.md)
+[Invoice ingestion using Application programming interface \(API\)](invoice-ingestion-using-api.md)
 
-[Rules based engine](../concept/rules-based-engine.md)
+[Rules based engine](rules-based-engine.md)
 
-[Work with invoices](../concept/work-with-invoices.md)
+[Work with invoices](work-with-invoices.md)
 
-[Invoice processing cases](../concept/working-with-ingestion-cases.md)
+[Invoice processing cases](working-with-ingestion-cases.md)
 
-[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+[Invoice exceptions](work-with-invoice-exceptions.md)
 
-[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+[Tolerance Rules and Variances for invoices](tolerance-rules-and-variance.md)
 
-[Invoice approvals](../concept/invoice-approvals.md)
+[Invoice approvals](invoice-approvals.md)
 

@@ -24,7 +24,7 @@ Standards establish consistency and uniformity in how tasks and activities are p
 -   View and manage knowledge articles
 -   View embedded shopfloor insights on published standards to analyze execution performance
 
-For more information about Industrial Knowledge Management, see [Industrial Knowledge Management](../../icw-industrial-knowledge-management/concept/icw-knowledge-management-landing-page.md).
+For more information about Industrial Knowledge Management, see [Industrial Knowledge Management](../industrial-knowledge-management/icw-knowledge-management-landing-page.md).
 
 The following image shows an example of the main page in the Standards hub.
 

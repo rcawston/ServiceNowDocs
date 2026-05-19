@@ -34,8 +34,8 @@ Role required: admin.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with the Enhanced Web Service Provider - Common plugin](../reference/r_InstallWEnhancedWSPCommPlugin.md)**  
+-   **[Installed with the Enhanced Web Service Provider - Common plugin](r_InstallWEnhancedWSPCommPlugin.md)**  
 The following components installed with the Enhanced Web Service Provider - Common plugin.
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

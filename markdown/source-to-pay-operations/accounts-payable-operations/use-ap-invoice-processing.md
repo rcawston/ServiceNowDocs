@@ -29,7 +29,7 @@ Invoice exceptions are issues that are identified in an invoice during invoice p
 Tolerance rules define the limits set on an invoice to determine the permissible amount of variance that can be applied to an invoice before the invoice total exceeds the tolerance limit.
 -   **[Invoice approvals](invoice-approvals.md)**  
 Invoices with the No exceptions found status are eligible for approval.
--   **[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)**  
+-   **[View invoice documents in the Source-to-Pay Workspace](view-invoice-attachment.md)**  
 View the invoice documents directly in the Source-to-Pay Workspace using Document Viewer without having to download them.
 
 **Parent Topic:**[Use Accounts Payable Operations](use-acc-pay-mgmt.md)
@@ -37,7 +37,7 @@ View the invoice documents directly in the Source-to-Pay Workspace using Documen
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -45,11 +45,11 @@ View the invoice documents directly in the Source-to-Pay Workspace using Documen
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
 [Using Advanced Work Assignment for Accounts Payable Operations](using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Interaction management in Accounts Payable Operations](interaction-record.md)
 

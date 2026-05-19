@@ -50,5 +50,5 @@ Role required: itil
 9.  Mute participants to avoid background noise by selecting the Mute icon \(![Mute icon.](../image/mute-icon-conf-call.png)\).
 
 
-**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](../concept/telephony-sow.md)
+**Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](telephony-sow.md)
 

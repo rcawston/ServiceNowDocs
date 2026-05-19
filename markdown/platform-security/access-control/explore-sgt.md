@@ -69,7 +69,7 @@ Scripting governance feature introduces 9 data type ACLs to enforce Layer 2. The
     -   html\_template
     -   xml
     -   condition\_string
-    **Note:** The admin role does not have scripting access by default. Admin users are subject to the same two-layer check and cannot edit script fields unless they are members of the **Conditional Script Writer** group or explicitly hold the `snc_required_script_writer_permission` role.To know more, see [Datatype ACL](../../contextual-security/concept/datatype-acl.md).
+    **Note:** The admin role does not have scripting access by default. Admin users are subject to the same two-layer check and cannot edit script fields unless they are members of the **Conditional Script Writer** group or explicitly hold the `snc_required_script_writer_permission` role.To know more, see [Datatype ACL](datatype-acl.md).
 
 
 ## Scheduled jobs and properties

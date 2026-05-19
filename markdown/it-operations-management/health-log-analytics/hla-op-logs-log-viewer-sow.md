@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_operator, or evt\_mgmt\_admin
 
 3.  Analyze log-based anomalies and added context to help you achieve faster mean time to repair \(MTTR\).
 
-    For example, say you find a log line with errors found in a configuration file. On the **Anomaly** card, a sudden spike on the chart indicates where the configuration file is generating the errors. You can view additional key-value pairs extracted from the logs on the **Meaningful log properties** card and find the affected application services and their related service offerings on the **Impacted services** card. For greater context, you may want to [investigate the logs that surround the anomaly](../concept/hla-op-surrounding-logs-view-concept-sow.md), locate the configuration file, and find the time frame where the issues occurred.
+    For example, say you find a log line with errors found in a configuration file. On the **Anomaly** card, a sudden spike on the chart indicates where the configuration file is generating the errors. You can view additional key-value pairs extracted from the logs on the **Meaningful log properties** card and find the affected application services and their related service offerings on the **Impacted services** card. For greater context, you may want to [investigate the logs that surround the anomaly](../service-operations-workspace-for-itom-apps/hla-op-surrounding-logs-view-concept-sow.md), locate the configuration file, and find the time frame where the issues occurred.
 
 
 ## What to do next
@@ -47,5 +47,5 @@ Use additional features on the Log Viewer to refine your search or define alerts
 **Related topics**  
 
 
-[Reviewing the logs for an alert on the Log Viewer in Health Log Analytics](../concept/hla-op-logs-log-viewer-concept-sow.md)
+[Reviewing the logs for an alert on the Log Viewer in Health Log Analytics](../service-operations-workspace-for-itom-apps/hla-op-logs-log-viewer-concept-sow.md)
 

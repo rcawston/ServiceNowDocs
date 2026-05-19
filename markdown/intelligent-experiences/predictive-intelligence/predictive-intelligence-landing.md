@@ -30,11 +30,11 @@ Administrators can harness the power of machine learning to improve productivity
 
 </td><td>
 
-[Install ![](../images/icon-install-pi.png) Install Predictive Intelligence and its associated apps](../task/install-predictive-intelligence.md#)
+[Install ![](../images/icon-install-pi.png) Install Predictive Intelligence and its associated apps](install-predictive-intelligence.md#)
 
 </td><td>
 
-[Configure ![](../images/icon-configure-pi.png) Configure Predictive Intelligence on the platform](../reference/troubleshooting-predictive-intelligence.md)
+[Configure ![](../images/icon-configure-pi.png) Configure Predictive Intelligence on the platform](troubleshooting-predictive-intelligence.md)
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Administrators can harness the power of machine learning to improve productivity
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Predictive Intelligence components such as properties and language support.](../reference/predictive-intelligence-properties.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Predictive Intelligence components such as properties and language support.](predictive-intelligence-properties.md)
 
 </td></tr></tbody>
 </table>

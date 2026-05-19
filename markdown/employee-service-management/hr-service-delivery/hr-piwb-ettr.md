@@ -21,7 +21,7 @@ Role required: sn\_piwb\_hr\_content.admin
 
 ## About this task
 
-Regression solutions enable you to predict a point estimate and prediction interval. When making predictions, regression also enables you to specify a confidence level for the prediction interval \(range\). Understand the ETTR configuration information from [Estimated time to resolve HR cases](../concept/train-model-ettr.md).
+Regression solutions enable you to predict a point estimate and prediction interval. When making predictions, regression also enables you to specify a confidence level for the prediction interval \(range\). Understand the ETTR configuration information from [Estimated time to resolve HR cases](train-model-ettr.md).
 
 ## Procedure
 
@@ -185,12 +185,12 @@ After you run the test, the prediction output statistics appear. The Point Estim
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
--   **[Estimated time to resolve HR cases](../concept/train-model-ettr.md)**  
+-   **[Estimated time to resolve HR cases](train-model-ettr.md)**  
 Determine the Estimated Time to Resolve a Case \(ETTR\) for a case by analyzing similar closed cases in the past for better visibility and transparency.
--   **[Viewing ETTR predictions](../concept/create-regression-solution-hr.md)**  
+-   **[Viewing ETTR predictions](create-regression-solution-hr.md)**  
 View the examples of ETTR views across the journey of a case which indicates the estimated time to resolve based on the historical data.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

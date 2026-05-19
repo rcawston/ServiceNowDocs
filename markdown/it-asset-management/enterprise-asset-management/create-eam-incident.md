@@ -74,5 +74,5 @@ This procedure describes how an ITIL agent must complete an incident form to doc
 
 Resolve and close your incident.
 
-**Parent Topic:**[Managing incidents in Enterprise Asset Management](../concept/managing-eam-incidents.md)
+**Parent Topic:**[Managing incidents in Enterprise Asset Management](managing-eam-incidents.md)
 

@@ -85,5 +85,5 @@ The Now Assist for SAM application generates the troubleshooting details that co
 5.  After the connection validation is successful, publish the integration profile by selecting **Publish**.
 
 
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](using-now-assist-sam.md)
 

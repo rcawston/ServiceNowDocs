@@ -31,7 +31,7 @@ In its life cycle, an audit observation moves through the following states:
 
 ## Status workflow of an audit observation in workspace
 
-1.  An audit user with the role sn\_audit.user creates an observation. See [Create an observation for an engagement](../task/create-observation-audit-ws.md).
+1.  An audit user with the role sn\_audit.user creates an observation. See [Create an observation for an engagement](create-observation-audit-ws.md).
     1.  To create an observation, navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
     2.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
     3.  Click **All engagements** or **My engagements** in the Execution list.

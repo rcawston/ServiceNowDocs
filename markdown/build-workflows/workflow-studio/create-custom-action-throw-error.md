@@ -147,5 +147,5 @@ You have a custom action that throws an error when you set the action input **Er
 
 Add this action to a flow to test the contents of the Error Handler section.
 
-**Parent Topic:**[Flow error handler](../concept/flow-error-handler.md)
+**Parent Topic:**[Flow error handler](flow-error-handler.md)
 

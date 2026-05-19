@@ -19,27 +19,27 @@ This API requires the Document Management plugin \(com.snc.platform\_document\_m
 
 The Document Management plugin also supports creating lists of document templates to associate with your document. For example, a job application requiring multiple documents such as a diploma, ID, or passport. After you add your document list, you can add document templates:
 
--   [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
--   [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
+-   [SystemDocumentListEntry](SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
+-   [DocumentListEntryService](DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
 The following APIs enable you to define and manage documents:
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocument](SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](DocumentServiceBothAPI.md#) – Add, update, or delete a document.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
-See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+See also [SystemDocumentList](SystemDocumentListBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DocumentListService - DocumentListService\(\)
 
@@ -49,7 +49,7 @@ Instantiates a DocumentListService object.
 |----|----|-----------|
 |None| ||
 
-The following example shows how to instantiate a DocumentListService object. See also [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#).
+The following example shows how to instantiate a DocumentListService object. See also [SystemDocumentList](SystemDocumentListBothAPI.md#).
 
 ```
 var s = new sn_doc_services.DocumentListService();
@@ -61,14 +61,14 @@ Creates a document list in the Document Lists \[ds\_document\_lists\] table.
 
 The Document Management plugin also supports creating lists of document templates to associate with your document. For example, a job application requiring multiple documents such as a diploma, ID, or passport. After you add your document list, you can add document templates:
 
--   [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
--   [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
+-   [SystemDocumentListEntry](SystemDocumentListEntryBothAPI.md#) – Define a document template list entry.
+-   [DocumentListEntryService](DocumentListEntryServiceBothAPI.md#) – Add or remove a document template list entry.
 
 Use the [createDocumentsFromList\(\)](DocumentListServiceBothAPI.md#) method to create documents from the document template list.
 
 |Name|Type|Description|
 |----|----|-----------|
-|doc|[SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocumentList constructor or name\(\) method.|
+|doc|[SystemDocumentList](SystemDocumentListBothAPI.md#)|One or more properties representing fields of a new record. The name property is required and can be set using the SystemDocumentList constructor or name\(\) method.|
 
 <table id="table_tj4_p5j_34b" class="returns"><thead><tr><th>
 

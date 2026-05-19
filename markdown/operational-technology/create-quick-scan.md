@@ -50,7 +50,7 @@ A Quick Scan has fewer options to choose from, but it also runs quickly at appro
 
 8.  Select a **Scan Type**.
 
-    You can choose from the Simplified Query Type selection or toggle the **Advanced** button and select from the advanced query types. See the [Auto Query page](../../auto-query-console.md) for additional information about Query Types.
+    You can choose from the Simplified Query Type selection or toggle the **Advanced** button and select from the advanced query types. See the [Auto Query page](auto-query-console.md) for additional information about Query Types.
 
 9.  On the Confirmation page, select the **Run Quick Scan** button to start the scan.
 

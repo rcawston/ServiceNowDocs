@@ -28,7 +28,7 @@ The Transformer API performs the actual data transformation, one data entity at 
 
 You can use the TransformerDefinition class in both scoped and global server scripts. When using this class, use the `sn_tfrm` namespace identifier. Also, before this API is available in an instance, you must activate the Transformation Service plugin \(com.glide.transform\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TransformerDefinition - TransformerDefinition\(Object transformerRuleList, String recordPath\)
 

@@ -27,5 +27,5 @@ The following data is collected in the HP Operations Manager `[cmdb_ci_appl_hp_o
 |-----|----------|
 |Name|name|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

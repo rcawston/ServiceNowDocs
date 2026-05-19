@@ -69,5 +69,5 @@ Work on a personal insurance underwriting task to evaluate the policy request an
 -   **[Work on a document task to verify documents for a policy service case](work-document-task-ins-policy-ops.md)**  
 Work on a document task to manage and track documents \(inbound and outbound\) that are needed for a policy service case.
 
-**Parent Topic:**[Using Personal Lines Servicing](../concept/using-financial-services-insurance-policy-operations.md)
+**Parent Topic:**[Using Personal Lines Servicing](using-financial-services-insurance-policy-operations.md)
 

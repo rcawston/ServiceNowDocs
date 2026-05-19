@@ -32,5 +32,5 @@ Role required: sn\_hr\_core.admin
 3.  Click New Probe to report on a table or setup aspect in the HR Service Delivery system.
 
 
-**Parent Topic:**[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
 

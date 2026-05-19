@@ -65,7 +65,7 @@ An AI generated email draft is created.
 
 [Generate an email response for supplier tasks](generate-email-response-for-supplier-tasks.md)
 
-[Automate supplier case creation from emails](../concept/automated-supplier-case-creation-from-emails.md)
+[Automate supplier case creation from emails](automated-supplier-case-creation-from-emails.md)
 
 [Analyze sentiments in supplier cases](slo-analyze-sentiments.md)
 

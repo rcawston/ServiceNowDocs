@@ -48,5 +48,5 @@ You can attach supporting documents only when the State is Draft or Work in prog
     The selected file is attached and listed in the Supporting Documents related list.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

@@ -60,5 +60,5 @@ This example tests the data policy that sets the field **Assignment Group** to *
     ![Test Step form for Field State Validation.](../image/atf-use-data-policy-07.png "Step 5 - Field State Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](atf-use-cases.md)
 

@@ -69,7 +69,7 @@ Select this option to create an independent audit. 1.  In the **Regulatory audit
 
     Enter details such as the audit scope, its goals, regulation for the audit, and a start and end date.
 
-    For information on audit field descriptions, see [Audit schedule form](../reference/hs-audit-schedule-form.md).
+    For information on audit field descriptions, see [Audit schedule form](hs-audit-schedule-form.md).
 
 6.  In the **People involved** tab, add people involved in this audit and their responsibilities.
 
@@ -82,13 +82,13 @@ Select this option to create an independent audit. 1.  In the **Regulatory audit
 8.  In the **Documents** tab, add standards and documents used to benchmark findings.
 
     -   Select **Add** to add an existing document from Health and Safety document library.
-    -   Select **New** to upload a new document. For field descriptions, see [Health and Safety document version form](../../ohs-incident-management/reference/hs-document-form.md).
+    -   Select **New** to upload a new document. For field descriptions, see [Health and Safety document version form](../health-and-safety-core/hs-document-form.md).
 9.  In the **Audit questionnaires** tab, add and assign smart assessments or surveys to be conducted as part of this audit.
 
-    If the audit is part of an audit schedule with an associated audit questionnaire, that questionnaire is automatically added to the audit record. For information on audit questionnaire field descriptions, see [Audit questionnaire form](../reference/hs-audit-survey-form.md).
+    If the audit is part of an audit schedule with an associated audit questionnaire, that questionnaire is automatically added to the audit record. For information on audit questionnaire field descriptions, see [Audit questionnaire form](hs-audit-survey-form.md).
 
     -   The assigned user receives a notification to complete the smart assessment or survey.
-    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../../hs-health-safety-mobile/task/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
+    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
     -   A survey can be completed either through the Employee Center or on the mobile app. For more information, see [Complete a survey from the Employee Center](hs-complete-safety-insp-survey.md).
 10. Conduct the audit and gather evidence as part of the audit, for example, document assessments, interviews, and observations.
 
@@ -100,7 +100,7 @@ Select this option to create an independent audit. 1.  In the **Regulatory audit
 
         For more information, see [Add a finding for a review item in a safety audit](hs-add-finding-rca-safety-audit.md).
 
-        **Note:** Safety auditors can also create actions and findings for specific questions while completing a smart assessment in the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. The finding then appears in this tab in the workspace. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
+        **Note:** Safety auditors can also create actions and findings for specific questions while completing a smart assessment in the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. The finding then appears in this tab in the workspace. For more information, see [Create actions and findings for the smart assessment questionnaire from mobile app](../health-and-safety/hs-create-actions-findings-smart-assessments.md).
 
     3.  In the **Risk assessments** tab, select **New** to conduct a risk assessment as part of this audit.
 
@@ -148,11 +148,11 @@ If needed, generate a report for the safety audit.
 
 1.  Select **Generate report**.
 
-    **Note:** The **Generate report** button appears only when the Audit \[sn\_hs\_rm\_audit\] table is enabled for report field mapping. For more information, see [Enable a Health and Safety table for configuring report field mapping](../../ohs-incident-management/task/enable-hs-table-report-field-mapping.md).
+    **Note:** The **Generate report** button appears only when the Audit \[sn\_hs\_rm\_audit\] table is enabled for report field mapping. For more information, see [Enable a Health and Safety table for configuring report field mapping](../health-and-safety-core/enable-hs-table-report-field-mapping.md).
 
 2.  In the **Generate report** dialog box, select a report mapping in the **Select report** field.
 
-    Only the report mapping forms created and published for the Audit \[sn\_hs\_rm\_audit\] table are available to select in the **Select report** field. For more information, see [Create a safety report field mapping for generating reports](../../ohs-incident-management/task/create-safety-report-field-mapping.md).
+    Only the report mapping forms created and published for the Audit \[sn\_hs\_rm\_audit\] table are available to select in the **Select report** field. For more information, see [Create a safety report field mapping for generating reports](../health-and-safety-core/create-safety-report-field-mapping.md).
 
 3.  Select **Generate**.
 
@@ -171,5 +171,5 @@ When completed, submit the safety audit, finding, or action for approval and sta
 -   **[Record safety audit results and compare with previous audits](hs-review-results-compare-with-previous-audits.md)**  
 Record the audit result and outcomes and compare them with previous audits to identify trends and track progress over time.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

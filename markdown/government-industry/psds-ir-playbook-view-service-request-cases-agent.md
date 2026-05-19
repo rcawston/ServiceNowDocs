@@ -41,6 +41,6 @@ When you select a case, a form opens with the following sections:
     |My Open|Open cases assigned to the information request case agent.|
     |Unassigned for my group|Cases that belong to any of the information request case agent's groups but haven't been assigned to an agent.|
 
-    For a detailed description of the fields under each list, see [Information Request case form](../reference/information-request-case-form.md#).
+    For a detailed description of the fields under each list, see [Information Request case form](information-request-case-form.md#).
 
 

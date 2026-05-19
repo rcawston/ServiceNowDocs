@@ -17,7 +17,7 @@ The ExpenseAllocation script include is used by various cost management processe
 
 This script include requires the Cost Management \(com.snc.cost\_management\) plugin.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ExpenseAllocation - ExpenseAllocation\(GlideRecord expense, GlideRecord rule\)
 

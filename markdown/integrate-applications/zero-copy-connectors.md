@@ -41,7 +41,7 @@ Watch this short video to learn more about the Zero Copy Connectors application.
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and domain separation.](../reference/reference-zcc.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and domain separation.](reference-zcc.md)
 
 </td></tr></tbody>
 </table>

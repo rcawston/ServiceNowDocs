@@ -19,11 +19,11 @@ Search applications display auto-complete suggestions and search suggestions as 
 
 AI Search applications display auto-complete suggestions created by the Build Search Suggestions script. Auto-complete suggestions appear as you enter terms into the application's search field. You can select an auto-complete suggestion to accept it as your search query.
 
-To learn more about auto-complete suggestion usage and configuration in AI Search applications, see [Auto-complete suggestions in AI Search applications](../../ai-search/concept/auto-complete-ais.md#).
+To learn more about auto-complete suggestion usage and configuration in AI Search applications, see [Auto-complete suggestions in AI Search applications](../ai-search/auto-complete-ais.md#).
 
 ## Using Search Suggestions in Zing text indexing and search engine
 
 Zing displays search suggestions created by the Build Search Suggestions script. Search suggestions appear as you enter terms into the Zing search field. You can select a search suggestion to accept it as your search.
 
-For more details on how search suggestions appear in Zing, see [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md).
+For more details on how search suggestions appear in Zing, see [Zing displays search suggestions as users enter search terms](../search-administration/search-suggestions-zing.md).
 

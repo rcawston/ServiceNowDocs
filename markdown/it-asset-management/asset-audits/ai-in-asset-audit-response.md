@@ -24,7 +24,7 @@ The ServiceNow AI Platform now brings you a new AI experience with three licensi
 
 For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-For more information about AI capabilities in Asset Audit Response, see [Fulfill evidence requests through the Asset Response Guided Experience](../task/fulfill-evidence-requests-guided-experience.md).
+For more information about AI capabilities in Asset Audit Response, see [Fulfill evidence requests through the Asset Response Guided Experience](fulfill-evidence-requests-guided-experience.md).
 
 For information about AI assets that are available on the ServiceNow AI Platform, see the following topics:
 

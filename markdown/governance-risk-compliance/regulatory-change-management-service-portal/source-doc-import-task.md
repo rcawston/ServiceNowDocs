@@ -28,9 +28,9 @@ The source document import life cycle starts from the regulatory alert record. W
 
 Users can view the import document task in the Ready to Import state, evaluate the citation associated with the alert, and decide the future course of action for the import document task.
 
--   **[Users, associated actions, and states for the source document import tasks](../reference/import-doc-tasks-users-actions.md)**  
+-   **[Users, associated actions, and states for the source document import tasks](import-doc-tasks-users-actions.md)**  
 Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user, or sn\_grc\_reg\_change.admin role can view and perform certain actions on the source document import tasks.
--   **[Manage the source document import tasks](../task/manage-source-document-import-tasks.md)**  
+-   **[Manage the source document import tasks](manage-source-document-import-tasks.md)**  
 Manage the source document tasks, the associated source document alerts, and other relevant details in the Regulatory Change Tasks module. Use these tasks to identify and comply with the source document changes.
 
 **Parent Topic:**[Regulatory Change Management Core UI](using-rcm-classic-ui.md)

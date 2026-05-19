@@ -51,7 +51,7 @@ The JSON record can be viewed, but not edited. To learn more about viewing the J
 
 Agents can still open playbooks to see historical data, such as why a playbook was canceled or who an activity was assigned to.
 
-Flow context \(`sys_flow_context`\) records are also deleted automatically 2 weeks after completion. For more information about flow data retention, see [Flow execution details retention](../../flow-designer/concept/flow-reporting.md).
+Flow context \(`sys_flow_context`\) records are also deleted automatically 2 weeks after completion. For more information about flow data retention, see [Flow execution details retention](flow-reporting.md).
 
 ## Procedure
 
@@ -86,5 +86,5 @@ Turn off the automatic archiving of context records for your complete and cancel
 -   **[View archived process contexts](view-archived-process-executions.md)**  
 Configure the form layout for a process execution so that you can see the JSON record for archived context records.
 
-**Parent Topic:**[Administering Playbooks](../concept/administering-process-automation-designer.md)
+**Parent Topic:**[Administering Playbooks](administering-process-automation-designer.md)
 

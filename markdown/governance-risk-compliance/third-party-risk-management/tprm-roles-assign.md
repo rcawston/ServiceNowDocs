@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The roles discussed in this procedure are described in [Roles in Third-party Risk Management](../reference/tprm-roles.md).
+The roles discussed in this procedure are described in [Roles in Third-party Risk Management](tprm-roles.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 
     1.  In the search field for the **Collection** list, enter `sn_vdr` to view the list of roles that relate to the TPRM application.
 
-        TPRM roles are described in [Roles in Third-party Risk Management](../reference/tprm-roles.md).
+        TPRM roles are described in [Roles in Third-party Risk Management](tprm-roles.md).
 
     2.  Move the roles that are appropriate for the group from the **Collection** list to the **Roles** list and then select **Save**.
 
@@ -49,7 +49,7 @@ The roles discussed in this procedure are described in [Roles in Third-party Ris
 **Related topics**  
 
 
-[Roles in Third-party Risk Management](../reference/tprm-roles.md)
+[Roles in Third-party Risk Management](tprm-roles.md)
 
-[TPRM and the Explicit Roles plugin](../../grc-vendor-risk/concept/vrm-and-explicit-roles-plugin.md)
+[TPRM and the Explicit Roles plugin](vrm-and-explicit-roles-plugin.md)
 

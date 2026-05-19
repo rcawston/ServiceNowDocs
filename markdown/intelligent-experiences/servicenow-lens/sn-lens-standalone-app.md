@@ -239,9 +239,9 @@ The ServiceNow AI Lens preview window displays the files that you've uploaded
 **Related topics**  
 
 
-[Supporting information for ServiceNow AI Lens](../concept/sn-lens-supporting-info.md)
+[Supporting information for ServiceNow AI Lens](sn-lens-supporting-info.md)
 
-[ServiceNow AI Lens limitations](../reference/sn-lens-limitations.md)
+[ServiceNow AI Lens limitations](sn-lens-limitations.md)
 
 [Create a record in an instance by using ServiceNow AI Lens](create-record-sn-lens.md)
 

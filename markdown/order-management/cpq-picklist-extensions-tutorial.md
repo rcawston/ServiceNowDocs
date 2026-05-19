@@ -88,13 +88,13 @@ Role required: Admin
 
 19. Add the picklist extension field to the layout via the Logik Admin UI or by CSV upload, and deploy.
 
-    For more information, see [Displaying a picklist extension on a layout](../concept/csv_layouts_how_do_i_display_a_picklist_extension.md).![Picklist extensions](../images/cpq-picklist-extensions-ples-5.png)
+    For more information, see [Displaying a picklist extension on a layout](csv_layouts_how_do_i_display_a_picklist_extension.md).![Picklist extensions](../images/cpq-picklist-extensions-ples-5.png)
 
 
 **Related topics**  
 
 
-[Displaying a picklist extension on a layout](../concept/csv_layouts_how_do_i_display_a_picklist_extension.md)
+[Displaying a picklist extension on a layout](csv_layouts_how_do_i_display_a_picklist_extension.md)
 
-[Picklists and picklist extensions in rules](../concept/cpq-picklists-and-picklist-extensions-in-rules.md)
+[Picklists and picklist extensions in rules](cpq-picklists-and-picklist-extensions-in-rules.md)
 

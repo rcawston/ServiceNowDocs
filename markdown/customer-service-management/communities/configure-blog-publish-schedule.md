@@ -38,5 +38,5 @@ The default interval for publishing blogs is 30 minutes. You can configure a sho
 4.  Click **Update**.
 
 
-**Parent Topic:**[Community content types](../concept/c_communities-content-types.md)
+**Parent Topic:**[Community content types](c_communities-content-types.md)
 

@@ -107,12 +107,12 @@ Option that indicates whether the distribution channel is active for sourcing as
 -   The distribution channel is added to the list shown in the **Distribution Channel** tab.
 -   The base stockroom is added as an outbound distribution channel for the channel stockroom. The **Function** field of the base stockroom is set to **Outbound**.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 
 **Related topics**  
 
 
-[Create a transfer order from a request](../../procurement/task/t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](../procurement/t_CreatingTransferOrderFromReq.md)
 
-[Source requests from local stockrooms](../../procurement/task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](../procurement/consume-local-asset-stock.md)
 

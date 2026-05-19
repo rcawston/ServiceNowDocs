@@ -17,7 +17,7 @@ You can use a Service Graph Connector to import and integrate third-party data i
 
 **Important:** Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/integrations%3FfreeTrial=service_graph_certified) website to view the latest list of all Service Graph Connectors.
 
-To learn more, see [Getting started with Service Graph Connectors](cmdb-sgc-intro.md).
+To learn more, see [Getting started with Service Graph Connectors](../configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 Select an application to learn about the Service Graph Connector available for ingesting data from the application into your CMDB.
 
@@ -110,23 +110,23 @@ Select an application to learn about the Service Graph Connector available for i
 
 </td><td>
 
-[Microsoft Active Directory![Microsoft Active Directory logo.](../image/sgc-active-directory.png)](../../secops-integration-vr/ad-SGCs/concept/sgc-ad-integration.md)
+[Microsoft Active Directory![Microsoft Active Directory logo.](../image/sgc-active-directory.png)](sgc-ad-integration.md)
 
 </td><td>
 
-[Netskope![Netskope logo](../image/sgc-netskope.png)](../../secops-integration-vr/netskope-SGCs/concept/sgc-netskope-integration.md)
+[Netskope![Netskope logo](../image/sgc-netskope.png)](sgc-netskope-integration.md)
 
 </td></tr><tr><td>
 
-[Qualys![Qualys logo.](../image/sgc-qualys.png)](../../secops-integration-vr/qualys-SGCs/concept/sgc-qualys-integration.md)
+[Qualys![Qualys logo.](../image/sgc-qualys.png)](sgc-qualys-integration.md)
 
 </td><td>
 
-[Rapid7![Rapid 7 logo.](../image/sgc-rapid7.png)](../../secops-integration-vr/rapid7-SGCs/concept/sgc-rapid7-integration.md)
+[Rapid7![Rapid 7 logo.](../image/sgc-rapid7.png)](sgc-rapid7-integration.md)
 
 </td><td>
 
-[Splunk![Splunk logo](../image/sgc-splunk.png)](../../secops-integration-vr/splunk-SGCs/concept/sgc-splunk-integration.md)
+[Splunk![Splunk logo](../image/sgc-splunk.png)](sgc-splunk-integration.md)
 
 </td></tr><tr><td>
 

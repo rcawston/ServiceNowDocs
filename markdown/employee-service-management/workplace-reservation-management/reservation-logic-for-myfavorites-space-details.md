@@ -33,24 +33,24 @@ The same selection criteria for reservation modules is applied in this case as w
 -   If **Recurring** is allowed for multiple modules, system checks for and assigns the reservable modules where **Allows all day** reservation is allowed.
 -   If **Recurring** is allowed and **All day** is also set, then, system selects a reservable module where **All day** is not mandatory.
 
-For more information, see [Configure a reservable module](../task/config-reservable-module.md).
+For more information, see [Configure a reservable module](config-reservable-module.md).
 
 **Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Reservation Management](../reference/components-installed-with-wsd-reservation-mgmt.md)
+[Components installed with Workplace Reservation Management](components-installed-with-wsd-reservation-mgmt.md)
 
-[Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md)
+[Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
 
 [Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
-[Proximity calculation when browsing near a person](../reference/proximity-calculation-for-browse-near-person.md)
+[Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
 
-[Mobile push notifications for workplace reservations](../reference/reservation-push-notifications.md)
+[Mobile push notifications for workplace reservations](reservation-push-notifications.md)
 
-[Location privacy settings and impact](../reference/location-privacy-settings-and-impact.md)
+[Location privacy settings and impact](location-privacy-settings-and-impact.md)
 
-[Additional details record producer - Mapping Variable types and limitations](../reference/custom-fields-record-producer-mapping-variable-type-conditions.md)
+[Additional details record producer - Mapping Variable types and limitations](custom-fields-record-producer-mapping-variable-type-conditions.md)
 

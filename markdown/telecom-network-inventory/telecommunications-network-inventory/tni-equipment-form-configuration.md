@@ -90,10 +90,10 @@ Storage size of the device, in gigabytes. For example, 2.5 GB.
 </td></tr></tbody>
 </table>**Note:** To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](commonly-used-tni-configuration-fields.md).
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[f096434d5d52ea0b4205a1c964517c17cae96d71.dita](../task/define-tni-equipment.md)
+[f096434d5d52ea0b4205a1c964517c17cae96d71.dita](define-tni-equipment.md)
 

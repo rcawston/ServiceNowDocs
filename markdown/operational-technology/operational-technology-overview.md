@@ -61,59 +61,59 @@ See the [solution brief](https://www.servicenow.com/content/dam/servicenow-asset
 
 ## Applications
 
--   [Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)
+-   [Operational Technology Manager](operational-technology-manager/operational-technology-manager.md)
 
     Creates the foundational data and relationships that enable your organization to use the ServiceNow® OT solution.
 
--   [Operational Technology \(OT\) Manager Foundation](../../now-assist-otm/concept/now-assist-for-otm-landing.md)
+-   [Operational Technology \(OT\) Manager Foundation](now-assist-for-otm-landing.md)
 
     Helps streamline processes in the Industrial Workspace related to your OT device data.
 
--   [Operational Technology Discovery](../../operational-technology-discovery/concept/operational-technology-discovery-landing.md)
+-   [Operational Technology Discovery](operational-technology-discovery-landing.md)
 
     Amplifies the visibility of devices in your OT environment.
 
--   [Industrial Process Manager](../../mftg-manufacturing-process-mgr/concept/industrial-process-manager-overview.md)
+-   [Industrial Process Manager](industrial-process-manager/industrial-process-manager-overview.md)
 
     Creates the ISA-95 Equipment Model data foundation required for the ServiceNow® OT solution.
 
--   [Operational Technology Vulnerability Response](../../mftg-manufacturing-ot-vulnerability-response/concept/oper-tech-vulnerability-response-landing-page.md)
+-   [Operational Technology Vulnerability Response](operational-technology-vulnerability-response/oper-tech-vulnerability-response-landing-page.md)
 
     Enables effective prioritization and remediation of OT device vulnerabilities at the site level.
 
--   [Operational Technology Incident Management](../../mftg-manufacturing-ot-service-mgt/concept/operational-technology-incident-management-landing-page.md)
+-   [Operational Technology Incident Management](operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 
     Enables manufacturers to manage OT device incidents from open to closure.
 
--   [Operational Technology Change Management](../../mftg-manufacturing-ot-service-mgt/concept/operational-technology-change-management-landing-page.md)
+-   [Operational Technology Change Management](operational-technology-change-management/operational-technology-change-management-landing-page.md)
 
     Enables your organization to implement changes to OT devices and production processes.
 
--   [Operational Technology Knowledge Management](../../mftg-manufacturing-ot-knowledge/concept/operational-technology-knowledge-management-landing-page.md)
+-   [Operational Technology Knowledge Management](operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md)
 
     Helps you collect, organize, and share knowledge about your OT system, its devices, and the resolved incidents within your organization.
 
--   [Operational Technology Request Management](../../operational-technology-request-management/concept/operational-technology-request-management-landing-page.md)
+-   [Operational Technology Request Management](operational-technology-request-management/operational-technology-request-management-landing-page.md)
 
     Lets you request catalog items and fulfill them based on the defined flows.
 
--   [Recommended Actions for Operational Technology Service Management \(OTSM\)](../../operational-technology-recommended-actions/concept/recommended-actions-for-otsm.md)
+-   [Recommended Actions for Operational Technology Service Management \(OTSM\)](recommended-actions-for-otsm/recommended-actions-for-otsm.md)
 
     Allows you to set up and apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the Industrial Workspace.
 
--   [AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](../../ot-ai-enhanced-recommended-actions/reference/ai-enhanced-ra-otsm-landing.md)
+-   [AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](ai-enhanced-ra-otsm-landing.md)
 
     Accesses external sources related to an OT incident, and contextualizes how the document is relevant to the incident.
 
--   [Now Assist for Operational Technology Service Management \(OTSM\)](../../now-assist-otsm/concept/now-assist-for-operational-technology-service-management.md)
+-   [Now Assist for Operational Technology Service Management \(OTSM\)](now-assist-for-operational-technology-service-management.md)
 
     Summarizes OT incident information and generates incident resolution notes.
 
--   [Employee Center for OT](../../ot-service-portal/concept/ot-employee-portal-landing.md)
+-   [Employee Center for OT](ot-employee-portal-landing.md)
 
     Central location where you can submit requests related to OT and industrial services.
 
--   [Industrial Workspace for Operational Technology](industrial-workspace-for-operational-technology.md)
+-   [Industrial Workspace for Operational Technology](industrial-workspace/industrial-workspace-for-operational-technology.md)
 
     User interface that provides you with the tools you need to manage your OT data.
 
@@ -125,15 +125,15 @@ See the [solution brief](https://www.servicenow.com/content/dam/servicenow-asset
 
 -   Watch features demonstrated via [DemoNow](https://www.servicenow.com/lpdem/demonow.html).
 -   For information on how to request and set up Operational Technology, see
-    -   [Configuring the Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/configuring-operational-technology-manager.md)
-    -   [Configuring the OT Manager Foundation](../../now-assist-otm/concept/configuring-na-otm.md)
-    -   [Configuring the Industrial Process Manager](../../mftg-manufacturing-process-mgr/concept/configuring-manufacturing-process-mgr.md)
-    -   [Configuring Operational Technology Vulnerability Response](../../mftg-manufacturing-ot-vulnerability-response/concept/configuring-oper-tech-vulnerability-response.md)
-    -   [Configuring Operational Technology Incident Management](../../mftg-manufacturing-ot-service-mgt/concept/configuring-operational-technology-incident-mgt.md)
-    -   [Configuring Operational Technology Change Management](../../mftg-manufacturing-ot-service-mgt/concept/configuring-operational-technology-change-request.md)
-    -   [Configuring Operational Technology Knowledge Management](../../mftg-manufacturing-ot-knowledge/concept/configuring-operational-technology-knowledge-management.md)
-    -   [Configuring Operational Technology Request Management](../../operational-technology-request-management/concept/configuring-operational-technology-request-management.md)
-    -   [Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](../../operational-technology-recommended-actions/concept/configuring-recommended-actions-otsm.md)
--   For more information about how Operational Technology manages and uses Common Service Data Model tables, see [Operational Technology and CSDM tables](../csdm-implementation/reference/ot-use-case.md).
+    -   [Configuring the Operational Technology Manager](operational-technology-manager/configuring-operational-technology-manager.md)
+    -   [Configuring the OT Manager Foundation](configuring-na-otm.md)
+    -   [Configuring the Industrial Process Manager](industrial-process-manager/configuring-manufacturing-process-mgr.md)
+    -   [Configuring Operational Technology Vulnerability Response](operational-technology-vulnerability-response/configuring-oper-tech-vulnerability-response.md)
+    -   [Configuring Operational Technology Incident Management](operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
+    -   [Configuring Operational Technology Change Management](operational-technology-change-management/configuring-operational-technology-change-request.md)
+    -   [Configuring Operational Technology Knowledge Management](operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
+    -   [Configuring Operational Technology Request Management](operational-technology-request-management/configuring-operational-technology-request-management.md)
+    -   [Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](recommended-actions-for-otsm/configuring-recommended-actions-otsm.md)
+-   For more information about how Operational Technology manages and uses Common Service Data Model tables, see [Operational Technology and CSDM tables](operational-technology-manager/ot-use-case.md).
 -   For more information about the latest releases for Operational Technology, see [ServiceNow Store - Operational Technology release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/manufacturing/store-rn-manufacturing-highlights.html).
 

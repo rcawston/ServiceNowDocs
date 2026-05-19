@@ -101,14 +101,14 @@ For rare cases of rediscovering a specific CI that causes discovery errors frequ
 </td></tr></tbody>
 </table>Part of discovering an application CI is identifying its host. Service Mapping checks if the device hosting this application CI exists in the CMDB. For a load balancer service, Service Mapping checks if the load balancing device hosting this load balancer service exists in the CMDB. If not, Service Mapping triggers Discovery to perform the horizontal discovery. As a result, Discovery performs host detection and updates the information on hosts in the CMDB. If necessary, you can manage the schedules that trigger horizontal discovery as described in:
 
--   [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#) — for standard horizontal discovery.
--   [Create a schedule for standard serverless Discovery](../../discovery/task/create-pattern-for-serverless.md#) — for discovering CIs using a protocol such as REST, without using the IP address of any devices or hosts.
--   [Create a schedule for host-based serverless Discovery](../../discovery/task/create-pattern-for-proxy-serverless.md#) — for discovering CIs that reside on an already discovered host using this host as a Proxy server.
+-   [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#) — for standard horizontal discovery.
+-   [Create a schedule for standard serverless Discovery](../discovery/create-pattern-for-serverless.md#) — for discovering CIs using a protocol such as REST, without using the IP address of any devices or hosts.
+-   [Create a schedule for host-based serverless Discovery](../discovery/create-pattern-for-proxy-serverless.md#) — for discovering CIs that reside on an already discovered host using this host as a Proxy server.
 
-**Parent Topic:**[Schedule a top-down discovery by Service Mapping](../task/t_CreateDiscoSchedForCITypes.md)
+**Parent Topic:**[Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
 
 **Related topics**  
 
 
-[Schedule a top-down discovery by Service Mapping](../task/t_CreateDiscoSchedForCITypes.md)
+[Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
 

@@ -27,5 +27,5 @@ Role required: ais\_admin
 2.  Select the relevant resource link.
 
 
-**Parent Topic:**[Using AI Search Admin console](../concept/using-ais-admin-console.md)
+**Parent Topic:**[Using AI Search Admin console](using-ais-admin-console.md)
 

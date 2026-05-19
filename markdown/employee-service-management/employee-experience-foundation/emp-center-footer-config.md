@@ -23,13 +23,13 @@ You can configure the footer to display the following information about your com
 -   Privacy policy
 -   Social media handles
 
--   **[Configure the footer](../task/configure-the-employee-center-footer.md)**  
+-   **[Configure the footer](configure-the-employee-center-footer.md)**  
 Configure the footer in Employee Center or Employee Center Pro to display your company's corporate office address, email address, and so on.
--   **[Configure the footer menus](../task/config-emp-center-footer-menus.md)**  
+-   **[Configure the footer menus](config-emp-center-footer-menus.md)**  
 Footer menus enable you to create menus and associate links to internal and external resources under each menu.
--   **[Footer form](../reference/ec-footer-form.md)**  
+-   **[Footer form](ec-footer-form.md)**  
 Use the Footer form to create a new footer that you want to appear in the Employee Center or Employee Center Pro.
--   **[Footer Menus form](../reference/ec-footer-menus.md)**  
+-   **[Footer Menus form](ec-footer-menus.md)**  
 Use the Footer Menus form to create a new footer menu that you want to appear on your Employee Center or Employee Center Pro.
 
 **Parent Topic:**[Employee Center admin configurations](configure-ec-portal.md)
@@ -41,19 +41,19 @@ Use the Footer Menus form to create a new footer menu that you want to appear on
 
 [Employee Center roles](emp-center-personas.md)
 
-[Migrate to Employee Center from Service Portal](../task/migrate-sp-to-ec.md)
+[Migrate to Employee Center from Service Portal](migrate-sp-to-ec.md)
 
 [Post installation troubleshooting](post-install-steps.md)
 
-[Customize Employee Center portal theme](../task/customize-theme.md)
+[Customize Employee Center portal theme](customize-theme.md)
 
-[Modify email notification layout](../task/activate-notification-template.md)
+[Modify email notification layout](activate-notification-template.md)
 
 [Enable support for right-to-left languages](ec-direction-right-to-left-languages.md)
 
 [Employee Center global header](config-global-header.md)
 
-[Configure widget heading levels for accessibility](../task/config-heading-widget-instance.md)
+[Configure widget heading levels for accessibility](config-heading-widget-instance.md)
 
 [Employee live chat overview](employee-center-chat-configuration.md)
 

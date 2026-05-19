@@ -36,7 +36,7 @@ You can use a connector instance to receive the events coming from external sour
 
 3.  On the **Push Connector Instance** form, fill in the fields.
 
-    For more details, see [Push connector instance form](../reference/push-connector-instance-form.md).
+    For more details, see [Push connector instance form](push-connector-instance-form.md).
 
 4.  Select **Submit** or **Update**.
 

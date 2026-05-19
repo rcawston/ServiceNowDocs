@@ -52,5 +52,5 @@ Role required: safe\_scrum\_master
 2.  To add a record to the triage definition, click **New**.
 3.  To move a record from the triage board to the **Backlog** tab, click **Add to Backlog**.
 
-**Parent Topic:**[SAFe — Unified Backlog](../concept/safeunified-backlog.md)
+**Parent Topic:**[SAFe — Unified Backlog](safeunified-backlog.md)
 

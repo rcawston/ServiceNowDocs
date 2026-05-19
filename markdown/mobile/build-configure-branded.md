@@ -19,8 +19,8 @@ Most app configuration processes for branded apps are the same as non-branded ap
 
 To use push notifications for your branded apps, you must change your push application settings.
 
--   For iOS apps, see [Configure push applications for iOS branded apps using certificate based authentication](../task/sg-push-setup-ios.md).
--   For Android apps, see [Configure push applications for Android branded apps using HTTP v1](../task/config-push-setup-android-httpv1.md).
+-   For iOS apps, see [Configure push applications for iOS branded apps using certificate based authentication](sg-push-setup-ios.md).
+-   For Android apps, see [Configure push applications for Android branded apps using HTTP v1](config-push-setup-android-httpv1.md).
 
 -   **[Create custom-type mobile apps with Mobile Publishing](mob-pub-about-custom-apps.md)**  
 Request and create custom-type mobile apps that are equivalent to Mobile Agent and Now® Mobile apps with Mobile Publishing and Mobile App Builder.

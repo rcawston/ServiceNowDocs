@@ -123,10 +123,10 @@ Description
 Optional description of the opportunity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+</table>**Parent Topic:**[Activity Management reference](activity-management-reference.md)
 
 **Related topics**  
 
 
-[Associate an email with an existing CRM record](../task/associate-email-crm-outlook.md)
+[Associate an email with an existing CRM record](associate-email-crm-outlook.md)
 

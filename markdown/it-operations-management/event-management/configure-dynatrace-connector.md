@@ -17,7 +17,7 @@ Configure the Dynatrace connector instance to receive Metric Intelligence raw da
 
 ## Before you begin
 
-To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 
 -   Create an access token in Dynatrace with Read Metrics \(metrics.read\) scope permissions, to enable fetching metric data. This token is used in the connector to call the Dynatrace REST API.
 -   Configure the Service graph connector for Dynatrace. This is configured in the instance and discovers Dynatrace CIs. For details on configuring this connector, see [Configure Service Graph Connector for Observability - Dynatrace using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-dynatrace-integration.md).
@@ -41,7 +41,7 @@ Configure other entity metrics for collection when creating event rules for CI b
 
 2.  Select **New** and create a connector instance.
 
-    For details on the connector instance fields displayed on the page, see [Dynatrace connector instance form](../reference/dynatrace-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [Dynatrace connector instance form](dynatrace-connector-instance-form.md).
 
 3.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -49,7 +49,7 @@ Configure other entity metrics for collection when creating event rules for CI b
 
 4.  In the Connector Instance Values section, you can edit the values of the mandatory Dynatrace parameters.
 
-    For details on the connector instance value parameters, see [Dynatrace connector instance value parameters](../reference/dynatrace-connector-instance-value-parameters.md).
+    For details on the connector instance value parameters, see [Dynatrace connector instance value parameters](dynatrace-connector-instance-value-parameters.md).
 
 5.  In the MID Servers for Connectors section, add a MID Server for the Dynatrace connector to use.
 

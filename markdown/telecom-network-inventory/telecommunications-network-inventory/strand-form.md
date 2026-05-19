@@ -283,10 +283,10 @@ Operational status
 Operational status of the network inventory asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Define the strand details](../task/define-strand.md)
+[Define the strand details](define-strand.md)
 

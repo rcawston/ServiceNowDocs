@@ -224,5 +224,5 @@ Create a subgroup to add child asset groups to an asset group.
 -   **[Add assets to an asset group or subgroup](add-assets-assetgroups.md)**  
 Add existing assets to an asset group or a subgroup.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

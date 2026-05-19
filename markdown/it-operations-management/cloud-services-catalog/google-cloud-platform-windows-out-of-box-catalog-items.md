@@ -69,5 +69,5 @@ The key-value is updated only in the cmdb\_key\_value table, not in public cloud
 -   **[CSC GCP Windows OOB permissions](gcp-windows-oob-permissions.md)**  
 Google Cloud Platform Windows Out Of Box permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](out-of-the-box-catalog-items.md)
 

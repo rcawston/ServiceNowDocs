@@ -36,7 +36,7 @@ When applying a template to a project, the project state is set to the default s
 4.  Select **OK**.
 
 
-**Parent Topic:**[Applying templates to projects](../concept/c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](c_ProjectTemplates.md)
 
 **Related topics**  
 
@@ -49,7 +49,7 @@ When applying a template to a project, the project state is set to the default s
 
 [Apply template to an existing project](apply-multiple-templates-prj.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](c_ProjectTemplateConfiguration.md)
 
 [Starting a project](t_CreateAProject.md)
 

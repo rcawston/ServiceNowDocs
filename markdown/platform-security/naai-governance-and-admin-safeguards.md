@@ -52,7 +52,7 @@ The following topics describe how to use the Now Assist Readiness Evaluation app
 
 Domain separation lets you isolate data and processes across multiple business units or tenants on a single ServiceNow instance. The following topics describe domain separation support across Now Assist products.
 
--   **[Exploring domain separation](../../company-and-domain-separation/concept/c_DomainSeparation.md)**
+-   **[Exploring domain separation](c_DomainSeparation.md)**
 
     Understand how domain separation works on the ServiceNow AI Platform and how to configure it to keep data isolated across your organization.
 

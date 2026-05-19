@@ -42,12 +42,12 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 The supplier performance dashboard is displayed with information on the latest scores of the supplier.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 [Run segmentation rule](run-segmentation-rule.md)
 

@@ -20,7 +20,7 @@ Configure a connection to send requests for OAuth 2.0 tokens to a third-party au
 Verify the following items.
 
 -   Confirm that you have subscribed to the ServiceNow IntegrationHub Standard Pack Installer. For more information, see [https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
--   You have created a JAR file that enables the MID Server to resolve credentials with the CyberArk external vault. See [Create a JAR file to resolve credentials](../concept/external_cred_storage_configuration.md#).
+-   You have created a JAR file that enables the MID Server to resolve credentials with the CyberArk external vault. See [Create a JAR file to resolve credentials](external_cred_storage_configuration.md#).
 -   You have imported the JAR file to the MID Server.
 -   The MID Server is set up for CyberArk. See [Configure the MID Server for CyberArk AIM](t_ConfigureTheMIDServerForCyberArk.md).
 -   OAuth 2.0 are configured on the CyberArk external storage. See [Configure OAuth 2.0 credentials on CyberArk](configure-oauth-2-0-credentials-on-cyberark.md).
@@ -501,5 +501,5 @@ Option to specify a MID application or accept the default application choice.**N
         ![OAuth 2.0 connection record is created.](../image/manual-connection-created.png)
 
 
-**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](../concept/oauth-2-0-support-in-external-credential.md)
+**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](oauth-2-0-support-in-external-credential.md)
 

@@ -60,12 +60,12 @@ Actions
 3.  Select **New**.
 4.  In the form, fill in the fields according to the form description.
 
-For description of the form fields, see [Google API Credentials Form](../reference/google-api-credentials-form.md).
+For description of the form fields, see [Google API Credentials Form](google-api-credentials-form.md).
 
 5.  Select **Submit**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Set up Google Cloud Platform service accounts](../../it-operations-management/concept/set-up-gcp-service-accounts.md)
+**Parent Topic:**[Set up Google Cloud Platform service accounts](set-up-gcp-service-accounts.md)
 

@@ -30,7 +30,7 @@ This field type is typically used for long text fields, up to 65,000 characters 
 **Related topics**  
 
 
-[Translating text fields](../concept/c_UseTranslatedText.md#)
+[Translating text fields](c_UseTranslatedText.md#)
 
-[Translating text fields](../concept/c_UseTranslatedText.md#)
+[Translating text fields](c_UseTranslatedText.md#)
 

@@ -17,7 +17,7 @@ The NotifyScoped API allows you to interact with Notify calls and SMS messages u
 
 Execute the NotifyScoped class and its associated methods from the `sn_notify` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NotifyScoped - call\(String notifyPhoneNumber, String toPhoneNumber, GlideRecord conferenceCall, GlideRecord conferenceCallRecord, String userSysId, String groupSysId, GlideRecord sourceRecord\)
 
@@ -602,7 +602,7 @@ notifyPhoneNumber
 
 </td><td>
 
-[NotifyPhoneNumber](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#)
+[NotifyPhoneNumber](NPNScopedAPI.md#)
 
 </td><td>
 
@@ -638,7 +638,7 @@ source
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
 </td><td>
 
@@ -667,10 +667,10 @@ This method creates a new record on the Notify Message \[notify\_message\] table
 
 |Name|Type|Description|
 |----|----|-----------|
-|notifyPhoneNumber|[NotifyPhoneNumber](../../NotifyPhoneNumberScoped/concept/NPNScopedAPI.md#)|Notify phone number or short code to which to send this SMS message.|
+|notifyPhoneNumber|[NotifyPhoneNumber](NPNScopedAPI.md#)|Notify phone number or short code to which to send this SMS message.|
 |toPhoneNumber|String|E.164-compliant phone number to which to send the SMS message.|
 |messageBody|String|SMS text message.|
-|source|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|Source record that prompted this SMS message, such as an incident.|
+|source|[GlideRecord](c_GlideRecordScopedAPI.md#)|Source record that prompted this SMS message, such as an incident.|
 
 |Type|Description|
 |----|-----------|

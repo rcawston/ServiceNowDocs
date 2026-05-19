@@ -25,7 +25,7 @@ Role required: sn\_imt\_tracing.wifi\_admin
 
     By default, the asset data is available in the Computer table \[cmdb\_ci\_computer\]. If you are using a different table, specify it using the **sn\_imt\_tracing.wifi\_client\_table** property.
 
-    For more information, see [System properties for tracing systems in Emergency Exposure Management](../../business-continuity/reference/list-of-tracing-system-sys-properties.md).
+    For more information, see [System properties for tracing systems in Emergency Exposure Management](../emergency-exposure-management/list-of-tracing-system-sys-properties.md).
 
 2.  Indicate that the diagnostic data should be accessed from manually loaded access logs.
 
@@ -61,12 +61,12 @@ Role required: sn\_imt\_tracing.wifi\_admin
 
     3.  Click **Run Diagnostics**.
 
-    For more information about how to run a diagnostic request, see [Run a diagnostic request](../../business-continuity/task/use-emergency-exposure-mgnt.md).
+    For more information about how to run a diagnostic request, see [Run a diagnostic request](../emergency-exposure-management/use-emergency-exposure-mgnt.md).
 
 
 ## Result
 
 Potentially exposed employees are displayed in the related list of the diagnostic request.
 
-**Parent Topic:**[Retrieving Wi-Fi access log data](../concept/wifi-access-management.md)
+**Parent Topic:**[Retrieving Wi-Fi access log data](wifi-access-management.md)
 

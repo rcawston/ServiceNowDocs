@@ -101,5 +101,5 @@ Displays available appointments for a single day or for a week on the online **S
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

@@ -38,7 +38,7 @@ Refer to the table for the fields on Outside Counsel Engagement form and how the
 |Fee arrangement|Type of fees to be selected from the drop-down list.|leadFirmFeeArrangement|
 |Amount|Amount to be provided to the outside counsel according to the fee arrangement.|None|
 |Legal Tracker Details|
-|Create a task for entering Legal Tracker field details|Option to select to create a legal matter task and delegate the task to fill in the Legal Tracker Details section. For more information, see [Request Outside Counsel engagement](../task/create-lt-outside-counsel-engagement.md).|None|
+|Create a task for entering Legal Tracker field details|Option to select to create a legal matter task and delegate the task to fill in the Legal Tracker Details section. For more information, see [Request Outside Counsel engagement](create-lt-outside-counsel-engagement.md).|None|
 |Matter group|Associated matter group of the Outside Counsel record.|matterGroup|
 |Matter type|Associated matter type of the Outside Counsel record.|matterType|
 |Associated matter ID|Associated matter ID of the Outside Counsel.|associatedMatterId|
@@ -49,5 +49,5 @@ Refer to the table for the fields on Outside Counsel Engagement form and how the
 |Invoice approval route|Associated invoice approval route of the outside counsel.|invoiceApprovalRoute|
 |AP route|Associated accounts payable route of the outside counsel.|apRoute|
 
-**Parent Topic:**[Legal Matter Management reference](../../legal-matter-management/reference/legal-matter-management-reference.md)
+**Parent Topic:**[Legal Matter Management reference](legal-matter-management-reference.md)
 

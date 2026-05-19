@@ -107,7 +107,7 @@ Select **Public** to make the resource block operation available from the catalo
         This value specifies the source or location where the parameter value comes from:
 
         -   **Text**: a text value that the user passes.
-        -   **Pools**: the query that you want to run against a pool to get a value back from it. The pool **Datasource Value** should follow this convention: `ServiceNow::Pools::PoolName.Pool-Filter-Name`. See [Pools and Filters for Cloud Provisioning](../concept/pools.md) for more information on pools.
+        -   **Pools**: the query that you want to run against a pool to get a value back from it. The pool **Datasource Value** should follow this convention: `ServiceNow::Pools::PoolName.Pool-Filter-Name`. See [Pools and Filters for Cloud Provisioning](pools.md) for more information on pools.
         -   **CSVList**: values from a comma-separated value list that you enter into the **Datasource Value**.
         -   **Array**: an array of values. You can programmatically send it an array in JavaScript. The format is as follows: `['abc','def']`.
         -   **FormData**: data submitted from the form configured in the blueprint.
@@ -137,5 +137,5 @@ Select **Public** to make the resource block operation available from the catalo
         ![Restricting to a vSphere datacenter](../image/vsphere-datacenter-restricted-to.png)
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](resource-blocks.md)
 

@@ -18,11 +18,11 @@ The application uses automated correlation to establish potentially possible rel
 1.  Select one or more potentially related records and apply this action on the UI, which will further change the records to the confirmed relationships and visible in Related records section.
 2.  Any confirmed correlations ingested or manually created by an analyst will override the potential relationships created by auto correlation.
 
--   **[Confirm observable-observable potential relationship](../task/define-observable-observable-potential-relationship.md)**  
+-   **[Confirm observable-observable potential relationship](define-observable-observable-potential-relationship.md)**  
 Use this section to confirm the relationships between the observables.
--   **[Confirm object-object potential relationships](../task/define-object-object-potential-relationships.md)**  
+-   **[Confirm object-object potential relationships](define-object-object-potential-relationships.md)**  
 Define the potential relationships between the objects.
--   **[Confirm indicator-indicator potential relationships](../task/define-indicator-indicator-potential-relationships.md)**  
+-   **[Confirm indicator-indicator potential relationships](define-indicator-indicator-potential-relationships.md)**  
 Define the potential relationships between the objects.
 
 **Parent Topic:**[TISC Library Repository](tisc-ioc.md)
@@ -40,7 +40,7 @@ Define the potential relationships between the objects.
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

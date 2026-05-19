@@ -141,7 +141,7 @@ Placeholder
 
 Text that appears in the search box before the user enters anything. By default, the placeholder text is `Search`.
 
- **Note:** This instance option applies only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+ **Note:** This instance option applies only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](enable-ais-sp.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Search widgets](search-widgets.md)
@@ -149,9 +149,9 @@ Text that appears in the search box before the user enters anything. By default,
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

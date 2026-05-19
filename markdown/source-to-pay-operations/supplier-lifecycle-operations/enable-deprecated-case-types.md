@@ -44,7 +44,7 @@ In the australia release, the **Conduct a risk assessment** and **Conduct a tier
     The deprecated case types now appear in the **Case type** field on the Create New Supplier Case form.
 
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -61,9 +61,9 @@ In the australia release, the **Conduct a risk assessment** and **Conduct a tier
 
 [Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 
-[Restructured Supplier Task table](../concept/supplier-task-table-restructure.md)
+[Restructured Supplier Task table](supplier-task-table-restructure.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 

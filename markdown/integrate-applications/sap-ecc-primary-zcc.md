@@ -15,10 +15,10 @@ The SAP ECC connector provides read-only access to data and metadata from an SAP
 
 A connection admin can set up a connection to SAP ECC in the Zero Copy Connector Hub and grant data stewards access to this connection. Data stewards can then use the established connection to create a data fabric table and map data from SAP ECC. This allows users to access SAP ECC data through the table list view or by using GlideRecord scripts.
 
-For details on implementation, refer to [Zero Copy Connector for ERP](../../erp-integration/concept/erp-integration-overview.md).
+For details on implementation, refer to [Zero Copy Connector for ERP](erp-integration-framework/erp-integration-overview.md).
 
 **Related topics**  
 
 
-[Create an SAP ECC connection](../task/create-sap-ecc-connection-primary.md)
+[Create an SAP ECC connection](create-sap-ecc-connection-primary.md)
 

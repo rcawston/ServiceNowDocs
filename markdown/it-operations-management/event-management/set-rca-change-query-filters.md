@@ -306,5 +306,5 @@ False
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Probable Root Cause Analysis \(RCA\)](../concept/probable-rca.md)
+**Parent Topic:**[Probable Root Cause Analysis \(RCA\)](probable-rca.md)
 

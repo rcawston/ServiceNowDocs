@@ -77,5 +77,5 @@ A qualitative classification derived from engagement data that summarizes the me
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Buying Group](../concept/using-buying-group.md)
+**Parent Topic:**[Using Buying Group](using-buying-group.md)
 

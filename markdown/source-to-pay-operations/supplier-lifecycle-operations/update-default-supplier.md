@@ -40,7 +40,7 @@ Role required: sn\_slm.contact
 
 The default supplier is updated.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -65,5 +65,5 @@ The default supplier is updated.
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

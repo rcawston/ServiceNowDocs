@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Successful VPN Attempts from the Service Accounts - Corp/Cloud playbook.](../image/playbook-successful-vpn-attempts-trigger.png "Successful VPN Attempts from the Service Accounts - Corp/Cloud playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for Successful VPN Attempts from the Service Accounts - Corp/Cloud](../concept/playbook-successful-vpn-attempts.md)
+**Parent Topic:**[Playbook for Successful VPN Attempts from the Service Accounts - Corp/Cloud](playbook-successful-vpn-attempts.md)
 

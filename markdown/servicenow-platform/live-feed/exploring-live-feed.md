@@ -34,7 +34,7 @@ Live Feed includes different types of feeds, including company feeds, group feed
 
 **Note:** Live Feed v2 is active for all new instances by default. If you are upgrading from an earlier version of ServiceNow®, you need to activate Live Feed v2 to use these features.
 
-Live feed can be domain separated at the data level only. For more information on Live Feed and domain separation, see [Domain separation in Live Feed](../reference/r_DomainSeparationInLiveFeed.md).
+Live feed can be domain separated at the data level only. For more information on Live Feed and domain separation, see [Domain separation in Live Feed](r_DomainSeparationInLiveFeed.md).
 
 ## Live Feed users
 
@@ -145,8 +145,8 @@ Anyone
 
 To learn more about configuring and using Live Feed, see:
 
--   [Activating Live Feed](../task/t_ActivateLiveFeed.md)
+-   [Activating Live Feed](t_ActivateLiveFeed.md)
 -   [Administering Live Feed](c_AdministerLiveFeed.md)
 -   [Using Live Feed](c_UseLiveFeed.md)
--   [Live Feed reference](../reference/live-feed-reference.md)
+-   [Live Feed reference](live-feed-reference.md)
 

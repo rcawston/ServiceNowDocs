@@ -68,19 +68,19 @@ Now Assist applies the updated use case for contract analysis or metadata extrac
 **Related topics**  
 
 
-[Manage use case mappings for Now Assist in Contract Management](../task/cmpro-manage-use-case-map.md)
+[Manage use case mappings for Now Assist in Contract Management](cmpro-manage-use-case-map.md)
 
-[Manage clause mappings for contract analysis](../task/cmpro-manage-clause-mappings.md)
+[Manage clause mappings for contract analysis](cmpro-manage-clause-mappings.md)
 
-[Manage expected response mappings for contract analysis](../task/cmpro-manage-expected-response.md)
+[Manage expected response mappings for contract analysis](cmpro-manage-expected-response.md)
 
-[Deactivate skills for Now Assist in Contract Management](../task/cmpro-deactivate-na-skills.md)
+[Deactivate skills for Now Assist in Contract Management](cmpro-deactivate-na-skills.md)
 
-[Create use cases for contract metadata extraction](../task/cmpro-na-usecase-me.md)
+[Create use cases for contract metadata extraction](cmpro-na-usecase-me.md)
 
-[Create use cases for contract analysis](../task/cmpro-na-usecase-ca.md)
+[Create use cases for contract analysis](cmpro-na-usecase-ca.md)
 
-[Create use cases for contract obligation extraction](../task/cmpro-na-use-case-obext.md)
+[Create use cases for contract obligation extraction](cmpro-na-use-case-obext.md)
 
-[Select large language models for use cases in Now Assist in Contract Management](../task/cmpro-na-manage-llm.md)
+[Select large language models for use cases in Now Assist in Contract Management](cmpro-na-manage-llm.md)
 

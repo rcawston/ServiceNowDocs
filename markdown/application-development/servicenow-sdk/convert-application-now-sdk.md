@@ -17,7 +17,7 @@ Convert an existing application to support development in source code with the S
 
 ## Before you begin
 
-Use the ServiceNow SDK to authenticate to a ServiceNow instance. For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md).
+Use the ServiceNow SDK to authenticate to a ServiceNow instance. For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](authenticate-instance-now-sdk.md).
 
 Role required: admin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 Existing applications that weren't created with the ServiceNow IDE or ServiceNow SDK must be converted to support development in source code. Converting an application adds the necessary files and directories for developing it in source code. You can choose whether to convert existing application metadata into ServiceNow Fluent code. The application isn't changed on the instance until you build and install it on the instance.
 
-This procedure uses the ServiceNow SDK command-line interface \(CLI\). From a command-line tool, enter `now-sdk --help` to get information about the available commands and global options. To get additional information about a command and its parameters, enter the command and `--help` or `-h`. For example, `now-sdk auth --help`. For more information about the CLI, see [ServiceNow SDK CLI](../reference/servicenow-sdk-cli-commands.md#).
+This procedure uses the ServiceNow SDK command-line interface \(CLI\). From a command-line tool, enter `now-sdk --help` to get information about the available commands and global options. To get additional information about a command and its parameters, enter the command and `--help` or `-h`. For example, `now-sdk auth --help`. For more information about the CLI, see [ServiceNow SDK CLI](servicenow-sdk-cli-commands.md#).
 
 ## Procedure
 
@@ -82,7 +82,7 @@ This procedure uses the ServiceNow SDK command-line interface \(CLI\). From a co
               Ex: Run "npm install" if using npm.
     ```
 
-    The application is available locally with the default application structure and supports development in source code. Existing application metadata is downloaded into in the `metadata` directory. For information about the application structure, see the [Application structure](../../custom-application/concept/building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
+    The application is available locally with the default application structure and supports development in source code. Existing application metadata is downloaded into in the `metadata` directory. For information about the application structure, see the [Application structure](../building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
 
 6.  Install the required third-party dependencies using your preferred package manager.
 
@@ -129,5 +129,5 @@ New application metadata added after converting an application is automatically 
 
 ## What to do next
 
-In Visual Studio Code, start developing your application in source code with ServiceNow Fluent, writing custom JavaScript modules, or adding third-party libraries. For more information, see [Developing applications with the ServiceNow SDK](../concept/developing-applications-sdk.md).
+In Visual Studio Code, start developing your application in source code with ServiceNow Fluent, writing custom JavaScript modules, or adding third-party libraries. For more information, see [Developing applications with the ServiceNow SDK](developing-applications-sdk.md).
 

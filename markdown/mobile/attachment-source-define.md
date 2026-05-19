@@ -105,5 +105,5 @@ Values can be `camera`, `files`, or `gallery`, or any combination separated by c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with images and attachments in mobile](../concept/images-and-attachments.md)
+**Parent Topic:**[Working with images and attachments in mobile](images-and-attachments.md)
 

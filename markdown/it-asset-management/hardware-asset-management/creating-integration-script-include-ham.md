@@ -80,21 +80,21 @@ You can either use the default processResponse function or define a custom logic
 **Related topics**  
 
 
-[Connect your ServiceNow instance with a shipping carrier application](../task/associate-shipping-carrier-int-profile.md)
+[Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
 
-[Remove a shipping carrier from an integration profile](../task/remove-shipping-carrier.md)
+[Remove a shipping carrier from an integration profile](remove-shipping-carrier.md)
 
-[Create a carrier integration profile](../task/create-carrier-integration-profile.md)
+[Create a carrier integration profile](create-carrier-integration-profile.md)
 
-[View the carrier integration profile details](../task/view-integration-profiles.md)
+[View the carrier integration profile details](view-integration-profiles.md)
 
-[Test the integration with the carrier API](../task/test-carrier-api-integration.md)
+[Test the integration with the carrier API](test-carrier-api-integration.md)
 
-[Create a shipping carrier record](../task/create-shipping-carrier.md)
+[Create a shipping carrier record](create-shipping-carrier.md)
 
-[View hardware asset shipment details](../task/view-hardware-asset-shipments.md)
+[View hardware asset shipment details](view-hardware-asset-shipments.md)
 
 [Stale shipments](stale-shipments.md)
 
-[Track a hardware asset shipment](../task/track-hardware-asset-shipments.md)
+[Track a hardware asset shipment](track-hardware-asset-shipments.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 2.  Select **Gifts &amp; Entertainment Disclosure**.
 
-3.  **Note:** For description on the field values, see [Gift and entertainment disclosure form](../reference/lsd-ge-disclosure-form.md)
+3.  **Note:** For description on the field values, see [Gift and entertainment disclosure form](lsd-ge-disclosure-form.md)
 
     On the form, fill in the fields and click **Submit**.
 
@@ -45,5 +45,5 @@ Role required: sn\_lg\_ops.legal\_user
 
     -   Request details: Review request details.
 
-**Parent Topic:**[Requesting legal clearance for gifts and entertainment](../concept/lsd-ge-submitting-request.md)
+**Parent Topic:**[Requesting legal clearance for gifts and entertainment](lsd-ge-submitting-request.md)
 

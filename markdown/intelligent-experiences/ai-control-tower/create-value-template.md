@@ -31,7 +31,7 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
 4.  On the Add value template form, fill in the fields.
 
-    For a description of the field values, see [Add value template form](../reference/add-value-template-form.md).
+    For a description of the field values, see [Add value template form](add-value-template-form.md).
 
 5.  Select **Save as draft**.
 

@@ -17,7 +17,7 @@ Create a multi-component model to define more than one model component based on 
 
 ## Before you begin
 
-For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](../concept/complex-models.md).
+For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](complex-models.md).
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
@@ -36,5 +36,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 4.  Select **Publish to Enterprise Asset Catalog** to publish your model to the catalog.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

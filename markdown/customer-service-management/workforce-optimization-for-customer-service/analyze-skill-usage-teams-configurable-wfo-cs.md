@@ -37,5 +37,5 @@ Role required: skill\_admin
     You can click on a skill to analyze skill data such as the number of users or tasks with that skill, the overall skill coverage, and how many experts you currently have with that skill.
 
 
-**Parent Topic:**[Channel Management in Workforce Optimization for Customer Service](../concept/configurable-channels-wfo-cs.md)
+**Parent Topic:**[Channel Management in Workforce Optimization for Customer Service](configurable-channels-wfo-cs.md)
 

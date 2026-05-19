@@ -72,5 +72,5 @@ title
 Title of the push notification.Data type: String
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 

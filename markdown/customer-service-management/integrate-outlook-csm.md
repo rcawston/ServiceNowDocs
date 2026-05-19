@@ -37,5 +37,5 @@ Role required: admin
 **Related topics**  
 
 
-[Using Microsoft Outlook with CSM](../../../product/customer-service-management/concept/use-microsoft-outlook-with-csm.md)
+[Using Microsoft Outlook with CSM](use-microsoft-outlook-with-csm.md)
 

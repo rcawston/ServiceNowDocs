@@ -31,5 +31,5 @@ The benefits of this application include:
 -   A centralized Legal Counsel Center that enables you to track, prioritize, and work on multiple requests concurrently
 -   Real-time visibility on legal service demands that helps you make meaningful decisions
 
-**Parent Topic:**[Legal Content Review](../reference/legal-content-review.md)
+**Parent Topic:**[Legal Content Review](legal-content-review.md)
 

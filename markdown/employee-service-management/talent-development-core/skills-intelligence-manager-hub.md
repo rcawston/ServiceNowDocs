@@ -42,7 +42,7 @@ Role required: sn\_skills\_int.manager
 
 ## Result
 
-The validated skills are marked with a green tick in the employee skills profile, indicating that you validated the skills of your employee. For more information, see [Career tab in Employee Center](../concept/manage-skills-profile.md).
+The validated skills are marked with a green tick in the employee skills profile, indicating that you validated the skills of your employee. For more information, see [Career tab in Employee Center](manage-skills-profile.md).
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](using-skills-intelligence.md)
 

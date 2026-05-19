@@ -17,7 +17,7 @@ As a case owner or fulfiller, initiate a self-served contract for the case you a
 
 ## Before you begin
 
-Before initiating a self-serve contract request, ensure you have created contract types and templates for them. For more information, see [Create a contract type](cncore-create-contract-type.md) and [Configure templates for a contract and amendment request in Contract Management Pro](../concept/cncore-document-templates.md).
+Before initiating a self-serve contract request, ensure you have created contract types and templates for them. For more information, see [Create a contract type](cncore-create-contract-type.md) and [Configure templates for a contract and amendment request in Contract Management Pro](cncore-document-templates.md).
 
 Ensure that the initiate contract button has been added to your workspace. For more information, see [Add a workspace action button for initiating a contract request](cncore-config-initiate-cont.md).
 

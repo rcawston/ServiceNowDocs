@@ -17,6 +17,6 @@ Manage received and sent requests by granting or rejecting API access, sending r
 
 You can manage API access requests by performing the following actions:
 
--   [Manage requests received for API access in API Insights](../task/api-insights-grant-access.md).
--   [Manage requests sent for API access in API Insights](../task/api-insights-sent-access.md).
+-   [Manage requests received for API access in API Insights](api-insights-grant-access.md).
+-   [Manage requests sent for API access in API Insights](api-insights-sent-access.md).
 

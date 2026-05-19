@@ -29,7 +29,7 @@ This evaluation project works on the data that you have stored in your productio
 
 If you have the sn\_si.analyst role, you will have access to Process Mining for Security Incident evaluation project.
 
-For more information, see [Run the Process Mining evaluation project](../task/run-evaluation-project.md).
+For more information, see [Run the Process Mining evaluation project](run-evaluation-project.md).
 
 **Parent Topic:**[Evaluation projects](evaluate-pm.md)
 

@@ -55,5 +55,5 @@ After activating the RPA bot generation skill, RPA Desktop Design Studio users m
 **Related topics**  
 
 
-[Robotic Process Automation \(RPA\) bot generation](../concept/rpa-bot-generation.md)
+[Robotic Process Automation \(RPA\) bot generation](rpa-bot-generation.md)
 

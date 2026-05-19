@@ -58,12 +58,12 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 The potential savings from credit card payments are displayed.
 
-**Parent Topic:**[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+**Parent Topic:**[Using Supplier Payment Optimization](using-supp-payment-opt.md)
 
 **Related topics**  
 
 
-[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+[Using Supplier Payment Optimization](using-supp-payment-opt.md)
 
 [View the Payment Optimization dashboard](view-payment-opt-db.md)
 

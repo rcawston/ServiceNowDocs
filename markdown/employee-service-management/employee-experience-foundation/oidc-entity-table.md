@@ -36,5 +36,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](../concept/ec-teams-integration-gcch.md)
+**Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](ec-teams-integration-gcch.md)
 

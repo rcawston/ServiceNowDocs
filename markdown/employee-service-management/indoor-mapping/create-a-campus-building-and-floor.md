@@ -116,9 +116,9 @@ Role required: map admin, map editor, map editor limited
     Your map is configured and available on the Map Studio.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
-**Previous topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Previous topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Next topic:**[Working with boundary editor](working-with-boundary-editor.md)
 

@@ -63,10 +63,10 @@ The Targeted Communications plugin provides a way to publish and send out newsle
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Task Communications Management](../reference/components-installed-with-tcm.md)**  
+-   **[Components installed with Task Communications Management](components-installed-with-tcm.md)**  
 Several types of components are installed with the Task Communications Management plugin, including tables and user roles.
 
-**Parent Topic:**[Task Communications Management plugins](../concept/tcm-plugins.md)
+**Parent Topic:**[Task Communications Management plugins](tcm-plugins.md)
 
 **Related topics**  
 

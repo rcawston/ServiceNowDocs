@@ -24,12 +24,12 @@ Portfolio managers can create personalized views as needed by applying settings 
 -   Free-form roadmap views can be shared with stakeholders to enable collaboration on the free-form roadmap.
 -   Switch between shared and private views as needed.
 
--   **[Create a free-form roadmap view](../task/create-free-form-roadmap-view-ppw.md)**  
+-   **[Create a free-form roadmap view](create-free-form-roadmap-view-ppw.md)**  
 Create a customized free-form roadmap view based on your requirements, so you can access it when you log in again and share it with stakeholders for collaboration.
--   **[Edit a free-form roadmap view](../task/edit-free-form-roadmap-view-ppw.md)**  
+-   **[Edit a free-form roadmap view](edit-free-form-roadmap-view-ppw.md)**  
 Edit a customized free-form roadmap view based on your requirements, so you can access it when you log in again and share it with stakeholders for collaboration.
--   **[Delete a free-form roadmap view](../task/delete-free-form-roadmap-view-ppw.md)**  
+-   **[Delete a free-form roadmap view](delete-free-form-roadmap-view-ppw.md)**  
 Delete a customized free-form roadmap view if it is no longer needed or if the maximum limit of ten shared or three private views has been reached.
 
-**Parent Topic:**[Create a free-form roadmap](../task/create-free-form-roadmap-portfolio-planning-workspace.md)
+**Parent Topic:**[Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md)
 

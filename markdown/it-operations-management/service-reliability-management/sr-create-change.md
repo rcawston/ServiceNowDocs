@@ -41,7 +41,7 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
 7.  In the form Details tab, fill in the fields on the **Change request**, **Impact**, **Assignment**, **Planning**, **Schedule**, **Notes**, and **Closure information** forms.
 
-    For more information, see [Create change request forms](../reference/sr-create-change-request-form.md).
+    For more information, see [Create change request forms](sr-create-change-request-form.md).
 
 8.  Select **Assign to me**.
 
@@ -61,7 +61,7 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
     **Note:** All open change tasks are set to **Canceled**.
 
-    For more information on **State** in Change requests, see, [SRM change request states](../concept/sr-change-request-states.md)
+    For more information on **State** in Change requests, see, [SRM change request states](sr-change-request-states.md)
 
 
 **Parent Topic:**[Working with SRM reliability tasks](sr-work-reliability-tasks.md)

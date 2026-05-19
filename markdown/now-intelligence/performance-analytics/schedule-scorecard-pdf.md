@@ -17,7 +17,7 @@ Schedule an indicator to automate its distribution.
 
 ## Before you begin
 
-This feature requires the licensed version of [Performance Analytics](../concept/c_PremiumPerformanceAnalytics.md#).
+This feature requires the licensed version of [Performance Analytics](c_PremiumPerformanceAnalytics.md#).
 
 Role required: pa\_power\_user, pa\_admin, or admin
 

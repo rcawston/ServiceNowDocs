@@ -85,5 +85,5 @@ Enter user names that are associated with system-generated work notes to exclude
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Work notes analysis](../concept/worknotes-analysis.md)
+**Parent Topic:**[Work notes analysis](worknotes-analysis.md)
 

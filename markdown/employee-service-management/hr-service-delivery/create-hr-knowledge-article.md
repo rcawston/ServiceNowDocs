@@ -129,5 +129,5 @@ Check box for enabling the display of attachment. If selected, attached files ar
     **Note:** Any additional steps required to publish the knowledge article, such as approvals, depend on the publishing workflow for the knowledge base. See [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md) for more information.
 
 
-**Parent Topic:**[HR Knowledge Management](../concept/hr-knowledge-management.md)
+**Parent Topic:**[HR Knowledge Management](hr-knowledge-management.md)
 

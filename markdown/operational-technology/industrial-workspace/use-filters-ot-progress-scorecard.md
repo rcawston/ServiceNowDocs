@@ -41,5 +41,5 @@ Role required: admin
     1.  In the header, select the calendar \(![Calendar icon](../image/calendar-icon.png)\) icon.
     2.  Select the month and year that you want to the data for.
 
-**Parent Topic:**[Operational Technology Progress Scorecard filters](../concept/ot-progress-scorecard-filters.md)
+**Parent Topic:**[Operational Technology Progress Scorecard filters](ot-progress-scorecard-filters.md)
 

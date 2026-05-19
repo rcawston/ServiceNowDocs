@@ -32,5 +32,5 @@ Role required: sn\_wfo\_cfg\_ws.manager
     If the assignment groups listed are missing any groups that the logged-in user must have access to, verify that the **Group Exclusions** filter, and the extension points are configured correctly.
 
 
-**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](../concept/specify-access-assignment-group-wfo-itsm.md)
+**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](specify-access-assignment-group-wfo-itsm.md)
 

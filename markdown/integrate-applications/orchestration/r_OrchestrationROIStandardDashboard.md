@@ -252,7 +252,7 @@ Total projected annual expense for all manual tasks by category using the calcul
 -   **Table**: Expense and Savings \[run\_rate\_predicted\_savings\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Orchestration ROI reports](../concept/c_OrchestrationROIDashboards.md)
+</table>**Parent Topic:**[Orchestration ROI reports](c_OrchestrationROIDashboards.md)
 
 ## Schedule Orchestration ROI calculations for standard reports
 

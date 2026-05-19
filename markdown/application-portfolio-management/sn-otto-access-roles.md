@@ -1575,18 +1575,18 @@ Review and modify the auto-populated form fields before submission
 No role required.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)
+</table>**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)
+[Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md)
 
-[Configure AI Data Explorer and Query Generation skills](../task/configure-ai-data-explr-qry-genr-skills.md)
+[Configure AI Data Explorer and Query Generation skills](configure-ai-data-explr-qry-genr-skills.md)
 
-[Now Assist for Enterprise Architecture \(EA\)](../concept/now-assist-ea.md)
+[Now Assist for Enterprise Architecture \(EA\)](now-assist-ea.md)
 
-[Enterprise Architecture Workspace access roles](../../application-portfolio-management/reference/eaw-reference/eaw-access-roles.md)
+[Enterprise Architecture Workspace access roles](eaw-access-roles.md)
 
-[Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow](../concept/now-assist-aiagents-ea-diagramming-usecase.md)
+[Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow](now-assist-aiagents-ea-diagramming-usecase.md)
 

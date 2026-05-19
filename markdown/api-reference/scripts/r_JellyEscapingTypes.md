@@ -127,7 +127,7 @@ HTML
 ${test.getHTMLValue()} 
 ```
 
-**Parent Topic:**[Jelly tags](../../general-scripting/reference/r_JellyTags.md)
+**Parent Topic:**[Jelly tags](r_JellyTags.md)
 
 ## Add escaping to a Jelly replacement
 

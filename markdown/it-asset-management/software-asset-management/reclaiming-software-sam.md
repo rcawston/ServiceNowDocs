@@ -75,8 +75,8 @@ Starting from the Australia release, the reclamation workflow can also be comple
     1.  The state of the removal candidate record changes to **Awaiting Revocation**.
     2.  Based on the scenarios mentioned in the above note, software removal takes place.
 
-        **Note:** For removal candidates that are grouped into low usage or overlapping justifications, you do not need to manually remove subscriptions as auto reclamation is performed for these two justifications. Fore more information on justifications, see [Software installation optimization and removal](../concept/c_SAMOptimization.md).
+        **Note:** For removal candidates that are grouped into low usage or overlapping justifications, you do not need to manually remove subscriptions as auto reclamation is performed for these two justifications. Fore more information on justifications, see [Software installation optimization and removal](c_SAMOptimization.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

@@ -15,7 +15,7 @@ Manage your business architecture, application portfolio, information portfolio 
 
 **Note:** You can zoom on this page or any of the child pages to 200% or 400% through your browser settings without the loss of content or functionality. Page layouts are transformed into a vertical, stacked view automatically.
 
--   **[Create my list](../../task/create-my-list.md)**  
+-   **[Create my list](create-my-list.md)**  
 Create your own filtered lists in the Enterprise Architecture Workspace and access them under the **My Lists** tab.
 -   **[Using business architecture](eaw-using-business-architecture.md)**  
 Manage business units, departments, goals, value streams, value stream stages, business capabilities, business processes, and demands in the Enterprise Architecture Workspace.

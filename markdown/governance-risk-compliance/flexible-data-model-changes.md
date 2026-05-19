@@ -47,7 +47,7 @@ The data shown in the example is for business services such as business service 
 
 You can configure the **sn\_oper\_res.top\_class\_name** property to designate any class as the top class in the dashboard view so that any node, such as business service, business process, or application service, can be the top node. You can then view the downstream data and various dashboards based on the selected top class, such as the number of application services that are under a business service. It enables you to switch between different views, such as business services, service offerings, business processes, or applications, on the dashboard and view relevant data accordingly.
 
-For example, if the data is displayed for a business service, you can change the top class to service offerings, business processes, or application services by configuring the **sn\_oper\_res.top\_class\_name** property. You can then change the top class to another object and the system shows data with respect to that specific top class. This property is applicable only for the dashboards and not for the Workspace forms. For more information on the properties, see [Configure Operational Resilience properties](../task/configure-opres-prop.md).
+For example, if the data is displayed for a business service, you can change the top class to service offerings, business processes, or application services by configuring the **sn\_oper\_res.top\_class\_name** property. You can then change the top class to another object and the system shows data with respect to that specific top class. This property is applicable only for the dashboards and not for the Workspace forms. For more information on the properties, see [Configure Operational Resilience properties](configure-opres-prop.md).
 
 The following example shows that the top class name is set to **cmdb\_ci\_service\_business**.
 
@@ -110,11 +110,11 @@ The Main node configurations provide the data flow of what you want to see. The 
 
 The entire flow that goes from a business service to business process to service offering and then to an application is created in the Main node configurations and then the configurations are mapped to the impacted objects.
 
-For information on setting up the Main node configurations, see [Configure the Main node configurations](../task/set-up-main-node.md).
+For information on setting up the Main node configurations, see [Configure the Main node configurations](set-up-main-node.md).
 
 ## Running the scheduled jobs
 
-Two scheduled jobs, **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** run at regular intervals populate data in the CSDM objects \[sn\_oper\_res\_profile.list\] table and the red flags. For more information, see [Execute the scheduled jobs](../task/execute-sch-jobs.md).
+Two scheduled jobs, **Update CSDM and other dependencies** and **Calculate red flags for CSDM and dependencies** run at regular intervals populate data in the CSDM objects \[sn\_oper\_res\_profile.list\] table and the red flags. For more information, see [Execute the scheduled jobs](execute-sch-jobs.md).
 
 All the Main node configurations are handled in parallel. A separate event is triggered for each Main node configuration, enabling parallel processing. The enhanced configuration eliminates the need for sequential processing, significantly improving efficiency.
 

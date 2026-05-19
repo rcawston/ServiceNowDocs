@@ -18,7 +18,7 @@ Integrate the ServiceNow instance and Oracle Block Storage account by using the 
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Activate and set up the [Oracle Cloud IAM Spoke](../concept/oracle-iam.md).
+-   Activate and set up the [Oracle Cloud IAM Spoke](oracle-iam.md).
 -   Activate the Oracle Block Storage spoke.
 -   Role required: admin.
 

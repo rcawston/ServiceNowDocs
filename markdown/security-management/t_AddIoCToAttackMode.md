@@ -34,7 +34,7 @@ Role required: sn\_ti.admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Attack modes and methods](../concept/c_AttackModeMethod.md)
+**Parent Topic:**[Attack modes and methods](c_AttackModeMethod.md)
 
 **Related topics**  
 

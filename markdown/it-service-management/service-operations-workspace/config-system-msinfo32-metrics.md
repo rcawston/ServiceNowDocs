@@ -110,5 +110,5 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 12. Click **Update**.
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)
 

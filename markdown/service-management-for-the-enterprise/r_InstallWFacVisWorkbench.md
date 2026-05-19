@@ -17,7 +17,7 @@ Demo data is available with Facilities Visualization Workbench.
 
 -   **[Tables installed with Facilities Visualization Workbench](r_TableInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following tables.
--   **[Space Management properties](../../facilities-service-management/reference/SpaceMgmntProperties.md)**  
+-   **[Space Management properties](SpaceMgmntProperties.md)**  
 Space Management Properties are available to configure floor plan, parsing, and space management defaults settings. You can control default settings like the color for selected space, compass on a floor plan, and logos and titles to appear.
 -   **[System property categories installed with Facilities Visualization Workbench](r_SysPropCatInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following system property categories.
@@ -30,5 +30,5 @@ A business rule is a server-side script that runs when a record is displayed, in
 -   **[Macros installed with Facilities Visualization Workbench](r_MacrosInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following macros.
 
-**Parent Topic:**[Activate Facilities Visualization Workbench](../task/t_ActivateFacVisWorkbench.md)
+**Parent Topic:**[Activate Facilities Visualization Workbench](t_ActivateFacVisWorkbench.md)
 

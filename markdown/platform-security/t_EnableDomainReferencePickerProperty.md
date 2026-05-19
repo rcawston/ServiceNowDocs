@@ -42,7 +42,7 @@ Role required: admin
     The domain reference picker appears in Core UI header.
 
 
-**Parent Topic:**[Use domain selection menus](../concept/c_DisplayingDomainSelectionMenus.md)
+**Parent Topic:**[Use domain selection menus](c_DisplayingDomainSelectionMenus.md)
 
 **Related topics**  
 

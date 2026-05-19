@@ -26,11 +26,11 @@ For real-time guardrail enforcement for AI interactions, you can use Now Assist 
 
 Roles and responsibilities:
 
--   **[AI steward \[sn\_ai\_governance\_ai\_steward\]](../../ai-governance-workspace/concept/aict-health-tab.md)**
+-   **[AI steward \[sn\_ai\_governance\_ai\_steward\]](ai-control-tower/aict-health-tab.md)**
 
     The AI steward role manages the platform's data assets and AI capabilities, ensuring data quality, integrity, and ethical use. The steward also implements governance policies to maintain compliance, security, and responsible AI practices across ServiceNow applications and workflows.
 
--   **[AI asset/product owner \[ sn\_ai\_asset\_mgmt.ai\_asset\_owner\]](../../ai-governance-workspace/reference/roles-installed-with-ai-control-tower.md)**
+-   **[AI asset/product owner \[ sn\_ai\_asset\_mgmt.ai\_asset\_owner\]](ai-control-tower/roles-installed-with-ai-control-tower.md)**
 
     The AI asset \(or product\) owner is responsible for driving the development and delivery of AI-powered products, ensuring alignment with business goals and user needs. They define product vision, manage feature prioritization, and translate business requirements into technical deliverables.
 
@@ -38,14 +38,14 @@ Roles and responsibilities:
 
     The AI Risk and Compliance Manager is tasked with identifying, assessing, and mitigating risks related to AI use within the enterprise. This role ensures AI compliance with laws, regulations, and internal standards while addressing issues such as bias, privacy, and transparency.
 
--   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](../../now-assist-admin/reference/roles-installed-with-now-assist-admin.md#)**
+-   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](roles-installed-with-now-assist-admin.md#)**
 
     The Now Assist admin is responsible for enabling and managing the Now Assist Guardian guardrails within the Now Assist Admin console. This includes configuring detection settings for offensiveness, prompt injection, and sensitive topics, as well as monitoring logs to assess harmful or malicious AI outputs. The admin can toggle guardrails on or off, choose actions like “Block and Log,” and tailor the configuration to match organizational risk tolerance and use cases.
 
 
 For more information about these tools, see:
 
--   [AI Control Tower](../../ai-governance-workspace/concept/ai-control-tower-landing.md)
+-   [AI Control Tower](ai-control-tower/ai-control-tower-landing.md)
 -   [AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
 -   
 
@@ -59,20 +59,20 @@ Knowledge Graph makes AI in Now Assist more personal by using structured enterpr
 
 Roles and responsibilities:
 
--   **[Now Assist Data Kit admin \[sn\_data\_kit.admin\]](../../now-assist-data-kit/reference/data-kit-admin-role.md)**
+-   **[Now Assist Data Kit admin \[sn\_data\_kit.admin\]](now-assist-data-kit/data-kit-admin-role.md)**
 
     This role is required to create, update, and publish datasets in Now Assist Data Kit.
 
--   **[Knowledge Graph admin \[kg\_admin\]](../../knowledge-graph/Reference/knowledge-graph-roles.md)**
+-   **[Knowledge Graph admin \[kg\_admin\]](knowledge-graph/knowledge-graph-roles.md)**
 
     This role is required to design, manage, and audit Knowledge Graph schemas, including configuring nodes \(tables\), properties \(columns\), and relationships.
 
 
 For more information about these tools, see:
 
--   [Now Assist Data Kit](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md)
--   [Knowledge Graph](../../knowledge-graph/concept/knowledge-graph-landing.md)
--   [Now Assist Readiness Evaluation](../../now-assist-readiness-evaluation/concept/now-assist-readiness-evaluation-landing-page.md)
+-   [Now Assist Data Kit](now-assist-data-kit/now-assist-data-kit-landing.md)
+-   [Knowledge Graph](knowledge-graph/knowledge-graph-landing.md)
+-   [Now Assist Readiness Evaluation](now-assist-readiness-evaluation/now-assist-readiness-evaluation-landing-page.md)
 
 ## Internal and external content search
 
@@ -101,7 +101,7 @@ For more information about these tools, see:
 
 ## Generative AI skills
 
-Now Assist product plugins provide workflow-specific, generative AI skills that are tailored to specific use cases. For example, a skill might summarize a customer chat, suggest next steps in a workflow, or generate resolution notes for a task. For a list of available skills by product, see [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md).
+Now Assist product plugins provide workflow-specific, generative AI skills that are tailored to specific use cases. For example, a skill might summarize a customer chat, suggest next steps in a workflow, or generate resolution notes for a task. For a list of available skills by product, see [Now Assist skills](now-assist-skills/now-assist-skills.md).
 
 Use the Now Assist Admin console to install and configure Now Assist plugins, as well as perform the following tasks:
 
@@ -116,28 +116,28 @@ If you need to customize or adapt existing skills, you can use the Now Assist Sk
 
 Roles and responsibilities:
 
--   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](../../now-assist-admin/reference/roles-installed-with-now-assist-admin.md#)**
+-   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](roles-installed-with-now-assist-admin.md#)**
 
     This role is required to install Now Assist plugins, activate skills, and configure Now Assist preferences and settings.
 
--   **[Skill Kit admin \[sn\_skill\_builder.admin\]](../../now-assist-skill-kit/reference/na-skill-kit-roles.md#)**
+-   **[Skill Kit admin \[sn\_skill\_builder.admin\]](now-assist-skill-kit/na-skill-kit-roles.md#)**
 
     This role is required to create, update, and publish skills in Now Assist Skill Kit.
 
 
 For more information about these tools and features, see:
 
--   [Overview tab in Now Assist Admin](../../now-assist-platform/concept/configuring-now-assist.md)
-    -   [Now Assist panel](../../now-assist-platform/concept/now-assist-panel-overview.md)
-    -   [Manage AI models](../../now-assist-admin/task/manage-large-language-models.md)
-    -   [Analyzing Now Assist performance](../../now-assist-analytics/concept/now-assist-analytics.md)
-    -   [Multilingual service for Now Assist](../../now-assist-platform/concept/translation-for-now-assist.md)
+-   [Overview tab in Now Assist Admin](configuring-now-assist.md)
+    -   [Now Assist panel](now-assist-panel-overview.md)
+    -   [Manage AI models](manage-large-language-models.md)
+    -   [Analyzing Now Assist performance](now-assist-analytics.md)
+    -   [Multilingual service for Now Assist](translation-for-now-assist.md)
     -   [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)
--   [Now Assist Skill Kit](../../now-assist-skill-kit/concept/now-assist-skill-kit-landing.md)
+-   [Now Assist Skill Kit](now-assist-skill-kit/now-assist-skill-kit-landing.md)
 
 ## Agentic AI
 
-In an agentic AI system, autonomous agents perform complex tasks by reasoning, planning, and executing actions across multiple steps. These agents are not just reactive; they can break down goals, make decisions, and coordinate with other agents or systems to complete workflows. In AI Agent Studio, AI agents and agentic workflows are built to handle tasks such as resolving incidents, managing requests, or navigating service catalogs using generative AI and orchestration logic. For a list of available agentic workflows by product, see [Now Assist agentic workflows](../../now-assist-ai-agents/concept/sn-aia-use-cases-list.md).
+In an agentic AI system, autonomous agents perform complex tasks by reasoning, planning, and executing actions across multiple steps. These agents are not just reactive; they can break down goals, make decisions, and coordinate with other agents or systems to complete workflows. In AI Agent Studio, AI agents and agentic workflows are built to handle tasks such as resolving incidents, managing requests, or navigating service catalogs using generative AI and orchestration logic. For a list of available agentic workflows by product, see [Now Assist agentic workflows](sn-aia-use-cases-list.md).
 
 Use AI Agent Studio to perform the following tasks:
 
@@ -153,27 +153,27 @@ The MCP Server Console is a tool for administrators to set up and manage Model C
 
 Roles and responsibilities:
 
--   **[AI Agent Admin \[sn\_aia\_admin\]](../../now-assist-ai-agents/reference/na-aia-reference.md)**
+-   **[AI Agent Admin \[sn\_aia\_admin\]](na-aia-reference.md)**
 
     This role is required to create, manage, update, test, and delete AI agents and agentic workflows.
 
--   **[MCP Client Admin \[sn\_mcp\_client.admin\]](../../model-context-protocol-client/reference/mcp-reference.md)**
+-   **[MCP Client Admin \[sn\_mcp\_client.admin\]](mcp-reference.md)**
 
     This role is required to administer the MCP client in AI Agent Studio. It is inherited from the AI Agent Admin \[sn\_aia.admin\] role.
 
--   **[MCP Server administrator \[sn\_mcp\_server.admin\]](../../mcp-server-console/reference/installed-mcp-server-console.md)**
+-   **[MCP Server administrator \[sn\_mcp\_server.admin\]](installed-mcp-server-console.md)**
 
     This role is required to administer the MCP Server Console.
 
 
 For more information about these tools, see:
 
--   [Now Assist AI agents](../../now-assist-ai-agents/reference/na-ai-agents.md)
-    -   [AI Agent Studio](../../now-assist-ai-agents/concept/ai-agent-studio.md)
-    -   [Implement access control in Now Assist AI agents](../../now-assist-ai-agents/concept/aia-security-implementation.md)
-    -   [AI Agent Analytics dashboard](../../now-assist-ai-agents/concept/ai-agent-dashboard.md)
-    -   [Examples of using AI agents](../../now-assist-ai-agents/concept/ai-agent-examples.md)
--   [Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md)
+-   [Now Assist AI agents](na-ai-agents.md)
+    -   [AI Agent Studio](ai-agent-studio.md)
+    -   [Implement access control in Now Assist AI agents](aia-security-implementation.md)
+    -   [AI Agent Analytics dashboard](ai-agent-dashboard.md)
+    -   [Examples of using AI agents](ai-agent-examples.md)
+-   [Model Context Protocol Client](mcp-client.md)
 -   [MCP Server Console](../../mcp-server-console/concept/mcp-server-console-landing.md)
 
 ## Conversational AI engagement
@@ -204,7 +204,7 @@ Roles and responsibilities:
 
     This role, or the admin role, is required to install Now Assist in Virtual Agent and set up and manage assistants in Assistant Designer. It is also required for users who create and manage Virtual Agent topics and assets.
 
--   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](../../now-assist-admin/reference/roles-installed-with-now-assist-admin.md#)**
+-   **[Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]](roles-installed-with-now-assist-admin.md#)**
 
     This role is required to turn on and configure the Now Assist panel in the Now Assist Admin console.
 
@@ -218,5 +218,5 @@ For more information about these tools, see:
     -   [Using Now Assist in Virtual Agent conversations with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-slack.md)
     -   
 -   [Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-assist-mobile-landing.md)
--   [Now Assist panel](../../now-assist-platform/concept/now-assist-panel-overview.md)
+-   [Now Assist panel](now-assist-panel-overview.md)
 

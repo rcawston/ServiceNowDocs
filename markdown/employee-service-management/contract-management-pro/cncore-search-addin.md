@@ -73,5 +73,5 @@ Actions
     Active clauses that match the search criteria will be displayed.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

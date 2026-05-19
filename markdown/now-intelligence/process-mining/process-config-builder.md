@@ -75,5 +75,5 @@ Configure the Key Performance Indicators \(KPIs\) for this process.
 -   **[Configure improvement opportunities](improvement-opportunities.md)**  
 Create a library of inefficiencies to identify the improvement opportunities for your project.
 
-**Parent Topic:**[Creating process configuration](../concept/creating-process-config.md)
+**Parent Topic:**[Creating process configuration](creating-process-config.md)
 

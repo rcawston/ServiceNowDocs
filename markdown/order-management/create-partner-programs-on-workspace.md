@@ -27,10 +27,10 @@ Role required: sn\_prm.enterprise\_partner\_admin
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields on the Partner Program form, see [Partner program table fields](../reference/partner-program-table-fields.md).
+    To learn more about the fields on the Partner Program form, see [Partner program table fields](partner-program-table-fields.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Partner Workspace](../concept/partner-workspace.md)
+**Parent Topic:**[Partner Workspace](partner-workspace.md)
 

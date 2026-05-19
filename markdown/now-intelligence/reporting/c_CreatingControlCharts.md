@@ -31,7 +31,7 @@ The upper and lower green lines indicate plus and minus two times the Z-score. T
 
 **Note:** The mean is the sum of the data points on the **Data Points** line divided by the number of points. These values depend on the aggregation \(Count, Average, Sum, or Count Distinct\). This mean can differ from averages in other reports based on the same data if the other reports use different aggregations. For example, the mean number of incidents \(**Count**\) per month over a period is different from the mean **Average** duration of those same incidents.
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a control report
 
@@ -71,7 +71,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d51497e260">
 
@@ -134,9 +134,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -146,7 +146,7 @@ Set Value Formatting
 
 </td><td>
 
-Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](../reference/value-formatting-reports.md#).
+Enables you to configure how to show numerical values in reports, including decimal precision, rounding, minimum and maximum duration units, and abbreviations for duration units. See [Value formatting in reports](value-formatting-reports.md#).
 
  **Note:** Decimal precision does not work on currency fields.
 
@@ -347,7 +347,7 @@ Show legend
 
 </td><td>
 
-Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](../reference/reporting-properties.md).
+Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](reporting-properties.md).
 
 </td></tr><tr><td>
 

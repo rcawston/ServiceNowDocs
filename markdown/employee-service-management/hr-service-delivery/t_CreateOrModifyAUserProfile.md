@@ -329,7 +329,7 @@ Social Security number
 
 </td><td>
 
-Enter the social security number of the user.**Note:** This field is not encrypted for security. For security purposes, it is recommended to use the **National tax ID \(encrypted\)**, **National tax ID type**, and National tax ID country fields. For more information, see [HR profile encrypted tax identification fields](../concept/hr-profile-encrypted-fields.md).
+Enter the social security number of the user.**Note:** This field is not encrypted for security. For security purposes, it is recommended to use the **National tax ID \(encrypted\)**, **National tax ID type**, and National tax ID country fields. For more information, see [HR profile encrypted tax identification fields](hr-profile-encrypted-fields.md).
 
 </td></tr><tr><td>
 
@@ -476,5 +476,5 @@ Lists the labor union information associated with the employee. Select **New** t
     **Note:** Some HR profile information, such as department, is synchronized between the User \[sys\_user\] and HR Profile \[hr\_profile\] records. Updating information in one record automatically applies the updates in the other record.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

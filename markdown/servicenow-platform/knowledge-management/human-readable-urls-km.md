@@ -22,7 +22,7 @@ The benefits of using human readable URLs rather than technical URLs include:
 -   Improves the readability of the URL to make it easier for a human to understand
 -   Improves search engine optimization \(SEO\) rankings and the click-through rate
 
--   **[Enable Human Readable URLs for the Knowledge Article View page](../task/add-human-readable-keywords-knowledge-pages.md)**  
+-   **[Enable Human Readable URLs for the Knowledge Article View page](add-human-readable-keywords-knowledge-pages.md)**  
 Update a human readable URL structure in the Knowledge Article View page to improve search ranking and click-through rates.
 
 **Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)

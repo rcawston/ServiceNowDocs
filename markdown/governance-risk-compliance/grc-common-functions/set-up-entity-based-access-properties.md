@@ -47,5 +47,5 @@ Role required: sn\_grc\_ent\_access.admin
 
 You have completed configuring entity-based access properties in your system.
 
-**Parent Topic:**[Configuring Entity Based Access](../concept/setting-up-entity-based-access.md)
+**Parent Topic:**[Configuring Entity Based Access](setting-up-entity-based-access.md)
 

@@ -107,11 +107,11 @@ OCR processing needed
 
 </td><td>
 
-Option to require text or data to be automatically extracted from the document list item definition using optical character recognition. For more information, see [Integrating with Document Intelligence](../concept/integration-with-document-intelligence.md).
+Option to require text or data to be automatically extracted from the document list item definition using optical character recognition. For more information, see [Integrating with Document Intelligence](integration-with-document-intelligence.md).
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](configuring-fso-document-processor.md)
 

@@ -61,19 +61,19 @@ For example, consider the relationship of the Schedule \[cmn\_schedule\] \(paren
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](r_DefaultSchedules.md)
 
 [Holidays](c_Holidays.md)
 
-[Create a holiday schedule for multiple regions](../task/t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](t_CreateAHolidaySchedMultiRegions.md)
 
 [Parent and child schedules](c_ParentAndChildSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](../task/t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](t_FifthInstanceOfADayOfTheWeek.md)
 
-[Repeat a monthly schedule](../task/t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](t_RepeatAMonthlySchedule.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](r_CreateCalendarsWithSchedulePages.md)
 

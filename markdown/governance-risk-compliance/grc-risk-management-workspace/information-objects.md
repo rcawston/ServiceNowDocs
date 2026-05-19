@@ -21,5 +21,5 @@ The following figure shows an example of information objects. There are two appl
 
 ![Information objects.](../image/information-objects.png "Example of information objects")
 
-**Parent Topic:**[Associate risks, citations, policies, and controls with a risk identification record](../task/associate-risks-pols-citations-risk-idenfn.md)
+**Parent Topic:**[Associate risks, citations, policies, and controls with a risk identification record](associate-risks-pols-citations-risk-idenfn.md)
 

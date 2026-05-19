@@ -21,7 +21,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Strategic Planning](../concept/roadmap-planning-overview.md).
+Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Strategic Planning](roadmap-planning-overview.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ Create a standalone roadmap to plan work across multiple units of your organizat
 -   Update, personalize, and collaborate with your roadmap.
 -   Add milestones or create dependencies for the items planned on your roadmap.
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 

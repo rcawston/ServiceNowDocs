@@ -33,14 +33,14 @@ The following items are installed with Digital Experience Score​:
 -   Store applications:
     -   Digital Experience Feedback Survey \(sn\_dex\_feedback\_sur\): This app is installed with Digital Experience Score​ and is used to send the surveys to employees to collect feedback on their digital experience.
 
-        For more information, see [Components installed with Digital Experience Feedback Survey](../reference/dexscr-installed-with-survey-feedback.md).
+        For more information, see [Components installed with Digital Experience Feedback Survey](dexscr-installed-with-survey-feedback.md).
 
     -   Digital End-User Experience: The Digital End-User Experience \(DEX\) suite offers proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application &amp; Device Health, DEX Content Playbook, and Desktop Assistant, combined to provide unique benefits to diagnose and address any negative experiences.
 -   Roles
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Digital Experience Score​](../reference/dexscr-installed-with-dex-score.md).
+For more information, see [Components installed with Digital Experience Score​](dexscr-installed-with-dex-score.md).
 
 ## Procedure
 
@@ -72,5 +72,5 @@ Load the demo data for Digital Experience Score​ after installing the applicat
 -   **[Delete Digital Experience Score​ demo data](dexscr-delete-demo-data.md)**  
 Delete the demo data for Digital Experience Score​ when you no longer need it.
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](dexscr-configuring-dex-score.md)
 

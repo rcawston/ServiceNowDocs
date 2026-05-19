@@ -47,12 +47,12 @@ The **Risk Assessment** related link is available only when the change request m
     Users with survey\_admin or survey\_reader role can navigate to **Legacy Surveys** &gt; **Survey Responses** and filter by **Instance**. Survey instances are individual assessments distinguished by the date and time when they are taken.
 
 
-**Parent Topic:**[Risk assessment](../concept/c_RskAsmtCalc.md)
+**Parent Topic:**[Risk assessment](c_RskAsmtCalc.md)
 
 **Related topics**  
 
 
 [Define risk assessments](t_DefineARiskAssessment.md)
 
-[Risk assessment](../concept/c_RskAsmtCalc.md)
+[Risk assessment](c_RskAsmtCalc.md)
 

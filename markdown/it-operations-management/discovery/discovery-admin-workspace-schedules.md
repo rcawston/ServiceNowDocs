@@ -133,7 +133,7 @@ Displays the count of all Discovery errors by category.Select a category to add 
 
     Provides a centralized view for monitoring and managing IP‑based Discovery schedules and coverage.
 
-    Depending on your IPv6 IP Address Management \(IPAM\) integration, items that require attention are displayed, such as IPs that aren't currently covered by Discovery schedules or schedules that were auto created from IPAM that require activation. Select **Review missing coverage** to access the [CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage.md) page where you can view coverage analysis results and create Discovery schedules from IP Ranges. If you haven't enabled auto-created Discovery schedules via IPAM, select **Review in Settings** to access the [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md) page. When auto‑created schedules are enabled, a notification displays the number of Discovery schedules that require activation. Select **View and activate schedules** to open the Auto‑created schedules page. For details on activating these schedules, see [Activate auto-created Discovery schedules](../task/activate-auto-disco-schedule.md). For more information about IPv6 IPAM integration, see [IPAM Discovery integration](ipv6-ipam-disco-integration.md).
+    Depending on your IPv6 IP Address Management \(IPAM\) integration, items that require attention are displayed, such as IPs that aren't currently covered by Discovery schedules or schedules that were auto created from IPAM that require activation. Select **Review missing coverage** to access the [CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage.md) page where you can view coverage analysis results and create Discovery schedules from IP Ranges. If you haven't enabled auto-created Discovery schedules via IPAM, select **Review in Settings** to access the [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md) page. When auto‑created schedules are enabled, a notification displays the number of Discovery schedules that require activation. Select **View and activate schedules** to open the Auto‑created schedules page. For details on activating these schedules, see [Activate auto-created Discovery schedules](activate-auto-disco-schedule.md). For more information about IPv6 IPAM integration, see [IPAM Discovery integration](ipv6-ipam-disco-integration.md).
 
     IP resources are available via Additional information. Select the **Total IP address** link to access a [CMDB Coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage.md) analysis.
 
@@ -157,25 +157,25 @@ Displays the count of all Discovery errors by category.Select a category to add 
 **Related topics**  
 
 
-[Create an IP-based Discovery schedule in Discovery Admin Workspace](../task/t-dawCreateNewDiscoSchedule.md)
+[Create an IP-based Discovery schedule in Discovery Admin Workspace](t-dawCreateNewDiscoSchedule.md)
 
-[Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](../task/create-alibaba-schedule-DAW.md)
+[Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](create-alibaba-schedule-DAW.md)
 
-[Create an AWS Discovery schedule in Discovery Admin Workspace](../task/create-AWS-schedule-DAW.md)
+[Create an AWS Discovery schedule in Discovery Admin Workspace](create-AWS-schedule-DAW.md)
 
-[Create an Azure Discovery schedule in Discovery Admin Workspace](../task/create-azure-schedule-DAW.md)
+[Create an Azure Discovery schedule in Discovery Admin Workspace](create-azure-schedule-DAW.md)
 
-[Create a GCP Discovery schedule in Discovery Admin Workspace](../task/create-gcp-schedule-DAW.md)
+[Create a GCP Discovery schedule in Discovery Admin Workspace](create-gcp-schedule-DAW.md)
 
-[Create an IBM Discovery schedule in Discovery Admin Workspace](../task/create-ibm-schedule-DAW.md)
+[Create an IBM Discovery schedule in Discovery Admin Workspace](create-ibm-schedule-DAW.md)
 
-[Create an OCI Discovery schedule in Discovery Admin Workspace](../task/create-oci-schedule-DAW.md)
+[Create an OCI Discovery schedule in Discovery Admin Workspace](create-oci-schedule-DAW.md)
 
-[Create an OpenStack Discovery schedule in Discovery Admin Workspace](../task/create-openstack-schedule-DAW.md)
+[Create an OpenStack Discovery schedule in Discovery Admin Workspace](create-openstack-schedule-DAW.md)
 
-[Create an oVirt Discovery schedule in Discovery Admin Workspace](../task/create-ovirt-schedule-DAW.md)
+[Create an oVirt Discovery schedule in Discovery Admin Workspace](create-ovirt-schedule-DAW.md)
 
-[Create a VMware Discovery schedule in Discovery Admin Workspace](../task/create-vmware-schedule-DAW.md)
+[Create a VMware Discovery schedule in Discovery Admin Workspace](create-vmware-schedule-DAW.md)
 
 ## Discovery Admin Workspace schedule details
 
@@ -193,7 +193,7 @@ After selecting a schedule name from the table, the schedule header displays key
 
 -   **Overview**
 
-    The **Overview** tab includes visualizations that provide detailed information about the Discovery schedule. These visualizations offer a comprehensive view of the schedule's performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered. Additionally, the visualizations highlight trends over time, enabling you to quickly identify patterns and potential issues. For a full list of the visualizations available on this tab, see [Discovery Admin Workspace data visualizations](../reference/r_dawScheduleDetailsOverview.md).
+    The **Overview** tab includes visualizations that provide detailed information about the Discovery schedule. These visualizations offer a comprehensive view of the schedule's performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered. Additionally, the visualizations highlight trends over time, enabling you to quickly identify patterns and potential issues. For a full list of the visualizations available on this tab, see [Discovery Admin Workspace data visualizations](r_dawScheduleDetailsOverview.md).
 
     **Note:** The time scale reflected on this page can be configured on the Settings page. For more information, see [Discovery Admin Workspace Settings](discovery-admin-workspace-setup.md).
 
@@ -205,7 +205,7 @@ After selecting a schedule name from the table, the schedule header displays key
 
     Select the **More options** icon \(![More options icon](../../health-log-analytics-operator/image/icon-menu-sow.png)\), to access additional actions for customizing and managing the form interface.
 
-    To create a range of IP addresses to discover, select **Quick Ranges**. Execute a run by selecting **Discover now**. For more information about Discovery schedule configuration, see [Schedule a horizontal discovery](../task/t_CreateADiscoverySchedule.md#).
+    To create a range of IP addresses to discover, select **Quick Ranges**. Execute a run by selecting **Discover now**. For more information about Discovery schedule configuration, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
 
 -   **Run History**
 

@@ -65,7 +65,7 @@ Select the number of the anomaly alert to open the alert record.
 
     -   When the Metric Intelligence statistical model is used to detect anomalies, the anomaly alert chart is displayed with upper and lower bounds based on machine learning models. ![Anomaly alert graph](../image/preview_panel_metric_static.png)
 
-        For more information, see [Understanding Metric Intelligence](../../event-management/concept/operational-intelligence-overview.md).
+        For more information, see [Understanding Metric Intelligence](../metric-intelligence/operational-intelligence-overview.md).
 
     -   When thresholds are configured by administrators, the static threshold metric anomaly alert chart shows anomalies defined using the configured thresholds.![Static threshold metric anomaly alert graph](../image/preview_panel_metric_threshold.png)
 
@@ -73,12 +73,12 @@ Select the number of the anomaly alert to open the alert record.
 
     The raw data used for the metric chart in the preview panel is available only for seven days. If older alerts are selected and the raw data is no longer available, a chart isn’t shown.
 
-    For more information, see [Create metric rules](../../agent-client-collector/task/create-metric-rules.md).
+    For more information, see [Create metric rules](../metric-intelligence/create-metric-rules.md).
 
 5.  Review surrounding metric data by selecting the **Open in Metric explorer** icon \(![Open in Metric explorer icon](../image/icon-anomaly-logs-link.png)\) in the information panel.
 
     The **Metric Explorer** tab displays the time frame of the anomaly. For an open alert, the chart shows one hour before and after the last time of event generation. For a closed alert, the chart shows one hour before and after the first event that created an alert. If there’s no data, the chart isn’t displayed.
 
-    For more information, see [Metric Explorer](../../event-management/concept/agent-workspace-ops-intelligence.md).
+    For more information, see [Metric Explorer](../metric-intelligence/agent-workspace-ops-intelligence.md).
 
 

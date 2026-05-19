@@ -117,5 +117,5 @@ The email address of the user is displayed. You must ask the email address of th
 
 The user account is unlocked and they can access the system.
 
-**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](../concept/resetting-password-pr-sow.md)
+**Parent Topic:**[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](resetting-password-pr-sow.md)
 

@@ -71,7 +71,7 @@ You can manually link two application services by adding a reference to one appl
 -   **[Discover CIs identified as generic applications](create-pattern-from-generic-application.md)**  
 Service Mapping identifies application configuration items \(CIs\) that it failed to properly discover as generic applications. Correctly identify generic applications by creating a simplified discovery pattern from an application service map, rather than creating a fully functional pattern from scratch using the Pattern Designer.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -90,7 +90,7 @@ Service Mapping identifies application configuration items \(CIs\) that it faile
 
 [Review and approval of application service maps](business-service-approval.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

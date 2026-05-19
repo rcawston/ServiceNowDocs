@@ -15,22 +15,22 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 Transform maps specify data relationships between source table and target table.
 
-For details on the transform maps, navigate to **Integrations Framework** &gt; **Transform maps**. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](../task/transform-maps-HR.md)
+For details on the transform maps, navigate to **Integrations Framework** &gt; **Transform maps**. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](transform-maps-HR.md)
 
 **Note:** Ensure that you index coalesce fields for better transformation performance.
 
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](../concept/using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View job tracker details](../concept/view-job-tracker-details-sf.md)
+[View job tracker details](view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](view-to-dos-sf.md)
 
 [Field mappings](field-mappings-sf.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](../concept/na-va-sf.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
 
-[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](../concept/conversational-agents-sf.md)
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
 

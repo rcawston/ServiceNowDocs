@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK Developer Guide - Android, Developer guides, API impleme
 
 The Mobile SDK enables you to easily implement Virtual and Live Agent chat services within your Android application.
 
-You use the [NowChatSDK](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowChatSDK/concept/NowChatSDKAndroidAPI.md#) API to create the chat service. Once the service is created, you must then start the chat user interface.
+You use the [NowChatSDK](../cllent-mobile-api-reference/NowChatSDKAndroidAPI.md#) API to create the chat service. Once the service is created, you must then start the chat user interface.
 
 The following is a snippet that shows how to create the chat service and start the interface.
 
@@ -64,7 +64,7 @@ Before you can leverage the chat functionality within your application, you must
 
 ## Passing context variables to Live Agent and Virtual Agent chat
 
-You can pass chat context variables when starting a chat session by passing the **contextData** parameter in the [NowChatService-start\(\)](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowChatService/concept/NowChatServiceAndroidAPI.md#) function. For additional information on chat context variables, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
+You can pass chat context variables when starting a chat session by passing the **contextData** parameter in the [NowChatService-start\(\)](../cllent-mobile-api-reference/NowChatServiceAndroidAPI.md#) function. For additional information on chat context variables, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
 
 ```
 class MainActivity : AppCompatActivity() {
@@ -86,5 +86,5 @@ class MainActivity : AppCompatActivity() {
 
 ## Theme the chat user interface
 
-You can customize the colors of the Live Agent and Virtual Agent chat UI by passing a theme object in the start\(\) call. For a list of elements that you can customize, see [NowChatService - launchIntent\(context:Context, nowChatTheme:NowChatTheme\):Intent](../../../../../app-store/dev_portal/API_reference/MobileSDKAndroid/NowChatService/concept/NowChatServiceAndroidAPI.md#). By default, the chat UI uses the **nowUIColor** theme for all NowSDK UI elements. Refer to the sample application for an example on how to apply a theme to your chat UI.
+You can customize the colors of the Live Agent and Virtual Agent chat UI by passing a theme object in the start\(\) call. For a list of elements that you can customize, see [NowChatService - launchIntent\(context:Context, nowChatTheme:NowChatTheme\):Intent](../cllent-mobile-api-reference/NowChatServiceAndroidAPI.md#). By default, the chat UI uses the **nowUIColor** theme for all NowSDK UI elements. Refer to the sample application for an example on how to apply a theme to your chat UI.
 

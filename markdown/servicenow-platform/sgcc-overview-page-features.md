@@ -159,7 +159,7 @@ Displays the number of import set runs that ended in an error, including those i
 
 -   **Error summary**
 
-Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [Diagnose a processing error in SGC Central](../task/sgcc-diagnose-proc-errors.md).
+Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [Diagnose a processing error in SGC Central](sgcc-diagnose-proc-errors.md).
 
 -   **Last processed on**
 

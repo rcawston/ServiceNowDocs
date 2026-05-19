@@ -30,7 +30,7 @@ The following items are installed with Contract Management Pro:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md)
+For more information, see [Components installed with Contract Management Pro](cncore-comp-ccore.md)
 
 ## Procedure
 

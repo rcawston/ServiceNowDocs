@@ -15,7 +15,7 @@ breadcrumb: [IRE support for non-CMDB tables, CMDB Identification and Reconcilia
 
 Create a static or a dynamic CI reconciliation rule for a non-CMDB table.
 
-For information about static reconciliation rules, dynamic reconciliation rules, and other principals related to reconciliation rules, see [Reconciliation rules](../reference/r_ReconciliationRulesPrinciples.md).
+For information about static reconciliation rules, dynamic reconciliation rules, and other principals related to reconciliation rules, see [Reconciliation rules](r_ReconciliationRulesPrinciples.md).
 
 If both, static and dynamic reconciliation rules exist for the same record attribute, the dynamic rule has precedence.
 
@@ -33,7 +33,7 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 ### About this task
 
-Static reconciliation rules are used in conjunction with [data refresh rules](../task/create-non-cmdb-data-refresh-rule.md) to determine reconciliation steps for a record. These rules determine if, when, and by which data source a record can be updated. If multiple data sources are authorized to update the same attributes, assign a priority to each of these data sources to prevent them from overwriting each other's updates.
+Static reconciliation rules are used in conjunction with [data refresh rules](create-non-cmdb-data-refresh-rule.md) to determine reconciliation steps for a record. These rules determine if, when, and by which data source a record can be updated. If multiple data sources are authorized to update the same attributes, assign a priority to each of these data sources to prevent them from overwriting each other's updates.
 
 After an authorized data source updates an attribute, subsequent updates are accepted only from the same data source or from a data source with a higher priority. Updates from a data source with a lower priority are rejected, unless these two conditions are met:
 
@@ -102,7 +102,7 @@ Conditions that records must meet for the rule to be applicable.
 
  For example, to apply this rule only to records that are associated with the Finance department, select this condition: **\[Department\] \[is\] \[Finance\]**.
 
- **Note:** The [glide.identification\_engine.enable\_reconciliation\_filter\_before\_update](../reference/properties-id-reconciliation.md) system property determines when filter conditions are applied. By default, those filter conditions are applied after attribute values have changed during payload processing. Set this property to **true** so that Identification and Reconciliation Engine \(IRE\) applies the filter conditions before attribute values change.
+ **Note:** The [glide.identification\_engine.enable\_reconciliation\_filter\_before\_update](properties-id-reconciliation.md) system property determines when filter conditions are applied. By default, those filter conditions are applied after attribute values have changed during payload processing. Set this property to **true** so that Identification and Reconciliation Engine \(IRE\) applies the filter conditions before attribute values change.
 
 </td></tr><tr><td>
 

@@ -74,5 +74,5 @@ Field where the allowed user groups are automatically filled in based on the lis
 </td></tr></tbody>
 </table>**Note:** **Populate allowed users from** and **Populate allowed groups from** fields appear only when the **Auto-populate** field is selected.
 
-**Parent Topic:**[Configure confidentiality in GRC tables](../task/configure-confidentilaity-on-grc-tables.md)
+**Parent Topic:**[Configure confidentiality in GRC tables](configure-confidentilaity-on-grc-tables.md)
 

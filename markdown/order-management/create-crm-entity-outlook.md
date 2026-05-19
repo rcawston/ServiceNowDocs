@@ -32,8 +32,8 @@ Role required: sn\_crm\_outlook.crm\_outlook\_user
 
     |Record type|Description|
     |-----------|-----------|
-    |**Lead**|New lead record for a potential customer who has shown interest but is not yet qualified. For a description of the field values, see [Lead form in the ServiceNow CRM for Outlook add-in](../reference/lead-fields-outlook.md).|
-    |**Contact**|New contact record for an individual associated with an existing or new account. For a description of the field values, see [Contact form in the ServiceNow CRM for Outlook add-in](../reference/contact-fields-outlook.md).|
+    |**Lead**|New lead record for a potential customer who has shown interest but is not yet qualified. For a description of the field values, see [Lead form in the ServiceNow CRM for Outlook add-in](lead-fields-outlook.md).|
+    |**Contact**|New contact record for an individual associated with an existing or new account. For a description of the field values, see [Contact form in the ServiceNow CRM for Outlook add-in](contact-fields-outlook.md).|
 
 5.  Complete the required fields and any optional fields relevant to your workflow.
 
@@ -48,5 +48,5 @@ The CRM record is created and the email association is logged, enabling you to c
 
 You can view the associated emails if you have the staging\_emails\_admin role. For more information, see [Track emails linked from Microsoft Outlook](view-associated-emails-crm.md).
 
-**Parent Topic:**[Using Activity Management](../concept/using-activity-management.md)
+**Parent Topic:**[Using Activity Management](using-activity-management.md)
 

@@ -61,7 +61,7 @@ Cloud Services Catalog Terraform Connector supports Terraform Open Source versio
 **Note:** Ensure that all the templates are stored in separate directories and all the template directories are in the same base directory.
 
 4.  Test and modify the copied Terraform templates to ensure compatibility with the target Terraform Open Source version.
-5.  Create a Terraform Open Source config provider. For more information, see [Create a Terraform Open Source config provider](../task/setup-cpg-terraform-connector-for-terraform-open-source.md).
+5.  Create a Terraform Open Source config provider. For more information, see [Create a Terraform Open Source config provider](setup-cpg-terraform-connector-for-terraform-open-source.md).
 6.  Remove the old catalog items per the business strategy of your organization, and then retire the old Terraform server.
 
 

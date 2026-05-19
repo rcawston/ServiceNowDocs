@@ -160,9 +160,9 @@ The following example shows a list of the consumers that are associated with a b
 
 [Using Business Location 360](using-the-business-location-360.md)
 
-[Access Business Location 360 as a customer service agent](../task/access-business-location-360-as-agents.md)
+[Access Business Location 360 as a customer service agent](access-business-location-360-as-agents.md)
 
-[Access Business Location 360 as a customer service manager](../task/access-business-location-360-as-csm-managers.md)
+[Access Business Location 360 as a customer service manager](access-business-location-360-as-csm-managers.md)
 
-[Access Business Location 360 as a location service agent](../task/access-bl-360-as-loc-serv-agent.md)
+[Access Business Location 360 as a location service agent](access-bl-360-as-loc-serv-agent.md)
 

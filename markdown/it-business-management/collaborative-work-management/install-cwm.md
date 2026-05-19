@@ -30,7 +30,7 @@ The following items are installed with Collaborative Work Management:
 -   Tables
 -   System properties
 
-For more information, see [Components installed with Collaborative Work Management](../reference/components-installed-with-cwm.md) and [Properties installed with Collaborative Work Management](../reference/properties-installed-with-cwm.md).
+For more information, see [Components installed with Collaborative Work Management](components-installed-with-cwm.md) and [Properties installed with Collaborative Work Management](properties-installed-with-cwm.md).
 
 ## Procedure
 

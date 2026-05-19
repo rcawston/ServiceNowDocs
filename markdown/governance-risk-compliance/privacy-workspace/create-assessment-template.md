@@ -298,10 +298,10 @@ Map the risk statements to the responses of the assessment questions to automati
 -   **[Map the processing activity fields to a question response](copy-responses-to-ropa.md)**  
 Map some of the processing activity fields with the responses of the assessment questions to update the processing activity details based on the assessment response.
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
 
 **Related topics**  
 
 
-[Smart assessments in Privacy Management](../concept/smart-assessments-in-privacy-management.md)
+[Smart assessments in Privacy Management](smart-assessments-in-privacy-management.md)
 

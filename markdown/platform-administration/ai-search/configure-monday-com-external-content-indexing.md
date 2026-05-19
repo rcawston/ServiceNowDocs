@@ -72,5 +72,5 @@ Your connector admin needs these items to configure a monday.com external conten
 
 For details on creating and configuring a monday.com external content connector, see [Create a monday.com external content connector](create-ext-cont-connector-monday-com.md).
 
-**Parent Topic:**[monday.com external content connector](../concept/monday-com-external-content-connector.md)
+**Parent Topic:**[monday.com external content connector](monday-com-external-content-connector.md)
 

@@ -36,5 +36,5 @@ It is important to note the following points when you assign a delegate.
 -   The delegate can create risk response tasks and request approval.
 -   All activity performed by the delegate is captured in the activity stream.
 
-**Parent Topic:**[Advanced Risk Assessment](../../grc-risk/concept/advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
 

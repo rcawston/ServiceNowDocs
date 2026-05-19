@@ -29,7 +29,7 @@ Role required: it\_demand\_manager
 
 4.  On the Issue form, fill in the fields.
 
-    For a description of the field names, see [Issue form](../reference/issue-form.md).
+    For a description of the field names, see [Issue form](issue-form.md).
 
 5.  Search in the knowledge base for any article related to the issue.
 
@@ -49,5 +49,5 @@ Role required: it\_demand\_manager
 -   Convert an existing issue to a decision, action, or request change and close the issue. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](convert-ridac-for-demand.md).
 -   Associate the issue with your existing risks so you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 

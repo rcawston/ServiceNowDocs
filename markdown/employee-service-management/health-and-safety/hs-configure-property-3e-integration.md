@@ -34,5 +34,5 @@ The \[sn\_hs\_connector\_co.3e\_source\] property value is the unique identifier
 3.  Select **Save**.
 
 
-**Parent Topic:**[3E Protect](../../hs-integration-third-party/concept/hs-3e-protect.md)
+**Parent Topic:**[3E Protect](hs-3e-protect.md)
 

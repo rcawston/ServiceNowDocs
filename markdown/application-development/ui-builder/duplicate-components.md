@@ -29,7 +29,7 @@ Create an exact copy of a configured component on your page except for the name 
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open the page variant with the component you want to duplicate.
 
@@ -46,5 +46,5 @@ Create an exact copy of a configured component on your page except for the name 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Customize UI Builder pages using components](../concept/work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
 

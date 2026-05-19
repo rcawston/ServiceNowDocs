@@ -15,7 +15,7 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 Run My Groups Overview reports to view the activities of a selected group: Count information on acknowledged and unacknowledged escalations by shift, acknowledged escalations by user, and the hours for each user over seven days.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](../../../use/dashboards/application-content-packs/performance-analytics/oncall-scheduling.md) to view, maintain, and track the escalation reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](../oncall-scheduling.md) to view, maintain, and track the escalation reports.
 
 ## Opening the reports
 
@@ -54,5 +54,5 @@ Click the **My Groups Overview** tab and then specify the group in the **My On-C
     Pie chart that displays the number of acknowledged escalations that each user in the group worked on during the most recent seven-day period.
 
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](viewing-reports.md)
 

@@ -135,5 +135,5 @@ Message body contents. Note the following information about the message payload:
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Monitoring topics in the Hermes Kafka cluster](../concept/monitoring-topics-hermes-kafka-cluster.md)
+**Parent Topic:**[Monitoring topics in the Hermes Kafka cluster](monitoring-topics-hermes-kafka-cluster.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowChatConfiguration class enables you to configure options on a chat session, such as showing a prompt before closing a chat window, disabling features while using chat, applying different conversation options when using chat, and configuring UI components in NowChat.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowChatConfiguration - NowChatConfiguration\(closePrompt: ClosePrompt? = null, disabledFeatures: List&lt;Feature&gt;? = null, conversationOptions: List&lt;ConversationOption&gt;? = null, uiConfiguration: UIConfiguration? = null\)
 
@@ -138,7 +138,7 @@ To use the default configuration, pass null.
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatService - start\(activity: Activity, themeColors: NowChatTheme = object: NowChatTheme\{\}, contextData: Map&lt;String, Any&gt; = mapOf\(\), chatConfiguration: NowChatConfiguration? = null\)](../../NowChatService/concept/NowChatServiceAndroidAPI.md#) method.|
+|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatService - start\(activity: Activity, themeColors: NowChatTheme = object: NowChatTheme\{\}, contextData: Map&lt;String, Any&gt; = mapOf\(\), chatConfiguration: NowChatConfiguration? = null\)](NowChatServiceAndroidAPI.md#) method.|
 
 The following code example shows how to call this method.
 

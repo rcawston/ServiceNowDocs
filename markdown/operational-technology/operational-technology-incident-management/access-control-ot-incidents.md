@@ -25,5 +25,5 @@ The following table describes the roles and permissions for the users that have 
 
 For more information about access control rules, see [Access control rules in application administration apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ACL-access-checks.md).
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

@@ -37,7 +37,7 @@ Role required: ui\_builder\_admin, admin
 
 6.  Review the URL parameters, and select **Looks good**.
 
-7.  Create the [variant](../../workspace/configurable-workspace-glossary.md#) for your page by completing the following fields.
+7.  Create the [variant](configurable-workspace-glossary.md#) for your page by completing the following fields.
 
     A page variant in UI Builder is a variation of a page that exists at the same path and targets different audiences depending on audience criteria.
 

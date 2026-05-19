@@ -38,5 +38,5 @@ There are several functions that relate specifically to workflow events.
 -   **[Event-specific workflow activities](r_EventSpecificWorkflowActivities.md)**  
 The following workflow activities trigger events.
 
-**Parent Topic:**[Workflow events](../concept/c_WorkflowEvents.md)
+**Parent Topic:**[Workflow events](c_WorkflowEvents.md)
 

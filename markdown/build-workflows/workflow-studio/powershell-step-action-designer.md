@@ -215,7 +215,7 @@ The inline PowerShell script to run on the target host.**Note:** This field is o
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## PowerShell scripting variables
@@ -251,5 +251,5 @@ To access input variables from the **Command** field, you must call them using s
     -   midScriptDirectory
     -   hresult
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

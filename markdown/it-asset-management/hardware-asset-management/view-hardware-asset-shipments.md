@@ -21,7 +21,7 @@ Role required: inventory\_user \(read\) or inventory\_admin
 
 ## About this task
 
-The Shipment list shows all the shipment records initiated by the shipment tasks of various flows. For details, see [Task closures that create shipment records](../reference/shipment-record-sources.md).
+The Shipment list shows all the shipment records initiated by the shipment tasks of various flows. For details, see [Task closures that create shipment records](shipment-record-sources.md).
 
 A shipment record is created automatically whenever a shipment task of a flow or process is closed.
 
@@ -179,12 +179,12 @@ Option that indicates whether the shipment record is stale. This option is read-
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)
 
 [Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
 
@@ -198,7 +198,7 @@ Option that indicates whether the shipment record is stale. This option is read-
 
 [Create a shipping carrier record](create-shipping-carrier.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](stale-shipments.md)
 
 [Track a hardware asset shipment](track-hardware-asset-shipments.md)
 

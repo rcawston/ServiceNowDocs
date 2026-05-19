@@ -44,9 +44,9 @@ Role required: admin
     When your verification is successful, any suites with UI tests run by scheduled suites or via CICD now automatically create headless test runners without the need to manually open the "scheduled client test runner" page.
 
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](headless-browser-procedure-windows.md)
 
 **Previous topic:**[Configure Automated Test Framework \(ATF\) for Headless Browser in Microsoft Windows](headless-browser-configure-atf-windows.md)
 
-**Next topic:**[Headless Browser system properties](../reference/atf-headless-browser-properties.md)
+**Next topic:**[Headless Browser system properties](atf-headless-browser-properties.md)
 

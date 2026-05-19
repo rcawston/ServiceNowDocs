@@ -87,9 +87,9 @@ The certificate serial number observable refers to the unique ID or serial numbe
 
 ![SHA1 and certificate serial number examples](../image/riskiq-sha-cert-callout.png "File hash and certificate serial number")
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
-**Previous topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Previous topic:**[RISKIQ and WHOISIQ integration](riskiq-lookups.md)
 
-**Next topic:**[Install and configure RISKIQ and WHOISIQ](../task/install-and-config-riskiq.md)
+**Next topic:**[Install and configure RISKIQ and WHOISIQ](install-and-config-riskiq.md)
 

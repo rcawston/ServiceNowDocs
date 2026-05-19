@@ -24,7 +24,7 @@ Role required:
 -   sn\_ms\_epcfgmgr\_spk.Microsoft Endpoint Manager Admin and sn\_csd.CSD Admin
 -   admin
 
-Before creating software models, you must discover the applications available for deployment on the Microsoft Endpoint Configuration Manager server. See [CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md) for more information.
+Before creating software models, you must discover the applications available for deployment on the Microsoft Endpoint Configuration Manager server. See [CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md) for more information.
 
 ## About this task
 
@@ -49,5 +49,5 @@ You can link a Microsoft Endpoint Configuration Manager application to an existi
         The view returns to the Microsoft Endpoint Configuration Manager Applications list.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](csd2.md)
 

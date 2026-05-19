@@ -47,5 +47,5 @@ Role required: discovery\_admin
 
 Create a schedule for Alibaba Cloud in [Discovery](create-alibaba-cloud-discovery-schedule.md) or [Discovery Admin Workspace](create-alibaba-schedule-DAW.md).
 
-**Parent Topic:**[Discovery for Alibaba Cloud](../concept/alibaba-cloud-discovery.md)
+**Parent Topic:**[Discovery for Alibaba Cloud](alibaba-cloud-discovery.md)
 

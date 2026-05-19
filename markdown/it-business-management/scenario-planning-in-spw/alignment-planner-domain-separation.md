@@ -37,9 +37,9 @@ After you enable domain separation on your ServiceNow instance, the data of Stra
 
 ## Domain separated tables in Strategic Planning
 
-All the tables installed with Strategic Planning support domain separation. For a complete list of tables, see [Components installed with Strategic Planning Workspace](../reference/components-installed-with-alignment-planner-workspace.md).
+All the tables installed with Strategic Planning support domain separation. For a complete list of tables, see [Components installed with Strategic Planning Workspace](components-installed-with-alignment-planner-workspace.md).
 
-**Parent Topic:**[Strategic Planning Workspace reference](../reference/alignment-planner-workspace-reference.md)
+**Parent Topic:**[Strategic Planning Workspace reference](alignment-planner-workspace-reference.md)
 
 **Related topics**  
 

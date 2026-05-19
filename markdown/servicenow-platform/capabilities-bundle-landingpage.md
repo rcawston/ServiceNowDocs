@@ -18,7 +18,7 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Manage the Configuration Management Database \(CMDB\) ![](../../../reuse/icons/brand-icons/bus-database.svg) Configure connected devices, apps, and services you use with a powerful decision support tool.](manage-cmdb.md)
+[Manage the Configuration Management Database \(CMDB\) ![](../../../reuse/icons/brand-icons/bus-database.svg) Configure connected devices, apps, and services you use with a powerful decision support tool.](configuration-management-database-cmdb/manage-cmdb.md)
 
 </td><td>
 
@@ -26,7 +26,7 @@ Choose one of these tiles to get started.
 
 </td><td>
 
-[Manage Content ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Create and share documents and knowledge articles with your users.](../reference/manage-content.md)
+[Manage Content ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Create and share documents and knowledge articles with your users.](manage-content.md)
 
 </td></tr><tr><td>
 

@@ -27,7 +27,7 @@ Role required: sn\_si.basic
 
 <table id="choicetable_k4s_q45_c5"><tbody><tr><td id="d215246e60">
 
-**[View Manual Runbook](../reference/setup-assistant-reference.md#)**
+**[View Manual Runbook](setup-assistant-reference.md#)**
 
 </td><td>
 
@@ -51,7 +51,7 @@ Adds a list of observables in comma, new line, tab, or pipe delimited formats.
 
 </td></tr><tr><td id="d215246e101">
 
-**[Add to Security Case](../../threat-intelligence-case-management/concept/case-mgmt.md)**
+**[Add to Security Case](../case-mgmt.md)**
 
 </td><td>
 

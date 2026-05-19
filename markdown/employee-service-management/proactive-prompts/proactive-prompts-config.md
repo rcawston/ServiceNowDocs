@@ -21,9 +21,9 @@ A signal is the configuration for prompts about when to send them, what to send,
 
 Configuring Proactive Prompts is a multi-step process:
 
--   [Creating a signal](../task/proactive-prompts-signal-create.md). A signal determines when to send the prompt, what to send, whom to send it to, where to send it, and related actions to generate and deliver the prompts.
--   [Creating a data source for the signal](../task/proactive-prompts-signal-data-source.md). The signal data source brings in the most relevant information for managers or employees.
--   [Configuring channels](../task/proactive-prompts-config-channels.md). Choose where to display the prompts that would be the most benefit to your users.
--   [Configure actions](../task/proactive-prompts-signal-actions.md). You determine the actions to generate and deliver the prompts.
--   [Configuring schedules](../task/proactive-prompts-signal-schedules.md). You choose the frequency that you want the data source to process the data and to generate the prompts in the selected channels.
+-   [Creating a signal](proactive-prompts-signal-create.md). A signal determines when to send the prompt, what to send, whom to send it to, where to send it, and related actions to generate and deliver the prompts.
+-   [Creating a data source for the signal](proactive-prompts-signal-data-source.md). The signal data source brings in the most relevant information for managers or employees.
+-   [Configuring channels](proactive-prompts-config-channels.md). Choose where to display the prompts that would be the most benefit to your users.
+-   [Configure actions](proactive-prompts-signal-actions.md). You determine the actions to generate and deliver the prompts.
+-   [Configuring schedules](proactive-prompts-signal-schedules.md). You choose the frequency that you want the data source to process the data and to generate the prompts in the selected channels.
 

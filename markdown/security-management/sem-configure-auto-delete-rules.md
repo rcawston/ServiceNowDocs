@@ -17,7 +17,7 @@ The base system provides two preconfigured auto-delete rules that automatically 
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 

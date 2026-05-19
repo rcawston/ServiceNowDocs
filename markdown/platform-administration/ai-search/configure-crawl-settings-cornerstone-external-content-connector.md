@@ -73,5 +73,5 @@ The Cornerstone external content connector is updated with your modified crawl s
 
 To retrieve content from your Cornerstone source system using your modified crawl settings, create and run a one-time content crawl for your Cornerstone external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Cornerstone external content connector](../concept/cornerstone-external-content-connector.md)
+**Parent Topic:**[Cornerstone external content connector](cornerstone-external-content-connector.md)
 

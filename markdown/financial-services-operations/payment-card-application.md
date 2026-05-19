@@ -27,10 +27,10 @@ Cards in Payment card can be associated with a Financial Account in Financial Se
 
 Payment card is included with Financial Services Operations Core.
 
--   **[Payment card tables](../reference/payment-card-application-tables.md)**  
+-   **[Payment card tables](payment-card-application-tables.md)**  
 This section describes the tables in the Payment card application and shows how they store and manage physical payment card information.
--   **[Payment card roles](../reference/payment-card-application-roles.md)**  
+-   **[Payment card roles](payment-card-application-roles.md)**  
 This section outlines the core roles involved in managing payment cards in the Payment card application.
 
-**Parent Topic:**[Data Models](../../fso-common/reference/data-models.md)
+**Parent Topic:**[Data Models](data-models.md)
 

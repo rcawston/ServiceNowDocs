@@ -67,5 +67,5 @@ If later, a permitted data source successfully inserts a record that matches the
 3.  Later payloads in which the non-permitted data source updates the respective record, run successfully.
 4.  IRE allows the data source, that was previously prohibited from inserting the record, to update that same record which now exists in the non-CMDB table.
 
-**Parent Topic:**[IRE support for non-CMDB tables](../concept/ire-support-non-cmdb-tables.md)
+**Parent Topic:**[IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md)
 

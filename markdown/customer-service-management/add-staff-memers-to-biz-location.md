@@ -139,5 +139,5 @@ Once a staff member is added to a business location, the following details can b
 
 [Create cases for a business location in the Business Location Service Portal](report-cases-on-behalf-of-biz-location.md)
 
-[Track cases on the Business Location Service Portal](../concept/track-cases-for-blsp-portal.md)
+[Track cases on the Business Location Service Portal](track-cases-for-blsp-portal.md)
 

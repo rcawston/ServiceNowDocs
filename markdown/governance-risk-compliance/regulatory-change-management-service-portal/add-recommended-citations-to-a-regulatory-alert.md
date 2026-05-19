@@ -52,7 +52,7 @@ Traditionally, citations were downloaded from a third-party provider but only th
     The selected citations are associated with the regulatory alert.
 
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](regulatory-feeds.md)
 
 **Related topics**  
 

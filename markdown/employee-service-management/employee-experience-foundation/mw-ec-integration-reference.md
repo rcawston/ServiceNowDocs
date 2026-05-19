@@ -20,7 +20,7 @@ The reference topics for the application provide additional information about th
 When certificate validation returns errors during the setup process, verify the following configuration:
 
 -   The correct key store password is entered \(case-sensitive\).
--   JKS file isn’t corrupted, if necessary, request a fresh file, see [Upload Java KeyStore certificate](../task/mw-upload-jks-cert.md).
+-   JKS file isn’t corrupted, if necessary, request a fresh file, see [Upload Java KeyStore certificate](mw-upload-jks-cert.md).
 -   Password is entered in both certificate record and JWT provider settings.
 -   Contact support if issues persist after verification.
 
@@ -31,7 +31,7 @@ When the Moveworks chat assistant isn't visible on Employee Center or appears no
 -   Confirm that the Moveworks plugin is installed and enabled from the ServiceNow Store.
 -   Navigate to **System Applications** &gt; **Applications** and confirm the status column displays **Active** for the plugin.
 -   Verify that the JKS is valid and JWT keys are configured with the correct password.
--   Check that the Moveworks website setup page is saved with a valid bot ID as explained in [Configure bot ID and AI assistant](../task/mw-setup-botid.md).
+-   Check that the Moveworks website setup page is saved with a valid bot ID as explained in [Configure bot ID and AI assistant](mw-setup-botid.md).
 -   When all the settings look correct, validate their portal-side configuration and ingestion status.
 
 ## Enable or disable virtual agent on employee center
@@ -55,13 +55,13 @@ Verify the following configuration:
 **Related topics**  
 
 
-[Getting started with Moveworks for Employee Center](../concept/moveworks-ec-getting-started.md)
+[Getting started with Moveworks for Employee Center](moveworks-ec-getting-started.md)
 
-[Install Moveworks for Employee Center app from store](../task/mw-install-app.md)
+[Install Moveworks for Employee Center app from store](mw-install-app.md)
 
-[Upload Java KeyStore certificate](../task/mw-upload-jks-cert.md)
+[Upload Java KeyStore certificate](mw-upload-jks-cert.md)
 
-[Configure bot ID and AI assistant](../task/mw-setup-botid.md)
+[Configure bot ID and AI assistant](mw-setup-botid.md)
 
-[Use Moveworks on employee portal](../concept/mw-employee-chat-ui.md)
+[Use Moveworks on employee portal](mw-employee-chat-ui.md)
 

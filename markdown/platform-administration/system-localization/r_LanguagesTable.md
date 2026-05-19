@@ -28,9 +28,9 @@ To enable translation to a new language, add a record to the Languages table. Th
 **Related topics**  
 
 
-[Activate a language](../task/t_ActivateALanguage.md)
+[Activate a language](t_ActivateALanguage.md)
 
-[Create a language record](../task/t_CreateANewLanguageRecord.md)
+[Create a language record](t_CreateANewLanguageRecord.md)
 
-[Ensure that translated choices appear for applications added by plugins](../task/activate-translated-choices-plugins.md)
+[Ensure that translated choices appear for applications added by plugins](activate-translated-choices-plugins.md)
 

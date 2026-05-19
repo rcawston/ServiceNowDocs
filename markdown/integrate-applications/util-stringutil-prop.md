@@ -20,5 +20,5 @@ Learn about the properties of the String Utilities components in RPA Desktop Des
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

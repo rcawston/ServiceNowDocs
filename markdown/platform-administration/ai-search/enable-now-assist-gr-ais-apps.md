@@ -26,7 +26,7 @@ Role required: ais\_admin
 
 Now Assist in AI Search provides multiple AI-powered Genius Result configurations. As a search administrator, you can enable individual Now Assist Genius Result configurations in AI Search portal and mobile applications.
 
-To learn more about how Genius Results work, see [Genius Results](../concept/genius-results-ais.md). For details on the Now Assist Genius Result configurations, see [Now Assist Q&amp;A Genius Results](../concept/now-assist-qna-genius-results.md) and [Now Assist Actions Genius Results](../concept/now-assist-catalog-ordering-gr.md).
+To learn more about how Genius Results work, see [Genius Results](genius-results-ais.md). For details on the Now Assist Genius Result configurations, see [Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md) and [Now Assist Actions Genius Results](now-assist-catalog-ordering-gr.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ To learn more about how Genius Results work, see [Genius Results](../concept/gen
 
 AI Search enables your selected Now Assist Genius Result configurations for all users of the specified AI Search portals and mobile applications.
 
-**Parent Topic:**[Configuring Now Assist in AI Search](../concept/configuring-now-assist-ais.md)
+**Parent Topic:**[Configuring Now Assist in AI Search](configuring-now-assist-ais.md)
 

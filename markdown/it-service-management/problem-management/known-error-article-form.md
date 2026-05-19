@@ -31,5 +31,5 @@ Description of the field values for the legacy problem form.
 |Workaround|Method that you have used to overcome the Problem. It can be a way of dealing with a problem or making something work despite the problem not being resolved.|
 |Cause|Information on what had caused the problem.|
 
-**Parent Topic:**[Reference section for Problem Management](../concept/reference-section-for-problem-management.md)
+**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
 

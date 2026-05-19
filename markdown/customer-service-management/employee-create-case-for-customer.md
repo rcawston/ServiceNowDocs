@@ -17,7 +17,7 @@ Assign the proxy contact role \(sn\_customerservice.proxy\_contact\) to employee
 
 **Note:** This role requires licensing for access to CSM applications. The proxy contact cannot co-exist with the contributor roles.
 
-Install the [CSM Extension for Proxy Contacts](../task/csm-extension-for-proxy-contacts.md) to use this functionality.
+Install the [CSM Extension for Proxy Contacts](csm-extension-for-proxy-contacts.md) to use this functionality.
 
 Employees with the proxy contact role can do the following:
 

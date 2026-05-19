@@ -23,7 +23,7 @@ Role required: sn\_bm\_client.benchmark\_data\_viewer
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Dashboard**.
 
-2.  Select one of the **KPI categories** from the [KPI list](../concept/c_BenchKPIConfig.md).
+2.  Select one of the **KPI categories** from the [KPI list](c_BenchKPIConfig.md).
 
 3.  To view the corresponding group of KPIs, click a tab.
 
@@ -44,7 +44,7 @@ Role required: sn\_bm\_client.benchmark\_data\_viewer
 
 ## What to do next
 
-Click a KPI to view [Benchmarks KPI performance trend and recommendations \(deprecated\)](../concept/bench-kpi-trend-recommend.md).
+Click a KPI to view [Benchmarks KPI performance trend and recommendations \(deprecated\)](bench-kpi-trend-recommend.md).
 
-**Parent Topic:**[Deprecated Benchmarks dashboard](../concept/c_BenchDashboard.md)
+**Parent Topic:**[Deprecated Benchmarks dashboard](c_BenchDashboard.md)
 

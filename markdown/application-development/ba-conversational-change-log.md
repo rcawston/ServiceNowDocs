@@ -42,5 +42,5 @@ The change log displays the following:
 
 Changes from each checkpoint in the conversation are packaged together into an update set. You can find each update set on the **Deployment** tab on the ServiceNow Studio home page.
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](use-build-agent.md)
 

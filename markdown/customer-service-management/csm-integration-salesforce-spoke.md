@@ -31,11 +31,11 @@ Each action includes three steps:
 
 **Note:** You can test all actions from the Flow Designer before you attempt to connect them to the remote table.
 
--   **[Get All Opportunities custom action](../reference/csm-get-all-opportunities-action.md)**  
+-   **[Get All Opportunities custom action](csm-get-all-opportunities-action.md)**  
 The **Get All Opportunities** action retrieves opportunity records from the Salesforce application. This action is invoked when you view the remote Opportunity table.
--   **[Get Opportunities for Account Id custom action](../reference/csm-account-opportunities-action.md)**  
+-   **[Get Opportunities for Account Id custom action](csm-account-opportunities-action.md)**  
 The **Get Opportunities for Account Id** action retrieves opportunity records for the specific Salesforce account. This action is invoked when the agent views a Salesforce opportunity available for the customer account based on the Salesforce account associated with it.
--   **[Get Opportunities Details custom action](../reference/csm-details-opportunities-action.md)**  
+-   **[Get Opportunities Details custom action](csm-details-opportunities-action.md)**  
 The **Get Opportunities Details** action retrieves a single Opportunity record from the Salesforce application based on the record Id. This action is invoked when the user opens the form for the Opportunity record in the remote table.
 
 **Parent Topic:**[Using remote tables and the Salesforce spoke](csm-integration-remote-tables.md)

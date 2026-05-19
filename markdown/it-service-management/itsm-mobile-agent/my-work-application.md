@@ -22,5 +22,5 @@ As an agent, you can:
 -   Add work notes or comments, update incident details, assign incidents to other agents.
 -   Easily access change requests and request approvals.
 
-From the main screen of the agent mobile app, you can directly [create an incident](../task/create-incident-mobile.md) using a single click.
+From the main screen of the agent mobile app, you can directly [create an incident](create-incident-mobile.md) using a single click.
 

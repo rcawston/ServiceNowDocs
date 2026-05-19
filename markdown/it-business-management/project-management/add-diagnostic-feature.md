@@ -27,7 +27,7 @@ Role required: adt\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Diagnostics Feature form](../reference/diagnostics-feature-form.md).
+    For more information, see [Diagnostics Feature form](diagnostics-feature-form.md).
 
 4.  Define the fields available to users for specifying filter conditions in the **Diagnostics Inputs** section.
 

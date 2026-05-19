@@ -15,13 +15,13 @@ breadcrumb: [Creating Visual Task Boards, Using Visual Task Boards, Visual Task 
 
 You can add personal task cards directly to lanes on a freeform board. You can also add other kinds of task cards to a freeform board from a list or form.
 
--   **[Create a freeform Visual Task Board](../task/t_CreateAFreeformBoard.md)**  
+-   **[Create a freeform Visual Task Board](t_CreateAFreeformBoard.md)**  
 You can create freeform Visual Task Boards \(VTBs\) for tracking any kind of task or project.
--   **[Add a personal task to a freeform Visual Task Board](../task/t_AddAPersonalTaskToAFreeformBoard.md)**  
+-   **[Add a personal task to a freeform Visual Task Board](t_AddAPersonalTaskToAFreeformBoard.md)**  
 You can add cards directly to a freeform board lane. These cards are called personal tasks and represent records on the Private Task \[vtb\_task\] table.
--   **[Add a task to a freeform Visual Task Board from a form](../task/t_AddATaskToAFreeformBoardFromAForm.md)**  
+-   **[Add a task to a freeform Visual Task Board from a form](t_AddATaskToAFreeformBoardFromAForm.md)**  
 You can add a task card to a freeform board from any table that extends Task. These cards represent records on whichever table you add them from.
--   **[Add a task to a freeform Visual Task Board from a list](../task/t_AddATaskToAFreeformBoardFromAList.md)**  
+-   **[Add a task to a freeform Visual Task Board from a list](t_AddATaskToAFreeformBoardFromAList.md)**  
 You can add a task card to a freeform board from any table that extends Task. These cards represent records on whichever table you add them from.
 
 **Parent Topic:**[Creating Visual Task Boards](c_VisualTaskBoardUse.md)
@@ -31,11 +31,11 @@ You can add a task card to a freeform board from any table that extends Task. Th
 
 [Data driven Visual Task Boards](data-driven-tasks.md)
 
-[Add a task to a flexible or guided Visual Task Board](../task/t_AddATaskToAFlexibleOrGuidedBoard.md)
+[Add a task to a flexible or guided Visual Task Board](t_AddATaskToAFlexibleOrGuidedBoard.md)
 
-[Add or modify Visual Task Board lanes](../task/t_AddOrModifyALane.md)
+[Add or modify Visual Task Board lanes](t_AddOrModifyALane.md)
 
-[Add or remove a Visual Task Board member](../task/t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
 
-[Delete a Visual Task Board](../task/t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](t_DeleteATaskBoard.md)
 

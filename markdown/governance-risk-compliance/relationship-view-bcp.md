@@ -47,5 +47,5 @@ The configurations for the 360° view are stored in **360° View Configurations*
 4.  To navigate to the plan again, select the plan or list view in the breadcrumb navigation.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

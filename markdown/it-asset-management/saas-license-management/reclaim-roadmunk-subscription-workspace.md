@@ -17,7 +17,7 @@ Reclaim unused Roadmunk subscriptions to reduce your total software costs.
 
 ## Before you begin
 
-To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
+To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](../software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 Roadmunk Role required: Account Admin
 
@@ -73,7 +73,7 @@ The SaaS License Management Roadmunk integration doesn’t support reclamation t
 
     The users are deactivated and added to the list of inactive users.
 
-    **Note:** By default, the Roadmunk Download Subscriptions subflow within the ServiceNow SaaS License Management Roadmunk integration downloads all users in your Roadmunk account, including both active and inactive users. To download only the active users in your account, you must download your Roadmunk User Report and then attach it to the Roadmunk integration profile on your ServiceNow instance. See step 7 of [Create a Roadmunk integration profile](../concept/integrate-with-roadmunk.md#) for detailed instructions.
+    **Note:** By default, the Roadmunk Download Subscriptions subflow within the ServiceNow SaaS License Management Roadmunk integration downloads all users in your Roadmunk account, including both active and inactive users. To download only the active users in your account, you must download your Roadmunk User Report and then attach it to the Roadmunk integration profile on your ServiceNow instance. See step 7 of [Create a Roadmunk integration profile](integrate-with-roadmunk.md#) for detailed instructions.
 
 3.  Delete deactivated users from your Roadmunk account.
 

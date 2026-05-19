@@ -24,5 +24,5 @@ Use this form to create Workday learning todos.
 -   **[Workday learning user course activity staging form](wdl-user-course-activity-form.md)**  
 Use this form to create Workday learning todos.
 
-**Parent Topic:**[HR Service Delivery Integration with Workday Learning](../concept/hr-integration-with-workday-learning.md)
+**Parent Topic:**[HR Service Delivery Integration with Workday Learning](hr-integration-with-workday-learning.md)
 

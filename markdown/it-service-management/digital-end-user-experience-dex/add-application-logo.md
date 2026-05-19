@@ -59,5 +59,5 @@ To see the new application logo, perform the following steps.
     The logo appears before the name of the application.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

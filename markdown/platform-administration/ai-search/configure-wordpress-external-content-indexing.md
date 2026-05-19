@@ -89,5 +89,5 @@ Your connector admin needs these items to configure a WordPress external content
 
 For details on creating and configuring a WordPress external content connector, see [Create a WordPress external content connector](create-ext-cont-connector-wordpress.md).
 
-**Parent Topic:**[WordPress external content connector](../concept/wordpress-external-content-connector.md)
+**Parent Topic:**[WordPress external content connector](wordpress-external-content-connector.md)
 

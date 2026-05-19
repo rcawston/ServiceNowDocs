@@ -34,6 +34,6 @@ On the incident form, you can perform actions to manage and resolve the incident
     -   DEX requires a separate entitlement.
     -   This link is available to the agent only if the following conditions are met:
         -   The selected CI is of type Device, which is also known as Endpoint.
-        -   The DEX plugin is installed on the instance. For more information on DEX, see [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+        -   The DEX plugin is installed on the instance. For more information on DEX, see [Digital End-User Experience](../digital-end-user-experience-dex/dex-landing.md).
         -   The DEX agent is installed on the selected CI.
 

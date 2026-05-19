@@ -45,5 +45,5 @@ The configurations for the 360° view are stored in **360° View Configurations*
 4.  Select the event or list view in the breadcrumb navigation to open the original event record.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

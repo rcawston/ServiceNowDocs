@@ -151,5 +151,5 @@ Select a framework version.Select **.NET Framework 4.7** version.
         ![Output of the Sum method that appears as "17".](../image/rpa-user-plugin-example2.png "Output of the Sum method")
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](rpa-studio-build.md)
 

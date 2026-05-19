@@ -100,5 +100,5 @@ Select **Browse documents**. Your system file browser opens. Navigate to and sel
     The file picker closes and the selected documents appear in the Documents panel.
 
 
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](document-management-workspace.md)
 

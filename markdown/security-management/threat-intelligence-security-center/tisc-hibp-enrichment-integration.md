@@ -181,7 +181,7 @@ You can also view the Have I Been Pwned flags, which indicate the attributes ide
 
 **Note:** The HIBP integration provides breach awareness only. It does not support actions to remediate or resolve breaches, as the breaches originate from external third-party systems.
 
-**Parent Topic:**[Observable Enrichment](../concept/tisc-observable-enrichment.md)
+**Parent Topic:**[Observable Enrichment](tisc-observable-enrichment.md)
 
 **Related topics**  
 

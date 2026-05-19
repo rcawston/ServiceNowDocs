@@ -30,5 +30,5 @@ Enable or disable user preferences for flow to change options available to Workf
 **Related topics**  
 
 
-[Set flow user preferences](../task/set-flow-user-preferences.md)
+[Set flow user preferences](set-flow-user-preferences.md)
 

@@ -15,15 +15,15 @@ Give your customers tailored catalogs for products, and create portals for servi
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
-[Self-service ![](../../../reuse/icons/brand-icons/bus-person.svg) Design an efficient front-end for your organization's IT support.](../../../use/employee-self-service/reference/r_EmployeeSelfService.md)
+[Self-service ![](../../../reuse/icons/brand-icons/bus-person.svg) Design an efficient front-end for your organization's IT support.](self-service/r_EmployeeSelfService.md)
 
 </td><td>
 
-[Service administration ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Control settings in all the support services for your business apps on the ServiceNow AI Platform.](../../service-administration/concept/c_ServiceAdministration.md)
+[Service administration ![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg) Control settings in all the support services for your business apps on the ServiceNow AI Platform.](c_ServiceAdministration.md)
 
 </td><td>
 
-[Service Catalog![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Create and manage catalogs to give your customers self-service options.](../../../product/service-catalog-management/concept/service-catalog.md)
+[Service Catalog![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Create and manage catalogs to give your customers self-service options.](service-catalog/service-catalog.md)
 
 </td></tr></tbody>
 </table>## Self-service

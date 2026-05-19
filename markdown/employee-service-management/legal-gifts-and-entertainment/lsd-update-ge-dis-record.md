@@ -101,5 +101,5 @@ A link to the document is listed in the **External URL** column of the documents
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing gifts and entertainment disclosure requests](../concept/lsd-manage-ge-request.md)
+**Parent Topic:**[Managing gifts and entertainment disclosure requests](lsd-manage-ge-request.md)
 

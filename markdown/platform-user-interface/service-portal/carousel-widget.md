@@ -21,7 +21,7 @@ Use the carousel widget to showcase items on your portal page. For example, disp
 
 **Note:** For Employee Center Pro, use Content Experiences widget to showcase actionable communications content on your employee portal. .
 
--   **[Add slides to the carousel widget](../task/add-slides-carousel-widget.md)**  
+-   **[Add slides to the carousel widget](add-slides-carousel-widget.md)**  
 Use the related lists for an instance of the carousel widget to add images for the carousel widget to scroll through.
 
 **Parent Topic:**[Example widgets](sp-example-widgets.md)
@@ -29,9 +29,9 @@ Use the related lists for an instance of the carousel widget to add images for t
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

@@ -16,7 +16,7 @@ A geomap visualization shows the geographical distribution of data for a world, 
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ For information about the use of a Geomap visualization in a dashboard, see [the
 
 4.  Choose a table data source.
 
-    For general descriptions of the data sources, see [Data sources for data visualizations](../../par-for-workspace/reference/data-sources-visualizations.md).
+    For general descriptions of the data sources, see [Data sources for data visualizations](data-sources-visualizations.md).
 
     1.  Configure the map settings.
 
@@ -131,7 +131,7 @@ Option to show or hide the refresh option from data visualizations. If cache is 
 </td></tr></tbody>
 </table>6.  Set the options for your data source.
 
-    Go to [Table data options for Geomap visualizations](../reference/config-dv-geomap-table-data.md).
+    Go to [Table data options for Geomap visualizations](config-dv-geomap-table-data.md).
 
 7.  Under **Presentation**, provide display and color information.
 
@@ -242,12 +242,12 @@ Only the **Go to data view** interaction is available for geomaps. This action o
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
--   **[Table data options for Geomap visualizations](../reference/config-dv-geomap-table-data.md)**  
+-   **[Table data options for Geomap visualizations](config-dv-geomap-table-data.md)**  
 When you select a table data source for a Geomap visualization, the following Data configuration options are available.
--   **[Map sources for geomap data visualizations](../concept/geomap-map-source.md#)**  
+-   **[Map sources for geomap data visualizations](geomap-map-source.md#)**  
 Geomap data visualizations are connected to location tables in a special map source.
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

@@ -32,5 +32,5 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 5.  Confirm your choice by selecting **Delete**.
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](funnel-reports-uxa.md)
 

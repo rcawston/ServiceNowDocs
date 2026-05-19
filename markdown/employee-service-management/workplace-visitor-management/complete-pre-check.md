@@ -23,7 +23,7 @@ Role required: None
 
 1.  Log in to the visitor portal, then select a visit.
 
-    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](../concept/login-visitor-portal.md#).
+    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](login-visitor-portal.md#).
 
     You can select **Message the host** to send an email to the host.
 

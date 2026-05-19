@@ -71,5 +71,5 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
     7.  On the HR service form, click **Update**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](integrating-with-adobe-sign-service.md)
 

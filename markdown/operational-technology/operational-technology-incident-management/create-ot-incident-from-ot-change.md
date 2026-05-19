@@ -74,5 +74,5 @@ The following related lists are available in an OT change record in the Industri
 
 After you create the incident from the change request, you can view the incident record in the related list or by navigating back to the Industrial Workspace list view. Then select one of the available lists under the **OT Incidents** list module.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

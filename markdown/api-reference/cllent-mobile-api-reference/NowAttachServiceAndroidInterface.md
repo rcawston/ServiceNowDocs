@@ -17,9 +17,9 @@ The NowAttachmentService interface provides functions that enable the manipulati
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowAttachmentService - attachment\(sysId: String, validateAttachment: Boolean = true\)
 
@@ -71,7 +71,7 @@ Flag that indicates whether to validate the attachment.
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[NowAttachment](../../NowAttachment/concept/NowAttachmentAndroidAPI.md#)&gt;|NowAttachment object that contains the requested attachment.|
+|[Call](CallAndroidInterface.md#)&lt;[NowAttachment](NowAttachmentAndroidAPI.md#)&gt;|NowAttachment object that contains the requested attachment.|
 
 ```
 fun getAttachment(sysId: String, isValidateAttachment: Boolean) { 
@@ -95,7 +95,7 @@ Retrieves the metadata for the attachment associated with the specified sys\_id.
 
 |Type|Description|
 |----|-----------|
-|[Call](../../Call/concept/CallAndroidInterface.md#)​&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)&gt;|Object that contains the metadata for the specified attachment.|
+|[Call](CallAndroidInterface.md#)​&lt;[NowAttachmentMetadata](NowAttachmentMetadataAndroidAPI.md#)&gt;|Object that contains the metadata for the specified attachment.|
 
 ```
 fun fetchMetadata(sysId: String) { 
@@ -131,7 +131,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilterAndroidAPI.md#)
+[Filter](FilterAndroidAPI.md#)
 
 </td><td>
 
@@ -152,7 +152,7 @@ Optional. Maximum number of attachment file's metadata to return.Default: null -
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/)​&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)&gt;&gt;|List of objects that contain the metadata for the matching attachments.|
+|[Call](CallAndroidInterface.md#)&lt;[List](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/)​&lt;[NowAttachmentMetadata](NowAttachmentMetadataAndroidAPI.md#)&gt;&gt;|List of objects that contain the metadata for the matching attachments.|
 
 ```
 fun fetchMultipleMetadata(filterQuery: String, limit: Int) { 
@@ -190,7 +190,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilterAndroidAPI.md#)
+[Filter](FilterAndroidAPI.md#)
 
 </td><td>
 
@@ -219,7 +219,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Paginator​&lt;[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)&gt;
+Paginator​&lt;[NowAttachmentMetadata](NowAttachmentMetadataAndroidAPI.md#)&gt;
 
 </td><td>
 
@@ -266,7 +266,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
+[Call](CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;
 
 </td><td>
 
@@ -294,7 +294,7 @@ Retrieves the metadata for all the attachments that meet the specified criteria 
 
 |Type|Description|
 |----|-----------|
-|[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)|Uploaded metadata.|
+|[NowAttachmentMetadata](NowAttachmentMetadataAndroidAPI.md#)|Uploaded metadata.|
 
 ```
 fun uploadAttachment(tableName: String, recordSysId: String, fileName: String) { 

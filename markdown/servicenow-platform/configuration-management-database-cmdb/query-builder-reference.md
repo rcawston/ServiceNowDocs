@@ -21,11 +21,11 @@ Reference topics provide example queries and descriptions of navigation and prop
 
     Domain separation is supported in the CMDB Query Builder. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
--   **[Navigation in CMDB Query Builder](../reference/navigation-cmdb-query-builder.md)**
+-   **[Navigation in CMDB Query Builder](navigation-cmdb-query-builder.md)**
 
     Use the navigation tools to enlarge or shrink the query, to move the query, or to border a section of the query to run.
 
--   **[Property settings for CMDB Query Builder](../reference/cmdb-querybldr-sysproprties.md)**
+-   **[Property settings for CMDB Query Builder](cmdb-querybldr-sysproprties.md)**
 
     Use the CMDB Query Builder properties to configure query processing.
 

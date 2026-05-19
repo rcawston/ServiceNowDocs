@@ -33,7 +33,7 @@ To make a stop word dictionary affect search behavior, you must link it to a sea
 
 4.  On the Dictionary form, fill in the fields.
 
-    For a description of the field values, see [Dictionary and AI Search Dictionary forms](../reference/dictionary-form-ais.md).
+    For a description of the field values, see [Dictionary and AI Search Dictionary forms](dictionary-form-ais.md).
 
 5.  To save the new stop word dictionary and link it to the specified search profile, select **Submit.**
 
@@ -46,5 +46,5 @@ The new stop word dictionary appears in the Stop Words related list.
 
 To make new or updated stop word dictionary settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Stop words](../concept/stop-words-ais.md)
+**Parent Topic:**[Stop words](stop-words-ais.md)
 

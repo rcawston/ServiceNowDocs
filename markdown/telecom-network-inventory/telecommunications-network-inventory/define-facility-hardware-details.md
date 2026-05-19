@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create a facility hardware record, it creates a corresponding configuration item \(CI\) record in the facility extension class table. To learn more about the Equipment Holder extension class table, see [Network inventory facility classes](../reference/network-inventory-facility-classes.md).
+When you create a facility hardware record, it creates a corresponding configuration item \(CI\) record in the facility extension class table. To learn more about the Equipment Holder extension class table, see [Network inventory facility classes](network-inventory-facility-classes.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 3.  Select **New** and then select the facility type from the list.
 
-    To learn more about the facility types, see [Network inventory facility classes](../reference/network-inventory-facility-classes.md).
+    To learn more about the facility types, see [Network inventory facility classes](network-inventory-facility-classes.md).
 
 4.  Select **Submit**.
 
@@ -39,7 +39,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 5.  On the **Details** tab, fill in the form.
 
-    To learn more about the field information, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md)
+    To learn more about the field information, see [Equipment Holder form](tni-equipment-holder-form-configuration.md)
 
 6.  Create the Telecommunications Network Inventory attributes for the Facility record by selecting **Set Inventory Attributes**.
 
@@ -51,7 +51,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 8.  Select **Save**.
 
@@ -61,7 +61,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](../concept/telecom-network-inventory.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](telecom-network-inventory.md).
 
 11. View the associated network inventories by selecting the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
 
@@ -70,12 +70,12 @@ When you create a facility hardware record, it creates a corresponding configura
 
 ## What to do next
 
-If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](inventory-related-tab.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Data model](../concept/uses-for-network-inventory-data.md)
+[Data model](uses-for-network-inventory-data.md)
 

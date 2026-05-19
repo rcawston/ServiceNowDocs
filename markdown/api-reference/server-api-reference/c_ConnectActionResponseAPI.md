@@ -17,7 +17,7 @@ The ConnectActionResponse API provides a method to create a glide record.
 
 The ConnectActionResponse methods are accessed through a global object \(response\) that is available only in Connect action scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ConnectActionResponse - newRecord\(String table, Object values, String view\)
 

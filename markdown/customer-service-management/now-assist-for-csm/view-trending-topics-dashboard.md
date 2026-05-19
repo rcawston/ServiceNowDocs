@@ -154,5 +154,5 @@ An AI tagline alert with the AI gradient color theme is available in the dashboa
 **Related topics**  
 
 
-[Configure trending topics dashboard](../task/configure-trending-topics-dashboard.md)
+[Configure trending topics dashboard](configure-trending-topics-dashboard.md)
 

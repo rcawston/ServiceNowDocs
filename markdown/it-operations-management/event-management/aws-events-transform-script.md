@@ -125,7 +125,7 @@ Integrate using an API key to establish secure communication and automate data e
 **Related topics**  
 
 
-[Event field format for event collection](../concept/c_EMIntegrateRequirementEvent.md)
+[Event field format for event collection](c_EMIntegrateRequirementEvent.md)
 
 [Integrate with push connectors](configure-listener-transform-script.md)
 

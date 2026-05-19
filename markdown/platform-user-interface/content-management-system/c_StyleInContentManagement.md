@@ -19,7 +19,7 @@ Three elements control CSS styles:
 
 -   [Style Sheets](c_StyleSheets.md) are records containing CSS declarations.
 -   [Themes](c_DesignThemes.md) are groups of style sheets that can be invoked together.
--   [Frames](../task/t_Frame.md) are UI macros that define the outer border of individual content blocks as they appear on a content page. Frames work by calling on particular definitions in the style sheets.
+-   [Frames](t_Frame.md) are UI macros that define the outer border of individual content blocks as they appear on a content page. Frames work by calling on particular definitions in the style sheets.
 
 -   **[Style sheets](c_StyleSheets.md)**  
 Styles sheets are standard Cascading Style Sheets \(CSS\) that define the look and feel of all elements within the interface.
@@ -27,10 +27,10 @@ Styles sheets are standard Cascading Style Sheets \(CSS\) that define the look a
 Design themes are the convergence of structure and styling, making them a critical tool for creating a powerful user interface.
 -   **[Doctypes](c_SetTheDoctype.md)**  
 The view\_content html page template on which all CMS is based defaults to `doctype=html`.
--   **[Format a frame](../task/t_Frame.md)**  
+-   **[Format a frame](t_Frame.md)**  
 Frames provide a way to manage decorative containers for content blocks and any other elements within the site. For example, one frame can be a container, made of div or span tags, that is styled with rounded corners.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](t_CreateASite.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ Frames provide a way to manage decorative containers for content blocks and any 
 
 [Content Management meta tags](c_ContentManagementMetaTags.md)
 
-[Define a frame in a style sheet](../task/t_DefineTheFrameInAStyleSheet.md)
+[Define a frame in a style sheet](t_DefineTheFrameInAStyleSheet.md)
 
-[Create a frame UI macro](../task/t_CreateANewFrameUIMacro.md)
+[Create a frame UI macro](t_CreateANewFrameUIMacro.md)
 

@@ -17,9 +17,9 @@ Generate a risk assessment summary that is based on your inherent risks, residua
 
 ## Before you begin
 
-Install the Now Assist for IRM application to generate a risk assessment summary. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/concept/now-assist-for-irm.md).
+Install the Now Assist for IRM application to generate a risk assessment summary. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](now-assist-for-irm.md).
 
-**Note:** The Risk Assessment Summarization skill is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-na-skills-in-irm.md).
+**Note:** The Risk Assessment Summarization skill is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](activate-na-skills-in-irm.md).
 
 Role required: The sn\_grc\_sharegenai.risk\_asmt\_user role must be assigned manually to the assessor \(sn\_risk\_advanced.ara\_assessor\) and approver \(sn\_risk\_advanced.ara\_approver\) roles to generate the risk assessment summary.
 

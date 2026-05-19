@@ -17,9 +17,9 @@ Cloud discovery reporting provides a user-friendly interface for navigating and 
 
 Learn about Cloud Discovery reporting:
 
--   [Analytics and Reporting for Cloud Resources](../../../use/dashboards/application-content-packs/cloud-resources-content-pack.md)
--   [Cloud Resources dashboard](../../../use/dashboards/application-content-packs/cloud-resources-dashboard.md)
--   [Cloud Resources Explorer](../../../use/dashboards/application-content-packs/cloud-resources-inventory-dashboard.md)
+-   [Analytics and Reporting for Cloud Resources](cloud-resources-content-pack.md)
+-   [Cloud Resources dashboard](cloud-resources-dashboard.md)
+-   [Cloud Resources Explorer](cloud-resources-inventory-dashboard.md)
 
 **Note:** For better results, use the Cloud Resources Explorer instead of the Platform Analytics Solutions featured on the Cloud Resources dashboard.
 

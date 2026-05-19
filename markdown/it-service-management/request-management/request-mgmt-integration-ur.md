@@ -35,11 +35,11 @@ Ensure that you have installed the Universal Request plugin \(com.snc.universal\
 
 After the plugins are installed, in the Universal Request application properties, set the **sn\_uni\_req.com.snc.ur.request\_integration** to true. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
--   **[Create a request from Universal Request](../task/create-request-from-ur.md)**  
+-   **[Create a request from Universal Request](create-request-from-ur.md)**  
 As a routing agent, create a request from a universal request and then assign it to the appropriate assignment group. The request manager handles the requested items and takes further actions to fulfill the request.
--   **[Requested item state mapping](../task/req-item-state-mapping.md)**  
+-   **[Requested item state mapping](req-item-state-mapping.md)**  
 Map your requested items states to the universal request \(UR\) states to provide a better user experience during the requested item state transition and to track the progress of the request.
--   **[Transfer a request to another department](../task/req-transfer-ur.md)**  
+-   **[Transfer a request to another department](req-transfer-ur.md)**  
 Transfer a request to another department with or without resolution to fulfill the request.
 
 **Parent Topic:**[Configuring Request Management](configuring-request-management.md)

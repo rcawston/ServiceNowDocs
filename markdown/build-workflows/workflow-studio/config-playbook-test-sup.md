@@ -86,5 +86,5 @@ Return to your test configuration page on your instance, refresh the page, and y
 
 Add as many test steps as you need and then run the test. For information about running an ATF test, see [Run an automated test on a playbook](run-atf-test-on-playbook.md).
 
-**Parent Topic:**[Testing support for playbooks](../concept/testing-support-playbooks.md)
+**Parent Topic:**[Testing support for playbooks](testing-support-playbooks.md)
 

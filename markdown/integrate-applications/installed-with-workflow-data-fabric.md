@@ -115,5 +115,5 @@ Explore the Data Catalog to discover data products, evaluate them for use, reque
 \[sn\_nowassist\_wdf.creator\_admin\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Data Fabric Home Reference](../concept/workflow-data-fabric-reference.md)
+</table>**Parent Topic:**[Workflow Data Fabric Home Reference](workflow-data-fabric-reference.md)
 

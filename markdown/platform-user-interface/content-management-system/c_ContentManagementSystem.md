@@ -19,7 +19,7 @@ The Content Management System \(CMS\) is a ServiceNow application that enables u
 
 The com.glide.cms and com.glide.cms.extensions plugins are being prepared for future deprecation. They will be hidden and no longer available for activation but will continue to be supported for regression and security defects until the C release \(GA\). The CMS application can no longer be activated and will be deprecated in the C release \(GA\) and support will end for Content Management System. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-Use Service Portal for new development instead of CMS. Service Portal is an alternative to CMS with a refined user experience, and is active by default in the base system. For more information, see [Service Portal](../../../build/service-portal/concept/c_ServicePortal.md) and [Content Management and Service Portal](../../../build/service-portal/concept/c_CMSAndSP.md).
+Use Service Portal for new development instead of CMS. Service Portal is an alternative to CMS with a refined user experience, and is active by default in the base system. For more information, see [Service Portal](../service-portal/c_ServicePortal.md) and [Content Management and Service Portal](../service-portal/c_CMSAndSP.md).
 
 A CMS typically requires a systems administrator or a web developer to set up and add features. Non-technical users can use the CMS application as a tool for website maintenance. You also want to consider the timing of the addition of content management, and the maturity level of ServiceNow data. For more information, see [CMS Planning](c_ContentManagementPlanning.md).
 
@@ -45,7 +45,7 @@ Both approaches have been used successfully. The approach you select depends on 
 Before building a website in the CMS, it is important to have a good understanding of what to build and who the audience is.
 -   **[Domain separation and the Content Management System](domain-separation-content-management.md)**  
 Domain separation is supported in the Content Management System. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Configure Content Management sites](../task/t_CreateASite.md)**  
+-   **[Configure Content Management sites](t_CreateASite.md)**  
 Planning a CMS site involves obtaining resources, communicating with others about design, and gathering content.
 -   **[Content Management integration points](c_CMSIntegrationPoints.md)**  
 Integration points use content blocks in CMS to link different applications together using static and dynamic methods.
@@ -56,5 +56,5 @@ When you add global search to a CMS site, two different search result blocks can
 -   **[CMS translation](c_CMSTranslation.md#)**  
 You can translate CMS sites by activating internationalization plugins and manually translating custom interface strings.
 
-**Parent Topic:**[Configure UIs and portals](../../general/concept/configure-uis-and-portals.md)
+**Parent Topic:**[Configure UIs and portals](../configure-uis-and-portals.md)
 

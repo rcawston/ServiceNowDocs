@@ -48,7 +48,7 @@ Role required: Sequence executor \[sn\_crm\_sequence.executor\]
     The sequence is marked as Completed when you finish all activities in the sequence task.
 
 
-**Parent Topic:**[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+**Parent Topic:**[Using Customer Engagement Sequences](using-customer-engagement-sequences.md)
 
 **Related topics**  
 

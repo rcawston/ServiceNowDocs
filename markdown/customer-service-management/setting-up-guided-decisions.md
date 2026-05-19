@@ -45,9 +45,9 @@ The Guided Decisions Experience application provides two different experiences f
 
 As an admin, set up the Guided Decisions Experience application to enable users to create and run decision trees by completing the following setup tasks:
 
--   [Install the Guided Decisions Experience application](../task/install-guided-decisions-exp-app-new.md).
--   [Assign roles to Guided Decisions users](../reference/components-installed-with-guided-decisions.md#section_jym_wrd_ywb) - Use roles to control access to Guided Decisions features and information.
--   [Install the Recommended Actions application](../task/install-recommended-actions-cs-app.md) - Enables decision trees to be run as recommended actions.
+-   [Install the Guided Decisions Experience application](install-guided-decisions-exp-app-new.md).
+-   [Assign roles to Guided Decisions users](components-installed-with-guided-decisions.md#section_jym_wrd_ywb) - Use roles to control access to Guided Decisions features and information.
+-   [Install the Recommended Actions application](install-recommended-actions-cs-app.md) - Enables decision trees to be run as recommended actions.
 
 ## Creating and using decision trees
 
@@ -55,11 +55,11 @@ As an admin, set up the Guided Decisions Experience application to enable users 
 
 Users with the decision tree author role \(decision\_tree\_author\) create decision trees. After creating a decision tree, the decision tree is implemented by adding it to a recommended action, playbook, or Service Portal. For more information, see the following topics:
 
--   [Create a decision tree in Decision Tree Builder](../task/configure-decision-trees-gdb.md)
--   [Edit a decision tree in Core UI](../task/configure-decision-trees.md)
--   [Add Guided Decisions to playbooks](../task/add-guided-decision-playbook.md)
--   [Add Guided Decisions to Recommended Actions](../task/add-guided-decisions-to-recommended-actions.md)
--   [Add Guided Decisions to Service Portal](../task/add-guided-decisions-service-portal.md)
+-   [Create a decision tree in Decision Tree Builder](configure-decision-trees-gdb.md)
+-   [Edit a decision tree in Core UI](configure-decision-trees.md)
+-   [Add Guided Decisions to playbooks](add-guided-decision-playbook.md)
+-   [Add Guided Decisions to Recommended Actions](add-guided-decisions-to-recommended-actions.md)
+-   [Add Guided Decisions to Service Portal](add-guided-decisions-service-portal.md)
 
 Agents interact with decision trees as part of a [recommended action](nba.md) or as part of a playbook within a record, such as a case.
 
@@ -67,8 +67,8 @@ Customers and end-users interact with decision trees on Service Portal.
 
 For guided decisions that are added to playbooks, agents can work through the decision trees and complete actions suggested in the guidance as part of a playbook stage or activity. How the agent interacts with the decision tree depends on the playbook configuration. For more information, see the following topics:
 
--   [Use Guided Decisions in playbooks to resolve cases](../task/use-guided-decisions.md)
--   [Use Guided Decisions in recommended actions to resolve cases](../task/use-guided-decisions-ra.md)
+-   [Use Guided Decisions in playbooks to resolve cases](use-guided-decisions.md)
+-   [Use Guided Decisions in recommended actions to resolve cases](use-guided-decisions-ra.md)
 
 ## Request apps from the ServiceNow Store
 

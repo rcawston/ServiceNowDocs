@@ -21,5 +21,5 @@ You can access the Incident ticket page in Service Portal using the **Requests**
 
 ## Incident standard ticket page configuration
 
-You can configure the appearance of the Incident standard ticket page header and tabs from **Standard Ticket** &gt; **Standard Ticket Configuration** &gt; **Incident**. For more information, refer [Configure incident ticket page](../task/config-inci-ticket-page.md).
+You can configure the appearance of the Incident standard ticket page header and tabs from **Standard Ticket** &gt; **Standard Ticket Configuration** &gt; **Incident**. For more information, refer [Configure incident ticket page](config-inci-ticket-page.md).
 

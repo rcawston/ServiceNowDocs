@@ -48,12 +48,12 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 8.  Select **Done** after the tour is ended​.
 
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](understanding-doc-templates.md)
 
 [Using Document Templates: Custom use case](doc-temp-gen.md)
 

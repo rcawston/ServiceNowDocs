@@ -115,7 +115,7 @@ This table shows what the existing CMDB group codes look like for Ericsson, and 
 |Mobility Ericsson Manufacturer Equipment|Mobility Dell Manufacturer Equipment|
 |Telco Ericsson Manufacturer Equipment|Telco Dell Manufacturer Equipment|
 
--   **[Update CMDB groups for use in the data collection process](../task/updating-cmdb-groups-niw-data-collection-process.md)**  
+-   **[Update CMDB groups for use in the data collection process](updating-cmdb-groups-niw-data-collection-process.md)**  
 Add or change the data that you see in a Network Inventory Workspace widget by using the CMDB Groups function. You create CMDB group codes as needed or modify the query conditions for existing ones. By changing the CMDB groups, you affect what data the collection process retrieves for the widgets on the Network Inventory Workspace landing page.
 
 **Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](tni-workspace.md)

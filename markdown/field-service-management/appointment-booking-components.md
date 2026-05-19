@@ -263,9 +263,9 @@ The roles, properties, and tables for the advanced appointment booking feature.
 **Related topics**  
 
 
-[Appointment booking](../concept/appointment-booking.md)
+[Appointment booking](appointment-booking.md)
 
-[Configuring Appointment Booking](../concept/appointment-booking-administer.md)
+[Configuring Appointment Booking](field-service-scheduling/appointment-booking-administer.md)
 
-[Managing appointments](../concept/managing-appointments.md)
+[Managing appointments](appointment-booking/managing-appointments.md)
 

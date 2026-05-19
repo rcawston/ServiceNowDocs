@@ -295,7 +295,7 @@ Template type
 
 Type of template used to generate the audit report for the engagement record.-   Classic report template: Generates the report using the classic report templates such as HTML, script, or XML, provided the engagement record is in Follow up or Closed states.
 
-For more information, see [Create an audit report template in classic formats](../../grc-common/task/create-audit-report-temp.md) and [Generate a report for an engagement in a classic report template](generate-report-engagement-audit-ws.md).
+For more information, see [Create an audit report template in classic formats](create-audit-report-temp.md) and [Generate a report for an engagement in a classic report template](generate-report-engagement-audit-ws.md).
 
 -   Word report template: Generates the report using the Microsoft Word template, provided the engagement record is in Validate, Fieldwork, or Follow up states.
 
@@ -359,12 +359,12 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on the confidential option, see [Confidentiality flag for audit and compliance records](../../grc-audit/concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on the confidential option, see [Confidentiality flag for audit and compliance records](confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
 </table>    **Note:**
 
-    -   If you had selected the **Classic report template** option in the **Template type** field while creating the engagement record, then the reports are created using HTML, script, or XML templates. For more information, see [Create an audit report template in classic formats](../../grc-common/task/create-audit-report-temp.md).
+    -   If you had selected the **Classic report template** option in the **Template type** field while creating the engagement record, then the reports are created using HTML, script, or XML templates. For more information, see [Create an audit report template in classic formats](create-audit-report-temp.md).
     -   If you had selected the **Word report template** option in the **Template type** field while creating the engagement, then the report is created using the Word template. For more information, see [Generate an audit report for an engagement using Microsoft Word template](generate-audit-report.md).
 4.  Select **Save**.
 

@@ -120,7 +120,7 @@ Role required: admin
 4.  In the Zoom card, select **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Zoom spoke, click **View Details**.
-    -   To manage more than one Zoom spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Zoom spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, select **Configure**. Otherwise, click **Edit**.
 
 5.  On the form, fill these values.

@@ -62,9 +62,9 @@ Role required: admin
     ![Copy the function URL in the Get Function URL subtab of the selected function. The example reads, "https://appname.azurewebsites.net."](../images/va-api-azure-app-url.png)
 
 
-**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Parent Topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 
-**Previous topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ms-powerva.md)
+**Previous topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ms-powerva.md)
 
 **Next topic:**[Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents](get-dl-secret-key-mspva.md)
 

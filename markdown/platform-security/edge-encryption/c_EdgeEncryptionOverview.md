@@ -115,22 +115,22 @@ Because the proxy server is installed and maintained in your network, Edge Encry
 Review the following topics to understand the impact of Edge Encryption on your instance:
 
 -   [Planning for Edge Encryption](c_EdgeEncryptionPlanning.md)
--   [Edge Encryption system requirements](../reference/r_CloudEdgeSystemRequirements.md)
+-   [Edge Encryption system requirements](r_CloudEdgeSystemRequirements.md)
 -   [Sizing your Edge Encryption environment](edge-environment-size.md)
--   [Calculate the order-preserving and tokenization database size](../task/size-db.md)
--   [Edge Encryption limitations](../reference/edge-encryption-limitations.md)
+-   [Calculate the order-preserving and tokenization database size](size-db.md)
+-   [Edge Encryption limitations](edge-encryption-limitations.md)
 -   [Key management for Edge Encryption](c_EncryptionKeyManagement.md)
 
 -   **[Edge Encryption components](c_EdgeEncryptionProxy.md)**  
 Edge Encryption is composed of the Edge Encryption proxy server that runs on a server in your network, and the Edge Encryption plugin that must be installed on your ServiceNow instance. If using order-preserving encryption types or encryption patterns, a proxy database must also be installed in your network.
--   **[Edge Encryption clients](../reference/edge-clients.md)**  
+-   **[Edge Encryption clients](edge-clients.md)**  
 Edge Encryption uses three clients to inform the instance that the proxy is running, to synchronize requests between the proxy and the instance, and to forward all end user requests to the instance after any potential encryption.
 -   **[Key management for Edge Encryption](c_EncryptionKeyManagement.md)**  
 You are responsible for providing and managing the encryption keys used by Edge Encryption.
 -   **[Encryption configurations and patterns](c_EncryptionTypes.md)**  
 With Edge Encryption, you can encrypt fields and tokenize strings.
--   **[Installed with Edge Encryption](../reference/installed-with-edge-encryption.md)**  
+-   **[Installed with Edge Encryption](installed-with-edge-encryption.md)**  
 Edge Encryption installs tables to store encryption-related data, system properties to configure default behavior, and the edge\_encryption role to administer Edge Encryption.
 
-**Parent Topic:**[Edge Encryption](../reference/edge-encryption.md)
+**Parent Topic:**[Edge Encryption](edge-encryption.md)
 

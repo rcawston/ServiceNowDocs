@@ -32,12 +32,12 @@ Keep in mind that when you disassociate an assessable record from a category, th
     Only assessable records associated to this category's metric type are available for selection.
 
 
-**Parent Topic:**[Assessable record associations](../reference/r_ManageAssessablRecordAssociation.md)
+**Parent Topic:**[Assessable record associations](r_ManageAssessablRecordAssociation.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
 [Create a category for assessable records](t_CreateACategoryAR.md)
 

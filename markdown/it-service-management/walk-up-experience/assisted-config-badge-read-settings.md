@@ -80,5 +80,5 @@ To register your badge reader device with **Badge Reader Client** assistance, fi
 15. Select **Submit** to register the badge reader.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](walkup-badge-read-integ-config.md)
 

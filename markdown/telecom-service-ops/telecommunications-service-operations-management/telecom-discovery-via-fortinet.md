@@ -47,5 +47,5 @@ The Integration Commons for CMDB application provides a dashboard with a central
 
 [Configure a Fortinet SD-WAN Service Graph Connector](configure-fortinet-service-graph-connector.md)
 
-[Run and verify an import schedule for Fortinet SGC](../task/run-and-verify-import-for-fortinet-sd-wan.md)
+[Run and verify an import schedule for Fortinet SGC](run-and-verify-import-for-fortinet-sd-wan.md)
 

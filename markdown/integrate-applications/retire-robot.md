@@ -15,7 +15,7 @@ Retire a robot to turn it off. It is one of the life-cycle stages of a robot. Af
 
 ## Before you begin
 
-Create a robot. For more information, see [Robots in RPA Hub](../concept/robots-rpa-hub.md).
+Create a robot. For more information, see [Robots in RPA Hub](robots-rpa-hub.md).
 
 Verify that the robot is not assigned to any bot process or robot pool.
 

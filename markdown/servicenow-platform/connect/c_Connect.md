@@ -41,25 +41,25 @@ Core UI is required to use Connect.
 
 **Set up**
 
- -   [Activate Connect](../task/t_ActivateConnect.md#)
--   [Activate Connect Support](../task/t_ActivateConnectSupport.md#)
--   [Supported browsers for Connect Chat](../reference/r_SupportedBrowsersForConnect.md)
+ -   [Activate Connect](t_ActivateConnect.md#)
+-   [Activate Connect Support](t_ActivateConnectSupport.md#)
+-   [Supported browsers for Connect Chat](r_SupportedBrowsersForConnect.md)
 
 </td><td>
 
 **Administer**
 
- -   [Properties for Connect](../reference/r_PropertiesForConnect.md)
--   [Connect actions](../task/t_AdministerConnectActions.md)
--   [Configure the fields on a record card in Connect](../task/configure-card-fields-connect.md)
--   [Properties for Connect Support](../reference/r_PropertiesForConnectSupport.md)
+ -   [Properties for Connect](r_PropertiesForConnect.md)
+-   [Connect actions](t_AdministerConnectActions.md)
+-   [Configure the fields on a record card in Connect](configure-card-fields-connect.md)
+-   [Properties for Connect Support](r_PropertiesForConnectSupport.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Start a direct or group conversation](../task/t_StartAConversation.md)
--   [Follow a record in Connect](../task/t_StartARecordConversation.md)
+ -   [Start a direct or group conversation](t_StartAConversation.md)
+-   [Follow a record in Connect](t_StartARecordConversation.md)
 -   
 
 

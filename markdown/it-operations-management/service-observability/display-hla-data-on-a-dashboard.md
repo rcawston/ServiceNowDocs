@@ -17,7 +17,7 @@ Add a graph showing logs from Health Log Analytics \(HLA\) in a Service Observab
 
 ## About this task
 
-You can add logs from [HLA](../../health-log-analytics-admin/reference/hla-landing-page.md) to your Service Observability dashboards. These charts display with data scoped to the selected service.
+You can add logs from [HLA](../health-log-analytics/hla-landing-page.md) to your Service Observability dashboards. These charts display with data scoped to the selected service.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: sn\_sow\_svcobs.admin
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Open the template in editing mode.
 
@@ -55,7 +55,7 @@ Role required: sn\_sow\_svcobs.admin
 
     3.  In the **Add data source** page, navigate to **Health Log Analytics** &gt; **Log components**.
 
-    4.  Enter a saved search or select a component and then optionally add conditions or a Lucene query, as described in Step 5 of [Create log data dashboards and visualizations in Health Log Analytics](../../health-log-analytics-admin/task/hla-log-data-dashboard-create.md).
+    4.  Enter a saved search or select a component and then optionally add conditions or a Lucene query, as described in Step 5 of [Create log data dashboards and visualizations in Health Log Analytics](../service-operations-workspace-for-itom-apps/hla-log-data-dashboard-create.md).
 
     5.  Once the filter is correct, choose **Add this source**.
 
@@ -68,5 +68,5 @@ Role required: sn\_sow\_svcobs.admin
 6.  To return the template to the default \(Certified\) version, use the **More actions** menu to select **Return to certified**.
 
 
-**Parent Topic:**[Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md)
+**Parent Topic:**[Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md)
 

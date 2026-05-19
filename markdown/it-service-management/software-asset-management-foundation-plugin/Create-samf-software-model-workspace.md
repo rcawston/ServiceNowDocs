@@ -425,8 +425,8 @@ Attribute value is unlimited
 Check box for setting the attribute as unlimited.
 
 </td></tr></tbody>
-</table>    5.  [Create a vendor catalog item](../../product-catalog/task/t_CreateAVendorCatalogItem.md).
+</table>    5.  [Create a vendor catalog item](../product-catalog/t_CreateAVendorCatalogItem.md).
 
 
-**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](../concept/configuring-samf-plugin-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](configuring-samf-plugin-workspace.md)
 

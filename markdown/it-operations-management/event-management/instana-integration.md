@@ -19,13 +19,13 @@ Integrate Instana with Event Management by adding Instana as an authenticated da
 
 The methods of authentication are as follows:
 
--   Basic webhook authentication: Provides a basic standard of authentication, using username and password. For more information, see [Integrate Instana events](../task/instana-events-integration.md).
--   OAuth authentication: Provides enterprise-grade authentication to keep your enterprise environment safe. Authentication is performed using access tokens. For more information, see [Integrate Instana with OAuth authentication](../task/instana-oauth-authentication.md).
+-   Basic webhook authentication: Provides a basic standard of authentication, using username and password. For more information, see [Integrate Instana events](instana-events-integration.md).
+-   OAuth authentication: Provides enterprise-grade authentication to keep your enterprise environment safe. Authentication is performed using access tokens. For more information, see [Integrate Instana with OAuth authentication](instana-oauth-authentication.md).
 
--   **[Integrate Instana events](../task/instana-events-integration.md)**  
+-   **[Integrate Instana events](instana-events-integration.md)**  
 Integrate Instana with Event Management by adding a standard webhook in the Instana console.
--   **[Integrate Instana with OAuth authentication](../task/instana-oauth-authentication.md)**  
+-   **[Integrate Instana with OAuth authentication](instana-oauth-authentication.md)**  
 Integrate Instana with Event Management with ServiceNow using OAuth authentication.
 
-**Parent Topic:**[Integrate with push connectors](../task/configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
 

@@ -197,7 +197,7 @@ Members
 Internal users \(users with the snc\_internal role\) who have been added as staff members at this business location. -   Staff members can create cases for customers at their business locations.
 -   Staff members can access customer cases and information where the **Service Organization** field on the Case form matches their business locations.
 
-For more information, see [Add staff members to a business location](../concept/add-staff-members-biz-loc.md).
+For more information, see [Add staff members to a business location](add-staff-members-biz-loc.md).
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Child Internal Business Locations
 
 </td><td>
 
-List of internal business location of the current parent business location.For more information, see [Create an internal business location](../task/create-internal-business-location.md).
+List of internal business location of the current parent business location.For more information, see [Create an internal business location](create-internal-business-location.md).
 
 </td></tr><tr><td>
 
@@ -213,7 +213,7 @@ Child External Business Locations
 
 </td><td>
 
-List of external business location of the current parent business location.For more information, see [Create an external business location](../task/create-external-business-location.md).
+List of external business location of the current parent business location.For more information, see [Create an external business location](create-external-business-location.md).
 
 </td></tr><tr><td>
 
@@ -221,7 +221,7 @@ Assignment Groups
 
 </td><td>
 
-List of all associated assigned groups of the internal business location.For more information, see [Setting up assignment groups](../concept/setting-up-assignment-groups.md).
+List of all associated assigned groups of the internal business location.For more information, see [Setting up assignment groups](setting-up-assignment-groups.md).
 
 </td></tr><tr><td>
 
@@ -229,7 +229,7 @@ Available Services
 
 </td><td>
 
-List of services supported by the business location.For more information, see [Setting up products and available services at a business location](../concept/products-services-at-bus-loc.md).
+List of services supported by the business location.For more information, see [Setting up products and available services at a business location](products-services-at-bus-loc.md).
 
 </td></tr><tr><td>
 
@@ -237,7 +237,7 @@ Organization Customer Criteria
 
 </td><td>
 
-List of customers that are supported by an internal business location.For more information, see [Define the configuration type for customers or business locations](../task/associate-customer-criteria-to-service-organization.md).
+List of customers that are supported by an internal business location.For more information, see [Define the configuration type for customers or business locations](associate-customer-criteria-to-service-organization.md).
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ List of all projects assigned to the business location. Select a project to see 
 -   A location contributor manager or location relationship manager can see projects of their respective and child business locations. To learn more about roles, see [Service Model Foundation roles](csm-data-model-roles.md).
 -   A list of project tasks under the customer project tab is visible only if the **Visible to Customer** field is selected during project task creation.
 
-To learn more about project creation, see [Create customer projects](../task/create-customer-projects.md).
+To learn more about project creation, see [Create customer projects](create-customer-projects.md).
 
 To learn more about project task creation, see [Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md).
 
@@ -260,7 +260,7 @@ Cases Requested by Location
 
 </td><td>
 
-List of all cases requested by the internal business location to work.For more information, see [Create and manage cases for a business location](../task/manage-business-location-cases.md)
+List of all cases requested by the internal business location to work.For more information, see [Create and manage cases for a business location](manage-business-location-cases.md)
 
 </td></tr><tr><td>
 
@@ -268,7 +268,7 @@ Cases Assigned to Location
 
 </td><td>
 
-Cases that have been created and assigned to this location. For more information, see [Create and manage cases for a business location](../task/manage-business-location-cases.md).
+Cases that have been created and assigned to this location. For more information, see [Create and manage cases for a business location](manage-business-location-cases.md).
 
 **Note:** This tab appears only if the business function is set as Service.
 
@@ -280,7 +280,7 @@ Account Staff Relationships
 
 Relationships that have been created between staff members and accounts at this location. Create account staff relationships by using the Account Manager responsibility.
 
-For more information, see [Create an account staff relationship](../task/create-staff-account-relationship.md).
+For more information, see [Create an account staff relationship](create-staff-account-relationship.md).
 
 </td></tr><tr><td>
 
@@ -290,7 +290,7 @@ Consumer Staff Relationships
 
 Relationships that have been created between staff members and consumers at this location. Create consumer staff relationships by using the Relationship Manager responsibility.
 
-For more information, see [Create a consumer staff relationship](../task/create-staff-consumer-relationship.md).
+For more information, see [Create a consumer staff relationship](create-staff-consumer-relationship.md).
 
 </td></tr><tr><td>
 
@@ -300,7 +300,7 @@ Household Staff Relationships
 
 Relationships that have been created between staff members and households at this location. Create household staff relationships by using the Relationship Manager responsibility.
 
-For more information, see [Create a household staff relationship](../task/create-staff-household-relationship.md).
+For more information, see [Create a household staff relationship](create-staff-household-relationship.md).
 
 </td></tr><tr><td>
 
@@ -308,7 +308,7 @@ Sold Products
 
 </td><td>
 
-Sold products that have been created for customers at this location.For more information, see [Create and manage sold products for a business location](../task/create-sp-for-business-location.md).
+Sold products that have been created for customers at this location.For more information, see [Create and manage sold products for a business location](create-sp-for-business-location.md).
 
 </td></tr><tr><td>
 
@@ -316,13 +316,13 @@ Install Base Items
 
 </td><td>
 
-Install base items that have been created for customers at this location.For more information, see [Create and manage install base items for a business location](../task/create-ib-items-for-business-locations.md).
+Install base items that have been created for customers at this location.For more information, see [Create and manage install base items for a business location](create-ib-items-for-business-locations.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Create an internal business location](../task/create-internal-business-location.md)
+[Create an internal business location](create-internal-business-location.md)
 
 [Service Model Foundation relationships](csm-data-model-relationships.md)
 

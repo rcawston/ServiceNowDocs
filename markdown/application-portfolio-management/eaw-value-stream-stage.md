@@ -28,7 +28,7 @@ In the Hire to Retire value stream, onboarding of new employees is a value strea
 **Related topics**  
 
 
-[View value stream stage details](../../task/eaw-task/eaw-view-all-value-stream-stages.md)
+[View value stream stage details](eaw-view-all-value-stream-stages.md)
 
-[Add or edit a value stream stage](../../task/eaw-task/eaw-add-or-edit-a-value-stream-stage.md)
+[Add or edit a value stream stage](eaw-add-or-edit-a-value-stream-stage.md)
 

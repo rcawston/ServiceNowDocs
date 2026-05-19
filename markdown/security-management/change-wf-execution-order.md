@@ -38,28 +38,28 @@ Role required: sn\_sec\_cmn.write
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Integration capabilities](../concept/integration-capabilities.md)
+**Parent Topic:**[Integration capabilities](integration-capabilities.md)
 
 **Related topics**  
 
 
-[Security Operations Integration- Block Request capability](../concept/block-request-capability.md)
+[Security Operations Integration- Block Request capability](block-request-capability.md)
 
-[Security Operations Integration- Email Search and Delete capability](../concept/email-search-capability.md)
+[Security Operations Integration- Email Search and Delete capability](email-search-capability.md)
 
-[Security Operations Integration- Enrich CI capability](../concept/enrich-ci-capability.md)
+[Security Operations Integration- Enrich CI capability](enrich-ci-capability.md)
 
-[Security Operations Integration- Enrich Observable capability](../concept/enrich-observable-capability.md)
+[Security Operations Integration- Enrich Observable capability](enrich-observable-capability.md)
 
-[Security Operations Integration- Get Network Statistics capability](../concept/get-network-statistics-capability.md)
+[Security Operations Integration- Get Network Statistics capability](get-network-statistics-capability.md)
 
-[Security Operations Integration- Get Running Processes capability](../concept/get-running-processes-capability.md)
+[Security Operations Integration- Get Running Processes capability](get-running-processes-capability.md)
 
-[Security Operations Integration- Isolate Host capability](../concept/isolate-host-capability.md)
+[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
 
-[Security Operations Integration- Publish to Watchlist capability](../concept/pubish-to-watchlist-capability.md)
+[Security Operations Integration- Publish to Watchlist capability](pubish-to-watchlist-capability.md)
 
-[Security Operations Integration- Sightings Search capability](../concept/sightings-search-capability.md)
+[Security Operations Integration- Sightings Search capability](sightings-search-capability.md)
 
-[Security Operations Integration - Threat Lookup capability](../concept/sec-ops-threat-lookups-capability.md)
+[Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 

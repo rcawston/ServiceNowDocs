@@ -13,11 +13,11 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 Initiate a Zoom meeting directly from a chat by using the Chat Zoom Connector application.
 
-As an agent you can initiate a Zoom meeting from a chat to understand and resolve customer issues faster through live interactions. For more information, see [Initiate Zoom meetings from chats](../task/initiate-chat-zoom.md).
+As an agent you can initiate a Zoom meeting from a chat to understand and resolve customer issues faster through live interactions. For more information, see [Initiate Zoom meetings from chats](initiate-chat-zoom.md).
 
 By default, for each interaction record for a Zoom meeting, a Notify conference call number is also generated. As an agent, you or the agent manager can access the recording URL of the Zoom meeting from the activity stream of the interaction record.
 
-As an agent manager, you can access the details of Zoom meetings initiated from a customer chat using the Zoom interaction record. The meeting recordings are available in the interaction record created for Zoom. For more information, see [View details for Zoom meetings initiated from chats](../task/view-details-chat-zoom.md).
+As an agent manager, you can access the details of Zoom meetings initiated from a customer chat using the Zoom interaction record. The meeting recordings are available in the interaction record created for Zoom. For more information, see [View details for Zoom meetings initiated from chats](view-details-chat-zoom.md).
 
 **Note:** The conference call details of a Zoom meeting are stored in the Notify Conference Calls \[notify\_conference\_call\] table.
 
@@ -35,7 +35,7 @@ The users with the roles listed in the following table can use the Chat Zoom Con
 
 ## Activation information
 
-Configure the Chat Zoom Connector application for initiating Zoom meetings from customer chats. For more information, see [Configure Chat Zoom Connector](../task/config-chat-zoom-connector.md).
+Configure the Chat Zoom Connector application for initiating Zoom meetings from customer chats. For more information, see [Configure Chat Zoom Connector](config-chat-zoom-connector.md).
 
 **Related topics**  
 

@@ -36,7 +36,7 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Defining portal styles](../concept/portal-css.md)
+**Parent Topic:**[Defining portal styles](portal-css.md)
 
 ## Override the HTML base CSS font size in your portal
 

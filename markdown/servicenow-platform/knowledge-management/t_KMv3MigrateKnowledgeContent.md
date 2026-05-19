@@ -19,5 +19,5 @@ To migrate knowledge content, move articles out of the default knowledge base by
 
 After you migrate a knowledge article, the legacy feedback functionality is automatically replaced with the new knowledge feedback mechanisms. Legacy feedback is copied to the Live Feed Message \[live\_message\] table to ensure previously submitted feedback is available for knowledge v3 articles.
 
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
 

@@ -35,5 +35,5 @@ For each table name and field label, the Field Label table contains a record for
 **Related topics**  
 
 
-[Translate a field label](../task/t_TranslateAFieldLabel.md)
+[Translate a field label](t_TranslateAFieldLabel.md)
 

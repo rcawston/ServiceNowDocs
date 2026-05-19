@@ -32,5 +32,5 @@ To use Security Incident Response, you need a fully populated CMDB with domain n
 3.  [Configure Windows MID Server service credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md).
 
 
-**Parent Topic:**[Security Incident Response Orchestration](../concept/c_SecIncRespOrchestration.md)
+**Parent Topic:**[Security Incident Response Orchestration](c_SecIncRespOrchestration.md)
 

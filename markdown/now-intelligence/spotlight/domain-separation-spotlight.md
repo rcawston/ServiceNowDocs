@@ -34,20 +34,20 @@ Messages inform you of the domain situation when you create Spotlight criteria.
 
 ## Evaluating scores with domain separation
 
-If the Spotlight group evaluates platform data, the main indicator and all criteria are queried according to the domain and domain visibility of the **Run As** user. If the Spotlight group evaluates records from a snapshot, the main indicator and indicator-based criteria use the Performance Analytics [snapshot](performance-analytics-glossary.md#) that is collected specifically for the **Run As** user domain. The domain visibility of the **Run As** user does not apply to indicators in this case. \(Query-based criteria always evaluate platform data, even when the Spotlight group is configured to evaluate snapshots. Therefore, query-based criteria always follow both the domain and the domain visibility of the **Run As** user.\)
+If the Spotlight group evaluates platform data, the main indicator and all criteria are queried according to the domain and domain visibility of the **Run As** user. If the Spotlight group evaluates records from a snapshot, the main indicator and indicator-based criteria use the Performance Analytics [snapshot](../performance-analytics/performance-analytics-glossary.md#) that is collected specifically for the **Run As** user domain. The domain visibility of the **Run As** user does not apply to indicators in this case. \(Query-based criteria always evaluate platform data, even when the Spotlight group is configured to evaluate snapshots. Therefore, query-based criteria always follow both the domain and the domain visibility of the **Run As** user.\)
 
-**Note:** The snapshot of each indicator can differ depending on the domain configuration of the Performance Analytics [data collection job](performance-analytics-glossary.md#) that creates the snapshot.
+**Note:** The snapshot of each indicator can differ depending on the domain configuration of the Performance Analytics [data collection job](../performance-analytics/performance-analytics-glossary.md#) that creates the snapshot.
 
 **Parent Topic:**[Ranking records with Spotlight](spotlight.md)
 
 **Related topics**  
 
 
-[Create a Spotlight group](../task/create-spotlight-group.md#)
+[Create a Spotlight group](create-spotlight-group.md#)
 
-[Evaluating a snapshot or platform data](../task/create-spotlight-group.md#)
+[Evaluating a snapshot or platform data](create-spotlight-group.md#)
 
-[Copy a Spotlight group to domains](../task/copy-spotlight-group-domain.md)
+[Copy a Spotlight group to domains](copy-spotlight-group-domain.md)
 
-[Domain separation and Performance Analytics](c_PAWithDomainSeparation.md)
+[Domain separation and Performance Analytics](../performance-analytics/c_PAWithDomainSeparation.md)
 

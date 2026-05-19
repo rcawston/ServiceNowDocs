@@ -103,7 +103,7 @@ DevOps Config admin
 -   sn\_cdm.cdm\_admin
 
 </td></tr></tbody>
-</table>-   **[Roles in CDM](../../configuration-data-management/reference/cdm-roles.md)**  
+</table>-   **[Roles in CDM](cdm-roles.md)**  
 List of roles and permissions in CDM.
 
 **Parent Topic:**[DevOps Config reference](devops-config-reference.md)

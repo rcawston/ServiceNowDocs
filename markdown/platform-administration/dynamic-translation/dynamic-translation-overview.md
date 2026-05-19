@@ -39,7 +39,7 @@ Dynamic Translation works with your choice of third-party machine translation se
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Dynamic Translation properties, actions, and error messages](../reference/reference-for-dynamic-translation.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Dynamic Translation properties, actions, and error messages](reference-for-dynamic-translation.md)
 
 </td><td>
 

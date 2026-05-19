@@ -130,7 +130,7 @@ The horizontal discovery process passes through the four phases of discovery usi
 -   **[Horizontal discovery process flow with patterns](disco-process-flow-patterns.md)**  
 Horizontal discovery with patterns has four phases, just as horizontal discovery with probes does. However, for the last two phases, Discovery triggers operations from a pattern, rather than additional sets of probes.
 
-**Parent Topic:**[Discovery](../reference/r-discovery.md)
+**Parent Topic:**[Discovery](r-discovery.md)
 
 **Related topics**  
 

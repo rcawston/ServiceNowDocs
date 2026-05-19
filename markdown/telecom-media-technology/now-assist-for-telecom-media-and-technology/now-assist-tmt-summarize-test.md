@@ -97,7 +97,7 @@ Fetch the latest test run summary by selecting the refresh icon \(![Refresh test
 
     If the test summarization skill isn’t active, the test result is auto-populated.
 
-    To create test groups, see [Create a test group](create-test-group.md).
+    To create test groups, see [Create a test group](../create-test-group.md).
 
 8.  If the test summarization skill is active, clear the **wait for completion** check box in the Automated test run creation tool.
 
@@ -106,5 +106,5 @@ Fetch the latest test run summary by selecting the refresh icon \(![Refresh test
     -   To set the results, select **Save**.
     -   To go back to the test results list, select **Cancel**.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

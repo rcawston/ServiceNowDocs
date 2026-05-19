@@ -32,11 +32,11 @@ Role required: sn\_wsd\_case.manager or workplace manager
     -   **Move Employee Personal Items**
 3.  On the form, edit the fields that you want to update.
 
-    For more information about each field on the form, see [Create a Workplace service](../../workplace-case-mgmt/task/create-workplace-service.md).
+    For more information about each field on the form, see [Create a Workplace service](workplace-case-management/create-workplace-service.md).
 
 4.  To edit a workplace service activity, go to the Workplace Service Activity related list and select the workplace service activity that you want to edit.
 
-    For more information about each field on the form, see [Create a Workplace service activity](../../workplace-case-mgmt/task/create-workplace-service-activity.md).
+    For more information about each field on the form, see [Create a Workplace service activity](workplace-case-management/create-workplace-service-activity.md).
 
 5.  Click **Update**.
 
@@ -45,18 +45,18 @@ Role required: sn\_wsd\_case.manager or workplace manager
 
 The workplace service is updated.
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Create a move request on behalf of an employee](request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](employee-service-management/request-desk-change-for-employee-1.md)
 
-[Raise a move request for a space change](request-desk-change.md)
+[Raise a move request for a space change](workplace-case-management/request-desk-change.md)
 
 [Update a move-related workplace service record producer](view-move-request-record-producer.md)
 
 [Create a move-related knowledge base article](create-move-related-kb-article.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](review-conflicts.md)
 

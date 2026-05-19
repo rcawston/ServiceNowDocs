@@ -19,8 +19,8 @@ This developer guide provides information on how to use [Synthetic monitoring](h
 
 For full reference documentation for Synthetic Monitoring APIs, see:
 
--   [SyntheticsAsyncBulkCreate API](../../../inbound-rest/concept/synth-async-api.md#)
--   [SyntheticsBulkCreate API](../../../inbound-rest/concept/synthetics-bulk-create-api.md#)
+-   [SyntheticsAsyncBulkCreate API](../rest-apis/synth-async-api.md#)
+-   [SyntheticsBulkCreate API](../rest-apis/synthetics-bulk-create-api.md#)
 
 ## Import and create synthetic monitors in bulk using API
 

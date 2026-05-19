@@ -49,5 +49,5 @@ There are properties that you configure for the SaveFileDialog component. For mo
 8.  To test the component, click **Run** under the **DESIGN** tab.
 
 
-**Parent Topic:**[Dialogs](../concept/dialogs.md)
+**Parent Topic:**[Dialogs](dialogs.md)
 

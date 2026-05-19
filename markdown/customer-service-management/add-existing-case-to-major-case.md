@@ -54,5 +54,5 @@ You can also create child cases for a major case from Agent Workspace.
 **Related topics**  
 
 
-[Recipients lists](../concept/major-issue-recipient-lists.md)
+[Recipients lists](major-issue-recipient-lists.md)
 

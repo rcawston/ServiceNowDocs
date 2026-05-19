@@ -163,7 +163,7 @@ Kubernetes Cluster Analytics \[sn\_cow\_k8s\_cluster\_analytics\]
 
 </td><td>
 
-This report lists the Kubernetes clusters discovered across the Kubernetes deployments of your organization.This report is available on the Clusters tab. When you click the cluster name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item.
+This report lists the Kubernetes clusters discovered across the Kubernetes deployments of your organization.This report is available on the Clusters tab. When you click the cluster name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item.
 
 </td></tr><tr><td>
 
@@ -211,7 +211,7 @@ Kubernetes Namespace Analytics \[sn\_cow\_k8s\_service\_analytics\]
 
 </td><td>
 
-This report lists the Kubernetes services discovered.This report is available on the Services tab. When you click the service name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item.
+This report lists the Kubernetes services discovered.This report is available on the Services tab. When you click the service name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item.
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Kubernetes Node Analytics \[sn\_cow\_k8s\_node\_analytics\]
 
 </td><td>
 
-This report lists the Kubernetes nodes discovered across the Kubernetes deployments of your organization.This report is available on the Nodes tab. When you click the node name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item.
+This report lists the Kubernetes nodes discovered across the Kubernetes deployments of your organization.This report is available on the Nodes tab. When you click the node name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item.
 
 </td></tr><tr><td>
 
@@ -323,7 +323,7 @@ Kubernetes Workload Analytics \[sn\_cow\_k8s\_workload\_analytics\]
 
 </td><td>
 
-This report lists the Kubernetes workloads discovered across the Kubernetes deployments of your organization.This report is available on the Workloads tab. When you click the workload name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item.
+This report lists the Kubernetes workloads discovered across the Kubernetes deployments of your organization.This report is available on the Workloads tab. When you click the workload name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item.
 
 </td></tr><tr><td>
 
@@ -419,7 +419,7 @@ Kubernetes Pod Analytics \[sn\_cow\_k8s\_pod\_analytics\]
 
 </td><td>
 
-This report lists the Kubernetes pods discovered across the Kubernetes deployments of your organization.This report is available on the Pods tab. When you click the pod name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item.
+This report lists the Kubernetes pods discovered across the Kubernetes deployments of your organization.This report is available on the Pods tab. When you click the pod name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item.
 
 </td></tr><tr><td>
 
@@ -435,7 +435,7 @@ Kubernetes Image Analytics \[sn\_cow\_k8s\_img\_analytics\]
 
 </td><td>
 
-This report lists the Docker images discovered across the Kubernetes deployments of your organization.This report is available on the Docker images tab. When you click the doker image name, the [Dependency Views map](../../../product/it-operations-management/concept/dependency-views-map.md) appears for Cluster Configuration Item. You can download the SBOM. To generate the SBOM, see [Download a software bill of materials \(SBOM\)](../../../product/service-mapping/reference/generate-sbom-pattern.md).
+This report lists the Docker images discovered across the Kubernetes deployments of your organization.This report is available on the Docker images tab. When you click the doker image name, the [Dependency Views map](dependency-views-map.md) appears for Cluster Configuration Item. You can download the SBOM. To generate the SBOM, see [Download a software bill of materials \(SBOM\)](../discovery/generate-sbom-pattern.md).
 
 </td></tr></tbody>
 </table>

@@ -34,5 +34,5 @@ Use the MSIM Workspace to track and resolve major security incidents:
 4.  View and update incident details via the MSIM Workspace.
 5.  Filter collaboration activities in the MSIM Workspace Activity stream.
 
-**Parent Topic:**[Major Security Incident Management](../reference/major-security-incident-management-landing-page.md)
+**Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)
 

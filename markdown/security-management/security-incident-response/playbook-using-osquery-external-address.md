@@ -80,5 +80,5 @@ Role required:
 17. In Action 26, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](../concept/playbook-osquery-external-address.md)
+**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](playbook-osquery-external-address.md)
 

@@ -47,7 +47,7 @@ All Workflow Data Fabric user roles
 
 To learn more about configuring and using Now Assist for WDF, see:
 
--   [Configure Now Assist for Workflow Data Fabric \(WDF\)](../task/configure-now-assist-for-workflow-data-fabric.md)
--   [Ask Now Assist for Workflow Data Fabric \(WDF\) for recommendations](../task/ask-now-assist-for-recommendation.md)
+-   [Configure Now Assist for Workflow Data Fabric \(WDF\)](configure-now-assist-for-workflow-data-fabric.md)
+-   [Ask Now Assist for Workflow Data Fabric \(WDF\) for recommendations](ask-now-assist-for-recommendation.md)
 -   [Now Assist for Workflow Data Fabric \(WDF\) Reference](now-assist-for-workflow-data-fabric-reference.md)
 

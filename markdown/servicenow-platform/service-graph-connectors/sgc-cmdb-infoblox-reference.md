@@ -17,7 +17,7 @@ Reference topics provide additional information about Service Graph Connector fo
 
 -   **[Life cycle management of records in Service Graph Connector for Infoblox](sgc-cmdb-infoblox-lc.md)**  
 Life cycle management in the Service Graph Connector for Infoblox monitors and updates the statuses of Infoblox resources throughout their life cycle, from creation to deletion.
--   **[Service Graph Connector for Infoblox properties](../reference/cmdb-sgc-infoblox-props.md)**  
+-   **[Service Graph Connector for Infoblox properties](cmdb-sgc-infoblox-props.md)**  
 Service Graph Connector for Infoblox properties control the behavior of the connector.
 
 **Parent Topic:**[Service Graph Connector for Infoblox](sgc-cmdb-integration-infoblox.md)

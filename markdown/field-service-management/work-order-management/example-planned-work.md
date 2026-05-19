@@ -119,11 +119,11 @@ Create third schedule
 </td></tr></tbody>
 </table>6.  Complete the remaining configurations.
 
-    For more information, see [Associate a work order template to a work schedule](../task/associate-work-schedule-to-wotemplate.md) and [Create planned work records](../task/create-planned-work-records.md).
+    For more information, see [Associate a work order template to a work schedule](associate-work-schedule-to-wotemplate.md) and [Create planned work records](create-planned-work-records.md).
 
 7.  Create work orders for the planed work.
 
-    For more information, see [Create a work order for the planned work](../concept/creating-work-orders-from-planned-work.md).
+    For more information, see [Create a work order for the planned work](creating-work-orders-from-planned-work.md).
 
 
 ### Result

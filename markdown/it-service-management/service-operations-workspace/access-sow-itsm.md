@@ -26,16 +26,16 @@ Role required: itil
 2.  From the **Workspaces** menu, select **Service Operations Workspace**.
 
 
-**Parent Topic:**[Exploring Service Operations Workspace for ITSM](../concept/explore-sow.md)
+**Parent Topic:**[Exploring Service Operations Workspace for ITSM](explore-sow.md)
 
 **Related topics**  
 
 
-[Service Operations Workspace for ITSM user interface](../concept/service-operations-workspace-ui.md)
+[Service Operations Workspace for ITSM user interface](service-operations-workspace-ui.md)
 
-[Service Operations Workspace for ITSM landing page](../concept/sow-ui-landing-page.md)
+[Service Operations Workspace for ITSM landing page](sow-ui-landing-page.md)
 
-[Exploring Recommended Actions for ITSM in Service Operations Workspace](../concept/exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)
+[Exploring Recommended Actions for ITSM in Service Operations Workspace](exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)
 
 [Exploring On-call Scheduling in Service Operations Workspace](on-call-scheduling-in-service-operations-workspace.md)
 

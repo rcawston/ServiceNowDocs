@@ -32,7 +32,7 @@ Role required: admin
 
 A **Credential ID** is generated, which is required when creating configurations.
 
-**Parent Topic:**[Configure Cloud License Estimator](../Concept/configure-cloud-license-estimator.md)
+**Parent Topic:**[Configure Cloud License Estimator](configure-cloud-license-estimator.md)
 
 **Related topics**  
 
@@ -71,5 +71,5 @@ Role required: admin
 **Related topics**  
 
 
-[Generate Cloud License Estimator Reports](../Concept/cle-generate-reports.md)
+[Generate Cloud License Estimator Reports](cle-generate-reports.md)
 

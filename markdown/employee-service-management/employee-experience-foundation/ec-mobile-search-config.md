@@ -40,5 +40,5 @@ Role required: admin
     **Note:** If the default Employee Taxonomy is attached to the Mobile Service Portal, then run the **Set primary topics for Employee taxonomy** fix script to update the mappings.
 
 
-**Parent Topic:**[Configuring Employee Center for mobile](../concept/ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)
 

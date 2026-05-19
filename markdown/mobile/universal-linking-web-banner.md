@@ -144,5 +144,5 @@ Use the mobile screen builder script block to define the screen type to build an
 
 After defining when banners appear and the screen and content the user views, consider enhancing the experience by associating the screen to a preconfigured table. See, [Mapping specific mobile screens for universal linking](universal-linking-screen-mapping.md).
 
-**Parent Topic:**[Mobile universal linking for supported URLs](../concept/universal-linking-support-urls.md)
+**Parent Topic:**[Mobile universal linking for supported URLs](universal-linking-support-urls.md)
 

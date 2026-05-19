@@ -21,8 +21,8 @@ Role required: sn\_compliance.user or sn\_compliance.manager
 
 **Note:** For more information:
 
--   About a policy, see [An overview of policy life cycle in Policy and Compliance Management](../concept/pc-policy-life-cycle-ovrvw.md).
--   About GRC application, see [Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md).
+-   About a policy, see [An overview of policy life cycle in Policy and Compliance Management](pc-policy-life-cycle-ovrvw.md).
+-   About GRC application, see [Governance, Risk, and Compliance](../r_WhatIsGRC.md).
 
 ## About this task
 
@@ -53,5 +53,5 @@ This feature requires that you manually install and activate the Knowledge Manag
     So, if you create links to this policy from the Service Portal or elsewhere, the latest version of the KB article is always displayed.
 
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](r_PoliciesAndProcedures.md)
 

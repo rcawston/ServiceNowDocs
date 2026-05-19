@@ -45,7 +45,7 @@ Role required: admin
     The property override is applied to the selected property in the specified domain. When the logic for this property is triggered, the system checks for domain-separated property overrides. If an override for the domain is found, the new value is used. Otherwise, the value for the default domain is used.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 
 **Related topics**  
 

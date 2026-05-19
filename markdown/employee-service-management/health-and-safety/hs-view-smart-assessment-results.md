@@ -19,7 +19,7 @@ You can view the smart assessment that was completed as part of the safety inspe
 
 Role required: sn\_hs\_rm.safety\_inspection\_writer
 
-**Note:** To perform this task, the role must match or contain the role specified in the **Assessment reader role** field. This field is set during the smart assessment template configuration. For more information, see [Configure the smart assessment template for safety inspections and audits](../../hs-risk-management/task/hs-configure-smart-assessment-template.md).
+**Note:** To perform this task, the role must match or contain the role specified in the **Assessment reader role** field. This field is set during the smart assessment template configuration. For more information, see [Configure the smart assessment template for safety inspections and audits](../health-and-safety-risk-management/hs-configure-smart-assessment-template.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Role required: sn\_hs\_rm.safety\_inspection\_writer
 6.  Select **Close**.
 
 
-**Parent Topic:**[Manage the smart assessment for safety inspections and audits from mobile app](../concept/hs-manage-smart-assessments-mobile.md)
+**Parent Topic:**[Manage the smart assessment for safety inspections and audits from mobile app](hs-manage-smart-assessments-mobile.md)
 

@@ -25,7 +25,7 @@ When invoice and invoice lines ingested by DocIntel or integration can result in
 
 Playbooks are designed to auto-create an error task and attach the error task to the respective invoice case.
 
-The Accounts Payable Operations specialists can also view the ERP posting errors through the Accounts Payable Operations home page too. For more information on the home page, see [APO landing page](acc-pay-workspace-landing-page.md).
+The Accounts Payable Operations specialists can also view the ERP posting errors through the Accounts Payable Operations home page too. For more information on the home page, see [APO landing page](../source-to-pay-workspace/acc-pay-workspace-landing-page.md).
 
 When the Accounts Payable Operations admin closes the integration error task and resubmits the invoice to ERP, the following actions occur in the Outbound Invoice record.
 

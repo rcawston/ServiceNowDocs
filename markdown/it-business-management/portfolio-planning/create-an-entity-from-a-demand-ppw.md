@@ -23,9 +23,9 @@ The category and type of a demand and the applications you have installed determ
 
 |Entity|Required application|
 |------|--------------------|
-|Enhancement, change, or defect|[Project Portfolio Suite](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)|
-|Agile Development entities \(story or epic\)|[Agile Development 2.0](../../agile-development/reference/agile-landing-page.md)|
-|Enterprise Agile Planning \(EAP\) entities \(epic, feature, or capability\)|[Strategic Planning](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md)|
+|Enhancement, change, or defect|[Project Portfolio Suite](../ppm-collaboration/c_ProjectPortfolioSuite.md)|
+|Agile Development entities \(story or epic\)|[Agile Development 2.0](../agile-development/agile-landing-page.md)|
+|Enterprise Agile Planning \(EAP\) entities \(epic, feature, or capability\)|[Strategic Planning](../strategic-planning/alignment-planner-workspace-landing-page.md)|
 
 Role required: it\_demand\_manager
 
@@ -39,7 +39,7 @@ Role required: it\_demand\_manager
 
 2.  Verify that the values in the **Category** and **Type** fields are appropriate for the entity you want to create.
 
-    The options in the Type list change according to the category that you select. For more information, see [Demand form](../reference/demand-form-ppw.md).
+    The options in the Type list change according to the category that you select. For more information, see [Demand form](demand-form-ppw.md).
 
     **Note:** The **Category** and **Type** fields are set to read only when an entity is created from a demand. If you delete the created entity, these fields become editable again.
 
@@ -51,7 +51,7 @@ Role required: it\_demand\_manager
 
     |Option|Description|
     |------|-----------|
-    |**Create Project**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Project**. Creates a project that is associated with this demand. The number of the project record is displayed in the **Project** field. For more information, see [Data migrated from a demand to a created project](../reference/data-migrated-from-demand-project-dw.md).|
+    |**Create Project**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Project**. Creates a project that is associated with this demand. The number of the project record is displayed in the **Project** field. For more information, see [Data migrated from a demand to a created project](data-migrated-from-demand-project-dw.md).|
     |**Create Enhancement**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Enhancement**. Creates an enhancement associated with this demand. Use enhancements to request improvements or new capabilities for existing features or services, for example, a request to add new UI elements. The number of the enhancement record is displayed in the **Enhancement** field.|
     |**Create Epic**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Epic**. Creates an Agile Development 2.0 epic that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Epic form.|
     |**Create Story**|This option appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Story**. Creates an Agile Development 2.0 story that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Story form.|
@@ -71,5 +71,5 @@ Role required: it\_demand\_manager
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 

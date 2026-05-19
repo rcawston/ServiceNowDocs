@@ -15,5 +15,5 @@ User access for Care Team Mobile is granted when you have been assigned the **sn
 
 Roles for Care Team Mobile are assigned just as they are for the Healthcare Operations Core application.
 
-For instructions on assigning these roles, see [Setting up roles and responsibilities for Healthcare Operations users](cto-setting-up-roles-responsibilities.md).
+For instructions on assigning these roles, see [Setting up roles and responsibilities for Healthcare Operations users](healthcare-operations-core/cto-setting-up-roles-responsibilities.md).
 

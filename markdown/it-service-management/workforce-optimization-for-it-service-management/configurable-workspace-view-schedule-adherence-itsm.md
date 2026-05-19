@@ -79,5 +79,5 @@ Example: A clock-in event gets generated when an agent logs in or changes the pr
     ![Schedule Adherence](../image/schedule-adherence-itsm.png)
 
 
-**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](schedule-adherence-configurable-itsm.md)
 

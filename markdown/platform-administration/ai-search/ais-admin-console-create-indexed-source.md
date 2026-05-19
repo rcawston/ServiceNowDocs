@@ -30,7 +30,7 @@ Role required: admin or ais\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Indexed Source form](../reference/indexed-source-form-ais.md).
+    For a description of the field values, see [Indexed Source form](indexed-source-form-ais.md).
 
     **Note:**
 
@@ -45,5 +45,5 @@ To control how your new indexed source processes source records and fields durin
 
 To make content from internal indexed sources and source records searchable, perform a full table index for your new indexed source. For more information, see [Index the content from an indexed source for searchability](ais-admin-console-start-content-indexing.md).
 
-**Parent Topic:**[Managing indexed sources from the AI Search Admin console](../concept/ais-managing-indexed-source.md)
+**Parent Topic:**[Managing indexed sources from the AI Search Admin console](ais-managing-indexed-source.md)
 

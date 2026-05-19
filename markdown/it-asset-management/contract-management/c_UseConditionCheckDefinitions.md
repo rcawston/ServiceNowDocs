@@ -21,7 +21,7 @@ For example, a contract has a start date of March 1. When the condition checker 
 
 The daily condition checker sets the appropriate expiration level for active contracts based on the contract **End Date**. The expiration level can be viewed in the Contracts list. Knowing the expiration level can help contract managers renew or extend a contract before it expires.
 
--   **[Define a condition check](../task/t_DefineAConditionCheck.md)**  
+-   **[Define a condition check](t_DefineAConditionCheck.md)**  
 You can define a condition check to change values in a contract when the **Contract Compliance Checks** scheduled job runs each night.
 
 **Parent Topic:**[Contract Management](c_ContractManagement.md)
@@ -29,9 +29,9 @@ You can define a condition check to change values in a contract when the **Contr
 **Related topics**  
 
 
-[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)
+[Use the Asset Contract Overview module](t_UseTheContractMgmtOverviewModule.md)
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
 
 [Contract approval flow](contract-approval-workflow.md)
 

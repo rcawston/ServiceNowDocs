@@ -34,5 +34,5 @@ Role required: itil
 6.  On the **Calls** tab in the **Completed calls** section, select the **View Recording** button.
 
 
-**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](../concept/microsoft-teams-sow.md)
+**Parent Topic:**[Use Microsoft Teams to make conference calls in Service Operations Workspace](microsoft-teams-sow.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Select the **Create new page** in the center of the screen.
 
@@ -77,7 +77,7 @@ Role required: admin
 
         ![Optional parameters in UI Builder.](../image/optional-parameter-example.png)
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](work-pages.md).
 
 13. Select **Looks good**.
 
@@ -95,7 +95,7 @@ Role required: admin
 
 17. Select **Create** to create your blank page.
 
-    The page you created displays in the **Page** section of your experience. Select **Editor** to start adding components to your page. For more information, see [Customize UI Builder pages using components](../concept/work-components.md).
+    The page you created displays in the **Page** section of your experience. Select **Editor** to start adding components to your page. For more information, see [Customize UI Builder pages using components](work-components.md).
 
 
 **Parent Topic:**[Create a page in UI Builder](create-page.md)

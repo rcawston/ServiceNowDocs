@@ -27,7 +27,7 @@ The following items are installed with Legal Digital Forensics:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Legal Digital Forensics](../reference/installed-with-legal-digital-forensics.md).
+For more information, see [Components installed with Legal Digital Forensics](installed-with-legal-digital-forensics.md).
 
 ## Procedure
 
@@ -46,5 +46,5 @@ For more information, see [Components installed with Legal Digital Forensics](..
 4.  Select **Install**.
 
 
-**Parent Topic:**[Configure Legal Digital Forensics](../concept/setting-up-legal-dft.md)
+**Parent Topic:**[Configure Legal Digital Forensics](setting-up-legal-dft.md)
 

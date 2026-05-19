@@ -66,5 +66,5 @@ Unique name of the investment.
 -   **[Add a business case for an investment](add-business-case.md)**  
 Add a business case for an investment to define its business needs and goals.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

@@ -21,8 +21,8 @@ Two properties, **glide.ui.user\_cookie.life\_span\_in\_days** and **glide.ui.us
 
 **Note:** To learn more about these properties, see the following topics in Instance Security Hardening Settings:
 
--   [Minimize absolute session timeout duration](../../security-center/reference/sc-absolute-session-timeout.md)
--   [Minimize session window timeout duration](../../security-center/reference/sc-session-window-timeout.md)
+-   [Minimize absolute session timeout duration](../instance-security-hardening-settings/sc-absolute-session-timeout.md)
+-   [Minimize session window timeout duration](../instance-security-hardening-settings/sc-session-window-timeout.md)
 
 ## Change the default value of the Remember me check box
 
@@ -51,7 +51,7 @@ You can remove the **Remember me** check box so users do not have access to this
 
 Role required: security\_admin
 
-**Note:** To learn more about this property, see [Remove remember me](../../security-center/reference/sc-remove-remember-me.md) in Instance Security Hardening Settings.
+**Note:** To learn more about this property, see [Remove remember me](../instance-security-hardening-settings/sc-remove-remember-me.md) in Instance Security Hardening Settings.
 
 ### Procedure
 

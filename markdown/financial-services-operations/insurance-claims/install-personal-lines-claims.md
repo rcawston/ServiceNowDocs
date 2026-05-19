@@ -31,7 +31,7 @@ The following items are installed with Personal Lines Claims:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Personal Lines Claims](../reference/components-installed-personal-lines-claims.md).
+For more information, see [Components installed with Personal Lines Claims](components-installed-personal-lines-claims.md).
 
 ## Procedure
 

@@ -35,21 +35,21 @@ Learn to use Data Binding Generation in ServiceNow® UI Builder with Now Assist 
 
 2.  Create an experience or open an existing one.
 
-    For more information, see [Create an experience for UI Builder](../../ui-builder/task/create-experience.md).
+    For more information, see [Create an experience for UI Builder](../ui-builder/create-experience.md).
 
 3.  Create a page or open an existing one.
 
-    For more information, see [Create a page in UI Builder](../../ui-builder/task/create-page.md).
+    For more information, see [Create a page in UI Builder](../ui-builder/create-page.md).
 
 4.  Create a page variant or open an existing one.
 
-    For more information, see [Create a page variant](../../ui-builder/task/create-variant.md).
+    For more information, see [Create a page variant](../ui-builder/create-variant.md).
 
 5.  Open the Page Editor.
 
 6.  Add a data resource or open an existing one.
 
-    For more information, see [Add and configure data resources to a page](../../ui-builder/task/add-data-resources.md).
+    For more information, see [Add and configure data resources to a page](../ui-builder/add-data-resources.md).
 
 7.  From the Data Binding popover, select **Get started**.
 
@@ -86,10 +86,10 @@ Data binding and formula are generated.
 |-------|-----|----------|
 |Data binding generation returns incorrect syntax|The prompt is ambiguous or uses terms not recognized as synonyms.|Refine the prompt using more specific language. Refer to the Formula Operators table for supported synonyms. Try selecting an example from the Data Binding popover.|
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](using-ui-generation.md)
 
 **Related topics**  
 
 
-[Natural language synonyms for formula operators](../reference/natural-language-synonyms-for-formula-operators.md)
+[Natural language synonyms for formula operators](natural-language-synonyms-for-formula-operators.md)
 

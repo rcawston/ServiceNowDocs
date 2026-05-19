@@ -126,5 +126,5 @@ Select **Remove** to delete the document or the link to the document without act
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](document-management-workspace.md)
 

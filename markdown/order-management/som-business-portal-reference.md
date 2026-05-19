@@ -30,5 +30,5 @@ Add invoices to case form on the Business Portal enables you to a.
 -   **[Invoice line item details on Business Portal](invoice-line-item-business-portal.md)**  
 Invoice line list view details on the Business Portal.
 
-**Parent Topic:**[Sales Customer Relationship Management reference](../concept/som-reference.md)
+**Parent Topic:**[Sales Customer Relationship Management reference](som-reference.md)
 

@@ -62,5 +62,5 @@ After the request submission, all six alerts will be enabled automatically, no m
 
 [Manage Instance Observer alerts](manage-io-alerts.md)
 
-**Parent Topic:**[Key alerts – activation and notifications](../concept/io-alerts.md)
+**Parent Topic:**[Key alerts – activation and notifications](io-alerts.md)
 

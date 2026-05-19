@@ -125,5 +125,5 @@ To assign the DPM manager role to a group, the admin does the following:
 **Related topics**  
 
 
-[Activate Digital Portfolio Management](../task/dpm-activate.md)
+[Activate Digital Portfolio Management](dpm-activate.md)
 

@@ -47,9 +47,9 @@ During out-of-office time, the user manager can [Delegate time sheet approvals t
 
 The time sheet moves to the Approved or Rejected state.
 
--   If a time sheet is rejected, it gets listed in the notifications for the rejected time sheets under the show notifications icon \(![Show notifications icon](../../../product/project-management/image/NotificationIcon.png)\) on [Time Sheet Portal](../concept/worker-portal.md#section_sth_2wd_vz) and is moved back to the submitter to adjust the corrections and resubmit it. For more information, see [Submit a time sheet](submit-time-sheet.md).
+-   If a time sheet is rejected, it gets listed in the notifications for the rejected time sheets under the show notifications icon \(![Show notifications icon](../../../product/project-management/image/NotificationIcon.png)\) on [Time Sheet Portal](worker-portal.md#section_sth_2wd_vz) and is moved back to the submitter to adjust the corrections and resubmit it. For more information, see [Submit a time sheet](submit-time-sheet.md).
 -   Once a time sheet is approved, all the time cards associated with the time sheet are also approved or rejected automatically.
 -   If any time cards in the time sheet are pending approval by one of the approvers as defined by the [time sheet policy](create-time-sheet-policy.md#time_sheet_policy_form), the time sheet remains in the Submitted state.
 
-**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+**Parent Topic:**[Time Sheets](time-sheets.md)
 

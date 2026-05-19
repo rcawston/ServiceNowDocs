@@ -15,7 +15,7 @@ breadcrumb: [Manage document classification use cases, Configure, Document Intel
 
 Delete a use case when it's no longer needed for your documents.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -36,5 +36,5 @@ Role required: sn\_docintel.manager
 
 The use case is deleted along with the related fields, field groups, integrations, flows, and machine learning \(ML\) models. The deletion of the related records may trigger their own related deletions.
 
-**Parent Topic:**[Manage document classification use cases](../concept/manage-document-classification-use-cases.md)
+**Parent Topic:**[Manage document classification use cases](manage-document-classification-use-cases.md)
 

@@ -15,5 +15,5 @@ breadcrumb: [Zero Copy Connector for ERP and ERP Semantic Mining glossary, Refer
 
 The table or Business Application Programming Interface \(BAPI\) function call that Zero Copy Connector for ERP uses to read or update the system of record.
 
-**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](../../../build/erp-integration/reference/erp-integration-glossary.md)
+**Parent Topic:**[Zero Copy Connector for ERP and ERP Semantic Mining glossary](erp-integration-glossary.md)
 

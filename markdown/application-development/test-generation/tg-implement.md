@@ -57,13 +57,13 @@ Role required: admin or now.assist.creator
 
     **Note:** A generated test is designated as an active test only when you accept the test. If you don’t make a choice of either accepting or rejecting, the test is still saved but the active flag is set to false.
 
-    If you want to edit a test after saving, you can modify it using any actions in the Test steps related list. See [Edit a generated test using Test generation](../concept/tg-edit-test.md) for more information.
+    If you want to edit a test after saving, you can modify it using any actions in the Test steps related list. See [Edit a generated test using Test generation](tg-edit-test.md) for more information.
 
 
-**Parent Topic:**[Using Test generation](../concept/tg-use.md)
+**Parent Topic:**[Using Test generation](tg-use.md)
 
 **Related topics**  
 
 
-[Edit a generated test using Test generation](../concept/tg-edit-test.md)
+[Edit a generated test using Test generation](tg-edit-test.md)
 

@@ -76,5 +76,5 @@ Distance unit used on service location google maps-   Type: Choice list
 -   Default value: roadmap
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+</table>**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

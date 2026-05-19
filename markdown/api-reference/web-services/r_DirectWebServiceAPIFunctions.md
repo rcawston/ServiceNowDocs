@@ -37,20 +37,20 @@ Data Retrieval API method summaries and descriptions.
 -   **[Data Modification API](r_DataModificationAPI.md)**  
 Data Modification API method summaries and descriptions.
 
-**Parent Topic:**[Direct web services](../../inbound-soap/concept/c_DirectWebServices.md)
+**Parent Topic:**[Direct web services](c_DirectWebServices.md)
 
 **Related topics**  
 
 
-[Use forms to limit or extend the query response](../../inbound-soap/concept/using-forms-limit-extend-query-resp.md)
+[Use forms to limit or extend the query response](using-forms-limit-extend-query-resp.md)
 
-[Return the display value for reference variables](../../inbound-soap/concept/return-display-reference-variables.md)
+[Return the display value for reference variables](return-display-reference-variables.md)
 
-[Clear values from a target instance](../../inbound-soap/concept/clearing-values-target.md)
+[Clear values from a target instance](clearing-values-target.md)
 
-[Retrieve journal entries using direct web services](../../inbound-soap/concept/retrieving-journal-entries.md)
+[Retrieve journal entries using direct web services](retrieving-journal-entries.md)
 
-[Retrieve choice fields using direct web services](../../inbound-soap/concept/retrieving-choice-fields-direct-ws.md)
+[Retrieve choice fields using direct web services](retrieving-choice-fields-direct-ws.md)
 
-[Persist an HTTP session across all SOAP calls](../../inbound-soap/concept/persist-session-all-soap-calls.md)
+[Persist an HTTP session across all SOAP calls](persist-session-all-soap-calls.md)
 

@@ -40,16 +40,16 @@ Role required: admin
 
 The Log \[syslog\] table displays only the Hermes Messaging Service log messages.
 
-**Parent Topic:**[Administering Hermes Messaging Service](../concept/hermes-messaging-service-administration.md)
+**Parent Topic:**[Administering Hermes Messaging Service](hermes-messaging-service-administration.md)
 
 **Related topics**  
 
 
 [Check the status of and connection to the Hermes Kafka cluster](run-hermes-messaging-service-diagnostics.md)
 
-[Monitoring data usage in Hermes](../concept/monitoring-data-usage-hermes.md)
+[Monitoring data usage in Hermes](monitoring-data-usage-hermes.md)
 
-[Tracking message usage in Hermes](../concept/tracking-hermes-messaging-service-usage.md)
+[Tracking message usage in Hermes](tracking-hermes-messaging-service-usage.md)
 
-[Cloning with Hermes Messaging Service enabled](../concept/cloning-with-hermes-messaging-service.md)
+[Cloning with Hermes Messaging Service enabled](cloning-with-hermes-messaging-service.md)
 

@@ -17,7 +17,7 @@ Use the EMR Help service portal to create healthcare cases from directly within 
 
 As a user with the sn\_ind\_rmt\_help.requester role, you can submit healthcare cases from within your EMR system. These cases can then be fulfilled within a ServiceNow instance.
 
-**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](configure-hcls-case-types-for-emr-help.md).
 
 ## Creating a healthcare case
 

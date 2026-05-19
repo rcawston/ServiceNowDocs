@@ -157,5 +157,5 @@ You can view change tasks in the Industrial Workspace list view in the following
 -   Change tasks assigned to your group: **OT Tasks** &gt; **Assigned to My Groups**
 -   Unassigned change tasks: **OT Tasks** &gt; **Unassigned**
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

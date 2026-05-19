@@ -77,5 +77,5 @@ The possible script would be as follows:
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create implementation in Scripted Extension Point](../task/create-scripted-extension-point.md)
+**Parent Topic:**[Create implementation in Scripted Extension Point](create-scripted-extension-point.md)
 

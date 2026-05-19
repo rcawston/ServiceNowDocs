@@ -27,15 +27,15 @@ Create or add an existing service to your instance so that alerts and incidents 
 Edit an existing service owned by your team.
 -   **[Set up escalation policies form in SRM](sr-set-up-escalation-policies-form.md)**  
 Escalation policies define the order and conditions in which members or devices receive notifications.
--   **[Domain separation and SRM](../concept/sr-domain-separation.md)**  
+-   **[Domain separation and SRM](sr-domain-separation.md)**  
 Domain separation is supported for Service Reliability Management \(SRM\).
 -   **[Create change request forms](sr-create-change-request-form.md)**  
 Fill out the fields in the forms to create a change task to implement a controlled process for modifying approved and supported actions for SRM.
--   **[SRM incident states](../concept/sr-incident-states.md)**  
+-   **[SRM incident states](sr-incident-states.md)**  
 Incidents can be in a few different states depending on how they are acted on.
 -   **[SRM alert states](sr-alerts-states.md)**  
 Alert can be in a few different states depending on how they are acted on.
--   **[SRM change request states](../concept/sr-change-request-states.md)**  
+-   **[SRM change request states](sr-change-request-states.md)**  
 Incidents can be in a few different states depending on how they are acted on.
 -   **[CMDB service classes](sr-cmdb-service-classes.md)**  
 Service Reliability Management \(SRM\) typically supports several Configuration Management Database \(CMDB\) service classes.

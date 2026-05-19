@@ -39,5 +39,5 @@ Role required: sn\_eam.enterprise\_admin
     The assets you selected are added to the parent asset. You can view these assets in the **Child Assets** tab. All consumable assets are displayed as a single record, instead of individual records.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

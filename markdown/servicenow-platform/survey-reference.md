@@ -15,13 +15,13 @@ Reference topics provide additional information about the forms, fields, and pro
 
 -   **[Survey roles](r_SurveyManagementRoles.md#)**  
 The Survey application uses the following roles.
--   **[Key survey terms](../concept/c_survey-key-terms.md)**  
+-   **[Key survey terms](c_survey-key-terms.md)**  
 These survey terms are used throughout the documentation to describe survey management functions and capabilities.
 -   **[Survey Overview dashboard](survey-overview-module.md)**  
 The Survey Overview dashboard displays various survey reports, such as Surveys by Metric Type and State.
 -   **[Metric Result form](r_MetricResultFieldNames.md)**  
 Description of the field values for the Metric Result form.
--   **[Domain separation and Surveys](../concept/domain-separation-surveys.md)**  
+-   **[Domain separation and Surveys](domain-separation-surveys.md)**  
 Domain separation is supported in Surveys. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Survey Designer Configuration form](survey-design-config-form.md)**  
 Description of the field values for the Survey Designer Configuration form.

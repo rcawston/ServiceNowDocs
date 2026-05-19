@@ -37,7 +37,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Contract form](../reference/create-new-contract-form.md).
+    For more information, see [Create New Contract form](create-new-contract-form.md).
 
 4.  To submit the contract for review, select **Submit for Review**.
 
@@ -57,7 +57,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 8.  On the form, fill in the fields.
 
-    For more information, see [Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md).
+    For more information, see [Create New Contractual arrangement form](create-new-cont-arrange-form.md).
 
 9.  Select **Save**.
 
@@ -71,7 +71,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
     1.  In the form, select **More** and navigate to the **Digital resilience information** tab.
 
-        For more information, see [Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md).
+        For more information, see [Create New Contractual arrangement form](create-new-cont-arrange-form.md).
 
     2.  Navigate to the Contract **Details** tab to view the details that are needed by the Digital Operational Resilience Act.
 
@@ -118,10 +118,10 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 13. To delete the contract record, select it from the list and select **Delete**.
 
 
--   **[Create New Contract form](../reference/create-new-contract-form.md)**  
+-   **[Create New Contract form](create-new-contract-form.md)**  
 On the Create New Contract form, fill in the fields.
--   **[Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md)**  
+-   **[Create New Contractual arrangement form](create-new-cont-arrange-form.md)**  
 On the Create New Contractual arrangement form, fill in the fields. For each contract, a separate form would be required.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

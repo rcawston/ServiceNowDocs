@@ -38,13 +38,13 @@ The following sections are available under the Nokia Altiplano navigation pane. 
 |Section|Description|
 |-------|-----------|
 |Setup|Configure MID Server, define Altiplano connections, and schedule imports.|
-|Data Sources|Predefined data sources for bulk and filtered discovery \(SGC-Nokia Altiplano Bulk Discovery, SGC-Nokia Altiplano Filtering Discovery\). Enable parallel loading if needed. For more information on parallel loading, see [Configure concurrent import and parallel loading for Nokia Altiplano](../task/configure-concurrent-import-and-parallel-loading.md).|
+|Data Sources|Predefined data sources for bulk and filtered discovery \(SGC-Nokia Altiplano Bulk Discovery, SGC-Nokia Altiplano Filtering Discovery\). Enable parallel loading if needed. For more information on parallel loading, see [Configure concurrent import and parallel loading for Nokia Altiplano](configure-concurrent-import-and-parallel-loading.md).|
 |Import Schedules|Manage scheduling for each Altiplano connection alias. Run jobs manually or at defined intervals.|
 |Connections &amp; Credential Aliases|Define aliases for each Altiplano instance. Store connection metadata and credentials.|
 |Connections|Define Altiplano instance details, such as URL, selected MID Server, credential reference, and connection alias reference.|
 |Credentials|Create Altiplano credentials using Basic Auth.|
 |Filters|Configure filtering parameters used in filtered discovery \(for example, by device IP or name\).|
-|Properties|Modify system behavior using connector-specific properties. For more information, see [System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md).|
+|Properties|Modify system behavior using connector-specific properties. For more information, see [System components installed with Nokia Altiplano](properties-installed-with-nokia-altiplano.md).|
 
 ## Supported Nokia Altiplano versions
 
@@ -58,22 +58,22 @@ The following sections are available under the Nokia Altiplano navigation pane. 
 Use the guided setup to simplify the configuration process. This setup provides an organized sequence of steps to help you complete integration quickly and correctly. To access the guided setup:
 
 1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Nokia Altiplano** &gt; **Setup**.
-2.  Follow the task sequence to configure MID Server settings, Nokia Altiplano connections, filters, and import schedules. For more information, see [Set up Nokia Altiplano](../task/initial-setup-procedure.md).
+2.  Follow the task sequence to configure MID Server settings, Nokia Altiplano connections, filters, and import schedules. For more information, see [Set up Nokia Altiplano](initial-setup-procedure.md).
 
 **Related topics**  
 
 
-[Set up Nokia Altiplano](../task/initial-setup-procedure.md)
+[Set up Nokia Altiplano](initial-setup-procedure.md)
 
-[Set up multiple Nokia Altiplano instances](../task/multi-instance-setup.md)
+[Set up multiple Nokia Altiplano instances](multi-instance-setup.md)
 
-[Configure concurrent import and parallel loading for Nokia Altiplano](../task/configure-concurrent-import-and-parallel-loading.md)
+[Configure concurrent import and parallel loading for Nokia Altiplano](configure-concurrent-import-and-parallel-loading.md)
 
 [Mapping Nokia Altiplano CIs and Relationships in CMDB](data-mapping.md)
 
-[Run and verify import for Nokia Altiplano Service Graph Connector](../task/run-and-verify-import-for-nokia-altiplano-service-graph-connector.md)
+[Run and verify import for Nokia Altiplano Service Graph Connector](run-and-verify-import-for-nokia-altiplano-service-graph-connector.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](properties-installed-with-nokia-altiplano.md)
 
 [Telecom Discovery via Nokia Altiplano](service-graph-connector-for-nokia-altiplano.md#)
 

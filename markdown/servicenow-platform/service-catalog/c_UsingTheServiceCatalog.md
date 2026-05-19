@@ -25,9 +25,9 @@ Managers can review record history and run reports to improve the service catalo
 The home page for a service catalog lists the goods and services available to order from that catalog.
 -   **[Service Catalog request screens](c_RequestingAServiceCatalogItem.md#)**  
 To place a request from a service catalog, navigate to the catalog home page and select the item to order.
--   **[Clone a request](../task/t_UsingBulkRequests.md)**  
+-   **[Clone a request](t_UsingBulkRequests.md)**  
 You can clone a request for up to 10 users on the notification list.
--   **[View catalog item audit history](../task/t_ViewingAuditHistory.md)**  
+-   **[View catalog item audit history](t_ViewingAuditHistory.md)**  
 You can view the audit history of changes to items you requested. For example, you can view changes to variable values to find out who made the changes. Fulfillers and administrators can view history for any requested item.
 -   **[Saving catalog items to a wish list](catalog-items-wishlist.md)**  
 You can save catalog items to your wish list and visit them later to complete the ordering process.

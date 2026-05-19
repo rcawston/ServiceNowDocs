@@ -80,7 +80,7 @@ Configure an optional [condition](configure-a-blueprint-rule.md#) and a mandator
 
 [Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)
 
-[Blueprint attributes](../reference/blueprint-attributes.md)
+[Blueprint attributes](blueprint-attributes.md)
 
 ## Configure a blueprint rule condition
 

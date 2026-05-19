@@ -87,5 +87,5 @@ Persona
 Stakeholder role associated with the entity, such as Head of Business or Risk Manager. The system uses the selected persona to determine the risk event approver when approval is based on an entity stakeholder. This field appears only when **Entity stakeholder** is selected from **Assignment type**.**Note:** Based on the selected persona, the **Owning group** field is auto-populated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define a threshold amount for the risk event response template](../task/define-threshold-amount-risk-event.md)
+</table>**Parent Topic:**[Define a threshold amount for the risk event response template](define-threshold-amount-risk-event.md)
 

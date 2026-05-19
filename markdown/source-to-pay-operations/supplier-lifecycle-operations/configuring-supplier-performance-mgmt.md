@@ -31,17 +31,17 @@ Create KPI units to be used as measurement units for the quantitative performanc
 Create KPI performance domains to classify various KPIs into categories. The KPIs under different performance domains can be viewed in the KPI management tab and the Performance dashboard to measure the supplier performance.
 -   **[KPI templates](kpi-templates.md)**  
 KPI templates are created to define KPIs that can be used to measure supplier performance.
--   **[Create KPI thresholds](../task/create-kpi-threshold.md)**  
+-   **[Create KPI thresholds](create-kpi-threshold.md)**  
 Create KPI thresholds that consist of predefined values that serve as benchmarks or limits for evaluating performance against specific objectives.
--   **[Create KPIs by adding suppliers to a KPI template](../task/add-supplier-kpi-template.md)**  
+-   **[Create KPIs by adding suppliers to a KPI template](add-supplier-kpi-template.md)**  
 You can add a new supplier whose performance you want to measure using the KPI template. Adding a supplier to a KPI template generates corresponding KPI records and KPI collection tasks for this supplier.
--   **[Create supplier-level KPIs from KPI management](../task/add-supplier-contract-level-kpis.md)**  
+-   **[Create supplier-level KPIs from KPI management](add-supplier-contract-level-kpis.md)**  
 You can add supplier-level for a supplier from the **KPI management** tab of the supplier page. You can also define contract-level KPIs under their respective supplier-level KPIs.
--   **[Create contract-level KPIs from KPI management](../task/add-contract-level-kpis.md)**  
+-   **[Create contract-level KPIs from KPI management](add-contract-level-kpis.md)**  
 You can add contract-level KPIs for a supplier from the **KPI management** tab of the supplier page. Contract-level KPIs are defined under their respective supplier-level KPIs.
--   **[Create KPIs without using KPI template](../task/create-kpis.md)**  
+-   **[Create KPIs without using KPI template](create-kpis.md)**  
 You can add new KPIs for a supplier without using the existing KPI templates. Adding new KPIs directly generates the corresponding KPI templates.
--   **[Create segmentation rule](../task/create-segmentation-rule-slo.md)**  
+-   **[Create segmentation rule](create-segmentation-rule-slo.md)**  
 Create a segmentation rule that defines criteria for categorizing suppliers into different segments based on various attributes or performance factors.
 
 **Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
@@ -49,13 +49,13 @@ Create a segmentation rule that defines criteria for categorizing suppliers into
 **Related topics**  
 
 
-[Install Supplier Case Management](../task/install-supp-mgmt.md)
+[Install Supplier Case Management](install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](install-supp-central.md)
 
-[Install Supplier Operations](../task/install-supplier-ops.md)
+[Install Supplier Operations](install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](../task/install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](install-supp-payment-opt.md)
 
 [Supplier Document Management](supp-doc-mgmt-overview.md)
 
@@ -63,9 +63,9 @@ Create a segmentation rule that defines criteria for categorizing suppliers into
 
 [Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
 
-[Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
 
-[Install Universal Request for SLO](../task/install-universal-request.md)
+[Install Universal Request for SLO](install-universal-request.md)
 
 [Configure smart assessments](configure-smart-assessments.md)
 
@@ -73,5 +73,5 @@ Create a segmentation rule that defines criteria for categorizing suppliers into
 
 [Create KPI performance domains](create-kpi-domain.md)
 
-[Create manual KPI templates](../task/create-kpi-template-slo.md)
+[Create manual KPI templates](create-kpi-template-slo.md)
 

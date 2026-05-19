@@ -50,7 +50,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
     The invoice is submitted for further processing and the status of the invoice changes to Received.
 
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

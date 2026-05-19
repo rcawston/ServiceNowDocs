@@ -55,7 +55,7 @@ You can also view the consolidated list of all converted RIDAC records using the
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](ridac-entries-for-project.md)
 
 [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](reassociate-ridac-project.md)
 

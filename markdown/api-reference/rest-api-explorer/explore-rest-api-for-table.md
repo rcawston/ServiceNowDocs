@@ -36,5 +36,5 @@ Role required: itil, personalize\_dictionary, and rest\_api\_explorer
 
 Use the REST API Explorer to construct and test REST requests for the table.
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](use-REST-API-Explorer.md)
 

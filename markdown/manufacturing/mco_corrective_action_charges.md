@@ -25,7 +25,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 3.  On the corrective action charges form, fill in the fields.
 
-    For a description of the field values, see [Corrective action charges form](../reference/mco_corrective_action_charges_form.md).
+    For a description of the field values, see [Corrective action charges form](mco_corrective_action_charges_form.md).
 
 4.  Select **Save**.
 

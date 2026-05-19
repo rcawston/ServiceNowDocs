@@ -110,7 +110,7 @@ If domain separation is not enabled on your instance, this field is inactive and
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](querygen-create-segment-manually.md)
 
 [Guidelines for segments](general-guidelines-segments.md)
 

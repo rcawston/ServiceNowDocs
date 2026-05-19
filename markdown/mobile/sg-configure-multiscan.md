@@ -46,5 +46,5 @@ Create UI parameters to contain the values that your users scan in with your gro
 -   **[Configure your action item to use your grouped input UI parameters](sg-configure-multiscan-3.md)**  
 Configure the action item on your button so that you can use the values that your users scan in.
 
-**Parent Topic:**[Mobile barcode scanning](../concept/sg-mobile-scanning.md)
+**Parent Topic:**[Mobile barcode scanning](sg-mobile-scanning.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_si.knowledge\_admin
 
 Knowledge articles share security information, document the types of cyber threats that your organization faces, and provide answers and responses to these threats.
 
-If needed, you can organize knowledge articles into runbooks, which create associations between the articles and specific tasks. For example, you can configure a runbook with conditions that cause a knowledge base article about phishing to be displayed when you're creating a security incident for a phishing attack. For more information, see [Create a Security Incident Response runbook](../reference/setup-assistant-reference.md#).
+If needed, you can organize knowledge articles into runbooks, which create associations between the articles and specific tasks. For example, you can configure a runbook with conditions that cause a knowledge base article about phishing to be displayed when you're creating a security incident for a phishing attack. For more information, see [Create a Security Incident Response runbook](setup-assistant-reference.md#).
 
 Knowledge articles in runbooks can also be associated with specific tasks in a playbook. For more information, see [Associate a knowledge article with a playbook task](use-the-playbook.md#).
 
@@ -70,5 +70,5 @@ Any additional steps required to publish the article, such as approvals, depend 
 **Related topics**  
 
 
-[Create a Security Incident Response runbook](../reference/setup-assistant-reference.md#)
+[Create a Security Incident Response runbook](setup-assistant-reference.md#)
 

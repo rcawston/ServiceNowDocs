@@ -20,10 +20,10 @@ When a user has geolocation tracking enabled, the system updates the user's geog
 -   The system can update geographic coordinates only for users who have location services enabled in their browsers. Even users who have the **Geolocation tracked** check box selected may be prompted by their browsers to share or withhold their location.
 -   A user's geo\_history will not be logged if the user remained at approximately the same location, even if the Minimum distance an agent must move to be considered in a new location \(in meters\) property is set to 0.
 
-**Parent Topic:**[Geolocation](../concept/c_Geolocation.md)
+**Parent Topic:**[Geolocation](c_Geolocation.md)
 
 **Related topics**  
 
 
-[Geolocation](../concept/c_Geolocation.md)
+[Geolocation](c_Geolocation.md)
 

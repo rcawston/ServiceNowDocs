@@ -21,16 +21,16 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](../reference/configurable-wfo-itsm-scheduling-reference.md).
+You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](configurable-wfo-itsm-scheduling-reference.md).
 
 If you do any of the following:
 
 -   Import agent schedules using table import
 -   Disable business rules and use a script to load the data
 
-you must manually run the **Shift Planning - Delete All Agent Schedules Cache** [schedule job](../reference/configurable-wfo-itsm-scheduling-reference.md) to clear the cache.
+you must manually run the **Shift Planning - Delete All Agent Schedules Cache** [schedule job](configurable-wfo-itsm-scheduling-reference.md) to clear the cache.
 
-**Note:** Your administrator can set user preferences for the pagination size to view schedule plans. For more information see, [Scheduling in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md)
+**Note:** Your administrator can set user preferences for the pagination size to view schedule plans. For more information see, [Scheduling in Workforce Optimization for ITSM](configurable-wfo-itsm-scheduling-reference.md)
 
 ## Procedure
 
@@ -79,5 +79,5 @@ you must manually run the **Shift Planning - Delete All Agent Schedules Cache** 
     It may take a few minutes for the screen to refresh. For more information on publishing a schedule plan, see [Publish a schedule plan for visibility into team coverage](publish-schedule-wfo-itsm.md).
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](scheduling-configurable-workforce-optimization-itsm.md)
 

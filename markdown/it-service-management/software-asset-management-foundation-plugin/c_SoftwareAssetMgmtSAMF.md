@@ -62,7 +62,7 @@ The reconciliation process calculates the compliance status of software products
 </td></tr></tbody>
 </table>-   **[Exploring Software Asset Management Foundation plugin](exploring-sam-foundation.md)**  
 Starting with the Australia release, we have enhanced the Software Asset Management Foundation plugin application's user interface to make it more user-friendly and intuitive, allowing you to better manage your software installations.
--   **[Setting up Software Asset Management Foundation plugin](../task/t_SAMSetupSAMF.md)**  
+-   **[Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md)**  
 Set up Software Asset Management Foundation plugin before configuration.
 -   **[Configuring Software Asset Management Foundation plugin workspace](configuring-samf-plugin-workspace.md)**  
 Once you have finished setting up the Software Asset Management Foundation plugin and the Software Asset Workspace plugin applications, you need to configure the Software Asset Workspace.
@@ -75,5 +75,5 @@ Using Software Asset Management Foundation plugin classic.
 -   **[Software Asset Management Foundation plugin Administration](c_SAMAdministrationSAMF.md)**  
 Software Asset Management Foundation plugin administration tasks include adding custom product records, creating custom license metrics, and setting properties. You can also refresh processor definitions, and migrate software installations.
 
-**Parent Topic:**[ITSM Software Asset Management](../../asset-management/concept/itsm-sam.md)
+**Parent Topic:**[ITSM Software Asset Management](../asset-management/itsm-sam.md)
 

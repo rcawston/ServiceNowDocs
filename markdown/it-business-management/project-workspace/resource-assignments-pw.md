@@ -21,7 +21,7 @@ Resource assignment is a process of allocating a resource or group of resources 
 
 **Note:**
 
-Resource efforts calculations are driven by the `com.snc.resource_management.exclude_status_from_capacity` property. Admin can configure this property to calculate efforts for certain defined resource assignments only. For more information, see [Resource Management properties](../../resource-management/reference/r_ResourceProperties.md).
+Resource efforts calculations are driven by the `com.snc.resource_management.exclude_status_from_capacity` property. Admin can configure this property to calculate efforts for certain defined resource assignments only. For more information, see [Resource Management properties](../resource-management/r_ResourceProperties.md).
 
 Edit the child resource assignments directly using the inline editing from the resource assignment pane.
 
@@ -33,25 +33,25 @@ With resource assignments, you can:
 -   Align task execution with the project plan, ensuring tasks are carried out in accordance with specified timelines and resource requirements.
 -   Initiate an approval process that is conducted by a resource manager and make sure it aligns with project targets and resource availability.
 
--   **[Create resource assignments using Project Workspace](../task/create-resource-assignment-prj-wksp.md)**  
+-   **[Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)**  
 Create an attribute-based resource assignment in the Project Workspace application for any project or project task.
--   **[Update resource assignment from Project Workspace](../task/update-resource-assignment-pw.md)**  
+-   **[Update resource assignment from Project Workspace](update-resource-assignment-pw.md)**  
 Update a resource assignment that is associated with a project or project task.
--   **[Assign a resource using AI resource finder](../../project-workspace/task/assign-resources-using-resource-finder-pw.md)**  
+-   **[Assign a resource using AI resource finder](assign-resources-using-resource-finder-pw.md)**  
 Use AI resource finder to identify and assign a resource to an unassigned resource assignment.
--   **[Manage resources from resource page in Project Workspace](../task/manage-resource-assignment-pw.md)**  
+-   **[Manage resources from resource page in Project Workspace](manage-resource-assignment-pw.md)**  
 View and manage all the resource assignments without navigating through individual tasks using the resource page in Project Workspace. Resources page shows all project-associated resources and their assignments to support forecasting and visualization of resource demands.
--   **[Access, assign, and approve unassigned work in Project Workspace](../task/assign-approve-unassigned-work-pw.md)**  
+-   **[Access, assign, and approve unassigned work in Project Workspace](assign-approve-unassigned-work-pw.md)**  
 View, assign and authorize resources directly from Project Workspace without navigating to Resource Management Workspace.
--   **[Move a resource assignment in Project Workspace](../task/move-resource-assignments-project-workspace.md)**  
+-   **[Move a resource assignment in Project Workspace](move-resource-assignments-project-workspace.md)**  
 Move the resource assignment to a new start and end dates to accommodate changes in task scheduling or resource allocation. Shift assignments to balance workloads across resources and avoid over-allocation.
--   **[Extend a resource assignment](../task/extend-resource-assignment-pw.md)**  
+-   **[Extend a resource assignment](extend-resource-assignment-pw.md)**  
 Extend the date of an allocated resource assignment and allocate resources for the extended period.
--   **[Delete a resource assignment from Project Workspace](../task/delete-resource-assignment-pw.md)**  
+-   **[Delete a resource assignment from Project Workspace](delete-resource-assignment-pw.md)**  
 Delete a resource assignment from Project Workspace. Deleting an assignment also deletes all associated resource allocations.
--   **[Update the resource allocation in a heatmap](../task/view-allocations-heatmap-prj-wksp.md)**  
+-   **[Update the resource allocation in a heatmap](view-allocations-heatmap-prj-wksp.md)**  
 Use the allocation heatmap capability in Project Workspace to view and update the resource allocation.
--   **[Realign resource assignment to project task](../task/realign-resource-assignment-to-task.md)**  
+-   **[Realign resource assignment to project task](realign-resource-assignment-to-task.md)**  
 Realign or synchronize the resource assignment dates with the project task dates. This synchronization helps to schedule and align the resource assignments with the timeline of project task.
 
 **Parent Topic:**[Resource planning with Project Workspace](use-resource-mgmt-prj-wksp.md)
@@ -59,9 +59,9 @@ Realign or synchronize the resource assignment dates with the project task dates
 **Related topics**  
 
 
-[Create resource assignments using Project Workspace](../task/create-resource-assignment-prj-wksp.md)
+[Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)
 
-[Update resource assignment from Project Workspace](../task/update-resource-assignment-pw.md)
+[Update resource assignment from Project Workspace](update-resource-assignment-pw.md)
 
-[Resource plans](../../resource-management/concept/c_ResourcePlans.md)
+[Resource plans](../resource-management/c_ResourcePlans.md)
 

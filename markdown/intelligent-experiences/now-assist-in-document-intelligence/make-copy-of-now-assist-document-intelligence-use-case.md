@@ -53,7 +53,7 @@ Edit the new use case to make any necessary changes and test it to make sure it 
 
 For more information, see [Edit a use case in Now Assist in Document Intelligence](edit-now-assist-document-intelligence-use-case.md).
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md)
 
 **Related topics**  
 

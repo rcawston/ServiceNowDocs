@@ -55,5 +55,5 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configuring Workplace Move Management](../concept/configure-workplace-move-mgmt.md)
+**Parent Topic:**[Configuring Workplace Move Management](configure-workplace-move-mgmt.md)
 

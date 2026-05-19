@@ -43,12 +43,12 @@ Role required: sn\_fin\_ops.specialist
 
 7.  On the Create New Finance Case form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Create a finance case form](../reference/create-fin-inquiry-form.md).
+    For more information on the form fields and descriptions, see [Create a finance case form](create-fin-inquiry-form.md).
 
 8.  Select **Save**.
 
     A new finance case is created. For more information on viewing finance cases, see [View a case from Finance Operations Workspace](view-case-fin-ops-ws.md).
 
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

@@ -97,7 +97,7 @@ For more information on reports, see [Instance performance telemetry reports](in
 -   IO is supported on Google Chrome and Mozilla Firefox and the links are valid on these browsers. You must log in to the respective browser to view the shared URL.
 -   There is a limitation with sharing the URL for Triage — both the sender and recipient must have the same instance enabled in their accounts.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](instance-observer-ovr-metric.md)
 
 **Related topics**  
 

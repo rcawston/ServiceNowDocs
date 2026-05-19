@@ -17,7 +17,7 @@ In the classic environment, you can develop a table to use for your decision ans
 
 **Note:** Workflow Studio decision tables provide a new intuitive interface to create decision tables. For more information, see [Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/workflow-studio.md).
 
--   **[Create a decision table to resolve complex decisions](../task/create-a-decision.md)**  
+-   **[Create a decision table to resolve complex decisions](create-a-decision.md)**  
 Create a decision table to help you resolve a complex decision that depends on multiple factors.
 
 **Parent Topic:**[Decision Tables](decision-table.md)

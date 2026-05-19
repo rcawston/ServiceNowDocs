@@ -15,7 +15,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner, Extend ServiceNow AI Platform 
 
 Operate the ATF Test Generator and Cloud Runner store application by generating tests automatically.
 
--   **[Generating the tests](../task/atf-tg-cr-generate-tests.md)**  
+-   **[Generating the tests](atf-tg-cr-generate-tests.md)**  
 Generate tests automatically by leveraging ServiceNow Test Generation and Cloud Runner application. You can also run these tests with the click of a button.
 -   **[Tests generation for flow and flow logic](atf-tg-cr-sc-flow.md)**  
 Use the ATF Test Generator and Cloud Runner store application to auto-generate tests that drive a ServiceNow flow for Service Catalog.

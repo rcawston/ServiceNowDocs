@@ -17,7 +17,7 @@ In the Security Exposure Management Workspace, you can set up a single assignmen
 
 You can also configure the remediation task rule execution mode to control whether the system evaluates all matching rules \(Match All\) or stops at the first match \(Match First\).
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 

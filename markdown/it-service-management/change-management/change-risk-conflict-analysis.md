@@ -21,7 +21,7 @@ Analyze the risk of change and review detected conflicts in the following ways.
 Change Management features provide ways to calculate and assess the risk of change requests, and to identify and resolve conflicts.
 -   **[Risk assessment](c_RskAsmtCalc.md)**  
 There are two methods to calculate the risk of a change. The Best Practice - Change Risk Calculator is activated in the base system by default. Change Management - Risk Assessment is optional.
--   **[Migrate to legacy change risk assessments](../task/legacy-change-risk-assessment-migration.md)**  
+-   **[Migrate to legacy change risk assessments](legacy-change-risk-assessment-migration.md)**  
 Users can migrate legacy change risk assessments to versions compatible with the new Change Risk Assessment table schema and logic.
 
 **Parent Topic:**[Reference section for Change Management](reference-change-management.md)

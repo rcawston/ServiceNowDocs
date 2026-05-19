@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](../concept/specify-access-assignment-group-wfo-itsm.md)
+**Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](specify-access-assignment-group-wfo-itsm.md)
 

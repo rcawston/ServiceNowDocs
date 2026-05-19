@@ -112,7 +112,7 @@ Data
 Contextual information for in-page interactions.
 
 </td></tr></tbody>
-</table>-   **[View the server response time](../task/view-server-response-time.md)**  
+</table>-   **[View the server response time](view-server-response-time.md)**  
 View the server response times that are associated with your Next Experience instance by using the client interaction table.
 
 **Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)

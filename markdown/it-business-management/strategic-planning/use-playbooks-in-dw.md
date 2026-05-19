@@ -61,7 +61,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
             **Note:** The default playbook is a stage-gate playbook, that is, a stage is unlocked only when its prior stages are marked as completed or skipped.
 
-        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md).
+        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](demand-default-playbook-stages.md).
         4.  For each activity, perform one of the following actions:
             -   Select **Mark Complete** to mark the activity as done and move to the next activity.
             -   Select **Save** to save your progress without completing the activity.
@@ -85,7 +85,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
 [Create and customize playbooks](playbooks-configuration-for-dmnd-wpc.md)
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace.md)
+[Playbooks in Next Experience for Demand Management](playbooks-in-demand-workspace.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages.md)
 

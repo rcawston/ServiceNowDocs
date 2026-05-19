@@ -65,5 +65,5 @@ Copy talent from the All talent section to a talent pool.Go to the All talent se
 
 You have associated the required talent profiles from one Talent pool to another.
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](config-t-pool.md)
 

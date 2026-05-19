@@ -28,7 +28,7 @@ When the Translations and Language switching properties are enabled, the Content
     The Translate content option sends the content for translation in the specified language.
 
 
-For more information on the properties, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+For more information on the properties, see [Properties installed with Content Publishing](properties-with-content-delivery.md).
 
 ## Translating content in the Content Library
 
@@ -46,7 +46,7 @@ The following provides an overview of the base translation workflow. The admin f
     The Content manager can view the status of the localization request item from the **Localization Framework** &gt; **My Requested Items** list.
 
 3.  The user with the localization\_fulfiller role performs the translation. For more details, see [Fulfill a localization task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/fulfill-localization-task.md).
-4.  When the localization request item has a `Closed complete` state, the Content manager can schedule the content for publishing, see [Create a publish plan for your content](../task/ec-content-library-publish2.md). The system uses the same content schedule for the original and translated content.
+4.  When the localization request item has a `Closed complete` state, the Content manager can schedule the content for publishing, see [Create a publish plan for your content](ec-content-library-publish2.md). The system uses the same content schedule for the original and translated content.
 
 ## Changing the Content Library interface language
 

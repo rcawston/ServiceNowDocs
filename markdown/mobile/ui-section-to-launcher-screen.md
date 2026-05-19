@@ -36,5 +36,5 @@ Role required: admin
 
 ## Result
 
-A preview is displayed in your launcher screen. Tap on the preview to navigate to a preconfigured data visualization. See  [Mobile platform dashboards](../concept/mobile-reporting-dashboard.md) for examples of the data visualization previews you can use.
+A preview is displayed in your launcher screen. Tap on the preview to navigate to a preconfigured data visualization. See  [Mobile platform dashboards](mobile-reporting-dashboard.md) for examples of the data visualization previews you can use.
 

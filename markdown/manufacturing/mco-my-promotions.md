@@ -25,7 +25,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the My Promotion form, fill in the fields.
 
-    For a description of the field values, see [My promotions form](../reference/mco-my-promotions-form.md).
+    For a description of the field values, see [My promotions form](mco-my-promotions-form.md).
 
 4.  Select **Save**.
 

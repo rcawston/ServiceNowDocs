@@ -300,7 +300,7 @@ Enable Retry Policy
 
 </td><td>
 
-Option to enable the retry policy. For more information, see [Retry policy](../concept/retry-policy.md#).
+Option to enable the retry policy. For more information, see [Retry policy](retry-policy.md#).
 
 </td></tr><tr><td>
 
@@ -345,7 +345,7 @@ Option to remove files from the source SFTP server when the copy command is exec
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 **Parent Topic:**[SFTP step](sftp-step.md)

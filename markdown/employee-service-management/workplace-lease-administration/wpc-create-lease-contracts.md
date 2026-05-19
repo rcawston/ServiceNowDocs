@@ -35,7 +35,7 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 6.  On the form, fill in the rest of the fields.
 
-    For description of the field values, see [Workplace contract new record form](../reference/workplace-contract-form.md).
+    For description of the field values, see [Workplace contract new record form](workplace-contract-form.md).
 
 7.  Click **Save**.
 
@@ -72,7 +72,7 @@ After you create a terms and conditions record, add the record to a lease contra
 -   **[Add documents to a workplace contract in Workplace Central](wpc-add-doc-to-lease-cont.md)**  
 Add documents to the workplace contract to maintain all the relevant documents in a single place and maintain different versions of the document.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](../concept/working-with-lease-administration.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](working-with-lease-administration.md)
 
 **Related topics**  
 

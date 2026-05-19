@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure a characteristic for a dosage specification](../task/hcls-setup-dosage-char.md).
+[Configure a characteristic for a dosage specification](hcls-setup-dosage-char.md).
 
 </td><td>
 
@@ -35,7 +35,7 @@ Configure a characteristic for a dosage so that you can define the dosages for a
 
 </td></tr><tr><td>
 
-[Configure a dosage specification for a medication product associated with a program](../task/hcls-config-dosage.md).
+[Configure a dosage specification for a medication product associated with a program](hcls-config-dosage.md).
 
 </td><td>
 
@@ -43,7 +43,7 @@ Create a dosage specification associated with a medication product included in a
 
 </td></tr><tr><td>
 
-[Configure the mapping between a dosage characteristic and a dosage details field](../task/hcls-ext-point-dosage-char-map.md).
+[Configure the mapping between a dosage characteristic and a dosage details field](hcls-ext-point-dosage-char-map.md).
 
 </td><td>
 

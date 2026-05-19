@@ -24,7 +24,7 @@ Now Assist Guardian detects sensitive subjects in Virtual Agent conversations an
 
 **Note:** The sensitive topic filter guardrail applies only to Virtual Agent conversational skills and is available for HR Service Delivery and Customer Service Management \(CSM\).
 
-See [Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md) for more information.
+See [Now Assist Guardian](now-assist-guardian.md) for more information.
 
 ## Procedure
 
@@ -121,5 +121,5 @@ The sensitive topic filter is activated and appears in the **Active** tab of the
 
 To modify the filter configuration after activation, go to the **Active** tab of the Now Assist Guardian settings options and select the more actions icon \(![image.more-options-menu-item]\) in the **Actions** column.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](now-assist-guardian.md)
 

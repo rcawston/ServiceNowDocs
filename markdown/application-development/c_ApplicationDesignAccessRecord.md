@@ -32,5 +32,5 @@ Application design access records allow administrators to have oversight of the 
 
 After developers create configuration records to other applications, the system displays these applications as dependencies.
 
-**Parent Topic:**[Application design and runtime settings](../reference/r_ApplicationDesignAndRuntimeSettings.md)
+**Parent Topic:**[Application design and runtime settings](r_ApplicationDesignAndRuntimeSettings.md)
 

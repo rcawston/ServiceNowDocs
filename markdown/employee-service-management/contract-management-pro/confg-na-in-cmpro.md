@@ -54,7 +54,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
     For more information on configuring contract obligation extraction, see [Configuring contract obligation extraction](cncore-conf-obligation-extraction.md).
 
-    For more information on configuring contract analysis, see [Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md).
+    For more information on configuring contract analysis, see [Configuring contract analysis](cmpro-conf-contract-analysis.md).
 
 6.  In the Define access page, select the roles to specify who can access the skills.
 
@@ -80,14 +80,14 @@ Add the user roles for a Now Assist skill to specify the roles that Now Assist u
 Select a large language model \(LLM\) provider for a contract analysis or metadata extraction use case.
 -   **[Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)**  
 Configure system properties and use cases for metadata extraction so that a contract manager can use Now Assist to extract metadata from a contract and add the extracted information to the contract repository.
--   **[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)**  
+-   **[Configuring contract analysis](cmpro-conf-contract-analysis.md)**  
 Configure use cases with associated field groups and fields, and map them to clauses and expected responses. Now Assist uses the applicable use case to analyze a contract document and identify non-standard and missing clauses.
 -   **[Configuring contract obligation extraction](cncore-conf-obligation-extraction.md)**  
 Configure and map use cases for the contract obligation extraction skill in the Now Assist Admin console to automatically extract key contractual obligations from signed contracts.
--   **[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)**  
+-   **[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)**  
 Configure agentic workflows in Now Assist in Contract Management so that contract fulfillers can use the AI agents to perform specific tasks autonomously.
 -   **[Post-upgrade steps for Now Assist in Contract Management](cmpro-na-upgrade-steps.md)**  
 If you are upgrading to Now Assist in Contract Management from Yokohama \(Patch 2 and lower\) or Xanadu \(Patch 8 and lower\), and you have customized use cases, run a fix script to migrate the existing data to the Now Assist Admin console.
 
-**Parent Topic:**[Now Assist in Contract Management](../concept/cncore-now-assit-landing.md)
+**Parent Topic:**[Now Assist in Contract Management](cncore-now-assit-landing.md)
 

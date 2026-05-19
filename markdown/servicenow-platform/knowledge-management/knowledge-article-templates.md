@@ -142,7 +142,7 @@ Text
 </td></tr></tbody>
 </table>## Activating knowledge article templates
 
-The Knowledge Article Templates feature is activated with the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. After the feature is activated, when creating an article, option to choose a template for the article appears. For details, see [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md).
+The Knowledge Article Templates feature is activated with the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. After the feature is activated, when creating an article, option to choose a template for the article appears. For details, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
 
 ## Deactivating knowledge article templates
 

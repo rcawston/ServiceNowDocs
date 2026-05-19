@@ -83,5 +83,5 @@ Sync error
 Error in syncing the contact with Everbridge.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create contacts for emergency notifications](../task/create-contacts-emergency-noti-uib-ws.md)
+</table>**Parent Topic:**[Create contacts for emergency notifications](create-contacts-emergency-noti-uib-ws.md)
 

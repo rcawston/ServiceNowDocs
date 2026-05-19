@@ -319,5 +319,5 @@ Details of the citations, such as reference, name, authority document, descripti
 7.  To visually explore the 360° relationship view of the metric definition, click **360° view**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

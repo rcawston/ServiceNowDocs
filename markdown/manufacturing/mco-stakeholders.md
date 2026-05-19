@@ -25,10 +25,10 @@ Role required: admin
 
 3.  On the Stakeholder form, fill in the fields.
 
-    For a description of the field values, see [Stakeholder form](../reference/mco-stakeholders-form.md).
+    For a description of the field values, see [Stakeholder form](mco-stakeholders-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for quality issues](../concept/mco-related-list-for-pqi.md)
+**Parent Topic:**[Related list for quality issues](mco-related-list-for-pqi.md)
 

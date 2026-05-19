@@ -29,11 +29,11 @@ This is an overview of domain separation as it pertains to CMDB Health. Domain s
 
 [View CMDB Health Dashboard](c_MonitorCMDBHealth.md)
 
-[View relationships health](../task/t_ViewRelationshipsHealth.md)
+[View relationships health](t_ViewRelationshipsHealth.md)
 
-[View CI health](../task/t_ViewCIHealth.md)
+[View CI health](t_ViewCIHealth.md)
 
-[Create a CMDB remediation rule](../task/t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
 
 [CMDB Health process tracking and troubleshooting](c_CMDBHealthTroubleshooting.md)
 

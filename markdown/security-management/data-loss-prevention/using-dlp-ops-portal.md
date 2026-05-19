@@ -20,7 +20,7 @@ The DLP workspace consists of a home page with dashboards, list views, and form 
 
 ![DLP Workspace Overview page.](../image/dlp-ops-homepage.png "DLP Workspace overview page")
 
-**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](../task/data-loss-prevention-incident-management.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](data-loss-prevention-incident-management.md)
 
 **Related topics**  
 
@@ -337,7 +337,7 @@ Preview Data Loss Prevention Incident Response evidence files in the DLP IR Anal
 
 ### Before you begin
 
-**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](../task/configure-advanced-settings-dlp.md).
+**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](configure-advanced-settings-dlp.md).
 
 Role required: sn\_dlir.analyst
 

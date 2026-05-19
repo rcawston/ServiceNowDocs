@@ -88,7 +88,7 @@ The model category that the asset belongs to. Based on the model category select
 
 6.  In the Create New asset page, fill in the details.
 
-    For a detailed description of the fields, see [Asset fields for enterprise assets](../reference/asset-fields-eam.md).
+    For a detailed description of the fields, see [Asset fields for enterprise assets](asset-fields-eam.md).
 
 7.  Select **Save**.
 
@@ -103,5 +103,5 @@ The model category that the asset belongs to. Based on the model category select
     The asset can be deleted only by the sn\_eam.enterprise\_admin role.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

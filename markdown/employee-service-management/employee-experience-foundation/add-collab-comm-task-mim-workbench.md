@@ -55,5 +55,5 @@ Role required: major\_incident\_manager
 -   **[Initiate Microsoft Teams group chat from MIM workbench](initiate-ms-teams-group-chat-mim-workbench.md)**  
 You can initiate a Microsoft Teams group chat from the MIM workbench to work towards the resolution of the task.
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](agent-sn-ms-teams.md)
 

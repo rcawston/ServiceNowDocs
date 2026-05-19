@@ -72,5 +72,5 @@ To understand basic flows, create an expense approval flow. This flow:
 
 ## What to do next
 
-Transform the Ask for Approval action into a reusable action using Workflow Studio. Actions enable flow designers to add complex actions to multiple flows with minimal configuration. See [Getting started with actions](getting-started-action.md).
+Transform the Ask for Approval action into a reusable action using Workflow Studio. Actions enable flow designers to add complex actions to multiple flows with minimal configuration. See [Getting started with actions](../workflow-studio/getting-started-action.md).
 

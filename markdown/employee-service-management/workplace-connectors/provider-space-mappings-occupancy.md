@@ -77,7 +77,7 @@ Option to show the list of all connectors or sensor data that the provider suppo
 </table>3.  Select **Submit**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
 **Previous topic:**[Provider Space Type Mappings](provider-space-type-mapping.md)
 

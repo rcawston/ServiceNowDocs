@@ -44,5 +44,5 @@ Role required: sn\_hr\_core.hrsm\_employee, sn\_asc.alumni, sn\_external, snc\_i
 
 An HR case is created and assigned to an agent belonging to the HR Data Privacy user group. For more information, see [Generate Personally Identifiable Information \(PII\) report](generate-pii-report-rtbi.md).
 
-Alumni can log in to the Alumni Center, go to HR systems and request for the report. For more information, see [Using your Alumni Center](../concept/asc-use.md). In case customers don't have Alumni Center, the agent can create a request on behalf of the alumni.
+Alumni can log in to the Alumni Center, go to HR systems and request for the report. For more information, see [Using your Alumni Center](../employee-service-management/asc-use.md). In case customers don't have Alumni Center, the agent can create a request on behalf of the alumni.
 

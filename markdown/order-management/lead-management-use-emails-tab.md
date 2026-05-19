@@ -41,5 +41,5 @@ Role required: sales\_agent
 6.  Select **Send email** to send the email or close the email form to save it in the **Draft Emails** tab.
 
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

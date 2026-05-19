@@ -28,7 +28,7 @@ Role required: None
 3.  Select **Save View**, **Load View**, or **Last View**.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

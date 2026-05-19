@@ -35,5 +35,5 @@ Role required: agent\_admin or admin
 -   **[Configure OAuth 2.0 credentials on CyberArk](configure-oauth-2-0-credentials-on-cyberark.md)**  
 Configure your CyberArk vault with OAuth 2.0 credentials that the ServiceNow instance requests.
 
-**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](../concept/oauth-2-0-support-in-external-credential.md)
+**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](oauth-2-0-support-in-external-credential.md)
 

@@ -108,7 +108,7 @@ All
 
 </td><td>
 
-Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [Workspaces](../fso-workspace.md) and [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Adjuster
 
 This adjuster workspace UI Builder page has been set up in Insurance claims.If necessary, you can clone this workspace and modify it to be more specific to your particular line of business.
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+For more information, see [Workspaces](../fso-workspace.md) and [Configure CSM Configurable Workspace](../configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 

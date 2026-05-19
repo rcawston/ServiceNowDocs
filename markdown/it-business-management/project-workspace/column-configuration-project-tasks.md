@@ -142,5 +142,5 @@ Type of time constraint applied
 If a column value is not present in the excel document, it is handled internally and initialized with a valid default.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Project Workspace reference](../../project-workspace/reference/project-workspace-reference.md)
+</table>**Parent Topic:**[Project Workspace reference](project-workspace-reference.md)
 

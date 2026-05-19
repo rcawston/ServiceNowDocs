@@ -18,7 +18,7 @@ Delete a Log Analytics alert rule that you have defined if it is no longer neces
 
 ## Before you begin
 
-For background information, see [About Log Analytics alert rules](../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
+For background information, see [About Log Analytics alert rules](hla-custom-alert-rules.md).
 
 This feature is supported in the Health Log Analytics application, Version 20.0.11 - July 2021, and the Health Log Analytics Viewer application, Version 20.0.4 - July 2021, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 

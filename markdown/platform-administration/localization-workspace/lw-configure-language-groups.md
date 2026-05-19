@@ -26,7 +26,7 @@ From version 2.0.2: When your users create translation requests, they can select
 
 Individual languages may be included in more than one language group. If a language is included multiple times in one translation request, Localization Workspace clears out the preconfigured value for translation service provider. Then the translation requester must manually select the desired translation service provider.
 
-**Note:** From version 3.0.0, a Guided Tour is available to assist localization admins and localization requesters \(localization\_admin and localization\_requestor\) with the setup of a language group. Access the guided tour by selecting the Help Center icon ![](../../../common/image/Banner_HelpIcon.png) on the [Home](../concept/lw-status-synchronization.md) screen.
+**Note:** From version 3.0.0, a Guided Tour is available to assist localization admins and localization requesters \(localization\_admin and localization\_requestor\) with the setup of a language group. Access the guided tour by selecting the Help Center icon ![](../../../common/image/Banner_HelpIcon.png) on the [Home](lw-status-synchronization.md) screen.
 
 ## Procedure
 
@@ -75,5 +75,5 @@ You can edit a group as follows.
 
 ![In the edit modal window of Language Groups, three language rows have add and delete icons along with drop-down lists. The Edit button is highlighted.](../image/lw-configure-language-groups-edit-modal.png)
 
-**Parent Topic:**[Language setup in Localization Workspace](../concept/lw-language-setup.md)
+**Parent Topic:**[Language setup in Localization Workspace](lw-language-setup.md)
 

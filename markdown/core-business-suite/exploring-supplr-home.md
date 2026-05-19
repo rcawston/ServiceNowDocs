@@ -53,5 +53,5 @@ To learn more about configuring and using Core Business Suite, see:
 
 -   
 -   [Using Core Business Suite](cbs-using-parent.md)
--   [Core Business Suite reference](../reference/cbs-reference-parent.md)
+-   [Core Business Suite reference](cbs-reference-parent.md)
 

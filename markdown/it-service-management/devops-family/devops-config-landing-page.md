@@ -49,7 +49,7 @@ DevOps Config overview
 
 </td><td>
 
-[Reference ![Reference](../../../common/image/icon-reference.png) Get details about supported configuration data, CDM APIs, and PaCE policies.](../reference/devops-config-reference.md)
+[Reference ![Reference](../../../common/image/icon-reference.png) Get details about supported configuration data, CDM APIs, and PaCE policies.](devops-config-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -60,5 +60,5 @@ DevOps Config overview
 
 ## Related ServiceNow applications and features
 
-[DevOps Change Velocity](../../enterprise-dev-ops/concept/dev-ops-landing-page.md) application.
+[DevOps Change Velocity](../devops-change-velocity/dev-ops-landing-page.md) application.
 

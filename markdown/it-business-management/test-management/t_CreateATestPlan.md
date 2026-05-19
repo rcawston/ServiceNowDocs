@@ -147,7 +147,7 @@ You can use the related links and related lists of the new test suite for the fo
 -   View the test execution summary and sign off the test plan by clicking the **Sign-off Test Plan** related link.
 -   View the Test Plan Defects related list for the list of all the defects logged from the test cases.
 
-**Parent Topic:**[Test plans](../concept/c_TestPlans.md)
+**Parent Topic:**[Test plans](c_TestPlans.md)
 
 ## Display test plan execution start and end dates
 

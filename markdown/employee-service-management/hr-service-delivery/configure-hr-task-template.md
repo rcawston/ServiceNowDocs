@@ -156,7 +156,7 @@ Collect employee input
 
 </td><td>
 
-Collects information from employees. In the **Employee form** field, select the employee form that the user will fill out or verify.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](../concept/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user will fill out or verify.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ E-signature
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR document templates with their typed or drawn signature, credentials, or as an acknowledgment. See [HR e-signature](../concept/hr-e-signature.md) for more information.
+-   E-signature is a scoped application that enables users to sign managed documents, knowledge articles, or HR document templates with their typed or drawn signature, credentials, or as an acknowledgment. See [HR e-signature](hr-e-signature.md) for more information.
 -   If HR document template is the document type of the e-signature template, you must select the HR document template that the signatory will sign on the HR case form. See [Select an HR document template for an e-signature task](select-hr-document-template-for-e-signature-task.md) for more information.
 
 
@@ -391,7 +391,7 @@ Use global descriptions for translations
 
 </td><td colspan="2">
 
-Option to enable the use of global descriptions for translations. If selected, you can provide the short description and description for the HR task template in one or more languages. See [Translations for HR cases and tasks](../concept/translation-of-hr-cases-and-tasks.md#) for more information.Check to show the **Global short description** and **Global description** fields. You can select a table \(top, right\) from the list and the associated dynamic variables from that table appear. You can add dynamic variables when creating your text to personalize the task. To use dynamic variables in the **Global short description** field, copy and paste the dynamic variables from the **Global description** field.
+Option to enable the use of global descriptions for translations. If selected, you can provide the short description and description for the HR task template in one or more languages. See [Translations for HR cases and tasks](translation-of-hr-cases-and-tasks.md#) for more information.Check to show the **Global short description** and **Global description** fields. You can select a table \(top, right\) from the list and the associated dynamic variables from that table appear. You can add dynamic variables when creating your text to personalize the task. To use dynamic variables in the **Global short description** field, copy and paste the dynamic variables from the **Global description** field.
 
 **Note:** Because some dynamic variables might provide personal information, use the sn\_hr\_core.task\_template\_variable\_ignore system property to ensure privacy. For example, social security number \(ssn\) is excluded by default. You can add other variables to this system property to disable them but ensure they are comma separated with no spaces between each variable.
 

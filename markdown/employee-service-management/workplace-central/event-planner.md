@@ -25,7 +25,7 @@ Ensure that you have installed the Calendar component \(sn\_calendar\) of versio
 
 Using the Event planner schedule view, you can perform various actions on reservation. However, note the following:
 
--   Open and view the Location directory portal from the Scheduled view. For more information, see [Open and view Location directory from Event Planner](../task/open-location-directory-eventplanner.md).
+-   Open and view the Location directory portal from the Scheduled view. For more information, see [Open and view Location directory from Event Planner](open-location-directory-eventplanner.md).
 -   You can only manage reservations that are created using Workplace Core applications.
 -   You can manage single and occurrence reservations.
 -   You can manage a multi-location or a group reservation only by opening the reservation details and not with the schedule view.
@@ -44,9 +44,9 @@ The Event planner also provides you with an option to create a reservation. The 
 
 **Note:** In scheduled view, you cannot update a reservation after editing any custom field.
 
-The Event planner workspace provides you with great options in tracking your reservations. For more information about the key features and its capabilities, refer to [Workplace Central Event planner](../reference/event-planner-key-features-actions-views.md).
+The Event planner workspace provides you with great options in tracking your reservations. For more information about the key features and its capabilities, refer to [Workplace Central Event planner](event-planner-key-features-actions-views.md).
 
-For more information about the Reservation planner role, refer to [Components installed with Workplace Reservation Management](../../wsd-reservation-management/reference/components-installed-with-wsd-reservation-mgmt.md)
+For more information about the Reservation planner role, refer to [Components installed with Workplace Reservation Management](../workplace-reservation-management/components-installed-with-wsd-reservation-mgmt.md)
 
 **Parent Topic:**[Explore Workplace Central](workplace-central.md)
 
@@ -59,11 +59,11 @@ For more information about the Reservation planner role, refer to [Components in
 
 [Space Planning](space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](../workplace-space-management/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](../workplace-space-management/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](../workplace-space-management/schedule-planning.md)
 
 [Space assistance](space-assistance.md)
 

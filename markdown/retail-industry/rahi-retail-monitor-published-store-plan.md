@@ -33,5 +33,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
     -   Store tasks
     -   Affected stores
 
-**Parent Topic:**[Manage store plans](../concept/rahi-retail-manage-store-plans.md)
+**Parent Topic:**[Manage store plans](rahi-retail-manage-store-plans.md)
 

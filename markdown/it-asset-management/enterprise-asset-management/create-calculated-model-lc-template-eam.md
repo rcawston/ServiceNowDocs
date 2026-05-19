@@ -61,7 +61,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 Associate the Calculated model lifecycle template with an enterprise model. For details, see [Associate an enterprise model with a Calculated model lifecycle template](associate-eam-model-calc-template.md).
 
-**Parent Topic:**[Manage the lifecycle of enterprise models with calculated lifecycle templates](../concept/manage-eam-lifecycle-temp.md)
+**Parent Topic:**[Manage the lifecycle of enterprise models with calculated lifecycle templates](manage-eam-lifecycle-temp.md)
 
 **Related topics**  
 

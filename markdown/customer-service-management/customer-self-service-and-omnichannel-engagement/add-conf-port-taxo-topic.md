@@ -47,7 +47,7 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Taxonomy Topic widget instance options form](../reference/port-taxo-topic-inst-optns.md).
+    For a description of the field values, see [Portal Taxonomy Topic widget instance options form](../port-taxo-topic-inst-optns.md).
 
 12. Select **Save**.
 

@@ -111,7 +111,7 @@ Type of integration profile. This field is automatically set to Adobe subscripti
 
     The **Download subscriptions** check box is selected by default and you can't clear it.
 
-    For more information about the required roles and scopes, see [Minimal user permissions](../concept/adobe-cloud-integration.md) table.
+    For more information about the required roles and scopes, see [Minimal user permissions](adobe-cloud-integration.md) table.
 
 4.  Select **Submit**.
 
@@ -134,7 +134,7 @@ Type of integration profile. This field is automatically set to Adobe subscripti
 
 8.  Select **Create and Get OAuth Token**.
 
-    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](../concept/adobe-cloud-integration.md) table.
+    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](adobe-cloud-integration.md) table.
 
 9.  On the integration profile form, select **Validate Connection** to verify the connection and credential details of this integration.
 
@@ -161,11 +161,11 @@ This job completion results in the following:
 
 ## What to do next
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../saas-license-management/create-child-alias-saas.md).
 
 View the subscription data by navigating to **All** &gt; **SaaS License** &gt; **All User Subscriptions**. You can check the status of the **SAM - Import Adobe User Subscriptions** job by navigating to **All** &gt; **Software Asset** &gt; **Administration** &gt; **Job Results**.
 
-You can also view information about your Adobe subscriptions, compliance, and costs on the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](../concept/sam-saas-subscription-dash.md).
+You can also view information about your Adobe subscriptions, compliance, and costs on the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md).
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists:
 
@@ -177,10 +177,10 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](../concept/subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](../saas-license-management/subscription-exclusions.md#).
 
 **Related topics**  
 
 
-[Publisher optimizations for Adobe](../reference/pub-opt-adobe.md)
+[Publisher optimizations for Adobe](pub-opt-adobe.md)
 

@@ -17,7 +17,7 @@ Use UI Builder pages and modular components for custom playbook layouts to custo
 
 ## Before you begin
 
--   If you don't have a playbook to apply custom layouts to, build a playbook. To learn more, see [Building Playbooks](../../process-automation-designer/concept/building-a-process.md).
+-   If you don't have a playbook to apply custom layouts to, build a playbook. To learn more, see [Building Playbooks](building-a-process.md).
 -   Install the latest version of the Playbook Experience and Playbook Experience Component apps from the ServiceNow Store. See [Playbook Experience apps](https://store.servicenow.com/sn_appstore_store.do#!/store/product/e4cecaf0db2be81079279ee4db9619f2).
 
 Role required: ui\_builder\_admin, admin

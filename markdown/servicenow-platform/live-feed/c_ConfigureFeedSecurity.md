@@ -27,13 +27,13 @@ Consider the following examples:
 **Related topics**  
 
 
-[Add a Live Feed UI action on a table](../task/t_AddALiveFeedUIActionOnATable.md)
+[Add a Live Feed UI action on a table](t_AddALiveFeedUIActionOnATable.md)
 
-[Configure document feeds](../task/t_ConfigureDocumentFeeds.md)
+[Configure document feeds](t_ConfigureDocumentFeeds.md)
 
-[Disable a record feed](../task/t_DisableARecordFeed.md)
+[Disable a record feed](t_DisableARecordFeed.md)
 
-[Disable a document feed](../task/t_DisableADocumentFeed.md)
+[Disable a document feed](t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](r_InstalledComponents.md)
 

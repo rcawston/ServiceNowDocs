@@ -42,5 +42,5 @@ Sometimes, Software Spend Detection can't match a transaction to a software publ
     The transaction is removed from the list of unnormalized transactions and is added to the Software Spend Detection dashboard.
 
 
-**Parent Topic:**[Software Spend Detection](../concept/software-spend-detection.md)
+**Parent Topic:**[Software Spend Detection](software-spend-detection.md)
 

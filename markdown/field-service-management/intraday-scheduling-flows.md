@@ -35,5 +35,5 @@ The flows and subflows for configuring intra-day schedule automation.
 |FSM wait for work start|Checks that the agent started work at the specified time.|
 |Run task recommendation|Recommends tasks for an agent with free time. For example, the task recommendation runs if the agent has canceled tasks or ended a task early.|
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 

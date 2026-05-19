@@ -31,7 +31,7 @@ The Contract Management Pro application use spokes from Integration Hub to integ
     -   [Microsoft OneDrive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/onedrive-spoke.md)
 -   **Configure an external storage provider**
 
-    The contract configurator can set up the external storage app integrations from **Contract Integrations**. For more information, see [Configure an external storage system](../task/cncore-integrate-ext-storage.md).
+    The contract configurator can set up the external storage app integrations from **Contract Integrations**. For more information, see [Configure an external storage system](cncore-integrate-ext-storage.md).
 
 -   **External storage permissions**
 
@@ -55,12 +55,12 @@ The Contract Management Pro application use spokes from Integration Hub to integ
     -   [Docusign spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/docusign-spoke.md)
 -   **Set up the electronic signature provider app**
 
-    The configurator can set up the electronic signature app integrations from **Contract Integrations**. For more information, see [Configure an e-signature provider](../task/cncore-integrate-esign.md).
+    The configurator can set up the electronic signature app integrations from **Contract Integrations**. For more information, see [Configure an e-signature provider](cncore-integrate-esign.md).
 
 
--   **[Configure an external storage system](../task/cncore-integrate-ext-storage.md)**  
+-   **[Configure an external storage system](cncore-integrate-ext-storage.md)**  
 As a contract configurator, configure an external storage system to store signed contract documents.
--   **[Configure an e-signature provider](../task/cncore-integrate-esign.md)**  
+-   **[Configure an e-signature provider](cncore-integrate-esign.md)**  
 Configure an electronic signature provider to enable users to sign contract documents electronically.
 
 **Parent Topic:**[Configuring Contract Management Pro](cncore-config-cmpro.md)

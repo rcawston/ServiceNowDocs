@@ -35,7 +35,7 @@ Role required: sn\_pace.policy\_editor
 
 5.  Click the **Policy builder** tab, create a copy of the version in which you want to make changes, and make the relevant changes in the new version.
 
-    You can select different versions of the policy in the Version drop-down menu. For more information about creating and managing versions, see [Manage PaCE policy versions](../concept/pace-policy-versions.md).
+    You can select different versions of the policy in the Version drop-down menu. For more information about creating and managing versions, see [Manage PaCE policy versions](pace-policy-versions.md).
 
     **Note:** You can't update API Variables and Config Parameters for an existing policy version that is Current \(published\) or archived. To modify a Current version, create a copy of that version, as described in the Create a copy of a policy version section.
 
@@ -52,6 +52,6 @@ Role required: sn\_pace.policy\_editor
 
 8.  Click the **Mappings** tab and make the relevant changes.
 
-    For more information about defining caller and mapping inputs, see [Map PaCE policies](../concept/pace-mapping-inputs.md).
+    For more information about defining caller and mapping inputs, see [Map PaCE policies](pace-mapping-inputs.md).
 
 

@@ -46,7 +46,7 @@ You can view the Overall supplier dashboard to get the enterprise-wide insights 
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage supplier details](supp-ws-details-page.md)
 
@@ -58,17 +58,17 @@ You can view the Overall supplier dashboard to get the enterprise-wide insights 
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
 [Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
 [View Overall supplier dashboard](view-overall-supp-db.md)
 

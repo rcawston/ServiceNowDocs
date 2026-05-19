@@ -23,5 +23,5 @@ The following example illustrates a sample mobile experience that you can build 
 
 For more examples of mobile experiences that you can build, see [Native Mobile Examples](https://horizon.servicenow.com/native-mobile/basics/examples).
 
-**Parent Topic:**[Add a mobile experience](../task/add-mobile.md)
+**Parent Topic:**[Add a mobile experience](add-mobile.md)
 

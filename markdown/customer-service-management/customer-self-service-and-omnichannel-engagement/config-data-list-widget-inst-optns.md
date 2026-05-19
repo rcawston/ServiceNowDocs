@@ -140,13 +140,13 @@ Role required: sp\_admin
     ]
     ```
 
-    For more information, see [Portal Data List widget JSON parameters](../reference/portal-datalist-widget-data-json.md).
+    For more information, see [Portal Data List widget JSON parameters](../portal-datalist-widget-data-json.md).
 
     Each category in the widget displays a list of filtered records from a selected table. The default table is the Case \[sn\_customerservice\_case\] table. In a category, you can further filter the records and display them in tabs using the **pre\_defined\_filters** parameter. You can also configure the filter options displayed in the filter icon using the **run\_time\_filters** parameter.
 
 12. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Data List widget instance options form](../reference/r-port-data-list-inst-options.md).
+    For a description of the field values, see [Portal Data List widget instance options form](../r-port-data-list-inst-options.md).
 
 13. Select **Save**.
 

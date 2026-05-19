@@ -45,11 +45,11 @@ Role required: admin
 
     -   **System Messages**: Customize the default system messages displayed during Virtual Agent conversations.
 
-        For more information about changing or updating a system message, see [Change system messages](../../conversational-interfaces/task/ac-change-system-messages.md).
+        For more information about changing or updating a system message, see [Change system messages](../ac-change-system-messages.md).
 
     -   **Contextual Actions**: Customize the supported actions per user command inputs.
 
-        For more information about updating a contextual action, see [Contextual actions for custom chat integrations](../reference/contextual-actions.md#).
+        For more information about updating a contextual action, see [Contextual actions for custom chat integrations](contextual-actions.md#).
 
 
 ## What to do next
@@ -57,7 +57,7 @@ Role required: admin
 The Virtual Agent bot and Microsoft Teams tenant are now integrated for use on your ServiceNow instance. Your messaging users are automatically linked to their ServiceNow accounts.
 
 -   Notify your users that the Virtual Agent bot for Microsoft Teams is available for use.
--   To improve the live agent experience for your users, you can activate the display of the estimated wait time for live chat support. When a user asks to chat with a live agent, a card shows the approximate wait time to talk with an agent, and gives the user the option to cancel the chat. For details on activating this feature, see [Configure Agent Chat](../../conversational-interfaces/task/ac-configure-agent-chat.md).
+-   To improve the live agent experience for your users, you can activate the display of the estimated wait time for live chat support. When a user asks to chat with a live agent, a card shows the approximate wait time to talk with an agent, and gives the user the option to cancel the chat. For details on activating this feature, see [Configure Agent Chat](../agent-chat/ac-configure-agent-chat.md).
 
 -   **[Configure branding for your ServiceNow Virtual Agent bot in Microsoft Teams](configure-msteams-branding.md)**  
 Enable users to configure branding for the published Microsoft Teams bot app, the ServiceNow® Virtual Agent. Users are provided with the flexibility to customize the default ServiceNow branding for the Microsoft Teams production bot name and icon.
@@ -78,5 +78,5 @@ Set language preferences so that Virtual Agent is in the same language as the us
 -   **[Localize the bot messages](localize-bot-messg.md)**  
 Localize the bot messages to receive them in a language of your choice during your conversations with the bot.
 
-**Parent Topic:**[Conversational Integration with Microsoft Teams](../concept/teams-conv-integration.md)
+**Parent Topic:**[Conversational Integration with Microsoft Teams](teams-conv-integration.md)
 

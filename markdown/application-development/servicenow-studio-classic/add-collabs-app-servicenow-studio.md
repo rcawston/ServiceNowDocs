@@ -39,8 +39,8 @@ Role required: admin or delegated\_developer
 
     If you're an editor for the app, you can select only the editor descriptor.
 
-    -   For more information on collaboration descriptors, see [Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md).
-    -   For a list of all the collaboration permissions, see [Collaboration permissions for ServiceNow Studio](../reference/servicenow-studio-collab-permissions.md).
+    -   For more information on collaboration descriptors, see [Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md).
+    -   For a list of all the collaboration permissions, see [Collaboration permissions for ServiceNow Studio](servicenow-studio-collab-permissions.md).
 6.  Finish inviting the collaborator by selecting **Send**.
 
 
@@ -49,5 +49,5 @@ Role required: admin or delegated\_developer
 -   If the user has ServiceNow Studio or delegated developer permissions and is new to the ServiceNow AI Platform, they must be approved by an admin. After the request is approved, both the requester and the user receive an email indicating that the user has been added to the application.
 -   If the user has ServiceNow Studio or delegated developer permissions and is not new to the ServiceNow AI Platform, the collaboration request is auto-approved. Both the requester and the user receive an email indicating that the user has been added to the application.
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](manage-app-collab-servicenow-studio.md)
 

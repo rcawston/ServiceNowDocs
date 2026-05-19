@@ -17,7 +17,7 @@ The MonitorMIDServer script include provides methods to monitor MID Servers usin
 
 Use this script include in a server script to monitor MID Servers.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MonitorMIDServer - MonitorMIDServer\(\)
 

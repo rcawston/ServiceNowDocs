@@ -311,7 +311,7 @@ License metric result
 
 </td><td>
 
-License metric result of the software product that is populated after reconciliation. For more information on license metric results, see [Software reconciliation results](../concept/software-reconciliation-results.md).
+License metric result of the software product that is populated after reconciliation. For more information on license metric results, see [Software reconciliation results](software-reconciliation-results.md).
 
 </td><td>
 
@@ -327,7 +327,7 @@ Product result
 
 </td><td>
 
-Product result of the software product that is populated after reconciliation. For more information on product results, see [Software reconciliation results](../concept/software-reconciliation-results.md).
+Product result of the software product that is populated after reconciliation. For more information on product results, see [Software reconciliation results](software-reconciliation-results.md).
 
 </td><td>
 
@@ -343,7 +343,7 @@ Software model result
 
 </td><td>
 
-Software model result of the software product that is populated after reconciliation. For more information on software model results, see [Software reconciliation results](../concept/software-reconciliation-results.md).
+Software model result of the software product that is populated after reconciliation. For more information on software model results, see [Software reconciliation results](software-reconciliation-results.md).
 
 </td><td>
 

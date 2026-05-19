@@ -55,22 +55,22 @@ Revoke a consumer's access to replicated data if you believe that consumer insta
 -   **[Restore access to replication data for Instance Data Replication](restore-access.md)**  
 Restore Instance Data Replication \(IDR\) access to replicated data by sending a request to the producer replication set admin.
 
-**Parent Topic:**[Administering Instance Data Replication](../concept/administering-instance-data-replication.md)
+**Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md)
+[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 
-[Deploying a replication configuration from one instance to another in Instance Data Replication](../concept/copying-replication-configuration.md)
+[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
 
-[Cloning options with Instance Data Replication](../concept/cloning-with-instance-data-replicaton.md)
+[Cloning options with Instance Data Replication](cloning-with-instance-data-replicaton.md)
 
-[Monitoring replication status in Instance Data Replication](../concept/instance-data-replication-dashboard.md)
+[Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md)
 
-[Monitoring queues in Instance Data Replication](../concept/idr-queue-dashboard.md)
+[Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
 
-[Avoiding insert and update errors in Instance Data Replication](../concept/preventing-insert-update-errors.md)
+[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
 

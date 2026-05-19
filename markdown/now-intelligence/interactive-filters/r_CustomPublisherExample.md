@@ -19,7 +19,7 @@ As an administrator, you can create custom interactive filter widgets to provide
 
 This example details how to create a custom filter to filter reports on the Task table, or its child tables. The filter only shows records where the current user is the caller. The filter exposes two buttons to the user, one button to add the filter and one to remove the filter.
 
-**Parent Topic:**[Custom interactive filters](../concept/c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](c_CustomPublishers.md)
 
 **Related topics**  
 
@@ -30,7 +30,7 @@ This example details how to create a custom filter to filter reports on the Task
 
 [Jelly tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md)
 
-[DashboardMessageHandler](../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#)
+[DashboardMessageHandler](c_DashboardMessageHandler.md#)
 
 ## Create a custom interactive filter widget
 

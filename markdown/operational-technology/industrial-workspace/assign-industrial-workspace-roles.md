@@ -37,5 +37,5 @@ Users with the role that are listed in the following table can access the Guided
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring the Industrial Workspace](../concept/configuring-industrial-workspace.md)
+**Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)
 

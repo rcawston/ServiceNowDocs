@@ -24,7 +24,7 @@ The system organizes update set batches into a hierarchy. One update set can act
 
 When you preview or commit the base update set, you preview or commit the entire batch. The system decides which changes to process first and checks for any conflicts by looking at when each change was made and how they are connected in a sequence. This sequence, or ancestry, refers to the specific moments when each change in the update sets occurred.
 
-**Note:** For more details, see [Compare local update sets](../../task/t_CompareLocalUpdateSets.md) and [View customizations and compare with current version](../../task/view-customer-update-records.md).
+**Note:** For more details, see [Compare local update sets](t_CompareLocalUpdateSets.md) and [View customizations and compare with current version](view-customer-update-records.md).
 
 ## Example of batched update sets
 
@@ -34,8 +34,8 @@ The list of update set records reflects the batch hierarchy in the **Parent** an
 
 ![Diagram of batched update set hierarchy.](../../image/update-sets-batch-1.png "Diagram of batched update set hierarchy")
 
--   **[Reorganize a batch of update sets](../task/us-hier-reorg.md)**  
+-   **[Reorganize a batch of update sets](us-hier-reorg.md)**  
 You can remove an individual update set from the batch or change its parent.
 
-**Parent Topic:**[System update sets](../../concept/system-update-sets.md)
+**Parent Topic:**[System update sets](system-update-sets.md)
 

@@ -48,16 +48,16 @@ You can't add service locations to a stockroom that is excluded from providing l
 
 The selected locations are added to the list shown in the **Service locations** tab.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 
 **Related topics**  
 
 
-[Source requests from local stockrooms](../../procurement/task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](../procurement/consume-local-asset-stock.md)
 
 [Request a loaner asset](loaner-asset-request.md)
 
-[Create a transfer order from a request](../../procurement/task/t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](../procurement/t_CreatingTransferOrderFromReq.md)
 
-[Asset life-cycle automation](../concept/asset-lifecycle-automation.md)
+[Asset life-cycle automation](asset-lifecycle-automation.md)
 

@@ -38,5 +38,5 @@ The Knowledge Document plugin depends on the Managed Documents plugin. Activatin
 |KnowledgeDocument|Holds the main logic for the Knowledge Document plugin.|
 |KnowledgeDocumentDB|Class that gets, inserts, and updates data for the Knowledge Document plugin.|
 
-**Parent Topic:**[Knowledge Document plugin](../concept/c_KnowledgeDocument.md)
+**Parent Topic:**[Knowledge Document plugin](c_KnowledgeDocument.md)
 

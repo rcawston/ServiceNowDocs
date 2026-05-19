@@ -36,20 +36,20 @@ Role required: none
 5.  In the **Actions on selected rows** drop-down menu, select **Download Document**.
 
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
 [Create a document record](create-new-doc.md)
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](document-mgt-versions.md)
 
 [Share a document link](share-document-link.md)
 
 [Modify a shared link access](modify-access-shared-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](document-configuration.md)
 
 [Delete a document link](delete-document-link.md)
 

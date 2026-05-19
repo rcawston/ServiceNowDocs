@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_user
 4.  Select **Demands**.
 
 
-**Parent Topic:**[Manage demands](../../concept/eaw-concept/eaw-manage-demands.md)
+**Parent Topic:**[Manage demands](eaw-manage-demands.md)
 
 **Related topics**  
 

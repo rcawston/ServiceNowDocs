@@ -28,7 +28,7 @@ The Order Acknowledgment \[sn\_spend\_intg\_imp\_purchase\_order\_ack\] staging 
 |Supplier id|String|Unique identifier for the supplier.|
 |Third party import ID|String|Unique identifier for external data imports.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

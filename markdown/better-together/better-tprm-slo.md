@@ -216,5 +216,5 @@ Get started with Risk Assessments Integration for Supplier Lifecycle Operations 
 11. The supplier manager closes the due diligence request \(case\).
 12. As a supplier manager, you can use the risk assessment result data in combination with any other data to determine whether to continue or cancel the onboarding process.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

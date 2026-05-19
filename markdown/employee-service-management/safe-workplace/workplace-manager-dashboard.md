@@ -71,5 +71,5 @@ sn\_wsd\_core.workplace\_manager
 
 **Parent Topic:**[Workplace dashboards](../concept/workplace-dashboards.md)
 
-**Parent Topic:**[Manage Workplace Dashboards](../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
+**Parent Topic:**[Manage Workplace Dashboards](../workplace-central/workplace-dashboards-wsd-central.md)
 

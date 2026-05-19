@@ -59,7 +59,7 @@ A Journey type is a category used to identify the intention of the journey, such
 
 </td><td>
 
-Select a lifecycle event for the Journey configuration. Lifecycle Events are created and managed from the **Manage Lifecycle Event** form. Go to **All** &gt; **Lifecycle Events** &gt; **Manage Lifecycle Event** to add or manage lifecycle events. See, [Lifecycle Events](../concept/hr-lifecycle-events-landing-page-1.md).
+Select a lifecycle event for the Journey configuration. Lifecycle Events are created and managed from the **Manage Lifecycle Event** form. Go to **All** &gt; **Lifecycle Events** &gt; **Manage Lifecycle Event** to add or manage lifecycle events. See, [Lifecycle Events](../employee-service-management/hr-lifecycle-events-landing-page-1.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Option to enable a change in manager. Selecting this option will update the jour
 
 </td><td>
 
-The image that appears at the top of the Journey when viewed in the mobile app. See, [Journeys on Now Mobile](../concept/journeys-mobile-now.md).
+The image that appears at the top of the Journey when viewed in the mobile app. See, [Journeys on Now Mobile](journeys-mobile-now.md).
 
 </td></tr><tr><td>
 

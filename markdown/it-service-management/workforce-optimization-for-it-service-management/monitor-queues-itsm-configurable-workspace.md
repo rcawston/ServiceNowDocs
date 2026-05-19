@@ -37,5 +37,5 @@ The work item views display the list of pending and queued work items from all c
     -   Take or change work item ownership.
     -   Review agent performance.
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

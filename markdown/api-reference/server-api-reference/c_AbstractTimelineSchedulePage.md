@@ -38,7 +38,7 @@ A script include class that extends AbstractTimelineSchedulePage automatically r
 
 This is useful if you need to display a schedule page from a dynamic element, such as from a context menu from a list. By passing in dynamic data via the URL the schedule page auto-includes these parameters inside the Ajax calls and therefore will be accessible inside the AbstractTimelineSchedulePage script include.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AbstractTimelineSchedulePage - add\(Object ObjTimeline\)
 

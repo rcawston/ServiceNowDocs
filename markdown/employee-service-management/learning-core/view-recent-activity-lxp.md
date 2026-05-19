@@ -35,15 +35,15 @@ Role required: learning.user
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](resume-course.md)
 
 [Create a personal course collection](create-personal-collection.md)
 
 [Create a Learning challenge](learning-challenge.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](assign-learning-lxp.md)
 
 [Manage Learning](manage-learning-achievements.md)
 

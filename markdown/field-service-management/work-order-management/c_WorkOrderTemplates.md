@@ -17,7 +17,7 @@ Work order templates allow you to quickly create well-defined work orders.
 
 These templates automatically create tasks and part requirements on work orders for common activities, such as password reset or memory upgrades. Work order templates and work order task templates are added to the product catalog when the Field Service Management plugin is activated.
 
-You can enable the advanced configurations for work order templates by activating the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\). Activation of this plugin adds the source table mapping, attribute mapping, work order task templates, and work order templates to the product catalog that helps configure the template to work dynamically. For more information, see [Configuring Template Management for Field Service](../../field-service-management/concept/enabling-advanced-configurations-for-wo-template.md).
+You can enable the advanced configurations for work order templates by activating the Template Management for Field Service plugin \(com.snc.fsm\_template\_management\). Activation of this plugin adds the source table mapping, attribute mapping, work order task templates, and work order templates to the product catalog that helps configure the template to work dynamically. For more information, see [Configuring Template Management for Field Service](enabling-advanced-configurations-for-wo-template.md).
 
 Users with the wm\_admin or model\_manager role can create, edit, and delete work order templates and work order task templates.
 
@@ -32,15 +32,15 @@ When you create a template, you can use knowledge articles for a work order or w
 
 The steps for setting up work order templates are:
 
-1.  [Create a work order template](../task/t_CreateAWorkOrderTemplate.md)
+1.  [Create a work order template](t_CreateAWorkOrderTemplate.md)
 
     Use work order templates populate work orders with repeatable information. For example, templates can populate an Assignment group, during the template creation process. This ensures consistent information is included across all related records.
 
-2.  \(Optional\) [Create a knowledge article for a work order template](../task/t_CreateAKnowledgeArticle.md)
+2.  \(Optional\) [Create a knowledge article for a work order template](t_CreateAKnowledgeArticle.md)
 
     Help Field Service technicians stay consistent when completing the same types of work orders. For example, a knowledge article can be installation guides, maintenance procedures, or checklists.
 
-3.  \(Optional\) [Manage a work order SLA](../../planning-and-policy/task/t_ManageAWorkOrderSLA.md)
+3.  \(Optional\) [Manage a work order SLA](t_ManageAWorkOrderSLA.md)
 
     Use work order SLAs help ensure SLAs are met in time. Work order SLAs can be viewed or managed from the work order or work order task form so they're easy to access.
 
@@ -48,11 +48,11 @@ The steps for setting up work order templates are:
 **Related topics**  
 
 
-[Prepare work orders](../../field-service-management/concept/preparing-work-orders.md)
+[Prepare work orders](preparing-work-orders.md)
 
-[Manage work order tasks](../../planning-and-policy/concept/c_WorkOrderTasks.md)
+[Manage work order tasks](c_WorkOrderTasks.md)
 
-[Apply a work order template](../task/t_UseTheWorkOrderTemplate.md)
+[Apply a work order template](t_UseTheWorkOrderTemplate.md)
 
-[Assign a knowledge article to a work order or work order task](../../field-service-management/task/add-knowledge-workorder.md)
+[Assign a knowledge article to a work order or work order task](add-knowledge-workorder.md)
 

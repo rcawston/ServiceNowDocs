@@ -40,5 +40,5 @@ Role required: admin
     When a selected task does not have any task SLA attached to it, the SLA timeline still displays the update to the task when the Show all Task updates check box is selected. This information can be used for debugging the task SLA.
 
 
-**Parent Topic:**[Monitoring Service Level Agreement \(SLA\)](../concept/c_SLAForTheEndUser.md)
+**Parent Topic:**[Monitoring Service Level Agreement \(SLA\)](c_SLAForTheEndUser.md)
 

@@ -77,5 +77,5 @@ Applications in this category have a blue background.border-color: blue; backgro
 </table>3.  To add an application to a category, add it in the related list of applications at the bottom of the category record, or specify the category on the application record.
 
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](customizing-instance-appearance.md)
 

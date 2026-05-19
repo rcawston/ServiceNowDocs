@@ -40,7 +40,7 @@ Role required: sn\_wsd\_case.manager
     -   Go to the **All active cases** section.
 4.  Select the case to which you want to add a child case/task.
 
-    The case details are displayed in a separate tab. For more information about the view, the actions that you can perform and additional features, refer to the **Case details page** section in the [Case Management - Key features, Actions &amp; Case details](../reference/case-management-key-features-actions-case-details.md) topic.
+    The case details are displayed in a separate tab. For more information about the view, the actions that you can perform and additional features, refer to the **Case details page** section in the [Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md) topic.
 
 5.  To create a child case, do the following:
 
@@ -105,7 +105,7 @@ Role required: sn\_wsd\_case.manager
 7.  After adding the child case/child task, select **Save** to save the changes.
 
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -118,7 +118,7 @@ Role required: sn\_wsd\_case.manager
 
 [Print a workplace case](print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 
 [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 

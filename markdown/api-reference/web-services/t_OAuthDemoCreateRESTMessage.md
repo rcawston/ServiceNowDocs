@@ -58,9 +58,9 @@ You must have configured an OAuth provider and profile using the Google API info
     The test result should display an **HTTP Status** of 200, and the result of the contacts API call.
 
 
-**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)
+**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](c_OAuth2ProfileTutorialGoogle.md)
 
 **Previous topic:**[OAuth 2.0 tutorial - create an OAuth provider and profile](t_OAuthDemoCreateProvider.md)
 
-**Next topic:**[Outbound REST mutual authentication](../concept/c_OutboundRESTMutualAuthentication.md)
+**Next topic:**[Outbound REST mutual authentication](c_OutboundRESTMutualAuthentication.md)
 

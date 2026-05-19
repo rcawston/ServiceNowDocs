@@ -162,7 +162,7 @@ String
 Type of the receipt based on the product type. For example, Goods Receipt or Services Receipt.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+</table>**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

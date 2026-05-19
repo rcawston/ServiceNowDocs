@@ -38,12 +38,12 @@ Role required: sn\_apm.apm\_admin
 7.  Select **OK**.
 
 
-**Parent Topic:**[Configure indicators](../../concept/eaw-concept/eaw-setup-indicators.md)
+**Parent Topic:**[Configure indicators](eaw-setup-indicators.md)
 
 **Related topics**  
 
 
-[Manage indicators](../../concept/eaw-concept/eaw-configure-indicators.md)
+[Manage indicators](eaw-configure-indicators.md)
 
 [Add or edit an application indicator](eaw-create-indicator.md)
 

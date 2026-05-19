@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The Discovery and Service Mapping Patterns application uses the Linux Server pattern extension **Discover Nvidia GPU** to find NVIDIA graphics processing units \(GPUs\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-The Discover Nvidia GPU pattern is an extension of the Linux Server pattern. For more information, see [Linux discovery](../../discovery/reference/r_DataCollDiscoLinuxComputers.md).
+The Discover Nvidia GPU pattern is an extension of the Linux Server pattern. For more information, see [Linux discovery](../itom-visibility/r_DataCollDiscoLinuxComputers.md).
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -36,7 +36,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Schedule a horizontal discovery**
 
-    For more information, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    For more information, see [Schedule a horizontal discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -84,5 +84,5 @@ Discovery creates these relationships to support the NVIDIA GPU discovery.
 |---|------------|---|
 |Graphics Processing Unit \[cmdb\_ci\_gpu\]|Used by::Uses|Linux Server \[cmdb\_ci\_linux\_server\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

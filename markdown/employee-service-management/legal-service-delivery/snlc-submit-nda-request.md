@@ -176,7 +176,7 @@ The default signature type is Electronic Signature.
     -   Replacing the metadata with data from the request.
     -   Replacing the signatory information.
     -   Placing the content of the clauses in the contract document according to the clause variation rules.
--   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md).
+-   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../contract-management-pro/cncore-define-internal-signers-rule.md).
 
     **Note:**
 
@@ -187,5 +187,5 @@ The default signature type is Electronic Signature.
 
 For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](snlc-view-legal-req-details.md).
 
-**Parent Topic:**[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+**Parent Topic:**[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 

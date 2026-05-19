@@ -98,5 +98,5 @@ Explains what the specified command does.
 </table>2.  Restart the agent for the configuration settings to be entered into the `acc.yml` file.
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](acc-configuring-with-mid.md)
 

@@ -83,5 +83,5 @@ If necessary, you can create a case from an interaction record. The system uses 
 
 The system displays the Now Assist icon \(![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) next to these fields and removes the icon if the agent changes the fields and saves the record.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 

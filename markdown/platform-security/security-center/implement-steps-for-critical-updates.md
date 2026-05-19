@@ -50,5 +50,5 @@ Customer Actions provides you step by step instructions for how to implement the
     The Customer Action should appear in the **Complete** tab.
 
 
-**Parent Topic:**[Customer Actions](../concept/critical-updates.md)
+**Parent Topic:**[Customer Actions](critical-updates.md)
 

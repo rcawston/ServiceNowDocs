@@ -40,5 +40,5 @@ Role required: sn\_doc\_processor.admin
 
 [Create document list item definitions for a document list definition](doc-processor-associate-document-list-items-to-category.md)
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](configuring-fso-document-processor.md)
 

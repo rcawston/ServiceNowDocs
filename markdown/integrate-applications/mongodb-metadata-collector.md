@@ -113,9 +113,9 @@ MongoDB Search Index
 MongoDB Collection
 
 </td></tr></tbody>
-</table>-   **[Prepare to run the MongoDB collector](../task/prepare-to-run-mongodb-collector.md)**  
+</table>-   **[Prepare to run the MongoDB collector](prepare-to-run-mongodb-collector.md)**  
 Create a MongoDB user and configure authentication before running the collector.
--   **[Create a MongoDB metadata collector](../task/create-mongodb-metadata-collector.md)**  
+-   **[Create a MongoDB metadata collector](create-mongodb-metadata-collector.md)**  
 Create a collector to import metadata from MongoDB.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

@@ -25,9 +25,9 @@ To enable the Chat to Call functionality you must install the Workspace Agent ch
 
 -   [Set up Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md)
 -   [Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md)
--   [Notify connector for Microsoft Teams](../../notify2/concept/notify-connector-ms-teams.md)
+-   [Notify connector for Microsoft Teams](notify-connector-ms-teams.md)
 
-For more information on the workflow for chat to call flow, refer [Promote chat to a call from workspace](../task/initiate-call-from-chat.md).
+For more information on the workflow for chat to call flow, refer [Promote chat to a call from workspace](initiate-call-from-chat.md).
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)
 

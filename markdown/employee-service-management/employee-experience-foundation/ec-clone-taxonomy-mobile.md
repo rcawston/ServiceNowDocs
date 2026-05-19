@@ -44,5 +44,5 @@ Role required: admin
 10. Click **Update**.
 
 
-**Parent Topic:**[Configuring Employee Center for mobile](../concept/ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](ec-mobile-configrations.md)
 

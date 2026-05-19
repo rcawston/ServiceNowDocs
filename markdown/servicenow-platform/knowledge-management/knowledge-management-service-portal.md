@@ -17,7 +17,7 @@ The Knowledge Management Service Portal enables users to perform the same operat
 
 -   For new customers on the Madrid and later releases, the Knowledge Management Service Portal plugin \(com.snc.knowledge\_serviceportal\) is active by default.
 -   For existing customers on release versions prior to Madrid, activate the plugin, if required.
--   Configure the [Knowledge Management Service Portal properties](../reference/knowledge-service-portal-properties.md), including the property that directs users to the Knowledge Management homepage in the Knowledge Management Service Portal.
+-   Configure the [Knowledge Management Service Portal properties](knowledge-service-portal-properties.md), including the property that directs users to the Knowledge Management homepage in the Knowledge Management Service Portal.
 
 -   Navigate to **Service Portal** &gt; **Portals** and click **Knowledge Portal** \(Knowledge Management Service Portal is named as Knowledge Portal\). See [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) for more information about creating a custom interface.
 -   System administrators can configure portal pages and configure widgets for searching, sorting, and filtering knowledge base information. To configure widget instance options and configure search, sort, and filter features, see [Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
@@ -39,17 +39,17 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 Users can view and interact with the Knowledge Management article view page in the Knowledge Management Service Portal using Section 508 compliance features. See [Enabling accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md) for more information.
 
--   **[Enable external or public users to view knowledge articles from the Knowledge Management Service Portal](../task/make-knowledge-visible-to-public.md)**  
+-   **[Enable external or public users to view knowledge articles from the Knowledge Management Service Portal](make-knowledge-visible-to-public.md)**  
 Enable knowledge articles on the Knowledge Management Service Portal to be visible to external or public users.
 -   **[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)**  
 The Knowledge Management Service Portal uses a number of widgets to enable searches, display search results, and display articles, related articles, and related items.
--   **[Search using the Knowledge Management Service Portal](../reference/knowledge-service-portal-searching.md)**  
+-   **[Search using the Knowledge Management Service Portal](knowledge-service-portal-searching.md)**  
 Enter one or more words in the search bar on the Knowledge Management Service Portal homepage to view all search results.
 -   **[Integrating Knowledge Management features with the Service Portal](conf-service-portal-know-management.md#)**  
 To create a consistent user experience for Knowledge Management, integrate Knowledge Management Service Portal in your end-user facing Service Portal.
--   **[Configure custom SEO tags for canonical URLs and localized knowledge articles](../task/configure-seo-knowledge.md)**  
+-   **[Configure custom SEO tags for canonical URLs and localized knowledge articles](configure-seo-knowledge.md)**  
 Discover relevant knowledge articles through search engines by adding custom SEO tags for canonical URLs and **hreflang** tags to the knowledge article view page.
--   **[Enable and configure AI Search for Knowledge Management Service Portal](../task/enable-and-configure-ai-search-for-km-service-portal.md)**  
+-   **[Enable and configure AI Search for Knowledge Management Service Portal](enable-and-configure-ai-search-for-km-service-portal.md)**  
 Enable and define the AI Search experience in Knowledge Management Service Portal.
 
 **Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
@@ -59,7 +59,7 @@ Enable and define the AI Search experience in Knowledge Management Service Porta
 
 [Knowledge Management FAQ](https://community.servicenow.com/community?id=community_article&sys_id=637ffc92db519490d82ffb24399619f3)
 
-[Import a Word document to a knowledge base](../task/import-word-platform.md)
+[Import a Word document to a knowledge base](import-word-platform.md)
 
-[Import a Word document to a knowledge base using Knowledge Management v3](../task/t_ImportADocument.md)
+[Import a Word document to a knowledge base using Knowledge Management v3](t_ImportADocument.md)
 

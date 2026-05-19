@@ -75,10 +75,10 @@ Role required: sn\_sec\_tisc.admin
 
 Refer to the following sections for guidance on external intelligence sharing using both the GUI and automated procedures.
 
--   [Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md)
+-   [Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md)
 -   [Automated sharing of high-risk IOC's with trusted partners](tisc-automated-sharing-flow.md)[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

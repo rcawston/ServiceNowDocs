@@ -60,7 +60,7 @@ IIS
 </td></tr></tbody>
 </table>\*Probes inactive on new instances.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected by Discovery for IIS Web Server
 
@@ -83,5 +83,5 @@ The following data is collected in the Web site \[cmdb\_ci\_web\_site\] table:
 |Name|name|wmi|
 |TCP Port|tcp\_port|wmi|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

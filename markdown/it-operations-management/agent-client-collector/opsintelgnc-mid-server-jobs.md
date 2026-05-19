@@ -32,5 +32,5 @@ Validate MID distributed cluster
 Validates status of the cluster node for each MID Server in the cluster. For a MID Server that is down and its status is not stopped, updates the node status to stopped.Also, validates overall status of the cluster. During this validation, the job stops the cluster if there are multiple sub-clusters in a single cluster.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring reference](../../agent-client-collector/reference/acc-monitoring-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)
 

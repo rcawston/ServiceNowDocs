@@ -32,10 +32,10 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 2.  Enter the class of CI to create and then continue by answering the Now Assist questions.
 
 
-**Parent Topic:**[Getting advice from Now Assist on CMDB governance](../concept/na-cmdb-awf-governance.md)
+**Parent Topic:**[Getting advice from Now Assist on CMDB governance](na-cmdb-awf-governance.md)
 
 **Related topics**  
 
 
-[Property settings for Now Assist for CMDB](../reference/na-data-fdn-properties.md)
+[Property settings for Now Assist for CMDB](na-data-fdn-properties.md)
 

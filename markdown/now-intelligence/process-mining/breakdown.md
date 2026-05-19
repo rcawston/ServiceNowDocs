@@ -68,5 +68,5 @@ This is an optional task.
     If you want to add or edit anything in the **Scope your analysis** page, select **Previous**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](scope-analysis.md)
 

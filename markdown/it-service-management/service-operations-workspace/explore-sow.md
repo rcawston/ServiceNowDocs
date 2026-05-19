@@ -21,7 +21,7 @@ Service Operations Workspace for ITSM is a configurable workspace that provides 
 
 ## Accessing Service Operations Workspace for ITSM
 
-For information about accessing Service Operations Workspace for ITSM, see [Access Service Operations Workspace for ITSM](../task/access-sow-itsm.md).
+For information about accessing Service Operations Workspace for ITSM, see [Access Service Operations Workspace for ITSM](access-sow-itsm.md).
 
 ## Service Operations Workspace for ITSM users
 
@@ -98,7 +98,7 @@ For information about key features in Service Operations Workspace for ITOM, see
 
 ## Using guided tours to learn about Service Operations Workspace for ITSM
 
-Use a guided tour that is sequence of interactive steps to guide an agent through a specific process or task within Service Operations Workspace for ITSM. To access guided tours, select the Show help icon in the navigation bar and scroll down to find the **Take a Tour** or **Select a Tour** option. For more information about playing a guided tour, see [Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md).
+Use a guided tour that is sequence of interactive steps to guide an agent through a specific process or task within Service Operations Workspace for ITSM. To access guided tours, select the Show help icon in the navigation bar and scroll down to find the **Take a Tour** or **Select a Tour** option. For more information about playing a guided tour, see [Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md).
 
 **Important:**
 
@@ -118,7 +118,7 @@ To learn more about configuring and using Service Operations Workspace for ITSM,
 -   [Managing IT services in your organization](managing-services-operations-in-organization.md)
 -   [Optimizing IT services in your organization](optimizing-services-operations-in-organization.md)
 
--   **[Access Service Operations Workspace for ITSM](../task/access-sow-itsm.md)**  
+-   **[Access Service Operations Workspace for ITSM](access-sow-itsm.md)**  
 Experience a unified and seamless experience when managing the life cycle of task records such as incidents and requests.
 -   **[Service Operations Workspace for ITSM user interface](service-operations-workspace-ui.md)**  
 You can navigate through the Service Operations Workspace to get an overview of how an agent can prioritize tasks and provide resolution.
@@ -126,7 +126,7 @@ You can navigate through the Service Operations Workspace to get an overview of 
 An agent can get quick visibility into the work assigned, view announcements, and view upcoming tasks.
 -   **[Exploring Recommended Actions for ITSM in Service Operations Workspace](exploring-recommended-actions-for-itsm-in-service-operations-workspace.md)**  
 Recommended Actions for ITSM lets you set up and apply real-time actionable recommendations for speeding up the triaging process. You can resolve issues quickly across various records in the Service Operations Workspace, including Incident, Incident task, Problem, Problem task, Change request, Change task, Interaction, and Request.
--   **[Exploring On-call Scheduling in Service Operations Workspace](../task/on-call-scheduling-in-service-operations-workspace.md)**  
+-   **[Exploring On-call Scheduling in Service Operations Workspace](on-call-scheduling-in-service-operations-workspace.md)**  
 On-Call Scheduling ensures that dedicated support team members are always available to resolve issues as they arise. You can set up on-call schedules, roster rotations, and escalation policies, escalate notifications for a group, and determine the current contact for an escalation.
 
 **Parent Topic:**[Service Operations Workspace for ITSM](sow-landing-page.md)

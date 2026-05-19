@@ -22,7 +22,7 @@ Role required: sn\_grc\_sharegenai.risk\_suggestion\_aiagent\_user
 Make sure that the following prerequisites are met to use this feature:
 
 -   Now Assist for IRM and any Workspace must be installed.
--   Suggest potential risks workflow and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-agentic-workflows.md).
+-   Suggest potential risks workflow and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](activate-agentic-workflows.md).
 
 ## Procedure
 

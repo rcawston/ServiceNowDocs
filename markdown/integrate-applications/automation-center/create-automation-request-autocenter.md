@@ -37,7 +37,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 6.  Select **Save**.
 
-    **Note:** If you have the sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin roles, you can view the Recommendations contextual panel. For more information, see [Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md).
+    **Note:** If you have the sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin roles, you can view the Recommendations contextual panel. For more information, see [Configuring the Recommended Actions application with Automation Center](config-ra.md).
 
 
 ## What to do next
@@ -49,7 +49,7 @@ Move the automation request to the planned state. For more information, see [Mov
 **Related topics**  
 
 
-[Automation request form from Automation Center](../reference/automation-request-autocenter-form.md)
+[Automation request form from Automation Center](automation-request-autocenter-form.md)
 
 [Submit an automation request from Service Catalog](create-automation-request-service-catalog.md)
 

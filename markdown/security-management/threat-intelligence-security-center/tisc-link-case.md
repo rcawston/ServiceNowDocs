@@ -126,7 +126,7 @@ The analyst who is responsible for working on a case.
     For more information on how to directly link an existing case to the investigation canvas, see [Linking an existing case from Investigation Canvas](tisc-link-existing-case-canvas.md).
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 **Related topics**  
 

@@ -17,10 +17,10 @@ Install and configure the Data Collection Content Pack for CSM.
 
 Perform the steps in the following order:
 
-1.  [Install the Data Collection Pack for CSM](../task/dc-csm-install.md)
-2.  [Configure Data Collection for CSM](../task/dc-csm-config.md)
-3.  [Activate Data Collection for CSM](../task/dc-csm-activate.md)
-4.  [Review CSM artifacts](../reference/dc-csm-install-artifacts.md)
+1.  [Install the Data Collection Pack for CSM](dc-csm-install.md)
+2.  [Configure Data Collection for CSM](dc-csm-config.md)
+3.  [Activate Data Collection for CSM](dc-csm-activate.md)
+4.  [Review CSM artifacts](dc-csm-install-artifacts.md)
 
 You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](dc-all-modify.md) and [Upgrading the Data Collection Content Pack](dc-all-upgrade.md).
 

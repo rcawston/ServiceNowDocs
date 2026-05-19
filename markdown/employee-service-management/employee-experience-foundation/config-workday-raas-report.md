@@ -71,5 +71,5 @@ Interval in which you want to pull data, for example, in terms of days or months
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Approvals hub integration with Workday](../concept/wd-ec-integration.md)
+**Parent Topic:**[Approvals hub integration with Workday](wd-ec-integration.md)
 

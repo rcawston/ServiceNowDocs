@@ -23,12 +23,12 @@ Use the Create New Pipeline Project form to provide details about the pipe proje
 View project financial details, add existing procurement objects to pipeline projects, or create new procurement objects from the Pipeline project record form.
 -   **[Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)**  
 Purchase requisitions, purchase orders, and sourcing requests move through a series of states as they progress through the procurement lifecycle. Each state reflects the current stage of processing and determines what actions are available.
--   **[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)**  
+-   **[SPO and ITAM data model mappings](itam-spo-data-model.md)**  
 Describes the data model and state synchronization between SPO and ITAM for purchase orders, purchase requisitions,sourcing requests, shipments, and receipts.
--   **[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)**  
+-   **[Domain separation and Sourcing and Procurement Operations](psm-domain-separation.md)**  
  Domain separation is unsupported for Sourcing and Procurement Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)**  
+-   **[Sourcing and Procurement Operations glossary](spo-glossary.md#)**  
 Learn about the terms and concepts used in Sourcing and Procurement Operations \(SPO\).
 
-**Parent Topic:**[Sourcing and Procurement Operations](../concept/psm-overview.md)
+**Parent Topic:**[Sourcing and Procurement Operations](psm-overview.md)
 

@@ -69,13 +69,13 @@ Template
 Specifies the existing object structure to apply to this object.
 
 </td></tr></tbody>
-</table>**Note:** For more information on using complex object variables, see [Complex data](../concept/complex-data.md).
+</table>**Note:** For more information on using complex object variables, see [Complex data](complex-data.md).
 
 ## Create a list of contacts from a list of users
 
 ![Execution details of a custom action that generates a list of contacts from users in a department.](../images/array-objects-execution-details-contacts-array.png)
 
-This example uses a custom action to generate a list of contacts details from users in a specific department. To create the custom action to generate an array of objects, see [Create a custom action to generate an array of objects from a list of records](../task/create-custom-action-array-objects.md).
+This example uses a custom action to generate a list of contacts details from users in a specific department. To create the custom action to generate an array of objects, see [Create a custom action to generate an array of objects from a list of records](create-custom-action-array-objects.md).
 
 In this example, the contacts array contains three users from the Development department.
 

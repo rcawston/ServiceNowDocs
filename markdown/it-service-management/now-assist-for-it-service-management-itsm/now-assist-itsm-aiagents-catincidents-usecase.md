@@ -26,7 +26,7 @@ To modify the Triage and categorize ITSM incidents agentic workflow, [duplicate 
 
 **Important:** When you modify an agentic workflow, AI agent, or a tool, make sure that you update all instructions accordingly.
 
-**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../../incident-management/task/activate-major-incident-management-plugin.md).
+**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../incident-management/activate-major-incident-management-plugin.md).
 
 ## Triage and categorize ITSM incidents agentic workflow
 
@@ -129,7 +129,7 @@ Link major incident or problem AI agent
 
 </td><td>
 
-**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../../incident-management/task/activate-major-incident-management-plugin.md).
+**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../incident-management/activate-major-incident-management-plugin.md).
 
  -   If this AI agent identifies a related, most similar major incident, it automatically links it to the current incident and ends the workflow.
 -   If the Major incident linker AI agent doesn't find a related major incident, then the Incident problem linker AI agent takes over. If it identifies any ongoing problem that best matches the incident, then it automatically links it to the incident.
@@ -153,7 +153,7 @@ In the agentic workflow record:
 
 **Example of Triage and categorize ITSM incidents agentic workflow output in the ServiceNow AI Agent Studio**![Triage and categorize ITSM incidents agentic workflow output.](../image/now-assist-itsm-aiagents-inc-triage-classify.png)
 
-In the AI Agent Studio, the human agent gets notified as soon as the category recommendation is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as the category recommendation is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
 ## Automate the categorizing an incident, then automatically link them to major incidents or known problems in the Now Assist panel
 

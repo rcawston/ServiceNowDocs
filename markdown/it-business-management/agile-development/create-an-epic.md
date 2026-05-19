@@ -31,7 +31,7 @@ Create epics in Agile Development 2.0 and organize them in a hierarchy of parent
 
     Alternatively, you can open the new epic form using the Agile board, from a theme record, or from a product record.
 
-    You can also convert an existing active story into an epic. For details, see [Related links and lists for a Story in Agile Development 2.0](../reference/agile-2-0-story-related-lists-related-links.md).
+    You can also convert an existing active story into an epic. For details, see [Related links and lists for a Story in Agile Development 2.0](agile-2-0-story-related-lists-related-links.md).
 
 3.  On the form, fill in the fields.
 
@@ -211,5 +211,5 @@ Associate monetary and non-monetary benefit plans, so that you can capture the p
 -   **[Generate labor costs for epics](gen-labor-costs-epics.md)**  
 View the labor cost expenses based on the resource assignments for your epics.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](using-agile-development-2-0.md)
 

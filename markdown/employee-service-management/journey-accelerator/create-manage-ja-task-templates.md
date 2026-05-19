@@ -29,7 +29,7 @@ Journey Accelerator task templates appear as to-do lists in the Employee Center 
 
 2.  Create a template or modify an existing template.
 
-    For information about the template fields, see [Journey Accelerator task template fields](../reference/journey-accelerator-task-template.md).
+    For information about the template fields, see [Journey Accelerator task template fields](journey-accelerator-task-template.md).
 
 3.  Click **Submit** or **Update**.
 

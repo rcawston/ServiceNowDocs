@@ -63,5 +63,5 @@ When you log out of the ServiceNow® instance, the message **Disconnected** appe
 
 After installing the browser extension, configure websites that AI agents can access for automating web tasks. For detailed instructions, see [Configure allowed websites for adaptive desktop actions](na-ai-wa-configure-allowed-websites.md).
 
-**Parent Topic:**[Configuration for adaptive path desktop actions](../concept/ad-adaptive-path-da.md)
+**Parent Topic:**[Configuration for adaptive path desktop actions](ad-adaptive-path-da.md)
 

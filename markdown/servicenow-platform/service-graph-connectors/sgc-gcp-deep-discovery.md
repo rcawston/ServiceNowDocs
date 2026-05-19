@@ -69,5 +69,5 @@ Using the deep discovery information, Application Dependency Mapping \(ADM\) cre
 **Related topics**  
 
 
-[Service Graph Connector for GCP properties](../reference/cmdb-sgc-gcp-props.md)
+[Service Graph Connector for GCP properties](cmdb-sgc-gcp-props.md)
 

@@ -32,5 +32,5 @@ Role required: sam\_admin or sam\_user
     You can also view detailed information about each host or VM, including the hardware model, the hardware serial number, and the corresponding configuration item \(CI\) in the Configuration Management Database \(CMDB\).
 
 
-**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](../concept/integrating-ilmt-bigfix-v2-apis.md)
+**Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](integrating-ilmt-bigfix-v2-apis.md)
 

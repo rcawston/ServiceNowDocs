@@ -78,15 +78,15 @@ Do this
 1.  [Assign roles for Benchmarks users](assign-user-roles.md)
 2.  [Configure KPI participation](t_EnableABenchKPI.md)
 
-    For information about the Benchmarks KPIs available for each category, see [Benchmark KPIs](../concept/c_BenchKPIConfig.md).
+    For information about the Benchmarks KPIs available for each category, see [Benchmark KPIs](c_BenchKPIConfig.md).
 
 
--   **[Getting started with the ITSM Success Dashboard admin console](../concept/c_gettingstartedadminconsole.md)**  
+-   **[Getting started with the ITSM Success Dashboard admin console](c_gettingstartedadminconsole.md)**  
 With the new ITSM Success Dashboard admin console, you can access the Benchmarks application.
 -   **[Assign roles for Benchmarks users](assign-user-roles.md)**  
 Assign roles for Benchmarks users based on their access requirements.
 -   **[Opt out of Benchmarks](t_OptOutBench.md)**  
 You can opt out of Benchmarks at any time. If you opt out, your company usage data is no longer included in the Benchmarks data set, and you no longer see aggregate metrics.
 
-**Parent Topic:**[Benchmarks](../reference/r_Benchmarks.md)
+**Parent Topic:**[Benchmarks](r_Benchmarks.md)
 

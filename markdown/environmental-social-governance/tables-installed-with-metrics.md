@@ -370,5 +370,5 @@ The scheduled jobs installed with the GRC: Metrics application run automatically
 |com.glide.event\_manager.grc\_metrics\_queue.even.load.distribution.enabled|Is used to distribute the events in the 'grc\_metric\_queue' queue equally between two worker threads.|500|
 |com.glide.event\_manager.grc\_metrics\_queue.claim\_limit|Defines the maximum number of events that one worker thread can claim from the event queue.|true|
 
-**Parent Topic:**[GRC: Metrics reference](../concept/grc-metrics-reference.md)
+**Parent Topic:**[GRC: Metrics reference](grc-metrics-reference.md)
 

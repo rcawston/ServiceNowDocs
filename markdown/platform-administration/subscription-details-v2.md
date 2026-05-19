@@ -39,9 +39,9 @@ View subscription details on the details page by navigating to **Admin** &gt; **
     -   Entitlements for users who have fewer access rights than fulfiller users are tracked through a per-user subscription with a Business Stakeholder User meter type.
     -   Entitlements for users with the now.assist.creator role are tracked through a per-user subscription with a Creator User meter type.
     -   The creation and retention of platform objects such as custom tables is tracked through a capacity subscription with a Capacity meter type.
-    For more information, see [Types of subscriptions in Subscription Management](../reference/types-subscription-v2.md).
+    For more information, see [Types of subscriptions in Subscription Management](types-subscription-v2.md).
 
--   See how a capacity subscription total is calculated by selecting the Capacity Definition record and viewing the definition details. For more information, see [Monitor capacity subscription calculations in Subscription Management](../task/view-how-totals-calculated-capacity-subscriptions-v2.md).
+-   See how a capacity subscription total is calculated by selecting the Capacity Definition record and viewing the definition details. For more information, see [Monitor capacity subscription calculations in Subscription Management](view-how-totals-calculated-capacity-subscriptions-v2.md).
 -   View the groups you have added to a subscription in the **Subscribed groups** tab. View the total number of users who belong to each group in the **Users** column.
 -   View the total number of active users in the **Active users** column. The count of active users excludes users who haven't logged in to the instance in the last 365 days, users assigned Web service access only, or users with an empty User ID.
 
@@ -57,7 +57,7 @@ View subscription details on the details page by navigating to **Admin** &gt; **
 -   View the applications that are included with a product subscription on the **Subscription applications** tab.
     -   View application entitlement details, including the application's related plugins and associated roles by selecting an application.
     -   Determine whether an application is available to install from the current product subscription by checking the **Installation status** column.
--   Maximize subscription usage and grant entitlement to the right users by allocating per-user subscriptions. You allocate per-user subscriptions by adding one or more groups to a product subscription. Subscription Management helps you with the allocation process by recommending groups based on their assigned roles. For more information, see [Allocate subscriptions in Subscription Management](../task/allocate-subscriptions-v2.md).
+-   Maximize subscription usage and grant entitlement to the right users by allocating per-user subscriptions. You allocate per-user subscriptions by adding one or more groups to a product subscription. Subscription Management helps you with the allocation process by recommending groups based on their assigned roles. For more information, see [Allocate subscriptions in Subscription Management](allocate-subscriptions-v2.md).
 
     **Note:** To simplify the Subscription Management experience, the manual allocation workflow for user-based subscriptions is unavailable if you have never used it. Automatic allocation of user-based subscriptions is based on user and group roles.
 

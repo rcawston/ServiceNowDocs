@@ -36,5 +36,5 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 Refresh the Automation Trackers list to view the newly created automations.
 
-**Parent Topic:**[Configuring Automation Center](../concept/automation-center-setup.md)
+**Parent Topic:**[Configuring Automation Center](automation-center-setup.md)
 

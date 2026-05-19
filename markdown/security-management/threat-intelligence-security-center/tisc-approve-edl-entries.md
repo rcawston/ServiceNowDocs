@@ -69,5 +69,5 @@ On the entry record, the Status field changes to **Rejected**, and the **Active*
     ![Approved EDL entry.](../image/tisc-edl-approved-entry.png)
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](palo-alto-networks-integration.md)
 

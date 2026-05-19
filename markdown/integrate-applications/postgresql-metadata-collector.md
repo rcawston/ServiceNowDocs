@@ -148,9 +148,9 @@ Establishes relationships between Views and source Table columns that:
 
 **Note:** View-to-table relationships can be established transitively through column-level relationships. Variable statement lineage isn’t supported.
 
--   **[Prepare to run the PostgreSQL collector](../task/prepare-to-run-postgresql-collector.md)**  
+-   **[Prepare to run the PostgreSQL collector](prepare-to-run-postgresql-collector.md)**  
 Create a PostgreSQL user and configure permissions before running the collector.
--   **[Create a PostgreSQL metadata collector](../task/create-postgresql-metadata-collector.md)**  
+-   **[Create a PostgreSQL metadata collector](create-postgresql-metadata-collector.md)**  
 Create a collector to import metadata from PostgreSQL.
 
 **Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)

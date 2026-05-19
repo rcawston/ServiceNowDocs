@@ -56,7 +56,7 @@ By default, all chat features, except web search mode, are turned on.
 
     **Note:** Dynamic Translation can be turned off in the Now Assist Admin console. Turning off Dynamic Translation impacts the entire instance.
 
-    For more information, see [Chat streaming responses](../../virtual-agent/concept/streaming-responses-requestor.md).
+    For more information, see [Chat streaming responses](streaming-responses-requestor.md).
 
 3.  **Allow document uploads** so that users can ask questions about content or get a document summary.
 

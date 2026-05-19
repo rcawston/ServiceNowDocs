@@ -16,7 +16,7 @@ Build custom agentic workflows, AI agents, and skills for your applications usin
 
 ## Before you begin
 
-If Now Assist for App Engine is not installed, then install it. For more information, see [Installing Now Assist for App Engine](../../app-engine-studio/task/install-now-assist-for-app-engine.md).
+If Now Assist for App Engine is not installed, then install it. For more information, see [Installing Now Assist for App Engine](now-assist-for-app-engine/install-now-assist-for-app-engine.md).
 
 Verify that you have access to ServiceNow Studio or the ServiceNow IDE.
 

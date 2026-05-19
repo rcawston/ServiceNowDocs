@@ -78,5 +78,5 @@ When you use Change Management with other ServiceNow products, you increase the 
 
 [See the video: How Change Management leverages the CSDM](https://www.youtube.com/watch?v=3iCxTeU4ZTA&list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK&index=43)
 
-**Parent Topic:**[Applying CSDM guidelines to Change Management](../concept/itsm-change-use-case-product-view.md)
+**Parent Topic:**[Applying CSDM guidelines to Change Management](itsm-change-use-case-product-view.md)
 

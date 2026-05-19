@@ -17,7 +17,7 @@ Create demand using the Digital Portfolio Management \(DPM\) application. DPM en
 
 ## Before you begin
 
-For the required plugins to create a demand in Digital Portfolio Management, see the Demand Management area of [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+For the required plugins to create a demand in Digital Portfolio Management, see the Demand Management area of [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 Role required: sn\_dpm.dpm\_manager
 
@@ -51,5 +51,5 @@ You can manage and create demands for services or service offerings that you own
     The service **Plan** tab shows the new demand.
 
 
-**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+**Parent Topic:**[Work with solution data in Digital Portfolio Management](dpm-working-with.md)
 

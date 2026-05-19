@@ -21,7 +21,7 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 By default, data sharing is restricted between production instances, which means you can't see subscription data for other production instances in Subscription Management. To view subscription data from another production instance, modify the trust configuration settings on that instance.
 
-For more information about modifying the trust configuration for an instance, see [Basic trust configuration for data sync applications](../../core-configuration/concept/grant-access-other-instances.md).
+For more information about modifying the trust configuration for an instance, see [Basic trust configuration for data sync applications](grant-access-other-instances.md).
 
 **Note:** Subscription data from a non-production instance is only viewable from a production instance.
 
@@ -46,5 +46,5 @@ Subscription data is shared with your primary production instance.
 
 Log in to your primary production instance to view the subscription data that is now shared with that instance. Repeat these steps for each additional production instance that has subscription data that you want to view from the primary production instance.
 
-**Parent Topic:**[Configuring Subscription Management](../concept/configuring-subscription-management-v2.md)
+**Parent Topic:**[Configuring Subscription Management](configuring-subscription-management-v2.md)
 

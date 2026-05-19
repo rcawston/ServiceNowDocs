@@ -58,5 +58,5 @@ From the Free-form Roadmaps tab, select a roadmap.
     ![Update planned dates of a roadmap item.](../../spw-roadmap/images/update-roadmap-item.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

@@ -39,5 +39,5 @@ Role required: sn\_itom\_cam.cw\_admin
 
 ## What to do next
 
-[Review request policies](../concept/viewing-pace-policy.md)
+[Review request policies](viewing-pace-policy.md)
 

@@ -40,5 +40,5 @@ Role required: sn\_imt\_travel.approver or admin
 
 An email notification stating that the request was canceled is sent to the requester. The notification includes the name of the person who canceled the travel request.
 
-**Parent Topic:**[Employee Travel Safety](../concept/employee-travel-safety.md)
+**Parent Topic:**[Employee Travel Safety](employee-travel-safety.md)
 

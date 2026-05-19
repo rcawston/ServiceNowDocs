@@ -64,7 +64,7 @@ Load balancers are not configured by default. Follow this procedure to configure
 
 ## Result
 
-The Agent Client Collector data flow proceeds as described in [Agent Client Collector architecture](../concept/acc-concept.md).
+The Agent Client Collector data flow proceeds as described in [Agent Client Collector architecture](acc-concept.md).
 
 **Note:**
 

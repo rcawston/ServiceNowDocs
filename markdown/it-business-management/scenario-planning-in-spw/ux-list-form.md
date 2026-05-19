@@ -128,5 +128,5 @@ View to determine which columns are displayed in the list in the workspace. If y
 **Related topics**  
 
 
-[Customize Lists in Strategic Planning Workspace](../task/customize-lists-strategic-planning-workspace.md)
+[Customize Lists in Strategic Planning Workspace](customize-lists-strategic-planning-workspace.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-To translate the interface of an instance to a language for which ServiceNow does not provide an internationalization plugin, you must create a language record for a new translation in the Languages \[sys\_language\] table. For more information about this table, see [Languages table](../reference/r_LanguagesTable.md).
+To translate the interface of an instance to a language for which ServiceNow does not provide an internationalization plugin, you must create a language record for a new translation in the Languages \[sys\_language\] table. For more information about this table, see [Languages table](r_LanguagesTable.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ To translate the interface of an instance to a language for which ServiceNow doe
 **Related topics**  
 
 
-[Languages table](../reference/r_LanguagesTable.md)
+[Languages table](r_LanguagesTable.md)
 

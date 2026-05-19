@@ -39,7 +39,7 @@ The topics and child topics you create in the taxonomy are displayed as mega men
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Menu Item form](../reference/menu-item-form.md).
+    For a description of the field values, see [Menu Item form](menu-item-form.md).
 
 6.  Click **Submit**.
 

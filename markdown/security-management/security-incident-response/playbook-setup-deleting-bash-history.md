@@ -49,5 +49,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for User Deleting Bash History playbook.](../image/playbook-bash-history-trigger.png "User Deleting Bash History - Cloud playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for User Deleting Bash History - Cloud](../concept/playbook-deleting-bash-history.md)
+**Parent Topic:**[Playbook for User Deleting Bash History - Cloud](playbook-deleting-bash-history.md)
 

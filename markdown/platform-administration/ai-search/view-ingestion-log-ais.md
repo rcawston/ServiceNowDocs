@@ -28,5 +28,5 @@ Role required: admin
 2.  Use the list search, sort, filter, and group functions to locate messages of interest.
 
 
-**Parent Topic:**[AI Search logging and debugging](../concept/logging-debugging-ais.md)
+**Parent Topic:**[AI Search logging and debugging](logging-debugging-ais.md)
 

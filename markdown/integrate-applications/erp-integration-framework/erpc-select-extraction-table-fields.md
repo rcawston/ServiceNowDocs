@@ -43,5 +43,5 @@ Role required: sn\_erp\_integration.erp\_admin
 5.  Confirm that the fields appear correctly as columns on the extraction table by selecting the **Extraction table fields** tab.
 
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](erp-canvas-extraction-tables.md)
 

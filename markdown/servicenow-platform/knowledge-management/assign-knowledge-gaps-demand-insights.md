@@ -47,7 +47,7 @@ Knowledge gap feedback tasks created through the Knowledge Demand Insights featu
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 

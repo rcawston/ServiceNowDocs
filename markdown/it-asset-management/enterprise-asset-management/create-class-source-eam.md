@@ -17,7 +17,7 @@ Create sources that you can then assign to classification codes.
 
 ## Before you begin
 
-A source is a system of classification for a particular industry. For more details on sources, see [Classification codes](../concept/classification-codes.md).
+A source is a system of classification for a particular industry. For more details on sources, see [Classification codes](classification-codes.md).
 
 Role required: sn\_eam.enterprise\_asset\_manager
 
@@ -36,5 +36,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
     The source appears in the Create sources page.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
 

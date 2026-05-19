@@ -33,7 +33,7 @@ You can use these tabs proactively without waiting to be contacted, for example,
 
 4.  Select a case for which you want to provide information.
 
-    For a description of the field values, see [Invoice case details on the Business Portal](../reference/invoice-case-header-list-view.md).
+    For a description of the field values, see [Invoice case details on the Business Portal](invoice-case-header-list-view.md).
 
 5.  View the case history and add comments from the **Activity** tab.
 

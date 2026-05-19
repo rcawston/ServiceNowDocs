@@ -91,7 +91,7 @@ This property is used for soft deletion and life cycle handling using the Integr
 -   Type: true \| false
 -   Default value: true
 
-For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](../concept/sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
+For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ This property is used for soft deletion. Time in days in which the sys\_object\_
 -   Type: integer
 -   Default value: empty
 
-For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](../concept/sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
+For more information about soft deletion for the Service Graph Connector for GCP, see [Soft deletion](sgc-cmdb-gcp-removal.md#section_dgn_plz_ncc).
 
 </td></tr><tr><td colspan="2">
 
@@ -118,7 +118,7 @@ Shell Script Object Path
 
 </td><td>
 
-Enter the path to the `.sh` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the path to the `.sh` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: string
 -   Default value: empty
@@ -129,7 +129,7 @@ PowerShell Script Object Path
 
 </td><td>
 
-Enter the path to the `.ps1` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the path to the `.ps1` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: string
 -   Default value: empty
@@ -140,7 +140,7 @@ PowerShell Script Generation Number
 
 </td><td>
 
-Enter the generation number for the `.ps1` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the generation number for the `.ps1` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: integer
 -   Default value: empty
@@ -151,7 +151,7 @@ Shell Script Generation Number
 
 </td><td>
 
-Enter the generation number for the `.sh` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the generation number for the `.sh` file uploaded to the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: integer
 -   Default value: empty
@@ -162,7 +162,7 @@ Scripts Bucket Name
 
 </td><td>
 
-Enter the name of the cloud storage bucket where the `.sh` and `.ps1` files are uploaded in Google Cloud Platform.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the name of the cloud storage bucket where the `.sh` and `.ps1` files are uploaded in Google Cloud Platform.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: string
 -   Default value: empty
@@ -173,7 +173,7 @@ Outputs Bucket Name
 
 </td><td>
 
-Enter the name of the cloudsn\_itom\_pattern.use a single hardware type for cloud data centers storage bucket provided in the `.sh` and `.ps1` files where the output of the commands are to be stored.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the name of the cloudsn\_itom\_pattern.use a single hardware type for cloud data centers storage bucket provided in the `.sh` and `.ps1` files where the output of the commands are to be stored.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: string
 -   Default value: empty
@@ -184,7 +184,7 @@ Outputs Storage Path
 
 </td><td>
 
-Enter the folder path provided in the `.sh` and `.ps1` files where the output is uploaded in the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md).
+Enter the folder path provided in the `.sh` and `.ps1` files where the output is uploaded in the cloud storage bucket.This property is required only when deep discovery is enabled. For more information, see [Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md).
 
 -   Type: string
 -   Default value: empty
@@ -570,7 +570,7 @@ Set the maximum waiting period \(in milliseconds\) after an API failure due to t
 -   Default value: `160,000`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for GCP reference](../concept/sgc-cmdb-gcp-reference.md)
+</table>**Parent Topic:**[Service Graph Connector for GCP reference](sgc-cmdb-gcp-reference.md)
 
 **Related topics**  
 
@@ -579,7 +579,7 @@ Set the maximum waiting period \(in milliseconds\) after an API failure due to t
 
 [CMDB classes targeted in Service Graph Connector for GCP](sgc-cmdb-gcp-classes.md)
 
-[Deep discovery for Service Graph Connector for GCP](../concept/sgc-gcp-deep-discovery.md)
+[Deep discovery for Service Graph Connector for GCP](sgc-gcp-deep-discovery.md)
 
-[Record removal process in Service Graph Connector for GCP](../concept/sgc-cmdb-gcp-removal.md)
+[Record removal process in Service Graph Connector for GCP](sgc-cmdb-gcp-removal.md)
 

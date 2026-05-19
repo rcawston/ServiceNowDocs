@@ -16,15 +16,15 @@ breadcrumb: [Configure, External Content Connectors, ServiceNow Store applicatio
 
 The ServiceNow® product documentation external content connector retrieves topics from the ServiceNow product documentation and makes their content and metadata searchable in AI Search applications.
 
-**Note:** This external content connector is not included in the External Content Connectors Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](../task/install-ext-cont-connectors.md).
+**Note:** This external content connector is not included in the External Content Connectors Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](install-ext-cont-connectors.md).
 
 The system automatically schedules monthly content crawls to retrieve updated content from the product documentation for a family release that you specify. Search administrators can run one-time content crawls to update content ahead of schedule.
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Create a ServiceNow product documentation external content connector](../task/create-ext-cont-connector-snowdoc.md)**  
+-   **[Create a ServiceNow product documentation external content connector](create-ext-cont-connector-snowdoc.md)**  
 Create an external content connector to retrieve searchable content from the ServiceNow product documentation site.
--   **[Configure crawl settings for a ServiceNow product documentation external content connector](../task/configure-crawl-settings-snowdoc-ext-cont-connector.md)**  
+-   **[Configure crawl settings for a ServiceNow product documentation external content connector](configure-crawl-settings-snowdoc-ext-cont-connector.md)**  
 Choose the products that you want your ServiceNow product documentation external content connector to crawl documentation for.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,5 +32,5 @@ Choose the products that you want your ServiceNow product documentation external
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 

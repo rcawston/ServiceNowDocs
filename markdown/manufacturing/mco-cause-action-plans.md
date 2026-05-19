@@ -28,5 +28,5 @@ Role required: admin
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for remediation action plan](../concept/mco-related-list-for-remediation-action-plan.md)
+**Parent Topic:**[Related list for remediation action plan](mco-related-list-for-remediation-action-plan.md)
 

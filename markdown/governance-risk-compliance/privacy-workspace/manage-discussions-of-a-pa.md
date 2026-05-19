@@ -42,5 +42,5 @@ Because privacy cases are time-sensitive, they sometimes need quick collaboratio
 
 The chat gets stored and can be viewed under Activity on the side panel.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

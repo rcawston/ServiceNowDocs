@@ -17,7 +17,7 @@ View the SLA details of a problem in the contextual side panel of Service Operat
 
 ## Before you begin
 
-You must configure the Service Level Agreement \(SLA\) timer for Problem Management. Select from the existing **Problem resolution** and **Problem response** configurations, or create your own. For more information, see [Configure the SLA timer](../../service-level-management/task/sla-timer-configurations.md) and [Create an SLA definition](../../service-level-management/task/t_CreateAnSLADefinition.md).
+You must configure the Service Level Agreement \(SLA\) timer for Problem Management. Select from the existing **Problem resolution** and **Problem response** configurations, or create your own. For more information, see [Configure the SLA timer](../service-level-management/sla-timer-configurations.md) and [Create an SLA definition](../service-level-management/t_CreateAnSLADefinition.md).
 
 Role required: admin
 

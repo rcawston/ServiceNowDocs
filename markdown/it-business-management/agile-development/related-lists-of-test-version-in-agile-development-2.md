@@ -26,5 +26,5 @@ Use the related lists in the Test version form for the actions that you need to 
 **Related topics**  
 
 
-[Track sprint progress in Agile Development 2.0](../../sdlc-scrum/task/sprint-tracking-list.md)
+[Track sprint progress in Agile Development 2.0](sprint-tracking-list.md)
 

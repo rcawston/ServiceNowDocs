@@ -85,7 +85,7 @@ In the Assessment Metric Definitions related list, select the response to edit. 
 
 The modified survey is used for future outreach surveys.
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](emergency-outreach.md)
 
 ## Add additional Employee Readiness Surveys
 
@@ -111,5 +111,5 @@ Consider how you want to begin to reopen your workplace, and what you must under
 **Related topics**  
 
 
-[Send a readiness survey in Emergency Outreach](../../contact-tracing/task/send-notification-to-exposed-contact.md)
+[Send a readiness survey in Emergency Outreach](../contact-tracing/send-notification-to-exposed-contact.md)
 

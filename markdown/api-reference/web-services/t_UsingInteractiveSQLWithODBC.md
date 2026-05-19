@@ -42,10 +42,10 @@ Role required: admin
     ![Sample SQL Query.](../image/SampleSQLQuery.png)
 
 
--   **[Specify the maximum number of rows returned](../reference/r_MaxRowsReturned.md)**  
+-   **[Specify the maximum number of rows returned](r_MaxRowsReturned.md)**  
 By default, ServiceNow only returns 100 rows of data with each iSQL query. If you need to return more rows of data, set the maxrows parameter for the iSQL session.
--   **[SQL support](../reference/r_SQLSupport.md)**  
+-   **[SQL support](r_SQLSupport.md)**  
 The ODBC driver embeds a third party SQL/ODBC engine from DataDirect, a division of Progress Software.
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](r_ODBCAndClientApplications.md)
 

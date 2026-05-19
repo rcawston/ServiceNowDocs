@@ -26,7 +26,7 @@ Role required: model\_manager
 2.  Open a model category to view its details.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](c_ModelCategories.md)
 
 **Related topics**  
 

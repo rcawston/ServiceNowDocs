@@ -61,5 +61,5 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifi
 
 ![Hardware rule identifier for Credential-less Discovery](../image/Credential-lessHardwareRule.png "Credential-less hardware rule")
 
-**Parent Topic:**[Credential-less Discovery with Nmap](../concept/nmap-credential-less-discovery.md)
+**Parent Topic:**[Credential-less Discovery with Nmap](nmap-credential-less-discovery.md)
 

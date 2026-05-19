@@ -98,5 +98,5 @@ Do this
 4.  [Analyze transcripts and sentiments for the Amazon Connect phone channel](analyze-transcripts-sentiments-configurable-wfo-cs.md) and assign training to coach the agents.
 
 
-**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](../concept/configurable-servicenow-voice-cs.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](configurable-servicenow-voice-cs.md)
 

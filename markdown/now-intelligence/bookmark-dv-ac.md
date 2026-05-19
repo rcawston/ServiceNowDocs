@@ -35,5 +35,5 @@ On the **Data Visualizations** tab, the selected visualization appears in the Bo
 
 To remove a bookmark, choose the bookmarked visualization and select **Remove bookmark** from the More actions menu \(![More actions icon](../image/icon-vert-3dot-p.png)\).
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

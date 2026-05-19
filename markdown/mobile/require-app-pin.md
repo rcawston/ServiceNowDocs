@@ -40,5 +40,5 @@ Users generate a six-digit code for the app PIN. The PIN must be entered when th
     **Note:** The mobile app is automatically locked after five minutes of inactivity. Users accessing the mobile app after a period of inactivity must enter their PIN code.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

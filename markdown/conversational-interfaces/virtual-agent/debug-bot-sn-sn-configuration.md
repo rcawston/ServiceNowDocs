@@ -79,9 +79,9 @@ Role required: admin
 
 You can view additional logs and Workflow Studio executions for debugging purposes.
 
-**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-sn-secondary-bot-with-sn-primary.md)
+**Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
-**Previous topic:**[Enable live agent connection on the primary instance](../concept/enable-live-agent-connection-on-the-secondary-instance.md)
+**Previous topic:**[Enable live agent connection on the primary instance](enable-live-agent-connection-on-the-secondary-instance.md)
 
-**Next topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Next topic:**[Localization options for Virtual Agent](multi-language-options-va.md)
 

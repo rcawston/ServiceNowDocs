@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, AI Search only matches translated content records, such as knowledge articles, that are in the user's ServiceNow AI Platform® session language. For example, a user searching from a Spanish user session only matches Spanish knowledge articles. For full details on this restriction, see [Searching translated content](../concept/searching-translated-content-ais.md).
+By default, AI Search only matches translated content records, such as knowledge articles, that are in the user's ServiceNow AI Platform® session language. For example, a user searching from a Spanish user session only matches Spanish knowledge articles. For full details on this restriction, see [Searching translated content](searching-translated-content-ais.md).
 
 **Note:** If you've configured a global fallback locale, search can match translated content records in that locale's language as well as in the user's session language. For more details on this approach, see [Enable a global fallback locale for translated content](enable-global-fallback-lang-ais.md).
 
@@ -58,5 +58,5 @@ Here is an example that defines the encoded query `kb_category=5681bf8bff0221009
 
 ![glide.ais.global_searchable_filter.kb_knowledge system property form with value kb_category=5681bf8bff0221009b20ffffffffff95.](../image/global-kb-sys-prop-query-example.png "Email category encoded query for knowledge articles")
 
-**Parent Topic:**[Internationalization support for AI Search](../concept/international-language-support-ais.md)
+**Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

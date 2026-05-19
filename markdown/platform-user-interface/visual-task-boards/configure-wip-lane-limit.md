@@ -42,5 +42,5 @@ The number appears on the lane header. ![Number of cards does not exceed the lan
 
 If a card is moved to a lane with exceeded WIP lane limit, an error message appears at the top of the page. The member who moves a card to the lane with exceeded limit can view the error message.
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 

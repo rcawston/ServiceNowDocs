@@ -17,7 +17,7 @@ Use the Career Conversations app to reopen a closed growth conversation to modif
 
 ## Before you begin
 
-You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md).
 
 Role required: manager \[sn\_egd\_act.manager\]
 
@@ -42,5 +42,5 @@ When a conversation is closed, either manually by a manager or automatically by 
 
 Modify the action items, notes, and skills, then close the conversation when you are done.
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](egd-activities-use.md)
 

@@ -55,9 +55,9 @@ The events initiated from the profiles in your ServiceNow AI Platform® instance
 
 The following topics include examples for how to configure profiles and test security incidents. These examples include profiles for all of the McAfee ePO capabilities that are available for this integration.
 
--   **[Configure profiles and security incidents for system enrichment queries](../task/mcafee-epo-configure-profile.md)**  
+-   **[Configure profiles and security incidents for system enrichment queries](mcafee-epo-configure-profile.md)**  
 Configure your profile settings so that the profile triggers only under the conditions that you set.
--   **[Configure a profile to initiate malware scan](../task/mcafee-epo-config-scan-malwr.md)**  
+-   **[Configure a profile to initiate malware scan](mcafee-epo-config-scan-malwr.md)**  
 After you create a profile with the Initiate Malware Scan capability and any other McAfee ePO capabilities that you want the profile to run, configure the settings of the profile so that it is invoked under the specific conditions that you define.
 
 **Parent Topic:**[McAfee ePO integration capability profiles](mcafee-epo-creating-profiles.md)

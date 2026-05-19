@@ -409,7 +409,7 @@ Enable this option to consider agent's schedules, skills, teams, and coaching to
 
 </td><td>
 
-[Activate Workforce Optimization for Field Service](../../field-service-management/task/activate-wfo-fsm.md).
+[Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 </td></tr><tr><td>
 

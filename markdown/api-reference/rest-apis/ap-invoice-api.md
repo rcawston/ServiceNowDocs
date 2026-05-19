@@ -17,7 +17,7 @@ Allows external systems, such as those used by vendors, to securely submit invoi
 
 This API requires the Accounts Payable Invoice Processing \(com.sn\_ap\_apm\) store application, which is provided within the `sn_spend_intg` namespace. For information, see .
 
-Refer to [AP Invoice API Developer Guide](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#) for help with the following tasks:
+Refer to [AP Invoice API Developer Guide](../developer-guides/apInvoice-dev-guide.md#) for help with the following tasks:
 
 -   Define a custom field for invoices, invoice lines, and invoice tax lines.
 -   Map the custom field between source and target tables.
@@ -37,7 +37,7 @@ You can apply a filter condition for invoice lines containing multiple ERPs. For
     -   Do not use the reserved "SD\_" prefix for attachment file names.
     -   All attachments must be encoded as Base64 format.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## AP Invoice – POST sn\_spend\_intg/ap\_invoice/cxml
 
@@ -47,13 +47,13 @@ Use the Invoice integration field mappings \[sn\_spend\_intg\_invoice\_intg\_fie
 
 For additional cXML resources, refer to the **cXML Reference Guide** at [https://xml.cxml.org](https://xml.cxml.org/current/cXMLReferenceGuide.pdf).
 
-Credentials for this API are included in the payload. You can set up credentials in the Source system credential \[sn\_spend\_intg\_source\_system\_credential\] table. For instructions, see [Setting credentials for authentication in the cXML payload](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#).
+Credentials for this API are included in the payload. You can set up credentials in the Source system credential \[sn\_spend\_intg\_source\_system\_credential\] table. For instructions, see [Setting credentials for authentication in the cXML payload](../developer-guides/apInvoice-dev-guide.md#).
 
 You can define custom invoice fields for the request body. Use the following flow to add custom fields, map them to target tables, and format them for availability in the payload:
 
-1.  [Add custom fields for invoice import](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
-2.  [Map custom fields between source and target tables](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
-3.  [Map custom fields to a payload source format](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
+1.  [Add custom fields for invoice import](../developer-guides/apInvoice-dev-guide.md#)
+2.  [Map custom fields between source and target tables](../developer-guides/apInvoice-dev-guide.md#)
+3.  [Map custom fields to a payload source format](../developer-guides/apInvoice-dev-guide.md#)
 
 ### URL format
 
@@ -590,7 +590,7 @@ Related table: Invoice Import \[sn\_spend\_intg\_imp\_invoice\]
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -627,7 +627,7 @@ This setting is also used to fetch credentials from the Source system credential
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -2920,9 +2920,9 @@ Use the Invoice integration field mappings \[sn\_spend\_intg\_invoice\_intg\_fie
 
 You can define custom invoice fields for the request body. Use the following flow to add custom fields, map them to target tables, and format them for availability in the payload:
 
-1.  [Add custom fields for invoice import](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
-2.  [Map custom fields between source and target tables](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
-3.  [Map custom fields to a payload source format](../../guides/APInvoiceAPI/concept/apInvoice-dev-guide.md#)
+1.  [Add custom fields for invoice import](../developer-guides/apInvoice-dev-guide.md#)
+2.  [Map custom fields between source and target tables](../developer-guides/apInvoice-dev-guide.md#)
+3.  [Map custom fields to a payload source format](../developer-guides/apInvoice-dev-guide.md#)
 
 ### URL format
 
@@ -3613,7 +3613,7 @@ Related table: Invoice Tax Line Import \[sn\_spend\_intg\_imp\_invoice\_tax\_lin
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -3650,7 +3650,7 @@ This setting is also used to fetch credentials from the Source system credential
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

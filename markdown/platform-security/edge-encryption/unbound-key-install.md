@@ -39,7 +39,7 @@ In your Unbound Technology implementation, identify both the wrapping key and th
 
         This property directs the proxy server to look for the encryption key in the `<Java-home-directory>/keys` directory.
 
-        For more information on Edge Encryption properties, see [Edge Encryption proxy server properties](../reference/edge-encryption-proxy-server-properties.md).
+        For more information on Edge Encryption properties, see [Edge Encryption proxy server properties](edge-encryption-proxy-server-properties.md).
 
     4.  Uncomment the properties for the Dyadic provider configuration and set the value of **edgeencryption.ekm.provider.rsa.wrapping.key.alias** to the wrapping key alias in your Unbound implementation.
 

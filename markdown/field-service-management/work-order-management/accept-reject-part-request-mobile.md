@@ -17,8 +17,8 @@ Review the part requests that you receive from peer agents.
 
 ## Before you begin
 
--   The Field Service Advanced Parts Sourcing \(com.snc.fsm\_advanced\_parts\_sourcing\) plugin must be activated. For more information, see [Additional plugins for Field Service Management](../reference/field-service-additional-plugins.md).
--   The **Use part request approvals** property must be enabled to be able to receive part requests from your peer agents. For more information, see [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
+-   The Field Service Advanced Parts Sourcing \(com.snc.fsm\_advanced\_parts\_sourcing\) plugin must be activated. For more information, see [Additional plugins for Field Service Management](../field-service-additional-plugins.md).
+-   The **Use part request approvals** property must be enabled to be able to receive part requests from your peer agents. For more information, see [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
 -   **Notifications** in the mobile device and Now Mobile Agent app must be enabled to be able to receive mobile push notifications from your peer agents.
 
 Role required: wm\_agent

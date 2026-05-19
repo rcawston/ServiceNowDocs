@@ -63,5 +63,5 @@ The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to
 -   **[Enable the user criteria property](enable-user-criteria-property.md)**  
 Enable the user criteria property to configure access for users based on role, department, group, location, or company in UI Builder.
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](work-pages.md)
 

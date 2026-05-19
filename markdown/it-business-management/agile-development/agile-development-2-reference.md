@@ -17,13 +17,13 @@ Reference information to provide additional details about Agile Development 2.0 
 
 -   **[Components installed with Agile Development 2.0](components-installed-with-agile-2.0.md#)**  
 Several types of components are installed with activation of the Agile Development 2.0 plugin, including tables, user roles, and properties.
--   **[Writing effective stories in Agile Development 2.0](../concept/how-to-write-stories.md)**  
+-   **[Writing effective stories in Agile Development 2.0](how-to-write-stories.md)**  
 Well-written stories are easy to understand by all developers and members of team members, such as Testing or Documentation.
 -   **[Agile Development process data model](agile-dev-process-data-model.md)**  
 Learn about the relationship between tables that Agile Development 2.0 uses to manage the agile process, represent releases, and represent product backlog items to be included in a sprint.
 -   **[Business stakeholder role for Agile Development 2.0](business-stakeholder-role-agile-dev-2-0.md)**  
 Use the business stakeholder role to read and retrieve data from any table of the Agile Development 2.0 and Scrum Programs applications to generate reports.
--   **[Domain separation in Agile Development 2.0](../concept/agile-development-2.0-domain-separation.md)**  
+-   **[Domain separation in Agile Development 2.0](agile-development-2.0-domain-separation.md)**  
 This is an overview of domain separation and how it works with Agile Development 2.0. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Related links and lists of assignment group in Agile Development 2.0](related-links-lists-of-assignment-group-in-agile-dev-2.md)**  
 Use the related lists in the Group form for the actions that you need to perform for your assignment group in Agile Development 2.0, such as adding sprints and editing group members.

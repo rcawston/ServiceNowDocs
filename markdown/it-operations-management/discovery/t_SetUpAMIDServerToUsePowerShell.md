@@ -38,5 +38,5 @@ PowerShell version 2.0 is not supported, therefore it is recommended to upgrade 
     Although you can disable PowerShell by changing the **mid.use\_powershell** and **mid.sa.prefer\_powershell**, this method is deprecated and should not be used.
 
 
-**Parent Topic:**[PowerShell for Discovery and Service Mapping](../reference/r_PowerShellForDiscovery.md)
+**Parent Topic:**[PowerShell for Discovery and Service Mapping](r_PowerShellForDiscovery.md)
 

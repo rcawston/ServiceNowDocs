@@ -292,7 +292,7 @@ Any additional information about the asset.
 
 The pallet that you created is added to the list shown in the Pallets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 **Related topics**  
 
@@ -303,5 +303,5 @@ The pallet that you created is added to the list shown in the Pallets tab.
 
 [Delete pallet assets](delete-pallet-assets.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](using-pallet-assets-for-inventory-mgmt.md)
 

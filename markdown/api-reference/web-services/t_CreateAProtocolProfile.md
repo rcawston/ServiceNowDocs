@@ -76,5 +76,5 @@ Select the client certificate the protocol uses to authenticate itself with the 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Outbound web service mutual authentication](../concept/c_OutboundWebServicesMutualAuth.md)
+**Parent Topic:**[Outbound web service mutual authentication](c_OutboundWebServicesMutualAuth.md)
 

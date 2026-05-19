@@ -17,7 +17,7 @@ In Playbooks, an activity represents one step in your overall business process. 
 
 ![Process Automation Designer: Account lifecycle onboarding](../image/account-lifecycle-pad.png)
 
--   **[Configure onboarding tasks in playbook](../task/account-lifecycle-configure-simple.md)**  
+-   **[Configure onboarding tasks in playbook](account-lifecycle-configure-simple.md)**  
 You can configure customer success onboarding tasks in a playbook using the Process Automation Designer.
 
 **Parent Topic:**[Account onboarding](account-lifecycle-configure.md)

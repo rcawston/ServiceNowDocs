@@ -47,7 +47,7 @@ Fulfillers see only requests, requested items, and catalog tasks that have been 
 -   A fulfiller belonging to a specific domain can create requests only on behalf of the domains that they have access to.
 -   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and reference fields.
 
-**Parent Topic:**[Request Management reference](../../request-management/concept/request-management-reference.md)
+**Parent Topic:**[Request Management reference](request-management-reference.md)
 
 **Related topics**  
 

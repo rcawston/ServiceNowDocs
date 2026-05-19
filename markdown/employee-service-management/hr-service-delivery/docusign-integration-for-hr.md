@@ -56,8 +56,8 @@ Ad hoc document flow
 </td><td>
 
 1.  Create a managed document that you want to make available for signing. See [Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md) for more information.
-2.  [Configure an HR PDF document template for an ad hoc document](../task/configure-hr-pdf-document-template-for-docusign-ad-hoc-document.md)
-3.  [Configure an HR service for the DocuSign integration](../task/configure-hr-service-for-docusign-integration.md)
+2.  [Configure an HR PDF document template for an ad hoc document](configure-hr-pdf-document-template-for-docusign-ad-hoc-document.md)
+3.  [Configure an HR service for the DocuSign integration](configure-hr-service-for-docusign-integration.md)
 
 </td></tr><tr><td>
 
@@ -66,8 +66,8 @@ DocuSign template flow
 </td><td>
 
 1.  Create a DocuSign template that you want to make available for signing. See the [DocuSign eSignature User Guide](https://support.docusign.com/en/guides/ndse-user-guide) for more information.
-2.  [Configure an HR PDF document template for a DocuSign template](../task/configure-docusign-template-for-hr-document-template.md)
-3.  [Configure an HR service for the DocuSign integration](../task/configure-hr-service-for-docusign-integration.md)
+2.  [Configure an HR PDF document template for a DocuSign template](configure-docusign-template-for-hr-document-template.md)
+3.  [Configure an HR service for the DocuSign integration](configure-hr-service-for-docusign-integration.md)
 
 </td></tr></tbody>
 </table>The ad hoc document flow is for the signing of static documents that originate from a managed document in the ServiceNow system. Each ad hoc document is configured as a standard HR PDF document template. You can add signers to the document with **Mark Signatures**, and then map each signature field to an appropriate user field in a table. \(The positioning of the markings are not used, and the DocuSign integration allows the signer to sign anywhere in the document.\) You can also parse the PDF to map document fields to corresponding table fields to auto-populate the document when it is generated for signing. The generated document is static, which means that it is read-only and the signatory cannot update any of the fields.
@@ -78,13 +78,13 @@ The DocuSign template flow is for the signing of dynamic documents that originat
 
 Once the integration setup is complete, HR agents from your organization can request electronic signatures through the DocuSign service.
 
-For more information, see [Request an electronic signature through the Docusign service](../task/request-e-signature-through-docusign-service.md).
+For more information, see [Request an electronic signature through the Docusign service](request-e-signature-through-docusign-service.md).
 
--   **[Configure an HR PDF document template for an ad hoc document](../task/configure-hr-pdf-document-template-for-docusign-ad-hoc-document.md)**  
+-   **[Configure an HR PDF document template for an ad hoc document](configure-hr-pdf-document-template-for-docusign-ad-hoc-document.md)**  
 If you are using the DocuSign integration, configure an HR PDF document template for each ad hoc document that you want to make available for signing.
--   **[Configure an HR PDF document template for a DocuSign template](../task/configure-docusign-template-for-hr-document-template.md)**  
+-   **[Configure an HR PDF document template for a DocuSign template](configure-docusign-template-for-hr-document-template.md)**  
 If you are using the DocuSign integration, configure an HR PDF document template for each DocuSign template that you want to make available for signing.
--   **[Configure an HR service for the DocuSign integration](../task/configure-hr-service-for-docusign-integration.md)**  
+-   **[Configure an HR service for the DocuSign integration](configure-hr-service-for-docusign-integration.md)**  
 Create or modify an HR service to request electronic signatures through the DocuSign service. Preconfigured flows to collect signatures for either an ad hoc document \(HR PDF document template\) or a DocuSign template are available to use. You must also configure an associated HR case template to set a default ad hoc document or DocuSign template for signing.
 
 **Parent Topic:**[HR Integrations](scoped-hr-third-party-integrations.md)

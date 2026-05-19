@@ -31,7 +31,7 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager and sn\_hs\_rm.inspection\
 
 5.  On the form, fill in the fields.
 
-    Enter inspection details and the duration. For more information on inspection field descriptions, see [Inspection schedule form](../reference/hs-inspection-schedule-form.md).
+    Enter inspection details and the duration. For more information on inspection field descriptions, see [Inspection schedule form](hs-inspection-schedule-form.md).
 
 6.  Select **Save**.
 
@@ -49,12 +49,12 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager and sn\_hs\_rm.inspection\
 -   All inspection records for an inspection schedule are generated in its **Scheduled inspections** tab. These inspection records are also available under **Inspections** &gt; **All** list.
 -   All required fields are copied from the inspection schedule to its inspection records.
 -   The assigned user receives a notification to complete the smart assessment or survey for the generated inspections. If the inspection format is digital, the notification includes a direct link to access the assessment or survey.
-    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../../hs-health-safety-mobile/task/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
+    -   A smart assessment can be completed in the mobile app. For more information, see [Complete a smart assessment from mobile](../health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
     -   A survey can be completed either in the Employee Center or the mobile app. For more information, see [Complete an inspection survey from the Employee Center](hs-complete-safety-insp-survey.md).
 
 ## What to do next
 
 In the **Scheduled inspections** tab, open the completed inspections, review the results, and add findings, RCA, and actions as needed.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](hs-safety-inspections.md)
 

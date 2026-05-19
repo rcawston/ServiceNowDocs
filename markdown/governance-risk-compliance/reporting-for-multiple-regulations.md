@@ -28,7 +28,7 @@ You can complete these tasks and generate reports in Microsoft Word format, as r
 
 Digital resilience incident reporting is used for incident reporting and assessment for legal entities or other objectives according to regulations. You can now add entities to an incident, which automatically create a Digital resilience incident reporting case.
 
-For information on setting up the entities, see [Set up entities for the targets](../task/set-up-entities-for-targets.md).
+For information on setting up the entities, see [Set up entities for the targets](set-up-entities-for-targets.md).
 
 ## Sequence of action tasks
 
@@ -46,7 +46,7 @@ Action task creation and sequence are explained:
     **Note:** As administrators, you can customize the configurations available with the base version or add additional action tasks as needed.
 
 
-For information on mapping regulations and setting up action task templates, see [Map regulations to the entities](../task/configure-case-types-map-regu.md) and [Set up action task templates in Regulatory agency profile](../task/set-up-action-task-templates.md).
+For information on mapping regulations and setting up action task templates, see [Map regulations to the entities](configure-case-types-map-regu.md) and [Set up action task templates in Regulatory agency profile](set-up-action-task-templates.md).
 
-For information on completing action tasks, refer to [Complete action tasks and report incidents associated with regulations](../task/work-on-action-tasks.md).
+For information on completing action tasks, refer to [Complete action tasks and report incidents associated with regulations](work-on-action-tasks.md).
 

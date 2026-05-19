@@ -34,5 +34,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Integrating Request-based chat with Microsoft Teams for GCC-H or DoD](../concept/ec-teams-request-based-chat-integration-gcch.md)
+**Parent Topic:**[Integrating Request-based chat with Microsoft Teams for GCC-H or DoD](ec-teams-request-based-chat-integration-gcch.md)
 

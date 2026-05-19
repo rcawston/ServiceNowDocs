@@ -71,5 +71,5 @@ Strings which are being searched for in the log. Default values are **Severe** a
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

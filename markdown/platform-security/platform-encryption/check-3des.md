@@ -54,12 +54,12 @@ The GlideEncrypter API is planned for deprecation as of the Zurich release of Se
 
 ## What to do next
 
-[Deprecate GlideEncrypter usage of 3DES for password2 fields](../concept/password2-3des-deprecation.md)
+[Deprecate GlideEncrypter usage of 3DES for password2 fields](password2-3des-deprecation.md)
 
--   **[GlideEncrypter deprecation](../reference/glideencrypter-deprecation.md)**  
+-   **[GlideEncrypter deprecation](glideencrypter-deprecation.md)**  
 Learn how to remove the use legacy GlideEncrypter calls from the scripts on your instance.
--   **[Deprecate GlideEncrypter usage of 3DES for password2 fields](../concept/password2-3des-deprecation.md)**  
+-   **[Deprecate GlideEncrypter usage of 3DES for password2 fields](password2-3des-deprecation.md)**  
 Deprecate GlideEncrypter usage of 3DES encryption standard on your instance ensure that your instance uses the more secure Advanced Encryption Standard \(AES\) exclusively for the encryption and decryption of your Password2 data.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](../encryption.md)
 

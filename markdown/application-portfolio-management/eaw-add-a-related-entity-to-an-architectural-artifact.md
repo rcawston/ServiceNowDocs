@@ -37,12 +37,12 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new related entities form](../../reference/eaw-reference/eaw-artifact-releated-entity-form.md).
+    For a description of the field values, see [Create new related entities form](eaw-artifact-releated-entity-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 

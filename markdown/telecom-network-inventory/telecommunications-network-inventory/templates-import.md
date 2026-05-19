@@ -27,12 +27,12 @@ When the template import runs, it does not duplicate the existing auto-generated
 
 ![The image displays the import templates workflow](../image/import-template-flow.png)
 
-A detailed Import Results summary is produced, showing total records processed and breaking them down into inserted, updated, skipped, ignored, and failed records. To learn the step-by-step process of importing templates, see [Import templates](../task/import-templates.md)
+A detailed Import Results summary is produced, showing total records processed and breaking them down into inserted, updated, skipped, ignored, and failed records. To learn the step-by-step process of importing templates, see [Import templates](import-templates.md)
 
 **Related topics**  
 
 
-[Import models and templates in JSON format](../task/import-models-templates-json.md)
+[Import models and templates in JSON format](import-models-templates-json.md)
 
-[Export hierarchy of models and templates](../task/export-hierarchy-of-models-and-template.md)
+[Export hierarchy of models and templates](export-hierarchy-of-models-and-template.md)
 

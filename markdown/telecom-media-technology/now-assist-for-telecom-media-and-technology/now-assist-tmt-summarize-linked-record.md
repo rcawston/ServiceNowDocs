@@ -93,7 +93,7 @@ To check some details about the summary, select the more info icon \(![More info
 
 ## What to do next
 
-Complete the remaining steps to execute the ADR case record. To learn more, see [Create an Alternative Dispute Resolution case](create-adr-case-record.md).
+Complete the remaining steps to execute the ADR case record. To learn more, see [Create an Alternative Dispute Resolution case](../create-adr-case-record.md).
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

@@ -43,5 +43,5 @@ Role required: sys\_admin
 -   **[Create a webhook subscription](create-webhook-subscription.md)**  
 Webhooks are used to simplify communication between two applications. Create a webhook subscription to connect to Concur through webhook.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](../concept/integrate-esg-with-concur.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](integrate-esg-with-concur.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_hr\_core.admin
 4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[HR service categorization](../concept/hr-service-categorization.md)
+**Parent Topic:**[HR service categorization](hr-service-categorization.md)
 

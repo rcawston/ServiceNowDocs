@@ -86,7 +86,7 @@ Select **Create Task** in the activity viewer
 The **Service** field is auto-filled with the case service. The **Case task service** field lists the task services related to the case service.
 
 </td></tr></tbody>
-</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](../task/config-case-type-declarative-action.md).
+</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](config-case-type-declarative-action.md).
 
 ## Configuring service definitions for cases and case tasks
 

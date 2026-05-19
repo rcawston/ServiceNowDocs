@@ -50,5 +50,5 @@ Follow these guidelines to create effective onboarding experiences:
 -   **Version content:** Use the **Order** field and **Status** field to manage content versions. Keep draft versions for testing before publishing changes.
 -   **Document customizations:** Maintain external documentation of custom client scripts and launch mechanisms. Update sets may not capture all dependencies.
 
-**Parent Topic:**[Onboarding modals](../concept/next-experience-onboarding.md)
+**Parent Topic:**[Onboarding modals](next-experience-onboarding.md)
 

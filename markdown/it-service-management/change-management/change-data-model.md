@@ -45,7 +45,7 @@ To use features included in the new change templates, create a template using th
 **Related topics**  
 
 
-[Create a Change model](../task/create-a-change-model.md)
+[Create a Change model](create-a-change-model.md)
 
-[Create and propose a change template](../task/create-change-template.md)
+[Create and propose a change template](create-change-template.md)
 

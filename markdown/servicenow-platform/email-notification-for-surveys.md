@@ -15,7 +15,7 @@ When an administrator creates a survey and assigns it to a user, an email notifi
 
 To configure the teams that must receive the notification, or modify the notification content, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications** and open the **Survey Invitation** notification. For more information, see .
 
-**Note:** You can include an embedded survey in the survey email notification by using the **Outlook Actionable Message** check box. After you select this check box and save the survey, a validation is run to verify that all survey questions are supported. This field is available only when the Outlook Actionable Messages \(sn\_ms\_oam\) plugin is installed. For more information, see [Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md).
+**Note:** You can include an embedded survey in the survey email notification by using the **Outlook Actionable Message** check box. After you select this check box and save the survey, a validation is run to verify that all survey questions are supported. This field is available only when the Outlook Actionable Messages \(sn\_ms\_oam\) plugin is installed. For more information, see [Outlook Actionable Messages](outlook-actionable-messages.md).
 
 ## Base system Survey Invitation notification
 
@@ -26,21 +26,21 @@ ServiceNow includes a pre-configured **Survey Invitation** notification for surv
 **Related topics**  
 
 
-[Send survey invitations to users](../task/t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
-[Define a recipients list for surveys](../task/define-recipient-list.md)
+[Define a recipients list for surveys](define-recipient-list.md)
 
-[Add a recipients list to a survey](../task/add-recipient-list-survey.md)
+[Add a recipients list to a survey](add-recipient-list-survey.md)
 
-[Embed a survey within the Outlook email client](../task/embed-survey-in-outlook-email.md)
+[Embed a survey within the Outlook email client](embed-survey-in-outlook-email.md)
 
-[Enable localization for a survey](../task/enable-localization-survey.md)
+[Enable localization for a survey](enable-localization-survey.md)
 
 [Survey URLs](c_SurveyURLs.md)
 
-[Create a survey module](../task/t_CreatingASurveyModule.md)
+[Create a survey module](t_CreatingASurveyModule.md)
 
 [Sharing surveys](c_SurveyInportAndExport.md)
 
-[Configure a survey in the Connect chat support](../task/take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

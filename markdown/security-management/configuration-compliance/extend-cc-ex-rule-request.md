@@ -21,7 +21,7 @@ Role required: sn\_vul.exception\_approver
 
 ## About this task
 
-You can also request an extension from the Vulnerability Response Workspaces. For more information, see [Request an extension for a deferred vulnerable item in the Vulnerability Manager workspace](../../vulnerability-response/task/extend-defer-vul-item-ws.md).
+You can also request an extension from the Vulnerability Response Workspaces. For more information, see [Request an extension for a deferred vulnerable item in the Vulnerability Manager workspace](../vulnerability-manager-workspace/extend-defer-vul-item-ws.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 

@@ -73,16 +73,16 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[List of Orchestration plugins](../reference/list-orchestration-plugins.md)**  
+-   **[List of Orchestration plugins](list-orchestration-plugins.md)**  
 This table lists all plugins available for Orchestration and their dependencies.
--   **[Orchestration Runtime plugin](../reference/orchestration-runtime-plugin.md)**  
+-   **[Orchestration Runtime plugin](orchestration-runtime-plugin.md)**  
 The Orchestration – Runtime plugin enables other applications on the ServiceNow® platform to automate tasks, without requiring an Orchestration subscription.
--   **[List of Orchestration activities](../../../administer/orchestration-activities/reference/r_ListOfOrchestrationActivities.md)**  
+-   **[List of Orchestration activities](r_ListOfOrchestrationActivities.md)**  
 Use Orchestration activities in a Workflow to integrate with third-party systems.
--   **[Available activity packs](../../../administer/orchestration-activities/task/t_ActivateAnActivityPack.md)**  
+-   **[Available activity packs](t_ActivateAnActivityPack.md)**  
 Activity packs are available with your subscription to Orchestration.
--   **[Deprecated Orchestration activities](../../../administer/orchestration-activities/reference/r_OrchestrationBasicActivities.md)**  
+-   **[Deprecated Orchestration activities](r_OrchestrationBasicActivities.md)**  
 These Orchestration activities have been deprecated.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 

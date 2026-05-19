@@ -19,7 +19,7 @@ The ServiceNow® Goal Framework for Strategic Portfolio Management \(SPM\) appli
 
 Using Goal Framework, you can define strategic priorities and associated goals for your organization as part of strategic plans. After goals are created, you can then associate work, planning items, and strategic items such as demand, project, epic, program, and initiative.
 
-The ServiceNow® Strategic Planning users can define personalized portfolio plans using lenses for your organization and use them to align your goals according to your organization's portfolio plans. For information on how a portfolio plan is defined using a lens, see [Lens and portfolio plans](../../alignment-planner-workspace/concept/lens-alignment-planner-workspace.md). You can also create strategic plans, capturing the vision, mission, and values for your organization.
+The ServiceNow® Strategic Planning users can define personalized portfolio plans using lenses for your organization and use them to align your goals according to your organization's portfolio plans. For information on how a portfolio plan is defined using a lens, see [Lens and portfolio plans](../scenario-planning-in-spw/lens-alignment-planner-workspace.md). You can also create strategic plans, capturing the vision, mission, and values for your organization.
 
 Key benefits of Goal Framework:
 
@@ -54,7 +54,7 @@ Key benefits of Goal Framework for SPM:
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, roles, and properties.](../reference/goal-framework-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, roles, and properties.](goal-framework-reference.md)
 
 </td><td>
 

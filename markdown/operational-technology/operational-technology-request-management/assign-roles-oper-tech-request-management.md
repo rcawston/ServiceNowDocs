@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For more information about the Operational Technology Request Management roles you can assign to your users, see [Components installed with Operational Technology Request Management](../reference/components-installed-operational-technology-request-management.md).
+For more information about the Operational Technology Request Management roles you can assign to your users, see [Components installed with Operational Technology Request Management](components-installed-operational-technology-request-management.md).
 
 ## Procedure
 
@@ -33,5 +33,5 @@ For more information about the Operational Technology Request Management roles y
     |**Assign a role to a group**|See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).|
 
 
-**Parent Topic:**[Configuring Operational Technology Request Management](../concept/configuring-operational-technology-request-management.md)
+**Parent Topic:**[Configuring Operational Technology Request Management](configuring-operational-technology-request-management.md)
 

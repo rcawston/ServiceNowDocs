@@ -34,5 +34,5 @@ As a live agent interacting with a requester over the Apple Messages for Busines
 -   Share photos or videos.
 -   Share any files as attachments.
 
-**Note:** If an administrator has configured the Apple Messages for Business service channel for transfer of chat conversations, then you can accept a work item from the Apple Messages for Business chat conversation in your Agent Workspace Inbox. For more information, see [Transfer Apple Messages for Business chat conversations to live agents](../task/messg-apple-live-agent-conv.md) and [Service channels](../../advanced-work-assignment/concept/awa-service-channels.md).
+**Note:** If an administrator has configured the Apple Messages for Business service channel for transfer of chat conversations, then you can accept a work item from the Apple Messages for Business chat conversation in your Agent Workspace Inbox. For more information, see [Transfer Apple Messages for Business chat conversations to live agents](messg-apple-live-agent-conv.md) and [Service channels](../advanced-work-assignment/awa-service-channels.md).
 

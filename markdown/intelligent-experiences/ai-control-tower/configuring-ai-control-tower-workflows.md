@@ -19,7 +19,7 @@ Configure the AI Control Tower workflow.
 
 1.  [Activation and installation of AI Control Tower](activation-and-installation-of-ai-control-tower.md)
 2.  [Configure AI Control Tower](configuring-ai-governance.md)
-3.  [Configure multi-instance management for AI Control Tower](../task/configure-multi-instance-management-for-aict.md)
+3.  [Configure multi-instance management for AI Control Tower](configure-multi-instance-management-for-aict.md)
 
 **Note:**
 

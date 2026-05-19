@@ -75,7 +75,7 @@ nac\_promoted\_skill\_state
 
 [Domain separation and Now Assist Center](domain-separation-now-assist-center.md)
 
-[Now Assist Center glossary](../concept/now-assist-center-glossary.md#)
+[Now Assist Center glossary](now-assist-center-glossary.md#)
 
 [Now Assist Center roles](now-assist-center-roles.md#)
 

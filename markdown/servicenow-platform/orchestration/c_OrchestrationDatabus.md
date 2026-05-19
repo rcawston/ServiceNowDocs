@@ -21,7 +21,7 @@ Data is made available in a workflow when you use activities created with the [O
 
 When you drop a custom activity onto the workflow canvas, the system assigns it an index. If you delete an activity from the canvas and add a new one, the indexes are not reused. This ensures that you don’t accidentally start subscribing to data you did not intend to use. If you update an activity in the activity designer, the system automatically updates the activity on the canvas to ensure the data you are subscribing to downstream is not affected.
 
-**Parent Topic:**[Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 
 ## Reuse data in the activity designer
 

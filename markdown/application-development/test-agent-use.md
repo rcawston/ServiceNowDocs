@@ -35,7 +35,7 @@ Role required: admin
     -   Write ATF tests in the global scope by authoring tests from simple prompts, such as validating that all mandatory fields are completed before submitting the Incident form.
     -   Execute existing ATF tests.
 
-        **Note:** If you want to execute an existing ATF test using Test Agent, you're expected to create the ATF test before this process. See [Create new test](../../auto-test-framework/task/atf-tut-build-first.md#) for more information.
+        **Note:** If you want to execute an existing ATF test using Test Agent, you're expected to create the ATF test before this process. See [Create new test](automated-test-framework-atf/atf-tut-build-first.md#) for more information.
 
     -   Troubleshoot ATF test failures.
     -   Use Test Agent, an extension to building or editing apps with Build Agent, to generate ATF tests for newly built or edited functionality, run those tests, and troubleshoot failures directly within the IDE or ServiceNow Studio context.

@@ -29,7 +29,7 @@ com.snc.pa.scoresheet.max\_elements
 
 </td><td>
 
-Maximum number of [breakdown elements](../concept/performance-analytics-glossary.md#) of a breakdown that can be shown in a scoresheetDefault: 500
+Maximum number of [breakdown elements](performance-analytics-glossary.md#) of a breakdown that can be shown in a scoresheetDefault: 500
 
 </td></tr><tr><td>
 
@@ -43,9 +43,9 @@ Maximum number of elements that a breakdown can have where the Analytics Hub and
 
 -   For real-time scores, the element has never had a score.
 
--   For a formula indicator, the element has never had a score in one or more of the [contributing indicators](../concept/performance-analytics-glossary.md#).
+-   For a formula indicator, the element has never had a score in one or more of the [contributing indicators](performance-analytics-glossary.md#).
 
--   For the collected scores of an automated indicator, the element has never had a score. However, if the number of elements that would still be displayed exceeds the **com.snc.pa.breakdown\_element\_cutoff** value, only the elements that have a score or change value on the selected date are displayed. For more information and examples, see [Collected scores and com.snc.pa.breakdown\_element\_cutoff](../concept/collected-element-display-cutoff.md).
+-   For the collected scores of an automated indicator, the element has never had a score. However, if the number of elements that would still be displayed exceeds the **com.snc.pa.breakdown\_element\_cutoff** value, only the elements that have a score or change value on the selected date are displayed. For more information and examples, see [Collected scores and com.snc.pa.breakdown\_element\_cutoff](collected-element-display-cutoff.md).
 
 
  **Note:** This parameter does not affect whether unmatched elements are shown.

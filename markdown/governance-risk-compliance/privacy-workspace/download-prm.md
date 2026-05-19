@@ -21,8 +21,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
 

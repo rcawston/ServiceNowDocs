@@ -21,7 +21,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## About this task
 
-The Legal Virtual Agent Conversations application installs various [virtual agent conversation topics](../concept/legal-va-conversations.md#section_legal_va_convo) for seeking legal services.
+The Legal Virtual Agent Conversations application installs various [virtual agent conversation topics](legal-va-conversations.md#section_legal_va_convo) for seeking legal services.
 
 These virtual agent conversation topics are built using ServiceNow Virtual Agent Designer, so make sure you’re familiar with the [Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md) basics.
 
@@ -73,5 +73,5 @@ For more information, see [duplicate the topic](https://raw.githubusercontent.co
     For more information, see [Publish a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/publish-virtual-agent-topic.md).
 
 
-**Parent Topic:**[Legal Virtual Agent Conversations](../concept/legal-va-conversations.md)
+**Parent Topic:**[Legal Virtual Agent Conversations](legal-va-conversations.md)
 

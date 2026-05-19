@@ -26,7 +26,7 @@ Card view templates use the values in the **Template JSON** field to determine t
 
  Use these properties to assign a color using color variables from the UX Theme Properties \[sys\_ux\_theme\_property\] table.
 
- For details creating card templates, see [Create a card template with Mobile Card Builder](../task/mcb-create-template.md).
+ For details creating card templates, see [Create a card template with Mobile Card Builder](mcb-create-template.md).
 
 </td><td>
 

@@ -74,5 +74,5 @@ var ArticleTemplateUtil = Class.create();
                  });
 ```
 
-**Parent Topic:**[Configure knowledge article templates](../concept/configure-knowledge-article-templates.md)
+**Parent Topic:**[Configure knowledge article templates](configure-knowledge-article-templates.md)
 

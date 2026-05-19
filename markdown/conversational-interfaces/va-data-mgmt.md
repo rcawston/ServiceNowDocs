@@ -106,12 +106,12 @@ Conversation details used in Conversational Analytics. If the conversation ID is
 604,800
 
 </td></tr></tbody>
-</table>The Auto Flushes \[sys\_auto\_flush\] table lists the base system tables and their corresponding record ages. When table cleaning is activated, the Table Cleaner scheduled job triggers the table cleaner to remove the records that meet the default record age. If needed, you can change the record age for a table and specify any conditions to filter the records to be removed. For details, see [Activate table cleaning for Virtual Agent tables](../task/activate-va-table-cleaning.md).
+</table>The Auto Flushes \[sys\_auto\_flush\] table lists the base system tables and their corresponding record ages. When table cleaning is activated, the Table Cleaner scheduled job triggers the table cleaner to remove the records that meet the default record age. If needed, you can change the record age for a table and specify any conditions to filter the records to be removed. For details, see [Activate table cleaning for Virtual Agent tables](activate-va-table-cleaning.md).
 
 If a table has related child tables, the table cleaner automatically performs a cascade delete to remove the related child tables. For example, when table cleaning is activated for the Conversation \[sys\_cs\_conversation\] table, the table cleaner runs automatically when the table is 60 days \(5,184,000 seconds\) old. The table cleaner also performs a cascade delete to remove the related child tables. To learn more about table cleaning in the ServiceNow AI Platform, see [Table cleaner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-cleaner.md).
 
--   **[Activate table cleaning for Virtual Agent tables](../task/activate-va-table-cleaning.md)**  
+-   **[Activate table cleaning for Virtual Agent tables](activate-va-table-cleaning.md)**  
 Activate table cleaning for certain tables used in Virtual Agent and Conversational Interfaces.
 
-**Parent Topic:**[Conversational Interfaces reference](../../conversational-interfaces/concept/ci-reference-parent.md)
+**Parent Topic:**[Conversational Interfaces reference](ci-reference-parent.md)
 

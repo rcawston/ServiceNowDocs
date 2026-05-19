@@ -77,11 +77,11 @@ Next, activate Digital Portfolio Management to view HR services in Digital Portf
 ## Work flow
 
 1.  Activate the required applications.
-2.  [Create a service table configuration in Service Portfolio Management](../task/config-service-table.md).
+2.  [Create a service table configuration in Service Portfolio Management](config-service-table.md).
 
     **Note:** Default HR service table configuration is available for use.
 
-3.  [Configure CSDM service mappings](../task/config-csdm-ser-map.md).
+3.  [Configure CSDM service mappings](config-csdm-ser-map.md).
 
     **Note:** Demo data for HR CSDM service mappings is available for use.
 

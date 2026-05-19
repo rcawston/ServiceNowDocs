@@ -32,7 +32,7 @@ Role required: admin or survey\_admin
 4.  Clear the **Send to event creator** check box.
 
 
-**Parent Topic:**[Survey URLs](../concept/c_SurveyURLs.md)
+**Parent Topic:**[Survey URLs](c_SurveyURLs.md)
 
 **Related topics**  
 

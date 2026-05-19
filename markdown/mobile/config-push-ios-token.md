@@ -59,5 +59,5 @@ Role required: admin
 9.  On the push application form, select **Update**.
 
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](sg-mobile-push-notifications.md)
 

@@ -18,7 +18,7 @@ The ServiceNow® Advanced Risk application enables you to identify, analyze, eva
 -   Use the Risk Suggestion AI Agent to refine and confirm risks, by providing additional context and reviewing, updating, renaming, or removing suggested risks before they’re added.
 -   Use a structured workflow to draft, review, and approve control objective updates before making them active.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 

@@ -36,10 +36,10 @@ In cases where a particular SLA requires that specific SLA condition rules shoul
     **Note:** If no condition rule is defined, the global default condition rule is used.
 
 
-**Parent Topic:**[Extend SLA condition rules](../concept/c_ExtendSLAConditionRules.md)
+**Parent Topic:**[Extend SLA condition rules](c_ExtendSLAConditionRules.md)
 
 **Related topics**  
 
 
-[SLA condition rules](../concept/c_SLAConditionRules.md)
+[SLA condition rules](c_SLAConditionRules.md)
 

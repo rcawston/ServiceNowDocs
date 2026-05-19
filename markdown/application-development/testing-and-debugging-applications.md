@@ -15,7 +15,7 @@ Verify the application meets your business requirements. Your testing should cov
 
 ## Testing and debugging on Core UI
 
--   **[Automated Test Framework \(ATF\)](../../../administer/auto-test-framework/concept/atf-landing-page.md)**
+-   **[Automated Test Framework \(ATF\)](automated-test-framework-atf/atf-landing-page.md)**
 
     Create and run automated tests to confirm that your instance works after making a change. Review failed test results to identify the changes that caused the failure and the changes that you should review.
 

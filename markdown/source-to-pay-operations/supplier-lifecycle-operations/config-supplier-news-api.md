@@ -19,15 +19,15 @@ However, you have the flexibility to use any API of your choice to dynamically r
 
 The process for configuring a custom news API includes the following tasks:
 
-1.  [Create a REST message for a custom API](../task/create-custom-api-rest.md).
-2.  [Add and configure the Get News data resource in UI Builder](../task/add-config-news-data-resource.md).
-3.  [Update the field names in the UX client script](../task/update-client-script.md).
+1.  [Create a REST message for a custom API](create-custom-api-rest.md).
+2.  [Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md).
+3.  [Update the field names in the UX client script](update-client-script.md).
 
-1.  [Create a REST message for a custom API](../task/create-custom-api-rest.md)  
+1.  [Create a REST message for a custom API](create-custom-api-rest.md)  
 Create a REST message request and send it to a custom API endpoint to fetch the latest supplier news.
-2.  [Add and configure the Get News data resource in UI Builder](../task/add-config-news-data-resource.md)  
+2.  [Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)  
 Add and configure the Get News - Composite data resource in UI Builder to dynamically retrieve supplier news in the News and Activity section of the Source-to-Pay Workspace.
-3.  [Update the field names in the UX client script](../task/update-client-script.md)  
+3.  [Update the field names in the UX client script](update-client-script.md)  
 Update the field names in the UX client script to match the custom field names in the custom API response.
 
 **Parent Topic:**[News Integration for Supplier Lifecycle Operations](supp-news-integration.md)
@@ -35,9 +35,9 @@ Update the field names in the UX client script to match the custom field names i
 **Related topics**  
 
 
-[Create a REST message for a custom API](../task/create-custom-api-rest.md)
+[Create a REST message for a custom API](create-custom-api-rest.md)
 
-[Add and configure the Get News data resource in UI Builder](../task/add-config-news-data-resource.md)
+[Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)
 
-[Update the field names in the UX client script](../task/update-client-script.md)
+[Update the field names in the UX client script](update-client-script.md)
 

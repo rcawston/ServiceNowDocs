@@ -84,10 +84,10 @@ To set the time zone, the availability system property \[com.snc.availability.v2
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
 
 **Related topics**  
 
 
-[View availability results in Service Portfolio Management](../concept/SPM2-view-availability-results.md)
+[View availability results in Service Portfolio Management](SPM2-view-availability-results.md)
 

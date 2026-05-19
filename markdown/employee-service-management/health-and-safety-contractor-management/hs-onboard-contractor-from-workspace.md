@@ -19,7 +19,7 @@ Onboard a contractor to a company listed in the Health and Safety Workspace work
 
 A new contractor can be added to an existing contractor company in the company list that can be viewed in the Health and Safety Workspace.
 
-For more information about adding a contractor company, see [Add a contractor company from Health and Safety Workspace](../../hs-contractor-management/task/hs-add-contractor-company-from-workspace.md)
+For more information about adding a contractor company, see [Add a contractor company from Health and Safety Workspace](hs-add-contractor-company-from-workspace.md)
 
 ## Before you begin
 
@@ -83,7 +83,7 @@ Steps
 
 You can assign a task to the contractor or upload any documents obtained from the contractor to complete the onboarding for the contractor.
 
--   For more information to assign a task to a contractor, see [Assign a task to a contractor worker](../../hs-contractor-management/task/hs-assign-tasks-contractor-worker.md).
--   For more information to add a document for a contractor, see [Add a document to a contractor worker](../../hs-contractor-management/task/hs-add-document-contractor-worker.md).
--   To configure the Health and Safety profile for a contractor, see [Assign Health and Safety profile to a contractor worker](../../hs-contractor-management/task/hs-assign-hs-user-profile-contract-worker.md).
+-   For more information to assign a task to a contractor, see [Assign a task to a contractor worker](hs-assign-tasks-contractor-worker.md).
+-   For more information to add a document for a contractor, see [Add a document to a contractor worker](hs-add-document-contractor-worker.md).
+-   To configure the Health and Safety profile for a contractor, see [Assign Health and Safety profile to a contractor worker](hs-assign-hs-user-profile-contract-worker.md).
 

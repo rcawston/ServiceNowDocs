@@ -36,5 +36,5 @@ Role required: sn\_shift\_planning.agent
     Your peer receives a notification on the request approval status.
 
 
-**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
+**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](configurable-agent-schedule-mobile-wfo-itsm.md)
 

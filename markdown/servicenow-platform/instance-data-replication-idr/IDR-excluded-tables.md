@@ -40,12 +40,12 @@ Tables to avoid replicating:
 
 If you determine the CMDB tables must be replicated, you must use conditions to constrain the count of replicated records and ensure all required columns are included in the replication set.
 
-**Parent Topic:**[Instance Data Replication reference](../concept/reference-instance-data-replication.md)
+**Parent Topic:**[Instance Data Replication reference](reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Data privacy in Instance Data Replication](../concept/data-privacy-consumers-idr.md)
+[Data privacy in Instance Data Replication](data-privacy-consumers-idr.md)
 
 [Adapter descriptions for Instance Data Replication](adapter-descriptions.md)
 

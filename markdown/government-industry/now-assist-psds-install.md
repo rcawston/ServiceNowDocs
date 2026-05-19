@@ -74,5 +74,5 @@ Your Now Assist Admin console is successfully configured with the necessary plug
 
 ## What to do next
 
-[Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md)or [Activate a Now Assist Skill.](../concept/now-assist-psds-configure-skill.md)
+[Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md)or [Activate a Now Assist Skill.](now-assist-psds-configure-skill.md)
 

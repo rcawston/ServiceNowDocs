@@ -101,5 +101,5 @@ Reference to the template record from which you are generating a scheduled job.
 **Related topics**  
 
 
-[Create a default template](../task/create-default-templates.md)
+[Create a default template](create-default-templates.md)
 

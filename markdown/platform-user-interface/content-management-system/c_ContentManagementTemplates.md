@@ -42,14 +42,14 @@ Provide a functional reference for editors on the site project
 Having the template as a reference ensures that pages continue to conform to the style guide.
 
 </td></tr></tbody>
-</table>-   **[Page templates](../reference/r_PageTemplates.md)**  
+</table>-   **[Page templates](r_PageTemplates.md)**  
 Every page that is part of the site needs a template.
--   **[Configure a base template](../task/t_BuildAMasterTemplateStepByStep.md)**  
+-   **[Configure a base template](t_BuildAMasterTemplateStepByStep.md)**  
 An easy way to create a base template is to copy the existing ESS sample site and customize it to suit your own needs. You can also configure a base template from scratch.
--   **[Customize a copy of a page template](../task/t_CopyESS.md)**  
+-   **[Customize a copy of a page template](t_CopyESS.md)**  
 One good source for templates is the base system sample site. It is easy to copy pages and restyle them into new page templates to meet different business requirements.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](t_CreateASite.md)
 
 **Related topics**  
 

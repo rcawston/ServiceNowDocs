@@ -25,7 +25,7 @@ Task
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Public Sector Digital Services Core](../task/install-public-sector-digital-services-core.md)
+[Install Public Sector Digital Services Core](install-public-sector-digital-services-core.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Install Public Sector Digital Services Core \(sn\_gsm\) from the ServiceNow® St
 
 </td><td>
 
-Assign public sector roles to users or groups that have been configured in the ServiceNow AI Platform®. For additional role information, see [Roles installed with Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md).
+Assign public sector roles to users or groups that have been configured in the ServiceNow AI Platform®. For additional role information, see [Roles installed with Public Sector Digital Services](roles-installed-with-public-sector-digital-services.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Set up Virtual Agent so that conversation designers \(topic authors\) can create
 
 </td></tr><tr><td>
 
-[Configure a service for constituent, business, or agency](../task/configure-services-offered.md)
+[Configure a service for constituent, business, or agency](configure-services-offered.md)
 
 </td><td>
 

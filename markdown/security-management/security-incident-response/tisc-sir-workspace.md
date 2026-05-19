@@ -17,35 +17,35 @@ The following section includes information about the Threat Intelligence Securit
 
 -   **[Send data from SIR Workspace to TISC](send-sir-to-tisc.md)**  
 Learn how the data is collaborated and shared between the Threat Intelligence Security Center \(TISC\) and Security Incident Response \(SIR\) Workspaces by following the procedures explained in the following sections.
--   **[Working with TISC Context](../../secops-analyst-workspace/concept/working-with-tisc-context.md)**  
+-   **[Working with TISC Context](working-with-tisc-context.md)**  
 TISC context facilitates viewing threat intelligence data such as observables within the security incident response workspace.
--   **[Enable security incidents for vulnerabilities](../task/tisc-view-security-context.md)**  
+-   **[Enable security incidents for vulnerabilities](tisc-view-security-context.md)**  
 Access threat intelligence context for security incidents directly within the Security Incident Response Workspace. TISC context helps you understand related threats and make informed decisions during incident response.
 
-**Parent Topic:**[Working with Security Incident Records](../../secops-analyst-workspace/concept/using-analyst-workspace.md)
+**Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Security Incident Overview section](../../secops-analyst-workspace/concept/security-incident-overview.md)
+[Security Incident Overview section](security-incident-overview.md)
 
-[Security Incident Details section](../../secops-analyst-workspace/concept/security-incident-details.md)
+[Security Incident Details section](security-incident-details.md)
 
-[SIR Workspace Orchestration](../../secops-analyst-workspace/concept/security-incident-response-workspace-orchestration-activities.md)
+[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
 
-[Security Incident Response Tasks](../../secops-analyst-workspace/concept/security-incident-response-tasks.md)
+[Security Incident Response Tasks](security-incident-response-tasks.md)
 
-[Security Incident Response Other Records](../../secops-analyst-workspace/concept/security-incident-response-other-records.md#)
+[Security Incident Response Other Records](security-incident-response-other-records.md#)
 
-[Security Incident Response Post Incident Review](../../secops-analyst-workspace/concept/security-incident-response-post-incident-review.md)
+[Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../../secops-analyst-workspace/task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[Reports in Security Incident Response](../../secops-analyst-workspace/concept/report-templates-sir.md)
+[Reports in Security Incident Response](report-templates-sir.md)
 
-[Collaborate using conference call or chat in Security Incident Response](../../secops-analyst-workspace/concept/collab-sir-call-chat.md)
+[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
 
-[Viewing incident details with a relationship graph](../../secops-analyst-workspace/concept/sir-relationship-graph.md)
+[Viewing incident details with a relationship graph](sir-relationship-graph.md)
 
-[MITRE attack and defend technique graph](../../secops-analyst-workspace/concept/mitre-attack-defend-graph-sir.md)
+[MITRE attack and defend technique graph](mitre-attack-defend-graph-sir.md)
 

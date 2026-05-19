@@ -27,7 +27,7 @@ To set up this architecture, use the admin role to install the following plugins
 -   Localization Framework Hub \[com.sn.localization\_framework.hub\]. Install this plugin on the instance you designate as a hub.
 -   Localization Framework Spoke \[com.sn.localization\_framework.spoke\]. Install this plugin on the instances you designate as spokes.
 
-For more information on installation, see [Activate Localization Framework](../task/activate-lf-plugin.md).
+For more information on installation, see [Activate Localization Framework](activate-lf-plugin.md).
 
 When both plugins are installed, use the admin or localization\_admin role to configure the connection between hub and spoke instances. On the hub instance:
 

@@ -434,7 +434,7 @@ Supported
 
 </td><td>
 
-If your administrator has set the option to request the time zone from the customer, the selected date and time reflect the customer's time zone. Otherwise, they appear in the UTC time zone. For more information about the time zone setting, see [Set up Conversational Integration with Facebook Messenger](../task/messg-fbm-setup.md).
+If your administrator has set the option to request the time zone from the customer, the selected date and time reflect the customer's time zone. Otherwise, they appear in the UTC time zone. For more information about the time zone setting, see [Set up Conversational Integration with Facebook Messenger](messg-fbm-setup.md).
 
 </td></tr><tr><td>
 

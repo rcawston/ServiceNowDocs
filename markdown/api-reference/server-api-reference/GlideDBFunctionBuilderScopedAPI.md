@@ -47,7 +47,7 @@ while(gr_incident.next()) {
 
 For additional information on Function fields, see [Function field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-support-functions.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideDBFunctionBuilder - GlideDBFunctionBuilder\(\)
 

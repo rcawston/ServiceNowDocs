@@ -81,7 +81,7 @@ override fun canRequestPermission(permission: DevicePermission): Boolean =
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowSDKConfiguration - NowSDKConfiguration\(authorizationProvider: NowSDKAuthorizationProviding, permissionDelegate: DevicePermissionDelegate, logLevel: NowLogLevel\)
 

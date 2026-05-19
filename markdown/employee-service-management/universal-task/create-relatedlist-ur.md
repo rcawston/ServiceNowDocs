@@ -44,7 +44,7 @@ Role required: admin
     For more information on adding related lists, see [Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md).
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Create UI actions for your service with Universal Task](config-uiactions-for-ut.md)
 

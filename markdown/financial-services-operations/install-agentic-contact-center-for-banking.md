@@ -41,7 +41,7 @@ Role required: admin
 
 ## What to do next
 
-Configure Agentic Contact Center for Banking for your workspace. For more information, see [Configuring Agentic Contact Center for Banking](../concept/configuring-agentic-contact-center-for-banking.md).
+Configure Agentic Contact Center for Banking for your workspace. For more information, see [Configuring Agentic Contact Center for Banking](configuring-agentic-contact-center-for-banking.md).
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 

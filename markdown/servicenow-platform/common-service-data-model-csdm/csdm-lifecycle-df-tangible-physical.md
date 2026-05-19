@@ -110,5 +110,5 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
     -   **Buyout**: The asset was leased and has been purchased instead of returned. 
     -   **Lease Return**: The leased asset has been returned to the vendor at the end of its lease period.
 
-**Parent Topic:**[Life cycle of tangible/physical CIs](../concept/csdm-lifecycle-hardware.md)
+**Parent Topic:**[Life cycle of tangible/physical CIs](csdm-lifecycle-hardware.md)
 

@@ -30,14 +30,14 @@ Role required: resource\_manager
 4.  Select **Reject**.
 
 
-**Parent Topic:**[Resource allocation](../reference/r_AllocatingResources.md)
+**Parent Topic:**[Resource allocation](r_AllocatingResources.md)
 
 **Related topics**  
 
 
 [Create a resource role](create-resource-role.md)
 
-[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+[User resources and group resources](r_UserResourcesAndGroupResources.md)
 
 [Create allocations](t_AllocateWResAllocationsRelList.md)
 

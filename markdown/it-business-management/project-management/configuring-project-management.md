@@ -17,5 +17,5 @@ Learn about the process required to set up and configure Project Management to e
 
 ## Configuration overview
 
-With the Project Management application, you can plan, organize, and manage projects and resources more effectively, making it easier and faster to complete projects. To use the Project Management application, you need to install the PPM Standard plugin. For more information, see [PPM Standard \(Project Portfolio Management\)](../../project-portfolio-suite-with-financials/concept/c_ProjectPortfolioSuiteWithFinancials.md).
+With the Project Management application, you can plan, organize, and manage projects and resources more effectively, making it easier and faster to complete projects. To use the Project Management application, you need to install the PPM Standard plugin. For more information, see [PPM Standard \(Project Portfolio Management\)](../ppm-collaboration/c_ProjectPortfolioSuiteWithFinancials.md).
 

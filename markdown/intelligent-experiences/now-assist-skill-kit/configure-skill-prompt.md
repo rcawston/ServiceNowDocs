@@ -101,7 +101,7 @@ After you configure your prompt settings, you can test your skill. To learn more
 
 To learn more about configuring models and tokens, see [Now Assist Skill Kit FAQs on the ServiceNow Community.](https://www.servicenow.com/community/now-assist-articles/now-assist-skill-kit-nask-faq/ta-p/3007953)
 
-**Parent Topic:**[Configuring Now Assist Skill Kit](../concept/configuring-now-assist-skill-kit.md)
+**Parent Topic:**[Configuring Now Assist Skill Kit](configuring-now-assist-skill-kit.md)
 
 **Related topics**  
 

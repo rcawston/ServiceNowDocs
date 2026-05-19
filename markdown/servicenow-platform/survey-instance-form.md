@@ -118,5 +118,5 @@ All instance question records, which store user response values for each questio
 **Related topics**  
 
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 

@@ -79,5 +79,5 @@ This section enables you to add more relevant details about your experience by a
 </table>5.  Select **Sing up and apply** to submit your application to the opportunity owners.
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

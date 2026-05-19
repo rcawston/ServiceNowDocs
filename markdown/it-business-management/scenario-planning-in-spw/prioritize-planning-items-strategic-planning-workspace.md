@@ -18,7 +18,7 @@ Review and prioritize the items of your portfolio plan pipeline to add them to t
 
 ## Before you begin
 
--   [Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+-   [Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md).
 -   Ensure that the planning items in the Prioritization tab are sorted by the Rank column in ascending order.
 
 Role required: sn\_align\_core.apw\_user

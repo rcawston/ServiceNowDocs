@@ -38,12 +38,12 @@ You can perform the following on the architecture analyzer page:
     -   To clear all entities from the canvas and the selections made in the **Add to canvas** boxes, select the **Clear** button \(![Clear button icon](../../image/eaw-image/arch-anlyzer-clear-canvas.png)\)
     -   To download the exploration canvas in image format, select the download as an image icon \(![Download icon](../../image/eaw-image/arch-anlyzer-download-exploration.png)\)
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 
 **Related topics**  
 
 
 [Working with architecture analyzer](eaw-work-with-architecture-analyzer.md)
 
-[Create an exploration in the architecture analyzer](../../task/eaw-task/eaw-create-exploration-in-arch-analyzer.md)
+[Create an exploration in the architecture analyzer](eaw-create-exploration-in-arch-analyzer.md)
 

@@ -101,7 +101,7 @@ Display to subject person
 </td><td>
 
 Option to show or hide the activity set to the subject person of the lifecycle event case. If selected, the activity set will appear in the activity sets timeline on the HR ticket page in both portal and mobile. This is a three-part process. In addition to selecting the check box here, you must also:-   Select **Display activity sets to the subject person** for the lifecycle event type. See [Configure a lifecycle event](configure-hr-lifecycle-event-type.md) for more information.
--   Select **Show case to subject person** for the HR service that the lifecycle event is associated with. See [Configure an HR service](configure-hr-service.md) for more information.
+-   Select **Show case to subject person** for the HR service that the lifecycle event is associated with. See [Configure an HR service](../hr-service-delivery/configure-hr-service.md) for more information.
  **Note:** If not selected, the activity set will not appear in the activity sets timeline. Any associated to-dos assigned to the subject person will still appear on the HR ticket page. However, to-dos that are not assigned to the subject person will be hidden.
 
 </td></tr><tr><td>
@@ -110,7 +110,7 @@ Audience
 
 </td><td>
 
-The specific audience the activity set targets. Setting an audience for an activity set allows you to create activities within an activity set for a specific group of people. If the audience field is empty, the activity set applies to all employees.You can also use audience as a filter when using the Test Activity Sets tool. For more information, see [Using the Test Activity Sets tool for a lifecycle event activity set](../concept/hr-lifecycle-event-test-tool.md).
+The specific audience the activity set targets. Setting an audience for an activity set allows you to create activities within an activity set for a specific group of people. If the audience field is empty, the activity set applies to all employees.You can also use audience as a filter when using the Test Activity Sets tool. For more information, see [Using the Test Activity Sets tool for a lifecycle event activity set](hr-lifecycle-event-test-tool.md).
 
  **Note:** You can also define an audience at the activity level. The audience criteria for an activity set overrides the audience criteria for an activity.
 
@@ -226,7 +226,7 @@ Provide a custom script to determine when the activity set triggers.There are tw
 
  -   parentCase: Reference to parent lifecycle event case.
 -   hrTriggerUtil: Allows checking of other activity sets or dates from other types of triggers.
- The Activity Set Launcher workflow runs every four hours to verify these conditions. See [Lifecycle Events workflows](../concept/LEWorkflow.md).
+ The Activity Set Launcher workflow runs every four hours to verify these conditions. See [Lifecycle Events workflows](LEWorkflow.md).
 
 </td></tr><tr><td rowspan="3">
 

@@ -42,5 +42,5 @@ Role required: admin.
     -   Created by Field: The insert template always lists the system administrator user \(admin role\) in the Created by field regardless of whether the import includes a Created by column. Even if you provide a different user value in the template, the import process overwrites this value with the system administrator user.
     -   Blank Values: Leaving a cell blank in the insert template results in a blank value in the imported record, provided the field supports a blank value. Fields that do not support a blank value will produce a validation error if you provide a blank value.
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](c_EasyImport.md)
 

@@ -36,5 +36,5 @@ When introspective queries are enabled, GraphQL Explorer shows the schemas on th
 4.  Select **Save**.
 
 
-**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+**Parent Topic:**[Query record data using the GraphQL API framework](scripted-graph-ql.md)
 

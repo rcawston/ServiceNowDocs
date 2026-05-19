@@ -53,9 +53,9 @@ Description
 
 </td><td>
 
-Raise suspected compliance, privacy, or AI-related issues confidentially. Depending on the case type, you can choose to:-   [Report a compliance case](../../grc-compliance-case-mgmt/task/report-compliance-case-anonymously.md)
--   [Report a privacy case](../../grc-privacy-management/task/report-privacy-case-anonymously.md)
--   [Report an AI case](../../grc-ai-risk-compliance/task/report-ai-case-anon.md)
+Raise suspected compliance, privacy, or AI-related issues confidentially. Depending on the case type, you can choose to:-   [Report a compliance case](../compliance-case-management/report-compliance-case-anonymously.md)
+-   [Report a privacy case](../privacy-workspace/report-privacy-case-anonymously.md)
+-   [Report an AI case](../ai-risk-management/report-ai-case-anon.md)
 
 **Important:** After submission, download a copy of your report to record the Report key and Report number.
 
@@ -82,9 +82,9 @@ Sanitization reduces the risk of unsafe or malformed input.
 
 All reports submitted through ARC are routed to the appropriate case management team depending on the case type. The reporters appear as guests in the application workspace where records are created. A case analyst validates the details, assesses the severity, and determines the next steps for investigation.
 
--   **[Submit a report anonymously from the Anonymous Reporting Center](../task/grc-submit-report-anonymously.md)**  
+-   **[Submit a report anonymously from the Anonymous Reporting Center](grc-submit-report-anonymously.md)**  
 Use **Submit a report anonymously** on the Anonymous Reporting Center \(ARC\) landing page to raise suspected compliance, privacy, or AI-related issues confidentially.
--   **[Follow up on a report from the Anonymous Reporting Center](../task/grc-follow-up-anonymously.md)**  
+-   **[Follow up on a report from the Anonymous Reporting Center](grc-follow-up-anonymously.md)**  
 Check the status of your case on the Anonymous Reporting Center using the Report key and Report number. You must download a copy of your anonymous report after submitting a case to record these values.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)

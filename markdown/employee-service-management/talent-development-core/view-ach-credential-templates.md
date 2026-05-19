@@ -40,5 +40,5 @@ Role required: sn\_lep.achievement\_manager
 -   **[Add skill to an achievement template](add-skill-achievement.md)**  
 Associate a skill to an achievement credential template in Achievements and Credentials.
 
-**Parent Topic:**[Achievements and Credentials in Talent Development Core](../concept/achievements-and-credentials-in-td.md)
+**Parent Topic:**[Achievements and Credentials in Talent Development Core](achievements-and-credentials-in-td.md)
 

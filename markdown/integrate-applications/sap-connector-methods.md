@@ -20,21 +20,21 @@ The SAP Connector methods are available at three levels.
 -   **Application**: You can find these methods when you double-click the SAP connector object. To access these methods, do the following steps:
     1.  Add the SAP connector under the **Global Objects** in the **Project Explorer** pane.
 
-        For more information, see [Configure the SAP connector](../task/configure-the-sap-connector.md).
+        For more information, see [Configure the SAP connector](configure-the-sap-connector.md).
 
     2.  Double-click the SAP connector object.
 
         The methods appear in the Object Explorer pane.
 
 -   **Screen**: Use these methods to automate tasks on an SAP application screen that you have added. For example, automate the maximizing of an application window. To access these methods, do the following steps:
-    1.  Add one or more SAP application screens. To learn to configure, see [Configure the SAP connector](../task/configure-the-sap-connector.md).
+    1.  Add one or more SAP application screens. To learn to configure, see [Configure the SAP connector](configure-the-sap-connector.md).
     2.  Double-click the screen that you've added.
 
         The methods appear in the Object Explorer pane.
 
 -   **Element**: Use these methods to automate actions on the SAP screen UI elements, for example, a button or a check box. For example, automate the selecting of a button. To access these methods, do the following steps:
-    1.  Add one or more SAP application screens. To learn to configure, see [Configure the SAP connector](../task/configure-the-sap-connector.md).
-    2.  Capture one or more screen elements. To learn to capture, see [Use the Capture element dialog](../task/use-context-dialog.md).
+    1.  Add one or more SAP application screens. To learn to configure, see [Configure the SAP connector](configure-the-sap-connector.md).
+    2.  Capture one or more screen elements. To learn to capture, see [Use the Capture element dialog](use-context-dialog.md).
 
         The screen elements appear under the captured SAP screen.
 

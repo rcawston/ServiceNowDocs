@@ -21,7 +21,7 @@ Role required: sn\_grc.business\_user
 
 ## About this task
 
-To perform an object risk assessment, a prior knowledge of risk is not necessary. When you perform any object assessment in the Risk Workspace, you do not see the description of the risk and any reference information because the entire context of risk is not required. You can configure the risk assessment button in the object record and start the assessment. For more information, see [Any object assessment using Advanced Risk Assessment](../../grc-risk/concept/any-object-assessment.md).
+To perform an object risk assessment, a prior knowledge of risk is not necessary. When you perform any object assessment in the Risk Workspace, you do not see the description of the risk and any reference information because the entire context of risk is not required. You can configure the risk assessment button in the object record and start the assessment. For more information, see [Any object assessment using Advanced Risk Assessment](any-object-assessment.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ To perform an object risk assessment, a prior knowledge of risk is not necessary
     |**Reassign**|Select this option if the assessment must be assigned to someone else.|
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

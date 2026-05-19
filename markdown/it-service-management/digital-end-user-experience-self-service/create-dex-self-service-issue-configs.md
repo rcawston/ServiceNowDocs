@@ -27,7 +27,7 @@ Role required: sn\_dex.admin
 
 3.  Enter information about the issue, evaluation criteria, and resolution in the issue configuration form fields.
 
-    For descriptions about the issue configuration form fields, see [DEX Self-service issue configuration form](../reference/dex-self-service-issue-config-form.md).
+    For descriptions about the issue configuration form fields, see [DEX Self-service issue configuration form](dex-self-service-issue-config-form.md).
 
 4.  Verify that the issue code in the **Resolution** field is active.
 

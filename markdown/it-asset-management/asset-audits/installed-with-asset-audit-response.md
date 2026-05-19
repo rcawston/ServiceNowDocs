@@ -160,5 +160,5 @@ Evidence Remediation Task\[amg\_evidence\_remediation\_task\]
 List of remediation tasks that are generated for all evidence requests.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Asset Audit Response reference](../concept/asset-audit-response-references.md)
+</table>**Parent Topic:**[Asset Audit Response reference](asset-audit-response-references.md)
 

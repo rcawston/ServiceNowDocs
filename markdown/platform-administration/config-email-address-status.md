@@ -34,7 +34,7 @@ For detailed information on status codes and explanations of the components, see
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Email bounce management](../concept/email-bounce.md)
+**Parent Topic:**[Email bounce management](email-bounce.md)
 
 **Related topics**  
 

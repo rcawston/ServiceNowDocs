@@ -20,5 +20,5 @@ This section provides a curated list of essential ServiceNow Knowledge Base \(KB
 |[KB1157979](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1157979)|Best Practices : Vulnerability Response Implementation for better performance|Offers implementation tips and best practices to optimize the Vulnerability Response \(VR\) application, which processes millions of vulnerabilities from third-party scanners.|
 |[KB0998706](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998706)|CI matching in the Vulnerability Response|Explains how configuration items \(CIs\) are managed within the Vulnerability Response workflow.|
 
-**Parent Topic:**[Unified Security Exposure Management reference](../concept/unified-security-exposure-management-reference.md)
+**Parent Topic:**[Unified Security Exposure Management reference](unified-security-exposure-management-reference.md)
 

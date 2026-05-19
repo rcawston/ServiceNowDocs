@@ -158,5 +158,5 @@ Describe the issue with the order when prompted, review the generated summary, t
 
 After updating quantity or shipping address, you can keep the changes or undo them when prompted.
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
 

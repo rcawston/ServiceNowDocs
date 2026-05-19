@@ -42,7 +42,7 @@ You can summarize a record by launching Ask Now Assist from the home screen and 
 6.  Tap the plus icon to begin a new conversation.
 
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 
 ## Summarize a record directly from a work order task record using Now Assist in Virtual Agent
 

@@ -329,10 +329,10 @@ You must map data to all required attributes of the target class in addition to 
 
     The following system properties let you modify how IRE uses the **source\_recency\_timestamp** value in a payload to update the **last\_scan** attribute in the Source \[sys\_object\_source\] table:
 
-    -   [glide.identification\_engine.skip\_updating\_last\_scan\_if\_older](../reference/properties-id-reconciliation.md)
-    -   [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_last\_scan\_to\_now](../reference/properties-id-reconciliation.md)
+    -   [glide.identification\_engine.skip\_updating\_last\_scan\_if\_older](../configuration-management-database-cmdb/properties-id-reconciliation.md)
+    -   [glide.identification\_engine.ire\_message\_listener\_skip\_updating\_last\_scan\_to\_now](../configuration-management-database-cmdb/properties-id-reconciliation.md)
 
-For more information about how IRE uses **source\_native\_key** and **source\_recency\_timestamp** for CI identification, see [Identification and Reconciliation engine \(IRE\)](ire.md).
+For more information about how IRE uses **source\_native\_key** and **source\_recency\_timestamp** for CI identification, see [Identification and Reconciliation engine \(IRE\)](../configuration-management-database-cmdb/ire.md).
 
 ### Conditional class
 
@@ -342,7 +342,7 @@ For example, if a display name contains 'Windows', then 'Windows Server' is sele
 
 ### Associated class
 
-An associated class lets you select the CMDB class to be associated with a target non-CMDB table. Setting an associated class is required for IRE processing if the non-CMDB table is not configured for IRE processing. For a non-CMDB table that is supported and configured for IRE processing, setting an associated class is optional. See [IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md) for more information.
+An associated class lets you select the CMDB class to be associated with a target non-CMDB table. Setting an associated class is required for IRE processing if the non-CMDB table is not configured for IRE processing. For a non-CMDB table that is supported and configured for IRE processing, setting an associated class is optional. See [IRE support for non-CMDB tables](../configuration-management-database-cmdb/ire-support-non-cmdb-tables.md) for more information.
 
 The software Instance is a non-CMDB class but it does not have IRE rules associated with it. So, things we said about it here pre-Utah are still valid. But for non-CMDB classes with IRE rules it's not mandatory to have an association. For example “If the target class for mapping is a non-CMDB class with a reference to a CMDB class, you must select the CMDB class to associate the non-CMDB target class with” non-CMDB class with IRE rules Instead of “you must” it should be. “You can”. Same with the Example it's not valid for non-CMDB with IRE rules.
 
@@ -481,7 +481,7 @@ When you configure mapping for a class, relationship, or a lookup rule, those it
 
         After mapping a field of a lookup rule, you can set the Activate/Deactivate Lookup rule toggle switch for a rule, to on or off.
 
-    4.  Click **View Class Details** to view the current class in [CI Class Manager](../reference/ci-class-manager-landing-page.md).
+    4.  Click **View Class Details** to view the current class in [CI Class Manager](../configuration-management-database-cmdb/ci-class-manager-landing-page.md).
 
     5.  Click the **Transform Data** tab to navigate to the data preparation page where you can review and further transform data that you want to map.
 
@@ -647,7 +647,7 @@ Role required: cmdb\_inst\_admin
 
 Use various transforms in IntegrationHub ETL to convert and prepare source data for mapping to the CMDB.
 
-Transforms from the [Integration Commons for CMDB](integration-commons-for-cmdb.md) store app, are also available in IntegrationHub ETL.
+Transforms from the [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md) store app, are also available in IntegrationHub ETL.
 
 ### Concatenation
 

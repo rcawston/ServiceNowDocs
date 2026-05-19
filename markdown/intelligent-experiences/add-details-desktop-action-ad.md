@@ -16,7 +16,7 @@ Add desktop action details, such as name, description, and associated applicatio
 ## Before you begin
 
 -   Capture your automation steps. For more information, see [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md) or [Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md).
--   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+-   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md).
 
 Role required: sn\_aia.admin
 

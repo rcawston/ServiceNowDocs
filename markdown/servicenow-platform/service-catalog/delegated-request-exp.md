@@ -17,7 +17,7 @@ You can request a catalog item on behalf of another user or multiple users using
 
 Delegated request experience comprises of the following entities:
 
--   Requested For variable for a catalog item. For information about this variable, see [Requested For](../reference/requested-for.md#RequestedFor).
+-   Requested For variable for a catalog item. For information about this variable, see [Requested For](requested-for.md#RequestedFor).
 -   Requested For field on a requested item \(RITM\)
 
     **Note:** The form views, list views, and email notifications are not updated to reflect the Requested For field on a RITM.
@@ -106,7 +106,7 @@ When you clone a request:
     -   RITM Requested For user
     -   Requested For variable value
 
-For information about cloning requests, see [Create up to ten copies of Service Catalog request](../task/t_EnablingBulkRequests.md).
+For information about cloning requests, see [Create up to ten copies of Service Catalog request](t_EnablingBulkRequests.md).
 
 **Important:**
 
@@ -184,7 +184,7 @@ You can use parameters in ServiceNow AI Platform and Service Portal to specify t
 
 **Note:** The Requested For value is set after the catalog form is loaded.
 
--   **[Configure the default behavior to request items for other users](../task/config-default-behavior-request-other-user.md)**  
+-   **[Configure the default behavior to request items for other users](config-default-behavior-request-other-user.md)**  
 Define the default behavior when no roles are specified in the **glide.sc.req\_for.roles** property.
 
 **Parent Topic:**[Configuring Service Catalog](configuring-service-catalog.md)
@@ -192,5 +192,5 @@ Define the default behavior when no roles are specified in the **glide.sc.req\_f
 **Related topics**  
 
 
-[Types of service catalog variables](../reference/r_VariableTypes.md)
+[Types of service catalog variables](r_VariableTypes.md)
 

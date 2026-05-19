@@ -49,7 +49,7 @@ Role required: sn\_shop.shopper
         -   To perform a quick checkout with your selected product, select **Request to buy**.
         -   To save your product to your cart and continue shopping, select **Add to cart**.
 
-            **Note:** For more information on how to use your shopping cart, see [Shopping cart](../concept/shopping-cart.md).
+            **Note:** For more information on how to use your shopping cart, see [Shopping cart](shopping-cart.md).
 
             ![Order a product with quick checkout](../image/spo-order-quick-checkout.png "Order a product with quick checkout")
 
@@ -127,7 +127,7 @@ Yes
 
 </td><td>
 
-Purchase is for an existing project. Enter the project details as required.**Note:** You must have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](../concept/integration-psm-ppm.md).
+Purchase is for an existing project. Enter the project details as required.**Note:** You must have the Procurement with Project Management \(sn\_spend\_ppm\) application installed, and also have the IT Project User role. For more information, see [Sourcing and Procurement Operations integration with Project Management](integration-psm-ppm.md).
 
 </td></tr></tbody>
 </table>    6.  In the **Purchase reason** field, provide your reason for making the purchase.
@@ -136,7 +136,7 @@ Purchase is for an existing project. Enter the project details as required.**Not
 
     7.  In the **Watchlist** field, select one or more users to be added to the watchlist of the purchase request.
 
-        The users on the Watchlist receive email notifications when specific conditions are fulfilled and the purchase request status is updated. By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md).
+        The users on the Watchlist receive email notifications when specific conditions are fulfilled and the purchase request status is updated. By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](installed-with-FSC.md).
 
         **Note:** This limit for the number of users on the watchlist is applicable only while making the purchase request. You can add more users to the watchlist after the purchase request is created. However, you can add more users only at the purchase requisitions page.
 
@@ -153,8 +153,8 @@ Purchase is for an existing project. Enter the project details as required.**Not
 
     -   View the list of all purchases placed from your shopping account.
     -   Track the progress of an order, review to-dos, and so on.
-    **Note:** For more information, see [My purchases](../concept/my-purchases.md).
+    **Note:** For more information, see [My purchases](my-purchases.md).
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

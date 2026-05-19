@@ -68,5 +68,5 @@ Role required: sn\_wsd\_core.admin, sn\_wsd\_core.workplace\_manager, sn\_wsd\_s
 
 The workplace location is updated for the selected workplace profile. You can also make neighborhood-related changes on the workplace profile directly. Refer to [Add or edit a neighborhood assignment of a workplace profile](add-a-user-to-the-neighbourhood-from-the-workplace-profile.md). Neighborhood assignments are applicable if **Neighborhood** is selected as the group by or view by option in a scenario or building overview. Location assignments are applicable for all other options.
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](neighborhoods.md)
 

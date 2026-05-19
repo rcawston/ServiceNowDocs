@@ -17,7 +17,7 @@ Review this reference material for further details on File-based Discovery.
 
 ## How File-based Discovery minimizes performance impact
 
-Scanning large networks, particularly for Windows computers, can extend scan time considerably. Moreover, file scanning can create heavy CPU demands on target machines and produce large payloads that greatly increase processing time. To avoid performance issues, File-based Discovery allows you to optimize processing with many of the settings configured using the [Discovery Configuration Console](../concept/c_DiscoveryConfigurationConsole.md#).
+Scanning large networks, particularly for Windows computers, can extend scan time considerably. Moreover, file scanning can create heavy CPU demands on target machines and produce large payloads that greatly increase processing time. To avoid performance issues, File-based Discovery allows you to optimize processing with many of the settings configured using the [Discovery Configuration Console](c_DiscoveryConfigurationConsole.md#).
 
 -   **Multi-phase scan**: Probes are triggered in multiple phases to reduce long scan times. The first probe creates the scanning process on the target, which runs in the background. Subsequent probes check the progress of this scan each time Discovery runs and return the results when the scan is complete. For example, if a file scan is initiated via Quick Discovery or from a Discovery schedule, no information is returned if a background scan is still running. If the scan is finished the next time the server is discovered, the probe returns the data.
 
@@ -66,5 +66,5 @@ If you're experiencing any issues when setting up or running File-based Discover
 **Related topics**  
 
 
-[File-based Discovery](../concept/file-based-discovery.md)
+[File-based Discovery](file-based-discovery.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 Interactions are a centralized location for all communication channels available in Source-to-Pay Workspace. Interaction Management involves managing supplier-related queries from different sources, such as an email, chat, message, or SMS.
 
--   **[View or create an interaction for a supplier](../task/create-new-interaction.md)**  
+-   **[View or create an interaction for a supplier](create-new-interaction.md)**  
 Typically, an interaction record is automatically created when you accept a chat through the chat queue in the Source-to-Pay Workspace. However, you can also manually create an interaction from the list page of the Source-to-Pay Workspace. You can link an interaction record to an existing supplier case or can assign a task, which needs a supplier manager's involvement for investigation.
 -   **[Associate an interaction record to a supplier case](../task/associate-interaction-supplier-case.md)**  
 Associate an interaction record to a supplier case if your interaction is related to an existing supplier case in Source-to-Pay Workspace.
@@ -25,7 +25,7 @@ Associate an interaction record to a supplier case if your interaction is relate
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 [Manage supplier details](supp-ws-details-page.md)
 
@@ -37,19 +37,19 @@ Associate an interaction record to a supplier case if your interaction is relate
 
 [Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](accept-chat-supp-ws.md)
 
 [Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
 [Overall supplier dashboard](overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
-[View or create an interaction for a supplier](../task/create-new-interaction.md)
+[View or create an interaction for a supplier](create-new-interaction.md)
 
 [Associate an interaction record to a supplier case](../task/associate-interaction-supplier-case.md)
 

@@ -23,7 +23,7 @@ Role required: wm\_admin
 
 This video demonstrates how to create a policy for Schedule Optimization. 
 
-A policy defines the rules and priorities that guide Schedule Optimization. Policies are built from objectives and constraints, which work together to determine how tasks are assigned to agents. Objectives control how tasks are prioritized during optimization, while constraints define the mandatory conditions an assignment group must meet to be considered for a task. See [Optimization Features](../reference/hard-soft-constraints.md) for the full list of objectives and constraints.
+A policy defines the rules and priorities that guide Schedule Optimization. Policies are built from objectives and constraints, which work together to determine how tasks are assigned to agents. Objectives control how tasks are prioritized during optimization, while constraints define the mandatory conditions an assignment group must meet to be considered for a task. See [Optimization Features](../hard-soft-constraints.md) for the full list of objectives and constraints.
 
 You can use different policies for different batch or intraday configurations.
 

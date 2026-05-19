@@ -50,7 +50,7 @@ The following items are installed with Engagement Messenger:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Engagement Messenger](../reference/installed-with-engagement-messenger.md).
+For more information, see [Components installed with Engagement Messenger](../installed-with-engagement-messenger.md).
 
 ## What to do next
 
@@ -58,5 +58,5 @@ For more information, see [Components installed with Engagement Messenger](../re
 
     For more information, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
 
--   Get started with Engagement Messenger. For more information on how to get started, see [Set up Engagement Messenger](../concept/setting-up-engagement-messenger.md).
+-   Get started with Engagement Messenger. For more information on how to get started, see [Set up Engagement Messenger](setting-up-engagement-messenger.md).
 

@@ -58,7 +58,7 @@ The callout provides the definition and instructions for the current tour step, 
 -   To the left
 -   To the right
 
- You can customize the Service Portal guided tour callout colors. For more information, see [Guided Tour callout color](../reference/guided-tour-callout-color.md).
+ You can customize the Service Portal guided tour callout colors. For more information, see [Guided Tour callout color](guided-tour-callout-color.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Trigger
 
 Triggers are actions that you take to advance the tour to the next step. Triggers include pressing the Enter key, selecting or right-clicking a UI element, or selecting a **Next** button in the callout.
 
- For more information, see [GTD triggers](../reference/guided-tour-triggers.md).
+ For more information, see [GTD triggers](guided-tour-triggers.md).
 
 </td></tr><tr><td>
 

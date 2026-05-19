@@ -110,5 +110,5 @@ Specify what to do when a maintenance plan runs on a record that is already unde
     **Note:** After you define a maintenance plan and create maintenance schedules for the plan, you cannot change the **Type**, **Model**, and **Table** fields, or the **Filter conditions**. Changes could potentially cause conflicts. If you need to make changes to those fields, first delete the maintenance schedules, then recreate the schedules with the desired settings.
 
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

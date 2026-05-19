@@ -34,5 +34,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The record is reclassified to a breakdown and can be fixed, canceled or you can decide to initiate a breakdown analysis.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

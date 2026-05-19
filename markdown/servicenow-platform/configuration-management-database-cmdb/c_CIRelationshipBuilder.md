@@ -15,7 +15,7 @@ breadcrumb: [CI relationship editor, CI relationships in the CMDB, Configuration
 
 Used to define CI relationships manually, this page is a sophisticated version of the standard list collector. In the legacy CI relations formatter, click the CI relationship builder icon \(![CI relationship builder icon](../image/CIRelationshipBuilderIcon.png)\) to display the legacy Define Relationships page.
 
-For information about the latest CI relationship editor, see [CI relationship editor](../../../product/configuration-management/concept/c_RelationshipEditor.md).
+For information about the latest CI relationship editor, see [CI relationship editor](c_RelationshipEditor.md).
 
 ## Select a CI relationship type
 
@@ -79,10 +79,10 @@ This causes you to exit without saving your changes.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[CI relationship editor](../../../product/configuration-management/concept/c_RelationshipEditor.md)
+**Parent Topic:**[CI relationship editor](c_RelationshipEditor.md)
 
 **Related topics**  
 
 
-[CI relationships in the CMDB](../../../product/configuration-management/concept/c_CIRelationships.md)
+[CI relationships in the CMDB](c_CIRelationships.md)
 

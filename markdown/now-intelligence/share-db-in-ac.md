@@ -86,10 +86,10 @@ You can change the rights of whom you have shared the dashboard with in the Shar
 
 ![Rights selector for a user, group, or role that a dashboard was shared with.](../../par-for-workspace/image/db-share-rights-selector.png)
 
--   **[Dashboard sharing reference qualifiers](../../par-for-workspace/task/share-db-ref-qualifiers.md)**  
+-   **[Dashboard sharing reference qualifiers](share-db-ref-qualifiers.md)**  
 Use reference qualifiers to limit the users, groups, and roles in the recipients field of shared dashboards.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -98,13 +98,13 @@ Use reference qualifiers to limit the users, groups, and roles in the recipients
 
 [Edit Platform Analytics dashboards](edit-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](duplicate-db.md#)
 
 [Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
 
 [Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
 
 [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
 

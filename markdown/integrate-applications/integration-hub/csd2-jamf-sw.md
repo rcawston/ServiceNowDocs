@@ -17,7 +17,7 @@ Using the applications discovered on the Jamf server, set up a software model to
 
 ## Before you begin
 
-Before creating software models, you must discover the applications available for deployment on the Jamf server. See [CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md) for more information.
+Before creating software models, you must discover the applications available for deployment on the Jamf server. See [CSD 2.0 for Jamf](csd2-jamf-tsk.md) for more information.
 
 Perform these steps when you set up a software model for the Jamf application and policy.
 
@@ -51,5 +51,5 @@ You can link a Jamf application to an existing software model or create a new mo
         The view returns to the Jamf Applications list.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](csd2-jamf-tsk.md)
 

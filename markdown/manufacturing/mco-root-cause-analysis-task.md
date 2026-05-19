@@ -25,7 +25,7 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 
 3.  On the Root Cause Analysis Task form, fill in the fields.
 
-    For a description of the field values, see [Root cause analysis task form](../reference/mco-root-cause-analysis-task-form.md).
+    For a description of the field values, see [Root cause analysis task form](mco-root-cause-analysis-task-form.md).
 
 4.  Select **Save**.
 
@@ -46,7 +46,7 @@ Associate a cause to a RCA for the root cause analysis of the product non-confor
 **Related topics**  
 
 
-[Notes form](../reference/mco-notes.md)
+[Notes form](mco-notes.md)
 
-[Resolution information form](../reference/mco-resolution-information-form.md)
+[Resolution information form](mco-resolution-information-form.md)
 

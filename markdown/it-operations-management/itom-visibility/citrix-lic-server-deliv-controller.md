@@ -20,7 +20,7 @@ Discovery can find Citrix License Server instances and Delivery Controller compo
 ## Requirements
 
 -   Configure [Windows administrative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) to access the host machine.
--   Make sure that [PowerShell for Discovery](../reference/r_PowerShellForDiscovery.md) is installed on your MID Servers. The patterns used for Citrix discovery require the ability to run PowerShell commands.
+-   Make sure that [PowerShell for Discovery](../discovery/r_PowerShellForDiscovery.md) is installed on your MID Servers. The patterns used for Citrix discovery require the ability to run PowerShell commands.
 -   For OS users, make sure you can execute “Get-XDSite.” The Citrix Studio Admin should provide permissions.
 -   \(Optional\) For top-down discovery with Service Mapping, on Citrix Delivery Controller, install the Citrix.Broker module.
 -   \(Optional\) For top-down discovery with Service Mapping, a user with permission to run PowerShell commands.

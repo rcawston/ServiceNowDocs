@@ -180,5 +180,5 @@ With **Match All** selected, only users that meet all of these conditions are ma
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configure user criteria for reassigning assessments](../concept/configure-user-criteria-for-reassigning-assessments.md)
+**Parent Topic:**[Configure user criteria for reassigning assessments](configure-user-criteria-for-reassigning-assessments.md)
 

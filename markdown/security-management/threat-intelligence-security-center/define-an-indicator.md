@@ -568,5 +568,5 @@ List of external references that describes this indicator.
 2.  Also, from the **Related Records** section, you can confirm the relationships between two Observables using the **Potential Relationships** section available on the **Indicators** form view. For more information on see, [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md).
 3.  You can add indicators to cases. For more information, see [Add to Case](add-to-case.md).
 
-**Parent Topic:**[Indicators](../concept/indicator.md)
+**Parent Topic:**[Indicators](indicator.md)
 

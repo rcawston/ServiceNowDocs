@@ -17,7 +17,7 @@ All employees in an organization can access the Employee portal using the Critic
 
 To access the employee portal, log in to the employee center and navigate to **Health and Safety** &gt; **Workplace Emergency**. All employees are assigned the sn\_critical.user role automatically. This role enables the employee to report an emergency and view emergency procedures.
 
-To learn about reporting an emergency as an employee, see [Report a critical event as an employee](../task/report-a-critical-event-as-an-employee.md).
+To learn about reporting an emergency as an employee, see [Report a critical event as an employee](report-a-critical-event-as-an-employee.md).
 
 ## Emergency procedures
 

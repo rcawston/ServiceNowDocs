@@ -47,15 +47,15 @@ Save courses of interest to your personal collection for easy access and to plan
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](resume-course.md)
 
 [Create a Learning challenge](learning-challenge.md)
 
 [View recent activity](view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](assign-learning-lxp.md)
 
 [Manage Learning](manage-learning-achievements.md)
 

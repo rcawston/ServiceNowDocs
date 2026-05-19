@@ -17,7 +17,7 @@ View, edit, and update the details of stories assigned for the current sprint on
 
 On your mobile device, open the Mobile Agent app and navigate to Agile Development v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
 
-**Parent Topic:**[Mobile experience for Agile Development 2.0](../concept/agile-2-mobile-app-overview.md)
+**Parent Topic:**[Mobile experience for Agile Development 2.0](agile-2-mobile-app-overview.md)
 
 ## Tracking stories on Agile Development v2
 

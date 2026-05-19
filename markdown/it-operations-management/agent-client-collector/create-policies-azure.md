@@ -186,5 +186,5 @@ Value that you enter \(**-c**\) to indicate that the check retrieves the name of
 
 The configured policy retrieves the resources and their metrics from the specified Azure CI and sends them to the agent.
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
 

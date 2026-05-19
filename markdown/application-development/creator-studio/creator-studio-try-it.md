@@ -57,10 +57,10 @@ After you submit your responses, the ServiceNow AI Platform runs any playbooks a
 
 The record that your submitted form creates appears in Creator Studio. You can view the results of the playbooks and interact with the record to see how it appears in the Request App Workspace.
 
--   Answers to the form's questions \(which are catalog variables\) appear on the **Details** tab of the submitted record. For more on form questions, see [Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md).
--   Results of any playbooks appear on the **Automations** tab of the submitted record. For more on playbooks, see [Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md).
+-   Answers to the form's questions \(which are catalog variables\) appear on the **Details** tab of the submitted record. For more on form questions, see [Working with forms in Creator Studio](creator-studio-work-with-forms.md).
+-   Results of any playbooks appear on the **Automations** tab of the submitted record. For more on playbooks, see [Working with automation in Creator Studio](creator-studio-working-with-automations.md).
 
 For details, see [Preview how an app's records appear](creator-studio-preview-record.md).
 
-**Parent Topic:**[Testing and previewing Creator Studio apps and records](../concept/creator-studio-testing-apps.md)
+**Parent Topic:**[Testing and previewing Creator Studio apps and records](creator-studio-testing-apps.md)
 

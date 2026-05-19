@@ -33,5 +33,5 @@ The results for the class you selected are displayed in a filtered list.
 -   **[View components installed with Security Support Common](installed-with-secops-common-NEW.md)**  
 Several types of components are installed when you activate the Security Support Common plugin including but not limited to tables, user roles, and modules.
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
 

@@ -93,5 +93,5 @@ Analytics Library Scan Executions
 Stores the logs of the scheduled library management jobs
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics experience reference](../concept/platform-analytics-exp-reference.md)
+</table>**Parent Topic:**[Platform Analytics experience reference](platform-analytics-exp-reference.md)
 

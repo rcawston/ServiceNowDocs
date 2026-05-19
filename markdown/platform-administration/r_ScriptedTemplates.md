@@ -72,22 +72,22 @@ To apply a template using a sys\_id, use the following method.
 GlideTemplate.get(template.sys_id).apply(GlideRecord)
 ```
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](../task/t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](t_CreateATemplateUsingTheTmplForm.md)
 
-[Create templates for related task records](../task/create-templates-for-related-task-records.md)
+[Create templates for related task records](create-templates-for-related-task-records.md)
 
-[Create a template by saving a form](../task/t_SaveAFormAsATemplateInUI16OrUI15.md)
+[Create a template by saving a form](t_SaveAFormAsATemplateInUI16OrUI15.md)
 
-[Schedule record creation from a template](../task/t_ScheduleATemplate.md)
+[Schedule record creation from a template](t_ScheduleATemplate.md)
 
-[Create a module for a template](../task/t_CreateAModuleForATemplate.md)
+[Create a module for a template](t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](template-bar.md)
 
-[Toggle the template bar](../task/t_ToggleTheTemplateBar.md)
+[Toggle the template bar](t_ToggleTheTemplateBar.md)
 

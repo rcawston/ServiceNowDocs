@@ -71,10 +71,10 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
         Select the **Add Task** icon.
 
-        The **Create New Automation Task** form is displayed. For more information, see [Automation task form](../reference/automation-task-form.md).
+        The **Create New Automation Task** form is displayed. For more information, see [Automation task form](automation-task-form.md).
 
         Verify that the associated automation request is either in the **Planned** or **In Progress** state.
 
 
-**Parent Topic:**[Automation Center Kanban board](../concept/kanban.md)
+**Parent Topic:**[Automation Center Kanban board](kanban.md)
 

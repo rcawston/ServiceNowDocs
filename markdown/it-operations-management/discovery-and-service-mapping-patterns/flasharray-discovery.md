@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Running Discovery
 
-To run discovery using Patterns, create a discovery schedule that targets the management IP address of the FlashArray storage. For more information, see [Running discoveries in your network](running-discoveries.md).
+To run discovery using Patterns, create a discovery schedule that targets the management IP address of the FlashArray storage. For more information, see [Running discoveries in your network](../discovery/running-discoveries.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -315,5 +315,5 @@ Operational status of the resource. Default value is Operational.
 |Storage Volume \[cmdb\_ci\_storage\_volume\]|Contains::Contained by|Storage Server \[cmdb\_ci\_storage\_server\]|
 |Storage Volume \[cmdb\_ci\_storage\_volume\]|References|Storage Pool \[cmdb\_ci\_storage\_pool\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../../service-mapping/concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

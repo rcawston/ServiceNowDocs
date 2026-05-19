@@ -36,7 +36,7 @@ Use the Assessment Workspace to perform the following actions:
 -   Publish draft templates to make them available for use in assessments.
 -   Create assessment templates to support custom assessment requirements.
 
-**Note:** You must publish a template before you can initiate assessments that use it. For more information, see [Publish the assessment templates](../task/publish-the-assessment-templates.md). For more information on creating and editing assessments using Smart Assessment Engine, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md) and [Post-assessment automations](../../assessment-engine/concept/impact-automation.md).
+**Note:** You must publish a template before you can initiate assessments that use it. For more information, see [Publish the assessment templates](publish-the-assessment-templates.md). For more information on creating and editing assessments using Smart Assessment Engine, see [Create an assessment template](../smart-assessment-engine/sae-asmnt-template-create.md) and [Post-assessment automations](../smart-assessment-engine/impact-automation.md).
 
 ## Assessment template structure
 
@@ -137,7 +137,7 @@ Business configuration enables organizations to tailor assessment automation and
 
     After configuration, complete a test assessment and verify that the expected control objectives and risk statements are generated and mapped to the AI system once the assessment is marked as Closed complete.
 
-    For more information on post-assessment automations and configurations, see [Post-assessment automations](../../assessment-engine/concept/impact-automation.md) and [Configure post-assessment actions](../../assessment-engine/task/configure-post-assessment-actions.md).
+    For more information on post-assessment automations and configurations, see [Post-assessment automations](../smart-assessment-engine/impact-automation.md) and [Configure post-assessment actions](../smart-assessment-engine/configure-post-assessment-actions.md).
 
 -   **Post-assessment action configuration example**
 
@@ -195,14 +195,14 @@ Business configuration enables organizations to tailor assessment automation and
 
     To define the default RAM used for risk assessments across AI systems, set the `sn_grc_ai_gov.aisystem_primary_ram` property.
 
-    For more information, see [Set up AI Risk and Compliance properties](../task/configure-airc-properties.md).
+    For more information, see [Set up AI Risk and Compliance properties](configure-airc-properties.md).
 
-    **Important:** To enable risk score roll-up across AI assets, install the Advanced Risk application and set the Migrate to Advanced Risk Assessments property to Yes. This is a one-way configuration change that permanently transitions risk calculation and roll-up behavior to the Advanced Risk framework. See [Set up Advanced Risk assessments properties](../task/advanced-risk-assessments-properties-airc.md).
+    **Important:** To enable risk score roll-up across AI assets, install the Advanced Risk application and set the Migrate to Advanced Risk Assessments property to Yes. This is a one-way configuration change that permanently transitions risk calculation and roll-up behavior to the Advanced Risk framework. See [Set up Advanced Risk assessments properties](advanced-risk-assessments-properties-airc.md).
 
 
 ## Assessment templates
 
-The following table lists assessment templates available for AI systems, AI models, and AI cases. Templates delivered with AI Risk and Compliance are provided in **Draft** state. A user with the AI Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role publishes draft templates through the Assessment Workspace. For instructions, see [Publish the assessment templates](../task/publish-the-assessment-templates.md).
+The following table lists assessment templates available for AI systems, AI models, and AI cases. Templates delivered with AI Risk and Compliance are provided in **Draft** state. A user with the AI Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\] role publishes draft templates through the Assessment Workspace. For instructions, see [Publish the assessment templates](publish-the-assessment-templates.md).
 
 |Name|Description|Applies to|Default state|When to use|
 |----|-----------|----------|-------------|-----------|

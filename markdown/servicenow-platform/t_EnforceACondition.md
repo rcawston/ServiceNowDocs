@@ -32,10 +32,10 @@ The system can be configured so you can trigger the deletion of assessable recor
     The system does not automatically delete assessable records, even if the **Enforce condition** check box is selected. You must click **Generate Assessable Records** with the check box selected every time you want the system to delete non-matching assessable records.
 
 
-**Parent Topic:**[Assessable records](../concept/c_assessable-records.md)
+**Parent Topic:**[Assessable records](c_assessable-records.md)
 
 **Related topics**  
 
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

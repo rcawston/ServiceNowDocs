@@ -30,10 +30,10 @@ Role required: sn\_telecom\_c360.admin
     |Enable proactive trigger|This variable is enabled by default. If this variable is inactive, the insights are not automatically generated when you open the customer or consumer account. After you open the account, select **Generate telecom customer 360 insights** to generate the insights for the account.|
 
 
-**Parent Topic:**[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](c360-configure-variables.md)
 
 **Related topics**  
 
 
-[Insights card](../concept/c360-insights-card.md)
+[Insights card](c360-insights-card.md)
 

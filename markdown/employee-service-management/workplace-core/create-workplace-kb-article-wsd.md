@@ -155,5 +155,5 @@ The knowledge base article is created.
 
 Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](publish-workplace-kb-article-wsd.md).
 
-**Parent Topic:**[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+**Parent Topic:**[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 

@@ -29,5 +29,5 @@ The stockroom type has two significant characteristics.
 |stockroom|Warehouse|6|True| |A regional stockroom.|
 |central\_stockroom|Central Warehouse|7|True| |A central stockroom, usually a large facility from which most parts are shipped.|
 
-**Parent Topic:**[Hardware Asset Management reference](../../hardware-asset-management/concept/reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

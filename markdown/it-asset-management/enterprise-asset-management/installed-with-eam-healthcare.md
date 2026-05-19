@@ -85,10 +85,10 @@ sn\_eam.enterprise\_asset\_technician
 |Risk Heat Map \(com.sn\_risk\_heatmap\)|Provides a heatmap component that enables you to visualize the risk posture of your organization.|
 |Geo Map Component \(com.sn\_geo\_map\)|Provides the capability to track the location of the assets using indoor maps.|
 
-**Parent Topic:**[Enterprise Asset Management for Healthcare](../concept/eam-for-healthcare.md)
+**Parent Topic:**[Enterprise Asset Management for Healthcare](eam-for-healthcare.md)
 
 **Related topics**  
 
 
-[Install Enterprise Asset Management for healthcare](../task/install-eam-for-healthcare.md)
+[Install Enterprise Asset Management for healthcare](install-eam-for-healthcare.md)
 

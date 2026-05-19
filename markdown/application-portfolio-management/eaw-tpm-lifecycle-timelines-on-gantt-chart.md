@@ -53,7 +53,7 @@ Similarly, the TPM phase start date of the business application is considered as
 
 ## TPM risk calculation
 
-The TPM view also displays the upcoming TPM risks associated with any application services, based on their lifecycle dates. To calculate the risk associated with an application service, run the **Populate Technology Lifecycle Risks** scheduled job. For more details, see [Schedule a job to generate TPM technology risk](../../task/eaw-task/eaw-schedule-job-generate-tpm-risk.md). To learn more about technology lifecycle risk, see .
+The TPM view also displays the upcoming TPM risks associated with any application services, based on their lifecycle dates. To calculate the risk associated with an application service, run the **Populate Technology Lifecycle Risks** scheduled job. For more details, see [Schedule a job to generate TPM technology risk](eaw-schedule-job-generate-tpm-risk.md). To learn more about technology lifecycle risk, see .
 
 The hardware model and software product risk scores are derived from the TPM Technology Risk table \(sn\_apm\_tpm\_technology\_risk\). The risk values are rolled up to the application service level. The highest risk value of hardware models and software products associated with a single application service is considered the risk value of that application service. For example, application service A consists of two hardware models and three software products. The two hardware models have moderate risk while the two software products have low risk. However, one software product has high risk. In this scenario, the risk value of the application service is considered high.
 
@@ -76,5 +76,5 @@ To see the colors associated with each TPM risk type in the Upcoming TPM risk co
 **Related topics**  
 
 
-[View TPM and TRM lifecycle timelines on the Gantt chart](../../task/eaw-task/eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
+[View TPM and TRM lifecycle timelines on the Gantt chart](eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md)
 

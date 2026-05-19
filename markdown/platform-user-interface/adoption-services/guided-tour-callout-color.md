@@ -28,5 +28,5 @@ Customize Guided Tours callout colors in Service Portal.
 **Related topics**  
 
 
-[Create a portal theme](../../service-portal/concept/c_CustomCSS.md)
+[Create a portal theme](../service-portal/c_CustomCSS.md)
 

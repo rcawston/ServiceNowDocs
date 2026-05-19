@@ -27,9 +27,9 @@ You can use this API for the following tasks:
 
 The Cloud Runner Test Runner API may be used in tandem with the [Cloud Runner Test Generation REST API](cloudrunner-testgeneration-api.md#) and [Cloud Runner Test User REST API](cloudrunner-testuser-api.md#). For instance, you can generate a test \(Cloud Runner Test Generation API\) and then get the progress of the test in the browser orchestration queue \(Cloud Runner TEST Generation API\) and check the number of tests that passed or failed.
 
-To view the Server API reference documentation of this API, see [Cloud Runner TestUserApi – Scoped, Global](../../../app-store/dev_portal/API_reference/CloudRunnerAPI-TestUserAPIScoped/concept/cloudrnr-TestUserAPI-scoped.md#).
+To view the Server API reference documentation of this API, see [Cloud Runner TestUserApi – Scoped, Global](../server-api-reference/cloudrnr-TestUserAPI-scoped.md#).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## Cloud Runner Test User - GET /now/sn\_atf\_tg/test\_user\_progress
 
@@ -70,7 +70,7 @@ Table: BOQ \[sn\_atf\_tg\_sn\_boq\]
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -95,7 +95,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table id="table_u3v_zh3_j1c"><thead><tr><th>
 
@@ -401,7 +401,7 @@ Required. Username of the sys\_user to test the end-to-end infrastructure of the
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table id="table_xh4_cfj_41c" class="rest_api_request_headers"><thead><tr><th>
 
@@ -434,7 +434,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 <table><thead><tr><th>
 
@@ -765,7 +765,7 @@ Required. User name of the sys\_user to test and set the cloud user for future t
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](../rest-api-explorer/c_RESTAPI.md).
 
 <table id="table_g43_2fj_41c" class="rest_api_request_headers"><thead><tr><th>
 
@@ -798,7 +798,7 @@ Data format of the request body. Supported types: **application/json** or **appl
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](../rest-api-explorer/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

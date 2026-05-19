@@ -29,7 +29,7 @@ Role required: data\_privacy\_clone\_processor, data\_privacy\_admin, and admin
 
 2.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 3.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Privacy Policy Configuration**.
 

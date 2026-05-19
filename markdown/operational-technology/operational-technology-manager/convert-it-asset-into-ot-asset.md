@@ -48,5 +48,5 @@ The selected IT hardware device has been converted to an OT device.
 
 Alternatively, you can select multiple IT hardware devices and convert them into OT devices in a bulk edit. For more information, see [Convert IT hardware to OT devices in a bulk edit](bulk-edit-to-convert-it-records-into-ot-records.md).
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](ot-assets-related-links-and-lists.md)
 

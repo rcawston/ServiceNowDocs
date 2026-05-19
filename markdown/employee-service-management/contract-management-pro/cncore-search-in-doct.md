@@ -38,5 +38,5 @@ Role required: sn\_cm\_core.contract\_config
 
 Any contract template that has the keyword is listed.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](cncore-use-cmpro.md)
 

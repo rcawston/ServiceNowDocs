@@ -58,5 +58,5 @@ When the SOAP message is constructed from the hierarchical web service described
 </soapenv:Envelope>
 ```
 
-**Parent Topic:**[Insert related records using SOAP](../task/t_InsertRelatedRecordsUsingSOAP.md)
+**Parent Topic:**[Insert related records using SOAP](t_InsertRelatedRecordsUsingSOAP.md)
 

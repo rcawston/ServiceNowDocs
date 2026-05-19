@@ -42,5 +42,5 @@ If the indicator is linked to a benchmark indicator, select **Benchmarks** to co
 **Related topics**  
 
 
-[Link an automated indicator to a benchmark](../task/link-automated-indicator-benchmark.md)
+[Link an automated indicator to a benchmark](link-automated-indicator-benchmark.md)
 

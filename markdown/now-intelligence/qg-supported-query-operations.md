@@ -38,5 +38,5 @@ The following encoded query operators are supported for creating context objects
 -   "ON"
 -   "INSTANCEOF"
 
-**Parent Topic:**[Query Generation reference](../concept/query-generation-reference.md)
+**Parent Topic:**[Query Generation reference](query-generation-reference.md)
 

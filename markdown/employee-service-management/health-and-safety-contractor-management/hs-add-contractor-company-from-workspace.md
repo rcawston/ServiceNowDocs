@@ -59,7 +59,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
     -   Select **Add** to link an existing document stored in the **Health and Safety document library** list.
     -   Select **New** to upload a new document.
-    For information on storing safety-related documents in Health and Safety Workspace, see [Add a new Health and Safety related document](../../ohs-incident-management/task/add-hs-related-document.md).
+    For information on storing safety-related documents in Health and Safety Workspace, see [Add a new Health and Safety related document](../health-and-safety-core/add-hs-related-document.md).
 
 -   In the **Site access** tab, select **New** to grant site access to workers from this contractor company so that they can perform required tasks at your location.
 

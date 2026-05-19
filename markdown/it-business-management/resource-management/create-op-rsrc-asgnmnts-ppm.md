@@ -25,7 +25,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 2.  On the Resource Assignment form, fill in the fields.
 
-    For a description of the field names, see [Resource assignment form](../reference/resource-assignment-form.md).
+    For a description of the field names, see [Resource assignment form](resource-assignment-form.md).
 
 3.  Select **Submit**.
 
@@ -34,5 +34,5 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 Operational resource assignment is created. You can navigate to **All** &gt; **Resource Assignment** &gt; **Operational Resource Assignments** view the list of operational resource assignments.
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

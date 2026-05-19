@@ -33,7 +33,7 @@ The **Financials** tab provides a detailed breakdown of the cost components of a
 
 ## Procedure
 
-1.  [Open](access-the-project-workspace.md) the required project in [project workspace](../concept/project-workspace-classic.md).
+1.  [Open](access-the-project-workspace.md) the required project in [project workspace](project-workspace-classic.md).
 
 2.  Click the **Financials** tab.
 
@@ -99,5 +99,5 @@ The **Financials** tab provides a detailed breakdown of the cost components of a
 -   **[Configure a widget for project financial metrics](configure-widget-project-financials.md)**  
 Configure a widget to view and track the financial metrics of a project on the **Financials** tab of the Project Workspace page.
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

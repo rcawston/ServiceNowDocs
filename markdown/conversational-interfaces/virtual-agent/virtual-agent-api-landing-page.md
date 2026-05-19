@@ -31,7 +31,7 @@ The ServiceNow® Virtual Agent API is a REST API built on ServiceNow's conversat
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Virtual Agent.](../reference/virtual-agent-api-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Virtual Agent.](virtual-agent-api-reference.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Virtual Agent API](explore-virtual-agent-api.md)**  
@@ -40,7 +40,7 @@ Use the ServiceNow® Virtual Agent API app to integrate any chat interface or a 
 Configure Virtual Agent API to connect ServiceNow Virtual Agent and Live Agent with any conversational interface.
 -   **[Using Virtual Agent API](use-virtual-agent-api.md)**  
 Virtual Agent API enables ServiceNow developers, advanced users, and admins to use Virtual Agent with an enterprise or any other third-party chat interface that supports conversational interfaces or as a secondary bot in an environment with multiple, specialized bots managed by a primary bot.
--   **[Virtual Agent API reference](../reference/virtual-agent-api-reference.md)**  
+-   **[Virtual Agent API reference](virtual-agent-api-reference.md)**  
 Reference topics provide information about troubleshooting common errors, logs, and debugging while using Virtual Agent API.
 
 **Parent Topic:**[Building and deploying Virtual Agent](using-virtual-agent.md)

@@ -57,12 +57,12 @@ Click **Assign Survey** and select one or more users, and then click **OK**.
 </table>    The system creates a survey instance assigned to the user or users, assuming the user is eligible to receive a new survey instance. When you use the **Assign Survey** button, the selected user is not saved as a survey user.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](email-notification-for-surveys.md)
 
 [Define a recipients list for surveys](define-recipient-list.md)
 
@@ -72,11 +72,11 @@ Click **Assign Survey** and select one or more users, and then click **OK**.
 
 [Enable localization for a survey](enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](c_SurveyURLs.md)
 
 [Create a survey module](t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](c_SurveyInportAndExport.md)
 
 [Configure a survey in the Connect chat support](take-survey-connect-chat.md)
 

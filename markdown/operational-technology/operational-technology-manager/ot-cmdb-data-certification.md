@@ -114,5 +114,5 @@ Review the policy in detail and select **Publish Policy**.
 
 You can view the policy in the **Published Policies** section on the main page after publishing.
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 

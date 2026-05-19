@@ -83,5 +83,5 @@ The website URL of the local union chapter.
     **Note:** For more information on **Labor Union Contacts**, see [Create union contacts](labor-union-contacts.md). For more information on **Employee Union Memberships**, see [Create employee union memberships](labor-union-employee-membership.md).
 
 
-**Parent Topic:**[Setting up labor unions](../concept/labor-unions-setting-up.md)
+**Parent Topic:**[Setting up labor unions](labor-unions-setting-up.md)
 

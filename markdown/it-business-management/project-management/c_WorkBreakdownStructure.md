@@ -17,11 +17,11 @@ The work breakdown structure \(WBS\) is a hierarchical representation of all the
 
 **Important:**
 
-Work breakdown structure \(WBS\) is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
+Work breakdown structure \(WBS\) is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](../project-workspace/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
 
 Use the WBS to get a quick overview of the entire project, including the tasks and subtasks nested in the project. The Gantt chart gives you a similar overview using graphical elements like lines and bars to show dependencies and lengths of tasks. The WBS is more data-driven, presenting a wide variety of task information in expandable rows.
 
-You can view the WBS on the planning console, or as a related list on the Project or Project Task form. See [Open the project planning console](../task/t_OpenPlanningConsole.md) or [Access the WBS as a related list](../task/t_AccessTheWBSAsARelatedList.md).
+You can view the WBS on the planning console, or as a related list on the Project or Project Task form. See [Open the project planning console](t_OpenPlanningConsole.md) or [Access the WBS as a related list](t_AccessTheWBSAsARelatedList.md).
 
 When the WBS is viewed as a related list on the Project or Project task form, several important columns from the table appear by default.
 
@@ -33,7 +33,7 @@ When the WBS is viewed as a related list on the Project or Project task form, se
 
 Other useful information also appears by default, such as the description and percentage complete. You can personalize the list like any other list by selecting the personalize list icon \(![personalize list icon](../image/PersonalizedListIcon.png)\) and selecting the columns you want to view.
 
--   **[Access the WBS as a related list](../task/t_AccessTheWBSAsARelatedList.md)**  
+-   **[Access the WBS as a related list](t_AccessTheWBSAsARelatedList.md)**  
 You can view the WBS as a related list on both the Project and Project Task forms.
 
 **Parent Topic:**[Using Project Management](using-project-management.md)
@@ -41,5 +41,5 @@ You can view the WBS as a related list on both the Project and Project Task form
 **Related topics**  
 
 
-[Access the WBS as a related list](../task/t_AccessTheWBSAsARelatedList.md)
+[Access the WBS as a related list](t_AccessTheWBSAsARelatedList.md)
 

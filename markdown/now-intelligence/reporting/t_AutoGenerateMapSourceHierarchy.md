@@ -51,12 +51,12 @@ Role required: report\_admin or admin
 
 The map source is ready to use in a map report.
 
-**Parent Topic:**[Map report administration](../concept/c_AdministeringMapReports.md)
+**Parent Topic:**[Map report administration](c_AdministeringMapReports.md)
 
 **Related topics**  
 
 
-[Map report objects](../concept/c_MapReportObjects.md)
+[Map report objects](c_MapReportObjects.md)
 
 [Customize a map source level](t_CustomizeAMapSourceLevel.md)
 

@@ -52,7 +52,7 @@ The following example shows a service request card view with a list of all activ
 
 ![Service request card view that shows a list of all active service request case records.](../image/psds-mobile-agent-case-card-list.png "Mobile Agent Service Request Case card list")
 
-The cases in the list are displayed as cards, and the state of the case is displayed at the top of the card. For more information on the case states, see [Life cycle of a Public Service case](../reference/government-service-case-states.md).
+The cases in the list are displayed as cards, and the state of the case is displayed at the top of the card. For more information on the case states, see [Life cycle of a Public Service case](government-service-case-states.md).
 
 Select a card to see the case record details. For example, you can see the case activity, related lists, and case escalations, if any.
 
@@ -60,7 +60,7 @@ You can narrow down or sort the list of cases by using the filter icon \(![Filte
 
 ## Service Request case cards in the Mobile Agent app
 
-The case cards in the Mobile Agent app display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of service request case fields and their descriptions, see [Service Request case form](../reference/service-request-case-form-new.md#).
+The case cards in the Mobile Agent app display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of service request case fields and their descriptions, see [Service Request case form](service-request-case-form-new.md#).
 
 The following example shows the case details card view. In this view, you can see the case number, case opened date, application type, priority, constituent, channel, primary purpose, and which agency is assigned to the case.
 
@@ -82,7 +82,7 @@ For more information on the agent tasks in the Mobile Agent app, see [Using the 
 
 ## Information Request case cards in the Mobile Agent
 
-The case cards in the Mobile Agent display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of information request case fields and their descriptions, see [Information Request case form](../reference/information-request-case-form.md#).
+The case cards in the Mobile Agent display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of information request case fields and their descriptions, see [Information Request case form](information-request-case-form.md#).
 
 The following example shows the case details card view. In this view, you can see the case number, case opened date, application type, priority, contact, channel, primary purpose, and which agency is assigned to the case.
 

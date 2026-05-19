@@ -36,5 +36,5 @@ If you no longer need your PDI or you are not going to be able to use it for an 
     4.  Click the **Release instance** button.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

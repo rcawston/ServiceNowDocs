@@ -17,7 +17,7 @@ Define building time zones, change the capacity of an arrival schedule, and set 
 
 ## Before you begin
 
--   [Add your workplace data](../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
+-   [Add your workplace data](../workplace-core/providing-your-workplace-data-wsd.md).
 -   Ensure that you have the data for the arrival schedules of your workplace locations.
 -   Ensure that your time zone is set to the time zone of the building that is used for the arrival.
 
@@ -67,5 +67,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 The arrival schedule is updated.
 
-**Parent Topic:**[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace.md)
+**Parent Topic:**[Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace.md)
 

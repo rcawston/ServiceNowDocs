@@ -32,5 +32,5 @@ Some modules in the Emergency Self Report application are affected by domain sep
     -   Related list, Approvers \(Table: Approval\) is an established domain-separated table.
     -   Related list, Tasks \(Table: Task\) is an established domain-separated table.
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](emergency-self-report.md)
 

@@ -17,7 +17,7 @@ Simplify your automated test authoring by leveraging the power of ServiceNow's T
 
 Starting with the Australia release, Test generation is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-**Note:** Test generation leverages the foundation provided by the Automated Test Framework \(ATF\). Refer [Automated Test Framework \(ATF\)](../../auto-test-framework/concept/atf-landing-page.md) documentation for further details.
+**Note:** Test generation leverages the foundation provided by the Automated Test Framework \(ATF\). Refer [Automated Test Framework \(ATF\)](../automated-test-framework-atf/atf-landing-page.md) documentation for further details.
 
 The Test generation skill is available only for Next Experience UI users.
 
@@ -66,5 +66,5 @@ Leverage the power of Now Assist technology to streamline test creation with the
 -   **[Test generation references](tg-reference.md)**  
 The reference topics provide additional information about the Test generation application.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](../now-assist-for-creator/using-gen-ai-now-assist-for-creator.md)
 

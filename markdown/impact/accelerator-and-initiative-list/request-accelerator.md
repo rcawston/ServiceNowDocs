@@ -17,7 +17,7 @@ Depending on the Impact package that you are subscribed to, you can request and 
 
 ## Before you begin
 
-For details on available Accelerators, refer to the [Accelerator catalog](../concept/accelerator-catalog.md).
+For details on available Accelerators, refer to the [Accelerator catalog](accelerator-catalog.md).
 
 Role required: Impact platform owner
 
@@ -41,7 +41,7 @@ Role required: Impact platform owner
 
 5.  Complete the form and select **Complete Setup**.
 
-    The Set up initiative form displays. The Accelerator in progress updates the status on the tile and displays in the [Initiatives and Accelerators](../concept/impact-initiatives.md) list.
+    The Set up initiative form displays. The Accelerator in progress updates the status on the tile and displays in the [Initiatives and Accelerators](impact-initiatives.md) list.
 
     **Note:** An Impact Permissions Authorizer will grant or deny the request to start the initiative. See [Manage Initiative and Accelerator permissions](grant-ide-permissions.md) for additional information.
 

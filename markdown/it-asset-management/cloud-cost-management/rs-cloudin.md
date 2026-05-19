@@ -47,9 +47,9 @@ For pending, rejected, and failed change requests, you can reschedule the resour
 
 Cloud Cost Management uses a process that is optimized for each provider.
 
--   [Rightsizing analysis for AWS](../reference/aws-how-rs-works-cloudin.md)
--   [Rightsizing analysis for Microsoft Azure](../reference/azure-how-rs-works-cloudin.md)
--   [Rightsizing analysis for Google Cloud](../reference/gcp-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for AWS](aws-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for Microsoft Azure](azure-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for Google Cloud](gcp-how-rs-works-cloudin.md)
 
 ## Recommendations
 

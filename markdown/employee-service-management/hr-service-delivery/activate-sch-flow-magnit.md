@@ -25,7 +25,7 @@ Role required: sn\_hr\_magnit.admin
 
 2.  Open **Run HRSD Magnit Integration**.
 
-    Alternatively, you can click **Run Job** in [Source for HR Service Delivery Integration with Magnit](../reference/source-magnit.md#) to pull contingent workers from Magnit into the ServiceNow AI Platform instance.
+    Alternatively, you can click **Run Job** in [Source for HR Service Delivery Integration with Magnit](source-magnit.md#) to pull contingent workers from Magnit into the ServiceNow AI Platform instance.
 
 3.  Click **Activate**.
 

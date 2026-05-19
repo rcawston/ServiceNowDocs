@@ -15,10 +15,10 @@ Install and configure the Data Collection Content Pack for SPM.
 
 Perform the steps in the following order:
 
-1.  [Install the Data Collection Pack for SPM](../task/dc-spm-install.md)
-2.  [Configure Data Collection for SPM](../task/dc-spm-config.md)
-3.  [Activate Data Collection for SPM](../task/dc-spm-activate.md)
-4.  [Review SPM artifacts](../reference/dc-spm-install-artifacts.md)
+1.  [Install the Data Collection Pack for SPM](dc-spm-install.md)
+2.  [Configure Data Collection for SPM](dc-spm-config.md)
+3.  [Activate Data Collection for SPM](dc-spm-activate.md)
+4.  [Review SPM artifacts](dc-spm-install-artifacts.md)
 
 You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](dc-all-modify.md) and [Upgrading the Data Collection Content Pack](dc-all-upgrade.md).
 

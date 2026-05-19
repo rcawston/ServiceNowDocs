@@ -51,16 +51,16 @@ You create a subflow by defining the input data that the subflow uses and the ou
 -   Test the subflow, and publish it when it’s ready to be added to the record producer.
 -   Create a request definition and associate the subflow. To learn more, see [Create a request definition for Design and Assign function](create-request-definition-design-assign-function.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
 [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md)
 
-[Telecommunications Network Inventory subflows](../concept/subflow.md)
+[Telecommunications Network Inventory subflows](subflow.md)
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](configure-design-assign-playbook-use-case.md)
 

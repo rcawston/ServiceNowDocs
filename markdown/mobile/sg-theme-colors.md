@@ -13,7 +13,7 @@ breadcrumb: [Legacy theming, Configuring the Mobile Platform, Mobile Platform]
 
 Learn how the colors that you select in your mobile themes are applied on your mobile applications.
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](explore-ne-theming.md).
 
 ## Color choice considerations
 

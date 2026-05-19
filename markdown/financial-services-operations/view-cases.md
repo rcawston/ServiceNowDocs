@@ -40,16 +40,16 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 The case record opens in a new tab.
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](fso-overview.md)
 
 **Related topics**  
 
 
-[Customer 360 page for Agentic Contact Center for Banking](../concept/customer-360-agentic-contact-center-for-banking.md)
+[Customer 360 page for Agentic Contact Center for Banking](customer-360-agentic-contact-center-for-banking.md)
 
 [View customer accounts and transactions in Agentic Contact Center for Banking](view-customer-accounts-and-transactions.md)
 
-[Summarize a customer profile in the Customer 360 page](../../fso-now-assist/task/summarize-customer-profile-fso.md)
+[Summarize a customer profile in the Customer 360 page](now-assist-for-financial-services-operations-fso/summarize-customer-profile-fso.md)
 
-[Generate customer insights in the Customer 360 page](../../fso-now-assist/task/generate-customer-insights-customer-360-workspace.md)
+[Generate customer insights in the Customer 360 page](now-assist-for-financial-services-operations-fso/generate-customer-insights-customer-360-workspace.md)
 

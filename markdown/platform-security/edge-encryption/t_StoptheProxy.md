@@ -45,5 +45,5 @@ Execute `edgeencryption.bat stop`
 </table>2.  Check the log on the proxy server to verify that the proxy has stopped.
 
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 

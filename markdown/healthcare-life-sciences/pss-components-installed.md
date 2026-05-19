@@ -95,7 +95,7 @@ sn\_patientservice.agent\_connector
 
 Views, creates, and updates enrollment cases for all associated objects.
 
- You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Patient Support Services](../concept/pss-connector-contributor.md).
+ You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Patient Support Services](pss-connector-contributor.md).
 
 </td><td>
 
@@ -134,7 +134,7 @@ sn\_patientservice.contributor
 
 Creates enrollment cases for patients.
 
- You can combine this role with other roles for a user with the contributor profile. For more information, see [Determining additional user profiles in Patient Support Services](../concept/pss-connector-contributor.md).
+ You can combine this role with other roles for a user with the contributor profile. For more information, see [Determining additional user profiles in Patient Support Services](pss-connector-contributor.md).
 
 </td><td>
 

@@ -40,5 +40,5 @@ The Administrator can view, edit, or create locations. You can use the location 
 6.  Click **Save** to stay on the **Locations** form or **Submit** to return to the **Locations** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

@@ -66,5 +66,5 @@ By default, these images and videos are saved for 24 hours on the phone’s loca
 16. Set the **Mobile Applications** to who you want to send the mobile property.
 
 
-**Parent Topic:**[Working with images and attachments in mobile](../concept/images-and-attachments.md)
+**Parent Topic:**[Working with images and attachments in mobile](images-and-attachments.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 The ITSM Mobile plugin \(com.sn\_itsm\_mobile\) was deprecated in Quebec. The existing customers can migrate to ITSM Mobile Agent for enhanced mobile-first experiences in the base system, designed for agents to triage, act on, and resolve incidents on the go. ITSM Mobile Agent application improves productivity with an intuitive interface to manage all the work, view schedules, check who is on-call, respond to major incidents, and more.
 
-For information about getting started with ITSM Mobile Agent, see [Log in to ITSM Mobile Agent](../task/install-itsm-mobile-app.md).
+For information about getting started with ITSM Mobile Agent, see [Log in to ITSM Mobile Agent](install-itsm-mobile-app.md).
 
 **Parent Topic:**[Configuring ITSM Mobile Agent](configuring-itsm-mobile-agent.md)
 

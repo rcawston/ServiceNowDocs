@@ -15,7 +15,7 @@ breadcrumb: [Service catalog variables, Service Catalog Reference, Service Catal
 
 Variables allow you to specify questions for a catalog item. Several types of service catalog variables are provided. Some variable types accept variable attributes.
 
-See the following sections for more details on each variable type. For details on creating a variable, see [Create a service catalog variable](../task/t_CreateAVariableForACatalogItem.md). You can also provide help text for any service catalog variable. For information on defining help information, see [Define help information for a service catalog variable](../task/t_DefineHelpInformation.md).
+See the following sections for more details on each variable type. For details on creating a variable, see [Create a service catalog variable](t_CreateAVariableForACatalogItem.md). You can also provide help text for any service catalog variable. For information on defining help information, see [Define help information for a service catalog variable](t_DefineHelpInformation.md).
 
 ## Support in various channels
 
@@ -76,5 +76,5 @@ The Yes or No variable creates a choice list with **Yes** and **No** as options.
 -   **[Variable support in various channels](variables-availability.md)**  
 Service Catalog variables are supported in various channels.
 
-**Parent Topic:**[Service catalog variables](../concept/c_ServiceCatalogVariables.md)
+**Parent Topic:**[Service catalog variables](c_ServiceCatalogVariables.md)
 

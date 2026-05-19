@@ -35,8 +35,8 @@ Below is an example of a basic email network with ServiceNow as the domain.
 
 Administrators who want to use basic email services can do so by enabling the email properties for sending and receiving email.
 
--   **[Enable basic email](../task/t_ConfiguringStandardEmail.md)**  
+-   **[Enable basic email](t_ConfiguringStandardEmail.md)**  
 Enable basic email to use ServiceNow - provided email servers and accounts.
 
-**Parent Topic:**[Configure email administration](../../notification/concept/configuring-email-admin.md)
+**Parent Topic:**[Configure email administration](configuring-email-admin.md)
 

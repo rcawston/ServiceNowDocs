@@ -33,7 +33,7 @@ Visual
 
 </td><td>
 
-[Enable keyboard focus on text that displays tooltip](../concept/enable-keyboard-focus-pref.md)
+[Enable keyboard focus on text that displays tooltip](enable-keyboard-focus-pref.md)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Visual
 
 </td><td>
 
-[Show date and time formats on forms preference](../concept/show-date-time-formats-forms.md)
+[Show date and time formats on forms preference](show-date-time-formats-forms.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Visual
 
 </td><td>
 
-[Do not auto-dismiss page alerts preference](../concept/do-not-auto-dismiss-pref.md)
+[Do not auto-dismiss page alerts preference](do-not-auto-dismiss-pref.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Visual
 
 </td><td>
 
-[Replace colors with patterns in charts and graphs preference](../concept/replace-colors-with-patterns.md)
+[Replace colors with patterns in charts and graphs preference](replace-colors-with-patterns.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Visual
 
 </td><td>
 
-[Enable data table for charts and graphs preference](../concept/enable-data-table-pref.md)
+[Enable data table for charts and graphs preference](enable-data-table-pref.md)
 
 </td><td>
 
@@ -93,7 +93,7 @@ Visual
 
 </td><td>
 
-[Reduce motion preference](../concept/reduce-motion-pref.md)
+[Reduce motion preference](reduce-motion-pref.md)
 
 </td><td>
 
@@ -105,7 +105,7 @@ Visual
 
 </td><td>
 
-[Show all buttons without the need to hover preference](../concept/show-all-buttons-pref.md)
+[Show all buttons without the need to hover preference](show-all-buttons-pref.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Visual
 
 </td><td>
 
-[Enable keyboard focus on text that displays tooltip](../concept/enable-keyboard-focus-pref.md)
+[Enable keyboard focus on text that displays tooltip](enable-keyboard-focus-pref.md)
 
 </td><td>
 
@@ -129,7 +129,7 @@ Visual
 
 </td><td>
 
-[Enable auto-focus on page alerts preference](../concept/enable-auto-focus-on-page-alerts.md)
+[Enable auto-focus on page alerts preference](enable-auto-focus-on-page-alerts.md)
 
 </td><td>
 
@@ -141,7 +141,7 @@ Physical
 
 </td><td>
 
-[Enable keyboard shortcuts preference](../concept/enable-keyboard-shortcuts-pref.md)
+[Enable keyboard shortcuts preference](enable-keyboard-shortcuts-pref.md)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Physical
 
 </td><td>
 
-[Show all buttons without the need to hover preference](../concept/show-all-buttons-pref.md)
+[Show all buttons without the need to hover preference](show-all-buttons-pref.md)
 
 </td><td>
 
@@ -165,7 +165,7 @@ Physical
 
 </td><td>
 
-[Enable voice input for the Now Assist panel](../concept/enable-voice-input-pref.md)
+[Enable voice input for the Now Assist panel](enable-voice-input-pref.md)
 
 </td><td>
 
@@ -177,7 +177,7 @@ Cognitive/Neurodiverse
 
 </td><td>
 
-[Reduce motion preference](../concept/reduce-motion-pref.md)
+[Reduce motion preference](reduce-motion-pref.md)
 
 </td><td>
 
@@ -189,7 +189,7 @@ Cognitive/Neurodiverse
 
 </td><td>
 
-[Show date and time formats on forms preference](../concept/show-date-time-formats-forms.md)
+[Show date and time formats on forms preference](show-date-time-formats-forms.md)
 
 </td><td>
 
@@ -201,7 +201,7 @@ Cognitive/Neurodiverse
 
 </td><td>
 
-[Enable data table for charts and graphs preference](../concept/enable-data-table-pref.md)
+[Enable data table for charts and graphs preference](enable-data-table-pref.md)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Cognitive/Neurodiverse
 
 </td><td>
 
-[Show all buttons without the need to hover preference](../concept/show-all-buttons-pref.md)
+[Show all buttons without the need to hover preference](show-all-buttons-pref.md)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Cognitive/Neurodiverse
 
 </td><td>
 
-[Do not auto-dismiss page alerts preference](../concept/do-not-auto-dismiss-pref.md)
+[Do not auto-dismiss page alerts preference](do-not-auto-dismiss-pref.md)
 
 </td><td>
 
@@ -237,7 +237,7 @@ Universal design
 
 </td><td>
 
-[Enable accessibility in Classic preference](../concept/enable-accessibility-in-classic-pref.md)
+[Enable accessibility in Classic preference](enable-accessibility-in-classic-pref.md)
 
 </td><td>
 
@@ -249,7 +249,7 @@ Universal design
 
 </td><td>
 
-[Enable keyboard shortcuts preference](../concept/enable-keyboard-shortcuts-pref.md)
+[Enable keyboard shortcuts preference](enable-keyboard-shortcuts-pref.md)
 
 </td><td>
 
@@ -261,7 +261,7 @@ Universal design
 
 </td><td>
 
-[Enable data table for charts and graphs preference](../concept/enable-data-table-pref.md)
+[Enable data table for charts and graphs preference](enable-data-table-pref.md)
 
 </td><td>
 

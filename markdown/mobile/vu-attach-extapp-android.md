@@ -91,5 +91,5 @@ Enter one of the following values:-   Enter `true` to prevent users from opening
 </table>4.  Right-click the banner at the top of the **glide.sg.block\_mobile\_attachments\_external\_viewing** form and select **Save**.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](additional-mobile-configuration.md)
 

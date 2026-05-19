@@ -38,5 +38,5 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin
     The control records are deleted completely.
 
 
-**Parent Topic:**[Manage controls using AI Risk and Compliance](../concept/manage-controls-in-airc.md)
+**Parent Topic:**[Manage controls using AI Risk and Compliance](manage-controls-in-airc.md)
 

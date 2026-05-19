@@ -168,9 +168,9 @@ ${section:References}
 
 ## What to do next
 
-To learn how to Manage Shift Handover records in the list view and perform actions like create, edit, copy, or delete Shift Handover records, see [Manage Shift Handover records](../concept/manage-shift-handover-records.md).
+To learn how to Manage Shift Handover records in the list view and perform actions like create, edit, copy, or delete Shift Handover records, see [Manage Shift Handover records](manage-shift-handover-records.md).
 
-**Parent Topic:**[Configure Shift Handover](../concept/config-shift-handover.md)
+**Parent Topic:**[Configure Shift Handover](config-shift-handover.md)
 
 **Related topics**  
 

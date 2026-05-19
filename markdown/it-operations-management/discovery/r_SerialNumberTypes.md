@@ -65,5 +65,5 @@ For SNMP, the mapping below is based on the code. Physical types of serial numbe
 'standard' : 'iso.org.dod.internet.private.enterprises.apc.products.hardware.ups.upsIdent.upsAdvIdent.upsAdvIdentSerialNumber'
 ```
 
-**Parent Topic:**[Discovery identifiers](../concept/c_DiscoveryIdentifiers.md)
+**Parent Topic:**[Discovery identifiers](c_DiscoveryIdentifiers.md)
 

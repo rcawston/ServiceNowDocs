@@ -23,11 +23,11 @@ Examples of how you might use field settings include the following.
 
 An indexed source's field settings appear in its Field Settings &amp; Mapping related list.
 
--   **[Create a field setting for an AI Search indexed source](../task/create-field-setting-ais.md)**  
+-   **[Create a field setting for an AI Search indexed source](create-field-setting-ais.md)**  
 Define an indexed source field setting to configure AI Search content indexing behavior for a specific field on source table records.
--   **[Enable indexing of referenced table fields for an AI Search indexed source](../task/enable-ref-table-field-index-ais.md)**  
+-   **[Enable indexing of referenced table fields for an AI Search indexed source](enable-ref-table-field-index-ais.md)**  
 Configure an indexed source to index field values from tables referenced by fields in the source table. You can index these field values for use in filters and EVAM search result configurations, index them for search, or both.
--   **[List of AI Search indexed source field settings](../reference/field-settings-list-ais.md)**  
+-   **[List of AI Search indexed source field settings](field-settings-list-ais.md)**  
 You can adjust indexing behavior for source record fields in an AI Search indexed source by configuring field setting attributes and values.
 -   **[Security for searchable referenced table field values in AI Search](security-srch-dot-walk-values.md)**  
 When a user searches referenced table field values that you have indexed for search with the **searchable\_dot\_walk\_fields** field setting, only field values that the user can view appear in the search results. The system uses a field value's role-based access control list rules \(ACLs\) to determine whether the search user can view that field value.

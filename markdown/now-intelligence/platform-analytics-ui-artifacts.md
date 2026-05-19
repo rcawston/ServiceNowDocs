@@ -61,5 +61,5 @@ Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Next Exper
     Opens `par_component_filter.list`. Select any filter to open its form.
 
 
-**Parent Topic:**[Platform Analytics experience reference](../concept/platform-analytics-exp-reference.md)
+**Parent Topic:**[Platform Analytics experience reference](platform-analytics-exp-reference.md)
 

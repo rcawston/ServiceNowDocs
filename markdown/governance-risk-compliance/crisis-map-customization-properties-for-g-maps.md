@@ -17,9 +17,9 @@ When you select the **Google Maps Properties** module in the Crisis map applicat
 
 ![Customization properties module.](../image/cust-prop-f-g-maps-in-crisis-map.png)
 
-For information on the properties, see [Customization properties table for Google Maps](../reference/crisis-map-customization-prop-table-f-g-maps.md).
+For information on the properties, see [Customization properties table for Google Maps](crisis-map-customization-prop-table-f-g-maps.md).
 
--   **[Customization properties table for Google Maps](../reference/crisis-map-customization-prop-table-f-g-maps.md)**  
+-   **[Customization properties table for Google Maps](crisis-map-customization-prop-table-f-g-maps.md)**  
 Customization properties for Google Maps are explained in the Google Maps Properties table.
 
 **Parent Topic:**[Setup for Crisis map](crisis-map-admin-tasks.md)

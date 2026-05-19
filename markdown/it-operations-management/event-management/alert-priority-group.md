@@ -42,7 +42,7 @@ The alert priority group is available in alert lists in the Dashboard, Alert Int
 
 Changes to open alerts trigger the recalculation of the priority and then the alert is again categorized into the relevant priority group. Closed alerts are not considered for alert priority group calculation.
 
-**Parent Topic:**[View alert information](../task/t_EMViewAlert.md)
+**Parent Topic:**[View alert information](t_EMViewAlert.md)
 
 **Related topics**  
 

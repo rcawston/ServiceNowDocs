@@ -58,5 +58,5 @@ Role required: user\_email\_account
         **Note:** At least one mailbox must be connected to view the connected mailboxes.
 
 
-**Parent Topic:**[Personal corporate mailbox](../concept/personal-corporate-mailbox.md)
+**Parent Topic:**[Personal corporate mailbox](personal-corporate-mailbox.md)
 

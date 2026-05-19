@@ -28,5 +28,5 @@ Add properties of the Microsoft Viva integrations card to view tasks from Micros
 |Employee Service Center Error Label|Option to customize the Employee Service Center error label.|
 |Tasks List Label|Option to customize the tasks list label.|
 
-**Parent Topic:**[Employee Center for Microsoft Viva Connections reference](../concept/reference-viva.md)
+**Parent Topic:**[Employee Center for Microsoft Viva Connections reference](reference-viva.md)
 

@@ -130,7 +130,7 @@ table_nameGR.query();
 table_nameGR.next();  // Retrieve the scheduling record
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideMultiRecurrence - getOccurrences\(\)
 
@@ -182,11 +182,11 @@ Number of GlideDateTime objects returned = 500.
 
 |Name|Type|Description|
 |----|----|-----------|
-|grSchedule|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|GlideRecord object pointing to the record containing the job for which you want to get the schedule occurrences.|
+|grSchedule|[GlideRecord](c_GlideRecordScopedAPI.md#)|GlideRecord object pointing to the record containing the job for which you want to get the schedule occurrences.|
 
 |Type|Description|
 |----|-----------|
-|Array of [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#) objects|GlideDateTime object for each time that the schedule job should run.|
+|Array of [GlideDateTime](c_GlideDateTimeAPI.md#) objects|GlideDateTime object for each time that the schedule job should run.|
 
 The following example shows how to retrieve GlideDateTime objects for all scheduled run date/time for a specific period for a specified job schedule record. The selected job is scheduled to run every hour.
 

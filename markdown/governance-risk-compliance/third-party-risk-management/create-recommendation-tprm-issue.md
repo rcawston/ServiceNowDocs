@@ -66,5 +66,5 @@ Create issues based on generated issue recommendations or dismiss the issue reco
 -   **[Create or dismiss issues using recommendations](manage-recommendation-issue.md)**  
 Accept recommendations to create issues based on historical assessment data, or dismiss recommendations that aren’t relevant. Accepting or dismissing issue recommendations helps reviewers efficiently act on AI‑predicted findings while retaining control over which issues are created.
 
-**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](../concept/using-now-assist-for-tprm.md)
+**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](using-now-assist-for-tprm.md)
 

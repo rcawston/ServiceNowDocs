@@ -33,8 +33,8 @@ This type of page enables you to define linear time lines from records with time
 
 ![](../image/PlanningTimeline.png "Schedule pages example")
 
--   **[Timeline pages](../concept/c_TimelinePages.md)**  
+-   **[Timeline pages](c_TimelinePages.md)**  
 Use timeline pages to track any activity bounded by two dates, such as change request start and end dates, or incident open and close dates. Administrators can create timeline pages, which are user interactive.
 
-**Parent Topic:**[Time configuration references](../reference-time-configuration.md)
+**Parent Topic:**[Time configuration references](reference-time-configuration.md)
 

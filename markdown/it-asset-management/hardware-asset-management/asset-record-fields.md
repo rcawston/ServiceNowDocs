@@ -354,7 +354,7 @@ Asset TCO
 
 </td><td>
 
-The total cost of ownership of the asset, where the total cost includes initial capital cost and operation cost.For more information about Asset TCO, see [Asset Total Cost of Ownership for Hardware Asset Management](../../hardware-asset-management/concept/asset-mgmt-tco.md).
+The total cost of ownership of the asset, where the total cost includes initial capital cost and operation cost.For more information about Asset TCO, see [Asset Total Cost of Ownership for Hardware Asset Management](asset-mgmt-tco.md).
 
 **Note:** Amount displayed in the system currency.
 
@@ -364,7 +364,7 @@ TCO benchmark cost
 
 </td><td>
 
-Predefined benchmark cost of the asset model.**Note:** This field is referenced from the Hardware model details form. For more information, see [Hardware model details](../../hardware-asset-management/reference/hardware-model-fields.md).
+Predefined benchmark cost of the asset model.**Note:** This field is referenced from the Hardware model details form. For more information, see [Hardware model details](hardware-model-fields.md).
 
 </td></tr><tr><td>
 
@@ -374,7 +374,7 @@ TCO benchmark threshold
 
 The threshold value of your asset model cost identifying that the asset is reaching the TCO benchmark cost value. The benchmark threshold is set to 75% of the TCO benchmark cost by default. For example, if you set the TCO benchmark cost of an asset model as $1000, the TCO benchmark threshold is set to $750 automatically.
 
-Use the system property **sn\_itam\_common.asset\_tco\_benchmark\_threshold\_percentage** to update the benchmark threshold value. This field is referenced from the Hardware model details form. For more information, see [Hardware model details](../../hardware-asset-management/reference/hardware-model-fields.md).
+Use the system property **sn\_itam\_common.asset\_tco\_benchmark\_threshold\_percentage** to update the benchmark threshold value. This field is referenced from the Hardware model details form. For more information, see [Hardware model details](hardware-model-fields.md).
 
 </td></tr><tr><td>
 
@@ -903,5 +903,5 @@ RMA
 Return Merchandise Authorization associated with the asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../../hardware-asset-management/concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

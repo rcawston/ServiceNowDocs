@@ -50,7 +50,7 @@ The knowledge article view page displays the Related Items section when an artic
 6.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 
 **Related topics**  
 

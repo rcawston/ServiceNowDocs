@@ -54,7 +54,7 @@ if (gr.next()){
 
 ```
 
-**Parent Topic:**[Managing system events](../../platform-events/concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](managing-system-events.md)
 
 **Related topics**  
 

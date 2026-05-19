@@ -29,8 +29,8 @@ Use an attribute pack to customize the attributes according to the requirements 
 
 To use an attribute pack in an inventory form, you, as the administrator, must perform the following tasks:
 
--   Create a pack table with the attributes that you define. To learn more, see [Create table](../task/create-pack-table.md).
--   Configure the mapping between the pack table and the inventory object that you want to use it with. To learn more, see [Configure an attribute pack table against a configuration item](../task/configure-packs-for-a-ci-form.md).
+-   Create a pack table with the attributes that you define. To learn more, see [Create table](create-pack-table.md).
+-   Configure the mapping between the pack table and the inventory object that you want to use it with. To learn more, see [Configure an attribute pack table against a configuration item](configure-packs-for-a-ci-form.md).
 
 After you create and configure a pack table, you can use it in a CI record. To learn more, see [Attribute pack for CI records](using-pack-table-ci-record.md).
 

@@ -67,11 +67,11 @@ Adobe Cloud reports can be accessed by navigating to **Reports** &gt; **View/Run
 -   Adobe Cloud Users without Installations
 -   Underused Adobe Cloud Installations
 
-You can view Adobe subscriptions, compliance, and cost using the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md) or [Publisher overview for Adobe Systems in the Software Asset Workspace](../reference/publisher-overview-adobe.md).
+You can view Adobe subscriptions, compliance, and cost using the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md) or [Publisher overview for Adobe Systems in the Software Asset Workspace](publisher-overview-adobe.md).
 
 -   **[Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](sam-saas-subscription-dash.md)**  
 View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in Software Asset Management classic.
--   **[Publisher overview for Adobe Systems in the Software Asset Workspace](../reference/publisher-overview-adobe.md)**  
+-   **[Publisher overview for Adobe Systems in the Software Asset Workspace](publisher-overview-adobe.md)**  
 View license usage information related to Adobe in the publisher overview for Adobe Systems in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](sam-publisher-packs.md)

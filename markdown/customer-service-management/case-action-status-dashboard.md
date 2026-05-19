@@ -25,5 +25,5 @@ As blocking tasks for a case get created and resolved, this dashboard widget tra
 -   Blocked by customer
 -   Blocked internally and by customer
 
-**Parent Topic:**[Administering case action status](../concept/customer-service-case-action-status.md)
+**Parent Topic:**[Administering case action status](customer-service-case-action-status.md)
 

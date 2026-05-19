@@ -47,7 +47,7 @@ Material topics from the selected reporting period are imported from Socialsuite
 **Related topics**  
 
 
-[Socialsuite material topic fields](../reference/socialsuite-material-topic-fields.md)
+[Socialsuite material topic fields](socialsuite-material-topic-fields.md)
 
-[Socialsuite import log](../reference/socialsuite-import-log.md)
+[Socialsuite import log](socialsuite-import-log.md)
 

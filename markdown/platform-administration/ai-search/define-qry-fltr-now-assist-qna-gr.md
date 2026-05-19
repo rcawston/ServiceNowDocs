@@ -62,5 +62,5 @@ You can customize the pattern match condition by defining your own Java regular 
 
 Now Assist Q&amp;A Genius Results don't send knowledge article search results to the Now LLM Service for Q&amp;A answer generation unless the search query matches your Java regular expression pattern.
 
-**Parent Topic:**[Now Assist Q&amp;A Genius Results](../concept/now-assist-qna-genius-results.md)
+**Parent Topic:**[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
 

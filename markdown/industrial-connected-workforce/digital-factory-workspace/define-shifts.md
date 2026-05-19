@@ -90,5 +90,5 @@ The shift and its business calendar entries have been created successfully and a
 -   My next shift
 -   My previous shift
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](setting-up-prerequisites-digital-factory-workspace.md)
 

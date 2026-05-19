@@ -223,5 +223,5 @@ You can use the system-provided authentication types or add yours.
 **Related topics**  
 
 
-[Add or edit a digital interface in the EA Workspace](../../task/eaw-task/eaw-create-digital-interface.md)
+[Add or edit a digital interface in the EA Workspace](eaw-create-digital-interface.md)
 

@@ -19,7 +19,7 @@ LLMs are used to identify and trigger the action that a user wants to perform.
 
 ITSM Virtual Agent pre-built LLM topics are read only and have **\(Template\)** as the suffix in their name. To use them, duplicate the topic in the ITSM Virtual Agent conversation scope and rename it according to your company naming conventions.
 
-For ITSM Virtual Agent pre-built Natural Language Understanding \(NLU\) topics, see [Using ITSM Virtual Agent pre-built topics](../../itsm-virtual-agent/concept/using-itsm-va.md).
+For ITSM Virtual Agent pre-built Natural Language Understanding \(NLU\) topics, see [Using ITSM Virtual Agent pre-built topics](../itsm-virtual-agent/using-itsm-va.md).
 
 **Note:** All demo topics will be available with the demo data.
 
@@ -59,7 +59,7 @@ Check your device's health using Digital End-User Experience \(DEX\)
 
 </td><td>
 
-Use the Now Assist for ITSM Virtual Agent to monitor your device's performance and diagnose potential issues. See [Check device health using Now Assist for ITSM Virtual Agent](../../digital-end-user-experience/task/check-your-device-s-health-using-now-assist-for-itsm.md) for more information.**Important:** You must install DEX to perform this action. See [Install Digital End-User Experience](../../digital-end-user-experience/task/install-app-device-health.md) for more information.
+Use the Now Assist for ITSM Virtual Agent to monitor your device's performance and diagnose potential issues. See [Check device health using Now Assist for ITSM Virtual Agent](../digital-end-user-experience-self-service/check-your-device-s-health-using-now-assist-for-itsm.md) for more information.**Important:** You must install DEX to perform this action. See [Install Digital End-User Experience](../digital-end-user-experience-dex/install-app-device-health.md) for more information.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ For more information, see [Configure your Password Reset process](https://raw.gi
 
 ITSM Virtual Agent includes pre-built actionable notifications used to send interactive messages to a user based on pending tasks or alerts, such as RITM and request notifications, task approval notifications, and incident notifications.
 
-**Note:** You must activate notifications in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](../../itsm-virtual-agent/task/setup-actionable-notifications.md).
+**Note:** You must activate notifications in Workflow Studio. For details, see [Set up actionable notifications for ITSM Virtual Agent](../itsm-virtual-agent/setup-actionable-notifications.md).
 
 <table id="table_x5c_n1w_bdc"><thead><tr><th>
 

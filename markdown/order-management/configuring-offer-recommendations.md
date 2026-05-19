@@ -22,5 +22,5 @@ As a catalog admin or manager, you configure product recommendations by identify
 -   Upsell: An upgraded or enhanced version of a product in the quote.
 -   Cross-sell: A related product that complements a product in the quote.
 
-For details on configuring product recommendations, see [Create a product offering recommendation](../task/create-offer-recommendation.md).
+For details on configuring product recommendations, see [Create a product offering recommendation](create-offer-recommendation.md).
 

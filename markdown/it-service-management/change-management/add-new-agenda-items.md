@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Change** &gt; **Change Advisory Board** &gt; **All CAB Meetings**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 2.  Click the CAB meeting record that you want to add an agenda item to.
 
@@ -123,5 +123,5 @@ Time already spent on the agenda item.
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Working with the CAB Workbench](../concept/using-cab-workbench-cf.md)
+**Parent Topic:**[Working with the CAB Workbench](using-cab-workbench-cf.md)
 

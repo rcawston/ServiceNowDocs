@@ -19,15 +19,15 @@ The ServiceNow® Usage Insights application enables you to monitor how users int
 
 <table id="table_dcr_ltx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Usage Insights features](../concept/exploring-user-exp-analytics.md)
+[Explore![](../../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Usage Insights features](exploring-user-exp-analytics.md)
 
 </td><td>
 
-[Configure![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable application tracking and user consent](../create/configuring-user-exp-analytics.md)
+[Configure![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable application tracking and user consent](configuring-user-exp-analytics.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Discover capabilities and possible customizations](../concept/using-uxa.md)
+[Use![](../../../../reuse/icons/brand-icons/bus-sdlc.svg)Discover capabilities and possible customizations](using-uxa.md)
 
 </td><td>
 
@@ -45,14 +45,14 @@ The ServiceNow® Usage Insights application enables you to monitor how users int
 -   [Usage Insights for mobile applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-analytics.md)
 -   [Usage Insights for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics.md)
 
--   **[Exploring Usage Insights](../concept/exploring-user-exp-analytics.md)**  
+-   **[Exploring Usage Insights](exploring-user-exp-analytics.md)**  
 The ServiceNow® Usage Insights application enables you to monitor how users interact with your ServiceNow Core UI, Next Experience, Mobile, and Service Portal applications, allowing product managers and applications owners to gain insight into usage and adoption.
--   **[Configuring Usage Insights](../create/configuring-user-exp-analytics.md)**  
+-   **[Configuring Usage Insights](configuring-user-exp-analytics.md)**  
 An admin can configure which ServiceNow applications to track in the Usage Insights application as well as user tracking consent policies.
--   **[Using Usage Insights](../concept/using-uxa.md)**  
+-   **[Using Usage Insights](using-uxa.md)**  
 Monitor how users interact in your ServiceNow  web and mobile applications.
 -   **[Usage Insights reference](user-experience-analytics-reference.md)**  
 Roles and properties installed with Usage Insights.
 
-**Parent Topic:**[Platform Analytics](../../../../use/performance-analytics/concept/c_performanceAnalyticsAndReporting.md)
+**Parent Topic:**[Platform Analytics](../c_performanceAnalyticsAndReporting.md)
 

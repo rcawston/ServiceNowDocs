@@ -27,7 +27,7 @@ Use the DaaS provider view to perform the following:
 
 -   Act on discrepancies such as assets missing serial number, stockroom, or DaaS accounts.
 -   Select a DaaS account for which you want to view the records such as open or unassigned tasks, shipment status, and the number of assets that are eligible for refresh.
--   Create and manage [inbound asset orders](manage-inbound-orders.md), [RMA response orders](manage-rma-orders.md), and [repair order lines](../../hardware-asset-management/concept/requesting-hardware-asset-repair.md) for the DaaS assets of your customers.
+-   Create and manage [inbound asset orders](manage-inbound-orders.md), [RMA response orders](manage-rma-orders.md), and [repair order lines](requesting-hardware-asset-repair.md) for the DaaS assets of your customers.
 
 Select any widget or chart to view detailed information and take appropriate actions on the assets that are marked as DaaS assets or dedicated to accounts.
 

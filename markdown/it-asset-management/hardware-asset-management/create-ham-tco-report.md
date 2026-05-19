@@ -150,5 +150,5 @@ The TCO report is generated and displayed in the Comparative reports section of 
 -   **[Create a TCO report source](create-tco-report-source-ham.md)**  
 Create a Total Cost of Ownership \(TCO\) report source for TCO reports.
 
-**Parent Topic:**[Configure the Total Cost of Ownership of assets](../concept/configure-ham-tco.md)
+**Parent Topic:**[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
 

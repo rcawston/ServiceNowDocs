@@ -31,7 +31,7 @@ Role required: itil
     -   Incident information on the **Details** tab
     -   Incident information on the **Related records** tab
     -   Record information on the Contextual side panel
-    For more information on the tabs, see [Managing a major incident record](../concept/managing-major-incident-sow.md).
+    For more information on the tabs, see [Managing a major incident record](managing-major-incident-sow.md).
 
 3.  On the incident record for the incident that you want to propose, select **Propose Major incident.**
 
@@ -45,5 +45,5 @@ Role required: itil
 5.  Select **Propose Major incident**.
 
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](managing-major-incident-sow.md)
 

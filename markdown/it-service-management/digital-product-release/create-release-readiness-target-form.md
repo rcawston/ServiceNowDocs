@@ -17,7 +17,7 @@ Release admins can create release readiness targets on a release calendar to def
 
 **Note:** Release readiness target and Release target are used interchangeably. Both terms refer to the same concept - release readiness target date.
 
-For more information, see [Create a release readiness target](../task/dpr-create-rls-readiness-target.md).
+For more information, see [Create a release readiness target](dpr-create-rls-readiness-target.md).
 
 <table id="table_wdl_bcc_lyb"><thead><tr><th>
 
@@ -80,5 +80,5 @@ Schedules excluded from target
 Schedules when the release readiness targets are excluded from creation that overlaps with blackout, maintenance, or other schedules.These schedules are auto-populated from the selected calendar.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release reference](../concept/dpr-reference.md)
+</table>**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
 

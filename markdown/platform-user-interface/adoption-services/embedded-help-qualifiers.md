@@ -99,5 +99,5 @@ Enter the qualifier to use, for example `sla_homepage`. Record the qualifier to 
     **Note:** If you added a role to the embedded help content, ensure that you are logged in as a user with the role, or impersonate a user with that role.
 
 
-**Parent Topic:**[Embedded Help planning](../concept/embedded-help-planning.md)
+**Parent Topic:**[Embedded Help planning](embedded-help-planning.md)
 

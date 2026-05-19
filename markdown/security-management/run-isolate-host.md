@@ -46,5 +46,5 @@ The **Security Operations Integration - Isolate Host or Endpoint** flow can be t
     ![Isolate Host work note example](../image/IsolateHostWorkNote.png)
 
 
-**Parent Topic:**[Security Operations Integration- Isolate Host capability](../concept/isolate-host-capability.md)
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
 

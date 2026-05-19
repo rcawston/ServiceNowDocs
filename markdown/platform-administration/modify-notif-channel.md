@@ -32,5 +32,5 @@ Role required: none
 
 The system updates and saves the channel information that you modified.
 
-**Parent Topic:**[Setting notification preferences in Core UI](../concept/user-notification-preferences.md)
+**Parent Topic:**[Setting notification preferences in Core UI](user-notification-preferences.md)
 

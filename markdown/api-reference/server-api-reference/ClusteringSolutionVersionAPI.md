@@ -17,18 +17,18 @@ The ClusteringSolutionVersion API is a scriptable object used in Predictive Inte
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-It is used for working with solution versions based on [ClusteringSolution API](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) objects in the [ClusteringSolution store](../../ClusteringSolutionStore/concept/ClusteringSolutionStoreAPI.md#).
+It is used for working with solution versions based on [ClusteringSolution API](ClusteringSolutionAPI.md#) objects in the [ClusteringSolution store](ClusteringSolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
 Methods in this API are accessible using the following ClusteringSolution methods:
 
--   [getActiveVersion\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)
--   [getAllVersions\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)
--   [getLatestVersion\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)
--   [getVersion\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#)
+-   [getActiveVersion\(\)](ClusteringSolutionAPI.md#)
+-   [getAllVersions\(\)](ClusteringSolutionAPI.md#)
+-   [getLatestVersion\(\)](ClusteringSolutionAPI.md#)
+-   [getVersion\(\)](ClusteringSolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ClusteringSolutionVersion - cancelUpdateJob\(\)
 
@@ -42,7 +42,7 @@ Cancels an update job on a trainer.
 |----|-----------|
 |None| |
 
-The following example shows how to cancel an active training job that has been submitted using the [submitTrainingJob\(\)](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) method.
+The following example shows how to cancel an active training job that has been submitted using the [submitTrainingJob\(\)](ClusteringSolutionAPI.md#) method.
 
 ```
 var myCluster = new sn_ml.ClusteringSolutionStore.get("ml_x_snc_global_global_clustering_solution");
@@ -89,7 +89,7 @@ String
 
 </td><td>
 
-Deletes rows for clusters with `updated_since` values occurring before this value. Format must be provided as [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#).```
+Deletes rows for clusters with `updated_since` values occurring before this value. Format must be provided as [GlideDateTime](c_GlideDateTimeAPI.md#).```
 { "updatedUntil" : "String" }
 ```
 
@@ -275,7 +275,7 @@ String
 
 </td><td>
 
-Optional. Date and time. Returns information for clusters with `sys_updated_on` after the value provided in [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#).
+Optional. Date and time. Returns information for clusters with `sys_updated_on` after the value provided in [GlideDateTime](c_GlideDateTimeAPI.md#).
 
 </td></tr><tr><td>
 
@@ -287,7 +287,7 @@ String
 
 </td><td>
 
-Optional. Date and time. Returns information for clusters with `sys_updated_on` before the value provided in [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#).
+Optional. Date and time. Returns information for clusters with `sys_updated_on` before the value provided in [GlideDateTime](c_GlideDateTimeAPI.md#).
 
 </td></tr></tbody>
 </table><table id="table_u1q_hxt_rhb" class="returns"><thead><tr><th>
@@ -499,7 +499,7 @@ String
 
 </td><td>
 
-Optional. Date and time. Returns information for clusters with `sys_updated_on` after the value provided in [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#) format.
+Optional. Date and time. Returns information for clusters with `sys_updated_on` after the value provided in [GlideDateTime](c_GlideDateTimeAPI.md#) format.
 
 </td></tr><tr><td>
 
@@ -511,7 +511,7 @@ String
 
 </td><td>
 
-Optional. Date and time. Returns information for clusters with `sys_updated_on` before the value provided in [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#).
+Optional. Date and time. Returns information for clusters with `sys_updated_on` before the value provided in [GlideDateTime](c_GlideDateTimeAPI.md#).
 
 </td></tr></tbody>
 </table><table id="table_xk3_v3b_rlb" class="returns"><thead><tr><th>
@@ -787,7 +787,7 @@ K-means algorithm only. Percentile field to filter out records that are less sim
 
 </td><td>
 
-Lists the properties of the [DatatsetDefinition](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
+Lists the properties of the [DatatsetDefinition](DatasetDefinitionAPI.md#) object associated with the solution.
 
  ```
 {
@@ -1090,7 +1090,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [ClusteringSolution](../../ClusteringSolution/concept/ClusteringSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [ClusteringSolution](ClusteringSolutionAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",

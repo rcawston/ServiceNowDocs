@@ -37,5 +37,5 @@ Turn on the flow execution analysis skill to summarize flow execution details an
     ![Flow execution analysis skill listed as active skill](../images/na-flow-execution-analysis-skill-active.png)
 
 
-**Parent Topic:**[Flow execution analysis](../reference/flow-execution-analysis-landing.md)
+**Parent Topic:**[Flow execution analysis](flow-execution-analysis-landing.md)
 

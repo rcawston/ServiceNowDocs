@@ -103,5 +103,5 @@ Brief detail about the corrective actions charges.
 **Related topics**  
 
 
-[Corrective action charges](../task/mco_corrective_action_charges.md)
+[Corrective action charges](mco_corrective_action_charges.md)
 

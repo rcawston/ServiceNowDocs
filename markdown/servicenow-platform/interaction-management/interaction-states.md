@@ -68,7 +68,7 @@ This state indicates that the agent has completed a conversation with a customer
 
  This state is available if an interaction wrap up configuration has been created for the specific type of interaction and that configuration is active.
 
- For more information, see [Interaction wrap up](../concept/interaction-wrap-up-state.md).
+ For more information, see [Interaction wrap up](interaction-wrap-up-state.md).
 
 </td></tr><tr><td>
 
@@ -87,5 +87,5 @@ Closed Abandoned
 The interaction is closed because the consumer disconnects or is unresponsive.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Interaction Management](../concept/configuring-interaction-management.md)
+</table>**Parent Topic:**[Configuring Interaction Management](configuring-interaction-management.md)
 

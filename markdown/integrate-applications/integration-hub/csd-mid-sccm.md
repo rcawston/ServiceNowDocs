@@ -40,5 +40,5 @@ Role required: admin.
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](configure-sccm-ihub.md)
 

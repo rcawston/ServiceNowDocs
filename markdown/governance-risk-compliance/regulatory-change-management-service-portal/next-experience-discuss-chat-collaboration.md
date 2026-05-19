@@ -27,7 +27,7 @@ On a regulatory change management case, select **Discuss** from other options. C
 
 [Regulatory Change Management application in the Compliance Workspace](rcm-workspace-overview.md)
 
-[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
+[Differences between regulatory event alert and source document alert](regulatory-event-alert-vs-source-document-alert.md)
 
 [Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 Resource profiles are cloud provider-agnostic definitions that specify the allowed attribute values for a resource. Resource profiles enable you to control the choices that the user sees when requesting a cloud resource. As a result, you do not need to define a unique blueprint for each variation of the resource.
 
-**Note:** In addition to the cloud-agnostic profiles, you can add provider public images to the Cloud Provisioning and Governance catalog. See [Add an AWS public image to Cloud Provisioning and Governance](../task/add-public-image-aws.md) and [Add an Azure public image to Cloud Provisioning and Governance](../task/add-public-image-azure.md).
+**Note:** In addition to the cloud-agnostic profiles, you can add provider public images to the Cloud Provisioning and Governance catalog. See [Add an AWS public image to Cloud Provisioning and Governance](add-public-image-aws.md) and [Add an Azure public image to Cloud Provisioning and Governance](add-public-image-azure.md).
 
 ## Example: Compute profile
 
@@ -113,21 +113,21 @@ You map a schedule profile to an instance schedule. The schedule profile applies
 N/A
 
 </td></tr></tbody>
-</table>-   **[Create an application profile](../task/create-app-profile.md)**  
+</table>-   **[Create an application profile](create-app-profile.md)**  
 An application profile specifies application software to install on newly-provisioned resources. Users can select applications when they request a stack. Use application profiles when you integrate with configuration management \(continuous delivery\) providers such as Ansible playbooks.
--   **[Create a compute profile](../task/create-compute-profile.md)**  
+-   **[Create a compute profile](create-compute-profile.md)**  
 A compute profile specifies the hardware to use for newly-provisioned virtual machines. A compute profile maps to a cloud account, a datacenter, and a hardware template.
--   **[Create a compute security group profile](../task/create-compute-security-profile.md)**  
+-   **[Create a compute security group profile](create-compute-security-profile.md)**  
 A compute security group profile applies specified security rules to newly-provisioned resources. You map a compute security group profile to a cloud account, a datacenter, a Compute Security Group template, and security rules for the template.
--   **[Create an OS profile](../task/create-os-profile.md)**  
+-   **[Create an OS profile](create-os-profile.md)**  
 An OS profile installs a specified image on a newly-provisioned virtual machine. You map an OS profile to a cloud account, a location \(datacenter\), an image template, and a cloud script. OS profiles are provider-agnostic and you can use the same profile for multiple cloud accounts.
--   **[Create a schedule profile](../task/create-schedule-profile.md)**  
+-   **[Create a schedule profile](create-schedule-profile.md)**  
 You map a schedule profile to an instance schedule. The schedule profile applies to all newly-provisioned resources that use the profile. For example, a schedule profile can specify the days of the week and times of day when a stack should start and stop.
--   **[Add credentials to an image template](../task/add-credential-to-template-type.md)**  
+-   **[Add credentials to an image template](add-credential-to-template-type.md)**  
 When you add credentials to an image template, the credentials are inherited by all VMs that are provisioned using the template.
--   **[Add an AWS public image to Cloud Provisioning and Governance](../task/add-public-image-aws.md)**  
+-   **[Add an AWS public image to Cloud Provisioning and Governance](add-public-image-aws.md)**  
 You can make any AWS image selectable in an OS profile.
--   **[Add an Azure public image to Cloud Provisioning and Governance](../task/add-public-image-azure.md)**  
+-   **[Add an Azure public image to Cloud Provisioning and Governance](add-public-image-azure.md)**  
 You can make any Azure image selectable in an OS profile.
 
 **Parent Topic:**[Cloud Admin Portal](cloud-admin-portal.md)
@@ -135,5 +135,5 @@ You can make any Azure image selectable in an OS profile.
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct.md)
+[Discover all datacenters in a service account on-demand](disco-datacntrs-in-srv-acct.md)
 

@@ -72,5 +72,5 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
     -   On the Outside Counsels New record form, select **Submit**.
     -   On the Create New Outside Counsel from the Legal Counsel Center, select **Save**.
 
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](configure-legal-invention-disclosure.md)
 

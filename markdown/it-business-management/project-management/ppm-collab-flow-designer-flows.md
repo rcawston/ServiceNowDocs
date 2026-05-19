@@ -166,7 +166,7 @@ Posts a message to the project channel or team whenever a Risk with probability 
 
 If you want to update the configuration for any of these flows, you can edit them. For example, if you want to update the time of daily status update from 8:00 AM to 9:00 AM, you can edit the Daily Project Status Slack \[daily\_project\_status\] or Daily Project Status Teams \[daily\_project\_status\_teams\] flow. For more information, see [Edit a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-edit.md).
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 
 **Related topics**  
 

@@ -34,25 +34,25 @@ Role required: procurement\_admin, procurement\_user
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Procurement](../reference/r_InstalledWithProcurement.md)**  
+-   **[Components installed with Procurement](r_InstalledWithProcurement.md)**  
 Several types of components are installed with Procurement.
 
-**Parent Topic:**[Procurement](../concept/c_Procurement.md)
+**Parent Topic:**[Procurement](c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](r_ProcurementRoles.md)
 
-[Procurement workflows](../concept/c_ProcurementWorkflows.md)
+[Procurement workflows](c_ProcurementWorkflows.md)
 
 [Use the Procurement Overview module](t_UsingTheProcurementOverviewModule.md)
 
-[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+[Procurement purchase order management for assets](c_UseProcurement.md)
 
-[Receive assets](../concept/c_ReceiveAssets.md)
+[Receive assets](c_ReceiveAssets.md)
 
-[Domain separation and Procurement](../concept/domain-separation-procurement.md)
+[Domain separation and Procurement](domain-separation-procurement.md)
 

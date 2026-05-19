@@ -99,7 +99,7 @@ References
 
 </td><td>
 
-[Enabling HTML sanitizer](../../security/task/t_ActivateHTMLSanitizer.md)
+[Enabling HTML sanitizer](../t_ActivateHTMLSanitizer.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](sc-error-handling-logging.md)

@@ -21,8 +21,8 @@ To submit and track legal matters refer to the following tasks.
 
 -   **[Assign a legal matter to a legal group user](assign-legal-matter.md)**  
 Assign a legal matter to yourself or to someone in the assignment group to start working on the matter.
--   **[Work on a legal matter](work-on-legal-matter-1.md)**  
+-   **[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)**  
 As a matter owner, work on a legal matter assigned to you to resolve issues or answer queries.
 
-**Parent Topic:**[Legal Matter Management](../reference/legal-matter-management-landing-page.md)
+**Parent Topic:**[Legal Matter Management](legal-matter-management-landing-page.md)
 

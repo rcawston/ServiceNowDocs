@@ -215,7 +215,7 @@ The system assigns the specified Data owner or Data owner group to the Metric.
 
 -   **Advanced**
 
-The system assigns a Data owner based on the assignment configuration. ESG admins \[sn\_esg.admin\] or Risk admins \[sn\_risk.admin\] can set assignment configurations to dynamically assign data owners. For more information on creating assignment configurations see, [Create an assignment configuration](../task/create-assign-config-mmd.md) and [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configuration-new-record.md).
+The system assigns a Data owner based on the assignment configuration. ESG admins \[sn\_esg.admin\] or Risk admins \[sn\_risk.admin\] can set assignment configurations to dynamically assign data owners. For more information on creating assignment configurations see, [Create an assignment configuration](create-assign-config-mmd.md) and [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configuration-new-record.md).
 
 **Note:** This is available if you have the GRC: Approver Configurator application installed. For more information see, [Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-configuration.md).
 
@@ -285,7 +285,7 @@ Approver type
 Specifies the type of approver for the metric definition. The choices are as follows:-   **User**
 -   **User group**
 
-**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../../esg-management-reporting/reference/components-installed-with-esg.md).
+**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 </td></tr><tr><td>
 
@@ -296,7 +296,7 @@ Approver
 Approver user or approver group that is responsible to approve the metric definition. The choices are as follows:-   **Approver**: Displayed when the User option is selected.
 -   **Approver group**: Displayed when the User option is selected.
 
-**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../../esg-management-reporting/reference/components-installed-with-esg.md).
+**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -420,5 +420,5 @@ Allowed groups
 Groups that can view the record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an automated metric definition](../task/create-metric-definition.md)
+</table>**Parent Topic:**[Create an automated metric definition](create-metric-definition.md)
 

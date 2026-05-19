@@ -239,5 +239,5 @@ Date when the previous work order for the schedule occurrence was completed.
 **Related topics**  
 
 
-[Create a work order](../task/mco-create-work-order.md)
+[Create a work order](mco-create-work-order.md)
 

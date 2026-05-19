@@ -47,10 +47,10 @@ Employee Presence Exceptions
 
 </td><td>
 
-If the presence status is changed from **In-office** to **Remote**, a record is created in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). If the presence status is changed from "**In-office** or **Remote**" to "**Visit another office**," a record is created in the Employee Presence Exceptions table and Location column is updated with the building name for the **In-office** day. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../../wsd-for-mobile/concept/workplace-preference-schedule.md).
+If the presence status is changed from **In-office** to **Remote**, a record is created in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). If the presence status is changed from "**In-office** or **Remote**" to "**Visit another office**," a record is created in the Employee Presence Exceptions table and Location column is updated with the building name for the **In-office** day. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../workplace-service-delivery-for-mobile/workplace-preference-schedule.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Concierge - Components](../concept/workplace-concierge-references.md)
+</table>**Parent Topic:**[Workplace Concierge - Components](workplace-concierge-references.md)
 
 **Related topics**  
 

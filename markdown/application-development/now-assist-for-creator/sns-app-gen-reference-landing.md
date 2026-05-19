@@ -16,11 +16,11 @@ breadcrumb: [App generation, Use generative AI, Now Assist for Creator, Vibe cod
 
 Use these reference topics to look up configuration properties, roles, and related details for app generation.
 
--   **[App generation roles](../reference/sns-na-app-gen-roles.md#)**  
+-   **[App generation roles](sns-na-app-gen-roles.md#)**  
 Assign the correct role before using the Now Assist for Creator app generation skill. The role you need depends on whether you are creating or editing an application.
--   **[App generation supported metadata](../reference/sns-app-gen-supported-metadata.md)**  
+-   **[App generation supported metadata](sns-app-gen-supported-metadata.md)**  
 App generation creates seven metadata types, including tables, roles, and record producers. Use this reference to understand what each metadata type does and how app generation uses it.
--   **[App generation supported field types](../reference/sns-app-gen-supported-field-types.md)**  
+-   **[App generation supported field types](sns-app-gen-supported-field-types.md)**  
 App generation supports nine field types, including choice, reference, and string. Use this list to confirm which field types are available when generating an application.
 
 **Parent Topic:**[App generation](sns-now-assist-app-gen-landing.md)

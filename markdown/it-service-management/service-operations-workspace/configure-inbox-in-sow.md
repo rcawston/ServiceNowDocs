@@ -33,5 +33,5 @@ Role required: admin
 -   **[Enable automatic assignment of interactions to an agent](enable-automatic-assignment-interaction.md)**  
 Automatically accept chat conversations for an agent without having to accept or reject them in the inbox.
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](configuring-sow-to-improve-experience.md)
 

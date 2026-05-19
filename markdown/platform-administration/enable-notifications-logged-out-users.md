@@ -76,7 +76,7 @@ The date and time to activate the plugin.
 
 4.  In the form, select the **Push to inactive users** check box.
 
-    If the **Push to inactive users** check box is not visible, configure the form layout. For more information, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+    If the **Push to inactive users** check box is not visible, configure the form layout. For more information, see [Configuring the form layout](configure-form-layout.md#).
 
 5.  Select **Update**.
 
@@ -97,24 +97,24 @@ The date and time to activate the plugin.
     4.  Select **Submit**.
 
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Push notification system](../reference/r_PushMessageArchitecture.md)
+[Push notification system](r_PushMessageArchitecture.md)
 
 [Activate push notifications](t_ActivatePushNotifications.md)
 
-[Installed with push notifications](../reference/r_InstalledWithPushNotifications.md#)
+[Installed with push notifications](r_InstalledWithPushNotifications.md#)
 
-[Push notification properties](../reference/r_PushNotificationProperties.md)
+[Push notification properties](r_PushNotificationProperties.md)
 
-[Push notification setup with the ServiceNow mobile app](../reference/r_PushNotificationSetupSN.md)
+[Push notification setup with the ServiceNow mobile app](r_PushNotificationSetupSN.md)
 
-[Push notification setup with a custom push application for ServiceNow mobile apps](../reference/r_PushNotificationSetupCustom.md)
+[Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
 
 [Requeue failed push notification messages](t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](push-notification-retention.md)
 

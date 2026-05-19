@@ -69,7 +69,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Dependencies
 
-For a list of Otto for ITOM plugin dependencies, see [Applications installed with Now Assist for ITOM](../reference/app-now-assist-itom.md).
+For a list of Otto for ITOM plugin dependencies, see [Applications installed with Now Assist for ITOM](app-now-assist-itom.md).
 
 ## Troubleshoot and get help
 

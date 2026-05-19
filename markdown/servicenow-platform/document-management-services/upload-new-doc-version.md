@@ -36,7 +36,7 @@ Role required: none
 6.  Select **OK**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](doc-linked-parent-rec.md)
 
 **Related topics**  
 

@@ -56,5 +56,5 @@ AI resource finder helps resource and project managers identify the best-fit res
     The resource is assigned to the task.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

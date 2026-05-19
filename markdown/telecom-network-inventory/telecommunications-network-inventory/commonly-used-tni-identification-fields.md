@@ -140,7 +140,7 @@ Location
 
 </td><td>
 
-Geographic location of the network site. Select the search icon \(![Search icon.](../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](../task/define-tni-locations.md).
+Geographic location of the network site. Select the search icon \(![Search icon.](../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](define-tni-locations.md).
 
 </td></tr><tr><td>
 
@@ -304,5 +304,5 @@ Number of the addresses that are reserved for this IP pool or IP subnet.
 |Spare length Z|Length of the cable that connects to site Z in millimeters \(mm\).|
 |KML Route|Option that designates the fiber route maps in a KML format.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 

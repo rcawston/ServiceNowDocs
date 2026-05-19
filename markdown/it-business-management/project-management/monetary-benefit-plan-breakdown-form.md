@@ -107,7 +107,7 @@ First date of the fiscal period corresponding to the benefit plan breakdown.
 </table>**Related topics**  
 
 
-[Create a monetary benefit plan for a project](../task/create-project-benefit-plan.md)
+[Create a monetary benefit plan for a project](create-project-benefit-plan.md)
 
-[Update a monetary benefit plan breakdown for a project](../task/update-benefit-plan-breakdown.md)
+[Update a monetary benefit plan breakdown for a project](update-benefit-plan-breakdown.md)
 

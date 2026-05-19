@@ -120,5 +120,5 @@ The GitLab external content connector is updated with your modified crawl settin
 
 To retrieve content from your GitLab source system using your modified crawl settings, create and run a one-time content crawl for your GitLab external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[GitLab external content connector](../concept/gitlab-external-content-connector.md)
+**Parent Topic:**[GitLab external content connector](gitlab-external-content-connector.md)
 

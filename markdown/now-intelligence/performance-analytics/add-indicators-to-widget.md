@@ -23,7 +23,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -47,7 +47,7 @@ When a user selects breakdown elements on a breakdown dashboard, the breakdown a
 
 1.  Either save a widget that you are creating, or open an existing widget for editing.
 
-    You can open a widget either from **Performance Analytics** &gt; **Widgets** or from the dashboard. For more information, see [Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md).
+    You can open a widget either from **Performance Analytics** &gt; **Widgets** or from the dashboard. For more information, see [Edit a responsive dashboard](t_EditADashboard.md).
 
 2.  Scroll to the bottom of the form and locate a related list with the label **Widget Indicators**.
 
@@ -99,7 +99,7 @@ Time series
 
 </td><td>
 
-Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
+Runs a function on the indicator scores for a specific time period, such as a 7-day sum or average. For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).**Note:** Business and fiscal calendars do not support time series aggregations. You cannot set a time series aggregation on a widget for an indicator that uses such a calendar.
 
 </td></tr><tr><td>
 
@@ -154,13 +154,13 @@ A custom label for this indicator.
 
         For example, the indicator Number of open incidents uses two breakdowns: Assigned to, and Opened by. Both breakdowns are based on the Users.Active breakdown source. Consider the case where you create a widget for this indicator and you have the widget follow elements on breakdown dashboards. You want the widget to display separate values for the elements of the Assigned to breakdown. Therefore, you select **Assigned to** in the field **Followed breakdown**.
 
-    For more information about breakdown dashboards, see [Using breakdowns on dashboards](../concept/c_SpecialDashboards.md).
+    For more information about breakdown dashboards, see [Using breakdowns on dashboards](c_SpecialDashboards.md).
 
 8.  Time series widgets only: In the **Elements Filter** tab, you can select an element filter to use instead of selecting a first-level element in the **Element** field.
 
-    See [Element filters](../concept/c_BreakdownElementFilters.md#).
+    See [Element filters](c_BreakdownElementFilters.md#).
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](../concept/personalized-visuals.md#).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](personalized-visuals.md#).
 
     **Note:** On a dashboard, the names of all the elements that the elements filter passes are appended to the indicator name or label of the widget indicator.
 

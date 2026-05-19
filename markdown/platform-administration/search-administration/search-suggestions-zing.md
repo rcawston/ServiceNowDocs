@@ -15,7 +15,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 Display possible search query completions as users enter search terms.
 
-To use the Search Suggestions application, activate the com.glide.search.suggestions plugin if it's not already installed. For information, see [Request a plugin](../../plugins/task/t_RequestAPlugin.md) and [Activate a plugin](../../plugins/task/t_ActivateAPlugin.md).
+To use the Search Suggestions application, activate the com.glide.search.suggestions plugin if it's not already installed. For information, see [Request a plugin](../t_RequestAPlugin.md) and [Activate a plugin](../t_ActivateAPlugin.md).
 
 Once you enable Search Suggestions, suggestions appear automatically when users enter text into Zing search fields in the Service Portal or Now Mobile.
 
@@ -23,13 +23,13 @@ Once you enable Search Suggestions, suggestions appear automatically when users 
 
 If there are any matching suggestions from the user’s own previous searches, those suggestions appear first, with a clock icon. The remaining suggestions are those suggestions coming from the searches of other users.
 
-In the Service Portal, you can use Search Suggestions or type-ahead functionality, but not both at the same time. In Now Mobile, only Search Suggestions is available. By default, new ServiceNow instances use Search Suggestions in the Service Portal. Upgraded instances use whatever was previously enabled. You can easily enable Search Suggestions on upgraded instances. To learn more, see [Enable and disable Search Suggestions in Zing](../task/enable-search-suggestions.md).
+In the Service Portal, you can use Search Suggestions or type-ahead functionality, but not both at the same time. In Now Mobile, only Search Suggestions is available. By default, new ServiceNow instances use Search Suggestions in the Service Portal. Upgraded instances use whatever was previously enabled. You can easily enable Search Suggestions on upgraded instances. To learn more, see [Enable and disable Search Suggestions in Zing](enable-search-suggestions.md).
 
-For full details on configuration and use of the Search Suggestions application, see [Search Suggestions](../reference/search-suggestions-overview.md).
+For full details on configuration and use of the Search Suggestions application, see [Search Suggestions](../search-suggestions/search-suggestions-overview.md).
 
--   **[Enable and disable Search Suggestions in Zing](../task/enable-search-suggestions.md)**  
+-   **[Enable and disable Search Suggestions in Zing](enable-search-suggestions.md)**  
 Enable the Search Suggestions application to improve the Zing search user experience.
--   **[Set the maximum number of search suggestions Zing displays](../task/set-max-num-of-suggestions.md)**  
+-   **[Set the maximum number of search suggestions Zing displays](set-max-num-of-suggestions.md)**  
 Set the maximum number of search suggestions Zing displays when users enter search strings in search applications.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -37,7 +37,7 @@ Set the maximum number of search suggestions Zing displays when users enter sear
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -59,5 +59,5 @@ Set the maximum number of search suggestions Zing displays when users enter sear
 
 [Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 

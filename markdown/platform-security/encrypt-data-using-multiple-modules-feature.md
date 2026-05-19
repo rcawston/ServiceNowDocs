@@ -19,7 +19,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
 ## About this task
 
-The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [Using multiple encryption modules](../../encryption/concept/using-multiple-encryption-modules.md). This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
+The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [Using multiple encryption modules](using-multiple-encryption-modules.md). This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
 
 **Note:** Only encryption on columns supports multiple modules. Attachment encryption doesn’t. Mass encryption isn’t available when using the multiple encryption modules method.
 
@@ -35,7 +35,7 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 2.  Navigate to **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configurations** &gt; **New**.
 
-    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](../../encryption/task/set-encrypted-field-config.md).
+    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](set-encrypted-field-config.md).
 
 3.  In the **Type** field, you must select **Column**.
 
@@ -73,7 +73,7 @@ To encrypt the Short Description column on the Incident table. You would do the 
 
 ![Shows a diagram of multiple modules.](../image/MultipleModules.png)
 
-**Parent Topic:**[Using multiple encryption modules](../../encryption/concept/using-multiple-encryption-modules.md)
+**Parent Topic:**[Using multiple encryption modules](using-multiple-encryption-modules.md)
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](using-column-level-encryption-2.md)
 

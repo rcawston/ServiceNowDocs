@@ -61,11 +61,11 @@ Parameterized tests display test results by the execution order of the data sets
 
 The Parameterized Test Result record **Description** field lists the parameters and data sets used in the test run.
 
--   **[Create a parameterized test](../task/create-parameterized-test.md)**  
+-   **[Create a parameterized test](create-parameterized-test.md)**  
 Build a test that uses variables to store test data.
--   **[Add a parameter to a test step](../task/add-parameterized-value-to-step.md)**  
+-   **[Add a parameter to a test step](add-parameterized-value-to-step.md)**  
 Add a variable to a test step to hold a particular type of data when the test runs.
--   **[Add parameterized data sets](../task/add-parameterized-data.md)**  
+-   **[Add parameterized data sets](add-parameterized-data.md)**  
 Add or import test data to specify parameter runtime values.
 
 **Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)

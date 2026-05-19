@@ -91,16 +91,16 @@ Create Revision
 Option to enable or disable revision process.**Note:**
 
 1.  On selecting this check box, the following occurs:
-    1.  The revision process is initiated. To learn more, see [Revision, operationalization, and decommission of a Configuration Item](../concept/revision-of-a-confiuguration-item.md).
+    1.  The revision process is initiated. To learn more, see [Revision, operationalization, and decommission of a Configuration Item](revision-of-a-confiuguration-item.md).
     2.  Two change tasks for modification and revision are created with the open and closed status respectively.
-2.  Open the Modify Logical or Physical connection change task to start modifying the duplicated logical or physical connection and operationalize further. To learn more, see [Operationalize a configuration item](../task/operationalize-a-configuration-item.md).
+2.  Open the Modify Logical or Physical connection change task to start modifying the duplicated logical or physical connection and operationalize further. To learn more, see [Operationalize a configuration item](operationalize-a-configuration-item.md).
 3.  In the process of revision of physical connection modification, the logical connections associated with physical connection ports are updated during the operationalization process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Modify logical connection endpoints model](../task/create-a-change-request-by-using-modify-logical-connection-endpoints-model.md)
+[Modify logical connection endpoints model](create-a-change-request-by-using-modify-logical-connection-endpoints-model.md)
 

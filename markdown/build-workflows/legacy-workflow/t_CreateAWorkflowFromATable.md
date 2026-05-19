@@ -17,7 +17,7 @@ Automate a multi-step process by creating a workflow from the list view of any t
 
 ## Before you begin
 
--   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
+-   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
 
 ## Procedure
 

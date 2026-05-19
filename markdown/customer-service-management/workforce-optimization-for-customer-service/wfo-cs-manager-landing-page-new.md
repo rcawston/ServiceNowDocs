@@ -62,5 +62,5 @@ Monitor your agent's work at the start of your day, act on urgent alerts, assess
 |Top skills in 24 hrs|Bar|Highlights of agent skills in demand.|
 |Team's performance|Presentation list|Assessment of individual agent effectiveness using key metrics like Adherence and CSAT.|
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](../../../product/workforce-optimization-for-customer-service-configurable/concept/use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](use-configurable-wfo-cs.md)
 

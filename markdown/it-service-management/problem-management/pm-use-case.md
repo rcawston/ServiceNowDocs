@@ -41,5 +41,5 @@ When you use Problem Management with one of the following ServiceNow products, y
 -   Governance, Risk, and Compliance \(GRC\): Auditors can leverage the business applications and related Information Objects. This helps auditors understand the design-time data sensitivity for scoping audits, measuring risks, and managing audit activities.
 -   Asset Management: Manages the software and tangible/physical CI life cycles for business applications and business services.
 
-**Parent Topic:**[Applying CSDM guidelines to Problem Management](../concept/pm-use-case-product-view.md)
+**Parent Topic:**[Applying CSDM guidelines to Problem Management](pm-use-case-product-view.md)
 

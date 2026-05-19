@@ -41,7 +41,7 @@ It is important to note that only the information objects that are tagged with t
 -   **[Modify an information object within a processing activity](edit-an-io-on-a-pa.md)**  
 Add details such as justification for storing data to an information object after you add it to the processing activity. Adding details enables you to define how the personal data is being processed.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 
 **Related topics**  
 

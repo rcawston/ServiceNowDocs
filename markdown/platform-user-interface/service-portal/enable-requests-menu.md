@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The My Requests menu that is based on the My Requests \(my-requests-v2\) widget is available by default for zBoot users. For more information about this widget, refer to [My Requests widget](../concept/my-request-widget-portal.md).
+The My Requests menu that is based on the My Requests \(my-requests-v2\) widget is available by default for zBoot users. For more information about this widget, refer to [My Requests widget](my-request-widget-portal.md).
 
 ## Procedure
 
@@ -44,5 +44,5 @@ The My Requests menu that is based on the My Requests \(my-requests-v2\) widget 
 7.  Click **Update**.
 
 
-**Parent Topic:**[My Requests widget](../concept/my-request-widget-portal.md)
+**Parent Topic:**[My Requests widget](my-request-widget-portal.md)
 

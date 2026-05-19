@@ -62,7 +62,7 @@ You should always perform operations on only one entry. Select all source and ta
     |Script|Script that runs as part of the operation.|
     |Is Conditional|Specifies whether to apply the operation if the specified conditions are met.|
     |Conditional Fields|Fields to use in the condition.|
-    |Conditional Script|Condition specified as a string. For an example of a conditional script, see [Temporary entity model](../concept/temp-entity-model.md).|
+    |Conditional Script|Condition specified as a string. For an example of a conditional script, see [Temporary entity model](temp-entity-model.md).|
     |Application|Application scope for this record.|
     |Operation Type|Operation type for this operation.|
     |Entity|Entity this operation applies to.|

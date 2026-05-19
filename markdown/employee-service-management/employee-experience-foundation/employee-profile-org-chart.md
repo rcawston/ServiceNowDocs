@@ -25,16 +25,16 @@ As an admin, you can perform the following org chart configuration steps:
 -   Configure the eligible users and employee card display settings.
 -   Populate the direct report count and other report count through scheduled jobs.
 
-    **Note:** If the other report count is zero, new reports aren’t displayed until the count is updated by the scheduled job. For more information on running the job, see [Update the report count based on eligible users](../task/update-report-count.md).
+    **Note:** If the other report count is zero, new reports aren’t displayed until the count is updated by the scheduled job. For more information on running the job, see [Update the report count based on eligible users](update-report-count.md).
 
 -   Display the total report count in the selected user card and skip level reports.
 -   Define quick actions based on the org chart action group.
 -   Add an employee role and manage the reporting hierarchy.
 
-**Note:** Employee Center Pro customers get the new org chart on opting into the Employee Profile. Mark the Page Route Map record as active. All previous org chart links redirect to the new org chart. See [Opt in to the employee profile](../task/profile-opt-in.md) for more information.
+**Note:** Employee Center Pro customers get the new org chart on opting into the Employee Profile. Mark the Page Route Map record as active. All previous org chart links redirect to the new org chart. See [Opt in to the employee profile](profile-opt-in.md) for more information.
 
 **Related topics**  
 
 
-[Modify the org chart widget display](../task/config-orgchart-instanceoptions.md)
+[Modify the org chart widget display](config-orgchart-instanceoptions.md)
 

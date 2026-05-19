@@ -38,12 +38,12 @@ Due to the high level of traffic to the table, you cannot audit the Alert table 
 
 The `Event Management - auto close alerts` script runs automatically and repeatedly at the scheduled time and closes alerts that meet the specified conditions.
 
-**Parent Topic:**[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+**Parent Topic:**[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)
 
 **Related topics**  
 
 
-[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+[Rotate event and alert table for cleanup](rotate-tables-purge-data.md)
 
 [Modify event table rotation](event-table-rotation.md)
 

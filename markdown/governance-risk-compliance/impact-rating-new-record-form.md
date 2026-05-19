@@ -88,5 +88,5 @@ Field to revise the question text. For the recovery time objective of an impact 
 ![Revising the question text.](../image/question-text.png)The revised question is then displayed in the RTO assessment of the business impact analysis record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure impact ratings](../task/configure-impact-rating-uib-ws.md)
+</table>**Parent Topic:**[Configure impact ratings](configure-impact-rating-uib-ws.md)
 

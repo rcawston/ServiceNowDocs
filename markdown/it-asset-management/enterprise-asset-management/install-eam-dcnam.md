@@ -30,7 +30,7 @@ The following items are installed with Enterprise Asset Management for DCNAM:
 -   Store applications
 -   Roles
 
-For more information, see [Components installed with Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](../reference/installed-with-eam-dcnam.md).
+For more information, see [Components installed with Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](installed-with-eam-dcnam.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For more information, see [Components installed with Enterprise Asset Management
 5.  Select **Install**.
 
 
-**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](../concept/eam-dcnam.md)
+**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](eam-dcnam.md)
 

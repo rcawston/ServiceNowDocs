@@ -23,7 +23,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
 -   Start UI Builder.
 -   Create a page for your workspace or custom portal experience. For more information about creating pages, see [Create a page in UI Builder](create-page.md).
--   Build your page by adding components. For more information about components, see [Customize UI Builder pages using components](../concept/work-components.md).
+-   Build your page by adding components. For more information about components, see [Customize UI Builder pages using components](work-components.md).
 -   Save your page.
 -   Preview your page to see how it looks in a browser.
 
@@ -33,7 +33,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
 2.  Select an experience that you want to work in from the UI Builder home page.
 
-    If you don’t see any experiences listed in which to work, contact your administrator to get access to an experience, or create an experience. For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    If you don’t see any experiences listed in which to work, contact your administrator to get access to an experience, or create an experience. For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Create a page.
 
@@ -67,7 +67,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
     8.  Add parameters to your page URL by selecting **+ Add**.
 
-        For more information, see [Manage UI Builder pages and page variants](../concept/work-pages.md).
+        For more information, see [Manage UI Builder pages and page variants](work-pages.md).
 
     9.  Select **Looks good**.
 
@@ -111,7 +111,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
     5.  In the **Component label** field, type `Container for heading`.
 
-    6.  In the [Component ID](../concept/ui-builder-glossary.md#) field, type `container_for_heading`.
+    6.  In the [Component ID](ui-builder-glossary.md#) field, type `container_for_heading`.
 
     7.  Select **Apply**.
 
@@ -119,7 +119,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
         ![Content tree with customized column layout.](../image/qs-content-tree-custom-label.png)
 
-        For more information on component IDs, see [Component ID](../concept/work-components.md#component_id).
+        For more information on component IDs, see [Component ID](work-components.md#component_id).
 
     You’ve successfully added your first column layout to your page.
 
@@ -157,7 +157,7 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
     4.  The Style changes the size of the heading text.
 
-        For example, if you select **Header-secondary**, the text is smaller. Different headings sizes are useful if you have two headings and want the second heading smaller that the primary heading. For more information on configuring components, see [Configure components in UI Builder](../concept/work-components.md#config_components).
+        For example, if you select **Header-secondary**, the text is smaller. Different headings sizes are useful if you have two headings and want the second heading smaller that the primary heading. For more information on configuring components, see [Configure components in UI Builder](work-components.md#config_components).
 
     5.  Leave the **Level** as **1**.
 
@@ -238,5 +238,5 @@ In this UI Builder quick start, you perform the following tasks to build your fi
 
 You successfully completed the UI Builder quick start!
 
-**Parent Topic:**[Exploring UI Builder](../concept/create-custom-experience.md)
+**Parent Topic:**[Exploring UI Builder](create-custom-experience.md)
 

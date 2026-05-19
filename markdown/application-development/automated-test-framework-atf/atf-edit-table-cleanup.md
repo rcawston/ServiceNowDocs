@@ -49,10 +49,10 @@ The system regularly flushes data in the sys\_atf\_test\_result and sys\_atf\_te
 
 5.  In the **Conditions** field, specify the filter conditions to use for selection of data \(and optionally, referencing data\) for this Auto Flush retention policy.
 
-    The default is **Retain indefinitely is false**, because the [Test results record](../reference/atf-test-results-record.md) also contains a **Retain indefinitely** check box that allows opting out of the auto flushes for specific test results.
+    The default is **Retain indefinitely is false**, because the [Test results record](atf-test-results-record.md) also contains a **Retain indefinitely** check box that allows opting out of the auto flushes for specific test results.
 
 6.  Click **Update**.
 
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](../concept/atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
 

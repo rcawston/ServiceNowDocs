@@ -100,5 +100,5 @@ Number of software installations for each license type that you are using in AWS
 </td></tr></tbody>
 </table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Oracle](oracle-publisher-pack.md)
 

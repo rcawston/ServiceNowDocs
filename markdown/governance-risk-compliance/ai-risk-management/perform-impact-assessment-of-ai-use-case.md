@@ -100,5 +100,5 @@ An AI Risk and Compliance Analyst evaluates the completed assessment along with 
 
 Proceed to [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md).
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

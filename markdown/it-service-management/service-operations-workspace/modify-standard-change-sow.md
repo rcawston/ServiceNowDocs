@@ -34,5 +34,5 @@ Role required: admin, change\_manager
     -   Save edits, but do not send for approval by selecting **Save**.
     -   Send edits for approval to the change management team by selecting **Request Approval**.
 
-**Parent Topic:**[Standard change catalog](../concept/standard-change-catalog-sow.md)
+**Parent Topic:**[Standard change catalog](standard-change-catalog-sow.md)
 

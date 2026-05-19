@@ -30,7 +30,7 @@ For free-form roadmaps, milestones are supported only if the source table is Pla
 
 You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
-However, any existing milestones of the project are visible on the roadmap if you've [integrated Strategic Planning with PPM](../../apw-internal-integrations/concept/configuring-apw-with-agile-safe-and-ppm.md).
+However, any existing milestones of the project are visible on the roadmap if you've [integrated Strategic Planning with PPM](configuring-apw-with-agile-safe-and-ppm.md).
 
 ## Procedure
 
@@ -77,7 +77,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Planning item milestone form](../../alignment-planner-workspace/reference/planning-item-milestone-form.md).
+    For field information, see [Planning item milestone form](planning-item-milestone-form.md).
 
 6.  Select **Save**.
 
@@ -97,7 +97,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 ## What to do next
 
--   [Learn how to customize the display of milestones on the roadmap.](../../alignment-planner-workspace/concept/personalizing-the-milestones-display-on-the-roadmap.md)
--   [Learn when a planning item milestone can be in an error state.](../../alignment-planner-workspace/concept/error-states-for-planning-item-milestones.md)
+-   [Learn how to customize the display of milestones on the roadmap.](personalizing-the-milestones-display-on-the-roadmap.md)
+-   [Learn when a planning item milestone can be in an error state.](error-states-for-planning-item-milestones.md)
 -   [Learn how to manage the milestones for planning items.](manage-planning-item-milestones.md)
 

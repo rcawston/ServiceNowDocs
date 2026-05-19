@@ -19,7 +19,7 @@ Trigger a capability profile manually from a ServiceNow AI Platform Security Inc
 
 Role required: sn\_si.admin
 
-**Note:** The approvals option in the [Configure settings](../concept/mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
+**Note:** The approvals option in the [Configure settings](mcafee-epo-configuring-profile.md) appears only for Isolate Host and Remove Host Isolation capabilities.
 
 ## About this task
 
@@ -70,7 +70,7 @@ Once you activate the profile, based on the configured trigger conditions, you c
         The select CI gets isolated from the network.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
 
 **Previous topic:**[Configure a profile to initiate malware scan](mcafee-epo-config-scan-malwr.md)
 

@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Configure users and groups](../task/configure-csm-users-groups.md)
+[Configure users and groups](configure-csm-users-groups.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Configure the individual users and the user groups who can access your instance.
 
 </td></tr><tr><td>
 
-[Assign roles to CSM users](../task/assign-csm-roles.md)
+[Assign roles to CSM users](assign-csm-roles.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Create teams made up of employees and customer contacts who fulfill the roles an
 
 </td></tr><tr><td>
 
-[Configure Contributor Users](../task/config-contributor-user.md)
+[Configure Contributor Users](config-contributor-user.md)
 
 </td><td>
 

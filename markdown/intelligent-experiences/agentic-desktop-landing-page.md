@@ -21,42 +21,42 @@ ServiceNow® AI Desktop Actions enables you to design, configure, and manage des
 
 There are two types of desktop actions: defined path and adaptive path. Both enable AI agents to automate tasks on behalf of users, but they differ in how steps are designed and executed, what applications they support, and how they handle variation in the user interface.
 
--   **[Adaptive desktop actions for web-based tasks](../concept/web-agents-overview.md)**
+-   **[Adaptive desktop actions for web-based tasks](web-agents-overview.md)**
 
     With adaptive path desktop actions, you describe what task you want to accomplish on web at a high level in the tool configuration. The AI agent processes the request, generates an execution plan, and dynamically determines the specific steps needed to complete the task.
 
     Best for: Tasks that require flexibility, decision-making, or adaptation to changing UI elements.
 
--   **[Defined desktop actions for desktop and web-based tasks](../concept/desktop-actions.md)**
+-   **[Defined desktop actions for desktop and web-based tasks](desktop-actions.md)**
 
     With defined path desktop actions, you record or capture a fixed sequence of steps in the AI Desktop Actions Windows application. The AI agent executes these predefined steps in order without deviation.
 
     Best for: Repeatable tasks with consistent steps and predictable UI interactions.
 
 
-For more information, see [When to use adaptive vs. defined path desktop actions](../concept/adaptive-vs-fixed-desktop-action.md).
+For more information, see [When to use adaptive vs. defined path desktop actions](adaptive-vs-fixed-desktop-action.md).
 
 ## Get started
 
 <table id="table_l3z_3x3_ygc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about AI Desktop Actions concepts and features](../concept/explore-agentic-desktop.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about AI Desktop Actions concepts and features](explore-agentic-desktop.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up AI Desktop Actions to automate desktop tasks](../task/configure-agentic-desktop.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up AI Desktop Actions to automate desktop tasks](configure-agentic-desktop.md)
 
 </td><td>
 
-[Design![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Design automations for legacy applications that do not have APIs](../concept/desktop-actions-designer-workspace-ad.md)
+[Design![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Design automations for legacy applications that do not have APIs](desktop-actions-designer-workspace-ad.md)
 
 </td></tr><tr><td>
 
-[Create an AI agent![](../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Create your own custom AI agents with advanced multi-agent reasoning frameworks](../concept/create-ai-agents-ad.md)
+[Create an AI agent![](../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Create your own custom AI agents with advanced multi-agent reasoning frameworks](create-ai-agents-ad.md)
 
 </td><td>
 
-[Use ![](../../../administer/document-intelligence/image/icon-use-docintel.png) Use the AI Desktop Actions application to execute automations using AI agents.](../concept/use-agentic-desktop.md)
+[Use ![](../../../administer/document-intelligence/image/icon-use-docintel.png) Use the AI Desktop Actions application to execute automations using AI agents.](use-agentic-desktop.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../../administer/now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../../administer/now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](platform-now-assist-landing.md).
 

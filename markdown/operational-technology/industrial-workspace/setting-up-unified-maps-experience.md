@@ -42,8 +42,8 @@ Modify the following default settings of the Industrial Workspace Config Identif
 -   Table attributes
 
 </td></tr></tbody>
-</table>-   **[Default settings of the Operational Technology Unified Map experience](../concept/default-settings-unified-maps-experience.md)**  
+</table>-   **[Default settings of the Operational Technology Unified Map experience](default-settings-unified-maps-experience.md)**  
 You can modify the default settings available for the Operational Technology \(OT\) Unified Map experience.
 
-**Parent Topic:**[Configuring the Industrial Workspace](../../operational-technology-management/concept/configuring-industrial-workspace.md)
+**Parent Topic:**[Configuring the Industrial Workspace](configuring-industrial-workspace.md)
 

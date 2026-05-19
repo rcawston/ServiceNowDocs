@@ -63,5 +63,5 @@ Select the Agile Development 2.0 table for which you've created the custom map.F
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Customizing map configuration for your Jira projects](../reference/custom-map-configuration.md)
+**Parent Topic:**[Customizing map configuration for your Jira projects](custom-map-configuration.md)
 

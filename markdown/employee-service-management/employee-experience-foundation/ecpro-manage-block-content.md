@@ -27,7 +27,7 @@ Role required: sn\_cd.content\_manager
 
 3.  On the form, fill in the fields.
 
-    For more information on fields and description, see [Block content form](../reference/block-content-form.md).
+    For more information on fields and description, see [Block content form](block-content-form.md).
 
 4.  Select **Save** or **Submit**.
 
@@ -39,6 +39,6 @@ Role required: sn\_cd.content\_manager
 
 6.  Select the language you want your content translated to from the modal that appears.
 
-    For more information on language translations, see [Configure Localization Framework for Content Publishing](../concept/ec-int-localization-framework.md).
+    For more information on language translations, see [Configure Localization Framework for Content Publishing](ec-int-localization-framework.md).
 
 

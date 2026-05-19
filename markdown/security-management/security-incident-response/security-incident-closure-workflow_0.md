@@ -65,7 +65,7 @@ Role required: sn\_si.analyst
     **Note:** By any chance if the analyst cancels the **Close the security incident** dialogue box, then the analyst can navigate to the **Details** tab and change the incident state to **close** to continue with the closure.
 
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](using-sir-workspace.md)
 
 **Related topics**  
 
@@ -74,17 +74,17 @@ Role required: sn\_si.analyst
 
 [Security Incident Playbook](security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
 
 [Working with MSI Records](working-with-msi-records.md)
 
 [Working with Form UI actions](enable_workspace_form_ui_actions.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](handle-incidents-using-awa.md)
 

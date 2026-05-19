@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Cancel a Cloud account request](../task/cancel-cam-account.md)
+[Cancel a Cloud account request](cancel-cam-account.md)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Suspended accounts can still be used along with its resources, but new resources
 
 </td></tr><tr><td>
 
-[Reactivate a cloud account](../task/reactivate-account.md)
+[Reactivate a cloud account](reactivate-account.md)
 
 </td><td>
 

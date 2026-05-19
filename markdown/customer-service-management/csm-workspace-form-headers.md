@@ -17,7 +17,7 @@ Form headers typically include the case short description. They can also include
 
 ![Case form header that shows the short description, record tags, and action buttons such as Close Case, Save, and Assign to me](../image/csm-config-workspace-case-form-header.png "Case form header")
 
-For more information, see [Set up a form header in CSM Configurable Workspace](../task/config-csm-config-ws-form-header.md)
+For more information, see [Set up a form header in CSM Configurable Workspace](config-csm-config-ws-form-header.md)
 
 **Note:** One form header configuration, **CSM/FSM Configurable Workspace Header Config**, is included with CSM Configurable Workspace.
 
@@ -30,7 +30,7 @@ The Record Information tab in the contextual side panel can include the followin
 -   Overview: Displays relevant information about the case including the account and contact, the case priority, and the state.
 -   Active SLA: Displays active SLAs for the case, including time remaining, the SLA state, and any breaches.
 
-The cards that appear in the Record Information tab can be configured in the ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](../task/config-csm-config-ws-ribbon.md).
+The cards that appear in the Record Information tab can be configured in the ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](config-csm-config-ws-ribbon.md).
 
 ![The overview card shows the customer information, the case priority, and case state.](../image/csm-config-workspace-case-form-header-sidebar.png "Overview card in the Record Information tab")
 

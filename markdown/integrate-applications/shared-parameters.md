@@ -13,11 +13,11 @@ breadcrumb: [RPA Hub, Automation components, RPA Desktop Design Studio, Workflow
 
 You can set parameters and their values that are shared across bot processes in the RPA Hub. The Shared Parameters components enable you to get the values of one or more such parameters.
 
--   **[Use the GetSharedParameters component](../task/use-rpahub-sharedparameters-getsharedparameters.md)**  
+-   **[Use the GetSharedParameters component](use-rpahub-sharedparameters-getsharedparameters.md)**  
 Get the values of multiple shared parameters set up for multiple bot processes on the RPA Hub using the GetSharedParameters component.
--   **[Use the SetSharedParameter component](../task/use-rpahub-sharedparameters-setsharedparameter.md)**  
+-   **[Use the SetSharedParameter component](use-rpahub-sharedparameters-setsharedparameter.md)**  
 Update the value of a specific shared parameter that you had set for multiple bot processes on the RPA Hub by using the SetSharedParameter component in the RPA Desktop Design Studio.
--   **[Properties of the shared parameters](../reference/properties-rpahub-shared-parameters.md)**  
+-   **[Properties of the shared parameters](properties-rpahub-shared-parameters.md)**  
 Learn about the properties of the shared parameters in RPA Desktop Design Studio.
 
 **Parent Topic:**[RPA Hub](rpa-hub.md)

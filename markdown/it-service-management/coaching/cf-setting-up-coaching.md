@@ -19,7 +19,7 @@ To take full advantage of Coaching, configure the Coaching application and set u
 
 Configure Coaching to start assessing and coaching trainees.
 
-1.  Set up [Coaching roles](../reference/cf-coaching-roles.md) and groups to identify Coaching users, coaches, and admins.
+1.  Set up [Coaching roles](cf-coaching-roles.md) and groups to identify Coaching users, coaches, and admins.
 2.  Define an assessment trigger on the Coaching Opportunity form.
 3.  Identify training content that is provided as part of a training or virtual coaching.
 4.  Configure virtual coaches to add to a coaching opportunity.
@@ -36,7 +36,7 @@ Access the [Survey designer](https://raw.githubusercontent.com/ServiceNow/Servic
 
 Access the Coaching [Survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md) by navigating to **Coaching** &gt; **Coaching Surveys**.
 
--   **[Create a survey and associate with a Coaching opportunity](../task/cf-create-survey-coaching-opportunity.md)**  
+-   **[Create a survey and associate with a Coaching opportunity](cf-create-survey-coaching-opportunity.md)**  
 Create a survey for coaches or trainees to assess the training quality. Add a question bank to the survey. Associate the survey with a coaching opportunity to provide feedback when the coach completes the coaching assessment.
 
 **Parent Topic:**[Configuring Coaching](cf-configuring-coaching.md)

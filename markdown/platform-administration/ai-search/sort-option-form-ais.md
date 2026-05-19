@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The Sort Option form contains information about search result sort options defined in your AI Search application configurations. Use this form when creating or modifying a search result sort option for a search application configuration.
 
-For details on creating or editing search result sort options, see [Search result sort options in AI Search application configurations](../concept/sort-options-srch-app-cfg-ais.md#).
+For details on creating or editing search result sort options, see [Search result sort options in AI Search application configurations](sort-options-srch-app-cfg-ais.md#).
 
 <table id="table_f2c_t4r_grb"><thead><tr><th>
 
@@ -104,5 +104,5 @@ Active
 Option to activate the search result sort option for use in the search application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+</table>**Parent Topic:**[AI Search reference](reference-ais.md)
 

@@ -294,5 +294,5 @@ Additional use and purpose details
 Additional information or context that helps clarify the specific use and purpose of this AI system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request an AI use case](../task/request-ai-system.md)
+</table>**Parent Topic:**[Request an AI use case](request-ai-system.md)
 

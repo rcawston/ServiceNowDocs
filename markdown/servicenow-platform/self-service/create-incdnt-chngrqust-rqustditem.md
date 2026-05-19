@@ -30,12 +30,12 @@ Role required: itil
 3.  Click the Additional actions menu icon ![Additional actions menu icon](../image/AdditionalActions.png) and select **Create Change** or **Create Incident**
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](p_ServiceCatalogRequests.md)
 
 **Related topics**  
 
 
-[Record Producer](../../../product/service-catalog-management/concept/c_RecordProducer.md)
+[Record Producer](../service-catalog/c_RecordProducer.md)
 
-[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+[Service catalog requests](p_ServiceCatalogRequests.md)
 

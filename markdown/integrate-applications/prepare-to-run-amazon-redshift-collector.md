@@ -47,5 +47,5 @@ Run the following SQL statements to set up a new user with appropriate permissio
     ```
 
 
-**Parent Topic:**[Amazon Redshift metadata collector](../concept/amazon-redshift-metadata-collector.md)
+**Parent Topic:**[Amazon Redshift metadata collector](amazon-redshift-metadata-collector.md)
 

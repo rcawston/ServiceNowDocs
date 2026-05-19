@@ -63,10 +63,10 @@ Users can also create own groups. For more information on creating own service- 
 
 Invoice case is created and processed. Once the case is resolved, the agent closes the case with appropriate reason. The UR is synced with invoice case details for invoice owners and suppliers to track the status of the UR.
 
-**Parent Topic:**[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+**Parent Topic:**[Universal Request in Accounts Payable Operations](universal-request-in-apo.md)
 
 **Related topics**  
 
 
-[Using Invoice Case Management](../concept/use-invoice-case-mgmt.md)
+[Using Invoice Case Management](use-invoice-case-mgmt.md)
 

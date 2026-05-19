@@ -23,7 +23,7 @@ In CSM Configurable Workspace, there are three versions of the case type selecto
 
 -   With the multi-select version, the agent selects a case type and optionally selects a category and subtype to narrow the available choices before creating a case. This is the default functionality.
 -   With the single-select version, the agent selects a case type and creates a case. The system populates some of the fields on the Case form with values that have been predefined in the selection configuration.
--   With the Product Service Select version, the agent selects a product and a service to create a case. For more information, see [Product Service select version of the case type selector](../concept/csm-case-type-select-modals-product-service.md).
+-   With the Product Service Select version, the agent selects a product and a service to create a case. For more information, see [Product Service select version of the case type selector](csm-case-type-select-modals-product-service.md).
 
 To use the single-select version, follow the procedure below to configure one or more selections that are available to agents when creating a case. You must also [enable the case type single select property](enable-case-type-single-select-prop.md).
 

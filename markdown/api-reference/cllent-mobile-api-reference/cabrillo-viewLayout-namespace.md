@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS functions to provide access to native UI elements like buttons and spinners.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](api-client-mobile.md)
 
 ## cabrillo.viewLayout - getTitle\(\)
 

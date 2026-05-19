@@ -46,5 +46,5 @@ Role required: sn\_ppt\_export.ppt\_admin
     -   For macOS machines: [https://learn.microsoft.com/en-us/office/dev/add-ins/testing/sideload-an-office-add-in-on-mac](https://learn.microsoft.com/en-us/office/dev/add-ins/testing/sideload-an-office-add-in-on-mac)
 -   For more information about the additional configuration steps required to enable the Export to PowerPoint add-in for browser version of Microsoft PowerPoint, see the [KB1171422](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1171422) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Configuring Export to PowerPoint](../concept/configure-export-to-ppt.md)
+**Parent Topic:**[Configuring Export to PowerPoint](configure-export-to-ppt.md)
 

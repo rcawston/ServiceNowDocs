@@ -60,7 +60,7 @@ This feature requires the Proactive Customer Service Operations with Event Manag
 
 [Integration with Event Management](pcso-event-management.md)
 
-[Configure form views for Proactive Customer Service Operations](../task/configure-form-views.md)
+[Configure form views for Proactive Customer Service Operations](configure-form-views.md)
 
-[Track the service health of install base items in Agent Workspace](../task/service-health-tracking-csm.md)
+[Track the service health of install base items in Agent Workspace](service-health-tracking-csm.md)
 

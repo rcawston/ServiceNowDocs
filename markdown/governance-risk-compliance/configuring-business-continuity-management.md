@@ -19,11 +19,11 @@ Configuring Business Continuity Management involves installing the application f
 
 **Note:** If you have the BCM role, you can perform the setup tasks that are described in this section.
 
--   Install the Business Continuity Management application from store. For more information, see [Install Business Continuity Management from ServiceNow Store](../task/install-business-continuity-management.md).
+-   Install the Business Continuity Management application from store. For more information, see [Install Business Continuity Management from ServiceNow Store](install-business-continuity-management.md).
 
     **Note:** Installing GRC: Business Impact Analysis, GRC: Business Continuity Planning, or GRC: Crisis Management automatically installs GRC: Business Continuity Management – Core and GRC: Business Continuity Management – Components.
 
--   Verify that you have assigned users with the required roles. For detailed instructions and a list of roles, see [Components installed with Business Continuity Management](../reference/installed-with-bcm.md#).
+-   Verify that you have assigned users with the required roles. For detailed instructions and a list of roles, see [Components installed with Business Continuity Management](installed-with-bcm.md#).
 -   Set up the Business Continuity Management application by performing the administrative tasks with the BCM administrator role. For more information, see [General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md).
 
     **Note:** You can view **My tasks page configurations** and **Properties** in the **General Administration** setup.
@@ -36,8 +36,8 @@ Configuring Business Continuity Management involves installing the application f
 
     **Note:** When you create a business continuity plan in BCM UIB Workspace, you can assign a BCM lead to the plan in the BCP form itself.
 
--   Format the PDF templates for a business impact analysis, a business continuity plan, or an event. For more information, see [Format PDF templates for BIAs, BCPs, and Events](../task/update-pdf-format-for-bia-bcp-event.md).
--   Configure the 360° relationship registries and views. For more information, see [Configure 360° relationship registries and views](../task/configure-relationship-registries-views.md).
+-   Format the PDF templates for a business impact analysis, a business continuity plan, or an event. For more information, see [Format PDF templates for BIAs, BCPs, and Events](update-pdf-format-for-bia-bcp-event.md).
+-   Configure the 360° relationship registries and views. For more information, see [Configure 360° relationship registries and views](configure-relationship-registries-views.md).
 -   Set up the notifications with Everbridge. For more information, see [Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md).
 -   Set up the Crisis map. For more information, see [Setup for Crisis map](crisis-map-admin-tasks.md).
 -   Review the setup tasks that are performed by an administrator. For more information, see [Setup by system administrators](set-up-bcm-sys-admin-tasks.md).

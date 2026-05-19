@@ -42,11 +42,11 @@ If you use an application template, the template automatically adds one or more 
 
 To build an application from scratch, add data, experience, logic and automation, and security to your application and then edit each.
 
--   **[Create your app using an application template](../task/use-app-template.md)**  
+-   **[Create your app using an application template](use-app-template.md)**  
 Build an application in App Engine Studio \(AES\) that uses predefined data, experience, logic and automation, and security. Add to the template contents to customize the app for your organization.
--   **[Create your application from scratch](../task/create-app-scratch.md)**  
+-   **[Create your application from scratch](create-app-scratch.md)**  
 If the available application templates in App Engine Studio \(AES\) don't fit your application goal, create an empty application to which you can add data, experience, logic and automation, and security.
--   **[Prepare your app for approval](../task/manage-application.md)**  
+-   **[Prepare your app for approval](manage-application.md)**  
 Prepare your app for the approval process by making any needed changes, such as renaming your app, editing the app description, or replacing the app image. You can also delete the app from App Engine Studio \(AES\) if it has taken a wrong turn.
 
 **Parent Topic:**[Building apps in App Engine Studio](aes-app-creation.md)

@@ -52,5 +52,5 @@ You can use an existing or create a new HR PDF document template. You can add si
 6.  Click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](docusign-integration-for-hr.md)
 

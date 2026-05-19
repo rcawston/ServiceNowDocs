@@ -19,7 +19,7 @@ Use the Grouped Choice user input control in a Virtual Agent topic to list multi
 
 The Grouped Choice list prompts users to select related choices in one message through the default **Select a choice** button. You can enable multi-select for each choice's group and also provide images and short descriptions to create a richer user experience. Users are presented with groups of choices where they're required to submit one selection before returning to the Virtual Agent topic.
 
-Inputs are recorded on the Interactions \[interactions\] table. For more information, see [Virtual Agent interaction records](../concept/va-interactions.md).
+Inputs are recorded on the Interactions \[interactions\] table. For more information, see [Virtual Agent interaction records](va-interactions.md).
 
 ## Grouped Choice user input control properties
 

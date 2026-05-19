@@ -33,5 +33,5 @@ Complete the following tasks to use the Knowledge Management - Add-in for Micros
 **Related topics**  
 
 
-[Authoring a knowledge article in Microsoft Word](../concept/knowledge-article-authoring-word.md)
+[Authoring a knowledge article in Microsoft Word](knowledge-article-authoring-word.md)
 

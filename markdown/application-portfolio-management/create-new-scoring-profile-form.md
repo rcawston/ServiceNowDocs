@@ -24,7 +24,7 @@ Create an application score profile and update the default application profile w
 **Related topics**  
 
 
-[Manage scoring profiles](../../concept/eaw-concept/eaw-configure-scoring-profiles.md)
+[Manage scoring profiles](eaw-configure-scoring-profiles.md)
 
-[Add or edit a scoring profile](../../task/eaw-task/eaw-create-scoring-profile.md)
+[Add or edit a scoring profile](eaw-create-scoring-profile.md)
 

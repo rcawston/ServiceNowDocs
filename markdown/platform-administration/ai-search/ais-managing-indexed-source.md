@@ -111,15 +111,15 @@ Semantic fields
 Name of the fields that are configured to index for a semantic vector search.
 
 </td></tr></tbody>
-</table>-   **[Create an indexed source from the AI Search Admin console](../task/ais-admin-console-create-indexed-source.md)**  
+</table>-   **[Create an indexed source from the AI Search Admin console](ais-admin-console-create-indexed-source.md)**  
 Define an indexed source to make content and metadata from ServiceNow AI Platform table records searchable by using AI Search.
--   **[Define the semantic indexing configuration for an indexed source](../task/ais-admin-console-config-semantic-index.md)**  
+-   **[Define the semantic indexing configuration for an indexed source](ais-admin-console-config-semantic-index.md)**  
 Define the semantic indexing configuration for your indexed sources so that AI Search can analyze and understand your content accurately. By doing this process, you can help to ensure that you get more relevant search results.
--   **[Index the content from an indexed source for searchability](../task/ais-admin-console-start-content-indexing.md)**  
+-   **[Index the content from an indexed source for searchability](ais-admin-console-start-content-indexing.md)**  
 Enable AI Search to index the records from your source tables to make the content searchable.
--   **[Set up a field configuration for an indexed source](../task/ais-admin-console-setup-field-config-indexed-source.md)**  
+-   **[Set up a field configuration for an indexed source](ais-admin-console-setup-field-config-indexed-source.md)**  
 Set up indexed source field configurations to control how AI Search indexes content for a specific field in your source table records.
--   **[Set up an indexed source attribute for indexing the search content](../task/ais-admin-console-setup-indexed-source-attributes.md)**  
+-   **[Set up an indexed source attribute for indexing the search content](ais-admin-console-setup-indexed-source-attributes.md)**  
 Set up an indexed source attribute to control how AI Search indexes content for all records in a source table.
 
 **Parent Topic:**[Using AI Search Admin console](using-ais-admin-console.md)

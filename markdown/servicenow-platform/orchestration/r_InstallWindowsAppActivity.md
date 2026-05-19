@@ -15,7 +15,7 @@ breadcrumb: [PowerShell activity pack, Orchestration activity packs, Classic Orc
 
 The Install Windows App activity installs an application from an MSI package on a Windows target machine.
 
-**Note:** This activity replaces a Powershell activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](../../orchestration-activity-designer/concept/c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](../../orchestration-activity-designer/concept/c_OrchestrationDatabus.md#).
+**Note:** This activity replaces a Powershell activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](c_OrchestrationDatabus.md#).
 
 ## Input variables
 
@@ -31,7 +31,7 @@ The Install Windows App activity installs an application from an MSI package on 
 |Variable|Description|
 |--------|-----------|
 |result|Either **success** or **failure**.|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#).|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](t_CreateAParsingRule.md#).|
 
 ## Conditions
 
@@ -42,7 +42,7 @@ The activity state tells the workflow engine what to do with the activity.
 |Success|The Windows application was successfully installed on the target machine.|
 |Failure|The Windows application failed to install on the target machine|
 
-**Parent Topic:**[PowerShell activity pack](../concept/c_OrchestrPwrshellActivityPack.md)
+**Parent Topic:**[PowerShell activity pack](c_OrchestrPwrshellActivityPack.md)
 
 ## Enable WMI Windows Installer provider
 

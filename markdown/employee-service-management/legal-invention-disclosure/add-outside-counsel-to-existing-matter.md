@@ -57,5 +57,5 @@ Role required: admin, sn\_lg\_ops.request\_fulfiller
 10. Verify that the outside counsel was added by refreshing the Outside Counsel tab.
 
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

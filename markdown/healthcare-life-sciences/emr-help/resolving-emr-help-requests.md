@@ -21,7 +21,7 @@ As a fulfiller, for example, if you are an IT agent, you can access the task rec
 
 **Note:** The EMR Request Data related list of an incident form includes any EMR system-specific data. The data in the EMR Request Data related list is viewable only if you have the sn\_ind\_rmt\_help.viewer role in addition to the itil role. If you do not have the required roles, this related list appears empty.
 
-In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](configure-hcls-case-types-for-emr-help.md).
 
 Use Workspace to view requests submitted from an EMR system.
 

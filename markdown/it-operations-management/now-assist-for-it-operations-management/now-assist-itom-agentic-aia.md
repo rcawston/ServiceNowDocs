@@ -68,5 +68,5 @@ In the agentic workflow record:
     The page shows the chat responses, visualizes the AI agents involved, and lists the AI agent decision logs.
 
 
-In AI Agent Studio, you get notified when the analysis is generated. You can then act on the information or ask more questions about the alert. For more information about using the agentic workflow in the Now Assist panel, see [Use the analyze alert impact agentic workflow](../task/now-assist-itom-use-aia.md).
+In AI Agent Studio, you get notified when the analysis is generated. You can then act on the information or ask more questions about the alert. For more information about using the agentic workflow in the Now Assist panel, see [Use the analyze alert impact agentic workflow](now-assist-itom-use-aia.md).
 

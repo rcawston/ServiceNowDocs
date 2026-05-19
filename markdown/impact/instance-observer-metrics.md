@@ -21,7 +21,7 @@ The Active Producer Replication Sets monitor your producer replication set statu
 
 Active Consumer Replication Sets monitor your consumer replication set status, report the network lag time, and report the data lag time between the producer instance and consumer instance.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](instance-observer-ovr-metric.md)
 
 **Related topics**  
 

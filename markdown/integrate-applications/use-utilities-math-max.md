@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Max component. For more information about these properties, see [Properties of the Math components](../reference/properties-math-component.md).
+You can configure the properties for the Max component. For more information about these properties, see [Properties of the Math components](properties-math-component.md).
 
 ## Procedure
 
@@ -107,5 +107,5 @@ No. Connecting the port is optional.
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Math](../concept/math.md)
+**Parent Topic:**[Math](math.md)
 

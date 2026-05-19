@@ -47,12 +47,12 @@ The relationship is removed from both work items.
 
 To add a new relationship, see [Add a dependency to a work item in CWM](add-a-dependency-to-a-work-item-cwm.md).
 
-**Parent Topic:**[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+**Parent Topic:**[Task dependencies and relationships in CWM](managing-task-dependencies-relationships-cwm.md)
 
 **Related topics**  
 
 
-[Task dependencies and relationships in CWM](../concept/managing-task-dependencies-relationships-cwm.md)
+[Task dependencies and relationships in CWM](managing-task-dependencies-relationships-cwm.md)
 
 [Add a dependency to a work item in CWM](add-a-dependency-to-a-work-item-cwm.md)
 

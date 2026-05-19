@@ -27,7 +27,7 @@ Role required: admin
 
 2.  For NetApp storage devices, [install the SMI-S agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_CIMCredentialsForm.md) on the storage device host.
 
-    **Note:** Discovery can also perform native discovery of NetApp servers without accessing the SMI-S server. See [NetApp Server and Cluster discovery](../concept/netapp-discovery.md) for more information.
+    **Note:** Discovery can also perform native discovery of NetApp servers without accessing the SMI-S server. See [NetApp Server and Cluster discovery](netapp-discovery.md) for more information.
 
 3.  Start the SMI-S Provider service.
 
@@ -37,10 +37,10 @@ Role required: admin
 
 6.  Create a Discovery Schedule with the IP addresses of each SMI-S Provider.
 
-7.  Create a [Discovery behavior](../concept/c_DiscoveryBehaviors.md) that uses a functionality definition with a **wbem** port probe to make the initial port-scanning phase \(Shazzam\) more efficient.
+7.  Create a [Discovery behavior](../discovery/c_DiscoveryBehaviors.md) that uses a functionality definition with a **wbem** port probe to make the initial port-scanning phase \(Shazzam\) more efficient.
 
 8.  Run a basic IP address Discovery.
 
 
-**Parent Topic:**[Storage Discovery via SMI-S and CIM](../reference/r_DataCollDiscoStorageviaSMISCIM.md)
+**Parent Topic:**[Storage Discovery via SMI-S and CIM](r_DataCollDiscoStorageviaSMISCIM.md)
 

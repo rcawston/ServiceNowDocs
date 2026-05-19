@@ -30,7 +30,7 @@ The output of the decision table is the title of the persona that can approve th
 
 ## Approval engine properties
 
-The reserve and payment approval process is controlled by the properties located at **All** &gt; **Insurance claim operations** &gt; **Properties**. For a detailed description of each property, see [Insurance Claims Core roles and properties](../reference/insurance-claims-core-roles-and-properties.md).
+The reserve and payment approval process is controlled by the properties located at **All** &gt; **Insurance claim operations** &gt; **Properties**. For a detailed description of each property, see [Insurance Claims Core roles and properties](insurance-claims-core-roles-and-properties.md).
 
-**Parent Topic:**[Insurance Claims Core](../reference/insurance-claims-core-data-model.md)
+**Parent Topic:**[Insurance Claims Core](insurance-claims-core-data-model.md)
 

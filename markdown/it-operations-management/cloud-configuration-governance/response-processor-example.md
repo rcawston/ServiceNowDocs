@@ -169,5 +169,5 @@ return global.JSON.stringify(cloudModelString);
 
 ```
 
-**Parent Topic:**[Configure a response processor](../task/configure-response-processor.md)
+**Parent Topic:**[Configure a response processor](configure-response-processor.md)
 

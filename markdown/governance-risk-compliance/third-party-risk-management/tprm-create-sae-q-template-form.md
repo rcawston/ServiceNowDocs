@@ -60,7 +60,7 @@ TPRM purpose options include:
 -   TPRM internal IRQ
 -   TPRM internal tiering questionnaire
 
-To view a TPRM TPRM questionnaire template you must have the TPR assessment reviewer role \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\]. For more information on creating assessment template purposes, see [Create an assessment template category](../../assessment-engine/task/sae-asmnt-template-category-create.md)
+To view a TPRM TPRM questionnaire template you must have the TPR assessment reviewer role \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\]. For more information on creating assessment template purposes, see [Create an assessment template category](../smart-assessment-engine/sae-asmnt-template-category-create.md)
 
 **Note:** You can create an assessment only from a published assessment template.
 
@@ -82,7 +82,7 @@ Option to pre-populate the questionnaire with responses from a completed questio
 -   Answers of the attachment, duration, and signature type aren’t copied.
 -   The setting can’t be changed after the questionnaire is sent to the third party.
 
- To specify the maximum age for source questionnaires, configure the **Maximum age for reusing responses** `sn_vdr_risk_asmt.max_age_for_questionnaire_reuse` system property. See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+ To specify the maximum age for source questionnaires, configure the **Maximum age for reusing responses** `sn_vdr_risk_asmt.max_age_for_questionnaire_reuse` system property. See [Configure TPRM properties](tprm-properties-configure.md).
 
  **Note:** This option is only available when you create a questionnaire template using the Vendor Management Workspace.
 
@@ -95,10 +95,10 @@ Instructions
 Information that a responder might find useful when responding to a questionnaire.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+</table>**Parent Topic:**[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 
 **Related topics**  
 
 
-[Create a TPRM SAE questionnaire or document request template](../task/create-sae-q-template.md)
+[Create a TPRM SAE questionnaire or document request template](create-sae-q-template.md)
 

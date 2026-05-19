@@ -66,7 +66,7 @@ Depending on whether you want to use the default alias or you want to create you
 -   To use default alias: [Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](create-connection-and-credential-alias-for-msexchange-.md).
 -   To create your own alias: [Create your own connection and credential alias for Microsoft Exchange Online](create-own-connection-and-credential-alias-normalmode.md).
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 

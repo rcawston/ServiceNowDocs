@@ -17,7 +17,7 @@ Use Microsoft Intune to install Agent Client Collector \(ACC\) on multiple Windo
 
 ## Before you begin
 
--   Create an agent registration key. For more information, see [Create an ACC registration key](../../product/digital-end-user-experience/task/setup-acc.md).
+-   Create an agent registration key. For more information, see [Create an ACC registration key](setup-acc.md).
 
 Role required: agent\_client\_collector\_admin
 

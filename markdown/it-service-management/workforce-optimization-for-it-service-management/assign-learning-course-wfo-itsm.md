@@ -85,5 +85,5 @@ Select **To my groups**.
         -   The course that is most taken by your agents is identified with the **Most taken** highlight.
         -   The course that has been created less than five days before the current date is identified with the **New** highlight.
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

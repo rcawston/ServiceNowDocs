@@ -17,8 +17,8 @@ When you customize collaboration permissions, you can choose more granular actio
 
 Use these permissions when managing collaboration, either as an admin or app owner. For more information, see the following topics:
 
--   [Manage Creator Studio collaboration permissions on the ServiceNow AI Platform](../task/manage-creator-studio-collaboration.md)
--   [Manage collaborators for an app in Creator Studio](../task/creator-studio-manage-collaborators.md)
+-   [Manage Creator Studio collaboration permissions on the ServiceNow AI Platform](manage-creator-studio-collaboration.md)
+-   [Manage collaborators for an app in Creator Studio](creator-studio-manage-collaborators.md)
 
 ## File types custom collaboration permissions
 
@@ -68,5 +68,5 @@ The default setting for both owners and editors is de-selected.
 |Publish app to repo|Grants access to publish the app to your repo.|No|No|
 |Publish to app store|Grants access to publish the app to your app store.|No|No|
 
-**Parent Topic:**[Administering collaboration in Creator Studio](../concept/creator-studio-admin-collab-tasks.md)
+**Parent Topic:**[Administering collaboration in Creator Studio](creator-studio-admin-collab-tasks.md)
 

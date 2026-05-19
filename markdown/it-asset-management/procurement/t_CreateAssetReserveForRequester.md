@@ -65,7 +65,7 @@ When the asset state is **In stock**, the **Reserved for** field is maintained a
     You can also create assets for individual purchase order line items. On a purchase order, go to the **Purchase order line items** related list and click a specific purchase order line item number. Then, click the **Create hardware assets prior to delivery** related link. Only the hardware assets included on the purchase order line item are created.
 
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](c_UseProcurement.md)
 
 **Related topics**  
 
@@ -80,7 +80,7 @@ When the asset state is **In stock**, the **Reserved for** field is maintained a
 
 [](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflow-editor.md)
 
-[Set asset states and substates](../../asset-management/task/t_SettingAssetStatesAndSubstates.md)
+[Set asset states and substates](../asset-management/t_SettingAssetStatesAndSubstates.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](../product-catalog/c_Models.md)
 

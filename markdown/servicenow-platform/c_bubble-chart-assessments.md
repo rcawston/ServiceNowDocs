@@ -15,5 +15,5 @@ A bubble chart is a dynamically updated graph that plots assessment results for 
 
 Assessment administrators can create and use bubble charts to compare the relative standing of assessable records in three metric categories. The X- and Y-axes each represent a different category. Assessable records are plotted on the chart as circular markers, or bubbles, which vary in size according to scores for the third category.
 
-**Parent Topic:**[View a bubble chart for assessments](../task/t_view-bubble-chart-assessments.md)
+**Parent Topic:**[View a bubble chart for assessments](t_view-bubble-chart-assessments.md)
 

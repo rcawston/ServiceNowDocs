@@ -23,7 +23,7 @@ Use the Now Assist for Employee Experience application so that your employees ca
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Employee Experience](../task/configure-nowassist-emp-exp.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Employee Experience](configure-nowassist-emp-exp.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 ## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

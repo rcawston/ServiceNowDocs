@@ -37,7 +37,7 @@ However, script definitions that you create and associate with a remote table ca
 **Related topics**  
 
 
-[Create script definitions for a remote table](../task/create-remote-table-script.md)
+[Create script definitions for a remote table](create-remote-table-script.md)
 
 [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

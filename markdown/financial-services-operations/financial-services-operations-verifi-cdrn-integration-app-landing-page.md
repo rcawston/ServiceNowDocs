@@ -93,5 +93,5 @@ Some ServiceNow resources that can provide you with helpful information are:
 -   **[referring-financial-services-operations-integration-with-verifi-cdrn.md](referring-financial-services-operations-integration-with-verifi-cdrn.md)**  
 
 
-**Parent Topic:**[Integrate applications](../../fso-common/concept/fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
 

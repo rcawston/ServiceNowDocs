@@ -55,7 +55,7 @@ If you receive a mobile push notification request for a data privacy consent, re
 
 ### Before you begin
 
-To receive mobile push notifications, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To receive mobile push notifications, you must have the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: sn\_imt\_core.privacy\_consent\_user
 

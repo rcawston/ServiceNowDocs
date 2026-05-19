@@ -45,7 +45,7 @@ Enforce query ACLs on sublist, list count, and widget data table queries using s
 Use a system property to ensure that any choice field value, when passed via a URL query string, is a valid active choice when a record is created.
 -   **[Ensure An Instance is Allowed to Connect to Only Trusted IP Addresses](sc-ensure-an-instance-is-allowed-to-connect-to-only-trusted-ip-addresses.md)**  
 Use a system property to define a list of IP ranges that are appended to the outbound IP allow list.
--   **[Ensure only Trusted IP Addresses are Allowed to Connect to An Instance](../../security/reference/performance-monitoring-ip-restriction.md)**  
+-   **[Ensure only Trusted IP Addresses are Allowed to Connect to An Instance](performance-monitoring-ip-restriction.md)**  
 Use a system property to define a list of IP ranges that are appended to the outbound IP allow list.
 -   **[For Self-Hosted Instance, Ensure only Trusted IP Addresses are Allowed to Connect to An Instance](sc-for-self-hosted-instance-ensure-only-trusted-ip-addresses-are-allowed-to-connect-to-an-instance.md)**  
 Use system properties to control which inbound IP addresses can connect to self-hosted instances.

@@ -59,5 +59,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
     The linear segments appear in the Linear segments related list.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

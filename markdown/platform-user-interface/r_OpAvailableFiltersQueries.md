@@ -2308,10 +2308,10 @@ All records in which there are differing values for the **Active** and **Made SL
 |does not have|\[Tag\]\[does not have\]\[Most Active\]|DOESNOTHAVE|sys\_tags.6c361e12471331007f47563dbb9a7135DOESNOTHAVE6c361e12471331007f47563dbb9a7135|Any records that has a **Tag** except for the tag mentioned in the value field.|
 |excluding|\[Tag\]\[excluding\]\[Most Active\]|EXCLUDING|sys\_tags.6c361e12471331007f47563dbb9a7135EXCLUDING6c361e12471331007f47563dbb9a7135|All records with and without the **Tag** except for the tag mentioned in the value field.|
 
-**Parent Topic:**[Create a condition statement using the condition builder](../task/create-cond-state-using-cond-build.md)
+**Parent Topic:**[Create a condition statement using the condition builder](create-cond-state-using-cond-build.md)
 
 **Related topics**  
 
 
-[Condition builder](../concept/c_ConditionBuilder.md)
+[Condition builder](c_ConditionBuilder.md)
 

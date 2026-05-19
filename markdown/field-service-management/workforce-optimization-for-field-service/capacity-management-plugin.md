@@ -21,7 +21,7 @@ You can activate the Field Service Capacity and Reservations Management plugin \
     -   **Required ServiceNow plugins**
         -   **Field Service Management \(com.snc.work\_management\)**
 
-            For more information about activating Field Service Management, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            For more information about activating Field Service Management, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 
 Role required: admin.
@@ -33,7 +33,7 @@ The following items are installed with Field Service Capacity and Reservations M
 -   Tables
 -   Business Rules
 
-For more information, see [Field Service Capacity and Reservations Management components](../reference/capacity-management-components.md).
+For more information, see [Field Service Capacity and Reservations Management components](../capacity-management-components.md).
 
 ## Procedure
 

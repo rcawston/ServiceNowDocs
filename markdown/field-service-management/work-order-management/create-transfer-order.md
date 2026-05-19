@@ -17,7 +17,7 @@ Create a transfer order that moves the necessary parts or assets to the correct 
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 

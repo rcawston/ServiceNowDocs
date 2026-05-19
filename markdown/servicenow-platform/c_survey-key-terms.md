@@ -86,5 +86,5 @@ Scorecard
 Visual representation of survey responses. Scorecards display a variety of data summaries for one survey definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](../reference/survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](survey-reference.md)
 

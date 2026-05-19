@@ -36,5 +36,5 @@ Role required: sn\_ni\_core.dc\_ops\_agent
 
 The floor map opens and the affected hardware is highlighted. If the issue is related to a rack or cabinet, then the Rack view also opens in the floor map.
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](using-floor-map.md)
 

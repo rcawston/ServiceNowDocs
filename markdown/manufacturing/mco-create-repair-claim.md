@@ -27,7 +27,7 @@ Role required: Manufacturing operations admin
 
 3.  On the Claims details form, fill in the fields.
 
-    For a description of the field values, see [Claim details form](../reference/mco-claim-details-form.md).
+    For a description of the field values, see [Claim details form](mco-claim-details-form.md).
 
 4.  Select **Continue**.
 
@@ -39,7 +39,7 @@ Role required: Manufacturing operations admin
 
 7.  On the Repair claim jobs form, fill in the fields.
 
-    For a description of the field values, see [Repair claim form](../reference/repair-claim-form.md).
+    For a description of the field values, see [Repair claim form](repair-claim-form.md).
 
 8.  Select **Submit**.
 

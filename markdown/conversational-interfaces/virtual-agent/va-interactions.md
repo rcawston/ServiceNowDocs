@@ -133,7 +133,7 @@ Shows the sentiment level of the interaction, if sentiment analysis is enabled o
 -   Negative
 -   null \(no value assessed\)
 
-This value is also entered in the [Interaction Insights table](../../conversational-interfaces/reference/ci-interaction-insights-table.md).
+This value is also entered in the [Interaction Insights table](../ci-interaction-insights-table.md).
 
 </td></tr><tr><td>
 
@@ -412,15 +412,15 @@ Information in conversation transcripts is viewable to all users. If you need to
 
 ## Topic design considerations
 
-If your Virtual Agent conversations create or update incidents, cases, or requests, consider designing your topics with the following [Virtual Agent Designer utilities](../reference/va-utilities.md) and system method:
+If your Virtual Agent conversations create or update incidents, cases, or requests, consider designing your topics with the following [Virtual Agent Designer utilities](va-utilities.md) and system method:
 
--   [Action utility](../reference/va-action.md) to create or update incidents or cases
--   [Lookup utility](../reference/va-lookup.md) to view information
+-   [Action utility](va-action.md) to create or update incidents or cases
+-   [Lookup utility](va-lookup.md) to view information
 -   System method vaSystem.attachRecordToConversation\(String tableName, String sysId\) to attach the task to the interaction record
 
 Use these utilities and system method so that incidents, cases, or requests created during a Virtual Agent conversation are included in the **Related Tasks** list of the interaction record.
 
-**Note:** Records created or updated using the [Script Action utility](../reference/va-script-action.md) are not captured as related tasks in the interaction record.
+**Note:** Records created or updated using the [Script Action utility](va-script-action.md) are not captured as related tasks in the interaction record.
 
 **Parent Topic:**[Virtual Agent technical reference](va-advanced-technical-reference.md)
 
@@ -431,11 +431,11 @@ Use these utilities and system method so that incidents, cases, or requests crea
 
 [Virtual Agent scripts](virtual-agent-scripts.md)
 
-[Input data types in Virtual Agent topics](../reference/va-data-types.md)
+[Input data types in Virtual Agent topics](va-data-types.md)
 
-[NLU system entities](../reference/nlu-system-entities.md)
+[NLU system entities](nlu-system-entities.md)
 
-[Virtual Agent URL parameters](../reference/va-sysparm.md)
+[Virtual Agent URL parameters](va-sysparm.md)
 
-[Latency feedback in Virtual Agent](../reference/latency-feedback.md)
+[Latency feedback in Virtual Agent](latency-feedback.md)
 

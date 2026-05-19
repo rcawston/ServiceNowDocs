@@ -21,10 +21,10 @@ A target can be personal or global. A personal target is visible only to the use
 
 |Platform Analytics experience feature|Equivalent Core UI feature|Global or Personal targets|View or set|
 |-------------------------------------|--------------------------|--------------------------|-----------|
-|[KPI Details](../../par-for-workspace/concept/kpi-details.md)|[Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
-|[Time series](../../reporting/task/create-dv-time-series-ac.md) and [Single score](../../reporting/task/create-dv-sing-sc-ac.md) Platform Analytics data visualizations|[Time series Performance Analytics widgets](../reference/time-series-widgets.md)|Global|View only|
-|[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md) containing time series or single score data visualizations that show targets|[Responsive dashboards](../../dashboards/reference/dashboards-landing-page.md) containing Time series Performance Analytics widgets that show targets|Global|View only|
-|[Proactive analytics insights cards](../../par-for-workspace/concept/proactive-analytics.md) on Platform Analytics dashboards, which show targets being met or breached|No equivalent|Global|View only|
+|[KPI Details](../kpi-details.md)|[Analytics Hub](c_UsePerformanceAnalyticsScorecards.md)|Global and personal|Set and view|
+|[Time series](../create-dv-time-series-ac.md) and [Single score](../create-dv-sing-sc-ac.md) Platform Analytics data visualizations|[Time series Performance Analytics widgets](time-series-widgets.md)|Global|View only|
+|[Dashboards in Platform Analytics](../analytics-center-dashboards.md) containing time series or single score data visualizations that show targets|[Responsive dashboards](dashboards-landing-page.md) containing Time series Performance Analytics widgets that show targets|Global|View only|
+|[Proactive analytics insights cards](../proactive-analytics/proactive-analytics.md) on Platform Analytics dashboards, which show targets being met or breached|No equivalent|Global|View only|
 |UI Builder pages containing time series or single score data visualizations that show targets|No equivalent|Global|View only|
 
 ![Analytics Hub showing global targets for an indicator](../image/target.png "Target open for editing")
@@ -44,9 +44,9 @@ Role required: pa\_target\_admin to create global targets that are visible to al
 1.  Either:
 
     -   Open the Analytics Hub for an indicator.
-    -   If you are working in the Platform Analytics experience, open KPI Details for an indicator. For more information, see [Create a target in KPI Details](../../par-for-workspace/task/create-kpi-details-targets.md).
+    -   If you are working in the Platform Analytics experience, open KPI Details for an indicator. For more information, see [Create a target in KPI Details](../create-kpi-details-targets.md).
 
-        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [Add a target to multiple breakdown elements in KPI Details](../../par-for-workspace/task/add-multiple-targets.md).
+        **Note:** KPI Details gives you the additional option to set targets in bulk for multiple breakdown elements. For more information, see [Add a target to multiple breakdown elements in KPI Details](../add-multiple-targets.md).
 
 2.  To limit the target to a subset of the scores, select a breakdown and a breakdown element.
 
@@ -171,12 +171,12 @@ You now have several options:
 
 Select which users receive notifications. Notifications are sent when a target is achieved or is expected to be achieved within 14 days. For more information, see [Configure which users receive a target notification](pa-targets.md#).
 
-You can also nominate responsible users for targets in KPI Details. For more information, see [Responsibility for indicator targets](../../par-for-workspace/concept/responsibiity-targets-kpi-details.md#).
+You can also nominate responsible users for targets in KPI Details. For more information, see [Responsibility for indicator targets](../responsibiity-targets-kpi-details.md#).
 
 **Related topics**  
 
 
-[KPI Details](../../par-for-workspace/concept/kpi-details.md)
+[KPI Details](../kpi-details.md)
 
 ## Create a target color scheme
 
@@ -206,7 +206,7 @@ For example, if you want to filter the number of open incidents, the scores for 
 
     If you do not want to use all the ranges, you can use the same range color for multiple range limits.
 
-    You select colors from the Color Definitions \[sys\_report\_color\] table. For information about defining more colors, see [Define system colors for analytics](../../reporting/task/t_DefiningSystemColors.md).
+    You select colors from the Color Definitions \[sys\_report\_color\] table. For information about defining more colors, see [Define system colors for analytics](../reporting/t_DefiningSystemColors.md).
 
 5.  Click **Submit**.
 

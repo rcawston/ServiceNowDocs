@@ -46,5 +46,5 @@ Role required: sn\_fin\_ops.requester/ sn\_cbs.requestor
 
 Select **My Requests** to view and track the progress of your requests.
 
-**Parent Topic:**[Use the Employee Center](../concept/using-ec-fin-case-mgmt.md)
+**Parent Topic:**[Use the Employee Center](using-ec-fin-case-mgmt.md)
 

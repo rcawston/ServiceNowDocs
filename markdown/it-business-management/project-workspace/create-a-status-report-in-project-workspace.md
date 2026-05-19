@@ -37,7 +37,7 @@ Role required: it\_pps\_admin, it\_project\_manager
     2.  From the "Welcome to your Template Center!" screen, select **Use** for the template that you want to use.
 5.  On the Create status report form, fill in the fields.
 
-    For a description of the field values, see [Create status report form](../reference/create-status-report-form.md).
+    For a description of the field values, see [Create status report form](create-status-report-form.md).
 
 6.  Select **Submit**.
 
@@ -72,7 +72,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 -   **[Analyze the status report in Project Workspace](view-status-report-in-project-workspace.md)**  
 Observe a status report in Project Workspace for your project to learn about project health, metrics, risks, issues, and milestones.
--   **[Status report tracking by status](../concept/analyzing-status-report-states.md)**  
+-   **[Status report tracking by status](analyzing-status-report-states.md)**  
 Status reports in Project Workspace use draft and published status to help project managers manage report readiness and stakeholder visibility.
 -   **[Update status report in Project Workspace](update-status-report-project-workspace.md)**  
 Modify a status report in Project Workspace for your project to update project health, metrics, risks, issues, and milestones.
@@ -83,14 +83,14 @@ Migrate your old status reports from the classic Project Workspace to the new Pr
 -   **[Add dynamic content to status report in Project Workspace](add-dynamic-content-to-status-report-in-pw.md)**  
 Add dynamic content to a status report in Project Workspace for your projects. The dynamic content gets updated automatically in the status report as a change is made to the record.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 **Related topics**  
 
 
 [Add dynamic content to status report in Project Workspace](add-dynamic-content-to-status-report-in-pw.md)
 
-[Status reporting in Project Workspace](../concept/status-reporting-in-pw.md)
+[Status reporting in Project Workspace](status-reporting-in-pw.md)
 
 [Analyze the status report in Project Workspace](view-status-report-in-project-workspace.md)
 

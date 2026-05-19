@@ -25,7 +25,7 @@ Role required: sn\_bcm.program\_manager
 
 3.  On the form, fill in the fields.
 
-    For more information on the Alert Rules form, see [Alert Rules form](../reference/alert-rules-form.md).
+    For more information on the Alert Rules form, see [Alert Rules form](alert-rules-form.md).
 
 4.  Add the name, description, order, and category for the alert rule.
 
@@ -50,8 +50,8 @@ Role required: sn\_bcm.program\_manager
 
 The alert rule is displayed in the **Alert Rules** record page.
 
--   **[Alert Rules form](../reference/alert-rules-form.md)**  
+-   **[Alert Rules form](alert-rules-form.md)**  
 Use the Alert Rules form in BCM UIB Workspace to add details about the alert rules.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](crisis-map-admin-tasks.md)
 

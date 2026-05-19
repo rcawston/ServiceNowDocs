@@ -87,7 +87,7 @@ Pie chart
 Displays the percent of VMs grouped by the following states: on, off, or other.Virtual Machine Instances \[cmdb\_ci\_vm\_instance\] table is the source table for this chart.
 
 </td></tr></tbody>
-</table>**Note:** When you first access the VM Explorer dashboard after installing Discovery Admin Workspace, the Virtual machines with server CI and Virtual Machines with no deep dive discovery indicators might not display scores. For instructions on how to collect data for these scores, see [Run historical data collection for Virtual Machine Explorer](../task/t_RunHistoricalDataCollectVME.md).
+</table>**Note:** When you first access the VM Explorer dashboard after installing Discovery Admin Workspace, the Virtual machines with server CI and Virtual Machines with no deep dive discovery indicators might not display scores. For instructions on how to collect data for these scores, see [Run historical data collection for Virtual Machine Explorer](t_RunHistoricalDataCollectVME.md).
 
 ## Virtual Machine Instance
 

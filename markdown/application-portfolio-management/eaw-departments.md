@@ -22,9 +22,9 @@ You can also add users to a department.
 **Related topics**  
 
 
-[View all departments](../../task/eaw-task/eaw-view-all-departments.md)
+[View all departments](eaw-view-all-departments.md)
 
-[Add or edit a department](../../task/eaw-task/eaw-add-or-edit-a-department.md)
+[Add or edit a department](eaw-add-or-edit-a-department.md)
 
-[Add a user to a department](../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
+[Add a user to a department](eaw-add-a-new-user-to-a-deparment.md)
 

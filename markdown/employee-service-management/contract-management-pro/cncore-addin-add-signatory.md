@@ -149,7 +149,7 @@ The signatory content controls are added and the metadata is synced to the Servi
 
 ![View the participant added from ServiceNow Contracts add-in in your instance](../image/cmpro-waddin-view-participant-sn.png "Participants related list in your instance")
 
-**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)
 
 **Related topics**  
 

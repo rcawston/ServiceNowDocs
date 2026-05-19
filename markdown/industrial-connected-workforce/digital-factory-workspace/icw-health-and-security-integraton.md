@@ -60,11 +60,11 @@ For more information, see [Health and Safety Incident Management workflow exampl
 To learn more about configuring and using ICW Integration with Health and Safety, see:
 
 -   [Using ICW Health and Safety Integration](using-icw-health-and-safety-integration.md)
--   [Create a safety incident from an ICW task](../task/icw-create-safety-incident-from-task.md)
--   [View safety incidents in the Digital Factory Workspace](../task/icw-view-safety-incident.md)
--   [ICW Health and Safety Integration reference](../reference/icw-health-and-safety-integration-reference.md)
--   [Create a safety incident from a task](../../icw-mobile-experience/task/icw-mobile-create-safety-incident-from-task.md)
--   [Report safety incident from ICW Mobile](../../icw-mobile-experience/task/icw-mobile-report-safety-incident.md)
+-   [Create a safety incident from an ICW task](icw-create-safety-incident-from-task.md)
+-   [View safety incidents in the Digital Factory Workspace](icw-view-safety-incident.md)
+-   [ICW Health and Safety Integration reference](icw-health-and-safety-integration-reference.md)
+-   [Create a safety incident from a task](../industrial-connected-workforce-mobile-experience/icw-mobile-create-safety-incident-from-task.md)
+-   [Report safety incident from ICW Mobile](../industrial-connected-workforce-mobile-experience/icw-mobile-report-safety-incident.md)
 -   [Exploring Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/explore-hs-incident-mgmt.md)
 
 **Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)

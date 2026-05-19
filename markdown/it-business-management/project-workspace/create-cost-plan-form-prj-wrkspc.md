@@ -128,5 +128,5 @@ Available if the Cost type is Software, Hardware, or Other Capex or Opex.Select 
 Model name of a hardware expenditure to expense the cost plan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](../../project-workspace/reference/form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
 

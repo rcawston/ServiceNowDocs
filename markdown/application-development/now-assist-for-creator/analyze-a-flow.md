@@ -41,5 +41,5 @@ Turn on the flow summarization skill. See [Turn on the Flow execution analysis s
 
 Now Assist analyzes the flow, identifies errors, and suggests fixes.
 
-**Parent Topic:**[Flow execution analysis](../reference/flow-execution-analysis-landing.md)
+**Parent Topic:**[Flow execution analysis](flow-execution-analysis-landing.md)
 

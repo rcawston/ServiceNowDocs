@@ -28,15 +28,15 @@ These workspaces can be modified as required through the UI Builder. Certain fea
 
 **Note:** You can use guided setup to configure these configurable workspace features. For details, see [Configure Public Sector Digital Services Core using guided setup](configure-psds-foundation-data.md#).
 
--   **[Configure the List Menu for Public Sector Digital Services](../task/public-sector-configure-list-menu.md)**  
+-   **[Configure the List Menu for Public Sector Digital Services](public-sector-configure-list-menu.md)**  
 Add public sector-related menu options to the List Menu in the CSM Configurable Workspace.
--   **[Configure the Public Sector landing page with UI Builder](../task/public-sector-configure-landing-page.md)**  
+-   **[Configure the Public Sector landing page with UI Builder](public-sector-configure-landing-page.md)**  
 Use the UI Builder to change certain fields in the Public Sector landing page of the CSM Configurable Workspace.
--   **[Activate Customer Central for viewing profile information](../task/public-sector-enable-customer-central.md)**  
+-   **[Activate Customer Central for viewing profile information](public-sector-enable-customer-central.md)**  
 Install Customer Central using Customer Service Guided Setup so that agents can have a complete view of constituent, business, or agency information in Public Sector Digital Services.
--   **[Relabel CSM Configurable Workspace items after upgrade](../task/psds-relabel-after-upgrading.md)**  
+-   **[Relabel CSM Configurable Workspace items after upgrade](psds-relabel-after-upgrading.md)**  
 After you upgrade your instance for the first time, you can relabel certain items in the CSM Configurable Workspace for public sector use.
--   **[Relabel Business Location Services portal \(BLSP\) items after upgrade](../task/blsp-relabeling-instructions.md)**  
+-   **[Relabel Business Location Services portal \(BLSP\) items after upgrade](blsp-relabeling-instructions.md)**  
 Using Guided Setup, you can optionally modify the "Business Location Details" page in the Business Location Services Portal to be relabeled "Agency Location Details" using Public Sector Digital Services terms during configuration.
 
 **Parent Topic:**[Configure Agent Workspaces in Public Sector Digital Services](psds-config-organize-agent-workspaces.md)

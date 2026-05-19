@@ -36,5 +36,5 @@ All notifications related to a top-level message, such as replies, mentions, and
     You can click the unsubscribe icon to stop receiving email notifications.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

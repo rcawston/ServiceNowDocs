@@ -33,7 +33,7 @@ Getting started with Sidebar
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Sidebar details for domain separation.](../reference/sidebar-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Sidebar details for domain separation.](sidebar-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

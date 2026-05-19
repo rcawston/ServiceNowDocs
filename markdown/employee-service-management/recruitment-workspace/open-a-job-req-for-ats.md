@@ -32,9 +32,9 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 The requisition is in **Open** state. It’s open to the ATS and can be taken forward for further hiring process.
 
-For more information on the integration with your ATS, see [Integrate with your ATS](../concept/integrate-ats.md).
+For more information on the integration with your ATS, see [Integrate with your ATS](../employee-service-management/integrate-ats.md).
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

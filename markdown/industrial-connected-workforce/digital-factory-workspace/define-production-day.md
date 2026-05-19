@@ -39,5 +39,5 @@ The production day has been created successfully and is displayed in the **sn\_i
 
 The production day calendar record automatically includes a reference to the source schedule in the **source\_schedule** field. This reference is set when the calendar is generated and is system-managed. Non-admin users cannot modify this field.
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](setting-up-prerequisites-digital-factory-workspace.md)
 

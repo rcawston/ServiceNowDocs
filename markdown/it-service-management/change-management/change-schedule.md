@@ -35,11 +35,11 @@ Click a tab to view a Change Schedule. For more information, refer [Change sched
 
 -   **[Change schedules view](change-schedules-view.md)**  
 The Change Schedules module provides a Gantt or timeline view of change requests based on criteria defined within a Change Schedule Definition.
--   **[Create a change schedule from the Change Schedules page](../task/create-chng-sch-from-chng-sch-page.md)**  
+-   **[Create a change schedule from the Change Schedules page](create-chng-sch-from-chng-sch-page.md)**  
 You can create a change schedule to view all scheduled changes, change tasks, blackout periods, maintenance windows for any given date, week, month, or year.
--   **[Create a change schedule from the change schedule definition](../task/create-chng-sch-from-chng-sch-def.md)**  
+-   **[Create a change schedule from the change schedule definition](create-chng-sch-from-chng-sch-def.md)**  
 You can define a change schedule from a change schedule definition record. Change schedule definitions help you to define the content that displays in the change summary popover, the users, groups or roles with whom a schedule is to be shared, and related span style colors.
--   **[Add related tasks to a change schedule](../task/add-related-tasks-to-chng-schedule.md)**  
+-   **[Add related tasks to a change schedule](add-related-tasks-to-chng-schedule.md)**  
 Create related definitions to present related tasks for change requests in the change schedule. For example, to view the change tasks associated with a change request, you need to define a related definition.
 -   **[Style rules definition](style-rules-definition.md)**  
 You can create a style span to specify the color for different events in a change schedule. Style spans in a schedule help to quickly identify characteristics of a change based on a field value from the Change Request.

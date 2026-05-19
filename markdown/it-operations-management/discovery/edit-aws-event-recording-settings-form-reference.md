@@ -85,5 +85,5 @@ Amazon SNS topic to which the AWS Config service should publish the events.1.  S
 2.  Select the Amazon SNS topic from the SNS topic name drop-down list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Discovery reference](../../discovery/reference/cloud-discovery-reference.md)
+</table>**Parent Topic:**[Cloud Discovery reference](cloud-discovery-reference.md)
 

@@ -38,5 +38,5 @@ Role required: esc\_admin/sn\_ex\_sp\_pro\_kiosk.user
 
 The **Time off** tab is visible on your Employee Profile.
 
-**Parent Topic:**[Time off balances in Employee Center Pro Kiosk](../concept/kiosk-timeoff-ec.md)
+**Parent Topic:**[Time off balances in Employee Center Pro Kiosk](kiosk-timeoff-ec.md)
 

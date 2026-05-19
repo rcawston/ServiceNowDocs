@@ -47,7 +47,7 @@ The Software Asset Management application automatically updates the life-cycle d
 
 ## What to do next
 
-View life-cycle dates and other life-cycle information for both your parent and child software products in the Lifecycle management dashboard. You can access this dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. See [Lifecycle management dashboard](../concept/lifecycle-management-dashboard.md) for more information on this dashboard.
+View life-cycle dates and other life-cycle information for both your parent and child software products in the Lifecycle management dashboard. You can access this dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. See [Lifecycle management dashboard](lifecycle-management-dashboard.md) for more information on this dashboard.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

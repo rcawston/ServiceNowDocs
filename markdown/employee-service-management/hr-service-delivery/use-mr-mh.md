@@ -52,8 +52,8 @@ Role required: sn\_mh.manager\_hub\_user
 
 9.  Select the View menu icon \(![View menu icon](../image/viewmenu.png)\) on an employee card or employee modal, to schedule conversations, assign learning, and so on.
 
-    For more information, see [Use the View menu icon in Manager Hub](../reference/view-menu.md).
+    For more information, see [Use the View menu icon in Manager Hub](view-menu.md).
 
-    **Note:** The actions on the employee card are configurable. For more information, refer to [Action Framework in Employee Center](../../employee-center/concept/action-group-framework.md)
+    **Note:** The actions on the employee card are configurable. For more information, refer to [Action Framework in Employee Center](../employee-experience-foundation/action-group-framework.md)
 
 

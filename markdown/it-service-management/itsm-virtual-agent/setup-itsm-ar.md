@@ -72,5 +72,5 @@ Most of the Issue Auto Resolution functionality is included with the Glide Virtu
     5.  For a given Issue Auto Resolution intent, double-click the corresponding **Matched topic**, select a different topic, and select **Save**.
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](../concept/setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)
 

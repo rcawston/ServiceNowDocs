@@ -100,5 +100,5 @@ Select this button to generate a flow.After the flow is generated, edit it to se
 -   **[Edit flow in Workflow Studio](cm-edit-flow-ac.md)**  
 Edit the flow to confirm that the pagination is implemented correctly. This confirms that the data is imported correctly.
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](configure-data-import.md)
 

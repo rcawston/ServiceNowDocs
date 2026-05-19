@@ -23,16 +23,16 @@ Role required: Account Payable Operations agent
 
 1.  Navigate to **All** &gt; **Source-to-Pay Workspace**.
 
-    Based on the supplier interaction with the agent, an interaction record is auto-created. For more information about the fields in an interaction record, see [Interaction management in Accounts Payable Operations](../concept/interaction-record.md).
+    Based on the supplier interaction with the agent, an interaction record is auto-created. For more information about the fields in an interaction record, see [Interaction management in Accounts Payable Operations](interaction-record.md).
 
 2.  Click**Create a case**.
 
-    If the supplier chat has a new inquiry, then use create a case. For more information about creating invoice inquiry case, see [Invoice inquiry cases](../concept/work-with-inquiry-cases.md).
+    If the supplier chat has a new inquiry, then use create a case. For more information about creating invoice inquiry case, see [Invoice inquiry cases](work-with-inquiry-cases.md).
 
 3.  Click **Save**.
 
     New Interaction record is created.
 
 
-**Parent Topic:**[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+**Parent Topic:**[Interaction management in Accounts Payable Operations](interaction-record.md)
 

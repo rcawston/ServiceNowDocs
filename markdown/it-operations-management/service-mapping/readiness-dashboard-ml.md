@@ -199,13 +199,13 @@ Review the list of service instances most affected by ML-related issues. The lis
 **Related topics**  
 
 
-[Learn about ADME probes](../../discovery/reference/r_DataCollDiscoTCPConnections.md)
+[Learn about ADME probes](../itom-visibility/r_DataCollDiscoTCPConnections.md)
 
-[Enable and configure discovery using ADME probes](../../discovery/reference/r_DiscoveryProperties.md)
+[Enable and configure discovery using ADME probes](../discovery/r_DiscoveryProperties.md)
 
-[Calibrate fingerprint-based discovery](../../discovery/concept/calibrate-process-based-discovery.md#)
+[Calibrate fingerprint-based discovery](../discovery/calibrate-process-based-discovery.md#)
 
-[Ensure that the fingerprint-based discovery generates suggestions](../../discovery/concept/calibrate-process-based-discovery.md#)
+[Ensure that the fingerprint-based discovery generates suggestions](../discovery/calibrate-process-based-discovery.md#)
 
 [Troubleshooting guide for Service Mapping ML Connection Suggestions \[KB0963421\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0963421)
 

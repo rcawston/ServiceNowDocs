@@ -55,5 +55,5 @@ Plan and Execute Recall Campaign Phases AI agent generates and manages recall ca
 **Related topics**  
 
 
-[Recall a campaign phase](../../mftg-manufacturing/task/mco-recall-campaign-phases.md)
+[Recall a campaign phase](mco-recall-campaign-phases.md)
 

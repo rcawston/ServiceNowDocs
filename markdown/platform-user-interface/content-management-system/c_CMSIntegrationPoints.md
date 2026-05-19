@@ -26,7 +26,7 @@ The templates work together to pass data attributes or [Unique record identifier
 
 Understanding how content types work can mean the difference between a site with 20 pages versus a site with 200 pages. There is a time for both types of data calls. Depending on the task, there are appropriate times to use static content and times for dynamic methods.
 
--   **[View links between system elements and URLs](../task/t_LinkToContent.md)**  
+-   **[View links between system elements and URLs](t_LinkToContent.md)**  
 You can view the links between your system elements and their URLs to render more specific content within your site.
 -   **[Static methods](c_StaticMethods.md)**  
 Static methods in the CMS application were created for ease of use.
@@ -44,7 +44,7 @@ Each element on the page links to a specific URL point.
 
 [Domain separation and the Content Management System](domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](t_CreateASite.md)
 
 [Content Management testing](c_ContentManagementTesting.md)
 

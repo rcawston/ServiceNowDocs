@@ -94,7 +94,7 @@ A logical domain \(LDOM\) is a distinct logical unit within a single computer sy
 
 The ServiceNow Discovery application uses the Solaris LDOM infrastructure pattern and Solaris LDOM shared library pattern to find all LDOM data. For information on Solaris LDOM discovery, see [Oracle Solaris LDOM discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/solaris-ldom-discovery.md).
 
-The Software Asset Management application supports licensing of Oracle Database Server and WebLogic Server installed on the Solaris LDOM, version 2.0 and above, for Per Processor and Named User Plus \(NUP\) license metrics. To license your Oracle Database or WebLogic server installations, rights should be allocated to the physical server that runs the Solaris LDOM configuration. For details on the licensing of Oracle products, see [Software model metric attributes](../reference/sw-metric-attributes.md).
+The Software Asset Management application supports licensing of Oracle Database Server and WebLogic Server installed on the Solaris LDOM, version 2.0 and above, for Per Processor and Named User Plus \(NUP\) license metrics. To license your Oracle Database or WebLogic server installations, rights should be allocated to the physical server that runs the Solaris LDOM configuration. For details on the licensing of Oracle products, see [Software model metric attributes](sw-metric-attributes.md).
 
 ## Solaris zones
 

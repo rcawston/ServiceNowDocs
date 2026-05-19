@@ -92,23 +92,23 @@ Date and time to send the first message. Click the calendar button to specify th
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](pwd-reset-process-recommend.md)
 
 [Configure password expiration reminder](password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+[Credential stores for Password Reset](c_CredentialStores.md)
 
-[Password Reset verifications](../concept/c_PWRVerifications.md)
+[Password Reset verifications](c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](configure-user-enroll-for-pwd-reset.md)
 
 [Configure Password Reset properties](t_SetPwdResetProps.md)
 
 [Configure the required strength for passwords](config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
 
 [Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md)
 

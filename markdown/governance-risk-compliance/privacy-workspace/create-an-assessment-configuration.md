@@ -56,5 +56,5 @@ After you create the configurations, you can validate if the responses create th
     2.  Click **Validate**.
 
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
 

@@ -163,7 +163,7 @@ Test PowerShell Step
 
 </td><td>
 
-Button to test the configured credential for the PowerShell step. For more information, see [Test a credential for the PowerShell step](../../integrationhub/tasks/test-credential-powershell.md).
+Button to test the configured credential for the PowerShell step. For more information, see [Test a credential for the PowerShell step](test-credential-powershell.md).
 
 </td></tr><tr><td>
 
@@ -251,10 +251,10 @@ To access input variables from the **Command** field, you must call them using s
     -   midScriptDirectory
     -   hresult
 
--   **[Configure logging for the PowerShell step](../../integrationhub/tasks/configure-logging-powershell-step.md)**  
+-   **[Configure logging for the PowerShell step](configure-logging-powershell-step.md)**  
 Add log messages to the scripts in your PowerShell step. Use log levels for improved logging and debugging.
--   **[Test a credential for the PowerShell step](../../integrationhub/tasks/test-credential-powershell.md)**  
+-   **[Test a credential for the PowerShell step](test-credential-powershell.md)**  
 Test a configured credential in the PowerShell step. Confirm the credential is working before building the rest of your step.
 
-**Parent Topic:**[Integration steps](../../integrationhub/concept/integration-steps.md)
+**Parent Topic:**[Integration steps](integration-steps.md)
 

@@ -29,7 +29,7 @@ Every collection has to be a part of a course catalog. Create a course catalog b
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Collection form](../reference/collection-form-lc.md).
+    For a description of the field values, see [Collection form](collection-form-lc.md).
 
 4.  Click **Submit**.
 
@@ -56,7 +56,7 @@ Add learning course sections to collections.
 
 [Create a learning task](ln-task-le.md)
 
-[Collection form](../reference/collection-form-lc.md)
+[Collection form](collection-form-lc.md)
 
 [Add course items to collection](add-course-items-collection.md)
 

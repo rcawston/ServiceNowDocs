@@ -71,7 +71,7 @@ Role required: admin
     **Note:** The Copies to Review and Copies Reviewed related lists are Platform specific related lists.
 
 
-**Parent Topic:**[Reviewing upgrade history](../concept/um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](um-review-history.md)
 
 ## Upgrade history related lists details
 

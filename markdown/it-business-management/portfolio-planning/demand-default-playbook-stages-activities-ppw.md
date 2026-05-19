@@ -290,9 +290,9 @@ This stage is the final stage of the demand workflow.
 **Related topics**  
 
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace-ppw.md)
+[Playbooks in Next Experience for Demand Management](playbooks-in-demand-workspace-ppw.md)
 
-[Create and customize playbooks](../task/create-and-customize-playbooks-ppw.md)
+[Create and customize playbooks](create-and-customize-playbooks-ppw.md)
 
-[Use Playbooks](../task/use-playbooks-in-ppw.md)
+[Use Playbooks](use-playbooks-in-ppw.md)
 

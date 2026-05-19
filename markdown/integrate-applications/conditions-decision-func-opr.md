@@ -201,5 +201,5 @@ Relational operators are used to compare values. These operators always result i
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Conditions](../concept/conditions-components.md)
+</table>**Parent Topic:**[Conditions](conditions-components.md)
 

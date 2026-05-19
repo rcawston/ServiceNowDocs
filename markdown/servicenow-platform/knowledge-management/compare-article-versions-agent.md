@@ -47,5 +47,5 @@ The **Compare versions** tab opens within Agent Workspace and lists the fields f
 **Related topics**  
 
 
-[Article versioning](../concept/article-versioning.md)
+[Article versioning](article-versioning.md)
 

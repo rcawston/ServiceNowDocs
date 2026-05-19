@@ -18,8 +18,8 @@ Test your Natural Language Understanding \(NLU\) model against its default test 
 ## Before you begin
 
 -   Make sure that the NLU Model Builder - Core plugin, NLU Model Builder plugin, NLU Workbench - Advanced Features plugin and Predictive Intelligence plugin are all installed and activated.
--   Have a trained model for Virtual Agent or AI Search. For more information, see [Build and train your model](../concept/managing-model-content.md).
--   Have a test set for testing models. For more information, see [Test set creation and management](../concept/nlu-test-set-creation-management.md).
+-   Have a trained model for Virtual Agent or AI Search. For more information, see [Build and train your model](managing-model-content.md).
+-   Have a test set for testing models. For more information, see [Test set creation and management](nlu-test-set-creation-management.md).
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
 
 ## About this task

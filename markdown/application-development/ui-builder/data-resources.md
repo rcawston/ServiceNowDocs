@@ -31,7 +31,7 @@ The data resource drawer contains three sections:
 
 You can bind the configuration properties for components, other data resources, client scripts, client state, and events to these data resources.
 
-Set conditions for a filter in your data resource. For more information, see [Connect data to your components](../task/connect-data.md).
+Set conditions for a filter in your data resource. For more information, see [Connect data to your components](connect-data.md).
 
 ## How data resources work in UI Builder
 
@@ -132,19 +132,19 @@ After adding a data resource, you can choose to load it either eagerly or explic
 
 Data resource scripts are special instructions you give UI Builder to return specific pieces of data. For example, if you're dealing with a list of products, a script could tell a data resource to show only products that are available in stock or to arrange them in a particular order. Data resource scripts enable you to customize how UI Builder treats the information, such as adding extra rules or actions.
 
--   **[Add and configure data resources to a page](../task/add-data-resources.md)**  
+-   **[Add and configure data resources to a page](add-data-resources.md)**  
 Add data resources to dynamically expose data from tables, records, or other elements on your page in UI Builder.
--   **[Add Now Assist skills to your page](../task/add-skill.md)**  
+-   **[Add Now Assist skills to your page](add-skill.md)**  
 Add skills to enhance your UI Builder page with Now Assist's generative AI capabilities.
 -   **[Bind data to UI Builder pages using controllers \(advanced feature\)](controllers.md#)**  
 Controllers simplify the linking of data and event logic to enable component presets in UI Builder.
--   **[Create custom controllers \(Advanced feature\)](../task/controller-builder.md)**  
+-   **[Create custom controllers \(Advanced feature\)](controller-builder.md)**  
 Build custom controllers to use across experiences. Easily connect reusable data, scripts, and events to your page and set up inputs, outputs, and events.
 -   **[Connect data components](connect-data-components.md)**  
 Use the data binding modal to associate data exposed by local data resources to components on your UI Builder page.
 -   **[Client state parameters](client-state-parameters.md)**  
 Use client state parameters to bind values to component configurations. When the client state parameter's value changes, the component updates to use the new value.
--   **[Define and bind client scripts to components](../task/define-client-scripts.md)**  
+-   **[Define and bind client scripts to components](define-client-scripts.md)**  
 Add and edit client scripts in UI Builder so that you can update the client state through events. You can bind these scripts to any component by using an event handler.
 -   **[Multi-table data configuration](multi-source-data-configuration.md)**  
 Present data from multiple tables using components and control the layout and styling.

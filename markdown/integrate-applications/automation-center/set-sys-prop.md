@@ -38,5 +38,5 @@ The Recommendations contextual panel is displayed in the Automation Center Works
 -   If more than three applications are used for an automation request, then three are listed, and the rest are displayed as numbers. When you select **View details**, you can see all the applications used.
 -   All other details of the recommended automations and automation requests, such as state, actual cost, and actual time are also displayed.
 
-**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md)
+**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](config-ra.md)
 

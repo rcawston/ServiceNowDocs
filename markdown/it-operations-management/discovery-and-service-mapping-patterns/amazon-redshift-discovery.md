@@ -20,7 +20,7 @@ Redshift runs as a cluster of compute nodes with an additional leader node. The 
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the AWS discovery prerequisites section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+Verify the AWS discovery prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -148,5 +148,5 @@ The Amazon AWS Redshift pattern collects tags and populates them in the Key Valu
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Amazon Redshift \[cmdb\_ci\_aws\_redshift\] table.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

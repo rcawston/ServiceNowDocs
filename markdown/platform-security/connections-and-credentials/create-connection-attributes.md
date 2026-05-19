@@ -78,5 +78,5 @@ For more information about building custom Workflow Studio actions, see [Workflo
     **Note:** The system does not track changes to connection attribute labels and data types after you associate the alias to a step. To refresh the connection attribute label or data type, delete the alias from the step and add it again.
 
 
-**Parent Topic:**[Get started with connections](../reference/connection-information.md)
+**Parent Topic:**[Get started with connections](connection-information.md)
 

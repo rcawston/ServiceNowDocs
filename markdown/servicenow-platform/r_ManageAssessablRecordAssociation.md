@@ -15,19 +15,19 @@ Only the assessable records associated to a category can be evaluated using metr
 
 Only the assessable records associated to a category can be evaluated using metrics in that category. Manage which assessable records you evaluate for each category by creating and removing the associations.
 
-**Note:** You can also manage which categories an assessable record is associated to using the [Assessable Record](../task/t_ViewAnAssessableRecord.md) form.
+**Note:** You can also manage which categories an assessable record is associated to using the [Assessable Record](t_ViewAnAssessableRecord.md) form.
 
--   **[Manage an assessable record automatically](../task/t_ManageAnAssessbleRecAuto.md)**  
+-   **[Manage an assessable record automatically](t_ManageAnAssessbleRecAuto.md)**  
 Define at least one filter condition in the Metric Category form to automatically associate assessable records with the category.
--   **[Manage an assessable record manually](../task/t_ManageAnAssessableRecordManually.md)**  
+-   **[Manage an assessable record manually](t_ManageAnAssessableRecordManually.md)**  
 You can manually create and remove assessable record associations for a category using a related list on the Metric Category form.
 
-**Parent Topic:**[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)
+**Parent Topic:**[Assessment metric categories](c_AssessmentMetricCategories.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
-[Create a category for assessable records](../task/t_CreateACategoryAR.md)
+[Create a category for assessable records](t_CreateACategoryAR.md)
 

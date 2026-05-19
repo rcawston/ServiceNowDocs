@@ -59,7 +59,7 @@ How you establish relationships between your solutions and configuration items \
 -   **[CSDM terms for Digital Portfolio Management](dpm-common-terms.md)**  
 Because both ServiceNow® products of Digital Portfolio Management \(DPM\) and Service Portfolio Management closely align with the Common Service Data Model \(CSDM\), it's helpful to know the common terms when working in these applications.
 
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](dpm-configure-cfw.md)
 
 **Related topics**  
 

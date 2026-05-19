@@ -25,5 +25,5 @@ Learn about the available arguments for the Signing Tool.
 |-w|No|Wipe all existing signature record files.|
 |-h|No|Show this help message and exit.|
 
-**Parent Topic:**[Standalone signing tool](../concept/sa-code-signing-tool.md)
+**Parent Topic:**[Standalone signing tool](sa-code-signing-tool.md)
 

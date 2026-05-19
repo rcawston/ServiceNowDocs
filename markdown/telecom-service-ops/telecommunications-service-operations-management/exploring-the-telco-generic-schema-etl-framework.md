@@ -155,5 +155,5 @@ Benefits of the Telecom Discovery Builder framework ETL include:
 
 [Configuring the Telecom Discovery Builder framework ETL in a connector](configuring-the-telco-generic-schema-etl.md)
 
-[Extend TNI entity support for duplicated ETLs](../task/configuring-tni-entiry-support-for-duplicated-etls.md)
+[Extend TNI entity support for duplicated ETLs](configuring-tni-entiry-support-for-duplicated-etls.md)
 

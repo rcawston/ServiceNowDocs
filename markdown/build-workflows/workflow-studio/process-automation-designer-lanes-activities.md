@@ -29,7 +29,7 @@ In the Playbooks Board view of the design environment, select **+ Add activity**
 
 Additionally, you can add an activity just using an [automation asset](automation-assets.md).
 
-If there isn't an activity that fits your use case, you can create your own activity definition to add to the activity picker. For more information, see [create an activity definition](../task/create-activity-definition.md).
+If there isn't an activity that fits your use case, you can create your own activity definition to add to the activity picker. For more information, see [create an activity definition](create-activity-definition.md).
 
 ## Interactive and Non-Interactive activities
 
@@ -83,9 +83,9 @@ Under the **Automation** tab of the side panel, each activity has inputs you can
 
 -   To change default inputs and outputs for the activity, open and edit the source flow in Workflow Studio by selecting the **Open link** icon \(![Open link icon](../images/external-link-icon.png)\) next to the **Automation** field.
 
-    For more information on how to work with the default inputs and outputs for activities in Playbooks, see [Create an action as an activity automation plan](../task/create-automation-plan.md).
+    For more information on how to work with the default inputs and outputs for activities in Playbooks, see [Create an action as an activity automation plan](create-automation-plan.md).
 
-    **Note:** You must have the appropriate user roles to access Workflow Studio and Workflow Studio. For more information, see [User access to Workflow Studio flows](../../flow-designer/concept/user-access-flow-designer.md).
+    **Note:** You must have the appropriate user roles to access Workflow Studio and Workflow Studio. For more information, see [User access to Workflow Studio flows](user-access-flow-designer.md).
 
 -   **Inputs** are data that you provide so that the activity runs and performs its function appropriately. For example, a Record activity that notifies a customer of an application rejection will have message inputs for the email address, subject, body, and more.
 -   Expected **Outputs** are displayed at the bottom of the Automation tab.
@@ -107,31 +107,31 @@ Refer to these design considerations when working with stages and activities:
     Some record types already have state models that describe their life cycle. Use any existing state model as a template for the design of your playbook. For more information, see [State Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/state-management/state-model.md).
 
 
--   **[Add and configure a stage in a playbook](../task/add-configure-stage.md)**  
+-   **[Add and configure a stage in a playbook](add-configure-stage.md)**  
 Add and configure a stage in your playbook.
 -   **[Activity definitions](activity-definitions.md)**  
 Activity definitions describe how the activities in your playbook get the data that they need when your playbook runs.
--   **[Add and configure an activity in a playbook](../task/add-configure-activity.md)**  
+-   **[Add and configure an activity in a playbook](add-configure-activity.md)**  
 Add and configure an activity in your playbook.
--   **[Use AI agent as an activity](../task/ai-agent-as-activity.md)**  
+-   **[Use AI agent as an activity](ai-agent-as-activity.md)**  
 Use an existing AI agent as an activity in your playbook to automate tasks. The AI agent gathers the required context, performs the work, and produces outputs that subsequent activities can consume.
 -   **[Automation Assets](automation-assets.md)**  
 Include all automation assets in the activity picker to add a subflow, flow, or action directly to your playbook without having to create an activity definition.
--   **[Start with delay input properties](../reference/start-with-delay-properties.md)**  
+-   **[Start with delay input properties](start-with-delay-properties.md)**  
 Specify a duration of time to wait before running an activity or a stage whose start rule and conditions have been met. Give users time to act during automated playbooks. Give users time to wait for a specific date and time to complete actions.
 -   **[Optional activities](optional-activities.md#)**  
 Enable your agents and fulfillers to add additional activities as they go through a playbook.
--   **[Decision activities](../task/create-a-decision-activity.md)**  
+-   **[Decision activities](create-a-decision-activity.md)**  
 Create and define branches with different conditions for different paths between activities.
--   **[Decision stages](../task/create-decision-stage.md)**  
+-   **[Decision stages](create-decision-stage.md)**  
 Create and define branches with different conditions for different paths between stages.
--   **[Questionnaire activity](../reference/questionnaire-activity.md)**  
+-   **[Questionnaire activity](questionnaire-activity.md)**  
 Collects inputs from a user during a playbook run to use later in the playbook.
--   **[Parallel branches](../task/create-parallel-activity.md)**  
+-   **[Parallel branches](create-parallel-activity.md)**  
 Add branches for activities and stages that run in parallel to another branch of activities and stages.
--   **[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)**  
+-   **[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)**  
 Configure your activity to show a certain set of fields based on the value of another input, such as a selected catalog item, selected decision table, or even a REST API response.
--   **[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)**  
+-   **[Playbook activity state mapping](playbook-activity-state-mapping.md)**  
 Use playbook activity state mapping to override the status of a playbook card.
 
 **Parent Topic:**[Understanding the playbook components](playbook-building-blocks.md)

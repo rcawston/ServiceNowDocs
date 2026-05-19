@@ -175,7 +175,7 @@ inventory\_user
 
 </td><td>
 
-Can create, edit, change, and manage software licenses. Can edit the Software model field on a Discovery model. Can approve a model. Has full control of the [Legacy Software Asset Management plugin](../concept/c_SoftwareAssetManagement.md). Controls the legacy IBM PVU Process Pack, if activated.
+Can create, edit, change, and manage software licenses. Can edit the Software model field on a Discovery model. Can approve a model. Has full control of the [Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md). Controls the legacy IBM PVU Process Pack, if activated.
 
 </td></tr></tbody>
 </table>## Script includes
@@ -358,7 +358,7 @@ Computer \[cmdb\_ci\_computer\]
 
 </td><td>
 
-Clears the Cached check box on related software installs when the [CPU count or CPU core count](../task/t_FindingSoftwareOnTheNetwork.md) changes.
+Clears the Cached check box on related software installs when the [CPU count or CPU core count](t_FindingSoftwareOnTheNetwork.md) changes.
 
 </td></tr><tr><td>
 
@@ -742,12 +742,12 @@ The legacy Software Asset Management \(com.snc.software\_asset\_management\) plu
 |----|-----------|
 |Processor Definition|If you activated the legacy IBM PVU Process Pack after activating the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, a reference to the processor definition is added to the Hardware \[cmdb\_ci\_hardware\] table.|
 
-**Parent Topic:**[Legacy Software Asset Management plugin Overview module](../concept/c_SWAssetMgmtOverviewMod.md)
+**Parent Topic:**[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
 
 **Related topics**  
 
 
-[Use the legacy Software Asset Management plugin Overview module](../concept/c_UseSWAssetMgmtOverviewMod.md)
+[Use the legacy Software Asset Management plugin Overview module](c_UseSWAssetMgmtOverviewMod.md)
 
 [Legacy Software Asset Management plugin roles](r_SoftwareAssetManagementRoles.md)
 

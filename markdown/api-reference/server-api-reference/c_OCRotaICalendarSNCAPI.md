@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OCRotaICalendarSNC script include provides iCal formatted events for the a specific user's rotation.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OCRotaICalendarSNC - cleanExpiredCache \(\)
 

@@ -66,7 +66,7 @@ Role required: user
 
     **Note:**
 
-    If a page doesn’t have a Service Portal Header Menu, you can’t access the **Tours** menu. In this case, the guided tour is only available to you through auto-launch. See [Configure auto-launch for Guided Tours](../task/auto-launch-guided-tours.md).
+    If a page doesn’t have a Service Portal Header Menu, you can’t access the **Tours** menu. In this case, the guided tour is only available to you through auto-launch. See [Configure auto-launch for Guided Tours](auto-launch-guided-tours.md).
 
     If a tour is assigned at least one role, the audience is limited to users with that role.
 

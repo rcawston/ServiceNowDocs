@@ -113,5 +113,5 @@ Option to use Integration Hub flows for client software distribution. When this 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Client software distribution extension framework](../concept/c_CSDExtensionFramework.md)
+**Parent Topic:**[Client software distribution extension framework](c_CSDExtensionFramework.md)
 

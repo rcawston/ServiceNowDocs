@@ -44,5 +44,5 @@ The message **Legal matter has been closed** appears in the **Activity** section
 
 In the legal hold matter page, the state changes from Work in progress to Closed Complete.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](use-lg-hold-notif.md)
 

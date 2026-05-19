@@ -44,9 +44,9 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
-**Previous topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Previous topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
-**Next topic:**[Integrate Metrikus spoke](../concept/integrate-metrikus-flowdesigner.md)
+**Next topic:**[Integrate Metrikus spoke](integrate-metrikus-flowdesigner.md)
 

@@ -30,5 +30,5 @@ Role required: evt\_mgmt\_admin
 2.  Locate the record for the metric/CI that you want to disable, and set its **Active** column to **false**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

@@ -24,5 +24,5 @@ When using AI-assisted tools to build or vibe code applications and app componen
 -   **[Choosing your build approach](dev-get-start-choosing-your-build-approach.md)**  
 Understand when to use AI-assisted tools like the app generation skill with Now Assist for Creator and Build Agent versus when to build an application manually on the ServiceNow AI Platform.
 
-**Parent Topic:**[Getting Started guide for developers](../reference/getting-started-landing-page.md)
+**Parent Topic:**[Getting Started guide for developers](getting-started-landing-page.md)
 

@@ -17,11 +17,11 @@ Download and activate the required applications for the Software Bill of Materia
 
 ## Configuration overview
 
-1.  Download the required SBOM applications and any additional supported applications and integrations you want from the ServiceNow Store into your ServiceNow instance. See [Exploring Software Bill of Materials](vr-sbom-exploring.md) and [Download an application from the ServiceNow Store for the first time](../../../security-incident-response/reference/download-app-first-time.md) for more information about supported applications.
+1.  Download the required SBOM applications and any additional supported applications and integrations you want from the ServiceNow Store into your ServiceNow instance. See [Exploring Software Bill of Materials](vr-sbom-exploring.md) and [Download an application from the ServiceNow Store for the first time](../download-app-first-time.md) for more information about supported applications.
 
     The Vulnerability Response application is required for SBOM Response. Install The Vulnerability Response application prior to installing SBOM Response.
 
-2.  Locate the SBOM applications that you downloaded and select Install to activate them along with their dependencies in the following order. See [Install the supported applications for Software Bill of Materials](../task/vr-sbom-install-apps.md).
+2.  Locate the SBOM applications that you downloaded and select Install to activate them along with their dependencies in the following order. See [Install the supported applications for Software Bill of Materials](vr-sbom-install-apps.md).
     -   Vulnerability Response and its dependencies
     -   Vulnerability Response Integration with NVD
     -   Data Model for SBOM
@@ -33,5 +33,5 @@ Download and activate the required applications for the Software Bill of Materia
 
     OSV.dev pulls vulnerability data from an open source database for a version of a package or library you upload in your SBOM files.
 
-4.  Refer to product documentation to configure any additional supported applications and integrations you installed. See [Vulnerability Response integrations](../../../vulnerability-response/concept/vuln_integrations.md) and [Integrating Application Vulnerability Response with other applications](../../../vulnerability-app-vuln-mgmt/concept/avm-integrations.md).
+4.  Refer to product documentation to configure any additional supported applications and integrations you installed. See [Vulnerability Response integrations](../vulnerability-response/vuln_integrations.md) and [Integrating Application Vulnerability Response with other applications](../application-vulnerability-response/avm-integrations.md).
 

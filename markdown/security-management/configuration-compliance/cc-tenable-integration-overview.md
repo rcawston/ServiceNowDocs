@@ -54,7 +54,7 @@ By comparing values in the **Ignored CIs** fields on each integration run record
 
 **Note:** It may take multiple runs of these integrations to import all the ignored assets.
 
-For more information about how to enable and configure the Tenable.io Asset Integration, see [Configure the Tenable Vulnerability Integration using Setup Assistant](../../secops-integration-vr/tenable/task/vr-tenable-config-in-SA.md). See [Understanding the Tenable Vulnerability Integration](../../secops-integration-vr/tenable/concept/tenableIntegration.md) for more information about the integration.
+For more information about how to enable and configure the Tenable.io Asset Integration, see [Configure the Tenable Vulnerability Integration using Setup Assistant](../vulnerability-response/vr-tenable-config-in-SA.md). See [Understanding the Tenable Vulnerability Integration](../vulnerability-response/tenableIntegration.md) for more information about the integration.
 
 The Tenable.io Compliance Results Integration and the Tenable.io Compliance Results Backfill Integration are inactive by default.
 

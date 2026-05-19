@@ -38,5 +38,5 @@ Localization Workspace requires access to a Localization Framework table, Settin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Localization Workspace](../concept/configuring-localization-workspace.md)
+**Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)
 

@@ -35,11 +35,11 @@ You can check for the existing features under the **Features** module. If you do
 
 3.  On the Diagnostics Feature form, fill the fields.
 
-    For a description of the field names, see [Diagnostics Feature form](../reference/diag-feature-form.md).
+    For a description of the field names, see [Diagnostics Feature form](diag-feature-form.md).
 
 4.  Define user input values for specifying filter conditions in the **Diagnostics Inputs** section.
 
-    The fields in this section are displayed in the application as condition builder. For a description of the field names, see [Diagnostics Inputs form](../reference/diag-input-field.md).
+    The fields in this section are displayed in the application as condition builder. For a description of the field names, see [Diagnostics Inputs form](diag-input-field.md).
 
 5.  Select **Submit**.
 

@@ -52,5 +52,5 @@ The data product is created in draft state and visible in Data Workbench. Publis
 
 To make the data product available to consumers, see [Publish a data product](publish-data-product-wdf.md)
 
-**Parent Topic:**[Managing data products](../concept/manage-data-products-wdf.md)
+**Parent Topic:**[Managing data products](manage-data-products-wdf.md)
 

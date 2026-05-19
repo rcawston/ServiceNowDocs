@@ -29,11 +29,11 @@ AI Search Assist supports ServiceNow mobile.
 
 The AI Search Assist plugin \(com.snc.ai\_search\_assist\) is a ServiceNow AI Platform® application that is activated by default when AI Search is active.
 
--   **[Configure AI Search Assist for a record producer](../task/configure-ai-search-assist.md)**  
+-   **[Configure AI Search Assist for a record producer](configure-ai-search-assist.md)**  
 Configure AI Search Assist settings for a record producer to help users view related Catalog Item and knowledge article search results.
--   **[AI Search Assist roles](../reference/ai-search-assist-role.md#)**  
+-   **[AI Search Assist roles](ai-search-assist-role.md#)**  
 AI Search Assist includes the following roles.
--   **[AI Search Assist properties](../reference/ai-search-assist-properties.md)**  
+-   **[AI Search Assist properties](ai-search-assist-properties.md)**  
 The AI Search Assist properties determine when searching begins based on characters entered and the time that has elapsed. These properties reduce the impact of searches for systems with many Catalog Items or Knowledge articles.
 -   **[Domain separation and AI Search Assist](ai-search-assist-domain-separation.md)**  
 Domain separation is supported for AI Search Assist. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

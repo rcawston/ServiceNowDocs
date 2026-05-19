@@ -31,7 +31,7 @@ Role required: sn\_matrix\_report.admin
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Matrix column configuration form](../reference/matrix-col-config-audit-ws.md).
+    For a description of the field values, see [Matrix column configuration form](matrix-col-config-audit-ws.md).
 
 6.  Select **Submit**.
 

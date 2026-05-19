@@ -54,7 +54,7 @@ You can create, review, update, or close a change request task in the Telecommun
 
 7.  Select **Save**.
 
-    A change request is created and related tabs appear. To learn more, see [Change request related tabs](../reference/tni-change-request-related-tabs.md).
+    A change request is created and related tabs appear. To learn more, see [Change request related tabs](tni-change-request-related-tabs.md).
 
 8.  On the **Overview** tab, do one or more of the following actions:
 
@@ -78,7 +78,7 @@ You can create, review, update, or close a change request task in the Telecommun
 
 9.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](change_request_forms.md).
 
 10. Select **Save**.
 
@@ -93,5 +93,5 @@ Create, review, update, or close the change tasks.
 
 For more information, see [Create and execute a change task in Telecommunications Network Inventory](create-change-task-in-tni.md).
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](instantiate-asset-using-template-relationship-model.md)
 

@@ -131,5 +131,5 @@ Script
 **Related topics**  
 
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](../saas-license-management/map-user-data.md)
 

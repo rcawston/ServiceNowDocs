@@ -28,5 +28,5 @@ The **Details** tab of an incident pattern record is generated automatically.
 |Pattern Summary|Generative AI summary of all the pattern values and statistics. Gives description of key details of the pattern.|
 |Recommendations|List of recommended actions to mitigate the pattern.|
 
-**Parent Topic:**[Work on an incident pattern record](../task/hs-work-on-incident-pattern-record.md)
+**Parent Topic:**[Work on an incident pattern record](hs-work-on-incident-pattern-record.md)
 

@@ -104,7 +104,7 @@ You can select:-   Maximize: The higher the target, the better the score. For ex
 
 7.  Specify the Rank for this visualization and select **Submit**.
 
-    Navigate to [View product usage and capability data](../concept/account-lifecycle-prod-cap-usage.md) to view the configured metrics.
+    Navigate to [View product usage and capability data](account-lifecycle-prod-cap-usage.md) to view the configured metrics.
 
     **Note:** You can use the [Color banding table](account-lifecycle-setup-color-banding.md) to configure the colors that appear on the charts that appear on the product usage and capability pages.
 

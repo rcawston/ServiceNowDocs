@@ -31,7 +31,7 @@ Use Industrial Connected Workforce Mobile Experience to streamline your factory 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about ICW Mobile Experience.](../reference/industrial-connected-workforce-mobile-experience-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Look up additional technical details about ICW Mobile Experience.](industrial-connected-workforce-mobile-experience-reference.md)
 
 </td></tr></tbody>
 </table>ICW Mobile Experience extends the Digital Factory Workspace to mobile devices, enabling shop floor operators to create and execute guided tasks, log deviations and actions, escalate issues to breakdowns, initiate breakdown analyzes, and report safety incidents directly from the factory floor. The mobile agent also provides access to the Standards hub and search capability, allowing operators to find standards, knowledge articles, and tasks without returning to a desktop workstation.
@@ -42,8 +42,8 @@ The Industrial Connected Workforce Mobile Experience enables shop floor operator
 Configure Industrial Connected Workforce Mobile Experience.
 -   **[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)**  
 The Industrial Connected Workforce Mobile Experience app helps operators manage work on the shop floor from their mobile devices. It brings together tasks, deviations, actions, and knowledge in one interface, so operators can stay productive without leaving their work area.
--   **[Industrial Connected Workforce Mobile Experience reference](../reference/industrial-connected-workforce-mobile-experience-reference.md)**  
+-   **[Industrial Connected Workforce Mobile Experience reference](industrial-connected-workforce-mobile-experience-reference.md)**  
 Reference topics provide additional information about Industrial Connected Workforce Mobile Experience.
 
-**Parent Topic:**[Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/industrial-connected-workforce-overview.md)
+**Parent Topic:**[Industrial Connected Workforce](../industrial-connected-workforce-overview.md)
 

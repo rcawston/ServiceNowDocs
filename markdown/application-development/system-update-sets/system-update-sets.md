@@ -31,11 +31,11 @@ An update set is a group of configuration changes that can be moved from one ins
 
 </td></tr><tr><td>
 
-[Batched Update Sets![](../../../reuse/icons/brand-icons/bus-compliance.svg)Working with batched System Update Sets in your instance.](../hier-update-sets/concept/us-hier-overview.md)
+[Batched Update Sets![](../../../reuse/icons/brand-icons/bus-compliance.svg)Working with batched System Update Sets in your instance.](us-hier-overview.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-documentation.svg)Learn about System Update Sets general guidelines and system properties.](../reference/update-sets-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-documentation.svg)Learn about System Update Sets general guidelines and system properties.](update-sets-reference.md)
 
 </td><td>
 

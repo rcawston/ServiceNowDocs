@@ -194,7 +194,7 @@ This error occurs only for custom tool integrations.
 16. Publish the subflow by selecting **Publish**.
 17. Navigate to **DevOps &gt; Integrations &gt; Integration Capabilities** and create a record with the **Validate** action.
 
-For more information, see [Create a DevOps tool integration](../task/set-up-dev-ops-integrations.md).
+For more information, see [Create a DevOps tool integration](set-up-dev-ops-integrations.md).
 
 ![Integration Capabilities related tab](../image/validate-associate-subflow.png)
 
@@ -309,7 +309,7 @@ Authorization credentials are either invalid or do not have the minimum required
 </td><td>
 
 -   Verify if your third-party tool credentials have the required scopes. If you are using the workspace UI, you can navigate to the tool record, and select **More actions \(![More actions icon](../../itsm-workspace/image/more-actions-icon.png)\) &gt; Check credential permissions** to know about the required permissions.
--   Verify if you have entered the correct username/password for your third-party tool. If you are using the workspace UI, and you want to update your tool credentials, then navigate to the tool record, and select **More actions \(![More actions icon](../../itsm-workspace/image/more-actions-icon.png)\) &gt; Check credential permissions**. For more information on updating credentials, see [Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md).
+-   Verify if you have entered the correct username/password for your third-party tool. If you are using the workspace UI, and you want to update your tool credentials, then navigate to the tool record, and select **More actions \(![More actions icon](../../itsm-workspace/image/more-actions-icon.png)\) &gt; Check credential permissions**. For more information on updating credentials, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
 </td></tr><tr><td>
 
@@ -488,7 +488,7 @@ Update the **Retry Errored Inbound Events** scheduled job to retry processing in
 -   Update the errors or exceptions list to specify exceptions that you want to retry event processing for.
 -   Modify the default **Maximum Retry** count.
 
-For more information, see [Retry errored inbound events](../task/config-retry-schedule-job-inbound.md)
+For more information, see [Retry errored inbound events](config-retry-schedule-job-inbound.md)
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ Pipeline execution in ServiceNow DevOps does not move forward and waits indefini
 
 For all SonarQube steps in code quality scans, the user must create SonarQube tool in the ServiceNow DevOps instance.
 
- For more information, see [SonarQube integration with DevOps Change Velocity](../concept/sonarqube-devops-integration-devops.md)
+ For more information, see [SonarQube integration with DevOps Change Velocity](sonarqube-devops-integration-devops.md)
 
 </td></tr><tr><td>
 

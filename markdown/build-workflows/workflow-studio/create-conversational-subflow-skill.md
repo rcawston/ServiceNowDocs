@@ -50,5 +50,5 @@ Role required:
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

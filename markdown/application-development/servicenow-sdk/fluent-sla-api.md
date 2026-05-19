@@ -25,7 +25,7 @@ For general information about SLAs, see [Service Level Management](https://raw.g
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Sla object
 
@@ -427,7 +427,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a flow \[sys\_hub\_flow\] to run when the SLA reaches a milestone or breaches. To define a flow, use the [Flow API - ServiceNow Fluent](fluent-flow-api.md#).Default: Default SLA flow \(828f267973333300e289235f04f6a7a3\)
+The variable identifier or sys\_id of a flow \[sys\_hub\_flow\] to run when the SLA reaches a milestone or breaches. To define a flow, use the [Flow API - ServiceNow Fluent](../application-development/fluent-flow-api.md#).Default: Default SLA flow \(828f267973333300e289235f04f6a7a3\)
 
 </td></tr><tr><td>
 

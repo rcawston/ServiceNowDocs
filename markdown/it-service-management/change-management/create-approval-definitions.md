@@ -110,5 +110,5 @@ The percentage is rounded to the nearest integer. 2.49 would round to 2, whereas
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](using-change-approval-policies-cf.md)
 

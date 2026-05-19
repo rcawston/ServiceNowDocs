@@ -15,7 +15,7 @@ breadcrumb: [Dynamic Translation, Translation and localization, Configure core f
 
 Get details about Dynamic Translation domain separation, properties, actions, limitations, and error messages.
 
--   **[Domain separation and Dynamic Translation](../concept/domain-sep-dynamic-translation.md)**  
+-   **[Domain separation and Dynamic Translation](domain-sep-dynamic-translation.md)**  
 Domain separation is supported in Dynamic Translation and is configured to apply to translator configurations and Exclusion Framework. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Dynamic Translation properties](dynamic-translation-properties.md)**  
 Use the Dynamic Translation properties to customize, configure, and control the translation features.
@@ -26,12 +26,12 @@ You must be aware of a few limitations when you integrate with a translation ser
 -   **[Error messages in Dynamic Translation](error-messages-field-translation.md)**  
 You must be aware of a few error scenarios while using Dynamic Translation.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 
 **Related topics**  
 
 
-[Configuring Dynamic Translation](../concept/configuring-dynamic-translation.md)
+[Configuring Dynamic Translation](configuring-dynamic-translation.md)
 
-[Integration with other translation services](../concept/integration-with-other-translation-services.md)
+[Integration with other translation services](integration-with-other-translation-services.md)
 

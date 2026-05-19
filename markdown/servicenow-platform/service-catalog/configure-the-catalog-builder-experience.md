@@ -92,7 +92,7 @@ For a description of the field values, see [Fields in Service Catalog Wizard for
 
 
 </td></tr></tbody>
-</table>    For more information about the fields and their descriptions of the Catalog Wizard form, see [Catalog Wizard form](../reference/service-catalog-wizard-forms-field.md).
+</table>    For more information about the fields and their descriptions of the Catalog Wizard form, see [Catalog Wizard form](service-catalog-wizard-forms-field.md).
 
 
 **Parent Topic:**[Setting up the Catalog Builder](set-up-cat-builder.md)

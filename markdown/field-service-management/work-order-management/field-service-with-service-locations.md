@@ -21,24 +21,24 @@ Field Service with Service Locations simplifies the process of adding locations 
 -   Without map: Ability to add location details without a map and have them validated using the global.ServiceLocationAddressValidationExtPoint API.
 -   No validation: Entered location details will not be validated.
 
-For more information, see [Set the default validation option for service locations](../task/set-default-validation-option-for-service-locations.md).
+For more information, see [Set the default validation option for service locations](../workforce-optimization-for-field-service/set-default-validation-option-for-service-locations.md).
 
 **Related topics**  
 
 
-[Configuring Field Service with Service Locations](Configuring-service-location.md)
+[Configuring Field Service with Service Locations](../workforce-optimization-for-field-service/Configuring-service-location.md)
 
-[Activate Field Service with Service Locations Support](activate-service-location-plugin.md)
+[Activate Field Service with Service Locations Support](../workforce-optimization-for-field-service/activate-service-location-plugin.md)
 
-[Mapping a service location to a parent location](determining-parent-location.md)
+[Mapping a service location to a parent location](../workforce-optimization-for-field-service/determining-parent-location.md)
 
-[Set the default validation option for service locations](../task/set-default-validation-option-for-service-locations.md)
+[Set the default validation option for service locations](../workforce-optimization-for-field-service/set-default-validation-option-for-service-locations.md)
 
-[Add Service Locations functionality to a work order catalog item in the Customer Service Portal](../task/configure-service-location-record-producer.md)
+[Add Service Locations functionality to a work order catalog item in the Customer Service Portal](../workforce-optimization-for-field-service/configure-service-location-record-producer.md)
 
-[Set the limit of maximum service locations added per day](../task/set-max-locations-limit.md)
+[Set the limit of maximum service locations added per day](../workforce-optimization-for-field-service/set-max-locations-limit.md)
 
-[Set the default location on a map](../task/set-default-location-while-using-map.md)
+[Set the default location on a map](../workforce-optimization-for-field-service/set-default-location-while-using-map.md)
 
 [Setting ad-hoc locations in work orders and work order tasks](service-locations-work-orders.md)
 

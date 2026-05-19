@@ -61,7 +61,7 @@ If the alert action rule that was migrated had a task template, you can customiz
     ![Subflow to run task template](../image/create-task-legacy.png)
 
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)
 
 **Related topics**  
 

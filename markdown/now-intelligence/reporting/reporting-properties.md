@@ -449,5 +449,5 @@ Maximum number of choices for radio button and check box interactive filters.-  
  Category: Choice list, Reference field, Date, Group
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reporting reference](../concept/reporting-reference.md)
+</table>**Parent Topic:**[Reporting reference](reporting-reference.md)
 

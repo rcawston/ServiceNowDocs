@@ -27,17 +27,17 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 Follow these procedures to set up and configure Now Assist for Configuration Management Database \(CMDB\).
 
--   **[Configure Now Assist for CMDB 3.0](../task/now-assist-cmdb-configure-3.0.md)**  
+-   **[Configure Now Assist for CMDB 3.0](now-assist-cmdb-configure-3.0.md)**  
 Configure the Now Assist for CMDB application so users can benefit from Agentic workflows, agents, and skills.
--   **[Configure Now Assist for CMDB before v3.0](../task/now-assist-cmdb-configure.md)**  
+-   **[Configure Now Assist for CMDB before v3.0](now-assist-cmdb-configure.md)**  
 Configure the Now Assist for CMDB application so users can benefit from Agentic workflows, agents, and skills.
--   **[Configure the Search CMDB agentic workflow](../../now-assist-cmdb/task/na-cmdb-config-search-cmdb-aw.md)**  
+-   **[Configure the Search CMDB agentic workflow](na-cmdb-config-search-cmdb-aw.md)**  
 Review and configure the settings of the Search CMDB agentic workflow.
--   **[Configure the CI summarization skill](../task/now-assist-cmdb-config-ci-summary.md)**  
+-   **[Configure the CI summarization skill](now-assist-cmdb-config-ci-summary.md)**  
 Review and configure the settings of the Now Assist for Configuration Management Database \(CMDB\) CI summarization skill to restrict the availability of the skill to certain users or conditions.
--   **[Configure the CI form contextual help skill](../../now-assist-cmdb/task/na-cmdb-skill-form-sense-config.md)**  
+-   **[Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md)**  
 Configure the CI form contextual help skill.
--   **[Configure the manage duplicate CIs skill](../../now-assist-cmdb/task/na-cmdb-config-mng-dupe-ci-skill.md)**  
+-   **[Configure the manage duplicate CIs skill](na-cmdb-config-mng-dupe-ci-skill.md)**  
 Enable and configure scheduled jobs that support the manage duplicate CIs skill.
 -   **[Configure the Service Graph Connector diagnosis skill](../task/now-assist-cmdb-config-sgc-diagnose.md)**  
 Review and configure the settings of the Service Graph Connector diagnosis skill.

@@ -36,5 +36,5 @@ Large diagrams can be cluttered. Collapsing groups hides internal details while 
     Expanding a shape helps in analyzing dependencies or editing details inside a group. Collapsing a group shape helps in presenting a high-level architecture view to stakeholders. It helps you to focus on other parts of the diagram. ![Expand or collapse a group shape](../../image/eaw-image/modeling/modeling-expand-collapse-group-shape.gif)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

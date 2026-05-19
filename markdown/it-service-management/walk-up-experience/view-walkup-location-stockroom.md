@@ -81,7 +81,7 @@ Miscellaneous other assets.
 -   **[Use platform view to fulfill a Walk-up Experience request from a stockroom](fulfill-walkup-stockroom-request.md)**  
 Walk-up Experience agents can access an associated stockroom and fulfill user requests directly from an interaction in platform view.
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)
 
 **Related topics**  
 

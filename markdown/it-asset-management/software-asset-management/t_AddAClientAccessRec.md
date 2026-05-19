@@ -95,7 +95,7 @@ CrowdStrike
 </td></tr></tbody>
 </table>License metrics are set on the [software entitlement](track-software-rights.md) form and can be accessed from the **Metric Attributes** related list on the [software model](record-terms-software-licenses.md) form.
 
-**Important:** You can enable the Software Asset Management application to automatically create client access records for Oracle Database Server using the **Auto-generate client access for allocations** option on the corresponding software model. To use this option, you must request the Data Collection for Oracle Global Licensing and Advisory Services application from the ServiceNow Store. See [Software model fields](../reference/software-model-fields.md) for more details on the **Auto-generate client access for allocations** option. See [Request Data Collection for Oracle Global Licensing and Advisory Services \(GLAS\)](request-data-collection-oracle-glas-app.md) for more details on the Data Collection for Oracle Global Licensing and Advisory Services application.
+**Important:** You can enable the Software Asset Management application to automatically create client access records for Oracle Database Server using the **Auto-generate client access for allocations** option on the corresponding software model. To use this option, you must request the Data Collection for Oracle Global Licensing and Advisory Services application from the ServiceNow Store. See [Software model fields](software-model-fields.md) for more details on the **Auto-generate client access for allocations** option. See [Request Data Collection for Oracle Global Licensing and Advisory Services \(GLAS\)](request-data-collection-oracle-glas-app.md) for more details on the Data Collection for Oracle Global Licensing and Advisory Services application.
 
 ## Procedure
 
@@ -281,7 +281,7 @@ Company of the users or devices that are granted access to the associated server
         5.  Repeat steps b-d for each device that you want to assign a device CAL to.
 4.  To track and license the configuration items \(CIs\) that the associated server is installed on, add them to the client access record.
 
-    **Important:** This step is not applicable if your client access record is associated with an Oracle WebLogic Server software model or you have enabled the **License all installs accessed by clients** option on the associated software model. If this option is enabled, CIs are licensed based on conditions that you specify on the software model, such as software install conditions. See [Software model fields](../reference/software-model-fields.md) for more details on this option.
+    **Important:** This step is not applicable if your client access record is associated with an Oracle WebLogic Server software model or you have enabled the **License all installs accessed by clients** option on the associated software model. If this option is enabled, CIs are licensed based on conditions that you specify on the software model, such as software install conditions. See [Software model fields](software-model-fields.md) for more details on this option.
 
     For Windows Server, each server installation requires Per Core \(with CAL\) rights that are licensed separately from the User and Device CAL rights in associated client access records. Other products like Oracle Java do not require rights to be licensed separately for server installations. For example, if you use CALs to license the users and devices that are accessing Oracle Java, you can enable Software Asset Management to automatically mark the corresponding Oracle Java installations as licensed. In this scenario, Software Asset Management licenses the Oracle Java installations as part of CAL licensing.
 
@@ -304,7 +304,7 @@ Company of the users or devices that are granted access to the associated server
 
 ## What to do next
 
-After you create a client access record, reconciliation runs on the associated server software as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../concept/sam-license-workbench.md). Use these results to determine your license compliance position and to remediate any non-compliance.
+After you create a client access record, reconciliation runs on the associated server software as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md). Use these results to determine your license compliance position and to remediate any non-compliance.
 
 You can remediate non-compliance for your server software using the following remediation options:
 
@@ -312,5 +312,5 @@ You can remediate non-compliance for your server software using the following re
 -   **Create Allocations**: Allocates rights to unlicensed users or devices that have been added to the client access records for the specified server software.
 -   **Remove Allocations**: Removes rights from licensed users or devices when sufficient rights are unavailable.
 
-**Parent Topic:**[Using Software Asset Management classic](../concept/using-sam-classic.md)
+**Parent Topic:**[Using Software Asset Management classic](using-sam-classic.md)
 

@@ -106,7 +106,7 @@ Number of seconds that abandoned Virtual Agent and Agent Chat conversations rema
 
 -   Default idle conversation timeout value, which is 7200 seconds
 -   Idle conversation time-out value set through the **com.glide.cs.conversation\_idle\_timeout** system property to override the default timeout value
-For more information about conversation idle timeouts, see [Closing Virtual Agent and Agent Chat conversations](../concept/va-open-conversations.md).
+For more information about conversation idle timeouts, see [Closing Virtual Agent and Agent Chat conversations](va-open-conversations.md).
 
 </td></tr><tr><td>
 

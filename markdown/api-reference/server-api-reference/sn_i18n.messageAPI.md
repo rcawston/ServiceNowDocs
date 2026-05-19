@@ -23,7 +23,7 @@ The Message API supports internationalization \(i18n\) by dynamically fetching m
 
 The Message API is provided with the standard base system within the `sn_i18n` namespace and does not require any plugins or special roles to access it. Before calling any methods within this class, ensure appropriate Message \[sys\_ui\_message\] records exist and are populated with matching `key`, `code`, and `language` fields.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Message - getMessage\(String code, String message, Map args\)
 

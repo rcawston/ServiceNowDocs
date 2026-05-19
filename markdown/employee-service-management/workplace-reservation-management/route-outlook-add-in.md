@@ -19,7 +19,7 @@ Redirect MOA Outh access \(moa\_login\) for Microsoft Outlook Add-in version 1.1
 
 Workplace users using Microsoft Outlook Add-in version 1.12.2 or earlier versions, can migrate to Workplace Reservation Management 3.0.2. After migrating, redirect the MOA OAuth registry \(moa\_login\) to WSD RSV MOA OAuth registry \(rsv\_moa\_login\).
 
-Workplace Reservation Management 3.0.2 Microsoft Outlook Add-in capabilities provide enhanced reservation experience for employees. For more information, see [Manage Workplace Reservations for Microsoft Outlook Add-in](../concept/manage-outlook-addin-rsv.md).
+Workplace Reservation Management 3.0.2 Microsoft Outlook Add-in capabilities provide enhanced reservation experience for employees. For more information, see [Manage Workplace Reservations for Microsoft Outlook Add-in](manage-outlook-addin-rsv.md).
 
 Role required: admin
 

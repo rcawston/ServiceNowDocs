@@ -30,7 +30,7 @@ The following items are installed with Operational Sustainability Integration wi
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](../reference/components-installed-with-esg.md).
+For more information, see [Components installed with Operational Sustainability Management \(formerly ESG Management\)](components-installed-with-esg.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Components installed with Operational Sustainability 
 6.  Select **Install**.
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](integrating-esg-management-with-urjanet.md)
 

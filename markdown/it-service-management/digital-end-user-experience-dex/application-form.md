@@ -64,7 +64,7 @@ Incidents
 Total count of active incidents for an application.
 
 </td></tr></tbody>
-</table>To return to the Application page, see [Applications](../concept/dex-workspace-application-tab.md).
+</table>To return to the Application page, see [Applications](dex-workspace-application-tab.md).
 
 -   **[Web application — Overview page](web-application-overview-form.md)**  
 The overview page for a Web application provides information on the active alerts, active devices, active incidents, current impacted devices, and the average-to-resolve time for the incidents.

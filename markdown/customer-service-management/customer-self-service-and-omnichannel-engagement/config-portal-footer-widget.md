@@ -52,7 +52,7 @@ Role required: sp\_admin
     }]
     ```
 
-    For more information about the parameters, see [Portal Footer widget JSON parameters](../reference/portal-footer-widget-json.md).
+    For more information about the parameters, see [Portal Footer widget JSON parameters](../portal-footer-widget-json.md).
 
 5.  Select a theme for your portal.
 

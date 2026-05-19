@@ -73,7 +73,7 @@ In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides t
 **Related topics**  
 
 
-[Languages table](../reference/r_LanguagesTable.md)
+[Languages table](r_LanguagesTable.md)
 
 [Ensure that translated choices appear for applications added by plugins](activate-translated-choices-plugins.md)
 

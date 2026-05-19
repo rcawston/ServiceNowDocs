@@ -184,7 +184,7 @@ Image
 Upload an image of the room. The supported ratio of an image is: 26:17.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+</table>**Parent Topic:**[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 **Related topics**  
 

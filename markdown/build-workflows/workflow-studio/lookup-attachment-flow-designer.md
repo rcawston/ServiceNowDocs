@@ -80,5 +80,5 @@ When the triggering incident record has two or more attachments matching the loo
 ]
 ```
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

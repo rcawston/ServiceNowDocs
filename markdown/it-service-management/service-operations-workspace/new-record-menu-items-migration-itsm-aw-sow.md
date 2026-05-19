@@ -80,10 +80,10 @@ The Service Operations Workspace migration utility uses the following sequence t
 
 6.  Adds the code to the existing **chrome\_tab** JSON value for the new record menu.
 
--   **[Perform post-migration tasks for new records](../task/verify-migration-status-new-records.md)**  
+-   **[Perform post-migration tasks for new records](verify-migration-status-new-records.md)**  
 Verify that the new record menus in Service Operations Workspace \(SOW\) are consistent with the new record menus in ITSM Agent Workspace \(ITSM AW\) and they are ready for use in SOW. You can update the migrated new record menu settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 

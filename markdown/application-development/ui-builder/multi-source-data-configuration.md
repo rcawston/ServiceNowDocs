@@ -28,7 +28,7 @@ A data resource fetches the data that UI Builder uses to display information in 
 
 The Entity View Action Mapper \(EVAM\) can also be used to configure cards and lists using different data sources. The EVAM is an option for users who understand and are comfortable working with JSON. The multi-table data configuration option gives you greater control over the presentation of data, makes it easier to configure the data, and enables you to remain in UI Builder. Use the option that you prefer. For more information about EVAM, see [Work with the Entity View Action Mapper for UI Builder](evam-ui-builder.md).
 
--   **[Fetch data from multiple sources](../task/fetch-data-from-multiple-sources.md)**  
+-   **[Fetch data from multiple sources](fetch-data-from-multiple-sources.md)**  
 Learn how to obtain data from different sources to use in a single component.
 
 **Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)

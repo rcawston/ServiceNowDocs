@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Generate [assessable records](../concept/c_MetricTypesAndAssessableRecords.md) you want to evaluate.
+1.  Generate [assessable records](c_MetricTypesAndAssessableRecords.md) you want to evaluate.
 
     For example, you might create a metric type called **Project** to assess project management records.
 
@@ -59,17 +59,17 @@ Role required: assessment\_admin or admin
 **Related topics**  
 
 
-[Assessment scorecard averages](../reference/r_Averages.md)
+[Assessment scorecard averages](r_Averages.md)
 
-[Assessment scorecard categories](../reference/r_Categories.md)
+[Assessment scorecard categories](r_Categories.md)
 
-[Assessment scorecard category metrics](../reference/r_CategoryMetrics.md)
+[Assessment scorecard category metrics](r_CategoryMetrics.md)
 
-[Assessment scorecard head-to-head compare view](../reference/r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](r_HeadToHeadCompare.md)
 
-[Assessment scorecard history](../reference/r_History.md)
+[Assessment scorecard history](r_History.md)
 
-[Live feed view of assessable records](../reference/r_LiveFeed.md)
+[Live feed view of assessable records](r_LiveFeed.md)
 
-[Assessment scorecard ratings](../reference/r_Ratings.md)
+[Assessment scorecard ratings](r_Ratings.md)
 

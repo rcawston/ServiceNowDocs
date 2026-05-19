@@ -27,9 +27,9 @@ The synchronization process includes the following steps:
 
 1.  Install [Google Calendar Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gcal-spoke.md).
 2.  [Set up Google Calendar spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcal.md)
-3.  Authenticate ServiceNow with Google. Refer to [Authenticate Google for calendar synchronization](../task/authenticate-google-for-calendar-sync.md).
-4.  Configuring the Google Calendar Spoke connection using the Flow designer. Refer to [Create a Connection and credential record for Google](../task/create-connection-configuration-with-google.md).
-5.  Creating the Google Calendar provider. Refer to [Configure Google as calendar provider](../task/configure-google-as-calendar-provider.md).
+3.  Authenticate ServiceNow with Google. Refer to [Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md).
+4.  Configuring the Google Calendar Spoke connection using the Flow designer. Refer to [Create a Connection and credential record for Google](create-connection-configuration-with-google.md).
+5.  Creating the Google Calendar provider. Refer to [Configure Google as calendar provider](configure-google-as-calendar-provider.md).
 
 The application also enables you to create your own connection and credential alias instead of using the default alias created by using the flow designer.
 

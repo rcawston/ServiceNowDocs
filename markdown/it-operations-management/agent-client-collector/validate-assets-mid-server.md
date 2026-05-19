@@ -38,5 +38,5 @@ Role required: agent\_client\_collector\_admin
     If plugins aren't validated, restart the MID Server. Plugins sync automatically when the MID Server restarts.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

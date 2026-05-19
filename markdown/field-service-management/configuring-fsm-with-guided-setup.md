@@ -35,6 +35,6 @@ Use guided setup to step through the initial Field Service Management configurat
 
 4.  Select **Mark as Complete** when you complete a task.
 
-    For more information on the roles required to perform the guided setup, see [Roles required for Field Service Guided Setup](../reference/roles-required-for-field-service-guided-setup.md).
+    For more information on the roles required to perform the guided setup, see [Roles required for Field Service Guided Setup](roles-required-for-field-service-guided-setup.md).
 
 

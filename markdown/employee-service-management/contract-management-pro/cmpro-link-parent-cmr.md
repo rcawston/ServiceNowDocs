@@ -88,5 +88,5 @@ Steps
     ![Parent-child hierarchy in the Related contract requests tab](../image/cmpro-parent-child-link.png "Parent-child hierarchy")
 
 
-**Parent Topic:**[Linking parent-child contracts](../concept/cmpro-linking-parent-child.md)
+**Parent Topic:**[Linking parent-child contracts](cmpro-linking-parent-child.md)
 

@@ -52,5 +52,5 @@ The CTI Processing script does the following:
     2.  If the user does not have any open incidents, the popup screen shows a new incident with information provided in the URL shown.
 4.  If a user was not identified and a taskID is given and the taskID exists, then nothing happens. The code to handle this case is commented out. If you want the popup screen to show the details for the task, you must modify the CTI Processing script to put the functionality in a separate non-client-callable function.
 
-**Parent Topic:**[Supported integration interfaces](../../vendor-specific-integrations/reference/r_SupportedIntegrationInterfaces.md)
+**Parent Topic:**[Supported integration interfaces](r_SupportedIntegrationInterfaces.md)
 

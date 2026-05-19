@@ -14,7 +14,7 @@ The ServiceNow® Now Assist for Sales CRM for Telecommunications application enr
 
 ## Now Assist for Sales CRM for Telecommunications highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Automatically create the fallout records based on reported issues in the order task work notes.
 
@@ -26,7 +26,7 @@ See [Now Assist for Sales CRM for Telecommunications](https://raw.githubusercont
 
 ## Now Assist for Sales CRM for Telecommunications features
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -69,7 +69,7 @@ Now Assist features are available with activation of the Now Assist for Sales CR
     Use the Now Assist products to provide agentic AI skills to meet the needs of users in different workflows, including case or incident summarization, chat summarization, resolution notes generation, and code generation.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 
 **Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
 

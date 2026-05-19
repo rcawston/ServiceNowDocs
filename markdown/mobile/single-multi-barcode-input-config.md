@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Barcode inputs are available [offline](../concept/mobile-offline-mode.md). [Mobile UI rules](../concept/mobile-ui-rules.md) apply to barcode inputs.
+Barcode inputs are available [offline](mobile-offline-mode.md). [Mobile UI rules](mobile-ui-rules.md) apply to barcode inputs.
 
 ## Procedure
 

@@ -82,7 +82,7 @@ The CSM Configurable Workspace form view appears.
     3.  Select the information icon ![The information icon provides an explanation for why a particular sentiment has been assigned](../image/icon-more-info.png) and then select the refresh icon to see the updated sentiment and sentiment trend.
 
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](../concept/use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
 
 **Related topics**  
 
@@ -103,7 +103,7 @@ The CSM Configurable Workspace form view appears.
 
 [Generate resolution notes using Now Assist for HRSD](now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](employee-summary-lh.md)
 
 [Summarize actions while transferring an HR case](tcase-now-assist-hr.md)
 
@@ -115,5 +115,5 @@ The CSM Configurable Workspace form view appears.
 
 [Submit an HR request with Gen AI Virtual Agent](use-genai-hrsd.md)
 
-[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](../concept/integ-now-assist-hrsd.md)
+[Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework](integ-now-assist-hrsd.md)
 

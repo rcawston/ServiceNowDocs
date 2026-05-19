@@ -29,14 +29,14 @@ The following table shows URL parameters you can use in `GET` requests, filters 
 |---------|---------|-------------|-----------------------|
 |CSV|CSV|sysparm\_query, sysparm\_view|Y|
 |Excel|XLS, EXCEL, XLSX|sysparm\_query, sysparm\_view|Y|
-|JSON|JSONv2|Various. See [JSON data retrieval API](../../inbound-other-web-services/concept/c_DataRetrievalAPI.md).|Y|
+|JSON|JSONv2|Various. See [JSON data retrieval API](c_DataRetrievalAPI.md).|Y|
 |PDF|PDF|sysparm\_query, sysparm\_view|N|
-|RSS|RSS|sysparm\_query, sysparm\_view and more. See [Limiting results with a view](../../rss/concept/c_LimitingResultsWithAView.md).|N|
+|RSS|RSS|sysparm\_query, sysparm\_view and more. See [Limiting results with a view](c_LimitingResultsWithAView.md).|N|
 |XML|XML, XSD, SCHEMA|sysparm\_query, useUnloadFormat|N|
 
-For more information about retrieving and converting table records into the JSON file format, see [JSONv2 Web Service](../../inbound-other-web-services/concept/c_JSONv2WebService.md).
+For more information about retrieving and converting table records into the JSON file format, see [JSONv2 Web Service](c_JSONv2WebService.md).
 
-For more information about retrieving and converting table records into the RSS file format, see [RSS feed generator](../../rss/concept/c_RSSFeedGenerator.md).
+For more information about retrieving and converting table records into the RSS file format, see [RSS feed generator](c_RSSFeedGenerator.md).
 
 ## Converting records to PDFs
 
@@ -80,5 +80,5 @@ You can `POST` the following data types directly into tables:
 
 The file headers must match the field columns in the targeted table. For more information, see [Post CSV or Excel files directly to an import set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_PostCSVOrExcelFilesToImportSet.md).
 
-**Parent Topic:**[Inbound web services](../../web-services/concept/inbound-web-services.md)
+**Parent Topic:**[Inbound web services](inbound-web-services.md)
 

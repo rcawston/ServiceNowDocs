@@ -162,5 +162,5 @@ Add a distribution channel to a stockroom so that you can link that stockroom wi
 -   **[Add service locations to a stockroom in the Enterprise Asset Workspace](add-service-location-eam-stockroom.md)**  
 Add service locations to a stockroom so that you can source, deploy, and retire its assets across multiple geographic locations.
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](managing-enterprise-asset-inventory.md)
 

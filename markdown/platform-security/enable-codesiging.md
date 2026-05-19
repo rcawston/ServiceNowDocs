@@ -17,7 +17,7 @@ Turn on Code Signing in your trusted non-production instance to identify the tru
 
 Roles required: security\_admin, and either sn\_kmf.crypto\_manager or sn\_kmf.admin
 
-As a customer administrator, you can access and install the Code Signing \[com.glide.code\_signing\_enterprise\] plugin from the ServiceNow Plugin portal. To learn more about the use cases of Code Signing, see [Exploring Code Signing](../concept/explore-code-signing.md).
+As a customer administrator, you can access and install the Code Signing \[com.glide.code\_signing\_enterprise\] plugin from the ServiceNow Plugin portal. To learn more about the use cases of Code Signing, see [Exploring Code Signing](explore-code-signing.md).
 
 ## About this task
 
@@ -89,8 +89,8 @@ Code Signing jobs with signed update sets are used to turn the Code Signing feat
 
     ![Code Signing certificates available in System Properties.](../../key-management-framework/image/syspropertie-kmf-cert.png "System Properties")
 
-    Use the Circle of Trust job in production to verify the trust relationship. No direct job can be executed in production that attempts to sign code. See [Configuring Code Signing](../concept/config-code-signing.md) for details on configuration options.
+    Use the Circle of Trust job in production to verify the trust relationship. No direct job can be executed in production that attempts to sign code. See [Configuring Code Signing](config-code-signing.md) for details on configuration options.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

@@ -65,5 +65,5 @@ All team members see an announcement message in the Microsoft Teams channel thre
 
 A tag with the label **External** indicates that a user is guest and not present in the allowed-domain.
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](agent-sn-ms-teams.md)
 

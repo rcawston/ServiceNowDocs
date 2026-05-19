@@ -23,5 +23,5 @@ When non-interactive activities run, they automatically proceed to completion or
 
 Non-interactive activities turn into activity cards that are collapsed and marked complete in a playbook. The playbook continues running without any input from the playbook agent.
 
-To learn how to design a playbook with non-interactive activities, see [design an automated process](../task/design-automated-process.md).
+To learn how to design a playbook with non-interactive activities, see [design an automated process](design-automated-process.md).
 

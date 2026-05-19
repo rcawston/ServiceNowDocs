@@ -26,17 +26,17 @@ The following check types are provided with the Event Management base system:
 -   **Event**: The check's result is transformed into an Event Management event.
 -   **Metric**: The values from the check result are transformed to metrics.
 
-For details on the Agent Client Collector Framework default checks, see [Agent Client Collector Framework default checks](../reference/acc-framework-checks-policies.md).
+For details on the Agent Client Collector Framework default checks, see [Agent Client Collector Framework default checks](acc-framework-checks-policies.md).
 
-For details on the Agent Client Collector Monitoring default checks and policies, see [Agent Client Collector Monitoring default checks and policies](../reference/agent-policies-checks.md).
+For details on the Agent Client Collector Monitoring default checks and policies, see [Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md).
 
-For details on the Agent Client Collector for Visibility - Content default checks and policies, see [Agent Client Collector for Visibility - Content default checks and policies](../reference/acc-visibility-checks-policies.md).
+For details on the Agent Client Collector for Visibility - Content default checks and policies, see [Agent Client Collector for Visibility - Content default checks and policies](acc-visibility-checks-policies.md).
 
 If checks are not running on the agent's devices, your agent may be in CPU protection mode. CPU protection mode is activated when a device's CPU consumption is too high. To view a list of all disabled checks related to the agent, navigate to the agent record on the Agent Client Collectors page \(**All** &gt; **Agent Client Collector** &gt; **Agents**\), select an agent and select the **Disabled Checks** tab at the bottom of the page.
 
-In the `acc.yml` configuration file, you can modify the CPU protection mode thresholds which determine when a check is disabled. To re-enable a check, select the check and select **Re-enable disabled check** in the **Actions on selected rows...** drop-down. For details on the CPU protection mode thresholds, see [Agent Client Collector CPU protection thresholds](../reference/acc-set-silent-reference.md). For details on manually turning off data collection, see [Pause Agent Client Collector data collection](../task/acc-enable-silent-mode.md).
+In the `acc.yml` configuration file, you can modify the CPU protection mode thresholds which determine when a check is disabled. To re-enable a check, select the check and select **Re-enable disabled check** in the **Actions on selected rows...** drop-down. For details on the CPU protection mode thresholds, see [Agent Client Collector CPU protection thresholds](acc-set-silent-reference.md). For details on manually turning off data collection, see [Pause Agent Client Collector data collection](acc-enable-silent-mode.md).
 
-Configure the cpu\_protection\_behavior property to determine whether all checks enter CPU protection mode, or only the check that crosses the configured cpu\_percentage\_limit value with the highest CPU usage within the monitoring interval. For details, see [Agent Client Collector CPU protection thresholds](../reference/acc-set-silent-reference.md).
+Configure the cpu\_protection\_behavior property to determine whether all checks enter CPU protection mode, or only the check that crosses the configured cpu\_percentage\_limit value with the highest CPU usage within the monitoring interval. For details, see [Agent Client Collector CPU protection thresholds](acc-set-silent-reference.md).
 
 A check is marked as **Stale** if it is no longer associated with a policy. To remove a stale check, renable it by selecting the box next to the check and selecting **Re-enable disabled checks** from the **Actions on selected rows...** cell.
 

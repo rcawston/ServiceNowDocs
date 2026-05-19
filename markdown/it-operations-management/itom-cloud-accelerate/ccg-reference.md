@@ -17,7 +17,7 @@ Reference topics provide additional information about the Cloud Configuration Go
 
 -   **[Cloud Configuration Governance dashboard](ccg-dashboard.md)**  
 Cloud Configuration Governance is a tool used to manage the configuration of the cloud resources as per your organizational standards and established security standards. Use the dashboard to review the health score of the cloud, policy violation statistics, policy violation trend, remediations overview, and more.
--   **[Cloud Configuration Governance roles and system properties](../concept/ccg-roles-and-system-properties.md)**  
+-   **[Cloud Configuration Governance roles and system properties](ccg-roles-and-system-properties.md)**  
 Cloud Configuration Governance users require the appropriate roles and system properties to perform various activities. These roles and system properties are installed with the activation of the application.
 -   **[Cloud Configuration Governance Scan configuration form](ccg-scan-configuration-form.md)**  
 The Cloud Configuration Governance Scan configuration form displays detailed information about the scan configuration.

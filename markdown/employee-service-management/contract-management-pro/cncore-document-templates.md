@@ -33,7 +33,7 @@ For more information, see the following topics:
 Create contract templates by using Microsoft Word add-in for ServiceNow Contracts to add content controls.
 -   **[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)**  
 Create contract templates by adding content controls manually.
--   **[Publish a contract template](../task/cncore-publish-template.md)**  
+-   **[Publish a contract template](cncore-publish-template.md)**  
 Publish a contract template to make it available for generating a standard contract document with predefined content when a contract user submits a request.
 -   **[Configure dynamic clauses for contract templates](cncore-clause-and-cv.md)**  
 Enable dynamic customized content in contract templates through clauses that contain clause variations for preset conditions.

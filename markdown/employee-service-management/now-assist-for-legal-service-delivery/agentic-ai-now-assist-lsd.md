@@ -55,11 +55,11 @@ To modify an agentic workflow, you must first duplicate it, and then update it. 
 **Note:**
 
 -   When you modify an agentic workflow, AI agents, or tools, make sure that you update all instructions accordingly.
--   If you have a customized triage legal request agentic use case, update the script include of the business rule with the sys\_id of the customized use case. For more information, see [Activate the business rule for the Triage legal requests agentic workflow](../task/lsd-agentic-config-BR.md).
+-   If you have a customized triage legal request agentic use case, update the script include of the business rule with the sys\_id of the customized use case. For more information, see [Activate the business rule for the Triage legal requests agentic workflow](lsd-agentic-config-BR.md).
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
--   **[Triage legal requests agentic workflow](../task/trans-legal-request-agent.md)**  
+-   **[Triage legal requests agentic workflow](trans-legal-request-agent.md)**  
 Use the Triage legal requests agentic workflow to predict the appropriate legal category and to initiate a transfer after a confirmation from the legal fulfiller or group manager.
 
 **Parent Topic:**[Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-landing.md)

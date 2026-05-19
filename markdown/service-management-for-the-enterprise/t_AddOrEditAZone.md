@@ -47,5 +47,5 @@ There are no restrictions on zones. They can cross campuses and buildings. In ad
     |**To update the zone details**|Click **Update**.|
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](r_Manually-builtMaps.md)
 

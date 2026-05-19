@@ -83,5 +83,5 @@ Grouped Observables
 Lists observables grouped as part of the threat grouping.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat groupings](../concept/threat-groupings.md)
+</table>**Parent Topic:**[Threat groupings](threat-groupings.md)
 

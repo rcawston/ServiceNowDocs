@@ -59,5 +59,5 @@ The shared view for the free-form roadmap is created and is visible to all stake
 -   Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. See [Share a free-form roadmap with stakeholders](share-free-form-roadmap-stakeholders-portfolio-planning.md).
 -   Edit a free-form roadmap view to change the existing view. See [Edit a free-form roadmap view](edit-free-form-roadmap-view-ppw.md).
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-ppw.md)
+**Parent Topic:**[Managing free-form roadmap views](managing-free-form-roadmap-views-ppw.md)
 

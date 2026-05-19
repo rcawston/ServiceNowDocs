@@ -79,5 +79,5 @@ The following image shows an example of a diagnosis where the user Adela Cervant
 
 ![User criteria diagnosis for an article.](../image/user-crit-diag-article.png)
 
-**Parent Topic:**[User criteria diagnostics for Knowledge Management](../concept/diagnose-knowledge-user-criteria.md)
+**Parent Topic:**[User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md)
 

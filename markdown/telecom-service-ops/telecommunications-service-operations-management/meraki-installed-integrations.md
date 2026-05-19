@@ -27,5 +27,5 @@ Predefined system integrations use Meraki REST APIs to pull metric data into you
 |Uplink Loss and Latency|Monitors packet loss and latency for WAN uplinks on MX appliances.|
 |VPN Stats|Monitors site-to-site VPN tunnel status for MX appliances.|
 
-**Parent Topic:**[Telecommunications Service Operations Management reference](../reference/components-installed-with-tsom.md)
+**Parent Topic:**[Telecommunications Service Operations Management reference](components-installed-with-tsom.md)
 

@@ -44,10 +44,10 @@ Examples of product types include:
 -   Personal auto policies
 -   Homeowners policies
 
-For more information, see [Create an insurance product model](../task/creating-an-insurance-product-model.md).
+For more information, see [Create an insurance product model](creating-an-insurance-product-model.md).
 
 **Related topics**  
 
 
-[Create an insurance product model](../task/creating-an-insurance-product-model.md)
+[Create an insurance product model](creating-an-insurance-product-model.md)
 

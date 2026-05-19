@@ -85,7 +85,7 @@ Perform a one-time update of domain field values for a referenced table
 
 </td><td>
 
-Perform a full table reindex for the indexed source that includes the affected table. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](../task/index-single-source-ais.md).
+Perform a full table reindex for the indexed source that includes the affected table. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
 </td></tr><tr><td>
 
@@ -93,10 +93,10 @@ Enable automatic updating of domain field values for a referenced table
 
 </td><td>
 
-Create a **dot\_walk\_fields** field setting for the reference field, specifying the `sys_domain,sys_domain_path` domain fields as the attribute value. For full steps for this task, see [Enable automatic domain updates for a referenced table](../task/enable-ref-auto-domain-update-ais.md).
+Create a **dot\_walk\_fields** field setting for the reference field, specifying the `sys_domain,sys_domain_path` domain fields as the attribute value. For full steps for this task, see [Enable automatic domain updates for a referenced table](enable-ref-auto-domain-update-ais.md).
 
 </td></tr></tbody>
-</table>-   **[Enable automatic domain updates for a referenced table](../task/enable-ref-auto-domain-update-ais.md)**  
+</table>-   **[Enable automatic domain updates for a referenced table](enable-ref-auto-domain-update-ais.md)**  
 Configure a field setting to automatically index domain field value updates for records from a referenced table.
 
 **Parent Topic:**[Configuring AI Search](configuring-ais.md)

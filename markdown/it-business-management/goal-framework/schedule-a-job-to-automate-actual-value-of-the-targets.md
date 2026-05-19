@@ -38,5 +38,5 @@ By default, the scheduled job runs daily at 00:00:00 AM \(System Time Zone\).
     To learn more about scheduled jobs, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduledJobs.md).
 
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](../concept/configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](configuring-goal-framework.md)
 

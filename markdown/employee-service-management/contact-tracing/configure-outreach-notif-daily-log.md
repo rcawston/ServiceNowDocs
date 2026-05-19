@@ -17,9 +17,9 @@ As an administrator, create or configure the Emergency Outreach notification to 
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../emergency-outreach/install-emergency-outreach.md#).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../now-mobile-employee-experience/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -38,8 +38,8 @@ Role required: sn\_imt\_checkin.checkin\_admin or admin
 5.  On the **Select targeted audience** tab, select the target audience for the notification, and click **Save**.
 
     -   You can choose from user lists, groups, departments, locations, or other search filters such as building, cost center, or country code.
-    -   If you have the ServiceNow® Employee Health Screening application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md).
-    -   If you have the ServiceNow® Workplace Core application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](../../workplace-safety-mgmt/concept/workplace-safety-mgmt-hr.md).
+    -   If you have the ServiceNow® Employee Health Screening application installed, the **Use Employee Health Screen Data** option is available. Select this check box to include all employees cleared in the health screening to enter the premises. For more information, see [Employee Health Screening](../safe-workplace/employee-health-screening.md).
+    -   If you have the ServiceNow® Workplace Core application installed, the **User Workplace Reservation Data** option is available. Select this check box to include all employees with confirmed or approved reservations for that day. For more information, see [Workplace Core](../safe-workplace/workplace-safety-mgmt-hr.md).
 6.  On the **Content configuration** tab, select a notification in the **Notification** field, and choose how to send the notification.
 
     -   To send the notification by email, select the **Email notification** check box and enter the email subject and body.
@@ -78,5 +78,5 @@ A user with the sn\_imt\_checkin.checkin\_admin role can [send the Outreach noti
 
 A user with the admin or sn\_imt\_checkin.checkin\_admin role can stop the scheduled job to send the notifications automatically. To do so, click **Schedule** and in the dialog box, clear the **Active** check box, and then click **Update**.
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

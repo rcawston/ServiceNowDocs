@@ -88,5 +88,5 @@ Choose Portrait or Landscape. Not available when exporting to Microsoft PowerPoi
         **Note:** To send email to persons who are not on your instance, make sure outbound email is configured. See [Outbound Email Configuration](https://developer.servicenow.com/dev.do#!/learn/courses/xanadu/app_store_learnv2_automatingapps_xanadu_automating_application_logic/app_store_learnv2_automatingapps_xanadu_notifications/app_store_learnv2_automatingapps_xanadu_outbound_email_configuration) in the Developer Site.
 
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

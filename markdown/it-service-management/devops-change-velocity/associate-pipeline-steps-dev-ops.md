@@ -30,5 +30,5 @@ Role required: sn\_devops.admin
     Azure pipeline job run notifications are sent to the DevOps application. Each task execution notification corresponds to an orchestration task and, because orchestration tasks are mapped to a certain step in your DevOps pipeline, you can track the activity in each stage of your pipeline.
 
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 

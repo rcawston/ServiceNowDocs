@@ -33,7 +33,7 @@ Instances have the following properties initialized:
 
 Use with any server-side script where you need convert name/value pairs between maps and strings.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NameValuePairs - NameValuePairs\(String stringForm\)
 

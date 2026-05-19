@@ -31,7 +31,7 @@ Role required: admin
 
     ![Image showing full scan progress tracker](../image/hs-progress-worker.png)
 
-    **Note:** You can now execute multiple full scans simultaneously if you have enabled glide.scan.parallel\_scan\_enabled system property. You can also set the maximum number of scans that can run concurrently by setting the value for glide.scan.max\_parallel\_scans property. See [Instance Scan properties](../reference/hs-sys-properties.md) for more information.
+    **Note:** You can now execute multiple full scans simultaneously if you have enabled glide.scan.parallel\_scan\_enabled system property. You can also set the maximum number of scans that can run concurrently by setting the value for glide.scan.max\_parallel\_scans property. See [Instance Scan properties](hs-sys-properties.md) for more information.
 
     ![Image showing parallel scan in full scan](../image/hs-full-scan-queue-parallel.png)
 
@@ -54,7 +54,7 @@ Role required: admin
 
 A scan of the whole instance is executed.
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](hs-execute-scans.md)
 
 **Related topics**  
 

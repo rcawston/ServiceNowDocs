@@ -139,5 +139,5 @@ Boolean
 
 [Roles and responsibilities](personas-roles-and-tables-post-integration.md)
 
-[Activate Order Management for Business Locations](../task/activate-order-management-for-business-locations.md)
+[Activate Order Management for Business Locations](activate-order-management-for-business-locations.md)
 

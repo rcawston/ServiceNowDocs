@@ -35,5 +35,5 @@ After setting the above system property to **true**, go to your system log to se
 **Related topics**  
 
 
-[Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Add a system property](../r_AvailableSystemProperties.md#)
 

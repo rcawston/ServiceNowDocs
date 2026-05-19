@@ -108,7 +108,7 @@ Specifies the template used for this work plan. The available options are:
 -   **Task plan template**– The work plan creates tasks like cases and incidents based on the linked task plan template. For more information on the creation and usage of task plans, see [Task Plan Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-templates.md).
 **Note:**
 
--   Activate the Task Plan Templates \(com.sn\_task\_plan\_templates\) plugin from the ServiceNow Store and configure the extension point sn\_fsm\_planned\_wm.TaskPlanTemplateOutputTasks to attach task plan templates to the work plan. For more details about the extension point, see [Extension points in Field Service Management](../reference/extension-points-field-service.md).
+-   Activate the Task Plan Templates \(com.sn\_task\_plan\_templates\) plugin from the ServiceNow Store and configure the extension point sn\_fsm\_planned\_wm.TaskPlanTemplateOutputTasks to attach task plan templates to the work plan. For more details about the extension point, see [Extension points in Field Service Management](../extension-points-field-service.md).
 -   You must update the state of the schedule occurrence when the state of the task changes.
 -   You must link the output records \(cases or incidents\) with schedule occurrences because they are not linked automatically. You can link the output records by adding new field in the output record.
 -   The **Template type** field is not available by default. The administrator can configure the form layout to add the **Template type** field.

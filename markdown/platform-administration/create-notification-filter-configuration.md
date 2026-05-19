@@ -29,7 +29,7 @@ Role required: admin
 
 5.  Enter the **Name** and the **Order**, the notification filter configuration with the lowest order will take precedence.
 
-6.  Select the User Criteria from the list of target records or create a new [user criteria](../reference/user-criteria-form-notifications.md).
+6.  Select the User Criteria from the list of target records or create a new [user criteria](user-criteria-form-notifications.md).
 
 7.  Select **Notification filters** tab to create and submit filter conditions for the selected user criteria.
 
@@ -38,5 +38,5 @@ Role required: admin
 9.  Select **Submit**.
 
 
-**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](../concept/advanced-notification-prefrences.md)
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](advanced-notification-prefrences.md)
 

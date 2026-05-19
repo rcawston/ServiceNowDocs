@@ -46,5 +46,5 @@ The Database Storage for Audio Files \(com.glide.db\_audio\) feature must be act
         ```
 
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

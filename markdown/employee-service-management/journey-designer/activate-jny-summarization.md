@@ -51,5 +51,5 @@ Role required: \[sn\_jny.admin\], \[sn\_nowassist\_admin.nsa\_admin\]
 -   **[Summarize a journey with Now Assist for HR Service Delivery \(HRSD\)](summarize-jny.md)**  
 Managers can instantly summarize the information that appears on the Journey detail page to acquire an overview of an employee's journey. This summary also reflects the blockers that are impeding the journey's progress and the steps required to resume the journey's progress.
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
 

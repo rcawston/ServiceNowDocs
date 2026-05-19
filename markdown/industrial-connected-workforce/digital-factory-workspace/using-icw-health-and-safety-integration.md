@@ -15,9 +15,9 @@ breadcrumb: [Use, Digital Factory Workspace, Industrial Connected Workforce]
 
 Use the ICW Health and Safety Integration application to manage and resolve safety incidents in your organization.
 
--   **[Create a safety incident from an ICW task](../task/icw-create-safety-incident-from-task.md)**  
+-   **[Create a safety incident from an ICW task](icw-create-safety-incident-from-task.md)**  
 Create a safety incident directly from an existing ICW task when the task reveals a safety-related issue.
--   **[View safety incidents in the Digital Factory Workspace](../task/icw-view-safety-incident.md)**  
+-   **[View safety incidents in the Digital Factory Workspace](icw-view-safety-incident.md)**  
 Access and manage safety incidents from the Digital Factory Workspace list views.
 
 **Parent Topic:**[Using Digital Factory Workspace](using-digital-factory-workspace.md)

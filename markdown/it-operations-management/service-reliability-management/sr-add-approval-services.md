@@ -50,7 +50,7 @@ Require approval when Service Reliability Management \(SRM\) admins, managers, o
     **Note:** Approvals take two steps. First, the request is approved, which appears in the **Stage** field of the request record. Next, the request remains **Pending** until the request item is approved in the **Request** record.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](configuring-service-reliability-management.md)
 
 **Previous topic:**[Activate teams and services in SRM](sr-activate-teams-and-services-in-srm.md)
 

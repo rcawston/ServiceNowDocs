@@ -34,5 +34,5 @@ Role required: sn\_ti\_core.write
     The customer success choice record you create will be available as a sub category when you create success plays.
 
 
-**Parent Topic:**[Basic customer success setup](../concept/account-lifecycle-basic-config.md)
+**Parent Topic:**[Basic customer success setup](account-lifecycle-basic-config.md)
 

@@ -38,7 +38,7 @@ The factors that influence the proximity based search are explained below:
 
 By default, all the available spaces are displayed based on the above proximity calculations. In case the employee has set favorite locations and has selected the **My favorites first** sort option, then the favorite locations are displayed at first.
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
@@ -47,9 +47,9 @@ By default, all the available spaces are displayed based on the above proximity 
 
 [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
 
 [Mobile push notifications for workplace reservations](reservation-push-notifications.md)
 

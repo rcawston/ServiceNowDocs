@@ -25,14 +25,14 @@ Discovery uses patterns in the discovery process that can be created or customiz
 
 Discovered software is stored in the Software Installations \[cmdb\_sam\_sw\_install\] table.
 
-**Note:** If you are already running Discovery but have not used a version of ITSM Software Asset Management previously, run the [Migrate Software Asset Management Foundation plugin software installations](../task/t_MigrateSWInstallsSAMF.md) script to copy records from the \[cmdb\_ci\_spkg\] table to the \[cmdb\_sam\_sw\_install\] table, so that any previously discovered software installs are utilized by Software Asset Management Foundation plugin.
+**Note:** If you are already running Discovery but have not used a version of ITSM Software Asset Management previously, run the [Migrate Software Asset Management Foundation plugin software installations](t_MigrateSWInstallsSAMF.md) script to copy records from the \[cmdb\_ci\_spkg\] table to the \[cmdb\_sam\_sw\_install\] table, so that any previously discovered software installs are utilized by Software Asset Management Foundation plugin.
 
 When software install records are written to the Software Installations table, a business rule verifies whether the unique combination of the discovered publisher, discovered product, and discovered version already exist in the Discovery Model table.
 
 -   If so, the reference to the discovery model is set in the Software Installations table.
 -   If not, a new record is created in the Discovery Model table, and that discovery model reference is set in the Software Installations table.
 
-After discovery, you can [manually normalize](../task/t_EditASoftwareDiscModelSAMF.md) the software discovery model for reconciliation. Normalization status can have two different results:
+After discovery, you can [manually normalize](t_EditASoftwareDiscModelSAMF.md) the software discovery model for reconciliation. Normalization status can have two different results:
 
 |Status|Description|
 |------|-----------|

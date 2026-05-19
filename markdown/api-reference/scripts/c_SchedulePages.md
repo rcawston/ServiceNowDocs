@@ -17,7 +17,7 @@ A schedule page is a record that contains a collection of scripts that allow for
 
 Creation of timeline schedule pages requires understanding of the page/event flow and the ability to write client and server side JavaScript.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 
 ## Schedule pages form
 

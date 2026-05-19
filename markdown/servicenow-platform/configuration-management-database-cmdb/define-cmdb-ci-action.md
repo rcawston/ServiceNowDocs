@@ -34,5 +34,5 @@ You can view a list of all the actions that are currently applied to CIs by navi
 4.  Select **Submit**.
 
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
 

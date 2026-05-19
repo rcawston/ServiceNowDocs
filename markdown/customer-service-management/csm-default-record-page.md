@@ -71,7 +71,7 @@ Agents can use this feature to do the following:
 -   Select an email template to display the template details.
 -   Apply the selected template to an email in the Compose panel.
 
-For more information, see [Compose an email from an email template](../task/compose-email-from-email-template.md).
+For more information, see [Compose an email from an email template](compose-email-from-email-template.md).
 
 ## Creating emails and applying email templates
 
@@ -168,9 +168,9 @@ Requests
 </td></tr></tbody>
 </table>    For all the other source types, default guidance is supported. The Default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [Default guidance for search results](ra-csm-guidances-default-guidance-search.md).
 
-    For more information on how to avail the AI search feature in Recommended Actions, see [Enable AI search in Recommended Actions](../task/migrate-ra-agent-assist.md).
+    For more information on how to avail the AI search feature in Recommended Actions, see [Enable AI search in Recommended Actions](migrate-ra-agent-assist.md).
 
-    For more information, see [Use AI search in Recommended Actions to resolve cases](../task/nba-use-ai-search.md).
+    For more information, see [Use AI search in Recommended Actions to resolve cases](nba-use-ai-search.md).
 
     **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
@@ -187,7 +187,7 @@ Requests
 
 ## Editable record header field
 
-Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](../reference/csm-workspace-agent-actions.md#section_hhb_1tj_23c).
+Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](csm-workspace-agent-actions.md#section_hhb_1tj_23c).
 
 ## Collaborate component
 

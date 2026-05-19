@@ -54,7 +54,7 @@ Prevent resource conflicts by running tests that create their own data. Tests th
 
 [Quick start tests](quick-start-tests.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](atf-test-triage.md)
 
 [Performance profiling](atf-perf-prof.md#)
 

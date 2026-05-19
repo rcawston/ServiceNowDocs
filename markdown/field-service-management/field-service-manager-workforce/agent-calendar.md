@@ -141,5 +141,5 @@ Allows customer service agents and field service technicians to access and updat
 
 [Creating and using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
-[Configuring an agent calendar](configure-agent-calendar.md)
+[Configuring an agent calendar](../workforce-optimization-for-field-service/configure-agent-calendar.md)
 

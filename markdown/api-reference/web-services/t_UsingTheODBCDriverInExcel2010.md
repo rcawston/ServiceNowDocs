@@ -58,5 +58,5 @@ Role required: admin
     ![Excel ODBC Results.](../image/ExcelODBCResults.png)
 
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](r_ODBCAndClientApplications.md)
 

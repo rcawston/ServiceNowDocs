@@ -56,5 +56,5 @@ When creating a new domain, keep the following in mind:
 
 To change the domain hierarchy, go to the Contains Domains related list and select the domain records that is the child \(contained\) domains of the contains relationship.
 
-**Parent Topic:**[Domain separation in GRC](../concept/grc-domain-separation.md)
+**Parent Topic:**[Domain separation in GRC](grc-domain-separation.md)
 

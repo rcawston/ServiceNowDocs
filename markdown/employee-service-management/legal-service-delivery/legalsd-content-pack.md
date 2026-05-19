@@ -24,12 +24,12 @@ The following roles and tasks are associated with this Solution:
 
 The Next Experience user interface \(UI\) Legal Executive Dashboard is available and can be accessed from **Workspaces** &gt; **Platform Analytics Workspace** &gt; **Dashboards** &gt; **All** &gt; **Legal Executive Dashboard**.
 
--   **[Activate the Analytics and Reporting Solution for Legal Service Delivery](../../dashboards/application-content-packs/legalsd-install.md)**  
+-   **[Activate the Analytics and Reporting Solution for Legal Service Delivery](legalsd-install.md)**  
 Activate the content pack ServiceNow Store application for the Analytics and Reporting Solution.
--   **[Legal Executive dashboard](../../dashboards/application-content-packs/legal-executive-dashboard.md)**  
+-   **[Legal Executive dashboard](legal-executive-dashboard.md)**  
 With the Legal Executive dashboard, you can get an insight into how your team and business are performing for resolving Legal service requests.
--   **[Legal Operations dashboard](../../dashboards/application-content-packs/legal-operations-dashboard.md)**  
+-   **[Legal Operations dashboard](legal-operations-dashboard.md)**  
 The Legal Operations dashboard provides comprehensive reports to the legal department. The dashboard uses Performance Analytics to provide reports and metrics on legal requests and legal matters.
 
-**Parent Topic:**[Legal Service Delivery](../../../product/legal-request-management/concept/legal-management-overview.md)
+**Parent Topic:**[Legal Service Delivery](legal-management-overview.md)
 

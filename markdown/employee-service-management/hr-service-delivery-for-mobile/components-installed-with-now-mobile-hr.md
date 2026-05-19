@@ -17,7 +17,7 @@ Several types of components install with the activation of the Now Mobile for HR
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-Demo data is available for this feature. Load demo data at the time of the plugin installation, or add the demo data using the repair feature for plugin installations. See [Now Mobile app demo](../../../administer/tablet-mobile-ui/concept/sg-mobile-demo.md).
+Demo data is available for this feature. Load demo data at the time of the plugin installation, or add the demo data using the repair feature for plugin installations. See [Now Mobile app demo](../now-mobile-employee-experience/sg-mobile-demo.md).
 
 **Note:** The Now Mobile \[sn\_me\] plugin activates the sn\_hr\_mobile.min\_admin\_count system property \[sys\_properties.list\]. This property prevents you from deleting your only mobile admin user by requiring a minimum number \(default is two\) of active users with this role.
 
@@ -69,5 +69,5 @@ Scripted Activity Set Context\[v\_st\_hr\_activity\_set\_context\]
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate HR Service Delivery for mobile](../task/activate-mobile-employee-experience-for-hr-service-delivery.md)
+</table>**Parent Topic:**[Activate HR Service Delivery for mobile](activate-mobile-employee-experience-for-hr-service-delivery.md)
 

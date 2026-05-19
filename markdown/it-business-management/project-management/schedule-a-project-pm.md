@@ -53,7 +53,7 @@ Role required: it\_project\_manager
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Apply or change a task constraint](change-task-constraint-project-management.md)
 
@@ -73,7 +73,7 @@ Role required: it\_project\_manager
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 
@@ -85,7 +85,7 @@ Role required: it\_project\_manager
 
 [Migrate financial baselines of projects to Next Experience](migrate-fin-baselines-projects.md)
 
-[Project scheduling in Project Management](../concept/project-scheduling.md)
+[Project scheduling in Project Management](project-scheduling.md)
 
-[Task link types](../reference/task-link-types-project-management.md)
+[Task link types](task-link-types-project-management.md)
 

@@ -21,7 +21,7 @@ Custom filters are scripted **System UI** **Widgets** that use the DashboardMess
 
 Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
-**Note:** The exposed API for custom interactive filters is limited and does not provide parity with standard interactive filters. Before implementing any custom interactive filters, review the [Custom interactive filter limitations](../reference/custom-if-limitations.md).
+**Note:** The exposed API for custom interactive filters is limited and does not provide parity with standard interactive filters. Before implementing any custom interactive filters, review the [Custom interactive filter limitations](custom-if-limitations.md).
 
 Access control lists on the Table API may restrict the records shown when a dashboard is filtered. To alleviate this problem, add users or roles to the Table API access control list. For more information, see [Access control list rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md).
 
@@ -29,15 +29,15 @@ The code that publishes the filter must call the SNC.canvas.interactiveFilters.s
 
 Define the appearance of the widget, such as available buttons, using Jelly.
 
-You can add multiple custom interactive filters to the same dashboard. The filters must have unique IDs in the filter object and unique IDs for the [DashboardMessageHandler](../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#).
+You can add multiple custom interactive filters to the same dashboard. The filters must have unique IDs in the filter object and unique IDs for the [DashboardMessageHandler](c_DashboardMessageHandler.md#).
 
--   **[Custom interactive filter examples](../reference/r_CustomPublisherExample.md#)**  
+-   **[Custom interactive filter examples](r_CustomPublisherExample.md#)**  
 As an administrator, you can create custom interactive filter widgets to provide advanced filtering options on dashboards.
 -   **[Use the Debug filter](c_DebugPublisher.md)**  
 The debug interactive filter helps you create custom filters. This filter displays a JSON array representation of all active filters on a dashboard.
--   **[Custom interactive filter limitations](../reference/custom-if-limitations.md)**  
+-   **[Custom interactive filter limitations](custom-if-limitations.md)**  
 Custom interactive filters are a fallback for use when standard interactive filters do not provide certain functionality.
--   **[DashboardMessageHandler](../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#)**  
+-   **[DashboardMessageHandler](c_DashboardMessageHandler.md#)**  
 Provides methods to define custom filtering logic for interactive filters.
 -   **[Dynamic JavaScript filters](dynamic-js-filters.md#)**  
 Create dynamic conditions in JavaScript that you can configure as part of a report visualization's criteria instead of specified values.

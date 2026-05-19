@@ -46,7 +46,7 @@ Role required: sn\_slm.contact
 
 The application creates a case and assigns it to the supplier manager to take appropriate action.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -71,5 +71,5 @@ The application creates a case and assigns it to the supplier manager to take ap
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

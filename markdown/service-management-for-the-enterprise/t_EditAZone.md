@@ -61,5 +61,5 @@ Click a space outside the zone. **Note:** The space turns green indicating that 
 6.  When finished making edits, click **Apply edits**.
 
 
-**Parent Topic:**[Facilities Workbench](../concept/c_FacilitiesWorkbench.md)
+**Parent Topic:**[Facilities Workbench](c_FacilitiesWorkbench.md)
 

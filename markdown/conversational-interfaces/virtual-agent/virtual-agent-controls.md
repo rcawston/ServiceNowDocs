@@ -22,9 +22,9 @@ Each set of controls performs specific functions in a conversation flow.
 |--------|-----------|
 |Start segment|Appears automatically in a topic flow and cannot be added to or removed from a conversation. This control can be configured with a greeting response that appears when a conversation begins.|
 |End segment|Appears automatically in a topic flow and cannot be added to or removed from a conversation. This control can be configured with a final confirmation message before the end of a conversation. Ensure that all branches of your topic eventually connect to this control.|
-|[User Input](../reference/va-user-inputs.md)|Prompts and captures information from the user in a conversation.|
-|[Bot Response](../reference/va-bot-responses.md)|Displays bot responses in a conversation.|
-|[Utilities](../reference/va-utilities.md)|Handles actions and logic within a topic, such as running a script or adding different conversation paths \(branches\) in a topic. You can also use them to call automated Workflow Studio workflows.|
+|[User Input](va-user-inputs.md)|Prompts and captures information from the user in a conversation.|
+|[Bot Response](va-bot-responses.md)|Displays bot responses in a conversation.|
+|[Utilities](va-utilities.md)|Handles actions and logic within a topic, such as running a script or adding different conversation paths \(branches\) in a topic. You can also use them to call automated Workflow Studio workflows.|
 
 For controls that have prompts, messages, default values, or confirmation messages, you can enter any of the following input values:
 

@@ -50,7 +50,7 @@ Role required: sn\_sec\_tisc.analyst
 8.  To remove a linked case, select the **Unlink** button.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 
 **Related topics**  
 

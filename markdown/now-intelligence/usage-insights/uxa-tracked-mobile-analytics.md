@@ -15,7 +15,7 @@ breadcrumb: [Tracked analytics fields and cookies, User privacy, tracking, and c
 
 Usage Insights collects data from mobile applications on your mobile device. These tables list fields that are tracked in the mobile applications. Reports and charts are generated from these fields.
 
-For more information about using the data, see [Viewing user analytics](../concept/viewing-user-data.md).
+For more information about using the data, see [Viewing user analytics](viewing-user-data.md).
 
 ## Collected data according to the mobile app session
 
@@ -89,5 +89,5 @@ You can add these events by calling client-side APIs. 
 |Property Name |Name of the user property \(string\) |English|
 |Property Value |Value of the user property \(string, Boolean, date, number\) |5|
 
-**Parent Topic:**[Tracked analytics fields and cookies](../concept/uxa-tracked-fields-and-cookies.md)
+**Parent Topic:**[Tracked analytics fields and cookies](uxa-tracked-fields-and-cookies.md)
 

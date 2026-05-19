@@ -35,5 +35,5 @@ In test environments, many customers let our provisioning user stay active indef
 
 During a support case, disabled user accounts can be reactivated upon request.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

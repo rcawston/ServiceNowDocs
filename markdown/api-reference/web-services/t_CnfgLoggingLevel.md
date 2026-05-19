@@ -48,12 +48,12 @@ Role required: none
 10. Enable SOAP debugging for your ServiceNow instance.
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 
 **Related topics**  
 
 
 [Generate logs for debugging](t_GenerateDebugLogs.md)
 
-[Debug incoming SOAP envelope](../../inbound-soap/concept/c_DebuggingIncomingSOAPEnvelope.md)
+[Debug incoming SOAP envelope](c_DebuggingIncomingSOAPEnvelope.md)
 

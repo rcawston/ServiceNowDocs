@@ -44,7 +44,7 @@ A common use case is launch in context to the source management system.
 
 Other examples include to search in knowledge bases, not only within ServiceNow, but externally as well. Any URL-based action can utilize the alert parameters and the URLs can refer to wikis, messaging services, REST APIs, and so on.
 
-**Parent Topic:**[Using Event Management](../concept/user-guide.md)
+**Parent Topic:**[Using Event Management](user-guide.md)
 
 **Related topics**  
 

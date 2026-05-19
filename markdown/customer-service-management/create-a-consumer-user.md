@@ -43,7 +43,7 @@ Create a consumer user to associate it with a new or existing contact.
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Contact form for Email Interaction for CSM](../reference/contact-form-eaai.md).
+    For a description of the field values, see [Contact form for Email Interaction for CSM](contact-form-eaai.md).
 
 6.  Select **Submit**.
 

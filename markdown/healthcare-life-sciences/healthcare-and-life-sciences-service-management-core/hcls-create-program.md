@@ -55,7 +55,7 @@ By default, the application provides a few sample programs for the Healthcare an
 
     4.  To add multiple medication products, repeat steps 8.b through 8.c.
 
-    **Note:** When you add a medication product for a program, you must also configure the dosage specifications for the medication product. For more information, see [Configure dosage specifications for a medication product](../concept/hcls-config-dosage-spec.md).
+    **Note:** When you add a medication product for a program, you must also configure the dosage specifications for the medication product. For more information, see [Configure dosage specifications for a medication product](hcls-config-dosage-spec.md).
 
 9.  In the **Description** field, enter a summary of the program.
 
@@ -68,7 +68,7 @@ By default, the application provides a few sample programs for the Healthcare an
 13. [Publish the program](hcls-create-program.md#).
 
 
-**Parent Topic:**[Configure programs and program services for Healthcare and Life Sciences workflows](../concept/hcls-program-setup.md)
+**Parent Topic:**[Configure programs and program services for Healthcare and Life Sciences workflows](hcls-program-setup.md)
 
 ## Configure a specification characteristic for a program
 

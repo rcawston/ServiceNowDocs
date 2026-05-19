@@ -23,7 +23,7 @@ Role required: admin.
 
 This is the most traditional Workday SOAP authentication setup.
 
-**Note:** These configurations are needed to use the SOAP-based spoke actions. For information about the SOAP-based spoke actions, see the Spoke actions that use Workday SOAP APIs section in [Workday HR Spoke](../concept/workday-hr-spoke.md).
+**Note:** These configurations are needed to use the SOAP-based spoke actions. For information about the SOAP-based spoke actions, see the Spoke actions that use Workday SOAP APIs section in [Workday HR Spoke](workday-hr-spoke.md).
 
 ## Provide the Workday HR base URL
 

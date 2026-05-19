@@ -46,7 +46,7 @@ It's required that you review your contracts and third parties annually. You can
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Contractual arrangement form](../reference/tprm-create-new-cont-arrange-form.md).
+    For descriptions of all these fields, see [Create New Contractual arrangement form](tprm-create-new-cont-arrange-form.md).
 
 5.  Select **Save**.
 

@@ -19,9 +19,9 @@ When the HR case template sets the assignment group, assignment rules are ignore
 
 When an ER case is created, it:
 
--   Checks for the Skills/Assignment group from the HR Case Template for the associated HR service. See [Configure an HR case template for an HR service](../task/configure-hr-case-template.md).
+-   Checks for the Skills/Assignment group from the HR Case Template for the associated HR service. See [Configure an HR case template for an HR service](configure-hr-case-template.md).
 -   If there is no assignment group for the HR case template, the base system provides the Employee Relations Case assignment rule.
 -   The Employee Relations Case assignment rule assigns the Employee Relations group to the case.
 
-**Note:** For more information, see [Add or modify an HR assignment rule](../task/t_CreatingAnAssignmentRule.md).
+**Note:** For more information, see [Add or modify an HR assignment rule](t_CreatingAnAssignmentRule.md).
 

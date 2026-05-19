@@ -26,7 +26,7 @@ There are a limited number of task types available for bulk update.
 
 The bulk update feature is enabled for up to 50 journeys.
 
--   **[Update similar tasks in bulk](../task/jny-dsgnr-update-tasks.md)**  
+-   **[Update similar tasks in bulk](jny-dsgnr-update-tasks.md)**  
 Managers, mentors, and other journey participants with access to certain Journey designer task types are able to update similar tasks identified by Journey designer in a single action.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)

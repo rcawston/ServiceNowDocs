@@ -15,7 +15,7 @@ You can access the IntegrationHub ETL dashboard within the SGC Central view of t
 
 IntegrationHub ETL is a tool for creating and managing ETL transform maps to integrate third-party data into the CMDB or non-CMDB tables. Select **Go to IntegrationHub ETL Home** to view the IntegrationHub ETL home page.
 
-To learn about the IntegrationHub ETL store app, see [IntegrationHub ETL](../../configuration-management/concept/integrationhub-etl.md).
+To learn about the IntegrationHub ETL store app, see [IntegrationHub ETL](integration-hub-etl/integrationhub-etl.md).
 
 ## Access IntegrationHub ETL in SGC Central
 

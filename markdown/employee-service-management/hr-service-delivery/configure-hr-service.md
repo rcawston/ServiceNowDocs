@@ -28,7 +28,7 @@ Role required: sn\_hr\_core.admin
     **Note:** The COEs available to you may differ depending on the HR package you have.
 
     -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
-    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](../concept/hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
+    -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md). Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
     -   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
     -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 3.  Fill in the fields on the form, as appropriate.
@@ -103,7 +103,7 @@ Lifecycle Event
 
 </td><td>
 
-\(Enterprise Onboarding and Transitions only\) A lifecycle event fulfills the HR service. In the **Lifecycle Event Type** field, select a lifecycle event to fulfill the HR service.**Note:** A lifecycle event is a collection of activities that comprise an employee experience such as new hire onboarding. See [Building a lifecycle event](../concept/hr-lifecycle-event-configuration.md) for more information.
+\(Enterprise Onboarding and Transitions only\) A lifecycle event fulfills the HR service. In the **Lifecycle Event Type** field, select a lifecycle event to fulfill the HR service.**Note:** A lifecycle event is a collection of activities that comprise an employee experience such as new hire onboarding. See [Building a lifecycle event](../lifecycle-events/hr-lifecycle-event-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Topic detail
 
 </td><td colspan="2">
 
-HR topic detail that the HR service is categorized under.**Note:** The HR topic detail is the second-level of categorization for HR services. See [HR service categorization](../concept/hr-service-categorization.md) for more information.
+HR topic detail that the HR service is categorized under.**Note:** The HR topic detail is the second-level of categorization for HR services. See [HR service categorization](hr-service-categorization.md) for more information.
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Topic category
 
 </td><td colspan="2">
 
-HR topic category that the HR service is categorized under.**Note:** The HR topic category is the first-level of categorization for HR services. See [HR service categorization](../concept/hr-service-categorization.md) for more information.
+HR topic category that the HR service is categorized under.**Note:** The HR topic category is the first-level of categorization for HR services. See [HR service categorization](hr-service-categorization.md) for more information.
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ COE
 
 HR Center of Excellence \(COE\) that the HR service is categorized under.**Note:**
 
--   The COEs are organized around functional disciplines and are extensions of the HR Case \[sn\_hr\_core\_case\] table. See [HR service categorization](../concept/hr-service-categorization.md) for more information.
+-   The COEs are organized around functional disciplines and are extensions of the HR Case \[sn\_hr\_core\_case\] table. See [HR service categorization](hr-service-categorization.md) for more information.
 -   \( Enterprise Onboarding and Transitions only\) An HR service for a lifecycle event can be associated with any COE.
 
 
@@ -270,9 +270,9 @@ HR criteria
 
 HR criteria to apply to the HR service.**Note:**
 
--   HR criteria defines the conditions that an employee must meet for an HR agent to be able to access that HR service on their behalf. For example, you can configure the HR criteria for a 401\(k\) request so that the HR service is only available to U.S. employees from the **Create New Case** module. See [HR criteria](../concept/hr-criteria.md#) for more information.
+-   HR criteria defines the conditions that an employee must meet for an HR agent to be able to access that HR service on their behalf. For example, you can configure the HR criteria for a 401\(k\) request so that the HR service is only available to U.S. employees from the **Create New Case** module. See [HR criteria](hr-criteria.md#) for more information.
 -   \(Employee self-service only\) HR criteria applied to the HR service is internal-facing only, and has no relation to the user criteria that is used to control what HR catalog items an employee can access from the HR service catalog. See [Edit the record producer for an HR catalog item](edit-hr-record-producer-for-hr-catalog-item.md) for more information.
--   When defining conditions like case sensitivity or null values, see API [GlideFilter - Scoped, Global](../concept/hr-service-configuration.md).
+-   When defining conditions like case sensitivity or null values, see API [GlideFilter - Scoped, Global](hr-service-configuration.md).
 
 
 </td></tr><tr><td>
@@ -306,7 +306,7 @@ Description of the HR service.
 
 6.  Click **Submit** or **Update**.
 
-    **Note:** If you added a custom column to an HR COE table, you must create a UI policy action \(**Visible** field is set to **False**\) to hide it from other HR services that use that HR COE table. For example, if you add a custom column to the HR Payroll Case \[sn\_hr\_core\_case\_payroll\] table, it appears in all HR services related to this table. The custom column appears even after you add it for a specific HR service. For more information, see [UI policies](../concept/hr-service-configuration.md).
+    **Note:** If you added a custom column to an HR COE table, you must create a UI policy action \(**Visible** field is set to **False**\) to hide it from other HR services that use that HR COE table. For example, if you add a custom column to the HR Payroll Case \[sn\_hr\_core\_case\_payroll\] table, it appears in all HR services related to this table. The custom column appears even after you add it for a specific HR service. For more information, see [UI policies](hr-service-configuration.md).
 
 
 -   **[Configure a service activity for an HR service](configure-service-activity-for-hr-service.md)**  
@@ -318,9 +318,9 @@ Configure the fields that appear on the HR case form for an HR service.
 -   **[Add a custom column \(field\) to an HR table](configure-custom-column-hr-table.md)**  
 You can add custom columns \(fields\) to an HR table.
 
-**Parent Topic:**[HR service configuration](../concept/hr-service-configuration.md)
+**Parent Topic:**[HR service configuration](hr-service-configuration.md)
 
-**Previous topic:**[HR service configuration](../concept/hr-service-configuration.md)
+**Previous topic:**[HR service configuration](hr-service-configuration.md)
 
 **Next topic:**[Configure a service activity for an HR service](configure-service-activity-for-hr-service.md)
 

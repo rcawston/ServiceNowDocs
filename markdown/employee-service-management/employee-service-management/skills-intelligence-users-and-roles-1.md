@@ -47,7 +47,7 @@ You can assign these roles to the appropriate roles, groups, or users in your ap
 |sn\_skills\_int\_role\_level\_m2m\_ind\_title|Stores the data related to the industry titles imported into your ServiceNow instance.|
 |sn\_skills\_int\_employee\_role\_level\_m2m|Stores the relationship of how an employee maps to a role level and whether it’s a primary role.|
 |sn\_skills\_int\_role\_level\_skill|Stores skills at the role level.|
-|sn\_skills\_int\_proficiency\_autofill\_config|Stores the configuration for proficiency autofill. For more information, see [Set the job proficiency level automatically](../task/proficiency-autofill-config.md).|
+|sn\_skills\_int\_proficiency\_autofill\_config|Stores the configuration for proficiency autofill. For more information, see [Set the job proficiency level automatically](../talent-development-core/proficiency-autofill-config.md).|
 |sn\_skills\_int\_extracted\_skill|Stores skills extracted from a resume upload.|
 |sn\_skills\_int\_skill\_onboarding\_prediction|Stores the match/duplicate skill predictions from the custom skills imported.|
 |sn\_skills\_int\_skill\_onboarding|Stores the custom skills imported.|
@@ -56,5 +56,5 @@ You can assign these roles to the appropriate roles, groups, or users in your ap
 |sn\_skills\_int\_dynamic\_skill|Stores the new skills requested from the dynamic sources \( currently only from Credly\).|
 |sn\_skills\_int\_dynamic\_skill\_requestor|Stores the requester information for the dynamic skills added.|
 
-**Parent Topic:**[Skills Foundation Reference](../concept/skills-intelligence-reference.md)
+**Parent Topic:**[Skills Foundation Reference](../talent-development-core/skills-intelligence-reference.md)
 

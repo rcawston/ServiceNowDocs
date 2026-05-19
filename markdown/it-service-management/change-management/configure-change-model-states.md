@@ -135,7 +135,7 @@ Option to make the condition active.
 
 ## What to do next
 
-Attach a process with defined conditions that enable transition between change model states. See [Attach a process for Change model states](../concept/attach-process-change-model.md).
+Attach a process with defined conditions that enable transition between change model states. See [Attach a process for Change model states](attach-process-change-model.md).
 
 Create change templates based on the change model. For more information, see [Create and propose a change template](create-change-template.md).
 

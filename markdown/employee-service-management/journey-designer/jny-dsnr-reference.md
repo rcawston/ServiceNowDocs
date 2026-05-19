@@ -32,5 +32,5 @@ The journey template page has information that is useful to the plan configurati
 -   **[Components installed with Journey designer](components-installed-with-jny-dsgnr.md)**  
 Several types of components install with the activation of the Journey designer application, including user roles and tables.
 
-**Parent Topic:**[Journey designer](../concept/jny-dsgnr-landing-page-1.md)
+**Parent Topic:**[Journey designer](../employee-service-management/jny-dsgnr-landing-page-1.md)
 

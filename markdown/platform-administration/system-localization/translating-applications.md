@@ -15,7 +15,7 @@ breadcrumb: [System Localization, Translation and localization, Configure core f
 
 Translate content you create or modify to a supported language or add an unsupported language.
 
-**Note:** Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](../../localization-framework/concept/localization-framework-landing.md).
+**Note:** Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](../localization-framework/localization-framework-landing.md).
 
 ServiceNow provides translations of the base system UI strings in supported languages through the internationalization \(I18N\) language plugins. For applications you create and modifications you make to the ServiceNow AI Platform® content, you must provide your own translations. You can also provide any translations to unsupported languages that ServiceNow does not provide translations for. The ServiceNow AI Platform does not provide any automatic translation capability.
 
@@ -46,8 +46,8 @@ Field labels in a table for a customer-created application
 
 </td><td>
 
--   [Export and edit translation records](../task/t_TranslateTheInterface.md#)
--   Alternatively, follow the procedure for translating individual labels in [Translate a field label](../task/t_TranslateAFieldLabel.md).
+-   [Export and edit translation records](t_TranslateTheInterface.md#)
+-   Alternatively, follow the procedure for translating individual labels in [Translate a field label](t_TranslateAFieldLabel.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ HTML in a UI page in a customer-created application
 
 </td><td>
 
-[Translate a client script message](../task/t_TranslateAClientScriptMessage.md)
+[Translate a client script message](t_TranslateAClientScriptMessage.md)
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Service Catalog items
 
 </td><td>
 
--   To activate translation prefixes, see [Debug translations](../task/t_DisplayATranslationPrefix.md).
+-   To activate translation prefixes, see [Debug translations](t_DisplayATranslationPrefix.md).
 -   For translatable text fields, which are common in Service Catalog items, see [Translating text fields](c_UseTranslatedText.md#).
 
 </td></tr><tr><td>
@@ -92,7 +92,7 @@ Service Portal widget
 
 </td><td>
 
--   [Translate a client script message](../task/t_TranslateAClientScriptMessage.md)
+-   [Translate a client script message](t_TranslateAClientScriptMessage.md)
 -   [Internationalize a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_WidgetLocalization.md) in Service Portal documentation
 -   For unofficial advice, see [Building multi-lingual service portals](https://www.dylanlindgren.com/2018/11/07/building-multilingual-service-portals/)
 
@@ -122,7 +122,7 @@ Edit a translation provided in a plugin
 
 </td><td>
 
-[Export and edit translation records](../task/t_TranslateTheInterface.md#)
+[Export and edit translation records](t_TranslateTheInterface.md#)
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Translate an instance to an unsupported language
 
 </td><td>
 
-[Translating to an unsupported language](../task/self-localize.md)
+[Translating to an unsupported language](self-localize.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ System Localization does not cover platform notifications or surveys. The usual 
 —
 
 </td></tr></tbody>
-</table>-   **[Export and edit translation records](../task/t_TranslateTheInterface.md#)**  
+</table>-   **[Export and edit translation records](t_TranslateTheInterface.md#)**  
 Export translation records to translate to additional languages in your preferred translation environment and import the new or edited translation records through import sets.
 
 **Parent Topic:**[System Localization](system-localization-landing.md)

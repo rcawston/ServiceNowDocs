@@ -32,5 +32,5 @@ Role required: admin
 4.  Check the **Backordered** field, and if the item is backordered, review comments for information about its return to stock.
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](p_ServiceCatalogRequests.md)
 

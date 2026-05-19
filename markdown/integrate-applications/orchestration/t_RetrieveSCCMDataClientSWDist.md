@@ -49,7 +49,7 @@ To populate the Client Software Distribution application with SCCM data:
     ![SCCM server instance record](../image/SCCMServerInstance.png "Retrieving SCCM data with Discovery")
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](configuring-sccm.md)
 
 ## SCCM server Discovery for client software distribution
 
@@ -98,5 +98,5 @@ SCCM Deployment \[sn\_client\_sf\_dist\_sccm\_deployment\]
 -   type
 
 </td></tr></tbody>
-</table>**Note:** For details about the custom activities used in this workflow to extract data from an SCCM server, see [Orchestration SCCM activity pack](../../../administer/orchestration-activities/concept/c_SCCMActivityPack.md).
+</table>**Note:** For details about the custom activities used in this workflow to extract data from an SCCM server, see [Orchestration SCCM activity pack](c_SCCMActivityPack.md).
 

@@ -38,8 +38,8 @@ Use the following development tools to build apps, flows, processes, tables, and
 
 |Builder|Description|
 |-------|-----------|
-|[Form Builder](../../../administer/form-builder/concept/access-form-builder.md)|Customize any ServiceNow AI Platform record or form. Form Builder is most often accessed through Table Builder on the Forms tab.|
-|[Table Builder](../../../administer/form-builder/concept/tb-landing-page.md)|Design tables, forms, and flows visually using a single user interface.|
+|[Form Builder](../form-builder-glide-family-release/access-form-builder.md)|Customize any ServiceNow AI Platform record or form. Form Builder is most often accessed through Table Builder on the Forms tab.|
+|[Table Builder](../form-builder-glide-family-release/tb-landing-page.md)|Design tables, forms, and flows visually using a single user interface.|
 
 ## Integration
 
@@ -61,8 +61,8 @@ Use the following development tools to build apps, flows, processes, tables, and
 |[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)|Create or update the portal page layout and add or remove widgets on the page.|
 |[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)|Create or edit a catalog item, which can be a record producer, an order guide, or a content item.|
 |[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)|Create survey categories and questions, configure their details, and publish the survey to specific users or groups.|
-|[UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md)|Build pages for App Engine Studio-generated workspaces or custom web experiences using Next Experience Components and custom web components.|
-|[Workspace Builder](../../workspace-builder/concept/workspace-builder-landing.md)|Automate processes in a single design environment using Workspace Builder.|
+|[UI Builder](../ui-builder/ui-builder-overview.md)|Build pages for App Engine Studio-generated workspaces or custom web experiences using Next Experience Components and custom web components.|
+|[Workspace Builder](../workspace-builder/workspace-builder-landing.md)|Automate processes in a single design environment using Workspace Builder.|
 
 ## Other tools
 

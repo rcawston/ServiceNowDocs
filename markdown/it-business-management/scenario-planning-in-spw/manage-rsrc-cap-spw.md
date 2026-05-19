@@ -74,7 +74,7 @@ The resource capacity details for the selected combination of primary attributes
 
 </td><td>
 
-Activate a schedule job to automatically generate the capacity details of your resources at required cadence. For more information on how to activate a scheduled job, see [Activate a scheduled job to automatically generate resource capacity](../../portfolio-planning/task/generate-capacity-scheduled-job-pp.md).
+Activate a schedule job to automatically generate the capacity details of your resources at required cadence. For more information on how to activate a scheduled job, see [Activate a scheduled job to automatically generate resource capacity](../portfolio-planning/generate-capacity-scheduled-job-pp.md).
 
 </td></tr></tbody>
 </table>

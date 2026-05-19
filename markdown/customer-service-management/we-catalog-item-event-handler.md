@@ -25,11 +25,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Catalog item component instance](../task/configure-catalog-item-component-on-instance.md)
+[Configure the Catalog item component instance](customer-self-service-and-omnichannel-engagement/configure-catalog-item-component-on-instance.md)
 
-[Embed the Catalog item component instance on the third-party website](../task/embed-catalog-item-component-on-third-party-website.md)
+[Embed the Catalog item component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-catalog-item-component-on-third-party-website.md)
 
 [Component properties for the Catalog item](component-properties-for-catalog-item.md)
 
-[Sample code for the Catalog item component](we-catalog-item-sample-code.md)
+[Sample code for the Catalog item component](customer-self-service-and-omnichannel-engagement/we-catalog-item-sample-code.md)
 

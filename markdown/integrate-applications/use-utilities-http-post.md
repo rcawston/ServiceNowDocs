@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Post component. For more information about these properties, see [Properties of the HTTP components](../reference/properties-http-components.md).
+You can configure the properties for the Post component. For more information about these properties, see [Properties of the HTTP components](properties-http-components.md).
 
 ## Procedure
 
@@ -215,5 +215,5 @@ Optional
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[HTTP](../concept/http.md)
+**Parent Topic:**[HTTP](http.md)
 

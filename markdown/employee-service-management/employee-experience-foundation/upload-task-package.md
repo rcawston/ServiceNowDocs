@@ -53,5 +53,5 @@ To download, edit, and upload the manifest file, refer to this [Knowledge Base](
     Select all three files and click **Compress** instead of compressing the folder itself.
 
 
-**Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](../concept/ec-teams-integration-gcch.md)
+**Parent Topic:**[Integrating Employee Center with Microsoft Teams for GCC-H or DoD](ec-teams-integration-gcch.md)
 

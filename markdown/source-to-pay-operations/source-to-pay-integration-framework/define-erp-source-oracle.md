@@ -66,18 +66,18 @@ By default, the Oracle EBS base system provides 13 service mappings. For other O
 -   Define service mappings manually for each integration service by accessing the Service Mappings related list. You can define element level mapping between Oracle EBS table fields and payload elements.
 -   Map the users and corresponding ERP User IDs by accessing the ERP User Mappings related list.
 
-**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](../concept/configuring-source-to-pay-oracle-ebs-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](configuring-source-to-pay-oracle-ebs-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for Oracle EBS](../concept/erp-source-configuration-oracle.md)
+[ERP source configuration for Oracle EBS](erp-source-configuration-oracle.md)
 
 [Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)
 
 [Load data to ERP user-mapping table for Oracle EBS](load-data-erp-user-mapping-oracle-ebs.md)
 
-[Look up primary data in Oracle EBS](../concept/look-up-primary-data-oracle-ebs.md)
+[Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
 
-[Scheduled jobs to look up primary data in Oracle EBS](../concept/scheduled-jobs-to-primary-data-oracle-ebs.md)
+[Scheduled jobs to look up primary data in Oracle EBS](scheduled-jobs-to-primary-data-oracle-ebs.md)
 

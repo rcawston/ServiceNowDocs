@@ -164,7 +164,7 @@ Trigger fields
 List of fields for a specific table which when changed causes the trigger rule to re-run. For example, with table as incident, you can select fields such as assignment group, priority and state.**Note:**
 
 -   This field is visible only if the **Run Trigger** field is set to **Every time trigger field changes**.
--   You can use the Trigger Rule Table Configs table to configure which fields to be displayed for a specific table. You can access the table from the SOW Admin Center. For more information, see [Manage configurations in Service Operations Workspace for ITSM](../task/manage-admin-console-sow-itsm.md) and [Configure a table for escalation trigger rules](../../../administer/on-call-scheduling/task/configure-tables-for-escalation-trigger-rule.md).
+-   You can use the Trigger Rule Table Configs table to configure which fields to be displayed for a specific table. You can access the table from the SOW Admin Center. For more information, see [Manage configurations in Service Operations Workspace for ITSM](manage-admin-console-sow-itsm.md) and [Configure a table for escalation trigger rules](../on-call-scheduling/configure-tables-for-escalation-trigger-rule.md).
 
 
 </td></tr></tbody>

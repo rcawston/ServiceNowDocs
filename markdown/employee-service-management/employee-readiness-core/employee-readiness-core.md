@@ -28,11 +28,11 @@ The Employee Readiness Core app also provides shared functionality and data stru
 
 Employee Readiness Core is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
--   With the [Employee Readiness Surveys](../../business-continuity/concept/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
--   Before users re-enter workspaces, use the [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
--   With the [Explore Workplace Core](../../workplace-service-delivery/concept/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
--   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../../ppe-inventory-management/concept/ppe-inventory-management.md) application.
--   With the [Contact Tracing](../../contact-tracing/concept/contact-tracing.md) application, evaluate the readiness of your users to return to the workplace by using data such as badge scans, Wi-Fi access logs, and daily contact logs to help identify potential user interactions.
+-   With the [Employee Readiness Surveys](../safe-workplace/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
+-   Before users re-enter workspaces, use the [Employee Health Screening](../safe-workplace/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
+-   With the [Explore Workplace Core](../workplace-core/workplace-service-delivery-overview.md) application, prepare for the return of users by configuring and maintaining clean and socially distanced workspaces for them to use.
+-   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../safe-workplace/ppe-inventory-management.md) application.
+-   With the [Contact Tracing](../contact-tracing/contact-tracing.md) application, evaluate the readiness of your users to return to the workplace by using data such as badge scans, Wi-Fi access logs, and daily contact logs to help identify potential user interactions.
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -95,7 +95,7 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Install Employee Readiness Core](../task/install-employee-readiness-core.md#)**  
+-   **[Install Employee Readiness Core](install-employee-readiness-core.md#)**  
 You can install Employee Readiness Core if you have the admin role.
 -   **[Employee Health and Safety Status](employee-health-safety-status.md)**  
 Use the Employee Health and Safety Status feature to track when people are ready to return to the workplace.
@@ -106,5 +106,5 @@ The Employee Readiness Core application enables your organization to maintain th
 -   **[Employee Readiness Core Approval Portal](employee-readiness-core-approval-portal.md)**  
 The Employee Readiness Core Approval Portal enables you to approve or deny submitted COVID-19 vaccine doses, vaccine exemptions, and health tests.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](../safe-workplace/safe-workplace.md)
 

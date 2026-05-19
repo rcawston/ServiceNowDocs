@@ -67,5 +67,5 @@ Role required: admin
     ![Agent completes the request and asks employees to confirm if they require any other help from it.](../image/wsd-create-rsv-agent-last-step.png)
 
 
-**Parent Topic:**[Making reservations using the Create a reservation agent](../concept/using-reservation-agent.md)
+**Parent Topic:**[Making reservations using the Create a reservation agent](using-reservation-agent.md)
 

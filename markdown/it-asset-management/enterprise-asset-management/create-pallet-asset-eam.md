@@ -241,8 +241,8 @@ Work notes related to the pallet.
 Add enterprise, hardware, base, bundle, or consumable assets to a pallet so that you can track and manage them as a group.
 -   **[Remove assets from a pallet in the Enterprise Asset Workspace](remove-assets-pallet.md)**  
 Remove any enterprise, hardware, base, bundle, or consumable assets that you no longer want to track and manage as part of a pallet.
--   **[Using pallet assets to manage your asset inventory in the Enterprise Asset Workspace](../concept/using-pallets-manage-inventory-eam.md)**  
+-   **[Using pallet assets to manage your asset inventory in the Enterprise Asset Workspace](using-pallets-manage-inventory-eam.md)**  
 You can manage your asset inventory by using pallets and the assets contained within those pallets in your transfer orders, disposal orders, resale orders, and various consumption workflows.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

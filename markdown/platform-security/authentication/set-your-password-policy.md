@@ -21,7 +21,7 @@ Role required: password\_policy\_admin
 
 ## About this task
 
-The Password Policy \[com.glide.password\_policy\] plugin is enabled by default. It goes into effect when a user changes or resets the password. If you customized your instance, through the ValidatePasswordStronger installation exit or your Password Reset credential store \[pwd\_cred\_store\], see [password policy properties](../reference/password-policy-properties.md).
+The Password Policy \[com.glide.password\_policy\] plugin is enabled by default. It goes into effect when a user changes or resets the password. If you customized your instance, through the ValidatePasswordStronger installation exit or your Password Reset credential store \[pwd\_cred\_store\], see [password policy properties](password-policy-properties.md).
 
 ## Procedure
 

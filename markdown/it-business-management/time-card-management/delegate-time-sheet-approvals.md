@@ -52,5 +52,5 @@ The approval delegation has the following effects during the specified period:
 -   On the Time Sheet Portal, the delegate can see your resources under **Delegates** in the **My Time Sheet** list.
 -   Delegates can perform all the functions that you can do for your resources in the Time Sheet Portal: Create and submit their time sheets, approve or reject the submitted time sheets, and recall the processed time sheets.
 
-**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+**Parent Topic:**[Time Sheets](time-sheets.md)
 

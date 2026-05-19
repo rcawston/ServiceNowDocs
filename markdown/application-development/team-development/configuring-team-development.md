@@ -17,7 +17,7 @@ Configure Team Development for your instance.
 
 ## Configuration overview
 
-1.  [Access rights for developers](../reference/r_GrantingAccessRightsToDevelopers.md)
+1.  [Access rights for developers](r_GrantingAccessRightsToDevelopers.md)
 
     To enable parallel development on multiple non-production instances, administrators can set up the Team Development instance hierachy and grant access rights for developers.
 

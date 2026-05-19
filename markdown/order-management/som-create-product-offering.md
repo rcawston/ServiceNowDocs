@@ -91,7 +91,7 @@ Configurable
 
 </td><td>
 
-Option that indicates the product is customizable and can be configured by agents and customers using the CPQ Configurator, if implemented in your organization. For more information, see [Using the CPQ Configurator](../concept/using-servicenowcpq.md).
+Option that indicates the product is customizable and can be configured by agents and customers using the CPQ Configurator, if implemented in your organization. For more information, see [Using the CPQ Configurator](using-servicenowcpq.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Allow multiple configurations
 
 Option that enables agents or customers to create and manage multiple configurations of a child product offering so each configuration can be handled as a separate line item in a configurable product. **Note:** If the product has an associated product specification, this option is enabled automatically and can't be deselected.
 
-For more information on how multiple configurations work in configurable products, see [Multiple configurations](../concept/multiple-child-offering-configurations.md).
+For more information on how multiple configurations work in configurable products, see [Multiple configurations](multiple-child-offering-configurations.md).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Option indicating that the product is for one-time use. **Note:** When the order
 
 -   Move, Add, Change, Disconnect \(MACD\) actions can't be performed on the sold product or product inventory records of transient product offerings.
 -   The **Create contract** option is not applicable to transient product offerings.
-For more information on transient products, see [Defining transient products](../concept/configuring-transient-products.md).
+For more information on transient products, see [Defining transient products](configuring-transient-products.md).
 
 </td></tr><tr><td>
 
@@ -249,7 +249,7 @@ Enable ramps
 
 </td><td>
 
-Option that enables the ramp feature, where sales agents can create ramps for transaction lines, such as quotes, to schedule price and quantity increases over certain time periods. To learn more, see [Price and quantity ramps](../concept/defining-products-with-ramps.md).
+Option that enables the ramp feature, where sales agents can create ramps for transaction lines, such as quotes, to schedule price and quantity increases over certain time periods. To learn more, see [Price and quantity ramps](defining-products-with-ramps.md).
 
 </td></tr><tr><td>
 

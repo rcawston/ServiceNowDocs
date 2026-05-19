@@ -27,9 +27,9 @@ For more information on support levels, see [Application support for domain sepa
 **Related topics**  
 
 
-[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)
+[Use the Asset Contract Overview module](t_UseTheContractMgmtOverviewModule.md)
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
 
 [Contract approval flow](contract-approval-workflow.md)
 

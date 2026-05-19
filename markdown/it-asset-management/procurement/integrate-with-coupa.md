@@ -19,14 +19,14 @@ Integrating Coupa with Software Asset Management helps you create software requi
 
 ## Before you begin
 
--   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](../task/install-proc-int.md).
+-   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](install-proc-int.md).
 -   You must have the Software Asset Management Enterprise license.
 -   Activate the Coupa spoke. For more information, see [Coupa Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/coupa-spoke.md).
--   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](../task/t_ActivateProcurement.md).
+-   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](t_ActivateProcurement.md).
 
 ## Synchronize reference data
 
-Both ServiceNow Procurement and Coupa have theirs own set of tables and reference data types. For a smooth and successful integration, you must synchronize the data you would refer. For more information, see [Reference data synchronization](../reference/ref-data-coupa.md).
+Both ServiceNow Procurement and Coupa have theirs own set of tables and reference data types. For a smooth and successful integration, you must synchronize the data you would refer. For more information, see [Reference data synchronization](ref-data-coupa.md).
 
 **Warning:** If you don't synchronize data, you might encounter a few issues while creating a requisition on Coupa.
 

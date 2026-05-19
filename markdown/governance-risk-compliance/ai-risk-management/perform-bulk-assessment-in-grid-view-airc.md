@@ -104,5 +104,5 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
     Assessments are validated again in this stage. Review the assessment summary before you submit. You can’t make any changes after submission.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

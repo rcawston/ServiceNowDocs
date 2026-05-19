@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [Configuring Recommended Actions](../concept/nba.md).
+For more information, see [Configuring Recommended Actions](nba.md).
 
 ## Procedure
 

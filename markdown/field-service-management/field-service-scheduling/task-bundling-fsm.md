@@ -57,7 +57,7 @@ After a bundle is assigned, a field service agent can accept or reject the tasks
 
 When an agent rejects a subtask in a bundle, the bundle is moved back to the Pending Dispatch state. If the bundle was schedule locked, the bundle is also unlocked to enable reassignment of the bundle.
 
-For more information, see [Accept or reject a work order task](../../planning-and-policy/task/t_AcceptOrRejectAWorkOrderTask.md).
+For more information, see [Accept or reject a work order task](../work-order-management/t_AcceptOrRejectAWorkOrderTask.md).
 
 ## Changing a bundle
 
@@ -83,7 +83,7 @@ Like work order tasks, work order task bundles can be optimized by route, schedu
 
 -   **Dynamic scheduling**
 
-    Dynamic scheduling automatically schedules work order tasks and work order tasks bundles to agents. For more information, see [Dynamic scheduling](dynamic-scheduling.md).
+    Dynamic scheduling automatically schedules work order tasks and work order tasks bundles to agents. For more information, see [Dynamic scheduling](../dynamic-scheduling.md).
 
     To ensure dynamic bundling runs before dynamic scheduling, admins can enable the **Dynamic Bundling before Dynamic Scheduling**\(**com.snc.dynamic.scheduling.bundle\_before\_scheduling**\) property.
 

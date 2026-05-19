@@ -17,13 +17,13 @@ Use the App Engine Studio \(AES\) Application Intake guided setup to step throug
 
 ## Before you begin
 
-Before you can use Application Intake to submit application ideas, you must ensure that the [App Engine Studio application is installed](install-aes.md).
+Before you can use Application Intake to submit application ideas, you must ensure that the [App Engine Studio application is installed](../app-engine-studio/install-aes.md).
 
 Role required: admin
 
 ## About this task
 
-Application Intake guided setup provides a sequence of tasks that help you configure the Application Intake app on the ServiceNow AI Platform. For more information on each task, see [Application Intake configuration tasks](../reference/app-intake-config-tasks.md).
+Application Intake guided setup provides a sequence of tasks that help you configure the Application Intake app on the ServiceNow AI Platform. For more information on each task, see [Application Intake configuration tasks](app-intake-config-tasks.md).
 
 For general information about guided setup, see [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
@@ -45,15 +45,15 @@ For general information about guided setup, see [Guided Setup](https://raw.githu
 
 3.  Select the first **Get Started** button to initiate the Application Intake Guided Setup.
 
-    There are several [Application Intake configuration tasks](../reference/app-intake-config-tasks.md) you must complete.
+    There are several [Application Intake configuration tasks](app-intake-config-tasks.md) you must complete.
 
     1.  [Activate the Apply for Citizen Development catalog item](activate-catalog-item-for-app-intake.md).
-    2.  [Add users to the App Engine Admin group](add-users-to-admin-grp.md).
+    2.  [Add users to the App Engine Admin group](../app-engine-studio/add-users-to-admin-grp.md).
     When you've completed all of the tasks in this category, the Category screen reopens.
 
 4.  Select the next **Get Started** button to begin performing tasks for configuring development environments for your users.
 
-    On your production instance, [Create development environment records](../../pipelines-and-deployments/task/config-pipeline-environments.md) for each development instance that you want to provision users to. This process allows your production instance to connect to your development instances.
+    On your production instance, [Create development environment records](config-pipeline-environments.md) for each development instance that you want to provision users to. This process allows your production instance to connect to your development instances.
 
     **Note:** If these records have already been set up in the Pipelines and Deployments Guided Setup, you can skip this step. When you have completed the tasks in the second category, the Category screen reappears.
 

@@ -49,5 +49,5 @@ The **disable\_live\_agent** parameter displays in the Channel Properties relate
 
 ![Alexa messaging channel record page, with disable_live_agent parameter highlighted.](../image/disable-live-agent-channel-param.png)
 
-**Parent Topic:**[Channels in Conversational Interfaces](../concept/ci-channels-overview.md)
+**Parent Topic:**[Channels in Conversational Interfaces](ci-channels-overview.md)
 

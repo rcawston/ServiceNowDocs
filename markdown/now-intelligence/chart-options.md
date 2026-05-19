@@ -19,15 +19,15 @@ The KPI Details **Chart options** menu enables you to show, hide, or change aspe
 
 -   **Targets**
 
-    Targets are the desired scores for the indicator. Select to show [indicator targets](../concept/kpi-details-targets.md) on the visualization. If no targets are configured on the indicator, this option is not available.
+    Targets are the desired scores for the indicator. Select to show [indicator targets](kpi-details-targets.md) on the visualization. If no targets are configured on the indicator, this option is not available.
 
 -   **Thresholds**
 
-    Thresholds define a normal range of scores for an indicator. Select to show [indicator thresholds](../task/add-mod-pers-tar-thresh-kpi-details.md) on the visualization. If no thresholds are configured on the indicator, this option is not available.
+    Thresholds define a normal range of scores for an indicator. Select to show [indicator thresholds](add-mod-pers-tar-thresh-kpi-details.md) on the visualization. If no thresholds are configured on the indicator, this option is not available.
 
 -   **Forecast**
 
-    Forecasts enable you to forecast future scores based on existing trends. To configure forecasts, see [Performance Analytics scores forecasts](../../performance-analytics/concept/c_ForecastingData.md#). If forecasts are not configured on the indicator, this chart option is not available.
+    Forecasts enable you to forecast future scores based on existing trends. To configure forecasts, see [Performance Analytics scores forecasts](performance-analytics/c_ForecastingData.md#). If forecasts are not configured on the indicator, this chart option is not available.
 
 -   **Trend**
 
@@ -89,7 +89,7 @@ When the Statistics chart option is activated, KPI Details shows the following s
     The amount of variation from the average value among the scores in the selected time range. A low standard deviation means that the scores are close to the average. KPI Details calculates the sample standard deviation, not the population standard deviation.
 
 
-Not all statistics are applicable to every indicator. On the indicator record, you can exclude those statistics that do not apply from appearing in either KPI Details or the Analytics Hub. For example, you can exclude the Change % statistic from appearing for indicators whose unit is percentage. For more information, see [Advanced indicator settings](../../performance-analytics/task/t_CreateAnAutomatedIndicator.md#).
+Not all statistics are applicable to every indicator. On the indicator record, you can exclude those statistics that do not apply from appearing in either KPI Details or the Analytics Hub. For example, you can exclude the Change % statistic from appearing for indicators whose unit is percentage. For more information, see [Advanced indicator settings](performance-analytics/t_CreateAnAutomatedIndicator.md#).
 
 ## Time series options
 
@@ -127,19 +127,19 @@ Select from the following chart visualizations:
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](show-compare-edit-records.md#)
 
-[Select time aggregation in KPI Details](../task/select-time-series-aggregation.md)
+[Select time aggregation in KPI Details](select-time-series-aggregation.md)
 
-[Configure trend for a native Data snapshots indicator in KPI Details](../task/configure-trend-ds-indicator.md)
+[Configure trend for a native Data snapshots indicator in KPI Details](configure-trend-ds-indicator.md)
 
-[Configure display properties for a Data snapshots indicator](../task/configure-display-properties-ds-indicator.md)
+[Configure display properties for a Data snapshots indicator](configure-display-properties-ds-indicator.md)
 
-[Filter indicator scores by breakdown elements in KPI Details](../task/apply-brkdowns-element-kpi-details.md#)
+[Filter indicator scores by breakdown elements in KPI Details](apply-brkdowns-element-kpi-details.md#)
 
-[Filter native Data snapshots indicator scores in KPI Details](../task/filter-data-snapshots-indicator-scores.md)
+[Filter native Data snapshots indicator scores in KPI Details](filter-data-snapshots-indicator-scores.md)
 
-[Access indicator record or scoresheet from KPI Details](../task/access-indicator-record-scoresheet.md)
+[Access indicator record or scoresheet from KPI Details](access-indicator-record-scoresheet.md)
 

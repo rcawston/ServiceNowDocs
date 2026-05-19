@@ -38,7 +38,7 @@ When you create a IP network subnet record, it creates a corresponding configura
     |-----|-----------|
     |Name|User-friendly name for this IP network subnet.|
 
-    To learn about the other fields, see [Inventory number allocation fields](../reference/inventory-number-allocation-fields.md).
+    To learn about the other fields, see [Inventory number allocation fields](inventory-number-allocation-fields.md).
 
 5.  Create the Telecommunications Network Inventory attributes for this IP network subnet form by selecting **Set Inventory Attributes**.
 
@@ -50,7 +50,7 @@ When you create a IP network subnet record, it creates a corresponding configura
     -   In the TNI CI attributes form, by default, the name is fetched from the **Name** field and the **Inventory Category** is set as **IP Address**.
 6.  Add packs to this service by selecting **Add Packs**.
 
-    To learn more about the packs, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+    To learn more about the packs, see [Attribute packs](telecommunication-network-inventory-pack.md).
 
 7.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
 
@@ -67,5 +67,5 @@ When you create a IP network subnet record, it creates a corresponding configura
 
 You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+**Parent Topic:**[Create IP address allocation](ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 

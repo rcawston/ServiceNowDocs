@@ -34,5 +34,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 5.  Select **Update** to set the filter conditions.
 
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](config-t-pool.md)
 

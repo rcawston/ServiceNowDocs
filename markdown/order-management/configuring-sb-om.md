@@ -55,7 +55,7 @@ Admin
 
 </td></tr><tr><td>
 
-[Install Service Exchange Order Management for Providers](../task/install-service-bridge-om-providers.md)
+[Install Service Exchange Order Management for Providers](install-service-bridge-om-providers.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Admin
 
 </td></tr><tr><td>
 
-[Create a product offering for a remote catalog item](../task/create-sb-product-offerings.md)
+[Create a product offering for a remote catalog item](create-sb-product-offerings.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Product catalog admin or manager
 
 </td></tr><tr><td>
 
-[Create a service specification for a remote catalog item](../task/create-sb-service-specs.md)
+[Create a service specification for a remote catalog item](create-sb-service-specs.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Product catalog admin or manager
 
 </td></tr><tr><td>
 
-[Associate consumer criteria to a remote record producer](../task/associate-criteria-remote-catalog.md)
+[Associate consumer criteria to a remote record producer](associate-criteria-remote-catalog.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Review the remote record producer for managing inventory and associate the custo
 
 </td></tr><tr><td>
 
-[Activate the remote record producer](../task/activate-entitlements-sb-consumer.md)
+[Activate the remote record producer](activate-entitlements-sb-consumer.md)
 
 </td><td>
 
@@ -127,7 +127,7 @@ Service Exchange consumer admin
 
 </td></tr><tr><td>
 
-[Retire a remote catalog item](../task/retire-product-offer.md)
+[Retire a remote catalog item](retire-product-offer.md)
 
 </td><td>
 

@@ -32,7 +32,7 @@ Customer Service Management leverages the Asset Management application to create
     -   Consumable
     -   License
     -   Facility
-4.  Fill in the fields for the selected asset type on the [Asset form](../reference/customer-service-asset-form.md), as appropriate.
+4.  Fill in the fields for the selected asset type on the [Asset form](customer-service-asset-form.md), as appropriate.
 
 5.  Click **Submit**.
 

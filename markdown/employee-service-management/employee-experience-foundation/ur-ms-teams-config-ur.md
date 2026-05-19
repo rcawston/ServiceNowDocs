@@ -15,7 +15,7 @@ breadcrumb: [Microsoft Teams Integration for Employee Experience, Configure, Ser
 
 Complete the following procedures to configure the Universal Request integration with Microsoft Teams.
 
--   **[Set up Virtual Agent for Universal Request integration with Microsoft Teams](../task/ur-ms-teams-setup-va.md)**  
+-   **[Set up Virtual Agent for Universal Request integration with Microsoft Teams](ur-ms-teams-setup-va.md)**  
 Publish the default Virtual Agent topics \(conversation flows\) so that they can be used in the Universal Request integration with Microsoft Teams application.
 
 **Parent Topic:**[Configuring Microsoft Teams integration for Employee Experience](c_employee_ex_config.md)

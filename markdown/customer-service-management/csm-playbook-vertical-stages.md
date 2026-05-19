@@ -35,7 +35,7 @@ Active
 
 </td><td>
 
-The Case playbook: vertical stages page variant is not active by default. Enabling the **Active** check box makes the page variant available to the selected audience.The **Active** setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](../task/config-csm-ws-set-record-page-order.md).
+The Case playbook: vertical stages page variant is not active by default. Enabling the **Active** check box makes the page variant available to the selected audience.The **Active** setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Form heading
 The page header includes record information that is displayed in the primary and secondary fields:-   The primary field displays the short description of the record.
 -   The secondary fields display the additional record information such as the priority, state, and contact or consumer details.
 
-You can configure the fields that appear in the page header. For more information, see [Customize the page header for a playbook page](../task/customize-process-form-header.md).
+You can configure the fields that appear in the page header. For more information, see [Customize the page header for a playbook page](customize-process-form-header.md).
 
 </td></tr><tr><td>
 

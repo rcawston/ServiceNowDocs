@@ -79,5 +79,5 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 10. On the OIDC Provider Configuration form, update the **OIDC Metadata URL** to `https://login.botframework.azure.us/v1/.well-known/openidconfiguration` and select **Update**.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](../concept/va-integ-msteams-gcch.md)
+**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](va-integ-msteams-gcch.md)
 

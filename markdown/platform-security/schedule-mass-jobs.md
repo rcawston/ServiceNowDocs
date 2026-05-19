@@ -124,5 +124,5 @@ Job status information when the job is running, has completed, or has errors.
     -   Click **Update** to save any changes you make to the job schedule.
     -   Click **Delete** to delete the scheduled job.
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](field-encryption-key-management.md)
 

@@ -32,5 +32,5 @@ Role required: admin
 3.  Select **Activate**.
 
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Field Service Management](../concept/integration-psm-fsm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Field Service Management](integration-psm-fsm.md)
 

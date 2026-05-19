@@ -15,12 +15,12 @@ breadcrumb: [Administration, Automated Test Framework \(ATF\) reference, Automat
 
 The Test Templates module opens a list of available templates. From this module, you create, view, and edit test templates.
 
-To view or edit a test template, click the row for the template you want. For more information, see [Edit automated test steps template](../task/atf-edit-template.md).
+To view or edit a test template, click the row for the template you want. For more information, see [Edit automated test steps template](atf-edit-template.md).
 
-For information how to add a new template, see [Create an automated test steps template](../task/atf-create-template.md). For information on how to use a template when creating a test, see [Add a predefined list of steps \(template\) to an automated test](../task/atf-use-template.md).
+For information how to add a new template, see [Create an automated test steps template](atf-create-template.md). For information on how to use a template when creating a test, see [Add a predefined list of steps \(template\) to an automated test](atf-use-template.md).
 
--   **[Automated Test Template record](../reference/atf-test-template-record.md)**  
+-   **[Automated Test Template record](atf-test-template-record.md)**  
 The Test Template record contains information about one test template.
 
-**Parent Topic:**[Administration](../reference/atf-test-admin-module.md)
+**Parent Topic:**[Administration](atf-test-admin-module.md)
 

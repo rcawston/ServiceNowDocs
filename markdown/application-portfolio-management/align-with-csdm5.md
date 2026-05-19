@@ -65,5 +65,5 @@ CSDM 5 introduces seven domains, each grouping related entities. Shapes in Enter
 **Related topics**  
 
 
-[Common Service Data Model \(CSDM\) shapes](../../reference/eaw-reference/eaw-modeling-csdm-shapes.md)
+[Common Service Data Model \(CSDM\) shapes](eaw-modeling-csdm-shapes.md)
 

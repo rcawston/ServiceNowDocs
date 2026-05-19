@@ -54,9 +54,9 @@ AI search provides better search results based on the following.
 -   Auto-correct typos: Incorrect terminologies or words are automatically corrected while entering the search key terms.
 -   Synonym handling: The search engine looks for synonyms from the search key terms and shows the search results accordingly. For example, type 'Building A', AI searches for Building A as well as all floors that belong to Building A.
 
-**Parent Topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Parent Topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
-**Previous topic:**[Using Workplace Service Delivery for Mobile](../concept/using-wsd-mobile.md)
+**Previous topic:**[Using Workplace Service Delivery for Mobile](using-wsd-mobile.md)
 
 **Next topic:**[Make a reservation using the Now Mobile app](make-a-reservation-on-mobile.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_apm.apm\_analyst
 
 8.  On the Create New TRM Product page, fill in the form fields.
 
-    For field information, see [Create new TRM product form](../../reference/eaw-reference/eaw-new-trm-prod-form.md).
+    For field information, see [Create new TRM product form](eaw-new-trm-prod-form.md).
 
 9.  Select **Save**.
 
@@ -44,14 +44,14 @@ Role required: sn\_apm.apm\_analyst
 
 The TRM product is added to the business application.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Exploring the application portfolio](../../concept/eaw-concept/eaw-app-portfolio.md)
+[Exploring the application portfolio](eaw-app-portfolio.md)
 
-[Manage the Technology Reference Model in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-managing-the-technology-portfolio.md)
+[Manage the Technology Reference Model in Enterprise Architecture Workspace](eaw-managing-the-technology-portfolio.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

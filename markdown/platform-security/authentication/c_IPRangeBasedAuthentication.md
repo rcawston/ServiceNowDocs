@@ -17,7 +17,7 @@ One way to secure a web-based application is to restrict access based on the IP 
 
 You can block access to a specific address or range of addresses that you suspect belong to malicious individuals. The instance allows you to control access by IP address.
 
-**Note:** Use the Adaptive Authentication \(AA\) pre-authentication context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](../../../integrate/authentication/concept/adaptive-authentication.md).
+**Note:** Use the Adaptive Authentication \(AA\) pre-authentication context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](adaptive-authentication.md).
 
 Notes and Limitations:
 
@@ -36,5 +36,5 @@ Notes and Limitations:
 
 **Note:** To learn more about the **com.snc.ipauthenticator** and **glide.ip.authenticate.strict** properties, which restrict instance access to specific IP ranges, see the following topics in Instance Security Hardening Settings:
 
-[Restrict access to specific IP ranges plugin](../../security-center/reference/sc-restrict-access-to-specific-ip-ranges-plugin.md)
+[Restrict access to specific IP ranges plugin](../instance-security-hardening-settings/sc-restrict-access-to-specific-ip-ranges-plugin.md)
 

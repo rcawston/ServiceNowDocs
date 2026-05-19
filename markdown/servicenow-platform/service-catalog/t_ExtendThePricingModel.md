@@ -26,5 +26,5 @@ Role required: admin
 2.  Edit the CatalogPriceCalculator script to customize the item price and the CatalogRecurringPriceCalculator script to customize the recurring price.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 

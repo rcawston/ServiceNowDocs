@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [Group Action Framework](../concept/group-action-framework.md) for more information about GAF's role in intelligent experiences and how it works.
+GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [Group Action Framework](group-action-framework.md) for more information about GAF's role in intelligent experiences and how it works.
 
 Now Assist in AI Search is the foundation for GAF's optimized prediction feature. AI Search is the backup search for certain workflows, and if it is not enabled and ready, GAF will not return any results.
 

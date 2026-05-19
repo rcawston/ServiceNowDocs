@@ -27,7 +27,7 @@ The following items are installed with Quote Management for Business Locationspe
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Roles and responsibilities](../concept/personas-roles-and-tables-post-integration-qm.md).
+For more information, see [Roles and responsibilities](personas-roles-and-tables-post-integration-qm.md).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ For more information, see [Roles and responsibilities](../concept/personas-roles
 **Related topics**  
 
 
-[Quote management for business organization](../concept/quote-management-for-business-location.md)
+[Quote management for business organization](quote-management-for-business-location.md)
 

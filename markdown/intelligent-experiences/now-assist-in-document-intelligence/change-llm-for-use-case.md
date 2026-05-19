@@ -25,7 +25,7 @@ Choose the language models for a Now Assist in Document Intelligenceuse case.
 
 Language models are used to detect information in documents and make predictions for information extraction.
 
-Third-party large language model \(LLM\) providers are available for Now Assist skills and AI agents in addition to Now LLM Service. For more information on LLMs in Now Assist, see [Manage AI models](../../now-assist-admin/task/manage-large-language-models.md).
+Third-party large language model \(LLM\) providers are available for Now Assist skills and AI agents in addition to Now LLM Service. For more information on LLMs in Now Assist, see [Manage AI models](../manage-large-language-models.md).
 
 For each Now Assist in Document Intelligence use case, only one LLM can be enabled at a time. Now Assist employs the selected LLM when processing documents for the use case.
 
@@ -47,7 +47,7 @@ For image files that need optical character recognition \(OCR\) to detect the te
 
 7.  Select the LLM that will make predictions for the documents processed with this use case.
 
-    For more information, see [Large language models used by Now Assist in Document Intelligence](../reference/llms-now-assist-document-intelligence.md).
+    For more information, see [Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md).
 
 8.  Turn on image mode to process images more efficiently.
 
@@ -61,7 +61,7 @@ For image files that need optical character recognition \(OCR\) to detect the te
 
     If the files contain multiple languages, select the primary language.
 
-    For more information, see [Languages supported by Now Assist in Document Intelligence](../reference/languages-supported-now-assist-document-intelligence.md).
+    For more information, see [Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md).
 
 10. Select **Save**.
 
@@ -70,7 +70,7 @@ For image files that need optical character recognition \(OCR\) to detect the te
 
 The selected languages areenabled for the use case.
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md)
 
 **Related topics**  
 

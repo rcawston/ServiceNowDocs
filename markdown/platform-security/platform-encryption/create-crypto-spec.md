@@ -31,7 +31,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 4.  Complete the Algorithm Definition form.
 
-    See [Cryptographic specification overview](../concept/cryptographic-purpose.md) for details.
+    See [Cryptographic specification overview](cryptographic-purpose.md) for details.
 
     ![Definition form for the key algorithm.](../image/algorithm-definition.png)
 
@@ -59,7 +59,7 @@ Crypto purpose
 
 </td><td>
 
-Select the purpose of this module. For example, you might use it for data encryption, signature generation, or key wrapping. The available algorithms adjust based on the selected crypto purpose. See [Cryptographic specification overview](../concept/cryptographic-purpose.md) for details.
+Select the purpose of this module. For example, you might use it for data encryption, signature generation, or key wrapping. The available algorithms adjust based on the selected crypto purpose. See [Cryptographic specification overview](cryptographic-purpose.md) for details.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Algorithm
 
 </td><td>
 
-Type of algorithm used to accomplish the crypto purpose. The algorithm also controls the key origin. Adjusts automatically based on the selected crypto purpose. [Cryptographic specification overview](../concept/cryptographic-purpose.md) for details.
+Type of algorithm used to accomplish the crypto purpose. The algorithm also controls the key origin. Adjusts automatically based on the selected crypto purpose. [Cryptographic specification overview](cryptographic-purpose.md) for details.
 
 </td></tr><tr><td>
 
@@ -126,8 +126,8 @@ Perform one of the following operations:
 -   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
 -   Select **Next** to create a cryptographic key. See one of the following tasks for key generation:
     -   [Generate a ServiceNow cryptographic key](generate_sn_key.md).
-    -   [Configure properties for customer-supplied keys](../../encryption/concept/customer-supplied-keys.md).
-    -   [Import the wrapping / unwrapping key pair](../concept/import-key-webservice-1.md#).
+    -   [Configure properties for customer-supplied keys](../customer-supplied-keys.md).
+    -   [Import the wrapping / unwrapping key pair](import-key-webservice-1.md#).
 
 **Parent Topic:**[Create a cryptographic module](create-cryptographic-module.md)
 

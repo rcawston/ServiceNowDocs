@@ -25,7 +25,7 @@ Role required: `admin` and `sn_bom_credit_card.admin`.
 
 2.  Search for the **Event Inquiry** application.
 
-    The Event Inquiry application stores all questions and automates the intake process, which helps gather detailed information for specific requests. For more information, see [About dispute intake](../concept/dispute-intake-overview.md). Within this application, you will find two tables:
+    The Event Inquiry application stores all questions and automates the intake process, which helps gather detailed information for specific requests. For more information, see [About dispute intake](dispute-intake-overview.md). Within this application, you will find two tables:
 
     -   Intake Form \[sn\_evnt\_inq\_qtn\]
     -   Intake Form Label \[sn\_evnt\_inq\_question\]
@@ -46,5 +46,5 @@ Role required: `admin` and `sn_bom_credit_card.admin`.
 7.  Complete the required fields for the new label and select **Submit**.
 
 
-**Parent Topic:**[Set up Dispute Management](../../fso-deposit-operations/concept/setting-up-disputes-management.md)
+**Parent Topic:**[Set up Dispute Management](setting-up-disputes-management.md)
 

@@ -82,5 +82,5 @@ The Google Cloud SQL provides actions to automate  tasks when events occurs in y
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Google Cloud SQL spoke](../task/setup-gcloud-sql.md#).
+For information about setting up the spoke, see [Set up the Google Cloud SQL spoke](setup-gcloud-sql.md#).
 

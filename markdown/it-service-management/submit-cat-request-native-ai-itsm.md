@@ -23,7 +23,7 @@ Role required: none
 
 2.  Select **Browse catalogs**.
 
-    The commonly requested catalog items are displayed. For information about catalog items available in the base system, see [Catalog items installed with Simplified IT Service Management](../reference/catalog-items-base-system.md).
+    The commonly requested catalog items are displayed. For information about catalog items available in the base system, see [Catalog items installed with Simplified IT Service Management](catalog-items-base-system.md).
 
 3.  Select a catalog item and specify the required details.
 
@@ -32,5 +32,5 @@ Role required: none
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Employee experience in Simplified IT Service Management](../concept/employee-experience-native-ai-itsm.md)
+**Parent Topic:**[Employee experience in Simplified IT Service Management](employee-experience-native-ai-itsm.md)
 

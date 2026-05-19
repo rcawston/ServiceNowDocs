@@ -30,5 +30,5 @@ Role required: sam
     You can view different types of software counter results.
 
 
-**Parent Topic:**[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
 

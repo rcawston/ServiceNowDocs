@@ -156,5 +156,5 @@ Worker Management
 Get Worker
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](../task/ent-service-mgmt-int-framework-reference.md)
+</table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](ent-service-mgmt-int-framework-reference.md)
 

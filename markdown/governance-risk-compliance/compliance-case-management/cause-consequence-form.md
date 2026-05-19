@@ -91,5 +91,5 @@ Observations
 Record overall observations, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add a cause and consequence to a compliance case](../task/add-causes-consequences-to-compliance-case.md)
+</table>**Parent Topic:**[Add a cause and consequence to a compliance case](add-causes-consequences-to-compliance-case.md)
 

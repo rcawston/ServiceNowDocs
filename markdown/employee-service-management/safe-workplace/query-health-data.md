@@ -97,7 +97,7 @@ requirements\_status
 
 </td><td>
 
-Whether the visitor or employee has completed all requirements to return to the workplace. For more information, see [Create health and safety user records](create-readiness-user.md) and [Create a health and safety requirement](create-readiness-requirement.md).-   Cleared: The visitor or employee has completed all requirements to return to the workplace.
+Whether the visitor or employee has completed all requirements to return to the workplace. For more information, see [Create health and safety user records](../employee-readiness-core/create-readiness-user.md) and [Create a health and safety requirement](../employee-readiness-core/create-readiness-requirement.md).-   Cleared: The visitor or employee has completed all requirements to return to the workplace.
 -   Not Cleared: The visitor or employee has not completed all requirements to return to the workplace.
 
  Data type: String

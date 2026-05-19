@@ -34,7 +34,7 @@ Use the License usage view to:
 -   view and add new removal candidates.
 -   view and export reports.
 -   generate a report on your ELP data.
--   view publisher cards specific to the software products that you published as part of the phase-wise implementation of Software Asset Management. For more information, see [Publish a specific set of your software products](../task/add-published-products.md).
+-   view publisher cards specific to the software products that you published as part of the phase-wise implementation of Software Asset Management. For more information, see [Publish a specific set of your software products](add-published-products.md).
 
     **Note:** The filter for published status is automatically applied.
 
@@ -76,7 +76,7 @@ View the following related lists for a publisher and its products.
 -   License Metric Results: A license metric result record is generated for each license metric associated with a software model.
 -   Removal candidates: list of removal candidates.
 -   Entitlements: entitlements associated to the publisher.
--   Product install analysis: the license consumption analysis for products of a publisher. Open a record to view a hierarchical node map that illustrates how the installations of a specific product are being licensed. Product install analysis is available at the publisher level and not at the individual product level. For more details, see [View license usage for your installations](../task/view-install-usage.md).
+-   Product install analysis: the license consumption analysis for products of a publisher. Open a record to view a hierarchical node map that illustrates how the installations of a specific product are being licensed. Product install analysis is available at the publisher level and not at the individual product level. For more details, see [View license usage for your installations](view-install-usage.md).
 
 To prevent clutter in the Publisher details page, software models results are shown only for software models that have entitlements. Software models without any entitlements are shown at the product level in the product results. To view software model results for all software models with or without entitlements, you can set the property, **com.snc.samp.unlicensed\_smr\_creation**, to true. By default, this property is set to false.
 
@@ -90,7 +90,7 @@ The navigation view shows license compliance details of products that were publi
 
 In the navigation view, a non-consumption icon is displayed next to a software model that has not utilized any licenses. Such software models are always positioned at the bottom of the tree and no software model results are shown for that software model.
 
-A brief summary of metrics appears along with related lists pertaining to that publisher. For details on the metrics, refer to the Publisher metrics table. For details on the related lists, refer to [License usage publisher fields in workspace](../reference/workbench-publisherfields-workspace.md).
+A brief summary of metrics appears along with related lists pertaining to that publisher. For details on the metrics, refer to the Publisher metrics table. For details on the related lists, refer to [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
 The navigation tree enables you to perform the following actions:
 
@@ -229,7 +229,7 @@ Results of the latest reconciliation run are shown in the License usage view. Fo
 
 View a list of all removal candidates in this tab. Removal candidates are used to reclaim software installations that aren’t being used.
 
-You can also create removal candidates. For more details, see [Create a software removal candidate in workspace](../task/add-sw-removal-workspace.md).
+You can also create removal candidates. For more details, see [Create a software removal candidate in workspace](add-sw-removal-workspace.md).
 
 ## Reports tab
 
@@ -237,17 +237,17 @@ You can create, view, and run reports from this tab. All the following base syst
 
 -   [Software product lifecycle report](software-models-and-entitlements.md)
 -   [Software license compliance position](sam-license-position-report.md)
--   [Azure BYOL realized savings report](../reference/azure-byol-realized-savings-report.md)
+-   [Azure BYOL realized savings report](azure-byol-realized-savings-report.md)
 -   [Software models with deactivated discovery maps](sam-content-updates.md)
--   [Oracle DB Server Deployments per Agreement report](../reference/oracle-server-agreement.md)
--   [Oracle Infrastructure report](../reference/oracle-infrastructure-report.md)
--   [Microsoft Windows and SQL Server infrastructure details reports](../reference/azure-byol-realized-savings-report.md)
--   [SaaS detection report](../reference/shadow-saas-analytics.md)
+-   [Oracle DB Server Deployments per Agreement report](oracle-server-agreement.md)
+-   [Oracle Infrastructure report](oracle-infrastructure-report.md)
+-   [Microsoft Windows and SQL Server infrastructure details reports](azure-byol-realized-savings-report.md)
+-   [SaaS detection report](shadow-saas-analytics.md)
 -   [Microsoft Server Infrastructure and License Consumption report](device-license-consumption-report.md)
 
-To create and manage reports, see [Create and manage reports in workspace](../task/create-new-report-workspace.md).
+To create and manage reports, see [Create and manage reports in workspace](create-new-report-workspace.md).
 
 ## ELP Grouping tab
 
-Generate a report that groups your effective license position \(ELP\) data on existing reconciliation groups without needing to re-run the reconciliation process. For details on generating a ELP report, see [Generate an Effective License Position \(ELP\) report](../task/generate-elp-report-sam.md).
+Generate a report that groups your effective license position \(ELP\) data on existing reconciliation groups without needing to re-run the reconciliation process. For details on generating a ELP report, see [Generate an Effective License Position \(ELP\) report](generate-elp-report-sam.md).
 

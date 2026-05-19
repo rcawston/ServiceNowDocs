@@ -81,18 +81,18 @@ To share documents with other users and groups you must have write access to the
 
 |Sharing permissions|User permissions required|Role required|
 |-------------------|-------------------------|-------------|
-|[User Permissions](../task/share-docs-users.md)|All users even if they don’t have a role assigned|No role required. All users can share documents with other user|
-|[Group Permissions](../task/share-docs-groups.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_group\_read|
-|[Role Permissions](../task/share-docs-roles.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_role\_read|
-|[User Criteria Permissions](../task/share-docs-user-criteria.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_criteria\_read|
+|[User Permissions](share-docs-users.md)|All users even if they don’t have a role assigned|No role required. All users can share documents with other user|
+|[Group Permissions](share-docs-groups.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_group\_read|
+|[Role Permissions](share-docs-roles.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_role\_read|
+|[User Criteria Permissions](share-docs-user-criteria.md)|Writers and Owners can assign access based on their access permissions|dm\_user\_criteria\_read|
 
--   **[Share documents with users](../task/share-docs-users.md)**  
+-   **[Share documents with users](share-docs-users.md)**  
 Assign Reader, Writer or Owner permissions to users to enable them to read, download, update, or delete documents.
--   **[Share documents with groups](../task/share-docs-groups.md)**  
+-   **[Share documents with groups](share-docs-groups.md)**  
 As a Writer or Owner, assign access to user groups based on your access permissions.
--   **[Share documents with roles](../task/share-docs-roles.md)**  
+-   **[Share documents with roles](share-docs-roles.md)**  
 As a Writer or Owner, assign access and permissions based on user roles.
--   **[Share documents with user criteria](../task/share-docs-user-criteria.md)**  
+-   **[Share documents with user criteria](share-docs-user-criteria.md)**  
 As a Writer or Owner assign access to a document based on the user criteria permissions.
 
 **Parent Topic:**[Document Management](doc-management-landing.md)

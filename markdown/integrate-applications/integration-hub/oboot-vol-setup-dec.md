@@ -18,7 +18,7 @@ Integrate the ServiceNow instance and Oracle Boot Volume account by using the OC
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Activate and set up the [Oracle Cloud IAM Spoke](../concept/oracle-iam.md).
+-   Activate and set up the [Oracle Cloud IAM Spoke](oracle-iam.md).
 -   Activate the Oracle Boot Volume spoke.
 -   Role required: admin.
 

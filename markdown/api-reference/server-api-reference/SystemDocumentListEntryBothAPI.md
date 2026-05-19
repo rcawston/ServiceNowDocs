@@ -19,14 +19,14 @@ This API requires the Document Management plugin \(com.snc.platform\_document\_m
 
 Before using the methods in this API, you must add a document with its versions, and create a document list.
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
--   [SystemDocumentVersion](../../SystemDocumentVersion/concept/SystemDocumentVersionBothAPI.md#) – Define a document version.
--   [DocumentVersionService](../../DocumentVersionService/concept/DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
--   [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#) – Define a document list.
--   [DocumentListService](../../DocumentListService/concept/DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
+-   [SystemDocument](SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocumentVersion](SystemDocumentVersionBothAPI.md#) – Define a document version.
+-   [DocumentVersionService](DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
+-   [SystemDocumentList](SystemDocumentListBothAPI.md#) – Define a document list.
+-   [DocumentListService](DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SystemDocumentListEntry - SystemDocumentListEntry\(String listID\)
 
@@ -58,7 +58,7 @@ Sets the Description field of a document list entry record.
 |----|-----------|
 |None| |
 
-The following example shows how to add a description to the document list entry provided using the constructor. See also [DocumentListEntryService](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#) API.
+The following example shows how to add a description to the document list entry provided using the constructor. See also [DocumentListEntryService](DocumentListEntryServiceBothAPI.md#) API.
 
 ```
 var docListEntry = new sn_doc_services.SystemDocumentListEntry('21afddea2460fc10f877a6fed1c2b0dd');
@@ -85,13 +85,13 @@ Specifies the document template to add to a document list.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
 The document record specified must have a version. Use the following APIs to define and add a document version:
 
--   [SystemDocumentVersion](../../SystemDocumentVersion/concept/SystemDocumentVersionBothAPI.md#) – Define a document version.
--   [DocumentVersionService](../../DocumentVersionService/concept/DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
+-   [SystemDocumentVersion](SystemDocumentVersionBothAPI.md#) – Define a document version.
+-   [DocumentVersionService](DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -101,7 +101,7 @@ The document record specified must have a version. Use the following APIs to def
 |----|-----------|
 |None| |
 
-The following example shows how to add a document template as a document list entry. See also [DocumentListEntryService API](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#).
+The following example shows how to add a document template as a document list entry. See also [DocumentListEntryService API](DocumentListEntryServiceBothAPI.md#).
 
 ```
 var docListEntry = new sn_doc_services.SystemDocumentListEntry('21afddea2460fc10f877a6fed1c2b0dd');
@@ -130,8 +130,8 @@ Specifies the document list in which to add a document.
 
 Use the following APIs to define and create a document list:
 
--   [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#) – Define a document list.
--   [DocumentListService](../../DocumentListService/concept/DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
+-   [SystemDocumentList](SystemDocumentListBothAPI.md#) – Define a document list.
+-   [DocumentListService](DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -141,7 +141,7 @@ Use the following APIs to define and create a document list:
 |----|-----------|
 |None| |
 
-The following example shows how to set the document list in which to add a document. See also [DocumentListEntryService API](../../DocumentListEntryService/concept/DocumentListEntryServiceBothAPI.md#).
+The following example shows how to set the document list in which to add a document. See also [DocumentListEntryService API](DocumentListEntryServiceBothAPI.md#).
 
 ```
 var docListEntry = new sn_doc_services.SystemDocumentListEntry();

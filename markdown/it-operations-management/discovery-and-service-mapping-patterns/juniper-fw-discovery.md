@@ -121,5 +121,5 @@ These relationships are created to support Juniper network firewall discovery:
 |Contains::Contained by|Firewall Security Policy \[cmdb\_ci\_firewall\_security\_policy\]|
 |Firewall Security Policy \[cmdb\_ci\_firewall\_security\_policy\]|Extends from|CMDB CI \[cmdb\_ci\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

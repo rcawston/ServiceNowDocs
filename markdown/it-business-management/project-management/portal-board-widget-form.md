@@ -100,7 +100,7 @@ Include by default
 Check box to show an active investment widget by default on:-   new boards
 -   existing boards that do not have widget selection configured
 
-The check box is selected by default.For more information on configuring widgets on an investment board, see [Widget Configuration](../task/use-investment-portal.md#image_cwc_2xh_ycb).
+The check box is selected by default.For more information on configuring widgets on an investment board, see [Widget Configuration](../ppm-collaboration/use-investment-portal.md#image_cwc_2xh_ycb).
 
 </td></tr><tr><td>
 
@@ -166,5 +166,5 @@ function totalProjectCost()
 **Related topics**  
 
 
-[Configure your investment metrics as widgets](../task/configure-investment-metrics.md)
+[Configure your investment metrics as widgets](../ppm-collaboration/configure-investment-metrics.md)
 

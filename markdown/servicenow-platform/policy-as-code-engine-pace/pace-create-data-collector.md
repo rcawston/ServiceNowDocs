@@ -30,7 +30,7 @@ Role required: sn\_pace.code\_editor
     |Field|Description|
     |-----|-----------|
     |Name|Name of the data collector.|
-    |Category|Category of the data collector. See [Managing categories in PaCE](../concept/pace-categories.md) for details.|
+    |Category|Category of the data collector. See [Managing categories in PaCE](pace-categories.md) for details.|
     |Description|Additional details of the data collector.|
     |Created|Date and time when the data collector was created.|
     |Created by|Name of the user who created the data collector.|

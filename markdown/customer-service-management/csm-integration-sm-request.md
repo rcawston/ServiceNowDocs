@@ -37,11 +37,11 @@ The following roles enable customer service agents to view and create requests f
 -   sn\_request\_read
 -   sn\_request\_write
 
-For more information, see [Assign CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#).
+For more information, see [Assign CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#).
 
 ## Enabling the Create Request UI action for case types
 
-To enable the **Create Request** UI action for a case type table that extends the Case \[sn\_customerservice\_case\] table, add an entry for the case type to the Request Parent Mapping \[request\_parent\_mapping\] table. For more information, see [Enable the Create Request UI action for case types](../task/enable-create-request-case-type.md).
+To enable the **Create Request** UI action for a case type table that extends the Case \[sn\_customerservice\_case\] table, add an entry for the case type to the Request Parent Mapping \[request\_parent\_mapping\] table. For more information, see [Enable the Create Request UI action for case types](enable-create-request-case-type.md).
 
 ## Synchronizing data between the request and the case
 
@@ -62,9 +62,9 @@ If the case is the parent of the request, notifications to the requester are sup
 **Related topics**  
 
 
-[Create a request on behalf of a customer or consumer](../task/agent-create-request-for-customer.md)
+[Create a request on behalf of a customer or consumer](agent-create-request-for-customer.md)
 
 [Create a request record from a case](csm-item-agent-tasks.md#)
 
-[Create a request from the Customer and Consumer Service Portals](../task/create-request-from-csp.md)
+[Create a request from the Customer and Consumer Service Portals](create-request-from-csp.md)
 

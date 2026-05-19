@@ -36,14 +36,14 @@ Role required: hermes\_admin or sn\_kmf.cryptographic\_manager
 
 The certificates are revoked and can no longer be used in secure connections to Hermes. You can view the revocation date and the reason it was revoked in the Certificates \[sys\_kmf\_certificate\] table.
 
-**Parent Topic:**[Configuring Hermes Messaging Service](../concept/configuring-hermes-messaging-service.md)
+**Parent Topic:**[Configuring Hermes Messaging Service](configuring-hermes-messaging-service.md)
 
 **Related topics**  
 
 
-[Activating the Hermes Messaging Service](../concept/hermes-messaging-service-activation.md)
+[Activating the Hermes Messaging Service](hermes-messaging-service-activation.md)
 
 [Set up a secure connection to the Hermes Messaging Service](set-up-secure-connection-to-hermes.md)
 
-[Restricting access to Hermes](../concept/restricting-access-hermes-topics.md)
+[Restricting access to Hermes](restricting-access-hermes-topics.md)
 

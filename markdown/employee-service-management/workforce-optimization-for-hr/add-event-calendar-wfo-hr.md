@@ -81,5 +81,5 @@ In the **Attendees** field, start typing the name of each of the attendees for t
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

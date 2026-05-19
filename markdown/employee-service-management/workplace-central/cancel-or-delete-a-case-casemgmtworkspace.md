@@ -65,7 +65,7 @@ Role required: admin \(to delete a case\) and sn\_wsd\_case.manager \(to cancel 
         The workplace case record, the associated SLAs and more are deleted from the application.
 
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -80,5 +80,5 @@ Role required: admin \(to delete a case\) and sn\_wsd\_case.manager \(to cancel 
 
 [Print a workplace case](print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 

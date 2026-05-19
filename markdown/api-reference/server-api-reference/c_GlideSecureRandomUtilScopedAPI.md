@@ -17,7 +17,7 @@ The GlideSecureRandomUtil API provides methods for generating integers, long val
 
 There is no constructor for this class. Methods are accessed through the static object GlideSecureRandomUtil. The GlideSecureRandomUtil class is available in both global and scoped applications.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideSecureRandomUtil - getSecureRandomInt\(\)
 

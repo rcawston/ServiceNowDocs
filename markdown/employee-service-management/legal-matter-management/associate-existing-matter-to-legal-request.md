@@ -71,5 +71,5 @@ The state of the legal request is Work in progress and the document is Legal rev
 
 The selected legal matter is associated with the legal request and shows up in the list in the **Legal Matters** tab.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

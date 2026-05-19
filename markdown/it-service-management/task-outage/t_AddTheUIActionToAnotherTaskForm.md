@@ -51,5 +51,5 @@ Role required: admin
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Task Outage](../concept/task-outage.md)
+**Parent Topic:**[Task Outage](task-outage.md)
 

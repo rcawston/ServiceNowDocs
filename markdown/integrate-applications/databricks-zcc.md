@@ -53,5 +53,5 @@ The following table lists supported Databricks data types and the default matchi
 **Related topics**  
 
 
-[Create a Databricks connection](../task/create-databricks-connection-zcc.md)
+[Create a Databricks connection](create-databricks-connection-zcc.md)
 

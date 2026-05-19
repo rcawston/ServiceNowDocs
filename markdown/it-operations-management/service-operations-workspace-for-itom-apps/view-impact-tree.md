@@ -40,7 +40,7 @@ You can also investigate a wider view of the service topology on the service map
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../event-management/add-impact-cal-services.md).
 
 3.  Select a service tile.
 
@@ -83,5 +83,5 @@ You can also investigate a wider view of the service topology on the service map
     ![Alert details page.](../image/sow-servicemap-alert-details-page.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

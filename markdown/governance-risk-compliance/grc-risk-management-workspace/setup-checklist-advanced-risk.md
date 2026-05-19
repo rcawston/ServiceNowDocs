@@ -39,7 +39,7 @@ Checklist
 
 </td><td>
 
-Risk managers can create hierarchies that include different types of risk \(operational risk, IT risk, or strategic risk\). Once the underlying risks are assessed, the risk scores are automatically rolled up across the risk statement hierarchy, providing better tactical and strategic decision-making. For details, [Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md).
+Risk managers can create hierarchies that include different types of risk \(operational risk, IT risk, or strategic risk\). Once the underlying risks are assessed, the risk scores are automatically rolled up across the risk statement hierarchy, providing better tactical and strategic decision-making. For details, [Risk hierarchy and scoring](risk-hierarchy-scoring.md).
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Risk managers must define the risk statement hierarchy and associate child risk 
 
 </td><td>
 
-Risk rollups are critical to display the accurate risk ratings. Risk administrators can define the rollups and hierarchy. For details, see [Risk score rollup in Advanced Risk Assessment](../concept/risk-rollup-ara-concept.md)
+Risk rollups are critical to display the accurate risk ratings. Risk administrators can define the rollups and hierarchy. For details, see [Risk score rollup in Advanced Risk Assessment](risk-rollup-ara-concept.md)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Risk rollups are critical to display the accurate risk ratings. Risk administrat
 
 </td><td>
 
-Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization. Risk administrators can integrate risk events with other applications to facilitate reporting of risk events. For details, see [Manage risk events](../reference/manage-risk-events.md#)
+Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization. Risk administrators can integrate risk events with other applications to facilitate reporting of risk events. For details, see [Manage risk events](manage-risk-events.md#)
 
 </td></tr><tr><td>
 
@@ -71,9 +71,9 @@ Risk events are potential or actual financial and non-financial losses, near mis
 
 </td><td>
 
-With GRC Advanced Risk Assessment, create an integrated risk platform. Risk administrators can configure detailed risk assessment options. For details, see [Advanced Risk Assessment](../concept/advanced-risk-assessment.md)
+With GRC Advanced Risk Assessment, create an integrated risk platform. Risk administrators can configure detailed risk assessment options. For details, see [Advanced Risk Assessment](advanced-risk-assessment.md)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Risk Management implementation](../concept/risk-impl-overview.md)
+**Parent Topic:**[Risk Management implementation](risk-impl-overview.md)
 

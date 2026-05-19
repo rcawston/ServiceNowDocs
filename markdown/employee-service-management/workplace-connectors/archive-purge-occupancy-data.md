@@ -52,9 +52,9 @@ Role required: admin
     The Space occupancy data table records are deleted permanently.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](setup-occupancy-connectors.md)
 
 **Previous topic:**[Retrieving Space Occupancy Data](space-occupancy-data.md)
 
-**Next topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Next topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 

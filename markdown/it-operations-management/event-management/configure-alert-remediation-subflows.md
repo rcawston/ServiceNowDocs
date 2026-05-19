@@ -43,7 +43,7 @@ Role required: evt\_mgmt\_admin or flow\_designer
 1.  Access remediation actions in one of the following ways:
 
     -   Quick actions in an alert, as described in [Apply a quick response in an alert](apply-quick-response-in-alert.md).
-    -   The Playbook tab in Service Operations Workspace, as described in [Run actions to resolve alert issues](../../service-operations-workspace-itom/task/run-alert-remediation.md) .
+    -   The Playbook tab in Service Operations Workspace, as described in [Run actions to resolve alert issues](../service-operations-workspace-for-itom-apps/run-alert-remediation.md) .
 2.  Configure additional input in the alert's **Additional Information** field, using this format:
 
     `{"remediation_action_resource":"<mandatory input>"}`
@@ -74,7 +74,7 @@ Role required: evt\_mgmt\_admin or flow\_designer
 
 After executing an alert action, the results are noted in the **Work Notes** field of the alert.
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)
 
 **Related topics**  
 

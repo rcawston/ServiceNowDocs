@@ -62,5 +62,5 @@ Role required:
 4.  In Action 18, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for User Deleting Bash History - Cloud](../concept/playbook-deleting-bash-history.md)
+**Parent Topic:**[Playbook for User Deleting Bash History - Cloud](playbook-deleting-bash-history.md)
 

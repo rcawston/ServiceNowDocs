@@ -29,7 +29,7 @@ Library pages like this one include a navigation pane that provides access to th
 
 The following example shows the Dashboards library that includes all the common and additional elements that are visible to the users with sys\_admin and dashboard\_admin roles only. See [Dashboard elements for users with admin roles](dashboards-for-admin-users.md#table_h44_pqg_5fc) table for descriptions.
 
-For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](../../performance-analytics/concept/analytics-center.md#table_a12_23s_k3c).
+For information on role-based access for the left navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#table_a12_23s_k3c).
 
 ![Platform Analytics Dashboards library for analytics admins.](../../par-for-workspace/image/analytics-center-db-tab.png "Platform Analytics Dashboards library for analytics admins")
 
@@ -57,7 +57,7 @@ Description
 
 </td><td>
 
-Option for creating dashboards. For more information on creating dashboards, see [Create a dashboard with the in-line editor](../task/create-db-in-ac.md).
+Option for creating dashboards. For more information on creating dashboards, see [Create a dashboard with the in-line editor](create-db-in-ac.md).
 
 </td></tr><tr><td rowspan="2">
 
@@ -69,8 +69,8 @@ Option for creating dashboards. For more information on creating dashboards, see
 
 </td><td>
 
-Option for filtering the Dashboards list to display the data based on the following conditions:-   **Bookmarked**: Your bookmarked dashboards. By bookmarking your dashboards, you can find them. For more information about bookmarking dashboards, see [Bookmark a Platform Analytics dashboard](../task/bookmark-dashboard-ac.md).
--   **Certified**: Dashboards that an administrator has certified \(company approved and recommended for use\). For more information, see [Certify a Platform Analytics dashboard](../task/certify-db-ac.md).
+Option for filtering the Dashboards list to display the data based on the following conditions:-   **Bookmarked**: Your bookmarked dashboards. By bookmarking your dashboards, you can find them. For more information about bookmarking dashboards, see [Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md).
+-   **Certified**: Dashboards that an administrator has certified \(company approved and recommended for use\). For more information, see [Certify a Platform Analytics dashboard](certify-db-ac.md).
 -   **Owned by me**: Dashboards that you own.
 -   **Recently opened by me**: Dashboards that you recently opened.
 -   **Shared with me**: Dashboards that other users have shared with you.
@@ -81,7 +81,7 @@ Option for filtering the Dashboards list to display the data based on the follow
 
 </td><td>
 
-Available and applied categories for dashboards. As a user with analytics\_categories\_admin role, you can create and customize the categories for the dashboards. For more information on creating dashboard categories, see [Create dashboard categories](../task/db-categories.md#).
+Available and applied categories for dashboards. As a user with analytics\_categories\_admin role, you can create and customize the categories for the dashboards. For more information on creating dashboard categories, see [Create dashboard categories](db-categories.md#).
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ You can see the following columns as a user with an admin role:
 -   Updated by: Name of the user who last updated the dashboard.
 -   Created: Date and timestamp when the dashboard was created.
 -   Created by: Name of the user who created the dashboard.
--   Visibility: The workspaces to which the dashboard can be added. For more information about adding a dashboard to a workspace, see [Add a dashboard to a Dashboards page](../../performance-analytics/task/add-dashboard-to-workspace.md).
+-   Visibility: The workspaces to which the dashboard can be added. For more information about adding a dashboard to a workspace, see [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md).
 
 </td></tr><tr><td>
 
@@ -250,10 +250,10 @@ You can see the following columns as a user with an admin role:
 
 </td><td>
 
-Provides direct access to the [Dashboards](find-dashboard-library.md), [Data Visualizations](../../performance-analytics/concept/explore-data-vis-library.md), and [Indicators](../../performance-analytics/concept/your-kpis.md) libraries. Depending on your roles, you might have access to the Scheduled Exports library or the Usage Insights dashboard.
+Provides direct access to the [Dashboards](find-dashboard-library.md), [Data Visualizations](explore-data-vis-library.md), and [Indicators](your-kpis.md) libraries. Depending on your roles, you might have access to the Scheduled Exports library or the Usage Insights dashboard.
 
 </td></tr></tbody>
-</table>**Note:** A user with the dashboard\_admin role or higher might also see a panel with recommendations about problematic dashboards. For more information, see [Platform Analytics library recommendations](../../par-for-workspace/concept/pa-library-recommendations.md).
+</table>**Note:** A user with the dashboard\_admin role or higher might also see a panel with recommendations about problematic dashboards. For more information, see [Platform Analytics library recommendations](pa-library-recommendations.md).
 
-**Parent Topic:**[Exploring Platform Analytics dashboards](../reference/ac-elements.md)
+**Parent Topic:**[Exploring Platform Analytics dashboards](ac-elements.md)
 

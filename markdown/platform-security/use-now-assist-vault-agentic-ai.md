@@ -46,5 +46,5 @@ Use the summarize Access Observer logs agentic workflow to review and summarize 
 -   **[Field encryption with Vault module agentic workflow](now-assist-vault-field-encryption-module.md)**  
 Use the field encryption with Vault module agentic workflow to encrypt specific fields and configure secure access to users with designated roles.
 
-**Parent Topic:**[ServiceNow Vault](../../vault/reference/servicenow-vault-landing.md)
+**Parent Topic:**[ServiceNow Vault](servicenow-vault-landing.md)
 

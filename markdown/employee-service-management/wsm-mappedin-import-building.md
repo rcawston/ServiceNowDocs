@@ -133,5 +133,5 @@ The workplace manager of the group that manages the space reservation for the bu
 5.  Click **Update**.
 
 
-**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](../concept/wsm-mappedin-type-table.md)
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](wsm-mappedin-type-table.md)
 

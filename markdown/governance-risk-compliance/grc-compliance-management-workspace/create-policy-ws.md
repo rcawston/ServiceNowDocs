@@ -266,7 +266,7 @@ Enter the maximum number of days for which a policy exception can be requested f
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-    In the reporting overview page of the policy, you can see the description of the policy, its state, and its status of overall compliance, entities, control objectives, and control. It also gives you the tracking information of policy acknowlegements, policy exceptions, and issues. The non-compliant entities widget also lists all the non-compliant reliant entities, each with its compliance score. For more information, see [Manage compliance of a policy from the overview page](../concept/policy-overview-pc-ws.md)
+    In the reporting overview page of the policy, you can see the description of the policy, its state, and its status of overall compliance, entities, control objectives, and control. It also gives you the tracking information of policy acknowlegements, policy exceptions, and issues. The non-compliant entities widget also lists all the non-compliant reliant entities, each with its compliance score. For more information, see [Manage compliance of a policy from the overview page](policy-overview-pc-ws.md)
 
 5.  Select any of the related lists to provide more information for the policy.
 

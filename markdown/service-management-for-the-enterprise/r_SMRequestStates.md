@@ -102,5 +102,5 @@ Request was canceled.
 
 **Note:** If the **State flows are enabled** option in the configuration screen is not selected, the process flow formatter is removed. If you added states to the request and task tables, those states are visible on the request form.
 
-**Parent Topic:**[Request Management in a Service Management application](../concept/rm-sm-application.md)
+**Parent Topic:**[Request Management in a Service Management application](rm-sm-application.md)
 

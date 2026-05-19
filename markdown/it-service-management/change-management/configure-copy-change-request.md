@@ -106,7 +106,7 @@ These system properties are located in the \[sys\_properties\] table. Navigate t
         For example, the ability to copy a change request is not available by default for standard changes. However, you can provide your own implementation of the isCopyRulesValid function in the ChangeUtils script include to override the default.
 
 
-**Parent Topic:**[Configuring Change Management](../concept/configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](configure-change-management.md)
 
 **Related topics**  
 

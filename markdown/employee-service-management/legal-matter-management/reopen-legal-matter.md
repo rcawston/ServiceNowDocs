@@ -85,7 +85,7 @@ The state of the legal matter updates to Work in Progress.
 
 ## What to do next
 
-[Work on the legal matter](work-on-legal-matter-1.md) to complete it.
+[Work on the legal matter](../employee-service-management/work-on-legal-matter-1.md) to complete it.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

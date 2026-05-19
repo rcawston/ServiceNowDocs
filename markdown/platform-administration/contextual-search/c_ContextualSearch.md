@@ -38,8 +38,8 @@ You can configure different components of contextual search.
 Contextual search provides a way to display results that can be relevant to the issue for which you are creating an incident or requesting a service.
 -   **[Domain separation and Contextual Search](domain-separation-contextual-search.md)**  
 Domain separation is supported in Contextual Search. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Contextual Search roles](../reference/roles-contextual-search.md#)**  
+-   **[Contextual Search roles](roles-contextual-search.md#)**  
 Contextual Search is installed with these roles.
 
-**Parent Topic:**[Search administration](../../search-administration/reference/search-administration.md)
+**Parent Topic:**[Search administration](../search-administration/search-administration.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Using Upgrade Center, Upgrade Center, Upgrade, Administer the Servi
 
 Use the Upgrade Monitor module to schedule and monitor the status of an ongoing upgrade in your instance. You can also view the upgrade summary and the list of records causing conflicts in your instance once the upgrade is complete.
 
--   [Monitoring an upgrade](../task/uc-monitor-instance-upgrade.md): Monitor the progress of an ongoing upgrade in your instance
--   [Process the skipped records list](../task/uc-process-skipped-records.md): Resolve the differences between the upgraded and customized versions of a record by processing the skipped records list
--   [Resolve conflicts of a record](../task/uc-resolve-conflict.md): Resolve conflicts between your customized record and the changes associated with the upgrade
+-   [Monitoring an upgrade](uc-monitor-instance-upgrade.md): Monitor the progress of an ongoing upgrade in your instance
+-   [Process the skipped records list](uc-process-skipped-records.md): Resolve the differences between the upgraded and customized versions of a record by processing the skipped records list
+-   [Resolve conflicts of a record](uc-resolve-conflict.md): Resolve conflicts between your customized record and the changes associated with the upgrade
 

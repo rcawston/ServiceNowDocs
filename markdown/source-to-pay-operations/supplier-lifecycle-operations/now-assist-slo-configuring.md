@@ -39,7 +39,7 @@ The following table lists the feature and skill that you can access from the Now
 
 1.  Install the Now Assist for Supplier Lifecycle Operations \(SLO\) plugin \(com.snc.sn\_supplier\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](../concept/now-assist-slo-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
@@ -125,7 +125,7 @@ The skill is available only when certain conditions are met \(default\).Use the 
 
 [Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat](cust-now-assist-slo-va.md)
 
-[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](../reference/now-assist-slo-skill-input-triggers.md)
+[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-skill-input-triggers.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../concept/now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
 

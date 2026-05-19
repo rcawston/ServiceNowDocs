@@ -23,8 +23,8 @@ Role required: sn\_ni\_core.inventory\_admin, and sn\_ni\_core.inventory\_templa
 
 A network inventory template contains a set of detailed business guidance rules from a telecommunications provider. These rules state how the equipment configurations should be generated, based on certain operating requirements. When you create an inventory template, it creates a template in the Inventory Templates \[sn\_ni\_core\_inventory\_template\] table. To learn more about inventory templates, see the following topics:
 
--   [Network inventory templates](../concept/using-templates-tni.md)
--   [Create inventory template relationship](../concept/creating-inventory-templates-telco-equipment.md)
+-   [Network inventory templates](using-templates-tni.md)
+-   [Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
 
 ## Procedure
 
@@ -60,7 +60,7 @@ Inventory model
 
 </td><td>
 
-List of all product models related to the Telecommunications Network Inventory. Select the search icon \(![Search icon.](../image/search.png)\) and select a model. To learn more, see [Create inventory models](../concept/creating-your-inventory-models.md).
+List of all product models related to the Telecommunications Network Inventory. Select the search icon \(![Search icon.](../image/search.png)\) and select a model. To learn more, see [Create inventory models](creating-your-inventory-models.md).
 
 </td></tr><tr><td>
 
@@ -104,13 +104,13 @@ Bandwidth of the child product model.**Note:** This attribute is only visible wh
     **Note:**
 
     1.  If you’ve defined the network model relationship between the rack and slot, equipment and slot, equipment and interface, interface card and slot, or interface card and interface,the slots and interfaces are automatically created under the **Related Templates** for the equipment or interface cards. Otherwise, manually add using **New**.
-    2.  Add shelves/equipment to racks or shelves in the **Related Templates**tab of each created rack unit or slots. You can also add equipment to each shelf. To learn more, see [Related templates form](../reference/related-templates-form.md).
-    3.  You can update the naming pattern of each template directly from the Name Pattern column under the related templates. The name pattern of the created slots or interfaces is fetched from the default pattern of the models. To learn more, see [Inventory Model form - Information](../reference/tni-model-form-information.md).
+    2.  Add shelves/equipment to racks or shelves in the **Related Templates**tab of each created rack unit or slots. You can also add equipment to each shelf. To learn more, see [Related templates form](related-templates-form.md).
+    3.  You can update the naming pattern of each template directly from the Name Pattern column under the related templates. The name pattern of the created slots or interfaces is fetched from the default pattern of the models. To learn more, see [Inventory Model form - Information](tni-model-form-information.md).
     4.  To add an interface card in a slot, navigate to **slot** &gt; **Related Templates** &gt; **New** and fill in the required details.
 
 ## What to do next
 
 To delete a template, select the options icon \(![Options icon.](../image/options-icon.png)\), and then select **Delete**.
 
-**Parent Topic:**[Create inventory template for network asset instantiation](../concept/preparing-inv-templates-network-asset-generation.md)
+**Parent Topic:**[Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md)
 

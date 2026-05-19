@@ -51,12 +51,12 @@ Removing a service from SRM doesn't affect the service reliability tasks, such a
 
     The page displays `<service-name> removed from SRM`. The service no longer appears in the SRM application, but it remains in the CMDB. You can add it back to SRM at any time.
 
-    **Note:** If you receive an error when removing a service, see [Troubleshoot SRM](../reference/srm-troubleshoot.md).
+    **Note:** If you receive an error when removing a service, see [Troubleshoot SRM](srm-troubleshoot.md).
 
 
 ## What to do next
 
-To learn how to monitor and manage services that remain in SRM, see [Working with SRM services](../concept/sr-work-services.md). To add a service that you want to monitor or that was removed by mistake, see [Add a service to SRM](sr-add-service.md).
+To learn how to monitor and manage services that remain in SRM, see [Working with SRM services](sr-work-services.md). To add a service that you want to monitor or that was removed by mistake, see [Add a service to SRM](sr-add-service.md).
 
-**Parent Topic:**[Working with SRM services](../concept/sr-work-services.md)
+**Parent Topic:**[Working with SRM services](sr-work-services.md)
 

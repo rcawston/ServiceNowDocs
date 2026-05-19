@@ -58,11 +58,11 @@ Factors are questions that you can use to analyze risks. Factors appear on a ris
 Risks are scored during an assessment and then a rating is derived. Ratings are of three kinds: qualitative, semi-quantitative, and quantitative.
 -   **[Any object assessment using Advanced Risk Assessment](any-object-assessment.md)**  
 If you don't have the complete GRC setup for entities, risk statements, controls, and so on, even then, you can still assess the risks on any ServiceNow record or object. An example of object assessment is assessing change management or assessing a citation.
--   **[Delegation of risk assessment](../../grc-workspace-risk/concept/delegation-of-risk-assessment.md)**  
+-   **[Delegation of risk assessment](delegation-of-risk-assessment.md)**  
 If a risk assessor is unavailable to perform a risk assessment, the assessor can appoint a delegate to perform the risk assessment for a specified time period. The ServiceNow AI Platform enables you to appoint your delegates.
 -   **[Understanding the risk assessment instance](understanding-risk-assessment-instance.md)**  
 A risk assessment instance is where a risk assessor can assess risks and objects by responding to questions or factors.
--   **[Managing risk responses](../../grc-workspace-risk/concept/risk-response.md)**  
+-   **[Managing risk responses](risk-response.md)**  
 A risk response is the strategy used to deal with risks after the risks are assessed.
 -   **[Risk score rollup in Advanced Risk Assessment](risk-rollup-ara-concept.md)**  
 In Advanced Risk Assessment, risk scores are calculated across risk statement hierarchy, entity hierarchy, or a combination of both. These methods enable stakeholders to monitor their risk posture and provide visibility of the overall aggregated risk score.
@@ -72,10 +72,10 @@ As users of Privacy Management, you can perform advanced risk assessments with a
 Create a risk assessment scheduler and assign it to the risk manager. A risk manager can then identify the entities and the risks within the entities for bulk initiation of risk assessments.
 -   **[Integration of advanced risk assessments with risks and controls](integrate-ara-with-risks-and-controls.md)**  
 When customers migrate to advanced risk assessments, the system replaces the legacy risk life cycle and shows a new section called Assessment Summary on the Risk form. This section is useful for the risk managers as it provides the overall visibility of the assessment results.
--   **[Risk appetite and tolerance in Advanced Risk](../../grc-workspace-risk/concept/risk-appetite-tolerance.md)**  
+-   **[Risk appetite and tolerance in Advanced Risk](risk-appetite-tolerance.md)**  
 You can define a risk appetite and tolerance within your organization by using the Advanced Risk application. A risk appetite and tolerance enable your organization to define the boundaries for acceptable and unacceptable risks.
 -   **[Target risk assessment in Advanced Risk](target-risk-assessment.md)**  
 You can perform a target risk assessment to define your desired future risk level using the Advanced Risk application. The target risk assessment enables you to assess your target risk posture and monitor progress toward its achievement.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

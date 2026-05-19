@@ -27,5 +27,5 @@ The state closure in the request fulfillment process of a catalog item depends o
 -   If there is at least one RITM closed as **Closed Incomplete**, the request is closed as **Closed Incomplete**.
 -   If all RITMs are closed as **Closed Skipped**, the request is closed as **Closed Skipped**.
 
-**Parent Topic:**[Service Catalog request fulfillment](../concept/request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](request-fulfillment.md)
 

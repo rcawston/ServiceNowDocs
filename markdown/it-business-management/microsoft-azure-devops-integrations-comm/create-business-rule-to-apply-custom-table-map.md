@@ -63,5 +63,5 @@ Select the table in Agile Development 2.0 for which you've created the custom ma
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 

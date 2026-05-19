@@ -76,5 +76,5 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 9.  Click the link to download support data.
 
 
-**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](../concept/using-ci-diagnostics-tool.md)
+**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](using-ci-diagnostics-tool.md)
 

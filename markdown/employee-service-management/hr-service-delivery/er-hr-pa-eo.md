@@ -160,7 +160,7 @@ Real-time Score
 
 </td><td>
 
-The number of ER cases that are classified as restricted. For more information, see [Employee Relations case restrictions](../../../product/human-resources/concept/hr-er-case-restriction.md).
+The number of ER cases that are classified as restricted. For more information, see [Employee Relations case restrictions](hr-er-case-restriction.md).
 
 </td></tr><tr><td>
 

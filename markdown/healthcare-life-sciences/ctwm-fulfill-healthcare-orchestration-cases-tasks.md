@@ -19,7 +19,7 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.admin
 
 ## About this task
 
-For more information on healthcare orchestration cases and tasks, see [Healthcare orchestration cases and tasks](../concept/ctwm-healthcare-orc-cases-task.md).
+For more information on healthcare orchestration cases and tasks, see [Healthcare orchestration cases and tasks](ctwm-healthcare-orc-cases-task.md).
 
 ## Procedure
 

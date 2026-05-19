@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-If a robot is working on an automation, a process job record for the execution is created in RPA Hub. The robot is then moved to the Busy state. For more information on the different states of a robot, see [Robot states form](../../rpa-hub/task/edit-robot.md#table_dvx_x3l_rrb). If you try to execute another automation in the Busy state against this robot, the automation doesn’t execute and a process job record is created in the Skipped state. Use the process job SysID to identify when the robot is free and to assign the skipped process jobs to the robot for execution.
+If a robot is working on an automation, a process job record for the execution is created in RPA Hub. The robot is then moved to the Busy state. For more information on the different states of a robot, see [Robot states form](edit-robot.md#table_dvx_x3l_rrb). If you try to execute another automation in the Busy state against this robot, the automation doesn’t execute and a process job record is created in the Skipped state. Use the process job SysID to identify when the robot is free and to assign the skipped process jobs to the robot for execution.
 
 The process job SysID can be a passed as an input parameter to a subflow when the subflow is used to check the completion of a process job. When the process job is completed, you can start a new process on the same robot.
 
@@ -46,5 +46,5 @@ You can’t retrieve the process job SysID by running the GetProcessJobSysID com
     You can also run the automation by selecting **Run** from the **Design** tab.
 
 
-**Parent Topic:**[Common](../concept/common_components.md)
+**Parent Topic:**[Common](common_components.md)
 

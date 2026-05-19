@@ -21,7 +21,7 @@ In Workplace Core \[sn\_wsd\_core\] version 2.19.0 and above, the navigation pat
 
 In Workplace Core Workplace Core version 2.18.1 and later the application search context menu is available \(**All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace services**.\)
 
--   **[Schedule your arrival time at a workplace location](../task/schedule-your-arrival-time-to-the-workplace-wsd.md)**  
+-   **[Schedule your arrival time at a workplace location](schedule-your-arrival-time-to-the-workplace-wsd.md)**  
 Schedule your arrival at a workplace location by using Workplace Core. Prevent long lines and safely enter the location.
 -   **[Making workplace reservations](making-workspace-reservations.md)**  
 Make workplace reservations in Workplace Core when you are ready to return to the office. You can reserve a workplace for a day or less directly or request a workplace for a specified period. Once a reservation request is approved and confirmed, you are notified about the reservation details. The Workplace Service Delivery also offers more advanced workplace reservation options in the Workplace Reservation Management application.

@@ -37,7 +37,7 @@ The following items are installed with Legal Conflict of Interest:
 -   Tables
 -   Business Rules
 
-For more information, see [Components installed with Legal Conflict of Interest](../reference/installed-with-legal-conflict-of-interest.md).
+For more information, see [Components installed with Legal Conflict of Interest](installed-with-legal-conflict-of-interest.md).
 
 ## Procedure
 
@@ -70,5 +70,5 @@ Use the Legal Service Delivery Guided Setup to configure the application on your
 
 To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configure Legal Conflict of Interest](../concept/legal-coi-administration.md)
+**Parent Topic:**[Configure Legal Conflict of Interest](legal-coi-administration.md)
 

@@ -17,7 +17,7 @@ Integrate Performance Analytics with an external system to collect scores based 
 
 REST and Javascript APIs are available for you to create your queries.
 
--   **[Performance Analytics API examples](../../../integrate/inbound-rest/reference/r_PerformanceAnalyticsAPIExamples.md)**  
+-   **[Performance Analytics API examples](r_PerformanceAnalyticsAPIExamples.md)**  
 These examples demonstrate how to perform a REST query using cURL commands, and show the data returned for each command. Each example builds upon the last, with later examples using the data returned by earlier examples.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)

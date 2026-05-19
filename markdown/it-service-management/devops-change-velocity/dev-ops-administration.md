@@ -841,7 +841,7 @@ Assign a universal task and notify to update tool credentials when expired
 
 </td><td>
 
-Admins and tool owners will be notified \(through universal task, email, banner, and field message\) on expiry of tool credentials after the credentials have expired. As an admin or tool owner, you can update your tool credentials and connect the tool to prevent any further loss of data. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md).
+Admins and tool owners will be notified \(through universal task, email, banner, and field message\) on expiry of tool credentials after the credentials have expired. As an admin or tool owner, you can update your tool credentials and connect the tool to prevent any further loss of data. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
 </td><td>
 
@@ -857,7 +857,7 @@ Number of days before tool credential expiry to assign a universal task and noti
 
 </td><td>
 
-Set the number of days before tool credentials expiry to send notifications \(through universal task, email, banner, and field message\) to admins for GitHub tools created with basic authentication. To stop sending proactive notifications, select 0 as the value for this property. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](../task/update-third-party-tool-credentials-in-devops-change-velocity.md).
+Set the number of days before tool credentials expiry to send notifications \(through universal task, email, banner, and field message\) to admins for GitHub tools created with basic authentication. To stop sending proactive notifications, select 0 as the value for this property. For information on updating tool credentials, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
 
 </td><td>
 
@@ -1146,5 +1146,5 @@ False \(disabled\)
 \[sn\_devops.import\_based\_evidence\_collection\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+</table>**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
 

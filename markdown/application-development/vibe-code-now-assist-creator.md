@@ -21,7 +21,7 @@ Some skills in Now Assist for Creator have a conversational interface and can be
 
 ## Core capabilities
 
-For complete information on using Now Assist for Creator, see [Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md).
+For complete information on using Now Assist for Creator, see [Now Assist for Creator](now-assist-for-creator/now-assist-for-creator-landing.md).
 
 The following metadata-driven tools are available for using AI to develop apps:
 

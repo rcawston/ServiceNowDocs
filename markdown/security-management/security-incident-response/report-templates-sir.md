@@ -17,15 +17,15 @@ All the reports associated with a security incident are available within the Rep
 
 The analyst will be able to:
 
--   [Create a report](../task/create-report-sir.md)
--   [Edit a report](../task/edit-report-sir.md)
--   [Delete a report](../task/delete-report-sir.md)
+-   [Create a report](create-report-sir.md)
+-   [Edit a report](edit-report-sir.md)
+-   [Delete a report](delete-report-sir.md)
 
--   **[Create a report](../task/create-report-sir.md)**  
+-   **[Create a report](create-report-sir.md)**  
 Analysts can create a report in Security Incident Response to include the status of an incident and share it via email.
--   **[Edit a report](../task/edit-report-sir.md)**  
+-   **[Edit a report](edit-report-sir.md)**  
 Analysts can modify an unpublished report in Security Incident Response and share it via email.
--   **[Delete a report](../task/delete-report-sir.md)**  
+-   **[Delete a report](delete-report-sir.md)**  
 You can delete a report in Security Incident Response which is in published or draft state.
 
 **Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
@@ -45,9 +45,9 @@ You can delete a report in Security Incident Response which is in published or d
 
 [Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
 

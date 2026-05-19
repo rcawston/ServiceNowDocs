@@ -156,5 +156,5 @@ Closure reasons by top assignment groups, highlighting automation closures \(wit
 </td></tr></tbody>
 </table>**Note:** If you're starting with Australia, some charts, graphs, or metrics in the dashboard may appear blank or show limited data. This is expected if there's no historical data or only a few weeks or months of data available. As your system continues to collect and process alerts, the dashboard will populate with more complete insights over time.
 
-If you want to know about funnel visualization, see [Create a funnel visualization](../task/create-funnel-visualization.md).
+If you want to know about funnel visualization, see [Create a funnel visualization](create-funnel-visualization.md).
 

@@ -38,5 +38,5 @@ The **sn\_sales\_common.enable\_location\_based\_transactions** system property 
 
 Define the [product eligibility rule filters](som-create-rule-entity-filter.md) and [matrices](som-define-eligibility-rules.md) that control the product offerings displayed by location.
 
-**Parent Topic:**[Configuring location-based product transactions](../concept/config-location-transaction.md)
+**Parent Topic:**[Configuring location-based product transactions](config-location-transaction.md)
 

@@ -38,7 +38,7 @@ When an agent disputes a transaction on behalf of a customer or through the Cust
         ![Card disputes transactions table with Dispute reported date column highlighted.](../image/reg-sla-dispute-reported-date.png)
 
 3.  Submit the case for investigation.
-    -   In the **Submit dispute** activity, the agent reviews the dispute amount. The agent selects the option **Is this a new financial account?** and submits the case for further investigation. For more information on the various stages, see [Overview of the Dispute Management workflow](../../fso-card-operations/concept/dispute-management-workflows.md).
+    -   In the **Submit dispute** activity, the agent reviews the dispute amount. The agent selects the option **Is this a new financial account?** and submits the case for further investigation. For more information on the various stages, see [Overview of the Dispute Management workflow](dispute-management-workflows.md).
     -   After submitting the case, the agent accesses the **Task SLAs** tab to view the SLA definitions that have been applied.
 
         The following example shows the task SLAs tab view of the SLA definitions.
@@ -53,7 +53,7 @@ When an agent disputes a transaction on behalf of a customer or through the Cust
         The agent may also select **Acknowledgement sent** in the transaction record. This sets the **Acknowledgement sent** field to Yes for that specific transaction.
 
 
-For more information, see [Initiate a dispute](../../fso-card-operations/task/create-case-with-intake-workspace.md#).
+For more information, see [Initiate a dispute](create-case-with-intake-workspace.md#).
 
 **Parent Topic:**[Dispute Content Pack for US Regulations](dispute-content-pack-for-us-regulation-landing-page.md)
 

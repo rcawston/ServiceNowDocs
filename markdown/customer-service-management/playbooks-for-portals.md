@@ -21,7 +21,7 @@ Guided intake with playbooks makes it effortless to fill out a form or provide i
 2.  [Set up custom Playbooks for Portals](activate-playbooks-for-portals.md#)
 3.  [View cases in Draft state on the portal](playbook-for-portals-my-draft-cases-list.md)
 4.  [Activate a new onboarding playbook with self-service](activate-a-new-onboarding-playbook-with-self-service-in-pad.md)
-5.  [Enable a reflow for your UI Builder pages](../task/enable-reflow-for-new-uib-pages.md)
+5.  [Enable a reflow for your UI Builder pages](enable-reflow-for-new-uib-pages.md)
 6.  [Using Playbooks for Portals](using-playbooks-for-portals.md)
 
 **Related topics**  

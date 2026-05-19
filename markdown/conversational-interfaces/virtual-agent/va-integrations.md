@@ -24,7 +24,7 @@ For example, admins can build a custom conversational chat integration for a spe
 
 When you create or edit a topic or topic block, you can specify the applicable channels in the **Channels** field under Advanced properties in the Topic Properties page. Applicable channels are the custom channels created for your instance through the conversational custom chat integrations. Use this field to specify chat clients in which the topic or topic block will run.
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 ![image.va-prop-channelsup-2]
 

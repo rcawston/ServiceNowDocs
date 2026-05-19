@@ -52,7 +52,7 @@ When the app generation skill is turned on, the Now Assist icon \(![Now Assist i
 
     Now Assist asks questions to understand the data to be collected, the users involved and their permissions, and the desired interface. Your answers help Now Assist create the correct tables, roles, access control lists \(ACLs\), forms, and record producers for your application. You can also ask Now Assist to create a workspace \(user interface\) and flow \(automation\) for your application.
 
-    If you know exactly how you want your app to work, be specific about its functionality. If you do not, describe what you know and collaborate with Now Assist to determine the correct application requirements. For more information, see [General guidelines for using app generation](../concept/sns-app-gen-guidelines.md).
+    If you know exactly how you want your app to work, be specific about its functionality. If you do not, describe what you know and collaborate with Now Assist to determine the correct application requirements. For more information, see [General guidelines for using app generation](sns-app-gen-guidelines.md).
 
     ![Conversation stage showing the back-and-forth conversation between the user and Now Assist in refining the application requirements.](../images/app-generation-task-conversation.png)
 
@@ -85,12 +85,12 @@ When the app generation skill is turned on, the Now Assist icon \(![Now Assist i
         -   **Save files and open app** generates the app and opens it in ServiceNow Studio for you to review and edit. If you included workspaces \(user interface\) or flows \(automation\) in your application, their metadata is generated when you save the application.
         -   **Make changes** continues the conversation with Now Assist so you can refine and edit the app. The app preview updates after Now Assist applies your changes.
         -   **Discard and start over** deletes the current app and resets the conversation in the Now Assist panel.
-        For more information about ServiceNow Studio, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+        For more information about ServiceNow Studio, see [ServiceNow Studio](../servicenow-studio-classic/servicenow-studio-landing.md).
 
 
 ## Result
 
-Use the tools in ServiceNow Studio to add more features and enhance your app. For more information, see [Create an application in ServiceNow Studio](../../servicenow-studio/task/create-an-application-in-servicenow-studio.md#) and [Create an app file in ServiceNow Studio](../../servicenow-studio/task/sn-studio-create-app-file.md).
+Use the tools in ServiceNow Studio to add more features and enhance your app. For more information, see [Create an application in ServiceNow Studio](../servicenow-studio-classic/create-an-application-in-servicenow-studio.md#) and [Create an app file in ServiceNow Studio](../servicenow-studio-classic/sn-studio-create-app-file.md).
 
 -   **[Add a workspace to a custom application with app generation](sns-app-gen-add-workspace.md)**  
 Add a workspace to a custom application by asking Now Assist. Describe what you want in the workspace, or ask Now Assist for recommendations.
@@ -99,5 +99,5 @@ Add a flow to a custom application by asking Now Assist. Describe what you want 
 -   **[Review and edit applications built using app generation](sns-app-gen-review-apps.md)**  
 After app generation creates an application, review and modify it in ServiceNow Studio to verify accuracy and extend functionality.
 
-**Parent Topic:**[App generation](../concept/sns-now-assist-app-gen-landing.md)
+**Parent Topic:**[App generation](sns-now-assist-app-gen-landing.md)
 

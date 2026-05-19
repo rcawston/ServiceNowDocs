@@ -38,9 +38,9 @@ Major Incident Management quick start tests require activating the Incident Mana
 |MIM: Major Incident workbench layout verification|Test is to verify Major Incident workbench layout verification.|Orlando|
 |MIM: Verify communication task from MI workbench|Test is to verify communication task from MI workbench.|Orlando|
 
-To learn more about Major Incident Management, see [Major Incident Management](../../../product/incident-management/concept/major-incident-management.md).
+To learn more about Major Incident Management, see [Major Incident Management](major-incident-management.md).
 
-**Parent Topic:**[Managing major incidents](../../../product/incident-management/concept/major-incident-management.md)
+**Parent Topic:**[Managing major incidents](major-incident-management.md)
 
 **Related topics**  
 

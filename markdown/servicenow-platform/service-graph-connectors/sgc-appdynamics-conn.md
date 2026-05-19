@@ -16,7 +16,7 @@ breadcrumb: [Observability-AppDynamics, Service Graph Connectors, Integrating th
 
 You can access connection details for Service Graph Connector for Observability - AppDynamics using the common connection framework \(CCF\) included with the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
-With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](integration-commons-conn-fw.md).
+With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](../cmdb-integration-commons/integration-commons-conn-fw.md).
 
 ## Access the details of an AppDynamics connection
 

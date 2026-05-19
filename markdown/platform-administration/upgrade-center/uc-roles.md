@@ -15,7 +15,7 @@ breadcrumb: [Upgrade Center references, Upgrade Center, Upgrade, Administer the 
 
 Upgrade Center is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System administrator \[admin\]
 
@@ -56,5 +56,5 @@ Access all tables and information within Upgrade Center on your instance.
 
 [Upgrade Center VTB Labels list](uc-vtb-labels-list.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](uc-default-skipped-rules.md)
 

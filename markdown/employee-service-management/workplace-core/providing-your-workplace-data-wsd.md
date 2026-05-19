@@ -55,11 +55,11 @@ Before uploading a .dxf file, work with your AutoCAD designers to verify the fol
 
 Uploading a floor plan creates a floor record. All the workspaces of the floor are automatically added to the Spaces related list of the floor record.
 
--   **[Create records for your workplace data](../task/create-records-of-workplace-data-wsd.md)**  
+-   **[Create records for your workplace data](create-records-of-workplace-data-wsd.md)**  
 Create individual records of your workspaces, floors, office buildings, and workplace locations within the Workplace Core application. Either insert new data or add records to the existing workplace data.
--   **[Upload a workplace floor plan](../task/upload-workplace-floor-map-wsd.md)**  
+-   **[Upload a workplace floor plan](upload-workplace-floor-map-wsd.md)**  
 Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can configure and use to reserve space for your employees.
--   **[Update a workplace floor plan](../task/edit-workplace-floor-map-wsd.md)**  
+-   **[Update a workplace floor plan](edit-workplace-floor-map-wsd.md)**  
 Update a workplace floor plan by uploading a new plan.
 
 **Parent Topic:**[Configure Workplace Core](configure-wsd.md)
@@ -67,9 +67,9 @@ Update a workplace floor plan by uploading a new plan.
 **Related topics**  
 
 
-[Install Workplace Core](../task/install-workplace-service-delivery.md)
+[Install Workplace Core](install-workplace-service-delivery.md)
 
 [Configuring spreadsheets to import workplace data](importing-workspace-data-wsd.md#)
 
-[Activate Virtual Agent for Workplace Service Delivery](../task/actuvate-va-for-wsd.md)
+[Activate Virtual Agent for Workplace Service Delivery](actuvate-va-for-wsd.md)
 

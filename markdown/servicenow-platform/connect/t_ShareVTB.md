@@ -31,7 +31,7 @@ Role required: none
 **Related topics**  
 
 
-[Connect](../concept/c_Connect.md)
+[Connect](c_Connect.md)
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoards.md)
 

@@ -25,7 +25,7 @@ Updates
 
 </th></tr></thead><tbody><tr><td>
 
-[Prevent Unauthenticated Access to Virtual Agent Embedded Web Client](../reference/sc-publicly-exposed-virtual-agent-embedded-web-client.md)
+[Prevent Unauthenticated Access to Virtual Agent Embedded Web Client](sc-publicly-exposed-virtual-agent-embedded-web-client.md)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Updates
 
 </td></tr><tr><td>
 
-[Prevent Empty ACL Creation](../reference/sc-prevent-empty-acl-creation.md)
+[Prevent Empty ACL Creation](sc-prevent-empty-acl-creation.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Rule: Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable ACLs for Encoded Query in Simple List Widget](../reference/sc-enable-acls-for-encoded-query-in-simple-list-widget.md)
+[Enable ACLs for Encoded Query in Simple List Widget](sc-enable-acls-for-encoded-query-in-simple-list-widget.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Rule: Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Sanitize All Translated HTML Fields](../reference/sc-sanitize-all-translated-html-fields.md)
+[Sanitize All Translated HTML Fields](sc-sanitize-all-translated-html-fields.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Rule: Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](../reference/sc-html-sanitizer.md)
+[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](sc-html-sanitizer.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Implement the x-frame-options: SAMEORIGIN security header](../reference/sc-x-frame-options-sameorigin.md)
+[Implement the x-frame-options: SAMEORIGIN security header](sc-x-frame-options-sameorigin.md)
 
 </td><td>
 
@@ -77,7 +77,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Restrict access to GlideSystemUserSession scriptable API](../reference/sc-access-glidesystemusersession-scriptable-api.md)
+[Restrict access to GlideSystemUserSession scriptable API](sc-access-glidesystemusersession-scriptable-api.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Disallow target cloning \[New in Security Center 1.3\]](../reference/sc-disallow-target-cloning.md)
+[Disallow target cloning \[New in Security Center 1.3\]](sc-disallow-target-cloning.md)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](../reference/sc-restrict-oauth-parameters-to-post-body.md)
+[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](sc-restrict-oauth-parameters-to-post-body.md)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Enforce URL allowlist check](../reference/sc-enforce-url-allowlist-check.md)
+[Enforce URL allowlist check](sc-enforce-url-allowlist-check.md)
 
 </td><td>
 
@@ -115,22 +115,22 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Require XMLdoc2 entity validation with allowlist](../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
+[Require XMLdoc2 entity validation with allowlist](sc-xmldoc2-entity-validation-with-entity-expansion.md)
 
 </td><td>
 
 -   If the **glide.stax.whitelist\_enabled** system property does not exist in the System Properties \[sys\_properties\] table, or it is not set to the recommended value of **true**, then all external entities are allowed when the **glide.stax.allow\_entity\_resolution** system property is set to the value of **true**. If customizations do not require entity expansion, use the **glide.stax.allow\_entity\_resolution** system property to disable external entity expansion. The XML completes parsing but doesn't include any internal or external entities.
 
     -   If you set **glide.stax.allow\_entity\_resolution** to **true**, all external entities attempt to resolve or expand subject entities, subject to the setting of the **glide.stax.whitelist\_enabled** property.
-    -   If you set **glide.stax.allow\_entity\_resolution** to **false**, all entity resolution and expansion is blocked. To learn more about this property, see [Disable Entity Expansion within the XMLDocument2 Streaming Parser](../reference/sc-disable-entity-expansion.md).
-When **glide.stax.whitelist\_enabled** is set to **true**, define a listing of comma-delimited FQDN in the **glide.xml.entity.whitelist** property, which are the only URLs that can be reached using the XML entity processing property. To learn more, see [Restrict XML external entities](../reference/sc-xml-entity-validation-url-allowlist.md). Attackers can use this vulnerability to expand data exponentially in an External Entities Expansion \(XXE\) attack, quickly consuming all system resources.
+    -   If you set **glide.stax.allow\_entity\_resolution** to **false**, all entity resolution and expansion is blocked. To learn more about this property, see [Disable Entity Expansion within the XMLDocument2 Streaming Parser](sc-disable-entity-expansion.md).
+When **glide.stax.whitelist\_enabled** is set to **true**, define a listing of comma-delimited FQDN in the **glide.xml.entity.whitelist** property, which are the only URLs that can be reached using the XML entity processing property. To learn more, see [Restrict XML external entities](sc-xml-entity-validation-url-allowlist.md). Attackers can use this vulnerability to expand data exponentially in an External Entities Expansion \(XXE\) attack, quickly consuming all system resources.
 
 -   Description \(Old\): If **glide.stax.whitelist\_enabled** is not set to the recommended value of **true**, then all external entities are allowed. This could lead to External Entities Expansion \(XXE\) attacks.
 -   Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Restrict XML external entities](../reference/sc-xml-entity-validation-url-allowlist.md)
+[Restrict XML external entities](sc-xml-entity-validation-url-allowlist.md)
 
 </td><td>
 
@@ -147,7 +147,7 @@ Values other than `http://java.sun.com/j2ee/dtds/` can be included in the in the
 
 </td></tr><tr><td>
 
-[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](../reference/sc-external-user-registration-email-domain-allowlist.md)
+[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](sc-external-user-registration-email-domain-allowlist.md)
 
 </td><td>
 
@@ -155,7 +155,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-validate-file-mime-type-in-attachmentcreator.md)
+[Validate file mime type in AttachmentCreator soap web service \[New in Security Center 1.3 and updated in 1.5\]](sc-validate-file-mime-type-in-attachmentcreator.md)
 
 </td><td>
 
@@ -172,7 +172,7 @@ It is a security best practice to validate file uploads at least with MIME type 
 
 </td></tr><tr><td>
 
-[Reduce the Scope of the IP Allow List for an Instance](../reference/sc-ip-addresses-access-allowlist.md)
+[Reduce the Scope of the IP Allow List for an Instance](sc-ip-addresses-access-allowlist.md)
 
 </td><td>
 
@@ -191,7 +191,7 @@ When set to "true", the "glide.ip.authenticate.allow" property is used to grant 
 
 </td></tr><tr><td>
 
-[Disable Entity Expansion within the XMLDocument2 Streaming Parser](../reference/sc-disable-entity-expansion.md)
+[Disable Entity Expansion within the XMLDocument2 Streaming Parser](sc-disable-entity-expansion.md)
 
 </td><td>
 
@@ -207,7 +207,7 @@ Set the **glide.stax.allow\_entity\_resolution** system property to **false** to
 
 </td></tr><tr><td>
 
-[Deny by default with empty ACLs \[Updated in Security Center 1.3\]](../reference/sc-security-manager-default-deny.md)
+[Deny by default with empty ACLs \[Updated in Security Center 1.3\]](sc-security-manager-default-deny.md)
 
 </td><td>
 
@@ -224,7 +224,7 @@ Set the **glide.sm.default\_mode** system property value to **deny** to disallow
 
 </td></tr><tr><td>
 
-[Restrict unauthenticated access to attachments](../reference/sc-restrict-unauthenticated-access-attachments.md)
+[Restrict unauthenticated access to attachments](sc-restrict-unauthenticated-access-attachments.md)
 
 </td><td>
 
@@ -247,7 +247,7 @@ Restriction should be applied for unauthenticated users as some attachments migh
 
 </td></tr><tr><td>
 
-[Disable embedded HTML code \[Updated in Security Center 1.3\]](../reference/sc-allow-embedded-html-code.md)
+[Disable embedded HTML code \[Updated in Security Center 1.3\]](sc-allow-embedded-html-code.md)
 
 </td><td>
 
@@ -267,7 +267,7 @@ The ServiceNow AI Platform mitigates many injection and cross-site attacks by im
 
 </td></tr><tr><td>
 
-[Enable password reset policy checks](../reference/sc-enable-password-reset-policy-checks.md)
+[Enable password reset policy checks](sc-enable-password-reset-policy-checks.md)
 
 </td><td>
 
@@ -275,7 +275,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Enable email spam scoring and filtering](../reference/sc-email-spam-scoring-and-filtering.md)
+[Enable email spam scoring and filtering](sc-email-spam-scoring-and-filtering.md)
 
 </td><td>
 
@@ -285,7 +285,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Escape Excel Formulas \[Updated in Security Center 1.3\]](../reference/sc-escape-excel-formula.md)
+[Escape Excel Formulas \[Updated in Security Center 1.3\]](sc-escape-excel-formula.md)
 
 </td><td>
 
@@ -301,7 +301,7 @@ Set the **glide.export.escape\_formulas** system property to **true** to escape 
 
 </td></tr><tr><td>
 
-[Restrict JSONP Requests to Trusted URLs \[Updated in Security Center 1.3\]](../reference/sc-restrict-jsonp-requests-to-trusted-urls.md)
+[Restrict JSONP Requests to Trusted URLs \[Updated in Security Center 1.3\]](sc-restrict-jsonp-requests-to-trusted-urls.md)
 
 </td><td>
 
@@ -315,7 +315,7 @@ Use the value of the **angular.jsonp.inclusion\_list.urls** system property to d
 
 </td></tr><tr><td>
 
-[Enable SNC access control plugin](../reference/sc-snc-access-control-plugin.md)
+[Enable SNC access control plugin](sc-snc-access-control-plugin.md)
 
 </td><td>
 
@@ -325,7 +325,7 @@ Prevent ServiceNow Customer Service and Support personnel from accessing the ins
 
 **Note:** Other authorized ServiceNow Operations personnel, in their capacity to support and manage the product, are required to perform administrative actions on the underlying infrastructure. Enabling this plugin may affect support service levels and the Availability SLA. Availability SLA is then measured from the time that Support staff personnel are granted access to your instance.
 
-Enable the SNC Access Control \(com.snc.snc\_access\_control\) plugin to restrict access to your instance without your express permission. For more details on this feature, see [ServiceNow access control](../../security/concept/c_SNCAccessControl.md). For activation information, see [Activate ServiceNow access control](../../security/task/t_ActivateSNCAccessControl.md)
+Enable the SNC Access Control \(com.snc.snc\_access\_control\) plugin to restrict access to your instance without your express permission. For more details on this feature, see [ServiceNow access control](../c_SNCAccessControl.md). For activation information, see [Activate ServiceNow access control](../t_ActivateSNCAccessControl.md)
 
 -   Description \(Old\): The SNC Access Control \(com.snc.snc\_access\_control\) plugin prevents Customer Service and Support personnel from accessing the instances without your express permission. However, other authorized ServiceNow Operations personnel, in their capacity to support and manage the product, are required to perform administrative actions on the underlying infrastructure. This infrastructure includes servers and databases, among other infrastructure components that make up the SaaS solution. This access method is fully auditable and tracked.This plugin enables you to restrict access to your instance without your express permission, so it may affect support service levels and the Availability SLA. Availability SLA is then measured from the time that Support staff personnel are granted access to your instance.
 -   Remediation \(New\): Ensure the plugin "com.snc.snc\_access\_control" is activated. Read the documentation on activating at [https://www.servicenow.com/docs/csh?topicname=t\_ActivateSNCAccessControl.html&amp;version=latest.](https://www.servicenow.com/docs/csh?topicname=t_ActivateSNCAccessControl.html&version=latest.)
@@ -335,7 +335,7 @@ Enable the SNC Access Control \(com.snc.snc\_access\_control\) plugin to restric
 
 </td></tr><tr><td>
 
-[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](../reference/sc-managing-unlock-timeout-after-failed-logins.md)
+[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](sc-managing-unlock-timeout-after-failed-logins.md)
 
 </td><td>
 
@@ -357,7 +357,7 @@ Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(foun
 
 </td></tr><tr><td>
 
-[Restrict access to specific IP ranges plugin](../reference/sc-restrict-access-to-specific-ip-ranges-plugin.md)
+[Restrict access to specific IP ranges plugin](sc-restrict-access-to-specific-ip-ranges-plugin.md)
 
 </td><td>
 
@@ -366,7 +366,7 @@ Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(foun
 
 </td></tr><tr><td>
 
-[Restrict access to emails with empty target table](../reference/sc-restrict-access-to-emails-with-empty-target-table.md)
+[Restrict access to emails with empty target table](sc-restrict-access-to-emails-with-empty-target-table.md)
 
 </td><td>
 
@@ -375,7 +375,7 @@ Ensure that the **SNC User Lockout Check with Auto Unlock** script action \(foun
 
 </td></tr><tr><td>
 
-[Restrict downloadable MIME types](../reference/sc-downloadable-mime-type-denylist.md)
+[Restrict downloadable MIME types](sc-downloadable-mime-type-denylist.md)
 
 </td><td>
 
@@ -402,7 +402,7 @@ Follow the steps in [KB0756504](https://support.servicenow.com/kb?id=kb_article_
 
 </td></tr><tr><td>
 
-[Prevent inactive users from logging in](../reference/sc-prevent-inactive-users-from-logging-in.md)
+[Prevent inactive users from logging in](sc-prevent-inactive-users-from-logging-in.md)
 
 </td><td>
 
@@ -410,7 +410,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Enable MID audit log](../reference/sc-enable-mid-audit-log-plugin-applicability-mid-server.md)
+[Enable MID audit log](sc-enable-mid-audit-log-plugin-applicability-mid-server.md)
 
 </td><td>
 
@@ -418,7 +418,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Ensure archive table ACLs are checked](../reference/sc-ensure-archive-table-acls-are-checked.md)
+[Ensure archive table ACLs are checked](sc-ensure-archive-table-acls-are-checked.md)
 
 </td><td>
 
@@ -426,7 +426,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Define active session timeout exception roles](../reference/sc-define-active-session-timeout-exception-roles.md)
+[Define active session timeout exception roles](sc-define-active-session-timeout-exception-roles.md)
 
 </td><td>
 
@@ -435,7 +435,7 @@ Rule Script: Script has been updated to improve detection accuracy
 
 </td></tr><tr><td>
 
-[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-limit-http-response-body-size.md)
+[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](sc-limit-http-response-body-size.md)
 
 </td><td>
 
@@ -453,7 +453,7 @@ To protect your instance against these security vulnerabilities:
 
 </td></tr><tr><td>
 
-[Limit UI active session life span](../reference/sc-limit-ui-active-session-life-span.md)
+[Limit UI active session life span](sc-limit-ui-active-session-life-span.md)
 
 </td><td>
 

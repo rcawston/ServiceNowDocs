@@ -23,7 +23,7 @@ On upgrade to Zurich, active homepages are converted to Core UI responsive dashb
 
 Use the Homepage deprecation help tool to find all of your unconverted homepages in one place and convert them to dashboards, retire them, and restore retired homepages as dashboards.
 
-The Homepage deprecation help tool enables system and dashboard administrators to retire homepages or convert homepages to responsive dashboards using workflows. You can track migration status and assign tasks to users and groups. Retiring personal homepages includes a request sent to the owner for approval. The Homepage deprecation help tool is a store app for users with the admin and dashboard\_admin roles. To use this application, see [Install the Homepage deprecation help tool](../task/install-hp-dep-app.md).
+The Homepage deprecation help tool enables system and dashboard administrators to retire homepages or convert homepages to responsive dashboards using workflows. You can track migration status and assign tasks to users and groups. Retiring personal homepages includes a request sent to the owner for approval. The Homepage deprecation help tool is a store app for users with the admin and dashboard\_admin roles. To use this application, see [Install the Homepage deprecation help tool](install-hp-dep-app.md).
 
 To find the dashboard versions of converted homepages, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 

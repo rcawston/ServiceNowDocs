@@ -37,9 +37,9 @@ Role required: portfolio\_manager
     -   To update the details of a demand budget record, select the record.
 5.  On the Create New Project Funding form, fill in the fields.
 
-    **Tip:** You can work on allocating lean budgets at the fiscal period level using the Investment Budget. For more information, see [Enable lean budgeting for demands](../../planning-and-policy/task/config-investment-budget-demand.md).
+    **Tip:** You can work on allocating lean budgets at the fiscal period level using the Investment Budget. For more information, see [Enable lean budgeting for demands](../demand-management/config-investment-budget-demand.md).
 
-    For a description of the field names, see [Create project funding form](../reference/demand-budget-form-dw.md).
+    For a description of the field names, see [Create project funding form](demand-budget-form-dw.md).
 
 6.  Select **Save**.
 

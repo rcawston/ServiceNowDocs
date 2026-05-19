@@ -98,7 +98,7 @@ Select a tile to learn about the available platforms and content formats, and to
 
 </td><td>
 
-[Microsoft Teams ![](../../../reuse/icons/brand-icons/bus-chat.svg) Send messages on Microsoft Teams to drive employee action.](../../sn-teams/concept/using-campaigns-ms-teams-mt.md)
+[Microsoft Teams ![](../../../reuse/icons/brand-icons/bus-chat.svg) Send messages on Microsoft Teams to drive employee action.](using-campaigns-ms-teams-mt.md)
 
 </td></tr></tbody>
 </table>

@@ -18,5 +18,5 @@ A connection admin can create a connection to Delta Lake and give data stewards 
 **Related topics**  
 
 
-[Create a Delta Lake connection](../task/create-delta-lake-connection-zcc.md)
+[Create a Delta Lake connection](create-delta-lake-connection-zcc.md)
 

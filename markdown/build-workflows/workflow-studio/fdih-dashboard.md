@@ -50,7 +50,7 @@ The following example shows how the dashboard data is organized into sections, c
 
 ![Sample data of top 10 flow runs.](../images/fdih-dashboard-flow-usage-example.png "FDIH Dashboard showing sample flow usage")
 
--   **[Get insights from the FDIH Dashboard](../task/get-insights-fdih-dashboard.md)**  
+-   **[Get insights from the FDIH Dashboard](get-insights-fdih-dashboard.md)**  
 Use the FDIH Dashboard to get insights on flow executions and historical performance.
 
 **Parent Topic:**[Flow administration](flow-administration.md)

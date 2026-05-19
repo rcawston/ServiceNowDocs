@@ -22,5 +22,5 @@ There are two types of condition field.
 
 The system evaluates both types of condition field to determine if the conditions are true or false. When true, the system runs the business logic. When false, the system ignores the business logic.
 
-To find dictionary attributes that affect condition fields, see [Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md).
+To find dictionary attributes that affect condition fields, see [Altering tables and fields using dictionary attributes](table-administration-and-data-management/c_DictionaryAttributes.md).
 

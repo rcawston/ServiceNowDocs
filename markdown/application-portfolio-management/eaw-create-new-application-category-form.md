@@ -24,7 +24,7 @@ Create an application category to categorize applications and rationalize decisi
 **Related topics**  
 
 
-[Manage application categories](../../concept/eaw-concept/eaw-configure-application-categories.md)
+[Manage application categories](eaw-configure-application-categories.md)
 
-[Add or edit an application category](../../task/eaw-task/eaw-create-app-category.md)
+[Add or edit an application category](eaw-create-app-category.md)
 

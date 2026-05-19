@@ -53,12 +53,12 @@ Role required: sn\_slm.admin
 
 You can compose and send emails directly from a supplier case or a supplier task in the Source-to-Pay Workspace.
 
-**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
 **Related topics**  
 
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
 [Configure access to the compose email feature](config-access-compose-email.md)
 

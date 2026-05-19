@@ -23,16 +23,16 @@ As an employee, you can do the following:
 -   View direct reports and other reports of a user. The total number of reports is displayed on the user card.
 -   Perform quick actions based on the org chart action group.
 
-For more information on widget instance options, see [Organization chart in Employee Center Pro](../concept/employee-profile-org-chart.md) and [Modify the org chart widget display](config-orgchart-instanceoptions.md).
+For more information on widget instance options, see [Organization chart in Employee Center Pro](employee-profile-org-chart.md) and [Modify the org chart widget display](config-orgchart-instanceoptions.md).
 
-**Parent Topic:**[Using Employee Center](../concept/using-emp-center.md)
+**Parent Topic:**[Using Employee Center](using-emp-center.md)
 
 **Related topics**  
 
 
-[Use the Employee Center topic pages](../concept/ec-topic-use.md)
+[Use the Employee Center topic pages](ec-topic-use.md)
 
-[Topic managers and contributors for topic page management](../concept/topic-managers-and-contributors-for-topic-page-management.md)
+[Topic managers and contributors for topic page management](topic-managers-and-contributors-for-topic-page-management.md)
 
 [Use the My To-dos page](ec-to-dos-use.md)
 
@@ -42,21 +42,21 @@ For more information on widget instance options, see [Organization chart in Empl
 
 [Manage approvals from a Microsoft Outlook email](../../sn-ms-outlook/task/oam-concur.md)
 
-[Task filters on My tasks](../concept/configurable-filters-experience.md)
+[Task filters on My tasks](configurable-filters-experience.md)
 
-[View the Recommended for you content](../concept/rfy-employee.md)
+[View the Recommended for you content](rfy-employee.md)
 
 [Use Employee Center from Zoom](zoom-create-email-notification.md)
 
-[View employee profile](../concept/update-employee-profile.md)
+[View employee profile](update-employee-profile.md)
 
-[Use Personalized Answers](../concept/using-personalized-search-on-employee-center.md)
+[Use Personalized Answers](using-personalized-search-on-employee-center.md)
 
-[RTL support for Employee Center](../concept/ec-rtl-language-support.md)
+[RTL support for Employee Center](ec-rtl-language-support.md)
 
 [Manage favorites](web-configure-favorites-employee.md)
 
-[Access applications from App Launcher](../concept/web-application-employee.md)
+[Access applications from App Launcher](web-application-employee.md)
 
-[Use Guided Self-Service](../concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

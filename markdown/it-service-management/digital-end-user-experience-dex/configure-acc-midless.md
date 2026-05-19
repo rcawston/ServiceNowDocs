@@ -112,5 +112,5 @@ Explains what the specified command does.
 </table>2.  Restart the agent for the configuration settings to be entered into the `acc.yml` file.
 
 
-**Parent Topic:**[Advanced configuration](../../product/digital-end-user-experience/concept/dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
 

@@ -60,10 +60,10 @@ The available detection policy providers are:
 
 3.  Select either **Country Customer Script** or **Policy Customer Script** and enter a script to determine either the user’s location or the user’s consent policy, and to return a value.
 
-    **Note:** You can use the system property **glide.analytics.consent.script\_timeout** to define the run time of the script. For more information, see [Usage Insights related properties](../reference/all-analytics-properties.md).
+    **Note:** You can use the system property **glide.analytics.consent.script\_timeout** to define the run time of the script. For more information, see [Usage Insights related properties](all-analytics-properties.md).
 
     For more information on using scripts, see [JavaScript syntax editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_SyntaxEditor.md).
 
 
-**Parent Topic:**[Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md)
+**Parent Topic:**[Types of tracking consent policies in Usage Insights](uxa-tracking-types.md)
 

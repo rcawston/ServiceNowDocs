@@ -76,7 +76,7 @@ The virtual meeting provider is added. To enable employees to add a virtual meet
 -   Zoom: If a Zoom meeting link is added, the link appears in the **Location** field of the email containing the meeting invite.
 -   Microsoft Teams: When a reservation is created with a virtual meeting link, the application retrieves the meeting link and the joining-related details and saves them on the reservation record. When this reservation is synchronized with Microsoft Outlook calendar, the meeting link and the joining-related details are added to the body of the calendar event. Similarly, when a reservation is created in the Microsoft Outlook calendar using the **Teams meeting** toggle button, the meeting link is retrieved and saved as a virtual meeting link on the reservation record.
 
-    **Note:** As the meeting link appears in the body of the email, in any case, if you want to update or change the meeting details, you must do it only using the Workplace Reservation Management. Because when a reservation synchronization is performed, the details \(in this case, the meeting link and details\) are synchronized only in one way, that is, from Workplace Reservation Management to the calendar provider\(in this case Microsoft Teams\). If you already made any changes to the meeting details or the notes from the calendar provider, it is overwritten by Workplace Reservation Management when a synchronization is performed. For more information, refer to [Explore Workplace Calendar Synchronization](../../workplace-calendar-synchronization/concept/workplace-calendar-synchronization-overview.md).
+    **Note:** As the meeting link appears in the body of the email, in any case, if you want to update or change the meeting details, you must do it only using the Workplace Reservation Management. Because when a reservation synchronization is performed, the details \(in this case, the meeting link and details\) are synchronized only in one way, that is, from Workplace Reservation Management to the calendar provider\(in this case Microsoft Teams\). If you already made any changes to the meeting details or the notes from the calendar provider, it is overwritten by Workplace Reservation Management when a synchronization is performed. For more information, refer to [Explore Workplace Calendar Synchronization](../workplace-calendar-synchronization/workplace-calendar-synchronization-overview.md).
 
 -   **Any other virtual meeting providers**: The meeting link is added in the **Location** field of the email containing the meeting invite.
 
@@ -86,7 +86,7 @@ For the meeting link to appear as above, the following plugin versions are requi
 -   Microsoft Teams Communications spoke version 1.3.0 and later.
 -   Latest version of Workplace Reservation Management application.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
 
 **Related topics**  
 
@@ -125,9 +125,9 @@ For the meeting link to appear as above, the following plugin versions are requi
 
 [Display name of the person reserving a space](displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](rsv-config-rsv-mod-value.md)
 

@@ -19,7 +19,7 @@ The SPScriptedFacetService API can only be used in a facet generation script in 
 
 There is no constructor for this class. Instead, use the createFacet\(\) or createMultiChoiceFacet\(\) methods to generate a facets object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SPScriptedFacetService - createFacet\(String label, String id\)
 

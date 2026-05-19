@@ -51,7 +51,7 @@ Proceed to [Manage approvals with Now Assist Approval Assistance AI agent](manag
 
 **Note:** Ensure the portal approval record is configured as explained in 
 
-**Parent Topic:**[Using Now Assist for Employee Experience](../concept/use-now-assist-for-emp-exp.md)
+**Parent Topic:**[Using Now Assist for Employee Experience](use-now-assist-for-emp-exp.md)
 
 **Related topics**  
 

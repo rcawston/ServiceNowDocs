@@ -37,12 +37,12 @@ For example, you maintain interfaces to several ERP systems, have currency conve
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+**Parent Topic:**[Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 
 **Related topics**  
 
 
-[Understanding FX Currency values in lists and reports](../concept/fx-currency-values-lists-reports.md)
+[Understanding FX Currency values in lists and reports](fx-currency-values-lists-reports.md)
 
-[Understanding FX Currency values in forms](../concept/fx-currency-values-forms.md)
+[Understanding FX Currency values in forms](fx-currency-values-forms.md)
 

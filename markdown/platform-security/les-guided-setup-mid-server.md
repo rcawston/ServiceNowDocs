@@ -160,5 +160,5 @@ Role required: admin
         **Note:** If you make any change in one of the Consumer records, it shows up on the Consumer Status view page. If you select a consumer record name on the Consumer Status list, the Consumer form for the selected record opens. You can then update the Name and Destination Configuration of the selected record.
 
 
-**Parent Topic:**[MID server consumer](../concept/les-mid-server-consumer.md)
+**Parent Topic:**[MID server consumer](les-mid-server-consumer.md)
 

@@ -62,12 +62,12 @@ Scan your ServiceNow instance for findings. These scans return the findings and 
 
 Scans are initiated in different ways. They run using the Scan Engine properties you configured.
 
-For more information, see [Configure Scan Engine properties](configure-scan-engine-properties.md) and [Configure definition properties](../reference/additional-scan-engine-properties.md).
+For more information, see [Configure Scan Engine properties](configure-scan-engine-properties.md) and [Configure definition properties](additional-scan-engine-properties.md).
 
 **Related topics**  
 
 
-[Full and delta instance scan initiation](../concept/scan-engine-parallel-processing.md)
+[Full and delta instance scan initiation](scan-engine-parallel-processing.md)
 
 [scan-engine-parallel-processing-task.md](scan-engine-parallel-processing-task.md)
 

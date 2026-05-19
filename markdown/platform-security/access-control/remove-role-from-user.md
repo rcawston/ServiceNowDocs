@@ -68,6 +68,6 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     -   If Access Simulator isn’t enabled, you can't complete the simulation. To enable it, select **Enable actions** and accept the legal information.
     -   To hide the simulation, select **Hide actions**. To unhide and enable actions, go to **Settings**. For more information, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
     -   To exit the simulation without applying the simulated changes, select **Skip and Exit**.
-    If you clicked **Remove and complete**, the roles are successfully removed from the user. You can verify the access again using the Access Analyzer. For more information about how to verify the access of a user, see [Access Analyzer](../concept/access-analyzer.md).
+    If you clicked **Remove and complete**, the roles are successfully removed from the user. You can verify the access again using the Access Analyzer. For more information about how to verify the access of a user, see [Access Analyzer](access-analyzer.md).
 
 

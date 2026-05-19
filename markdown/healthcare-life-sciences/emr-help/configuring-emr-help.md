@@ -25,7 +25,7 @@ Hospital staff using the EMR system often encounter various challenges. In the e
 
 Simultaneously, relevant EMR variables, such as workstation ID, patient details, clinician information, and the specific screen involved, are fetched from the EMR system and stored in a dedicated table within the EMR Help application. This additional information enhances the service request, providing fulfillers with crucial details for effective troubleshooting.
 
--   [Install EMR Help](../task/install-emr-help.md).
+-   [Install EMR Help](install-emr-help.md).
 
     Install the EMR Help application to integrate your ServiceNow instance with an EMR system.
 
@@ -37,19 +37,19 @@ Simultaneously, relevant EMR variables, such as workstation ID, patient details,
 
     For more information, see [EMR Help data model](emr-data-model.md).
 
--   [Configure request parameters for EMR systems](../task/configure-emr-help-req-parm.md).
+-   [Configure request parameters for EMR systems](configure-emr-help-req-parm.md).
 
     Configure the remote request parameters for an EMR system.
 
--   [Configure request definitions for EMR systems](../task/configure-emr-help-req-def.md).
+-   [Configure request definitions for EMR systems](configure-emr-help-req-def.md).
 
     Create or modify request definitions to support IT service requests from an EMR system. In addition, map the remote request parameters with the columns of the request data table associated with your task.
 
--   [Assign roles for EMR Help users](../task/assign-emr-help-roles.md).
+-   [Assign roles for EMR Help users](assign-emr-help-roles.md).
 
     Assign roles to control access to features, capabilities, and data in the EMR Help application.
 
--   [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+-   [Configure healthcare case types for EMR Help](configure-hcls-case-types-for-emr-help.md).
 
     Configure healthcare case types for EMR Help in to fulfill service requests made from the EMR Help portal.
 
@@ -79,7 +79,7 @@ Simultaneously, relevant EMR variables, such as workstation ID, patient details,
 
     Encrypt fields, attachments, or both to secure your EMR system data.
 
--   \(Optional\) [Customize the URL and REST API task parameters for EMR systems](../task/emr-help-custom.md).
+-   \(Optional\) [Customize the URL and REST API task parameters for EMR systems](emr-help-custom.md).
 
     Use scripted extension points to manipulate URL parameters and REST API task parameters for an EMR system.
 

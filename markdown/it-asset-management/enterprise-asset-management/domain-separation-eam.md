@@ -56,45 +56,45 @@ To learn more, see [Domain separation explained](https://raw.githubusercontent.c
 **Related topics**  
 
 
-[Enterprise Asset Management roles](../reference/eam-roles.md)
+[Enterprise Asset Management roles](eam-roles.md)
 
-[OT Asset Workspace roles](../reference/ot-workspace-roles.md)
+[OT Asset Workspace roles](ot-workspace-roles.md)
 
-[Asset fields for enterprise assets](../reference/asset-fields-eam.md)
+[Asset fields for enterprise assets](asset-fields-eam.md)
 
-[Asset audit fields for enterprise assets](../reference/asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](asset-audit-record-fields-eam.md)
 
-[Audit results](../reference/audit-results-eam.md)
+[Audit results](audit-results-eam.md)
 
-[Enterprise model categories and corresponding classes](../reference/enterprise-model-categories.md)
+[Enterprise model categories and corresponding classes](enterprise-model-categories.md)
 
-[Mandatory fields in the bulk import spreadsheets](../reference/mandatory-bulk-fields.md)
+[Mandatory fields in the bulk import spreadsheets](mandatory-bulk-fields.md)
 
-[Normalization status for enterprise models](../reference/norm-status-eam.md)
+[Normalization status for enterprise models](norm-status-eam.md)
 
-[Model fields for Enterprise Asset Management](../reference/eam-model-fields.md)
+[Model fields for Enterprise Asset Management](eam-model-fields.md)
 
-[Contract fields for Enterprise Asset Management](../reference/contract-fields-eam.md)
+[Contract fields for Enterprise Asset Management](contract-fields-eam.md)
 
-[Maintenance plan fields for Enterprise Asset Management](../reference/maintenance-plan-fields-eam.md)
+[Maintenance plan fields for Enterprise Asset Management](maintenance-plan-fields-eam.md)
 
-[Maintenance schedule fields for Enterprise Asset Management](../reference/maintenance-schedule-fields-eam.md)
+[Maintenance schedule fields for Enterprise Asset Management](maintenance-schedule-fields-eam.md)
 
-[Work plan fields for Enterprise Asset Management](../reference/wp-fields-eam.md)
+[Work plan fields for Enterprise Asset Management](wp-fields-eam.md)
 
-[Work plan schedule fields for Enterprise Asset Management](../reference/work-plan-schedule-fields-eam.md)
+[Work plan schedule fields for Enterprise Asset Management](work-plan-schedule-fields-eam.md)
 
-[Expense line fields for Enterprise Asset Management](../reference/expense-line-fields-eam.md)
+[Expense line fields for Enterprise Asset Management](expense-line-fields-eam.md)
 
-[Fields inherited from a parent asset group to a sub group](../reference/subgroups-parent-fields-eam.md)
+[Fields inherited from a parent asset group to a sub group](subgroups-parent-fields-eam.md)
 
-[Enterprise asset disposal order stages](../reference/eamasset-disposalorder-stages.md)
+[Enterprise asset disposal order stages](eamasset-disposalorder-stages.md)
 
-[Terminology for linear assets](../reference/terms-eam.md)
+[Terminology for linear assets](terms-eam.md)
 
-[Scheduled jobs and tables installed with normalization of firmware models](../reference/firmware-tables-jobs-ot.md)
+[Scheduled jobs and tables installed with normalization of firmware models](firmware-tables-jobs-ot.md)
 
-[Asset put away task fields](../reference/put-away-task-form-eam.md)
+[Asset put away task fields](put-away-task-form-eam.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

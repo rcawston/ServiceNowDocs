@@ -30,7 +30,7 @@ A detailed explanation of license rights is provided for the following metric gr
 -   Citrix
 -   Common
 
-For details on viewing the explanation of license rights, see [View calculations for your licenses in workspace](../task/licenses-required-workspace.md)
+For details on viewing the explanation of license rights, see [View calculations for your licenses in workspace](licenses-required-workspace.md)
 
 ## Use case for Per Device license metric
 

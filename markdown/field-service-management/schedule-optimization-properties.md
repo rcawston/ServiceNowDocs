@@ -41,7 +41,7 @@ Qualifier type for schedule optimization
 
 </td><td>
 
-The qualifier type for schedule optimization determines the criteria used to optimize schedules. There are two qualifier types available: "Assignment group" and "Territory."When the Field Service Territory model is enabled, the qualifier type automatically switches to "Territory" and remains fixed. This means that when the Territory model is active, the optimization process focuses on territories instead of assignment groups. For more information, see [Enable the Field Service territory model](../task/enable-territory-model.md).
+The qualifier type for schedule optimization determines the criteria used to optimize schedules. There are two qualifier types available: "Assignment group" and "Territory."When the Field Service Territory model is enabled, the qualifier type automatically switches to "Territory" and remains fixed. This means that when the Territory model is active, the optimization process focuses on territories instead of assignment groups. For more information, see [Enable the Field Service territory model](workforce-optimization-for-field-service/enable-territory-model.md).
 
 -   Type: String
 -   Default value: Assignment group
@@ -934,9 +934,9 @@ Controls balanced events load distribution for custom queue sn\_schedule\_optim.
 **Related topics**  
 
 
-[Configuring Schedule Optimization](../concept/schedule-optimization-engine.md)
+[Configuring Schedule Optimization](field-service-scheduling/schedule-optimization-engine.md)
 
-[Optimizing technician schedules at set intervals throughout the day](../task/optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](field-service-scheduling/optimize-your-schedules-intraday.md)
 
-[Configuring log levels for detailed optimization analysis](../task/configuring-log-levels-for-detailed-optimization-analysis.md)
+[Configuring log levels for detailed optimization analysis](field-service-scheduling/configuring-log-levels-for-detailed-optimization-analysis.md)
 

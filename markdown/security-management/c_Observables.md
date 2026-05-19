@@ -17,21 +17,21 @@ Sets of cyber observables are useful for identifying indicators of compromise wh
 
 Observables apply for STIX 1.1 and 2.x.
 
--   **[Define an observable](../task/t_AddObservable.md)**  
+-   **[Define an observable](t_AddObservable.md)**  
 Observables are retrieved from the vendor server as STIX data. However, you can create observables, as needed.
--   **[Add a related IoC to an observable](../task/t_AddIoCToObserv.md)**  
+-   **[Add a related IoC to an observable](t_AddIoCToObserv.md)**  
 In addition to importing observables as STIX data, you can add related observables to an IoC manually.
--   **[Add associated tasks to an observable](../task/t_AddAssociatedTasksToObservable.md)**  
+-   **[Add associated tasks to an observable](t_AddAssociatedTasksToObservable.md)**  
 In addition to importing associated tasks \(such as changes and incidents\) as STIX data, you can add them to an observable manually.
--   **[Add a related observable](../task/t_AddRelatedObservable.md)**  
+-   **[Add a related observable](t_AddRelatedObservable.md)**  
 In addition to importing observables as STIX data, you can add related observables manually.
--   **[Load more IoC data](../task/t_LoadAdditionalIoCData.md)**  
+-   **[Load more IoC data](t_LoadAdditionalIoCData.md)**  
 Depending on settings in two properties and a script include definition, you can load geolocation information for IP addresses and websites in the Observables form. With further customization, you can also add other information, such as country codes, city names.
--   **[Identify observable sources](../task/t_IdentifyObservbleSources.md)**  
+-   **[Identify observable sources](t_IdentifyObservbleSources.md)**  
 If an observable has no sources defined, it uses all types of sources. However, if you add one or more threat sources to an observable, it limits the sources used.
--   **[Perform lookups on observables](../task/perform-lookups-on-observables.md)**  
+-   **[Perform lookups on observables](perform-lookups-on-observables.md)**  
 You can perform threat intelligence lookups on one or more observables to determine whether they’re associated with known security threats. The scanning implementations that run depend on the ones you’ve activated.
--   **[Perform threat enrichment on observables](../task/perform-enrich-on-observs.md)**  
+-   **[Perform threat enrichment on observables](perform-enrich-on-observs.md)**  
 You can perform threat intelligence enrichment on one or more observables to determine whether they’re associated with known security threats. The implementations that run depend on the ones you’ve activated.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

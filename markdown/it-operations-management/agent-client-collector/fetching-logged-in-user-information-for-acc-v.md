@@ -47,5 +47,5 @@ You can automatically populate Assigned to for Windows endpoint devices and macO
 
 No new user account is created in the sys\_user table. Instead, the existing user is queryied and the same is referenced as Assigned To user for a CI.
 
-**Parent Topic:**[Agent Client Collector Discovery](../concept/acc-discovery.md)
+**Parent Topic:**[Agent Client Collector Discovery](acc-discovery.md)
 

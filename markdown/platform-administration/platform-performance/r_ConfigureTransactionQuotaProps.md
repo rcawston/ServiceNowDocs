@@ -60,10 +60,10 @@ Controls whether to display \(true\) or hide \(false\) additional debugging info
  Location: Add to the \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 
 **Related topics**  
 
 
-[Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Add a system property](../r_AvailableSystemProperties.md#)
 

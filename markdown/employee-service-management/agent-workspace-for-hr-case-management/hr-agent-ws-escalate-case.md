@@ -19,7 +19,7 @@ Escalate an HR case when you are unable to resolve an issue and must amplify the
 
 Role required: sn\_hr\_core.case\_writer
 
-The matching rules you have implemented will determine the group and agent the case is escalated to. For more information, see [Assignment and matching rules in HR](../concept/c_UseAssignmentRules-1.md) and [Configure escalation rules for HR cases](t_CreateOrModifyEscalationRules.md).
+The matching rules you have implemented will determine the group and agent the case is escalated to. For more information, see [Assignment and matching rules in HR](../employee-service-management/c_UseAssignmentRules-1.md) and [Configure escalation rules for HR cases](../hr-service-delivery/t_CreateOrModifyEscalationRules.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ The matching rules you have implemented will determine the group and agent the c
 
 2.  Find the case you want to transfer.
 
-    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](../concept/agent-ws-hr-case-mgmt-use.md).
+    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](agent-ws-hr-case-mgmt-use.md).
 
 3.  Select the ![More icon](../reference/images/EllipsisIcon.png) more icon.
 

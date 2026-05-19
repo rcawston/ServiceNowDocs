@@ -17,16 +17,16 @@ The Community Service Portal is a web interface that is based on the ServiceNow 
 
 The Community Service Portal is designed to allow you to have control over the behavior of your portal and help create an attractive and engaging user experience.
 
--   **[Customize Community Service Portal](../task/customize-community-service-portal.md)**  
+-   **[Customize Community Service Portal](customize-community-service-portal.md)**  
 Customize community service portal according to your needs.
--   **[Configure Community Service Portal header menus](../task/configure-unified-theme-portal.md)**  
+-   **[Configure Community Service Portal header menus](configure-unified-theme-portal.md)**  
 Configure Community Service Portal header menus to create a consistent user experience across all your end-user facing service portals using a modern interface and a unified navigation menu structure.
--   **[Configure announcement for community members](../task/manage-announcements.md)**  
+-   **[Configure announcement for community members](manage-announcements.md)**  
 Global announcements appear in the banner and broadcast messages to all community members. Forum announcements appear in the Announcements section on the forum page. You can also send the announcement by email.
--   **[Community pages that support SEO data](../reference/communities-seo-data.md)**  
+-   **[Community pages that support SEO data](communities-seo-data.md)**  
 To improve search results for community members using external search engines, the Communities application generates SEO meta tags and injects the tags into questions, topics, forums, and other page types.
 
-**Parent Topic:**[Configuring communities](../reference/configure-communities.md)
+**Parent Topic:**[Configuring communities](configure-communities.md)
 
 **Related topics**  
 
@@ -37,37 +37,37 @@ To improve search results for community members using external search engines, t
 
 [Community access types](access-types.md)
 
-[Platform Analytics Solutions for Communities](../../../use/dashboards/application-content-packs/communities-content-pack.md)
+[Platform Analytics Solutions for Communities](communities-content-pack.md)
 
-[Migrate Social Q&amp;A data to Communities](../task/migrate-socialqa.md)
+[Migrate Social Q&amp;A data to Communities](migrate-socialqa.md)
 
-[View community logs](../task/view-community-logs.md)
+[View community logs](view-community-logs.md)
 
-[View community feedback and bookmarks tables](../task/view-feedback-bookmark-tables.md)
+[View community feedback and bookmarks tables](view-feedback-bookmark-tables.md)
 
 [Create a case from a discussion](case-management-integration.md)
 
 [Enable knowledge harvesting](communities-km-integration-configure.md)
 
-[Activate Communities plugins](../task/activate-communities.md)
+[Activate Communities plugins](activate-communities.md)
 
-[Community setup guide for admins](../reference/r_setup-communities-admin.md)
+[Community setup guide for admins](r_setup-communities-admin.md)
 
-[Configure community content types](../task/enable-content-types-for-community.md)
+[Configure community content types](enable-content-types-for-community.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](create-video-configuration.md)
 
-[Configure community forums](../task/configure-forums-topics.md)
+[Configure community forums](configure-forums-topics.md)
 
 [Forum and user permissions management](communities-permissions.md)
 
-[Configure the community profile](../task/configure-community-profile.md)
+[Configure the community profile](configure-community-profile.md)
 
-[Create community Terms and Conditions](../task/create-terms-conditions.md)
+[Create community Terms and Conditions](create-terms-conditions.md)
 
 [Enable users to self-register to a community](configure-registration.md)
 
-[Moderate a community](../task/moderate-communities.md)
+[Moderate a community](moderate-communities.md)
 
 [Administer gamification](communities-gamification-administer.md)
 

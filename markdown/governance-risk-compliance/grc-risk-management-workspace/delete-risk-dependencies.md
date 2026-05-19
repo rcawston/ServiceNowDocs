@@ -38,5 +38,5 @@ Role required: sn\_risk.manager
     **Note:** Only the relationship between the risks is deleted. The risks themselves remain unmodified.
 
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

@@ -60,10 +60,10 @@ You can provide feedback for your coach when the assessment is in resolved, clos
 |Due date|2018-10-25 05:18:59|
 |Resolved by Virtual Coach|Selected|
 
-**Parent Topic:**[Managing your coaching assessments](../concept/cf-getting-coached.md)
+**Parent Topic:**[Managing your coaching assessments](cf-getting-coached.md)
 
 **Related topics**  
 
 
-[Coaching field descriptions](../reference/cf-coaching-field-descriptions.md)
+[Coaching field descriptions](cf-coaching-field-descriptions.md)
 

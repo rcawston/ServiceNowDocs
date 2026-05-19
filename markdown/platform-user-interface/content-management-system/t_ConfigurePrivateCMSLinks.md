@@ -57,5 +57,5 @@ You accomplish this procedure by creating a private UI page to redirect CMS link
         **Note:** If you are using SAML 2.0 update 1 for SSO, use the UI page **saml\_redirector** instead of creating a new UI page. For example, an email link to a SAML 2.0 redirector page would use the URL format:`http://<instance name>.service-now.com/` **saml\_redirector.do** `?sysparm_uri=/ess/incident.do%26sys_id=46e3e949a9fe19810069b824ba2c761a.`
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](c_ContentPages.md)
 

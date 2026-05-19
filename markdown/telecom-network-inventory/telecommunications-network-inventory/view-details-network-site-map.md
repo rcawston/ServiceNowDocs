@@ -127,10 +127,10 @@ Select a site to view the number of associated change requests on the details pa
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Geo map](../concept/using-network-site-map.md)
+**Parent Topic:**[Geo map](using-network-site-map.md)
 
 **Related topics**  
 
 
-[Geo map](../concept/visualization-map.md)
+[Geo map](visualization-map.md)
 

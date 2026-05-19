@@ -44,15 +44,15 @@ If the current activity is included in the filtered results, it remains highligh
 **Related topics**  
 
 
-[Using the activity stream in the contextual side panel](../concept/csm-playbooks-using-activity-stream.md)
+[Using the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)
 
-[Viewing dynamic related records in the contextual side panel](../concept/csm-playbooks-viewing-rel-records.md)
+[Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
 
-[Viewing ribbon information in the contextual side panel](../concept/csm-playbooks-viewing-ribbon-info.md)
+[Viewing ribbon information in the contextual side panel](csm-playbooks-viewing-ribbon-info.md)
 
-[Add an optional activity](../concept/using-customized-playbook-experience-for-customer-service-management.md)
+[Add an optional activity](using-customized-playbook-experience-for-customer-service-management.md)
 
-[Summarize a case](../concept/case-summarization-in-process-page.md)
+[Summarize a case](case-summarization-in-process-page.md)
 
 [Create a record using a playbook](csm-playbook-create-record.md)
 

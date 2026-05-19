@@ -60,5 +60,5 @@ If approved, your decision is recorded for the quote approval step, and the appr
 
 If rejected, the approval request is marked as rejected and the quote is returned for further review or updates, based on the configured approval process.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

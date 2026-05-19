@@ -190,5 +190,5 @@ As an Event Management operator, you can associate a knowledge base \(KB\) artic
 -   **[Put an alert into maintenance](operator-put-alert-into-maintenance.md)**  
 As an Event Management operator, you can put an alert into maintenance if the alert does not require any further action, but you still want to keep the alert active. Putting the alert into maintenance hides it from the Service Operations Workspace dashboard so that other operators do not need to access it, but it does not close the alert.
 
-**Parent Topic:**[What Event Management operators do](../concept/operator-process.md)
+**Parent Topic:**[What Event Management operators do](operator-process.md)
 

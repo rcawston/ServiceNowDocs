@@ -30,5 +30,5 @@ Role required: Any role to open an exploration that has been shared with you. no
 4.  Select the exploration name to open it.
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

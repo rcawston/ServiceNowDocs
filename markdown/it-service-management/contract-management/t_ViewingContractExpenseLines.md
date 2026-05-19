@@ -40,7 +40,7 @@ Role required: asset, financial\_mgmt\_user\(core UI and Hardware Asset Workspac
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](ContractRateCardForm.md)
 
 [Create a new expense line](t_CreatingANewExpenseLine.md)
 

@@ -118,7 +118,7 @@ If you want to refresh the summary, select the refresh icon \(![Refresh icon.](.
 **Related topics**  
 
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../concept/now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](../concept/now-assist-slo-va.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](now-assist-slo-va.md)
 

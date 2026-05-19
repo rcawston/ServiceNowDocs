@@ -153,5 +153,5 @@ A new policy is in **Draft** state. Click **Publish** on the form header to enfo
 
 [Configure one or more cloud policy rules](configure-cloud-policy-rule.md).
 
-**Parent Topic:**[Policies for Cloud Provisioning](../concept/cloud-policy.md)
+**Parent Topic:**[Policies for Cloud Provisioning](cloud-policy.md)
 

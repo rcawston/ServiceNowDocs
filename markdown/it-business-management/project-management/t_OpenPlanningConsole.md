@@ -37,7 +37,7 @@ Steps
 
 </td><td>
 
-1.  Open a project record in [project workspace](access-the-project-workspace.md).
+1.  Open a project record in [project workspace](../project-workspace/access-the-project-workspace.md).
 2.  Select the **Planning** tab.
 
 
@@ -63,22 +63,22 @@ Steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Planning console - Legacy](../concept/c_TheProjectPlanningConsole.md)
+**Parent Topic:**[Using Planning console - Legacy](c_TheProjectPlanningConsole.md)
 
 **Related topics**  
 
 
-[Planning console tasks](../reference/r_PlanningConsoleTasks.md)
+[Planning console tasks](r_PlanningConsoleTasks.md)
 
-[Client side planning console](../concept/client-side-planning-console.md)
+[Client side planning console](client-side-planning-console.md)
 
-[Gantt chart](../concept/c_GanttChart.md)
+[Gantt chart](c_GanttChart.md)
 
 [Create a parent-child relationship on the planning console](t_CreateParentChildRelatConsole.md)
 
-[Predecessor dependencies in the planning console](../reference/r_ProjectTaskDependencyValues.md)
+[Predecessor dependencies in the planning console](r_ProjectTaskDependencyValues.md)
 
-[Custom columns in the planning console](../concept/custom-columns-planning-console.md)
+[Custom columns in the planning console](custom-columns-planning-console.md)
 
 [Create a dependency from the planning console](t_CreateADependency.md)
 

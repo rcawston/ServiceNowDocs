@@ -40,7 +40,7 @@ Create search criteria for your launcher screen to help your users find related 
 
 ## Voice search
 
-Voice search enables your users to use global search using the speech recognition feature of their mobile device. Users access voice search by tapping the microphone icon \(![Microphone icon](../image/mic-icon.png)\) that appears on the right side of a search bar. For more information on configuring voice search, see [Enable voice search](../../mobile-employee/task/turn-on-voice-search.md).
+Voice search enables your users to use global search using the speech recognition feature of their mobile device. Users access voice search by tapping the microphone icon \(![Microphone icon](../image/mic-icon.png)\) that appears on the right side of a search bar. For more information on configuring voice search, see [Enable voice search](turn-on-voice-search.md).
 
 ## Photo search
 

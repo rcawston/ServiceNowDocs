@@ -112,5 +112,5 @@ Query on related CIs using a field that the parent and ancestor parent CI classe
 **Related topics**  
 
 
-[CMDB groups](../concept/cmdb-groups.md#)
+[CMDB groups](cmdb-groups.md#)
 

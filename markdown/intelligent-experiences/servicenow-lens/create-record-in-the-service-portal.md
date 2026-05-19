@@ -132,7 +132,7 @@ The catalog item form is auto-filled.
 
     The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon ![Service Portal AI Sparkle icon.](../image/lens-sp-sparkle-icon.png).
 
-    Only the field types that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If the form doesn't have field types that are supported, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](../reference/field-types-supported.md).
+    Only the field types that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If the form doesn't have field types that are supported, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](field-types-supported.md).
 
 <table id="choicetable_g1q_l32_2hc"><thead><tr><th align="left" id="d56223e461">
 

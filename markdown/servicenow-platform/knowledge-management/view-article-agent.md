@@ -53,9 +53,9 @@ The selected version of the article opens in a knowledge article view page displ
 **Related topics**  
 
 
-[Viewing knowledge article details in Agent Workspace](../concept/knowledge-article-view-page-workspace.md)
+[Viewing knowledge article details in Agent Workspace](knowledge-article-view-page-workspace.md)
 
-[Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md)
+[Managing access to knowledge bases and knowledge articles](user-access-knowledge.md)
 
 [Provide feedback for a knowledge article in Agent Workspace](respond-evaluate-articles-agent.md)
 

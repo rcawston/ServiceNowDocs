@@ -26,5 +26,5 @@ Demand actions are strategic decisions that you want to execute for an applicati
 **Related topics**  
 
 
-[Add or edit a demand action](../../task/eaw-task/eaw-add-edit-demand-action.md)
+[Add or edit a demand action](eaw-add-edit-demand-action.md)
 

@@ -37,7 +37,7 @@ Publishing a TRM catalog involves creating a publishing configuration in the Pub
 
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new publishing configuration form](../../reference/eaw-reference/create-pub-config-form.md).
+    For field information, see [Create new publishing configuration form](create-pub-config-form.md).
 
 7.  Select **Save**.
 
@@ -57,7 +57,7 @@ When you create a new TRM publishing configuration, the system automatically cre
 
 -   **Run logs**- displays the publishing status. You can also open the run log link and article configuration links to see all details for the published catalog. For more details, see [View publishing status and run log](view-run-log.md).
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
@@ -72,5 +72,5 @@ When you create a new TRM publishing configuration, the system automatically cre
 
 [Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

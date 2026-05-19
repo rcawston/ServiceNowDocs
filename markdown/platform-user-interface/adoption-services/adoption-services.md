@@ -37,27 +37,27 @@ Choose one of the tiles to get started.
 
 </td><td>
 
-[Onboarding modals](../../../administer/navigation-and-ui/concept/next-experience-onboarding.md)
+[Onboarding modals](next-experience-onboarding.md)
 
- [![](../../../reuse/icons/brand-icons/bus-monitor.svg)](../../../administer/navigation-and-ui/concept/next-experience-onboarding.md)
+ [![](../../../reuse/icons/brand-icons/bus-monitor.svg)](next-experience-onboarding.md)
 
- [Create onboarding modals to introduce users to new experiences, products, and applications.](../../../administer/navigation-and-ui/concept/next-experience-onboarding.md)
+ [Create onboarding modals to introduce users to new experiences, products, and applications.](next-experience-onboarding.md)
 
 </td></tr><tr><td>
 
-[Guided setup](../../../administer/core-configuration/concept/guided-setup.md)
+[Guided setup](guided-setup.md)
 
- [![](../image/icon-adoption-guided-setup.png)](../../../administer/core-configuration/concept/guided-setup.md)
+ [![](../image/icon-adoption-guided-setup.png)](guided-setup.md)
 
- [Use guided setup to go through the initial configuration of any product or application that provides a Guided Setup module.](../../../administer/core-configuration/concept/guided-setup.md)
+ [Use guided setup to go through the initial configuration of any product or application that provides a Guided Setup module.](guided-setup.md)
 
 </td><td>
 
-[Guided tours](../../help-guided-tours/concept/guided-tours.md)
+[Guided tours](guided-tours.md)
 
- [![](../image/icon-adoption-guided-tours.png)](../../help-guided-tours/concept/guided-tours.md)
+ [![](../image/icon-adoption-guided-tours.png)](guided-tours.md)
 
- [Use guided tours to provide step-by-step walkthroughs of applications within your instance.](../../help-guided-tours/concept/guided-tours.md)
+ [Use guided tours to provide step-by-step walkthroughs of applications within your instance.](guided-tours.md)
 
 </td><td>
 

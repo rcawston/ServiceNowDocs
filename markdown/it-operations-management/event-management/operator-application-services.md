@@ -91,7 +91,7 @@ Event Management classifies application services into the following types:
 
 -   **Application services**
 
-    An application service can consist of discovered services, manual services, or both. A discovered service is an application service that the [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md) application finds \(if your organization uses [Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md)\). A manual service is an application service that your administrator configures by selecting and adding each CI and specifying the relationships between CIs.
+    An application service can consist of discovered services, manual services, or both. A discovered service is an application service that the [Service Mapping](../service-mapping/c_ServiceMappingOverview.md) application finds \(if your organization uses [Service Mapping](../service-mapping/c_ServiceMappingOverview.md)\). A manual service is an application service that your administrator configures by selecting and adding each CI and specifying the relationships between CIs.
 
 -   **Alert groups**
 

@@ -170,5 +170,5 @@ You have enabled automated vaccine response validation. Work notes in the vaccin
 
 To automate vaccine response reviews so that they are set to **Approved** if validation was successful or left in the state **Not yet reviewed** \(a manual review is required\), see [Automate reviews of vaccine responses](enable-automated-vaccine-response-reviews.md).
 
-**Parent Topic:**[Automating vaccine response reviews](../concept/vaccination-status-vaccine-validation.md)
+**Parent Topic:**[Automating vaccine response reviews](vaccination-status-vaccine-validation.md)
 

@@ -79,5 +79,5 @@ Category of your notification. This field is visible only when the **Actionable*
     Your notification record is created. After saving, the **Push Action Instances** related list appears on the form.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](actionable-push-notification.md)
 

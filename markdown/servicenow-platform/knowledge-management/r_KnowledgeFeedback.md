@@ -62,14 +62,14 @@ Knowledge comments at the bottom of the article use Live Feed to enable a conver
 
 **Note:** Unauthenticated users and users with only the snc\_external role can’t add or view attachments for comments.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 
 **Related topics**  
 
 
-[Automating feedback management to improve content](../concept/actionable-knowledge-feedback.md)
+[Automating feedback management to improve content](actionable-knowledge-feedback.md)
 
-[Request a knowledge base](../task/t_RequestAKnowledgeBase.md)
+[Request a knowledge base](t_RequestAKnowledgeBase.md)
 
-[Create a knowledge article from an incident in ITSM Agent Workspace](../task/create-knowledge-article.md)
+[Create a knowledge article from an incident in ITSM Agent Workspace](create-knowledge-article.md)
 

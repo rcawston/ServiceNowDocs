@@ -176,5 +176,5 @@ Number of days within which the assessment should be completed after it’s init
 
 The assessments are initiated. You can view all the scheduled assessments under **Risk assessment planning** &gt; **Scheduled assessments**.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

@@ -23,12 +23,12 @@ To access the Discovery Admin Workspace Insights page, navigate to **Workspaces*
 You can access the following information through the Insights page:
 
 -   [Discovery Operations Monitor dashboard](disco-operations-monitor.md)
--   [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../../service-mapping/reference/oracle-glas-discovery.md)
--   [Kubernetes Explorer](../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md)
--   [Nutanix Dashboard](../../service-mapping/reference/nutanix-pattern.md)
+-   [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
+-   [Kubernetes Explorer](../cloud-discovery-workspace/cloud-operations-workspace-kubernetes-dashboard.md)
+-   [Nutanix Dashboard](../discovery-and-service-mapping-patterns/nutanix-pattern.md)
 -   [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md)
--   [Agent Health dashboard](../../service-operations-workspace-itom/concept/agent-health-dashboard.md)
--   [Missing compute resources from Discovery](../task/discover-missing-compute-resources.md)
+-   [Agent Health dashboard](../service-operations-workspace-for-itom-apps/agent-health-dashboard.md)
+-   [Missing compute resources from Discovery](discover-missing-compute-resources.md)
 -   [Shazzam Insights](shazzam-insights.md)
 -   [Tag Governance Insights](tag-governance-insights-dashboard.md)
 -   [Virtual Machine Explorer](vm-explorer.md)

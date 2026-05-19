@@ -121,5 +121,5 @@ Your connector admin needs these items to configure a Lucidchart external conten
 
 For details on creating and configuring a Lucidchart external content connector, see [Create a Lucidchart external content connector](create-ext-cont-connector-lucidchart.md).
 
-**Parent Topic:**[Lucidchart external content connector](../concept/lucidchart-external-content-connector.md)
+**Parent Topic:**[Lucidchart external content connector](lucidchart-external-content-connector.md)
 

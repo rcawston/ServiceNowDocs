@@ -41,5 +41,5 @@ The following parameters are available for knowledge article URLs.
 |sysparm\_article|Returns the most recent article version. For example, `https://yourbusiness.service-now.com/kb?id=kb_article_view&sysparm_article=KB0010053`.|
 |sysparm\_language|Returns the most recent article version in the input language if a translation exists. For example, `https://yourbusiness.service-now.com/kb?id=kb_article_view&sys_id=3b07857187032100deddb882a2e3ec20&sysparm_language=EN`.|
 
-**Parent Topic:**[Knowledge Management Service Portal article view page features](../concept/knowledge-service-portal-view.md)
+**Parent Topic:**[Knowledge Management Service Portal article view page features](knowledge-service-portal-view.md)
 

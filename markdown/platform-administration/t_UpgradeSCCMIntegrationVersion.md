@@ -22,7 +22,7 @@ Role required: admin
 The ServiceNow SCCM integrations are self-contained and can exist independently. They each use their own import set tables, data sources and transform maps. However, all SCCM integrations will transform data into the same tables within the ServiceNow CMDB. To avoid the data being overwritten by another source:
 
 -   Use one SCCM integration and disable all other SCCM scheduled imports.
--   Perform a [full import](../../../integrate/cmdb/reference/how-sccm-integration-works.md) to clear the cmdb\_software\_instance table, the cmdb\_sam\_sw\_install table, and other tables of old SCCM data.
+-   Perform a [full import](how-sccm-integration-works.md) to clear the cmdb\_software\_instance table, the cmdb\_sam\_sw\_install table, and other tables of old SCCM data.
 
 **Note:** It is possible to configure each plugin to integrate with SCCM 2007 or 2012 because the mechanism of the integration is actually the same, which is to leverage Java Database Connectivity \(JDBC\) imports. However, a data source must be modified if it is used for an SCCM version for which it was not written. Use the plugin version that corresponds to the SCCM version for which the data source is intended.
 
@@ -49,10 +49,10 @@ To disable the SCCM import schedule:
 6.  Activate the plugin.
 
 
-**Parent Topic:**[Microsoft SCCM integration](../../../integrate/cmdb/concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](c_MicrosoftSCCMIntegration.md)
 
 **Related topics**  
 
 
-[SCCM data import process and source tables](../../../integrate/cmdb/reference/how-sccm-integration-works.md)
+[SCCM data import process and source tables](how-sccm-integration-works.md)
 

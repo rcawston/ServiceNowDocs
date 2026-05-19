@@ -46,5 +46,5 @@ These instructions create a system-based MAP for the system user's role. See [Co
 
 The system MAP has been created.
 
-**Parent Topic:**[Module access policies for inbound email attachment encryption](../concept/fe-maps-inbound-email-attachment-encryption.md)
+**Parent Topic:**[Module access policies for inbound email attachment encryption](fe-maps-inbound-email-attachment-encryption.md)
 

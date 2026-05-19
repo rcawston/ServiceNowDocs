@@ -15,9 +15,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 External Content for AI Search includes the following roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 
 ## AI Search external content API user \[ais\_external\_content\]
 
@@ -40,7 +40,7 @@ None.
 
 ### Special considerations
 
-Assign this role to non-interactive users and integration users who require access to external content API endpoints. For more information on non-interactive users, see [Non-interactive sessions](../../users-and-groups/concept/c_NonInteractiveSessions.md#). For details on integration users, see [Mark service accounts as internal integration users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_MarkSvcAcctsAsInternalIntegUsers.md).
+Assign this role to non-interactive users and integration users who require access to external content API endpoints. For more information on non-interactive users, see [Non-interactive sessions](../user-administration/c_NonInteractiveSessions.md#). For details on integration users, see [Mark service accounts as internal integration users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_MarkSvcAcctsAsInternalIntegUsers.md).
 
 Users with the admin role don't need this role to access external content API endpoints.
 

@@ -64,5 +64,5 @@ Because the assessments use the Smart Assessment Engine, the responders can see 
 
 After an assessment is submitted, the privacy team receives a notification about the assessment submission. The team can then choose to either act on it or reject it based on their analysis. If the privacy team closes the assessment, then a processing activity gets created.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
 

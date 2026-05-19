@@ -62,5 +62,5 @@ The skill gets automatically added to the agent.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Adding skills to agents' skill set in Workforce Optimization for ITSM](../concept/adding-skills-agents-skillset-wfo-itsm.md)
+**Parent Topic:**[Adding skills to agents' skill set in Workforce Optimization for ITSM](adding-skills-agents-skillset-wfo-itsm.md)
 

@@ -39,6 +39,6 @@ When you select a case in the Mobile Agent application, a form opens with the fo
 
 3.  Select the service request case that you want to see more details for.
 
-    For a detailed description of the service request case fields, see [Service Request case form](../reference/service-request-case-form-new.md#).
+    For a detailed description of the service request case fields, see [Service Request case form](service-request-case-form-new.md#).
 
 

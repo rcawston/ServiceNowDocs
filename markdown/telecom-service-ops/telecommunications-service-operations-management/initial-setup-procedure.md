@@ -150,7 +150,7 @@ The following snapshot helps you confirm the configuration set up of Nokia Altip
 
 [Configure concurrent import and parallel loading for Nokia Altiplano](configure-concurrent-import-and-parallel-loading.md)
 
-[Mapping Nokia Altiplano CIs and Relationships in CMDB](../concept/data-mapping.md)
+[Mapping Nokia Altiplano CIs and Relationships in CMDB](data-mapping.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](properties-installed-with-nokia-altiplano.md)
 

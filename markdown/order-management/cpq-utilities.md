@@ -23,7 +23,7 @@ More information about the items in the menu can be found in the following topic
 
 -   [Viewing blueprint deployments](deployments_page.md)
 -   [Using CPQ user access management](cpq-using-uam.md)
--   [Set up a runtime client](../task/cpq-set-up-a-runtime-client.md)
+-   [Set up a runtime client](cpq-set-up-a-runtime-client.md)
 -   [Intro to admin API keys](cpq-admin-api-keys.md)
 -   [Using external connections with OAuth support](using-external-connections-with-oauth-support.md)
 -   [Setting up configurable products](configurable_products.md)

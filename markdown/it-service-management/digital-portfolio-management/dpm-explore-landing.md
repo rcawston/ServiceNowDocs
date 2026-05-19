@@ -17,7 +17,7 @@ The Digital Portfolio Management \(DPM\) Workspace homepage is the starting poin
 
 ## DPM Workspace overview
 
-The DPM homepage \(![Home.](../image/home-polaris-primary2x.png)\) is the central area where you see the status of all your solutions. To access DPM, log in to your provided ServiceNow instance and then select **Workspaces &gt; Digital Portfolio Management**. When you first log in to the DPM Workspace, the system uses certain fields to generate a set of default solution cards that display on your homepage. After you personalize your homepage, the system remembers your updates in the **dpm\_home\_page\_item** table so that next time you log in to the workspace, your personalized homepage displays. For information on the first login solution cards, see [Digital Portfolio Management homepage default solution cards](../reference/dpm-oob-solution-card-fields.md).
+The DPM homepage \(![Home.](../image/home-polaris-primary2x.png)\) is the central area where you see the status of all your solutions. To access DPM, log in to your provided ServiceNow instance and then select **Workspaces &gt; Digital Portfolio Management**. When you first log in to the DPM Workspace, the system uses certain fields to generate a set of default solution cards that display on your homepage. After you personalize your homepage, the system remembers your updates in the **dpm\_home\_page\_item** table so that next time you log in to the workspace, your personalized homepage displays. For information on the first login solution cards, see [Digital Portfolio Management homepage default solution cards](dpm-oob-solution-card-fields.md).
 
 The homepage includes the following main areas.
 
@@ -30,7 +30,7 @@ The homepage includes the following main areas.
 
     **Note:** The data on each solution card reflects current data at the time that you view the page. Refresh the page \(![Refresh icon](../../site-reliability-ops/image/icon-refresh.png)\) to update the data.
 
--   Fields to enable you to search, filter, and personalize what you see on your DPM Workspace homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md).
+-   Fields to enable you to search, filter, and personalize what you see on your DPM Workspace homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md).
 -   A Personal portfolios section that shows personal portfolios that you recently visited in DPM. You can also select the link to go to the personal portfolios page.
 -   An Enterprise portfolios section that shows enterprise portfolios that you recently visited in DPM. You can also select the link to go to the enterprise portfolios page.
 -   A Recently viewed section that shows items that you recently visited in DPM.
@@ -44,12 +44,12 @@ You're encouraged to personalize the Current status section to see those solutio
 **Important:** For the Australia release and later, the labels for the items in the \[cmdb\_ci\_service\_technical\] table and \[service\_offering\] table are Technology Management Service and Technology Management Service Offering, respectively. Prior to the Australia release, the labels are technology management service and technology management service Offering.
 
 1.  Solution name and type \(service, service offering, business application, or service instance\).
-2.  Actions menu ![Actions menu icon](../../../administer/on-call-scheduling/image/icon-actions.png) to view the solution's details, its relationship map, or remove the item from your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md).
+2.  Actions menu ![Actions menu icon](../../../administer/on-call-scheduling/image/icon-actions.png) to view the solution's details, its relationship map, or remove the item from your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md).
 3.  Needs attention attributes that determine the status of each card. Needs attention attributes differ based on the solution type.
 
 ## Needs attention default thresholds
 
-DPM comes with default thresholds for Needs attention attributes. You’re encouraged to personalize the thresholds to define your metrics for good, moderate, and severe. See [Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md).
+DPM comes with default thresholds for Needs attention attributes. You’re encouraged to personalize the thresholds to define your metrics for good, moderate, and severe. See [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md).
 
 <table id="table_gnb_ls5_bzb"><thead><tr><th>
 
@@ -133,9 +133,9 @@ Severe
 **Related topics**  
 
 
-[Digital Portfolio Management homepage default solution cards](../reference/dpm-oob-solution-card-fields.md)
+[Digital Portfolio Management homepage default solution cards](dpm-oob-solution-card-fields.md)
 
-[Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md)
+[Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md)
 
 [List of workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/list-of-workspaces.md)
 

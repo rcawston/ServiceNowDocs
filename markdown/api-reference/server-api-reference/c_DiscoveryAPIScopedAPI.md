@@ -17,7 +17,7 @@ The DiscoveryAPI class provides methods that launch a quick discovery of a singl
 
 This class runs is in the `sn_discovery` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DiscoveryAPI - discoverIpAddress\(String ipAddress, String application, String source\)
 
@@ -124,7 +124,7 @@ The following exceptions can be thrown:
 
 |Type|Description|
 |----|-----------|
-|array|JavaScript array of immutable [ReportCiStatusOutputJS](../../ReportCiStatusOutputJSScoped/concept/c_ReportCiStatusOutputJSScopedAPI.md#) objects.|
+|array|JavaScript array of immutable [ReportCiStatusOutputJS](c_ReportCiStatusOutputJSScopedAPI.md#) objects.|
 
 ```
 var ipResultObj = sn_discovery.DiscoveryAPI.reportCiIpAddressStatus(ipAddress, discoveryStatus);
@@ -154,7 +154,7 @@ The following exceptions can be thrown:
 
 |Type|Description|
 |----|-----------|
-|array|JavaScript array of immutable [ReportCiStatusOutputJS](../../ReportCiStatusOutputJSScoped/concept/c_ReportCiStatusOutputJSScopedAPI.md#) objects.|
+|array|JavaScript array of immutable [ReportCiStatusOutputJS](c_ReportCiStatusOutputJSScopedAPI.md#) objects.|
 
 ```
 var ipResultObjArray = sn_discovery.DiscoveryAPI.reportCiStatus(discoveryStatus);

@@ -22,18 +22,18 @@ Create key performance indicator \(KPI\) groups with the KPIs that matter most t
 -   **[Add managers to a KPI assignment group](add-managers-kpi-groups-wfo-hr.md)**  
 Add managers to a KPI assignment group.
 
-**Parent Topic:**[Configuring Workforce Optimization for HR](../concept/configure-wfo-hr.md)
+**Parent Topic:**[Configuring Workforce Optimization for HR](configure-wfo-hr.md)
 
 **Related topics**  
 
 
-[Activate Workforce Optimization for HR](../concept/activate-wfo-hr.md)
+[Activate Workforce Optimization for HR](activate-wfo-hr.md)
 
-[Workforce Optimization for HR Domain Separation](../concept/wfo-hr-domain-separation.md)
+[Workforce Optimization for HR Domain Separation](wfo-hr-domain-separation.md)
 
 [Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)
 
-[Setting up Coaching in Workforce Optimization for HR](../concept/setup-coaching-wfo-hr.md)
+[Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)
 
-[Setting up Demand Forecast in Workforce Optimization for HR](../concept/setup-demand-forecast-wfo-hr.md)
+[Setting up Demand Forecast in Workforce Optimization for HR](setup-demand-forecast-wfo-hr.md)
 

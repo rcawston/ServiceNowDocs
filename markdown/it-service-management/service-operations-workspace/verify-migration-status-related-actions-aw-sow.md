@@ -52,5 +52,5 @@ Role required: admin
     -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-client-action-aw-sow.md)
     -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-ui-component-aw-sow.md)
 
-**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/related-list-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](related-list-declarative-actions-aw-sow.md)
 

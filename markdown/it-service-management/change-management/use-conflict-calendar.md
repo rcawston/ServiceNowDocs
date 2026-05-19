@@ -54,5 +54,5 @@ Alternatively, you can resolve conflicts by moving the change request to be with
 
 The conflicts are reviewed and resolved.
 
-**Parent Topic:**[Conflict calendar](../concept/change-conflict-calendar.md)
+**Parent Topic:**[Conflict calendar](change-conflict-calendar.md)
 

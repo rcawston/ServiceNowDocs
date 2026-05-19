@@ -33,13 +33,13 @@ At times, users can also report a case to the privacy teams using offline modes 
 
 4.  On the form, fill in the fields.
 
-    See the [privacy new case form](../reference/privacy-new-case-form.md) for an explanation of each field.
+    See the [privacy new case form](privacy-new-case-form.md) for an explanation of each field.
 
 5.  Select **Save**.
 
 
--   **[Privacy new case form](../reference/privacy-new-case-form.md)**  
+-   **[Privacy new case form](privacy-new-case-form.md)**  
 On the new privacy case form, fill in the fields.
 
-**Parent Topic:**[Reporting a privacy case](../concept/reporting-a-privacy-case.md)
+**Parent Topic:**[Reporting a privacy case](reporting-a-privacy-case.md)
 

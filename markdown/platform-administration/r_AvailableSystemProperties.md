@@ -2725,7 +2725,7 @@ Some properties are available on a system properties form, but some lesser-used 
     -   Location: [Add the property](r_AvailableSystemProperties.md#) to the System Property \[sys\_properties\] table.
 -   **glide.search.suggestions.enabled**
 
-    Set it to **true** \(default\) to enable search suggestions, or set it to **false** to disable search suggestions everywhere. For more information about search suggestions, see [Enable search suggestions](../../search-administration/task/enable-search-suggestions.md).
+    Set it to **true** \(default\) to enable search suggestions, or set it to **false** to disable search suggestions everywhere. For more information about search suggestions, see [Enable search suggestions](search-administration/enable-search-suggestions.md).
 
 -   **glide.secondary.query.sysid**
 
@@ -2828,7 +2828,7 @@ Some properties are available on a system properties form, but some lesser-used 
     -   Location: System Property \[sys\_properties\] table
 -   **glide.service\_portal.search\_as\_you\_type\_behavior**
 
-    Select search suggestions \(Suggestions\) or type-ahead functionality \(Typeahead\). For more information about search suggestions, see [Enable search suggestions](../../search-administration/task/enable-search-suggestions.md).
+    Select search suggestions \(Suggestions\) or type-ahead functionality \(Typeahead\). For more information about search suggestions, see [Enable search suggestions](search-administration/enable-search-suggestions.md).
 
 -   **glide.set\_x\_frame\_options**
 
@@ -3287,7 +3287,7 @@ Some properties are available on a system properties form, but some lesser-used 
 -   **glide.ui.clickthrough.popup**
 
     -   For reference fields, enables \(**true**\) or disables \(**false**\) display of the pop-up diamond icon for reference fields, and opening a new window when clicking the icon.
-    -   For document ID fields, enables \(**true**\) or disables \(**false**\) displaying the information icon and opening a pop-up window with the document's form. To learn more [Document ID field](../../field-administration/task/t_CreatingADocumentIDField.md).
+    -   For document ID fields, enables \(**true**\) or disables \(**false**\) displaying the information icon and opening a pop-up window with the document's form. To learn more [Document ID field](t_CreatingADocumentIDField.md).
     **Note:** Related lists do not appear on forms opened in the pop-up window.
 
     -   Type: true \| false
@@ -4459,9 +4459,9 @@ Some properties are available on a system properties form, but some lesser-used 
     -   Default value: 1 \(if property doesn't exist\)
 -   **sn\_global\_searchui.hide\_results\_count**
 
-    Hides \(**true**\) or displays \(**false**\) the number of matching records for search groups and tables on the [Global search](../../search-administration/concept/global-search-polaris-ui.md#) page.
+    Hides \(**true**\) or displays \(**false**\) the number of matching records for search groups and tables on the [Global search](search-administration/global-search-polaris-ui.md#) page.
 
-    To modify this property, select **Enhanced Global Search UI** from the [application picker](../../../build/applications/task/t_SelectAnAppFromTheAppPicker.md) before opening the System Properties table.
+    To modify this property, select **Enhanced Global Search UI** from the [application picker](t_SelectAnAppFromTheAppPicker.md) before opening the System Properties table.
 
     -   Type: true \| false
     -   Default value: false
@@ -4593,7 +4593,7 @@ Some properties are available on a system properties form, but some lesser-used 
     -   Default value: ServiceNow
     -   Location: **System Properties** &gt; **Tablet UI Properties**
 
-**Parent Topic:**[Basic system configuration](../../core-configuration/concept/p_CoreConfigurationOverview.md)
+**Parent Topic:**[Basic system configuration](p_CoreConfigurationOverview.md)
 
 ## Add a system property
 

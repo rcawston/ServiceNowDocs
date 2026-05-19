@@ -48,7 +48,7 @@ To get started with the legacy Software Asset Management \(com.snc.software\_ass
 
 [Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](t_ManagingSoftwareModels.md)
 
 [License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

@@ -34,5 +34,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Set up the emission factor library](../concept/set-up-the-emission-factor-library.md)
+**Parent Topic:**[Set up the emission factor library](set-up-the-emission-factor-library.md)
 

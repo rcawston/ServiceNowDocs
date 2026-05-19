@@ -40,23 +40,23 @@ You can add a dependent condition by clicking **AND** or **OR** next to the cond
 
 For an example of a scripted filter see the KB article [Creating dynamic JavaScript filters in reports](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0746219).
 
--   **[Filtering on empty fields](../task/t_FilteringOnEmptyFields.md)**  
+-   **[Filtering on empty fields](t_FilteringOnEmptyFields.md)**  
 Most filter operations do not return empty fields in their result set. You can create a filter that displays records with an empty field value in addition to records that match the initial filter conditions.
 -   **[Values for date/time fields](c_ValuesForDateTimeFields.md#)**  
 When you filter on fields of type date/time, such as the **Created** field on any task record, several time-related options are available, such as **Today**, **This week**, **Last 3 months**, and so on.
--   **[Comparing field values](../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)**  
+-   **[Comparing field values](r_ComparingFieldValues.md)**  
 Field comparison allows users to evaluate equality between fields on the same table or on related tables by using operators in the condition builder.
 
-**Parent Topic:**[Create a condition statement using the condition builder](../task/create-cond-state-using-cond-build.md)
+**Parent Topic:**[Create a condition statement using the condition builder](create-cond-state-using-cond-build.md)
 
 **Related topics**  
 
 
-[Operators available for filters and queries](../reference/r_OpAvailableFiltersQueries.md)
+[Operators available for filters and queries](r_OpAvailableFiltersQueries.md)
 
-[OR conditions](../../using-lists/concept/c_UsingORConditions.md)
+[OR conditions](c_UsingORConditions.md)
 
-[Filters](../../using-lists/concept/c_Filters.md)
+[Filters](c_Filters.md)
 
-[Dot-walking to data in related tables](../../navigation/concept/c_DotWalking.md)
+[Dot-walking to data in related tables](c_DotWalking.md)
 

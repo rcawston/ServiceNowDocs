@@ -17,7 +17,7 @@ The GlideOAuthClientRequest API provides methods for handling OAuth client reque
 
 You can use this API in global and scoped scripts. In scoped scripts use the `sn_auth` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideOAuthClientRequest - getGrantType\(\)
 

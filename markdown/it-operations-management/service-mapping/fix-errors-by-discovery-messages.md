@@ -74,7 +74,7 @@ The following discovery message is displayed in a tag-based service instance: **
 </td><td>
 
 Perform the following actions: -   [Modify tag definitions used for mapping](modify-tag-category-family.md) to make sure Service Mapping includes only relevant CIs in the service instance.
--   If necessary, [Tag-based discovery configuration](../concept/tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
+-   If necessary, [Tag-based discovery configuration](tag_discovery_configuration.md) to change which CIs Service Mapping includes in tag-based service instances.
 
 
 </td></tr><tr><td>

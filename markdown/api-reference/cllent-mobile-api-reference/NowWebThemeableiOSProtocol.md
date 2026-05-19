@@ -21,9 +21,9 @@ public protocol NowWebThemeable {
 }
 ```
 
-The [NowWebColoring](../../NowWebColoring/concept/NowWebColoringiOSProtocol.md) protocol contains **NowUIColoring**. This property is used to reference default color variables that NowWebThemeable can use.
+The [NowWebColoring](NowWebColoringiOSProtocol.md) protocol contains **NowUIColoring**. This property is used to reference default color variables that NowWebThemeable can use.
 
-For additional information on how to theme the UI, see [Use NowUIColoring to theme NowWebTheme and NowChatTheme](../../../../../../integrate/guides/mobile_sdk/mobile_sdk-android/reference/mobsdk-and-color-theming.md) in the Mobile SDK Developer Guide - iOS.
+For additional information on how to theme the UI, see [Use NowUIColoring to theme NowWebTheme and NowChatTheme](../developer-guides/mobsdk-and-color-theming.md) in the Mobile SDK Developer Guide - iOS.
 
 ## Define WebColors using default colors
 
@@ -131,5 +131,5 @@ func webViewController(for url: URL, delegate: NowWebViewControllerDelegate) -> 
 }
 ```
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 

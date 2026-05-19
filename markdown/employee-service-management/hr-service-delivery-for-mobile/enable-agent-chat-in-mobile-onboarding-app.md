@@ -21,8 +21,8 @@ Role required: sn\_hr\_le.admin
 
 Make sure that live and/or virtual chat are set up for use in the Employee Service Center.
 
--   [Employee live chat overview](../../employee-center/concept/employee-center-chat-configuration.md)
--   [Virtual Agent for HR Service Delivery](../concept/hr-virtual-agent-conversations.md#)
+-   [Employee live chat overview](../employee-experience-foundation/employee-center-chat-configuration.md)
+-   [Virtual Agent for HR Service Delivery](../hr-service-delivery/hr-virtual-agent-conversations.md#)
 
 Role required: sn\_hr\_le.admin
 
@@ -43,5 +43,5 @@ Role required: sn\_hr\_le.admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Administer Now Mobile](../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
+**Parent Topic:**[Administer Now Mobile](administer-mobile-employee-onboarding-for-hr-service-delivery.md)
 

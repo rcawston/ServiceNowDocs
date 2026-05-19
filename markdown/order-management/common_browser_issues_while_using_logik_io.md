@@ -47,5 +47,5 @@ Other extensions such as email templates or crypto wallets can also cause issues
 
 Review your browser's plugins to check whether any other extensions could be interfering while using CPQ. If the end user can configure after all browser extensions are disabled, one of the extensions must be causing the issue. If you identify an extension that causes the issue and is not in the list above, please let us know.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

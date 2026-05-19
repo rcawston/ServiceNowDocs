@@ -39,5 +39,5 @@ You update the Equipment generic classes in the core equipment table to display 
     -   Kubernetes Component \(cmdb\_ci\_kubernetes\_component\)
     -   Service Instance \(cmdb\_ci\_service\_auto\)
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](../concept/configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)
 

@@ -23,7 +23,7 @@ Perform the following actions to synchronize reservations using the Workplace Ca
 -   Configure calendar providers: Select the calendar processor and specify how and when to perform synchronization.
 -   For Microsoft Exchange On-Premises and Google Calendar, activate the **WSDRS Sync Calendar items** scheduled job.
 
-For more information about scheduled jobs and flows, refer to [Scheduled jobs installed with Workplace Calendar Synchronization](../reference/scheduled-jobs-installed-with-workplace-calendar-synchronization.md) and [Flows installed with Workplace Calendar Synchronization](../reference/flows-installed-with-workplace-calendar-synchronization.md).
+For more information about scheduled jobs and flows, refer to [Scheduled jobs installed with Workplace Calendar Synchronization](scheduled-jobs-installed-with-workplace-calendar-synchronization.md) and [Flows installed with Workplace Calendar Synchronization](flows-installed-with-workplace-calendar-synchronization.md).
 
 **Important:** You will not be notified when an event is rejected or declined by Microsoft Outlook. For the same reason, a scheduled job - **Clean-up Awaiting/Rejected Reservations**, is available that you can run on any suitable frequency to clear the reservations rejected or declined by the Microsoft Outlook calendar.
 
@@ -31,7 +31,7 @@ For more information about scheduled jobs and flows, refer to [Scheduled jobs in
 
 ## Workplace Calendar Synchronization version 1.6.1 and older
 
-If you are using Workplace Calendar Synchronization version 1.6.1 and older, to set up a connection with Microsoft Exchange Online, refer to [Microsoft Exchange Online - Calendar synchronization](../reference/ms-exchange-reservation-synchronization.md).
+If you are using Workplace Calendar Synchronization version 1.6.1 and older, to set up a connection with Microsoft Exchange Online, refer to [Microsoft Exchange Online - Calendar synchronization](ms-exchange-reservation-synchronization.md).
 
 ## Workplace Calendar Synchronization version 2.0.1 and later
 

@@ -28,5 +28,5 @@ The EMR Request Data \[sn\_ind\_rmt\_help\_incident\_data\] table stores the cap
 -   **[Request configuration mapping table](emr-request-configuration-mapping.md)**  
 The Request configuration mapping \[sn\_ind\_rmt\_help\_defn\_param\_data\_map\] table stores the association between the request parameter and the request definition.
 
-**Parent Topic:**[EMR Help reference](../reference/emr-reference.md)
+**Parent Topic:**[EMR Help reference](emr-reference.md)
 

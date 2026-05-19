@@ -41,7 +41,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
     3.  In the **Time slot** field, select a time slot for which you want to make a reservation.
 
-        **Note:** Employees are not allowed to create a reservation too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation](create-reservation-request-1.md) and [Configure a reservable module](config-reservable-module.md).
+        **Note:** Employees are not allowed to create a reservation too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation](../employee-service-management/create-reservation-request-1.md) and [Configure a reservable module](config-reservable-module.md).
 
         If the**Max days in future** value is not enabled, users can select a date as per the **Max number of occurrences** on the Reservable module.
 
@@ -67,7 +67,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
 6.  To apply more filter criteria or to view all the spaces that match the specified criteria on the Reservation portal, select **Advanced reservations**.
 
-    For more information on how to make a reservation on the Reservation portal, see [Create a reservation](create-reservation-request-1.md).
+    For more information on how to make a reservation on the Reservation portal, see [Create a reservation](../employee-service-management/create-reservation-request-1.md).
 
 
 ## Result
@@ -76,12 +76,12 @@ The workplace is reserved for the selected time slot.
 
 To view the details of the reservation, click **View details**. To cancel the reservation, click **Release space**.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -97,7 +97,7 @@ To view the details of the reservation, click **View details**. To cancel the re
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

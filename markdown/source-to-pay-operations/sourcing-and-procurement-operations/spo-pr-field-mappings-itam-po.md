@@ -27,7 +27,7 @@ Fields in the SPO PR record align to fields in the ITAM PO and purchase order li
 |PR \(PRL\)|N/A|Delivery Location.Location|Ship To|N/A|
 |PR \(PRL\)|N/A|Total line amount|N/A|Total Cost|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

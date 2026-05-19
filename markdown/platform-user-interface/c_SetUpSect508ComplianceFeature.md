@@ -24,7 +24,7 @@ All of these options can be configured globally or for specific users.
 -   Use skip links.
 -   Turn off first field focus
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 
 ## Enable accessibility mode
 
@@ -36,7 +36,7 @@ Role required: none
 
 ### About this task
 
-Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [User preferences](../../navigation-and-ui/concept/c_UserPreferences.md).
+Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [User preferences](c_UserPreferences.md).
 
 ### Procedure
 
@@ -65,7 +65,7 @@ Role required: admin
 
 ### About this task
 
-Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [system settings](../../navigation-and-ui/reference/r_UI16BannerFrame.md) menu. From the Theme tab, select the **Contrast UI** theme.
+Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [system settings](r_UI16BannerFrame.md) menu. From the Theme tab, select the **Contrast UI** theme.
 
 ### Procedure
 
@@ -121,7 +121,7 @@ Role required: admin
 
 Some fields on forms have associated tooltips that contain additional information. By default, these tooltips are accessible by pointing to the field label or mandatory indicator asterisk. However, a user who relies on keyboard navigation cannot point to the field to access the tooltip. The accessible form tooltip feature solves this problem by adding a keyboard-accessible icon next to each field that has a tooltip. Tabbing or pointing to the icon shows the tooltip.
 
-Administrators can enable accessible form tooltips for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility.accessible.tooltips` user preference. For more information on configuring user preferences, see [User preferences](../../navigation-and-ui/concept/c_UserPreferences.md).
+Administrators can enable accessible form tooltips for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility.accessible.tooltips` user preference. For more information on configuring user preferences, see [User preferences](c_UserPreferences.md).
 
 Accessibility must be enabled for the accessible form tooltips user preference to work.
 

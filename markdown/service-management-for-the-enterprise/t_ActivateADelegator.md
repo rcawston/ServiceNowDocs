@@ -30,8 +30,8 @@ Role required: facilities\_staff or move\_basic
 5.  Click **Activate Delegators**.
 
 
--   **[Move delegators](../concept/c_EnterpriseMoveDelegators.md)**  
+-   **[Move delegators](c_EnterpriseMoveDelegators.md)**  
 Facilities administrators assign move delegators to assign users to locations.
 
-**Parent Topic:**[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)
+**Parent Topic:**[Enterprise move scenarios](r_EnterMoveScenarios.md)
 

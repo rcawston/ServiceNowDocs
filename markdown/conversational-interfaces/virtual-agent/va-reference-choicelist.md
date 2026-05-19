@@ -191,7 +191,7 @@ Header card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](insert-header-card-user-input-control.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -444,7 +444,7 @@ Header card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](insert-header-card-user-input-control.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

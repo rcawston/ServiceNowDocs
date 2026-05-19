@@ -22,5 +22,5 @@ The Socialsuite import log table \(sn\_osm\_ma\_import\_log\) tracks material to
 |Data record|Reference to the material topic record created from the imported data.|
 |Comments|Additional information or error messages about the import.|
 
-**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](../concept/reference-data-esg.md)
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG\) reference](reference-data-esg.md)
 

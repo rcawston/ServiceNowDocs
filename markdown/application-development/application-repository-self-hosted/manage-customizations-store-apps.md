@@ -42,7 +42,7 @@ There are two ways to create application-customizations.
 
     1.  Open the Store application or the application installed via plugin from ServiceNow Studio.
 
-        To learn more, see [Legacy - Access ServiceNow Studio](t_AccessStudio.md).
+        To learn more, see [Legacy - Access ServiceNow Studio](../servicenow-studio-classic/t_AccessStudio.md).
 
         The application opens in Studio.
 

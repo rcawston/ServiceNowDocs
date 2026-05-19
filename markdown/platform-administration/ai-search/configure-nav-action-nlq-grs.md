@@ -137,5 +137,5 @@ Optional table filter for the navigation action. The action only operates for th
 </table>4.  Select **Update** if you're editing an existing navigation action record, or **Submit** if you're creating a new one.
 
 
-**Parent Topic:**[NLQ Genius Results](../concept/genius-result-nlq-ais.md)
+**Parent Topic:**[NLQ Genius Results](genius-result-nlq-ais.md)
 

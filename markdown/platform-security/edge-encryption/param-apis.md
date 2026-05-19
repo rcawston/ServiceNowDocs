@@ -17,7 +17,7 @@ POST and URL parameters can be accessed as properties of the request object usin
 
 Any single parameter can be accessed as a property of the postParams and urlParams parent objects by calling `request.postParams.myParam`. Any parameter accessed this way is an object of the underlying class ParameterValue. Any APIs in this class can be called on any parameter.
 
-After [inspecting the client request](../task/request-type.md), it may be necessary to access and encrypt parameter values from the request object. Depending on the data in the client request, you can encrypt values and map them to fields on the instance in multiple ways.
+After [inspecting the client request](request-type.md), it may be necessary to access and encrypt parameter values from the request object. Depending on the data in the client request, you can encrypt values and map them to fields on the instance in multiple ways.
 
 ## Encrypt the value of a known table and field
 

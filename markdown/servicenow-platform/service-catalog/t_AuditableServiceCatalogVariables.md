@@ -41,5 +41,5 @@ This auditing allows service catalog administrators to view a full history of ch
 3.  Select the **Yes** check box to enable auditing.
 
 
-**Parent Topic:**[Service catalog variables](../concept/c_ServiceCatalogVariables.md)
+**Parent Topic:**[Service catalog variables](c_ServiceCatalogVariables.md)
 

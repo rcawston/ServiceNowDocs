@@ -140,5 +140,5 @@ Roles that the flow runs with. This option is only available when **Run as** is 
     You've set up the flow.
 
 
-**Parent Topic:**[Conditional and event-driven inbound integration](../concept/conditional-and-event-driven-inbound-integration.md)
+**Parent Topic:**[Conditional and event-driven inbound integration](conditional-and-event-driven-inbound-integration.md)
 

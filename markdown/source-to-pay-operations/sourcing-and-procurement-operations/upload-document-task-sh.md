@@ -42,5 +42,5 @@ Role required: sn\_shop.shopper
 8.  Select **Mark as complete**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

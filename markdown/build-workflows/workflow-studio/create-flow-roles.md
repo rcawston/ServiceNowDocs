@@ -21,7 +21,7 @@ Role required: flow\_designer or admin
 
 ## About this task
 
-Create a user-initiated flow that runs with its own roles and not the roles of the user. For more information about assigning roles to a flow, go to [Flow roles](../concept/flow-roles.md). For example, allow a flow to run with the itil role so that it can access data belonging to IT Service Management applications such as incidents and problems.
+Create a user-initiated flow that runs with its own roles and not the roles of the user. For more information about assigning roles to a flow, go to [Flow roles](flow-roles.md). For example, allow a flow to run with the itil role so that it can access data belonging to IT Service Management applications such as incidents and problems.
 
 ## Procedure
 

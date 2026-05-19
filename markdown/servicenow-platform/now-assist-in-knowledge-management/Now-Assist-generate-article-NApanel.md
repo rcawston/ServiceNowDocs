@@ -50,5 +50,5 @@ Role required: agent
     ![Generate KB article from Now Assist panel.](../image/Gen-KB-article-from-NApanel.png)
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 

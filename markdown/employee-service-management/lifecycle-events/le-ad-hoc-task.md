@@ -76,7 +76,7 @@ Role required: sn\_hr\_le.case\_writer
 
 4.  Select **Add a child case** or **Add task**.
 
-    For more information, see [Create an HR case for a lifecycle event](../task/create-hr-lifecycle-event-case.md) and [Adding an HR task to an HR case](../task/t_ViewAnHRTask.md).
+    For more information, see [Create an HR case for a lifecycle event](create-hr-lifecycle-event-case.md) and [Adding an HR task to an HR case](../hr-service-delivery/t_ViewAnHRTask.md).
 
 5.  After filling in the required fields, ensure you select a value from the **Stage** field.
 
@@ -84,6 +84,6 @@ Role required: sn\_hr\_le.case\_writer
 
     If you do not associate a task or case with a stage in the lifecycle event, the task or case becomes a child of the parent case, but is not included in the lifecycle event.
 
-    **Note:** Stage is also known as an activity set or bundle. For more information, see [Configure a lifecycle event activity set](../task/configure-hr-lifecycle-event-activity-set.md).
+    **Note:** Stage is also known as an activity set or bundle. For more information, see [Configure a lifecycle event activity set](configure-hr-lifecycle-event-activity-set.md).
 
 

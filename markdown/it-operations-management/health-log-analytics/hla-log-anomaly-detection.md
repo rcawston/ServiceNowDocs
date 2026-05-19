@@ -21,15 +21,15 @@ When Health Log Analytics scans your logs, it identifies all occurrences of the 
 
 Health Log Analytics comes with many default global keywords. You can add, edit, and delete these global keywords or phrases, which apply to all source types.
 
-**Note:** To add a specified keyword associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](../task/hla-source-types.md).
+**Note:** To add a specified keyword associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](hla-source-types.md).
 
 You can manage lexical keywords as follows:
 
--   [Add, edit, or delete lexical keywords in Health Log Analytics](../task/hla-lexical-keywords-admin.md)
+-   [Add, edit, or delete lexical keywords in Health Log Analytics](hla-lexical-keywords-admin.md)
 
     Add, edit, and delete global keywords or phrases.
 
--   [View the lexical keywords that generate alerts in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-lexical-keywords-manage.md)
+-   [View the lexical keywords that generate alerts in Health Log Analytics](hla-op-lexical-keywords-manage.md)
 
     View the list of lexical keywords that can indicate important issues in log entries. By default, the table lists only global keywords.
 

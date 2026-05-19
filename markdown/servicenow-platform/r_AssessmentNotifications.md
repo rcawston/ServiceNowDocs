@@ -15,7 +15,7 @@ You can configure the system to send email notifications for assessments.
 
 You can configure any of the following types of notification during the process of generating assessable records:
 
--   Notify assessment user: This messages notifies you of an assigned an assessment and includes the [type](../concept/c_MetricTypesAndAssessableRecords.md), the due date, and basic instructions. The message also contains a link to the record where you take the assessment.
+-   Notify assessment user: This messages notifies you of an assigned an assessment and includes the [type](c_MetricTypesAndAssessableRecords.md), the due date, and basic instructions. The message also contains a link to the record where you take the assessment.
 
     **Note:** If a user has a pending assessment, then the system will not generate another instance of the same assessment.
 
@@ -24,12 +24,12 @@ You can configure any of the following types of notification during the process 
 
 **Note:** By default, the system runs a script every 30 days to cancel expired assessment and survey instances that are in the **Work in progress** or **Ready to take** states.
 
-**Parent Topic:**[Enable manager notifications](../../notification/task/t_EnablingManagerNotifications.md)
+**Parent Topic:**[Enable manager notifications](t_EnablingManagerNotifications.md)
 
 **Related topics**  
 
 
-[Create metric types and generate assessable records](../task/t_CreatMetricTypesAndGenAssessRecs.md)
+[Create metric types and generate assessable records](t_CreatMetricTypesAndGenAssessRecs.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
 

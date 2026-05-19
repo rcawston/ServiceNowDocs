@@ -78,5 +78,5 @@ The following tables are installed with Purchase Order Management.
 |Purchase Order Exception \[sn\_poem\_exception\]|Stores the purchase order exceptions.|
 |Purchase Order Exception Split Line \[sn\_poem\_exception\_split\_line\]|Stores the details of split lines when a supplier submits a purchase order exception.|
 
-**Parent Topic:**[Install Purchase Order Management](../task/install-purch-order-mgmt.md)
+**Parent Topic:**[Install Purchase Order Management](install-purch-order-mgmt.md)
 

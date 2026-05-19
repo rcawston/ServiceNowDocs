@@ -108,5 +108,5 @@ Your branded apps are integrated with the BlackBerry Dynamics SDK to help manage
 
 ## Package and Bundle IDs
 
-To enforce app policies your mobile application management software may require the bundle or package ID associated with the mobile apps. For information on these IDs see [Bundle and Package IDs for ServiceNow mobile apps](../reference/sg-mobile-package-ids.md).
+To enforce app policies your mobile application management software may require the bundle or package ID associated with the mobile apps. For information on these IDs see [Bundle and Package IDs for ServiceNow mobile apps](sg-mobile-package-ids.md).
 

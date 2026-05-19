@@ -51,5 +51,5 @@ Role required: sn\_fin\_ops.specialist
 
 You can see the reason in the activity stream. The requester receives an email requesting additional information.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
 

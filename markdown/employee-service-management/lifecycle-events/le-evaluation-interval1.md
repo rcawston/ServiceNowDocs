@@ -24,7 +24,7 @@ Activity sets can be triggered using different methods based on how you configur
 -   Combination or different trigger types
 -   \*Other activity sets
 
-    **Note:** For more information on activity set triggering, see [Configure a lifecycle event activity set](../task/configure-hr-lifecycle-event-activity-set.md) and [Lifecycle Events workflows](LEWorkflow.md).
+    **Note:** For more information on activity set triggering, see [Configure a lifecycle event activity set](configure-hr-lifecycle-event-activity-set.md) and [Lifecycle Events workflows](LEWorkflow.md).
 
 
 \*When an activity set is triggered by other activity sets it must wait for all dependencies to resolve before triggering.
@@ -41,7 +41,7 @@ The Wait to reevaluate Trigger Script timer uses the **sn\_hr\_le.All activity s
 
 You can reduce the value in the **sn\_hr\_le.All activity set closure timer** field in order to launch the activity set sooner.
 
-**Note:** Use caution if you decide to change the default value. Frequent updates trigger more events and can cause your lifecycle event activity sets to cancel before it can complete. For more information, see [Lifecycle event properties](../task/lifecycle-event-properties-page.md).
+**Note:** Use caution if you decide to change the default value. Frequent updates trigger more events and can cause your lifecycle event activity sets to cancel before it can complete. For more information, see [Lifecycle event properties](lifecycle-event-properties-page.md).
 
 ## Condition with Event BR \(Demo\) activity set
 
@@ -71,16 +71,16 @@ The HR Activity Set Trigger Check workflow \(see below\) was added to the HR Act
 -   If the trigger conditions have not been met, it still waits for the evaluation interval to run.
 -   If the check\_activity\_set\_trigger event fires, the Activity set trigger conditions are checked immediately.
 
--   **[View and use the Condition with Event BR \(Demo\) activity set](../task/le-evaluation-interval-process.md)**  
+-   **[View and use the Condition with Event BR \(Demo\) activity set](le-evaluation-interval-process.md)**  
 You can trigger activity sets using an event that is included in the Condition with Event BR \(Demo\) activity set or you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow.
--   **[View and use the Condition with Event BR \(Demo\) business rule](../task/le-eval-interval-business-rule.md)**  
+-   **[View and use the Condition with Event BR \(Demo\) business rule](le-eval-interval-business-rule.md)**  
 You can view and use the Condition with Event BR \(Demo\) business rule to trigger an evaluation of your activity set faster.
--   **[Change the evaluation interval default wait time](../task/le-activity-set-evaluation-interval.md)**  
+-   **[Change the evaluation interval default wait time](le-activity-set-evaluation-interval.md)**  
 As an administrator, you can change the default time that an activity set waits before the activity set is evaluated.
--   **[Configure a Lifecycle Events trigger for activity sets](../task/le-config-event-trigger.md)**  
+-   **[Configure a Lifecycle Events trigger for activity sets](le-config-event-trigger.md)**  
 Create triggers for activity sets in Lifecycle Events.
--   **[Lifecycle Events triggers and workflow reference](../reference/le-eval-interval-trigger-workflow-info.md)**  
+-   **[Lifecycle Events triggers and workflow reference](le-eval-interval-trigger-workflow-info.md)**  
 Information about Lifecycle Events triggers and workflow.
 
-**Parent Topic:**[Configure a lifecycle event](../task/configure-hr-lifecycle-event-type.md)
+**Parent Topic:**[Configure a lifecycle event](configure-hr-lifecycle-event-type.md)
 

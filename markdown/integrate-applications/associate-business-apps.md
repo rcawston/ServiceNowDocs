@@ -15,7 +15,7 @@ Assign a business application to a bot process for an effective event correlatio
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Verify that the business application exists on this ServiceNow instance. To add a new business application, navigate to **All** &gt; **Self-service** &gt; **Business Applications**.
 
@@ -50,5 +50,5 @@ An RPA business user \[sn\_rpa\_fdn.rpa\_business\_user\] can view the business 
 9.  To remove a business application, select the business application, and select **Remove**.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 

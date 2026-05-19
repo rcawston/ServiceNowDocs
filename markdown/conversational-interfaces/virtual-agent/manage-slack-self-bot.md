@@ -48,5 +48,5 @@ Roles required:
     For more information, see [Create bot messages](create-bot-messages.md#).
 
 
-**Parent Topic:**[Integrating a self-configured bot with Slack workspace](../concept/va-integ-single-slack.md)
+**Parent Topic:**[Integrating a self-configured bot with Slack workspace](va-integ-single-slack.md)
 

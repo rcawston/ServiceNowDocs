@@ -25,7 +25,7 @@ Role required: it\_project\_user or it\_project\_manager
 
 ## About this task
 
-The **Planning** tab in project workspace displays the selected project in [planning console](../concept/c_TheProjectPlanningConsole.md).
+The **Planning** tab in project workspace displays the selected project in [planning console](../project-management/c_TheProjectPlanningConsole.md).
 
 ## Procedure
 
@@ -37,8 +37,8 @@ The **Planning** tab in project workspace displays the selected project in [plan
 
 3.  Plan the project using planning console features such as WBS hierarchy and Gantt chart.
 
-    You can also perform several [tasks on the planning console](../reference/r_PlanningConsoleTasks.md) that you can perform on lists and forms, such as creating project tasks.
+    You can also perform several [tasks on the planning console](../project-management/r_PlanningConsoleTasks.md) that you can perform on lists and forms, such as creating project tasks.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

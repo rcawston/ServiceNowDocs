@@ -34,9 +34,9 @@ The Service Mapping administrator \(service\_mapping\_admin\) manages traversal 
 
 ## Configuring traversal rules
 
-Service Mapping includes predefined traversal rules, simplifying the initial configuration. These rules provide a starting point for your tag-based service mapping setup. For details on the specific predefined rules, see [Predefined traversal rules for application services in Service Mapping](../reference/default-traversal-rules.md).
+Service Mapping includes predefined traversal rules, simplifying the initial configuration. These rules provide a starting point for your tag-based service mapping setup. For details on the specific predefined rules, see [Predefined traversal rules for application services in Service Mapping](default-traversal-rules.md).
 
-In addition to these predefined traversal rules, you can configure custom traversal rules to meet your organization's specific needs. For detailed instructions on how to configure traversal rules, including information on the required fields and settings, see [Traversal Rules for Application Services form completion](../reference/traversal_rules_form_completion.md).
+In addition to these predefined traversal rules, you can configure custom traversal rules to meet your organization's specific needs. For detailed instructions on how to configure traversal rules, including information on the required fields and settings, see [Traversal Rules for Application Services form completion](traversal_rules_form_completion.md).
 
 By default, you can only have five traversal rules participate in tag-based discovery. However, you can adjust this limit by configuring the **sys\_property svc\_traversal.rules.active** system property to enable more active traversal rules.
 

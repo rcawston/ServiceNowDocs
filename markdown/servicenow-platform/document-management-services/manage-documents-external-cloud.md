@@ -21,7 +21,7 @@ Manage document versions from external cloud directly in the record within the w
 
 ## Before you begin
 
-Multi Provider plugin should be installed. Fro more information, see [Activate Multi Provider Document Services Framework](activate-multi-provider-doc-framework.md) and [Document Management integration with external content providers](../concept/integration-external-content-providers.md)
+Multi Provider plugin should be installed. Fro more information, see [Activate Multi Provider Document Services Framework](activate-multi-provider-doc-framework.md) and [Document Management integration with external content providers](integration-external-content-providers.md)
 
 Role required: none
 
@@ -68,5 +68,5 @@ Role required: none
     4.  Select **Upload** to upload a new document version.
 
 
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](document-management-workspace.md)
 

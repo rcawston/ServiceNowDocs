@@ -26,14 +26,14 @@ You can create and add input parameters to the Insurance claims automation rules
 
 If you add new input parameters, you can also add or modify the corresponding subflows. This adjustment ensures that the subflow properly passes the new parameters to the decision table, which allows it to function correctly with the updated logic.
 
-You can modify the included decision table in the Insurance claims application so that you can define how claims are triaged in your workflow. For more information, see [Use claim automation decision tables](../task/update-insurance-claims-automation-using-decision-tables.md).
+You can modify the included decision table in the Insurance claims application so that you can define how claims are triaged in your workflow. For more information, see [Use claim automation decision tables](update-insurance-claims-automation-using-decision-tables.md).
 
 **Related topics**  
 
 
 [Using decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 
-[Configure flows](../../fso-common/task/configure-flow-designer-flows-fso-apps.md)
+[Configure flows](../configure-flow-designer-flows-fso-apps.md)
 
-[Designer flows for Financial Services Operations applications](../../fso-common/reference/flow-designer-flows-fso-apps.md)
+[Designer flows for Financial Services Operations applications](../flow-designer-flows-fso-apps.md)
 

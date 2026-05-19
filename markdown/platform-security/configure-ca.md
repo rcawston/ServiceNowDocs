@@ -20,9 +20,9 @@ Configure continuous authentication \(CA\) policies to re-authenticate the users
     **Note:** You must elevate your role to **ca\_admin**.
 
 -   You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) for opting CA which requires a license.
--   Enable the Continuous Authentication \(**glide.zta.continuous\_authentication.enabled**\) system property. For more information, see [System properties](../concept/ca-system-properties.md).
+-   Enable the Continuous Authentication \(**glide.zta.continuous\_authentication.enabled**\) system property. For more information, see [System properties](ca-system-properties.md).
 -   Activate the Integration - Multiple Provider Single Sign-On Installer \(**com.snc.integration.sso.multi.installer**\) plugin.
--   Understand the pre-work that is required before configuring CA for the instance. For more information, see [Pre-work for Continuous Authentication](../concept/pre-work-ca.md).
+-   Understand the pre-work that is required before configuring CA for the instance. For more information, see [Pre-work for Continuous Authentication](pre-work-ca.md).
 -   CA policies can be configured for Data Class or Table.
 
 ## Procedure
@@ -67,7 +67,7 @@ Select the resources
 
 Options: -   **Data Class**. You can create data class and use it for CA policy configuration.
 
-**Note:** To know more about how to create data class, see [Data Classification](../../../administer/security/concept/data-classification.md).
+**Note:** To know more about how to create data class, see [Data Classification](data-classification/data-classification.md).
 
 -   **Table**
 **Note:**
@@ -84,9 +84,9 @@ Options: -   **Data Class**. You can create data class and use it for CA policy 
 
     -   **SSO based login**: Specify the fields in the **Continuous Authentication** tab within the Identity Provider record and the set the Identity Provider record as **Active**. ![Continuous Authentication - tab information](../images/ca-tab.png)
 
-        To know more about Identity Providers configuration, see [OIDC](../../single-sign-on/task/create-OIDC-configuration-SSO.md) and [SAML](../../single-sign-on/task/t_CreateASAML2Upd1SSOConfigMultiSSO.md).
+        To know more about Identity Providers configuration, see [OIDC](authentication/create-OIDC-configuration-SSO.md) and [SAML](authentication/t_CreateASAML2Upd1SSOConfigMultiSSO.md).
 
-    -   **Non-SSO based login**: By default, if there are no Identity Provider with Continuous Authentication configuration, Multi-factor Authentication \(MFA\) is used as a login method. Make sure the MFA properties are Active and configured based on your requirement. To know more about MFA properties, see [Multi-factor Authentication system properties](../reference/mfa-properties.md).
+    -   **Non-SSO based login**: By default, if there are no Identity Provider with Continuous Authentication configuration, Multi-factor Authentication \(MFA\) is used as a login method. Make sure the MFA properties are Active and configured based on your requirement. To know more about MFA properties, see [Multi-factor Authentication system properties](authentication/mfa-properties.md).
 5.  Select **Save &amp; Activate**.
 
 
@@ -119,9 +119,9 @@ To know more about the end to end configuration of continuous authentication for
 **Related topics**  
 
 
-[Exploring Continuous Authentication](../concept/explore-continuous-auth.md)
+[Exploring Continuous Authentication](explore-continuous-auth.md)
 
-[Pre-work for Continuous Authentication](../concept/pre-work-ca.md)
+[Pre-work for Continuous Authentication](pre-work-ca.md)
 
 [Activating Continuous Authentication](activate-continuous-authentication.md)
 

@@ -78,5 +78,5 @@ Enables you to choose from a list of programming languages and write a validatio
 </table>3.  To delete a validation rule, click the delete icon \(![Delete icon.](../image/remove-icon.png)\) and in the Confirmation dialog box, click **Yes**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

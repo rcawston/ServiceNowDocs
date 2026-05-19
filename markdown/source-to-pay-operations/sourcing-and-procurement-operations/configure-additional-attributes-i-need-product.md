@@ -38,5 +38,5 @@ Role required: admin
 5.  Go to the Table Transform Map: Non catalog intake, and check if the field mapping between the source and target is correct.
 
 
-**Parent Topic:**[Requesting for products or services that you don't see on ShoppingHub](../concept/request-prod-serv-dont-see-sh.md)
+**Parent Topic:**[Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md)
 

@@ -17,7 +17,7 @@ The CMDBTransformUtil script include uses the Identification and Reconciliation 
 
 The IRE framework also reconciles CI attributes by only accepting information from authorized sources when updating the CMDB in `onBefore` transform map scripts. You can't use this class in other scripts. For additional information on how the IRE framework operates, see [CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CMDBTransformUtil - CMDBTransformUtil\(\)
 

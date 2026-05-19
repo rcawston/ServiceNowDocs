@@ -21,11 +21,11 @@ This enables organizations to ensure compliance, allocate resources effectively,
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore OTM license![](../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about subscription-related details](../concept/otm-license-module.md)
+[Explore OTM license![](../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about subscription-related details](otm-license-module.md)
 
 </td><td>
 
-[Install ITOM SU Licensing for OTM![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Update the latest version of plugin](../task/install-otm-su-licensing.md)
+[Install ITOM SU Licensing for OTM![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Update the latest version of plugin](install-otm-su-licensing.md)
 
 </td><td>
 

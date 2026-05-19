@@ -73,7 +73,7 @@ Creating a custom application to contain your Workflow Studio content enables yo
 
     1.  In the **How will you get data** field, select **REST Step**, **SOAP Step**, or **JDBC Step** to add the associated step to the Data Stream action.
 
-        For more information, see [REST step](../../flow-designer/reference/rest-request-action-designer.md), [SOAP step](../../flow-designer/reference/soap-step-action-designer.md), and [JDBC step](../../flow-designer/reference/jdbc-step.md) .
+        For more information, see [REST step](rest-request-action-designer.md), [SOAP step](soap-step-action-designer.md), and [JDBC step](jdbc-step.md) .
 
         This section can run on either the MID Server or the instance. The environment is determined by the **Use MID server** field in the associated Connection \[sys\_connection\] record.
 
@@ -270,5 +270,5 @@ Creating a custom application to contain your Workflow Studio content enables yo
 
 [Test a Data Stream action](test-data-stream-action.md).
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](data-stream-actions.md)
 

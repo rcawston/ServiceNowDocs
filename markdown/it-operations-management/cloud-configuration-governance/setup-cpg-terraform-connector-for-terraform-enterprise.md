@@ -20,7 +20,7 @@ Create Terraform Enterprise or Terraform Cloud config provider in Cloud Provisio
 -   Ensure that a supported Terraform Enterprise or Terraform Cloud version is in use. Cloud Services Catalog Terraform Connector supports the following Terraform versions:
     -   Terraform Enterprise versions 1.1.9 and 1.2.0 or higher
     -   Terraform Cloud versions 1.1.9 and 1.2.0 or higher
--   To use a minor or patch version of the Terraform Enterprise or Terraform Cloud, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](../../cloud-management-v2-setup/task/terraform-use-minor-patch-version-cli.md).
+-   To use a minor or patch version of the Terraform Enterprise or Terraform Cloud, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](terraform-use-minor-patch-version-cli.md).
 -   Ensure that the following properties are correctly configured in the MID Server. The MID Server uses these properties to connect with the Terraform Enterprise or Terraform Cloud.
 
     -   **glide.http.proxy\_host**
@@ -48,7 +48,7 @@ Role required: admin
 
     3.  On the form, fill in the fields.
 
-        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Create Config Provider form reference](../reference/cpg-terraform-connector-config-provider-form.md).
+        For a description of the form fields, see [Cloud Services Catalog Terraform Connector Create Config Provider form reference](cpg-terraform-connector-config-provider-form.md).
 
     4.  Select **Submit**.
 

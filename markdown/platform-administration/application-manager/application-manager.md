@@ -49,7 +49,7 @@ Application Manager Overview
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find information about Application Manager status indicators.](../reference/app-mgr-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find information about Application Manager status indicators.](app-mgr-reference.md)
 
 </td><td>
 

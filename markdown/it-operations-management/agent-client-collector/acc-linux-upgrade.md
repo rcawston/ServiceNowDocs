@@ -69,5 +69,5 @@ Upgrade your existing Agent Client Collector version on a system running a Linux
     ```
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](acc-install-linux-concept.md)
 

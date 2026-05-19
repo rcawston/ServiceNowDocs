@@ -32,5 +32,5 @@ The following table lists the data collector function parameters and how they ca
 |Input|Inputs are used as parameters that help collect the correct data to be used in the policy.|
 |Output|The parameter is used to pass the output of the data collector. Outputs are used to specify output variables that can be used in the policy logic.|
 
-Refer to the [Data type descriptions](../reference/pace-data-type-descriptions.md) topic to see a list of the supported data types for the inputs and outputs.
+Refer to the [Data type descriptions](pace-data-type-descriptions.md) topic to see a list of the supported data types for the inputs and outputs.
 

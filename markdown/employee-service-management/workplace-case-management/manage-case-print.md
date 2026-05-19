@@ -25,13 +25,13 @@ Use one of the following options to proceed:
 **Related topics**  
 
 
-[View and track workplace cases](../task/view-workplace-cases.md)
+[View and track workplace cases](view-workplace-cases.md)
 
-[View emergency maintenance case details](../task/view-emergency-maint-case.md)
+[View emergency maintenance case details](view-emergency-maint-case.md)
 
-[View change event reservation case details](../task/view-case-change-event-reservation.md)
+[View change event reservation case details](view-case-change-event-reservation.md)
 
-[Print workplace cases](../task/print-workplace-cases.md)
+[Print workplace cases](print-workplace-cases.md)
 
 ## Print filtered cases
 

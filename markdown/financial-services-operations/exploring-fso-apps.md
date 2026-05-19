@@ -33,7 +33,7 @@ Key features of the FSO include:
 
 ## Financial Services Operations users
 
-For more information on user roles in FSO, see [User roles and FSO Business rules](../reference/fso-core-roles.md).
+For more information on user roles in FSO, see [User roles and FSO Business rules](fso-core-roles.md).
 
 ## Financial Services Operations workflow
 

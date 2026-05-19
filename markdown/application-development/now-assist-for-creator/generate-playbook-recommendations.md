@@ -51,5 +51,5 @@ When your playbook's trigger conditions are met, your playbook runs. As a result
 
 Design the Playbook Experience for your agents and fulfillers in UI Builder. To learn how to design and customize the runtime playbook experience in UI Builder, see [Customizing the Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-customize-playbook.md).
 
-**Parent Topic:**[Playbook recommendations](../concept/playbook-recommendations-landing.md)
+**Parent Topic:**[Playbook recommendations](playbook-recommendations-landing.md)
 

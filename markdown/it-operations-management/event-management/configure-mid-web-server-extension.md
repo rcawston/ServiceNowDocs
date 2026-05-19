@@ -28,7 +28,7 @@ Agent Client Collector supports the following authentication strategies:
 
 -   **Keybased**: For backwards \(pre-Australia release\) compatibility only. See [Configure key-based MID Web Server authentication](configure-mid-web-server-extension-metric-data.md).
 -   **API key**: See [Configure MID Web Server API key authentication](mid-web-server-api-key-authentication.md).
--   **mTLS**: See [MID Web Server and agent mTLS Authentication](../concept/mid-web-server-mTLS-authentication.md).
+-   **mTLS**: See [MID Web Server and agent mTLS Authentication](mid-web-server-mTLS-authentication.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Agent Client Collector supports the following authentication strategies:
 
 2.  In the MID Web Server Contexts list, click **New**.
 
-3.  Fill in the values on the [Event Management MID Web Server extension form](../reference/configure-midwebserver-extension-form.md).
+3.  Fill in the values on the [Event Management MID Web Server extension form](configure-midwebserver-extension-form.md).
 
 4.  Click **Save** to save the data.
 

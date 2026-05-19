@@ -136,13 +136,13 @@ To build multiple term queries or specify multiple field values
 </table>
 -   **[Enable tiny URL support](t_EnableTinyURLSupport.md)**  
 The default URLs by which the system renders pages may exceed the character limit of some browsers, resulting in an error message. You can enable tiny URL support, which generates shortened internal URLs, to help prevent this error.
--   **[Examples of navigating by URL](../reference/r_NavigatingByURLExamples.md)**  
+-   **[Examples of navigating by URL](r_NavigatingByURLExamples.md)**  
 A list of example URLs that demonstrate ways to open pages in the ServiceNow application.
 
-**Parent Topic:**[Forms in the classic environment](../../using-forms/concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](c_UsingForms.md)
 
 **Related topics**  
 
 
-[Page navigation by URL](../../../build/service-portal/concept/navigate-by-portal-url.md)
+[Page navigation by URL](service-portal/navigate-by-portal-url.md)
 

@@ -130,5 +130,5 @@ Action plans
 Action plans for issues for the target's entity, which are identified in the cybersecurity activity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[NIST CSF Use Case Accelerator](../concept/grc-csf-usecase-accelerator.md)
+</table>**Parent Topic:**[NIST CSF Use Case Accelerator](grc-csf-usecase-accelerator.md)
 

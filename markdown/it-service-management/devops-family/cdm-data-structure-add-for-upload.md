@@ -23,7 +23,7 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## About this task
 
-When the system creates a new application, the application has only the highest level of structure: **components**, **collections**, and **deployables** folders. In this procedure, you add the component, collection, and deployable nodes that will accept the uploaded config data. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For more information, see [CDM data model](../reference/cdm-data-model.md).
+When the system creates a new application, the application has only the highest level of structure: **components**, **collections**, and **deployables** folders. In this procedure, you add the component, collection, and deployable nodes that will accept the uploaded config data. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For more information, see [CDM data model](cdm-data-model.md).
 
 **Note:**
 
@@ -57,7 +57,7 @@ Starting with Configuration Data Management version 4.2, you can define a node u
 
     -   An application can contain a maximum total of 100,000 CDIs.
     -   Any single deployable can contain a maximum of 10,000 CDIs.
-    See [CDM system properties](../reference/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
+    See [CDM system properties](cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
 
     For more information, see [Define or update a component](cdm-component-define.md), [Define or update a collection in an application](cdm-collection-define.md), or [Create or update a variable CDI](cdm-variables-crud.md).
 
@@ -90,18 +90,18 @@ Starting with Configuration Data Management version 4.2, you can define a node u
 
 ## What to do next
 
-The application does not yet contain config data, so the next step is to import your existing configuration data into the appropriate nodes in the application. See [Uploading your config data](../concept/cdm-upload-process.md).
+The application does not yet contain config data, so the next step is to import your existing configuration data into the appropriate nodes in the application. See [Uploading your config data](cdm-upload-process.md).
 
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](cdm-data-model.md)
 
-[Parsing of XML files in CDM](../concept/cdm-parsing-xml-file.md)
+[Parsing of XML files in CDM](cdm-parsing-xml-file.md)
 
-[Parsing of CSV files in CDM](../concept/cdm-parsing-csv-file.md)
+[Parsing of CSV files in CDM](cdm-parsing-csv-file.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](cdm-editing-config-data-changesets.md)
 
 [Define or update a component](cdm-component-define.md)
 
@@ -109,5 +109,5 @@ The application does not yet contain config data, so the next step is to import 
 
 [Create or update a variable CDI](cdm-variables-crud.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](cdm-secrets-managing.md)
 

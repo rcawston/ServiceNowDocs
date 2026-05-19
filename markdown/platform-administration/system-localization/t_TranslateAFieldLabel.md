@@ -35,6 +35,6 @@ The following procedure works best for translating individual field labels, such
 
 5.  Right-click the header bar and select **Insert**.
 
-    Selecting **Insert** creates a new record in the Field Label \[sys\_documentation\] table for this field label in the selected language. For more information about this table, see [Field Label table](../reference/r_FieldLabelTable.md).
+    Selecting **Insert** creates a new record in the Field Label \[sys\_documentation\] table for this field label in the selected language. For more information about this table, see [Field Label table](r_FieldLabelTable.md).
 
 

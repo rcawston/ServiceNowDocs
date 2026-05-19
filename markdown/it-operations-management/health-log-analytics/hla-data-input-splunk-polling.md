@@ -39,11 +39,11 @@ Role required: evt\_mgmt\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Splunk Polling data input configuration fields](../reference/hla-data-input-splunk-polling-ref.md).
+    For a description of the fields, see [Splunk Polling data input configuration fields](hla-data-input-splunk-polling-ref.md).
 
 5.  Select **Advanced** to set additional configuration fields.
 
-    On the **Transport tab** and **Advanced tab**, fill in the fields. For a description of the fields, see [Splunk Polling data input configuration fields](../reference/hla-data-input-splunk-polling-ref.md).
+    On the **Transport tab** and **Advanced tab**, fill in the fields. For a description of the fields, see [Splunk Polling data input configuration fields](hla-data-input-splunk-polling-ref.md).
 
 6.  Select **Save**.
 
@@ -62,5 +62,5 @@ Role required: evt\_mgmt\_admin
 8.  Select **Publish** to publish the data input to the MID Server.
 
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 

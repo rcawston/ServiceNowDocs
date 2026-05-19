@@ -15,9 +15,9 @@ breadcrumb: [Automated Test Framework \(ATF\) reference, Automated Test Framewor
 
 Open the Suites Schedules table. You can drill down to see details about the results of individual schedules or create a new schedule.
 
--   **[Suite schedule record](../reference/atf-suite-schedule-record.md)**  
+-   **[Suite schedule record](atf-suite-schedule-record.md)**  
 The Suite Results record displays information about one test suite schedule.
--   **[Scheduled suite run record](../reference/atf-suite-sched-run-record.md)**  
+-   **[Scheduled suite run record](atf-suite-sched-run-record.md)**  
 A Scheduled Suite Run record associates a Suite Schedule record with a Test Suite.
 
 **Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)

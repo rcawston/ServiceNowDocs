@@ -95,5 +95,5 @@ You can monitor your content crawl's status or review its results using the craw
 
 If you need to cancel your running content crawl, see [Cancel a running external content connector crawl](cancel-ext-cont-connector-crawl.md).
 
-**Parent Topic:**[Crawling content with External Content Connectors](../concept/using-ext-cont-connectors.md)
+**Parent Topic:**[Crawling content with External Content Connectors](using-ext-cont-connectors.md)
 

@@ -78,9 +78,9 @@ Unit
 
 </td><td>
 
-The unit of measurement for the score, such as number, days, or percentages.To collect scores in the system reference currency on a Price, Currency, or FX Currency field, select **Use reference currency**. For more information, see [Indicator scores in reference currency](../concept/indicator-scores-reference-currency.md).
+The unit of measurement for the score, such as number, days, or percentages.To collect scores in the system reference currency on a Price, Currency, or FX Currency field, select **Use reference currency**. For more information, see [Indicator scores in reference currency](indicator-scores-reference-currency.md).
 
- If you select % or a time period as the unit, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](../concept/c_ExcludingTimeSeriesFromIndicators.md).
+ If you select % or a time period as the unit, consider excluding some types of time series from being applied to the indicator. For more information, see [Exclude time series from an indicator](c_ExcludingTimeSeriesFromIndicators.md).
 
 If you select Time as the unit, the time is given as Days, Hours, and Minutes. If the system property **glide.ui.duration.seconds.enabled** exists and is true, seconds are also displayed. In this case, seconds are also displayed for all-time fields on the instance and are included in exports to Microsoft Excel.
 
@@ -90,7 +90,7 @@ Precision
 
 </td><td>
 
-The number of digits behind the decimal separator. For more information, see [Rounding and precision in indicators](../concept/r_FormulaRounding.md).This field isn’t available when the unit is **Use reference currency**. In this case, the precision is inherited from the reference currency.
+The number of digits behind the decimal separator. For more information, see [Rounding and precision in indicators](r_FormulaRounding.md).This field isn’t available when the unit is **Use reference currency**. In this case, the precision is inherited from the reference currency.
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Number format
 
 </td><td>
 
-The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](../concept/r_FormulaRounding.md).
+The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](r_FormulaRounding.md).
 
 </td></tr></tbody>
 </table>6.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
@@ -130,7 +130,7 @@ Default time series
 
 A predefined analytical function, like a 7-days running average, to apply to the indicator instead of showing the raw scores of the indicator.
 
- For more information, see [Applying time series aggregations](../concept/applying-time-series-aggregations.md#).
+ For more information, see [Applying time series aggregations](applying-time-series-aggregations.md#).
 
 **Note:** You can’t set the default time series for an indicator that uses a business or fiscal calendar. These calendars do not support time series aggregations.
 
@@ -175,7 +175,7 @@ When selected, the Analytics Hub and KPI Details show unbroken data lines for th
 </td></tr></tbody>
 </table>9.  In the **Forecasting** tab, set the forecast method, the number of data collection periods to forecast, the amount of historical data to base the forecast on, and the upper and lower limits of forecast values.
 
-    For more information, see [Performance Analytics scores forecasts](../concept/c_ForecastingData.md#).
+    For more information, see [Performance Analytics scores forecasts](c_ForecastingData.md#).
 
 
 ## What to do next
@@ -185,7 +185,7 @@ Create manual breakdowns and assign them to this indicator. Then, manually add s
 **Related topics**  
 
 
-[Manual breakdowns](../concept/manual-breakdowns.md#)
+[Manual breakdowns](manual-breakdowns.md#)
 
 [Add or edit indicator scores manually](t_ManuallyAddingScoresForIndicators.md)
 

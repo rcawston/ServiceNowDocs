@@ -50,5 +50,5 @@ Implement and customize My security metrics dashboard. Add metrics and content t
     2.  Select **Confirm**.
 
 
-**Parent Topic:**[Security metrics](../concept/sc-metrics.md)
+**Parent Topic:**[Security metrics](sc-metrics.md)
 

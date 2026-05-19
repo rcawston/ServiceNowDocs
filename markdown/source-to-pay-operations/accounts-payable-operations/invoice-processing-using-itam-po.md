@@ -29,7 +29,7 @@ Role required: Accounts\_payable\_specialist \[sn\_ap\_apm.accounts\_payable\_sp
 
 3.  Create an invoice with the ITAM purchase order.
 
-    For more information on invoices, [Create an invoice manually](create-invoice.md). The Accounts Payable Operations checks whether the received quantity in the ITAM receiving slip matches the invoiced quantity. In case of mismatch, an insufficient goods receipt exception is triggered and automatically the ITAM user is notified through email. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md).
+    For more information on invoices, [Create an invoice manually](create-invoice.md). The Accounts Payable Operations checks whether the received quantity in the ITAM receiving slip matches the invoiced quantity. In case of mismatch, an insufficient goods receipt exception is triggered and automatically the ITAM user is notified through email. For more information on exceptions, see [Invoice exceptions](work-with-invoice-exceptions.md).
 
 4.  The Accounts Payable Operations automatically verifies and revalidates the invoice.
 

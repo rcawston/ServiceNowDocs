@@ -83,9 +83,9 @@ Time \(in minutes\) beyond which data is considered stale.Beyond this time, fres
 </table>4.  Select **Submit** to save the connector configuration.
 
 
-**Parent Topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 
-**Previous topic:**[Setup Workplace Connectors for environmental data](../concept/setup-environmental-data-connectors.md)
+**Previous topic:**[Setup Workplace Connectors for environmental data](setup-environmental-data-connectors.md)
 
 **Next topic:**[Provider Connector Configuration for Environmental sensors](wsd-env-provider-connectorconfig.md)
 

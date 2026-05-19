@@ -17,7 +17,7 @@ Plan and configure your Major Security Incident Management implementation.
 
 You can configure the following aspects of Major Security Incident Management administration:
 
-**Parent Topic:**[Major Security Incident Management](../reference/major-security-incident-management-landing-page.md)
+**Parent Topic:**[Major Security Incident Management](major-security-incident-management-landing-page.md)
 
 ## Enable proposal, promotion, and linking of major security incidents
 

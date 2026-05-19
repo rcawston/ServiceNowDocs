@@ -29,7 +29,7 @@ The ServiceNow® Performance Analyzer application enables you to access page loa
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Performance Analyzer.](../reference/performance-analyzer-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Performance Analyzer.](performance-analyzer-reference.md)
 
 </td></tr></tbody>
 </table>

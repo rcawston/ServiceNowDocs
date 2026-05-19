@@ -50,5 +50,5 @@ Public pages won't require a user login; anyone can access them. All other optio
 
 Follow the steps in [Configure widget security](configure-widget-security.md) to configure security for the widgets on your page.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](portal-security.md)
 

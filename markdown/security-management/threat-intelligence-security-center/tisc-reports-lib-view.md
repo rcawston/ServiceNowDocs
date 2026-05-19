@@ -137,11 +137,11 @@ Intelligence Reports appear in the **All Reports** and **Intelligence Reports** 
 
 -   **[View All Reports](tisc-reports.md)**  
 Use this section to view all the list of reports.
--   **[View Case Reports](../task/tisc-case-reports.md)**  
+-   **[View Case Reports](tisc-case-reports.md)**  
 View Case Reports.
--   **[View Intelligence Reports](../task/tisc-view-intel-reports.md)**  
+-   **[View Intelligence Reports](tisc-view-intel-reports.md)**  
 View intelligence reports.
--   **[View my reports](../task/tisc-view-my-reports.md)**  
+-   **[View my reports](tisc-view-my-reports.md)**  
 View the reports that you created.
 
 **Parent Topic:**[TISC Library Repository](tisc-ioc.md)
@@ -159,7 +159,7 @@ View the reports that you created.
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
 

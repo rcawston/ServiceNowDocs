@@ -61,5 +61,5 @@ Role required: user\_admin
 
 ### Result
 
-The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [Associate a group to a business location](../task/associate-a-group-to-a-business-location-so.md).
+The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [Associate a group to a business location](associate-a-group-to-a-business-location-so.md).
 

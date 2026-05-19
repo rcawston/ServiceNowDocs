@@ -77,5 +77,5 @@ You can allocate funds to only those entities that are added in the **Fundable e
 -   Funds are allocated to selected investments for the specified period.
 -   The state of funded investments changes to Funded.
 
-**Parent Topic:**[Investment Funding](../concept/investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](investment-funding-overview.md)
 

@@ -17,11 +17,11 @@ Use the additional features available within the Service Graph Connector for AWS
 
 The following features are available within the Service Graph Connector for AWS:
 
--   **[Enabling optimized deletion of retired CIs in AWS](../task/sgc-cmdb-aws-delete-cis.md)**
+-   **[Enabling optimized deletion of retired CIs in AWS](sgc-cmdb-aws-delete-cis.md)**
 
     Enable the **sn\_aws\_integ.enableOptimizedDeletion** system property for the optimized deletion of retired configuration items \(CIs\) in AWS during delta import of data.
 
--   **[Enabling optimized SG-AWS-SendCommand data source performance](../task/sgc-cmdb-aws-ssm-prop.md)**
+-   **[Enabling optimized SG-AWS-SendCommand data source performance](sgc-cmdb-aws-ssm-prop.md)**
 
     When using the SG-AWS-Software-Inventory data source, enable the **sn\_aws\_integ.is\_software\_inventory\_enabled** system property for optimizing the performance of the SG-AWS-SendCommand and SG-AWS-SSM-GetS3Object data sources.
 
@@ -34,11 +34,11 @@ The following features are available within the Service Graph Connector for AWS:
     Avoid the memory utilization errors when using the Service Graph Connector for AWS to import a large number of CIs from an AWS instance.
 
 
--   **[Setting up partition size with parallel loading enabled](../task/sgc-aws-partition-size-prop.md)**
+-   **[Setting up partition size with parallel loading enabled](sgc-aws-partition-size-prop.md)**
 
     Optimize the performance of the SG-AWS-Image-Private, SG-AWS-Tags, SG-AWS-SendCommand, and AWS-SSM-GetS3Object data sources by configuring the partition size setting in the **aws\_account\_partition\_size** connection property.
 
--   **[Disable parallel loading for Service Graph Connector for AWS data sources](../task/sgc-aws-disable-parallel-loading.md)**
+-   **[Disable parallel loading for Service Graph Connector for AWS data sources](sgc-aws-disable-parallel-loading.md)**
 
     Disable parallel loading for specific data sources in the Service Graph Connector for AWS.
 
@@ -46,7 +46,7 @@ The following features are available within the Service Graph Connector for AWS:
 
     Optimize performance when using the Service Graph Connector for AWS by enabling the parallel deletion of CIs.
 
--   **[Enable mapping for Cloud Os Image in AWS](../task/sgc-cmdb-aws-map-cloud-data.md)**
+-   **[Enable mapping for Cloud Os Image in AWS](sgc-cmdb-aws-map-cloud-data.md)**
 
     Enable mapping of AWS Cloud Os Image data to the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table.
 

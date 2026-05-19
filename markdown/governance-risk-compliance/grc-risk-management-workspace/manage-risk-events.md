@@ -63,7 +63,7 @@ The risk events workflow is summarized in the following figure:
 **Related topics**  
 
 
-[Create a risk event in the Risk Workspace](../../grc-workspace-risk/task/create-risk-event-workspace.md)
+[Create a risk event in the Risk Workspace](create-risk-event-workspace.md)
 
 ## Relationship between risks, risk events, and risk statements
 
@@ -89,7 +89,7 @@ The Basel categorization is specific to the banking industry. This categorizatio
 -   Business disruption and system failures
 -   Execution, delivery, and process management
 
-For more information, see [Properties installed with Advanced Risk](../../grc-common/reference/advanced-risk-properties.md) and [Properties installed with Risk Management](r_PropInstallWRisk.md)
+For more information, see [Properties installed with Advanced Risk](advanced-risk-properties.md) and [Properties installed with Risk Management](r_PropInstallWRisk.md)
 
 To enable Basel categorization, set **Show Basel attributes and reports** to **Yes**.
 

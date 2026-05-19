@@ -18,15 +18,15 @@ You can edit the contents of a dashboard, including Performance Analytics widget
 
 ## Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Edit Platform Analytics dashboards](edit-db-in-ac.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Edit Platform Analytics dashboards](../edit-db-in-ac.md).
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](../../par-for-workspace/task/data-migration-migrate-dbs-you-own.md).
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](../data-migration-migrate-dbs-you-own.md).
 
 If Platform Analytics experience is enabled, the dashboard picker shows both Core UI and Platform Analytics experience dashboards.
 
 Core UI dashboard backgrounds are not themeable with custom colors.
 
-Role required: The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. See [Dashboard permissions](../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
+Role required: The dashboard\_admin role is required to create or edit Core UI Responsive Dashboards, which may still be necessary in Service Portal, for example. See [Dashboard permissions](c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 
@@ -154,7 +154,7 @@ Interactive filters let users filter data for all report widgets on a dashboard 
 2.  From the list, select **Interactive Filters**.
 3.  Navigate to the filter you want to add.
 4.  Click **Add**.
-For more information, see [Interactive Filters](../concept/c_HomepagePublishers.md).
+For more information, see [Interactive Filters](../interactive-filters/c_HomepagePublishers.md).
 
 </td></tr><tr><td id="d230692e545">
 
@@ -190,7 +190,7 @@ Point to the widget, then click the question mark \(![Question mark icon](../ima
 -   **[Configure the layout of a responsive dashboard](configure-widget-layouts.md)**  
 You can change the appearance of widgets; change widget layouts; change the colors of the widget title, header, and background; and show or hide widget headers.
 
-**Parent Topic:**[Create and use dashboards](../concept/create-and-edit-dashboards.md)
+**Parent Topic:**[Create and use dashboards](create-and-edit-dashboards.md)
 
 **Related topics**  
 

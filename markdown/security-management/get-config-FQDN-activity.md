@@ -35,5 +35,5 @@ The output variables contain data that can be used in subsequent actions.
 
 The fqdn field on the configuration item must be populated.
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

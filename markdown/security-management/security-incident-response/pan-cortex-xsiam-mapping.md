@@ -122,5 +122,5 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
 Define and set filter conditions to specify which incidents should create security incidents. You can use the same field values \(defined in the Mapping section\) in the incident Generation Conditions builder \(in the Filtering and Aggregation section\) to define additional criteria that an incoming incident must satisfy to create a security incident.
 
-For more information, see [Define filter and aggregation criteria](../concept/xsiam-filtering-and-aggregation.md#)
+For more information, see [Define filter and aggregation criteria](xsiam-filtering-and-aggregation.md#)
 

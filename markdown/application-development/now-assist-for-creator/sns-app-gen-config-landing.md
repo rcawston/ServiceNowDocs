@@ -18,9 +18,9 @@ To build applications with app generation, install Now Assist for Creator and en
 
 Before you can generate applications, install Now Assist for Creator on your instance and enable the app generation skill in the Now Assist Admin console. This gives app generation the permissions and AI capabilities it needs to build applications for you. You also need to set app generation as your preference for creating AI-assisted applications in the ServiceNow Studio user preferences menu.
 
--   **[Turn on the app generation skill](../task/sns-app-gen-install.md)**  
+-   **[Turn on the app generation skill](sns-app-gen-install.md)**  
 Install the Now Assist for Creator application so that you can get started with creating an application for your organization.
--   **[Use the app generation skill to generate apps](../task/sns-app-gen-use-app-gen-skill.md)**  
+-   **[Use the app generation skill to generate apps](sns-app-gen-use-app-gen-skill.md)**  
 By default, ServiceNow Studio uses Build Agent to create apps with AI. To use the app generation skill instead, disable the Build Agent setting in your ServiceNow Studio preferences.
 
 **Parent Topic:**[App generation](sns-now-assist-app-gen-landing.md)

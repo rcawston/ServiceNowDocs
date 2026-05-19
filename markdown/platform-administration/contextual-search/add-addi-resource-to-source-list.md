@@ -23,7 +23,7 @@ Role required: admin
 
 Additional resources are pre-defined. An additional resource is either a searchable source table with query conditions or a reference to a Predictive Intelligence Similarity solution definition.
 
-**Note:** You can only view the Predictive Intelligence resources if you are licensed for Predictive Intelligence and have activated [Predictive Intelligence for Contextual Search](../concept/predictive-intelligence-for-cxs.md).
+**Note:** You can only view the Predictive Intelligence resources if you are licensed for Predictive Intelligence and have activated [Predictive Intelligence for Contextual Search](../machine-learning-solutions-for-search/predictive-intelligence-for-cxs.md).
 
 ## Procedure
 
@@ -52,7 +52,7 @@ Additional resources are pre-defined. An additional resource is either a searcha
     ![Additional resources displayed in Additional Resource Configurations related list.](../image/predictive-intelli-similarity1.png)
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 
 **Related topics**  
 

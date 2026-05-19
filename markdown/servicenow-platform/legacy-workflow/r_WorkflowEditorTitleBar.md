@@ -21,7 +21,7 @@ Controls on the right side of the title bar manage the workflow.
 
 -   **Workflow Properties** ![Workflow properties icon](../image/WorkflowPropertiesIcon.png): Opens the current workflow's properties form.
 -   **Start** ![Run the workflow icon](../image/RunWorkflowIcon.png): Runs the workflow. This control is only available for workflows running on the Global table that are accessible from all application scopes. To test workflows that are on other tables, insert a record into that table that meets the condition of the workflow.
--   **Validate** ![Validate the workflow icon](../image/ValidateWorkflowIcon.png): Tests the workflow prior to publication. Validation detects potential problems that can prevent the workflow from publishing or cause the workflow to fail. For more information, see [Workflow Validation](../../workflow-validation/concept/c_WorkflowValidation.md).
+-   **Validate** ![Validate the workflow icon](../image/ValidateWorkflowIcon.png): Tests the workflow prior to publication. Validation detects potential problems that can prevent the workflow from publishing or cause the workflow to fail. For more information, see [Workflow Validation](c_WorkflowValidation.md).
 -   **Help** ![Help icon](../image/HelpIcon.png): Opens documentation to help you create the workflow.
 
 ## Workflow menu
@@ -43,12 +43,12 @@ These menu options are available:
 |Set Inactive|Inactivates the workflow so that it cannot be used.|
 |Expand Transitions|Redraws the transitions so that they do not overlap when they leave the activity condition.|
 |Start Workflow|Starts a test run of the current workflow.|
-|Validate Workflow|Runs validation tests on your workflow prior to publication. Use this validation to detect potential problems that can prevent the workflow from publishing or cause the workflow to fail. For more information, see [Work on workflows](../../workflow-administration/task/work-on-workflows.md#).|
+|Validate Workflow|Runs validation tests on your workflow prior to publication. Use this validation to detect potential problems that can prevent the workflow from publishing or cause the workflow to fail. For more information, see [Work on workflows](work-on-workflows.md#).|
 |Collapse Transitions|Redraws the transitions so they overlap when they leave the activity condition.|
-|Show Contexts|Displays all the [contexts](../../workflow-administration/reference/r_AdministeringWorkflowContexts.md) for the current workflow. You can use this option to troubleshoot a workflow.|
+|Show Contexts|Displays all the [contexts](r_AdministeringWorkflowContexts.md) for the current workflow. You can use this option to troubleshoot a workflow.|
 |Properties|Opens the Workflow Properties form, which defines the workflow's attributes.|
-|Edit Inputs|Opens the Workflow Inputs list of variables that the workflow can accept when used as a subflow. For more information, see [Pass a variable from a workflow to a subflow](../../workflow-activities/task/t_VariableWorkflowSubflow.md#).|
-|Edit Stages|Opens the Workflow Stages list. For more information, see [Workflow stages](../../using-workflows/concept/c_WorkflowStages.md). For tables with a column of Type = Workflow.|
+|Edit Inputs|Opens the Workflow Inputs list of variables that the workflow can accept when used as a subflow. For more information, see [Pass a variable from a workflow to a subflow](t_VariableWorkflowSubflow.md#).|
+|Edit Stages|Opens the Workflow Stages list. For more information, see [Workflow stages](c_WorkflowStages.md). For tables with a column of Type = Workflow.|
 
 **Parent Topic:**[Workflow editor](workflow-editor.md)
 

@@ -70,5 +70,5 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](../employee-service-management/cncore-request-ss-contract-1.md)
 

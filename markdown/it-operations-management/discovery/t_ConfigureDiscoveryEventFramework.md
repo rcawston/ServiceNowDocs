@@ -47,8 +47,8 @@ When an input record is added to the ECC Queue, a business rule is triggered, wh
 
 **Note:** To update a job priority, configure the **com.glide.queue.discovery.sensors.processing\_jobs.priority** and **com.glide.queue.discovery.cloud.sensors.processing\_jobs.priority** system properties. For more information, see [Configure the job priority of background workers for Event Framework](t_ConfigureBackgroundWorkerJobPriorityEF.md).
 
--   **[Optimizing Discovery load for Event Framework](../concept/c_FineTuneDiscoLoadEF.md)**  
+-   **[Optimizing Discovery load for Event Framework](c_FineTuneDiscoLoadEF.md)**  
 You can optimize Discovery properties to adjust throughput and enhance safety when pinning jobs.
 
-**Parent Topic:**[Advanced Discovery configuration](../concept/c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
 

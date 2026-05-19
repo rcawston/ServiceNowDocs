@@ -17,7 +17,7 @@ Employee Center for IT Service Management helps you improve the self-service cap
 
 Automate routine agent interactions and increase the speed of resolution from the Employee Center portal. Recommendations based on machine learning enable automated incident categorization and assignment. It helps eliminate bottlenecks created by manual incident management on the IT Service Management ITSM.
 
-For more information on the Employee Center portal and the features, see [Employee Center](../../concept/employee-center-landing-page.md).
+For more information on the Employee Center portal and the features, see [Employee Center](employee-center-landing-page.md).
 
 ## All that you get with Employee Center for ITSM
 
@@ -115,12 +115,12 @@ Configure portal
 
 </td><td>
 
-Configure the following capabilities to optimize the user experience.-   [Employee requests page](../../concept/employee-center-requests-page-configuration.md)
--   [Quick links](../../concept/emp-center-quick-link-config.md)
--   [Recommended for you](../../concept/rfy-ec.md)
--   [Personalized Answers on Employee Center](../../concept/personalized-answers-on-employee-center.md#)
--   [Employee requests page](../../concept/employee-center-requests-page-configuration.md)
--   [My active items widget configuration](../../concept/my-activity-config.md)
+Configure the following capabilities to optimize the user experience.-   [Employee requests page](employee-center-requests-page-configuration.md)
+-   [Quick links](emp-center-quick-link-config.md)
+-   [Recommended for you](rfy-ec.md)
+-   [Personalized Answers on Employee Center](personalized-answers-on-employee-center.md#)
+-   [Employee requests page](employee-center-requests-page-configuration.md)
+-   [My active items widget configuration](my-activity-config.md)
 
 </td><td>
 
@@ -144,9 +144,9 @@ Configure curated experiences
 
 </td><td>
 
--   [Unified Taxonomy for Employee Center](../../concept/config-taxonomy.md)
--   [Dynamic topic pages](../../concept/dynamic-topic-page.md)
--   [Mega menu configuration](../config-mega-menu.md)
+-   [Unified Taxonomy for Employee Center](config-taxonomy.md)
+-   [Dynamic topic pages](dynamic-topic-page.md)
+-   [Mega menu configuration](config-mega-menu.md)
 
 </td><td>
 
@@ -158,7 +158,7 @@ Work with action framework
 
 </td><td>
 
-[Action framework](../../concept/action-group-framework.md)
+[Action framework](action-group-framework.md)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Configure unified approvals experience
 
 </td><td>
 
-[Approvals hub](../../concept/approval-hub-intro.md)
+[Approvals hub](approval-hub-intro.md)
 
 </td><td>
 
@@ -182,14 +182,14 @@ Configure Employee Profile
 
 </td><td>
 
-[Employee profile](../../concept/employee-profile-portal.md)
+[Employee profile](employee-profile-portal.md)
 
 </td><td>
 
 sn\_employee.admin
 
 </td></tr></tbody>
-</table>For more information on configuring Employee Center, see [Employee Center admin configurations](../../concept/configure-ec-portal.md).
+</table>For more information on configuring Employee Center, see [Employee Center admin configurations](configure-ec-portal.md).
 
 ## Manage the Employee Center functionalities for ITSM
 
@@ -199,13 +199,13 @@ To manage the operations Employee Center for ITSM, follow these steps.
 
 |Tasks|Capabilities|Roles|
 |-----|------------|-----|
-|Work with taxonomy|[Manage taxonomy](../create-taxonomy-content.md)|sp\_admin, taxonomy admin, or taxonomy manager|
-|Manage content|[Managing content requests](../../concept/ec-content-governance.md)|Content manager|
-|Manage applications|[Access applications from App Launcher](../../concept/web-application-employee.md)|admin|
-|Manage campaigns|[Creating campaigns](../../concept/ecpro-campaigns.md)|Campaign manager|
-|Manage favorites|[Manage favorites](../web-configure-favorites-employee.md)|admin|
+|Work with taxonomy|[Manage taxonomy](create-taxonomy-content.md)|sp\_admin, taxonomy admin, or taxonomy manager|
+|Manage content|[Managing content requests](ec-content-governance.md)|Content manager|
+|Manage applications|[Access applications from App Launcher](web-application-employee.md)|admin|
+|Manage campaigns|[Creating campaigns](ecpro-campaigns.md)|Campaign manager|
+|Manage favorites|[Manage favorites](web-configure-favorites-employee.md)|admin|
 
-For more information on managing Employee Center, see [Authoring and managing employee communications](../../concept/manage-emp-center.md).
+For more information on managing Employee Center, see [Authoring and managing employee communications](manage-emp-center.md).
 
 ## Use the Employee Center functionalities for ITSM
 
@@ -215,11 +215,11 @@ To use Employee Center for ITSM capabilities, follow these steps.
 
 |Tasks|Capabilities|Roles|
 |-----|------------|-----|
-|Approve requests from employees|[Use approval experience](../ec-to-dos-use-approval-hub.md)|Employee/Approver|
-|Access all your applications in one place|[App Launcher](../../concept/web-application-employee-about.md)|Employee/Agent|
-|Track all your tasks through the Unified Employee profile|[Use the My To-dos page](../ec-to-dos-use.md)|Employee/Approver|
-|Mark service catalog items and knowledge base articles as your favorites|[Manage favorites](../web-configure-favorites-employee.md)|Employee/Agent|
-|Track your leave balance on the same platform|[Personalized Answers](../../concept/using-personalized-search-on-employee-center.md)|Employee/Agent|
+|Approve requests from employees|[Use approval experience](ec-to-dos-use-approval-hub.md)|Employee/Approver|
+|Access all your applications in one place|[App Launcher](web-application-employee-about.md)|Employee/Agent|
+|Track all your tasks through the Unified Employee profile|[Use the My To-dos page](ec-to-dos-use.md)|Employee/Approver|
+|Mark service catalog items and knowledge base articles as your favorites|[Manage favorites](web-configure-favorites-employee.md)|Employee/Agent|
+|Track your leave balance on the same platform|[Personalized Answers](using-personalized-search-on-employee-center.md)|Employee/Agent|
 
-For more information on using Employee Center, see [Using Employee Center](../../concept/using-emp-center.md).
+For more information on using Employee Center, see [Using Employee Center](using-emp-center.md).
 

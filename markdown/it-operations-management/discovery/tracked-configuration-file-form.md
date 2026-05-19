@@ -22,10 +22,10 @@ The Tracked Configuration file form displays details about a specific configurat
 |Last Modified|Date the file was last modified.|
 |File Content|Contents of the file, if you selected the option to save the contents on the file tracking definition.|
 
-**Parent Topic:**[Discovery reference](../../discovery/reference/discovery-references.md)
+**Parent Topic:**[Discovery reference](discovery-references.md)
 
 **Related topics**  
 
 
-[Compare versions of CI configuration files](../task/compare-configuration-files.md)
+[Compare versions of CI configuration files](compare-configuration-files.md)
 

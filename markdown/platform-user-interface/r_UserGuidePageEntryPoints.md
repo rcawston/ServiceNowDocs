@@ -22,5 +22,5 @@ Help pages generated with the user guide can be displayed to end users from conf
 |$h.do?sysparm\_id=basics|Displays the basic help page included with the system. To create a target for a custom user guide, replace **id=basic** with the ID for your custom page, such as **id=surveys**. An example of this would be `https://myinstance.service-now.com/$h.do?sysparm_id=surveys`.|
 |$h.do?sysparm\_doc=&lt;document number&gt;|Displays help for a specific document. This URL displays the help document in the basic page that provides instructions for using ServiceNow forms: `https://myinstance.service-now.com/$h.do?sysparm_doc=DOC0010005`.|
 
-**Parent Topic:**[System user guide](../concept/c_SystemUserGuide.md)
+**Parent Topic:**[System user guide](c_SystemUserGuide.md)
 

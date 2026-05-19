@@ -21,8 +21,8 @@ You can edit the settings for an app's form in Creator Studio at any time. For e
 Build apps using different types of questions on a form in Creator Studio.
 -   **[Layout options for forms in Creator Studio](creator-studio-form-layout-options.md)**  
 Adjust how your form, which creates a catalog item, appears in Creator Studio using layout options.
--   **[Creator Studio glossary](../concept/creator-studio-glossary.md#)**  
+-   **[Creator Studio glossary](creator-studio-glossary.md#)**  
 Learn about the terms and concepts used in Creator Studio.
 
-**Parent Topic:**[Creator Studio](../concept/creator-studio-landing.md)
+**Parent Topic:**[Creator Studio](creator-studio-landing.md)
 

@@ -50,7 +50,7 @@ Role required: sn\_wsd\_case.workplace\_agent
     The downloaded document displays the workplace task details.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

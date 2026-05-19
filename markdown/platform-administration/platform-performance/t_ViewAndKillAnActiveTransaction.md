@@ -40,5 +40,5 @@ This action is intended to stop background processes, such as scheduled jobs, an
     -   Select and hold \(or right-click\) the record and select **Kill** from the available options.
     -   Select the check box next to one or more records and select **Kill** from the **Actions on selected rows** drop-down menu.
 
-**Parent Topic:**[Transaction cancellation](../concept/transaction-cancellation.md)
+**Parent Topic:**[Transaction cancellation](transaction-cancellation.md)
 

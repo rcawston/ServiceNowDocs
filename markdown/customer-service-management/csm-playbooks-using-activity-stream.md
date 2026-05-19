@@ -103,7 +103,7 @@ An email draft opens where you can send an email.
 </table>**Related topics**  
 
 
-[Filter playbook activities](../task/csm-playbook-filter-activities.md)
+[Filter playbook activities](csm-playbook-filter-activities.md)
 
 [Viewing dynamic related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
 
@@ -113,5 +113,5 @@ An email draft opens where you can send an email.
 
 [Summarize a case](case-summarization-in-process-page.md)
 
-[Create a record using a playbook](../task/csm-playbook-create-record.md)
+[Create a record using a playbook](csm-playbook-create-record.md)
 

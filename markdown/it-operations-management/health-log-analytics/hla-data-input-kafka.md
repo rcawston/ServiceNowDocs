@@ -36,19 +36,19 @@ Role required: evt\_mgmt\_admin
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Apache Kafka data input configuration fields](../reference/hla-data-input-kafka-ref.md).
+    For a description of the fields, see [Apache Kafka data input configuration fields](hla-data-input-kafka-ref.md).
 
 5.  Select **Advanced** to set additional configuration fields.
 
-    For a description of the fields, see [Apache Kafka data input configuration fields](../reference/hla-data-input-kafka-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Apache Kafka data inputs in Health Log Analytics manually](hla-data-input-adv-kafka.md).
+    For a description of the fields, see [Apache Kafka data input configuration fields](hla-data-input-kafka-ref.md). For information about configuring the advanced settings later, see [Configure advanced settings for Apache Kafka data inputs in Health Log Analytics manually](hla-data-input-adv-kafka.md).
 
 6.  On the **Query Settings** tab, fill in the field.
 
-    For a description of the fields, see [Apache Kafka data input configuration fields](../reference/hla-data-input-kafka-ref.md).
+    For a description of the fields, see [Apache Kafka data input configuration fields](hla-data-input-kafka-ref.md).
 
 7.  On the **Transport** tab, fill in the fields.
 
-    For a description of the fields, see [Apache Kafka data input configuration fields](../reference/hla-data-input-kafka-ref.md).
+    For a description of the fields, see [Apache Kafka data input configuration fields](hla-data-input-kafka-ref.md).
 
 8.  Select **Save**.
 
@@ -80,7 +80,7 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 
 **Related topics**  
 

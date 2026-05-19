@@ -52,7 +52,7 @@ To use indoor maps in the Enterprise Asset Workspace, fulfill the following requ
 
 4.  Configure the option to display the **Asset indoor map** tab in the Enterprise asset estate view of the Enterprise Asset Workspace.
 
-    For detailed instructions, see [Configure tabs in the Enterprise Asset Workspace](../task/configure-model-asset-class-tabs.md).
+    For detailed instructions, see [Configure tabs in the Enterprise Asset Workspace](configure-model-asset-class-tabs.md).
 
     **Note:** This tab appears only if the **Include in tab** option is enabled in the Asset indoor map tab configuration.
 
@@ -61,5 +61,5 @@ To use indoor maps in the Enterprise Asset Workspace, fulfill the following requ
     **Note:** For indoor maps to show assets in the Enterprise Asset Workspace, assets must be assigned to a location of the type **place** or **room** in the Location \[cmn\_location\] table. To view newly created locations within the Enterprise Asset Management application, synchronize the locations from Map Studio to the Location \[cmn\_location\] table. You can associate the locations created in Map Studio with pre-existing records or new records in the Location \[cmn\_location\] table. For more information, see [Synchronize Indoor Mapping map data with CMN location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-ind-mapping-cmn-location.md).
 
 
-For more details on using indoor maps, see [Track assets using indoor maps in the Enterprise Asset Workspace](../task/track-enterprise-assets-indoor-maps.md).
+For more details on using indoor maps, see [Track assets using indoor maps in the Enterprise Asset Workspace](track-enterprise-assets-indoor-maps.md).
 

@@ -157,12 +157,12 @@ In addition to the three types of change available by default, you can add new c
     9.  Select **Publish** from the **Actions** menu to publish the new workflow and make it available for use.
 
 
-**Parent Topic:**[Configuring Change Management](../concept/configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](configure-change-management.md)
 
 **Related topics**  
 
 
-[Change types](../concept/change-types.md)
+[Change types](change-types.md)
 
 [Legacy: Add a state to the state model](t_AddANewState.md#)
 

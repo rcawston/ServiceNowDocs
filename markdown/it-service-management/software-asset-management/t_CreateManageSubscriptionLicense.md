@@ -48,5 +48,5 @@ Role required: contract\_manager
     The licenses are listed under **Software Counter Results**.
 
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 

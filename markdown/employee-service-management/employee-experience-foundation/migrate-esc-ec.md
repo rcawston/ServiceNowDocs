@@ -47,20 +47,20 @@ Employee Center is delivered to all customer as a default application, and Emplo
 
 9.  Configure **My Active Items** widget.
 
-    For more information, see [My active items widget configuration](../concept/my-activity-config.md).
+    For more information, see [My active items widget configuration](my-activity-config.md).
 
 10. Configure **Quick Links**.
 
-    For more information, see [Quick links](../concept/emp-center-quick-link-config.md).
+    For more information, see [Quick links](emp-center-quick-link-config.md).
 
 11. Configure the portal footer.
 
-    For more information, see [Footer configuration](../concept/emp-center-footer-config.md).
+    For more information, see [Footer configuration](emp-center-footer-config.md).
 
 
 ## Result
 
 This upgrades the Employee Service Center with the latest Employee Center Pro themes and capabilities.
 
-**Parent Topic:**[Upgrading to Employee Center Pro](../concept/upgrade-steps.md)
+**Parent Topic:**[Upgrading to Employee Center Pro](upgrade-steps.md)
 

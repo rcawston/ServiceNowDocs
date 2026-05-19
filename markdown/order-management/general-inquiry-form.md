@@ -26,7 +26,7 @@ Use the general inquiry form on the Partner portal to raise queries and get in t
 **Related topics**  
 
 
-[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+[Using Partner Relationship Management](using-partner-relationship-management.md)
 
-[Raise an inquiry on Partner Portal](../task/raise-an-inquiry-on-partner-portal.md)
+[Raise an inquiry on Partner Portal](raise-an-inquiry-on-partner-portal.md)
 

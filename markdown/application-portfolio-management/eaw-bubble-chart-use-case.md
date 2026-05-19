@@ -48,7 +48,7 @@ As an EA admin user, navigates to **Workspaces** &gt; **Enterprise Architecture 
 
 **Business Value** uses *Maximize* because a higher score is better. **Technical Risk** uses *Minimize* because a higher risk score is worse — the system inverts the normalized value so that riskier applications appear lower on the Y-axis.
 
-**Note:** No new indicators need to be created for this use case. Both are available by default in the Default Application Profile. For information on how to create custom indicators, see [Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md).
+**Note:** No new indicators need to be created for this use case. Both are available by default in the Default Application Profile. For information on how to create custom indicators, see [Add or edit an application indicator](eaw-create-indicator.md).
 
 ## Step 2: Set up the scoring profile
 
@@ -59,7 +59,7 @@ As an admin, navigate to **Workspaces** &gt; **Enterprise Architecture Workspace
 |Business Value|50|
 |Technical Risk|50|
 
-Equal weights mean each indicator contributes equally to the overall application score. Verify that all five business applications have their **Application scoring profile** field set to **Default Application Profile**. For information on how to attach profile indicators to a scoring profile, see [Attach a profile indicator with an application scoring profile](../../task/eaw-task/eaw-attach-profile-indicators-with-application-scoring-profiles.md).
+Equal weights mean each indicator contributes equally to the overall application score. Verify that all five business applications have their **Application scoring profile** field set to **Default Application Profile**. For information on how to attach profile indicators to a scoring profile, see [Attach a profile indicator with an application scoring profile](eaw-attach-profile-indicators-with-application-scoring-profiles.md).
 
 **Important:** The **sn\_apm\_ws.app\_indicator\_scoring\_profile** system property accepts only a single sys\_id. Comma-separated values are not supported. If you enter multiple values, the bubble chart falls back to the Default Application Profile and ignores your custom profile.
 
@@ -67,7 +67,7 @@ Equal weights mean each indicator contributes equally to the overall application
 
 Navigate to the Application Bubble Chart \(`apm_bubble_chart`\) table and confirm that both **Business Value** and **Technical Risk** are registered. The available X and Y axis options on the bubble chart are derived from this table. The indicator scores are gathered from the Indicator Scores \(`apm_app_indicator_score`\) table.
 
-**Note:** Only indicators registered in the `apm_bubble_chart` table appear as axis options on the bubble chart. Adding an indicator to a scoring profile alone is not sufficient. For details on how to add X and Y axis indicators, see [Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md).
+**Note:** Only indicators registered in the `apm_bubble_chart` table appear as axis options on the bubble chart. Adding an indicator to a scoring profile alone is not sufficient. For details on how to add X and Y axis indicators, see [Add or edit an application indicator](eaw-create-indicator.md).
 
 ## Step 4: Stakeholders complete assessments
 
@@ -203,9 +203,9 @@ After selecting **Apply**, business application bubbles are displayed on the cha
 
 **Note:** Business application bubbles whose X and Y axis values are within the value range of +/-0.25 of each other are grouped. A grouped bubble displays the total number of business application bubbles it contains. On selecting a grouped bubble, the info pane appears, displaying the list of individual business applications that are part of the grouped bubble.
 
-**Note:** The bubble chart displays up to 500 bubbles by default. If you have more than 500 assessed business applications, configure the **sn\_apm\_ws.appRationalizationMaximumBubbles** system property to increase this limit. For details, see [Change the number of bubbles displayed on the bubble chart](../../task/eaw-task/eaw-update-sys-prop-change-number-of-bubbles.md).
+**Note:** The bubble chart displays up to 500 bubbles by default. If you have more than 500 assessed business applications, configure the **sn\_apm\_ws.appRationalizationMaximumBubbles** system property to increase this limit. For details, see [Change the number of bubbles displayed on the bubble chart](eaw-update-sys-prop-change-number-of-bubbles.md).
 
-You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 ## Step 8: Taking action from the bubble chart
 
@@ -266,7 +266,7 @@ Single bubble
 
 1.  Select the bubble for App B.
 2.  In the pop-up window, select the context menu icon \(![Context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) and select **Create demand**.
-3.  On the Create demand form, fill in the fields and select **Create**. For a description of the field values, see [Create demand form](../../reference/eaw-reference/eaw-demand-form.md).
+3.  On the Create demand form, fill in the fields and select **Create**. For a description of the field values, see [Create demand form](eaw-demand-form.md).
 
 </td></tr><tr><td>
 
@@ -276,10 +276,10 @@ Grouped bubble
 
 1.  Select the grouped bubble. The info pane appears.
 2.  Select the context menu icon \(![Context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) next to App B and select **Create demand**.
-3.  On the Create demand form, fill in the fields and select **Create**. For a description of the field values, see [Create demand form](../../reference/eaw-reference/eaw-demand-form.md).
+3.  On the Create demand form, fill in the fields and select **Create**. For a description of the field values, see [Create demand form](eaw-demand-form.md).
 
 </td></tr></tbody>
-</table>The architect also notes that App E \(Internal Wiki\) sits in the Retire quadrant but has a slightly higher Technical Risk normalized value \(2.43\) compared to App B. Before setting a disposition, the architect selects the App E bubble to open the side panel, then selects **Full details** to review the full business application record without leaving the bubble chart. For more details, see [Edit business application details in bubble chart view](../../task/eaw-task/eaw-edit-ba-details-in-bubble-chart.md).
+</table>The architect also notes that App E \(Internal Wiki\) sits in the Retire quadrant but has a slightly higher Technical Risk normalized value \(2.43\) compared to App B. Before setting a disposition, the architect selects the App E bubble to open the side panel, then selects **Full details** to review the full business application record without leaving the bubble chart. For more details, see [Edit business application details in bubble chart view](eaw-edit-ba-details-in-bubble-chart.md).
 
 ## Summary: the full flow at a glance
 
@@ -314,15 +314,15 @@ The following sequence summarizes how a raw assessment score is set to a bubble 
 
 [Use bubble chart view](eaw-using-app-rat-bubble-chart-view.md)
 
-[Analyze applications using the bubble chart](../../task/eaw-task/eaw-analyze-applications-by-capability.md)
+[Analyze applications using the bubble chart](eaw-analyze-applications-by-capability.md)
 
-[Create a demand using the bubble chart](../../task/eaw-task/eaw-create-a-demand-using-the-bubble-chart.md)
+[Create a demand using the bubble chart](eaw-create-a-demand-using-the-bubble-chart.md)
 
-[Set the planned disposition of a business application](../../task/eaw-task/eaw-set-planned-disposition-of-a-business-application.md)
+[Set the planned disposition of a business application](eaw-set-planned-disposition-of-a-business-application.md)
 
-[Add business application lifecycle data using the bubble chart](../../task/eaw-task/eaw-add-business-application-lifecycle-data.md)
+[Add business application lifecycle data using the bubble chart](eaw-add-business-application-lifecycle-data.md)
 
-[Edit business application details in bubble chart view](../../task/eaw-task/eaw-edit-ba-details-in-bubble-chart.md)
+[Edit business application details in bubble chart view](eaw-edit-ba-details-in-bubble-chart.md)
 
-[Change the number of bubbles displayed on the bubble chart](../../task/eaw-task/eaw-update-sys-prop-change-number-of-bubbles.md)
+[Change the number of bubbles displayed on the bubble chart](eaw-update-sys-prop-change-number-of-bubbles.md)
 

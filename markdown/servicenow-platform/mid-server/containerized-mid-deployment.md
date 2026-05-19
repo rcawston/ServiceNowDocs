@@ -20,7 +20,7 @@ An agent admin can enter a MID Server Profile and create a deployment request on
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>Containerized MID Servers use a Docker image of the MID Server that allows you to quickly deploy MID Servers. The documentation for [Build MID Server Docker Image for Linux](../task/mid-build-docker-linux.md#) provides steps for manually preparation and deployment. The following Containerized MID Server auto-configuration simplifies the process and makes it scalable.
+</table>Containerized MID Servers use a Docker image of the MID Server that allows you to quickly deploy MID Servers. The documentation for [Build MID Server Docker Image for Linux](mid-build-docker-linux.md#) provides steps for manually preparation and deployment. The following Containerized MID Server auto-configuration simplifies the process and makes it scalable.
 
 ## MID Server profile
 
@@ -68,7 +68,7 @@ wrapper.java.additional.3
 
 ## MID Server Deployment Request
 
-After creating a MID server profile, the user can make a new deployment request to prepare the deployment process.​ A deployment request can be different for different container orchestrators. See [MID Server Deployment Request](../task/containerized-mid-deploy-request.md) for more information.
+After creating a MID server profile, the user can make a new deployment request to prepare the deployment process.​ A deployment request can be different for different container orchestrators. See [MID Server Deployment Request](containerized-mid-deploy-request.md) for more information.
 
 ## Export MID Deployment Request for Manual Deployment
 
@@ -76,7 +76,7 @@ The user can export it to a K8s deployment YAML file. The user can download the 
 
 ## Docker image preparation
 
-To prepare a Docker image, first build a MID Server image on a K8s cluster as explained in [Build MID Server Docker Image](../task/mid-build-docker-linux.md#). Upload the built image to an image registry and pull the image to a local image with the command: `docker pull registry/mid:<tag>`. Refer to [Docker Registry Setup for Containerized MID Server II: Auto Configuration \[KB1001380\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1001380) for information on limitations on pulling an image directly from a remote registry.
+To prepare a Docker image, first build a MID Server image on a K8s cluster as explained in [Build MID Server Docker Image](mid-build-docker-linux.md#). Upload the built image to an image registry and pull the image to a local image with the command: `docker pull registry/mid:<tag>`. Refer to [Docker Registry Setup for Containerized MID Server II: Auto Configuration \[KB1001380\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1001380) for information on limitations on pulling an image directly from a remote registry.
 
 ## Kubernetes preparation
 

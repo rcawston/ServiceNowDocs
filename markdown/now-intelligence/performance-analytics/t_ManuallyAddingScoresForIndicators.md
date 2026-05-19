@@ -55,7 +55,7 @@ You can manually overwrite data that a job collected. However, the next time tha
         For automated indicators that collect a second-level breakdown and are based on two or more breakdown sources, multi-level breakdown scores can be entered in the scoresheet. For example, for Open incidents by workgroup by priority, you can enter both scores for the elements of workgroup \(first level\) and the elements of priority \(second level\). Aggregations for these indicators are calculated in the same way as other breakdowns.
 
 
-**Parent Topic:**[Collecting indicator scores](../concept/c_ClctData.md)
+**Parent Topic:**[Collecting indicator scores](c_ClctData.md)
 
 **Related topics**  
 

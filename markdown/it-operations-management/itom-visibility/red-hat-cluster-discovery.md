@@ -76,7 +76,7 @@ Horizontal discovery probe: launches patterns
 
 </td><td>
 
-These patterns are an extension of the [Linux Server](../reference/r_DataCollDiscoLinuxComputers.md) pattern:
+These patterns are an extension of the [Linux Server](r_DataCollDiscoLinuxComputers.md) pattern:
 
 -   UNIX Cluster - Linux Red hat cluster
 -   Linux - Red Hat Cluster

@@ -51,11 +51,11 @@ Service Graph Connector for Microsoft Azure
 
 </td><td>
 
-[Service Graph Connector for Microsoft Azure](../../configuration-management/concept/cmdb-integration-azure.md)
+[Service Graph Connector for Microsoft Azure](cmdb-integration-azure.md)
 
 </td><td>
 
-[Configure Service Graph Connector for Microsoft Azure using the guided setup](../../configuration-management/task/configure-azure-integration.md)
+[Configure Service Graph Connector for Microsoft Azure using the guided setup](configure-azure-integration.md)
 
 </td></tr></tbody>
 </table>**Note:**
@@ -1283,5 +1283,5 @@ No
 cmdb\_azure\_service\_endpoint\_policy\_service\_endpoint\_policy
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](../../configuration-management/concept/sgc-azure-reference.md)
+</table>**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](sgc-azure-reference.md)
 

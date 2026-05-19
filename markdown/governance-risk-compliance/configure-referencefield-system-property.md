@@ -68,5 +68,5 @@ You can configure the **referenceFieldLoadLimit** system property for the refere
     ![Sample display of the records.](../image/prop-update-updated-value-on-the-screen.png)
 
 
-**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+**Parent Topic:**[Setup by system administrators](set-up-bcm-sys-admin-tasks.md)
 

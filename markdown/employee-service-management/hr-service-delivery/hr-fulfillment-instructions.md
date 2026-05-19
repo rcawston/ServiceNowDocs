@@ -26,7 +26,7 @@ Using the condition builder, you can dynamically change what fulfillment instruc
 
 Add a checklist to ensure the agent does not skip or miss any of the fulfillment instructions. To add a checklist to an HR case, use HR services. See [HR service configuration](hr-service-configuration.md).
 
--   **[Configure HR fulfillment instructions](../task/configure-hr-fulfillment.md)**  
+-   **[Configure HR fulfillment instructions](configure-hr-fulfillment.md)**  
 Use HR fulfillment instructions to provide focused and targeted instructions for an HR case.
 
 **Parent Topic:**[HR services](hr-service-administration.md)

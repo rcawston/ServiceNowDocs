@@ -115,11 +115,11 @@ The type of attachment that you are submitting if it is required by a validator 
 
 ## What to do next
 
-Your organization might require that you be vaccinated before returning to the site. To check your progress on all site entry requirements, see [View your health and safety status](../../employee-readiness-core/task/view-health-safety-status.md).
+Your organization might require that you be vaccinated before returning to the site. To check your progress on all site entry requirements, see [View your health and safety status](employee-readiness-core/view-health-safety-status.md).
 
 **Note:** You are not considered fully vaccinated until 14 days after receiving your vaccination \(single-dose vaccine\) or your final dose \(multi-dose vaccine\).
 
 Depending on your organization's requirements, if your vaccine has a vaccine booster available, you might not be considered fully vaccinated until you report receiving your booster.
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

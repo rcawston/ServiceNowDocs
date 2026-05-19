@@ -31,7 +31,7 @@ Access index suggestions from the Application Navigator or the Performance homep
 
 3.  Review the index suggestion for the selected table.
 
-    For a description of the field values in the index suggestion, see [Index suggestion form fields](../reference/index-suggestion-fields.md).
+    For a description of the field values in the index suggestion, see [Index suggestion form fields](index-suggestion-fields.md).
 
 4.  Choose the next processing step for the index suggestion.
 
@@ -61,5 +61,5 @@ Opens the Schedule Index Creation window to [schedule an index suggestion for cr
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

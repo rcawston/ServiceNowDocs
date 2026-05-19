@@ -21,7 +21,7 @@ Role required: sn\_hr\_le.admin
 
 You must also make sure that the **Display activity sets to subject person** option is selected, as well as the **Show case to subject person** option on the corresponding HR service.
 
-A Lifecycle Event administrator must have set up the Lifecycle Event and the corresponding HR service you want to use with Now Mobile. See [Building a lifecycle event](../concept/hr-lifecycle-event-configuration.md) for more information.
+A Lifecycle Event administrator must have set up the Lifecycle Event and the corresponding HR service you want to use with Now Mobile. See [Building a lifecycle event](hr-lifecycle-event-configuration.md) for more information.
 
 ## Procedure
 
@@ -56,9 +56,9 @@ A Lifecycle Event administrator must have set up the Lifecycle Event and the cor
         ![Select the Show case to subject person option.](../image/mobile-onboarding-hr-service-2.png)
 
 
-**Parent Topic:**[Building a lifecycle event](../concept/hr-lifecycle-event-configuration.md)
+**Parent Topic:**[Building a lifecycle event](hr-lifecycle-event-configuration.md)
 
 **Previous topic:**[Preview and test a lifecycle event](test-lifecycle-event.md)
 
-**Next topic:**[Lifecycle Events employee requests](../concept/employee-requests.md)
+**Next topic:**[Lifecycle Events employee requests](employee-requests.md)
 

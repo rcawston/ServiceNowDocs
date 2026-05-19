@@ -94,5 +94,5 @@ JSON representation of the checklist.
 
 ## What to do next
 
-Associate the checklist with a Patient Support Services program. For more information, see [Configuring a program for Patient Support Services](../concept/pss-program-services-setup.md).
+Associate the checklist with a Patient Support Services program. For more information, see [Configuring a program for Patient Support Services](pss-program-services-setup.md).
 

@@ -48,15 +48,15 @@ If you edit the widget to display the Parent Location instead of the Child Locat
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md)
 
-[Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md)
+[Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md)
 
-[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)
+[Showing multiple elements separately or aggregated](multi-element-select-indicator-views.md)
 
 [Same breakdown on widget and dashboard](same-breakdown-widget-dashboard.md)
 
 [Navigating breakdown elements with breakdown relations](breakdown-relations.md)
 
-[Create a scorecard visualization for a breakdown widget](../task/create-scorecard-widget.md)
+[Create a scorecard visualization for a breakdown widget](create-scorecard-widget.md)
 

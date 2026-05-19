@@ -37,9 +37,9 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
     If Sourcing and Procurement Operations is installed, then this tab shows the following tasks:
 
-    -   Receipt. For more information, see [Receipt tasks](../../sourcing-procurement-operations/reference/receipt-tasks.md).
-    -   Milestone. For more information, see [Milestones](../../sourcing-procurement-operations/reference/milestones.md).
-    -   Invoice acknowledgment. For more information, see [Invoice tasks](../../sourcing-procurement-operations/reference/invoice-tasks.md).
+    -   Receipt. For more information, see [Receipt tasks](../sourcing-and-procurement-operations/receipt-tasks.md).
+    -   Milestone. For more information, see [Milestones](../sourcing-and-procurement-operations/milestones.md).
+    -   Invoice acknowledgment. For more information, see [Invoice tasks](../sourcing-and-procurement-operations/invoice-tasks.md).
     If Sourcing and Procurement Operations is not installed, then this tab shows only the Milestone task.
 
 
@@ -47,5 +47,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 The Accounts Payable Specialist understands the Insufficient Goods Receipt exception by viewing Sourcing and Procurement tasks.
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](work-with-invoice-exceptions.md)
 

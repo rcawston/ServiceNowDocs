@@ -95,7 +95,7 @@ The stage and status for the service that you're creating.
 
  If you don't have the plugin installed, then the legacy Service Portfolio Management phase and status fields display.
 
- For information on the different types of fields, see [Apply the CSDM guidelines to Digital Portfolio Management](../../digital-portfolio-management/reference/dpm-csdm.md).
+ For information on the different types of fields, see [Apply the CSDM guidelines to Digital Portfolio Management](../digital-portfolio-management/dpm-csdm.md).
 
 </td></tr><tr><td>
 

@@ -23,12 +23,12 @@ Once you set up the HR Service Delivery Integration with Cornerstone OnDemand ap
 |Sync Trainings|This HR integration service pulls learning objects such videos or curriculum from the Cornerstone OnDemand system to the ServiceNow system. When the Trigger CSOD Sync schedule flow is run, learning objects are pulled into the CSOD Learning Object Staging \[sn\_hr\_cornerstone\_lo\_staging\] table. After the transformation scripts are run, learning objects are displayed in **HR Cornerstone Integrations** &gt; **Learning Objects**.|
 |Sync Transcripts|This HR integration service pulls transcripts from the Cornerstone OnDemand system to the ServiceNow system. When the Trigger CSOD Sync schedule flow is run, transcripts are pulled into HR Pulled To-do Integration Staging \[sn\_hr\_integr\_fw\_todo\_inbound\_staging\] table. After the transformation scripts are run, transcripts are displayed in **HR Integrations Framework** &gt; **Todos**.|
 
-**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](../reference/reference-ondemand.md)
+**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](reference-ondemand.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](../reference/installed-with-hr-corn-int.md)
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](installed-with-hr-corn-int.md)
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand](hr-cornerstone-properties.md)
 
@@ -38,5 +38,5 @@ Once you set up the HR Service Delivery Integration with Cornerstone OnDemand ap
 
 [Status mapping in Cornerstone OnDemand System](status-cornerstone.md)
 
-[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](../reference/transform-maps-cornerstone.md)
+[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
 

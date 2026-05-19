@@ -37,11 +37,11 @@ By accessing the sales data and using integrated communication channels such as 
 **Related topics**  
 
 
-[Create and manage task checklists](../task/create-checklists-l2c-process-management.md)
+[Create and manage task checklists](create-checklists-l2c-process-management.md)
 
-[Add attachments for a sales process record](../task/add-attachments-sales-process.md)
+[Add attachments for a sales process record](add-attachments-sales-process.md)
 
-[View and send emails in Lead-to-Cash Process Management](../task/view-send-emails-sales-process.md)
+[View and send emails in Lead-to-Cash Process Management](view-send-emails-sales-process.md)
 
 [Linking, delinking, and link conversion conditions](conditions-link-delink-toggle-records.md)
 

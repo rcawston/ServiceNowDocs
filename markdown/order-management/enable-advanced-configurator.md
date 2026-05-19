@@ -40,5 +40,5 @@ If you have been using the legacy product configurator for Sales Customer Relati
 **Related topics**  
 
 
-[Using the CPQ Configurator](../concept/using-servicenowcpq.md)
+[Using the CPQ Configurator](using-servicenowcpq.md)
 

@@ -45,8 +45,8 @@ Note the following:
 
 5.  Select **Save**.
 
-    For more information, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    For more information, see [Zero Copy Connector for ERP new system field descriptions](erp-canvas-create-new-system-descriptions.md).
 
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)
 

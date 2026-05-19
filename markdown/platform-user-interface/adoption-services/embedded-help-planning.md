@@ -68,7 +68,7 @@ In planning for embedded help topics, consider how the following fields are used
     -   Any changes you make to embedded help are not automatically deployed to another instance.
     -   Changes to the embedded help table are not captured in update sets, update\_sync=false is set intentionally.
 
--   **[Use qualifiers in Embedded Help](../task/embedded-help-qualifiers.md)**  
+-   **[Use qualifiers in Embedded Help](embedded-help-qualifiers.md)**  
 The embedded help administrator can use qualifiers to customize content for a common page in the instance.
 -   **[Embedded Help roles](embedded-help-roles.md)**  
 Embedded help content can be targeted to users with a specified role who access the UI page. All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page.

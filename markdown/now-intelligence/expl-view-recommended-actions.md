@@ -29,7 +29,7 @@ Role required: now\_assist\_explorer\_user
 
 3.  For best results, set an exploration goal.
 
-    For more information, see [Setting exploration goals](../concept/goals-questions.md).
+    For more information, see [Setting exploration goals](goals-questions.md).
 
 4.  Perform one of the following actions:
 
@@ -55,5 +55,5 @@ Role required: now\_assist\_explorer\_user
 10. When you have addressed the recommendations, you can press the **Regenerate** button after the recommendations to generate new recommendations.
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

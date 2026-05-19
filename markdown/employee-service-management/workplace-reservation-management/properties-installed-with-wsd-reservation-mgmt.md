@@ -33,7 +33,7 @@ Minimal attendee availability for suggestions \[sn\_wsd\_rsv.minimal\_attendee\_
 
 </td><td>
 
-This property allows for the configuration of minimum attendee threshold. The application enforces the configured minimum attendee threshold percentage value where applicable. Default value is 60. Beyond this range, employees cannot add colleagues as collaborators to a meeting. If the selected colleagues are not available for a selected building, date and time, the Add Invitees dialog box shows the "Unable to load Availability" message. For example, if only two invitees are available for a meeting or reservation, the application will not load availability for colleagues and will not add them as attendees to a reservation as it doesn't fulfill the default threshold percentile value of 60. For more information about adding colleagues to a meeting, see [Add invitees as collaborators and create a reservation](../task/add-colleagues-rsv-search.md).
+This property allows for the configuration of minimum attendee threshold. The application enforces the configured minimum attendee threshold percentage value where applicable. Default value is 60. Beyond this range, employees cannot add colleagues as collaborators to a meeting. If the selected colleagues are not available for a selected building, date and time, the Add Invitees dialog box shows the "Unable to load Availability" message. For example, if only two invitees are available for a meeting or reservation, the application will not load availability for colleagues and will not add them as attendees to a reservation as it doesn't fulfill the default threshold percentile value of 60. For more information about adding colleagues to a meeting, see [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md).
 
 </td></tr><tr><td>
 
@@ -203,18 +203,18 @@ sn\_wsd\_rsv.lead\_time\_info\_message\_for\_limited\_services
 This property enabled displays a message ''Only items that can be prepared on time are available''.This message is displayed only for the special user sn\_wsd\_case.bypass\_services\_limitation and not for regular employees.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
 
 [Components installed with Workplace Reservation Management](components-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 [Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
 
 [Mobile push notifications for workplace reservations](reservation-push-notifications.md)
 

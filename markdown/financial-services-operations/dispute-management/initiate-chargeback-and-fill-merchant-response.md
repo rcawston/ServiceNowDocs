@@ -57,5 +57,5 @@ Review the response from the merchant and fill the further details.
 1.  After you receive the merchant's response, the **Dispute response** field is set to **Yes** or **No** and the next activity [Review a dispute response and initiate pre-arbitration](review-dispute-response-and-create-pre-arbitration.md) is displayed.
 2.  Select **Close task**. The next activity appears based on the selected option.
 
-**Parent Topic:**[Collaboration dispute workflow](../concept/collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](collaboration-dispute-workflow.md)
 

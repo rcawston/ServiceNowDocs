@@ -15,7 +15,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 View the templates for your observability vendor to understand the default dashboards provided by Service Observability.
 
-See [Customize Service Observability dashboard templates](../task/customize-service-observability-dashboard-templates.md) for information about customizing these templates.
+See [Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md) for information about customizing these templates.
 
 -   **[Amazon CloudWatch templates for Service Observability](aws-templates.md)**  
 Templates used to create Amazon CloudWatch dashboards in Service Observability. You can edit these templates as needed.

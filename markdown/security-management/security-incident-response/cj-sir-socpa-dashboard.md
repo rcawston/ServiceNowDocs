@@ -135,16 +135,16 @@ The total number of closed security incidents in the specified period and the av
 
 You can see the number of open incidents on a specific day and the status \(analysis, draft, contain, eradicate, recover, or review\) of these incidents. On each stage, you can view average age, affected CIs, response tasks, and so on. Click on a link to view additional details or the breakdown of these incidents.
 
-**Parent Topic:**[Security Incident Response Platform Analytics Solutions](../../../use/dashboards/application-content-packs/security-incident-content-pack.md)
+**Parent Topic:**[Security Incident Response Platform Analytics Solutions](security-incident-content-pack.md)
 
 **Related topics**  
 
 
-[CISO dashboard](../../../use/dashboards/application-content-packs/ciso-dashboard.md)
+[CISO dashboard](ciso-dashboard.md)
 
-[Security Incident Management Premium dashboard](../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
+[Security Incident Management Premium dashboard](si-mgmt-premium-dashboard.md)
 
-[Security Incident Management dashboard](../../../use/dashboards/application-content-packs/security-incident-mgmt-dashboard.md)
+[Security Incident Management dashboard](security-incident-mgmt-dashboard.md)
 
-[Security Incident Explorer dashboard](../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
+[Security Incident Explorer dashboard](si-explorer-dashboard.md)
 

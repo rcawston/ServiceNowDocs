@@ -52,5 +52,5 @@ If you are integrating with Anglepoint, all IBM software information that is inc
 
 **Note:** These tables are extensions of the base File Names \[samp\_file\_name\], File Maps \[samp\_file\_map\], and File Sets \[samp\_file\_set\] tables. To extend the base tables, you must request and install Anglepoint's IBM Licensing for Software Asset Management application. See [Request Anglepoint's IBM Licensing for Software Asset Management application](request-anglepoint-application.md) for detailed instructions.
 
-**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](../concept/setting-up-anglepoint-integration.md)
+**Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](setting-up-anglepoint-integration.md)
 

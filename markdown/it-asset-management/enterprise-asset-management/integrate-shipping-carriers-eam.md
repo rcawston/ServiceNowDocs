@@ -105,5 +105,5 @@ Additional notes about the shipping carrier.
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](manage-shipments-eam.md)
 

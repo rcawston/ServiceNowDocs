@@ -57,5 +57,5 @@ Open a project.
     ![Automated root cause analysis result](../image/arca-results.png)
 
 
-**Parent Topic:**[Automated root cause analysis](../concept/auto-rca.md)
+**Parent Topic:**[Automated root cause analysis](auto-rca.md)
 

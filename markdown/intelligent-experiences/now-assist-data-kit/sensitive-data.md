@@ -33,6 +33,6 @@ Plugins required: sn\_data\_discovery, sn\_dp\_store\_app, com.glide.data\_priva
 
 5.  If there is sensitive data in your dataset, select **Cleanse Data** to remove it.
 
-    You can also see the records that contain sensitive data by viewing the Data Insights tab. To learn more, see [View data insights](../task/view-data-insights.md).
+    You can also see the records that contain sensitive data by viewing the Data Insights tab. To learn more, see [View data insights](view-data-insights.md).
 
 

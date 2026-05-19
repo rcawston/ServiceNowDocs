@@ -110,12 +110,12 @@ Continue asset
 A linear asset relationship for linear assets that have a start and an end marker. For example, a highway that after a particular point changes into another highway.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

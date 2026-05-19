@@ -15,7 +15,7 @@ breadcrumb: [Interaction Management, Manage people and work capabilities, Extend
 
 Learn about the components installed with Interaction Management.
 
--   **[Components installed with Interaction Management](../reference/components-installed-with-interaction-management.md)**  
+-   **[Components installed with Interaction Management](components-installed-with-interaction-management.md)**  
 Several types of components are installed with activation of the Interaction Logging, Routing, and Queueing plugin, including tables and user roles.
 
 **Parent Topic:**[Interaction Management](interaction-management.md)

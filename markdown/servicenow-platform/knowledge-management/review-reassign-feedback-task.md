@@ -110,5 +110,5 @@ Close the feedback task without the submitter having to accept the feedback reso
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
 

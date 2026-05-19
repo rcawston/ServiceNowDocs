@@ -39,5 +39,5 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
     The action is run and displayed in the **Recents** section.
 
 
-**Parent Topic:**[Working with actions](../concept/actions.md)
+**Parent Topic:**[Working with actions](actions.md)
 

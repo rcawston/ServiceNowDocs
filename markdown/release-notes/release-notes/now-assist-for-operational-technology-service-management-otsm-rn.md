@@ -79,5 +79,5 @@ Install Now Assist for OTSM by requesting it from the ServiceNow Store. Visit th
     The ServiceNow® Operational Technology Incident Management application enables engineers to resolve Operational Technology \(OT\) asset and production process issues quickly.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

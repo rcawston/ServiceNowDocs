@@ -62,5 +62,5 @@ The new **index\_mms\_attachments** indexed source attribute appears in the Adva
 
 To make the new indexed source attribute take effect, perform a full table reindex for the indexed source. For details on this procedure, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
 
-**Parent Topic:**[Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md)
+**Parent Topic:**[Indexed source attributes for AI Search](indexed-source-attributes-ais.md)
 

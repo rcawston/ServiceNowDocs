@@ -19,7 +19,7 @@ These reference topics provide additional information about MetricBase developer
 Developers can use JavaScript or REST APIs to insert and retrieve time-series data from the MetricBase database and to run transforms on the data. The transformations enable you to visualize time-series data in a variety of ways.
 -   **[Domain separation and MetricBase](domain-separation-metricbase.md)**  
 Domain separation is supported in the MetricBase application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[MetricBase roles](../reference/metricbase-roles.md#)**  
+-   **[MetricBase roles](metricbase-roles.md#)**  
 MetricBase is installed with these roles.
 
 **Parent Topic:**[MetricBase](metricbase.md)

@@ -52,5 +52,5 @@ Role required: admin
 
 You can execute data collection jobs for the transferred domain.
 
-**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](../concept/pa-domain-separation-msp.md)
+**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](pa-domain-separation-msp.md)
 

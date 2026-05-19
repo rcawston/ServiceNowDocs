@@ -34,7 +34,7 @@ Use the following features with the Customer Service Management application to m
 
 A case workflow is a series of steps and tasks that are involved in closing a case. By using a case workflow, you can automate systems to simplify your processes, track task completion, and accelerate case resolution.
 
-To learn more about case workflows, see [Configure proactive case flows](../task/configure-flow-designer.md).
+To learn more about case workflows, see [Configure proactive case flows](configure-flow-designer.md).
 
 ## Case types
 

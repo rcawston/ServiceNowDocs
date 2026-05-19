@@ -30,5 +30,5 @@ You may face challenges in connecting with your stakeholders at the time of a cr
     All delivery channels are imported from the Everbridge instance successfully. When the notification is successful, you receive a message of confirmation from Everbridge.
 
 
-**Parent Topic:**[Setup for Everbridge notifications](../concept/setup-steps-for-emergency-notification-uib-ws.md)
+**Parent Topic:**[Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md)
 

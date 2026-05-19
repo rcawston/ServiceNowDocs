@@ -87,7 +87,7 @@ The system creates a notification channel for your custom Slack app automaticall
 -   For each user account that you link, enable the notification channel using the system settings.
 -   Create notifications for your custom Slack app by following the steps in [Create a messaging notification](create-messaging-notification.md) and [Configure message content](configure-message-content.md).
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](messaging-integration.md)
 
 **Related topics**  
 

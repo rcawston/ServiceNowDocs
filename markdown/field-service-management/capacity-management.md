@@ -28,13 +28,13 @@ Field Service Capacity and Reservations Management provides the following benefi
 **Related topics**  
 
 
-[Configuring Field Service Capacity and Reservations Management](configuring-capacity-management.md)
+[Configuring Field Service Capacity and Reservations Management](workforce-optimization-for-field-service/configuring-capacity-management.md)
 
-[View Capacity Usages information](../reference/capacity-usage.md)
+[View Capacity Usages information](field-service-manager-workforce/capacity-usage.md)
 
-[Field Service Territory Capacity Analytics dashboard](../../../use/dashboards/application-content-packs/capacity-dashboard.md)
+[Field Service Territory Capacity Analytics dashboard](capacity-dashboard.md)
 
 [Capacity Console](capacity-console.md)
 
-[Field Service Capacity and Reservations Management components](../reference/capacity-management-components.md)
+[Field Service Capacity and Reservations Management components](capacity-management-components.md)
 

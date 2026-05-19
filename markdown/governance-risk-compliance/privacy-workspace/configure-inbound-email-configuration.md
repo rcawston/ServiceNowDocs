@@ -46,5 +46,5 @@ Role required: Privacy admin
         This email address is used by requesters to send privacy requests that automatically generate as cases.
 
 
-**Parent Topic:**[Configuring Privacy Case Management](../concept/configuring-privacy-case-management.md)
+**Parent Topic:**[Configuring Privacy Case Management](configuring-privacy-case-management.md)
 

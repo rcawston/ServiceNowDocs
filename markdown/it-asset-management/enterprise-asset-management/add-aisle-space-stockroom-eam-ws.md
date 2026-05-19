@@ -70,7 +70,7 @@ A space is associated with an aisle in the stockroom. You can add a space only a
     -   The space is added to the list in the Aisle and spaces tab.
     -   The display name of the space is automatically set based on the **Aisle** and **Space** fields. For example, the display name of the space whose aisle is aisle\_001 and space is space\_001 is **aisle\_001 - space\_001**.
 
-**Parent Topic:**[Manage enterprise asset picking within your stockrooms](../concept/manage-asset-picking-stockroom-eam-ws.md)
+**Parent Topic:**[Manage enterprise asset picking within your stockrooms](manage-asset-picking-stockroom-eam-ws.md)
 
 **Related topics**  
 

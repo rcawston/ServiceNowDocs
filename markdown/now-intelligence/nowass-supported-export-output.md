@@ -22,7 +22,7 @@ You can export dashboards as Microsoft PowerPoint or PDF files, but not all dash
 |Other data visualizations|PowerPoint, PDF|PowerPoint, PDF, PNG, JPEG, Embedded PNG|
 |Non-data visualization dashboard elements, like Headings|None|Not applicable|
 
-**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 

@@ -84,5 +84,5 @@ Sample request and responses for the threat lookup use case are shown here.
 
 ![Create-Response for threat lookups](../image/ThreatLookupCreateResponse.png "Create-Response for threat lookups")
 
-**Parent Topic:**[Security Operations Integration Reference](../../secops-integration-reference/concept/secops-integ-ref.md)
+**Parent Topic:**[Security Operations Integration Reference](secops-integ-ref.md)
 

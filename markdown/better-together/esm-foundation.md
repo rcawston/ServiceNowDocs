@@ -268,5 +268,5 @@ Get started with ESM Foundation by completing the following implementation and c
 11. Configure comprehensive analytics dashboards for service performance monitoring across all domains
 12. Train service agents on AI-assisted tools and integrated case management workflows.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](solutions-gallery.md)
 

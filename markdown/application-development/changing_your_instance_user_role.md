@@ -44,5 +44,5 @@ Depending on your learning or testing needs, you may need to change the user rol
     2.  Relaunch your PDI by clicking the **Start building** button in the **Account** menu.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

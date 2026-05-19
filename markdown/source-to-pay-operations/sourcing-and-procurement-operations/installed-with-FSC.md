@@ -1203,7 +1203,7 @@ sn\_shop.spend.requisition.autoorder
 
 </td><td>
 
-Purchase order that can be automatically created on completion of purchasing tasks without having to undergo a manual final review.For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](../concept/pr-auto-order.md).
+Purchase order that can be automatically created on completion of purchasing tasks without having to undergo a manual final review.For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](pr-auto-order.md).
 
 </td></tr><tr><td>
 
@@ -1211,7 +1211,7 @@ sn\_shop.spend.requisition.autoorder.threshold
 
 </td><td>
 
-Dollar amount threshold above which a final review is required before a purchase order is created even when the automatic creation of purchase orders property is set to Yes.For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](../concept/pr-auto-order.md).
+Dollar amount threshold above which a final review is required before a purchase order is created even when the automatic creation of purchase orders property is set to Yes.For more information on how the auto-order properties affect purchase order creation, see [Purchase requisition auto-order](pr-auto-order.md).
 
 </td></tr><tr><td>
 
@@ -1284,5 +1284,5 @@ This property is enabled by default. However, if this property is disabled, do t
 4.  If the **Value** field shows **OFF**, change it to **ON** to enable this property.
 5.  Select **Update**.
 
-**Parent Topic:**[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+**Parent Topic:**[Install Sourcing and Procurement Operations](activate-finance-spend-central.md)
 

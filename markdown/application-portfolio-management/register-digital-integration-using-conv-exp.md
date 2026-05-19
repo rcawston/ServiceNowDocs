@@ -82,5 +82,5 @@ You can skip answering a question that is related to non-required fields by ente
     You can choose to make changes or submit.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 

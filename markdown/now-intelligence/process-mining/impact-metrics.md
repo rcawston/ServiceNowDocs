@@ -87,7 +87,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     Select the help icon \(?\) to view details about how and why these details must be set. You also get a list of resources.
 
-    If you want to create a KPI dashboard, select **New Dashboard**. For more information, see [Create a dashboard with the in-line editor](../../../use/dashboards/task/create-db-in-ac.md).
+    If you want to create a KPI dashboard, select **New Dashboard**. For more information, see [Create a dashboard with the in-line editor](../create-db-in-ac.md).
 
 7.  Provide values for each KPI categories.
 

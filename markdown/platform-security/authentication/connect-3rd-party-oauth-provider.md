@@ -208,7 +208,7 @@ Client Type
 Choose the client type, based on the type of your client. Options:-   **Iframe Embedded**
 -   **Integration as a User**
 -   **Integration as a Service**
-To know more, see [Configure client type for OAuth and SSO records](../../../integrate/authentication/concept/client-type.md).
+To know more, see [Configure client type for OAuth and SSO records](client-type.md).
 
 </td></tr></tbody>
 </table>    The system creates a record in the Application Registries \[oauth\_entity\] table with type OAuth Provider.

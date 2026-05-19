@@ -45,5 +45,5 @@ The ReadBarcodes component returns a single output that contains concatenated te
     To test the component, on the **Design** tab, select **Run**.
 
 
-**Parent Topic:**[Barcode](../concept/barcode.md)
+**Parent Topic:**[Barcode](barcode.md)
 

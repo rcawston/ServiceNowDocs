@@ -25,7 +25,7 @@ Available as an Workflow Studio action step. Users with the action\_designer rol
 
 -   **Role requirements**
 
-    This step requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](../concept/user-access-flow-designer.md).
+    This step requires roles granted by delegated development or assigned to the user. For more information, see [User access to Workflow Studio flows](user-access-flow-designer.md).
 
 
 ## Inputs
@@ -56,7 +56,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](action-error-evaluation.md).
 
 
 ## Outputs
@@ -172,5 +172,5 @@ Here are the example output values produced by the Flow summarization skill.
     This example returns a success output value.
 
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

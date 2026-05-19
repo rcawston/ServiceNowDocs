@@ -17,7 +17,7 @@ Run multiple unattended automations simultaneously on a single machine by batch 
 
 You must do this task in the classic environment.
 
-Familiarise yourself with the high density robot concept in RPA Hub. For more information, see [High density robots in RPA Hub](../concept/high-density-robots-rpa-hub.md).
+Familiarise yourself with the high density robot concept in RPA Hub. For more information, see [High density robots in RPA Hub](high-density-robots-rpa-hub.md).
 
 Only the unattended robots that are in **New** or **Disconnected** states and are not associated with any robot pool can be converted to high density robots.
 

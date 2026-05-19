@@ -33,7 +33,7 @@ The ServiceNow® Service Observability application enables operators to triage a
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about Service Observability](../reference/service-observability-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about Service Observability](service-observability-reference.md)
 
 </td></tr></tbody>
 </table>

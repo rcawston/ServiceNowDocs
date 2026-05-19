@@ -32,7 +32,7 @@ For information about update sets, see [Create and select an update set](https:/
     -   Prior to deploying the main flow update set, merge the dependencies into one update set before completing that update set.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
+-   Related Information: [Workflow movement with update sets](c_WorkflowMovementWithUpdateSets.md#)
 
 ## Troubleshooting
 

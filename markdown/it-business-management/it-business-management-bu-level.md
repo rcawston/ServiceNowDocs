@@ -43,7 +43,7 @@ Read only roles for PPM Standard \(com.snc.pmo\_read\_roles\) plugin
 </td><td>
 
 -   The plugin provides the Read only roles for Financial Management \(sn\_itfm\_read\). Users with this role can access Financial Management dashboards. For more information on the list of dashboards and the levels of accessibility on the underlying tables, see Read only roles for Financial Management.
--   The plugin provides the Read only roles for Project Portfolio Management \(PPM\) and Timecard \(sn\_ppm\_read\). Users with this role can access Portfolio, Program, and Timecard dashboards along with the Resources report. For more information on the list of dashboards and the levels of accessibility on the underlying tables, see [Read only roles for PPM](../../project-portfolio-suite-with-financials/reference/business-stakeholder-role-ppm.md).
+-   The plugin provides the Read only roles for Project Portfolio Management \(PPM\) and Timecard \(sn\_ppm\_read\). Users with this role can access Portfolio, Program, and Timecard dashboards along with the Resources report. For more information on the list of dashboards and the levels of accessibility on the underlying tables, see [Read only roles for PPM](ppm-collaboration/business-stakeholder-role-ppm.md).
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Read only roles for Agile 2.0 \(com.snc.agile\_read\_roles\) plugin
 
 </td><td>
 
-The plugin provides a Read only role for Agile Development 2.0, Scrum Programs, and Performance Analytics Content Pack for Agile 2.0 applications. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Agile 2.0](../../agile-development/reference/business-stakeholder-role-agile-dev-2-0.md).
+The plugin provides a Read only role for Agile Development 2.0, Scrum Programs, and Performance Analytics Content Pack for Agile 2.0 applications. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Agile 2.0](agile-development/business-stakeholder-role-agile-dev-2-0.md).
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Read only roles for SAFe \(com.snc.safe\_read\_roles\) plugin
 
 </td><td>
 
-The plugin provides a Read only role for Essential SAFe, Portfolio SAFe, and Performance Analytics Content Pack for Essential SAFe. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for SAFe](../../agile-SAFe/reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md).
+The plugin provides a Read only role for Essential SAFe, Portfolio SAFe, and Performance Analytics Content Pack for Essential SAFe. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for SAFe](scaled-agile-framework-safe/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Read only roles for Test Management 1.0 \(com.snc.tm1\_read\_roles\) plugin
 
 </td><td>
 
-The plugin provides a Read only role for Test Management 1.0. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Test Management 1.0](../../test-management/reference/business-stakeholder-role-tm-1.md).
+The plugin provides a Read only role for Test Management 1.0. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Test Management 1.0](test-management/business-stakeholder-role-tm-1.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Read only roles for Test Management 2.0 \(com.snc.tm2\_read\_roles\) plugin
 
 </td><td>
 
-The plugin provides a Read only role for Test Management 2.0. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Test Management 2.0](../../test-management2/reference/business-stakeholder-role-test-mgmt2.md).
+The plugin provides a Read only role for Test Management 2.0. A user with this role can read and retrieve data from these applications and generate reports and dashboards. For information on plugin availability and data access, see [Business stakeholder role for Test Management 2.0](test-management/business-stakeholder-role-test-mgmt2.md).
 
 </td></tr></tbody>
 </table>

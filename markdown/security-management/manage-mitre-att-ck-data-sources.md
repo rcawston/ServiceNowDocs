@@ -126,16 +126,16 @@ The data source mapping for a record is revoked if the technique and data source
     ![How to map the detection tool.](../image/mitre-select-detection-tool.gif)
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK administration](../concept/mitre-att-ck-administration.md)
+**Parent Topic:**[MITRE-ATT&amp;CK administration](mitre-att-ck-administration.md)
 
 **Related topics**  
 
 
-[Get started with MITRE-ATT&amp;CK framework](../reference/get-started-with-mitre.md)
+[Get started with MITRE-ATT&amp;CK framework](get-started-with-mitre.md)
 
-[Understand the MITRE to STIX data model](../reference/understand-the-mitre-to-stix-data-model-mapping.md)
+[Understand the MITRE to STIX data model](understand-the-mitre-to-stix-data-model-mapping.md)
 
-[Domain separation and MITRE-ATT&amp;CK](../reference/domain-separation-and-mitre-att-ck.md)
+[Domain separation and MITRE-ATT&amp;CK](domain-separation-and-mitre-att-ck.md)
 
 [Set up the MITRE-ATT&amp;CK framework](setup-mitre-profile.md)
 
@@ -169,7 +169,7 @@ The data source mapping for a record is revoked if the technique and data source
 
 [Create and map detection rules](create-detection-rules.md)
 
-[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](../concept/auto-extract-technique-rules.md#)
+[Auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#)
 
 [Review threat group and MITRE-ATT&amp;CK techniques mapping](review-threat-group-and-techniques-mapping.md)
 

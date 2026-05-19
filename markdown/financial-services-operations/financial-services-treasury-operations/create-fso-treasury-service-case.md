@@ -19,9 +19,9 @@ Begin the treasury service application process by creating a treasury case on be
 
 Role required: sn\_bom\_treasury.contributor or sn\_bom\_treasury.agent\_connector
 
-**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](../../fso-common/reference/fso-core-roles.md).
+**Note:** The applicable universal contributor role can also be assigned to create a case. For more information, see [User roles and FSO Business rules](../fso-core-roles.md).
 
-**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector or contributor role to work, they must be combined with one of the roles in CSM industry data model or Contributor users. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -88,5 +88,5 @@ Collect all the required customer information and submit the application.
 1.  In the **Playbook** tab, fill the data in the Initiate stage.​
 2.  Submit the application to back-office agents for fulfilment.
 
-**Parent Topic:**[Using Financial Services Treasury Operations](../concept/using-treasury-ops.md)
+**Parent Topic:**[Using Financial Services Treasury Operations](using-treasury-ops.md)
 

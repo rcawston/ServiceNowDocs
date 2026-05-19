@@ -235,5 +235,5 @@ The corresponding score for the calculated ALE:-   Low
 7.  Repeat until you have added all the children risk statements related to this risk statement.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

@@ -34,5 +34,5 @@ By default, the Design and assign function layout shows three sections such as a
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 

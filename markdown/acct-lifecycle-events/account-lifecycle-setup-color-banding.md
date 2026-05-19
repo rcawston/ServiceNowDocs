@@ -88,5 +88,5 @@ This is the color used to highlight the health score and perceived health of an 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage engagements](../concept/account-lifecycle-manage-engagement.md)
+**Parent Topic:**[Manage engagements](account-lifecycle-manage-engagement.md)
 

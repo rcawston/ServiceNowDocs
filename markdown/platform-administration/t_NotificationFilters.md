@@ -34,8 +34,8 @@ For example, you can create a filter that controls message delivery when active 
 
 -   **[Filter device notifications using a schedule](t_FiltDeviceNotifUsingASchedule.md)**  
 You can associate devices, such as Email, SMS, and Voice, to schedules that define when the devices can and cannot receive notifications.
--   **[Edit the schedule or filter of an existing notification message](../../../use/email-and-notification-preferences/task/t_EditSchedOrFiltNotifMessage.md)**  
+-   **[Edit the schedule or filter of an existing notification message](t_EditSchedOrFiltNotifMessage.md)**  
 You can update a schedule or filter that was previously created for an email notification.
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](c_SubscriptionBasedNotifications.md)
 

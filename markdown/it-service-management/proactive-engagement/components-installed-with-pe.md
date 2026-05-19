@@ -206,5 +206,5 @@ sn\_pren\_experience\_issue\_m2m\_alert
 Record used to create a log of the alert that caused experience issue. This is a mapping table between alert and experience issues, with details on count of throttled users and throttling reason.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+</table>**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

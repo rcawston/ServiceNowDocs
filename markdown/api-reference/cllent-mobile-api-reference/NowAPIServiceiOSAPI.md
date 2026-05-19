@@ -17,9 +17,9 @@ The NowAPIService class provides functions that enable you to perform requests t
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Service configuration to associate with the protocol.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Service configuration to associate with the protocol.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAPIService - data\(for endpoint: NowAPIEndpoint, queryItems: \[String: String\], httpHeaders: \[String: String\], body: Data, completion: @escaping \(Result&lt;DataResponse, NowDataError&gt;\)
 
@@ -43,7 +43,7 @@ for endpoint
 
 </td><td>
 
-[NowAPIEndpoint](../../NowAPIEndpoint/concept/NowAPIEndpointiOSProtocol.md#)
+[NowAPIEndpoint](NowAPIEndpointiOSProtocol.md#)
 
 </td><td>
 
@@ -216,7 +216,7 @@ for endpoint
 
 </td><td>
 
-[NowAPIEndpoint](../../NowAPIEndpoint/concept/NowAPIEndpointiOSProtocol.md#)
+[NowAPIEndpoint](NowAPIEndpointiOSProtocol.md#)
 
 </td><td>
 
@@ -379,7 +379,7 @@ for endpoint
 
 </td><td>
 
-[NowAPIEndpoint](../../NowAPIEndpoint/concept/NowAPIEndpointiOSProtocol.md#)
+[NowAPIEndpoint](NowAPIEndpointiOSProtocol.md#)
 
 </td><td>
 

@@ -38,7 +38,7 @@ You must have the custom app record summarization skill activated to configure t
 
 7.  Choose the table that you want Now Assist for App Engine to summarize.
 
-    You can generate summaries for records in most custom tables on the ServiceNow AI Platform. However, some tables are restricted. For more information, see [Custom app record summarization skill](../concept/custom-app-record-summarization-na-for-app-engine.md).
+    You can generate summaries for records in most custom tables on the ServiceNow AI Platform. However, some tables are restricted. For more information, see [Custom app record summarization skill](custom-app-record-summarization-na-for-app-engine.md).
 
     1.  On the Choose data source page, select the **Base input table** field.
 
@@ -52,7 +52,7 @@ You must have the custom app record summarization skill activated to configure t
 
     5.  To add related data sources that you want included in summaries, such as related tables, select **+ New data source**, then select the additional data source from the list.
 
-        For more information about the kinds of data sources that Now Assist for App Engine can summarize, see [Custom app record summarization skill](../concept/custom-app-record-summarization-na-for-app-engine.md).
+        For more information about the kinds of data sources that Now Assist for App Engine can summarize, see [Custom app record summarization skill](custom-app-record-summarization-na-for-app-engine.md).
 
     6.  To add additional tables for Now Assist for App Engine to summarize, select **+ New input table** and repeat the process in steps a through e to define the fields that you want to be included in the summary.
 
@@ -86,7 +86,7 @@ You must have the custom app record summarization skill activated to configure t
 
 10. Choose the display option that determines how users access the skill.
 
-    For more information about display options, see [Custom app record summarization skill](../concept/custom-app-record-summarization-na-for-app-engine.md).
+    For more information about display options, see [Custom app record summarization skill](custom-app-record-summarization-na-for-app-engine.md).
 
     1.  Select the toggle on icon \(![](../../../administer/form-builder/image/toggle-on.png)\) for the display option that you want to enable.
 
@@ -109,5 +109,5 @@ The custom app record summarization skill is now ready for use in the custom app
 
 ## What to do next
 
-To use the custom app record summarization skill, see [Using Now Assist for App Engine](../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md).
+To use the custom app record summarization skill, see [Using Now Assist for App Engine](use-now-assist-for-app-engine-enterprise.md).
 

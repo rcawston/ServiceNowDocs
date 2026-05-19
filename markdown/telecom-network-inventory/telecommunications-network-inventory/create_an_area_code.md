@@ -71,7 +71,7 @@ Central office code that is also referred to as NXX. The NXX portion of a teleph
 
 ## What to do next
 
-Create a telephone block, telephone number allocation, or telephone number. For information, see [Create a telephone infrastructure](../concept/telephone_block_telephone_number_and_telephone_number.md).
+Create a telephone block, telephone number allocation, or telephone number. For information, see [Create a telephone infrastructure](telephone_block_telephone_number_and_telephone_number.md).
 
-**Parent Topic:**[Create the components of a telephone number](../concept/create_components_of_a_telephone_number.md)
+**Parent Topic:**[Create the components of a telephone number](create_components_of_a_telephone_number.md)
 

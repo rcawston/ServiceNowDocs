@@ -218,5 +218,5 @@ Vulnerabilities
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Campaigns](../concept/threat-intelligence-campaigns.md)
+</table>**Parent Topic:**[Campaigns](threat-intelligence-campaigns.md)
 

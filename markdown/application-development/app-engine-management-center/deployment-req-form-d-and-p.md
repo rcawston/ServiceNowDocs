@@ -213,5 +213,5 @@ Internal notes.
 </td></tr></tbody>
 </table>When you have saved the form, additional tabs for approval-related information display. The App Engine admin can use these tabs to approve the request.
 
-**Parent Topic:**[Managing deployments using Pipelines and Deployments](../concept/manage-deployments-using-p-and-d-aemc.md)
+**Parent Topic:**[Managing deployments using Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md)
 

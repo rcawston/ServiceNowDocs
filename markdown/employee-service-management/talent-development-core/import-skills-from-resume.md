@@ -56,5 +56,5 @@ Role required: sn\_skills\_int.emp
 
 The skills are added to the Additional skills section on the skills widget.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](using-skills-intelligence.md)
 

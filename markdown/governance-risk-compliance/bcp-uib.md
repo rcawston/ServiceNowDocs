@@ -46,5 +46,5 @@ if you are the business continuity plan owner, you can create a business continu
 
 -   You can also navigate to the List view and select **New** in the Planning records.
 
-To create a business continuity plan in Business Continuity Workspace, see [Create a business continuity plan](../task/create-bcp-plan-in-uib-ws.md). For information on managing tasks related to a business continuity plan, see [Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md).
+To create a business continuity plan in Business Continuity Workspace, see [Create a business continuity plan](create-bcp-plan-in-uib-ws.md). For information on managing tasks related to a business continuity plan, see [Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md).
 

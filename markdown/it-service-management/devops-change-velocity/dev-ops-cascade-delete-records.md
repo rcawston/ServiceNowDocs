@@ -518,7 +518,7 @@ Deletion of DevOps records occurs in the foreground \(synchronously\) by default
 
 **Note:** Artifact Version, Build Test Summary, and Package records are always deleted in the foreground.
 
-To set the DevOps [Cascade delete threshold](../concept/dev-ops-administration.md) property, navigate to **DevOps** &gt; **Administration** &gt; **Properties**. Define the total number of records that can be cascade deleted in the foreground, after which the remaining records are deleted in the background. Default is 1000.
+To set the DevOps [Cascade delete threshold](dev-ops-administration.md) property, navigate to **DevOps** &gt; **Administration** &gt; **Properties**. Define the total number of records that can be cascade deleted in the foreground, after which the remaining records are deleted in the background. Default is 1000.
 
 **Note:** The records of tables in a hierarchy are deleted in a bottom-up manner. For example, it might be possible that even after triggering the delete action on a Repository record, it will still be available for read, write, and update in the system until deletion is complete.
 
@@ -528,5 +528,5 @@ DevOps record deletions do not trigger any business rules or workflows.
 
 Cascade delete of a DevOps record triggers multiple confirmation approvals.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

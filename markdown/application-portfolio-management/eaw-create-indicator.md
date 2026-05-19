@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application indicator, select the application indicator.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new indicator form](../../reference/eaw-reference/eaw-create-new-indicator-form.md).
+    For field information, see [Create new indicator form](eaw-create-new-indicator-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure indicators](../../concept/eaw-concept/eaw-setup-indicators.md)
+**Parent Topic:**[Configure indicators](eaw-setup-indicators.md)
 
 **Related topics**  
 

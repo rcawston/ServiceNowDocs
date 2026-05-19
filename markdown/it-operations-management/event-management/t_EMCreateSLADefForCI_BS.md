@@ -95,5 +95,5 @@ For a specific service, such as Email, when the **Severity** is **Critical**
 7.  Click **Submit**.
 
 
-**Parent Topic:**[SLAs for application services and CIs](../concept/c_EMSLAsForBSAndCIs.md)
+**Parent Topic:**[SLAs for application services and CIs](c_EMSLAsForBSAndCIs.md)
 

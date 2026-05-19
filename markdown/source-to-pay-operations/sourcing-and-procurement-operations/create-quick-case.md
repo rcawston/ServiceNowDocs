@@ -38,5 +38,5 @@ Role required: sn\_shop.procurement\_specialist
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](using-pcm.md)
 

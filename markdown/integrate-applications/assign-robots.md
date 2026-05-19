@@ -17,11 +17,11 @@ Assign a robot to an unattended bot process to execute the automation \(package\
 
 Ensure that the **Enable Robot Pool** option isn’t selected in the Robot Pool section of the Details tab of the bot process.
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 You can assign robots with a life cycle stage status of **In Use** to a bot process.
 
-Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
+Do this task only when you select the **Process Type** field as **Unattended** on the Bot process configuration form while you're creating a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md), [Bot process configuration form in RPA Hub](create-botprocess-config.md#), and [Bot Process form in RPA Hub](select-botprocess.md#).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
@@ -50,5 +50,5 @@ To assign robots via robot pool, enable the robot pool option on the bot process
 8.  Select **Save**.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 

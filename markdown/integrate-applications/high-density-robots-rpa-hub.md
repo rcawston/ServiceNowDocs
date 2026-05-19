@@ -17,7 +17,7 @@ Execute multiple automations \(bot processes\) simultaneously and independently 
 
 High density robots leverage the Remote Desktop Services to execute multiple automations simultaneously on the same Windows Server machine. High density robots can run the same automation or run different automations in separate user sessions on the same machine. The machine must support multiple user sessions at the same time. This setup maximizes resource utilization by leveraging the machine's capacity to execute several bot processes in parallel.
 
-While configuring unattended robot, you can select the **High Density Robot** option to create multiple robots with the same machine name. All the high density robots with the same machine name can have different screen resolutions. But it is ideal for all high density robots associated to the same bot process to have same screen resolution value. For more information about these fields, see [Create an unattended robot in RPA Hub](../task/create-unattended-robot.md).
+While configuring unattended robot, you can select the **High Density Robot** option to create multiple robots with the same machine name. All the high density robots with the same machine name can have different screen resolutions. But it is ideal for all high density robots associated to the same bot process to have same screen resolution value. For more information about these fields, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 
 **Note:**
 
@@ -33,16 +33,16 @@ High density robots can't be added to the robot pool.
 
 ## Configuring high density robots
 
-To configure the high density robots, see [Create an unattended robot in RPA Hub](../task/create-unattended-robot.md).
+To configure the high density robots, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 
-To convert existing unattended robots to high density robots, see [Convert existing unattended robots to high density robots in RPA Hub](../task/convert-robot-hdr.md).
+To convert existing unattended robots to high density robots, see [Convert existing unattended robots to high density robots in RPA Hub](convert-robot-hdr.md).
 
 **Related topics**  
 
 
-[High density robots in Unattended Robot](../../rpa-runtime/concept/high-density-robots-uat.md)
+[High density robots in Unattended Robot](high-density-robots-uat.md)
 
-[Set up Windows Server machine for high density robots](../../rpa-runtime/task/setup-windows-server-hdr.md)
+[Set up Windows Server machine for high density robots](setup-windows-server-hdr.md)
 
-[Set up Unattended Robot](../../rpa-runtime/task/set-up-rpa-runtime.md)
+[Set up Unattended Robot](set-up-rpa-runtime.md)
 

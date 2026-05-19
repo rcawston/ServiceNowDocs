@@ -29,9 +29,9 @@ The Resource Manager view in **Resource** &gt; **Resources** &gt; **Users** list
 
 The Resource Manager view in **Resource** &gt; **Resources** &gt; **Groups** lists only the groups with the pps\_resource role. When a resource manager creates a new group from this view, the pps\_resource role is added by default to the group record. Although resource managers have write access to several fields, the only fields that they should edit are **Average Daily FTE Hours/Hours Per Person Day** and **Hourly rate**.
 
--   **[Update the resource capacity](../task/update-resource-capacity.md)**  
+-   **[Update the resource capacity](update-resource-capacity.md)**  
 From the Resource Manager view, update the capacity of a user for a specific duration. Based on the schedule of the user and the specified duration, the capacity of the user is accordingly populated in all resource aggregate tables.
--   **[Update the resource aggregates](../task/update-aggregate-capacity.md)**  
+-   **[Update the resource aggregates](update-aggregate-capacity.md)**  
 From the Resource Manager view, you can update the resource aggregates for a specific time frame.
 
 **Parent Topic:**[Resource allocation](r_AllocatingResources.md)
@@ -39,9 +39,9 @@ From the Resource Manager view, you can update the resource aggregates for a spe
 **Related topics**  
 
 
-[Create a resource role](../task/create-resource-role.md)
+[Create a resource role](create-resource-role.md)
 
-[Create allocations](../task/t_AllocateWResAllocationsRelList.md)
+[Create allocations](t_AllocateWResAllocationsRelList.md)
 
-[Reject a resource plan from the Resource Plan form](../task/t_RejectResourcePlanForm.md)
+[Reject a resource plan from the Resource Plan form](t_RejectResourcePlanForm.md)
 

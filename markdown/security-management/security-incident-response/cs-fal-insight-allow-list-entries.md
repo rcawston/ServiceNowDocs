@@ -25,7 +25,7 @@ Role required: sn\_si.analyst
 
 2.  Select **Entry Value**.
 
-    For a description of the field values, see [Allow and Block Request List Entries](../reference/allow-and-block-list-properties.md).
+    For a description of the field values, see [Allow and Block Request List Entries](allow-and-block-list-properties.md).
 
 3.  Select **Submit**.
 

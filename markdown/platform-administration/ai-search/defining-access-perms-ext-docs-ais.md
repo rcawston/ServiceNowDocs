@@ -163,7 +163,7 @@ AI Search administrator \[ais\_admin\]
 
 </td><td>
 
-An AI Search administrator can access all external content indexed records in a search application.**Note:** To bypass all search source and content security filtering in the Search Preview UI, you also need the impersonator and AI Search high security administrator \[ais\_high\_security\_admin\] roles. For details on this procedure, see [Diagnose search result access issues using the Search Preview UI](../task/diagnose-srch-result-access-ais.md).
+An AI Search administrator can access all external content indexed records in a search application.**Note:** To bypass all search source and content security filtering in the Search Preview UI, you also need the impersonator and AI Search high security administrator \[ais\_high\_security\_admin\] roles. For details on this procedure, see [Diagnose search result access issues using the Search Preview UI](diagnose-srch-result-access-ais.md).
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ To reverse this default behavior for an indexed source, making external group de
 
 1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
-2.  If the Advanced Configuration related list doesn't appear on the form, follow the steps in [Add a related list to a form](../../form-administration/concept/configure-form-layout.md#), selecting the **AI Search Indexed Source Attribute-&gt;Indexed Source** list in the slushbucket.
+2.  If the Advanced Configuration related list doesn't appear on the form, follow the steps in [Add a related list to a form](../configure-form-layout.md#), selecting the **AI Search Indexed Source Attribute-&gt;Indexed Source** list in the slushbucket.
 
 3.  In the Advanced Configuration related list, select **New**.
 
@@ -217,7 +217,7 @@ To reverse this default behavior for an indexed source, making external group de
     |Attribute|user\_read\_takes\_precedence\_over\_group\_deny|
     |Value|false|
 
-    For a description of the field values, see [Indexed Source Attribute form](../reference/indexed-source-attribute-form-ais.md).
+    For a description of the field values, see [Indexed Source Attribute form](indexed-source-attribute-form-ais.md).
 
 5.  Select **Submit**.
 

@@ -34,7 +34,7 @@ Enforce multi-factor authentication based on the roles assigned to the user. If 
 |Security risk rating|7.2|
 |Functional impact|Enabling this property improves the experience of the user. It acts as an extra layer of protection and security against compromised credentials.|
 |Security risk|\(Moderate\) If this property is not enabled, there is a risk of unauthorized access to sensitive data.|
-|References|[Configure role-based multi-factor criteria](../../../integrate/authentication/task/mfa-role-criteria.md)|
+|References|[Configure role-based multi-factor criteria](../authentication/mfa-role-criteria.md)|
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 

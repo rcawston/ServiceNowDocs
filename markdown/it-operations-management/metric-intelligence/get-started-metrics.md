@@ -33,16 +33,16 @@ Alternatively, you can complete the following procedure.
 
 1.  Configure a MID Server for Metric Intelligence.
 
-    For details, see [MID Server and MID Server distributed cluster for Metric Intelligence](../concept/ops-intelligence-mid-server.md).
+    For details, see [MID Server and MID Server distributed cluster for Metric Intelligence](ops-intelligence-mid-server.md).
 
 2.  Use the [Automated Metric Intelligence setup](auto-setup.md).
 
-3.  [Choose a source for collecting metrics](../../agent-client-collector/concept/metric-collection-sources.md).
+3.  [Choose a source for collecting metrics](metric-collection-sources.md).
 
-4.  [Choose and configure metrics to monitor](configure-metric-monitors.md).
+4.  [Choose and configure metrics to monitor](../agent-client-collector/configure-metric-monitors.md).
 
-5.  [Create event rules to map raw metric data to specific CIs](../concept/event-rule-bind-metrics-to-ci.md) and [Create an event rule to bind metric events to host CIs](event-rule-bind-metrics-to-host.md).
+5.  [Create event rules to map raw metric data to specific CIs](event-rule-bind-metrics-to-ci.md) and [Create an event rule to bind metric events to host CIs](event-rule-bind-metrics-to-host.md).
 
-6.  About 10 minutes after the Metric Intelligence Metrics extension has started, run the [quick start tests for Metric Intelligence](../../../administer/atf-quick-start-tests/reference/quick-start-tests-ops-intelligence.md) to verify functionality.
+6.  About 10 minutes after the Metric Intelligence Metrics extension has started, run the [quick start tests for Metric Intelligence](../agent-client-collector/quick-start-tests-ops-intelligence.md) to verify functionality.
 
 

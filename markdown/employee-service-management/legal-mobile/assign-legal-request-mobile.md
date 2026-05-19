@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## About this task
 
-When an employee submits a legal request, it is automatically assigned to a group or user in the legal department based on the [assignment rules](../../legal-request-management/task/create-assignment-rules-intake-form.md) configured for the intake form of the associated practice area. If the request is assigned to a legal group, any member from the group can triage the request themselves or assign it to another member of the group.
+When an employee submits a legal request, it is automatically assigned to a group or user in the legal department based on the [assignment rules](../legal-request-management/create-assignment-rules-intake-form.md) configured for the intake form of the associated practice area. If the request is assigned to a legal group, any member from the group can triage the request themselves or assign it to another member of the group.
 
 ## Procedure
 

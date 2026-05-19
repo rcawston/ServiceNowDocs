@@ -64,12 +64,12 @@ Role required: admin
         ![Document tasks related list appears on the record form](../image/doc-tasks-rl.png)
 
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](understanding-doc-templates.md)
 
 [Working on a document task](work-doctemp-tasks.md)
 

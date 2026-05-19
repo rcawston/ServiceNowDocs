@@ -50,5 +50,5 @@ The following table contains the MIBs that load automatically. The MIBs that are
 |SNMPv2-TC| |
 |UPS-MIB| |
 
-**Parent Topic:**[SNMP probes](../concept/c_SNMPProbe.md)
+**Parent Topic:**[SNMP probes](c_SNMPProbe.md)
 

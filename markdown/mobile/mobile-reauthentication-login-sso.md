@@ -36,5 +36,5 @@ Role required: admin
     |Value|Enter the `sys_id` of the SSO provider as listed in the \[sso\_properties\] table.|
 
 
-**Parent Topic:**[Configure mobile re-authentication system properties](../concept/mobile-reautentication-concept.md)
+**Parent Topic:**[Configure mobile re-authentication system properties](mobile-reautentication-concept.md)
 

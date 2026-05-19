@@ -37,5 +37,5 @@ Edit your existing Operational Technology incident categories and subcategories 
 
 Now, the changes to the existing category or subcategory appear on the record.
 
-**Parent Topic:**[Incident categories and subcategories](../reference/ot-incident-categories-subcategories.md)
+**Parent Topic:**[Incident categories and subcategories](ot-incident-categories-subcategories.md)
 

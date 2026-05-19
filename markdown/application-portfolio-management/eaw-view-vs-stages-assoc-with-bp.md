@@ -36,16 +36,16 @@ Role required: sn\_apm.apm\_user
     The list of value stream stages associated with the business process is displayed.
 
 
-**Parent Topic:**[Manage business processes](../../concept/eaw-concept/eaw-manage-business-processes.md)
+**Parent Topic:**[Manage business processes](eaw-manage-business-processes.md)
 
 **Related topics**  
 
 
-[Exploring business processes](../../concept/eaw-concept/eaw-business-processes.md)
+[Exploring business processes](eaw-business-processes.md)
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 
-[Exploring value stream stages](../../concept/eaw-concept/eaw-value-stream-stage.md)
+[Exploring value stream stages](eaw-value-stream-stage.md)
 
 [Add or remove a business process from a value stream stage](eaw-assoc-bp-with-vs-stage.md)
 

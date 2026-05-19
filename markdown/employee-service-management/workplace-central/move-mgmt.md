@@ -19,7 +19,7 @@ The Move management workspace enables you to schedule moves as per their planned
 
 ![Move scheduler view of a move project.](../images/move-scheduler.png "Move scheduler view of a move project")
 
-A move project enables you to work on requests in a schedule view, which is referred to as the Move scheduler view. The Move schedule view provides a visual representation of move requests in a schedule view similar to the schedule view of the Workplace Reservation Management Reservation portal. The requests are displayed with their current state, the date on which they’re scheduled to move and further details. This way you can fulfill move requests as per the requested date in the Workplace Move Management. For more information about the Move scheduler, refer to [Move project views, actions, and states](../reference/move-project-schedule-view.md).
+A move project enables you to work on requests in a schedule view, which is referred to as the Move scheduler view. The Move schedule view provides a visual representation of move requests in a schedule view similar to the schedule view of the Workplace Reservation Management Reservation portal. The requests are displayed with their current state, the date on which they’re scheduled to move and further details. This way you can fulfill move requests as per the requested date in the Workplace Move Management. For more information about the Move scheduler, refer to [Move project views, actions, and states](move-project-schedule-view.md).
 
 **Important:** The Move management workspace enables you to only view and schedule move requests across different dates. To fulfill a move request, you must use the Workplace Move Management.
 
@@ -45,7 +45,7 @@ As a move manager, using the Workplace Central Move Management workspace, you ca
 -   Visualize the current states of move requests. Track which requests are complete and which ones aren’t. Based on the state, you can work on any requests that requires attention.
 -   You can also visualize each move project that you’re working on. Each project is displayed based on the number of move cases assigned to the move project.
 
-For more information about the Move management workspace, refer to [Move management key features and actions](../reference/move-mgmt-views-states-actions.md).
+For more information about the Move management workspace, refer to [Move management key features and actions](move-mgmt-views-states-actions.md).
 
 **Parent Topic:**[Explore Workplace Central](workplace-central.md)
 
@@ -58,11 +58,11 @@ For more information about the Move management workspace, refer to [Move managem
 
 [Space Planning](space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](../workplace-space-management/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](../workplace-space-management/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](../workplace-space-management/schedule-planning.md)
 
 [Space assistance](space-assistance.md)
 

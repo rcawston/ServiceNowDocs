@@ -54,7 +54,7 @@ Action
 
 </td><td>
 
-Create an issue. Follow the steps in the [Create New Issue form](../../grc-operational-res-ws/reference/create-new-issue-opres-ws.md).
+Create an issue. Follow the steps in the [Create New Issue form](create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
 </table>4.  Select **Save**.

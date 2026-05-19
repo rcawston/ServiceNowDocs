@@ -17,7 +17,7 @@ Add workplace items that must be synchronized with the calendar provider wheneve
 
 ## Before you begin
 
-Refer to [Explore Workplace Calendar Synchronization](../concept/workplace-calendar-synchronization-overview.md).
+Refer to [Explore Workplace Calendar Synchronization](workplace-calendar-synchronization-overview.md).
 
 Role required: sn\_wsd\_rsvsync.admin
 

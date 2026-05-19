@@ -257,5 +257,5 @@ Workflow that defines how the item request is fulfilled.
 **Note:** This field is only visible if you select **Workflow** in the **Process engine** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Technology Request Management reference](../concept/operational-technology-request-management-reference.md)
+</table>**Parent Topic:**[Operational Technology Request Management reference](operational-technology-request-management-reference.md)
 

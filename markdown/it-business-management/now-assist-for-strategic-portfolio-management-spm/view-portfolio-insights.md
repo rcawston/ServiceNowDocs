@@ -62,5 +62,5 @@ The insights are generated for the following categories for a portfolio plan:
 
 Portfolio Insights identifies prioritized planning items at risk, along with root cause analyses and recommended actions to help you maintain portfolio health.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 

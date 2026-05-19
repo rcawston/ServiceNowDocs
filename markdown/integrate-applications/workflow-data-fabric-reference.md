@@ -14,9 +14,9 @@ breadcrumb: [Workflow Data Fabric Home, Workflow Data Fabric]
 
 Reference topics provide additional information about the terms, forms, and concepts that you use for Workflow Data Fabric Home.
 
--   **[Workflow Data Fabric key terms](../reference/key-terms-wdf.md)**  
+-   **[Workflow Data Fabric key terms](key-terms-wdf.md)**  
 Key terms used in Workflow Data Fabric.
--   **[Workflow Data Fabric Home roles](../reference/installed-with-workflow-data-fabric.md)**  
+-   **[Workflow Data Fabric Home roles](installed-with-workflow-data-fabric.md)**  
 Several user roles are installed with activation of the ServiceNow WDF Unified Hub plugin.
 
 **Parent Topic:**[Workflow Data Fabric Home](wdf.md)

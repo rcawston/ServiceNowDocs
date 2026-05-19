@@ -22,5 +22,5 @@ The cleanup policies are based on the time that the scans are created. The timer
     -   The **Scan type** is **Test Scan**.
     -   The records are older than 14 days, and **Age in seconds** is equal to or greater than **1,209,600** seconds.
 
-You can also modify these policies by entering any customized time period. See [Customize table cleanup policies](../task/hs-customize-table-cleanup-policies.md) for more information.
+You can also modify these policies by entering any customized time period. See [Customize table cleanup policies](hs-customize-table-cleanup-policies.md) for more information.
 

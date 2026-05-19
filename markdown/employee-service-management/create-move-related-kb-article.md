@@ -136,20 +136,20 @@ The knowledge base article is created.
 
 ## What to do next
 
-[Create a workplace knowledge base article](../../workplace-service-delivery/task/create-workplace-kb-article-wsd.md)
+[Create a workplace knowledge base article](workplace-core/create-workplace-kb-article-wsd.md)
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Create a move request on behalf of an employee](request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](employee-service-management/request-desk-change-for-employee-1.md)
 
-[Raise a move request for a space change](request-desk-change.md)
+[Raise a move request for a space change](workplace-case-management/request-desk-change.md)
 
 [Update a move request workplace service](update-move-request-workplace-service.md)
 
 [Update a move-related workplace service record producer](view-move-request-record-producer.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](review-conflicts.md)
 

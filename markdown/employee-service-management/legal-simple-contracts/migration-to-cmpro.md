@@ -46,7 +46,7 @@ Role required: sn\_lg\_cnt.contract\_admin
 
 4.  Create the contract types noted in step 2.
 
-    While creating contract type ensure you associate it with a contract model. For more information, see [Create a contract type](../../contract-mgmt-pro/task/cncore-create-contract-type.md)
+    While creating contract type ensure you associate it with a contract model. For more information, see [Create a contract type](../contract-management-pro/cncore-create-contract-type.md)
 
 5.  Navigate to **All** &gt; **Legal Practice Apps** &gt; **Legal Contracts** &gt; **All Contracts**.
 

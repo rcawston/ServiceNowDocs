@@ -60,8 +60,8 @@ You are taken to the appropriate form, depending on your selection.
 
 Follow the instructions for the form that opens:
 
--   [Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
--   [Create a formula indicator](t_CreateAFormulaIndicator.md)
--   [Manual indicators](t_CreateAManualIndicator.md)
--   [Using Performance Analytics with external data](../concept/pa-external-data.md#)
+-   [Create an automated indicator](performance-analytics/t_CreateAnAutomatedIndicator.md#)
+-   [Create a formula indicator](performance-analytics/t_CreateAFormulaIndicator.md)
+-   [Manual indicators](performance-analytics/t_CreateAManualIndicator.md)
+-   [Using Performance Analytics with external data](performance-analytics/pa-external-data.md#)
 

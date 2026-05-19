@@ -21,7 +21,7 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 The following table provides an overview of the configuration tasks required for Pre-Visit Management.
 
-**Note:** The Pre-Visit Management application is based on the [Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md) and stores all procedure requests in the Procedure request \[sn\_previsit\_procedure\_request\] table.
+**Note:** The Pre-Visit Management application is based on the [Healthcare and Life Sciences data model](healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md) and stores all procedure requests in the Procedure request \[sn\_previsit\_procedure\_request\] table.
 
 <table id="table_ksw_gpr_4nb"><thead><tr><th>
 
@@ -33,7 +33,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Pre-Visit Management](../task/install-pre-visit-mgmt.md).
+[Install Pre-Visit Management](install-pre-visit-mgmt.md).
 
 </td><td>
 
@@ -41,7 +41,7 @@ Install the Pre-Visit Management application to work on procedure requests.
 
 </td></tr><tr><td>
 
-[Assign roles for Pre-Visit Management users](../task/pre-visit-assign-roles.md).
+[Assign roles for Pre-Visit Management users](pre-visit-assign-roles.md).
 
 </td><td>
 
@@ -57,7 +57,7 @@ Approve restricted caller access \(RCA\) privileges for accessing document templ
 
 </td></tr><tr><td>
 
-[Determine who can work on the appointment booking task for a procedure](../task/pre-visit-proc-scheduler-grp.md).
+[Determine who can work on the appointment booking task for a procedure](pre-visit-proc-scheduler-grp.md).
 
 </td><td>
 
@@ -65,7 +65,7 @@ Add users who can work on the appointment booking task for a procedure to the Pr
 
 </td></tr><tr><td>
 
-[Configure when to send the procedure consent form to a patient](../task/pre-visit-config-proc-consent-time.md).
+[Configure when to send the procedure consent form to a patient](pre-visit-config-proc-consent-time.md).
 
 </td><td>
 

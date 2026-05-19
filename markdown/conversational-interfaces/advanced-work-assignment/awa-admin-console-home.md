@@ -82,9 +82,9 @@ Follow the order of the guided configuration setup to establish your AWA setting
 
 |Card|Feature|Description|
 |----|-------|-----------|
-|![Set up service channels in the AWA home page](../image/awa-home-create-service-channels.png)|[Create Service Channels](../task/awa-create-service-channel.md)|Give customer support by automatically routing incoming work to agents through service channels. Service channels assign a specific type and scope of work to agents.|
-|![Set up queues in the AWA home page](../image/awa-home-configure-work-item-queues.png)|[Configure work item queues](../task/awa-create-queue.md)|Determine routing conditions and destinations for queues.|
-|![Set up assignment rules in the AWA home page](../image/awa-home-add-assignment-rules.png)|[Add assignment rules](../task/awa-create-assignment-rule.md)|Establish assignment criteria to agents who either have gone the longest without being assigned a work item, have the most work availability, or have the needed skills.|
+|![Set up service channels in the AWA home page](../image/awa-home-create-service-channels.png)|[Create Service Channels](awa-create-service-channel.md)|Give customer support by automatically routing incoming work to agents through service channels. Service channels assign a specific type and scope of work to agents.|
+|![Set up queues in the AWA home page](../image/awa-home-configure-work-item-queues.png)|[Configure work item queues](awa-create-queue.md)|Determine routing conditions and destinations for queues.|
+|![Set up assignment rules in the AWA home page](../image/awa-home-add-assignment-rules.png)|[Add assignment rules](awa-create-assignment-rule.md)|Establish assignment criteria to agents who either have gone the longest without being assigned a work item, have the most work availability, or have the needed skills.|
 
 ## Configuring additional and advanced AWA settings
 
@@ -108,7 +108,7 @@ Description
 
 </td><td>
 
-[Customize presence states](../task/awa-configure-agent-presence.md)
+[Customize presence states](awa-configure-agent-presence.md)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Configure availability states that agents use to indicate whether they can recei
 
 </td><td>
 
-[Configure reasons for rejections](../task/awa-configure-reject-reasons.md)
+[Configure reasons for rejections](awa-configure-reject-reasons.md)
 
 </td><td>
 
@@ -132,7 +132,7 @@ Define the reasons that agents can use to decline work assignments that they rec
 
 </td><td>
 
-[Determine agent capacity](../task/awa-universal-capacity.md)
+[Determine agent capacity](awa-universal-capacity.md)
 
 </td><td>
 
@@ -146,7 +146,7 @@ Select **See More** to view this card.
 
 </td><td>
 
-[Define assignment groups](../task/awa-groups.md)
+[Define assignment groups](awa-groups.md)
 
 </td><td>
 
@@ -173,7 +173,7 @@ Description
 
 </td><td>
 
-[Set up Agent Affinity](../task/awa-configure-agent-affinity.md)
+[Set up Agent Affinity](awa-configure-agent-affinity.md)
 
 </td><td>
 
@@ -185,7 +185,7 @@ Install the Agent Affinity plugin for this card to conditionally appear. Create 
 
 </td><td>
 
-[Set up shift-based assignment](../task/awa-create-assignment-rule.md)
+[Set up shift-based assignment](awa-create-assignment-rule.md)
 
 </td><td>
 

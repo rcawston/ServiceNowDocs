@@ -29,7 +29,7 @@ A configuration includes the team level structure and work item types. The follo
 
 If you installed the Strategic Planning demo data, **Full Configuration** is activated for you. You can choose to activate a different configuration or define a new configuration.
 
-For more information, see [Activate an EAP configuration](../task/activate-eap-configuration.md) or [Create or update a configuration in EAP](../task/create-eap-configuration.md).
+For more information, see [Activate an EAP configuration](activate-eap-configuration.md) or [Create or update a configuration in EAP](create-eap-configuration.md).
 
 ## Default team level and work item hierarchy
 
@@ -43,6 +43,6 @@ For more information, see [Activate an EAP configuration](../task/activate-eap-c
 -   All work items types used in EAP extend from the EAP Planning item \[sn\_align\_core\_eap\_planning\_item\] table, which in turn extends from the Planning Item \[sn\_align\_core\_planning\_item\] table of Strategic Planning.
 -   The Story records are saved in the Story \[rm\_story\] table.
 
-    You can also create a custom work item type. See [Create a custom work item type in EAP](../task/create-custom-work-item-type-in-eap.md).
+    You can also create a custom work item type. See [Create a custom work item type in EAP](create-custom-work-item-type-in-eap.md).
 
 

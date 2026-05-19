@@ -31,11 +31,11 @@ Role required: admin or survey\_admin
 **Related topics**  
 
 
-[Survey scorecard category results](../reference/r_SurveyScorecardCategoryResults.md)
+[Survey scorecard category results](r_SurveyScorecardCategoryResults.md)
 
-[Survey scorecard question results](../reference/r_SurveyScorecardQuestionResults.md)
+[Survey scorecard question results](r_SurveyScorecardQuestionResults.md)
 
-[Survey scorecard average ratings](../reference/r_SurveyScorecardAverageRatings.md)
+[Survey scorecard average ratings](r_SurveyScorecardAverageRatings.md)
 
-[Survey scorecard history](../reference/r_SurveyScorecardHistory.md)
+[Survey scorecard history](r_SurveyScorecardHistory.md)
 

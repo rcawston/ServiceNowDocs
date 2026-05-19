@@ -15,12 +15,12 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 Configure Shift Handover settings to provide complete shift information to the next shift analysts.
 
--   **[Configure Shift Handover Templates](../task/configure-shift-handover-templates.md)**  
+-   **[Configure Shift Handover Templates](configure-shift-handover-templates.md)**  
 The Admin can define and configure different Shift Handover templates for the Shift Owner to create shift handover records and hand them over to the next shift team.
--   **[Create shifts through Security Incident Response Workspace](../task/configure-shift-times.md)**  
+-   **[Create shifts through Security Incident Response Workspace](configure-shift-times.md)**  
 Create shifts through the Security Incident Response Workspace to use when configuring shift handover records.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
@@ -31,7 +31,7 @@ Create shifts through the Security Incident Response Workspace to use when confi
 
 [SIR Workspace Related Records](sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](define-risk-score-calculator-rules-sir.md)
 
 [Security Incident Response conference call integration](sir-conf-call-capability.md)
 
@@ -43,5 +43,5 @@ Create shifts through the Security Incident Response Workspace to use when confi
 
 [View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](create-quick-filters-for-security-incidents.md)
 

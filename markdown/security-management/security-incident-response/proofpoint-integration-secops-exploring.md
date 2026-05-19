@@ -68,6 +68,6 @@ Managers
 To learn more about configuring and using Proofpoint, see:
 
 -   [Configuring the Proofpoint Integration for Security Operations](proofpoint-integration-secops-configuring.md)
--   [Review Proofpoint integration settings](../task/review-proofpoint-integration-setting-sir.md)
--   [View the Proofpoint Analytics Dashboard](../task/view-proofpoint-dashboard.md)
+-   [Review Proofpoint integration settings](review-proofpoint-integration-setting-sir.md)
+-   [View the Proofpoint Analytics Dashboard](view-proofpoint-dashboard.md)
 

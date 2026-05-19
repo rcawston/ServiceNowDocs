@@ -26,7 +26,7 @@ Role required: None
 2.  To collapse an expanded cluster node with children, right-click the CI and select **Collapse** from the context menu.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

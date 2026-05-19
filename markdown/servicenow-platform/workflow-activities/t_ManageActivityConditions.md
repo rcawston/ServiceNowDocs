@@ -83,7 +83,7 @@ Skip during generate
 
 </td><td>
 
-If selected, the [**Generate** activity](../../workflow-activities/reference/r_Generate.md) does not follow this transition to generate approvals or tasks.
+If selected, the [**Generate** activity](r_Generate.md) does not follow this transition to generate approvals or tasks.
 
 </td></tr></tbody>
 </table>3.  Click **Submit**.

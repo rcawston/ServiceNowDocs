@@ -34,5 +34,5 @@ When the Amazon Connect application answers a call from an external source, an i
 3.  Click **Monitor Call** and listen into the call in Amazon Connect.
 
 
-**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](../../configurable-workforce-optimization-itsm/concept/voice-configurable-wfo-itsm.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for ITSM](voice-configurable-wfo-itsm.md)
 

@@ -48,7 +48,7 @@ Role required: map editor, map admin
 
     -   Indoor Mapping properties: For more information about how to set the configuration properties, see [Indoor Mapping properties](indoor-mapping-properties.md).
 
-**Parent Topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Parent Topic:**[Configure Indoor Mapping](configure-ind-mapping.md)
 
 **Previous topic:**[Install Indoor Mapping](install-indoor-mapping.md)
 

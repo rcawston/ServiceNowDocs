@@ -28,5 +28,5 @@ Role required: admin
     The system populates the **Dictionary override** field with a value of state, which is the field in the task table affected by the override. The Dictionary override field is read-only. After the override is created, the system hides the **Create Default Value** button on all subsequent state flow forms for that table.
 
 
-**Parent Topic:**[State flow customization](../concept/c_StateFlowCustomization.md)
+**Parent Topic:**[State flow customization](c_StateFlowCustomization.md)
 

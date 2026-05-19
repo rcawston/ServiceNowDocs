@@ -34,5 +34,5 @@ All users can delete items from their own requests any time prior to delivery. M
     ServiceNow recalculates the price and delivery date for the order.
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](p_ServiceCatalogRequests.md)
 

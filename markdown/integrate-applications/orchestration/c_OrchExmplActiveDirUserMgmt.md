@@ -213,7 +213,7 @@ An LDAP filter string that defines the search parameters. Use any valid LDAP fil
 
     ![Querying AD for user accounts](../image/WorkflowExample3.png "Querying AD for user accounts")
 
-    The Query AD activity returns its results as a JSON string in the workflow [data bus](../../../administer/orchestration-activity-designer/concept/c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
+    The Query AD activity returns its results as a JSON string in the workflow [data bus](c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
 
 21. Drag a standard If activity from the Conditions folder in the **Core** tab and drop it onto the transition between Query AD and Update AD Object.
 

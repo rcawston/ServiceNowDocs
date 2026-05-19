@@ -25,7 +25,7 @@ See also [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 **Note:** When using an on-premise system, the database server time zone must be set to GMT/UTC for this class to work properly.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideAggregate - addAggregate\(String agg, String name\)
 
@@ -292,7 +292,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the addAggregate\(\) method in a scoped application, use the corresponding scoped method: [addAggregate\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the addAggregate\(\) method in a scoped application, use the corresponding scoped method: [addAggregate\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - addBizCalendarTrend\(String fieldName, String bizCalendarSysId\)
 
@@ -386,7 +386,7 @@ while (agg.next()) {
 
 ### Scoped equivalent
 
-To use the addEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [addEncodedQuery\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the addEncodedQuery\(\) method in a scoped application, use the corresponding scoped method: [addEncodedQuery\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - addHaving\(String name, String operator, String value\)
 
@@ -650,7 +650,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the addTrend\(\) method in a scoped application, use the corresponding scoped method: [addTrend\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the addTrend\(\) method in a scoped application, use the corresponding scoped method: [addTrend\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - getAggregate\(String agg, String name\)
 
@@ -879,7 +879,7 @@ Output:
 
 ### Scoped equivalent
 
-To use the getAggregate\(\) method in a scoped application, use the corresponding scoped method: [getAggregate\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the getAggregate\(\) method in a scoped application, use the corresponding scoped method: [getAggregate\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - getDynamicAttributeValue\(String fullPath\)
 
@@ -1289,7 +1289,7 @@ Software Update counts: MIN = 4 MAX = 98 AVG = 24.0000
 
 ### Scoped equivalent
 
-To use the getRowCount\(\) method in a scoped application, use the corresponding scoped method: [Scoped GlideAggregate - getRowCount\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the getRowCount\(\) method in a scoped application, use the corresponding scoped method: [Scoped GlideAggregate - getRowCount\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - getTotal\(String agg, String name\)
 
@@ -1432,7 +1432,7 @@ Incidents by month 11/2018 where count is more than 2 count is: 14
 
 ### Scoped equivalent
 
-To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [getValue\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the getValue\(\) method in a scoped application, use the corresponding scoped method: [getValue\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - groupBy\(String name\)
 
@@ -1509,7 +1509,7 @@ ga.query();
 
 ### Scoped equivalent
 
-To use the groupBy\(\) method in a scoped application, use the corresponding scoped method: [groupBy\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the groupBy\(\) method in a scoped application, use the corresponding scoped method: [groupBy\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - orderBy\(String name\)
 
@@ -1586,7 +1586,7 @@ while (agg.next()) {
 
 ### Scoped equivalent
 
-To use the orderBy\(\) method in a scoped application, use the corresponding scoped method: [orderBy\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the orderBy\(\) method in a scoped application, use the corresponding scoped method: [orderBy\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - orderByAggregate\(String agg, String fieldName\)
 
@@ -1683,7 +1683,7 @@ while (agg.next()) {
 
 ### Scoped equivalent
 
-To use the orderByAggregate\(\) method in a scoped application, use the corresponding scoped method: [orderByAggregate\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the orderByAggregate\(\) method in a scoped application, use the corresponding scoped method: [orderByAggregate\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - query\(\)
 
@@ -1726,7 +1726,7 @@ while (agg.next()) {
 
 ### Scoped equivalent
 
-To use the query\(\) method in a scoped application, use the corresponding scoped method: [query\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the query\(\) method in a scoped application, use the corresponding scoped method: [query\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - setAggregateWindow\(Number firstRow, Number lastRow\)
 
@@ -1765,7 +1765,7 @@ software count: 1
 
 ### Scoped equivalent
 
-To use the setAggregateWindow\(\) method in a scoped application, use the corresponding scoped method: [setAggregateWindow\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the setAggregateWindow\(\) method in a scoped application, use the corresponding scoped method: [setAggregateWindow\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - setAggregateWorkflow\(Boolean workflow\)
 
@@ -1870,7 +1870,7 @@ ga.setGroup(true);
 
 ### Scoped equivalent
 
-To use the setGroup\(\) method in a scoped application, use the corresponding scoped method: [setGroup\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the setGroup\(\) method in a scoped application, use the corresponding scoped method: [setGroup\(\)](c_GlideAggregateScopedAPI.md#).
 
 ## GlideAggregate - setIntervalYearIncluded\(Boolean b\)
 
@@ -1938,5 +1938,5 @@ Saturday: 1
 
 ### Scoped equivalent
 
-To use the setIntervalYearIncluded\(\) method in a scoped application, use the corresponding scoped method: [setIntervalYearIncluded\(\)](../../glideAggregateScoped/concept/c_GlideAggregateScopedAPI.md#).
+To use the setIntervalYearIncluded\(\) method in a scoped application, use the corresponding scoped method: [setIntervalYearIncluded\(\)](c_GlideAggregateScopedAPI.md#).
 

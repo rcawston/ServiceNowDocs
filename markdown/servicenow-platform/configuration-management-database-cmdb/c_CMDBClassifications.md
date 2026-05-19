@@ -30,25 +30,25 @@ One of the characteristics of a CMDB class is its dependency on other classes. A
     -   Network Adapter CIs don't exist meaningfully without the Hardware CIs that contain them.
     -   Application CIs don't exist on their own without the Server CI they are hosted on.
 
-Identification processes in the [Identification and Reconciliation Engine \(IRE\)](ire.md) CMDB feature extensively use CIs dependency classification. To find out the dependency classification of a class, open the Identification Rule page for a class in [CI Class Manager](../task/t_CreateCIIdentificationRule.md). To establish CI dependency, use the CI Class Manager to specify [dependent relationship rules](create-dependent-relationship.md#) for a CI class.
+Identification processes in the [Identification and Reconciliation Engine \(IRE\)](ire.md) CMDB feature extensively use CIs dependency classification. To find out the dependency classification of a class, open the Identification Rule page for a class in [CI Class Manager](t_CreateCIIdentificationRule.md). To establish CI dependency, use the CI Class Manager to specify [dependent relationship rules](create-dependent-relationship.md#) for a CI class.
 
 For more information, see [Identification rules](c_IdentificationRules.md).
 
 -   **[Dependent CIs management](manage-dependent-ci.md)**  
 A life cycle update for a CI affects its dependent CIs. For example, when the CI that a dependent CI depends on is deleted, the dependent CI becomes orphan with no further use. To maintain the integrity and health of the CMDB, the system applies cascade-cleanup processes to dependent CIs that are affected by a life cycle update.
--   **[CMDB record types](../reference/r_CMDBRecordTypes.md)**  
+-   **[CMDB record types](r_CMDBRecordTypes.md)**  
 The CMDB contains the following major record types.
--   **[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)**  
+-   **[Related Lists of CI components](r_RelatedListsOfCIComponents.md)**  
 Related lists in CI records display additional components contained by that CI, such as disk drives on a server and the rules that control the behavior of a network router.
--   **[Create a CI class](../task/t_CreateCIType.md)**  
+-   **[Create a CI class](t_CreateCIType.md)**  
 Create a CI class \(table\) that is an extension of an existing CI class. Then create identification and reconciliation rules for the new class.
--   **[Reclassify a CI](../task/t_ManuallyReclassifyCI.md)**  
+-   **[Reclassify a CI](t_ManuallyReclassifyCI.md)**  
 You can upgrade, downgrade, or switch the class of a CI by modifying its **Class** attribute.
--   **[Delete CIs](../task/delete-class-records-ci-class-mgr.md)**  
+-   **[Delete CIs](delete-class-records-ci-class-mgr.md)**  
 You can use the CI Class Manager to delete CIs that are no longer needed.
--   **[View and edit class definitions and metadata](../task/t_ViewTableDefinitions.md)**  
+-   **[View and edit class definitions and metadata](t_ViewTableDefinitions.md)**  
 Use the CI Class Manager as a central location to explore the CMDB class hierarchy, CI table definitions, and class CIs. View the details of each table such as its label and fields, relationships, and all related metadata definitions.
--   **[Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md)**  
+-   **[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)**  
 A Principal Class is a designation for those CMDB classes that are most critical for foundational data health and governance in the organization. Manage the list of classes in the Principal Class filter so that those classes are prioritized for tracking, health, certification, lifecycle management, and class list views.
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](c_ITILConfigurationManagement.md)

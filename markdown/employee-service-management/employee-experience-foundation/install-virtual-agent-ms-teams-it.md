@@ -40,5 +40,5 @@ To receive notifications from Virtual Agent, users must link their accounts to M
 
 The **ServiceNow for Microsoft Teams** app is successfully installed in your Microsoft Teams application.
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](../concept/sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md)
 

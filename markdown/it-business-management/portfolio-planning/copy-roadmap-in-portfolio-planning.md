@@ -21,7 +21,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](../concept/roadmaps-in-portfolio-planning.md).
+Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](roadmaps-in-portfolio-planning.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ Create a standalone roadmap to plan work across multiple units of your organizat
 -   Update, personalize, and collaborate with your roadmap.
 -   Add milestones or create dependencies for the items planned on your roadmap.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](planning-roadmaps-in-portfolio-planning.md)
 

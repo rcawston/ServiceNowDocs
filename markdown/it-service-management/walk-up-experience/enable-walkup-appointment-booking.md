@@ -46,5 +46,5 @@ When appointment booking is enabled, the **Schedule an appointment** tab appears
 6.  Select **Update**.
 
 
-**Parent Topic:**[Walk-up Experience appointment booking administration](../concept/walkup-appointment-administration.md)
+**Parent Topic:**[Walk-up Experience appointment booking administration](walkup-appointment-administration.md)
 

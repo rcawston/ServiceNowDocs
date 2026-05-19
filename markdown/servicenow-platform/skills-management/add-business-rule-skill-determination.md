@@ -82,5 +82,5 @@ Advanced
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Routing work items to agents based on skills](../concept/skill-based-routing.md)
+**Parent Topic:**[Routing work items to agents based on skills](skill-based-routing.md)
 

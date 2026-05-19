@@ -17,7 +17,7 @@ Review and update the details for an equipment model that you imported into the 
 
 ## Before you begin
 
-Import equipment model data to the ServiceNow AI Platform. To learn more, see [Importing equipment model data](../concept/importing-isa95-equipment-model-etl.md).
+Import equipment model data to the ServiceNow AI Platform. To learn more, see [Importing equipment model data](importing-isa95-equipment-model-etl.md).
 
 Role required: cmdb\_ot\_isa\_viewer, cmdb\_ot\_isa\_editor, cmdb\_ot\_isa\_admin.
 
@@ -310,7 +310,7 @@ View the OT devices that are associated with the current equipment model entity 
 </td><td>
 
 1.  Click **Mapped OT Devices**.
-2.  To learn more, see [Add OT devices that are associated with the selected equipment model entity](../concept/view-ot-assets-equipment-model-entity.md).
+2.  To learn more, see [Add OT devices that are associated with the selected equipment model entity](view-ot-assets-equipment-model-entity.md).
  **Note:** By default, you cannot see OT control modules in this list.
 
 </td></tr></tbody>
@@ -346,11 +346,11 @@ Use the upstream process to review upstream production processes for the selecte
 Use the downstream process to review the downstream production processes for the selected equipment model entity. You can also create and map a new downstream production process for the equipment model entity.
 -   **[Review the child entities for the equipment model entity](view-child-entities-equipment-model-entity.md)**  
 Review the child entities that are associated with the selected equipment model entity. You can review the relationships of the associated entities that are subordinate to a higher-level entity.
--   **[Add OT devices that are associated with the selected equipment model entity](../concept/view-ot-assets-equipment-model-entity.md)**  
+-   **[Add OT devices that are associated with the selected equipment model entity](view-ot-assets-equipment-model-entity.md)**  
 Use OT devices to review the OT devices that are associated with the selected equipment model entity and its child entities. You can also select and associate other OT devices to the selected equipment model entity.
 -   **[Update the entity name or parent of an equipment model entity](update-the-name-or-parent-equipment-model-entity.md)**  
 Update the entity name or parent fields in an equipment model entity record as needed to help keep your equipment model information up to date.
--   **[Bulk edit a site's Operational Technology Vulnerability Response assignment group](../../mftg-manufacturing-ot-vulnerability-response/task/bulk-edit-assignment-group-otvr.md)**  
+-   **[Bulk edit a site's Operational Technology Vulnerability Response assignment group](bulk-edit-assignment-group-otvr.md)**  
 Use the bulk edit feature to update the Operational Technology Vulnerability Response \(OT VR\) assignment group field in multiple site records at once.
 -   **[Generate a location hierarchy](create-location-hierarchy-isa.md)**  
 When no locations exist, generate a complete location hierarchy for an ISA equipment model entity tree to establish location references that match the ISA hierarchy.

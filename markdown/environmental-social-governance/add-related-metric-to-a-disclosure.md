@@ -38,5 +38,5 @@ After you manually add metrics to the disclosure, you can also delete those metr
 7.  Select **Save**.
 
 
-**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](../concept/esg-disclosures.md)
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](esg-disclosures.md)
 

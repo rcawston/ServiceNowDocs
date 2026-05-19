@@ -15,13 +15,13 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 Provides methods to return information about whether a URI matches specified criteria for scheme, host, path, fragments, and presence of query parameters.
 
-Use this API with the UriMatcher API. This API doesn't have a constructor. Instead, use the [UriMatcher - match\(\)](../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#) method to instantiate a UriMatcherResponse object.
+Use this API with the UriMatcher API. This API doesn't have a constructor. Instead, use the [UriMatcher - match\(\)](UriMatcherScopedAPI.md#) method to instantiate a UriMatcherResponse object.
 
 The UriMatcherResponse API requires the REST API Provider \(com.glide.rest\) plugin, which is activated by default.
 
 This API is provided within the `sn_ws` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UriMatcherResponse - getErrorMessages\(\)
 

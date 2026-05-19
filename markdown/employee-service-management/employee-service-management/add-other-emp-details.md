@@ -53,7 +53,7 @@ Role required: sn\_asc.alumni
 -   Use ![Edit row icon.](../../legal-digital-forensics/image/rename-icon.png) to edit the existing employment details.
 -   Use the **Delete** button to delete an existing employment information.
 
-**Parent Topic:**[Using your Alumni Center](../concept/asc-use.md)
+**Parent Topic:**[Using your Alumni Center](asc-use.md)
 
 **Related topics**  
 

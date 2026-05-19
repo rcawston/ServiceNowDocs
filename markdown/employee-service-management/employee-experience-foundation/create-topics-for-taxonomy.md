@@ -31,7 +31,7 @@ User criteria required: Taxonomy Manager, Taxonomy Contributor, Topic Manager, T
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Topic form](../reference/topic-form.md).
+    For more information on the fields and description, see [Topic form](topic-form.md).
 
     **Note:** For better topic discovery and search results, avoid special character **/** and ensure you re-index the content after topic name edits.
 
@@ -61,7 +61,7 @@ You can review and manage content updates and outdated connected content from th
 **Related topics**  
 
 
-[Taxonomy and connected content](../concept/track-new-content.md)
+[Taxonomy and connected content](track-new-content.md)
 
 [Associate connected content to a topic](associate-content-to-topics.md)
 

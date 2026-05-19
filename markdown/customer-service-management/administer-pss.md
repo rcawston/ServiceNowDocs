@@ -15,6 +15,6 @@ Set up the Customer Contracts and Entitlements application to enable maintaining
 
 |Task|Description|
 |----|-----------|
-|[Add related lists to sold products and install base items](../task/add-lists-sp-ibi.md)|Add related lists to the Sold Product and Install Base Item forms to see the associated contracts, contract line items, and entitlements.|
-|[Add a service contract related list](../task/add-contracts-related-list.md)|Add related lists to the Account, Consumer, and Household forms to see the associated contracts.|
+|[Add related lists to sold products and install base items](add-lists-sp-ibi.md)|Add related lists to the Sold Product and Install Base Item forms to see the associated contracts, contract line items, and entitlements.|
+|[Add a service contract related list](add-contracts-related-list.md)|Add related lists to the Account, Consumer, and Household forms to see the associated contracts.|
 

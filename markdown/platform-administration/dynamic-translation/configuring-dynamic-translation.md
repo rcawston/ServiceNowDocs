@@ -19,19 +19,19 @@ Activate and configure Dynamic Translation to integrate with a third-party machi
 
 Activate dynamic translation and integrate with your preferred service provider.
 
--   **[Activate Dynamic Translation](../task/activate-dynamic-translation.md)**  
+-   **[Activate Dynamic Translation](activate-dynamic-translation.md)**  
 Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to enable all the required APIs.
--   **[Request for domain separation in Dynamic Translation](../task/activate-domainsep-dyn-transl.md)**  
+-   **[Request for domain separation in Dynamic Translation](activate-domainsep-dyn-transl.md)**  
 Enable the support for the Dynamic Translation framework in domain-separated instances.
 -   **[Exclusion Framework in Dynamic Translation](dyn-translation-exclusion-framework.md)**  
 Preserve text such as product names or technical terms during machine translation. With Exclusion Framework in Dynamic Translation, you can specify words and patterns that should not be translated.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](../system-localization/translation-and-localization.md)
 
 **Related topics**  
 
 
 [Integration with other translation services](integration-with-other-translation-services.md)
 
-[Reference for Dynamic Translation](../reference/reference-for-dynamic-translation.md)
+[Reference for Dynamic Translation](reference-for-dynamic-translation.md)
 

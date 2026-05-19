@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance alert grouping by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](../reference/cmdb-alert-group-properties.md).
+Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance alert grouping by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](cmdb-alert-group-properties.md).
 
 ## Procedure
 

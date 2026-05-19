@@ -15,7 +15,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 Using the Process Mining content pack for Order Management for Telecommunications and Media enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with Telecommunications orders.
 
-For information about enabling the Process Mining for Telecommunications, see [Activate content packs](../task/activate-po-content-pack.md).
+For information about enabling the Process Mining for Telecommunications, see [Activate content packs](activate-po-content-pack.md).
 
 ## End user and roles
 
@@ -37,9 +37,9 @@ The content pack adds prebuilt process optimization project definitions for thes
 -   Resource Orders
 -   Order Tasks
 
-You can also configure a new process project that is based on a prebuilt project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+You can also configure a new process project that is based on a prebuilt project. For more information, see [Create a project or template using Project Builder](define-workflow-model.md).
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 
 **Related topics**  
 

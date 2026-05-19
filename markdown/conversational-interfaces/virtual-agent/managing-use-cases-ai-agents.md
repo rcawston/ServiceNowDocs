@@ -18,7 +18,7 @@ View AI agents created in AI Agent Studio through Assistant Designer.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 **Role required**: virtual\_agent\_admin
 
@@ -104,10 +104,10 @@ Delete option for AI agent is inactive in Assistant Designer. The AI agent can o
 
 For detailed information about creating AI agents, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
--   **[Using AI agents in Virtual Agent topics](../../now-assist-skill-kit/reference/ai-agent-custom-skill.md)**  
+-   **[Using AI agents in Virtual Agent topics](ai-agent-custom-skill.md)**  
 Use an AI agent custom skill to have it perform a task passed to it, such as compiling info on a KB article.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 
 **Related topics**  
 

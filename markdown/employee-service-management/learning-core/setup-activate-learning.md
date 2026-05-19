@@ -33,7 +33,7 @@ Learning leverages the new, Talent Development licensing module. This licensing 
 
 Learning comes with optional demo data.
 
-For more information, see [Install and configure Learning](configuring-learning.md) and [Learning reference](../reference/learning-experience-reference.md).
+For more information, see [Install and configure Learning](configuring-learning.md) and [Learning reference](learning-experience-reference.md).
 
 ## Skills Foundation integration with Learning
 

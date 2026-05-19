@@ -40,5 +40,5 @@ Alex the agent is finishing a printer repair task. To wrap up the task, they gen
 
 You can mark the summary as helpful or unhelpful, copy the summary, or refresh to generate the summary again.
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 

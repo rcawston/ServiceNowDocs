@@ -61,7 +61,7 @@ As a TISC admin, you define these approval rules to grant consent on approval re
 5.  Select **Enable** to enable the approval rule.
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](palo-alto-networks-integration.md)
 
 **Related topics**  
 

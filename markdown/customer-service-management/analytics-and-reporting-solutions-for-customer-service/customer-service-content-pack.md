@@ -62,9 +62,9 @@ These dashboards have all the information shown on the dashboards for the basic 
 -   Advanced Work Assignment for CSM
 -   Performance Analytics - Content Pack - Advanced Work Assignment
 
-**Note:** For more information about the Major Issue Management indicators, see [Major issue management analytics](../../../product/customer-service-management/reference/major-issue-management-analytics.md).
+**Note:** For more information about the Major Issue Management indicators, see [Major issue management analytics](major-issue-management-analytics.md).
 
-The Customer Service Management - Advanced solution also adds additional Service Management indicators to the Analytics Hub. For more information, see [Customer Service Management integration with Service Management analytics](../../../product/customer-service-management/reference/csm-integration-sm-analytics.md).
+The Customer Service Management - Advanced solution also adds additional Service Management indicators to the Analytics Hub. For more information, see [Customer Service Management integration with Service Management analytics](csm-integration-sm-analytics.md).
 
 ## Enable Performance Analytics for Customer Service Management
 

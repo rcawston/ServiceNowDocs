@@ -46,20 +46,20 @@ By starting a chat session, supplier contacts can interact directly with supplie
 5.  To end the chat session, select the end chat icon \(![End chat icon](../image/end-chat-icon.png)\).
 
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](use-supp-central.md)
 
 **Related topics**  
 
 
 [Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 
@@ -73,9 +73,9 @@ By starting a chat session, supplier contacts can interact directly with supplie
 
 [Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
 

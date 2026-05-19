@@ -41,7 +41,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 11. Select the type of answer.
 
-    For a description of the answer types, see [Answer types for questions](../reference/type-of-answer.md).
+    For a description of the answer types, see [Answer types for questions](type-of-answer.md).
 
     The answer the customer provides is passed to other nodes and paths via input mapping.
 

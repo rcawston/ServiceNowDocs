@@ -24,7 +24,7 @@ AppConfig is a standard approach for configuring mobile apps using key-value pai
 -   Pre-configure the default instance
 -   Change the default browser
 
-For details on these configurations, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+For details on these configurations, see [AppConfig for Mobile Apps](appconfig.md).
 
 ## Mobile application management \(MAM\) integration
 

@@ -58,5 +58,5 @@ You can edit various card details. Updating these values also updates the underl
     -   Archive the card \(freeform boards only\). Once archived, the card is not visible in active items.
     -   Move the card to a different board \(freeform boards only\).
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

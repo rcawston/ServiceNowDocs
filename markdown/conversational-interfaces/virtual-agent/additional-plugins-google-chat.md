@@ -41,7 +41,7 @@ Activate and install multiple plugins and applications to finish installing Conv
 
 ## What to do next
 
-[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+[Configuring your Conversational Integration with Google chat](configure-va-google-chat.md)
 
-**Parent Topic:**[Install Conversational Integration with Google chat](../concept/install-ci-google-chat.md)
+**Parent Topic:**[Install Conversational Integration with Google chat](install-ci-google-chat.md)
 

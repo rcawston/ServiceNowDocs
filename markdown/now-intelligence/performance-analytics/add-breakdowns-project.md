@@ -64,7 +64,7 @@ By holding down the Ctrl/Command or Alt/Option key while dropping a breakdown de
     Remove the breakdown definition from the artifact on which is dropped and from all child artifacts of that artifact.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Previous topic:**[Add personas to a project](add-personas-project.md)
 

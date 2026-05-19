@@ -22,9 +22,9 @@ You can achieve the following using the System Clone tool:
 -   Clone a ServiceNow instance from a backup.
 -   Clone a ServiceNow instance over a production instance.
 
-See [Exploring Instance Clone](../../managing-data/concept/exploring-instance-clone.md) for more information.
+See [Exploring Instance Clone](../exploring-instance-clone.md) for more information.
 
-**Parent Topic:**[Upgrade Console tools](../reference/um-tools.md)
+**Parent Topic:**[Upgrade Console tools](um-tools.md)
 
 **Related topics**  
 

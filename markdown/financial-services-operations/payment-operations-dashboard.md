@@ -209,5 +209,5 @@ The following table shows the available filters in the Payment Operations dashbo
 |Payment Service|List|Fetches the records for all payment tasks.|
 |Payment Type|Script|Fetches the payment case records from the Task SLA table.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](fso-content-pack.md)
 

@@ -48,7 +48,7 @@ The Twilio SMS text AI agent is used to generate text using the Notify users wit
 
 
 
-In the ServiceNow AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the ServiceNow AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
 **Related topics**  
 

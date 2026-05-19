@@ -30,5 +30,5 @@ Role required: sn\_eam.enterprise\_asset\_technician, sn\_eam.enterprise\_asset\
     Select an integration profile to view additional details, including the connection details, associated shipping carriers, scheduled job for fetching shipment details, and logs of the scheduled job.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](manage-shipments-eam.md)
 

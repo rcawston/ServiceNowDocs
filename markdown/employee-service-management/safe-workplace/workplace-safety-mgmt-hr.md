@@ -46,7 +46,7 @@ Use the ServiceNow® Workplace Core application to create safer, managed process
 
     If the workplace profiles of all employees are set up, the application automatically assigns available workspaces for employees based on their date and time selection when they make a reservation.
 
-    For more advanced workplace reservation options, use Workplace Reservation Management in the Workplace Service Delivery suite. For more information, see [Workplace Reservation Management](../../wsd-reservation-management/concept/wsd-reservation-mgmt-ovw.md).
+    For more advanced workplace reservation options, use Workplace Reservation Management in the Workplace Service Delivery suite. For more information, see [Workplace Reservation Management](../workplace-reservation-management/wsd-reservation-mgmt-ovw.md).
 
 -   **Workplace tasks**
 
@@ -66,9 +66,9 @@ Use the ServiceNow® Workplace Core application to create safer, managed process
 
 Workplace Core is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
--   With the [Employee Readiness Surveys](../../business-continuity/concept/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
--   Before users re-enter workspaces, use the [Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
--   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](../../ppe-inventory-management/concept/ppe-inventory-management.md) application.
+-   With the [Employee Readiness Surveys](employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
+-   Before users re-enter workspaces, use the [Employee Health Screening](employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
+-   You can manage the inventory of safety equipment for your workforce with the [Workplace Personal Protective Equipment Inventory Management](ppe-inventory-management.md) application.
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 

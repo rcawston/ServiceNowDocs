@@ -154,5 +154,5 @@ Select a matching rule for the work configuration.
     5.  Select **Update**.
 
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](../concept/setting-up-work-scheduler-wfo-cs.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](setting-up-work-scheduler-wfo-cs.md)
 

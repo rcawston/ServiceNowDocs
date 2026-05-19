@@ -40,7 +40,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 4.  On the Shared Cost Allocation Policy Creation form, fill in the fields.
 
-    For a description of the field values, see [List of Shared cost allocation policy fields](../reference/shared-cost-allocation-policy-fields.md).
+    For a description of the field values, see [List of Shared cost allocation policy fields](shared-cost-allocation-policy-fields.md).
 
 5.  Select **Submit**.
 
@@ -55,5 +55,5 @@ When the Discovery and Billing Download job executions finish, the system applie
 
 After you create or update a shared cost allocation policy, select **Reapply policies** to apply the created policy to a resource.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

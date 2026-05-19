@@ -36,17 +36,17 @@ Before configuring EKMS, verify that you have:
 -   IAM user configured with at least these permissions: kms:DescribeKey, kms:Encrypt, and kms:Decrypt
 -   admin, security\_admin, and sn\_kmf.cryptographic\_manager roles in ServiceNow
 
--   **[Activate External Key Management Service](../task/ekms-activate-external-key-management.md)**  
+-   **[Activate External Key Management Service](ekms-activate-external-key-management.md)**  
 Install the External Key Management Service \(EKMS\) plugin and configure user permissions to enable external key management functionality.
--   **[Configure an external key definition](../task/ekms-configure-external-key-definition.md)**  
+-   **[Configure an external key definition](ekms-configure-external-key-definition.md)**  
 Configure your external encryption key to use in External Key Management Service \(EKMS\).
--   **[Create a cryptographic module with external key wrapping](../task/ekms-create-crypto-module.md)**  
+-   **[Create a cryptographic module with external key wrapping](ekms-create-crypto-module.md)**  
 Create a cryptographic module that uses external Amazon Web Services Key Management System \(AWS KMS\) key wrapping to encrypt ServiceNow data.
--   **[Create Encrypted Field Configurations](../task/ekms-create-encrypted-field-config.md)**  
+-   **[Create Encrypted Field Configurations](ekms-create-encrypted-field-config.md)**  
 Configure specific fields to be encrypted using your External Key Management Service \(EKMS\) cryptographic module with external Amazon Web Services Key Management System \(AWS KMS\) key wrapping.
--   **[Set up Module Access Policies](../task/ekms-set-up-maps.md)**  
+-   **[Set up Module Access Policies](ekms-set-up-maps.md)**  
 Configure module access policies in External Key Management Service \(EKMS\) to control who can view encrypted data in clear text.
--   **[Test an external key definition](../task/ekms-test-external-key-definition.md)**  
+-   **[Test an external key definition](ekms-test-external-key-definition.md)**  
 Test your external encryption key to use in External Key Management Service \(EKMS\).
 
 **Parent Topic:**[External Key Management Service](ekms-external-key-management.md)
@@ -56,11 +56,11 @@ Test your external encryption key to use in External Key Management Service \(EK
 
 [External Key Management Service](ekms-external-key-management.md)
 
-[Activate External Key Management Service](../task/ekms-activate-external-key-management.md)
+[Activate External Key Management Service](ekms-activate-external-key-management.md)
 
-[Configure an external key definition](../task/ekms-configure-external-key-definition.md)
+[Configure an external key definition](ekms-configure-external-key-definition.md)
 
-[Create a cryptographic module with external key wrapping](../task/ekms-create-crypto-module.md)
+[Create a cryptographic module with external key wrapping](ekms-create-crypto-module.md)
 
-[Create Encrypted Field Configurations](../task/ekms-create-encrypted-field-config.md)
+[Create Encrypted Field Configurations](ekms-create-encrypted-field-config.md)
 

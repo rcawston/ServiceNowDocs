@@ -38,5 +38,5 @@ Role required: admin or pa\_admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md)
+**Parent Topic:**[Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md)
 

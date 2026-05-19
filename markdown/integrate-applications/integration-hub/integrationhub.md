@@ -71,5 +71,5 @@ Import data with Integration Hub - Import or stream data from your Apache Kafka 
 -   **[Integration Hub reference](integration-hub-reference.md)**  
 Reference topics provide additional information about Integration Hub and domain separation.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](../create-integrations-applications.md)
 

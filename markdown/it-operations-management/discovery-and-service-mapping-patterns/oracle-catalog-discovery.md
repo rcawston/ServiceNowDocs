@@ -19,7 +19,7 @@ Discovery uses the Oracle DB on Unix and Oracle DB on Windows patterns and the G
 
 You can use this pattern on the ServiceNow AI Platform® using the Madrid release or later.
 
-For information on Oracle database discovery, see [Oracle database discovery](../../discovery/concept/c_OracleDatabaseDiscovery.md).
+For information on Oracle database discovery, see [Oracle database discovery](../itom-visibility/c_OracleDatabaseDiscovery.md).
 
 ## Request apps on the Store
 
@@ -71,7 +71,7 @@ This relationship is created to support Oracle Catalog discovery.
 |---|------------|---|
 |​Oracle Catalog \[cmdb\_ci\_db\_ora\_catalog​\]|Contains::Contained by|Oracle Instance \[cmdb\_ci\_db\_ora\_instance\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 
 **Related topics**  
 

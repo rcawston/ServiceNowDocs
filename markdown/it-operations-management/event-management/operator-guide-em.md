@@ -67,5 +67,5 @@ As an Event Management operator, your typical workflow involves three phases: an
 -   **[Advanced tasks for the Event Management operator](operator-advanced-tasks.md)**  
 As an Event Management operator, you might need to perform additional tasks that are outside of your typical workflow, or tasks that you need to perform only once.
 
-**Parent Topic:**[Using Event Management](../../event-management/concept/user-guide.md)
+**Parent Topic:**[Using Event Management](user-guide.md)
 

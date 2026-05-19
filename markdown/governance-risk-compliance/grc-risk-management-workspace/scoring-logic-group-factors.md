@@ -58,5 +58,5 @@ The qualitative scores calculated after transformation will be derived using the
     For Qualitative, this formula divides the sum of qualitative scores in an assessment instance by the sum of weights. The scores are contributed by scores corresponding to the factors that a comprise a group factor and have factor contribution of either Qualitative or Both.
 
 
-**Parent Topic:**[Create a group factor](../task/define-group-factor.md)
+**Parent Topic:**[Create a group factor](define-group-factor.md)
 

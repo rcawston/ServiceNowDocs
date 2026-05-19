@@ -17,7 +17,7 @@ An event or situation that has the potential for causing undesirable consequence
 
 A hacker attacking a website is a threat event. If the hackers manage to damage any website or steal information, that would be defined as a threat event.
 
--   **[Define Threat Event](../task/define-threat-event.md)**  
+-   **[Define Threat Event](define-threat-event.md)**  
 Define a threat event when an event that results in unauthorized access to and acquisition of nonpublic information or the disruption or misuse of any information system.
 
 **Parent Topic:**[Threat Entities](tisc-threat-entities.md)

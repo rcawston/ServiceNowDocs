@@ -59,7 +59,7 @@ If you want to use generative AI capabilities through your MID Server, open the 
 **Related topics**  
 
 
-[Bring your own key for third-party AI provider integration](../concept/byok-for-azure-open-ai.md)
+[Bring your own key for third-party AI provider integration](byok-for-azure-open-ai.md)
 
 [Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
 

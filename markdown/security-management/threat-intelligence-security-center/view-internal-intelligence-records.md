@@ -52,5 +52,5 @@ Role required: sn\_sec\_tisc.analyst
         Vulnerability Entries: This option match the vulnerabilities and fetch the related records.
 
 
-**Parent Topic:**[Working with Internal Intelligence Records](../concept/working-with-ti-internal-intelligence-records.md)
+**Parent Topic:**[Working with Internal Intelligence Records](working-with-ti-internal-intelligence-records.md)
 

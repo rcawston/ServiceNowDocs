@@ -40,5 +40,5 @@ Replication groups are stored in the Cloud Database Clusters \[cmdb\_ci\_cloud\_
 |FQDN|Fully qualified domain name for each node group member.|
 |Port|Port used by each node group member.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

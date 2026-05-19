@@ -108,5 +108,5 @@ The work type is created successfully.
 -   If you have selected the Needs crew option, the work type is created with the Crew Requirements related list record.
 -   If you have selected the Resource requirements option, the work type is created with the Resource Requirements related list record.
 
-For more information about adding the resource requirement, see [Add resource requirements for a work order task](add-resource-requirement-wot.md).
+For more information about adding the resource requirement, see [Add resource requirements for a work order task](../field-service-manager-workforce/add-resource-requirement-wot.md).
 

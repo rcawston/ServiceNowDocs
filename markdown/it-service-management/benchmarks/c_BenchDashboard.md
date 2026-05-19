@@ -702,12 +702,12 @@ Customer service, performance, and risk map reports
 -   pa\_admin
 
 </td></tr></tbody>
-</table>-   **[View benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIData.md)**  
+</table>-   **[View benchmark KPI data \(deprecated\)](t_ViewBenchKPIData.md)**  
 Benchmarks KPI data is shown in Service Portal. Data includes values for your company instance, and for global data.
 -   **[Benchmarks KPI performance trend and recommendations \(deprecated\)](bench-kpi-trend-recommend.md)**  
 The Benchmarks KPI performance chart trend view shows your KPI performance comparison with global data, and provides recommendations to implement for improved performance of your KPI.
--   **[Drill down within benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIIndScore.md)**  
+-   **[Drill down within benchmark KPI data \(deprecated\)](t_ViewBenchKPIIndScore.md)**  
 You can drill down within benchmark KPI data for further analysis within Performance Analytics.
 
-**Parent Topic:**[Benchmarks](../reference/r_Benchmarks.md)
+**Parent Topic:**[Benchmarks](r_Benchmarks.md)
 

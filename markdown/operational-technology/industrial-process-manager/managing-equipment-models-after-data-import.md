@@ -30,8 +30,8 @@ An equipment model maps the operational elements of a particular facility. For e
 
 -   **[Review and update the equipment model details](equipment-model-workspace.md)**  
 Review and update the details for an equipment model that you imported into the ServiceNow AI Platform so that you can make sure that the information is correct. You can also manually create a new equipment model entity and then add details to it.
--   **[Automated Mapping Across Zone-based IP Network Groups](../../operational-technology-management/task/automate-mappings-between-ot-assets-and-equipment-model-entity.md)**  
+-   **[Automated Mapping Across Zone-based IP Network Groups](automate-mappings-between-ot-assets-and-equipment-model-entity.md)**  
 Automate mapping of Operational Technology \(OT\) devices to the production process using the Automated Mapping Across Zone-based IP Network Groups \(AMAZING\) feature.​
 
-**Parent Topic:**[Using Industrial Process Manager with the Operational Technology Manager](../concept/using-manufacturing-process-manager.md)
+**Parent Topic:**[Using Industrial Process Manager with the Operational Technology Manager](using-manufacturing-process-manager.md)
 

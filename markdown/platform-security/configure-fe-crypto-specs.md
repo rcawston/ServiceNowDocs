@@ -299,5 +299,5 @@ Displays the algorithm used to accomplish the crypto purpose.
 
 For information on using a customer supplied key, see [Configure Customer-supplied keys for Field Encryption Enterprise](fe-config-customer-supplied-keys.md).
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

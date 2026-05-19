@@ -38,7 +38,7 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
     -   To add releases to the bundle, select them from the list, and select **Add**.
     -   To add releases to the bundle later, select **Skip**.
 
-**Parent Topic:**[Managing multiple releases through release bundles](../concept/dpr-release-bundle.md)
+**Parent Topic:**[Managing multiple releases through release bundles](dpr-release-bundle.md)
 
 **Related topics**  
 

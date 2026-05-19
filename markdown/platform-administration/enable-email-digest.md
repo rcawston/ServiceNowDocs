@@ -44,14 +44,14 @@ The email digest option is available only if your admin configured email digest 
     Soon after the interval ends, the system sends the email digest to you instead of sending the individual notifications generated during the digest interval. If you disabled the digest, the system immediately stops accumulating the notifications for the digest and does not send the email digest. The system resumes sending the notifications as they are generated.
 
 
-**Parent Topic:**[Email digests](../concept/email-digests.md)
+**Parent Topic:**[Email digests](email-digests.md)
 
 **Related topics**  
 
 
 [Apply notification conditions](apply-notification-conditions.md)
 
-[Email digests](../concept/email-digests.md)
+[Email digests](email-digests.md)
 
 [Configure email digests](configure-email-digest.md)
 

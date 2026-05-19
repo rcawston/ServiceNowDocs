@@ -46,5 +46,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     You can update the state of the event to **Closed Incomplete**.
 
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](perform-tasks-to-manage-crisis-events.md)
 

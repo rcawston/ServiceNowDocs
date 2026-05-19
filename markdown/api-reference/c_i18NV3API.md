@@ -17,7 +17,7 @@ The i18N API provides methods to get and format translated messages.
 
 The i18N methods are accessed using the `g_i18n` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## i18N - format\(String message, Object map\)
 

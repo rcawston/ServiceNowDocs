@@ -43,7 +43,7 @@ Role required: admin
 
         ![Connection template for Docker spoke](../image/docker-conn-template.png)
 
-    -   To manage more than one Docker spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Docker spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
     ![Configure connection for Docker spoke](../image/config-docker-conn.png)

@@ -15,7 +15,7 @@ breadcrumb: [Configure EVAM display settings for search results, Configuring AI 
 
 You can customize the appearance of standard search results in your AI Search application by changing these properties in the application's Search Result EVAM \(Entity View Action Mapping\) cards.
 
-To learn about configuring properties for Search Result EVAM cards, see [Configure EVAM display settings for search results in AI Search applications](../task/configure-search-result-card-opts.md).
+To learn about configuring properties for Search Result EVAM cards, see [Configure EVAM display settings for search results in AI Search applications](configure-search-result-card-opts.md).
 
 **Note:** The following properties are only supported for EVAM cards with `component` property value `sn-search-result-evam-card`. Don't set these properties for EVAM cards with any other `component` value.
 
@@ -269,7 +269,7 @@ useAttachmentViewer
 
 </td><td>
 
-Option to use Document Viewer to display grouped attachments shown on the Search Result card in collapsed format. To learn more about Document Viewer, see [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md). For more information on grouped attachments and how they're shown on the Search Result card, see [Grouping attachment search results with their parent search results](../concept/grouping-attachment-srch-results-ais.md).
+Option to use Document Viewer to display grouped attachments shown on the Search Result card in collapsed format. To learn more about Document Viewer, see [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md). For more information on grouped attachments and how they're shown on the Search Result card, see [Grouping attachment search results with their parent search results](grouping-attachment-srch-results-ais.md).
 
  -   Type: true \| false
 -   Default value: false
@@ -281,5 +281,5 @@ Option to use Document Viewer to display grouped attachments shown on the Search
     -   **false**: Download attachments selected from the Search Result card.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure EVAM display settings for search results in AI Search applications](../task/configure-search-result-card-opts.md)
+</table>**Parent Topic:**[Configure EVAM display settings for search results in AI Search applications](configure-search-result-card-opts.md)
 

@@ -38,7 +38,7 @@ Update users on the latest communication on an incident through selected communi
 6.  Click **Send**.
 
 
-**Parent Topic:**[Using Notify with Incident Communications Management](../concept/c_NotifyWithIncidentAlert.md)
+**Parent Topic:**[Using Notify with Incident Communications Management](c_NotifyWithIncidentAlert.md)
 
 **Related topics**  
 

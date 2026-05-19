@@ -21,7 +21,7 @@ Role required: guided\_tour\_admin
 
 ## About this task
 
-Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [Accessibility features](../../../administer/accessibility-508-compliance/concept/c_SetUpSect508ComplianceFeature.md#) section for more information.
+Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [Accessibility features](../c_SetUpSect508ComplianceFeature.md#) section for more information.
 
 ## Procedure
 

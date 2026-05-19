@@ -29,7 +29,7 @@ The following items are installed with Digital End-User Experience:
 -   Roles
 -   Tables
 
-For more information, see [Installed with DEX](../reference/components-installed-with-dex.md).
+For more information, see [Installed with DEX](components-installed-with-dex.md).
 
 For information about DEX data migration, see the [KB1646364](https://support.servicenow.com/kb_view.do?sysparm_article=KB1646364) article in the knowledge base.
 
@@ -58,5 +58,5 @@ For information about DEX data migration, see the [KB1646364](https://support.se
     **Warning:** Digital End-User Experience is installed with Mutual Transport Layer Security \(mTLS\) automatically enabled on the ServiceNow instance. As an updated, more secure version of SSL, mTLS enhances security by encrypting data and verifying the identity of both the client and server before establishing a connection. If you have legacy security products on any other integrations with ServiceNow, they might break after DEX installation. Update to support TLS or mTLS, aligning with the enhanced security features.
 
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](installing-dex-local.md)
 

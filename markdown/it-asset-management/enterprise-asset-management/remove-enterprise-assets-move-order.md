@@ -42,5 +42,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The selected enterprise assets are automatically updated with a status of Cancelled. All enterprise move tasks that are associated with the corresponding enterprise move lines are also updated with a state of Closed Incomplete.
 
-**Parent Topic:**[Managing enterprise asset move orders](../concept/managing-enterprise-asset-move-orders.md)
+**Parent Topic:**[Managing enterprise asset move orders](managing-enterprise-asset-move-orders.md)
 

@@ -53,5 +53,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, sn\_ap\_apm.admin, sn\
     -   To send the email instantly, select **Send Email**.
     -   To save the email as draft to send later, select **Save as draft**.
 
-**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-apm-workspace.md)
+**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-apm-workspace.md)
 

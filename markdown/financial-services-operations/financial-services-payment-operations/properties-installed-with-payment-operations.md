@@ -36,7 +36,7 @@ Number of days to wait until creation of a follow-up claim tasksn\_bom\_payment.
 The system creates a follow-up claim task for a claim if the claim case is not closed within the number of days mentioned in this property. -   **Type**: integer
 -   **Default value**: 16
 -   **Location**: **All** &gt; **Payment Operations** &gt; **Administration** &gt; **Properties**
--   Learn more: [Work on a claim task for an external refund](../task/work-claim-task.md)
+-   Learn more: [Work on a claim task for an external refund](work-claim-task.md)
 
 </td></tr><tr><td>
 
@@ -47,8 +47,8 @@ Number of days to wait until creation of a follow up inquiry tasksn\_bom\_paymen
 The system creates a follow-up inquiry task for the payment inquiry case if the case is not resolved or closed within the number of days mentioned in this property. -   **Type**: integer
 -   **Default value**: 16
 -   **Location**: **All** &gt; **Payment Operations** &gt; **Administration** &gt; **Properties**
--   Learn more: [Work on an inquiry task](../task/work-on-inquiry-task.md)
+-   Learn more: [Work on an inquiry task](work-on-inquiry-task.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Payment Operations reference](../concept/payment-operations-reference.md)
+</table>**Parent Topic:**[Financial Services Payment Operations reference](payment-operations-reference.md)
 

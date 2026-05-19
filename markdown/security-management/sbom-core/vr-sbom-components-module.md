@@ -83,7 +83,7 @@ The Component List under the visualizations enables you to see the name, descrip
 </td></tr></tbody>
 </table>## Assessing your risk with vulnerability intelligence
 
-See [Checking a Software Bill of Materials entity for vulnerabilities](../task/vr-sbom-check-vulnerability-use-case.md) for more information about how to review vulnerability intelligence data in the workspace.
+See [Checking a Software Bill of Materials entity for vulnerabilities](vr-sbom-check-vulnerability-use-case.md) for more information about how to review vulnerability intelligence data in the workspace.
 
 ## Assessing your risk with license compliance
 

@@ -21,7 +21,7 @@ Role required: oauth\_admin
 
 Plugin required: OAuth 2.0.
 
-You must create an OAuth client. For more information, see [Create an endpoint for clients to access the instance](../../../administer/security/task/t_CreateEndpointforExternalClients.md).
+You must create an OAuth client. For more information, see [Create an endpoint for clients to access the instance](t_CreateEndpointforExternalClients.md).
 
 ## Procedure
 

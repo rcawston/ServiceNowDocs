@@ -37,5 +37,5 @@ The following actions are built in the Australia release in Dynamic Translation 
 |Translate Texts|getTranslations\(\)|
 |Is Dynamic Translation Enabled|isDynamicTranslationEnabled\(\)|
 
-For more information about accessing the actions from the Workflow Studio, see [Access Dynamic Translation spoke actions from Workflow Studio](../task/access-dt-spoke-actions.md).
+For more information about accessing the actions from the Workflow Studio, see [Access Dynamic Translation spoke actions from Workflow Studio](access-dt-spoke-actions.md).
 

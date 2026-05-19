@@ -23,7 +23,7 @@ Authentication includes password policy, controls and storage, proper implementa
 Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
 -   **[Activate role based multi-factor authentication](sc-role-based-multi-factor-authentication.md)**  
 Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
--   **[Anti-CSRF token \(instance security hardening\)](../../security/reference/anti-csrf-token.md)**  
+-   **[Anti-CSRF token \(instance security hardening\)](anti-csrf-token.md)**  
 Use the **glide.security.use\_csrf\_token** property to ensure the use of a secure token to identify and validates incoming requests, which in turn are used to prevent these attacks.
 -   **[Control Lockout Time for Invalid Password Reset Attempts](sc-reset-password-request-max-attempts-window.md)**  
 The **password\_reset.request.max\_attempt\_window** property controls the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.

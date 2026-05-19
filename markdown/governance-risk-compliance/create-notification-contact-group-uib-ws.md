@@ -25,7 +25,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Notification Contact Group form](../reference/notification-contact-group-form.md).
+    For more information, see [Notification Contact Group form](notification-contact-group-form.md).
 
 4.  Select **Submit**.
 
@@ -44,8 +44,8 @@ There are five members in a group, out of which four members are already synced 
 
 You can synchronize this particular contact first and then the group with Everbridge.
 
--   **[Notification Contact Group form](../reference/notification-contact-group-form.md)**  
+-   **[Notification Contact Group form](notification-contact-group-form.md)**  
 Use the Notification Contact Group form to create a notification contact group.
 
-**Parent Topic:**[Setup for Everbridge notifications](../concept/setup-steps-for-emergency-notification-uib-ws.md)
+**Parent Topic:**[Setup for Everbridge notifications](setup-steps-for-emergency-notification-uib-ws.md)
 

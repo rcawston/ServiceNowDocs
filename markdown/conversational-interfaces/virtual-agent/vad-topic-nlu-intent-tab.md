@@ -103,5 +103,5 @@ Use the **Conflicts** tab to view conflicts among your intents. For example, if 
 
 ![The Conflicts tab shows problems that may interfere with topic discovery. In this example, two separate intents contain the same utterance.](../images/nlu-intent-tab-conflicts-2.png "Utterance conflict between two intents")
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

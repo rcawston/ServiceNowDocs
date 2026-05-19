@@ -79,5 +79,5 @@ Updates that you want to send to a user or users that are related to the OT inci
 
 The email is sent to the user or users that you specified in the email template.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

@@ -59,7 +59,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     The side panel opens with the Details tab.
 
-    Further, you can select **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Demand planning item form](../reference/demand-form-portfolio-planning.md) or [Project planning item form](../reference/project-form-portfolio-planning.md).
+    Further, you can select **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Demand planning item form](demand-form-portfolio-planning.md) or [Project planning item form](project-form-portfolio-planning.md).
 
     **Note:** If your free-form roadmap was built on one of the PPM tables, such as project \[pm\_project\] or demand \[dmn\_demand\], you can only make updates from the full details page.
 

@@ -45,7 +45,7 @@ Flag that indicates whether the user has consented to analytics tracking for the
 -   false: User denied data tracking.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowAnalyticsService - addEvent\(named eventName: String, with properties: \[String: Any\]?\)
 
@@ -241,7 +241,7 @@ NowAnalytics.sharedAnalyticsService.incUserProperty(named: "Cases Handled", by: 
 
 Enables the calling of the methods in the SNAnalytics\(\) API from within a WebView using JavaScript.
 
-This method returns an [SNMobileAnalytics](../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#) object that is available in JavaScript, which exposes the native methods.
+This method returns an [SNMobileAnalytics](SNMobileAnalytics.md#) object that is available in JavaScript, which exposes the native methods.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -249,7 +249,7 @@ This method returns an [SNMobileAnalytics](../../../SNMobileAnalytics/concept/SN
 
 |Type|Description|
 |----|-----------|
-|Object|[SNMobileAnalytics](../../../SNMobileAnalytics/concept/SNMobileAnalytics.md#)|
+|Object|[SNMobileAnalytics](SNMobileAnalytics.md#)|
 
 ```
 // Register JS object inside the web page
@@ -305,7 +305,7 @@ delegate
 
 </td><td>
 
-[NowAnalyticsServiceDelegate](../../NowAnalyticsServiceDelegate/concept/NowAnalyticsServiceDeliOSProtocol.md#)
+[NowAnalyticsServiceDelegate](NowAnalyticsServiceDeliOSProtocol.md#)
 
 </td><td>
 

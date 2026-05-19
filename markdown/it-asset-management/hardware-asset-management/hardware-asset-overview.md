@@ -60,5 +60,5 @@ The system property **sn\_itam\_workspace.asset\_overview\_enable\_lazy\_loading
 **Related topics**  
 
 
-[Analytics and Reporting Solutions for Hardware Asset Management](../../../use/dashboards/application-content-packs/hardware-asset-content-pack.md#)
+[Analytics and Reporting Solutions for Hardware Asset Management](hardware-asset-content-pack.md#)
 

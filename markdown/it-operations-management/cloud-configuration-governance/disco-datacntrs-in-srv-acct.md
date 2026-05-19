@@ -58,5 +58,5 @@ The discovered datacenters appear in the Logical Datacenters related list.
 **Related topics**  
 
 
-[Logs for horizontal discovery](../../discovery/reference/r_DiscoveryLog.md#)
+[Logs for horizontal discovery](../discovery/r_DiscoveryLog.md#)
 

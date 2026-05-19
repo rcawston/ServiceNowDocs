@@ -70,7 +70,7 @@ You can use ServiceNow AI Platform Notifications to alert users if the service g
     6.  Click **Update**.
 
 
-**Parent Topic:**[Application service completion](../concept/advanced-business-service-definitions.md)
+**Parent Topic:**[Application service completion](advanced-business-service-definitions.md)
 
 **Related topics**  
 
@@ -81,5 +81,5 @@ You can use ServiceNow AI Platform Notifications to alert users if the service g
 
 [Schedule a top-down discovery by Service Mapping](t_CreateDiscoSchedForCITypes.md)
 
-[Service definition transfer from one instance to another](../concept/transfer-service-definitions.md#)
+[Service definition transfer from one instance to another](transfer-service-definitions.md#)
 

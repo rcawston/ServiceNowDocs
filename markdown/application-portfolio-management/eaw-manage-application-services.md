@@ -22,7 +22,7 @@ Application services support business capabilities by offering specific applicat
 **Related topics**  
 
 
-[View all application services](../../task/eaw-task/eaw-view-all-app-services.md)
+[View all application services](eaw-view-all-app-services.md)
 
-[Add or edit an application service in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-add-appl-service.md)
+[Add or edit an application service in the Enterprise Architecture Workspace](eaw-add-appl-service.md)
 

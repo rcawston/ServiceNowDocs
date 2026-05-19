@@ -64,9 +64,9 @@ This task is performed on the LogRhythm Client Console. Set up the LogRhythm RES
 
 You are now ready to [Install the plugin and configure LogRhythm](install-and-config-logrhythm.md).
 
-**Parent Topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Parent Topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
-**Previous topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Previous topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
 **Next topic:**[Install the plugin and configure LogRhythm](install-and-config-logrhythm.md)
 

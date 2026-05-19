@@ -41,5 +41,5 @@ You can type `restart` or speak this command anywhere in the middle of a convers
 
 **Note:** For excluding contextual actions Logout/Notifications for Alexa, you must add the records to the Excluded channel table \[sys\_cs\_contextual\_action\_excluded\_channel\].
 
-**Parent Topic:**[Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md)
+**Parent Topic:**[Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](va-settings-for-alexa.md)
 

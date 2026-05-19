@@ -57,7 +57,7 @@ Role required: agent\_client\_collector\_admin
     The **Payload** section on the **Queue** form displays the log for the Agent Client Collector.
 
 
-**Parent Topic:**[Using Agent Client Collector logs](../concept/logs-acc.md)
+**Parent Topic:**[Using Agent Client Collector logs](logs-acc.md)
 
 **Related topics**  
 

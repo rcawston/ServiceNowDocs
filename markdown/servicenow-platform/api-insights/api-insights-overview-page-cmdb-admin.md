@@ -84,7 +84,7 @@ API clustering recommendations
 
 </td><td>
 
-Number representing the current clustering recommendation, based on the data model recommendation settings.See [Configure data model recommendations for API clustering in API Insights](../task/api-insights-config-dm.md).
+Number representing the current clustering recommendation, based on the data model recommendation settings.See [Configure data model recommendations for API clustering in API Insights](api-insights-config-dm.md).
 
 </td><td>
 

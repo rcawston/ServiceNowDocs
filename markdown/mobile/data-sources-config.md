@@ -41,7 +41,7 @@ To create a data source, you establish uniquely named element identifiers and se
 
 7.  Edit the script in the **Data source script** field as required.
 
-    For examples of data source script, see [Data source script examples](../reference/data-source-script-examples.md).
+    For examples of data source script, see [Data source script examples](data-source-script-examples.md).
 
 8.  Select **Save**.
 

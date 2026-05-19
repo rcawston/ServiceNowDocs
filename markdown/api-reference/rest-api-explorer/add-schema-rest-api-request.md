@@ -74,7 +74,7 @@ Procedure
 
 ## Result
 
-The schema you used to define the request body structure is included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+The schema you used to define the request body structure is included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](export-openapi-specification.md).
 
 **Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
 

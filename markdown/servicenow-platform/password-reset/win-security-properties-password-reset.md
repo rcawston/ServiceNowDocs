@@ -18,7 +18,7 @@ Configuring security settings for the Password Reset Windows Application.
 ## Security settings
 
 -   The **glide.security.use\_csrf\_token** property setting allows the Password Reset Windows Application to retrieve a token for a secure communication with the datacenter instance.
--   The **CheckCertificateRevocationList** registry key default setting of **true** causes the Password Reset Windows Application to validate the server certificate before every communication. See [Customize the Password Reset Windows Application](../task/win-customize-password-reset.md) for details.
+-   The **CheckCertificateRevocationList** registry key default setting of **true** causes the Password Reset Windows Application to validate the server certificate before every communication. See [Customize the Password Reset Windows Application](win-customize-password-reset.md) for details.
 
 ## Configure the glide.security.use\_csrf\_token property
 
@@ -28,5 +28,5 @@ Set the **glide.security.use\_csrf\_token** property to true \(Yes\). See the to
 
 The Windows local administrator performs the remainder of the installation procedure.
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

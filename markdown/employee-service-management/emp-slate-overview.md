@@ -42,5 +42,5 @@ Review the AI-first experience and capabilities from [Conversation-first experie
 
 -   For more information on getting started, see [Get started with Employee Slate](eslate-getting-started-employee-slate.md).
 -   For roles and persona journey, see [Persona journeys in Employee Slate](eslate-role-based-productivity.md).
--   See the sample prompts that you can use across Employee Slate, see [Employee Slate prompt library](../reference/employee-slate-prompt-library.md).
+-   See the sample prompts that you can use across Employee Slate, see [Employee Slate prompt library](employee-slate-prompt-library.md).
 

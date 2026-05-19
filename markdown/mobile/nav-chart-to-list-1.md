@@ -302,9 +302,9 @@ Determine which specific values you want to pass to this screen.
 
 ## What to do next
 
-Configure the List item config for your list screen to choose the cards and fields that will appear on this list. For more information, see [List screen](../concept/list-screen.md).
+Configure the List item config for your list screen to choose the cards and fields that will appear on this list. For more information, see [List screen](list-screen.md).
 
 If you're adding an analytics preview to the launcher screen UI section. See, [Configure an analytics UI section](sg-ui-section-config-reports.md).
 
-**Parent Topic:**[Configure a navigation from a chart to a list screen](../concept/nav-chart-to-list.md)
+**Parent Topic:**[Configure a navigation from a chart to a list screen](nav-chart-to-list.md)
 

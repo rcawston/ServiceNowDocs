@@ -183,7 +183,7 @@ Buttons Condition Script
 
 </td><td>
 
-Script to show or hide the primary or secondary button.You can use the scripted extension point to implement the condition script. By default, the new script displays both buttons and doesn’t include any condition. For more information, see [Provide web page link buttons to display on the Portal Banner widget](../task/portal-scripted-extension-banner.md).
+Script to show or hide the primary or secondary button.You can use the scripted extension point to implement the condition script. By default, the new script displays both buttons and doesn’t include any condition. For more information, see [Provide web page link buttons to display on the Portal Banner widget](customer-self-service-and-omnichannel-engagement/portal-scripted-extension-banner.md).
 
 </td></tr><tr><td>
 
@@ -199,11 +199,11 @@ Widget Option Schema
 
 </td><td>
 
-Defines the parameters of the widget that you want to add.For more information, see [Add a widget in the Portal Banner widget](../task/portal-banner-option-schema.md).
+Defines the parameters of the widget that you want to add.For more information, see [Add a widget in the Portal Banner widget](customer-self-service-and-omnichannel-engagement/portal-banner-option-schema.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Add and configure the Portal Banner widget](../task/config-portal-banner-widget-inst-opt.md)
+[Add and configure the Portal Banner widget](customer-self-service-and-omnichannel-engagement/config-portal-banner-widget-inst-opt.md)
 

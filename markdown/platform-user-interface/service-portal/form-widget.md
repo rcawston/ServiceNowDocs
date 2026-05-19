@@ -62,16 +62,16 @@ View used to display the record.
 
 ## Scripting
 
-Not all client scripts are supported in the Service Portal. To understand how client scripts interact with forms in the Service Portal, see [Service Portal and client scripts](unsupported_client_scripts.md) and [Supported client script types and APIs](../reference/client-script-reference.md).
+Not all client scripts are supported in the Service Portal. To understand how client scripts interact with forms in the Service Portal, see [Service Portal and client scripts](unsupported_client_scripts.md) and [Supported client script types and APIs](client-script-reference.md).
 
 **Parent Topic:**[Example widgets](sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

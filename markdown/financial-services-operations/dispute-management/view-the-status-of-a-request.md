@@ -30,5 +30,5 @@ Role required: sn\_customerservice.consumer or sn\_customerservice.customer
 4.  Check the status of the disputed case, view the list of disputed transactions, and review the submitted documents in the dispute tracker.
 
 
-**Parent Topic:**[Create a dispute case with Dispute Intake in Portal](../concept/creating-an-onboarding-case-with-dispute-playbook-for-portal.md)
+**Parent Topic:**[Create a dispute case with Dispute Intake in Portal](creating-an-onboarding-case-with-dispute-playbook-for-portal.md)
 

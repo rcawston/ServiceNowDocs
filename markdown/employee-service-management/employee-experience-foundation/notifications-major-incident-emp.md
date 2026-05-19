@@ -42,5 +42,5 @@ The following informational notifications are triggered for a major incident whe
 5.  Click **View workbench** to view the ticket details in ServiceNow.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](employee-sn-ms-teams.md)
 

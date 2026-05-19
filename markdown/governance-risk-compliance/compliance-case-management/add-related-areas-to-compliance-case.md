@@ -50,5 +50,5 @@ You can specify the related areas for a compliance case or reported event. Relat
 10. Select **Save**.
 
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

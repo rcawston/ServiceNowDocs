@@ -178,5 +178,5 @@ Tools
 Lists legitimate software that is used by threat actors to perform attacks associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Identities](../concept/threat-intelligence-identities.md)
+</table>**Parent Topic:**[Identities](threat-intelligence-identities.md)
 

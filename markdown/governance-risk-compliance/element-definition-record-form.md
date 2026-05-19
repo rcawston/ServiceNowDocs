@@ -80,8 +80,8 @@ Resource configuration for the element definition. Available options are:-   **L
 -   **Datacenters**
 -   **Vendors**
 
-For information on configuring a Resource configuration record, see [Configure Resource Configuration records](../task/conf-resource-for-crisis-map-uib-ws.md).
+For information on configuring a Resource configuration record, see [Configure Resource Configuration records](conf-resource-for-crisis-map-uib-ws.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure element definition](../task/configure-element-definition-bia-uib-ws.md)
+</table>**Parent Topic:**[Configure element definition](configure-element-definition-bia-uib-ws.md)
 

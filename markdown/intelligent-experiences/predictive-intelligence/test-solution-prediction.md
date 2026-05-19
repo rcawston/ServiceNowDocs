@@ -105,7 +105,7 @@ Result: When the form refreshes, an information message appears with the inciden
 
 **Note:** For some short descriptions, the prediction might not process because the solution does not have enough confidence in predicting the value for this input.
 
-**Parent Topic:**[Testing and monitoring predictions](../concept/testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](testing-reviewing-ml-solutions.md)
 
 **Related topics**  
 

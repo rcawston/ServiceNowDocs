@@ -51,8 +51,8 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](../reference/form-headers-migration-itsm-aw-sow.md#section_tmq_q2j_dcc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](form-headers-migration-itsm-aw-sow.md#section_tmq_q2j_dcc) section.
 
 
-**Parent Topic:**[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/form-headers-migration-itsm-aw-sow.md)
+**Parent Topic:**[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](form-headers-migration-itsm-aw-sow.md)
 

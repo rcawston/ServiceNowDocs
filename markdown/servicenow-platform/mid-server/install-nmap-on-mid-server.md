@@ -24,7 +24,7 @@ Role required: agent\_admin
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](../concept/mid-servers-auto-assignment.md#) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an IP address range is comprehensive.
+</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](mid-servers-auto-assignment.md#) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an IP address range is comprehensive.
 -   Identify the IP ranges you want to explore with credential-less Discovery. Ensure that these ranges can only be accessed by MID Servers with Nmap installed, running on supported Windows hosts.
 -   Use the **All** option for selecting IP ranges and observe these requirements:
     -   Restrict the use of this feature to Windows MID Servers only.
@@ -109,7 +109,7 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin provides connect
         -   The version of Nmap that is installed appears in the **Nmap version** field in the MID Server record
         -   The **Related Link** changes to **Disable Credential-less Discovery**.
         -   The **Nmap** capability is assigned to the MID Server and appears in the **Capabilities** tab of the MID Server record.
-    -   **Failure**: If the installation fails, an error message is logged to the [MID Server Issue \[ecc\_agent\_issue\]](../concept/mid-server-active-issues.md) table. If you run the installer again with success, the issue is marked as **Resolved**.
+    -   **Failure**: If the installation fails, an error message is logged to the [MID Server Issue \[ecc\_agent\_issue\]](mid-server-active-issues.md) table. If you run the installer again with success, the issue is marked as **Resolved**.
 6.  To uninstall Nmap for a selected MID Server, select **Disable Credential-less Discovery** under **Related Links** in the MID Server record.
 
     This dialog appears during the uninstallation process:
@@ -121,7 +121,7 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin provides connect
     **Important:** Because Npcap can be used by other applications, uninstalling Nmap does not automatically uninstall Npcap. You must uninstall Npcap manually, after determining that no other dependencies exist.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
 
 **Related topics**  
 

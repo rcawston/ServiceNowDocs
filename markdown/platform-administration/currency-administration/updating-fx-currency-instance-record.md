@@ -82,7 +82,7 @@ Conversion Rate
 
 </td><td>
 
-Conversion rate used to calculate the reference currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md).
+Conversion rate used to calculate the reference currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md).
 
  You change or select the conversion rate as needed.
 
@@ -110,7 +110,7 @@ Three-letter ISO code that identifies the reference currency, for example, USD, 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Setting up defaults required for FX Currency use](../concept/setting-up-defaults-fx-currency-use.md)
+**Parent Topic:**[Setting up defaults required for FX Currency use](setting-up-defaults-fx-currency-use.md)
 
 **Related topics**  
 
@@ -121,5 +121,5 @@ Three-letter ISO code that identifies the reference currency, for example, USD, 
 
 [Add an FX Currency field to a table](add-fx-currency-field-table.md)
 
-[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+[Configuring FX Currency field behavior](configure-fx-currency-field-behavior.md)
 

@@ -197,7 +197,7 @@ Detailed instruction to the application owner about the task.
 **Related topics**  
 
 
-[Add or edit a certification policy](../../task/eaw-task/eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](eaw-manage-cert-schedules.md)
 
-[Manage certification policies](../../concept/eaw-concept/eaw-config-cert-schedules.md)
+[Manage certification policies](eaw-config-cert-schedules.md)
 

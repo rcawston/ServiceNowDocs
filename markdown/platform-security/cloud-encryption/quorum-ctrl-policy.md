@@ -27,11 +27,11 @@ The users can grant approvals from the Instance, the email, or the Key Managemen
 
 Once the minimum number of approvers is reached, quorum is reached and the key withdrawal will trigger. The withdrawal is performed and is logged, including the names of users who approved the request.
 
-See [Configure Quorum Control Policy Settings](../task/configure-quorum.md) for setup details.
+See [Configure Quorum Control Policy Settings](configure-quorum.md) for setup details.
 
--   **[Configure Quorum Control Policy Settings](../task/configure-quorum.md)**  
+-   **[Configure Quorum Control Policy Settings](configure-quorum.md)**  
 Follow these steps to configure Quorum Control Policy Settings.
--   **[Manage Quorum Control](../task/quorum-ctrl-mgmt.md)**  
+-   **[Manage Quorum Control](quorum-ctrl-mgmt.md)**  
 After a withdrawal operation workflow is triggered, quorum actions can be managed from the Key Management Operations page. The key withdrawal operation is blocked until the quorum is met.
 
 **Parent Topic:**[Cloud Encryption with Key Management](dare-overview.md)

@@ -23,7 +23,7 @@ When you open ServiceNow Studio or the ServiceNow IDE, the Build Agent should ap
 **Note:**
 
 -   Currently, only admins have permissions to use Build Agent.
--   You must have Now Assist for Creator installed to access Build Agent. For more information, see [Install Build Agent](../tasks/install-build-agent.md).
+-   You must have Now Assist for Creator installed to access Build Agent. For more information, see [Install Build Agent](install-build-agent.md).
 
 ![If Build Agent isn't open, open it from the status bar in the corner of your browser.](../../servicenow-studio/image/sn-studio-access-build-agent.png "Open Build Agent")
 
@@ -98,5 +98,5 @@ Keep the following in mind when using Build Agent:
 
 For more information on limitations, see [Build Agent limitations](build-agent-limitations.md).
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](use-build-agent.md)
 

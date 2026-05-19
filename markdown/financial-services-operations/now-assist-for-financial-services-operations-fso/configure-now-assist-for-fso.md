@@ -35,7 +35,7 @@ The following table lists the FSO case summarization skills that you can access 
 
 1.  Install the Now Assist for Financial Services Operations \(FSO\) plugin \(sn\_fso\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Application information](../concept/supporting-information-for-now-assist-for-financial-services-operations-fso.md#section_ng1_bdj_mbc).
+    -   For information about the plugin dependencies and plugin activation order, see [Application information](supporting-information-for-now-assist-for-financial-services-operations-fso.md#section_ng1_bdj_mbc).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
@@ -47,7 +47,7 @@ The following table lists the FSO case summarization skills that you can access 
 
     The input table fields are read-only.
 
-    For information about the inputs for each skill, see [Skill inputs for Now Assist for Financial Services Operations \(FSO\)](../concept/skill-inputs-and-triggers-for-now-assist-for-financial-services-operations-fso.md).
+    For information about the inputs for each skill, see [Skill inputs for Now Assist for Financial Services Operations \(FSO\)](skill-inputs-and-triggers-for-now-assist-for-financial-services-operations-fso.md).
 
 6.  After you review the inputs for the selected skill, select **Save and continue** to go to the next step.
 

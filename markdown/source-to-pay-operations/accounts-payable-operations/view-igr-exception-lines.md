@@ -40,5 +40,5 @@ The **Invoice lines affected** tab is displayed only for exception tasks that ar
 6.  Select the **Invoice lines affected** tab to view details about each invoice line exception.
 
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](work-with-invoice-exceptions.md)
 

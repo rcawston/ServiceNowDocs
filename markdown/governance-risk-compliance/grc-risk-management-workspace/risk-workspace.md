@@ -52,5 +52,5 @@ In the new workspace, several enhancements have been made to ease the way you pe
 -   **[Advanced Risk Assessments in the Risk Workspace](ara-in-ws.md)**  
 The Risk Workspace offers an enhanced and a simplified user experience for users to perform Advanced Risk Assessments. You can quickly access the risk assessments assigned to you or your group from the GRC Risk Portal or the Risk Workspace.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

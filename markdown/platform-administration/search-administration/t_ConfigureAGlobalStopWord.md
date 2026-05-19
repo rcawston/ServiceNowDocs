@@ -32,7 +32,7 @@ Role required: ts\_admin or admin
     ![Notification to regenerate all indexes after removing a stop word.](../image/NotificationToRegenerateAllIndexes.png)
 
 
-**Parent Topic:**[Zing removes stop words from queries](../concept/stop-words-removed-from-queries.md)
+**Parent Topic:**[Zing removes stop words from queries](stop-words-removed-from-queries.md)
 
 **Related topics**  
 

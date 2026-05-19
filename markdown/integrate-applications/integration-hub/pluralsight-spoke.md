@@ -167,5 +167,5 @@ Look up Users
 Retrieves details of the users in Pluralsight.
 
 </td></tr></tbody>
-</table>See [Set up the Pluralsight spoke](../task/setup-pluralsight-spk.md) for information about setting up the Pluralsight spoke.
+</table>See [Set up the Pluralsight spoke](setup-pluralsight-spk.md) for information about setting up the Pluralsight spoke.
 

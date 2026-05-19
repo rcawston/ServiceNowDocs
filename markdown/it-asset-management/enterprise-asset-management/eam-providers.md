@@ -24,9 +24,9 @@ You can install and use the application only if you've already installed the Ent
 -   Enterprise Asset Management for Facilities \(com.sn\_eamfam\)
 -   Enterprise Asset Management for Data Center and Network Asset Management \(com.sn\_eam\_dcnam\)
 
--   **[Install Enterprise Asset Management for Providers](../task/install-eam-providers.md)**  
+-   **[Install Enterprise Asset Management for Providers](install-eam-providers.md)**  
 You can install the Enterprise Asset Management for Providers application \(com.sn\_eam\_provider\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
--   **[Components installed with Enterprise Asset Management for Providers](../reference/installed-with-eam-providers.md)**  
+-   **[Components installed with Enterprise Asset Management for Providers](installed-with-eam-providers.md)**  
 Several types of components are installed with activation of the com.sn\_eam\_provider plugin, including user roles, applications, and tables.
 -   **[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](managing-rma-response-orders-daas-assets.md)**  
 If you are a DaaS provider, vendor, or manufacturer, you can fulfill RMA requests from your customers by creating and managing provider-based RMA response orders.

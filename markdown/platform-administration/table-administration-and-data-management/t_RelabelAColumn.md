@@ -43,7 +43,7 @@ To create clear reports, relabel the fields on the Database View \[sys\_db\_view
 
 **Parent Topic:**[Joining tables using database views](c_CreatingDatabaseViews.md)
 
-**Previous topic:**[Specify a field to return](../concept/c_SpecifyAFieldToReturn.md)
+**Previous topic:**[Specify a field to return](c_SpecifyAFieldToReturn.md)
 
-**Next topic:**[Configuring the number of records to return](../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
+**Next topic:**[Configuring the number of records to return](c_SpecifyTheNumberOfRecordsToReturn.md)
 

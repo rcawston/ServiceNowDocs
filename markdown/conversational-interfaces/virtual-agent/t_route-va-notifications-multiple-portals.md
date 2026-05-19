@@ -57,5 +57,5 @@ Role required: virtual\_agent\_admin or admin
 
 Messages with multiple contexts will now be sent through Virtual Agent to users at their matching portals.
 
-**Parent Topic:**[Using multiple active conversations in Virtual Agent](../concept/c_multiple-active-conversations-va.md)
+**Parent Topic:**[Using multiple active conversations in Virtual Agent](c_multiple-active-conversations-va.md)
 

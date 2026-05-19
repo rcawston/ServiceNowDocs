@@ -17,7 +17,7 @@ Enable Now Assist experience in Virtual Agent API to support generative AI skill
 
 ## Before you begin
 
-Set up Now Assist in Virtual Agent. See [Configuring assistants overview](../../now-assist-in-va/task/configure-now-assist-va.md) for more information.
+Set up Now Assist in Virtual Agent. See [Configuring assistants overview](../now-assist-in-virtual-agent/configure-now-assist-va.md) for more information.
 
 Role required: admin
 
@@ -39,5 +39,5 @@ Role required: admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
 

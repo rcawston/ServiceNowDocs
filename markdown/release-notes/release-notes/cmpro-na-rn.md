@@ -14,7 +14,7 @@ The ServiceNow® Now Assist in Contract Management uses generative AI capabiliti
 
 ## Now Assist in Contract Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](../australia-patch-1.md)
 
 -   Provide feedback on Now Assist contract analysis results to help improve the AI accuracy.
 -   Navigate directly to non-standard clause locations in a document when reviewing Now Assist suggestions in the Microsoft Word add-in.
@@ -78,5 +78,5 @@ Install Contract Management Pro - Prime by requesting it from the ServiceNow Sto
 
 **Parent Topic:**[Contract Management Pro release notes](cmpro-rn.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](now-assist-rn-landing.md)
 

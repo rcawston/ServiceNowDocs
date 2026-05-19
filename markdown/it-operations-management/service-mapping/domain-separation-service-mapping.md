@@ -49,15 +49,15 @@ Automated Service Suggestions supports domain separation. This means that:
 
 Automated Service Suggestions supports domain separation starting with version 1.9.0. No support is currently offered for on-premise instances. Reach out to product management for further information.
 
-For more context, refer to [Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md) topic and [MID Server configuration for Service Mapping](configure-mid-service-mapping.md). The following topics provide operational information on how to use Service Mapping in deployments with domain separation:
+For more context, refer to [Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md) topic and [MID Server configuration for Service Mapping](configure-mid-service-mapping.md). The following topics provide operational information on how to use Service Mapping in deployments with domain separation:
 
--   [Enable traffic-based discovery for CI types or specific CIs](../task/t_CreateATrafficBasedDiscoveryRule.md)
--   [Map application services using tags with classic Service Mapping](../task/map-service-tag.md)
--   [Create or customize patterns](../task/t_CreatePatternPatDef.md)
--   [Create entry point types for Service Mapping](../task/t_CreateEntryPoint.md)
--   [Enhance patterns without changing their identification sections](../task/modify-pattern-using-extensions.md)
+-   [Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md)
+-   [Map application services using tags with classic Service Mapping](map-service-tag.md)
+-   [Create or customize patterns](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md)
+-   [Create entry point types for Service Mapping](../discovery-and-service-mapping-patterns/t_CreateEntryPoint.md)
+-   [Enhance patterns without changing their identification sections](../discovery-and-service-mapping-patterns/modify-pattern-using-extensions.md)
 
-**Parent Topic:**[Service Mapping reference](../reference/service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
 
 **Related topics**  
 

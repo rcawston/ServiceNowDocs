@@ -15,7 +15,7 @@ The Domain Support - Domain Extensions Installer plugin activates several domain
 
 ## Recommended practice for activating the Domain Separation plugin
 
-As part of domain separation development, administrators must [request activation](../task/t_ActivateDomainSeparation.md) of this plugin. For best results, activate the Domain Separation plugin at the start of the development process, preferably before any other plugin is enabled.
+As part of domain separation development, administrators must [request activation](t_ActivateDomainSeparation.md) of this plugin. For best results, activate the Domain Separation plugin at the start of the development process, preferably before any other plugin is enabled.
 
 **Important:** Request to activate the Domain Extensions Installer plugin \(com.glide.domain.msp\_extensions.installer\) before activating Domain Separation \(plugin com.snc.pa.domain\_support\).
 
@@ -37,5 +37,5 @@ These features are enabled when you activate the plugin:
 **Related topics**  
 
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 

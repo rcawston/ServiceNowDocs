@@ -42,5 +42,5 @@ Role required: admin
 
 All the selected groups are now defined as **WFO assignment groups**.
 
-**Parent Topic:**[Admin Console in Workforce Optimization for ITSM](../concept/admin-console-wfo-itsm.md)
+**Parent Topic:**[Admin Console in Workforce Optimization for ITSM](admin-console-wfo-itsm.md)
 

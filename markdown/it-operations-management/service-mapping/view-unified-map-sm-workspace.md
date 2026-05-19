@@ -52,7 +52,7 @@ Review [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
     A new tab opens displaying the Unified Map for the application service in the CMDB Workspace.
 
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
 
 **Related topics**  
 

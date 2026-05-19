@@ -53,7 +53,7 @@ The proposal is submitted and the following actions occur:
 -   The **Activity** section in the MSIM Workspace shows that the security incident has been added as a child security incident to the major security incident with a link.
 
 
-**Parent Topic:**[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+**Parent Topic:**[Propose, promote, and link incident records](promoting-sir-to-msim.md)
 
 **Related topics**  
 

@@ -242,16 +242,16 @@ Select the **Configuration** ![Icon to add a column in any tab](../image/configu
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Investment Portal](../concept/investment-portal.md)
+**Parent Topic:**[Investment Portal](investment-portal.md)
 
 **Related topics**  
 
 
-[View all your investment boards in one location](../concept/my-investments-tabs.md)
+[View all your investment boards in one location](my-investments-tabs.md)
 
 [Create an investment board](create-an-investment-report.md)
 
 [Configure your investment metrics as widgets](configure-investment-metrics.md)
 
-[Investment Portal](../concept/investment-portal.md)
+[Investment Portal](investment-portal.md)
 

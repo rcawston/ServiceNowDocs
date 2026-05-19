@@ -15,7 +15,7 @@ breadcrumb: [Use, Automation Center, Workflow Data Fabric]
 
 Connection Manager enables you to add data from a third-party tool into Automation Center tables by correctly mapping and testing the data import.
 
--   **[Create an automation source](../task/create-auto-source.md)**  
+-   **[Create an automation source](create-auto-source.md)**  
 Create an automation source to start importing data from any third-party tool.
 -   **[Manage automation source](manage-auto-source.md)**  
 You can perform other actions for an automation source after creating it.

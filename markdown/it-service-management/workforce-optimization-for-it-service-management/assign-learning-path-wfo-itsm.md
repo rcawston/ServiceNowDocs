@@ -79,5 +79,5 @@ Select **To my groups**.
     You can see the progress your agents have made as they work on a path.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

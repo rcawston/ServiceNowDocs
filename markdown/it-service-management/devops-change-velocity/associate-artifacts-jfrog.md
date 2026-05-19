@@ -122,5 +122,5 @@ You can associate steps directly from the JFrog tool.
 
 The selected steps are associated with the JFrog tool. To disassociate a step, select it and then select **Disassociate**.
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
 

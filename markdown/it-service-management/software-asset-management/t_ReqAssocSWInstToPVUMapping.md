@@ -40,5 +40,5 @@ Role required: admin
 7.  Count licenses to determine compliance with IBM PVU guidelines.
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

@@ -37,5 +37,5 @@ Role required: sn\_eam.enterprise\_admin
 4.  Select **Add**.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

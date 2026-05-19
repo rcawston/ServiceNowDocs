@@ -26,12 +26,12 @@ Call summarization is generated from the information that you enter in the follo
 -   Chat Summary \(automatically populated at the end of call\)
 -   Integration setup:
 
-    **Note:** Verify that your telephony or call center system is integrated with ServiceNow if call data needs to be captured directly. For more information, see [Interaction Controls Component \(ICC\) for voice calls](../concept/contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../concept/interaction-controls-component-icc-callback-integration-features.md).Additionally, set your status as **Available** in CSM Configurable Workspace to be able to receive call requests from customers.
+    **Note:** Verify that your telephony or call center system is integrated with ServiceNow if call data needs to be captured directly. For more information, see [Interaction Controls Component \(ICC\) for voice calls](../contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](../interaction-controls-component-icc-callback-integration-features.md).Additionally, set your status as **Available** in CSM Configurable Workspace to be able to receive call requests from customers.
 
 
 Any modifications to the names or labels of these fields can result in issues with summarization generation.
 
-**Note:** You cannot modify a skill's input data source in base system. However, you can [clone the skill](../concept/clone-the-now-assist-for-csm-skills.md#) in Now Assist Skill Kit.
+**Note:** You cannot modify a skill's input data source in base system. However, you can [clone the skill](clone-the-now-assist-for-csm-skills.md#) in Now Assist Skill Kit.
 
 ## Procedure
 

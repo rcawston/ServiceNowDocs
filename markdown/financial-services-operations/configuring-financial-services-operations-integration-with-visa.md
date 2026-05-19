@@ -35,7 +35,7 @@ To configure Financial Services Operations Integration with Visa on your Service
 
     Configure the Financial Services Operations Integration with Visa application by using the Visa connection and credential record to authenticate ServiceNow requests.
 
-5.  [Configure properties](../reference/properties-installed-with-fso-integration-with-visa.md).
+5.  [Configure properties](properties-installed-with-fso-integration-with-visa.md).
 
     Customize properties that control settings for features in the Financial Services Operations Integration with Visa application, such as integration with specific APIs.
 
@@ -49,5 +49,5 @@ Use the Visa Queue Scheduler Flow to control the frequency at which Visa batch q
 -   **[Set up Financial Services Operations Integration with Visa](set-up-financial-services-operations-integration-with-visa.md)**  
 Configure the Financial Services Operations Integration with Visa application by using the Visa connection and credential record to authenticate ServiceNow requests.
 
-**Parent Topic:**[Financial Services Operations Integration with Visa](../concept/financial-services-operations-integration-with-visa-landing-page.md)
+**Parent Topic:**[Financial Services Operations Integration with Visa](financial-services-operations-integration-with-visa-landing-page.md)
 

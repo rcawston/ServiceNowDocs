@@ -35,10 +35,10 @@ Invoice inquiry cases are created automatically when you receive emails from sup
 
 3.  On the Create New Invoice case form, fill in the fields.
 
-    For a description of the field values, see [Create New Invoice case form](../reference/create-new-ap-case-form.md).
+    For a description of the field values, see [Create New Invoice case form](create-new-ap-case-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](work-with-inquiry-cases.md)
 

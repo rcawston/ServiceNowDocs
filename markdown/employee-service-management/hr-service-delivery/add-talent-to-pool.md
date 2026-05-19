@@ -42,5 +42,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 7.  Select the talent profiles that you want to add to the current pool and select **Save**.
 
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](config-t-pool.md)
 

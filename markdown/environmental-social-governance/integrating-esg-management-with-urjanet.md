@@ -26,19 +26,19 @@ The workflow of the Operational Sustainability Integration with Urjanet is as fo
 2.  Activate the metric definitions: For the Operational Sustainability Integration with Urjanet, ServiceNow® provides a few metric definitions by default. You must activate the ones that you require for your metric collection. Only those metric definitions that are active are considered and their data is loaded into the system. Certain fields such as **Unit**, **Frequency** and **Enterprise owner** in the default metric definitions must be manually filled in by the users of the integration. If you don’t want to use the metric definitions provided by default, you can create your own metric definitions.
 3.  Import the data for the metrics: After the user activates the required metric definitions, the data for those metric definitions and their entities will be imported into the Operational Sustainability Management as metrics and metric data.
 
--   **[Install Operational Sustainability Integration with Urjanet](../task/install-urjanet.md)**  
+-   **[Install Operational Sustainability Integration with Urjanet](install-urjanet.md)**  
 You can install the Operational Sustainability Integration with Urjanet application \(sn\_esg\_urjanet\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Create an Urjanet connection](../task/create-an-urjanet-connection.md)**  
+-   **[Create an Urjanet connection](create-an-urjanet-connection.md)**  
 Create an Urjanet account connection with valid credentials to establish a connection between Urjanet and ServiceNow®. Only one connection can be active for each domain for the integration. You can separate the imported data into logically defined domains. Data access is restricted among the domains.
--   **[Create an entity mapping for Urjanet](../task/configure-entities-for-urjanet.md)**  
+-   **[Create an entity mapping for Urjanet](configure-entities-for-urjanet.md)**  
 Create entity mappings for Urjanet because the Operational Sustainability Integration with Urjanet considers each Urjanet account meter as an entity.
--   **[Create a metric definition mapping](../task/create-metric-definition-mapping.md)**  
+-   **[Create a metric definition mapping](create-metric-definition-mapping.md)**  
 Create a metric definition mapping to map the imported data from Urjanet with the correct metric definitions.
--   **[Generate Webhook URL](../task/configure-webhook.md)**  
+-   **[Generate Webhook URL](configure-webhook.md)**  
 Define a Webhook registry for generating the Webhook URL. Urjanet uses the Webhook URL to send real time data to the Operational Sustainability Management application when an Urjanet statement data is either generated or modified.
--   **[Import meter details from Urjanet](../task/import-data-from-urjanet.md)**  
+-   **[Import meter details from Urjanet](import-data-from-urjanet.md)**  
 Using scheduled jobs, import meter details such as meter number, meter ID, and so on from Urjanet into the Operational Sustainability Management application for reporting purposes. The details are imported in the form of entities.
--   **[Load historical Urjanet data](../task/load-historical-urjanet-data.md)**  
+-   **[Load historical Urjanet data](load-historical-urjanet-data.md)**  
 Load historical Urjanet account statement data as metric data by creating new metrics that can be managed as part of Operational Sustainability Management. Data is retrieved from the date that you specify while configuring the Urjanet connection.
 
 **Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with other applications](integrate-esg.md)

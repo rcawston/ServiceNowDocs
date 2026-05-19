@@ -25,5 +25,5 @@ The two types of flows are the STTRM Template Publish Approval flow and the STTR
 
 The approver for both of these flows are determined by the users and groups defined for template in the change model's Template Management section.
 
-**Parent Topic:**[Create and propose a change template](../task/create-change-template.md)
+**Parent Topic:**[Create and propose a change template](create-change-template.md)
 

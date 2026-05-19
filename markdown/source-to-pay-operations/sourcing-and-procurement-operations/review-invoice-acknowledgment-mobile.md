@@ -47,5 +47,5 @@ Role required: sn\_shop.shopper
     |**Mark incorrect**|Tap on the invoice line and select **Mark incorrect** to move it to the Rejected state.|
 
 
-**Parent Topic:**[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+**Parent Topic:**[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 

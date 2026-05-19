@@ -108,5 +108,5 @@ Name of the topic block defined in the current topic.-   Id: sys\_id of the topi
 -   Outputs: Output received from the topic block.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Conversations tab](../concept/conversation-tab-pae.md)
+</table>**Parent Topic:**[Conversations tab](conversation-tab-pae.md)
 

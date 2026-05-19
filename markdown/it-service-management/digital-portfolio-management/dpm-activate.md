@@ -21,7 +21,7 @@ Role required: sn\_dpm.dpm\_admin
 
 ## About this task
 
-When you install the Digital Portfolio Management \(DPM\) application from the ServiceNow Store, it automatically installs the necessary plugins. For a list of other application plugins that you must install to surface other application data in DPM, see [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+When you install the Digital Portfolio Management \(DPM\) application from the ServiceNow Store, it automatically installs the necessary plugins. For a list of other application plugins that you must install to surface other application data in DPM, see [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 ## Procedure
 
@@ -34,5 +34,5 @@ When you install the Digital Portfolio Management \(DPM\) application from the S
 3.  Select **Install**, and then in the Activate Plugin dialog box, select **Activate**.
 
 
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](dpm-configure-cfw.md)
 

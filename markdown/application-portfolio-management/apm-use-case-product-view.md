@@ -21,7 +21,7 @@ Use Enterprise Architecture to gain a comprehensive understanding of your organi
 
 Starting with the Xanadu release, the legacy Enterprise Architecture \(formerly Application Portfolio Management\) Home page has been deprecated. However, if you are an existing user of Enterprise Architecture \(formerly Application Portfolio Management\), you can still view the legacy Home page. If you are a new activation user, the legacy Home page is not available.
 
-You can leverage the same features provided by the Application Portfolio Management Home page by using the Enterprise Architecture Workspace Home page. To learn more about Enterprise Architecture Workspace, see [Enterprise Architecture Workspace](../ea-workspace.md).
+You can leverage the same features provided by the Application Portfolio Management Home page by using the Enterprise Architecture Workspace Home page. To learn more about Enterprise Architecture Workspace, see [Enterprise Architecture Workspace](ea-workspace.md).
 
 The Enterprise Architecture home page organizes many of the CSDM tables used by Enterprise Architecture.
 
@@ -29,7 +29,7 @@ The Enterprise Architecture home page organizes many of the CSDM tables used by 
 
     View the number of defined business capabilities that have been or will be assessed, and the number of business applications that support capabilities but are at-risk.
 
-    For more information about using capability mapping to establish a configuration item \(CI\) relationship between the business capability and the business applications, see [Exploring a business portfolio](../manage-business-portfolio.md).
+    For more information about using capability mapping to establish a configuration item \(CI\) relationship between the business capability and the business applications, see [Exploring a business portfolio](manage-business-portfolio.md).
 
 -   **Information Portfolio**
 
@@ -56,7 +56,7 @@ The Enterprise Architecture home page organizes many of the CSDM tables used by 
     For more information about technology portfolio management and how it relates to business applications, see [Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md).
 
 
--   **[Enterprise Architecture and CSDM tables](../../reference/eaw-reference/apm-use-case.md)**  
+-   **[Enterprise Architecture and CSDM tables](apm-use-case.md)**  
 Enterprise Architecture manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Enterprise Architecture.
 -   **[Enterprise Architecture use case](apm-use-case-example.md)**  
 Enterprise Architecture lets you define a single, version-agnostic entity that represents all instances, technologies, and data used for planning and reporting.

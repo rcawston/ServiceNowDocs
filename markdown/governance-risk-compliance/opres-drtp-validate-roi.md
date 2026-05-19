@@ -44,5 +44,5 @@ Validation reports are only generated when errors or warnings are present. If no
 5.  Update the affected records in the system or spreadsheet and re-upload the corrected package for re-validation.
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](conf-dg-resi-party-regi.md)
 

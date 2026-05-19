@@ -22,7 +22,7 @@ Get started using ServiceNow APIs with guides, resources, and reference document
 
 </td><td>
 
-[Developer guides ![](../../../reuse/icons/brand-icons/bus-application-developer.svg) Explore program resources for learning, building, and developing.](../../../integrate/guides/concept/developer-guides.md)
+[Developer guides ![](../../../reuse/icons/brand-icons/bus-application-developer.svg) Explore program resources for learning, building, and developing.](developer-guides/developer-guides.md)
 
 </td></tr></tbody>
 </table>## API implementation

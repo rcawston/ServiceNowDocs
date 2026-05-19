@@ -70,5 +70,5 @@ View or add comments or attachments to the task.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Universal Task](../concept/use-universal-task.md)
+**Parent Topic:**[Using Universal Task](use-universal-task.md)
 

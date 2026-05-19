@@ -32,7 +32,7 @@ When creating a case action summary record, users with the sn\_esm\_agent role c
 
 **Note:** The **Publish to Case &amp; Notify** UI action is available when a list has been selected in the **Additional internal recipients** field.
 
-For more information, see [Recipient lists](../reference/targeted-comm-dynamic-list.md).
+For more information, see [Recipient lists](targeted-comm-dynamic-list.md).
 
 ## Procedure
 

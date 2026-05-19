@@ -17,7 +17,7 @@ Combine Workplace Service Delivery services with Universal Request so that you c
 
 The integration with Universal Request enables an employee to submit a general inquiry for any workplace-related issue. An employee can get support by selecting a single-help option for services that are not included in the catalog.
 
-For more information about a Universal Request, see [Universal Request](../../universal-request/concept/ur-landing-limitedaccess.md).
+For more information about a Universal Request, see [Universal Request](../universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md).
 
 ## Benefits of integrations with Universal Request
 
@@ -50,13 +50,13 @@ As a workplace manager, you can transfer a workplace case that was created by Un
 
 Employees can view the details related to their Universal Request anytime.
 
--   **[Configure a workplace service record producer as a Universal Request](../task/configure-workplace-service-record-prod-as-universal-req.md)**  
+-   **[Configure a workplace service record producer as a Universal Request](configure-workplace-service-record-prod-as-universal-req.md)**  
 Enable an employee to submit a universal request using a workplace service record producer from the Workplace Service Portal. Configure a workplace service to create Universal Request whenever an employee makes a selection.
--   **[Create a workplace case from Universal Request](../task/create-workplace-case-from-universal-req.md)**  
+-   **[Create a workplace case from Universal Request](create-workplace-case-from-universal-req.md)**  
 As a routing agent, create a workplace case from a universal request and then assign it to the Workplace services assignment group. The workplace manager handles the workplace case and takes further actions to fulfill the request.
--   **[Work on a workplace case from a Universal Request](../task/work-on-workplace-case-of-universal-req.md)**  
+-   **[Work on a workplace case from a Universal Request](work-on-workplace-case-of-universal-req.md)**  
 As a workplace manager, work on a workplace case that is created from a Universal Request. Provide a resolution to the workplace case.
--   **[Transfer a workplace case created from a universal request](../task/transfer-a-workplace-case-created-from-a-universal-request.md)**  
+-   **[Transfer a workplace case created from a universal request](transfer-a-workplace-case-created-from-a-universal-request.md)**  
 Transfer a workplace case back to the Universal Request, to another department, or to another service. You can transfer the request with or without providing a resolution.
 
 **Parent Topic:**[Workplace Case Management](workplace-case-mgmt-feat.md)

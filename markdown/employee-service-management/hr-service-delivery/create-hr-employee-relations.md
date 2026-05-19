@@ -45,7 +45,7 @@ COE
 
 The **Center of Excellence** associated with the HR case you are creating. Currently, Employee Relations Case is the only COE available for ER cases.
 
- Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+ Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).
 
  **Note:** You can also select an HR service first and the associated COE automatically populates.
 
@@ -235,7 +235,7 @@ Assignment group
 
 </td><td>
 
-The group the ER case is assigned to. If the group is not set automatically, assign an HR group to provide a selection of HR users in the **Assigned to** field. For automatic assignment, refer to [Employee Relations assignment rules](../concept/hr-er-assign-rules.md).
+The group the ER case is assigned to. If the group is not set automatically, assign an HR group to provide a selection of HR users in the **Assigned to** field. For automatic assignment, refer to [Employee Relations assignment rules](hr-er-assign-rules.md).
 
 </td></tr><tr><td>
 
@@ -263,7 +263,7 @@ Agents or interested parties you want to associate with the case. Collaborators 
 -   Notifications are sent to the collaborators when added to the ER case.
  Collaborators and the COE for the HR case can conflict. The basic rules are:
 
--   For all HR cases, collaborators override any security on a COE. For more information, see [Create COE security](../concept/configure-hr-coe-security.md).
+-   For all HR cases, collaborators override any security on a COE. For more information, see [Create COE security](configure-hr-coe-security.md).
 -   Employee Relations \(ER\) cases can override collaborators when restrictions apply. For more information, see [Configure an employee relations case restriction](hr-er-create-case-restriction.md).
 **Note:** Agents must have the ER case writer \[sn\_hr\_er.case\_writer\] role in order to be a collaborator.
 
@@ -353,7 +353,7 @@ A longer, detailed description after the ER case is created. Use the Rich Text F
 
     -   **Evidence**
 
-        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](../concept/hr-er-evidence-mgmt.md#).
+        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](hr-er-evidence-mgmt.md#).
 
     -   **Corrective Actions**
 
@@ -361,7 +361,7 @@ A longer, detailed description after the ER case is created. Use the Rich Text F
 
     -   **Attached Knowledge**
 
-        List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](../concept/hr-knowledge-management.md).
+        List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](hr-knowledge-management.md).
 
     -   **Approvers**
 

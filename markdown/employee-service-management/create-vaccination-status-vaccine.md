@@ -89,5 +89,5 @@ Number of days since vaccination before a booster is required. This field is vis
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](vaccination-status.md)
 

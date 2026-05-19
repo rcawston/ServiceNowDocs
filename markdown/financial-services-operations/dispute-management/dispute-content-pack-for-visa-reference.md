@@ -15,7 +15,7 @@ breadcrumb: [Dispute Rules Content Pack for Visa, Dispute Management, Banking ap
 
 Learn about the components and properties that are installed with the Dispute Rules Content Pack for Visa application.
 
--   **[Components installed with Dispute Rules Content Pack for Visa](../reference/components-installed-with-dispute-rules-content-pack-for-visa.md)**  
+-   **[Components installed with Dispute Rules Content Pack for Visa](components-installed-with-dispute-rules-content-pack-for-visa.md)**  
 Several types of components are installed with the installation of the Dispute Rules Content Pack for Visa plugin.
 -   **[Domain separation](domain-separation-dispute-content-pack-for-visa.md)**  
 Domain separation is unsupported for the Dispute Rules Content Pack for Visa. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.

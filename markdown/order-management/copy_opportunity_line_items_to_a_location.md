@@ -61,5 +61,5 @@ This copies the line items to a new location.In the **Service location** filter,
 6.  Select **Copy**.
 
 
-**Parent Topic:**[Location-based transactions for Opportunity Management](../concept/location_based_transactions_for_opportunity.md)
+**Parent Topic:**[Location-based transactions for Opportunity Management](location_based_transactions_for_opportunity.md)
 

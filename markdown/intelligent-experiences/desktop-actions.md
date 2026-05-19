@@ -30,11 +30,11 @@ Defined desktop actions are categorized into two categories.
 
     Automatically runs desktop actions in an isolated desktop session during testing or execution. You do not open this workspace directly.
 
--   **[AI Agent Studio](../../../administer/now-assist-ai-agents/concept/ai-agent-studio.md)**
+-   **[AI Agent Studio](ai-agent-studio.md)**
 
     Create and manage AI agents that run desktop actions.
 
--   **[Now Assist panel](../../../administer/now-assist-platform/concept/now-assist-panel-overview.md)**
+-   **[Now Assist panel](now-assist-panel-overview.md)**
 
     Trigger automations from within ServiceNow.
 
@@ -143,11 +143,11 @@ For more information, see [Defined path desktop actions in AI Desktop Actions](d
 **Related topics**  
 
 
-[Configure AI Desktop Actions](../task/configure-agentic-desktop.md)
+[Configure AI Desktop Actions](configure-agentic-desktop.md)
 
 [Examples of creating desktop actions](examples-of-agentic-desktop-automation.md)
 
 [Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
 
-[AI Desktop Actions reference](../reference/agentic-desktop-reference.md)
+[AI Desktop Actions reference](agentic-desktop-reference.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
 4.  To add or remove permissions to the descriptor, click the arrows.
 
-    For a list of permissions, see [Collaboration permissions](../reference/collaboration-permissions.md).
+    For a list of permissions, see [Collaboration permissions](collaboration-permissions.md).
 
 5.  Click **Save** and **Update**.
 

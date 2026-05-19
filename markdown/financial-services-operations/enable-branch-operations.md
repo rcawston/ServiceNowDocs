@@ -62,7 +62,7 @@ The Location manager contributor workspace contains these pages.
 
 The Location manager contributor role can select metric numbers from the landing or Branch Performance Metrics dashboard pages to drill down to a breakdown list or KPI Details performance analytics view.
 
-For more information about analytics and reporting for Financial Services Operations, see [Implementing Platform Analytics solutions](../../../use/application-content-packs/concept/fso-content-pack.md) and [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md).
+For more information about analytics and reporting for Financial Services Operations, see [Implementing Platform Analytics solutions](fso-content-pack.md) and [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md).
 
 For more information on workspaces in Financial Services Operations, see [Workspaces](fso-workspace.md).
 

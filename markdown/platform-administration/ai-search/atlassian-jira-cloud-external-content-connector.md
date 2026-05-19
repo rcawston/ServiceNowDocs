@@ -20,13 +20,13 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure a connector user in Atlassian Jira Cloud](../task/configure-connector-user-jira-cloud.md)**  
+-   **[Configure a connector user in Atlassian Jira Cloud](configure-connector-user-jira-cloud.md)**  
 Create a user and group in your Atlassian Jira Cloud tenant with access and permissions required by the Atlassian Jira Cloud external content connector. The connector runs as this user when accessing data from your tenant.
--   **[Configure Atlassian Jira Cloud for external content indexing](../task/cfg-src-sys-settings-jira-ext-cont-connector.md)**  
+-   **[Configure Atlassian Jira Cloud for external content indexing](cfg-src-sys-settings-jira-ext-cont-connector.md)**  
 Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the Atlassian Jira Cloud external content connector to crawl projects and security principals in your Atlassian Jira Cloud source system.
--   **[Create an Atlassian Jira Cloud external content connector](../task/create-ext-cont-connector-jira.md)**  
+-   **[Create an Atlassian Jira Cloud external content connector](create-ext-cont-connector-jira.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Atlassian Jira Cloud source system.
--   **[Configure crawl settings for an Atlassian Jira Cloud external content connector](../task/configure-crawl-settings-jira-ext-cont-connector.md)**  
+-   **[Configure crawl settings for an Atlassian Jira Cloud external content connector](configure-crawl-settings-jira-ext-cont-connector.md)**  
 Specify the projects you want your Atlassian Jira Cloud external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -34,7 +34,7 @@ Specify the projects you want your Atlassian Jira Cloud external content connect
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

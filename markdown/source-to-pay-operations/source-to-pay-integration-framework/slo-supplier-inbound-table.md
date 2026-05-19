@@ -608,7 +608,7 @@ String
 Zip code or postal code where the supplier is located.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](slo-inbound-staging-tables.md)
 
 **Related topics**  
 

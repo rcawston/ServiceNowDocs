@@ -45,7 +45,7 @@ Role required: sn\_cm\_core.contract\_admin
 
         ![Conditions for expiration reminders.](../image/cmpro-exp-reminder.png "Condition checks for reminders")
 
-        For more information on these fields, see [Expiring Contracts Condition form fields](../reference/cncore-email-notif-expcont-form.md).
+        For more information on these fields, see [Expiring Contracts Condition form fields](cncore-email-notif-expcont-form.md).
 
     4.  Select **Submit**.
 
@@ -68,12 +68,12 @@ Role required: sn\_cm\_core.contract\_admin
 
 The contract expiration reminders will trigger based on the defined conditions for contract repository. For more information on configuring contract repository, see [Create a contract configuration](cncore-contract-config.md).
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -89,5 +89,5 @@ The contract expiration reminders will trigger based on the defined conditions f
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

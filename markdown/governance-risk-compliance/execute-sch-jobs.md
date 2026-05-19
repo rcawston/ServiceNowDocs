@@ -76,6 +76,6 @@ Before running the scheduled job, verify that the relationships are set up for a
     -   sn\_oper\_res\_critical\_service\_outage
     -   sn\_oper\_res\_incident
     -   sn\_oper\_res\_issue
-    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [Business services overview tab](../../grc-operational-res-ws/concept/bs-ov.md).
+    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [Business services overview tab](bs-ov.md).
 
 

@@ -54,7 +54,7 @@ Field Service Task Bundling adds the following business rules.
 
 ## Script Includes for Task Bundling
 
-The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](../../planning-and-policy/reference/customizations.md).
+The following script includes contain reusable code that supports the task bundling process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](customizations.md).
 
 |Script Includes|Description|
 |---------------|-----------|
@@ -120,7 +120,7 @@ Field Service Task Bundling adds the following task grouping rules.
 
 ## Script includes for Task Grouping
 
-The following script includes contain reusable code that supports the task grouping process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](../../planning-and-policy/reference/customizations.md).
+The following script includes contain reusable code that supports the task grouping process, making scripts easier to maintain and update. To customize these script includes, see, [Advanced configurations](customizations.md).
 
 |Script include|Description|
 |--------------|-----------|
@@ -210,7 +210,7 @@ The fields that are included in the details section of work order task bundles.
 **Related topics**  
 
 
-[Configuring Task Bundling](../concept/configuring-fsm-task-bundling.md)
+[Configuring Task Bundling](field-service-scheduling/configuring-fsm-task-bundling.md)
 
-[Activate Field Service Task Bundling](../task/activate-work-order-task-bundling.md)
+[Activate Field Service Task Bundling](field-service-scheduling/activate-work-order-task-bundling.md)
 

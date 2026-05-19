@@ -80,8 +80,8 @@ Role required: All employees with direct reports
 
 -   **[Edit existing Journey Accelerator plans](manager-edit-plans.md)**  
 Edit existing Journey Accelerator plans by adding, removing, or rearranging stages and tasks to meet the needs of the employee and your team.
--   **[Manage action plan to-do tasks and create templates](../concept/manage-todo-tasks-as-manager.md)**  
+-   **[Manage action plan to-do tasks and create templates](manage-todo-tasks-as-manager.md)**  
 Create, modify, and manage to-do tasks for employees and mentors as part of your management responsibilities.
 
-**Parent Topic:**[Working with Journey Accelerator plans](../concept/working-with-journey-accelerator-plans.md)
+**Parent Topic:**[Working with Journey Accelerator plans](working-with-journey-accelerator-plans.md)
 

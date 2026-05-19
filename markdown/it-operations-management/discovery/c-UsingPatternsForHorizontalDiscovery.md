@@ -80,7 +80,7 @@ Feature support
 
 </td><td>
 
-Supports all standard network, and CI discovery. Certain applications are not supported without the use of patterns. See [Detailed information on products discovered by ITOM Visibility](../../service-mapping/reference/r_SupportedApplications.md) for a full list.
+Supports all standard network, and CI discovery. Certain applications are not supported without the use of patterns. See [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md) for a full list.
 
 </td><td>
 
@@ -119,7 +119,7 @@ Discovery triggers one pattern during the identification an exploration phases. 
 </td></tr></tbody>
 </table>## Patterns for top-down and for horizontal discovery
 
-Both Discovery and Service Mapping can use the same pattern for horizontal and top-down discovery. But they are edited differently. See [Create or customize patterns](../../service-mapping/task/t_CreatePatternPatDef.md) for all steps. If you take a pattern that was exclusively used for top-down discovery and you want to use it for horizontal discovery, you have to make a few modifications. See [Use a pattern for horizontal discovery](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+Both Discovery and Service Mapping can use the same pattern for horizontal and top-down discovery. But they are edited differently. See [Create or customize patterns](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) for all steps. If you take a pattern that was exclusively used for top-down discovery and you want to use it for horizontal discovery, you have to make a few modifications. See [Use a pattern for horizontal discovery](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 **Parent Topic:**[Using Discovery](using-discovery.md)
 
@@ -210,7 +210,7 @@ Role required: discovery\_admin
 
     3.  In the **Identification Sections** on the **Basic** tab, verify that there is at least one section that allows for an entry point type of **TCP** or **All**.
 
-        If not, create one. See the Identification steps for [creating a new pattern](../../service-mapping/task/t_CreatePatternPatDef.md).
+        If not, create one. See the Identification steps for [creating a new pattern](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md).
 
     4.  Save the pattern.
 
@@ -227,10 +227,10 @@ Role required: discovery\_admin
         -   **Relationship type**: Select **Runs on::Runs** \(for process classifiers only\)
         -   **Condition**: Configure the same condition you defined in the pattern.
         -   **Triggers probes** Related list: Add the Horizontal Pattern probe, and then add the pattern you are using to the **Pattern** column.
-    See [Create a Discovery CI classification](../task/create-discovery-ci-classification.md) for a description of the other fields on the classifier.
+    See [Create a Discovery CI classification](create-discovery-ci-classification.md) for a description of the other fields on the classifier.
 
 
 ### What to do next
 
-Run the pattern in [Debug mode](../../service-mapping/task/t_CreatePatternPatDef.md) to test it. When you are sure the pattern works, you can run discovery by setting up a discovery schedule or running an on-demand discovery. See [Schedule a horizontal discovery](../task/t_CreateADiscoverySchedule.md#) for more information.
+Run the pattern in [Debug mode](../discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) to test it. When you are sure the pattern works, you can run discovery by setting up a discovery schedule or running an on-demand discovery. See [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#) for more information.
 

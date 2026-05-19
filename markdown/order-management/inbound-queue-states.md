@@ -26,5 +26,5 @@ An inbound request transitions through a series of states as ServiceNow AI Platf
 **Related topics**  
 
 
-[Asynchronous order processing for large customer and consumer orders](../concept/asynchronous-order-processing.md)
+[Asynchronous order processing for large customer and consumer orders](asynchronous-order-processing.md)
 

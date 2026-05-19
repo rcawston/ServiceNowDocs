@@ -18,5 +18,5 @@ A connection admin can create a connection to Apache Hive and give data stewards
 **Related topics**  
 
 
-[Create an Apache Hive connection](../task/create-apache-hive-connection-zcc.md)
+[Create an Apache Hive connection](create-apache-hive-connection-zcc.md)
 

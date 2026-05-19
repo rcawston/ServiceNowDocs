@@ -25,8 +25,8 @@ Role required: sn\_acct\_lc.agent
 
 3.  Select **New**.
 
-    The account onboarding playbook is launched. You can configure the various activities and create the account onboarding case. See [Set up the account onboarding playbook](../concept/account-lifecycle-use-playbook.md) for details.
+    The account onboarding playbook is launched. You can configure the various activities and create the account onboarding case. See [Set up the account onboarding playbook](account-lifecycle-use-playbook.md) for details.
 
 
-**Parent Topic:**[Set up the account onboarding playbook](../concept/account-lifecycle-use-playbook.md)
+**Parent Topic:**[Set up the account onboarding playbook](account-lifecycle-use-playbook.md)
 

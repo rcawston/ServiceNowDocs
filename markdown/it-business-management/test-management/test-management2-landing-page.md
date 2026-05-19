@@ -15,28 +15,28 @@ breadcrumb: [Test Management applications, Strategic Portfolio Management]
 
 The ServiceNow® Test Management 2.0 application streamlines the management of testing processes to help you deliver software products more efficiently and with fewer errors. You can create multiple versions of a test and integrate with Agile Development 2.0.
 
-To learn about the different versions of Test Management and to choose the version that helps you meet your testing requirements, see [Test Management applications](../concept/test-management-overview.md).
+To learn about the different versions of Test Management and to choose the version that helps you meet your testing requirements, see [Test Management applications](test-management-overview.md).
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
 Explore
 
- -   [Test Management 2.0 overview](../concept/overview-test-management2.md)
--   [Testing using Test Management 2.0](../concept/release-readiness-testing.md)
--   [Sprint testing](../concept/sprint-testing.md)
+ -   [Test Management 2.0 overview](overview-test-management2.md)
+-   [Testing using Test Management 2.0](release-readiness-testing.md)
+-   [Sprint testing](sprint-testing.md)
 
 </td><td>
 
 Set up
 
- -   [Activate Test Management 2.0](../task/activate-test-management2.md)
--   [Quick start tests for Test Management 2.0](../../../administer/atf-quick-start-tests/reference/quick-start-tests-test-management.md)
+ -   [Activate Test Management 2.0](activate-test-management2.md)
+-   [Quick start tests for Test Management 2.0](quick-start-tests-test-management.md)
 
 </td><td>
 
 Use
 
- [Test Board in Test Management 2.0](../concept/test-board.md)
+ [Test Board in Test Management 2.0](test-board.md)
 
 </td></tr><tr><td>
 

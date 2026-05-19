@@ -18,7 +18,7 @@ Explore the many-to-many relationships between source types and log sources to h
 
 ## Before you begin
 
-For an overview of mapping, see [Log data auto-mapping and mapping in Health Log Analytics](../concept/hla-data-input-automapping.md).
+For an overview of mapping, see [Log data auto-mapping and mapping in Health Log Analytics](hla-data-input-automapping.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -46,5 +46,5 @@ Health Log Analytics uses source types to parse logs and utilizes log sources as
     **Note:** The displayed results are updated once a day. Results that are older than 24 hours are deleted automatically.
 
 
-**Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](../concept/hla-data-input-automapping.md)
+**Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](hla-data-input-automapping.md)
 

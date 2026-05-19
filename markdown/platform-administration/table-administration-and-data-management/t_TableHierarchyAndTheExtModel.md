@@ -23,7 +23,7 @@ Role required: admin
 
 The extension model used by a table is not immediately apparent. While a hierarchy can use a single physical table, the platform displays tables as if each logical table has a unique physical table. For example, when specifying a table for a workflow, you can select Change \[change\_request\] or Incident \[incident\] even though the parent table, Task \[task\], uses a single physical table.
 
-Administrators can view the status of flattened table hierarchies, but cannot flatten additional hierarchies. You can [configure the form](../../form-administration/concept/configure-form-layout.md#) to add the **Extension model** field if necessary.
+Administrators can view the status of flattened table hierarchies, but cannot flatten additional hierarchies. You can [configure the form](../configure-form-layout.md#) to add the **Extension model** field if necessary.
 
 ## Procedure
 
@@ -41,5 +41,5 @@ Administrators can view the status of flattened table hierarchies, but cannot fl
 
     -   **Table per hierarchy**: Defines a single physical table per logical table hierarchy. For example, there is a single Task \[task\] table on the MySQL database that contains all the Task, Incident, Problem and Change records. This single physical table is represented as separate logical tables.
 
-**Parent Topic:**[Table flattening](../concept/c_TaskTableFlattening.md)
+**Parent Topic:**[Table flattening](c_TaskTableFlattening.md)
 

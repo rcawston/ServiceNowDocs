@@ -143,10 +143,10 @@ Attachments
 Attachments associated with the entity type displayed in the side panel.
 
 </td></tr></tbody>
-</table>-   **[Create an entity type](../task/create-new-entity-type-ws.md)**  
+</table>-   **[Create an entity type](create-new-entity-type-ws.md)**  
 Create an entity type for the entities in your system. Entity types enable you to find and create new entities that match a set of filter conditions. You can create a hierarchy of the entity types within the entity classes.
--   **[Entity filters](../../grc-common/concept/what-is-an-entity-filter.md)**  
+-   **[Entity filters](what-is-an-entity-filter.md)**  
 Entity types enable you to find and create entities that match a set of filter conditions. Entity types include predefined entity filters that define the data to be displayed in the user interface. The entity filter defines the table from which data is pulled into each entity type for display.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 

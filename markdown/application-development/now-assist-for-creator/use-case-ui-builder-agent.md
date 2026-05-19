@@ -29,7 +29,7 @@ The UI Builder agent is available directly within the UI Builder page editor as 
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](../task/install-ui-generation.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](install-ui-generation.md) and [Grant UI Builder admin role](grant-ui-builder-admin-role.md).
 
 ## Configuration steps
 
@@ -61,7 +61,7 @@ Perform the following steps to use UI Builder agent:
 
 The developer sets up a three-column layout and adds a linked button component in a single session, with guidance from the UI Builder agent. They also gain confidence in their page's script configuration before making any changes. Tasks that would have typically required multiple searches through documentation are now completed without leaving the editor.
 
-**Parent Topic:**[UI Generation use cases](../task/ui-generation-use-cases.md)
+**Parent Topic:**[UI Generation use cases](ui-generation-use-cases.md)
 
 **Related topics**  
 

@@ -70,7 +70,7 @@ You can again select the open item icon \(![Expand Row icon](../../image/ExpandI
 </table>9.  Select **Save**.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

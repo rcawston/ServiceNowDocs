@@ -47,7 +47,7 @@ This structure enables you to categorize HR services by functional area, and you
 
 Before configuring individual HR services, review and set up the categorization structure for them. This foundational step ensures that your services are properly organized within the COE framework.
 
-**Note:** For a list of base system COEs and how to enable or disable them, see [Enable or disable an HR Center of Excellence \(COE\)](../task/configure-hr-center-of-excellence-coe.md).
+**Note:** For a list of base system COEs and how to enable or disable them, see [Enable or disable an HR Center of Excellence \(COE\)](configure-hr-center-of-excellence-coe.md).
 
 ## Roles
 

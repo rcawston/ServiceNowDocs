@@ -17,7 +17,7 @@ The g\_service\_catalog API provides methods to access data in a multi-row varia
 
 This API is available in all environments, such as, Service Portal, ServiceNow AI Platform, Workspace, and Now® Mobile.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## g\_service\_catalog - getValue\(String variableName\)
 

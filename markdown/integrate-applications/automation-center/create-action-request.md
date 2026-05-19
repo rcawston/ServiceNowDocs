@@ -22,5 +22,5 @@ Submit an action request using the ServiceNow® Service Catalog form to request 
 -   **[Create an action request from Automation Center](action-request-from-form.md)**  
 Create an action request from Automation Center to request for actions to resolve issues causing your automations to fail.
 
-**Parent Topic:**[Working with actions](../concept/actions.md)
+**Parent Topic:**[Working with actions](actions.md)
 

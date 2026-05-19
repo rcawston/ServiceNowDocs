@@ -154,7 +154,7 @@ Display name
 
 Name of the license metric that the software license is counted against when reconciliation runs.
 
- Select the **Display name** to open the corresponding License Metric Results record, where you can view more in-depth information about the license metric result. See [Software model results license metric results fields](../reference/license-metric-results-fields.md) for more details.
+ Select the **Display name** to open the corresponding License Metric Results record, where you can view more in-depth information about the license metric result. See [Software model results license metric results fields](license-metric-results-fields.md) for more details.
 
 </td></tr><tr><td>
 
@@ -555,11 +555,11 @@ Company
 Name of the company that has unlicensed software consumptions.
 
 </td></tr></tbody>
-</table>    The Licensed Installs related list contains the [software installations](../concept/c_DiscoveryModels.md) that are licensed. To view more information about a licensed software installation, open the corresponding Software Installation record by selecting the **Display name**. Refer to [Software installation fields](../reference/software-installation-fields.md) for detailed descriptions of each field in the Software Installation record.
+</table>    The Licensed Installs related list contains the [software installations](c_DiscoveryModels.md) that are licensed. To view more information about a licensed software installation, open the corresponding Software Installation record by selecting the **Display name**. Refer to [Software installation fields](software-installation-fields.md) for detailed descriptions of each field in the Software Installation record.
 
-    The Unlicensed Installs related list contains the [software installations](../concept/c_DiscoveryModels.md) that are unlicensed. To view more information about an unlicensed software installation, open the corresponding Software Installation record by selecting the **Display name**. Refer to [Software installation fields](../reference/software-installation-fields.md) for detailed descriptions of each field in the Software Installation record.
+    The Unlicensed Installs related list contains the [software installations](c_DiscoveryModels.md) that are unlicensed. To view more information about an unlicensed software installation, open the corresponding Software Installation record by selecting the **Display name**. Refer to [Software installation fields](software-installation-fields.md) for detailed descriptions of each field in the Software Installation record.
 
-    The Unlicensed Users related list contains the [SAP system users](../concept/sap-publisher-pack.md) that are unlicensed.
+    The Unlicensed Users related list contains the [SAP system users](sap-publisher-pack.md) that are unlicensed.
 
     **Note:** This related list is shown only for the SAP publisher.
 
@@ -651,5 +651,5 @@ When a purchase order is created, the status of any Purchase Rights remediation 
 </table>    A confirmation message is shown and all applicable [removal candidates](t_AddAReclCandidate.md) are added to the Removal Candidates related list.
 
 
-**Parent Topic:**[Software license usage](../concept/sam-license-workbench.md)
+**Parent Topic:**[Software license usage](sam-license-workbench.md)
 

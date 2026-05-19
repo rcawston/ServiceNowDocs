@@ -21,5 +21,5 @@ The initialization activity processes existing IP addresses from all configured 
 
 The time required for the initialization process to finish depends on the volume of your data. The percentage of completion is displayed in the real-time progress tracker.
 
-**Parent Topic:**[CMDB Coverage reference](../concept/cmdb-coverage-reference.md)
+**Parent Topic:**[CMDB Coverage reference](cmdb-coverage-reference.md)
 

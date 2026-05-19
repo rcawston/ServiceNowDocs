@@ -21,7 +21,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 2.  When the installation is complete, access Elasticsearch and obtain the API Base URL under your Elasticsearch profile.
 
@@ -44,7 +44,7 @@ Role required: sn\_si.admin
     |Password|Your Intel Elasticsearch password.|
     |Max Rows|The maximum number of rows you want to search.|
     |Earliest Result \(days\)|The earliest results you want to see in number of days.|
-    |Include raw data samples in search results|Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](../../../security-incident-response/reference/installed-with-sir.md).|
+    |Include raw data samples in search results|Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](installed-with-sir.md).|
     |MID Server|Select **Any** to use any active MID Server, or select a specific MID Server name.|
 
     **Note:** Configuring this integration activates workflows. To manage the workflows, navigate to the **Workflow Editor**.
@@ -62,5 +62,5 @@ Role required: sn\_si.admin
 
 After it is configured, the Elasticsearch - Incident Enrichment integration can be selected for publishing observables to watchlists in Security Incident Response.
 
-**Parent Topic:**[Elasticsearch Incident Enrichment integration](../reference/elasticsearch-landing-page.md)
+**Parent Topic:**[Elasticsearch Incident Enrichment integration](elasticsearch-landing-page.md)
 

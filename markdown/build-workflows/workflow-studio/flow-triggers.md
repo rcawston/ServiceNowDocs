@@ -112,7 +112,7 @@ Kafka Message
 
 </td><td>
 
-Starts a flow when there's a message in a topic in your Kafka environment. For more information, see [Create a flow with a Kafka Message trigger](../task/create-flow-kafka.md).
+Starts a flow when there's a message in a topic in your Kafka environment. For more information, see [Create a flow with a Kafka Message trigger](create-flow-kafka.md).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ MetricBase
 
 </td><td>
 
-Starts a flow when a MetricBase trigger is met. Requires the MetricBase application. For more information, see [Create a flow with a MetricBase trigger](../task/create-mb-flow.md).
+Starts a flow when a MetricBase trigger is met. Requires the MetricBase application. For more information, see [Create a flow with a MetricBase trigger](create-mb-flow.md).
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Proactive Analytics
 
 </td><td>
 
-Starts a flow when Proactive Analytics KPI score or KPI threshold values are met. Requires a Performance Analytics subscription to Proactive Analytics. For more information, see [Create a flow with a Proactive Analytics trigger](../task/create-flow-proactive-analytics.md).
+Starts a flow when Proactive Analytics KPI score or KPI threshold values are met. Requires a Performance Analytics subscription to Proactive Analytics. For more information, see [Create a flow with a Proactive Analytics trigger](create-flow-proactive-analytics.md).
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Service Catalog
 
 </td><td>
 
-Starts a flow from a Service Catalog item request. For more information, see [Create a flow with a Service Catalog trigger](../task/create-sc-flow.md).**Note:** Service Catalog triggers do not support catalog variables as part of the trigger condition. Instead, get or create catalog variables in the main body of the flow.
+Starts a flow from a Service Catalog item request. For more information, see [Create a flow with a Service Catalog trigger](create-sc-flow.md).**Note:** Service Catalog triggers do not support catalog variables as part of the trigger condition. Instead, get or create catalog variables in the main body of the flow.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ SLA Task
 
 </td><td>
 
-Starts a flow from an SLA Definition record. For more information, see [Create a flow with an SLA Task trigger](../task/create-sla-task-flow.md).
+Starts a flow from an SLA Definition record. For more information, see [Create a flow with an SLA Task trigger](create-sla-task-flow.md).
 
 </td></tr></tbody>
 </table>## Inbound email triggers
@@ -157,7 +157,7 @@ With inbound email actions, you don't have full control over email attachment ha
 
 Although you can process an inbound email with multiple inbound email actions, you can't process an inbound email with multiple flows by default. Additional configuration is required. For information on how to stop processing in inbound email actions, see [Specifying the inbound email processing order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_OrderedEmailProcessingPlugin.md).
 
-For more information on running multiple flows on an inbound email, see [Allow multiple triggers to process an inbound email](../../notification/task/deactivate-stop-processing.md).
+For more information on running multiple flows on an inbound email, see [Allow multiple triggers to process an inbound email](deactivate-stop-processing.md).
 
 The following diagram shows how inbound emails are processed by inbound email triggers. After the email has been classified as a reply, forward, or new email, the system tries to match the email to an active inbound email trigger. If the email meets the conditions of an inbound email trigger, the flow runs. If the flow issues stop processing, the email is finished being processed. If the flow does not issue stop processing, the system evaluates the conditions of more inbound email triggers. If there are no more inbound email triggers to evaluate, the system tries to match the email with an active inbound email action instead.
 
@@ -253,7 +253,7 @@ An object containing the triggering record.
 
 An array of objects containing the field values that changed. This data pill is only available for the **Updated** or **Created or Updated** trigger types.
 
-**Note:** To process the **Changed Fields** array data pill, you will need to use [For Each flow logic](../concept/flow-logic-for-each.md). For more information on working with array data pills, see [Complex data](../concept/complex-data.md).
+**Note:** To process the **Changed Fields** array data pill, you will need to use [For Each flow logic](flow-logic-for-each.md). For more information on working with array data pills, see [Complex data](complex-data.md).
 
 -   **\[Table Label\] Table**
 
@@ -288,7 +288,7 @@ An object containing headers in the inbound request.
 
 -   **Request Body**
 
-Complex data object that defines the body structure of the inbound request. For more information on complex objects, see [Complex data](../concept/complex-data.md).
+Complex data object that defines the body structure of the inbound request. For more information on complex objects, see [Complex data](complex-data.md).
 
 
 </td></tr><tr><td>

@@ -72,5 +72,5 @@ Role required: evt\_mgmt\_admin
 -   Verify that the provided credentials have appropriate permissions to access your Cribl instance.
 -   Verify that only one active credential record of each credentials type exists under the credential alias.
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
 

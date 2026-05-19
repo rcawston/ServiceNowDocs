@@ -69,12 +69,12 @@ Release version
 Xanadu
 
 </td></tr></tbody>
-</table>To learn more about Leader Hub, see [Leader Hub](../../../product/td-leader-hub/concept/td-lh-landing.md).
+</table>To learn more about Leader Hub, see [Leader Hub](td-lh-landing.md).
 
--   **[Run quick start tests for Leader Hub](../../../product/td-leader-hub/task/td-lh-run-quick-start-tests.md)**  
+-   **[Run quick start tests for Leader Hub](td-lh-run-quick-start-tests.md)**  
 Run quick start tests to verify the Leader Hub app still works after each upgrade and deployment of new applications or integrations. If you customized Leader Hub, you must configure the quick start tests to ensure they're compatible with your customizations.
 
-**Parent Topic:**[Installing and configuring Leader Hub](../../../product/td-leader-hub/concept/td-lh-install-config.md)
+**Parent Topic:**[Installing and configuring Leader Hub](td-lh-install-config.md)
 
 **Related topics**  
 

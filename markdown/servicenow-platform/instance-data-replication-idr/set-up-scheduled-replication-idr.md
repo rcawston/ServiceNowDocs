@@ -19,7 +19,7 @@ Replicate data from a producer to a consumer at scheduled times each day in Inst
 
 Verify that the producer and consumer instances belong to the same customer.
 
-Plan your data replication strategy by reviewing the important considerations described in [Preparing for Instance Data Replication](../concept/prepare-instance-data-replication.md).
+Plan your data replication strategy by reviewing the important considerations described in [Preparing for Instance Data Replication](prepare-instance-data-replication.md).
 
 **Note:** You can only create one scheduled replication sets, with only one outbound entry in that set.
 
@@ -86,7 +86,7 @@ Filter
 Filter criteria to control the records in the table that the system is replicating. -   Use the filter to limit the number of records in your replication set. For example, if the table has an **Active** field, add a filter condition like **\[Active\] \[is\] \[True\]** to replicate only active records.
 -   If you want to replicate and preserve a parent and child table hierarchy, add a filter for the sys\_class\_name column to each outbound entry. This ensures that all of the child table columns are replicated, and not just the parent the columns.
 
-For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the label for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](../concept/preserving-table-hierarchy.md).
+For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the label for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](preserving-table-hierarchy.md).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Coalesce Field
 
 </td><td>
 
-Choose a field to use to coalesce IDR. Only unique fields are available. See [Custom coalescing](../concept/modifying-replication-behavior-idr.md#).
+Choose a field to use to coalesce IDR. Only unique fields are available. See [Custom coalescing](modifying-replication-behavior-idr.md#).
 
  This field only displays if you select **Enable Custom Coalesce**.
 
@@ -161,5 +161,5 @@ Scheduled replication begins on the scheduled start date and time. Until then, c
 -   **[Cancel scheduled replication](cancel-seeding.md)**  
 Cancel scheduled replication by deactivating or deleting a producer replication set.
 
-**Parent Topic:**[Replicating data with Instance Data Replication](../concept/replicating-data.md)
+**Parent Topic:**[Replicating data with Instance Data Replication](replicating-data.md)
 

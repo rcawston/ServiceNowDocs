@@ -73,5 +73,5 @@ Information that would be helpful for the ServiceNow personnel who are activatin
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

@@ -26,7 +26,7 @@ Configure the Employee Center for Operational Technology \(OT\) so that you and 
 
     Install and configure the Operational Technology Incident Management application needed to use the **Report an incident** request.
 
-    For more information about installing and configuring the application, see [Configuring Operational Technology Incident Management](../../mftg-manufacturing-ot-service-mgt/concept/configuring-operational-technology-incident-mgt.md).
+    For more information about installing and configuring the application, see [Configuring Operational Technology Incident Management](operational-technology-incident-management/configuring-operational-technology-incident-mgt.md).
 
 3.  Add more connected content to the Employee Center for OT.
 

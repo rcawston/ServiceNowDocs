@@ -62,5 +62,5 @@ Starting with the Tokyo release, 15-minute forecasting is the default forecastin
     3.  Click **Execute Now**.
 
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](../concept/configuring-demand-forecast-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](configuring-demand-forecast-configurable-wfo-cs.md)
 

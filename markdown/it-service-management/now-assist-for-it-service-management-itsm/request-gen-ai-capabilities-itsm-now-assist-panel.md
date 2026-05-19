@@ -24,7 +24,7 @@ Role required: itil
 
 ## About this task
 
-You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
 Using the Now Assist panel saves time for an agent, for example, the agent can quickly learn the details of an incident by reading the incident summarization. The summarization gives enough details about the associated interaction so that the requester doesn't have to repeat the same information to the agent. For information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 

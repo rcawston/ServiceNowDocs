@@ -42,7 +42,7 @@ Role required: it\_project\_manager
 **Related topics**  
 
 
-[Status reporting in Project Workspace](../concept/status-reporting-in-pw.md)
+[Status reporting in Project Workspace](status-reporting-in-pw.md)
 
 [Analyze the status report in Project Workspace](view-status-report-in-project-workspace.md)
 

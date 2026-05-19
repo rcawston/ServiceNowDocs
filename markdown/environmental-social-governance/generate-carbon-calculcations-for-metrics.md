@@ -57,7 +57,7 @@ Role required: sn\_esg\_gen\_ai.cmd\_agent\_user
 ## What to do next
 
 -   After the Calculated Metric Definition \(CMD\) is created, update its frequency before changing the formula. The frequency should be set based on the frequencies of the underlying metric definitions used in the CMD.
--   Activate the CMD, for more information refer to, [Create a calculated metric definition](../../metrics/task/create-composite-metric-definition.md).
+-   Activate the CMD, for more information refer to, [Create a calculated metric definition](create-composite-metric-definition.md).
 
-**Parent Topic:**[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](../concept/use-agentic-ai-in-now-assist-for-esg-management.md)
+**Parent Topic:**[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](use-agentic-ai-in-now-assist-for-esg-management.md)
 

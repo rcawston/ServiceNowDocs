@@ -42,9 +42,9 @@ Overview of SOW Admin Center
 **Related topics**  
 
 
-[Roles in Service Operations Workspace for ITSM](../reference/roles-in-sow.md)
+[Roles in Service Operations Workspace for ITSM](roles-in-sow.md)
 
-[Users in Service Operations Workspace for ITSM](../reference/users-sow-itsm.md)
+[Users in Service Operations Workspace for ITSM](users-sow-itsm.md)
 
 [Access controls in Service Operations Workspace for ITSM](access-controls-sow-itsm.md)
 

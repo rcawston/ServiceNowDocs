@@ -33,25 +33,25 @@ Workplace Visitor Management quick start tests require activating the Workplace 
 |----|-----------|---------------|
 |Test Register Guest|Ensure that the workplace users or employees can access the record producer and that the form has all the mandatory field values before submitting the record.|Washington DC|
 
--   **[Run quick start test for Workplace Visitor Management](../../../product/workplace-visitor-mgmt/task/quick-start-test-visitor-mgmt.md)**  
+-   **[Run quick start test for Workplace Visitor Management](quick-start-test-visitor-mgmt.md)**  
 Workplace Visitor Management provides quick start test that you can run on your instance.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../../../product/workplace-visitor-mgmt/concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](configure-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Install Workplace Visitor Management](../../../product/workplace-visitor-mgmt/task/install-workplace-visitor-mgmt.md)
+[Install Workplace Visitor Management](install-workplace-visitor-mgmt.md)
 
-[Create a visitor policy](../../../product/workplace-visitor-mgmt/task/create-visitor-policy.md)
+[Create a visitor policy](create-visitor-policy.md)
 
-[Create a record producer for visitor management](../../../product/workplace-visitor-mgmt/task/create-rec-prodcr-visit-mgmt.md)
+[Create a record producer for visitor management](create-rec-prodcr-visit-mgmt.md)
 
-[Configure a visitor type](../../../product/workplace-visitor-mgmt/task/configure-visitor-type.md)
+[Configure a visitor type](configure-visitor-type.md)
 
-[Configure visit requirements](../../../product/workplace-visitor-mgmt/task/configure-visit-requirements.md)
+[Configure visit requirements](configure-visit-requirements.md)
 
-[Create a visitor badge template](../../../product/workplace-visitor-mgmt/task/create-visitor-badge-template.md)
+[Create a visitor badge template](create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../../../product/workplace-visitor-mgmt/concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](config-visitor-for-kiosk.md)
 

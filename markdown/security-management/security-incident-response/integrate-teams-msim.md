@@ -15,12 +15,12 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 Integrate your Microsoft Teams with Major Security Incident Management.
 
--   [Register a new application at Azure portal for Microsoft Teams connections](../../security-incident-response/task/register-teams-app-msim.md)
--   [Configure Microsoft Teams connection with Major Security Incident Management](../task/configure-teams-msim.md)
+-   [Register a new application at Azure portal for Microsoft Teams connections](register-teams-app-msim.md)
+-   [Configure Microsoft Teams connection with Major Security Incident Management](configure-teams-msim.md)
 
--   **[Register a new application at Azure portal for Microsoft Teams connections](../../security-incident-response/task/register-teams-app-msim.md)**  
+-   **[Register a new application at Azure portal for Microsoft Teams connections](register-teams-app-msim.md)**  
 Register a new application at Azure portal for Microsoft Teams integration and grant access to the Azure app.
--   **[Configure Microsoft Teams connection with Major Security Incident Management](../task/configure-teams-msim.md)**  
+-   **[Configure Microsoft Teams connection with Major Security Incident Management](configure-teams-msim.md)**  
 Set up Major Security Incident Management with Microsoft Teams connection.
 
 **Parent Topic:**[Integrating Major Security Incident Management](integrate-with-other-applications.md)
@@ -30,7 +30,7 @@ Set up Major Security Incident Management with Microsoft Teams connection.
 
 [Integrate Major Security Incident Management with Microsoft SharePoint](integrate-msim-sharepoint.md)
 
-[Establish MS Teams Graph connection on ServiceNow AI Platform](../../security-incident-response/task/msim-micorsoft-team-requirements.md)
+[Establish MS Teams Graph connection on ServiceNow AI Platform](msim-micorsoft-team-requirements.md)
 
 [Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
 

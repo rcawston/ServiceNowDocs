@@ -42,7 +42,7 @@ The selected Knowledge Base articles are retired or archived and are no longer v
 
 The publishing configuration remains available in the Publishing Center for future reuse or republishing.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 

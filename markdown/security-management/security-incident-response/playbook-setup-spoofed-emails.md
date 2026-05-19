@@ -47,5 +47,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
     ![Trigger condition for Spoofed Emails playbook.](../image/playbook-spoofed-email-name-trigger.png)
 
 
-**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](../concept/playbook-spoofed-emails-display-name.md)
+**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](playbook-spoofed-emails-display-name.md)
 

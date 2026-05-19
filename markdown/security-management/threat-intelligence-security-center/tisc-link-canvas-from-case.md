@@ -42,5 +42,5 @@ Role required: sn\_sec\_tisc.analyst
     An information message is displayed indicating that the canvas data is refreshed successfully.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
 

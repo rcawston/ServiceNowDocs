@@ -31,5 +31,5 @@ A description of the fields on the Transaction Quota Rule form.
 |Maximum Outbound Request Duration|The number of seconds for an outbound HTTP request.|
 |Description|A description of the transaction quota rule.|
 
-**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

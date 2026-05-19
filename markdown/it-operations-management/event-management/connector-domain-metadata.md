@@ -124,7 +124,7 @@ You can reference domain metadata from the request body \(JSON payload\) by sett
     \}
 
 
-**Note:** For information on connector parameters, see [Personalize domains for push connector events to use in event creation](../task/personalize-domain-separation-push-connectors.md).
+**Note:** For information on connector parameters, see [Personalize domains for push connector events to use in event creation](personalize-domain-separation-push-connectors.md).
 
 **Parent Topic:**[Event Management reference](event-management-reference.md)
 

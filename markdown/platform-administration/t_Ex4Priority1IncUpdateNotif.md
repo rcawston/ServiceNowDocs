@@ -151,7 +151,7 @@ Priority ${priority} Incident updated
         -   Comments from the incident record
 6.  Test that the email notification sends to an assignment group when its Priority 1 Incident is updated.
 
-    1.  [Create a user](../../users-and-groups/task/t_CreateAUser.md) who has an email address that you can monitor, and then [create a group](../../users-and-groups/task/t_CreateAGroup.md#) that includes the user that you created.
+    1.  [Create a user](user-administration/t_CreateAUser.md) who has an email address that you can monitor, and then [create a group](user-administration/t_CreateAGroup.md#) that includes the user that you created.
 
     2.  Navigate to **Incident** &gt; **Open**, and then open an incident in which the **Priority** is **1 - Critical**.
 

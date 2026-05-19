@@ -79,7 +79,7 @@ You are now ready to create queries using the new table. Updates to managed tabl
 **Related topics**  
 
 
-[Configure the Matrix Loader](../concept/cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](cpq-using-the-matrix-loader.md)
 
-[Matrix Loader: CSV rules upload](../concept/matrix_loader_csv_rules_upload.md)
+[Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
 

@@ -58,5 +58,5 @@ You can save a copy of a flow history entry to preserve a previous flow configur
 
 Workflow Studio displays the copied flow configuration in a new tab.
 
-**Parent Topic:**[Flow history](../concept/flow-history.md)
+**Parent Topic:**[Flow history](flow-history.md)
 

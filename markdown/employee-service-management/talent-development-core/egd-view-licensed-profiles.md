@@ -36,5 +36,5 @@ The **Employee Profile** licenses users by the employee profile number. Each num
     The link shows the number of profiles that match the condition. If you only see the employee profile number, select the gear icon, and add the **User** field to the selected column.
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](egd-administration.md)
 

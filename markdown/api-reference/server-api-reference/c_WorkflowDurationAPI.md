@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The WorkflowDuration script include provides methods to calculates the duration \(in seconds\) based on the variables of a workflow activity. It is an interface between Workflow Timer\(\) and DurationCalculator\(\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## WorkflowDuration - addSeconds\(GlideRecord record, Number amount\)
 

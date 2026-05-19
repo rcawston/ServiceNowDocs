@@ -110,20 +110,20 @@ Disappeared
 There is no update about the visitor or has checked out without updating the reception staff.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+</table>**Parent Topic:**[Managing visitor registrations](manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Use the receptionist portal](../task/use-receptionist-portal.md)
+[Use the receptionist portal](use-receptionist-portal.md)
 
-[Update a visitor registration](../task/update-visitor-registration.md)
+[Update a visitor registration](update-visitor-registration.md)
 
-[View visitor registrations](../task/view-visitor-registrations.md)
+[View visitor registrations](view-visitor-registrations.md)
 
-[View visitor policy confirmations](../task/view-policy-confirmations.md)
+[View visitor policy confirmations](view-policy-confirmations.md)
 
-[Anonymize a visitor](../task/anonymize-visitor.md)
+[Anonymize a visitor](anonymize-visitor.md)
 
-[Apply visitor management archive policy](../task/apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
 

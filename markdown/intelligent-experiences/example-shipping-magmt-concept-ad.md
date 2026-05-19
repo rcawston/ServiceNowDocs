@@ -25,8 +25,8 @@ Automate various tasks related to shipping management through desktop actions in
 
 To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](../task/configure-agentic-desktop.md).
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](../task/download-agentic-desktop-installer.md).
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -150,7 +150,7 @@ Role required: sn\_aia.admin
 
 14. Configure the properties for added screens, anchors, and steps in the Properties panel.
 
-    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](screen-anchor-and-action-properties-ad.md).
 
 15. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -170,7 +170,7 @@ Role required: sn\_aia.admin
 
 19. Test and activate the desktop action.
 
-    For more information, see [Test and activate a desktop action in AI Desktop Actions](../task/test-activate-desktop-action-ad.md).
+    For more information, see [Test and activate a desktop action in AI Desktop Actions](test-activate-desktop-action-ad.md).
 
 20. Similarly, create and activate the **Shipping Management login** desktop action.
 
@@ -306,11 +306,11 @@ List of steps
 
 6.  Complete the remaining steps that are necessary.
 
-    For more information, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For more information, see [Create an AI agent](configure-next-best-action-agent.md).
 
 7.  Select **Save and test** to complete the configuration steps or review a previous step by selecting **Back**.
 
-    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](../../../administer/now-assist-ai-agents/task/test-ai-agent.md).
+    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](test-ai-agent.md).
 
     To test the AI agent, you must have the sn\_aia.admin role and any roles the ACLs configured for the AI agent and its tools require, if applicable.
 
@@ -319,5 +319,5 @@ List of steps
 
 Enable shipping coordinators to trigger AI agents from the Now Assist panel to enter data automatically into the Shipping Management application.
 
-For more information, see [Example: Use AI agents to automatically enter data into the shipping management app](../task/example-use-shipping-ai-agent-ad.md).
+For more information, see [Example: Use AI agents to automatically enter data into the shipping management app](example-use-shipping-ai-agent-ad.md).
 

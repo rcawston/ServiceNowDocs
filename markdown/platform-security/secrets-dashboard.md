@@ -57,17 +57,17 @@ The **Secret Group Warnings** tab displays warnings related to your secret group
 
 **Note:** The Secrets Management Dashboard is a part of Secrets Management Enterprise. Secrets Management Enterprise is a paid plugin that ServiceNow personnel must activate on your production instance.
 
--   **[Secrets Management roles](../reference/roles-sec-man.md#)**  
+-   **[Secrets Management roles](roles-sec-man.md#)**  
 Secrets Management adds these roles.
--   **[Create a secret group cryptographic module](../task/create-sm-crypto-module.md)**  
+-   **[Create a secret group cryptographic module](create-sm-crypto-module.md)**  
 Create a secret group cryptographic module to perform encryption and decryption.
--   **[Create a basic secret group](../task/sm-create-basic-group.md)**  
+-   **[Create a basic secret group](sm-create-basic-group.md)**  
 Create a basic secret group to group any secrets, regardless of their criteria.
--   **[Create a secret group with criteria](../task/sm-create-criteria-group.md)**  
+-   **[Create a secret group with criteria](sm-create-criteria-group.md)**  
 Create a secret group with criteria to organize secrets entered in Password2 fields automatically when they share a common criteria, such as table, scope, or application.
--   **[Upload a public key for Secrets Management](../task/sm-upload-key.md)**  
+-   **[Upload a public key for Secrets Management](sm-upload-key.md)**  
 Upload a public key to encrypt your secrets in Secrets Management.
--   **[Run Secrets Management security jobs](../task/sm-security-jobs.md)**  
+-   **[Run Secrets Management security jobs](sm-security-jobs.md)**  
 Schedule a Secrets Management job to perform encryption tasks on secrets fields on your instance.
 
 **Parent Topic:**[Secrets Management](secrets-management.md)

@@ -95,8 +95,8 @@ Previously, adding an associated plan would automatically include a link to the 
     The selected plans and recovery teams are added to the plan record.
 
 
--   **[Associating related plans to a recovery task](../concept/handling-related-plans.md)**  
+-   **[Associating related plans to a recovery task](handling-related-plans.md)**  
 You can now associate related plans with recovery tasks, making it easier to identify and manage plans during recovery. You can then use auto-generated nested plans in an event, reducing the manual effort of adding plans and improving system performance.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

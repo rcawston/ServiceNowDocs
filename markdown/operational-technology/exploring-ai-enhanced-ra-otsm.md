@@ -35,5 +35,5 @@ By default, AI Search uses the short description, description, site, OT device, 
 To learn more about configuring and using , see:
 
 -   [Configure AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](configure-ai-enhanced-ra-otsm.md)
--   [Contextualize an external document](../task/use-ai-enhanced-ra-otsm.md)
+-   [Contextualize an external document](use-ai-enhanced-ra-otsm.md)
 

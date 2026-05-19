@@ -60,5 +60,5 @@ Once the Site Mappings record is created and you perform the device import, devi
 
 **Note:** The metadata information from the site record, such as Assigned to and Owned by, are copied to the imported devices using the Service Graph Connector's system properties. For more information about the system properties for the Service Graph Connector for Microsoft Defender for IoT \(Azure\), see [Configure guided setup](configuring-sgc-microsoft-d4iot-azure.md).
 
-**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../concept/integration-sgc-microsoft-defender-iot-azure.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](integration-sgc-microsoft-defender-iot-azure.md)
 

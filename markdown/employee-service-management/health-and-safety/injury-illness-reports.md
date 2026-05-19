@@ -19,11 +19,11 @@ To enable this reporting capability for Health and Safety Incident Management, y
 
 You can also generate a report for an injury and illness using your own PDF templates for your regional or industry-specific requirements.
 
-You can also generate a report for an injury and illness by directly uploading your regional or industry-specific reporting PDF templates into the application. For more information, see [Create a safety report field mapping for generating reports](../task/create-safety-report-field-mapping.md) and [Generate a report for a safety incident, observation, or injury](../task/generate-report-safety-incident-obsv-injury.md).
+You can also generate a report for an injury and illness by directly uploading your regional or industry-specific reporting PDF templates into the application. For more information, see [Create a safety report field mapping for generating reports](../health-and-safety-core/create-safety-report-field-mapping.md) and [Generate a report for a safety incident, observation, or injury](../health-and-safety-incident-management/generate-report-safety-incident-obsv-injury.md).
 
--   **[Manage the list of establishments](../task/manage-establishment-list.md)**  
+-   **[Manage the list of establishments](manage-establishment-list.md)**  
 Manage the establishment list for your organization​. The recordable injury and illness records are grouped using this establishment information for auto-filing and exporting the reports such as OSHA 300 and 300A forms.
--   **[Add total hours worked for an establishment](../task/add-hs-total-hours-worked-establishment.md)**  
+-   **[Add total hours worked for an establishment](add-hs-total-hours-worked-establishment.md)**  
 Add the total hours worked for an establishment annually.
 -   **[Health and Safety Incident Management OSHA Content Pack](generating-osha-forms.md)**  
 With the ServiceNow® Health and Safety Incident Management OSHA Content Pack application, you can automatically fill and export OSHA forms for injuries and illnesses that happened in an establishment under your organization.

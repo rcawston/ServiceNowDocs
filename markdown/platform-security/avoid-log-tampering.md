@@ -26,7 +26,7 @@ If you are a security\_admin, activate the Protected Tables plugin \(com.glide.p
 
 **Note:** The com.glide.protected\_tables plugin gives protection only to the system log tables mentioned above. Any attempt to update, insert or delete a record logs a message in the protected\_table\_log table.
 
-See [Installing and configuring the log protection plugin](../task/accept-log-protection.md) for more details.
+See [Installing and configuring the log protection plugin](accept-log-protection.md) for more details.
 
 You can specify one of the following log protection levels for each of the system log table.
 
@@ -43,5 +43,5 @@ If there have been any attempts to modify the system log tables, they are logged
 
 **Note:** If the protection level is not specified for a table, any attempts of modification are not logged into the protected\_table\_log table.
 
-In order to disable the plugin operations on tables in the Admin Panel, set the com.glide.security.protected\_table.enabled property to false. See [Create log protection property](../task/log-protection-property.md) for more information.
+In order to disable the plugin operations on tables in the Admin Panel, set the com.glide.security.protected\_table.enabled property to false. See [Create log protection property](log-protection-property.md) for more information.
 

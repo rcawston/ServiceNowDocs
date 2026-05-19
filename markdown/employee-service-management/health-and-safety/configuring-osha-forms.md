@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Install Health and Safety Incident Management OSHA Content Pack](../task/install-hs-osha-content-pack.md)
+[Install Health and Safety Incident Management OSHA Content Pack](install-hs-osha-content-pack.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Install the Health and Safety Incident Management OSHA Content Pack application 
 
 </td></tr><tr><td>
 
-[Manage establishment list](../task/manage-establishment-list.md)
+[Manage establishment list](manage-establishment-list.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Update the establishment list for your organization. The OSHA recordable injury 
 
 </td></tr><tr><td>
 
-[Update saved PDF templates for OSHA forms](../task/update-osha-form-pdf-template.md)
+[Update saved PDF templates for OSHA forms](update-osha-form-pdf-template.md)
 
 </td><td>
 
@@ -51,16 +51,16 @@ Check if the saved PDF templates for the OSHA 300, 300A, and 301 forms are updat
 
 </td></tr><tr><td>
 
-[Configure OSHA system properties](../reference/properties-installed-osha-content-pack.md)
+[Configure OSHA system properties](properties-installed-osha-content-pack.md)
 
 </td><td>
 
 Modify the OSHA base system properties, if required, to configure PDF templates for OSHA forms.
 
 </td></tr></tbody>
-</table>-   **[Install Health and Safety Incident Management OSHA Content Pack](../task/install-hs-osha-content-pack.md)**  
+</table>-   **[Install Health and Safety Incident Management OSHA Content Pack](install-hs-osha-content-pack.md)**  
 You can install the Health and Safety Incident Management OSHA Content Pack application \(com.snc.sn\_hs\_im\_osha\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
--   **[Update an OSHA form PDF template](../task/update-osha-form-pdf-template.md)**  
+-   **[Update an OSHA form PDF template](update-osha-form-pdf-template.md)**  
 Update a saved OSHA form PDF template if changes to an OSHA form PDF file are required.
 
 **Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](generating-osha-forms.md)

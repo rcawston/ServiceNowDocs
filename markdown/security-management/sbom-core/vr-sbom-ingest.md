@@ -89,9 +89,9 @@ These values help you associate this SBOM to a business application or product m
 The BOM queue page is displayed and the file is listed on the SBOM ingestion section along with upload status other information about the file.
 
 </td></tr></tbody>
-</table>2.  Upload SBOM files imported by the [Veracode Vulnerability Integration](../../veracode/concept/veracode-vuln-integration.md).
+</table>2.  Upload SBOM files imported by the [Veracode Vulnerability Integration](../application-vulnerability-response/veracode-vuln-integration.md).
 
-    **Note:** You can upload Veracode files in CycloneDX \(JSON and XML\) and SPDX \(XML\) formats only if you have installed and activated the Veracode integration with Application Vulnerability Response. See the [Veracode Vulnerability Integration](../../veracode/concept/veracode-vuln-integration.md) for more information.
+    **Note:** You can upload Veracode files in CycloneDX \(JSON and XML\) and SPDX \(XML\) formats only if you have installed and activated the Veracode integration with Application Vulnerability Response. See the [Veracode Vulnerability Integration](../application-vulnerability-response/veracode-vuln-integration.md) for more information.
 
 
 ## Result
@@ -104,5 +104,5 @@ After an SBOM is successfully processed, where you view the upload status depend
 **Related topics**  
 
 
-[Uploading Software Bill of Materials files using a REST API](../concept/vr-sbom-preparing-upload.md)
+[Uploading Software Bill of Materials files using a REST API](vr-sbom-preparing-upload.md)
 

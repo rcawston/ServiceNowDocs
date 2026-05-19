@@ -50,8 +50,8 @@ The playbook automates the creation of all related work across units and organiz
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Standardize and automate routine operational tasks.|[Create a care team task plan using the Operational rounding playbook](../task/ctwm-operational-rounding-playbook.md)|Operational Leader|
-|Improve visibility into operational performance at a unit level.|[Track care team task plans](../task/ctwm-track-care-team-task-plans.md)|Operational Leader, Care Team Agent Manager|
+|Standardize and automate routine operational tasks.|[Create a care team task plan using the Operational rounding playbook](ctwm-operational-rounding-playbook.md)|Operational Leader|
+|Improve visibility into operational performance at a unit level.|[Track care team task plans](ctwm-track-care-team-task-plans.md)|Operational Leader, Care Team Agent Manager|
 |Fulfill cases and task created from task plans.|[Fulfilling care team task plans](ctwm-fulfilling.md)|Care Team Agent, Care Team Agent Manager, Support Agents|
 
 ## What to explore next
@@ -59,8 +59,8 @@ The playbook automates the creation of all related work across units and organiz
 To learn more about configuring and using Care Team Work Management, see:
 
 -   [Configuring Care Team Work Management](ctwm-configuring.md)
--   [Create a care team task plan using the Operational rounding playbook](../task/ctwm-operational-rounding-playbook.md)
--   [Track care team task plans](../task/ctwm-track-care-team-task-plans.md)
+-   [Create a care team task plan using the Operational rounding playbook](ctwm-operational-rounding-playbook.md)
+-   [Track care team task plans](ctwm-track-care-team-task-plans.md)
 -   [Fulfilling care team task plans](ctwm-fulfilling.md)
 -   [Care Team Work Management reference](ctwm-reference.md)
 

@@ -27,7 +27,7 @@ Pattern vocabulary items use regular expressions \(regex\) to find variations of
 
 In this example scenario, you've created an NLU Virtual Agent model for requests related to authentication. To refer to multi-factor authentication, your users often use "MFA", "mfa", or "mfa authentication". You can provide a pattern to cover these variations. They are replaced with the matching synonym multi-factor authentication when predicting an intent.
 
-See [Using regular expressions in entities](../concept/using-regular-expressions-nlu.md) for further details on regular expressions.
+See [Using regular expressions in entities](using-regular-expressions-nlu.md) for further details on regular expressions.
 
 ## Procedure
 
@@ -59,7 +59,7 @@ See [Using regular expressions in entities](../concept/using-regular-expressions
 **Related topics**  
 
 
-[NLU vocabulary](../concept/using-nlu-vocabulary.md)
+[NLU vocabulary](using-nlu-vocabulary.md)
 
-[Using regular expressions in entities](../concept/using-regular-expressions-nlu.md)
+[Using regular expressions in entities](using-regular-expressions-nlu.md)
 

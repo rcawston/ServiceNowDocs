@@ -21,7 +21,7 @@ With the Entity form, you can see the common controls that the current entity or
 
 You can also see the common controls that the current entity relies on by using the **Show directly related inherited controls** button and the **Show all inherited controls** button. These buttons display the common controls that the downstream entities are reliant on.
 
-To learn more about the common controls, see [Common controls in risk management](../../grc-workspace-risk/concept/shared-common-controls-in-risk-management.md).
+To learn more about the common controls, see [Common controls in risk management](../grc-risk-management-workspace/shared-common-controls-in-risk-management.md).
 
 The Downstream Controls related list also displays the common controls that the current entity or its downstream entities use to implement the common controls. By using the Function column in the form, you can differentiate between the standard and common controls. The following example shows the downstream inherited controls.
 

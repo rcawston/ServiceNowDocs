@@ -27,7 +27,7 @@ Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
 </td><td>
 
-[IT Discovery for Operational Technology \(OT\) Networks](../../mftg-manufacturing-oper-tech-mgr/concept/discovery-for-operational-technology.md)
+[IT Discovery for Operational Technology \(OT\) Networks](discovery-for-operational-technology.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -31,7 +31,7 @@ The following items are installed with Compliance Case Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Tables installed with Compliance Case Management](../reference/tables-compliance-case-management.md) and [Roles installed with Compliance Case Management](../reference/roles-compliance-case-management.md).
+For more information, see [Tables installed with Compliance Case Management](tables-compliance-case-management.md) and [Roles installed with Compliance Case Management](roles-compliance-case-management.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information, see [Tables installed with Compliance Case Management](../
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](configure-compliance-case-management.md)
 

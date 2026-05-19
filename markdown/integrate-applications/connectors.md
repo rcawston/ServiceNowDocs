@@ -15,7 +15,7 @@ The Connectors provide specialized abilities, such as automating tasks with Micr
 
 Connectors reside in the ServiceNow® app store and become available to you when the RPA Desktop Design Studio connects to the appropriate RPA Hub instance.
 
-Some connectors are available by default under the Toolbox pane while you must install the rest. To install, see [Manage plugins in RPA Desktop Design Studio](../task/install-plugins-rpa-studio.md).
+Some connectors are available by default under the Toolbox pane while you must install the rest. To install, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
 
 When set up, Connector methods work just like the components. You connect methods with connectors and vice versa to create an automation.
 
@@ -30,9 +30,9 @@ The example shows the Microsoft Word connector and its methods.![Use Connectors.
 
 To use a connector, see
 
--   [Manage plugins in RPA Desktop Design Studio](../task/install-plugins-rpa-studio.md)
--   [Use a connector in RPA Desktop Design Studio](../task/use-connector.md)
--   [Use connector method](../task/use-connector-method.md)
+-   [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md)
+-   [Use a connector in RPA Desktop Design Studio](use-connector.md)
+-   [Use connector method](use-connector-method.md)
 
 -   **[Chromium connector](chrome-connector.md)**  
 The Chromium connector enables you to interact with various elements in web applications running on Google Chrome or Microsoft Edge Edge and build automations around them.
@@ -56,7 +56,7 @@ The Java connector enables you to perform various actions on Java applications a
 The JavaScript connector enables you to execute custom JavaScript by writing custom classes and methods and include them as part of you automation in the RPA Desktop Design Studio.
 -   **[Keyvalue pair](keyvaluepair.md)**  
 The KeyValuePair connector enables you to do multiple actions on key value pairs as part of an automation in the RPA Desktop Design Studio. For example, you can create, search, count, or delete key value pairs.
--   **[List](../reference/list-connector.md)**  
+-   **[List](list-connector.md)**  
 The List connector enables you to create, view, search, and do many more actions on list items as part of an automation in the RPA Desktop Design Studio. List items can comprise key value pairs or any regular list item such as a list of employee names.
 -   **[Microsoft Excel](microsoft-excel-connector.md)**  
 The Microsoft Excel connector enables you to perform various actions on a Microsoft Excel document as part of a Robotic Process Automation. For example, open a Microsoft Excel file and export it to the PDF format.
@@ -84,9 +84,9 @@ Create automations for your Windows, Java, and web applications by using the Uni
 The VB.Net connector enables you to write and execute VB.Net scripts as part of a Workflow in RPA Desktop Design Studio.
 -   **[Windows connector](windows-connector.md)**  
 The Windows connector enables you to perform various actions on the Windows applications, and their user interface elements. These actions are performed through the methods provided by the Windows connector. You must configure the connector to expose its methods.
--   **[Application level method parameters](../reuse/application-level-method-parameters.md)**  
+-   **[Application level method parameters](application-level-method-parameters.md)**  
 These parameters pass custom specifications to the various applications such as Java, Google Chrome, Windows, and Mainframe. Based on the specifications, the applications return an output. The process is a part of a Robotic Process Automation.
--   **[Element level method parameters](../reuse/element-level-method-parameters.md)**  
+-   **[Element level method parameters](element-level-method-parameters.md)**  
 These parameters pass custom specifications to the elements in various applications such as Java, Google Chrome, Windows, and Mainframe. Based on the specifications, the applications return an output. The process is a part of a Robotic Process Automation.
 
 **Parent Topic:**[Automation components](rpa-studio-automation-components.md)

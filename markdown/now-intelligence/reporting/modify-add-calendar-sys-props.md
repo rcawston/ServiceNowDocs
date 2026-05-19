@@ -80,7 +80,7 @@ The **glide.ui.date\_format.first\_day\_of\_week** system property modifies the 
 
 **glide.ui.filter.first\_day\_of\_week** must also be set to the same value as **glide.ui.date\_format.first\_day\_of\_week** for the set day to display properly.
 
-If you change the **glide.ui.filter.first\_day\_of\_week** property after collecting Performance Analytics score data, you won't be able to view the scores for weekly indicators. To access them, you must [collect scores](../../performance-analytics/concept/c_ClctData.md) again.
+If you change the **glide.ui.filter.first\_day\_of\_week** property after collecting Performance Analytics score data, you won't be able to view the scores for weekly indicators. To access them, you must [collect scores](../performance-analytics/c_ClctData.md) again.
 
 ### Procedure
 

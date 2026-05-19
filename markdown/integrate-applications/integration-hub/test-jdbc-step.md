@@ -27,7 +27,7 @@ It is mandatory that you test the JDBC step before testing the action. Testing e
 
 1.  Navigate to **All** &gt; **Process Automation** &gt; **Flow Designer**.
 
-2.  [Create an action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) with a [JDBC step](../reference/jdbc-step.md).
+2.  [Create an action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) with a [JDBC step](jdbc-step.md).
 
 3.  Click **Test JDBC Step**.
 

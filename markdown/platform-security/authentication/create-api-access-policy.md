@@ -162,7 +162,7 @@ Option to apply the policy to all tables. This option only applies to policies f
 Determines whether the `WWW-Authenticate` header includes all configured authentication schemes. When set to `false` \(default\), the header includes only the most recently configured authentication profile in the policy. When set to `true`, the header lists all configured authentication schemes.
 
 </td></tr></tbody>
-</table>    **Note:** To understand more about the API access policy prioritization, see [API access policy prioritization](../../inbound-rest/concept/api-access-policy-prioritization.md).
+</table>    **Note:** To understand more about the API access policy prioritization, see [API access policy prioritization](api-access-policy-prioritization.md).
 
 4.  Double-click **Insert a new row**.
 

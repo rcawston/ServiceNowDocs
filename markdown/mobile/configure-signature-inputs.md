@@ -27,7 +27,7 @@ Configure these inputs by using the signature input type with the optional **IsO
 
 **Important:** For HR workflows that use a precondition for an HR Task Signature, these preconditions must be replaced with the new signature input type. Don’t configure both the precondition as an HR Task Signature and the signature input type. Using both is a misconfiguration.
 
-Signature inputs are available [offline](../concept/mobile-offline-mode.md). [Mobile UI rules](../concept/mobile-ui-rules.md) apply to signature inputs.
+Signature inputs are available [offline](mobile-offline-mode.md). [Mobile UI rules](mobile-ui-rules.md) apply to signature inputs.
 
 ## Procedure
 

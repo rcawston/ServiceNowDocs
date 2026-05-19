@@ -29,9 +29,9 @@ AI Control Tower
 
 </td><td>
 
-[Australia Patch 1](../quality/australia-patch-1.md) The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
+[Australia Patch 1](australia-patch-1.md) The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](australia-all-other-fixes.md)
 
 -   Adding legacy AI connections via Service Graph Connectors \(SGC\) is deprecated. In AI connections, under Legacy connections, the **New** button has been removed to block users from creating new connections using SGC.
 
@@ -133,5 +133,5 @@ Third-party Risk Management
 Assessments using entities are no longer supported.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

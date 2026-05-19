@@ -17,7 +17,7 @@ Use data definitions to collect and use pieces of information later in a playboo
 
 ## Before you begin
 
-**Important:** As of the 26.1 release, the **Collect user data** activity is no longer available in the activity picker. The activity will continue to function wherever it is used, but for new activities use the **Questionnaire** activity instead. The **Questionnaire** activity does not require you to create a data definition. To learn more about the **Questionnaire** activity, see [Questionnaire activity](../reference/questionnaire-activity.md).
+**Important:** As of the 26.1 release, the **Collect user data** activity is no longer available in the activity picker. The activity will continue to function wherever it is used, but for new activities use the **Questionnaire** activity instead. The **Questionnaire** activity does not require you to create a data definition. To learn more about the **Questionnaire** activity, see [Questionnaire activity](questionnaire-activity.md).
 
 Role required: admin, flow\_designer
 
@@ -30,7 +30,7 @@ A data definition is the information that you want an agent or fulfiller to coll
 Only use a data definition if:
 
 -   The data is only needed downstream during a single playbook run. It's collected, used, and never needed again.
--   You don't need to run any reports on the collected data. If you need any metrics or reports on the collected data, create a table and use the [User Form activity](../reference/user-form-activity.md) instead.
+-   You don't need to run any reports on the collected data. If you need any metrics or reports on the collected data, create a table and use the [User Form activity](user-form-activity.md) instead.
 
 For example, you may have multiple teams that perform activities. One team enters the inputs for a created data definition when they perform a **Collect user data** activity, and then a second team uses the collected inputs to complete the playbook, and the information is not needed afterwards.
 
@@ -114,7 +114,7 @@ During a playbook run, you can use data definitions to potentially:
 
 ## What to do next
 
-Configure a [**Collect user data** activity](../reference/collect-user-data-activity.md) in Workflow Studio Playbooks to use your new data definition.
+Configure a [**Collect user data** activity](collect-user-data-activity.md) in Workflow Studio Playbooks to use your new data definition.
 
-**Parent Topic:**[Administering Playbooks](../concept/administering-process-automation-designer.md)
+**Parent Topic:**[Administering Playbooks](administering-process-automation-designer.md)
 

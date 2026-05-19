@@ -36,5 +36,5 @@ Role required: admin or pa\_admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](../../operational-technology-management/concept/setting-up-the-otvr-pa-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](setting-up-the-otvr-pa-dashboard.md)
 

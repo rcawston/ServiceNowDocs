@@ -134,5 +134,5 @@ Additional information about the sales contract.
 
 The legal request is created and assigned to the legal sales contract group.
 
-**Parent Topic:**[Sales contract review requests](../concept/legal-request-sales-contracts.md)
+**Parent Topic:**[Sales contract review requests](legal-request-sales-contracts.md)
 

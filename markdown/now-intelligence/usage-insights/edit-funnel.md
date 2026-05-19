@@ -36,5 +36,5 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 6.  Select **Save** to update the funnel configuration.
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](funnel-reports-uxa.md)
 

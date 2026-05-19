@@ -46,5 +46,5 @@ The goal is created for the PI or sprint and is displayed in the **Goals** tab.
 
 ## What to do next
 
-You can add details to your goal or add sub-goals to it by updating its fields. For information on the form fields for a goal, see [Goal form](../../spw-goals/reference/goal-form-egm.md).
+You can add details to your goal or add sub-goals to it by updating its fields. For information on the form fields for a goal, see [Goal form](../scenario-planning-in-spw/goal-form-egm.md).
 

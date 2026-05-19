@@ -62,9 +62,9 @@ Space types
 
 Indicates the Space type column option in the Spaces table record. For example, Workplace/Desks. For more information, see:
 
--   [Properties installed with Workplace Concierge](../reference/properties-installed-with-workplace-concierge.md)
--   [Add a space using Workplace Space Management](../../workplace-space-management/task/add-a-space.md)
--   [Add a space type configuration](../../workplace-service-delivery/task/add-space-type-configuration-wsd.md)
+-   [Properties installed with Workplace Concierge](properties-installed-with-workplace-concierge.md)
+-   [Add a space using Workplace Space Management](../workplace-space-management/add-a-space.md)
+-   [Add a space type configuration](../workplace-core/add-space-type-configuration-wsd.md)
 
 
 </td></tr><tr><td>
@@ -73,7 +73,7 @@ Building
 
 </td><td>
 
-Indicates the building proposed to an employee or a building selected by an employee based on workplace preferences and suggestions. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../../wsd-for-mobile/concept/workplace-preference-schedule.md) and [Set Employee Presence](../concept/use-workplace-concierge.md).
+Indicates the building proposed to an employee or a building selected by an employee based on workplace preferences and suggestions. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../workplace-service-delivery-for-mobile/workplace-preference-schedule.md) and [Set Employee Presence](use-workplace-concierge.md).
 
 </td></tr><tr><td>
 
@@ -87,16 +87,16 @@ System ID of the default Reservable module that is used. For example, the **Desk
 </table>    **Note:** The cached data in the User Space suggestions \(sn\_wsd\_core\_user\_space\_suggestions\) is purged after 48 hours by the application.
 
 
-**Parent Topic:**[Configure workplace space suggestions for employees](../concept/configure-workplace-suggestions.md)
+**Parent Topic:**[Configure workplace space suggestions for employees](configure-workplace-suggestions.md)
 
 **Related topics**  
 
 
 [Space suggestion Configuration](space-suggestion-configuration.md)
 
-[Set Employee Presence](../concept/use-workplace-concierge.md)
+[Set Employee Presence](use-workplace-concierge.md)
 
-[Manage your in-office presence preferences](../../wsd-for-mobile/task/workplace-preferences-emp-center.md)
+[Manage your in-office presence preferences](../workplace-service-delivery-for-mobile/workplace-preferences-emp-center.md)
 
-[Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md)
+[Create a reservation for a day in Workplace](../workplace-service-delivery-for-mobile/manage-schedule-emp-center.md)
 

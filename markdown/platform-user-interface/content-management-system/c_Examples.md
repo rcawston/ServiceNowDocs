@@ -24,5 +24,5 @@ The following examples illustrate setting up access to the following system data
 
 ![Examples include Knowledge, Catalog, Service Portfolio, and Featured reports.](../image/CmsIntegrationPoints.png "Example links to system data")
 
-**Parent Topic:**[View links between system elements and URLs](../task/t_LinkToContent.md)
+**Parent Topic:**[View links between system elements and URLs](t_LinkToContent.md)
 

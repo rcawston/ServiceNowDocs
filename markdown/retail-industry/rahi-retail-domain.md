@@ -26,5 +26,5 @@ Sample use case: When a service provider \(SP\) uses chat to respond to a tenant
 -   For the retail case, the domain column is inherited from the customer service case.
 -   For retail organization, the 'domain\_master' attribute receives information from the Organization Core.
 
-**Parent Topic:**[Retail reference](../concept/rahi-retail-operations-reference.md)
+**Parent Topic:**[Retail reference](rahi-retail-operations-reference.md)
 

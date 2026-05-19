@@ -17,7 +17,7 @@ Configure the Employee Profile for a portal by creating a configuration record a
 
 ## Before you begin
 
-**Note:** The Employee Profile portal configuration is available from Employee Profile version 11.0.3. If you’re upgrading from an earlier version, the profile pages on all portals are updated based on upgrade scenarios. For more information, see [Employee Profile upgrade scenarios](../reference/emp-profile-upgrade.md).
+**Note:** The Employee Profile portal configuration is available from Employee Profile version 11.0.3. If you’re upgrading from an earlier version, the profile pages on all portals are updated based on upgrade scenarios. For more information, see [Employee Profile upgrade scenarios](emp-profile-upgrade.md).
 
 Role required: sn\_employee.admin
 
@@ -29,7 +29,7 @@ Role required: sn\_employee.admin
 
 3.  On the Profile Portal Configuration form, fill in the fields.
 
-    For a description of the field values, see [Employee Profile portal configuration form](../reference/profile-portal-config-form.md).
+    For a description of the field values, see [Employee Profile portal configuration form](profile-portal-config-form.md).
 
 4.  In the tab-mapping section, select **Edit**.
 

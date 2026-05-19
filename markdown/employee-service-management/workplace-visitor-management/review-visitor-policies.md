@@ -23,7 +23,7 @@ Role required: none
 
 When you register a visit to a workplace, or if someone creates a visitor registration on your behalf, you might receive an email about reviewing the workplace policies. You can review and accept the policies based on your preference.
 
-You can also accept the policies on the Workplace Services Kiosk during the visitor check-in process. For more information about the kiosk check-in process, see [Check in using an invite](../../workplace-services-kiosk/task/visitor-check-in.md).
+You can also accept the policies on the Workplace Services Kiosk during the visitor check-in process. For more information about the kiosk check-in process, see [Check in using an invite](../workplace-services-kiosk/visitor-check-in.md).
 
 **Note:** If you accept the policies before your visit, the policies aren't displayed during the kiosk check-in process.
 
@@ -67,14 +67,14 @@ A page opens confirming that you have declined the policies. You can review the 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Registering a visitor](../concept/registerring-a-visitor.md)
+**Parent Topic:**[Registering a visitor](registerring-a-visitor.md)
 
 **Related topics**  
 
 
 [Use the host portal](use-host-portal.md)
 
-[Adding visitors](../concept/adding-visitors.md#)
+[Adding visitors](adding-visitors.md#)
 
 [Make a visitor registration](register-a-guest.md)
 

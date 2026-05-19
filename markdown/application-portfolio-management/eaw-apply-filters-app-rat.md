@@ -52,12 +52,12 @@ Role required: sn\_apm.apm\_read
     -   The List view page displays all business applications, whereas the Bubble chart page displays only assessed applications. As a result, filter results may differ between the two pages.
     -   When you apply a business capability-based filter, business applications associated with the selected capability and also its child capabilities are displayed.
 
-**Parent Topic:**[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+**Parent Topic:**[Working with application rationalization](eaw-work-with-app-rat.md)
 
 **Related topics**  
 
 
-[Rationalization of business applications](../../concept/eaw-concept/eaw-rationalize-business-applications.md)
+[Rationalization of business applications](eaw-rationalize-business-applications.md)
 
-[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+[Working with application rationalization](eaw-work-with-app-rat.md)
 

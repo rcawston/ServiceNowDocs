@@ -33,6 +33,6 @@ Role required:
 
 3.  On the contextual side panel, select the Action Library icon \(![Action library icon](../image/icon-action-library.png)\) and view actions.
 
-    To view the list of actions, see [Digital End-User Experience Remedial Actions](../reference/dex-diff-ra.md).
+    To view the list of actions, see [Digital End-User Experience Remedial Actions](dex-diff-ra.md).
 
 

@@ -53,7 +53,7 @@ Publishing a skill is a two-part process. First, you must finalize at least one 
 
 A Now Assist admin must activate the skill before users can trigger it. To learn more about activating a skill, see [Activate a skill](activate-skill.md).
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

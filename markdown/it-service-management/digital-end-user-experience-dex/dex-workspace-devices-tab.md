@@ -23,7 +23,7 @@ The **Devices by ACC status** tab displays device status, indicating whether eac
 
 Use the  **View agents table ** button to see detailed agent lists and attributes.
 
-For more details on each field, see [Devices list](../reference/devices-form.md).
+For more details on each field, see [Devices list](devices-form.md).
 
 **Note:** Select a device to view the device details page. Similarly, select a device on the user details page to view specific information about the device. For more details on a user's device, see [Device details](dex-workspace-user-details.md) and related subtopics.
 

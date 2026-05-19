@@ -68,7 +68,7 @@ The current state of the policy:-   Active: The policy is **Active** and can be 
 -   Inactive: The policy is **Inactive**, and must be activated before it can be used.
  **Note:** Each policy can only have one Current \(published\) policy version. Only policies that have a Current version can be activated.
 
- See [Manage PaCE policy versions](../concept/pace-policy-versions.md) for details.
+ See [Manage PaCE policy versions](pace-policy-versions.md) for details.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Category
 
 </td><td>
 
-The category assigned to the policy. Only one category can be assigned to a policy. See [Managing categories in PaCE](../concept/pace-categories.md) for details
+The category assigned to the policy. Only one category can be assigned to a policy. See [Managing categories in PaCE](pace-categories.md) for details
 
 </td></tr><tr><td>
 

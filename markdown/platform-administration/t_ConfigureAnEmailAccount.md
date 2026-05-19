@@ -59,7 +59,7 @@ A shared address refers to a shared mailbox that multiple users or team members 
 
 A forwarding address is an email address where emails are automatically redirected or forwarded from another account.
 
- **Note:** Account type is specific to personal corporate mailbox. For more information,see [Personal corporate mailbox](../concept/personal-corporate-mailbox.md).
+ **Note:** Account type is specific to personal corporate mailbox. For more information,see [Personal corporate mailbox](personal-corporate-mailbox.md).
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../concept/system-address-filters.md).
+ For more information, see [System address filters](system-address-filters.md).
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
@@ -218,5 +218,5 @@ The system uses the email account to send or receive email.
 
 Enable the system to send or receive email.
 
-**Parent Topic:**[Email accounts](../concept/c_EmailAccounts.md)
+**Parent Topic:**[Email accounts](c_EmailAccounts.md)
 

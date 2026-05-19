@@ -51,7 +51,7 @@ Verify that the task is set to automatic scheduling. Constraints apply only to a
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -71,7 +71,7 @@ Verify that the task is set to automatic scheduling. Constraints apply only to a
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 
@@ -83,5 +83,5 @@ Verify that the task is set to automatic scheduling. Constraints apply only to a
 
 [Migrate financial baselines of projects to Next Experience](migrate-fin-baselines-projects.md)
 
-[Task constraints](../concept/task-constraints-project-management.md)
+[Task constraints](task-constraints-project-management.md)
 

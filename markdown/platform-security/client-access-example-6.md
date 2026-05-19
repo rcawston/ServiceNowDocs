@@ -74,5 +74,5 @@ In these steps, you create a Workflow Studio workflow to create a text file on y
 12. Select the **Save** button to save the workflow.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](client-access-secret-landing.md)
 

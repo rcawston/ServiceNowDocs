@@ -64,5 +64,5 @@ Description
 
 [Create a project](create-project.md) in your workspace. You can create multiple projects of different project types within a workspace.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

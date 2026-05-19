@@ -44,8 +44,8 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
     CONNECT_WITHOUT_MID="true" ACC_CNC="<gateway_endpoint>" REGISTRATION_KEY="<registration_key>" INSTANCE_URL="https://<instance_url>" bash -c "$(curl -L https://<instance_url>/api/sn_agent/agents/install_agent)"
     ```
 
-    For details on the parameter values in the command, see [Agent Client Collector MID-less installation command parameters](../reference/acc-ics-command-params.md).
+    For details on the parameter values in the command, see [Agent Client Collector MID-less installation command parameters](acc-ics-command-params.md).
 
 
-**Parent Topic:**[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+**Parent Topic:**[Installing MID-less Agent Client Collector](acc-itom-cloud-services.md)
 

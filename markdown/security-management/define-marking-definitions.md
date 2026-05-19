@@ -74,5 +74,5 @@ Marked Indicators
 Lists of indicators marked with the marking definition.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Marking definitions](../concept/marking-definitions.md)
+</table>**Parent Topic:**[Marking definitions](marking-definitions.md)
 

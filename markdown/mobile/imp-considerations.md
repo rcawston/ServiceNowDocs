@@ -27,7 +27,7 @@ Configure Siri shortcuts to give your users quick access to common app functions
 Use the camera on your mobile device to scan barcodes into your instance using mobile applications.
 -   **[Mobile plugins and upgrades](plugins-upgrades.md)**  
 Learn about upgrading to ServiceNow mobile, and how to install plugins to get your users started with the ServiceNow mobile platform.
--   **[AppConfig for Mobile Apps](../reference/appconfig.md)**  
+-   **[AppConfig for Mobile Apps](appconfig.md)**  
 Use AppConfig to define a default instance and browser for your managed mobile apps.
 -   **[Supported mobile device management vendors](mobile-vendors.md)**  
 Learn how to configure mobile device management software from supported vendors to distribute ServiceNow mobile apps.

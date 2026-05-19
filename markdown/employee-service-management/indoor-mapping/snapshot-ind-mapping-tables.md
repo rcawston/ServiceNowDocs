@@ -54,7 +54,7 @@ The following tables are affected during the snapshot process.
 -   sn\_map\_core\_m2m\_view\_type\_campus\_direction\_mode
 -   sn\_map\_core\_m2m\_view\_type\_campus\_reader
 
-**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Indoor Mapping terminology](indoor-mapping-common-terminology.md)
 
@@ -63,5 +63,5 @@ The following tables are affected during the snapshot process.
 **Related topics**  
 
 
-[Create Snapshots to migrate Indoor Mapping data](../task/snapshot-ind-mapping.md)
+[Create Snapshots to migrate Indoor Mapping data](snapshot-ind-mapping.md)
 

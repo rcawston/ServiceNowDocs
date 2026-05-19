@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the CreateDirectory component. For more information about these properties, see [Properties of the Directory components](../reference/util-directory-prop.md).
+You can configure the properties for the CreateDirectory component. For more information about these properties, see [Properties of the Directory components](util-directory-prop.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ You can configure the properties for the CreateDirectory component. For more inf
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Directory](../concept/directory.md)
+**Parent Topic:**[Directory](directory.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Install the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. Optionally, install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for an example Field Service Work Configurations workflow. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. For more information on the components installed with the plugins, see [Field Service Work Configurations components](../reference/work-configuration-components.md).
+Install the Field Service Work Configurations plugin \(com.snc.fsm\_work\_types\) to activate Field Service Work Configurations. Optionally, install the Field Service Demo Work Configuration for Break fix \(com.snc.fsm\_mri\_scanner\_breakfix\_work\_config\) plugin for an example Field Service Work Configurations workflow. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed. For more information on the components installed with the plugins, see [Field Service Work Configurations components](../work-configuration-components.md).
 
 ## Procedure
 

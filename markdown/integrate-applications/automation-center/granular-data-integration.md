@@ -107,5 +107,5 @@ Specify the time that is saved per work item.
     The queue remains, however, granular data integration isn’t used to calculate the time and cost saved.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 

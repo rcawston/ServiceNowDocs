@@ -46,10 +46,10 @@ In the portal menu header, navigate to **Requests** &gt; **Request Something**.
 
 3.  In the card disputes case intake page, fill in the information that is related to the request.
 
-    For more information on the various stages of the card disputes case within the playbook, see [Workflow](../concept/dispute-management-workflows.md)
+    For more information on the various stages of the card disputes case within the playbook, see [Workflow](dispute-management-workflows.md)
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[About dispute intake](../concept/dispute-intake-overview.md)
+**Parent Topic:**[About dispute intake](dispute-intake-overview.md)
 

@@ -50,7 +50,7 @@ Role required: sn\_si.analyst
 
 Verify the lookup results on the security incident. See [Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md).
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](reversewhois-lookups.md)
 
 **Previous topic:**[\(Optional\) Install and configure Whois](whois-install-and-config.md)
 

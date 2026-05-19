@@ -42,10 +42,10 @@ Role required: sn\_critical.agent
     **Note:** You can also open the Manage recipients form by selecting the More actions icon \(![More actions icon](../../legal-request-management/image/more-actions-icon.png)\) on the communication task.
 
 
-**Parent Topic:**[Sending notifications during a critical event](../task/notify-impacted-people.md)
+**Parent Topic:**[Sending notifications during a critical event](notify-impacted-people.md)
 
 **Related topics**  
 
 
-[Create a communication task](../task/create-new-communication.md)
+[Create a communication task](create-new-communication.md)
 

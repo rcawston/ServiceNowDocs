@@ -31,11 +31,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Configure roles, team data, team requests, important dates, team column data, team filters, daily stats, and Employee Center and other Service Portals. Display curated and personalized data to managers in Manager Hub.
 
-To learn more about this, see [Configure Manager Hub](../task/set-up-managerhub.md) and [Reference for Manager Hub](../reference/reference-manager-hub.md).
+To learn more about this, see [Configure Manager Hub](set-up-managerhub.md) and [Reference for Manager Hub](reference-manager-hub.md).
 
 ## 3. Using Manager Hub in Employee Center
 
 Have a better engagement with your team — Act on items that need immediate attention, keep yourself up-to-date on upcoming team events and employee transitions, and expand your leadership skills.
 
-To learn more about this, see [Use Manager Hub](../task/use-manager-hub.md).
+To learn more about this, see [Use Manager Hub](use-manager-hub.md).
 

@@ -470,11 +470,11 @@ Enter weight for heatmap. Determines the intensity of a data point on the heatma
 </td></tr></tbody>
 </table>4.  Change the color gradient of the visualization using the Heatmap Gradient \(sn\_cmn\_mo.HeatmapGradient\) extension point.
 
-    For more information, see [Extension points in Field Service Management](../reference/extension-points-field-service.md).
+    For more information, see [Extension points in Field Service Management](extension-points-field-service.md).
 
 5.  Change the opacity level and the radius that influence the data point in the heatmap.
 
-    For more information, see [Field Service Territory Planning console properties](../reference/territory-planning-components-fsm.md#).
+    For more information, see [Field Service Territory Planning console properties](territory-planning-components-fsm.md#).
 
 6.  Create a map overlay definition, link the overlay definition and data item.
 

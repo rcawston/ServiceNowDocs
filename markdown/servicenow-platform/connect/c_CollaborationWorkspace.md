@@ -31,7 +31,7 @@ The Connect workspace is composed of the following elements.
 
 The conversation pane of the Connect workspace displays the conversation header and an expanded version of the mini window.
 
-The header displays basic conversation details like the avatar and name. You can [edit these details](../task/t_EditBasicConversationDetails.md) for group or record conversations.
+The header displays basic conversation details like the avatar and name. You can [edit these details](t_EditBasicConversationDetails.md) for group or record conversations.
 
 Below the header, messages appear in chronological order. You can enter messages in the text entry field at the bottom of the window.
 
@@ -91,7 +91,7 @@ Knowledge Base
 
 </td><td>
 
-Displays a compact view of the knowledge homepage. For more information, see [Share knowledge in a Connect Support conversation](../task/t_ShareKnowledgeInConnectSupport.md).
+Displays a compact view of the knowledge homepage. For more information, see [Share knowledge in a Connect Support conversation](t_ShareKnowledgeInConnectSupport.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Notification preferences
 
 </td><td>
 
-Contains settings to control which notifications you receive for the current conversation. For more information, see [Edit which notifications you receive for a conversation](../task/t_EditNotifRecAConv.md).
+Contains settings to control which notifications you receive for the current conversation. For more information, see [Edit which notifications you receive for a conversation](t_EditNotifRecAConv.md).
 
 </td></tr></tbody>
 </table>

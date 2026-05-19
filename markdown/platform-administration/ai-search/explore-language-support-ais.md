@@ -122,19 +122,19 @@ All other ServiceNow AI Platform languages activated in your instance
 
 By default, AI Search only returns results for records with translated content, such as knowledge articles, that are in the user's ServiceNow AI Platform session language. You can modify this default behavior in several ways:
 
--   **[Assign Knowledge article search languages by country](../task/assign-kb-srch-langs-country-ais.md)**
+-   **[Assign Knowledge article search languages by country](assign-kb-srch-langs-country-ais.md)**
 
     Improve multilingual search recall by defining a set of Knowledge article search languages for each user country. User searches can match Knowledge articles in any of the search languages specified for their country as well as in the language associated with their ServiceNow AI Platform session.
 
--   **[Configure globally searchable knowledge articles](../task/configure-global-srch-kb-articles.md)**
+-   **[Configure globally searchable knowledge articles](configure-global-srch-kb-articles.md)**
 
     Define an encoded query to match knowledge articles that you want to make searchable regardless of the user's session language.
 
 -   **[Configure a fallback language](interaction-fallback-language-ais.md)**
 
-    [Set a fallback language](../../localization/task/set-fallback-language.md) for the user's session language. AI Search returns translated content results from the selected fallback language as well as the user's session language.
+    [Set a fallback language](../system-localization/set-fallback-language.md) for the user's session language. AI Search returns translated content results from the selected fallback language as well as the user's session language.
 
--   **[Enable a global fallback locale for translated content](../task/enable-global-fallback-lang-ais.md)**
+-   **[Enable a global fallback locale for translated content](enable-global-fallback-lang-ais.md)**
 
     Configure a global fallback locale to use for all translated content searches. AI Search returns translated content results from the global fallback locale's language as well as the user's session language.
 

@@ -75,7 +75,7 @@ Show or hide the Board views from the Views tab of the Personalize side panel.
 
 ## What to do next
 
-After changing the way data is displayed on your Board, you have the option of saving it as a personal view for your reference or a shared view for your team or stakeholders. For more information, see [Board views in CWM](../concept/board-views-in-cwm.md).
+After changing the way data is displayed on your Board, you have the option of saving it as a personal view for your reference or a shared view for your team or stakeholders. For more information, see [Board views in CWM](board-views-in-cwm.md).
 
-**Parent Topic:**[List, Gantt, and Kanban views in CWM](../concept/cwm-board-views.md)
+**Parent Topic:**[List, Gantt, and Kanban views in CWM](cwm-board-views.md)
 

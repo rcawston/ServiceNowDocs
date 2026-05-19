@@ -79,7 +79,7 @@ Quickly search for assets in your environment based on conditions you set.
 
 Verify that you can locate assets with a set of conditions before you commit those conditions to a policy. You can refine these searches so you get a preview of assets that meet your search criteria. When you are ready, you can save your conditions as a policy.
 
- See [Create an asset search in Security Posture Control](../task/spc-asset-search.md).
+ See [Create an asset search in Security Posture Control](spc-asset-search.md).
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Asset profiles
 
 Create and define asset profiles to monitor different categories of devices with your SPC policies. Incorporate your asset profiles into your policies so you can run policies for specific types of assets. Filter the insights in the Configured Insights dashboard so they are based on your asset profiles.
 
-See [Create an asset profile in Security Posture Control](../task/asset-profile.md).
+See [Create an asset profile in Security Posture Control](asset-profile.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Create your own data visualizations. Custom insights provide you with visual rep
 
  Once you activate them, your custom insights are displayed on the dashboard in the Configured insights module. You can determine where data for an insight is displayed on the dashboard by using Groups.
 
- See [Create and activate a configured insight for Security Posture Control](../task/spc-create-custom-insight.md).
+ See [Create and activate a configured insight for Security Posture Control](spc-create-custom-insight.md).
 
 </td></tr></tbody>
 </table>## Using the modules of the workspace to identify gaps in tool coverage
@@ -149,9 +149,9 @@ Identifying security tool gaps involves the following steps:
 
 ## Creating your own policies
 
-See [Creating your own policies in the Security Posture Control application](../task/spc-creating-policies.md) for more information about how to create your own policies.
+See [Creating your own policies in the Security Posture Control application](spc-creating-policies.md) for more information about how to create your own policies.
 
-See [Create and activate custom policies for Security Posture Control](../task/spc-create-policy.md) for more information about the steps required to create a policy.
+See [Create and activate custom policies for Security Posture Control](spc-create-policy.md) for more information about the steps required to create a policy.
 
 For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md).
 

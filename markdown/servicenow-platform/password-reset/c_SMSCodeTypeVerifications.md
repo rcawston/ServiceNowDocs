@@ -73,9 +73,9 @@ Maximum number of codes sent for verification in one day.**Data Type**: integer 
 </td></tr></tbody>
 </table>## User experience
 
-For information on how users enroll for SMS verification, see [Enroll for the Password Reset program using SMS codes](../task/t_EnrollUsingSMS.md).
+For information on how users enroll for SMS verification, see [Enroll for the Password Reset program using SMS codes](t_EnrollUsingSMS.md).
 
--   **[Use Notify to send SMS codes for enrollment and verification](../task/t_NotifyForSMSVerification.md)**  
+-   **[Use Notify to send SMS codes for enrollment and verification](t_NotifyForSMSVerification.md)**  
 You can configure the Password Reset application to send SMS codes for enrollment and verification using the ServiceNow Notify application \(via the Twilio SMS Messaging system\). Notify is tightly integrated with the workflow engine and business rules and delivers a highly configurable and trusted way to deliver SMS messages.
 
 **Parent Topic:**[Password Reset verifications](c_PWRVerifications.md)

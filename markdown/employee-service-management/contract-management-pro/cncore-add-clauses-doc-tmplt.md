@@ -35,7 +35,7 @@ If you want the variables related to contract request to be available in conditi
 
 4.  On the form, fill in the fields.
 
-    For more information on fields, see [Clause Variation form](../reference/cncore-cv-form.md).
+    For more information on fields, see [Clause Variation form](cncore-cv-form.md).
 
 5.  Right-click in the form header and select **Save**.
 
@@ -60,5 +60,5 @@ If you want the variables related to contract request to be available in conditi
 9.  In the Clause Variation form, save the clause variation by selecting **Update**.
 
 
-**Parent Topic:**[Configure dynamic clauses for contract templates](../concept/cncore-clause-and-cv.md)
+**Parent Topic:**[Configure dynamic clauses for contract templates](cncore-clause-and-cv.md)
 

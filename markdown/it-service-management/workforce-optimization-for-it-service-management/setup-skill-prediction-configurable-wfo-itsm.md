@@ -25,7 +25,7 @@ Role required: sn\_sre.admin
 
 ## Procedure
 
-1.  Configure the [properties for the Skill Recommendation application](../reference/configurable-wfo-itsm-skill-recommendation-reference.md).
+1.  Configure the [properties for the Skill Recommendation application](configurable-wfo-itsm-skill-recommendation-reference.md).
 
 2.  Run the solution definition models to train the supervised and unsupervised solutions.
 
@@ -39,5 +39,5 @@ Role required: sn\_sre.admin
 -   **[Use extension points for skill prediction](extension-points-skill-prediction-wfo-itsm.md)**  
 Use scripted extension points to customize skill prediction for tasks.
 
-**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)
 

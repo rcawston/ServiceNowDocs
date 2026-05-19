@@ -23,8 +23,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md).
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](../cmdb-integration-commons/integration-commons-for-cmdb.md).
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   The ITOM Licensing plugin \(com.snc.itom.license\). See [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 
 Role required: admin
@@ -297,9 +297,9 @@ Password of your Trellix account.
 **Related topics**  
 
 
-[Service Graph Connector for Trellix](../concept/sgc-integration-trellix.md)
+[Service Graph Connector for Trellix](sgc-integration-trellix.md)
 
-[CMDB classes targeted in Service Graph Connector for Trellix](../reference/cmdb-trellix-classes.md)
+[CMDB classes targeted in Service Graph Connector for Trellix](cmdb-trellix-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Trellix](../concept/sgc-trellix-conn.md#)
+[Accessing the connection details of Service Graph Connector for Trellix](sgc-trellix-conn.md#)
 

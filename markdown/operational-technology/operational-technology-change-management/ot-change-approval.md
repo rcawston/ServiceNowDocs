@@ -41,8 +41,8 @@ The OT change approval flow is as follows.
 
 The Advanced OT Change Model contains a change approval policy. You can also create your own approval policy. For more information about how to create an approval policy, see [Create change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md).
 
--   **[Add an approver to review a change request](../task/select_an_approval_group.md)**  
+-   **[Add an approver to review a change request](select_an_approval_group.md)**  
 Add a group member, or approver, manually to your approval group to review your Operational Technology \(OT\) change request.
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

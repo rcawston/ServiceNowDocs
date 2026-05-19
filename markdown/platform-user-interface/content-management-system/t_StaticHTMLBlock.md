@@ -46,7 +46,7 @@ Anyone who edits their own HTML, Jelly, or Javascript may find the HTML editor i
 -   **[Format an image as a static HTML block](t_AddAnImageAsAStaticHTMLBlock.md)**  
 An easy way to add an image to a CMS page is to use a static HTML block. After the block is created, you can reuse it throughout the site.
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
@@ -67,7 +67,7 @@ An easy way to add an image to a CMS page is to use a static HTML block. After t
 
 [Configure a detailed content block](t_DetailedContentBlock.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a content block](t_CreateAContentBlock.md)
 

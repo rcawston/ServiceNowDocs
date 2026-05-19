@@ -39,7 +39,7 @@ Role required: sn\_ot\_incident\_write, sn\_ot\_incident\_admin, or sn\_ot\_chan
 
 7.  Fill in the playbook and related forms as needed.
 
-    For more information about the playbook and related forms, see [Basic OT Change Model playbook](../concept/basic-ot-change-model.md) and [Advanced OT Change Model playbook](../concept/advanced-ot-change-model.md) depending on which OT change model you chose.
+    For more information about the playbook and related forms, see [Basic OT Change Model playbook](basic-ot-change-model.md) and [Advanced OT Change Model playbook](advanced-ot-change-model.md) depending on which OT change model you chose.
 
     **Note:** In the Details related list of the new change request, the following fields and related lists are automatically filled in with the values from the related OT incident record:
 
@@ -53,5 +53,5 @@ Role required: sn\_ot\_incident\_write, sn\_ot\_incident\_admin, or sn\_ot\_chan
         **Note:** A **Priority** field value from 1 through 4 is the same in the new change record. But a value of 5 in the incident record's **Priority** field is changed to 4 in the new change record.
 
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

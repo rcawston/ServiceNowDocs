@@ -20,5 +20,5 @@ This includes global, forum, and topic levels achieved. A user, or any of their 
 -   When a user advances a level \(global, forum, or topic\)
 -   When a user earns a badge
 
-**Parent Topic:**[Gamification user interface components](../concept/communities-gamification-UI.md)
+**Parent Topic:**[Gamification user interface components](communities-gamification-UI.md)
 

@@ -39,7 +39,7 @@ Activate the Third-party Risk Management \(com.sn\_vdr\_risk\_asmt\) plugin.
 
  To verify that this plugin is activated, navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.
 
- For more information, see [Configuring Third-party Risk Management](../../grc-vendor-risk/concept/tprm-configuring.md) and the instructions for activating an entitled GRC application from the ServiceNow® Store: [Activate an entitled GRC ServiceNow Store application](../../grc-common/task/activate-entitled-grc-app.md) and [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+ For more information, see [Configuring Third-party Risk Management](../third-party-risk-management/tprm-configuring.md) and the instructions for activating an entitled GRC application from the ServiceNow® Store: [Activate an entitled GRC ServiceNow Store application](../activate-entitled-grc-app.md) and [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -57,5 +57,5 @@ Activate the Third-party Risk Management \(com.sn\_vdr\_risk\_asmt\) plugin.
     **Note:** When uninstalling the app, select the check box to retain the profile types profiles and indicators.
 
 
-**Parent Topic:**[Standardized Information Gathering \(SIG\) Questionnaire Integration](../concept/grc-sig-integration.md)
+**Parent Topic:**[Standardized Information Gathering \(SIG\) Questionnaire Integration](grc-sig-integration.md)
 

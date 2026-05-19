@@ -145,5 +145,5 @@ When true, displays a visual cue that record values include an expanded domain s
 </table>**Related topics**  
 
 
-[Domain separation application properties](../concept/ds-application-properties.md)
+[Domain separation application properties](ds-application-properties.md)
 

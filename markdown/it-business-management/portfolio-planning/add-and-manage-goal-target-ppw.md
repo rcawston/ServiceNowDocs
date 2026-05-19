@@ -37,7 +37,7 @@ Role required: it\_demand\_manager
     -   To update the details of an existing goal/target relationship record, select the record.
 5.  On the form, fill in the fields.
 
-    For field information, see [Create goal/target relationship form](../reference/create-goal-target-relationship-form-ppw.md).
+    For field information, see [Create goal/target relationship form](create-goal-target-relationship-form-ppw.md).
 
 6.  Select **Save**.
 
@@ -55,7 +55,7 @@ Role required: it\_demand\_manager
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 
-[Create goal/target relationship form](../reference/create-goal-target-relationship-form-ppw.md)
+[Create goal/target relationship form](create-goal-target-relationship-form-ppw.md)
 

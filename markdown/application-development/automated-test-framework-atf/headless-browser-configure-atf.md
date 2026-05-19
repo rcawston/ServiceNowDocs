@@ -91,7 +91,7 @@ Image name with tag that you downloaded: `ghcr.io/servicenow/atf-headless-runner
 7.  Select **Save**.
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](headless-browser-procedure-linux.md)
 
 **Previous topic:**[Set up instance for Headless Browser in Linux](headless-browser-instance-setup.md)
 

@@ -205,5 +205,5 @@ Approvers of the import document task. This list displays the approval records t
 
 A new citation is inserted or an existing citation is updated.
 
-**Parent Topic:**[Source document import tasks](../concept/source-doc-import-task.md)
+**Parent Topic:**[Source document import tasks](source-doc-import-task.md)
 

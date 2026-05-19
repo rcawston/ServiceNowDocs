@@ -76,6 +76,6 @@ The screens for the first 10 rows load as described in the **prefetch** type. Af
 Use this fetch type when large lists load too slowly using the **prefetch** fetch type.
 
 </td></tr></tbody>
-</table>-   **[Change the fetch type for a screen](../task/change-fetch-type.md)**  
+</table>-   **[Change the fetch type for a screen](change-fetch-type.md)**  
 Change the fetch type of a screen to change when the app loads its data.
 

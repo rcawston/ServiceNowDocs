@@ -45,12 +45,12 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
     **Note:** This functionality is available with the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
 
 [Run segmentation rule](run-segmentation-rule.md)
 

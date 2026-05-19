@@ -17,7 +17,7 @@ Various plugins, script includes, and business rules are installed with the Inci
 
 ## Plugin
 
-The Incident Management for Field Service application \(sn\_fsm\_inc\_mng\) plugin must be activated. For more information on the steps to activate a plugin, see [Install Incident Management for Field Service](../task/Install-incident-for-fsm.md).
+The Incident Management for Field Service application \(sn\_fsm\_inc\_mng\) plugin must be activated. For more information on the steps to activate a plugin, see [Install Incident Management for Field Service](Install-incident-for-fsm.md).
 
 ## Script Includes
 
@@ -132,5 +132,5 @@ Manages actual task time and performs work on site. Agents can view parent incid
 sn\_incident\_read
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+</table>**Parent Topic:**[Integration with Incident Management](incident-for-fsm.md)
 

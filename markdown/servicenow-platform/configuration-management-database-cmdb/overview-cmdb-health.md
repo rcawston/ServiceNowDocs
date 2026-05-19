@@ -36,7 +36,7 @@ The health of the CMDB data is monitored and reported for the following KPIs, ea
 
 After CIs are tested for various health indicators \(metrics\), the results are aggregated at the class, health group, service, and relationship level, and appear on CMDB Health dashboards. For most metrics, you can configure the health tests themselves to determine how compliance and non-compliance of CIs are evaluated.
 
-For more details about the KPIs and their associated metrics, see [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md).
+For more details about the KPIs and their associated metrics, see [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md).
 
 **Note:** CMDB Health doesn't support non-CMDB tables.
 
@@ -93,7 +93,7 @@ Relationship Health Dashboard1.  Navigate to **Workspaces** &gt; **CMDB Workspac
 
 </td><td>
 
-Shows various charts for relationships health, such as duplicate, orphan, and stale relationships. For more information, see [View relationships health](../task/t_ViewRelationshipsHealth.md).
+Shows various charts for relationships health, such as duplicate, orphan, and stale relationships. For more information, see [View relationships health](t_ViewRelationshipsHealth.md).
 
 </td></tr><tr><td>
 
@@ -121,13 +121,13 @@ Configuration
 
 </th></tr></thead><tbody><tr><td>
 
-[CI Class Manager](../reference/ci-class-manager-landing-page.md)**Configuration** &gt; **CI Class Manager**
+[CI Class Manager](ci-class-manager-landing-page.md)**Configuration** &gt; **CI Class Manager**
 
 </td><td>
 
 Central location to manage CI classes and to configure CMDB health settings. Use the CI Class Manager to Manage rules and definitions that are used for health tests, such as orphan rules, audit certificates, and recommended fields rule.
 
- For information about configuring KPI and metric tests, see [CMDB Health KPIs and metrics](../reference/r_CMDBHealthMetrics.md).
+ For information about configuring KPI and metric tests, see [CMDB Health KPIs and metrics](r_CMDBHealthMetrics.md).
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ Central location for configuring CMDB Health settings:-   Configure CMDB Health 
 </td></tr></tbody>
 </table>## CI remediation
 
-CMDB Health provides a framework for configuring [CI remediation](../task/t_CreateCMDBRemediationRule.md). Remediation lets you proactively apply corrective actions to unhealthy CIs in a managed and standardized fashion.
+CMDB Health provides a framework for configuring [CI remediation](t_CreateCMDBRemediationRule.md). Remediation lets you proactively apply corrective actions to unhealthy CIs in a managed and standardized fashion.
 
 ## Domain separation
 

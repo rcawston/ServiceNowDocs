@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_user or evt\_mgmt\_admin
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../event-management/add-impact-cal-services.md).
 
 3.  Perform the following actions as required.
 
@@ -96,5 +96,5 @@ Filter the information displayed on the dashboard ensuring you focus on relevant
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](workspace-dashboard-use.md)
 

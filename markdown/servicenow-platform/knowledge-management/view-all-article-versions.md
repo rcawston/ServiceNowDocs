@@ -32,5 +32,5 @@ The list of all available versions for a selected knowledge article is displayed
 5.  If desired, click the **View Version** related link to see the article view page.
 
 
-**Parent Topic:**[Use article versioning](../concept/use-article-versioning_0.md)
+**Parent Topic:**[Use article versioning](use-article-versioning_0.md)
 

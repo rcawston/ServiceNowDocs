@@ -42,7 +42,7 @@ With the Sales CRM applications, your organization can improve sales and order p
 |Set the pricing for your products through price lists, contextual price controls, and if needed, pricing from external systems.|[Pricing Management](pricing-management.md)|Pricing administrator or manager|
 |Create and manage sales quotes, which are formal offers for products or services that agents propose to customers.|[Quote Management](quote-management.md)|Sales agent|
 |Define workflows for approving Sales Customer Relationship Management entities, such as customer quotes, in your sales organization.|[Advanced Approval Management](explore-advanced-approval-for-sales.md)|Sales or business operation managers, members of sales, finance, and legal teams, sales representatives|
-|Create and manage contracts and entitlements from the initial offer to contract finalization.|[Customer Contracts and Entitlements](../../post-sales-support/concept/exploring-post-sales-support.md)|Agent|
+|Create and manage contracts and entitlements from the initial offer to contract finalization.|[Customer Contracts and Entitlements](exploring-post-sales-support.md)|Agent|
 |Create and manage binding agreements between your sales organization and buyers, with specified items, quantities, prices, terms, and effective periods.|[Sales Agreement Management](sales-agreement-mgmt.md)|Sales and order agent|
 
 |Benefits|Application or key feature|Persona|

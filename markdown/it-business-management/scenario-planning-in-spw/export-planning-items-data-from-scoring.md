@@ -38,5 +38,5 @@ Role required: sn\_align\_core.apw\_user
         A file with the selected format is exported. By default, the name of the file is **ABC\_Scoring\_List** where ABC is the name of the portfolio plan you exported the data from.
 
 
-**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](../../spw-scoring/concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
+**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](using-scoring-frameworks-in-startegic-planning-workspace.md)
 

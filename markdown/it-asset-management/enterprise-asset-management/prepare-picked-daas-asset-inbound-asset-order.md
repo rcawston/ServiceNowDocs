@@ -102,5 +102,5 @@ From the navigation menu of the Asset operations view, navigate to **Provider** 
 
 Complete the corresponding Asset ship task by shipping the prepared asset to the customer that the asset is requested for. For detailed instructions, see [Complete the Asset ship task for a requested Device as a Service \(DaaS\) asset](ship-prepared-daas-asset-inbound-asset-order.md).
 
-**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md)
+**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](completing-inbound-asset-order-daas-assets.md)
 

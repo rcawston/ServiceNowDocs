@@ -68,7 +68,7 @@ Synchronize reservations using a connection with the Microsoft Exchange Online s
 
 [Setup strict mode OAuth connectivity with Microsoft Exchange Online](setup-strict-mode-oauth-connectivity-with-msex.md)
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 

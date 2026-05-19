@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-You can adjust the frequency of this behavior or turn it off it entirely. For information about turning off the regularly scheduled update and maintaining the Exchange Rate table \[fx\_rate\] manually, see [Use your own currency-conversion rates](t_UseYourOwnConversionTable.md) and [FX Currency fields](../../currency/concept/fx-currency.md).
+You can adjust the frequency of this behavior or turn it off it entirely. For information about turning off the regularly scheduled update and maintaining the Exchange Rate table \[fx\_rate\] manually, see [Use your own currency-conversion rates](t_UseYourOwnConversionTable.md) and [FX Currency fields](fx-currency.md).
 
 ## Procedure
 
@@ -34,5 +34,5 @@ You can adjust the frequency of this behavior or turn it off it entirely. For in
     After the job runs, it stores and loads the rates from the Exchange Rate table. Navigate to **System Localization** &gt; **Exchange Rates** to see the exchange rates.
 
 
-**Parent Topic:**[Default currency conversions](../../currency/concept/currency-conversions.md)
+**Parent Topic:**[Default currency conversions](currency-conversions.md)
 

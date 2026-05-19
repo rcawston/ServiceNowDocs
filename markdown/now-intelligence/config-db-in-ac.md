@@ -18,7 +18,7 @@ You can change a dashboard name, add a description, certify it, configure visibi
 
 You can edit **Dashboard Details** for both dashboards created in UI Builder and dashboards created with the inline editor.
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
     4.  In **Dashboard Visibility**, view, add, or remove workspaces the dashboard can be added to.
 
-        **Important:** Specifying a workspace here does not make the dashboard visible in that workspace. It only enables you to add the dashboard to that workspace. For more information about adding a dashboard to a workspace, see [Add a dashboard to a Dashboards page](../../performance-analytics/task/add-dashboard-to-workspace.md).
+        **Important:** Specifying a workspace here does not make the dashboard visible in that workspace. It only enables you to add the dashboard to that workspace. For more information about adding a dashboard to a workspace, see [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md).
 
     5.  Specify one or more dashboard categories.
 

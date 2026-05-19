@@ -21,8 +21,8 @@ The de-duplication template that you want to create a schedule for, must be in a
 
 Role required:
 
--   To access the [Management view in CMDB Workspace](../concept/cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
--   To access the [Governance view in Service Graph Workspace](../concept/sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
+-   To access the [Management view in CMDB Workspace](cmdb-workspace-mangmnt-view.md) to perform de-duplication tasks, sn\_cmdb\_admin
+-   To access the [Governance view in Service Graph Workspace](sg-workspace-governance-view.md) to perform de-duplication tasks: sn\_cmdb\_editor or sn\_cmdb\_admin
 -   To perform this task, cmdb\_dedup\_admin or any role containing cmdb\_dedup\_admin \(such as sn\_cmdb\_admin\)
 
 ## Procedure
@@ -65,5 +65,5 @@ On the De-duplication templates pane, select the More options icon for a templat
 -   Select **Deactivate schedule** to halt temporarily the automatic runs of the template, while preserving the schedule settings.
 -   Select **Activate schedule** to resume automatic runs of the template according to the schedule settings.
 
-**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](../concept/dedup-ci-exp-cmdb-workspace.md)
+**Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](dedup-ci-exp-cmdb-workspace.md)
 

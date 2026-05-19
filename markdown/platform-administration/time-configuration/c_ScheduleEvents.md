@@ -36,9 +36,9 @@ You can use various tools for scheduling actions or tasks to happen in the futur
     Scheduled jobs are scripts you can specify should automatically generate at a specific date and time, or on a repeating basis.
 
 
--   **[Event registry](../../platform-events/reference/r_EventRegistry.md)**  
+-   **[Event registry](r_EventRegistry.md)**  
 You can use events to schedule actions or tasks to occur when conditions are fulfilled.
--   **[Set an inactivity monitor](../task/t_SetAnInactivityMonitor.md)**  
+-   **[Set an inactivity monitor](t_SetAnInactivityMonitor.md)**  
 You can set an inactivity monitor that triggers an event for a task record when the task has been inactive for a certain amount of time.
 
 **Parent Topic:**[System scheduler](c_SystemScheduler.md)

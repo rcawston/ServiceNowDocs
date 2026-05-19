@@ -31,7 +31,7 @@ API endpoints that are not structured well enough to populate the API \[cmdb\_ci
 
 This section lists the classes that the CMDB CI Class Models app adds or updates.
 
-CMDB CI Class Models: Release 1.49.0 adds the following class for unmatched API endpoints. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: Release 1.49.0 adds the following class for unmatched API endpoints. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 <table id="table_h2r_d5z_ryb"><thead><tr><th>
 

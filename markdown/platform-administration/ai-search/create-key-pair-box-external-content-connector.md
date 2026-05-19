@@ -134,5 +134,5 @@ Encrypted private key file and password
 Provide this encrypted private key file and its password to your connector admin. They will need the file and password when configuring the Box external content connector. For details on creating and configuring the Box external content connector, see [Create a Box external content connector](create-ext-cont-connector-box.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Box external content connector](../concept/box-external-content-connector.md)
+</table>**Parent Topic:**[Box external content connector](box-external-content-connector.md)
 

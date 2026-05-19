@@ -68,7 +68,7 @@ Network location
 The location of the applicable subnetwork.**Note:** This field is optional and visible only if Network location is enabled.
 
 </td></tr></tbody>
-</table>To configure entry points for subnetworks, see [Fine-tune Service Mapping with MID affinity and IP reuse](../concept/network-location-mid-affinity-td-discovery.md).
+</table>To configure entry points for subnetworks, see [Fine-tune Service Mapping with MID affinity and IP reuse](network-location-mid-affinity-td-discovery.md).
 
 There are some attributes which you configure differently depending on what entry point they relate to, as described in the following table:
 
@@ -168,7 +168,7 @@ There are some attributes which you configure differently depending on what entr
 **Related topics**  
 
 
-[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
 
-[Create entry point types for Service Mapping](../task/t_CreateEntryPoint.md)
+[Create entry point types for Service Mapping](../discovery-and-service-mapping-patterns/t_CreateEntryPoint.md)
 

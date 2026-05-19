@@ -54,11 +54,11 @@ Portfolio Planning is available for users with a Strategic Portfolio Management 
 
 </td></tr><tr><td>
 
-[Scenario planning ![](../../../reuse/icons/brand-icons/bus-learn.svg) Optimize planning with scenario planning](../../ppw-scenario-planning/concept/optimizing-scenarios-in-portfolio-planning.md)
+[Scenario planning ![](../../../reuse/icons/brand-icons/bus-learn.svg) Optimize planning with scenario planning](optimizing-scenarios-in-portfolio-planning.md)
 
 </td><td>
 
-[Demands![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Create, evaluate, and prioritize demands throughout the demand life-cycle](../../ppw-demand/concept/demand-workspace-ppw.md)
+[Demands![](../../../reuse/icons/brand-icons/bus-demand-management.svg)Create, evaluate, and prioritize demands throughout the demand life-cycle](demand-workspace-ppw.md)
 
 </td><td>
 

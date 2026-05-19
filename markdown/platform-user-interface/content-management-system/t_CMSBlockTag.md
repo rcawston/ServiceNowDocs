@@ -73,18 +73,18 @@ An example of the block tag is included in the ESS Portal sample site.
     For example, `http://instance name.service-now.com/ess/administration.do`.
 
 
-**Parent Topic:**[Content blocks](../concept/c_ContentBlocks.md)
+**Parent Topic:**[Content blocks](c_ContentBlocks.md)
 
 **Related topics**  
 
 
 [Configure a content block](t_CreateAContentBlock.md)
 
-[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+[Types of content blocks](r_TypesOfContentBlocks.md)
 
-[Content Management and the Apache Jelly engine](../reference/r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](r_ContentManagementAndJelly.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a header block](t_HeaderBlock.md)
 
@@ -94,7 +94,7 @@ An example of the block tag is included in the ESS Portal sample site.
 
 [Configure dynamic blocks](t_CreateADynamicBlock.md)
 
-[Catalog cart block](../concept/c_CatalogCartBlock.md)
+[Catalog cart block](c_CatalogCartBlock.md)
 
 [Integrate Live Feed with CMS](t_AddLiveFeedToIFrame.md)
 

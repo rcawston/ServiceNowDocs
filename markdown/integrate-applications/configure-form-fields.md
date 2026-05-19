@@ -17,7 +17,7 @@ Configure the form fields in the Form Renderer element while you are building an
 
 Create an attended automation form in RPA Desktop Design Studio. For more information, see [Create an attended automation form in RPA Desktop Design Studio](create-rda-form.md).
 
-Ensure that your attended automation form contains a Form Renderer element. For more information, see [Form designer for building attended automation forms](../concept/form-designer-overview.md).
+Ensure that your attended automation form contains a Form Renderer element. For more information, see [Form designer for building attended automation forms](form-designer-overview.md).
 
 Role required: none
 
@@ -183,7 +183,7 @@ Option for enabling pop-up windows inside the form.
 **Related topics**  
 
 
-[Form designer for building attended automation forms](../concept/form-designer-overview.md)
+[Form designer for building attended automation forms](form-designer-overview.md)
 
-[Methods and events of the Form Renderer element](../reference/form-control-formreneder.md)
+[Methods and events of the Form Renderer element](form-control-formreneder.md)
 

@@ -19,7 +19,7 @@ The scores for automated indicators are based on values collected from table rec
 
 **Note:**
 
--   Records are not available for [formula indicators](../../performance-analytics/concept/performance-analytics-glossary.md#), such as indicators that calculate percentages or averages.
+-   Records are not available for [formula indicators](performance-analytics/performance-analytics-glossary.md#), such as indicators that calculate percentages or averages.
 -   The list view of shown records follows one of these settings, in order of priority:
     1.  The value of the **Records list view** config property in the UI Builder, if set
     2.  The value in the **List View** field on the indicator source, if set
@@ -54,7 +54,7 @@ Select the periods to compare either by typing in the dates or by using a calend
 
 Between the two scores, you see the number of records that have been moved out, shared, or moved in between these periods. Each of these values is a button. Select a value to list the corresponding records.
 
-You can compare records filtered on up to two [breakdowns](../../performance-analytics/concept/performance-analytics-glossary.md#), each with one element. You cannot compare records filtered on multiple level elements.
+You can compare records filtered on up to two [breakdowns](performance-analytics/performance-analytics-glossary.md#), each with one element. You cannot compare records filtered on multiple level elements.
 
 You can compare records from a past period with real-time scores. When real-time scores are turned on, by default you compare the score from the last collected period to the real-time score.
 

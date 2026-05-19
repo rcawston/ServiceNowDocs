@@ -37,7 +37,7 @@ You can automatically create change requests from your Continuous Integration \(
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, form fields, and general guidelines](../reference/devops-change-velocity-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, form fields, and general guidelines](devops-change-velocity-reference.md)
 
 </td><td>
 

@@ -1134,5 +1134,5 @@ The SetAccount method must be used initially, before any other method of this co
 |---------|-----------|--------------|---------|
 |AccountName|This parameter specifies the Outlook email account ID on which you want to perform operations.|Data in|String|
 
-**Parent Topic:**[Microsoft Outlook](../concept/microsoft-outlook-connector.md)
+**Parent Topic:**[Microsoft Outlook](microsoft-outlook-connector.md)
 

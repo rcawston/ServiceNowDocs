@@ -42,7 +42,7 @@ You are notified when the request is approved or rejected. If the request is app
 
 Knowledge bases created through this request process are inactive by default, so you must activate the knowledge base to make it available for users.
 
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
 
 **Related topics**  
 

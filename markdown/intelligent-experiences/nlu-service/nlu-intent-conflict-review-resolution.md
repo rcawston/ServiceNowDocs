@@ -27,7 +27,7 @@ To address and fix these issues, Cross-model Conflict Review runs an analysis on
 
 Cross-model Conflict Review is part of the NLU Workbench - Advanced Features app available on the ServiceNow® Store.
 
-To use Cross-model Conflict Review, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](../task/activate-nlu-workbench.md).
+To use Cross-model Conflict Review, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](activate-nlu-workbench.md).
 
 ## Roles
 

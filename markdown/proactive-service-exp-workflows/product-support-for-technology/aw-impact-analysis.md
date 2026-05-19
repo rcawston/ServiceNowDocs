@@ -39,7 +39,7 @@ After a workflow in Proactive Service Experience Workflows triggers, you can ide
 
 6.  See the affected accounts by selecting the **Customer impact** tab.
 
-    To learn more about the **Customer impact** tab, see [Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md).
+    To learn more about the **Customer impact** tab, see [Enhancing customer impact visibility for PSEW processes](enhance-customer-impact-visibility-psew-process.md).
 
 7.  Look for the names of the customers who are affected by selecting the Affected accounts section and checking the Account column.
 
@@ -83,5 +83,5 @@ When the incident is resolved, it triggers the auto-closure of related cases.
     -   Resolution Code
     -   Probable Cause
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](psew-identify-act-incident.md)
 

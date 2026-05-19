@@ -143,7 +143,7 @@ This field appears only when the **Advanced** check box is selected.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](manage-unused-mac.md)
 
 **Related topics**  
 

@@ -33,7 +33,7 @@ Access setting location
 
 </th></tr></thead><tbody><tr><td>
 
-[Application design and runtime settings](../reference/r_ApplicationDesignAndRuntimeSettings.md)
+[Application design and runtime settings](r_ApplicationDesignAndRuntimeSettings.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Access determined by the cross-scope privilege record owned by the calling appli
 
 </td></tr><tr><td>
 
-[Table design and runtime settings](../reference/r_TableApplicationAccessFields.md)
+[Table design and runtime settings](r_TableApplicationAccessFields.md)
 
 </td><td>
 

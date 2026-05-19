@@ -23,7 +23,7 @@ Role required: \(playbook\_experience.admin + sn\_csm\_case\_types.service\_defi
 
 A playbook provides agents with step-by-step guidance for resolving a specific type of case. If a service definition has an associated playbook, the agent can use the playbook in a tab on the case record.
 
-When the agent selects **Create Case** on the [case type selector screen](../concept/csm-case-type-select-modals.md), the system displays the new case record and launches the playbook associated with the service in a tab on the record page.
+When the agent selects **Create Case** on the [case type selector screen](csm-case-type-select-modals.md), the system displays the new case record and launches the playbook associated with the service in a tab on the record page.
 
 **Note:** This is an optional task.
 

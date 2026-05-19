@@ -65,13 +65,13 @@ Create a move project to group multiple move requests into a single project to o
 
 The move project is created and all the move requests that have matched the filter conditions that you specified are displayed in the move scheduler. The move requests are displayed to you in the schedule view by default. The planned start and end date of the project are set based on the minimum **Expected start** date and the maximum **Due date** from the move requests that are associated with the project.
 
-A move project contains both the schedule view and a list view. For more information on Move projects, refer to [Move project views, actions, and states](../reference/move-project-schedule-view.md).
+A move project contains both the schedule view and a list view. For more information on Move projects, refer to [Move project views, actions, and states](move-project-schedule-view.md).
 
 ## What to do next
 
 [Work on a move project](work-on-a-move-project.md).
 
-**Parent Topic:**[Working with Move management](../concept/working-with-move-management.md)
+**Parent Topic:**[Working with Move management](working-with-move-management.md)
 
 **Related topics**  
 

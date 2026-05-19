@@ -25,7 +25,7 @@ This video shows you how to create a data integration.
 
     **Note:** Currently, Excel files are the only accepted data format users can upload.
 
--   Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -153,5 +153,5 @@ This video shows you how to create a data integration.
 17. If you added new columns during the import and want them to display on the target table, select **Personalize list** to edit the columns that display.
 
 
-**Parent Topic:**[Create a data model for your application](../concept/add-data.md)
+**Parent Topic:**[Create a data model for your application](add-data.md)
 

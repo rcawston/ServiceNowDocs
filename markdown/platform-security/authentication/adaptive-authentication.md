@@ -41,7 +41,7 @@ To set a custom message in the language of your instance you need to add key, va
 
 -   **Authentication properties**
 
-    Use authentication properties to control whether adaptive authentication is active on your instance. You can also use properties to enabled debugging, and define the messaging users see when access is blocked. For details on these properties, see [Configure adaptive authentication properties](../task/configure-adaptive-auth-properties.md).
+    Use authentication properties to control whether adaptive authentication is active on your instance. You can also use properties to enabled debugging, and define the messaging users see when access is blocked. For details on these properties, see [Configure adaptive authentication properties](configure-adaptive-auth-properties.md).
 
 
 ## REST API access policies

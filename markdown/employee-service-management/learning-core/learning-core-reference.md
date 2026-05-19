@@ -32,5 +32,5 @@ Description of the field values in the Learning External Content form.
 -   **[Collection form](collection-form-lc.md)**  
 Use the Collection form to create a content collection in Learning Core to dynamically group learning content that includes multiple internal and external courses.
 
-**Parent Topic:**[Learning Core](../concept/learning-core_overview.md)
+**Parent Topic:**[Learning Core](learning-core_overview.md)
 

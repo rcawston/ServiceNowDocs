@@ -30,5 +30,5 @@ Role required: sam\_admin or sam\_user
 3.  Select on a SAP engine record to view more details on SAP system users and SAP Engine usage.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

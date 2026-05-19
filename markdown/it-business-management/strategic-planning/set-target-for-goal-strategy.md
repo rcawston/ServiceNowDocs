@@ -21,9 +21,9 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 ## About this task
 
-If you’re using Now Assist for SPM, you can use the Target generation skill to generate targets for a goal. The skill uses the goal’s details and provided context to create a precise target for the goal. The more specific the input, the stronger the recommendations. For details, see [Generate targets for a goal in Strategic Planning Workspace using Now Assist for SPM](../../now-assist-spm/task/generate-targets-for-goal.md).
+If you’re using Now Assist for SPM, you can use the Target generation skill to generate targets for a goal. The skill uses the goal’s details and provided context to create a precise target for the goal. The more specific the input, the stronger the recommendations. For details, see [Generate targets for a goal in Strategic Planning Workspace using Now Assist for SPM](../now-assist-for-strategic-portfolio-management-spm/generate-targets-for-goal.md).
 
-Configuring a target source for your target updates the **Actuals to date** field on the Target form automatically. For more information on target automation, see [Target actuals automation in Strategic Planning](../../spw-goals/concept/target-actuals-automation-spw.md).
+Configuring a target source for your target updates the **Actuals to date** field on the Target form automatically. For more information on target automation, see [Target actuals automation in Strategic Planning](../scenario-planning-in-spw/target-actuals-automation-spw.md).
 
 A SMART target can be defined as S = Specific, M = Measurable, A = Attainable, R = Relevant, and T = Time-bound.
 
@@ -80,7 +80,7 @@ The goal details page opens.
 </td></tr></tbody>
 </table>4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    For a description of the field values, see [Target form](../scenario-planning-in-spw/target-form-egm.md).
 
 5.  Select **Save**.
 

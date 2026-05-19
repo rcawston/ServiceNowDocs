@@ -38,7 +38,7 @@ Role required: sn\_cmdb\_admin or admin
 6.  Click the "X" button to close the **Export Image** window.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

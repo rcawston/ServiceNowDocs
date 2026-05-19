@@ -34,5 +34,5 @@ Change Approval Policy \[chg\_policy\_approval\]
 Extends the Change Policy table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Change Management -Approval policy](../task/activate-change-approval-policy.md)
+</table>**Parent Topic:**[Activate Change Management -Approval policy](activate-change-approval-policy.md)
 

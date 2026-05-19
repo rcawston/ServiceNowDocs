@@ -18,5 +18,5 @@ HR Case and Knowledge Management pulls together many HR case related features.
 -   **[Understanding Case and Knowledge Management](c_HRServiceAutomation.md)**  
 Case and Knowledge Management for the scoped version of HR benefits your enterprise by automating standard HR processes within your organization that support relationships between employees and the HR department.
 
-**Parent Topic:**[Case and Knowledge Management](../reference/case-knowledge-management-landing-page.md)
+**Parent Topic:**[Case and Knowledge Management](case-knowledge-management-landing-page.md)
 

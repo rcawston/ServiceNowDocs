@@ -42,5 +42,5 @@ Role required: sn\_ta\_hiring\_core.external\_applicant or sn\_ta\_hiring\_core.
     For more information, see [Share scheduling preferences](share-availability-applicant-ac.md).
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](use-applicant-center.md)
 

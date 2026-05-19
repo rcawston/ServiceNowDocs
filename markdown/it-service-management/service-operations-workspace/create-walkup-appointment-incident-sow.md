@@ -42,5 +42,5 @@ Role required: itil or admin
 -   The **Walk-up Appointment** option appears under the **Related records** tab for that incident. You can see all the Walk-up appointments related to the incident.
 -   The requester is notified of the appointment. The requester can also see the appointment created on the home page under the My active items widget.
 
-**Parent Topic:**[Walk-up Experience management in Service Operations Workspace](../concept/walkup-sow.md)
+**Parent Topic:**[Walk-up Experience management in Service Operations Workspace](walkup-sow.md)
 

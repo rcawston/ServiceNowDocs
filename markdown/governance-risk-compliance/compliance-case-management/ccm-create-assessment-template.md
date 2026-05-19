@@ -31,13 +31,13 @@ You can create a questionnaire template instead of using the default template to
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the Assessment Metric Type form, see [Assessment Metric Type form](../reference/assessment-metric-type-form.md).
+    For a description of the field values on the Assessment Metric Type form, see [Assessment Metric Type form](assessment-metric-type-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Assessment Metric Type form](../reference/assessment-metric-type-form.md)**  
+-   **[Assessment Metric Type form](assessment-metric-type-form.md)**  
 Use the Assessment Metric Type form to create an assessment questionnaire template by using the GRC: Compliance Case Management application.
 
-**Parent Topic:**[Configuring Compliance Case Management](../concept/configure-compliance-case-management.md)
+**Parent Topic:**[Configuring Compliance Case Management](configure-compliance-case-management.md)
 

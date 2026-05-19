@@ -19,7 +19,7 @@ NIST Cybersecurity Framework Overview dashboard contains a variety of reports di
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-To view the dashboard in classic UI, see [NIST CSF Use Case Accelerator dashboards and reports](../../../product/grc-nist-csf/reference/csf-dashboard-reports.md).
+To view the dashboard in classic UI, see [NIST CSF Use Case Accelerator dashboards and reports](../grc-common-functions/csf-dashboard-reports.md).
 
 ![NIST Cybersecurity Overview dashbaord in the Next Experience UI Framework.](../image/nist-csf-pa-db-pc.png "NIST Cybersecurity Overview dashboard in the Next Experience UI Framework")
 

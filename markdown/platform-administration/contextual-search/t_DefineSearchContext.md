@@ -116,5 +116,5 @@ To display the search context in the Source selector on Platform, you must selec
 4.  Select and hold \(or right-click\) the form header and select **Save**.
 
 
-**Parent Topic:**[Configuring contextual search](../concept/configuring-contextual-search.md)
+**Parent Topic:**[Configuring contextual search](configuring-contextual-search.md)
 

@@ -60,7 +60,7 @@ The RCM IT Admin sets up the integrations with third-party regulatory intelligen
 -   oauth\_admin
 -   sn\_grc.developer
 
- **Note:** The GRC User role \(sn\_grc.user\) contains the GRC Business User role \(sn\_grc.business\_user\). For more information, see [Common roles in Governance, Risk, and Compliance](../../grc-common/reference/grc-common-roles.md).
+ **Note:** The GRC User role \(sn\_grc.user\) contains the GRC Business User role \(sn\_grc.business\_user\). For more information, see [Common roles in Governance, Risk, and Compliance](../grc-common-functions/grc-common-roles.md).
 
 </td></tr><tr><td>
 

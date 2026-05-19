@@ -27,7 +27,7 @@ Role required: sn\_prm.enterprise\_partner\_admin
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields in the channel partner details section, see [Channel partner table fields](../reference/channel-partner-table-fields.md).
+    To learn more about the fields in the channel partner details section, see [Channel partner table fields](channel-partner-table-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -47,5 +47,5 @@ View consolidated channel partner information through the multiple tabs on works
 -   **[Register Partner Staff on workspace](register-partner-staff-on-workspace.md)**  
 Register a new partner member or transfer existing staff within a partner organization.
 
-**Parent Topic:**[Partner Workspace](../concept/partner-workspace.md)
+**Parent Topic:**[Partner Workspace](partner-workspace.md)
 

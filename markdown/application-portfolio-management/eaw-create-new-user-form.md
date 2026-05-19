@@ -198,7 +198,7 @@ Attach a photo of the user, if appropriate.
 **Related topics**  
 
 
-[Exploring departments](../../concept/eaw-concept/eaw-departments.md)
+[Exploring departments](eaw-departments.md)
 
-[Add a user to a department](../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
+[Add a user to a department](eaw-add-a-new-user-to-a-deparment.md)
 

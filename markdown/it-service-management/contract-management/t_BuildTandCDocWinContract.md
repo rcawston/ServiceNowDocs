@@ -43,7 +43,7 @@ The terms and conditions records are added in the sequence specified in the **Or
 5.  Click **Update**.
 
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](c_TermsAndConditions.md)
 
 **Related topics**  
 

@@ -115,7 +115,7 @@ Consider dropping input fields with low importance scores. Retrain your model af
 **Related topics**  
 
 
-[Using Machine Learning APIs](../concept/using-ml-apis.md#)
+[Using Machine Learning APIs](using-ml-apis.md#)
 
 [ClassificationSolution - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ClassificationSolutionAPI.md)
 

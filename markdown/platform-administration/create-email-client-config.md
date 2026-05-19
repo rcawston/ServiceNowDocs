@@ -75,5 +75,5 @@ You can create one email client configuration per ServiceNow table.
     The configuration is added to the Email Client Configuration \[sys\_email\_client\_configuration\] table.
 
 
-**Parent Topic:**[Email client configurations](../concept/email-client-configuration.md)
+**Parent Topic:**[Email client configurations](email-client-configuration.md)
 

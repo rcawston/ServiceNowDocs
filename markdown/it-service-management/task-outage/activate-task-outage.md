@@ -38,10 +38,10 @@ The Task-Outage Relationship plugin creates a many-to-many relationship between 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Task-Outage Relationship](../reference/components-instld-with-task-outage.md)**  
+-   **[Components installed with Task-Outage Relationship](components-instld-with-task-outage.md)**  
 The Task Outage table is installed with activation of the Task-Outage Relationship plugin \(com.snc.task\_outage\).
 
-**Parent Topic:**[Task Outage](../concept/task-outage.md)
+**Parent Topic:**[Task Outage](task-outage.md)
 
 **Related topics**  
 

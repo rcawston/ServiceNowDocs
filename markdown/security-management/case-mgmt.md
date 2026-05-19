@@ -49,6 +49,6 @@ You can also select a record and click the **Annotate** button for a case-relate
 
 Other tools the analyst can use for examining cases include:
 
--   [Run a sightings search on observables in a case](../task/run-local-sighted-srch.md)
--   [Search for security artifacts](../task/search-for-artifacts.md)
+-   [Run a sightings search on observables in a case](run-local-sighted-srch.md)
+-   [Search for security artifacts](search-for-artifacts.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Customer success, Use, Customer Success Management]
 
 Use AI search with Recommended Actions to create contexts and search for relevant records.
 
-**Note:** The AI search is available only if you have configured the Recommended Actions application to display relevant results for the search query. See [Set up recommended actions for account onboarding](../task/account-lifecycle-setup-rec-action.md) for details.
+**Note:** The AI search is available only if you have configured the Recommended Actions application to display relevant results for the search query. See [Set up recommended actions for account onboarding](account-lifecycle-setup-rec-action.md) for details.
 
 AI search results and genius results are displayed in the Search tab of the Recommended Actions component in the contextual side panel. Agents can initiate actions from the search cards directly to resolve an issue.
 

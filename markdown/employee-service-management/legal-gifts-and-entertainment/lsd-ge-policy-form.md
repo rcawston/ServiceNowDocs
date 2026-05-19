@@ -45,7 +45,7 @@ Category
 
 </td><td>
 
-The category of transaction. **Note:** You can add subcategories as per your requirement. For more information, see [Add a subcategory for the intake form](../../legal-request-management/task/add-subcategories-intakeform.md).
+The category of transaction. **Note:** You can add subcategories as per your requirement. For more information, see [Add a subcategory for the intake form](../legal-request-management/add-subcategories-intakeform.md).
 
 </td></tr><tr><td>
 

@@ -33,7 +33,7 @@ Role required: admin
 
 5.  Select **Apply default configurations**.
 
-    Applying default configurations sets the required default settings for the Finance. For information about default configurations, see [Finance default configurations](../concept/finance-default-configurations.md).
+    Applying default configurations sets the required default settings for the Finance. For information about default configurations, see [Finance default configurations](finance-default-configurations.md).
 
     If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](reset-default-configurations.md).
 
@@ -42,8 +42,8 @@ Role required: admin
 
 The installed Finance business unit appears in the ready to configure section.
 
--   **[Finance default configurations](../concept/finance-default-configurations.md)**  
+-   **[Finance default configurations](finance-default-configurations.md)**  
 Details of the default configurations for Finance.
 
-**Parent Topic:**[Install Core Business Suite applications](../concept/install-cbs-apps.md)
+**Parent Topic:**[Install Core Business Suite applications](install-cbs-apps.md)
 

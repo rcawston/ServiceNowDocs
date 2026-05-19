@@ -52,5 +52,5 @@ The **Install Status** and **Hardware Status** fields of a CI are independent of
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

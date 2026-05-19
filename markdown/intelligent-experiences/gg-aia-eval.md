@@ -26,7 +26,7 @@ Run agentic evaluations at key points in your development and maintenance cycle 
 
 -   **Run after you have manually tested basic execution**
 
-    Before running an automated evaluation, manually test the execution of an [AI agent](../task/test-ai-agent.md) or [agentic workflow](../task/test-aia-use-case.md). Manual testing helps you identify obvious issues and verify that the basic functionality works before investing time in automated evaluation.
+    Before running an automated evaluation, manually test the execution of an [AI agent](test-ai-agent.md) or [agentic workflow](test-aia-use-case.md). Manual testing helps you identify obvious issues and verify that the basic functionality works before investing time in automated evaluation.
 
 -   **Run agentic evaluations when you make significant changes**
 

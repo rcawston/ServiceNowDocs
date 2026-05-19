@@ -27,11 +27,11 @@ To enable checklists, navigate to the form and add the **Checklist** formatter. 
 
 You can add, remove, or rearrange checklist items. You can also save a checklist as a template for future use on other records. Any user can create or edit a checklist and check off completed items.
 
--   **[Activate checklists](../task/t_ActivateChecklists.md)**  
+-   **[Activate checklists](t_ActivateChecklists.md)**  
 Checklists are active by default on new instances. For instances upgrading from a previous version, the Checklist plugin must be activated.
--   **[Create a checklist](../task/t_CreateAChecklist.md)**  
+-   **[Create a checklist](t_CreateAChecklist.md)**  
 You can create a unique checklist for each task record. You can quickly create a checklist from a previously created template.
--   **[Delete checklist or a template](../task/t_DeleteAChecklist.md)**  
+-   **[Delete checklist or a template](t_DeleteAChecklist.md)**  
 You can remove a checklist from a record, and delete checklist templates you no longer need.
 
 **Parent Topic:**[Forms in the classic environment](c_UsingForms.md)

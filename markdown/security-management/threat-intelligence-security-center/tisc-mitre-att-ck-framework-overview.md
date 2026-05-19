@@ -23,21 +23,21 @@ The available data sources within the application are:
 2.  MITRE - Mobile ATT&amp;CK
 3.  MITRE - ICS ATT&amp;CK
 
-The data for these sources are stored in a separate MITRE repository under TI library in the base system. In case, if you want to create a new MITRE source then configure a custom source. For more information, see [View Custom Feed](../task/view-oob-custom-feeds.md) and in the form view click **Advanced** check box and select the **Report Processor** as: **MITRECollectionDataProcessor**.
+The data for these sources are stored in a separate MITRE repository under TI library in the base system. In case, if you want to create a new MITRE source then configure a custom source. For more information, see [View Custom Feed](view-oob-custom-feeds.md) and in the form view click **Advanced** check box and select the **Report Processor** as: **MITRECollectionDataProcessor**.
 
--   **[Manage Matrices](../task/tisc-manage-matrices.md)**  
+-   **[Manage Matrices](tisc-manage-matrices.md)**  
 Manage the matrices that are imported from the MITRE TAXII collections. Matrices are a collection of tactics and techniques. You can view the matrices to review if your collections are available in the MITRE-ATT&amp;CK repository.
 -   **[Manage Techniques](tisc-manage-techniques.md)**  
 Manage the techniques that are imported from the MITRE TAXII collections. The techniques contain various ways attackers have developed to employ a given tactic. You can review and deactivate techniques that are not relevant to your organization. In STIX, techniques are known as attack patterns.
--   **[Manage Mitigations](../task/tisc-manage-mitigations.md)**  
+-   **[Manage Mitigations](tisc-manage-mitigations.md)**  
 Manage the mitigations that are imported from the MITRE TAXII collections. Mitigations enable you to prevent an adversary from successfully executing techniques or sub-techniques against your organization. In STIX, mitigations are known as course of actions.
--   **[Manage Groups](../task/tisc-manage-groups.md)**  
+-   **[Manage Groups](tisc-manage-groups.md)**  
 Manage the groups that are imported from the MITRE TAXII collections. Groups are sets of related intrusion activity that are tracked by a common name in the security community. Analysts track clusters of activities using various terms such as threat groups, activity groups, threat actors, intrusion sets, and campaigns. In STIX, groups are known as intrusion sets.
--   **[Manage Malware](../task/tisc-manage-malware.md)**  
+-   **[Manage Malware](tisc-manage-malware.md)**  
 Manage the malware information that you imported from the MITRE TAXII collections. It is a type of TTP that represents malicious code.
--   **[Manage Tools](../task/tisc-mitre-manage-tools.md)**  
+-   **[Manage Tools](tisc-mitre-manage-tools.md)**  
 Manage the tools information that you imported from the MITRE TAXII collections. Tools are legitimate software that are used by threat actors to perform attacks.
--   **[Manage MITRE Relationships](../task/tisc-mitre-manage-relationships.md)**  
+-   **[Manage MITRE Relationships](tisc-mitre-manage-relationships.md)**  
 Manage the MITRE relationships information that you imported from the MITRE TAXII collections.
 
 **Parent Topic:**[TISC Library Repository](tisc-ioc.md)
@@ -55,7 +55,7 @@ Manage the MITRE relationships information that you imported from the MITRE TAXI
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

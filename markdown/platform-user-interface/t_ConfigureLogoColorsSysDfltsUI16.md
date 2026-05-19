@@ -32,7 +32,7 @@ Each color selection option provides a color picker to select a color. The text 
 
 Refer to [HTML Color Names \(W3CSchools\)](http://www.w3schools.com/tags/ref_colornames.asp) for information about HTML color names.
 
-**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [Working with themes in Next Experience](../concept/next-experience-theming.md).
+**Note:** This information is only applicable for instances that do not have Next Experience enabled. For theming information for Next Experience, see [Working with themes in Next Experience](next-experience-theming.md).
 
 ## Procedure
 
@@ -308,7 +308,7 @@ Switches the main content \(everything other than the application navigator and 
 
 After you save the configuration changes, all users who select the **System** theme in their UI personalization options see the new configuration colors.
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](customizing-instance-appearance.md)
 
 ## La Jolla and cobalt theme comparison
 

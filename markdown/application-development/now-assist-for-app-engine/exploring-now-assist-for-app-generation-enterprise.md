@@ -20,13 +20,13 @@ Explore the AI capabilities, users, benefits, and workflow for using Now Assist 
 
 Now Assist for App Engine is a powerful application designed to empower developers with the tools needed to supercharge custom applications with AI capabilities. Whether you're enhancing an existing custom application with AI capabilities, or creating a new application that features AI capabilities from the start, Now Assist for App Engine has everything that you need to make developing AI experiences seamless.
 
-With Now Assist for App Engine, you can leverage the generative and agentic AI capabilities of the ServiceNow AI Platform. For more information about the tools available with Now Assist for App Engine, see [Tools included with Now Assist for App Engine](../../now-assist-app-engine/concept/tools-included-with-now-assist-for-app-engine.md).
+With Now Assist for App Engine, you can leverage the generative and agentic AI capabilities of the ServiceNow AI Platform. For more information about the tools available with Now Assist for App Engine, see [Tools included with Now Assist for App Engine](tools-included-with-now-assist-for-app-engine.md).
 
 Using Now Assist for App Engine, you can enhance your custom applications with several AI capabilities: skills, AI agents, and agentic workflows. Starting with version 28.2.4 of Now Assist for App Engine, you can also use the custom app record summarization skill, which enables you to summarize records within custom apps and tables. Use the following resources to learn more about each of these capabilities and which one might be the best fit for your custom application.
 
--   [AI capabilities for enhancing custom applications](../../now-assist-app-engine/concept/ai-capabilities-with-now-assist-for-app-engine.md)
--   [Custom app record summarization skill](../../now-assist-app-engine/concept/custom-app-record-summarization-na-for-app-engine.md)
--   [Choosing the right AI capability](../../now-assist-app-engine/concept/choosing-the-right-ai-capability.md)
+-   [AI capabilities for enhancing custom applications](ai-capabilities-with-now-assist-for-app-engine.md)
+-   [Custom app record summarization skill](custom-app-record-summarization-na-for-app-engine.md)
+-   [Choosing the right AI capability](choosing-the-right-ai-capability.md)
 
 ## Now Assist for App Engine users
 
@@ -84,5 +84,5 @@ For more information about creating skills, AI agents, and agentic workflows wit
 
 ## What to explore next
 
-To learn more about Now Assist for App Engine, see [Installing Now Assist for App Engine](../task/install-now-assist-for-app-engine.md) and [Use Now Assist for App Engine](use-now-assist-for-app-engine-enterprise.md).
+To learn more about Now Assist for App Engine, see [Installing Now Assist for App Engine](install-now-assist-for-app-engine.md) and [Use Now Assist for App Engine](use-now-assist-for-app-engine-enterprise.md).
 

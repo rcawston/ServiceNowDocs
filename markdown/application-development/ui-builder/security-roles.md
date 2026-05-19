@@ -31,7 +31,7 @@ When creating a page, it’s important for admins and developers to be aware of 
 
 ![Application scope picker in UI Builder with the Global scope highlighted.](../image/application-scope-picker.png)
 
-If you change to a different scope while in a page, you’re notified that you are in a different application scope from the one the page was created in. For more information, see [Application scope](../../../build/applications/concept/c_ApplicationScope.md).
+If you change to a different scope while in a page, you’re notified that you are in a different application scope from the one the page was created in. For more information, see [Application scope](../c_ApplicationScope.md).
 
 ## Delegated developers for UI Builder
 
@@ -39,7 +39,7 @@ If you have the application-specific admin role or the system-level admin role, 
 
 ## Protection policy
 
-A protection policy prevents anyone from modifying and/or copying an application file or its related record. A protection policy is typically used when the author of an application is different than the company that uses the application. UI Builder notifies you if you try to modify a protected record. For more information, see [Application file protection policy](../../../build/applications/concept/c_ProtectingApplicationFiles.md).
+A protection policy prevents anyone from modifying and/or copying an application file or its related record. A protection policy is typically used when the author of an application is different than the company that uses the application. UI Builder notifies you if you try to modify a protected record. For more information, see [Application file protection policy](../c_ProtectingApplicationFiles.md).
 
-**Parent Topic:**[Learning UI Builder](../concept/learning-uib.md)
+**Parent Topic:**[Learning UI Builder](learning-uib.md)
 

@@ -37,7 +37,7 @@ Role required: Admin, DocIntel Admin, DocIntel Manager
 
 The use case is deactivated. The deactivated use case will not be used for document processing.
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md)
 
 **Related topics**  
 

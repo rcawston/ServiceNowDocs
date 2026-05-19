@@ -85,5 +85,5 @@ Prevents any changes from both client scripts and server-side APIs.
 
 Test any client scripts or server-side APIs that update read-only fields work as expected in your non-production environment. After testing the functionality, you can update individual fields in your production instance and set the **Read only option** field to the option that you verified in your non-production instance.
 
-**Parent Topic:**[Configuring read-only security options](../concept/read-only-option.md)
+**Parent Topic:**[Configuring read-only security options](read-only-option.md)
 

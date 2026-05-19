@@ -84,5 +84,5 @@ In the FSM Configurable Workspace and classic environment, you can generate the
     The Now Assist success message disappears indicating that it is no longer a Now LLM Service generated article.
 
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 

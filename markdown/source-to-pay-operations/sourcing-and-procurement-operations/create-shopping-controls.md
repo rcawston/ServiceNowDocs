@@ -27,7 +27,7 @@ For example, you define a shopping control for an employee, Jane Doe, to exclude
 
 Also, these supplier products are not visible on the Shopping Hub portal when another employee shops as a delegate on behalf of Jane Doe.
 
-Shopping controls can be overridden with employee credits. For details, see [Shopping controls overridden by credits](../reference/shopping-controls-overridden.md).
+Shopping controls can be overridden with employee credits. For details, see [Shopping controls overridden by credits](shopping-controls-overridden.md).
 
 ## Procedure
 
@@ -122,5 +122,5 @@ Define conditions to identify products that must not be visible to the employees
     Any user which references to this shopping control is then updated so that this control is no longer applied to that user. On reloading the form, you can see that the User Control and Supplier Products related lists are empty.
 
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
 

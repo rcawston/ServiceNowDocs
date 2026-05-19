@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing demand, select the demand.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new demand form](../../reference/eaw-reference/eaw-create-new-demand-form.md).
+    For field information, see [Create new demand form](eaw-create-new-demand-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage demands](../../concept/eaw-concept/eaw-manage-demands.md)
+**Parent Topic:**[Manage demands](eaw-manage-demands.md)
 
 **Related topics**  
 

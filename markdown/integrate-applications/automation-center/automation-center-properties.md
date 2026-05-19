@@ -168,5 +168,5 @@ Defines the maximum duration \(in milliseconds/seconds\) to wait while polling f
 -   Default value: **300**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

@@ -21,7 +21,7 @@ A CI class \(table\) is the original table name in the instance database. CMDB c
 
 Prior to version 11.1, if a matched CI was not found either in the Discovered Items list or CMDB, a CI was created in the Unmatched CI class \(`sn_sec_cmn_unmatched_ci`\).
 
-For more information, see [Reconcile unmatched discovered items for Configuration Compliance](../task/reapply-reconcile-unmatched-discovered-items-cc.md).
+For more information, see [Reconcile unmatched discovered items for Configuration Compliance](reapply-reconcile-unmatched-discovered-items-cc.md).
 
 Starting with version 11.1, you can use the IRE API to create CIs in CMDB. Instead of using the Unmatched CI class, a CI is created in the Unclassed Hardware or Incomplete IP Identified Device class.
 

@@ -24,7 +24,7 @@ Admin Center offers easy access to a number of key applications administrators n
     **Note:** Adoption Blueprints platform feature is available by default with instance upgrade to Tokyo and above.
 
 -   Now Assist Admin: The Now Assist Admin console provides you with quick and effortless access to the important information that you need to set up, configure, and monitor Now Assist features and skills. See [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md) for more information.
--   Application Manager: As an admin, you have the ability to install, update, and manage licensed applications and plugins on your instance using the Application Manager application. See [Application Manager](../../application-manager/concept/application-manager.md) for more information.
+-   Application Manager: As an admin, you have the ability to install, update, and manage licensed applications and plugins on your instance using the Application Manager application. See [Application Manager](../application-manager/application-manager.md) for more information.
 
     **Note:** Application Manager store application is available by default with the instance upgrade of Vancouver and above.
 
@@ -32,7 +32,7 @@ Admin Center offers easy access to a number of key applications administrators n
 
     **Note:** Security Center is available by default from the Vancouver release and above with the instance upgrade. For the previous releases, you can install it from the ServiceNow store.
 
--   Subscription Management: Proactively manage your subscriptions and monitor subscription usage on your instances using the Subscription Management application. See [Subscription Management](../../subscription-management/reference/subscription-management-landing-page-v2.md) for more information.
+-   Subscription Management: Proactively manage your subscriptions and monitor subscription usage on your instances using the Subscription Management application. See [Subscription Management](../subscription-management-landing-page-v2.md) for more information.
 
     **Note:** The legacy version Subscription Management is available by default with the Vancouver release. You can install the new version of Subscription Management on your Vancouver instance from the ServiceNow® Store. You can also have both the legacy and new version on your Vancouver instance.
 
@@ -40,7 +40,7 @@ Admin Center offers easy access to a number of key applications administrators n
 
     **Note:** Configuration Hub store application is available by default with instance upgrade of Vancouver patch 2 and above.
 
--   Upgrade Management: Leverage ServiceNow Upgrade Management for a comprehensive and efficient upgrade experience. Streamline your upgrade process by accessing all necessary tools and insights in one place. See [Upgrade Console](../../upgrade-management/concept/um-landing-page.md) for more information.
+-   Upgrade Management: Leverage ServiceNow Upgrade Management for a comprehensive and efficient upgrade experience. Streamline your upgrade process by accessing all necessary tools and insights in one place. See [Upgrade Console](../upgrade-management/um-landing-page.md) for more information.
 
 You can also access the [Admin Experience](https://www.servicenow.com/community/admin-experience/ct-p/admin-experience) Product Hub on the ServiceNow Community for additional resources about Admin Center and the applications.
 

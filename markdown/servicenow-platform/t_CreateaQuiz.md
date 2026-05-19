@@ -43,5 +43,5 @@ When you publish a quiz, the system sends email notifications to the recipients 
 -   **[Copy a quiz](copy-quiz.md)**  
 Create a copy of a quiz with at least one category to reduce the effort of creating another quiz with similar data.
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](c_QuizDesigner.md)
 

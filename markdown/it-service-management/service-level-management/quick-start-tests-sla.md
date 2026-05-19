@@ -23,7 +23,7 @@ Service Level Management quick start tests require activating the Service Level 
 |SLM: Service Level Management Task SLA cancelled workflow|Tests that a user can create a task SLA and cancel the workflow.|Orlando|
 |SLM: Service Level Management Task SLA timer REST API|Tests that the SLA Timer API response matches data expected by SLA Timer Seismic component.|Paris|
 
-**Parent Topic:**[Service Level Management reference](../../../product/service-level-management/concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 
 **Related topics**  
 

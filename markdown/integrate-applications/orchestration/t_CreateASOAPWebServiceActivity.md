@@ -29,7 +29,7 @@ For instructions on using the activity template process flow, see [create custom
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SOAP web service Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SOAP web service Execution Command.
 
 <table id="choicetable_m3f_hcs_d1b"><tbody><tr><td id="d374612e112">
 

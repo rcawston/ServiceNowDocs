@@ -17,13 +17,13 @@ If you prefer to do local development with the ServiceNow SDK and a command line
 
 If you're an experienced ServiceNow developer who's familiar with vibe coding and AI-assisted development, ServiceNow IDE is a suitable starting point for refining your app development.
 
-For full documentation on using the ServiceNow IDE, see [ServiceNow IDE](../../servicenow-ide/concept/servicenow-ide-landing.md).
+For full documentation on using the ServiceNow IDE, see [ServiceNow IDE](servicenow-ide-family-release/servicenow-ide-landing.md).
 
 ## Workflow for AI-assisted development in the ServiceNow IDE
 
 To refine your vibe-coded app in the ServiceNow IDE, follow these steps:
 
-1.  Create a workspace. Use Build Agent to create or edit application metadata. For more information, see [Now Assist for Creator](../../../administer/flow-designer/concept/now-assist-for-creator-landing.md).
+1.  Create a workspace. Use Build Agent to create or edit application metadata. For more information, see [Now Assist for Creator](now-assist-for-creator/now-assist-for-creator-landing.md).
 2.  Create an app.
     -   Use Build Agent to create the app.
     -   You can choose to edit an existing app.
@@ -42,10 +42,10 @@ To refine your vibe-coded app in the ServiceNow IDE, follow these steps:
 6.  Validate security and roles.
     -   Review ACLs to confirm that the correct roles and conditions are applied.
     -   Tighten permissions and remove any overly permissive logic introduced during scaffolding.
-7.  Use Build Agent to generate and run Automated Test Framework. For more information, see [Testing what you built](../../build-agent/concept/build-agent-testing.md).
+7.  Use Build Agent to generate and run Automated Test Framework. For more information, see [Testing what you built](build-agent-testing.md).
 8.  Move to local development with the ServiceNow SDK for deeper refactoring.
     -   Use the ServiceNow SDK command line interface \(CLI\) for build, deploy, and fetch operations, version control, and CI integration.
-    -   Use the Source Control extension within the ServiceNow IDE to move changes between local versions and the ServiceNow IDE. For more information, see [Using source control in the ServiceNow IDE](../../servicenow-ide/concept/using-source-control-servicenow-ide.md).
+    -   Use the Source Control extension within the ServiceNow IDE to move changes between local versions and the ServiceNow IDE. For more information, see [Using source control in the ServiceNow IDE](servicenow-ide-family-release/using-source-control-servicenow-ide.md).
 
 ## General guidelines for the ServiceNow IDE
 
@@ -69,7 +69,7 @@ With ServiceNow Fluent, you can:
 
 ServiceNow Fluent works with vibe coding and Build Agent. You can generate an app or flow using conversational prompts, then refine, extend, and harden it using the ServiceNow Fluent code-centric tools. Both pro-code and low-code developers can collaborate and iterate, using the strengths of AI-assisted and modern development.
 
-**Important:** Build Agent only creates metadata supported by ServiceNow® Fluent. For more information, see [ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md). For the latest API reference, see [https://servicenow.github.io/sdk/](https://servicenow.github.io/sdk/)
+**Important:** Build Agent only creates metadata supported by ServiceNow® Fluent. For more information, see [ServiceNow Fluent](servicenow-fluent.md). For the latest API reference, see [https://servicenow.github.io/sdk/](https://servicenow.github.io/sdk/)
 
 ## When to choose the ServiceNow IDE or ServiceNow Studio
 

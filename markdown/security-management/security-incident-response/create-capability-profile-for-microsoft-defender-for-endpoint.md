@@ -108,5 +108,5 @@ Option to indicate that the profile is active. After the profile is active, the 
 
 ## What to do next
 
-The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the how profiles and configured and triggering conditions. For more information, see [Trigger conditions in a configuration item](../reference/trigger-conditions-configuration-item.md).
+The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the how profiles and configured and triggering conditions. For more information, see [Trigger conditions in a configuration item](trigger-conditions-configuration-item.md).
 

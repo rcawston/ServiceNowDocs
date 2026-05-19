@@ -31,7 +31,7 @@ Set up tools that enable accurate product configuration, pricing, and quoting. T
 
     Install the Quote Management application to enable your sales agents to generate sales quotes for products or services that a customer wants to buy.
 
-5.  [Configure Customer Contracts and Entitlements](../../post-sales-support/concept/configuring-post-sales-support.md)
+5.  [Configure Customer Contracts and Entitlements](configuring-post-sales-support.md)
 
     Configure the Customer Contracts and Entitlements application to configure and display customer service contracts and entitlements.
 

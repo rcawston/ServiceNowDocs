@@ -31,9 +31,9 @@ Dependencies are fetched from these sources for the events:
 
 **Note:** In an event, the dependencies of all assets are added manually where the source is Manual.
 
-For more information on configuring the Event dependency source configuration record, see [Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md).
+For more information on configuring the Event dependency source configuration record, see [Configure Event dependency source configuration record](conf-event-dep-source-confi-module.md).
 
--   **[Configure Event dependency source configuration record](../task/conf-event-dep-source-confi-module.md)**  
+-   **[Configure Event dependency source configuration record](conf-event-dep-source-confi-module.md)**  
 Configure the sources for adding the event dependencies in the Event dependency source configuration record.
 
 **Parent Topic:**[Dependency Configuration records](dependency-config-modules.md)

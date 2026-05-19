@@ -162,5 +162,5 @@ Roles installed with Site Reliability Operations
 -   [Site Reliability Operations overview \(video\)](https://www.youtube.com/watch?v=lObGvjmJ7Ts&t=1s)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

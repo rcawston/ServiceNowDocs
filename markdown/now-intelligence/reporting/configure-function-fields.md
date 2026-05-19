@@ -27,5 +27,5 @@ Limitations:
 -   Field function names must be unique.
 -   Only 20 function fields can be active on a table at any one time. To add function fields, you must deactivate others. See [Deactivate a function field](delete-function-field.md).
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](function-fields-reporting.md)
 

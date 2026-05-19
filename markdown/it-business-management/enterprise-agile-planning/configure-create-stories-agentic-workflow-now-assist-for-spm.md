@@ -52,7 +52,7 @@ Role required: admin
 
 [Install Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-ai-agents-plugins.md)
 
-[Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-na-spm-ai-agents.md)
+[Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](../now-assist-for-strategic-portfolio-management-spm/using-na-spm-ai-agents.md)
 
-[Strategic Portfolio Management AI agents for the monitor project tasks agentic workflow](../concept/na-spm-task-monitoring-usecase.md)
+[Strategic Portfolio Management AI agents for the monitor project tasks agentic workflow](../now-assist-for-strategic-portfolio-management-spm/na-spm-task-monitoring-usecase.md)
 

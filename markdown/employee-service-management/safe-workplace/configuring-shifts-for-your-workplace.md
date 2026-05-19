@@ -22,5 +22,5 @@ Associate employees with a shift in Workplace Core so that they operate from the
 -   **[Associate areas and spaces with a shift](associate-workspaces-with-shifts.md)**  
 Associate work areas and spaces with a shift in Workplace Core so that they are available only for that shift. Workplace managers can later reserve these workplace for employees operating in that shift.
 
-**Parent Topic:**[Workplace Core](../concept/workplace-safety-mgmt-hr.md)
+**Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)
 

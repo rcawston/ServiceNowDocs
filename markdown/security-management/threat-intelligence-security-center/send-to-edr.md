@@ -56,5 +56,5 @@ Role required: sn\_sec\_tisc.analyst
     -   Once the execution is initiated or completed, a work notes is posted on the activity stream of the form view.
     -   **Send to EDR** action is also available on the observables list under **Artifacts** tab for a case record. For more information, see [Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md).
 
-**Parent Topic:**[CrowdStrike Falcon EDR integration](../concept/crowdstrike-edr-integration.md)
+**Parent Topic:**[CrowdStrike Falcon EDR integration](crowdstrike-edr-integration.md)
 

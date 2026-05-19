@@ -27,9 +27,9 @@ For example, in the Event Rule designer you can update the event rule **SCOM IIS
 **Related topics**  
 
 
-[Event rules](create-event-rules.md)
+[Event rules](../event-management/create-event-rules.md)
 
-[View metric to CI and resource binding](../task/view-metric-to-CI-binding.md)
+[View metric to CI and resource binding](view-metric-to-CI-binding.md)
 
-[Get started with Metric Intelligence](../task/get-started-metrics.md)
+[Get started with Metric Intelligence](get-started-metrics.md)
 

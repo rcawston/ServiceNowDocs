@@ -19,7 +19,7 @@ Using the Process Mining content pack for HR Service Delivery enables you to ana
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-For more information about enabling the HRSD Process Mining Content Pack, see [Activate content packs](../task/activate-po-content-pack.md).
+For more information about enabling the HRSD Process Mining Content Pack, see [Activate content packs](activate-po-content-pack.md).
 
 ## End user and roles
 
@@ -35,7 +35,7 @@ The following combinations of roles are required for using the Process Mining ap
 
 ## Optimization project for HR cases
 
-The HRSD Process Mining Content Pack \(com.sn\_hr\_process\_optimization\) adds a prebuilt project that includes predefined HR service cases and, if installed, Lifecycle Events cases project definitions. By default, the project filters cases for the last two quarters. You can also configure a new process project based on the prebuilt project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+The HRSD Process Mining Content Pack \(com.sn\_hr\_process\_optimization\) adds a prebuilt project that includes predefined HR service cases and, if installed, Lifecycle Events cases project definitions. By default, the project filters cases for the last two quarters. You can also configure a new process project based on the prebuilt project. For more information, see [Create a project or template using Project Builder](define-workflow-model.md).
 
 The project definition includes default activity definitions and breakdown definitions for cases that you can use as they’re or modify for a custom configuration.
 
@@ -48,9 +48,9 @@ If the Continual Improvement Management \(CIM\) application is enabled, you can 
 
 ## Performance Analytics for HR cases
 
-If the Performance Analytics \(PA\) application is enabled, you can also use the available template configurations to open the Process Mining application from a Performance Analytics [indicator](../../../use/performance-analytics/concept/performance-analytics-glossary.md#) based on the customer service case data. For more information, see [Integration with Performance Analytics](integrate-pa.md#).
+If the Performance Analytics \(PA\) application is enabled, you can also use the available template configurations to open the Process Mining application from a Performance Analytics [indicator](../performance-analytics/performance-analytics-glossary.md#) based on the customer service case data. For more information, see [Integration with Performance Analytics](integrate-pa.md#).
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 
 ## Example of Process Mining for HR Service Delivery
 

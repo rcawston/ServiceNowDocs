@@ -34,5 +34,5 @@ You must have sufficient permissions to access the document.
 5.  In the **Actions on selected rows** drop-down menu, select **Link Documents**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](doc-linked-parent-rec.md)
 

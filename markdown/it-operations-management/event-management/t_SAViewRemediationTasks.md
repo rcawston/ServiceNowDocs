@@ -34,5 +34,5 @@ Role required: evt\_mgmt\_user
     |Task type|This task type is a remediation task.|
 
 
-**Parent Topic:**[CI Remediation](../concept/ci-remediation.md)
+**Parent Topic:**[CI Remediation](ci-remediation.md)
 

@@ -19,7 +19,7 @@ You can create a resource plan from the Resource Management application for any 
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged to [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](../../resource-management-workspace/task/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
+You're encouraged to [migrate your existing resource plans](rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
@@ -33,7 +33,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 </td><td>
 
-1.  Open a project record in project workspace. See [Access the new Project Workspace](../../project-workspace/task/access-new-project-workspace.md).
+1.  Open a project record in project workspace. See [Access the new Project Workspace](../project-workspace/access-new-project-workspace.md).
 2.  On the **Resources** tab, click **New**.
 
 
@@ -86,7 +86,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 </td></tr></tbody>
 </table>2.  On the Resource Plan form, fill the fields.
 
-    For a field descriptions of the field names, see [Resource Plan form](../reference/rsrc-plan-form.md).
+    For a field descriptions of the field names, see [Resource Plan form](rsrc-plan-form.md).
 
 3.  Click **Save** on the form header.
 
@@ -94,7 +94,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 4.  Review update the values in the Resource Plan form tabs.
 
-    For a field description of the field names, see [Resource Plan form tabs](../reference/rsrc-plan-form-tabs.md).
+    For a field description of the field names, see [Resource Plan form tabs](rsrc-plan-form-tabs.md).
 
     **Note:** If the assigned rate model is removed or replaced, or the hourly rates in the rate model are changed, the cost fields on the associated resource plans are not recalculated automatically. You must [recalculate the resource costs](recalculate-resource-costs.md) of the resource plan to reflect new rates from the rate model.
 
@@ -115,9 +115,9 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 ## What to do next
 
-Use the [Resource Plan related links and lists](../reference/rsrc-plan-rltd-links-lists.md) to work on the resource plans, workbenches, or to modify the existing request allocations.
+Use the [Resource Plan related links and lists](rsrc-plan-rltd-links-lists.md) to work on the resource plans, workbenches, or to modify the existing request allocations.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -152,7 +152,7 @@ Use the [Resource Plan related links and lists](../reference/rsrc-plan-rltd-link
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

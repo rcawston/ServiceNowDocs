@@ -218,5 +218,5 @@ Vulnerabilities
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Attack patterns](../concept/attack-patterns.md)
+</table>**Parent Topic:**[Attack patterns](attack-patterns.md)
 

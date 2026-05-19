@@ -34,5 +34,5 @@ Role required: admin
 
 Multilingual service is enabled for Now Assist in Knowledge Management.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](configuring-now-assist-km.md)
 

@@ -18,5 +18,5 @@ Reference topics provide additional information about the HR Service Delivery wi
 -   **[Components installed with HR Service Delivery Integration with Ultimate Kronos Group](installed-with-ukg-int.md)**  
 Several types of components are installed with activation of the HR Service Delivery Integration with Ultimate Kronos Group plugin, including tables and user roles.
 
-**Parent Topic:**[Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md)
+**Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)
 

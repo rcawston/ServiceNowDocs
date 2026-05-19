@@ -25,7 +25,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can use the **Planning** tab in project workspace to displays the selected project in [project workbench](../concept/c_ProjectWorkbench.md).
+You can use the **Planning** tab in project workspace to displays the selected project in [project workbench](../project-management/c_ProjectWorkbench.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ You can use the **Planning** tab in project workspace to displays the selected p
 4.  Track and manage all aspects of the project using project workbench.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](project-workspace-classic.md)
 

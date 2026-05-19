@@ -20,12 +20,12 @@ Dynamic filtering of tasks by location, functional location, equipment, and shif
 
 -   **[Industrial Connected Workforce Core](industrial-connected-workforce-core-landing-page.md)**  
 Industrial Connected Workforce \(ICW\) Core helps industrial organizations structure and manage shop floor operations efficiently. It establishes essential frameworks, such as organizational hierarchy, equipment models, shift patterns, and task flows, which enables reliable execution of industrial work.
--   **[Digital Factory Workspace](../../icw-digital-factory-workspace/concept/icw-digital-factory-workspace-landing-page.md)**  
+-   **[Digital Factory Workspace](digital-factory-workspace/icw-digital-factory-workspace-landing-page.md)**  
 Digital Factory Workspace helps standardize processes and improve efficiency on the factory shop floor by bringing tasks, equipment details, and standards together in one place. It provides structured layouts and a Standards hub to support consistent task execution and better operational performance.
--   **[Industrial Knowledge Management](../../icw-industrial-knowledge-management/concept/icw-knowledge-management-landing-page.md)**  
+-   **[Industrial Knowledge Management](industrial-knowledge-management/icw-knowledge-management-landing-page.md)**  
 Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enables you to organize and manage your knowledge resources in a single place.
--   **[Industrial Connected Workforce Mobile Experience](../../icw-mobile-experience/concept/icw-mobile-exp-landing-page.md)**  
+-   **[Industrial Connected Workforce Mobile Experience](industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)**  
 Use Industrial Connected Workforce Mobile Experience to streamline your factory shop floor processes.
--   **[AI Enhanced recommended actions for Industrial Connected Workforce](../../icw-ai-enhanced-recommended-actions/reference/ai-enhanced-ra-icw-landing.md)**  
+-   **[AI Enhanced recommended actions for Industrial Connected Workforce](ai-enhanced-ra-icw-landing.md)**  
 The AI Enhanced recommended actions for Industrial Connected Workforce \(ICW\) feature accesses external sources related to a deviation, and contextualizes how the document is relevant to the deviation.
 

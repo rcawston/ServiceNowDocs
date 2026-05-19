@@ -43,7 +43,7 @@ The new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) t
     -   The supplier task is created to collect KPI data
     -   The **KPI Instruction** field is empty
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -60,11 +60,11 @@ The new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) t
 
 [Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 
 [Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md)
 
 [Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
 
-[Restructured Supplier Task table](../concept/supplier-task-table-restructure.md)
+[Restructured Supplier Task table](supplier-task-table-restructure.md)
 

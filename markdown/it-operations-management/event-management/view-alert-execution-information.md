@@ -101,5 +101,5 @@ Date and time that the entry was created.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Alert executions information](../concept/alert-rule-execution.md)
+**Parent Topic:**[Alert executions information](alert-rule-execution.md)
 

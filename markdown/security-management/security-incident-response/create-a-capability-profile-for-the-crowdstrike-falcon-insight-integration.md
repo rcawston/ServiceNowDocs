@@ -157,5 +157,5 @@ Capabilities of the CrowdStrike Falcon Insight profile.Select the capabilities t
 
 ## What to do next
 
-Now you can [configure your profile](configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md). Verify that you have [reviewed the concepts for configuring profiles and trigger conditions](../concept/define-trigger-conditions.md) before you configure the profile.
+Now you can [configure your profile](configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md). Verify that you have [reviewed the concepts for configuring profiles and trigger conditions](define-trigger-conditions.md) before you configure the profile.
 

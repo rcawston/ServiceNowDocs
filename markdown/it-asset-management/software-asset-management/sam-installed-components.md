@@ -152,7 +152,7 @@ This plugin is for releases prior to Australia. Loads the following Software Ass
 -   All publisher pack add-on plugins
 -   Software Asset Management UI Components \(com.sn\_samp\_workbench\)
 
- **Note:** To enable SaaS License Management, you must request the Software Asset Management — SaaS License Management \(sn\_sam\_saas\_int\) plugin separately from the ServiceNow Store. See [Request SaaS License Management](../task/request-saas-license-management.md) for information on how to request and activate this plugin.
+ **Note:** To enable SaaS License Management, you must request the Software Asset Management — SaaS License Management \(sn\_sam\_saas\_int\) plugin separately from the ServiceNow Store. See [Request SaaS License Management](../saas-license-management/request-saas-license-management.md) for information on how to request and activate this plugin.
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ Software Asset Management — SaaS License Management\(sn\_sam\_saas\_int\)
 
 ServiceNow Store
 
- See [Request SaaS License Management](../task/request-saas-license-management.md) for information on how to request and activate this plugin from the ServiceNow Store.
+ See [Request SaaS License Management](../saas-license-management/request-saas-license-management.md) for information on how to request and activate this plugin from the ServiceNow Store.
 
 </td><td>
 

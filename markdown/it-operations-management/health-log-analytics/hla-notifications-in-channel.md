@@ -105,5 +105,5 @@ The service instance associated with the alert.If this field is empty, the syste
     4.  Select **Update**.
 
 
-**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](../concept/hla-alert-notification-in-channel.md)
+**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](hla-alert-notification-in-channel.md)
 

@@ -79,5 +79,5 @@ Shows the name of the owner of the CI, the support group assigned to it, and ava
     The **Dependency View** map opens. The map visually represents the relationships between CIs, helping you understand how different components are interconnected.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](dependency-maps.md)
 

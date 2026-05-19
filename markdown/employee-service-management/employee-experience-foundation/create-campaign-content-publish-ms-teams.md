@@ -17,9 +17,9 @@ Create notifications to send messages directly to your employees through Microso
 
 ## Before you begin
 
--   [Install the necessary plugins](../concept/using-campaigns-ms-teams.md)
+-   [Install the necessary plugins](using-campaigns-ms-teams.md)
 -   Role required: sn\_cd.campaign\_manager
--   A Microsoft Teams notification includes a link [Create a video, URL, or to-do link](../../employee-center/task/ecpro-manage-link-content.md)
+-   A Microsoft Teams notification includes a link [Create a video, URL, or to-do link](ecpro-manage-link-content.md)
 
 ## Procedure
 
@@ -124,7 +124,7 @@ Option to indicate that the notification is active and available.
 
 Make the content available to users: [Schedule delivery of Microsoft Teams notification content](schedule-delivery-content.md#).
 
-Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](../../employee-center/concept/ecpro-campaigns.md)
+Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](ecpro-campaigns.md)
 
-**Parent Topic:**[Create a Microsoft Teams campaign using direct content publishing](../concept/create-campaign-content-publishing.md)
+**Parent Topic:**[Create a Microsoft Teams campaign using direct content publishing](create-campaign-content-publishing.md)
 

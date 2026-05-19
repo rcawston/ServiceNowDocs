@@ -37,5 +37,5 @@ You can set card limit for both Freeform board and Flexible and Guided board in 
     **Note:** Performance degradation may occur if you set the **Value** to a number greater than 1,000, especially on tablet devices.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

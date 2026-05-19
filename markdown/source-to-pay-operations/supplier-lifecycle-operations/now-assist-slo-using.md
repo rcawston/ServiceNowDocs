@@ -18,18 +18,18 @@ If you have the sn\_slm.fulfiller or sn\_slm.admin role, you can generate suppli
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-For more information on how to use Now Assist for SLO to summarize a case, see [Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](../task/now-assist-slo-summarize-case.md).
+For more information on how to use Now Assist for SLO to summarize a case, see [Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](now-assist-slo-summarize-case.md).
 
 For more information on how to use Now Assist for SLO in a Virtual Agent chat, see [Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](now-assist-slo-va.md).
 
 **Related topics**  
 
 
-[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](../task/now-assist-slo-summarize-case.md)
+[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](now-assist-slo-summarize-case.md)
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](now-assist-slo-va.md)
 
 [Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-exploring.md)
 
-[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md)
+[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-configuring.md)
 

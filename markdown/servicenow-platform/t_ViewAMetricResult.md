@@ -43,7 +43,7 @@ Assessment group
 
 </td><td>
 
-[Assessment group](../concept/c_AssessmentGroups.md) to which the metric result is associated.
+[Assessment group](c_AssessmentGroups.md) to which the metric result is associated.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Method
 
 </td><td>
 
-[method](../concept/c_AssessmentMetrics.md) of the metric.
+[method](c_AssessmentMetrics.md) of the metric.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Instance
 
 </td><td>
 
-[Assessment instance](../concept/c_AssessmentInstances.md) completed by the **Assigned to** user. This field is blank when the method is **Script**.
+[Assessment instance](c_AssessmentInstances.md) completed by the **Assigned to** user. This field is blank when the method is **Script**.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Unscaled value from a user response or script, depending on the method:
     -   **Checkbox**: The actual value is 0 if the check box is cleared and 1 if it is selected.
     -   **Choice** or **Likert Scale**: The actual value is equal to the Value of the metric definition associated with the chosen answer option.
     -   **Date**, **Date/Time,** or **String**: The actual value is -1 to indicate that these data types do not contribute to category result calculations.
-    -   **Template**: The actual value is equal to the **Value** of the [template definition](../reference/r_MetricTemplates.md) associated with the chosen answer option.
+    -   **Template**: The actual value is equal to the **Value** of the [template definition](r_MetricTemplates.md) associated with the chosen answer option.
     -   **Yes/No**: The actual value is 0 if the response is **No** and 1 if it is **Yes**.
 -   **Script**: Value the script placed in the *actual\_result* variable.
  This field is hidden and left blank when the data type is **Duration**.
@@ -171,16 +171,16 @@ Value that displays the response as it appears on a questionnaire. In some cases
 
 </td></tr></tbody>
 </table>
--   **[Assessment results](../reference/r_AssessmentResults.md)**  
+-   **[Assessment results](r_AssessmentResults.md)**  
 In the Assessments application, when the system processes completed questionnaires or gathers values returned from scripted metric queries, it generates assessment result records called metric and category results.
--   **[Assessment Overview dashboard](../reference/r_AssessmentsOverviewModule.md)**  
+-   **[Assessment Overview dashboard](r_AssessmentsOverviewModule.md)**  
 The Assessment Overview dashboard displays various assessment reports, such as Assessable Records by Type, Total Metrics by Metric Type, and Assessments by State.
 -   **[View assessment reports](view-assessment-report.md)**  
 Use the Assessment Overview dashboard to view your assessment reports.
--   **[Assessment results calculation](../concept/c_AssessmentResultsCalculation.md)**  
+-   **[Assessment results calculation](c_AssessmentResultsCalculation.md)**  
 For every assessment group, there are assessment results.
--   **[View a bubble chart for assessments](../../service-administration/task/t_view-bubble-chart-assessments.md)**  
+-   **[View a bubble chart for assessments](t_view-bubble-chart-assessments.md)**  
 Assessment administrators can view bubble charts to compare the relative standing of assessable records in three metric categories.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

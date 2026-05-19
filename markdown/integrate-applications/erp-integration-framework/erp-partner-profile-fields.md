@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The partner profile record in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information that defines inbound and outbound communications with a partner.
 
-For process details, see [View Zero Copy Connector for ERP partner profile information](../task/view-erp-system-partner-profile-information.md).
+For process details, see [View Zero Copy Connector for ERP partner profile information](view-erp-system-partner-profile-information.md).
 
 <table id="table_nfm_dcz_1hc"><thead><tr><th>
 

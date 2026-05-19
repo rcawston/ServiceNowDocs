@@ -83,7 +83,7 @@ The Software Asset Management application supports the following license metrics
     -   Oracle WebLogic Server
     If a user operates a device that accesses any of these Oracle products, the NUP license metric licenses both the user and the device. Use this license metric in environments where users and devices are easily identifiable and countable.
 
-    **Important:** To use this license metric, you must create a corresponding client access record. Client access records enable you to track and manage the users or devices that are accessing a particular version of your software. The Software Asset Management application can then use the information in these client access records to reconcile your software. For more information on client access records, see [Create a software client access record in workspace](../task/create-clientaccess-workspace.md) or [Add a software client access record in Software Asset Management classic](../task/t_AddAClientAccessRec.md).
+    **Important:** To use this license metric, you must create a corresponding client access record. Client access records enable you to track and manage the users or devices that are accessing a particular version of your software. The Software Asset Management application can then use the information in these client access records to reconcile your software. For more information on client access records, see [Create a software client access record in workspace](create-clientaccess-workspace.md) or [Add a software client access record in Software Asset Management classic](t_AddAClientAccessRec.md).
 
     The NUP license metric implements different licensing minimums based on the Oracle Database or Oracle WebLogic Server edition that your users and devices are accessing.
 
@@ -124,19 +124,19 @@ The Software Asset Management application supports the following license metrics
 
     When you allocate rights for a database using the NUP or Per Processor license metric, Software Asset Management automatically allocates rights for the associated Database options and management packs using the same license metric.
 
-    If you create a [Client Access License](../task/t_AddAClientAccessRec.md) \(CAL\) record to specify the number of users or devices that can access an Oracle Database or WebLogic Server, the Software Asset Management application licenses users and devices using only the NUP license metric. Software Asset Management doesn’t use the Per Processor license metric even if Per Processor licenses are available.
+    If you create a [Client Access License](t_AddAClientAccessRec.md) \(CAL\) record to specify the number of users or devices that can access an Oracle Database or WebLogic Server, the Software Asset Management application licenses users and devices using only the NUP license metric. Software Asset Management doesn’t use the Per Processor license metric even if Per Processor licenses are available.
 
 -   **Employee**
 
     The Employee license metric licenses the total number of full-time, part-time, and temporary employees, including those employed directly and indirectly through agents, contractors, and consultants, according to Oracle's definition of internal business operations.
 
-    The Employee license metric calculates the number of licenses that are required by the total number of employees and not the number of employees that use the Oracle Java SE Universal. The licensing cost is calculated using a tier-based pricing model defined by Oracle. The pricing model is stored in the Price tier \[samp\_price\_tier\] table. For more details, see [Pricing model for Oracle Java SE Universal](../reference/oracle-price-tiers.md).
+    The Employee license metric calculates the number of licenses that are required by the total number of employees and not the number of employees that use the Oracle Java SE Universal. The licensing cost is calculated using a tier-based pricing model defined by Oracle. The pricing model is stored in the Price tier \[samp\_price\_tier\] table. For more details, see [Pricing model for Oracle Java SE Universal](oracle-price-tiers.md).
 
     Additionally, for the Employee license metric, the true-up cost is shown for a subscription period of one year.
 
-    When you run reconciliation for a software model that has one or more entitlements with the Employee license metric, a right is consumed for each employee recorded in the resource value records. You can create a resource value record for the Java SE software model keeping the value of units consumed the same as the number of employees consuming the licenses. For details, see [Create a resource value record](../task/create-resource-value-record.md).
+    When you run reconciliation for a software model that has one or more entitlements with the Employee license metric, a right is consumed for each employee recorded in the resource value records. You can create a resource value record for the Java SE software model keeping the value of units consumed the same as the number of employees consuming the licenses. For details, see [Create a resource value record](create-resource-value-record.md).
 
-    When you're using a custom tier table, you can update the override license cost records associated with the Java SE software model. For details, see [Create or update an override license cost record](../task/create-edit-override-license-cost.md).
+    When you're using a custom tier table, you can update the override license cost records associated with the Java SE software model. For details, see [Create or update an override license cost record](create-edit-override-license-cost.md).
 
 
 ## Oracle verified third-party vendor tool
@@ -159,17 +159,17 @@ The Software Asset Management application supports licensing rules for Oracle Da
 The Software Asset Management application supports licensing rules for Oracle databases in multitenant architectures.
 -   **[Oracle Database licensing for Standard Editions](oracle-db-licensing-std-edition.md)**  
 Oracle Database Standard Editions are licensed on servers having a value less than the maximum capacity of sockets to help ensure risk-free license compliance.
--   **[Oracle Database options and management packs](../reference/oracle-options.md)**  
+-   **[Oracle Database options and management packs](oracle-options.md)**  
 You can use the Software Asset Management publisher pack for Oracle to track licensing positions for your Oracle Database options and management packs. The Licensable Oracle Options \[samp\_oracle\_option\_set\] table provides the complete list of database options and management packs that you can create software models for.
 -   **[Oracle reconciliation](oracle-recon.md)**  
 Oracle reconciliation keeps your Oracle license positions accurate and up-to-date without requiring manual calculations. Reconciliation runs weekly or on-demand.
--   **[Oracle Infrastructure report](../reference/oracle-infrastructure-report.md)**  
+-   **[Oracle Infrastructure report](oracle-infrastructure-report.md)**  
 You can use the Oracle Infrastructure report to gain visibility into your Oracle infrastructure. This report includes information about the Oracle databases and WebLogic Server editions that you’re running and the configuration items that are supporting them.
--   **[Oracle DB Server Deployments per Agreement report](../reference/oracle-server-agreement.md)**  
+-   **[Oracle DB Server Deployments per Agreement report](oracle-server-agreement.md)**  
 You can use the Oracle DB Server Deployments per Agreement report to gain visibility into your Oracle Database server deployments across hybrid infrastructures, based on the agreement type.
--   **[Software Publisher Analytics dashboard for Oracle in Software Asset Management classic](../reference/dashboard-oracle.md)**  
+-   **[Software Publisher Analytics dashboard for Oracle in Software Asset Management classic](dashboard-oracle.md)**  
 View compliance analysis results related to Oracle on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
--   **[Publisher overview for Oracle in the Software Asset Workspace](../reference/publisher-overview-oracle.md)**  
+-   **[Publisher overview for Oracle in the Software Asset Workspace](publisher-overview-oracle.md)**  
 View license usage information related to Oracle in the publisher overview for Oracle in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](sam-publisher-packs.md)

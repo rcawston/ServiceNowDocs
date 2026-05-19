@@ -59,8 +59,8 @@ At the end of the migration process, a confirmation message specifies if the mig
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](../reference/ribbons-migration-itsm-aw-sow.md#section_irt_kq3_ccc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](ribbons-migration-itsm-aw-sow.md#section_irt_kq3_ccc) section.
 
 
-**Parent Topic:**[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/view-rules-migration-itsm-aw-sow.md)
+**Parent Topic:**[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](view-rules-migration-itsm-aw-sow.md)
 

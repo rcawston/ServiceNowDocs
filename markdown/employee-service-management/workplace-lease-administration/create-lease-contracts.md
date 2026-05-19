@@ -33,7 +33,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 5.  On the form, fill in the rest of the fields.
 
-    For description of the field values, see [Workplace contract new record form](../reference/workplace-contract-form.md).
+    For description of the field values, see [Workplace contract new record form](workplace-contract-form.md).
 
 6.  Right-click the form header and select **Save**.
 
@@ -71,7 +71,7 @@ Add and build terms and condition when a contract is in the Awaiting Review, Rej
 -   **[Add a document to a workplace contract in Core UI](add-document-to-workplace-contract.md)**  
 Add documents to the workplace contract to maintain a record of all relevant documents and different versions of those documents.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](../concept/use-lease-admin-core-ui.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](use-lease-admin-core-ui.md)
 
 **Related topics**  
 

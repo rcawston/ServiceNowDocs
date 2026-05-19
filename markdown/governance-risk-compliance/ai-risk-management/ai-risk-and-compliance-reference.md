@@ -20,5 +20,5 @@ The AI Risk and Compliance installs the essential roles to perform respective da
 -   **[Tables installed with AI Risk and Compliance](tables-installed-with-ai-risk-and-compliance.md)**  
 Tables are added with the activation of the AI Risk and Compliance application.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](../r_WhatIsGRC.md)
 

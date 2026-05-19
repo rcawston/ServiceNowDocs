@@ -105,5 +105,5 @@ Rosters affected after modifying the order of a member. This field is auto-popul
     The member appears in the new order. The original record has a **To** date for the end of validity and the new record has the current date as the **From** date for the start of validity.
 
 
-**Parent Topic:**[Managing roster members](../concept/managing-roster-members.md)
+**Parent Topic:**[Managing roster members](managing-roster-members.md)
 

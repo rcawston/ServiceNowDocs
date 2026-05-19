@@ -54,7 +54,7 @@ Table
 Table that is used for the filter configuration. **Note:**
 
 -   You can filter only on specific tables or database views for each module.
--   For a list of tables and database views that you can use for each module, see the Filter Configuration Tables section in [Workforce Optimization for ITSM components](../reference/components-installed-workforce-optimization-itsm.md).
+-   For a list of tables and database views that you can use for each module, see the Filter Configuration Tables section in [Workforce Optimization for ITSM components](components-installed-workforce-optimization-itsm.md).
 
 
 </td></tr><tr><td>
@@ -111,5 +111,5 @@ Option that enables the filter configuration in Manager Workspace.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](../concept/advanced-configuration-workforce-optimization-itsm.md)
+**Parent Topic:**[Advanced configurations for Workforce Optimization for ITSM](advanced-configuration-workforce-optimization-itsm.md)
 

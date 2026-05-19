@@ -42,5 +42,5 @@ Deleting any rules results in their permanent removal, and they can’t be retri
     The alert rule is removed from the list.
 
 
-**Parent Topic:**[Managing DEX alert rules](../concept/dex-metrics-metric-rules-management.md)
+**Parent Topic:**[Managing DEX alert rules](dex-metrics-metric-rules-management.md)
 

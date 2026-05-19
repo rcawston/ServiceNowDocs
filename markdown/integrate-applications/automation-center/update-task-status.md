@@ -42,5 +42,5 @@ After the automation request is moved to the following states, the option to upd
 6.  Follow the steps in the [Edit a task](edit-task.md) section to update the status of the task.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](working-golive.md)
 

@@ -43,7 +43,7 @@ Verify that you have created Smart Assessment templates for integrating crisis e
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Action item form for crisis events](../reference/create-new-action-item-crisis-event-form.md).
+    For descriptions of all these fields, see [Create New Action item form for crisis events](create-new-action-item-crisis-event-form.md).
 
     1.  Add the description and short description of the action item.
 
@@ -84,7 +84,7 @@ Verify that you have created Smart Assessment templates for integrating crisis e
         5.  Publish the assessment template.
         Only when these conditions are met, the template is available for selection in the drop-down of the action item form.
 
-        For information on setting up Smart Assessment templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+        For information on setting up Smart Assessment templates, see [Create an assessment template](smart-assessment-engine/sae-asmnt-template-create.md).
 
     2.  Add an assignment group or a team member and additional assignee list, select the timeline, and save the record.
 
@@ -111,8 +111,8 @@ Verify that you have created Smart Assessment templates for integrating crisis e
     This step completes the workflow of the action item record.
 
 
--   **[Create New Action item form for crisis events](../reference/create-new-action-item-crisis-event-form.md)**  
+-   **[Create New Action item form for crisis events](create-new-action-item-crisis-event-form.md)**  
 Use the Create New Action item form in the BCM Configurable Workspace to add action items about a crisis event.
 
-**Parent Topic:**[Creating action items in crisis events](../concept/creating-action-items-in-crisis.md)
+**Parent Topic:**[Creating action items in crisis events](creating-action-items-in-crisis.md)
 

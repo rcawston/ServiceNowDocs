@@ -36,5 +36,5 @@ Role required: itil, list\_updater, sn\_incident\_write, or admin
     The changes apply to all the selected records.
 
 
-**Parent Topic:**[Incident resolution and closure](../concept/c_IncidentResolutionAndRecovery.md)
+**Parent Topic:**[Incident resolution and closure](c_IncidentResolutionAndRecovery.md)
 

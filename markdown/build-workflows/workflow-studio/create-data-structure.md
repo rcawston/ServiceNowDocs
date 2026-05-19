@@ -57,5 +57,5 @@ A data structure is a collection of related data elements organized into a hiera
 
 Use the data structure to populate action, step, or subflow inputs. If you can reuse the data structure, save it as a template.
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](complex-data.md)
 

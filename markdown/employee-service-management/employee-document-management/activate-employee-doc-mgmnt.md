@@ -34,12 +34,12 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Employee Document Management](../concept/configuring-employee-document-management.md)
+**Parent Topic:**[Configuring Employee Document Management](configuring-employee-document-management.md)
 
 **Related topics**  
 
 
-[Defining and setting for employee documents](../concept/hr-doc-management-config.md#)
+[Defining and setting for employee documents](hr-doc-management-config.md#)
 
 ## Request employee document management bulk uploads
 

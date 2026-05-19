@@ -30,5 +30,5 @@ Role required: sam\_admin or sam\_user
     Clicking a record takes you to the Company page in the classic view.
 
 
-**Parent Topic:**[License Operation view for Software Asset Management Foundation plugin](../concept/license-operation-view-samf.md)
+**Parent Topic:**[License Operation view for Software Asset Management Foundation plugin](license-operation-view-samf.md)
 

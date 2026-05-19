@@ -41,13 +41,13 @@ TSM combines purpose-built applications with CSM and core platform capabilities 
 
 |Application|Value|
 |-----------|-----|
-|[Now Assist for Telecommunications, Media and Technology \(TMT\)](../../tmt-spmc/reference/now-assist-spmc.md)|Use AI-powered industry workflows to supercharge insights, actions, and self-service experiences.|
-|[Customer Service Problem Management](../../tmt-spmc/reference/cspm-landing-page.md)|Efficiently identify and resolve service problems with a streamlined service management process.|
-|[Customer Success Management](../../tmt-account-lifecycle/reference/account-lifecycle-events-landing.md)|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
-|[Service Exchange](../../tmt-service-bridge/concept/tmt-service-bridge-both-landing-page.md)|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
-|[Product Support for Technology](../../tmt-assurance-workflows/concept/assurance-workflows.md)|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
-|[Service Test Management](../../tmt-service-test-management/reference/stm-landing-page.md)|Unite customer service and network operations on a single platform.|
-|[Telecommunications Customer 360](../../tmt-telecom-customer-360/concept/c360-land-page.md)|Aggregate data from multiple systems into a single platform.|
+|[Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-for-telecom-media-and-technology/now-assist-spmc.md)|Use AI-powered industry workflows to supercharge insights, actions, and self-service experiences.|
+|[Customer Service Problem Management](cspm-landing-page.md)|Efficiently identify and resolve service problems with a streamlined service management process.|
+|[Customer Success Management](account-lifecycle-events-landing.md)|Drive adoption, mitigate risk, and maximize customer value with proactive success strategies, real-time health monitoring, and intelligent automation.|
+|[Service Exchange](tmt-service-bridge-both-landing-page.md)|Quickly connect enterprise customers and suppliers running ServiceNow® to optimize work across the value chain.|
+|[Product Support for Technology](assurance-workflows.md)|Proactively notify customers of service disruptions and provide real-time resolution tracking.|
+|[Service Test Management](stm-landing-page.md)|Unite customer service and network operations on a single platform.|
+|[Telecommunications Customer 360](c360-land-page.md)|Aggregate data from multiple systems into a single platform.|
 
 ## Additional resources
 

@@ -30,7 +30,7 @@ Role required: sn\_sre.admin
 
 1.  Configure the properties for the Skill recommendation application.
 
-    For more information, see [properties for the Skill Recommendation application](../reference/components-wfo-fsm.md).
+    For more information, see [properties for the Skill Recommendation application](../components-wfo-fsm.md).
 
 2.  Run the solution definition models such as **Recommend similar skills for cases** or **Recommend skills from similar cases** to train the supervised and unsupervised solutions.
 
@@ -40,7 +40,7 @@ Role required: sn\_sre.admin
 
     This scheduled job is inactive by default. When you activate it, the job runs daily at 1:00 a.m. on all cases resolved the previous day. The job then adds the skills to the User Predicted Skill \[sn\_sre\_user\_predicted\_skill\] and Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\] tables.
 
-    **Note:** Recommended skills will start appearing once the number of records in the User Predicted Skill \[sn\_sre\_task\_predicted\_skill\] table exceeds the value defined in the **sn\_sre.user\_predicted\_skill\_threshold** property. For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+    **Note:** Recommended skills will start appearing once the number of records in the User Predicted Skill \[sn\_sre\_task\_predicted\_skill\] table exceeds the value defined in the **sn\_sre.user\_predicted\_skill\_threshold** property. For more information, see [Workforce Optimization for Field Service components](../components-wfo-fsm.md).
 
 
 ## Use extension points for skill prediction

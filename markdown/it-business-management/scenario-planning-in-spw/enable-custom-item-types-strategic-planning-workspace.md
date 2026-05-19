@@ -42,6 +42,6 @@ Add the table that you want to allow for planning in Portfolio plans and free-fo
 
 ## What to do next
 
--   For portfolio plans: Add your custom planning item type to the lens that your planning managers want to use. See [Lens form](../reference/lens-form-alignment-planner-workspace.md).
--   For free-form roadmaps: [Create planning items from the roadmap view](../../spw-roadmap/task/create-new-items-from-a-roadmap.md).
+-   For portfolio plans: Add your custom planning item type to the lens that your planning managers want to use. See [Lens form](lens-form-alignment-planner-workspace.md).
+-   For free-form roadmaps: [Create planning items from the roadmap view](create-new-items-from-a-roadmap.md).
 

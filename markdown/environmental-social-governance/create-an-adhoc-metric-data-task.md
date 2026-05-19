@@ -44,10 +44,10 @@ However, for calculated metric definitions that have the **Calculation level** f
 
 ## What to do next
 
-For information about features that are not supported for ad hoc metric data tasks, see [Ad hoc metric data task limitations](../reference/ad-hoc-metric-data-task-limitations.md).
+For information about features that are not supported for ad hoc metric data tasks, see [Ad hoc metric data task limitations](ad-hoc-metric-data-task-limitations.md).
 
--   **[Ad hoc metric data task limitations](../reference/ad-hoc-metric-data-task-limitations.md)**  
+-   **[Ad hoc metric data task limitations](ad-hoc-metric-data-task-limitations.md)**  
 Ad hoc metric data tasks don't support certain features that are available for scheduled metric data tasks.
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-grc-metrics.md)
 

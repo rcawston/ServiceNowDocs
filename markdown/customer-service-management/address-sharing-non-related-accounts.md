@@ -48,7 +48,7 @@ Role required:
 **Related topics**  
 
 
-[Reusing addresses between multiple accounts](../concept/reuse-account-addresses.md)
+[Reusing addresses between multiple accounts](reuse-account-addresses.md)
 
 [Address sharing through account hierarchy](address-sharing-account-hierarchy.md)
 

@@ -145,7 +145,7 @@ The calendar provider is added.
 
 Run Instance scan to check Microsoft Exchange Online synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 

@@ -80,7 +80,7 @@ Approve or reject a time-off request.**Note:** Add a reason for rejection of a t
 |Swipe left on any of the shift cards|Tap **Provide coverage** to provide coverage for the shift.|
 |Tap **Provide Coverage**|Provide coverage for a gap in the shift.|
 
-For detailed procedure see [Managing teams and incidents using My Team applet](../../../product/incident-management/concept/my-team-application.md).
+For detailed procedure see [Managing teams and incidents using My Team applet](../itsm-mobile-agent/my-team-application.md).
 
 **Parent Topic:**[Mobile experience for On-Call Scheduling](mobile-experience-ocs.md)
 

@@ -21,15 +21,15 @@ Group data by type, using pre-defined or user-defined data classifications. If y
 
 </td><td>
 
-[Configure Data Classification ![Configuring](../../../common/image/icon-set-up.png) Create and configure your own data classes.](../task/create-data-classification-codes.md)
+[Configure Data Classification ![Configuring](../../../common/image/icon-set-up.png) Create and configure your own data classes.](create-data-classification-codes.md)
 
 </td></tr><tr><td>
 
-[Reference for Data Classification ![Reference](../../../common/image/icon-reference.png) Learn how Data Classification works with demo data.](../task/install-data-classification-plugin-demo-data.md#)
+[Reference for Data Classification ![Reference](../../../common/image/icon-reference.png) Learn how Data Classification works with demo data.](install-data-classification-plugin-demo-data.md#)
 
 </td><td>
 
-[Analyze Data Classifications ![Analyze](../../../common/image/icon-workspace.png) Learn how to analyze Data Classifications.](../task/analyze-data-classifications.md)
+[Analyze Data Classifications ![Analyze](../../../common/image/icon-workspace.png) Learn how to analyze Data Classifications.](analyze-data-classifications.md)
 
 </td></tr></tbody>
 </table>

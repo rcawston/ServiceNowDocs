@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowWeb API is a top-level global API that enables uses to instantiate a NowWeb service instance.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowWeb - makeWebService\(instanceUrl: URL\) async throws
 
@@ -37,7 +37,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[NowWebService](../../NowWebService/concept/NowWebServiceiOSAPI.md#)
+[NowWebService](NowWebServiceiOSAPI.md#)
 
 </td><td>
 
@@ -79,7 +79,7 @@ You must initialize the SDK prior to calling this function or the completion blo
 |Name|Type|Description|
 |----|----|-----------|
 |instanceUrl|URL|URL of the ServiceNow instance whose web services are to be accessed by the service.|
-|completion|@escaping \(\(Result&lt;[NowWebService](../../NowWebService/concept/NowWebServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowWebService, NowServiceError>` containing either an initialized `NowWebService` instance or a `NowServiceError` indicating why the initialization failed.|
+|completion|@escaping \(\(Result&lt;[NowWebService](NowWebServiceiOSAPI.md#), Now​Service​Error&gt;\) -&gt; Void\)|Completion handler that is called with a `Result<NowWebService, NowServiceError>` containing either an initialized `NowWebService` instance or a `NowServiceError` indicating why the initialization failed.|
 
 |Type|Description|
 |----|-----------|
@@ -113,7 +113,7 @@ You must initialize the SDK prior to calling this function or the completion blo
 
 |Type|Description|
 |----|-----------|
-|AnyPublisher&lt;[NowWebService](../../NowWebService/concept/NowWebServiceiOSAPI.md#), NowServiceError&gt;|If successful, returns an initialized NowWebService object. If it fails, returns a NowServiceError object.|
+|AnyPublisher&lt;[NowWebService](NowWebServiceiOSAPI.md#), NowServiceError&gt;|If successful, returns an initialized NowWebService object. If it fails, returns a NowServiceError object.|
 
 ```
 func initializeWebService() {

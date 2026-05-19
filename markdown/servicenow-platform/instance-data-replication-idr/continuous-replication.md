@@ -28,5 +28,5 @@ Inserts and updates on the producer instance are replicated in near-real time.
 -   Monitor how long updates from the producer to the consumer are taking in the Monitoring Dashboard. See [Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md).
 -   Monitor the replication record queue, message queue, and messages processed for all replications sets by in the Queue Dashboard. See [Monitoring queues in Instance Data Replication](idr-queue-dashboard.md).
 
-For more information, see [Set up continuous replication](../task/set-up-continuous-replication-idr.md).
+For more information, see [Set up continuous replication](set-up-continuous-replication-idr.md).
 

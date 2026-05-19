@@ -135,13 +135,13 @@ Text that is used if the API expects a message body, such as a JSON snippet.
 
         -   In the Alert settings section, activate the toggle switch.
         -   Select an alert severity for a test failure.
-        -   Add tags to the alert. For more information about using tags in alerts, see [Tag cluster alert grouping](../../event-management/concept/alert-clustering-tag-definitions-concept.md).
+        -   Add tags to the alert. For more information about using tags in alerts, see [Tag cluster alert grouping](event-management/alert-clustering-tag-definitions-concept.md).
 4.  Select **Save**.
 
 
 ## Result
 
-The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [Identifying system issues with synthetic monitoring](../concept/identifying-system-issues.md) for more information.
+The Overview page for the synthetic monitor displays the results of the tests that the monitor runs. See [Identifying system issues with synthetic monitoring](identifying-system-issues.md) for more information.
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
 

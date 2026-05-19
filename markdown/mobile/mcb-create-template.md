@@ -45,7 +45,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 6.  Add elements to your card template using the card builder interface.
 
-    For details on using the card builder UI, see [Mobile Card Builder user interface](../reference/mcb-stage-ui.md)
+    For details on using the card builder UI, see [Mobile Card Builder user interface](mcb-stage-ui.md)
 
 7.  Open the screen where you want to apply your card template by using the following methods.
 

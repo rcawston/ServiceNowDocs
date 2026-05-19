@@ -40,7 +40,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create an extension section after the Linux Server pattern**
 
-    Create an extension section after the Linux Server pattern and associate the **Citrix Xen HyperV** pattern to be triggered after the execution of the Linux Server discovery pattern. For more information on creating extension sections, see [Enhance patterns without changing their identification sections](../task/modify-pattern-using-extensions.md).
+    Create an extension section after the Linux Server pattern and associate the **Citrix Xen HyperV** pattern to be triggered after the execution of the Linux Server discovery pattern. For more information on creating extension sections, see [Enhance patterns without changing their identification sections](modify-pattern-using-extensions.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -323,5 +323,5 @@ Relationships created by Citrix Xen Hyper-V Discovery
 |cmdb\_ci\_hyper\_v\_server|Define resources for :: Gets resources from|cmdb\_ci\_hyper\_v\_resource\_pool|
 |cmdb\_ci\_hyper\_v\_instance|Registered on :: Has registered|cmdb\_ci\_hyper\_v\_server|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

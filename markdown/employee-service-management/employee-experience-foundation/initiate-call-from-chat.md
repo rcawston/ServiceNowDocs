@@ -52,5 +52,5 @@ Role required: itil, itil\_admin
     Click meeting chat link to view the conversation occurred in Microsoft Teams.
 
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](agent-sn-ms-teams.md)
 

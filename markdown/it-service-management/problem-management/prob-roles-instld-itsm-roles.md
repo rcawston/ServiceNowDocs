@@ -78,5 +78,5 @@ Enables gathering, and verifying information, as well as delivering quick resolu
 -   now\_assist\_panel\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request ITSM Roles — Problem Management](../task/req-itsm-roles-prob-mgmt.md)
+</table>**Parent Topic:**[Request ITSM Roles — Problem Management](req-itsm-roles-prob-mgmt.md)
 

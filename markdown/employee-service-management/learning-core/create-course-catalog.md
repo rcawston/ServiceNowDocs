@@ -27,7 +27,7 @@ Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Course catalog form](../reference/course-catalog-table.md).
+    For a description of the field values, see [Course catalog form](course-catalog-table.md).
 
 4.  Click **Submit**.
 

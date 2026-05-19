@@ -27,7 +27,7 @@ The integration of Localization Framework with NLU Workbench enables you to do t
 
 -   Translate the content of the Natural Language Understanding models directly from the NLU Workbench.
 
-    **Note:** Only users with the localization\_editor role can translate content on the comparison UI of the Natural Language Understanding model in the NLU Workbench. For more information about the localization\_editor role, see [Localization Framework Roles](../reference/roles-localization-framework.md#).
+    **Note:** Only users with the localization\_editor role can translate content on the comparison UI of the Natural Language Understanding model in the NLU Workbench. For more information about the localization\_editor role, see [Localization Framework Roles](roles-localization-framework.md#).
 
 -   Approve and publish the translated content.
 

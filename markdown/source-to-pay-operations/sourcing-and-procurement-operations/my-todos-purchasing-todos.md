@@ -25,5 +25,5 @@ In the **Purchase detail view**, you can also view all approval requests, includ
 
 You can select **View activity** on a purchasing to-do item to display a light view of the to-do, where you can view its activity stream, and compose a message and post it as a comment in the activity stream. You can also tag a person you want to address, with "@&lt;primary contact name&gt;", in the **Comments** field. An instructional message is displayed above the Compose section, which dynamically shows who the primary contact is for the associated purchasing task. An email notification is sent to the user who is tagged such that they know when they have been mentioned in an activity stream post.
 
-**Parent Topic:**[My purchases on Shopping Hub](../concept/my-purchases.md)
+**Parent Topic:**[My purchases on Shopping Hub](my-purchases.md)
 

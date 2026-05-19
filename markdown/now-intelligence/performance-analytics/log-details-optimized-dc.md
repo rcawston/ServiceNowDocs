@@ -25,7 +25,7 @@ The data collection job involves executing an SQL query for each indicator sourc
 
 Follow the data collection process as revealed in log messages. The log messages in each subprocess have been separated into their own tables.
 
-**Note:** This log is for the optimized HSQL data collector as described in [Optimizing data collection](../concept/optimized-data-collection.md). If **com.snc.pa.dc.hsql** is "false," you are using the classic data collector. Otherwise, you are using the optimized data collector. For more information about that log, see [Log details for classic data collector](original-data-collection-process.md).
+**Note:** This log is for the optimized HSQL data collector as described in [Optimizing data collection](optimized-data-collection.md). If **com.snc.pa.dc.hsql** is "false," you are using the classic data collector. Otherwise, you are using the optimized data collector. For more information about that log, see [Log details for classic data collector](original-data-collection-process.md).
 
 <table id="table_kwh_k4g_qbb"><thead><tr><th>
 
@@ -73,7 +73,7 @@ Indicator Sources to collect: Incidents.New: b54f2c23d7030100b96d45a3ce61032f, I
 
 </td></tr><tr><td>
 
-Lists each indicator associated with the job and the indicator properties that are related to data collection:-   Are records collected in a [snapshot](../concept/performance-analytics-glossary.md#)?
+Lists each indicator associated with the job and the indicator properties that are related to data collection:-   Are records collected in a [snapshot](performance-analytics-glossary.md#)?
 -   Are any breakdowns excluded?
 -   Are the collection periods in the indicator source overridden?
 -   Is the breakdown matrix collected?
@@ -333,12 +333,12 @@ The map/reduce function completes.
 Applied map/reduce function
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+</table>**Parent Topic:**[Data collection process and logging](data-collection-process-logging.md)
 
 **Related topics**  
 
 
-[Optimizing data collection](../concept/optimized-data-collection.md)
+[Optimizing data collection](optimized-data-collection.md)
 
-[View the data collection job logs](../task/t_ViewingADataCollectionJobLog.md)
+[View the data collection job logs](t_ViewingADataCollectionJobLog.md)
 

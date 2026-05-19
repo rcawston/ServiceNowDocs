@@ -153,5 +153,5 @@ The knowledge base article is created.
 
 ## What to do next
 
-Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](../../workplace-service-delivery/task/publish-workplace-kb-article-wsd.md).
+Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](../workplace-core/publish-workplace-kb-article-wsd.md).
 

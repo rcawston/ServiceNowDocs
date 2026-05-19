@@ -42,5 +42,5 @@ A custom script can provide detailed information about the number of rights a so
 4.  Click **Submit**.
 
 
-**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
 

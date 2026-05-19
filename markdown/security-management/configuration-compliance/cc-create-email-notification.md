@@ -21,7 +21,7 @@ Role required: sn\_vulc.admin
 
 ## About this task
 
-You can create email templates for different types of email notifications. For more on how to create email templates, see [Define Vulnerability Response email templates](../../vulnerability-response/task/t_DefiningEmailTemplates.md).
+You can create email templates for different types of email notifications. For more on how to create email templates, see [Define Vulnerability Response email templates](../vulnerability-response/t_DefiningEmailTemplates.md).
 
 ## Procedure
 

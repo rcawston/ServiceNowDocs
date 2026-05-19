@@ -27,7 +27,7 @@ Role required: model\_manager
 
 3.  Complete the form.
 
-    For general field descriptions, see [Model form fields](../reference/r_ModelFormFields.md). The hardware model fields listed are found in the Information section of the form.
+    For general field descriptions, see [Model form fields](r_ModelFormFields.md). The hardware model fields listed are found in the Information section of the form.
 
     |Field|Description|
     |-----|-----------|
@@ -43,5 +43,5 @@ On a hardware model record, you can add compatible hardware models, giving you a
 -   **[Add substitute models to a hardware model](t_AddingSubModelsToHrdwModel.md)**  
 On a hardware model record, you can add substitutes to track what hardware models can be substituted for another hardware model.
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](c_Models.md)
 

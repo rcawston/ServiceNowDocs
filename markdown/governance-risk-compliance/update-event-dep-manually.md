@@ -32,5 +32,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The plan owners and BCM lead can update the event dependencies by saving the changes to the event.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
 

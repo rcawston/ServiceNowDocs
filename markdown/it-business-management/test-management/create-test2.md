@@ -201,14 +201,14 @@ To add a test to a test set:
 1.  Select the test from the Test list.
 2.  Click **Add to Test Set**.
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](release-readiness-testing.md)
 
 **Related topics**  
 
 
 [Create a test set in Test Management 2.0](create-test-set.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](test-board.md)
 
 [Create a test execution suite in Test Management 2.0](create-test-execution-suite.md)
 

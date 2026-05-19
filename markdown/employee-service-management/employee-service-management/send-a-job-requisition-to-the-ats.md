@@ -16,8 +16,8 @@ Send the job requisitions to your integrated ATS to get posted on the job boards
 
 Create an integration flow to send the job requisitions to the ATS when it is in **Ready** state. You can re-configure the state when the requisition is sent to your integrated ATS.
 
--   **[Create integration flow for ATS](../concept/create-your-integration-flow.md)**  
+-   **[Create integration flow for ATS](create-your-integration-flow.md)**  
 Create the integration flow with your preferred ATS to send job requisition data to the ATS.
 
-**Parent Topic:**[Integrate with your ATS](../concept/integrate-ats.md)
+**Parent Topic:**[Integrate with your ATS](integrate-ats.md)
 

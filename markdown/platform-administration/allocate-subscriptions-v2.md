@@ -46,5 +46,5 @@ If you have manually allocated user-based subscriptions before, you can still ma
 
 All group members are allocated subscriptions, giving each member entitlement to use the product. Subscribed users are updated during a daily scheduled job, so it might take up to a day for the changed to be reflected in Subscription Management.
 
-**Parent Topic:**[Managing per-user subscriptions in Subscription Management](../concept/managing-user-subscriptions-v2.md)
+**Parent Topic:**[Managing per-user subscriptions in Subscription Management](managing-user-subscriptions-v2.md)
 

@@ -91,5 +91,5 @@ Steps
 
 You can [save the checklist as a template](save-workplace-task-checklist-template-wsd.md) for easy reuse, if required.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

@@ -195,5 +195,5 @@ Verify that ServiceNow applications can access the trusting service account usin
     -   If the connection is successful, a message displays indicating the account validation is successful.
     -   If the connection isn't successful, an error message displays indicating the cause of failure.
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](setup-aws-service-accounts.md)
 

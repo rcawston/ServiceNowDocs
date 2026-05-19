@@ -125,7 +125,7 @@ Reuse sandbox templates
 
 </td><td>
 
-Enables the optional setup of a repository configuration. You can create a template once, and reuse any existing templates when creating sandboxes. For more information, see [Using sandbox templates](../task/create-sandbox-template.md).
+Enables the optional setup of a repository configuration. You can create a template once, and reuse any existing templates when creating sandboxes. For more information, see [Using sandbox templates](create-sandbox-template.md).
 
 </td><td>
 

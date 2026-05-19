@@ -23,7 +23,7 @@ When Playbook is activated with HR Service Delivery Agent Workspace, the **Playb
 
     The Playbook Header shows the title of an activity set.
 
-    **Note:** For more information on lifecycle event structure, see [Configure a lifecycle event](../task/configure-hr-lifecycle-event-type.md).
+    **Note:** For more information on lifecycle event structure, see [Configure a lifecycle event](../lifecycle-events/configure-hr-lifecycle-event-type.md).
 
 -   **Stage panel**
 

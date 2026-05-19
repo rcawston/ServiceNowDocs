@@ -24,7 +24,7 @@ Role required: cdm\_editor or cdm\_admin
 ## About this task
 
 -   When you commit the changes that you have made to an application \(commit the changeset\), the system generates a snapshot of each deployable that has been updated. A snapshot is an exact record of the config data for a deployable. Snapshots are read-only — you cannot modify a snapshot. You can, however, start a new changeset that is based on a particular snapshot.
--   Sometimes, another user has committed changes to a data set \(thus creating a new snapshot\) while you are working on a changeset of the same data. In this case, the data that you are working on is stale \(the data is in the state it was in before the other user committed changes\). This can result in data conflicts. Learn more about how you use changesets and how CDM manages version control at [Changesets and version control in CDM](../concept/cdm-changesets-version-control.md).
+-   Sometimes, another user has committed changes to a data set \(thus creating a new snapshot\) while you are working on a changeset of the same data. In this case, the data that you are working on is stale \(the data is in the state it was in before the other user committed changes\). This can result in data conflicts. Learn more about how you use changesets and how CDM manages version control at [Changesets and version control in CDM](cdm-changesets-version-control.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Role required: cdm\_editor or cdm\_admin
 
 2.  In the config data tree, select the item to edit in either the script view or the list view.
 
-    By default, the Editor panel displays the script view of the key:value pairs \(the config data items — CDIs\) in the selected node. See [Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md) for details on operations in the **Config data** tab.
+    By default, the Editor panel displays the script view of the key:value pairs \(the config data items — CDIs\) in the selected node. See [Viewing and editing config data](cdm-editing-config-data-changesets.md) for details on operations in the **Config data** tab.
 
 3.  Add components, collections or deployables, see the instructions in [Define or update a component](cdm-component-define.md), [Define or update a collection in an application](cdm-collection-define.md), and [Create and update a deployable](cdm-deployable-define.md).
 
@@ -72,7 +72,7 @@ Role required: cdm\_editor or cdm\_admin
 **Related topics**  
 
 
-[Changesets and version control in CDM](../concept/cdm-changesets-version-control.md)
+[Changesets and version control in CDM](cdm-changesets-version-control.md)
 
 [Define or update a component](cdm-component-define.md)
 

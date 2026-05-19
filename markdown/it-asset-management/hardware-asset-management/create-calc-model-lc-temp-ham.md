@@ -61,5 +61,5 @@ Role required: asset
 
 [Associate a hardware model with a Calculated lifecycle template](associate-hardware-model-cal-temp.md).
 
-**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](../concept/manage-ham-lifecycle-temp.md)
+**Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 

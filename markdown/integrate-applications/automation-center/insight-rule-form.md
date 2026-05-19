@@ -78,7 +78,7 @@ Message
 
 Custom message that describes the insight.For example, `Time to Cleanup Automation Tasks. The count is {0}.`
 
- To configure the variable, such as \{0\}, see [Write a script for an automation message variable](../task/create-message-variable-auto-center.md).
+ To configure the variable, such as \{0\}, see [Write a script for an automation message variable](create-message-variable-auto-center.md).
 
  **Note:** To enable localization of this message string, create the sys\_ui\_message update record. For more information, see [Custom translations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translating-applications.md).
 
@@ -180,5 +180,5 @@ Value to determine if an insight rule must be triggered based on the qualifier t
  This field appears only when **Percentage** is selected from the Threshold type list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

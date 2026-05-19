@@ -76,7 +76,7 @@ To get the contents of a journal field, make a second soap request against the s
 To retrieve or set choice fields, use the choice **Value**, not the **Label**.
 -   **[Persist an HTTP session across all SOAP calls](persist-session-all-soap-calls.md)**  
 In circumstances when a SOAP client makes many calls in a short amount of time, you may want to re-use a single HTTP session for all SOAP calls.
--   **[SOAP direct web service API functions](../../web-services-apis/reference/r_DirectWebServiceAPIFunctions.md)**  
+-   **[SOAP direct web service API functions](r_DirectWebServiceAPIFunctions.md)**  
 The standard SOAP API is a set of small, globally defined functions that can be performed on a targeted resource.
 
 **Parent Topic:**[SOAP web service](c_SOAPWebService.md)

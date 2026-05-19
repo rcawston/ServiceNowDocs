@@ -60,5 +60,5 @@ If you're using Message Authentication, [Configure Message Authentication for in
 -   **[Configure Message Authentication for inbound communication](set-up-message-auth-va-api.md)**  
 You can configure Message Authentication for the Virtual Agent API instead of Basic or OAuth. Message Authentication involves configuring either Static or Hash tokens, setting up Provider Authentication, and setting the channel identity.
 
-**Parent Topic:**[Configuring Virtual Agent API](../concept/configure-virtual-agent-api.md)
+**Parent Topic:**[Configuring Virtual Agent API](configure-virtual-agent-api.md)
 

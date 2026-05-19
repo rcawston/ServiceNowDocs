@@ -59,5 +59,5 @@ To change a record, from the CIM record:
 -   Update a record: Make a change on the record, then select **Save**.
 -   Delete an initiative: From the record, select the menu icon and select **Delete**.
 
-**Parent Topic:**[Creating and tracking improvement initiatives](../../../product/benchmarks/task/initiatives-from-process-optimization.md)
+**Parent Topic:**[Creating and tracking improvement initiatives](initiatives-from-process-optimization.md)
 

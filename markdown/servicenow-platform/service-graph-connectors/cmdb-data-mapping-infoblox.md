@@ -108,7 +108,7 @@ A global default value can be set for the **Get Ip Address** option by setting t
 
 For more information on where data is saved when pulling data from Infoblox, see [CMDB classes targeted in Service Graph Connector for Infoblox](sgc-cmdb-infoblox-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../concept/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](../integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Related content
 

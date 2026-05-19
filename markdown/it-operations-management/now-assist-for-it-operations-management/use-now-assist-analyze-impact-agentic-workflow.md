@@ -34,7 +34,7 @@ Agentic workflows and their AI agents use [role masking](https://raw.githubuserc
 
 ## About this task
 
-The agent verifies the prerequisites at the beginning of the agentic workflow. If any prerequisites aren’t met, the workflow stops, and you’re informed so that you can acquire the prerequisites. For more information about the agentic workflow, see [Analyze potential impact agentic workflow](../concept/now-assist-itom-analyze-potential-impact-workflow.md).
+The agent verifies the prerequisites at the beginning of the agentic workflow. If any prerequisites aren’t met, the workflow stops, and you’re informed so that you can acquire the prerequisites. For more information about the agentic workflow, see [Analyze potential impact agentic workflow](now-assist-itom-analyze-potential-impact-workflow.md).
 
 ## Procedure
 

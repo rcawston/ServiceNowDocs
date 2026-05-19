@@ -15,7 +15,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 **Command Validation Tasks** form displays the fields that you must fill when you create or modify a task for testing a pattern command.
 
-For more information about testing pattern commands, see [Validate commands used in pattern-based discovery](../task/validate-discovery-commands.md) and [View command validation task results in pattern-based discovery](../../discovery/task/view-command-validation-task-results.md).
+For more information about testing pattern commands, see [Validate commands used in pattern-based discovery](validate-discovery-commands.md) and [View command validation task results in pattern-based discovery](view-command-validation-task-results.md).
 
 <table id="table_h5t_b2m_c5b"><thead><tr><th>
 
@@ -112,12 +112,12 @@ Pattern
 The name of the pattern for which you want to validate the commands. This field is available only when **Validate All Patterns Commands** isn't selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Discovery reference](../../discovery/reference/discovery-references.md)
+</table>**Parent Topic:**[Discovery reference](discovery-references.md)
 
 **Related topics**  
 
 
 [Command List form for pattern-based discovery](commands-list-discovery.md)
 
-[Discovery commands for probes and patterns](../../discovery/concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](discovery-command-probe-pattern.md)
 

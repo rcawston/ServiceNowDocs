@@ -33,7 +33,7 @@ Role required: sn\_align\_core.apw\_admin
 
 4.  Create a new field map by selecting **New** in the Field Maps tab.
 
-5.  In the [Field map form](../reference/field-map-form-ppw.md), fill in the fields.
+5.  In the [Field map form](field-map-form-ppw.md), fill in the fields.
 
 6.  Click **Submit**.
 

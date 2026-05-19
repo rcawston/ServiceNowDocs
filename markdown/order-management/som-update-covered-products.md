@@ -58,5 +58,5 @@ You can add multiple covered products to an order line item.
 **Related topics**  
 
 
-[Add Covered Products using Contracts and Entitlement Workflow](../../post-sales-support/concept/adding-cov-prod-cceworkflows.md)
+[Add Covered Products using Contracts and Entitlement Workflow](adding-cov-prod-cceworkflows.md)
 

@@ -34,5 +34,5 @@ Role required: role\_delegator
     \(Optional\) To remove a delegated role from a user, open the delegation record and remove the unwanted role or roles.
 
 
-**Parent Topic:**[Delegating roles](../concept/c_DelegateRoles.md)
+**Parent Topic:**[Delegating roles](c_DelegateRoles.md)
 

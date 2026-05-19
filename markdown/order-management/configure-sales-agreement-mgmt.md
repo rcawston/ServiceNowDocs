@@ -60,7 +60,7 @@ This plugin provides workflow to create and manage sales agreements.
 
 
 </td></tr></tbody>
-</table>For more information on the installed roles and tables, see [Components installed with Sales Agreement Management](../reference/components-installed-sales-agreement.md). To view sales agreements from an account, you must manually configure the sales agreement related list on the Account form.
+</table>For more information on the installed roles and tables, see [Components installed with Sales Agreement Management](components-installed-sales-agreement.md). To view sales agreements from an account, you must manually configure the sales agreement related list on the Account form.
 
 ## Request apps from the ServiceNow Store
 

@@ -50,10 +50,10 @@ Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_
     -   Policy Exceptions
     -   Content References
     -   Privacy Assessments
-    See [An entity in the workspace view](../concept/entities-in-risk-ws.md) for more information.
+    See [An entity in the workspace view](entities-in-risk-ws.md) for more information.
 
 5.  To save the entity type, click **Save**.
 
 
-**Parent Topic:**[Entity types](../concept/entity-type-in-risk-ws.md)
+**Parent Topic:**[Entity types](entity-type-in-risk-ws.md)
 

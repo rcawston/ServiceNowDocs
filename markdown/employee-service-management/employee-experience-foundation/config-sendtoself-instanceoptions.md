@@ -39,7 +39,7 @@ Role required: sn\_hr\_sp.esc\_admin
 5.  Click **Save**.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md)
 
 **Related topics**  
 

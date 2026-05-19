@@ -74,7 +74,7 @@ Actions
 
 The document is sent for signature to the specified signatories. The activity stream displays details of the contract document that is sent for signature.
 
-The contract state and contract status updates to Awaiting Signature. For more information, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md).
+The contract state and contract status updates to Awaiting Signature. For more information, see [Signature workflow for a request](snlc-lsd-signature-workflow.md).
 
 **Parent Topic:**[Work on NDA legal requests](snlc-work-on-contract-request.md)
 

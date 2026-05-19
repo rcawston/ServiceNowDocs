@@ -27,7 +27,7 @@ Role required: sn\_devops\_config.admin
 
 2.  Select a default exporter or select **New** to create a custom exporter.
 
-    See [Create a custom exporter](../../configuration-data-management/task/cdm-exporter-create-custom.md) for details.
+    See [Create a custom exporter](cdm-exporter-create-custom.md) for details.
 
 3.  Enter the exporter name and description and then click **Confirm**.
 
@@ -35,5 +35,5 @@ Role required: sn\_devops\_config.admin
 **Related topics**  
 
 
-[Default DevOps Config exporters](../reference/devops-config-default-exporters.md)
+[Default DevOps Config exporters](devops-config-default-exporters.md)
 

@@ -47,7 +47,7 @@ Identification processor script. Choose an existing script or create your own us
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 
 **Related topics**  
 

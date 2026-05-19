@@ -21,7 +21,7 @@ Role required: none
 
 This method is used to extract text that precedes a specified find string up to a specified length. If the length is 0, it extracts text from the beginning of the string.
 
-You can configure the properties for the GetTextBefore component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the GetTextBefore component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -101,5 +101,5 @@ Connects to the Control In port of another component or the default end componen
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

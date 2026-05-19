@@ -105,5 +105,5 @@ Define the relationship ID.
 6.  To view how these objects are related, click **Relationships**.
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK Repository](../concept/tisc-mitre-att-ck-framework-overview.md)
+**Parent Topic:**[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
 

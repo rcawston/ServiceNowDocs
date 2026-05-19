@@ -19,7 +19,7 @@ You can import Excel spreadsheets \(`.xlsx` files\) of data maintained outside o
 
 Role required: pa\_admin, report\_admin
 
-You must have the subscription version of Performance Analytics to create reports with imported data. See [Activate your Performance Analytics subscription](../../performance-analytics/concept/c_PremiumPerformanceAnalytics.md#).
+You must have the subscription version of Performance Analytics to create reports with imported data. See [Activate your Performance Analytics subscription](../performance-analytics/c_PremiumPerformanceAnalytics.md#).
 
 The following restrictions apply to imported data:
 
@@ -34,7 +34,7 @@ The following restrictions apply to imported data:
 -   The imported `.xlsx` file must have a specified expiration date.
 -   If the owner deletes the table after import, reports based on the imported table are also deleted.
 
-**Note:** Report\_view access control lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](../concept/report-view-access-control.md).
+**Note:** Report\_view access control lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](report-view-access-control.md).
 
 ## About this task
 
@@ -85,7 +85,7 @@ Importing report data in this way is useful when you have information that is ma
 
 7.  Complete report creation as normal.
 
-    For information on specific report types, see [Report types](../reference/report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](t_CreateYourOwnReport.md#).
+    For information on specific report types, see [Report types](report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](t_CreateYourOwnReport.md#).
 
 8.  Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
@@ -107,7 +107,7 @@ Importing report data in this way is useful when you have information that is ma
 
         The admin role with the elevated security\_admin role is required. If you're not an admin, consider passing the table name to a ServiceNow AI Platform administrator along with a request for the desired roles to have report\_view read permission.
 
-    5.  Create report\_view ACLs for roles that you want to be able to read the report, as described in [Report\_view access control](../concept/report-view-access-control.md).
+    5.  Create report\_view ACLs for roles that you want to be able to read the report, as described in [Report\_view access control](report-view-access-control.md).
 
 
 ## Result
@@ -116,10 +116,10 @@ The report is created from the external source. On a dashboard, this report has 
 
 ## What to do next
 
-Share the report, as described in [Distribute reports](../concept/c_DistributeReports.md).
+Share the report, as described in [Distribute reports](c_DistributeReports.md).
 
 -   **[Edit an imported data source](edit-config-external-data-source.md)**  
 You can edit imported Excel spreadsheets \(`.xlsx` files\) of data maintained outside of your instance.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
 

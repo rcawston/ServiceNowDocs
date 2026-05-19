@@ -27,7 +27,7 @@ Activate the latest Now Assist for Enterprise Architecture \(EA\) \(sn\_ea\_gen\
 
 This store app has the dependency on Now Assist for Platform \(sn\_genai\_platform\) \(v6.0.0\).
 
-For more information, see [Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md).
+For more information, see [Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md).
 
 **Parent Topic:**[Exploring Now Assist for Enterprise Architecture \(EA\)](exploring-now-assist-for-ea.md)
 
@@ -36,9 +36,9 @@ For more information, see [Configure Now Assist for Enterprise Architecture \(EA
 
 [Exploring Now Assist for Enterprise Architecture \(EA\)](exploring-now-assist-for-ea.md)
 
-[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)
+[Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md)
 
 [Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
-[Now Assist for Enterprise Architecture reference](../reference/now-assist-ea-reference.md)
+[Now Assist for Enterprise Architecture reference](now-assist-ea-reference.md)
 

@@ -56,5 +56,5 @@ The system uses the details of the database connection you create in this proced
     After the instance imports data using the **SCCM &lt;version&gt; Computer Identity** data source, the other data sources run in the order configured to retrieve the remainder of the SCCM data.
 
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](c_MicrosoftSCCMIntegration.md)
 

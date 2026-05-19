@@ -21,7 +21,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 To administer reports, reporting roles, and report sources, navigate to **Platform Analytics Administration** &gt; **Usage and governance** &gt; **Reports** and select the area to administer.
 
-This topic refers to Reporting in the Core UI. On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](../../performance-analytics/concept/analytics-center-data-visualizations.md).
+This topic refers to Reporting in the Core UI. On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md).
 
 ## Procedure
 
@@ -42,12 +42,12 @@ The report is shown in the Visualization Designer.
 
 [Create a report](t_CreateYourOwnReport.md#)
 
-**Parent Topic:**[Using reporting](../concept/c_GenerateReports.md)
+**Parent Topic:**[Using reporting](c_GenerateReports.md)
 
 **Related topics**  
 
 
-[Administering reports](../concept/c_AdminsteringReports.md)
+[Administering reports](c_AdminsteringReports.md)
 
 ## Run a report from a list
 
@@ -57,7 +57,7 @@ You can create a pie or bar chart report directly from a platform list. If you h
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-This topic refers to Reporting in the Core UI. On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](../../performance-analytics/concept/analytics-center-data-visualizations.md). When you follow these steps, the resulting Pie chart or Bar chart is opened in the Visualization designer.
+This topic refers to Reporting in the Core UI. On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md). When you follow these steps, the resulting Pie chart or Bar chart is opened in the Visualization designer.
 
 Users with the report\_admin role can create different kinds of reports in the Report Designer, see [Create a report](t_CreateYourOwnReport.md#).
 
@@ -84,7 +84,7 @@ Users with the report\_admin role can create different kinds of reports in the R
 **Related topics**  
 
 
-[Pie charts](../concept/c_CreatePieCharts.md#)
+[Pie charts](c_CreatePieCharts.md#)
 
-[Vertical and horizontal bar reports](../concept/c_CreateBarCharts.md#)
+[Vertical and horizontal bar reports](c_CreateBarCharts.md#)
 

@@ -44,5 +44,5 @@ The Color dictionary includes multiple color options. By default, Amber, Red, an
 
 The color is available in the Color field when configuring thresholds.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](configuring-irm-metrics.md)
 

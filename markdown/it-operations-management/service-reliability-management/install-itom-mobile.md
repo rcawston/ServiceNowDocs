@@ -50,5 +50,5 @@ You can also customize ITOM Mobile Agent to meet your team's needs:
 
 -   [Configure when to send alert notifications for ITOM Mobile](configure-itom-alert-notfications.md)
 -   [Customize ITOM Mobile Agent email recipients](customize-itom-email-recipients.md)
--   [Customizing other mobile settings for ITOM Mobile Agent](../reference/itom-mobile-other-customizations.md)
+-   [Customizing other mobile settings for ITOM Mobile Agent](itom-mobile-other-customizations.md)
 

@@ -71,5 +71,5 @@ ZIP files over 75 MB cannot be imported.
 
 500 fields can be automatically loaded when the Layout Wizard is initialized. Additional fields must be added manually via the Add Field menu.
 
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
 

@@ -91,5 +91,5 @@ The variable that is mapped to the port. This field appears when you select **Va
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](rpa-studio-use.md)
 

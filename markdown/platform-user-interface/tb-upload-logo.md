@@ -65,5 +65,5 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 -   **[Resize a logo for your login screen](tb-resize-logo.md)**  
 After you have uploaded a logo for your login screen, you can resize the logo by creating and setting a system property.
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](working-with-global-styles.md)
 

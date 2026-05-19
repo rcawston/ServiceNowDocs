@@ -91,12 +91,12 @@ Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **My Reser
 
 The reservation is added to your calendar.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](../employee-service-management/create-reservation-request-1.md)
 
 [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
 
@@ -112,7 +112,7 @@ The reservation is added to your calendar.
 
 [Create neighborhood reservations](create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](../employee-service-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
 [Enable shift-based reservation](enable-shift-based-reservation.md)
 

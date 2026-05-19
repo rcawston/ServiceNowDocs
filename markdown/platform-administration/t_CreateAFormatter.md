@@ -42,16 +42,16 @@ With the UI macro in place, create the formatter that references it, and add it 
     The formatter appears on the form according to your selections.
 
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 **Related topics**  
 
 
-[Activity formatter](../concept/c_ActivityFormatter.md#)
+[Activity formatter](c_ActivityFormatter.md#)
 
 [Create a UI macro for a formatter](t_CreateAUIMacro.md)
 
-[Process flow formatter](../reference/r_ProcessFlowFormatter.md#)
+[Process flow formatter](r_ProcessFlowFormatter.md#)
 
 [Parent breadcrumbs formatter](t_TaskParentBreadcrumbsFormatter.md#)
 

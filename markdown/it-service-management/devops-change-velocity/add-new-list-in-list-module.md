@@ -55,5 +55,5 @@ Role required: sn\_devops.admin, sn\_devops.tool\_owner, or sn\_devops.app\_owne
         ![Create your own list.](../image/new-list-03.png)
 
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

@@ -16,35 +16,35 @@ Strategic Portfolio Management overview
 
 <table id="table_cry_rvq_pvb" class="nav-card"><tbody><tr><td>
 
-[Improve productivity with Now Assist for SPM![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about various generative AI skills that are available within SPM apps.](../../now-assist-spm/concept/now-assist-spm.md)
+[Improve productivity with Now Assist for SPM![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about various generative AI skills that are available within SPM apps.](now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
 
 </td><td>
 
-[Strategic Planning Workspace![](../../../reuse/icons/brand-icons/bus-alignment.svg)Innovate from product feedback, align work with strategy, and execute with flexible configurations.](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md)
+[Strategic Planning Workspace![](../../../reuse/icons/brand-icons/bus-alignment.svg)Innovate from product feedback, align work with strategy, and execute with flexible configurations.](strategic-planning/alignment-planner-workspace-landing-page.md)
 
 </td><td>
 
-[Project Workspace![](../../../reuse/icons/brand-icons/bus-project.svg)Plan and manage projects from an interactive central workspace.](../../project-workspace/concept/project-workspace-landing-page.md)
+[Project Workspace![](../../../reuse/icons/brand-icons/bus-project.svg)Plan and manage projects from an interactive central workspace.](project-workspace/project-workspace-landing-page.md)
 
 </td><td>
 
-[Resource Management Workspace![](../../../reuse/icons/brand-icons/bus-manager.svg)View the allocation and breakdown of the work assigned to the resources from a centralized workspace.](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
+[Resource Management Workspace![](../../../reuse/icons/brand-icons/bus-manager.svg)View the allocation and breakdown of the work assigned to the resources from a centralized workspace.](resource-management/rsrc-mgmt-wrkspc.md)
 
 </td></tr><tr><td>
 
-[Portfolio Planning Workspace![](../../../reuse/icons/brand-icons/bus-manage.svg)Enhance your traditional product and portfolio management.](../../portfolio-planning/concept/portfolio-planning-app-landing-page.md)
+[Portfolio Planning Workspace![](../../../reuse/icons/brand-icons/bus-manage.svg)Enhance your traditional product and portfolio management.](portfolio-planning/portfolio-planning-app-landing-page.md)
 
 </td><td>
 
-[Collaborative Work Management![](../../../reuse/icons/brand-icons/bus-community.svg)Collaborate with your teams from a central workspace and avoid switching between multiple tools to manage work.](../../collab-work-mgmt/concept/cwm-landing.md)
+[Collaborative Work Management![](../../../reuse/icons/brand-icons/bus-community.svg)Collaborate with your teams from a central workspace and avoid switching between multiple tools to manage work.](collaborative-work-management/cwm-landing.md)
 
 </td><td>
 
-[Project Portfolio Management Classic![](../../../reuse/icons/brand-icons/bus-business-management.svg)Follow a simplified, team-oriented approach to managing demands, projects, programs, and portfolios.](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+[Project Portfolio Management Classic![](../../../reuse/icons/brand-icons/bus-business-management.svg)Follow a simplified, team-oriented approach to managing demands, projects, programs, and portfolios.](ppm-collaboration/c_ProjectPortfolioSuite.md)
 
 </td><td>
 
-[SPM custom tables![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Extend and customize your Strategic Portfolio Management applications with additional features and capabilities.](../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
+[SPM custom tables![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Extend and customize your Strategic Portfolio Management applications with additional features and capabilities.](spm-extension-capabilities-overview.md#)
 
 </td></tr></tbody>
 </table>## Organization Extension \(com.snc.organization\_extension\) plugin
@@ -72,29 +72,29 @@ Business Applications and Business Capabilities modules are also available withi
 ## Get started
 
 -   Understand how to deliver business outcomes with speed and agility using ServiceNow SPM. For more information, see [Customer Success Center](https://www.servicenow.com/products/business-management.html).
--   Learn how to align execution with business goals and priorities. For more information, see [Strategic Planning](../../alignment-planner-workspace/concept/alignment-planner-workspace-landing-page.md).
--   Create goals, set targets for them, and evaluate the progress of your goals and targets to accomplish the organizational plans and drive business outcomes. For more information, see [Goal Framework and Goal Framework for SPM](../../goal-framework/concept/goal-framework.md).
+-   Learn how to align execution with business goals and priorities. For more information, see [Strategic Planning](strategic-planning/alignment-planner-workspace-landing-page.md).
+-   Create goals, set targets for them, and evaluate the progress of your goals and targets to accomplish the organizational plans and drive business outcomes. For more information, see [Goal Framework and Goal Framework for SPM](goal-framework/goal-framework.md).
 -   Enhance your SPM capabilities with specialized plugins that provide read-only roles for various modules, confirming secure access to dashboards and reports.
 
 ## Applications and features
 
--   [Now Assist for SPM](../../now-assist-spm/concept/now-assist-spm.md)
--   [Collaborative Work Management](../../collab-work-mgmt/concept/cwm-landing.md)
--   [Now Assist for CWM](../../now-assist-cwm/concept/now-assist-for-cwm-landing.md)
--   [Product Feedback](../../spw-product-feedback/concept/product-feedback-landing.md)
--   [Portfolio Planning in SPW](../../alignment-planner-workspace/concept/planning-in-spw.md)
--   [Enterprise Agile Planning](../../spw-eap/concept/eap-landing.md)
--   [SPW Dashboards](../../spw-dashboards/concept/dashboards-in-spw.md)
--   [Project Workspace](../../project-workspace/concept/project-workspace-landing-page.md)
--   [Resource Management Workspace](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
--   [Goal Framework and Goal Framework for SPM](../../goal-framework/concept/goal-framework.md)
--   [Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
--   [Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/concept/export-ppt-landing-page.md)
--   [Time Card Management](../../../administer/task-table/concept/time-card-management.md)
--   [Agile Development 2.0](../../agile-development/reference/agile-landing-page.md)
--   [Microsoft Azure DevOps Integration for Agile Development](../../agile-azure-integration/concept/agile-azure-integration-overview.md)
--   [Atlassian Jira Integration for Agile Development](../../agile-jira-integration/concept/agile-jira-integration-overview.md)
--   [Test Management applications](../../test-management2/concept/test-management-overview.md)
--   [Cost Management](../../cost-management/reference/r_CostManagement.md)
--   [SPM custom tables](../../spm-extension-capabilities/concept/spm-extension-capabilities-overview.md#)
+-   [Now Assist for SPM](now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
+-   [Collaborative Work Management](collaborative-work-management/cwm-landing.md)
+-   [Now Assist for CWM](now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md)
+-   [Product Feedback](product-feedback/product-feedback-landing.md)
+-   [Portfolio Planning in SPW](scenario-planning-in-spw/planning-in-spw.md)
+-   [Enterprise Agile Planning](enterprise-agile-planning/eap-landing.md)
+-   [SPW Dashboards](strategic-planning/dashboards-in-spw.md)
+-   [Project Workspace](project-workspace/project-workspace-landing-page.md)
+-   [Resource Management Workspace](resource-management/rsrc-mgmt-wrkspc.md)
+-   [Goal Framework and Goal Framework for SPM](goal-framework/goal-framework.md)
+-   [Project Portfolio Management](ppm-collaboration/c_ProjectPortfolioSuite.md)
+-   [Export to PowerPoint for Strategic Portfolio Management](export-to-powerpoint-for-application-portfolio-management/export-ppt-landing-page.md)
+-   [Time Card Management](time-card-management/time-card-management.md)
+-   [Agile Development 2.0](agile-development/agile-landing-page.md)
+-   [Microsoft Azure DevOps Integration for Agile Development](microsoft-azure-devops-integrations-comm/agile-azure-integration-overview.md)
+-   [Atlassian Jira Integration for Agile Development](atlassian-jira-integrations-common/agile-jira-integration-overview.md)
+-   [Test Management applications](test-management/test-management-overview.md)
+-   [Cost Management](cost-management/r_CostManagement.md)
+-   [SPM custom tables](spm-extension-capabilities-overview.md#)
 

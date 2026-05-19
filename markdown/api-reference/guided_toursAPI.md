@@ -15,9 +15,9 @@ breadcrumb: [Client API reference, API reference, API implementation and referen
 
 The Guided Tours API provides methods for launching and stopping guided tours.
 
-This API includes methods used in [Guided Tour Designer](../../../../../integrate/inbound-rest/reference/r_RESTAPIHTTPResponseCodes.md).
+This API includes methods used in [Guided Tour Designer](rest-api-explorer/r_RESTAPIHTTPResponseCodes.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## Guided Tours - applyListFilter\(Function filter\_func\)
 

@@ -25,7 +25,7 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page variant.
 
@@ -133,5 +133,5 @@ The configured event handler displays in the configuration panel **Events** tab 
 
 ![Black arrow pointing to the open modeless dialog event handler on the configuration panel events tab for the button bare component.](../image/modeless-dialog-event-handler-added.png)
 
-**Parent Topic:**[Create modeless dialogs in UI Builder](../concept/uib-modeless-dialog.md)
+**Parent Topic:**[Create modeless dialogs in UI Builder](uib-modeless-dialog.md)
 

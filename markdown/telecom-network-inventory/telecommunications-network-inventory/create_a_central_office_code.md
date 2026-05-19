@@ -73,5 +73,5 @@ Central office code that is also referred to as NXX. The NXX portion of a teleph
 
 Create a country code. For information, see [Create a country code](create_a_country_code.md).
 
-**Parent Topic:**[Create the components of a telephone number](../concept/create_components_of_a_telephone_number.md)
+**Parent Topic:**[Create the components of a telephone number](create_components_of_a_telephone_number.md)
 

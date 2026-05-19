@@ -82,7 +82,7 @@ Description
 
 1.  Select **New** and then fill in the form.
 
-For descriptions of all these fields, see [Assessment metric type form](../reference/tprm-create-q-template-form.md).
+For descriptions of all these fields, see [Assessment metric type form](tprm-create-q-template-form.md).
 
 2.  Select **Submit**
 
@@ -110,7 +110,7 @@ A copy of the questionnaire template has been created and is shown in the Assess
 
 [Create an external assessment](tprm-create-assessment.md)
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
 [Create an issue generation rule](tprm-generate-issue-rule.md)
 

@@ -17,7 +17,7 @@ Threat reports include description of a threat actor, malware, attack technique,
 
 The Threat Report SDO contains a list of references to STIX Objects along with a textual description and the name of the report.
 
--   **[Define threat reports](../task/define-threat-reports.md)**  
+-   **[Define threat reports](define-threat-reports.md)**  
 Define threat reports that describe a threat actor, malware, attack technique, including context and related details.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

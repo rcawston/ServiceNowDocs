@@ -34,12 +34,12 @@ Role required: sn\_apm.apm\_analyst
     **Note:** By default, scores for all applications are displayed in the widgets. You can select an application name to hide their score.
 
 
-**Parent Topic:**[Working with Dashboards](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
+**Parent Topic:**[Working with Dashboards](eaw-work-with-dashboards.md)
 
 **Related topics**  
 
 
-[Explore the Application Assessments dashboard](../concept/eaw-working-with-the-applications-assessment-dashboard.md)
+[Explore the Application Assessments dashboard](eaw-working-with-the-applications-assessment-dashboard.md)
 
 [Monitor performance in Application 360 dashboard](eaw-monitor-performance-in-application-360-dashboard.md)
 

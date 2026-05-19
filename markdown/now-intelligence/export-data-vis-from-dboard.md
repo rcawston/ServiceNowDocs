@@ -60,5 +60,5 @@ Role required: Anyone viewing a data visualization can export that visualization
 
 The file is saved to the download folder of your browser, unless you are emailing a list.
 
-**Parent Topic:**[View data visualizations](../concept/view-data-visualizations.md)
+**Parent Topic:**[View data visualizations](view-data-visualizations.md)
 

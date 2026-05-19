@@ -64,9 +64,9 @@ As a team member, you can plan and monitor activities within the team by accessi
 -   track all stories and view their transition from one state \(lane\) to another, in a visual task board.
 
 </td></tr></tbody>
-</table>-   **[Components installed with Portfolio SAFe](../reference/installed-with-portfolioSAFe.md)**  
+</table>-   **[Components installed with Portfolio SAFe](installed-with-portfolioSAFe.md)**  
 Several types of components are installed with activation of the Agile - Scaled Agile Framework - Portfolio SAFe plugin \(com.snc.sdlc.portfolio\_safe\), including tables and user roles.
--   **[Define a portfolio](../task/create-SAFeportfolio.md)**  
+-   **[Define a portfolio](create-SAFeportfolio.md)**  
 From SAFe, define a portfolio which is a group of ARTs working towards a single solution.
 -   **[SAFe Board—Portfolio level](portfolio-tabs.md)**  
 As a portfolio manager, you can plan and monitor activities within your portfolio by accessing the Portfolio level on the SAFe Board.
@@ -78,13 +78,13 @@ As a portfolio manager, you can plan and monitor activities within your portfoli
 
 [Domain separation and Scaled Agile Framework \(SAFe\)](domain-separation-scaled-agile-framework.md)
 
-[Business stakeholder role for Essential SAFe and Portfolio SAFe](../reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
+[Business stakeholder role for Essential SAFe and Portfolio SAFe](business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
 
 [Essential SAFe](essential-overview.md)
 
-[SAFe — Unified Backlog](../../safe-unified-backlog/concept/safeunified-backlog.md)
+[SAFe — Unified Backlog](safeunified-backlog.md)
 
-[Performance Analytics Content Pack for Essential SAFe](../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
+[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 
-[Work Progress Status for SAFe](../../work-progress-status-safe/concept/work-progress-status-safe-overview.md)
+[Work Progress Status for SAFe](work-progress-status-safe-overview.md)
 

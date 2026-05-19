@@ -38,7 +38,7 @@ Users in child domains cannot overwrite dashboards. Child domain users only have
 
 Assumptions:
 
--   Only dashboards that have been shared are visible to other users. See [Share a responsive dashboard](../task/t_ControlAccessToADashboard.md).
+-   Only dashboards that have been shared are visible to other users. See [Share a responsive dashboard](t_ControlAccessToADashboard.md).
 -   Users granted edit permissions on a dashboard can only edit that dashboard if they are in the same domain as the dashboard. For example, a user who is in the HR domain cannot edit a dashboard created in the parent of the HR domain.
 
 Dashboard data that is domain separated includes dashboard records, dashboard tabs, and widget containers. Widget content is governed by the domain separation that applies to the content itself. For example, an admin adds a report created in the HR domain to a dashboard in the IT domain. This report is not visible to users in the IT domain, although they can see the widget container.

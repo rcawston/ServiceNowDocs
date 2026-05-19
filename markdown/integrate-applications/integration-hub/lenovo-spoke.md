@@ -49,5 +49,5 @@ The Lenovo spoke provides action to automate downloading asset warranty informat
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-To use the actions in the Lenovo spoke, you must create a connection and credential record to authenticate and connect to Lenovo. For more information, see [Create a connection and credential for Lenovo spoke](../task/configure-connection-cred-lenovo.md)
+To use the actions in the Lenovo spoke, you must create a connection and credential record to authenticate and connect to Lenovo. For more information, see [Create a connection and credential for Lenovo spoke](configure-connection-cred-lenovo.md)
 

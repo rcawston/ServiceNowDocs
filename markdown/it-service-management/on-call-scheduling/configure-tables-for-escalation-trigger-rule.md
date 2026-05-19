@@ -27,7 +27,7 @@ Tables that are configured in the Trigger Rule Table Configuration \[trigger\_ru
 
 1.  Navigate to **All** &gt; **On-Call Administration** &gt; **Administration** &gt; **Trigger Rule Table Configuration**.
 
-    In Service Operations Workspace \(SOW\), you can access On-call trigger rule table configuration by navigating to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview** &gt; **Configuration**. On the **Configurations** tab, from the **SOW configurations** section, navigate to the **On-call Scheduling** tile and select **Configure** and then select **Table configuration for trigger rules**. For more information, see [Manage configurations in Service Operations Workspace for ITSM](../../../product/service-operations-workspace/task/manage-admin-console-sow-itsm.md)
+    In Service Operations Workspace \(SOW\), you can access On-call trigger rule table configuration by navigating to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Overview** &gt; **Configuration**. On the **Configurations** tab, from the **SOW configurations** section, navigate to the **On-call Scheduling** tile and select **Configure** and then select **Table configuration for trigger rules**. For more information, see [Manage configurations in Service Operations Workspace for ITSM](../service-operations-workspace/manage-admin-console-sow-itsm.md)
 
 2.  Select **New**.
 
@@ -46,5 +46,5 @@ Tables that are configured in the Trigger Rule Table Configuration \[trigger\_ru
     The Trigger Rules related list shows the escalation trigger rules that are configured for the table.
 
 
-**Parent Topic:**[Designing an escalation process](../concept/designing-escalation-process-oncall.md)
+**Parent Topic:**[Designing an escalation process](designing-escalation-process-oncall.md)
 

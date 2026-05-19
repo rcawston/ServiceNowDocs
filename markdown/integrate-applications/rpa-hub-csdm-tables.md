@@ -30,11 +30,11 @@ The bot process and the robot are associated with each other using CI relationsh
 
 1.  Business Application \[cmdb\_ci\_business\_app\] - For associating business applications to bot processes and later, defining the application credentials for the same.
 
-    For more information about assigning a business application to a bot process, see [Assign a business application to a bot process in RPA Hub](../../rpa-hub/task/associate-business-apps.md).
+    For more information about assigning a business application to a bot process, see [Assign a business application to a bot process in RPA Hub](associate-business-apps.md).
 
 2.  Hardware \[cmdb\_ci\_hardware\] - For the machine name lookup feature on a robot record.
 
-    For more information about machine name field, see [Create an unattended robot in RPA Hub](../../rpa-hub/task/create-unattended-robot.md).
+    For more information about machine name field, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
 
 
 ## Products that add value to RPA Hub

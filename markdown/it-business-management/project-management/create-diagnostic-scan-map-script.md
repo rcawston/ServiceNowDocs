@@ -33,7 +33,7 @@ You can map multiple scripts with each diagnostic scan and define the order of t
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Diagnostics form](../../resource-management/reference/diagnostics-form.md).
+    For more information, see [Diagnostics form](../resource-management/diagnostics-form.md).
 
 4.  Select the Roles icon \(![Edit user roles icon](../image/edit_user_roles_icon.png)\) and move the desired roles to the Selected list.
 
@@ -47,10 +47,10 @@ You can map multiple scripts with each diagnostic scan and define the order of t
 ## What to do next
 
 -   Create related link for navigating to the diagnostic features and scans in the application. For more information, see [Create a UI action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md).
--   Run diagnostic scan and view results. For an example of how the diagnostics scan work, see [Use Project Diagnostics to detect corrupt project data](../../project-management/task/project-diagnostics.md).
+-   Run diagnostic scan and view results. For an example of how the diagnostics scan work, see [Use Project Diagnostics to detect corrupt project data](project-diagnostics.md).
 
 **Related topics**  
 
 
-[Diagnostics form](../../resource-management/reference/diagnostics-form.md)
+[Diagnostics form](../resource-management/diagnostics-form.md)
 

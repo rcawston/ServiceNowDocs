@@ -70,7 +70,7 @@ The evidence type associated with the evidence. The base system provides the fol
 -   Screenshots
 -   SMS
 -   Video
- For more information, see [Create evidence types](../concept/hr-er-evidence-mgmt.md#).
+ For more information, see [Create evidence types](hr-er-evidence-mgmt.md#).
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Interview
 
 The associated interview number. If you came from the interview record, the number automatically displays.
 
- For more information, see [Interview Management for Employee Relations](../concept/hr-er-interview-1.md#).
+ For more information, see [Interview Management for Employee Relations](hr-er-interview-1.md#).
 
 </td></tr><tr><td>
 

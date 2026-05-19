@@ -46,5 +46,5 @@ Role required: sn\_aia.admin
     3.  In the **Toggle display** screen, select the **Status** toggle if the toggle isn't already selected.
 
 
-**Parent Topic:**[Configuring the OT Manager Foundation](../concept/configuring-na-otm.md)
+**Parent Topic:**[Configuring the OT Manager Foundation](configuring-na-otm.md)
 

@@ -19,17 +19,17 @@ You can find all the dashboards that you have permission to access, dashboards t
 
 Library pages like this one include a navigation pane that provides access to the other libraries and the Usage Insights page. Use it to navigate between the libraries without interrupting your workflow.
 
-For information on role-based access for the filter navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](../../performance-analytics/concept/analytics-center.md#table_a12_23s_k3c).
+For information on role-based access for the filter navigation pane and Platform Analytics overview page, see [Roles applicable for Platform Analytics overview page](analytics-center.md#table_a12_23s_k3c).
 
-For more information on Dashboards library, see [Dashboards in the library](../concept/find-dashboard-library.md).
+For more information on Dashboards library, see [Dashboards in the library](find-dashboard-library.md).
 
 ## Dashboards for analytics admins
 
-The configuration of the Dashboards page and the data access depends on the user roles. Users without admin roles have limited capabilities, as compared to the analytics admins. The analytics admins can perform actions such as deactivating, activating, deleting, or creating categories. For Dashboards, the applicable roles are dashboard\_admin, platform\_analytics\_admin, and admin. The lowest role required is dashboard\_admin. For more information on all dashboard roles, see table [Dashboard roles](../../par-for-workspace/reference/platform-analytics-roles.md#table_d1r_2vc_k2c).
+The configuration of the Dashboards page and the data access depends on the user roles. Users without admin roles have limited capabilities, as compared to the analytics admins. The analytics admins can perform actions such as deactivating, activating, deleting, or creating categories. For Dashboards, the applicable roles are dashboard\_admin, platform\_analytics\_admin, and admin. The lowest role required is dashboard\_admin. For more information on all dashboard roles, see table [Dashboard roles](platform-analytics-roles.md#table_d1r_2vc_k2c).
 
 On Australia instances, you can find both Core UI dashboards and Platform Analytics experience dashboards in the Dashboards library.
 
-For more information, see [Dashboards for analytics admins](../concept/dashboards-for-admin-users.md). For more information on the types of admin roles in Platform Analytics, see [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+For more information, see [Dashboards for analytics admins](dashboards-for-admin-users.md). For more information on the types of admin roles in Platform Analytics, see [Platform Analytics roles](platform-analytics-roles.md).
 
 ## Dashboards components
 
@@ -71,7 +71,7 @@ Refresh information
 
 </td><td>
 
-Displays the time or duration when the dashboard was last refreshed. Users with admin roles can configure the refresh intervals. For more information, see [Configure Platform Analytics dashboard settings](../task/configure-ac-db-settings.md).
+Displays the time or duration when the dashboard was last refreshed. Users with admin roles can configure the refresh intervals. For more information, see [Configure Platform Analytics dashboard settings](configure-ac-db-settings.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Details button
 
 </td><td>
 
-Button for displaying the ownership and sharing information about the dashboard. You can view the user, groups, roles, and access permissions. For more information, see [Configure Platform Analytics dashboard details](../task/config-db-in-ac.md).
+Button for displaying the ownership and sharing information about the dashboard. You can view the user, groups, roles, and access permissions. For more information, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Insights button
 
 </td><td>
 
-Button for viewing the insights cards. For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+Button for viewing the insights cards. For more information, see [Proactive analytics insights on dashboards](proactive-analytics/proactive-analytics.md).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ More actions button
 
 </td><td>
 
-Button for creating, duplicating, sharing, printing, bookmarking, clearing the filters for, or deleting the dashboard. For more information on sharing the dashboard information, see [Share a Platform Analytics dashboard](../task/share-db-in-ac.md).![Dashboard sharing dialog that shows who the dashboard has been shared with and whether they can edit or only view it.](../../par-for-workspace/image/db-share-dialog.png "Share Platform Analytics dashboard")
+Button for creating, duplicating, sharing, printing, bookmarking, clearing the filters for, or deleting the dashboard. For more information on sharing the dashboard information, see [Share a Platform Analytics dashboard](share-db-in-ac.md).![Dashboard sharing dialog that shows who the dashboard has been shared with and whether they can edit or only view it.](../../par-for-workspace/image/db-share-dialog.png "Share Platform Analytics dashboard")
 
 </td></tr><tr><td>
 
@@ -182,29 +182,29 @@ Tabs
 Tabs for managing information on your dashboard and keeping related information in the same place.
 
 </td></tr></tbody>
-</table>-   **[Dashboards in the library](../concept/find-dashboard-library.md)**  
+</table>-   **[Dashboards in the library](find-dashboard-library.md)**  
 Use Platform Analytics dashboards to access, organize, and share data in a visual format. Dashboards contain data visualizations, filters, and other visual elements.
--   **[Dashboards for analytics admins](../concept/dashboards-for-admin-users.md)**  
+-   **[Dashboards for analytics admins](dashboards-for-admin-users.md)**  
 Use Platform Analytics dashboards to access, organize, and share data in a visual format. Dashboards contain data visualizations, filters, and other visual elements.
--   **[Dashboard elements](../concept/dashboard-elements.md)**  
+-   **[Dashboard elements](dashboard-elements.md)**  
 Elements refer to the visual objects you can place on a dashboard, including filters.
 -   **[Differences between Core UI and Platform Analytics dashboards](differences-between-core-ui-ne-dbs.md)**  
 When the unified analytics property is enabled, Core UI dashboards and dashboards in Platform Analytics can coexist in your instance. Use this reference to distinguish between them.
--   **[Different approaches to dashboards](../concept/approaches-dashboards.md)**  
+-   **[Different approaches to dashboards](approaches-dashboards.md)**  
 Depending on your needs, you have four different ways to present a collection of data visualizations and filters.
 
-**Parent Topic:**[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md)
+**Parent Topic:**[Dashboards in Platform Analytics](analytics-center-dashboards.md)
 
 **Related topics**  
 
 
-[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+[Common dashboard tasks in the in-line editor](common-dashboard-tasks.md)
 
-[Configuring dashboards](../concept/configuring-dashboards.md)
+[Configuring dashboards](configuring-dashboards.md)
 
-[Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md)
+[Proactive analytics insights on dashboards](proactive-analytics/proactive-analytics.md)
 
-[Technical dashboards](../../performance-analytics/concept/technical-dashboards.md)
+[Technical dashboards](technical-dashboards.md)
 
-[Dashboard reference](../../par-for-workspace/concept/dashboard-reference-page.md)
+[Dashboard reference](dashboard-reference-page.md)
 

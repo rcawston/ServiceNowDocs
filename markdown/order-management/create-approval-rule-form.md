@@ -160,5 +160,5 @@ Rule logic that determines the escalated assignee dynamically when an approval r
 **Related topics**  
 
 
-[Create approval rules](../task/create-approval-rules.md)
+[Create approval rules](create-approval-rules.md)
 

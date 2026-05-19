@@ -42,7 +42,7 @@ Now LLM Service is currently the only provider for this Now Assist application's
 
 1.  Install the Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\).
 
-    **Note:** For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for HRSD](../concept/support-info-hr-assist.md).For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
+    **Note:** For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for HRSD](support-info-hr-assist.md).For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 3.  Activate and configure the skills for the Now Assist for HR Service Delivery \(HRSD\) features.
@@ -65,13 +65,13 @@ Common configuration components include the following:
 
 Saving and activating the configuration setup process is the same across all Now Assist skills.
 
--   **[Skill inputs and triggers for Now Assist for HRSD](../concept/now-assist-hrsd-skill-inputs.md)**  
+-   **[Skill inputs and triggers for Now Assist for HRSD](now-assist-hrsd-skill-inputs.md)**  
 Get a quick overview of the skill inputs and triggers for Now Assist for HR Service Delivery \(HRSD\). By configuring the inputs or triggers for a skill, you can determine how and when a skill is used.
 -   **[RCA approvals for Now Assist for HR Service Delivery \(HRSD\)](run-rca-now-assist-hrsd.md)**  
 After you install Now Assist for HR Service Delivery \(HRSD\), you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
 -   **[Restrict Now Assist capabilities for employee relations cases](restrict-now-assist-skills-er-cases.md)**  
 Restrict the Now Assist capabilities for your employee relations cases and define the availability.
--   **[Customize the Now Assist for HRSD skills](../concept/customize-nahr-skill.md)**  
+-   **[Customize the Now Assist for HRSD skills](customize-nahr-skill.md)**  
 Customize a Now Assist skill so you can experiment with skill settings and configure the skill to fit your business needs.
 -   **[Configure attachment summary](configue-attachment-summary.md)**  
 Customize the case summarization skill in Now Assist for HRSD to include summaries of case attachments.
@@ -92,5 +92,5 @@ Configure the manager insights skill in Now Assist for HRSD to generate a summar
 -   **[Configure Now Assist for HR - Galileo Inside](configuring-galileo-inside.md)**  
 Enable users to access functionality and benefits of the Now Assist for HR - Galileo Inside \[sn\_hr\_na\_galileo\] plugin by completing a short installation and configuration process.
 
-**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](../concept/now-assist-hrsd.md)
+**Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd.md)
 

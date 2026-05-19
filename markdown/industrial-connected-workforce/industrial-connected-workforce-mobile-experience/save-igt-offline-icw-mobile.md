@@ -44,5 +44,5 @@ Your IGT progress is saved to the outbox on your device. A confirmation is displ
 -   When your device goes back online, the saved changes are automatically uploaded to the server.
 -   Other users on any device can then continue the work from the point where you saved.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](using-icw-mobile-experience.md)
 

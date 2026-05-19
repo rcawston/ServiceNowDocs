@@ -17,6 +17,6 @@ By default dispatchers can add any agent to Dispatcher Workspace who is part of 
 
 Dispatchers can search for agents by their name, email address, or employee number. Administrators can allow dispatchers to search for any filed that is available on the system user table.
 
-1.  Turn on the setting **Enable dispatcher to add agents outside of their assigned assignment groups / territories** on the Configure settings page to allow dispatchers to search for any agent. For more information see [Configure settings for Dispatcher Workspace](../task/configure-workspce-settings.md).
-2.  Add additional fields dispatchers can search for agents by. You can add any field that is on the system user table. For more information look for the **Add agents by searchable fields** in [Configure settings for Dispatcher Workspace](../task/configure-workspce-settings.md).
+1.  Turn on the setting **Enable dispatcher to add agents outside of their assigned assignment groups / territories** on the Configure settings page to allow dispatchers to search for any agent. For more information see [Configure settings for Dispatcher Workspace](configure-workspce-settings.md).
+2.  Add additional fields dispatchers can search for agents by. You can add any field that is on the system user table. For more information look for the **Add agents by searchable fields** in [Configure settings for Dispatcher Workspace](configure-workspce-settings.md).
 

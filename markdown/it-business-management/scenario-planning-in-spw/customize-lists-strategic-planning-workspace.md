@@ -18,7 +18,7 @@ Add custom tables to the Lists menu in Strategic Planning Workspace.
 ## Before you begin
 
 -   Ensure that your application scope is set to **Portfolio Planning**.
--   [Enable adding custom tables to the Lists menu](../../portfolio-planning/task/enable-adding-custom-tables-to-the-lists-menu.md).
+-   [Enable adding custom tables to the Lists menu](../portfolio-planning/enable-adding-custom-tables-to-the-lists-menu.md).
 
 Role required: admin
 
@@ -45,8 +45,8 @@ For more information of configuring lists in a workspace, see [Lists](https://ra
 
 4.  On the form, fill in the fields.
 
-    -   [UX List Category form](../reference/ux-list-category-form.md).
-    -   [UX List form](../reference/ux-list-form.md).
+    -   [UX List Category form](ux-list-category-form.md).
+    -   [UX List form](ux-list-form.md).
 5.  Select **Submit**.
 
     Repeat this procedure until you've created all the custom categories and lists.

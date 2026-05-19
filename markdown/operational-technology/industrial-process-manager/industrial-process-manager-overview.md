@@ -33,7 +33,7 @@ Watch an overview about the Industrial Process Manager application.Overview vide
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/manufacturing-process-mgr-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](manufacturing-process-mgr-reference.md)
 
 </td></tr></tbody>
 </table>

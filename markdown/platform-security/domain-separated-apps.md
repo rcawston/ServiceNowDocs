@@ -81,7 +81,7 @@ Sometimes, a platform feature or application may effectively support SP use case
 |[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/domain-separation-release-management.md)|Basic\*|
 |Order Management for Customer Service Management|Basic|
 |Post-Sales Support|Basic|
-|[Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/domain-separation-configurable-wfo-cs.md)|Basic|
+|[Workforce Optimization for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/domain-separation-configurable-wfo-cs.md)|Basic|
 |[Now Assist for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm.md)|Basic|
 |[DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-landing-page.md)|[Dev Ops](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-domain-separation.md)|No support|
 |[Dev Ops Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-domain-separation.md)|No support|
@@ -225,24 +225,24 @@ Sometimes, a platform feature or application may effectively support SP use case
 |[Assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-assessments.md)|Standard|
 |[Automated Test Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/domain-separation-auto-test-framework.md)|Standard\*|
 |[ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-voice.md)|Basic|
-|[Code Signing](../../encryption/concept/code-signing-landing.md)|No support|
+|[Code Signing](code-signing-landing.md)|No support|
 |[Contextual Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/domain-separation-contextual-search.md)|Standard|
 |[Configuration Management \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)|Standard|
 |[Content Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/domain-separation-content-management.md)|No support|
-|[Credentials and Connections](../../../product/credentials/concept/domain-separation-credentials_conn.md)|Standard|
+|[Credentials and Connections](connections-and-credentials/domain-separation-credentials_conn.md)|Standard|
 |Data Certification|Basic\*|
-|[Data Classification](../../security/concept/domain-separation-data-classification.md)|Enhanced|
+|[Data Classification](data-classification/domain-separation-data-classification.md)|Enhanced|
 |Data Privacy|No support|
 |[Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-data-management.md)|Basic\*|
 |[Delegated Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/domain-separation-delegated-development.md)|No support|
 |[Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/domain-separation-dependency-views.md)|Basic|
 |[Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/domain-separation-document-services.md)|No support|
 |[Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/domain-sep-dynamic-translation.md)|Basic|
-|[Edge Encryption](../../edge-encryption/concept/edge-encryption-domain-separation.md)|Basic support|
+|[Edge Encryption](edge-encryption/edge-encryption-domain-separation.md)|Basic support|
 |External Content Connectors|No support\*|
-|[Field Encryption](../../encryption/concept/field-encryption.md)|No support|
-|[Encryption](../../security/concept/encryption-landing.md)|No support|
-|[Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)|Basic support|
+|[Field Encryption](field-encryption.md)|No support|
+|[Encryption](encryption-landing.md)|No support|
+|[Cloud Encryption with Key Management](cloud-encryption/dare-overview.md)|Basic support|
 |[Field Normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-field-normalization.md)|No support|
 |[Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-domain-separation.md)|Standard\*|
 |[Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/domain-separation-guided-setup.md)|No support|

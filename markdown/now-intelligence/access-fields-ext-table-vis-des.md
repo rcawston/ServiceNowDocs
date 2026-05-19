@@ -28,7 +28,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 2.  Select **Create data visualization**.
 
-3.  Create any of the data visualizations listed under [Creating data visualizations](../concept/creating-data-visualizations.md), selecting a table data source.
+3.  Create any of the data visualizations listed under [Creating data visualizations](creating-data-visualizations.md), selecting a table data source.
 
 4.  Open one of the following sections of the configuration tab, depending on the visualization type:
 

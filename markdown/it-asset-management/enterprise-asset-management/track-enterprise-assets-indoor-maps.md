@@ -17,7 +17,7 @@ Use indoor maps to locate and track the enterprise assets, consumable assets, an
 
 ## Before you begin
 
-To use indoor maps in the Enterprise Asset Workspace, you must fulfill all the requirements specified in [Indoor maps in Enterprise Asset Management](../concept/indoor-maps-eam.md).
+To use indoor maps in the Enterprise Asset Workspace, you must fulfill all the requirements specified in [Indoor maps in Enterprise Asset Management](indoor-maps-eam.md).
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
@@ -57,5 +57,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
     Select an asset from the map or list to view additional details about that asset.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

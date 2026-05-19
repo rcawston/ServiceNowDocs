@@ -109,5 +109,5 @@ When set to true, requires that the type of SSH credential returned from CyberAr
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[CyberArk integration configuration](../concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 

@@ -89,5 +89,5 @@ The affected user.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing roles](../concept/ua-creating-roles.md)
+**Parent Topic:**[Managing roles](ua-creating-roles.md)
 

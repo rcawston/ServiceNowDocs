@@ -19,7 +19,7 @@ Generate work order task closure summaries in the ServiceNow Agent app to create
 
 Agents can only generate summaries for the work order tasks that are assigned to them. The work order task must be in the **Work in Progress** state. Work notes must have at least 200 words to generate a summary.
 
-For more information on how to close work order tasks, see [Close a complete work order task on a mobile device](close-complete-wot-fsc.md).
+For more information on how to close work order tasks, see [Close a complete work order task on a mobile device](../work-order-management/close-complete-wot-fsc.md).
 
 Role required: agent
 
@@ -46,5 +46,5 @@ Role required: agent
 
 A closure summary is generated for the work order task. You can edit the summary after it's generated. Because the information in these fields is automatically generated, it’s a good idea to review the text and make sure that it's accurate.
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](using-now-assist-fsm.md)
 

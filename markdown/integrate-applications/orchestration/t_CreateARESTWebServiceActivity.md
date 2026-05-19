@@ -35,7 +35,7 @@ To create and use a REST web service workflow activity:
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the REST web service Execution Command.
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the REST web service Execution Command.
 
 <table id="choicetable_g3y_2sq_vz"><tbody><tr><td id="d382148e149">
 
@@ -160,9 +160,9 @@ Profile for the OAuth provider for this REST message. See [Specify an OAuth prof
 
 ## What to do next
 
-Finish creating your Rest web service activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](../reference/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
+Finish creating your Rest web service activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## Auto-map REST activity output variables
 

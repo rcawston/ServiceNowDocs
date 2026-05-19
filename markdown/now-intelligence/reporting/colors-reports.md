@@ -46,7 +46,7 @@ Both the color palettes and the chart colors use the colors defined in the Color
 A color palette is a sequence of colors that apply to the elements in a chart, in order from highest value to lowest. All reports that use the same palette use the same colors.
 -   **[Chart colors](c_ChartColors.md#)**  
 Chart colors assign a consistent color to a grouping or stacking value in reports. The color stays the same across reports regardless of the order of the values.
--   **[Define system colors for analytics](../task/t_DefiningSystemColors.md)**  
+-   **[Define system colors for analytics](t_DefiningSystemColors.md)**  
 Create color definitions for use in visualizations and Performance Analytics widgets.
 
 **Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)

@@ -21,12 +21,12 @@ As an administrator, you can review the installed components and modify them or 
 -   Gift policies for Gifts and Entertainment Compliance.
 -   [Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md) to inform different stakeholders at different stages of a gift and entertainment disclosure requests.
 
--   **[Install Gifts and Entertainment Compliance](../task/lsd-install-ge.md)**  
+-   **[Install Gifts and Entertainment Compliance](lsd-install-ge.md)**  
 You can install the Gifts and Entertainment Compliance application \(sn\_lg\_gifts\) if you have the admin role.
--   **[Configure gift policy for Gifts and Entertainment Compliance](../task/lsd-configure-ge-policy.md)**  
+-   **[Configure gift policy for Gifts and Entertainment Compliance](lsd-configure-ge-policy.md)**  
 Configure a gift policy in accordance with your organization's policy. This policy will outline the conditions under which approval is required.
--   **[Configure approval workflow for Gifts and Entertainment Compliance](../task/lsd-ge-approval-workflow.md)**  
+-   **[Configure approval workflow for Gifts and Entertainment Compliance](lsd-ge-approval-workflow.md)**  
 Review the flows installed with the Gifts and Entertainment Compliance application and configure them to align to your company's policy.
 
-**Parent Topic:**[Gifts and Entertainment Compliance](../reference/lsd-ge-landing-page.md)
+**Parent Topic:**[Gifts and Entertainment Compliance](lsd-ge-landing-page.md)
 

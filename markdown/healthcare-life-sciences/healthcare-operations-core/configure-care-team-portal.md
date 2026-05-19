@@ -15,31 +15,31 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 Configure the Care Team Portal by embedding it into Epic Hyperspace via Hyperdrive and enabling SMART on FHIR authentication.
 
-1.  [Update variables in record producers to capture tokenized data from Epic Hyperspace](../task/hco-update-variables-portal.md)
+1.  [Update variables in record producers to capture tokenized data from Epic Hyperspace](hco-update-variables-portal.md)
 
     Update the variable values in existing record producers to capture tokenized data from Epic.
 
-2.  [Configure iFrame embedding for Care Team Portal](../task/configure-iframe-portal.md)
+2.  [Configure iFrame embedding for Care Team Portal](configure-iframe-portal.md)
 
     For the Care Team Portal to successfully launch in Hyperspace via Hyperdrive, the portal must be configured to work within an iFrame.
 
-3.  [Enable Multi-Provider SSO for your ServiceNow instance](../task/hcls-cto-enabling-oidc.md)
+3.  [Enable Multi-Provider SSO for your ServiceNow instance](hcls-cto-enabling-oidc.md)
 
     Ensure that Multiple Provider SSO is enabled and configured correctly for Care Team Portal to authenticate with Epic Hyperspace via Hyperdrive.
 
-4.  [Authenticate SMART on FHIR for use with the Care Team Portal in Hyperspace via Hyperdrive](../task/hco-authenticate-portal.md)
+4.  [Authenticate SMART on FHIR for use with the Care Team Portal in Hyperspace via Hyperdrive](hco-authenticate-portal.md)
 
     Set up your FHIR app with the correct configurations to allow single sign-on for EPIC users to access the Care Team Portal inside EPIC Hyperspace via Hyperdrive.
 
-5.  [Create an Identity Provider on your ServiceNow instance for Healthcare Operations Core](../task/create-identity-provider-hco.md)
+5.  [Create an Identity Provider on your ServiceNow instance for Healthcare Operations Core](create-identity-provider-hco.md)
 
     Set up an Identity Provider in your ServiceNow instance to enable OIDC for Healthcare Operations Core.
 
-6.  [Configure your Identity Provider for Care Team Portal](../task/configure-identity-provider-hco.md)
+6.  [Configure your Identity Provider for Care Team Portal](configure-identity-provider-hco.md)
 
     Configure your Identity Provider to ensure successful user authentication in Care Team Portal.
 
-7.  [Configure the integration settings in the Hyperdrive Client Test Harness for Care Team Portal](../task/configure-hyperspace-hco.md)
+7.  [Configure the integration settings in the Hyperdrive Client Test Harness for Care Team Portal](configure-hyperspace-hco.md)
 
     Once the Care Team Portal is configured, create a launch URL that can then be configured inside the Epic Hyperdrive Client Test Harness for testing.
 

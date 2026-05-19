@@ -153,10 +153,10 @@ Scripts use ECMA 262 standard JavaScript. Helpful resources include:
 The syntax editor offers keyboard shortcuts and actions to assist in writing code.
 -   **[JavaScript syntax editor macros](r_SyntaxEditorMacros.md)**  
 Script macros provide shortcuts for typing commonly used code. To insert macro text into a script field, enter the macro keyword followed by the Tab.
--   **[Context menu in the syntax editor](../concept/context-menu-syntax-editor.md)**  
+-   **[Context menu in the syntax editor](context-menu-syntax-editor.md)**  
 View the context menu for script includes, Glide APIs, and tables in the JavaScript syntax editor.
--   **[Syntax errors and warnings](../../debugging/concept/c_ScriptSyntaxErrorChecking.md)**  
+-   **[Syntax errors and warnings](c_ScriptSyntaxErrorChecking.md)**  
 All script fields provide controls for checking the syntax for errors and for locating the error easily when one occurs.
 
-**Parent Topic:**[JavaScript syntax editor](../concept/c_SyntaxEditor.md)
+**Parent Topic:**[JavaScript syntax editor](c_SyntaxEditor.md)
 

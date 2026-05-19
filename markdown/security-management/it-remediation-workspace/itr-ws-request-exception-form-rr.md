@@ -29,7 +29,7 @@ Reason
 
 </td><td>
 
-Reason for your exception request. Select Mitigating Control in Place for risk reduction request.To see how to add new reason choices, see [Define policy reason mapping](../../vulnerability-app-vuln-mgmt/task/define-policy-reason-mapping.md).
+Reason for your exception request. Select Mitigating Control in Place for risk reduction request.To see how to add new reason choices, see [Define policy reason mapping](../application-vulnerability-response/define-policy-reason-mapping.md).
 
 </td></tr><tr><td>
 
@@ -97,5 +97,5 @@ Details that are related to the reason why this request is being made.
 </table>**Related topics**  
 
 
-[Request risk reduction for a vulnerable item or remediation task](../../vr-vulnerability-manager-workspace/task/request-risk-reduction.md)
+[Request risk reduction for a vulnerable item or remediation task](request-risk-reduction.md)
 

@@ -19,7 +19,7 @@ The Admin Console streamlines the integration of CCaaS providers with the Servic
 
 Customer Service Management \(CSM\)
 
-CCaaS providers can use the following features by integrating with the capabilities through their custom plugins. Review prerequisites and plugin requirements to enable the CCaaS Admin Console. See [Plugin requirements for voice and callback integrations with contact centers](../task/plugin-requirements-for-external-call-routing-integration-for-contact-centers.md).
+CCaaS providers can use the following features by integrating with the capabilities through their custom plugins. Review prerequisites and plugin requirements to enable the CCaaS Admin Console. See [Plugin requirements for voice and callback integrations with contact centers](plugin-requirements-for-external-call-routing-integration-for-contact-centers.md).
 
 ## Accessing Admin Console
 

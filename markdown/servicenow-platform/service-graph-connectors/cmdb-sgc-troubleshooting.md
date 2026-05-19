@@ -45,7 +45,7 @@ Resolve the Service Graph Connector issues or perform a general analysis using t
 
 ### Before you begin
 
-[Install Service Graph Connector Support Tools](../task/sgc-cmdb-troubleshooting-install.md)
+[Install Service Graph Connector Support Tools](sgc-cmdb-troubleshooting-install.md)
 
 Role required: admin
 

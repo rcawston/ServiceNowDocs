@@ -19,7 +19,7 @@ The FieldWriteOptions class provides functions that set the options for updating
 |----|----|-----------|
 |queryItems|[Map](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-map/)&lt;String, String&gt;|Collection of request query items that represent the write options.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## FieldWriteOptions - FieldWriteOptions\(vararg options: FieldWriteOptions.Options\)
 

@@ -67,5 +67,5 @@ API version that the related spokes are built for. The default value is `v3beta1
 
 **Previous topic:**[Configure the credential for the GoogleTranslation alias](configure-credential-google.md)
 
-**Next topic:**[Microsoft Azure Translator Service spoke](../../dynamic-translation/concept/microsoft-translation-spoke.md)
+**Next topic:**[Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 

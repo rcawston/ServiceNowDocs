@@ -17,7 +17,7 @@ Dictionary entries \[sys\_dictionary\] serve the purpose of providing additional
 
 UI policies are used to dynamically alter the behavior of information on a form. Administrators can configure the UI policies to show or hide fields, make fields required or read-only based on specific conditions. For more information on UI policies, see [Using UI policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUIPolicy.md).
 
-Element variables are employed to define additional data for a record, allowing for more granular control over the behavior and attributes of that record. For more information on Element variables, see [Configure element variables for element definitions](../task/configure-element-variable-uib-ws.md).
+Element variables are employed to define additional data for a record, allowing for more granular control over the behavior and attributes of that record. For more information on Element variables, see [Configure element variables for element definitions](configure-element-variable-uib-ws.md).
 
 View rules are utilized to define the filter condition and execution order for a table, providing a way to customize the view and presentation of data within that table. For more information on View rules, see [Create a view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAViewRule.md).
 

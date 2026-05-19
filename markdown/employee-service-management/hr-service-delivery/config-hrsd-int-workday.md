@@ -15,11 +15,11 @@ breadcrumb: [HR Service Delivery Integration with Workday, Integration of HR Ser
 
 Understand how you can use HR Service Delivery Integration with Workday to process employee information at ServiceNow.
 
--   **[Use transform maps](../reference/transform-maps-w.md)**  
+-   **[Use transform maps](transform-maps-w.md)**  
 Transform maps specify data relationships between source table and target table.
--   **[View job tracker details from Workday](../task/w-job-tracker.md)**  
+-   **[View job tracker details from Workday](w-job-tracker.md)**  
 Track every pull that has been performed from ServiceNow to Workday either by schedule job or manual reconciliation process. View details of the job, such as when did the job begin and end, when did the records start loading into staging tables, or did the job run completely or fail in between.
--   **[View tasks from Workday](../task/view-to-dos-wd.md)**  
+-   **[View tasks from Workday](view-to-dos-wd.md)**  
 View details of the todos or tasks that are pulled from Workday into ServiceNow.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)

@@ -33,7 +33,7 @@ Role required: pf\_user or apw\_user or goal\_user
 
 6.  From the Goal list, select a goal.
 
-    For more information on goals, see [Align a planning item with goals or targets](../../spw-goals/task/associate-work-with-goals-egm.md).
+    For more information on goals, see [Align a planning item with goals or targets](../scenario-planning-in-spw/associate-work-with-goals-egm.md).
 
 7.  If you want to set a goal as primary goal, then select the **Primary goal** check box.
 

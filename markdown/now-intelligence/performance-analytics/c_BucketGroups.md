@@ -24,7 +24,7 @@ To work with a bucket group, create a breakdown source that uses Bucket \[pa\_bu
 **Related topics**  
 
 
-[Create a breakdown mapping on a breakdown record](../task/t_CrtBkdnBreakdownMpngs.md)
+[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
 
 ## Grouping field values into buckets
 

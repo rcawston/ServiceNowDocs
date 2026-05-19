@@ -38,11 +38,11 @@ MID Servers are selected for use based on three criteria: applications, IP addre
 
     Configure the system to automatically assign a qualified MID Server to a subnet by that subnet's IP address range.
 
--   **[Map an IP address to a DNS name](../task/t_MapIPAddressToDNSName.md)**
+-   **[Map an IP address to a DNS name](t_MapIPAddressToDNSName.md)**
 
     Map host server DNS names to IP addresses if your MID Server manages resources within defined IP ranges.
 
--   **[Configure MID Server as WinRM trusted host](../task/enable-winRM-MID-servers.md)**
+-   **[Configure MID Server as WinRM trusted host](enable-winRM-MID-servers.md)**
 
     Add servers, which are part of WinRM, as trusted hosts on all MID Servers that Discovery or Service Mapping use for discovery.
 
@@ -55,11 +55,11 @@ MID Servers are selected for use based on three criteria: applications, IP addre
 
 MID Server clusters are groups of MID Servers which provide support to each other in the forms of load balancing and fail-over protection. Work sent to a MID Server that is part of a cluster is automatically balanced between all the MID Servers in that cluster. MID Servers in a fail-over cluster each have a configured order that the platform uses to determine which MID Server to use next in case of failure.
 
--   **[Create a MID Server cluster](../task/t_ConfigureAMIDServerCluster.md#)**
+-   **[Create a MID Server cluster](t_ConfigureAMIDServerCluster.md#)**
 
     Create a MID Server cluster for load balancing and fail-over protection.
 
--   **[Set thread use](../task/t_SetMIDServerThreadUse.md)**
+-   **[Set thread use](t_SetMIDServerThreadUse.md)**
 
     Set the number of threads your MID Server uses for the desired MID Server speed, based on hardware capabilities and competing applications running on the host.
 
@@ -72,7 +72,7 @@ Domain separation segregates MID Servers based on the records they can access. T
 
     Set up your MID Servers in different domains to restrict the records and credentials that a MID Server can access.
 
--   **[Synchronize a JAR file to MID Servers](../task/t_SynchronizeAJARFiletoMIDServers.md)**
+-   **[Synchronize a JAR file to MID Servers](t_SynchronizeAJARFiletoMIDServers.md)**
 
     Upload a JAR file to an instance and synchronize it to all MID Servers connected to that instance. Use JAR file synchronization to create policies that only a MID Server from the same domain can use.
 
@@ -81,7 +81,7 @@ Domain separation segregates MID Servers based on the records they can access. T
 
 MID Servers that are used for [credential-less Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md) require special configuration to run Network Mapper \(Nmap\) commands on target computers.
 
-[Install and uninstall Nmap on a MID Server](../task/install-nmap-on-mid-server.md#)
+[Install and uninstall Nmap on a MID Server](install-nmap-on-mid-server.md#)
 
 You must install Nmap on each MID Server running on a Windows host. When given the proper capability, those MID Servers can discover some basic information about CIs in your network if normal authentication fails.
 

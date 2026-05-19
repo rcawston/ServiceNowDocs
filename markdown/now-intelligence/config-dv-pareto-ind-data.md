@@ -41,7 +41,7 @@ Data source
 
 </td><td>
 
-You have selected an Indicator or Usage Insights data source in [Create a horizontal or vertical bar data visualization](../task/create-dv-bar-ac.md).
+You have selected an Indicator or Usage Insights data source in [Create a horizontal or vertical bar data visualization](create-dv-bar-ac.md).
 
  **Note:** Only one data source can be defined pareto at any given time.
 
@@ -63,7 +63,7 @@ Time aggregation
 
 </td><td>
 
-Time aggregation to apply to the metric, such as 7-day running SUM or By-month AVG. Default is the same as the indicator period. For more information, see [Applying time series aggregations](../../performance-analytics/concept/applying-time-series-aggregations.md#).
+Time aggregation to apply to the metric, such as 7-day running SUM or By-month AVG. Default is the same as the indicator period. For more information, see [Applying time series aggregations](performance-analytics/applying-time-series-aggregations.md#).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Format values
 
 </td><td id="entry_format-values">
 
-Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](value-formatting-reports.md#).
+Select to open the **Formatting values** dialog. For more information, see [Value formatting in reports](reporting/value-formatting-reports.md#).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -186,7 +186,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](../concept/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](../../performance-analytics/concept/select-group-runtime.md).
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](select-group-runtime.md).
 
 **Important:**
 
@@ -332,5 +332,5 @@ Alignment
 The alignment of the illustration and text in the message.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a Pareto bar data visualization](../task/create-dv-pareto-vd.md)
+</table>**Parent Topic:**[Create a Pareto bar data visualization](create-dv-pareto-vd.md)
 

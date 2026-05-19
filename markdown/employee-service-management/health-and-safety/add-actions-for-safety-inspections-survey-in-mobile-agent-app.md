@@ -20,7 +20,7 @@ Learn how to use the Mobile Agent app to create actions for an inspection survey
 Verify the following conditions:
 
 -   The system properties for the offline mode behavior of the mobile application are configured. For more information, see [Configure offline mode behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-offline-mode.md).
--   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for Mobile Agent](../concept/hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
+-   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for Mobile Agent](hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
 -   The **glide.sg.offline.scheduled\_download.enabled** system property for scheduled offline caching is set. If the property is not set, manually update cache before you go offline. To update cache, navigate to **Settings** and tap **Update Cache**. This ensures that the survey is downloaded and it's ready for you to complete.
 
 Role required: sn\_hs\_rm.safety\_inspection\_agent
@@ -85,5 +85,5 @@ Tap **My Assessments and Surveys**.All surveys that were downloaded before you w
 
 The action created appears in the **Actions** tab of the inspection record and can be edited or deleted by using the More actions \(![more actions icon](../../legal-request-management/image/more-button-icon.png)\) icon.
 
-**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](../concept/hs-configure-manage-safety-inspections-audits-mobile.md)
+**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](hs-configure-manage-safety-inspections-audits-mobile.md)
 

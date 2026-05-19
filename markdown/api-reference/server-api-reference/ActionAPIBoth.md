@@ -19,7 +19,7 @@ Use this API to configure UI actions with which users can interact. Use these sc
 
 Methods for this API are referred to by the variable name 'action' in any server-side JavaScript. To learn more, see [Creating interactions with UI actions](https://developer.servicenow.com/blog.do?p=/post/training-ui-action-101/).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## action - getGlideURI\(\)
 
@@ -43,8 +43,8 @@ Object
 
 </td><td>
 
-GlideURI object representing the URI parameter of the user view.-   [GlideURI - Scoped](../../GlideURIScoped/concept/c_GlideURIScopedAPI.md#)
--   [GlideURI - Global](../../GlideURIGlobal/concept/GlideURIGlobalAPI.md#)
+GlideURI object representing the URI parameter of the user view.-   [GlideURI - Scoped](c_GlideURIScopedAPI.md#)
+-   [GlideURI - Global](GlideURIGlobalAPI.md#)
 
 **Note:** Any other returned value is considered an error, including null.
 
@@ -97,7 +97,7 @@ Opens a page with a GlideRecord in the user view.
 
 |Name|Type|Description|
 |----|----|-----------|
-|gr|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|GlideRecord of the page to be opened in the user view.|
+|gr|[GlideRecord](c_GlideRecordScopedAPI.md#)|GlideRecord of the page to be opened in the user view.|
 
 |Type|Description|
 |----|-----------|
@@ -162,19 +162,19 @@ Sets the redirect URI for this transaction, which determines the next page the u
 
 For use cases:
 
--   [Create a UI routing action](../../../../../script/useful-scripts/concept/useful-client-side-scripts.md#)
+-   [Create a UI routing action](../scripts/useful-client-side-scripts.md#)
 -   [Create knowledge articles from HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/ui-action-hrcase-article.md)
 -   [Task relationships with UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_UIActions.md)
 
 |Name|Type|Description|
 |----|----|-----------|
-|URL|Object|URL to set as the redirect. You can provide the URL as a string or a [GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#). If you pass the URL as a GlideRecord, this value takes the focus to that record's form.|
+|URL|Object|URL to set as the redirect. You can provide the URL as a string or a [GlideRecord](c_GlideRecordScopedAPI.md#). If you pass the URL as a GlideRecord, this value takes the focus to that record's form.|
 
 |Type|Description|
 |----|-----------|
 |void| |
 
-The following example shows how to redirect a user to a URL from a UI action using the [current](../../../../../script/server-scripting/concept/c_ScriptableServiceCatalogVariables.md) variable.
+The following example shows how to redirect a user to a URL from a UI action using the [current](../scripts/c_ScriptableServiceCatalogVariables.md) variable.
 
 ```
 var fixchg = new GlideRecord("change_request");
@@ -235,13 +235,13 @@ Sets the return URI for this transaction after a UI action is complete. You can 
 
 |Name|Type|Description|
 |----|----|-----------|
-|URL|Object|URI to set as the return location after a UI action is complete. You can provide the URL as a string or a [GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#).|
+|URL|Object|URI to set as the return location after a UI action is complete. You can provide the URL as a string or a [GlideRecord](c_GlideRecordScopedAPI.md#).|
 
 |Type|Description|
 |----|-----------|
 |void| |
 
-The following example enables the user to select the UI action to create a change record using information from the problem record and the change template. After the change, the user returns to [current](../../../../../script/server-scripting/concept/c_ScriptableServiceCatalogVariables.md) view. For more information, see [Scripted templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ScriptedTemplates.md). For more use cases, see [Task relationships with UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_UIActions.md).
+The following example enables the user to select the UI action to create a change record using information from the problem record and the change template. After the change, the user returns to [current](../scripts/c_ScriptableServiceCatalogVariables.md) view. For more information, see [Scripted templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ScriptedTemplates.md). For more use cases, see [Task relationships with UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_UIActions.md).
 
 ```
 var change = new GlideRecord("change_request");

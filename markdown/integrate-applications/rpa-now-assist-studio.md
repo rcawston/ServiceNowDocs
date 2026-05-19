@@ -22,7 +22,7 @@ Use the Now Assist for RPA Hub application to transform your automation developm
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Now Assist for RPA Hub](../task/configure-now-assist-rpa-hub.md) application to get started
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Now Assist for RPA Hub](configure-now-assist-rpa-hub.md) application to get started
 
 </td></tr><tr><td>
 

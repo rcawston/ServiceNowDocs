@@ -64,7 +64,7 @@ The roles, groups, and users you have shared the dashboard with appears again wh
 
 You can change the rights of whom you have shared the dashboard with in the Share Dashboard dialog, under the Can view/Can share list for each user, group, or role.
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 
 **Related topics**  
 

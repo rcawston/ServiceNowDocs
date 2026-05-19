@@ -15,11 +15,11 @@ breadcrumb: [Orchestration ROI, Orchestration applications, Classic Orchestratio
 
 Orchestration ROI provides a collection of standard and premium reports to help you calculate savings from automating services in your organization.
 
-The ROI standard reports are included with Orchestration ROI. The premium reports provide enhanced views generated with Performance Analytics and require the [Orchestration - ROI Premium](../reference/r_OrchestrationROIPremiumDashboard.md#) plugin.
+The ROI standard reports are included with Orchestration ROI. The premium reports provide enhanced views generated with Performance Analytics and require the [Orchestration - ROI Premium](r_OrchestrationROIPremiumDashboard.md#) plugin.
 
--   **[Orchestration ROI standard reports](../reference/r_OrchestrationROIStandardDashboard.md#)**  
+-   **[Orchestration ROI standard reports](r_OrchestrationROIStandardDashboard.md#)**  
 The dashboard of standard ROI reports provides summaries, estimated costs, and calculated costs for automated processes. To access the ROI standard dashboard, navigate to **Orchestration** &gt; **ROI Reports** &gt; **Dashboard**.
--   **[Orchestration ROI premium reports](../reference/r_OrchestrationROIPremiumDashboard.md#)**  
+-   **[Orchestration ROI premium reports](r_OrchestrationROIPremiumDashboard.md#)**  
 The premium dashboard provides detailed reports on calculated savings over time.
 
 **Parent Topic:**[Orchestration ROI](c_OrchestrationROI.md)

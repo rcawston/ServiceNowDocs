@@ -21,7 +21,7 @@ Demo data is available for this plugin.
 
 ## Roles installed
 
-**Note:** To view the Robotic Process Automation \(RPA\) data, RPA roles are required. For more information about RPA roles, see [Components installed with RPA Hub](../../rpa-hub/reference/installed-with-rpa-hub.md) .
+**Note:** To view the Robotic Process Automation \(RPA\) data, RPA roles are required. For more information about RPA roles, see [Components installed with RPA Hub](../installed-with-rpa-hub.md) .
 
 <table id="table_ddp_3pg_wtb"><thead><tr><th>
 
@@ -217,5 +217,5 @@ Automation Import \[sn\_ac\_rpa\_import\]
 Temporarily stores data that is imported from the REST API.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

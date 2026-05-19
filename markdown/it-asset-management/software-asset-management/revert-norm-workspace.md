@@ -32,5 +32,5 @@ Role required: sam\_admin or sam\_user
     Once the revert normalization process is complete, fields are reset to their original values and any rules associated with the software discovery model are deactivated.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

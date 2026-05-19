@@ -19,8 +19,8 @@ You must have the security\_admin role to manage the OAuth integration.
 
 You can configure outbound OAuth 2.0 for the following grant types:
 
--   **Connect to third-party provider**: Use the client ID and secret to send it to the OAuth provider. For more information, see [Connect to a third-party OAuth provider](../../../administer/security/task/connect-3rd-party-oauth-provider.md).
--   **JWT Bearer**: An authorization server validates a JWT token which enables identity and security information to be shared across security domains. For more information, see [Set up OAuth provider with JWT Bearer grant type](../../../administer/security/task/JWT-Bearer-token-support.md#).
+-   **Connect to third-party provider**: Use the client ID and secret to send it to the OAuth provider. For more information, see [Connect to a third-party OAuth provider](connect-3rd-party-oauth-provider.md).
+-   **JWT Bearer**: An authorization server validates a JWT token which enables identity and security information to be shared across security domains. For more information, see [Set up OAuth provider with JWT Bearer grant type](JWT-Bearer-token-support.md#).
 -   **SAML2 Bearer**: Generates the SAML2 assertion and then exchanges the assertion for the access tokens wit the provider.
 
     **Note:** For outbound request to SuccessFactors use the **SAML2 Bearer** as the Default Grant Type. To know more about how to configure **SAML2 Bearer**, refer the example in [Set up the v4.x.x](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md).

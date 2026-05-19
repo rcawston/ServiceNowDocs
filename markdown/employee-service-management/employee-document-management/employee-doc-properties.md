@@ -110,7 +110,7 @@ If you checked **Yes** for the **Enable purge logs to log the files deleted duri
 **Note:** The purge log is created after the Purge employee documents scheduled job runs. This job runs daily by default.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference - Employee Document Management](../concept/reference-employee-document-management.md)
+</table>**Parent Topic:**[Reference - Employee Document Management](reference-employee-document-management.md)
 
 **Related topics**  
 

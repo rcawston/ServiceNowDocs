@@ -18,8 +18,8 @@ Adoption blueprints provide a roadmap of applications and features, along with s
 Explore the following to know more about adoption blueprints.
 
 -   [Adoption blueprint overview](ac-achieve-business-objective.md): Get an overview of adoption blueprint and its suggested roadmap for you to achieve the business goal.
--   [Select your adoption blueprint](../task/ac-select-business-objective.md): You have six different adoption blueprint to select from that closely relates to your organization business goals.
--   [Install applications for the selected adoption blueprint](../task/ac-install-app.md): Know all the applications, plugins, and features that need to be installed depending on your selected adoption blueprint.
+-   [Select your adoption blueprint](ac-select-business-objective.md): You have six different adoption blueprint to select from that closely relates to your organization business goals.
+-   [Install applications for the selected adoption blueprint](ac-install-app.md): Know all the applications, plugins, and features that need to be installed depending on your selected adoption blueprint.
 
 -   **[Adoption blueprints](ac-achieve-business-objective.md)**  
 Adoption blueprints display the applications and features available to you and the recommended solutions to achieve business goals.

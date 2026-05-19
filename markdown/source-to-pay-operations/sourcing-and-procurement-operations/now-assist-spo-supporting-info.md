@@ -107,7 +107,7 @@ Activate the applications in the following order:
 3.  Now Assist for FSC Common \(sn\_fsc\_genai\)
 4.  Now Assist for Sourcing and Procurement Operations \(SPO\) \(sn\_spend\_gen\_ai\)
 
-For more information, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md).
+For more information, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md).
 
 **Parent Topic:**[Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-exploring.md)
 

@@ -73,5 +73,5 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
     **Note:** Installing GRC: Business Impact Analysis, GRC: Business Continuity Planning, or GRC: Crisis Management automatically installs GRC: Business Continuity Management – Core and GRC: Business Continuity Management – Components.
 
 
-**Parent Topic:**[Business Continuity Management and ServiceNow Store](../concept/bcm-and-store.md)
+**Parent Topic:**[Business Continuity Management and ServiceNow Store](bcm-and-store.md)
 

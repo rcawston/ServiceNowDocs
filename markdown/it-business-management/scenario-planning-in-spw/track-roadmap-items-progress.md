@@ -85,5 +85,5 @@ The tracking view of your roadmap is displayed according to your personalization
 
 ![Roadmap tracking mode.](../images/roadmap-tracking-mode.png)
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](roadmaps-in-alignment-planner-workspace.md)
 

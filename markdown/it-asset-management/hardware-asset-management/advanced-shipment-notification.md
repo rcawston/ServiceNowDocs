@@ -24,7 +24,7 @@ Use Advanced Shipment Notification \(ASN\) to automate and create asset records 
     -   The shipping address in the template matches the shipping address in the Location \[cmn\_location\] table.
     -   The shipping carrier in the template is available in the Shipping carrier \[sn\_itam\_shipping\_carrier\] table.
 
-    For more details on all ASN data validations, see [Advanced Shipment Notification \(ASN\)](../concept/asn-for-ham.md).
+    For more details on all ASN data validations, see [Advanced Shipment Notification \(ASN\)](asn-for-ham.md).
 
 
 Role required: ham\_admin, ham\_user, procurement\_admin, asset, sn\_hamp.ham\_asn\_admin, or admin
@@ -105,22 +105,22 @@ For rows that were ignored:
 2.  Resolve the identified issues within the ASN template.
 3.  Create a Shipment Notification Upload record to import the updated template.
 
-**Parent Topic:**[Using Hardware Asset Management](../concept/using-ham-classic.md)
+**Parent Topic:**[Using Hardware Asset Management](using-ham-classic.md)
 
 **Related topics**  
 
 
-[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+[Work with hardware normalization](Work-with-hardware-normalization.md)
 
 [Manage asset bundles from your inventory](create-bundled-assets.md)
 
-[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
 
 [Manage loaner assets](manage-loaner-asset.md)
 
-[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
-[Manage RMA requests](../concept/manage-rma-req.md)
+[Manage RMA requests](manage-rma-req.md)
 
 [Create an inventory stock order request](create-inventory-stock-order.md)
 
@@ -128,43 +128,43 @@ For rows that were ignored:
 
 [Use a hardware asset request flow](hardware-request-flow.md)
 
-[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+[Audit hardware asset inventory](ham-inventory-audit.md)
 
 [Request a Hardware Asset Refresh](hardware-asset-refresh.md#)
 
 [Manage your expiring contracts for leased hardware assets](manage-your-leased-hw-asts-expiring-contract.md)
 
-[Reclaim hardware assets](../concept/manage-asset-reclaim.md)
+[Reclaim hardware assets](manage-asset-reclaim.md)
 
 [View RFID information of assets](view-rfid-info.md)
 
-[Manage the lifecycle of hardware models with calculated lifecycle templates](../concept/manage-ham-lifecycle-temp.md)
+[Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
 
-[Receive asset warranty details from Lenovo](../concept/receive-warranty-details-lenovo.md)
+[Receive asset warranty details from Lenovo](receive-warranty-details-lenovo.md)
 
-[Manage stockrooms](../concept/manage-your-stockrooms.md)
+[Manage stockrooms](manage-your-stockrooms.md)
 
-[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
 
 [Track asset location using indoor maps](track-asset-location-using-indoor-maps.md)
 
-[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
 
-[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
-[Configure the Total Cost of Ownership of assets](../concept/configure-ham-tco.md)
+[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
 
-[Manage Hardware Asset Management subscriptions](../concept/managing-ham-subscriptions.md)
+[Manage Hardware Asset Management subscriptions](managing-ham-subscriptions.md)
 
-[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](../concept/manage-repair-of-defective-ham-assets.md)
+[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](manage-repair-of-defective-ham-assets.md)
 
-[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md)
 
-[Manage hardware asset tasks using the Mobile Agent application](../concept/manage-hardware-asset-tasks-mobile-agent.md)
+[Manage hardware asset tasks using the Mobile Agent application](manage-hardware-asset-tasks-mobile-agent.md)
 
-[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 
-[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 
 [Acknowledge receipt of assets on the Employee Center portal](receive-assets-employee-center.md)
 

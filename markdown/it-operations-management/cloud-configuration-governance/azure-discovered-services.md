@@ -19,7 +19,7 @@ The Discovery process discovers Microsoft Azure services.
 
 **Note:**
 
-The CAPI-based discovery method is deprecated. Follow [Migrate from CAPI to Patterns](../../discovery/task/migrate-from-capi-to-pattern.md) for more information.
+The CAPI-based discovery method is deprecated. Follow [Migrate from CAPI to Patterns](../discovery/migrate-from-capi-to-pattern.md) for more information.
 
 |Service Category|Name|CI Class|Pattern|Product|
 |----------------|----|--------|-------|-------|
@@ -62,5 +62,5 @@ The CAPI-based discovery method is deprecated. Follow [Migrate from CAPI to Patt
 |Tools|Microsoft.Insights/components| | |Microsoft.Insights|
 |Tools|Microsoft.ServiceBus| | |Microsoft.ServiceBus|
 
-**Parent Topic:**[Cloud accounts](../concept/cloud-accounts.md)
+**Parent Topic:**[Cloud accounts](cloud-accounts.md)
 

@@ -315,5 +315,5 @@ Time Card — Exception Report
 List of users who did not submit their time cards for the selected project, and time cards that are not yet approved for the selected project. The exception report is generated for users who are assigned to a task in progress, or hard-allocated to the project or task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analyze project analytics from Project Workspace](../task/analyze-project-analytics-in-project-workspace.md)
+</table>**Parent Topic:**[Analyze project analytics from Project Workspace](analyze-project-analytics-in-project-workspace.md)
 

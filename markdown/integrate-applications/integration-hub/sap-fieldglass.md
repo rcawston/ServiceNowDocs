@@ -160,15 +160,15 @@ The SAP Fieldglass spoke adds the SAP Fieldglass Spoke application to your insta
 |Module|Description|
 |------|-----------|
 |Active Worker Downloads|Displays details of the active workers. Data is retrieved when you run the Look up Active Workers spoke action.|
-|Create Job Postings|Displays details about the job postings. Data is retrieved from the SAP Fieldglass instance after you set up the webhook. For more information, see [Set up webhook for the SAP Fieldglass spoke](../task/fieldglass-webhk.md).|
+|Create Job Postings|Displays details about the job postings. Data is retrieved from the SAP Fieldglass instance after you set up the webhook. For more information, see [Set up webhook for the SAP Fieldglass spoke](fieldglass-webhk.md).|
 |SAP Fieldglass Buyer Credentials|Displays the buyer credential records.|
 |SAP Fieldglass Modules|Displays details about the modules. The spoke actions internally use these modules during flow execution. You can manage the modules as per your requirement.|
 |SAP Fieldglass Supplier Credentials|Displays the supplier credential records.|
-|SAP Fieldglass Webhook Registries|Displays the webhook registries. You can create webhook registry for an event as per your requirement. For more information, see [Set up webhook for the SAP Fieldglass spoke](../task/fieldglass-webhk.md).|
+|SAP Fieldglass Webhook Registries|Displays the webhook registries. You can create webhook registry for an event as per your requirement. For more information, see [Set up webhook for the SAP Fieldglass spoke](fieldglass-webhk.md).|
 
 ## Connection and credential alias requirements
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-Two connection and credential aliases are available along with spoke; one record for supplier and another record for buyer. For information about setting up the spoke, see [Set up the SAP Fieldglass spoke](../task/fieldglass-setup.md).
+Two connection and credential aliases are available along with spoke; one record for supplier and another record for buyer. For information about setting up the spoke, see [Set up the SAP Fieldglass spoke](fieldglass-setup.md).
 

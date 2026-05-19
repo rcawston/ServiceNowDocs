@@ -136,14 +136,14 @@ To create an alert when a specific event occurs 5 times in 10 minutes with a met
 6.  In the **Over** field, specify `600` \(10 \* 60 seconds\).
 7.  Click **Save** or **Submit**.
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](create-event-rules.md)
 
 **Related topics**  
 
 
 [Create or edit an event rule](create-or-edit-event-rule.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](event-input-information.md)
 
 [Configure an event rule to customize alert content](t_EMComposeOuput.md)
 

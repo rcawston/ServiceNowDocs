@@ -137,7 +137,7 @@ If the actual burndown \(Remaining\) is above the ideal burndown, it implies tha
 
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md).
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
 

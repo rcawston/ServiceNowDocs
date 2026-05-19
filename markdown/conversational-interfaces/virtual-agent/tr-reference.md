@@ -17,7 +17,7 @@ The Topic Recommendations app provides two main pages: a configuration page and 
 
 For more information about the Topic Recommendations user interface, see the following topics:
 
--   [Topic Recommendations settings](../reference/tr-settings-page.md)
--   [Topic Recommendations page](../reference/topic-recommendations-page.md)
--   [Topic Recommendations cards](../reference/topic-recommendations-cards.md)
+-   [Topic Recommendations settings](tr-settings-page.md)
+-   [Topic Recommendations page](topic-recommendations-page.md)
+-   [Topic Recommendations cards](topic-recommendations-cards.md)
 

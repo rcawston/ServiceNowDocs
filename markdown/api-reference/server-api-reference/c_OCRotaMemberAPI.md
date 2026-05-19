@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The OCRotaMember script include provide methods to perform maintenance operations on the On-call Member \[cmn\_rota\_member\] table.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## OCRotaMember - deactivateUser \(String userId, GlideDateTime deactivateDate\)
 

@@ -55,5 +55,5 @@ Role required: sn\_cse.codesigning\_admin, sn\_cse.quorum\_requester, security\_
 9.  Select **Approver details** and review the status of the quorum requests.
 
 
-**Parent Topic:**[Quorum Controlled Certificate Revocation](../concept/certificate-revocation.md)
+**Parent Topic:**[Quorum Controlled Certificate Revocation](certificate-revocation.md)
 

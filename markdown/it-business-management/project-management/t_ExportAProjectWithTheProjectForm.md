@@ -89,10 +89,10 @@ Steps
 -   **[Export project tasks](t_ExportProjectTasks.md)**  
 The task being exported must be associated with a project that uses either the Project Management Schedule or the Default MS Project schedule.
 
-**Parent Topic:**[Project export to Microsoft Project](../concept/c_ProjectExportToMicrosoftProject.md)
+**Parent Topic:**[Project export to Microsoft Project](c_ProjectExportToMicrosoftProject.md)
 
 **Related topics**  
 
 
-[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+[Importing and exporting projects](c_ProjectImportAndExport.md)
 

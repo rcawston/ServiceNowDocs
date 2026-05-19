@@ -17,7 +17,7 @@ Execute custom JavaScript with the Execute method as part of an automation in th
 
 Executes the custom JavaScript you have written. Before executing,
 
--   Configure the JavaScript connector before executing the method. To configure, see [Configure the JavaScript connector](../task/configure-javascript-connector.md).
+-   Configure the JavaScript connector before executing the method. To configure, see [Configure the JavaScript connector](configure-javascript-connector.md).
 -   Configure the Execute method.
 
 ## Configure the Execute method
@@ -35,5 +35,5 @@ Executes the custom JavaScript you have written. Before executing,
 |Function value|Accepts the value for the function you have created.|Data in|Object|None|Yes|
 |Result|Returns the output of the custom JavaScript execution.|Data out|String|None|Not applicable|
 
-**Parent Topic:**[JavaScript](../concept/javascript.md)
+**Parent Topic:**[JavaScript](javascript.md)
 

@@ -42,5 +42,5 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 You can add as many library elements as you want to a KPI tree. You can add the same library element as many times as you want.
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](cross-project-artifact-libraries.md)
 

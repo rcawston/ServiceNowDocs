@@ -27,7 +27,7 @@ Role required: sn\_hr\_core.walkup\_admin, sn\_walkup.walkup\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Location Consent form](../reference/location-consent-form.md).
+    For a description of the field values, see [Location Consent form](location-consent-form.md).
 
 
 ## What to do next

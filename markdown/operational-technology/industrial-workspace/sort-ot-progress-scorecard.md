@@ -32,5 +32,5 @@ Role required: ot\_progress\_scorecard\_viewer
 
 The OT Progress Scorecard is now organized by ascending or descending order. If you log out, the sort configuration is saved for the next time you log in.
 
-**Parent Topic:**[Using the Industrial Workspace](../concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

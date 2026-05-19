@@ -23,7 +23,7 @@ Create a tag in the repository to link to a particular app version in ServiceNow
 
 ### Before you begin
 
-[Link an app to source control in ServiceNow Studio](../task/link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
 
 Role required: admin or sn\_group\_creator.app\_creator
 
@@ -137,7 +137,7 @@ Set a default branch when you want to use a branch other than main for new chang
 
 ### Before you begin
 
-[Link an app to source control in ServiceNow Studio](../task/link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
 
 Role required: admin
 

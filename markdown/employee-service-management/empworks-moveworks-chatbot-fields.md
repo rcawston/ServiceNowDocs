@@ -40,5 +40,5 @@ Field reference for the Moveworks web chat bot record and the internal setup rec
 **Related topics**  
 
 
-[Configure the Moveworks chat bot for Employee Slate](../task/empworks-configure-moveworks-chatbot.md)
+[Configure the Moveworks chat bot for Employee Slate](empworks-configure-moveworks-chatbot.md)
 

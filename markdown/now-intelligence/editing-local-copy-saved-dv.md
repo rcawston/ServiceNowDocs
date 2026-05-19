@@ -47,8 +47,8 @@ However, as long as you can edit the dashboard, you can unlink a visualization o
 
 7.  Proceed as described in one of the following topics:
 
-    -   [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
-    -   [Create or add a filter on an inline dashboard](../../par-for-workspace/task/select-workspace-filter-type.md)
+    -   [Creating data visualizations](creating-data-visualizations.md)
+    -   [Create or add a filter on an inline dashboard](select-workspace-filter-type.md)
 
 **Parent Topic:**[Edit Platform Analytics dashboards](edit-db-in-ac.md)
 

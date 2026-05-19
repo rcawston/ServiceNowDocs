@@ -21,7 +21,7 @@ Role required: User must have contributor access to the knowledge base.
 
 **Note:**
 
--   When versioning is enabled, and you move an article from one knowledge base to another, the latest version of an article is moved to the new knowledge base. However, the previous versions of the article remain in the old knowledge base. It is recommended to retire the article from the old knowledge base. For more information, see [Retire a knowledge article](../concept/c_RetiredKnowledgeArticles.md).
+-   When versioning is enabled, and you move an article from one knowledge base to another, the latest version of an article is moved to the new knowledge base. However, the previous versions of the article remain in the old knowledge base. It is recommended to retire the article from the old knowledge base. For more information, see [Retire a knowledge article](c_RetiredKnowledgeArticles.md).
 -   Although you can move an article from one knowledge base to another consider creating an article in new knowledge base.
 
 ## Procedure
@@ -39,5 +39,5 @@ Role required: User must have contributor access to the knowledge base.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

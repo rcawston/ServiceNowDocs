@@ -28,7 +28,7 @@ Use models as the foundation for ERP apps. These models include ERP system data 
 
 Zero Copy Connector for ERP content packs are sets of predefined models and process extensions that are useful examples for developers with little or no SAP domain knowledge. Content packs accelerate the work so that building uses cases involving SAP data becomes a faster process that more developers can accomplish. For more information, see [Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md).
 
-**Note:** For information about new and updated features in the Australia release, see [Zero Copy Connector for ERP release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/zero-copy-connector-for-erp-rn.md).
+**Note:** For information about new and updated features in the Australia release, see [Zero Copy Connector for ERP release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/zero-copy-connector-for-erp-rn.md).
 
 <table id="table_iwv_lpv_klb1" class="nav-card"><tbody><tr><td>
 
@@ -48,11 +48,11 @@ Zero Copy Connector for ERP content packs are sets of predefined models and proc
 
 </td></tr><tr><td>
 
-[Use Zero Copy Connector AI agent collection![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use agentic workflows in Now Assist for Zero Copy Connector](../../now-assist-zero-copy-connector/concept/now-assist-for-zero-copy-connector-for-erp.md)
+[Use Zero Copy Connector AI agent collection![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use agentic workflows in Now Assist for Zero Copy Connector](../now-assist-for-zero-copy-connector-for-erp.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about Zero Copy Connector for ERP components, such tables, and terminology.](../reference/erp-integration-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about Zero Copy Connector for ERP components, such tables, and terminology.](erp-integration-reference.md)
 
 </td></tr></tbody>
 </table>## Learning resources for Zero Copy Connector for ERP

@@ -38,5 +38,5 @@ A file with the selected format is downloaded and saved in your local system.
 
 **Note:** You can also include the business applications data associated with the business capabilities, in the downloaded file. You must select the Expand row icon \(![Expand Row icon.](../../image/ExpandIcon.png)\) next to a business capability to ensure that the associated business applications for that capability are displayed onscreen and then follow the export process. Doing this ensures that the business application data is also included in the downloaded file.
 
-**Parent Topic:**[Working with the business portfolio module](../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 

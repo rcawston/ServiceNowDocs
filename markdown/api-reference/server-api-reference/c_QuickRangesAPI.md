@@ -17,7 +17,7 @@ The QuickRanges script include provides methods to generate IP network, range, a
 
 You can use this script include with any server-side discovery script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## QuickRanges - createItem\(String table, String id, String type\)
 

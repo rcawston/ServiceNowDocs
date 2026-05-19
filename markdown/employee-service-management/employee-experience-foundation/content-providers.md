@@ -56,8 +56,8 @@ The following process overview guides you through setting up content providers s
 
     To configure an additional domain, the system admin must add the host domain to the `glide.html.enable_media_sites` system property. For more information, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
 
-2.  [Configure content provider and mapping](../task/configure-content-provider.md)
-3.  \(Optional\) If the video hosting service contains private videos that require credentials, [Configure a video authorization](../task/configure-content-processor.md)
-4.  \(Optional\) To provide content managers with an interface where they can select a video, [Configure video content search](../task/configure-content-search.md)
-5.  \(Optional\) To add interface elements to the Rich Content Editor video picker, [Configure content rendering parameter](../task/configure-content-rendering-parameter.md)
+2.  [Configure content provider and mapping](configure-content-provider.md)
+3.  \(Optional\) If the video hosting service contains private videos that require credentials, [Configure a video authorization](configure-content-processor.md)
+4.  \(Optional\) To provide content managers with an interface where they can select a video, [Configure video content search](configure-content-search.md)
+5.  \(Optional\) To add interface elements to the Rich Content Editor video picker, [Configure content rendering parameter](configure-content-rendering-parameter.md)
 

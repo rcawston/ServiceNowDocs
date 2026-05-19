@@ -70,7 +70,7 @@ To automate a recovery task, administrators or application developers create an 
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Create New Recovery task form](../reference/create-new-recovery-task-form.md).
+    For more information on the fields in the form, see [Create New Recovery task form](create-new-recovery-task-form.md).
 
 5.  Assign a phase to the recovery task.
 
@@ -121,8 +121,8 @@ To automate a recovery task, administrators or application developers create an 
     The updated recovery tasks are now displayed in the UI.
 
 
--   **[Create New Recovery task form](../reference/create-new-recovery-task-form.md)**  
+-   **[Create New Recovery task form](create-new-recovery-task-form.md)**  
 Use the Create New Recovery task form in the BCM Configurable Workspace to input the necessary details regarding the recovery task.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

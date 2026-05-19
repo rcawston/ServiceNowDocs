@@ -29,7 +29,7 @@ Role required: sn\_gf.strategy\_planner
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Strategic Plan form](../reference/strategic-plan-form.md).
+    For field information, see [Strategic Plan form](strategic-plan-form.md).
 
 4.  Click **Submit**.
 

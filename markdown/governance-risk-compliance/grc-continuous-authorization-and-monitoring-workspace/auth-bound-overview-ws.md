@@ -68,5 +68,5 @@ For example, your organization might have many data centers. You can define a pa
 
 Select the name of the Active package in the side bar to navigate to the Authorization Package overview page.
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](../concept/cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
 

@@ -67,7 +67,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Sprint Variance
 -   Story Cycle Time
 
-For more information, see [Using Solution Library for Essential SAFe dashboards](../reference/using-solution-library-for-essential-safe-dashboards.md).
+For more information, see [Using Solution Library for Essential SAFe dashboards](using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_xvt_hl4_2fb"><thead><tr><th>
 
@@ -294,7 +294,7 @@ Track the historical performance of the team on achieving their PI objectives.
 
  The horizontal axis shows the completed PIs and the vertical axis shows the range of business value achieved in percentage \(%\).
 
- Each series is the representation of the business value achieved, which is calculated from the planned and actual business values of the PI objectives. For more information, see [SAFe PI objectives](../../../product/agile-SAFe/concept/safe-pi-objectives.md).
+ Each series is the representation of the business value achieved, which is calculated from the planned and actual business values of the PI objectives. For more information, see [SAFe PI objectives](safe-pi-objectives.md).
 
  From the chart, you can if the team is consistently achieving between 80% and 100% of the set PI objectives, which is the ideal range according to SAFe.
 

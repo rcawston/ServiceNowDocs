@@ -59,5 +59,5 @@ Date in the future for maintenance to run. **Note:** This field appears only whe
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

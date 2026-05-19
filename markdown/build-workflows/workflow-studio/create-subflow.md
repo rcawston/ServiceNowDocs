@@ -144,7 +144,7 @@ Priority level at which you want the system to run this subflow by default. Opti
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](flow-priority.md).
 
 </td></tr></tbody>
 </table>5.  Create subflow inputs to specify the data available to the subflow when it starts running.
@@ -209,7 +209,7 @@ Action
 
 </td><td>
 
-Select the desired action. Workflow Studio includes [Workflow Studio actions](../concept/flow-actions.md) that are available to flows and subflows. Alternatively, a user with the action\_designer role can create additional actions to add to flows. The [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md) and [Spokes](../concept/spokes.md) plugins install additional actions.
+Select the desired action. Workflow Studio includes [Workflow Studio actions](flow-actions.md) that are available to flows and subflows. Alternatively, a user with the action\_designer role can create additional actions to add to flows. The [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md) and [Spokes](spokes.md) plugins install additional actions.
 
  To add draft actions from the More Actions menu, set **Show draft actions** to **true**.
 
@@ -267,5 +267,5 @@ Test the subflow, and publish it when it is ready to be added to a flow or calle
 
 **Note:** You can only test or publish subflows that contain at least one action.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

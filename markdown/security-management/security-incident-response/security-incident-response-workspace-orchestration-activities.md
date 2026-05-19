@@ -35,9 +35,9 @@ In the classic UI, the experience is disjointed when performing orchestration ac
 
 [Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Reports in Security Incident Response](report-templates-sir.md)
 

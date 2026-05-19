@@ -34,7 +34,7 @@ Role required: admin
 
     ![Extension point to add scripts.](../image/cmpro-extension-point.png "Scripted extension point for contracts")
 
-    For a description of the field values, see [Scripted Extension Point form fields](../../legal-request-management/reference/scripted-extension-point-form-fields.md).
+    For a description of the field values, see [Scripted Extension Point form fields](../legal-request-management/scripted-extension-point-form-fields.md).
 
 6.  In the **Script** field, add a method `populateDataForInitiateContractModal` to define the fields from which the values will be automatically added in the **Start date** and **End date** fields of a contract request.
 
@@ -49,12 +49,12 @@ The **Start date** and **End date** fields in the Initial contract window are au
 
 For more information on initiating a contract request, see [Initiating a contract or amendment request](cncore-initiate-contract.md).
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -70,5 +70,5 @@ For more information on initiating a contract request, see [Initiating a contrac
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

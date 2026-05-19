@@ -62,7 +62,7 @@ Use **Access Control** \(ACL\) on a field to secure it.
     -   Change **Application** to **Human Resources: Core**.![Change to scoped version of HR through System Settings.](../image/ChangeScope.png)
     -   Close the window.
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 
 **Related topics**  
 

@@ -20,7 +20,7 @@ In the Security Exposure Management Workspace, you can set up a single assignmen
 
 Configuration of assignment rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
@@ -240,7 +240,7 @@ The **Unassign** UI action is supported in both the classic environment and the 
 -   Application vulnerable items \(AVITs\).
 -   Container vulnerable items \(CVITs\).
 
-**Important:** You can unassign host vulnerable items in bulk in the Vulnerability Manager Workspace. For more information, see [Using bulk edit in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/concept/vmws-using-bulk-edit.md).
+**Important:** You can unassign host vulnerable items in bulk in the Vulnerability Manager Workspace. For more information, see [Using bulk edit in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-using-bulk-edit.md).
 
 ### Procedure
 

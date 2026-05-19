@@ -50,7 +50,7 @@ Creating a decision table in-line in a flow creates only the structure of the ta
 
 9.  Select **Add input** to add inputs to the decision table.
 
-    Inputs are the variables that define the type of data the decision table looks for to make decisions. When creating a decision table in a flow, you can add inputs directly from the data in the flow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](../../decision-table/task/create-decision-table-in-decision-designer.md).
+    Inputs are the variables that define the type of data the decision table looks for to make decisions. When creating a decision table in a flow, you can add inputs directly from the data in the flow. For more information about the types of inputs you can add, see [Create decision tables in Workflow Studio](create-decision-table-in-decision-designer.md).
 
     **Note:** Some inputs must be added or adjusted when you open the decision table to populate its values.
 

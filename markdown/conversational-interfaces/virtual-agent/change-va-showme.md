@@ -90,5 +90,5 @@ If you follow the System Properties method, your change to the greeting message 
 
 If you customized your Greetings topic, add it to the default chat experience or to a new custom chat experience that you created. For details, see [Configure a Virtual Agent chat experience](configure-default-chat-experience.md).
 
-**Parent Topic:**[Working with setup topics](../concept/working-setup-topics.md)
+**Parent Topic:**[Working with setup topics](working-setup-topics.md)
 

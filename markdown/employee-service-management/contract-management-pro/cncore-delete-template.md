@@ -30,7 +30,7 @@ Role required: sn\_cm\_core.contract\_config
 4.  In the Confirmation pop-up, select **Delete**.
 
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

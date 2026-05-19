@@ -33,5 +33,5 @@ Currency values can be exported in several formats, including CSV, XLSX, PDF, an
 **Related topics**  
 
 
-[Exporting currency fields to Excel](../../exporting-data/concept/c_ExportingCurrencyFields.md)
+[Exporting currency fields to Excel](../table-administration-and-data-management/c_ExportingCurrencyFields.md)
 

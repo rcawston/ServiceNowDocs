@@ -21,7 +21,7 @@ By default, application names are in this format: `<name of the process classifi
 
 For example, for a MySQL server running on a computer called machineA, the application is named `mysql@machineA`.
 
-You can use the **On classification script** field in the [process classifier record](../task/t_CreateAProcessClassification.md) to change the default application name to match your business needs. For example, the following script changes the default application name to include a suffix after the process classifier:
+You can use the **On classification script** field in the [process classifier record](t_CreateAProcessClassification.md) to change the default application name to match your business needs. For example, the following script changes the default application name to include a suffix after the process classifier:
 
 ```
 var computerName = g_sensor.deviceGR.name;
@@ -93,5 +93,5 @@ Use these objects in the script:
 **Related topics**  
 
 
-[Create a Discovery process handler](../task/t_CreateAProcessHandler.md)
+[Create a Discovery process handler](t_CreateAProcessHandler.md)
 

@@ -140,5 +140,5 @@ Based on the type of profile you specified, select an integration profile.
     The entitlement is created and state of the entitlement is changed to **in use** from **build**. The entitlement is ready to be used for the reconciliation process.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

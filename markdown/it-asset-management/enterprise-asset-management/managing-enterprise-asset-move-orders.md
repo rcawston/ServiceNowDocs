@@ -21,12 +21,12 @@ For each enterprise move line record within a move order, you must indicate how 
 
 -   **[Submitting an enterprise asset move order](submitting-enterprise-asset-move-order.md)**  
 You can submit an enterprise asset move order through either the ServiceNow® Service Catalog or the Inventory view of the Enterprise Asset Workspace.
--   **[Add enterprise assets to a move order](../task/add-enterprise-assets-move-order.md)**  
+-   **[Add enterprise assets to a move order](add-enterprise-assets-move-order.md)**  
 Add the enterprise assets that you want to include in a move order.
--   **[Remove enterprise assets from a move order](../task/remove-enterprise-assets-move-order.md)**  
+-   **[Remove enterprise assets from a move order](remove-enterprise-assets-move-order.md)**  
 Remove any enterprise assets that you no longer want to include in a move order.
 -   **[Completing an enterprise asset move order](completing-enterprise-asset-move-order.md)**  
 After you submit a move order for the in-use or consumed enterprise assets that you want to move, you must perform various tasks to complete the order.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 

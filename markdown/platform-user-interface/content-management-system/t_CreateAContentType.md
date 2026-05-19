@@ -95,5 +95,5 @@ Write an XML script that determines how to display the associated information af
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Content types](../concept/c_ContentTypes.md)
+**Parent Topic:**[Content types](c_ContentTypes.md)
 

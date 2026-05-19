@@ -15,7 +15,7 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 Use the Mobile Agent or the Now Mobile app apps to manage Health and Safety inspections and audits.
 
--   **[Create and manage a safety inspection in Mobile Agent app](../task/create-and-manage-safety-inspection-mobile-agent.md)**  
+-   **[Create and manage a safety inspection in Mobile Agent app](create-and-manage-safety-inspection-mobile-agent.md)**  
 Create a safety inspection using the Mobile Agent app without scheduling an inspection to manage your workplace inspection.
 -   **[Manage the smart assessment for safety inspections and audits from mobile app](hs-manage-smart-assessments-mobile.md)**  
 Use the Mobile Agent app to create and manage smart assessments for safety inspections and audits as an agent. You can also partially save the smart assessment questionnaire in the offline mode.

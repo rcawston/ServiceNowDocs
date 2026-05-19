@@ -17,7 +17,7 @@ With the Visitor Reception Dashboard, you can track visitor registrations create
 
 **Note:** The Workplace Visitor Management dashboard is migrated to Workplace Central. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central. Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
 
-For more information about the migrated dashboard, see [Reservation Management dashboard](reservation-management-dashboard.md).
+For more information about the migrated dashboard, see [Reservation Management dashboard](../workplace-reservation-management/reservation-management-dashboard.md).
 
 ![Visitor Reception Dashboard](../image/visitor-reception-dashboard.png "Visitor Reception Dashboard")
 
@@ -76,12 +76,12 @@ The Visitor reception dashboard allows you to view the following visualizations.
 |Visitors that are checked out|List|Visitor registrations of the visitors who have checked out.|
 |Cancelled visitor registrations|List|Cancelled visitor registrations.|
 
-**Parent Topic:**[Analytics and Reporting Solutions for Workplace Visitor Management](../../../product/workplace-visitor-mgmt/concept/analytics-reporting-for-visitor-mgmt.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Workplace Visitor Management](analytics-reporting-for-visitor-mgmt.md)
 
-**Parent Topic:**[Manage Workplace Dashboards](../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
+**Parent Topic:**[Manage Workplace Dashboards](../workplace-central/workplace-dashboards-wsd-central.md)
 
 **Related topics**  
 
 
-[View visit logs](../../../product/workplace-visitor-mgmt/task/view-visit-logs.md)
+[View visit logs](view-visit-logs.md)
 

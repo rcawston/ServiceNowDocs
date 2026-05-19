@@ -23,7 +23,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -35,7 +35,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 </td><td>
 
-Also called a report source, a data source is a table with filters applied to provide a single source of information for all users. For more information, see [Report sources](../concept/c_ReportSources.md#).**Note:** If you select a data source used by existing reports, a notification prompts you to view them.
+Also called a report source, a data source is a table with filters applied to provide a single source of information for all users. For more information, see [Report sources](c_ReportSources.md#).**Note:** If you select a data source used by existing reports, a notification prompts you to view them.
 
 </td></tr><tr><td id="d163525e160">
 
@@ -99,7 +99,7 @@ Group report data using the values of this field. For example, in an incident re
  **Note:**
 
 -   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DatabaseFieldTypes.md).
--   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../../performance-analytics/concept/performance-analytics-glossary.md#).
+-   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../performance-analytics/performance-analytics-glossary.md#).
 
 
 </td></tr><tr><td>
@@ -122,7 +122,7 @@ Configure function field
 
 </td><td>
 
-Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](../concept/function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
+Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
 
 </td></tr></tbody>
 </table>8.  Configure the sort order of the applicable fields in the report \(column, row, Group by, Stack by or Trend by depending on the report type\).
@@ -149,7 +149,7 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
 10. On the **Style** tab, add and configure a report title.
 
-    See [List report style options](../reference/list-report-style-options.md).
+    See [List report style options](list-report-style-options.md).
 
 11. Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
@@ -165,5 +165,5 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
     -   Despite list filtering, pdf-format exported rows will count all record rows sequentially up to the export limit and show as blank for roles prevented by ACLs from viewing restricted data.
 -   [Configure and use list functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-use-list-functions.md)
 
-**Parent Topic:**[List reports](../concept/list-reports.md)
+**Parent Topic:**[List reports](list-reports.md)
 

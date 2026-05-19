@@ -72,7 +72,7 @@ Select this option if you want to create a new policy using the current policy a
 
 6.  For a cloned policy, edit the conditions.
 
-    For more information about the Asset-connection-entity relationships in the condition builder, see [Policies for Security Posture Control](../concept/spc-policies-overview.md). For more information about the decorators in the condition builder, see [Creating your own policies in the Security Posture Control application](spc-creating-policies.md).
+    For more information about the Asset-connection-entity relationships in the condition builder, see [Policies for Security Posture Control](spc-policies-overview.md). For more information about the decorators in the condition builder, see [Creating your own policies in the Security Posture Control application](spc-creating-policies.md).
 
 7.  Edit and Save your policy with **Save changes**.
 

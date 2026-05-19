@@ -150,5 +150,5 @@ Tracing system properties\[sn\_imt\_diagnosis\_m2m\_tracing\_system\_properties\
 System properties for additional configuration of tracing systems.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Emergency Exposure Management](../task/install-emergency-exposure-mgt.md)
+</table>**Parent Topic:**[Install Emergency Exposure Management](install-emergency-exposure-mgt.md)
 

@@ -17,7 +17,7 @@ The customer service or consumer service agent can use the phone icon next to th
 
 The phone icon is a reference contribution that can be added to any reference field by modifying the dictionary and adding the following attribute: **ref\_contributions=show\_phone\_customer\_service**.
 
-**Note:** If you’re using a third-party provided CTI application, then you can integrate with the show\_phone UI macro to make calls.For more information on UI macros, refer to [UI macros installed with OpenFrame](../reference/r_InstalledWithOpenFrame.md#)
+**Note:** If you’re using a third-party provided CTI application, then you can integrate with the show\_phone UI macro to make calls.For more information on UI macros, refer to [UI macros installed with OpenFrame](r_InstalledWithOpenFrame.md#)
 
 Select the phone icon to call a consumer or contact.
 

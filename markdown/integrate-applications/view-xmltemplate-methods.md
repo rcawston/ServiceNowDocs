@@ -30,5 +30,5 @@ Role required: none
     The methods appear under the Object Explorer pane.
 
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](data-modellers.md)
 

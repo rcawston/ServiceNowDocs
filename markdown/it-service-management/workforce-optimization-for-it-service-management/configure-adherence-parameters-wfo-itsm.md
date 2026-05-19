@@ -41,10 +41,10 @@ The threshold settings for adherence and conformance indicate how many minutes e
 3.  Click **Save**.
 
 
-**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](schedule-adherence-configurable-itsm.md)
 
 **Related topics**  
 
 
-[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+[Schedule Adherence in Workforce Optimization for ITSM](schedule-adherence-configurable-itsm.md)
 

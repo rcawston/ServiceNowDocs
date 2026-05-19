@@ -85,5 +85,5 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
 13. Manage qualification work, as described in steps 1 and 2.
 
 
-**Parent Topic:**[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+**Parent Topic:**[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 

@@ -133,5 +133,5 @@ The service catalog category is created. The catalog categories are listed in th
     For more information, see [Create or modify a practice area](manage-practice-areas.md).
 
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

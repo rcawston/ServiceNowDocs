@@ -169,7 +169,7 @@ Customer self-service for Sales Customer Relationship Management
 
 </td><td>
 
--   [Australia Patch 1](../quality/australia-patch-1.md)
+-   [Australia Patch 1](australia-patch-1.md)
 
 Manage Invoice Operations \(com.sn\_inv\_ops\_aias\): Delivers AI-powered assistants that handle invoice dispute intake directly from the portal, resolves eligible cases autonomously, and seamlessly escalates to a human agent when needed. In the workspace, it continues to assist human agents by providing relevant insights and actions to accelerate invoice case resolution.
 
@@ -223,7 +223,7 @@ Enterprise Service Management Foundation
 -   Implementation Agent Content \(sn\_ia\_content\): Provides content assets for the Implementation Agent guided setup experience.
 -   Implementation Agent Common \(sn\_ia\_common\): Provides common components shared across the Implementation Agent framework.
 -   Simplified IT Service Management \(sn\_ai\_itsm\_cont\): Provides a tailored service desk with a central workspace, AI agent chat, an Employee Slate, and Now Assist to streamline ITSM and enhance productivity.
--   Core Business Suite Foundation: Provides streamlined employee and supplier case and knowledge management to improve service request management across departments. For detailed plugin information for Core Business Suite, see [Core Business Suite release notes](../core-business-suite/cbs-rn.md).
+-   Core Business Suite Foundation: Provides streamlined employee and supplier case and knowledge management to improve service request management across departments. For detailed plugin information for Core Business Suite, see [Core Business Suite release notes](release-notes/cbs-rn.md).
     -   The ServiceNow AI Platform now brings you a new AI experience with three licensing tiers available:
 
         -   Foundation: AI basics to deliver insights
@@ -784,8 +784,8 @@ Zero Copy Connectors
 </td><td>
 
 -   Workflow Data Fabric Hub \(sn\_data\_fabric\): Renamed to Zero Copy Connector Hub \(sn\_data\_fabric\).
--   [Australia Patch 1](../quality/australia-patch-1.md): Zero Copy Connectors \(sn\_data\_fabric\_zcc\): Now contains primary and community connectors. Previously contained all connectors in a single package.
+-   [Australia Patch 1](australia-patch-1.md): Zero Copy Connectors \(sn\_data\_fabric\_zcc\): Now contains primary and community connectors. Previously contained all connectors in a single package.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](release-notes-summaries.md)
 

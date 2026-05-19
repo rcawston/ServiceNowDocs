@@ -17,7 +17,7 @@ Use the analytics UI section to display previews of your data visualization char
 
 Role required: admin
 
-For an analytics UI section to display data visualizations you need both a mobile analytics preview and a chart screen with navigation functions. For more information, see [Create a mobile analytics preview](sg-mobile-dashboard-preview.md) and [Chart screen](../concept/chart-screen.md). A maximum of six analytics previews can be displayed in an analytics UI section.
+For an analytics UI section to display data visualizations you need both a mobile analytics preview and a chart screen with navigation functions. For more information, see [Create a mobile analytics preview](sg-mobile-dashboard-preview.md) and [Chart screen](chart-screen.md). A maximum of six analytics previews can be displayed in an analytics UI section.
 
 ## Procedure
 
@@ -119,7 +119,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](roles-user-criteria.md).
 
 </td></tr><tr><td>
 

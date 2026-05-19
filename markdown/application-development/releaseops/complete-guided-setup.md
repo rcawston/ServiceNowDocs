@@ -20,7 +20,7 @@ Starting with version 1.2.1 of ReleaseOps, guided setup helps to make the initia
 
 For more complex setup scenarios, or when making changes to your existing ReleaseOps ecosystem, use the procedure outlined in [ReleaseOps manual setup](configure-new-releaseops-ecosystem.md).
 
-When completing guided setup, you define several kinds of instances for your ReleaseOps pipeline. To learn more about each instance, see [Instances in ReleaseOps configuration](../concept/instances-in-releaseops-configuration.md).
+When completing guided setup, you define several kinds of instances for your ReleaseOps pipeline. To learn more about each instance, see [Instances in ReleaseOps configuration](instances-in-releaseops-configuration.md).
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
     2.  For each instance that you want to participate in your ReleaseOps pipeline, select the check box next to the instance name.
 
-        **Important:** You must select your controller instance and at least once instance with an **Instance type** of "Test" when selecting instances for your pipeline. For more information about instances, see [Instances in ReleaseOps configuration](../concept/instances-in-releaseops-configuration.md).
+        **Important:** You must select your controller instance and at least once instance with an **Instance type** of "Test" when selecting instances for your pipeline. For more information about instances, see [Instances in ReleaseOps configuration](instances-in-releaseops-configuration.md).
 
         ![Select each instance that you want to participate in your ReleaseOps pipeline by selecting the check box next to the instance name.](../image/releaseops-select-instances-for-setup.png)
 
@@ -125,5 +125,5 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
 ## Result
 
-You have completed guided setup for ReleaseOps. You can start using ReleaseOps to manage your deployments. For more information, see [Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md).
+You have completed guided setup for ReleaseOps. You can start using ReleaseOps to manage your deployments. For more information, see [Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md).
 

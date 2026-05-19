@@ -15,7 +15,7 @@ All email notifications use the email properties that you define for your instan
 
 ## Email accounts
 
-Email administrators set up [email accounts](../../notification/concept/c_EmailAccounts.md) to allow the system to connect to external mail services such as POP3, SMTP, or IMAP servers. You can use the ServiceNow - provided email accounts or create your own accounts for your own email services.
+Email administrators set up [email accounts](c_EmailAccounts.md) to allow the system to connect to external mail services such as POP3, SMTP, or IMAP servers. You can use the ServiceNow - provided email accounts or create your own accounts for your own email services.
 
 ## Email properties
 
@@ -34,7 +34,7 @@ For details on how encoding can affect email message size and email transmission
 
 Email service is intentionally shut down on instance clones to prevent resending already delivered email. Upgrades no longer require an extended interruption of email service. Instances continue to process email during an upgrade. For a possible explanation for undelivered emails, see [this blog post](https://community.servicenow.com/community?id=community_blog&sys_id=4acd62e9dbd0dbc01dcaf3231f961958) by a ServiceNow Technical Support Engineer in the ServiceNow Community.
 
-For instructions on creating and sending custom emails when events on the instance occur, see the tasks in [Email and SMS notifications](../../notification/concept/c_EmailNotifications.md).
+For instructions on creating and sending custom emails when events on the instance occur, see the tasks in [Email and SMS notifications](c_EmailNotifications.md).
 
 ## Instance-to-instance communication via email
 

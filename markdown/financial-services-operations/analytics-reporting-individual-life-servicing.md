@@ -15,5 +15,5 @@ Individual Life Servicing contains preconfigured dashboards with actionable data
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [Individual Life Servicing dashboard](../../../use/dashboards/application-content-packs/individual-life-servicing-dashboard.md) is available for Individual Life Servicing.
+The [Individual Life Servicing dashboard](individual-life-servicing-dashboard.md) is available for Individual Life Servicing.
 

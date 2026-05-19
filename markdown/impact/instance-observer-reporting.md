@@ -170,5 +170,5 @@ There are several database growth reports that are available that show how the i
 |Database by Size \(Including Shards\)|Various metrics on how the database has either grown or decreased over the selected, including shards. Total DBI Size align with primary shards, this is calculated every 4 hours and can be used to visualize database growth over time.|
 |Top 20 Tables \(By Size\)|Lists table name, size \(GB\), 1 day growth and rate, and the 7 day growth rate.|
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](../concept/io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](io-overview.md)
 

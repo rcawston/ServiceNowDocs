@@ -50,5 +50,5 @@ You can export compliance data to PDF reports for easy sharing with audit teams,
 10. To download a local copy of the PDF report, select the More actions ![](../../assessment-engine/image/more-actions.png) icon on the PDF report, and select **Download**.
 
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
 

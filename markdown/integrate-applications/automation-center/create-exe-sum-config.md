@@ -144,5 +144,5 @@ An action that triggers the flow.
 
 [Create execution state mapping](create-exe-state-mapping.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](config-auto-sum-exe.md)
 

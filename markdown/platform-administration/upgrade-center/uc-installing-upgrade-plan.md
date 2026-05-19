@@ -44,7 +44,7 @@ Role required: admin
     **Note:** If you made any changes to the upgrade plan on the builder instance after installing it on the consumer instance, then update the upgrade plan to the latest version.
 
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](uc-prepare-up.md)
 
 **Related topics**  
 

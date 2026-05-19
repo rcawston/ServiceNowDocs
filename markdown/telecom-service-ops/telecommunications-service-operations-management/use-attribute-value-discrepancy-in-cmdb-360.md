@@ -59,7 +59,7 @@ The report displays a comparison of attribute values across sources:
 
 Each discrepancy is listed as a separate record when a CI has been updated by multiple sources.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](../concept/using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
 
 **Related topics**  
 

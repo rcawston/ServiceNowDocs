@@ -32,5 +32,5 @@ Role required: sn\_gamification.moderator, sn\_gamification.admin
     The badge is removed for that user and is no longer visible on the community portal.
 
 
-**Parent Topic:**[Moderate gamification](../concept/communities-gamification-moderate.md)
+**Parent Topic:**[Moderate gamification](communities-gamification-moderate.md)
 

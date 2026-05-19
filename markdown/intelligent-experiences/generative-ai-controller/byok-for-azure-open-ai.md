@@ -45,7 +45,7 @@ For step-by-step instructions for each supported cloud AI provider, see [Configu
 
 1.  Set up Azure OpenAI connection with your own key to use Azure OpenAI within your ServiceNow instance.
 
-    For more information, see [Configure API credentials for Azure OpenAI](../task/configure-api-credentials-for-azure-openai.md).
+    For more information, see [Configure API credentials for Azure OpenAI](configure-api-credentials-for-azure-openai.md).
 
 2.  Configure your Azure OpenAI model and deployment name in Generative AI Controller so your ServiceNow instance can recognize and use it.
 
@@ -53,15 +53,15 @@ For step-by-step instructions for each supported cloud AI provider, see [Configu
 
 3.  Modify the prompt configuration to write your own prompts to send to the Azure OpenAI LLMs.
 
-    For more information, see [Configure a generic large language model \(LLM\) connector](../task/configure-a-generic-llm-connector.md).
+    For more information, see [Configure a generic large language model \(LLM\) connector](configure-a-generic-llm-connector.md).
 
 4.  Switch providers to use BYOK for AI processing.
 
-    For more information, see [Manage Integration](../../now-assist-admin/task/manage-integration.md).
+    For more information, see [Manage Integration](../manage-integration.md).
 
 
 **Related topics**  
 
 
-[Configure a custom resource path for BYOK models](../task/configure-custom-resource-path-byok.md)
+[Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
 

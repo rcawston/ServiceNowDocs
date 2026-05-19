@@ -35,7 +35,7 @@ Role required: sn\_bom\_payment.inquiry\_agent or sn\_bom\_payment.inquiry\_agen
     -   To work on a case that is not assigned to you yet, assign it to yourself by clicking **Assign to me**.
     The state of the case updates to Work in Progress.
 
-    For information on Payment inquiry form field descriptions, see [Field descriptions for a payment inquiry case](../reference/payment-inquiry-case-form-fields.md).
+    For information on Payment inquiry form field descriptions, see [Field descriptions for a payment inquiry case](payment-inquiry-case-form-fields.md).
 
 5.  Review the inquiry type in the **Inquiry type** field.
 
@@ -75,5 +75,5 @@ Work on a payment inquiry task to request additional information that is related
 -   **[Create a claim for a payment inquiry case](create-claim-case-inquiry-case.md)**  
 Create a claim for an internal payment inquiry case when its investigation indicates that it's a valid claim and the customer is entitled to a refund.
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

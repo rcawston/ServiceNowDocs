@@ -177,5 +177,5 @@ Employee Contribution \(per year\)
 8.  Click **Update**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](c_HRProfileRecords.md)
 

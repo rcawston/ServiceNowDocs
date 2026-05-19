@@ -43,7 +43,7 @@ How are ACLs evaluated?
 
 At a table level, ACLs are evaluated only for roles and security attributes. Conditions and scripts aren’t evaluated.
 
- Roles are evaluated first. If Roles are blocked, conditions and scripts are skipped. For more information, see [Configure an ACL rule](../../../administer/contextual-security/task/t_CreateAnACLRule.md).
+ Roles are evaluated first. If Roles are blocked, conditions and scripts are skipped. For more information, see [Configure an ACL rule](t_CreateAnACLRule.md).
 
 </td></tr><tr><td>
 

@@ -26,11 +26,11 @@ Some examples of the actions that advanced filters can enable:
 
 You can manage advanced log alert filters as follows:
 
--   [Create advanced log alert filters](../task/hla-op-adv-alert-filter-crud.md)
+-   [Create advanced log alert filters](hla-op-adv-alert-filter-crud.md)
 
     Add advanced log alert filters to scan alerts for conditions that you specify. The filters reduce noise by dropping alerts that do not indicate a significant issue. While developing a filter, you can test, update, publish, or activate the filter at any time.
 
--   Continue modifying the filter by reopening the filter record from the [filters list](../task/hla-op-search-queries-manage-sow.md). You can then edit, test, publish, and activate the filter.
+-   Continue modifying the filter by reopening the filter record from the [filters list](hla-op-search-queries-manage-sow.md). You can then edit, test, publish, and activate the filter.
 
 For more technical information on log alert filters, see the [Advanced Log Alert Filtering \[KB0863538\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0863538) article in the Now Support Knowledge Base.
 

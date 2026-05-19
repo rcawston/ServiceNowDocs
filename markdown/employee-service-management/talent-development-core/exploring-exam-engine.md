@@ -45,5 +45,5 @@ For more information, see [Using Career Assessment](using-exam-engine.md).
 
 Career Assessment integrates with Learning to improve assessment based learning. Learners can track their learnings and assess their knowledge using the quizzes available for different courses that they take on My Learning.
 
-For more information, see [Using My Learning](manage-your-learning.md).
+For more information, see [Using My Learning](../learning-core/manage-your-learning.md).
 

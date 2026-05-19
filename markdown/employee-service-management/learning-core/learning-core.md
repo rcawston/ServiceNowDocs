@@ -17,7 +17,7 @@ The ServiceNow® Learning Core application enables you to build a learning conte
 
 Learning Core provides the base set of tables, content, learning bases, roles, and access configuration that are used in the Learning Posts application and other coaching applications. Learning Core can be activated only as a dependent plugin.
 
-By default, Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal, and Saba learning systems. Activate only the learning system that you to plan use. For more information, see [Integrating Learning Core with third-party learning management systems](../task/setup-learning-third-party-1.md).
+By default, Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal, and Saba learning systems. Activate only the learning system that you to plan use. For more information, see [Integrating Learning Core with third-party learning management systems](setup-learning-third-party-1.md).
 
 ## Key features
 

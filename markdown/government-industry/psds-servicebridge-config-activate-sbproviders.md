@@ -51,7 +51,7 @@ Set up a Service Bridge connection between a Provider and a Consumer.
 
 </td><td>
 
-See [Connect a provider instance to a consumer instance](../concept/psds-servicebridge-config-connect-prov-consu.md).
+See [Connect a provider instance to a consumer instance](psds-servicebridge-config-connect-prov-consu.md).
 
 </td></tr><tr><td>
 

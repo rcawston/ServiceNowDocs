@@ -65,13 +65,13 @@ However, you can now add a Windows server asset in the Windows Server element de
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Element definition record form](../reference/element-definition-record-form.md).
+    For more information on the fields in the form, see [Element definition record form](element-definition-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Element definition record form](../reference/element-definition-record-form.md)**  
+-   **[Element definition record form](element-definition-record-form.md)**  
 Use the Element definition record form to configure a recovery tier with a set of business applications by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

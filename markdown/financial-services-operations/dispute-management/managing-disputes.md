@@ -25,7 +25,7 @@ To optimize the card dispute process, the playbook integrates with subflows that
 The integration of Mastercard APIs into Dispute Management enables you to resolve card disputes faster and more efficiently.
 -   **[Resolving ACH disputes](work-dispute-ach.md)**  
 Work on an ACH dispute case to review case information, verify that any outstanding tasks are completed, and resolve the dispute.
--   **[Managing disputes without network integration](../task/work-dispute-case.md)**  
+-   **[Managing disputes without network integration](work-dispute-case.md)**  
 Work on a dispute case to review case information, ensure that any outstanding tasks are completed, and resolve the service request.
 
 **Parent Topic:**[Managing dispute service requests](managing-card-disputes.md)

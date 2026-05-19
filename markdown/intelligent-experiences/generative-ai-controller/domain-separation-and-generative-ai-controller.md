@@ -34,7 +34,7 @@ For more details on domain separation and Virtual Agent, [check out the document
 
 Domain separation is possible at the generative AI OneExtend capability level. Records that are related to the execution and configuration of OneExtend capabilities, such as log tables that are accessible to ServiceNow personnel, are also separated according to the capability's domain.
 
-If you want to create a copy of an existing generative AI capability in a different domain, you must create a record in the OneExtend Capabilities \(sys\_one\_extend\_capability\) table. See the [reference for Generative AI Controller](../reference/reference-for-generative-ai-controller.md) for more information about the OneExtend Capabilities table.
+If you want to create a copy of an existing generative AI capability in a different domain, you must create a record in the OneExtend Capabilities \(sys\_one\_extend\_capability\) table. See the [reference for Generative AI Controller](reference-for-generative-ai-controller.md) for more information about the OneExtend Capabilities table.
 
 You set the domain when the record is created. The domain is based on the domain that you're in at the time that you create the record. When you're creating a capability record, you can use an existing OneExtend Capability record as a blueprint to help confirm that the capability works as intended.
 

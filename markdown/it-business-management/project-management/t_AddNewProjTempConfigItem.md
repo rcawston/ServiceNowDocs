@@ -27,7 +27,7 @@ Role required: it\_pps\_admin
 
 3.  Fill in the fields on the Project Template Configuration form.
 
-    For more information, see [Project template configuration form](../reference/project-template-form.md).
+    For more information, see [Project template configuration form](project-template-form.md).
 
 4.  Select **Submit**.
 
@@ -39,12 +39,12 @@ Role required: it\_pps\_admin
     -   **Active**: Enable this check box
     -   **Elements**: short\_description, description, priority, type, state
 
-**Parent Topic:**[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+**Parent Topic:**[Project template configuration](c_ProjectTemplateConfiguration.md)
 
 **Related topics**  
 
 
-[Applying templates to projects](../concept/c_ProjectTemplates.md)
+[Applying templates to projects](c_ProjectTemplates.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](c_ProjectTemplateConfiguration.md)
 

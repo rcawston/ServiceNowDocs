@@ -50,7 +50,7 @@ As a user with the admin role, verify that you have the GRC core applications in
 3.  After the GRC Profile application is installed, install either the Policy and Compliance Management core application, or the Risk Management core application, or both the Policy and Compliance Management and Risk Management applications. These are the two GRC applications that you can view with the GRC Mobile application.
  If not visible in your instance, all of the GRC core applications are available from the ServiceNow Store.
 
- For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](../../grc-common/concept/grc-and-store.md).
+ For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](../grc-and-store.md).
 
 When you install the GRC core applications, the dependency plugins for the GRC Mobile application, \(com.glide.sg and com.glide.sg.agent\_native\_client\) are also automatically installed.To verify that these dependency plugins are installed and activated:
 
@@ -69,7 +69,7 @@ As a user with the admin role, verify that you have the GRC mobile app installed
 
  **Note:** The GRC mobile app and the ServiceNow AI Platform instance should be from the same family release.
 
- For more information about getting entitlement, downloading, and installing the GRC Mobile application, see [GRC and the ServiceNow Store](../../grc-common/concept/grc-and-store.md).
+ For more information about getting entitlement, downloading, and installing the GRC Mobile application, see [GRC and the ServiceNow Store](../grc-and-store.md).
 
 </td></tr><tr><td>
 
@@ -120,5 +120,5 @@ As a user with the sn\_compliance.manager role, verify notifications are enabled
 </table>    You have successfully set up your mobile device and the ServiceNow AI Platform for the GRC Mobile application. The next step is to log in to your ServiceNow AI Platform instance with the ServiceNow Agent app on your mobile device.
 
 
-**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](mobile-policy_compliance-ovrvw.md)
 

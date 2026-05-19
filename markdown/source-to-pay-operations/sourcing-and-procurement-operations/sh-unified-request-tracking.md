@@ -27,5 +27,5 @@ Navigate to **ShoppingHub** &gt; **ShoppingHub Home** &gt; **My purchases**. In 
 
 **Note:** The purchase card displays the timeline of all previously closed procurement records, providing the shopper with the necessary context to understand the purchase history.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

@@ -34,5 +34,5 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 When the number of allocated subscriptions exceeds the percentage you configured, the value Near capacity appears in the **Status** column throughout Subscription Management.
 
-**Parent Topic:**[Configuring Subscription Management](../concept/configuring-subscription-management-v2.md)
+**Parent Topic:**[Configuring Subscription Management](configuring-subscription-management-v2.md)
 

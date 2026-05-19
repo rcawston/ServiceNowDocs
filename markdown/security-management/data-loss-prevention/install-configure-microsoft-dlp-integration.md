@@ -90,5 +90,5 @@ Role required: sn\_dlir.admin
 
 After you successfully validate and submit the configuration, the AWS S3 Configuration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](dlp-integration-microsoft.md)
 

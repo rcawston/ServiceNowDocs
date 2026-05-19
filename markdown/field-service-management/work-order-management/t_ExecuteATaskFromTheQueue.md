@@ -39,7 +39,7 @@ Role required: wm\_agent or wm\_dispatcher
 
     -   Upon clicking **Start Travel**, a notification email and SMS are sent to the customer, signaling the agent's arrival.
     -   A sub-state, **On Route**, is automatically set, indicating the commencement of travel for the work order task.
-    -   The option to **Check-In** appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](t_ConfigureFieldService.md) and [Onsite arrival and check-in](../../field-service-management/reference/onsite-arrival-and-check-in.md)
+    -   The option to **Check-In** appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](../t_ConfigureFieldService.md) and [Onsite arrival and check-in](onsite-arrival-and-check-in.md)
 4.  Open the work order task and do either of the following.
 
     -   Select **Check-In** to notify the customer of your arrival and perform any pre-work activities.
@@ -68,5 +68,5 @@ The cumulative amount of time worked on the task is captured in the **Actual Wor
 **Related topics**  
 
 
-[Customer notifications for work order tasks](../../field-service-management/concept/Configuring-cust-exp.md#)
+[Customer notifications for work order tasks](Configuring-cust-exp.md#)
 

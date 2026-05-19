@@ -102,12 +102,12 @@ Employee can send the mail and SMS using the default Email and SMS template.
 -   **User triggered notification template** is available from **All** &gt; **System Notifications** &gt; **Email** &gt; **Templates**.
 -   **User triggered employee notification layout** is available from **All** &gt; **System Policy** &gt; **Email** &gt; **Layout**.
 
-**Parent Topic:**[Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md)
+**Parent Topic:**[Employee Center Pro Kiosk](deskless-kiosk-overview.md)
 
 **Related topics**  
 
 
-[Use Employee Center Pro Kiosk](../concept/deskless-eck-homepage.md)
+[Use Employee Center Pro Kiosk](deskless-eck-homepage.md)
 
 [Modify Send to self widget display](config-sendtoself-instanceoptions.md)
 

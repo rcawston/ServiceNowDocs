@@ -30,5 +30,5 @@ Role required: sn\_vul.vulnerability\_admin
     All roles are granted to the user. The selected users are added to the Group Members list. These members can approve requests to mark VIs or remediation tasks as false positive. Once approved, the state of the record is updated to Closed and it is reopened only on the specified date.
 
 
-**Parent Topic:**[Unified Approvals View](../concept/sem-approval-view.md)
+**Parent Topic:**[Unified Approvals View](sem-approval-view.md)
 

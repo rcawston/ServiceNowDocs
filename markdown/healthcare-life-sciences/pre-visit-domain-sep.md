@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Pre-Visit Management overview
 
-The Pre-Visit Management application includes domain separation for transactional data like procedure request cases. The application is based on the [Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md) that also includes domain separation.
+The Pre-Visit Management application includes domain separation for transactional data like procedure request cases. The application is based on the [Healthcare and Life Sciences data model](healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md) that also includes domain separation.
 
 ## How domain separation works in Pre-Visit Management
 
@@ -43,5 +43,5 @@ For customers using the Pre-Visit Management application to raise procedure requ
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-**Parent Topic:**[Pre-Visit Management reference](../reference/pre-visit-reference.md)
+**Parent Topic:**[Pre-Visit Management reference](pre-visit-reference.md)
 

@@ -31,7 +31,7 @@ Understand the current skills and the targeted skills of the team so that you’
 
 3.  In the Skills Summary section, view all skills, top strengths, and areas of growth of your team.
 
-    For more information, see [Skills summary of your team](../concept/skill-summary.md).
+    For more information, see [Skills summary of your team](skill-summary.md).
 
 4.  In the Skills distribution section, view skills possessed by your team, across all proficiency levels, by job functions.
 

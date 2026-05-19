@@ -42,5 +42,5 @@ An earlier version of the save as you go feature was released and withdrawn from
 
 Open Workflow Studio and verify that save as you go is working as expected.
 
-**Parent Topic:**[Save as you go flows](../concept/save-as-you-go-flows.md)
+**Parent Topic:**[Save as you go flows](save-as-you-go-flows.md)
 

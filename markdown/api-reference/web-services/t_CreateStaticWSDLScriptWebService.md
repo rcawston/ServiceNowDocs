@@ -32,8 +32,8 @@ Role required: web\_service\_admin or admin
 5.  Click **Submit**.
 
 
--   **[Scripted web service example](../reference/r_StaticWSDLScriptedWebService.md)**  
+-   **[Scripted web service example](r_StaticWSDLScriptedWebService.md)**  
 This example demonstrates the processing script for the FakeStockValue web service.
 
-**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](../reference/createSOAPwebserviceStaticWSDL.md)
+**Parent Topic:**[Create a scripted SOAP web service using a static WSDL](createSOAPwebserviceStaticWSDL.md)
 

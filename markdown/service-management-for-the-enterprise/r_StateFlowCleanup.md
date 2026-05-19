@@ -66,14 +66,14 @@ Work notes business rule
 All state flows with field controls or work notes are deleted
 
 </td></tr></tbody>
-</table>**Parent Topic:**[State flow customization](../concept/c_StateFlowCustomization.md)
+</table>**Parent Topic:**[State flow customization](c_StateFlowCustomization.md)
 
 **Related topics**  
 
 
-[State flow customization](../concept/c_StateFlowCustomization.md)
+[State flow customization](c_StateFlowCustomization.md)
 
-[Request states](../../planning-and-policy/reference/r_SMRequestStates.md)
+[Request states](r_SMRequestStates.md)
 
-[Request task states](../../planning-and-policy/reference/r_SMRequestTaskStates.md)
+[Request task states](r_SMRequestTaskStates.md)
 

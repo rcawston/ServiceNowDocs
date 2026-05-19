@@ -75,6 +75,6 @@ Event Management Part 2 \| Impact Tree
 </td></tr></tbody>
 </table>    Network paths appearing in the impact tree can use a large amount of resources, which degrades system performance. To disable network paths from appearing in the impact tree, navigate to **System Properties** &gt; **All Properties** and set the **evt\_mgmt.network\_path\_excluded** property to **true**.
 
-    To view impact tree using Service Operations Workspace, see [View impact tree using Service Operations Workspace](../../service-operations-workspace-itom/task/view-impact-tree.md).
+    To view impact tree using Service Operations Workspace, see [View impact tree using Service Operations Workspace](../service-operations-workspace-for-itom-apps/view-impact-tree.md).
 
 

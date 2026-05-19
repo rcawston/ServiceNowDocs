@@ -13,7 +13,7 @@ breadcrumb: [Security Operations email processing, Security Operations common fu
 
 Email Properties specify which inboxes are used as input in Email Parsing to import information from external detection systems to create records for security, vulnerability, and IoCs. You can set up a general account for all external detection systems to use, or individual email accounts for Security Incident Response, Threat Intelligence, or Vulnerability Response.
 
--   **[Create Security Operations email properties](../task/create-email-properties.md)**  
+-   **[Create Security Operations email properties](create-email-properties.md)**  
 You can specify email addresses for reports and control automatic email behaviors using email Properties.
 
 **Parent Topic:**[Security Operations email processing](email-processing.md)

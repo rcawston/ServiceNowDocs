@@ -379,7 +379,7 @@ Yes
 
 </td><td id="entry_CurrencyField">
 
-Decimal field with four digits after the decimal point.When displayed on a form, a **Currency** field also includes an additional list of choices for selecting the currency type. If there isn't a default value for the field, then empty **Currency** fields use the reference currency. Adding a value causes the field to use the session currency of the active user. See [Change default currency decimal places](../../currency/task/change-currency-fraction-digits.md) for how to use two fraction digits.
+Decimal field with four digits after the decimal point.When displayed on a form, a **Currency** field also includes an additional list of choices for selecting the currency type. If there isn't a default value for the field, then empty **Currency** fields use the reference currency. Adding a value causes the field to use the session currency of the active user. See [Change default currency decimal places](currency-administration/change-currency-fraction-digits.md) for how to use two fraction digits.
 
 **Note:** After you assign this field type to a field, you can’t change it to the **FX Currency** field type.
 
@@ -1475,7 +1475,7 @@ No
 
 </td><td id="NameValue">
 
-Name-value pairs field that maps text values. Each mapping is one-to-one, but a single **Name-Value Pairs** field can contain multiple mappings. Each mapping must use a unique name, and the name can’t be empty.For example, you can use a **Name-Value Pairs** field to hold header information for a web service request. In this example, the name of each mapping is the header such as `Content-Type` and the value is the header value, such as `Application/json`. For information on scripting **Name-Value Pairs** fields, see [Name-value pairs field type](../../field-administration/reference/name-value-pair-scripting.md).
+Name-value pairs field that maps text values. Each mapping is one-to-one, but a single **Name-Value Pairs** field can contain multiple mappings. Each mapping must use a unique name, and the name can’t be empty.For example, you can use a **Name-Value Pairs** field to hold header information for a web service request. In this example, the name of each mapping is the header such as `Content-Type` and the value is the header value, such as `Application/json`. For information on scripting **Name-Value Pairs** fields, see [Name-value pairs field type](name-value-pair-scripting.md).
 
 </td></tr><tr><td>
 
@@ -1635,7 +1635,7 @@ Yes
 
 </td><td id="entry_PriceField">
 
-Currency field that enables control over conversions and display. See [Price fields](../../currency/concept/price-fields.md) for more information.
+Currency field that enables control over conversions and display. See [Price fields](currency-administration/price-fields.md) for more information.
 
 </td></tr><tr><td>
 

@@ -35,7 +35,7 @@ Health and Safety Contractor Management
 
 Installs contractor pre-qualification capabilities enabling contractors to prequalify contractor companies and their workers and monitor them in the Health and Safety application.
 
- For more information on components installed with Health and Safety Contractor Management, see [Components installed with Health and Safety Contractor Management](../../hs-contractor-management/reference/components-installed-with-hs-contractor-mgmt.md).
+ For more information on components installed with Health and Safety Contractor Management, see [Components installed with Health and Safety Contractor Management](../health-and-safety-contractor-management/components-installed-with-hs-contractor-mgmt.md).
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -122,5 +122,5 @@ Contractor service portal menu item
 Used to configure the menu items for the service center portal.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contractor Service Center reference](../concept/hs-contractor-service-center-reference.md)
+</table>**Parent Topic:**[Contractor Service Center reference](hs-contractor-service-center-reference.md)
 

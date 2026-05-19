@@ -99,7 +99,7 @@ Enables Sensor devices to synchronize time \(real-time clock\) with the Discover
 
 ## Discovery Console for OT configuration wizard
 
-The Discovery Console for OT now provides a configuration wizard to guide you through your initial setup and configuration of the Console. If you choose to use the interactive configuration wizard after logging into the Console, it alerts you automatically to upload a Console license. See [Use the Discovery Console for OT interactive configuration wizard](../task/console-onboarding-wizard.md) for more information.
+The Discovery Console for OT now provides a configuration wizard to guide you through your initial setup and configuration of the Console. If you choose to use the interactive configuration wizard after logging into the Console, it alerts you automatically to upload a Console license. See [Use the Discovery Console for OT interactive configuration wizard](console-onboarding-wizard.md) for more information.
 
 ## Discovery Console for OT license
 

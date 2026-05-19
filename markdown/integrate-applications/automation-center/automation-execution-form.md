@@ -154,5 +154,5 @@ Message
 Any information or error message returned by the robot.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

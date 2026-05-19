@@ -96,5 +96,5 @@ Option to display the category label in the Topic picker menu for end users. **N
     If there are no topics associated with the category, the category is deleted. It is no longer listed in the **Category** field on the Topics Properties page and in the **Category** filter on the Topics page in Virtual Agent Designer.
 
 
-**Parent Topic:**[Configuring Virtual Agent](../concept/configure-virtual-agent.md)
+**Parent Topic:**[Configuring Virtual Agent](configure-virtual-agent.md)
 

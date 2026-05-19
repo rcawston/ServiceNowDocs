@@ -32,5 +32,5 @@ Role required: skill\_admin or model\_manager
 5.  Click **Save**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](c_Models.md)
 

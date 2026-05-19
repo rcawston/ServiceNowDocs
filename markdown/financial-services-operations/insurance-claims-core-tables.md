@@ -105,7 +105,7 @@ Defines the configuration for claim incidents that can be created as part of the
 -   Display order of the service definitions in the playbook
 -   Whether the service definition is shown in the UI or not
 
-For more information, see [Claim Incident Configuration table](../../fso-insurance-claims-flow/concept/claim-incident-configuration-table.md).
+For more information, see [Claim Incident Configuration table](insurance-claims/claim-incident-configuration-table.md).
 
 </td></tr><tr><td>
 

@@ -20,18 +20,18 @@ With the ServiceNow® Communities application, connect, engage, and collaborate 
 **Explore**
 
  -   [Communities roles](communities-roles.md)
--   [Community content types](../concept/c_communities-content-types.md)
--   [Configure community forums](../task/configure-forums-topics.md)
--   [Forum and user permissions management](../concept/communities-permissions.md)
--   [Community subscriptions](../concept/c_communities-subscriptions.md)
--   [Gamification](../concept/communities-gamification.md)
--   [Domain separation and Communities](../concept/domain-separation-communities.md)
+-   [Community content types](c_communities-content-types.md)
+-   [Configure community forums](configure-forums-topics.md)
+-   [Forum and user permissions management](communities-permissions.md)
+-   [Community subscriptions](c_communities-subscriptions.md)
+-   [Gamification](communities-gamification.md)
+-   [Domain separation and Communities](domain-separation-communities.md)
 
 </td><td>
 
 **Set up**
 
- -   [Activate Communities plugins](../task/activate-communities.md)
+ -   [Activate Communities plugins](activate-communities.md)
 -   [Properties installed with Communities](communities-properties.md)
 -   [Community setup guide for admins](r_setup-communities-admin.md)
 
@@ -39,39 +39,39 @@ With the ServiceNow® Communities application, connect, engage, and collaborate 
 
 **Administer**
 
- -   [Create a forum](../task/create-forum.md)
--   [Create a forum user](../task/add-user.md)
--   [Create a forum permission](../task/create-forum-permission.md)
--   [Invite users to become members of a forum](../task/invite-users-forum.md)
--   [Configure the community profile](../task/configure-community-profile.md)
--   [Enable users to self-register to a community](../concept/configure-registration.md)
--   [Enable knowledge harvesting](../concept/communities-km-integration-configure.md)
--   [View the Communities performance dashboard](../task/view-communities-dashboard.md)
--   [Configure announcement for community members](../task/manage-announcements.md)
--   [Moderate a community](../task/moderate-communities.md)
--   [Administer gamification](../concept/communities-gamification-administer.md)
+ -   [Create a forum](create-forum.md)
+-   [Create a forum user](add-user.md)
+-   [Create a forum permission](create-forum-permission.md)
+-   [Invite users to become members of a forum](invite-users-forum.md)
+-   [Configure the community profile](configure-community-profile.md)
+-   [Enable users to self-register to a community](configure-registration.md)
+-   [Enable knowledge harvesting](communities-km-integration-configure.md)
+-   [View the Communities performance dashboard](view-communities-dashboard.md)
+-   [Configure announcement for community members](manage-announcements.md)
+-   [Moderate a community](moderate-communities.md)
+-   [Administer gamification](communities-gamification-administer.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Community homepage features for logged in users](../concept/c_communities-service-portal.md)
--   [Request membership to a forum](../task/request-membership-forum.md)
--   [Search the community](../task/search.md)
--   [Subscribe to content](../task/subscribe.md)
--   [Ask a question in the community](../task/create-question.md)
--   [Post a blog in the community](../task/create-blog.md)
--   [Post a video in the community](../task/create-video.md)
--   [Post a document in the community](../task/create-document.md)
--   [Post a community event](../task/create-event.md)
--   [Bookmark community content](../task/bookmark-content.md)
--   [Provide feedback on community content](../task/provide-feedback.md)
--   [Report inappropriate community content](../task/report-content.md)
--   [Manage your community profile](../task/view-user-profile.md)
--   [Follow a community user](../task/follow-user.md)
--   [Harvest knowledge from a community](../task/create-knowledge-from-communities.md)
--   [View a list of questions and create a case](../task/case-mgmt-integration-view-list.md)
--   [Moderate gamification](../concept/communities-gamification-moderate.md)
+ -   [Community homepage features for logged in users](c_communities-service-portal.md)
+-   [Request membership to a forum](request-membership-forum.md)
+-   [Search the community](search.md)
+-   [Subscribe to content](subscribe.md)
+-   [Ask a question in the community](create-question.md)
+-   [Post a blog in the community](create-blog.md)
+-   [Post a video in the community](create-video.md)
+-   [Post a document in the community](create-document.md)
+-   [Post a community event](create-event.md)
+-   [Bookmark community content](bookmark-content.md)
+-   [Provide feedback on community content](provide-feedback.md)
+-   [Report inappropriate community content](report-content.md)
+-   [Manage your community profile](view-user-profile.md)
+-   [Follow a community user](follow-user.md)
+-   [Harvest knowledge from a community](create-knowledge-from-communities.md)
+-   [View a list of questions and create a case](case-mgmt-integration-view-list.md)
+-   [Moderate gamification](communities-gamification-moderate.md)
 
 </td><td>
 

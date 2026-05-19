@@ -131,5 +131,5 @@ Tools
 Lists legitimate software that is used by threat actors to perform attacks associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Vulnerabilities](../concept/vulnerabilities.md)
+</table>**Parent Topic:**[Vulnerabilities](vulnerabilities.md)
 

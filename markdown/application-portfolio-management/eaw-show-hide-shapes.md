@@ -42,7 +42,7 @@ Role required: sn\_apm.apm\_admin
 10. Select **Save**.
 
 
-**Parent Topic:**[Configure Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-setup-modeling.md)
+**Parent Topic:**[Configure Enterprise Modeling and Visualization](eaw-setup-modeling.md)
 
 **Related topics**  
 

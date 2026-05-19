@@ -23,10 +23,10 @@ A general workflow for using Build Agent in either ServiceNow Studio or the Serv
 5.  Review proposed edits, diffs, and summaries, and approve or adjust before applying changes.
     1.  If you're using ServiceNow Studio, look at the generated app details.
     2.  If you're using the ServiceNow IDE, inspect the code.
-6.  Iterate until the desired metadata changes are complete. For more information, see [Supported metadata in Build Agent](../reference/build-agent-supported-metadata.md).
+6.  Iterate until the desired metadata changes are complete. For more information, see [Supported metadata in Build Agent](build-agent-supported-metadata.md).
 7.  Prompt Build Agent to create Automated Test Framework \(ATF\) tests, and then run them.
 8.  Instruct Build Agent to build the application; verify results in the File Navigator or Metadata Explorer.
-9.  Deploy the application. For more information, see [Vibe coding, AI-assisted development, and deployment](../../vibe-coding/concept/vc-and-deployment.md).
+9.  Deploy the application. For more information, see [Vibe coding, AI-assisted development, and deployment](vc-and-deployment.md).
 
 **Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
 

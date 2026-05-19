@@ -55,5 +55,5 @@ Get an acceptance from the customer for the resolution and [close the inquiry ca
 
 If the customer rejects the proposed solution, move the case back to the Open state. If the customer rejected the proposed solution from the Customer or Consumer Service Portal, the state of the case automatically updates to Open.
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

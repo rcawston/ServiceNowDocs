@@ -173,5 +173,5 @@ If you want to cancel an assessment for risks that no longer need to be assessed
 
 **Note:** When a risk assessment is canceled, the risk assessors are notified about the cancellation and the tasks are removed from their queue.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

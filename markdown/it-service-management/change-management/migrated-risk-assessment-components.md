@@ -26,5 +26,5 @@ To create a functional risk assessment on the assessment framework, the system c
 |Risk Assessment Thresholds \[risk\_assessment\_threshold\]|Assessment Thresholds \[change\_risk\_asmt\_threshold\]|
 |Assessment Conditions \[assessment\_conditions\]|This is included in Change Management - Risk Assessment \[com.snc.change.risk\_assessment\].|
 
-**Parent Topic:**[Migrate to legacy change risk assessments](../task/legacy-change-risk-assessment-migration.md)
+**Parent Topic:**[Migrate to legacy change risk assessments](legacy-change-risk-assessment-migration.md)
 

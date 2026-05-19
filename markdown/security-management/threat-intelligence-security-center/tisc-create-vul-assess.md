@@ -43,7 +43,7 @@ Role required:
     2.  Notify the concerned TISC Teams and VR Teams.
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](tisc-automated-flows.md)
 
 **Related topics**  
 
@@ -62,5 +62,5 @@ Role required:
 
 [Zero-day vulnerability tracking](tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](tisc-flows-tables.md)
 

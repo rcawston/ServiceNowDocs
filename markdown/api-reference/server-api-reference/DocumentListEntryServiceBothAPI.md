@@ -17,23 +17,23 @@ The DocumentListEntryService API provides methods for maintaining document templ
 
 This API requires the Document Management plugin \(com.snc.platform\_document\_management\) and is provided within the `sn_doc_services` namespace. For information, see [Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-services-landing-page.md).
 
-Before using the methods in this API, add a document template with its version and create a document list. Use the [SystemDocumentListEntry](../../SystemDocumentListEntry/concept/SystemDocumentListEntryBothAPI.md#) API to add or remove documents from a document list.
+Before using the methods in this API, add a document template with its version and create a document list. Use the [SystemDocumentListEntry](SystemDocumentListEntryBothAPI.md#) API to add or remove documents from a document list.
 
 Before using the methods in this API, you must add a document with its default version and create a document list.
 
--   [SystemDocument](../../SystemDocument/concept/SystemDocumentBothAPI.md#) – Define a document object.
--   [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) – Add, update, or delete a document.
--   [SystemDocumentVersion](../../SystemDocumentVersion/concept/SystemDocumentVersionBothAPI.md#) – Define a document version.
--   [DocumentVersionService](../../DocumentVersionService/concept/DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
--   [SystemDocumentList](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#) – Define a document list.
--   [DocumentListService](../../DocumentListService/concept/DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
+-   [SystemDocument](SystemDocumentBothAPI.md#) – Define a document object.
+-   [DocumentService](DocumentServiceBothAPI.md#) – Add, update, or delete a document.
+-   [SystemDocumentVersion](SystemDocumentVersionBothAPI.md#) – Define a document version.
+-   [DocumentVersionService](DocumentVersionServiceBothAPI.md#) – Add, update, or delete a document version.
+-   [SystemDocumentList](SystemDocumentListBothAPI.md#) – Define a document list.
+-   [DocumentListService](DocumentListServiceBothAPI.md#) – Add, update, or delete a document list.
 
 To define a document as a template:
 
--   Define the document object setting the [SystemDocument – template\(\)](../../SystemDocument/concept/SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](../../DocumentService/concept/DocumentServiceBothAPI.md#) API.
+-   Define the document object setting the [SystemDocument – template\(\)](SystemDocumentBothAPI.md#) method to true. Create or update the document record with the methods in the [DocumentService](DocumentServiceBothAPI.md#) API.
 -   Select the Template check box of a document in the Documents \[ds\_document\] table.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DocumentListEntryService - DocumentListEntryService\(\)
 
@@ -55,7 +55,7 @@ Adds a document template entry to a document list.
 
 |Name|Type|Description|
 |----|----|-----------|
-|entry|[SystemDocumentListEntry](../../SystemDocumentList/concept/SystemDocumentListBothAPI.md#)|One or more properties representing fields of a document list entry object.|
+|entry|[SystemDocumentListEntry](SystemDocumentListBothAPI.md#)|One or more properties representing fields of a document list entry object.|
 
 <table id="table_tj4_p5j_34b" class="returns"><thead><tr><th>
 

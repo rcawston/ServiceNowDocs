@@ -38,7 +38,7 @@ The improvement opportunities that are set for a process table will be available
 
     **Important:** If you try to create a new improvement opportunity or edit an existing improvement opportunity from the Classic view, the Finding Builder is automatically opens.
 
-    For information on configuring improvement opportunities, see step 4 onwards on [Configure improvement opportunities](../task/improvement-opportunities.md).
+    For information on configuring improvement opportunities, see step 4 onwards on [Configure improvement opportunities](improvement-opportunities.md).
 
 
 **Parent Topic:**[Setting improvement opportunities](working-with-imp-opp.md)

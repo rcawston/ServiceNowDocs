@@ -49,7 +49,7 @@ Typically, you should start with the simulation mode on a non-production instanc
 
 There might be reasons for configuring child classes descending from the Hardware class, to be excluded from Dynamic IRE. For example, you might want to exclude a custom class with custom attributes, for which there are IRE rules that are based on those custom attributes. In this situation, it might not be beneficial to apply Dynamic IRE for that class and its descendants. So if Dynamic IRE is enabled, Static IRE is still being used for those excluded classes.
 
-For more information, see [Exclude classes from Dynamic IRE](../task/dynamic-ire-exclude-class.md).
+For more information, see [Exclude classes from Dynamic IRE](dynamic-ire-exclude-class.md).
 
 ## Simulate and commit to Dynamic IRE
 
@@ -64,7 +64,7 @@ To start using Dynamic IRE exclusively, a general guideline is to test it first 
     -   If you're ready to start a simulation to test Dynamic IRE on a non-production instance, select **Simulate Dynamic IRE**. The simulation runs IRE processes on the Hardware and any descending classes, and then shows a comparison in terms of effectiveness and performance, between Dynamic and Static IRE. Carefully examine this comparison, which can help you determine whether to commit to using Dynamic IRE.
     -   If you have already completed a simulation, reviewed the results, and are ready to fully use Dynamic IRE with the Hardware class, on a production instance select the agreement and then select **Commit to Dynamic IRE**.
 
-Alternatively, you can use the **glide.identification\_engine.dynamic\_ire\_enabled** system property to enable or disable Dynamic IRE, and by so, switching between Dynamic and Static IRE. For more information about this property, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+Alternatively, you can use the **glide.identification\_engine.dynamic\_ire\_enabled** system property to enable or disable Dynamic IRE, and by so, switching between Dynamic and Static IRE. For more information about this property, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 ## Comparison of the results of Dynamic IRE and Static IRE
 

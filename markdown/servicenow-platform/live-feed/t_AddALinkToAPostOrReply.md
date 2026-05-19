@@ -38,5 +38,5 @@ Role required: none
     To remove a link, click the trash can icon adjacent to the link. To make changes to an existing link, click the edit \(![Pencil](../image/Pencil.png)\) icon.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](c_PostContentInLiveFeed.md)
 

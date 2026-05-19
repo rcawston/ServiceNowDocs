@@ -34,7 +34,7 @@ For example, the **Task** field on the Project Tasks list displays the short des
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -52,7 +52,7 @@ For example, the **Task** field on the Project Tasks list displays the short des
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 

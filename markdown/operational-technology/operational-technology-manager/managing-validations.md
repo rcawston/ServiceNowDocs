@@ -47,7 +47,7 @@ Validations to be executed:
     If you have additional mappings, create an extension point implementation for the base system **sn\_otsm\_sgc.SGOTAssetImportExtensionPoint** extension point.
 
 
-For more information about adding a custom implementation for device classification, see [Add a custom implementation for device classification](../task/adding-custom-implementation-for-asset-classification.md).
+For more information about adding a custom implementation for device classification, see [Add a custom implementation for device classification](adding-custom-implementation-for-asset-classification.md).
 
-**Parent Topic:**[Validate imported staging records](../task/run-validations.md)
+**Parent Topic:**[Validate imported staging records](run-validations.md)
 

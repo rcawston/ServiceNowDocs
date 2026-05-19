@@ -58,7 +58,7 @@ The selector only shows releases for which the current page of content is availa
 
 ![Release content not available](../image/pdi-release-selector-3.png)
 
-If your PDI is not on the latest release, follow the steps for [upgrading your PDI](../task/upgrading_your_pdi.md) to get the latest release.
+If your PDI is not on the latest release, follow the steps for [upgrading your PDI](upgrading_your_pdi.md) to get the latest release.
 
 **Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

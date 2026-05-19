@@ -114,5 +114,5 @@ If you cannot view the Instances screen after you tap the **ServiceNow Agent** a
 
 Select one of the following topics for more information about each applet.
 
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](mobile-risk-overview.md)
 

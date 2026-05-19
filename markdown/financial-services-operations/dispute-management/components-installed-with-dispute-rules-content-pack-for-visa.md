@@ -51,7 +51,7 @@ Visa Dispute Cardholder Intake
 
 </td><td>
 
-Stores Visa Dispute Questionnaire questions and responses submitted by consumers, such as a dispute playbook on a service portal. See [Create a dispute case with Dispute Intake in Portal](../../fso-card-operations/concept/creating-an-onboarding-case-with-dispute-playbook-for-portal.md) for more information. Extends the Visa Dispute Intake \[sn\_bom\_visa\_cp\_visa\_dispute\_questionnaire\] table.
+Stores Visa Dispute Questionnaire questions and responses submitted by consumers, such as a dispute playbook on a service portal. See [Create a dispute case with Dispute Intake in Portal](creating-an-onboarding-case-with-dispute-playbook-for-portal.md) for more information. Extends the Visa Dispute Intake \[sn\_bom\_visa\_cp\_visa\_dispute\_questionnaire\] table.
 
 </td></tr><tr><td>
 
@@ -64,5 +64,5 @@ CRB Region Type
 Stores all Visa Card Recovery Bulletin \(CRB\) regions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Dispute Rules Content Pack for Visa reference](../concept/dispute-content-pack-for-visa-reference.md)
+</table>**Parent Topic:**[Dispute Rules Content Pack for Visa reference](dispute-content-pack-for-visa-reference.md)
 

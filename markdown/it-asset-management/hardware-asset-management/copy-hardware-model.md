@@ -51,16 +51,16 @@ The model record is created and you’re redirected to the Model record form.
 
 ## What to do next
 
--   To publish the model to the Hardware Catalog, select **Publish to Hardware Catalog**. For more information about publishing the model to the hardware catalog, see [Publish an item to the hardware catalog](../../product-catalog/task/t_PublishAnItemToTheHardwareCatalog.md).
+-   To publish the model to the Hardware Catalog, select **Publish to Hardware Catalog**. For more information about publishing the model to the hardware catalog, see [Publish an item to the hardware catalog](../product-catalog/t_PublishAnItemToTheHardwareCatalog.md).
 -   To revert the normalization of the hardware or consumable model, select **Revert Normalization**. For more information about reverting normalization, see [Revert normalization of hardware and consumable models](revert-norm-ham.md).
 -   To save the changes made to the model record, select **Save**.
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](Work-with-hardware-normalization.md)
 
 **Related topics**  
 
 
 [Create a hardware or consumable model](create-hardware-consumable-model.md)
 
-[Content lookup portal for Hardware Asset Management](../concept/content-lookup-ham.md#)
+[Content lookup portal for Hardware Asset Management](content-lookup-ham.md#)
 

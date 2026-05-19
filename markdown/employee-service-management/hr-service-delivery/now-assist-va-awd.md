@@ -19,7 +19,7 @@ You can use the Now Assist Virtual Agent topics in Employee Center to place requ
 
 To access and use the Virtual Agent topics, verify the following:
 
--   [Configure Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](../task/config-awd-va.md).
+-   [Configure Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](config-awd-va.md).
 -   Have one of the following roles: admin, sn\_hr\_sp.hrsp\_alumni, sn\_hr\_sp.hrsp\_contingent, sn\_hr\_sp.hrsp\_employee, sn\_hr\_sp.hrsp\_contractor, or sn\_hr\_sp.admin
 
 ## Available Spoke Subflows for Virtual Agent topics for HR Service Delivery Advanced Integration with Workday
@@ -222,11 +222,11 @@ The Get Holiday Calendar Virtual Agent topic enables you to view your holiday ca
 
 [Time off request to Workday](w-timeoff.md)
 
-[Change legal name through Virtual Agent](../task/change-legal-na-awd.md)
+[Change legal name through Virtual Agent](change-legal-na-awd.md)
 
-[Publish the VA topic template for legal name change](../task/nlu-awd.md)
+[Publish the VA topic template for legal name change](nlu-awd.md)
 
-[Report an issue with your payslip](../task/payslips-awd.md)
+[Report an issue with your payslip](payslips-awd.md)
 
 [Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](conversational-agents-wd.md)
 

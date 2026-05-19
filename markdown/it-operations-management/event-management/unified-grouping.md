@@ -17,5 +17,5 @@ Mixed alert grouping combines multiple strategies—currently CMDB-based and tag
 
 To understand how Mixed grouping works in practice, it’s important to look at the individual strategies it currently supports. At this stage, Mixed Grouping comprises two core methods: [CMDB based alert grouping](cmdb-alert-groups.md), which leverages service relationships defined in the CMDB, and [Tag cluster alert grouping](alert-clustering-tag-definitions-concept.md), which uses shared metadata across alerts. Each plays a distinct role in correlating related alerts effectively.
 
-If you're looking to group alerts, see [Create Group automation](../../service-operations-workspace-itom/task/group-alert-sow-itom.md).
+If you're looking to group alerts, see [Create Group automation](../service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 

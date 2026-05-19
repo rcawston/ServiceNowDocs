@@ -33,7 +33,7 @@ In this task, you configure a component event on a page to trigger an existing U
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Create or open a page within the experience.
 
@@ -68,5 +68,5 @@ In this task, you configure a component event on a page to trigger an existing U
 
 When the specified page event occurs, the UI interaction runs and executes its configured actions.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](uib-ui-interactions.md)
 

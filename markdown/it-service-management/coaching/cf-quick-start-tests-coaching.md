@@ -30,7 +30,7 @@ Coaching quick start tests require activating the Coaching plugin \(com.sn\_coac
 |Coaching: Submit Coaching survey as a Coach user.|Verify that coach can submit survey for a trainee.|Quebec|
 |Coaching: Submit Coaching survey as a Traineer user.|Verify that trainee can submit survey for a coach.|Quebec|
 
-**Parent Topic:**[Coaching reference](../../../product/cf-coaching/reference/cf-coaching-reference.md)
+**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
 
 **Related topics**  
 

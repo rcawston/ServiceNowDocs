@@ -27,7 +27,7 @@ Role required: sn\_si.admin, sn\_si.analyst
 
     **Note:**
 
-    You must configure the related list for the Microsoft Defender Indicators, which would appear in the Security Incident related lists. For more information, see [Form UI actions](../../../security-incident-response/concept/sir-new-ui-setup-form-uiaction.md).
+    You must configure the related list for the Microsoft Defender Indicators, which would appear in the Security Incident related lists. For more information, see [Form UI actions](sir-new-ui-setup-form-uiaction.md).
 
 3.  Update the Microsoft Defender for Endpoint indicators in one of the following ways:
 

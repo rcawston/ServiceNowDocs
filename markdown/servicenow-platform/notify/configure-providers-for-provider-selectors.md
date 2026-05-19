@@ -50,5 +50,5 @@ Role required: notify\_admin
 7.  Click **Submit.**
 
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](configuring-notify.md)
 

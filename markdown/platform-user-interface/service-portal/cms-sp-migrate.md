@@ -72,7 +72,7 @@ Because UI Macros use Jelly, they are not supported in Service Portal.
 </td><td>
 
 -   In Service Portal, you can use widgets instead of UI Macros. Base system widgets generally cover most use cases, but for custom solutions, you can develop new widgets using AngularJS.
--   If your implementation includes UI Macros in Service Catalog forms that reference other fields or variables in the form, you can embed the widget inside a Service Catalog variable. Learn more: [Replace a Service Catalog form script with a widget](../task/ui-macro-widget.md).
+-   If your implementation includes UI Macros in Service Catalog forms that reference other fields or variables in the form, you can embed the widget inside a Service Catalog variable. Learn more: [Replace a Service Catalog form script with a widget](ui-macro-widget.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Service Catalog variables are supported in Service Portal with the following exc
 
 </td><td>
 
--   If embedding a widget in a catalog item form, you can use the UI Macro variable type. Learn more: [Replace a Service Catalog form script with a widget](../task/ui-macro-widget.md).
+-   If embedding a widget in a catalog item form, you can use the UI Macro variable type. Learn more: [Replace a Service Catalog form script with a widget](ui-macro-widget.md).
 -   If using variable with annotations, make sure to test your catalog items in Service Portal to ensure that help text displays as expected.
 
 </td></tr><tr><td>

@@ -95,7 +95,7 @@ After completing the form, check the box.
     **Note:** The report key and report number are required to access updates or comments related to an anonymous report. The report key and report number allows the person filing the complaint to track and view details about the progress of the anonymous case and respond to any follow up questions. Without the report key, the person who made the anonymous report cannot access their report. HR agents that have access to the Anonymous Report Center \(ARC\) and admin has access. For more information, see [Access an anonymous report](arc-access-anon-report.md).
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](arc-use.md)
 
 **Related topics**  
 

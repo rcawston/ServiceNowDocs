@@ -24,9 +24,9 @@ Role required: admin
 
 ## About this task
 
-Installing the AI Search Admin Admin console makes the application available to users with the ais\_admin or admin roles. For more information, see [AI Search Admin console roles](../reference/ais-admin-console-roles.md).
+Installing the AI Search Admin Admin console makes the application available to users with the ais\_admin or admin roles. For more information, see [AI Search Admin console roles](ais-admin-console-roles.md).
 
-For information on the tasks that users can perform in the application, see [Using AI Search Admin console](../concept/using-ais-admin-console.md).
+For information on the tasks that users can perform in the application, see [Using AI Search Admin console](using-ais-admin-console.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Access the AI Search Admin console application by navigating to **All** &gt; **A
 **Related topics**  
 
 
-[Components installed with AI Search Admin console](../reference/ais-admin-console-components.md)
+[Components installed with AI Search Admin console](ais-admin-console-components.md)
 

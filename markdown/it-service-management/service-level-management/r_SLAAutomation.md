@@ -19,12 +19,12 @@ The mechanisms that control SLA Workflow and SLA Automation are independent of e
 
 One solution is to specify elapsed percentage in SLA notifications by using notifications for each percentage level. For example, an email notification for "75 percent SLA Warning" is created and a special event is used to trigger that notification. The event can be called "sla.warning.75". Another solution is hard-coding these email notifications to trigger at a specified duration percentage, and configure the workflow linked to that SLA definition to send an email notification after waiting an elapsed percentage.
 
--   **[Run the 2011 SLA engine asynchronously](../task/t_RunSLABusinessRule.md)**  
+-   **[Run the 2011 SLA engine asynchronously](t_RunSLABusinessRule.md)**  
 By default in the 2011 SLA engine, the SLA processing is performed by the **Run SLAs** business rule. This business rule runs synchronously and is the suggested configuration.
--   **[Recalculate SLA times automatically](../task/t_SLACalculationOnTaskDisplay.md)**  
+-   **[Recalculate SLA times automatically](t_SLACalculationOnTaskDisplay.md)**  
 By default when a user opens a task, the SLA timing information for that task is not automatically recalculated.
--   **[Use exact times in SLA calculations](../task/t_SLABreachCalculation.md)**  
+-   **[Use exact times in SLA calculations](t_SLABreachCalculation.md)**  
 When business percentages are used for SLA calculations, they are rounded up to two decimal places.
 
-**Parent Topic:**[Using Service Level Management](../concept/using-service-level-management.md)
+**Parent Topic:**[Using Service Level Management](using-service-level-management.md)
 

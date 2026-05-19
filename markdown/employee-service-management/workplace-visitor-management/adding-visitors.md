@@ -20,11 +20,11 @@ Add a single visitor or upload a file with details of multiple visitors.
 **Related topics**  
 
 
-[Use the host portal](../task/use-host-portal.md)
+[Use the host portal](use-host-portal.md)
 
-[Make a visitor registration](../task/register-a-guest.md)
+[Make a visitor registration](register-a-guest.md)
 
-[Review visitor policies](../task/review-visitor-policies.md)
+[Review visitor policies](review-visitor-policies.md)
 
 ## Add a visitor
 

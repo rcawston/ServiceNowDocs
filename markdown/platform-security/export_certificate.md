@@ -81,5 +81,5 @@ Email address of the users who are authorized to approve the revocation request.
 
 The export process downloads an XML file to your local machine for use in the steps detailed in [Configure Code Signing Enterprise on your protected instance](cse-ppi-config.md).
 
-**Parent Topic:**[Quorum Controlled Certificate Revocation](../concept/certificate-revocation.md)
+**Parent Topic:**[Quorum Controlled Certificate Revocation](certificate-revocation.md)
 

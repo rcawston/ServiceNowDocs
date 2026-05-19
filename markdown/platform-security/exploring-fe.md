@@ -268,7 +268,7 @@ To learn more about configuring and using Field Encryption, see:
 -   [Configuring Field Encryption](configuring-column-level-encryption.md)
 -   [Using Field Encryption](using-column-level-encryption.md)
 
--   **[Field Encryption Enterprise](../../now-platform-encryption/concept/now-platform-encryption.md)**  
+-   **[Field Encryption Enterprise](now-platform-encryption.md)**  
 Field Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Field Encryption Enterprise.
 
 **Parent Topic:**[Field Encryption](field-encryption.md)

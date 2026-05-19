@@ -23,7 +23,7 @@ The Next Generation Fortinet Network Firewall pattern uses a set of SNMP calls t
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Fortinet firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about Fortinet firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ To learn about Fortinet firewalls and their versions that you can discover, refe
     -   Class: Fortinet Firewall Device
 -   **Run a horizontal discovery**
 
-    For more information, see [Running discoveries in your network](../../discovery/concept/running-discoveries.md).
+    For more information, see [Running discoveries in your network](../discovery/running-discoveries.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -118,5 +118,5 @@ These relationships are created to support Fortinet firewall discovery.
 |Router Interface \[dscy\_router\_interface\]|References|Fortinet Firewall Device \[cmdb\_ci\_firewall\_device\_fortinet\]|
 |Serial Number \[cmdb\_serial\_number\]|References|Fortinet Firewall Device \[cmdb\_ci\_firewall\_device\_fortinet\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

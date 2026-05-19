@@ -47,7 +47,7 @@ The SQL API architecture consists of the following key components:
         3.  Auth + Role check
         4.  Encryption
     -   REST layer: There are separate dedicated services for each driver \(ODBC REST Service and JDBC REST Service\), both restricted to SELECT-only queries and rate limited, accessible only by the driver internally.
-    -   Database tier: Queries reach the Primary DB first \(read-only, used as fallback if no replica\), but are preferably routed to a Read Replica, which isolates BI workload from the primary database and handles all JDBC/ODBC SELECTs. You must configure a Read Replica to route the SQL API queries. For more information, see [Route SQL API calls to Read Replica](../task/routing-sql-api-calls-to-read-replica.md).
+    -   Database tier: Queries reach the Primary DB first \(read-only, used as fallback if no replica\), but are preferably routed to a Read Replica, which isolates BI workload from the primary database and handles all JDBC/ODBC SELECTs. You must configure a Read Replica to route the SQL API queries. For more information, see [Route SQL API calls to Read Replica](routing-sql-api-calls-to-read-replica.md).
 
 ## How the architecture works
 

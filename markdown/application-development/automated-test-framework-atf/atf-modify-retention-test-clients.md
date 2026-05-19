@@ -21,7 +21,7 @@ Role required: atf\_test\_admin
 
 ## About this task
 
-When you start a [client test runner](../concept/atf-test-runners.md), the system registers that runner as active, meaning that it is either running a test or is available to run a test. While the runner is active, it reports in to the system at a specified interval. If the runner does not report in at the expected time, the system marks the runner as inactive. After a period of time the system deletes the runner. This task enables you to modify the [Automated Test Framework properties](../reference/atf-admin-properties.md) that control these intervals.
+When you start a [client test runner](atf-test-runners.md), the system registers that runner as active, meaning that it is either running a test or is available to run a test. While the runner is active, it reports in to the system at a specified interval. If the runner does not report in at the expected time, the system marks the runner as inactive. After a period of time the system deletes the runner. This task enables you to modify the [Automated Test Framework properties](atf-admin-properties.md) that control these intervals.
 
 ## Procedure
 
@@ -36,14 +36,14 @@ When you start a [client test runner](../concept/atf-test-runners.md), the syste
 5.  Click **Save**.
 
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](../concept/atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
 
 **Related topics**  
 
 
-[Working with client test runners](../concept/atf-test-runners.md)
+[Working with client test runners](atf-test-runners.md)
 
-[Active manual test runners](../reference/atf-active-manual-runners-module.md)
+[Active manual test runners](atf-active-manual-runners-module.md)
 
-[Active scheduled test runners](../reference/atf-active-sched-runners-module.md)
+[Active scheduled test runners](atf-active-sched-runners-module.md)
 

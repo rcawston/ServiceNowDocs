@@ -31,7 +31,7 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Create New Recovery strategy form](../reference/create-new-recovery-strategy-form.md).
+    For more information on the fields in the form, see [Create New Recovery strategy form](create-new-recovery-strategy-form.md).
 
 5.  Select **Save**.
 
@@ -46,8 +46,8 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
 You can add one or more recovery tasks as part of the recovery strategy as the next step.
 
--   **[Create New Recovery strategy form](../reference/create-new-recovery-strategy-form.md)**  
+-   **[Create New Recovery strategy form](create-new-recovery-strategy-form.md)**  
 Use the Create New Recovery strategy form in BCM UIB Workspace to add details about the recovery strategy for the identified loss scenario.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

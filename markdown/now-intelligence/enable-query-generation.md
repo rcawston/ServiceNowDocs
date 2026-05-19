@@ -48,5 +48,5 @@ Role required: admin
     **Warning:** Be careful when selecting the roles that can access a skill. The default role is sn\_query\_gen.user, which the default roles for other Now Assist in Platform Analytics skills contain. Users of these other skills must be able to access Query Generation skills.
 
 
-**Parent Topic:**[Configuring Query Generation](../concept/configuring-query-generation.md)
+**Parent Topic:**[Configuring Query Generation](configuring-query-generation.md)
 

@@ -57,7 +57,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe image](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe image](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -135,5 +135,5 @@ Mobile application that you want to send the mobile property to. This setting li
 
 After updating this property, the end user must refresh the app to get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](mobile-properties.md)
 

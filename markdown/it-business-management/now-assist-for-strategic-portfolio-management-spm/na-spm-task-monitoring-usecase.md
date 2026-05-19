@@ -43,7 +43,7 @@ To access the Monitor project tasks agentic workflow:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Monitor project tasks**.
 
-To configure the Monitor project tasks agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](../task/configure-agents-project-task-monitoring.md).
+To configure the Monitor project tasks agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](configure-agents-project-task-monitoring.md).
 
 ## AI agents used in the Monitor project tasks agentic workflow
 

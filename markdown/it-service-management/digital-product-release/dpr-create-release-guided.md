@@ -24,7 +24,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
-Releases can follow a timeline-oriented and stage-oriented release process. For more information, see [Release for a product or service](../concept/dpr-product-release.md).
+Releases can follow a timeline-oriented and stage-oriented release process. For more information, see [Release for a product or service](dpr-product-release.md).
 
 **Note:** When you edit releases that are in the Draft state, they open in the wizard where you can finish creating them.
 
@@ -103,7 +103,7 @@ Releases can follow a timeline-oriented and stage-oriented release process. For 
 
         -   The start date of the release or its phase falls in the past.
         -   The duration exceeds the max duration defined in the system property.
-        In that case, you have to select another schedule or adjust the holidays. For more information, see [Holiday schedules in a release](../concept/dpr-release-holiday-schedule.md).
+        In that case, you have to select another schedule or adjust the holidays. For more information, see [Holiday schedules in a release](dpr-release-holiday-schedule.md).
 
     -   Any key dates from the template are added to the release. The date of each key date is calculated using the number of days from the start or end of the phase specified in the release template.
 
@@ -114,5 +114,5 @@ Releases can follow a timeline-oriented and stage-oriented release process. For 
     You can add or remove artifacts from a release as needed. For more information, see [Manage artifacts in a release](dpr-work-release-artifact.md).
 
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

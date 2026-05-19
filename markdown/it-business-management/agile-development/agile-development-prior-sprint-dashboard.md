@@ -94,7 +94,7 @@ The following are the breakdowns used by the indicators.
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup visualization. For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Agile 2.0, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup visualization. For more information, see [Upgrading the layout of Agile 2.0 dashboards](using-solution-library-for-agile-2.0-dashboards.md).
 
 <table id="table_mbk_ndk_k3b"><thead><tr><th>
 
@@ -151,7 +151,7 @@ Shows the previous sprint burnup trend indicating scope changes. Analyze future 
 -   **Completed**: Indicates the amount of work completed in the sprint.
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md).
 
 **Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
 

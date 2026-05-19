@@ -21,7 +21,7 @@ Determine whether your use case meets the following requirements:
 
 -   Your license enables you to create indicators.
 -   You have Data snapshots enabled on your instance. For more information, see [Activate Data snapshots](activate-unlimited-breakdowns.md#).
--   You have a suitable Data snapshots source. For more information, see [Data snapshots sources and collection](../reference/tables-unlimited-breakdowns.md).
+-   You have a suitable Data snapshots source. For more information, see [Data snapshots sources and collection](tables-unlimited-breakdowns.md).
 -   You don’t need to apply a scripted breakdown, such as an Age bucket group, or a scripted aggregate to the indicator. If you need such a breakdown or aggregate, create a classic indicator instead. For more information, see [Create an automated indicator](t_CreateAnAutomatedIndicator.md#).
 
 Role required: pa\_power\_user or higher
@@ -34,7 +34,7 @@ Role required: pa\_power\_user or higher
 
 2.  Follow one of these procedures to start creating a Data snapshots automated indicator:
 
-    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](create-indicator-from-library.md).
+    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](../create-indicator-from-library.md).
     -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **Automated Indicators - Data Snapshots** and select **New**.
 3.  If you selected **Create indicator** from the indicator library, select the Automated indicator type and Data snapshots source type.
 
@@ -169,5 +169,5 @@ If no Trend by field is selected, the data doesn’t show IGT tasks created by e
 
 ![KPI Details showing cumulative IGT tasks created.](../image/ds-trendby-off.png)
 
-**Parent Topic:**[Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md)
+**Parent Topic:**[Data snapshots and multiple breakdowns](multi-level-breakdowns.md)
 

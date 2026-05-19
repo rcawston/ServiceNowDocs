@@ -40,10 +40,10 @@ Role required: evt\_mgmt\_admin
 6.  To find users who are assigned to the role, navigate to **User Administration** &gt; **Users** &gt; **Roles** and search for the role.
 
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 
 **Related topics**  
 
 
-[Roles installed with Event Management](../reference/r_InstalledWithEventManagement.md#)
+[Roles installed with Event Management](r_InstalledWithEventManagement.md#)
 

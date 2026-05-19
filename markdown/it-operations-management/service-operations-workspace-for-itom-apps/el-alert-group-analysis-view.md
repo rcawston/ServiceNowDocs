@@ -19,7 +19,7 @@ View an alert group analysis created by Now Assist using generative AI. The anal
 ## Before you begin
 
 -   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   View important information about the Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../../now-assist-itom/concept/now-assist-itom.md).
+-   View important information about the Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../now-assist-for-it-operations-management/now-assist-itom.md).
 
 **Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
@@ -65,10 +65,10 @@ Refresh the alert analysis.**Note:** Refreshing regenerates the results. Past re
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](el-alert-group-analysis.md)
 
 **Related topics**  
 
 
-[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+[Viewing an alert group analysis by Now Assist in Express List](el-alert-group-analysis.md)
 

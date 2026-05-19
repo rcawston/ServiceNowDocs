@@ -56,9 +56,9 @@ When you duplicate the Manage contract repository agentic workflow and create a 
 
 The customized Manage contract repository agentic workflow runs autonomously when all the trigger conditions are met.
 
-For more information, see [Manage contract repository agentic workflow](../concept/cmpro-na-reminder-agentic-wf.md).
+For more information, see [Manage contract repository agentic workflow](cmpro-na-reminder-agentic-wf.md).
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 

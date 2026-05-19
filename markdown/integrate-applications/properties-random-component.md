@@ -20,5 +20,5 @@ Learn about the properties of the Random components in RPA Desktop Design Studio
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Random](../concept/random.md)
+**Parent Topic:**[Random](random.md)
 

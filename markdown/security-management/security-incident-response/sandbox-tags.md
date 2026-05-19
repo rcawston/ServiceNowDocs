@@ -15,7 +15,7 @@ breadcrumb: [CrowdStrike Falcon X Sandbox integration, Security Incident Respons
 
 Tag security incidents with the Submission Initiated and Submission Complete tags.
 
-When you select the **Display tags** option in the [Sandbox submission configuration](../task/setup-sandbox-submission-configurations.md), tags are displayed to provide the status of a file or URL submission. Checking the status this way is useful because the sandbox analysis may take several minutes to process.
+When you select the **Display tags** option in the [Sandbox submission configuration](setup-sandbox-submission-configurations.md), tags are displayed to provide the status of a file or URL submission. Checking the status this way is useful because the sandbox analysis may take several minutes to process.
 
 The display tags are called submission initiated, submission completed, and submission failed.
 

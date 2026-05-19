@@ -32,5 +32,5 @@ Role required: sn\_notify\_msteams.admin
     Meeting Extensions app is set up.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](setup-meeting-extensibility-single-tenant.md)
 

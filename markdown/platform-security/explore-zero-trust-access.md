@@ -42,7 +42,7 @@ It enables the security admins to reduce or limit user access in a session based
 Following are some of the use cases of Zero Trust Access:
 
 -   Reduce privileges based on the risk associated with the session. For example, a fulfiller role user logging from outside the trusted network can be configured to have only the requester role for the session.
--   Reduce access based on IDP response for a user session, if the user is using an untrusted device. For more information, see [Configure Identity Provider attribute for Session Access](../task/configure-idp-session-access.md).
+-   Reduce access based on IDP response for a user session, if the user is using an untrusted device. For more information, see [Configure Identity Provider attribute for Session Access](configure-idp-session-access.md).
 
 This role relegation ensures that the user doesn’t have any other existing privileges in a session. When the user is logging in from a trusted network, all the existing privileges are assigned for a session.
 

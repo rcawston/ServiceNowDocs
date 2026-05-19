@@ -173,5 +173,5 @@ The dataset is added to your AI asset inventory. It automatically enters the onb
 
 Users who are assigned the AI steward \(sn\_ai\_governance.ai\_steward\) role can start the review process to begin tracking and managing the life cycle of the dataset. For detailed instructions, see [Complete AI asset lifecycle](complete-ai-asset-lifecycle.md).
 
-**Parent Topic:**[Creating AI assets](../concept/creating-ai-assets.md)
+**Parent Topic:**[Creating AI assets](creating-ai-assets.md)
 

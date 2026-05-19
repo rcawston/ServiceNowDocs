@@ -55,5 +55,5 @@ Create a new state flow record that automates the transition from Pending Dispat
     This action deactivates the transition that allows agents to accept tasks and moves the state flow directly from **Pending Dispatch** to **Accepted**.
 
 
-**Parent Topic:**[Service management states](../concept/c_ServiceManagementStates.md)
+**Parent Topic:**[Service management states](c_ServiceManagementStates.md)
 

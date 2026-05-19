@@ -32,7 +32,7 @@ Role required: ts\_admin or admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
 
 **Related topics**  
 

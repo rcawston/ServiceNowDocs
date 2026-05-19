@@ -85,7 +85,7 @@ Role required: None
 
     6.  To use the methods at the **Universal App Connector** connector level for the two modes, UI Automation and Active Accessibility, double-click the **UniversalApplication** object.
 
-        For more information about the methods for UI Automation mode and Active Accessibility mode, see [Methods of UI Automation mode and Active Accessibility mode](../reference/uac-windows-uia-aa-methods.md).
+        For more information about the methods for UI Automation mode and Active Accessibility mode, see [Methods of UI Automation mode and Active Accessibility mode](uac-windows-uia-aa-methods.md).
 
         The methods appear in the Object Explorer pane.
 
@@ -177,7 +177,7 @@ The iframe appears.
 </td></tr></tbody>
 </table>5.  Right-click the application screen or element to perform any additional operations such as **Refresh**, **Refresh screen and elements**, **Focus**, **Add custom element**, **Show Elements**, **Delete**, and more.
 
-    For information on the various additional operations that are available for the application screens and elements, see [Additional options for application screens and elements in Universal App Connector](../reference/contextmenu-application-screens.md).
+    For information on the various additional operations that are available for the application screens and elements, see [Additional options for application screens and elements in Universal App Connector](contextmenu-application-screens.md).
 
 6.  Select **Done** after you finish configuring your application screens or elements.
 
@@ -187,10 +187,10 @@ The iframe appears.
 
     For example, if you select a Java application screen or element, the Java connector methods are displayed in Object Explorer.
 
-    -   For more information on Java connector methods, see [Java connector methods](../reference/java-connector-methods.md).
-    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](../reference/connectors-chrome-methods.md).
+    -   For more information on Java connector methods, see [Java connector methods](java-connector-methods.md).
+    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](connectors-chrome-methods.md).
 
-    -   For more information on Windows connector methods, see [Windows Connector methods](../reference/connectors-windows-methods.md).
+    -   For more information on Windows connector methods, see [Windows Connector methods](connectors-windows-methods.md).
     -   If you have captured a web application screen and you want to execute a custom JavaScript on it, you can use the ExecuteJavascript method.
 
 8.  Capture as many screen elements as you need by using the Capture element dialog.
@@ -210,5 +210,5 @@ The iframe appears.
 
 Design the automation by using the different methods for the application screens and elements, and save the automation.
 
-**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+**Parent Topic:**[Universal app connector](universal-app-connector.md)
 

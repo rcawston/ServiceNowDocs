@@ -38,5 +38,5 @@ Role required: sn\_lg\_matter.matter\_admin
 
 The document access of the selected users is removed, and they're also removed from the list. The user will no longer be able to view the matter's documents.
 
-**Parent Topic:**[Document access in a legal matter](../concept/document-access-legal-matter.md)
+**Parent Topic:**[Document access in a legal matter](document-access-legal-matter.md)
 

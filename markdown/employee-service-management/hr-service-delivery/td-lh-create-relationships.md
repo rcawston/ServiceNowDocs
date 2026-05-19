@@ -40,5 +40,5 @@ Role required: admin \[sn\_egd\_lh.admin\]
 
 The organizational supporter that you specified in the **Supporter** field can view the organization associated with the leader you specified in the **Leader** field when they access Leader Hub.
 
-**Parent Topic:**[Installing and configuring Leader Hub](../concept/td-lh-install-config.md)
+**Parent Topic:**[Installing and configuring Leader Hub](td-lh-install-config.md)
 

@@ -19,7 +19,7 @@ Create the unique key that CyberArk can use to identify specific credentials in 
 
 Role required: admin
 
-Before starting this procedure, ensure that the External Credential Storage plugin is activated, and the [com.snc.use\_external\_credentials](../concept/c_CyberArkCredStorageIntegrate.md) system property is set to true.
+Before starting this procedure, ensure that the External Credential Storage plugin is activated, and the [com.snc.use\_external\_credentials](c_CyberArkCredStorageIntegrate.md) system property is set to true.
 
 ## Procedure
 
@@ -27,7 +27,7 @@ Before starting this procedure, ensure that the External Credential Storage plug
 
 2.  Click **New**.
 
-3.  From the list of credential types, select a type that [supports CyberArk](../concept/c_CyberArkCredStorageIntegrate.md) external storage.
+3.  From the list of credential types, select a type that [supports CyberArk](c_CyberArkCredStorageIntegrate.md) external storage.
 
 4.  Complete the form using the fields from your [credential type](t_CreateCredential.md).
 
@@ -60,5 +60,5 @@ Before starting this procedure, ensure that the External Credential Storage plug
 8.  Click **Submit**.
 
 
-**Parent Topic:**[CyberArk integration configuration](../concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 

@@ -23,7 +23,7 @@ Role required: timecard\_approver or timecard\_admin
 
 A user manager is the one who has either of the required roles. The manager who can accept or reject the time sheet is selected in the **Manager** field on the User form of the time card user.
 
-A manager can [delegate another user](../../../administer/task-table/task/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the time sheets submitted by time card users to process.
+A manager can [delegate another user](delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the time sheets submitted by time card users to process.
 
 ## Procedure
 
@@ -51,5 +51,5 @@ A manager can [delegate another user](../../../administer/task-table/task/delega
 -   **[Track your time sheets](track-timesheet.md)**  
 View and track the time sheets grouped according to the date of submission such as the current week, last week, or older.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](timesheet-mobile.md)
 

@@ -197,7 +197,7 @@ When **true** and Discovery is running, the certificate\_file field in the cmdb\
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Port probes](../reference/r_PortProbes.md)
+**Parent Topic:**[Port probes](r_PortProbes.md)
 
 ## Control Shazzam payload size
 

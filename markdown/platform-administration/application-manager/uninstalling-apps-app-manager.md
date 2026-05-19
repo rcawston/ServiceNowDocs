@@ -21,8 +21,8 @@ Some applications can be uninstalled from your instance to remove scripts, backg
 
 **Note:** Some applications and plugins can't be uninstalled after they've been installed.
 
--   **[Uninstall an application](../task/uninstall-application-app-mgr.md)**  
+-   **[Uninstall an application](uninstall-application-app-mgr.md)**  
 Uninstall an unused application to remove unnecessary or conflicting scripts, background jobs, and roles from your instance.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](../administering-applications.md)
 

@@ -50,7 +50,7 @@ Submit a workplace service request on behalf of an employee for any reason. You 
     -   Submit a maintenance request
 5.  Select **Submit**.
 
-    To fill the form, refer to [Requesting a workplace service](../../workplace-case-mgmt/concept/request-workplace-services.md) topics.
+    To fill the form, refer to [Requesting a workplace service](../workplace-case-management/request-workplace-services.md) topics.
 
 6.  Select **Submit** to submit the request.
 
@@ -59,7 +59,7 @@ Submit a workplace service request on behalf of an employee for any reason. You 
 
 The workplace service request is submitted and a workplace case is created. Refresh the **All active cases** list to view the workplace case.
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -72,7 +72,7 @@ The workplace service request is submitted and a workplace case is created. Refr
 
 [Print a workplace case](print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 
 [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 

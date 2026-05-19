@@ -65,7 +65,7 @@ Roadmap view
 -   Green: Achieved
 -   Black/Dark gray: Upcoming
 
- **Note:** If the total number of item-level milestones, including the milestones for unscheduled items, exceeds 100, the item milestone indicators aren’t visible on the roadmap. You can work with your admin to change this number to a value of your preference. For more information, see [Update the display limit of items for Prioritization and Roadmap in Portfolio Planning](../task/update-items-display-limit-backlog-prioritization-roadmap.md).
+ **Note:** If the total number of item-level milestones, including the milestones for unscheduled items, exceeds 100, the item milestone indicators aren’t visible on the roadmap. You can work with your admin to change this number to a value of your preference. For more information, see [Update the display limit of items for Prioritization and Roadmap in Portfolio Planning](update-items-display-limit-backlog-prioritization-roadmap.md).
 
 </td><td>
 
@@ -84,5 +84,5 @@ Roadmap view
  ![Milestone indicator.](../../spw-roadmap/images/milestone-icon.png "Milestone indicator without label")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personalize roadmap view](../task/personalize-roadmap-view-portfolio-planning.md)
+</table>**Parent Topic:**[Personalize roadmap view](personalize-roadmap-view-portfolio-planning.md)
 

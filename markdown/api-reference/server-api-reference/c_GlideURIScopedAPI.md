@@ -22,9 +22,9 @@ For more information on using URIs:
 -   [Navigate by URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md)
 -   [Navigation stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_NavigationStack.md)
 
-See also: [GlideURI - Global](../../GlideURIGlobal/concept/GlideURIGlobalAPI.md#) .
+See also: [GlideURI - Global](GlideURIGlobalAPI.md#) .
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Scoped GlideURI - GlideURI\(\)
 

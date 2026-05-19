@@ -48,5 +48,5 @@ To enforce basic authentication on each request for an RSS feed, set the propert
 -   **[RSS title override](c_OverridingTheRSSTitle.md)**  
 You may optionally override the automatically generated title of the RSS feed by added the **sysparm\_title** parameter to the request URL.
 
-**Parent Topic:**[RSS web service](../topic/p_RSS.md)
+**Parent Topic:**[RSS web service](p_RSS.md)
 

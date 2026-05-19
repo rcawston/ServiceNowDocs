@@ -18,7 +18,7 @@ Viewing metrics enables you to understand historical data related to an alert's 
 ## Before you begin
 
 -   Ensure that you install the Operational Intelligence \(com.snc.sa.metric\) plugin.
--   Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](../../service-operations-workspace-itom/task/configure-alert-metrics-itom.md).
+-   Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](configure-alert-metrics-itom.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -54,5 +54,5 @@ Role required: evt\_mgmt\_admin
 **Related topics**  
 
 
-[View metric values in the Insights Explorer](view-metrics-explorer.md)
+[View metric values in the Insights Explorer](../metric-intelligence/view-metrics-explorer.md)
 

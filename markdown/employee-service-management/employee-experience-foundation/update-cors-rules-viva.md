@@ -106,5 +106,5 @@ List of headers that the browser is allowed to access from the request.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](../concept/configure-viva.md)
+**Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](configure-viva.md)
 

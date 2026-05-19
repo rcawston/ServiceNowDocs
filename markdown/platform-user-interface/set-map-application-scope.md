@@ -26,7 +26,7 @@ Role required: admin
 3.  From the Application list, select the required application.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](c_MapPages.md)
 
 **Related topics**  
 
@@ -41,5 +41,5 @@ Role required: admin
 
 [Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](scripting-for-map-pages.md)
 

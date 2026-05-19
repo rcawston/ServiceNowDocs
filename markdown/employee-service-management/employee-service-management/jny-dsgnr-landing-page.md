@@ -18,19 +18,19 @@ Journey designer uses Journey Accelerator and Lifecycle Events to create a unifi
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how Journey designer helps facilitate journey creation, management, and completion.](jny-dsgnr-explore.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how Journey designer helps facilitate journey creation, management, and completion.](../journey-designer/jny-dsgnr-explore.md)
 
 </td><td>
 
-[Install ![](../../../common/image/icon-install.png) Install the Journey designer app and its features.](jny-inst-config-overview.md)
+[Install ![](../../../common/image/icon-install.png) Install the Journey designer app and its features.](../journey-designer/jny-inst-config-overview.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Journey designer](jny-dsgnr-configuration.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Journey designer](../journey-designer/jny-dsgnr-configuration.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Managers, mentors, and employees work with journeys from the Employee Center.](jny-working-with-journeys.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Managers, mentors, and employees work with journeys from the Employee Center.](../journey-designer/jny-working-with-journeys.md)
 
 </td><td>
 
@@ -38,19 +38,19 @@ Journey designer uses Journey Accelerator and Lifecycle Events to create a unifi
 
 </td><td>
 
-[Journey plan configuration review and approval process ![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Create, manage, and use Journey designer plan configuration templates](jny-process-owners-maint.md)
+[Journey plan configuration review and approval process ![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Create, manage, and use Journey designer plan configuration templates](../journey-designer/jny-process-owners-maint.md)
 
 </td></tr><tr><td>
 
-[Journeys on Now Mobile ![](../image/icon-hrsd-mobile.png)](journeys-mobile-now.md)
+[Journeys on Now Mobile ![](../image/icon-hrsd-mobile.png)](../journey-designer/journeys-mobile-now.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor journey data in reports and dashboards.](../reference/jny-report-dashboards.md)
+[Analytics and Reporting Solutions ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor journey data in reports and dashboards.](../journey-designer/jny-report-dashboards.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like roles, fields, tables, and properties.](../reference/jny-dsnr-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like roles, fields, tables, and properties.](../journey-designer/jny-dsnr-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -59,7 +59,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

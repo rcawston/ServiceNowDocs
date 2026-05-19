@@ -23,7 +23,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
 ## About this task
 
-The Renewal insight engine skill evaluates individual product metrics, health metrics, health score trends, usage trends, and value scores to generate renewal assessments. The skill provides a granular analysis by evaluating data at the product level rather than using aggregated scores. The skill is automatically triggered by the [Now Assist for Telecommunications, Media and Technology \(TMT\) Support renewals and expansion](../concept/now-assist-tmt-renewal-analyzer.md) workflow and runs in two modes:
+The Renewal insight engine skill evaluates individual product metrics, health metrics, health score trends, usage trends, and value scores to generate renewal assessments. The skill provides a granular analysis by evaluating data at the product level rather than using aggregated scores. The skill is automatically triggered by the [Now Assist for Telecommunications, Media and Technology \(TMT\) Support renewals and expansion](now-assist-tmt-renewal-analyzer.md) workflow and runs in two modes:
 
 -   Engagement mode: Analyzes all products and health metrics for the overall engagement and generates the renewal likelihood, expansion potential, and up to three recommended actions for the engagement.
 -   Contract mode: Analyzes contract-specific products while also considering the overall engagement health and non-contract products, and generates the renewal likelihood, expansion potential, and up to three recommended actions for the contract.
@@ -36,7 +36,7 @@ The Renewal insight engine skill evaluates individual product metrics, health me
 
 3.  Select the user role that can use this skill and select **Save** to activate the skill.
 
-    The Renewal Insight Engine skill is automatically triggered when the [Now Assist for Telecommunications, Media and Technology \(TMT\) Support renewals and expansion](../concept/now-assist-tmt-renewal-analyzer.md) agentic workflow runs. When the workflow is completed, the following output is generated:
+    The Renewal Insight Engine skill is automatically triggered when the [Now Assist for Telecommunications, Media and Technology \(TMT\) Support renewals and expansion](now-assist-tmt-renewal-analyzer.md) agentic workflow runs. When the workflow is completed, the following output is generated:
 
     -   Renewal likelihood: The predicted renewal likelihood including an assessment such as Very High, High, Moderate Risk, At Risk, or Critical Risk, and the key factors that influenced the assessment.
     -   Expansion potential: The potential for account expansion including an assessment of Strong, Moderate, or Limited, the probability, and the target products identified for expansion.
@@ -46,5 +46,5 @@ The Renewal insight engine skill evaluates individual product metrics, health me
     ![Renewal analysis workflow - 2](../image/renewal-analysis-2.jpg)
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 

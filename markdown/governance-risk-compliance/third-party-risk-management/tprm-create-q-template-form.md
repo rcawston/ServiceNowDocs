@@ -39,7 +39,7 @@ Third-party risk area
 
 Select the third-party risk domain that applies to the type of third party that will receive the questionnaire or document request. For example, if you select the Security risk domain, then only third parties that are assigned that risk domain will receive the questionnaire or document request.
 
- For more information, see [Define a third-party risk domain](../task/tprm-risk-domain-define.md).
+ For more information, see [Define a third-party risk domain](tprm-risk-domain-define.md).
 
 </td></tr><tr><td>
 
@@ -83,17 +83,17 @@ Option to pre-populate the questionnaire with responses from a completed questio
 -   Answers of the attachment, duration, and signature type aren’t copied.
 -   The setting can’t be changed after the questionnaire is sent to the third party.
 
- To specify the maximum age for source questionnaires, configure the **Maximum age for reusing responses** `sn_vdr_risk_asmt.max_age_for_questionnaire_reuse` system property. See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+ To specify the maximum age for source questionnaires, configure the **Maximum age for reusing responses** `sn_vdr_risk_asmt.max_age_for_questionnaire_reuse` system property. See [Configure TPRM properties](tprm-properties-configure.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+</table>**Parent Topic:**[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 
 **Related topics**  
 
 
-[Create a questionnaire or document request template](../task/create-questionnaire-template.md)
+[Create a questionnaire or document request template](create-questionnaire-template.md)
 
-[Create a questionnaire or document request template using the Designer](../task/create-question-template.md)
+[Create a questionnaire or document request template using the Designer](create-question-template.md)
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 

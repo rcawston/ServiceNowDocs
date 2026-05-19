@@ -78,7 +78,7 @@ Function
 
 </th></tr></thead><tbody><tr><td>
 
-Contractor tasksEnsure that the Field Service Contractor Management plugin is active. For more information, see [Activate Field Service Contractor Management](../task/activate-contractor-management-plugin.md).
+Contractor tasksEnsure that the Field Service Contractor Management plugin is active. For more information, see [Activate Field Service Contractor Management](workforce-optimization-for-field-service/activate-contractor-management-plugin.md).
 
 Demo data is provided with this plugin.
 
@@ -96,5 +96,5 @@ Distance between task and contractorsMatching skills of contractors
 Only eligible for external contractor assignment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](../reference/components-inst-additional-plugin.md)
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
 

@@ -115,5 +115,5 @@ When users add CDC Vaccination Card attachments to their vaccine responses and s
 -   The confidence score is compared to the configured threshold
 -   The validation engine sets the Vaccine Review Outcomes based on whether the first and last names matched
 
-**Parent Topic:**[Automating vaccine response reviews with the Azure Form Recognizer service](../concept/automate-vaccine-validation-with-azure-form-recognizer.md)
+**Parent Topic:**[Automating vaccine response reviews with the Azure Form Recognizer service](automate-vaccine-validation-with-azure-form-recognizer.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 A supplier case is created. You can also track this supplier case from the Cases section of the Exception Tasks table.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
 

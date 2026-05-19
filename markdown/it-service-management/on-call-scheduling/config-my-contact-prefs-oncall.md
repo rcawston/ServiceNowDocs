@@ -123,5 +123,5 @@ The time zone of your availability. **Note:** The time zone is not editable and 
     **Note:** Admins can specify overrides of your contact methods for all members of your group. Override settings appear on the **Contact Overrides** tab.
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 

@@ -52,5 +52,5 @@ Role required: sn\_fin\_ops.specialist
 
 The email is sent to the recipients. You can view the details of the sent email in the **Emails** tab.
 
-**Parent Topic:**[Finance Operations Workspace Case Details page](../concept/case-details-fin-ops-ws.md)
+**Parent Topic:**[Finance Operations Workspace Case Details page](case-details-fin-ops-ws.md)
 

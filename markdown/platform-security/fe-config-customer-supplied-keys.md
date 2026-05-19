@@ -51,5 +51,5 @@ Review the system properties for the ephemeral public wrapping key that your ins
 -   **[Wrap your customer-supplied key](wrap-your-customer-supplied-key.md)**  
 Wrap your symmetric data encryption key with an ephemeral public wrapping key before you can upload it to your instance.
 
-**Parent Topic:**[Configuring Field Encryption](../concept/configuring-column-level-encryption.md)
+**Parent Topic:**[Configuring Field Encryption](configuring-column-level-encryption.md)
 

@@ -29,7 +29,7 @@ Click on a tile to get started.
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Threat Intelligence Security Center](../concept/integrating-threat-intelligence-security-center.md)
+[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Threat Intelligence Security Center](integrating-threat-intelligence-security-center.md)
 
 </td></tr><tr><td>
 
@@ -37,23 +37,23 @@ Click on a tile to get started.
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage your Threat Intelligence Security Center Library and objects.](../concept/threat-intelligence-security-center-library.md)
+[Use![](../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage your Threat Intelligence Security Center Library and objects.](threat-intelligence-security-center-library.md)
 
 </td><td>
 
-[Report Templates![](../../../reuse/icons/brand-icons/bus-case.svg)Manage and customize your Case Management Reports.](../concept/tisc-report-templates.md)
+[Report Templates![](../../../reuse/icons/brand-icons/bus-case.svg)Manage and customize your Case Management Reports.](tisc-report-templates.md)
 
 </td></tr><tr><td>
 
-[MITRE ATT&amp;CK Repository![](../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE ATT&amp;CK Repository Data.](../concept/tisc-mitre-att-ck-framework-overview.md)
+[MITRE ATT&amp;CK Repository![](../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE ATT&amp;CK Repository Data.](tisc-mitre-att-ck-framework-overview.md)
 
 </td><td>
 
-[TISC Data Archival](../concept/data-archival-process.md)Archive![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Data Archival and Destroy Rules.
+[TISC Data Archival](data-archival-process.md)Archive![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Data Archival and Destroy Rules.
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Threat Intelligence Security Center.](../concept/tisc-data-processing-functional-flow.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Threat Intelligence Security Center.](tisc-data-processing-functional-flow.md)
 
 </td></tr></tbody>
 </table>## Request apps on Store

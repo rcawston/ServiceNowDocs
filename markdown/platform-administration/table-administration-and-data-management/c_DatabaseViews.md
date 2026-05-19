@@ -54,14 +54,14 @@ You can still create additional ACLs on the database views. These ACLs are evalu
 
 Using the terms may cause unintended or undesirable performance. For more information, see the [MySQL reserved words document](https://dev.mysql.com/doc/refman/5.5/en/keywords.html).
 
--   **[Joining tables using database views](../task/c_CreatingDatabaseViews.md)**  
+-   **[Joining tables using database views](c_CreatingDatabaseViews.md)**  
 Join tables into a single view and then create a report based on that view.
--   **[Displaying function results in a database view](../task/displaying-function-results-in-a-database-view.md)**  
+-   **[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)**  
 Enhance the display of a database view by adding a function field to the output to display function results.
 -   **[Using disjunctions in complex queries](c_UseDisjunctionsInComplexQueries.md)**  
 ServiceNow performs conjunction \(AND\) statements before disjunction \(OR\) statements in a query.
--   **[Database views in the base system](../reference/r_DatabaseViewsInTheBaseSystem.md)**  
+-   **[Database views in the base system](r_DatabaseViewsInTheBaseSystem.md)**  
 Certain views are included in the base system with the Database Views and Database Views for Service Management plugins.
 
-**Parent Topic:**[ServiceNow AI Platform tables and data](../../../administer/general/concept/tables-fields-and-forms.md)
+**Parent Topic:**[ServiceNow AI Platform tables and data](tables-fields-and-forms.md)
 

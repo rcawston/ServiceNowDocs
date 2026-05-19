@@ -40,16 +40,16 @@ In this workflow:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create a consistent structure for knowledge articles|[Knowledge article templates](../concept/knowledge-article-templates.md)|Knowledge manager|
-|Create multiple knowledge bases for different groups within your organization|[Knowledge bases](../reference/set-up-knowledge-admin-user.md)|Knowledge administrator and manager|
-|Create a category structure for each knowledge base with any number of levels|[Knowledge article categories](../task/t_DefineAKnowledgeCategory.md)|Knowledge manager|
-|Define permissions per knowledge base|[User criteria](../concept/user-access-knowledge.md), [Scoped knowledge bases](../concept/scoped-knowledge-base-administration.md)|Knowledge administrator and manager|
-|Integrate with and search external knowledge sources|[External content integration feature](../concept/knowledge-external-content-integration.md) and [Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)|Administrator|
-|Create knowledge articles using generative AI|[Now Assist in Knowledge Management](../reference/now-assist-knowledge-management.md)|Knowledge contributor|
-|Import Word documents into knowledge articles and/or author knowledge in Word|[Knowledge Management - Add-in for Microsoft Word](../concept/knowledge-article-authoring-word.md), [Word document importing](../task/t_ImportADocument.md)|Knowledge contributor|
-|Subscribe to relevant articles|[Knowledge subscriptions](../concept/use-knowledge-subscriptions.md)|Knowledge user|
-|Provide feedback and rate articles|[Feedback and ratings](../reference/r_KnowledgeFeedback.md)|Knowledge user|
-|Maintain a high quality of content and enable constant improvement|[Article quality index \(AQI\)](../concept/use-article-quality-index.md)|Knowledge administrator \(creates AQI\), knowledge coach or domain expert \(performs AQI reviews\)|
-|Identify knowledge gaps and improve the content of your knowledge base|[Knowledge demand insights](../concept/knowledge-demand-insights.md)|Knowledge manager or domain expert|
-|Determine the usage of knowledge content and confirm that the proper processes and procedures are being followed for content creation|[Knowledge Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/knowledge-content-pack.md)|Knowledge manager|
+|Create a consistent structure for knowledge articles|[Knowledge article templates](knowledge-article-templates.md)|Knowledge manager|
+|Create multiple knowledge bases for different groups within your organization|[Knowledge bases](set-up-knowledge-admin-user.md)|Knowledge administrator and manager|
+|Create a category structure for each knowledge base with any number of levels|[Knowledge article categories](t_DefineAKnowledgeCategory.md)|Knowledge manager|
+|Define permissions per knowledge base|[User criteria](user-access-knowledge.md), [Scoped knowledge bases](scoped-knowledge-base-administration.md)|Knowledge administrator and manager|
+|Integrate with and search external knowledge sources|[External content integration feature](knowledge-external-content-integration.md) and [Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)|Administrator|
+|Create knowledge articles using generative AI|[Now Assist in Knowledge Management](../now-assist-in-knowledge-management/now-assist-knowledge-management.md)|Knowledge contributor|
+|Import Word documents into knowledge articles and/or author knowledge in Word|[Knowledge Management - Add-in for Microsoft Word](knowledge-article-authoring-word.md), [Word document importing](t_ImportADocument.md)|Knowledge contributor|
+|Subscribe to relevant articles|[Knowledge subscriptions](use-knowledge-subscriptions.md)|Knowledge user|
+|Provide feedback and rate articles|[Feedback and ratings](r_KnowledgeFeedback.md)|Knowledge user|
+|Maintain a high quality of content and enable constant improvement|[Article quality index \(AQI\)](use-article-quality-index.md)|Knowledge administrator \(creates AQI\), knowledge coach or domain expert \(performs AQI reviews\)|
+|Identify knowledge gaps and improve the content of your knowledge base|[Knowledge demand insights](knowledge-demand-insights.md)|Knowledge manager or domain expert|
+|Determine the usage of knowledge content and confirm that the proper processes and procedures are being followed for content creation|[Knowledge Management Platform Analytics Solutions](knowledge-content-pack.md)|Knowledge manager|
 

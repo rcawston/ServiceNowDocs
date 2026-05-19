@@ -97,7 +97,7 @@ Change the default mode for chatting
 
 </td><td>
 
-Determines the default mode for chatting, either synchronously \(Chat\) or asynchronously \(Messaging\).For information on how to set the default chat mode, see [Change the default chat mode for the Chat feature](../task/em-set-default-mode-of-chatting.md).
+Determines the default mode for chatting, either synchronously \(Chat\) or asynchronously \(Messaging\).For information on how to set the default chat mode, see [Change the default chat mode for the Chat feature](customer-self-service-and-omnichannel-engagement/em-set-default-mode-of-chatting.md).
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Email notifications for unread messages
 
 </td><td>
 
-Determines the email settings for sending email summaries for unread messages.For more information on how to enable email notifications for a specified duration, see[Configure email notifications for unread chat messages](../task/setup-email-notification-unread-message.md).
+Determines the email settings for sending email summaries for unread messages.For more information on how to enable email notifications for a specified duration, see[Configure email notifications for unread chat messages](customer-self-service-and-omnichannel-engagement/setup-email-notification-unread-message.md).
 
 **Note:** The green color next to **Status** indicates that the email notification is enabled.
 

@@ -34,5 +34,5 @@ The Walk-up Experience service channel is viewed and configured through Advanced
     For more information regarding Advanced Work Assignment service channels, including configuring capacity and utilization, inbox layout, and overriding agent capacity for selected agents, refer to [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
 

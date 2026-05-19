@@ -54,10 +54,10 @@ If the repository encounters an error while attempting to resolve a credentials 
 
     A property called Enable External Credential Storage \[com.snc.use\_external\_credentials\] enables or disables the External Credential Storage plugin after it’s activated. The property is located in **Discovery Definition** &gt; **Properties** and **Orchestration** &gt; **MID Server Properties**, and is enabled when you activate the plugin.
 
-    If you disable external credential storage with the system property, the system automatically sets all the external credentials to inactive in the instance. If you re-enable the feature with this property, the system doesn’t reset the external credential records to active. You must reactivate each [credential record](../reference/r_WindowsCredentialsForm.md#) manually.
+    If you disable external credential storage with the system property, the system automatically sets all the external credentials to inactive in the instance. If you re-enable the feature with this property, the system doesn’t reset the external credential records to active. You must reactivate each [credential record](r_WindowsCredentialsForm.md#) manually.
 
 
--   **[Request external credential storage for Discovery and Orchestration](../task/t_ActivateExtrnlCredStoragePlugIn.md)**  
+-   **[Request external credential storage for Discovery and Orchestration](t_ActivateExtrnlCredStoragePlugIn.md)**  
 The External Credential Storage plugin is available by request.
 -   **[External credential storage configuration](external_cred_storage_configuration.md#)**  
 Configure your instance to obtain credentials from a remote repository.
@@ -66,5 +66,5 @@ The MID Server integration with the CyberArk vault enables ServiceNow® Orchestr
 -   **[OAuth 2.0 authentication via MID Server using external credential storage](oauth-2-0-support-in-external-credential.md)**  
 Store OAuth 2.0 credentials-client ID and client secret-in the CyberArk vault instead of the ServiceNow instance. The MID Server gets the credentials from the CyberArk vault, when required to get the OAuth token. The token is stored in the MID Server and refreshed automatically upon expiry.
 
-**Parent Topic:**[Get started with credentials](../reference/credentials-getting-started.md)
+**Parent Topic:**[Get started with credentials](credentials-getting-started.md)
 

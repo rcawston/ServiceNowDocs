@@ -15,7 +15,7 @@ breadcrumb: [Orchestration examples, Classic Orchestration, ServiceNow AI Platfo
 
 A set of six Orchestration Active Directory activities enables organizations to automate their on-boarding/off-boarding processes with auditable, self-documenting workflows that save time and eliminate mistakes.
 
-The activities in the [Active Directory activity pack](../../../administer/orchestration-activities/concept/c_OrchActiveDirectoryActivities.md) are designed to manage user accounts and reset user passwords. The following activities cover the most common use cases administrators encounter when managing Active Directory user accounts:
+The activities in the [Active Directory activity pack](c_OrchActiveDirectoryActivities.md) are designed to manage user accounts and reset user passwords. The following activities cover the most common use cases administrators encounter when managing Active Directory user accounts:
 
 -   Create AD User Account
 -   Update AD User Account
@@ -213,7 +213,7 @@ An LDAP filter string that defines the search parameters. Use any valid LDAP fil
 
     ![Querying AD for user accounts](../image/WorkflowExample3.png "Querying AD for user accounts")
 
-    The Query AD activity returns its results as a JSON string in the workflow [data bus](../../../administer/orchestration-activity-designer/concept/c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
+    The Query AD activity returns its results as a JSON string in the workflow [data bus](c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
 
 21. Drag a standard If activity from the Conditions folder in the **Core** tab and drop it onto the transition between Query AD and Update AD Object.
 

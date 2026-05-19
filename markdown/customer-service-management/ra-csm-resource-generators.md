@@ -17,7 +17,7 @@ Resource generators provide resources such as a knowledge article, a set of case
 
 Another way to think of a resource generator is as a function with inputs and outputs. For example, you can create a resource generator that predicts a knowledge article and then use that knowledge article as a recommended action for a case.
 
-You can select a resource generator from the list or create a resource generator. For a complete list of resource generators that are included with the Recommended Actions application, see [Components installed with Recommended Actions](../reference/ra-csm-installed-components.md).
+You can select a resource generator from the list or create a resource generator. For a complete list of resource generators that are included with the Recommended Actions application, see [Components installed with Recommended Actions](ra-csm-installed-components.md).
 
 ## Resource generator types
 
@@ -200,5 +200,5 @@ The **sn\_nb\_action\_adv.similarity\_prediction.timeout** system property contr
 **Related topics**  
 
 
-[Create a resource generator in Recommended Actions](../task/ra-csm-resource-generators-create.md)
+[Create a resource generator in Recommended Actions](ra-csm-resource-generators-create.md)
 

@@ -126,5 +126,5 @@ Top-level parent entity, or industrial site, where the device is located or assi
 10. Select **Proceed**.
 
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 

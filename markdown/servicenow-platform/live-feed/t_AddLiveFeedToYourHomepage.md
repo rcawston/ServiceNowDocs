@@ -32,5 +32,5 @@ Role required: none
     **Note:** Administrators can add Live Feed to a global homepage to make it available for all homepage users by default. Users with any role can add Live Feed to their homepage; however, administrators can restrict this ability.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](r_LiveFeedUIOverview.md)
 

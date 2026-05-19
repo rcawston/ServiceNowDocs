@@ -100,5 +100,5 @@ Summary of rounding options:
 |-2.5|-3|-2|-2|-3|-3|-2|-2|
 |-5.5|-6|-5|-5|-6|-6|-5|-6|
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 

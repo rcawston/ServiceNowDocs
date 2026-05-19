@@ -57,7 +57,7 @@ Success goal
 
 </td><td>
 
-Success goal associated to the maturity item. For more information about creating a success goal, see [Create success goals for Software Asset Management](../task/create-success-goals.md).
+Success goal associated to the maturity item. For more information about creating a success goal, see [Create success goals for Software Asset Management](create-success-goals.md).
 
 </td></tr><tr><td>
 

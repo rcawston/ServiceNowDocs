@@ -211,5 +211,5 @@ Use this locator when you want to capture data from an emulator screen in the ta
     ![Screen and element match.](../image/terminal-connector-match-all.png)
 
 
-**Parent Topic:**[Configure the Terminal connector](../concept/configure-terminal-connector.md)
+**Parent Topic:**[Configure the Terminal connector](configure-terminal-connector.md)
 

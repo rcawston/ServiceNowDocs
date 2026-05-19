@@ -31,8 +31,8 @@ These properties set limits on breakdown elements and indicators, mostly in the 
 A chart refers here to a graphical component of a Performance Analytics widget or the Analytics Hub. These properties apply only to the Core UI, not visualizations in configurable workspaces.
 -   **[Data collector Performance Analytics properties](pa-dc-props.md)**  
 Data collector properties enable you to configure various limits for Performance Analytics data collection. The properties are configured to safeguard the data collection process. The default values are appropriate for most environments.
--   **[Collected scores and com.snc.pa.breakdown\_element\_cutoff](../concept/collected-element-display-cutoff.md)**  
+-   **[Collected scores and com.snc.pa.breakdown\_element\_cutoff](collected-element-display-cutoff.md)**  
 The elements of a breakdown that the Analytics Hub and KPI Details display for a selected date depend on the number of elements and the value of **com.snc.pa.breakdown\_element\_cutoff**.
 
-**Parent Topic:**[Performance Analytics reference](../concept/performance-analytics-reference.md)
+**Parent Topic:**[Performance Analytics reference](performance-analytics-reference.md)
 

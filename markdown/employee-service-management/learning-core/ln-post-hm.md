@@ -21,7 +21,7 @@ Click a tile to view the complete details of a specific catalog such as course i
 
 ## Learning Sources
 
-Click a source link to open the learning system source record in [Enterprise Service Management Integrations Framework](hr-integrations-framework.md).
+Click a source link to open the learning system source record in [Enterprise Service Management Integrations Framework](../hr-service-delivery/hr-integrations-framework.md).
 
 ## Catalogs
 

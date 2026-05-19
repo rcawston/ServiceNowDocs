@@ -31,5 +31,5 @@ For more information on the dashboard components, see [HR Success Dashboard indi
 
 For more information on the KPI definitions and formulas, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](measuring-performance-success-dashboard.md)
 

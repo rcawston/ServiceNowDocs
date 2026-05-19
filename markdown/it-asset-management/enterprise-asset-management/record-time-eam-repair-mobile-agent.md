@@ -52,5 +52,5 @@ Role required: asset\_technician
 
 The Record time form is saved and the time card is added to the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on an enterprise asset repair task using the Mobile Agent application](../concept/record-time-worked-repair-task-mobile-agent-eam.md)
+**Parent Topic:**[Record time worked on an enterprise asset repair task using the Mobile Agent application](record-time-worked-repair-task-mobile-agent-eam.md)
 

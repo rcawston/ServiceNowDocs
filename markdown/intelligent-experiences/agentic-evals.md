@@ -25,7 +25,7 @@ Agentic evaluations enable you to test agentic AI assets against defined dataset
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the roles, parser tool for custom metrics, and the results page.](../reference/ref-aia-eval.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the roles, parser tool for custom metrics, and the results page.](ref-aia-eval.md)
 
 </td></tr></tbody>
 </table>Automated evaluations for agentic AI are a structured quality assurance capability for agentic AI assets built in AI Agent Studio. Each evaluation run tests your agents against a defined dataset, applies LLM-powered judges to score key quality dimensions, and surfaces issues with recommended fixes. Use automated evaluations to get objective, explainable evidence that your agentic AI is ready to deploy.

@@ -55,7 +55,7 @@ Supplier Information
 
 </td><td>
 
-Displays information about the supplier.For more information, see [View information on supplier cases](../concept/supp-info-tab.md).
+Displays information about the supplier.For more information, see [View information on supplier cases](supp-info-tab.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Shows all the supplier cases associated with the interaction record.
 
     |UI action|Description|
     |---------|-----------|
-    |Create Supplier Case|Creates a new supplier case. For more information, see [Create New Supplier Case form](../reference/new-supplier-case.md).|
+    |Create Supplier Case|Creates a new supplier case. For more information, see [Create New Supplier Case form](new-supplier-case.md).|
     |End Chat|Ends the current chat session.|
     |Save|Saves any updates you made to the chat information.|
     |More actions icon \(![More actions icon.](../image/more-actions-icon.png)\)|Select **Associate Record** to associate an interaction to a supplier case.|
@@ -95,34 +95,34 @@ Shows all the supplier cases associated with the interaction record.
 
 The incoming chat request from the Supplier Manager Workspace Inbox is accepted and a chat session with the supplier contact is initiated.
 
-**Parent Topic:**[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+**Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 
 **Related topics**  
 
 
 [Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
-[Manage supplier details](../concept/supp-ws-details-page.md)
+[Manage supplier details](supp-ws-details-page.md)
 
-[Manage internal stakeholders](../concept/manage-internal-stakeholders.md)
+[Manage internal stakeholders](manage-internal-stakeholders.md)
 
-[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
-[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
 [Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
-[Overall supplier dashboard](../concept/overall-supplier-db.md)
+[Overall supplier dashboard](overall-supplier-db.md)
 
 [Create supplier case from Universal Request](create-supplier-case.md)
 
 [Emails view for supplier managers](enabling-emails-view-for-contacts.md)
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
 

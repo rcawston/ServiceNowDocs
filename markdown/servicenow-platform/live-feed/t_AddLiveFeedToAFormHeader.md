@@ -48,5 +48,5 @@ Role required: admin
 
 The **Live Feed** button appears on the overflow menu of the form header.
 
-**Parent Topic:**[Configure record feeds](../concept/c_ConfigureRecordFeeds.md)
+**Parent Topic:**[Configure record feeds](c_ConfigureRecordFeeds.md)
 

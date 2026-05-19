@@ -34,7 +34,7 @@ As a manager, you can do the following actions:
 
 As an administrator, you can set the threshold percentages and change the formulas for calculating schedule adherence and conformance.
 
-As an agent, you can clock-in to and clock-out of your work shift. For more information, see [Service Operations Workspace - Scheduling](../../service-operations-workspace/concept/itsm-sow-workspace-scheduling.md).
+As an agent, you can clock-in to and clock-out of your work shift. For more information, see [Service Operations Workspace - Scheduling](../service-operations-workspace/itsm-sow-workspace-scheduling.md).
 
 Here's a typical schedule adherence and conformance workflow:
 
@@ -48,13 +48,13 @@ Here's a typical schedule adherence and conformance workflow:
     6.  At the end-of-the-day, the agent's time worked summary is generated with key performance indicators \(KPIs\), such as Start Time, End Time, Planned Work, Time Not Worked, Available Non Planned Time, Time Worked, and Adherence%, Conformance %​.
 3.  The agent's manager logs in to Manager Workspace to view the agent's time worked in the **Team Calendar**. The manager can also view the agent's actual time worked and working pattern for all historical days. If required, the manager can coach the agent to a desired performance that fits in with the team culture.
 
--   **[Monitor schedule adherence of your agents](../task/configurable-workspace-view-schedule-adherence-itsm.md)**  
+-   **[Monitor schedule adherence of your agents](configurable-workspace-view-schedule-adherence-itsm.md)**  
 Evaluate whether or not your agents are adhering to their assigned schedules. Look for areas where agent activities that do not offer much value can be reduced or eliminated and fine-tune your staffing levels requirements based on their adherence.
--   **[Use time-worked summary to analyze agent schedule adherence and conformance](../task/analyze-configurable-workspace-time-worked-summary-itsm.md)**  
+-   **[Use time-worked summary to analyze agent schedule adherence and conformance](analyze-configurable-workspace-time-worked-summary-itsm.md)**  
 Analyze if your teams are adhering to planned schedules. Use historical adherence to see how well your agents have followed their schedules in the past.
--   **[Schedule adherence extension points in Workforce Optimization for ITSM](../reference/extension-points-configurable-schedule-adherence-itsm.md)**  
+-   **[Schedule adherence extension points in Workforce Optimization for ITSM](extension-points-configurable-schedule-adherence-itsm.md)**  
 Use the schedule adherence extension points to call custom scripts for agent schedule adherence and conformance.
--   **[Configure properties for schedule adherence and conformance](../reference/configure-adherence-parameters-wfo-itsm.md)**  
+-   **[Configure properties for schedule adherence and conformance](configure-adherence-parameters-wfo-itsm.md)**  
 Configure schedule adherence properties to calculate the adherence and conformance of your agents so that you can improve the operational efficiency of your organization.
 
 **Parent Topic:**[Scheduling in Workforce Optimization for ITSM](explore-schedule-configurable-wfo-itsm.md)

@@ -15,7 +15,7 @@ breadcrumb: [Tracked analytics fields and cookies, User privacy, tracking, and c
 
 Usage Insights collects data from web applications. These tables list the fields that are tracked. Reports and charts are generated from these fields.
 
-For more information about using the data, see [Viewing user analytics](../concept/viewing-user-data.md).
+For more information about using the data, see [Viewing user analytics](viewing-user-data.md).
 
 ## Collected data according to web session
 
@@ -350,5 +350,5 @@ basic tracking
 |----|-----------|-------------------|
 |Property Name &amp; Value |Key value collection of property names and values |\{“Language” : “English”\} |
 
-**Parent Topic:**[Tracked analytics fields and cookies](../concept/uxa-tracked-fields-and-cookies.md)
+**Parent Topic:**[Tracked analytics fields and cookies](uxa-tracked-fields-and-cookies.md)
 

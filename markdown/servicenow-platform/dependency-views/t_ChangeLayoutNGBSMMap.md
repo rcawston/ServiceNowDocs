@@ -35,7 +35,7 @@ Role required: none
         **Related Services** displays application services related to the CIs currently displaying in the map. If Event Management is activated then technical services and manual services are included. You can double-click a service to display the map in the Event Management dashboard.
 
 
-**Parent Topic:**[Use Dependency Views](../topic/p_UseNGBSM.md)
+**Parent Topic:**[Use Dependency Views](p_UseNGBSM.md)
 
 **Related topics**  
 

@@ -17,13 +17,13 @@ Configure the Knowledge Demand Insights feature to identify which topics are mis
 
 ## Before you begin
 
-Activate the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](../concept/predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](../reference/additional-plugins-km.md).
+Activate the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\). For more information, see [Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md) and [Additional plugins for Knowledge Management](additional-plugins-km.md).
 
 ## About this task
 
 To configure the Knowledge Demand Insights feature, use the Knowledge Management guided setup. The guided setup takes you through the entire setup and configuration process.
 
-This task provides general steps to configure the Knowledge Demand Insights feature. For more information about the feature, see [Knowledge demand insights](../concept/knowledge-demand-insights.md).
+This task provides general steps to configure the Knowledge Demand Insights feature. For more information about the feature, see [Knowledge demand insights](knowledge-demand-insights.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ This task provides general steps to configure the Knowledge Demand Insights feat
     **Note:** If no assignment rules are configured, a knowledge admin or knowledge manager can later use the Feedback Management feature in the Knowledge module to manually assign a feedback task.
 
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 

@@ -91,7 +91,7 @@ Options available on the card
 
 Organizations with Contact Tracing and the Vaccination Status application can view vaccination statuses on the **Exposed Contacts** list and contact tracing visualization. The **Vaccinated** label on a card indicates that the user is vaccinated.
 
-For more information, see [Configure contact tracing visualization to show vaccination status](../task/add-vaccination-status-to-case-visualization.md).
+For more information, see [Configure contact tracing visualization to show vaccination status](add-vaccination-status-to-case-visualization.md).
 
 ![Contact tracing visualization area with examples of vaccinated contacts.](../image/contact-tracing-visualization-vaccine-status.png "Potentially exposed contacts with Vaccinated status")
 
@@ -123,5 +123,5 @@ Vaccination filter
 Case managers with the sn\_imt\_vaccine.vaccine\_profile\_reader role can filter exposed contacts based on their vaccination status. In the contact tracing visualization, click **Filter**. Select the **Vaccinated** check box to hide contacts who are not vaccinated. Clear the check box to remove the filter and show all contacts.**Note:** The **Vaccinated** filter is visible to case managers without the sn\_imt\_vaccine.vaccine\_profile\_reader role but it does not reveal any vaccination data. Selecting the check box \(without the role\) hides all contacts as if none of them were vaccinated because the user does not have the necessary permissions to see vaccination statuses.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+</table>**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](exposure-case-management.md)
 

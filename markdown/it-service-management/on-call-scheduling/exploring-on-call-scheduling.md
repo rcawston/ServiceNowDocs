@@ -62,7 +62,7 @@ Use the calendar to view or select a shift. You can set a day, week, or month vi
 
 </td><td>
 
-[View my On-Call calendar on my calendar app](../task/view-my-schedule-on-my-app-oncall.md)
+[View my On-Call calendar on my calendar app](view-my-schedule-on-my-app-oncall.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Use any one of the multiple channels such as Slack, Microsoft Teams, mobile push
 
 </td><td>
 
-[Configure my availability and contact preferences](../task/config-my-contact-prefs-oncall.md)
+[Configure my availability and contact preferences](config-my-contact-prefs-oncall.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Generate escalation reports, shift reports, and performance reports.
 
 </td><td>
 
-[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+[Viewing On-Call Scheduling reports](viewing-reports.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Download and use the Mobile agent to perform all these activities on the go.
 
 </td><td>
 
-[Getting started with the On-Call Scheduling mobile app](../task/mobile-getting-started-oncall.md)
+[Getting started with the On-Call Scheduling mobile app](mobile-getting-started-oncall.md)
 
 </td><td>
 
@@ -131,7 +131,7 @@ itil, rota\_manager
 </td></tr></tbody>
 </table>## Redirection of UI16 module links to Service Operations Workspace
 
-If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the On-Call Scheduling module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../../product/service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the On-Call Scheduling module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../service-operations-workspace/redirect-ui16-module-links-sow.md).
 
 **Note:** For new instances, this redirection configuration is automatically available in the base system. For upgrade instances, administrators can configure the redirection behavior from the SOW Admin Center.
 

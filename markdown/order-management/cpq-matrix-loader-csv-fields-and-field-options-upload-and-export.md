@@ -436,5 +436,5 @@ To export a product picker, click fields in CPQ Admin. Click **Product Pickers**
 
 [Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
 
-[Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md)
+[Matrix Loader: CSV table upload](cpq-matrix-loader-csv-table-upload.md)
 

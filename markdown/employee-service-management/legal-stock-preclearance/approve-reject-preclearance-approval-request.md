@@ -46,5 +46,5 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 -   If you approve the request on a holiday, the approval validity starts from the next business day.
 -   If you reject the request, the requester cannot perform any securities transactions.
 
-**Parent Topic:**[Submitting Legal Stock Preclearance requests](../concept/submit-legal-stock-reqs.md)
+**Parent Topic:**[Submitting Legal Stock Preclearance requests](submit-legal-stock-reqs.md)
 

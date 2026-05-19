@@ -57,7 +57,7 @@ When a vulnerability is reported, it is opened in the **New** state, marking the
 
     The source of the vulnerability is the Importance and impact tolerance assessment. Therefore, the **Source** field on the form shows the source as Importance and impact assessment and the **Source table** field on the form shows the table as Importance and impact tolerance assessment.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](create-new-op-vul-form.md).
 
 8.  Select **Save**.
 

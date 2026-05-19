@@ -46,5 +46,5 @@ If your software has a lease end date defined, and the software status is **Inst
     **Important:** If lease extensions in your organization require approval, make sure the approver is available and has enough time to process your extension request. If the extension cannot be approved before the original end date expires, the software is revoked.
 
 
-**Parent Topic:**[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)
+**Parent Topic:**[Client Software Distribution using Integration Hub](csd-integrationhub.md)
 

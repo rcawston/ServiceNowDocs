@@ -53,7 +53,7 @@ Role required: content\_admin or admin
 **Related topics**  
 
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](c_ContentBlocks.md)
 
 [Configure a content block](t_CreateAContentBlock.md)
 

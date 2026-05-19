@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a characteristic](../reference/create-entitlement-template-characteristic.md)
+[Create a characteristic](create-entitlement-template-characteristic.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ Assign roles to users. Use this feature to grant the sn\_customerservice\_manage
 
 </td></tr><tr><td>
 
-[Create customer accounts](../../customer-service-management/task/import-create-csm-accounts.md)**Note:** On the Accounts form, to view the customer contracts, remove the contract-related lists and configure the customer contracts related list.
+[Create customer accounts](import-create-csm-accounts.md)**Note:** On the Accounts form, to view the customer contracts, remove the contract-related lists and configure the customer contracts related list.
 
 </td><td>
 
@@ -57,7 +57,7 @@ Create an account and associate it to a customer contract.
 
 </td></tr><tr><td>
 
-[Create a consumer record](../../customer-service-management/task/create-a-consumer-record.md)
+[Create a consumer record](create-a-consumer-record.md)
 
 </td><td>
 
@@ -65,7 +65,7 @@ Create a consumer record in Customer Service Management. A consumer can be assoc
 
 </td></tr><tr><td>
 
-[Create a sold product](../../customer-service-management/task/create-sold-item.md)
+[Create a sold product](create-sold-item.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Create a record for a product that is sold to an account or a consumer. A sold p
 
 </td></tr><tr><td>
 
-[Create an install base item](../../customer-service-management/task/create-install-base-item.md)
+[Create an install base item](create-install-base-item.md)
 
 </td><td>
 

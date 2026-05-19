@@ -66,5 +66,5 @@ Option for including the planned cost of a confirmed or allocated plan.The optio
  By default, the option isn’t selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

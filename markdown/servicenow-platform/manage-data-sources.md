@@ -15,23 +15,23 @@ Data management is critical to success in all aspects of your business. Platform
 
 <table id="table_pg4_pjh_hvb" class="nav-card"><tbody><tr><td>
 
-[Instance Data Replication IDR ![](../../../reuse/icons/brand-icons/bus-database.svg) Synchronize data between instances in one-to-one or one-to-many database relationships.](../../instance-data-replication/concept/instance-data-replication.md)
+[Instance Data Replication IDR ![](../../../reuse/icons/brand-icons/bus-database.svg) Synchronize data between instances in one-to-one or one-to-many database relationships.](instance-data-replication-idr/instance-data-replication.md)
 
 </td><td>
 
-[MetricBase ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Simplify working with large amounts of data and create time-based analyses.](../../metricbase/concept/metricbase.md)
+[MetricBase ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Simplify working with large amounts of data and create time-based analyses.](metricbase/metricbase.md)
 
 </td><td>
 
-[MID Server ![](../../../reuse/icons/brand-icons/bus-server.svg) Communicate and transmit data between ServiceNow instances and external applications.](../../../product/mid-server/concept/mid-server-landing.md)
+[MID Server ![](../../../reuse/icons/brand-icons/bus-server.svg) Communicate and transmit data between ServiceNow instances and external applications.](mid-server/mid-server-landing.md)
 
 </td></tr><tr><td>
 
-[Financial Services Remote Tables ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg) Connect your instance on the ServiceNow AI Platform to third-party sources.](../../remote-tables/concept/remote-tables.md)
+[Financial Services Remote Tables ![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg) Connect your instance on the ServiceNow AI Platform to third-party sources.](remote-tables/remote-tables.md)
 
 </td><td>
 
-[Entity View Action Mapper \(EVAM\) ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Standardize and chart out all data from multiple sources.](../../evam/concept/entity-view-action-mapper.md)
+[Entity View Action Mapper \(EVAM\) ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Standardize and chart out all data from multiple sources.](entity-view-action-mapper-evam/entity-view-action-mapper.md)
 
 </td><td>
 

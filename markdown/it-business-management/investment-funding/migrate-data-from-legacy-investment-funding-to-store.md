@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Execute Now**.
 
 
-**Parent Topic:**[Upgrading legacy Investment Funding to Store application](../concept/upgrading-legacy-investment-funding-to-store.md)
+**Parent Topic:**[Upgrading legacy Investment Funding to Store application](upgrading-legacy-investment-funding-to-store.md)
 

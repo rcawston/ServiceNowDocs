@@ -29,7 +29,7 @@ Role required: admin
 
 2.  Select **Mobile push** as your preferred notification channel while defining the escalation settings for a user group.
 
-    For information on escalation settings, see [Escalation and reminder settings for rosters](../reference/escalation-remind-settings-oncall.md).
+    For information on escalation settings, see [Escalation and reminder settings for rosters](escalation-remind-settings-oncall.md).
 
 3.  For the required user group, create a trigger rule that uses the On-Call: Assign by Acknowledgement trigger workflow.
 
@@ -38,5 +38,5 @@ Role required: admin
     For information on creating a trigger rule, see [Create an escalation trigger rule](create-trigger-rule-oncall.md).
 
 
-**Parent Topic:**[Configuring On-Call Scheduling](../../user-administration/concept/configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](configuration.md)
 

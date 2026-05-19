@@ -41,9 +41,9 @@ Content Experiences plugin activates these related plugins if they are not alrea
 **Related topics**  
 
 
-[Components installed with Content Experiences](../reference/installed-with-content-auto.md)
+[Components installed with Content Experiences](installed-with-content-auto.md)
 
-[Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md)
+[Properties installed with Content Experiences](properties-installed-with-content-auto.md)
 
-[Creating campaigns](../concept/ecpro-campaigns.md)
+[Creating campaigns](ecpro-campaigns.md)
 

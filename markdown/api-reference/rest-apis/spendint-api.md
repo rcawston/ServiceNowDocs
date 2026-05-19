@@ -19,7 +19,7 @@ This API requires the Procurement Integration Framework \(com.glide.sn\_spend\_i
 
 To access this API, you must have the sn\_spend\_intg.procurement\_integrator role.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 
 ## Spendint API - POST /sn\_spend\_intg/spendint/catalog
 

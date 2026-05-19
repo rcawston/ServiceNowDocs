@@ -23,7 +23,7 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-You can activate GAF to have AI agents use indexed clusters that perform LLM executions on representative records rather than all records. GAF is used by some AI agents and agentic workflows to work optimally. For more information about GAF and how it works, see [Group Action Framework](../concept/group-action-framework.md).
+You can activate GAF to have AI agents use indexed clusters that perform LLM executions on representative records rather than all records. GAF is used by some AI agents and agentic workflows to work optimally. For more information about GAF and how it works, see [Group Action Framework](group-action-framework.md).
 
 You can have different GAF configurations for different agentic workflows and Now Assist applications. You must configure each agentic workflow or application separately.
 

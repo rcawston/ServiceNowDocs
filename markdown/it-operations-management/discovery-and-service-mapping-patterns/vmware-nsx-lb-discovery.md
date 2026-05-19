@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the VMware NSX Advanced load balancer discovery pattern to find VMware NSX load balancers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-The pattern uses a set of REST APIs to find the load balancers. It is triggered by the NSX HTTP classifier that responds to the **HTTP - Classify** probe. For more information, see [HTTP device discovery](../../discovery/concept/http-discovery.md).
+The pattern uses a set of REST APIs to find the load balancers. It is triggered by the NSX HTTP classifier that responds to the **HTTP - Classify** probe. For more information, see [HTTP device discovery](../itom-visibility/http-discovery.md).
 
 **Note:** There are two patterns available. The legacy VMware NSX Load Balancer pattern is for the S series. The new VMware NSX-T Load Balancer pattern is for the T series. The functionality and collected information remain the same.
 
@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a discovery schedule**
 
-    Create the discovery schedule for VMware NSX load balancer discovery or run a quick discovery on the IP address of the NSX Main Controller. For more information about running a quick discovery, see [Run a Quick Discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    Create the discovery schedule for VMware NSX load balancer discovery or run a quick discovery on the IP address of the NSX Main Controller. For more information about running a quick discovery, see [Run a Quick Discovery](../discovery/t_CreateADiscoverySchedule.md#).
 
 
 ## Data collected by Discovery for VMware NSX Advanced load balancer
@@ -153,5 +153,5 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

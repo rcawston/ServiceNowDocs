@@ -44,7 +44,7 @@ Configure the list layout
 
 If a reference field in a list displays as \(empty\) instead of the expected value, it is due to another field in the list containing an incorrect reference to either an orphaned record or a sys\_id that does not exist in the referenced table. The solution is to remove the incorrect reference data from any reference fields in that table.
 
-**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](../concept/c_ListConfiguration.md)
+**Parent Topic:**[Configuring lists on the ServiceNow AI Platform](c_ListConfiguration.md)
 
 ## Add an extended field to a base table list
 

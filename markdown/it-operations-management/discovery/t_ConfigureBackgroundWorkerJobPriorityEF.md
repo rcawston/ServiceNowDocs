@@ -48,5 +48,5 @@ By default, Event Framework jobs have a priority of 100. If Discovery is preempt
 4.  Select **Update**.
 
 
-**Parent Topic:**[Optimizing Discovery load for Event Framework](../concept/c_FineTuneDiscoLoadEF.md)
+**Parent Topic:**[Optimizing Discovery load for Event Framework](c_FineTuneDiscoLoadEF.md)
 

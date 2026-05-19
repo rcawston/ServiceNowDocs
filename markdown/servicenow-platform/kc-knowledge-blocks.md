@@ -17,15 +17,15 @@ Knowledge blocks are reusable pieces of content secured by customizable user cri
 
 To use knowledge blocks, a knowledge administrator or manager must enable the knowledge blocks feature for each knowledge base.
 
-[Enable knowledge blocks in the Knowledge Center](../task/kc-enable-knowledge-blocks.md)
+[Enable knowledge blocks in the Knowledge Center](kc-enable-knowledge-blocks.md)
 
 Knowledge contributors can create knowledge blocks and insert them into articles in a knowledge base. Knowledge blocks aren’t supported for wiki formats. By default, the knowledge block doesn't show files attached to it. However, you can see that images and text are visible on knowledge bases created from block files.
 
--   [Create a knowledge block in the Knowledge Center](../task/kc-create-a-knowledge-block.md)
--   [Add a knowledge block to a knowledge article](../task/kc-add-knowledge-blocks-to-a-knowledge-article.md)
--   [Edit a knowledge block in a knowledge article](../task/kc-edit-knowledge-block-in-a-knowledge-article.md)
+-   [Create a knowledge block in the Knowledge Center](kc-create-a-knowledge-block.md)
+-   [Add a knowledge block to a knowledge article](kc-add-knowledge-blocks-to-a-knowledge-article.md)
+-   [Edit a knowledge block in a knowledge article](kc-edit-knowledge-block-in-a-knowledge-article.md)
 
-Knowledge block content visibility in an article is controlled by criteria set at both the knowledge base and knowledge block levels. See [Select user criteria for a knowledge block](../../knowledge-management/task/select-user-criteria-for-knowledge-block.md) for more information.
+Knowledge block content visibility in an article is controlled by criteria set at both the knowledge base and knowledge block levels. See [Select user criteria for a knowledge block](knowledge-management/select-user-criteria-for-knowledge-block.md) for more information.
 
 Knowledge blocks don't show up in a search until they’re published. Unpublished ones are hidden until they’re ready.
 
@@ -47,7 +47,7 @@ With knowledge blocks, you can create a single knowledge article with location-s
 
 ## Activation information
 
-To use knowledge blocks in your application, you must [activate knowledge blocks](../../knowledge-management/task/activate-knowledge-blocks.md). For information on what components are installed with the feature, see [Components installed with knowledge blocks](../../knowledge-management/reference/components-installed-with-knowledge-blocks.md).
+To use knowledge blocks in your application, you must [activate knowledge blocks](knowledge-management/activate-knowledge-blocks.md). For information on what components are installed with the feature, see [Components installed with knowledge blocks](knowledge-management/components-installed-with-knowledge-blocks.md).
 
-**Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](../../knowledge-management/task/article-versioning-disable-property.md).
+**Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](knowledge-management/article-versioning-disable-property.md).
 

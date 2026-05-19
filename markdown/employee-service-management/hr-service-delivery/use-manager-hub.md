@@ -31,6 +31,6 @@ Support your team and find resources to grow as leaders using the Manager Hub ap
 
 4.  [Utilize Manager Library](use-team-mh.md).
 
-5.  [View and Edit Employees Growth Plans](../../employee-service-management/task/egd-view-edit-employees-growth-plans.md)
+5.  [View and Edit Employees Growth Plans](../talent-development-core/egd-view-edit-employees-growth-plans.md)
 
 

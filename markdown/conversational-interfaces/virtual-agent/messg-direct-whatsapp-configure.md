@@ -29,11 +29,11 @@ This task provides the general steps to integrate the WhatsApp messaging app wit
 
 2.  [Set up Conversational Integration with WhatsApp](messg-direct-whatsapp-setup.md).
 
-3.  [Capturing information from a user in a WhatsApp chat conversation](../concept/messg-direct-whatsapp-capture-info.md).
+3.  [Capturing information from a user in a WhatsApp chat conversation](messg-direct-whatsapp-capture-info.md).
 
-4.  [Close idle WhatsApp chat conversations](../concept/messg-direct-whatsapp-open-conv.md).
+4.  [Close idle WhatsApp chat conversations](messg-direct-whatsapp-open-conv.md).
 
-5.  [Integrate WhatsApp with other ServiceNow applications](../concept/messg-direct-whatsapp-integrating-apps.md).
+5.  [Integrate WhatsApp with other ServiceNow applications](messg-direct-whatsapp-integrating-apps.md).
 
 
 -   **[Install Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-install.md)**  
@@ -42,10 +42,10 @@ Install the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) so t
 Set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application so that you can engage requesters in bot conversations. Integrating with ServiceNowVirtual Agent enables you to interact on WhatsApp chat with a Virtual Agent or Live Agent.
 -   **[Set the URL navigation for WhatsApp chat](messg-direct-whatsapp-urlnav.md)**  
 When agents share links in their WhatsApp chat conversations, customize the portal that those links point to. For example, you can configure links to point to your brand’s portal, or to the ServiceNow portal.
--   **[Closing idle WhatsApp chat conversations](../concept/messg-direct-whatsapp-open-conv.md)**  
+-   **[Closing idle WhatsApp chat conversations](messg-direct-whatsapp-open-conv.md)**  
 Enable agents to effectively manage their active WhatsApp chat conversations by automatically closing idle conversations after they’ve been inactive for a preconfigured amount of time.
--   **[Integrating the WhatsApp messaging app with other applications](../concept/messg-direct-whatsapp-integrating-apps.md)**  
+-   **[Integrating the WhatsApp messaging app with other applications](messg-direct-whatsapp-integrating-apps.md)**  
 Other ServiceNow applications and features can use the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application.
 
-**Parent Topic:**[Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../concept/messg-direct-whatsapp.md)
+**Parent Topic:**[Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp.md)
 

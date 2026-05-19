@@ -148,13 +148,13 @@ Use the [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowD
 
 Scorecards are also shown for any KPIs listed in Impacted KPIs related list on the Improvement Initiative form.
 
--   **[Accept an improvement](../task/accept-assign-cim-request.md)**  
+-   **[Accept an improvement](accept-assign-cim-request.md)**  
 Accept and assign a new improvement request so it can be assessed for approval. You can reject the improvement request if it does not align with company strategic objectives.
--   **[Prepare an improvement](../task/implement-cim-initiative.md)**  
+-   **[Prepare an improvement](implement-cim-initiative.md)**  
 Create CIM phases and tasks to implement an approved improvement. The Improvement Coordinator works with the Improvement Manager to plan implementation and track progress.
--   **[Assess an improvement for approval](../task/assess-cim-initiative.md)**  
+-   **[Assess an improvement for approval](assess-cim-initiative.md)**  
 Once accepted and set to assess, Approver group members evaluate the improvement for approval before implementation can begin.
--   **[Review and close an improvement](../task/review-close-cim-initiative.md)**  
+-   **[Review and close an improvement](review-close-cim-initiative.md)**  
 Once all tasks in each phase of the improvement have been completed, the Improvement Coordinator sets the improvement to review for the Improvement Manager to close.
 
 **Parent Topic:**[Continual Improvement Management](cim-landing-page.md)
@@ -162,7 +162,7 @@ Once all tasks in each phase of the improvement have been completed, the Improve
 **Related topics**  
 
 
-[Continual Improvement Management reference](../reference/cim-reference.md)
+[Continual Improvement Management reference](cim-reference.md)
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](cim-field-descriptions.md)
 

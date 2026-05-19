@@ -32,7 +32,7 @@ The following items are installed with ServiceNow Add-in for Microsoft 365:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with ServiceNow Add-in for Microsoft 365](../reference/installed-with-sn-addin-ms365.md).
+For more information, see [Components installed with ServiceNow Add-in for Microsoft 365](installed-with-sn-addin-ms365.md).
 
 ## Procedure
 
@@ -57,5 +57,5 @@ For more information, see [Components installed with ServiceNow Add-in for Micro
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](../concept/configuring-sn-addin-for-ms365.md)
+**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](configuring-sn-addin-for-ms365.md)
 

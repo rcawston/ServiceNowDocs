@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Highlighted Value form](../../alignment-planner-workspace/reference/highlighted-value-form.md).
+    For field information, see [Highlighted Value form](highlighted-value-form.md).
 
 4.  Save the form.
 
@@ -40,7 +40,7 @@ Role required: admin
 
     2.  On the form, fill in the fields.
 
-        For field, information, see [Highlighted Value Condition form](../../alignment-planner-workspace/reference/highlighted-value-condition-form.md).
+        For field, information, see [Highlighted Value Condition form](highlighted-value-condition-form.md).
 
     3.  Select **Submit**.
 
@@ -51,5 +51,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
+**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](customizing-highlighted-fields-prioritization-page-strategic-planning.md)
 

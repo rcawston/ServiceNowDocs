@@ -93,5 +93,5 @@ If you only want one widget to have access to a font icon, include the font icon
 -   **[Include font icons as a widget dependency](font-icons-dependency.md)**  
 You can include font icons wherever a widget is loaded by including them as a widget dependency.
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

@@ -854,5 +854,5 @@ Default number of API calls in the last 30 days.
  **Note:** Filter is not applicable to this widget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+</table>**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
 

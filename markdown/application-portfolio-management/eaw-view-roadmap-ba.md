@@ -50,7 +50,7 @@ Role required: sn\_apm.apm\_user and sn\_align\_core.apw\_user
     Alternatively, you can also create your own portfolio plan in the Strategic Planning Workspace \(SPW\) using the Business Capability lens. For more information, see [Create a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

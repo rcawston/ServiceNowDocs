@@ -254,10 +254,10 @@ Cloud Load Balancer \[cmdb\_ci\_cloud\_load\_balancer\]
 
 Service Mapping performs the top-down discovery of the Azure Application Gateway in the context of application services. Service Mapping discovers the outgoing http connections from Azure Application Gateway service to pool members, such as virtual machines.
 
-**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](../reference/azure-cloud-discovery-patterns.md)
+**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
 
 **Related topics**  
 
 
-[Define a Cloud REST Query for cloud computing devices](../task/cloud-rest-query-pattern.md)
+[Define a Cloud REST Query for cloud computing devices](cloud-rest-query-pattern.md)
 

@@ -64,7 +64,7 @@ Administrators and users with the ui\_action\_admin role can define UI actions. 
 10. Click **Submit**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Assign Universal Task admin role](assign-ut-admin-role.md)
 

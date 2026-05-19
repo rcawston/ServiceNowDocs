@@ -106,7 +106,7 @@ AI Agent Advisor runs the analysis according to the configured filters and sched
 
 View your automation opportunities on the home page. For more information, see [View your automation opportunities](now-assist-center-view-automation-opportunities.md).
 
-**Parent Topic:**[Configuring AI Agent Advisor](../concept/configuring-ai-agent-advisor.md)
+**Parent Topic:**[Configuring AI Agent Advisor](configuring-ai-agent-advisor.md)
 
 **Related topics**  
 

@@ -23,7 +23,7 @@ Role required: admin
 
 Grouped scan barcode inputs are supported for scripted writeback actions that are used in action items only. For information about action items, see [Configure an action item](sg-studio-create-action-item.md).
 
-Grouped scan barcode inputs are available [offline](../concept/mobile-offline-mode.md) and [Mobile UI rules](../concept/mobile-ui-rules.md) apply to them.
+Grouped scan barcode inputs are available [offline](mobile-offline-mode.md) and [Mobile UI rules](mobile-ui-rules.md) apply to them.
 
 ## Procedure
 

@@ -48,7 +48,7 @@ The Customer Service Case Types plugin \(com.snc.csm\_case\_types\) is activated
 
 Activating this plugin adds the Case Types module to the application navigator. You can use this module to create and manage case types, as well as extend the Government Service base case type.
 
-For more information on the plugins that are installed with the Public Sector Digital Services Core application, see [Components and Roles installed with Public Sector Digital Services Core](../reference/installed-with-public-sector-digital-services-core.md).
+For more information on the plugins that are installed with the Public Sector Digital Services Core application, see [Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md).
 
 ## Case Types Guided Setup
 
@@ -119,7 +119,7 @@ Service Request Playbook \(sn\_gsm\_srvc\_req\)
 
 </td><td>
 
-Playbook that provides step-by-step guidance through the life cycle of a service request case. This playbook uses the service request case type to capture the details of the requests for the various types of community maintenance. For more information, see [Life cycle of a Public Service case](../reference/government-service-case-states.md). The Service Request case table \[sn\_gsm\_service\_request\_case\] is installed with Service Request Playbook.
+Playbook that provides step-by-step guidance through the life cycle of a service request case. This playbook uses the service request case type to capture the details of the requests for the various types of community maintenance. For more information, see [Life cycle of a Public Service case](government-service-case-states.md). The Service Request case table \[sn\_gsm\_service\_request\_case\] is installed with Service Request Playbook.
 
 </td></tr></tbody>
 </table>Review the [Service Request Playbook](https://store.servicenow.com/sn_appstore_store.do#!/store/application/7aade7bb87a0d51056f84089cebb35ff), [Information Request Playbook](https://store.servicenow.com/sn_appstore_store.do#!/store/application/bd7902882cd29510f877ae4a7a748ca3), [License and Permit Playbook](https://store.servicenow.com/sn_appstore_store.do#!/store/application/50f57c9d93d4f950e3e7b0627cba1045), [Social Benefits playbook](https://store.servicenow.com/sn_appstore_store.do#!/store/application/1490efb5c3fbf5509fad2abdc0013133/1.1.1?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%25253Bgenerative_ai%25253Bsnow_solution%26q%3Dsocial%2520benefits&sl=sh), or [Grants Management](https://store.servicenow.com/store/app/b687d2b01bd52a50396216db234bcbf3) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
@@ -137,7 +137,7 @@ The government service case type moves through the stages that are listed in the
 
 ## Public Service Case states
 
-The government case type moves through the states that are listed in the following table. For more information, see [Life cycle of a Public Service case](../reference/government-service-case-states.md).
+The government case type moves through the states that are listed in the following table. For more information, see [Life cycle of a Public Service case](government-service-case-states.md).
 
 |State|Description|
 |-----|-----------|

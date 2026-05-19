@@ -108,7 +108,7 @@ Option to make the template active and available for use.
 7.  On finalizing the content of the contract document, select **Publish**.
 
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 

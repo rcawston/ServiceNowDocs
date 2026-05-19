@@ -90,5 +90,5 @@ Indicates whether the invention is already used anywhere. If the choice is **Yes
 -   **Specify the name of the product** - Name of the product where the invention is used.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Invention Disclosure reference](../concept/legal-invention-disclosure-reference.md)
+</table>**Parent Topic:**[Legal Invention Disclosure reference](legal-invention-disclosure-reference.md)
 

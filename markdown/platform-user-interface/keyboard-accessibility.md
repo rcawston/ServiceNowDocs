@@ -35,7 +35,7 @@ Tab-through provides the following options:
 -   In the application navigator when accessibility is enabled, tabbing moves you through each element for every module, including the **Edit application/module** and **Add to favorites** icons. Use the arrow keys to move through the application navigator without focusing on these additional elements.
 -   If accessibility mode is enabled, a help icon appears with the HTML field. The help icon indicates how to access and escape the HTML field toolbar.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 
 ## Use skip links
 

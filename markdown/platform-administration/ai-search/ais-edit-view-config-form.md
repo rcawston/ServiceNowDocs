@@ -16,7 +16,7 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Service
 
 The Edit view config form contains information about EVAM view configurations defined for search application configurations in AI Search. Use this form when creating or modifying a view configuration.
 
-For details on creating or modifying a view configuration, see [Create or edit an EVAM view definition](../task/ais-admin-console-evam-configurations.md).
+For details on creating or modifying a view configuration, see [Create or edit an EVAM view definition](ais-admin-console-evam-configurations.md).
 
 ## Edit view config form
 

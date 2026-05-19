@@ -37,7 +37,7 @@ The map editor does not support the following actions:
     -   The CI is removed from the map \(hidden\).
     -   The record of the CI in the CMDB is not deleted.
 
-You can learn more about relationships at [CI relationships in the CMDB](../concept/c_CIRelationships.md).
+You can learn more about relationships at [CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md).
 
 At any time, select the reset icon ![](../image/icon-um-reset-map.png) to undo all unsaved changes.
 
@@ -56,11 +56,11 @@ At any time, select the reset icon ![](../image/icon-um-reset-map.png) to undo a
 **Related topics**  
 
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](../configuration-management-database-cmdb/c_CIRelationships.md)
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](../configuration-management-database-cmdb/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](../configuration-management-database-cmdb/t_AddANewSuggestedRelationship.md)
 
 [Create or modify a connection using the map editor](unified-map-edit-connection.md)
 

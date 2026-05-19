@@ -13,7 +13,7 @@ breadcrumb: [Using Impact, Impact]
 
 Use Impact to obtain new and updated features quickly. Leverage the home page for a personalized value guidance to get relevant and immediate access to the right content, at the right time.
 
-**Important:** To access Impact, be sure to have the appropriate entitlements. See [Impact packages](../reference/impact-packages.md) for details. For setup information, see [Configuring Impact](configuring-impact.md).
+**Important:** To access Impact, be sure to have the appropriate entitlements. See [Impact packages](impact-packages.md) for details. For setup information, see [Configuring Impact](configuring-impact.md).
 
 ## Impact Home page
 
@@ -48,10 +48,10 @@ If it’s a recommendation related to Strategic Portfolio Management \(SPM\), th
 
 For more information on convert to work item, see:
 
--   [Manage work items with recommendations for the Impact Store Application](../task/convert-spm-entity-impact-entity-recommendations.md)
--   [Manage work items from an initiative in the Impact Store Application](../task/create-spm-work-item-impact-entity.md)
+-   [Manage work items with recommendations for the Impact Store Application](convert-spm-entity-impact-entity-recommendations.md)
+-   [Manage work items from an initiative in the Impact Store Application](create-spm-work-item-impact-entity.md)
 
-For more information on recommendations, see [Use the recommendations list](../task/using-recommendations-iip-ws.md).
+For more information on recommendations, see [Use the recommendations list](using-recommendations-iip-ws.md).
 
 ## Learn about Impact
 
@@ -124,5 +124,5 @@ The release notes link takes you to Impact features and content that are documen
 
 If you are in the Impact Store Application, access Quick links that take you directly to the Impact Delivery Instance, which was formerly known as Impact Digital Experience \(IDE\) portal.
 
-Select [Activity Center](impact-activity-center.md) and [Benefits &amp; Usage](impact-features.md) to know more about the features listed in this section.
+Select [Activity Center](impact-activity-center/impact-activity-center.md) and [Benefits &amp; Usage](impact-features.md) to know more about the features listed in this section.
 

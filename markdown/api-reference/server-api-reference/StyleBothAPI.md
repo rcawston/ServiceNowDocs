@@ -17,15 +17,15 @@ Creates a style for defining properties such font size, border, and alignment. Y
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](DocumentBothAPI.md#) to generate a PDF.
 
 You can apply custom styles to the following API elements:
 
--   [Cell](../../CellBoth/concept/CellBothAPI.md#)
--   [Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#)
--   [Table](../../TableBoth/concept/TableBothAPI.md#)
+-   [Cell](CellBothAPI.md#)
+-   [Paragraph](ParagraphBothAPI.md#)
+-   [Table](TableBothAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Style - Style\(\)
 
@@ -35,7 +35,7 @@ Instantiates a new Style object.
 |----|----|-----------|
 |None| | |
 
-The following examples shows how to create a Style object that you can add to a [Cell](../../CellBoth/concept/CellBothAPI.md#), [Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#) or [Table](../../TableBoth/concept/TableBothAPI.md#) element.
+The following examples shows how to create a Style object that you can add to a [Cell](CellBothAPI.md#), [Paragraph](ParagraphBothAPI.md#) or [Table](TableBothAPI.md#) element.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -47,13 +47,13 @@ Specifies a background color of an element.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Background color.|
+|color|[Color](ColorBothAPI.md#)|Background color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set element background color. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set element background color. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -94,7 +94,7 @@ Sets the style border on all four sides of an element.
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -116,7 +116,7 @@ Sets the style border to the bottom of an element.
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border to the bottom of an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border to the bottom of an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -138,7 +138,7 @@ Sets the style border on the left side of an element.
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border on the left side of an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border on the left side of an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -160,7 +160,7 @@ Sets the style border on the right side of an element.
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border on the right side of an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border on the right side of an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -182,7 +182,7 @@ Sets the style border to the top of an element.
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border to the top of an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border to the top of an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -199,13 +199,13 @@ Sets style border with color on all four sides of an element.
 |Name|Type|Description|
 |----|----|-----------|
 |width|Number|Style border width in points.|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Style border color.|
+|color|[Color](ColorBothAPI.md#)|Style border color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border with color. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border with color. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -223,13 +223,13 @@ Sets style border with color to the bottom side of an element.
 |Name|Type|Description|
 |----|----|-----------|
 |width|Number|Style border width in points.|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Style border color.|
+|color|[Color](ColorBothAPI.md#)|Style border color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border to the bottom of an element.For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border to the bottom of an element.For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -247,13 +247,13 @@ Sets style border with color on the left side of an element.
 |Name|Type|Description|
 |----|----|-----------|
 |width|Number|Style border width in points.|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Style border color.|
+|color|[Color](ColorBothAPI.md#)|Style border color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -271,13 +271,13 @@ Sets style border with color on the right side of an element.
 |Name|Type|Description|
 |----|----|-----------|
 |width|Number|Style border width in points.|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Style border color.|
+|color|[Color](ColorBothAPI.md#)|Style border color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border with color. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border with color. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -295,13 +295,13 @@ Sets style border with color to the top side of an element.
 |Name|Type|Description|
 |----|----|-----------|
 |width|Number|Style border width in points.|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Style border color.|
+|color|[Color](ColorBothAPI.md#)|Style border color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a style border. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a style border. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -318,13 +318,13 @@ Sets a font color.
 
 |Name|Type|Description|
 |----|----|-----------|
-|color|[Color](../../ColorBoth/concept/ColorBothAPI.md#)|Font color.|
+|color|[Color](ColorBothAPI.md#)|Font color.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to set a font color. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a font color. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -391,7 +391,7 @@ Horizontal alignment setting.Valid values:
 |----|-----------|
 |None| |
 
-The following example shows how to set horizontal alignment on an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set horizontal alignment on an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -440,7 +440,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set bottom style to 2.5 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set bottom style to 2.5 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -469,7 +469,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set bottom element padding to 2.5 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set bottom element padding to 2.5 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -498,7 +498,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set left element padding to 2.5 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set left element padding to 2.5 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -527,7 +527,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set right element padding to 2.5 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set right element padding to 2.5 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -556,7 +556,7 @@ See also:
 |----|-----------|
 |None| |
 
-The following example shows how to set top element padding to 2.5 points. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set top element padding to 2.5 points. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();
@@ -652,7 +652,7 @@ Vertical alignment setting.Valid values:
 |----|-----------|
 |None| |
 
-The following example shows how to set vertical alignment on an element. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set vertical alignment on an element. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var style = new sn_pdfgeneratorutils.Style();

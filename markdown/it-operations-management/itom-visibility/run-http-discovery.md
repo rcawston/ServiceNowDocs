@@ -190,5 +190,5 @@ If you don’t have other types of credentials that can find devices, such as Li
     ![HTTP classification ECC Queue records](../image/http-classy-ecc-records.png)
 
 
-**Parent Topic:**[HTTP device discovery](../concept/http-discovery.md)
+**Parent Topic:**[HTTP device discovery](http-discovery.md)
 

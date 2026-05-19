@@ -27,19 +27,19 @@ The following list outlines the tasks that ReleaseOps can help you to accomplish
 -   Developers can create deployment requests for scheduled and on-demand releases, which they attach their update set to.
 -   Developers can reconcile deployment tasks, enabling deployment requests to proceed through the pipeline.
 
--   **[Promote an update set for deployment](../task/promote-update-set-for-deployment.md)**  
+-   **[Promote an update set for deployment](promote-update-set-for-deployment.md)**  
 When you're ready to deploy your changes, promote your update set to begin the deployment process.
--   **[Create a deployment request for a scheduled release](../task/create-a-new-deployment-request.md)**  
+-   **[Create a deployment request for a scheduled release](create-a-new-deployment-request.md)**  
 Create a deployment request for a scheduled release to contain your update set and enable your changes to move through the pipeline for deployment.
--   **[Create a deployment request for an on-demand release](../task/create-a-deployment-request-for-on-demand-release.md)**  
+-   **[Create a deployment request for an on-demand release](create-a-deployment-request-for-on-demand-release.md)**  
 Create a deployment request for changes that will deployed with an on-demand release.
--   **[Attach an update set to an existing deployment request](../task/attach-an-update-set-to-existing-deployment-request.md)**  
+-   **[Attach an update set to an existing deployment request](attach-an-update-set-to-existing-deployment-request.md)**  
 If you want to attach multiple update sets to a deployment request, you can attach an update set to an existing deployment request on the **Deploy an update set** form.
--   **[Create a release](../task/create-a-release.md)**  
+-   **[Create a release](create-a-release.md)**  
 Specify the details for your release, including the target instance that the changes will be deployed to and when the release should occur.
--   **[Create a runbook task](../task/create-runbook-task.md)**  
+-   **[Create a runbook task](create-runbook-task.md)**  
 Create a runbook task to pause deployment and define the steps required to proceed.
--   **[Reconcile a deployment task](../task/reconcile-deployment-task.md)**  
+-   **[Reconcile a deployment task](reconcile-deployment-task.md)**  
 Reconcile a deployment task to enable a deployment request to move to the next stage in deployment.
 
 **Parent Topic:**[ReleaseOps](releaseops-landing.md)

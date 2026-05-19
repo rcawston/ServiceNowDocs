@@ -166,9 +166,9 @@ Management IP address used for discovery connection.
 **Related topics**  
 
 
-[IBM Db2 on Linux database discovery](../../service-mapping/reference/ibm-db2-linux-discovery.md)
+[IBM Db2 on Linux database discovery](../discovery-and-service-mapping-patterns/ibm-db2-linux-discovery.md)
 
-[IBM MQ discovery](../reference/r-IBMWebsphereMQ.md)
+[IBM MQ discovery](r-IBMWebsphereMQ.md)
 
-[IBM WebSphere Application Server discovery using patterns](../../service-mapping/reference/ibm-websphere-server-pattern.md)
+[IBM WebSphere Application Server discovery using patterns](../discovery-and-service-mapping-patterns/ibm-websphere-server-pattern.md)
 

@@ -24,7 +24,7 @@ This script include updates the following tables:
 
 Use these methods in server scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## AgentMetrics - AgentMetrics\(\)
 

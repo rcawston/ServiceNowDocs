@@ -21,6 +21,6 @@ The configuration process consists of the tasks listed in the following table.
 |----|-----------|
 |[Setting up the Zoom spoke for Zoom extension for Omnichannel Callback](setup-zoom-spoke-omni.md#)|Integrate your organization's Zoom account with your ServiceNow instance using the Zoom spoke to create Zoom meetings.|
 |[Setting up Notify Zoom connector for Zoom extension for Omnichannel Callback](setup-notify-zoom-connector-omni.md#)|Set up the Notify Zoom connector in Zoom to receive the event information from Zoom.|
-|[Configure a Zoom webhook for Zoom extension for Omnichannel Callback](../Task/configure-zoom-webhook-omni.md)|Configure a Zoom webhook in ServiceNow to notify the Zoom Extension app when certain events occur in Zoom.|
-|[Configure the Zoom channel for callbacks over Zoom](../Task/Setup-zoom-channel-omni.md)|Enable the Zoom callback channel and specify the host email address for a callback over Zoom.|
+|[Configure a Zoom webhook for Zoom extension for Omnichannel Callback](configure-zoom-webhook-omni.md)|Configure a Zoom webhook in ServiceNow to notify the Zoom Extension app when certain events occur in Zoom.|
+|[Configure the Zoom channel for callbacks over Zoom](Setup-zoom-channel-omni.md)|Enable the Zoom callback channel and specify the host email address for a callback over Zoom.|
 

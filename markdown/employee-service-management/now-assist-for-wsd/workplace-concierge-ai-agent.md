@@ -58,9 +58,9 @@ In the Select a UI display section, select **Display** to display the Now Assist
 
 Select this option to receive and review notifications sent by AI agents in the Now Assist panel. AI agents send notifications to Map Admins in the Now Assist panel about updates to the import tasks.
 
--   **[Use Workplace Concierge with Now Assist in Virtual Agent](../task/use-concierge-virtual-agent.md)**  
+-   **[Use Workplace Concierge with Now Assist in Virtual Agent](use-concierge-virtual-agent.md)**  
 Invoke Workplace Concierge from Now Assist in Virtual Agent to invite visitors to your organization.
--   **[Use Workplace Concierge with email or calendar invite](../task/use-concierge-email.md)**  
+-   **[Use Workplace Concierge with email or calendar invite](use-concierge-email.md)**  
 Add the Workplace Concierge to an email thread or a calendar invite.
 
 **Parent Topic:**[Using AI agent workflows in Now Assist for WSD](now-assist-wsd-using-agentic-use-cases.md)

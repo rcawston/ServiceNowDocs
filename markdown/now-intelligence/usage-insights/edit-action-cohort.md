@@ -36,5 +36,5 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 6.  Select **Save** to update the cohort configuration.
 
 
-**Parent Topic:**[Cohort analysis in Usage Insights](../concept/uxa-cohorts.md)
+**Parent Topic:**[Cohort analysis in Usage Insights](uxa-cohorts.md)
 

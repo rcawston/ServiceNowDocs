@@ -30,15 +30,15 @@ Admins create push notifications, similar to setting up email notifications. A p
 
 -   **Create the push message**
 
-    Before creating a push notification, create the [push message](../task/t_CreateAPushMessage.md) with the actual message content \(JSON payload\) to be included in the push notification.
+    Before creating a push notification, create the [push message](t_CreateAPushMessage.md) with the actual message content \(JSON payload\) to be included in the push notification.
 
 -   **Create the push notification that includes the push message**
 
-    Create the [push notification](../task/t_CreatePushNotification.md) that includes the push message and message content. A push notification specifically sends the push message. You can update a standard platform notification and use it as a push notification that includes the push message.
+    Create the [push notification](t_CreatePushNotification.md) that includes the push message and message content. A push notification specifically sends the push message. You can update a standard platform notification and use it as a push notification that includes the push message.
 
 -   **Add the new push notification to the Push Default Registration table**
 
-    To ensure that a new push notification is included and enabled in the notification preferences of your users, [register a new push notification](../task/add-push-notif-reg-table.md) in the Push Default Registration table. The notification is listed in the notification preferences of your users the next time that they log in to the ServiceNow mobile app.
+    To ensure that a new push notification is included and enabled in the notification preferences of your users, [register a new push notification](add-push-notif-reg-table.md) in the Push Default Registration table. The notification is listed in the notification preferences of your users the next time that they log in to the ServiceNow mobile app.
 
 
 ## What to do — ServiceNow mobile app users
@@ -61,10 +61,10 @@ Admins create push notifications, similar to setting up email notifications. A p
 
 -   **Update preferences for receiving notifications on the ServiceNow mobile app**
 
-    Users can enable and disable through **Notification Settings** in the ServiceNow mobile app. They can set additional notification preferences, such as conditions or filters that affect notification delivery, by using the System Settings window on a desktop or mobile browser. For details, see [Setting notification preferences in Core UI](../concept/user-notification-preferences.md).
+    Users can enable and disable through **Notification Settings** in the ServiceNow mobile app. They can set additional notification preferences, such as conditions or filters that affect notification delivery, by using the System Settings window on a desktop or mobile browser. For details, see [Setting notification preferences in Core UI](user-notification-preferences.md).
 
 
 ## Next steps
 
-If you are an admin, review the base system notifications and determine if new [push message content](../task/t_CreateAPushMessage.md) and [push notifications](../task/t_CreatePushNotification.md) are needed.
+If you are an admin, review the base system notifications and determine if new [push message content](t_CreateAPushMessage.md) and [push notifications](t_CreatePushNotification.md) are needed.
 

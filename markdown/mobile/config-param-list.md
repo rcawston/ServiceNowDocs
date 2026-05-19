@@ -60,7 +60,7 @@ Creating a parameterized list is similar to creating a standard list. In additio
 
 6.  In the **Icon** section either select an existing icon or create an icon.
 
-    This icon displays in the launcher screen when you add it to your list screen. For more information about creating icons, see [Mobile icons](../reference/sg-mobile-icon.md).
+    This icon displays in the launcher screen when you add it to your list screen. For more information about creating icons, see [Mobile icons](sg-mobile-icon.md).
 
 7.  In the **Screen segments**section, select **New**.
 

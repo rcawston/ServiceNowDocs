@@ -15,7 +15,7 @@ Populate your dashboard with a selection of widgets, including data visualizatio
 
 ## Before you begin
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 ## Procedure
 
@@ -25,7 +25,7 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
 3.  If the dashboard has an **Edit** button, press it.
 
-    A new dashboard is automatically in editing mode. A technical dashboard has an **Open in UI Builder** button instead of an **Edit** button. For more information about technical dashboards, see [Technical dashboards](../../performance-analytics/concept/technical-dashboards.md).
+    A new dashboard is automatically in editing mode. A technical dashboard has an **Open in UI Builder** button instead of an **Edit** button. For more information about technical dashboards, see [Technical dashboards](technical-dashboards.md).
 
 4.  Expand **Add New Element**.
 
@@ -35,17 +35,17 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
 5.  Select an element to add.
 
-    For a brief overview of dashboard elements, see [Dashboard elements](../concept/dashboard-elements.md).
+    For a brief overview of dashboard elements, see [Dashboard elements](dashboard-elements.md).
 
 6.  If you are adding a data visualization or a filter, select whether to create a new element or use one saved in the relevant library.
 
 7.  If you are creating a new element, configure it, following one of these tasks:
 
-    -   [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
-    -   [Create or add a filter on an inline dashboard](../../par-for-workspace/task/select-workspace-filter-type.md)
-    -   [Create a filter group](../../par-for-workspace/task/create-filter-group.md)
-    -   [Configure a Process Mining map on a dashboard](../../par-for-workspace/task/configure-po-map.md)
-    -   [Monitor a workflow with a workbench process widget](../../performance-analytics/concept/c_MonitorWorkflowWorkbenchWidget.md#)
+    -   [Creating data visualizations](creating-data-visualizations.md)
+    -   [Create or add a filter on an inline dashboard](select-workspace-filter-type.md)
+    -   [Create a filter group](create-filter-group.md)
+    -   [Configure a Process Mining map on a dashboard](configure-po-map.md)
+    -   [Monitor a workflow with a workbench process widget](performance-analytics/c_MonitorWorkflowWorkbenchWidget.md#)
 
 -   **[Add Workbench widgets to an in-line dashboard](add-workbench-dashboard.md)**  
 You can place Core UI workbench widgets on an inline dashboard. They are added in compatibility mode.

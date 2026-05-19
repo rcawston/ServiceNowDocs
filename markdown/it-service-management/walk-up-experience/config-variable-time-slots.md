@@ -62,5 +62,5 @@ To use the appointment booking feature, administrators must create a configurati
 
 You must map the defined advance configurations with the defined service configuration rule for a location. Use the Reasons for Visit related list on the Walk-up Location Queue form. For more information, see [Create or modify Walk-up Experience locations](configure-walkup-location.md).
 
-**Parent Topic:**[Configure Variable time slots for appointment booking](../concept/variable-time-slots.md)
+**Parent Topic:**[Configure Variable time slots for appointment booking](variable-time-slots.md)
 

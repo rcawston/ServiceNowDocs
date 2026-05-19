@@ -25,7 +25,7 @@ An invoice case with a category of Invoice automation and sub-category of Invoic
 
 By default, an invoice processing case is automatically created when you receive an invoice via email. Document Intelligence captures the invoice data and subsequently creates the invoice and invoice line records in Accounts Payable Operations. However, the Accounts Payable Specialist can also manually create an invoice from the Source-to-Pay Workspace. For more information, see [Create an invoice manually](create-invoice.md).
 
-For a description of the field values and information about the available tabs on the invoice processing case form, see [Invoice processing case form](../reference/invoice-processing-case-form.md).
+For a description of the field values and information about the available tabs on the invoice processing case form, see [Invoice processing case form](invoice-processing-case-form.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ For a description of the field values and information about the available tabs o
 
     Typically, the state of the newly created invoice processing case is New and the status of the invoice associated with this case is either Draft or Received, depending on how it was processed by the Accounts Payable Operations integration with Document Intelligence application.
 
-    For more information about invoice statuses, see [Work with invoices](../concept/work-with-invoices.md).
+    For more information about invoice statuses, see [Work with invoices](work-with-invoices.md).
 
 5.  In the **Assigned to** field, specify a user that you want to assign the invoice processing case to.
 
@@ -137,7 +137,7 @@ If a transformation error occurs in Document Intelligence, the invoice processin
 
     `Invoice has one or more exceptions. Resolve all issues in "Invoice exceptions" to continue processing.`
 
-    The Accounts Payable Specialist can work on the exceptions or create exception tasks and assign them to other users to resolve the exceptions. For more information, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md).
+    The Accounts Payable Specialist can work on the exceptions or create exception tasks and assign them to other users to resolve the exceptions. For more information, see [Invoice exceptions](work-with-invoice-exceptions.md).
 
     After all the exception tasks are completed and the exceptions are resolved, the invoice moves to the No exceptions found status. The invoice processing case remains in the Work in progress state.
 
@@ -145,7 +145,7 @@ If a transformation error occurs in Document Intelligence, the invoice processin
 
     The invoice moves to the Pending approval status and the invoice processing case remains in the Work in progress state.
 
-    Typically, an invoice that is in the No exceptions found status is automatically picked by the approval engine and submitted for approval. However, in a few scenarios, you may have to manually submit an invoice for approval. For more information, see [Invoice approvals](../concept/invoice-approvals.md).
+    Typically, an invoice that is in the No exceptions found status is automatically picked by the approval engine and submitted for approval. However, in a few scenarios, you may have to manually submit an invoice for approval. For more information, see [Invoice approvals](invoice-approvals.md).
 
     After you submit the invoice, the invoice moves to the Pending approval status, and the invoice processing case remains in the Work in progress state.
 
@@ -157,8 +157,8 @@ If a transformation error occurs in Document Intelligence, the invoice processin
 
     -   If the invoice is approved, the invoice moves to the Approved status and the invoice processing case moves to the Closed complete state.
 
--   **[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)**  
+-   **[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)**  
 Accounts Payable Operations performs invoice processing using automated workflows, with minimal manual intervention. In some situations, however, the Accounts Payable Specialist is required to perform a few manual tasks to move the invoice to the next stage of processing.
 
-**Parent Topic:**[Invoice processing cases](../concept/working-with-ingestion-cases.md)
+**Parent Topic:**[Invoice processing cases](working-with-ingestion-cases.md)
 

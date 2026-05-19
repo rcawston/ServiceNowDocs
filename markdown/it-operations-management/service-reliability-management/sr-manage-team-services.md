@@ -56,7 +56,7 @@ Steps
 1.  In the **New or existing** field, select **Create a new service in Service Reliability Management**.
 2.  On the form, fill in the fields.
 
-For more information on the field descriptions, see [Add service form](../reference/sr-add-service-form.md).
+For more information on the field descriptions, see [Add service form](sr-add-service-form.md).
 
 3.  Select **Next**.
 
@@ -109,7 +109,7 @@ Steps
 Select **Do it later**.
 
 </td></tr></tbody>
-</table>    See [Edit service details in SRM](sr-edit-service.md) and [Edit service details form](../reference/sr-edit-service-form.md)for information on the service and completion steps for setup.
+</table>    See [Edit service details in SRM](sr-edit-service.md) and [Edit service details form](sr-edit-service-form.md)for information on the service and completion steps for setup.
 
 
 **Parent Topic:**[Add an SRM team](sr-create-team.md)

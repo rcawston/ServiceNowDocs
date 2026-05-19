@@ -30,5 +30,5 @@ The following image shows the Overview tab of a processing activity.
 -   **[Workflow of a processing activity](stages-pa.md)**  
 A processing activity workflow helps the privacy analysts to manage the life cycle of a processing activity.
 
-**Parent Topic:**[Privacy Management reference](../reference/privacy-mgmt-reference.md)
+**Parent Topic:**[Privacy Management reference](privacy-mgmt-reference.md)
 

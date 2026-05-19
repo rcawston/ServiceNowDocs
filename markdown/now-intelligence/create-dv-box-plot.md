@@ -18,7 +18,7 @@ Use a boxplot to show the median and lower and upper quartiles of numeric data a
 
 **Important:** The Boxplot visualization is included in the latest data visualizations application from the ServiceNow® Store.
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -167,7 +167,7 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Open the Data Source selector and select a table.
 
-6.  Configure the data settings as described in [Table data options for boxplot visualizations](../reference/config-dv-box-table-data.md).
+6.  Configure the data settings as described in [Table data options for boxplot visualizations](config-dv-box-table-data.md).
 
 7.  Under **Presentation**, provide display and color information..
 
@@ -319,9 +319,9 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](../../dashboards/reference/visualization-drilldown-in-config-ws.md).
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
@@ -337,10 +337,10 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
--   **[Table data options for boxplot visualizations](../reference/config-dv-box-table-data.md)**  
+-   **[Table data options for boxplot visualizations](config-dv-box-table-data.md)**  
 When you select a table data source for a boxplot visualization, the following Data configuration options are available.
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

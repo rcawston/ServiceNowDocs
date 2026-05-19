@@ -42,5 +42,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The plan owners and BCM lead can update the planning dependencies by saving the changes to the plan.
 
 
-**Parent Topic:**[Scheduling auto-update of related assets](../concept/import-cmdb-updates-in-plans.md)
+**Parent Topic:**[Scheduling auto-update of related assets](import-cmdb-updates-in-plans.md)
 

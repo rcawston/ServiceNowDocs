@@ -18,7 +18,7 @@ Add configuration items to manually created application services or to services 
 ## Before you begin
 
 -   Verify that the CI type for the configuration item \(CI\) that you are planning to add, exists. If necessary, create the CI type as described in [Create CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md).
--   Add CIs to the CMDB for the device or application that you want to add, if necessary. See [Populate the CMDB](../../configuration-management/concept/c_OptionsToPopulateCMDB.md) for more information.
+-   Add CIs to the CMDB for the device or application that you want to add, if necessary. See [Populate the CMDB](c_OptionsToPopulateCMDB.md) for more information.
 
 Role required: app\_service\_admin or service\_mapping\_admin
 
@@ -32,7 +32,7 @@ Adding a CI to an application service requires creating a relationship between t
 
 -   Using the application service service map as described in the steps below.
 
-    The default relationship type of the added connection in this case is **Depends on::Used by**. You can modify this default relationship type by changing the value of the **sa.it\_service.manual\_ci\_rel\_type** property. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md) for more information.
+    The default relationship type of the added connection in this case is **Depends on::Used by**. You can modify this default relationship type by changing the value of the **sa.it\_service.manual\_ci\_rel\_type** property. See [Components installed with application services](components-installed-app-services.md) for more information.
 
 
 **Important:** You cannot fine-tune or edit tag-based and dynamic services from the map.
@@ -48,7 +48,7 @@ You can manually connect a CI only to actual CIs existing in the CMDB, not to a 
 -   Qualifier \[cmdb\_ci\_qualifier\]
 -   Application cluster \[cmdb\_ci\_application\_cluster\]
 
-There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](../../configuration-management/reference/components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
+There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table. See [Components installed with application services](components-installed-app-services.md#manual-ci-inclusion-exclusion-list) for more information.
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 

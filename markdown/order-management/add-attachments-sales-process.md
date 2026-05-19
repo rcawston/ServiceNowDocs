@@ -74,5 +74,5 @@ Drag and drop the file from your system to the Attachments pane.
 
 Download, rename, or delete attachments. For more information, see [Manage attachments for a sales process record](manage-attachments-l2c-process-management.md).
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
 

@@ -16,18 +16,18 @@ In the workspace, you can use the My campaign related list to track information 
 |Related list|Description|
 |------------|-----------|
 |[Campaign tasks](mco-campaign-tasks.md)|Plan, identify, and execute a recall promotion campaign.|
-|[Corrective actions](../task/mco-corrective-actions.md)|Action taken to rectify the issue raised for a sold product.|
-|[Create an impacted asset](../task/mco-impacted-asset.md)|Identify the asset impacted for a recall or repair action.|
-|[Recall a campaign phase](../task/mco-recall-campaign-phases.md)|Recall campaigns created for a specific geography or for a dealership.|
-|[Create a phase and sub-phase in a recall campaign](../task/mco_phases_sub-phases.md)|Phases and sub-phases within a recall campaign enables detailed segmentation, improving tracking, and management at each stage of the process.|
+|[Corrective actions](mco-corrective-actions.md)|Action taken to rectify the issue raised for a sold product.|
+|[Create an impacted asset](mco-impacted-asset.md)|Identify the asset impacted for a recall or repair action.|
+|[Recall a campaign phase](mco-recall-campaign-phases.md)|Recall campaigns created for a specific geography or for a dealership.|
+|[Create a phase and sub-phase in a recall campaign](mco_phases_sub-phases.md)|Phases and sub-phases within a recall campaign enables detailed segmentation, improving tracking, and management at each stage of the process.|
 
 -   **[Campaign tasks](mco-campaign-tasks.md)**  
 As an OEM, plan, manage, and execute a promotional effort.
--   **[Corrective actions](../task/mco-corrective-actions.md)**  
+-   **[Corrective actions](mco-corrective-actions.md)**  
 Corrective action enables you to address the asset issue, either by eliminating or replacing the asset.
--   **[Create an impacted asset](../task/mco-impacted-asset.md)**  
+-   **[Create an impacted asset](mco-impacted-asset.md)**  
 Identify an impacted asset that must be replaced or recalled.
--   **[Recall a campaign phase](../task/mco-recall-campaign-phases.md)**  
+-   **[Recall a campaign phase](mco-recall-campaign-phases.md)**  
 Create a recall campaign for a specific geography or a dealership.
 
 **Parent Topic:**[Create a campaign](mco-rc-my-campaigns.md)

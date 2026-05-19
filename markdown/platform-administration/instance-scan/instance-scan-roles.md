@@ -15,7 +15,7 @@ breadcrumb: [Instance Scan references, Instance Scan, Maintain and monitor, Admi
 
 Instance Scan is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Instance Scan references](hs-references.md)
 

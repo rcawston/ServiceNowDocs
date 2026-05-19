@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
 
 AI Agent Advisor is installed with these roles.
 
-**Parent Topic:**[AI Agent Advisor reference](../concept/ai-agent-advisor-reference.md)
+**Parent Topic:**[AI Agent Advisor reference](ai-agent-advisor-reference.md)
 
 **Related topics**  
 

@@ -65,7 +65,7 @@ Select this action from the following records:-   Interaction
 -   Child Case
 
 </td></tr></tbody>
-</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](../task/config-case-type-declarative-action.md).
+</table>Some declarative actions available with the Customer Service Case Types plugin are disabled by default. For more information, see [Configure case type declarative actions](config-case-type-declarative-action.md).
 
 ## Case type selector versions
 
@@ -112,8 +112,8 @@ With the single-select version, the agent selects a case type from a list of ava
 
  For more information, see the following topics:
 
--   [Enable the case type single select property](../task/enable-case-type-single-select-prop.md)
--   [Create a configuration for case type single-select](../task/create-case-type-single-selection.md)
+-   [Enable the case type single select property](enable-case-type-single-select-prop.md)
+-   [Create a configuration for case type single-select](create-case-type-single-selection.md)
 
 </td></tr><tr><td>
 

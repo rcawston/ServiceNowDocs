@@ -40,8 +40,8 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make deposit service requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
-|Financial Services Document Management|Enables the management of Document Services tasks that are used in Financial Services Personal Deposit Operations workflows. For more information, see [Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md).|
+|Financial Services Operations Core|Stores the customer data that is needed to make deposit service requests. For more information, see [Financial Services Operations Core](../financial-services-operations-core-data-model.md).|
+|Financial Services Document Management|Enables the management of Document Services tasks that are used in Financial Services Personal Deposit Operations workflows. For more information, see [Integrating with Document Processor](../integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 |CSM Contributor User|Enables middle office teams to create cases for customer requests. For more information, see [CSM Contributor User](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md) [Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md).|
 
@@ -104,7 +104,7 @@ Deposit contributor\[sn\_bom\_deposit\_b2c.contributor\]
 -   View the overall status of cases
 -   Work on deposit service cases and tasks until the Initiate and Review stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -126,7 +126,7 @@ Deposit agent connector\[sn\_bom\_deposit\_b2c.agent\_connector\]
 -   View the overall status of cases
 -   Work on deposit service cases and tasks to fulfill requests for accounts managed by them
 
- **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+ **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -203,5 +203,5 @@ Personal Deposit Task\[sn\_bom\_deposit\_b2c\_task\]
 Stores all deposit tasks for all personal deposit cases. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Deposit Operations reference](../concept/fso-deposit-ops-reference.md)
+</table>**Parent Topic:**[Financial Services Deposit Operations reference](fso-deposit-ops-reference.md)
 

@@ -52,5 +52,5 @@ Role required: sn\_cwm.cwm\_user
 
 The Board is refreshed to load the work items based on your changes.
 
-**Parent Topic:**[Connected work in CWM](../concept/unified-boards-for-connected-work-in-cwm.md)
+**Parent Topic:**[Connected work in CWM](unified-boards-for-connected-work-in-cwm.md)
 

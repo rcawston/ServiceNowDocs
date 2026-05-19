@@ -41,7 +41,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables.](../reference/hcls-serv-mgmt-core-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables.](hcls-serv-mgmt-core-reference.md)
 
 </td></tr></tbody>
 </table>

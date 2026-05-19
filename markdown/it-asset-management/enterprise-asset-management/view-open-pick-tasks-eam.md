@@ -38,9 +38,9 @@ The list of open asset pick tasks for the stockroom is displayed.
 
 ## What to do next
 
-Manage all the enterprise asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage enterprise asset pick tasks using the Mobile Agent application](../concept/manage-asset-pick-task-eam-mobile-app.md).
+Manage all the enterprise asset pick tasks assigned to you by using the Mobile Agent application. For details, see [Manage enterprise asset pick tasks using the Mobile Agent application](manage-asset-pick-task-eam-mobile-app.md).
 
-**Parent Topic:**[Manage enterprise asset picking within your stockrooms](../concept/manage-asset-picking-stockroom-eam-ws.md)
+**Parent Topic:**[Manage enterprise asset picking within your stockrooms](manage-asset-picking-stockroom-eam-ws.md)
 
 **Related topics**  
 

@@ -44,5 +44,5 @@ SLA conditions determine what action is performed on a task SLA record.
 
 Each of these conditions is defined as a method within a Script Include, referenced by an SLA Conditions Rule record.
 
-**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
 

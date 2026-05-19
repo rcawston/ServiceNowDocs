@@ -17,7 +17,7 @@ On a candidate record in ERP Semantic Mining, the **Recommendations** tab displa
 
 **Important:** Starting with the Zurich release, ERP Semantic Mining is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-For process details, see [Check candidate recommendations in ERP Semantic Mining](../task/erpcm-work-with-recommendations.md).
+For process details, see [Check candidate recommendations in ERP Semantic Mining](erpcm-work-with-recommendations.md).
 
 <table id="table_u5j_gnl_wyb"><thead><tr><th>
 
@@ -92,5 +92,5 @@ Updated
 Date and time the recommended action was most recently updated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ERP Semantic Mining field descriptions](../concept/erpcm-field-description-reference-landing.md)
+</table>**Parent Topic:**[ERP Semantic Mining field descriptions](erpcm-field-description-reference-landing.md)
 

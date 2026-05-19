@@ -29,7 +29,7 @@ You can create calculated metric definitions which can be a combination of other
 
 3.  On the form, fill in the fields.
 
-    For a detailed explanation of the fields, see [Calculated metric definition form](../reuse/calculated-metric-definition-reuse.md).
+    For a detailed explanation of the fields, see [Calculated metric definition form](calculated-metric-definition-reuse.md).
 
 4.  Select **Save**.
 
@@ -42,10 +42,10 @@ The metric definition is saved in the Metric definitions list.
 
 ## What to do next
 
-Specify the formula for metric calculation. Refer to [Formula building in a calculated metric definition](../concept/formula-building-at-metric-definition-and-entity-level.md).
+Specify the formula for metric calculation. Refer to [Formula building in a calculated metric definition](formula-building-at-metric-definition-and-entity-level.md).
 
--   **[Calculated metric definition form](../reuse/calculated-metric-definition-reuse.md)**  
+-   **[Calculated metric definition form](calculated-metric-definition-reuse.md)**  
 The fields of the calculated metric definition form are explained in this topic.
 
-**Parent Topic:**[Configuring GRC: Metrics](../concept/configuring-grc-metrics.md)
+**Parent Topic:**[Configuring GRC: Metrics](configuring-grc-metrics.md)
 

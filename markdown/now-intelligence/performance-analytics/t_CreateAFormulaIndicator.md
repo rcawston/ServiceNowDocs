@@ -110,7 +110,7 @@ Allow breakdowns
 
 </td><td>
 
-Applies breakdowns that apply to the entire formula indicator, as opposed to individual indicators in the formula, to apply to this contributing indicator. Enabled by default. For more information, see [Prevent a contributing indicator in a formula from following breakdowns](../concept/c_ExcludingBreakdownsFromFormulas.md).Breakdowns are added to the entire formula through the **Manage breakdowns** dialog, available after the indicator is saved. See Step [11](t_CreateAFormulaIndicator.md#step_manage_breakdowns).
+Applies breakdowns that apply to the entire formula indicator, as opposed to individual indicators in the formula, to apply to this contributing indicator. Enabled by default. For more information, see [Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md).Breakdowns are added to the entire formula through the **Manage breakdowns** dialog, available after the indicator is saved. See Step [11](t_CreateAFormulaIndicator.md#step_manage_breakdowns).
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Use in method
 Returns a unique identifier instead of the score for this indicator. Select this box when you're specifying an indicator for a method in the formula. These methods get calculated values for the indicator from the Analytics Hub. For more information about using these methods, see [Get analytics methods in formulas](get-indicator-analytics.md).
 
 </td></tr></tbody>
-</table>        You could add indicators manually. However, by using the **Browse for an indicator** function, you ensure that you have the proper notation for indicators and [breakdown elements](../concept/performance-analytics-glossary.md#).
+</table>        You could add indicators manually. However, by using the **Browse for an indicator** function, you ensure that you have the proper notation for indicators and [breakdown elements](performance-analytics-glossary.md#).
 
         After you save the formula indicator, the indicators in the formula appear in the **Contributing indicators** related list. If you included any formula indicators, their contributing indicators are also listed.
 
@@ -129,7 +129,7 @@ Returns a unique identifier instead of the score for this indicator. Select this
 
         Enter any operators or numbers to include in the formula. Use valid operator symbols, such as +, -, /, %, &gt;, &lt;. You can also add more indicators to the formula. For example, to calculate the average age of open incidents based on summed age of open incidents and number of open incidents, use the following formula: `[[Summed age of open incidents]] / [[Open incidents]] / 24`
 
-        To specify a data collection period in the formula, you can use the variables `score_start` and `score_end` to refer to the start and end of the data collection period, respectively. However, see the caveats in [Changes to score\_start/end because of different user time zones](../concept/time-zones-indicator-formulas.md).
+        To specify a data collection period in the formula, you can use the variables `score_start` and `score_end` to refer to the start and end of the data collection period, respectively. However, see the caveats in [Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md).
 
         **Warning:** Try not to use GlideRecords or GlideAggregates in Performance Analytics scripts or formula indicators. While sometimes you must use these operations to get what you want, they are expensive, potentially running hundreds of thousands of times. Be certain that no alternative exists before you use them.
 
@@ -191,7 +191,7 @@ Apply time series to result
 
 </td><td>
 
-Applies a time series aggregation to the result of the calculation of the formula instead of to each component indicator before the result is calculated. This option applies to a time series selected for the indicator on a widget or on the Analytics Hub. If a default time series is specified for the indicator, this option also applies to that time series. For more information, see [Applying time series to result or to contributing indicators](../concept/apply-time-series-result-components.md).
+Applies a time series aggregation to the result of the calculation of the formula instead of to each component indicator before the result is calculated. This option applies to a time series selected for the indicator on a widget or on the Analytics Hub. If a default time series is specified for the indicator, this option also applies to that time series. For more information, see [Applying time series to result or to contributing indicators](apply-time-series-result-components.md).
 
 </td></tr><tr><td>
 
@@ -212,7 +212,7 @@ Enables widgets to show the summed score of multiple breakdown elements on this 
 </td></tr></tbody>
 </table>9.  In the **Forecasting** tab, set the forecast method, the number of data collection periods to forecast, the amount of historical data to base the forecast on, and the upper and lower limits of forecast values.
 
-    For more information, see [Performance Analytics scores forecasts](../concept/c_ForecastingData.md#).
+    For more information, see [Performance Analytics scores forecasts](c_ForecastingData.md#).
 
 10. Expand the context menu and select **Save**.
 
@@ -243,22 +243,22 @@ By turning on **Show in library**, you make the indicator visible in KPI Details
 
 ![The Incident Backlog Growth indicator in KPI Details](../image/formula-indic-incident-bklog-growth.png)
 
-**Parent Topic:**[Formula indicators](../concept/formula-indicators.md)
+**Parent Topic:**[Formula indicators](formula-indicators.md)
 
 **Related topics**  
 
 
 [Get analytics methods in formulas](get-indicator-analytics.md)
 
-[Prevent a contributing indicator in a formula from following breakdowns](../concept/c_ExcludingBreakdownsFromFormulas.md)
+[Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
 
-[Breakdown matrices in formula indicators](../concept/bkdown-matrix-formula-indicators.md)
+[Breakdown matrices in formula indicators](bkdown-matrix-formula-indicators.md)
 
-[Applying time series to result or to contributing indicators](../concept/apply-time-series-result-components.md)
+[Applying time series to result or to contributing indicators](apply-time-series-result-components.md)
 
 [Detect indicators with no scores in a formula](detect-indicators-no-scores-formula.md)
 
-[Indexing multiple indicators in a formula](../concept/index-indicators.md)
+[Indexing multiple indicators in a formula](index-indicators.md)
 
-[Changes to score\_start/end because of different user time zones](../concept/time-zones-indicator-formulas.md)
+[Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md)
 

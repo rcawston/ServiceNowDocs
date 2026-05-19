@@ -78,12 +78,12 @@ Policy that specifies what action you want to take when the maintenance plan is 
 -   **Add to existing**: Adds both new tasks and existing active tasks to the new maintenance plan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](domain-separation-eam.md)
 
 [Enterprise Asset Management roles](eam-roles.md)
 

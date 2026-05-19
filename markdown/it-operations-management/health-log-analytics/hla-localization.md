@@ -26,5 +26,5 @@ The current available languages for Health Log Analytics are as follows: US Engl
 
 Health Log Analytics currently supports ASCII and Windows-1252 \(commonly referred to as ANSI\) character encodings, regardless of the text source. It doesn't support encodings for non-Latin scripts, such as Japanese.
 
-**Parent Topic:**[Health Log Analytics reference](../concept/hla-reference.md)
+**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

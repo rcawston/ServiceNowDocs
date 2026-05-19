@@ -43,25 +43,25 @@ None. This role is not assigned to any groups by default.
 
 The **sn\_skill\_builder.admin** role is required for the following tasks:
 
--   [Create a skill](../task/create-new-skill.md)
--   [Clone a skill](../task/clone-and-edit-servicenow-skill.md)
--   [Create a prompt](../task/create-prompt-template.md)
--   [Configure a skill prompt](../task/configure-skill-prompt.md)
--   [Configure skill deployment settings](../task/configure-skill-settings.md)
--   [Configure security controls for a skill](../task/nask-access-control.md)
--   [Add a tool](../concept/add-a-tool.md)
--   [Add a retriever](../task/add-retriever.md)
--   [Add a web search tool](../task/add-web-search.md)
--   [Use prompt assistance](../task/use-prompt-assistance.md)
--   [Test a prompt](../task/test-prompt-template.md)
--   [Evaluate a prompt](../task/evaluate-prompt.md)
--   [Finalize and publish a skill](../task/publish-skill.md)
+-   [Create a skill](create-new-skill.md)
+-   [Clone a skill](clone-and-edit-servicenow-skill.md)
+-   [Create a prompt](create-prompt-template.md)
+-   [Configure a skill prompt](configure-skill-prompt.md)
+-   [Configure skill deployment settings](configure-skill-settings.md)
+-   [Configure security controls for a skill](nask-access-control.md)
+-   [Add a tool](add-a-tool.md)
+-   [Add a retriever](add-retriever.md)
+-   [Add a web search tool](add-web-search.md)
+-   [Use prompt assistance](use-prompt-assistance.md)
+-   [Test a prompt](test-prompt-template.md)
+-   [Evaluate a prompt](evaluate-prompt.md)
+-   [Finalize and publish a skill](publish-skill.md)
 
 ### Special considerations
 
 This role grants access to the Now Assist Skill Kit application and all skill authoring functionality. It does not grant the ability to activate skills in Now Assist Admin. Activating skills requires the **admin** role.
 
-When configuring access control lists \(ACLs\) for a skill, the roles you specify in the ACL determine which users can invoke the skill. The **sn\_skill\_builder.admin** role only controls who can author skills, not who can use them. To learn more about configuring skill ACLs, see [Configure security controls for a skill](../task/nask-access-control.md).
+When configuring access control lists \(ACLs\) for a skill, the roles you specify in the ACL determine which users can invoke the skill. The **sn\_skill\_builder.admin** role only controls who can author skills, not who can use them. To learn more about configuring skill ACLs, see [Configure security controls for a skill](nask-access-control.md).
 
 ## Skill Kit model admin \(sn\_skill\_builder.sb\_model\_admin\)
 
@@ -77,7 +77,7 @@ None. This role is not assigned to any groups by default.
 
 ### Special considerations
 
-This role is only required when working with custom large language models. AI developers who use the standard Now LLM Service provider or prebuilt external LLM spokes do not need this role. To learn more about provider options when creating a skill, see [Create a skill](../task/create-new-skill.md).
+This role is only required when working with custom large language models. AI developers who use the standard Now LLM Service provider or prebuilt external LLM spokes do not need this role. To learn more about provider options when creating a skill, see [Create a skill](create-new-skill.md).
 
 This role does not replace the **sn\_skill\_builder.admin** role. AI developers who create skills using custom large language models require both roles.
 

@@ -17,7 +17,7 @@ The hr\_Utils API provides basic functionality for the Human Resource \(HR\) app
 
 This API requires the HR core plugin \(com.sn\_hr\_core\) and runs in the `sn_hr_core` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## hr\_Utils - hr\_Utils\(\)
 

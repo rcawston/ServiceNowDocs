@@ -34,5 +34,5 @@ To disable the Connect overlay and remove the toggle Connect sidebar icon from t
 
 ## Result
 
-When the frameset is disabled, any Connect chats open in the Connect workspace. For more information on completely disabling Connect Chat, see [Disable Connect Chat](../concept/c_CollaborationAdministration.md#).
+When the frameset is disabled, any Connect chats open in the Connect workspace. For more information on completely disabling Connect Chat, see [Disable Connect Chat](c_CollaborationAdministration.md#).
 

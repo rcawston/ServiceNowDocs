@@ -35,7 +35,7 @@ You can set system parameters for reading log data that determine the actions th
 
 4.  On the form, fill in the fields.
 
-    For a description of the fields, see [Amazon CloudWatch data input configuration fields](../reference/hla-data-input-cloudwatch-ref.md).
+    For a description of the fields, see [Amazon CloudWatch data input configuration fields](hla-data-input-cloudwatch-ref.md).
 
     The **Character encoding** field is read-only. By default, the character encoding used for this data input is UTF-8.
 
@@ -63,7 +63,7 @@ You can set system parameters for reading log data that determine the actions th
 8.  Select **Publish** to publish the data input to the MID Server.
 
 
-**Parent Topic:**[Advanced data input configuration in Health Log Analytics](../concept/hla-data-input-adv-configuration.md)
+**Parent Topic:**[Advanced data input configuration in Health Log Analytics](hla-data-input-adv-configuration.md)
 
 **Related topics**  
 

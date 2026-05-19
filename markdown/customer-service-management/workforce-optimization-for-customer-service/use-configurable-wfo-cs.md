@@ -15,7 +15,7 @@ breadcrumb: [Workforce Optimization for Customer Service, Customer Service Manag
 
 Enhance the quality and efficiency of your teams using channel management capabilities, smart scheduling, team structure, and real-time refreshing single scores. Monitor chat conversations and help agents on cases. Assess the quality of tasks completed, recommend skills for agents, and train them to address skill gaps.
 
--   **[Workforce Optimization for Customer Service manager workspace landing page](../../../use/dashboards/application-content-packs/wfo-cs-manager-landing-page-new.md)**  
+-   **[Workforce Optimization for Customer Service manager workspace landing page](wfo-cs-manager-landing-page-new.md)**  
 Monitor your teams' work and organizational performance using Workforce Optimization for Customer Service.
 -   **[Manager dashboard for operational Insights](manager-dashboard-for-operational-insights.md)**  
 The Manager Dashboard can be installed and configured independently. This change allows you to use the dashboard without installing the full Workforce Optimization suite and keeps dashboard packaging consistent with Channel Management.

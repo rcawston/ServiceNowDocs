@@ -24,16 +24,16 @@ Table that lists applications installed with the Now Assist for IT Operations Ma
 |AI agents for Observability \(sn\_obs\_aia\)|Helps IT operators assess business and application service impact, and formulate probable cause theories. Helps prioritize investigations by analyzing data from ServiceNow and collaborating with third-party AI agents from leading APM and observability vendors.|
 |LEAP \(sn\_itom\_leap\)|LEAP \(Learning-Enhanced Automation Playbook\) leverages AI-driven insights to mine historical incident data, dynamically prioritize tasks, and generate actionable resolution playbooks.|
 
-**Parent Topic:**[Now Assist for ITOM reference](../concept/now-assist-itom-reference.md)
+**Parent Topic:**[Now Assist for ITOM reference](now-assist-itom-reference.md)
 
 **Related topics**  
 
 
-[Plugins or applications installed with ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md)
+[Plugins or applications installed with ITOM Cloud Accelerate](../itom-cloud-accelerate/plugin-app-cloud-accelerate.md)
 
-[Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md)
+[Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md)
 
-[Plugins or applications installed with ITOM AIOps](../../it-operations-management/reference/plugin-app-itom-health.md)
+[Plugins or applications installed with ITOM AIOps](../plugin-app-itom-health.md)
 
-[Plugins activated with ITOM Optimization](../../it-operations-management/reference/plugin-itom-optimization.md)
+[Plugins activated with ITOM Optimization](../plugin-itom-optimization.md)
 

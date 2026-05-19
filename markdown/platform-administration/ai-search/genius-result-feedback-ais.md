@@ -25,7 +25,7 @@ Role required: none
 
 You can provide feedback for each Genius Result answer card in your search result set, marking it as helpful or unhelpful for your search. If you mark an answer card produced by a default Genius Result configuration as unhelpful, you can also select the reason it was unhelpful.
 
-AI Search stores user feedback for Genius Result answers as signals in the Genius Result Event Action \[sys\_search\_genius\_result\_event\_action\] table. For more information on this table, see [Search signal tables](../../search-administration/reference/search-signal-tables.md).
+AI Search stores user feedback for Genius Result answers as signals in the Genius Result Event Action \[sys\_search\_genius\_result\_event\_action\] table. For more information on this table, see [Search signal tables](../search-administration/search-signal-tables.md).
 
 ## Procedure
 
@@ -44,5 +44,5 @@ AI Search stores user feedback for Genius Result answers as signals in the Geniu
 
 AI Search submits your feedback as a search signal.
 
-**Parent Topic:**[Searching in AI Search](../concept/use-ais.md)
+**Parent Topic:**[Searching in AI Search](use-ais.md)
 

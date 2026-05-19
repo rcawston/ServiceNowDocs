@@ -133,5 +133,5 @@ The ServiceNow SQL API ODBC driver is configured on your client machine. You can
 
 You can use Interactive SQL application to verify the connection and test SQL queries. See [Test SQL API ODBC driver connection using Interactive SQL](test-sql-api-odbc-driver-connection-using-interactive-sql.md).
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](configuring-sql-api.md)
 

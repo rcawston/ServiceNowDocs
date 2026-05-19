@@ -52,5 +52,5 @@ Role required: none
 11. Navigate to **All** &gt; **Configuration** &gt; **CI Lifecycle Management** &gt; **State Management Logs** to display logs of CI Lifecycle Management operations.
 
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
 

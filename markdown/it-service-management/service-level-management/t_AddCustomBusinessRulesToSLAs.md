@@ -70,5 +70,5 @@ In your custom business rule, use the **Script** field to generate a scheduled j
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Service Level Management](../concept/using-service-level-management.md)
+**Parent Topic:**[Using Service Level Management](using-service-level-management.md)
 

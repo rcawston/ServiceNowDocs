@@ -50,5 +50,5 @@ The homepage uses the Article List widget to display different lists of articles
 5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](km-service-portal-widget-instances.md)
 

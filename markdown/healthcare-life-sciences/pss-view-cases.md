@@ -62,5 +62,5 @@ For more information on tabs available for a customer service case, see [Custome
 
 ## What to do next
 
-You can select the Patient information tab in Workspace to view patient details. For more information, see [Viewing patient information for an enrollment case in Workspace](../concept/pss-viewing-patient-info.md).
+You can select the Patient information tab in Workspace to view patient details. For more information, see [Viewing patient information for an enrollment case in Workspace](pss-viewing-patient-info.md).
 

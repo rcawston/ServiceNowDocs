@@ -80,5 +80,5 @@ If you want to add complex, unsupported items to a playbook \(such as optional a
 10. Make any advanced edits in Workflow Studio by selecting the more actions icon ![](../image/cs-more-actions-icon.png) and selecting **Open in Workflow Studio**.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

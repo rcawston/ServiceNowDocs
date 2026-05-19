@@ -230,5 +230,5 @@ Aim to have all the m2m mapping intact in the target instance.
 |Waiting Reason Tracking|sn\_devops\_waiting\_reason\_tracking|DevOps Data Model|
 |Work Item|sn\_devops\_work\_item|DevOps Data Model|
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

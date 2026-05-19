@@ -31,5 +31,5 @@ The following details the system properties for CrowdStrike.
     -   Type: Integer
     -   Value: 50
 
-**Parent Topic:**[View Premium Threat Feed for CrowdStrike](../task/premium-threat-feed-for-crowdstrike.md)
+**Parent Topic:**[View Premium Threat Feed for CrowdStrike](premium-threat-feed-for-crowdstrike.md)
 

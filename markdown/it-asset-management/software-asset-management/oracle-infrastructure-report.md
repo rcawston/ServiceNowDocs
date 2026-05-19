@@ -469,5 +469,5 @@ Vendor
 Vendor of the database or WebLogic Server that the instance accesses and manages. This field is set to **Oracle**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](oracle-publisher-pack.md)
 

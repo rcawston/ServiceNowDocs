@@ -21,19 +21,19 @@ Train your agents with internal and external learning content using Coaching wit
 
 <table id="table_rk1_zxg_scc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how coaches can use Coaching to train their teams](../concept/cf-exploring-coaching.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how coaches can use Coaching to train their teams](cf-exploring-coaching.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/ind-service-provider.svg)Set up Coaching to assess and train teams](../task/cf-request-coaching.md)
+[Install![](../../../reuse/icons/brand-icons/ind-service-provider.svg)Set up Coaching to assess and train teams](cf-request-coaching.md)
 
 </td><td>
 
-[Configure![](../../../common/image/icon-configure.png)Use Coaching with other applications](../concept/cf-configuring-coaching.md)
+[Configure![](../../../common/image/icon-configure.png)Use Coaching with other applications](cf-configuring-coaching.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-3-person.svg) Train your agents using Coaching With Learning](../concept/cf-coaching-your-trainee.md)
+[Manage![](../../../reuse/icons/brand-icons/bus-3-person.svg) Train your agents using Coaching With Learning](cf-coaching-your-trainee.md)
 
 </td><td>
 

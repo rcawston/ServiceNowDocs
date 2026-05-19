@@ -41,7 +41,7 @@ Automated tasks are executed sequentially until a manual task is encountered. If
 
 4.  On the form, fill in the fields.
 
-    For more information on creating a customized subflow for automating the tasks in the BCM application, see [Create a subflow form](../reference/create-new-subflow-for-bcm.md).
+    For more information on creating a customized subflow for automating the tasks in the BCM application, see [Create a subflow form](create-new-subflow-for-bcm.md).
 
     For more information on creating a subflow, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md).
 
@@ -205,8 +205,8 @@ Description and action steps about the issue.
     The Recovery task form now includes a Task classification column where the automated tasks are displayed. These automated tasks are executed automatically by the system as part of the plan.
 
 
--   **[Create a subflow form](../reference/create-new-subflow-for-bcm.md)**  
+-   **[Create a subflow form](create-new-subflow-for-bcm.md)**  
 Use the Create a subflow form to automate a manual recovery task within the business continuity plan.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](bcp-tasks-performed-by-bcp-owner.md)
 

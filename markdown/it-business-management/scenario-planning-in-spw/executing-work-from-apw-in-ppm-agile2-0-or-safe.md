@@ -97,5 +97,5 @@ To get started on integrating Strategic Planning with PPM, Agile 2.0, and SAFe, 
 
 For detailed configuration steps, see [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe](configuring-apw-with-agile-safe-and-ppm.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
 

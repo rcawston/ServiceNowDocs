@@ -70,7 +70,7 @@ A set of related questions within a questionnaire template.**Note:** There can b
 
 3.  Enter a name and then drag a control onto the designer canvas to create a question of that type.
 
-    **Note:** Selecting the scored option \(**Scored** check box\) is optional. All question responses unless otherwise stated are scored. The scored option changes the scoring behavior. If selected, the score is based on a binary system \(0 or 100\) reflecting whether the answer is correct or incorrect. If not selected, the score is calculated using a scale definition, involving the questionRating, questionPercentContribution, and questionNormalizedValue formulae, and the MaximumNormalizationInput field can influence the normalized value. For more information, see [Scoring calculations using the classic assessment engine](../concept/vendor-ratings-scoring.md) and [Normalize the scores for metrics](../../grc-vendor-risk-implementation/concept/set-max-norm-input.md).
+    **Note:** Selecting the scored option \(**Scored** check box\) is optional. All question responses unless otherwise stated are scored. The scored option changes the scoring behavior. If selected, the score is based on a binary system \(0 or 100\) reflecting whether the answer is correct or incorrect. If not selected, the score is calculated using a scale definition, involving the questionRating, questionPercentContribution, and questionNormalizedValue formulae, and the MaximumNormalizationInput field can influence the normalized value. For more information, see [Scoring calculations using the classic assessment engine](vendor-ratings-scoring.md) and [Normalize the scores for metrics](set-max-norm-input.md).
 
     |Data type|Description|Scored|
     |---------|-----------|------|

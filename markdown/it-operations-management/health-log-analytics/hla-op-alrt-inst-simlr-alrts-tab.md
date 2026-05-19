@@ -26,8 +26,8 @@ Service Operations Workspace provides a context-aware alert triage based on data
 -   Perform remediation \(based on orchestration\)
 -   Launch a subflow \(workflow based on flow designer\).
 
--   **[Sections and cards on the alert Overview tab in Health Log Analytics](../../health-log-analytics-admin/concept/hla-alert-overview-tab.md)**  
+-   **[Sections and cards on the alert Overview tab in Health Log Analytics](hla-alert-overview-tab.md)**  
 The **Overview** tab helps you understand component-based alerts, Log Analytics alerts, and Log Analytics alert groups.
 
-**Parent Topic:**[Health Log Analytics reference](../../health-log-analytics-admin/concept/hla-reference.md)
+**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

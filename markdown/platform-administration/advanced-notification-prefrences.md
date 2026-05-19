@@ -21,7 +21,7 @@ With notification preferences, you can control the system notifications and cust
 
 You can also search for notifications under both system and custom notifications. There are 2 types of searches, search on preferences that only searches if it matches the notification name and AI search.
 
-With AI search, the search functionality now goes beyond just looking for notification names. It can also search within fields of notification records, offering a broader and more accurate search experience. To use the AI search, the AI Search for Notifications plugin must be installed and index sources **Platform Notifications V1** and **Platform Notifications V2**, for more information see [Activate AI Search for Notifications](../task/activate-ai-search-for-notifications-plugin.md) and [Index AI Search for notifications](../task/index-ai-search-for-notification.md).
+With AI search, the search functionality now goes beyond just looking for notification names. It can also search within fields of notification records, offering a broader and more accurate search experience. To use the AI search, the AI Search for Notifications plugin must be installed and index sources **Platform Notifications V1** and **Platform Notifications V2**, for more information see [Activate AI Search for Notifications](activate-ai-search-for-notifications-plugin.md) and [Index AI Search for notifications](index-ai-search-for-notification.md).
 
 ## System notifications
 
@@ -36,7 +36,7 @@ With system notifications, you can:
 -   Add or modify a notification schedule for individual delivery channels for each system notification.
 -   Set a schedule for all notifications, individual system notifications, or delivery channels.
 
-    For more information, see [Apply notification conditions](../task/apply-notification-conditions.md)
+    For more information, see [Apply notification conditions](apply-notification-conditions.md)
 
 
 ## Custom notifications
@@ -54,7 +54,7 @@ With custom notifications, you can:
 -   Add or modify a notification schedule for individual delivery channels for each system notification.
 -   Set a schedule for all notifications, individual system notifications, or delivery channels.
 
-    For more information, see [Apply notification conditions](../task/apply-notification-conditions.md)
+    For more information, see [Apply notification conditions](apply-notification-conditions.md)
 
 
 **Note:**
@@ -77,21 +77,21 @@ With Delivery Channels, you can:
 -   Choose how notifications are delivered.
 -   Set a schedule for the record in the channel and apply to the notifications you want to receive.
 
--   **[Activate AI Search for Notifications](../task/activate-ai-search-for-notifications-plugin.md)**  
+-   **[Activate AI Search for Notifications](activate-ai-search-for-notifications-plugin.md)**  
 You can activate the AI Search for Notifications plugin \(com.glide.notification.ais\) for Notifications if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Set notification preferences](../task/set-notification-preferences.md)**  
+-   **[Set notification preferences](set-notification-preferences.md)**  
 View, enable, and disable general settings for notification preferences, and delivery channels.
--   **[Customize system notifications](../task/create-custom-notifications.md)**  
+-   **[Customize system notifications](create-custom-notifications.md)**  
 Create custom notifications, which are subscriptions to notifications of importance to you, and apply conditions that control specific content included in your custom notification. You can also enable or disable the channels for delivery.
--   **[Modify a notification](../task/modify-notification-schedule.md)**  
+-   **[Modify a notification](modify-notification-schedule.md)**  
 Modify a notification by establishing a schedule or setting conditions to control the notifications you receive.
--   **[Create notification filter configuration for notification preferences](../task/create-notification-filter-configuration.md)**  
+-   **[Create notification filter configuration for notification preferences](create-notification-filter-configuration.md)**  
 Control the list of notifications that are displayed to the users under the advanced notification preferences page. This capability can help narrow down and show only relevant notifications based on user criteria.
--   **[Delete a custom notification](../task/delete-custom-notifications.md)**  
+-   **[Delete a custom notification](delete-custom-notifications.md)**  
 Delete custom notifications that you don't need any more.
--   **[Add a new notification delivery channel](../task/add-email-device.md)**  
+-   **[Add a new notification delivery channel](add-email-device.md)**  
 Add new channels for email, instant message, SMS, and voice to receive notifications and set a schedule for the channel for the notifications you want to receive.
--   **[Edit a delivery channel](../task/edit-or-delete-a-channel.md)**  
+-   **[Edit a delivery channel](edit-or-delete-a-channel.md)**  
 Edit an email, instant message, SMS, or voice channel for receiving notifications, and schedule when the channel can receive notifications.
 
 **Parent Topic:**[Notification Preferences](preferences-landing.md)

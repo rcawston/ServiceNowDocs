@@ -19,10 +19,10 @@ The SNC.Regex API is not available for scoped applications. For scoped applicati
 
 For more information on JavaScript regular expressions, see the Mozilla JavaScript documentation on [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) and [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp).
 
--   **[Using Java syntax in JavaScript regular expressions](../reference/r_JvSyntxJaScrRegex.md)**  
+-   **[Using Java syntax in JavaScript regular expressions](r_JvSyntxJaScrRegex.md)**  
 The enhanced regex engine includes an additional flag to allow Java syntax to be used in JavaScript regular expressions.
--   **[Convert SNC Regex expressions to enhanced regex expressions](../task/t_ConvertSNCRegexExpressions.md)**  
+-   **[Convert SNC Regex expressions to enhanced regex expressions](t_ConvertSNCRegexExpressions.md)**  
 When you upgrade to Eureka Patch 5 or later releases, you should convert scripts that use the SNC.Regex API to use regular JavaScript expressions.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 

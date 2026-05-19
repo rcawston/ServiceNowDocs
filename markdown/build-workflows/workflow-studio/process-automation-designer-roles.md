@@ -118,7 +118,7 @@ playbook.write
 Enables users who have content filtering restrictions to:-   Launch Workflow Studio to create, activate, edit, and delete playbooks.
 -   View the Experience activity types \(sys\_pd\_activity\) and Experience activity properties \(sys\_pd\_activity\_type\_prop\) tables that are shared by Playbooks and Playbook Experience.
 
-To learn more about content access filtering, see [Content filtering for Playbook](../concept/content-filtering-playbooks.md)
+To learn more about content access filtering, see [Content filtering for Playbook](content-filtering-playbooks.md)
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ playbook.designer\_access
 
 </td><td>
 
-Enables users who have content filtering restrictions to launch Workflow Studio to view playbooks. To learn more about content access filtering, see [Content filtering for Playbook](../concept/content-filtering-playbooks.md).
+Enables users who have content filtering restrictions to launch Workflow Studio to view playbooks. To learn more about content access filtering, see [Content filtering for Playbook](content-filtering-playbooks.md).
 
 </td></tr><tr><td>
 
@@ -134,8 +134,8 @@ playbook.activity\_def\_read
 
 </td><td>
 
-Enables users to view all activity definitions as long as there aren't [Required Roles](../concept/content-filtering-playbooks.md#activity_def_req_roles).
+Enables users to view all activity definitions as long as there aren't [Required Roles](content-filtering-playbooks.md#activity_def_req_roles).
 
 </td></tr></tbody>
-</table>**Note:** Granting users Playbooks roles does not automatically allow them to access the Workflow Studio design environment. Granting users access to Workflow Studio may be helpful when creating activity definitions. For more information on Workflow Studio roles, see [user access to Flow Designer](../../flow-designer/concept/user-access-flow-designer.md).
+</table>**Note:** Granting users Playbooks roles does not automatically allow them to access the Workflow Studio design environment. Granting users access to Workflow Studio may be helpful when creating activity definitions. For more information on Workflow Studio roles, see [user access to Flow Designer](user-access-flow-designer.md).
 

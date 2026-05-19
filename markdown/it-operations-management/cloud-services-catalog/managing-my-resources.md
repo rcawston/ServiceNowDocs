@@ -63,5 +63,5 @@ Role required: admin
     -   Resources owned by groups I am part of: This option displays all the groups that you are part of.
     -   Resources owned by anyone: This option displays all the resources in the selected category, in Configuration Management Database \(CMDB\), and assigned.
 
-**Parent Topic:**[Exploring My Resources](../concept/explore-my-resources.md)
+**Parent Topic:**[Exploring My Resources](explore-my-resources.md)
 

@@ -139,16 +139,16 @@ Order in which the entity should be displayed.
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Source-to-Pay integration with Coupa](../concept/configuring-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Configure Source-to-Pay integration with Coupa](configuring-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for Coupa](../concept/erp-source-configuration-coupa.md)
+[ERP Source Configuration for Coupa](erp-source-configuration-coupa.md)
 
 [Define an ERP source configuration for Coupa](define-erp-source-coupa.md)
 
 [Activate the schedule flows](activate-schedule-flows-coupa.md)
 
-[Looking up primary data in Coupa](../concept/look-up-primary-data-coupa.md)
+[Looking up primary data in Coupa](look-up-primary-data-coupa.md)
 

@@ -31,6 +31,6 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 4.  Select **Generate** on the Generate labor costs confirmation window.
 
-    **Note:** Alternatively, you can [activate a scheduled job](../../spw-financials/task/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
+    **Note:** Alternatively, you can [activate a scheduled job](../scenario-planning-in-spw/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
 
 

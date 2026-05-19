@@ -53,5 +53,5 @@ msiexec.exe /x PasswordResetWinAppInstall.msi /quiet
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

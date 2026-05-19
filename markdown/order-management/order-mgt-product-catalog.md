@@ -51,7 +51,7 @@ The following example shows a managed firewall service structure that incorporat
 
 -   **[../task/order-mgt-characteristics.md](../task/order-mgt-characteristics.md)**  
 
--   **[Create specification characteristics](../task/create-specification-characteristic.md)**  
+-   **[Create specification characteristics](create-specification-characteristic.md)**  
 Define characteristics for a product, service, or resource specification.
 -   **[../task/order-mgt-specification-rels.md](../task/order-mgt-specification-rels.md)**  
 

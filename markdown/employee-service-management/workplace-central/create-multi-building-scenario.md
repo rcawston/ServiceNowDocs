@@ -81,7 +81,7 @@ Select **Create scenario**.
 </td></tr></tbody>
 </table>4.  On the Scenario details form, fill in the fields.
 
-    For a description of the field values, see [Scenario details form](../reference/scenario-details-form.md).
+    For a description of the field values, see [Scenario details form](scenario-details-form.md).
 
 5.  Select **Save scenario**.
 
@@ -94,7 +94,7 @@ The new scenario is created in the **Processing** state and takes some time to m
 
 ![The Scenarios page showing list of scenarios.](../images/wsd-scenario-creation-page.png)
 
-For more information about scenario states, refer to [Scenario and Building - Views, states, settings, and key features](../reference/scenario-planning-views-actions-keyfeatures-.md).
+For more information about scenario states, refer to [Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md).
 
 After a scenario moves to the **Draft** state, you can open the scenario and select the view options for the scenario.
 
@@ -105,14 +105,14 @@ After a scenario moves to the **Draft** state, you can open the scenario and sel
 
 To create a copy of an existing scenario, see [Create a copy of an existing scenario](create-copy-of-scenario.md).
 
-View or edit the scenario by using the stack plan or the floor map. For more information, see [Viewing or editing a scenario](../concept/viewing-editing-scenario.md).
+View or edit the scenario by using the stack plan or the floor map. For more information, see [Viewing or editing a scenario](viewing-editing-scenario.md).
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](working-with-space-optimization.md)
 
 **Related topics**  
 
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](viewing-editing-scenario.md)
 
 [Review a scenario](review-a-scenario.md)
 
@@ -132,5 +132,5 @@ View or edit the scenario by using the stack plan or the floor map. For more inf
 
 [Work on a space assist request](work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](map-based-space-administration.md)
 

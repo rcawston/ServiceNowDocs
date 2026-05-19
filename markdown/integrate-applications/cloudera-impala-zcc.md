@@ -59,5 +59,5 @@ The following table lists supported Cloudera Impala data types and the default m
 **Related topics**  
 
 
-[Create a Cloudera Impala connection](../task/create-cloudera-impala-connection.md)
+[Create a Cloudera Impala connection](create-cloudera-impala-connection.md)
 

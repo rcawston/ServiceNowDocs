@@ -38,5 +38,5 @@ Role required: user
     The values of all the KPIs including the contributing KPIs for the selected criteria is displayed on the dashboard. The data is refreshed for each selected criteria.
 
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](measuring-performance-success-dashboard.md)
 

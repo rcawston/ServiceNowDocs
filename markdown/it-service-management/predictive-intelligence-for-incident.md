@@ -223,5 +223,5 @@ If your instance is running on the Kingston release and you are upgrading to the
 
 You can manage prediction drift by retraining, modifying, or creating new solutions to reflect changes in your business conditions. Test and modify your business rule over time to ensure it works as desired across multiple consumption points and user Personas.
 
-**Parent Topic:**[Machine learning solutions for IT Service Management](../../it-service-management/concept/machine-learning-itsm.md)
+**Parent Topic:**[Machine learning solutions for IT Service Management](machine-learning-itsm.md)
 

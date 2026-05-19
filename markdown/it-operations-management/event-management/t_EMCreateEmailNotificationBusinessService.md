@@ -77,5 +77,5 @@ Configure an email notification to notify users when there is an application ser
 -   **[Configure contextual colors and icons](configure-contextual-colors-icons.md)**  
 Use the **Contextual colors and icons** form to configure color, text, and icons to have different default or custom contexts, identified by a context ID.
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 

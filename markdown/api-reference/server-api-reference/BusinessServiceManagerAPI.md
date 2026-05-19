@@ -17,7 +17,7 @@ The BusinessServiceManager API provides methods that unify service management by
 
 Use BusinessServiceManager methods in global server scripts. You must have the Application Service administrator \[app\_service\_admin\] role to call this API.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## BusinessServiceManager - BusinessServiceManager\(\)
 

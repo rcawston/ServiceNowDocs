@@ -50,7 +50,7 @@ Steps
 1.  On the Workplace users list, select **New**.
 2.  On the User Workplace Profile form, fill in the fields.
 
-For a description of the field values, see [User Workplace Profile form](../reference/user-workplace-profile-form.md).
+For a description of the field values, see [User Workplace Profile form](user-workplace-profile-form.md).
 
 3.  Select **Save**.
 
@@ -130,5 +130,5 @@ If you select email, you must enter the email address of the recipient.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with Space Planning](../concept/working-with-space-planning.md)
+**Parent Topic:**[Working with Space Planning](working-with-space-planning.md)
 

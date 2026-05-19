@@ -48,5 +48,5 @@ v\_changed\_fields is a map of changed field names and values.
 })(v_record, v_changed_fields);
 ```
 
-**Parent Topic:**[Create script definitions for a remote table](../task/create-remote-table-script.md)
+**Parent Topic:**[Create script definitions for a remote table](create-remote-table-script.md)
 

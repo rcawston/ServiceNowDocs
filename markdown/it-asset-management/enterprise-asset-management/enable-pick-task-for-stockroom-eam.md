@@ -32,7 +32,7 @@ Role required: inventory\_user
 5.  Select **Save**.
 
 
-**Parent Topic:**[Manage enterprise asset picking within your stockrooms](../concept/manage-asset-picking-stockroom-eam-ws.md)
+**Parent Topic:**[Manage enterprise asset picking within your stockrooms](manage-asset-picking-stockroom-eam-ws.md)
 
 **Related topics**  
 

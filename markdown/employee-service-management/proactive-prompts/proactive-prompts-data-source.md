@@ -65,7 +65,7 @@ Performance Analytics Indicator
 
 </td><td>
 
-Uses the data collected by the Performance Analytics job for the selected indicator and breakdown. For example, this type of table can be used to prompt the manager about number of open incidents.**Note:** The Performance Analytics job must be run to process the data. For more information, see [Activate Performance Analytics jobs](../task/activae-pa-indicator-jobs-sdb.md).
+Uses the data collected by the Performance Analytics job for the selected indicator and breakdown. For example, this type of table can be used to prompt the manager about number of open incidents.**Note:** The Performance Analytics job must be run to process the data. For more information, see [Activate Performance Analytics jobs](../hr-service-delivery/activae-pa-indicator-jobs-sdb.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)

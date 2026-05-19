@@ -49,5 +49,5 @@ To create or modify a visa category:
     The visa category appears in the **HR Visa Categories** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](c_ManagedLists.md)
 

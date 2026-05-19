@@ -232,5 +232,5 @@ Chart interaction
 User actions supported within the chart, such as hover or select.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a funnel visualization](../task/create-funnel-visualization.md)
+</table>**Parent Topic:**[Create a funnel visualization](create-funnel-visualization.md)
 

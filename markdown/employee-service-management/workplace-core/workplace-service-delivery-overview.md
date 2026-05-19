@@ -44,7 +44,7 @@ The ServiceNow® Workplace Core application enables you to create well-maintaine
 
     If the workplace profiles of all employees are set up, the application automatically assigns available workplaces for employees using the data stored in Workplace profile table.
 
-    The Workplace Service Delivery provides more advanced workplace reservation options in the Workplace Reservation Management. For more information, see [Workplace Reservation Management](../../wsd-reservation-management/concept/workplace-rsv-mgmt-feat.md).
+    The Workplace Service Delivery provides more advanced workplace reservation options in the Workplace Reservation Management. For more information, see [Workplace Reservation Management](../workplace-reservation-management/workplace-rsv-mgmt-feat.md).
 
 -   **Workplace tasks**
 
@@ -58,19 +58,19 @@ The ServiceNow® Workplace Core application enables you to create well-maintaine
 
     As a workplace manager, you can enable employees to raise workplace-related requests. The Workplace Case Management application enables you to configure services using which employees case can raise their requests.
 
-    As a case manager, you can manage the requests raised by the employees in the form of workplace cases. You can create task, sub-tasks as per requirement and perform various other actions. For more information, refer to [Workplace Case Management](../../workplace-case-mgmt/concept/workplace-case-mgmt-feat.md).
+    As a case manager, you can manage the requests raised by the employees in the form of workplace cases. You can create task, sub-tasks as per requirement and perform various other actions. For more information, refer to [Workplace Case Management](../workplace-case-management/workplace-case-mgmt-feat.md).
 
 -   **Visitor management**
 
-    Manage visitors expected at the workplace. Register visitors and manage their visit such as getting a visitor agreement, printing their visitor badge, and more. For more information, refer to [Workplace Visitor Management](../../workplace-visitor-mgmt/concept/workplace-visitor-mgmt-feat.md).
+    Manage visitors expected at the workplace. Register visitors and manage their visit such as getting a visitor agreement, printing their visitor badge, and more. For more information, refer to [Workplace Visitor Management](../workplace-visitor-management/workplace-visitor-mgmt-feat.md).
 
 -   **Manage workplace moves**
 
-    As a workplace manager, the application enables you to manage the move requests raised by employees. You can track the expected start and due date by when a move must be fulfilled. You can perform various other actions. For more information, refer to [Workplace Move Management](../../workplace-move-mgmt/concept/workplace-move-mgmt-overview.md).
+    As a workplace manager, the application enables you to manage the move requests raised by employees. You can track the expected start and due date by when a move must be fulfilled. You can perform various other actions. For more information, refer to [Workplace Move Management](../workplace-move-mgmt-overview.md).
 
 -   **Workplace Central**
 
-    As a workplace manager, save your time by focusing on all your main workplace activities in a single workspace, that is, Workplace Central. The workplace central is a workspace available on the Employee Center. It is a one-stop workspace from where you can check all the dashboards, perform space allocation activities, manage move requests, manage reservations and more. For more information, refer to [Workplace Central](../../workplace-central/concept/workplace-central-feat.md).
+    As a workplace manager, save your time by focusing on all your main workplace activities in a single workspace, that is, Workplace Central. The workplace central is a workspace available on the Employee Center. It is a one-stop workspace from where you can check all the dashboards, perform space allocation activities, manage move requests, manage reservations and more. For more information, refer to [Workplace Central](../workplace-central/workplace-central-feat.md).
 
 
 **Note:**
@@ -81,7 +81,7 @@ Workplace Core customers using Workplace Core version 2.18.1 and later can acces
 
 ## Use with other Workplace Service Delivery applications
 
-Workplace Core is the core application of the ServiceNow® Workplace Service Delivery. Use it along with other applications that are part of the suite. For information about other applications available in the suite, see [Workplace Service Delivery applications](../../workplace-service-delivery-suite/concept/workplace-service-delivery-apps.md)
+Workplace Core is the core application of the ServiceNow® Workplace Service Delivery. Use it along with other applications that are part of the suite. For information about other applications available in the suite, see [Workplace Service Delivery applications](../workplace-service-delivery/workplace-service-delivery-apps.md)
 
 All Safe Workplace suite applications are available in the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 

@@ -28,5 +28,5 @@ The following data is collected on the HP Service Manager `[cmdb_ci_appl_hp_serv
 |Name|name|
 |Vendor|vendor|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

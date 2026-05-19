@@ -41,10 +41,10 @@ Create an active insight trigger so that you can run the related insight rule.
 -   **[Write a script for an automation message variable](create-message-variable-auto-center.md)**  
 Write JavaScript code input for variables that are added in the message of an insight rule.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 
 
-[Insight rule form](../reference/insight-rule-form.md)
+[Insight rule form](insight-rule-form.md)
 

@@ -138,5 +138,5 @@ The date and time when the particular reconciliation process was completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

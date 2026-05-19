@@ -15,7 +15,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 Use the Work management view in the Enterprise Asset Workspace to create and manage maintenance plans, work orders, and work order tasks.
 
-**Important:** Before you can access and use the Work management view, edit your Field Service Management configurations as needed. See [Edit Field Service Management configurations for the Work management view](../task/edit-field-service-configurations-work-management-view.md) for detailed instructions.
+**Important:** Before you can access and use the Work management view, edit your Field Service Management configurations as needed. See [Edit Field Service Management configurations for the Work management view](edit-field-service-configurations-work-management-view.md) for detailed instructions.
 
 You can access the Work management view by navigating to **Enterprise Asset Workspace** &gt; **Work management**.
 

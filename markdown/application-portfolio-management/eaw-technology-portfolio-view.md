@@ -42,5 +42,5 @@ You can use the Technology Reference Model \(TRM\) feature in Enterprise Archite
 -   **[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md)**  
 Technology Portfolio Management helps Enterprise Architects to manage technology life-cycle risks and technology life-cycle exceptions. Enterprise Architects can evaluate all their business applications and application services by accessing the discovered technologies and auditing information in the Enterprise Architecture Workspace.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](explore-eaw.md)
 

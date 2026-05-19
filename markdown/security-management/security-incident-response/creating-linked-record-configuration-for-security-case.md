@@ -103,5 +103,5 @@ This script describes the fields from source tables record will mapped to newly 
     ![Modal view](../image/modal-view-step1.png "Image 2. Modal View")
 
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](use-case-for-a-security-case.md)
 

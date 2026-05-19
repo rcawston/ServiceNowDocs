@@ -91,7 +91,7 @@ Activate the applications in the following order:
 **Related topics**  
 
 
-[Configure case summarization in Now Assist for Financial Services Operations \(FSO\)](../task/configure-now-assist-for-fso.md)
+[Configure case summarization in Now Assist for Financial Services Operations \(FSO\)](configure-now-assist-for-fso.md)
 
-[Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)](../../fso-now-assist/task/configuring-disputes-intake-via-virtual-agent.md)
+[Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)](configuring-disputes-intake-via-virtual-agent.md)
 

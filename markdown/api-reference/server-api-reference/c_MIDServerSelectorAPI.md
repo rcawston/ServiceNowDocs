@@ -17,7 +17,7 @@ The MIDServerSelector script include provides methods to find a MID Server based
 
 Use in server scripts to find a MID Server with specific capabilities.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## MIDServerSelector - MIDServerSelector\(\)
 

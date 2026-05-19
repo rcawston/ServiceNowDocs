@@ -19,7 +19,7 @@ Integrate the ServiceNow instance and Google Persistent Disk spoke by using G Su
 
 -   Request an Integration Hub subscription.
 -   Activate the Google Persistent Disk spoke.
--   Activate and set up the [Google Compute Engine Spoke](../concept/gcomengine-spoke.md).
+-   Activate and set up the [Google Compute Engine Spoke](gcomengine-spoke.md).
 -   Role required: admin.
 
 ## Procedure

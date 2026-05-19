@@ -522,11 +522,11 @@ Use triggers in the Jamf spoke to subscribe to the required events. The endpoint
 |Group Management|Smart Group Computer Membership Change|Trigger initiates when a managed computer joins or leaves the membership of a smart computer group.|
 |Mobile Device Management|Mobile Device Inventory Completed|Trigger initiates when a device completes the Update Inventory MDM command.|
 
-For information about setting up the triggers for the Jamf spoke, see [Set up triggers for the Jamf spoke](../task/jamf-setup-triggers.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](../../integrationhub/concept/conditional-and-event-driven-inbound-integration.md).
+For information about setting up the triggers for the Jamf spoke, see [Set up triggers for the Jamf spoke](jamf-setup-triggers.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](conditional-and-event-driven-inbound-integration.md).
 
 ## Connection and credential alias requirements
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Jamf spoke](../task/setup-jamf-spk.md).
+For information about setting up the spoke, see [Set up the Jamf spoke](setup-jamf-spk.md).
 

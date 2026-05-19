@@ -17,7 +17,7 @@ Learn how to configure actions that affect the whole input form screen. These ac
 
 Role required: admin
 
-A loading mechanism is required to refresh the input form screen with updated data. The options available are autofill variables and data sources. For more information, see [Loading mechanisms for input form screens](../concept/loading-mechanisms.md).
+A loading mechanism is required to refresh the input form screen with updated data. The options available are autofill variables and data sources. For more information, see [Loading mechanisms for input form screens](loading-mechanisms.md).
 
 If your input form only includes input values for loading, and you don’t need to load an input type of attachment, then the autofill variable option is sufficient. If your input form includes either attachments, comments, or descriptive elements, the data source option must be used. The data source option also handles input values.
 
@@ -89,7 +89,7 @@ Input form screen actions are accessed in the top menu as either an icon \(![Mor
         **Note:** To display the data in the input form after the save action, you must configure one of the following loading mechanisms:
 
         -   Autofill variable: For more information, see [Configure input form screen inputs](param-screen-config-inputs.md).
-        -   Data source: For more information, see [Data sources](../concept/data-sources.md).
+        -   Data source: For more information, see [Data sources](data-sources.md).
     6.  Enter `true` in the **Value** field.
     7.  Select **Save**.
 14. Select **Save**.
@@ -97,5 +97,5 @@ Input form screen actions are accessed in the top menu as either an icon \(![Mor
 
 ## What to do next
 
-**Use timestamps to track users changes in the input form**. To monitor the changes made by different users on an input form screen, you must enable the track timestamps option and use a script. The **Track timestamps for input updates** field is on the main input form screen record. For more information, see [Configure an input form screen](parameter-screen-config.md). It tracks the time the input’s value changed. This information is accessible using the scripted writeback action. For a code example of this writeback action, see [Using timestamps to track user changes in an input form](../reference/track-timestamp-script.md).
+**Use timestamps to track users changes in the input form**. To monitor the changes made by different users on an input form screen, you must enable the track timestamps option and use a script. The **Track timestamps for input updates** field is on the main input form screen record. For more information, see [Configure an input form screen](parameter-screen-config.md). It tracks the time the input’s value changed. This information is accessible using the scripted writeback action. For a code example of this writeback action, see [Using timestamps to track user changes in an input form](track-timestamp-script.md).
 

@@ -17,7 +17,7 @@ CMDB Health calculates an aggregated score for three Key Performance Indicators 
 
 You can configure which KPIs and metrics are included in CMDB Health evaluations and dashboards. In the base system, all KPIs and all their metrics are included.
 
-To access the CMDB Health Dashboard and view CMDB health, see [View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md).
+To access the CMDB Health Dashboard and view CMDB health, see [View CMDB Health Dashboard](c_MonitorCMDBHealth.md).
 
 ## Correctness
 
@@ -27,11 +27,11 @@ A KPI which is an aggregation of the following metrics:
 
     Measures the percentage of orphan CIs in the CMDB. A CI can become orphan if it was unintentionally left in the CMDB when it is no longer needed. A CI is determined to be orphan if:
 
-    -   The CI satisfies the criteria in an [orphan rule](../task/t_CreateCMDBHealthOrphanRule.md). This criteria checks for specific attributes that a CI must have, and for CIs that have no relationships or that don't have specific relationships.
+    -   The CI satisfies the criteria in an [orphan rule](t_CreateCMDBHealthOrphanRule.md). This criteria checks for specific attributes that a CI must have, and for CIs that have no relationships or that don't have specific relationships.
     -   Data is missing for the CI in its respective table, or in one of its parents' table.
 -   **Staleness**
 
-    Measures the percentage of stale CIs in the CMDB. A CI is stale if it was not updated within the **Effective Duration** time period that is specified in the [staleness rule](../task/t_CreateCMDBHealthStaleRule.md) that applies to the class.
+    Measures the percentage of stale CIs in the CMDB. A CI is stale if it was not updated within the **Effective Duration** time period that is specified in the [staleness rule](t_CreateCMDBHealthStaleRule.md) that applies to the class.
 
     The base system includes a default staleness rule for the Configuration Item \[cmdb\_ci\] class, which sets the **Effective Duration** time to 60 days. This rule applies to all extended CMDB classes, and can be overridden by class specific staleness rules defined by the user. To determine CI staleness, a staleness rule for the CI's class is used if it exists, otherwise, the default staleness rule is used.
 
@@ -45,7 +45,7 @@ A KPI which is an aggregation of the following metrics:
 
 -   **Duplicate**
 
-    Measures the percentage of duplicate CIs in the CMDB using [identification rules](../task/t_CreateCIIdentificationRule.md). Only independent CIs are evaluated for duplication. In a set of duplicate CIs, the count of duplicate CIs is the total number of CIs in the set, minus one. The detailed graphs for a duplicate set of CIs display all the CIs in the set.
+    Measures the percentage of duplicate CIs in the CMDB using [identification rules](t_CreateCIIdentificationRule.md). Only independent CIs are evaluated for duplication. In a set of duplicate CIs, the count of duplicate CIs is the total number of CIs in the set, minus one. The detailed graphs for a duplicate set of CIs display all the CIs in the set.
 
     For more details, examples, and troubleshooting information about duplicate metric, see the [CMDB Health - Duplicate Metric - algorithm \[KB0726425\]](https://support.servicenow.com/kb_view_customer.do?sysparm_article=KB0726425) knowledge base article.
 
@@ -56,11 +56,11 @@ A KPI which is an aggregation of the following metrics:
 
 -   **Required**
 
-    Measures the percentage of CIs in which fields that are defined as mandatory, are not populated. Missing fields are tagged as incomplete noting that for this CI some information is missing. Required fields are equivalent to the fields that are [specified as mandatory](../task/t_SetCIFieldMandatory.md) in the system dictionary.
+    Measures the percentage of CIs in which fields that are defined as mandatory, are not populated. Missing fields are tagged as incomplete noting that for this CI some information is missing. Required fields are equivalent to the fields that are [specified as mandatory](t_SetCIFieldMandatory.md) in the system dictionary.
 
 -   **Recommended**
 
-    Measures the percentage of CIs in which fields that are [set as recommended](../task/t_MakingAFieldRecommended.md), are not populated. Out-of-box, no recommended fields are specified.
+    Measures the percentage of CIs in which fields that are [set as recommended](t_MakingAFieldRecommended.md), are not populated. Out-of-box, no recommended fields are specified.
 
     You can use the [Add Identifier Fields In Recommended Rules](r_TablesInstalledCMDBHealth.md) scheduled job to set criterion attributes from active identification rules, as recommended fields. You can use the [Remove Identifier Fields In Recommended Rules](r_TablesInstalledCMDBHealth.md) scheduled job to unset criterion attributes from active identification rules, as recommended fields.
 
@@ -69,13 +69,13 @@ A KPI which is an aggregation of the following metrics:
 
 Based on the results of actual CMDB audit runs.
 
-**Note:** Audit must be activated for the compliance KPI to show results. For more information, see [Compliance Activation](../../compliance/concept/c_ActivatingCompliance.md).
+**Note:** Audit must be activated for the compliance KPI to show results. For more information, see [Compliance Activation](c_ActivatingCompliance.md).
 
 -   **Audit**
 
-    [Audit](../../compliance/concept/c_CertificationAudits.md) compares actual values of specified fields, against expected values defined in template and scripted audits. Based on the **Last run date** of audits, CMDB Health identifies the set of the most recent complete audit run, and uses those audit results. To pass the CMDB Health audit test, a CI must be in compliance with all audits for that CI.Create a compliance-type audit, for which the results are calculated into the CMDB Health compliance KPI.
+    [Audit](c_CertificationAudits.md) compares actual values of specified fields, against expected values defined in template and scripted audits. Based on the **Last run date** of audits, CMDB Health identifies the set of the most recent complete audit run, and uses those audit results. To pass the CMDB Health audit test, a CI must be in compliance with all audits for that CI.Create a compliance-type audit, for which the results are calculated into the CMDB Health compliance KPI.
 
-    When running [scripted audits](../../compliance/concept/c_ScriptedAudits.md), the **Last run date** is not populated. Therefore, for the compliance KPI to include the results of a scripted audit, update the script in the audit to record the audit run time.
+    When running [scripted audits](c_ScriptedAudits.md), the **Last run date** is not populated. Therefore, for the compliance KPI to include the results of a scripted audit, update the script in the audit to record the audit run time.
 
 
 ## Relationships
@@ -103,14 +103,14 @@ Also reports the following relationship-related summaries:
 -   Relations not compliant with containment rules
 -   Relations not compliant with hosting rules
 
-To access the Relationship Health Dashboard and view relationships health, see [View relationships health](../task/t_ViewRelationshipsHealth.md).
+To access the Relationship Health Dashboard and view relationships health, see [View relationships health](t_ViewRelationshipsHealth.md).
 
-**Parent Topic:**[Exploring CMDB Health](../concept/exploring-cmdb-health-parent.md)
+**Parent Topic:**[Exploring CMDB Health](exploring-cmdb-health-parent.md)
 
 **Related topics**  
 
 
 [CMDB Health system properties](r_CMDBHealthProperties.md)
 
-[Configure KPI and metrics preferences](../task/t_ConfigureCMDBHealthMetrics.md)
+[Configure KPI and metrics preferences](t_ConfigureCMDBHealthMetrics.md)
 

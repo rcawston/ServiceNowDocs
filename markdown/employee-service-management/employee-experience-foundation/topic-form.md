@@ -31,7 +31,7 @@ Name
 
 Name for the topic.**Note:** For better topic discovery and search results, avoid special character **/** and ensure you re-index the content after topic name edits.
 
-Ensure that the topic table changes are manually reindexed for their corresponding indexed sources, see [Create and associate topics](../task/create-topics-for-taxonomy.md).
+Ensure that the topic table changes are manually reindexed for their corresponding indexed sources, see [Create and associate topics](create-topics-for-taxonomy.md).
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ When you opt in, you can select the user criteria for the topic visibility. Enab
 
 Default: Disable
 
-For more information, see [Enable user criteria for topics](../task/enable-user-criteria-topics.md).
+For more information, see [Enable user criteria for topics](enable-user-criteria-topics.md).
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ This field is available when the **Enable user criteria check** is selected.
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 
@@ -233,5 +233,5 @@ This field is available when the **Enable user criteria check** is selected.
 
 [Website configuration form](config-website-form.md)
 
-[Create and associate topics](../task/create-topics-for-taxonomy.md)
+[Create and associate topics](create-topics-for-taxonomy.md)
 

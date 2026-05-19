@@ -23,9 +23,9 @@ Enhance the security mechanism for users to access a network using token based a
 
 </td><td>
 
-[Digest Token Authentication](../../single-sign-on/concept/c_DigestTokenAuthentication.md)![Digest Token Authentication](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Digest Token Authentication](c_DigestTokenAuthentication.md)![Digest Token Authentication](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [The digest token authentication passes user credentials and a digest token within an unencrypted HTTP header.](../../single-sign-on/concept/c_DigestTokenAuthentication.md)
+ [The digest token authentication passes user credentials and a digest token within an unencrypted HTTP header.](c_DigestTokenAuthentication.md)
 
 </td></tr><tr><td>
 

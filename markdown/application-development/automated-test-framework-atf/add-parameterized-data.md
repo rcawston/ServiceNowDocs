@@ -80,5 +80,5 @@ Click **Run Test**. Automated Test Framework runs each parameterized test once p
 
 Parameterized tests display test results by the execution order of the data sets. Open each test result record to view the test details.
 
-**Parent Topic:**[Parameterized tests](../concept/parameterized-tests.md)
+**Parent Topic:**[Parameterized tests](parameterized-tests.md)
 

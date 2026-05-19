@@ -68,5 +68,5 @@ Newly created users have END\_USER permissions only. The access level can be cha
 
 [User access](please_share_your_feedback_on_admin_assist_responses.md)
 
-[User Access Control reference](../reference/cpq-user-access-control-ref.md)
+[User Access Control reference](cpq-user-access-control-ref.md)
 

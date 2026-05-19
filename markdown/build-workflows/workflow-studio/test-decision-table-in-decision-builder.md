@@ -46,5 +46,5 @@ Role required: admin, decision\_table\_admin, decision\_table\_reader, Change ma
 
 The results of the test are displayed, showing either no results or one or all of the decisions where your input data matches the conditions. You can run additional tests on the table by changing the test parameters and inputs, and selecting **Test** again.
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

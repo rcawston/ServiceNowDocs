@@ -15,7 +15,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 Default set of To do's configurations are available to use after you have activated Employee Center Core. These configurations display managerial tasks and requests in Manager Hub.
 
-To dos filters is a module within Employee Center. For more details on how to configure the filters, see [Create or modify a to-dos filter](../../employee-center/task/configure-to-dos-page-filters.md)
+To dos filters is a module within Employee Center. For more details on how to configure the filters, see [Create or modify a to-dos filter](../employee-experience-foundation/configure-to-dos-page-filters.md)
 
 |Name|Description|
 |----|-----------|
@@ -28,12 +28,12 @@ For more information on the filters, navigate to **Employee Center** &gt; **Admi
 
 For more information on the filter conditions, navigate to **Employee Center** &gt; **Administration** &gt; **To-dos configuration** &gt; **To-dos config filter conditions**.
 
-**Parent Topic:**[Reference for Manager Hub](../reference/reference-manager-hub.md)
+**Parent Topic:**[Reference for Manager Hub](reference-manager-hub.md)
 
 **Related topics**  
 
 
-[Components installed with Manager Hub](../reference/installed-with-managerhub.md)
+[Components installed with Manager Hub](installed-with-managerhub.md)
 
 [Campaign configurations for Manager Hub](manager-hub-campaign.md)
 
@@ -51,11 +51,11 @@ For more information on the filter conditions, navigate to **Employee Center** &
 
 [Default proactive prompts for Manager Hub](prompts-mh.md)
 
-[Use the View menu icon in Manager Hub](../reference/view-menu.md)
+[Use the View menu icon in Manager Hub](view-menu.md)
 
-[Assign learning form](../reference/assign-learning-form.md)
+[Assign learning form](assign-learning-form.md)
 
-[Create a conversation form](../reference/create-conversation-form.md)
+[Create a conversation form](create-conversation-form.md)
 
-[Schedule a conversation form](../reference/schedule-conversation-form.md)
+[Schedule a conversation form](schedule-conversation-form.md)
 

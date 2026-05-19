@@ -18,5 +18,5 @@ Reference information to provide additional details about Innovation Management 
 -   **[Form field information for Innovation Management](form-field-information-for-innovation-management.md)**  
 Field information for forms used in the Innovation Management.
 
-**Parent Topic:**[Innovation Management](../concept/innovation-management-landing.md)
+**Parent Topic:**[Innovation Management](innovation-management-landing.md)
 

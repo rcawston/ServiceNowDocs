@@ -46,5 +46,5 @@ Creating and integrating a single tenant bot is similar to creating a GCC-H or D
 
 Your single-tenant bot is ready for use in Virtual Agent.
 
-**Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](../concept/specialized-va-integs-msteams.md)
+**Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](specialized-va-integs-msteams.md)
 

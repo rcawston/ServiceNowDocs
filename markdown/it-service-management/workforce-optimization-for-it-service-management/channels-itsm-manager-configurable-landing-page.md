@@ -73,5 +73,5 @@ As a channel manager, you can monitor key information such as the number of SLAs
 |Available agents|Single score![Single score](../../performance-analytics/image/single-score.png)| |Number of agents currently available to work on work items.|
 |Total open incidents|Bar chart![Bar chart](../../../reuse/reporting/image/bar-trend.svg)| |Total number of incidents that are in various workflow states and have not been closed.|
 
-**Parent Topic:**[Workforce Optimization for ITSM landing pages](../../../product/configurable-workforce-optimization-itsm/concept/configurable-wfo-itsm-landing-pages.md)
+**Parent Topic:**[Workforce Optimization for ITSM landing pages](configurable-wfo-itsm-landing-pages.md)
 

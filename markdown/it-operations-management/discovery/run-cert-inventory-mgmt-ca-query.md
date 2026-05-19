@@ -21,7 +21,7 @@ Role required: pki\_admin or discovery\_admin
 
 ## About this task
 
-In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specific API elements. The user added to the instance credentials needs permissions for these queries. For more information on the Certificate Authorities \(CA\) pattern and the associated API elements, see [Certificate authorities pattern API elements and permissions](../reference/ca-api-permission.md).
+In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specific API elements. The user added to the instance credentials needs permissions for these queries. For more information on the Certificate Authorities \(CA\) pattern and the associated API elements, see [Certificate authorities pattern API elements and permissions](ca-api-permission.md).
 
 ## Procedure
 

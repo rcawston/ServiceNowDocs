@@ -19,6 +19,6 @@ For the mapping step, you must first ingest sample alerts from the Microsoft Azu
 
 Mapping of the sample alert fields involves the following:
 
--   [Ingest sample Microsoft Graph Security API alerts](../task/ms-graph-create-profile-ingestion.md)
+-   [Ingest sample Microsoft Graph Security API alerts](ms-graph-create-profile-ingestion.md)
 -   [Mapping alerts to security incident response fields](ms-graph-create-profile-map.md)
 

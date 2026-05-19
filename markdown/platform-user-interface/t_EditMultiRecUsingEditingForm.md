@@ -47,7 +47,7 @@ Depending on your ACL settings, some of these options might not be available eve
 </table>2.  Enter appropriate values in any of the fields and select **Update** to save your changes in all selected records.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](r_MethodsForListEdits.md)
 
 **Related topics**  
 

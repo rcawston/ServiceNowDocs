@@ -30,7 +30,7 @@ GRC: Risk Management quick start tests require activating the Risk Management pl
 |GRC: ATF flow for Indicator \(Basic\)|Create an indicator template with type basic and result as failed. Associate a control objective to it and give the supporting data. Execute one of the indicators thus formed. The associated control will become non- compliant and an issue will be generated.|New York|
 |GRC: ATF flow for indicator \(Script\)|Create an indicator template with type script and enter a script and set the value of result.passed and result.value. Associate a control objective to it. Execute one of the indicators. The associated control will become non-compliant and an issue will be generated.|New York|
 
-**Parent Topic:**[Risk Management detailed setup](../../../product/grc-risk/concept/setup-risk-management.md)
+**Parent Topic:**[Risk Management detailed setup](setup-risk-management.md)
 
 **Related topics**  
 

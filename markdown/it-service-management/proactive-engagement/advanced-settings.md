@@ -29,5 +29,5 @@ Only text, boolean, or choice are the supported format for the input parameters.
 
 **Note:** Check the alert action of Proactive Engagement to configure the input parameters. Currently, input parameters for remedial action cannot be configured from the Proactive Engagement workbench or the Core UI.
 
-**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

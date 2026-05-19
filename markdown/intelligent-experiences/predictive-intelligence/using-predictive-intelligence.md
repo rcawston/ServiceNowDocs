@@ -75,5 +75,5 @@ Predictive Intelligence takes approximately 14 days to implement on a production
 
 In general, non-production environments are where workflows can be tested and formatted before being moved over to the production instance to further train models and test predictions.
 
-For more information about getting started with Predictive Intelligence, see [our guide on how to get started with Predictive Intelligence](../task/install-predictive-intelligence.md#).
+For more information about getting started with Predictive Intelligence, see [our guide on how to get started with Predictive Intelligence](install-predictive-intelligence.md#).
 

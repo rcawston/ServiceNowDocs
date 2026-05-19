@@ -15,17 +15,17 @@ breadcrumb: [Customer and Consumer Service Portals, Set up self-service, Configu
 
 Enable AI Search Assist in the Customer and Consumer Service Portals for authenticated external users with the snc\_external role.
 
--   **[Configure AI Search Assist Actions for authenticated external users](../task/enable-ai-search-assist-actions-portal-auth-ext.md)**  
+-   **[Configure AI Search Assist Actions for authenticated external users](enable-ai-search-assist-actions-portal-auth-ext.md)**  
 Enable the AI Search Assist Actions to search knowledge articles in the Customer and Consumer Service Portals. It applies for authenticated external users with the snc\_external role.
--   **[Configure AI Search Assist in the Customer and Consumer Service Portals for authenticated external users](../task/enable-ai-search-assist-portal-auth-external.md)**  
+-   **[Configure AI Search Assist in the Customer and Consumer Service Portals for authenticated external users](enable-ai-search-assist-portal-auth-external.md)**  
 Enable the AI Search Assist to search knowledge articles in the Customer and Consumer Service Portals. It applies for authenticated external users with snc\_external role.
 
-**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](../c_CustomerServiceManagement.md)
 
 **Related topics**  
 
 
 [AI Search Assist for authenticated external users](enable-ai-search-for-business-portal-auth-external.md)
 
-[Using Now Assist in portal case form](using-ai-search-with-q-a-within-the-portal-form.md)
+[Using Now Assist in portal case form](../using-ai-search-with-q-a-within-the-portal-form.md)
 

@@ -17,7 +17,7 @@ Monitor user, export, authentication, email, and antivirus metrics for your inst
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md).
 
 -   **[User metrics](instance-sec-center-user-metrics.md)**  
 Analyze user metrics to look for anomalous behaviors that are related to specific types of user activity in your instance.
@@ -31,7 +31,7 @@ Analyze adaptive authentication metrics to monitor and add insights on how adapt
 Analyze your email metrics to look for anomalous behaviors that are related to the incoming emails to your instance. For example, if the metrics indicate a spike in spam emails from specific domains, you can define inbound actions that prevent their delivery to the instance.
 -   **[Antivirus metrics](instance-sec-center-antivirus-metrics.md)**  
 If the Antivirus Scanning plugin is activated, Antivirus Scanning runs in your instance to help protect it against virus infections from attachments.
--   **[MFA metrics dashboard](../../../use/dashboards/application-content-packs/mfa-metrics-dashboard.md)**  
+-   **[MFA metrics dashboard](mfa-metrics-dashboard.md)**  
 The MFA metrics dashboard shows information on your instances multi-factor authentication configuration. Use the dashboard to ensure your MFA configuration meets your security standards.
 
 **Parent Topic:**[Instance Security Center](instance-security-center.md)
@@ -39,7 +39,7 @@ The MFA metrics dashboard shows information on your instances multi-factor authe
 **Related topics**  
 
 
-[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)
+[Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md)
 
 [Monitor security events](instance-sec-center-event-ribbon.md)
 
@@ -47,5 +47,5 @@ The MFA metrics dashboard shows information on your instances multi-factor authe
 
 [Scan for incorrect security definitions](scan-for-incorrect-security-definitions.md)
 
-[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 

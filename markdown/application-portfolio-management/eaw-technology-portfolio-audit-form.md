@@ -150,5 +150,5 @@ TPM technology lifecycle information of the software product or hardware model.
 **Related topics**  
 
 
-[Working with technology portfolio audit details](../../concept/eaw-concept/eaw-view-technology-portfolio-audit-risk.md)
+[Working with technology portfolio audit details](eaw-view-technology-portfolio-audit-risk.md)
 

@@ -18,7 +18,7 @@ Install Agent Client Collector manually on a machine that uses macOS when the ag
 ## Before you begin
 
 -   Ensure that you have configured the Agent Client Collector web server.
--   Verify that your server's OS and version matches the list of supported OS versions as described in [Agent Client Collector installation](../concept/acc-installation.md).
+-   Verify that your server's OS and version matches the list of supported OS versions as described in [Agent Client Collector installation](acc-installation.md).
 -   Enable golden image mode for cloning additional agents by setting the golden image marker located at `/Library/Preferences/acc.rc.plist`.
 -   Navigate to **Agent Client Collector** &gt; **Deployment** &gt; **Agent Downloads** and download the signed `.pkg` relevant for your OS.
 -   Store the `.pkg` installation package on one of your installed agents.
@@ -93,5 +93,5 @@ Role required: agent\_client\_collector\_admin
     **Note:** By default, exiting the installation program causes the program to restart immediately. To ensure that the program remains stopped after exiting, set the KeepAlive property in the `/Library/LaunchDaemons/com.sn.acc.plist` file to **false**.
 
 
-**Parent Topic:**[Agent Client Collector installation on a macOS system](../concept/acc-install-mac-os.md)
+**Parent Topic:**[Agent Client Collector installation on a macOS system](acc-install-mac-os.md)
 

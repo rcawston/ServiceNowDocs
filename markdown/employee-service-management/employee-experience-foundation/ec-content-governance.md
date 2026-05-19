@@ -60,7 +60,7 @@ The following process overview provides a high-level understanding of how employ
 
     [Tracking content requests](ec-content-gov-track.md)
 
-    [Assign content request to content creator](../task/assign-content-request.md)
+    [Assign content request to content creator](assign-content-request.md)
 
 -   **Step 3: Content is created and scheduled**
 
@@ -70,7 +70,7 @@ The following process overview provides a high-level understanding of how employ
 
     ![The assigned content creator can create content from the Content Governance interface](../images/content-gov-create-content.png)
 
-    [Creating content through Content Governance](../task/creating-content-governance.md)
+    [Creating content through Content Governance](creating-content-governance.md)
 
 -   **Step 4: Content is sent to requester for review**
 

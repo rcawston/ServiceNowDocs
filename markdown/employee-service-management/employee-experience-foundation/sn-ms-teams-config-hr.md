@@ -15,11 +15,11 @@ breadcrumb: [Microsoft Teams Integration for Employee Experience, Configure, Ser
 
 Complete the following procedures to configure the HR Service Delivery integration with Microsoft Teams.
 
--   **[Review the active notifications for Microsoft Teams](../task/disable-notifications-teams-hr.md)**  
+-   **[Review the active notifications for Microsoft Teams](disable-notifications-teams-hr.md)**  
 The notifications added by ServiceNow for Microsoft Teams, might duplicate existing notifications in your instance. Review and disable any duplicate notifications to avoid notifying users multiple times for the same event.
--   **[Enable Virtual Agent notifications for HR Service Delivery](../task/enable-va-notifications-hr.md)**  
+-   **[Enable Virtual Agent notifications for HR Service Delivery](enable-va-notifications-hr.md)**  
 Configure system properties to enable Virtual Agent notifications in Microsoft Teams.
--   **[Configure LLM based provider notifications for HR](../task/configure-llm-based-provider-notifications-for-hr.md)**  
+-   **[Configure LLM based provider notifications for HR](configure-llm-based-provider-notifications-for-hr.md)**  
 Enable LLM-based actionable provider notifications for HR.
 -   **[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](auto-import-messages.md)**  
 Configure request-based chats for IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
@@ -31,9 +31,9 @@ The Teams Chat widget enables employees to view or continue chats with agents an
 Users who are associated with On-Call Scheduling will be displayed on the Selected column in **Start Microsoft Teams Chat** modal.
 -   **[Set up Chat to call](setup-chat-call.md)**  
 Set up the chat to call functionality in your instance to enable the agents to collaborate with the requester to resolve the issue.
--   **[Access ServiceNow for Microsoft Teams app](../task/install-virtual-agent-ms-teams.md)**  
+-   **[Access ServiceNow for Microsoft Teams app](install-virtual-agent-ms-teams.md)**  
 Enables users to interact with the agents from Microsoft Teams application.
--   **[Create custom email field to initiate Microsoft Teams chat](../task/create-upn-field.md)**  
+-   **[Create custom email field to initiate Microsoft Teams chat](create-upn-field.md)**  
 Create a custom email field to use Microsoft Teams app to initiate chat conversation for the agents to resolve the IT and HR related issues of the users.
 -   **[Unfurl the web links in Microsoft Teams chat](enable-link-unfurling.md)**  
 ServiceNow for Microsoft Teams supports link unfurling. Link unfurling generates a content-rich preview when a supported link is shared in a conversation with a user in Microsoft Teams.

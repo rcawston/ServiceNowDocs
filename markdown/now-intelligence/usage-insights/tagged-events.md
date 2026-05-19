@@ -56,7 +56,7 @@ The visual tagging framework is a no-code, UI-based solution. It enables you to 
 
 **Note:** If you want to capture a user action not related to a click on your page \(for example, a Page View\), you can use the [SNAnalytics API](https://developer.servicenow.com/dev.do#!/reference/api/zurich/client/SNAnalyticsClientAPI).
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 
 **Related topics**  
 

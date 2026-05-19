@@ -329,5 +329,5 @@ is \[1, 3\] rather than \[4\].
 }
 ```
 
-**Parent Topic:**[Create Core UI reports from MetricBase time-series data](../task/create-report-with-metricbase-data.md)
+**Parent Topic:**[Create Core UI reports from MetricBase time-series data](create-report-with-metricbase-data.md)
 

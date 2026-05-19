@@ -22,5 +22,5 @@ For a supplier product:
 -   Different payment methods result in an appropriate number of cost allocations being created against the purchase line.
 -   Different purchase lines are created for each product listed in a bundled product.
 
-**Parent Topic:**[Complete your checkout](../task/complete-your-checkout.md)
+**Parent Topic:**[Complete your checkout](complete-your-checkout.md)
 

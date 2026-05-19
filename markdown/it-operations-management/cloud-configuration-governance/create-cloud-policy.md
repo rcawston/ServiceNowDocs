@@ -70,7 +70,7 @@ Policy Trigger
 
 </td><td>
 
-A trigger that specifies when the policy should be applied. For example, the **on Lease end** trigger applies the policy when the lease for a stack ends. See [Triggers for cloud policies](../reference/policy-triggers-cloud-mgt.md).
+A trigger that specifies when the policy should be applied. For example, the **on Lease end** trigger applies the policy when the lease for a stack ends. See [Triggers for cloud policies](policy-triggers-cloud-mgt.md).
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Status
 
 -   **[Configure a cloud policy rule](configure-cloud-policy-rule.md)**  
 A policy rule is a collection of conditions and actions. ​If all conditions evaluate to true, the policy engine performs the actions. If any condition evaluates to false, the policy engine does not perform the actions.
--   **[Using expressions in Cloud Provisioning and Governance](../reference/expressions-cloud-mgt.md)**  
+-   **[Using expressions in Cloud Provisioning and Governance](expressions-cloud-mgt.md)**  
 Expressions in policy actions can set or override values. Expressions in blueprints can access attributes of resources and can map values to request form fields. Expressions are available in resource blocks, blueprints, policies, and anywhere that Cloud Provisioning and Governance allows scripts.
 -   **[Create an action for an 'on Blueprint provision' policy](create-action-on-bp-provision.md)**  
 The on Blueprint provision trigger fires after execution of on Catalog item request start policies. A policy that is triggered by the on Blueprint provision trigger can run a script, override a user-requested attribute value, or abort and send a message about the provision operation.
@@ -179,5 +179,5 @@ Use policy action scripts to get, update, or set values in cloud requests.
 -   **[Example policy action script that tags resources](add-tag-for-policy.md)**  
 Your instance tracks tagged resources for billing and reporting. Policy action scripts can add and modify resource tags. This example tags a storage volume resource.
 
-**Parent Topic:**[Policies for Cloud Provisioning](../concept/cloud-policy.md)
+**Parent Topic:**[Policies for Cloud Provisioning](cloud-policy.md)
 

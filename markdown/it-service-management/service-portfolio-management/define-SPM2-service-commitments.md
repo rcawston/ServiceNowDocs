@@ -102,5 +102,5 @@ Allows commitments defined by a service level agreement \(SLA\) that tracks whet
 9.  Select **New** to add another service commitment or select **Edit** to add an existing commitment to this offering.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 

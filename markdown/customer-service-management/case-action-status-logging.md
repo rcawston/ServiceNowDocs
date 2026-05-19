@@ -35,5 +35,5 @@ To access the **Case Actor Duration** metric definition, navigate to **All** &gt
 -   [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MetricDefinitionSupport.md)
 -   [Define a metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-metric.md)
 
-**Parent Topic:**[Administering case action status](../concept/customer-service-case-action-status.md)
+**Parent Topic:**[Administering case action status](customer-service-case-action-status.md)
 

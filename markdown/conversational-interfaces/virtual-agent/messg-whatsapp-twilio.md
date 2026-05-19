@@ -21,7 +21,7 @@ Select a tile to get started.
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational Integration with WhatsApp \(powered by Twilio\) implementation.](../task/messg-whatsapp-configure.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure your Conversational Integration with WhatsApp \(powered by Twilio\) implementation.](messg-whatsapp-configure.md)
 
 </td><td>
 

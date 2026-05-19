@@ -115,5 +115,5 @@ When a task was created for filling Legal Tracker details
 -   The task fulfiller submits the request for integration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+</table>**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

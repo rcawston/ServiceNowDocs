@@ -19,7 +19,7 @@ The Filter class provides the ability to configure filters that define the data 
 |----|----|-----------|
 |queryItems|Map&lt;String, String&gt;|Collection of query items representing the filter.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## Filter - Filter\(conditions: List&lt;Condition&gt;, keywords: String? = null, sortBy: List&lt;Sort&gt;? = null\)
 

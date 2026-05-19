@@ -25,7 +25,7 @@ Update the SPSEOHeaderTagsArticleView script include to add canonical URLs and**
 
 **Note:** The metatags will be added to the Knowledge Article View \[kb\_article\_view\] only when viewed by the user agents mentioned in **glide.knowman.serviceportal.seo\_user\_agent** system property. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md).
 
-For information about the default behavior of canonical URLs and **hreflang** tags for the knowledge article view page, see [SEO for canonical URLs and localized versions of knowledge articles](../concept/seo-knowledge.md).
+For information about the default behavior of canonical URLs and **hreflang** tags for the knowledge article view page, see [SEO for canonical URLs and localized versions of knowledge articles](seo-knowledge.md).
 
 ## Procedure
 
@@ -83,5 +83,5 @@ Modify the generateSEOTags function to return the SEO optimized HTML content in 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configure the Knowledge Management Service Portal](../concept/knowledge-management-service-portal.md)
+**Parent Topic:**[Configure the Knowledge Management Service Portal](knowledge-management-service-portal.md)
 

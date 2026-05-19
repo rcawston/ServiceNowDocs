@@ -72,14 +72,14 @@ Role required: asset, sn\_itam\_common.asset\_audit\_admin or sn\_itam\_common.a
 
 ## Result
 
-The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](../reference/audit-results.md).
+The audit result field values are updated on the **Details** tab screen. For a detailed field description, see [Audit results](audit-results.md).
 
 ## What to do next
 
 -   Review the inventory audit result.
 -   Tap the audit result field values to view the detailed list of the assets.
 
-**Parent Topic:**[Audit hardware asset inventory](../concept/ham-inventory-audit.md)
+**Parent Topic:**[Audit hardware asset inventory](ham-inventory-audit.md)
 
 **Related topics**  
 

@@ -72,5 +72,5 @@ All Shared Configurations tables use the same controls to manage their entries.
 |New|Button to create a record.|
 |Delete|Button to delete records. Select one or more entries before selecting **Delete**|
 
-For further information on using these tables, see [Create an AI Search configuration](../task/ais-admin-console-create-config.md).
+For further information on using these tables, see [Create an AI Search configuration](ais-admin-console-create-config.md).
 

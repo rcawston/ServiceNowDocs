@@ -46,7 +46,7 @@ Role required: flow\_designer or admin
 
 9.  Add stages to the flow to report progress to the requester.
 
-    See [Flow and subflow stages](../concept/flow-designer-stages.md).
+    See [Flow and subflow stages](flow-designer-stages.md).
 
 10. Test the flow.
 

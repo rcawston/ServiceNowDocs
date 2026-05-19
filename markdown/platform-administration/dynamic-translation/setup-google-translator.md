@@ -36,5 +36,5 @@ Authorize actions of Google Cloud Translator Service spoke by configuring the Go
 6.  [Configure the connection attributes for the GoogleTranslation alias](configure-connection-google.md)  
 Connect to the Google's translation service by configuring the Google connection. Provide information that is used by HTTP\(s\) actions or activities to connect to that service.
 
-**Parent Topic:**[Google Cloud Translator Service Spoke](../concept/google-translator-spoke.md)
+**Parent Topic:**[Google Cloud Translator Service Spoke](google-translator-spoke.md)
 

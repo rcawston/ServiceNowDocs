@@ -32,5 +32,5 @@ Role required: inventory\_admin
 5.  After removing assets from the stockroom you want to delete, continue with the instructions for [deleting a stockroom with no assets](t_DeleteAStockroomWithNoAssets.md).
 
 
-**Parent Topic:**[Manage stockrooms](../../hardware-asset-management/concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](manage-your-stockrooms.md)
 

@@ -104,5 +104,5 @@ You created a custom email notification for use as daily contact log with Emerge
 
 To use this email notification for as your daily contact log, see [Configure an Emergency Outreach notification for the daily contact log](configure-outreach-notif-daily-log.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

@@ -55,5 +55,5 @@ Role required: discovery\_admin
 
 Create OCI service accounts. For more information, see [Create OCI service accounts](create-oci-service-accounts.md).
 
-**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](../concept/set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
+**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
 

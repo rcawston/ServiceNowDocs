@@ -36,5 +36,5 @@ Role required: SharePoint administrator
 7.  Select **Enable app**.
 
 
-**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](../concept/manage-viva.md)
+**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](manage-viva.md)
 

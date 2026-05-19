@@ -115,7 +115,7 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
     4.  To set additional properties for the field, select **Advanced settings**.
 
-        We don’t set additional properties for the fields in our tutorial. For more information about field types and advanced settings, see [Field configuration in Table Builder](../../../administer/form-builder/reference/field-parameters.md).
+        We don’t set additional properties for the fields in our tutorial. For more information about field types and advanced settings, see [Field configuration in Table Builder](../form-builder-glide-family-release/field-parameters.md).
 
     5.  Select **Add**.
 
@@ -165,7 +165,7 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
     2.  In the **Section** customization panel, select **One column**, then select **Two columns** to arrange the form fields evenly into a two-column layout.
 
-        **Tip:** For more information about the customization options available in the **Section** panel, see [Customize your form layout in Table Builder](../../../administer/form-builder/task/customize-form-layout.md).
+        **Tip:** For more information about the customization options available in the **Section** panel, see [Customize your form layout in Table Builder](../form-builder-glide-family-release/customize-form-layout.md).
 
 9.  Arrange the table fields into the order that you want them to appear by moving the fields.
 

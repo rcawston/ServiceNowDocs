@@ -84,7 +84,7 @@ If the sourcing request gets converted to a purchase request, the case is availa
 
 **Note:** All tiering assessments for a supplier are displayed in related lists.
 
-For more information on sourcing requests, purchasing tasks, and procurement cases, see [Sourcing request](../reference/sourcing-request.md) and [Purchasing tasks and procurement cases](../reference/purchasing-tasks.md).
+For more information on sourcing requests, purchasing tasks, and procurement cases, see [Sourcing request](sourcing-request.md) and [Purchasing tasks and procurement cases](purchasing-tasks.md).
 
 **Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
 
@@ -105,7 +105,7 @@ For more information on sourcing requests, purchasing tasks, and procurement cas
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

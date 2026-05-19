@@ -58,9 +58,9 @@ Security tags help you quickly identify which security incidents have observable
     When an observable is no longer blocked, a security tag is not displayed on the security incident record or the observable record. In this instance, no security tag indicates that the expiration date of the observable may have passed, or the observable has been deactivated from an EDL.
 
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](paloalto_integration.md)
 
-**Previous topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+**Previous topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](paloalto-edl-execptions.md)
 
 **Next topic:**[Uninstall](paloalto-unistall.md)
 

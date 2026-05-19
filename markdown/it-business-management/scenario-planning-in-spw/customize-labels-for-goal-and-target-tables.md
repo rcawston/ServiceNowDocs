@@ -61,5 +61,5 @@ Perform these steps
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring goals in Strategic Planning](../concept/configuring-goal-framework-apw.md)
+**Parent Topic:**[Configuring goals in Strategic Planning](configuring-goal-framework-apw.md)
 

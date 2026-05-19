@@ -45,6 +45,6 @@ You can either use a pre-defined lens as it is or update its existing configurat
     See [Configuring Portfolio Planning with PPM](configuring-portfolio-planning-with-ppm.md).
 
 -   To update the lens configuration:
-    -   Change the planning items included within the lens. See [Lens Form](../reference/lens-form-portfolio-planning.md).
-    -   Add more entities to the lens structure. See [Modify lens structure in Portfolio Planning](../task/modify-lens-portfolio-planning.md).
+    -   Change the planning items included within the lens. See [Lens Form](lens-form-portfolio-planning.md).
+    -   Add more entities to the lens structure. See [Modify lens structure in Portfolio Planning](modify-lens-portfolio-planning.md).
 

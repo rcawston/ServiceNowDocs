@@ -17,11 +17,11 @@ The Segment Management plugin \(com.snc.segment\_mgmt\) provides a general frame
 
 |Task|Description|Role|
 |----|-----------|----|
-|[Install Segment Management](../task/install-segment-management.md)|Install the Segment Management application \(com.snc.segment\_mgmt\) from ServiceNow® Store.|admin|
+|[Install Segment Management](install-segment-management.md)|Install the Segment Management application \(com.snc.segment\_mgmt\) from ServiceNow® Store.|admin|
 |[Data model for Segment Management](data-model-for-segment-management.md)|Add records in the segment \(sn\_seg\_segment\) table to create segments for specific customers.|sn\_seg.segment\_mgmt\_admin|
 |[Roles and components of Segment Management](roles-and-components-of-segment-management.md)|Set of functional roles to maintain and configure segment data.|admin|
 
--   **[Install Segment Management](../task/install-segment-management.md)**  
+-   **[Install Segment Management](install-segment-management.md)**  
 Install the Segment Management plugin \(com.snc.segment\_mgmt\), along with the demo data and installations that are related to ServiceNow® Store applications and plugins.
 -   **[Data model for Segment Management](data-model-for-segment-management.md)**  
 The Segment Management data model provides a framework to map customers to specific segments to track partner progression toward the next tier.
@@ -35,5 +35,5 @@ The Segment Management application uses roles to provide access to information, 
 
 [Segment Management](segment-management.md)
 
-[Install Segment Management](../task/install-segment-management.md)
+[Install Segment Management](install-segment-management.md)
 

@@ -56,7 +56,7 @@ Name
 
 Name of the building. Ensure that you enter a unique name. For example, use the location name `<location-name>-16` rather than just `16`.
 
-**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Unit
 
 </td><td>
 
-Measuring unit of the size. Depending on the selected unit, the **Total size** and **Usable size** field name changes. For example, if you select **Square feet** as the unit, then the fields are displayed as **Total square feet** and **Usable square feet**. For more information, see [Compute CAD file properties to extract space or room surface area](../../wsd-indoor-mapping/task/compute-cad-properties.md).
+Measuring unit of the size. Depending on the selected unit, the **Total size** and **Usable size** field name changes. For example, if you select **Square feet** as the unit, then the fields are displayed as **Total square feet** and **Usable square feet**. For more information, see [Compute CAD file properties to extract space or room surface area](../indoor-mapping/compute-cad-properties.md).
 
 </td></tr><tr id="gross-size"><td>
 
@@ -242,7 +242,7 @@ Option to set location privacy preference for the building. Note the following:-
 -   You can specify if you want to set privacy on workplace profiles, or reservations, or on both.
 -   You can also select **No privacy** if you don't want any privacy for the building.
 -   If the field is set as **None**, then, the privacy preferences set in the Workplace Reservation Management system property **sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY** is considered.
- For more information about each field, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md)
+ For more information about each field, refer to [Location privacy settings and impact](../workplace-reservation-management/location-privacy-settings-and-impact.md)
 
 </td></tr><tr><td>
 
@@ -250,12 +250,12 @@ Allow employees to override location privacy on reservations
 
 </td><td>
 
-Enables you to let employees override the location privacy while reserving spaces that belong to this building. The field is set to **None** by default. For more information, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).
+Enables you to let employees override the location privacy while reserving spaces that belong to this building. The field is set to **None** by default. For more information, refer to [Location privacy settings and impact](../workplace-reservation-management/location-privacy-settings-and-impact.md).
 
 </td></tr></tbody>
 </table>6.  Select **Unlink Building** to unlink a building from Indoor Mapping map provider.
 
-    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+    For more information about how to link and synchronize Indoor Mapping map data objects with Workplace Indoor Mapping see, [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 7.  Select **Block location** to define a time period to block these locations for reservation.
 
@@ -270,38 +270,38 @@ Enables you to let employees override the location privacy while reserving space
 
 The building is added to the selected region, site, and campus.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](../workplace-space-management/Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
-[Add a campus](add-a-campus.md)
+[Add a campus](../workplace-space-management/add-a-campus.md)
 
 [Add a floor using Workplace Space Management](add-a-floor-1.md)
 
-[Add an area using Workplace Space Management](add-an-area.md)
+[Add an area using Workplace Space Management](../workplace-space-management/add-an-area.md)
 
-[Add a room using Workplace Space Management](add-a-room.md)
+[Add a room using Workplace Space Management](../workplace-space-management/add-a-room.md)
 
-[Add a space using Workplace Space Management](add-a-space.md)
+[Add a space using Workplace Space Management](../workplace-space-management/add-a-space.md)
 
-[Allocate a cost center, department, or workplace entity](add-cost-center-department-floor.md)
+[Allocate a cost center, department, or workplace entity](../workplace-space-management/add-cost-center-department-floor.md)
 
-[Configure a workspace or desk as flexible or permanent](assign-a-flex-perm-space.md)
+[Configure a workspace or desk as flexible or permanent](../workplace-space-management/assign-a-flex-perm-space.md)
 
-[Update the measurement details of a workplace location](update-measurement-details-of-workplace-location.md)
+[Update the measurement details of a workplace location](../workplace-space-management/update-measurement-details-of-workplace-location.md)
 
-[Change the status of a workplace location](change-active-status-of-workplace-location.md)
+[Change the status of a workplace location](../workplace-space-management/change-active-status-of-workplace-location.md)
 
-[Configure a BOMA type](configure-a-boma-type.md)
+[Configure a BOMA type](../workplace-space-management/configure-a-boma-type.md)
 
-[Map a space type with BOMA type](map-a-space-type-with-boma-type.md)
+[Map a space type with BOMA type](../workplace-space-management/map-a-space-type-with-boma-type.md)
 
-[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+[Create a Space Recommender rule](../workplace-space-management/create-a-space-recommender-rule.md)
 
 [Raise a space assistance request](raise-a-space-recommendation-request.md)
 
-[Create a view-by configuration](create-view-by-config.md)
+[Create a view-by configuration](../workplace-space-management/create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](../workplace-space-management/reviewing-allocation-changes.md)
 

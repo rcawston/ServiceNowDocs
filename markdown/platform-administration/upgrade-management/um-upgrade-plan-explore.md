@@ -27,7 +27,7 @@ You will need the following instances to use Upgrade Plan.
 -   Builder instance: Build your upgrade plan
 -   Consumer instance: Implement your created upgrade plan
 
-**Note:** Ensure that you have upgraded your instance to the latest available version to build the upgrade plan. It is recommended to configure your dev instance as your builder instance. You are required to install the upgrade plan before upgrading your consumer instance. See [Upgrade Plan Properties](../../upgrade-center/reference/uc-properties.md#table_h4b_wq2_5tb) for more details.
+**Note:** Ensure that you have upgraded your instance to the latest available version to build the upgrade plan. It is recommended to configure your dev instance as your builder instance. You are required to install the upgrade plan before upgrading your consumer instance. See [Upgrade Plan Properties](../upgrade-center/uc-properties.md#table_h4b_wq2_5tb) for more details.
 
 When you upgrade an instance, resolutions are skipped, and customizations are often loaded post upgrade. This causes temporary breakdown of features until fully loaded. Tasks like committing update sets, installing new plugins and applications, and multiple updates are also time consuming. Use the Upgrade Plan feature to automate these post-upgrade tasks by tracking your actions and replaying the steps on all the required instances. You don’t have to manually apply post-upgrade tasks which helps in reducing downtime.
 

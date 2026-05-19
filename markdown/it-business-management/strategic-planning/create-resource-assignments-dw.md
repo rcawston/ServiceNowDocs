@@ -37,7 +37,7 @@ Role required: it\_demand\_manager
     -   To update the details of an existing resource assignment record, select the record.
 5.  On the Create New Resource assignment form, fill in the fields.
 
-    For a description of the field names, see [Create resource assignment form](../reference/create-resource-assignment-form-dw.md) form.
+    For a description of the field names, see [Create resource assignment form](create-resource-assignment-form-dw.md) form.
 
 6.  Select **Save**.
 
@@ -53,7 +53,7 @@ Role required: it\_demand\_manager
 
 [Use Playbooks](use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages.md)
 
-[Create resource assignment form](../reference/create-resource-assignment-form-dw.md)
+[Create resource assignment form](create-resource-assignment-form-dw.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_si.analyst
 
 4.  Enter or choose the implementation.
 
-    **Note:** A workflow is triggered by the [Security Operations Integration- Publish to Watchlist capability](../concept/pubish-to-watchlist-capability.md) when you select the CrowdStrike Falcon Host implementation.
+    **Note:** A workflow is triggered by the [Security Operations Integration- Publish to Watchlist capability](../pubish-to-watchlist-capability.md) when you select the CrowdStrike Falcon Host implementation.
 
 5.  Select **Submit**.
 

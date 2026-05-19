@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns uses the Alibaba - Datacenter \(LP\) patt
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md).
+Verify the Alibaba Cloud discovery prerequisites section in [Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -92,5 +92,5 @@ Discovery creates these relationships to support the Alibaba Cloud datacenter di
 |---|------------|---|
 |Alibaba Datacenter \[cmdb\_ci\_alibaba\_datacenter\]|Hosted on::Hosts|Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]|
 
-**Parent Topic:**[Alibaba Cloud discovery using patterns](../concept/alibaba-cloud-discovery-pattern.md)
+**Parent Topic:**[Alibaba Cloud discovery using patterns](alibaba-cloud-discovery-pattern.md)
 

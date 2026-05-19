@@ -19,7 +19,7 @@ An emergency alert app allows your organization to keep employees informed and c
 
 You can use the Emergency Alert template to create command center dashboards and a mobile app to monitor and notify employees about the latest news. Employees can self-report their status, request work-from-home or time off, and receive instructions during an emergency. Managers can assess the impact on their respective teams, approve or reject requests, request for status, and automatically receive instruction on actions to take during any emergency.
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](use-app-template.md).
 
 **Parent Topic:**[Available templates](template-library.md)
 

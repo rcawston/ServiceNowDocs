@@ -20,5 +20,5 @@ Learn about the properties of the Encryption components in RPA Desktop Design St
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Encryption components](../concept/encryption-components.md)
+**Parent Topic:**[Encryption components](encryption-components.md)
 

@@ -152,10 +152,10 @@ The flag that determines if the KPI displays in the KPI group. KPI groups can di
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi-groups.md)
+**Parent Topic:**[Configure KPI groups in Digital Portfolio Management](dpm-configure-kpi-groups.md)
 
 **Related topics**  
 
 
-[KPI groups in Digital Portfolio Management](../concept/dpm-configure-kpi.md)
+[KPI groups in Digital Portfolio Management](dpm-configure-kpi.md)
 

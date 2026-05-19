@@ -26,5 +26,5 @@ Select the \(![CSV export download icon.](../image/csv-download.png)\) to begin 
 
 ![Page with visualizations that can be exported to CSV](../image/uxa-csv-export.png)
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

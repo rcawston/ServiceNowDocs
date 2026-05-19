@@ -43,5 +43,5 @@ Perform these steps for the Jamf applications and policies.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](csd2-jamf-tsk.md)
 

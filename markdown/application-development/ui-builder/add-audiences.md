@@ -31,7 +31,7 @@ Audiences are generally made of allow/deny lists based on role and domain. They 
 
 You can set audiences to fit a specific role based on one or more criteria. For example, you could create an audience for an ITSM user in Europe who is not a manager.
 
-The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to configure access for users based on role, department, group, location, or company. See [Enable the user criteria property](../task/enable-user-criteria-property.md), for more information.
+The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to configure access for users based on role, department, group, location, or company. See [Enable the user criteria property](enable-user-criteria-property.md), for more information.
 
 Set an audience in UI Builder when you create your page or page variant. You can also set the priority of the audience record. The lower the number the higher the priority. Ensure the **Active** check box is selected to make this page active.
 

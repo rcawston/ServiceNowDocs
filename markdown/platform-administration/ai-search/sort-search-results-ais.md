@@ -42,5 +42,5 @@ Sorting enables you to view your search results in an order based on their field
     **Note:** The new sort order persists when you select facets or navigation filters. It resets to the default relevancy order when you start a new search by modifying the search query terms.
 
 
-**Parent Topic:**[Searching in AI Search](../concept/use-ais.md)
+**Parent Topic:**[Searching in AI Search](use-ais.md)
 

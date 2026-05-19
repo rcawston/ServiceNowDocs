@@ -42,7 +42,7 @@ You must be assigned to the case.
 
 4.  In the Summary Report window, select a predefined document template format in which the case details are captured.
 
-    For details on how to create and use document templates, see [Document Templates](../concept/document-templates-overview.md).
+    For details on how to create and use document templates, see [Document Templates](../hr-service-delivery/document-templates-overview.md).
 
 5.  Select **Generate**.
 

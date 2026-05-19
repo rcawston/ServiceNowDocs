@@ -15,8 +15,8 @@ Associate your assignment groups with an internal or an external business locati
 
 |Task|Description|
 |----|-----------|
-|[Create a group](../task/create-a-group-so.md)|Create a group to associate it with a service organization.|
+|[Create a group](create-a-group-so.md)|Create a group to associate it with a service organization.|
 |[Configuring a group](configuring-a-group.md#)|Configure a group that includes adding group members and assigning them required roles.|
-|[Associate a group to a business location](../task/associate-a-group-to-a-business-location-so.md)|Establish a one-to-many \(1:M\) relationship between a group and a business location.|
-|[Add group members to a business location](../task/add-group-members-to-a-business-location-so.md)|Enroll group members to a business location and have a dedicated group working on cases.|
+|[Associate a group to a business location](associate-a-group-to-a-business-location-so.md)|Establish a one-to-many \(1:M\) relationship between a group and a business location.|
+|[Add group members to a business location](add-group-members-to-a-business-location-so.md)|Enroll group members to a business location and have a dedicated group working on cases.|
 

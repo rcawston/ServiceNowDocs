@@ -200,10 +200,10 @@ Related Entries \(cmdb\_related\_entry\):
 -   Referenced field: configuration\_item
 
 </td></tr></tbody>
-</table>For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+</table>For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

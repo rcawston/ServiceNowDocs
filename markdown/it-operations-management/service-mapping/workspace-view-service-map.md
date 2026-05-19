@@ -21,7 +21,7 @@ Role required: sm\_app\_owner, service\_mapping\_user, evt\_mgmt\_admin, evt\_mg
 
 ## About this task
 
-The service instance map in the Event Management view reflects the severity status of CIs belonging to the service instance. For more information about viewing service details on maps, see [Application service maps in legacy Agent Workspace](../reference/workspace-application-service-map.md).
+The service instance map in the Event Management view reflects the severity status of CIs belonging to the service instance. For more information about viewing service details on maps, see [Application service maps in legacy Agent Workspace](workspace-application-service-map.md).
 
 ## Procedure
 
@@ -50,10 +50,10 @@ The service instance map in the Event Management view reflects the severity stat
 7.  To access the service map in the standard Event Management UI that provides full map-related functionality, click **Full map**.
 
 
-**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](../concept/service-analysis-maintenance-legacy-workspace.md)
+**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](service-analysis-maintenance-legacy-workspace.md)
 
 **Related topics**  
 
 
-[Service Mapping](../reference/c_ServiceMappingOverview.md)
+[Service Mapping](c_ServiceMappingOverview.md)
 

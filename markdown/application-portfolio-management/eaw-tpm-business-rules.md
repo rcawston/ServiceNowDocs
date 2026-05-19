@@ -21,5 +21,5 @@ The following business rules are added for Technology Portfolio Management \(TPM
 |Update Technology Lifecycle Info|TPM Discovered Technology \[sn\_apm\_tpm\_discovered\_technology\]|Updates technology life-cycle data for your hardware and software elements.|
 |TPM Audit on TPM Lifecycle Exception|TPM Technology Lifecycle Exception \[sn\_apm\_tpm\_technology\_lifecycle\_exception\]|Fetches the life cycles that were approximated or couldn’t be found from Software Asset Management \(SAM\) Professional or Hardware Asset Management \(HAM\) Professional.|
 
-**Parent Topic:**[Activate the Technology Portfolio Management \(TPM\) plugin](../../task/eaw-task/eaw-install-tpm.md)
+**Parent Topic:**[Activate the Technology Portfolio Management \(TPM\) plugin](eaw-install-tpm.md)
 

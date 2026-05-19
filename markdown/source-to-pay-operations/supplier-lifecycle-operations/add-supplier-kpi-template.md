@@ -49,5 +49,5 @@ The **Supplier** related tab for a KPI template displays the following informati
 
 [Run segmentation rule](run-segmentation-rule.md).
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
 

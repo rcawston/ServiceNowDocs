@@ -44,5 +44,5 @@ Role required: user
     **Note:** Select **Refresh** to view the target set on the trendline.
 
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](measuring-performance-success-dashboard.md)
 

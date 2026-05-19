@@ -51,5 +51,5 @@ Updating your internal job preferences let's you apply for roles related to your
 
 Continue to apply for jobs based on your updated preferences.
 
-**Parent Topic:**[Use Opportunity Marketplace](../../egd-oppt-mrktplc/concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

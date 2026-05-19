@@ -21,7 +21,7 @@ Role required: import\_admin
 
 ## About this task
 
-For additional information, see [Custom \(Load by Script\) type data source](../reference/custom-type-data-source.md).
+For additional information, see [Custom \(Load by Script\) type data source](custom-type-data-source.md).
 
 ## Procedure
 
@@ -107,7 +107,7 @@ Parallel loading script
 
 </td><td>
 
-Script used for parallel data loading. Appears only when **Enable parallel loading** is selected. For more information, see [Custom \(Load by Script\) type data source](../reference/custom-type-data-source.md).
+Script used for parallel data loading. Appears only when **Enable parallel loading** is selected. For more information, see [Custom \(Load by Script\) type data source](custom-type-data-source.md).
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ Data Loader
 
 </td><td>
 
-Script used to load data. For more information, see [Custom \(Load by Script\) type data source](../reference/custom-type-data-source.md).
+Script used to load data. For more information, see [Custom \(Load by Script\) type data source](custom-type-data-source.md).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
@@ -125,5 +125,5 @@ Script used to load data. For more information, see [Custom \(Load by Script\) t
 
 Define a transform map for the new data source and run an import.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](c_CreateNewDataSource.md)
 

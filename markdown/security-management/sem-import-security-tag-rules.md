@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Security Operations** &gt; **Security Tags** &gt; **Tags**.
 
-2.  Choose or [create a security tag](../../security-operations-common/task/create-class-group-and-tags.md).
+2.  Choose or [create a security tag](create-class-group-and-tags.md).
 
 3.  Click the **Import security tag rules** related link.
 

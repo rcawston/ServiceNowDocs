@@ -88,7 +88,7 @@ Planning items that meet the following criteria appear in the portfolio plan:
 
 ## What to do next
 
--   Define goals for your portfolio plan and align your work to them. See [Managing portfolio plan goals in Strategic Planning Workspace](../../spw-goals/concept/managing-goals-in-alignment-planner-workspace.md).
--   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](../../spw-prioritization/concept/managing-backlog-alignment-planner-workspace.md).
+-   Define goals for your portfolio plan and align your work to them. See [Managing portfolio plan goals in Strategic Planning Workspace](managing-goals-in-alignment-planner-workspace.md).
+-   Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Strategic Planning Workspace](managing-backlog-alignment-planner-workspace.md).
 -   Show or hide features for your portfolio plan according to your requirement while sharing a portfolio plan with your stakeholders. See, [Show or hide the features for a portfolio plan](show-or-hide-the-features-for-your-portfolio-plan-spw.md).
 

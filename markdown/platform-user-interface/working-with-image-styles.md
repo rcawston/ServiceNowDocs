@@ -38,5 +38,5 @@ Tile icon illustrations are used to communicate a tile’s purpose using visual 
 -   **[Icon illustrations in Theme Builder](tb-icon-illustrations.md)**  
 Icons are used to visually represent actions and concepts through simple, themed graphics.
 
-**Parent Topic:**[Manage or edit a theme with Theme Builder](../task/tb-edit-theme.md)
+**Parent Topic:**[Manage or edit a theme with Theme Builder](tb-edit-theme.md)
 

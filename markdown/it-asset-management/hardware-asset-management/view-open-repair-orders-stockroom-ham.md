@@ -36,7 +36,7 @@ Role required: asset
 
 The list of open repair orders for the stockroom is displayed.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 

@@ -136,7 +136,7 @@ The following image shows an example of an NLQ synonym record for the **Active**
 
 With this synonym record, a user can type `show open change requests` or `change requests in progress`and the system displays active change requests.
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](configuring-nlq.md)
 
 **Related topics**  
 

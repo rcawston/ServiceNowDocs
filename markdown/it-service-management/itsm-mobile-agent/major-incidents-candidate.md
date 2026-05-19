@@ -18,5 +18,5 @@ View a list of major incident candidates and add comments to the incidents propo
 **Related topics**  
 
 
-[Review and work on a major incident candidate](../task/major-incident-candidate.md)
+[Review and work on a major incident candidate](major-incident-candidate.md)
 

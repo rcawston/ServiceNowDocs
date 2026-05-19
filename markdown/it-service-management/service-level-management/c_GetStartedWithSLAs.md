@@ -52,13 +52,13 @@ The 2010 SLA engine functionality is concentrated into a number of script includ
 </td></tr></tbody>
 </table>-   **[Legacy SLA fields](c_LegacySLAFields.md)**  
 Previously, only a single SLA could be attached to a task via the Escalation engine. The information for the SLA was stored in the task table using the **SLA Due**, **Made SLA**, and **Escalation** fields.
--   **[Upgrade SLA to 2011 engine](../task/t_MoveFromThe2010ToThe2011Engine.md)**  
+-   **[Upgrade SLA to 2011 engine](t_MoveFromThe2010ToThe2011Engine.md)**  
 You can upgrade SLA processing to use the 2011 Engine.
--   **[Organize the migration process](../task/t_OrganizeTheConversionProcess.md)**  
+-   **[Organize the migration process](t_OrganizeTheConversionProcess.md)**  
 There are several ways to convert the old SLAs to the new Task SLAs.
--   **[Convert an SLA to an SLA Definition](../task/t_ConvertAnSLAToATaskSLA.md)**  
+-   **[Convert an SLA to an SLA Definition](t_ConvertAnSLAToATaskSLA.md)**  
 You must replicate the default SLA record as a new SLA definition.
--   **[Reactivate escalation engine](../task/t_ReactivateAnOldSLAEngine.md)**  
+-   **[Reactivate escalation engine](t_ReactivateAnOldSLAEngine.md)**  
 Escalation engine is replaced with 2011 SLA Engine.
 
 **Parent Topic:**[Service Level Management reference](service-level-management-reference.md)

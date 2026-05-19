@@ -33,11 +33,11 @@ Import computer and software details about your assets from the Microsoft Active
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for Active Directory provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, [Configure Service Graph Connector for Active Directory](../task/sgc-ad-configure.md).
+The guided setup for the Service Graph Connector for Active Directory provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, [Configure Service Graph Connector for Active Directory](sgc-ad-configure.md).
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Active Directory integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../../../configuration-management/concept/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft Active Directory integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](../cmdb-integration-commons/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 

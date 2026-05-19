@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Cribl integration configuration forms for Health Log Analytics.
 
-For the Cribl integration setup procedure, see [Set up a Cribl integration for Health Log Analytics](../task/il-connector-hla-cribl.md).
+For the Cribl integration setup procedure, see [Set up a Cribl integration for Health Log Analytics](il-connector-hla-cribl.md).
 
 <table id="table_ogk_rh4_jfc"><thead><tr><th>
 
@@ -117,7 +117,7 @@ The authentication method used by the Cribl integration. This field is required.
 
 Both of these authentication methods use the default credential alias: Cribl\_Credential\_Alias.
 
-For information about setting up credentials for the authentication method used by the Cribl integration, see [Set up authentication credentials for the Cribl integration in Health Log Analytics](../task/hla-setup-cribl-credentials.md).
+For information about setting up credentials for the authentication method used by the Cribl integration, see [Set up authentication credentials for the Cribl integration in Health Log Analytics](hla-setup-cribl-credentials.md).
 
 **Important:** Verify that only one active credential record of each credentials type exists under the credential alias.
 

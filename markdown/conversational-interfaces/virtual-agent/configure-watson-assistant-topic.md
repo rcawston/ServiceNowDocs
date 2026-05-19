@@ -18,7 +18,7 @@ Set up the IBM Watson Assistant topic to run dialog skills \(conversations creat
 
 ## Before you begin
 
-**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](../reference/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](vad-prev-topics-page.md).
 
 -   In IBM Watson Assistant:
     -   Create the dialog skill \(conversation\) in your IBM Watson Assistant workspace. The skill includes the dialog and any intents and entities that you define.
@@ -84,5 +84,5 @@ This topic runs an IBM Watson Assistant dialog in Virtual Agent. It doesn't requ
     Use the `sysparm_topic` parameter only to load the given topic in the Service Portal chat client or when using the IBM Watson Assistant chat integrations \(com.glide.cs.ibm.watson.assistant.topic and com.glide.cs.ibm.watson.assistant.topicV2 plugins\). This parameter doesn’t allow users to start a new conversation or transfer to a live agent. It also disables the context menu and doesn't support other third-party chat clients.
 
 
-**Parent Topic:**[Integrating IBM Watson Assistant conversations](../concept/va-ibm-watson-assistant-config.md)
+**Parent Topic:**[Integrating IBM Watson Assistant conversations](va-ibm-watson-assistant-config.md)
 

@@ -172,5 +172,5 @@ Consider making the following optional adjustments to your alert for testing pur
 -   Add comments or work notes in the **Compose** panel.
 -   Add an attachment related to the alert using the attachment icon ![Attachment icon](../image/icon-sr-attachment.png).
 
-**Parent Topic:**[Working with alerts in SRM](../concept/sr-work-alerts-expresslist.md)
+**Parent Topic:**[Working with alerts in SRM](sr-work-alerts-expresslist.md)
 

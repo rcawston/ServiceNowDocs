@@ -58,6 +58,6 @@ Confirmation emails for the application and any dependencies that were procured 
 
 Install the app on compatible production or non-production instances, based on whether you have a hosted or on-premise instance:
 
--   If your instance is in a hosted regulated environment, install the app using the Application Manager. For more information, see [Install an application or plugin](../../../build/applications/task/installing-applications-in-application-manager.md).
--   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](../concept/getting-apps-on-prem.md)
+-   If your instance is in a hosted regulated environment, install the app using the Application Manager. For more information, see [Install an application or plugin](application-manager/installing-applications-in-application-manager.md).
+-   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](getting-apps-on-prem.md)
 

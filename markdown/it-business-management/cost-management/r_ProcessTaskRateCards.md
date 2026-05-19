@@ -30,5 +30,5 @@ The process flow of the "Process Task Rate Cards" business rule is:
         1.  Labor rate card found, generate expense line using the time worked and labor rate.
         2.  Labor rate card not found, generate expense line using the default labor rate from the task rate card.
 
-**Parent Topic:**[Task and labor rate cards](../concept/c_TaskAndLaborRateCards.md)
+**Parent Topic:**[Task and labor rate cards](c_TaskAndLaborRateCards.md)
 

@@ -36,5 +36,5 @@ Role required: admin
     The Facebook Messenger application and all of its data is removed.
 
 
-**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](../task/messg-fbm-configure.md)
+**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](messg-fbm-configure.md)
 

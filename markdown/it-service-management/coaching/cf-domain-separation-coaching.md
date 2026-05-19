@@ -63,7 +63,7 @@ The **Domain** column contains the name of the domain to which the event or aler
 -   A Coaching user wants to associate an assigned training for an integrated application in the Acme domain. The user must belong to the domain of the integrated application from which a record is associated.
 -   The trainee user of a parent domain can view a coaching assessment of the parent as well as of all child domains of that parent. A trainee user must belong to the Acme domain, its parent domain, or the global domain to view that coaching assessment.
 
-**Parent Topic:**[Coaching reference](../reference/cf-coaching-reference.md)
+**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
 
 **Related topics**  
 

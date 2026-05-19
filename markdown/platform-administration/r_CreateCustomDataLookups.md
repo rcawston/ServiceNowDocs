@@ -68,7 +68,7 @@ Each data lookup is a query that searches for a row containing values that match
     |Priority|Integer| |
     |Assignment Group|Reference|Group \[sys\_user\_group\]|
 
-    For more information, see [Configuring lists on the ServiceNow AI Platform](../../list-administration/concept/c_ListConfiguration.md).
+    For more information, see [Configuring lists on the ServiceNow AI Platform](list-administration/c_ListConfiguration.md).
 
 3.  From the table list, select **New** and enter appropriate matcher and setter field values.
 

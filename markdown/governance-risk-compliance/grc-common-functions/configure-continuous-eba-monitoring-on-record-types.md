@@ -54,5 +54,5 @@ The entity-based access restrictions are automatically applied to both primary a
 
 When record attribute user access is configured, users and groups referenced in user fields or user group fields continue to have record level access even after entity based access restrictions are applied.
 
-**Parent Topic:**[Managing Entity Based Access](../concept/using-entity-based-access.md)
+**Parent Topic:**[Managing Entity Based Access](using-entity-based-access.md)
 

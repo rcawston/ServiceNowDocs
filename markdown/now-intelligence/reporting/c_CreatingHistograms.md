@@ -21,7 +21,7 @@ For example, a histogram can show the pattern of P1 incidents logged over a four
 
 ![Histogram Report example](../image/histo-report-ex.png "Histogram report")
 
-**Parent Topic:**[Report types](../reference/report-types-creation-details-rd.md)
+**Parent Topic:**[Report types](report-types-creation-details-rd.md)
 
 ## Create a histogram report
 
@@ -61,7 +61,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d172558e234">
 

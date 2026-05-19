@@ -90,10 +90,10 @@ Change the number from the default threshold to the threshold that you want to s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](dpm-configure-cfw.md)
 
 **Related topics**  
 
 
-[Work with Needs attention panels in Digital Portfolio Management](../concept/dpm-needs-attn-panels.md)
+[Work with Needs attention panels in Digital Portfolio Management](dpm-needs-attn-panels.md)
 

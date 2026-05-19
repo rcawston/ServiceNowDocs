@@ -50,10 +50,10 @@ If the application passes testing, the administrator publishes the application a
 
 ![Status is "Published"](../image/published-status.png ""Published" status")
 
-**Parent Topic:**[Publish your app](../concept/publish-your-app.md)
+**Parent Topic:**[Publish your app](publish-your-app.md)
 
 **Related topics**  
 
 
-[Delegate developers using AES](../concept/aes-app-dev-workflow.md)
+[Delegate developers using AES](aes-app-dev-workflow.md)
 

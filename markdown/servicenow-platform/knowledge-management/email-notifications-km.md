@@ -24,7 +24,7 @@ By default, the Knowledge Management application includes the following types of
 -   [Email notifications for expiring knowledge articles](email-notifications-km.md#section_gsy_5jq_mlb).
 -   [Email notifications for article quality index \(AQI\) reviews](email-notifications-km.md#section_dk1_rjq_mlb).
 
-You can decide if you must receive any knowledge notifications by setting notification preferences. For more information, see [Set knowledge notification preferences](../task/set-subscription-notifications.md).
+You can decide if you must receive any knowledge notifications by setting notification preferences. For more information, see [Set knowledge notification preferences](set-subscription-notifications.md).
 
 ## Email notifications for knowledge article feedback tasks
 
@@ -299,7 +299,7 @@ An AQI was performed and submitted on a knowledge article with the ownership gro
 </td></tr></tbody>
 </table>**Note:** An email notification is sent to a reviser of a knowledge article when the article versioning feature is enabled.
 
--   **[Set knowledge notification preferences](../task/set-subscription-notifications.md)**  
+-   **[Set knowledge notification preferences](set-subscription-notifications.md)**  
 Set notification preferences for knowledge bases and knowledge articles.
 
 **Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
@@ -307,9 +307,9 @@ Set notification preferences for knowledge bases and knowledge articles.
 **Related topics**  
 
 
-[Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md)
+[Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md)
 
-[Additional plugins for Knowledge Management](../reference/additional-plugins-km.md)
+[Additional plugins for Knowledge Management](additional-plugins-km.md)
 
 [Ownership groups](enable-ownership-group.md)
 

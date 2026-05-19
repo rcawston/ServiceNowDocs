@@ -25,7 +25,7 @@ Role required: activity\_creator or workflow\_admin
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the Run Script Execution Command:
+2.  After setting up [general properties](General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the Run Script Execution Command:
 
     Create a script for this activity to execute.
 
@@ -37,7 +37,7 @@ Role required: activity\_creator or workflow\_admin
 -   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
 -   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](c_ActivityDesignerComponents.md)
 
 ## Run Script template processing script
 

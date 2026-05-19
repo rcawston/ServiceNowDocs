@@ -42,5 +42,5 @@ The same matching rule can be used for both forward and reverse matching.
 -   **[Limit the number of task sys\_ids returned for reverse matching rules](reverse-match-limit.md)**  
 Reverse matching rules return a list of case sys\_ids. Limit the number of cases returned by configuring the number in the reverse.matchingrule.entity.limit system property.
 
-**Parent Topic:**[Routing and assigning customer service cases](../concept/c_CaseRouting.md)
+**Parent Topic:**[Routing and assigning customer service cases](c_CaseRouting.md)
 

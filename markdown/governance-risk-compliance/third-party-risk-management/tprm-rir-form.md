@@ -55,7 +55,7 @@ Type of report or score that is provided.
 
  For example, a risk intelligence report ordered from Black Kite that provides a high-level summary of cyber risk information could be classified as a Level 1 - General Cyber Risk Report request type.
 
-**Note:** The request types that are available are dependent on what has been set up for the provider. For more information, see [Set up a request type for a provider](../../grc-vendor-risk/task/tprm-riskintelprvdr-request-type.md).
+**Note:** The request types that are available are dependent on what has been set up for the provider. For more information, see [Set up a request type for a provider](tprm-riskintelprvdr-request-type.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Due diligence request
 
 Due diligence request that is associated with the risk intelligence request. There’s an option to request risk intelligence as part of a due diligence request.
 
- For more information, see [Request a risk intelligence report associated with a due diligence request](../../grc-vendor-risk/task/tprm-riskintel-request-dd.md).
+ For more information, see [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md).
 
 </td></tr><tr><td>
 
@@ -183,11 +183,11 @@ Text that explains and clarifies the type of sanction and how it impacts your bu
 **Related topics**  
 
 
-[Using risk intelligence reports and scores](../../grc-vendor-risk/concept/tprm-riskintel-using.md)
+[Using risk intelligence reports and scores](tprm-riskintel-using.md)
 
-[Request a risk intelligence report](../../grc-vendor-risk/task/tprm-riskintel-request-tp.md)
+[Request a risk intelligence report](tprm-riskintel-request-tp.md)
 
-[Request a risk intelligence report associated with a due diligence request](../../grc-vendor-risk/task/tprm-riskintel-request-dd.md)
+[Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md)
 
-[Track sanctions-related information](../../grc-vendor-risk/task/tprm-riskintel-track-sanctions.md)
+[Track sanctions-related information](tprm-riskintel-track-sanctions.md)
 

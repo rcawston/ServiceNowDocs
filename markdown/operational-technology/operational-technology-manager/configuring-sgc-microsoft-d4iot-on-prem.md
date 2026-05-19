@@ -262,5 +262,5 @@ If you are using the Operational Technology Vulnerability Response application w
         -   Connections are only imported if both devices \(Source &amp; Destination in Microsoft API, or Parent &amp; Child in the CMDB\) are already in the CMDB.
         -   Import devices before importing connections.
 
-**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](../concept/integration-sgc-microsoft-defender-iot-on-prem.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](integration-sgc-microsoft-defender-iot-on-prem.md)
 

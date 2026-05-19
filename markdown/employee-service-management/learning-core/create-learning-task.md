@@ -27,7 +27,7 @@ Role required: sn\_lc.task\_creator
 
 3.  On the Learning task form, fill in the fields.
 
-    For a description of the field values, see [Learning task form](../reference/learning-task-form_0.md).
+    For a description of the field values, see [Learning task form](learning-task-form_0.md).
 
 4.  Select **Submit**.
 
@@ -49,9 +49,9 @@ Role required: sn\_lc.task\_creator
 
 [Create user achievements](create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](achievement-rule-item.md)
 
-[Learning task form](../reference/learning-task-form_0.md)
+[Learning task form](learning-task-form_0.md)
 

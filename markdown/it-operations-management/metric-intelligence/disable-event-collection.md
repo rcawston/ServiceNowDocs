@@ -76,5 +76,5 @@ var ZabbixJSCustom = Class.create();
 ZabbixJSCustom.prototype = Object.extendsObject(ZabbixJS, {
 ```
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 

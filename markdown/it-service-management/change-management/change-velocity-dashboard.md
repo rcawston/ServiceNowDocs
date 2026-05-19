@@ -17,7 +17,7 @@ Use this dashboard to track the average duration of change requests in the last 
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](performance-analytics/change.md) to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](../change.md) to view, and track the open changes.
 
 The Change Velocity dashboard is divided into the following tabs for effective usage. The ServiceNow® Performance Analytics capability in the Change Velocity dashboard provides the following benefits:
 
@@ -46,7 +46,7 @@ The Change Velocity dashboard is divided into the following tabs for effective u
 
 -   **Top Change Success Performers**
 
-    Performance of assignment groups in processing the change request with the highest performer on the top. For information on how the performance score is calculated, see [Success Score Calculation](../../../product/change-management/concept/change-score-calculation.md).
+    Performance of assignment groups in processing the change request with the highest performer on the top. For information on how the performance score is calculated, see [Success Score Calculation](change-score-calculation.md).
 
 -   **Average age of open changes**
 

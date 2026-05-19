@@ -28,7 +28,7 @@ Role required: sn\_apm.apm\_admin or business\_planner or pps\_admin
 4.  Select **Business Units**.
 
 
-**Parent Topic:**[Manage business units](../../concept/eaw-concept/eaw-manage-business-units.md)
+**Parent Topic:**[Manage business units](eaw-manage-business-units.md)
 
 **Related topics**  
 

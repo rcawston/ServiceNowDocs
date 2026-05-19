@@ -172,8 +172,8 @@ Formula for calculating the overall qualitative risk score. Choices are the foll
 
 The factor is published and is ready for use in a Risk Assessment Methodology.
 
--   **[Scoring logic for predefined formulas for group factors](../reference/scoring-logic-group-factors.md)**  
+-   **[Scoring logic for predefined formulas for group factors](scoring-logic-group-factors.md)**  
 Group factors have multiple predefined formulae and each of them has a specific contribution to the scoring logic.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](use-advanced-risk-assessment.md)
 

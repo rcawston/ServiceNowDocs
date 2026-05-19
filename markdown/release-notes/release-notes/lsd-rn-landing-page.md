@@ -25,5 +25,5 @@ The ServiceNow® Now Assist for Legal Service Delivery \(LSD\) application lever
 -   **[Predictive intelligence for Legal Service Delivery release notes](lsd-predictive-intelli-rn.md)**  
 The ServiceNow® Predictive Intelligence for Legal Service Delivery uses machine-learning algorithms for predicting subcategory and assignment groups for legal requests. This application is currently supported for the Australia release, but it will be deprecated in a future release.
 
-**Parent Topic:**[Employee Service Management release notes](../employee-service-management/employee-service-management-rn-landing.md)
+**Parent Topic:**[Employee Service Management release notes](employee-service-management-rn-landing.md)
 

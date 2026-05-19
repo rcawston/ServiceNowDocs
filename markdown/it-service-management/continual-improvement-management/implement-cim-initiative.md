@@ -57,7 +57,7 @@ Role required: sn\_cim.improvement\_manager, sn\_cim.improvement\_coordinator
 
         -   When the planned end date for a CIM task is updated, the planned end date that the CIM initiative that the task is associated with also gets updated. When the state for a CIM task is moved to Work In Progress, the Actual Start Date field is automatically updated with the current date.
         -   When the task is assigned, the task assignee receives an email notification.
-4.  To create a separate application task for an [integrated application](../reference/cim-integration.md), select the related link for that application task.
+4.  To create a separate application task for an [integrated application](cim-integration.md), select the related link for that application task.
 
 5.  To monitor a KPI with the improvement, add a record to the Impacted KPIs tab.
 
@@ -503,12 +503,12 @@ Impacted KPI
 -   Average age open incidents
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing improvements](../concept/cim-improvement-initiative-mgmt.md)
+</table>**Parent Topic:**[Managing improvements](cim-improvement-initiative-mgmt.md)
 
 **Related topics**  
 
 
-[Improvement field descriptions](../reference/cim-field-descriptions.md)
+[Improvement field descriptions](cim-field-descriptions.md)
 
-[Applications integrated with Continual Improvement Management](../reference/cim-integration.md)
+[Applications integrated with Continual Improvement Management](cim-integration.md)
 

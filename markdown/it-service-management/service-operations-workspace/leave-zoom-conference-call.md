@@ -38,5 +38,5 @@ Role required: itil
 8.  Select **Leave call**.
 
 
-**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](../concept/zoom-sow.md)
+**Parent Topic:**[Use Zoom to make conference calls in Service Operations Workspace](zoom-sow.md)
 

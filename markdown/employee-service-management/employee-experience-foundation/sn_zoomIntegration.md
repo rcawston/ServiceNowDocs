@@ -54,7 +54,7 @@ Enhance employee experience by integrating Employee Center with the Zoom applica
 
 </td><td>
 
-Available to all customers using the Employee Center. To access Employee Center in the Zoom application, see [Employee Center for Zoom](../../employee-center/task/zoom-ec-create-app.md).
+Available to all customers using the Employee Center. To access Employee Center in the Zoom application, see [Employee Center for Zoom](zoom-ec-create-app.md).
 
 </td><td>
 
@@ -124,7 +124,7 @@ Create custom integrations using Zoom spoke.
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like Zoom APIs.](../reference/reference-sn-zoom.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like Zoom APIs.](reference-sn-zoom.md)
 
 </td><td>
 

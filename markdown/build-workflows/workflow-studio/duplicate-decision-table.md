@@ -75,5 +75,5 @@ Option to include the decision rows as well as the structure of the original tab
 </table>6.  Select **Duplicate**.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](using-decision-builder.md)
 

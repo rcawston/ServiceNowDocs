@@ -15,7 +15,7 @@ breadcrumb: [Performance Analyzer, Testing and debugging applications, Building 
 
 Get additional information about Performance Analyzer.
 
--   **[Get help with Performance Analyzer](../concept/get-help-performance-analyzer.md)**
+-   **[Get help with Performance Analyzer](get-help-performance-analyzer.md)**
 
     To get help with Performance Analyzer, your ServiceNow instance, plugins, permissions, and more, watch a short video to contact the ServiceNow admin who works in your company.
 

@@ -30,5 +30,5 @@ For system lists or forms, use the frame name **gsft\_main** so that links work 
     -   URL: `../home.do?sysparm_view=problem_overview`
     -   Frame name: **gsft\_main**
 
-**Parent Topic:**[Configure iFrames](../task/t_IFrame.md)
+**Parent Topic:**[Configure iFrames](t_IFrame.md)
 

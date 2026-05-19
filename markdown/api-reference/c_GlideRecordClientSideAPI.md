@@ -17,9 +17,9 @@ The GlideRecord API provides methods that perform database operations. This API 
 
 A GlideRecord contains both records and fields. Queries made with client-side GlideRecord methods are executed on the server. Therefore, a request is made from the client browser to obtain the record data.
 
-The client-side GlideRecord API is not supported in scoped applications. Instead, create a script include and use the [GlideAJAX](../../GlideAjax/concept/c_GlideAjaxAPI.md#) API, or use the REST APIs. In addition, this API applies access control lists \(ACLs\) based on the credentials of the user executing the script. To execute the code on the server without ACLs, use the [GlideAjax](../../GlideAjax/concept/c_GlideAjaxAPI.md#) API.
+The client-side GlideRecord API is not supported in scoped applications. Instead, create a script include and use the [GlideAJAX](c_GlideAjaxAPI.md#) API, or use the REST APIs. In addition, this API applies access control lists \(ACLs\) based on the credentials of the user executing the script. To execute the code on the server without ACLs, use the [GlideAjax](c_GlideAjaxAPI.md#) API.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## Client side GlideRecord - GlideRecord\(String tableName\)
 

@@ -54,5 +54,5 @@ Unless the application extends other applications, or files are still associated
 
 **Note:** If an application is linked to Source Control \(that is, the Git repository\), you must also delete the Git configuration record for an application in the Repository Configurations \(sys\_repo\_config\) table. Without deleting this record, the application can't be reimported from Source Control on this instance.
 
-**Parent Topic:**[Rolling back and removing applications](../concept/c_RemovingApplications.md)
+**Parent Topic:**[Rolling back and removing applications](c_RemovingApplications.md)
 

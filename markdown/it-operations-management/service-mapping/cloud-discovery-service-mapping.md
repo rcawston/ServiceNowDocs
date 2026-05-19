@@ -33,10 +33,10 @@ The discovery process in IaaS environments mirrors that used for private network
 
 In contrast to IaaS environments, PaaS environments require a distinct discovery process.
 
-1.  Using cloud platform tools and service accounts - The process begins with a dedicated service account configured for the cloud environment hosting the application service. Service Mapping and Discovery use this service account to access devices and applications. To learn more about setting up an account, see [Set up a cloud service account](../../it-operations-management/concept/setup-cloud-service-account.md).
+1.  Using cloud platform tools and service accounts - The process begins with a dedicated service account configured for the cloud environment hosting the application service. Service Mapping and Discovery use this service account to access devices and applications. To learn more about setting up an account, see [Set up a cloud service account](../setup-cloud-service-account.md).
 2.  Horizontal discovery - Discovery performs horizontal discovery in two steps:
-    1.  Probes are used to help identify infrastructure devices. See [Horizontal discovery process flow with probes and sensors](../../discovery/concept/c_DiscoProcessFlows.md) for detailed information about the four phases of discovery using probes.
-    2.  Patterns help find the applications and services running on those devices. See [Pattern-based discovery in Service Mapping](pattern-based-discovery.md) and [Horizontal discovery process flow with patterns](../../discovery/concept/disco-process-flow-patterns.md) to learn more about discovery using patterns.
+    1.  Probes are used to help identify infrastructure devices. See [Horizontal discovery process flow with probes and sensors](../discovery/c_DiscoProcessFlows.md) for detailed information about the four phases of discovery using probes.
+    2.  Patterns help find the applications and services running on those devices. See [Pattern-based discovery in Service Mapping](pattern-based-discovery.md) and [Horizontal discovery process flow with patterns](../discovery/disco-process-flow-patterns.md) to learn more about discovery using patterns.
 3.  Top-down discovery - Service Mapping then performs top-down discovery, creating a comprehensive map of the application service.
 
 ## Discovery methods for cloud environments
@@ -54,5 +54,5 @@ Consider an e-commerce application hosted on a cloud provider. In an IaaS enviro
 **Related topics**  
 
 
-[Discovery for cloud environment](../../discovery/concept/cloud-discovery-wizard.md)
+[Discovery for cloud environment](../discovery/cloud-discovery-wizard.md)
 

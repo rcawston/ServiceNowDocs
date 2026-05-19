@@ -302,5 +302,5 @@ textTertiary
 Weekday for calendar, placeholder.Default value: \#454D5B
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 

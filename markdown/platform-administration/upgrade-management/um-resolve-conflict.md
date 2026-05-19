@@ -21,9 +21,9 @@ Role required: admin
 
 ## Procedure
 
-1.  From the [Upgrade Details form](../reference/um-upgrade-details-form.md) for the record you are reconciling, click **Resolve Conflicts**.
+1.  From the [Upgrade Details form](um-upgrade-details-form.md) for the record you are reconciling, click **Resolve Conflicts**.
 
-    The system displays the [Resolve Conflicts form](../reference/um-resolve-conflicts-form.md), which highlights differences between the two versions of the record. The form displays information about the base system record on the left and the customized record on the right.
+    The system displays the [Resolve Conflicts form](um-resolve-conflicts-form.md), which highlights differences between the two versions of the record. The form displays information about the base system record on the left and the customized record on the right.
 
     **Note:** The system creates a new customer update record when you click **Resolve Conflicts**.
 
@@ -47,10 +47,10 @@ Role required: admin
     The system sets the **Resolution** for this record to **Reviewed and Merged**.
 
 
--   **[Upgrade details form](../reference/um-upgrade-details-form.md)**  
+-   **[Upgrade details form](um-upgrade-details-form.md)**  
 From the Upgrade Details form, you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
--   **[Resolve Conflicts form](../reference/um-resolve-conflicts-form.md)**  
+-   **[Resolve Conflicts form](um-resolve-conflicts-form.md)**  
 The Resolve Conflicts form you compare to the base system version with the customized version of a record and reconcile the differences.
 
-**Parent Topic:**[Upgrade Monitor tool in Upgrade Console](../concept/um-upgrade-monitor-tool.md)
+**Parent Topic:**[Upgrade Monitor tool in Upgrade Console](um-upgrade-monitor-tool.md)
 

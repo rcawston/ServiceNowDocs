@@ -52,7 +52,7 @@ When they’re populated, you can view the following related lists on SIR securi
 
 The following figure illustrates how you log in to your ServiceNow AI Platform instance from your mobile device and the structure of the landing screen of the Security Incident Response Mobile app that is displayed after you log in.
 
-For step-by-step instructions about how to set up your ServiceNow AI Platform instance and install the Security Incident Response Mobile app, see [Set up checklist for the Security Incident Response Mobile app](../task/mobile-sir-setupinstll-mobile-app.md). For instructions about how to log in, see [Log in to the Security Incident Response Mobile app](../task/mobile-sir-get-started.md).
+For step-by-step instructions about how to set up your ServiceNow AI Platform instance and install the Security Incident Response Mobile app, see [Set up checklist for the Security Incident Response Mobile app](mobile-sir-setupinstll-mobile-app.md). For instructions about how to log in, see [Log in to the Security Incident Response Mobile app](mobile-sir-get-started.md).
 
 -   **Applications**
 

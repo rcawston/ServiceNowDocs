@@ -17,7 +17,7 @@ After you complete your Microsoft Excel spreadsheet with your equipment model da
 
 ## Before you begin
 
-Before you perform this process, you must prepare a Microsoft Excel spreadsheet for import. To learn more, see [Populating your Microsoft Excel spreadsheet with equipment model data](../concept/populate-excel-spreadsheet-with-isa-equipment-model-data.md).
+Before you perform this process, you must prepare a Microsoft Excel spreadsheet for import. To learn more, see [Populating your Microsoft Excel spreadsheet with equipment model data](populate-excel-spreadsheet-with-isa-equipment-model-data.md).
 
 Role required: admin or cmdb\_inst\_admin
 
@@ -38,5 +38,5 @@ By running this process, you create unique Equipment Model Entity CI class recor
     5.  In the confirmation message, select the **Run Robust Transform** related link.
     6.  Select **Transform**. If the import is successful, you should see the following confirmation message with the **Success** completion code.![Confirmation message that says State Complete and Completion Code Success if the import is completed without any errors.](../image/run-rte-success.png)
 
-**Parent Topic:**[Importing equipment model data](../concept/importing-isa95-equipment-model-etl.md)
+**Parent Topic:**[Importing equipment model data](importing-isa95-equipment-model-etl.md)
 

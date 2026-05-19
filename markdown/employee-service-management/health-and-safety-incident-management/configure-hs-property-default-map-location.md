@@ -38,5 +38,5 @@ The Geo map component \[sn\_geo\_map\] must be installed to use this feature. Fo
 
 The latitude and longitude are saved as the default coordinates that loads while completing the Health and Safety incidents or observation form.
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](setting-up-hs-incident-mgmt.md)
 

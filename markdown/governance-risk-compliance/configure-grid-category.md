@@ -29,13 +29,13 @@ To create custom columns \(grid configuration\) for the BIA dependency group fro
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Grid category record form](../reference/grid-category-record-form.md).
+    For more information on the fields in the form, see [Grid category record form](grid-category-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Grid category record form](../reference/grid-category-record-form.md)**  
+-   **[Grid category record form](grid-category-record-form.md)**  
 Use the Grid category record form to configure a grid category such as Dependency Assessment for the grid configuration by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

@@ -42,5 +42,5 @@ Deploying apps through your pipelines requires a certain amount of processing po
 6.  Select **Save**.
 
 
-**Parent Topic:**[Managing deployments using Pipelines and Deployments](../concept/manage-deployments-using-p-and-d-aemc.md)
+**Parent Topic:**[Managing deployments using Pipelines and Deployments](manage-deployments-using-p-and-d-aemc.md)
 

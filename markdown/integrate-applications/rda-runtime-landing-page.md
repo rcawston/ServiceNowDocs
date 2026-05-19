@@ -21,7 +21,7 @@ Use the ServiceNow® Attended Robot application to execute attended automations.
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg) Run an automation using Attended Robot.](../task/run-rda-robot.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg) Run an automation using Attended Robot.](run-rda-robot.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -30,6 +30,6 @@ Use the ServiceNow® Attended Robot application to execute attended automations.
 -   [Ask or answer questions in the community forum](https://www.servicenow.com/community/automation-engine/ct-p/automation-engine)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
--   [Robotic Process Automation \(RPA\) Hub glossary](../../rpa-hub/reference/rpa-hub-glossary.md#)
+-   [Robotic Process Automation \(RPA\) Hub glossary](rpa-hub-glossary.md#)
 -   [RPA General Guidelines](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1651495)
 

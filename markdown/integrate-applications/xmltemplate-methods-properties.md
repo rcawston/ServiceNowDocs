@@ -20,5 +20,5 @@ Learn about the properties of the XmlTemplate methods in RPA Desktop Design Stud
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](data-modellers.md)
 

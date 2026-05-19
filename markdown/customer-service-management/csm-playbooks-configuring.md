@@ -52,7 +52,7 @@ For more information, see the following topics:
 
 </td></tr><tr><td>
 
-[Select a playbook activity view](../task/playbook-select-activity-view.md)
+[Select a playbook activity view](playbook-select-activity-view.md)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Users with the system administrator role can select a playbook activity view in 
 
 </td></tr><tr><td>
 
-[Configure playbook stage and activity visibility](../task/playbook-config-activity-visibility.md)
+[Configure playbook stage and activity visibility](playbook-config-activity-visibility.md)
 
 </td><td>
 
@@ -109,7 +109,7 @@ Different playbooks for the same record type can use different playbook experien
 
 </td></tr><tr><td>
 
-[Set up a record generator for a case type](../task/setup-record-generator-for-case-type.md)
+[Set up a record generator for a case type](setup-record-generator-for-case-type.md)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Create a record for a case type by using a playbook record generator. With a rec
 
 </td></tr><tr><td>
 
-[Configure an optional activity for a playbook](../task/configure-optional-activity-for-a-case-type-playbook.md)
+[Configure an optional activity for a playbook](configure-optional-activity-for-a-case-type-playbook.md)
 
 </td><td>
 

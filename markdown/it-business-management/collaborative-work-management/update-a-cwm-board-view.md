@@ -48,5 +48,5 @@ Role required: sn\_cwm.cwm\_user
 
 The current view is updated with the changes that you made.
 
-**Parent Topic:**[Board views in CWM](../concept/board-views-in-cwm.md)
+**Parent Topic:**[Board views in CWM](board-views-in-cwm.md)
 

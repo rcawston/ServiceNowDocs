@@ -50,5 +50,5 @@ Enter the operational data for power and temperature manually and store it in th
 
 The instance stores the operational data in the clothoDB.
 
-**Parent Topic:**[Configuring capacity management](../concept/configuring-capacity-management.md)
+**Parent Topic:**[Configuring capacity management](configuring-capacity-management.md)
 

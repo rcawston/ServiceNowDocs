@@ -31,27 +31,27 @@ Portfolio Planning in Strategic Planning Workspace helps product and portfolio m
 
 </td></tr><tr><td>
 
-[Goals ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Create goals, set targets, and evaluate the progress](../../spw-goals/concept/managing-goals-in-alignment-planner-workspace.md)
+[Goals ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Create goals, set targets, and evaluate the progress](managing-goals-in-alignment-planner-workspace.md)
 
 </td><td>
 
-[Prioritize![](../../../reuse/icons/brand-icons/bus-balance-value.svg)Rank and prioritize work for your portfolio plans](../../spw-prioritization/concept/managing-backlog-alignment-planner-workspace.md)
+[Prioritize![](../../../reuse/icons/brand-icons/bus-balance-value.svg)Rank and prioritize work for your portfolio plans](managing-backlog-alignment-planner-workspace.md)
 
 </td><td>
 
-[Roadmap![](../../../reuse/icons/brand-icons/bus-customize.svg)Roadmap work for your portfolio plan](../../spw-roadmap/concept/roadmaps-in-alignment-planner-workspace.md)
+[Roadmap![](../../../reuse/icons/brand-icons/bus-customize.svg)Roadmap work for your portfolio plan](roadmaps-in-alignment-planner-workspace.md)
 
 </td></tr><tr><td>
 
-[Report![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Export portfolio plan status report as a PPT](../task/export-a-portfolio-plan-to-powerpoint-strategic-planning.md)
+[Report![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Export portfolio plan status report as a PPT](export-a-portfolio-plan-to-powerpoint-strategic-planning.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Strategic Planning with execution systems](../../apw-internal-integrations/concept/configuring-apw-with-agile-safe-and-ppm.md)
+[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate Strategic Planning with execution systems](configuring-apw-with-agile-safe-and-ppm.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines](../reference/alignment-planner-workspace-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, form fields, and general guidelines](alignment-planner-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

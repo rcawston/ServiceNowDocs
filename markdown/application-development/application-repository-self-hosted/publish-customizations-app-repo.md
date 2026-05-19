@@ -21,7 +21,7 @@ Role required: admin, or delegated\_developer with Publish To App Repo permissio
 
 Only one customization can be created per vendor or customer code registered on the store and app repo.
 
-To enable a developer to publish an application to the application repository, delegate the Publish to App Repo permission to the developer. For more information, see [Delegate development and deployment permissions to personnel](t_AddADeveloper.md).
+To enable a developer to publish an application to the application repository, delegate the Publish to App Repo permission to the developer. For more information, see [Delegate development and deployment permissions to personnel](../delegated-development-and-deployment/t_AddADeveloper.md).
 
 ## Procedure
 

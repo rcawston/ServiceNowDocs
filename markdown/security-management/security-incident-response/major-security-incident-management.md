@@ -63,14 +63,14 @@ The following Security Operations applications are the standard Security Inciden
 3.  Security Support Common
 4.  Security Support Common Orchestration
 
-**Parent Topic:**[Exploring Major Security Incident Management](../reference/exploring-major-security-incident-management.md)
+**Parent Topic:**[Exploring Major Security Incident Management](exploring-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Get started with MSIM](../reference/get-started-with-msim.md)
+[Get started with MSIM](get-started-with-msim.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](msim-checklist.md)
 
-[Major Security Incident Management roles](../reference/msi-roles.md)
+[Major Security Incident Management roles](msi-roles.md)
 

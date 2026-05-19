@@ -17,7 +17,7 @@ Enables storing and retrieving solutions.
 
 The SimilaritySolutionStore API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SimilaritySolutionStore - add\(Object mlSolution\)
 
@@ -27,7 +27,7 @@ Adds a new solution object to the store and returns a unique name.
 
 |Name|Type|Description|
 |----|----|-----------|
-|mlSolution|[SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)|[SimilaritySolution\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object to add to the store.|
+|mlSolution|[SimilaritySolution](SimilaritySolutionAPI.md#)|[SimilaritySolution\(\)](SimilaritySolutionAPI.md#) object to add to the store.|
 
 |Type|Description|
 |----|-----------|
@@ -65,7 +65,7 @@ Removes a specified solution object from the store.
 
 |Name|Type|Description|
 |----|----|-----------|
-|name|String|Name of the [SimilaritySolution\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object to be deleted.|
+|name|String|Name of the [SimilaritySolution\(\)](SimilaritySolutionAPI.md#) object to be deleted.|
 
 |Type|Description|
 |----|-----------|
@@ -87,9 +87,9 @@ Gets a solution object from the store.
 
 |Type|Description|
 |----|-----------|
-|Object|[SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object. Returns an error if the object does not exist.|
+|Object|[SimilaritySolution](SimilaritySolutionAPI.md#) object. Returns an error if the object does not exist.|
 
-The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [SimilaritySolution - getActiveVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) and [SimilaritySolutionVersion - getStatus\(\)](../../SimilaritySolutionVersion/concept/SimilaritySolutionVersionAPI.md#) methods.
+The following example shows how to get a solution object from the store using the get\(\) method and view its training status using the [SimilaritySolution - getActiveVersion\(\)](SimilaritySolutionAPI.md#) and [SimilaritySolutionVersion - getStatus\(\)](SimilaritySolutionVersionAPI.md#) methods.
 
 ```
 // Get status

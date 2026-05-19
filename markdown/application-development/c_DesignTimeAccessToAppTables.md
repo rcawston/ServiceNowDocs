@@ -25,12 +25,12 @@ Even when permission is granted to create configuration records, some configurat
 
 -   **[Default design access permissions](c_DefaultDesignAccessPermissions.md)**  
 By default, new application tables prevent other application scopes from creating configuration records on application data tables. This prevents any other applications from changing the functionality of a table.
--   **[Set design-time access to application tables](../task/t_SetDesignTimeAccessToAppTables.md)**  
+-   **[Set design-time access to application tables](t_SetDesignTimeAccessToAppTables.md)**  
 Set these access permissions to protect application tables at design-time.
 -   **[Example denying all design access to a table](c_ExampleDenyingAllDesignAccess.md)**  
 You can prevent other application scopes from creating configuration records on application data tables.
 -   **[Example allowing configuration records for a table](c_ExampleGrantingAccessToConfigRecs.md)**  
 You can permit other application scopes to create configuration records on application data tables.
 
-**Parent Topic:**[Table design and runtime settings](../reference/r_TableApplicationAccessFields.md)
+**Parent Topic:**[Table design and runtime settings](r_TableApplicationAccessFields.md)
 

@@ -30,7 +30,7 @@ Editing a request is supported for the following request types:
 -   Space arrangement request
 -   Tech support
 
-If you have created a request from a workplace reservation, you can only edit the request from the reservation summary page. For more information, see [Share, modify, or cancel a reservation](../../wsd-reservation-management/task/modify-cancel-res-request.md).
+If you have created a request from a workplace reservation, you can only edit the request from the reservation summary page. For more information, see [Share, modify, or cancel a reservation](../workplace-reservation-management/modify-cancel-res-request.md).
 
 **Note:**
 
@@ -67,16 +67,16 @@ Role required: sn\_wsd\_core.workplace\_user
     The Workplace Request is updated.
 
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](request-workplace-services.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](Reconfig-office-space-1.md)
+[Reconfigure an office space](../employee-service-management/Reconfig-office-space-1.md)
 
 [Raise help request for a workplace inquiry](submit-gen-workplace-serv-req.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](request-desk-change.md)
 
 [Request furniture for a space](request-furniture.md)
 

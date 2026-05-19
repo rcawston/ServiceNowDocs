@@ -28,7 +28,7 @@ Role required: business\_process\_manager or asset or itil or sn\_apm.apm\_user
 4.  Select **Business Processes**.
 
 
-**Parent Topic:**[Manage business processes](../../concept/eaw-concept/eaw-manage-business-processes.md)
+**Parent Topic:**[Manage business processes](eaw-manage-business-processes.md)
 
 **Related topics**  
 

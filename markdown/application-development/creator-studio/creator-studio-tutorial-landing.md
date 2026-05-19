@@ -58,8 +58,8 @@ Video on how to create an app
 
     ![Select the Create app button](../image/crs-tutorial-create-app-button.png "Create app button")
 
-    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../../applications/concept/application-collaboration.md).
-    -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](../task/creator-studio-request-app-added.md).
+    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../application-collaboration.md).
+    -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](creator-studio-request-app-added.md).
 3.  Select the type of app you want to build, such as **Service Desk**.
 
     Service Desk apps enable users to submit requests, report issues, and access support related to services within your company.

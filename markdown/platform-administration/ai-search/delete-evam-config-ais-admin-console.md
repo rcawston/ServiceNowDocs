@@ -39,5 +39,5 @@ Role required: admin or ais\_admin
 
 The selected view configuration is permanently deleted.
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](ais-admin-console-managing-evam.md)
 

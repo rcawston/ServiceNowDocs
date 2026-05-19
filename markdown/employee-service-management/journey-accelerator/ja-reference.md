@@ -24,5 +24,5 @@ The to-do form contains fields that a manager uses to customize tasks for employ
 -   **[Components installed with Journey Accelerator](components-installed-with-journey-accelerator.md)**  
 Several types of components install with the activation of the Journey Accelerator application, including user roles and tables. There are also dependencies on other features or apps.
 
-**Parent Topic:**[Journey Accelerator](../concept/journey-accelerator-1.md)
+**Parent Topic:**[Journey Accelerator](../employee-service-management/journey-accelerator-1.md)
 

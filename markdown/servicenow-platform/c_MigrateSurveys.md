@@ -32,37 +32,37 @@ Legacy survey conditions are not migrated and must be recreated as trigger condi
     -   Survey Wizard \(ID: com.glideapp.survey\_wizard\)
 -   Survey wizards cannot be migrated.
 
--   **[Migrate a legacy survey](../task/t_MigrateALegacySurvey.md)**  
+-   **[Migrate a legacy survey](t_MigrateALegacySurvey.md)**  
 Migrate a legacy survey and its related records to take advantage of a more powerful feature set.
--   **[Survey question migration](../reference/r_SurveyQuestionMigration.md)**  
+-   **[Survey question migration](r_SurveyQuestionMigration.md)**  
 Before you migrate a legacy survey, understand that some legacy survey questions cannot be migrated due to incompatible question types.
--   **[Migrated components](../reference/r_MigratedComponents.md)**  
+-   **[Migrated components](r_MigratedComponents.md)**  
 When you migrate a survey, the system maps records from survey tables to assessment tables.
--   **[Migrated question review](../reference/r_ReviewMigratedQuestions.md)**  
+-   **[Migrated question review](r_ReviewMigratedQuestions.md)**  
 To maintain accurate result calculations, you may need to make minor adjustments to some of the migrated survey records to ensure results are calculated correctly.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](view-survey-overview.md)
 
 [Survey designer](c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](t_ViewSurveyInstance.md)
 
 [Survey users and groups](c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](t_CustomizingAppearance.md)
 
 [Survey definitions](c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
 
 [Survey questions](c_SurveyQuestion.md)
 
@@ -70,7 +70,7 @@ To maintain accurate result calculations, you may need to make minor adjustments
 
 [Survey distribution](c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](outlook-actionable-messages.md)
 
 [Sentiment analysis for surveys](sentiment-analysis.md)
 

@@ -52,5 +52,5 @@ This test is an optional assessment of the index. The test isn’t part of the 1
     The result of this index performance test doesn’t change the index state recorded in the Index Suggestion record.
 
 
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](resolving-slow-queries.md)
 

@@ -24,7 +24,7 @@ Predictive Intelligence quick start tests require activating the Predictive Inte
 |PI: Glide upgrade test for Classification solution|Validate that the classification model prediction on existing active models is producing the same class membership and confidence value results after a glide upgrade.|
 |PI: Glide upgrade test for Similarity solution|Validate that the similarity model prediction API calls on active models are successful after a glide upgrade.|
 
-**Parent Topic:**[Configure Predictive Intelligence](../../predictive-intelligence/task/configure-predictive-intelligence.md)
+**Parent Topic:**[Configure Predictive Intelligence](configure-predictive-intelligence.md)
 
 **Related topics**  
 

@@ -50,5 +50,5 @@ You can export logs for review. For more information, see [Export Now Assist Gua
 
 Prompt injection detection is configured on your instance for all generative AI workflows. Now Assist Guardian detects prompt injection attempts based on the severity level you selected and responds according to the action you configured.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](now-assist-guardian.md)
 

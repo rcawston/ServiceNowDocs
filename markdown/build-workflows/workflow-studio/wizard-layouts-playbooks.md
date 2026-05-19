@@ -41,8 +41,8 @@ In a wizard layout:
 
 The underlying playbook logic and activity configuration remain the same. The wizard layout changes how the playbook is presented to end users, not what the playbook does.
 
--   **[Configure a wizard layout for a playbook](../task/add-wizard-layout-playbooks.md)**  
+-   **[Configure a wizard layout for a playbook](add-wizard-layout-playbooks.md)**  
 Configure a wizard layout that presents a playbook as a guided, step-by-step experience for end users.
 
-**Parent Topic:**[Designing Playbook Experience](../../workspace/concept/playbook-experience-admins.md)
+**Parent Topic:**[Designing Playbook Experience](playbook-experience-admins.md)
 

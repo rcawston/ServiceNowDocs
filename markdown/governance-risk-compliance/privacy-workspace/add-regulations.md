@@ -101,5 +101,5 @@ Brief description of the regulation violation based on your analysis.
 </table>8.  Select **Save**.
 
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

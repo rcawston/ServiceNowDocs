@@ -241,5 +241,5 @@ The data appears.
 
 Data in the reports are generated from the `data_egress_count` table. [View](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1638468) how data is populated in the `data_egress_count`.
 
-**Parent Topic:**[Integration Hub Usage Dashboard](../concept/integrationhub-usage-dashboard.md)
+**Parent Topic:**[Integration Hub Usage Dashboard](integrationhub-usage-dashboard.md)
 

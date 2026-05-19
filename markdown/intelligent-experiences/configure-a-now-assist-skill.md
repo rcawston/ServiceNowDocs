@@ -20,7 +20,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## About this task
 
-Activate the skills that are most relevant to your use cases and business needs. For a full list of available skills, see [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md). After the skills have been activated, they’re accessible across the ServiceNow AI Platform based on the availability and display settings you choose.
+Activate the skills that are most relevant to your use cases and business needs. For a full list of available skills, see [Now Assist skills](now-assist-skills/now-assist-skills.md). After the skills have been activated, they’re accessible across the ServiceNow AI Platform based on the availability and display settings you choose.
 
 ## Procedure
 
@@ -75,5 +75,5 @@ Define the triggers, inputs, and display location for chat summarization and cha
 -   **[Configure email reply recommendation in the Now Assist Admin console](configure-email-recommendation.md)**  
 Configure the email recommendation Now Assist skill to enable agents to draft email replies based on contextual information.
 
-**Parent Topic:**[Using Now Assist Admin](../concept/using-now-assist-admin_0.md)
+**Parent Topic:**[Using Now Assist Admin](using-now-assist-admin_0.md)
 

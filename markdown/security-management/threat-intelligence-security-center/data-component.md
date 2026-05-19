@@ -15,7 +15,7 @@ breadcrumb: [Other Objects, TISC Library Repository, Threat Intelligence Securit
 
 Data components are used to identify specific properties or values of a data source.
 
--   **[Define Data Component](../task/define-data-component.md)**  
+-   **[Define Data Component](define-data-component.md)**  
 Define a data component to identify the properties or values of a data source
 
 **Parent Topic:**[Other Objects](tisc-other-objects.md)

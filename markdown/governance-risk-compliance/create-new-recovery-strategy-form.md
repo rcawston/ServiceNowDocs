@@ -30,5 +30,5 @@ For description of the field values, see the table.
 |Estimated % of operations achieved|Estimated % of operations achieved for the recovery strategy.|
 |Comments|Comments related to the recovery strategy. The BCM administrator or planner can update the comments in the plan.|
 
-**Parent Topic:**[Add recovery strategies for dependencies](../task/create-new-recovery-strategy-for-loss-scenario-uib-ws.md)
+**Parent Topic:**[Add recovery strategies for dependencies](create-new-recovery-strategy-for-loss-scenario-uib-ws.md)
 

@@ -308,5 +308,5 @@ Define the value returned for union and interface types. Functions available on 
     3.  Select **Submit**.
 
 
-**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+**Parent Topic:**[Query record data using the GraphQL API framework](scripted-graph-ql.md)
 

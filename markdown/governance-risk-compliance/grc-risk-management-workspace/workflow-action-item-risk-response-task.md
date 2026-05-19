@@ -29,7 +29,7 @@ The action item workflow consists of the following stages:
 
 -   **Create action items**
 
-    The risk assessor or risk response task owner can create multiple strategies with various action items for each risk response task. Action items are specific, granular tasks defined within a risk response task to address and manage risks effectively. The risk response task owner defines a plan of action for the action item. Action items can be created when the risk response task is in either the Draft state or the Work in progress state. For more information, see [Create an action item in the risk response task](../task/create-action-item-risk-response-task.md).
+    The risk assessor or risk response task owner can create multiple strategies with various action items for each risk response task. Action items are specific, granular tasks defined within a risk response task to address and manage risks effectively. The risk response task owner defines a plan of action for the action item. Action items can be created when the risk response task is in either the Draft state or the Work in progress state. For more information, see [Create an action item in the risk response task](create-action-item-risk-response-task.md).
 
     **Note:** You can create risk response action items for all types of risk response tasks except for Risk acceptance tasks.
 
@@ -44,5 +44,5 @@ The action item workflow consists of the following stages:
     **Important:** All action items associated with the risk response task must be closed to move the risk response task from Work in progress to Awaiting approval state.
 
 
-**Parent Topic:**[Using the Risk Workspace](../../grc-workspace-risk/concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

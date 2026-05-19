@@ -49,5 +49,5 @@ Streaming is disabled for your version of GCC in your instance.
 
 If you want to reactivate streaming, repeat these steps, but set the **Value** for all entries to `true`.
 
-**Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](../concept/specialized-va-integs-msteams.md)
+**Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](specialized-va-integs-msteams.md)
 

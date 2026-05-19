@@ -105,5 +105,5 @@ After creating a number group, associate numbers with that group to use the sele
 
 You can create multiple number groups and configure with different Twilio numbers. You can then the associate the number groups with the various workflows based on your requirement.
 
-**Parent Topic:**[Numbers and number groups](../concept/c_NumberGroups.md)
+**Parent Topic:**[Numbers and number groups](c_NumberGroups.md)
 

@@ -74,5 +74,5 @@ Fields that are applicable for the data source.The selected fields appear on the
 -   **[Add fulfillment instructions and checklist for a data source](add-fulfillments-steps-dft.md)**  
 Add instructions for a data source that a task owner in a legal matter can follow to resolve the task.
 
-**Parent Topic:**[Configure Legal Digital Forensics](../concept/setting-up-legal-dft.md)
+**Parent Topic:**[Configure Legal Digital Forensics](setting-up-legal-dft.md)
 

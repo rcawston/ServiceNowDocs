@@ -19,7 +19,7 @@ Configure prioritized intraday optimization to use matching rules that narrow jo
 
 Matching rules for prioritized intraday optimization require [Territory-Based Optimization](territory-based-optimization.md) to be enabled. Configurations using assignment groups don’t support matching rules.
 
-Install the Field Service Management Demo Data \[com.snc.work\_management.demo\] plugin to access example matching rules. For more information see, [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+Install the Field Service Management Demo Data \[com.snc.work\_management.demo\] plugin to access example matching rules. For more information see, [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 Role required: wm\_admin
 

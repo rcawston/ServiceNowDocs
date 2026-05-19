@@ -42,5 +42,5 @@ Role required: admin
     ![Update the app id value](../images/update-app-id-value.png)
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](c_employee_ex_s_tnt.md)
 

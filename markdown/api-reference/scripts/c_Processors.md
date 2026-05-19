@@ -15,7 +15,7 @@ breadcrumb: [Server-side scripting, Scripting, API implementation, API implement
 
 Processors provide a customizable URL endpoint that can execute arbitrary server-side JavaScript code and produce output such as TEXT or JSON. Creating custom processors is deprecated.
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 **Warning:** When creating a processor, ensure that you use parameter names that are specific to your processor. For example, if your processor exports a list of legal records, and a necessary parameter is the recipient's email address, don't use “email” as the parameter name. Create a more processor specific parameter name, such as legal\_export\_recipient\_email. Failure to do so, and using instance parameter names, such as id, table, sys\_id, service, catalog\_id, or view \(and others\), can cause unexpected results.
 
@@ -139,16 +139,16 @@ Policy to use to protect this record's script.
 -   Protected
 
 </td></tr></tbody>
-</table>-   **[Processor API components](../reference/r_ProcessorAPIComponents.md)**  
+</table>-   **[Processor API components](r_ProcessorAPIComponents.md)**  
 Processors have access to dedicated API classes, objects, and methods.
--   **[Secure and protect a processor](../task/t_SecureAProcessor.md#)**  
+-   **[Secure and protect a processor](t_SecureAProcessor.md#)**  
 You can protect your processor against unauthorized use by using role restrictions, and protect it by requiring a CSRF token.
--   **[Create a simple processor](../../../app-store/dev_portal_learning/dev_platform_intro/task/t_CreateSimpleProcessor.md)**  
+-   **[Create a simple processor](t_CreateSimpleProcessor.md)**  
 Create a simple processor to execute a script from a URL query. This feature is deprecated.
--   **[Create a multi-table processor](../../../app-store/dev_portal_learning/dev_platform_intro/task/t_CreateMultiTableProcessor.md)**  
+-   **[Create a multi-table processor](t_CreateMultiTableProcessor.md)**  
 Create a multi-table processor that reports the number of rows in any table on your instance. This feature is deprecated.
--   **[Create a custom processor](../../server-scripting/task/t_CreatingACustomProcessor.md)**  
+-   **[Create a custom processor](t_CreatingACustomProcessor.md)**  
 Create a custom processor to execute a script from a URL query. This feature is deprecated.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 

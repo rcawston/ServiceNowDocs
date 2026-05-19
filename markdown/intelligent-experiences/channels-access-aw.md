@@ -35,7 +35,7 @@ The final step of the agentic workflow guided setup includes options for where a
 
     3.  Select a table where the UI action can be used.
 
-        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [In-product agentic AI](../concept/in-product-agentic-ai.md) for more information about the AI Workflows panel.
+        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [In-product agentic AI](in-product-agentic-ai.md) for more information about the AI Workflows panel.
 
     4.  Specify conditions for the UI action to appear and select **Add**.
 

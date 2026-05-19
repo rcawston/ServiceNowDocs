@@ -18,7 +18,7 @@ To get started using Now Assist for Creator, install Now Assist for Creator. The
 
 ## Installing Now Assist for Creator
 
-Check your company's entitlements to verify that you have access to Now Assist for Creator. To start using Now Assist for Creator, you must request it from the ServiceNow® Store. Once approval has been granted, you can install it on your instance. See [Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md) for more information.
+Check your company's entitlements to verify that you have access to Now Assist for Creator. To start using Now Assist for Creator, you must request it from the ServiceNow® Store. Once approval has been granted, you can install it on your instance. See [Install Now Assist for Creator](install-now-assist-for-creator.md) for more information.
 
 ## Activating AI capabilities
 
@@ -38,7 +38,7 @@ To use Now Assist for Creator, you might need specific roles. Some roles are spe
 
 Other roles might be required for Now Assist experiences, such as the now\_assist\_panel\_user role for creating applications in ServiceNow Studio with the app generation skill.
 
-Now Assist for Creator has its own role, now.assist.creator, which might be required for using some Now Assist for Creator capabilities. See [Now Assist for Creator \[now.assist.creator\] role](../../../administer/creator/reference/creator-roles-1.md) for more information.
+Now Assist for Creator has its own role, now.assist.creator, which might be required for using some Now Assist for Creator capabilities. See [Now Assist for Creator \[now.assist.creator\] role](creator-roles-1.md) for more information.
 
 To learn what roles are required for the Now Assist for Creator AI capability you want to use, see the product documentation for the capability.
 

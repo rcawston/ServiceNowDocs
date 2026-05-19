@@ -19,8 +19,8 @@ An OT admin can trigger automated mapping of all OT devices within a selected su
 
 The following plugins must be installed:
 
--   [Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)
--   [Industrial Process Manager](../../mftg-manufacturing-process-mgr/concept/industrial-process-manager-overview.md)
+-   [Operational Technology Manager](../operational-technology-manager/operational-technology-manager.md)
+-   [Industrial Process Manager](industrial-process-manager-overview.md)
 
 Role required: sn\_ot\_amazing\_write
 

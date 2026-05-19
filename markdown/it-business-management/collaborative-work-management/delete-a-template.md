@@ -46,5 +46,5 @@ You must be the owner of the template to delete it.
 
 The template is deleted and is no longer available for you or your team to use.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](templates-in-cwm-for-spaces-boards-and-docs.md)
 

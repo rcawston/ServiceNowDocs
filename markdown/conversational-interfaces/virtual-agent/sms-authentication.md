@@ -33,5 +33,5 @@ Rate limiting policy is enabled by default for SMS for better security. To confi
 
 ![The Provider Properties tab lists entries for each of these parameters, including the value and description.](../images/sms-auth-rate-limit-properties.png)
 
-**Parent Topic:**[Configure SMS authentication](../task/configure-sms-auth.md)
+**Parent Topic:**[Configure SMS authentication](configure-sms-auth.md)
 

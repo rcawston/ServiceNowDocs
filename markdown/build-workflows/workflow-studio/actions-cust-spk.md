@@ -30,7 +30,7 @@ Role required: admin or action\_designer with delegated access to the specific a
 4.  On the spoke details page, click **New action**.
 
     -   To create actions by importing the OpenAPI Specification, click **From OpenAPI Specification**. For information about selecting the required operations and creating actions, see [Create spoke and build actions by importing an OpenAPI Specification](create-spoke-fd.md).
-    -   To create actions manually, click **Manually**. The Action Properties screen is displayed. You should create and publish the action in the Action Designer. For more information, see [Building actions](../concept/actions.md).
+    -   To create actions manually, click **Manually**. The Action Properties screen is displayed. You should create and publish the action in the Action Designer. For more information, see [Building actions](actions.md).
     You can use the published actions to create flows or subflows as per your requirement.
 
 

@@ -19,9 +19,9 @@ Role required: admin
 
 ## About this task
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](explore-ne-theming.md).
 
-**Note:** Certain elements, such as banner text color, are not configurable with legacy theming and require Next Experience theming. For details, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Note:** Certain elements, such as banner text color, are not configurable with legacy theming and require Next Experience theming. For details, see [Next Experience theming for mobile](explore-ne-theming.md).
 
 ## Procedure
 

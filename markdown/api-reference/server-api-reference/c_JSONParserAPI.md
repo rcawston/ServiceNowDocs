@@ -21,7 +21,7 @@ The JSONParser API provides a JSON parser that does not use the JavaScript eval\
 
 This class cannot be used in a scoped application. Use the JavaScript JSON object instead.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## JSONParser - JSONParser\(\)
 

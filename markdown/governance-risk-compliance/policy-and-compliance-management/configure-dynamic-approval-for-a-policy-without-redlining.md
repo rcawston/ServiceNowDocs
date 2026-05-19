@@ -42,7 +42,7 @@ A user with the sn\_compliance\_ws.corporate\_compliance\_manager role can creat
     |**__Select approvers__**|Option to select the approvers on the policy record. You can add the approvers in the **Approvers** field.|
     |**__Use approval rule__**|Option to use the approval rule for dynamic approval configuration. Based on the setup of the approval configuration and configured approval levels, the system applies one or more approval rules on the policy record. Once an approval rule has been configured, that value is populated in the **Approval rule** field.|
 
-    For more information on creating a policy in the Compliance Workspace, see [create a new policy](../../grc-workspace-compliance/task/create-policy-ws.md).
+    For more information on creating a policy in the Compliance Workspace, see [create a new policy](../grc-compliance-management-workspace/create-policy-ws.md).
 
     **Note:** If dynamic approval configuration is not set up on the policy record, the approvers are added in the **Approval** field of the policy.
 

@@ -102,38 +102,38 @@ Total number of SAP users with indirect access to the SAP system based on user t
 </td></tr></tbody>
 </table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for SAP](sap-publisher-pack.md)
 
 **Related topics**  
 
 
-[Tables installed with the SAP publisher pack](../concept/component-installed-sap-plugin.md)
+[Tables installed with the SAP publisher pack](component-installed-sap-plugin.md)
 
-[Deploy the ABAP program for SAP](../task/import-abap-program-sap.md)
+[Deploy the ABAP program for SAP](import-abap-program-sap.md)
 
-[Establish an SAP connection using basic authentication](../task/add-sap-connection.md)
+[Establish an SAP connection using basic authentication](add-sap-connection.md)
 
-[Establish an SAP connection using OAuth 2.0](../task/add-sap-connection-oauth.md)
+[Establish an SAP connection using OAuth 2.0](add-sap-connection-oauth.md)
 
-[Create entitlements for SAP](../task/create-entitlement-sap.md)
+[Create entitlements for SAP](create-entitlement-sap.md)
 
-[Create software models for SAP](../task/add-software-model-sap.md)
+[Create software models for SAP](add-software-model-sap.md)
 
-[Create a custom SAP named user type](../task/create-named-user.md)
+[Create a custom SAP named user type](create-named-user.md)
 
-[Map a role to a named user type](../task/create-named-user-type-role-mapping.md)
+[Map a role to a named user type](create-named-user-type-role-mapping.md)
 
-[Create custom SAP price lists](../task/create-sap-pricelist.md)
+[Create custom SAP price lists](create-sap-pricelist.md)
 
-[Import custom SAP named user types](../task/import-custom-sap-named-user-type.md)
+[Import custom SAP named user types](import-custom-sap-named-user-type.md)
 
-[Import custom SAP price lists](../task/import-custom-sap-price-list.md)
+[Import custom SAP price lists](import-custom-sap-price-list.md)
 
-[SAP USMM-based optimization](../concept/usmm-optimization.md)
+[SAP USMM-based optimization](usmm-optimization.md)
 
-[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+[User transaction activity for named user types](sap-named-user-transaction-activity.md)
 
-[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 
 [Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)
 

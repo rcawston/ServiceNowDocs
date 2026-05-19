@@ -15,7 +15,7 @@ breadcrumb: [Assign ad-hoc Service Locations, Prepare work orders, Use, Field Se
 
 The Field Service with Service Locations feature adds options to provide an ad-hoc location when creating a work order or work order task on ServiceNow AI Platform, Agent Workspace, or Customer Service Portal.
 
-If you don’t want to use the auto-populated location in the **Location** field when creating a work order or work order task, you can add an ad-hoc location. The default validation option for service locations determines whether you can use the Google map \(Using map\) or enter the address manually \(Without map or No validation\). For more information, see [Set the default validation option for service locations](../task/set-default-validation-option-for-service-locations.md).
+If you don’t want to use the auto-populated location in the **Location** field when creating a work order or work order task, you can add an ad-hoc location. The default validation option for service locations determines whether you can use the Google map \(Using map\) or enter the address manually \(Without map or No validation\). For more information, see [Set the default validation option for service locations](../workforce-optimization-for-field-service/set-default-validation-option-for-service-locations.md).
 
 <table id="table_hnd_rbq_gqb"><thead><tr><th>
 

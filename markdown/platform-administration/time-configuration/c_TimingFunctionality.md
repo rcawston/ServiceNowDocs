@@ -32,7 +32,7 @@ Defined metrics can track how long an audited field holds a certain value.
 
 For instance, a metric can track how long an incident is assigned to an individual, or how long an incident is in the state Active.
 
-See [Metrics](../../../use/reporting/concept/c_MetricDefinitionSupport.md) for more information.
+See [Metrics](../c_MetricDefinitionSupport.md) for more information.
 
 ## Time configuration SLAs
 

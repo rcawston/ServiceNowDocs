@@ -17,7 +17,7 @@ View or track the progress of work order in the associated incident record from 
 
 ## Before you begin
 
-Enable the activity function using the IncidentWorkOrderIntegration extension point. For more information, see [Using extension point for incident management](../reference/using-extension-point-for-incident-mngmnt.md).
+Enable the activity function using the IncidentWorkOrderIntegration extension point. For more information, see [Using extension point for incident management](using-extension-point-for-incident-mngmnt.md).
 
 Role required: itil, wm\_admin, and sn\_change\_read
 
@@ -43,5 +43,5 @@ ITIL agents can view the progress of a work order directly from a related incide
 6.  View the work order progress in the **Activity** section.
 
 
-**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+**Parent Topic:**[Integration with Incident Management](incident-for-fsm.md)
 

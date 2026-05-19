@@ -20,11 +20,11 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure monday.com for external content indexing](../task/configure-monday-com-external-content-indexing.md)**  
+-   **[Configure monday.com for external content indexing](configure-monday-com-external-content-indexing.md)**  
 Obtain an API token for a monday.com user account with admin privileges to allow the monday.com external content connector to access searchable content and metadata from your monday.com source system.
--   **[Create a monday.com external content connector](../task/create-ext-cont-connector-monday-com.md)**  
+-   **[Create a monday.com external content connector](create-ext-cont-connector-monday-com.md)**  
 Create an external content connector to retrieve searchable content and security principals from your monday.com source system.
--   **[Configure crawl settings for a monday.com external content connector](../task/configure-crawl-settings-monday-com-external-content-connector.md)**  
+-   **[Configure crawl settings for a monday.com external content connector](configure-crawl-settings-monday-com-external-content-connector.md)**  
 Specify the workspaces you want your monday.com external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -32,7 +32,7 @@ Specify the workspaces you want your monday.com external content connector to cr
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

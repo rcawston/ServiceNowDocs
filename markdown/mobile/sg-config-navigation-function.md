@@ -91,7 +91,7 @@ Whether the navigation function is available offline.**Note:**
 
 -   The screen and the application that contains the navigation function must be marked as available offline for the navigation function to work when the device is offline.
 -   Offline is only supported for the Mobile Agent.
-For more information about offline mode, see [Offline mode](../concept/mobile-offline-mode.md).
+For more information about offline mode, see [Offline mode](mobile-offline-mode.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -252,5 +252,5 @@ Whether the attribute is turned on. Enter `true` to turn on the attribute. By de
 
 ## What to do next
 
-After you create a navigation function, you must associate it with a specific location in the mobile app. For more information, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+After you create a navigation function, you must associate it with a specific location in the mobile app. For more information, see [Associate a function with a location in the app](sg-studio-button-instances.md).
 

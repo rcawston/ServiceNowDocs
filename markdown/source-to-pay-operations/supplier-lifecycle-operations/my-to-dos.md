@@ -70,7 +70,7 @@ On the Supplier Task List page, you can do one of the following:
 
 On the Supplier Task List page, select the link to a task to view details about that task.
 
--   **[Approve or reject a task](../task/approve-reject-task.md)**  
+-   **[Approve or reject a task](approve-reject-task.md)**  
 Review the tasks that are assigned to you and approve or reject them.
 
 **Parent Topic:**[Using Supplier Collaboration Portal](use-supp-central.md)
@@ -78,7 +78,7 @@ Review the tasks that are assigned to you and approve or reject them.
 **Related topics**  
 
 
-[Invite a member to access the Supplier Collaboration Portal](../task/invite-member-supp-portal.md)
+[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
 [Supplier contact self-registration](supp-contact-self-reg.md)
 
@@ -86,23 +86,23 @@ Review the tasks that are assigned to you and approve or reject them.
 
 [Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
-[View or update your user profile from the Supplier Collaboration Portal](../task/view-update-supp-profile.md)
+[View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 
-[View all your requests from the Supplier Collaboration Portal](../task/view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
 
-[View supplier locations from the Supplier Collaboration Portal](../task/view-supp-loc-supp-central.md)
+[View supplier locations from the Supplier Collaboration Portal](view-supp-loc-supp-central.md)
 
-[View supplier payment information from the Supplier Collaboration Portal](../task/view-bank-info-supp-central.md)
+[View supplier payment information from the Supplier Collaboration Portal](view-bank-info-supp-central.md)
 
-[Start a chat session from the Supplier Collaboration Portal](../task/start-chat-portal.md)
+[Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md)
 
-[Manage documents from the Supplier Collaboration Portal](../task/upload-doc-portal.md)
+[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
 
-[Complete a risk assessment from the Supplier Collaboration Portal](../task/complete-risk-assessments.md)
+[Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
 
 [Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)
 
-[Approve or reject a task](../task/approve-reject-task.md)
+[Approve or reject a task](approve-reject-task.md)
 
 [Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

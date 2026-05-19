@@ -39,7 +39,7 @@ Additionally, Now Assist for app summary generation has the following features, 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Quickly generate a description of an app, which you can use to check for duplicate apps.|[Summarize the contents of an app in ServiceNow Studio](../../servicenow-studio/task/summarize-an-app-in-servicenow-studio.md)|Developer, admin|
+|Quickly generate a description of an app, which you can use to check for duplicate apps.|[Summarize the contents of an app in ServiceNow Studio](summarize-an-app-in-servicenow-studio.md)|Developer, admin|
 
 **Parent Topic:**[App summary generation](sns-now-assist-app-summarize-landing.md)
 

@@ -63,11 +63,11 @@ Transform the data in a map source to a value that can be displayed on a map. Ma
 **Related topics**  
 
 
-[Automatically generate a map source hierarchy](../task/t_AutoGenerateMapSourceHierarchy.md)
+[Automatically generate a map source hierarchy](t_AutoGenerateMapSourceHierarchy.md)
 
-[Customize a map source level](../task/t_CustomizeAMapSourceLevel.md)
+[Customize a map source level](t_CustomizeAMapSourceLevel.md)
 
-[Create a key-value pair mapping](../task/t_CreateKeyValuePairMapping.md)
+[Create a key-value pair mapping](t_CreateKeyValuePairMapping.md)
 
-[Create a map](../task/t_CreateAMap.md#)
+[Create a map](t_CreateAMap.md#)
 

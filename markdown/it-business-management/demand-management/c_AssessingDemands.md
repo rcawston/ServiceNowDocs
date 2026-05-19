@@ -29,32 +29,32 @@ To access the demand workbench, navigate to **All** &gt; **Demand** &gt; **Deman
 
 The roadmap is an interactive visualization tool that shows all demands that are currently in an active state. You can modify the look of the backlog using the Settings pane. The Settings pane enables you to change between the two-dimensional \(2D\) and three-dimensional \(3D\) view, filter demands by portfolio, or open the demands in a list view. While in list view, you can reassign panel colors, create filters to limit the records that are used for lanes and panels, and apply sorting. To use the roadmap, navigate to **All** &gt; **Demand** &gt; **Roadmap**.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Create a demand](../task/t_CreatingDemands.md)
+[Create a demand](t_CreatingDemands.md)
 
-[View demands](../task/t_ViewDemands.md)
+[View demands](t_ViewDemands.md)
 
 [Add details to demands](c_EnhancingDemands.md)
 
 [RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 
-[Reset a demand to Draft state](../task/reset-demand-to-draft-state.md)
+[Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
-[Delete demands](../task/t_DeletingDemands.md)
+[Delete demands](t_DeletingDemands.md)
 
-[Move and resize a demand](../task/t_MoveAndResizeADemand.md)
+[Move and resize a demand](t_MoveAndResizeADemand.md)
 
-[Train the similarity solution for Demand Management to find similar demands](../task/train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](ppm-piwb-demand.md)
 
-[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](../task/identify-similar-demands.md)
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
 
-[Summarize demands with demand summarization skill](../task/demand-summary-demand-classic.md)
+[Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
 
-[Associate AI systems with demands](../task/associate-ai-systems-with-demands.md)
+[Associate AI systems with demands](associate-ai-systems-with-demands.md)
 

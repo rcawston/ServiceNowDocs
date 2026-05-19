@@ -65,7 +65,7 @@ After it is activated, the card disappears and the new solution appears under th
 
 To monitor the performance of the activated solution, review the Recently activated AI section on the home page. For more information, see [Monitor your recently activated Now Assist solution in Now Assist Center](monitor-now-assist-performance-now-assist-center.md).
 
-**Parent Topic:**[Activating actionable use cases from Now Assist Center](../concept/now-assist-center-actionable-use-cases.md)
+**Parent Topic:**[Activating actionable use cases from Now Assist Center](now-assist-center-actionable-use-cases.md)
 
 **Related topics**  
 

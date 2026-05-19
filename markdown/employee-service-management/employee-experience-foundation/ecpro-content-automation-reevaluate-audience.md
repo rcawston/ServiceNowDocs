@@ -17,7 +17,7 @@ Analyze your campaign to ensure that your messaging is effective and that you ar
 
 Campaigns uses Content Analytics to collect data on user interactions and generate visualizations that help you determine the effectiveness of your campaign. View the data visualizations for published campaigns in the [Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md).
 
-**Note:** Content Analytics is a separate plugin that must be installed and configured. For installation information, see [Activate Content Analytics](../task/activate-content-analytics-plugin.md).
+**Note:** Content Analytics is a separate plugin that must be installed and configured. For installation information, see [Activate Content Analytics](activate-content-analytics-plugin.md).
 
 ## Evaluating a campaign
 
@@ -31,7 +31,7 @@ You can define the following factors to make your campaign more effective:
 
     After the campaign starts, the Content Experiences: Update Campaign Audience scheduled job adds or removes users when they meet or no longer meet the conditions. For example, a campaign targets employees of the Engineering department. The scheduled job periodically re-evaluates the audience, adding new hires to the audience and removing users who transfer to another department or leave the company. The campaign content is displayed only to the current employees in the Engineering department.
 
-    Alternatively, you can manually modify the audience after your campaign starts. For more information, see [Editing a published campaign](../task/ecpro-edit-campaign.md).
+    Alternatively, you can manually modify the audience after your campaign starts. For more information, see [Editing a published campaign](ecpro-edit-campaign.md).
 
     Campaign targets appear after a campaign is published and the Content Experiences: Update Campaign Audience scheduled job runs. You can view a list of the users in the target audience by opening a campaign and navigating to the **Campaign Targets** tab. The campaign target list contains the date the user was added, the user, the campaign the user is assigned, and if the campaign is active.
 

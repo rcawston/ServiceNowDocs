@@ -32,10 +32,10 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Geolocation](../concept/c_Geolocation.md)
+**Parent Topic:**[Geolocation](c_Geolocation.md)
 
 **Related topics**  
 
 
-[Geolocation](../concept/c_Geolocation.md)
+[Geolocation](c_Geolocation.md)
 

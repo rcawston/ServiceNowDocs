@@ -49,9 +49,9 @@ Export a prediction model in Task Intelligence for ITSM to another instance so y
 Create and deploy solution-based incident categorization prediction models to predict incidents fields for new IT service incidents.
 -   **[Create a similar records prediction model in Task Intelligence for ITSM](create-a-similar-records-model-in-task-intelligence-for-itsm.md)**  
 Set up a training model to help it recognize similarities between two types of tables by comparing their fields.
--   **[Edit an incident prediction model in Task Intelligence for ITSM](../task/edit-your-model.md)**  
+-   **[Edit an incident prediction model in Task Intelligence for ITSM](edit-your-model.md)**  
 Edit either the Similar Incidents or Incident Categorization model that has already been trained and deployed. Change the model configurations, view the updated training results, and redeploy the model.
--   **[Export an incident prediction model](../task/export-your-model.md)**  
+-   **[Export an incident prediction model](export-your-model.md)**  
 Export either the Similar Incidents or Incident Categorization model model in Task Intelligence for ITSM to another instance so you can use the model in the other instance without recreating the model from scratch.
 
 **Parent Topic:**[Task Intelligence for ITSM](c-itsm-task-intelligence.md)

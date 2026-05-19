@@ -64,7 +64,7 @@ Under Investigation
 
 Triggered by the **Start Investigation** button. From this state, you can:-   **Create a Change Request**
 
-For more information, see [Create a change request in Configuration Compliance](../task/cc-CR-v12-create.md).
+For more information, see [Create a change request in Configuration Compliance](cc-CR-v12-create.md).
 
 -   **Request exception**
 
@@ -123,11 +123,11 @@ Awaiting Implementation
 
 Triggered by the **Awaiting Implementation** button. From this state you can:-   **Create a Security Incident**
 
-For more information, see [Create a security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+For more information, see [Create a security incident](../security-incident-response/t_ManuallyCreateSecurityIncident.md).
 
 -   **Create a Change Request**
 
-For more information, see [Create a change request in Configuration Compliance](../task/cc-CR-v12-create.md).
+For more information, see [Create a change request in Configuration Compliance](cc-CR-v12-create.md).
 
 -   **Resolve**
 
@@ -148,7 +148,7 @@ Resolved
 
 Triggered from the **Resolve** button. From this state you can:-   **Create a Security Incident**
 
-For more information, see [Create a security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+For more information, see [Create a security incident](../security-incident-response/t_ManuallyCreateSecurityIncident.md).
 
 -   **Reopen**
 

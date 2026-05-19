@@ -117,5 +117,5 @@ Roles
 Roles who have access to the answer record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+</table>**Parent Topic:**[Recruitment Workspace reference](recruitment-workspace-reference.md)
 

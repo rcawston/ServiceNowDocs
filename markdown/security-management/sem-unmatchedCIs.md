@@ -20,7 +20,7 @@ You can view these unmatched configuration items in the **Security Operations** 
 ## Taking action on Unmatched CIs
 
 -   **Review Lookup rules:** If you believe an unmatched CI should belong to an existing class within the CMDB, it's recommended to review your lookup rules. This can help ensure proper matching in the future. See [Create lookup rule](sem-configure-lookup-rules.md#) for more information.
--   **Consider reclassification:** If a CI doesn't fit an existing class, you may need to reclassify it to ensure accurate CMDB data. See [reclassifying the configuration item](../../vulnerability-response/task/view-discovered-items.md) for more information.
+-   **Consider reclassification:** If a CI doesn't fit an existing class, you may need to reclassify it to ensure accurate CMDB data. See [reclassifying the configuration item](vulnerability-response/view-discovered-items.md) for more information.
 
 **Note:** If the Identification and Reconciliation Engine \(IRE\) is active, the reclassify option for discovered items is not supported.
 
@@ -29,11 +29,11 @@ You can view these unmatched configuration items in the **Security Operations** 
 **Related topics**  
 
 
-[View and reclassify unmatched configuration items](../../vulnerability-response/task/view-discovered-items.md)
+[View and reclassify unmatched configuration items](vulnerability-response/view-discovered-items.md)
 
-[Reconcile unmatched discovered items](../../vulnerability-response/task/reapply-reconcile-unmatched-discovered-items.md)
+[Reconcile unmatched discovered items](vulnerability-response/reapply-reconcile-unmatched-discovered-items.md)
 
-[Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](../../security-operations-common/concept/ci-identifier-rules-impl-test.md)
+[Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](vulnerability-response/ci-identifier-rules-impl-test.md)
 
-[De-duplicating existing configuration items](../../vulnerability-response/concept/reapply-deduplication.md)
+[De-duplicating existing configuration items](vulnerability-response/reapply-deduplication.md)
 

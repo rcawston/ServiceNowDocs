@@ -40,5 +40,5 @@ The export lead feature in Lead Management exports a list of all leads. Use the 
     The list of leads is exported according to the parameters set.
 
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

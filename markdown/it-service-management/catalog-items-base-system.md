@@ -47,5 +47,5 @@ Few commonly requested catalog items are auto-installed in the base system for S
 |Virtual Hosting / Cloud Computer \(Windows/Linux\)|Request a new virtual machine \(VM\) or make configuration changes to existing compute instances including CPU, RAM, storage, or network. Supports both on-premise and public cloud environments.|
 |VPN Access Issue|Report VPN connection issues.|
 
-**Parent Topic:**[Simplified IT Service Management reference](../concept/ai-native-it-service-desk-reference.md)
+**Parent Topic:**[Simplified IT Service Management reference](ai-native-it-service-desk-reference.md)
 

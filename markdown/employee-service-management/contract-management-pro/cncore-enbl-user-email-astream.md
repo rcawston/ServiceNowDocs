@@ -49,12 +49,12 @@ Role required: admin
 
 The users with the assigned role that has been added to the system property can view email details in the activity stream of a contract request.
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
 
 [Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
 
@@ -70,5 +70,5 @@ The users with the assigned role that has been added to the system property can 
 
 [Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](cmpro-manage-notifications.md)
 

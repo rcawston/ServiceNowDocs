@@ -107,5 +107,5 @@ Select the **Unlock Channel User Groups** icon, and add the user groups who can 
 
 The chat channel is now created and the users are assigned to those chat channel groups. You can view the collaboration chat activities both in Slack and in the Collaboration activity stream of the MSIM Workspace with the organized chat channel hierarchy structure as configured in the Chat Channel provider configuration.
 
-**Parent Topic:**[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)
+**Parent Topic:**[Configure Slack chat connector for major security incidents](configure-slack-chat-connector-msi.md)
 

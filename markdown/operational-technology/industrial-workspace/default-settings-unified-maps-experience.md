@@ -58,5 +58,5 @@ You can specify the operational states that CIs must have for them to be include
 
 Each class has a unique set of extended properties that appear in the Unified Map Attributes panel for a CI. Many common classes are preconfigured with these properties. You can modify the default settings and globally configure extended properties for additional classes.
 
-**Parent Topic:**[Setting up the Operational Technology Unified Map experience](../task/setting-up-unified-maps-experience.md)
+**Parent Topic:**[Setting up the Operational Technology Unified Map experience](setting-up-unified-maps-experience.md)
 

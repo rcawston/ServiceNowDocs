@@ -307,7 +307,7 @@ Color coding within the component indicates the time remaining for the SLA:
 
 The time to resolve component displays the estimated time required for an agent to resolve the case.
 
-**Note:** The time to resolve component requires the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Estimated time to resolve a case](../concept/ettr.md).
+**Note:** The time to resolve component requires the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Estimated time to resolve a case](ettr.md).
 
 ![Ribbon component displaying the estimated time required by an agent to resolve a case.](../../../administer/workspace/image/time-to-resolve.jpg "Time to resolve component")
 
@@ -328,11 +328,11 @@ Following are a list of SLA messages displayed and the action required when they
 
 ## Configuring ribbon components
 
-For CSM Configurable Workspace, you can create a ribbon setting and add that setting to a ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](../task/config-csm-config-ws-ribbon.md).
+For CSM Configurable Workspace, you can create a ribbon setting and add that setting to a ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](config-csm-config-ws-ribbon.md).
 
 **Note:** One ribbon configuration, **CSM/FSM Configurable Workspace Ribbon Config**, is included with CSM Configurable Workspace.
 
-You can also display the form ribbon in the form ribbon in the Contextual side panel. For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](../task/config-csm-display-header-in-sidebar.md).
+You can also display the form ribbon in the form ribbon in the Contextual side panel. For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](config-csm-display-header-in-sidebar.md).
 
 ## Domain separation
 

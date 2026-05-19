@@ -21,11 +21,11 @@ Ensure that the following prerequisites are met before approving pull requests:
 
 -   Your admin has created a pull request branch in GitHub or Bitbucket using a Multi-branch project pipeline. For more information, see [GitHub branch source](https://plugins.jenkins.io/github-branch-source/) and [Bitbucket branch source](https://plugins.jenkins.io/cloudbees-bitbucket-branch-source/).
 -   Your admin has enabled pull request creation in the ADO repository. For more information, see [https://marketplace.visualstudio.com/items?itemName=ShaykiAbramczyk.CreatePullRequest](https://marketplace.visualstudio.com/items?itemName=ShaykiAbramczyk.CreatePullRequest).
--   Your admin has configured Jenkins integration with DevOps. For more information, see [Jenkins integration with DevOps](../concept/jenkins-integration-dev-ops.md).
--   Your admin has configured GitHub integration with DevOps. For more information, see [GitHub integration with DevOps](../concept/github-integration-dev-ops.md).
--   Your admin has configured Bitbucket integration with DevOps. For more information, see [Bitbucket integration with DevOps](../concept/bitbucket-integration-dev-ops.md).
--   Your admin has configured ADO integration with DevOps. For more information, see [Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md).
--   Your admin has enabled the Change Acceleration feature of DevOps for automatic change request creation in your pipeline. For more information, see [Accelerating DevOps change](../concept/dev-ops-change-acceleration.md).
+-   Your admin has configured Jenkins integration with DevOps. For more information, see [Jenkins integration with DevOps](jenkins-integration-dev-ops.md).
+-   Your admin has configured GitHub integration with DevOps. For more information, see [GitHub integration with DevOps](github-integration-dev-ops.md).
+-   Your admin has configured Bitbucket integration with DevOps. For more information, see [Bitbucket integration with DevOps](bitbucket-integration-dev-ops.md).
+-   Your admin has configured ADO integration with DevOps. For more information, see [Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md).
+-   Your admin has enabled the Change Acceleration feature of DevOps for automatic change request creation in your pipeline. For more information, see [Accelerating DevOps change](dev-ops-change-acceleration.md).
 
 Role required: sn\_devops.admin
 
@@ -111,5 +111,5 @@ Pull request tracking will be enabled for all the existing configured projects. 
         Details of pull requests that are created in a BitBucket coding source and associated with a Jenkins pipeline are not displayed for a change request.
 
 
-**Parent Topic:**[Accelerating your DevOps change process](../concept/dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
 

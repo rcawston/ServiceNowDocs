@@ -21,9 +21,9 @@ Discovery performed by Agent Client Collector for Visibility - Content \(ACC-VC\
 Agent Client Collector for Visibility - Content \(ACC-VC\) can collect data for uses cases with the Intel vPro® platform when the Intel ® EMA application is installed on Windows endpoints. You can install the Intel EMA application from the ServiceNow store. Attributes are stored in the CMDB when enabled. Currently, data for Intel EMA can only be fetched for Windows endpoints.
 -   **[Discovering DNS names using push-based discovery](acc-v-discover-dns-names.md)**  
 CMDB owners need CIs to contain all domain system names \(DNS\) associated with their system. Starting in Agent Client Collector for Visibility - Content \(ACC-VC\) version 2.3.0, ACC-VC can discover DNS name lists for Windows and Linux CIs.
--   **[Populating Assigned To attribute in Computer CI for Agent Client Collector for Visibility - Content](../task/fetching-logged-in-user-information-for-acc-v.md)**  
+-   **[Populating Assigned To attribute in Computer CI for Agent Client Collector for Visibility - Content](fetching-logged-in-user-information-for-acc-v.md)**  
 To update the Assigned To attribute of the Computer CI, you need to collect information from the logged in user.
--   **[Populating users based on type for Agent Client Collector for Visibility - Content](../task/filter-list-of-users-for-acc-v.md)**  
+-   **[Populating users based on type for Agent Client Collector for Visibility - Content](filter-list-of-users-for-acc-v.md)**  
 You can persist the type of users that populate the CMDB depending on your particular interests. Currently, local and system are supported for Windows, Linux, and macOS.
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)

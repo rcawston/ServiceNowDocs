@@ -15,7 +15,7 @@ Unassign a bot process from a queue in RPA Hub to stop an interaction with this 
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](create-botprocess.md).
 
 Create a queue. For more information, see [Create a queue in RPA Hub](create-queue.md).
 
@@ -40,12 +40,12 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+**Parent Topic:**[Queue implementation in RPA Hub](queues-implement-rpa.md)
 
 **Related topics**  
 
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](queue-form.md)
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](queues-implement-rpa.md)
 

@@ -29,7 +29,7 @@ Use the License usage view to:
 -   be informed about the last reconciliation run.
 -   view and export reports.
 
--   **[Run Software Asset Management Foundation plugin software reconciliation in workspace](../task/run-samf-software-recon-workspace.md)**  
+-   **[Run Software Asset Management Foundation plugin software reconciliation in workspace](run-samf-software-recon-workspace.md)**  
 Reconciliation is run as a scheduled job \(default is weekly\), but you can also run reconciliation manually to reconcile software products in the Software Asset Workspace environment on-demand.
 
 **Parent Topic:**[Using Software Asset Management Foundation plugin workspace](using-samf-workspace.md)

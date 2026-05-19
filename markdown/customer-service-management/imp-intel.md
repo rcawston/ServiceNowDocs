@@ -23,7 +23,7 @@ Integrate intelligence features to automate routine tasks and provide relevant c
 
 </td><td>
 
-[Now Assist for Customer Service Management \(CSM\)![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](now-assist-csm.md)
+[Now Assist for Customer Service Management \(CSM\)![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for CSM to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](now-assist-for-csm/now-assist-csm.md)
 
 </td></tr></tbody>
 </table>![overview of implement intelligence topics and how they relate to each other](../image/workflow-implementing-intelligence.png "Implement intelligence overview")
@@ -36,7 +36,7 @@ Integrate intelligence features to automate routine tasks and provide relevant c
 
     Use machine learning solutions in Customer Service Management to handle case creation, assignment, and resolution. Implement these solutions to analyze and classify cases, automate tasks, and streamline processes.
 
--   **[Now Assist for Customer Service Management](now-assist-csm.md)**
+-   **[Now Assist for Customer Service Management](now-assist-for-csm/now-assist-csm.md)**
 
     Use the Now Assist for Customer Service Management \(CSM\) to boost productivity and efficiency with generative AI. This tool enhances user interactions by summarizing case information, generating resolution notes, and providing chat summaries. It also helps you quickly understand chat and case context, enabling faster and more accurate customer resolutions.
 

@@ -29,7 +29,7 @@ Role required: sn\_apm.apm\_user
 
 5.  On the Create business hierarchy map form, fill in the details.
 
-    For field information, see [Create a business hierarchy map form](../../reference/eaw-reference/eaw-modeling-create-ba-map-form.md).
+    For field information, see [Create a business hierarchy map form](eaw-modeling-create-ba-map-form.md).
 
 6.  Select **Create diagram**.
 
@@ -44,7 +44,7 @@ You can add a shape to the canvas by either selecting the shape or by dragging t
 
 ![Business hierarchy map](../../image/eaw-image/modeling/business-hierarchy-map.png)
 
-**Parent Topic:**[Working with business hierarchy map](../../concept/eaw-concept/eaw-work-with-ba-map.md)
+**Parent Topic:**[Working with business hierarchy map](eaw-work-with-ba-map.md)
 
 **Related topics**  
 

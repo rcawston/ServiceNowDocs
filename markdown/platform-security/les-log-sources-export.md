@@ -22,7 +22,7 @@ The following are the log sources that can be exported by LES.
 -   Audit Table: Use the sys\_audit table view record changes made to tables chosen to be audited
 -   Application Node Log Files: Use the localhost log files to view application node errors. Your instance will have multiple nodes and each node will have multiple log files.
 
-See [System logs](../../system-logs/concept/system-logs.md) to learn more about the schema and purpose for the above log sources.
+See [System logs](system-logs.md) to learn more about the schema and purpose for the above log sources.
 
 **Parent Topic:**[Exploring Log Export Service \(LES\)](les-landing-page.md)
 

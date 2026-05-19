@@ -44,7 +44,7 @@ ERP remote tables have a limit of 1,000 records. If you need a larger amount of 
 
 5.  Edit the remote table details as needed.
 
-    For a description of the field values, see [Zero Copy Connector for ERP remote table form field descriptions](../reference/erp-canvas-remote-table-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP remote table form field descriptions](erp-canvas-remote-table-descriptions.md).
 
 6.  View the fields in the remote table by selecting the **Remote table fields** tab.
 
@@ -53,5 +53,5 @@ ERP remote tables have a limit of 1,000 records. If you need a larger amount of 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-remote-tables.md)
+**Parent Topic:**[Using ERP remote tables in Zero Copy Connector for ERP](erp-canvas-work-with-remote-tables.md)
 

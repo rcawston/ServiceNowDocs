@@ -66,7 +66,7 @@ This limitation extends to different price types.
 -   For price type fixed, the calculated reference value can be old.
 -   For price type multiple, the reference value of the first price entered is used. The other values are not used.
 
-The aggregate value is shown formatted in user’s locale with a currency symbol. Currency fields are stored with four decimal places, and aggregates have four decimal places. For upgrades, you must set the **glide.currency\_price.use\_all\_fraction\_digits** property. See [Change default currency decimal places](../task/change-currency-fraction-digits.md) for more information.
+The aggregate value is shown formatted in user’s locale with a currency symbol. Currency fields are stored with four decimal places, and aggregates have four decimal places. For upgrades, you must set the **glide.currency\_price.use\_all\_fraction\_digits** property. See [Change default currency decimal places](change-currency-fraction-digits.md) for more information.
 
 ## Filtering
 

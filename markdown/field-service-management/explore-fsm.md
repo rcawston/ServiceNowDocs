@@ -111,16 +111,16 @@ Field Service Management provides the following benefits:
 |Efficiently schedule and manage the resource utilization for work order task based on different geographic regions.|[Field Service Territory Planning](territory-planning-fsm.md)|Territory Planner|
 |Enable technicians with an intuitive, native Mobile Agent application that enables them to quickly view and record information.|[Mobile experience for Field Service Management](mobile-experience-fsm.md)|Field Service Agent|
 |Achieve seamless visibility and task resolution for complex workflows across teams and business units.|[Playbooks for Field Service Management](playbooks.md)|Field Service Agent|
-|Track and manage the inventory between stockrooms.|[Manage inventory in Field Service Management](sourcing-parts.md)|Field Service Agent|
-|Enable agents to generate work order task summaries so that they can create notes faster and with more detail.|[Now Assist for Field Service Management \(FSM\)](../reference/now-assist-fsm.md)|Field Service Agent|
+|Track and manage the inventory between stockrooms.|[Manage inventory in Field Service Management](work-order-management/sourcing-parts.md)|Field Service Agent|
+|Enable agents to generate work order task summaries so that they can create notes faster and with more detail.|[Now Assist for Field Service Management \(FSM\)](now-assist-for-field-service-management-fsm/now-assist-fsm.md)|Field Service Agent|
 |On-board contractor teams for outsourcing work order tasks and ensuring that service level agreements are met.|[Field Service Contractor Management](monitoring-analytics-fsm.md#)|Manager|
 |Monitor and enforce compliance with environment or health protocols.|[Emergency Exposure Management](monitoring-analytics-fsm.md#)|Manager|
 
 ## What to explore next
 
 -   [What is field service management \(FSM\)?](https://www.servicenow.com/products/field-service-management/what-is-fsm.html)
--   [Configuring Field Service Management](../reference/configure-fsm.md)
--   [Using Field Service Management](../reference/use-fsm.md)
+-   [Configuring Field Service Management](configure-fsm.md)
+-   [Using Field Service Management](use-fsm.md)
 -   [Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
--   [Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+-   [Field Service Management reference](fsm-reference.md)
 

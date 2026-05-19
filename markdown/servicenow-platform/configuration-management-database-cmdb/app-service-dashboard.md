@@ -21,9 +21,9 @@ Role required: sn\_cmdb\_admin, itil\_admin or app\_service\_admin
 
 ## About this task
 
-The dashboard queries for service instances by checking for those records in the \[cmdb\_ci\_service\_auto\] class in which the value of **Service classification** is **Application Service**. Reduce the number of incomplete service instances by [editing application services](../../service-mapping/task/create-it-services.md) and populating any empty attributes. For example, if an application service isn't configured with a service population method, then configure a service population method for it.
+The dashboard queries for service instances by checking for those records in the \[cmdb\_ci\_service\_auto\] class in which the value of **Service classification** is **Application Service**. Reduce the number of incomplete service instances by [editing application services](create-it-services.md) and populating any empty attributes. For example, if an application service isn't configured with a service population method, then configure a service population method for it.
 
-The Service instance dashboard is fully integrated into the [Insights view in CMDB Workspace](../concept/cmdb-workspace-insights-view.md)and the [Service instances insights dashboard in Service Graph Workspace](../concept/sg-workspace-insights-serviceinstances.md), and refreshes on a 24-hour cycle during night hours.
+The Service instance dashboard is fully integrated into the [Insights view in CMDB Workspace](cmdb-workspace-insights-view.md)and the [Service instances insights dashboard in Service Graph Workspace](sg-workspace-insights-serviceinstances.md), and refreshes on a 24-hour cycle during night hours.
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The Service instance dashboard is fully integrated into the [Insights view in CM
     -   Application Servers: Total number of application servers. The number of those which aren't in any Service instances and a breakdown of those application servers by class.
     -   Databases: Total number of databases. The number of those which aren't in any Service instances and a breakdown of those databases by class.
     -   Hardware Servers: Total number of hardware servers. The number of those which aren't in any Service instances and a breakdown of those hardware servers by class.
-    **Note:** Application servers, hardware servers, and databases, not included in Service instances, are counted only up to about 100,000, even if the actual count is greater than this limit. This number limit is determined by the value of the [glide.cmdb.csdm.app\_service.max\_results](../reference/components-installed-app-services.md) property.
+    **Note:** Application servers, hardware servers, and databases, not included in Service instances, are counted only up to about 100,000, even if the actual count is greater than this limit. This number limit is determined by the value of the [glide.cmdb.csdm.app\_service.max\_results](components-installed-app-services.md) property.
 
 4.  Select **Owned by**, **Support group**, or **Change Group** to filter the list of Service instances that are included in the dashboard, by a key attribute.
 
@@ -66,6 +66,6 @@ Update Service instances with any missing important details:
 2.  In the Service instances list view, select a Service instances to edit.
 3.  Add the missing details.
 
-    For details about configuring a Service instances, see [Create Service instance \(application service\)](../../service-mapping/task/create-it-services.md).
+    For details about configuring a Service instances, see [Create Service instance \(application service\)](create-it-services.md).
 
 

@@ -30,5 +30,5 @@ You can associate an accommodation request with an HR case and start and end dat
 
 Agents can create more than one accommodation request per ER case. This is useful when an employee open an accommodation request for a single situation, but HR might have more than one classification for an accommodation. Some accommodation requests might require approval or have different start and end dates.
 
-You can use HR service fulfillment types to define any workflow required to review, approve, and deliver accommodations like any HR case. For more information, see [Configure an HR service](../task/configure-hr-service.md).
+You can use HR service fulfillment types to define any workflow required to review, approve, and deliver accommodations like any HR case. For more information, see [Configure an HR service](configure-hr-service.md).
 

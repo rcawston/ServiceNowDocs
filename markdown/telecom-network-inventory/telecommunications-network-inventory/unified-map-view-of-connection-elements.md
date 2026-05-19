@@ -45,7 +45,7 @@ You can perform the following actions in the map pane:
 -   View the protection paths of the logical connection.
 -   Use the zoom controls to zoom in and out of the map.
 
-To learn more, see [View the details of a network diagram](../task/show-a-ci-related-details-network-diagram.md).
+To learn more, see [View the details of a network diagram](show-a-ci-related-details-network-diagram.md).
 
 ## Details pane
 

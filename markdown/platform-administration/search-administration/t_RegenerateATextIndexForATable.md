@@ -30,7 +30,7 @@ By default, the system maintains text indexes on a daily schedule. Typically, yo
 
 You can also regenerate a text index if you observe incorrect search results for the indexed table. This is rare and usually only occurs if text indexing was interrupted.
 
-Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can view historical [statistics](../reference/r_ViewTextIndexingStatsAndStatus.md).
+Text indexing can be a resource-intensive task that may take a while to complete. You may notice performance degradation or incomplete search results during index generation. To estimate text indexing duration, you can view historical [statistics](r_ViewTextIndexingStatsAndStatus.md).
 
 **Note:** This index regeneration process purges the existing text search index for the table before it regenerates it. While it's processing, no search results are returned if you perform a text search before the regeneration is complete. An alternate method is available that doesn't impact use of text searches for the table while the regeneration is in process. See [Reindex a table without impacting text search results](real-time-reindexing.md).
 
@@ -58,20 +58,20 @@ Rebuild text search indexes without adversely impacting search results. You can 
 -   **[Regenerate the text index for a single record](regenerate-text-index-one-record.md)**  
 Update the text search index for a single record. Use this approach to quickly verify whether text indexing is the cause of a search issue without rebuilding the full text index for an entire table.
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](c_SearchingHTMLContent.md)
 
 [Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
 
 [Configure a text index group to search across multiple tables](index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](index-attributes.md)
 
 [Remove an index](t_RemoveAnIndex.md)
 
@@ -83,7 +83,7 @@ Update the text search index for a single record. Use this approach to quickly v
 
 [Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](r_ViewTextIndexingStatsAndStatus.md)
 
 [Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
 

@@ -91,7 +91,7 @@ Filter
 Conditions used to filter spaces from the selected table. For more information about conditions, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

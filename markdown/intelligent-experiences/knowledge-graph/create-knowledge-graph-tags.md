@@ -56,7 +56,7 @@ Role required: admin
     -   Edge \(relationship\)
     Each instruction can optionally be marked as **Always Include**, ensuring critical business logic applies unconditionally across all queries. For example, excluding retired assets or closed tickets by default unless explicitly requested.
 
-    For best results, write instructions as generalized, context-driven guidance rather than hard-coded references to specific table values. See [Improving Natural Language Queries with Tag configuration](../concept/ai-instructiona-and-examples.md) to see detailed examples.
+    For best results, write instructions as generalized, context-driven guidance rather than hard-coded references to specific table values. See [Improving Natural Language Queries with Tag configuration](ai-instructiona-and-examples.md) to see detailed examples.
 
 5.  Add alternative names in the **Table synonyms** field and select **Add**.
 

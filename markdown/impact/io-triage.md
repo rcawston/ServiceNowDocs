@@ -39,5 +39,5 @@ The semaphore sets widget lists the utilization of various semaphores available 
 
 The update sets widget lists all the updates that are applied in the past 24 hours and their completion state. Use this widget to gain insight of any updates that may be responsible to new features or performance changes within your instance.
 
-**Parent Topic:**[Triage a ServiceNow instance](../task/io-triage-sn-instance.md)
+**Parent Topic:**[Triage a ServiceNow instance](io-triage-sn-instance.md)
 

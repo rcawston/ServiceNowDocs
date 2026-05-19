@@ -17,9 +17,9 @@ To update or change an existing decision for an app built in App Engine Studio \
 
 ## Before you begin
 
-Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](../concept/add-automation.md).
+Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](add-automation.md).
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 

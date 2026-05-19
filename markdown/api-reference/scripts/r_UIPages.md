@@ -91,7 +91,7 @@ obsolete-custom-processors
 
 </td><td>
 
-**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../../../integrate/custom-web-services/concept/c_CustomWebServices.md).
+**Note:** This feature is deprecated. While legacy, existing custom processors continue to be supported, creating new custom processors has been deprecated. Instead, use the [Scripted REST APIs](../rest-api-explorer/c_CustomWebServices.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -143,7 +143,7 @@ UI pages are considered high risk with any of the following attributes:
 -   For instances with glide.installation.developer is set to **true**.
 -   If resource is customized content for a customer instance.
 
-**Parent Topic:**[Creating custom UI Pages and UI macros](../../general-scripting/concept/create-custom-ui-pages.md)
+**Parent Topic:**[Creating custom UI Pages and UI macros](create-custom-ui-pages.md)
 
 ## UI page access
 

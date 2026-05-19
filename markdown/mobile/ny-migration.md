@@ -81,5 +81,5 @@ To resolve the issue, check Mobile Studio to make sure that your applet is still
     3.  Check the value of the **Screen** field. If this field appears empty, it may be pointing to an unused Master-detail screen \[sys\_sg\_master\_detail\_screen\] record.
     4.  Update the field by selecting the applet \[sys\_sg\_screen\] record used by this parameter.
 
-**Parent Topic:**[Mobile migration from Madrid to New York and later releases](../concept/sg-mobile-migration-ny.md)
+**Parent Topic:**[Mobile migration from Madrid to New York and later releases](sg-mobile-migration-ny.md)
 

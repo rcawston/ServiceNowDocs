@@ -45,7 +45,7 @@ Create a workplace service and specify how the workplace service must be fulfill
 
 3.  On the Workplace service form, fill in the fields.
 
-    For a description of the field values, see [Workplace Service form](../reference/workplace-service-form.md).
+    For a description of the field values, see [Workplace Service form](workplace-service-form.md).
 
 4.  Select **Submit**.
 

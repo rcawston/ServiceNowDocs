@@ -24,7 +24,7 @@ When you work with approvals, you need to understand how approval activities int
 
 Approvals can be managed by approval activities or approval engines, but not both. Approval activities can be used if approval engines are not turned on for the table associated with the workflow.
 
-Approvals can be managed by approval activities or approval engines, but not both. Trying to use both can cause a range of issues. Approval activites are not available \(greyed out\) in the palette if approval engines are used on the specified table. If you hover over a greyed out approval activity in the palette, a comment with more information is provided. For more information about approvals and approval engines, see [Classic approvals](../../service-administration/reference/r_Approvals.md).
+Approvals can be managed by approval activities or approval engines, but not both. Trying to use both can cause a range of issues. Approval activites are not available \(greyed out\) in the palette if approval engines are used on the specified table. If you hover over a greyed out approval activity in the palette, a comment with more information is provided. For more information about approvals and approval engines, see [Classic approvals](../approvals/r_Approvals.md).
 
 ![Approval activities are greyed out in the palette if approval engines are used on the associated table](../../workflow-activities/image/ApprovalActivitiesEngines.png "Unavailable approval activities")
 
@@ -35,9 +35,9 @@ To turn approval engines off for the table, navigate to the **System Properties 
 **Related topics**  
 
 
-[Approval and rollback workflow activities](../../workflow-activities/concept/c_ApprovalAndRollbackActivities.md)
+[Approval and rollback workflow activities](c_ApprovalAndRollbackActivities.md)
 
-[Classic approvals](../../service-administration/reference/r_Approvals.md)
+[Classic approvals](../approvals/r_Approvals.md)
 
 ## Correct a skipped workflow approval activity
 
@@ -76,6 +76,6 @@ To correct a missed approval activity:
 
 7.  Click **Users** or **Groups**.
 
-8.  Assign an active user or group for the approval activity. For more information, see [Workflow error handling](../../workflow-administration/concept/c_WorkflowErrorHandling.md).
+8.  Assign an active user or group for the approval activity. For more information, see [Workflow error handling](../legacy-workflow/c_WorkflowErrorHandling.md).
 
 

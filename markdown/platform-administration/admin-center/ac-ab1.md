@@ -43,7 +43,7 @@ Build the foundation
 
 </td><td>
 
-[Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md)
+[Dynamic Translation](../dynamic-translation/dynamic-translation-overview.md)
 
 </td><td>
 
@@ -51,11 +51,11 @@ Use Dynamic Translation to enhance your experience of dynamically translating te
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
--   [Dynamic Translation limitations](../../dynamic-translation/reference/limitations-dynamic-translation.md)
+-   [Dynamic Translation limitations](../dynamic-translation/limitations-dynamic-translation.md)
 -   [Dynamic Translation overview](https://www.servicenow.com/products/dynamic-translation.html)
 
 </td></tr><tr><td>
@@ -253,7 +253,7 @@ Build the foundation
 
 </td><td>
 
-[AI Search](../../ai-search/concept/overview-ais.md)
+[AI Search](../ai-search/overview-ais.md)
 
 </td><td>
 
@@ -261,12 +261,12 @@ Use the AI Search application for a modern consumer-grade search engine for Serv
 
 </td><td>
 
-[Roles installed with AI Search](../../ai-search/task/assign-ais-admin-role.md)
+[Roles installed with AI Search](../ai-search/assign-ais-admin-role.md)
 
 </td><td>
 
 -   [AI Search \(ServiceNow Community\)](https://www.servicenow.com/community/ai-intelligence/ct-p/ai-intelligence)
--   [AI Search limitations and support](../../ai-search/concept/explore-now-platform-apps-ais.md)
+-   [AI Search limitations and support](../ai-search/explore-now-platform-apps-ais.md)
 
 </td></tr><tr><td>
 
@@ -385,7 +385,7 @@ Users can reset any Citrix desktop or application session using Virtual Agent co
 
 </td><td>
 
-Uses bases system roles. See [Base system roles](../../roles/reference/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](../user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -473,5 +473,5 @@ nlu\_admin
 [Intent Discovery overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/ebook/eb-now-intelligence-now-platform.pdf)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Select your adoption blueprint](../task/ac-select-business-objective.md)
+</table>**Parent Topic:**[Select your adoption blueprint](ac-select-business-objective.md)
 

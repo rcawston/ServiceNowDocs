@@ -103,5 +103,5 @@ Time that the job ran or will run.You can edit the date.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](resize-res-ci.md)
 

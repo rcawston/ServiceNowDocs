@@ -19,7 +19,7 @@ Create script includes to store JavaScript functions and classes for use by serv
 
 Consider using script includes instead of global business rules because script includes are only loaded on request. See [Privacy settings on Glide AJAX enabled script includes](c_ScriptIncludes.md#) and [Discovery script includes](c_ScriptIncludes.md#) for more information.
 
-For additional examples of scripts, see [Useful scripts](../../useful-scripts/concept/usefulScripts.md).
+For additional examples of scripts, see [Useful scripts](usefulScripts.md).
 
 **Parent Topic:**[Server-side scripting](c_ServerScripting.md)
 
@@ -325,7 +325,7 @@ Discovery script includes define JavaScript classes that you can use to accompli
 
 ### Using GlideRecordUtil to Work with GlideRecords
 
-GlideRecordUtil is a utility class that provides methods that are useful for working with GlideRecords during Discovery. Refer to [GlideRecordUtil](../../../app-store/dev_portal/API_reference/GlideRecordUtil/concept/c_GlideRecordUtilAPI.md#) for descriptions of available methods.
+GlideRecordUtil is a utility class that provides methods that are useful for working with GlideRecords during Discovery. Refer to [GlideRecordUtil](../server-api-reference/c_GlideRecordUtilAPI.md#) for descriptions of available methods.
 
 ### Getting a GlideRecord Instance
 

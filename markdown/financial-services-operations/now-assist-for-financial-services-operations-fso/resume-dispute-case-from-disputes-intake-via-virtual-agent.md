@@ -66,7 +66,7 @@ Select the card account and disputed transactions.
 **Related topics**  
 
 
-[Overview of the Dispute Management workflow](../../fso-card-operations/concept/dispute-management-workflows.md)
+[Overview of the Dispute Management workflow](../dispute-management/dispute-management-workflows.md)
 
-[Create a case with Disputes intake via Virtual Agent](../../fso-card-operations/concept/create-a-case-with-virtual-agent.md)
+[Create a case with Disputes intake via Virtual Agent](../dispute-management/create-a-case-with-virtual-agent.md)
 

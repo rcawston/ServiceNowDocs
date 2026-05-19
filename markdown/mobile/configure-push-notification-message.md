@@ -91,5 +91,5 @@ You configured a push notification message and paired it with a push notificatio
 
 To complete the notification, an event is required to determine when the push notification is sent and who receives it. For more information, see [Configure a push notification event](configure-push-notification-event.md).
 
-**Parent Topic:**[Mobile push notification components](../concept/configure-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notification components](configure-mobile-push-notifications.md)
 

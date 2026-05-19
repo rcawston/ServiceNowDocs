@@ -106,5 +106,5 @@ Marks the translator as the default configuration to detect language of the inpu
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Integration with other translation services](../concept/integration-with-other-translation-services.md)
+**Parent Topic:**[Integration with other translation services](integration-with-other-translation-services.md)
 

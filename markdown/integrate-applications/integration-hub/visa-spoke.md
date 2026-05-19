@@ -155,5 +155,5 @@ The Visa spoke provides actions to invoke Visa APIs under VROL \(Visa Resolve On
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For more information about setting up the spoke, see [Set up Visa Spoke](../task/set-up-visa-spoke.md#).
+For more information about setting up the spoke, see [Set up Visa Spoke](set-up-visa-spoke.md#).
 

@@ -46,5 +46,5 @@ You can associate one record with multiple different records. For example, you c
 7.  Select **OK**.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

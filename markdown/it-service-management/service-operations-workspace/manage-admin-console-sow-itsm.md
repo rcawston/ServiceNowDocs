@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-On the **Overview** tab, from the **Initial Setup** section, select the **Migrate from ITSM Agent Workspace to SOW** option. For information about this migration utility, see [Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../concept/migration-from-itsm-aw-sow.md).
+On the **Overview** tab, from the **Initial Setup** section, select the **Migrate from ITSM Agent Workspace to SOW** option. For information about this migration utility, see [Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](migration-from-itsm-aw-sow.md).
 
 </td></tr><tr><td id="d219318e187">
 
@@ -70,7 +70,7 @@ On the **Overview** tab, from the **Initial Setup** section, select the **Migrat
         -   For tier 1 and tier 2 agents, the default list view visibility for donuts. Collapsing the list view reduces the page load time and it can be expanded by selecting any donut card.
         -   For tier 1 and tier 2 agents, customizations for various landing page sections such as Overview \(donut cards\), Announcements, Quick Links, and Upcoming, and also the visibility for a few of these sections.
         -   For tier 1 agents, visibility of the Getting started section that provides an overview of key features in Service Operations Workspace.
-For information about landing page customizations, see [Customizing Service Operations Workspace for ITSM to align with your requirements](../concept/customize-sow-landing-page.md).
+For information about landing page customizations, see [Customizing Service Operations Workspace for ITSM to align with your requirements](customize-sow-landing-page.md).
 
 </td></tr><tr><td id="d219318e302">
 
@@ -94,7 +94,7 @@ For information about landing page customizations, see [Customizing Service Oper
 
 1.  On the **Overview** tab, from the **Initial setup** section, select the **Configure** option.
 2.  Select **SOW Properties** and then configure any of the following options:
-    -   Email notification redirection to SOW: Configure the email notifications to redirect the users to the Service Operations Workspace \(SOW\) view instead of Classic UI16. For more information, see [Email notification redirection for incident and major incident](../../incident-management/concept/email-notif-redirt-inci-major-inci.md).
+    -   Email notification redirection to SOW: Configure the email notifications to redirect the users to the Service Operations Workspace \(SOW\) view instead of Classic UI16. For more information, see [Email notification redirection for incident and major incident](../incident-management/email-notif-redirt-inci-major-inci.md).
     -   Set display count to improve list loading: Configure the fuzzyCount property to modify how the number of records is displayed on the Service Operations Workspace \(SOW\) list page. Configuring the fuzzyCount property helps improve the system performance. For more information, see [Configure the list page in Service Operations Workspace for ITSM](incident-list-page.md).
     -   Reference field auto-load behavior: Use the option to configure the **Reference search on click ** \(**ref\_search\_on\_click**\) UX page property. When the property is set to false, selecting empty reference fields such as Configuration item, Service offering, and Service or when user starts typing input on the reference fields displays only the recent selection values instead of automatic searching and displaying the results of all the field values available in the system.
     -   Hide contextual side panel for specific table and tab combinations: Allows admins to define specific table and tab pairs in Service Operations Workspace \(SOW\) where the page default contextual side panel is hidden, prioritizing the embedded contextual side panel within the tab content instead. For more information, see [Hide contextual side panel](hide-contextual-side-panel-sow.md).
@@ -136,10 +136,10 @@ For more information, see [Redirect UI16 module links to Service Operations Work
         -   Record: Provides further details on the incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
         -   New record: This layout appears when an agent creates an incident record. Configure the fields layout, UI elements, and the visible data content of the **Details** tab using form builder.
     -   Response templates: Create and configure response templates for incidents. Response templates are used as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. The number of the response templates created for the incident table is displayed in this section. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
-    -   Incident management properties: Configure the incident features using the incident management properties. For more information on configuring incident management properties, see [Incident Management properties](../../incident-management/reference/incident-management-properties.md).
+    -   Incident management properties: Configure the incident features using the incident management properties. For more information on configuring incident management properties, see [Incident Management properties](../incident-management/incident-management-properties.md).
  For more information about configuring the field layout, UI elements and the visible data content using form builder, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
 
- For information about incident record page customizations, see [Customize the incident record page](../concept/customize-the-incident-record-page.md#).
+ For information about incident record page customizations, see [Customize the incident record page](customize-the-incident-record-page.md#).
 
 </td></tr><tr><td id="d219318e674">
 
@@ -156,7 +156,7 @@ For more information, see [Redirect UI16 module links to Service Operations Work
     -   Playbook
     -   Email notifications
     -   Timeline configurations for post incident report.
-For more information on the configurations of features in Major Incident Management in Admin Center, see [Configuring Major Incident Management in Service Operations Workspace](../concept/configuring-mim-in-sow.md).
+For more information on the configurations of features in Major Incident Management in Admin Center, see [Configuring Major Incident Management in Service Operations Workspace](configuring-mim-in-sow.md).
 
 </td></tr><tr><td id="d219318e748">
 
@@ -180,22 +180,22 @@ For more information on the configurations of features in Major Incident Managem
 2.  Configure the following options.
     -   Modern change adoption: Contains widgets which navigates to the configuration pages for change models, change approval policies, risk and success scores, and automating DevOps changes.
     -   Change models: Create optimized change state models with policy-based automation capabilities that are fit-for-purpose to increase change efficiency and velocity. Create change models, change model condition types, and change flows through this section.
-        -   For information on creating a change model, see [Create a Change model](../../change-management/task/create-a-change-model.md).
-        -   For information on creating change model condition types, see [Create predefined transition condition types](../../change-management/task/create-predefined-transition-condition-type.md).
+        -   For information on creating a change model, see [Create a Change model](../change-management/create-a-change-model.md).
+        -   For information on creating change model condition types, see [Create predefined transition condition types](../change-management/create-predefined-transition-condition-type.md).
         -   For information on configuring flows, see [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
     -   Change approval policies: Create change approval policies to streamline your approval process. Ensure that changes gain the approvals needed to drive stability and compliance, without compromising on change velocity. Create change approval policies and definitions through this section.
-        -   For information on creating change approval policies, see [Create change approval policies](../../change-management/task/create-change-policy.md).
-        -   For information on creating approval definitions, see [Create approval definitions](../../change-management/task/create-approval-definitions.md).
+        -   For information on creating change approval policies, see [Create change approval policies](../change-management/create-change-policy.md).
+        -   For information on creating approval definitions, see [Create approval definitions](../change-management/create-approval-definitions.md).
     -   Risk and success scores: Use data-driven risk capabilities \(risk conditions, risk calculations, and ML-based risk intelligence\) to take the subjectivity out of risk and have automatic, data-driven determinations. Create risk conditions, change success score ratings, success probability definitions, risk assessments, and calculated risk score through this section.
 
-        -   For information on creating risk conditions, see [Risk conditions and calculation](../../change-management/concept/change-risk-assess-detect-conflict.md).
-        -   For information on creating change success score ratings, see [Change success score](../../change-management/concept/change-success-score.md).
-        -   For information on creating success probability definitions, see [Success Probability definitions](../../change-management/concept/success-probability-definition.md).
-        -   For information on creating risk assessments, see [Risk assessment](../../change-management/concept/c_RskAsmtCalc.md).
-        -   For information on calculated risk score, see [Calculated Risk Score](../../change-management/concept/risk-lookup.md).
-**Note:** You can also navigate to the Change Success Dashboard to see trends in resolution efficiency for a team, change type, or change model over time based on the parameters used to calculate the overall success score. For more information, see [Exploring ITSM Success Dashboard indicators](../../itsm-success-dashboard/concept/explore-success-dashboard-indicators.md).
+        -   For information on creating risk conditions, see [Risk conditions and calculation](../change-management/change-risk-assess-detect-conflict.md).
+        -   For information on creating change success score ratings, see [Change success score](../change-management/change-success-score.md).
+        -   For information on creating success probability definitions, see [Success Probability definitions](../change-management/success-probability-definition.md).
+        -   For information on creating risk assessments, see [Risk assessment](../change-management/c_RskAsmtCalc.md).
+        -   For information on calculated risk score, see [Calculated Risk Score](../change-management/risk-lookup.md).
+**Note:** You can also navigate to the Change Success Dashboard to see trends in resolution efficiency for a team, change type, or change model over time based on the parameters used to calculate the overall success score. For more information, see [Exploring ITSM Success Dashboard indicators](../itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md).
 
-    -   Automate DevOps changes: Automate DevOps changes with DevOps Change Velocity. Connect and configure tools from your DevOps toolchain with our DevOps data model to drive enhanced DevOps change traceability. Automatically create changes from CI/CD pipeline executions with relevant DevOps data attached and leverage that data to drive full change approval automation. For more information, see [DevOps Change Velocity](../../enterprise-dev-ops/concept/devops-landing-page-new.md).
+    -   Automate DevOps changes: Automate DevOps changes with DevOps Change Velocity. Connect and configure tools from your DevOps toolchain with our DevOps data model to drive enhanced DevOps change traceability. Automatically create changes from CI/CD pipeline executions with relevant DevOps data attached and leverage that data to drive full change approval automation. For more information, see [DevOps Change Velocity](../devops-change-velocity/devops-landing-page-new.md).
     -   Change record: Configure the change record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
     -   Change task record: Configure the change task record UI elements and the visible data content. For more information, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
 
@@ -208,14 +208,14 @@ For more information on the configurations of features in Major Incident Managem
 
 1.  On the **Configurations** tab, from the **SOW configurations** section, navigate to the **On-call Scheduling** tile and select **Configure**.
 2.  Configure any of the following options through a guided experience to improve the productivity of group managers and on-call agents.
-    -   On-call user groups and preferences. For information about these preferences, see [Configure preferences for a user group](../../../administer/on-call-scheduling/task/config-group-prefs-oncall.md).
+    -   On-call user groups and preferences. For information about these preferences, see [Configure preferences for a user group](../on-call-scheduling/config-group-prefs-oncall.md).
     -   On-call templates
-        -   Schedule templates. For information about on-call schedules, see [Configure or update an On-Call schedule](../../../administer/on-call-scheduling/task/create-update-schedule-oncall.md) and [Update a schedule entry](../../../administer/on-call-scheduling/task/schedule-entry-update-oncall.md).
-        -   Group templates. For information about group templates, see [Create a group template to simplify configuring schedules](../../../administer/on-call-scheduling/task/create-group-template.md) and [Create a shift template to simplify configuring shifts](../../../administer/on-call-scheduling/task/create-shift-template.md).
-        -   Escalation policy templates. For information about escalation policy, see [Create an escalation policy](../../../administer/on-call-scheduling/task/create-custom-esc-policy-oncall.md).
-        -   Contact preference templates. For information about contact preferences, see [Configure my availability and contact preferences](../../../administer/on-call-scheduling/task/config-my-contact-prefs-oncall.md).
-    -   On-call trigger rule table configuration. For information about creating and configuring trigger rule table config, see [Configure a table for escalation trigger rules](../../../administer/on-call-scheduling/task/configure-tables-for-escalation-trigger-rule.md).
-    -   On-call properties. For information about these properties, see [System properties for On-Call Scheduling](../../../administer/on-call-scheduling/reference/on-call-properties.md).
+        -   Schedule templates. For information about on-call schedules, see [Configure or update an On-Call schedule](../on-call-scheduling/create-update-schedule-oncall.md) and [Update a schedule entry](../on-call-scheduling/schedule-entry-update-oncall.md).
+        -   Group templates. For information about group templates, see [Create a group template to simplify configuring schedules](../on-call-scheduling/create-group-template.md) and [Create a shift template to simplify configuring shifts](../on-call-scheduling/create-shift-template.md).
+        -   Escalation policy templates. For information about escalation policy, see [Create an escalation policy](../on-call-scheduling/create-custom-esc-policy-oncall.md).
+        -   Contact preference templates. For information about contact preferences, see [Configure my availability and contact preferences](../on-call-scheduling/config-my-contact-prefs-oncall.md).
+    -   On-call trigger rule table configuration. For information about creating and configuring trigger rule table config, see [Configure a table for escalation trigger rules](../on-call-scheduling/configure-tables-for-escalation-trigger-rule.md).
+    -   On-call properties. For information about these properties, see [System properties for On-Call Scheduling](../on-call-scheduling/on-call-properties.md).
 3.  Update the configuration and mark it complete, or skip the configuration.
 
 **Note:** You can restart a skipped configuration.
@@ -232,7 +232,7 @@ For more information on the configurations of features in Major Incident Managem
     -   Assign and import
     -   Governance and Autonomy
     -   Integrations
-**Note:** This option isn’t available for the SOW admin role. For more information on the various roles in the Admin Center, see [Admin Center in Service Operations Workspace for ITSM](../concept/admin-center-sow.md).
+**Note:** This option isn’t available for the SOW admin role. For more information on the various roles in the Admin Center, see [Admin Center in Service Operations Workspace for ITSM](admin-center-sow.md).
 
 For information about Service Reliability Management configurations, see [Service Operations Workspace setup for SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-sow-admin-setup.md).
 
@@ -247,9 +247,9 @@ For information about Service Reliability Management configurations, see [Servic
 
     -   Configure your provider preferences.
     -   Configure Notify properties
-For more information on configuring Notify, refer [Configuring Notify in Service Operations Workspace](../concept/configure-notify-sow.md).
+For more information on configuring Notify, refer [Configuring Notify in Service Operations Workspace](configure-notify-sow.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](../concept/admin-center-sow.md)
+**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](admin-center-sow.md)
 

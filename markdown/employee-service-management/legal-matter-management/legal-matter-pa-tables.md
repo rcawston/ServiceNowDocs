@@ -17,7 +17,7 @@ Tables specific to practice areas are installed with the Legal Matter Management
 
 These practice area tables extend the Legal Matter \[sn\_lg\_matter\_matter\] table.
 
-If you add columns in a practice area table, you can configure the table to add those columns in the Lists section of Legal Counsel Center. You can also use these tables in other configuration as needed. For more information, see [Configure a practice area table](../../legal-request-management/task/configure-pa-tables-for-reporting.md).
+If you add columns in a practice area table, you can configure the table to add those columns in the Lists section of Legal Counsel Center. You can also use these tables in other configuration as needed. For more information, see [Configure a practice area table](../legal-request-management/configure-pa-tables-for-reporting.md).
 
 -   Compliance \[sn\_lg\_matter\_compliance\]
 -   Corporate Support \[sn\_lg\_matter\_corporate\_support\]

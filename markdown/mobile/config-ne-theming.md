@@ -33,7 +33,7 @@ Themes are defined by records in the UX Themes \[sys\_ux\_theme\] table. Your in
 
 -   **Coral**
 
-    Coral is the default theme for instances with Next Experience enabled for versions Zurich and above. Customers upgrading to the Zurich theme will not automatically have their theme upgraded to Coral. Instead they will manually have to select the theme. For configuration instructions, see [Assign a Next Experience theme in the Mobile App Builder](../task/config-ne-theme-in-mab.md). The Coral theme provides a fresh look and feel, featuring brand-neutral illustrations to enhance your user experience.
+    Coral is the default theme for instances with Next Experience enabled for versions Zurich and above. Customers upgrading to the Zurich theme will not automatically have their theme upgraded to Coral. Instead they will manually have to select the theme. For configuration instructions, see [Assign a Next Experience theme in the Mobile App Builder](config-ne-theme-in-mab.md). The Coral theme provides a fresh look and feel, featuring brand-neutral illustrations to enhance your user experience.
 
     A core UX Style \[sys\_ux\_style\] record called **Mobile Colors Default** is included with the **Coral** theme. This record cannot be modified, but, users can create a copy of this record or create a new theme record. Give your new or copied record a higher priority value to override the colors specified in the **Mobile Colors Default** record.
 

@@ -18,13 +18,13 @@ You can use the components in the Conditions group to do the following actions:
 -   Match an input or data with a condition to find out whether the input satisfies the condition.
 -   Match a value with multiple values until an exact match is found and on not finding an exact match, specify a different action.
 
--   **[Use the Decision component](../task/use-conditions-decisions.md)**  
+-   **[Use the Decision component](use-conditions-decisions.md)**  
 Automate the decision-making process by using the Decision component in RPA Desktop Design Studio.
--   **[Use the Switch component](../task/use-conditions-switch.md)**  
+-   **[Use the Switch component](use-conditions-switch.md)**  
 Find the exact match of a value among multiple values as part of an automation Workflow by using the Switch component in RPA Desktop Design Studio.
--   **[Functions, data types, and operators](../reference/conditions-decision-func-opr.md)**  
+-   **[Functions, data types, and operators](conditions-decision-func-opr.md)**  
 The Decision component supports certain functions and operators described in the topic. Use this topic as a reference.
--   **[Properties of the Conditions components](../reference/conditions-properties.md)**  
+-   **[Properties of the Conditions components](conditions-properties.md)**  
 Learn about the properties for the Conditions components in RPA Desktop Design Studio.
 
 **Parent Topic:**[Automation components](rpa-studio-automation-components.md)

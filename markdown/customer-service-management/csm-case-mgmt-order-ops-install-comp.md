@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Order Case](../reference/order-case-form.md)\[sn\_order\_case\]
+[Order Case](order-case-form.md)\[sn\_order\_case\]
 
 </td><td>
 
@@ -35,7 +35,7 @@ Stores order case records. This table extends the Case \[sn\_customerservice\_ca
 
 </td></tr><tr><td>
 
-[Order Case Line](../reference/order-case-line-form.md)\[sn\_order\_case\_line\]
+[Order Case Line](order-case-line-form.md)\[sn\_order\_case\_line\]
 
 </td><td>
 

@@ -31,7 +31,7 @@ This application supports domain separation. For more information, see [Domain s
 When generating or sharing a project, Process Mining honors the access control rules \(ACLs\) for the table.
 -   **[Process Mining properties](data-cleanup.md#)**  
 The Process Mining properties page provides configuration options for Process Mining.
--   **[Configure Process Mining map in PAR dashboard](../task/config-dashboard.md)**  
+-   **[Configure Process Mining map in PAR dashboard](config-dashboard.md)**  
 Configure a Process Mining map to view the process graph in the PAR dashboard.
 
 **Parent Topic:**[Process Mining](process-mining.md)

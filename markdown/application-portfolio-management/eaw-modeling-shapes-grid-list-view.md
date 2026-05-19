@@ -30,5 +30,5 @@ Role required: sn\_apm.apm\_user
     ![Switching between Grid view and List view](../../image/eaw-image/modeling/modeling-switch-list-grid-view.gif)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 

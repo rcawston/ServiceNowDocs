@@ -15,7 +15,7 @@ Use the locators of the captured elements to find the elements on the applicatio
 
 ## Before you begin
 
-Familiarize yourself with UAC concepts. For more information, see [Universal app connector](../concept/universal-app-connector.md).
+Familiarize yourself with UAC concepts. For more information, see [Universal app connector](universal-app-connector.md).
 
 Configure the UAC. For more information, see [Use the Universal App Connector](configure-uac.md).
 
@@ -165,5 +165,5 @@ Enables you to fine-tune or trim the path to an element.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+**Parent Topic:**[Universal app connector](universal-app-connector.md)
 

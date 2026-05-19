@@ -88,12 +88,12 @@ For more information about the CSM primary role structure and included roles, se
 
 ## Explicit roles
 
-You may have business requirements that change the use of these roles. In addition, the [Explicit Roles in CSM](../../../administer/contextual-security/concept/explicit-roles-in-csm.md) feature may assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
+You may have business requirements that change the use of these roles. In addition, the [Explicit Roles in CSM](explicit-roles-in-csm.md) feature may assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
 
 For more information about reviewing and updating user role assignments, see:
 
 -   [KB0829930](https://support.servicenow.com/kb_view.do?sysparm_article=KB0829930)
--   [Fix external user role assignments](../concept/fixing-external-role-assignment.md)
+-   [Fix external user role assignments](fixing-external-role-assignment.md)
 
 ## CSM roles and descriptions
 
@@ -661,15 +661,15 @@ Role for REST APIs related to CSM web services\[csm\_ws\_integration\]
 snc\_internal
 
 </td></tr></tbody>
-</table>-   **[Internal user data](../concept/customer-service-internal-user-data.md)**  
+</table>-   **[Internal user data](customer-service-internal-user-data.md)**  
 Internal user data includes information about the users who are internal to your organization, such as managers, agents, and other employees. Internal users can also belong to user groups.
--   **[Business Stakeholder for Customer Service Management](../concept/business-stakeholder-for-csm.md)**  
+-   **[Business Stakeholder for Customer Service Management](business-stakeholder-for-csm.md)**  
 Business Stakeholder for Customer Service Management includes plugins and roles that provide access to business stakeholder features.
--   **[Explicit Roles in CSM](../../../administer/contextual-security/concept/explicit-roles-in-csm.md)**  
+-   **[Explicit Roles in CSM](explicit-roles-in-csm.md)**  
 You can give both internal users and external users access to your instance. However, you might not want both types of users to have the same level of access. To provide added security, every user must have at least one role so that the instance can distinguish between internal and external users.
--   **[Provide external users access to a table](../../../administer/contextual-security/task/t_ProvideExternalUsersAccessToTables.md)**  
+-   **[Provide external users access to a table](t_ProvideExternalUsersAccessToTables.md)**  
 To enable users with only the snc\_external role to access the list view of a table, you must create a series of ACLs.
--   **[Creating custom user roles](../concept/creating-custom-csm-user-roles.md)**  
+-   **[Creating custom user roles](creating-custom-csm-user-roles.md)**  
 System administrators can create custom roles or modify the access of existing roles by using script includes and extension points/instances.
 
 **Parent Topic:**[Components installed with Customer Service Management](r_InstalledWithCustomerService.md)
@@ -677,5 +677,5 @@ System administrators can create custom roles or modify the access of existing r
 **Related topics**  
 
 
-[Fix external user role assignments](../concept/fixing-external-role-assignment.md)
+[Fix external user role assignments](fixing-external-role-assignment.md)
 

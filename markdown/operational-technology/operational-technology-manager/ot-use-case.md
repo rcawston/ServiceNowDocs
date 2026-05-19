@@ -127,5 +127,5 @@ When you use OT with any of the following ServiceNow products, you increase the 
     Manages the impact of the software and hardware life cycle process on the production processes.
 
 
-**Parent Topic:**[Implementing the CSDM framework for Operational Technology](../concept/ot-use-case-product-view.md)
+**Parent Topic:**[Implementing the CSDM framework for Operational Technology](ot-use-case-product-view.md)
 

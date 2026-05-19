@@ -60,5 +60,5 @@ Learn about the fields on the status report form.
 **Related topics**  
 
 
-[Create a project status report](../task/t_CreateAProjectStatusReport.md)
+[Create a project status report](t_CreateAProjectStatusReport.md)
 

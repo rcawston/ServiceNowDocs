@@ -27,7 +27,7 @@ If you have access to another instance, you can install the application from the
 
 **Note:** The instance and your user on the instance must meet the same requirements mentioned at the beginning of this tutorial.
 
-Cloning is intended for developing an application on multiple non-production instances and managing it in a single repository. To publish an application and deploy it to a production instance, use the Application Repository. For more information, see [ServiceNow application repository](../../applications/concept/app-repo.md).
+Cloning is intended for developing an application on multiple non-production instances and managing it in a single repository. To publish an application and deploy it to a production instance, use the Application Repository. For more information, see [ServiceNow application repository](../application-repository-self-hosted/app-repo.md).
 
 ## Procedure
 
@@ -96,7 +96,7 @@ The application is added to the instance with the files from the remote reposito
 
 ## What to do next
 
-Continue to [Tutorial part 6: Learn more about the ServiceNow IDE](../reference/tutorial-next-steps-ide.md).
+Continue to [Tutorial part 6: Learn more about the ServiceNow IDE](tutorial-next-steps-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](getting-started-create-application-ide.md)
 

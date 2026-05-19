@@ -34,7 +34,7 @@ If there is a default value on a filter, resetting the filters returns that filt
 3.  Click the context menu \(![](../../../common/image/Form_MenuIcon.png)\) and select **Reset Filters**.
 
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](c_PublishersOnHomepages.md)
 
 **Related topics**  
 

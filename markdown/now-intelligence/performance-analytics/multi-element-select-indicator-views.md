@@ -15,9 +15,9 @@ breadcrumb: [Using breakdowns on dashboards, Indicator breakdowns, Configure fun
 
 When you select multiple elements on a dashboard, widgets that follow these elements can show their values either separately or as an aggregate.
 
-On a widget form, use the **Show multiple elements as** field to set whether multiple elements are shown separately or as an aggregate. Widgets with the view type **Separate** show a different value for each [breakdown element](../../performance-analytics/concept/performance-analytics-glossary.md#) selected. Widgets with the view type **Aggregate** show a single value that represents the aggregated value of all selected breakdown elements.
+On a widget form, use the **Show multiple elements as** field to set whether multiple elements are shown separately or as an aggregate. Widgets with the view type **Separate** show a different value for each [breakdown element](performance-analytics-glossary.md#) selected. Widgets with the view type **Aggregate** show a single value that represents the aggregated value of all selected breakdown elements.
 
-The widget type logically determines whether an aggregated view, a separate view, or both are available. Also, [formula indicators](../../performance-analytics/concept/performance-analytics-glossary.md#) support the aggregated view only when the aggregated view is explicitly enabled on the indicator record. For example, a Score widget can only show an aggregated view. Without aggregated views being enabled, a Score widget for a formula indicator cannot be filtered on multiple elements. In this case, the **Show multiple element as** field displays **Not available** and is grayed out. For more information, see the section [Indicators that support an aggregate of multiple elements](multi-element-select-indicator-views.md#section_evw_cjx_4hb).
+The widget type logically determines whether an aggregated view, a separate view, or both are available. Also, [formula indicators](performance-analytics-glossary.md#) support the aggregated view only when the aggregated view is explicitly enabled on the indicator record. For example, a Score widget can only show an aggregated view. Without aggregated views being enabled, a Score widget for a formula indicator cannot be filtered on multiple elements. In this case, the **Show multiple element as** field displays **Not available** and is grayed out. For more information, see the section [Indicators that support an aggregate of multiple elements](multi-element-select-indicator-views.md#section_evw_cjx_4hb).
 
 ## Widget support of aggregate and separate views
 
@@ -38,7 +38,7 @@ The following indicators support the aggregated view:
 
 -   Manual indicators
 -   External indicators that do not use `SQL AVG()` or `SQL COUNT(DISTINCT...)` in their SQL statement
--   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](../../performance-analytics/task/t_CreateAFormulaIndicator.md).
+-   Formula indicators that have aggregate element views enabled on their indicator records. For more information, see the entry on the **Allow aggregation of multiple breakdown element scores** field on the Other tab in [Create a formula indicator](t_CreateAFormulaIndicator.md).
 
 **Important:**
 
@@ -84,16 +84,16 @@ On the dashboard, a separate column is shown for each of the three selected elem
 
 With the **Show multiple elements as** field set to **Aggregate,** a single, aggregate score is shown for the three selected elements. ![Column visualization with a single aggregate score shown for all selected elements](../../performance-analytics/image/aggregate-multiple-elements.png)
 
-**Parent Topic:**[Using breakdowns on dashboards](../../performance-analytics/concept/c_SpecialDashboards.md)
+**Parent Topic:**[Using breakdowns on dashboards](c_SpecialDashboards.md)
 
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md)
 
-[Configure widgets for breakdown dashboards](../../performance-analytics/task/set-up-widgets-for-breakdown-dashboards.md)
+[Configure widgets for breakdown dashboards](set-up-widgets-for-breakdown-dashboards.md)
 
-[Same breakdown on widget and dashboard](../../performance-analytics/concept/same-breakdown-widget-dashboard.md)
+[Same breakdown on widget and dashboard](same-breakdown-widget-dashboard.md)
 
-[Showing breakdown relations on dashboards](../../performance-analytics/concept/c_ShowBkdwnRltnsWdgts.md)
+[Showing breakdown relations on dashboards](c_ShowBkdwnRltnsWdgts.md)
 

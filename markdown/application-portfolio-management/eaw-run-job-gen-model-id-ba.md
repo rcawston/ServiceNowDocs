@@ -34,5 +34,5 @@ In Enterprise Architecture Workspace, the application model is denoted by **Mode
 
 After executing the script, the system automatically creates models IDs for the existing business applications for which the **Model ID** field is empty.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 

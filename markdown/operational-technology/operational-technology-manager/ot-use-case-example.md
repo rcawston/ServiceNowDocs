@@ -19,7 +19,7 @@ The Operational Technology Manager use cases are described in this section.
 
 The Operational Technology Manager application creates the foundational data and relationships that enable your enterprise to use the Operational Technology solution. It supports the use of the Configuration Management Database \(CMDB\), Service Graph Connectors, and Discovery applications in the ServiceNow AI Platform.
 
-The OT Visibility dashboard in the Industrial Workspace summarizes your OT device inventory. For more information about the dashboard, see [Operational Technology Visibility dashboard](../../../mftg-manufacturing-oper-tech-mgr/concept/ot-manager-dashboard.md).
+The OT Visibility dashboard in the Industrial Workspace summarizes your OT device inventory. For more information about the dashboard, see [Operational Technology Visibility dashboard](../industrial-workspace/ot-manager-dashboard.md).
 
 **Key features**
 
@@ -71,7 +71,7 @@ As an OT engineer or OT vulnerability manager, Operational Technology Vulnerabil
 -   How can I prioritize vulnerability remediation using OT specific risk?
 -   What progress are we making toward remediation of OT vulnerabilities?
 
-The OTVR \(PA\) dashboard and the OT Vulnerability Risk Management dashboard in the Industrial Workspace summarize the vulnerabilities in your system. For more information about the OTVR \(PA\) dashboard, see [Operational Technology Vulnerability Response \(PA\) dashboard](../../../mftg-manufacturing-ot-vulnerability-response/concept/operational-technology-vulnerability-response-dashboard.md). For more information about the OT Vulnerability Risk Management dashboard, see [Operational Technology Risk Management dashboard](../../concept/otvr-risk-management-dashboard.md).
+The OTVR \(PA\) dashboard and the OT Vulnerability Risk Management dashboard in the Industrial Workspace summarize the vulnerabilities in your system. For more information about the OTVR \(PA\) dashboard, see [Operational Technology Vulnerability Response \(PA\) dashboard](../industrial-workspace/operational-technology-vulnerability-response-dashboard.md). For more information about the OT Vulnerability Risk Management dashboard, see [Operational Technology Risk Management dashboard](../industrial-workspace/otvr-risk-management-dashboard.md).
 
 ## Operational Technology Incident Management use case
 

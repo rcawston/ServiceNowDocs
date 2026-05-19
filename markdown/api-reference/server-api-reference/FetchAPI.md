@@ -27,7 +27,7 @@ This API is part of a set of Fetch APIs, which provide various actions for fetch
 
 To support fetch actions, the system property, `glide.hosts.allowlist`, allows controls over what hosts a fetch method can access. It applies to HTTP APIs like RestMessageV2 and those mentioned above. For more information about `glide.hosts.allowlist`, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Fetch - fetch\(String resource, Object options\)
 
@@ -97,7 +97,7 @@ A promise that resolves to a response object.A fetch\(\) promise only rejects wh
 -   request\(\): Configures the API request with URL, method, and headers.
 -   fetch\(\): Makes the fetch request.
 -   response.json\(\): Parses the JSON response body into a JavaScript object. \(See [Fetch Response - json\(\)](Fetch.ResponseAPI.md#) for more information.\)
--   console.log\(\): Outputs the incidents \(data.result\) using the Console API \(See [Console - log\(Object val1...val2, String msg, String subst1...subst2\)](../../Console/concept/ConsoleAPI.md#)\).
+-   console.log\(\): Outputs the incidents \(data.result\) using the Console API \(See [Console - log\(Object val1...val2, String msg, String subst1...subst2\)](ConsoleAPI.md#)\).
 
 ```
 async function fetchIncidents() {

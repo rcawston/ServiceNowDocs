@@ -32,5 +32,5 @@ Role required: email\_admin
 5.  From your personal mailbox, set up forwarding rules for your personal mailbox \(for example forwarding rules for Microsoft Outlook or Gmail\).
 
 
-**Parent Topic:**[Personal corporate mailbox](../concept/personal-corporate-mailbox.md)
+**Parent Topic:**[Personal corporate mailbox](personal-corporate-mailbox.md)
 

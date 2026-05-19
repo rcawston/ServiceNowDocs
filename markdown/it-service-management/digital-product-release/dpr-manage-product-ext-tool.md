@@ -23,9 +23,9 @@ Role required: sn\_dpr\_model.product\_manager
 
 This data coming from the external tools provide you with insights into the breakdown of product features into epics and their stories. This data also enables you to create and automate policies and determine whether the release meets the release exit criteria.
 
-The data also provides an overview of the software quality of your releases in the Release Quality dashboard. For more information, see [Release Quality dashboard](../concept/dpr-release-quality-dashboard.md).
+The data also provides an overview of the software quality of your releases in the Release Quality dashboard. For more information, see [Release Quality dashboard](dpr-release-quality-dashboard.md).
 
-This integration with external tools is accessible as part of the DevOps Change Velocity. For more information, see [DevOps Change Velocity integrations](../../enterprise-dev-ops/concept/dev-ops-overview.md) and [Integrating DevOps Change Velocity with third party tools](../../enterprise-dev-ops/concept/integrating-devops-change-with-third-party-tools.md).
+This integration with external tools is accessible as part of the DevOps Change Velocity. For more information, see [DevOps Change Velocity integrations](../devops-change-velocity/dev-ops-overview.md) and [Integrating DevOps Change Velocity with third party tools](../devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ This integration with external tools is accessible as part of the DevOps Change 
 
 5.  Associate plans, repositories, and pipelines from the **Plans**, **Repositories**, and **Pipelines** tabs respectively.
 
-    For more information, see [Associate tool objects to applications - Workspace](../../enterprise-dev-ops/task/apps-associate-objects-wkspc.md).
+    For more information, see [Associate tool objects to applications - Workspace](../devops-change-velocity/apps-associate-objects-wkspc.md).
 
     **Note:** Only the **Plans** tab is available for services.
 
@@ -54,5 +54,5 @@ This integration with external tools is accessible as part of the DevOps Change 
     When you create a release for the product, a relationship is established between the artifact version and the release so that policies can be run against the release.
 
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 

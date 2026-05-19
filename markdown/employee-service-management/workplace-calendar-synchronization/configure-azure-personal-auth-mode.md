@@ -91,7 +91,7 @@ Microsoft Exchange Online is set up with Microsoft Azure.
 
 Configure resource room and specify the delegated user email details. For more information, see [Configure resource rooms in Microsoft Exchange Online](configure-resource-rooms-in-msex.md).
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 

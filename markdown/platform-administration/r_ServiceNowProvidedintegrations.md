@@ -24,12 +24,12 @@ These integrations are considered part of the platform and are provided at no ad
 |Microsoft SMS / SCCM|[MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)|CMDB|
 |Verizon eBonding|[Web services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/r_AvailableWebServices.md)|Incident|
 
--   **[Set up Google Maps API](../../../administer/navigation-and-ui/task/set-up-google-maps-api.md)**  
+-   **[Set up Google Maps API](set-up-google-maps-api.md)**  
 You enable the geolocation feature using the appropriate entries from a Google Maps API for Business license, or a Google Maps JavaScript API Key.
--   **[Microsoft SCCM integration](../../cmdb/concept/c_MicrosoftSCCMIntegration.md)**  
+-   **[Microsoft SCCM integration](c_MicrosoftSCCMIntegration.md)**  
 The Microsoft SCCM integration is a one direction import of SCCM data into the ServiceNow Configuration Management Database \(CMDB\).
--   **[Migrate the Verizon eBonding Integration to a Production System](../../incident/concept/c_MigrVerizoneBondIntegToAProdSys.md)**  
+-   **[Migrate the Verizon eBonding Integration to a Production System](c_MigrVerizoneBondIntegToAProdSys.md)**  
 This topic outlines the tasks required for moving the Verizon eBonding integration from a Dev/Test environment to a Production environment.
 
-**Parent Topic:**[Integration options](../../concept/c_IntegrationOptions.md)
+**Parent Topic:**[Integration options](c_IntegrationOptions.md)
 

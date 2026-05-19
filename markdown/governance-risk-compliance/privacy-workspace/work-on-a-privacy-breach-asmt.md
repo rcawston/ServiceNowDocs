@@ -52,5 +52,5 @@ Role required: admin
 10. To confirm, select **Request**.
 
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](using-pcm.md)
 

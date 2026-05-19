@@ -30,5 +30,5 @@ Role required: admin
     The selected List layout is used as the display value for records within the Task Relations field.
 
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](c_ManyToManyTaskRelations.md)
 

@@ -29,13 +29,13 @@ The benefits of using clause variations in document templates are:
 
 ## Related information
 
--   [Create or edit a contract clause](../task/cncore-create-clause-library.md)
--   [Create a clause variation](../task/cncore-add-clauses-doc-tmplt.md)
+-   [Create or edit a contract clause](cncore-create-clause-library.md)
+-   [Create a clause variation](cncore-add-clauses-doc-tmplt.md)
 -   [Add metadata to a clause using add-in](cncore-add-meta-cls-addin.md)
 
--   **[Create or edit a contract clause](../task/cncore-create-clause-library.md)**  
+-   **[Create or edit a contract clause](cncore-create-clause-library.md)**  
 As a contract configurator, create or modify clauses that manage clause variations that are mapped to contract templates.
--   **[Create a clause variation](../task/cncore-add-clauses-doc-tmplt.md)**  
+-   **[Create a clause variation](cncore-add-clauses-doc-tmplt.md)**  
 As a contract configurator, create a clause variation to use in a contract template for predefined condition.
 -   **[Add metadata to a clause using add-in](cncore-add-meta-cls-addin.md)**  
 As a contract configurator, add metadata to pre-fill information that will be placed in the contract document.
@@ -49,5 +49,5 @@ As a contract configurator, add metadata to pre-fill information that will be pl
 
 [Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
 
-[Publish a contract template](../task/cncore-publish-template.md)
+[Publish a contract template](cncore-publish-template.md)
 

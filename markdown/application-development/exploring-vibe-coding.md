@@ -76,5 +76,5 @@ To learn more about vibe coding and AI-assisted development on the ServiceNow AI
 
 -   [Onboarding for vibe coding and AI-assisted development](vibe-coding-onboarding.md)
 -   [Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-using.md)
--   [Vibe coding and AI-assisted development reference](../reference/vibe-coding-reference-landing.md)
+-   [Vibe coding and AI-assisted development reference](vibe-coding-reference-landing.md)
 

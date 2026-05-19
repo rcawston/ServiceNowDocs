@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the SetListItem component. For more information about these properties, see [Properties of the Reflection components](../reference/util-reflection-prop.md).
+You can configure the properties for the SetListItem component. For more information about these properties, see [Properties of the Reflection components](util-reflection-prop.md).
 
 ## Procedure
 
@@ -41,5 +41,5 @@ You can configure the properties for the SetListItem component. For more informa
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Reflection](../concept/reflection-utility.md)
+**Parent Topic:**[Reflection](reflection-utility.md)
 

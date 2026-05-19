@@ -29,7 +29,7 @@ Find a different skill
 
 </td><td>
 
-Search field used to find a skill using a skill name or keyword. [Search and add skills](../task/search-add-skills-mentoring.md)
+Search field used to find a skill using a skill name or keyword. [Search and add skills](search-add-skills-mentoring.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

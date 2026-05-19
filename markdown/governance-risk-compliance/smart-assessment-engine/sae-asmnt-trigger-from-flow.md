@@ -33,11 +33,11 @@ An example trigger condition might be that the state in the control table change
 
 3.  Fill in the Trigger Smart Assessment action form to design the action.
 
-    The settings on the form are described in [Trigger Smart Assessment action form](../reference/sae-smart-asmnt-action-form.md).
+    The settings on the form are described in [Trigger Smart Assessment action form](sae-smart-asmnt-action-form.md).
 
 4.  Test the action as described in [Building flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
 
-    For descriptions of all these settings, see [Settings in the Test action pop-up window](../reference/sae-test-action-popup.md).
+    For descriptions of all these settings, see [Settings in the Test action pop-up window](sae-test-action-popup.md).
 
 5.  Select **Save**.
 

@@ -15,7 +15,7 @@ View consolidated emails for all hard-linked entities monitored in a sales proce
 
 ## Before you begin
 
-You can compose and send emails related to a sales process record by default. To compose emails for child entities such as an opportunity or quote, you must be granted access to those entities. For more information, see [Setting conditions for enabling email access in Lead-to-Cash Process Management](../concept/enabling-email-l2c-process-management.md).
+You can compose and send emails related to a sales process record by default. To compose emails for child entities such as an opportunity or quote, you must be granted access to those entities. For more information, see [Setting conditions for enabling email access in Lead-to-Cash Process Management](enabling-email-l2c-process-management.md).
 
 Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\]
 
@@ -42,5 +42,5 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
     4.  Select **Send email**.
 
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
 

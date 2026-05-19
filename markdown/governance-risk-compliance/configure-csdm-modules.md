@@ -43,7 +43,7 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     **Note:** You must have the itil user role to create a service. If you do not have the itil user role, the **New** button for creating a service is not displayed.
 
-    For a description of the field values on the Service form, see [Create New Service form](../../grc-operational-res-ws/reference/service-form-lists-ws-reference.md).
+    For a description of the field values on the Service form, see [Create New Service form](service-form-lists-ws-reference.md).
 
     The Create New Service form is displayed.
 

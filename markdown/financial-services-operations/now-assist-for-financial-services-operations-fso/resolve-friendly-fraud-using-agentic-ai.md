@@ -47,7 +47,7 @@ When a friendly fraud task is identified, the Friendly fraud AI agent is display
 
     You can continue working in the playbook activities as you interact with the AI agent.
 
-    For information about how to resolve friendly fraud, see [Detect friendly fraud](../../fso-card-operations/task/resolve-friendly-fraud.md) and [Manage customer communication](../../fso-card-operations/task/resolve-fraud-customer-communication.md).
+    For information about how to resolve friendly fraud, see [Detect friendly fraud](../dispute-management/resolve-friendly-fraud.md) and [Manage customer communication](../dispute-management/resolve-fraud-customer-communication.md).
 
     ![The Review and assess disputed transaction playbook is used to review recommendations and interact with the friendly fraud AI agent through the Now Assist panel.](../image/friendly-fraud-ai.png)
 
@@ -56,5 +56,5 @@ When a friendly fraud task is identified, the Friendly fraud AI agent is display
 
 Based on the resolution steps that the dispute agent selects, the friendly fraud is resolved with the help of the Now Assist AI agent.
 
-**Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](../concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
+**Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](using-ai-agent-use-cases-in-now-assist-for-fso.md)
 

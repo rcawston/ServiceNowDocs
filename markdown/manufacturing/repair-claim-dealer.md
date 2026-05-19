@@ -17,6 +17,6 @@ You can perform the following task for repair claim on the dealer portal:
 
 |Task|Description|
 |----|-----------|
-|[Submit a repair claim for warranty](../task/mco-submit-repair-claim.md)|Submit the repair claim for the products covered under warranty.|
-|[Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md)|Submit the repair claim for the sold products that are recalled by the manufacturers.|
+|[Submit a repair claim for warranty](mco-submit-repair-claim.md)|Submit the repair claim for the products covered under warranty.|
+|[Submit a repair claim for recall](mco-submit-repair-claim-for-recall.md)|Submit the repair claim for the sold products that are recalled by the manufacturers.|
 

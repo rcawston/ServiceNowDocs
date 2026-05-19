@@ -27,13 +27,13 @@ Use the following components to build an external data framework:
 
     The table definition is in the ServiceNow AI Platform, but its rows, or external records, live in memory. You create a remote table the same way that you would create a standard internal table. You define columns and controls and designate application access for it just like you would do for an internal table. Unlike an internal table, a remote table doesn’t get its records from the ServiceNow AI Platform database. It gets its records from running an associated query script against an external data source.
 
-    To learn more about creating remote tables, see [Create a remote table](../task/create-remote-table.md).
+    To learn more about creating remote tables, see [Create a remote table](create-remote-table.md).
 
 -   **Script definitions**
 
     You create and associate script definitions with a remote table. The external data that you retrieved using the query script can be cached in memory. You can also designate how this data is cached and how long the data is cached in memory. Every time that you refresh a list that contains the external data from a remote table, the associated query script runs again. For editable remote tables, you can create insert, update, and delete script definitions in addition to the query script definition.
 
-    To learn more about script definitions and how to associate them with a remote table, see [Create script definitions for a remote table](../task/create-remote-table-script.md).
+    To learn more about script definitions and how to associate them with a remote table, see [Create script definitions for a remote table](create-remote-table-script.md).
 
 
 ## How remote tables work
@@ -82,18 +82,18 @@ Choose whether to use a remote table or Integration Hub to process external data
 
 **Note:** If you create a remote table that uses the data from an external source that is outside of the ServiceNow AI Platform, you must have an Integration Hub subscription entitlement. To learn more about the Integration Hub, see [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub.md).
 
--   **[Activate the remote tables plugin](../task/activate-remote-tables-plugin.md)**  
+-   **[Activate the remote tables plugin](activate-remote-tables-plugin.md)**  
 If you have the admin role, you can activate the Remote Tables plugin \(com.glide.script.vtable\). This plugin includes demo data and activates related plugins if they aren’t already active.
--   **[Create a remote table](../task/create-remote-table.md)**  
+-   **[Create a remote table](create-remote-table.md)**  
 Create a remote table using data retrieved from an external source.
--   **[Create script definitions for a remote table](../task/create-remote-table-script.md)**  
+-   **[Create script definitions for a remote table](create-remote-table-script.md)**  
 Define scripts for a remote table to retrieve data from an external data source or edit data in the external source.
--   **[Create a flow definition for a remote table](../task/create-remote-table-flow.md)**  
+-   **[Create a flow definition for a remote table](create-remote-table-flow.md)**  
 Build and create a flow for a remote table so that you can retrieve data from an external source with it.
--   **[Debugging remote table script definitions](../reference/debugging-remote-table-scripts.md)**  
+-   **[Debugging remote table script definitions](debugging-remote-table-scripts.md)**  
 You can enable session debugging for remote table script definitions. To enable script definition logging in a session debug log, set the **glide.script.vtable.log.debug** property to **true**.
 -   **[Domain separation and remote tables](domain-separation-remote-tables.md)**  
 Domain separation is unsupported in remote tables. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Manage instance data sources](../../general/concept/manage-data-sources.md)
+**Parent Topic:**[Manage instance data sources](../manage-data-sources.md)
 

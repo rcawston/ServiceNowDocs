@@ -15,7 +15,7 @@ breadcrumb: [Azure AD activity pack, Orchestration activity packs, Classic Orche
 
 The Remove User from Group activity removes an existing user from a security group in Azure Active Directory.
 
-To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](../../orchestration-activity-designer/task/t_CreateARESTWebServiceActivity.md#).
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Azure AD**. This activity was built with the [REST web service activity template](t_CreateARESTWebServiceActivity.md#).
 
 **Important:** The REST message used for this activity must be configured to use [OAuth 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_OAuthApplications.md).
 
@@ -41,5 +41,5 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Success|Activity removed the object ID from the security group.|
 |Failure|Activity failed to update the group's membership, or the activity failed to connect to Azure AD.|
 
-**Parent Topic:**[Azure AD activity pack](../concept/c_AzureADActivityPack.md)
+**Parent Topic:**[Azure AD activity pack](c_AzureADActivityPack.md)
 

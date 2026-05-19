@@ -39,7 +39,7 @@ Creating a customized HTML document template is optional.
 
 4.  On the form, fill in the fields and click **Submit**.
 
-    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [HTML Template form](../reference/html-template-reference-form.md).
+    The new template is displayed in the Document Templates list.​ For descriptions of the field values, see [HTML Template form](html-template-reference-form.md).
 
 
 ## Result

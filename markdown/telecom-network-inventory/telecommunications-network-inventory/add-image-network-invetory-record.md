@@ -55,7 +55,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 The image is added to the network inventory record.
 
-**Parent Topic:**[Geo map](../concept/using-network-site-map.md)
+**Parent Topic:**[Geo map](using-network-site-map.md)
 
 **Related topics**  
 

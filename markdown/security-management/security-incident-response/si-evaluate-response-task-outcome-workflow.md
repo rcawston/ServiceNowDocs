@@ -36,7 +36,7 @@ This workflow runs at the same time as the create task activity to be evaluated.
     ![Security Incident Evaluate Response Outcome workflow diagram](../image/EvaluateResponseOutcomeWorkflow.png "Evaluate response task outcome")
 
 
-**Parent Topic:**[Security Incident Response Orchestration workflows and activities](../concept/sec-inc-resp-orchestration-workflows.md)
+**Parent Topic:**[Security Incident Response Orchestration workflows and activities](sec-inc-resp-orchestration-workflows.md)
 
 **Related topics**  
 
@@ -47,5 +47,5 @@ This workflow runs at the same time as the create task activity to be evaluated.
 
 [Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
 
-[Run procdump flow](../concept/invoke_procdump.md)
+[Run procdump flow](invoke_procdump.md)
 

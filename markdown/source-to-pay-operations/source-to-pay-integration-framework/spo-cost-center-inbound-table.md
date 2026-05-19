@@ -32,7 +32,7 @@ The following table lists the mandatory fields for the Cost Center Stage inbound
 |Valid from|String|Date the cost center is valid from|
 |Valid to|String|Date the cost center is valid to|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

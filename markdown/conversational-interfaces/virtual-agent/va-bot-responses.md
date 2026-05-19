@@ -38,5 +38,5 @@ Use the Table bot response control in a Virtual Agent topic to display a bot res
 -   **[Video bot response control](va-video-bot-response.md)**  
 Use the Video bot response control in a Virtual Agent topic to include a video in the conversation.
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

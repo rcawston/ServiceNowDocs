@@ -17,7 +17,7 @@ Reference sections provide additional information about components installed wit
 
 -   **[Configuring maintenance schedules - Best practices](configuring-maintenance-schedules-best-practices.md)**  
 Maintenance schedules define the periods during which a Configuration Item or change can be implemented.
--   **[Change Management properties](../reference/r_ChangeManagementProperties.md)**  
+-   **[Change Management properties](r_ChangeManagementProperties.md)**  
 Administrators can use change properties to configure Change Management behavior.
 -   **[Analyze change request risk and impact](change-risk-conflict-analysis.md)**  
 After you create a change request, you can assess and analyze the risk and impact involved in the change request. You can review any conflicts that are detected by reviewing the change request.
@@ -29,11 +29,11 @@ Risk lookup table is to get the risk value corresponding to the success probabil
 You can integrate Change Management with other ServiceNow applications such as Discovery, Software Asset Management, and Hardware Asset Management.
 -   **[Domain separation and Change Management](domain-separation-change-mgt.md)**  
 Domain separation is supported in Change Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Tutorial: add a new change management state](../task/t_AddNewStateTutorial.md)**  
+-   **[Tutorial: add a new change management state](t_AddNewStateTutorial.md)**  
 This tutorial provides an example of adding a new state to the existing state model.
 -   **[Change flows](change-flows.md)**  
 The Change Management Change flows provide a library of reusable actions and end-to-end implementations of the Change models provided in the base system.
--   **[ITSM Enhanced Security Features for Change Management](../reference/features-itsm-enhanced-security-change.md)**  
+-   **[ITSM Enhanced Security Features for Change Management](features-itsm-enhanced-security-change.md)**  
 Help prevent unauthorized access to change-related tables using deny-unless ACLs. A deny-unless authentication ACL restricts access for a non-authenticated user.
 
 **Parent Topic:**[Change Management](c_ITILChangeManagement.md)

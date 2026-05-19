@@ -15,7 +15,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 Tables installed with the Healthcare and Life Sciences Service Management Core application enable you to decide the data model, tasks, and product offerings for your Healthcare and Life Sciences workflows.
 
-To learn more about the Healthcare and Life Sciences data model, see [Healthcare and Life Sciences data model](../concept/hcls-serv-mgmt-core.md).
+To learn more about the Healthcare and Life Sciences data model, see [Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md).
 
 -   **[Allergy intolerance table](hcls-allergy-intolerance.md)**  
 The Allergy intolerance \[sn\_hcls\_allergy\] table stores the information about a clinical assessment of an allergy or intolerance; a propensity, or a potential risk to an individual, to have an adverse reaction on future exposure to the specified substance, or class of substance.

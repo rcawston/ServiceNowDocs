@@ -49,7 +49,7 @@ Role required:
 
 The Time Worked form is saved and the time card is added to the Time Worked tab of the task.
 
-**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](record-time-drop-receive.md)
 
 **Related topics**  
 

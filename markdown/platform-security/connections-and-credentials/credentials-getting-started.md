@@ -53,13 +53,13 @@ Ordering credentials is useful in the following situations:
 
 ## Credential aliases
 
-Credential aliases are available for [Discovery](../concept/discovery-credential-alias.md#) and [Orchestration](../concept/c_AssignCredsOrchActivities.md).
+Credential aliases are available for [Discovery](discovery-credential-alias.md#) and [Orchestration](c_AssignCredsOrchActivities.md).
 
 Aliases for Discovery enable an administrator to:
 
 -   Employ a credential filtering behavior with configurable levels of compliance.
 -   Assign multiple credential aliases to a Discovery schedule.
--   Prevent the creation of credential affinities that use inappropriate or sensitive credentials. To learn more, see [credential affinities](../concept/c_CredentialAffinity.md).
+-   Prevent the creation of credential affinities that use inappropriate or sensitive credentials. To learn more, see [credential affinities](c_CredentialAffinity.md).
 
 Aliases for Orchestration enable workflow creators to:
 
@@ -70,5 +70,5 @@ Aliases for Orchestration enable workflow creators to:
 
 ## External credential stores
 
-If you do not want credentials stored in your instance, you can use external credential repositories. External credential stores save the credentials in an external site that your instance can access. [CyberArk](../concept/c_CyberArkCredStorageIntegrate.md) is the only supported external credential store. However, other external stores can be configured using the ServiceNow API.
+If you do not want credentials stored in your instance, you can use external credential repositories. External credential stores save the credentials in an external site that your instance can access. [CyberArk](c_CyberArkCredStorageIntegrate.md) is the only supported external credential store. However, other external stores can be configured using the ServiceNow API.
 

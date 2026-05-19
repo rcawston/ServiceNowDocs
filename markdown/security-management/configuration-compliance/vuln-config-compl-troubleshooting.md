@@ -29,7 +29,7 @@ Test results are missing
 
 </td><td>
 
-Check the **Start Time** on the **Qualys PC Results** integration. It might not be set back far enough. See [Modify Qualys PC Results start date](../task/modify-test-results-startdate.md).
+Check the **Start Time** on the **Qualys PC Results** integration. It might not be set back far enough. See [Modify Qualys PC Results start date](modify-test-results-startdate.md).
 
 </td></tr><tr><td>
 

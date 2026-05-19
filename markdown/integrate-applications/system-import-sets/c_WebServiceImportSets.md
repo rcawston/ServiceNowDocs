@@ -36,12 +36,12 @@ For example:
 
 -   **[Creating an import set web service](c_CreatingANewWebService.md)**  
 Create a web service import set table to define how to stage and transform imported data.
--   **[Web service import set mode](../reference/r_ImportSetMode.md)**  
+-   **[Web service import set mode](r_ImportSetMode.md)**  
 When a SOAP message inserts a record into an import set table, and there is no import set for that table in the **Loading** state, a new import set will be created with the **Mode** set to **Synchronous**.
--   **[Inserting multiple records using insertMultiple](../reference/r_InsertingMultipleRecords.md)**  
+-   **[Inserting multiple records using insertMultiple](r_InsertingMultipleRecords.md)**  
 You can insert multiple records in one SOAP request by using the insertMultiple operation.
 -   **[Web service import sets security requirements](c_SecurityRequirements.md)**  
 Web Service Import Sets use the same security mechanisms as SOAP Web Services.
 
-**Parent Topic:**[Import sets](../reference/import-sets-landing-page.md)
+**Parent Topic:**[Import sets](import-sets-landing-page.md)
 

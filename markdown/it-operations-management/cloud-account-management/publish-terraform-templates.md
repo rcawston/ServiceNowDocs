@@ -153,7 +153,7 @@ Role required: Terraform admin
     Don’t modify the template as the variables are closely connected to the application.
 
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 

@@ -37,8 +37,8 @@ Role required: admin
 
 4.  Activate Document Services for Google Drive Spoke.
 
-    For more information, see [Document Services Framework for Google Drive](../concept/google-drive-spoke-document-services.md).
+    For more information, see [Document Services Framework for Google Drive](google-drive-spoke-document-services.md).
 
 
-**Parent Topic:**[Google Drive integration with Document Services](../concept/google-drive-integration.md)
+**Parent Topic:**[Google Drive integration with Document Services](google-drive-integration.md)
 

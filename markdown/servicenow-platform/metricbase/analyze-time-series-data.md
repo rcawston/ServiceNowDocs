@@ -32,5 +32,5 @@ For information about the MetricBase JavaScript APIs that return time-series dat
 -   [TransformPart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/TransformPartScopedAPI.md) — Specify details of the transform to be done.
 -   [TransformResult](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/TransformResultScopedAPI.md) — Return the object that contains the result of the transformation.
 
-Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](../task/metricbase-data-explorer.md) that comes with the MetricBase Demo.
+Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](metricbase-data-explorer.md) that comes with the MetricBase Demo.
 

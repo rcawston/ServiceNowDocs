@@ -116,7 +116,7 @@ With the Virtual Agent Administrator \[virtual\_agent\_admin\] role, users can c
 
 ## Users installed
 
-The Glide Conversation Server plugin \(com.glide.cs\) automatically installs a virtual agent user \(virtual.agent\) in the User \[sys\_user\] table. Ongoing [Virtual Agent interactions](../concept/va-interactions.md) are assigned to this virtual agent user. If you're using Advanced Work Assignment \(AWA\), interactions assigned to the virtual agent user are not routed by AWA. The virtual agent user is also used in the default web chat branding settings to associate a virtual agent user profile with a bot avatar.
+The Glide Conversation Server plugin \(com.glide.cs\) automatically installs a virtual agent user \(virtual.agent\) in the User \[sys\_user\] table. Ongoing [Virtual Agent interactions](va-interactions.md) are assigned to this virtual agent user. If you're using Advanced Work Assignment \(AWA\), interactions assigned to the virtual agent user are not routed by AWA. The virtual agent user is also used in the default web chat branding settings to associate a virtual agent user profile with a bot avatar.
 
 ## Tables installed
 

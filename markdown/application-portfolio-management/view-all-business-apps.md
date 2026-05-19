@@ -30,7 +30,7 @@ Role required: sn\_apm.apm\_user
     ![View all business applications](../../image/eaw-image/eaw-view-all-ba.jpg)
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 

@@ -53,5 +53,5 @@ The questionnaire data from the Initiate stage is sent to Visa. The task is set 
 1.  After you initiate the chargeback for the dispute, if the acquirer is not happy, they can initiate pre arbitration. The **Incoming pre arbitration received** field is set to **Yes** or **No** and the next activity [Review and respond to a pre-arbitration request](review-and-respond-to-pre-arbitration.md) is displayed.
 2.  Select **Close task**.
 
-**Parent Topic:**[Allocation dispute workflow](../concept/allocation-dispute-work-flow.md)
+**Parent Topic:**[Allocation dispute workflow](allocation-dispute-work-flow.md)
 

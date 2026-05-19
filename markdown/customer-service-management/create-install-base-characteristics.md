@@ -19,7 +19,7 @@ Role required: sn\_customerservice\_manager
 
 ## About this task
 
-Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [Install base characteristics](../concept/attributes-and-configuration-of-install-base-management.md).
+Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [Install base characteristics](attributes-and-configuration-of-install-base-management.md).
 
 ## Procedure
 

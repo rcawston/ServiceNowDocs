@@ -56,7 +56,7 @@ The state of Query Generation skills and the LLMs they use. Also the state of AI
 
 </td><td>
 
-For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [Query Generation skills](../task/enable-query-generation.md). If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
+For Query Generation skills, if any are inactive, navigate to Now Assist Admin. Activate skills there as described in [Query Generation skills](enable-query-generation.md). If you have error messages, contact your Generative AI Controller administrator or Now Support.For AI Search, consult your organization's AI Search administrators.
 
 </td></tr><tr><td>
 
@@ -107,5 +107,5 @@ The state of relevant system properties that can be modified by an administrator
 Navigate to the Properties \[sys\_properties\] table and change the value of the property in question. Update only the required properties that start with sn\_query\_gen. \*\*
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Tuning the semantic layer](../../ai-data-explorer/concept/semantic-layer-tuning-overview.md)
+</table>**Parent Topic:**[Tuning the semantic layer](semantic-layer-tuning-overview.md)
 

@@ -50,5 +50,5 @@ Role required: sn\_pace.code\_editor
 
 ## Result
 
-The policies now appear on the Policies tab and can be added in the condition section or the Then section of the Policy builder. For more information on how to add the policies in the builder, see [Policy logic condition fields](../reference/pace-policy-logic-fields.md).
+The policies now appear on the Policies tab and can be added in the condition section or the Then section of the Policy builder. For more information on how to add the policies in the builder, see [Policy logic condition fields](pace-policy-logic-fields.md).
 

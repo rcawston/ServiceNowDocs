@@ -34,5 +34,5 @@ Role required: admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](configure-cbs.md)
 

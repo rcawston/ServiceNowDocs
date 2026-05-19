@@ -41,7 +41,7 @@ Role required: admin \[sn\_jny.admin\]
 
 6.  Fill in the fields in the Start Onboarding form.
 
-    For more information about the fields associated with this form, see [Create customized media with styled content](../../employee-center/task/ec-content-library-portal-styled.md).
+    For more information about the fields associated with this form, see [Create customized media with styled content](../employee-experience-foundation/ec-content-library-portal-styled.md).
 
 7.  Specify whether you want to save your design or save and publish your design.
 
@@ -51,5 +51,5 @@ Role required: admin \[sn\_jny.admin\]
     |**Save and continue**|To save the record and move to the **Publish** tab.|
 
 
-**Parent Topic:**[Enable and configure the Pre-hire Experience](../concept/jny-pre-hire-enable-configure.md)
+**Parent Topic:**[Enable and configure the Pre-hire Experience](jny-pre-hire-enable-configure.md)
 

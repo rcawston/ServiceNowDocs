@@ -53,5 +53,5 @@ You can't modify the trigger type and the table.
 11. Make the updated trigger available by selecting **Publish**.
 
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

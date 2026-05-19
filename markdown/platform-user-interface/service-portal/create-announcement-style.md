@@ -89,9 +89,9 @@ Text alignment. Options include:-   Left align
 
 ## Result
 
-By default, the announcement appears in both the portal banner and the Announcements widget, but only the banner uses your new display style. You can configure the widget to use the display style also. For more information, see the instance options in [Announcements widget](../concept/announcements-widget.md).
+By default, the announcement appears in both the portal banner and the Announcements widget, but only the banner uses your new display style. You can configure the widget to use the display style also. For more information, see the instance options in [Announcements widget](announcements-widget.md).
 
-**Parent Topic:**[Posting announcements to portal users](../concept/announcements.md)
+**Parent Topic:**[Posting announcements to portal users](announcements.md)
 
 **Related topics**  
 

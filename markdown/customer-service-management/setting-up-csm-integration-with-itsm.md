@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Integrate with IT Service Management using Guided Setup](../task/configure-csm-sm-integration.md)
+[Integrate with IT Service Management using Guided Setup](configure-csm-sm-integration.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Use the Guided Setup to integrate CSM with IT Service Management.
 
 </td></tr><tr><td>
 
-[Install Customer Service Management with Service Management](../task/install-csm-with-service-management.md)
+[Install Customer Service Management with Service Management](install-csm-with-service-management.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Activate the CSM with Service Management plugin \(com.sn\_cs\_sm\) to enable the
 
 </td></tr><tr><td>
 
-[Install Customer Service Management with Request Management](../task/install-csm-with-request-management.md)
+[Install Customer Service Management with Request Management](install-csm-with-request-management.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Activate the CSM with Request Management plugin \(com.sn\_cs\_sm\_request\) to u
 
 </td></tr><tr><td>
 
-[Assigning CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#)
+[Assigning CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Assign the required roles to the customer service agents and managers who will b
 
 </td></tr><tr><td>
 
-[Enable external customers to access problem, change, and request records](../task/csm-itsm-integration-view-request.md)
+[Enable external customers to access problem, change, and request records](csm-itsm-integration-view-request.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Assign access controls \(ACLs\) to the external user roles to provide visibility
 
 </td></tr><tr><td>
 
-[Enable external customers to create requests](../task/enable-customer-request-from-portal.md)
+[Enable external customers to create requests](enable-customer-request-from-portal.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Assign roles to external customers which enable them to create requests.
 
 </td></tr><tr><td>
 
-[Enable external customers to approve requests and changes](../task/enable-customer-request-approval.md)
+[Enable external customers to approve requests and changes](enable-customer-request-approval.md)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Enable external customers to approve changes and requests:-   Add external users
 
 </td></tr><tr><td>
 
-[Enable the Create Request UI action for case types](../task/enable-create-request-case-type.md)
+[Enable the Create Request UI action for case types](enable-create-request-case-type.md)
 
 </td><td>
 

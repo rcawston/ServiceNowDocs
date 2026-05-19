@@ -49,7 +49,7 @@ The order the TransformPart methods are called is important.
 
 This class is part of the MetricBase application.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TransformPart - add\(Number constant\)
 

@@ -54,5 +54,5 @@ You can restore a flow when you want to set the current configuration to that of
 
 Workflow Studio displays the restored flow configuration.
 
-**Parent Topic:**[Flow history](../concept/flow-history.md)
+**Parent Topic:**[Flow history](flow-history.md)
 

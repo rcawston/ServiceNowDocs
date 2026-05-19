@@ -25,19 +25,19 @@ Watch this short video to see an overview of the Clone Admin Console.
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create custom clone profiles and register your instance for cloning.](../task/configure-clone.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create custom clone profiles and register your instance for cloning.](configure-clone.md)
 
 </td><td>
 
-[Managing![](../../../reuse/icons/brand-icons/bus-3-person.svg)Request, cancel, schedule, or modify clones.](../task/using-instance-clone.md)
+[Managing![](../../../reuse/icons/brand-icons/bus-3-person.svg)Request, cancel, schedule, or modify clones.](using-instance-clone.md)
 
 </td></tr><tr><td>
 
-[Request a Clone![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Request a clone to copy data from a production instance to a non-production instance.](../task/t_StartAClone.md#)
+[Request a Clone![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Request a clone to copy data from a production instance to a non-production instance.](t_StartAClone.md#)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Clone options when requesting a clone, various clone states, and clone terminology.](../reference/instance-clone-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about Clone options when requesting a clone, various clone states, and clone terminology.](instance-clone-reference.md)
 
 </td><td>
 

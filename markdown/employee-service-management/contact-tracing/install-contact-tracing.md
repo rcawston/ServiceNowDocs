@@ -108,7 +108,7 @@ If you've subscribed to the Safe Workplace suite and you already have some of th
     For more information, see [Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignRoleToGroup.md).
 
 
-**Parent Topic:**[Contact Tracing](../concept/contact-tracing.md)
+**Parent Topic:**[Contact Tracing](contact-tracing.md)
 
 ## Components installed with Contact Tracing
 

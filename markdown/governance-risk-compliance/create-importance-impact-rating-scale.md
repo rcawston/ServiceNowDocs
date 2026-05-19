@@ -46,6 +46,6 @@ A user with the sn\_oper\_res.admin role can change the rating scale for the ind
 
 3.  On the form, fill in the fields and click **Submit**.
 
-    For a description of the field values on the Rating Scale New Record form, see [Rating Scale New Record form](../reference/importance-and-impact-rating-scale-reference.md).
+    For a description of the field values on the Rating Scale New Record form, see [Rating Scale New Record form](importance-and-impact-rating-scale-reference.md).
 
 

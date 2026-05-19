@@ -21,7 +21,7 @@ Access FlowAPI methods in global and scoped scripts using the `sn_fd` namespace.
 
 **Note:** To optimize instance performance, avoid calling these methods from an asynchronous business rule script. Instead, create a scheduled job record within the Workflow Studio UI.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## FlowAPI - cancel\(String contextId, String reason\)
 
@@ -125,7 +125,7 @@ Runs an action from a server-side script synchronously.
 
 Execute an action from within a business rule, script include, or any other server-side script. Actions run using this method run synchronously, so the method has access to outputs created by the action. Use **startAction** to run an action asynchronously.
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 **Note:** This method runs the action as the user who initiates the session.
 
@@ -182,7 +182,7 @@ Run an action from a server-side script synchronously from the current user sess
     This method does not support pausing an action to run from a MID Server.
 
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 <table id="table_gx5_kcf_1hb" class="parameters"><thead><tr><th>
 
@@ -267,7 +267,7 @@ Runs a Data Stream action synchronously from a server-side script and returns a 
 
 For more information about Data Stream actions, see [Data Stream actions and pagination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/data-stream-actions.md).
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 **Note:** Always wrap data stream logic in a `try/catch` block to catch errors. Always include a `finally` statement that ends with the close\(\) method from the ScriptableDataStream class to close the data stream and prevent performance issues.
 
@@ -324,7 +324,7 @@ Optional. Amount of time before the action times out. After the timeout expires,
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|ScriptableDataStream|An object used to iterate through items in the data stream. Use the methods in the ScriptableDataStream class to interact with this object. See [ScriptableDataStream API](../../ScriptableDataStream/concept/ScriptableDataStreamAPI.md#).|
+|ScriptableDataStream|An object used to iterate through items in the data stream. Use the methods in the ScriptableDataStream class to interact with this object. See [ScriptableDataStream API](ScriptableDataStreamAPI.md#).|
 
 This example creates an incident record for each item returned in the data stream.
 
@@ -370,7 +370,7 @@ Runs a flow from a server-side script synchronously.
 
 Execute a flow from within a business rule, script include, or any other server-side script. Flows run using this method run synchronously. Use **startFlow** to run a flow asynchronously.
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 **Note:** This method runs the flow as the user specified in flow properties.
 
@@ -426,7 +426,7 @@ Runs a flow, subflow, action, or Data Stream action from a server-side script sy
     This method does not support pausing a flow to run from a MID Server.
 
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -465,7 +465,7 @@ Runs an subflow from a server-side script synchronously.
 
 Execute a subflow from within a business rule, script include, or any other server-side script. Subflows run using this method run synchronously. Use **startSubflow** to run an subflow asynchronously.
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 **Note:** This method runs the flow as the user specified in flow properties.
 
@@ -524,7 +524,7 @@ Run a subflow from a server-side script synchronously from the current user sess
     This method does not support pausing a flow to run from a MID Server.
 
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -830,7 +830,7 @@ Returns the outputs of a completed action or subflow.
 
 You can use the return values from either the startAction\(\) orstartSubflow\(\) methods as the contextId parameter.
 
-**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
+**Note:** This API is replaced by [ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#), which deprecates the existing methods used to build objects and execute Workflow Studio flows and actions. Use the getRunner\(\) method in the FlowAPI class to return a ScriptableFlowRunner object and use the associated methods. Use the ScriptableFlowRunner methods if you need to support domain separation.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -879,7 +879,7 @@ Returns a ScriptableFlowRunner builder object for a flow or action that you want
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](../../ScriptableFlowRunnerScoped/concept/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example runs a flow synchronously.
 

@@ -61,5 +61,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Onboarding modals](../concept/next-experience-onboarding.md)
+**Parent Topic:**[Onboarding modals](next-experience-onboarding.md)
 

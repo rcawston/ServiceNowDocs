@@ -114,5 +114,5 @@ Contextual Condition
 Additional condition that must be true when the current condition is triggered. For example, you configure your condition to trigger when a record is in the New state. If you wanted to also specify that the **Priority** is high, you can do that using the **Contextual Condition** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](process-mining-reference.md)
 

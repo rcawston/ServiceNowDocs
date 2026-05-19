@@ -66,7 +66,7 @@ The BCM administrators can configure the details of a new impact category:
 
 ## Impact category configuration by BCM administrators
 
-For more information on how to configure an impact category with the sn\_bcm.admin role, see [Configure impact category for BIA](../task/configure-impact-category-uib-ws.md).
+For more information on how to configure an impact category with the sn\_bcm.admin role, see [Configure impact category for BIA](configure-impact-category-uib-ws.md).
 
 ## Impact ratings in BCM
 
@@ -109,7 +109,7 @@ The BCM administrators can configure details of an impact rating for the busines
 
 ## Impact rating configuration by the administrators
 
-For more information on how to configure an impact rating with the sn\_bcm.admin role, see [Configure impact ratings](../task/configure-impact-rating-uib-ws.md).
+For more information on how to configure an impact rating with the sn\_bcm.admin role, see [Configure impact ratings](configure-impact-rating-uib-ws.md).
 
 **Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
 

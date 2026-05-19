@@ -27,7 +27,7 @@ Story points for each story are listed in a ranked view, which is useful for pri
 
 ![Ranking story points](../image/RankingStoryPoints.png "Ranking story points")
 
--   **[Rank stories in a related list](../task/t_RankingStories.md)**  
+-   **[Rank stories in a related list](t_RankingStories.md)**  
 The Context Ranking feature enables all scrum users to manually sort a related list of stories by priority.
 
 **Parent Topic:**[Context ranking](r_ContextRanking.md)

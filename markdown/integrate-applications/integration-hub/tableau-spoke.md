@@ -67,5 +67,5 @@ The Tableau spoke provides the following user role to control access to data:
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For more information about setting up the spoke, see [Set up the Tableau spoke](../task/set-up-tableau-spoke.md).
+For more information about setting up the spoke, see [Set up the Tableau spoke](set-up-tableau-spoke.md).
 

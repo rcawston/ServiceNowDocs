@@ -52,7 +52,7 @@ Role required: admin, sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_g
 
 4.  Select **Save**.
 
-    A case is created with the service request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Records UI activity, this will display as the second activity. For more information, see [Configure the Similar Records Activity UI in Service Request Playbook](../task/psds-srp-configure-similar-records.md).
+    A case is created with the service request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Records UI activity, this will display as the second activity. For more information, see [Configure the Similar Records Activity UI in Service Request Playbook](psds-srp-configure-similar-records.md).
 
 5.  Review the similar records that are displayed in the Similar Records Activity UI, and determine whether any of them are a duplicate of the current case.
 

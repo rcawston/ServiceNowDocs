@@ -30,5 +30,5 @@ The ServiceNow Content Service team uses these data points to improve machine le
 
 You can opt out of Content Service at any time. If you opt out, no data from future imports is sent to the ServiceNow Content Service team, but your previously shared data is not deleted. If you would like to participate in Content Service but exclude some transactions from being shared with ServiceNow, you can select the **Exclude from content service** check box on those transaction records.
 
-**Parent Topic:**[Opt in to Content Service](../task/opt-in-content-service.md)
+**Parent Topic:**[Opt in to Content Service](opt-in-content-service.md)
 

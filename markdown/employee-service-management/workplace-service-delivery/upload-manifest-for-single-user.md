@@ -40,7 +40,7 @@ Role required: sn\_wsd\_msaddin.admin
 
 The Workplace Reservations for Microsoft Outlook Add-in is installed. The add-in appears while scheduling a meeting in the Outlook.
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 

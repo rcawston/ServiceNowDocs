@@ -56,7 +56,7 @@ When an agent creates a service request case task, the system uses information f
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Service Request Case Task form](../reference/service-request-case-form-new.md#).
+    For more information on the fields, see [Service Request Case Task form](service-request-case-form-new.md#).
 
 4.  Select **Save**.
 

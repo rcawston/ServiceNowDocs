@@ -69,5 +69,5 @@ With Dispatcher Workspace, you can manage work efficiently, simplify resource ma
 
 [Configuring Dispatcher Workspace](configuring-dispatcher-workspace.md)
 
-[Using Dispatcher Workspace](using-dispatcher-workspace.md)
+[Using Dispatcher Workspace](field-service-scheduling/using-dispatcher-workspace.md)
 

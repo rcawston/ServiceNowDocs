@@ -33,7 +33,7 @@ Role required: sn\_ohs\_im.meeting\_manager or sn\_ohs\_im.meeting\_writer
     -   To open an existing meeting, select the one that you want to track. Alternatively, to quickly edit the meeting, select the edit icon \(![edit icon](../../customer-service-management/image/icon-pencil-ac.png)\) in the list and start updating the meeting in the side panel.
 5.  On the form, fill in the fields.
 
-    For field descriptions, see [Health and Safety meeting form](../reference/hs-safety-meeting-form.md).
+    For field descriptions, see [Health and Safety meeting form](hs-safety-meeting-form.md).
 
 6.  Select **Save**.
 
@@ -51,7 +51,7 @@ Role required: sn\_ohs\_im.meeting\_manager or sn\_ohs\_im.meeting\_writer
 
 9.  In the **Actions** tab, select **New** to add any actions for the safety meeting.
 
-    For field descriptions, see [Health and Safety action form](../reference/hs-action-form.md).
+    For field descriptions, see [Health and Safety action form](hs-action-form.md).
 
 
 ## Result
@@ -63,7 +63,7 @@ Role required: sn\_ohs\_im.meeting\_manager or sn\_ohs\_im.meeting\_writer
 
 In the **Meeting minutes** tab, meeting minutes taker can add minutes of this meeting to track discussions and add any actions for the recorded minutes. You can add as many meeting minutes to a safety meeting as needed. For more information, see [Create a meeting minute for a safety meeting](create-meeting-minute-hs-safety-meeting.md).
 
-**Parent Topic:**[Managing safety meetings](../concept/managing-hs-safety-meetings.md)
+**Parent Topic:**[Managing safety meetings](managing-hs-safety-meetings.md)
 
 **Related topics**  
 

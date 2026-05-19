@@ -35,7 +35,7 @@ Role required: sn\_ot\_change\_write
 
 7.  Complete the playbook as needed as your team works on the change request.
 
-    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](../concept/basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](../concept/advanced-ot-change-model.md).
+    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](advanced-ot-change-model.md).
 
     The following fields are automatically populated depending on the conditions that you set.
 
@@ -50,5 +50,5 @@ Role required: sn\_ot\_change\_write
 
 The change request is created, and the users in the Assignment group, Assigned to, and Watch list fields are notified.
 
-**Parent Topic:**[Using Operational Technology Change Management](../concept/using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
 

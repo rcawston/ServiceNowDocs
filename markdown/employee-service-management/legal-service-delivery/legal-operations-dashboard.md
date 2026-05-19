@@ -225,5 +225,5 @@ Bar ![Bar icon.](../../performance-analytics/image/column-icon.png)
 Top 10 knowledge articles viewed the most number of times. The articles in this report are grouped by the short description of the articles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](../../application-content-packs/concept/legalsd-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](legalsd-content-pack.md)
 

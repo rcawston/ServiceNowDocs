@@ -23,34 +23,34 @@ By default, when you have the service provider plugin installed, the standard bu
 
 With all of these tables, except the Task table, you can override the domain that a record is created in. This gives you more customization options.
 
-**Parent Topic:**[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
 [Domain separation explained](bp-what-is-domain-separation.md)
 
-[Domain separation hierarchies](../reference/bp-domain-sep-hierarchies.md)
+[Domain separation hierarchies](bp-domain-sep-hierarchies.md)
 
 [Context and domain separation](bp-domain-sep-context.md)
 
-[Segregating and securing data with domain separation](../reference/bp-segregate-secure.md)
+[Segregating and securing data with domain separation](bp-segregate-secure.md)
 
-[Alternatives to domain separation](../reference/bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](../reference/bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](../reference/bp-advantages-dom-sep.md)
+[Benefits of domain separation](bp-advantages-dom-sep.md)
 
 [How a database query works with domain separation](bp-db-query-with-ds.md)
 
-[Domain separation levels of support](../reference/bp-domain-levels.md)
+[Domain separation levels of support](bp-domain-levels.md)
 
-[Service provider reference architecture](../reference/bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](../reference/bp-terms-conditions.md)
+[Domain separation terms](bp-terms-conditions.md)
 
-[Domain-separate a custom table](../reference/bp-ds-custom-table.md)
+[Domain-separate a custom table](bp-ds-custom-table.md)
 
 [Managing domain separation for specific uses](bp-emails-catalog-users.md)
 
@@ -74,7 +74,7 @@ With all of these tables, except the Task table, you can override the domain tha
 
 [Avoiding domain path in scripts](bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](../reference/bp-domain-assignment.md)
+[Domain assignments](bp-domain-assignment.md)
 
 [Domain separation and the Customer Service Management \(CSM\) plugin](bp-ds-and-csm.md)
 

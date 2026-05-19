@@ -40,7 +40,7 @@ The Mastercard Spoke includes actions that use Mastercom APIs to automate key di
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Automatically connects workflows with Mastercom and shows real-time updates to track cases easily.|[Enables seamless integration with Mastercard’s Mastercom API Suite and Mastercom Extended APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mastercard-spoke.md)|Administrator|
-|Uses predefined subflows with built-in error handling and retry logic to reduce development time and errors.|[Financial Services Operations Integration with Mastercard subflows](../reference/financial-services-operations-integration-with-mastercard-subflows.md)|Administrator|
+|Uses predefined subflows with built-in error handling and retry logic to reduce development time and errors.|[Financial Services Operations Integration with Mastercard subflows](financial-services-operations-integration-with-mastercard-subflows.md)|Administrator|
 
 ## What to explore next
 
@@ -48,5 +48,5 @@ To learn more about configuring Financial Services Operations Integration with M
 
 -   [Mastercard Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/mastercard-spoke.md)
 -   [Configuring Financial Services Operations Integration with Mastercard](configuring-financial-services-operations-integration-with-mastercard.md)
--   [Components installed with the Financial Services Operations Integration with Mastercard](../reference/components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
+-   [Components installed with the Financial Services Operations Integration with Mastercard](components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
 

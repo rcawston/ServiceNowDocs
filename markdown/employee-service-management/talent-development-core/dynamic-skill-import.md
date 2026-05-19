@@ -63,5 +63,5 @@ Important behavior - When a skill is mapped, a new entry is not created for the 
 
 ## Result
 
-The harmonized new skills are added to the skills library \(cmn\_skills table\) and updated in the credentials badge skills metadata. For more information, see [Achievements and Credentials in Talent Development Core](../../employee-service-management/concept/achievements-and-credentials-in-td.md).
+The harmonized new skills are added to the skills library \(cmn\_skills table\) and updated in the credentials badge skills metadata. For more information, see [Achievements and Credentials in Talent Development Core](achievements-and-credentials-in-td.md).
 

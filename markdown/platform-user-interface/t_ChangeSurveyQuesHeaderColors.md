@@ -32,5 +32,5 @@ One notable exception is the survey, which has its own CSS. It is possible to ch
     The survey should now use the desired color.
 
 
-**Parent Topic:**[Customizing instance appearance](../reference/customizing-instance-appearance.md)
+**Parent Topic:**[Customizing instance appearance](customizing-instance-appearance.md)
 

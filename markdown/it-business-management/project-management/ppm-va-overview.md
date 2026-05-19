@@ -58,9 +58,9 @@ For more information on integrating with Slack or Microsoft Teams, see [Setting 
 **Related topics**  
 
 
-[Install Virtual Agent for PPM](../task/activate-ppm-va.md)
+[Install Virtual Agent for PPM](activate-ppm-va.md)
 
-[Enable Virtual Agent for PPM](../task/setup-ppm-va.md)
+[Enable Virtual Agent for PPM](setup-ppm-va.md)
 
 [PPM Virtual Agent conversation flows](ppm-va-conversations.md)
 

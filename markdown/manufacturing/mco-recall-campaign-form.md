@@ -141,7 +141,7 @@ Additional notes, if any.
 **Related topics**  
 
 
-[Create a campaign](../concept/mco-rc-my-campaigns.md)
+[Create a campaign](mco-rc-my-campaigns.md)
 
-[View All campaigns](../concept/mco-rc-all-campaigns.md)
+[View All campaigns](mco-rc-all-campaigns.md)
 

@@ -31,12 +31,12 @@ Role required: sn\_compliance\_case\_admin
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values on the View Rule form, see [View Rule form](../reference/view-rule-form.md).
+    For a description of the field values on the View Rule form, see [View Rule form](view-rule-form.md).
 
 6.  Select **Submit**.
 
 
--   **[View Rule form](../reference/view-rule-form.md)**  
+-   **[View Rule form](view-rule-form.md)**  
 Use the View Rule form to define the workspace and default view rules in the GRC: Compliance Case Management application.
 
 **Parent Topic:**[Create a case type](create-case-type.md)

@@ -17,18 +17,18 @@ The RegressionSolutionVersion API is a scriptable object used in Predictive Inte
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-Use this API when working with solution versions based on [RegressionSolution API](../../RegressionSolution/concept/RegressionSolutionAPI.md#) objects in the [RegressionSolution store](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#).
+Use this API when working with solution versions based on [RegressionSolution API](RegressionSolutionAPI.md#) objects in the [RegressionSolution store](RegressionSolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
 Methods in this API are accessible using the following RegressionSolution methods:
 
--   [getActiveVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getAllVersions\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getLatestVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
+-   [getActiveVersion\(\)](RegressionSolutionAPI.md#)
+-   [getAllVersions\(\)](RegressionSolutionAPI.md#)
+-   [getLatestVersion\(\)](RegressionSolutionAPI.md#)
+-   [getVersion\(\)](RegressionSolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RegressionSolutionVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [RegressionSolution](RegressionSolutionAPI.md#) version details. Results vary by object property setup.```
 {
   "datasetProperties": {Object},
   "domainName": "String",
@@ -505,7 +505,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

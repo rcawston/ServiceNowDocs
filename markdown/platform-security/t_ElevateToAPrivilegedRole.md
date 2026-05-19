@@ -34,12 +34,12 @@ Role required: admin
 4.  End role elevation by returning to the dialog box in step 2, and deselecting the role.
 
 
-**Parent Topic:**[Elevated privilege roles](../concept/c_ElevatedPrivilege.md)
+**Parent Topic:**[Elevated privilege roles](c_ElevatedPrivilege.md)
 
 **Related topics**  
 
 
-[Security\_admin role](../concept/security-admin-role.md)
+[Security\_admin role](security-admin-role.md)
 
 [Force administrators to manually elevate](t_ForceAdmManElev.md)
 

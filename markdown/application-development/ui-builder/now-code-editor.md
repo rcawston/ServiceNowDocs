@@ -264,5 +264,5 @@ Use the side-by-side view icon ![now code editor side by side view](../image/nce
         ```
 
 
-**Parent Topic:**[Advanced UI Builder](../../ui-builder/concept/advanced-uib.md)
+**Parent Topic:**[Advanced UI Builder](advanced-uib.md)
 

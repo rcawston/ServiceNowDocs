@@ -72,9 +72,9 @@ Use the guided setup option to review the default configuration for the Telecomm
 
 ## Result
 
-After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [Telecommunications Customer 360 home page](../concept/c360-home-page.md) for details.
+After the cards have been configured, customer service agents can start using the Telecommunications Customer 360 application. See [Telecommunications Customer 360 home page](c360-home-page.md) for details.
 
--   **[Configure the Telecommunications Customer 360 variables](../concept/c360-configure-variables.md)**  
+-   **[Configure the Telecommunications Customer 360 variables](c360-configure-variables.md)**  
 Configure the properties for each card, such as data tables, query conditions, and display fields.
 
 **Parent Topic:**[Configure Telecommunications Customer 360](c360-configure.md)

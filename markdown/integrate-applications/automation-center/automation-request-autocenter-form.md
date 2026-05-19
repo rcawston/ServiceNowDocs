@@ -272,5 +272,5 @@ Additional comments \(Customer visible\)
 Notes that are visible to the customer.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automation Center reference](../concept/automation-center-reference.md)
+</table>**Parent Topic:**[Automation Center reference](automation-center-reference.md)
 

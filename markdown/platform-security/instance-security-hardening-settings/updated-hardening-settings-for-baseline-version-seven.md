@@ -25,7 +25,7 @@ Updates
 
 </th></tr></thead><tbody><tr><td>
 
-[Enable relay state in SAML requests to prevent replay attacks](../reference/sc-enable-relay-state-in-saml-requests-to-prevent-replay-attacks.md)
+[Enable relay state in SAML requests to prevent replay attacks](sc-enable-relay-state-in-saml-requests-to-prevent-replay-attacks.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ The relay state enabled by this system property helps protect your instance agai
 
 </td></tr><tr><td>
 
-[Disable local login for users with Single Sign-On \(SSO\) enabled](../reference/sc-disable-local-login-for-users-with-single-sign-on-sso-enabled.md)
+[Disable local login for users with Single Sign-On \(SSO\) enabled](sc-disable-local-login-for-users-with-single-sign-on-sso-enabled.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Review Now Support Knowledge Base article KB1649420 for instructions on identify
 
 </td></tr><tr><td>
 
-[Disable legacy JQuery UI usage](../reference/sc-disable-legacy-jquery-ui-usage.md)
+[Disable legacy JQuery UI usage](sc-disable-legacy-jquery-ui-usage.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Fallback Value
 
 </td></tr><tr><td>
 
-[Enforce application specific ACLs only for application data](../reference/sc-enforce-application-specific-acls-only-for-application-data.md)
+[Enforce application specific ACLs only for application data](sc-enforce-application-specific-acls-only-for-application-data.md)
 
 </td><td>
 
@@ -267,7 +267,7 @@ for (var i = 0; i < properties.length; i++) {
 
 </td></tr><tr><td>
 
-[Prevent impersonating user from viewing application data](../reference/sc-prevent-impersonating-user-from-viewing-application-data.md)
+[Prevent impersonating user from viewing application data](sc-prevent-impersonating-user-from-viewing-application-data.md)
 
 </td><td>
 
@@ -355,7 +355,7 @@ for (var i = 0; i < properties.length; i++) {
 
 </td></tr><tr><td>
 
-[Escape JavaScript \[Updated in Security Center 1.3\]](../reference/sc-escape-javascript.md)
+[Escape JavaScript \[Updated in Security Center 1.3\]](sc-escape-javascript.md)
 
 </td><td>
 
@@ -371,7 +371,7 @@ The property "glide.html.escape\_script" helps sanitize HTML fields. If "glide.h
 
 </td></tr><tr><td>
 
-[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](../reference/sc-html-sanitizer.md)
+[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](sc-html-sanitizer.md)
 
 </td><td>
 
@@ -387,7 +387,7 @@ This property controls sanitization behavior of HTML fields on a global level fr
 
 </td></tr><tr><td>
 
-[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-escape-jelly.md)
+[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](sc-escape-jelly.md)
 
 </td><td>
 
@@ -425,7 +425,7 @@ Without the script sandbox, unauthorized/unauthenticated users can execute arbit
 
 </td></tr><tr><td>
 
-[Disallow target cloning \[New in Security Center 1.3\]](../reference/sc-disallow-target-cloning.md)
+[Disallow target cloning \[New in Security Center 1.3\]](sc-disallow-target-cloning.md)
 
 </td><td>
 
@@ -459,7 +459,7 @@ Set the glide.db.clone.allow\_clone\_target system property to false on producti
 
 </td></tr><tr><td>
 
-[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](../../security/reference/sc-enable-explicit-roles-internal-denylist.md)
+[Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]](sc-enable-explicit-roles-internal-denylist.md)
 
 </td><td>
 
@@ -495,7 +495,7 @@ Misconfiguration of this property increases the risk that an external user accou
 
 </td></tr><tr><td>
 
-[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](../reference/sc-restrict-oauth-parameters-to-post-body.md)
+[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](sc-restrict-oauth-parameters-to-post-body.md)
 
 </td><td>
 
@@ -541,7 +541,7 @@ If glide.oauth.allow.parameters.in.post.body.only isn't set to the recommended v
 
 </td></tr><tr><td>
 
-[Enforce GroupBy ACLs](../reference/sc-enforce-groupby-acls.md)
+[Enforce GroupBy ACLs](sc-enforce-groupby-acls.md)
 
 </td><td>
 
@@ -575,7 +575,7 @@ ACLs on groupby columns will be enforced by default for tables.
 
 </td></tr><tr><td>
 
-[Require XMLdoc2 entity validation with allowlist](../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
+[Require XMLdoc2 entity validation with allowlist](sc-xmldoc2-entity-validation-with-entity-expansion.md)
 
 </td><td>
 
@@ -610,7 +610,7 @@ Ensure the property "glide.stax.whitelist\_enabled" is set to "true" when the Gl
 
 </td></tr><tr><td>
 
-[Define restricted downloadable MIME types \[Updated in Security Center 1.3, 1.5, and 2.0\]](../reference/sc-downloadable-mime-types.md)
+[Define restricted downloadable MIME types \[Updated in Security Center 1.3, 1.5, and 2.0\]](sc-downloadable-mime-types.md)
 
 </td><td>
 
@@ -666,7 +666,7 @@ text/html,image/svg,image/svg+xml,application/xml
 
 </td></tr><tr><td>
 
-[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](../reference/sc-escape-html.md)
+[Escape HTML in list views \[Updated in Security Center 1.3 and 1.5\]](sc-escape-html.md)
 
 </td><td>
 
@@ -703,7 +703,7 @@ By default, HTML can be rendered \(and is sanitized\) in form view. This same be
 
 </td></tr><tr><td>
 
-[Minimize reset password max SMS per day](../reference/sc-reset-password-max-sms-per-day.md)
+[Minimize reset password max SMS per day](sc-reset-password-max-sms-per-day.md)
 
 </td><td>
 
@@ -719,7 +719,7 @@ By default, HTML can be rendered \(and is sanitized\) in form view. This same be
 
 </td></tr><tr><td>
 
-[Disallow infected file download](../reference/sc-disallow-infected-files-download.md)
+[Disallow infected file download](sc-disallow-infected-files-download.md)
 
 </td><td>
 
@@ -730,7 +730,7 @@ Out of box value
 
 </td></tr><tr><td>
 
-[Restrict unauthenticated access to attachments](../reference/sc-restrict-unauthenticated-access-attachments.md)
+[Restrict unauthenticated access to attachments](sc-restrict-unauthenticated-access-attachments.md)
 
 </td><td>
 
@@ -758,7 +758,7 @@ Restriction should be applied for unauthenticated users as some attachments migh
 
 </td></tr><tr><td>
 
-[Activate role based multi-factor authentication](../reference/sc-role-based-multi-factor-authentication.md)
+[Activate role based multi-factor authentication](sc-role-based-multi-factor-authentication.md)
 
 </td><td>
 
@@ -769,7 +769,7 @@ CVSS Score
 
 </td></tr><tr><td>
 
-[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](../reference/sc-managing-unlock-timeout-after-failed-logins.md)
+[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](sc-managing-unlock-timeout-after-failed-logins.md)
 
 </td><td>
 
@@ -799,7 +799,7 @@ The "SNC User Lockout Check with Auto Unlock" is installed with the High Securit
 
 </td></tr><tr><td>
 
-[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](../reference/sc-managing-unlock-timeout-after-failed-logins.md)
+[Maximize failed login unlock timeout duration \[Updated in Security Center 1.3\]](sc-managing-unlock-timeout-after-failed-logins.md)
 
 </td><td>
 
@@ -818,7 +818,7 @@ Additionally, ensure the property "glide.user.max\_unlock\_attempts" is set to "
 
 </td></tr><tr><td>
 
-[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](../reference/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
+[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
 
 </td><td>
 
@@ -860,7 +860,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](../reference/sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
+[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
 
 </td><td>
 
@@ -873,7 +873,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Limit maximum number of attachments in email](../reference/sc-limit-maximum-number-of-attachments-in-email.md)
+[Limit maximum number of attachments in email](sc-limit-maximum-number-of-attachments-in-email.md)
 
 </td><td>
 
@@ -889,7 +889,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Enable protected tables plugin](../reference/sc-enable-protected-tables-plugin.md)
+[Enable protected tables plugin](sc-enable-protected-tables-plugin.md)
 
 </td><td>
 
@@ -928,7 +928,7 @@ The integrity of logs is important for determining malicious activity on an inst
 
 </td></tr><tr><td>
 
-[Ensure dashboards creation/deletion requires access check \[New in Security Center 1.3 and updated in 2.0\]](../reference/sc-ensure-dashboards-creation-deletion-requires-access-check.md)
+[Ensure dashboards creation/deletion requires access check \[New in Security Center 1.3 and updated in 2.0\]](sc-ensure-dashboards-creation-deletion-requires-access-check.md)
 
 </td><td>
 
@@ -962,7 +962,7 @@ Set the glide.processors.check\_access\_before\_process system property to true.
 
 </td></tr><tr><td>
 
-[Define active session timeout exception roles](../reference/sc-define-active-session-timeout-exception-roles.md)
+[Define active session timeout exception roles](sc-define-active-session-timeout-exception-roles.md)
 
 </td><td>
 
@@ -1001,7 +1001,7 @@ Configure the glide.active.session.timeout.exception.roles property to roles whi
 
 </td></tr><tr><td>
 
-[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](../reference/sc-limit-http-response-body-size.md)
+[Limit HTTP response body size \[New in Security Center 1.3 and updated in 1.5\]](sc-limit-http-response-body-size.md)
 
 </td><td>
 

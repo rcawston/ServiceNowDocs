@@ -44,12 +44,12 @@ The **Elevate access** option is available only to the primary supplier contact 
 
 The Primary contact column is set to **true** for this contact on the Vendor Contacts page, and the contact is elevated to the primary contact role.
 
-**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+**Parent Topic:**[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 **Related topics**  
 
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
 [Restrict the primary contact role for a contact from the Supplier Collaboration Portal](restrict-contact-portal.md)
 

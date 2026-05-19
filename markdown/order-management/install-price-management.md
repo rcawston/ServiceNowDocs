@@ -27,7 +27,7 @@ The following items are installed with Pricing Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Pricing Management](../reference/components-installed-with-pricing-management.md).
+For more information, see [Components installed with Pricing Management](components-installed-with-pricing-management.md).
 
 ## Procedure
 

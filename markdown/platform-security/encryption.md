@@ -28,21 +28,21 @@ Key Management refers to the activities involved in handling your cryptographic 
 
 <table id="table_y4x_cxd_nzb" class="nav-card"><tbody><tr><td>
 
-[Exploring the Key Management Framework![](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-kmf.md)
+[Exploring the Key Management Framework![](../../../reuse/icons/brand-icons/bus-explore.svg)](platform-encryption/explore-kmf.md)
 
- [Learn about the components of the Key Management Framework, and how to use them to manage how cryptographic operations are performed on your instance.](explore-kmf.md)
-
-</td><td>
-
-[Configuring the Key Management Framework![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](configure-kmf.md)
-
- [Create and maintain Key Management components to customize and manage how cryptographic operations are performed on your ServiceNow instance.](configure-kmf.md)
+ [Learn about the components of the Key Management Framework, and how to use them to manage how cryptographic operations are performed on your instance.](platform-encryption/explore-kmf.md)
 
 </td><td>
 
-[Key Management Framework Reference![](../../../reuse/icons/brand-icons/bus-case-study.svg)](../../key-management-framework/concept/understanding-kmf.md)
+[Configuring the Key Management Framework![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](platform-encryption/configure-kmf.md)
 
- [Review additional Key Management reference materials](../../key-management-framework/concept/understanding-kmf.md)
+ [Create and maintain Key Management components to customize and manage how cryptographic operations are performed on your ServiceNow instance.](platform-encryption/configure-kmf.md)
+
+</td><td>
+
+[Key Management Framework Reference![](../../../reuse/icons/brand-icons/bus-case-study.svg)](platform-encryption/understanding-kmf.md)
+
+ [Review additional Key Management reference materials](platform-encryption/understanding-kmf.md)
 
 </td></tr><tr><td>
 
@@ -50,9 +50,9 @@ Key Management refers to the activities involved in handling your cryptographic 
 
 </td><td>
 
-[Key Management Framework actions![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../../key-management-framework/reference/key-management-actions.md)
+[Key Management Framework actions![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](platform-encryption/key-management-actions.md)
 
- [One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date encryption materials and life cycle operations.](../../key-management-framework/reference/key-management-actions.md)
+ [One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date encryption materials and life cycle operations.](platform-encryption/key-management-actions.md)
 
 </td><td>
 
@@ -63,30 +63,30 @@ Key Management refers to the activities involved in handling your cryptographic 
 
 The ServiceNow Platform Encryption subscription bundle is a group commercial entitlement that includes Key Management Framework, Field Encryption Enterprise, Cloud Encryption, and Database Encryption.
 
-Field Encryption Enterprise is the unlimited license of Field Encryption. The Field Encryption Enterprise plugin is available with the activation of the com.glide.now.platform.encryption plugin. For details, see [Encryption and Key Management subscription bundle](../reference/encryption-sku.md).
+Field Encryption Enterprise is the unlimited license of Field Encryption. The Field Encryption Enterprise plugin is available with the activation of the com.glide.now.platform.encryption plugin. For details, see [Encryption and Key Management subscription bundle](platform-encryption/encryption-sku.md).
 
 **Note:** KMF doesn’t support domain separation, but can be used with on-premise instances.
 
--   **[Exploring the Key Management Framework](explore-kmf.md)**  
+-   **[Exploring the Key Management Framework](platform-encryption/explore-kmf.md)**  
 Learn about the components of the Key Management Framework \(KMF\), and how to use them to manage how cryptographic operations are performed on your instance.
--   **[Configuring the Key Management Framework](configure-kmf.md)**  
+-   **[Configuring the Key Management Framework](platform-encryption/configure-kmf.md)**  
 Create and maintain Key Management components to customize and manage how cryptographic operations are performed on your ServiceNow instance.
--   **[Key Management Framework Reference](../../key-management-framework/concept/understanding-kmf.md)**  
+-   **[Key Management Framework Reference](platform-encryption/understanding-kmf.md)**  
 The Key Management Framework \(KMF\) API/UX lets you fully customize and manage how cryptographic operations are performed on your ServiceNow instance. The ServiceNow Key Management Framework provides a secure and comprehensive interface for instance-side cryptographic key management services.
--   **[Key management actions](../../key-management-framework/reference/key-management-actions.md)**  
+-   **[Key management actions](platform-encryption/key-management-actions.md)**  
 One of the core features of KMF is to provide the capability  to manage  keys, such as revoking or rotating keys.  KMF properly secures sensitive data with the most up-to-date encryption materials and life cycle operations.
--   **[Import a key from a web service](../../key-management-framework/concept/import-key-webservice-1.md#)**  
+-   **[Import a key from a web service](platform-encryption/import-key-webservice-1.md#)**  
 Securely upload an external customer key onto your instance using import a key from a web service \(for example the key REST API\). Both symmetric and asymmetric public keys can be imported into a targeted KMF cryptographic module.
--   **[Key Management Framework Health](../../key-management-framework/task/kmf_diagnostics.md)**  
+-   **[Key Management Framework Health](platform-encryption/kmf_diagnostics.md)**  
 Access on-demand health status information for the Key Management Framework. Warning and malfunction errors contain a detailed message.
--   **[Prepare your instance for GlideEncrypter deprecation](../../key-management-framework/task/check-3des.md)**  
+-   **[Prepare your instance for GlideEncrypter deprecation](platform-encryption/check-3des.md)**  
 Use an instance scan script to find and remove GlideEncrypter API calls on your instance. Removing these calls is a necessary step in deprecating 3DES encryption on your instance.
--   **[Key Management Framework Resource Exchange](../../key-management-framework/reference/resource-exchange.md)**  
+-   **[Key Management Framework Resource Exchange](platform-encryption/resource-exchange.md)**  
 ServiceNow® Resource Exchange is a KMF feature that gives you the capability to exchange resources between instances in a secure manner.
--   **[Infrastructure Security](../../key-management-framework/concept/infrastructure-security.md)**  
+-   **[Infrastructure Security](platform-encryption/infrastructure-security.md)**  
 Use Infrastructure security tools to create, upload, and manage certificates your instance uses to encrypt traffic from client to server.
--   **[Password2 encryption with the Key Management Framework \(KMF\)](../../key-management-framework/concept/password-2way-encrypted-fields.md)**  
+-   **[Password2 encryption with the Key Management Framework \(KMF\)](platform-encryption/password-2way-encrypted-fields.md)**  
 Supported by the Key Management Framework, use the Password2 \(2-way encrypted\) field type to encrypt and decrypt custom fields with segregation of duties, key protection, and life-cycle management. It works in accordance with NIST 800-57 guidelines and provides FIPS 140-2-L3 protection.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](encryption-landing.md)
 

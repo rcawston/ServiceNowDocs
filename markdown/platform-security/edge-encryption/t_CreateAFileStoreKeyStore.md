@@ -54,7 +54,7 @@ Place the encryption key, exactly 32 bytes, into the file.
 
     2.  Open the `edgeencryption.properties` file.
 
-    3.  Enter the properties for the [file store](../reference/edge-encryption-proxy-server-properties.md).
+    3.  Enter the properties for the [file store](edge-encryption-proxy-server-properties.md).
 
     4.  Save and close the file.
 

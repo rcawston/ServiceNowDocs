@@ -76,5 +76,5 @@ Role required: sn\_si.admin or sn\_si.manager
 16. Select **View all properties** and enable the **Advanced properties** toggle to display all the activity experience fields from the activity definition.
 
 
-**Parent Topic:**[Playbook for Failed Login Manual](../concept/playbook-failed-login.md)
+**Parent Topic:**[Playbook for Failed Login Manual](playbook-failed-login.md)
 

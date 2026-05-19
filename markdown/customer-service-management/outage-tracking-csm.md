@@ -46,13 +46,13 @@ This feature requires the Proactive Customer Service Operations Management plugi
 **Related topics**  
 
 
-[Associate an outage to a major case](../task/associate-outage-case.md)
+[Associate an outage to a major case](associate-outage-case.md)
 
-[Create an outage from a major case](../task/track-outages-csm.md)
+[Create an outage from a major case](track-outages-csm.md)
 
-[Track outages for install base items](../task/track-outages-aw.md)
+[Track outages for install base items](track-outages-aw.md)
 
-[Proactive Customer Service - Advanced dashboard](csm-proactive-monit-dashboard.md)
+[Proactive Customer Service - Advanced dashboard](analytics-and-reporting-solutions-for-customer-service/csm-proactive-monit-dashboard.md)
 
-[View install base information from the Customer Service Portal](../task/view-install-base-info.md)
+[View install base information from the Customer Service Portal](view-install-base-info.md)
 

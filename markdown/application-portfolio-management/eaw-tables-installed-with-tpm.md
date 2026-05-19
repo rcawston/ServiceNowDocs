@@ -64,5 +64,5 @@ TPM Technology Risk \[sn\_apm\_tpm\_technology\_risk\]
 Stores the TPM technology risk information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate the Technology Portfolio Management \(TPM\) plugin](../../task/eaw-task/eaw-install-tpm.md)
+</table>**Parent Topic:**[Activate the Technology Portfolio Management \(TPM\) plugin](eaw-install-tpm.md)
 

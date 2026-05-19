@@ -31,7 +31,7 @@ Before the list editor opens, access rights to edit the field are verified. If t
 
     The appropriate editor for the field type opens.
 
-    **Note:** You can enable single-click editing from the [list personalization interface](../concept/c_PersonalLists.md#). You can also use keyboard navigation to access the list editor.
+    **Note:** You can enable single-click editing from the [list personalization interface](c_PersonalLists.md#). You can also use keyboard navigation to access the list editor.
 
 2.  Enter the appropriate values.
 
@@ -66,7 +66,7 @@ Before the list editor opens, access rights to edit the field are verified. If t
     **Note:** Certain browsers use different key combinations to edit certain field values. For example, to edit a list using Chrome, press the Spacebar.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](r_MethodsForListEdits.md)
 
 **Related topics**  
 

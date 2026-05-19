@@ -77,7 +77,7 @@ Do the following
 
 [Set up Nokia Altiplano](initial-setup-procedure.md)
 
-[Mapping Nokia Altiplano CIs and Relationships in CMDB](../concept/data-mapping.md)
+[Mapping Nokia Altiplano CIs and Relationships in CMDB](data-mapping.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](properties-installed-with-nokia-altiplano.md)
 

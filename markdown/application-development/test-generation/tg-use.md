@@ -19,7 +19,7 @@ Starting with the Australia release, Test generation is being prepared for futur
 
 Implement the following within the Test generation application to automatically generate comprehensive tests.
 
--   **[Generate a test using Test generation](../task/tg-implement.md)**  
+-   **[Generate a test using Test generation](tg-implement.md)**  
 Simplify and automate your testing process with Test generation. Describe your desired test, and Now Assist empowered Test generation application automatically generates the necessary tests.
 -   **[Edit a generated test using Test generation](tg-edit-test.md)**  
 You can edit a Test generation generated test after the preview is generated in the test generation process.

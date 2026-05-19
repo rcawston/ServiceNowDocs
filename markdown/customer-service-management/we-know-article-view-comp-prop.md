@@ -33,11 +33,11 @@ Component property enables you to configure the behavior of the Knowledge articl
 **Related topics**  
 
 
-[Configure the Knowledge article view component instance](../task/config-know-article-view-comp.md)
+[Configure the Knowledge article view component instance](customer-self-service-and-omnichannel-engagement/config-know-article-view-comp.md)
 
-[Embed the Knowledge article view component instance on the third-party website](../task/embed-know-article-view-comp.md)
+[Embed the Knowledge article view component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-know-article-view-comp.md)
 
 [Event handler in the Knowledge article view component](we-know-article-view-event-handler.md)
 
-[Sample code for the Knowledge article view component](we-know-article-view-sample-code.md)
+[Sample code for the Knowledge article view component](customer-self-service-and-omnichannel-engagement/we-know-article-view-sample-code.md)
 

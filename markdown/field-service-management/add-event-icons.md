@@ -19,7 +19,7 @@ Role required: wm\_admin
 
 ## About this task
 
-The icon in the top left indicates work type. The first icon on the bottom right indicates if the task is a crew task, and the second icon on the bottom right indicates if the task is locked. See [Calendar event icons in Dispatcher Workspace](../reference/calendar-event-icons.md) for the full list of calendar event icons.
+The icon in the top left indicates work type. The first icon on the bottom right indicates if the task is a crew task, and the second icon on the bottom right indicates if the task is locked. See [Calendar event icons in Dispatcher Workspace](calendar-event-icons.md) for the full list of calendar event icons.
 
 For information on changing the icon graphic for calendar events, see [Change the graphic for calendar event icons](customize-icons-dispatcher-wrkspc.md).
 

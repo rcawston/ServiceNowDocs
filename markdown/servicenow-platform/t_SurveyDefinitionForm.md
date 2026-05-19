@@ -36,7 +36,7 @@ Role required: admin or survey\_admin
 6.  To remove survey users, in the **Survey Users** related list, select the check box beside the user, and then select **Delete** from the action list below the list.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 

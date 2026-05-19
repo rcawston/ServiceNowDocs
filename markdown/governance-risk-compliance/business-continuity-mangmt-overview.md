@@ -48,7 +48,7 @@ For more information on Business Continuity Management, see [Exploring Business 
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with BCM](../reference/installed-with-bcm.md#)
+[Reference![](../../../reuse/icons/brand-icons/bus-profile.svg)Components installed with BCM](installed-with-bcm.md#)
 
 </td></tr></tbody>
 </table>## Support for Business Continuity Management UI Builder Workspace

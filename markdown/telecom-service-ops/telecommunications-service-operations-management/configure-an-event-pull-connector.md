@@ -52,7 +52,7 @@ Role required: TSOM Assurance admin
     The tiles appear under the **Installed Integrations** tab.
 
 
-**Parent Topic:**[Configure Telecom Assurance](../concept/set-up-fault-management.md)
+**Parent Topic:**[Configure Telecom Assurance](set-up-fault-management.md)
 
 **Related topics**  
 

@@ -54,9 +54,9 @@ When configuring an allow list, include your organization's websites. Work with 
 
 ## What to do next
 
--   [Create an AI agent](../concept/create-ai-agents-ad.md)
--   [Add an adaptive desktop action tool to an AI agent for web-based tasks](../concept/create-web-actions.md)
+-   [Create an AI agent](create-ai-agents-ad.md)
+-   [Add an adaptive desktop action tool to an AI agent for web-based tasks](create-web-actions.md)
 -   [Create an agentic workflow for automating web tasks](na-ai-wa-configure-workflow.md)
 
-**Parent Topic:**[Configuration for adaptive path desktop actions](../concept/ad-adaptive-path-da.md)
+**Parent Topic:**[Configuration for adaptive path desktop actions](ad-adaptive-path-da.md)
 

@@ -55,5 +55,5 @@ Type live agent in the chat or choose **Contact Live Agent** from the Support op
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Employee experience in Simplified IT Service Management](../concept/employee-experience-native-ai-itsm.md)
+**Parent Topic:**[Employee experience in Simplified IT Service Management](employee-experience-native-ai-itsm.md)
 

@@ -28,11 +28,11 @@ NLU entities fall into two categories: system and user-defined. System entities 
 
 There are five types of user-defined entities. Select one of the following links to learn more.
 
--   [Create a simple entity](../task/create-nlu-entities.md)
--   [Create a mapped entity](../task/create-mapped-entity-lookup-source.md)
--   [Create a pattern entity](../task/create-pattern-entity.md)
--   [Create a system-derived entity](../task/create-system-derived-entity.md)
--   [Create an open-ended entity](../task/create-open-ended-entity.md)
+-   [Create a simple entity](create-nlu-entities.md)
+-   [Create a mapped entity](create-mapped-entity-lookup-source.md)
+-   [Create a pattern entity](create-pattern-entity.md)
+-   [Create a system-derived entity](create-system-derived-entity.md)
+-   [Create an open-ended entity](create-open-ended-entity.md)
 
 When you create entities, annotate them on utterances to provide examples to help your model learn. By annotating entities, you provide your model with linguistic associations and meaningful context for the system vocabulary. Annotations strengthen the relevance of entities and help your model perform the correct action in response to your users' inputs.
 

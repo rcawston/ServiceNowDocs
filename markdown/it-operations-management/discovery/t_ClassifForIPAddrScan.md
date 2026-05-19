@@ -62,7 +62,7 @@ To use IP address classification, follow these steps:
 
 4.  In the Classification Criteria related list, create a criteria filter that determines when this classifier applies to the discovered devices.
 
-    See the [IP address classification parameters](../reference/classification-parameters.md) for a list of the parameters you can use.
+    See the [IP address classification parameters](classification-parameters.md) for a list of the parameters you can use.
 
 
 ## What to do next

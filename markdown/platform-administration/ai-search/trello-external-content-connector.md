@@ -22,11 +22,11 @@ The indexed content and metadata are stored as records in a connector-specific i
 
 **Note:** The Trello external content connector only retrieves searchable content and metadata from boards that can be accessed by all users in your Trello enterprise. It does not retrieve content and metadata from secure boards.
 
--   **[Configure Trello for external content indexing](../task/configure-trello-external-content-indexing.md)**  
+-   **[Configure Trello for external content indexing](configure-trello-external-content-indexing.md)**  
 Create and authorize a Power-Up in the Trello Power-Up Admin Portal to allow the Trello external content connector to access your Trello source system.
--   **[Create a Trello external content connector](../task/create-ext-cont-connector-trello.md)**  
+-   **[Create a Trello external content connector](create-ext-cont-connector-trello.md)**  
 Create an external content connector to retrieve searchable content from your Trello source system.
--   **[Configure crawl settings for a Trello external content connector](../task/configure-crawl-settings-trello-external-content-connector.md)**  
+-   **[Configure crawl settings for a Trello external content connector](configure-crawl-settings-trello-external-content-connector.md)**  
 Specify the workspaces you want your Trello external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -34,5 +34,5 @@ Specify the workspaces you want your Trello external content connector to crawl.
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 

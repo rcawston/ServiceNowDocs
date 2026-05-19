@@ -67,5 +67,5 @@ Starting with Version 10.1 of Policy and Compliance Management, if you have inst
 6.  To create a new list view to see policy exception target records on the Policy Exception form, see [KB0783018](https://support.servicenow.com/kb_view.do?sysparm_article=KB0783018).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](allow-other-app-policy-except.md)
 

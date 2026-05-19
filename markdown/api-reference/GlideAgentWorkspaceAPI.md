@@ -17,7 +17,7 @@ The g\_aw API provides methods that enable a UI action or client script to open 
 
 There is no constructor for this class. Access GlideAgentWorkspace methods using the `g_aw` global object.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## GlideAgentWorkspace - closeRecord\(\)
 

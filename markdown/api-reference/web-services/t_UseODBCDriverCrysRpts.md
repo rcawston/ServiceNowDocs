@@ -42,5 +42,5 @@ After installing the ODBC driver and its associated DSN, use it in Crystal Repor
     ![Rendered Crystal Report](../image/RenderedCrystalReport.png)
 
 
-**Parent Topic:**[ODBC and client applications](../reference/r_ODBCAndClientApplications.md)
+**Parent Topic:**[ODBC and client applications](r_ODBCAndClientApplications.md)
 

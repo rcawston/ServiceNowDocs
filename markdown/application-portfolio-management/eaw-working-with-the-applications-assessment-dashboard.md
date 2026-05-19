@@ -37,10 +37,10 @@ On applying any filter, the filter criteria are applied to all available widgets
 
 You can manually refresh the dashboard by using the refresh icon \(![Refresh dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-refresh-icon.png)\).
 
-**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
+**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](eaw-exploring-dashboards-in-ea-workspace.md)
 
 **Related topics**  
 
 
-[View the performance of applications using the Application Assessments dashboard](../task/eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard.md)
+[View the performance of applications using the Application Assessments dashboard](eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard.md)
 

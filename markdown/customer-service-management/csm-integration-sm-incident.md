@@ -35,7 +35,7 @@ The following roles enable customer service agents to view and create incidents 
 -   sn\_incident\_read
 -   sn\_incident\_write
 
-For more information, see [Assign CSM/ITSM integration roles](../task/assign-csm-itsm-integration-roles.md#).
+For more information, see [Assign CSM/ITSM integration roles](assign-csm-itsm-integration-roles.md#).
 
 ## Determining the incident priority, impact, and urgency
 

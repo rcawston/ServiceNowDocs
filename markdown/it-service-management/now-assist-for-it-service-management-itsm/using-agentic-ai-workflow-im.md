@@ -21,7 +21,7 @@ Use the ITSM Incident Management agentic workflows to manage, resolve and close 
 To access the agentic workflow for Incident Management, make sure that you install the following applications:
 
 1.  Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
-2.  Incident Management application. For more information, see [Configuring Incident Management](../../incident-management/concept/incident-configuration.md).
+2.  Incident Management application. For more information, see [Configuring Incident Management](../incident-management/incident-configuration.md).
 
 **Note:**
 

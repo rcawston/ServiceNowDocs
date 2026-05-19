@@ -24,7 +24,7 @@ Role required: pa\_admin, admin
 
 ## About this task
 
-Every Platform Analytics Solution includes a periodic [data collection job](../concept/performance-analytics-glossary.md#).
+Every Platform Analytics Solution includes a periodic [data collection job](performance-analytics-glossary.md#).
 
 ## Procedure
 
@@ -66,11 +66,11 @@ After the next collection period, the dashboards and widgets should show scores 
 
 Check the **Job Logs** to see if the job ran successfully after the next period.
 
-**Parent Topic:**[Collect data for Platform Analytics Solutions](../concept/collect-data-nowintel-solutions.md)
+**Parent Topic:**[Collect data for Platform Analytics Solutions](collect-data-nowintel-solutions.md)
 
 **Previous topic:**[Run historical data collection for a Platform Analytics Solution](historical-data-nowintel-solution.md)
 
-**Next topic:**[Automation Discovery](../../../administer/automation-discovery/concept/automation-discovery.md)
+**Next topic:**[Automation Discovery](../automation-discovery.md)
 
 **Related topics**  
 

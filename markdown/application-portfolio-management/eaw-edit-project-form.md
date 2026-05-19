@@ -133,5 +133,5 @@ One or more business capabilities to associate the project with.
 **Related topics**  
 
 
-[Edit a project associated with a business application](../../task/eaw-task/eaw-edit-a-project-associated-with-a-business-application.md)
+[Edit a project associated with a business application](eaw-edit-a-project-associated-with-a-business-application.md)
 

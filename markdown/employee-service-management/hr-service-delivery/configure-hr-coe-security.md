@@ -60,7 +60,7 @@ Role required: sn\_hr\_core.admin, sn\_hr\_le.admin
 
 11. Select **Edit** to associate groups to the COE security policy.
 
-    For more information on Groups, see [Manage HR Groups](../task/t_ManageHRGroups.md).
+    For more information on Groups, see [Manage HR Groups](t_ManageHRGroups.md).
 
 12. Move the groups you want associated with the COE security policy you are defining from the Collection column to the Groups List column.
 

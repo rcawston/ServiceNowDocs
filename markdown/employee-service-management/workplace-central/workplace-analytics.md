@@ -35,7 +35,7 @@ The ServiceNow Workplace Analytics dashboard displays key metrics that enable yo
 
 ## Accessing Workplace Analytics
 
-To access Workplace Analytics, Workplace Central must be installed. For more information, see [Install Workplace Central](../task/install-workplace-central.md).
+To access Workplace Analytics, Workplace Central must be installed. For more information, see [Install Workplace Central](install-workplace-central.md).
 
 You can access Workplace Analytics by using one of the following methods:
 
@@ -53,11 +53,11 @@ For more information about how to use Workplace Analytics, see [Working with Wor
 
 [Space Planning](space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](../workplace-space-management/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](../workplace-space-management/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](../workplace-space-management/schedule-planning.md)
 
 [Space assistance](space-assistance.md)
 

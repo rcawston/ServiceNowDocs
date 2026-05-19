@@ -29,5 +29,5 @@ Citations with similar incidents and relevant knowledge articles appear in the S
 
 ![Citations in the output of an executed agentic workflow with sources on the Now Assist panel.](../image/aia-citations-nap.png)
 
-You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [Disable citations in AI Agent Studio](../task/aia-hide-citations.md).
+You can hide citations for specific agentic workflows or AI agents where it’s necessary or confidential. For more information, see [Disable citations in AI Agent Studio](aia-hide-citations.md).
 

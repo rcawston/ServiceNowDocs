@@ -34,19 +34,19 @@ Microsoft Defender for Endpoint has the following key features:
 
 <table id="table_cn4_5nt_45b" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../../common/image/icon-explore-ciwf.png) Get started with Microsoft Defender for Endpoint](../task/set-up-microsoft-defender-for-endpoint.md)
+[Explore ![](../../../../common/image/icon-explore-ciwf.png) Get started with Microsoft Defender for Endpoint](set-up-microsoft-defender-for-endpoint.md)
 
 </td><td>
 
-[Install ![](../../../../common/image/ciwf-agent-tools.png) Install the application and configure a source for the integration](../task/install-microsoft-defender-source.md)
+[Install ![](../../../../common/image/ciwf-agent-tools.png) Install the application and configure a source for the integration](install-microsoft-defender-source.md)
 
 </td><td>
 
-[Configure ![](../../../../common/image/configure-icon-ciwf.png) Configure profiles and security incidents for the Microsoft Defender for Endpoint](../task/configure-profiles-and-security-incidents-for-ms-defender-for-endpoint.md)
+[Configure ![](../../../../common/image/configure-icon-ciwf.png) Configure profiles and security incidents for the Microsoft Defender for Endpoint](configure-profiles-and-security-incidents-for-ms-defender-for-endpoint.md)
 
 </td></tr><tr><td>
 
-[Capability profile ![](../../../../common/image/icon-use-ciwf.png) Create a capability profile for the Microsoft Defender for Endpoint integration.](../task/create-capability-profile-for-microsoft-defender-for-endpoint.md)
+[Capability profile ![](../../../../common/image/icon-use-ciwf.png) Create a capability profile for the Microsoft Defender for Endpoint integration.](create-capability-profile-for-microsoft-defender-for-endpoint.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Microsoft Defender for Endpoint has the following key features:
 
 </td><td>
 
-[Miscellaneous ![](../../../../common/image/ciwf-admin.png) Create and configure a profile for sightings search and indicators with Microsoft Defender for Endpoint.](../task/create-and-configure-profile-sightings-search-with-ms-defender.md)
+[Miscellaneous ![](../../../../common/image/ciwf-admin.png) Create and configure a profile for sightings search and indicators with Microsoft Defender for Endpoint.](create-and-configure-profile-sightings-search-with-ms-defender.md)
 
 </td></tr></tbody>
 </table>

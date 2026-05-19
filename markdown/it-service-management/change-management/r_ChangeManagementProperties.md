@@ -43,7 +43,7 @@ glide.ui.risk\_calculate\_rule
 Change risk calculation method. Business rule calculates on insert/update, UI action calculates only on demand. **None** disables this capability.-   Type: choice list
 -   Default value: ui\_action
 
- For more information, see [Risk Calculator property](../../../script/server-scripting/reference/r_ChangeRiskCalculator.md).
+ For more information, see [Risk Calculator property](r_ChangeRiskCalculator.md).
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ com.snc.change\_request.event.state\_updated.states
 
 </td><td>
 
-Enter the change request state field values, each separated by a comma to generate the **sn\_change.state.updated** event. This happens when any of the state value changes, for example, -5, -3, 0. You can leave the property empty to generate the **sn\_change.state.updated** event for all state changes. For more information on the state values, see [Legacy: State model and transitions](../concept/c_ChangeStateModel.md).**Note:** For this property to take effect, property **com.snc.change\_request.event.state\_updated.enabled** must be set to true.
+Enter the change request state field values, each separated by a comma to generate the **sn\_change.state.updated** event. This happens when any of the state value changes, for example, -5, -3, 0. You can leave the property empty to generate the **sn\_change.state.updated** event for all state changes. For more information on the state values, see [Legacy: State model and transitions](c_ChangeStateModel.md).**Note:** For this property to take effect, property **com.snc.change\_request.event.state\_updated.enabled** must be set to true.
 
 </td></tr></tbody>
 </table>## Change Management properties for Discovery integration
@@ -259,5 +259,5 @@ Controls opening of a CAB meeting from the CAB Meeting calendar in the CAB Workb
 -   **false**: CAB meetings open in the Core UI.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference section for Change Management](../concept/reference-change-management.md)
+</table>**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
 

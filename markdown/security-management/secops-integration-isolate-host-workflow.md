@@ -23,7 +23,7 @@ This flow is triggered from the **Configuration Items** tab on a security incide
 
 ![Flow Designer for Security Operations - Isolate Host](../image/isolate-host-flow.png "Isolate Host")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Isolate Host capability](../../security-operations-common/concept/isolate-host-capability.md)
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
 

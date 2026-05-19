@@ -52,7 +52,7 @@ Administrators control whether managers can add tasks to activity sets from the 
 **Related topics**  
 
 
-[Enable team tasks](../task/enable-team-tasks.md)
+[Enable team tasks](enable-team-tasks.md)
 
-[Add tasks to an activity set using Journey designer](../task/add-tasks-activity-set.md)
+[Add tasks to an activity set using Journey designer](add-tasks-activity-set.md)
 

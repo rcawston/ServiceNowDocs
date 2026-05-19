@@ -165,5 +165,5 @@ Click **Request Business Owner Approval** .
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

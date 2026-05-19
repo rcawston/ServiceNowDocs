@@ -23,5 +23,5 @@ You must purchase [Classic Orchestration](https://raw.githubusercontent.com/Serv
 
 ServiceNow supports PowerShell 3.0 to 5.1.
 
-**Parent Topic:**[PowerShell activity pack](../../orchestration-activities/concept/c_OrchestrPwrshellActivityPack.md)
+**Parent Topic:**[PowerShell activity pack](c_OrchestrPwrshellActivityPack.md)
 

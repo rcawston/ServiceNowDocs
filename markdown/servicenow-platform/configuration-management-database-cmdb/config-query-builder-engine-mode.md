@@ -30,7 +30,7 @@ A query can run in either of the following execution modes:
 
 The system uses query-level settings and system-wide properties, and also checks the query structure, to determine which mode to use. The query-level setting described in this procedure has precedence over system property settings in the decision flow of which engine to use to run a query.
 
-For more information, see [CMDB Query Builder engine execution modes](../concept/query-builder-engine-execution-mode.md).
+For more information, see [CMDB Query Builder engine execution modes](query-builder-engine-execution-mode.md).
 
 ## Procedure
 

@@ -20,11 +20,11 @@ Set up an OAuth 2.0 application registry and credentials to connect to your Git 
 **Related topics**  
 
 
-[Connect to a Git provider using basic authentication with the ServiceNow IDE](../task/connect-git-provider-basic-auth.md)
+[Connect to a Git provider using basic authentication with the ServiceNow IDE](connect-git-provider-basic-auth.md)
 
-[Configure a MID Server to use source control with the ServiceNow IDE](../task/configure-mid-server-source-control.md)
+[Configure a MID Server to use source control with the ServiceNow IDE](configure-mid-server-source-control.md)
 
-[Initialize a Git repository with the ServiceNow IDE](../task/initialize-git-repository-servicenow-ide.md)
+[Initialize a Git repository with the ServiceNow IDE](initialize-git-repository-servicenow-ide.md)
 
 [Using source control in the ServiceNow IDE](using-source-control-servicenow-ide.md)
 

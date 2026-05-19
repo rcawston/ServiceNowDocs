@@ -77,9 +77,9 @@ Exclude from content service
 
 </td><td>
 
-Option that excludes the custom product details from being shared with [Software Asset Management Content Service](../concept/c_SAMContentService.md) if opted in.
+Option that excludes the custom product details from being shared with [Software Asset Management Content Service](c_SAMContentService.md) if opted in.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
 

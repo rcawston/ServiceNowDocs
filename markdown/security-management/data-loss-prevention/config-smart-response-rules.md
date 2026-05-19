@@ -33,7 +33,7 @@ For the fetched smart response rule\(s\), DLP admin can create the Incident Resp
 
 2.  Click on any of the Smart Response Rules to open its form view.
 
-    Follow [Create incident response option rules](../../data-loss-prevention/task/configure-end-user-action.md) to create Incident Response Option Rules and Response Option Mappings to display this smart response rule on Respond modal of DLP workspace.
+    Follow [Create incident response option rules](configure-end-user-action.md) to create Incident Response Option Rules and Response Option Mappings to display this smart response rule on Respond modal of DLP workspace.
 
 3.  Create the approval rules for the Smart Response Rule using the **Approval Rules** tab in the related list or by following procedure explained in the Configure Approval Rules section.
 
@@ -46,5 +46,5 @@ For the fetched smart response rule\(s\), DLP admin can create the Incident Resp
     The smart response rules will add, update, or delete automatically each day for every source.
 
 
-**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](../concept/symantec-dlp-integration.md)
+**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](symantec-dlp-integration.md)
 

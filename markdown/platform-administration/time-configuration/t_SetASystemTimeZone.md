@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The ServiceNow AI Platform stores time values in Universal Coordinated Time. Times appear globally based on the [system time zone](t_SetASystemTimeZone.md) \(glide.sys.default.tz\), or if specified, based on [user settings](../../users-and-groups/task/t_CreateAUser.md).
+The ServiceNow AI Platform stores time values in Universal Coordinated Time. Times appear globally based on the [system time zone](t_SetASystemTimeZone.md) \(glide.sys.default.tz\), or if specified, based on [user settings](../user-administration/t_CreateAUser.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ The ServiceNow AI Platform stores time values in Universal Coordinated Time. Tim
     The new system time zone automatically cascades to all users who don’t already have a specified time zone. If a user selects a different time zone, or if the administrator selects a different time zone for them, the selected time zone is assigned to the user. The system time zone isn’t used.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](using-time-configuration.md)
 

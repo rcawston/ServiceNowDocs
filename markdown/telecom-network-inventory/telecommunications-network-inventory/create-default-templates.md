@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, and sn\_ni\_core.inventory\_templa
 
 Default templates capture the default attribute values for a configuration item \(CI\) class. A template defines the set of attribute values for any resource \(equipment, card, and so on\). When this default template is associated with an inventory template, it adds these attribute values to the resource that is instantiated using that template.
 
-When you use the **Template** field to select the table that stores the CI class information, you can select specific attributes and set the default values for each attribute. When you create a default template, it creates a default template record in the Templates \[sn\_ni\_core\_default\_template\] table. To learn more about the default templates, see [Network inventory templates](../concept/using-templates-tni.md).
+When you use the **Template** field to select the table that stores the CI class information, you can select specific attributes and set the default values for each attribute. When you create a default template, it creates a default template record in the Templates \[sn\_ni\_core\_default\_template\] table. To learn more about the default templates, see [Network inventory templates](using-templates-tni.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ When you use the **Template** field to select the table that stores the CI class
 
 4.  On the form, fill in the general information to create a default template.
 
-    To learn more about the fields, see [Default Template form](../reference/tni-default-template-form.md).
+    To learn more about the fields, see [Default Template form](tni-default-template-form.md).
 
 5.  Click **Save**.
 
@@ -43,8 +43,8 @@ When you use the **Template** field to select the table that stores the CI class
 
     **Note:** Scheduling is only available in the classic environment.
 
-    To learn more about the fields, see [Scheduled Entity Generation form](../reference/scheduled-entity-generation-form.md).
+    To learn more about the fields, see [Scheduled Entity Generation form](scheduled-entity-generation-form.md).
 
 
-**Parent Topic:**[Create inventory template for network asset instantiation](../concept/preparing-inv-templates-network-asset-generation.md)
+**Parent Topic:**[Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md)
 

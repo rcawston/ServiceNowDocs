@@ -17,7 +17,7 @@ Retroactively change one or more existing targets from their start date instead 
 
 Role required: pa\_target\_admin to edit all targets that were created for everyone. Any user with a target that they created for themselves can edit that target.
 
-A responsible user can edit any target that they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#).
+A responsible user can edit any target that they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](responsibiity-targets-kpi-details.md#).
 
 ## About this task
 
@@ -132,7 +132,7 @@ The highest value you want the target to have, regardless of calculation. You do
     You expect to meet the target by the review date, or at least to review progress then.
 
 
-**Parent Topic:**[Indicator targets and thresholds in KPI Details](../concept/kpi-details-targets.md)
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
 
 **Related topics**  
 
@@ -145,5 +145,5 @@ The highest value you want the target to have, regardless of calculation. You do
 
 [Add a target to multiple breakdown elements in KPI Details](add-multiple-targets.md)
 
-[Responsibility for indicator targets](../concept/responsibiity-targets-kpi-details.md#)
+[Responsibility for indicator targets](responsibiity-targets-kpi-details.md#)
 

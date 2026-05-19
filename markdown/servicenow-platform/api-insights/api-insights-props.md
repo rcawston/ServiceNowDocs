@@ -160,5 +160,5 @@ Set the property to `true` to enable showing the Metric Base widgets on the API 
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[API Insights reference](../concept/api-insights-reference.md)
+</table>**Parent Topic:**[API Insights reference](api-insights-reference.md)
 

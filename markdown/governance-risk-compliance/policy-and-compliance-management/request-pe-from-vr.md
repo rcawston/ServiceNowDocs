@@ -39,11 +39,11 @@ The following diagram illustrates the steps performed by the compliance manager 
 
     To configure the vulnerable item record, the compliance manager performs the following steps.
 
-    1.  [Identifies the mapping of tables used to integrate the two applications](../concept/allow-other-app-policy-except.md).
-    2.  [Defines reasons for requesting exceptions](../task/define-reason-choices.md).
-    3.  \(optionally\) [Defines policy categories](../task/define-policy-categories.md) for filtering policies
-    4.  \(optionally\) [Creates one or more questionnaires](../task/create-except-quest.md) to be sent to the requester to gather additional information about the policy exception request.
-2.  The compliance manager also defines optional [verification rules](../task/define-verification-rules.md) and [approval rules](../task/define-approval-rules.md) to automate the process of getting approvals for the policy exception.
+    1.  [Identifies the mapping of tables used to integrate the two applications](allow-other-app-policy-except.md).
+    2.  [Defines reasons for requesting exceptions](define-reason-choices.md).
+    3.  \(optionally\) [Defines policy categories](define-policy-categories.md) for filtering policies
+    4.  \(optionally\) [Creates one or more questionnaires](create-except-quest.md) to be sent to the requester to gather additional information about the policy exception request.
+2.  The compliance manager also defines optional [verification rules](define-verification-rules.md) and [approval rules](define-approval-rules.md) to automate the process of getting approvals for the policy exception.
 3.  In Vulnerability Response, the remediation owner [Request an exception using GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/integration-with-grc.md) .
 4.  If a verification rule was defined for the application, the designated approvers are notified that their approval is required. If any fields in the policy exception request were not filled in by the requester \(for example, the Policy or Control Objective\), those fields become mandatory for the approvers. When the approvers have reviewed, completed, and approved the request, it transitions to the Analyze state and is assigned to the compliance manager for further analysis and approval.
 5.  In Policy and Compliance Management, the compliance manager receives the approved request, and assigns a risk rating to the policy exception request on the **Risk assessment** tab.
@@ -52,7 +52,7 @@ The following diagram illustrates the steps performed by the compliance manager 
 
     When the policy exception record is saved, information in the **Source** tab, including the source application and source record, as well as information in the **Vulnerable Items** related list are auto-populated. The compliance manager now has access to all the data needed to review and approve the policy exception.
 
-6.  In Policy and Compliance Management, the compliance manager performs the exception assessment, [if assessments were configured](../task/create-except-quest.md). When the assessment is completed, the compliance manager returns to the **Risk assessment** tab and updates the **Risk rating** based on the findings of the assessment, if needed. The compliance manager also populates the following fields with information gathered during the assessment.
+6.  In Policy and Compliance Management, the compliance manager performs the exception assessment, [if assessments were configured](create-except-quest.md). When the assessment is completed, the compliance manager returns to the **Risk assessment** tab and updates the **Risk rating** based on the findings of the assessment, if needed. The compliance manager also populates the following fields with information gathered during the assessment.
 
     |Field|Description|
     |-----|-----------|
@@ -87,7 +87,7 @@ Selecting **Approved** causes the policy exception to be approved.
 
 </td></tr><tr><td>
 
-[If an approval rule was defined](../task/define-approval-rules.md), but the **Auto-trigger** check box was not selected
+[If an approval rule was defined](define-approval-rules.md), but the **Auto-trigger** check box was not selected
 
 </td><td>
 
@@ -106,5 +106,5 @@ Clicking the **Approve** button causes the approval rule to be executed and the 
 </td></tr></tbody>
 </table>10. In Vulnerability Response, after the approvals have been received, the policy exception becomes active and the patching activity on the vulnerable item is deferred until the policy exception expires. When the **Valid until** date is reached, the policy exception expires and the state of the vulnerable item changes from Deferred to Open.
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](manage-policy-exceptions.md)
 

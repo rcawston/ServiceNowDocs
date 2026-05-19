@@ -252,5 +252,5 @@ The date filter is available for the **Overview** tab.
 |----|----|-----------|
 |Date|Choice|The time period for the data that will be filtered.|
 
-**Parent Topic:**[Reporting solutions for Universal Request](../../../product/universal-request/concept/reporting-soln-for-ur.md)
+**Parent Topic:**[Reporting solutions for Universal Request](reporting-soln-for-ur.md)
 

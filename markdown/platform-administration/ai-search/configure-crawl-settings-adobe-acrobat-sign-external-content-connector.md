@@ -74,5 +74,5 @@ The Adobe Acrobat Sign external content connector is updated with your modified 
 
 To retrieve content from your Adobe Acrobat Sign source system using your modified crawl settings, create and run a one-time content crawl for your Adobe Acrobat Sign external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Adobe Acrobat Sign external content connector](../concept/adobe-acrobat-sign-external-content-connector.md)
+**Parent Topic:**[Adobe Acrobat Sign external content connector](adobe-acrobat-sign-external-content-connector.md)
 

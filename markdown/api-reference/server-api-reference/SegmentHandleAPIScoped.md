@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 Methods for handling a single instance of a segment, such as a header or item. This class is defined in the SegmentHandler script include.
 
-The [SegmentHandler](../../SegmentHandlerScoped/concept/SegmentHandlerAPIScoped.md#) script include requires the Zero Copy Connector for ERP \(com.sn\_erp\_integration\) store application and is provided within the sn\_erp\_integration namespace. For more information, refer to [Zero Copy Connector for ERP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-overview.md).
+The [SegmentHandler](SegmentHandlerAPIScoped.md#) script include requires the Zero Copy Connector for ERP \(com.sn\_erp\_integration\) store application and is provided within the sn\_erp\_integration namespace. For more information, refer to [Zero Copy Connector for ERP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-overview.md).
 
 Role required: sn\_erp\_integration.erp\_user
 
@@ -25,7 +25,7 @@ Use the methods in this class for the following tasks:
 -   Add nested/child segments under the instance.
 -   Chain back to parent or root using the `endSegment()` or `root()` methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SegmentHandle - addField\(String fieldName, String value\)
 

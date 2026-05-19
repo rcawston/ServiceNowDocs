@@ -75,7 +75,7 @@ The status of the invoice changes to Confirmed duplicate and the state of the in
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](aps-manual-tasks.md)
 
 **Related topics**  
 

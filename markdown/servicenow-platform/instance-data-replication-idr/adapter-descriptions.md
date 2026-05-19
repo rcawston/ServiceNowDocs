@@ -379,12 +379,12 @@ Use the time zone conversion adapter to convert one time zone to another.
 |-------------------|-----------|--------------|
 |**Output time zone**: PDT|07:00:00 am GMT|00:00:00 am PDT|
 
-**Parent Topic:**[Instance Data Replication reference](../concept/reference-instance-data-replication.md)
+**Parent Topic:**[Instance Data Replication reference](reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Data privacy in Instance Data Replication](../concept/data-privacy-consumers-idr.md)
+[Data privacy in Instance Data Replication](data-privacy-consumers-idr.md)
 
 [Excluded tables in Instance Data Replication](IDR-excluded-tables.md)
 

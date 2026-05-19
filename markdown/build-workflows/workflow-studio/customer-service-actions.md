@@ -28,5 +28,5 @@ Provides actions for flow designers to use when creating Customer Service Manage
 |Add Work Note to Task|Add a work note to a task or to task extended objects \(for example, a case or case task\).|
 |Add Comment to Task|Add a comment to a task or to task extended objects \(for example, a case or case task\).|
 
-**Parent Topic:**[Spokes](../concept/spokes.md)
+**Parent Topic:**[Spokes](spokes.md)
 

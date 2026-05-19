@@ -29,7 +29,7 @@ The following items are installed with Legal Simple Contracts:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Legal Simple Contracts](../reference/installed-with-legal-simple-contracts.md).
+For more information, see [Components installed with Legal Simple Contracts](installed-with-legal-simple-contracts.md).
 
 ## Procedure
 
@@ -52,5 +52,5 @@ For more information, see [Components installed with Legal Simple Contracts](../
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure Legal Simple Contracts](../concept/setting-up-legal-contracts.md)
+**Parent Topic:**[Configure Legal Simple Contracts](setting-up-legal-contracts.md)
 

@@ -63,7 +63,7 @@ To source the request by itself or with a new group of similar requests, add to 
 
 </td><td>
 
-Skip negotiating and start qualifying the sourcing request.For more information about the qualification process, see [Supplier qualification](../reference/supplier-qualification.md).
+Skip negotiating and start qualifying the sourcing request.For more information about the qualification process, see [Supplier qualification](supplier-qualification.md).
 
 </td></tr></tbody>
 </table>
@@ -71,5 +71,5 @@ Skip negotiating and start qualifying the sourcing request.For more information 
 
 Work on a negotiation setup playbook to manage qualification work, and review the sourcing requests, suppliers, and purchase lines, all within the premises of a sourcing event. For details, see [Set up negotiations with suppliers and manage qualifications in playbook](nego-with-suppliers-through-qual.md).
 
-**Parent Topic:**[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+**Parent Topic:**[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 

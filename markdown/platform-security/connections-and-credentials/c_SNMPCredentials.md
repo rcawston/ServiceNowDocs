@@ -259,7 +259,7 @@ External credential store
 
 </td><td>
 
-Select this check box to use an external credential storage system. When external storage is enabled, the **Credential ID** field appears. External credential storage is only available when the [External Credential Storage plugin](../task/t_ActivateExtrnlCredStoragePlugIn.md) is activated and the **External Storage** view is selected.
+Select this check box to use an external credential storage system. When external storage is enabled, the **Credential ID** field appears. External credential storage is only available when the [External Credential Storage plugin](t_ActivateExtrnlCredStoragePlugIn.md) is activated and the **External Storage** view is selected.
 
 </td></tr><tr><td>
 

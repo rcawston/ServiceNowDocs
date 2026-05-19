@@ -74,5 +74,5 @@ You can edit the dependency. For more information, see [Update the dependency de
 -   **[Update the dependency details for tasks from Project Workspace](update-the-dependency-details-for-tasks-from-project-workspace.md)**  
 Update the details of the dependency including its type and lag time from Project Workspace.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

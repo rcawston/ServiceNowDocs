@@ -13,7 +13,7 @@ breadcrumb: [Reference, ServiceNow Store, Administering applications, Get starte
 
 Review important terms related to the ServiceNow Store to help determine which listings meet your organization's needs.
 
-**Parent Topic:**[ServiceNow Store reference](../reference/store-reference.md)
+**Parent Topic:**[ServiceNow Store reference](store-reference.md)
 
 ## application
 
@@ -35,7 +35,7 @@ Services, dashboards, and implementation guides offered by ServiceNow partners a
 
 ## custom tables
 
-A non-exempt table created by a platform administrator and not included as part of the base ServiceNow AI Platform system. Custom table entitlements are included with certain licenses and subscriptions. For more information, see [Custom tables](../../table-administration/concept/custom-tables.md).
+A non-exempt table created by a platform administrator and not included as part of the base ServiceNow AI Platform system. Custom table entitlements are included with certain licenses and subscriptions. For more information, see [Custom tables](table-administration-and-data-management/custom-tables.md).
 
 ## generative AI
 

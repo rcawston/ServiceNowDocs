@@ -129,7 +129,7 @@ The Catalog item page that open when the catalog item is accessed.By default, th
 </table>**Related topics**  
 
 
-[Portal Catalog Quick Links widget](../concept/portal-catalog-widget.md)
+[Portal Catalog Quick Links widget](customer-self-service-and-omnichannel-engagement/portal-catalog-widget.md)
 
-[Add and configure the Portal Catalog Quick Links widget](../task/config-cat-quick-links-inst-optns.md)
+[Add and configure the Portal Catalog Quick Links widget](customer-self-service-and-omnichannel-engagement/config-cat-quick-links-inst-optns.md)
 

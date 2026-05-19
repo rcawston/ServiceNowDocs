@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Impact Rating record form](../reference/impact-rating-new-record-form.md).
+    For more information on the fields in the form, see [Impact Rating record form](impact-rating-new-record-form.md).
 
     The example shows an impact rating from the demo data.
 
@@ -38,8 +38,8 @@ Role required: sn\_bcm.admin
 4.  Select **Submit**.
 
 
--   **[Impact Rating record form](../reference/impact-rating-new-record-form.md)**  
+-   **[Impact Rating record form](impact-rating-new-record-form.md)**  
 Use the Impact Rating record form to assess an impact category such as low, moderate, high, or critical by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
 

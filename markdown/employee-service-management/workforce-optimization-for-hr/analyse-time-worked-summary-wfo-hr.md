@@ -77,5 +77,5 @@ To understand the computations of the fields in a time worked summary, let's con
 
 **Note:** Fatima Alonzo is adherent because the schedule adherence and conformance are within the threshold. To see which agents are non-adherent, look for the numbers that are highlighted in red.
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
 

@@ -19,13 +19,13 @@ The Software Asset Management Content Service is an IT Asset Management \(ITAM\)
 
 The Software Asset Management Content Service transfers data between your organization and ServiceNow through a Content Data Service \(CDS\) instance. In commercial deployments, data is transferred through a CDS instance that is deployed in a commercial data center. In National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployments, data is transferred through a CDS instance that is deployed in an NSC DOD IL5 data center.
 
-**Note:** Data for your NSC DOD IL5 deployments can be transferred only from ServiceNow to your organization. It cannot be transferred from your organization to ServiceNow. Since you cannot share any unnormalized software installation data with ServiceNow, you must manually create a software content request for any software product that you want to add to the Software Asset Management Content Library. After the software product is added to the Content Library, the Software Asset Management application can begin normalizing the corresponding software installations that are discovered in your NSC DOD IL5 deployments. See [Create IT Asset Management content request](../task/create-itam-content-request.md) for instructions on how to create a software content request.
+**Note:** Data for your NSC DOD IL5 deployments can be transferred only from ServiceNow to your organization. It cannot be transferred from your organization to ServiceNow. Since you cannot share any unnormalized software installation data with ServiceNow, you must manually create a software content request for any software product that you want to add to the Software Asset Management Content Library. After the software product is added to the Content Library, the Software Asset Management application can begin normalizing the corresponding software installations that are discovered in your NSC DOD IL5 deployments. See [Create IT Asset Management content request](../create-itam-content-request.md) for instructions on how to create a software content request.
 
 No personally identifiable information is shared with ServiceNow. However, please note the exception for custom software products, as described in the Software Asset Management Content Service asset data types table below.
 
 Data that is shared using the Software Asset Management Content Service remains secure and is properly disposed of after review, following the same ServiceNow privacy policies, procedures, tools, and techniques that are used to secure ServiceNow instances. The selection of data types that are shared with ServiceNow is configurable by your organization. In addition, data is never packaged and shipped to other ServiceNow customers.
 
-This new content improves your normalization hit ratios, which enable you to manage your software assets better. By default, you aren’t opted in to the Content Service. For information on how to opt-in, see [Enable sharing information with Software Asset Management content service](../task/t_EnableSAMContentService.md).
+This new content improves your normalization hit ratios, which enable you to manage your software assets better. By default, you aren’t opted in to the Content Service. For information on how to opt-in, see [Enable sharing information with Software Asset Management content service](t_EnableSAMContentService.md).
 
 If you want to exclude any software discovery models, custom software products, or custom publisher part numbers from being shared with ServiceNow, select the **Exclude from content service** check box on the Software Discovery Model, Custom Software Product, or Custom Part Number form.
 
@@ -238,7 +238,7 @@ Custom Software Products
 
 Custom software products that were manually added to your ServiceNow instance.
 
- You can add a custom software product for any publicly-available software product that does not already exist in the Software Asset Management Content Library. See [Add custom software products in workspace](../task/add-custom-software-products-workspace.md) for detailed instructions.
+ You can add a custom software product for any publicly-available software product that does not already exist in the Software Asset Management Content Library. See [Add custom software products in workspace](add-custom-software-products-workspace.md) for detailed instructions.
 
 </td><td>
 
@@ -292,5 +292,5 @@ The Software Asset Management Content Service provides content updates to your i
 
 [Normalization and Content Service dashboard](sam-normalization-dash.md)
 
-[Enable sharing information with Software Asset Management content service](../task/t_EnableSAMContentService.md)
+[Enable sharing information with Software Asset Management content service](t_EnableSAMContentService.md)
 

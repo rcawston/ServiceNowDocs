@@ -73,5 +73,5 @@ If you would like to integrate your ServiceNow instance with another Slack bot, 
 
 For more information, see [Manage the ServiceNow Virtual Agent integration with Slack](configure-va-slack.md).
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](va-integ-slack.md)
 

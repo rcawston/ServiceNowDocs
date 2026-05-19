@@ -55,5 +55,5 @@ End the conference when the discussion is over.**Note:** The work notes get upda
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Notify with Incident Communications Management](../concept/c_NotifyWithIncidentAlert.md)
+**Parent Topic:**[Using Notify with Incident Communications Management](c_NotifyWithIncidentAlert.md)
 

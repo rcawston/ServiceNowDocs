@@ -49,5 +49,5 @@ Role required:
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](actions.md)
 

@@ -42,7 +42,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
     If you have edit access, you can update the details of an individual record directly from the list view when necessary.
 
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md)
 
 **Related topics**  
 

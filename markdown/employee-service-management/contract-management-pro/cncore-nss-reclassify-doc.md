@@ -40,5 +40,5 @@ Role required: sn\_cm\_core.contract\_fulfiller
 7.  Select **Save** to save the record.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](../employee-service-management/cncore-req-nss-contract-1.md)
 

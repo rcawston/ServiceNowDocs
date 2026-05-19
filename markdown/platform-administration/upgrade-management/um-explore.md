@@ -82,14 +82,14 @@ Using Admin tab and Admin Home option
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |One-stop shop experience for all relevant information for an upgrade|[Upgrade Console summary](um-overview.md)|System administrator|
-|Unfettered access to all tools required for your instance upgrade|[Upgrade Console tools](../reference/um-tools.md)|System administrator|
-|Guided setup process for your instance upgrade|[Access guided upgrade on a non-production instance](../task/um-guided-tour-implement.md)|System administrator|
+|Unfettered access to all tools required for your instance upgrade|[Upgrade Console tools](um-tools.md)|System administrator|
+|Guided setup process for your instance upgrade|[Access guided upgrade on a non-production instance](um-guided-tour-implement.md)|System administrator|
 
 ## What to explore next
 
 To learn more about using Upgrade Console, see:
 
 -   [Using Upgrade Console](um-using.md)
--   [Administering Upgrade Console](../reference/um-administer.md#)
--   [Upgrade Console references](../reference/um-references.md)
+-   [Administering Upgrade Console](um-administer.md#)
+-   [Upgrade Console references](um-references.md)
 

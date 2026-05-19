@@ -17,15 +17,15 @@ The Entity View Action Mapper \(EVAM\) allows you to map specific actions to ent
 
 ## Configuration overview
 
--   [Create an EVAM action definition](../task/define-evam-action.md)
+-   [Create an EVAM action definition](define-evam-action.md)
 
     You can associate a declarative action with a view template. EVAM also enables user interactions to trigger a server script or UXF client action.
 
--   [Create an EVAM definition](../task/define-composite-dataset.md)
+-   [Create an EVAM definition](define-composite-dataset.md)
 
     Define the list of data sources to render. The EVAM definition is the main record for an EVAM configuration.
 
--   [Create a multi-data source list display in Entity View Action Mapper](../task/tutorial-create-evam.md)
+-   [Create a multi-data source list display in Entity View Action Mapper](tutorial-create-evam.md)
 
     Use EVAM to take in different data sources, configure views, and show them in a card display view.
 

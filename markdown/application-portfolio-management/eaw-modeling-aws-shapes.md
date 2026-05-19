@@ -90,9 +90,9 @@ You can also adjust the size of shapes by selecting a shape and then drag any of
 **Related topics**  
 
 
-[AWS shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/ea-modeling-aws.md)
+[AWS shapes support in the Enterprise Modeling and Visualization](ea-modeling-aws.md)
 
-[Working with Amazon Web Services \(AWS\) shapes](../../concept/eaw-concept/eaw-work-with-aws-shapes.md)
+[Working with Amazon Web Services \(AWS\) shapes](eaw-work-with-aws-shapes.md)
 
-[Create a diagram using AWS shapes](../../task/eaw-task/eaw-modeling-create-diagram-aws.md)
+[Create a diagram using AWS shapes](eaw-modeling-create-diagram-aws.md)
 

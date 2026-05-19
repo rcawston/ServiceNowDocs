@@ -17,7 +17,7 @@ You can view scans in real-time as they run, or after they're completed. 
 
 -   Fully configure the general and additional Scan Engine properties.
 
-    See [Configure Scan Engine properties](configure-scan-engine-properties.md) and [Configure definition properties](../reference/additional-scan-engine-properties.md).
+    See [Configure Scan Engine properties](configure-scan-engine-properties.md) and [Configure definition properties](additional-scan-engine-properties.md).
 
 -   Role required: Scan Engine User \(`sn_se.scan_engine_user`\), Scan Engine Admin \(`(sn_se.scan_engine_admin`\) or Impact specific roles \(Impact App Admin, Impact Platform Owner, Impact Development Team Lead, Impact Executive, Impact Developer\).
 

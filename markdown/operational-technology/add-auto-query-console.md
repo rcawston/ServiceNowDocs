@@ -111,7 +111,7 @@ Role required: admin
 
     To do this, select both or either the **UDP Port Enumeration** and/or **TCP Port Enumeration** \(highlighted in the previous image\) from the Advanced Query Types. Each scan determines all open ports for their two respective protocols.
 
-    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [Edit the Query Driver on Metadata tab](../../../../msi-console/task/edit-query-driver-on-metadata.md).
+    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [Edit the Query Driver on Metadata tab](edit-query-driver-on-metadata.md).
 
 12. Select **Next**
 

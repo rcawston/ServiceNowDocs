@@ -31,7 +31,7 @@ Role required: sn\_gsm.constituent
 
     3.  Select **Save**.
 
-    For more information on the fields, see [Constituent Profile form](../reference/government-service-constituent-form.md).
+    For more information on the fields, see [Constituent Profile form](government-service-constituent-form.md).
 
 4.  To change your password, select **Change Password**.
 

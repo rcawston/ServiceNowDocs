@@ -32,12 +32,12 @@ When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings 
 -   Only the child topics of a certification are displayed as tasks in the To-dos page in Employee Center, and not the certification itself.
 
 
-**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](../reference/reference-ondemand.md)
+**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](reference-ondemand.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](../reference/installed-with-hr-corn-int.md)
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand](installed-with-hr-corn-int.md)
 
 [Source for HR Service Delivery Integration with Cornerstone OnDemand](hr-cornerstone-properties.md)
 
@@ -47,5 +47,5 @@ When the Trigger CSOD Sync schedule flow is run, the flow in the Sync Trainings 
 
 [Status mapping in Cornerstone OnDemand System](status-cornerstone.md)
 
-[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](../reference/transform-maps-cornerstone.md)
+[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
 

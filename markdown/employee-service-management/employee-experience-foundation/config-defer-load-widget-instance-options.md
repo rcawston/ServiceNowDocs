@@ -97,5 +97,5 @@ You can find a similar experience for the following widgets:
 **Related topics**  
 
 
-[Defer load in Employee Center](../concept/ec-load-expe-defer-load.md)
+[Defer load in Employee Center](ec-load-expe-defer-load.md)
 

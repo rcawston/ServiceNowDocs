@@ -21,7 +21,7 @@ Role required: admin
 
 The Email Retention plugin requires these plugins:
 
--   [Data archiving](../../database-rotation/concept/c_ArchiveData.md)
+-   [Data archiving](c_ArchiveData.md)
 -   System Mailboxes
 
 ## Procedure
@@ -39,5 +39,5 @@ The Email Retention plugin requires these plugins:
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Email retention](../concept/email-retention.md)
+**Parent Topic:**[Email retention](email-retention.md)
 

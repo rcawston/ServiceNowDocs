@@ -35,7 +35,7 @@ Refine planning item descriptions using write items skill to improve the clarity
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration](../../pw-resource-management/concept/configure-resource-mgmt-prj-wksp.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration](configure-resource-mgmt-prj-wksp.md)
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ Refine planning item descriptions using write items skill to improve the clarity
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Workspace](../reference/project-workspace-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Workspace](project-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -53,16 +53,16 @@ Refine planning item descriptions using write items skill to improve the clarity
 
 -   **[Exploring Project Workspace](exploring-project-workspace.md)**  
 The ServiceNow® Project Workspace application helps you to manage projects, resources, and financials in a single workspace.
--   **[Configuring Project Workspace](../../pw-resource-management/concept/configure-pw.md)**  
+-   **[Configuring Project Workspace](configure-pw.md)**  
 Set up and configure the Project Workspace application to initiate and plan your projects, financials, and resources.
 -   **[Managing projects with Project Workspace](use-projects-pw.md)**  
 Use the features of Project Workspace to plan and manage your project.
--   **[Managing financials for your projects](../../pw-financials/concept/using-financials-prj-wrkspc.md)**  
+-   **[Managing financials for your projects](using-financials-prj-wrkspc.md)**  
 Manage budget, cost plans as forecasts, actual expenses as expense lines, generate labor costs, create financial baselines, and view, analyze, and compare the financial performance of your projects at required cadence in Project Workspace.
--   **[Resource planning with Project Workspace](../../pw-resource-management/concept/use-resource-mgmt-prj-wksp.md)**  
+-   **[Resource planning with Project Workspace](use-resource-mgmt-prj-wksp.md)**  
 Use the Resource Management application to allocate and manage your resources in the Project Workspace.
--   **[Project Workspace reference](../reference/project-workspace-reference.md)**  
+-   **[Project Workspace reference](project-workspace-reference.md)**  
 Reference information to provide additional details about Project Workspace, such as the fields, user roles, tables, scheduled jobs, system properties, and custom scripts.
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md)
 

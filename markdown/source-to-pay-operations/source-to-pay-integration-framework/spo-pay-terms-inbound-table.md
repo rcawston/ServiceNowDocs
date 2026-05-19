@@ -28,7 +28,7 @@ The following table lists the mandatory fields for the Payment Terms Stage inbou
 |Short description|String|A short explanation of the payment term. Example: 2%14, Net 60.|
 |Type|String|Type of the payment term.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

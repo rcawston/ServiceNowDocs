@@ -27,7 +27,7 @@ This task provides the general steps to integrate Customer Service Management an
 
     You can download the package by using the [direct download URL](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/now-csm-components-release-now-csm-components-2.0.0.zip) or accessing the package at [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads). For more information, see [Experience Cloud Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html) in the Adobe Help Center.
 
-2.  [Configuring authentication settings for ServiceNow services and components in AEM](../task/aem-setup-servicenow-authentication.md#).
+2.  [Configuring authentication settings for ServiceNow services and components in AEM](aem-setup-servicenow-authentication.md#).
 
 3.  [Configuring integration settings for ServiceNow services and components in AEM](aem-integration-setup.md#).
 

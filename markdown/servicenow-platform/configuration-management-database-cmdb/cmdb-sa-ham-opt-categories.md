@@ -47,7 +47,7 @@ To opt in resource categories, follow these steps:
 3.  Select the resource categories included in your HAM subscription and opt them in.
 4.  Return to CMDB success advisor and proceed with selecting model categories.
 
-    For more information, see [Get started with CMDB success advisor setup for HAM](../task/cmdb-sa-ham-get-started.md).
+    For more information, see [Get started with CMDB success advisor setup for HAM](cmdb-sa-ham-get-started.md).
 
 
 ## Opt out resource categories

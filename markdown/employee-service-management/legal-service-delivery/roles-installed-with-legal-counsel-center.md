@@ -86,5 +86,5 @@ Any user with sn\_lg\_ops.legal\_fulfiller and sn\_lg\_ops.request\_fulfiller ro
 
 To access Legal Counsel Center, navigate to **Workspaces** &gt; **Legal Counsel Center**. Alternatively, you can access the Legal Counsel Center by navigating to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-**Parent Topic:**[Legal Counsel Center reference](../reference/legal-counsel-center-ws-reference.md)
+**Parent Topic:**[Legal Counsel Center reference](legal-counsel-center-ws-reference.md)
 

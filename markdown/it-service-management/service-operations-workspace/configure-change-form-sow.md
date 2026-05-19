@@ -34,5 +34,5 @@ Role required: workspace\_admin, ui\_builder\_admin, or admin
     For information about configuring the field layout, UI elements and the visible data content using form builder, see [Customize forms within a form component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md).
 
 
-**Parent Topic:**[Record page configurations in Service Operations Workspace for ITSM](../concept/record-page-configurations-sow-itsm.md)
+**Parent Topic:**[Record page configurations in Service Operations Workspace for ITSM](record-page-configurations-sow-itsm.md)
 

@@ -17,7 +17,7 @@ The IPAddressFixup script include provides methods that ensure that no other dev
 
 Use with any server-side Discovery script to validate IP addresses.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## IPAddressFixup - dedupe\(String tableName, String ip\)
 

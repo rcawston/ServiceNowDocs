@@ -27,7 +27,7 @@ Role required: sn\_prm\_dr.deal\_reg\_ui
 
 4.  On the **Create New Deal Registration** screen, enter the required information on the **Deal registration information** form.
 
-    To learn more about the fields on this form, see [Deal registration table fields](../reference/deal-registration-table-fields.md).
+    To learn more about the fields on this form, see [Deal registration table fields](deal-registration-table-fields.md).
 
 5.  On the **Deal registration type** screen, select the preferred deal registration type.
 
@@ -35,7 +35,7 @@ Role required: sn\_prm\_dr.deal\_reg\_ui
 
 6.  On the **Customer information** screen, select an existing account or create an account or consumer.
 
-    To create an account, select **Can't find account details?** and fill in the fields. To learn more about the fields, see [Deal registration table fields](../reference/deal-registration-table-fields.md).
+    To create an account, select **Can't find account details?** and fill in the fields. To learn more about the fields, see [Deal registration table fields](deal-registration-table-fields.md).
 
 7.  On the **Product offerings** screen, select the list of product offerings that the customer is interested in.
 
@@ -56,7 +56,7 @@ A deal registration is created with an associated account, a channel partner, an
 
 **Note:** Select **Actions** from the details page to edit or delete the deal registration. You can only delete deal registrations that are in the **Draft** state.
 
-**Parent Topic:**[Using Partner Relationship Management](../concept/using-partner-relationship-management.md)
+**Parent Topic:**[Using Partner Relationship Management](using-partner-relationship-management.md)
 
 **Related topics**  
 

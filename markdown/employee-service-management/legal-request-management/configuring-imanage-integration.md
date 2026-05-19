@@ -81,5 +81,5 @@ In Shared Workspace, workspaces are shared between the ServiceNow® users regist
     **LR001 \(Workspace\) &gt; Documents \(Folder\)**.
 
 
-**Parent Topic:**[Configure an external storage system for legal requests and legal matters](../task/integrate-legal-ext-storage.md)
+**Parent Topic:**[Configure an external storage system for legal requests and legal matters](integrate-legal-ext-storage.md)
 

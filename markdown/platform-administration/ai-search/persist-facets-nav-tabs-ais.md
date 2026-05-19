@@ -54,5 +54,5 @@ This option is global and applies to all AI Search applications on your instance
 
 All AI Search applications preserve or discard existing facet filters when a new source facet bucket is selected.
 
-**Parent Topic:**[Search application configurations](../concept/defining-search-app-cfgs-ais.md)
+**Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
 

@@ -51,7 +51,7 @@ There are several methods for adding utterances to **Irrelevance detection**:
 
 -   Importing: When you use a CSV or XLSX \(Excel Workbook\) file to import training utterances and their intents, you can indicate irrelevant utterances by leaving the Intent column empty. These utterances may display as **NO\_INTENT** in areas such as Expert Feedback Loop and Conflict Review.
 
-    For more information on importing utterances and intents, see [Create an NLU model from a CSV file](../task/create-nlu-model-csv.md).
+    For more information on importing utterances and intents, see [Create an NLU model from a CSV file](create-nlu-model-csv.md).
 
     These utterances have a Source of **Manual** in the Irrelevance detection table.
 
@@ -80,7 +80,7 @@ There are two locations where conflicts with irrelevant utterances are highlight
 
     **Note:** The Cross-model Conflict Review module is available with the NLU Workbench - Advanced Features application from ServiceNow® Store. For more information, see [NLU Workbench - Advanced Features](nlu-workbench-advanced-features.md).
 
--   The Conflicts tab of an intent. For more information on conflicts in an intent, see [Resolve intent issues](../task/resolve-intent-issues.md).
+-   The Conflicts tab of an intent. For more information on conflicts in an intent, see [Resolve intent issues](resolve-intent-issues.md).
 
 For the purpose of reviewing conflicts, irrelevant utterances are displayed as though they are in their own intent, named **NO\_INTENT**.
 

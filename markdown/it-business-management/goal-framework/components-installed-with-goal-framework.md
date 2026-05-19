@@ -127,8 +127,8 @@ Can create, view, edit, and delete any goal.
 
 |Scheduled job|Description|
 |-------------|-----------|
-|Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables|Migrates the existing goals data to the Goal Framework tables. For information on what data is migrated and how the data can be migrated, see [goal data migration.](../task/migrate-existing-goals-data.md)|
-|Migrate goal relationships for assigned entities|\(For Strategic Planning users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](../../spw-goals/reference/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you have created m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.|
+|Migrate Goal, Strategy, and Work item data to the Goal Framework and related Planning item tables|Migrates the existing goals data to the Goal Framework tables. For information on what data is migrated and how the data can be migrated, see [goal data migration.](migrate-existing-goals-data.md)|
+|Migrate goal relationships for assigned entities|\(For Strategic Planning users\) Populates the fields, **Assigned entity type** and **Assigned entity** on the [Goal form](../scenario-planning-in-spw/goal-form-egm.md) based on the data in the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table if you have created m2m relationship with lens entities other than **Company**, **Business Unit**, **Department**, and **Portfolio**.|
 
 |Scheduled job|Description|
 |-------------|-----------|

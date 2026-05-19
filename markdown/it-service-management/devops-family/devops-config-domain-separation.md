@@ -28,10 +28,10 @@ For more information on support levels, see [Application support for domain sepa
 
 The DevOps Config application validates and manages the configuration data of your enterprise applications across every stage of the DevOps pipeline. Domain separation is supported at the data segregation layer only.
 
--   **[Domain separation and CDM](../../configuration-data-management/concept/domain-separation-cdm.md)**  
+-   **[Domain separation and CDM](domain-separation-cdm.md)**  
 Domain separation is supported for CDM. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[DevOps Config reference](../reference/devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
 
 **Related topics**  
 

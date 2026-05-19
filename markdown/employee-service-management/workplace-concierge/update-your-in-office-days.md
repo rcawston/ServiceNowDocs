@@ -36,7 +36,7 @@ Role required: sn\_wsd\_core.workplace\_user
     The selection is updated.
 
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](use-workplace-concierge.md)
 
 **Related topics**  
 
@@ -49,5 +49,5 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Update your in-office days as exceptions](update-in-office-days-exceptions.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](manage-presence-privacy-settings.md#)
 

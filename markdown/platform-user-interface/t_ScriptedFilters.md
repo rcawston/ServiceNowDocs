@@ -58,7 +58,7 @@ function myFunction(){
 }
 ```
 
-**Parent Topic:**[Filter admin functions](../concept/filter-admin-functions.md)
+**Parent Topic:**[Filter admin functions](filter-admin-functions.md)
 
 **Related topics**  
 

@@ -25,7 +25,7 @@ If you installed SaaS License Management, a software model is generated automati
 
 if you installed the SAP publisher pack, see [Create entitlements for SAP](create-entitlement-sap.md).
 
-You can also create entitlements for RHEL and Citrix publisher packs. For details on the entitlement form fields for RHEL, see [Software Entitlement form](../concept/rhel-entitlements.md#table_cjg_xfn_mnb).
+You can also create entitlements for RHEL and Citrix publisher packs. For details on the entitlement form fields for RHEL, see [Software Entitlement form](rhel-entitlements.md#table_cjg_xfn_mnb).
 
 Role required: sam\_admin or sam\_user
 
@@ -43,7 +43,7 @@ Role required: sam\_admin or sam\_user
 
 4.  In the Create New Software Entitlement page, fill in the fields.
 
-    For a detailed description of the fields, see [Software entitlement fields](../reference/software-entitlement-fields.md).
+    For a detailed description of the fields, see [Software entitlement fields](software-entitlement-fields.md).
 
 5.  Select **Save**.
 
@@ -53,7 +53,7 @@ Role required: sam\_admin or sam\_user
 
     The entitlement is created and state of the entitlement is changed to **in use** from **build**. The entitlement is ready to be picked up for the reconciliation process.
 
-    You can perform additional configuration on the new entitlement by entering details in the other tabs such as Contracts, Downgrade Rights, Expense Lines, Entitlement History. For a detailed description of the fields in these tabs, see [Software entitlement fields](../reference/software-entitlement-fields.md).
+    You can perform additional configuration on the new entitlement by entering details in the other tabs such as Contracts, Downgrade Rights, Expense Lines, Entitlement History. For a detailed description of the fields in these tabs, see [Software entitlement fields](software-entitlement-fields.md).
 
 
 -   **[Create maintenance entitlements in workspace](create-maint-entitlements-workspace.md)**  
@@ -61,12 +61,12 @@ Define license details, for all publishers other than Microsoft in the Software 
 -   **[Create Microsoft Software Assurance entitlements in workspace](create-sa-entitlements-workspace.md)**  
 Define license details for Microsoft Software Assurance \(SA\) in the Software Asset Workspace to manage your contracts start and end dates, software upgrades, and related software entitlements.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 
 **Related topics**  
 
 
-[Software entitlement fields](../reference/software-entitlement-fields.md)
+[Software entitlement fields](software-entitlement-fields.md)
 
 [Create device allocation](create-device-allocation.md)
 

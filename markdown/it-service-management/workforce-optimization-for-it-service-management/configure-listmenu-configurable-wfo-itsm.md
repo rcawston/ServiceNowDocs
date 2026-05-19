@@ -245,5 +245,5 @@ You can copy the code below into the Value field in the system property and modi
 }]
 ```
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](setup-coaching-configurable-workforce-optimization-itsm.md)
 

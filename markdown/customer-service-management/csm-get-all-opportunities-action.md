@@ -123,5 +123,5 @@ The following are outputs of the post-processing step.
 
 Action outputs consist of the query status, error and information messages, and opportunity records. See the preceding screenshot for the action outputs.
 
-**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](../concept/csm-integration-salesforce-spoke.md)
+**Parent Topic:**[Create Salesforce spoke actions to retrieve opportunities](csm-integration-salesforce-spoke.md)
 

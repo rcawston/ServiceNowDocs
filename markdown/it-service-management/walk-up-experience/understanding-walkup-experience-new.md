@@ -36,7 +36,7 @@ Walk-up Experience provides the following benefits.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Schedule a single or multiple appointments to visit the walk-up lounge or the support lounge Walk-up Experience Employee Center.|[Plan your walk-up experience visit with Employee Center](../task/plan-your-visit.md)|Requesters/employees|
+|Schedule a single or multiple appointments to visit the walk-up lounge or the support lounge Walk-up Experience Employee Center.|[Plan your walk-up experience visit with Employee Center](plan-your-visit.md)|Requesters/employees|
 |Access IT services in real time by visiting a walk-up location. You can also schedule appointments to visit the walk-up location at a convenient future time. The agents get direct access to user devices so that employees can return to work faster.|[Walk-up Experience on Now Mobile](walk-up-experience-now-mobile.md)|Requesters/employees|
 |Organize and manage walk-up queues, interactions, and associated stockrooms that you use for fulfilling the walk-up requests in a centralized workspace.|[Manage Walk-up Experience queue and interaction](use-walkup-to-manage-demand.md)|Agents|
 |Observe and capture the trends and statistics that can improve your operational performance by monitoring the walk-up dashboard.|[Monitoring Walk-up Experience performance](walkup-dashboard-overview.md)|Administrators/managers|

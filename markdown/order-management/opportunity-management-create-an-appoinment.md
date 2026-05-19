@@ -31,7 +31,7 @@ You can create appointments only after creating an opportunity task. To create a
 
 4.  On the Create New Appointment form, fill in the fields.
 
-    For more information, see [Create new appointment form](../reference/create-appointments-form.md).
+    For more information, see [Create new appointment form](create-appointments-form.md).
 
 5.  Select **Save**.
 
@@ -43,5 +43,5 @@ You can create appointments only after creating an opportunity task. To create a
 **Related topics**  
 
 
-[Schedule an appointment from a touchpoint](../task/schedule-appointment-crm-touchpoint.md)
+[Schedule an appointment from a touchpoint](schedule-appointment-crm-touchpoint.md)
 

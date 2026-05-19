@@ -45,5 +45,5 @@ Several plugins are installed with the Cloud Action Library application. For mor
 5.  Select **Install**.
 
 
-**Parent Topic:**[Exploring Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+**Parent Topic:**[Exploring Cloud Action Library](exploring-cloud-actions-library.md)
 

@@ -231,5 +231,5 @@ The UI Notification Inbox \[ui\_notification\_inbox\] table lists all sent notif
 
 If users receive duplicate notifications, verify that the notification trigger has only one content provider. If the notification has both a Next Experience and Workspace content provider, remove the Workspace content provider from the notification trigger to send only the Next Experience notification with custom content.
 
-**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
 

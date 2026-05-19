@@ -19,5 +19,5 @@ PPM Collaboration uses the Microsoft Teams Graph and Microsoft Azure AD spoke ac
 
 **Important:** When you activate the Microsoft Teams Graph and Microsoft Azure AD spokes, a [Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md) for Microsoft Teams Graph and Microsoft Azure AD is created by default with the IDs **sn\_msteams\_ahv2.Microsoft\_Teams\_Spoke** and **sn\_azure\_ad\_spoke.AzureAD** respectively. The connection that is active \(the Active field is set to **true**\) in Connections related list of this alias uses this default ID to connect your ServiceNow instance to Microsoft Teams Graph and Microsoft Azure AD. Therefore, you can have multiple connections associated with this alias but ensure that only one connection is active at any given time.
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 

@@ -353,8 +353,8 @@ com.sn\_align\_cmn\_int.bulk\_import
     -   INSERT
     -   &lt;Value 2 name&gt;:
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure bulk import](../../apw-internal-integrations/reference/configure-bulk-import.md)
+-   Learn more: [Configure bulk import](../scenario-planning-in-spw/configure-bulk-import.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Portfolio Planning reference](../concept/portfolio-planning-reference.md)
+</table>**Parent Topic:**[Portfolio Planning reference](portfolio-planning-reference.md)
 

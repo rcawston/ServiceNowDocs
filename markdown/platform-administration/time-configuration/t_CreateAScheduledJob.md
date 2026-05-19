@@ -39,16 +39,16 @@ Create all new scheduled jobs using this method.
 
 The fields presented depend on the type of scheduled job required.
 
--   **[Automate generation and distribution of a report](../../reference-pages/task/schedule-report.md)**  
+-   **[Automate generation and distribution of a report](schedule-report.md)**  
 Generate and distribute scheduled reports via email.
--   **[Automatically generate something from a template](../../reference-pages/task/t_ScheduleTheGenerationOfAnEntity.md)**  
+-   **[Automatically generate something from a template](t_ScheduleTheGenerationOfAnEntity.md)**  
 Schedule the generation of entities, which include changes, incidents, and CIs.
--   **[Automatically run a script of your choosing](../../reference-pages/task/t_ScheduleAScriptExecution.md)**  
+-   **[Automatically run a script of your choosing](t_ScheduleAScriptExecution.md)**  
 Schedule both conditional and non-conditional scripts. If Domain Separation is installed in the instance, you can also select, filter, sort, and schedule scripts based on their assigned domains.
 -   **[Enable run types for scheduled job child tables](customize-run-times-for-scheduled-jobs.md#)**  
 The run types; **Day and Month in Year**, **Day in Week in Month in Year**, and **Week in Month**, require the fields; **Day**, **Month**, and **Year** to be visible. Child tables which don’t display those fields can't create jobs with that run type selected.
 
-**Parent Topic:**[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+**Parent Topic:**[Scheduled jobs](c_ScheduledJobs.md)
 
 **Related topics**  
 
@@ -59,7 +59,7 @@ The run types; **Day and Month in Year**, **Day in Week in Month in Year**, and 
 
 [Set a system time zone](t_SetASystemTimeZone.md)
 
-[Special cases in job schedules](../reference/r_SpecialCasesInJobSchedules.md)
+[Special cases in job schedules](r_SpecialCasesInJobSchedules.md)
 
 [View a schedule item](t_ViewAScheduleItem.md)
 

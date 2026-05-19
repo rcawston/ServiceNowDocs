@@ -79,5 +79,5 @@ Role required: admin
     External signatories document widget is available while you are editing third-party paper based request.
 
 
-**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](../concept/snlc-config-sn-legal-contracts.md)
+**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](snlc-config-sn-legal-contracts.md)
 

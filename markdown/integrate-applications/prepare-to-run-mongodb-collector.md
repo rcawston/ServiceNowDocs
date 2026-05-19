@@ -33,5 +33,5 @@ Role required: admin
     -   For built-in roles: Assign the Read any database role.
     -   For specific privileges: Assign Read permission for every database that you want to collect.
 
-**Parent Topic:**[MongoDB metadata collector](../concept/mongodb-metadata-collector.md)
+**Parent Topic:**[MongoDB metadata collector](mongodb-metadata-collector.md)
 

@@ -54,5 +54,5 @@ After a purchase is submitted, delivery date information remains visible through
 -   **View by line**: Displays delivery dates per purchase line, including split delivery schedules and service start and end dates.
 -   **Purchase details**: Shows delivery-related fields such as expected delivery date \(for goods\), start and end dates \(for services\), and the associated delivery location.
 
-**Parent Topic:**[Select a delivery date](../task/select-delivery-date.md)
+**Parent Topic:**[Select a delivery date](select-delivery-date.md)
 

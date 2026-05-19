@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Complaint Management.](../task/configure-fso-complaints-mgmt.md)
+[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Complaint Management.](configure-fso-complaints-mgmt.md)
 
 </td><td>
 
@@ -33,11 +33,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Coordinate work and improve processes with preconfigured dashboard.](../../../use/dashboards/application-content-packs/fso-complaint-mgmt-dashboard.md)
+[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Coordinate work and improve processes with preconfigured dashboard.](../fso-complaint-mgmt-dashboard.md)
 
 </td><td>
 
-[Process Mining ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Visualize process and identify improvement opportunities.](../../fso-common/concept/fso-process-optz-content-pack.md)
+[Process Mining ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Visualize process and identify improvement opportunities.](../fso-process-optz-content-pack.md)
 
 </td><td>
 

@@ -28,5 +28,5 @@ Role required: Quality Issue Management Admin or product non-conformance submitt
     -   Open: All the open cases.
     -   Unassigned: Unassigned cases and assign them to the available agent.
 
-**Parent Topic:**[Product non-conformance](../concept/mco-product-non-conformances.md)
+**Parent Topic:**[Product non-conformance](mco-product-non-conformances.md)
 

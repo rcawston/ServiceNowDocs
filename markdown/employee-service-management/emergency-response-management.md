@@ -106,14 +106,14 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
--   **[Emergency Outreach](emergency-outreach.md)**  
+-   **[Emergency Outreach](emergency-outreach/emergency-outreach.md)**  
 Notify users of important information about anticipated or occurring emergency situations. Send an outreach notification via email, mobile push message, or SMS message to request a user response. You can also configure other preferred communication channels.
--   **[Emergency Self Report](emergency-self-report.md)**  
+-   **[Emergency Self Report](emergency-self-report/emergency-self-report.md)**  
 During a crisis, the ServiceNow® Emergency Self Report application gives users a way to notify their organization of their health status. It also provides a workflow for qualified users to safely return to work. Managers and response teams can track user reporting.
--   **[Emergency Exposure Management](emergency-exposure-management.md)**  
+-   **[Emergency Exposure Management](emergency-exposure-management/emergency-exposure-management.md)**  
 The ServiceNow® Emergency Exposure Management application helps identify users who might have been exposed to infectious diseases by analyzing multiple data sources such as meetings, location, shifts, Wi-Fi access logs, and badge scans of affected users.
--   **[Safe Workplace for mobile](mobile-emergency-response.md)**  
+-   **[Safe Workplace for mobile](safe-workplace-for-mobile/mobile-emergency-response.md)**  
 Manage the essential steps for return to workplace from anywhere using the Safe Workplace for mobile app.
 
-**Parent Topic:**[Employee Service Management](../../employee-service-management/concept/employee-service-management-overview.md)
+**Parent Topic:**[Employee Service Management](employee-service-management-overview.md)
 

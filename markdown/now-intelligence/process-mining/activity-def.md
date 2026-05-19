@@ -108,5 +108,5 @@ Include empty start node
 Includes an empty node on the process graph when the selected activity definition field is empty at the time of record creation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](process-mining-reference.md)
 

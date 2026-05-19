@@ -50,5 +50,5 @@ You can provide details about yourself, such as your role in your organization. 
     **Note:** Your profile picture is used by the Connect and legacy chat features as well, if they are activated.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](r_LiveFeedUIOverview.md)
 

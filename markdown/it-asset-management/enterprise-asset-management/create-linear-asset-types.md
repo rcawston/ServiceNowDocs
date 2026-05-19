@@ -45,5 +45,5 @@ Role required: sn\_eam.enterprise\_asset\_manager
     The new linear asset type appears in the Linear asset types related list. If you don't see it in the related list, select the Refresh List icon on the right side of the page.
 
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

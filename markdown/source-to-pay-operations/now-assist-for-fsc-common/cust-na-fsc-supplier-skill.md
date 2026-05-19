@@ -41,7 +41,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Supplier summarization for fulfillers skill](../reference/input-triggers-na-fsc-supplier.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Supplier summarization for fulfillers skill](input-triggers-na-fsc-supplier.md).
 
     1.  Enter a name and description for the skill.
 
@@ -139,7 +139,7 @@ Description of the base input field value.
     The fulfillers having the sn\_fsc\_genai.now\_assist\_fulfiller role can now select **Summarize** for a supplier record in the Source-to-Pay Workspace to generate the summary of the supplier.
 
 
--   **[Skill inputs for Supplier summarization for fulfillers skill](../reference/input-triggers-na-fsc-supplier.md)**  
+-   **[Skill inputs for Supplier summarization for fulfillers skill](input-triggers-na-fsc-supplier.md)**  
 You can configure some of the inputs for a generative AI skill. Inputs permit you to determine how and when a skill is used.
 
 **Parent Topic:**[Configuring Now Assist for Common Finance and Supply Chain features](configure-now-assist-fsc.md)

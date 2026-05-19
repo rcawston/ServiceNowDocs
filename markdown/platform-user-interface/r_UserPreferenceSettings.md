@@ -859,12 +859,12 @@ Indicates whether users see UI15 or Core UI \(UI16\). The Core UI plugin \[com.g
  **Default value**: **True**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[User preferences](../concept/c_UserPreferences.md)
+</table>**Parent Topic:**[User preferences](c_UserPreferences.md)
 
 **Related topics**  
 
 
-[Turn off the Next Experience welcome screen after upgrading your instance](../task/remove-welcome-splash-screen.md)
+[Turn off the Next Experience welcome screen after upgrading your instance](remove-welcome-splash-screen.md)
 
-[Configure available keyboard shortcuts](../task/configure-keyboard-shortcuts.md)
+[Configure available keyboard shortcuts](configure-keyboard-shortcuts.md)
 

@@ -36,13 +36,13 @@ Many-to-many tables used in Compliance Workspace for creating and deleting the i
 
 For more information, see:
 
--   [Tables installed](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#) for descriptions of the m2m tables.
--   [Create GRC issues](../task/manually-create-issues-ws.md) for the different compliance objects that are linked to the issue.
--   [Create a control](../task/create-control-ws.md#control-m2m-rel) using the Compliance Workspace to link issues to a control.
+-   [Tables installed](../policy-and-compliance-management/r_InstallWPolAndCompl.md#) for descriptions of the m2m tables.
+-   [Create GRC issues](manually-create-issues-ws.md) for the different compliance objects that are linked to the issue.
+-   [Create a control](create-control-ws.md#control-m2m-rel) using the Compliance Workspace to link issues to a control.
 -   [Linking automatically generated issues to a control in Many-to-many relationship](originator-automatic-issues-ws.md) to know how multiple issues linked to a control are categorized as automatically generated or manually created.
--   [Create an authority document](../task/create-authority-doc-ws.md#authority-doc-m2m-rel) using the Compliance Workspace to link issues to an authority document.
--   [Create a control objective](../task/create-ctrl-objective-ws.md#control-obj-m2m-rel) using the Compliance Workspace to link issues to a control objective.
--   [Create an audit engagement](../../grc-workspace-audit/task/create-engagement-ws.md#engag-m2m-rel) in Audit Workspace to link issues to an engagement.
--   [Create a policy](../task/create-policy-ws.md#policy-m2m-rel) using the Compliance Workspace to link issues to a policy.
--   [360° view of compliance objects and issues](../../grc-policy-and-compliance/concept/grc-policy-data-navigtor.md#section_uws_z3v_xvb) for a comprehensive and detailed overview of all object data that the issue is linked to in a many-to-many relationship.
+-   [Create an authority document](create-authority-doc-ws.md#authority-doc-m2m-rel) using the Compliance Workspace to link issues to an authority document.
+-   [Create a control objective](create-ctrl-objective-ws.md#control-obj-m2m-rel) using the Compliance Workspace to link issues to a control objective.
+-   [Create an audit engagement](../audit-management/create-engagement-ws.md#engag-m2m-rel) in Audit Workspace to link issues to an engagement.
+-   [Create a policy](create-policy-ws.md#policy-m2m-rel) using the Compliance Workspace to link issues to a policy.
+-   [360° view of compliance objects and issues](../policy-and-compliance-management/grc-policy-data-navigtor.md#section_uws_z3v_xvb) for a comprehensive and detailed overview of all object data that the issue is linked to in a many-to-many relationship.
 

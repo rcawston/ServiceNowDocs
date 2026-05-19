@@ -54,5 +54,5 @@ You can add and modify any useful quick links and bookmark those links that help
     6.  Click **Delete** to delete the links while editing that were bookmarked.
 
 
-**Parent Topic:**[Quick links section](../concept/quick-links.md)
+**Parent Topic:**[Quick links section](quick-links.md)
 

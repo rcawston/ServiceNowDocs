@@ -23,11 +23,11 @@ First, you must activate the HR Service Delivery Integration with Workday applic
 
 ## Worker profile settings
 
-Store one-time configuration parameters for synchronizing data between Workday and ServiceNow. For more information, see [Configure worker profile settings](../task/config-w-sync.md).
+Store one-time configuration parameters for synchronizing data between Workday and ServiceNow. For more information, see [Configure worker profile settings](config-w-sync.md).
 
 **Note:** Even if you are not using Worker profile synchronization, ensure that you have configured the **Workday tenant time zone** field in the Workday Worker Profile Sync Configurations form. This field handles the time zones between the two systems, ServiceNow and Workday.
 
 ## Schedule flow activation
 
-Activate and run the schedule flow that pulls Worker profile information into ServiceNow. For more information, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Activate and run the schedule flow that pulls Worker profile information into ServiceNow. For more information, see [Activating schedule flows](activate-w-schedule-flow.md).
 

@@ -38,5 +38,5 @@ When you move a card to a different lane on a guided board, the field on which t
     If you get an error message saying **You do not have the permission to modify this record**, create system property `glide.vtb.enable_list_edit_acl` and setting it to **false**.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

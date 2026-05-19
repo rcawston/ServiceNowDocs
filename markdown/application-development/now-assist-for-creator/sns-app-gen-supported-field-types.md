@@ -30,5 +30,5 @@ App generation currently supports the creation of the following field types:
 
 For a detailed list and description of all field types available in the platform, see [Field types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
 
-**Parent Topic:**[App generation reference](../concept/sns-app-gen-reference-landing.md)
+**Parent Topic:**[App generation reference](sns-app-gen-reference-landing.md)
 

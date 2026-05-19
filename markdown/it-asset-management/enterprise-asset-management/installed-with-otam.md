@@ -86,16 +86,16 @@ sn\_eam.asset\_technician
 |Risk Heat Map \(com.sn\_risk\_heatmap\)|Provides a heatmap component that enables you to visualize the risk posture of your organization.|
 |Geo Map Component \(com.sn\_geo\_map\)|Provides the capability to track the location of the assets using indoor maps.|
 
-**Parent Topic:**[OT Asset Management](../concept/ot-asset-management.md)
+**Parent Topic:**[OT Asset Management](ot-asset-management.md)
 
 **Related topics**  
 
 
-[OT Asset Management licensing](../concept/licensing-ot-asset-management.md)
+[OT Asset Management licensing](licensing-ot-asset-management.md)
 
-[Install OT Asset Management](../task/install-otam.md)
+[Install OT Asset Management](install-otam.md)
 
-[OT Asset Workspace](../concept/ot-asset-ws-otam.md)
+[OT Asset Workspace](ot-asset-ws-otam.md)
 
-[Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets](../concept/asset-ci-sync-ot-assets.md)
+[Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets](asset-ci-sync-ot-assets.md)
 

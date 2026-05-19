@@ -23,13 +23,13 @@ Role required: admin
 
 GRC Risk Advanced provides access to the following features:
 
--   [Manage risk events](../reference/manage-risk-events.md#)
--   [Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+-   [Manage risk events](manage-risk-events.md#)
+-   [Risk hierarchy and scoring](risk-hierarchy-scoring.md)
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../download-grc-first-time.md).
 
 
-**Parent Topic:**[Risk Management implementation](../concept/risk-impl-overview.md)
+**Parent Topic:**[Risk Management implementation](risk-impl-overview.md)
 

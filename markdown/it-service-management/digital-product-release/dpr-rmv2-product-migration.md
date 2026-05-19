@@ -19,7 +19,7 @@ If you have the Release Management v2 \(RM v2\) application installed, you can m
 
 Role required: admin
 
-To provide access to additional roles, you can add comma-separated values of other roles installed with DPR in the system property **sn\_dpr\_model.rmv2.migration\_roles**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+To provide access to additional roles, you can add comma-separated values of other roles installed with DPR in the system property **sn\_dpr\_model.rmv2.migration\_roles**. For more information, see [Digital Product Release properties](digital-product-release-properties.md).
 
 ## About this task
 

@@ -17,9 +17,9 @@ The PdfMergeSignRequestor API provides methods to add an image representing a si
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API creates a signature object that can be implemented in a PDF using [PDFGenerationAPI](../../PDFGenerationAPIBoth/concept/PDFGenerationAPIBothAPI.md#).
+This API creates a signature object that can be implemented in a PDF using [PDFGenerationAPI](PDFGenerationAPIBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PdfMergeSignRequestor - PdfMergeSignRequestor\(\)
 

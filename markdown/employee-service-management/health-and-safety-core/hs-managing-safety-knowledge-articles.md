@@ -53,7 +53,7 @@ To view a list of all knowledge base articles in the Health and Safety Workspace
 -   Select the filter icon \(![filter icon](../../talent-acquisition/images/icon-filter.png)\) in the list and remove the `Knowledge base = Safety` filter.
 -   Additionally, to remove this default filter setting from the Knowledge list in the Health and Safety Workspace, remove it in the UIB related list configuration. For more information, see [Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/lists-configurable-workspace.md)
 
--   **[Create a Health and Safety knowledge article](../task/hs-create-safety-knowledge-article.md)**  
+-   **[Create a Health and Safety knowledge article](hs-create-safety-knowledge-article.md)**  
 Create a safety-related knowledge article in the Health and Safety Workspace to share information across your organization.
 
 **Parent Topic:**[Using Health and Safety Core](using-hs-core.md)

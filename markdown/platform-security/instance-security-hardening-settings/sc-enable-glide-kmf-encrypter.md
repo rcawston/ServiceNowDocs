@@ -91,7 +91,7 @@ References
 
 </td><td>
 
-[Password2 encryption with the Key Management Framework \(KMF\)](../../key-management-framework/concept/password-2way-encrypted-fields.md)
+[Password2 encryption with the Key Management Framework \(KMF\)](../platform-encryption/password-2way-encrypted-fields.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Stored cryptography](sc-stored-cryptography.md)

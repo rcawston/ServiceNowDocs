@@ -17,10 +17,10 @@ Manage budget, cost plans as forecasts, actual expenses as expense lines, genera
 
 The following features help you to manage your financials.
 
--   Manage cost plans for your demands. For more information, see [Add, edit, or delete demand cost plans](../task/add-edit-delete-demand-cost-plans-ppw.md).
--   Add or edit expense lines for your demands to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](../task/add-or-edit-expense-lines-demand-ppw.md).
--   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](../task/generate-labor-costs-ppw.md).
--   Create baselines to capture the financial snapshot of your demands. For more information, see [Create financial baselines](../task/create-financial-baselines-ppw.md).
+-   Manage cost plans for your demands. For more information, see [Add, edit, or delete demand cost plans](add-edit-delete-demand-cost-plans-ppw.md).
+-   Add or edit expense lines for your demands to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](add-or-edit-expense-lines-demand-ppw.md).
+-   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](generate-labor-costs-ppw.md).
+-   Create baselines to capture the financial snapshot of your demands. For more information, see [Create financial baselines](create-financial-baselines-ppw.md).
 
 ## Multicurrency
 
@@ -43,13 +43,13 @@ You can monitor and track the financials in one currency, and capture the costs 
 
 ## Baselines
 
-Create a baseline to capture a snapshot of the financial changes for your demands. You can create on-demand baselines or at a cadence using a scheduler job. For more information, see [Create financial baselines](../task/create-financial-baselines-ppw.md).
+Create a baseline to capture a snapshot of the financial changes for your demands. You can create on-demand baselines or at a cadence using a scheduler job. For more information, see [Create financial baselines](create-financial-baselines-ppw.md).
 
 ## Budget allocation
 
-Portfolio managers can manage and approve the budget for demands. The approved budget helps demand managers to plan and meet the expenses to execute work. For more information, see [Allocate budget to a demand](../task/allocate-budget-to-a-demand-ppw.md).
+Portfolio managers can manage and approve the budget for demands. The approved budget helps demand managers to plan and meet the expenses to execute work. For more information, see [Allocate budget to a demand](allocate-budget-to-a-demand-ppw.md).
 
 ## Benefit plans
 
-Monetary benefit plans capture potential benefits accrued while executing a demand. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a demand. You can create and manage monetary and non-monetary benefit plans and to capture the potential benefits of your planning items. For more information, see [Create and manage benefit plans](../task/create-and-manage-benefit-plans-ppw.md).
+Monetary benefit plans capture potential benefits accrued while executing a demand. Non-monetary benefit plans capture the potential non-financial benefits accrued while executing a demand. You can create and manage monetary and non-monetary benefit plans and to capture the potential benefits of your planning items. For more information, see [Create and manage benefit plans](create-and-manage-benefit-plans-ppw.md).
 

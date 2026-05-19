@@ -136,7 +136,7 @@ Manage the behavior of outgoing emails with Properties.
 
 **Note:** Select **Save** to save the recent property settings. You can also undo the most recent change by selecting **Undo**. By selecting **Undo**, the values are reverted back to the most recent saved values.
 
-See [Outbound email configuration](../../reference-pages/reference/r_OutboundMailConfiguration.md) for more information.
+See [Outbound email configuration](r_OutboundMailConfiguration.md) for more information.
 
 **Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
 

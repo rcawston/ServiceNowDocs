@@ -17,7 +17,7 @@ The Tag-based service mapping dashboard offers an intuitive way to manage tag-ba
 
 ## Prerequisites
 
-Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](../task/install-service-mapping-plus.md).
+Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](install-service-mapping-plus.md).
 
 ## Required role
 
@@ -97,5 +97,5 @@ Display tag-based information and access tag-based actions through the following
 
 When creating a service family for mapping services based on tags in domain-separated environment, you must pick the relevant leaf domain. Service Mapping populates tag-based services based on this service family only with CIs belonging to the leaf domain to which the service family belongs. If you have domain separation without Performance Analytics domain support, you can't see data visualization for the total number of tag-based service maps versus service candidates. You’re then redirected to install the Performance Analytics Domain Support plugin.
 
-For more information about domain separation and Service Mapping, see [Domain separation and Service Mapping](../concept/domain-separation-service-mapping.md).
+For more information about domain separation and Service Mapping, see [Domain separation and Service Mapping](domain-separation-service-mapping.md).
 

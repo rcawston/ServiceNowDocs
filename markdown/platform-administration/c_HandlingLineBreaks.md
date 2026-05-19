@@ -25,5 +25,5 @@ If an email notification or template is not converted to rich HTML, newlines are
 
 When writing new scripts, insert explicit HTML line breaks and clear the **Newlines to HTML** check box so that no HTML tags are injected when email notifications are generated. For existing notifications and templates, replace template.print\("\\n"\) JavaScript function calls with template.print\("&lt;br /&gt;"\). This replacement gives you better control over the HTML formatting of your email notifications.
 
-**Parent Topic:**[Create an email notification](../task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](t_CreateANotification.md)
 

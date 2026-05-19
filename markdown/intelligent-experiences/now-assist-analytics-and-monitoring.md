@@ -58,7 +58,7 @@ The following diagram shows the skills usage graphs and controls, which include 
 
 Data is collected once a day and uses Performance Analytics and Reporting \(PAR\) for data collection and visualization.
 
-For more detailed information about performance, see [Now Assist Analytics](../../now-assist-analytics/concept/now-assist-analytics.md) and
+For more detailed information about performance, see [Now Assist Analytics](now-assist-analytics.md) and
 
 ![Section that displays the number of actions, average unique users per day, and the number of actions over time. Use the controls to specify skills or change the date range.](../image/now-assist-skills-performance.png "Skills usage graphs and controls")
 

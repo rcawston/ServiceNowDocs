@@ -15,7 +15,7 @@ breadcrumb: [Activate Change Management - Standard Change Catalog, Change Manage
 
 Several types of components are installed with Change Management - Standard Change Catalog.
 
-**Parent Topic:**[Activate Change Management - Standard Change Catalog](../task/t_ActivateStandardChangeCatalog.md)
+**Parent Topic:**[Activate Change Management - Standard Change Catalog](t_ActivateStandardChangeCatalog.md)
 
 ## Tables installed with Change Management - Standard Change Catalog
 

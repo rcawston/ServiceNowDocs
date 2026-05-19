@@ -32,5 +32,5 @@ The following changes occur when you upgrade to version 1.0.12 of the ISA Equipm
 -   The **Site User – Can Read** and **Site User – Can Edit** application menu items are added to the ServiceNow AI Platform.
 -   The **Can Read Equipment Models** and **Can Edit Equipment Models** related lists are added to the Equipment Model Entity record for a site.
 
-**Parent Topic:**[Industrial Process Manager reference](../reference/manufacturing-process-mgr-reference.md)
+**Parent Topic:**[Industrial Process Manager reference](manufacturing-process-mgr-reference.md)
 

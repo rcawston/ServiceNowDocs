@@ -22,5 +22,5 @@ The incident pattern analysis tool automatically detects recurring patterns acro
 -   **[Conversational AI Health and Safety incident or observation report](now-assist-explore-conversational-incidents.md)**  
 Use the Now Assist panel conversational interface to report Health and Safety incidents and observations that enables you to engage with live agents, virtual agents, or both.
 
-**Parent Topic:**[Now Assist for Health and Safety](../reference/now-assist-hs-landing.md)
+**Parent Topic:**[Now Assist for Health and Safety](now-assist-hs-landing.md)
 

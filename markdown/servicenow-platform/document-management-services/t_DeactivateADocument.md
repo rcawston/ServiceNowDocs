@@ -32,5 +32,5 @@ Role required: document\_management\_user
     **Note:** To activate a document, right-click on the header and click **Reopen Document**.
 
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

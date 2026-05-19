@@ -86,5 +86,5 @@ The attribute is created and the planning attributes screen is displayed.
 **Related topics**  
 
 
-[Using the Planning attributes](../concept/planning-attributes.md)
+[Using the Planning attributes](planning-attributes.md)
 

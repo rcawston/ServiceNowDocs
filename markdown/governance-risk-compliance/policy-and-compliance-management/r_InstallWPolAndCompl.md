@@ -19,7 +19,7 @@ Reference topics provide additional information about components that are instal
 
 Demo data is available for this feature.
 
-**Parent Topic:**[Policy and Compliance Management reference](../concept/reference-data-policy-compliance.md)
+**Parent Topic:**[Policy and Compliance Management reference](reference-data-policy-compliance.md)
 
 ## Roles installed with GRC: Policy and Compliance Management
 

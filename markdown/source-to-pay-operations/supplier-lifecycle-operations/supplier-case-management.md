@@ -27,7 +27,7 @@ Supplier Case Management has the following plugin dependencies:
 -   Supplier Common Architecture \(com.snc.sn\_slm\)
 -   Source-to-Pay Workspace \(com.sn\_spend\_workspace\)
 
-For more information about installing and configuring Supplier Case Management, see [Install Supplier Case Management](../task/install-supp-mgmt.md).
+For more information about installing and configuring Supplier Case Management, see [Install Supplier Case Management](install-supp-mgmt.md).
 
 **Related topics**  
 

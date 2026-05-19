@@ -315,7 +315,7 @@ For more information about creating related lists, see [Add related list conditi
 
     2.  Click the search icon ![Look-up icon](../image/LookupUsingList.png).
 
-        The list of subflows provided with the base system appears. For more information, see [Event Management subflows in the base system](../reference/subflows-provided.md).
+        The list of subflows provided with the base system appears. For more information, see [Event Management subflows in the base system](subflows-provided.md).
 
     3.  From the subflow list, select a subflow.
 
@@ -360,7 +360,7 @@ For more information about creating related lists, see [Add related list conditi
 
 The alert management rule is added to the list of available rules that can be used to resolve alerts.
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](alert-management-rule.md)
 
 **Related topics**  
 

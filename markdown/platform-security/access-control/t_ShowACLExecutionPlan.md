@@ -21,7 +21,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+1.  [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Access Control \(ACL\)**.
 

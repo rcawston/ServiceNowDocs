@@ -58,5 +58,5 @@ Approve or deny a quorum control request from Key Management Transactions.
 -   **[Approve or deny a quorum request](perform-quorum-action.md)**  
 When a quorum request has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The users can grant approvals from the Key Management Operations page, **My Approvals** in the Instance, or directly from the request email. The key withdrawal operation is blocked until the quorum is met.
 
-**Parent Topic:**[Quorum Control Policy](../concept/quorum-ctrl-policy.md)
+**Parent Topic:**[Quorum Control Policy](quorum-ctrl-policy.md)
 

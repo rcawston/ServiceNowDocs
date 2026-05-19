@@ -29,14 +29,14 @@ Role required: it\_pps\_admin
 
 3.  On the stakeholder register form, fill in the fields.
 
-    For a description of the field names, see [Stakeholder Register Form](../reference/stakeholder-register-form.md).
+    For a description of the field names, see [Stakeholder Register Form](stakeholder-register-form.md).
 
     **Note:** When adding a user to the stakeholder registry, the combination of the user and the assigned portfolio must be unique. However, there can be more records for the same user but with a different portfolio.
 
 
-**Parent Topic:**[Set up Demand Management](../concept/c_SettingUpDemandManagement.md)
+**Parent Topic:**[Set up Demand Management](c_SettingUpDemandManagement.md)
 
-**Previous topic:**[Planning for Demand Management](../reference/r_PlanningForDemandManagement.md)
+**Previous topic:**[Planning for Demand Management](r_PlanningForDemandManagement.md)
 
-**Next topic:**[View an assessment metric category](../../../administer/assessments/task/t_CreateAnAssessmentCategory.md)
+**Next topic:**[View an assessment metric category](t_CreateAnAssessmentCategory.md)
 

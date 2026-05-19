@@ -77,7 +77,7 @@ Flow Priority
 
 </td><td>
 
-Priority value used to run a background flow. For more information about setting flow priority, see [Flow priority](flow-priority.md).**Note:** This field is hidden by default. For more information about showing the flow priority field, see [Show flow priority field](../task/show-flow-priority-field.md).
+Priority value used to run a background flow. For more information about setting flow priority, see [Flow priority](flow-priority.md).**Note:** This field is hidden by default. For more information about showing the flow priority field, see [Show flow priority field](show-flow-priority-field.md).
 
 .
 

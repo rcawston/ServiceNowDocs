@@ -69,7 +69,7 @@ Description
 
 </td><td>
 
-Short description of the information object.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](../../../now-assist-ea/task/elaborate-or-shorten-content-form-fields.md).
+Short description of the information object.You can also elaborate or shorten the content in this field using Now Assist. For details, see [Elaborate or shorten content in form fields](elaborate-or-shorten-content-form-fields.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
@@ -77,7 +77,7 @@ Short description of the information object.You can also elaborate or shorten th
 **Related topics**  
 
 
-[Exploring information objects](../../concept/eaw-concept/eaw-information-objects.md)
+[Exploring information objects](eaw-information-objects.md)
 
-[Add or edit an information object](../../task/eaw-task/eaw-create-new-information-object.md)
+[Add or edit an information object](eaw-create-new-information-object.md)
 

@@ -63,7 +63,7 @@ Refer to the following table and verify that you have completed all the listed t
     2.  Security Integration Framework
     3.  Security Support Common
     4.  Security Support Orchestration
-    For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+    For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 
 ## What to do next
@@ -74,9 +74,9 @@ If you have not saved searches in your Splunk Enterprise console for ingestion, 
 
 If you want to export events manually and on-demand from your Splunk Enterprise console for the integration, see [Set up ServiceNow Event Ingestion Integration add-on](splunk-event-ingest-setup-prereqs.md) for more information.
 
-**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](../concept/splunk-event-ingest-overview.md)
+**Parent Topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](splunk-event-ingest-overview.md)
 
-**Previous topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](../concept/splunk-event-ingest-overview.md)
+**Previous topic:**[Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow](splunk-event-ingest-overview.md)
 
 **Next topic:**[Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-install-and-configure.md)
 

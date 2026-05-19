@@ -114,7 +114,7 @@ Option to add a CAPTCHA to the registration form. The default CAPTCHA provider i
     |Mandatory|Set any field you want to make it mandatory as `True`.|
     |Validation only field|Set any field you want to use only for validation. For example, registration code.|
 
-    You can choose to display the default form fields or you can add custom form fields to the Registration Form. For more information, see [Default registration form fields](../reference/default-reg-form-fields.md).
+    You can choose to display the default form fields or you can add custom form fields to the Registration Form. For more information, see [Default registration form fields](default-reg-form-fields.md).
 
     ![Registration tab of User Registration Configuration](../images/registration_tab_EU_self-registration.png "Registration tab")
 

@@ -34,9 +34,9 @@ Under Email, Draft, Sent Emails and Received Emails are displayed.
 
 [Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Reports in Security Incident Response](report-templates-sir.md)
 

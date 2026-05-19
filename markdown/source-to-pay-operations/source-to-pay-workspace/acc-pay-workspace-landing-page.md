@@ -303,17 +303,17 @@ Widget
 
 </td><td>
 
-View the list of invoice tasks that are assigned to the assignment group of the current user. For more information on the fields of invoice tasks, see [Create New Invoice task form](../reference/create-apm-task-form.md)
+View the list of invoice tasks that are assigned to the assignment group of the current user. For more information on the fields of invoice tasks, see [Create New Invoice task form](../accounts-payable-operations/create-apm-task-form.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+</table>**Parent Topic:**[Source-to-Pay Workspace landing page](source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SPO landing page](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[SPO landing page](procurement-workspace-landing-page.md)
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](supp-manager-ws-home.md)
 
-[POM landing page](../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
+[POM landing page](purch-order-mgmt-tab-s2pws.md)
 

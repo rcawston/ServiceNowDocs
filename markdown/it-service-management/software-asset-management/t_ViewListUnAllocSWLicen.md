@@ -36,5 +36,5 @@ You can allocate the licenses to users or devices. If no one needs the unallocat
     View the **Software Model** list in the **Unallocated License** view.
 
 
-**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](../concept/c_SoftwareLicenses.md)
+**Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
 

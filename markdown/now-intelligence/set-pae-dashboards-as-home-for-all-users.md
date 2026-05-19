@@ -46,5 +46,5 @@ All users see the last dashboard that they visited when they log in to ServiceNo
 
 ## What to do next
 
-[Set a specific dashboard as home for all users](../../dashboards/task/set-specific-db-as-home-for-all-users.md)
+[Set a specific dashboard as home for all users](performance-analytics/set-specific-db-as-home-for-all-users.md)
 

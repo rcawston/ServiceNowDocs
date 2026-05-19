@@ -78,5 +78,5 @@ For more information, see [Setting up SharePoint Online Search Connector](setup-
 **Related topics**  
 
 
-[SharePoint Online Search Connector reference](../reference/sharepoint-reference.md)
+[SharePoint Online Search Connector reference](sharepoint-reference.md)
 

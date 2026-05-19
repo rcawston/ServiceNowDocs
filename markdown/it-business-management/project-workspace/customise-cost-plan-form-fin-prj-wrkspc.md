@@ -36,5 +36,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](config-fin-pws.md)
 

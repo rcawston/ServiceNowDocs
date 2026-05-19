@@ -43,6 +43,6 @@ When you first navigate to the Vault console on a new instance, the console is i
 
 4.  Based on organizational needs and functionality of each user, further additional tool-specific roles can be assigned to users.
 
-    For more role related information, see [ServiceNow Vault roles](../concept/vault-roles.md).
+    For more role related information, see [ServiceNow Vault roles](vault-roles.md).
 
 

@@ -33,13 +33,13 @@ When a transaction is selected for a card dispute, you can obtain additional inf
 
 **Note:** Additional integrations such as [Ethoca Consumer Clarity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/ethoca-spoke.md) are available to retrieve additional information on a transaction.
 
-The system evaluates decision rules and determines policy rules for each transaction in the case. For example, determining which transaction qualifies for a provisional credit, as opposed to a final credit. However, if the dispute is initiated by a contributor or customer, the evaluation of decision rules occurs only after the Review task has been submitted. For more information on these rules, see [Dispute decision tables](dispute-decision-tables.md).
+The system evaluates decision rules and determines policy rules for each transaction in the case. For example, determining which transaction qualifies for a provisional credit, as opposed to a final credit. However, if the dispute is initiated by a contributor or customer, the evaluation of decision rules occurs only after the Review task has been submitted. For more information on these rules, see [Dispute decision tables](../dispute-decision-tables.md).
 
 The system generates tasks based on the policy rules that are evaluated when a case is submitted. For instance, when a case has a dispute category of Fraud, the system creates a task to block and reissue the card.
 
 Chargeback eligibility rules depend on the dispute category \(for card disputes\). In cases of fraud, these rules are evaluated during the Investigate stage, specifically after the Fraud Report task is submitted. For non-fraud categories, the evaluation happens at the Submit action, whether from Initiate or Review. For ACH disputes, the eligibility for chargeback is evaluated during investigation and can be assisted by Now Assist agents.
 
-For information about Now Assist for FSO, see [Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/now-assist-for-financial-services-operations.md).
+For information about Now Assist for FSO, see [Now Assist for Financial Services Operations \(FSO\)](../now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md).
 
 For information about configuring business rules, see [Exploring Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-designer-overview.md).
 
@@ -79,11 +79,11 @@ This stage applies for each disputed transaction in a case. You can access this 
 
 Each transaction is opened in the **Dispute Workspace**, represented as a process-based layout. This layout visually represents the distinct stages of the investigation workflow for that specific transaction: Investigate, Chargeback, and Closure.
 
-During this stage, the card network, card issuing bank, merchant bank or acquirer, and merchant engage in review processes to make final determinations for each transaction. In this stage, the merchant gets alerted of a card dispute transaction. If a merchant declines a disputed transaction, then a task to [Investigate transactions](../task/manually-investigate-disputed-transaction.md) is created.
+During this stage, the card network, card issuing bank, merchant bank or acquirer, and merchant engage in review processes to make final determinations for each transaction. In this stage, the merchant gets alerted of a card dispute transaction. If a merchant declines a disputed transaction, then a task to [Investigate transactions](manually-investigate-disputed-transaction.md) is created.
 
 **Note:** Issuer banks don’t contact merchants directly about disputed transactions. However, merchants enrolled in Ethoca Alerts or Verifi CDRN receive notifications of potential disputes, enabling them to work with cardholders to resolve issues and help prevent chargebacks.
 
-In this stage, agents can also work on transactions identified as friendly fraud. For more information, see [Detect friendly fraud](../task/resolve-friendly-fraud.md).
+In this stage, agents can also work on transactions identified as friendly fraud. For more information, see [Detect friendly fraud](resolve-friendly-fraud.md).
 
 ## Chargeback
 
@@ -110,13 +110,13 @@ Agents can enter the Resolution code and any Resolution notes before the case is
 **Related topics**  
 
 
-[Card Disputes data model](../reference/dispute-data-model.md)
+[Card Disputes data model](../dispute-data-model.md)
 
-[Set up Dispute Management](../../fso-deposit-operations/concept/setting-up-disputes-management.md)
+[Set up Dispute Management](setting-up-disputes-management.md)
 
 [About dispute intake](dispute-intake-overview.md)
 
-[Review a dispute from portal or workspace intake](../task/review-a-dispute-from-cardholder-intake.md)
+[Review a dispute from portal or workspace intake](review-a-dispute-from-cardholder-intake.md)
 
 [Managing Disputes](managing-disputes.md)
 

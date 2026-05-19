@@ -19,7 +19,7 @@ To prioritize the areas that need attention, risk assessment is performed by var
 
 The following are the key points to consider when users use the limited advanced risk assessment for their risk assessments.
 
--   The lite users of other business units can only have two published [risk assessment methodologies](../task/configure-ram.md).
+-   The lite users of other business units can only have two published [risk assessment methodologies](configure-ram.md).
 -   [Automated factors](factors.md) are available for use.
 -   Managing risk events and using the risk identification workflow are not available in limited risk assessments.
 

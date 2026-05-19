@@ -47,5 +47,5 @@ To enable the use of proxy servers, the custom properties for proxy server setti
     |proxy\_user\_password|The proxy server user password, used with the proxy\_name value in an authenticating proxy configuration.|\*\*\*\*\*|
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](configuring-odbc.md)
 

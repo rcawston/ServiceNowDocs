@@ -88,5 +88,5 @@ Implementation Guidance
 How do you set up the workflow for Mobile barcode scanning upon initiation of a request?
 
 </td></tr></tbody>
-</table>Submit queries with detailed information using an intake form. See [Request Access to Expertise](../task/access-expertise.md) for details on entering the request.
+</table>Submit queries with detailed information using an intake form. See [Request Access to Expertise](access-expertise.md) for details on entering the request.
 

@@ -29,6 +29,6 @@ Role required: clone\_admin
 
     The system updates the **State** field and produces a log entry in the **Clone Log** that shows the status of the clone.
 
-    If an error occurs, you might [roll back clone](roll-back-a-clone.md#) and [schedule recurring clones](schedule-cloning.md). For more information see [Clone states](../reference/clone-states.md).
+    If an error occurs, you might [roll back clone](roll-back-a-clone.md#) and [schedule recurring clones](schedule-cloning.md). For more information see [Clone states](clone-states.md).
 
 

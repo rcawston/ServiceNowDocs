@@ -33,7 +33,7 @@ To make a synonym dictionary affect search behavior, you must link it to a searc
 
 4.  On the Dictionary form, fill in the fields.
 
-    For a description of the field values, see [Dictionary and AI Search Dictionary forms](../reference/dictionary-form-ais.md).
+    For a description of the field values, see [Dictionary and AI Search Dictionary forms](dictionary-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -46,5 +46,5 @@ The new synonym dictionary appears in the Synonyms related list.
 
 To make new or updated synonym dictionary settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](synonyms-ais.md)
 

@@ -46,15 +46,15 @@ To access templates, you can choose one of the following ways:
 
 The following sections help you get started with templates in CWM.
 
--   **[Create a Board or Doc from a template in CWM](../task/create-a-space-board-or-doc-from-a-template-in-cwm.md)**  
+-   **[Create a Board or Doc from a template in CWM](create-a-space-board-or-doc-from-a-template-in-cwm.md)**  
 Create Boards or Docs using predefined or custom templates from the Template Center.
--   **[Apply a template to existing Board or Doc in CWM](../task/apply-a-template-to-existing-space-board-or-doc.md)**  
+-   **[Apply a template to existing Board or Doc in CWM](apply-a-template-to-existing-space-board-or-doc.md)**  
 Apply predefined or custom templates to existing Boards or Docs in Collaborative Work Management workspace so that you can avoid inconsistencies in structure and format across your processes.
--   **[Save a CWM Board or Doc as a template](../task/save-as-a-template.md)**  
+-   **[Save a CWM Board or Doc as a template](save-as-a-template.md)**  
 Save a Board or Doc, which you created or personalized, as a template so that you can reuse the same structure and format for other Boards and Docs in the future.
--   **[Update a template in CWM](../task/edit-a-template.md)**  
+-   **[Update a template in CWM](edit-a-template.md)**  
 Update sharing permissions for a Board template or edit the format of a Doc template using the Template Center in Collaborative Work Management \(CWM\).
--   **[Delete a Board or Doc template in CWM](../task/delete-a-template.md)**  
+-   **[Delete a Board or Doc template in CWM](delete-a-template.md)**  
 Delete any custom templates that are no longer necessary for your workflows using the Template Center in Collaborative Work Management \(CWM\).
 
 **Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)

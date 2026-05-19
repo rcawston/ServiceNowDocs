@@ -29,5 +29,5 @@ You are now logged into the Discovery Console for OT.
 
 ## What to do next
 
-Before you install the Console, review [Requirements for Discovery Console for OT installation](../../operational-technology-discovery/concept/requirements-installation-deployment.md).
+Before you install the Console, review [Requirements for Discovery Console for OT installation](requirements-installation-deployment.md).
 

@@ -163,7 +163,7 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
     4.  If the **Integration Type** field isn't visible on the OAuth 2.0 Credentials form, configure the form layout to make the field visible.
 
-        For details on configuring a form layout, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+        For details on configuring a form layout, see [Configuring the form layout](../configure-form-layout.md#).
 
     5.  On the OAuth 2.0 Credentials form, fill in the fields:
 
@@ -194,5 +194,5 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
 You can optionally configure a Microsoft Keyword Query Language \(KQL\) query to restrict the set of Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results search for relevant documents. For details on defining this KQL query, see [Restrict the Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results can search](filter-spo-sites-ext-cont-qa-gr.md).
 
-**Parent Topic:**[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)
+**Parent Topic:**[External Content Q&amp;A Genius Results](external-content-qna.md)
 

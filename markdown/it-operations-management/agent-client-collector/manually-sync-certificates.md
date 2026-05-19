@@ -36,5 +36,5 @@ Refresh Agent Client Collector self-signed certificates manually to validate Age
 
 When an agent fails to perform a certificate check, the agent synchronizes certificates available on the MID Server by pulling self-signed certificates from the install server. Certificates are downloaded by the Agent Client Collector if the agent does not validate its plugins.
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](acc-certificates.md)
 

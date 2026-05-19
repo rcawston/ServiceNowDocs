@@ -23,7 +23,7 @@ There are two ways to run or process an import set. The data displayed after the
 
 -   **Transform maps**
 
-    Legacy method to map data from an import set staging table to a single target table. Transform maps combine the transform and processing functions into a single process. Each time you run a transform map, the system must load data from the import set staging table, transform it, and then insert it into a single target table. You can define multiple table mappings with multiple transform maps. For more information, see [Transform maps](../../../script/server-scripting/concept/c_CreatingNewTransformMaps.md).
+    Legacy method to map data from an import set staging table to a single target table. Transform maps combine the transform and processing functions into a single process. Each time you run a transform map, the system must load data from the import set staging table, transform it, and then insert it into a single target table. You can define multiple table mappings with multiple transform maps. For more information, see [Transform maps](c_CreatingNewTransformMaps.md).
 
 
 After running the import, you can view the import history by navigating to the Import Set record and checking the tabs below the Related Links section. They cover the import set runs, import set rows, and import log.
@@ -125,7 +125,7 @@ Ignored
 
 Number of records ignored.
 
- An ignored record is one the user has specified should be ignored during an import. For example, you can identify records to ignore with the **ignore** variable in an onBefore script. For more information, see [Create Extract Transform Load \(ETL\) definitions](../task/create-etl-definitions.md).
+ An ignored record is one the user has specified should be ignored during an import. For example, you can identify records to ignore with the **ignore** variable in an onBefore script. For more information, see [Create Extract Transform Load \(ETL\) definitions](create-etl-definitions.md).
 
 </td></tr><tr><td>
 
@@ -246,7 +246,7 @@ For imports using a robust import set transformer, you can view additional detai
 -   Greater detail in the import log. With verbose mode, the import log includes transform logs that show how transform operations are applied to records.
 -   More information about each row's transform target rows. For each row in the **Import Set Rows** tab, clicking the row record opens the row in the import set table. In this view, you can see the transform target rows, import log, and import set row errors.
 
-The **Transform Target Rows** tab displays the state, target record, import set run, and any error messages for each row. The first three fields are all links to the associated records, making it easier to find and track information for improved debugging. For more information on enabling verbose mode, see [Create a robust import set transformer](../task/create-robust-import-set-transformer.md).
+The **Transform Target Rows** tab displays the state, target record, import set run, and any error messages for each row. The first three fields are all links to the associated records, making it easier to find and track information for improved debugging. For more information on enabling verbose mode, see [Create a robust import set transformer](create-robust-import-set-transformer.md).
 
 ![A row record showing the Transform Target Rows tab.](../image/transform-target-rows.png "Sample data showing the transform target row details for a row in the Computers import set table")
 

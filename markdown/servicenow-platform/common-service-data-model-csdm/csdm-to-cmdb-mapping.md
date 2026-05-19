@@ -36,5 +36,5 @@ In contrast, in sys\_choice inheritance definitions in child tables override the
 **Related topics**  
 
 
-[CSDM resources](../reference/csdm-resources.md)
+[CSDM resources](csdm-resources.md)
 

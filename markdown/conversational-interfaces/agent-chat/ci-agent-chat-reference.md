@@ -40,7 +40,7 @@ Domain separation allows organizations to segment their data and processes based
 
 A service provider \(SP\) has one chat setting \(Agent Chat\) record in the global domain when the instance is provisioned.
 
-The admin of a subdomain can specify Agent Chat settings for that subdomain, such as work queues and assignment groups. For details, see [Setting up Agent Chat](../task/ac-configure-agent-chat.md).
+The admin of a subdomain can specify Agent Chat settings for that subdomain, such as work queues and assignment groups. For details, see [Setting up Agent Chat](ac-configure-agent-chat.md).
 
 When a user logs into a subdomain, a seeded Agent Chat settings record is created.
 

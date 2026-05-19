@@ -21,7 +21,7 @@ If you're creating apps in AES, you may be able to open your app in ServiceNow S
 
 Use the following topics as guides as you build out your application.
 
--   **[Resources for enhancing your app](../reference/resources-for-enhancing-your-app.md)**  
+-   **[Resources for enhancing your app](resources-for-enhancing-your-app.md)**  
 As you add data, experience, logic and automation, and security to your application, you might interact with several different parts of the ServiceNow AI Platform. The links in the following table point you to resources for adding content in App Engine Studio and also Table Builder, UI Builder, Decision Builder, App Engine Management Center, and the ServiceNow AI Platform.
 -   **[Create a data model for your application](add-data.md)**  
 Create a data model in App Engine Studio \(AES\) for your application by creating the tables that will house your application data. Create data tables that will be used in your application by creating the table from scratch, uploading a spreadsheetor PDF, or by using an existing table as a template. You can also create and schedule data imports by mapping a spreadsheet to an existing table in your application.

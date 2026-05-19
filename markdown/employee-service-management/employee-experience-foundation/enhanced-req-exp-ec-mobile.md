@@ -17,7 +17,7 @@ You can get the Enhanced Requests Experience on the Now Mobile app, bringing the
 
 You can directly view your Enhanced requests experience from the Now Mobile homepage. Under **My items**, select **Requests**.
 
-**Important:** To get the Enhanced Requests Experience on the Now Mobile app, you must opt-in for the setup. For more information, refer to [Opt in to the enhanced Enhanced Requests Experience](../task/opt-in-emre.md).
+**Important:** To get the Enhanced Requests Experience on the Now Mobile app, you must opt-in for the setup. For more information, refer to [Opt in to the enhanced Enhanced Requests Experience](opt-in-emre.md).
 
 ## Requests
 

@@ -79,5 +79,5 @@ Role required: admin
 
 The script is used when you run the diagnostic request using the badge reader or user daily log data source. These data sources identify the potentially exposed users who might have come in contact with an affected user. The script considers the affected user's time zone while calculating the date and time from the badge swipe data or daily log data.
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 

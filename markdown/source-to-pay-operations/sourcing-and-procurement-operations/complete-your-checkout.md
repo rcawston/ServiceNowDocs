@@ -40,15 +40,15 @@ Role required: sn\_shop.shopper
     **Note:**
 
     -   If you decide to go back and update any of your previously selected parameters, be it delivery location, delivery date, payment method, or purchase reason, a warning message is displayed stating that this update shall undo all your selections up to checkout.
-    -   The data you enter during checkout are lost in an incomplete checkout process. For more information, see [Checkout data loss scenarios](../reference/checkout-value-retention-scenarios.md).
+    -   The data you enter during checkout are lost in an incomplete checkout process. For more information, see [Checkout data loss scenarios](checkout-value-retention-scenarios.md).
 8.  Select **Complete checkout**.
 
     Your purchase is requested, and a confirmation page is displayed with the following information:
 
     -   Message stating that your requested amount, if approved, shall be processed and sent to the supplier, and that you’ll be notified of the same.
-    -   Link to view all your purchases. This takes you to the [My purchases](../concept/my-purchases.md) landing page.
+    -   Link to view all your purchases. This takes you to the [My purchases](my-purchases.md) landing page.
     -   What to expect, listing the next steps.
-    **Note:** On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of purchase lines. For more information, see [Purchase line creation scenarios](../reference/purchase-line-creation-scenarios.md).
+    **Note:** On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of purchase lines. For more information, see [Purchase line creation scenarios](purchase-line-creation-scenarios.md).
 
 
 -   **[Select a delivery location](select-delivery-location.md)**  
@@ -63,10 +63,10 @@ You must provide a reason for making your purchase. This is mandatory and allows
 As an administrator, you can configure additional questions for full checkout to collect more information from a shopper specific to a purchase. This information is first stored in the Requisition Additional Info staging table against the purchase requisition ID that is created on checkout, and then mapped to the Purchase Requisitions table for back-end consumption.
 -   **[Configure purchase requisition line-level questions in ShoppingHub](configure-additional-information-prl.md)**  
 As a procurement administrator, you can create configurable, line-level questions for shoppers to provide the information needed to complete the purchase during the checkout process in Shopping Hub. These questions are defined in Catalog Builder and specific to certain products or product categories.
--   **[Checkout data loss scenarios](../reference/checkout-value-retention-scenarios.md)**  
+-   **[Checkout data loss scenarios](checkout-value-retention-scenarios.md)**  
 The data you enter during checkout are lost in an incomplete checkout process.
--   **[Purchase line creation scenarios](../reference/purchase-line-creation-scenarios.md)**  
+-   **[Purchase line creation scenarios](purchase-line-creation-scenarios.md)**  
 On completing your checkout, an appropriate number of cart lines are created, which then result in the creation of purchase lines.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
 

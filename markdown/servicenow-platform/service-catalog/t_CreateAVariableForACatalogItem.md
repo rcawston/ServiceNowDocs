@@ -63,7 +63,7 @@ Type
 
 </td><td>
 
-The variable type that you want to create. For more information, see [Types of service catalog variables](../reference/r_VariableTypes.md).
+The variable type that you want to create. For more information, see [Types of service catalog variables](r_VariableTypes.md).
 
 </td></tr><tr><td>
 
@@ -315,7 +315,7 @@ Enable also request for
 
 Option to allow a catalog item request to be submitted for multiple users. After you select this option, the **Also request for** field is displayed along with Requested For variable in a catalog item. -   This functionality is only applicable in Service Portal.
 -   This field is applicable only for the Requested For variable.
-For information about delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+For information about delegated request experience, see [Delegated request experience](delegated-request-exp.md).
 
 </td></tr><tr><td>
 
@@ -328,7 +328,7 @@ Option to specify the roles that can submit a catalog item request for multiple 
 -   This field appears only when the **Enable also request for** check box is selected.
  **Note:** If no role is specified, anyone who has access to the catalog item can submit the request.
 
-For information about delegated request experience, see [Delegated request experience](../concept/delegated-request-exp.md).
+For information about delegated request experience, see [Delegated request experience](delegated-request-exp.md).
 
 </td></tr><tr><td>
 
@@ -510,7 +510,7 @@ Recurring price if checked
 
 </td><td>
 
-Price that increments for the item, when the user requests more than one order of the item.This field appears for check box variables. For more information about prices and recurring prices, see [Using variables for price setup](../concept/c_ServiceCatalogVariablePricing.md#).
+Price that increments for the item, when the user requests more than one order of the item.This field appears for check box variables. For more information about prices and recurring prices, see [Using variables for price setup](c_ServiceCatalogVariablePricing.md#).
 
 </td></tr><tr><td>
 
@@ -613,7 +613,7 @@ Variable attributes
 
 </td><td>
 
-Attributes that define the behavior and restrictions for a variable. For information on variable attributes, see [Service catalog variable attribute](../reference/variable-attributes.md).
+Attributes that define the behavior and restrictions for a variable. For information on variable attributes, see [Service catalog variable attribute](variable-attributes.md).
 
 </td></tr><tr><td>
 
@@ -721,10 +721,10 @@ If the catalog item has a variable that's making the item non-conversational, fo
 
 -   **[Define help information for a service catalog variable](t_DefineHelpInformation.md)**  
 Enter help information for a variable to help users determine what info they must provide for a service catalog variable.
--   **[Service Catalog variable attributes](../reference/variable-attributes.md)**  
+-   **[Service Catalog variable attributes](variable-attributes.md)**  
 There are a few Service Catalog variables support specific attributes to define the behavior and restrictions for variables.
 -   **[Define a question choice for a variable](define-question-choice-var.md)**  
 Define a question choice for a variable with service catalog.
 
-**Parent Topic:**[Service catalog variables](../concept/c_ServiceCatalogVariables.md)
+**Parent Topic:**[Service catalog variables](c_ServiceCatalogVariables.md)
 

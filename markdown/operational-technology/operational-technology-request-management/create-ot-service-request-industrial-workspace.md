@@ -46,5 +46,5 @@ Once the OT request is submitted, you receive an email with the details of your 
 
 If there are any changes made to the request record, you're notified with an email describing the changes made. For example, work notes were added to the record, or its state was updated.
 
-**Parent Topic:**[Using Operational Technology Request Management](../concept/using-operational-technology-request-management.md)
+**Parent Topic:**[Using Operational Technology Request Management](using-operational-technology-request-management.md)
 

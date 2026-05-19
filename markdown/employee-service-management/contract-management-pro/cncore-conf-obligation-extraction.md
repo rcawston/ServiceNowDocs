@@ -32,9 +32,9 @@ Map a use case to specific tables, and define conditions to apply the use case f
 
 [Configuring contract metadata extraction](cncore-conf-metadata-extraction.md)
 
-[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
-[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+[Configuring agentic workflows in Now Assist in Contract Management](cmpro-conf-agentic-workflow.md)
 
 [Post-upgrade steps for Now Assist in Contract Management](cmpro-na-upgrade-steps.md)
 

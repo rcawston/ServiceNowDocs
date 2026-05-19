@@ -23,8 +23,8 @@ Software deployed by SCCM can be revoked, but only when the software's status is
 
 ### Before you begin
 
--   Create an [SCCM configuration record](../task/t_ConfigureSCCMCollections.md) for the application that names an appropriate uninstall collection.
--   Associate the [CSD catalog item](../task/t_CreateCatItemSCCMApp.md) for the application with the SCCM configuration that specifies the uninstall collection.
+-   Create an [SCCM configuration record](t_ConfigureSCCMCollections.md) for the application that names an appropriate uninstall collection.
+-   Associate the [CSD catalog item](t_CreateCatItemSCCMApp.md) for the application with the SCCM configuration that specifies the uninstall collection.
 
 Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
@@ -49,7 +49,7 @@ An administrator can revoke software using Microsoft System Center Configuration
 
 ### Before you begin
 
-To revoke software using SCCM, you must create an [SCCM configuration record](../task/t_ConfigureSCCMCollections.md) for the application, in which the appropriate software Discovery model is defined. See [Software discovery models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_DiscoveryModels.md).
+To revoke software using SCCM, you must create an [SCCM configuration record](t_ConfigureSCCMCollections.md) for the application, in which the appropriate software Discovery model is defined. See [Software discovery models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_DiscoveryModels.md).
 
 Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
@@ -74,7 +74,7 @@ The Revoke SCCM Application workflow moves a user or device from an install coll
 
 For the revocation workflow to run, the software package must have a status of [**Installed**](c_ClientSWDistValidProcess.md) and must be pre-configured for an appropriate uninstall collection. See [Revoke software deployed through the service catalog](c_SCCMSoftwareRevocation.md#) for configuration instructions. When an administrator initiates the revocation process, the system launches the Revoke SCCM Application workflow to move the user or device collection associated with installation to the appropriate SCCM uninstall collection. When the SCCM server performs a policy check, it finds the additions to the user or device uninstall collection and revokes the software package associated with that collection.
 
-The workflow employs two custom activities, [Remove from User Collection](../../../administer/orchestration-activities/reference/r_RemoveFromUserCollectionActivity.md) and [Remove from Device Collection](../../../administer/orchestration-activities/reference/r_RemoveFmDevicCollectionActivity.md), to remove either the user or the device from its original collection. The workflow then adds the user or device to the appropriate uninstall collection on the SCCM server with the [Add to User Collection](../../../administer/orchestration-activities/reference/r_AddToUserCollectionActivity.md) or [Add to Device Collection](../../../administer/orchestration-activities/reference/r_AddToDeviceCollectionActivity.md) activity.
+The workflow employs two custom activities, [Remove from User Collection](r_RemoveFromUserCollectionActivity.md) and [Remove from Device Collection](r_RemoveFmDevicCollectionActivity.md), to remove either the user or the device from its original collection. The workflow then adds the user or device to the appropriate uninstall collection on the SCCM server with the [Add to User Collection](r_AddToUserCollectionActivity.md) or [Add to Device Collection](r_AddToDeviceCollectionActivity.md) activity.
 
 **Note:** This workflow is triggered by the Revoke Client Software workflow as a subflow.
 

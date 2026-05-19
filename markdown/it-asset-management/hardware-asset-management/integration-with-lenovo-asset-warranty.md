@@ -23,7 +23,7 @@ Integration with Lenovo has the following requirements:
 
     **Note:** If you don’t have a Client ID, contact your organization's Lenovo sales or service representative.
 
--   A Lenovo connection. If you don't have this connection, it must be created using the Lenovo \[sn\_lenovo\_spoke.Lenovo\] connection and credential alias. For more information, see [Connect to the Lenovo Warranty API](../task/connect-to-lenovo-api.md).
+-   A Lenovo connection. If you don't have this connection, it must be created using the Lenovo \[sn\_lenovo\_spoke.Lenovo\] connection and credential alias. For more information, see [Connect to the Lenovo Warranty API](connect-to-lenovo-api.md).
 
 **Note:** For details on the input and response fields of the Lenovo Warranty API, see the "Warranty" topic in the Lenovo WebAPI documentation.
 
@@ -46,7 +46,7 @@ The process involved in fetching the asset warranty details from Lenovo is as fo
 
 **Note:** Warranty records for excluded assets aren't fetched.
 
-An asset can have multiple warranties associated with it. You can view the warranty information using the Asset Warranties tab on the asset form. You can also view all the asset warranty records from a central location using the Asset warranties list in the Asset operations view. For more information, see [Track the warranty details of your Lenovo assets](../task/view-asset-warranty-details.md).
+An asset can have multiple warranties associated with it. You can view the warranty information using the Asset Warranties tab on the asset form. You can also view all the asset warranty records from a central location using the Asset warranties list in the Asset operations view. For more information, see [Track the warranty details of your Lenovo assets](view-asset-warranty-details.md).
 
 **Related topics**  
 

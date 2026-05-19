@@ -47,7 +47,7 @@ The following items are installed with Enterprise Asset Management for Providers
 -   Store applications
 -   Tables
 
-For more information, see [Components installed with Enterprise Asset Management for Providers](../reference/installed-with-eam-providers.md).
+For more information, see [Components installed with Enterprise Asset Management for Providers](installed-with-eam-providers.md).
 
 ## Procedure
 
@@ -68,5 +68,5 @@ For more information, see [Components installed with Enterprise Asset Management
 5.  Select **Install**.
 
 
-**Parent Topic:**[Enterprise Asset Management for Providers](../concept/eam-providers.md)
+**Parent Topic:**[Enterprise Asset Management for Providers](eam-providers.md)
 

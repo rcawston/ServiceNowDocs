@@ -22,7 +22,7 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to view the AI assets on your instance. AI assets include agents, agentic workflows, skills, subflows, actions, virtual assistants, and topics.
 
-For more information, see [Now Assist AI assets](../../now-assist-skills/concept/platform-ai-assets-section.md).
+For more information, see [Now Assist AI assets](platform-ai-assets-section.md).
 
 ## Procedure
 
@@ -134,7 +134,7 @@ Displays a list of all topics.
 5.  Select the asset name in the list to view the asset details on a separate workspace tab.
 
 
-**Parent Topic:**[Using the asset inventory in Now Assist Center](../concept/now-assist-center-using-asset-inventory.md)
+**Parent Topic:**[Using the asset inventory in Now Assist Center](now-assist-center-using-asset-inventory.md)
 
 **Related topics**  
 

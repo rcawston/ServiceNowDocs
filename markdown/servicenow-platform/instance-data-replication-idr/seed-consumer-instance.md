@@ -88,5 +88,5 @@ If you encounter an error during seeding, see [Fix seeding errors](fix-seeding-e
 -   Seeding continues even if errors occur on some consumer tables. You can restart seeding specifically on the tables that have errors or on all tables in a replication set.
 -   The maximum for a retry reseeding request is 10,000 errors. If you have more errors, perform a [full seeding](seed-consumer-instance.md).
 
-**Parent Topic:**[Replicating data with Instance Data Replication](../concept/replicating-data.md)
+**Parent Topic:**[Replicating data with Instance Data Replication](replicating-data.md)
 

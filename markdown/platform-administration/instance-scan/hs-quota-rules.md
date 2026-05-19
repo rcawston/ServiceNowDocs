@@ -21,5 +21,5 @@ If the scan or the check takes longer than the set time period set by the quota 
 
 ![Error message: The scan exceeded the time allowed.](../image/hs-quota-rule-error.png)
 
-To learn how to configure these thresholds, see [Implement a scan timeout threshold](../task/hs-full-scan-quota-rule.md) and [Implement a check timeout threshold](../task/hs-health-check-quota-rule.md).
+To learn how to configure these thresholds, see [Implement a scan timeout threshold](hs-full-scan-quota-rule.md) and [Implement a check timeout threshold](hs-health-check-quota-rule.md).
 

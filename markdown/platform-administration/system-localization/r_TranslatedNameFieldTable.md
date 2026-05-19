@@ -30,7 +30,7 @@ This option is available for text fields up to 255 characters in length. Some ex
 **Related topics**  
 
 
-[Translate a field value for the Classic Environment](../task/t_TranslateAFieldValue.md)
+[Translate a field value for the Classic Environment](t_TranslateAFieldValue.md)
 
-[Translate a related list name](../task/t_TranslateARelatedListName.md)
+[Translate a related list name](t_TranslateARelatedListName.md)
 

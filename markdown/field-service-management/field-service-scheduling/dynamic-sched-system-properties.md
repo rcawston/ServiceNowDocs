@@ -203,7 +203,7 @@ The **Window start date** field gets updated based on the delivery date of the t
 **Related topics**  
 
 
-[Example - Dynamic Scheduling](../concept/example-for-dynamic-scheduling.md)
+[Example - Dynamic Scheduling](example-for-dynamic-scheduling.md)
 
-[Configure dynamic scheduling](../task/create-dynamic-scheduling-config.md#)
+[Configure dynamic scheduling](create-dynamic-scheduling-config.md#)
 

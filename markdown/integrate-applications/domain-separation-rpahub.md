@@ -31,7 +31,7 @@ The goal of RPA Hub is to enable end-to-end automation for your organization. Do
 
 You should have either a flat hierarchy or a single-tier hierarchy and at least one primary or top-level domain.
 
-**Parent Topic:**[RPA Hub reference](../../rpa-hub/reference/rpa-hub-reference.md)
+**Parent Topic:**[RPA Hub reference](rpa-hub-reference.md)
 
 **Related topics**  
 

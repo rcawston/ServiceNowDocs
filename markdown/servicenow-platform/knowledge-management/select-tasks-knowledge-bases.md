@@ -61,7 +61,7 @@ A scheduled job for each task type runs business rules and then executes the sim
 
 Set the frequency of the scheduled job for your task. For more information, see [Set the frequency of knowledge gap analysis](run-gap-analysis-periodically-demand-insights.md).
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 

@@ -27,11 +27,11 @@ The **On-Call: Assign by Acknowledgement** workflow is provided with Notify.
 **Related topics**  
 
 
-[Set up Notify with On-Call Scheduling](../task/t_SetUpNotifyWithOnCall.md)
+[Set up Notify with On-Call Scheduling](t_SetUpNotifyWithOnCall.md)
 
-[Call a user from the WebRTC UI](../task/t_CallfromWEBRTCUI.md)
+[Call a user from the WebRTC UI](t_CallfromWEBRTCUI.md)
 
-[Key differences between on-call scheduling with NotifyNow and with Notify](../reference/r_OnCallNotifyNowNotifyDifferences.md)
+[Key differences between on-call scheduling with NotifyNow and with Notify](r_OnCallNotifyNowNotifyDifferences.md)
 
 [Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 

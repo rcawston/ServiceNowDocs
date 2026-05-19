@@ -88,7 +88,7 @@ The incoming payload from Celonis is stored in a custom staging table, from wher
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

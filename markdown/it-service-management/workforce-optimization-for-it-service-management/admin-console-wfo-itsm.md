@@ -39,9 +39,9 @@ Using the Admin Console, admins can:
     Provide agents and managers access for each application within Workforce Optimization for ITSM.
 
 
--   **[Define groups as WFO assignment groups in the Admin Console in Workforce Optimization for ITSM](../task/manage-assignment-groups-admin-console-wfo-itsm.md)**  
+-   **[Define groups as WFO assignment groups in the Admin Console in Workforce Optimization for ITSM](manage-assignment-groups-admin-console-wfo-itsm.md)**  
 Identify existing groups relevant to WFO and add them to the Admin Console so that you can configure them easily based on your organization's needs.
--   **[Define access to each application in the Admin Console in Workforce Optimization for ITSM](../task/define-application-access-admin-console-wfo-itsm.md)**  
+-   **[Define access to each application in the Admin Console in Workforce Optimization for ITSM](define-application-access-admin-console-wfo-itsm.md)**  
 Configure assignment group access to each application in Workforce Optimization for ITSM based on your organizational needs.
 
 **Parent Topic:**[Getting started with Workforce Optimization for ITSM](getting-started-workforce-optimization-itsm.md)

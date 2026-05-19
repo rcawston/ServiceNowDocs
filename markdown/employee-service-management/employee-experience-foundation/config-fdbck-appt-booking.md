@@ -23,7 +23,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 The appointment booking experience already contains two feedback definitions for Employee Center Pro and Employee Center Pro Kiosk.
 
-You can modify the feedback definitions provided with the plugin, or create your own. For more information about the feedback feature, see [Integrated experience and service feedback](../concept/ex-fdback-ovrvw.md).
+You can modify the feedback definitions provided with the plugin, or create your own. For more information about the feedback feature, see [Integrated experience and service feedback](ex-fdback-ovrvw.md).
 
 You can modify the number of times a user can submit feedback in a single session by configuring the **Overlay session limit** field in the feedback configuration. The **Overlay session limit** value is set to 5 by default. For more information about feedback configurations, see [Set up the feedback configuration](config-employee-ex-fdbck.md).
 
@@ -84,7 +84,7 @@ Portals
 
     -   my\_appointments
     -   appointment\_details
-    You can fill in the remaining fields based on your preference. For a description of the field values, see [Feedback definition form](../reference/fdbck-dfnition-record.md).
+    You can fill in the remaining fields based on your preference. For a description of the field values, see [Feedback definition form](fdbck-dfnition-record.md).
 
 5.  Save the record.
 

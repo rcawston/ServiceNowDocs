@@ -44,5 +44,5 @@ For detailed steps on getting started with Proactive Customer Service Operations
 
 [Major issue management overview](major-issue-management.md)
 
-[Configure install base](../task/configure-install-base.md)
+[Configure install base](configure-install-base.md)
 

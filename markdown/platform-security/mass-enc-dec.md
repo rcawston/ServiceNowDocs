@@ -42,5 +42,5 @@ Mass encryption and decryption are available only when an encrypted field config
 
 If running a mass encryption, all values are encrypted with the encryption module defined in the encrypted field configuration record. If running a mass decryption, only fields encrypted with an encryption module you have access to are decrypted.
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](field-encryption-key-management.md)
 

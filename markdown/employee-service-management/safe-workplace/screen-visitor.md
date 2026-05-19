@@ -21,7 +21,7 @@ Role required: sn\_imt\_monitoring.monitoring\_user
 
 ## About this task
 
-A visitor must be invited before they can be screened for entry. If an uninvited visitor needs entry, a health screener can complete the invitation process and then begin screening. For more information, see [Invite a visitor to the workplace](../../employee-readiness-core/task/invite-visitor-workplace.md).
+A visitor must be invited before they can be screened for entry. If an uninvited visitor needs entry, a health screener can complete the invitation process and then begin screening. For more information, see [Invite a visitor to the workplace](../employee-readiness-core/invite-visitor-workplace.md).
 
 ## Procedure
 
@@ -175,5 +175,5 @@ The choice of **Yes** or **No** from the list to record whether the visitor is w
     You receive a message that indicates whether to allow the visitor to enter. If the visitor doesn't pass the health screening, provide them with the next steps based on your company policy.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](employee-health-screening.md)
 

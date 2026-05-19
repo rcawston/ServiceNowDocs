@@ -113,5 +113,5 @@ To learn more, visit [Angular Providers](https://docs.angularjs.org/guide/provid
 
 To use an Angular Provider with multiple widgets, register your Provider with each widget and update the appropriate scripts.
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

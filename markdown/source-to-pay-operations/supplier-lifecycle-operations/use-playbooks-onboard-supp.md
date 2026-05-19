@@ -38,7 +38,7 @@ You can use the Supplier onboarding playbook with cases that are created using t
 
 The Supplier onboarding playbook appears in the **Playbook** tab on the Case Details page in the Source-to-Pay Workspace.
 
-After you submit a supplier onboarding request, the application creates a new case of type Onboard a Supplier and opens the Case Details page. You can select the **Playbook** tab and start the supplier onboarding process using playbook. For more information on creating a supplier, see [Add a supplier](../../sourcing-procurement-operations/task/create-supplier.md).
+After you submit a supplier onboarding request, the application creates a new case of type Onboard a Supplier and opens the Case Details page. You can select the **Playbook** tab and start the supplier onboarding process using playbook. For more information on creating a supplier, see [Add a supplier](../sourcing-and-procurement-operations/create-supplier.md).
 
 **Important:** Supplier Lifecycle Operations creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AddAUserToAGroup.md).
 
@@ -49,12 +49,12 @@ The Supplier onboarding playbook includes the following stages:
 -   Activation: Includes activities to activate the supplier.
 -   Rejection: Includes activities to reject the supplier.
 
-**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+**Parent Topic:**[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
 
 **Related topics**  
 
 
-[Add a subsidiary for a supplier from the Source-to-Pay Workspace](../task/add-subsidiary.md)
+[Add a subsidiary for a supplier from the Source-to-Pay Workspace](add-subsidiary.md)
 
 [Perform risk assessment playbook](perform-risk-playbook.md)
 

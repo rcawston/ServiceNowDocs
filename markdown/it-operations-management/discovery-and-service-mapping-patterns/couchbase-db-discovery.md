@@ -183,5 +183,5 @@ Couchbase Cluster \[cmdb\_ci\_couchbase\_cluster\]
 
 ![Couchbase DB discovery CMDB data model.](../image/couchbase-db-discovery-model.png "Couchbase DB discovery CMDB data model")
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

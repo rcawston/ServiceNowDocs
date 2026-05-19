@@ -38,8 +38,8 @@ The Demand Management application comes with an assessment metric type named **D
     |**Cost**|**Labor costs**, **Capital expense**, and **Operating expense** fields on the Demand form.|Assesses demand cost compared to other demands.|
 
 
--   **[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)**  
+-   **[Assessment metric categories](c_AssessmentMetricCategories.md)**  
 In the Assessments application, a metric category represents a theme for evaluating assessable records in a given metric type.
 
-**Parent Topic:**[Assessment administrator tasks](../concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](c_AssessmentProcess.md)
 

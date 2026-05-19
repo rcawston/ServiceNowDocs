@@ -51,5 +51,5 @@ Create and add a process flow record for the **Complete** state. The process flo
 9.  [Update the change request workflow](t_UpdateWorkflow.md)  
 Update the change request workflow to reflect the addition of the **Complete** state.
 
-**Parent Topic:**[Reference section for Change Management](../concept/reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
 

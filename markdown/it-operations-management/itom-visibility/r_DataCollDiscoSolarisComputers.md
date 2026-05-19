@@ -40,7 +40,7 @@ Solaris - ADM probe requires installing the LSOF command.
 
 Configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md) for the systems you want to discover.
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 ## Classifier, probes, and pattern
 
@@ -84,7 +84,7 @@ Solaris Server
 
 ^This probe remains active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -182,5 +182,5 @@ Upon examining the payload, however, you will see that each probe is actually ta
 
 **Note:** cmdb\_ci\_solaris\_instance extends cmdb\_ci\_vm\_instance.
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 

@@ -17,7 +17,7 @@ Install the Field Service Multi-Day Task Scheduling application to enable schedu
 
 ## Before you begin
 
--   Field Service Multi-Day Task Scheduling requires you to install the Field Service Management plugin. For more information about activating Field Service Management, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+-   Field Service Multi-Day Task Scheduling requires you to install the Field Service Management plugin. For more information about activating Field Service Management, see [Activate Field Service Management](../t_ActivateFieldServiceManagement.md).
 
 Role required: admin.
 
@@ -41,6 +41,6 @@ Role required: admin.
 The Field Service Multi-Day Task Scheduling plugin when activated successfully adds the following attributes:
 
 -   The **Assign across the schedule entries** option is added to the work order task form.
--   The **sn\_fsm\_multiday.minDurationForFirstWorkSchedule** property is added to the Field Service Dynamic Scheduling Properties page. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
--   The **sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.enableTwoAndFourWeeks** property is added to the Field Service Dispatcher Workspace set of properties. For more information about enabling a Workspace Settings property, see [Configure settings for Dispatcher Workspace](configure-workspce-settings.md).
+-   The **sn\_fsm\_multiday.minDurationForFirstWorkSchedule** property is added to the Field Service Dynamic Scheduling Properties page. For more information about enabling a dynamic scheduling property, see [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
+-   The **sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.enableTwoAndFourWeeks** property is added to the Field Service Dispatcher Workspace set of properties. For more information about enabling a Workspace Settings property, see [Configure settings for Dispatcher Workspace](../configure-workspce-settings.md).
 

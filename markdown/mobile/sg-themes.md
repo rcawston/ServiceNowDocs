@@ -23,9 +23,9 @@ Use themes on your mobile applications so that your customers and employees can 
 
 Use mobile themes to change the color scheme of your mobile apps. The colors for elements such as headers, links, buttons, and icons can be controlled using themes. You can configure each of your mobile apps with a unique theme.
 
- For details on creating a theme, see [Create a theme for your mobile applications](../task/sg-configure-theme.md).
+ For details on creating a theme, see [Create a theme for your mobile applications](sg-configure-theme.md).
 
- To see how your selected theme colors affect the appearance of your mobile apps, see the [Mobile theme color guidelines](../reference/sg-theme-colors.md).
+ To see how your selected theme colors affect the appearance of your mobile apps, see the [Mobile theme color guidelines](sg-theme-colors.md).
 
  **Note:** You can configure themes on your apps without custom branding.
 

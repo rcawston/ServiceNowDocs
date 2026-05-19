@@ -34,5 +34,5 @@ The property value is also used to auto-fill the total hours worked when exporti
 3.  Select **Save**.
 
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](setting-up-hs-incident-mgmt.md)
 

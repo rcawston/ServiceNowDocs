@@ -75,7 +75,7 @@ Unfurl Links
 
 </td><td>
 
-Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](../concept/enable-link-unfurling.md).
+Option to unfurl the links in Microsoft Teams.Link unfurling generates a content-rich preview\(adaptive card\) when a supported link is shared in a conversation with a user in Microsoft Teams. For more details about link unfurling, refer [Unfurl the web links in Microsoft Teams chat](enable-link-unfurling.md).
 
 </td></tr><tr><td>
 
@@ -165,5 +165,5 @@ Option to use the default images for branding.**Note:** If you want to customize
 
 You must upload the manifest file in Microsoft Teams. For more information, see [Upload manifest file in Microsoft Teams](upload-manifest-ms-teams.md).
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](c_employee_ex_tnt.md)
 

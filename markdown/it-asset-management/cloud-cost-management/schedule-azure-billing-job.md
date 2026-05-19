@@ -311,5 +311,5 @@ The following events happen when the job executes:
 -   While downloading the data, Cloud Cost Management updates the billing node data table \[sn\_cld\_intg\_&lt;provider&gt;\_cost\_usage\] with the CIs in the CMDB that corresponds to each resource ID. If a CI doesn’t exist, the system generates a placeholder CI. On subsequent discovery, the system reconciles the placeholder CI.
 -   Cloud Cost Management generates a log entry for each stage of the execution on the Billing Download Executions page.
 
-**Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Microsoft Azure services](../reference/azure-supported-ci-class-types.md).
+**Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Microsoft Azure services](azure-supported-ci-class-types.md).
 

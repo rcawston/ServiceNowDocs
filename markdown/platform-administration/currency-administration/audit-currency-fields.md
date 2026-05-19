@@ -33,5 +33,5 @@ Role required: admin
     |true|Value as entered by the user in the format USD. For example, 1234.56.|
 
 
-**Parent Topic:**[Setting up defaults required for standard currency use](../concept/setting-up-standard-currency-defaults.md)
+**Parent Topic:**[Setting up defaults required for standard currency use](setting-up-standard-currency-defaults.md)
 

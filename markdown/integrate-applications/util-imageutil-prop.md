@@ -20,5 +20,5 @@ Learn about the properties of the Image Utilities components in RPA Desktop Desi
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Image Utilities](../concept/image-utilities.md)
+**Parent Topic:**[Image Utilities](image-utilities.md)
 

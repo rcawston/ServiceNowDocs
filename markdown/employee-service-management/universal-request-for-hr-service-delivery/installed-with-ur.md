@@ -213,5 +213,5 @@ Universal Request Activity Log\[universal\_request\_activity\_log\]
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Universal Request](../task/activate-ur-plugin.md)
+</table>**Parent Topic:**[Activate Universal Request](activate-ur-plugin.md)
 

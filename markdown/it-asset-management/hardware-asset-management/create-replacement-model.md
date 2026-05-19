@@ -79,7 +79,7 @@ Option that indicates whether the replacement rule is active.
 
 The refresh model with the assigned replacement models is included in the **Refresh models** list.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 

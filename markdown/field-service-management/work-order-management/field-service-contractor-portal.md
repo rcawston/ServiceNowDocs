@@ -24,7 +24,7 @@ If you have activated the Service Portal User Criteria Support plugin and set it
 **Related topics**  
 
 
-[Contractor dashboard](../../../use/dashboards/application-content-packs/contractor-dashboard.md)
+[Contractor dashboard](../contractor-dashboard.md)
 
-[Configuring contractor capabilities](configuring-contractor-capabilities.md)
+[Configuring contractor capabilities](../workforce-optimization-for-field-service/configuring-contractor-capabilities.md)
 

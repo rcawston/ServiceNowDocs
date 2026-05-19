@@ -23,12 +23,12 @@ Baselines view in the Next Experience provides better insights to view and analy
 
 Unlike the financial baselines created using Next Experience, the financial baselines created in the Classic UI don’t capture the actual expenses along with planned costs as a default behavior. To have relevant information for baselines comparison, the actual costs are captured as part of the baseline migration using the processed expense lines as of the baseline creation date of the financial baseline.
 
-For detailed information and use cases on using financials in Next Experience, see [Managing financials for planning items in Portfolio Planning](../../portfolio-planning/concept/using-financials-pp.md).
+For detailed information and use cases on using financials in Next Experience, see [Managing financials for planning items in Portfolio Planning](../portfolio-planning/using-financials-pp.md).
 
 **Note:** Starting March 2026 release, for customers using multicurrency, migration of financial baselines updates the baseline data in project currency to investment currency.
 
 1.  Existing demands that have only financial baselines but no investment baselines. With the migration, financial baseline will be migrated to investment baseline and you can view the migrated baseline from the `sn_invst_pln_invst_investment_baseline` table list view.
-2.  Existing demands that have both project and investment baselines, you need to run the scheduled job to populate the fields for investment currency in the baselines with the values from project currency. For more information, see [Activate scheduled job to populate to multicurrency fields](../../spw-financials/task/multi-currency-scheduled-job-spw.md).
+2.  Existing demands that have both project and investment baselines, you need to run the scheduled job to populate the fields for investment currency in the baselines with the values from project currency. For more information, see [Activate scheduled job to populate to multicurrency fields](../scenario-planning-in-spw/multi-currency-scheduled-job-spw.md).
 
 ## Before you begin
 
@@ -81,7 +81,7 @@ Description
 2.  Filter the Name field to locate the **Migrate financial baselines to Next Experience** scheduled job and open it.
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-For a description of the field names, see [Scheduled Script Execution Form](../../project-management/reference/scheduled-script-execution-form.md).
+For a description of the field names, see [Scheduled Script Execution Form](../project-management/scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 
@@ -92,11 +92,11 @@ For a description of the field names, see [Scheduled Script Execution Form](../.
 
 ## Result
 
-Financial baselines for the selected demands are migrated to Next Experience and you can view them in the [Baselines view](../../portfolio-planning/concept/using-financials-pp.md#section_bkp_g2l_2zb).
+Financial baselines for the selected demands are migrated to Next Experience and you can view them in the [Baselines view](../portfolio-planning/using-financials-pp.md#section_bkp_g2l_2zb).
 
 ## What to do next
 
-[View and compare the migrated baselines](../../portfolio-planning/task/create-compare-baselines-pp.md) with any existing baselines or current baseline \(![Flag icon to indicate current baseline.](../../spw-financials/images/fin-current-baseline-flag.png)\).
+[View and compare the migrated baselines](../portfolio-planning/create-compare-baselines-pp.md) with any existing baselines or current baseline \(![Flag icon to indicate current baseline.](../../spw-financials/images/fin-current-baseline-flag.png)\).
 
 **Parent Topic:**[Create a demand](t_CreatingDemands.md)
 

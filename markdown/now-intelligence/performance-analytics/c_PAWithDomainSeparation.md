@@ -82,7 +82,7 @@ For more information about this extended functionality, see: [Grouping domains i
 When using Performance Analytics with domain separation, you can collect domain-specific scores. You can use global or domain-specific Performance Analytics table records or even a combination of both.
 -   **[Grouping domains in Performance Analytics domain configurations](pa-domain-separation-msp.md)**  
 Instead of configuring Performance Analytics for the domains of a specific user, create a reusable domain configuration. Select domains that are visible to a group of users, or filter domains directly. Domain configurations let you define hierarchical relationships and aggregate scores across multiple domains.
--   **[PADomainUtils - Global](../../../app-store/dev_portal/API_reference/PADomainUtils/concept/c_PADomainUtils.md)**  
+-   **[PADomainUtils - Global](c_PADomainUtils.md)**  
 The PADomainUtils API enables you to copy Performance Analytics records between different domains on the same instance.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)

@@ -41,5 +41,5 @@ Role required: sn\_lg\_ops.legal\_user
 5.  Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
-**Parent Topic:**[Using Legal Request Management](../concept/submitting-legal-request.md)
+**Parent Topic:**[Using Legal Request Management](submitting-legal-request.md)
 

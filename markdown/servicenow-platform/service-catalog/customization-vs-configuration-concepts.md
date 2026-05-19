@@ -148,5 +148,5 @@ Assuming you’ve documented all your customizations—including the business ju
 -   Revert to out-of-the-box
 -   Merge your customization with the base system to resolve conflicts
 
-**Parent Topic:**[Service Catalog customization](../../product/service-catalog-management/topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](p_ServiceCatalogCustomization.md)
 

@@ -50,5 +50,5 @@ This approach uses the Import Sets application to retrieve the data from the sou
 4.  After setting up the data source, configure a standard transform map.
 
 
-**Parent Topic:**[Importing from another ServiceNow instance](../concept/c_ImportingFromAnotherSNInstance.md)
+**Parent Topic:**[Importing from another ServiceNow instance](c_ImportingFromAnotherSNInstance.md)
 

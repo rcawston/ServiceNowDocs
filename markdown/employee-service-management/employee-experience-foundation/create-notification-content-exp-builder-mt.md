@@ -38,7 +38,7 @@ Role required: sn\_ca.campaign\_manager or sn\_cd.content\_admin
 
 Click **Next** or the **Schedule of Content** tab to add stages and content to the campaign: [Create Microsoft Teams campaign stages using the Campaign Builder Experience](create-campaign-stage-content-exp-mt.md)
 
-**Parent Topic:**[Create Microsoft Teams campaigns with the Content Experience Builder](../concept/create-campaign-content-exp-builder-mt.md)
+**Parent Topic:**[Create Microsoft Teams campaigns with the Content Experience Builder](create-campaign-content-exp-builder-mt.md)
 
 ## Campaign form in the Content Experience Builder
 
@@ -128,7 +128,7 @@ Frequency, in days, that you want to re-evaluate the audience. Audiences are re-
 
  This field appears only if the **Re-evaluate campaign** check box is selected.
 
- This field value overrides the default \(7 days\) value set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](../../employee-center/reference/properties-installed-with-content-auto.md).
+ This field value overrides the default \(7 days\) value set in the **Campaign Re-evaluation** field in the Content Experiences system property. For more information, see [Properties installed with Content Experiences](properties-installed-with-content-auto.md).
 
 </td></tr><tr><td>
 

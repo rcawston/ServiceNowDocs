@@ -79,5 +79,5 @@ View current image metadata. This information is automatically populated when th
 **Related topics**  
 
 
-[Storing shapes or images to the database](../../task/eaw-task/eaw-modeling-store-image-databse.md)
+[Storing shapes or images to the database](eaw-modeling-store-image-databse.md)
 

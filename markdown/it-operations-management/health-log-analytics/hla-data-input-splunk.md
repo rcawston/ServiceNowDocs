@@ -55,7 +55,7 @@ Starting in the Yokohama family release, you can use new Splunk data inputs to i
 
 4.  On the **Getting Started** tab, fill in the form fields.
 
-    For a description of the fields, see [Splunk data input configuration fields](../reference/hla-data-input-splunk-ref.md).
+    For a description of the fields, see [Splunk data input configuration fields](hla-data-input-splunk-ref.md).
 
 5.  On the **Outputs.conf** tab, add the following stanzas to the `outputs.conf` file to make the shipper forward log data over the selected transport protocol on the selected port, and then select **Next**.
 
@@ -252,7 +252,7 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 [Make sure that the data input is streaming data.](hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](hla-data-inputs-configuring.md)
 
 **Related topics**  
 

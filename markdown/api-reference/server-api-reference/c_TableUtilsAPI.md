@@ -17,7 +17,7 @@ The TableUtils script include provides shortcuts for accessing table related inf
 
 This class is available to server-side scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TableUtils - TableUtils\(String tableName\)
 

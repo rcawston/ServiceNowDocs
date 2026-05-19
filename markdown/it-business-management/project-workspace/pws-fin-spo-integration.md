@@ -32,7 +32,7 @@ Project managers can navigate from Project Workspace to procurement applications
 2.  Open a project and select **Details** from the left menu.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../../project-workspace/concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 
 ## Create purchase request
 

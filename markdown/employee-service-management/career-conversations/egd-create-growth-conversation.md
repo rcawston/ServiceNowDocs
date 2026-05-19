@@ -19,7 +19,7 @@ Use the Career Conversations app to create a one-time or recurring conversation 
 
 You must install the Career Conversations application to access it from the Employee Center.
 
-You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md).
 
 Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.manager\]
 
@@ -114,5 +114,5 @@ Update the agenda for your upcoming conversation by using an option that corresp
     -   Use the Your team's conversations widget to access the conversation you created.
     -   Use the Coming up soon widget to access the conversation that you created if it transpires within one week of the system date.
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](egd-activities-use.md)
 

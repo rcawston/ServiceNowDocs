@@ -35,7 +35,7 @@ The Affected CI’s map indicator appears for CIs in two related but not identic
 
 **Note:** Details about affected CIs are derived from the **task** and the **cmdb\_ci** tables and their extensions. Therefore, if you use custom tables to store CIs for incidents, problems and changes, it affects the details that are displayed for affected CIs.
 
-For more information on how map indicators are used to show tasks and outages in clusters and collapsed nodes, see [Cluster nodes in a Dependency Views map](../concept/c_CollapsedNodesInNGBSM.md).
+For more information on how map indicators are used to show tasks and outages in clusters and collapsed nodes, see [Cluster nodes in a Dependency Views map](c_CollapsedNodesInNGBSM.md).
 
 ## Procedure
 
@@ -183,7 +183,7 @@ Suffix portion of the tooltip \(Tooltip Label : Tooltip info\).
 
 For an indicator to appear in a Dependency Views map, a CI must meet all filter conditions, and **Active Dependencies** must be selected.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](p_AdministerNGBSM.md)
 
 **Related topics**  
 
@@ -198,7 +198,7 @@ For an indicator to appear in a Dependency Views map, a CI must meet all filter 
 
 [Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](condition-script-parameters.md)
 
 [Create or edit a dependency type](t_CreateMapScript.md)
 

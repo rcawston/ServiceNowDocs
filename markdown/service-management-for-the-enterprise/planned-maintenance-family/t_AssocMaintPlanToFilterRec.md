@@ -40,5 +40,5 @@ The schedule is applied to the records that meet the specified filter conditions
 
 **Note:** If multiple schedules are defined, they all take effect on the matching records when you click **Apply schedules to filtered records**. See [Configure a maintenance schedule](t_DefineAMaintSched.md) for details. This same functionality exists for maintenance schedules. The **Related Links** for the schedule also contains an **Apply schedule to filtered records** link. If you click this link in the maintenance schedule, only this specific schedule is applied to the records that meet the filter conditions in the associated maintenance plan.
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](c_MaintPlanMgmt.md)
 

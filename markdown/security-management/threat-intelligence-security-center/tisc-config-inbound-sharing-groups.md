@@ -58,7 +58,7 @@ Role required: sn\_sec\_tisc.admin
     **Note:** An information message is displayed indicating that the selected outbound intelligence profile\(s\) have been added or removed to this group. This message is displayed with the respect to the action either Add or Remove you select.
 
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 

@@ -55,7 +55,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 **Related topics**  
 
 
-[Status reporting in Project Workspace](../concept/status-reporting-in-pw.md)
+[Status reporting in Project Workspace](status-reporting-in-pw.md)
 
 [Create a status report template in Project Workspace](create-a-status-report-template-project-workspace.md)
 

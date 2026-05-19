@@ -29,6 +29,6 @@ Delivered by your Impact Squad, our unique operating model includes a fit-for-pu
 
         Impact's standard initiatives are executed in consistent, timely intervals to keep you on pace.
 
-    ServiceNow Impact packages comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see [Impact packages](../reference/impact-packages.md).
+    ServiceNow Impact packages comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see [Impact packages](impact-packages.md).
 
 

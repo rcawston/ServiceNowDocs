@@ -115,13 +115,13 @@ Denotes whether this class is included in the [Principal Class filter](update-pr
 
     You can click **Replace** to replace the derived rule with a new identification rule and new identifier entries specific to the new class. See [Identification rules](t_CreateCIIdentificationRule.md) for details about identification rules and identifier entries.
 
-9.  On the **Dependencies** tab, click **Add dependency** to add [dependent rules](../concept/c_ServiceRulesMetadata.md).
+9.  On the **Dependencies** tab, click **Add dependency** to add [dependent rules](c_ServiceRulesMetadata.md).
 
     The **Dependencies** tab appears only if there are dependent identification rules for the selected class.
 
 10. On the **Add Reconciliation Rules** tab, click **Add** to create the following rules:
 
-    1.  [Reconciliation Rules](../concept/create-reconciliation-rule.md#)
+    1.  [Reconciliation Rules](create-reconciliation-rule.md#)
 
     2.  [Data Refresh Rules](create-datasource-staleness-rule.md)
 
@@ -142,16 +142,16 @@ Denotes whether this class is included in the [Principal Class filter](update-pr
 14. Click **Done**.
 
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](r_RelatedListsOfCIComponents.md)
 
 [Reclassify a CI](t_ManuallyReclassifyCI.md)
 
@@ -161,5 +161,5 @@ Denotes whether this class is included in the [Principal Class filter](update-pr
 
 [Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
 
-[CMDB Identification and Reconciliation \(IRE\)](../concept/c_CMDBIdentifyandReconcile.md)
+[CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md)
 

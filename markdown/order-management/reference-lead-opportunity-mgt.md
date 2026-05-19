@@ -19,7 +19,7 @@ Reference topics provide additional information about the Customer Engagement Se
 Reference topics provide additional information about the Lead Management application.
 -   **[Opportunity Management reference](opportunity-management-reference.md)**  
 Reference topics provide additional information about the Opportunity Management application.
--   **[Components installed with Sales Territory Management​](../reference/components-installed-sales-territory-management.md)**  
+-   **[Components installed with Sales Territory Management​](components-installed-sales-territory-management.md)**  
 Several types of components are installed with activation of the Sales Territory Management​ plugin, including user roles.
 -   **[Activity Management reference](activity-management-reference.md)**  
 Reference topics provide additional information about the Activity Management application.

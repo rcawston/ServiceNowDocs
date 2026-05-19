@@ -22,11 +22,11 @@ The indexed content and metadata are stored as records in a connector-specific i
 
 **Note:** The HubSpot API provides only limited information about document permissions. As a result, the external content connector may reindex a significant number of crawled documents when you add or remove HubSpot users or members of HubSpot groups. In extreme cases, adding a single user or updating membership for a single group can trigger an update of all crawled HubSpot documents in the AI Search index.
 
--   **[Configure HubSpot for external content indexing](../task/configure-hubspot-external-content-indexing.md)**  
+-   **[Configure HubSpot for external content indexing](configure-hubspot-external-content-indexing.md)**  
 Create and authorize a legacy public app in HubSpot to allow the HubSpot external content connector to access your HubSpot source system.
--   **[Create a HubSpot external content connector](../task/create-ext-cont-connector-hubspot.md)**  
+-   **[Create a HubSpot external content connector](create-ext-cont-connector-hubspot.md)**  
 Create an external content connector to retrieve searchable content and security principals from your HubSpot source system.
--   **[Configure crawl settings for a HubSpot external content connector](../task/configure-crawl-settings-hubspot-external-content-connector.md)**  
+-   **[Configure crawl settings for a HubSpot external content connector](configure-crawl-settings-hubspot-external-content-connector.md)**  
 Specify the tickets you want your HubSpot external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -34,7 +34,7 @@ Specify the tickets you want your HubSpot external content connector to crawl. D
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

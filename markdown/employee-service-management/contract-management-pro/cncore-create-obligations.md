@@ -74,7 +74,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For more information, see [Obligation form](../reference/cncore-obligation-form.md).
+    For more information, see [Obligation form](cncore-obligation-form.md).
 
 5.  Select **Save**.
 
@@ -82,5 +82,5 @@ Steps
 -   **[Create an ad hoc obligation task](cncore-adhoc-ob-task.md)**  
 Create an obligation task required only once or at irregular intervals to track and fulfill an obligation specified in a contract.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](cncore-obligation-management.md)
 

@@ -37,5 +37,5 @@ You can implement a resolution to a problem by applying a standard change proced
     A change request is created to implement the solution for the problem.
 
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

@@ -31,34 +31,34 @@ The **username** and **password** are initially set in the `config.xml` file on 
 
 -   **[MID Server certificate check policies](mid-security-checks.md)**  
 MID Server uses four kinds of security checks to secure external traffic. The security checks use TLS/SSL certificate validation, hostname validation, Certificate Revocation List \(CRL\), and Online Certificate Status Protocol \(OCSP\) validation to improve security. Control these security checks with the MID Server certificate check policies table.
--   **[Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md)**  
+-   **[Encrypt or decrypt MID Server configuration file values](mid-server-manual-encryption.md)**  
 The value of any MID Server parameter in the `config.xml` file can be encrypted. The attributes for all encrypted values are managed from within the configuration file, including the security attribute of the login password.
--   **[MID Server configuration file security](../reference/mid-server-encrypter-api.md)**  
+-   **[MID Server configuration file security](mid-server-encrypter-api.md)**  
 Sensitive MID Server configuration data can be protected using several different schemes, including internal and external data encryption and external data storage.
 -   **[MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)**  
 Set basic authentication credentials to update the web service invocation data. For added security, you can enforce basic authentication on each incoming SOAP request to the MID Server.
 -   **[MID Server unified key store](mid-unified-keystore.md#)**  
 The MID Server unified key store allows all products on the MID Server to use common certificates and key pairs. This feature allows applications to use the same secure communication channel to the MID Server that the MID Server uses to connect to the instance.
--   **[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)**  
+-   **[Enable MID Server mutual authentication](install-mid-mutual-auth.md)**  
 Configure the MID Server to use a client certificate for authenticating to the instance. This avoids the need to create a basic authentication credentials in the Key Store for the MID Server's configuration.
--   **[MID Server Azure Key Vault integration](../task/mid-azure-key-vault-integration.md#)**  
+-   **[MID Server Azure Key Vault integration](mid-azure-key-vault-integration.md#)**  
 The MID Server integration with the Azure Key vault enables Orchestration, Discovery, and Service Mapping to run without storing any credentials on the instance.
 -   **[MID Server command audit log](mid-audit-log.md)**  
 The command audit log records the commands run by the MID Server for the Discovery application. Review the commands to check for anomalies or errors.
--   **[Rekey a MID Server](../task/t_RekeyAMIDServer.md)**  
+-   **[Rekey a MID Server](t_RekeyAMIDServer.md)**  
 Rekey a MID Server to generate a new private key. Private keys are used to decrypt automation credentials, so that MID Servers can transmit information securely. Key pairs are initially generated when a MID Server is validated, and MID Servers should be rekeyed periodically to meet security requirements.
--   **[Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#)**  
+-   **[Add SSL certificates for the MID Server](add-ssl-certificates.md#)**  
 Configure the MID Server to connect to a source over SSL.
--   **[Specify an external TrustStore for the MID Server](../task/mid-external-truststore.md)**  
+-   **[Specify an external TrustStore for the MID Server](mid-external-truststore.md)**  
 The MID Server JVM can utilize a TrustStore external to the MID installation directory so any certificates added to the TrustStore are not overwritten during an upgrade. It is important that this TrustStore file reside outside of the MID installation directory, and the Truststore location can be specified by adding additional parameters to the MID Server's `wrapper-override.conf` file.
--   **[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)**  
+-   **[MID Server SSH cryptographic algorithms](mid-ssh-algorithms.md)**  
 The MID Server utilizes SSH clients to perform many discovery actions. During the SSH handshake, both the client and server first determine which algorithms both parties support, then client picks the highest priority algorithm. For the Host Key Algorithm, the client picks highest priority algorithm which both parties support that matches the key type.
--   **[Attach a script file to a file synchronized MID Server](../task/mid-server-script-attach.md#)**  
+-   **[Attach a script file to a file synchronized MID Server](mid-server-script-attach.md#)**  
 You can attach a script file to synchronize to a connected MID Server.
 -   **[MID Server FIPS Enforced Mode](mid-fips-enforced.md#)**  
 The MID Server supports the National Security Cloud \(NSC\) IL-5 environment, which requires all utilized cryptography to be FIPS validated. The MID server can be run in FIPS Enforced Mode, where only cryptographic algorithms which are FIPS validated are utilized.
 -   **[MID Server Governance](mid-timeout.md)**  
 Improve MID Server security by setting an automatic timeout to invalidate and shut down inactive MID Servers. You can enable this feature and set the inactivity timeout period globally and for each MID Server.
 
-**Parent Topic:**[Manage instance data sources](../../../administer/general/concept/manage-data-sources.md)
+**Parent Topic:**[Manage instance data sources](../manage-data-sources.md)
 

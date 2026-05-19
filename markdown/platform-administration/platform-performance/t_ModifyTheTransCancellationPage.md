@@ -31,10 +31,10 @@ Knowledge of [Apache Jelly](http://commons.apache.org/jelly/) is highly recommen
 
 3.  In the **HTML** field, add or modify the new cancellation message.
 
-    To add variable information to the cancellation message, see [Methods to add variable information to the cancellation message](../reference/r_AddVarInfoToTheCancellationMsg.md).
+    To add variable information to the cancellation message, see [Methods to add variable information to the cancellation message](r_AddVarInfoToTheCancellationMsg.md).
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../maintain-monitor-now-platform.md)
 

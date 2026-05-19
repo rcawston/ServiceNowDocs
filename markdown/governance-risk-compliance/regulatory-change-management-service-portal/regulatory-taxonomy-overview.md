@@ -35,7 +35,7 @@ Some vendors include additional categories like regulatory themes or topics.
 
 ## Benefits of mapping taxonomy
 
-Users of Regulatory Change Management often use their own terms for business reasons, creating mismatches between external and internal taxonomies. For example, the vendor term could be North America while the users may term it as USA and Canada or vendor term could be Singapore and the user term could be Southeast Asia. To ensure accurate mapping, administrators must manually align external taxonomy terms with their internal taxonomy. This process is known as taxonomy mapping. Mapping taxonomies can sometimes be a challenge for many users. Regulatory Change Management provides the ability to integrate taxonomy-mapping capabilities. For more information, refer to [Map the taxonomy](../task/manage-taxonomy.md).
+Users of Regulatory Change Management often use their own terms for business reasons, creating mismatches between external and internal taxonomies. For example, the vendor term could be North America while the users may term it as USA and Canada or vendor term could be Singapore and the user term could be Southeast Asia. To ensure accurate mapping, administrators must manually align external taxonomy terms with their internal taxonomy. This process is known as taxonomy mapping. Mapping taxonomies can sometimes be a challenge for many users. Regulatory Change Management provides the ability to integrate taxonomy-mapping capabilities. For more information, refer to [Map the taxonomy](manage-taxonomy.md).
 
 **Parent Topic:**[RSS feeds overview](rss-feeds.md)
 

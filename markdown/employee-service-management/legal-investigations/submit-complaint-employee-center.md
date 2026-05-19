@@ -28,12 +28,12 @@ To submit a complaint anonymously, see [Submit a complaint through the Anonymous
 1.  In the Employee Center portal, submit a complaint using either the **Legal** menu or the **Quick links** section.
 
 
-**Parent Topic:**[Submitting a complaint for investigation](../concept/submitting-legal-investigations-request.md)
+**Parent Topic:**[Submitting a complaint for investigation](submitting-legal-investigations-request.md)
 
 **Related topics**  
 
 
-[Submit a complaint through Legal Service Portal](submit-complaint-legal-svc-portal-1.md)
+[Submit a complaint through Legal Service Portal](../employee-service-management/submit-complaint-legal-svc-portal-1.md)
 
 [Submit a complaint through the Anonymous Report Center portal](submit-complaint-arc.md)
 
@@ -47,7 +47,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### About this task
 
-**Note:** This option is available if the admin has activated the record producer that is mapped to the Ethics \[sn\_lg\_ops\_ethics\] table. For more information, see [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+**Note:** This option is available if the admin has activated the record producer that is mapped to the Ethics \[sn\_lg\_ops\_ethics\] table. For more information, see [Record producers for legal investigations](record-producers-legal-investigation.md).
 
 ### Procedure
 
@@ -59,7 +59,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 4.  On the Ethics Complaints form, fill in the fields.
 
-    For a description of the field values, see [Ethics complaints intake form](../reference/ethics-complaint-intake-form.md).
+    For a description of the field values, see [Ethics complaints intake form](ethics-complaint-intake-form.md).
 
 5.  To add an involved party, in the **Involved Parties** section, click **Add**.
 
@@ -80,7 +80,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### Result
 
-A legal request is created and assigned to a [request fulfiller or an assignment group as configured](../../legal-request-management/task/create-assignment-rules-intake-form.md).
+A legal request is created and assigned to a [request fulfiller or an assignment group as configured](../legal-request-management/create-assignment-rules-intake-form.md).
 
 ## Submit a complaint through the Quick Link in Employee Center
 
@@ -92,7 +92,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### About this task
 
-**Note:** This option is available if the admin has activated the record producer that is mapped to the Universal Request \[universal\_request\] table. For more information, see [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+**Note:** This option is available if the admin has activated the record producer that is mapped to the Universal Request \[universal\_request\] table. For more information, see [Record producers for legal investigations](record-producers-legal-investigation.md).
 
 ### Procedure
 

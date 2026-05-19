@@ -53,5 +53,5 @@ Since each trace you run is new, make sure you're finished reading the results o
 
 To learn more, see [Debugging scripts](script-debug-overview.md).
 
-**Parent Topic:**[Script Debugger user interface](../reference/parts-script-debugger-interface.md)
+**Parent Topic:**[Script Debugger user interface](parts-script-debugger-interface.md)
 

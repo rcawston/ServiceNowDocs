@@ -122,5 +122,5 @@ Source types that are not associated with the keyword. Health Log Analytics does
 **Related topics**  
 
 
-[View the lexical keywords that generate alerts in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-lexical-keywords-manage.md)
+[View the lexical keywords that generate alerts in Health Log Analytics](hla-op-lexical-keywords-manage.md)
 

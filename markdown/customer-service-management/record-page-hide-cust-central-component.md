@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the [Customer Central plugin](../concept/customer-central.md#section_jmt_bnt_ydc). The Customer Central application is installed automatically with CSM Configurable Workspace.
+Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the [Customer Central plugin](customer-central.md#section_jmt_bnt_ydc). The Customer Central application is installed automatically with CSM Configurable Workspace.
 
 The Customer Central installation can result in the Customer Activity and Customer Information tab components appearing on the following CSM Configurable Workspace record pages:
 

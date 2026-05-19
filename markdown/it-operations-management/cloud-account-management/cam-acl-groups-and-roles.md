@@ -158,7 +158,7 @@ sn\_itom\_cam.cw\_admin
 -   Oversees all cloud accounts, including CW-managed and on-boarded accounts, guaranteeing centralized control and visibility.
 
 </td></tr></tbody>
-</table>To return to the main topic, see [Exploring Cloud Account Management](../concept/exploring-cam.md).
+</table>To return to the main topic, see [Exploring Cloud Account Management](exploring-cam.md).
 
 **Parent Topic:**[Cloud Account Management reference](cam-reference.md)
 

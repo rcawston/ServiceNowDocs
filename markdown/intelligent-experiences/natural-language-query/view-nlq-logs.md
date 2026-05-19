@@ -42,7 +42,7 @@ Every natural language query is logged in the **NLQ Query Logs** table \[nlq\_qu
 
 Based on your users' attempted queries, consider adding more [synonyms](create-nlq-synonym.md) or [shortcuts](create-nlq-shortcut.md).
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](configuring-nlq.md)
 
 **Related topics**  
 

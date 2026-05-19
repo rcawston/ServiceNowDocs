@@ -343,7 +343,7 @@ Select **Open data table and form** to open the selected table within Table Buil
 
 ### What to do next
 
-To open your data table in Table Builder, select **Open data table and form** above the displayed tables. For more information on editing your data tables in Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+To open your data table in Table Builder, select **Open data table and form** above the displayed tables. For more information on editing your data tables in Table Builder, see [Table Builder](../form-builder-glide-family-release/tb-landing-page.md).
 
 To add a reference table, see [Add a reference table from a PDF form](pdf-extractor.md#).
 
@@ -468,5 +468,5 @@ Select **Open data table and form** to open the selected table within Table Buil
 
 ### What to do next
 
-To open your data table in Table Builder, select **Open data table and form** above the displayed tables. For more information on editing your data tables in Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+To open your data table in Table Builder, select **Open data table and form** above the displayed tables. For more information on editing your data tables in Table Builder, see [Table Builder](../form-builder-glide-family-release/tb-landing-page.md).
 

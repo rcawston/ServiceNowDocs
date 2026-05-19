@@ -17,7 +17,7 @@ Course of actions describes technical or automated responses \(applying patches,
 
 For example, a course of action to mitigate a vulnerability could describe applying the patch that fixes it.
 
--   **[Define a course of action](../task/define-course-action.md)**  
+-   **[Define a course of action](define-course-action.md)**  
 Define a course of action to prevent an attack or to respond to an attack that is in progress.
 
 **Parent Topic:**[IoC Repository](ioc-repository.md)

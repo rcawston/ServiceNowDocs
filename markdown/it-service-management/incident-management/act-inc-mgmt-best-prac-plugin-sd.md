@@ -38,5 +38,5 @@ The Incident Management Best Practice – San Diego plugin modifies the problem 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Incident Management Best Practice – San Diego](../concept/inc-mgmt-best-prac-plugin-sd.md)
+**Parent Topic:**[Incident Management Best Practice – San Diego](inc-mgmt-best-prac-plugin-sd.md)
 

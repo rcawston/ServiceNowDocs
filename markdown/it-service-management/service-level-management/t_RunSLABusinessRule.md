@@ -36,5 +36,5 @@ Use synchronous processing to get the best user experience. Asynchronous process
 3.  Click **Save**.
 
 
-**Parent Topic:**[SLA calculation](../reference/r_SLAAutomation.md)
+**Parent Topic:**[SLA calculation](r_SLAAutomation.md)
 

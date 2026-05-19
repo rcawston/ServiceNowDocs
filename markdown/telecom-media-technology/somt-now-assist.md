@@ -19,11 +19,11 @@ Use the ServiceNow® Now Assist for Sales CRM for Telecommunications application
 
 <table id="table_rdm_5rm_23c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Sales CRM for Telecommunications](../concept/now-assist-somt-explore.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Sales CRM for Telecommunications](now-assist-somt-explore.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Sales CRM for Telecommunications](../concept/using-aiagents-somt.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Sales CRM for Telecommunications](using-aiagents-somt.md)
 
 </td></tr></tbody>
 </table>**Important:**

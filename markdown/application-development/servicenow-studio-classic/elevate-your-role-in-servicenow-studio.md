@@ -36,5 +36,5 @@ Role required: admin, or another role that can be elevated.
 5.  Select **Update**.
 
 
-**Parent Topic:**[Managing access to ServiceNow Studio](../concept/manage-access-to-servicenow-studio.md)
+**Parent Topic:**[Managing access to ServiceNow Studio](manage-access-to-servicenow-studio.md)
 

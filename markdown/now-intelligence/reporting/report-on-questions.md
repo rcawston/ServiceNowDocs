@@ -75,7 +75,7 @@ You can apply these steps to any report type as long as the report source has qu
 
 7.  Continue to configure and style the report according to its report type.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](report-types-creation-details-rd.md).
 
 
 ## Add additional group by questions to a report
@@ -116,6 +116,6 @@ You can apply these steps to any report type as long as the report source has qu
 
 10. Continue to configure and style the report according to its report type.
 
-    See [Creating reports](../reference/report-types-creation-details-rd.md).
+    See [Creating reports](report-types-creation-details-rd.md).
 
 

@@ -40,5 +40,5 @@ Role required: sn\_lg\_ops.legal\_user or sn\_lg\_ops.legal\_fulfiller
 
 The system processes the user's permissions and grants access to the documents in the matter artifact.
 
-**Parent Topic:**[Document access in a legal matter](../concept/document-access-legal-matter.md)
+**Parent Topic:**[Document access in a legal matter](document-access-legal-matter.md)
 

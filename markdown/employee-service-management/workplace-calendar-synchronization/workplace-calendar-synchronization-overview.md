@@ -38,7 +38,7 @@ As an admin, you can do the following:
 
 -   Configure connections with a calendar service.
 -   Configure workplace items that require synchronization when they’re reserved.
--   Monitor events and calendar events that are created in the applications. For information about how events work, refer to [Events in Workplace Calendar Synchronization](../reference/events-in-workplace-calendar-synchronization.md).
+-   Monitor events and calendar events that are created in the applications. For information about how events work, refer to [Events in Workplace Calendar Synchronization](events-in-workplace-calendar-synchronization.md).
 -   For Google Calendar and Microsoft Exchange, receive calendar updates via synchronization deltas \(Sync deltas\). A Sync delta contains a token using which the application retrieves only the changes that happened since the last interval instead of displaying the complete calendar history of the workplace item.
 
     **Note:** If you’re using Microsoft Exchange Online, you cannot view synchronization deltas.

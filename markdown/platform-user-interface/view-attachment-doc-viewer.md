@@ -15,13 +15,13 @@ View documents within the platform using Document Viewer rather than having to d
 
 ## Before you begin
 
-Make sure that Document Viewer is enabled for the table containing the record. For more information, see [Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md).
+Make sure that Document Viewer is enabled for the table containing the record. For more information, see [Enable Document Viewer](enable-document-viewer.md).
 
 Role required: none
 
 ## About this task
 
-Document Viewer supports inline viewing of certain [document types](../concept/Documentviewer.md#ul_jvx_dzy_whb) within the platform.
+Document Viewer supports inline viewing of certain [document types](Documentviewer.md#ul_jvx_dzy_whb) within the platform.
 
 ## Procedure
 
@@ -39,10 +39,10 @@ Document Viewer supports inline viewing of certain [document types](../concept/D
     Click **Download Document** to view the document in the relevant external application.
 
 
-**Parent Topic:**[Document Viewer](../concept/Documentviewer.md)
+**Parent Topic:**[Document Viewer](Documentviewer.md)
 
 **Related topics**  
 
 
-[Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md)
+[Enable Document Viewer](enable-document-viewer.md)
 

@@ -20,7 +20,7 @@ The NowServiceConfiguration structure defines configuration information for a fe
 |appBundleId|String|Bundle ID of the application integrating with the NowSDK.|
 |instanceUrl|String|URL of the ServiceNow instance that the feature service will access. For example: `https://instance.servicenow.com`.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowServiceConfiguration - init\(instanceUrl: URL, appBundleId: String\)
 

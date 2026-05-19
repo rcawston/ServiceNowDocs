@@ -208,5 +208,5 @@ Option that designates if this network asset is certified.
 **Related topics**  
 
 
-[Create inventory models](../concept/creating-your-inventory-models.md)
+[Create inventory models](creating-your-inventory-models.md)
 

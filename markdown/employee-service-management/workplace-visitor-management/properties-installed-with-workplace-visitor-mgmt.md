@@ -70,7 +70,7 @@ This property specifies the sys\_id of the badge template that is used if no bad
  The default value is the sys\_id of the **Visitor Badge \(Black and White\)** template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Visitor Management references](workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 

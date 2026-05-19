@@ -99,16 +99,16 @@ See [Import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/au
 8.  Run any fix scripts that are included in the application.
 
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](c_SharingApplications.md)
 
 **Related topics**  
 
 
-[Retrieve an update set](../../system-update-sets/task/t_RetrieveAnUpdateSet.md)
+[Retrieve an update set](system-update-sets/t_RetrieveAnUpdateSet.md)
 
-[Save an update set as a local XML file](../../system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.md#)
+[Save an update set as a local XML file](system-update-sets/t_SaveAnUpdateSetAsAnXMLFile.md#)
 
 [Run fix scripts](t_RunFixScripts.md)
 
-[Delegate development and deployment permissions to personnel](t_AddADeveloper.md)
+[Delegate development and deployment permissions to personnel](delegated-development-and-deployment/t_AddADeveloper.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowChatServiceDelegate protocol provides callbacks for notification of actions within the NowChatService such as a request to open a URL or dismiss the chat view controller.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowChatServiceDelegate - chatService\(\_chatService: NowChatService, didRequestOpenUrlurl: URL\)
 
@@ -23,7 +23,7 @@ Callback that notifies the host application that the specified chat service rece
 
 |Name|Type|Description|
 |----|----|-----------|
-|chatService|[NowChatService](../../NowChatService/concept/NowChatServiceiOSAPI.md#)|NowChatService object making the request.|
+|chatService|[NowChatService](NowChatServiceiOSAPI.md#)|NowChatService object making the request.|
 |didRequestOpenUrl url|URL|URL that the service has requested to open.|
 
 |Type|Description|
@@ -46,7 +46,7 @@ Callback that notifies the host application that the system chat theme changed.
 
 |Name|Type|Description|
 |----|----|-----------|
-|chatService|[NowChatService](../../NowChatService/concept/NowChatServiceiOSAPI.md#)|NowChatService object making the request.|
+|chatService|[NowChatService](NowChatServiceiOSAPI.md#)|NowChatService object making the request.|
 |traitCollection|[UITraitCollection](https://developer.apple.com/documentation/uikit/uitraitcollection)|UITraitCollection that contains the new theme.|
 
 |Type|Description|
@@ -70,7 +70,7 @@ Callback that notifies the host application that the chat view controller was di
 
 |Name|Type|Description|
 |----|----|-----------|
-|chatService|[NowChatService](../../NowChatService/concept/NowChatServiceiOSAPI.md#)|NowChatService object whose view controller was dismissed.|
+|chatService|[NowChatService](NowChatServiceiOSAPI.md#)|NowChatService object whose view controller was dismissed.|
 
 |Type|Description|
 |----|-----------|

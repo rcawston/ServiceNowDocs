@@ -30,5 +30,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../concept/messg-direct-whatsapp-using.md)
+**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-using.md)
 

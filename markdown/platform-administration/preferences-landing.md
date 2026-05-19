@@ -17,7 +17,7 @@ With notification preferences you can manage and choose the notifications you wa
 
 <table id="table_mfw_qvq_dzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about preferences and choose the notifications you want to receive](../reference/exploring-preferences.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about preferences and choose the notifications you want to receive](exploring-preferences.md)
 
 </td><td>
 
@@ -35,12 +35,12 @@ With notification preferences you can manage and choose the notifications you wa
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
--   **[Exploring preferences](../reference/exploring-preferences.md)**  
+-   **[Exploring preferences](exploring-preferences.md)**  
 With notification preferences you can manage and choose the notifications you want to receive. Notification preferences enable you to set global preferences, search for notifications, enable and disable notifications, and customize the way you receive system notifications.
 -   **[System and custom notification and delivery channel preferences in Next Experience](advanced-notification-prefrences.md)**  
 You can manage and set your own notification preferences, including customized notifications and channels for receiving them.
 -   **[Setting notification preferences in Core UI](user-notification-preferences.md)**  
 You can set your own notification preferences, including personal subscriptions and channels for receiving them. All users can set these preferences through the **Notifications** tab of the System Settings window.
 
-**Parent Topic:**[Notifications](../reference/notifications.md)
+**Parent Topic:**[Notifications](notifications.md)
 

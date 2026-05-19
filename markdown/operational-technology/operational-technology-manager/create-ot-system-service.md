@@ -275,5 +275,5 @@ Status of the system service.
 
 Now you can add OT devices to the system service. For more information, see [Add a device to an Operational Technology system service](add-devices-to-ot-system-service.md).
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](modeling-ot-system.md)
 

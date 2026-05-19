@@ -50,10 +50,10 @@ When an Enterprise Architect receives an approval request for the ADR type of ar
     You can also copy the summarized text.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
-[Add or edit an architectural decision record \(ADR\)](../../application-portfolio-management/task/eaw-task/eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
 

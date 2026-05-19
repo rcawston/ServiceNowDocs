@@ -23,7 +23,7 @@ Enable concurrent imports only after fine-tuning all other parameters, such as d
 
 ## Scheduling concurrent imports
 
-You enable concurrent imports by selecting **Concurrent Import** on the Scheduled Data Import form. For instructions, see [Schedule a data import](../task/t_ScheduleADataImport.md).
+You enable concurrent imports by selecting **Concurrent Import** on the Scheduled Data Import form. For instructions, see [Schedule a data import](t_ScheduleADataImport.md).
 
 When the schedule runs a concurrent import, the system pulls the data from databases, Excel spreadsheets, CSV files, or other sources to a temporary staging table, and then transforms the data from the staging table to the target table.
 
@@ -37,13 +37,13 @@ Each active node runs two Import Set Transformer jobs every minute, and those jo
 
 Each concurrent import creates a Concurrent Import Set record. The form view shows all related import sets, concurrent import set jobs, and transform histories.
 
-You can resume or reprocess any import set. For more information, see [Monitor concurrent import sets](../task/monitor-concurrent-import-sets.md).
+You can resume or reprocess any import set. For more information, see [Monitor concurrent import sets](monitor-concurrent-import-sets.md).
 
 ## Concurrent Import Sets Jobs queue
 
 After loading data, the system adds the import sets to the Concurrent Import Sets Jobs table. The Concurrent Import Sets Jobs table indicates the job type and status of each concurrent import set job.
 
-For more information, see [Monitor concurrent import set jobs](../task/monitor-concurrent-import-set-jobs.md).
+For more information, see [Monitor concurrent import set jobs](monitor-concurrent-import-set-jobs.md).
 
 ## Partitioning concurrent imports
 

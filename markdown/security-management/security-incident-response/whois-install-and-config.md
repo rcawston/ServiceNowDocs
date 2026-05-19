@@ -17,14 +17,14 @@ Install the Whois plugin to provide additional enrichment information on your do
 
 ## Before you begin
 
-1.  If you have not requested entitlement for the application, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) for the Whois application from the ServiceNow Store.
+1.  If you have not requested entitlement for the application, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) for the Whois application from the ServiceNow Store.
 2.  Obtain credentials for the Whois API key from the product website: [WHOIS API website](https://whoisapi.whoisxmlapi.com/).
 
 Role required: admin
 
 ## Procedure
 
-1.  If you have not installed the application, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  After the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Whois API tile.
 
@@ -45,7 +45,7 @@ If an error message is displayed, the API key may be invalid.
 
 ![Example configuration error message](../images/reverse-whois-config-error.png "Troubleshooting")
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](reversewhois-lookups.md)
 
 **Previous topic:**[Install and configure Reverse Whois](install-and-config-reversewhois.md)
 

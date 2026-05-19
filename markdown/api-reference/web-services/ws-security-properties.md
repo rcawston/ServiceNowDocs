@@ -74,5 +74,5 @@ Specifies the cannonicalization algorithm. Possible values are Canonical xml 1.0
 |Exclusive Canonical xml 1.0|http://www.w3.org/2001/10/xml-exc-c14n\#|
 |Exclusive Canonical xml 1.0 with comments|http://www.w3.org/2001/10/xml-exc-c14n\#WithComments|
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
 

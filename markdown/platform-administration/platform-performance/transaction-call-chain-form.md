@@ -80,5 +80,5 @@ Transaction Log
 Transaction log ID created for the recorded call chain.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

@@ -32,7 +32,7 @@ Role required: admin
 5.  Click **Delete** and confirm the deletion.
 
 
-**Parent Topic:**[Filter admin functions](../concept/filter-admin-functions.md)
+**Parent Topic:**[Filter admin functions](filter-admin-functions.md)
 
 **Related topics**  
 
@@ -43,7 +43,7 @@ Role required: admin
 
 [Create a dynamic filter option](t_DynamicFilterOptions.md)
 
-[Personal lists](../concept/c_PersonalLists.md#)
+[Personal lists](c_PersonalLists.md#)
 
 [Configure the list layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ConfigureTheListLayout.md)
 

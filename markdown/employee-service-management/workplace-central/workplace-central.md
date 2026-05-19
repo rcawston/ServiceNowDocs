@@ -25,7 +25,7 @@ Using the Workplace Central application, you can perform the following:
 
 -   Plan scenarios using the Scenario planning feature available with the Space optimization module. This module provides the collective information for all the scenarios created, published, deployed, and archived in the system.
 
-    For more information about scenario planning and the Space optimization module, refer to [Scenario Planning](scenario-planning.md).
+    For more information about scenario planning and the Space optimization module, refer to [Scenario Planning](../workplace-space-management/scenario-planning.md).
 
 -   You can track scenario metrics on the Space Optimization module and also view the scenarios individually.
 -   Work on space assistance requests.
@@ -47,11 +47,11 @@ The Lists module is a common dashboard that contains lists for the application t
 The ServiceNow Workplace Analytics dashboard displays key metrics that enable you to optimize the use of workplace resources and maximize your return on investment.
 -   **[Space Planning](space-planning.md)**  
 Create, understand, and manage core functions like space hierarchy, neighborhoods, and user assignments.
--   **[Space Optimization](space-optimization.md)**  
+-   **[Space Optimization](../workplace-space-management/space-optimization.md)**  
 As a space planner, you can use the Workplace Central to monitor all your scenarios and workplace-related information from a single page called Space Optimization.
--   **[Scenario Planning](scenario-planning.md)**  
+-   **[Scenario Planning](../workplace-space-management/scenario-planning.md)**  
 Manage space allocations in your workplace in the most efficient way using the Space optimization scenario planning feature. Adjust your existing space allocations, floor arrangements, and employee seating plan by creating a scenario and deploying it.
--   **[Schedule Planning](schedule-planning.md)**  
+-   **[Schedule Planning](../workplace-space-management/schedule-planning.md)**  
 Manage space assignments to help employees head back to the office.
 -   **[Space assistance](space-assistance.md)**  
 As a space planner, assist your organization with space planning and their deployment. Work on space requests raised within the organization and implement the changes using the Space Optimization workspace.

@@ -17,8 +17,8 @@ Start importing data with Integration Hub by creating a data source. A data sour
 
 ## Before you begin
 
--   Imports in Integration Hub require the ServiceNow IntegrationHub Action Template - Data Stream \[com.glide.hub.action\_type.datastream\] plugin. For more information, see [Request IntegrationHub](../../flow-designer/concept/request-ih-overview.md).
--   A data source in Integration Hub uses an Excel file, a CSV file, or a Data Stream action. Data Stream actions have unique inputs, so if you plan to use one, make sure to familiarize yourself with it first. To learn more, see [Data Stream actions and pagination](../concept/data-stream-actions.md). You can use Data Stream actions with dynamic outputs, but dynamic inputs aren't supported.
+-   Imports in Integration Hub require the ServiceNow IntegrationHub Action Template - Data Stream \[com.glide.hub.action\_type.datastream\] plugin. For more information, see [Request IntegrationHub](request-ih-overview.md).
+-   A data source in Integration Hub uses an Excel file, a CSV file, or a Data Stream action. Data Stream actions have unique inputs, so if you plan to use one, make sure to familiarize yourself with it first. To learn more, see [Data Stream actions and pagination](data-stream-actions.md). You can use Data Stream actions with dynamic outputs, but dynamic inputs aren't supported.
 -   Role required: admin or ih\_import.
 
 ## About this task
@@ -65,5 +65,5 @@ The structure of the source data appears in the Source data structure preview pa
 
 Map your source data to target tables. See [Map source data to a target table](map-source-data-target.md).
 
-**Parent Topic:**[Integration Hub - Import](../concept/integrationhub-imports.md)
+**Parent Topic:**[Integration Hub - Import](integrationhub-imports.md)
 

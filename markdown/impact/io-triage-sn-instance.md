@@ -43,7 +43,7 @@ Role required: admin
 
     Most of the charts display data broken down by age. Whereas, Schedulers chart breaks down the data by worker nodes.
 
-    To know more about each of the sections, see [Triaged instance data](../concept/io-triage.md).
+    To know more about each of the sections, see [Triaged instance data](io-triage.md).
 
     ![Instance Observer triage page.](../image/io-triage-phase-2.png)
 
@@ -68,8 +68,8 @@ Role required: admin
 12. Select **Download Triage File** to view all the sections of triaged details, downloaded in an excel format.
 
 
--   **[Triaged instance data](../concept/io-triage.md)**  
+-   **[Triaged instance data](io-triage.md)**  
 You can triage your instance to get instant information on transactions, jobs, nodes utilization, semaphores, schedulers and update sets. Minimal use of this feature is recommended as use of this consumes resources on your instance.
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](../concept/io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](io-overview.md)
 

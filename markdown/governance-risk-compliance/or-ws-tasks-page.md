@@ -63,7 +63,7 @@ If you have the Operational Resilience administrator role, you can customize Ope
 
 If you have the Operational Resilience manager or Operational Resilience user roles, you can also get relevant recommendations on your resilience tasks on the landing page.
 
-To view more information on the Tasks Page Configuration, see [Update the Tasks Page Configuration record](../../grc-common/task/view-tasks-page-configurations.md).
+To view more information on the Tasks Page Configuration, see [Update the Tasks Page Configuration record](grc-common-functions/view-tasks-page-configurations.md).
 
 ## List view in Operational Resilience Workspace
 

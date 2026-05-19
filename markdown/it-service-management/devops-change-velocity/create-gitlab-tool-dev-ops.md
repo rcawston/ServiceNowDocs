@@ -17,7 +17,7 @@ Create an GitLab tool record in DevOps Change Velocity to connect, discover, and
 
 ## Before you begin
 
-Complete the steps specified in the [Getting started](../concept/setting-up-devops-change-velocity.md) section before connecting to a tool.
+Complete the steps specified in the [Getting started](setting-up-devops-change-velocity.md) section before connecting to a tool.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -65,7 +65,7 @@ Tool Password / Access Token
 GitLab access token**Note:** Only personal access token is supported. When you generate the token, select the scope api and grant read/write access including all groups and projects, the container registry, and the package registry.
 
 </td></tr></tbody>
-</table>        For a list of all the permissions required on the credentials for connecting to GitLab, see GitLab permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+</table>        For a list of all the permissions required on the credentials for connecting to GitLab, see GitLab permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     3.  Select **MID Server** for an on-premises tool that is attached to a MID Server.
 
@@ -136,5 +136,5 @@ Searches for the repositories in projects with the specified text string.
     Imported historical data records are added to the corresponding related lists.
 
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](../concept/gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
 

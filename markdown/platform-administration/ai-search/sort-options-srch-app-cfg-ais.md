@@ -17,7 +17,7 @@ A search result sort option enables users to display search results in an order 
 
 When sorting search results on a string field, AI Search uses collation-based sort following the rules for the ServiceNow AI Platform® session language.
 
-For details on how users apply search result sort options, see [Change the sort order for your search results](../task/sort-search-results-ais.md).
+For details on how users apply search result sort options, see [Change the sort order for your search results](sort-search-results-ais.md).
 
 **Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
 
@@ -47,7 +47,7 @@ The sort menu in an AI Search application displays all active search result sort
 
 4.  On the Sort Option form, fill in the fields.
 
-    For a description of the field values, see [Sort Option form](../reference/sort-option-form-ais.md).
+    For a description of the field values, see [Sort Option form](sort-option-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -74,7 +74,7 @@ Role required: search\_application\_admin
 
 4.  On the Sort Option form, clear the **Active** option and select **Update**.
 
-    For a description of the field values, see [Sort Option form](../reference/sort-option-form-ais.md).
+    For a description of the field values, see [Sort Option form](sort-option-form-ais.md).
 
 
 ### Result

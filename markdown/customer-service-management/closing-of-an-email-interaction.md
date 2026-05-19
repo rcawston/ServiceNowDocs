@@ -45,7 +45,7 @@ The email interaction is closed and marked as Closed Complete.
 
 An email interaction gets closed automatically when there’s no response from the customer within a certain period. By default, the period of inactivity is set to a value of five days.
 
-If a consumer, contact, or guest user doesn’t respond within five days, the email interaction automatically closes. Any subsequent email from the customer creates an email interaction. For more information on configuring the inactivity period property, see [System properties for configuring Email Interaction](../reference/system-properties-for-configuring-email-as-an-interaction.md).
+If a consumer, contact, or guest user doesn’t respond within five days, the email interaction automatically closes. Any subsequent email from the customer creates an email interaction. For more information on configuring the inactivity period property, see [System properties for configuring Email Interaction](system-properties-for-configuring-email-as-an-interaction.md).
 
 When a customer replies on top of a closed email interaction, a new email interaction is created and linked to the closed interaction.
 

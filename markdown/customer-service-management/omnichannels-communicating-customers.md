@@ -23,7 +23,7 @@ Customers can use the following consumer messaging apps to message you.
 -   Facebook Messenger
 -   Apple Messages for Business
 
-To learn more, see [Integrating with consumer messaging apps](../task/messg-integrate-channels.md).
+To learn more, see [Integrating with consumer messaging apps](messg-integrate-channels.md).
 
 **Parent Topic:**[Exploring Customer Service Management](exploring-csm.md)
 

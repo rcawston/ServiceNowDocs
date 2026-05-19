@@ -35,7 +35,7 @@ Role required: sn\_sow\_svcobs.admin
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](chart-error-states.md).
 
 2.  Open the template in editing mode.
 

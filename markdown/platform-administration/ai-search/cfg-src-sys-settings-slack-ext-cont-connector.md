@@ -127,5 +127,5 @@ Your connector admin needs these items to configure a Slack external content con
 
 For details on creating and configuring a Slack external content connector, see [Create a Slack external content connector](create-ext-cont-connector-slack.md).
 
-**Parent Topic:**[Slack external content connector](../concept/slack-external-content-connector.md)
+**Parent Topic:**[Slack external content connector](slack-external-content-connector.md)
 

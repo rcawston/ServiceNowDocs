@@ -19,14 +19,14 @@ This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.app
 
 This API depends on the a suite of classes to build various elements comprising a PDF.
 
--   [Cell](../../CellBoth/concept/CellBothAPI.md#) – Creates a Cell object as a cell in a table. You can use this API to format the cell and include additional blocks, such as paragraphs and images.
--   [Color](../../ColorBoth/concept/ColorBothAPI.md#) – Creates a Color object used to define color attributes that you can apply to elements in a PDF; such as cells, tables, and lines.
--   [Image](../../ImageBoth/concept/ImageBothAPI.md#) – Creates an Image object representing an image and its layout insert in a PDF. Enables defining attributes such as scale, alignment, and border color.
--   [Line](../../LineBoth/concept/LineBothAPI.md#) – Creates a Line object using methods to draw a line in a PDF.
--   [Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#) – Creates a Paragraph object representing a block of text in a PDF.
--   [PdfPage](../../PdfPageBoth/concept/PdfPageBothAPI.md#) – Creates a PdfPage object representing a PDF page and its attributes; such as size, width, and color.
--   [Style](../../StyleBoth/concept/StyleBothAPI.md#) – Creates a style for defining properties such font size, border, and alignment. You can apply the same style to multiple objects simultaneously.
--   [Table](../../TableBoth/concept/TableBothAPI.md#) – Creates a Table object to add to a PDF document. Defines the data to use in each cell and sets styles, margins, and alignment.
+-   [Cell](CellBothAPI.md#) – Creates a Cell object as a cell in a table. You can use this API to format the cell and include additional blocks, such as paragraphs and images.
+-   [Color](ColorBothAPI.md#) – Creates a Color object used to define color attributes that you can apply to elements in a PDF; such as cells, tables, and lines.
+-   [Image](ImageBothAPI.md#) – Creates an Image object representing an image and its layout insert in a PDF. Enables defining attributes such as scale, alignment, and border color.
+-   [Line](LineBothAPI.md#) – Creates a Line object using methods to draw a line in a PDF.
+-   [Paragraph](ParagraphBothAPI.md#) – Creates a Paragraph object representing a block of text in a PDF.
+-   [PdfPage](PdfPageBothAPI.md#) – Creates a PdfPage object representing a PDF page and its attributes; such as size, width, and color.
+-   [Style](StyleBothAPI.md#) – Creates a style for defining properties such font size, border, and alignment. You can apply the same style to multiple objects simultaneously.
+-   [Table](TableBothAPI.md#) – Creates a Table object to add to a PDF document. Defines the data to use in each cell and sets styles, margins, and alignment.
 
 The following example shows how to create a basic PDF using the Document API and several components, such as a table, cell, and paragraph. The result is a list of incidents from the Incident \[incident\] table listed in a PDF. You can test this example in your instance by replacing `<sys_id>` with the sys\_id of an incident record to attach the PDF to.
 
@@ -97,7 +97,7 @@ The PDF attachment is listed in the Attachments \[sys\_attachment\] table.
 
 ![Example PDF with output as 2-column table listing incident numbers and descriptions.](../image/document-api-pdf-output.png)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## Document - Document\(PdfPage pageSize\)
 
@@ -105,7 +105,7 @@ Instantiates a Document object and generates a PDF document.
 
 |Name|Type|Description|
 |----|----|-----------|
-|pageSize|[PdfPage](../../PdfPageBoth/concept/PdfPageBothAPI.md#)|PDF page size.|
+|pageSize|[PdfPage](PdfPageBothAPI.md#)|PDF page size.|
 
 |Type|Description|
 |----|-----------|
@@ -180,7 +180,7 @@ Adds an image to a document.
 
 |Name|Type|Description|
 |----|----|-----------|
-|image|[Image](../../ImageBoth/concept/ImageBothAPI.md#)|Image to add to a document.|
+|image|[Image](ImageBothAPI.md#)|Image to add to a document.|
 
 |Type|Description|
 |----|-----------|
@@ -285,7 +285,7 @@ Adds a paragraph to a document.
 
 |Name|Type|Description|
 |----|----|-----------|
-|paragraph|[Paragraph](../../ParagraphBoth/concept/ParagraphBothAPI.md#)|Block of text provided as a paragraph object.|
+|paragraph|[Paragraph](ParagraphBothAPI.md#)|Block of text provided as a paragraph object.|
 
 |Type|Description|
 |----|-----------|
@@ -308,13 +308,13 @@ Adds a table to a document.
 
 |Name|Type|Description|
 |----|----|-----------|
-|table|[Table](../../TableBoth/concept/TableBothAPI.md#)|Table to be inserted into the document.|
+|table|[Table](TableBothAPI.md#)|Table to be inserted into the document.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to add a table to a document. See the [Table API](../../TableBoth/concept/TableBothAPI.md#) for more details on how to define a table. For a document usage example, see [Document](DocumentBothAPI.md#) API.
+The following example shows how to add a table to a document. See the [Table API](TableBothAPI.md#) for more details on how to define a table. For a document usage example, see [Document](DocumentBothAPI.md#) API.
 
 ```
 var table = new sn_pdfgeneratorutils.Table([70,200], false);
@@ -349,7 +349,7 @@ Creates a document with the specified page size.
 
 |Name|Type|Description|
 |----|----|-----------|
-|pageSize|[PdfPage](../../PdfPageBoth/concept/PdfPageBothAPI.md#)|Document page size.|
+|pageSize|[PdfPage](PdfPageBothAPI.md#)|Document page size.|
 
 |Type|Description|
 |----|-----------|
@@ -414,7 +414,7 @@ String
 
 </td><td>
 
-Value of the default page size set using the [PdfPage](../../PdfPageBoth/concept/PdfPageBothAPI.md#) API.Possible values:
+Value of the default page size set using the [PdfPage](PdfPageBothAPI.md#) API.Possible values:
 
 -   A4 – 595 x 842 points
 -   EXECUTIVE – 522 x 756 points

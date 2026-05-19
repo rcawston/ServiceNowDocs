@@ -62,9 +62,9 @@ Role required: sn\_si.analyst
 
 Review the work notes for more information and how to proceed if you cannot verify that the lookup ran successfully.
 
-**Parent Topic:**[PhishTank integration](../concept/phishtank-lookups.md)
+**Parent Topic:**[PhishTank integration](phishtank-lookups.md)
 
 **Previous topic:**[Verify expected results for PhishTank](verify-expected-results-phishtank.md)
 
-**Next topic:**[Proofpoint Integration for Security Operations](../../secops-integration-sir/secops-integration-proofpoint/reference/proofpoint-integration-secops-landing.md)
+**Next topic:**[Proofpoint Integration for Security Operations](proofpoint-integration-secops-landing.md)
 

@@ -71,7 +71,7 @@ cd-content-experience
 
 </td><td>
 
-Delivers targeted, actionable communications to employees. For more information, see [Creating campaigns](../concept/ecpro-campaigns.md).
+Delivers targeted, actionable communications to employees. For more information, see [Creating campaigns](ecpro-campaigns.md).
 
 </td></tr><tr><td>
 
@@ -310,7 +310,7 @@ Shows portal content with content type of Banner. Generally used to show informa
 |Employee Profile Overview|employee-profile-overview|Displays the employee profile overview.|
 |Public Profile Visibility|public\_profile\_visibility|Shows the visibility setting for the profile. You can modify the visibility settings based on your needs.|
 
-For more information, see [Employee profile](../concept/employee-profile-portal.md).
+For more information, see [Employee profile](employee-profile-portal.md).
 
 ## Employee Center Pro Kiosk widgets
 
@@ -323,9 +323,9 @@ For more information, see [Employee profile](../concept/employee-profile-portal.
 |Timeoff Accrual Balance - Home Page|timeoff-accrual-balance-home-page|Shows the time off and leave balances home page.|
 |Preferences|preferences|Shows the user preferences such as accessibility and language.|
 
-For more information, see [Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md).
+For more information, see [Employee Center Pro Kiosk](deskless-kiosk-overview.md).
 
-For more information on configuring widgets, see [Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md).
+For more information on configuring widgets, see [Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md).
 
 **Parent Topic:**[Employee Center Pro reference](emp-center-pro-reference.md)
 
@@ -334,9 +334,9 @@ For more information on configuring widgets, see [Customize Employee Center Pro 
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -346,13 +346,13 @@ For more information on configuring widgets, see [Customize Employee Center Pro 
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Feedback configuration form](ex-feedback-new-record.md)
 

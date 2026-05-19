@@ -23,6 +23,6 @@ Use the Now Assist certificate renewal AI agent to automatically renew certifica
 
 You must first configure your system for automatic renewal. Configuring requires two steps:
 
-1.  [Configure your MID Server for automatic certificate renewal](../../discovery/task/configure-mid-server-automatic-cert-renewal.md)
-2.  [Add the required applications and capabilities to your MID Server](../../discovery/task/add-req-apps-capabilities-to-mid-server.md)
+1.  [Configure your MID Server for automatic certificate renewal](../discovery/configure-mid-server-automatic-cert-renewal.md)
+2.  [Add the required applications and capabilities to your MID Server](../discovery/add-req-apps-capabilities-to-mid-server.md)
 

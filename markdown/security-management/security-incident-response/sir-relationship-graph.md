@@ -28,9 +28,9 @@ When you open a relationship graph for a security incident, the available config
 -   Hide any node or subnode from the graph.
 -   View details of a subnode.
 
--   **[Customize a relationship graph](../task/create-relationship-graph-config.md)**  
+-   **[Customize a relationship graph](create-relationship-graph-config.md)**  
 Visualize and analyze security incidents and their associated data in a relationship graph.
--   **[Create a relationship graph for an incident](../task/create-relationship-graph-sir.md)**  
+-   **[Create a relationship graph for an incident](create-relationship-graph-sir.md)**  
 Create a node relationship graph in Security Incident Response so you can better analyze a security incident by correlating it with malicious observables, configuration items \(CIs\), similar security incidents \(SIRs\), response tasks, and other related information.
 
 **Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
@@ -50,9 +50,9 @@ Create a node relationship graph in Security Incident Response so you can better
 
 [Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](tisc-sir-workspace.md)
 
 [Reports in Security Incident Response](report-templates-sir.md)
 

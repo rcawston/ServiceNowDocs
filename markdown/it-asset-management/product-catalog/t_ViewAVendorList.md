@@ -30,12 +30,12 @@ The list includes every company that has the **Vendor** option selected on its r
 2.  Click any vendor **Name** for more information.
 
 
-**Parent Topic:**[Vendor catalog items](../concept/c_ManageVendorCatalogItems.md)
+**Parent Topic:**[Vendor catalog items](c_ManageVendorCatalogItems.md)
 
 **Related topics**  
 
 
-[Synchronize information](../concept/c_SynchronizeInformation.md)
+[Synchronize information](c_SynchronizeInformation.md)
 
 [Create a vendor catalog item](t_CreateAVendorCatalogItem.md)
 

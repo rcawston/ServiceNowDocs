@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_config or sn\_lg\_matter.matter\_config
 
 ## About this task
 
-When [an existing matter template is updated and published](../../legal-matter-management/task/create-legal-matter-template.md), the intake form reflects the latest version of the associated matter template.
+When [an existing matter template is updated and published](../legal-matter-management/create-legal-matter-template.md), the intake form reflects the latest version of the associated matter template.
 
 ## Procedure
 
@@ -61,7 +61,7 @@ Steps
 </td><td>
 
 1.  Click **New**.
-2.  [Create a legal matter template](../../legal-matter-management/task/create-legal-matter-template.md).
+2.  [Create a legal matter template](../legal-matter-management/create-legal-matter-template.md).
 
 In the **Intake form mapping** field of the Matter Template form, ensure that the current intake form is selected.
 

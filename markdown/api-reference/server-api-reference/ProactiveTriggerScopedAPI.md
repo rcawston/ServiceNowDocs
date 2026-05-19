@@ -47,7 +47,7 @@ var eventSysId = sn_pt.ProactiveTriggerAPI.createTrigger(triggerTypeId)
 
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProactiveTriggerAPI - createTrigger\(String triggerTypeId\)
 

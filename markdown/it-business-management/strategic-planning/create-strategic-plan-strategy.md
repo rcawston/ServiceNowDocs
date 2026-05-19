@@ -35,7 +35,7 @@ You can create strategic plans only on boards that were created with the **Strat
 
 4.  On the form, fill in the **Name**, **Sponsor**, **Start date**, and **End date**, and other required fields.
 
-    For a description of the field values, see [Strategic Plan form](../reference/strategic-plan-form-strategy.md).
+    For a description of the field values, see [Strategic Plan form](strategic-plan-form-strategy.md).
 
 5.  Select **Submit**.
 

@@ -91,5 +91,5 @@ Interaction related record\[interaction\_related\_record\]
 List of related records that have been associated with an interaction.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interaction Management reference](../concept/interaction-management-reference.md)
+</table>**Parent Topic:**[Interaction Management reference](interaction-management-reference.md)
 

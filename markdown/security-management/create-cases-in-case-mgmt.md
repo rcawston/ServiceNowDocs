@@ -67,5 +67,5 @@ After you have created a case, you can add artifacts, such as security incidents
 -   **[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)**  
 Associate MITRE-ATT&amp;CK tactics and techniques to a security case for better security case management and threat analysis at a granular level.
 
-**Parent Topic:**[Security Case Management](../concept/case-mgmt.md)
+**Parent Topic:**[Security Case Management](case-mgmt.md)
 

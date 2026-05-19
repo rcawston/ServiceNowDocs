@@ -15,7 +15,7 @@ Enable the knowledge blocks feature for each knowledge base where you plan to us
 
 ## Before you begin
 
-Make sure that the knowledge blocks **\[com.snc.knowledge\_blocks\]** plugin is activated. To activate the plugin see [Activate knowledge blocks](../../knowledge-management/task/activate-knowledge-blocks.md)
+Make sure that the knowledge blocks **\[com.snc.knowledge\_blocks\]** plugin is activated. To activate the plugin see [Activate knowledge blocks](knowledge-management/activate-knowledge-blocks.md)
 
 Role required: knowledge\_admin or knowledge\_manager
 
@@ -41,7 +41,7 @@ Create knowledge blocks to use within the enabled knowledge base.
 **Related topics**  
 
 
-[Knowledge blocks in Knowledge Center](../concept/kc-knowledge-blocks.md)
+[Knowledge blocks in Knowledge Center](kc-knowledge-blocks.md)
 
 [Create a knowledge block in the Knowledge Center](kc-create-a-knowledge-block.md)
 

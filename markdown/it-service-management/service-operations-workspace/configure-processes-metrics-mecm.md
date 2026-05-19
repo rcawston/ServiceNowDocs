@@ -73,5 +73,5 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 The top processes by CPU and top processes by memory metrics are displayed on the **Investigation** tab of the incident record in Service Operations Workspace.
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](config-ci-metrics-mecm-adapter.md)
 

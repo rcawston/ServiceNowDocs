@@ -17,7 +17,7 @@ The **Security Operations Integration - Block Request** flow can be triggered on
 
 ![Flow designer for Security Operations Integration- Block Request Flow](../image/block-request-flow-V1.png "Block Request")
 
-Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Block Request capability](../../security-operations-common/concept/block-request-capability.md)
+**Parent Topic:**[Security Operations Integration- Block Request capability](block-request-capability.md)
 

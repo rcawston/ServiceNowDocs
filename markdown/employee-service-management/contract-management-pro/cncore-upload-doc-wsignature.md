@@ -70,5 +70,5 @@ For own paper contracts, the state of the request updated to **Closed complete**
 
 For third-party contracts, the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
 
-**Parent Topic:**[Signature workflow for a contract request](../concept/cncore-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a contract request](cncore-signature-workflow.md)
 

@@ -52,5 +52,5 @@ Role required: notify\_admin
 9.  Select **Submit.**
 
 
-**Parent Topic:**[Configuring Notify in Service Operations Workspace](../concept/configure-notify-sow.md)
+**Parent Topic:**[Configuring Notify in Service Operations Workspace](configure-notify-sow.md)
 

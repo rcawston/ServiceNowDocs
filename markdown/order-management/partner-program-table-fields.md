@@ -102,5 +102,5 @@ Domain to which the data belongs.
 **Related topics**  
 
 
-[Configure Partner Program table](../task/configure-partner-program-table.md)
+[Configure Partner Program table](configure-partner-program-table.md)
 

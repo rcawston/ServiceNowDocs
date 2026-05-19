@@ -74,5 +74,5 @@ Select **Agile Development 2.0**
     -   Plan Versions related list shows releases.
     -   Features related list shows epics.
 
-**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](../concept/agile-integration-dev-ops.md)
+**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](agile-integration-dev-ops.md)
 

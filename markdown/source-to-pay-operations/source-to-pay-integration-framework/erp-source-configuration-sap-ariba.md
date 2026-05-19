@@ -41,7 +41,7 @@ To configure the ERP Source for SAP Ariba, perform the following steps:
 1.  Define the ERP source that you want to integrate with the SAP Ariba integration.
 2.  Create a basic authentication profile that can be used for the web service integration with SAP Ariba
 3.  Register the SAP Ariba integration username and password to create the authentication profile and associate it to service maps.
-4.  Define the source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP Ariba](../task/define-erp-source-sap-ariba.md).
+4.  Define the source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for SAP Ariba](define-erp-source-sap-ariba.md).
 5.  Configure service maps for the following entities:
     -   **Legal Entities**
 
@@ -93,7 +93,7 @@ You have configured the ERP source for SAP Ariba.
 **Related topics**  
 
 
-[Define ERP source configuration for SAP Ariba](../task/define-erp-source-sap-ariba.md)
+[Define ERP source configuration for SAP Ariba](define-erp-source-sap-ariba.md)
 
 [Configure integration services for SAP Ariba](configure-service-maps-sap-ariba.md)
 

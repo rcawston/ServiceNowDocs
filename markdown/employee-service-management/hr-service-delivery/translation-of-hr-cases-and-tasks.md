@@ -37,8 +37,8 @@ Role required: admin
 
     For details on how to how to configure an HR case or task template, see:
 
-    -   [Configure an HR case template](../task/configure-hr-case-template.md)
-    -   [Configure an HR task template](../task/configure-hr-task-template.md)
+    -   [Configure an HR case template](configure-hr-case-template.md)
+    -   [Configure an HR task template](configure-hr-task-template.md)
 4.  To enable translations, make sure that the **Use global descriptions for translations** field is selected.
 
     When selected, the **Global short description** and **Global description** fields display.

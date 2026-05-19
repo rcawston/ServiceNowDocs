@@ -56,7 +56,7 @@ Role required: sn\_mh.admin, sp\_admin
 
 [RCA approvals for Manager Hub](run-rca-mh.md)
 
-[Activate a scheduled job](../reference/activate-sj-mh.md)
+[Activate a scheduled job](activate-sj-mh.md)
 
 [Configure important dates](configure-imp-dates.md)
 
@@ -68,7 +68,7 @@ Role required: sn\_mh.admin, sp\_admin
 
 [Configure team filters](configure-team-filter.md)
 
-[Set up View as Direct Reports](../../employee-center/task/view-direct-reportee.md)
+[Set up View as Direct Reports](view-direct-reportee.md)
 
 [Configure daily stats](configure-daily-stats.md)
 

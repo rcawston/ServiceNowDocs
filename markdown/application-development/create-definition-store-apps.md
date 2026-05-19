@@ -143,5 +143,5 @@ Create a new version of the application and publish it to the ServiceNow Store. 
 
 To change the definition of an application already on the ServiceNow Store, you must create a new definition, submit a new version of the application, and go through the review process.
 
-**Parent Topic:**[Custom licensing for ISV applications](../concept/custom-licensing-isv-apps.md)
+**Parent Topic:**[Custom licensing for ISV applications](custom-licensing-isv-apps.md)
 

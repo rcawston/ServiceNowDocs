@@ -34,5 +34,5 @@ Adding an attachment to a task card also adds the attachment to the underlying t
 3.  Click **Add Attachment** and select a file to add as an attachment.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

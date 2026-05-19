@@ -19,9 +19,9 @@ The NowAPIService interface provides the ability to perform requests on a specif
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Service configuration to associate with the protocol.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationAndroidAPI.md)|Service configuration to associate with the protocol.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowAPIService - data\(endpoint: NowAPIService.Endpoint, queryParams: QueryParams, headers: Headers, body: String\)
 
@@ -90,7 +90,7 @@ Optional. Object that contains the request body and content type to pass into th
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[Call](../../Call/concept/CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;|Return results from the called REST endpoint.|
+|[Call](CallAndroidInterface.md#)&lt;[ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/)&gt;|Return results from the called REST endpoint.|
 
 ```
 suspend fun loadCases(): List<CaseItem> = withContext(Dispatchers.IO) {

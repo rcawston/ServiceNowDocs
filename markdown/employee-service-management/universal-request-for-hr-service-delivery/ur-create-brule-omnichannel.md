@@ -77,5 +77,5 @@ You can automatically create a universal request in the following scenarios.
     For more information on other fields of this form, see [Create a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/business-rules-classic/c_BusinessRules.md).
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](config-service-for-ur.md)
 

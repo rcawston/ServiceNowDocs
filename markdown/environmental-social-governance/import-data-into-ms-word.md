@@ -111,7 +111,7 @@ Role required: sn\_esg\_msoff\_intg.reader
 -   **[Create a claim from Microsoft Word](create-a-claim-from-microsoft-word.md)**  
 You can create a claim directly from Microsoft Word for use in future disclosures or reports.
 
-**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](../concept/integrating-o365-with-servicenow.md)
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](integrating-o365-with-servicenow.md)
 
 **Related topics**  
 

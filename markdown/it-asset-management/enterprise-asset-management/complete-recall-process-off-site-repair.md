@@ -158,5 +158,5 @@ The recalled asset record moves to the Completed stage. In addition, the state a
 
 Complete the recall process for all remaining enterprise assets that are included in the recall order. After all corresponding recalled asset records reach the Completed stage, the state of the recall order changes to Completed.
 
-**Parent Topic:**[Completing a recall order for your enterprise assets](../concept/completing-recall-order-enterprise-assets.md)
+**Parent Topic:**[Completing a recall order for your enterprise assets](completing-recall-order-enterprise-assets.md)
 

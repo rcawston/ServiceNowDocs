@@ -50,5 +50,5 @@ Know that the Planned for disposal column in the Consumable \[alm\_consumable\] 
     The Planned for disposal column is set to false. If you added this consumable record to a disposal record, the planned asset record is deleted.
 
 
-**Parent Topic:**[Consumables life cycle](../../asset-management/concept/c_FollowLifeCycleConsumbl.md)
+**Parent Topic:**[Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 

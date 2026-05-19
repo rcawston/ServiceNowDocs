@@ -72,7 +72,7 @@ Role required: map admin, map editor, map editor limited
 -   **[View editor content](view-editor-content.md)**  
 Work with the View Editor content and customize the campus, buildings, layers, places, connectors, and direction modes properties.
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Copy direction graphs to multiple floors](copy-directions-multiple-floors.md)
 

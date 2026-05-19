@@ -51,7 +51,7 @@ Class
 
 </td><td>
 
-Option to select the composite entity class for which you want to create a composite entity. For more information on how to create a composite entity class, see [Create an entity class](../task/create-new-entity-class-ws.md).
+Option to select the composite entity class for which you want to create a composite entity. For more information on how to create a composite entity class, see [Create an entity class](create-new-entity-class-ws.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Name
 
 </td><td>
 
-Name of the composite entity. The name is automatically generated based on the selected entity classes, with a separator between them. To change the separator, see [Governance, Risk, and Compliance properties](../../grc-common/reference/grc-properties.md).
+Name of the composite entity. The name is automatically generated based on the selected entity classes, with a separator between them. To change the separator, see [Governance, Risk, and Compliance properties](grc-properties.md).
 
 </td></tr><tr><td>
 
@@ -126,5 +126,5 @@ Functional domain
 Functional domain of the composite entity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a composite entity](../task/create-composite-entity-ws.md)
+</table>**Parent Topic:**[Create a composite entity](create-composite-entity-ws.md)
 

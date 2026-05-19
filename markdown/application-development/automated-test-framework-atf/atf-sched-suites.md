@@ -31,7 +31,7 @@ If the test suite contains one or more form steps \(steps involving a user inter
 
 **Note:** See [Browser recommendations and requirements](atf-test-runners.md#kvv_h25_gx) for recommendations and requirements for running the client test runner.
 
-For step-by-step instructions on how to schedule a test suite, see [Schedule an automated test suite](../task/atf-sched-suite-steps.md).
+For step-by-step instructions on how to schedule a test suite, see [Schedule an automated test suite](atf-sched-suite-steps.md).
 
 **Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
 
@@ -58,13 +58,13 @@ When the system completes executing a scheduled test suite, it sends an email to
 
 ### Suite Stats
 
-The Suite Stats section of the email reports the number of suites and individual tests broken down by result status: Failed \(F\), Error \(E\), Skipped \(S\), Canceled \(C\), or Passed \(P\). For a description of what each status means, see [Test suite results record](../reference/atf-test-suite-results-record.md).
+The Suite Stats section of the email reports the number of suites and individual tests broken down by result status: Failed \(F\), Error \(E\), Skipped \(S\), Canceled \(C\), or Passed \(P\). For a description of what each status means, see [Test suite results record](atf-test-suite-results-record.md).
 
 ### Test Suite Results
 
 The Test Suite Results section of the email reports test suite results over time.
 
-**Note:** By default, this report includes only suites with failed tests, but you can change this setting with the **Email properties** field on the [Properties](../reference/atf-admin-properties.md) page. If set to default, only the failed tests within a test suite are reported.
+**Note:** By default, this report includes only suites with failed tests, but you can change this setting with the **Email properties** field on the [Properties](atf-admin-properties.md) page. If set to default, only the failed tests within a test suite are reported.
 
 ![Image showing ATF email report](../image/atf-email-report.png "Preview email report")
 
@@ -82,5 +82,5 @@ Each entry acts as a link to the result record for that run. If you point the mo
 
 ### Properties affecting email content
 
-On the [Automated Test Framework Properties](../reference/atf-admin-properties.md) form, you can set options affecting the format and content of the email.
+On the [Automated Test Framework Properties](atf-admin-properties.md) form, you can set options affecting the format and content of the email.
 

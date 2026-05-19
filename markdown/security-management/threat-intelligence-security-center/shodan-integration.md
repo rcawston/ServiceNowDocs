@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:** The Threat Intelligence Security Center and Whois Observable Enrichment plugins must be installed and active.
 
-Download the Whois integration from the ServiceNow Store and verify you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+Download the Whois integration from the ServiceNow Store and verify you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](../download-app-first-time.md).
 
 ## Procedure
 

@@ -17,7 +17,7 @@ Install MID Servers with the MID Server installer and verify it is active. The p
 
 ## Before you begin
 
-Verify that the host computer satisfies the [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md).
+Verify that the host computer satisfies the [MID Server system requirements](r_MIDServerSystemRequirements.md).
 
 Role required: admin, mid\_server
 
@@ -157,7 +157,7 @@ Testing showed that the MID Server works as expected with Oracle Java 11 version
 
         If the web proxy requires a password, set this parameter to define that password.
 
-    The MID Server can bypass proxy servers whose DNS/IP address is listed in the configuration parameter **mid.cloud.discovery.proxy.exclusion.list**. See [MID Server property](../reference/r_MIDServerProperties.md#) for more information.
+    The MID Server can bypass proxy servers whose DNS/IP address is listed in the configuration parameter **mid.cloud.discovery.proxy.exclusion.list**. See [MID Server property](r_MIDServerProperties.md#) for more information.
 
     To run a MID Server as a daemon service, the following properties are also required.
 
@@ -306,7 +306,7 @@ Supported versions for this procedure are Linux Red Hat 6 or newer, Ubuntu 1404 
 
 ### What to do next
 
-For more information about managing the allow list and file permission enforcement, see [File permission enforcement for Windows MID Servers](../concept/mid-non-admin-permission.md). Running a Linux MID Server with a non-root account may result in issues with PolicyKit in some systems. See [PolicyKit issues with Linux MID Servers using non-root accounts](https://support.servicenow.com/kb_view.do?sysparm_article=KB0815542) for more information.
+For more information about managing the allow list and file permission enforcement, see [File permission enforcement for Windows MID Servers](mid-non-admin-permission.md). Running a Linux MID Server with a non-root account may result in issues with PolicyKit in some systems. See [PolicyKit issues with Linux MID Servers using non-root accounts](https://support.servicenow.com/kb_view.do?sysparm_article=KB0815542) for more information.
 
 ## Configure a Linux MID Server to use an existing JRE
 
@@ -314,7 +314,7 @@ You can choose to use an existing JRE for your MID Server rather than the OpenJD
 
 ### Before you begin
 
-Ensure that your JRE version is supported. See [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md) for details.
+Ensure that your JRE version is supported. See [MID Server system requirements](r_MIDServerSystemRequirements.md) for details.
 
 Role required: admin
 

@@ -24,11 +24,11 @@ Certain configuration steps are required to use Notify with an incident communic
 
 **Note:** The Conference Call Group number group is configured with conference call workflows by default.
 
--   **[Initiate a conference call from incident communication plan](../task/t_IALaunchAConferenceCall.md)**  
+-   **[Initiate a conference call from incident communication plan](t_IALaunchAConferenceCall.md)**  
 Use Notify to initiate a conference call from an incident communication plan by inviting one or more users.
--   **[Join and end a conference call from incident communications management](../task/join-end-conference-call-from-icp.md)**  
+-   **[Join and end a conference call from incident communications management](join-end-conference-call-from-icp.md)**  
 After a conference call is initiated, join the call to participate in the discussion or end the call when the conference is no longer required.
--   **[Send communication updates for an incident communications plan](../task/t_IASendSMSNotifications.md)**  
+-   **[Send communication updates for an incident communications plan](t_IASendSMSNotifications.md)**  
 Update users on the latest communication on an incident through selected communication channels.
 
 **Parent Topic:**[Using Notify](using-notify.md)

@@ -25,7 +25,7 @@ If you've never installed Virtual Agent, the Conversational Interfaces console p
 
 -   **Get pre-built bot topics**
 
-    Activate plugins that provide the pre-built topic conversations you want to use to handle common user requests. For example, IT-related support issues, such as resetting a password or HR-related issues such as requesting a leave of absence. For more information, see [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](../../virtual-agent/reference/prebuilt-topics-ITSM.md).
+    Activate plugins that provide the pre-built topic conversations you want to use to handle common user requests. For example, IT-related support issues, such as resetting a password or HR-related issues such as requesting a leave of absence. For more information, see [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](virtual-agent/prebuilt-topics-ITSM.md).
 
     ![After you install Virtual Agent, you can choose pre-built topic plugins to handle your user requests. Options include IT Service Management, Customer Service Management, and HR Service Delivery plugins.](../image/ci-home-plugins.png)
 
@@ -59,7 +59,7 @@ If you've never installed Virtual Agent, the Conversational Interfaces console p
 
     If you have installed a Now Assist product, you can use the guided setup to install Now Assist in Virtual Agent. You can then activate the Now Assist Topics skill and create Virtual Agent topics that use LLM discovery. Select **Get started** to use the guided setup.
 
-    For more information, see [Now Assist in Virtual Agent](../../now-assist-in-va/concept/now-assist-in-va-landing.md).
+    For more information, see [Now Assist in Virtual Agent](now-assist-in-virtual-agent/now-assist-in-va-landing.md).
 
     ![If Now Assist is installed, you have the option to install Now Assist in Virtual Agent on the home page.](../image/ci-home-nava-llm.png)
 

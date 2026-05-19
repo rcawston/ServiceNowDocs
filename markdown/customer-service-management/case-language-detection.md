@@ -50,7 +50,7 @@ The system stores feedback on prediction results in the Predictor Result \[ml\_p
 
 For language detection, the Predictor Result table stores the prediction results from the Language Detection Service spoke. The **Detected Language** field stores the language returned by the Language Detection Services spoke.
 
-The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](../reference/case-categorization-components.md).
+The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](case-categorization-components.md).
 
 **Parent Topic:**[Task Intelligence for Customer Service](csm-task-intelligence.md)
 

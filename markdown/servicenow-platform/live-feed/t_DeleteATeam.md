@@ -38,5 +38,5 @@ Role required: admin
     If you delete a team that is associated with an active record, such as an incident that has not yet been closed, the team becomes active again when any user modifies that record or follows the record on Live Feed. The first user who modifies the record becomes the team administrator. The previous messages that existed as part of the record feed are not deleted.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

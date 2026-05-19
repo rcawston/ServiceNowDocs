@@ -23,7 +23,7 @@ Dot-walking references a field by building a chain of field names separated by d
 -   **[Dot walk fields in Visualization Designer](access-fields-ext-table-vis-des.md)**  
 Learn how to dot walk table fields in a data visualization of table data. See how to start from a parent table, such as Task, and dot walk to include data from extended tables, such as Indicator and Problem.
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](configure-data-visualizations.md)
 
 **Related topics**  
 

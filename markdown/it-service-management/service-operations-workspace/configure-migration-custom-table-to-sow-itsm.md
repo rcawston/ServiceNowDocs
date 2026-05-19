@@ -32,5 +32,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../concept/migration-from-itsm-aw-sow.md)
+**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](migration-from-itsm-aw-sow.md)
 

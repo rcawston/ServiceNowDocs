@@ -26,8 +26,8 @@ Note for Blackberry users: In order to see the "mailto" links mentioned above to
 
 If you create an appropriate Inbound Email Action, you can let approvers respond to approval email notifications with a simple "yes" or "no" answer.
 
--   **[Embed an approval request within the Outlook email client](../task/embed-approval-in-outlook.md)**  
+-   **[Embed an approval request within the Outlook email client](embed-approval-in-outlook.md)**  
 Embed an interactive approval request for service catalog requests in the email notification sent to a user. The user can accept or reject the approval request from the email client.
 
-**Parent Topic:**[Classic approvals](../reference/r_Approvals.md)
+**Parent Topic:**[Classic approvals](r_Approvals.md)
 

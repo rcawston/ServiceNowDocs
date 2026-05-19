@@ -19,15 +19,15 @@ ServiceNow offers prebuilt Configurable Workspace experiences to target specific
 
 These prebuilt workspaces can be updated and modified in UI Builder instead of creating an experience from scratch.
 
-For a list of prebuilt workspaces ServiceNow offers, see [List of workspaces](../../workspace/concept/list-of-workspaces.md).
+For a list of prebuilt workspaces ServiceNow offers, see [List of workspaces](list-of-workspaces.md).
 
-To update an existing Configurable Workspace experience, see [Open a Configurable Workspace experience in UI Builder](../../workspace/task/open-your-configurable-workspace-experience-in-ui-builder.md)
+To update an existing Configurable Workspace experience, see [Open a Configurable Workspace experience in UI Builder](open-your-configurable-workspace-experience-in-ui-builder.md)
 
--   **[Create a Configurable Workspace experience](../task/create-configurable-workspace-experience-uib.md)**
+-   **[Create a Configurable Workspace experience](create-configurable-workspace-experience-uib.md)**
 
     Create a Configurable Workspace experience from scratch using UI Builder and the Workspace App Shell.
 
--   **[Create a Configurable Workspace page](../task/create-configurable-workspace-page-uib.md)**
+-   **[Create a Configurable Workspace page](create-configurable-workspace-page-uib.md)**
 
     Create a Configurable Workspace page from scratch or with a page template in UI Builder.
 

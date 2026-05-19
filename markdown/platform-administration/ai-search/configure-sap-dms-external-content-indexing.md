@@ -464,5 +464,5 @@ Your connector admin needs these items to configure a SAP DMS external content c
 
 For details on creating and configuring a SAP DMS external content connector, see [Create a SAP DMS external content connector](create-ext-cont-connector-sap-dms.md).
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](sap-dms-external-content-connector.md)
 

@@ -35,7 +35,7 @@ You can order different types of risk intelligence reports such as credit risk r
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Risk intelligence report request form](../../grc-workspace-vrm/reference/tprm-rir-form.md). To create a risk intelligence report request that is associated with a due diligence request, see [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md).
+    For descriptions of all these fields, see [Risk intelligence report request form](tprm-rir-form.md). To create a risk intelligence report request that is associated with a due diligence request, see [Request a risk intelligence report associated with a due diligence request](tprm-riskintel-request-dd.md).
 
 4.  In the Sanction section of the form, enter any sanctions-related information.
 

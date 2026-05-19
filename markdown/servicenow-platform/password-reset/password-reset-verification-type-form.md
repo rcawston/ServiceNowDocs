@@ -79,5 +79,5 @@ Verification processor script \(extension scripts\) that processes the verificat
 </table>**Related topics**  
 
 
-[Create a custom Password Reset verification type](../task/create-verification-type.md)
+[Create a custom Password Reset verification type](create-verification-type.md)
 

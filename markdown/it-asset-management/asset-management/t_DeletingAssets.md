@@ -36,5 +36,5 @@ Only delete an asset to clean up errors. For tracking purposes, the correct meth
 3.  In the **Actions** choice list below the list, select **Delete**.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

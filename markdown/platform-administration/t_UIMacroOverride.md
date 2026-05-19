@@ -51,7 +51,7 @@ Here is the form for the UI macro that overrides the approval summarizer formatt
 
 ![Override the formatter](../image/FormatterOverride.png)
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](c_Formatters.md)
 
 **Related topics**  
 

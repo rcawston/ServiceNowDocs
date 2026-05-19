@@ -40,7 +40,7 @@ For automatic calculation:
 **Related topics**  
 
 
-[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)
+[Access the project workbench](t_AccessTheProjectWorkbench.md)
 
 [Components of project workbench](components-project-workbench.md)
 

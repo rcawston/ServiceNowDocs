@@ -21,7 +21,7 @@ You must have the following setup to configure the Playbook intake component ins
 
 -   Enable Web Embeddables in your instance. For more information, see [Activate Web Embeddables](act-web-embeddables.md).
 -   [Set up a custom URL as the instance URL](set-up-custom-url.md).
--   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](../concept/auth-sn-webcomponents-non-oidc.md).
+-   Authenticate the ServiceNow components using OpenID Connect \(OIDC\) or non OIDC authentication. For more information, see [Authenticate the ServiceNow components using OIDC](authenticate-sn-webcomponents-oidc.md) and [Non OIDC authentication for ServiceNow components](auth-sn-webcomponents-non-oidc.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -31,7 +31,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 2.  In the homepage, select Create module or use the existing module.
 
-    For more information on creating a new module, see [Create a module](../concept/create-we-module.md).
+    For more information on creating a new module, see [Create a module](create-we-module.md).
 
 3.  On the module page, in the Components tab, add a Playbook intake component instance to an existing or a new group.
 
@@ -44,7 +44,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 5.  Configure the Playbook intake component instance properties.
 
     -   The Preview tab displays real-time data according to choices set in the component properties.
-    -   For a description of the component properties related to the Playbook intake component instance, see [Component properties for the Playbook intake](../reference/we-playbook-intake-comp-prop.md).
+    -   For a description of the component properties related to the Playbook intake component instance, see [Component properties for the Playbook intake](../we-playbook-intake-comp-prop.md).
 6.  Select the **CORS rules** tab to configure the CORS rules.
 
     For more information about configuring CORS rules, see [Configure CORS \(Cross-Origin Resource Sharing\) rules before embedding ServiceNow components](configure-cors-for-web-components.md).
@@ -94,7 +94,7 @@ Role required: sn\_embeddable\_core.emb\_admin
 
 10. In the Component Code tab, slide the **Enable event handler** toggle switch to handle events triggered by the user interactions on the website.
 
-    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [Event handler in the Playbook intake component](../reference/we-playbook-intake-event-handler.md).
+    **Note:** Enabling the event handler also modifies the component code. For more information on event handlers in Web Embeddables, see [Event handler in the Playbook intake component](../we-playbook-intake-event-handler.md).
 
 11. In the Component code tab, review the generated code and select the **Copy component code**.
 
@@ -211,9 +211,9 @@ The global and component codes are ready to be shared with the third-party admin
 **Related topics**  
 
 
-[Component properties for the Playbook intake](../reference/we-playbook-intake-comp-prop.md)
+[Component properties for the Playbook intake](../we-playbook-intake-comp-prop.md)
 
-[Event handler in the Playbook intake component](../reference/we-playbook-intake-event-handler.md)
+[Event handler in the Playbook intake component](../we-playbook-intake-event-handler.md)
 
-[Sample code for the Playbook intake component](../reference/we-playbook-intake-sample-code.md)
+[Sample code for the Playbook intake component](we-playbook-intake-sample-code.md)
 

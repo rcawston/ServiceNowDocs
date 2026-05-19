@@ -31,7 +31,7 @@ You can create multiple diagnostic scripts to check various aspects of data. The
 
 3.  On the Diagnostics Scripts form, fill the fields.
 
-    For a description of the field names, see [Diagnostics Scripts form](../reference/diag-scripts-form.md).
+    For a description of the field names, see [Diagnostics Scripts form](diag-scripts-form.md).
 
 4.  If you want to include a script for fixing the corrupt or invalid data identified by the diagnostic script, select the **Has Fix script** check box.
 

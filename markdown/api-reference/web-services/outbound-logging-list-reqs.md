@@ -47,7 +47,7 @@ For example, if there are rules for the domain patterns `http://*.blog.mysite.co
 |`http://*.service-now.com`|`http://blog.*.service-now.com`|
 |`http://*.com`|`http://*com`|
 
-**Parent Topic:**[Outbound web services: Logging](../concept/outbound-request-logging.md)
+**Parent Topic:**[Outbound web services: Logging](outbound-request-logging.md)
 
 ## Outbound request logging exclusion
 

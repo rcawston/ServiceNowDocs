@@ -23,7 +23,7 @@ MID Servers have the following selection criteria that Service Mapping in upgrad
 
 -   IP range — limits operation of this MID Server to this IP range. Service Mapping does not choose this MID Server for a discovery request whose endpoint is outside this IP range.
 
-In addition to the IP range, you can configure one of the MID Servers as the default server that Service Mapping uses. For operational information, see [Configure a default MID Server for Service Mapping for upgraded deployments](../task/config-default-mid-for-sm.md).
+In addition to the IP range, you can configure one of the MID Servers as the default server that Service Mapping uses. For operational information, see [Configure a default MID Server for Service Mapping for upgraded deployments](config-default-mid-for-sm.md).
 
 In upgraded deployments, Service Mapping selects a MID Server using a legacy algorithm:
 
@@ -33,9 +33,9 @@ In upgraded deployments, Service Mapping selects a MID Server using a legacy alg
 -   If there is no default MID Server and none of the MID Servers have IP ranges configured for them, Service Mapping uses a random MID Server.
 -   If there is no default MID Server and no IP range matches the IP in the discovery request, Service Mapping cannot start the discovery process.
 
-The new algorithm for selecting MID Servers uses an extra selection criteria: capability. It allows Service Mapping to take a network protocol into consideration. For information about updated selection criteria and the new MID Server selection algorithm, see [Choose MID Server selection algorithm](../task/choose-mid-selection-algorithm.md).
+The new algorithm for selecting MID Servers uses an extra selection criteria: capability. It allows Service Mapping to take a network protocol into consideration. For information about updated selection criteria and the new MID Server selection algorithm, see [Choose MID Server selection algorithm](choose-mid-selection-algorithm.md).
 
-While by default Service Mapping uses the legacy algorithm in upgraded deployments, it can support both new and legacy algorithms for selecting a MID Server. If necessary, you can enable the new MID Server selection algorithm for your upgraded deployment. For more information, see [Choose MID Server selection algorithm](../task/choose-mid-selection-algorithm.md).
+While by default Service Mapping uses the legacy algorithm in upgraded deployments, it can support both new and legacy algorithms for selecting a MID Server. If necessary, you can enable the new MID Server selection algorithm for your upgraded deployment. For more information, see [Choose MID Server selection algorithm](choose-mid-selection-algorithm.md).
 
 **Parent Topic:**[MID Server configuration for Service Mapping](configure-mid-service-mapping.md)
 

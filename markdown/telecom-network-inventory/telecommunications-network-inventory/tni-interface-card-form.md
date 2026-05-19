@@ -22,10 +22,10 @@ The Card form enables you create, review, and modify the network card details.
 |Ports in use|Number of ports in use on this network interface card.|
 |Slots|Total number of slots on this network interface card.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Define the card details](../task/define-tni-interface-cards.md)
+[Define the card details](define-tni-interface-cards.md)
 

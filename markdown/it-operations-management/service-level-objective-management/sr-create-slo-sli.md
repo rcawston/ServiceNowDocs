@@ -31,7 +31,7 @@ In Service Reliability Management \(SRM\), an SLO must have at least one SLI. SL
 
 Each SLI can be associated with only one SLO, helping prevent conflicting performance expectations.
 
-**Note:** SLOs can also be generated automatically using the SLO creator agent. For details, see [Generating service level objectives](../../now-assist-itom/concept/now-assist-itom-slo-generation.md).
+**Note:** SLOs can also be generated automatically using the SLO creator agent. For details, see [Generating service level objectives](now-assist-itom-slo-generation.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ Each SLI can be associated with only one SLO, helping prevent conflicting perfor
 
 3.  In the Service Level Objective \(SLO\) form, fill in the fields for your SLOand select **Next**.
 
-    For information about the SLO fields, see [Create SLO form](../../service-reliability/reference/sr-create-slo-sli-form.md).
+    For information about the SLO fields, see [Create SLO form](sr-create-slo-sli-form.md).
 
 4.  In the Service Level Indicators \(SLI\) form, select the data source for your SLI.
 
@@ -74,11 +74,11 @@ Base the SLI on outages detected by monitoring tools and reported by users.Use o
 
 5.  In the same form, select **Add indicators for &lt;data source&gt;**, fill in the fields for your SLI, and then select **Next**.
 
-    For more information about the SLI fields, see [Create SLI form](../../service-reliability/reference/sr-create-sli-form.md).
+    For more information about the SLI fields, see [Create SLI form](sr-create-sli-form.md).
 
 6.  In the Error budget policies form, select **Add policy**, and fill in the fields for your error budget policy.
 
-    For more information, see [Add an error budget policy form](../reference/sr-create-error-budget-form.md).
+    For more information, see [Add an error budget policy form](sr-create-error-budget-form.md).
 
     **Note:** If you don't add an error budget policy, the SLO objective percentage is only informational. Adding a policy helps you take corrective actions based on the performance data. If you're not ready to add a policy, you can add one later.
 
@@ -91,7 +91,7 @@ Base the SLI on outages detected by monitoring tools and reported by users.Use o
 
 See the following to learn how to monitor and manage your SLOs:
 
--   [Working with reliability metrics](../concept/sr-work-SLI-SLO.md) - Learn where and how to view SLO performance.
+-   [Working with reliability metrics](sr-work-SLI-SLO.md) - Learn where and how to view SLO performance.
 -   [Edit a reliability metric](sr-edit-sli-slo.md) - Update your SLOs to keep them aligned with your reliability goals.
 
 **Parent Topic:**[Using SLO Management](using-service-level-objective-management.md)

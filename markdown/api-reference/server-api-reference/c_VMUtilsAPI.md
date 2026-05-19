@@ -17,7 +17,7 @@ The VMUtils script include provides methods for discovery and provisioning of vi
 
 This script include is available in server-side scripts to convert between UUID and Correlation ID formats.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## VMUtils - turnCorrelationIdToUuid\(String correlationId\)
 

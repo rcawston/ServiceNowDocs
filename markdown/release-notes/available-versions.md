@@ -13,7 +13,7 @@ breadcrumb: [Learn about the Australia release, Australia release notes]
 
 The Australia family includes patches and hotfixes.
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -50,7 +50,7 @@ Availability
 
 </th></tr></thead><tbody><tr><td>
 
-[Australia Patch 2](quality/australia-patch-2.md)
+[Australia Patch 2](australia-patch-2.md)
 
  [Australia Patch 2 security fixes](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2977251)
 
@@ -68,7 +68,7 @@ Available
 
 </td></tr><tr><td>
 
-[Australia Patch 1](quality/australia-patch-1.md)
+[Australia Patch 1](australia-patch-1.md)
 
  [Australia Patch 1 security fixes](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2797601)
 
@@ -86,9 +86,9 @@ Available to Early Availability customers
 
 </td></tr><tr><td>
 
-[Australia security and notable fixes](quality/australia-security-notables.md)
+[Australia security and notable fixes](australia-security-notables.md)
 
- [All other Australia fixes](quality/australia-all-other-fixes.md)
+ [All other Australia fixes](australia-all-other-fixes.md)
 
 </td><td>
 
@@ -120,16 +120,16 @@ For the latest MetricBase on-premise release notes, refer to [KB0748185](https:/
 
 For information about latest Password Reset Windows Application, ODBC driver, and all other ancillary software available for download from the ServiceNow Store, see [ServiceNow Store release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
--   **[Australia Patch 2](quality/australia-patch-2.md)**  
+-   **[Australia Patch 2](australia-patch-2.md)**  
 The Australia Patch 2 release contains important problem fixes.
--   **[Australia Patch 1](quality/australia-patch-1.md)**  
+-   **[Australia Patch 1](australia-patch-1.md)**  
 The Australia Patch 1 release contains important problem fixes.
--   **[Australia EA Hotfix 1](quality/australia-patch-0-hf-1-PO.md)**  
+-   **[Australia EA Hotfix 1](australia-patch-0-hf-1-PO.md)**  
 The Australia EA Hotfix 1 release contains fixes to these problems.
--   **[Australia security and notable fixes](quality/australia-security-notables.md)**  
+-   **[Australia security and notable fixes](australia-security-notables.md)**  
 The Australia release contains important problem fixes.
--   **[All other Australia fixes](quality/australia-all-other-fixes.md)**  
+-   **[All other Australia fixes](australia-all-other-fixes.md)**  
 The Australia release contains important problem fixes.
 
-**Parent Topic:**[Learn about the Australia release](concept/rn-learn-landing-page.md)
+**Parent Topic:**[Learn about the Australia release](rn-learn-landing-page.md)
 

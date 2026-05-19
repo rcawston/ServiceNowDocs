@@ -141,5 +141,5 @@ In addition to the debug logging output option, the CLI logs all command executi
     The CLI generates debug logging output when executing the command.
 
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](servicenow-cli.md)
 

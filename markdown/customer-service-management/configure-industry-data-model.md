@@ -27,7 +27,7 @@ With the Service Model Foundation plugins, you can support:
 -   External business locations and staff members
 -   Households and household members
 
-For more information about this feature, see [Service Model Foundation overview](../concept/csm-industry-data-model.md).
+For more information about this feature, see [Service Model Foundation overview](csm-industry-data-model.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activating plugins for Service Model Foundation](../concept/activate-plugins.md)
+[Activating plugins for Service Model Foundation](activate-plugins.md)
 
 </td><td>
 

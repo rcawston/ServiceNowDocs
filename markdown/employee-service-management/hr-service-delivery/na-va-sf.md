@@ -19,7 +19,7 @@ You can use the Now Assist Virtual Agent topics in Employee Center to place requ
 
 To access and use the Virtual Agent topics, verify the following:
 
--   [Configure the Now Assist for HRSD Virtual Agent topics](../task/config-va-topics.md)
+-   [Configure the Now Assist for HRSD Virtual Agent topics](../now-assist-for-hrsd/config-va-topics.md)
 -   Have one of the following roles: sn\_hr\_sp.admin , sn\_hr\_sp.esc\_admin
 
 ## Available Spoke Subflows for Virtual Agent topics for HR Service Delivery Integration with SuccessFactors
@@ -221,11 +221,11 @@ The Get Holiday Calendar Virtual Agent topic enables you to view your holiday ca
 
 [View job tracker details](view-job-tracker-details-sf.md)
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](field-mappings-sf.md)
 
 [Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
 

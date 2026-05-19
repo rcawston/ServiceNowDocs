@@ -17,17 +17,17 @@ The GlideElementDynamicAttributeStore API provides convenient script methods for
 
 To use this API to create dynamic attributes you must have the dynamic\_schema\_writer role. To read dynamic data using this API you must have the dynamic\_schema\_reader role.
 
-This API extends the [GlideElement - Global](../../GlideElement_global/concept/c_GlideElementAPI.md#) API.
+This API extends the [GlideElement - Global](c_GlideElementAPI.md#) API.
 
 See also [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-schema.md).
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#)
--   [GlideDynamicNamespace - Global](../../GlideDynamicNamespace/concept/GlideDynamicNamespaceAPI.md#)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicAttribute - Global](GlideDynamicAttributeAPI.md#)
+-   [GlideDynamicNamespace - Global](GlideDynamicNamespaceAPI.md#)
+-   [GlideDynamicAttributeStore - Global](GlideDynamicAttStoreAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideElementDynamicAttributeStore - getDynamicAttributeDisplayValue\(String attributePath\)
 
@@ -162,7 +162,7 @@ Returns the set of dynamic attribute definitions that are present and stored in 
 
 |Type|Description|
 |----|-----------|
-|Array|Array of [GlideDynamicAttribute](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#) objects.|
+|Array|Array of [GlideDynamicAttribute](GlideDynamicAttributeAPI.md#) objects.|
 
 The following example shows how to retrieve the contents of a stored dynamic attribute, list the attributes it stored, and the attributes in its schema.
 
@@ -208,7 +208,7 @@ Returns the set of dynamic attribute definitions that are pointed to in the sche
 
 |Type|Description|
 |----|-----------|
-|Array|Array of [GlideDynamicAttribute](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#) objects.|
+|Array|Array of [GlideDynamicAttribute](GlideDynamicAttributeAPI.md#) objects.|
 
 The following example shows how to retrieve the contents of a stored dynamic attribute, list the attributes it stored, and the attributes in its schema.
 
@@ -468,7 +468,7 @@ See also [Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 |Name|Type|Description|
 |----|----|-----------|
-|values|[GlideDynamicAttributeStore](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)|Object that contains the values to set in the current element's dynamic schema. Values not specified in this object are not updated.|
+|values|[GlideDynamicAttributeStore](GlideDynamicAttStoreAPI.md#)|Object that contains the values to set in the current element's dynamic schema. Values not specified in this object are not updated.|
 
 |Type|Description|
 |----|-----------|
@@ -617,7 +617,7 @@ values
 
 </td><td>
 
-[GlideDynamicAttributeStore](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
+[GlideDynamicAttributeStore](GlideDynamicAttStoreAPI.md#)
 
 </td><td>
 

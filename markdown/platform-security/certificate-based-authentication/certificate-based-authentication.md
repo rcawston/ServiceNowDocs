@@ -19,12 +19,12 @@ Certificate-based authentication lets you mutually authenticate user logins or i
 
 -   **Certificate-based authentication for user interface logins**
 
-    Enable end users to use PIV \(Personal Identity Verification\) or CAC \(Common Access Card\) cards to log in to the ServiceNow AI Platform or Service Portal instead of using a user name and password. To set up mutual authentication for user interface logins, see [Set up Certificate-based authentication](../task/set-up-mutual-auth.md#).
+    Enable end users to use PIV \(Personal Identity Verification\) or CAC \(Common Access Card\) cards to log in to the ServiceNow AI Platform or Service Portal instead of using a user name and password. To set up mutual authentication for user interface logins, see [Set up Certificate-based authentication](set-up-mutual-auth.md#).
 
-    After Certificate-based authentication is set up, end users can finalize their set up and log in. See [Log in using Certificate-based authentication](../task/ui-login-mutual-auth.md#).
+    After Certificate-based authentication is set up, end users can finalize their set up and log in. See [Log in using Certificate-based authentication](ui-login-mutual-auth.md#).
 
 -   **Certificate-based authentication for Inbound web services**
 
-    Authenticate inbound requests to ServiceNow SOAP and REST APIs. To set up mutual authentication for inbound web services, see [Set up Certificate-based authentication](../task/set-up-mutual-auth.md#).
+    Authenticate inbound requests to ServiceNow SOAP and REST APIs. To set up mutual authentication for inbound web services, see [Set up Certificate-based authentication](set-up-mutual-auth.md#).
 
 

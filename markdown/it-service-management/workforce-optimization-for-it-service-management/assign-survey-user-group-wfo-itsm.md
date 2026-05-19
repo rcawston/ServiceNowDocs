@@ -46,5 +46,5 @@ Role required: sn\_wfo\_cfg\_ws.manager
     Agents receive a notification when a survey is assigned to them.
 
 
-**Parent Topic:**[Surveys in Workforce Optimization for ITSM](../concept/surveys-wfo-itsm.md)
+**Parent Topic:**[Surveys in Workforce Optimization for ITSM](surveys-wfo-itsm.md)
 

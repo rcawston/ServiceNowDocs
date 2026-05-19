@@ -122,7 +122,7 @@ Widget parameters
 
 </td><td>
 
-Comma-separated list of widget parameters auto-populated with default values.For the **Employee Schedule** widget, to send Email or SMS, specify the widget parameters `enable_send_email` and `enable_send_sms` values to true. For more information, see [Configure the mail and SMS send to self](../task/deskless-kiosk-sendtoself-sms-email.md).
+Comma-separated list of widget parameters auto-populated with default values.For the **Employee Schedule** widget, to send Email or SMS, specify the widget parameters `enable_send_email` and `enable_send_sms` values to true. For more information, see [Configure the mail and SMS send to self](deskless-kiosk-sendtoself-sms-email.md).
 
 For default calendar view, specify `default_calendar_view` value to day or week or month.
 
@@ -142,7 +142,7 @@ For default calendar view, specify `default_calendar_view` value to day or week 
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 
@@ -190,5 +190,5 @@ For default calendar view, specify `default_calendar_view` value to day or week 
 
 [Website configuration form](config-website-form.md)
 
-[Manage profile tabs and visibility in Employee Profile](../task/manage-employee-profile-tabs-visibility.md)
+[Manage profile tabs and visibility in Employee Profile](manage-employee-profile-tabs-visibility.md)
 

@@ -36,5 +36,5 @@ In the following example, a process owner adds the Associate Record to Email act
 
 ![Using the Associate to Email action](../images/associate-to-email-example.png "Using the Associate to Email action")
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

@@ -19,11 +19,11 @@ Administrators and application developers can create custom tables to store appl
 
 Role required: admin
 
-Check your custom table entitlements before creating custom tables. See [Managing custom tables and applications in Subscription Management](../../subscription-management/concept/allocating-custom-tables-subscr-apps-v2.md).
+Check your custom table entitlements before creating custom tables. See [Managing custom tables and applications in Subscription Management](../allocating-custom-tables-subscr-apps-v2.md).
 
 ## About this task
 
-ServiceNow AI Platform application subscriptions include custom table entitlements. You can create custom tables for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [Map custom tables to a product subscription in Subscription Management](../../subscription-management/task/allocate-custom-table-subsc-app-v2.md).
+ServiceNow AI Platform application subscriptions include custom table entitlements. You can create custom tables for any purpose, up to the entitlement limit in the subscription. To learn more about how your usage administrator maps the custom tables that you create to subscriptions, see [Map custom tables to a product subscription in Subscription Management](../allocate-custom-table-subsc-app-v2.md).
 
 **Note:** It is best to create tables when building applications with tools. To learn more, see [Building applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md). To minimize the existence of unneeded and extraneous tables in an instance, don't overdo table creation. Create only those tables you need to minimize administration tasks and shorten upgrade times. Do not extend the \[sys\_choice\] table. Extending the \[sys\_choice\] table is not supported.
 
@@ -49,7 +49,7 @@ Label
 
 </td><td>
 
-Enter a unique label for the table \(such as **Laptops** or **Thin Clients**\). The label appears on list and form views for the table. Updating the **Label** field also updates the label record in the language file for the current language. See Field Labels in [Data dictionary tables](../../managing-data/concept/c_DataDictionaryTables.md).
+Enter a unique label for the table \(such as **Laptops** or **Thin Clients**\). The label appears on list and form views for the table. Updating the **Label** field also updates the label record in the language file for the current language. See Field Labels in [Data dictionary tables](c_DataDictionaryTables.md).
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Type
 
 </td><td>
 
-\[Mandatory\] Define the field type for the column. See [Field administration](../../reference-pages/concept/c_IntroductionToFields.md) and [Field types](../../reference-pages/reference/r_FieldTypes.md). To preserve existing data, only change fields between the same basic type \(for example, **Choice** and **String**\). A warning appears if a change to a custom field results in data loss. You cannot change a base system field, that results in data loss.
+\[Mandatory\] Define the field type for the column. See [Field administration](../c_IntroductionToFields.md) and [Field types](../r_FieldTypes.md). To preserve existing data, only change fields between the same basic type \(for example, **Choice** and **String**\). A warning appears if a change to a custom field results in data loss. You cannot change a base system field, that results in data loss.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ Reference
 
 </td><td>
 
-Make the field into a [Reference field type](../../field-administration/concept/c_ReferenceField.md) by entering the referenced table name.
+Make the field into a [Reference field type](../c_ReferenceField.md) by entering the referenced table name.
 
  **Note:** Dynamic reference creation is enabled for this field. So, if you enter a table name that does not match an existing table, a new table is created when you save changes to the current table record. If the current table has a module in the application navigator, then a module for the newly created table is automatically created in the same application menu.
 
@@ -174,7 +174,7 @@ Default value
 
 </td><td>
 
-Specify the default value of the field for any new record. Ensure that this value uses the correct field type. For example, an integer field can use a default value of 2 but cannot use a default value of two. These values can be overridden with [dictionary overrides](../../data-dictionary-tables/concept/c_DictionaryOverrides.md).
+Specify the default value of the field for any new record. Ensure that this value uses the correct field type. For example, an integer field can use a default value of 2 but cannot use a default value of two. These values can be overridden with [dictionary overrides](c_DictionaryOverrides.md).
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ Display
 
 </td><td>
 
-Indicate whether this field is the [Display values](../../field-administration/concept/c_DisplayValues.md) \(appears on records that reference this table\).
+Indicate whether this field is the [Display values](../c_DisplayValues.md) \(appears on records that reference this table\).
 
  **Note:** This option does not control whether this field is displayed on lists or forms.
 
@@ -292,10 +292,10 @@ Select the check box to enable applications from other application scopes to cre
 To change the field labels in your table or the label of the table itself, perform the following task:
 
 1.  Navigate to the Field Label \[sys\_documentation\] table, and filter the table to show the table that has the fields you want to change. To find the label that represents the table itself, filter the records where **Element** is empty.
-2.  Open the field record that you want to change, and make your updates. For a description of each field, see [Field Label table](../../localization/reference/r_FieldLabelTable.md).
+2.  Open the field record that you want to change, and make your updates. For a description of each field, see [Field Label table](../system-localization/r_FieldLabelTable.md).
 
--   **[Global default fields](../../../build/applications/reference/r_GlobalDefaultFields.md)**  
+-   **[Global default fields](r_GlobalDefaultFields.md)**  
 When you create a new custom table, several fields appear in the **Table Columns** embedded list. For all tables, required system fields are added automatically. You cannot delete or modify these fields.
 
-**Parent Topic:**[Managing tables and indexes](../concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](using-table-administration.md)
 

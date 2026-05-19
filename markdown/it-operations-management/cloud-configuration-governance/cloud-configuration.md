@@ -25,9 +25,9 @@ Role required to use the Cloud Provisioning and Governance administration guide 
 
     See the appropriate setup guide for your cloud provider:
 
-    -   [Cloud Provisioning and Governance setup guide for AWS](../../cloud-management-v2-setup/concept/cloud-mgt-aws-setup-day-1.md)
-    -   [Cloud Provisioning and Governance setup guide for Azure](../../cloud-management-v2-setup/concept/cloud-mgt-azure-setup-guide.md)
-    -   [Cloud Provisioning and Governance setup guide for VMware](../../cloud-management-v2-setup/concept/cloud-mgt-vmware-setup-guide.md)
+    -   [Cloud Provisioning and Governance setup guide for AWS](cloud-mgt-aws-setup-day-1.md)
+    -   [Cloud Provisioning and Governance setup guide for Azure](cloud-mgt-azure-setup-guide.md)
+    -   [Cloud Provisioning and Governance setup guide for VMware](cloud-mgt-vmware-setup-guide.md)
     .
 
 

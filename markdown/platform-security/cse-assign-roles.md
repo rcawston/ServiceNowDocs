@@ -41,7 +41,7 @@ Roles required:
 
 The selected user has the Code Signing Admin role. A user with this role can access the Code Signing configuration experience, and assign other Code Signing roles to users.
 
-To learn more about Code Signing roles, see [Roles installed with Code Signing](../reference/cs-role-landing.md#).
+To learn more about Code Signing roles, see [Roles installed with Code Signing](cs-role-landing.md#).
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](config-code-signing.md)
 

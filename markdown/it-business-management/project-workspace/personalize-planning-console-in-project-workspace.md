@@ -61,5 +61,5 @@ Steps 2 through 4 provide guidance on customizing various aspects of the workspa
 -   **[Add new columns to the planning page](add-new-columns-to-planning-console.md)**  
 Display new columns on the planning page of the new project workspace so that your project managers can view custom fields for the project tasks on the planning page.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](use-projects-pw.md)
 

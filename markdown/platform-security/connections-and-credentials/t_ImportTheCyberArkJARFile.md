@@ -55,5 +55,5 @@ Use this process even if the JavaPasswordSDK.jar file already exists on the MID 
     The platform makes the JAR file available to any MID Server configured to communicate with the instance.
 
 
-**Parent Topic:**[CyberArk integration configuration](../concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)
 

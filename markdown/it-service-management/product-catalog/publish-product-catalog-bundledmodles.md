@@ -39,7 +39,7 @@ You can publish a bundled model only under the following conditions:
 5.  Select **OK**.
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](c_CreatingBundledModels.md)
 
 **Related topics**  
 

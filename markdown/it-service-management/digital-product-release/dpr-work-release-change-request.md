@@ -57,7 +57,7 @@ Steps
 2.  Select a Change request model and then select **Next**.
 3.  Fill in the details in the Change Request form and select **Save**.
 
-For more information, see [Create a change request](../../change-management/task/t_CreateAChange.md).
+For more information, see [Create a change request](../change-management/t_CreateAChange.md).
 
  The new change request is created and added to theselected phase. The **Software model** field in the change request is filled with the version of the release.
 

@@ -288,18 +288,18 @@ A brief description of the document type.
 12. Select **Submit**.
 
 
-**Parent Topic:**[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+**Parent Topic:**[Supplier Document Management](supp-doc-mgmt-overview.md)
 
 **Related topics**  
 
 
 [Manually run a supplier document configuration](run-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](upload-doc-about.md)
 
 [Configure document expiration monitoring attributes](configure-document-expiration-monitoring-attributes.md)
 
 [Manually run a supplier document configuration](run-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](upload-doc-about.md)
 

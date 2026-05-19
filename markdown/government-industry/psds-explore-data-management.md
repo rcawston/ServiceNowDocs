@@ -60,5 +60,5 @@ Internal user data includes the information about the people within your service
 
 Business stakeholders are internal users who directly influence service processes. They can create, view, and approve cases and requests across your service organization.
 
-To learn more about the business stakeholders, see [Business Stakeholder for Public Sector Digital Services](../reference/roles-installed-with-public-sector-digital-services.md#section_qmx_qfp_bvb).
+To learn more about the business stakeholders, see [Business Stakeholder for Public Sector Digital Services](roles-installed-with-public-sector-digital-services.md#section_qmx_qfp_bvb).
 

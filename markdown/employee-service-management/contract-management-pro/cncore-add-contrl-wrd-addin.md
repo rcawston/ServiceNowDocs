@@ -35,14 +35,14 @@ You can also switch application scope and log out using the following options:
 
 -   **[Configure metadata for fields, variables, and variables sets in a contract document](cncore-addin-add-metadata.md)**  
 As a contract configurator, add and configure metadata for fields, variable, and variable sets to pre-fill the information in the contract document.
--   **[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)**  
+-   **[Configuring signatories in Contract template using Microsoft Word add-in](cncore-config-sign-addin.md)**  
 For signatories to add their signatures in the contract document, you can either create signature blocks or configure participants in a contract template with placeholders.
 -   **[Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-clauses.md)**  
 As a contract configurator, add clause and clause variations to a contract using the Microsoft Word add-in for ServiceNow Contracts.
 -   **[Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-table.md)**  
 Use the ServiceNow Contracts add-in to map a contract table to a source table in your ServiceNow instance to determine the data that will be added in a contract document. When a contract document is generated from the template, the rows and columns are dynamically added in the mapped table of the contract document.
 
-**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
 
 **Related topics**  
 

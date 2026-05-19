@@ -22,5 +22,5 @@ The PRM plugin \(com.snc.partner\_relationship\_management\) comes with a set of
 |sn\_prm\_sales\_partner\_sales\_manager|This role is assigned to external channel partner organizational staff to manage the entire sales lead to cash life cycle for B2B and B2C customers.| |
 |sn\_prm\_sales\_partner\_sales\_relationship\_manager|This role is assigned to enterprise personnel to manage the entire sales lead to cash life cycle for the hierarchy of their channel partners.| |
 
-**Parent Topic:**[Install Sales Common for Partner Relationship Management](../task/install-sales-common-for-partner-relationship-management.md)
+**Parent Topic:**[Install Sales Common for Partner Relationship Management](install-sales-common-for-partner-relationship-management.md)
 

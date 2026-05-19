@@ -100,5 +100,5 @@ Any widgets on the page that exceed the specified benchmarks are highlighted on 
 
 Consider updating any widgets that don’t meet your performance benchmarks to improve the page performance. For example, if a widget's server script takes too long to load, evaluate if the script can be improved to load faster.
 
-**Parent Topic:**[Analyzing portal performance and usage](../concept/using-portal-analytics.md)
+**Parent Topic:**[Analyzing portal performance and usage](using-portal-analytics.md)
 

@@ -80,5 +80,5 @@ Load the demo data after installing Deal Registration Management.1.  Install Dea
 
 You have successfully installed the Deal Registration Management \(com.snc.deal\_registration\_management\) application.
 
-**Parent Topic:**[Deal Registration](../concept/deal-registration-management.md)
+**Parent Topic:**[Deal Registration](deal-registration-management.md)
 

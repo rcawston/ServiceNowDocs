@@ -34,5 +34,5 @@ Role required: insights\_admin, insights\_owner or insights\_user
 
 The preferred currency is shown as the display currency in all dashboard widgets, recommendations, budgets, and billing data of the Cloud Cost Management Workspace.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

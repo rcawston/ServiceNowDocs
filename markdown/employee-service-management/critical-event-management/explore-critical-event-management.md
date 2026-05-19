@@ -60,22 +60,22 @@ Critical Event Management offers a platform to report and manage critical situat
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Efficiently manage critical events with the clear, step-by-step guide with a playbook.|[CEM Playbook tab](playbook.md)|Agent|
-|Create critical event tickets.|[Report a critical event as an employee](../task/report-a-critical-event-as-an-employee.md)|Employee|
-|Create critical event tickets.|[Report a critical event as an agent](../task/report-an-emergency.md)|Agent|
-|Send notifications to on-site responders and mass notifications to impacted people.|[Sending notifications during a critical event](../task/notify-impacted-people.md)|Agent|
-|View sent notifications.|[View sent notifications for a critical event](../task/view-sent-notifications.md)|Agent|
+|Create critical event tickets.|[Report a critical event as an employee](report-a-critical-event-as-an-employee.md)|Employee|
+|Create critical event tickets.|[Report a critical event as an agent](report-an-emergency.md)|Agent|
+|Send notifications to on-site responders and mass notifications to impacted people.|[Sending notifications during a critical event](notify-impacted-people.md)|Agent|
+|View sent notifications.|[View sent notifications for a critical event](view-sent-notifications.md)|Agent|
 |Track impacted people.|[CEM Impacted people tab](impacted-people.md)|Agent|
-|Conduct roll calls and update the status of impacted people by logging in to their portal.|[Conduct a roll call as an on-site responder](../task/conduct-roll-call.md)|On-site responders|
-|Create Health and Safety incidents.|[Create a Health and Safety incident in Critical Event Management](../task/create-hs-incident.md)|Admins|
+|Conduct roll calls and update the status of impacted people by logging in to their portal.|[Conduct a roll call as an on-site responder](conduct-roll-call.md)|On-site responders|
+|Create Health and Safety incidents.|[Create a Health and Safety incident in Critical Event Management](create-hs-incident.md)|Admins|
 
 ## What to explore next
 
 To learn more about configuring and using Critical Event Management, see:
 
 -   [Configuring Critical Event Management](configure-critical-event-management.md)
--   [Report a critical event as an agent](../task/report-an-emergency.md)
--   [Report a critical event as an employee](../task/report-a-critical-event-as-an-employee.md)
+-   [Report a critical event as an agent](report-an-emergency.md)
+-   [Report a critical event as an employee](report-a-critical-event-as-an-employee.md)
 -   [Managing impacted people](manage-impacted-people.md)
--   [Sending notifications during a critical event](../task/notify-impacted-people.md)
+-   [Sending notifications during a critical event](notify-impacted-people.md)
 -   [Critical Event Management reference](critical-event-management-reference.md)
 

@@ -143,7 +143,7 @@ The goal of this phase is to create the schedules necessary to discover the CIs 
 
 You must be familiar with the types of credentials that you need for the CIs in your network. Each CI type requires different credentials. For example, if Discovery uses patterns instead of probes, the patterns might require [applicative credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/applicative-creds.md).
 
-Review the requirements for the CI types you intend to discover. See [Data collected by ITOM Visibility](../reference/data-collected-by-itom-visibility.md), and then locate the specific type of device, computer, or application.
+Review the requirements for the CI types you intend to discover. See [Data collected by ITOM Visibility](../itom-visibility/data-collected-by-itom-visibility.md), and then locate the specific type of device, computer, or application.
 
 ### Procedure
 

@@ -67,12 +67,12 @@ AI quick story generation in Agile 2.0
 
 To further refine the story after saving, open the story record and select **Generate acceptance criteria** to regenerate or update the acceptance criteria using Now Assist. For more information, see [Generate acceptance criteria for stories in Agile Development 2.0](generate-acc-criteria-agile-stories-now-assist.md).
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Generate a story from an epic using Now Assist for SPM in EAP](generate-stories-quickly-for-eap-and-agile-2-0.md)
+[Generate a story from an epic using Now Assist for SPM in EAP](../enterprise-agile-planning/generate-stories-quickly-for-eap-and-agile-2-0.md)
 
-[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](eap-generate-acceptance-criteria-for-stories.md)
+[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](../enterprise-agile-planning/eap-generate-acceptance-criteria-for-stories.md)
 

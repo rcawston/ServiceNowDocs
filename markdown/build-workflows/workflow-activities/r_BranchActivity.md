@@ -21,5 +21,5 @@ All transitions from this activity execute concurrently. This activity provides 
 
 Branching can affect the behavior of rollback activities. See [Rollback To activity](r_RollbackTo.md#) for more information.
 
-**Parent Topic:**[Utility workflow activities](../concept/c_UtilityActivities.md)
+**Parent Topic:**[Utility workflow activities](c_UtilityActivities.md)
 

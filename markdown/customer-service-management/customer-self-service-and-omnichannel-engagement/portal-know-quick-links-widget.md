@@ -17,5 +17,5 @@ The Portal Knowledge Quick Links widget displays a list of relevant knowledge ar
 
 ![Portal Knowledge Quick Links displaying knowledge articles.](../image/portal-know-article-quick-links-widget.png "Portal Knowledge Quick Links widget")
 
-For more information, see [Add and configure the Portal Knowledge Quick Links widget](../task/config-portal-know-quick-links-widget-inst-optns.md).
+For more information, see [Add and configure the Portal Knowledge Quick Links widget](config-portal-know-quick-links-widget-inst-optns.md).
 

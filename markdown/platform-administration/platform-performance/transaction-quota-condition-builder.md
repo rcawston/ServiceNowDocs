@@ -64,7 +64,7 @@ The type of transaction:-   **List**: Any list transaction, such as incident\_li
 -   **Text Search**: The text search transaction or any of its related operations.
 -   **Other**: Any type that does not meet the qualities of another type.
 
- **Note:** Match the transaction quota **Type** to the transaction type listed in the Quota Manager [log entry for the transaction](../task/t_EnableDebuggingInformation.md).
+ **Note:** Match the transaction quota **Type** to the transaction type listed in the Quota Manager [log entry for the transaction](t_EnableDebuggingInformation.md).
 
 </td></tr><tr><td>
 
@@ -103,5 +103,5 @@ Attributes
 Miscellaneous attributes that are related to the transaction.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform performance reference](../concept/platform-performance-references.md)
+</table>**Parent Topic:**[Platform performance reference](platform-performance-references.md)
 

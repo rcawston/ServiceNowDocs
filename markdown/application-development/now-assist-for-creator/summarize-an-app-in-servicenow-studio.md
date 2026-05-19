@@ -53,5 +53,5 @@ If your company has a robust citizen development program and has many developers
 
 After you create an initial app summary, the **Summarize** button becomes the **Summary** button. If you see **Summary**, know that an app summary has already been created and can be edited as needed.
 
-**Parent Topic:**[App summary generation](../../now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md)
+**Parent Topic:**[App summary generation](sns-now-assist-app-summarize-landing.md)
 

@@ -122,5 +122,5 @@ As a matter owner, you can review and approve or reject matter tasks that are ma
 -   **[Cancel a legal matter task](cancel-matter-task.md)**  
 You can cancel a matter task if it no longer requires any action.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

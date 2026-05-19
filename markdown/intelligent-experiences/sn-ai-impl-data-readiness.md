@@ -49,11 +49,11 @@ For more information, see [Now Assist Data Readiness Checklist](https://mynow.se
 
 Data readiness assessments can be time-consuming and manual, especially when evaluating whether catalog items are conversational or if knowledge articles are embedded in inaccessible formats like PDFs. The Now Assist Readiness Evaluation app helps automate this process by analyzing service catalog entries, cases, and incidents, and then providing actionable recommendations to prepare data for AI use. It also enables you to assess whether updates, installations, or customizations of your instance could affect implementation. The assessments provide direct hyperlinks to improve any issues found.
 
-For more information, see [Now Assist Readiness Evaluation](../../now-assist-readiness-evaluation/concept/now-assist-readiness-evaluation-landing-page.md).
+For more information, see [Now Assist Readiness Evaluation](now-assist-readiness-evaluation/now-assist-readiness-evaluation-landing-page.md).
 
 Install Now Assist Readiness Evaluation by requesting it from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Now Assist Data Kit
 
-If the base system Now Assist skills don't fit your needs, use the Now Assist Data Kit to curate, cleanse, and manage data for AI evaluations. You can create custom datasets and data collections that can be used in Now Assist Skill Kit for evaluation. For more information, see [Now Assist Data Kit](../../now-assist-data-kit/concept/now-assist-data-kit-landing.md).
+If the base system Now Assist skills don't fit your needs, use the Now Assist Data Kit to curate, cleanse, and manage data for AI evaluations. You can create custom datasets and data collections that can be used in Now Assist Skill Kit for evaluation. For more information, see [Now Assist Data Kit](now-assist-data-kit/now-assist-data-kit-landing.md).
 

@@ -27,9 +27,9 @@ To start creating models, set your scope to the application scope you want for y
 
 When you select the **Create new model** button, a modal opens to display your model creation options. Start by selecting one of the icons:![The modal for 'How do you want to create your model?' displays three selectable tiles: Use prebuilt model, Import data from a CSV, Start from blank.](../images/creating-models2V.png)
 
--   [Create an NLU model using a pre-built model](../task/create-nlu-model-prebuilt.md): Copy a prebuilt model and its contents as a starting point for your new model.
--   [Create an NLU model from a CSV file](../task/create-nlu-model-csv.md): Upload a CSV file containing a list of intents and corresponding utterances.
--   [Create an NLU model from blank](../task/create-nlu-modelx.md): Build a model from scratch and add intents and utterances as you go.
+-   [Create an NLU model using a pre-built model](create-nlu-model-prebuilt.md): Copy a prebuilt model and its contents as a starting point for your new model.
+-   [Create an NLU model from a CSV file](create-nlu-model-csv.md): Upload a CSV file containing a list of intents and corresponding utterances.
+-   [Create an NLU model from blank](create-nlu-modelx.md): Build a model from scratch and add intents and utterances as you go.
 
 After creating, add content to your model. The intents, utterances, entities, and vocabulary you add helps improve the model's ability to interpret natural language. See [Build and train your model](managing-model-content.md).
 
@@ -37,7 +37,7 @@ After creating, add content to your model. The intents, utterances, entities, an
 
 After creating a model, you have options to use that model across other models and instances. With the NLU Workbench, you can perform the following actions with your models:
 
--   [Duplicate an NLU model](../task/clone-nlu-model.md): Copy a model to create a model with the same content.
--   [Export an NLU model](../task/export-nlu-model.md): Export a model as a CSV file containing the associated utterances and intents. Share the model or use it to create one.
--   [Add an NLU model to an update set](../task/add-model-update-set.md): Add a model and its artifacts to an update set to transfer the model across instances.
+-   [Duplicate an NLU model](clone-nlu-model.md): Copy a model to create a model with the same content.
+-   [Export an NLU model](export-nlu-model.md): Export a model as a CSV file containing the associated utterances and intents. Share the model or use it to create one.
+-   [Add an NLU model to an update set](add-model-update-set.md): Add a model and its artifacts to an update set to transfer the model across instances.
 

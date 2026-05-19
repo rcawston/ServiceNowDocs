@@ -127,7 +127,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](roles-user-criteria.md).
 
 </td></tr><tr><td>
 

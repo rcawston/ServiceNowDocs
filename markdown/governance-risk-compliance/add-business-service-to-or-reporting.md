@@ -57,7 +57,7 @@ Beginning with Operational Resilience, Release 21.0.x, records in the Services, 
 
 5.  To add a business service to the Operational Resilience application, select **New** in the Business services list view and fill in the details regarding the service on the Create New service form.
 
-    For a description of the field values on the Business service form, see [Create New Business Service form](../reference/create-new-business-service-form.md).
+    For a description of the field values on the Business service form, see [Create New Business Service form](create-new-business-service-form.md).
 
 6.  To save updates to the existing record, select **Save**.
 

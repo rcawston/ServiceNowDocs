@@ -68,5 +68,5 @@ Copies the specified attachments from ServiceNow instance to an SFTP server.
 -   **[Copy Files To This Instance](copy-files-instace.md)**  
 Attaches the specified files in the SFTP server to the specified record in ServiceNow instance.
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](steps.md)
 

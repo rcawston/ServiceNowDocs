@@ -39,5 +39,5 @@ Enable the PowerShell log property for each MID Server. If the MID Server field 
 
 **Note:** All the debug messages that come back to the instance are also saved to the MID Server log file. The log file might have additional debug messages generated from Java code, which might help the debug process.
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](c_OrchestrationMID.md)
 

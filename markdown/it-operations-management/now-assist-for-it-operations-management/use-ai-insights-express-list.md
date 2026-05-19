@@ -25,14 +25,14 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 ## About this task
 
-The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](../concept/itom-autonomous-operator-workflow.md).
+The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](itom-autonomous-operator-workflow.md).
 
 **Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
 There are several ways to explore AI insights in Express List.
 
 -   Quickly review if alerts have been processed by checking for the AI insights badge ![](../image/ai-insights-icon.png).
--   Search for specific information and key words in the Insights column. To add the column, see [Add or modify Express List columns](../../service-operations-workspace-itom/task/edit-list-columns-el.md) for more information.
+-   Search for specific information and key words in the Insights column. To add the column, see [Add or modify Express List columns](../service-operations-workspace-for-itom-apps/edit-list-columns-el.md) for more information.
 -   Filter for information by using the **Insights** filter attribute in the filter panel.
 -   Review **AI insights** in the preview panel or the alert record.
 
@@ -75,7 +75,7 @@ Procedure
 
 </td><td>
 
-Search for content with the free text search. For more information, see [Find alert records in Express List using text search](../../service-operations-workspace-itom/task/el-free-text-search.md).
+Search for content with the free text search. For more information, see [Find alert records in Express List using text search](../service-operations-workspace-for-itom-apps/el-free-text-search.md).
 
 </td></tr><tr><td id="d123129e261">
 
@@ -83,7 +83,7 @@ Search for content with the free text search. For more information, see [Find al
 
 </td><td>
 
-Filter using the **Insights** attribute with a minimum string of two characters. For more information, see [Filtering the alert display in the Express List pane](../../service-operations-workspace-itom/concept/filter-express-list.md).
+Filter using the **Insights** attribute with a minimum string of two characters. For more information, see [Filtering the alert display in the Express List pane](../service-operations-workspace-for-itom-apps/filter-express-list.md).
 
 </td></tr><tr><td id="d123129e280">
 

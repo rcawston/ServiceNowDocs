@@ -39,5 +39,5 @@ Role required: admin
     2.  Select **Submit**.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](../concept/va-flow-designer-integration.md)
+**Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](va-flow-designer-integration.md)
 

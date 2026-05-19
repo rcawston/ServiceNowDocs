@@ -95,7 +95,7 @@ Start with this setup, and if you have steps with IDs, change them to: \{"url":"
     A guided tour is created.
 
 
-**Parent Topic:**[Guided Tour Designer use case](../concept/guided-tour-designer-use-case.md)
+**Parent Topic:**[Guided Tour Designer use case](guided-tour-designer-use-case.md)
 
 ## Update the Route Parameters
 
@@ -151,7 +151,7 @@ After you have created your tour, preview it to confirm that it displays correct
 
 The guided tour is created and listed in the Help Center.
 
-Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](../concept/accessing-guided-tours.md#).
+Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](accessing-guided-tours.md#).
 
 **Related topics**  
 

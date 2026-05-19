@@ -30,5 +30,5 @@ Role required: none
     The board selection list displays freeform boards only.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](r_TaskCards.md)
 

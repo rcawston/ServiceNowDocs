@@ -37,7 +37,7 @@ The following example email flows are installed with the platform. These flows a
 **Related topics**  
 
 
-[Define rules to process incoming emails](../task/define-process-incoming-emails.md)
+[Define rules to process incoming emails](define-process-incoming-emails.md)
 
-[Activate Customer Service Management](../task/t_ActivateCustomerService.md)
+[Activate Customer Service Management](t_ActivateCustomerService.md)
 

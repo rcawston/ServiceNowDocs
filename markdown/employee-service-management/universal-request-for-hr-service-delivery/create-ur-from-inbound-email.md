@@ -15,7 +15,7 @@ breadcrumb: [Unified ticket experience setting, Configure service to use Univers
 
 Universal requests can be automatically created from the information received by emails. The auto-creation of universal requests enables faster response time and quicker resolution for employees compared to the agents manually creating requests from emails.
 
-Configure the email IDs in the **General email address for Universal Requests** \(sn\_uni\_req.ur\_email\) property. For more information, see [Universal Request properties](../reference/ur-properties.md). By default, an email sent to these configured mail IDs will automatically create a universal request. Incoming emails marked with high importance will create universal requests with high priority \(Priority 1\).
+Configure the email IDs in the **General email address for Universal Requests** \(sn\_uni\_req.ur\_email\) property. For more information, see [Universal Request properties](ur-properties.md). By default, an email sent to these configured mail IDs will automatically create a universal request. Incoming emails marked with high importance will create universal requests with high priority \(Priority 1\).
 
 By default, the solution definition is configured and the predictive model is auto-trained when the following conditions are met.
 
@@ -38,9 +38,9 @@ On instances where Predictive Intelligence for Universal Request is active, the 
 **Related topics**  
 
 
-[Create universal request automatically for department tickets via other channels](../task/autocreate-ur-from-interactionrecord-WS.md)
+[Create universal request automatically for department tickets via other channels](autocreate-ur-from-interactionrecord-WS.md)
 
 [Email notification preferences for your service](ur-customize-email-notifcations.md)
 
-[Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md)
+[Configure a catalog item or record producer to create a universal request](create-ur-recordproducer.md)
 

@@ -75,12 +75,12 @@ Description
 Description of the schedule.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Define a schedule](../task/t_DefineASchedule.md)
+</table>**Parent Topic:**[Define a schedule](t_DefineASchedule.md)
 
 **Related topics**  
 
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](c_UseSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](t_DefineASchedule.md)
 

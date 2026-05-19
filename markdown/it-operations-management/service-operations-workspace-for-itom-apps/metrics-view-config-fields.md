@@ -74,7 +74,7 @@ Chart Type
 Type of chart in which the metric is presented in Service Operations Workspace, either **Line** or **Stacked Bar**.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Configure alert metrics](../task/configure-alert-metrics-itom.md).
+</table>To return to the procedure, see [Configure alert metrics](configure-alert-metrics-itom.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](sow-reference-itom.md)
 

@@ -28,7 +28,7 @@ Legal Conflict of Interest \(COI\) enables you to manage the disclosure, approva
 
 This topic describes how to submit a COI request using the conversational interface. The conversational intake functionality is available only when you have installed and configured Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\) that is a paid application.
 
-For more information on how to submit a COI request using Employee Center intake form, see [Submit COI request form Employee Center](../../legal-conflict-of-interest/task/submit-coi-disclosure-request.md)
+For more information on how to submit a COI request using Employee Center intake form, see [Submit COI request form Employee Center](../legal-conflict-of-interest/submit-coi-disclosure-request.md)
 
 ## Procedure
 
@@ -62,12 +62,12 @@ For more information on how to submit a COI request using Employee Center intake
 
     ![Review the request summary before submitting the request](../../legal-conflict-of-interest/image/lsd-coi-converse-req-submitted.png)
 
-    For more information, see [Approve or reject a conflict of interest disclosure request](../../legal-conflict-of-interest/task/approve-reject-coi-request.md)
+    For more information, see [Approve or reject a conflict of interest disclosure request](../legal-conflict-of-interest/approve-reject-coi-request.md)
 
 
 ## Result
 
-When an employee submits a COI disclosure the risk assessment utility evaluates the submission against a set of predefined risk factor . Each risk factor contributes to an overall risk score, which determines the risk level \(Low, Medium, or High\) and the corresponding approval routing. The risk level determines whether the request needs approval or can be auto-approved. For more information in how to manage COI requests, see [Approve or reject a conflict of interest disclosure request](../../legal-conflict-of-interest/task/approve-reject-coi-request.md).
+When an employee submits a COI disclosure the risk assessment utility evaluates the submission against a set of predefined risk factor . Each risk factor contributes to an overall risk score, which determines the risk level \(Low, Medium, or High\) and the corresponding approval routing. The risk level determines whether the request needs approval or can be auto-approved. For more information in how to manage COI requests, see [Approve or reject a conflict of interest disclosure request](../legal-conflict-of-interest/approve-reject-coi-request.md).
 
-**Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](../concept/now-assist-lsd-using.md)
+**Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](now-assist-lsd-using.md)
 

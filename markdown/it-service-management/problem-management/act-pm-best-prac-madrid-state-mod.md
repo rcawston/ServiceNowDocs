@@ -23,7 +23,7 @@ Role required: admin
 
 The new best practice states are not compatible with the previous version of Problem Management and require verification before this plugin can be activated. The plugin is activated by default for the new customers.
 
-Existing customers should use the [Migration Utility](../concept/migration-utility.md) to verify and migrate to this plugin.
+Existing customers should use the [Migration Utility](migration-utility.md) to verify and migrate to this plugin.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Existing customers should use the [Migration Utility](../concept/migration-utili
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Problem Management plugins](../concept/problem-mgmt-plugins.md)
+**Parent Topic:**[Problem Management plugins](problem-mgmt-plugins.md)
 
 **Related topics**  
 

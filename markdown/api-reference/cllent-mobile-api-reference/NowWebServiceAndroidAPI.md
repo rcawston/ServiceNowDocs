@@ -17,9 +17,9 @@ The NowWebService class provides a function that launches a NowWebActivity that 
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration class - Android](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration information for the associated service, such as the ServiceNow instance URL and the name of the package.|
+|configuration|[NowServiceConfiguration class - Android](NowServiceConfigurationAndroidAPI.md)|Configuration information for the associated service, such as the ServiceNow instance URL and the name of the package.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowWebService - launch\(context: Context, url: URL, nowWebTheme: NowWebTheme\)
 
@@ -67,7 +67,7 @@ nowWebTheme
 
 </td><td id="Web-themeColors-entry">
 
-[NowWebTheme](../../NowWebTheme/concept/NowWebThemeAndroidInterface.md)
+[NowWebTheme](NowWebThemeAndroidInterface.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Updates the NowWeb UI theme with the specified UI theme. Use this function to up
 
 |Name|Type|Description|
 |----|----|-----------|
-|nowWebTheme|[NowWebTheme](../../NowWebTheme/concept/NowWebThemeAndroidInterface.md)|NowWebTheme object to apply to the UI elements of the view controller.|
+|nowWebTheme|[NowWebTheme](NowWebThemeAndroidInterface.md)|NowWebTheme object to apply to the UI elements of the view controller.|
 
 |Type|Description|
 |----|-----------|

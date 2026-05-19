@@ -59,5 +59,5 @@ Example 2: For a **Date** or **Date/Time** value, return a date which GlideDate 
 var glideDateTime  = new GlideDateTime(producer.date_field);
 ```
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](service-catalog-reference.md)
 

@@ -40,5 +40,5 @@ Unfortunately, personal developer instances \(PDI\) have been used both accident
 2.  To disable email sending and receiving, deactivate the **Enable email sending and receiving** toggle.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

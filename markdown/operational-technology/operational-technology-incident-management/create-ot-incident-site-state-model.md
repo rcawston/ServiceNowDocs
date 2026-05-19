@@ -26,7 +26,7 @@ By using state management, you can configure a state model for OT incident sites
 
 For more information about state management and state models, see [State Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/state-management/state-model.md).
 
-For more information about the incident life cycles, see [Operational Technology Incident Management](../concept/operational-technology-incident-management.md).
+For more information about the incident life cycles, see [Operational Technology Incident Management](operational-technology-incident-management.md).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ For more information about the incident life cycles, see [Operational Technology
 
 Now, the state model accurately describes the expected record workflow through the life cycle of the incident record.
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

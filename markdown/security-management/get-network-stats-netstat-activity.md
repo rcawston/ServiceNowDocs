@@ -96,5 +96,5 @@ The MID Server must support PowerShell.
 
 SHA-256 hash requires PowerShell V4.
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

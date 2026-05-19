@@ -14,16 +14,16 @@ breadcrumb: [Using other Now Assist applications from Now Assist Center, Use, No
 
 Access Now Assist Admin console features in the Now Assist Center workspace.
 
--   **[Configure Now Assist settings in Now Assist Center](../task/now-assist-center-configure-admin-settings.md)**
+-   **[Configure Now Assist settings in Now Assist Center](now-assist-center-configure-admin-settings.md)**
 
     Use Now Assist Admin console configuration features on the Now Assist Admin page in the Now Assist Center workspace.
 
--   **[View AI assets usage and performance in Now Assist Center](../task/now-assist-center-view-ai-usage.md)**
+-   **[View AI assets usage and performance in Now Assist Center](now-assist-center-view-ai-usage.md)**
 
     Use Now Assist Center to view dashboards showing the usage and performance of your AI assets.
 
 
--   **[Configure Now Assist settings in Now Assist Center](../task/now-assist-center-configure-admin-settings.md)**  
+-   **[Configure Now Assist settings in Now Assist Center](now-assist-center-configure-admin-settings.md)**  
 Use Now Assist Admin console configuration features on the Now Assist Admin page in the Now Assist Center workspace.
 
 **Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](now-assist-center-using-other-applications.md)

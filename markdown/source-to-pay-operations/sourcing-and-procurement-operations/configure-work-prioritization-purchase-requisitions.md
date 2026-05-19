@@ -79,5 +79,5 @@ Any field on the purchase requisition or purchase line record can be used as a c
 
 Purchase requisitions are automatically assigned a priority level when they are created or updated. Procurement specialists can sort and filter their work queue by priority to work the most urgent requisitions first.
 
-**Parent Topic:**[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+**Parent Topic:**[Configuring work prioritization](configuring-work-prioritization.md)
 

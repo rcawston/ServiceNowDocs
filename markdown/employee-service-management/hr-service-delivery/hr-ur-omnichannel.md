@@ -21,5 +21,5 @@ To auto-create a universal request from an HR case, you must activate the **Crea
 
 ## Configure field mappings
 
-To auto-create a universal request from an HR case and copy the primary details from an HR case to a universal request, [Configure field mappings](../task/create-mappings-hrur.md).
+To auto-create a universal request from an HR case and copy the primary details from an HR case to a universal request, [Configure field mappings](create-mappings-hrur.md).
 

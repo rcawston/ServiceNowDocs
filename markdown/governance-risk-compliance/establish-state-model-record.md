@@ -94,7 +94,7 @@ When the state transition condition is fulfilled, the state gets updated or else
 
 3.  On the State model form, fill in the other fields.
 
-    For more information on the fields, see [GRC state model form](../reference/grc-state-model-form-for-op-vul.md).
+    For more information on the fields, see [GRC state model form](grc-state-model-form-for-op-vul.md).
 
 4.  Select **Submit**.
 

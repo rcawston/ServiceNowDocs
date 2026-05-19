@@ -25,8 +25,8 @@ Each identification rule consists of a single identifier for the table, one or m
 
 Review the following topics before creating identification rules:
 
--   [Identification rules](../concept/c_IdentificationRules.md)
--   [General guidelines for using CMDB Identification](../concept/best-practices-id-reconcile.md)
+-   [Identification rules](c_IdentificationRules.md)
+-   [General guidelines for using CMDB Identification](best-practices-id-reconcile.md)
 
 When creating identifier entries, you can configure the **Search on table** and **Criterion attributes** fields on the Identifier Entry form to implement one of the following options:
 
@@ -173,7 +173,7 @@ A filter to narrow the set of records that will be searched for a matching recor
 
  Available only if the **glide.identification\_engine.enable\_identifier\_optional\_condition** system property is set to **true** \(**false** by default\). In the base system, identifier entries of various classes are pre-configured with advanced options conditions. All these pre-configured conditions in regular identifier entries will automatically apply when you set this property to **true**. Therefore, to prevent unexpected behavior, review those predefined conditions in regular identifier entries before setting this property to **true**.
 
- For more details about this property, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+ For more details about this property, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 </td></tr></tbody>
 </table>    **Note:** If criterion attributes have only two attributes and **sys\_class\_name** is one of them \(for example \[name, sys\_class\_name\], \[ip\_address, sys\_class\_name\]\), then the other attribute can't be NULL, even if **Allow null attribute** is enabled. This restriction is due to**sys\_class\_name** being considered a special system matching attribute.
@@ -282,5 +282,5 @@ gr.update();
 
 This process requires the admin role.
 
-**Parent Topic:**[IRE support for non-CMDB tables](../concept/ire-support-non-cmdb-tables.md)
+**Parent Topic:**[IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md)
 

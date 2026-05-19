@@ -32,15 +32,15 @@ The database view can show the start date, due date, expiry date, and completed 
 **Related topics**  
 
 
-[View results for all surveys](../task/t_ViewResultsForAllSurveys.md)
+[View results for all surveys](t_ViewResultsForAllSurveys.md)
 
-[View the results for a survey](../task/t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](../task/t_ViewAScorecard.md)
+[View a survey scorecard](t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](t_ExportAQuizScorecard.md)
 
-[Request translations for surveys](../task/request-translations-for-surveys.md)
+[Request translations for surveys](request-translations-for-surveys.md)
 
-[Edit translations for surveys](../task/edit-translations-for-surveys.md)
+[Edit translations for surveys](edit-translations-for-surveys.md)
 

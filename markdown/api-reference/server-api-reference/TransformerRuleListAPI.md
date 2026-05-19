@@ -45,7 +45,7 @@ Use "adapter methods", such as setName\(\) or thenAdd\(\), to define how to mani
 
 You can use the TransformerRuleList class in both scoped and global server scripts. When using this class in a scoped application, use the `sn_tfrm` namespace identifier. Also, before this API is available in an instance, you must activate the Transformation Service plugin \(com.glide.transform\).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TransformerRuleList - addRule\(String rule, String path\)
 

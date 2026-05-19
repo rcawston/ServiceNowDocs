@@ -25,21 +25,21 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Configure AWS Credentials**
 
-    On your instance, configure credentials of type **AWS Credentials** and set them to **Active**. For more information, see [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+    On your instance, configure credentials of type **AWS Credentials** and set them to **Active**. For more information, see [Access setup for AWS service accounts](../access-aws-accounts.md).
 
 -   **Configure a Cloud service account**
 
-    Configure the AWS service account valid in the ServiceNow instance. For more information, see [Set up AWS service accounts.](../../it-operations-management/concept/setup-aws-service-accounts.md)
+    Configure the AWS service account valid in the ServiceNow instance. For more information, see [Set up AWS service accounts.](../setup-aws-service-accounts.md)
 
 -   **Configure user permissions to execute the list AWS Auto Scaling groups API call**
 
     Provide the user permission to run the following API: https://autoscaling.amazonaws.com/?Action=DescribeAutoScalingGroups&amp;Version=2011-01-01
 
-    For more information, see [Amazon AWS Cloud components discovery using patterns.](../../discovery/reference/data-discovered-aws-patterns.md)
+    For more information, see [Amazon AWS Cloud components discovery using patterns.](data-discovered-aws-patterns.md)
 
 -   **Configure Cloud Discovery schedule**
 
-    Create a cloud application schedule for discovering AWS Auto Scaling groups and configure the attributes. Set **Discovery** to **Cloud application**. For more information, see [Create schedules for discovering cloud resources in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md)
+    Create a cloud application schedule for discovering AWS Auto Scaling groups and configure the attributes. Set **Discovery** to **Cloud application**. For more information, see [Create schedules for discovering cloud resources in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 -   **Configure AWS Auto Scaling groups**
 
@@ -156,12 +156,12 @@ The Amazon AWS - AutoScaling Groups \(LP\) pattern collects tags and populates t
 |Value \[value\]|The value of the resource tag.|
 |Configuration item \[configuration\_item\]|References the Instance Scale Set \[cmdb\_ci\_instance\_scale\_set\] table.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
+[Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

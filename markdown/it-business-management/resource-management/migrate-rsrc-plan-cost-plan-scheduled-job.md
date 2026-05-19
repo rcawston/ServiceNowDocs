@@ -36,5 +36,5 @@ Role required: admin
     Alternatively, you can [migrate resource plans](migrate-rsrc-plan-rsrc-asgnmnt.md) and [migrate operational resource plans](migrate-operational-rsrc-plans.md) for required projects and demands.
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

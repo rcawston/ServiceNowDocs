@@ -52,5 +52,5 @@ The inventory user can scan the available assets in the inventory and put them a
 
 A confirmation message appears on the mobile screen showing the number of put away tasks closed.
 
-**Parent Topic:**[Manage asset put away using the ServiceNow Agent application](../concept/manage-hardware-asset-put-away-ham-mobile-agent.md)
+**Parent Topic:**[Manage asset put away using the ServiceNow Agent application](manage-hardware-asset-put-away-ham-mobile-agent.md)
 

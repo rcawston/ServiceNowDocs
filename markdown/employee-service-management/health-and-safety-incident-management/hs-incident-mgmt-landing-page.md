@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reporting![](../../../reuse/icons/brand-icons/bus-log-store.svg) Fill and export reporting forms for injuries and illnesses in your organization.](injury-illness-reports.md)
+[Reporting![](../../../reuse/icons/brand-icons/bus-log-store.svg) Fill and export reporting forms for injuries and illnesses in your organization.](../health-and-safety/injury-illness-reports.md)
 
 </td><td>
 

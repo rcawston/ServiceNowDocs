@@ -52,5 +52,5 @@ default/user traffic client
 For everything else, this client handles all end user requests and forwards them to the ServiceNow instance after any potential encryption. This client also handles responses from the instance, forwarding them to the end user after any potential decryption.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Edge Encryption](../concept/c_EdgeEncryptionOverview.md)
+</table>**Parent Topic:**[Exploring Edge Encryption](c_EdgeEncryptionOverview.md)
 

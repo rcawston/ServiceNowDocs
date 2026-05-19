@@ -81,17 +81,17 @@ help.base.servicenow
 
 </td><td>
 
-The base URL for help contexts in which the **ServiceNow Wiki** check box is selected. This is the base URL for the help provided in your instance by default. Do not change this value. For details, see [Create a new help context](../task/t_CreateANewHelpContext.md).
+The base URL for help contexts in which the **ServiceNow Wiki** check box is selected. This is the base URL for the help provided in your instance by default. Do not change this value. For details, see [Create a new help context](t_CreateANewHelpContext.md).
 
 </td><td>
 
 http://servicenow.com/docs/?context=
 
 </td></tr></tbody>
-</table>-   **[Create a new help context](../task/t_CreateANewHelpContext.md)**  
+</table>-   **[Create a new help context](t_CreateANewHelpContext.md)**  
 You can create new help contexts to supplement or replace the default help contexts. For example, if your organization has heavily customized a form, you might create a new help context for that form. The customized help context could link to more relevant information, such as a company knowledge base article.
--   **[Help context types and prioritization](../reference/r_HelpContextTypes.md)**  
+-   **[Help context types and prioritization](r_HelpContextTypes.md)**  
 You can create a help context with the type **Form**, **List**, or **Record**, and link it to a particular table in your ServiceNow instance. If you have multiple help contexts, prioritization determines which help contexts apply to what a user views.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](p_NavigationAndUIConfiguration.md)
 

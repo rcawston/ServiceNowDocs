@@ -32,7 +32,7 @@ Using the Kiosk application, deskless employees can manage their time off, sched
 
 **Note:** Employee Center Pro Kiosk \(sn\_ex\_sp\_pro\_kiosk\) home page is available with Employee Center Pro \(com.snc.employee\_center\_pro\) license.
 
-Access all your information and services from a unified location from external applications such as Ultimate Kronos Group. Installation of the HR Service Delivery with the UKG plugin \(com.sn\_hr\_ukg\) provides a default setup of the UKG spoke. For more information, see [Integrate with the UKG spoke](../task/integrate-kiosk-kronos.md).
+Access all your information and services from a unified location from external applications such as Ultimate Kronos Group. Installation of the HR Service Delivery with the UKG plugin \(com.sn\_hr\_ukg\) provides a default setup of the UKG spoke. For more information, see [Integrate with the UKG spoke](integrate-kiosk-kronos.md).
 
 ## Prerequisites
 
@@ -66,13 +66,13 @@ This portal supports displaying timeoff balance, employee schedule, my requests,
 
 -   **[Employee Center Pro Kiosk benefits](deskless-kiosk-eck-benefits.md)**  
 Enable the field workers and shift workers with the in-context information for operational efficiency.
--   **[Configure Employee Center Pro Kiosk](../task/deskless-kiosk-config.md)**  
+-   **[Configure Employee Center Pro Kiosk](deskless-kiosk-config.md)**  
 Configure and use the default Kiosk for better deskless experience.
 -   **[Customize Employee Center Pro Kiosk widgets](emp-center-topic-inst-options.md)**  
 You can configure the widget instance options to control how data is displayed within the widget.
--   **[Configure the mail and SMS send to self](../task/deskless-kiosk-sendtoself-sms-email.md)**  
+-   **[Configure the mail and SMS send to self](deskless-kiosk-sendtoself-sms-email.md)**  
 Help employees access information easily by sending required information as an SMS or email.
--   **[Integrate with the UKG spoke](../task/integrate-kiosk-kronos.md)**  
+-   **[Integrate with the UKG spoke](integrate-kiosk-kronos.md)**  
 Integrate with the UKG spoke to use the Employee Center Pro Kiosk in your organization.
 -   **[Use Employee Center Pro Kiosk](deskless-eck-homepage.md)**  
 Use the Kiosk experience to self-serve, leading to improved productivity, and operational efficiencies for the organization.​

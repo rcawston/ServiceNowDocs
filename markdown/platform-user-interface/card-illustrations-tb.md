@@ -33,9 +33,9 @@ To override the default card illustrations with custom images, upload each image
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for card illustrations](../task/configure-card-colors.md)**  
+-   **[Configure colors for card illustrations](configure-card-colors.md)**  
 Configure and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
--   **[Override card illustrations with custom images](../task/override-card-with-custom-images.md)**  
+-   **[Override card illustrations with custom images](override-card-with-custom-images.md)**  
 Modify or override the default card illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
 **Parent Topic:**[Working with Image styles](working-with-image-styles.md)

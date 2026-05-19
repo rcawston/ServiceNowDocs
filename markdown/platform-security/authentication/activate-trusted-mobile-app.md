@@ -37,7 +37,7 @@ Role required: adaptive\_auth\_admin
 
 4.  Define the conditions in the Pre Authentication context.
 
-    For more information, [Pre authentication context](../concept/pre-auth-context.md).
+    For more information, [Pre authentication context](pre-auth-context.md).
 
     **Note:** By default, the policy condition is **Deny Policy**. You can change to **Allow Policy**. These policies are direct opposites.
 

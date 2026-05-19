@@ -103,7 +103,7 @@ This field should be left empty, as it’s no longer used.
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../../field-administration/concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](customize-fields-now-platform-landing.md)
 
 **Related topics**  
 

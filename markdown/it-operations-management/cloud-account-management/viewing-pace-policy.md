@@ -50,7 +50,7 @@ For each step, an entry is created in the **sn\_itom\_cam\_automation\_activity*
 
 These sections explain how to modify, test, and publish the automation policy.
 
--   [Automate General Approval policy process](../task/automate-account-creation-approval.md)
--   [Automate Budget Approval policy process](../task/automate-account-budget-approval.md)
--   [Automate Configuration Assignment policy process](../task/automate-account-creation-config-assign.md)
+-   [Automate General Approval policy process](automate-account-creation-approval.md)
+-   [Automate Budget Approval policy process](automate-account-budget-approval.md)
+-   [Automate Configuration Assignment policy process](automate-account-creation-config-assign.md)
 

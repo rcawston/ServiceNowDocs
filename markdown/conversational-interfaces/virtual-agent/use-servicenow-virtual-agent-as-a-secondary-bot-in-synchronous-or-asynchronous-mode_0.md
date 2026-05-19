@@ -15,16 +15,16 @@ breadcrumb: [Using ServiceNow Virtual Agent as a secondary bot with Virtual Agen
 
 Use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode with Bot Interconnect.
 
-You can use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode. See [Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](../task/enable-sync-mode-secondary-sn-bot.md) or [Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](../task/enable-async-mode-secondary-sn-bot.md).
+You can use ServiceNow Virtual Agent as a secondary bot in synchronous or asynchronous mode. See [Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](enable-sync-mode-secondary-sn-bot.md) or [Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](enable-async-mode-secondary-sn-bot.md).
 
--   **[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](../task/enable-sync-mode-secondary-sn-bot.md)**  
+-   **[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](enable-sync-mode-secondary-sn-bot.md)**  
 Enable synchronous mode on the secondary ServiceNow Virtual Agent instance to use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect.
--   **[Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](../task/enable-async-mode-secondary-sn-bot.md)**  
+-   **[Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance](enable-async-mode-secondary-sn-bot.md)**  
 Enable asynchronous mode on the secondary ServiceNow Virtual Agent instance to use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect.
 
 **Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
 **Previous topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
-**Next topic:**[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](../task/enable-sync-mode-secondary-sn-bot.md)
+**Next topic:**[Enable synchronous mode on the secondary ServiceNow Virtual Agent instance](enable-sync-mode-secondary-sn-bot.md)
 

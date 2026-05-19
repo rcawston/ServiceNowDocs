@@ -51,7 +51,7 @@ After the policy exception is submitted, as a compliance manager you can do the 
 
 9.  Click the **Send assessment** button.
 
-    Assessment is sent to the user selected in the pop-up. For more information, see [Assess risks and objects on an assessment instance](../../grc-risk/task/assessing-risks.md).
+    Assessment is sent to the user selected in the pop-up. For more information, see [Assess risks and objects on an assessment instance](../grc-risk-management-workspace/assessing-risks.md).
 
     After the assessment is complete, the **Risk rating** field on the policy exception form is auto-populated with the values configured in Policy exception risk rating mapping table.
 

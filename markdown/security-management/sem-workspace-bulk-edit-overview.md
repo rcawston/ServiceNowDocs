@@ -19,11 +19,11 @@ Roles required:
 
 You can perform the following tasks using the bulk edit feature in the Security Exposure Management Workspace:
 
--   [Assign records to an assignment group in bulk](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-assign.md)
--   [Request bulk exception in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-exception.md)
--   [Remove assignments for host vulnerable items in bulk](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-unassign.md)
--   [Bulk edit for false positive in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-false-positive.md)
--   [Close records in bulk in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-close-records.md)
+-   [Assign records to an assignment group in bulk](vulnerability-manager-workspace/vmws-bulk-edit-assign.md)
+-   [Request bulk exception in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-bulk-edit-request-exception.md)
+-   [Remove assignments for host vulnerable items in bulk](vulnerability-manager-workspace/vmws-bulk-edit-unassign.md)
+-   [Bulk edit for false positive in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md)
+-   [Close records in bulk in the Vulnerability Manager Workspace](vulnerability-manager-workspace/vmws-bulk-edit-close-records.md)
 
 -   **[Using bulk edit in the Security Exposure Management Workspace](sem-using-bulk-edit.md)**  
 In the Security Exposure Management Workspace, you can update the state of the records, request exceptions and false positives, and assign records to an assignment group multiple findings simultaneously using the bulk edit feature.

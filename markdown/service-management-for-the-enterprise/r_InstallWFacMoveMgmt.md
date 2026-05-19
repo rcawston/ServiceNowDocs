@@ -34,5 +34,5 @@ A business rule is a server-side script that runs when a record is displayed, in
 -   **[Workflows installed with Facilities Move Management](r_WrkflwsInstallWFacMoveMgmt.md)**  
 Workflows provide a drag-and-drop interface for automating multi-step processes.
 
-**Parent Topic:**[Activate Facilities Move Management](../task/t_ActivateFacMoveMgmt.md)
+**Parent Topic:**[Activate Facilities Move Management](t_ActivateFacMoveMgmt.md)
 

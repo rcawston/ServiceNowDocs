@@ -56,15 +56,15 @@ For the purposes of configuring access for AWS accounts, the following terms are
 Typically, you set up access to the AWS accounts in your organization using the following methods:
 
 -   **Configuring access for a single account**
-    -   Configure AWS credentials on the ServiceNow AI Platform to avoid the complexity of creating and setting up IAM roles. For more information, see [Configure access to the AWS accounts using permanent AWS credentials](../task/aws-create-creds-cloud-mgt.md).
-    -   Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](../task/create-aws-service-accounts.md).
+    -   Configure AWS credentials on the ServiceNow AI Platform to avoid the complexity of creating and setting up IAM roles. For more information, see [Configure access to the AWS accounts using permanent AWS credentials](aws-create-creds-cloud-mgt.md).
+    -   Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](create-aws-service-accounts.md).
 -   **Configuring access for an account that trusts an accessor account with AWS credentials**
 
     ![Set up the IAM role of the trusting AWS account to trust the user of the trusted AWS account for access](../image/aws-any-account-trusted-with-credentials.png "Setting up any AWS account to rely on a trusted account with AWS credentials")
 
     -   Configure any type of account—discrete \(independent\), management, or member—to rely on a trusted account with AWS credentials for access.
     -   Configuring an IAM role belonging to the trusting accounts to trust the user of the trusted account enables using only one set of AWS credentials for providing access to multiple AWS accounts.
-    For more information, see [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../task/configure-iam-role-aws-account.md).
+    For more information, see [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](configure-iam-role-aws-account.md).
 
 -   **Configuring access for an account that trusts an accessor account without AWS credentials**
 
@@ -73,16 +73,16 @@ Typically, you set up access to the AWS accounts in your organization using the 
     -   Configure any type of account—discrete \(independent\), management, or member—to rely on a trusted account without AWS credentials for access.
     -   Configure an account without AWS credentials using an IAM role and permissions to access the trusting service account.
     -   Set up the IAM role of the trusting account to grant access to the IAM role of the trusted account.
-    For more information, see [Configure access using temporary credentials based on trusted AWS accounts without AWS credentials](../task/aws-trusted-credential-less.md).
+    For more information, see [Configure access using temporary credentials based on trusted AWS accounts without AWS credentials](aws-trusted-credential-less.md).
 
 -   **Configuring access for AWS member accounts by using a trust chain from the accessor through the management account.**
 
     ![Set up the IAM role of the trusting member accounts to trust their management account](../image/aws-member-account-trusted-with-credentials.png "Configuring member accounts to use their management account for access")
 
-    -   Configure the IAM roles of the member accounts to trust the IAM role of their management account. For more information, see [Configure access using temporary credentials for trusting AWS member accounts in management-accessor trust chain](../task/configure-iam-role-aws-member.md).
+    -   Configure the IAM roles of the member accounts to trust the IAM role of their management account. For more information, see [Configure access using temporary credentials for trusting AWS member accounts in management-accessor trust chain](configure-iam-role-aws-member.md).
     -   Configure the management accounts to trust the accessor accounts with or without AWS credentials. For more information, see:
-        -   [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../task/configure-iam-role-aws-account.md).
-        -   [Configure access using temporary credentials based on trusted AWS accounts without AWS credentials](../task/aws-trusted-credential-less.md).
+        -   [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](configure-iam-role-aws-account.md).
+        -   [Configure access using temporary credentials based on trusted AWS accounts without AWS credentials](aws-trusted-credential-less.md).
 
 ## How Cloud Discovery determines which credentials to use
 

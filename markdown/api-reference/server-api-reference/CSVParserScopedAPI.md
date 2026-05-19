@@ -17,7 +17,7 @@ The CSVParser API provides methods for parsing comma-separated value \(CSV\) for
 
 This API runs in the `sn_impex` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CSVParser - parseLineToArray\(String cvsLine, String delimiter, String quoteCharacter\)
 

@@ -36,9 +36,9 @@ The following example displays the life cycle of a case task.
 
 ![Life cycle of a case task.](../image/case-task-workflow.png "Case task workflow")
 
--   **[Create an action task](../task/create-a-case-task.md)**  
+-   **[Create an action task](create-a-case-task.md)**  
 Create an action task to investigate, gather evidence, and perform an assessment so that you can analyze and assess a reported case in the GRC: Compliance Case Management application. Each case can have multiple case tasks that you can assign to different owners across multiple teams.
--   **[Work on an action task](../task/work-on-compliance-case-task.md)**  
+-   **[Work on an action task](work-on-compliance-case-task.md)**  
 Accept the Action task, provide the details requested by the case analyst, and submit the Action task for a review in the GRC: Compliance Case Management application. When an action task is assigned to an assignment group, any user from the assignment group can accept and work on the task.
 
 **Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)

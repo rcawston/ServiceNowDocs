@@ -110,25 +110,25 @@ Reverse provisional credit
 Reverse the temporary credit issued by the bank to the account holder in case of denial.
 
 </td></tr></tbody>
-</table>-   **[Evaluate merchant analysis](../task/fso-ach-evaluate-merchant.md)**  
+</table>-   **[Evaluate merchant analysis](fso-ach-evaluate-merchant.md)**  
 Evaluate a merchant's credibility to determine whether the transaction is legitimate or potentially fraudulent before deciding on a resolution.
--   **[Issue provisional credit to customer](../task/fso-ach-provide-credit.md)**  
+-   **[Issue provisional credit to customer](fso-ach-provide-credit.md)**  
 Provide a temporary provisional credit to the account holder while the ACH dispute is investigated.
--   **[Evaluate Nacha operating guidelines](../task/fso-ach-evaluate-nacha.md)**  
+-   **[Evaluate Nacha operating guidelines](fso-ach-evaluate-nacha.md)**  
 Evaluate the Nacha \(National Automated Clearing House Association\) operating guidelines to ensure that the ACH dispute qualifies for potential reimbursement.
--   **[Review ACH dispute return recommendation](../task/fso-ach-review-recommendation.md)**  
+-   **[Review ACH dispute return recommendation](fso-ach-review-recommendation.md)**  
 Review the ACH dispute information based on merchant analysis and Nacha eligibility recommendations and determine the final action.
--   **[Dispute communication initiation](../task/fso-ach-dispute-communication.md)**  
+-   **[Dispute communication initiation](fso-ach-dispute-communication.md)**  
 Initiate customer communication after the final decision on ACH dispute resolution is completed.
--   **[Verify customer supporting documents](../task/fso-ach-verify-customer-documents.md)**  
+-   **[Verify customer supporting documents](fso-ach-verify-customer-documents.md)**  
 After following up with the customer to request further documentation about the dispute, verify the supporting documents that you received.
--   **[Verify ODFI supporting documents](../task/fso-ach-verify-odfi.md)**  
+-   **[Verify ODFI supporting documents](fso-ach-verify-odfi.md)**  
 After following up with the Originating Depository Financial Institution \(ODFI\) to request further documentation about the dispute, verify the supporting documents that you received.
--   **[File ACH return](../task/fso-ach-file-refund.md)**  
+-   **[File ACH return](fso-ach-file-refund.md)**  
 File a return to ODFI for a disputed transaction if it has been determined to be eligible for a refund.
--   **[Settle payment with customer](../task/fso-ach-settle-payment.md)**  
+-   **[Settle payment with customer](fso-ach-settle-payment.md)**  
 Complete the financial adjustment so the customer receives the correct funds after the dispute is resolved.
--   **[Reverse provisional credit](../task/fso-ach-dispute-reverse-provisional.md)**  
+-   **[Reverse provisional credit](fso-ach-dispute-reverse-provisional.md)**  
 Reverse the temporary credit issued by the bank to the account holder.
 
 **Parent Topic:**[Resolving ACH disputes](work-dispute-ach.md)

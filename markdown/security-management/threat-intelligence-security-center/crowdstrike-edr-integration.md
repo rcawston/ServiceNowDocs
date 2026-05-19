@@ -18,9 +18,9 @@ Configure CrowdStrike Falcon EDR integration to enable continuous endpoint monit
 
 This integration streamlines security operations.
 
--   **[Configure Crowdstrike Falcon EDR integration](../task/config-cs-edr-integration.md)**  
+-   **[Configure Crowdstrike Falcon EDR integration](config-cs-edr-integration.md)**  
 Download and configure the CrowdStrike Falcon EDR integration to enable endpoint detection and response capabilities in your ServiceNow instance.
--   **[Send observables to EDR](../task/send-to-edr.md)**  
+-   **[Send observables to EDR](send-to-edr.md)**  
 Send observables to the EDR security tool.
 
 **Parent Topic:**[TISC Security Tools integrations](tisc-edr-integrations.md)

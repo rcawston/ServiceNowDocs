@@ -123,7 +123,7 @@ All scores collected after a start date. If you select Specific starting date, a
 **Related topics**  
 
 
-[Performance Analytics scores forecasts](../../performance-analytics/concept/c_ForecastingData.md#)
+[Performance Analytics scores forecasts](performance-analytics/c_ForecastingData.md#)
 
 ## Forecast methods
 

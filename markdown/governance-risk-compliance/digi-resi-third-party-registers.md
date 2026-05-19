@@ -29,7 +29,7 @@ The Digital resilience third-party registers application enables the customers t
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with Digital resilience third-party registers](../reference/digi-resi-ref.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with Digital resilience third-party registers](digi-resi-ref.md)
 
 </td></tr></tbody>
 </table>

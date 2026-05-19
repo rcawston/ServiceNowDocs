@@ -30,5 +30,5 @@ Role required: sn\_ohs\_im.requestor
     -   In the **Browse from all topics** section on the page, tap **Safety knowledge articles** and then tap the required knowledge article.
     -   In the **Safety knowledge articles** section on the page, tap the required knowledge article.
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

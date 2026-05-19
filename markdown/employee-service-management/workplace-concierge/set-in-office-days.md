@@ -84,7 +84,7 @@ The portal homepage opens.
 
 You have set your in-office days. At any time, you can modify your selection, for more information, refer to [Update your in-office days](update-your-in-office-days.md).
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](use-workplace-concierge.md)
 
 **Related topics**  
 
@@ -97,5 +97,5 @@ You have set your in-office days. At any time, you can modify your selection, fo
 
 [Update your in-office days as exceptions](update-in-office-days-exceptions.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](manage-presence-privacy-settings.md#)
 

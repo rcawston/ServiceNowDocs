@@ -19,7 +19,7 @@ Work on a treasury case to collect applicant information, ensure that any outsta
 
 Role required: sn\_bom\_treasury.agent or sn\_bom\_treasury.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -64,5 +64,5 @@ Use the case playbook that provides the activities and tasks required to researc
 -   The treasury case automatically updates to show Closed Complete.
 -   The customer receives a treasury service activation email.
 
-**Parent Topic:**[Using Financial Services Treasury Operations](../concept/using-treasury-ops.md)
+**Parent Topic:**[Using Financial Services Treasury Operations](using-treasury-ops.md)
 

@@ -144,7 +144,7 @@ Description
 
 </td><td>
 
-Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for the variable differ between the changesets. See [Types of differences between CDM applications](../reference/cdm-cda-diff-types.md) for the full list of difference types and their causes.
+Statement of how the changesets differ. For example, the text might indicate that a CDI appears only in the reference changeset or that the values for the variable differ between the changesets. See [Types of differences between CDM applications](cdm-cda-diff-types.md) for the full list of difference types and their causes.
 
 </td></tr><tr><td>
 

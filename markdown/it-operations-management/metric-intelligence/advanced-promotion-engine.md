@@ -19,7 +19,7 @@ The Advanced Promotion Engine moves the most relevant alerts from the list of an
 
 The All Alerts table is the table that contains the issues that need your immediate attention. The anomaly alerts on the different metrics within a CI in a specific time period indicate an issue that needs to be promoted to the All Alerts table.
 
-Anomaly alerts indicate a deviation from projected metric values for monitored CIs. For details, see [View anomaly alerts](../../event-management/task/view-metrics-anomaly-alerts.md).
+Anomaly alerts indicate a deviation from projected metric values for monitored CIs. For details, see [View anomaly alerts](view-metrics-anomaly-alerts.md).
 
 The Advanced Promotion Engine is activated automatically as part of the Metric Intelligence application.
 
@@ -27,5 +27,5 @@ You can use the Advanced Promotion Engine definitions that come with the base sy
 
 All Advanced Promotion Engine tasks require the evt\_mgmt\_admin role. The evt\_mgmt\_user role enables you to view definitions and properties only.
 
-**Parent Topic:**[Exploring Metric Intelligence](../../metric-intelligence/concept/exploring-metric-intelligence.md)
+**Parent Topic:**[Exploring Metric Intelligence](exploring-metric-intelligence.md)
 

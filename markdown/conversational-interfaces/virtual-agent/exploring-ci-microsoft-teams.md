@@ -28,9 +28,9 @@ Ensure that you have a Microsoft 365 account with admin privileges \(admin.micro
 
 ![Workflow describing the sequence of processes carried out in Conversational Integration with Microsoft Teams.](../images/workflow-ci-ms-teams.png "Workflow of Conversational Integration with Microsoft Teams")
 
-1.  [Install Conversational Integration with Microsoft Teams](../task/teams-install.md).
+1.  [Install Conversational Integration with Microsoft Teams](teams-install.md).
 2.  Add integrations.
-    -   **[Integrate with Virtual Agent](../task/va-integ-msteams.md).**
+    -   **[Integrate with Virtual Agent](va-integ-msteams.md).**
 
         Manage and configure Virtual Agent settings.
 
@@ -45,9 +45,9 @@ Ensure that you have a Microsoft 365 account with admin privileges \(admin.micro
 
 To learn more about configuring and using Conversational Integration with Microsoft Teams, see:
 
--   [Configure Virtual Agent for Microsoft Teams](../task/configure-va-msteams-settings.md).
+-   [Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md).
 -   .
--   [Integrate Now Assist in Virtual Agent with Microsoft Teams](../../now-assist-in-va/concept/integrating-now-assist-va-msteams.md).
+-   [Integrate Now Assist in Virtual Agent with Microsoft Teams](../now-assist-in-virtual-agent/integrating-now-assist-va-msteams.md).
 -   [Integrate Now Assist in Virtual Agent with Microsoft Copilot](ms-copilot-na-va.md).
 
 For more information about integrating Microsoft Copilot with Now Assist, see the following ServiceNow blog and community articles:
@@ -55,7 +55,7 @@ For more information about integrating Microsoft Copilot with Now Assist, see th
 -   [https://www.servicenow.com/blogs/2024/now-assist-microsoft-copilot](https://www.servicenow.com/blogs/2024/now-assist-microsoft-copilot)
 -   [https://www.servicenow.com/community/virtual-agent-nlu-articles/microsoft-copilot-integration-with-now-assist-faq-zurich-release/ta-p/3048238](https://www.servicenow.com/community/virtual-agent-nlu-articles/microsoft-copilot-integration-with-now-assist-faq-zurich-release/ta-p/3048238)
 
--   **[Plugins for Conversational Integration with Microsoft Teams](../reference/addtional-plugins-msteams.md)**  
+-   **[Plugins for Conversational Integration with Microsoft Teams](addtional-plugins-msteams.md)**  
 Activate the Glide Virtual Agent \[com.glide.cs.chatbot\] plugin, the Conversational Integration with Microsoft Teams \[sn\_va\_teams\] plugin, and verify its additional plugins to enable other features for conversation design.
 
 **Parent Topic:**[Conversational Integration with Microsoft Teams](teams-conv-integration.md)

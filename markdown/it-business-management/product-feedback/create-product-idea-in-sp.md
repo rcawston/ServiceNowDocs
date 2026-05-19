@@ -33,7 +33,7 @@ User-created product ideas help in identifying focus areas of a product. These p
 
 4.  On the form, fill in the fields.
 
-    For more information on fields and description, see [Product idea form](../reference/product-idea-form.md).
+    For more information on fields and description, see [Product idea form](product-idea-form.md).
 
 5.  Select **Submit**.
 

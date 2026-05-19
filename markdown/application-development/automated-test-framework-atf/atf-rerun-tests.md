@@ -31,11 +31,11 @@ The **Re-run failed tests** button re-runs all non-passing tests, which includes
 
 2.  Click **Re-run failed tests**.
 
-    If the re-run tests include a form step \(any step involving a UI\) or other kinds of [UI test steps](../concept/ui-test-steps.md), the [Pick a Browser](atf-pick-a-browser.md) dialog appears before executing the tests.
+    If the re-run tests include a form step \(any step involving a UI\) or other kinds of [UI test steps](ui-test-steps.md), the [Pick a Browser](atf-pick-a-browser.md) dialog appears before executing the tests.
 
 3.  In the dialog box, choose among any currently running test clients or start a new runner.
 
-    If the re-run tests include only server test steps, the system executes the tests without displaying the Pick a Browser dialog. For more information, review [Browser recommendations for all tests and suites](../concept/atf-test-runners.md#kvv_h25_gx) and [Server test steps](../concept/server-test-steps.md).
+    If the re-run tests include only server test steps, the system executes the tests without displaying the Pick a Browser dialog. For more information, review [Browser recommendations for all tests and suites](atf-test-runners.md#kvv_h25_gx) and [Server test steps](server-test-steps.md).
 
 
 ## Result
@@ -48,7 +48,7 @@ The system re-runs the failed tests.
 
 ## What to do next
 
-To view the results from the previous run of a test or suite, click **Previous test result** on the [test result form](../reference/atf-test-results-record.md) or **Previous suite result** on the test [suite result form](../reference/atf-test-suite-results-record.md). These fields only appear for tests and suites that have been re-run.
+To view the results from the previous run of a test or suite, click **Previous test result** on the [test result form](atf-test-results-record.md) or **Previous suite result** on the test [suite result form](atf-test-suite-results-record.md). These fields only appear for tests and suites that have been re-run.
 
-**Parent Topic:**[Building and running automated test suites](../concept/atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
 

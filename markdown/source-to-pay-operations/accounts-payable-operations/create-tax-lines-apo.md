@@ -69,5 +69,5 @@ The tax status field in the invoice record is used to track the current status o
 
 [Approval Plan form](approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](apo-glossary.md#)
 

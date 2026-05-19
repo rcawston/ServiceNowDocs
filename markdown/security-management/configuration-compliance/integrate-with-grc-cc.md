@@ -25,7 +25,7 @@ You can also request exceptions in the classic UI.
 
 ## About this task
 
-**Important:** As an admin and a remediation owner, you can request a policy exception for a Remediation Task \(RT\) in the [Vulnerability Manager Workspace](../../vulnerability-response/concept/vr-ws-exceptions-split-VMGR-ws.md) and [IT Remediation Workspace](../../vulnerability-response/task/vr-ws-request-exception-grc.md) respectively.
+**Important:** As an admin and a remediation owner, you can request a policy exception for a Remediation Task \(RT\) in the [Vulnerability Manager Workspace](../vulnerability-manager-workspace/vr-ws-exceptions-split-VMGR-ws.md) and [IT Remediation Workspace](../it-remediation-workspace/vr-ws-request-exception-grc.md) respectively.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 

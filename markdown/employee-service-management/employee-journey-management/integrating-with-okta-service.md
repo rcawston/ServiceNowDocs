@@ -17,7 +17,7 @@ Automatically provision relevant applications for new hires as part of the onboa
 
 ## Setting up the Okta integration
 
-To set up the Okta integration for new hire onboarding, you must first set up the Okta spoke v1.1.1, next fetch the Okta groups into your instance, and last configure the relevant business roles. For details on how to set up the integration, see [Set up the Okta integration for new hire onboarding](../task/set-up-okta-integration-for-new-hire-onboarding.md).
+To set up the Okta integration for new hire onboarding, you must first set up the Okta spoke v1.1.1, next fetch the Okta groups into your instance, and last configure the relevant business roles. For details on how to set up the integration, see [Set up the Okta integration for new hire onboarding](set-up-okta-integration-for-new-hire-onboarding.md).
 
 ## Using the Okta integration with new hire onboarding
 
@@ -37,7 +37,7 @@ The application provisioning process works as follows. When an onboarding case i
 
 **Important:** New hires must have a user record in the Okta system in order for their applications to be provisioned to them.
 
--   **[Set up the Okta integration for new hire onboarding](../task/set-up-okta-integration-for-new-hire-onboarding.md)**  
+-   **[Set up the Okta integration for new hire onboarding](set-up-okta-integration-for-new-hire-onboarding.md)**  
 To set up the Okta integration for new hire onboarding, you must first set up the Okta spoke v1.1.1, next fetch the Okta groups into your instance, and last configure the required business roles.
 
 **Parent Topic:**[Lifecyle events for enterprise integrations](onbrd-trans-integrations.md)

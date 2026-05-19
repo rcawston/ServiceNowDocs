@@ -65,7 +65,7 @@ Description
 2.  Filter the Name field to locate the **Migrate budget for active demands and projects** scheduled job and open it.
 3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
-For a description of the field names, see [Scheduled Script Execution Form](../reference/scheduled-script-execution-form.md).
+For a description of the field names, see [Scheduled Script Execution Form](scheduled-script-execution-form.md).
 
 4.  Select **Update**.
 
@@ -95,7 +95,7 @@ For a description of the field names, see [Scheduled Script Execution Form](../r
 
 [Create an expense line](t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](c_CreateAndManageWaterfallProjects.md)
 
 [Schedule a project from a start date](schedule-a-project-pm.md)
 
@@ -117,7 +117,7 @@ For a description of the field names, see [Scheduled Script Execution Form](../r
 
 [Create a cost type definition](t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](c_ProjectManagementCostingAddOn.md)
 
 [Generate labor costs](gen-cost-pln-prj-wrkspc.md)
 

@@ -95,7 +95,7 @@ The system administrator can enable post case review documents for major cases b
 **Related topics**  
 
 
-[Create a post case review](../task/create-case-review-document.md)
+[Create a post case review](create-case-review-document.md)
 
-[Create a post case review for a major case](../task/create-case-review-document-mim.md)
+[Create a post case review for a major case](create-case-review-document-mim.md)
 

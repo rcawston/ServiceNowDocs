@@ -19,7 +19,7 @@ Use this when you want to use Notify functionality with applications on your sys
 
 **Note:** This API is included with the legacy Notify functionality. For APIs included in the current Notify feature, see the Notify, NotifyAction, NotifyPhoneNumber, and NotifyClient APIs.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NotifyNow - addConferenceCallParticipant\(String conferenceCall, String participant\)
 

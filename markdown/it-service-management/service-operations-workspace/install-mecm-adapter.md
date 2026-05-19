@@ -31,7 +31,7 @@ The following items are installed with Microsoft Endpoint Configuration Manager 
 -   Store applications
 -   Roles
 
-For more information, see [Components installed with Microsoft Endpoint Configuration Manager for Investigation](../reference/components-installed-mecm-adapter.md).
+For more information, see [Components installed with Microsoft Endpoint Configuration Manager for Investigation](components-installed-mecm-adapter.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information, see [Components installed with Microsoft Endpoint Configur
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](../concept/set-up-investigate-fw-mecm.md)
+**Parent Topic:**[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](set-up-investigate-fw-mecm.md)
 

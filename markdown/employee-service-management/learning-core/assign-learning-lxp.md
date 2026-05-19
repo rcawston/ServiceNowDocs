@@ -37,7 +37,7 @@ Role required: sn\_lc.learning\_manager
 4.  Select **Assign**.
 
 
-**Parent Topic:**[Using My Learning](../concept/manage-your-learning.md)
+**Parent Topic:**[Using My Learning](manage-your-learning.md)
 
 **Related topics**  
 
@@ -46,13 +46,13 @@ Role required: sn\_lc.learning\_manager
 
 [Resume a course](resume-course.md)
 
-[Create a personal course collection](../concept/create-personal-collection.md)
+[Create a personal course collection](create-personal-collection.md)
 
-[Create a Learning challenge](../concept/learning-challenge.md)
+[Create a Learning challenge](learning-challenge.md)
 
-[View recent activity](../concept/view-recent-activity-lxp.md)
+[View recent activity](view-recent-activity-lxp.md)
 
-[Manage Learning](../concept/manage-learning-achievements.md)
+[Manage Learning](manage-learning-achievements.md)
 
-[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+[Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

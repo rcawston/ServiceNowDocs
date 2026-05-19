@@ -23,12 +23,12 @@ Gamification includes several predefined badges. Each badge includes:
 
 Gamification administrators and moderators can award badges to community users and also remove badges. A badge can be awarded to a user one time. If a badge is removed from a user, it can be awarded to that user again.
 
-Earned badges are visible in the community portal in the [gamification user interface components](../concept/communities-gamification-UI.md). Community users can see earned badges and available badges on their own user profile page in the Achievements tab.
+Earned badges are visible in the community portal in the [gamification user interface components](communities-gamification-UI.md). Community users can see earned badges and available badges on their own user profile page in the Achievements tab.
 
 **Parent Topic:**[Gamification components](gamification-components.md)
 
 **Related topics**  
 
 
-[Create a gamification badge](../task/gamification-create-badge.md)
+[Create a gamification badge](gamification-create-badge.md)
 

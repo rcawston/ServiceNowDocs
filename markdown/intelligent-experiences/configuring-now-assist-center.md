@@ -14,9 +14,9 @@ breadcrumb: [Now Assist Center, Enable AI experiences]
 
 Install and configure settings for Now Assist Center.
 
--   **[Confirm installation of Now Assist Center](../task/now-assist-center-install.md)**  
+-   **[Confirm installation of Now Assist Center](now-assist-center-install.md)**  
 Confirm the installation of the Now Assist Center application.
--   **[Enable the Now Assist panel](../task/now-assist-center-enable-now-assist-panel.md)**  
+-   **[Enable the Now Assist panel](now-assist-center-enable-now-assist-panel.md)**  
 Enable the Now Assist panel to have your AI companion perform setup, configuration, and administrative tasks more quickly using natural language prompts.
 -   **[Set up automation discovery in Now Assist Center](now-assist-center-automation-discovery-setup.md)**  
 Configure the data sources, filters, and schedule that AI Agent Advisor uses to analyze your instance and identify automation opportunities.

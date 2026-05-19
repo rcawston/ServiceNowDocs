@@ -41,5 +41,5 @@ See [Imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/austra
 
 Import and Export is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[ServiceNow AI Platform capabilities release notes](../now-platform-capabilities/now-platform-capabilities-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](now-platform-capabilities-rn-landing.md)
 

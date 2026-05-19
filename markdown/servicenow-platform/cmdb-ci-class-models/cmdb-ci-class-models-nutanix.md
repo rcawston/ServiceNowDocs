@@ -31,7 +31,7 @@ The Nutanix Enterprise Cloud platform is a converged, scale-out compute and stor
 
 This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class.
 
-CMDB CI Class Models: Release 1.6.0 adds the following classes for Nutanix. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: Release 1.6.0 adds the following classes for Nutanix. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 <table id="table_qnc_3b5_rkb"><thead><tr><th>
 
@@ -830,5 +830,5 @@ Number of maintained data copies. The replication factor is specified \(2 or 3\)
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

@@ -28,7 +28,7 @@ Role required: data\_privacy\_processor and admin
 
 1.  Elevate to the **data\_privacy\_processor** role.
 
-    For details on role elevation, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Data Privacy Job**.
 

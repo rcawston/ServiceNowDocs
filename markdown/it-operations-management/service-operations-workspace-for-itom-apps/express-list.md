@@ -49,7 +49,7 @@ The **Info** tab on the preview panel displays the following information for a s
 -   Last Updated
 -   Impacted services
 
-    For more information, see [View data on impacted services on the preview panel in Express List](../task/el-impacted-services-data.md).
+    For more information, see [View data on impacted services on the preview panel in Express List](el-impacted-services-data.md).
 
 -   Additional info
 -   Custom field
@@ -90,5 +90,5 @@ Default time ranges can be defined by your administrator using the system proper
 **Related topics**  
 
 
-[Roles used by Express List](../reference/roles-used-by-express-list.md)
+[Roles used by Express List](roles-used-by-express-list.md)
 

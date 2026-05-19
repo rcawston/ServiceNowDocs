@@ -17,7 +17,7 @@ Connect to your Jenkins instance using the DevOps Change Workspace playbook to d
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](setting-up-devops-change-velocity.md) topic.
 
 Install and enable the **ServiceNow DevOps** plugin for Jenkins. If you've already installed it, update to the latest version. For instructions, see [Configure Jenkins plugin](configure-jenkins-plugin.md#).
 
@@ -96,7 +96,7 @@ Steps
 
 5.  Permission checks are run on the credentials that you entered.
 
-    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jenkins permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+    Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jenkins permissions in [Permissions required for DevOps tools](tool-req-permission.md).
 
     You can choose to continue with the tool connection even if you don't have all the required permissions.
 
@@ -144,7 +144,7 @@ Steps
 
     To configure webhooks manually in Jenkins, see [Configure webhooks manually for Jenkins](configure-jenkins-plugin.md#).
 
-    You can also choose to enable nightly polling to retrieve data for any tracked pipelines by selecting the **Enable Polling** property option in the **Administration** module. See [DevOps Change Velocity properties](../concept/dev-ops-administration.md).
+    You can also choose to enable nightly polling to retrieve data for any tracked pipelines by selecting the **Enable Polling** property option in the **Administration** module. See [DevOps Change Velocity properties](dev-ops-administration.md).
 
     **Important:**
 
@@ -175,7 +175,7 @@ Steps
 
 You’ve successfully onboarded your Jenkins tool to DevOps Change Velocity.
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](../concept/jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](jenkins-integration-dev-ops.md)
 
 **Related topics**  
 

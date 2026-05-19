@@ -57,5 +57,5 @@ Click **Submit**. You can't return to the questionnaire after submitting. **Note
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Survey questionnaires](../concept/c_SurveyQuestionnairesForUsers.md)
+**Parent Topic:**[Survey questionnaires](c_SurveyQuestionnairesForUsers.md)
 

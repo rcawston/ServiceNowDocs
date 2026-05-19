@@ -44,5 +44,5 @@ Role required: sn\_privacy.manager
 
 The assessment is sent to the entity owners.
 
-**Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](../concept/trigger-privacy-assessmt-on-entities.md)
+**Parent Topic:**[Initiating privacy assessments for an entity or a processing activity](trigger-privacy-assessmt-on-entities.md)
 

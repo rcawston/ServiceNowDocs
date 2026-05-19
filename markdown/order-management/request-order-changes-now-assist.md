@@ -62,10 +62,10 @@ When you submit a request through the Virtual Assistant, the AI agent performs t
     The AI agent creates an order case with a system-generated number starting with the prefix ORDCS. It also provides the order case link that you can select to view the order case details on the Business Portal.
 
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Sales Force Automation \(SFA\)](../../now-assist-som/task/configure-now-assist-som.md)
+[Configure Now Assist for Sales Force Automation \(SFA\)](configure-now-assist-som.md)
 

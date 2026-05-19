@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md)
+**Parent Topic:**[Customizing Essential SAFe dashboard reports](customizing-safe-dashboard-reports.md)
 

@@ -36,5 +36,5 @@ The chemical library is displayed containing a list of chemicals, its manufactur
 
 You can use the chemical library to search for chemicals by name or keyword, and access the chemical record. The chemical record lets you view detailed information, including chemical identity, ingredients, concentrations, hazard data, first aid, and related safety documents. For information on creating a chemical request, see [Create a chemical request from the Employee Center](hs-create-chemical-request-ec.md).
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

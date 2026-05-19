@@ -184,7 +184,7 @@ The highest priority issues are listed in the Issues by priority section of the 
 **Related topics**  
 
 
-[TPRM Home page](../../grc-workspace-vrm/concept/tprm-ws-home-page.md)
+[TPRM Home page](tprm-ws-home-page.md)
 
 [Create an issue generation rule](tprm-generate-issue-rule.md)
 

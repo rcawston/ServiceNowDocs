@@ -42,5 +42,5 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
     For more information about user-space mapping and validation, see [Create a schedule plan](create-schedule-plan.md).
 
 
-**Parent Topic:**[Working with Schedule Planning](../concept/working-with-schedule-planning.md)
+**Parent Topic:**[Working with Schedule Planning](working-with-schedule-planning.md)
 

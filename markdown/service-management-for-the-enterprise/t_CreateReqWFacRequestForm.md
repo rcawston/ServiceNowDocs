@@ -162,5 +162,5 @@ Provides a checklist of tasks that must be completed before the case is closed.C
     ![Task form for a facilities request.](../image/WarrantyCheck.png)
 
 
-**Parent Topic:**[Facilities request creation](../reference/r_FacilitiesRequestCreation.md)
+**Parent Topic:**[Facilities request creation](r_FacilitiesRequestCreation.md)
 

@@ -38,5 +38,5 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
     **Note:** In a similar way, you can associate a security tool instance with an orchestration tool or pipeline record. You can navigate to the orchestration tool or pipeline record, and from the Security tools tab, you can select **Associate**. In the dialog boxes that are displayed, you can select the security tool instances to associate and then copy the custom action to add it in the corresponding pipeline step.
 
 
-**Parent Topic:**[Checkmarx integration with DevOps Change Velocity](../concept/checkmarx-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Checkmarx integration with DevOps Change Velocity](checkmarx-integration-with-devops-change-velocity.md)
 

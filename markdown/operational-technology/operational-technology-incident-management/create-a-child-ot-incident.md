@@ -45,5 +45,5 @@ Fields that are copied over to the child incident are configured by using the **
 
 Now, you can view and edit the child incident in the parent incident record.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 

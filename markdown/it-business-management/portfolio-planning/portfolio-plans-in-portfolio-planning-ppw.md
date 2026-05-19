@@ -35,7 +35,7 @@ Using the Hierarchy view, review the work pipeline and drill down to the low-lev
 
 For example, as an EPMO, you can view the epics associated with each program.
 
-You can use Programs \(pm\_program\) from the Project Program lens to create high-level portfolio plans. See [Create a high-level portfolio plan](../task/create-high-level-portfolio-plan-ppw.md).
+You can use Programs \(pm\_program\) from the Project Program lens to create high-level portfolio plans. See [Create a high-level portfolio plan](create-high-level-portfolio-plan-ppw.md).
 
 Here's a sample portfolio plan that shows a few programs of the company and the low-level work \(projects and demands\) that are aligned with them.![High-level portfolio plan hierarchy view.](../images/high-level-planning-programs-view.png)
 

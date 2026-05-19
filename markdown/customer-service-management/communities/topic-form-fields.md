@@ -28,7 +28,7 @@ Set fields on the form to create a new topic.
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](quick-start-tests-communities.md)
 
 [Properties installed with Communities](communities-properties.md)
 
@@ -38,5 +38,5 @@ Set fields on the form to create a new topic.
 
 [Video Configurations form fields](video-configurations-form-fields.md)
 
-[Create a topic](../task/create-topic.md)
+[Create a topic](create-topic.md)
 

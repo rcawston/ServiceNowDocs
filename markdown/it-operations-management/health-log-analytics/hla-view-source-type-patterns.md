@@ -37,5 +37,5 @@ Role required: evt\_mgmt\_admin
     |Domain|The domain to which the pattern belongs.|
 
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)
 

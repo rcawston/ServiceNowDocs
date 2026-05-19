@@ -39,7 +39,7 @@ If **Enable filter** is enabled in the instance options, users can add custom co
 
 ![Condition builder has the following parameters: Priority = critical, Category = Network. The list shows only three times.](../image/WidgetDataTableFilter.png "Data Table URL with condition builder")
 
-For more information on using the condition builder, see [Create a filter in List](../../../use/using-lists/task/t_CreatingFilters.md).
+For more information on using the condition builder, see [Create a filter in List](../t_CreatingFilters.md).
 
 **Note:** The condition builder is only available in the desktop view.
 
@@ -48,9 +48,9 @@ For more information on using the condition builder, see [Create a filter in Lis
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

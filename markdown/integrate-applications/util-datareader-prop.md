@@ -20,5 +20,5 @@ Learn about the properties of the Data Reader components in RPA Desktop Design S
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Data Reader](../concept/datareader-utility.md)
+**Parent Topic:**[Data Reader](datareader-utility.md)
 

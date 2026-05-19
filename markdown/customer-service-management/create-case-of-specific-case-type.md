@@ -19,13 +19,13 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-The types of cases that agents can create depend on the configuration of the [customer service case types](../concept/customer-service-case-types.md) and [service definitions](../concept/csm-service-definitions.md) features. For more information, see the following topics:
+The types of cases that agents can create depend on the configuration of the [customer service case types](customer-service-case-types.md) and [service definitions](csm-service-definitions.md) features. For more information, see the following topics:
 
 -   [Configure customer service case types](configure-csm-case-types.md)
--   [Manage customer service case types](../concept/manage-csm-case-types.md)
--   [Configuring service definitions](../concept/csm-service-definitions-configure.md)
+-   [Manage customer service case types](manage-csm-case-types.md)
+-   [Configuring service definitions](csm-service-definitions-configure.md)
 
-In CSM Configurable Workspace, agents use the [Case type selector](../concept/csm-case-type-select-modals.md) to make selections and create cases.
+In CSM Configurable Workspace, agents use the [Case type selector](csm-case-type-select-modals.md) to make selections and create cases.
 
 **Note:** In the Core UI, use the Case interceptor to make selections and create a case.
 

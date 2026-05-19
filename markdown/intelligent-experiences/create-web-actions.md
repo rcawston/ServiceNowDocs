@@ -31,7 +31,7 @@ An AI agent named **Web Automation Agent** and agentic workflow named **Web Auto
 
 2.  Open the AI agent that you want to add a desktop action to.
 
-    For creating an AI agent, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For creating an AI agent, see [Create an AI agent](configure-next-best-action-agent.md).
 
 3.  Navigate to the Add tools and information step.
 

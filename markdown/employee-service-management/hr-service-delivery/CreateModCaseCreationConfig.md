@@ -103,7 +103,7 @@ Links
 
 </td><td>
 
-A URL link configured in **Link Generator**. See [Link generator for HR Service Delivery](../concept/HRLinkGenerator.md).
+A URL link configured in **Link Generator**. See [Link generator for HR Service Delivery](HRLinkGenerator.md).
 
 </td></tr><tr><td>
 
@@ -229,5 +229,5 @@ Determines the fields that appear on the bottom of the CDS. The base system conf
     -   To save the modifications and remain on the form, click **Save**.
     -   To save the modifications and exit from the form, click **Update**.
 
-**Parent Topic:**[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
 

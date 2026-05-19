@@ -30,14 +30,14 @@ Role required: sn\_ti.case\_user\_write
     When artifacts that match your entry are found, they are displayed.
 
 
-**Parent Topic:**[Security artifact analysis](../concept/sec-artifact-analysis.md)
+**Parent Topic:**[Security artifact analysis](sec-artifact-analysis.md)
 
 **Related topics**  
 
 
-[Related details for case artifacts](../concept/related-details-for-case-artifacts.md)
+[Related details for case artifacts](related-details-for-case-artifacts.md)
 
-[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+[Security artifact exclusion and inclusion](artifact-inclusion-exclusion.md)
 
 [Annotate security artifacts](annotate-artifacts.md)
 

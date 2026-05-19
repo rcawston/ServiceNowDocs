@@ -99,7 +99,7 @@ If a segment is matching but producing wrong results, the issue is usually the n
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](querygen-create-segment-manually.md)
 
 [Manual segment data model and sync behavior](manual-segment-data-model-sync.md)
 

@@ -19,9 +19,9 @@ Enable Workforce Optimization for HR and configure settings to use Scheduling, T
 Workforce Optimization for HR solution is highly modular, offering a wide range of capabilities such as Scheduling, Coaching, and Teams applications in Manager Workspace. Configurable Workspace \(sn\_hr\_wfo\_workspa\) plugin activates all other dependent plugins to enable users to access Scheduling, Coaching, and Teams applications in Workforce Optimization for HR.
 -   **[Workforce Optimization for HR Domain Separation](wfo-hr-domain-separation.md)**  
  Domain separation is supported for Workforce Optimization for HR. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[Setting up Scheduling for Workforce Optimization for HR](../task/setup-scheduling-wfo-hr.md)**  
+-   **[Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)**  
 Manage events the team calendar. Create schedule plans, shift plans, event categories, and event types.
--   **[Setting up Teams in Workforce Optimization for HR](../task/setup-team-workforce-wfo-hr.md)**  
+-   **[Setting up Teams in Workforce Optimization for HR](setup-team-workforce-wfo-hr.md)**  
 Organize your teams into assignment groups and create reports for those groups to can gain visibility into the team's performance.
 -   **[Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)**  
 Manage agent skills and assess the quality of completed tasks. Use predictive intelligence to recommend skills for agents. Train your agents with internal and external learning content.

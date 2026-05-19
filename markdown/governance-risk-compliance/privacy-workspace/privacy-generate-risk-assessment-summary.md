@@ -17,7 +17,7 @@ Use Risk assessment summarization skill to generate a risk assessment summary th
 
 ## Before you begin
 
-Install the Now Assist for Privacy Management application to generate a risk assessment summary. For more information, see [Install Now Assist for Privacy Management](../../grc-privacy-management/task/privacy-install-now-assist.md).
+Install the Now Assist for Privacy Management application to generate a risk assessment summary. For more information, see [Install Now Assist for Privacy Management](privacy-install-now-assist.md).
 
 Role required: The sn\_prm\_gen\_ai.user role must be assigned manually to your role to generate the risk assessment summary.
 

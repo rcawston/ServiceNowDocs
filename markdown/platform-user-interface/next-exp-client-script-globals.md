@@ -21,7 +21,7 @@ Next Experience global variables are used in client scripts to determine whether
 
     Returns **true** if the page is running in the Next Experience Unified Navigation. This global variable exists only in the Unified Navigation.
 
-    For more information about the Unified Navigation, see [Using the Next Experience Unified Navigation](../../../get-started/servicenow-overview/concept/using-the-next-experience-global-header.md).
+    For more information about the Unified Navigation, see [Using the Next Experience Unified Navigation](using-the-next-experience-global-header.md).
 
 
 Client script:
@@ -35,7 +35,7 @@ if (NOW.isUsingPolaris && (!top.NOW || top.NOW.isPolarisWrapper !== "true")) {
 
 ```
 
-**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
 
 **Related topics**  
 

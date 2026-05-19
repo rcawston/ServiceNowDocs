@@ -72,12 +72,12 @@ The Observable Enrichment section contains only the integrations with the integr
     The enrichment integration is enabled successfully. You can also enable, disable, or delete a particular enrichment integration by using the **Actions** menu of the required integration tile on the **Catalog** or the **Enrichment Integrations** page.
 
 
--   **[Have I Been Pwned integration](../concept/tisc-hibp-integration.md)**  
+-   **[Have I Been Pwned integration](tisc-hibp-integration.md)**  
 The Have I Been Pwned \(HIBP\) integration enables you to enrich email address and domain observables with breach data directly within the TISC.
--   **[Whois integration](../concept/tisc-whoisxml-integration.md)**  
+-   **[Whois integration](tisc-whoisxml-integration.md)**  
 Submit Whois lookups on domain names and URLs to gather threat intelligence and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
 -   **[Shodan integration](tisc-shodan.md)**  
 Configure Shodan integration to enable automated discovery and analysis of internet-connected devices in your network infrastructure.
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](tisc-enrichment-integrations.md)
 

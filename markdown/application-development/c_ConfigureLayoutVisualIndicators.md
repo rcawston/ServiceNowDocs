@@ -37,7 +37,7 @@ Views and sections in another application scope display as read only. Read-only 
 
 [Lists and forms in scoped applications](c_CreatingListsAndFormsScopedApps.md)
 
-[Available layout and design actions](../reference/r_AvailableLayoutAndDesignActions.md)
+[Available layout and design actions](r_AvailableLayoutAndDesignActions.md)
 
 [Form design visual indicators](c_FormDesignVisualIndicators.md)
 

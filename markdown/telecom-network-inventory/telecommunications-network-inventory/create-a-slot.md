@@ -33,16 +33,16 @@ Slots help a rack to distribute the weight of the equipment across the rack even
 
 4.  On the Equipment Holder form, fill in the fields.
 
-    To learn more, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md).
+    To learn more, see [Equipment Holder form](tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the fields, see [TNI CI Attributes form](ci-attribue-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](creating-telecommunications-network-inventory.md)
 

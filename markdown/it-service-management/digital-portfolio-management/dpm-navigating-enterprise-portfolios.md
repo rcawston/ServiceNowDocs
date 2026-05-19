@@ -15,7 +15,7 @@ breadcrumb: [Enterprise portfolios, Work with portfolios, Digital Portfolio Mana
 
 Navigate three types of enterprise portfolios in the Digital Portfolio Management \(DPM\) application — service, business applications, and service instance. The way to create a portfolio depends on the type. As of May 2025, Enterprise portfolios are created directly in DPM. Business application and Service instance portfolios are created using the enterprise portfolios tables in the DPM module in UI16.
 
-Enterprise portfolios are structured in a nesting content tree format so you can easily navigate each type of enterprise portfolio. Access Enterprise portfolios using the Enterprise portfolio icon \(![Enterprise portfolios icon.](../image/enterprise-portfolio-gray.png)\). For more information about accessing enterprise portfolios, see [Navigate enterprise portfolios in Digital Portfolio Management](../task/dpm-enterprise-portfolio.md).
+Enterprise portfolios are structured in a nesting content tree format so you can easily navigate each type of enterprise portfolio. Access Enterprise portfolios using the Enterprise portfolio icon \(![Enterprise portfolios icon.](../image/enterprise-portfolio-gray.png)\). For more information about accessing enterprise portfolios, see [Navigate enterprise portfolios in Digital Portfolio Management](dpm-enterprise-portfolio.md).
 
 Each type of enterprise portfolio offers unique data pertinent to its type. See [the DPM Academy](https://www.servicenow.com/community/itsm-articles/digital-portfolio-management-learning-resources/ta-p/2896465) Learning Resources, especially the video series, for more information about the difference between each portfolio, how they should be used, and who they are for.
 
@@ -68,15 +68,15 @@ Service and service offering
     -   Total subscribers.
     -   Phase \(if using CSDM fields, then life-cycle Stage\)
     -   Status \(if using CSDM fields, then life-cycle Status\)
-**Note:** For information about CSDM life-cycle field names, see [Apply the CSDM guidelines to Digital Portfolio Management](../reference/dpm-csdm.md).
+**Note:** For information about CSDM life-cycle field names, see [Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md).
 
 -   The performance snapshot metrics for availability, open incidents, incidents not updated for 5 days, and new requests.
 -   The Needs attention cards for critical incidents,outages, and changes.
 -   The **More menu** icon \(![More menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) enables you to:
-    -   Add the service or service offering to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](../task/dpm-create-personal-portfolios.md).
+    -   Add the service or service offering to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](dpm-create-personal-portfolios.md).
     -   Add the service to your DPM homepage. For more information, see [Digital Portfolio Management Workspace homepage](dpm-explore-landing.md).
-    -   Edit the service or service offering in Service Builder. For more information, see [Create a service in Service Builder](../../service-builder/task/create-service.md).
--   The **View details** link launches the service or service offering details. For more information, see the Service and service offerings section in [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+    -   Edit the service or service offering in Service Builder. For more information, see [Create a service in Service Builder](../service-builder/create-service.md).
+-   The **View details** link launches the service or service offering details. For more information, see the Service and service offerings section in [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 </td></tr></tbody>
 </table>## Business application portfolios
@@ -135,8 +135,8 @@ The Overall risk is empty.
 
 -   The portfolio success metrics for availability, incidents with a breached SLA, incidents caused by changes, and successful changes.
 -   The Needs attention cards for critical incidents, changes, risks, and audits.
--   The **More menu** icon \(![More menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) enables you to add the business application to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](../task/dpm-create-personal-portfolios.md).
--   The **View details** link launches the business application details. For more information, see the Business applications section in [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+-   The **More menu** icon \(![More menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) enables you to add the business application to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](dpm-create-personal-portfolios.md).
+-   The **View details** link launches the business application details. For more information, see the Business applications section in [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 </td></tr></tbody>
 </table>## Service instance portfolios
@@ -191,8 +191,8 @@ The Overall risk is empty.
 
 -   The portfolio success metrics for availability, incidents with a breached SLA, incidents caused by changes, and successful changes.
 -   The Needs attention cards for critical incidents, changes, outages, risks, and alerts.
--   The **More menu** icon \(![More menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) enables you to add the service instance to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](../task/dpm-create-personal-portfolios.md).
--   The **View details** link launches the service instance details. For information on what this screen includes, see the Service instances section in [Digital Portfolio Management related applications and data sources](../reference/dpm-related-products.md).
+-   The **More menu** icon \(![More menu icon](../../configurable-workforce-optimization-itsm/image/menu-icon.png)\) enables you to add the service instance to a personal portfolio. For more information, see [Create a personal portfolio in Digital Portfolio Management](dpm-create-personal-portfolios.md).
+-   The **View details** link launches the service instance details. For information on what this screen includes, see the Service instances section in [Digital Portfolio Management related applications and data sources](dpm-related-products.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise portfolios](dpm-enterprise-portfolios.md)
@@ -202,5 +202,5 @@ The Overall risk is empty.
 
 [Enterprise portfolios](dpm-enterprise-portfolios.md)
 
-[Navigate enterprise portfolios in Digital Portfolio Management](../task/dpm-enterprise-portfolio.md)
+[Navigate enterprise portfolios in Digital Portfolio Management](dpm-enterprise-portfolio.md)
 

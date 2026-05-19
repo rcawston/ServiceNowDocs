@@ -24,9 +24,9 @@ Similarly, the **Entered Currency** field of the benefit plan defaults to the pr
 **Related topics**  
 
 
-[Enable project currency view in project-related forms](../task/enable-project-currency-view.md)
+[Enable project currency view in project-related forms](enable-project-currency-view.md)
 
-[Updates in cost plan and recalculation of cost in project currency](../concept/change-cost-calculated-project-currency.md)
+[Updates in cost plan and recalculation of cost in project currency](change-cost-calculated-project-currency.md)
 
-[Multicurrency in Project Management](../concept/multicurrency-pps.md)
+[Multicurrency in Project Management](multicurrency-pps.md)
 

@@ -426,7 +426,7 @@ Not applicable
 </td></tr></tbody>
 </table>## Enter inputs for parameters
 
-To enter inputs, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs, see [Configure port properties](configure-input-port-properties.md).
 
-**Parent Topic:**[IE connector](../concept/internet-explorer-connector.md)
+**Parent Topic:**[IE connector](internet-explorer-connector.md)
 

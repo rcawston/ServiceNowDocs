@@ -28,6 +28,6 @@ The CMDB 360 insights page provides aggregations and analysis of CMDB 360 data w
 **Note:** Most cards on the CMDB 360 insights dashboard support non-CMDB tables in their aggregation, or can be configured to provide support. However, the CIs not reported by discovery sources card, for example, doesn't apply to non-CMDB tables. Creating queries for non-CMDB tables is also supported. For information about support for non-CMDB tables, see [IRE support for non-CMDB tables](ire-support-non-cmdb-tables.md).
 
 -   For concepts and other background information about CMDB 360, see [CMDB 360](multisource-cmdb.md).
--   For information about all CMDB 360 dashboard settings, see [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](../task/workspc-mltsrc-configure.md).
+-   For information about all CMDB 360 dashboard settings, see [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](workspc-mltsrc-configure.md).
 -   For information about using the CMDB 360 view, see [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](cmdb360-exp-cmdb-workspace.md).
 

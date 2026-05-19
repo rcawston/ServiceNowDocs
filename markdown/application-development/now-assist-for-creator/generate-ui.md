@@ -72,14 +72,14 @@ You can access the experience generation feature from the UI Builder homepage. Y
 
 The experience preview appears in the right panel. It displays the proposed experience name, navigation type, page structure, chart parameters, and a live data sample from the identified ServiceNow table. The **Regenerate preview** and **Save and edit experience** buttons are set to active.
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](using-ui-generation.md)
 
 **Related topics**  
 
 
-[Experience Generation](../concept/concept-experience-generation.md)
+[Experience Generation](concept-experience-generation.md)
 
-[Use case: Create an AI-generated experience](../concept/use-case-experience-generation.md)
+[Use case: Create an AI-generated experience](use-case-experience-generation.md)
 
 ## Review and save an experience preview
 

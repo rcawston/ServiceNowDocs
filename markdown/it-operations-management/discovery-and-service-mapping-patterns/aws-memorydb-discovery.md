@@ -23,11 +23,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Configured AWS Credentials**
 
-    On your instance, configure credentials of type **AWS Credentials**. For more information, see [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+    On your instance, configure credentials of type **AWS Credentials**. For more information, see [Access setup for AWS service accounts](../access-aws-accounts.md).
 
 -   **Configured Cloud service account**
 
-    Configure the AWS service account valid in the ServiceNow instance. For more information, see [Set up AWS service accounts.](../../it-operations-management/concept/setup-aws-service-accounts.md)
+    Configure the AWS service account valid in the ServiceNow instance. For more information, see [Set up AWS service accounts.](../setup-aws-service-accounts.md)
 
 -   **Configured user permissions to execute the list AWS MemoryDB for Redis API calls**
 
@@ -35,11 +35,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     -   https://memory-db.\{region\}.amazonaws.com?Action=DescribeClusters&amp;ShowShardDetails=true
     -   https://memory-db.\{region\}.amazonaws.com? Action=ListTags&amp;ResourceArn=\{arn\}
-    For more information, see [Amazon AWS Cloud components discovery using patterns.](../../discovery/reference/data-discovered-aws-patterns.md)
+    For more information, see [Amazon AWS Cloud components discovery using patterns.](data-discovered-aws-patterns.md)
 
 -   **Configured Cloud Discovery schedule**
 
-    Create a cloud application schedule for discovering AWS datacenters. Set **Discovery** to **Cloud discovery**. For more information, see: [Create schedules for discovering cloud resources in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md)
+    Create a cloud application schedule for discovering AWS datacenters. Set **Discovery** to **Cloud discovery**. For more information, see: [Create schedules for discovering cloud resources in Cloud Discovery Workspace](../discovery/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -90,12 +90,12 @@ The AWS MemoryDB for Redis pattern collects tags and populates them in the Key V
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud DataBase Cluster \[cmdb\_ci\_cloud\_db\_cluster\] table.|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
+[Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

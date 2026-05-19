@@ -15,15 +15,15 @@ breadcrumb: [Universal Task, Employee Service Management]
 
 You can refer to the reference topics to learn more about the universal tasks, including lists and forms.
 
--   **[Universal Task form](../reference/universal-task-form.md)**  
+-   **[Universal Task form](universal-task-form.md)**  
 Universal Task form to create a task record.
--   **[Universal Task Configuration form](../reference/unitask-config-form.md)**  
+-   **[Universal Task Configuration form](unitask-config-form.md)**  
 Use the Universal Task Configuration form to associate Universal Task to your service.
--   **[Employee form](../reference/ut-emp-form.md)**  
+-   **[Employee form](ut-emp-form.md)**  
 Use the employee form to create a new employee form record for Universal Task
--   **[Employee Input Task Configuration form](../reference/ut-empform-config-form.md)**  
+-   **[Employee Input Task Configuration form](ut-empform-config-form.md)**  
 Use the Employee Input Task configuration form to configure the roles that can view completed Universal Task employee form.
--   **[Universal Task template form](../reference/ut-task-template-form.md)**  
+-   **[Universal Task template form](ut-task-template-form.md)**  
 Use the Universal Task template form to create a Universal Task template.
 
 **Parent Topic:**[Universal Task](universal-task-landing.md)

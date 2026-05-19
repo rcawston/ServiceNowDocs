@@ -17,5 +17,5 @@ Enable agents to effectively manage their active WhatsApp chat conversations by 
 
 The Virtual Agent conversations are configured for the WhatsApp messaging app. By default, any conversations abandoned by requesters remain open or idle until they’re automatically closed daily by the **Time Out Abandoned VA Conversations** scheduled job. For more information, see [Closing Virtual Agent and Agent Chat conversations](va-open-conversations.md).
 
-**Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../task/messg-direct-whatsapp-configure.md)
+**Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-configure.md)
 

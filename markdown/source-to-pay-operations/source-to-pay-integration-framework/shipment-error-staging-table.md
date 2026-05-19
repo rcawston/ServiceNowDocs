@@ -21,7 +21,7 @@ The Shipment Error \[sn\_spend\_intg\_shipment\_error\] staging table temporaril
 |Sales order number|String|Unique identifier for a customer's purchase.|
 |Supplier shipment number|String|Shipment number of the supplier.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

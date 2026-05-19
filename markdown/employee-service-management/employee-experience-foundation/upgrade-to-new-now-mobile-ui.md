@@ -46,5 +46,5 @@ Update the function instance manually to redirect ServiceNow® AI Search to the 
 
 The search redirection takes you to the new Now Mobile profile page.
 
-**Parent Topic:**[Employee profile for Now Mobile](../concept/my-team-widget-for-portal-and-mobile.md)
+**Parent Topic:**[Employee profile for Now Mobile](my-team-widget-for-portal-and-mobile.md)
 

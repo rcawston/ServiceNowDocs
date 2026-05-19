@@ -43,8 +43,8 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 ServiceNow Kafka Consumer uses the connection and credential alias of the [Confluent Kafka REST Proxy Spoke](conf-kafka-spoke.md).
 
--   **[Configure ServiceNow Kafka Consumer](../task/setup-kafka-consumr.md)**  
+-   **[Configure ServiceNow Kafka Consumer](setup-kafka-consumr.md)**  
 Retrieve events pertaining to the specified topics and store it in the required ServiceNow tables.
 
-**Parent Topic:**[Building integrations in Integration Hub](../../integrationhub/concept/building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](building-integrations-ih.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [References, Inbound email, Notifications, Configure core features, 
 
 Various examples of inbound email actions are available to help you build your own inbound email actions. These examples show how to set up inbound email actions to handle email replies, create \(log\) a problem record, request a change, and update an incident.
 
-**Parent Topic:**[References for Inbound email](../concept/references-inbound-email.md)
+**Parent Topic:**[References for Inbound email](references-inbound-email.md)
 
 ## Inbound email action example: handling email replies
 

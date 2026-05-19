@@ -23,7 +23,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 ## Procedure
 
-1.  Follow steps 1 through 4 in the [Generate report](../concept/generate-report.md) section.
+1.  Follow steps 1 through 4 in the [Generate report](generate-report.md) section.
 
 2.  On step 4, select the **Repository URL** option.
 
@@ -42,5 +42,5 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
     The report is generated.
 
 
-**Parent Topic:**[Generate report](../concept/generate-report.md)
+**Parent Topic:**[Generate report](generate-report.md)
 

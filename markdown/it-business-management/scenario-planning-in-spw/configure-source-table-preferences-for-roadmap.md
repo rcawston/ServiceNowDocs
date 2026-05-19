@@ -18,7 +18,7 @@ Update the default display configuration of planning item attributes in Prioriti
 
 ## Before you begin
 
-[Install Strategic Planning](../../alignment-planner-workspace/task/install-alignment-planner-workspace.md).
+[Install Strategic Planning](install-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_admin
 
@@ -83,10 +83,10 @@ Rank configuration
 
 3.  Edit the required fields.
 
-    For field information, see [Portfolio plan configuration form](../../alignment-planner-workspace/reference/portfolio-plan-configuration-form.md).
+    For field information, see [Portfolio plan configuration form](portfolio-plan-configuration-form.md).
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Prioritization display settings in Strategic Planning](../../spw-prioritization/concept/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
+**Parent Topic:**[Prioritization display settings in Strategic Planning](configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 

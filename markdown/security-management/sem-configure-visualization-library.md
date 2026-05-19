@@ -16,7 +16,7 @@ The Visualization library lists the available widgets for the Findings view page
 
 ## Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](../../security-exposure-management-administration/concept/sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
 
 ## Procedure
 

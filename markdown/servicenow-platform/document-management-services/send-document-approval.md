@@ -19,7 +19,7 @@ Add a single or multiple reviewers and approvers for the document approval and r
 
 Role required: none
 
-For more information, see [Document approval and publish process](../concept/document-review-approval.md)
+For more information, see [Document approval and publish process](document-review-approval.md)
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Document approval and publish process](../concept/doc
 15. Select **View more details** to view all details for the document.
 
 
-**Parent Topic:**[Document Management in Workspace](../concept/document-management-workspace.md)
+**Parent Topic:**[Document Management in Workspace](document-management-workspace.md)
 

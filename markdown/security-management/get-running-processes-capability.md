@@ -15,18 +15,18 @@ The Get Running Processes capability retrieves a list of running processes on a 
 
 The Get Running Processes capability has two implementation flows:
 
--   [Security Operations Carbon Black Integration - Get Running Processes Flow](../../security-operations-integrations/concept/secops-integration-cb-get-running-processes-workflow.md)
--   [Security Operations System Command Integration- Get Running Processes flow](../../security-incident-response-orchestration/task/obtain-WMI-retrieval-workflow.md)
+-   [Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)
+-   [Security Operations System Command Integration- Get Running Processes flow](obtain-WMI-retrieval-workflow.md)
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
 Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](common-wf-activities.md).
 
--   **[Security Operations Carbon Black Integration - Get Running Processes Flow](../../security-operations-integrations/concept/secops-integration-cb-get-running-processes-workflow.md)**  
+-   **[Security Operations Carbon Black Integration - Get Running Processes Flow](secops-integration-cb-get-running-processes-workflow.md)**  
 The Security Operations Carbon Black Integration - Get Running Processes is the implementation for the Carbon Black integration launched by the Security Operations Integration - Get Running Process flow.
--   **[Security Operations System Command Integration- Get Running Processes flow](../../security-incident-response-orchestration/task/obtain-WMI-retrieval-workflow.md)**  
+-   **[Security Operations System Command Integration- Get Running Processes flow](obtain-WMI-retrieval-workflow.md)**  
 The Security Operations System Command Integration - Get Running Processes flow retrieves the running processes of a configuration item when added or updated to a Windows or Unix-based security incident in the **Analysis** state.
--   **[Security Operations - Get Running Processes Flow](../../security-operations-integrations/concept/secops-integration-get-running-processes-workflow.md)**  
+-   **[Security Operations - Get Running Processes Flow](secops-integration-get-running-processes-workflow.md)**  
 The Security Operations - Get Running Processes flow is a high-level flow independent of integrations. It retrieves a list of running processes on a configuration item \(CI\) from a host. Use it to fulfill an integration, such as Carbon Black, or for a Windows-based security incident.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -52,5 +52,5 @@ The Security Operations - Get Running Processes flow is a high-level flow indepe
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

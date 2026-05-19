@@ -15,7 +15,7 @@ Enable your location staff to track opportunities for their business locations u
 
 ## Before you begin
 
-Role required: For details on roles, see [Roles and responsibilities](../concept/personas-roles-and-tables-post-integration-oppMgmt.md).
+Role required: For details on roles, see [Roles and responsibilities](personas-roles-and-tables-post-integration-oppMgmt.md).
 
 ## Procedure
 

@@ -150,5 +150,5 @@ If you rejected the on-site repair request, the RMA order line moves to the Comp
 
 Complete the RMA process for any remaining RMA order lines within the RMA order. After all RMA order lines reach the Completed stage, the RMA order is closed.
 
-**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](../concept/closing-rma-order.md)
+**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](closing-rma-order.md)
 

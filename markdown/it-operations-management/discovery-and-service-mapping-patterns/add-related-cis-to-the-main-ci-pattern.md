@@ -69,7 +69,7 @@ Pattern Designer displays attributes of related CI types, which you added to the
 
 Continue editing the pattern by adding more steps as necessary. To view or use attributes of a related CI type, click the relevant tab in the **CI Attributes** pane.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
 **Previous topic:**[Create or customize patterns](t_CreatePatternPatDef.md)
 

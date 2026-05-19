@@ -71,7 +71,7 @@ For information on how to configure a form layout, see [Configuring the form lay
 
 When an invoice is created, and both the invoice and the invoice line are in the Paid state, an expense line is automatically created for the project. This expense line has an Invoice Lines related list reference.
 
-For more information on invoice creation, see [Invoices](../reference/invoices.md).
+For more information on invoice creation, see [Invoices](invoices.md).
 
 ## Impact of demand and project lifecycle on Sourcing and Procurement Operations flows
 
@@ -120,7 +120,7 @@ When a purchase order associated to a demand or project is created, updated, or 
 
 [Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](erp-source-val-spo-objects.md)
 
 [SpendInt APIs](spendint-api.md)
 

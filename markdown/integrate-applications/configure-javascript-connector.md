@@ -48,5 +48,5 @@ Role required: Developer
 
 The custom script you created by using the JavaScript connector is now ready to be used in your automation.
 
-**Parent Topic:**[JavaScript](../concept/javascript.md)
+**Parent Topic:**[JavaScript](javascript.md)
 

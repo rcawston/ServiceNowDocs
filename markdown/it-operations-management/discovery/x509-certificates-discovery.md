@@ -34,7 +34,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify the configuration of the Discovery schedule**
 
-    For more information, see [Running discoveries in your network](../../discovery/concept/running-discoveries.md)
+    For more information, see [Running discoveries in your network](running-discoveries.md)
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -246,5 +246,5 @@ Root Issuer \[root\_issuer\]
 A reference to the root certificate record. The reference is available if the issued certificate is a part of the same payload.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Certificate Inventory and Management patterns](../../discovery/reference/cert-invt-mgmt-patterns.md)
+</table>**Parent Topic:**[Certificate Inventory and Management patterns](cert-invt-mgmt-patterns.md)
 

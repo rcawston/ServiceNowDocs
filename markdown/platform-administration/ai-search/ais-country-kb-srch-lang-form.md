@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The AI Search form contains information about relationships between user countries and knowledge article search languages. Use this form when defining knowledge article search languages for a country.
 
-For details on defining knowledge article search languages for a country, see [Assign Knowledge article search languages by country](../task/assign-kb-srch-langs-country-ais.md).
+For details on defining knowledge article search languages for a country, see [Assign Knowledge article search languages by country](assign-kb-srch-langs-country-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -24,5 +24,5 @@ For details on defining knowledge article search languages for a country, see [A
 
 **Note:** You can define multiple AI Search Country To Search Language records for the same country, as long as each one has a different knowledge article search language. If you attempt to create multiple records with the same country and the same knowledge article search language, the system displays a warning message and the record insert operation fails.
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](reference-ais.md)
 

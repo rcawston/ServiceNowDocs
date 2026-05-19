@@ -93,5 +93,5 @@ Optional conditions that determine when the routing rule applies.
 
 The notification routing rule is active. Users with access to the configured workspace are directed to the workspace when they select notification links for records from the specified table. Users without workspace access are directed to the classic view.
 
-**Parent Topic:**[GRC notification redirection](../concept/email-notification-redirection.md)
+**Parent Topic:**[GRC notification redirection](email-notification-redirection.md)
 

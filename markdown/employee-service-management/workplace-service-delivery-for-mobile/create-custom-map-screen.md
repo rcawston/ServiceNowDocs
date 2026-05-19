@@ -40,5 +40,5 @@ Role required: sn\_wsd\_core.admin
 
 Map screens displays a map with locations that are associated to the records in a data item.
 
-**Parent Topic:**[Mobile Wayfinding Administration](../concept/mobile-wayfinding.md)
+**Parent Topic:**[Mobile Wayfinding Administration](mobile-wayfinding.md)
 

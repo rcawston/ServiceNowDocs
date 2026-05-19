@@ -68,5 +68,5 @@ If your instance is on an internal network, you might need to configure the VPN.
 
 For more information on app distribution with Workspace ONE UEM, see the [official Workspace ONE UEM documentation](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/index.html).
 
-**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](../concept/airwatch-mdm.md)
+**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](airwatch-mdm.md)
 

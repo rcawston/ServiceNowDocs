@@ -26,11 +26,11 @@ The Microsoft Viva Engage external content connector only retrieves searchable c
 
 Only members of a private community can see searchable content from attachments found in that community. Non-members cannot see searchable content from attachments in the private community, even if those attachments are shared with them in Microsoft Viva Engage.
 
--   **[Configure Microsoft Viva Engage for external content indexing](../task/configure-microsoft-viva-engage-external-content-indexing.md)**  
+-   **[Configure Microsoft Viva Engage for external content indexing](configure-microsoft-viva-engage-external-content-indexing.md)**  
 Register an OAuth 2.0 application in the Microsoft Entra admin center to allow the Microsoft Viva Engage external content connector to access your Microsoft Viva Engage source system.
--   **[Create a Microsoft Viva Engage external content connector](../task/create-ext-cont-connector-microsoft-viva-engage.md)**  
+-   **[Create a Microsoft Viva Engage external content connector](create-ext-cont-connector-microsoft-viva-engage.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Microsoft Viva Engage source system.
--   **[Configure crawl settings for a Microsoft Viva Engage external content connector](../task/configure-crawl-settings-microsoft-viva-engage-external-content-connector.md)**  
+-   **[Configure crawl settings for a Microsoft Viva Engage external content connector](configure-crawl-settings-microsoft-viva-engage-external-content-connector.md)**  
 Specify the communities you want your Microsoft Viva Engage external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -38,7 +38,7 @@ Specify the communities you want your Microsoft Viva Engage external content con
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md)
 

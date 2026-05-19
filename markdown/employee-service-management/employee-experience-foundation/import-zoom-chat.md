@@ -105,5 +105,5 @@ Method used to import messages.
 
 The imported chats and files are displayed in the **Activities** section of the ticket.
 
-**Parent Topic:**[Starting and importing a Zoom Team Chat](../concept/start-import-chat.md)
+**Parent Topic:**[Starting and importing a Zoom Team Chat](start-import-chat.md)
 

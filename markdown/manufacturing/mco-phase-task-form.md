@@ -102,5 +102,5 @@ Detailed description of the phase task.
 **Related topics**  
 
 
-[Adding a phase task](../task/mco-phase-task.md)
+[Adding a phase task](mco-phase-task.md)
 

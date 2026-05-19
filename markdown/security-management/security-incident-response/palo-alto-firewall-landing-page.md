@@ -19,27 +19,27 @@ To perform Palo Alto Networks - Firewall integration, ensure that you have a MID
 
 Explore
 
- [Security Incident Response integrations](../../../security-incident-response/concept/sir_integrations.md)
+ [Security Incident Response integrations](sir_integrations.md)
 
 </td><td>
 
 Set up
 
- -   [Activate and configure the Palo Alto Networks Firewall Integration](../task/activate-config-firewall.md)
--   [Set up SSH credentials to the MID Server](../task/set-up-and-config-MID-server.md)
+ -   [Activate and configure the Palo Alto Networks Firewall Integration](activate-config-firewall.md)
+-   [Set up SSH credentials to the MID Server](set-up-and-config-MID-server.md)
 
 </td></tr><tr><td>
 
 Use
 
- [Palo Alto Networks Firewall Launcher Workflow](../../../security-operations-integrations/task/secops-integration-paloalto-firewall-launcher-workflow.md)
+ [Palo Alto Networks Firewall Launcher Workflow](secops-integration-paloalto-firewall-launcher-workflow.md)
 
 </td><td>
 
 Develop
 
- -   [ServiceNow Security Operations integration development guidelines](../../../security-operations-integrations/concept/c_IntegrationWritingGuidelines.md)
--   [Tips for writing integrations](../../../security-operations-integrations/concept/c_BestPractisesIntegrations.md)
+ -   [ServiceNow Security Operations integration development guidelines](../c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](../c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -48,7 +48,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [Integration troubleshooting](../../../security-operations-integrations/concept/c_IntegrationTroubleshooting.md)
+ -   [Integration troubleshooting](../c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

@@ -50,5 +50,5 @@ You can view the total number of activities in the **Daily Activity** tab. If yo
 
 **Note:** The daily activity records, which are older than two days are automatically deleted.
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
 

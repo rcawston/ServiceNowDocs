@@ -42,9 +42,9 @@ Role required: admin
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Getting started with ODBC](../concept/c_GettingStartedWithODBC.md)
+**Parent Topic:**[Getting started with ODBC](c_GettingStartedWithODBC.md)
 
 **Previous topic:**[Create an ODBC user account and assign the odbc role](t_CreateAnODBCUser.md)
 
-**Next topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Next topic:**[Installing the ODBC driver](c_InstallingTheODBCDriver.md)
 

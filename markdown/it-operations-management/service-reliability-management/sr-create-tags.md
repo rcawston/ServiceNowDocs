@@ -27,7 +27,7 @@ There are two ways that tags can enter the system and attach to an alert or inci
 -   Using the tag icon in the header of a service, alert, or incident.
 -   Added using the **Modify field values** action in an automation rule.
 
-This task describes how to add tags to services and incidents in SRM. For information about managing alerts, see [Alerts in Service Operations Workspace](../../service-operations-workspace-itom/concept/view-alert-workspace-itom.md).
+This task describes how to add tags to services and incidents in SRM. For information about managing alerts, see [Alerts in Service Operations Workspace](../service-operations-workspace-for-itom-apps/view-alert-workspace-itom.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ This task describes how to add tags to services and incidents in SRM. For inform
     Tags are also shown under the description in the incident list view.
 
 
-**Parent Topic:**[SRM interface](../concept/sr-navigate-interface.md)
+**Parent Topic:**[SRM interface](sr-navigate-interface.md)
 

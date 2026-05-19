@@ -17,7 +17,7 @@ Software discovery models are automatically created during discovery so you can 
 
 Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table.
 
-There is a difference between [software models](../task/t_AddASoftwareModelSAMF.md) and software discovery models.
+There is a difference between [software models](t_AddASoftwareModelSAMF.md) and software discovery models.
 
 -   A software model is a specific version or configuration of software that is purchased and/or available to users.
 -   A software discovery model is a model created when a version of software is discovered in a network environment.
@@ -237,7 +237,7 @@ Edition Override
 
 Override of the software edition setting.If the edition for the software was not discovered, you can edit this field to set the edition, if known, so reconciliation can be performed successfully.
 
- For more information, see [Manually override SAM Foundation edition value](../task/t_ManOverrideEditionSAMF.md).
+ For more information, see [Manually override SAM Foundation edition value](t_ManOverrideEditionSAMF.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 

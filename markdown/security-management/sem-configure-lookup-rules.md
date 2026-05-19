@@ -13,7 +13,7 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 By configuring lookup rules, you can map security exposure data to the correct configuration items \(CIs\) in the CMDB. This mapping is a critical function because associating exposure findings with the right assets is essential for proper risk assessment, assignment, and remediation workflows.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
@@ -215,7 +215,7 @@ The process function has three parameters: **rule**, **sourceValue**, and **sour
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
-    For more implementation information for lookup rules see, [Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](../../security-operations-common/concept/ci-identifier-rules-impl-test.md).
+    For more implementation information for lookup rules see, [Steps to help prevent duplicate or orphaned records after running Vulnerability Response CI lookup rules](vulnerability-response/ci-identifier-rules-impl-test.md).
 
     ![CI lookup rule using a condition builder for version 12.0.](../../security-operations-common/image/CI-LookupRules-v12.png "Example of a CI lookup rule using a condition builder for V12.0")
 
@@ -225,7 +225,7 @@ The process function has three parameters: **rule**, **sourceValue**, and **sour
 **Related topics**  
 
 
-[Vulnerability Response vulnerable item form fields](../../vulnerability-response/reference/vulnerable-item-fields.md)
+[Vulnerability Response vulnerable item form fields](vulnerability-response/vulnerable-item-fields.md)
 
 ## Ignore CI classes
 
@@ -304,7 +304,7 @@ Roles required: admin
 
 ### About this task
 
-For more information, see [CI changes for discovered items](../../vulnerability-response/concept/reapply-discovered-items-ci-changes.md).
+For more information, see [CI changes for discovered items](vulnerability-response/reapply-discovered-items-ci-changes.md).
 
 For more information on the concepts of CI matching and the CMDB, discovered item lookup, rule-based identification, see the [CI matching in Vulnerability Response \[KB0998706\] article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998706) in the HI Knowledge Base.
 

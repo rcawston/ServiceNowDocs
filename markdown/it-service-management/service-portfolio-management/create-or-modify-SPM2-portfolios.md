@@ -23,7 +23,7 @@ Role required: portfolio\_admin
 
 Create a service portfolio before you define taxonomy nodes. After you create the service portfolio, you can edit it within the platform and monitor its performance in Digital Portfolio Management \(DPM\).
 
-**Important:** Existing customers can opt in to the improved portfolio structure by navigating to **Service Portfolio Management** &gt; **Administration** &gt; **Configuration** &gt; **New Portfolio Opt-In**. The improved structure uses nodes and doesn't use layers and weighted scores from the Service Owner Workspace. After customers opt in for the improved portfolio structure, there isn’t an option to revert to the former structure. For more information, see [Service Portfolio Management portfolios](../concept/SPM2-service-portfolios.md). New customers have the improved portfolio structure by default.
+**Important:** Existing customers can opt in to the improved portfolio structure by navigating to **Service Portfolio Management** &gt; **Administration** &gt; **Configuration** &gt; **New Portfolio Opt-In**. The improved structure uses nodes and doesn't use layers and weighted scores from the Service Owner Workspace. After customers opt in for the improved portfolio structure, there isn’t an option to revert to the former structure. For more information, see [Service Portfolio Management portfolios](SPM2-service-portfolios.md). New customers have the improved portfolio structure by default.
 
 **Note:** The following procedure reflects the **SPM Advanced** user view.
 
@@ -166,11 +166,11 @@ When active, each time an offering is created as part of this portfolio, the per
 
 4.  Select the newly created service portfolio name in the list.
 
-    The Taxonomy Nodes, Portfolio Metrics, and Taxonomy Node Weights related lists appear on the Service Portfolio form. See [Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
+    The Taxonomy Nodes, Portfolio Metrics, and Taxonomy Node Weights related lists appear on the Service Portfolio form. See [Service Portfolio Management taxonomy](SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
 
 
--   **[Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md)**  
+-   **[Service Portfolio Management taxonomy](SPM2-taxonomy.md)**  
 Service Portfolio Management uses a taxonomy framework to organize and manage services in a portfolio.
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
 

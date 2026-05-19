@@ -60,7 +60,7 @@ You can select an Amazon Web Services \(AWS\) management account, and then add a
 
     -   An assume role configuration exists for the management account.
     -   Cloud Discovery has completed the datacenter discovery for the member accounts.
-For more information on creating assume role configurations, see [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../../it-operations-management/task/configure-iam-role-aws-account.md).
+For more information on creating assume role configurations, see [Configure access using temporary credentials based on trusted AWS accounts with AWS credentials](../configure-iam-role-aws-account.md).
 
 2.  Save the form.
 3.  In the empty row of the Datacenter Filters list, double-click the datacenter cell, and then select a datacenter.

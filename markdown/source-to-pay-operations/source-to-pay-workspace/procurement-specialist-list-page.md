@@ -96,7 +96,7 @@ To debug why a particular field is visible or hidden, navigate to Form Builder f
 
 From the contextual side panel, you can view relevant information such as Agent Assist, attachments, templates, and procurement cases and tasks associated with that procurement record via dynamic related records.
 
-For information on Agent Assist, see [Agent assist in Source-to-Pay Workspace](agent-assist-procurement-workspace.md). For information on procurement and supplier case creation, see [Create a procurement case](../task/create-procurement-case.md) and [Create a supplier case](../task/create-supplier-case-spo.md). For information on procurement task creation, see [Create a procurement task](../task/create-procurement-task.md).
+For information on Agent Assist, see [Agent assist in Source-to-Pay Workspace](../sourcing-and-procurement-operations/agent-assist-procurement-workspace.md). For information on procurement and supplier case creation, see [Create a procurement case](../sourcing-and-procurement-operations/create-procurement-case.md) and [Create a supplier case](../sourcing-and-procurement-operations/create-supplier-case-spo.md). For information on procurement task creation, see [Create a procurement task](../sourcing-and-procurement-operations/create-procurement-task.md).
 
 As sourcing managers and fulfillers, you also get a contextual view of supplier profile cards for procurement objects​ such as purchase requisitions​, sourcing requests​, negotiation event​s, negotiations​, and procurement cases​. These supplier profile cards help you with key relevant information such as supplier name, industry, onboarded flag, website, supplier contact, if any, and so on​. All the relevant suppliers for each procurement object are visible in the contextual side panel. For example, if a sourcing request is being worked on with three suppliers, then all the three supplier profile cards are visible in the contextual panel. ​You can further drill down into the supplier 360-degree view by selecting the individual supplier cards, and gather details about them.
 
@@ -114,14 +114,14 @@ For information on activity stream in Sidebar, see [Activity stream in Sidebar](
 
 For detailed information on integrating and enabling Sidebar with Microsoft Teams, see [Integrate Sidebar and Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/integrating-sidebar-teams.md) and [Enable or configure the Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/enable-teams-integration.md).
 
-**Parent Topic:**[Source-to-Pay Workspace list page](../../source-to-pay-operations/concept/source-to-pay-list-page.md)
+**Parent Topic:**[Source-to-Pay Workspace list page](source-to-pay-list-page.md)
 
 **Related topics**  
 
 
-[SLO list page](../../supplier-lifecycle-operations/concept/supp-workspace-list-page.md)
+[SLO list page](supp-workspace-list-page.md)
 
-[APO list page](../../accounts-payable-operations/concept/acc-pay-workspace-list-page.md)
+[APO list page](acc-pay-workspace-list-page.md)
 
-[POM list page](../../purchase-order-management/concept/pom-list-page.md)
+[POM list page](pom-list-page.md)
 

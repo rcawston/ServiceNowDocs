@@ -32,5 +32,5 @@ Role required: sn\_rtl\_instore\_ops.manager
 6.  Select a task to open the **Details** view and take action as needed.
 
 
-**Parent Topic:**[Track In-store operations cases and tasks](../concept/rahi-retail-in-store-ops-track.md)
+**Parent Topic:**[Track In-store operations cases and tasks](rahi-retail-in-store-ops-track.md)
 

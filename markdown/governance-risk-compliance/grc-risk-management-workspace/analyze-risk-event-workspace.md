@@ -42,7 +42,7 @@ If you need more information about the risk event, you can ask the submitter to 
 
 3.  Click the Details related list and modify any information that you may need.
 
-    If the risk event occurred but the losses were quickly recovered, the**Full rapid recovery** option is selected. If the risk event resulted in a gain, instead of a loss, the **Financial gain** option is selected. To understand how a risk event can result in a gain, see [Manage risk events](../../grc-risk/reference/manage-risk-events.md#)
+    If the risk event occurred but the losses were quickly recovered, the**Full rapid recovery** option is selected. If the risk event resulted in a gain, instead of a loss, the **Financial gain** option is selected. To understand how a risk event can result in a gain, see [Manage risk events](manage-risk-events.md#)
 
 4.  Click **Save**
 
@@ -61,5 +61,5 @@ If you need more information about the risk event, you can ask the submitter to 
 
 If the risk event is of subtype **Actual**, create risk event entries. For more information see [Create a risk event entry in the Risk Workspace](create-risk-event-entry-ws.md).
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

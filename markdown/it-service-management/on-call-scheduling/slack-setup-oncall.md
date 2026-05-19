@@ -66,5 +66,5 @@ The Slack spoke automates On-Call Scheduling notifications and responds to them.
     This action performs appropriate operations when the user clicks **Accept** or **Reject** from Slack. It invokes the utility methods to perform actions from the OnCallSlackUtils script include.
 
 
-**Parent Topic:**[Configuring On-Call Scheduling](../../user-administration/concept/configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](configuration.md)
 

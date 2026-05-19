@@ -80,5 +80,5 @@ Jeopardy Management assesses all tasks in a workflow and adjusts the risk level 
 For information on configuring and using Jeopardy Management, see:
 
 -   [Configuring Jeopardy Management](configuring-jeopardy-management.md)
--   [Monitoring order jeopardy](../task/monitoring-jeopardy-management.md)
+-   [Monitoring order jeopardy](monitoring-jeopardy-management.md)
 

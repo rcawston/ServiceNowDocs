@@ -63,7 +63,7 @@ Number of security questions that are displayed on the Verify page while a user 
 </table>3.  Click **Update**.
 
 
-**Parent Topic:**[Password Reset verifications](../concept/c_PWRVerifications.md)
+**Parent Topic:**[Password Reset verifications](c_PWRVerifications.md)
 
 **Related topics**  
 

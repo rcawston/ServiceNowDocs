@@ -104,5 +104,5 @@ The type of member. Options are: -   Store associate
 
 ## What to do next
 
-Ensure that this member has the appropriate role. For more information, see [Assign roles to Retail users](../task/rahi-retail-assign-roles-users.md).
+Ensure that this member has the appropriate role. For more information, see [Assign roles to Retail users](rahi-retail-assign-roles-users.md).
 

@@ -26,9 +26,9 @@ Specify the records used to train a classification solution, what fields trigger
 
 A predictive model is only as good as the data that you use to train it. To select appropriate records for training, examine the table's database dictionary as well as the current quality of the record values that you want to use.
 
-For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](../reference/predictive-intelligence-encryption.md).
+For information on using encrypted training data, see [Data Encryption in Predictive Intelligence](predictive-intelligence-encryption.md).
 
-For information about the minimum and maximum number of records you can use for training, see [Predictive Intelligence properties](../reference/predictive-intelligence-properties.md).
+For information about the minimum and maximum number of records you can use for training, see [Predictive Intelligence properties](predictive-intelligence-properties.md).
 
 **Note:** Classes that have fewer than 30 records in your training dataset are excluded from solution training. When your solution is trained and complete, any excluded classes are listed in the Solution Statistics section of your ML Solution form.
 

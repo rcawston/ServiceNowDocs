@@ -143,5 +143,5 @@ Option to enable a text message that displays to the user when the agent initiat
     The defined chat configuration defined is applicable only for the selected table. You can extend the chat configuration to other tables by creating another chat configuration record.
 
 
-**Parent Topic:**[Chat-specific configuration for Collaboration services for Zoom](../concept/additional-configuration-sn-cs-zoom.md)
+**Parent Topic:**[Chat-specific configuration for Collaboration services for Zoom](additional-configuration-sn-cs-zoom.md)
 

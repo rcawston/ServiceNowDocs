@@ -118,9 +118,9 @@ As a supplier manager or fulfiller, you can update the state of the case and clo
 
 [Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
 
-[Configure due dates for supplier cases](../task/configure-case-due-date.md)
+[Configure due dates for supplier cases](configure-case-due-date.md)
 
 [Playbook for updating the supplier primary data](primary-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
 

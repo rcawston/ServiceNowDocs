@@ -15,17 +15,17 @@ breadcrumb: [Managing enterprise assets and tasks using the Mobile Agent applica
 
 Manage all the repair tasks associated with the defective enterprise assets in your stockroom using the intuitive Mobile Agent application.
 
--   **[Start working on a enterprise asset repair task using the Mobile Agent application](../task/start-work-repair-task-mobile-eam.md)**  
+-   **[Start working on a enterprise asset repair task using the Mobile Agent application](start-work-repair-task-mobile-eam.md)**  
 Indicate in the Mobile Agent application when you start work on a repair task assigned to you.
 -   **[Record time worked on an enterprise asset repair task using the Mobile Agent application](record-time-worked-repair-task-mobile-agent-eam.md)**  
 Manage and record time worked on Troubleshoot asset, Repair asset, and Evaluate asset tasks using the Mobile Agent application. After you start working on a task, you can pause and resume work. You can also record the time worked manually.
--   **[Close an enterprise asset repair task using the Mobile Agent application](../task/complete-repair-task-mobile-app-eam.md)**  
+-   **[Close an enterprise asset repair task using the Mobile Agent application](complete-repair-task-mobile-app-eam.md)**  
 Complete an assigned enterprise asset repair task and mark the task as closed using the Mobile Agent application.
 
-**Parent Topic:**[IT Asset Management](../../software-asset-management2/concept/it-asset-management.md)
+**Parent Topic:**[IT Asset Management](../it-asset-management.md)
 
 **Related topics**  
 
 
-[Manage an Enterprise Asset Management task using the Mobile Agent application](../task/work-order-mobile-agent-eam.md)
+[Manage an Enterprise Asset Management task using the Mobile Agent application](work-order-mobile-agent-eam.md)
 

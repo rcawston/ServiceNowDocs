@@ -34,18 +34,18 @@ Because the Contract Management Overview module is a type of homepage, you can a
     ![Contract Management Overview module](../image/contract-management-overview.png)
 
 
-**Parent Topic:**[Contract Management](../concept/c_ContractManagement.md)
+**Parent Topic:**[Contract Management](c_ContractManagement.md)
 
 **Related topics**  
 
 
-[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)
+[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](contract-approval-workflow.md)
 
-[Contract Management use](../concept/c_UseContractManagement.md)
+[Contract Management use](c_UseContractManagement.md)
 
-[Condition check definitions](../concept/c_UseConditionCheckDefinitions.md)
+[Condition check definitions](c_UseConditionCheckDefinitions.md)
 
-[Domain separation and Contract Management](../concept/domain-separation-contract-mgmt.md)
+[Domain separation and Contract Management](domain-separation-contract-mgmt.md)
 

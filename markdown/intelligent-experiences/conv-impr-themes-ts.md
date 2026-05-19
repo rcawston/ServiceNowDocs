@@ -19,7 +19,7 @@ Associated Error Codes/Warning: N/A.
 
 Steps to Resolve:
 
-Make sure all the skills and scheduled jobs are active by following the steps given in [Activating Conversation Improvement Themes](../task/conv-impr-themes-activate.md).
+Make sure all the skills and scheduled jobs are active by following the steps given in [Activating Conversation Improvement Themes](conv-impr-themes-activate.md).
 
 **Scenario/Symptom: Execution staging records are stuck on Processing/Failed.**
 

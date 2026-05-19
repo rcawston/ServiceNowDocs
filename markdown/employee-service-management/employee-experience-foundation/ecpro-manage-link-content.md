@@ -25,7 +25,7 @@ Role required: sn\_cd.content\_manager
 
 2.  Click New or an existing Link Content.
 
-    For more information on the fields and description, see [Link content form](../reference/link-content-form.md).
+    For more information on the fields and description, see [Link content form](link-content-form.md).
 
 3.  Click **Submit**, **Update**, or **Save**
 
@@ -39,7 +39,7 @@ Use the Content Library to create content that includes the link and publish it 
 -   [Create URL content](ec-content-library-portal-url.md)
 -   [Create image-based link content](ec-content-library-portal-image.md)
 -   [Create customized media with styled content](ec-content-library-portal-styled.md)
--   [Mobile content](../concept/ec-mobile-content.md)
+-   [Mobile content](ec-mobile-content.md)
 
 **Note:** The option to open links in a new tab is only supported in the Service Portal. In the mobile app and Workspace, links will open in the current window, regardless of the **Load link in** configuration.
 

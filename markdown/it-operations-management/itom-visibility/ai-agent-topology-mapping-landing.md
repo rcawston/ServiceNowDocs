@@ -31,7 +31,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about CI tables, fields, and relationships](../reference/ai-agent-topology-mapping-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about CI tables, fields, and relationships](ai-agent-topology-mapping-reference.md)
 
 </td></tr></tbody>
 </table>

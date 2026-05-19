@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-The properties of the GetResolution component are common with the properties of the other Screen components. To configure these properties, see [Properties of the Screen components](../reference/util-screen-prop.md).
+The properties of the GetResolution component are common with the properties of the other Screen components. To configure these properties, see [Properties of the Screen components](util-screen-prop.md).
 
 ## Procedure
 
@@ -42,5 +42,5 @@ The properties of the GetResolution component are common with the properties of 
 
 The GetResolution component passes the current screen resolution through the Return Data Out port to the Show component. The Show component takes the resolution through its Message Data In port and is displayed in a message box.
 
-**Parent Topic:**[Screen](../concept/screen.md)
+**Parent Topic:**[Screen](screen.md)
 

@@ -17,12 +17,12 @@ Plan and configure your implementation of HR Multi Instance Integration.
 
 ## Configuration overview
 
-1.  [Import users](../task/import-users-hr-mii.md).
-2.  [Configure HR Multi Instance Integration for Provider](../task/config-hr-multi-instance-1.md)
+1.  [Import users](import-users-hr-mii.md).
+2.  [Configure HR Multi Instance Integration for Provider](config-hr-multi-instance-1.md)
 
     If you are a provider, plan and implement the configuration of HR Multi Instance Integration for Provider.
 
-3.  [Configure HR Multi Instance Integration for Consumer](../task/config-hr-multi-instance.md)
+3.  [Configure HR Multi Instance Integration for Consumer](config-hr-multi-instance.md)
 
     If you are a consumer, plan and implement the configuration of HR Multi Instance Integration for Consumer.
 

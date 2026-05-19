@@ -17,7 +17,7 @@ Use the Value dashboard page to gain insights into the value realized from multi
 
 The Value dashboard page contains visualizations that help you assess the value of your AI assets. Creator skills are included in the Value dashboard page. Value metrics for creator skills are aggregated across non-production and production instances.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../ai-native-sku-overview.md).
 
 ![Value tab in AI Control Tower.](../image/value-tab-aict.png "Value tab in AI Control Tower")
 

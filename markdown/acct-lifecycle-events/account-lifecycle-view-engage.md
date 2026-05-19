@@ -23,11 +23,11 @@ The following options are available:
 
 -   Discuss: Select **Discuss** to start a sidebar discussion about this engagement. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this engagement. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the **Activity stream**.
 -   Refresh Health: Select this option to update the health score for this engagement.
--   Create success play: See [Create a success play](../task/account-lifecycle-create-success-play.md)
--   Internal play: See [Create an internal play playbook](../task/account-lifecycle-create-internal-play-playbook.md).
--   Risk signal: See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md).
--   Success case: See [Create a customer play](../task/account-lifecycle-create-success-case-playbook.md).
--   Touchpoint: See [Create a touchpoint](../task/account-lifecycle-create-touchpoint.md).
+-   Create success play: See [Create a success play](account-lifecycle-create-success-play.md)
+-   Internal play: See [Create an internal play playbook](account-lifecycle-create-internal-play-playbook.md).
+-   Risk signal: See [Create a risk signal](account-lifecycle-create-risk-signal.md).
+-   Success case: See [Create a customer play](account-lifecycle-create-success-case-playbook.md).
+-   Touchpoint: See [Create a touchpoint](account-lifecycle-create-touchpoint.md).
 
 The Engagement record page contains the following tabs:
 
@@ -67,11 +67,11 @@ In this tab, you can see the current health score and the health of the engageme
 
 ![Engagement health score.](../image/account-lifecycle-engagement-health.png)
 
-In the Indicators section, you see the metrics used to calculate the health score for this engagement. See [Calculate the engagement health score](../task/account-lifecycle-setup-health-defn.md). For each metric, you’ll the target score, weight, and gap percentage. Select the **Sort by** option to sort the metrics listed by score, weight, and gap.
+In the Indicators section, you see the metrics used to calculate the health score for this engagement. See [Calculate the engagement health score](account-lifecycle-setup-health-defn.md). For each metric, you’ll the target score, weight, and gap percentage. Select the **Sort by** option to sort the metrics listed by score, weight, and gap.
 
 ## Success blueprint
 
-In this tab, you can view the success objectives associated with this engagement. You can view the high-level details of each success objective including Due date, Start date, Key contact, Assigned to, and Products. If the success blueprint hasn’t been defined, select **Create success blueprint**. See [Create a success blueprint](../task/account-lifecycle-create-blueprint.md) for instructions on creating a success blueprint. You can do the following:
+In this tab, you can view the success objectives associated with this engagement. You can view the high-level details of each success objective including Due date, Start date, Key contact, Assigned to, and Products. If the success blueprint hasn’t been defined, select **Create success blueprint**. See [Create a success blueprint](account-lifecycle-create-blueprint.md) for instructions on creating a success blueprint. You can do the following:
 
 -   Sort by: You can sort the list by Due date of the objectives.
 -   View by State: Select one of the states from the drop-down list. This can be:
@@ -88,7 +88,7 @@ In this tab, you can view the success objectives associated with this engagement
 
 ## Product adoption
 
-In this tab, you can view the product adoption score for all applicable sold products associated with this engagement. The adoption score is determined using the calculated metrics that have been configured for the sold products. See [Define a calculated metric data source](../task/account-lifecycle-define-data-source-calculate.md) for more details.
+In this tab, you can view the product adoption score for all applicable sold products associated with this engagement. The adoption score is determined using the calculated metrics that have been configured for the sold products. See [Define a calculated metric data source](account-lifecycle-define-data-source-calculate.md) for more details.
 
 The following details are included:
 
@@ -108,7 +108,7 @@ The following details are included:
         -   Activation status
 -   Product adoption roadmaps: The list of product adoption roadmaps that have been created for this engagement. You can do the following:
     -   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the Product adoption roadmap page. See [View a product adoption roadmap](account-lifecycle-view-par-roadmap.md) for details.
-    -   Select **New product adoption roadmap** to create roadmap. See [Create a product adoption roadmap](../task/account-lifecycle-create-par-roadmap.md) for details.
+    -   Select **New product adoption roadmap** to create roadmap. See [Create a product adoption roadmap](account-lifecycle-create-par-roadmap.md) for details.
 
 ## Renewal and expansion
 

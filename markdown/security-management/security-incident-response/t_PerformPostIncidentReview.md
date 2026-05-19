@@ -37,7 +37,7 @@ To start a post incident review:
 
 ## Procedure
 
-1.  [Create a security incident](../concept/si-creation.md), or open an existing one by navigating to **Security Incident** &gt; **Incidents** &gt; **Assigned to Me \(or Assigned to Team or Unassigned Incidents\)**.
+1.  [Create a security incident](si-creation.md), or open an existing one by navigating to **Security Incident** &gt; **Incidents** &gt; **Assigned to Me \(or Assigned to Team or Unassigned Incidents\)**.
 
 2.  Click the **Post Incident Review** tab.
 

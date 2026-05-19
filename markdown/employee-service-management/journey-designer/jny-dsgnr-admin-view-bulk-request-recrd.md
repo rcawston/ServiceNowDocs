@@ -42,5 +42,5 @@ Role required: sn\_jny.admin
     Links that are selectable lead to additional information for the listed column.
 
 
-**Parent Topic:**[Manage Journey designer bulk updates for tasks](../concept/jny-dsgnr-bulk-update-admnstrtn.md)
+**Parent Topic:**[Manage Journey designer bulk updates for tasks](jny-dsgnr-bulk-update-admnstrtn.md)
 

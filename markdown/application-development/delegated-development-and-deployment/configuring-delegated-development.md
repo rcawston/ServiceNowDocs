@@ -21,7 +21,7 @@ Configure Delegated Development to assign, delete, display or hide permissions.
 
     Ability to assign full access to source control for a particular scope to a delegated developer. The Source Control menu is only visible if you have the correct permissions for the application that you are working in. Before you begin.
 
--   [Assign delete permissions](../concept/assign-delete-permissions.md)
+-   [Assign delete permissions](assign-delete-permissions.md)
 
     Assign the ability to delete an application to a delegated developer.
 
@@ -29,7 +29,7 @@ Configure Delegated Development to assign, delete, display or hide permissions.
 
     Display or hide deployment permissions for update sets from the Manage Developers dialog.
 
--   [Instance-specific deployment user roles](../concept/delegated_deployment_user_roles.md)
+-   [Instance-specific deployment user roles](delegated_deployment_user_roles.md)
 
     Assign roles that enable non-admin users install or upgrade all applications in specific instances. You delegate these tasks by manually assigning specific user roles per instance.
 

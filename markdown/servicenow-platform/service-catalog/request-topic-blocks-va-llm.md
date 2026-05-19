@@ -88,7 +88,7 @@ Option that indicates if Now LLM was used while requesting the item, that is, if
 
 The following conditions must be met when a user requests a catalog item in the conversation mode in Virtual Agent powered by Now LLM.
 
--   A catalog item cannot have more than the number of questions specified in the **sn\_now\_assist\_cr.llm.conversational.request.question.limit** property. By default, this number is set to 500. For more information about this property, see [Service Catalog properties](../reference/r_ServiceCatalogProperties.md).
+-   A catalog item cannot have more than the number of questions specified in the **sn\_now\_assist\_cr.llm.conversational.request.question.limit** property. By default, this number is set to 500. For more information about this property, see [Service Catalog properties](r_ServiceCatalogProperties.md).
 -   Lookup select box variables can't have an advanced reference qualifier, such as a reference qualifiers containing JavaScript. If a catalog item with the Lookup select box contains such advanced reference qualifiers, the item becomes non-conversational. Also, if a catalog item contains the Lookup select box variable with more than 20 choices, the item becomes non-conversational. This behavior is managed by a value of the **sn\_now\_assist\_cr.llm.lookup\_select\_choice\_limit** system property, which has a default value as 20.
 -   A catalog item can have scripted catalog UI policies. But when a catalog item has scripted UI policies containing unsupported methods or functions, the catalog item becomes non-conversational.
 -   The following methods or classes are supported in the catalog client scripts or scripted UI policies for a catalog item to be conversational:
@@ -184,7 +184,7 @@ The following conditions must be met when a user requests a catalog item in the 
 -   A catalog item can have catalog client scripts. But when a catalog item has catalog client scripts containing unsupported methods or functions, the catalog item becomes non-conversational.
 -   The variables containing pricing implications aren't supported.
 -   You can specify the upper limit for the number of records of reference type variables corresponding to a table in the **sn\_now\_assist\_cr.llm.reference\_question\_choices.limit** property. By default, the limit is 2000000. If you specify the value more than 2000000, then it might impact the response time.
--   The UI page variable type is ignored in Virtual Agent like the UI page is ignored in Service Portal. For more information, see [Types of service catalog variables](../reference/r_VariableTypes.md).
+-   The UI page variable type is ignored in Virtual Agent like the UI page is ignored in Service Portal. For more information, see [Types of service catalog variables](r_VariableTypes.md).
 -   To support the custom variables, users must associate topic blocks with the custom variables to represent them in the conversational interfaces. If the users don't associate topic blocks, the catalog item containing the custom variables, becomes non-conversational.
 -   If you know that a variable makes a catalog item non-conversational, you can remove such variable from the conversational interfaces by selecting **Remove from Conversational Interfaces** option. Find the option in the Availability tab of the question form in ServiceNow AI Platform.
 -   The field messages aren't shown to the requester in the following scenarios:
@@ -235,7 +235,7 @@ The following conditions must be met when a user requests a catalog item in the 
 
 **Note:** If you've installed the Now Assist in Conversational Catalog Request application, these conditions corresponds to the catalog item's conversational mode in the Virtual Agent powered by Now LLM.
 
-**Parent Topic:**[Conversational catalog request reference](../reference/conversational-catalog-request-reference.md)
+**Parent Topic:**[Conversational catalog request reference](conversational-catalog-request-reference.md)
 
 **Related topics**  
 

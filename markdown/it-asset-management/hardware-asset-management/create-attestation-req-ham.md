@@ -146,5 +146,5 @@ Comments related to asset attestation.
 
 [View open asset attestations in the Hardware Asset Workspace](view-open-asset-attest-ham.md).
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
 

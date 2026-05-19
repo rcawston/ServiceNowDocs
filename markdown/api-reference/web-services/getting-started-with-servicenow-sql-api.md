@@ -65,11 +65,11 @@ To learn more about configuring and using SQL API, see:
 -   [Configuring SQL API](configuring-sql-api.md)
 -   [Install SQL API plugin on your ServiceNow instance](install-sql-api-plugin.md)
 -   [Common use cases for SQL API](common-use-cases-for-sql-api.md)
--   [SQL API reference information](../reference/troubleshooting.md)
+-   [SQL API reference information](troubleshooting.md)
 
 -   **[SQL API architecture](sql-api-architecture.md)**  
 The SQL API architecture demonstrates how the SQL API plugin integrates with the ServiceNow system to provide secure, read-only data access through industry-standard ODBC and JDBC drivers.
--   **[Supported SQL functions](../reference/supported-sql-functions.md)**  
+-   **[Supported SQL functions](supported-sql-functions.md)**  
 Common SQL functions used in SQL API for querying and analyzing incident data.
 -   **[Common use cases for SQL API](common-use-cases-for-sql-api.md)**  
 The SQL API supports business intelligence reporting, ad-hoc data analysis, and custom report development.

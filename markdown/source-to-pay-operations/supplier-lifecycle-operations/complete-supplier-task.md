@@ -38,7 +38,7 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 The state of the task updates to **Closed complete**.
 
-**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
 
 **Related topics**  
 

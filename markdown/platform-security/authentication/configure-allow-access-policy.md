@@ -45,7 +45,7 @@ Role required: adaptive\_auth\_admin
 
     ![sample filter criteria for allow access policy](../images/filter-criteria-allow-access-policy.png)
 
-    **Note:** For information on creating your own filter criteria to use in this section, see [Filter criteria](../concept/adaptive-auth-filter-criteria.md).
+    **Note:** For information on creating your own filter criteria to use in this section, see [Filter criteria](adaptive-auth-filter-criteria.md).
 
 6.  From the **Policy Conditions** tab, click **New**.
 

@@ -87,7 +87,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[Configure Customer Central](../task/configure-customer-central.md)
+[Configure Customer Central](configure-customer-central.md)
 
-[Use Customer Central](../task/use-customer-central.md)
+[Use Customer Central](use-customer-central.md)
 

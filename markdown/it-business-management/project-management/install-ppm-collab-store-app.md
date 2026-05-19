@@ -68,11 +68,11 @@ The following components are installed with installation of the application:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with PPM Collaboration](../reference/components-installed-with-ppm-collab.md).
+For more information, see [Components installed with PPM Collaboration](components-installed-with-ppm-collab.md).
 
 ## What to do next
 
-[Setting up PPM collaboration for Slack](../concept/set-up-collab-ppm.md).
+[Setting up PPM collaboration for Slack](set-up-collab-ppm.md).
 
-**Parent Topic:**[Using Project Management](../../project-management/concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 

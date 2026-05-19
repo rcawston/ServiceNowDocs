@@ -19,7 +19,7 @@ For a successful project, review the corporate style guide and communicate with 
 
 A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages. In most environments, many pages share a few themes. Use multiple themes within a site to create stylistic differentiators between site areas. You can also use a single theme to create one unified look and feel for the site.
 
--   **[Customize a design theme](../task/t_CreateADesignTheme.md)**  
+-   **[Customize a design theme](t_CreateADesignTheme.md)**  
 A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages.
 
 **Parent Topic:**[Style in Content Management](c_StyleInContentManagement.md)
@@ -27,7 +27,7 @@ A theme is a collection of one or more style sheets \(CSS files\) that define a 
 **Related topics**  
 
 
-[Define a frame in a style sheet](../task/t_DefineTheFrameInAStyleSheet.md)
+[Define a frame in a style sheet](t_DefineTheFrameInAStyleSheet.md)
 
-[Create a frame UI macro](../task/t_CreateANewFrameUIMacro.md)
+[Create a frame UI macro](t_CreateANewFrameUIMacro.md)
 

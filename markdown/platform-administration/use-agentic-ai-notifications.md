@@ -30,7 +30,7 @@ Available AI agents
 
 </th></tr></thead><tbody><tr><td>
 
-[Intent to action](../concept/email-agentic-workflow.md)
+[Intent to action](email-agentic-workflow.md)
 
 </td><td>
 

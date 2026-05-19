@@ -71,7 +71,7 @@ When you select a building, the building is opened in a stack plan view where yo
 -   In the **Settings** tab, you can apply a filter based on which you want to see the spaces on a floor.
 -   You can’t edit a scenario when you open it in the building view. To edit a scenario of a building, copy that scenario and make changes. The scenario copies the exact building data and enables you to make changes. The changes don’t affect the main data as long as it’s deployed. To create a scenario of a building, you can also select the **Create scenario** option when the building is open in the stack plan view.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

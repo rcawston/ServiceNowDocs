@@ -73,16 +73,16 @@ On survey questionnaires, the answer options for a question appear in order from
 
 If you use survey result calculations, ensure the question **Scale definition** is set appropriately based on the answer options. In the previous example, if you want the answer option **Good** to earn the highest score, the scale definition should be **Low** because **Good** has the smallest value.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](c_SurveyQuestion.md)
 
 **Related topics**  
 
 
 [Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](c_SurveyQuestionTemplate.md)
 
 [Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
 

@@ -27,7 +27,7 @@ ARC gives employees a safe, confidential way to report suspected misconduct with
 
 **Note:** When submitting an anonymous report, don't include personal data about yourself or other individuals that could directly or indirectly reveal identity. For example, names, email addresses, or phone numbers.
 
-Anonymous reports accept standard text characters. Avoid including executable code, scripts, or unsupported special characters, as they may be removed automatically during submission. For more information, refer to [Anonymous Reporting Center](../concept/grc-anonymous-reporting-center.md).
+Anonymous reports accept standard text characters. Avoid including executable code, scripts, or unsupported special characters, as they may be removed automatically during submission. For more information, refer to [Anonymous Reporting Center](grc-anonymous-reporting-center.md).
 
 ## Procedure
 
@@ -48,9 +48,9 @@ Anonymous reports accept standard text characters. Avoid including executable co
 
 ## What to do next
 
--   [Report a compliance case anonymously](../../grc-compliance-case-mgmt/task/report-compliance-case-anonymously.md)
--   [Report a privacy case anonymously](../../grc-privacy-management/task/report-privacy-case-anonymously.md)
--   [Report an AI case anonymously](../../grc-ai-risk-compliance/task/report-ai-case-anon.md)
+-   [Report a compliance case anonymously](../compliance-case-management/report-compliance-case-anonymously.md)
+-   [Report a privacy case anonymously](../privacy-workspace/report-privacy-case-anonymously.md)
+-   [Report an AI case anonymously](../ai-risk-management/report-ai-case-anon.md)
 
-**Parent Topic:**[Anonymous Reporting Center](../concept/grc-anonymous-reporting-center.md)
+**Parent Topic:**[Anonymous Reporting Center](grc-anonymous-reporting-center.md)
 

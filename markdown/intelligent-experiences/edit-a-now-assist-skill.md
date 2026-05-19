@@ -53,5 +53,5 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 The skill is activated with your preferred settings. You can now [install other plugins](install-now-assist-feature-plugins.md) or [activate other skills](configure-a-now-assist-skill.md).
 
-**Parent Topic:**[Using Now Assist Admin](../concept/using-now-assist-admin_0.md)
+**Parent Topic:**[Using Now Assist Admin](using-now-assist-admin_0.md)
 

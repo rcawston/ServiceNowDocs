@@ -80,7 +80,7 @@ Tools are legitimate software that are used by threat actors to perform attacks.
 
 [Vulnerability Artifacts](vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](define-rss-feeds.md)
 
 [Working with Reports in TISC](tisc-reports-lib-view.md)
 

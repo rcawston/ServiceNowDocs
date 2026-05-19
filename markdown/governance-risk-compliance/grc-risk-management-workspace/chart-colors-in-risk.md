@@ -40,5 +40,5 @@ If you want to add or modify a risk criteria or a risk rating, a report administ
 
 ![Chart colors defined for risk.](../image/chart-colors.jpg "Chart colors")
 
-**Parent Topic:**[Using the Risk Workspace](../../grc-workspace-risk/concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
 

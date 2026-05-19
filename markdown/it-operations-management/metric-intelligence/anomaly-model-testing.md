@@ -53,9 +53,9 @@ The bounds and the chart for the anomaly model test, appear in faint colors in I
 
     **Note:** Anomaly Model Testing results might be very similar to actual anomaly detection results. If you configure the chart to display both at the same time, as you move the mouse over the chart, it might be difficult to identify points of differences.
 
--   When you are satisfied with the anomaly test results, enable anomaly detection in the production environment, for the metrics and CIs specified in the test. See [Choose and configure metrics to monitor](configure-metric-monitors.md) for more details.
+-   When you are satisfied with the anomaly test results, enable anomaly detection in the production environment, for the metrics and CIs specified in the test. See [Choose and configure metrics to monitor](../agent-client-collector/configure-metric-monitors.md) for more details.
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](optimizing-metric-intelligence.md)
 
 **Related topics**  
 

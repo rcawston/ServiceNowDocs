@@ -87,5 +87,5 @@ Skills to review
     The agent will receive a notification to review the request.
 
 
-**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](skills-management-wfo-itsm.md)
 

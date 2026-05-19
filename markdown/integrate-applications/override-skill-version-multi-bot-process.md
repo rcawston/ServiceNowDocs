@@ -42,5 +42,5 @@ In the **Bot Process** tab of the Skill package version form, you can override a
     The list shows the bot processes for the attended or unattended packages that are associated with the selected skill package.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 

@@ -33,5 +33,5 @@ With activation of the Interview Management plugin, the associated tables and sc
 |Preferred slot \[sn\_ta\_int\_mgmt\_preferred\_slot\]|Preferred slots of the user.|
 |Slot repeat config \[sn\_ta\_int\_mgmt\_slot\_repeat\_config\]|Slot repeat configuration for recurring slots.|
 
-**Parent Topic:**[Interview Management reference](../concept/interview-management-reference.md)
+**Parent Topic:**[Interview Management reference](interview-management-reference.md)
 

@@ -23,9 +23,9 @@ Allows you to monitor, manage, and minimize identity-based risk and security gap
 
 </td><td>
 
-[Activate ![Reference](../../../common/image/icon-reference.png)](../task/activate-the-identity-center.md)
+[Activate ![Reference](../../../common/image/icon-reference.png)](activate-the-identity-center.md)
 
- [Understand how to activate Identity Center.](../task/activate-the-identity-center.md)
+ [Understand how to activate Identity Center.](activate-the-identity-center.md)
 
 </td></tr><tr><td>
 

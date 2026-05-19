@@ -17,7 +17,7 @@ Learn more about Workplace Services Kiosk to provide efficient check-in, check-o
 
 ## Workplace Services Kiosk overview
 
-Customize Workplace Services Kiosk to suit the needs of employees and visitors. Visitors can autonomously check in, check out, self-register, and make workplace reservations on the kiosk map. Efficient visitor check-in process reduces wait times and long queues during busy or peak hours. Visitors can use invitation sent by employees. They can check in or check out using a pass code, name, email, or phone number. Employees can use the [Workplace Visitor Management](../../workplace-visitor-mgmt/concept/workplace-visitor-mgmt-feat.md) feature to send invites to visitors and receive notification when a visitor checks-in using the kiosk. Workplace Services Kiosk offers following capabilities:
+Customize Workplace Services Kiosk to suit the needs of employees and visitors. Visitors can autonomously check in, check out, self-register, and make workplace reservations on the kiosk map. Efficient visitor check-in process reduces wait times and long queues during busy or peak hours. Visitors can use invitation sent by employees. They can check in or check out using a pass code, name, email, or phone number. Employees can use the [Workplace Visitor Management](../workplace-visitor-management/workplace-visitor-mgmt-feat.md) feature to send invites to visitors and receive notification when a visitor checks-in using the kiosk. Workplace Services Kiosk offers following capabilities:
 
 ## Workplace Services Kiosk users
 
@@ -48,9 +48,9 @@ Create kiosks, configure welcome pages, add modules to the kiosk, and add a Rese
 
 </td><td>
 
--   [Create a kiosk configuration](../task/create-kiosk-device-config.md)
--   [Create a kiosk homepage](../task/create-kiosk-homepage.md)
--   [Configure Reservable Module for kiosk reservation](../task/config-rsv-module-kiosk.md)
+-   [Create a kiosk configuration](create-kiosk-device-config.md)
+-   [Create a kiosk homepage](create-kiosk-homepage.md)
+-   [Configure Reservable Module for kiosk reservation](config-rsv-module-kiosk.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Create modules for the check-in and self-registration flow or the check-out flow
 
 </td><td>
 
-[Create a kiosk module](../task/create-kiosk-module.md)
+[Create a kiosk module](create-kiosk-module.md)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Check in autonomously to avoid waiting in a queue
 
 </td><td>
 
-[Check in using an invite](../task/visitor-check-in.md)
+[Check in using an invite](visitor-check-in.md)
 
 </td><td>
 
@@ -99,7 +99,7 @@ Make workplace reservations on Kiosk Map.
 
 </td><td>
 
-[Make workplace reservations on the kiosk](../task/rsv-space-kiosk-map.md)
+[Make workplace reservations on the kiosk](rsv-space-kiosk-map.md)
 
 </td><td>
 
@@ -113,5 +113,5 @@ To learn more about configuring and using Workplace Services Kiosk, see:
 -   [Configuring Workplace Services Kiosk](configure-workplace-services-kiosk.md)
 -   [Managing Workplace Services Kiosk](manage-workplace-services-kiosk.md)
 -   [Using Workplace Services Kiosk](use-workplace-services-kiosk.md)
--   [Workplace Services Kiosk reference](../reference/workplace-services-kiosk-reference.md)
+-   [Workplace Services Kiosk reference](workplace-services-kiosk-reference.md)
 

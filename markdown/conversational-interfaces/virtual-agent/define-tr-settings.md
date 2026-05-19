@@ -41,7 +41,7 @@ When configuring analysis reports, consider the following:
 
 5.  On the form, fill in the fields.
 
-    For details, see [Topic Recommendations settings](../reference/tr-settings-page.md).
+    For details, see [Topic Recommendations settings](tr-settings-page.md).
 
 6.  Select **Save**.
 

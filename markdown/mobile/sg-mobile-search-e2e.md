@@ -148,5 +148,5 @@ Whether photo search is available for your search bar. If the **glide.sg.image\_
 19. Click **Save** when you have finished adding item configurations.
 
 
-**Parent Topic:**[Configure search criteria](../concept/sg-create-custom-search.md)
+**Parent Topic:**[Configure search criteria](sg-create-custom-search.md)
 

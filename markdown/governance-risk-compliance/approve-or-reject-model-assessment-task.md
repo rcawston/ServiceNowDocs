@@ -48,5 +48,5 @@ Role required: sn\_model\_risk\_mgmt.task\_approver
         This action terminates the current workflow and initiates it again from the beginning.
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 

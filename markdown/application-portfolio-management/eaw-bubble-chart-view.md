@@ -21,14 +21,14 @@ Select the application rationalization icon \(![Application rationalization icon
 
 Use the bubble chart to view indicator scores of business applications in the X and Y axes and specify the bubble sizes. You can use these scores to measure how your applications are aligned to your business strategy and then create demands for the applications.
 
-You can also create your own application indicators to analyze business applications in the bubble chart. For information on how to create custom application indicators, see [Add or edit an application indicator](../../task/eaw-task/eaw-create-indicator.md).
+You can also create your own application indicators to analyze business applications in the bubble chart. For information on how to create custom application indicators, see [Add or edit an application indicator](eaw-create-indicator.md).
 
 **Note:**
 
--   The created indicator must also be attached to the default application profile. For information on how to attach new profile indicators with a scoring profile, see [Attach a profile indicator with an application scoring profile](../../task/eaw-task/eaw-attach-profile-indicators-with-application-scoring-profiles.md).
--   If the created indicator isn’t displayed in the bubble size list, verify that the indicator is active. For information on how to activate an indicator, see [Activate or turn off an application or capability indicator](../../task/eaw-task/eaw-enable-or-disable-an-application-indicator.md).
+-   The created indicator must also be attached to the default application profile. For information on how to attach new profile indicators with a scoring profile, see [Attach a profile indicator with an application scoring profile](eaw-attach-profile-indicators-with-application-scoring-profiles.md).
+-   If the created indicator isn’t displayed in the bubble size list, verify that the indicator is active. For information on how to activate an indicator, see [Activate or turn off an application or capability indicator](eaw-enable-or-disable-an-application-indicator.md).
 
-You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md).
+You can also generate insights into business applications using Now Assist. For information, see [Generate insights into business applications](generate-insights-into-ba.md).
 
 ## Bubbles displayed on the chart
 
@@ -59,19 +59,19 @@ All the indicator scores are displayed according to the latest fiscal period, by
 
 ![Scores for fiscal period list highlighted on the Application rationalization bubble chart page.](../../image/eaw-image/fiscal-period-dropdown-bubble-chart.png)
 
-The bubble chart displays up to 500 bubbles representing business applications, by default. If you want to see more than 500 bubbles, you can configure the **sn\_apm\_ws.appRationalizationMaximumBubbles** system property. For details, see [Change the number of bubbles displayed on the bubble chart](../../task/eaw-task/eaw-update-sys-prop-change-number-of-bubbles.md).
+The bubble chart displays up to 500 bubbles representing business applications, by default. If you want to see more than 500 bubbles, you can configure the **sn\_apm\_ws.appRationalizationMaximumBubbles** system property. For details, see [Change the number of bubbles displayed on the bubble chart](eaw-update-sys-prop-change-number-of-bubbles.md).
 
 You can use the available filters to reduce the number of business application bubbles displayed on-screen. You can use the advanced filter to find business applications by applying specific criteria, such as application details, application indicators and scores, and associated business capabilities. Your filter preferences are saved and applied the next time you visit the page.
 
-For more information, see [Apply filters on the Application Rationalization page](../../task/eaw-task/eaw-apply-filters-app-rat.md).
+For more information, see [Apply filters on the Application Rationalization page](eaw-apply-filters-app-rat.md).
 
 ## Actions available on the bubble chart page
 
 You can perform the following by hovering over a bubble in the chart and then selecting the context menu:
 
--   Create a demand for a business application. For more information, see [Create a demand using the bubble chart](../../task/eaw-task/eaw-create-a-demand-using-the-bubble-chart.md).
--   Set the planned disposition of a business application. For more information, see [Set the planned disposition of a business application](../../task/eaw-task/eaw-set-planned-disposition-of-a-business-application.md).
--   Add business application lifecycle data. For more information, see [Add business application lifecycle data using the bubble chart](../../task/eaw-task/eaw-add-business-application-lifecycle-data.md).
+-   Create a demand for a business application. For more information, see [Create a demand using the bubble chart](eaw-create-a-demand-using-the-bubble-chart.md).
+-   Set the planned disposition of a business application. For more information, see [Set the planned disposition of a business application](eaw-set-planned-disposition-of-a-business-application.md).
+-   Add business application lifecycle data. For more information, see [Add business application lifecycle data using the bubble chart](eaw-add-business-application-lifecycle-data.md).
 
 ## Zoom or pan on the bubble chart
 
@@ -151,7 +151,7 @@ Press and hold Shift key and then click and move the cursor**Note:** For the pan
 **Related topics**  
 
 
-[Analyze applications using the bubble chart](../../task/eaw-task/eaw-analyze-applications-by-capability.md)
+[Analyze applications using the bubble chart](eaw-analyze-applications-by-capability.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](generate-insights-into-ba.md)
 

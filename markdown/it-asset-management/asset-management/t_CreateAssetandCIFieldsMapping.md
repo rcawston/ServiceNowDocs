@@ -46,5 +46,5 @@ You can conditionally map the fields for synchronization. For example, you can m
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+**Parent Topic:**[Work with Asset and CI](work-with-asset-ci.md)
 

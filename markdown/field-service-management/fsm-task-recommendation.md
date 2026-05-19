@@ -24,9 +24,9 @@ Set up Intelligent Task Recommendations to efficiently recommend tasks to agents
 **Related topics**  
 
 
-[Configuring Intelligent Task Recommendations](administer-task-recommendations.md)
+[Configuring Intelligent Task Recommendations](field-service-scheduling/administer-task-recommendations.md)
 
-[Assign work order tasks to agents using Intelligent Task Recommendation](manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents using Intelligent Task Recommendation](field-service-scheduling/manage-work-order-tasks-dw.md#)
 
-[Assign tasks to yourself based on Intelligent Task Recommendation](../task/recommend-task-fsm-mobile.md)
+[Assign tasks to yourself based on Intelligent Task Recommendation](work-order-management/recommend-task-fsm-mobile.md)
 

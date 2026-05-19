@@ -32,7 +32,7 @@ The dashboard enables you work on a case at any time. You can perform any action
 -   View the workplace location on the floor map. For move cases, view the **From location** and **To location** on the map.
 -   Create child cases and child tasks if needed. For more information, refer to [Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md).
 
-For more information about the features and actions that you can perform in the workspace, refer to [Case Management - Key features, Actions &amp; Case details](../reference/case-management-key-features-actions-case-details.md).
+For more information about the features and actions that you can perform in the workspace, refer to [Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md).
 
 ## Procedure
 
@@ -57,11 +57,11 @@ For more information about the features and actions that you can perform in the 
 
     The list view displays the cases as WCASEXXXX for normal workplace cases, WMCXXXX for maintenance cases and WMOVEXXXX for move cases.
 
-    The case details are displayed in a new tab. For more information about the view, the actions that you can perform and additional features, refer to the **Case details page** section in the [Case Management - Key features, Actions &amp; Case details](../reference/case-management-key-features-actions-case-details.md) topic.
+    The case details are displayed in a new tab. For more information about the view, the actions that you can perform and additional features, refer to the **Case details page** section in the [Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md) topic.
 
 5.  Summarize the case using Now Assist for WSD.
 
-    For more information about summarizing a workplace case, see [Summarize a workplace case using Now Assist for WSD](../../now-assist-wsd/task/summarize-workplace-case.md).
+    For more information about summarizing a workplace case, see [Summarize a workplace case using Now Assist for WSD](../now-assist-for-wsd/summarize-workplace-case.md).
 
 6.  Perform your changes.
 
@@ -157,8 +157,8 @@ Select the Template icon \(![Template icon.](../images/casemgmt-templateicon.png
 -   To view templates added by you, select **My Templates** tab.
 To create a template, refer to:
 
--   [Create a Workplace case template](../../workplace-case-mgmt/task/wsd-case-template.md)
--   [Create a Workplace task template](../../workplace-case-mgmt/task/wsd-task-template.md)
+-   [Create a Workplace case template](../workplace-case-management/wsd-case-template.md)
+-   [Create a Workplace task template](../workplace-case-management/wsd-task-template.md)
 
 
 </td></tr><tr><td id="d357752e564">
@@ -181,7 +181,7 @@ Select the Location icon \(![Location icon.](../images/casemgmt-locationicon.png
 
 </td><td>
 
-Select the fulfillment Instructions icon \(![Fulfillment instructions icon.](../images/casemgmt-fulfimenticon.png)\).To add fulfillment instructions, refer to [Add Fulfillment instructions](../../workplace-case-mgmt/task/add-fulfillment-instructions.md).
+Select the fulfillment Instructions icon \(![Fulfillment instructions icon.](../images/casemgmt-fulfimenticon.png)\).To add fulfillment instructions, refer to [Add Fulfillment instructions](../workplace-case-management/add-fulfillment-instructions.md).
 
 </td></tr><tr><td id="d357752e649">
 
@@ -230,7 +230,7 @@ Go to the **Approvers** tab.
 
 Go to the **Case SLAs** tab.-   View the SLA details associated with the case.
 -   Select **New** to add an SLA.
-To create the SLA definition, refer to [Create an SLA Definition](../../workplace-case-mgmt/task/create-sla-defn-case-mgmt.md).
+To create the SLA definition, refer to [Create an SLA Definition](../workplace-case-management/create-sla-defn-case-mgmt.md).
 
 </td></tr><tr><td id="d357752e779">
 
@@ -280,7 +280,7 @@ Go to the **Requested Service Items** tab.
 
 The workplace case is updated or modified based on your changes. To cancel or delete the case, refer to [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md).
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](working-with-case-management.md)
 
 **Related topics**  
 
@@ -293,7 +293,7 @@ The workplace case is updated or modified based on your changes. To cancel or de
 
 [Print a workplace case](print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](manage-print-case.md#)
 
 [Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
 

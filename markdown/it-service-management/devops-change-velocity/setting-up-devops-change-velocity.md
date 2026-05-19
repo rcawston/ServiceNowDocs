@@ -17,14 +17,14 @@ Learn about the setup process for DevOps Change Velocity that is required before
 
 The DevOps playbooks provide a task-oriented view and guides you through the various steps while setting up your applications, tools, and discovering and configuring your pipelines. If you have not enabled the Next Experience UI, you can still perform the following tasks using the Classic UI. For more information about migrating to the Next Experience UI and configuring workspaces, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
 
-1.  [Install DevOps Change Velocity](../task/activate-dev-ops.md).
+1.  [Install DevOps Change Velocity](activate-dev-ops.md).
 
-2.  [Assign roles and tasks using workspace](../task/assign-roles-tasks-workspace.md).
+2.  [Assign roles and tasks using workspace](assign-roles-tasks-workspace.md).
 
-    Roles that are installed with DevOps Change Velocity are listed in [Components installed with DevOps Change Velocity](../reference/installed-with-dev-ops.md).
+    Roles that are installed with DevOps Change Velocity are listed in [Components installed with DevOps Change Velocity](installed-with-dev-ops.md).
 
-3.  [Set up integration user account](../task/devops-plybk-set-up-system-accts.md).
-4.  [Onboard to DevOps Change Velocity](../task/onboarding-using-devops-change-workspace.md).
+3.  [Set up integration user account](devops-plybk-set-up-system-accts.md).
+4.  [Onboard to DevOps Change Velocity](onboarding-using-devops-change-workspace.md).
 
     Get started by connecting tools, creating applications, and automating change creation.
 

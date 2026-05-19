@@ -22,5 +22,5 @@ Certain properties provide support for SOAP requests to use a web proxy server.
 |glide.http.proxy\_username|If the proxy server is authenticating using user name and password, enter a value for this property|proxyuser|
 |glide.http.proxy\_password|If the proxy server is authenticating using user name and password, enter a value for this property|password|
 
-**Parent Topic:**[Outbound SOAP web service](../concept/c_OutboundSOAPWebService.md)
+**Parent Topic:**[Outbound SOAP web service](c_OutboundSOAPWebService.md)
 

@@ -38,5 +38,5 @@ If an individual page has a specific tag with the same name as the site tag, the
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Content Management meta tags](../concept/c_ContentManagementMetaTags.md)
+**Parent Topic:**[Content Management meta tags](c_ContentManagementMetaTags.md)
 

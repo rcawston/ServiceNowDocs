@@ -33,7 +33,7 @@ Lucidchart API version 1.0.
 
 ## Spoke requirements
 
-The Lucidchart Diagramming Spoke requires creating a workspace and custom app on your Lucid account to generate OAuth 2.0 tokens for the Lucidchart Diagramming spoke. See [Create OAuth 2.0 Client in Lucidchart](../task/set-up-lucidchart.md) and [Create a connection and credential alias for the Lucidchart Diagramming spoke](../task/create-conn-cred-lucidchart.md).
+The Lucidchart Diagramming Spoke requires creating a workspace and custom app on your Lucid account to generate OAuth 2.0 tokens for the Lucidchart Diagramming spoke. See [Create OAuth 2.0 Client in Lucidchart](set-up-lucidchart.md) and [Create a connection and credential alias for the Lucidchart Diagramming spoke](create-conn-cred-lucidchart.md).
 
 ## Spoke actions
 
@@ -43,5 +43,5 @@ The Lucidchart Diagramming Spoke provides **Create Diagram** action to access yo
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Create a connection and credential alias for the Lucidchart Diagramming spoke](../task/create-conn-cred-lucidchart.md).
+For information about setting up the spoke, see [Create a connection and credential alias for the Lucidchart Diagramming spoke](create-conn-cred-lucidchart.md).
 

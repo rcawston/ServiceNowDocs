@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the Dell EMC Isilon pattern to find components of Dell EMC Isilon. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-For a complete list of devices and applications that ITOM Visibility can discover, see [Detailed information on products discovered by ITOM Visibility](../reference/r_SupportedApplications.md).
+For a complete list of devices and applications that ITOM Visibility can discover, see [Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md).
 
 ## Request apps on the Store
 

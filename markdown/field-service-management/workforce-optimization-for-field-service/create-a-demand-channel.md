@@ -23,7 +23,7 @@ Ensure the Field Service Territory Planning \(com.snc.fsm\_territory\_planning\)
 
 ## About this task
 
-The scheduling system uses demand channel attributes \(conditions and order\) for capacity reservation rules based on demand channels. For more information, see [Create a reservation rule](../concept/capacity-reservations.md#)
+The scheduling system uses demand channel attributes \(conditions and order\) for capacity reservation rules based on demand channels. For more information, see [Create a reservation rule](capacity-reservations.md#)
 
 ## Procedure
 
@@ -63,5 +63,5 @@ By defining these fields, the "Install" demand channel in the reservation rule w
 **Related topics**  
 
 
-[Field Service Territory Capacity Analytics dashboard](../../../use/dashboards/application-content-packs/capacity-dashboard.md)
+[Field Service Territory Capacity Analytics dashboard](../capacity-dashboard.md)
 

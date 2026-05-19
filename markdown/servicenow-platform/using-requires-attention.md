@@ -47,5 +47,5 @@ You can track and resolve to pending tasks efficiently from the **Requires Atten
 **Related topics**  
 
 
-[Requires attention](../concept/exploring-requires-attention.md)
+[Requires attention](servicenow-platform/exploring-requires-attention.md)
 

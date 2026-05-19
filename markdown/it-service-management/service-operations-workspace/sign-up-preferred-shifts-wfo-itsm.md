@@ -64,5 +64,5 @@ You can receive notifications when your manager makes a schedule plan available 
     All shifts you have added for sign up will be submitted.
 
 
-**Parent Topic:**[Service Operations Workspace - Scheduling](../concept/itsm-sow-workspace-scheduling.md)
+**Parent Topic:**[Service Operations Workspace - Scheduling](itsm-sow-workspace-scheduling.md)
 

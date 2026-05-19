@@ -13,19 +13,19 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The **Isolate Host** capability restricts system connections to other devices. Isolate host is executed against a configuration item \(CI\).
 
-The **Isolate Host** capability has a flow, [Security Operations - Isolate Host Flow](../../security-operations-integrations/task/secops-integration-isolate-host-workflow.md) that accepts one or more CIs and optionally an implementation. You can specify an implementation to use to isolate the host or for the flow to attempt to isolate the host using all implementations.
+The **Isolate Host** capability has a flow, [Security Operations - Isolate Host Flow](secops-integration-isolate-host-workflow.md) that accepts one or more CIs and optionally an implementation. You can specify an implementation to use to isolate the host or for the flow to attempt to isolate the host using all implementations.
 
-**Note:** While not integrated with a capability, a flow, [Security Operations Carbon Black Integration- Remove Host Isolation Flow](../../security-operations-integrations/task/secops-integration-cb-remove-host-isolation-workflow.md) is available for orchestration to restore communication with an isolated host.
+**Note:** While not integrated with a capability, a flow, [Security Operations Carbon Black Integration- Remove Host Isolation Flow](secops-integration-cb-remove-host-isolation-workflow.md) is available for orchestration to restore communication with an isolated host.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Run Isolate Host](../task/run-isolate-host.md)**  
+-   **[Run Isolate Host](run-isolate-host.md)**  
 **Isolate Host** restricts system connections to other devices.
--   **[Security Operations - Isolate Host Flow](../../security-operations-integrations/task/secops-integration-isolate-host-workflow.md)**  
+-   **[Security Operations - Isolate Host Flow](secops-integration-isolate-host-workflow.md)**  
 The **Security Operations - Isolate Host** flow is a high-level flow independent of integrations. It uses the configured queries to search for a set of configuration items. Use it to fulfill an integration, such as Carbon Black.
--   **[Security Operations Carbon Black Integration - Isolate Host Flow](../../security-operations-integrations/task/secops-integration-cb-isolate-host-workflow.md)**  
+-   **[Security Operations Carbon Black Integration - Isolate Host Flow](secops-integration-cb-isolate-host-workflow.md)**  
 The Security Operations Carbon Black Integration - Isolate Host is the implementation for the Carbon Black integration launched by the Security Operations Integration - Isolate Host flow.
--   **[Security Operations Carbon Black Integration- Remove Host Isolation Flow](../../security-operations-integrations/task/secops-integration-cb-remove-host-isolation-workflow.md)**  
+-   **[Security Operations Carbon Black Integration- Remove Host Isolation Flow](secops-integration-cb-remove-host-isolation-workflow.md)**  
 The **Security Operations Carbon Black Integration - Remove Host Isolation** flow unblocks communication with a specified host or endpoint in a Carbon Black system.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -51,5 +51,5 @@ The **Security Operations Carbon Black Integration - Remove Host Isolation** flo
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

@@ -33,7 +33,7 @@ Getting ready to implement Now Assist is more than just installing pluginsâ€”itâ
 
 </td><td>
 
-[Resolve common issues![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Address issues or gaps in your Now Assist configuration.](../../now-assist-admin/reference/now-assist-install-config-checklist.md)
+[Resolve common issues![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Address issues or gaps in your Now Assist configuration.](now-assist-install-config-checklist.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Getting ready to implement Now Assist is more than just installing pluginsâ€”itâ
 
 Additional implementation information is available on [Now Create](https://learning.servicenow.com/nowcreate).
 
-For additional Now Assist resources, see [Additional resources for AI products and solutions](../../general/reference/ai-additional-resources.md).
+For additional Now Assist resources, see [Additional resources for AI products and solutions](ai-additional-resources.md).
 
 **Important:**
 
@@ -63,5 +63,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](opt-out-of-data-sharing-for-now-assist.md).
 

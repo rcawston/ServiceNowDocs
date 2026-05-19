@@ -37,10 +37,10 @@ Requirements and use case:
 
 For more information, see:
 
--   [Tables installed](../../grc-policy-and-compliance/reference/r_InstallWPolAndCompl.md#) for descriptions of the common item m2m tables.
--   [Control form changes](../task/create-control-ws.md) with respect to common controls.
--   [Convert standard control to common control](../task/convert-standard-control-common.md) to add reliant entities.
--   [Action handler components](../../grc-common/reference/components-item-gen-process.md#table_cgt_f4d_ftb) for common controls.
--   [Operational changes in item generation of common controls](../../grc-common/reference/item-gen-action-types.md).
+-   [Tables installed](../policy-and-compliance-management/r_InstallWPolAndCompl.md#) for descriptions of the common item m2m tables.
+-   [Control form changes](create-control-ws.md) with respect to common controls.
+-   [Convert standard control to common control](convert-standard-control-common.md) to add reliant entities.
+-   [Action handler components](../grc-common-functions/components-item-gen-process.md#table_cgt_f4d_ftb) for common controls.
+-   [Operational changes in item generation of common controls](../grc-common-functions/item-gen-action-types.md).
 -   [Impact of common control on compliance score calculation](compliance-score-common-control.md).
 

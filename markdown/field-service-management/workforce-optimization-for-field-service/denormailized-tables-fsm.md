@@ -31,7 +31,7 @@ Denormalized tables just make it easier for information to be delivered to dispa
 
 When data is added to denormalized tables, the process is divided into 4 jobs. For example, if you have 1600 agents the processing of those agent's data will be divided into four jobs each with 400 agents. You can change the number of jobs that process data, but you must contact ServiceNow to do this.
 
-You can change the number of weeks' worth of data that's stored in denormalized tables. For more information, see [Update the data stored in denormalized tables](../task/denormalized-data-weeks.md). For information related to the data model used to create denormalized tables, see [Data model for denormalized tables in Field Service Management](../reference/flat-table-model.md).
+You can change the number of weeks' worth of data that's stored in denormalized tables. For more information, see [Update the data stored in denormalized tables](denormalized-data-weeks.md). For information related to the data model used to create denormalized tables, see [Data model for denormalized tables in Field Service Management](../flat-table-model.md).
 
 The following features use denormalized tables:
 
@@ -45,7 +45,7 @@ Never change any of the data directly in a denormalized table. This can cause Fi
 
 ## Denormalized table properties
 
-There are three system properties that control table denormalization for Field Service Management. For more information, see the properties listed below on [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
+There are three system properties that control table denormalization for Field Service Management. For more information, see the properties listed below on [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
 
 Denormalized tables are enabled by default. You must disable the property sn\_fsm.wm\_weekly\_resource\_span to turn off denormalized tables.
 

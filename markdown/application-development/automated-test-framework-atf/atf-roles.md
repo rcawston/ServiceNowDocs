@@ -133,5 +133,5 @@ View or set the basic or mutual authentication needed for REST endpoints that re
     None.
 
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](../concept/atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)
 

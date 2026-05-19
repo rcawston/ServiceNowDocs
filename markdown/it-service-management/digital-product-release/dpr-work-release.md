@@ -33,7 +33,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
     **Note:** The selected schedule must be within the release duration \(release target date\).
 
-    The phase start and end dates are updated and the release duration is recalculated by considering the non-working days in the schedule. For more information on how schedules impact the dates of phases and release target, see [Holiday schedules in a release](../concept/dpr-release-holiday-schedule.md).
+    The phase start and end dates are updated and the release duration is recalculated by considering the non-working days in the schedule. For more information on how schedules impact the dates of phases and release target, see [Holiday schedules in a release](dpr-release-holiday-schedule.md).
 
 5.  If the release isn't in progress, select **Start release**.
 
@@ -87,7 +87,7 @@ Automated email notifications are triggered at key release life cycle events. No
 -   A task approval request is submitted
 -   A task approval request is rejected
 
-For more information, see [Email notifications in Digital Product Release](../reference/dpr-email-notification.md).
+For more information, see [Email notifications in Digital Product Release](dpr-email-notification.md).
 
 ### Procedure
 
@@ -97,7 +97,7 @@ For more information, see [Email notifications in Digital Product Release](../re
 
 2.  Review the risk score for the current phase on the Release overview dashboard.
 
-    The risk score of timeline-oriented releases combines overdue task scores and policy failure scores, weighted by their respective importance. For more information, see [Risk score for timeline-oriented releases](../concept/dpr-risk-score-release.md#).
+    The risk score of timeline-oriented releases combines overdue task scores and policy failure scores, weighted by their respective importance. For more information, see [Risk score for timeline-oriented releases](dpr-risk-score-release.md#).
 
 3.  Update a release phase.
 
@@ -215,7 +215,7 @@ For more information, see [Email notifications in Digital Product Release](../re
 
         2.  In the Add key date dialog box, fill in the fields.
 
-            For more information, see [Release key date form](../reference/release-key-date-form.md).
+            For more information, see [Release key date form](release-key-date-form.md).
 
         3.  Select **Save**.
     -   Update the existing key dates in the release:

@@ -71,5 +71,5 @@ Finally, you ask the same question again in an exploration, asking for all open 
 
 ![Response in an exploration with record level analytics.](../image/ai-data-expl-response-with-rla.png)
 
-**Parent Topic:**[Configure AI Data Explorer](../concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](configure-now-ass-explorer.md)
 

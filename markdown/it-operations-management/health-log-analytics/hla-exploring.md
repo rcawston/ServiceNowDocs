@@ -26,7 +26,7 @@ Health Log Analytics can handle any kind of machine-generated textual log data. 
 -   Health Log Analytics supports only UTF-8 logs. It does not support binary logs.
 -   If you are sending logs in a language other than English, additional configuration may be required.
 
-For a brief explanation of key terms and concepts used in HLA, see the [Health Log Analytics terminology](../reference/hla-glossary.md).
+For a brief explanation of key terms and concepts used in HLA, see the [Health Log Analytics terminology](hla-glossary.md).
 
 ## Health Log Analytics users
 
@@ -118,22 +118,22 @@ The diagram shows the Health Log Analytics workflow from collecting the data thr
 
 |Benefit|Feature|User|
 |-------|-------|----|
-|Use predictiveLog Analytics alerts to handle emerging IT issues before they escalate and impact users.|[Analyzing and resolving Log Analytics alerts](../../health-log-analytics-operator/concept/hla-analyzing-resolving-hla-alert.md)|Operator|
+|Use predictiveLog Analytics alerts to handle emerging IT issues before they escalate and impact users.|[Analyzing and resolving Log Analytics alerts](hla-analyzing-resolving-hla-alert.md)|Operator|
 |Set up log data connector integrations quickly and conveniently from the Integrations Launchpad.|[Log data connector integrations](hla-data-input-setup-integrations.md)|Administrator|
 |Shorten onboarding time by installing content packs.|[Content packs](hla-content-packs.md)|Administrator|
 |Save time and reduce errors by migrating data input configurations between instances.|[Data input migration](hla-data-input-migration.md)|Administrator|
-|Identify the root cause of an alert by analyzing the logs that surround the anomaly.|[Surrounding logs](../../health-log-analytics-operator/concept/hla-op-surrounding-logs-view-concept.md)|Operator|
-|Visualize anomalous log data.|[Log viewer](../../health-log-analytics-operator/concept/hla-op-logs-log-viewer-concept.md)|Operator|
-|Detect relationships in log data.|[Log correlators](../../health-log-analytics-operator/concept/hla-op-correlator-what-is-a.md)|Operator|
-|Assign higher or lower significance to alerts.|[Mute alert metrics](../../health-log-analytics-operator/concept/hla-op-alert-significance.md)|Operator|
-|Reduce noise by creating log filters.|[Log alert filters](../../health-log-analytics-operator/concept/hla-op-adv-alert-filtering.md)|Operator|
+|Identify the root cause of an alert by analyzing the logs that surround the anomaly.|[Surrounding logs](hla-op-surrounding-logs-view-concept.md)|Operator|
+|Visualize anomalous log data.|[Log viewer](hla-op-logs-log-viewer-concept.md)|Operator|
+|Detect relationships in log data.|[Log correlators](hla-op-correlator-what-is-a.md)|Operator|
+|Assign higher or lower significance to alerts.|[Mute alert metrics](hla-op-alert-significance.md)|Operator|
+|Reduce noise by creating log filters.|[Log alert filters](hla-op-adv-alert-filtering.md)|Operator|
 |Influence how Health Log Analytics finds anomalies by managing keywords it looks for in the log data.|[Lexical keywords](hla-log-anomaly-detection.md)|Operator|
 |Create alerts for specified metrics by adding, changing, or deleting rules.|[Custom alert rules](hla-alert-rules-manage.md)|Operator|
 
 ## What to explore next
 
 -   [Health Log Analytics architecture](hla-architecture.md)
--   [How Health Log Analytics generates alerts](../../health-log-analytics-operator/concept/hla-op-anomalies-detecting.md)
--   [Types of anomalous behavior in Health Log Analytics](../../health-log-analytics-operator/reference/hla-op-anomalous-behavior-types.md)
--   [Types of Health Log Analytics alerts](../../health-log-analytics-operator/reference/hla-op-log-analytics-alert-types.md)
+-   [How Health Log Analytics generates alerts](hla-op-anomalies-detecting.md)
+-   [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md)
+-   [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md)
 

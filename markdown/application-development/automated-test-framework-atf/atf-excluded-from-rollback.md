@@ -42,5 +42,5 @@ The system excludes certain tables from being tracked or rolled back:
 
 If your test run changes \(inserts/updates/deletes\) any record on these excluded tables, the system does not roll back the change after testing.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](../concept/atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)
 

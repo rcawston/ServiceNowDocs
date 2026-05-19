@@ -41,5 +41,5 @@ This process describes the use of probes, which are active on your instance if y
 5.  The Boss - Get jboss-service.xml probe uses the **classpath** parameter in the running process to search for the `jboss-service.xml`file in the related `server\default\conf\` directory for the JBoss installation.
 6.  If the probe successfully finds the `jboss-service.xml` file in the `server\default\conf\` directory, the sensor reads the contents of the XML file. It then creates additional records in the Web Service \[cmdb\_ci\_web\_service\] table as necessary.
 
-**Parent Topic:**[Red Hat JBoss server discovery](../concept/c_DataCollDiscoJBossServers.md)
+**Parent Topic:**[Red Hat JBoss server discovery](c_DataCollDiscoJBossServers.md)
 

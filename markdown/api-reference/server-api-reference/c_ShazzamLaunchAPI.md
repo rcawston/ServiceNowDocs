@@ -17,7 +17,7 @@ The ShazzamLaunch script include provides methods to handle the details of launc
 
 Use this script include to launch a Shazzam probe during the discovery scanning phase.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ShazzamLaunch - ShazzamLaunch\(DiscoveryStatus status, DiscoverySchedule schedule\)
 

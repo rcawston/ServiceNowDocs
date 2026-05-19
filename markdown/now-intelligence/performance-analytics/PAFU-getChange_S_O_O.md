@@ -33,7 +33,7 @@ In this example, we have the indicator Number of open incidents, whose scores ar
 pa.getChange($[[Number of open incidents]], new GlideDateTime(score_start.getYear() + '-' + score_start.getMonth() + '-01'), score_start);
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -58,5 +58,5 @@ pa.getChange($[[Number of open incidents]], new GlideDateTime(score_start.getYea
 
 [getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

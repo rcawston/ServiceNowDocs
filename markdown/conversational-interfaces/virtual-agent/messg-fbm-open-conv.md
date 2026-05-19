@@ -19,5 +19,5 @@ The Virtual Agent conversations are configured for the Facebook Messenger app. B
 
 As an administrator, you can change the default timeout period for idle Virtual Agent conversations configured for the Facebook Messenger app by setting the **com.glide.cs.facebook\_messenger\_idle\_timeout** system property to the number of seconds that abandoned conversations remain open after the requester's last response. The system property value must be less than the time interval set for the **Time Out Abandoned VA Conversations** scheduled job, set to two hours \(7200 seconds\) by default. Because the **com.glide.cs.facebook\_messenger\_idle\_timeout** system property isn't available by default, you must add it with the data type set to integer. For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](../task/messg-fbm-configure.md)
+**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](messg-fbm-configure.md)
 

@@ -105,5 +105,5 @@ The Send Outreach form in Emergency Outreach has an option to send a survey inst
 
 Employee Readiness Surveys is installed on your instance. Use it by navigating to the Emergency Outreach app.
 
-**Parent Topic:**[Employee Readiness Surveys](../concept/employee-readiness-surveys.md)
+**Parent Topic:**[Employee Readiness Surveys](employee-readiness-surveys.md)
 

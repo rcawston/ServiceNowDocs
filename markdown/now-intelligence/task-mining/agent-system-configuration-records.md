@@ -15,7 +15,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 Configuration records manage the behavior of the workstation agent and Task Mining environment.
 
-For information about configuration, see [Adjust Task Mining agent parameters](../task/set-system-parameters.md).
+For information about configuration, see [Adjust Task Mining agent parameters](set-system-parameters.md).
 
 |Record|Description|Default value|
 |------|-----------|-------------|
@@ -37,5 +37,5 @@ For information about configuration, see [Adjust Task Mining agent parameters](.
 |Off activity threshold|Determines the duration threshold that triggers Lock and Private activities to be reclassified as Off. Value in seconds.|7200|
 |Max treemap categories displayed|Defines the maximum number of categories displayed in a treemap. Additional categories are aggregated into a tile labeled Minor activities.|99|
 
-**Parent Topic:**[Task Mining Reference](../concept/reference-task-mining.md)
+**Parent Topic:**[Task Mining Reference](reference-task-mining.md)
 

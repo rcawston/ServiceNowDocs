@@ -80,7 +80,7 @@ As part of the Walk-up Experience, records in the following tables can be domain
 -   Walk-up contexts `[wu_context]`
 -   Interactions `[interaction]`
 
-**Parent Topic:**[Walk-up Experience reference](../reference/walk-up-experience-reference.md)
+**Parent Topic:**[Walk-up Experience reference](walk-up-experience-reference.md)
 
 **Related topics**  
 

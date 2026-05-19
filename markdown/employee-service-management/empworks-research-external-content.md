@@ -26,7 +26,7 @@ Role required: Employee
 
 ## About this task
 
-The AI assistant keeps external research, internal proof points, and artifact generation in one cohesive flow. You complete prospect preparation without switching to a separate browser tab. You also don't paste confidential information into a public AI tool. For background, see [AI assistant reasoning engine](../concept/empworks-moveworks-capabilities.md#section-reasoning-engine) and [World Knowledge](../concept/empworks-moveworks-capabilities.md#section-world-knowledge).
+The AI assistant keeps external research, internal proof points, and artifact generation in one cohesive flow. You complete prospect preparation without switching to a separate browser tab. You also don't paste confidential information into a public AI tool. For background, see [AI assistant reasoning engine](empworks-moveworks-capabilities.md#section-reasoning-engine) and [World Knowledge](empworks-moveworks-capabilities.md#section-world-knowledge).
 
 ## Procedure
 

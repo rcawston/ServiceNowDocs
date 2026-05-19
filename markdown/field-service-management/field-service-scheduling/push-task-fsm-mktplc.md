@@ -19,7 +19,7 @@ Create a marketplace request and push to contractors using Field Service Marketp
 
 Role required: sn\_mktplace\_core.mktplace\_requestor
 
-Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](activate-contractor-marketplace.md).
+Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
 The work order task must have the Marketplace task flag set to true.
 
@@ -50,7 +50,7 @@ You can push tasks to contractors on Field Service Marketplace. The following pr
 
 ## Result
 
-The request is sent to the contractors. Contractors can respond with time or cost estimates depending on the configuration. For more information, see [Create a marketplace engagement method](create-marketplace-eng-mthd.md).
+The request is sent to the contractors. Contractors can respond with time or cost estimates depending on the configuration. For more information, see [Create a marketplace engagement method](../workforce-optimization-for-field-service/create-marketplace-eng-mthd.md).
 
 ## What to do next
 
@@ -64,7 +64,7 @@ Use the Add Contractor button to add an eligible contractor to the list of marke
 
 Role required: sn\_mktplace\_core.mktplace\_requestor
 
-Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](activate-contractor-marketplace.md).
+Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
 The work order task must have already been pushed to Marketplace.
 

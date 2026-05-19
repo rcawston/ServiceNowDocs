@@ -193,8 +193,8 @@ Follow these design considerations when creating flows that contain Submit a Cat
 
 -   **Use transform functions to validate data pills**
 
-    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](../concept/transform-functions.md) for a list of available transform functions.
+    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](transform-functions.md) for a list of available transform functions.
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](flow-actions.md)
 

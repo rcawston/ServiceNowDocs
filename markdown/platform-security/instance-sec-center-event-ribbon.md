@@ -17,7 +17,7 @@ Analyze the event metrics in your instance so that you can identify and prevent 
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md).
 
 In the event ribbon, which is on the Instance Security homepage, you can analyze these metrics and accompanying detail to identify potential security events in the instance.
 
@@ -26,7 +26,7 @@ In the event ribbon, which is on the Instance Security homepage, you can analyze
 
 ## Event types
 
-You can monitor at least six of the following types of events. For more than six events, use the left or right arrows below the event ribbon to scroll through them. To learn how to configure the event ribbon, see [Configure the security event ribbon](../task/instance-sec-center-configure-event-ribbon.md).
+You can monitor at least six of the following types of events. For more than six events, use the left or right arrows below the event ribbon to scroll through them. To learn how to configure the event ribbon, see [Configure the security event ribbon](instance-sec-center-configure-event-ribbon.md).
 
 <table id="table_rpk_b5z_4lb"><thead><tr><th>
 
@@ -66,7 +66,7 @@ External Logins
 
 </td><td>
 
-Number of users with an assigned snc\_external role who logged into this instance during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes. Monitoring this metric enables you to verify that the external login attempts are legitimate and not potential security issues.To learn more about assigning external user roles, see [Explicit Roles](../../contextual-security/concept/explicit-roles.md#).
+Number of users with an assigned snc\_external role who logged into this instance during the calendar day. These logins typically occur for maintenance, support, consulting, or audit purposes. Monitoring this metric enables you to verify that the external login attempts are legitimate and not potential security issues.To learn more about assigning external user roles, see [Explicit Roles](explicit-roles.md#).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Security Elevations
 </td><td>
 
 Number of times that a security administrator has elevated security for standard users by changing their assigned user role to a high privilege security role during the calendar day. These high privilege security roles include oauth\_admin, admin, security\_admin, and impersonator. -   This metric indicates that someone might have tried to elevate the security of an unauthorized user. Do not use this metric by itself to detect a specific security compromise. Instead, treat this metric as an indication that you should check another metric to see if a security compromise has occurred.
--   To learn more about elevating user security, see [Elevate to a privileged role](../task/t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](c_ElevatedPrivilege.md).
+-   To learn more about elevating user security, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md) and [Elevated privilege roles](c_ElevatedPrivilege.md).
 
 </td></tr><tr><td>
 
@@ -159,9 +159,9 @@ For example, you can set a threshold of `10` for the **Failed Logins** metric. W
 
 Trend data and graphs that appear in Event ribbon tile and the KPI Details are updated after the performance analytics job executes at 02:00 local time. To learn more, see [How Daily Compliance score, trend, and graph data is refreshed](how-daily-compl-score-trend-date-refreshed.md).
 
--   **[Configure the security event ribbon](../task/instance-sec-center-configure-event-ribbon.md)**  
+-   **[Configure the security event ribbon](instance-sec-center-configure-event-ribbon.md)**  
 Configure the security event ribbon on the Instance Security Center homepage to include only those events that are relevant for tracking instance security in your operations. You can also change the order in which the security event tiles appear on the ribbon.
--   **[Set preferences for security event notifications](../task/enable-notification-preferences.md)**  
+-   **[Set preferences for security event notifications](enable-notification-preferences.md)**  
 Configure preferences for the types of notifications you want to receive for occurrences of specific security events. For each type, you designate whether to receive notifications by email, by push notification in Now Mobile, or in third party messaging applications such as Slack or Microsoft Teams.
 
 **Parent Topic:**[Instance Security Center](instance-security-center.md)
@@ -169,7 +169,7 @@ Configure preferences for the types of notifications you want to receive for occ
 **Related topics**  
 
 
-[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)
+[Instance Security Center to ServiceNow Security Center migration](instance-security-center-to-security-center-migration.md)
 
 [Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
 
@@ -177,7 +177,7 @@ Configure preferences for the types of notifications you want to receive for occ
 
 [Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
 
-[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](activating-virtual-agent-interface.md)
 
 [Instance Security Center](instance-security-center.md)
 

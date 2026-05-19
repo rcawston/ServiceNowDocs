@@ -42,5 +42,5 @@ The base system counts the number of subscribers per offering and per service. I
 5.  Select **Save**.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 

@@ -66,7 +66,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a Discovery schedule**
 
-    To configure a Discovery schedule through Discovery Admin Workspace, see [Create an IBM Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-ibm-schedule-DAW.md).
+    To configure a Discovery schedule through Discovery Admin Workspace, see [Create an IBM Discovery schedule in Discovery Admin Workspace](../discovery/create-ibm-schedule-DAW.md).
 
     To configure a serverless Discovery schedule:
 
@@ -587,11 +587,11 @@ Option for enabling this schedule for Discovery. Select this check box to enable
 
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../service-mapping/tag_discovery_configuration.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -2486,5 +2486,5 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+</table>**Parent Topic:**[Available cloud discovery patterns](available-patterns-cloud.md)
 

@@ -39,5 +39,5 @@ For customers using the Healthcare and Life Sciences Service Management Core app
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](../reference/hcls-serv-mgmt-core-reference.md)
+**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](hcls-serv-mgmt-core-reference.md)
 

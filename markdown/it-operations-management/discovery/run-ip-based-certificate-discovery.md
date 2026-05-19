@@ -47,7 +47,7 @@ Role required: Certificate administrator, discovery\_admin, or admin
 
     3.  Fill out each text field with its corresponding value.
 
-        For more information on the fields and values, see [IP-Based Discovery Schedule Form Table](../reference/ip-based-cert-discovery-schedule-table.md).
+        For more information on the fields and values, see [IP-Based Discovery Schedule Form Table](ip-based-cert-discovery-schedule-table.md).
 
     4.  Select and hold \(or right-click\) above **Discovery Schedule** and select **Save**.
 
@@ -61,7 +61,7 @@ Role required: Certificate administrator, discovery\_admin, or admin
 
     8.  Fill each field with its corresponding value.
 
-        For more information on the fields and values, see [Setting Your IP Addresses Form and Fields Table](../reference/setting-up-your-ip-addresses.md).
+        For more information on the fields and values, see [Setting Your IP Addresses Form and Fields Table](setting-up-your-ip-addresses.md).
 
     9.  Select **Submit**.
 

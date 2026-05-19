@@ -46,5 +46,5 @@ On-demand generation of the indicator scores is more efficient than running sche
     This action doesn’t update the existing capability indicator scores but deletes them and generates new scores.
 
 
-**Parent Topic:**[Configure scoring profiles](../../concept/eaw-concept/eaw-setup-scroring-prof.md)
+**Parent Topic:**[Configure scoring profiles](eaw-setup-scroring-prof.md)
 

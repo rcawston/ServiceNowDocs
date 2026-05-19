@@ -15,7 +15,7 @@ breadcrumb: [Core UI Reporting, Reporting, Reporting, dashboards, and Performanc
 
 Show existing reports in a Service Portal.
 
-When you edit a portal, add the **Report** widget. Use the widget options to specify a report to show on the service portal and whether to show the title of the report. The widget lists created in the Report Designer. For more information, see [Create a report](../task/t_CreateYourOwnReport.md#).
+When you edit a portal, add the **Report** widget. Use the widget options to specify a report to show on the service portal and whether to show the title of the report. The widget lists created in the Report Designer. For more information, see [Create a report](t_CreateYourOwnReport.md#).
 
 ![Report widget opened in the Service Portal Designer](../image/service-portal-report-widget2.png "Report widget")
 

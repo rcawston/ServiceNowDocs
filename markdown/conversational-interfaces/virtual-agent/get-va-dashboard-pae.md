@@ -43,5 +43,5 @@ Role required: Chat Analytics Admin
     **Note:** You do not need a license or a plugin for Performance Analytics.
 
 
-**Parent Topic:**[Setting up the Conversational Analytics dashboard](../concept/setting-up-va-dashboard-overview1-pae.md)
+**Parent Topic:**[Setting up the Conversational Analytics dashboard](setting-up-va-dashboard-overview1-pae.md)
 

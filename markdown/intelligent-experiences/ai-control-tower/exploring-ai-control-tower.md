@@ -49,5 +49,5 @@ To learn more about AI Control Tower and other applications integrating with its
 -   [Enterprise AI discovery: Unlock Visibility, Governance &amp; Value](enterprise-ai-discovery.md)
 -   [AI Gateway](ai-gateway-overview.md)
 -   [Using AI Control Tower](using-ai-control-tower.md)
--   [AI Control Tower reference](../reference/aict-references.md)
+-   [AI Control Tower reference](aict-references.md)
 

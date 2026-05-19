@@ -151,5 +151,5 @@ Functional domain
 Functional domain of the regulatory agency. This field is automatically set to **Privacy** when the regulatory agency is created from the Privacy Workspace.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add a regulatory agency](../task/add-a-regulatory-agency.md)
+</table>**Parent Topic:**[Add a regulatory agency](add-a-regulatory-agency.md)
 

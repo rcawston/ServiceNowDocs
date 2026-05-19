@@ -27,8 +27,8 @@ In a CI identification rule, specify a CI identifier, and identifier entries and
 
 Review the following before creating identification rules:
 
--   [Identification rules](../concept/c_IdentificationRules.md)
--   [General guidelines for using CMDB Identification](../concept/best-practices-id-reconcile.md)
+-   [Identification rules](c_IdentificationRules.md)
+-   [General guidelines for using CMDB Identification](best-practices-id-reconcile.md)
 -   Explore predefined identification rules:
     1.  Navigate to **All** &gt; **CI Class Manager**.
     2.  Select **Hierarchy** and then search and select, for example, the Hardware class.
@@ -61,7 +61,7 @@ Independent/Dependent
 
 </td><td>
 
-Designation of whether the CI identifier can identify the CI independently of other CIs, or not. **Note:** To set the rule as **Dependent**, you must specify [dependent relationship rules](../concept/create-dependent-relationship.md#) for the selected class.
+Designation of whether the CI identifier can identify the CI independently of other CIs, or not. **Note:** To set the rule as **Dependent**, you must specify [dependent relationship rules](create-dependent-relationship.md#) for the selected class.
 
 </td></tr><tr><td>
 
@@ -160,7 +160,7 @@ A filter to narrow the set of records that will be searched for a matching CI.
 
  Available only if the **glide.identification\_engine.enable\_identifier\_optional\_condition** system property is set to **true** \(**false** by default\). In the base system, identifier entries of various classes are preconfigured with advanced options conditions. All these preconfigured conditions in regular identifier entries will automatically apply when you set this property to **true**. Therefore, to avoid unexpected behavior, review those predefined conditions in regular identifier entries before setting this property to **true**.
 
- For more details about this property, see [Properties for Identification and Reconciliation](../reference/properties-id-reconciliation.md).
+ For more details about this property, see [Properties for Identification and Reconciliation](properties-id-reconciliation.md).
 
 </td></tr></tbody>
 </table>    **Note:** If criterion attributes have only two attributes and **sys\_class\_name** is one of them \(for example \[name, sys\_class\_name\], \[ip\_address, sys\_class\_name\]\), then the other attribute can't be NULL, even if **Allow null attribute** is enabled. This restriction is due to**sys\_class\_name** being considered a special system matching attribute.
@@ -206,7 +206,7 @@ For lookup identification, match a CI only on exact lookup records count match.W
 1.  Matches any CI that has at least one of the lookup items from the input payload referencing the CI in CMDB.
 2.  If there are multiple matches, selects the CIs with the max number of lookup items from the input payload referencing the CI in CMDB.
 3.  If there are still multiple matches, selects the oldest created CI as the final match.
-For information about how this setting can affect creation of de-duplication tasks for duplicate referenced CIs, see [Detecting duplicate CIs](../concept/id-detect-dup-ci.md).
+For information about how this setting can affect creation of de-duplication tasks for duplicate referenced CIs, see [Detecting duplicate CIs](id-detect-dup-ci.md).
 
 </td></tr></tbody>
 </table>    4.  Select **Save**.
@@ -373,12 +373,12 @@ When the **Hardware Rule** is applied, the Serial Number \[cmdb\_serial\_number\
 
 You can optionally [create an inclusion rule](create-id-inclusion-rule.md) to narrow the scope of CIs that are included in identification.
 
-**Parent Topic:**[Identification rules](../concept/c_IdentificationRules.md)
+**Parent Topic:**[Identification rules](c_IdentificationRules.md)
 
 **Related topics**  
 
 
 [Create an identification inclusion rule](create-id-inclusion-rule.md)
 
-[General guidelines for using CMDB Identification](../concept/best-practices-id-reconcile.md)
+[General guidelines for using CMDB Identification](best-practices-id-reconcile.md)
 

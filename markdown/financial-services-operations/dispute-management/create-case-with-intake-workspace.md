@@ -19,7 +19,7 @@ Create a dispute case and initiate the dispute for a transaction associated with
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -222,7 +222,7 @@ The case is set to high priority in the following situations:
 **Related topics**  
 
 
-[Managing Disputes](../concept/managing-disputes.md)
+[Managing Disputes](managing-disputes.md)
 
-[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](../concept/wsud-troubleshooting-reference.md)
+[Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting](wsud-troubleshooting-reference.md)
 

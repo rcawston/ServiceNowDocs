@@ -63,8 +63,8 @@ Refer to the following table and verify that you have completed all the listed t
     1.  Security Incident Response
     2.  Security Integration Framework
     3.  Security Support Common
-    For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+    For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../entitle-secops-product.md) and [Activate a ServiceNow Store application](../activate-entitled-store-app.md).
 
 
-You have successfully set up your ServiceNow AI Platform® instance for the integration. The next step is to install the Splunk Enterprise Security Notable Event Ingestion application from the ServiceNow Store for the integration. For more information, see [Install and configure Splunk Enterprise Security Notable Event Ingestion integration](../task/splunk-event-ingest-install-and-configure-security.md).
+You have successfully set up your ServiceNow AI Platform® instance for the integration. The next step is to install the Splunk Enterprise Security Notable Event Ingestion application from the ServiceNow Store for the integration. For more information, see [Install and configure Splunk Enterprise Security Notable Event Ingestion integration](splunk-event-ingest-install-and-configure-security.md).
 

@@ -153,5 +153,5 @@ Investment\[sn\_invst\_pln\_invst\_investment\]
 Stores investment details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Investment Funding](../task/activate-investment-funding.md)
+</table>**Parent Topic:**[Install Investment Funding](activate-investment-funding.md)
 

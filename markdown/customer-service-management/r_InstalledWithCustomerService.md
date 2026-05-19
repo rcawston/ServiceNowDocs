@@ -26,5 +26,5 @@ Client scripts are added with activation of Customer Service Management.
 -   **[Business rules installed with Customer Service Management](r_BRIWCustomerService.md)**  
 Business rules are added with activation of Customer Service Management.
 
-**Parent Topic:**[Customer Service Management](../concept/c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
 

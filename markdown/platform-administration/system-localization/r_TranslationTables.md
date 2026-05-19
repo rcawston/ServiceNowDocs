@@ -22,7 +22,7 @@ ServiceNow stores translation information in these tables.
 -   Choice \[sys\_choice\]
 -   Translated Text \[sys\_translated\_text\]
 
-To see which table contains a specific translated label, enable the display of translation prefixes. For more information, see [Debug translations](../task/t_DisplayATranslationPrefix.md).
+To see which table contains a specific translated label, enable the display of translation prefixes. For more information, see [Debug translations](t_DisplayATranslationPrefix.md).
 
 **Note:** The Languages table is available only after at least one I18N:Internationalization plugin has been activated.
 
@@ -44,5 +44,5 @@ The Message \[sys\_ui\_message\] table contains the translations for information
 **Related topics**  
 
 
-[Activate a language](../task/t_ActivateALanguage.md)
+[Activate a language](t_ActivateALanguage.md)
 

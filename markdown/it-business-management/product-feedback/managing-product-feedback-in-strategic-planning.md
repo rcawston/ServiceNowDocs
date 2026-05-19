@@ -22,7 +22,7 @@ Use the following components to manage your Feedback within Strategic Planning.
 
 ## Feedback
 
-Feedback refers to a suggestion, issue, proposed solution, or problem statement provided by users or customers for a product. Strategic Planning enables you to collect feedback from multiple sources and review the incoming feedback to understand the critical issues or feature requests. You can create feedback filters from feedback homepage. For more information on feedback filters, see [Create feedback filters in Strategic Planning](../task/create-feedback-filters.md).
+Feedback refers to a suggestion, issue, proposed solution, or problem statement provided by users or customers for a product. Strategic Planning enables you to collect feedback from multiple sources and review the incoming feedback to understand the critical issues or feature requests. You can create feedback filters from feedback homepage. For more information on feedback filters, see [Create feedback filters in Strategic Planning](create-feedback-filters.md).
 
 ![Feedback filter page in Feedback.](../image/feedback-filters-landingpage.png)
 
@@ -39,7 +39,7 @@ Get insights of feedback, number of product ideas linked to feedback, top tags, 
 -   Identify the overall sentiment distribution across your feedback data.
 -   Analyze the sentiments of the feedback received over the past nine months.
 
-The following figure shows a sample overview of customer feedback and indicates the different features on the overview tab. For example, know which customer has provided the maximum feedback by viewing the feedback count based on top customers. Use the filters at the top of the page to view feedback information on the Feedback application. For more information on filters, see [Configure the filters for feedback or product idea overview page](../task/configure-feedback-or-idea-overview-page.md).
+The following figure shows a sample overview of customer feedback and indicates the different features on the overview tab. For example, know which customer has provided the maximum feedback by viewing the feedback count based on top customers. Use the filters at the top of the page to view feedback information on the Feedback application. For more information on filters, see [Configure the filters for feedback or product idea overview page](configure-feedback-or-idea-overview-page.md).
 
 ![Feedback overview page in Feedback.](../image/feedback-overview.png)
 
@@ -200,11 +200,11 @@ Provides a centralized location for product managers to organize, store, and col
 -   Tag or mention specific users within the documentation component.
 -   Mention a record to create a direct link of the record within the documentation component.
 -   Insert table, images, links and so on.
--   Generate a summary of selected text in Docs using Planning item Gen AI Docs skill. For more information, see [Generate the summary for selected or complete content with Planning Item Doc Summarization skill](../task/summarize-docs-genai-skill-pf.md).
+-   Generate a summary of selected text in Docs using Planning item Gen AI Docs skill. For more information, see [Generate the summary for selected or complete content with Planning Item Doc Summarization skill](summarize-docs-genai-skill-pf.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Feedback reference](../reference/product-feedback-reference.md)
+[Feedback reference](product-feedback-reference.md)
 

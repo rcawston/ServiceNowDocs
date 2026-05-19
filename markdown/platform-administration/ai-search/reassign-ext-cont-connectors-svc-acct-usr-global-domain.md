@@ -37,7 +37,7 @@ As an example, suppose you have an instance with domain separation configured wh
 
 3.  On the User form, configure the layout to show the **Managed domain**, **Domain**, and **Domain Path** fields.
 
-    To learn how to show or hide fields on a form, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+    To learn how to show or hide fields on a form, see [Configuring the form layout](../configure-form-layout.md#).
 
 4.  Select the **Managed domain** option.
 
@@ -56,5 +56,5 @@ As an example, suppose you have an instance with domain separation configured wh
 8.  Update your user permission mappings by rerunning user permission crawls for your affected external content connectors.
 
 
-**Parent Topic:**[External Content Connectors reference](../concept/reference-ext-cont-connectors.md)
+**Parent Topic:**[External Content Connectors reference](reference-ext-cont-connectors.md)
 

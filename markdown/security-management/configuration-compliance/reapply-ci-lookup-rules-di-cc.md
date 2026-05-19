@@ -21,7 +21,7 @@ Roles required:
 
 ## About this task
 
-If the CI changes after reapplying the CI lookup rules, the discovered items are updated with the new CI and test results. For more information, see [CI changes for discovered items for Configuration Compliance](../concept/reapply-discovered-items-ci-changes-cc.md).
+If the CI changes after reapplying the CI lookup rules, the discovered items are updated with the new CI and test results. For more information, see [CI changes for discovered items for Configuration Compliance](reapply-discovered-items-ci-changes-cc.md).
 
 ## Procedure
 

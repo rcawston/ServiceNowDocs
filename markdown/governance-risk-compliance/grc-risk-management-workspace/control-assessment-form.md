@@ -136,5 +136,5 @@ Score label
 Option to rename the qualitative score label in the Scoring section of the assessment form. For example, if you rename Control risk as Preventive risk, the new score label will be displayed in the scoring section where Control risk was previously referred.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure a control effectiveness assessment](../task/configure-control-assess.md)
+</table>**Parent Topic:**[Configure a control effectiveness assessment](configure-control-assess.md)
 

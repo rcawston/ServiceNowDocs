@@ -23,7 +23,7 @@ To use PowerShell remote execution framework, the following requirements must be
 -   The remote target must have PowerShell 3 or higher \(up to 7\).
 -   For MID Servers using WinRM or WMI that choose to copy the script to the remote target, the MachinePolicy and UserPolicy scopes must be set to Undefined. If the script isn’t copied, the execution policy can be any other setting up to Restrictive.
 
-See [Set up MID Servers to use PowerShell](../task/t_SetUpAMIDServerToUsePowerShell.md) for more information.
+See [Set up MID Servers to use PowerShell](t_SetUpAMIDServerToUsePowerShell.md) for more information.
 
 ## Application discovery
 
@@ -45,5 +45,5 @@ PowerShell remote execution framework is a unified method of executing PowerShel
 
 The framework handles remote execution whether the MID Server is configured to use WMI or WinRM. If the MID Server is configured for WMI, the probe uses launchProcess to execute commands on the remote target. Using launchProcess complicates remote execution and can cause failures. However, a MID Server configured for WinRM does not use launchProcess, and so is more efficient and stable.
 
-**Parent Topic:**[PowerShell for Discovery and Service Mapping](../reference/r_PowerShellForDiscovery.md)
+**Parent Topic:**[PowerShell for Discovery and Service Mapping](r_PowerShellForDiscovery.md)
 

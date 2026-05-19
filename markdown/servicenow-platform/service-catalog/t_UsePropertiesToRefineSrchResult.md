@@ -44,5 +44,5 @@ Auto-completion also applies to the **Request for** field, which can be added to
 4.  Place the category on the page.
 
 
-**Parent Topic:**[Configure search and navigation](../concept/c_ConfigSrchNavUseProps.md)
+**Parent Topic:**[Configure search and navigation](c_ConfigSrchNavUseProps.md)
 

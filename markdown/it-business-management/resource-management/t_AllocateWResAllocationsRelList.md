@@ -29,7 +29,7 @@ Role required: resource\_manager
 
 4.  On the Resource Allocation form, fill the fields.
 
-    For a description of the field values, see [Resource Allocation form](../reference/rsrc-allocation-form.md).
+    For a description of the field values, see [Resource Allocation form](rsrc-allocation-form.md).
 
 5.  Select **Submit** to save the record and return to the resource plan.
 
@@ -38,14 +38,14 @@ Role required: resource\_manager
 
 In the resource plan form, select **Confirm** or **Confirm and Allocate** to move the resource to the **Confirmed** or **Allocated** state.
 
-**Parent Topic:**[Resource allocation](../reference/r_AllocatingResources.md)
+**Parent Topic:**[Resource allocation](r_AllocatingResources.md)
 
 **Related topics**  
 
 
 [Create a resource role](create-resource-role.md)
 
-[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+[User resources and group resources](r_UserResourcesAndGroupResources.md)
 
 [Reject a resource plan from the Resource Plan form](t_RejectResourcePlanForm.md)
 

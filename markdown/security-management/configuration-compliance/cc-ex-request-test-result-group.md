@@ -23,8 +23,8 @@ Role required: sn\_vulc.remediation\_owner
 
 **Important:** You can request an exception for:
 
--   remediation tasks in the Vulnerability Manager Workspace and IT Remediation Workspace. For more information, see [Request an exception in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-request-exception.md).
--   multiple test results simultaneously from the Vulnerability Manager Workspace. For more information, see [Request bulk exception in the Vulnerability Manager Workspace](../../vr-vulnerability-manager-workspace/task/vmws-bulk-edit-request-exception.md).
+-   remediation tasks in the Vulnerability Manager Workspace and IT Remediation Workspace. For more information, see [Request an exception in the IT Remediation Workspace](../it-remediation-workspace/vr-ws-request-exception.md).
+-   multiple test results simultaneously from the Vulnerability Manager Workspace. For more information, see [Request bulk exception in the Vulnerability Manager Workspace](../vulnerability-manager-workspace/vmws-bulk-edit-request-exception.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 

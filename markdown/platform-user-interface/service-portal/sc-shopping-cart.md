@@ -39,7 +39,7 @@ Use the widget instance options to customize the settings for the SC Shopping Ca
 
 -   **[Enable the Shopping Cart widget](enable-shopping-cart.md)**  
 The shopping cart widget is enabled automatically for instances upgrading to Istanbul, however, there are several ways to manually enable or disable the widget.
--   **[Enable automatic updates to the shopping cart](../task/enable-auto-update-cart.md)**  
+-   **[Enable automatic updates to the shopping cart](enable-auto-update-cart.md)**  
 Automatically update the shopping cart across all sessions when users make changes from multiple tabs and platforms.
 
 **Parent Topic:**[Service Catalog widgets](sc-widgets.md)
@@ -79,11 +79,11 @@ Automatically update the shopping cart across all sessions when users make chang
 
 [SC Wish List Cart widget](sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 
 [Add a catalog item to the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
 

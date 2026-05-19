@@ -13,7 +13,7 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 Follow the daily and weekly progress of incidents, problems, and requests for your assignment groups.
 
-IT managers can use the [ITSM Success Dashboards](../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for their assignment groups.
+IT managers can use the [ITSM Success Dashboards](itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md) to view the metrics for their assignment groups.
 
 ![Animated tour of the tabs of the IT Manager dashboard](../image/itsm-it-manager.gif)
 

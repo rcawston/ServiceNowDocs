@@ -50,5 +50,5 @@ The following items are installed with Data Catalog:
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring the data catalog](../../../build/workflow-data-fabric/concept/configure-data-catalog.md)
+**Parent Topic:**[Configuring the data catalog](configure-data-catalog.md)
 

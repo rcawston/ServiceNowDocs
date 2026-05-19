@@ -17,7 +17,7 @@ Tag categories in the Cloud Cost Management application enable grouping multiple
 
 ## Overview of tag categories
 
-The Cloud Cost Management application enables you to enhance your cost management capabilities and ensure that the cost reports accurately reflect the business entities. For example, different users might create various tag names like "App", "AppService", and "appl" to represent applications. By creating a tag category named "Application", you can ensure that costs associated with these different tag names are correctly assigned to the application category. You can add multiple tag names to a category during or after its creation. For more information, see [Create and update a tag category](../task/tag-category-crud-cloudin.md).
+The Cloud Cost Management application enables you to enhance your cost management capabilities and ensure that the cost reports accurately reflect the business entities. For example, different users might create various tag names like "App", "AppService", and "appl" to represent applications. By creating a tag category named "Application", you can ensure that costs associated with these different tag names are correctly assigned to the application category. You can add multiple tag names to a category during or after its creation. For more information, see [Create and update a tag category](tag-category-crud-cloudin.md).
 
 ## Key points and considerations
 
@@ -30,7 +30,7 @@ The Cloud Cost Management application enables you to enhance your cost managemen
 **Related topics**  
 
 
-[Create and update a tag category](../task/tag-category-crud-cloudin.md)
+[Create and update a tag category](tag-category-crud-cloudin.md)
 
 [List of default tag categories](default-tag-categories.md)
 

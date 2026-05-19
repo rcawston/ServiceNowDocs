@@ -21,7 +21,7 @@ Role required: sn\_ca.campaign\_manager or sn\_cd.content\_admin
 
 ## About this task
 
-For information about campaigns and campaign bundles and stages, see [Creating campaigns](../../employee-center/concept/ecpro-campaigns.md).
+For information about campaigns and campaign bundles and stages, see [Creating campaigns](ecpro-campaigns.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For information about campaigns and campaign bundles and stages, see [Creating c
     |:----|:----------|
     |Title|Name of the campaign bundle.|
     |Campaign|Option to choose a campaign that is associated with the campaign bundle.|
-    |Trigger type|Option to choose a trigger type that determines how the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](../../employee-center/reference/ecpro-triggers.md)|
+    |Trigger type|Option to choose a trigger type that determines how the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](ecpro-triggers.md)|
     |Offset trigger start|Enables you to move the end date forward or backward from the value in the **Trigger type** field.|
     |Specify end|Indicates whether you want the campaign bundle to have a specific end.|
     |Description|Brief description for the campaign bundle.|
@@ -106,5 +106,5 @@ Brief description about the campaign bundle.
 
 The campaign is delivered to the employees according to the scheduled job timeline.
 
-**Parent Topic:**[Create Microsoft Teams campaigns with the Content Experience Builder](../concept/create-campaign-content-exp-builder-mt.md)
+**Parent Topic:**[Create Microsoft Teams campaigns with the Content Experience Builder](create-campaign-content-exp-builder-mt.md)
 

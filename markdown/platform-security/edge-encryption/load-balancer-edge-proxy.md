@@ -60,7 +60,7 @@ The following properties enable the Edge proxy server to reroute response messag
 -   **edgeencryption.proxy.rewrite.location.host** specifies the host name used to access ServiceNow through the load balancer.
 -   **edgeencryption.proxy.rewrite.location.https.port** specifies the HTTPS port used to access ServiceNow through the load balancer.
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
 
 ## Configure the load balancer
 

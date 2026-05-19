@@ -274,5 +274,5 @@ Activity Categorization Rule
 All activity categorization rules. The table is prepopulated with default fixed rules and user-created rules are then added.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Task Mining Reference](../concept/reference-task-mining.md)
+</table>**Parent Topic:**[Task Mining Reference](reference-task-mining.md)
 

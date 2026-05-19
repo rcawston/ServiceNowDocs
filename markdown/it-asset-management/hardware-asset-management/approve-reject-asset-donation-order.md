@@ -36,7 +36,7 @@ Role required: asset
         The **State** of the order changes to **Rejected**.
 
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 

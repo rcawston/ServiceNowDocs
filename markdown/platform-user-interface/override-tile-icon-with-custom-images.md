@@ -84,5 +84,5 @@ Verify that your custom images use the desired colors and meet your branding req
 
 If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
 
-**Parent Topic:**[Tile icon illustrations in Theme Builder](../concept/tile-icons-in-tb.md)
+**Parent Topic:**[Tile icon illustrations in Theme Builder](tile-icons-in-tb.md)
 

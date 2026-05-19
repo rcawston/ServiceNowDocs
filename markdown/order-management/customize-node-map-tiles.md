@@ -44,5 +44,5 @@ You can add more columns to display additional lines. However, this would requir
 7.  Select **Save**.
 
 
-**Parent Topic:**[Customizing the sales process dashboard](../concept/customizing-sales-process-dashboard.md)
+**Parent Topic:**[Customizing the sales process dashboard](customizing-sales-process-dashboard.md)
 

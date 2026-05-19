@@ -24,7 +24,7 @@ If you have the admin role, activate the ServiceNow Mobile Request Native Applic
 When you log into Now Mobile, the following functionality related to Service Catalog is available:
 
 -   **My To-Dos**: Displays approval records of requests and requested items assigned or delegated to the user.
--   **My Requests**: Displays requests based on the filters defined for mobile in the **My Requests Filter**. By default, the Incident Mobile and Service Catalog Request Mobile filters are available. For information about configuring filters, see [Define filters for My Requests](../task/configure-my-requests.md) and [Configure My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/set-up-my-requests.md).
+-   **My Requests**: Displays requests based on the filters defined for mobile in the **My Requests Filter**. By default, the Incident Mobile and Service Catalog Request Mobile filters are available. For information about configuring filters, see [Define filters for My Requests](configure-my-requests.md) and [Configure My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/set-up-my-requests.md).
 
     **Note:** It is recommended to include only open requests.
 
@@ -64,9 +64,9 @@ You can submit or track requests.
 
 From Now Mobile, you can also perform the following tasks:
 
--   Browse catalog items using the catalog hierarchy in addition to the category hierarchy. For information about its configuration, see [Browse catalog items using the catalog hierarchy](../task/now-mob-browse-cat-item-catalog.md).
--   Change the label of the **Submit** button for a record producer. For information on editing the button label, see [Edit the label of Submit button for a record producer](../task/edit-recprdcr-submit-label.md).
--   Use the mobile camera to scan bar codes for identifying a variable value of a catalog item. This is only applicable by using the **barcode** attribute for the Single Line Text variable. For information about this variable attribute, see [Service Catalog variable attributes](../reference/variable-attributes.md).
+-   Browse catalog items using the catalog hierarchy in addition to the category hierarchy. For information about its configuration, see [Browse catalog items using the catalog hierarchy](now-mob-browse-cat-item-catalog.md).
+-   Change the label of the **Submit** button for a record producer. For information on editing the button label, see [Edit the label of Submit button for a record producer](edit-recprdcr-submit-label.md).
+-   Use the mobile camera to scan bar codes for identifying a variable value of a catalog item. This is only applicable by using the **barcode** attribute for the Single Line Text variable. For information about this variable attribute, see [Service Catalog variable attributes](variable-attributes.md).
 
 ## Quick actions
 
@@ -83,7 +83,7 @@ See [Siri shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
 ## Now Mobile properties
 
-You can define the following behavior for various catalog entities by configuring the Now Mobile properties. For information about configuring these properties, see [Configure Now Mobile properties](../task/config-now-mob-properties.md).
+You can define the following behavior for various catalog entities by configuring the Now Mobile properties. For information about configuring these properties, see [Configure Now Mobile properties](config-now-mob-properties.md).
 
 -   Sort categories by the **Order** field.
 -   Define the availability of a catalog item in one of the following ways:
@@ -92,21 +92,21 @@ You can define the following behavior for various catalog entities by configurin
 -   Define the non-availability behavior of a catalog item by making it discoverable but not viewable, or not available at all.
 -   Specify colors for buttons to match your mobile theme.
 
--   **[Configure catalogs](../../../administer/mobile-employee/task/configure-catalog.md)**  
+-   **[Configure catalogs](configure-catalog.md)**  
 Enable your users to view and request their associated items in the Now Mobile app. If no catalogs are selected, users can view and request items from all catalogs in the system. By default, the app uses Service Catalog.
--   **[Browse catalog items using the catalog hierarchy](../task/now-mob-browse-cat-item-catalog.md)**  
+-   **[Browse catalog items using the catalog hierarchy](now-mob-browse-cat-item-catalog.md)**  
 In addition to the category hierarchy, browse catalog items using the catalog hierarchy for proper context.
--   **[Submit and track a request](../../../administer/mobile-employee/task/order-item.md)**  
+-   **[Submit and track a request](order-item.md)**  
 Submit a request for an item or service and track the progress of your request with the Now Mobile app.
--   **[Create a quick action in your mobile applications](../../../administer/mobile-employee/task/sc-quick-action.md)**  
+-   **[Create a quick action in your mobile applications](sc-quick-action.md)**  
 Provide easy access to an important item by creating a quick action. For example, you can create a quick action that opens a Service Catalog item.
--   **[Enable notifications in Now Mobile](../task/enable-notification-mobile.md)**  
+-   **[Enable notifications in Now Mobile](enable-notification-mobile.md)**  
 Allow push notifications on your mobile device when there is an update for a request.
--   **[Enable the cart in Now Mobile](../task/enable-cart-mobile.md)**  
+-   **[Enable the cart in Now Mobile](enable-cart-mobile.md)**  
 Allow a requester to add or edit items in the cart. By default, the cart is disabled in Now Mobile.
--   **[Edit the label of Submit button for a record producer](../task/edit-recprdcr-submit-label.md)**  
+-   **[Edit the label of Submit button for a record producer](edit-recprdcr-submit-label.md)**  
 For a record producer submission experience that you can relate to, edit the label of the **Submit** button.
--   **[Configure Now Mobile properties](../task/config-now-mob-properties.md)**  
+-   **[Configure Now Mobile properties](config-now-mob-properties.md)**  
 Define the behavior of various catalog entities in Now Mobile.
 
 **Parent Topic:**[Service Catalog in mobile](catalog-experience-mobile.md)
@@ -114,7 +114,7 @@ Define the behavior of various catalog entities in Now Mobile.
 **Related topics**  
 
 
-[Fulfiller experience in Mobile Agent](../../../administer/service-administration/concept/itsm-mobile-request-approval.md)
+[Fulfiller experience in Mobile Agent](itsm-mobile-request-approval.md)
 
 [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/mobile-employee-experience.md)
 

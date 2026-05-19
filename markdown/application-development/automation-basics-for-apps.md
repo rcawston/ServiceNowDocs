@@ -87,7 +87,7 @@ AI-Generated Playbooks
 
 </td><td>
 
-Now Assist can create playbooks automatically based on business process descriptions, eliminating the need to manually design multi-step guided workflows.For more information, see [Playbook generation](../../../administer/process-automation-designer/concept/playbook-assist-landing.md).
+Now Assist can create playbooks automatically based on business process descriptions, eliminating the need to manually design multi-step guided workflows.For more information, see [Playbook generation](now-assist-for-creator/playbook-assist-landing.md).
 
 </td></tr><tr><td>
 

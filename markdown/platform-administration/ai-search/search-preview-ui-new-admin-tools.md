@@ -182,8 +182,8 @@ To submit search preview queries using a specific supported language, select the
         |User location|To set a location in the user context for search preview, enter the name of a location from the Location \[cmn\_location\] table.|
         |User country|To set a country in the user context for search preview, select it from the list. This list includes all countries found in user locations from the User \[sys\_user\] table.|
         |User office|To set an office in the user context for search preview, enter the name of a building from the Building \[cmn\_building\] table.|
-        |User office city|To set an office city in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User office state|To set an office state in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User office city|To set an office city in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User office state|To set an office state in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
         |User office country|To set an office country in the user context for search preview, select it from the list. This list includes all countries found in user locations from the User \[sys\_user\] table.|
 
     -   **User access**
@@ -217,13 +217,13 @@ To set a role in the user context for search preview, enter the name of a role f
 
         |Field|Description|
         |-----|-----------|
-        |User OS|To set an operating system in the user context for search preview, enter its name in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User OS version|To set an operating system version in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User agent|To set a web browser's user-agent string in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User browser agent|To set a browser name in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User device form|To set a device form in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
-        |User device type|To set a user device type in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](../task/session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User OS|To set an operating system in the user context for search preview, enter its name in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User OS version|To set an operating system version in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User agent|To set a web browser's user-agent string in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User browser agent|To set a browser name in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User device form|To set a device form in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
+        |User device type|To set a user device type in the user context for search preview, enter it in this field. You can enable [session debugging for AI Search](session-debugging-ais.md) to review values submitted for this user context field in user queries.|
 
 
-**Parent Topic:**[Search Preview UI for AI Search](../concept/search-preview-ui-new.md)
+**Parent Topic:**[Search Preview UI for AI Search](search-preview-ui-new.md)
 

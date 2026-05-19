@@ -21,7 +21,7 @@ Role required: sn\_retail.manager​\_fulfiller
 
 Responsibility required: Store Manager – Fulfiller.
 
-For information on adding roles and responsibilities, see [Assign roles to Retail users](rahi-retail-assign-roles-users.md).
+For information on adding roles and responsibilities, see [Assign roles to Retail users](../rahi-retail-assign-roles-users.md).
 
 ## About this task
 

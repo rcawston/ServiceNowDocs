@@ -71,7 +71,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](file-extensions-ext-cont-connector.md).
 
 6.  Select **Save**.
 
@@ -84,5 +84,5 @@ The Atlassian Confluence Cloud external content connector is updated with your c
 
 To retrieve content from your Atlassian Confluence Cloud source system using your modified crawl settings, create and run a one-time content crawl for your Atlassian Confluence Cloud external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Atlassian Confluence Cloud external content connector](../concept/atlassian-confluence-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Confluence Cloud external content connector](atlassian-confluence-cloud-external-content-connector.md)
 

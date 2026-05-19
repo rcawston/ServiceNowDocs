@@ -30,5 +30,5 @@ Role required: admin, problem\_admin, problem\_coordinator, problem\_manager, or
     **Note:** You can configure the Problem properties to reanalyze a task even after it is closed by selecting **Re-assess**. The state of the task changes from **Closed** to **Assess**. After all the problem tasks are completed or canceled, a notification is sent to the problem coordinator regarding the same.
 
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](problem-mgmt-lifecycle.md)
 

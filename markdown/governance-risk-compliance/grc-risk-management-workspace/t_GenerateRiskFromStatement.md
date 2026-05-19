@@ -32,5 +32,5 @@ Role required: sn\_risk.admin and sn\_risk.manager
     All risk statements are associated to the entity type and a risk is created for every risk statement against every entity in the entity type.
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
 

@@ -38,5 +38,5 @@ Role required: ot\_excel\_import\_user
 7.  Review the newly imported OT devices in OT List module in the Industrial Workspace.
 
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](use-excel-sgc-through-import-tasks.md)
 

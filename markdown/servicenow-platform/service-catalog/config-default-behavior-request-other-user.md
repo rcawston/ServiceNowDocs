@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The **glide.sc.req\_for.roles** property specifies the list of roles who can request items for other users. When no roles are specified, then the default behavior is defined by the **glide.sc.req\_for.roles.default** property. For information about the **glide.sc.req\_for.roles** property, see [Service Catalog properties](../reference/r_ServiceCatalogProperties.md).
+The **glide.sc.req\_for.roles** property specifies the list of roles who can request items for other users. When no roles are specified, then the default behavior is defined by the **glide.sc.req\_for.roles.default** property. For information about the **glide.sc.req\_for.roles** property, see [Service Catalog properties](r_ServiceCatalogProperties.md).
 
 Following are the possible values for the **glide.sc.req\_for.roles.default** property.
 
@@ -49,5 +49,5 @@ For zBoot customers, the **glide.sc.req\_for.roles.default** property is availab
 4.  Click **Update**.
 
 
-**Parent Topic:**[Delegated request experience](../concept/delegated-request-exp.md)
+**Parent Topic:**[Delegated request experience](delegated-request-exp.md)
 

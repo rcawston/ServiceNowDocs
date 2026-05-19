@@ -21,7 +21,7 @@ With the Now Assist for Success Dashboard, you can summarize the chat conversati
 
 The **Self-solved using QnA** KPI in the ITSM Success Dashboard uses Now Assist and AI search QnA as contributing indicators. You can interact with a Virtual Agent, read the Knowledge base article, get a summarized/succinct response by Now LLM in Virtual Agent or on the portal. This interaction, subsequently does not create an incident, access any knowledge base article, or interact with a live agent in the next 24 hours.
 
-To update the live agent script include see, [Update the live agent script include](../task/update-live-agent-script-include.md).
+To update the live agent script include see, [Update the live agent script include](update-live-agent-script-include.md).
 
 ## Proactive Engagement for DEX
 
@@ -90,7 +90,7 @@ See the constituent drill-down views and their contextual descriptions for KPIs.
 
     ![Information on view details breakdown.](../image/sdb-view-details.png "Top-level primary indicators")
 
-    You can replace or add new indicators to suit your implementation in addition to the base system indicators. See [Configure Success Dashboard indicators KPIs](../task/config-kpis-sdb.md) for more details.
+    You can replace or add new indicators to suit your implementation in addition to the base system indicators. See [Configure Success Dashboard indicators KPIs](config-kpis-sdb.md) for more details.
 
 -   View the contributing indicators.
 

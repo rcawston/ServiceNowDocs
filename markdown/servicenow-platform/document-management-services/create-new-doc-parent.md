@@ -133,5 +133,5 @@ The document version used for document download.
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](doc-linked-parent-rec.md)
 

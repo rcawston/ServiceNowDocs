@@ -29,7 +29,7 @@ An Idea module defines the ideas and categories that are displayed in the Idea P
 
 2.  On the form, fill in the fields.
 
-    For more information on fields and description, see [Idea module form](../reference/idea-module-form.md).
+    For more information on fields and description, see [Idea module form](idea-module-form.md).
 
 3.  Select **Submit**.
 
@@ -38,7 +38,7 @@ An Idea module defines the ideas and categories that are displayed in the Idea P
 
 Define new idea categories or use an existing table to derive the categories from specified columns and map it with your idea module. For more information, see [Configure idea categories](category-configuration-existing-table.md).
 
-**Parent Topic:**[Idea Portal administration](../concept/idea-portal-administration.md)
+**Parent Topic:**[Idea Portal administration](idea-portal-administration.md)
 
 **Previous topic:**[Idea Portal navigation](idea-portal-navigation.md)
 

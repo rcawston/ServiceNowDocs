@@ -19,7 +19,7 @@ Each instance of this script include contains the details of a single list that 
 
 Use with any server-side discovery script.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## CIRelatedList - addRec\(Object record\)
 

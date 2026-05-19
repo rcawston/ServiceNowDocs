@@ -83,5 +83,5 @@ Due date for the approval policy. Select one of the following options:-   **None
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](using-change-approval-policies-cf.md)
 

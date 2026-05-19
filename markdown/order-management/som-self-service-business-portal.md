@@ -35,7 +35,7 @@ Enable customers to place orders independently, reducing sales cycle time and ac
 
 </td><td>
 
-[Create orders from the Business Portal](../task/order-mgt-create-an-order-using-customer-portal.md)
+[Create orders from the Business Portal](order-mgt-create-an-order-using-customer-portal.md)
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ Accelerate pricing and proposal turnaround by enabling customers to request quot
 
 </td><td>
 
-[Submit a request for quote from the Business Portal](../task/create-rfq-business-portal.md)
+[Submit a request for quote from the Business Portal](create-rfq-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Enable customers to view quotes generated from requests for quotes \(RFQs\) or q
 
 </td><td>
 
-[View quotes from the Business Portal](../task/view-quotes-business-portal.md)
+[View quotes from the Business Portal](view-quotes-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -59,9 +59,9 @@ Reduce customer dependency on customer service agents for routine order inquirie
 
 </td><td>
 
-[Request updates for one or more orders](../task/create-order-case-for-multiple-orders.md)
+[Request updates for one or more orders](create-order-case-for-multiple-orders.md)
 
- [Request updates for items in a single order](../task/create-order-case-specific-order-lines.md)
+ [Request updates for items in a single order](create-order-case-specific-order-lines.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Provide customers access to their invoice and invoice line details so they can t
 
 </td><td>
 
-[View invoices on the Business Portal](../task/view-invoices-business-portal.md)
+[View invoices on the Business Portal](view-invoices-business-portal.md)
 
 </td></tr><tr><td>
 
@@ -77,9 +77,9 @@ Simplify invoice inquiries and dispute management through a direct, trackable se
 
 </td><td>
 
-[Dispute a specific line item on an invoice against your account using the Business Portal](../task/create-invoice-case-single.md)
+[Dispute a specific line item on an invoice against your account using the Business Portal](create-invoice-case-single.md)
 
- [Dispute multiple invoices against your account using the Business Portal](../task/create-invoice-case-multiple.md)
+ [Dispute multiple invoices against your account using the Business Portal](create-invoice-case-multiple.md)
 
 </td></tr></tbody>
 </table>## Business Portal and sales agents
@@ -93,7 +93,7 @@ The following topics provide more information about configuring and using the Bu
 -   [Configuring the Business Portal](order-management-configure-business-portal.md)
 -   [Customer self-service using the Business Portal](order-mgt-business-portal.md)
 -   Getting started with the Business Portal: [Configure Business and Consumer Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-business-portal.md)
--   [Business Portal reference for Sales Customer Relationship Management](../reference/som-business-portal-reference.md)
+-   [Business Portal reference for Sales Customer Relationship Management](som-business-portal-reference.md)
 -   [Using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-the-business-portal.md)
 -   [Business Portal user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_BusinessPortalUserRoles.md)
 

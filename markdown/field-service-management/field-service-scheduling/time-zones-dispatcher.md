@@ -29,7 +29,7 @@ Dispatcher Workspace can also be configured to show a single time zone on the ca
 
 To use single time zone with multiple selections, you must have **Show multiple time zone rows** inactive with multiple time zones entries in the **Select time zones for calendar** field.
 
-For more information, see [Change the time zone in Dispatcher Workspace](../task/change-timezone-calendar.md).
+For more information, see [Change the time zone in Dispatcher Workspace](change-timezone-calendar.md).
 
 ![change single selection in dispatcher workspace](../image/select-one-time-zone.png)
 
@@ -39,7 +39,7 @@ Dispatchers can choose to show multiple time zones on the calendar, with several
 
 To use multiple time zones you must have **Show multiple time zone rows** enabled, and multiple entries in the **Select time zones for calendar** field.
 
-For more information, see [Show multiple time zones in Dispatcher Workspace](../task/use-stacked-time-zones.md).
+For more information, see [Show multiple time zones in Dispatcher Workspace](use-stacked-time-zones.md).
 
 ![stacked time zones in dispatcher workspace](../image/stacked-time-zone.png)
 
@@ -47,7 +47,7 @@ For more information, see [Show multiple time zones in Dispatcher Workspace](../
 
 Resource time indicators show all the technicians' schedules lined up and not offset based on the time zone they're in. The different time zones that technicians are in are indicated by a segmented time indicator.
 
-Dispatchers can turn on Resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](../task/dispatcher-wrkspc-settings.md).
+Dispatchers can turn on Resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
 
 ![equalized time zones in dispatcher workspace](../image/time-zone-agnostic.png)
 

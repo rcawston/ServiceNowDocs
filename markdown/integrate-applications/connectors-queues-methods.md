@@ -15,7 +15,7 @@ The Queue connector methods enable you to create and manage work items for queue
 
 ## Prerequisites
 
-1.  Assign the bot process to the automation project by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio to access the work items. For more information, see [Assign bot process to an automation project](../task/assign-bot-process.md).
+1.  Assign the bot process to the automation project by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio to access the work items. For more information, see [Assign bot process to an automation project](assign-bot-process.md).
 2.  Set the QueueName property by doing the following steps:
     1.  In the RPA Desktop Design Studio, navigate to **Toolbox** &gt; **RPA Hub** &gt; **Queue**.
     2.  Drag the Queue connector under Global Objects in the Project Explorer.
@@ -71,7 +71,7 @@ Type
 
 The type of the work item. For example, for an accounting system queue, savings and current are types of accounts.
 
-To configure the input field, see [Configure port properties](../task/configure-input-port-properties.md).
+To configure the input field, see [Configure port properties](configure-input-port-properties.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Key-value pair \(JSON content\) for the request content. To add a key, do the fo
 1.  Click the add key icon \(![Add key icon.](../image/add-image-icon.png)\).
 2.  Enter the key name in the field.
 3.  To add more keys, repeat the previous steps.
-4.  To pass the value to these fields, see [Configure port properties](../task/configure-input-port-properties.md).
+4.  To pass the value to these fields, see [Configure port properties](configure-input-port-properties.md).
 
 
 </td></tr><tr><td>
@@ -117,7 +117,7 @@ Sensitive
 
 </td><td>
 
-Sensitive content that is passed when the work item is created. Select this option as sensitive, then the data is encrypted and stored in the **Sensitive Request Content** field in the new work item in RPA Hub. For more information about the work item form, see [Work item form in RPA Hub](../../rpa-hub/task/manage-work-queue-items.md#).
+Sensitive content that is passed when the work item is created. Select this option as sensitive, then the data is encrypted and stored in the **Sensitive Request Content** field in the new work item in RPA Hub. For more information about the work item form, see [Work item form in RPA Hub](manage-work-queue-items.md#).
 
 With this functionality, you can pass sensitive information through queues.
 
@@ -166,7 +166,7 @@ SensitiveRequestContent
 
 </td><td>
 
-Stores sensitive content in encrypted format in the new work item. To configure the input field, see [Configure port properties](../task/configure-input-port-properties.md).
+Stores sensitive content in encrypted format in the new work item. To configure the input field, see [Configure port properties](configure-input-port-properties.md).
 
 With this functionality, you can pass sensitive information through queues.
 
@@ -188,7 +188,7 @@ Type
 
 The type of the work item. For example, for an accounting system queue, savings and current are types of accounts.
 
-To configure the input field, see [Configure port properties](../task/configure-input-port-properties.md).
+To configure the input field, see [Configure port properties](configure-input-port-properties.md).
 
 </td></tr><tr><td>
 
@@ -337,7 +337,7 @@ Returns the details of the work items in an object form.
 
 Enables a robot to pick a work item based on the given criteria. You can also configure additional criteria for the work item to be picked.
 
-queryConditions included in the PickWorkItem component are considered for calculating the number of robots required to complete the work allocated, if the bot process is enabled with robot pool. For more information about calculating the number of robots, see [Calculate the number of robots in RPA Hub](../../rpa-hub/task/calculate-robots.md). For more information about robot pool concepts, see [Robot pool in RPA Hub](../../rpa-hub/concept/robot-pool-rpa.md).
+queryConditions included in the PickWorkItem component are considered for calculating the number of robots required to complete the work allocated, if the bot process is enabled with robot pool. For more information about calculating the number of robots, see [Calculate the number of robots in RPA Hub](calculate-robots.md). For more information about robot pool concepts, see [Robot pool in RPA Hub](robot-pool-rpa.md).
 
 -   **Input**
 
@@ -571,7 +571,7 @@ Type
 
 The type of the work item. For example, for an accounting system queue, savings and current are types of accounts.
 
-To configure the input field, see [Configure port properties](../task/configure-input-port-properties.md).
+To configure the input field, see [Configure port properties](configure-input-port-properties.md).
 
 </td></tr><tr><td>
 
@@ -624,7 +624,7 @@ Key-value pair \(JSON content\) for the request content. To add a key, do the fo
 1.  Click the add key icon \(![Add key icon.](../image/add-image-icon.png)\).
 2.  Enter the key name in the field.
 3.  To add more keys, repeat the previous steps.
-4.  To pass the value to these fields, see [Configure port properties](../task/configure-input-port-properties.md).
+4.  To pass the value to these fields, see [Configure port properties](configure-input-port-properties.md).
 
 
 </td></tr><tr><td>
@@ -641,5 +641,5 @@ When you add a key-value pair "City: Mumbai" in **SensitiveRequestContent** fiel
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Queue](../concept/queue-connector.md)
+**Parent Topic:**[Queue](queue-connector.md)
 

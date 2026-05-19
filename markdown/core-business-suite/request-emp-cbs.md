@@ -34,5 +34,5 @@ Role required: sn\_cbs.requestor
         -   [HR service catalog management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-catalog-management.md).
         -   [Report an issue with your payslip](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/payslips-awd.md).
 
-**Parent Topic:**[Using Core Business Suite](../concept/cbs-using-parent.md)
+**Parent Topic:**[Using Core Business Suite](cbs-using-parent.md)
 

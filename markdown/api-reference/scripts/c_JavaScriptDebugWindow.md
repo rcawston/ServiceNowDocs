@@ -22,7 +22,7 @@ Use the debug window to access these tools.
 -   JavaScript Log: JavaScript that runs on the browser, such as client scripts, can include a call to jslog\(\) to send information to the JavaScript log.
 -   Field Watcher: a tool that tracks and displays all actions that the system performs on a selected form field.
 
--   **[Access the JavaScript debug window](../task/t_UsingTheJavaScriptDebugWindow.md)**  
+-   **[Access the JavaScript debug window](t_UsingTheJavaScriptDebugWindow.md)**  
 The JavaScript debug window enables access to the JavaScript Log and the Field Watcher tools.
 -   **[Watching fields](c_FieldWatcher.md#)**  
 The field watcher tool tracks and displays all actions that the system performs on a selected form field.

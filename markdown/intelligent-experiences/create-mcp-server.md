@@ -57,5 +57,5 @@ Depending on your requirements, you can create one or more servers that expose d
 
 ## What to do next
 
-Configure clients to connect to the server. For more information, see [Connecting to an MCP server from an MCP client](../concept/connect-mcp-server-client.md#).
+Configure clients to connect to the server. For more information, see [Connecting to an MCP server from an MCP client](connect-mcp-server-client.md#).
 

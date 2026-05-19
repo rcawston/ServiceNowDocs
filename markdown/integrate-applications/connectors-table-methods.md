@@ -927,5 +927,5 @@ To input the values, do the following actions:
 |SearchColumnIndex|Integer value that indicates the order of the column from the left. The default index value is -1 for the first column. Providing a custom index value is optional. If the field receives no custom index value, the method automatically sets the order of the columns.|Data In|Integer|
 |StartRowIndex|Integer value that indicates the order of the column from the left. The default index value is -1 for the first row. Providing a custom index value is optional. If the field receives no custom index value, the method automatically sets the order of the columns.|Data In|Integer|
 
-**Parent Topic:**[Table](../concept/table-connector.md)
+**Parent Topic:**[Table](table-connector.md)
 

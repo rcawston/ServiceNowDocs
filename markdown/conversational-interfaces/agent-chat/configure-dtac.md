@@ -32,7 +32,7 @@ DTAC translates chat conversations from one language to another. The preferred l
 DTAC is inactive by default. Before activating DTAC, the following requirements must be completed:
 
 -   [Dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
--   [Set up Agent Chat](../task/ac-configure-agent-chat.md)
+-   [Set up Agent Chat](ac-configure-agent-chat.md)
 -   [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md)
 
 Activate the Dynamic Translation for Agent Chat plugin \(com.glide.cs.dynamic.translation.agent.chat\).
@@ -52,7 +52,7 @@ and these system properties:
 
 Once an agent accepts a chat, they can see the chat history between the Virtual Agent and requester in their preferred language for more context.
 
-Virtual Agent topics must be set up in the desired languages prior to using DTAC. To learn more about how to set up topics, see [Virtual Agent Designer](../../virtual-agent/reference/conversation-designer-virtual-agent.md).
+Virtual Agent topics must be set up in the desired languages prior to using DTAC. To learn more about how to set up topics, see [Virtual Agent Designer](../virtual-agent/conversation-designer-virtual-agent.md).
 
 ![Transferring from virtual agent to live agent](../../dynamic-translation/image/transfer-va-live-agent.png)
 

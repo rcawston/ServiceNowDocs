@@ -25,7 +25,7 @@ Use the following links to configure Discovery for your environment. You do not 
 
 <table id="table_c4r_ztp_2cb"><tbody><tr><td>
 
-[Discovery IP address configuration](../reference/discovery-ip-address-configuration.md#)
+[Discovery IP address configuration](discovery-ip-address-configuration.md#)
 
 </td><td>
 
@@ -41,7 +41,7 @@ Use the following links to configure Discovery for your environment. You do not 
 
 </td><td>
 
-[Discovery classification parameters](../reference/classification-parameters.md)
+[Discovery classification parameters](classification-parameters.md)
 
 </td><td>
 
@@ -65,7 +65,7 @@ Use the following links to configure Discovery for your environment. You do not 
 
 </td><td>
 
-[Discovery properties](../reference/r_DiscoveryProperties.md)
+[Discovery properties](r_DiscoveryProperties.md)
 
 </td><td>
 

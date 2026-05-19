@@ -42,5 +42,5 @@ If you do not have a PDI because you released your PDI or went longer than ten d
 5.  Click the **Open Instance** button to open the instance in a new browser tab.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
 

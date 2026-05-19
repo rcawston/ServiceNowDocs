@@ -34,7 +34,7 @@ If these prerequisites aren’t met, intake submissions are accepted but risk cl
 
 If you’re using the AI Risk and Compliance \(AIRC\) application, you submit requests through the Employee Center and related tasks such as impact assessments and review tasks \(for example, legal, security, and architecture\). If you’re using the AI Control Tower \(AICT\) application, you can submit requests from the AI Control Tower dashboard and manage AI assets through AICT’s inventory and life cycle experience.
 
-For more information on the end‑to‑end life cycle, see [AI governance life cycle](../concept/ai-gov-lifecycle.md).
+For more information on the end‑to‑end life cycle, see [AI governance life cycle](ai-gov-lifecycle.md).
 
 The Request an AI system feature enables you to initiate requests for the development or procurement of AI‑based solutions. Whether you need a custom AI model, an automation tool, or an advanced analytics system, the platform streamlines the process by capturing key requirements and facilitating approvals.
 
@@ -75,7 +75,7 @@ Navigate to **All** &gt; **AI Control Tower**. 1.  On the AI Control Tower dashb
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
 
-    For full descriptions of the fields, see [Request an AI use case form](../reference/request-ai-system-form.md). For more information about adding an AI system using AI Control Tower, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md).
+    For full descriptions of the fields, see [Request an AI use case form](request-ai-system-form.md). For more information about adding an AI system using AI Control Tower, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md).
 
 3.  To add attachments, select **Add attachments**.
 
@@ -100,12 +100,12 @@ For more information, see [AI Control Tower dashboard](https://raw.githubusercon
 
 Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager\]: Assess the AI system for regulatory, policy, and risk considerations. Assign risk assessments, recommend controls and attestations, and monitor compliance throughout the AI system life cycle.
 
-For more information, see [AI Risk and Compliance workspace](../concept/ai-risk-and-compliance-workspace.md), [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md), [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md), [Initiate risk assessment on AI asset's risks](request-risk-assessments-for-ai-systems.md), and [Manage controls using AI Risk and Compliance](../concept/manage-controls-in-airc.md).
+For more information, see [AI Risk and Compliance workspace](ai-risk-and-compliance-workspace.md), [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md), [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md), [Initiate risk assessment on AI asset's risks](request-risk-assessments-for-ai-systems.md), and [Manage controls using AI Risk and Compliance](manage-controls-in-airc.md).
 
-For an overview of how AI systems move from intake through assessment, deployment, monitoring, and value tracking, see [AI governance life cycle](../concept/ai-gov-lifecycle.md).
+For an overview of how AI systems move from intake through assessment, deployment, monitoring, and value tracking, see [AI governance life cycle](ai-gov-lifecycle.md).
 
--   **[Request an AI use case form](../reference/request-ai-system-form.md)**  
+-   **[Request an AI use case form](request-ai-system-form.md)**  
 The Request an AI use case form is designed to streamline the request process for developing or procuring an AI-based solution. This intake form confirms that all necessary details, supporting documents, and compliance considerations are captured before moving forward with development and deployment of the AI-solution.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

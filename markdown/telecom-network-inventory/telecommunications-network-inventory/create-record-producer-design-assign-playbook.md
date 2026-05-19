@@ -46,14 +46,14 @@ A record producer is created.
 -   Add variables to the record producer. To learn more, see [Create variables for Design and Assign function](create-variables-record-producer-design-assign-playbook.md).
 -   Add variable set to the record producer. To learn more, see [Add variable set to the record producer for Design and Assign function](add-variable-set-record-producer-design-assign-playbook.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
 [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md)
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](configure-design-assign-playbook-use-case.md)
 

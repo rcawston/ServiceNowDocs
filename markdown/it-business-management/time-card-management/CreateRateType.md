@@ -77,5 +77,5 @@ Deselect the check box to mark the rate type as inactive.**Note:** Inactivating 
 -   The rate type is displayed in the **Rate Types** list.
 -   The rate type if active is also displayed in the **Rate Type** field in the Labor Rate Cards form, Time Worked form, Time Card form, and Time Sheet Portal.
 
-**Parent Topic:**[Time Card Management](../../../administer/task-table/concept/time-card-management.md)
+**Parent Topic:**[Time Card Management](time-card-management.md)
 

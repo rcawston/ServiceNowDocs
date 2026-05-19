@@ -45,5 +45,5 @@ The following list explains the stages of the synchronization process for applic
 **Related topics**  
 
 
-[ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 

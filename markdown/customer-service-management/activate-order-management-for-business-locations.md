@@ -27,7 +27,7 @@ The following items are installed with Order Management for Business Locations:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Roles and responsibilities](../concept/personas-roles-and-tables-post-integration.md).
+For more information, see [Roles and responsibilities](personas-roles-and-tables-post-integration.md).
 
 ## Procedure
 
@@ -47,5 +47,5 @@ For more information, see [Roles and responsibilities](../concept/personas-roles
 **Related topics**  
 
 
-[Order Management for business location](../concept/order-managment-for-business-location.md)
+[Order Management for business location](order-managment-for-business-location.md)
 

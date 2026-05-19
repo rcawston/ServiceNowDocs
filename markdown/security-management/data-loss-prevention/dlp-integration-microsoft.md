@@ -41,33 +41,33 @@ Use the key features of this integration to do the following actions:
 |Microsoft product documentation website|[Microsoft Product Documentation website](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp)|
 |ServiceNow product documentation website|[ServiceNow Product Documentation website](https://servicenow.com/docs)|
 
--   **[Getting started with Microsoft DLP IR integration for data loss prevention](../reference/getting-started-microsoft-integration.md)**  
+-   **[Getting started with Microsoft DLP IR integration for data loss prevention](getting-started-microsoft-integration.md)**  
 Review the following information before you start setting up your Microsoft DLP IR integration for data loss prevention.
--   **[Install and configure the Microsoft DLP integration](../task/install-configure-microsoft-dlp-integration.md)**  
+-   **[Install and configure the Microsoft DLP integration](install-configure-microsoft-dlp-integration.md)**  
 Install and configure the  DLP Incident Response integration with Microsoft DLP from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Microsoft DLP event data.
--   **[Create a new incident profile for Microsoft DLP integration](../task/create-profile-microsoft-dlp-integration.md)**  
+-   **[Create a new incident profile for Microsoft DLP integration](create-profile-microsoft-dlp-integration.md)**  
 Create an incident profile in your  ServiceNow AI Platform instance to retrieve the data from the Microsoft Purview and add the data into the ServiceNow DLP IR incident table.
--   **[Configure Microsoft DLP IR integration settings](../task/configure-microsoft-integration-settings.md)**  
+-   **[Configure Microsoft DLP IR integration settings](configure-microsoft-integration-settings.md)**  
 Modify the  Microsoft DLP IR  integration default system properties.
--   **[Request release email from quarantine](../task/request-email-from-quarantine.md)**  
+-   **[Request release email from quarantine](request-email-from-quarantine.md)**  
 Use this feature to release the email that is quarantined from the Microsoft Purview compliance portal.
--   **[Download files for DLP incidents of type Exchange Online, OneDrive, and SharePoint](../task/download-file-dlp-microsoft.md)**  
+-   **[Download files for DLP incidents of type Exchange Online, OneDrive, and SharePoint](download-file-dlp-microsoft.md)**  
 Download files or email that violates the DLP policy on Microsoft Purview. Download this file or email on to your local machine from the DLP IR Incident view. You can download the files for DLP IR incidents of type Scan source Exchange Online, OneDrive, and SharePoint.
--   **[Preview Evidence files for DLP incidents of type Exchange Online, OneDrive, and SharePoint](../task/preview-file-dlp-microsoft.md)**  
+-   **[Preview Evidence files for DLP incidents of type Exchange Online, OneDrive, and SharePoint](preview-file-dlp-microsoft.md)**  
 Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 -   **[Domain separation in Microsoft DLP integration](domain-separation-microsoft-dlp.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[DLP integrations](../../data-loss-prevention/concept/dlp-integrations.md)
+**Parent Topic:**[DLP integrations](dlp-integrations.md)
 
 **Related topics**  
 
 
-[Symantec Integration for Data Loss Prevention Incident Response](../../dlp-symantec/concept/symantec-dlp-integration.md)
+[Symantec Integration for Data Loss Prevention Incident Response](symantec-dlp-integration.md)
 
-[Data Loss Prevention Incident Response Integration with Proofpoint](../../dlp-proofpoint/concept/dlp-incident-response-integration-proofpoint.md)
+[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
 
-[Data Loss Prevention Incident Response Integration with Netskope](../../dlp-netskope/concept/dlp-incident-response-integration-netskope.md)
+[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
 
-[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../../dlp-icap-zscaler/concept/icap-dlp-integration.md)
+[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
 

@@ -36,11 +36,11 @@ The product hierarchy created using Included products helps you see relationship
 5.  View and manage included products.
 
     -   To add existing products, select **Add**, select products from the list, and then select **Confirm**.
-    -   To add a new product, select the more actions icon \(![More actions icon.](../image/dpr-icon-more-actions-btn.png)\) next to the **Add** button and then select **Request new product**. In the Request new product dialog box, [fill in the fields](../reference/request-product-service-form.md), and select **Submit**. The new product appears in the list after it’s created.
+    -   To add a new product, select the more actions icon \(![More actions icon.](../image/dpr-icon-more-actions-btn.png)\) next to the **Add** button and then select **Request new product**. In the Request new product dialog box, [fill in the fields](request-product-service-form.md), and select **Submit**. The new product appears in the list after it’s created.
     -   To remove an existing product from the hierarchy, select the product from the list, and then select **Remove**.
     -   To view the details of a product, select the product from the list to open.
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](dpr-using-digital-product-release.md)
 
 **Related topics**  
 

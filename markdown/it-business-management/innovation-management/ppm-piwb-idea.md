@@ -42,8 +42,8 @@ Role required: piwb\_manager
 
     Configure or train the **Similarity** solution for finding similar ideas.
 
-    -   To configure the Similar Ideas solution definition \(ml\_sn\_global\_global\_similar\_ideas\), click **Configure**. For more information, see [Train the similarity solution for Innovation Management to find similar ideas](../../innovation-management/task/train-similarity-solution-im.md).
+    -   To configure the Similar Ideas solution definition \(ml\_sn\_global\_global\_similar\_ideas\), click **Configure**. For more information, see [Train the similarity solution for Innovation Management to find similar ideas](train-similarity-solution-im.md).
     -   To train the Similar Ideas solution definition \(ml\_sn\_global\_global\_similar\_ideas\), click **Train**.
 
-**Parent Topic:**[Managing ideas using Innovation Management](../../innovation-management/concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](using-innovation-management.md)
 

@@ -15,7 +15,7 @@ List of all workspaces ServiceNow offers to target specific users and issues.
 
 A workspace is a suite of tools that provides agents, case managers, help desk professionals, and managers with tools to help answer customer questions and resolve customer problems. ServiceNow provides many workspaces, each targeted to a specific user and issue.
 
--   **[Workspace](../../configurable-workspace/concept/workspace-landing-page.md)**
+-   **[Workspace](workspace-landing-page.md)**
 
     Workspace acts as the default workspace available on the ServiceNow AI Platform and provides the foundation for the targeted workspaces ServiceNow offers.
 

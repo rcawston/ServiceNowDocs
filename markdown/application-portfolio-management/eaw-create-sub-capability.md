@@ -27,27 +27,27 @@ Role required: sn\_apm.apm\_user
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create a sub-capability form](../../reference/eaw-reference/eaw-create-a-sub-capability.md).
+    For a description of the field values, see [Create a sub-capability form](eaw-create-a-sub-capability.md).
 
 5.  Select **Create**.
 
 
-**Parent Topic:**[Working with the business portfolio module](../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](assign-a-business-application.md)
 
 [Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](update-hierarchy.md)
 
 [View a roadmap of a business capability](eaw-view-roadmap-bc.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](add-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](delete-a-capability.md)
 
 [Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
 

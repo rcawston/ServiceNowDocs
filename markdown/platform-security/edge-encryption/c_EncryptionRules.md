@@ -78,9 +78,9 @@ When creating encryption rules, you can’t use APIs from the allow list manager
 
 If an encryption rule condition or action throws an exception, check the proxy log for troubleshooting information.
 
--   **[Inspect the client request](../task/request-type.md)**  
+-   **[Inspect the client request](request-type.md)**  
 Before creating a custom encryption rule, you must determine the format of the client request entering the Edge Encryption proxy server.
--   **[Create an encryption rule](../task/t_CreateAnEncryptionRule.md)**  
+-   **[Create an encryption rule](t_CreateAnEncryptionRule.md)**  
 Encryption rules are used by the proxy to find content in HTTP requests that should be encrypted.
 -   **[Encryption rule conditions](c_EncryptionRuleConditions.md)**  
 Encryption rule conditions determine if the rule should be executed.

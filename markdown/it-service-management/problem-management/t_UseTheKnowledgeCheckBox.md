@@ -36,5 +36,5 @@ You can select the **Knowledge** check box and automatically submit a knowledge 
     If the knowledge submission workflow is enabled, the problem **Work notes** become a knowledge submission instead of an article. For more information, see [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md).
 
 
-**Parent Topic:**[Knowledge articles from problems](../concept/c_CreateKnowledge.md)
+**Parent Topic:**[Knowledge articles from problems](c_CreateKnowledge.md)
 

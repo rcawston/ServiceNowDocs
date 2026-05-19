@@ -34,7 +34,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 An email message is sent to the selected approver and the contract substate changes to Under Review.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](../concept/use-lease-admin-core-ui.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](use-lease-admin-core-ui.md)
 
 **Related topics**  
 

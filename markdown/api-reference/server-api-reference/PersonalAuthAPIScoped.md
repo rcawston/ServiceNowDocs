@@ -19,7 +19,7 @@ To access this API the Personal Authentication \(com.snc.sn\_ihub\_personal\_aut
 
 Before accessing this API, Personal Authentication must be configured on your instance. For additional information, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PersonalAuthAPI - PersonalAuthAPI\(\)
 

@@ -36,5 +36,5 @@ The following roles have access to the Discovery Admin Workspace:
 
 ## Dependencies
 
-For a list of Discovery Admin Workspace application dependencies, see [Plugins or applications installed with ITOM Visibility](../../it-operations-management/reference/plugin-app-itom-visibility.md).
+For a list of Discovery Admin Workspace application dependencies, see [Plugins or applications installed with ITOM Visibility](../itom-visibility/plugin-app-itom-visibility.md).
 

@@ -35,18 +35,18 @@ You can access contract request through the legal request or directly from the L
     -   Select **Collaborations** to see the contract requests where you are a collaborator.
     -   Select **All** to see all the contract requests.
 
-**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](../concept/snlc-use-sn-legal-cont-landing.md)
+**Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](snlc-use-sn-legal-cont-landing.md)
 
 **Related topics**  
 
 
-[Non-disclosure agreement requests](../concept/snlc-request-nda-1.md)
+[Non-disclosure agreement requests](../employee-service-management/snlc-request-nda-1.md)
 
-[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 
-[Contract amendments](../concept/snlc-amend-req-landing.md)
+[Contract amendments](snlc-amend-req-landing.md)
 
-[Linking parent-child contracts](../concept/snlc-linking-parent-child.md)
+[Linking parent-child contracts](snlc-linking-parent-child.md)
 
 [Internal review overview](snlc-expert-review.md)
 
@@ -54,5 +54,5 @@ You can access contract request through the legal request or directly from the L
 
 [View and download a signed contract document](snlc-preview-contract.md)
 
-[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+[Manage Contract Management Pro for Legal Service Delivery](snlc-manage-sn-legal-contracts.md)
 

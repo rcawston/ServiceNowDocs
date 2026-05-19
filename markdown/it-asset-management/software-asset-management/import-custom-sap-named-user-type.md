@@ -109,12 +109,12 @@ Microsoft Excel spreadsheet that contains the named user types that you want to 
     The custom SAP named user types are imported into your ServiceNow® instance. The named user types are then added to the Named User Types \[samp\_named\_user\_type\] table.
 
 
-**Parent Topic:**[Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for SAP](sap-publisher-pack.md)
 
 **Related topics**  
 
 
-[Tables installed with the SAP publisher pack](../concept/component-installed-sap-plugin.md)
+[Tables installed with the SAP publisher pack](component-installed-sap-plugin.md)
 
 [Deploy the ABAP program for SAP](import-abap-program-sap.md)
 
@@ -134,13 +134,13 @@ Microsoft Excel spreadsheet that contains the named user types that you want to 
 
 [Import custom SAP price lists](import-custom-sap-price-list.md)
 
-[SAP USMM-based optimization](../concept/usmm-optimization.md)
+[SAP USMM-based optimization](usmm-optimization.md)
 
-[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+[User transaction activity for named user types](sap-named-user-transaction-activity.md)
 
-[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)
 
-[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)
 
-[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)
+[Publisher overview for SAP in the Software Asset Workspace](publisher-overview-sap.md)
 

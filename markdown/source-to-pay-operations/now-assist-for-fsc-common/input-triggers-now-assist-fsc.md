@@ -66,5 +66,5 @@ Base input fields
 -   ERP number
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customize a Now Assist for Common Finance and Supply Chain features skill](../task/cust-now-assist-fsc-skill.md)
+</table>**Parent Topic:**[Customize a Now Assist for Common Finance and Supply Chain features skill](cust-now-assist-fsc-skill.md)
 

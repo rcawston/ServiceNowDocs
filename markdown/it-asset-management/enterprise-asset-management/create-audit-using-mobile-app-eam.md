@@ -146,7 +146,7 @@ Depending on the selected scan method for the audit record, you can scan the ass
 -   An audit record is created and listed on the **Open** tab.
 -   The audit result fields are displayed on the audit **Details** tab.
 
-    For a detailed description of the audit result field values, see [Audit results](../../hardware-asset-management/reference/audit-results.md).
+    For a detailed description of the audit result field values, see [Audit results](../hardware-asset-management/audit-results.md).
 
 
 ## What to do next

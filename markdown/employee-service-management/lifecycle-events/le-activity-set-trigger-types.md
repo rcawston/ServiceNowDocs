@@ -104,5 +104,5 @@ The number of offset units to be evaluated.
     Combines the use for **Date**, **Other Activity Sets**, and **Condition**. All three conditions must be met to trigger the activity set.
 
 
-**Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](../task/le-config-event-trigger.md)
+**Parent Topic:**[Configure a Lifecycle Events trigger for activity sets](le-config-event-trigger.md)
 

@@ -103,5 +103,5 @@ Time that the job ran or will run.You can edit the date.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](manage-unused-mac.md)
 

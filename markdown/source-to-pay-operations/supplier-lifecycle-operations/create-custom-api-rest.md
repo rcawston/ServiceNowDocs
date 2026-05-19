@@ -71,9 +71,9 @@ Role required: admin
 
 [Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md).
 
-**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 
-**Previous topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Previous topic:**[Configuring a custom API to dynamically fetch supplier news](config-supplier-news-api.md)
 
 **Next topic:**[Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)
 

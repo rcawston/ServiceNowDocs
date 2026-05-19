@@ -20,21 +20,21 @@ Use Antivirus Scanning to help protect your instance against virus infections th
 
 </td><td>
 
-[Configure Antivirus protection![Use](../../../common/image/icon-set-up.png)](../task/configure-antivirus-protection.md)
+[Configure Antivirus protection![Use](../../../common/image/icon-set-up.png)](configure-antivirus-protection.md)
 
- [Understand how to configure Antivirus protection.](../task/configure-antivirus-protection.md)
+ [Understand how to configure Antivirus protection.](configure-antivirus-protection.md)
 
 </td></tr><tr><td>
 
-[Resolve Infected Files![Reviewing](../../../common/image/icon-manage.png)](../task/resolve-infected-file.md)
+[Resolve Infected Files![Reviewing](../../../common/image/icon-manage.png)](resolve-infected-file.md)
 
- [Learn what to do with infected files.](../task/resolve-infected-file.md)
+ [Learn what to do with infected files.](resolve-infected-file.md)
 
 </td><td>
 
-[Reference for Antivirus scanning![Reference for Antiivirus scanning](../../../common/image/icon-reference.png)](../reference/dictionary-attributes-antivirus-scan.md)
+[Reference for Antivirus scanning![Reference for Antiivirus scanning](../../../common/image/icon-reference.png)](dictionary-attributes-antivirus-scan.md)
 
- [Know about the Dictionary Attributes for Antivirus Scanning.](../reference/dictionary-attributes-antivirus-scan.md)
+ [Know about the Dictionary Attributes for Antivirus Scanning.](dictionary-attributes-antivirus-scan.md)
 
 </td></tr></tbody>
 </table>

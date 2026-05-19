@@ -89,7 +89,7 @@ Starting with Utah, confidential configuration for all the default confidentiali
 
 To know more about the confidentiality feature, see [KB1218856](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1218856).
 
-[Configure confidentiality in your GRC tables](../task/configure-confidentilaity-on-grc-tables.md)
+[Configure confidentiality in your GRC tables](configure-confidentilaity-on-grc-tables.md)
 
 To enable confidentiality in your GRC tables, you must perform additional configuration, such as updating the client scripts and updating access control lists \(ACLs\). After you update the configuration for a specific ServiceNow platform table, the confidentiality functionality can be used on those table's forms.
 
@@ -101,9 +101,9 @@ You can also enable Confidentiality on a form in the workspace view as shown in 
 
 ![Confidentiality section in the workspace view.](../image/confidentiality-fields-ws-view.png "Confidentiality in the workspace view")
 
--   **[Create a confidential record](../task/configure-confidential-record.md)**  
+-   **[Create a confidential record](configure-confidential-record.md)**  
 Create a record and mark it as confidential so that you can make sure that only the users with a specific role can access it.
--   **[Configure confidentiality in GRC tables](../task/configure-confidentilaity-on-grc-tables.md)**  
+-   **[Configure confidentiality in GRC tables](configure-confidentilaity-on-grc-tables.md)**  
 You can create a confidentiality configuration record in your GRC tables.
 -   **[Configuring confidential inheritance in your tables](confidential-inheritance.md)**  
 You can set up confidentiality inheritance in the tables that are already configured in the confidentiality configuration module. In the GRC application, whenever a parent record is marked or unmarked as confidential, its related table records are also marked or unmarked as confidential.

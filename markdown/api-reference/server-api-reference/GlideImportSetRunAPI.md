@@ -18,22 +18,22 @@ The GlideImportSetRun API provides methods to creates an Import Set Run record w
 See also:
 
 -   [Import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/import-sets-landing-page.md)
--   [Import Set API](../../../../../integrate/inbound-rest/concept/c_ImportSetAPI.md#)
+-   [Import Set API](../rest-apis/c_ImportSetAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportLog](../../GlideImportLog/concept/GlideImportLogAPI.md#)
+[GlideImportLog](GlideImportLogAPI.md#)
 
-[GlideImportSetTable](../../GlideImportSetTable/concept/GlideImportSetTableAPI.md#)
+[GlideImportSetTable](GlideImportSetTableAPI.md#)
 
-[GlideImportSetTransformer](../../GlideImportSetTransformer/concept/GlideImportSetTransformerAPI.md#)
+[GlideImportSetTransformer](GlideImportSetTransformerAPI.md#)
 
-[GlideImportSetTransformMap](../../GlideImportSetTransformMap/concept/GlideImportSetTransformMapAPI.md#)
+[GlideImportSetTransformMap](GlideImportSetTransformMapAPI.md#)
 
-[GlideTransformLog](../../GlideTransformLog/concept/GlideTransformLogAPI.md#)
+[GlideTransformLog](GlideTransformLogAPI.md#)
 
 ## GlideImportSetRun - GlideImportSetRun\(String importSetID\)
 

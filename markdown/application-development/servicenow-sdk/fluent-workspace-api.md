@@ -29,7 +29,7 @@ For general information about workspaces, see [Configurable Workspace UI](https:
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Workspace object
 

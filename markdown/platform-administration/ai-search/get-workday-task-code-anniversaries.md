@@ -45,5 +45,5 @@ Provide the task code you copied in step [3](get-workday-task-code-anniversaries
 
 For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](create-ext-cont-connector-workday.md).
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](workday-external-content-connector.md)
 

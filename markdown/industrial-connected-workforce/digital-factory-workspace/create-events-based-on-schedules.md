@@ -31,7 +31,7 @@ Role required: sn\_icw\_std.standard\_author
 
 4.  On the Scheduled plan form, fill in the fields.
 
-    For a description of field values, see [Schedule plan form](../reference/scheduled-plan-form.md).
+    For a description of field values, see [Schedule plan form](scheduled-plan-form.md).
 
 5.  Select **Save**.
 
@@ -43,7 +43,7 @@ Role required: sn\_icw\_std.standard\_author
 
 8.  On the Custom schedule form, fill in the fields.
 
-    For a description of field values, see [Custom schedule plan form](../reference/custom-schedule-plan-form.md).
+    For a description of field values, see [Custom schedule plan form](custom-schedule-plan-form.md).
 
 9.  Select **Save**.
 
@@ -55,5 +55,5 @@ The new schedule plan is displayed in the list of schedule plans for the standar
 -   **[Create a shift-based schedule plan](create-shift-based-schedule.md)**  
 Create a scheduled plan for standard tasks based on shift configuration of a functional location.
 
-**Parent Topic:**[Scheduling standards](../concept/scheduling-standards.md)
+**Parent Topic:**[Scheduling standards](scheduling-standards.md)
 

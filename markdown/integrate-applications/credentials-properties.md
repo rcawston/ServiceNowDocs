@@ -20,5 +20,5 @@ To set the properties of a Credentials component, double-click a component and e
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Credentials](../concept/credentials.md)
+**Parent Topic:**[Credentials](credentials.md)
 

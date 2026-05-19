@@ -48,5 +48,5 @@ At the end of the migration process, a confirmation message specifies if the mig
 10. Select **Update**.
 
 
-**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/list-actions-migration-itsm-aw-sow.md)
+**Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-actions-migration-itsm-aw-sow.md)
 

@@ -39,7 +39,7 @@ Role required: hermes\_admin or admin
 
 3.  View the producer and consumer bootstrap addresses that you can use to connect to Hermes in the Setup Information section.
 
-    Use these port mappings to connect producer and consumer clients to the Kafka cluster bootstrap addresses, as described in [Exchanging data using Hermes](../concept/exchanging-data-hermes-messaging-service.md).
+    Use these port mappings to connect producer and consumer clients to the Kafka cluster bootstrap addresses, as described in [Exchanging data using Hermes](exchanging-data-hermes-messaging-service.md).
 
     **Note:** When configuring consumer clients, you must configure two clients using ports in separate ranges: one in 4100-4150 and another in 4200-4250.
 
@@ -88,19 +88,19 @@ Role required: hermes\_admin or admin
 
     5.  View the timestamp for an internal topic's last known message by selecting the topic name in the **Internal Topics** column.
 
-    The message's timestamp is displayed. To view full details for a topic, use the Hermes Topic Inspector. See [Monitoring topics in the Hermes Kafka cluster](../concept/monitoring-topics-hermes-kafka-cluster.md).
+    The message's timestamp is displayed. To view full details for a topic, use the Hermes Topic Inspector. See [Monitoring topics in the Hermes Kafka cluster](monitoring-topics-hermes-kafka-cluster.md).
 
 
-**Parent Topic:**[Administering Hermes Messaging Service](../concept/hermes-messaging-service-administration.md)
+**Parent Topic:**[Administering Hermes Messaging Service](hermes-messaging-service-administration.md)
 
 **Related topics**  
 
 
-[Monitoring data usage in Hermes](../concept/monitoring-data-usage-hermes.md)
+[Monitoring data usage in Hermes](monitoring-data-usage-hermes.md)
 
-[Tracking message usage in Hermes](../concept/tracking-hermes-messaging-service-usage.md)
+[Tracking message usage in Hermes](tracking-hermes-messaging-service-usage.md)
 
-[Cloning with Hermes Messaging Service enabled](../concept/cloning-with-hermes-messaging-service.md)
+[Cloning with Hermes Messaging Service enabled](cloning-with-hermes-messaging-service.md)
 
 [View Hermes Messaging Service log messages](view-hermes-log-messages.md)
 

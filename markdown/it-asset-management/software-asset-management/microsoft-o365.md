@@ -65,5 +65,5 @@ SAM managers can perform the following actions:
 
 [Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md)
 
-[Publisher optimizations for Microsoft](../reference/pub-opt-microsoft.md)
+[Publisher optimizations for Microsoft](pub-opt-microsoft.md)
 

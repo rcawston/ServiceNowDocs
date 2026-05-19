@@ -46,9 +46,9 @@ Role required: admin
 
 ## What to do next
 
-Enable[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md).
+Enable[Enable S/MIME](enable-smime-for-outbound-and-inbound.md).
 
-**Parent Topic:**[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+**Parent Topic:**[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -57,5 +57,5 @@ Enable[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md).
 
 [Upload a CA certificate](upload-ca-certificate.md)
 
-[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md)
+[Enable S/MIME](enable-smime-for-outbound-and-inbound.md)
 

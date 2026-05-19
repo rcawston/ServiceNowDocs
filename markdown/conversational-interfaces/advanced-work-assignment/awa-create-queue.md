@@ -182,7 +182,7 @@ Max Wait Time
 
 </td><td>
 
-Maximum amount of time that all available agents have to accept or reject a chat request. After time runs out, the requester receives the value in either the **Max wait time message** field or the **No Agents Available Message** field defined in [Agent Chat settings](../../conversational-interfaces/task/ac-configure-agent-chat.md).**Note:** The **Max Wait Time** field is available after you associate the queue to the chat service channel.
+Maximum amount of time that all available agents have to accept or reject a chat request. After time runs out, the requester receives the value in either the **Max wait time message** field or the **No Agents Available Message** field defined in [Agent Chat settings](../agent-chat/ac-configure-agent-chat.md).**Note:** The **Max Wait Time** field is available after you associate the queue to the chat service channel.
 
 </td></tr></tbody>
 </table>4.  Select **Submit** for a new queue or **Update** to change the queue.

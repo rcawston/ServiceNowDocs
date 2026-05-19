@@ -17,28 +17,28 @@ The VirusTotal integration enables you to request the analysis of suspicious IP 
 
 Explore
 
- [Threat Intelligence integrations](../../../threat-intelligence/concept/threat-intelligence-integrations.md)
+ [Threat Intelligence integrations](threat-intelligence-integrations.md)
 
 </td><td>
 
 Set up
 
- -   [VirusTotal integration setup](../concept/virustotal-setup.md)
--   [Activate and configure the VirusTotal integration](../task/activate-configure-virustotal.md)
+ -   [VirusTotal integration setup](virustotal-setup.md)
+-   [Activate and configure the VirusTotal integration](activate-configure-virustotal.md)
 
 </td></tr><tr><td>
 
 Use
 
- -   [Perform lookups on observables](../../../threat-intelligence/task/perform-lookups-on-observables.md)
--   [Threat Lookup - VirusTotal workflow](../task/threat-lookup-virustotal-wf.md#)
+ -   [Perform lookups on observables](perform-lookups-on-observables.md)
+-   [Threat Lookup - VirusTotal workflow](threat-lookup-virustotal-wf.md#)
 
 </td><td>
 
 Develop
 
- -   [ServiceNow Security Operations integration development guidelines](../../../security-operations-integrations/concept/c_IntegrationWritingGuidelines.md)
--   [Tips for writing integrations](../../../security-operations-integrations/concept/c_BestPractisesIntegrations.md)
+ -   [ServiceNow Security Operations integration development guidelines](c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -47,7 +47,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [Integration troubleshooting](../../../security-operations-integrations/concept/c_IntegrationTroubleshooting.md)
+ -   [Integration troubleshooting](c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

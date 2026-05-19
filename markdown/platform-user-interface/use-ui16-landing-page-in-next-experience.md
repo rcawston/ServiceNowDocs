@@ -44,5 +44,5 @@ Values in the user preference **my\_home\_navigation\_page** override the value 
 
 When users log in, they see the selected landing page instead of the default.
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](next-experience-landing-pages.md)
 

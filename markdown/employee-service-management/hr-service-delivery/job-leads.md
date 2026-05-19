@@ -19,13 +19,13 @@ Add talent profiles as job prospects to a job requisition when the profiles are 
 
 It provides better visibility to the recruiters into the profiles that are the prospective fit for the job opening.
 
--   **[Copy talent profiles as job prospects](../task/copy-talent-to-leads.md)**  
+-   **[Copy talent profiles as job prospects](copy-talent-to-leads.md)**  
 Copy talent profiles from a Talent pool to a particular job requisition as prospects.
--   **[Create prospects in job requisitions](../task/create-lead-req.md)**  
+-   **[Create prospects in job requisitions](create-lead-req.md)**  
 Create a prospect within a job requisition as a potential fit for the job opening.
--   **[Add prospects to job requisitions](../task/add-leads-to-reqs.md)**  
+-   **[Add prospects to job requisitions](add-leads-to-reqs.md)**  
 Add relevant profiles directly to the job requisition as job prospects.
--   **[Edit prospects in job requisition](../task/edit-prospect-job-req.md)**  
+-   **[Edit prospects in job requisition](edit-prospect-job-req.md)**  
 Edit newly created prospect profiles within a job requisition until the prospect applies.
 
 **Parent Topic:**[Using Talent profile](config-t-pool.md)

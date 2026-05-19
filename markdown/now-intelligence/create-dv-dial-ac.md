@@ -16,7 +16,7 @@ Use a dial visualization to show where a value lies between expected minimum and
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](reporting/report-view-access-control.md) and [Platform Analytics roles](platform-analytics-roles.md).
 
 ## About this task
 
@@ -165,11 +165,11 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Choose a data source.
 
-    For general descriptions of the data sources, see [Data sources for data visualizations](../../par-for-workspace/reference/data-sources-visualizations.md).
+    For general descriptions of the data sources, see [Data sources for data visualizations](data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by custom or preconfigured conditions. Custom conditions can include questions or Service Catalog variables.
 
-        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](../concept/c_ReportSources.md#).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](reporting/c_ReportSources.md#).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
@@ -183,18 +183,18 @@ Specify the text color of the title. The default title color is black, but you c
 
         **Note:**
 
-        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](../../performance-analytics/concept/condition-operators-ind-bkdowns.md#section_breakdown-operators).
+        You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](performance-analytics/condition-operators-ind-bkdowns.md#section_breakdown-operators).
 
         Indicator types include Automated, Formula, and Manual indicators as well as Automated and Formula Data Snapshots. The Indicator Preview shows an example of the visualization and a list of the indicator's properties.
 
         ![Indicator preview example with visualization example and list of properties including source type, indicator source, indicator type, additional conditions and available breakdowns.](../image/dv-indicator-source-preview.png)
 
-    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](../../performance-analytics/concept/uxa-data-sources.md).
+    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](uxa-data-sources.md).
 6.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [Table data options for dial visualizations](../reference/config-dv-dial-table-data.md).
-    -   If your visualization represents indicator data, go to [Indicator data options for dial data visualizations](../reference/config-dv-dial-ind-data.md).
-    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for dial data visualizations](../reference/config-dv-dial-uxa-data.md).
+    -   If your visualization represents table data, go to [Table data options for dial visualizations](config-dv-dial-table-data.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for dial data visualizations](config-dv-dial-ind-data.md).
+    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for dial data visualizations](config-dv-dial-uxa-data.md).
 7.  Under **Presentation**, provide display and color information.
 
 <table id="table_gvk_2mr_qtb"><thead><tr><th>
@@ -262,7 +262,7 @@ Set color type
 -   Default: A color or set of colors that come from the UX Theme that is applied to the instance. For more information, see [Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md).
 -   Single color/Colors per metric: Select a single color in the **Set value color** field. Interacting with that field opens a selector where you can choose the color from either a set of icons or from a list. You can also search for a color. Entering a search value has the selector show you a list of colors filtered by that search value.
 
-Alternatively, you can add a rule to define a dynamic color. For more information, see [Create coloring rules for data visualizations](../../performance-analytics/concept/colors-dv.md#).
+Alternatively, you can add a rule to define a dynamic color. For more information, see [Create coloring rules for data visualizations](colors-dv.md#).
 
 </td></tr></tbody>
 </table>8.  Under **Chart interaction**, set what if anything happens when a viewer clicks a chart or a chart segment on the visualization.
@@ -289,9 +289,9 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md).
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](../../dashboards/reference/visualization-drilldown-in-config-ws.md).
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
@@ -307,16 +307,16 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 -   [Add a visualization to a dashboard from the Visualization Designer](add-dv-new-db.md)
 -   [Share a data visualization in the Visualization Designer](share-dv-ac.md#)
--   [Bookmark a visualization in the Visualization Designer](../../dashboards/task/bookmark-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](bookmark-dv-ac.md)
 
--   **[Table data options for dial visualizations](../reference/config-dv-dial-table-data.md)**  
+-   **[Table data options for dial visualizations](config-dv-dial-table-data.md)**  
 When you select a table data source for a dial visualization, the following Data configuration options are available.
--   **[Indicator data options for dial data visualizations](../reference/config-dv-dial-ind-data.md)**  
+-   **[Indicator data options for dial data visualizations](config-dv-dial-ind-data.md)**  
 When you select an indicator data source for a dial visualization, the following Data configuration options are available.
--   **[Usage Insights data options for dial data visualizations](../reference/config-dv-dial-uxa-data.md)**  
+-   **[Usage Insights data options for dial data visualizations](config-dv-dial-uxa-data.md)**  
 When you select a Usage Insights data source for a dial visualization, the following Data configuration options are available.
--   **[Dial visualization example](../../par-for-workspace/task/dv-example-dial.md)**  
+-   **[Dial visualization example](dv-example-dial.md)**  
 Dial visualizations show where a single value lies across a range from minimum to maximum expected values. Visually, a "needle" points to the value, and the dial is colored in for values up to the needle.
 
-**Parent Topic:**[Creating data visualizations](../concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

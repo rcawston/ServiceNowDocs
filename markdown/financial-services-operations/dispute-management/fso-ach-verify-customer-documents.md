@@ -51,5 +51,5 @@ After the customer sends supporting documents in response to a denial, you extra
 9.  Close the task.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](process-dispute-ach.md)
 

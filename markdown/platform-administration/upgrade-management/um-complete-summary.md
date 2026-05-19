@@ -113,7 +113,7 @@ Skipped records code changed/code unchanged
 Skipped records are sorted depending on if there are changes in the code or not.
 
 </td></tr></tbody>
-</table>**Note:** You can click **Skipped Record VTB** to view the resolution status of the current upgrade with skipped records using the visual task board \(VTB\) view. See [Skipped Records visual task board \(VTB\)](../concept/um-vtb-history.md) for more information.
+</table>**Note:** You can click **Skipped Record VTB** to view the resolution status of the current upgrade with skipped records using the visual task board \(VTB\) view. See [Skipped Records visual task board \(VTB\)](um-vtb-history.md) for more information.
 
 ## Node Upgrades
 
@@ -157,10 +157,10 @@ The Top 10 Schema Changes by Duration helps you understand which schema changes 
 
 ![]()
 
-The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](../task/um-view-loaded-files-plugin.md) for more information.
+The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](um-view-loaded-files-plugin.md) for more information.
 
--   **[View loaded files for a plugin](../task/um-view-loaded-files-plugin.md)**  
+-   **[View loaded files for a plugin](um-view-loaded-files-plugin.md)**  
 Get a related list view of all the files loaded for a plugin by clicking **View all plugin duration**.
 
-**Parent Topic:**[Monitor an upgrade to an instance](../task/um-monitor-instance-upgrade.md)
+**Parent Topic:**[Monitor an upgrade to an instance](um-monitor-instance-upgrade.md)
 

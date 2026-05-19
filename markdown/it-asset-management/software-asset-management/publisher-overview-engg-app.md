@@ -173,5 +173,5 @@ Denial trends
 Denial trends for SewerCAD for the last 30 days.Select a bar to view the complete list of users that have been denied the specified software product.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engineering license management](../concept/concurrent-licenses.md)
+</table>**Parent Topic:**[Engineering license management](concurrent-licenses.md)
 

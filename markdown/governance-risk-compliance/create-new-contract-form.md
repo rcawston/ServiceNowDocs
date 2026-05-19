@@ -29,5 +29,5 @@ On the Create New Contract form, fill in the fields.
 |Business owner|Internal contact responsible for the ownership of goods or services.|
 |Description|Detailed description of the contract.|
 
-**Parent Topic:**[Create a contract and enhance digital resilience data](../task/create-drtp-reg-contract.md)
+**Parent Topic:**[Create a contract and enhance digital resilience data](create-drtp-reg-contract.md)
 

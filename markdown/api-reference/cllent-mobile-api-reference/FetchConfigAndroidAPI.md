@@ -19,12 +19,12 @@ This class only contains a single function \(constructor\), [FetchConfiguration\
 
 |Name|Type|Description|
 |----|----|-----------|
-|filter|[Filter](../../Filter/concept/FilterAndroidAPI.md#)|Query to use to filter the return results.|
+|filter|[Filter](FilterAndroidAPI.md#)|Query to use to filter the return results.|
 |limit|Integer|Number of records per page/response to return.|
 |queryParams|QueryParams|Iterable structure that contains name-value pairs of request query parameters.|
-|readConfiguration|[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)|Configuration for the fields to return in the response.|
+|readConfiguration|[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)|Configuration for the fields to return in the response.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## FetchConfiguration - FetchConfiguration\(filter: Filter? = null, limit: Int? = null, readConfiguration: FieldReadConfiguration? = null\)
 
@@ -48,7 +48,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilterAndroidAPI.md#)
+[Filter](FilterAndroidAPI.md#)
 
 </td><td>
 
@@ -72,7 +72,7 @@ readConfiguration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)
+[FieldReadConfiguration](FieldReadConfigAndroidAPI.md#)
 
 </td><td>
 

@@ -45,7 +45,7 @@ If either condition is met, the app sends an email notification to the owner of 
     The resources are added to the Excluded Resources list. To remove a resource from the list, select the resources from the **Excluded** tab and then select **Remove From Exclusion**.
 
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](manage-unused-mac.md)
 
 **Related topics**  
 

@@ -67,7 +67,7 @@ Understand the basics of playbooks and workflow studio. Ensure you have working 
 **Related topics**  
 
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](gss-guided-self-service-reference-info.md)
 
 [Use Guided Self-Service](gss-guided-self-service-homepage.md)
 

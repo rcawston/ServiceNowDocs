@@ -65,5 +65,5 @@ Confirms receipt of all the orders. On the **Confirm you received everything** w
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](shopper-todos.md)
 

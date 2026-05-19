@@ -35,7 +35,7 @@ Use this procedure to configure display settings for source facet buckets in you
 
 4.  On the Source Facet Bucket form, fill in the fields.
 
-    For a description of the field values, see [Source Facet Bucket form](../reference/navigation-tab-form-ais.md).
+    For a description of the field values, see [Source Facet Bucket form](navigation-tab-form-ais.md).
 
 5.  Select **Update**.
 
@@ -44,5 +44,5 @@ Use this procedure to configure display settings for source facet buckets in you
 
 The source facet bucket appears with updated settings in the Source Facet Buckets related list.
 
-**Parent Topic:**[Search application configurations](../concept/defining-search-app-cfgs-ais.md)
+**Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
 

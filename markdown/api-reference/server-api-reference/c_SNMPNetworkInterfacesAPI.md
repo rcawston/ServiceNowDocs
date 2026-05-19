@@ -17,7 +17,7 @@ The SNMPNetworkInterfaces script include provides methods to create network inte
 
 Use this script include in discovery scripts when you need to create network interfaces for JavaScript SNMP sensors.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SNMPNetworkInterfaces - process\(String cmdb\_ci, String doc, Boolean isComputer, String agentName, String ecc\_sys\_id\)
 

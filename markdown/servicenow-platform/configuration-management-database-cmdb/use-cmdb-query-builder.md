@@ -27,7 +27,7 @@ Build the query by dragging the CI classes and non-CMDB tables that you want to 
 
 As you step through building a query, list options and other user interface elements of the CMDB Query Builder, are dynamically filtered as appropriate to your selections.
 
-To learn more about using Query Builder, see the [CMDB Query Builder Queries and Reporting - Platform Analytics Academy](https://www.youtube.com/watch?v=NArqszOamHc) ServiceNow Community video. For a step-by-step walk through of building CMDB queries in the Query Builder, including queries with application services, see [Example queries](../concept/sample-queries.md).
+To learn more about using Query Builder, see the [CMDB Query Builder Queries and Reporting - Platform Analytics Academy](https://www.youtube.com/watch?v=NArqszOamHc) ServiceNow Community video. For a step-by-step walk through of building CMDB queries in the Query Builder, including queries with application services, see [Example queries](sample-queries.md).
 
 ## Procedure
 
@@ -154,28 +154,28 @@ A pattern connection between an application service node and another node.
 
         **Note:** This option is available only with the V1 engine execution mode. For more information about CMDB Query engine execution modes, see [Set execution mode for running a query](config-query-builder-engine-mode.md).
 
-    -   Select **Load All Results** to view the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](../reference/cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
+    -   Select **Load All Results** to view the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
     Select a CI to open its CI form, and on the CI form select **Open in CMDB Workspace** to view CI health in the CI Health tile in CMDB Workspace. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
 
     **Note:**
 
-    -   Ensure that the [glide.security.use\_csrf\_token](../../../administer/login/reference/win-security-properties-password-reset.md) property is set to true, allowing all results to appear.
+    -   Ensure that the [glide.security.use\_csrf\_token](../password-reset/win-security-properties-password-reset.md) property is set to true, allowing all results to appear.
     -   When **Level** is set to **Up to 2nd level relationships**, the relationship type does not appear in the query results.
     -   When a query is running, wait for it to complete or to time out before opening or running another query.
 -   [Modify Query Builder settings](cmdb-querybldr-config-display.md): Select the Settings icon to open the **Query Builder Settings** dialog box.
 -   Copy and share the URL of a saved query with users that have access to the CMDB Query Builder. Pasting the shared URL in a new internet browser window, directly opens the saved query in the CMDB Query Builder.
--   [Create a report in CMDB Query Builder](../concept/create-query-results-report.md).
+-   [Create a report in CMDB Query Builder](create-query-results-report.md).
 -   [Create a schedule](create-cmdb-query-schedule.md) to run the query at a future time, and to email the results to interested parties.
 -   Export query results:
 
     Select the Query Results context menu and select **Export**. Even if the **Load More Results** button is visible, indicating that there are additional query results, only the results that are visible are exported.
 
 -   [Export and import a CMDB query](export-import-query.md) to port a query definition between instances.
--   [Populate a CMDB group](../concept/cmdb-groups.md#) using a saved query.
+-   [Populate a CMDB group](cmdb-groups.md#) using a saved query.
 -   [Delete a CMDB query](delete-cmdb-query.md).
 
 **Related topics**  
 
 
-[Example queries](../concept/sample-queries.md)
+[Example queries](sample-queries.md)
 

@@ -20,7 +20,7 @@ Install MID Servers with the MID Server guided Windows installation package. The
 ![Set up indicator for installation phase](../image/ProgressBarInstall.png)
 
 </td></tr></tbody>
-</table>-   Verify that the host computer satisfies the [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md).
+</table>-   Verify that the host computer satisfies the [MID Server system requirements](r_MIDServerSystemRequirements.md).
 -   The MID Server requires the minimum PowerShell version 3.0 and supports versions up to PowerShell 5.1.
 -   Ensure that the Microsoft Application Experience Lookup Service is enabled on the MID Server host. If this service is disabled, the MID Server auto-upgrade might fail, causing the MID Server to go down. For information on managing issues with the Application Experience service, see [KB0597552](https://support.servicenow.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0597552).
 
@@ -107,7 +107,7 @@ ServiceNow MID Server username
 
 </td><td>
 
-Enter the name of the [MID Server user](../task/t_SetupMIDServerRole.md#) that you already created. The MID Server user must have the mid\_server role.
+Enter the name of the [MID Server user](t_SetupMIDServerRole.md#) that you already created. The MID Server user must have the mid\_server role.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Use proxy
 
 Select this check box if your MID Server communicates through a proxy to connect to the instance.**Note:** Your proxy server must use Basic Authentication for the MID server to connect to the instance.
 
-The MID Server can bypass proxy servers whose DNS/IP address is listed in the configuration parameter **mid.cloud.discovery.proxy.exclusion.list**. See [MID Server property](../reference/r_MIDServerProperties.md#) for more information.
+The MID Server can bypass proxy servers whose DNS/IP address is listed in the configuration parameter **mid.cloud.discovery.proxy.exclusion.list**. See [MID Server property](r_MIDServerProperties.md#) for more information.
 
 </td></tr><tr><td>
 
@@ -282,7 +282,7 @@ Modify this field if necessary. It is populated automatically by prefixing `Serv
 
     Select **Start MID Server after installation** if you want to start the MID Server immediately after installation. If you want to make additional configuration changes, before starting the MID server, leave this box unchecked. If mutual authentication was selected, the MID Server username and password fields are removed.
 
-    **Note:** If the MID Server fails to start, the cause might be a duplicate name or multiple services that point to the same executable path. This can happen when you have MID servers previously not installed through the installer. See [MID Server fails to start](../reference/mid-startup-fails.md) for details.
+    **Note:** If the MID Server fails to start, the cause might be a duplicate name or multiple services that point to the same executable path. This can happen when you have MID servers previously not installed through the installer. See [MID Server fails to start](mid-startup-fails.md) for details.
 
 11. Select **Mid Servers List Page**.
 
@@ -344,7 +344,7 @@ Windows service credentials control the level of privilege on the device. The us
 
 **Note:**
 
-Windows service credentials are not the same as the MID Server user credentials, which allow communication between the MID Server and the instance. You must configure both of these credentials separately. See [Create the MID Server user and grant the role](../task/t_SetupMIDServerRole.md#) for instructions on MID Server user credentials.
+Windows service credentials are not the same as the MID Server user credentials, which allow communication between the MID Server and the instance. You must configure both of these credentials separately. See [Create the MID Server user and grant the role](t_SetupMIDServerRole.md#) for instructions on MID Server user credentials.
 
 ### Procedure
 
@@ -547,7 +547,7 @@ This procedure is only for users who install the MID Server using the ZIP file.
 
 ### What to do next
 
-[Validate](../task/t_ValidateAMIDServer.md) the MID Server to prepare it for use.
+[Validate](t_ValidateAMIDServer.md) the MID Server to prepare it for use.
 
 ## Configure a MID Server on Windows to use an existing JRE
 
@@ -555,7 +555,7 @@ You can choose to use an existing JRE for your MID Server rather than the OpenJD
 
 ### Before you begin
 
-Ensure that your JRE version is supported. See [MID Server system requirements](../reference/r_MIDServerSystemRequirements.md) for details.
+Ensure that your JRE version is supported. See [MID Server system requirements](r_MIDServerSystemRequirements.md) for details.
 
 Role required: admin
 

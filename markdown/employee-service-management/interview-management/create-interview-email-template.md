@@ -28,5 +28,5 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 2.  On the template form, select the table as Job interview and the Template fields as **Meeting invite** and **Meeting subject**.
 
 
-**Parent Topic:**[Configuring Interview Management](../concept/configuring-interview-management.md)
+**Parent Topic:**[Configuring Interview Management](configuring-interview-management.md)
 

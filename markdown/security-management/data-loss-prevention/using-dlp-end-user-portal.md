@@ -17,12 +17,12 @@ The Data Loss Prevention Incident Response \(DLP IR\) User Workspace is a worksp
 
 You can also create and manage assessments to enable end users to respond to DLP incidents. The workspace consists of a landing page and list views that let you see the assigned DLP incidents.
 
--   **[Report or respond to DLP incidents](../task/access-the-dlp-end-user-portal.md)**  
+-   **[Report or respond to DLP incidents](access-the-dlp-end-user-portal.md)**  
 Access the Data Loss Prevention Incident Response \(DLP\) User workspace, review the assigned DLP incidents, and report or respond to the incidents.
--   **[Working with my approvals module](../task/working-with-my-approvals-module.md)**  
+-   **[Working with my approvals module](working-with-my-approvals-module.md)**  
 My Approvals module will be available on DLP Users Workspace to the logged in users. Users can approve or reject the assign approval requests from here.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](../task/data-loss-prevention-incident-management.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](data-loss-prevention-incident-management.md)
 
 **Related topics**  
 

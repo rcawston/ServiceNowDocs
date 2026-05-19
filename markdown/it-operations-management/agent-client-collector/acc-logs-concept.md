@@ -21,5 +21,5 @@ Agent Client Collector \(ACC\) logs offer key benefits for monitoring and mainta
 -   Log retention management: You can set up log retention policies, determining how often to delete logs to preserve system resources. This ensures that the logs remain manageable and do not negatively impact system performance.
 -   Performance issue identification: Logs provide valuable insights to identify areas where the agent may be experiencing issues, helping to improve agent performance.
 
-For details on locating and managing Agent Client Collector logs, see [View the Agent Client Collector logs](../task/acc-view-log.md).
+For details on locating and managing Agent Client Collector logs, see [View the Agent Client Collector logs](acc-view-log.md).
 

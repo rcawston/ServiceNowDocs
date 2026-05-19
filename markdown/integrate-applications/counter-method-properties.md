@@ -20,5 +20,5 @@ View or update the Counter method properties.
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Counter](../concept/counter.md)
+**Parent Topic:**[Counter](counter.md)
 

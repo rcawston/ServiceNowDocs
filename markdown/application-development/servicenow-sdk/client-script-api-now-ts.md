@@ -24,7 +24,7 @@ For general information about client scripts, see [Client scripts](https://raw.g
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## ClientScript object
 

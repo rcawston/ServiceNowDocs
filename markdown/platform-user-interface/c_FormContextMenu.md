@@ -24,7 +24,7 @@ The form context menu includes the following options.
 |Save|Saves changes without leaving the form view.|
 |Related actions|Provides standard actions in the form context menu for some tables, such as **Add to Visual Task Board** or **Create Change** in incident.|
 |Insert|Saves the data as a new record and returns to the previously viewed page.|
-|Insert and Stay|Saves and displays the new record. For more information about inserting records, see [Edit a form](../task/t_EditingInForms.md#).|
+|Insert and Stay|Saves and displays the new record. For more information about inserting records, see [Edit a form](t_EditingInForms.md#).|
 |Configure|Provides administrative functions, such as configuring forms.|
 |Export|Exports data to PDF. Administrators can also export to XML. For more information, see [Export data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md).|
 |View|Changes fields to a predefined layout. Switching views submits the form, which saves all changes. Administrators can customize views.|

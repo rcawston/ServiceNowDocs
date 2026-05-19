@@ -31,7 +31,7 @@ The following items are installed with Contractor Service Center application:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Contractor Service Center](../reference/hs-components-installed-contractor-service-center.md).
+For more information, see [Components installed with Contractor Service Center](hs-components-installed-contractor-service-center.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ For more information, see [Components installed with Contractor Service Center](
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Contractor Service Center](../concept/hs-configure-contractor-service-center.md)
+**Parent Topic:**[Configuring Contractor Service Center](hs-configure-contractor-service-center.md)
 

@@ -64,5 +64,5 @@ When a workflow context is paused, the system saves basic information about the 
     3.  In **Related Links**, click **Resume**.
 
 
-**Parent Topic:**[Workflow pause utility](../concept/workflow-pause-utility.md)
+**Parent Topic:**[Workflow pause utility](workflow-pause-utility.md)
 

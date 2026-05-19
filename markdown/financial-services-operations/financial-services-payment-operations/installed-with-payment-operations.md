@@ -42,7 +42,7 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make payment requests. For more information, see [Financial Services Operations Core](../../fso-common/reference/financial-services-operations-core-data-model.md).|
+|Financial Services Operations Core|Stores the customer data that is needed to make payment requests. For more information, see [Financial Services Operations Core](../financial-services-operations-core-data-model.md).|
 
 ## Roles installed
 
@@ -105,7 +105,7 @@ Payment contributor\[sn\_bom\_payment.contributor\]
 -   Submit payment claim requests for internal claims
 -   View the status of payment inquiry and claim cases
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -127,7 +127,7 @@ Claim agent connector\[sn\_bom\_payment.claim\_agent\_connector\]
 -   Create claim cases
 -   Work on claim cases, debit approvals, and claim tasks for accounts managed by them
 
- **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+ **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -149,7 +149,7 @@ Inquiry agent connector\[sn\_bom\_payment.inquiry\_agent\_connector\]
 -   Create inquiry cases
 -   Work on payment inquiry cases and inquiry tasks for accounts managed by them
 
- **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+ **Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -307,5 +307,5 @@ Payment Service\[sn\_bom\_payment\_service\]
 Stores all payment service cases for debit approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Payment Operations reference](../concept/payment-operations-reference.md)
+</table>**Parent Topic:**[Financial Services Payment Operations reference](payment-operations-reference.md)
 

@@ -32,15 +32,15 @@ The following are the key benefits of a composite entity:
 -   Add stakeholders with customizable roles relevant to composite entities, enabling effective team involvement in assessment projects.
 -   Map relevant risks and controls to composite entities that can be used for the risk assessment project.
 
--   **[Create a composite entity](../task/create-composite-entity-ws.md)**  
+-   **[Create a composite entity](create-composite-entity-ws.md)**  
 Create multidimensional entities by combining two or more entities from different entity classes using the Composite Entity Management application. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects.
 
-**Parent Topic:**[Exploring the entities](../../grc-common/concept/exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
 
 **Related topics**  
 
 
-[Create an entity class](../task/create-new-entity-class-ws.md)
+[Create an entity class](create-new-entity-class-ws.md)
 
-[Create a composite entity](../task/create-composite-entity-ws.md)
+[Create a composite entity](create-composite-entity-ws.md)
 

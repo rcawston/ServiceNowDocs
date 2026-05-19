@@ -41,7 +41,7 @@ These jobs are set for manual execution to import the [badge access data](import
 4.  Click **Update**.
 
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
 
 **Related topics**  
 

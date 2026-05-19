@@ -77,7 +77,7 @@ Risk rank
 
 </td><td>
 
-A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using Risk Value Lookup. For more information, see [Configure a custom Risk rank and Risk value for a demand](../task/risk-value-lookup.md).
+A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using Risk Value Lookup. For more information, see [Configure a custom Risk rank and Risk value for a demand](risk-value-lookup.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Risk value
 
 </td><td>
 
-A value calculated from Risk Value Lookup. For more information see,[Configure a custom Risk rank and Risk value for a demand](../task/risk-value-lookup.md).
+A value calculated from Risk Value Lookup. For more information see,[Configure a custom Risk rank and Risk value for a demand](risk-value-lookup.md).
 
 </td></tr><tr><td>
 
@@ -152,5 +152,5 @@ Work notes
 Information to record and track the work accomplished for resolving the risk.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

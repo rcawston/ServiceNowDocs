@@ -48,5 +48,5 @@ Default Assigned to
 User field on the parent table that the universal task must be assigned to on creation. **Note:** Agents can still change the value of **assigned to** at the time of creating a universal task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Task reference](../concept/universal-task-reference.md)
+</table>**Parent Topic:**[Universal Task reference](universal-task-reference.md)
 

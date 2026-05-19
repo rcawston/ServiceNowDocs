@@ -84,5 +84,5 @@ High assurance session can be created by the themselves. To create a high assura
 
 [Pre-work for Continuous Authentication](pre-work-ca.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](configure-ca.md)
 

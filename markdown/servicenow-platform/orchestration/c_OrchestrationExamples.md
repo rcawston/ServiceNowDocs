@@ -18,5 +18,5 @@ These examples demonstrate how Orchestration can be used to automate common task
 -   **[Active Directory automation example](c_OrchExmplActiveDirUserMgmt.md#)**  
 A set of six Orchestration Active Directory activities enables organizations to automate their on-boarding/off-boarding processes with auditable, self-documenting workflows that save time and eliminate mistakes.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](r-orchestration.md)
 

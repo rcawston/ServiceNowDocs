@@ -40,7 +40,7 @@ Dispatchers or managers can override exclusions at any time by manually assignin
     The dynamic scheduling matching criteria screens out the excluded agents from a particular account when the work order tasks are assigned using any of the following methods:
 
     -   [Auto assignment](select-tasks-for-bulk-assignment.md)
-    -   [Managing appointments](../concept/managing-appointments.md)
+    -   [Managing appointments](../appointment-booking/managing-appointments.md)
 
 **Related topics**  
 
@@ -49,5 +49,5 @@ Dispatchers or managers can override exclusions at any time by manually assignin
 
 [Create a task filter](create-dynamic-scheduling-config.md#)
 
-[Exclude Field Service technicians from being assigned work order tasks](exclude-agents-from-being-assigned-tasks.md)
+[Exclude Field Service technicians from being assigned work order tasks](../work-order-management/exclude-agents-from-being-assigned-tasks.md)
 

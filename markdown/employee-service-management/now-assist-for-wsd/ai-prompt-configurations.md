@@ -116,5 +116,5 @@ Illustrative cases or scenarios that demonstrate how AI system instructions and 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Insight cards on the Workplace Central dashboard](../concept/insight-cards-on-the-workplace-central-dashboard.md)
+**Parent Topic:**[Insight cards on the Workplace Central dashboard](insight-cards-on-the-workplace-central-dashboard.md)
 

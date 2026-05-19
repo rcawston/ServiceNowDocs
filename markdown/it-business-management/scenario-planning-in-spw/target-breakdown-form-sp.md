@@ -26,5 +26,5 @@ Use the Target Breakdown form to track and measure the progress of the target br
 |Actual|Actual value for the target breakdown.|
 |Remark|Remark entered for business justification when updating the actuals.|
 
-**Parent Topic:**[Form field information for Strategic Planning](../../alignment-planner-workspace/reference/form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
 

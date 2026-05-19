@@ -74,5 +74,5 @@ Details of the filter. For example, Active is True.
 </td></tr></tbody>
 </table>## Useful references
 
-[Create a consumer criteria](../concept/service-bridge-v2-create-consumer-criteria.md).
+[Create a consumer criteria](service-bridge-v2-create-consumer-criteria.md).
 

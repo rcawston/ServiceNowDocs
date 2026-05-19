@@ -29,7 +29,7 @@ Demand currency
 
 </td><td>
 
-Currency for managing and tracking the demand. The available currency options depend on your selection in **Preferences-Project** under **Project Administration**. For more information, see [Select demand currency preference](../task/select-demand-currency-preference-dw.md).This field becomes read only once you create a cost plan, cost plan breakdown, benefit plan, or benefit plan breakdown.
+Currency for managing and tracking the demand. The available currency options depend on your selection in **Preferences-Project** under **Project Administration**. For more information, see [Select demand currency preference](select-demand-currency-preference-dw.md).This field becomes read only once you create a cost plan, cost plan breakdown, benefit plan, or benefit plan breakdown.
 
 </td></tr><tr><td>
 

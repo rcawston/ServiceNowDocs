@@ -26,5 +26,5 @@ Role required: admin
     The background scripts runner tab opens in VS Code and shows the location where the script is executed in the server.
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](vs-code.md)
 

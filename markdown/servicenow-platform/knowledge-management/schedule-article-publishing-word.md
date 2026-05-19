@@ -25,7 +25,7 @@ Set a specific time and day for the draft version of a knowledge article created
 Ensure that the system administrator verifies the following settings:
 
 -   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated. For more information, see [Activate the Knowledge Management Advanced plugin](activate-knowledge-advanced-plugin.md).
--   The article versioning feature is enabled. For more information, see [Article versioning](../concept/article-versioning.md).
+-   The article versioning feature is enabled. For more information, see [Article versioning](article-versioning.md).
 -   The Knowledge Management - Add-in for Microsoft Word is enabled. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](configure-km-add-in-word.md).\)
 
 ## Procedure
@@ -63,12 +63,12 @@ If approvals are disabled, the state of the knowledge article is changed to **Sc
 
 If approvals are enabled, the state of the knowledge article is changed to Review. If the article is approved, the state of the article is changed to Scheduled for Publish. If the article was approved after the scheduled publish date, the article is published immediately.
 
-The version number of the knowledge article increments based on the publishing workflow. For more information, see [Knowledge article version numbers](../concept/knowledge-article-version-numbers.md).
+The version number of the knowledge article increments based on the publishing workflow. For more information, see [Knowledge article version numbers](knowledge-article-version-numbers.md).
 
 **Related topics**  
 
 
-[Knowledge workflows](../reference/r_KnowledgeWorkflows.md#)
+[Knowledge workflows](r_KnowledgeWorkflows.md#)
 
 [Approve an article that is being reviewed](approve-article-in-review.md)
 

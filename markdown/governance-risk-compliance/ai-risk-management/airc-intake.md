@@ -32,10 +32,10 @@ After upgrading to version 22.0.3, if you have the AI risk and compliance user \
 
 Risk‑based classification at intake occurs only when all required configuration steps are completed by a teammate with the AI Risk and Compliance Admin \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\] role.
 
--   Set the Migrate to Advanced Risk Assessments property to publish Risk Assessment Methodologies \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](../task/advanced-risk-assessments-properties-airc.md).
--   Publish assessment templates. For more information, see [Publish the assessment templates](../task/publish-the-assessment-templates.md).
--   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default Risk Assessment Methodology \(RAM\) used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](../task/configure-airc-properties.md).
--   Configure the `sn_grc_ai_gov.aisystem_primary_ram` property to specify a default Risk Assessment Methodology \(RAM\) for AI systems. For more information, see [Set up AI Risk and Compliance properties](../task/configure-airc-properties.md).
+-   Set the Migrate to Advanced Risk Assessments property to publish Risk Assessment Methodologies \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](advanced-risk-assessments-properties-airc.md).
+-   Publish assessment templates. For more information, see [Publish the assessment templates](publish-the-assessment-templates.md).
+-   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default Risk Assessment Methodology \(RAM\) used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](configure-airc-properties.md).
+-   Configure the `sn_grc_ai_gov.aisystem_primary_ram` property to specify a default Risk Assessment Methodology \(RAM\) for AI systems. For more information, see [Set up AI Risk and Compliance properties](configure-airc-properties.md).
 
 If these prerequisites aren’t met, intake submissions are accepted but risk classification isn’t performed and the risk classification defaults to **To Be Determined**. After the AI asset is managed by an AI Steward, the Automated Risk Classification is performed to pre-classify as High/ Medium/ Low/Unacceptable.
 
@@ -53,7 +53,7 @@ Submitting an AI use case request can result in an AI system record being create
 
 Risk-based classification at intake provides early screening only. Risk Rating is evaluated for those AI system requests explicitly Managed by an AI steward \[sn\_ai\_governance.ai\_steward\]. It doesn’t approve deployment, initiate life-cycle workflows, or replace impact assessments, detailed risk assessments, or control evaluations.
 
-For more information, see [Request an AI use case](../task/request-ai-system.md), [Request an AI use case form](../reference/request-ai-system-form.md), and [AI systems](ai-system-airc.md).
+For more information, see [Request an AI use case](request-ai-system.md), [Request an AI use case form](request-ai-system-form.md), and [AI systems](ai-system-airc.md).
 
 ## Request an AI model
 
@@ -61,7 +61,7 @@ Use this intake request when the primary focus is on an AI model rather than a c
 
 AI model requests capture model-specific details needed for review, such as intended usage, versioning, and risk considerations.
 
-For more information, see [Request an AI model](../task/request-ai-model.md), [Request an AI model form](../reference/request-ai-model-form.md), and [AI models](ai-model-airc.md).
+For more information, see [Request an AI model](request-ai-model.md), [Request an AI model form](request-ai-model-form.md), and [AI models](ai-model-airc.md).
 
 ## Request a dataset
 
@@ -69,7 +69,7 @@ Use this intake request to request access to a dataset for purposes such as anal
 
 Dataset requests help ensure that data usage is reviewed before it’s used in AI-related activities.
 
-For more information, see [Request a dataset](../task/request-dataset.md), [Request a dataset form](../reference/request-dataset-form.md), and [Datasets](dataset-airc.md).
+For more information, see [Request a dataset](request-dataset.md), [Request a dataset form](request-dataset-form.md), and [Datasets](dataset-airc.md).
 
 ## Intake request example: Email Assistant AI Agent for corporate communications
 

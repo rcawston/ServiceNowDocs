@@ -78,7 +78,7 @@ The model validation task is submitted for approval. If no approvers are configu
 -   **[Request evidence for model](request-evidence-for-model.md)**  
 Send evidence collection request for all the required documents to complete the model validation. Evidence request helps validators to electronically request the information that they need from the model owner to perform model validation.
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](using-mrm.md)
 
 **Related topics**  
 

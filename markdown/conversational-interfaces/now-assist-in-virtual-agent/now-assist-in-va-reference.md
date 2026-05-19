@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
 
 Virtual Agent topic developers can create topics for use in the Now Assist panel channel. The following Virtual Agent Designer controls are currently supported.
 
-For more information about the Now Assist panel channel, see [Channels in Conversational Interfaces](../../conversational-interfaces/concept/ci-channels-overview.md).
+For more information about the Now Assist panel channel, see [Channels in Conversational Interfaces](../ci-channels-overview.md).
 
 <table id="table_nhv_kwx_jzb"><thead><tr><th>
 
@@ -39,7 +39,7 @@ User input controls
 -   Date Time
 -   Carousel
 
- For more information, see [Assistant Designer user input controls](../../virtual-agent/reference/va-user-inputs.md).
+ For more information, see [Assistant Designer user input controls](../virtual-agent/va-user-inputs.md).
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Bot response controls
 -   HTML
 -   Card \(record card and record card with action only\)
 
- For more information, see [Assistant Designer bot responses](../../virtual-agent/reference/va-bot-responses.md).
+ For more information, see [Assistant Designer bot responses](../virtual-agent/va-bot-responses.md).
 
 </td></tr></tbody>
 </table>

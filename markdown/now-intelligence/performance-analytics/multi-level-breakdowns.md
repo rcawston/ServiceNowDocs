@@ -24,7 +24,7 @@ Data snapshots does not use breakdown matrices. Thanks to the use of CDC instead
 -   Data snapshots requires that your instance uses the RaptorDB Professional database.
 -   Domain-separated instances are not supported.
 -   To get Data snapshots and enable multiple levels of breakdown, activate the Data Snapshots \(com.snc.pa.mlb\) plugin. A Performance Analytics subscription and the admin role are required. Consider testing Data snapshots in a development environment before activating them on a production instance.
--   When you have activated the Data Snapshots plugin, you still have to enable it for supported indicators. For more information, see [Activate Data snapshots](../task/activate-unlimited-breakdowns.md#).
+-   When you have activated the Data Snapshots plugin, you still have to enable it for supported indicators. For more information, see [Activate Data snapshots](activate-unlimited-breakdowns.md#).
 -   Only Platform Analytics experience components \(Data visualizations, KPI Details\) support Data snapshots. You cannot show more than two levels of breakdowns in Core UI components like PA widgets and the Analytics Hub.
 -   Data snapshots collection jobs may result in increased storage use by Performance Analytics. The jobs copy subsets of the source tables and store every daily change for related records.
 
@@ -62,17 +62,17 @@ You can select a third breakdown. However, Data snapshots were only implemented 
 
 ![KPI Details for an indicator that supports multiple breakdowns, with three breakdowns selected but no data from before the implementation of multiple breakdowns.](../image/mlb-kpi-details-3-filters.png)
 
--   **[Activate Data snapshots](../task/activate-unlimited-breakdowns.md#)**  
+-   **[Activate Data snapshots](activate-unlimited-breakdowns.md#)**  
 Enable Data snapshots on an instance as a whole and on individual existing indicators \(KPIs\) on the instance. When Data snapshots are enabled, you can apply multiple breakdown levels to an indicator.
--   **[Limitations and requirements for Data snapshots](../reference/limitations-mlb.md)**  
+-   **[Limitations and requirements for Data snapshots](limitations-mlb.md)**  
 Several features of indicators and breakdowns are not supported with Data snapshots and multiple breakdowns.
--   **[Data snapshots sources and collection](../reference/tables-unlimited-breakdowns.md)**  
+-   **[Data snapshots sources and collection](tables-unlimited-breakdowns.md)**  
 Data snapshots include data sources for indicator score collection and the mapping between indicators and these sources.
--   **[Create a Data snapshots automated indicator](../task/create-ds-automated-indicator.md)**  
+-   **[Create a Data snapshots automated indicator](create-ds-automated-indicator.md)**  
 To analyze the performance of a business process that is recorded in a ServiceNow table, use an automated indicator. If you have Data snapshots enabled on your instance, you can create a Data snapshots automated indicator.
--   **[Create a Data snapshots formula indicator](../task/create-ds-formula-ind.md)**  
+-   **[Create a Data snapshots formula indicator](create-ds-formula-ind.md)**  
 Create a formula indicator to calculate a score from two or more Data snapshots indicators.
--   **[Deactivate Data snapshots for an indicator](../task/deactivate-mlb-for-indicator.md)**  
+-   **[Deactivate Data snapshots for an indicator](deactivate-mlb-for-indicator.md)**  
 You can turn Data snapshots off or back on for an indicator, provided that indicator supports Data snapshots.
 
 **Parent Topic:**[Configure Performance Analytics fundamentals](c_PAWidgetsAndDashboards.md)

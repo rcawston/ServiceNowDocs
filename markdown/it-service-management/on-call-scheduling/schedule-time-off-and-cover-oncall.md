@@ -44,5 +44,5 @@ Role required: itil
     The time off is tentatively scheduled in your On-Call calendar.
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](viewing-schedules-and-escalation.md)
 

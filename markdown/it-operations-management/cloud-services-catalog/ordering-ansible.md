@@ -97,5 +97,5 @@ Extra variables that you can modify even if the values are automatically filled 
 
 Verify that a blueprint approval policy \(CSC Content Approval Policy Ansible\) is applied. This policy mandates that approval must be obtained from the Change management group before any provisioning can take place.
 
-**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](../concept/integrating-ansible-with-cloud-services-catalog.md)
+**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](integrating-ansible-with-cloud-services-catalog.md)
 

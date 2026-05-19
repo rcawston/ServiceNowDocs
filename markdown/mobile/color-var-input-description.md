@@ -19,9 +19,9 @@ Use color variables in the **Description** field of your inputs to control text 
 
  Use color variables in the **Description** field of your inputs to control text color when **Description** field is configured as `HTML`.
 
- For example, in addition to color hex values like `#FF0000`, you may use a color variable, such as `--now-color-primary-0`. For a list of available variables see [Color theme considerations for mobile](../concept/color-guide-landing.md).
+ For example, in addition to color hex values like `#FF0000`, you may use a color variable, such as `--now-color-primary-0`. For a list of available variables see [Color theme considerations for mobile](color-guide-landing.md).
 
- For details on inputs, see [Configure an input form screen](../task/parameter-screen-config.md).
+ For details on inputs, see [Configure an input form screen](parameter-screen-config.md).
 
 </td><td>
 

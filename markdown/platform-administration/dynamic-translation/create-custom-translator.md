@@ -21,7 +21,7 @@ Ensure that the Dynamic Translation plugin \(com.glide.dynamic\_translation\) is
 
 Create subflows for your custom translation provider. See [Integrate with a translation service provider](integrate-translation-service-provider.md).
 
-Create language code mappings as needed. For more information see [Language Code Mapping in Dynamic Translation](../concept/language-mapper-dt.md).
+Create language code mappings as needed. For more information see [Language Code Mapping in Dynamic Translation](language-mapper-dt.md).
 
 Role required: admin
 

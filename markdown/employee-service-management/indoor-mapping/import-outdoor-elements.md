@@ -54,7 +54,7 @@ Role required: map admin, map editor, map editor limited
     For more information, see [Manage Directions](enable-interactive-locations.md).
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](using-indoor-mapping.md)
 
 **Previous topic:**[Working with boundary editor](working-with-boundary-editor.md)
 

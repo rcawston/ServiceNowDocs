@@ -36,10 +36,10 @@ For example, Simon is a resource who is allocated to two project tasks. When you
     You can edit the row, reassign, extend, or open a resource assignment. You can create a new resource assignment directly from the resource page in the Project Workspace. You can select the unassigned tasks toggle to view all the unassigned resources that aren’t currently assigned to any task in that project. For sub-projects, you can select a sub-project and then select **Resources** to view the resources allocated to that sub-project.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[Create a resource card](../../resource-management-workspace/task/rmw-create-rsrc-card.md)
+[Create a resource card](../resource-management/rmw-create-rsrc-card.md)
 

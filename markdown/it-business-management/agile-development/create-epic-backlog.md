@@ -67,7 +67,7 @@ Navigate to **Agile Development** &gt; **Agile Board** &gt; **Program** &gt; **B
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Scrum Programs for Agile Development 2.0](../concept/scrum-programs-concept.md)
+**Parent Topic:**[Scrum Programs for Agile Development 2.0](scrum-programs-concept.md)
 
 **Related topics**  
 

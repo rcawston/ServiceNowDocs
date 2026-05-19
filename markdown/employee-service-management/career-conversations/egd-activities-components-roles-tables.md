@@ -37,5 +37,5 @@ Tables are used to track and maintain relationships among different ServiceNow a
 |Career Conversations|Suggested Talking Point \[sn\_egd\_act\_suggested\_talking\_point\]|
 |Career Conversations|Talking Point \[sn\_egd\_act\_talking\_point\]|
 
-**Parent Topic:**[Career Conversations reference](../concept/egd-activities-reference.md)
+**Parent Topic:**[Career Conversations reference](egd-activities-reference.md)
 

@@ -89,7 +89,7 @@ Role required: admin
 
 1.  Elevate to the security\_admin role.
 
-    See [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md) for details.
+    See [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md) for details.
 
 2.  Navigate to **All** &gt; **Domain Admin** &gt; **Domain Migration Tool**.
 
@@ -110,7 +110,7 @@ Role required: admin
 
 7.  Navigate to **All** &gt; **Domain Separation Center** &gt; **Configure Audits** .
 
-    See [Domain Separation Center](../reference/domain-separation-center.md) for additional information.
+    See [Domain Separation Center](domain-separation-center.md) for additional information.
 
 8.  Set the **Validate Domain Separated Table Schema** audit to **Active** and assign a schedule.
 
@@ -118,7 +118,7 @@ Role required: admin
 
 9.  Run the **Audit Schedule** that includes the schema.
 
-    See [Execute audits immediately](../task/execute-audits-immediately.md) for details.
+    See [Execute audits immediately](execute-audits-immediately.md) for details.
 
 10. Address issues returned from the audit.
 

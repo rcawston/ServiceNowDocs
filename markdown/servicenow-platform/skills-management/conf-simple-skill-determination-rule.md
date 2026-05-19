@@ -98,7 +98,7 @@ Steps
 3.  If a skill is optional for selected work item, in the **Mandatory** field, select **False**.
 4.  In the **Skill Level** field, add a level for the skill. You must configure the form to display this field.
 
-For information about defining skill levels, see [Define a skill level type](../../skills-management/task/define-skill-level-type.md).
+For information about defining skill levels, see [Define a skill level type](define-skill-level-type.md).
 
 </td></tr><tr><td id="d182221e265">
 
@@ -133,5 +133,5 @@ The **Skills Field** that connects the source and reference tables is automatica
 </table>8.  Click **Submit**.
 
 
-**Parent Topic:**[Routing work items to agents based on skills](../../skills-management/concept/skill-based-routing.md)
+**Parent Topic:**[Routing work items to agents based on skills](skill-based-routing.md)
 

@@ -26,7 +26,7 @@ Primary data entities include:
 -   Material mapping
 -   Unit of measure
 
-While the third-party application is the system of record for primary data, S2P is the system of record for purchase orders and receipts. Invoices are either created manually in S2P or through an external supplier portal \(for example, Ariba\). For tax calculation and integration, see [Tax calculations](../../sourcing-procurement-operations/reference/tax-calculations.md).
+While the third-party application is the system of record for primary data, S2P is the system of record for purchase orders and receipts. Invoices are either created manually in S2P or through an external supplier portal \(for example, Ariba\). For tax calculation and integration, see [Tax calculations](../sourcing-and-procurement-operations/tax-calculations.md).
 
 The integration between S2P and the third-party application requires settings on both sides so that these applications function properly together.
 

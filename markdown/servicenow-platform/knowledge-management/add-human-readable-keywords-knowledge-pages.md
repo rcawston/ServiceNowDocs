@@ -59,5 +59,5 @@ This article URL contains the field variables, and keywords in the following tab
 |Category|%category|`faq`|
 |Short description|%short\_descr|`What is a cookie?`|
 
-**Parent Topic:**[Using human readable URLs for the Knowledge article page](../concept/human-readable-urls-km.md)
+**Parent Topic:**[Using human readable URLs for the Knowledge article page](human-readable-urls-km.md)
 

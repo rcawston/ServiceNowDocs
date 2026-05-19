@@ -27,7 +27,7 @@ See also:
 -   [Product Instance feature in Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/product-instance-for-assets.md)
 -   [Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## ProductInstance – generatePID\(String className, String modelCategorySysId, Object jsonKeyValues\)
 

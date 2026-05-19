@@ -97,7 +97,7 @@ Domain
 Domain for the view by configuration.This field is automatically set to global.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](workplace-space-mgmt-references.md)
 
 **Related topics**  
 

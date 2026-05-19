@@ -50,5 +50,5 @@ Records are reseeded from the producer to the consumer and the results are displ
 
 If records are still missing or mismatched, contact Customer Service and Support for assistance.
 
-**Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](../concept/comparing-replicated-data.md)
+**Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
 

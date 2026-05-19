@@ -86,5 +86,5 @@ Save and close the preferences form to make your preferences immediately availab
 </table>3.  Select **Save and close** to save your selections and make the immediately available for opportunities.
 
 
-**Parent Topic:**[Use Opportunity Marketplace](../concept/egd-oppt-mrktplc-using.md)
+**Parent Topic:**[Use Opportunity Marketplace](egd-oppt-mrktplc-using.md)
 

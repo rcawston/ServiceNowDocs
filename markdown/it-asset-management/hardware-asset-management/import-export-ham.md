@@ -57,5 +57,5 @@ Role required:
     5.  Download and send this zip file to the ServiceNow content service team.
 
 
-**Parent Topic:**[Work with hardware normalization](../concept/Work-with-hardware-normalization.md)
+**Parent Topic:**[Work with hardware normalization](Work-with-hardware-normalization.md)
 

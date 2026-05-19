@@ -40,10 +40,10 @@ A condition consists of three parts: field, operator, and value.
     ![Example AND condition](../image/ExampleConditionActiveIsTrueAndCallerIsNotEmpty.png "Example AND condition")
 
 
--   **[Condition builder](../concept/c_ConditionBuilder.md)**  
+-   **[Condition builder](c_ConditionBuilder.md)**  
 A condition builder constructs a condition statement with a series of contextually generated fields. Condition builders are used in many operations, such as creating filters, administering surveys, and administering access control.
--   **[Operators available for filters and queries](../reference/r_OpAvailableFiltersQueries.md)**  
+-   **[Operators available for filters and queries](r_OpAvailableFiltersQueries.md)**  
 The system provides a set of operators for use with filters, condition builders, and encoded queries. The data type of a field determines what operators are available for it.
 
-**Parent Topic:**[Common UI elements](../topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](p_CommonUIElements.md)
 

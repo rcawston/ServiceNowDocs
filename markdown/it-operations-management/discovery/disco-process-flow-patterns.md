@@ -17,7 +17,7 @@ Horizontal discovery with patterns has four phases, just as horizontal discovery
 
 ## Scanning phase
 
-1.  Discovery first takes the Shazzam probe \(and then [port probes](../reference/r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
+1.  Discovery first takes the Shazzam probe \(and then [port probes](r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
 2.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the probes against the host and discovers open ports.
 3.  The port probes scan common ports using several protocols, such as WMI, HTTP, SSH, and SNMP.
 4.  If one or more ports respond, the Shazzam probe sends information about the port back to the ECC queue through the MID Server.
@@ -35,7 +35,7 @@ Horizontal discovery with patterns has four phases, just as horizontal discovery
 
 Patterns unify the Identification and Exploration phases of discovery.
 
-1.  Discovery determines which classifier to use based on the class of the CI and the criteria specified in all CI classifier records. The classifier specifies the [Horizontal Pattern probe](../reference/r-HorizontalPatternProbe.md), which in turn specifies which pattern to launch. The Horizontal pattern probe also contains a sensor which does the actual work of updating the CMDB.
+1.  Discovery determines which classifier to use based on the class of the CI and the criteria specified in all CI classifier records. The classifier specifies the [Horizontal Pattern probe](r-HorizontalPatternProbe.md), which in turn specifies which pattern to launch. The Horizontal pattern probe also contains a sensor which does the actual work of updating the CMDB.
 
     **Note:** Patterns need applicative credentials to find applications running on host machines. Make sure you have applicative credentials configured along with the credentials required to access the host machine itself.
 

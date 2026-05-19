@@ -24,22 +24,22 @@ Follow these steps to achieve domain separation:
 -   Create a user with the [required roles](get-started-with-misp-integration-for-security-operations.md#table_k2d_1bk_ynb) in your domain.
 -   Perform the MISP integration for Security Operations procedures in your domain.
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](misp-administration.md)
 
 **Related topics**  
 
 
 [Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](install-and-configure-misp.md)
 
-[Review the MISP integration settings](../task/review-the-misp-integration-settings.md)
+[Review the MISP integration settings](review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](../task/configure-sightings-search.md)
+[Configure MISP sighting searches](configure-sightings-search.md)
 
-[Configure how an automatic event is created](../task/configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](misp-event-data.md)
 
 [Associated MISP events](associated-misp-events.md)
 

@@ -62,9 +62,9 @@ You can edit form components without leaving UI Builder. Access Form Builder fro
 
 ## What to do next
 
-You can enhance the functionality of a custom form by configuring additional features. For more information, see [Forms in Table Builder](../../form-builder/concept/form-view-configuration.md).
+You can enhance the functionality of a custom form by configuring additional features. For more information, see [Forms in Table Builder](../form-builder-glide-family-release/form-view-configuration.md).
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

@@ -35,5 +35,5 @@ The following table lists the descriptions of the field values.
 |Activity|
 |Additional comments|Additional comments or information for the task owners.|
 
-**Parent Topic:**[Add action tasks to a Personal Data Rights request](../task/add-action-tasks-to-a-personal-data-rights-request.md)
+**Parent Topic:**[Add action tasks to a Personal Data Rights request](add-action-tasks-to-a-personal-data-rights-request.md)
 

@@ -19,14 +19,14 @@ The UI Page API defines custom user interface \(UI\) pages \[sys\_ui\_page\] tha
 
 A UI page displays as a web page and can be added to a widget for use in dashboards. For general information about UI pages, see [UI pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_UIPages.md).
 
-You can develop a simple React application with the UI Page API. In the `src/client` directory, add static content files that define the HTML, client script, and styling of the page. From the UiPage object, refer to the page's HTML entry point \(`index.html`\). For more information, see [User interface development with React](../concept/ui-development-react.md).
+You can develop a simple React application with the UI Page API. In the `src/client` directory, add static content files that define the HTML, client script, and styling of the page. From the UiPage object, refer to the page's HTML entry point \(`index.html`\). For more information, see [User interface development with React](../ui-development-react.md).
 
 **Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## UiPage object
 
@@ -163,7 +163,7 @@ Script
 
 A script that runs on the server when the page is submitted, which is useful if your page has a form defined with the `<g:ui_form/>` or `<g:form/>` tags. This property supports a function from a JavaScript module, a reference to another file in the application that contains a script, or inline JavaScript.Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../javascript-modules-third-party-libraries.md).
 -   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 

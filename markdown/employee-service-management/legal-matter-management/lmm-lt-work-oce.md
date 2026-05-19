@@ -71,5 +71,5 @@ Action
 3.  Select **Submit for Approval**.
 
 
-**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

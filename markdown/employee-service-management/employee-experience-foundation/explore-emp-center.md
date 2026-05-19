@@ -47,7 +47,7 @@ The Employee Center enables organizations to assemble an employee portal tailore
 
 ## Employee Center for IT Service Management
 
-Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine learning-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](../task/ITSM-EC/itsm-n-ec-integration.md#).
+Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine learning-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](itsm-n-ec-integration.md#).
 
 ## What to explore next
 
@@ -55,5 +55,5 @@ To learn more about configuring and using Employee Center, see:
 
 -   [Configuring Employee Center](setup-emp-center.md)
 -   [Using Employee Center](using-emp-center.md)
--   [Employee Center reference](../reference/emp-center-reference.md)
+-   [Employee Center reference](emp-center-reference.md)
 

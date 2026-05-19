@@ -35,7 +35,7 @@ Role required: sn\_csm\_ec.ec\_admin
 
 5.  In the **Behavior** tab, configure the **Recommendations** and **Proactive** settings to define the Engagement Messenger functions.
 
-    For more information, see [Proactive Recommendations configuration for Engagement Messenger](../reference/em-behav-recom.md).
+    For more information, see [Proactive Recommendations configuration for Engagement Messenger](em-behav-recom.md).
 
     **Note:** For information about how to customize the Notification behavior, see [Configure Engagement Messenger](create-engagement-messenger-module.md).
 

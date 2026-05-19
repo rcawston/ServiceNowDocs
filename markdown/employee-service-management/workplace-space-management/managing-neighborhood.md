@@ -17,5 +17,5 @@ Neighborhood is moved from Workplace Space Management version 1.17.0 to Workplac
 
 **Note:** When upgrading from a previous version to the current version, the Migrate Neighborhood to Core fix script transfers data from the old tables to the new tables.
 
-Refer to [Managing Neighborhoods](neighborhoods.md) for more information about neighborhoods.
+Refer to [Managing Neighborhoods](../workplace-core/neighborhoods.md) for more information about neighborhoods.
 

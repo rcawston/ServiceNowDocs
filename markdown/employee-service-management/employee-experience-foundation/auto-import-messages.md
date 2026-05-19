@@ -26,7 +26,7 @@ If you are installing the ServiceNow for Microsoft Teams in your environment, th
 -   Request \(sc\_request\)
 -   Change request \(change\_request\)
 
-The admin can extend the auto import feature to the other tables as required. For more information see, [Create requester mapping](../task/create-requester-mapping.md).
+The admin can extend the auto import feature to the other tables as required. For more information see, [Create requester mapping](create-requester-mapping.md).
 
 If you are upgrading your ServiceNow instance to IT Service Management integration with Microsoft Teams 2.2.0 or HR Service Delivery integration with Microsoft Teams 2.2.0, you must manually enable the auto import feature.
 
@@ -54,11 +54,11 @@ If there is an interaction record associated with the parent record then interac
 
 If you want to continue using the default configuration, you can skip the following procedures to extend the auto-import functionality. However, if you want to extend the auto-import functionality to other tables, perform the steps mentioned in the topics below.
 
--   **[Configure the chat to enable auto-import](../task/configure-auto-import-chats.md)**  
+-   **[Configure the chat to enable auto-import](configure-auto-import-chats.md)**  
 Create a chat configuration to automatically import the chats between the agents and the requesters for additional tables to extend the auto import functionality.
--   **[Create requester mapping](../task/create-requester-mapping.md)**  
+-   **[Create requester mapping](create-requester-mapping.md)**  
 Create a requester mapping to extend the auto-import functionality to other tables.
--   **[Configure close condition](../task/configure-close-condition.md)**  
+-   **[Configure close condition](configure-close-condition.md)**  
 Configure the condition to exclude the chat conversation from auto importing.
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)

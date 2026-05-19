@@ -49,13 +49,13 @@ The risk assessments capability enables you to determine the organizational priv
 
 \[PI\] Information objects refer to information objects that are of type **Personal information**. To understand the benefit of using information objects in the Privacy Management solution, refer to [Information objects in Privacy Management](information-object-in-privacy.md). Maintaining a library of \[PI\] Information objects and associating them with the processing activities helps the privacy teams to understand what personal information \(PI\) is being processed by the processing activity.
 
-Only the information objects that are tagged with the **Personal information** tag are available to be added to a processing activity. For more information on how to tag information objects see, [Classify information objects as personal information](../task/tag-io-with-pi.md).
+Only the information objects that are tagged with the **Personal information** tag are available to be added to a processing activity. For more information on how to tag information objects see, [Classify information objects as personal information](tag-io-with-pi.md).
 
--   **[Create an information object](../task/create-information-object.md)**  
+-   **[Create an information object](create-information-object.md)**  
 Create information objects manually to associate the right data subject types with business processes or applications.
--   **[Configure information object categories](../task/configure-information-object-categories.md)**  
+-   **[Configure information object categories](configure-information-object-categories.md)**  
 Configure information object categories to classify information objects effectively. For example, attributes like iris scans and fingerprints are often referred to as biometric data, or email addresses and phone numbers can be grouped as contact information. Information object categories enable you to categorize these information objects under these broader classifications.
--   **[Classify information objects as personal information](../task/tag-io-with-pi.md)**  
+-   **[Classify information objects as personal information](tag-io-with-pi.md)**  
 Categorize information objects as personal information. Only information objects classified as personal information can be associated with the processing activities.
 
 **Parent Topic:**[Configuring Privacy Management](configure-privacy-mgmt.md)
@@ -63,7 +63,7 @@ Categorize information objects as personal information. Only information objects
 **Related topics**  
 
 
-[Create a privacy assessment](../task/create-assessment-template.md)
+[Create a privacy assessment](create-assessment-template.md)
 
-[Create a Risk Assessment Methodology](../task/create-a-risk-assessment-methodology.md)
+[Create a Risk Assessment Methodology](create-a-risk-assessment-methodology.md)
 

@@ -17,7 +17,7 @@ Build notifications in App Engine Studio \(AES\) to create automated emails for 
 
 ## Before you begin
 
-You can perform this task if you're either an administrator or a developer for the application. The required developer permission is **All File Types**. For more information on being a developer for an application, see [Delegated development in App Engine Studio](../concept/aes-app-dev-workflow.md).
+You can perform this task if you're either an administrator or a developer for the application. The required developer permission is **All File Types**. For more information on being a developer for an application, see [Delegated development in App Engine Studio](aes-app-dev-workflow.md).
 
 Role required: admin or delegated\_developer
 
@@ -221,5 +221,5 @@ When you create a notification in AES, the notification is saved only to the app
 -   **[Modify an email notification](edit-notification.md)**  
 Edit an email notification created for an app in App Engine Studio \(AES\) to change it. For example, modify when to send the email notification, who receives it, and what it contains.
 
-**Parent Topic:**[Add logic and automation](../concept/add-automation.md)
+**Parent Topic:**[Add logic and automation](add-automation.md)
 

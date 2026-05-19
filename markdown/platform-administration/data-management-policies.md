@@ -17,7 +17,7 @@ Manage the growth and storage of data on your instance by creating data manageme
 
 Create and manage Data Management rules in Core UI.
 
--   [Create a data management policy in Core UI](../task/create-data-management-policy.md)
+-   [Create a data management policy in Core UI](create-data-management-policy.md)
 
     Create a data management policy for any table that accumulates data that you want to archive or delete periodically.
 
@@ -38,7 +38,7 @@ Create and manage Data Management rules in Core UI.
     Safely delete records from a table without using scripts and without deleting the table by creating and executing delete jobs.
 
 
--   **[Create a data management policy in Core UI](../task/create-data-management-policy.md)**  
+-   **[Create a data management policy in Core UI](create-data-management-policy.md)**  
 Define a set of rules for managing table data on your instance.
 -   **[Archiving records in Core UI](archiving-older-records.md)**  
 Manage table size growth and improve query performance by archiving records.
@@ -48,7 +48,7 @@ Delete older, expired, or unwanted records from tables automatically.
 Update several records simultaneously without using scripts by creating and executing a batch update job.
 -   **[Deleting records safely in Core UI](deleting-records-safely.md)**  
 Safely delete records from a table without using scripts and without deleting the table by creating and executing delete jobs.
--   **[Migrating non-reference fields to reference fields](../../database-rotation/reference/archive-reference-migration.md)**  
+-   **[Migrating non-reference fields to reference fields](archive-reference-migration.md)**  
 Manually preserve sys\_ids in reference fields instead of storing the display name as a string.
 
 **Parent Topic:**[Data Management](c_DataManagement.md)

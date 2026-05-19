@@ -59,6 +59,6 @@ The following procedure shows how to add an application service directly to the 
 
     ![The selected application service is added.](../image/em-impact-cal-app-services-added.png)
 
-    **Note:** Only the application services added to the Impact Filter Services list appear in the [Service Dashboard](worksplace-view-service-details.md).
+    **Note:** Only the application services added to the Impact Filter Services list appear in the [Service Dashboard](../service-operations-workspace-for-itom-apps/worksplace-view-service-details.md).
 
 

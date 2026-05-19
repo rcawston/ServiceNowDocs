@@ -73,10 +73,10 @@ Role required: discovery\_admin
 
 Either execute discovery immediately by selecting **Discover now** or wait until the predefined schedule triggers the discovery.
 
-**Parent Topic:**[Nutanix Acropolis discovery](../reference/nutanix-pattern.md)
+**Parent Topic:**[Nutanix Acropolis discovery](nutanix-pattern.md)
 
 **Related topics**  
 
 
-[Nutanix Acropolis discovery](../reference/nutanix-pattern.md)
+[Nutanix Acropolis discovery](nutanix-pattern.md)
 

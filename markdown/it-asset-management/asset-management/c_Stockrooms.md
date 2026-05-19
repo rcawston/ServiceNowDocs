@@ -27,9 +27,9 @@ Stock rules are defined criteria stating that when the inventory of a particular
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](work-with-asset-ci.md)
 
 [Manage various assets through asset classes](c_AssetClasses.md)
 
@@ -37,9 +37,9 @@ Stock rules are defined criteria stating that when the inventory of a particular
 
 [Consumables life cycle](c_FollowLifeCycleConsumbl.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](manage-preallocated-asset.md)
 
 [Manage transfer order](manage-transfer-orders.md)
 
-[Use Organization Management](../reference/org-mgmt.md#)
+[Use Organization Management](org-mgmt.md#)
 

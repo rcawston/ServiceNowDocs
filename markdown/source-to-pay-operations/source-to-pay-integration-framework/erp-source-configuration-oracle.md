@@ -41,7 +41,7 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 1.  Define the ERP source that you want to integrate with Oracle EBS integration.
 2.  Create a basic authentication profile that can be used for web service integration with Oracle EBS.
 3.  Register the Oracle EBS integration username and password to create the authentication profile and associate it to service maps.
-4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md).
+4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md).
 5.  Configure service maps for the following entities:
 
     -   **Cost Centers**
@@ -116,11 +116,11 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 **Related topics**  
 
 
-[Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md)
+[Define ERP source configuration for Oracle EBS](define-erp-source-oracle.md)
 
-[Configure integration services for Oracle EBS](../task/configure-service-maps-oracle-ebs.md)
+[Configure integration services for Oracle EBS](configure-service-maps-oracle-ebs.md)
 
-[Load data to ERP user-mapping table for Oracle EBS](../task/load-data-erp-user-mapping-oracle-ebs.md)
+[Load data to ERP user-mapping table for Oracle EBS](load-data-erp-user-mapping-oracle-ebs.md)
 
 [Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
 

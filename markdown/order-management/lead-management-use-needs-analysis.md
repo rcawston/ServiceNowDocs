@@ -48,5 +48,5 @@ A needs template is a questionnaire that you complete to get product recommendat
     The selected product is added to the lead. The Needs tab displays the needs template that you selected. You can review the needs template and if needed, change your answers, which might result in different product recommendations.
 
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](lead-management-using.md)
 

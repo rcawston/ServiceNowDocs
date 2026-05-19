@@ -103,7 +103,7 @@ Section that displays the fields corresponding to the table that you selected in
 -   **Field 2**
 -   **Action group**
 
-When you select **Action group**, you can perform actions right from the my active items section itself. For more information on action groups, see [Action framework](../concept/action-group-framework.md).
+When you select **Action group**, you can perform actions right from the my active items section itself. For more information on action groups, see [Action framework](action-group-framework.md).
 
 This section appears only when **Basic** is selected from the **Activity card mapping** field.
 
@@ -129,7 +129,7 @@ In the Card mapping script section, add a JSON script to retrieve records from a
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

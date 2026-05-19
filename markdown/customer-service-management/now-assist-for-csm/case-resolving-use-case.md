@@ -94,5 +94,5 @@ In the triaging the case agentic workflow, perform the following steps:
 
 ![AI Agent Studio showing the testing output for Triage cases agentic workflow.](../image/case-resolving-use-case-output-in-ai-agent-studio.png "Example of a Triage cases agentic workflow testing in AI Agent Studio")
 
-In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+In the Now Assist panel, the agent receives a notification as soon as the interaction is generated, which enables them to follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](request-gen-ai-capabilities-csm-now-assist-panel.md).
 

@@ -100,5 +100,5 @@ Your connector admin needs these items to configure a Miro external content conn
 
 For details on creating and configuring a Miro external content connector, see [Create a Miro external content connector](create-ext-cont-connector-miro.md).
 
-**Parent Topic:**[Miro external content connector](../concept/miro-external-content-connector.md)
+**Parent Topic:**[Miro external content connector](miro-external-content-connector.md)
 

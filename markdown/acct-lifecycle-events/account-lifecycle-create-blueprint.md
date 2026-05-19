@@ -64,7 +64,7 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     -   If you’re adding more than one objective, you must save the details for each objective before moving on to the next one.
 11. Select **Create** to create the success blueprint.
 
-    The newly created success blueprint now appears on the Success blueprint page. See [Success blueprint](../concept/account-lifecycle-view-engage.md#section_lyh_v43_qdc) for details.
+    The newly created success blueprint now appears on the Success blueprint page. See [Success blueprint](account-lifecycle-view-engage.md#section_lyh_v43_qdc) for details.
 
 12. Select the **View initiative roadmap** to view the success initiative roadmap with engagement details including the current health, stage, and the next renewal date for the engagement.
 
@@ -77,12 +77,12 @@ Role required: sn\_acct\_lc.customer\_success\_agent
 
     -   Add objectives: Select and add any optional objectives you want to add to your success blueprint. Select the objective to be added, select **Next**. Use the Toggle option to select any of the optional outcomes, enter other required details, and select **Save Objective** and then select **Create** to add the objective along with the outcome to the success blueprint.
     -   Add outcomes: Select any optional outcomes that you want to add to your success blueprint.
-14. Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the [Success objective record page](../concept/account-lifecycle-view-success-object.md).
+14. Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the [Success objective record page](account-lifecycle-view-success-object.md).
 
 
--   **[Measure success rate](../concept/account-lifecycle-success-score-calc.md)**  
+-   **[Measure success rate](account-lifecycle-success-score-calc.md)**  
 Measure and track the effectiveness and completion of success objectives and outcomes within a project or engagement with success scores and success rates.
--   **[Success initiative roadmap](../concept/account-lifecycle-success-roadmap.md)**  
+-   **[Success initiative roadmap](account-lifecycle-success-roadmap.md)**  
 The success initiative roadmap shows the status of the success initiatives over a period of time.
 
 **Parent Topic:**[Create a success blueprint template](account-lifecycle-create-blueprint-template.md)

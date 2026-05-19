@@ -92,7 +92,7 @@ Ticket readiness AI agent
 
 AI agent capable of predicting the incident fields like category, subcategory, priority, description, short description, and estimated time to resolve the incident using GAF on historic incident data.
 
- To activate the GAF, see [Activate Group Action Framework for Now Assist for Telecommunications, Media and Technology \(TMT\)](../task/activate-group-action-framework.md).
+ To activate the GAF, see [Activate Group Action Framework for Now Assist for Telecommunications, Media and Technology \(TMT\)](activate-group-action-framework.md).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Network ticket actionable steps generation AI agent
 
 AI agent capable of generating actionable resolution steps for incoming incident using the Group Action Framework \(GAF\) and modifies the steps according to the human feedback.
 
- To activate the GAF, see [Activate Group Action Framework for Now Assist for Telecommunications, Media and Technology \(TMT\)](../task/activate-group-action-framework.md).
+ To activate the GAF, see [Activate Group Action Framework for Now Assist for Telecommunications, Media and Technology \(TMT\)](activate-group-action-framework.md).
 
 </td></tr><tr><td>
 

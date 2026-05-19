@@ -17,17 +17,17 @@ Use Assistant Designer to build and optimize large language model \(LLM\) assist
 
 ## Before you begin
 
-See [Assistant Designer](../concept/assistant-designer.md).
+See [Assistant Designer](assistant-designer.md).
 
 Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-An admin can create and configure more than one chat or voice assistant within [Assistant Designer](../concept/assistant-designer.md).
+An admin can create and configure more than one chat or voice assistant within [Assistant Designer](assistant-designer.md).
 
-For chat assistants, a primary assistant can be linked to one or more secondary assistants. The linkage enables a primary assistant to use search sources from secondary assistants, enhancing its functionality and efficiency. For more information on primary and secondary assistants, see [LLM assistants](../concept/llm-assistants.md). If multiple assistants are created, users can chat simultaneously with multiple assistants. Conversations are independent from each other.
+For chat assistants, a primary assistant can be linked to one or more secondary assistants. The linkage enables a primary assistant to use search sources from secondary assistants, enhancing its functionality and efficiency. For more information on primary and secondary assistants, see [LLM assistants](llm-assistants.md). If multiple assistants are created, users can chat simultaneously with multiple assistants. Conversations are independent from each other.
 
-Each assistant can have more than one display experience, using either the standard chat or enhanced chat experience, depending on the display experience that's configured. Enhanced chat offers a conversational search experience that seamlessly integrates Virtual Agent chat with search results. For more information, see [Standard chat](../concept/nava-standard-chat.md) or [Enhanced chat](../concept/nava-enhanced-chat.md). For a comparison of the two, see [Using Now Assist in Virtual Agent](../concept/using-now-assist-in-va.md).
+Each assistant can have more than one display experience, using either the standard chat or enhanced chat experience, depending on the display experience that's configured. Enhanced chat offers a conversational search experience that seamlessly integrates Virtual Agent chat with search results. For more information, see [Standard chat](nava-standard-chat.md) or [Enhanced chat](nava-enhanced-chat.md). For a comparison of the two, see [Using Now Assist in Virtual Agent](using-now-assist-in-va.md).
 
 **Note:** For new and upgrading customers, Now Assist panel - Platform assistant comes with the option to opt into premium chat if your instance meets certain criteria. For more information, see [Premium chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-premium.md) and [Display your assistant on Platform or ServiceNow Studio](display-nap-assistant.md).
 
@@ -37,9 +37,9 @@ For voice assistants, a voice assistant can be mapped to one or more AI agents. 
 
 ## Procedure
 
-1.  To access assistants in [Assistant Designer](../concept/assistant-designer.md), navigate to **All** &gt; **Assistant Designer** &gt; **Assistants** tab.
+1.  To access assistants in [Assistant Designer](assistant-designer.md), navigate to **All** &gt; **Assistant Designer** &gt; **Assistants** tab.
 
-    The **Assistants** tab in [Assistant Designer](../concept/assistant-designer.md) can also be accessed from different entry points.
+    The **Assistants** tab in [Assistant Designer](assistant-designer.md) can also be accessed from different entry points.
 
 <table id="table_b1j_2hm_w2c"><thead><tr><th>
 

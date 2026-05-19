@@ -575,5 +575,5 @@ Potential savings
 Savings to be gained from reclaiming unused software installations.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software license usage](../concept/sam-license-workbench.md)
+</table>**Parent Topic:**[Software license usage](sam-license-workbench.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Build Agent is enabled by default to create apps with AI, for example in ServiceNow Studio. To use other Now Assist products, such as the app generation skill, disable Build Agent. For example, using the setting in your ServiceNow Studio preferences. For more information, see [Use the app generation skill to generate apps](../../now-assist-app-gen/task/sns-app-gen-use-app-gen-skill.md).
+Build Agent is enabled by default to create apps with AI, for example in ServiceNow Studio. To use other Now Assist products, such as the app generation skill, disable Build Agent. For example, using the setting in your ServiceNow Studio preferences. For more information, see [Use the app generation skill to generate apps](now-assist-for-creator/sns-app-gen-use-app-gen-skill.md).
 
 **Note:** The trial app was formerly called "Build Agent" and has been renamed to "Build Agent \(Trial\)."
 
@@ -55,5 +55,5 @@ Build Agent is enabled by default to create apps with AI, for example in Service
 **Related topics**  
 
 
-[Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md)
+[Install Now Assist for Creator](now-assist-for-creator/install-now-assist-for-creator.md)
 

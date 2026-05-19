@@ -41,7 +41,7 @@ Each metric definition appears as one answer option for a question on an assessm
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
-[Metric templates](../reference/r_MetricTemplates.md)
+[Metric templates](r_MetricTemplates.md)
 

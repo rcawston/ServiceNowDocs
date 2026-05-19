@@ -163,9 +163,9 @@ Enable in Default View
 Option to enable the floor for the Default Indoor Mapping feature. You must fill in `YES` or `NO` in this column.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+</table>**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Enhanced Sync Properties](enhanced-sync-properties.md)
 
-**Next topic:**[Workplace Central](../../workplace-central/concept/workplace-central-feat.md)
+**Next topic:**[Workplace Central](../workplace-central/workplace-central-feat.md)
 

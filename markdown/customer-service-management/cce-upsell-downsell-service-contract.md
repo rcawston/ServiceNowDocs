@@ -42,7 +42,7 @@ Role required:
 
 8.  Select **Modify**.
 
-    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](../concept/create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](create-cont-ent-workflows-csm.md#section_qp4_rxv_tcc).
 
     -   In case of a partial swap, three quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with three order line items.
     -   In case of a full swap, two quote lines are created. You can select the quote number from the confirmation message to view the quote line items. The quote is approved and the status changes to **Complete** to create an order with two order line items.

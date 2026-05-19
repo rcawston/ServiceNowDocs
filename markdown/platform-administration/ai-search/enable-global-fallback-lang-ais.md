@@ -35,7 +35,7 @@ When you enable the global fallback locale option for search, AI Search determin
 2.  Otherwise, AI Search uses the ServiceNow AI Platform instance's locale, as specified by the value of the **glide.system.locale** system property, as the global fallback locale.
 3.  If the **glide.system.locale** system property's value isn't a valid locale, AI Search uses English as the global fallback locale.
 
-For more details on ServiceNow AI Platform locales and their associated languages, see [Configuring locales](../../localization/concept/c_DefineLocales.md#).
+For more details on ServiceNow AI Platform locales and their associated languages, see [Configuring locales](../system-localization/c_DefineLocales.md#).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ For more details on ServiceNow AI Platform locales and their associated language
 
 4.  Add the **glide.ais.translate.global\_fallback\_locale** system property and set its value to the locale that you want AI Search to use as the global fallback locale.
 
-    For instructions on adding this system property, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For instructions on adding this system property, see [Add a system property](../r_AvailableSystemProperties.md#).
 
 
 ## Result
@@ -56,5 +56,5 @@ AI Search searches translated document content in the global fallback locale's l
 
 **Note:** When searching the Catalog Item table, AI Search ignores the instance locale. Catalog searches only match documents in the user's ServiceNow AI Platform session language.
 
-**Parent Topic:**[Internationalization support for AI Search](../concept/international-language-support-ais.md)
+**Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

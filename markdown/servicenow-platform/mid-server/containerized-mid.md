@@ -72,7 +72,7 @@ Basic operations are supported on container side. For example, you can stop, sta
 
 ## Build MID Server Docker Image
 
-[Build a MID Server Docker Image](../task/mid-build-docker-linux.md#) with the provided recipes to deploy a Containerized MID Server. Containerized MID Server uses a Docker image of the MID Server that allows you to quickly deploy MID Servers at scale.
+[Build a MID Server Docker Image](mid-build-docker-linux.md#) with the provided recipes to deploy a Containerized MID Server. Containerized MID Server uses a Docker image of the MID Server that allows you to quickly deploy MID Servers at scale.
 
 ## Containerized MID Server Deployment and Auto-configuration
 

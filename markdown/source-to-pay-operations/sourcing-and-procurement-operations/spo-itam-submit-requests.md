@@ -90,5 +90,5 @@ As an asset manager, use SPO’s sourcing flow from the ITAM Workspace to comple
 -   **[Create purchase requisition from the ITAM Workspace](itam-spo-quick-checkout.md)**  
 As an asset manager, use SPO’s purchasing flow from the ITAM Workspace to complete checkout when the requested item has contractual pricing.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](../concept/spo-itam-better-together.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
 

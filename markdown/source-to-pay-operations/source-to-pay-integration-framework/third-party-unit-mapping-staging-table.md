@@ -20,7 +20,7 @@ The Third Party Unit Mapping \[sn\_spend\_intg\_third\_party\_uom\_map\] staging
 |Supplier Product|Reference|Reference to the Supplier Product.|
 |Third-party unit|Reference|Reference to the Third Party Unit.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

@@ -109,12 +109,12 @@ Description of the map filter.
 
 After you create a filter, click the **Show on Floor Plan** related link to view the map filter on a map.
 
-**Parent Topic:**[Map filters](../reference/r_MapFilters.md)
+**Parent Topic:**[Map filters](r_MapFilters.md)
 
 **Related topics**  
 
 
-[Simple filters](../reference/r_SimpleFilters.md)
+[Simple filters](r_SimpleFilters.md)
 
-[Saved filters](../reference/r_SavedFilters.md)
+[Saved filters](r_SavedFilters.md)
 

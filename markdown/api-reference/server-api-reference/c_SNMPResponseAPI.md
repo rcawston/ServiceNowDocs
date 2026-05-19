@@ -17,7 +17,7 @@ The SNMPResponse script include provides methods to wrap an SNMP payload respons
 
 Use this script include to retrieve SNMP singleton fields or tables.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SNMPResponse - buildIndex\(Object cur, String name, String extName\)
 

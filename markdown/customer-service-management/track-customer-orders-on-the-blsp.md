@@ -32,7 +32,7 @@ Role required:
 
 2.  From the list, select a customer order number to view its details.
 
-    For a description of the fields, see [Customer Orders form](../reference/business-portal-blsp-track-customer-order.md)
+    For a description of the fields, see [Customer Orders form](business-portal-blsp-track-customer-order.md)
 
     You can also access Customer orders by navigating to **Home** &gt; **Your Information** &gt; **Business Locations**.
 

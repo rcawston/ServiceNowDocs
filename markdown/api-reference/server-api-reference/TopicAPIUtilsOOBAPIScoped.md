@@ -19,7 +19,7 @@ If you want to change the default functionality of Event Management Topic Open A
 
 This script include runs in the `sn_api_notif_mgmt` namespace and requires the sn\_api\_notif\_mgmt.event\_mgmt\_integration role.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TopicAPIUtilsOOB - createTopicHelper\(Object topicObject, Array warnings\)
 
@@ -49,7 +49,7 @@ Object
 
 </td><td id="TopicAPIUtilsOOB-topicObject-entry">
 
-Topic payload object passed into the [Event Management Topic Open API](../../../../../integrate/inbound-rest/concept/event_management_topic-api.md#) endpoint.For example:
+Topic payload object passed into the [Event Management Topic Open API](../rest-apis/event_management_topic-api.md#) endpoint.For example:
 
 ```
 {
@@ -73,7 +73,7 @@ Array
 
 </td><td id="TopicAPIUtilsOOB-warnings-entry">
 
-Warning messages to return in the [Event Management Topic Open API](../../../../../integrate/inbound-rest/concept/event_management_topic-api.md#) endpoint response if the method encounters an issue at the level of "warning".This parameter allows you to add custom warning messages to your implementation of this endpoint.
+Warning messages to return in the [Event Management Topic Open API](../rest-apis/event_management_topic-api.md#) endpoint response if the method encounters an issue at the level of "warning".This parameter allows you to add custom warning messages to your implementation of this endpoint.
 
 If there are no additional warning messages, you must pass an empty array.
 

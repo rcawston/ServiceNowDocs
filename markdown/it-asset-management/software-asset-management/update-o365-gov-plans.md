@@ -25,7 +25,7 @@ The ServiceNow AI Platform® supports Microsoft Office 365 Government plans, whi
 
 For more information on Microsoft Office 365 Government plans, see [Office 365 Government](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government).
 
-**Important:** The Software Asset Management application supports tracking last activity for license compliance, subscription management, and optimization recommendations for Microsoft products such as Exchange Online, Teams, Power BI, OneDrive, and so on. For more details, see [Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md).
+**Important:** The Software Asset Management application supports tracking last activity for license compliance, subscription management, and optimization recommendations for Microsoft products such as Exchange Online, Teams, Power BI, OneDrive, and so on. For more details, see [Evaluating software usage activity for Microsoft 365 subscriptions](o365-usage-activity.md).
 
 The detailed usage metrics for these Microsoft products \(except Power BI\) are only available through specific report APIs that aren't supported in government-regulated environments. For further details, refer to the [Microsoft national cloud deployments documentation](https://learn.microsoft.com/en-us/graph/api/reportroot-getm365appuserdetail?view=graph-rest-1.0&tabs=http).
 

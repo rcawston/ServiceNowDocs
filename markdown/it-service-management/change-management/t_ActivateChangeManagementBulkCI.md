@@ -61,10 +61,10 @@ Best Practice - Bulk CI Changes enables you to record a single change proposal t
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Change Management - Mass Update CI](../reference/r_InstalledWithBulkCI.md#)**  
+-   **[Installed with Change Management - Mass Update CI](r_InstalledWithBulkCI.md#)**  
 Several types of components are installed with the Change Management - Mass update CI.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](change-plugins.md)
 
 **Related topics**  
 

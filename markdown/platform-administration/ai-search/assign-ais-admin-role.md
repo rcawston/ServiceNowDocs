@@ -87,7 +87,7 @@ Accesses endpoints for AI Search external content APIs, including the following:
 -   Feeds external documents for AI Search to index as search results, or deletes records for external documents from the index, using the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/external-content-ingestion-api.md).
 -   Imports user mappings for external content security using the [AI Search External User Mapping API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/ext-user-mapping-api.md).
 
- Assign this role to non-interactive users and integration users who require access to external content API endpoints. For more information on non-interactive users, see [Non-interactive sessions](../../users-and-groups/concept/c_NonInteractiveSessions.md#). For details on integration users, see [Mark service accounts as internal integration users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_MarkSvcAcctsAsInternalIntegUsers.md).
+ Assign this role to non-interactive users and integration users who require access to external content API endpoints. For more information on non-interactive users, see [Non-interactive sessions](../user-administration/c_NonInteractiveSessions.md#). For details on integration users, see [Mark service accounts as internal integration users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_MarkSvcAcctsAsInternalIntegUsers.md).
 
  Users with the admin role don't need this role to access external content API endpoints.
 
@@ -96,10 +96,10 @@ Accesses endpoints for AI Search external content APIs, including the following:
 
 ## Procedure
 
--   [Assign a role to a user](../../users-and-groups/task/t_AssignARoleToAUser.md)
+-   [Assign a role to a user](../user-administration/t_AssignARoleToAUser.md)
 
--   [Assign a role to a group](../../roles/task/t_AssignRoleToGroup.md)
+-   [Assign a role to a group](../user-administration/t_AssignRoleToGroup.md)
 
 
-**Parent Topic:**[Configuring AI Search](../concept/configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](configuring-ais.md)
 

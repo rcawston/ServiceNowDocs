@@ -48,5 +48,5 @@ The service offering team table \[cmdb\_rel\_team\] enables multiple groups to b
     You can select any team in the **User group** column to change the team. You can also select any **Group type** to change it to one of the other options: Support Group, Approver Group, Change Group, or Managed By Group.
 
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](../concept/SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
 

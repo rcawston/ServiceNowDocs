@@ -34,7 +34,7 @@ Role required: sn\_critical.agent
     This tab shows the communication sent to and received from the impacted person.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](manage-impacted-people.md)
 
 **Related topics**  
 

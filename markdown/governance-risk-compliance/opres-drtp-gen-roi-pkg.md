@@ -31,7 +31,7 @@ Register of Information \(RoI\) reports can be generated for both individual and
 
     The **Excel Master Template** option downloads documents to use for data preparation and internal review. The **Plain-CSV Reporting Package** option downloads documents you can use for regulator submission and compliance validation.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](third-party-risk-management/tprm-excel-upload-download-req.md).
 
 4.  Select **Export info register** to initiate the download process.
 
@@ -42,5 +42,5 @@ Register of Information \(RoI\) reports can be generated for both individual and
     For more information on validation, see .
 
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](using-dg-registers.md)
 

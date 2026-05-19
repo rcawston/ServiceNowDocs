@@ -36,7 +36,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
     The system displays the Compare test result execution times bar graph.
 
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](../concept/atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
 
 ## Compare execution times for different runs of the same automated test suite
 

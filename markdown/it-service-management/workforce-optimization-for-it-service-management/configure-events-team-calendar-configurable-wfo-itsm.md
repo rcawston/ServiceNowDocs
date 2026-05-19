@@ -90,12 +90,12 @@ Type of event, for example, custom, meeting, break, or time off.
 
 2.  Enable agents or managers to create specific event types.
 
-    For information on adding or removing access to user for event types, see [Include or exclude access for event types.](../concept/understanding-user-criteria-event-types-wfo-itsm.md)
+    For information on adding or removing access to user for event types, see [Include or exclude access for event types.](understanding-user-criteria-event-types-wfo-itsm.md)
 
 
 ## What to do next
 
 [Add events to the team calendar](add-events-team-calendar-wfo-itsm.md)
 
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](setup-scheduling-configurable-workforce-optimization-itsm.md)
 

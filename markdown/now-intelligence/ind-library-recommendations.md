@@ -27,5 +27,5 @@ The following types of recommendations are currently available:
 |----|-----------|
 |n Unused indicators|Number of indicators with inactive jobs, empty sources, or no recent views.|
 
-**Parent Topic:**[Platform Analytics library recommendations](../concept/pa-library-recommendations.md)
+**Parent Topic:**[Platform Analytics library recommendations](pa-library-recommendations.md)
 

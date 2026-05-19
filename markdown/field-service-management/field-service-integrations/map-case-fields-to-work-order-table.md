@@ -154,5 +154,5 @@ Order of priority for processing multiple matching map definitions simultaneousl
 
 The mapping between the source and target tables is complete and ready to copy information from the case field to the corresponding field in the work order.
 
-**Parent Topic:**[Integration with Customer Service Management](../concept/customer-service-integration.md)
+**Parent Topic:**[Integration with Customer Service Management](customer-service-integration.md)
 

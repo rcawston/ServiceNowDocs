@@ -34,7 +34,7 @@ An incident summary provides you with a concise summary of an incident. The summ
 -   Additional comments
 -   Resolution notes \(for a resolved incident\)
 
-For information about the incident states, see [Life cycle of an Incident](../../incident-management/concept/c_IncidentManagementStateModel.md).
+For information about the incident states, see [Life cycle of an Incident](../incident-management/c_IncidentManagementStateModel.md).
 
 You can summarize an incident in Core UI and Service Operations Workspace for ITSM.
 

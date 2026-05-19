@@ -81,7 +81,7 @@ Email Search
 
 </td><td>
 
-A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [Security Operations Integration- Email Search and Delete capability](../../security-operations-common/concept/email-search-capability.md) is not active, the **Email Search** related link is not displayed.
+A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [Security Operations Integration- Email Search and Delete capability](../email-search-capability.md) is not active, the **Email Search** related link is not displayed.
 
 </td></tr></tbody>
 </table>4.  Click any of the following related links to further update the security incident:

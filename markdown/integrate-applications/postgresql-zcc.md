@@ -18,5 +18,5 @@ A connection admin can create a connection to PostgreSQL and give data stewards 
 **Related topics**  
 
 
-[Create a PostgreSQL connection](../task/create-postgresql-connection-zcc.md)
+[Create a PostgreSQL connection](create-postgresql-connection-zcc.md)
 

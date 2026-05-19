@@ -125,12 +125,12 @@ Verification provided by the recipient when a signature is required. This value 
     -   The **State** is **Ready to take** or **In progress**.
     -   The associated metric type is **Active**.
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](c_AssessmentGeneration.md)
 
 [Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
 

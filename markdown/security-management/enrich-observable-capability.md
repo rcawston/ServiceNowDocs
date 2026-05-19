@@ -13,11 +13,11 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The Enrich Observable capability allows you to enrich observables with additional information from a variety of sources using implementation flows. This capability is used during incident response investigations to contain an identified threat.
 
-The Enrich Observable capability has a flow, [Security Operations Integration - Enrich Observable flow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md). When the capability flow runs, it executes additional flows for the activated implementations. You can specify an implementation to use to perform enrichment on the selected observables, or you can perform the enrichment using all implementations that match the supported observable types.
+The Enrich Observable capability has a flow, [Security Operations Integration - Enrich Observable flow](secops-integration-enrich-observ-wf.md). When the capability flow runs, it executes additional flows for the activated implementations. You can specify an implementation to use to perform enrichment on the selected observables, or you can perform the enrichment using all implementations that match the supported observable types.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Security Operations Integration - Enrich Observable flow](../../security-operations-integrations/task/secops-integration-enrich-observ-wf.md)**  
+-   **[Security Operations Integration - Enrich Observable flow](secops-integration-enrich-observ-wf.md)**  
 The Security Operations Integration - Enrich Observable sub flow allows you to enrich observables with additional information from a variety of sources using implementation flow designer.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -43,5 +43,5 @@ The Security Operations Integration - Enrich Observable sub flow allows you to e
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

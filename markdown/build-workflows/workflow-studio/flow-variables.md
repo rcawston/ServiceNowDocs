@@ -65,7 +65,7 @@ Workflow Studio supports the following data types for flow variables:
 -   String
 -   True/False
 
--   **[Create a flow variable](../task/create-flow-variables.md)**  
+-   **[Create a flow variable](create-flow-variables.md)**  
 Create a flow variable to store and retrieve a value throughout a flow.
 
 **Parent Topic:**[Building flows](flows.md)

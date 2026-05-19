@@ -105,7 +105,7 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Email and SMS notifications](../concept/c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -114,21 +114,21 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 
 [Create an email notification](t_CreateANotification.md)
 
-[Email notifications dashboard](../concept/email-notifications-dashboard.md)
+[Email notifications dashboard](email-notifications-dashboard.md)
 
-[Email diagnostics dashboard](../concept/email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](email-diagnostics-dashboard.md)
 
-[Email templates](../concept/c_EmailTemplates.md)
+[Email templates](c_EmailTemplates.md)
 
-[Email layouts](../concept/email-layouts.md)
+[Email layouts](email-layouts.md)
 
-[Email retention](../concept/email-retention.md)
+[Email retention](email-retention.md)
 
-[Watermarks on notification emails](../concept/c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](c_WorkingWithWatermarks.md)
 
-[Email digests](../concept/email-digests.md)
+[Email digests](email-digests.md)
 
-[Domain separation and Notifications](../concept/domain-separation-notifications.md)
+[Domain separation and Notifications](domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](../concept/troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
 

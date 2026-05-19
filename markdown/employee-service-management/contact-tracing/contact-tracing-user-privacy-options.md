@@ -25,7 +25,7 @@ The following Contact Tracing features can help your organization enforce data p
 
     Enable case managers to mark cases as confidential if they have been created for affected users who need complete privacy protection. Confidential cases can be accessed only by the case manager and users included in the watch list.
 
--   **[Data retention](../task/configure-contact-tracing-data-retention.md)**
+-   **[Data retention](configure-contact-tracing-data-retention.md)**
 
     Set a timeline to keep the data no longer than required.
 
@@ -34,11 +34,11 @@ Organizations remain solely responsible for complying with their legal obligatio
 
 -   **[User privacy consent for Contact Tracing](contact-tracing-user-privacy.md)**  
 The Contact Tracing application enables you to send notification to users seeking their consent for contact tracing. You can use user data for contact tracing based on the privacy configuration set for a location and the user response to the privacy consent.
--   **[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](../task/send-outreach-notif-privacy.md)**  
+-   **[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](send-outreach-notif-privacy.md)**  
 Send an Emergency Outreach notification, on demand, to employees to provide the privacy policy and seek their consent to use their data for contact tracing.
--   **[Respond to a request for privacy consent in Contact Tracing](../task/submit-privacy-consent.md#)**  
+-   **[Respond to a request for privacy consent in Contact Tracing](submit-privacy-consent.md#)**  
 When you receive an email or mobile notification for privacy consent, read the privacy policy statement and submit a response indicating whether you agree to the usage of your data for contact tracing.
--   **[Review user privacy consents in Contact Tracing](../task/review-privacy-consents.md)**  
+-   **[Review user privacy consents in Contact Tracing](review-privacy-consents.md)**  
 Review user privacy consent responses submitted by employees in answer to notifications seeking their consent to use their data for contact tracing.
 
 **Parent Topic:**[Contact Tracing](contact-tracing.md)

@@ -48,5 +48,5 @@ Add or modify a state of project or project task using dictionary override.
 **Related topics**  
 
 
-[Project and project task states](../concept/project-and-project-task-states.md)
+[Project and project task states](project-and-project-task-states.md)
 

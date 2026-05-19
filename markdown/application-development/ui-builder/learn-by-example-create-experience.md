@@ -54,7 +54,7 @@ The UI Builder experience view is a central place to view and understand the str
 
 Select the **Next topic** link to learn how to create a blank page for this experience.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](learning-uib-by-example.md)
 
 **Related topics**  
 

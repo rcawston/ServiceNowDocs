@@ -29,7 +29,7 @@ To compare a version to the current version of an object:
 
     |Option|Action|
     |------|------|
-    |**From [a Versions list](../concept/c_NavigatingVersionRecords.md)**|Right-click the version and select **Compare to Current**.|
+    |**From [a Versions list](c_NavigatingVersionRecords.md)**|Right-click the version and select **Compare to Current**.|
     |**From the Update Versions form**|Click the **Compare to Current** related link.|
 
     ![The Compare to Current page includes a diff/merge tool that highlights the fields that differ.](../image/CompareToCurrentForm.png)
@@ -56,7 +56,7 @@ Action
 
 </td></tr><tr><td id="d140702e167">
 
-**To resolve the differences by modifying the current version and saving the merged changes__Note:__ Some types of record do not support this method. See [Limitations on updating records](../reference/r_LimitationsOnResolvingCollisions.md) for more information.
+**To resolve the differences by modifying the current version and saving the merged changes__Note:__ Some types of record do not support this method. See [Limitations on updating records](r_LimitationsOnResolvingCollisions.md) for more information.
 
 **
 
@@ -69,12 +69,12 @@ You can either update the setting in the current record or move a setting from t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Versions](../concept/c_Versions.md)
+**Parent Topic:**[Versions](c_Versions.md)
 
 **Related topics**  
 
 
-[Merge tool](../concept/diff-merge-tool.md)
+[Merge tool](diff-merge-tool.md)
 
 [Compare to the current version](t_CompareToCurrentVersion.md)
 
@@ -88,5 +88,5 @@ You can either update the setting in the current record or move a setting from t
 
 [Revert a change](t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](../system-update-sets/view-customer-update-records.md)
 

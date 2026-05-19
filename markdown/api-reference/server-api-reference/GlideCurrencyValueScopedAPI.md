@@ -19,7 +19,7 @@ This API is provided within the `sn_currency` namespace.
 
 **Note:** There is no constructor for this class.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideCurrencyValue - getAmount\(\)
 

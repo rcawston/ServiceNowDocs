@@ -15,7 +15,7 @@ breadcrumb: [Manage, Workplace Services Kiosk, Workplace Service Delivery, Emplo
 
 Set up a kiosk device by assigning a kiosk to a physical device.
 
-To enable usage of a kiosk device, you must select a kiosk for the device. The kiosk module displays the pages configured by an admin and visitors can use the device to check in and self-register. For more information about configuring kiosk devices, see [Create a kiosk configuration](../task/create-kiosk-device-config.md).
+To enable usage of a kiosk device, you must select a kiosk for the device. The kiosk module displays the pages configured by an admin and visitors can use the device to check in and self-register. For more information about configuring kiosk devices, see [Create a kiosk configuration](create-kiosk-device-config.md).
 
 You can access the kiosk page by using the following URL: `https://<instance name>.service-now.com/kiosk`
 

@@ -35,9 +35,9 @@ The snapshot records are displayed in the Pending updates record of the BIA from
 
 BIA owners then update the CMDB assets and dependencies manually by selecting the **Update dependencies** UI action displayed in the Dependency assessment of the BIA. The BIA owners or BIA approvers then review the dependency updates and save the changes to the BIA.
 
-For more information on configuring the Impact analysis dependency update configuration record, see [Set up Impact analysis dependency update configuration](../task/configure-imp-ana-dep-update-module.md).
+For more information on configuring the Impact analysis dependency update configuration record, see [Set up Impact analysis dependency update configuration](configure-imp-ana-dep-update-module.md).
 
--   **[Set up Impact analysis dependency update configuration](../task/configure-imp-ana-dep-update-module.md)**  
+-   **[Set up Impact analysis dependency update configuration](configure-imp-ana-dep-update-module.md)**  
 Configure the Impact analysis dependency update configuration record to configure the BIA record \(for which the dependencies are updated\), its target records, sources, and notification preferences.
 
 **Parent Topic:**[Dependency Configuration records](dependency-config-modules.md)

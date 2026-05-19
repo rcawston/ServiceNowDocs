@@ -42,7 +42,7 @@ The following image illustrates the basic flow for creating a change request fro
 
 ![States for remediation tasks for creating a change request](../image/cc-CR-CHG.png)
 
-Starting with version 19.0 of Vulnerability Response, you can create change requests for Remediation Tasks from the IT Remediation Workspace. For more information, see [Create a change request in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-CRs.md).
+Starting with version 19.0 of Vulnerability Response, you can create change requests for Remediation Tasks from the IT Remediation Workspace. For more information, see [Create a change request in the IT Remediation Workspace](../it-remediation-workspace/vr-ws-CRs.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 

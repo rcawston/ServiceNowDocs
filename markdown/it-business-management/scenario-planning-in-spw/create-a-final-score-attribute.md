@@ -54,5 +54,5 @@ Create an attribute to calculate the final score of a Scoring Framework.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](custom-scoring-frameworks-in-strategic-planning.md)
 

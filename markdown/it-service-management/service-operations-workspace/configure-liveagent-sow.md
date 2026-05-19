@@ -36,11 +36,11 @@ For more information about Live Agent chat integration, see [Move from Connect S
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md)
 
-[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](add-quick-link.md)
 
-[Create a list in Service Operations Workspace](../task/create-list-sow.md)
+[Create a list in Service Operations Workspace](create-list-sow.md)
 
 [Interaction Management in Service Operations Workspace](interaction-sow.md)
 

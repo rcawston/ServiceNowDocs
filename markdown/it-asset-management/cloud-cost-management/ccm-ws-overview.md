@@ -101,7 +101,7 @@ Actual vs potential savings grouped by provider, service category, and environme
 
 </td><td>
 
-Actual vs potential savings grouped by provider, service category, and environment.**Note:** To view the Actual vs potential savings grouped by environment chart, you must create tag categories as Production and Non Production. For more information about creating a tag category, see [Create and update a tag category](../task/tag-category-crud-cloudin.md).
+Actual vs potential savings grouped by provider, service category, and environment.**Note:** To view the Actual vs potential savings grouped by environment chart, you must create tag categories as Production and Non Production. For more information about creating a tag category, see [Create and update a tag category](tag-category-crud-cloudin.md).
 
 Potential saving indicates the total spend on your cloud resources that could be optimized by the recommendations.
 

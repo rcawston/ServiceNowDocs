@@ -99,5 +99,5 @@ An HR case is created and the HR task is assigned to an agent belonging to the H
 
 HR admin can choose to anonymize instead of deleting the employee data. For more information, see [Data anonymization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-data-anonymization.md).
 
-Alumni can log in to the Alumni Center, go to HR systems and request for the report. For more information, see [Using your Alumni Center](../concept/asc-use.md). In case employees or customers don't have Alumni Center, the agent can create a request on behalf of the alumni.
+Alumni can log in to the Alumni Center, go to HR systems and request for the report. For more information, see [Using your Alumni Center](../employee-service-management/asc-use.md). In case employees or customers don't have Alumni Center, the agent can create a request on behalf of the alumni.
 

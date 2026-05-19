@@ -57,5 +57,5 @@ Role required: none
     ![Elements captured.](../image/elements-captured.png)
 
 
-**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+**Parent Topic:**[Chromium connector](chrome-connector.md)
 

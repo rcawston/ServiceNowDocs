@@ -133,5 +133,5 @@ Enables Guided Setup actions in the embedded help panel that are based on states
 -   Default value: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Embedded Help reference](../concept/embedded-help-reference.md)
+</table>**Parent Topic:**[Embedded Help reference](embedded-help-reference.md)
 

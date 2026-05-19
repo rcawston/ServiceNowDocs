@@ -28,12 +28,12 @@ Role required: sn\_apm.apm\_user
 4.  Select **TPM Logs**.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 
 
-[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-tpm.md)
+[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](eaw-tpm.md)
 
 [Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](eaw-restart-tpm-scheduled-job.md)
 
@@ -47,5 +47,5 @@ Role required: sn\_apm.apm\_user
 
 [View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
 
-[Update verification status of TPM audit details](../eaw-update-verif-status.md)
+[Update verification status of TPM audit details](eaw-update-verif-status.md)
 

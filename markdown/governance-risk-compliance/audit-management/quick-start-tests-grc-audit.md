@@ -92,7 +92,7 @@ Create an Auditable unit with method as "Detailed Risk Assessment" and request f
 Paris
 
 </td></tr></tbody>
-</table>To learn more about Audit Management, see [Audit Management](../../../product/grc-audit/concept/c_GRCAudits.md).
+</table>To learn more about Audit Management, see [Audit Management](c_GRCAudits.md).
 
 **Related topics**  
 

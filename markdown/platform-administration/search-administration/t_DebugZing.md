@@ -53,18 +53,18 @@ Role required: admin
 7.  Select the **Reset Text Search Caches** related link and select **OK**.
 
 
-**Parent Topic:**[Available search options](../concept/c_IntroductionToSearching.md)
+**Parent Topic:**[Available search options](c_IntroductionToSearching.md)
 
 **Related topics**  
 
 
-[List search finds records from the current table](../concept/c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](c_TextSearchesInRecordLists.md)
 
-[Boolean operators allow conditional search results](../concept/c_BooleanOperators.md)
+[Boolean operators allow conditional search results](c_BooleanOperators.md)
 
-[Quotation marks allow exact phrase searches](../concept/c_PhraseSearches.md)
+[Quotation marks allow exact phrase searches](c_PhraseSearches.md)
 
-[Wildcard characters allow searching for patterns and variations](../concept/c_Wildcards.md)
+[Wildcard characters allow searching for patterns and variations](c_Wildcards.md)
 
 [Enable or disable the Zing junk filter](t_DisableTheJunkFilter.md)
 

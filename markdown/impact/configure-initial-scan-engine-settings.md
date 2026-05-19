@@ -61,7 +61,7 @@ Role required: impact app admin or admin
 
 [Run your first scan with the Scan Engine](run-scan-engine.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](configuring-impact-platform.md)
 
 **Previous topic:**[Assign users to Platform Health groups](assign-users-scan-engine-groups.md)
 

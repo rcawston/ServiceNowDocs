@@ -33,12 +33,12 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application category, select the application category.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new application category form](../../reference/eaw-reference/eaw-create-new-application-category-form.md).
+    For field information, see [Create new application category form](eaw-create-new-application-category-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure application categories](../../concept/eaw-concept/eaw-setup-app-cat.md)
+**Parent Topic:**[Configure application categories](eaw-setup-app-cat.md)
 
 **Related topics**  
 

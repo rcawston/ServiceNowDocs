@@ -47,5 +47,5 @@ Now Assist for Creator generates a summary of the subflow. The subflow summary a
 
 You can regenerate the subflow summary by selecting the **Refresh summary** icon next to the summary creation date.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](subflows.md)
 

@@ -53,7 +53,7 @@ MID Servers can be manually installed to any operating system with the ZIP file,
 
 ## Security requirements
 
-To meet high security standards, the MID Server performs x.509 certificate validation on HTTPS traffic when connecting to ServiceNow®. If a network appliance or proxy exists between the MID Server and the instance, that appliance needs to present a digital certificate signed by a trusted CA. If you are using a self-signed certificate or a certificate signed by an internal CA, import the certificate to the MID Server trust store. For more information on adding SSL certificates, see [Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#).
+To meet high security standards, the MID Server performs x.509 certificate validation on HTTPS traffic when connecting to ServiceNow®. If a network appliance or proxy exists between the MID Server and the instance, that appliance needs to present a digital certificate signed by a trusted CA. If you are using a self-signed certificate or a certificate signed by an internal CA, import the certificate to the MID Server trust store. For more information on adding SSL certificates, see [Add SSL certificates for the MID Server](add-ssl-certificates.md#).
 
 ## OCSP connectivity requirements
 
@@ -105,7 +105,7 @@ The MID Server installer includes the Tanuki Software Java Service Wrapper, vers
 
 ## Setting the JVM Memory size
 
-The MID Server installs with 1 GB of JVM memory. If the suggested memory size for your product is greater than 1 GB, see [Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md) for the procedure to override the default setting.
+The MID Server installs with 1 GB of JVM memory. If the suggested memory size for your product is greater than 1 GB, see [Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md) for the procedure to override the default setting.
 
 ## Deployment types
 
@@ -229,18 +229,18 @@ As a result, there is no one size requirement that fits for all MID Server deplo
 
 ## Monitoring performance
 
-To ensure that the MID Server resource allocations are sufficient for your environment, monitor performance during peak periods of product execution from the [MID Server dashboard](../concept/c_MIDServerDashboard.md).
+To ensure that the MID Server resource allocations are sufficient for your environment, monitor performance during peak periods of product execution from the [MID Server dashboard](c_MIDServerDashboard.md).
 
-**Parent Topic:**[MID Server reference](../concept/mid-server-reference-information.md)
+**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
 
 **Related topics**  
 
 
-[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 
 [Resolving MID Server issues](r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](../concept/c_MIDServerDashboard.md)
+[MID Server dashboard](c_MIDServerDashboard.md)
 
 [MID Server properties](r_MIDServerProperties.md#)
 
@@ -248,19 +248,19 @@ To ensure that the MID Server resource allocations are sufficient for your envir
 
 [MID Server Configuration Parameter settings and priority](mid-config-param-priority.md)
 
-[MID Server File Cleaner](../concept/mid_file_cleaner.md)
+[MID Server File Cleaner](mid_file_cleaner.md)
 
 [MID Server protected records and reserved characters](mid-server-reserved-characters.md)
 
-[MID Server privileged commands](../concept/c_PrivilegedCommandsForMIDServer.md#)
+[MID Server privileged commands](c_PrivilegedCommandsForMIDServer.md#)
 
 [MIDSystem methods](r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](t_InstallMIDServerAsWinService.md)
 
 [MID Server heartbeat](r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](t_PauseTheMIDServer.md#)
 

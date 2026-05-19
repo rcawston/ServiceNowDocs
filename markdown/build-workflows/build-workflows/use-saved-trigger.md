@@ -51,5 +51,5 @@ Role required: flow-designer or admin
 
 The selected saved trigger is added to the flow and will start the flow depending on how the trigger is configured.
 
-**Parent Topic:**[Building triggers](../concept/building-triggers.md)
+**Parent Topic:**[Building triggers](building-triggers.md)
 

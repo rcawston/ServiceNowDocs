@@ -17,7 +17,7 @@ The GlideappCalculationHelper API is a scriptable object that provides methods t
 
 The methods for this API are used in global server-side scripts \(script includes, business rules, etc.\). There is currently no support for scoped applications.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideappCalculationHelper - addItemToExistingRequest\(String requestID, String catalogID, String quantity\)
 

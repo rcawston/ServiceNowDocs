@@ -46,7 +46,7 @@ Users in your instance must still have write and update access to the records th
 
     **Note:**
 
-    -   The **glide.user.trusted\_domain** property prevents user creation if the sender is not from a trusted domain. However, the system may still process inbound actions for emails that are received from the domain. To have the system ignore these emails, set up a system address filter. For more information on setting up system address filters, see [System address filters](../concept/system-address-filters.md). You can also prevent untrusted users from triggering inbound actions by locking out the guest user.
+    -   The **glide.user.trusted\_domain** property prevents user creation if the sender is not from a trusted domain. However, the system may still process inbound actions for emails that are received from the domain. To have the system ignore these emails, set up a system address filter. For more information on setting up system address filters, see [System address filters](system-address-filters.md). You can also prevent untrusted users from triggering inbound actions by locking out the guest user.
     -   The **glide.user.trusted\_domain** property does not accept wildcarded domains or values such as:
         -   \*.edu
         -   \*.net
@@ -75,5 +75,5 @@ The plugin sets the property **glide.email.create\_userid\_from\_email** to **tr
 
 **Warning:** Review your existing user records to reconcile any that contain identical email addresses. If you activate the plugin prior to reconciling email addresses, your instance cannot distinguish between users with identical email addresses and randomly selects one of the users with the matching email address.
 
-**Parent Topic:**[Configure inbound email actions](../concept/configure-inbound-email.md)
+**Parent Topic:**[Configure inbound email actions](configure-inbound-email.md)
 

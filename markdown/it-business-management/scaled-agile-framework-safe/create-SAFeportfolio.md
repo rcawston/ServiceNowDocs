@@ -39,12 +39,12 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 -   [Define an Agile Release Train](create-SAFeprogram.md)
 -   [Define an epic in SAFe](create-SAFeepic.md)
 
-**Parent Topic:**[Portfolio SAFe](../concept/portfolio-overview.md)
+**Parent Topic:**[Portfolio SAFe](portfolio-overview.md)
 
 **Related topics**  
 
 
-[Components installed with Portfolio SAFe](../reference/installed-with-portfolioSAFe.md)
+[Components installed with Portfolio SAFe](installed-with-portfolioSAFe.md)
 
-[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+[SAFe Board—Portfolio level](portfolio-tabs.md)
 

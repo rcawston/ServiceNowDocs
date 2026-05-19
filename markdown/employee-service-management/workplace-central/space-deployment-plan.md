@@ -102,7 +102,7 @@ Workplace case
 Workplace case record that is created for allocation changes to the workplace location.Workplace cases are created after a scenario is deployed. The value in this column is empty for assignment type changes.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](workplace-central-references.md)
 
 **Related topics**  
 

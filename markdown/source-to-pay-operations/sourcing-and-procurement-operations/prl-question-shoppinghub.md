@@ -25,7 +25,7 @@ Role required: sn\_shop.procurement\_administrator
 
 Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
-For more information about creating configurable, line-level questions for shoppers, see [Configure purchase requisition line-level questions in ShoppingHub](../task/configure-additional-information-prl.md).
+For more information about creating configurable, line-level questions for shoppers, see [Configure purchase requisition line-level questions in ShoppingHub](configure-additional-information-prl.md).
 
 ## How it works
 

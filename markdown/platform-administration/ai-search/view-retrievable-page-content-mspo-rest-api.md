@@ -65,5 +65,5 @@ The upshot of this limitation is that pages built primarily with static text con
         **Note:** If the CanvasContent1 and WikiField metadata fields are missing or empty, the page is likely rendered entirely via dynamic web parts and does not contain static content that can be retrieved by the Microsoft SharePoint Online external content connector.
 
 
-**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+**Parent Topic:**[Microsoft SharePoint Online external content connector](microsoft-sharepoint-online-external-content-connector.md)
 

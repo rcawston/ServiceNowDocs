@@ -40,5 +40,5 @@ Role required: admin or delegated\_developer
 8.  Select the reload app details icon ![Reload app details icon](../image/sn-studio-reload-app-details-icon.png) to incorporate the changes you made on the **App settings** tab.
 
 
-**Parent Topic:**[App details page](../concept/app-details-page.md)
+**Parent Topic:**[App details page](app-details-page.md)
 

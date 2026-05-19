@@ -47,5 +47,5 @@ The following is an expense from the dbaix901nyc server for $2,500. Two expense 
 
 This type of business-service-to-cost-center allocation is accomplished through the **Process Svc-CC Relationships** expense allocation rule. This is an advanced rule that uses script to determine the allocation logic.
 
-**Parent Topic:**[Cost Management](../reference/r_CostManagement.md)
+**Parent Topic:**[Cost Management](r_CostManagement.md)
 

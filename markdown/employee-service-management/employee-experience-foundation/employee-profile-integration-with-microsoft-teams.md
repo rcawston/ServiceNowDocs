@@ -23,13 +23,13 @@ The statuses available for display are **Available**, **Away**, **Busy**, and **
 
 If you are not already logged in to Microsoft Teams from your profile page, the screen shows a prompt **Login to Microsoft Teams to view status** to connect with your Microsoft Teams account using a login form.
 
-You can [disable the status view](../task/disable-microsoft-teams-status-view.md) if you do not wish to see it on your profile page.
+You can [disable the status view](disable-microsoft-teams-status-view.md) if you do not wish to see it on your profile page.
 
 **Note:**
 
 To use this integrated feature, the user must install either the HR Service Delivery integration with Microsoft Teams version 3.1.0 app or the IT Service Management integration with Microsoft Teams version 2.4.0 app.
 
--   **[Disable Microsoft Teams status view](../task/disable-microsoft-teams-status-view.md)**  
+-   **[Disable Microsoft Teams status view](disable-microsoft-teams-status-view.md)**  
 You can disable the status view of Microsoft Teams on your Employee Profile page.
 
 **Parent Topic:**[Employee Center Integrations](integrate-ec.md)

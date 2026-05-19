@@ -75,7 +75,7 @@ None. The system clone process copies this application version onto the target i
 
     If you saved each application to a source control repository, use one of these actions to retrieve them from the source control repository:
 
-    **Note:** For what to expect after application customization post clone, see [Results post cloning for application customizations](../reference/what-to-expect-post-clone-for-app-customization.md).
+    **Note:** For what to expect after application customization post clone, see [Results post cloning for application customizations](what-to-expect-post-clone-for-app-customization.md).
 
     |Application installation state|Action to take on clone target|
     |------------------------------|------------------------------|

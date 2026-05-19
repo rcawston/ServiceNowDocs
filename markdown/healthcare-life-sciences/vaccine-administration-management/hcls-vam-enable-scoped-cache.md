@@ -36,5 +36,5 @@ Prior to the Tokyo release, the VAM application used a global cache. Existing us
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

@@ -23,7 +23,7 @@ Ensure that you:
 
 -   Deploy and start the MID Server. See [MID Server configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md).
 -   Configure and start the MID Web Server. See [Configure the MID Web Server extension](configure-mid-web-server-extension.md).
--   To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in Started mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+-   To activate metric collection, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in Started mode. See [Manually configure the Metric Intelligence extension](../metric-intelligence/configure-itoa-metric-extension.md).
 -   Enable the rest listener.
 
 Role required: evt\_mgmt\_admin

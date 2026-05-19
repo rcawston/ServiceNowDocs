@@ -38,5 +38,5 @@ A digital interface is related to a business application, and the business appli
 **Related topics**  
 
 
-[Relate an information object to a digital interface](../../task/eaw-task/eaw-dig-interface-add-info-object.md)
+[Relate an information object to a digital interface](eaw-dig-interface-add-info-object.md)
 

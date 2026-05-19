@@ -91,25 +91,25 @@ By default this option is not selected. After you complete all alarm profile set
     If the validation is successful, the page reloads and the **Mapping** form is displayed. You cannot proceed with the configuration until you have successfully validated your connection and credentials.
 
 
--   **[Mapping](../concept/mapping-logrhythm.md)**  
+-   **[Mapping](mapping-logrhythm.md)**  
 After selecting the LogRhythm source that you want to ingest, you need to map individual LogRhythm alarm fields to the ServiceNow AI Platform security incident fields.
 -   **[Filter alarms for LogRhythm](filter-alarms-logrhythm.md)**  
 Setting filtering criteria for alarms after you have mapped fields helps you determine which alarms should be ingested into the SIR application. Filtering alarms helps you significantly reduce the number of alarms you ingest when the alarm profile is activated.
--   **[Previewing the security incident with mapped LogRhythm alarm values](../concept/preview-si-logrhythm.md)**  
+-   **[Previewing the security incident with mapped LogRhythm alarm values](preview-si-logrhythm.md)**  
 After you have completed the mapping step, preview the values that you mapped to the fields on the security incident. This preview step permits you to verify that you have mapped all the critical LogRhythm alarm fields you want displayed on the security incident.
 -   **[Schedule and retrieve LogRhythm alarms](schedule-and-alarm-retrieval-logrhythm.md)**  
 After you preview the security incident with the LogRhythm alarms that you have selected and mapped, you are ready to schedule alarm retrieval. After you complete this step, the alarm profile is ready to be activated.
 -   **[Additional options for LogRhythm alarms](verify-alarm-closure-logrhythm.md)**  
 The LogRhythm Enterprise integration provides you the ability to automatically update or close the LogRhythm alarms based on the security incidents.
 
-**Parent Topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Parent Topic:**[LogRhythm Overview](ovrview-logrhythm.md)
 
 **Previous topic:**[Install the plugin and configure LogRhythm](install-and-config-logrhythm.md)
 
-**Next topic:**[Mapping](../concept/mapping-logrhythm.md)
+**Next topic:**[Mapping](mapping-logrhythm.md)
 
 **Related topics**  
 
 
-[Mapping](../concept/mapping-logrhythm.md)
+[Mapping](mapping-logrhythm.md)
 

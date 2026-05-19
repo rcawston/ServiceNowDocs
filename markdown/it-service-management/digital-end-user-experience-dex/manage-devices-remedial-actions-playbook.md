@@ -53,5 +53,5 @@ Each action card in the playbook panel displays information such as the action n
     2.  To track stages of past actions initiated from the device page Action library, select **View Playbook** on an action card.
 
 
-**Parent Topic:**[DEX remedial actions](../concept/dex-remedial-actions.md)
+**Parent Topic:**[DEX remedial actions](dex-remedial-actions.md)
 

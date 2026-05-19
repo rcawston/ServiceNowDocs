@@ -97,7 +97,7 @@ The chat session tabs feature uses tab background colors to provide information 
 
 Administrators can configure threshold levels for chat sessions that set timer values and tab background colors for the thresholds. Agents see different colors in the chat session tabs based on the threshold timer value.
 
-**Note:** Default values are provided for the SLA threshold timers. For more information about changing these values, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+**Note:** Default values are provided for the SLA threshold timers. For more information about changing these values, see [Configure chat session tabs in SOW](sow-itsm-workspace-chat-session-tabs-configure.md).
 
 <table id="table_v2g_pcc_jdc"><thead><tr><th>
 
@@ -171,7 +171,7 @@ See [SLA threshold timers](sow-itsm-workspace-chat-session-tabs.md#section_ffn_z
 
 Administrators can configure warning and critical SLA threshold timers for inactive chat session tabs. If an agent leaves a customer’s chat unanswered beyond the length of time defined in these threshold timers, the system changes the tab color.
 
-The chat session tabs feature includes the following default SLA threshold timer settings. For more information about changing these values, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+The chat session tabs feature includes the following default SLA threshold timer settings. For more information about changing these values, see [Configure chat session tabs in SOW](sow-itsm-workspace-chat-session-tabs-configure.md).
 
 <table id="table_b2f_dbd_jdc"><thead><tr><th>
 
@@ -264,9 +264,9 @@ When this feature is enabled, chat session tabs display colors to indicate the c
 -   Warning of SLA breach
 -   Critical SLA breach
 
-For more information, see [Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs in SOW](sow-itsm-workspace-chat-session-tabs-configure.md).
 
--   **[Configure chat session tabs in SOW](../task/sow-itsm-workspace-chat-session-tabs-configure.md)**  
+-   **[Configure chat session tabs in SOW](sow-itsm-workspace-chat-session-tabs-configure.md)**  
 Enable the chat session tabs feature and configure values for the chat SLA threshold timers in the SOW admin center.
 
 **Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)

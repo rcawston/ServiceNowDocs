@@ -50,5 +50,5 @@ In order to properly configure your walk-up location services for appointment bo
 12. Click **Save**.
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)
 

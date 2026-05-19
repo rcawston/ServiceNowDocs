@@ -50,5 +50,5 @@ Depending on the value of the **glide.knowman.submission.workflow** property, kn
     A new draft knowledge article is created. Articles created this way are added to the knowledge base specified in the property **glide.knowman.task\_kb**.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](creating-and-maintaining-articles.md)
 

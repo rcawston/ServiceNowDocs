@@ -30,7 +30,7 @@ The following items are installed with Hardware Asset Management for DaaS:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Hardware Asset Management for DaaS](../reference/installed-with-daas.md).
+For more information, see [Components installed with Hardware Asset Management for DaaS](installed-with-daas.md).
 
 ## Procedure
 

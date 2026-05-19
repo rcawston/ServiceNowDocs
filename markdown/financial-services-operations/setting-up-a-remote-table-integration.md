@@ -135,7 +135,7 @@ The Lookup UXF Client action, included in the Financial Services Remote Tables p
 
 It’s available as part of the Remote table lookup application but requires integration with a field decorator or a declarative action.
 
-For more information on the FSO Look Up Client action, see [FSO Look Up Client action](../../../../product/fso-common/reference/fso-look-up-client-action.md).
+For more information on the FSO Look Up Client action, see [FSO Look Up Client action](fso-look-up-client-action.md).
 
 </td></tr><tr><td>
 

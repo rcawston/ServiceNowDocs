@@ -51,5 +51,5 @@ The approver is selected based on the location entered in the chemical request. 
 -   The approver list can be viewed in the **Approvers** tab of the chemical request record.
 -   The approver assigned to the chemical request can view this request under **My Tasks** in the Employee Center for approval.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](hs-using-chemical-management.md)
 

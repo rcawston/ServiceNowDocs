@@ -59,5 +59,5 @@ The shared view for the portfolio plan is created and will be visible to all sta
 -   Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md).
 -   Edit a portfolio plan view to make any changes to the existing view. See [Edit a portfolio plan view](edit-portfolio-plan-view-ppw.md).
 
-**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](../concept/managing-portfolio-plan-views-ppw.md)
+**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](managing-portfolio-plan-views-ppw.md)
 

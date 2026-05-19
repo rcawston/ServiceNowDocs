@@ -19,7 +19,7 @@ Add a default agent schedule so that agents have a schedule assigned to them if 
 
 Role required: wm\_dispatcher
 
-The `Allow Dynamic Scheduling to only use work schedule/WFO` system property must be set to `false` before adding a default agent work schedule. Contact your administrator to update this system property. For more information, see [Dynamic scheduling system properties](../reference/dynamic-sched-system-properties.md).
+The `Allow Dynamic Scheduling to only use work schedule/WFO` system property must be set to `false` before adding a default agent work schedule. Contact your administrator to update this system property. For more information, see [Dynamic scheduling system properties](dynamic-sched-system-properties.md).
 
 ## Procedure
 

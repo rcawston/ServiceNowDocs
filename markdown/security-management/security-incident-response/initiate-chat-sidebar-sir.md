@@ -92,5 +92,5 @@ Provide a brief summary about the issue to be discussed in the sidebar discussio
     To limit the action usage, you can use the **Apply to group** field on the quick action page. For more information, see [Creating a quick action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-quick-actions-overview.md).
 
 
-**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](../concept/collab-sir-call-chat.md)
+**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
 

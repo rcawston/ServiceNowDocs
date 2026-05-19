@@ -41,7 +41,7 @@ Search administrators can expand the recall of Knowledge article searches for a 
 
     2.  On the AI Search Country To Search Language form, fill in the fields.
 
-        For a description of the field values, see [AI Search Country To Search Language form](../reference/ais-country-kb-srch-lang-form.md).
+        For a description of the field values, see [AI Search Country To Search Language form](ais-country-kb-srch-lang-form.md).
 
     3.  Select **Submit**.
 
@@ -52,5 +52,5 @@ Search administrators can expand the recall of Knowledge article searches for a 
 
 When users in a country with one or more Knowledge article search languages defined perform a search, they can match Knowledge articles in those search languages as well in the language associated with their ServiceNow AI Platform session.
 
-**Parent Topic:**[Internationalization support for AI Search](../concept/international-language-support-ais.md)
+**Parent Topic:**[Internationalization support for AI Search](international-language-support-ais.md)
 

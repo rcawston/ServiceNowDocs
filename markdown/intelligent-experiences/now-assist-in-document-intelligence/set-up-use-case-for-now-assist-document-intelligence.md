@@ -27,7 +27,7 @@ In a use case, you define the information you want Now Assist to get from a docu
 
 Once you have defined a use case, users can begin processing documents for it in the related workflows.
 
-For more information on use cases, see [Use cases in Now Assist in Document Intelligence](../concept/use-cases-now-assist-document-intelligence.md).
+For more information on use cases, see [Use cases in Now Assist in Document Intelligence](use-cases-now-assist-document-intelligence.md).
 
 ## Procedure
 
@@ -51,11 +51,11 @@ For more information on use cases, see [Use cases in Now Assist in Document Inte
 
         If the files contain multiple languages, select the primary language.
 
-        For more information, see [Languages supported by Now Assist in Document Intelligence](../reference/languages-supported-now-assist-document-intelligence.md).
+        For more information, see [Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md).
 
     4.  Select the large language model \(LLM\) that will make predictions for the documents processed with this use case.
 
-        For more information, see [Large language models used by Now Assist in Document Intelligence](../reference/llms-now-assist-document-intelligence.md).
+        For more information, see [Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md).
 
     5.  Turn on image mode to process images more efficiently.
 
@@ -97,9 +97,9 @@ For more information on use cases, see [Use cases in Now Assist in Document Inte
 
         The type of form depends on the type of field.
 
-        -   [Question form for use case setup](../reference/document-qna-single-field-form.md)
-        -   [Field form for use case setup](../reference/document-extraction-single-field-form.md)
-        -   [Table form for use case setup](../reference/document-extraction-table-form.md)
+        -   [Question form for use case setup](document-qna-single-field-form.md)
+        -   [Field form for use case setup](document-extraction-single-field-form.md)
+        -   [Table form for use case setup](document-extraction-table-form.md)
         ![Form used to define a piece of information to extract from a document.](../image/docintel-na-de-field-form.png "Field form for document extraction")
 
     4.  Select **Save**.
@@ -164,7 +164,7 @@ Upload from this device
 
     This option is available when a target table is selected for the use case.
 
-    For more information on Document Intelligence integrations, see [Integrate with a custom application or workflow](configure-integration-setup.md).
+    For more information on Document Intelligence integrations, see [Integrate with a custom application or workflow](../document-intelligence/configure-integration-setup.md).
 
     1.  Select **Add integration**.
 
@@ -199,7 +199,7 @@ Upload from this device
     3.  Select **Complete setup**.
 
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md)
 
 **Related topics**  
 

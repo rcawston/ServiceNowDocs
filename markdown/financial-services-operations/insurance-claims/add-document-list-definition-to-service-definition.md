@@ -44,10 +44,10 @@ After setting up FSO Document Processor and creating a document list definition 
 
 This decision table executes in the background when a case is created through the first notice of loss playbook. It also creates a document verification task on the case.
 
-**Parent Topic:**[Creating a service definition for Insurance claims](../concept/create-service-definitions-for-insurance-claims.md)
+**Parent Topic:**[Creating a service definition for Insurance claims](create-service-definitions-for-insurance-claims.md)
 
 **Related topics**  
 
 
-[Integrating with Document Processor](../../fso-common/concept/integrating-with-document-processor.md)
+[Integrating with Document Processor](../integrating-with-document-processor.md)
 

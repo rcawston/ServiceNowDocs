@@ -34,7 +34,7 @@ Role required: admin or survey\_admin
     The changes are also reflected in the **Survey Users** related list on the survey definition.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 

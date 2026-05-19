@@ -28,5 +28,5 @@ Role required: admin, sn\_appclient.app\_client\_company\_installer \(can only i
     **Note:** When customers upgrade to this new version of your application, the Deletes in your author\_elective\_update folder will be written as Skips in the Upgrade History entry for this application upgrade. Your users can browse the Skip list, and apply the changes on a case-by-case basis. Your customers have the option of setting com.glide.apps.include\_my\_deletes to false, which will skip writing Skip records as well.
 
 
-**Parent Topic:**[Installation considerations](../concept/install-considerations.md)
+**Parent Topic:**[Installation considerations](install-considerations.md)
 

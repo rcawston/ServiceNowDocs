@@ -32,5 +32,5 @@ Role required: none
 6.  Select **Save**.
 
 
-**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](../concept/advanced-notification-prefrences.md)
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](advanced-notification-prefrences.md)
 

@@ -32,5 +32,5 @@ By default, Now Assist data is handled in ServiceNow datacenters. During periods
     Instances are opted in by default. You can change this setting at any time.
 
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](now-assist-data-sharing-and-processes.md)
 

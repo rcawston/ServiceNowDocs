@@ -21,15 +21,15 @@ Your instance requires certificates to establish secure connections and validate
 
 </td><td>
 
-[Configure ![Configure](../../../common/image/icon-set-up.png)](../task/t_GenerateAnLDAPClientCertificate.md)
+[Configure ![Configure](../../../common/image/icon-set-up.png)](t_GenerateAnLDAPClientCertificate.md)
 
- [Plan your core configurations.](../task/t_GenerateAnLDAPClientCertificate.md)
+ [Plan your core configurations.](t_GenerateAnLDAPClientCertificate.md)
 
 </td></tr><tr><td>
 
-[Upload ![Upload](../../../common/image/icon-manage.png)](../task/t_UploadACertificateToAnInstance.md)
+[Upload ![Upload](../../../common/image/icon-manage.png)](t_UploadACertificateToAnInstance.md)
 
- [Plan and set-up the application.](../task/t_UploadACertificateToAnInstance.md)
+ [Plan and set-up the application.](t_UploadACertificateToAnInstance.md)
 
 </td><td>
 
@@ -38,10 +38,10 @@ Your instance requires certificates to establish secure connections and validate
 </td></tr></tbody>
 </table>-   **[Exploring Certificates](exploring-certificates.md)**  
 Your instance requires certificates to establish secure connections and validate signatures.
--   **[Generating an LDAP client certificate](../task/t_GenerateAnLDAPClientCertificate.md)**  
+-   **[Generating an LDAP client certificate](t_GenerateAnLDAPClientCertificate.md)**  
 Generate an LDAP client certificate for mutual authentication using OpenSSL. The final output is a PKCS\#12 certificate stored within a Java keystore.
--   **[Uploading a certificate to an instance](../task/t_UploadACertificateToAnInstance.md)**  
+-   **[Uploading a certificate to an instance](t_UploadACertificateToAnInstance.md)**  
 Add a certificate to the instance from the Certificates module.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](encryption-landing.md)
 

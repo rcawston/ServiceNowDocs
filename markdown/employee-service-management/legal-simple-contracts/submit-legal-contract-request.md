@@ -151,7 +151,7 @@ List of people from the selected third party who would sign the agreement.
         In either case, you can submit a change request to update the number of signatories as required for your contract.
 
     -   A record for each external signatory is created in the Signer \[sn\_lg\_contracts\_signer\] table.
-    For more information on how to view and track a legal request, see [View and track legal request details](../../legal-request-management/task/view-legal-request-details.md).
+    For more information on how to view and track a legal request, see [View and track legal request details](../legal-request-management/view-legal-request-details.md).
 
 5.  If you need changes in the generated document, submit a change request to the legal department.
 
@@ -166,5 +166,5 @@ List of people from the selected third party who would sign the agreement.
     For more information, see [Review and finalize the contract document](finalize-contract-document-nda.md).
 
 
-**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](../concept/legal-request-nda.md)
+**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](legal-request-nda.md)
 

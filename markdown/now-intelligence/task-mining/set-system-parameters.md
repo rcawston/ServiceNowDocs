@@ -35,7 +35,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 4.  Select the Task Mining agent configuration record that you want to modify.
 
-    For information on the agent configuration records, see [Agent and system configuration records in Task Mining](../reference/agent-system-configuration-records.md).
+    For information on the agent configuration records, see [Agent and system configuration records in Task Mining](agent-system-configuration-records.md).
 
 5.  Modify the **Value** field.
 
@@ -45,5 +45,5 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 **Related topics**  
 
 
-[Agent and system configuration records in Task Mining](../reference/agent-system-configuration-records.md)
+[Agent and system configuration records in Task Mining](agent-system-configuration-records.md)
 

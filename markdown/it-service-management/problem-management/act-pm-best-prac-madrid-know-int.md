@@ -41,10 +41,10 @@ The Problem Management Best Practice — Madrid – Knowledge Integration plugin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Components installed with Problem Management](../reference/installed-with-madrid-know-int.md)**  
+-   **[Components installed with Problem Management](installed-with-madrid-know-int.md)**  
 Several types of components are installed with activation of the Problem Management Best Practice — Madrid — Knowledge Integration plugin, including tables.
 
-**Parent Topic:**[Problem Management plugins](../concept/problem-mgmt-plugins.md)
+**Parent Topic:**[Problem Management plugins](problem-mgmt-plugins.md)
 
 **Related topics**  
 

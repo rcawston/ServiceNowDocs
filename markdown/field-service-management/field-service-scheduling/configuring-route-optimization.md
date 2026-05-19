@@ -27,7 +27,7 @@ The steps to set up Route Optimization are:
 
 ## Understanding Route Optimization Modes
 
-You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [Properties installed with Field Service Management](../../planning-and-policy/reference/r_PropInstallWFieldServMgmnt.md).
+You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [Properties installed with Field Service Management](../r_PropInstallWFieldServMgmnt.md).
 
 Route optimization operates in three distinct modes, each designed to address specific scenarios:
 

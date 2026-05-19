@@ -17,10 +17,10 @@ The Digital Product Release Policy Content Pack includes data collectors and pol
 
 -   Data collectors enable you to create low-code policies for the DevOps data model application.
 
-    For more information, see [Digital Product Release data collectors](../reference/dpr-data-collector.md).
+    For more information, see [Digital Product Release data collectors](dpr-data-collector.md).
 
 -   Policies enable you to automate phase gate verification and continuous evaluation of software artifacts to ensure they meet the business requirements and standards.
 
-    For more information, see [Digital Product Release policies](../reference/dpr-policies.md).
+    For more information, see [Digital Product Release policies](dpr-policies.md).
 
 

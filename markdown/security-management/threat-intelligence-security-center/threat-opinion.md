@@ -23,7 +23,7 @@ Opinions are subjective, and the specification does not address how best to inte
 
 Human analysts create Opinions and are composed of human-oriented text, they contain an extra property to capture the author that created the Opinion.
 
--   **[Define Threat Opinion](../task/define-threat-opinion.md)**  
+-   **[Define Threat Opinion](define-threat-opinion.md)**  
 Define threat opinions as an assessment of the accuracy of the information in a STIX object.
 
 **Parent Topic:**[Threat Entities](tisc-threat-entities.md)

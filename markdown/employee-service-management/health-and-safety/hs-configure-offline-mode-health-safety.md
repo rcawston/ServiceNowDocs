@@ -54,5 +54,5 @@ Role required: admin
     7.  Select **Save**.
 
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](hs-health-safety-mobile.md)
 

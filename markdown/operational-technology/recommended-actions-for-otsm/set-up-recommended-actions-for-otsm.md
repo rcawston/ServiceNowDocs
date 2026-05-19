@@ -38,5 +38,5 @@ Role required: admin
     OTSM enables you to configure or create guidance and field recommendations. For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
 
-**Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](../concept/configuring-recommended-actions-otsm.md)
+**Parent Topic:**[Configuring Recommended Actions for Operational Technology Service Management \(OTSM\)](configuring-recommended-actions-otsm.md)
 

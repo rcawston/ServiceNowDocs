@@ -52,5 +52,5 @@ You can link a fulfillment flow to your catalog item. Fulfillment flows trigger 
 
 Workflow Studio saves a draft of the flow, trigger, and actions for the fulfillment flow. You can now choose the fulfillment flow and apply it to a catalog item.
 
-**Parent Topic:**[Configuring Operational Technology Request Management](../concept/configuring-operational-technology-request-management.md)
+**Parent Topic:**[Configuring Operational Technology Request Management](configuring-operational-technology-request-management.md)
 

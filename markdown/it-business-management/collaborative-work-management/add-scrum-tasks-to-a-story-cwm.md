@@ -22,7 +22,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## About this task
 
-Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form. To generate multiple scrum tasks at once based on the story description using Now Assist, see [Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
+Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form. To generate multiple scrum tasks at once based on the story description using Now Assist, see [Generate scrum tasks for a story with Now Assist for CWM](../now-assist-for-collaborative-work-management-cwm/generate-scrum-tasks-for-stories-cwm.md).
 
 ## Procedure
 
@@ -51,14 +51,14 @@ Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form
 
 To add more scrum tasks, repeat the previous steps. You can also add scrum tasks inline from the List and Sprint planning views.![Option to add scrum task for a story inline in the List view.](../images/cwm-scrum-tasks-add-inline.png)
 
-To generate scrum tasks automatically based on the story content without manual work, see [Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
+To generate scrum tasks automatically based on the story content without manual work, see [Generate scrum tasks for a story with Now Assist for CWM](../now-assist-for-collaborative-work-management-cwm/generate-scrum-tasks-for-stories-cwm.md).
 
-**Parent Topic:**[Scrum tasks for stories in CWM](../concept/managing-scrum-tasks-for-stories-cwm.md)
+**Parent Topic:**[Scrum tasks for stories in CWM](managing-scrum-tasks-for-stories-cwm.md)
 
 **Related topics**  
 
 
-[Scrum tasks for stories in CWM](../concept/managing-scrum-tasks-for-stories-cwm.md)
+[Scrum tasks for stories in CWM](managing-scrum-tasks-for-stories-cwm.md)
 
-[Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md)
+[Generate scrum tasks for a story with Now Assist for CWM](../now-assist-for-collaborative-work-management-cwm/generate-scrum-tasks-for-stories-cwm.md)
 

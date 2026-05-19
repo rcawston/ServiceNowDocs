@@ -36,7 +36,7 @@ You would analyze the work order process flow and suggest ways to improve the pr
 
 ![Example: Process Mining Analyst workbench for FSM](../image/example-po-fsm1.png "Process Mining for field service work order tasks")
 
-**Parent Topic:**[Activate content packs](../task/activate-po-content-pack.md)
+**Parent Topic:**[Activate content packs](activate-po-content-pack.md)
 
 **Related topics**  
 

@@ -96,7 +96,7 @@ Description about the topic discussed.
 
     -   To create an action, select **New**.
     -   To associate an action from the existing list of actions for this meeting, select **Add**.
-    For field descriptions, see [Health and Safety action form](../reference/hs-action-form.md).
+    For field descriptions, see [Health and Safety action form](hs-action-form.md).
 
 
 ## Result
@@ -104,7 +104,7 @@ Description about the topic discussed.
 -   The meeting minute is listed in the **Meeting minutes** tab of the meeting and is saved in the Health and Safety meeting minute \[sn\_ohs\_im\_meeting\_minute\] table.
 -   Any action for this meeting minute is listed in the **Actions** tab of the minute record. The action is saved in the Health and Safety m2m meeting minute action \[sn\_ohs\_im\_m2m\_meeting\_minute\_action\] table.
 
-**Parent Topic:**[Managing safety meetings](../concept/managing-hs-safety-meetings.md)
+**Parent Topic:**[Managing safety meetings](managing-hs-safety-meetings.md)
 
 **Related topics**  
 

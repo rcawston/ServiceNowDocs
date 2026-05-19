@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [quiz scorecard](../concept/c_QuizScorecards.md).
+A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [quiz scorecard](c_QuizScorecards.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ A question must have a correct answer specified to be scored. Only results for s
 
 6.  Select the **Correct answer** for the question.
 
-    **Note:** Multiple correct answers are supported for a few data types. See [Data types for quizzes](../reference/r_AvailableDataTypes.md).
+    **Note:** Multiple correct answers are supported for a few data types. See [Data types for quizzes](r_AvailableDataTypes.md).
 
 7.  Click **Update**.
 

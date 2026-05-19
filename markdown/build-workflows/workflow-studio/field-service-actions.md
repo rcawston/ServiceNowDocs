@@ -25,5 +25,5 @@ Provides actions for flow designers to use when creating Field Service Managemen
 |Update Work Order Task|Update a work order task by providing the work order task reference and the fields that you want to update.|
 |Add Work Note to Task|Add a work note to a task or to task extended objects \(for example, a work order or work order task\).|
 
-**Parent Topic:**[Spokes](../concept/spokes.md)
+**Parent Topic:**[Spokes](spokes.md)
 

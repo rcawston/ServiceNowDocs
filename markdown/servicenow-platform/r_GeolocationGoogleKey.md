@@ -17,10 +17,10 @@ The auto-routing or auto-dispatch functions in Field Service Management require 
 
 In **System Properties** &gt; **Google Maps**, enable the Geolocation feature using the appropriate entries from a Google Maps API for Business license, or a Google Maps Javascript API Key. To learn more, see [Set up Google Maps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md)
 
-**Parent Topic:**[Geolocation](../concept/c_Geolocation.md)
+**Parent Topic:**[Geolocation](c_Geolocation.md)
 
 **Related topics**  
 
 
-[Geolocation](../concept/c_Geolocation.md)
+[Geolocation](c_Geolocation.md)
 

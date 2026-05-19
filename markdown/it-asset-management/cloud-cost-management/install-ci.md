@@ -33,7 +33,7 @@ The following items are installed with Cloud Cost Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Cloud Cost Management](../reference/installed-with-ci.md).
+For more information, see [Components installed with Cloud Cost Management](installed-with-ci.md).
 
 ## Procedure
 

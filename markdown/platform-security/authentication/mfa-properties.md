@@ -45,7 +45,7 @@ Number of times that a user can choose to skip the setup of MFA. The default is 
 
 </td><td>
 
-Number of minutes that the reset code is valid. See [Log in with Multi-factor Authentication](../task/t_LogOnWithMultifactorAuth.md). The default is 5.**Note:** This property is for email OTP validation time.
+Number of minutes that the reset code is valid. See [Log in with Multi-factor Authentication](t_LogOnWithMultifactorAuth.md). The default is 5.**Note:** This property is for email OTP validation time.
 
 </td></tr><tr><td>
 

@@ -91,5 +91,5 @@ Kafka and Zookeeper process should be running on the host.
 
 The Kafka and Zookeeper pattern does not create any CI relationships.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 

@@ -38,5 +38,5 @@ To view the Risk activity page, select **Workspaces** &gt; **Vendor Management W
     For each external risk assessment, the system auto-assigns a unique ID number that starts with the text VRA. Select a VRA number to work on the risk assessment on the **External assessments** tab.
 
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](unified-vrm-workspace.md)
 

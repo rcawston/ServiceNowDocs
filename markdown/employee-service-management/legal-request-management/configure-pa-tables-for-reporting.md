@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The record producer uses variables to store field information submitted via intake forms for a legal request or legal matter. If you have to use any of these variables as columns in the list view in Legal Counsel Center, you must add them as columns in the respective practice area tables. These practice area tables extend the Legal Request \[sn\_lgs\_ops\_request\] table for legal requests and the Legal Matter \[sn\_lg\_matter\_matter\] table for legal matters. For more information, see [Practice area tables for legal requests](../reference/legal-request-pa-tables.md) and [Practice area tables for legal matters](../../legal-matter-management/reference/legal-matter-pa-tables.md).
+The record producer uses variables to store field information submitted via intake forms for a legal request or legal matter. If you have to use any of these variables as columns in the list view in Legal Counsel Center, you must add them as columns in the respective practice area tables. These practice area tables extend the Legal Request \[sn\_lgs\_ops\_request\] table for legal requests and the Legal Matter \[sn\_lg\_matter\_matter\] table for legal matters. For more information, see [Practice area tables for legal requests](legal-request-pa-tables.md) and [Practice area tables for legal matters](../legal-matter-management/legal-matter-pa-tables.md).
 
 **Note:** For using practice area tables for legal matters, you must have the Legal Matter Management installed.
 
@@ -50,5 +50,5 @@ The record producer uses variables to store field information submitted via inta
     For more information, see [Create a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/business-rules-classic/c_BusinessRules.md).
 
 
-**Parent Topic:**[Configuring Legal Request Management](../concept/legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
 

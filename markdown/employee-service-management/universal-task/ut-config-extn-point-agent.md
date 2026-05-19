@@ -38,7 +38,7 @@ By using an extension point, you can add more conditions for agents to qualify a
     For example, you might want to ensure that the agent belongs to a specific assignment group in addition to having write access for the parent table.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](config-service-for-ut.md)
 
 **Previous topic:**[Add a Task tab on the Standard Ticket page](config-stdtktpage-for-ut.md)
 

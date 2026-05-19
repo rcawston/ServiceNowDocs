@@ -21,14 +21,14 @@ There are a couple of methods to associate a labor union with an employee:
 
 -   From the employee's HR profile
 
-    **Note:** For more information, see [Add or modify an HR profile](../task/t_CreateOrModifyAUserProfile.md).
+    **Note:** For more information, see [Add or modify an HR profile](t_CreateOrModifyAUserProfile.md).
 
 -   From the Employee Union Membership form
 
-    **Note:** For more information, see [Create employee union memberships](../task/labor-union-employee-membership.md).
+    **Note:** For more information, see [Create employee union memberships](labor-union-employee-membership.md).
 
 
--   **[Create employee union memberships](../task/labor-union-employee-membership.md)**  
+-   **[Create employee union memberships](labor-union-employee-membership.md)**  
 Use Employee Union Membership to input and track your union employees. Creating union memberships allows you to gain visibility into employee membership through an HR profile and target content or tasks through HR criteria.
 
 **Parent Topic:**[Labor unions](labor-unions.md)

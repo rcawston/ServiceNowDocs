@@ -31,7 +31,7 @@ Duplication rules have two purposes. They prevent too many duplicate records fro
 
 Duplication rules are used by **Email Parsing**, **Field Mapping**, and **Enrichment Data Mapping**.
 
--   **[Create duplication rules in Security Operations](../task/create-duplication-rules.md)**  
+-   **[Create duplication rules in Security Operations](create-duplication-rules.md)**  
 You can use Duplication Rules to identify new email, enrichment data, or field maps with active duplicate records and process them appropriately.
 
 **Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
@@ -39,7 +39,7 @@ You can use Duplication Rules to identify new email, enrichment data, or field m
 **Related topics**  
 
 
-[Create email parsers in Security Operations](../task/parsing-emails.md)
+[Create email parsers in Security Operations](parsing-emails.md)
 
-[Map tables to tables with Security Operations field mapping](../task/create-field-mapping.md)
+[Map tables to tables with Security Operations field mapping](create-field-mapping.md)
 

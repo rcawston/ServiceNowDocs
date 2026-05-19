@@ -30,7 +30,7 @@ You can specify the following property settings:
     Maximum file size in MB that can be imported.
 
 
-See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+See [Configure TPRM properties](tprm-properties-configure.md).
 
 ## Supported columns
 
@@ -94,7 +94,7 @@ Requirements:
 **Related topics**  
 
 
-[Import a questionnaire from a spreadsheet](../task/import-questions-from-excel.md)
+[Import a questionnaire from a spreadsheet](import-questions-from-excel.md)
 
-[Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md)
+[Configure TPRM properties](tprm-properties-configure.md)
 

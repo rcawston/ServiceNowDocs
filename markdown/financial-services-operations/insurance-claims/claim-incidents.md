@@ -33,7 +33,7 @@ After creating the incident table, you can define the relationship of the table 
 
 [Claim Incident Configuration table](claim-incident-configuration-table.md)
 
-[Components installed with Insurance claims](../reference/components-installed-with-insurance-claims-flow.md)
+[Components installed with Insurance claims](components-installed-with-insurance-claims-flow.md)
 
-[Insurance Claims Core tables](../../fso-common/reference/insurance-claims-core-tables.md)
+[Insurance Claims Core tables](../insurance-claims-core-tables.md)
 

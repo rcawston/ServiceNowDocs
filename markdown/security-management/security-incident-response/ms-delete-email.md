@@ -111,7 +111,7 @@ As a user with the sn\_si.analyst role, if you determine that emails require rem
     If approvals are enabled, you have successfully submitted a request to delete emails. The security tags and work notes are displayed on the related security incident record as described in the previous example. As an approver, the next step is to process the delete request.
 
 
-**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+**Parent Topic:**[Microsoft Exchange Online integration](ms-exchange-online-lookups.md)
 
 **Previous topic:**[Define email search criteria and request a search on the Microsoft Exchange Online service](verify-expected-results-ms-exchange-online.md)
 

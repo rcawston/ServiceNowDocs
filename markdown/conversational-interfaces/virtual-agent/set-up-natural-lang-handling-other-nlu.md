@@ -97,5 +97,5 @@ Depending on your environment, your configuration may contain entries for other 
 
 ![VA NLU Dispatches table displaying the configurations for French, German, and IBM Watson in English.](../images/va-nlu-dispatches-full-config.png)
 
-**Parent Topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](../concept/natural-language-user-response-handling.md)
+**Parent Topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](natural-language-user-response-handling.md)
 

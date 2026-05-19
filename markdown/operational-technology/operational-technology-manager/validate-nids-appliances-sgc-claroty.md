@@ -62,5 +62,5 @@ The **Life Cycle Stage** and **Life Cycle Stage Status** fields are used to capt
     -   zone
     -   isa\_entity\_site \(only available if you have the Industrial Process Manager application installed\)
 
-**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](../concept/sgc-cmdb-integration-claroty-ctd.md)
+**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](sgc-cmdb-integration-claroty-ctd.md)
 

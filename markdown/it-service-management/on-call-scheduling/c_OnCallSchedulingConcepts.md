@@ -57,5 +57,5 @@ Some terms have specific meaning in the On-Call Scheduling application.
 **Related topics**  
 
 
-[On-Call Scheduling](../../on-call-scheduling/concept/c_OnCallScheduling.md)
+[On-Call Scheduling](c_OnCallScheduling.md)
 

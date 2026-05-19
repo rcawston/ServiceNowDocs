@@ -17,7 +17,7 @@ Verify your vulnerable items have been remediated between scheduled scanning cyc
 
 ## Before you begin
 
-To initiate a rescan for the product from the classic environment, see [Initiate rescan for the Rapid7 Vulnerability Integration](vr-r7-rescan.md). This topic also includes information about how to schedule scans with the integration parameters on the Rapid7 integration instance.
+To initiate a rescan for the product from the classic environment, see [Initiate rescan for the Rapid7 Vulnerability Integration](../vulnerability-response/vr-r7-rescan.md). This topic also includes information about how to schedule scans with the integration parameters on the Rapid7 integration instance.
 
 The Rapid7 scanners are deactivated by default in the Vulnerability Response application. If you try to perform a rescan from the vulnerable items or remediation tasks that have Rapid7 application as a source, the **Rescan** button is not available.
 

@@ -91,5 +91,5 @@ A numerical value that determines the order in which the rules apply. Rules with
 </table>4.  Select **Submit** to save the rule and create another rule, or select **OK** to save the rule and return to the Report Designer.
 
 
-**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
 

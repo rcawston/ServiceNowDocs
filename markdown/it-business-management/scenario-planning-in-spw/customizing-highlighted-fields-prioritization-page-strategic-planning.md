@@ -21,9 +21,9 @@ By default, the Prioritization and Hierarchy tabs of a portfolio plan highlight 
 -   Modifying the Prioritization view Script Includes \(APWBacklogConfigImpl for List view and APWGanttConfigImpl for Hierarchy view\).
 -   Configuring a new record for the required field in the sys\_highlighted\_value table.
 
--   **[Modify Script Includes for Prioritization page in Strategic Planning](../task/modify-script-includes-for-prioritization-page-strategic-planning.md)**  
+-   **[Modify Script Includes for Prioritization page in Strategic Planning](modify-script-includes-for-prioritization-page-strategic-planning.md)**  
 Modify the Script Includes for List and Hierarchy views of the Prioritization page to change the columns to be highlighted in these views in the workspace.
--   **[Create new highlighted values for Prioritization columns in Strategic Planning](../task/customize-highlighted-fields-prioritzation-page-strategic-planning-workspace.md)**  
+-   **[Create new highlighted values for Prioritization columns in Strategic Planning](customize-highlighted-fields-prioritzation-page-strategic-planning-workspace.md)**  
 Customize the fields to be highlighted on the Prioritization page of a portfolio plan according to your planning manager's needs.
 
 **Parent Topic:**[Prioritization display settings in Strategic Planning](configuring-prioritization-and-roadmap-settings-strategic-planning.md)

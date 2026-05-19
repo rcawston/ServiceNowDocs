@@ -85,5 +85,5 @@ A new matter is created from the request or the request is added to an existing 
 -   The State is updated to Work In Progress.
 -   The Application status is In Patent Application for the new matter or In Review for an existing matter.
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

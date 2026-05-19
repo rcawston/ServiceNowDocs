@@ -32,7 +32,7 @@ Use the Manage contract repository agentic workflow to extract metadata and key 
 
 3.  On the Create New Contract form, fill in the required **Contract model** and **Contract number** field values.
 
-    For a description of the field values, see [Create a contract](../../contract-management/task/t_CreateAContract.md).
+    For a description of the field values, see [Create a contract](../contract-management/t_CreateAContract.md).
 
 4.  Select **Save**.
 
@@ -65,7 +65,7 @@ After extraction is completed, a confirmation message appears on the contract fo
 
 Review the extracted metadata, contract reminder date, and obligations record.
 
-**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](../concept/manage-contract-repository-workflow.md)
+**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](manage-contract-repository-workflow.md)
 
 **Related topics**  
 
@@ -74,5 +74,5 @@ Review the extracted metadata, contract reminder date, and obligations record.
 
 [Review AI-extracted obligations Software Asset Workspace](review-extracted-obligations.md)
 
-[Create a contract](../../contract-management/task/t_CreateAContract.md)
+[Create a contract](../contract-management/t_CreateAContract.md)
 

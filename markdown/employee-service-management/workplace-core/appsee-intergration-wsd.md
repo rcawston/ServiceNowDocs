@@ -31,46 +31,46 @@ ServiceNow®, by default, provides a set of properties with Usage Insights that 
 
 The Usage Insights application enables you to specify the analytics settings on the portal level. Navigate to **All** &gt; **Service Portal** &gt; **Portals** &gt; **Workplace Services** and select **Create Analytics Settings** to enable user analytics.
 
-**Parent Topic:**[Manage workplace safety activities](../concept/manage-wsd-activites.md)
+**Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
 
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
-[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+[Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
-[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+[Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
-[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+[Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
-[Managing workplace shifts that you own](../concept/managing-shifts-you-own-wsd.md)
+[Managing workplace shifts that you own](managing-shifts-you-own-wsd.md)
 
-[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+[Managing workplace reservations for employees](managing-workplace-reservations-wsd.md)
 
-[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
+[Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
-[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
-[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+[Workplace knowledge management](workplace-knowledge-mgmt-wsd.md)
 
-[QR code management](../concept/qr-code-mgmt.md)
+[QR code management](qr-code-mgmt.md)
 
-[Location migration](../concept/location-migration.md)
+[Location migration](location-migration.md)
 

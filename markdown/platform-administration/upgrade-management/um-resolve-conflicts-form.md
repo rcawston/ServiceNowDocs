@@ -21,5 +21,5 @@ The Resolve Conflicts form you compare to the base system version with the custo
 
 The fields this form displays depend on the type of record you are reconciling. The left column shows the records fields in the base system, including the proposed changes that are part of the upgrade. The right column shows the fields for your customized record.
 
-**Parent Topic:**[Resolve conflicts for an individual record](../task/um-resolve-conflict.md)
+**Parent Topic:**[Resolve conflicts for an individual record](um-resolve-conflict.md)
 

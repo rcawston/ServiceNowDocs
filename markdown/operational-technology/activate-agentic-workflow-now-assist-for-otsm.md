@@ -20,7 +20,7 @@ Ensure that the following skills are activated for Now Assist for OTSM:
 -   OT incident summarization skill
 -   OT resolution notes generation skill
 
-For more information about activating the skills, see [Configure Now Assist for OTSM](../concept/configuring-now-assist-otsm.md).
+For more information about activating the skills, see [Configure Now Assist for OTSM](configuring-now-assist-otsm.md).
 
 Role required: sn\_aia.admin
 

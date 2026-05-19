@@ -89,7 +89,7 @@ Derived price
 
 </td><td>
 
-Option that enables derived pricing \(also called related product pricing\) for product offerings associated with this price list line. For more information, see [Configuring derived pricing](../concept/configuring-related-product-pricing.md).
+Option that enables derived pricing \(also called related product pricing\) for product offerings associated with this price list line. For more information, see [Configuring derived pricing](configuring-related-product-pricing.md).
 
 </td></tr><tr><td>
 

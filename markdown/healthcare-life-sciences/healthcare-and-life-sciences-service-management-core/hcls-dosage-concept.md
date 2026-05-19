@@ -25,9 +25,9 @@ To learn about how dosage components are linked to each other, see [Dosage chara
 
 ## Dosage specifications
 
-A dosage specification consists of diagnosis details and dosage characteristics of a medication product associated with a program. For more information, see [Dosage specification table](../reference/hcls-dosage-spec-table.md).
+A dosage specification consists of diagnosis details and dosage characteristics of a medication product associated with a program. For more information, see [Dosage specification table](hcls-dosage-spec-table.md).
 
-**Note:** When you add a dosage specification for a medication product, an equivalent dosage definition entry is added in the application. A dosage definition models a dosage specification for use as a request definition parameter. For more information, see [Dosage definition table](../reference/hcls-dosage-defn-table.md).
+**Note:** When you add a dosage specification for a medication product, an equivalent dosage definition entry is added in the application. A dosage definition models a dosage specification for use as a request definition parameter. For more information, see [Dosage definition table](hcls-dosage-defn-table.md).
 
 ## Dosage characteristics
 
@@ -40,7 +40,7 @@ A dosage characteristic has the following features:
 -   Is unique for a characteristic group when multiple entries for a characteristic are created. For example, when a dosage specification includes quantity characteristic as quantity per month supply, you can't add another characteristic for the quantity per week supply.
 -   Similar dosage characteristics are stored in the Characteristic Group \[sn\_prd\_pm\_configuration\] table.
 
-**Note:** For each dosage characteristic added to a dosage specification, a dosage variable is automatically created. A dosage variable is displayed as a dynamic field in the Dosage characteristics section of the Medication Prescription form. For more information, see [Dosage variable table](../reference/hcls-dosage-var-table.md).
+**Note:** For each dosage characteristic added to a dosage specification, a dosage variable is automatically created. A dosage variable is displayed as a dynamic field in the Dosage characteristics section of the Medication Prescription form. For more information, see [Dosage variable table](hcls-dosage-var-table.md).
 
 ## Characteristic groups for a dosage
 
@@ -51,7 +51,7 @@ A dosage characteristic group comprises the similar characteristics of a dosage 
 
 ## Dosage characteristics mapping
 
-You map a dosage characteristic group with a field in the Dosage details section of the Medication Prescription form. You can use the `DosageCharacteristicsMapper` extension point to configure the mapping between a characteristic group and a field in the Dosage details section of the Medication Prescription form. For more information, see [Configure the mapping between a dosage characteristic and a dosage details field](../task/hcls-ext-point-dosage-char-map.md).
+You map a dosage characteristic group with a field in the Dosage details section of the Medication Prescription form. You can use the `DosageCharacteristicsMapper` extension point to configure the mapping between a characteristic group and a field in the Dosage details section of the Medication Prescription form. For more information, see [Configure the mapping between a dosage characteristic and a dosage details field](hcls-ext-point-dosage-char-map.md).
 
 By default, the application provides a few sample characteristics and characteristic groups for the Healthcare and Life Sciences workflows that you can as a reference when creating a dosage specification.
 

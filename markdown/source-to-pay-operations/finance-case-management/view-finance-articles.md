@@ -32,5 +32,5 @@ Role required: sn\_fin\_ops.requester, sn\_fin\_ops.specialist
 
 You can view the Understanding General Finance Inquiries knowledge article.
 
-**Parent Topic:**[Use the Employee Center](../concept/using-ec-fin-case-mgmt.md)
+**Parent Topic:**[Use the Employee Center](using-ec-fin-case-mgmt.md)
 

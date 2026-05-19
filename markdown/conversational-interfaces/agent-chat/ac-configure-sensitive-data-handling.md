@@ -202,5 +202,5 @@ Indicates whether the regular expression is processed from left to right or righ
 9.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](ci-agent-chat-configuring.md)
 

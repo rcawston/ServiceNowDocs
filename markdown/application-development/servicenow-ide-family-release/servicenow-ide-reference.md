@@ -15,7 +15,7 @@ breadcrumb: [ServiceNow IDE, Building applications in source code, Building pro-
 
 Reference topics include information about ServiceNow Fluent APIs and ServiceNow IDE properties, roles, and more.
 
--   **[ServiceNow Fluent API reference](../../servicenow-sdk/reference/servicenow-fluent-api-reference.md)**
+-   **[ServiceNow Fluent API reference](../servicenow-sdk/servicenow-fluent-api-reference.md)**
 
     Use ServiceNow Fluent APIs to define the metadata that makes up scoped applications in source code with the ServiceNow IDE or ServiceNow SDK.
 

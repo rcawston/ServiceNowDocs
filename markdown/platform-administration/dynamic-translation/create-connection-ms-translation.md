@@ -139,7 +139,7 @@ For information on supported regions, see the [Microsoft](https://docs.microsoft
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Parent Topic:**[Microsoft Azure Translator Service spoke](microsoft-translation-spoke.md)
 
 **Previous topic:**[Create a credential for the MicrosoftTranslation alias](create-credential-ms-translation.md)
 

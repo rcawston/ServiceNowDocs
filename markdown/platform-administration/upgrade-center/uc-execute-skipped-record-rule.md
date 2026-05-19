@@ -19,12 +19,12 @@ Run skipped record rules based on your set conditions to resolve skipped records
 
 Role required: admin
 
-**Parent Topic:**[Administering Upgrade Center](../reference/uc-administration.md)
+**Parent Topic:**[Administering Upgrade Center](uc-administration.md)
 
 **Related topics**  
 
 
-[Managing upgrade risk](../concept/uc-manage-upgrade-risk.md)
+[Managing upgrade risk](uc-manage-upgrade-risk.md)
 
 [Create a skipped record rule](uc-create-skipped-record-rule.md)
 

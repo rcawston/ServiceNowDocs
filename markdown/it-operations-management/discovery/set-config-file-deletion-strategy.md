@@ -92,7 +92,7 @@ Marks the **Status** \[install\_status\] field of the configuration file CI reco
 **Related topics**  
 
 
-[CI deletion strategies for pattern discovery](../concept/deletion-strategy.md)
+[CI deletion strategies for pattern discovery](deletion-strategy.md)
 
 [Set a deletion strategy](set-deletion-strategy.md)
 

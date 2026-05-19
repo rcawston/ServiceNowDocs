@@ -46,5 +46,5 @@ When using a single queue, Cloud Discovery jobs frequently have higher priority 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Optimizing Discovery load for Event Framework](../concept/c_FineTuneDiscoLoadEF.md)
+**Parent Topic:**[Optimizing Discovery load for Event Framework](c_FineTuneDiscoLoadEF.md)
 

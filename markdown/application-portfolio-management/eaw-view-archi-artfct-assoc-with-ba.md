@@ -15,7 +15,7 @@ You can view the list of architectural artifacts associated with business applic
 
 ## Before you begin
 
-Architectural artifacts are created to describe a system, solution, or state of an enterprise. For more information on architectural artifacts, see [Exploring architectural artifacts](../../concept/eaw-concept/eaw-managing-architectural-artifacts.md).
+Architectural artifacts are created to describe a system, solution, or state of an enterprise. For more information on architectural artifacts, see [Exploring architectural artifacts](eaw-managing-architectural-artifacts.md).
 
 Role required: sn\_apm.apm\_read
 
@@ -38,7 +38,7 @@ Role required: sn\_apm.apm\_read
     A list of artifacts associated with the business application is displayed.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
@@ -47,9 +47,9 @@ Role required: sn\_apm.apm\_read
 
 [Add an existing architectural artifact to a business application](eaw-add--existing-archi-artfct-to-a-ba.md)
 
-[Exploring architectural artifacts](../../concept/eaw-concept/eaw-managing-architectural-artifacts.md)
+[Exploring architectural artifacts](eaw-managing-architectural-artifacts.md)
 
-[Exploring architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-managing-arch-decision-records.md)
+[Exploring architectural decision records \(ADR\)](eaw-managing-arch-decision-records.md)
 
 [eaw-add-an-architectural-artifact-version]
 

@@ -43,5 +43,5 @@ An article on running transform maps appears at [https://developer.servicenow.co
 **Related topics**  
 
 
-[Import a questionnaire from a spreadsheet](../../grc-vendor-risk/task/import-questions-from-excel.md)
+[Import a questionnaire from a spreadsheet](import-questions-from-excel.md)
 

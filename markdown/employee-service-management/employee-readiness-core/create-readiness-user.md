@@ -70,7 +70,7 @@ Some users might not have activity or assigned roles in the apps, so health and 
 
 You can view all health and safety user records by navigating to **Employee Health and Safety Status** &gt; **Health and Safety Users**. The **Requirements status** column shows the user's or visitor's progress towards completing all active requirements. The value is **Cleared** if they have fulfilled all active requirements. The value is **Not cleared** if they are missing any requirements.
 
-You can also look up the requirements status for individual users or visitors by navigating to **Employee Health and Safety Status** &gt; **View Employee and Visitor Status**. The status page can be used during the health screening process for entry to a location. For more information, see [Conduct a health screen for entry](../../employee-health-screening/task/screen-returning-employee.md).
+You can also look up the requirements status for individual users or visitors by navigating to **Employee Health and Safety Status** &gt; **View Employee and Visitor Status**. The status page can be used during the health screening process for entry to a location. For more information, see [Conduct a health screen for entry](../safe-workplace/screen-returning-employee.md).
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](employee-health-safety-status.md)
 

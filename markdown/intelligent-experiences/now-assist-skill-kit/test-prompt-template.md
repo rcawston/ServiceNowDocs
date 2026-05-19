@@ -53,7 +53,7 @@ After you test your prompt, you must finalize and publish it. To learn more abou
 
 If you have not configured the deployment settings for your skill, see [Configure skill deployment settings](configure-skill-settings.md).
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
 
 **Related topics**  
 

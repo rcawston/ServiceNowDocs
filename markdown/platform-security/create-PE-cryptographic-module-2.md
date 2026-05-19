@@ -19,7 +19,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf\_admin, security\_admin
 
 ## About this task
 
-This procedure describes options that are available with Column Level Encryption with the base system and additional configuration options that become available with Column Level Encryption Enterprise functionality. Column Level Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Column Level Encryption Enterprise](../../now-platform-encryption/task/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
+This procedure describes options that are available with Column Level Encryption with the base system and additional configuration options that become available with Column Level Encryption Enterprise functionality. Column Level Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [Activate Column Level Encryption Enterprise](activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
 
 ## Procedure
 
@@ -61,5 +61,5 @@ This procedure describes options that are available with Column Level Encryption
 
 [Create a cryptographic specification for Column Level Encryption](create-crypto-spec-pe-2.md).
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](using-column-level-encryption-2.md)
 

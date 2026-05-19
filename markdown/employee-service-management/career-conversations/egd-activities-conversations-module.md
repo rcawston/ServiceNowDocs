@@ -112,13 +112,13 @@ Manager
 **Related topics**  
 
 
-[Create a growth conversation in Career Conversations](../task/egd-create-growth-conversation.md)
+[Create a growth conversation in Career Conversations](egd-create-growth-conversation.md)
 
-[Schedule a growth conversation in Career Conversations](../task/egd-act-schd-growth-conversation.md)
+[Schedule a growth conversation in Career Conversations](egd-act-schd-growth-conversation.md)
 
-[Update a growth conversation in Career Conversations](../task/egd-act-update-growth-conversation.md)
+[Update a growth conversation in Career Conversations](egd-act-update-growth-conversation.md)
 
-[Schedule a growth plan check-in conversation](../task/egd-act-schd-gp-check-in-convo.md)
+[Schedule a growth plan check-in conversation](egd-act-schd-gp-check-in-convo.md)
 
-[Schedule a mentoring conversation in Career Conversations](../task/egd-act-schd-mentor-conversation.md)
+[Schedule a mentoring conversation in Career Conversations](egd-act-schd-mentor-conversation.md)
 

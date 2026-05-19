@@ -56,5 +56,5 @@ Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\
 -   The added skills are linked to the course and displayed in its Associated skills list. They are also stored in the Course item skills table \(sn\_lc\_course\_item\_m2m\_cmn\_skill\) and removed from the Review skills recommendation table.
 -   Discarded skills move to the Review skills recommendation table with a Rejected status. You can later change their status to Pending or Accepted.
 
-**Parent Topic:**[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+**Parent Topic:**[Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

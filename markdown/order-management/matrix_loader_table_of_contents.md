@@ -80,5 +80,5 @@ The Matrix Loader performs uploads in a controlled sequence to maintain relation
 
 [Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
 
-[Matrix Loader: CSV table upload](../task/cpq-matrix-loader-csv-table-upload.md)
+[Matrix Loader: CSV table upload](cpq-matrix-loader-csv-table-upload.md)
 

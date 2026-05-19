@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md)
+**Parent Topic:**[Customizing Agile 2.0 dashboard reports](customizing-dashboard-reports.md)
 

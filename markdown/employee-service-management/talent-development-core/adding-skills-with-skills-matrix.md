@@ -46,7 +46,7 @@ Role required: sn\_skills\_int.job\_arch\_admin
 12. Select **Save**.
 
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](job-architecture-working.md)
 
 **Related topics**  
 

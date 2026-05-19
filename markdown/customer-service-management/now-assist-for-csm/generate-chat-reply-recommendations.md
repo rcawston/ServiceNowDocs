@@ -92,7 +92,7 @@ Generates a recommended reply that is based on the context of the conversation u
 7.  End the chat by selecting **End Chat**.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](now-assist-csm-using.md)
 
 **Related topics**  
 

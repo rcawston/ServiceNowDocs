@@ -45,5 +45,5 @@ The Outlook Actionable Messages plugin \(com.sn\_ms\_oam\) should be activated.
 3.  Click **Update**.
 
 
-**Parent Topic:**[Receive notifications](../concept/c_ReceiveNotifications.md)
+**Parent Topic:**[Receive notifications](c_ReceiveNotifications.md)
 

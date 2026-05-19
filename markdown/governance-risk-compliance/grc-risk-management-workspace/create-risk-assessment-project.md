@@ -156,5 +156,5 @@ Watchlist users from the assessable entity stakeholders list. This field appears
     The project moves to the Assess stage, and a notification goes to the assessor.
 
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](risk-assessment-project.md)
 

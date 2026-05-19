@@ -24,5 +24,5 @@ The resolution information is provided to the end user through the following met
 |Self-help instructions|Set of instructions for the user to follow and resolve the issue.|
 |URL|Link to any page \(including KB articles\) with details on how to resolve the issue.|
 
-**Parent Topic:**[Proactive Engagement reference](../proactive-engagement-reference.md)
+**Parent Topic:**[Proactive Engagement reference](proactive-engagement-reference.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner
 
 4.  Modify the geography based on the geography type.
 
-    -   To edit a GeoJSON geography in the Territory Planning console, select the geography on the map and modify the boundaries. For more information, see [Create a GeoJSON geography in Territory Planning console](../concept/creating-a-gojson-geography.md#).
+    -   To edit a GeoJSON geography in the Territory Planning console, select the geography on the map and modify the boundaries. For more information, see [Create a GeoJSON geography in Territory Planning console](creating-a-gojson-geography.md#).
     -   To edit a geography that is created using matching attributes, select the **Matching Attributes** tab, and then select **Add**. For more information, see [Create a matching attributes geography](create-territory-matching-attributes.md).
     -   To edit a composite geography, see [Create a composite geography](create-a-composite-geography.md).
 5.  After editing geography, you can see either the **Save** or **Save As New** option, depending on the number of related territories and your managerial permissions.

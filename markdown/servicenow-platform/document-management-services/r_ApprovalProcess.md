@@ -39,5 +39,5 @@ If there are multiple approvers, the approval process works in sequence and mult
 
 Because the sequences take place in ascending chronological order, approvers A and B receive the approval request first \(approvers C, D, and E are not part of the process yet\). Similar to the review process, the first approver to act within a sequence dictates what happens to the document. If approver A acts first and rejects the document, the approval process stops and the state is set to Cancelled. Approver B's status is changed to No Longer Required. If approver A acts first and approves the document, the process stops and approver B's status is changed to No Longer Required. Then, the document moves to approval sequence 2. After at least one approver in each sequence approves the document, the author and the owner are notified that the document has been approved.
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

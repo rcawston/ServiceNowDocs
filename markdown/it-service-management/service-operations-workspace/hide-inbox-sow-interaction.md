@@ -28,5 +28,5 @@ Role required: admin
 3.  Toggle the **Hide inbox when work item is accepted** option.
 
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](../concept/configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](configure-interaction-management-sow.md)
 

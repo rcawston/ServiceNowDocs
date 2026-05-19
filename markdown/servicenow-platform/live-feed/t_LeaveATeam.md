@@ -28,5 +28,5 @@ Role required: none
 3.  Click **Leave** beside the team name.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

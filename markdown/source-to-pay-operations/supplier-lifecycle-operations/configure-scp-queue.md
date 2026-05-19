@@ -63,5 +63,5 @@ Role required: admin
         **Note:** The users that you add to this assignment group are automatically granted the awa\_agent role.
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](awa-slm-config.md)
 

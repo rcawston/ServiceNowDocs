@@ -65,5 +65,5 @@ All rate lines in the rate model are exported to the file. If there is no rate l
 
 [Import rate lines](import-rate-lines.md) from the file into a rate model.
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](rate-model.md)
 

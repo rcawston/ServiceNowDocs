@@ -21,7 +21,7 @@ Role required: sn\_wsd\_case.case\_writer
 
 ## About this task
 
-You can configure the state changes that are described in the following procedure as per your requirements. For more information, see [Universal Request state mapping](../../universal-request/task/ur-state-mapping.md).
+You can configure the state changes that are described in the following procedure as per your requirements. For more information, see [Universal Request state mapping](../universal-request-for-hr-service-delivery/ur-state-mapping.md).
 
 ## Procedure
 
@@ -38,14 +38,14 @@ You can configure the state changes that are described in the following procedur
 
 ## Result
 
-The state of the Universal Request is updated based on the state of the workplace case. For more information about state changes of a Universal Request, see [Universal Request states and reasons](../../universal-request/concept/ur-states.md).
+The state of the Universal Request is updated based on the state of the workplace case. For more information about state changes of a Universal Request, see [Universal Request states and reasons](../universal-request-for-hr-service-delivery/ur-states.md).
 
 If you change the state of the workplace case to Close incomplete without transferring the case back to the Universal Request queue or to another department, then one of the following actions is performed:
 
 -   If the **Needs Additional Review** option is selected on the Universal Request, then the state of the request changes to the In progress state.
 -   If the **Needs Additional Review** option is not selected on the Universal Request, then the request is closed based on the state mapping.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 

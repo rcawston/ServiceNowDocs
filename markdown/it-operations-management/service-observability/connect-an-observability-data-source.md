@@ -341,5 +341,5 @@ A new connection appears in the list of observability data sources. You use this
 
 Map your connection to the services that you want to monitor in Service Observability. See [Create and manage data mappings](create-and-manage-observability-data-mappings.md).
 
-**Parent Topic:**[Configuring Service Observability](../concept/configuring-service-observability.md)
+**Parent Topic:**[Configuring Service Observability](configuring-service-observability.md)
 

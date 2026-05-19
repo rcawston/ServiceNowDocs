@@ -48,10 +48,10 @@ The downloaded JSON file is then transferred to the target instance and loaded u
 
 This is why JSON export is the recommended path for cross-instance migration: the file contains everything needed for the records to function on the target instance, not just the records themselves.
 
-To learn the step-by-step procedure for exporting a model or template hierarchy as JSON, see [Import models and templates in JSON format](../task/import-models-templates-json.md).
+To learn the step-by-step procedure for exporting a model or template hierarchy as JSON, see [Import models and templates in JSON format](import-models-templates-json.md).
 
 **Related topics**  
 
 
-[Export hierarchy of models and templates](../task/export-hierarchy-of-models-and-template.md)
+[Export hierarchy of models and templates](export-hierarchy-of-models-and-template.md)
 

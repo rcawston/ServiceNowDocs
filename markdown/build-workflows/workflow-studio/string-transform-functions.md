@@ -15,7 +15,7 @@ breadcrumb: [Transform functions, Flows, subflows, and actions reference, Flows,
 
 Use string transform functions to reformat or perform calculations on String data pills.
 
-String transform functions require a String input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying string transform functions. If a string transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](../task/flow-test.md).
+String transform functions require a String input data pill. Make sure to use the correct input [data pill type](action-inputs-outputs.md) when applying string transform functions. If a string transform function is applied to an improper data type, the data is not transformed at runtime and the input value is returned instead. For more information on confirming your flow runtime values, see [Test a flow](flow-test.md).
 
 ## Convert String to Number
 
@@ -251,5 +251,5 @@ In this example, the action makes a REST call to a third-party system and GETs a
 
 ![Trim white space from a server name before adding it to the CMDB.](../images/trim-transform-function-example.png)
 
-**Parent Topic:**[Transform functions](../concept/transform-functions.md)
+**Parent Topic:**[Transform functions](transform-functions.md)
 

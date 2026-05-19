@@ -90,5 +90,5 @@ Marks the **Status** \[install\_status\] field of the configuration file CI reco
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[CI deletion strategies for pattern discovery](../concept/deletion-strategy.md)
+**Parent Topic:**[CI deletion strategies for pattern discovery](deletion-strategy.md)
 

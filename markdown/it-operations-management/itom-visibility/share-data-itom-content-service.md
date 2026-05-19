@@ -90,12 +90,12 @@ The **Content service suggestions** tile replaces the **Content service setup** 
 3.  Read the **Opting out of ITOM Content Service** system message and select **Opt out**.
 4.  When the opt-out process is complete, select **Home** to return to the workspace.
 
-ITOM Content Service stops using your data and your workspace presents only CIs defined by you. For more information, see [Discovery Admin Workspace](../concept/discovery-admin-workspace.md).
+ITOM Content Service stops using your data and your workspace presents only CIs defined by you. For more information, see [Discovery Admin Workspace](../discovery/discovery-admin-workspace.md).
 
 </td></tr></tbody>
 </table>
 **Related topics**  
 
 
-[ITOM Content Service](../concept/discovery-content-services.md)
+[ITOM Content Service](discovery-content-services.md)
 

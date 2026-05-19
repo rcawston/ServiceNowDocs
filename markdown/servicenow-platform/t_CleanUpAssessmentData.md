@@ -40,5 +40,5 @@ By default, the scheduled job is executed manually. Administrators can configure
 4.  Click **Execute Now** to run the scheduled job.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
 

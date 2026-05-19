@@ -93,5 +93,5 @@ Additional information for the metric data.
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-metrics-irm.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](using-metrics-irm.md)
 

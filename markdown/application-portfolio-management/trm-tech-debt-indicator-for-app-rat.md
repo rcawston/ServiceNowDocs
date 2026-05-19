@@ -57,7 +57,7 @@ You must run the following scheduled jobs to populate the TPM and TRM data in EA
 
     **Note:** The data includes end of support date, end of extended support date, and end of life date for your software products and hardware models.
 
-    For instructions, see [Run a scheduled job to generate TPM lifecycle data](../../task/eaw-task/eaw-run-scheduled-job-update-tpm-data.md). For updating the TPM data for a selected business application, see [Update TPM data for a business application or application service](../../task/eaw-task/update-tpm-data.md).
+    For instructions, see [Run a scheduled job to generate TPM lifecycle data](eaw-run-scheduled-job-update-tpm-data.md). For updating the TPM data for a selected business application, see [Update TPM data for a business application or application service](update-tpm-data.md).
 
 -   Populate TRM technical debts in the EA Workspace
 
@@ -65,7 +65,7 @@ You must run the following scheduled jobs to populate the TPM and TRM data in EA
 
     **Note:** The Populate TRM technical debts in the EA Workspace scheduled job are available only the Software Asset Management \(SAM\) Foundation or Software Asset Management \(SAM\) Professional plugin is installed.
 
-    For instructions, see [Run a scheduled job to update TRM technical debt data in EA Workspace](../../task/eaw-task/eaw-run-job-trm-tech-debts.md).
+    For instructions, see [Run a scheduled job to update TRM technical debt data in EA Workspace](eaw-run-job-trm-tech-debts.md).
 
 
 ## Regenerate indicator score
@@ -82,5 +82,5 @@ The Technical Debt indicator score is available as a column on the Application R
 
 The Technical Debt indicator is listed in the Bubble Size list under the Settings of the Bubble Chart page. You can select the indicator to from the Bubble Size list to see its score for business applications in the X and Y axes and specify the bubble sizes.![Selecting Technical Debt score as a bubble size on the Bubble Chart page of the Application Rationalization](../../image/eaw-image/eaw-tech-debt-indicator-bubble-chart.png)
 
-**Parent Topic:**[Rationalization of business applications](../../concept/eaw-concept/eaw-rationalize-business-applications.md)
+**Parent Topic:**[Rationalization of business applications](eaw-rationalize-business-applications.md)
 

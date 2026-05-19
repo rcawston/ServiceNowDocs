@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowPushSDK class provides the function necessary to create a `NowPushService` that enables the sending of unsolicited \(push\) notifications to Android devices.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowPushSDK - makePushService\(instanceURL: URL\)
 

@@ -43,7 +43,7 @@ The Project Management application enables you a create parent-child relationshi
 
 **Note:** Only one relationship can exist between two tasks.
 
-The Project Management application provides several properties that control how tasks are calculated and behave. See [Project property](../reference/r_InstalledWithProjectManagement.md#project_application_properties) for more information.
+The Project Management application provides several properties that control how tasks are calculated and behave. See [Project property](r_InstalledWithProjectManagement.md#project_application_properties) for more information.
 
 ## Task time constraints
 
@@ -56,7 +56,7 @@ The Project Task form includes a **Time Constraint** field, which can be one of 
 -   If a task is set to **Start no earlier than**: The task appears on the Gantt chart as starting on or after the constraint date. If the task has no predecessor, the task starts on the specified date. The start date changes to a later date based on the predecessor task end date or if the task is in a relation to another task, for example, FS relationship.
 -   If a task is set to **Start no later than**: The task appears on the Gantt chart as starting on or before the constraint date. If the task has any predecessor task, the dependency on the predecessor task determines when the task can start. A scheduling conflict occurs if the predecessor task attempts to move the task beyond the date specified in the **Constraint date** field.
 
-    **Note:** The [project property](../reference/r_InstalledWithProjectManagement.md#table_Project-Properties-system-properties) **Retain start on constraint on tasks after adding relations** controls the behavior for **Start on** selection. The property is set to True by default and is not editable.
+    **Note:** The [project property](r_InstalledWithProjectManagement.md#table_Project-Properties-system-properties) **Retain start on constraint on tasks after adding relations** controls the behavior for **Start on** selection. The property is set to True by default and is not editable.
 
 -   A task that is not honoring dependency is indicated with a red calendar icon ![task with must start on dependency icon](../image/pc-task-dep-icon.png) on the Planning Console. If you want the task to honor the dependency and adjust the start accordingly, change the constraint type of the task to **Start ASAP**.
 
@@ -115,7 +115,7 @@ It is easiest to build task relationships and dependencies while creating sets o
 
 -   **[Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)**  
 Date changes, stage changes, and value calculations roll up from child tasks to parent tasks.
--   **[Project tasks](../task/t_CreateAProjectTask.md)**  
+-   **[Project tasks](t_CreateAProjectTask.md)**  
 Create project tasks in several ways, even from other applications in the instance.
 -   **[Schedule conflicts between project tasks](scheduling-conflicts.md)**  
 Scheduling conflict helps you to identify project tasks that are not honoring dependencies. A scheduling conflict occurs when one project task prevents other task from starting on the specified date because of dependencies or constraint types.
@@ -135,7 +135,7 @@ A cost plan breakdown captures the estimated cost and actual cost for every fisc
 Actual project costs come after you create expense lines for cost plans or after human resources use time cards to create expense lines.
 -   **[Types of external dependencies](external-dependency-types.md)**  
 The Project management application supports two types of external dependencies - hard and soft.
--   **[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)**  
+-   **[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)**  
 Specify the amount of money that projects and portfolios are allowed to have.
 -   **[Project scheduling in Project Management](project-scheduling.md)**  
 Define how tasks are sequenced, timed, and connected to determine when a project starts and finishes with Project scheduling.
@@ -149,5 +149,5 @@ Task constraints define the earliest or latest dates a task can start or finish 
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Create a parent-child relationship on the Project Task form](../task/t_CreateParentChildRelationship.md)
+[Create a parent-child relationship on the Project Task form](t_CreateParentChildRelationship.md)
 

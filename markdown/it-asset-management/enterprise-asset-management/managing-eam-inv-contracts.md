@@ -41,8 +41,8 @@ Create and view stockrooms
 
 </td><td>
 
--   [Create stockroom for enterprise assets](../task/create-eamstockroom.md)
--   [View stockroom details in the Enterprise Asset Workspace](../task/view-stockroom-details.md)
+-   [Create stockroom for enterprise assets](create-eamstockroom.md)
+-   [View stockroom details in the Enterprise Asset Workspace](view-stockroom-details.md)
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Audit enterprise asset inventory
 
 </td><td>
 
-[Audit enterprise asset inventory](../task/audit-eam-assetinventory.md)
+[Audit enterprise asset inventory](audit-eam-assetinventory.md)
 
 </td></tr><tr><td>
 
@@ -78,8 +78,8 @@ Create a disposal or a transfer order
 
 </td><td>
 
--   [Create a disposal order in the Enterprise Asset Workspace](../task/create-eamdisposal-order.md)
--   [Create a transfer order in Enterprise Asset Workspace](../task/create-eam-transferorder.md)
+-   [Create a disposal order in the Enterprise Asset Workspace](create-eamdisposal-order.md)
+-   [Create a transfer order in Enterprise Asset Workspace](create-eam-transferorder.md)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Request a loaner asset
 
 </td><td>
 
-[Request a loaner asset in Enterprise Asset Workspace](../task/request-eam-assetloaner-request.md)
+[Request a loaner asset in Enterprise Asset Workspace](request-eam-assetloaner-request.md)
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Close an enterprise asset reclamation request
 
 </td><td>
 
-[Close an enterprise asset reclamation request](../task/close-enteprise-reclamation-request.md)
+[Close an enterprise asset reclamation request](close-enteprise-reclamation-request.md)
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Create contracts for leased enterprise assets
 
 </td><td>
 
-[Create a contract for your leased enterprise assets](../task/create-eam-lease-contract.md)
+[Create a contract for your leased enterprise assets](create-eam-lease-contract.md)
 
 </td></tr><tr><td>
 
@@ -166,8 +166,8 @@ Manage expiring contracts
 [Managing expiring contracts for leased enterprise assets](managing-expiring-contracts-leased-assets.md)
 
 </td></tr></tbody>
-</table>-   [Create a stockroom and assign assets to the stockroom](../task/create-eamstockroom.md)
--   [Create a custom stock rule to automatically resupply a stockroom with an asset](../task/create-eamstockrules.md)
+</table>-   [Create a stockroom and assign assets to the stockroom](create-eamstockroom.md)
+-   [Create a custom stock rule to automatically resupply a stockroom with an asset](create-eamstockrules.md)
 -   Create a transfer order to transfer assets from one location to the other.
 -   Create a disposal order for assets that have reached the end of their life or are no longer functional.
 

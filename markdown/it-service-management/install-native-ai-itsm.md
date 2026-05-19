@@ -24,8 +24,8 @@ Role required: admin
 
 The following items are installed with IT Service Management.
 
--   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](../reference/agents-ai-native-it-service-desk.md).
--   Commonly requested catalog items. For information on catalog items, see [Catalog items installed with Simplified IT Service Management](../reference/catalog-items-base-system.md).
+-   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](agents-ai-native-it-service-desk.md).
+-   Commonly requested catalog items. For information on catalog items, see [Catalog items installed with Simplified IT Service Management](catalog-items-base-system.md).
 
 ## Procedure
 

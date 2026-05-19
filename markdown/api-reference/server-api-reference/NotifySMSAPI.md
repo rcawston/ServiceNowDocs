@@ -17,7 +17,7 @@ The NotifySMS script include provides methods that enable you to send Short Mess
 
 To use this script include you must activate the Notify \(com.snc.notify\) plugin.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## NotifySMS - NotifySMS\(\)
 
@@ -111,7 +111,7 @@ Optional. Incident GlideRecord to store in the Source field of the associated SM
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|ScriptableFlowRunnerResult|[ScriptableFlowRunnerResult - Scoped](../../ScriptableFlowRunnerResultScoped/concept/ScriptableFlowRunnerResultScopedAPI.md#) object.|
+|ScriptableFlowRunnerResult|[ScriptableFlowRunnerResult - Scoped](ScriptableFlowRunnerResultScopedAPI.md#) object.|
 
 The follow code example shows how you can use this method to send a bulk SMS message.
 
@@ -210,7 +210,7 @@ sourceRecord
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -316,7 +316,7 @@ sourceRecord
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -436,7 +436,7 @@ sourceRecord
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -448,7 +448,7 @@ toGr
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -544,7 +544,7 @@ sourceRecord
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 
@@ -556,7 +556,7 @@ toGr
 
 </td><td>
 
-[GlideRecord - Global](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord - Global](c_GlideRecordAPI.md#)
 
 </td><td>
 

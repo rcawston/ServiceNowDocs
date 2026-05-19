@@ -113,16 +113,16 @@ Suspended
 There could be several keys in the suspended state for a given cryptographic specification in a cryptographic module. When the key is suspended, the key can be resumed and reassigned to an active state when no other active key exists for that cryptographic specification.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Key Management Framework Reference](../concept/understanding-kmf.md)
+</table>**Parent Topic:**[Key Management Framework Reference](understanding-kmf.md)
 
 **Related topics**  
 
 
 [Roles installed with Key Management Framework](kmf-roles.md#)
 
-[Module access policy visualization](../concept/map-vis-concept.md)
+[Module access policy visualization](map-vis-concept.md)
 
-[Module access policy debugger](../concept/map-debugger.md)
+[Module access policy debugger](map-debugger.md)
 
-[Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md)
+[Encryption and Key Management subscription bundle](encryption-sku.md)
 

@@ -65,7 +65,7 @@ In the Comments tab, add notes or comments and select **Post Work notes**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
+**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](managing-portfolio-plans-in-alignment-planner-workspace.md)
 
 **Related topics**  
 

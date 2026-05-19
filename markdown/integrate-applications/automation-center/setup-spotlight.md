@@ -42,5 +42,5 @@ Role required: admin, pa\_spotlight
     To do so, select the **Execute Now** button in the Scheduled Script Execution page. `/sysauto_script.do?sys_id=d361d79dc3a11110995486d91840dd37`
 
 
-**Parent Topic:**[Working with ServiceNow Spotlight feature](../concept/spotlight-ac.md)
+**Parent Topic:**[Working with ServiceNow Spotlight feature](spotlight-ac.md)
 

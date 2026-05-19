@@ -36,5 +36,5 @@ The State transition of a collection guides you through the stages of its life c
 -   **[Components installed with Learning](components-installed-with-learning.md)**  
 Several types of components are installed with the activation of Learning, including tables, user roles, and scheduled jobs.
 
-**Parent Topic:**[HR Service Delivery](../concept/hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

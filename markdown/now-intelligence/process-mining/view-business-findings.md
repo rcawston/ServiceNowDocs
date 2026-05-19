@@ -28,7 +28,7 @@ The Summary and insights page shows opportunities for optimizing your process. Y
 
 The Goals and KPIs section is configured from the UI Builder.
 
-From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [KPI Details](../../../use/par-for-workspace/concept/kpi-details.md) view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
+From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [KPI Details](../kpi-details.md) view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
 
 ![Summary and Insights - Goals and KPIs example](../image/summary-insights-goals-kpis.png)
 
@@ -91,5 +91,5 @@ Select **View in Workbench** to view the project for an individual route.
 **Related topics**  
 
 
-[KPI Details](../../../use/par-for-workspace/concept/kpi-details.md)
+[KPI Details](../kpi-details.md)
 

@@ -355,7 +355,7 @@ If two or more rules match at the same point in the processing order, the user m
 
 ## Required role
 
-Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the security\_admin role. See [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md) for instructions.
+Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the security\_admin role. See [Elevate to a privileged role](../t_ElevateToAPrivilegedRole.md) for instructions.
 
 ## ACL rules in scoped applications
 

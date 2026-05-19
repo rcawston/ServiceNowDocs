@@ -23,9 +23,9 @@ Role required: none
 
 The SetApplicationCredential component can be used when the automation involves an application that requires the login credentials to be periodically updated, or when the login credentials must be changed for any other reason. This component updates the credentials in RPA Hub.
 
-You can configure the properties for the SetApplicationCredential component. For more information about these properties, see [Properties of the Credentials components](../reference/credentials-properties.md).
+You can configure the properties for the SetApplicationCredential component. For more information about these properties, see [Properties of the Credentials components](credentials-properties.md).
 
-If the application credential record has the **External Credential** check box enabled, then this SetApplicationCredential component does not set the credentials and displays an error. For more information about the application credential settings, see [Create an application credential in RPA Hub](../../rpa-hub/task/create-application-credential.md).
+If the application credential record has the **External Credential** check box enabled, then this SetApplicationCredential component does not set the credentials and displays an error. For more information about the application credential settings, see [Create an application credential in RPA Hub](create-application-credential.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ If the application credential record has the **External Credential** check box e
 5.  To test the component, on the **Design** tab, select **Run**.
 
 
-**Parent Topic:**[Credentials](../concept/credentials.md)
+**Parent Topic:**[Credentials](credentials.md)
 

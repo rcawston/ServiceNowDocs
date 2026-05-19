@@ -29,7 +29,7 @@ To use PADomainUtils, you must satisfy these requirements:
 -   The script must be run from the global domain.
 -   When moving or copying records, the source and target domains must be different.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PADomainUtils - PADomainUtils\(\)
 

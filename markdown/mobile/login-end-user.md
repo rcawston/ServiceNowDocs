@@ -23,7 +23,7 @@ After you add ServiceNow mobile apps to your mobile device, you must connect the
 
 **Note:** For more information about working with multiple ServiceNow accounts within a mobile app, see [Working with multiple ServiceNow instances on a single mobile device](instance-multiple.md).
 
-If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [Enterprise mobility management \(EMM\)](../concept/enterprise-mobility-management.md). If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
+If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [Enterprise mobility management \(EMM\)](enterprise-mobility-management.md). If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
 
 ## Procedure
 
@@ -66,7 +66,7 @@ Tap the QR icon \(![Mobile QR scan code.](../image/mobile-qr-scan.png)\), and th
  The QR code automatically fills in the name of the instance.
 
 </td></tr></tbody>
-</table>    **Note:** For both the Now Mobile app and Mobile Agent app, there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md) and [Mobile Agent app demo](../concept/sg-agent-demo.md).
+</table>    **Note:** For both the Now Mobile app and Mobile Agent app, there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/sg-mobile-demo.md) and [Mobile Agent app demo](sg-agent-demo.md).
 
 3.   Enter a nickname for this instance to help you easily locate changes you make within the instance.
 
@@ -84,5 +84,5 @@ Tap the QR icon \(![Mobile QR scan code.](../image/mobile-qr-scan.png)\), and th
 **Related topics**  
 
 
-[Mobile authentication](../concept/mobile-authentication.md)
+[Mobile authentication](mobile-authentication.md)
 

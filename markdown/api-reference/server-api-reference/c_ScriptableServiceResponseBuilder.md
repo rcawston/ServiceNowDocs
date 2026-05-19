@@ -19,7 +19,7 @@ This API runs in the `sn_ws` namespace.
 
 **Note:** You cannot instantiate objects of this type. Objects of this type are created automatically and are accessible only in scripted REST API resource scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## RESTAPIResponse - getStreamWriter\(\)
 
@@ -143,7 +143,7 @@ Object
 
 </td><td>
 
-Error object. For more information about the types of error objects that can be used, see [Scripted REST API example - script samples](../../../../../integrate/custom-web-services/reference/r_ScriptedRESTServiceScriptExamples.md).
+Error object. For more information about the types of error objects that can be used, see [Scripted REST API example - script samples](../rest-api-explorer/r_ScriptedRESTServiceScriptExamples.md).
 
 </td></tr></tbody>
 </table>|Type|Description|

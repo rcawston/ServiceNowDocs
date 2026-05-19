@@ -23,9 +23,9 @@ ServiceNow® Access Analyzer is an access diagnostic tool designed for AI admini
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-analyzer.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](use-access-analyzer.md)
 
- [Understand how to use Access Analyzer.](../task/use-access-analyzer.md)
+ [Understand how to use Access Analyzer.](use-access-analyzer.md)
 
 </td></tr><tr><td>
 

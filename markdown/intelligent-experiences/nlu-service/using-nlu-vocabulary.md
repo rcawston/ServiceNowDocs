@@ -43,7 +43,7 @@ Regular
 
 A word or phrase that is not commonly known, such as a business or industry specific term or acronym. Regular vocabulary is case insensitive, so all case variations will be captured by the vocabulary you create.
 
- See [Create a regular vocabulary item](../task/create-regular-vocabulary-item.md).
+ See [Create a regular vocabulary item](create-regular-vocabulary-item.md).
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Pattern
 
 A regular expression \(regex\) that can capture specific formats such as email addresses and phone numbers.
 
- See [Create a pattern vocabulary item](../task/create-pattern-vocabulary-item.md).
+ See [Create a pattern vocabulary item](create-pattern-vocabulary-item.md).
 
 </td></tr></tbody>
 </table>## Vocabulary sources
@@ -67,7 +67,7 @@ Use vocabulary sources when your user utterances refer to objects in a set. The 
 
 For example, say you already have a list of all the conference rooms for your office. You can create a vocabulary source to reference that list rather than typing each conference room name into your intent's training utterances.
 
-To create vocabulary sources, refer to [Create a table vocabulary source](../task/create-table-lookup-source.md) and [Create a list vocabulary source](../task/create-static-list-source.md).
+To create vocabulary sources, refer to [Create a table vocabulary source](create-table-lookup-source.md) and [Create a list vocabulary source](create-static-list-source.md).
 
 ## Vocabulary usage in relation to an intent
 
@@ -107,7 +107,7 @@ Issue and Solution
 </td></tr></tbody>
 </table>Use a single word or short phrase as a synonym for best results. You can map multiple vocabulary items to one synonym. Do not map one vocabulary item to multiple synonyms.
 
-For more context and examples, see [Create an NLU intent](../task/create-nlu-intent.md).
+For more context and examples, see [Create an NLU intent](create-nlu-intent.md).
 
 ## A Regex example for a pattern vocabulary item
 
@@ -124,5 +124,5 @@ For more information, see [Using regular expressions in entities](using-regular-
 **Related topics**  
 
 
-[Create an NLU intent](../task/create-nlu-intent.md)
+[Create an NLU intent](create-nlu-intent.md)
 

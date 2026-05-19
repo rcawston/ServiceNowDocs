@@ -51,5 +51,5 @@ Role required: admin with sn\_uni\_req.ur\_admin
 9.  Log out and log back in to ensure that the changes take effect.
 
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](configure-ur.md)
 

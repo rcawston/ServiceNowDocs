@@ -78,5 +78,5 @@ The location-based privacy configuration is set.
 
 [Configure an email notification for a privacy consent request](configure-privacy-email.md).
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md)
 

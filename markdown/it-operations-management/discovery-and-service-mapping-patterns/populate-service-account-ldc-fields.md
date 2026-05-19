@@ -37,12 +37,12 @@ Role required: discovery\_admin
     -   Select **Update** to enable the job to run on its configured schedule.
     -   Select **Execute Now** to run the batch job immediately.
 
-**Parent Topic:**[Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md)
+**Parent Topic:**[Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md)
 
 **Related topics**  
 
 
-[Improved query performance with direct field population in CI tables](../concept/query-service-account-ldc-fields.md)
+[Improved query performance with direct field population in CI tables](query-service-account-ldc-fields.md)
 
-[Available cloud discovery patterns](../concept/available-patterns-cloud.md)
+[Available cloud discovery patterns](available-patterns-cloud.md)
 

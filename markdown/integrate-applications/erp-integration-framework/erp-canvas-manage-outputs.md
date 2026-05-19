@@ -40,7 +40,7 @@ If you're already in the process of managing a model and ready to specify output
 
 6.  Open an entity.
 
-    If you don't have an entity, add one to the operation. For more information, see [Add an entity to a model](../concept/add-an-entity-to-model.md).
+    If you don't have an entity, add one to the operation. For more information, see [Add an entity to a model](add-an-entity-to-model.md).
 
 7.  Select the **Choose outputs** tab.
 
@@ -54,7 +54,7 @@ If you're already in the process of managing a model and ready to specify output
 
     In the Table/Functioncall section, define the parameters the operation uses. The Table section appears for read operations, and the Functioncall section appears for BAPI operations.
 
-    Zero Copy Connector for ERP automatically suggests mappings between table fields in source systems and target models. For example, map the fields of source table "purchase order - v2" with the fields of a relevant target table such as "platform table purchase order." This reduces the amount of manual work to do, while still giving you control to edit the mappings as needed. For more information, see [Zero Copy Connector for ERP semantic mapping](../reference/erp-semantic-mapping.md).
+    Zero Copy Connector for ERP automatically suggests mappings between table fields in source systems and target models. For example, map the fields of source table "purchase order - v2" with the fields of a relevant target table such as "platform table purchase order." This reduces the amount of manual work to do, while still giving you control to edit the mappings as needed. For more information, see [Zero Copy Connector for ERP semantic mapping](erp-semantic-mapping.md).
 
     **Note:** Mapped value names in inputs and outputs are generated automatically, but you can edit the names manually. For more information, see [Edit input and output mapped value name in Zero Copy Connector for ERP](erp-edit-mapped-value-name-in-model-manager.md).
 
@@ -95,5 +95,5 @@ If you're already in the process of managing a model and ready to specify output
 
 When you add mapped fields or parameters as outputs and successfully read or update the ERP system, each parameter appears as a field. You can then add the field to a remote table or an extraction table. Manage the fields for the remote table or extraction table to add the retrieved parameters.
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
 

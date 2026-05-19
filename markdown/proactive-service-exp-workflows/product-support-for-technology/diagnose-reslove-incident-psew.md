@@ -119,5 +119,5 @@ The incident progresses through several stages from start to closure. It begins 
 9.  View the incident-related records in the **Related records** tab.
 
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](../concept/use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](use-assurance-workflows.md)
 

@@ -44,20 +44,20 @@ The **Share document** button is visible only when the document has a valid defa
 6.  Select **Done**.
 
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
 [Create a document record](create-new-doc.md)
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](document-mgt-versions.md)
 
 [Download a document](downloading-a-document.md)
 
 [Modify a shared link access](modify-access-shared-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](document-configuration.md)
 
 [Delete a document link](delete-document-link.md)
 

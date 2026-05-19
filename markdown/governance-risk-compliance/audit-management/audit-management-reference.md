@@ -21,8 +21,8 @@ Activating the GRC: Audit Management \(com.sn\_audit\) plugin adds or modifies s
 The advanced planning capability enables integration of Advanced Audit with the Project Portfolio Management \(PPM\) product. The capability creates an equivalent project for the engagement, and provides planning features that could be used for resource planning, cost planning, and so on, from the engagement project.
 -   **[Roles required for Advanced planning capability](roles-for-audit-and-ppm.md)**  
 The advanced planning capability enables integration of Advanced Audit with the Project Portfolio Management \(PPM\) product. The capability creates an equivalent project for the engagement, and provides planning features that could be used for resource planning, cost planning, and so on, from the engagement.
--   **[Domain separation and Audit Management](../concept/audit-management-domain-separation.md)**  
+-   **[Domain separation and Audit Management](audit-management-domain-separation.md)**  
 Domain separation is supported for Audit Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Audit Management](../concept/c_GRCAudits.md)
+**Parent Topic:**[Audit Management](c_GRCAudits.md)
 

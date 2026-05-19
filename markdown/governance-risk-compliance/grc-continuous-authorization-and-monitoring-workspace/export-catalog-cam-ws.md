@@ -45,5 +45,5 @@ Role required:
     The catalog JSON file is downloaded in your local repository.
 
 
-**Parent Topic:**[Export in OSCAL format](../concept/oscal-support-cam.md)
+**Parent Topic:**[Export in OSCAL format](oscal-support-cam.md)
 

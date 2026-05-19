@@ -64,12 +64,12 @@ Action
 
     |Action|Steps|
     |------|-----|
-    |**Modify the request details**|Modify the fields of the third-party review request. For more information, see [Third-party Contract Review form](../reference/snlc-tpc-intake-fields.md).|
+    |**Modify the request details**|Modify the fields of the third-party review request. For more information, see [Third-party Contract Review form](snlc-tpc-intake-fields.md).|
     |**Add and classify documents**|For more information, see [Resubmit third-party contract request](snlc-multiple-doc-tpc.md)|
     |**Delete documents**|In the Documents section, select the Delete icon \(![Delete icon](../../contract-mgmt-pro/image/lsd-tpc-delete.png)\) next to the document you want to delete.|
 
 3.  Select **Save** to update the record.
 
 
-**Parent Topic:**[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+**Parent Topic:**[Third-party contract review requests](../employee-service-management/snlc-request-third-party-contract-1.md)
 

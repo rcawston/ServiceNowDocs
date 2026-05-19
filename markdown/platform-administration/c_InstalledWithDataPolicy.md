@@ -26,7 +26,7 @@ The **System Policy** &gt; **Data Policies** module displays a list of all data 
 
 ## Roles
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## Data Policy Administrator\[data\_policy\_admin\]
 

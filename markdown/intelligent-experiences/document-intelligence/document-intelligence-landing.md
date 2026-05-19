@@ -15,7 +15,7 @@ breadcrumb: [Enable AI experiences]
 
 Document Intelligence \(DocIntel\) is an AI solution that enables any organization to automate and accelerate the process of extracting data from documents. That data can easily be integrated into larger automation workflows to save time and resources.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Request apps on the Store
 
@@ -45,7 +45,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference ![](../image/icon-docintel-references.png) Get details about the properties that are installed with DocIntel](../reference/docintel-references.md)
+[Reference ![](../image/icon-docintel-references.png) Get details about the properties that are installed with DocIntel](docintel-references.md)
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Now Assist in Document Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use generative AI to analyze and extract information from documents](docintel-nowassist-landing.md)
+[Now Assist in Document Intelligence![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Use generative AI to analyze and extract information from documents](../now-assist-in-document-intelligence/docintel-nowassist-landing.md)
 
 </td><td>
 
@@ -62,8 +62,8 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   Learn more about what's new and changed in the [Document Intelligence release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/document-intelligence-rn.md).
--   [Additional resources for AI products and solutions](../../general/reference/ai-additional-resources.md).
+-   Learn more about what's new and changed in the [Document Intelligence release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/document-intelligence-rn.md).
+-   [Additional resources for AI products and solutions](../ai-additional-resources.md).
 -   [ServiceNow Community on AI and Intelligence](https://www.servicenow.com/community/ai-intelligence/ct-p/ai-intelligence).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 -   Search the [Known Error Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477) for known error articles.

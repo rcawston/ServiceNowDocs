@@ -33,17 +33,17 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing product capability, select the product capability.
 6.  On the form, fill in the form fields.
 
-    For field information, see [Create new product capability form](../../reference/eaw-reference/eaw-create-new-product-capability-form.md).
+    For field information, see [Create new product capability form](eaw-create-new-product-capability-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with product capabilities](../../concept/eaw-concept/eaw-working-with-product-capabilities.md)
+**Parent Topic:**[Working with product capabilities](eaw-working-with-product-capabilities.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](eaw-exploring-product-capabilities.md)
 
 [View product capabilities associated with a business application](eaw-view-product-capabilities-associated-with-ba.md)
 

@@ -70,5 +70,5 @@ The system provides real-time status tracking of update operations, categorized 
 
 Entity-based restrictions are enabled or disabled at the record level for the scoped entity types.
 
-**Parent Topic:**[Managing Entity Based Access](../concept/using-entity-based-access.md)
+**Parent Topic:**[Managing Entity Based Access](using-entity-based-access.md)
 

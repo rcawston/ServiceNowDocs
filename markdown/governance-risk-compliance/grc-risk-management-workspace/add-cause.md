@@ -44,7 +44,7 @@ Add a risk event cause to the cause library to help with risk analysis, risk pre
 
 The risk event cause is added to the library.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](use-risk-events.md)
 
 **Related topics**  
 

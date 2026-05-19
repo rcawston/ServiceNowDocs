@@ -86,7 +86,7 @@ Use these suggestions to adjust system properties when segments are not performi
 **Related topics**  
 
 
-[Create a manual segment](../task/querygen-create-segment-manually.md)
+[Create a manual segment](querygen-create-segment-manually.md)
 
 [Manual segment data model and sync behavior](manual-segment-data-model-sync.md)
 

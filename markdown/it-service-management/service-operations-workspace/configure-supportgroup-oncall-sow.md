@@ -27,7 +27,7 @@ Role required: admin
 
 3.  To configure the support group recommendations, modify the **Script** field.
 
-    For information about how these groups are available for an incident, see [Experts on-call in Service Operations Workspace](../concept/on-call-sow.md#).
+    For information about how these groups are available for an incident, see [Experts on-call in Service Operations Workspace](on-call-sow.md#).
 
     ```
     getRecommendedGroups: function(table, sysId, fieldWatchList) {
@@ -70,5 +70,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](../concept/contextual-side-panel-configurations-sow-itsm.md)
+**Parent Topic:**[Contextual side panel configurations in Service Operations Workspace for ITSM](contextual-side-panel-configurations-sow-itsm.md)
 

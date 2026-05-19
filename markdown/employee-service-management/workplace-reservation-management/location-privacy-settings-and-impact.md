@@ -53,7 +53,7 @@ In a building record, specify your location privacy preferences in the following
     -   **None**: Select this option if you don’t have any particular privacy requirement. When you set this option, the location privacy override preference that is set in the Workplace Reservation Management system property **sn\_wsd\_core.OVERRIDE\_RESERVATION\_PRIVACY** is considered. The field is set to **None** by default.
     -   **Yes**: Select this option if you want to let employees override the privacy preference that is configured for the location that they want to reserve.
     -   **No**: Select this option if you want to restrict employees from overriding the privacy preference that is set on the location that they want to reserve.
-    To specify privacy on a building, refer to [Add a building using Workplace Space Management](../../workplace-space-management/task/add-new-building-1.md).
+    To specify privacy on a building, refer to [Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md).
 
 
 ## Workplace profile setting
@@ -66,14 +66,14 @@ The **Enable employee location privacy** field provides the following options:
 -   **Yes**: Select this option if you want to set privacy on the workplace profile.
 -   **No**: Select this option if you don’t want to set privacy on the workplace profile.
 
-To specify privacy on a workplace profile, refer to [Map designated workspaces to user profiles](../../workplace-service-delivery/task/map-employees-to-existing-workplace-locations-wsd.md). The location privacy is implemented as follows:
+To specify privacy on a workplace profile, refer to [Map designated workspaces to user profiles](../workplace-core/map-employees-to-existing-workplace-locations-wsd.md). The location privacy is implemented as follows:
 
 -   If set you set the field as **Yes**, then privacy is set on the workplace profile.
 -   If you set the field as **No**, then the workplace profile isn't set as private. Even if the building to which the workplace profile is located has privacy enabled, the workplace profile will still remain private.
 
 ## Reservable module setting
 
-Apart from the location privacy settings that you make in the system properties or on a building, the application also enables you to make a setting on the reservable module. You can enable employees to set the space details as private while making reserving a space that belongs to the reservable module. Use the **Enable employees to make spaces as private** option to specify your location preference. For more information, refer to [Configure a reservable module](../task/config-reservable-module.md).
+Apart from the location privacy settings that you make in the system properties or on a building, the application also enables you to make a setting on the reservable module. You can enable employees to set the space details as private while making reserving a space that belongs to the reservable module. Use the **Enable employees to make spaces as private** option to specify your location preference. For more information, refer to [Configure a reservable module](config-reservable-module.md).
 
 The privacy override of a space while making a reservation, depends on the following:
 
@@ -152,7 +152,7 @@ Depending on the location privacy preferences, the following areas are affected.
     If a reservation is made using the Reservable Sync Configuration, then the privacy is implemented on the reservation based on the privacy setup made on the building to which the space belongs.
 
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](rsv-mgmt-references.md)
 
 **Related topics**  
 
@@ -161,11 +161,11 @@ Depending on the location privacy preferences, the following areas are affected.
 
 [Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](workplace-reservation-management-field-descriptions.md)
 
 [Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](reservation-logic-for-myfavorites-space-details.md)
 
 [Mobile push notifications for workplace reservations](reservation-push-notifications.md)
 

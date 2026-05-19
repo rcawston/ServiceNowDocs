@@ -47,5 +47,5 @@ View expense reports, itemizations, and receipts of the SAP Concur account from 
 
 Base URL and relative path help display the fetched reports and expenses metadata from SAP Concur. The base URL and relative path help the approver navigate to SAP Concur from the respective approval or report for more details.
 
-**Parent Topic:**[Approvals hub integration with SAP Concur](../concept/x-concur-sa-integration.md)
+**Parent Topic:**[Approvals hub integration with SAP Concur](x-concur-sa-integration.md)
 

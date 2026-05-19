@@ -18,7 +18,7 @@ Trigger an AI agent that uses adaptive desktop actions from the Now Assist panel
 
 -   Confirm that the **ServiceNow Web Automation** Google Chrome extension is installed and connected to your ServiceNow® instance. For more information, see [Install the Google Chrome extension for adaptive desktop actions](na-ai-wa-install-browser-extension.md).
 -   Confirm that you're logged in to your ServiceNow instance and it is in the active state in the browser window.
--   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [Enhanced chat](../../../administer/now-assist-platform/concept/now-assist-panel-enhanced.md).
+-   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [Enhanced chat](now-assist-panel-enhanced.md).
 
 Role required: now\_assist\_panel\_user
 
@@ -52,7 +52,7 @@ Here are tips for writing successful requests for the LLM:
     -   Can you find the latest invoice from invoiceninja.com?
     -   Navigate to https://www.accuweather.com/. In the Search field, enter "zip code 95054" and search. In the search results, open the first page. Find the current temperature in degrees Fahrenheit and tell me the temperature.
     -   Navigate to en.wikipedia.org. On the main page of wikipedia.org, in the Search field, search for "Santa Clara, California". In the search results, open the first page listed, and read its contents. Summarize the contents of the page in 2 or 3 sentences.
-    In your conversations with AI agents, the actual wording of the questions and answers may be different from the given examples. For more information about Now Assist panel, see [Now Assist panel](../../../administer/now-assist-platform/concept/now-assist-panel-overview.md).
+    In your conversations with AI agents, the actual wording of the questions and answers may be different from the given examples. For more information about Now Assist panel, see [Now Assist panel](now-assist-panel-overview.md).
 
 4.  Review the execution plan proposed by the AI agent and confirm your approval.
 
@@ -95,5 +95,5 @@ You can delete the chat log in Now Assist panel if any sensitive information was
 -   **[Delete an AI agent chat log](na-ai-wa-delete-chat-log.md)**  
 After you close an AI agent session, you can delete its chat if any sensitive information was captured. Deleting your chat log permanently erases the chat history of that session, including screenshots.
 
-**Parent Topic:**[Examples of executing desktop actions using AI agents](../concept/use-agentic-desktop.md)
+**Parent Topic:**[Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
 

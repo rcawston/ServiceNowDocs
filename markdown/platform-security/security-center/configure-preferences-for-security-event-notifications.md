@@ -86,5 +86,5 @@ You can remove a notification by selecting **Remove notification**.
 -   **[Create a custom email for security event notifications](create-custom-email-for-security-event-notifications.md)**  
 Learn how for creating a custom email for security event notifications by configuring new notifications, setting triggers, defining recipients, and crafting email content with dynamic event fields.
 
-**Parent Topic:**[Security Event Notifications](../concept/security-policies.md)
+**Parent Topic:**[Security Event Notifications](security-policies.md)
 

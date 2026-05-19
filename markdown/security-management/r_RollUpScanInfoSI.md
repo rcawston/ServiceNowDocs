@@ -35,5 +35,5 @@ The output variables contain data that can be used in subsequent activities.
 |siId\[string\]|Security incident identifier.|
 |response \[string\]|Summary of lookup results including: IoC value, Result, Failure reason, lookup reference, and so on.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
 

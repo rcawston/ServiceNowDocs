@@ -19,11 +19,11 @@ Each Test Results record displays detailed results information about one test ex
 
 By default, the system deletes test and test suite results data 30 days after creation. You can modify this default retention policy as needed in the Table Cleanup module.
 
--   **[Test results record](../reference/atf-test-results-record.md)**  
+-   **[Test results record](atf-test-results-record.md)**  
 A Test Results record contains detailed results information about one test execution. Client Error Details and Failure Details sections appear when a test fails due to error conditions, and include detailed error information you can use for troubleshooting purposes.
--   **[Step results record](../reference/atf-step-result-record.md)**  
+-   **[Step results record](atf-step-result-record.md)**  
 The Step Results record contains information about one step in a test result. You access specific step results from the Step Results related list in the Test Results record.
--   **[Test logs record](../reference/atf-test-log-record.md)**  
+-   **[Test logs record](atf-test-log-record.md)**  
 The Test Results Item \(test log\) record contains console logging and test execution information.
 
 **Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)
@@ -31,7 +31,7 @@ The Test Results Item \(test log\) record contains console logging and test exec
 **Related topics**  
 
 
-[Modify data retention policy for ATF test results](../task/atf-edit-table-cleanup.md)
+[Modify data retention policy for ATF test results](atf-edit-table-cleanup.md)
 
 [Table Cleanup module](table-cleanup.md)
 

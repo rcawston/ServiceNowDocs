@@ -21,7 +21,7 @@ Role required: sn\_slm.admin
 
 ## About this task
 
-If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the Supplier Collaboration Portal. For more information, see [Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md).
+If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the Supplier Collaboration Portal. For more information, see [Configure properties for Supplier Case Management](config-prop-supp-mgmt.md).
 
 ## Procedure
 

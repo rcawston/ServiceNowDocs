@@ -72,6 +72,6 @@ Option to indicate that the pulse content is active and available for use.
 
     -   To add a question to content, click **New**. For more information, see [Create a pulse question](ec-create-pulseq.md).
     -   To add a question from Question Bank, click **From Question Bank**.
-    Add Content \(of type Pulse Content\) to a campaign in Content Experiences or schedule content in Content Publishing. For more information, see [Publishing content](../concept/ec-content-publishing-schedule.md).
+    Add Content \(of type Pulse Content\) to a campaign in Content Experiences or schedule content in Content Publishing. For more information, see [Publishing content](ec-content-publishing-schedule.md).
 
 

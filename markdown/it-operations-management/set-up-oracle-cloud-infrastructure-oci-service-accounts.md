@@ -21,9 +21,9 @@ Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servi
 
 -   **[OCI access and permission using policies](oci-access-and-permission-using-policies.md)**  
 Oracle Cloud Infrastructure \(OCI\) access and permission using policies provide privileges for secure cloud resource utilization and management in OCI.
--   **[Create Oracle API credentials](../task/create-oracle-api-credentials.md)**  
+-   **[Create Oracle API credentials](create-oracle-api-credentials.md)**  
 Create Oracle API credentials on the ServiceNow AI Platform to enable access to your Oracle resources during Oracle discovery.
--   **[Create OCI service accounts](../task/create-oci-service-accounts.md)**  
+-   **[Create OCI service accounts](create-oci-service-accounts.md)**  
 Create Oracle Cloud Infrastructure \(OCI\) service accounts on the ServiceNow AI Platform to access your Oracle account during Oracle discovery.
 
 **Parent Topic:**[Set up a cloud service account](setup-cloud-service-account.md)

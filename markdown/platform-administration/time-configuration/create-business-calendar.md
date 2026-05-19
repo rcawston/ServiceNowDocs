@@ -122,7 +122,7 @@ Description of the business calendar.
 
     Create, at minimum, one business calendar entry for the selected calendar.
 
-    **Note:** To learn more about creating business calendar entries, see [Define business calendar entries](define-business-calendar-entries.md#) and [Creating business calendars](../concept/business-calendars.md).
+    **Note:** To learn more about creating business calendar entries, see [Define business calendar entries](define-business-calendar-entries.md#) and [Creating business calendars](business-calendars.md).
 
 7.  In the Business Calendar Filter Options related list, select **New** to create filtering options for the business calendar.
 
@@ -141,5 +141,5 @@ If you create business calendar entries in the Business Calendar Entries related
 
 If you created business calendar filter options in the Business Calendar Filter Options related list, a record is saved in the Business Calendar Filter Option \(business\_calendar\_filter\_option\) table. The record is associated with the business calendar.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](business-calendars.md)
 

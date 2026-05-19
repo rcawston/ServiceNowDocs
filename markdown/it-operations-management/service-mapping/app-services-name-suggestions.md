@@ -77,7 +77,7 @@ Name suggestions taken from the top three application fingerprints associated wi
 **Related topics**  
 
 
-[Automated Service Suggestions](../concept/auto-serv-suggest.md)
+[Automated Service Suggestions](auto-serv-suggest.md)
 
-[Map application services based on Automated Service Suggestions](../task/map-application-suggestion.md)
+[Map application services based on Automated Service Suggestions](map-application-suggestion.md)
 

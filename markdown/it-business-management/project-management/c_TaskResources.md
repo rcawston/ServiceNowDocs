@@ -15,7 +15,7 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 Resources are the individuals or groups assigned to perform tasks and subtasks in Project Management.
 
-You can use Resource Management to [set up resource plans](../../resource-management/task/t_CreateResourcePlanProjectTask.md), which can be associated with projects. Activate [Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md) to use Resource Management with Project Management.
+You can use Resource Management to [set up resource plans](../resource-management/t_CreateResourcePlanProjectTask.md), which can be associated with projects. Activate [Project Portfolio Management](../ppm-collaboration/c_ProjectPortfolioSuite.md) to use Resource Management with Project Management.
 
 **Parent Topic:**[Basics of Project Management](c_ProjectTasks.md)
 
@@ -24,7 +24,7 @@ You can use Resource Management to [set up resource plans](../../resource-manage
 
 [Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -42,13 +42,13 @@ You can use Resource Management to [set up resource plans](../../resource-manage
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[Resource Management classic](../../resource-management/concept/c_ResourceManagement.md)
+[Resource Management classic](../resource-management/c_ResourceManagement.md)
 
-[Resource Management Workspace](../../resource-management-workspace/concept/rsrc-mgmt-wrkspc.md)
+[Resource Management Workspace](../resource-management/rsrc-mgmt-wrkspc.md)
 

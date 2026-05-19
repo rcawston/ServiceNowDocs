@@ -79,17 +79,17 @@ Under the Knowledge module in the Industrial Workspace list view, you can view k
     All articles that are available in the OT knowledge base.
 
 
--   **[Create a knowledge article from an OT incident record](../task/create-knowledge-base-article-from-incident.md)**  
+-   **[Create a knowledge article from an OT incident record](create-knowledge-base-article-from-incident.md)**  
 Create a knowledge article to record and save information that is related to an Operational Technology \(OT\) incident and its resolution.
--   **[Create a knowledge article in Industrial Workspace](../task/create-knowledge-base-article-in-industrial-workspace.md)**  
+-   **[Create a knowledge article in Industrial Workspace](create-knowledge-base-article-in-industrial-workspace.md)**  
 Create a knowledge article in Industrial Workspace to help cater an article's contents to the needs and solutions not directly related to an Operational Technology \(OT\) incident.
--   **[Report a knowledge gap from an OT incident record](../task/report-knowledge-base-gap.md)**  
+-   **[Report a knowledge gap from an OT incident record](report-knowledge-base-gap.md)**  
 Report a knowledge gap from an Operational Technology \(OT\) incident if you can't find relevant knowledge articles about the incident.
--   **[Approve requests to publish or retire a knowledge article](../task/approve-publish-edit-retire-requests.md)**  
+-   **[Approve requests to publish or retire a knowledge article](approve-publish-edit-retire-requests.md)**  
 Approve requests to publish or retire a knowledge article to help ensure that the knowledge base is up to date.
--   **[Assign feedback tasks](../task/assign-feedback-tasks.md)**  
+-   **[Assign feedback tasks](assign-feedback-tasks.md)**  
 Assign feedback tasks to a user to help make sure that the feedback task is addressed and the related knowledge article is updated.
--   **[Find information in the related knowledge articles for an OT incident](../task/display-related-knowledge-base-articles.md)**  
+-   **[Find information in the related knowledge articles for an OT incident](display-related-knowledge-base-articles.md)**  
 Find information in the related knowledge articles that are attached to an Operational Technology \(OT\) incident record for any previous resolutions that may be applicable.
 
 **Parent Topic:**[Operational Technology Knowledge Management](operational-technology-knowledge-management-landing-page.md)

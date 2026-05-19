@@ -85,5 +85,5 @@ Order in which the field appears in the search fields list. If there are multipl
 
 Use the **Default** column to set one search field as the default search field.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](working-with-contextual-search.md)
 

@@ -15,7 +15,7 @@ Specify which inbound emails to ignore or move to a particular mailbox.
 
 When an email is ignored, the email is saved to your instance but is not processed. You can access an ignored email by viewing its Email \[sys\_email\] record.
 
-The Email Filters \(com.glide.email\_filter\) plugin is active by default for releases after Kingston, for releases before Kingston, it needs to be activated, for more information see [Activate email filters](../task/t_ActivateEmailFilters.md).
+The Email Filters \(com.glide.email\_filter\) plugin is active by default for releases after Kingston, for releases before Kingston, it needs to be activated, for more information see [Activate email filters](t_ActivateEmailFilters.md).
 
 ## Default email filters
 
@@ -45,7 +45,7 @@ The system also adds the `X-ServiceNow-Virus:INFECTED` header to an email that c
 
 Spam scoring and virus scanning are available only for instances that use the ServiceNow email infrastructure. For more information on spam scoring and filtering, see [KB0549426](https://support.servicenow.com/kb_view.do?sysparm_article=KB0549426).
 
--   **[Create an email filter](../task/t_CreateAnEmailFilter.md)**  
+-   **[Create an email filter](t_CreateAnEmailFilter.md)**  
 You can create email filters to apply a custom action script or filter actions when email matches your filter's conditions.
 
 **Parent Topic:**[Creating an email account](using-email-admin.md)
@@ -53,5 +53,5 @@ You can create email filters to apply a custom action script or filter actions w
 **Related topics**  
 
 
-[Create an email filter](../task/t_CreateAnEmailFilter.md)
+[Create an email filter](t_CreateAnEmailFilter.md)
 

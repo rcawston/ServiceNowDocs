@@ -25,7 +25,7 @@ If you're an administrator, you create the workflows for your organization and c
 
 You can configure the definition of a lead-to-cash entity by defining a name and configuration ID on the Lead to Cash Entity form. The definition creates a back and forth flow of the information between the various entities.
 
-To learn how to create entity configurations, see [Create an entity configuration](../task/create-entity-configuration.md). To learn how to create entity mappings, see [Create an entity mapping](../task/create-entity-mapping.md).
+To learn how to create entity configurations, see [Create an entity configuration](create-entity-configuration.md). To learn how to create entity mappings, see [Create an entity mapping](create-entity-mapping.md).
 
 ## Reconfiguration
 

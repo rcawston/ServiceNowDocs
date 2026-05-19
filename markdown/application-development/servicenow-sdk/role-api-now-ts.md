@@ -24,7 +24,7 @@ For general information about user roles, see [Managing roles](https://raw.githu
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## Role object
 
@@ -151,7 +151,7 @@ Boolean
 
 </td><td>
 
-Flag that indicates whether the role is an Application Administrator role. For general information about application administration roles, see [Application administration](../../applications/concept/application-administration.md).Valid values:
+Flag that indicates whether the role is an Application Administrator role. For general information about application administration roles, see [Application administration](../application-administration.md).Valid values:
 
 -   true: The role is an Application Administrator.
 -   false: The role isn't an Application Administrator.

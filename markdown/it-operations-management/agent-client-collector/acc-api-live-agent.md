@@ -30,5 +30,5 @@ agentNow.hasAgent(‘158279505372b30034b8ddeeff7b1270’); // sys_id of agent
 
 ```
 
-**Parent Topic:**[Agent Client Collector Framework reference](../reference/agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
 

@@ -181,9 +181,9 @@ The FDS offering is now published. Providers can request foundation data based o
 **Related topics**  
 
 
-[Foundation data sync](../concept/service-bridge-v2-explore-foundation-data-sync.md)
+[Foundation data sync](service-bridge-v2-explore-foundation-data-sync.md)
 
-[Configuring outbound foundation data sync as consumers](../concept/using-provider-bound-fds-consumer.md)
+[Configuring outbound foundation data sync as consumers](using-provider-bound-fds-consumer.md)
 
-[Configuring inbound foundation data sync as providers](../concept/service-bridge-v2-configure-inboun-fds-providers.md)
+[Configuring inbound foundation data sync as providers](service-bridge-v2-configure-inboun-fds-providers.md)
 

@@ -42,5 +42,5 @@ To test the assignment rule, navigate to **Change** &gt; **Create New** and ente
 
 Save the change and see that it was automatically assigned to the **Database** group.
 
-**Parent Topic:**[Configuring Change Management](../concept/configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](configure-change-management.md)
 

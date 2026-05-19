@@ -34,5 +34,5 @@ Role required: admin
     The list of team members appears, organized by team administrators and team members.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

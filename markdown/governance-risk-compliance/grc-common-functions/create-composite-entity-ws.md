@@ -35,7 +35,7 @@ When you create a composite entity by combining two or more individual entities,
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New Entity form, see [Create new composite entity form](../Reference/create-new-composite-entity-form-ws.md).
+    For a description of the field values on the Create New Entity form, see [Create new composite entity form](create-new-composite-entity-form-ws.md).
 
 5.  Select **Save**.
 
@@ -43,13 +43,13 @@ When you create a composite entity by combining two or more individual entities,
 
     After saving the entity, an entity form is displayed with the Details tab, Hierarchy tab, and the following related lists.
 
-    For information on the fields in these related lists, see [An entity in the workspace view](../concept/entities-in-risk-ws.md).
+    For information on the fields in these related lists, see [An entity in the workspace view](entities-in-risk-ws.md).
 
 
--   **[Create new composite entity form](../Reference/create-new-composite-entity-form-ws.md)**  
+-   **[Create new composite entity form](create-new-composite-entity-form-ws.md)**  
 Use the Create New Entity form to create a composite entity by combining two or more entities from different entity classes using the Composite Entity Management application.
 
-**Parent Topic:**[Composite entity in Governance, Risk, and Compliance](../concept/composite-entity-in-grc.md)
+**Parent Topic:**[Composite entity in Governance, Risk, and Compliance](composite-entity-in-grc.md)
 
 **Related topics**  
 

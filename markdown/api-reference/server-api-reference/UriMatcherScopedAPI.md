@@ -19,7 +19,7 @@ The UriMatcher API requires the REST API Provider \(com.glide.rest\) plugin, whi
 
 This API is provided within the `sn_ws` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## UriMatcher - UriMatcher\(\)
 
@@ -140,7 +140,7 @@ Default: false
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|[UriMatcherResponse](../../UriMatcherResponseScoped/concept/UriMatcherResponseScopedAPI.md#)|UriMatcherResponse object with methods for returning detailed information about the match.|
+|[UriMatcherResponse](UriMatcherResponseScopedAPI.md#)|UriMatcherResponse object with methods for returning detailed information about the match.|
 
 This example checks if the URI matches the specified scheme and host.
 

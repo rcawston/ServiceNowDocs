@@ -14,7 +14,7 @@ breadcrumb: [Purchase Order Management, Source-to-Pay Operations, Finance and Su
 
 Plan and configure your implementation for Purchase Order Management.
 
--   **[Install Purchase Order Management](../task/install-purch-order-mgmt.md)**  
+-   **[Install Purchase Order Management](install-purch-order-mgmt.md)**  
 If you have the admin role, install the Purchase Order Management application \(com.snc.sn\_poem\_core\). The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 -   **[Assigning priority to a purchase order](assigning-priority-to-po.md)**  
 Purchase order exceptions are automatically assigned a priority level to indicate the most urgent issues.

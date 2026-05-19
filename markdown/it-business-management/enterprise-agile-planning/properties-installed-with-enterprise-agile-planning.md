@@ -43,7 +43,7 @@ sn\_align\_core\_scrum\_epic,sn\_align\_core\_capability,sn\_align\_core\_featur
 **Important:** Any item, which is an extension of the Enterprise agile planning item \[sn\_align\_core\_eap\_planning\_item\] table must be entered before **rm\_story**.
 
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure display of other work item types in EAP Backlog and Planning board](../task/configure-other-work-item-types-for-eap-teams-in-backlog-and-planning-board.md)
+-   Learn more: [Configure display of other work item types in EAP Backlog and Planning board](configure-other-work-item-types-for-eap-teams-in-backlog-and-planning-board.md)
 
 </td></tr><tr><td>
 
@@ -56,9 +56,9 @@ Enables the Hierarchy view in Enterprise Agile Planning to display work items in
  -   Type: true \| false
 -   Default value: false
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Enable Hierarchy tab in EAP](../task/hierarchy-enable-eap.md)
+-   Learn more: [Enable Hierarchy tab in EAP](hierarchy-enable-eap.md)
 
-This property is available only after the **Populate parent level data for work item** fix script is run. For more information, see [Enable Hierarchy tab in EAP](../task/hierarchy-enable-eap.md).
+This property is available only after the **Populate parent level data for work item** fix script is run. For more information, see [Enable Hierarchy tab in EAP](hierarchy-enable-eap.md).
 
 
 </td></tr></tbody>

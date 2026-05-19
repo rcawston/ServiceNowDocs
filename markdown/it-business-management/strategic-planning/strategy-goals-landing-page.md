@@ -21,23 +21,23 @@ A board is a collection of strategic plans, strategic priorities, goals, and tar
 
 <table id="table_kzf_qkz_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value of Strategy and Goals in Strategic Planning](../concept/explore-strategy-goal-strategy.md)
+[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value of Strategy and Goals in Strategic Planning](explore-strategy-goal-strategy.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure strategy and goals preferences](../concept/configuring-strategy-goal-strategy.md)
+[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure strategy and goals preferences](configuring-strategy-goal-strategy.md)
 
 </td><td>
 
-[Manage boards ![](../../../reuse/icons/brand-icons/bus-manage.svg) Organize enterprise goals and targets in a single, focused view](../concept/managing-boards-strategy.md)
+[Manage boards ![](../../../reuse/icons/brand-icons/bus-manage.svg) Organize enterprise goals and targets in a single, focused view](managing-boards-strategy.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Define strategic plans, priorities, create goals, set targets, and evaluate the progress](../concept/managing-strategic-goals-strategy.md)
+[Use ![](../../../reuse/icons/brand-icons/bus-alignment.svg) Define strategic plans, priorities, create goals, set targets, and evaluate the progress](managing-strategic-goals-strategy.md)
 
 </td><td>
 
-[AI capabilities![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate targets and insights for goals with Now Assist for SPM](../task/generate-insights-for-goal-strategy.md)
+[AI capabilities![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate targets and insights for goals with Now Assist for SPM](generate-insights-for-goal-strategy.md)
 
 </td><td>
 

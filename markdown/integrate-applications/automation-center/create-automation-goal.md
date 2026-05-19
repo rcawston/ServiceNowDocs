@@ -31,12 +31,12 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation goal form](../reference/automation-goal-form.md).
+    For a description of the field values, see [Automation goal form](automation-goal-form.md).
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](automations.md)
 
 **Related topics**  
 

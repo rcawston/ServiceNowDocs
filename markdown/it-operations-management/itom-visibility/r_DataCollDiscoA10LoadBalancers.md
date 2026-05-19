@@ -596,5 +596,5 @@ Service Mapping discovers the connections between the A10 load balancers and app
 
 ![A10 load balancer application service map](../image/A10LoadBalancerServiceWatchMap.png "A10 load balancer application service map")
 
-**Parent Topic:**[Load balancer discovery](../concept/c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
 

@@ -31,9 +31,9 @@ Follow these steps to export and import product catalog entities.
 
 |Step|Description|
 |----|-----------|
-|[Add Code field values to catalog entities](../task/run-fix-script-sched-job-export.md)|Add the **Code** field values for the main product catalog entities on your source and target instances.|
-|[Export product catalog entities](../task/export-product-catalog-entities.md)|Export product catalog entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
-|[View export job status](../task/view-export-job-status.md)|Check the state of the export job.|
-|[Import product catalog entities](../task/import-product-catalog-entities.md)|Import product entities exported as JSON files to another instance.|
-|[View import job status](../task/view-import-job-status.md)|Check the state of the import job.|
+|[Add Code field values to catalog entities](run-fix-script-sched-job-export.md)|Add the **Code** field values for the main product catalog entities on your source and target instances.|
+|[Export product catalog entities](export-product-catalog-entities.md)|Export product catalog entities from one instance to another. The entities are exported as JSON and are downloaded to your local download directory.|
+|[View export job status](view-export-job-status.md)|Check the state of the export job.|
+|[Import product catalog entities](import-product-catalog-entities.md)|Import product entities exported as JSON files to another instance.|
+|[View import job status](view-import-job-status.md)|Check the state of the import job.|
 

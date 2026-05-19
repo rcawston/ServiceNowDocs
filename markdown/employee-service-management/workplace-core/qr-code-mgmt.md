@@ -28,9 +28,9 @@ As an employee, use your Now Mobile app to scan the QR code and view the reserva
 -   Update the reservation.
 -   Cancel the reservation.
 
--   **[Generate and print QR code for a space or room](../task/generate-qr-code-1.md)**  
+-   **[Generate and print QR code for a space or room](../employee-service-management/generate-qr-code-1.md)**  
 Generate and print a QR code for a single space or room, or for multiple spaces or rooms. Employees can scan the QR code to view their reservation details using the Now Mobile app.
--   **[Manage QR codes](../task/manage-qr-codes.md)**  
+-   **[Manage QR codes](manage-qr-codes.md)**  
 View, update, or print the already generated QR codes in the application. Before printing, you can change the conditions of already generated QR codes if required.
 
 **Parent Topic:**[Manage workplace safety activities](manage-wsd-activites.md)
@@ -38,25 +38,25 @@ View, update, or print the already generated QR codes in the application. Before
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](../task/import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](../task/add-space-type-configuration-wsd.md)
+[Add a space type configuration](add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](../task/configure-workplace-card.md)
+[Configure a workplace card](configure-workplace-card.md)
 
-[Block a workplace location](../task/block-workplace-location.md)
+[Block a workplace location](block-workplace-location.md)
 
 [Configure Workplace entity and entity types](workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](../task/confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](../task/create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](create-workplace-performer-criteria.md)
 
 [Mapping employees to their designated workspaces](mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](../task/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
 [Configuring shifts for your workplace](configuring-shifts-for-your-workplace-wsd.md)
 
@@ -66,7 +66,7 @@ View, update, or print the already generated QR codes in the application. Before
 
 [Setting and tracking arrivals at the workplace](scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Approve employee workplace reservation requests](../task/approve-workplace-reservation-requests-wsd.md)
+[Approve employee workplace reservation requests](approve-workplace-reservation-requests-wsd.md)
 
 [Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 
@@ -74,5 +74,5 @@ View, update, or print the already generated QR codes in the application. Before
 
 [Location migration](location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](appsee-intergration-wsd.md)
 

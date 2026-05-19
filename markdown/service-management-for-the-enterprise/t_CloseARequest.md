@@ -26,10 +26,10 @@ When you close a request, you can add details that you want the submitter to be 
 5.  Click **Update**.
 
 
--   **[Closed and completed requests](../concept/c_ClosedAndCompletedRequests.md)**  
+-   **[Closed and completed requests](c_ClosedAndCompletedRequests.md)**  
 When the **Request lifecycle** option is set to **request-driven**, the assigned agent can complete and close the request once all the tasks in the request are complete.
 
-**Parent Topic:**[Facilities requests](../../facilities-service-management/concept/c_FacilitiesRequests.md)
+**Parent Topic:**[Facilities requests](c_FacilitiesRequests.md)
 
-**Parent Topic:**[Request Management in a Service Management application](../concept/rm-sm-application.md)
+**Parent Topic:**[Request Management in a Service Management application](rm-sm-application.md)
 

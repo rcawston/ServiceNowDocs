@@ -37,7 +37,7 @@ Localization Workspace is available for on-premise \(self-hosted\) customers. It
 |Localization requester|localization\_requestor|
 |Localization Workspace user|sn\_lw.user|
 
-Many of the user roles in Localization Workspace are derived from roles in Localization Framework. For more information see [Localization Framework Roles](../../localization-framework/reference/roles-localization-framework.md#).
+Many of the user roles in Localization Workspace are derived from roles in Localization Framework. For more information see [Localization Framework Roles](../localization-framework/roles-localization-framework.md#).
 
 ## Localization Workspace benefits
 

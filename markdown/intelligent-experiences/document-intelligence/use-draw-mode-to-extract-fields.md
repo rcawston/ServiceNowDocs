@@ -15,7 +15,7 @@ breadcrumb: [Complete a document task, Use, Document Intelligence, Enable AI exp
 
 Use the draw tool to extract information directly from text andtables on the document image.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the draw tool
 
@@ -127,7 +127,7 @@ You can select multiple sections of a table throughout the pages of a document.
 
 1.  In the document fields panel, expand the Tables section.
 
-    The Tables section only displays fields assigned to a table [field group](../task/manage-keys.md).
+    The Tables section only displays fields assigned to a table [field group](manage-keys.md).
 
 2.  Select a table in the Tables section.
 

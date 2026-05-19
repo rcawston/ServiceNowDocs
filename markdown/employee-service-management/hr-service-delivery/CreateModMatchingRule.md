@@ -107,5 +107,5 @@ Script to define advanced matching rule functionality. Current.variable\_pool se
 4.  Reopen the case and check that the correct matching information was added.
 
 
-**Parent Topic:**[Assignment and matching rules in HR](../concept/c_UseAssignmentRules-1.md)
+**Parent Topic:**[Assignment and matching rules in HR](../employee-service-management/c_UseAssignmentRules-1.md)
 

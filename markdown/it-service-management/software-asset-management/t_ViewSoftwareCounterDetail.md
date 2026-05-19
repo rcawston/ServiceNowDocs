@@ -36,7 +36,7 @@ Role required: sam
     |Software usage|Name of the related [software usage record](t_ViewAUsageCounterResult.md), if applicable.|
     |Software counter|Name of the related [software counter](t_CreateASoftwareCounter.md).|
     |Software counter summary|Name of the related [software counter summary](t_ViewASoftwareCounterSummary.md).|
-    |Valuation|A valuation of 1 indicates that the license right is being used. A valuation of 0 indicates that the license right is part of a [software suite](../../product-catalog/concept/c_Models.md), or that the license allows more than one installation per right. The 0 indicates that this installation does not count against the license.|
+    |Valuation|A valuation of 1 indicates that the license right is being used. A valuation of 0 indicates that the license right is part of a [software suite](../product-catalog/c_Models.md), or that the license allows more than one installation per right. The 0 indicates that this installation does not count against the license.|
     |Entitlement|Name of the related [software license entitlement](t_CreatSWLicenseEntitlemnt.md), if applicable. This field is blank if the type is Not entitled or Not allocated.|
     |Software license|Name of the related [software license](t_AddANewSoftwareLicense.md), if applicable. This field is blank if the type is Not entitled.|
     |Usage Section|
@@ -46,5 +46,5 @@ Role required: sam
     |Duration|Total duration of foreground and background software usage, based the related software usage record.|
 
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](../concept/c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
 

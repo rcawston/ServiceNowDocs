@@ -37,14 +37,14 @@ An inbound request transitions through a series of states as ServiceNow AI Platf
 The domain order forms enable you to review and modify the domain product orders, service orders, and resource orders for a selected customer or service order.
 -   **[Components installed Fallout Management](components-installed-fallout-management.md)**  
 Several types of components are installed with activation of the Fallout Management plugin, including tables and user roles.
--   **[Fallout Management data model](../concept/order-mgt-fallout-management.md)**  
+-   **[Fallout Management data model](order-mgt-fallout-management.md)**  
 Manage and fix the processing issues that occur during the fulfillment of a customer or service order. With Fallout Management, you can identify the order processing exceptions and create a fallout record to investigate and resolve the underlying processing issue. Fallout Management enables a customer or service order to continue until it's completed.
 -   **[Fallout form fields](fields-create-fallout-form.md)**  
 The Fallout form enables you to manually create, review, and modify the order fallout records.
--   **[Jeopardy Management roles and personas](../concept/jeopardy-management-roles.md)**  
+-   **[Jeopardy Management roles and personas](jeopardy-management-roles.md)**  
 Learn more about how the roles and personas in Order Management may change by adopting Jeopardy Management.
--   **[Domain separation and Order Management](../concept/order-mgt-domain-separation.md)**  
+-   **[Domain separation and Order Management](order-mgt-domain-separation.md)**  
 Domain separation is supported for Order Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Sales Customer Relationship Management reference](../concept/som-reference.md)
+**Parent Topic:**[Sales Customer Relationship Management reference](som-reference.md)
 

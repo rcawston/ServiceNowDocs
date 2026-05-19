@@ -83,7 +83,7 @@ Display name of the notification destination.Teams see this name when adding not
 To use and learn more about notification destinations, visit the following pages:
 
 -   [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md)
--   [Notifications for breached error budgets](../reference/srm-notifications-messages.md)
+-   [Notifications for breached error budgets](srm-notifications-messages.md)
 
 You can also edit and delete notification destinations from the SLO Notification destinations tab. Deleting a notification destination removes it from all error budget policies where it was previously used.
 

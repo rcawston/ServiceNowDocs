@@ -56,7 +56,7 @@ Then you define the action inputs, which are the parameters that enable agents t
 
     2.  In the **Document** field, select the desired action by clicking the lookup icon.
 
-        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [Creating guidance and field recommendation in Recommended Actions](../concept/ra-csm-config-recommendations.md).
+        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [Creating guidance and field recommendation in Recommended Actions](ra-csm-config-recommendations.md).
 
     3.  Select **OK**.
 

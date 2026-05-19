@@ -20,5 +20,5 @@ Several types of components are installed with activation of the HR Service Deli
 -   **[Worker profile synchronization limitations](limit-w-sync.md)**  
 Limitations to the data that is synchronized from Workday to ServiceNow.
 
-**Parent Topic:**[Integration of HR Service Delivery with third-party systems](../concept/integrate-third-party-systems.md)
+**Parent Topic:**[Integration of HR Service Delivery with third-party systems](integrate-third-party-systems.md)
 

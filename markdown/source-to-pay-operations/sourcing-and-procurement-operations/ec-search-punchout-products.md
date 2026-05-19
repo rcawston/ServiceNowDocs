@@ -39,8 +39,8 @@ Role required: sn\_shop.shopper
 
     -   If you've installed Shopping Hub, you are redirected back to Shopping Hub from the supplier site to complete the checkout process.
     -   If you haven't installed Shopping Hub, you must complete the checkout process and place the order on the supplier site.
-    For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](../reference/ec-sh-checkout-flow.md).
+    For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](ec-sh-checkout-flow.md).
 
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
 

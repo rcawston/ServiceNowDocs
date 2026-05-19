@@ -65,5 +65,5 @@ Table transform map is associated with the table to transform the `File Based Ca
 -   **[Payloads samples and errors](payloads-information.md)**  
 Use the following sample payloads to enable procurement data import and export.
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
 

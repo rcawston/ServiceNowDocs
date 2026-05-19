@@ -169,5 +169,5 @@ Mapping of the Thomson Reuters platform taxonomy to internal taxonomy.
 |sn\_grc\_reg\_change\_ content\_type|Regulatory Content Type|
 |sn\_grc\_reg\_change\_ jurisdiction|Regulatory Jurisdiction|
 
-**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](../concept/grc-trri-integration.md)
+**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](grc-trri-integration.md)
 

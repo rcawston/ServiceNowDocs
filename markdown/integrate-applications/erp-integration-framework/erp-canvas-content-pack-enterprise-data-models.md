@@ -583,5 +583,5 @@ ERP
 RFC/BAPI
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Zero Copy Connector for ERP Enterprise Data Foundation content pack](../concept/erp-canvas-enterprise-data-foundation-content-pack.md)
+</table>**Parent Topic:**[Zero Copy Connector for ERP Enterprise Data Foundation content pack](erp-canvas-enterprise-data-foundation-content-pack.md)
 

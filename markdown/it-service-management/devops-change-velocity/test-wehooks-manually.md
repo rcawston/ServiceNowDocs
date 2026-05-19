@@ -91,7 +91,7 @@ Split.io doesn't provide an option to directly test for webhook connectivity. If
 
     ![Configure ServiceNow DevOps application.](../image/test-wh-man-07.png)
 
-    Check if the ServiceNow DevOps application is configured correctly in Split.io. For details on configuring, see [Enable integration with ServiceNow DevOps in Split tool](../task/enable-integration-servicenow-devops-split.md).
+    Check if the ServiceNow DevOps application is configured correctly in Split.io. For details on configuring, see [Enable integration with ServiceNow DevOps in Split tool](enable-integration-servicenow-devops-split.md).
 
 -   Check if the status of the ServiceNow DevOps application is **Active**.
 
@@ -171,7 +171,7 @@ Role required:
 -   Argo CD: Argo CD admin privileges
 -   DevOps Change: sn\_devops.admin or sn\_devops.tool\_owner
 
-Argo CD doesn't provide an option to directly test for webhook connectivity. To configure webhooks, see [Configure webhooks in Argo CD manually](../task/configure-webhooks-in-argo-cd-manually.md).
+Argo CD doesn't provide an option to directly test for webhook connectivity. To configure webhooks, see [Configure webhooks in Argo CD manually](configure-webhooks-in-argo-cd-manually.md).
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
 

@@ -17,7 +17,7 @@ The Service instance dashboard enables you to monitor and manage service instanc
 
 ## Working in the dashboard
 
-A report on the dashboard, for example, can direct you to a service instance that is not configured with a service population method so you can repair it. For information on working in the dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+A report on the dashboard, for example, can direct you to a service instance that is not configured with a service population method so you can repair it. For information on working in the dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](../configuration-management-database-cmdb/app-service-dashboard.md).
 
 **Note:** Before the Australia release, this dashboard was called the Application Services dashboard.
 

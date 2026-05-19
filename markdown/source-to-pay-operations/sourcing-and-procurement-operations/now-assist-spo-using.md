@@ -29,7 +29,7 @@ You could also directly start typing what you need, in which case the utterance 
 
 The Virtual Agent engages you in a guided conversation, asking you relevant questions along the way to help you submit your purchase, sourcing, and off-catalog requests, as well as procurement cases, independently, without the need to reach out to fulfillers. You can then review and track these request records from Shopping Hub, Employee Center, or Platform.
 
-To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](../task/order-a-product.md) and [Complete sourcing checkout](../task/complete-sourcing-checkout.md) respectively. For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md).
+To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](order-a-product.md) and [Complete sourcing checkout](complete-sourcing-checkout.md) respectively. For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](request-prod-serv-dont-see-sh.md).
 
 Now Assist in Virtual Agent provides your users with an interactive generative Artificial Intelligence \(AI\) experience. A friendly, natural language conversation is easier to understand and makes requesters more comfortable with talking to a bot. To learn how a conversation powered by generative AI might look in Virtual Agent, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
@@ -37,19 +37,19 @@ As an administrator, you can use the Now Assist in Virtual Agent Analytics dashb
 
 For detailed information on Now Assist in Virtual Agent in general, and Now Assist for SPO in particular, see [Explore Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo-exploring.md).
 
-For information on configuring Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md).
+For information on configuring Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md).
 
--   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](../task/now-assist-spo-summarize-record.md)**  
+-   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](now-assist-spo-summarize-record.md)**  
 As a fulfiller, summarize procurement-related records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
--   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](../task/now-assist-spo-summarize-shopping.md)**  
+-   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)**  
 As a shopper, summarize sourcing request, purchase requisition, and purchase order records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
--   **[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](../task/request-gen-ai-capabilities-spo-now-assist-panel.md)**  
+-   **[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)**  
 Request the contextual generative AI capabilities to summarize procurement-related records in the Now Assist for Sourcing and Procurement Operations \(SPO\) application by using the conversational interface in the Now Assist panel.
 -   **[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](now-assist-spo-va-using.md)**  
 Request the contextual generative AI capabilities by using the conversational interface in the Now Assist for Sourcing and Procurement Operations \(SPO\) in a Virtual Agent chat.
--   **[Generate email responses](../task/email-response-na-spo.md)**  
+-   **[Generate email responses](email-response-na-spo.md)**  
 Enables procurement specialists and buyers to generate professional, accurate email responses using Now Assist. By minimizing manual drafting and review, it helps procurement specialists and buyers respond to requester inquiries more efficiently and focus on higher-value procurement tasks.
--   **[Analyze sentiment in procurement cases](../task/analyze-sentiments-na-spo.md)**  
+-   **[Analyze sentiment in procurement cases](analyze-sentiments-na-spo.md)**  
 Analyze requester sentiments on active procurement cases to help procurement specialists quickly identify, prioritize, and track sensitive requests.
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)

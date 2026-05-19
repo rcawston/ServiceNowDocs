@@ -52,7 +52,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
 5.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](now-assist-itsm-skills.md).
 
     1.  Enter a name and description for the skill.
 

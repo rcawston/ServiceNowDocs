@@ -47,5 +47,5 @@ If a collection is reported as a knowledge gap, a feedback task of type Unsucces
 **Related topics**  
 
 
-[Self-Service Analytics dashboard for Customer Service Management](../../dashboards/application-content-packs/ssa-cs-dashboard.md)
+[Self-Service Analytics dashboard for Customer Service Management](ssa-cs-dashboard.md)
 

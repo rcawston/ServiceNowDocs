@@ -17,7 +17,7 @@ Major Incident Overview module provides two versions of the Performance Analytic
 
 **Important:**
 
-Starting in Xanadu release, the Major incident overview dashboard is deprecated. Users can use [Major incident dashboard](../../../use/dashboards/application-content-packs/performance-analytics/major-incident.md) to view the process and communication related metrics for Open and Closed major incidents.
+Starting in Xanadu release, the Major incident overview dashboard is deprecated. Users can use [Major incident dashboard](../major-incident.md) to view the process and communication related metrics for Open and Closed major incidents.
 
 Users with itil, sn\_incident\_write, major\_incident\_manager or communication\_manager role can access the dashboard.
 

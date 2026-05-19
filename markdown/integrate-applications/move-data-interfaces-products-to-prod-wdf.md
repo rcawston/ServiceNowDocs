@@ -19,7 +19,7 @@ Before you begin, verify the following:
 
 -   A local update set is active in the subproduction instance with the same application scope as your data interfaces and data products.
 -   All data interfaces and data products you want to move are published in the subproduction instance.
--   Zero-copy connectors for all source systems are configured in the production instance. For setup instructions, see [Zero copy connectors documentation](../../../build/zero-copy-connectors/concept/zero-copy-connectors.md).
+-   Zero-copy connectors for all source systems are configured in the production instance. For setup instructions, see [Zero copy connectors documentation](zero-copy-connectors.md).
 -   Role required: Admin
 
 ## About this task

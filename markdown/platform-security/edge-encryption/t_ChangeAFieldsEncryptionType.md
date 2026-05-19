@@ -31,10 +31,10 @@ Role required: security\_admin
 
     **Note:** For attachments, only Standard AES128 and Standard AES256 are allowed.
 
-4.  If needed, run an [encryption](../concept/c_ConfigureCloudEdge.md#) or [attachment encryption](../concept/c_EncryptingAttachments.md#) job.
+4.  If needed, run an [encryption](c_ConfigureCloudEdge.md#) or [attachment encryption](c_EncryptingAttachments.md#) job.
 
     It is not necessary to run an encryption job. If you do not run an encryption job, the field or attachment is encrypted using the new encryption type the next time the field or attachment is changed.
 
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
 

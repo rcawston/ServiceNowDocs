@@ -35,7 +35,7 @@ Open
 
 State on alert creation. From this state you can acknowledge and set to:-   **Flapping**
 
-Flapping occurs when the event source continues to generate events even after its associated alert has been closed. See [Configure alert flapping](../../event-management/task/t_EMConfigAlertStateFlapDetect.md) for more information on event flapping.
+Flapping occurs when the event source continues to generate events even after its associated alert has been closed. See [Configure alert flapping](../event-management/t_EMConfigAlertStateFlapDetect.md) for more information on event flapping.
 
 -   **Closed**
 

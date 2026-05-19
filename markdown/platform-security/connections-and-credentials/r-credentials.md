@@ -17,15 +17,15 @@ Credentials and connection information are required to gain access to a computer
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Credentials.](../concept/credentials-connections-alias.md)
+[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Credentials.](credentials-connections-alias.md)
 
 </td><td>
 
-[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Credentials.](../task/t_CreateCredential.md)
+[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Credentials.](t_CreateCredential.md)
 
 </td></tr><tr><td>
 
-[Reference ![Reference](../../../common/image/icon-reference.png) Get details about Credentials.](../concept/c_ExternalCredentialStorage.md)
+[Reference ![Reference](../../../common/image/icon-reference.png) Get details about Credentials.](c_ExternalCredentialStorage.md)
 
 </td><td>
 

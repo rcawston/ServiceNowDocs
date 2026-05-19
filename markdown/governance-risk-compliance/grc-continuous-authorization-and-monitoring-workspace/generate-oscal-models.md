@@ -56,5 +56,5 @@ Role required:
     For more information on OSCAL import error, see the [OSCAL Import \[KB1794095\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1794095) article in the Now Support Knowledge Base.
 
 
-**Parent Topic:**[Export in OSCAL format](../concept/oscal-support-cam.md)
+**Parent Topic:**[Export in OSCAL format](oscal-support-cam.md)
 

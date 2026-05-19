@@ -31,5 +31,5 @@ For more information on support levels, see [Application support for domain sepa
 
 After you enable domain separation on your ServiceNow instance, the Goal Framework and Goal Framework for SPM data is automatically domain separated. The goals and targets data of portfolio plans for different domains are visible to only those users who have access to these domains.
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](../reference/goal-framework-reference.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
 

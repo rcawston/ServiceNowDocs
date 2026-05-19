@@ -19,7 +19,7 @@ View or update a task whenever you want to get the details or update the progres
 
 Verify that you have installed the required plugins.
 
-Refer to [Workplace Agent for mobile - Key features, actions, and case details](../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md) for detailed information of all the actions available.
+Refer to [Workplace Agent for mobile - Key features, actions, and case details](workplace-agent-mob-key-features-workstats-casedetailspage.md) for detailed information of all the actions available.
 
 Role required: sn\_wsd\_case.workplace\_agent
 
@@ -101,7 +101,7 @@ Role required: sn\_wsd\_case.workplace\_agent
     The task is saved in the **Saved** tab. You can view the task at any time from this tab directly.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](use-workplace-agent-mobile.md)
 
 **Related topics**  
 

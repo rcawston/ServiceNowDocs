@@ -25,12 +25,12 @@ The Capacity Definition form enables you to describe the details for a capacity 
 |Entity table|Entity table where you’re querying. The sys class name must either be the entity table or a subclass derived from the entity table.|
 |Conditions|Any additional query condition. The query condition must be valid to run the capacity definition.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create capacity definition](../task/create-capacity-definition.md)
+[Create capacity definition](create-capacity-definition.md)
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](capacity-management-reporting.md)
 

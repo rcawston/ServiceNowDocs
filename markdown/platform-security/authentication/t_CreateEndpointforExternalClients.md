@@ -95,7 +95,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select to only allow tokens to be used with APIs set to allow the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](../../../integrate/authentication/task/create-api-access-policy.md).Default: Unselected.
+Select to only allow tokens to be used with APIs set to allow the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](create-api-access-policy.md).Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Client Type
 Choose the client type, based on the type of your client. Options:-   **Iframe Embedded**
 -   **Integration as a User**
 -   **Integration as a Service**
-To know more, see [Configure client type for OAuth and SSO records](../../../integrate/authentication/concept/client-type.md).
+To know more, see [Configure client type for OAuth and SSO records](client-type.md).
 
 </td></tr></tbody>
 </table>3.  Click **Submit**.

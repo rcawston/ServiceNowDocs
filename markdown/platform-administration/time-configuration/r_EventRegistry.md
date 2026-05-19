@@ -38,10 +38,10 @@ For example:
     You can also use events to trigger Email Notifications when an event is recorded in the log.
 
 
-**Parent Topic:**[Event scheduling](../../time/concept/c_ScheduleEvents.md)
+**Parent Topic:**[Event scheduling](c_ScheduleEvents.md)
 
 **Related topics**  
 
 
-[Set an inactivity monitor](../../time/task/t_SetAnInactivityMonitor.md)
+[Set an inactivity monitor](t_SetAnInactivityMonitor.md)
 

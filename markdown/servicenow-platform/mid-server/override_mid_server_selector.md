@@ -17,7 +17,7 @@ Use the override feature to write your own filter condition that overrides the n
 
 ## Before you begin
 
-Before attempting to create an override filter, be sure you understand the criteria the platform uses to select MID Servers. See [MID Server selection](../concept/c_MIDServerSelector.md) for details.
+Before attempting to create an override filter, be sure you understand the criteria the platform uses to select MID Servers. See [MID Server selection](c_MIDServerSelector.md) for details.
 
 Role required: admin
 
@@ -73,5 +73,5 @@ var result = [];
  }
 ```
 
-**Parent Topic:**[MID Server selection](../concept/c_MIDServerSelector.md)
+**Parent Topic:**[MID Server selection](c_MIDServerSelector.md)
 

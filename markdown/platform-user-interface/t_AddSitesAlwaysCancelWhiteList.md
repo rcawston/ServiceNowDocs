@@ -34,7 +34,7 @@ User actions can always cancel items on the list. You should only add items to t
 5.  Select **Update**.
 
 
-**Parent Topic:**[Navigation action cancellation](../concept/c_CancelingNavigationActions.md)
+**Parent Topic:**[Navigation action cancellation](c_CancelingNavigationActions.md)
 
 **Related topics**  
 

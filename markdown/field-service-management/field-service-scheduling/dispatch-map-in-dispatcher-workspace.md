@@ -21,8 +21,8 @@ You can manage tasks and routing from the map, filter the view, and determine wh
 -   Map pins in the Dispatcher Workspace map mark the location of tasks and agents in the dispatcher's area. The icons serve as access points to corresponding records. Unique task pins are displayed based on the state of the work order task.
 -   Map pins corresponding to a single task or agent show in the contextual side panel with scheduling information.
 -   The map shows individual markers, not every task on the map. Showing individual markers is important because multiple tasks or agents might be at a single location, but only indicated by a single map marker.
--   To optimize performance, the map only renders current tasks that are loaded on the calendar, not every task that’s available. You can change this setting so that more tasks are loaded on the page, which causes more markers to show on the map. For more information, see [Determine the tasks to appear in the task panel](../task/configuring-filters-for-taskpanel.md).
--   If you want to change each cluster to show the total count of tasks and agents, see the sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.cluster\_label property here: [Configure the appearance of the map in Dispatcher Workspace](../task/configuring-map-settings.md).
+-   To optimize performance, the map only renders current tasks that are loaded on the calendar, not every task that’s available. You can change this setting so that more tasks are loaded on the page, which causes more markers to show on the map. For more information, see [Determine the tasks to appear in the task panel](../configuring-filters-for-taskpanel.md).
+-   If you want to change each cluster to show the total count of tasks and agents, see the sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.cluster\_label property here: [Configure the appearance of the map in Dispatcher Workspace](../configuring-map-settings.md).
 
 -   If an agent has a closed task today or a work in progress task, then the map pin shows the agent at the task location of whichever is latest: the task work end time for a closed task, or task work start time for a work in progress task. Otherwise, the map pin shows the agent's location in user record \(the default location\).
 
@@ -33,5 +33,5 @@ You can manage tasks and routing from the map, filter the view, and determine wh
 **Related topics**  
 
 
-[Execute a task from the agent map](../../planning-and-policy/task/t_ExecuteATaskFromTheAgentMap.md)
+[Execute a task from the agent map](../work-order-management/t_ExecuteATaskFromTheAgentMap.md)
 

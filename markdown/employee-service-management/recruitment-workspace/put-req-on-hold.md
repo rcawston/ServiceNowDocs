@@ -37,14 +37,14 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
         -   If you choose the other reason option from the list of reasons, providing comments in the notes is required.
         -   If a requisition is closed while it was on hold, the on hold state won't be retained.
-    You can put a Job requisition on hold regardless of its state. For more information on the requisition state maangement, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    You can put a Job requisition on hold regardless of its state. For more information on the requisition state maangement, see [Job requisition state management](job-req-state-mngmnt.md).
 
 
 ## Result
 
 The requisition is put on hold and displays the last state along with the on hold badge when searched.
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](manage-job-reqs.md)
 
 **Related topics**  
 

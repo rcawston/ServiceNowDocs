@@ -99,5 +99,5 @@ For new custom mappings, specify the combination of portal and table values to f
 </table>5.  Select **Save** to enter a new mapping or update an existing mapping.
 
 
-**Parent Topic:**[URL navigation in Conversational Interfaces](../concept/url-navigation-ci.md)
+**Parent Topic:**[URL navigation in Conversational Interfaces](url-navigation-ci.md)
 

@@ -38,11 +38,11 @@ For more information, see [Release for a product or service](dpr-product-release
 
 <table id="table_g42_jt4_kyb" class="nav-card"><tbody><tr><td>
 
-[Work on a release for a single product or service![Single product release icon.](../image/dpr-icon-rls-single.png)Learn about working on a timeline-oriented release to deliver a single product or service.](../task/dpr-work-release.md#)
+[Work on a release for a single product or service![Single product release icon.](../image/dpr-icon-rls-single.png)Learn about working on a timeline-oriented release to deliver a single product or service.](dpr-work-release.md#)
 
 </td><td>
 
-[Work on a release for multiple products![Multi-product release icon.](../image/dpr-icon-rls-multi.png)Learn about working on a timeline-oriented release to deliver multiple products.](../task/dpr-work-release-timeline-multi.md)
+[Work on a release for multiple products![Multi-product release icon.](../image/dpr-icon-rls-multi.png)Learn about working on a timeline-oriented release to deliver multiple products.](dpr-work-release-timeline-multi.md)
 
 </td></tr></tbody>
 </table>

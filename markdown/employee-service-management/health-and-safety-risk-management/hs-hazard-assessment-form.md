@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Em
 
 Risk assessment managers can use the hazard assessment form to review a hazard and choose their control measures and assess their risk levels.
 
-For information on performing hazard assessments, see [Assess safety hazards and risk levels for a risk analysis](../task/add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
+For information on performing hazard assessments, see [Assess safety hazards and risk levels for a risk analysis](add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
 
 <table id="table_mrq_qy2_4hc"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Job under assessment
 
 </td><td>
 
-Predefined job in the job register that this hazard assessment is conducted for.For information on predefined jobs, see [Jobs in the job register](../task/hs-define-job-register.md).
+Predefined job in the job register that this hazard assessment is conducted for.For information on predefined jobs, see [Jobs in the job register](hs-define-job-register.md).
 
 If the hazard comes from an imported job, this field is auto-populated from that job.
 
@@ -101,7 +101,7 @@ Selected Control Measures
 
 Control measures that could help prevent the selected hazard.Select all controls that can help prevent or minimize the effect caused by the selected hazard.
 
-If a control measures should be in place and isn't available in the **Available Control Measures** field, select **Create new control** to define a new control. For more information, see [Define Health and Safety control measures](../task/hs-define-controls.md).
+If a control measures should be in place and isn't available in the **Available Control Measures** field, select **Create new control** to define a new control. For more information, see [Define Health and Safety control measures](hs-define-controls.md).
 
 </td></tr><tr><td>
 
@@ -152,5 +152,5 @@ Residual risk
 Risk level of the hazard after controls.The associated risk matrix evaluates the residual risk level for the hazard based on the severity and likelihood of the hazard after controls. After controls, the risk level should be reduced.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+</table>**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
 

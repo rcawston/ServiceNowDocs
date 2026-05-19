@@ -17,7 +17,7 @@ Learn about the available fields for adding a service level indicator \(SLI\) to
 
 ## Add SLI form
 
-The following table describes the available options in the Add SLI form. For step-by-step instructions, see [Create SLOs, SLIs, and error budget policies](../../slo-management/task/sr-create-slo-sli.md).
+The following table describes the available options in the Add SLI form. For step-by-step instructions, see [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md).
 
 <table id="table_rqy_bnq_ybc"><thead><tr><th>
 
@@ -67,5 +67,5 @@ Add condition set
 Select this option to specify the alerts or outages included in the error budget.For example, for alerts, if you set the condition to **Status is Critical**, only alerts with a critical status count toward the error budget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SLO Management reference](../../slo-management/reference/service-level-objective-management-reference.md)
+</table>**Parent Topic:**[SLO Management reference](service-level-objective-management-reference.md)
 

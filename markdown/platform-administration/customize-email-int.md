@@ -182,5 +182,5 @@ Define the roles that have write access to this property.
     4.  Select **Update**.
 
 
-**Parent Topic:**[Email address internationalization](../concept/email-address-internationalization.md)
+**Parent Topic:**[Email address internationalization](email-address-internationalization.md)
 

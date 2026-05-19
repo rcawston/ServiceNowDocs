@@ -38,12 +38,12 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td><td>
 
-[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
 </td><td>
 
 -   You must update your store apps to the latest release version.
--   You must provide ITOM Visibility with access permissions. For more information, see [Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+-   You must provide ITOM Visibility with access permissions. For more information, see [Setting up AWS service accounts](../setup-aws-service-accounts.md)
 
 </td></tr><tr><td>
 
@@ -219,5 +219,5 @@ The CI class, in most cases, is applicable to both solutions. If it's not applic
 |AWS::MWAA::Environment|Yes|No|cmdb\_aws\_managed\_workflows\_for\_apache\_airflow\_environment|
 |AWS::NetworkFirewall::Firewall|Yes|No|cmdb\_aws\_network\_firewall\_firewall|
 
-**Parent Topic:**[Cloud discovery solutions comparison](../concept/cloud-discovery-methods-comparison.md)
+**Parent Topic:**[Cloud discovery solutions comparison](cloud-discovery-methods-comparison.md)
 

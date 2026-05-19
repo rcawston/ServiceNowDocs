@@ -28,7 +28,7 @@ Use system properties to configure Usage Insights for Service Portal.
     -   Type: string
     -   Default value: none
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](sp-analytics.md)
 
 **Related topics**  
 

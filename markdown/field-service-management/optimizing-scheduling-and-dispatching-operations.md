@@ -78,5 +78,5 @@ Field Service Management provides different types of maps. These maps help field
 **Related topics**  
 
 
-[Setting up a Field Service scheduling method](setting-up-scheduling-methods.md)
+[Setting up a Field Service scheduling method](field-service-scheduling/setting-up-scheduling-methods.md)
 

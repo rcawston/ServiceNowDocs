@@ -55,5 +55,5 @@ Your users can access the top menu function by tapping the icon in the upper rig
 
 Test the top menu action using your mobile app. After completing the steps, you can see a menu icon in the upper right corner of your screen. Tapping the menu icon displays the items in the menu. Your navigation function appears in this list using the name you provided in the **Display label** field.
 
-**Parent Topic:**[Configure navigation to a launcher screen](../concept/sg-launcher-nav-example.md)
+**Parent Topic:**[Configure navigation to a launcher screen](sg-launcher-nav-example.md)
 

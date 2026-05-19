@@ -38,7 +38,7 @@ To find the cause of this error, identify the **Short Message** field of the err
     This field shows the name of the sensor where the error has occurred.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 

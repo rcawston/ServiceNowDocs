@@ -39,5 +39,5 @@ The event starts when the Start method starts.
 |SignalTime|Data Out|Integer|The system date and time when the trigger starts operating.|Yes|
 |ElapsedTime|Data Out|Integer|Total time in the timer elapsed.|Yes|
 
-**Parent Topic:**[Timer](../concept/timer.md)
+**Parent Topic:**[Timer](timer.md)
 

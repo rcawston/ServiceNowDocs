@@ -166,7 +166,7 @@ Right-click on the user and select **Update Capacity**.
 -   To view and update more details for the resource plan, click the information icon in the beginning of the resource plan row.
 -   You can now [request the resource plan](t_RequestResourcePlanApproval.md).
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](c_ResourcePlans.md)
 
 **Related topics**  
 
@@ -201,7 +201,7 @@ Right-click on the user and select **Update Capacity**.
 
 [Reduce the duration of a resource plan](reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](c_TimeZonesInResourcePlans.md)
 
 [Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
 

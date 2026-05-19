@@ -40,30 +40,30 @@ Before adding new categories, review the base system notification categories in 
 
 The system adds the new category to the Notification Categories \[sys\_notification\_category\] table. After you create at least one, active notification that uses the new category, the category and notification are listed in the Notification preferences for users \(**User Menu** &gt; **Preferences** &gt; **Notifications** &gt; **System Notifications**\).
 
-**Parent Topic:**[Email and SMS notifications](../concept/c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
 
 **Related topics**  
 
 
 [Create an email notification](t_CreateANotification.md)
 
-[Email notifications dashboard](../concept/email-notifications-dashboard.md)
+[Email notifications dashboard](email-notifications-dashboard.md)
 
-[Email diagnostics dashboard](../concept/email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](email-diagnostics-dashboard.md)
 
-[Email templates](../concept/c_EmailTemplates.md)
+[Email templates](c_EmailTemplates.md)
 
-[Email layouts](../concept/email-layouts.md)
+[Email layouts](email-layouts.md)
 
-[Email retention](../concept/email-retention.md)
+[Email retention](email-retention.md)
 
-[Watermarks on notification emails](../concept/c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](c_WorkingWithWatermarks.md)
 
 [Parse an email thread](parse-email.md)
 
-[Email digests](../concept/email-digests.md)
+[Email digests](email-digests.md)
 
-[Domain separation and Notifications](../concept/domain-separation-notifications.md)
+[Domain separation and Notifications](domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](../concept/troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
 

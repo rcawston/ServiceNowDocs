@@ -23,7 +23,7 @@ Role required: admin
 
 By default dispatchers can use the hide off shift agents button up to seven days in the future. If a dispatcher navigates on the calendar in Dispatcher Workspace farther than seven days in the future, then the hide off shift agents button is disabled. You can change the number of days that the hide off shift agents button shows.
 
-For more information on hiding off shift agents, see [Show or hide off shift agents from the calendar in Dispatcher Workspace](hide-off-shift-agents.md).
+For more information on hiding off shift agents, see [Show or hide off shift agents from the calendar in Dispatcher Workspace](field-service-scheduling/hide-off-shift-agents.md).
 
 **Warning:** Extending the number of days in the future that the hide off shift agents button is available causes the nightly processing of the Populate Agents Daily Schedule Table to take longer. Don't extend the number of days that the hide off shift agents button is available past 15 days.
 
@@ -47,7 +47,7 @@ For more information on hiding off shift agents, see [Show or hide off shift age
 **Related topics**  
 
 
-[Run the Populate Agents Daily Schedule Table](run-agent-schedule.md)
+[Run the Populate Agents Daily Schedule Table](field-service-manager-workforce/run-agent-schedule.md)
 
-[Show or hide off shift agents from the calendar in Dispatcher Workspace](hide-off-shift-agents.md)
+[Show or hide off shift agents from the calendar in Dispatcher Workspace](field-service-scheduling/hide-off-shift-agents.md)
 

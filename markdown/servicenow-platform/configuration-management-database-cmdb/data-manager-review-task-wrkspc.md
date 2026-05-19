@@ -58,7 +58,7 @@ Canceling a life-cycle task is available only for tasks that are in the 'Not sta
 
         You can only reject a task that is assigned to you.
 
-        After you reject a task, the **State** of the task is set to **Closed Canceled** and **Approval** is set to **Rejected**. Also, appropriate notifications are sent to members of the group specified in the **glide.cmdb.data\_manager.rejected.task.notification\_group** system property. For more information about how this property is used for notifications, see [Components related to CMDB Data Manager](../reference/components-cmdb-data-manager.md).
+        After you reject a task, the **State** of the task is set to **Closed Canceled** and **Approval** is set to **Rejected**. Also, appropriate notifications are sent to members of the group specified in the **glide.cmdb.data\_manager.rejected.task.notification\_group** system property. For more information about how this property is used for notifications, see [Components related to CMDB Data Manager](components-cmdb-data-manager.md).
 
     4.  Select **Assign to me** or **Request reassignment** as appropriate.
 

@@ -107,7 +107,7 @@ Indoor Map / WSD Types Synchronizationsn\_wsd\_indoor\_map\_type\_sync
 
 </td><td>
 
-Synchronizes Indoor Mapping Types with Workplace Service Delivery Types. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+Synchronizes Indoor Mapping Types with Workplace Service Delivery Types. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -115,10 +115,10 @@ Indoor Map / WSD Cleaningsn\_wsd\_indoor\_map\_clean\_sync
 
 </td><td>
 
-If Indoor Mapping map objects or map data is removed from a campus, the Cleaning process is available as a first step in the Synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+If Indoor Mapping map objects or map data is removed from a campus, the Cleaning process is available as a first step in the Synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Mapping reference](../concept/wsm-reference.md)
+</table>**Parent Topic:**[Workplace Space Mapping reference](wsm-reference.md)
 
 **Related topics**  
 

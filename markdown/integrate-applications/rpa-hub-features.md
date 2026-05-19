@@ -109,7 +109,7 @@ For more information, see [Shared parameters](shared-paramaters-rpa-hub.md).
 
 Process parameters store the variables that are used within a bot process. The process parameter can only be used by the bot process they are created in.
 
-For more information, see [Process parameters within a bot process](../task/create-process-parameter-botprocess.md#).
+For more information, see [Process parameters within a bot process](create-process-parameter-botprocess.md#).
 
 ## Code quality checks
 
@@ -129,11 +129,11 @@ For more information, see [Alert rule and variable](alert-rule-rpa-hub.md).
 
 A process job represents the execution of a bot process on a robot.
 
-For more information, see [View process jobs](../task/view-process-jobs-botprocess.md#).
+For more information, see [View process jobs](view-process-jobs-botprocess.md#).
 
 ## Automation logs
 
 Automation logs are series of succession stages or a series of checkpoints that occur during the execution of a bot process. It enables monitoring and auditing the automation process. These logs are generated from the robot for unattended and attended bot processes.
 
-For more information, see [View automation logs](../task/view-automation-logs-rpa.md#).
+For more information, see [View automation logs](view-automation-logs-rpa.md#).
 

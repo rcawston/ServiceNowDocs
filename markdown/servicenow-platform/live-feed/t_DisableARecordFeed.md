@@ -32,9 +32,9 @@ Role required: personalize\_dictionary or admin
     **Note:** If the Collaboration feature is activated, you can remove the show Live Feed icon from all form headers. Set the **glide.live\_feed.task\_header\_button** property to **collaboration**.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](c_DocumentFeeds.md)
 
-**Parent Topic:**[Record feeds](../concept/c_RecordFeeds.md)
+**Parent Topic:**[Record feeds](c_RecordFeeds.md)
 
 **Related topics**  
 
@@ -43,9 +43,9 @@ Role required: personalize\_dictionary or admin
 
 [Configure document feeds](t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](c_ConfigureFeedSecurity.md)
 
 [Disable a document feed](t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](r_InstalledComponents.md)
 

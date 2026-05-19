@@ -47,7 +47,7 @@ Role required: sn\_apm.apm\_user
     -   **Create new**- Select this radio button to create a CMDB record directly from the diagram.
 9.  Define the relationship by selecting connector lines.
 
-    The Relationship side panel opens. Select a **Relationship** and **Value**. For more information on the CSDM shapes and relationships, see [CSDM shapes support in the Enterprise Modeling and Visualization](../../concept/eaw-concept/align-with-csdm5.md).
+    The Relationship side panel opens. Select a **Relationship** and **Value**. For more information on the CSDM shapes and relationships, see [CSDM shapes support in the Enterprise Modeling and Visualization](align-with-csdm5.md).
 
 10. Select a shape and add related records for the shape by selecting the ![Add related records](../../image/eaw-image/modeling/icon-add-related-records.png) icon.
 
@@ -71,5 +71,5 @@ Role required: sn\_apm.apm\_user
     -   **Duplicate**: Select this option to duplicate the diagram. For more information, see [Duplicate a modeling diagram](eaw-modeling-duplicate.md).
     -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group. For more information, see [Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md).
 
-**Parent Topic:**[Working with CSDM shapes](../../concept/eaw-concept/eaw-work-with-csdm-shapes.md)
+**Parent Topic:**[Working with CSDM shapes](eaw-work-with-csdm-shapes.md)
 

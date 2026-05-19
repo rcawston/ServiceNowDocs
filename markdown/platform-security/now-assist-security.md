@@ -47,7 +47,7 @@ Now Assist is built on the ServiceNow AI Platform security model. AI agents are 
 
 <table id="table_bm1_dbp_w3c" class="nav-card presentation"><tbody><tr><td>
 
-[Now Assist Guardian![](../../../reuse/icons/brand-icons/bus-trust-in-us.svg)Now Assist Guardian is built on the ServiceNow Small Language Model \(SLM\) and monitors generative AI interactions to detect offensive content, prompt injection attacks, and sensitive topics.](../../now-assist-platform/concept/now-assist-guardian.md)
+[Now Assist Guardian![](../../../reuse/icons/brand-icons/bus-trust-in-us.svg)Now Assist Guardian is built on the ServiceNow Small Language Model \(SLM\) and monitors generative AI interactions to detect offensive content, prompt injection attacks, and sensitive topics.](now-assist-guardian.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Find guidance on preparing your instance for AI deployment, maintaining domain s
 Learn how Now Assist helps defend against AI-specific threats including offensive content, prompt injection, and sensitive subject detection using Now Assist Guardian.
 -   **[External AI agent security](naai-3rd-party-security.md)**  
 Learn how to monitor and govern AI agents from external providers, with visibility into third-party data flows and assurances that sensitive data stays properly isolated across your AI ecosystem.
--   **[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)**  
+-   **[Now Assist Guardian](now-assist-guardian.md)**  
 Now Assist Guardian is built on the ServiceNow Small Language Model \(SLM\) and monitors generative AI interactions to detect offensive content, prompt injection attacks, and sensitive topics.
 -   **[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)**  
 Plan, build, secure, test, and deploy a Now Assist AI agent.

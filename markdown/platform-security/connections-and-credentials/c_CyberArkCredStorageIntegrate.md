@@ -21,7 +21,7 @@ CyberArk Application Identity Management \(AIM\) product uses the Privileged Acc
 
 The instance maintains a unique identifier for each credential, the credential type \(such as SSH, SNMP, or Windows\), and any credential affinities. The MID Server obtains the credential identifier, credential type, and IP address from the instance, and then uses the CyberArk vault to resolve these elements into a usable credential. The credential resolver can also look up the hostname, fqdn, and use reverse DNS lookup to get fqdn.
 
-The CyberArk integration requires the ServiceNow® [External Credential Storage plugin](../task/t_ActivateExtrnlCredStoragePlugIn.md), which is available in **System Definitions** &gt; **Plugins**. The MID Server and CyberArk AIM/API client must be installed on the same machine. CyberArk Application Access Manager \(AAM\) Credential Providers version 12.0.1 and later is supported.
+The CyberArk integration requires the ServiceNow® [External Credential Storage plugin](t_ActivateExtrnlCredStoragePlugIn.md), which is available in **System Definitions** &gt; **Plugins**. The MID Server and CyberArk AIM/API client must be installed on the same machine. CyberArk Application Access Manager \(AAM\) Credential Providers version 12.0.1 and later is supported.
 
 ## Installed with CyberArk
 

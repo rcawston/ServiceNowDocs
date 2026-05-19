@@ -28,5 +28,5 @@ Recomputation jobs are configured to run every five seconds. After the jobs are 
 
 You can configure the recomputation type, frequency, and other factors as needed. For more information about Service Mapping, see the [Service Mapping Recomputation Jobs: Configuration and Best Practices \[KB1001151\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1001151) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Service Mapping reference](../reference/service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
 

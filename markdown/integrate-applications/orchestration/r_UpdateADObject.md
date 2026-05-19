@@ -15,11 +15,11 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Update AD Object activity updates an object in Windows Active Directory.
 
-This activity only replaces existing values with new values. It cannot add new values to AD records such as adding a new group member to an AD group. For complex AD operations, use the [Run PowerShell activity](../concept/c_OrchestrPowerShellActivities.md#) instead. The activity fails if it cannot find an existing account with matching object name and data.
+This activity only replaces existing values with new values. It cannot add new values to AD records such as adding a new group member to an AD group. For complex AD operations, use the [Run PowerShell activity](c_OrchestrPowerShellActivities.md#) instead. The activity fails if it cannot find an existing account with matching object name and data.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
-**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](../../orchestration-activity-designer/concept/c_PowershellActivityDesigner.md).
+**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](c_PowershellActivityDesigner.md).
 
 ## Input variables
 

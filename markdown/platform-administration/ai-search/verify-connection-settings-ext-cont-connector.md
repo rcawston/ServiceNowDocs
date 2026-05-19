@@ -49,5 +49,5 @@ When the test crawl finishes its run, an alert message indicates whether it comp
 
 If the test crawl encountered errors, review its crawl history entries to see whether it experienced connection issues or source system permissions issues. If it did, ask your source system administrator to verify your connection settings and to confirm that the permissions required by the connector are properly set.
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
 

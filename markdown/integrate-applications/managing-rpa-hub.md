@@ -39,8 +39,8 @@ You can use the robot calendar in RPA Hub to view and create the schedule for th
 Track the scheduled maintenance \(SM\) days on the robot calendar so that the bot processes can function optimally. If an issue occurs, you can take preventive measures. For example, you can know in advance about the days when the robot or the bot process is unavailable so that you can avoid the number of skipped process jobs.
 -   **[Using Graceful Stop functionality in RPA Hub](graceful-stop-rpa.md)**  
 Graceful Stop functionality provides a capability for robots to exit the automation smoothly. You can define a secure termination point within an automation process. It also enables you to perform clean-up tasks such as closing in-use applications. It is applicable for assigned robots as well as robots in a robot pool.
--   **[Workflow Studio actions and subflow in RPA Hub](../reference/rpa-hub-actions.md)**  
+-   **[Workflow Studio actions and subflow in RPA Hub](rpa-hub-actions.md)**  
 Two-way integration of actions and subflows in Workflow Studio and RPA Hub for a seamless robot execution.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](create-integrations-applications.md)
 

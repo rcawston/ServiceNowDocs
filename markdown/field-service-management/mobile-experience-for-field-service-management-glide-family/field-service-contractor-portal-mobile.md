@@ -21,11 +21,11 @@ Manage work orders with the Field Service Contractor mobile application
 
 The steps for configuring Field Service Contractor for mobile are:
 
-1.  [Activate the Field Service Contractor for mobile feature in the Now Mobile Agent application](../task/activate-fs-contrator-portal-mobile.md)
+1.  [Activate the Field Service Contractor for mobile feature in the Now Mobile Agent application](activate-fs-contrator-portal-mobile.md)
 
     Activate Field Service Contractor for mobile to manage work order tasks assigned to the contractor company.
 
-2.  [Access the ServiceNow Agent for Field Service Contractor for mobile application](../task/install-field-service-contractor-portal-mobile.md)
+2.  [Access the ServiceNow Agent for Field Service Contractor for mobile application](install-field-service-contractor-portal-mobile.md)
 
     Access the Field Service Contractor for mobile application to manage tasks from your phone or other mobile devices.
 
@@ -33,5 +33,5 @@ The steps for configuring Field Service Contractor for mobile are:
 **Related topics**  
 
 
-[Field Service Contractor for mobile](wot-fsc.md)
+[Field Service Contractor for mobile](../work-order-management/wot-fsc.md)
 

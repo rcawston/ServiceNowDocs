@@ -22,7 +22,7 @@ Role required: admin
 
 2.  On the form, fill in the fields.
 
-    For more information on the field descriptions, see [Load data form](../reference/import-set-table.md).
+    For more information on the field descriptions, see [Load data form](import-set-table.md).
 
     **Note:** In the **Import set table** field, select **Existing table** and add the Job Requisition Staging \[sn\_ta\_connector\_job\_requisition\_staging\] table.
 
@@ -43,5 +43,5 @@ Role required: admin
 
 The job requisition table is updated with the imported data.
 
-**Parent Topic:**[Integrate with your ATS](../concept/integrate-ats.md)
+**Parent Topic:**[Integrate with your ATS](integrate-ats.md)
 

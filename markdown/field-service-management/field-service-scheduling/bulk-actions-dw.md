@@ -33,7 +33,7 @@ When one or more tasks are selected, the **Bulk Open** action appears. Selecting
 
 ## Bulk Auto-assignment
 
-When one or more tasks are selected, the **Auto-assignment** action is enabled. Selecting **Auto-assignment** dynamically schedules all selected tasks. For more information, see [Dynamic scheduling](dynamic-scheduling.md).
+When one or more tasks are selected, the **Auto-assignment** action is enabled. Selecting **Auto-assignment** dynamically schedules all selected tasks. For more information, see [Dynamic scheduling](../dynamic-scheduling.md).
 
 ## Bundle
 

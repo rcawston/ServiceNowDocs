@@ -17,7 +17,7 @@ Add content types to a translation request in Localization Workspace. Your trans
 
 ## Before you begin
 
--   Content types correspond to tables. For details about making your content available to Localization Workspace, see [Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md).
+-   Content types correspond to tables. For details about making your content available to Localization Workspace, see [Types of Localizable content in Localization Workspace](lw-localizable-content.md).
 -   Complete the first step in the Translation Request wizard, then proceed to this step. See [Request translations in Localization Workspace: Languages](lw-request-translations-langs.md).
 -   Role required: localization\_requestor
 
@@ -35,7 +35,7 @@ The following procedure covers step number two in the Translation Request wizard
 
 2.  Choose the content types you want to translate by selecting the appropriate check boxes.
 
-    **Note:** Content types that are not selectable may require table or role permissions. Ask your administrator to enable access. For more information see [Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md).
+    **Note:** Content types that are not selectable may require table or role permissions. Ask your administrator to enable access. For more information see [Types of Localizable content in Localization Workspace](lw-localizable-content.md).
 
 3.  Select **Save**.
 

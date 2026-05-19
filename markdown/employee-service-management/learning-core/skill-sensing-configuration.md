@@ -113,5 +113,5 @@ A description for the configuration.
     .
 
 
-**Parent Topic:**[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+**Parent Topic:**[Skill sensing for learning content](skill-sensing-for-learning-content.md)
 

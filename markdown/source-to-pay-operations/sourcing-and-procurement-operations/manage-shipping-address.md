@@ -41,9 +41,9 @@ Role required: admin
 **Related topics**  
 
 
-[Valid countries for delivery](../concept/valid-countries.md)
+[Valid countries for delivery](valid-countries.md)
 
-[Delivery location options](../reference/delivery-location-details.md)
+[Delivery location options](delivery-location-details.md)
 
 [Select a delivery location](select-delivery-location.md)
 

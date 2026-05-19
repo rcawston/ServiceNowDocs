@@ -36,5 +36,5 @@ Role required: admin
 
 Changing the **Protection policy** column value from **Read-only** to **--None--** allows users assigned the **admin** role to edit the OT View Rule.
 
-**Parent Topic:**[Operational Technology Manager reference](../reference/operational-technology-manager-reference.md)
+**Parent Topic:**[Operational Technology Manager reference](operational-technology-manager-reference.md)
 

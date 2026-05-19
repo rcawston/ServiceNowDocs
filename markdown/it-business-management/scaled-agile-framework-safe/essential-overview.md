@@ -57,9 +57,9 @@ As a team member, you can plan and monitor activities within the team by accessi
 -   track all stories and view their transition from one state \(lane\) to another, in a visual task board.
 
 </td></tr></tbody>
-</table>-   **[Components installed with Essential SAFe](../reference/installed-with-EssentialSAFe.md)**  
+</table>-   **[Components installed with Essential SAFe](installed-with-EssentialSAFe.md)**  
 Several types of components are installed with activation of the Agile - Scaled Agile Framework - Essential SAFe plugin \(com.snc.sdlc.safe\), including tables and user roles.
--   **[Quick start tests for Essential SAFe](../../../administer/atf-quick-start-tests/reference/quick-start-tests-essentialSAFe.md)**  
+-   **[Quick start tests for Essential SAFe](quick-start-tests-essentialSAFe.md)**  
 Validate that Essential SAFe still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[SAFe entities](key-entities-SAFe.md)**  
 Learn about the various SAFe entities that are used to successfully plan, track, and deliver your software products.
@@ -77,13 +77,13 @@ As a team member, you can plan and monitor activities within your team by access
 
 [Domain separation and Scaled Agile Framework \(SAFe\)](domain-separation-scaled-agile-framework.md)
 
-[Business stakeholder role for Essential SAFe and Portfolio SAFe](../reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
+[Business stakeholder role for Essential SAFe and Portfolio SAFe](business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
 
 [Portfolio SAFe](portfolio-overview.md)
 
-[SAFe — Unified Backlog](../../safe-unified-backlog/concept/safeunified-backlog.md)
+[SAFe — Unified Backlog](safeunified-backlog.md)
 
-[Performance Analytics Content Pack for Essential SAFe](../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
+[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 
-[Work Progress Status for SAFe](../../work-progress-status-safe/concept/work-progress-status-safe-overview.md)
+[Work Progress Status for SAFe](work-progress-status-safe-overview.md)
 

@@ -18,5 +18,5 @@ Several types of components are installed with activation of the plugin, includi
 -   **[User preference form](contextual-sidebar-form.md)**  
 The following table describes the field values for the user preference form.
 
-**Parent Topic:**[Industrial Connected Workforce Core](../concept/industrial-connected-workforce-core-landing-page.md)
+**Parent Topic:**[Industrial Connected Workforce Core](industrial-connected-workforce-core-landing-page.md)
 

@@ -37,7 +37,7 @@ Role required: author or agent
 4.  Select **Insert** to add the Now Assist generated content to the article.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](using-now-assist-in-km.md)
 
 ## Supported tags
 

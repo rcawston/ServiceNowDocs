@@ -81,7 +81,7 @@ Chat \([live agent](employee-center-chat-configuration.md), virtual agent\)
 
 </td></tr><tr><td>
 
-Curated Experiences \([Unified Taxonomy for Employee Center](config-taxonomy.md), [Dynamic topic pages](dynamic-topic-page.md), [Mega Menu](../task/config-mega-menu.md)\)
+Curated Experiences \([Unified Taxonomy for Employee Center](config-taxonomy.md), [Dynamic topic pages](dynamic-topic-page.md), [Mega Menu](config-mega-menu.md)\)
 
 </td><td>
 
@@ -171,7 +171,7 @@ Employee communications-   [Portal content](ec-streamline-content.md)
 
 </td></tr><tr><td>
 
-Enterprise Search \(with [SharePoint Online Search Connector](../../sharepoint-online-search/concept/sharepoint-search-overview.md)\)
+Enterprise Search \(with [SharePoint Online Search Connector](../sharepoint-search-overview.md)\)
 
 </td><td>
 
@@ -196,7 +196,7 @@ Integration-powered capabilities-   [App Launcher](web-application-employee-abou
 
 </td></tr><tr><td>
 
-[Manager Hub](../../human-resources/concept/manager-hub-overview.md)
+[Manager Hub](../hr-service-delivery/manager-hub-overview.md)
 
 </td><td>
 
@@ -208,7 +208,7 @@ Integration-powered capabilities-   [App Launcher](web-application-employee-abou
 
 </td></tr><tr><td>
 
-[Org chart](employee-profile-org-chart.md) and [Dotted-line relationships](../task/add-other-manager-relationship.md)
+[Org chart](employee-profile-org-chart.md) and [Dotted-line relationships](add-other-manager-relationship.md)
 
 </td><td>
 
@@ -269,16 +269,16 @@ The omnichannel experiences provide different information and communication chan
 
 </td></tr><tr><td>
 
-[ServiceNow Add-ins for Microsoft 365![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Microsoft 365 add-ins help customize the office controls for employees.](../../sn-addin-ms365/concept/sn-addin-for-ms365.md)
+[ServiceNow Add-ins for Microsoft 365![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Microsoft 365 add-ins help customize the office controls for employees.](sn-addin-for-ms365.md)
 
 </td><td>
 
-[ServiceNow for Zoom![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)ServiceNow for Zoom helps create a connected experience for users.](../../sn-zoom/concept/sn_zoomIntegration.md)
+[ServiceNow for Zoom![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)ServiceNow for Zoom helps create a connected experience for users.](sn_zoomIntegration.md)
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).

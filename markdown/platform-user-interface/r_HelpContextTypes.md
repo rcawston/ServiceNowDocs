@@ -41,16 +41,16 @@ When a user clicks the help icon, the system analyzes the relevant help contexts
 When there are several matching help context records, the following rules determine which help context is used, in descending order of priority.
 
 1.  A customer-created help context is used instead of a default help context provided in the instance for the same table.
-2.  A help context that matches the user's language setting is used instead of a help context in the default language of the instance. See the **Language** field on the [Help Context form](../task/t_CreateANewHelpContext.md).
+2.  A help context that matches the user's language setting is used instead of a help context in the default language of the instance. See the **Language** field on the [Help Context form](t_CreateANewHelpContext.md).
 3.  A help context for a closer table in an extended table hierarchy is used instead of a help context for a further table.
 
     Consider the case of the Linux Server \[cmdb\_ci\_linux\_server\] table, which has the following parentage: cmdbi\_ci &gt; cmdb\_ci\_hardware &gt; cmdb\_ci\_computer &gt; cmdb\_ci\_server &gt; cmdb\_ci\_linux\_server. If help contexts exist for both the cmdb\_ci\_server table and the cmdb\_ci table, the help icon directs to the page specified by the cmdb\_ci\_server help context when you view a record in the cmdb\_ci\_linux\_server table.
 
 
-**Parent Topic:**[Context-sensitive help](../concept/c_ContextSensitiveHelp.md)
+**Parent Topic:**[Context-sensitive help](c_ContextSensitiveHelp.md)
 
 **Related topics**  
 
 
-[Create a new help context](../task/t_CreateANewHelpContext.md)
+[Create a new help context](t_CreateANewHelpContext.md)
 

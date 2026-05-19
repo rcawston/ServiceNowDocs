@@ -24,7 +24,7 @@ A scheduled job **Populate TRM technical debts in the EA Workspace** runs and cr
 
 [TRM Technical Debt calculation in Enterprise Architecture Workspace](eaw-trm-technical-debt-calc.md)
 
-[View TRM technical debts](../../task/eaw-task/view-trm-tech-debt.md)
+[View TRM technical debts](view-trm-tech-debt.md)
 
-[Run a scheduled job to update TRM technical debt data in EA Workspace](../../task/eaw-task/eaw-run-job-trm-tech-debts.md)
+[Run a scheduled job to update TRM technical debt data in EA Workspace](eaw-run-job-trm-tech-debts.md)
 

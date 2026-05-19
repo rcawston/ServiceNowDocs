@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Terminate component. For more information about these properties, see [Properties of the System Process components](../reference/util-sysprocess-prop.md).
+You can configure the properties for the Terminate component. For more information about these properties, see [Properties of the System Process components](util-sysprocess-prop.md).
 
 ## Procedure
 
@@ -73,5 +73,5 @@ Yes
 
 As part of your automation workflow, after you have opened an app, such as Windows Terminal and ran a command on it, you can terminate the app by providing the process ID in the Terminate component.![Terminate component in a simple workflow showing ProcessId as parameter.](../image/terminate-system-process-rpa.png)
 
-**Parent Topic:**[System process](../concept/system-process-utilities.md)
+**Parent Topic:**[System process](system-process-utilities.md)
 

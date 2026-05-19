@@ -26,5 +26,5 @@ Update template mappings to pre-fill information that will be placed in the cont
 -   **[Publish a contract template](lsc-publish-word-template.md)**  
 Publish contract template to make it available for generating a standard legal contract document with predefined content when a legal user submits a contract request.
 
-**Parent Topic:**[Legal contract templates](../concept/document-template-block.md)
+**Parent Topic:**[Legal contract templates](document-template-block.md)
 

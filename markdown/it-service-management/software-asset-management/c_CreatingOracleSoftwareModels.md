@@ -15,7 +15,7 @@ breadcrumb: [Legacy Oracle process pack, Legacy Software Asset Management plugin
 
 In order to count Oracle software licenses, you must create software models for your Oracle software.
 
-For more information, see [Manage software models](../task/t_ManagingSoftwareModels.md).
+For more information, see [Manage software models](t_ManagingSoftwareModels.md).
 
 **Parent Topic:**[Legacy Oracle process pack](c_OracleProcessPack.md)
 

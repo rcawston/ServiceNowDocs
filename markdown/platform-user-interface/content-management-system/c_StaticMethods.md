@@ -21,11 +21,11 @@ Form-based menu management and WYSYWIG code editing can be useful to both advanc
 
 -   **Navigation Menu Links**
 
-    Use base system templates to group similar links for placement on the page. Though the terminology is different \(menu sections and menu items\), this type of linking behaves the same way as content links. For more information on creating a navigation menu block, see [Create a navigation menu block](../task/t_CreateNavigationMenuBlock.md).
+    Use base system templates to group similar links for placement on the page. Though the terminology is different \(menu sections and menu items\), this type of linking behaves the same way as content links. For more information on creating a navigation menu block, see [Create a navigation menu block](t_CreateNavigationMenuBlock.md).
 
 -   **Static HTML Details**
 
-    Content blocks that are useful for areas administered by developers unfamiliar with HTML or markup. Anyone familiar with markup can use dynamic blocks because they are extendable. For more information on static HTML, see [Using Content Blocks](../task/t_StaticHTMLBlock.md).
+    Content blocks that are useful for areas administered by developers unfamiliar with HTML or markup. Anyone familiar with markup can use dynamic blocks because they are extendable. For more information on static HTML, see [Using Content Blocks](t_StaticHTMLBlock.md).
 
 -   **Content Links**
 

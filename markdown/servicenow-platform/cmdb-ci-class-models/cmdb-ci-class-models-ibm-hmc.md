@@ -37,7 +37,7 @@ The IBM HMC extension classes support discovery of IBM virtualization technology
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../configuration-management-database-cmdb/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.3.0 adds the following classes for the IBM HMC.
 
@@ -164,5 +164,5 @@ The following class has no added columns: IBM Frame \[cmdb\_ci\_ibm\_frame\].
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](../configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 

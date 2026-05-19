@@ -72,7 +72,7 @@ Description
 
 2.  Select **Report an AI case** and on the form, fill in the fields.
 
-    For full descriptions of the fields, see [Report an AI case form](../reference/report-anon-ai-case-form.md).
+    For full descriptions of the fields, see [Report an AI case form](report-anon-ai-case-form.md).
 
 3.  Enter the CAPTCHA verification code on the screen.
 
@@ -97,10 +97,10 @@ AI cases are managed through AI Case Management within AI Risk and Compliance to
 
 After an AI case is created and enters the New state, the next step is Triage, where the AI Risk and Compliance team reviews the case to validate scope, assess severity, and determine the appropriate course of action. Depending on the outcome of triage, the team may initiate an assessment. For more information, see [Initiate AI assessment on an AI asset](initiate-assessment-on-an-ai-asset.md).
 
--   **[Report an AI case form](../reference/report-anon-ai-case-form.md)**  
+-   **[Report an AI case form](report-anon-ai-case-form.md)**  
 Use the Report an AI case form in the Anonymous Report Center to report an AI case with the necessary details. After you submit the AI case report, mandatory fields and input format are validated before submission.
 -   **[Follow up on a report from the Anonymous Reporting Center](follow-up-anonymously.md)**  
 After you submit an anonymous report, save the **Report key** and **Report number**. Use these reference numbers to follow up or address comments on your case anonymously.
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](using-ai-risk-and-compliance.md)
 

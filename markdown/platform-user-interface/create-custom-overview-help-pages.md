@@ -132,5 +132,5 @@ Text describing what is shown in the image for this panel. This content appears 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Overview help pages](../concept/overview-help-pages.md)
+**Parent Topic:**[Overview help pages](overview-help-pages.md)
 

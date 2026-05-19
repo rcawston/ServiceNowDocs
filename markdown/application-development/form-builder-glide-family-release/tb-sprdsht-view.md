@@ -29,7 +29,7 @@ Correct the data in each record individually, or select **Revert record changes*
 
 Use the following procedures to edit table field structure and any imported data records for a selected table using **Spreadsheet** view in Table Builder
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](table-builder.md)
 
 ## Add a new data record
 
@@ -37,7 +37,7 @@ Add a new data record within Table Builder **Spreadsheet** view.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -62,7 +62,7 @@ Edit individual data records within Table Builder **Spreadsheet** view.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -87,7 +87,7 @@ Sort your data records by a specific field column within Table Builder **Spreads
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -112,7 +112,7 @@ Show a filtered list of data records that contain matching data for a selected f
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -135,7 +135,7 @@ Display only the data records you want to see in your list by setting up a condi
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -169,7 +169,7 @@ Edit field properties such as the field label, type, attributes, and default val
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -187,7 +187,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 4.  Edit the desired field property for the column.
 
-    See [Field configuration in Table Builder](../reference/field-parameters.md) for more information on field properties.
+    See [Field configuration in Table Builder](field-parameters.md) for more information on field properties.
 
 5.  Select **Save**.
 
@@ -198,7 +198,7 @@ Add new field columns to a selected table within Table Builder **Spreadsheet** v
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -305,7 +305,7 @@ Duplicate an existing field column within a table shown in Table Builder **Sprea
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -338,7 +338,7 @@ Change the order in which your columns are displayed within Table Builder **Spre
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -359,7 +359,7 @@ Choose whether to hide or show specific field columns within Table Builder **Spr
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -415,7 +415,7 @@ Pin specific columns to always display on the left when you scroll to the right 
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 
@@ -466,7 +466,7 @@ Delete a field column for a selected table within Table Builder **Spreadsheet** 
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../app-engine-studio/aes-app-dev-workflow.md).
 
 ### Procedure
 

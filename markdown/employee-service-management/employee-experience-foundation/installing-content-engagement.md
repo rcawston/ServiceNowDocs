@@ -39,7 +39,7 @@ Activate the Content Publishing \[sn\_cd\] plugin: [Activate Content Publishing]
 **Related topics**  
 
 
-[Components installed with Content engagement](../reference/installed-content-engagement.md)
+[Components installed with Content engagement](installed-content-engagement.md)
 
-[Content engagement](../concept/ec-content-engagement.md)
+[Content engagement](ec-content-engagement.md)
 

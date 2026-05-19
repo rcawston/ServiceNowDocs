@@ -47,7 +47,7 @@ COE
 
 The **Center of Excellence** associated with the HR case you are creating. Currently, Employee Relations Case is the only COE available for ER cases.
 
- Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).
+ Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](hr-centers-of-excellence-coes.md).
 
  **Note:** You can also select an HR service first and the associated COE automatically populates.
 
@@ -61,7 +61,7 @@ After selecting **Employee Relations Case** from the **COE** field, select one:-
 -   Report Discrimination
 -   Report Misconduct
 
-**Note:** You can use the Skip verification feature when creating a Report Misconduct case. For more information, see [Using HR Service Delivery Employee Relations](../concept/hr-er-using.md).
+**Note:** You can use the Skip verification feature when creating a Report Misconduct case. For more information, see [Using HR Service Delivery Employee Relations](hr-er-using.md).
 
 -   Performance improvement plan\(PIP\)
  Limit what HR services are available to an employee by filtering:
@@ -126,14 +126,14 @@ Details about the ER case.**Note:** Interviews are under the **more** tab.
 
     -   **Evidence**
 
-        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](../concept/hr-er-evidence-mgmt.md#).
+        Evidence to support the ER case. For more information, see [Evidence Management for Employee Relations](hr-er-evidence-mgmt.md#).
 
     -   **more**
 
         Select to view the following:
 
         -   Corrective Actions: Information about the resolution and any associated corrective actions after an investigation related to the ER case. For more information, see [Create a corrective action](hr-er-corrective-actions.md).
-        -   Attached Knowledge: List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](../concept/hr-knowledge-management.md).
+        -   Attached Knowledge: List of knowledge articles attached to the HR service type. For more information, see [HR Knowledge Management](hr-knowledge-management.md).
         -   Approvers: Lists employees that can approve changed information or the case, state of approval, comments, and associated dates. For more information, see [Resubmit an HR case for approval](t_ApproveAnHRCase.md).
 
             **Note:** To reject an approval, users should have the HR case writer \[sn\_hr\_core\_case.writer\] role.

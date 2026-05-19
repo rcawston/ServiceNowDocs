@@ -81,5 +81,5 @@ Follow these general guidelines:
 5.  Select **Proceed**.
 
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 

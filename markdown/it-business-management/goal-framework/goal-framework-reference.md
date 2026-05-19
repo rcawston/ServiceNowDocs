@@ -27,7 +27,7 @@ Use the Goal form to create goals for your organizational strategic priorities.
 Use the Goal/Target Relationship form to create a relationship between a goal and planning item, strategic item, or any other item.
 -   **[Goal Preferences form](goal-preferences-form.md)**  
 Use the Goal Preferences form to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
--   **[Progress value calculation](../concept/progress-value-calculation.md)**  
+-   **[Progress value calculation](progress-value-calculation.md)**  
 The progress or percentage complete value of goals is auto-calculated using different formulas. The formula depends on whether the goal has only targets, a combination of sub-goals and targets, and if it has weighted average calculation enabled.
 -   **[Scheduled Script Execution form](scheduled-script-execution-form-gf.md)**  
 Scheduled Jobs are automated pieces of work that can be performed at a specific time or on a recurring schedule.
@@ -43,8 +43,8 @@ Use the Target Breakdown form to track and measure the progress of the target an
 Use the Target form to track and measure the progress of the goals.
 -   **[Target Source form](target-source-form.md)**  
 Use the Target Source form to create and configure a source for your targets so that the actual value of the target is auto-updated.
--   **[Domain separation and Goal Framework](../concept/goal-framework-domain-separation.md)**  
+-   **[Domain separation and Goal Framework](goal-framework-domain-separation.md)**  
 Domain separation is supported for Goal Framework and Goal Framework for SPM. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM](../concept/goal-framework.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM](goal-framework.md)
 

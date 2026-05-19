@@ -21,7 +21,7 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-The My Requests page displays all the requests that you've raised. For more information about raising requests, see [Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md).
+The My Requests page displays all the requests that you've raised. For more information about raising requests, see [Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md).
 
 ## Procedure
 
@@ -74,20 +74,20 @@ The My Requests page displays all the requests that you've raised. For more info
             -   **Open**: Displays the requests that are open.
             -   **Closed**: Displays the requests that have been closed.
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](use-supp-central.md)
 
 **Related topics**  
 
 
 [Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](my-to-dos.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 
@@ -101,9 +101,9 @@ The My Requests page displays all the requests that you've raised. For more info
 
 [Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](create-universal-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 [View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
 

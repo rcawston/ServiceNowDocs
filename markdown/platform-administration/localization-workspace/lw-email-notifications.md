@@ -17,9 +17,9 @@ As an admin, you can set up email notifications for events in Localization Works
 
 Keep your requestors and fulfillers informed by configuring email notifications in the system. Emails can be triggered by events or dates.
 
--   **[Create email notifications for completed translation jobs](../task/lw-email-notif-completed-jobs.md)**  
+-   **[Create email notifications for completed translation jobs](lw-email-notif-completed-jobs.md)**  
 Configure email notifications so you can be informed when Localization Workspace translation jobs are completed.
--   **[Create email notifications for translation request due dates](../task/lw-email-notif-due-dates.md)**  
+-   **[Create email notifications for translation request due dates](lw-email-notif-due-dates.md)**  
 As an admin, you can create email notifications triggered by translation request due dates.
 
 **Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)
@@ -27,9 +27,9 @@ As an admin, you can create email notifications triggered by translation request
 **Related topics**  
 
 
-[Create an email notification](../../notification/task/t_CreateANotification.md)
+[Create an email notification](../t_CreateANotification.md)
 
-[Create notification categories](../../notification/task/create-notification-categories.md)
+[Create notification categories](../create-notification-categories.md)
 
-[Preview email notifications](../../notification/task/t_PreviewingNotifications.md)
+[Preview email notifications](../t_PreviewingNotifications.md)
 

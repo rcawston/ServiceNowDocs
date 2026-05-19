@@ -96,7 +96,7 @@ Add tags to track analytics for the voice assistant. For example: HR Business Un
         -   German
         -   Spanish
         -   Japanese
-        See [Multilingual support for voice assistants](../reference/multi-lingual-support-for-voice-assistants.md) for more information.
+        See [Multilingual support for voice assistants](multi-lingual-support-for-voice-assistants.md) for more information.
 
     2.  Add a personalized welcome message to greet the callers calling into the voice assistant.
 

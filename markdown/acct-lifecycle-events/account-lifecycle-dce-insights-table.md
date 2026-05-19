@@ -15,7 +15,7 @@ DCE Insights is a feature of the Data Context Engine that enhances how users vie
 
 ## DCE Visualization
 
-DCE Visualization enables users to configure data sources, define baselines and targets, and apply aggregation rules. It also supports the setup of conditional logic, allowing visualizations to be tailored to specific scenarios, for example, displaying customer-specific data based on defined conditions. See [Configure DCE Visualizations](../task/account-lifecycle-configure-dce-visual.md) for detailed descriptions of all the fields in this table.
+DCE Visualization enables users to configure data sources, define baselines and targets, and apply aggregation rules. It also supports the setup of conditional logic, allowing visualizations to be tailored to specific scenarios, for example, displaying customer-specific data based on defined conditions. See [Configure DCE Visualizations](account-lifecycle-configure-dce-visual.md) for detailed descriptions of all the fields in this table.
 
 ## DCE Insights
 

@@ -54,7 +54,7 @@ The analysis process takes about 15 minutes or less to return recommendation res
 
     The results display as cards in two sections: **Topics that VA can handle** for pre-built topics and **User intents that need topic flows** for intents and corresponding topics that can be created.
 
-    **Tip:** To view details about a pre-built topic or user intent, select the card, and then select the Info icon ![Info icon.](../images/icon-info-blue.png) to open an overlay card. For more information, see [Topic Recommendations cards](../reference/topic-recommendations-cards.md).
+    **Tip:** To view details about a pre-built topic or user intent, select the card, and then select the Info icon ![Info icon.](../images/icon-info-blue.png) to open an overlay card. For more information, see [Topic Recommendations cards](topic-recommendations-cards.md).
 
 
 ## What to do next

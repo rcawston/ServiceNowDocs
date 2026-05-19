@@ -169,7 +169,7 @@ Entered currency
 
 </td><td>
 
-Currency for the benefit plan.If the selected currency is different from the default currency configured in the Financial Management application, the [budget reference rate](../../project-management/concept/c_BudgetReferenceRates.md) is used to calculate the financial benefit of the demand.
+Currency for the benefit plan.If the selected currency is different from the default currency configured in the Financial Management application, the [budget reference rate](../ppm-collaboration/c_BudgetReferenceRates.md) is used to calculate the financial benefit of the demand.
 
 </td></tr><tr><td>
 
@@ -212,5 +212,5 @@ Recurring
 Check box to indicate if the benefit is recurring for each fiscal period in the benefit breakdown.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Demand Management forms](../concept/demand-management-forms.md)
+</table>**Parent Topic:**[Demand Management forms](demand-management-forms.md)
 

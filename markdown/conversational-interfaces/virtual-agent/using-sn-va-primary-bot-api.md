@@ -111,7 +111,7 @@ All input controls and bot response controls are supported.
     Autopilot mode is currently not supported in the secondary instance when the conversation is initiated on the primary instance. Live agent connection in the secondary instance works only when the secondary instance is in asynchronous mode.
 
 
--   **[Install Virtual Agent Bot Interconnect](../task/install-bot-interconnect.md)**  
+-   **[Install Virtual Agent Bot Interconnect](install-bot-interconnect.md)**  
 You can install the Bot Interconnect application if you have the admin role. The application is available from the ServiceNow® Store.
 -   **[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](using-va-api-ggl-dialogflow.md)**  
 With Bot Interconnect, you can use ServiceNow® Virtual Agent as the primary bot with a Google Dialogflow secondary bot. All of the skills and topics available to Google Dialogflow are made available to and executable from channels that are configured for ServiceNow® Virtual Agent.

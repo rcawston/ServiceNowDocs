@@ -51,5 +51,5 @@ There are a few good practices when creating groups:
 9.  Click **Update**.
 
 
-**Parent Topic:**[Activate Facilities Service Management](../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
+**Parent Topic:**[Activate Facilities Service Management](t_ActivateFacilitiesSM.md)
 

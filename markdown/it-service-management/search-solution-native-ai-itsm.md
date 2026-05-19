@@ -36,5 +36,5 @@ Role required: none
 5.  If the solutions aren’t relevant, proceed with incident creation or checking the request status.
 
 
-**Parent Topic:**[Employee experience in Simplified IT Service Management](../concept/employee-experience-native-ai-itsm.md)
+**Parent Topic:**[Employee experience in Simplified IT Service Management](employee-experience-native-ai-itsm.md)
 

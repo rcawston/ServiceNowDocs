@@ -15,11 +15,11 @@ Mark the bot process as ready for migration in RPA Hub so that the bot process c
 
 ## Before you begin
 
-Familiarize yourself with the bot process migration concept. For more information, see [Migrating the bot process configuration in RPA Hub](../concept/bot-process-migration.md).
+Familiarize yourself with the bot process migration concept. For more information, see [Migrating the bot process configuration in RPA Hub](bot-process-migration.md).
 
-Verify that you’ve completed the tasks that are related to setting up the target environment. For more information, see [Set up the ServiceNow Remote Instance spoke](../../../administer/integrationhub-store-spokes/task/setup-rem-instance.md#).
+Verify that you’ve completed the tasks that are related to setting up the target environment. For more information, see [Set up the ServiceNow Remote Instance spoke](integration-hub/setup-rem-instance.md#).
 
-Verify that the life-cycle stage status of the bot process in the source environment is set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+Verify that the life-cycle stage status of the bot process in the source environment is set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](lifecycle-stages-botprocess.md).
 
 Verify that the Robotic Process Automation \(RPA\) developer \(sn\_rpa\_fdn.rpa\_developer\) is in the Managed by Group list of the bot process.
 
@@ -40,5 +40,5 @@ Role required: sn\_rpa\_fdn.rpa\_developer or sn\_rpa\_fdn.rpa\_admin
     You can't see the **Ready for Migration** button when the bot process migration is in progress.
 
 
-**Parent Topic:**[Migrating the bot process configuration in RPA Hub](../concept/bot-process-migration.md)
+**Parent Topic:**[Migrating the bot process configuration in RPA Hub](bot-process-migration.md)
 

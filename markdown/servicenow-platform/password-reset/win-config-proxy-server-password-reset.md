@@ -40,5 +40,5 @@ You can configure registry keys to enable the Password Reset Windows Application
 -   **[Configure a proxy server using PAC file \(automatic configuration script method\)](win-proxy-server-pac-file-password-reset.md)**  
 Configure the Proxy Auto-Configuration \(PAC\) file or Windows proxy auto detection \(WPAD\) using the Internet Explorer \(IE\) settings.
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](install-configure-password-reset-windows-app.md)
 

@@ -55,7 +55,7 @@ Role required: admin
 
 13. Create a new cloud account using your Azure Service Principal credential.
 
-    For more information, see [Set up Azure service accounts](../../it-operations-management/task/setup-azure-service-accounts.md).
+    For more information, see [Set up Azure service accounts](../setup-azure-service-accounts.md).
 
 14. Select **next**.
 

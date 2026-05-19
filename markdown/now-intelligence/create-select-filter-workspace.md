@@ -102,7 +102,7 @@ A Multiple select filter lets users select multiple values of a field or breakdo
     **Note:**
 
     -   Some filters have a many-to-many relationship, where values on both filters can match multiple values on the other filter. One such filter can follow another only through a connecting table. Only admins can set up these cascading filters. For more information, see [Set a filter to follow another filter in a many-to-many relationship](set-filter-to-follow-filter.md).
-    -   Two filters can follow each other, but there are additional requirements. For more information, see [Conditions for two filters to follow each other](../concept/filters-follow-each-other.md).
+    -   Two filters can follow each other, but there are additional requirements. For more information, see [Conditions for two filters to follow each other](filters-follow-each-other.md).
 9.  Select the **Sort direction**.
 
     If you select **Ascending**, the lowest filtered values are shown first. If you select **Descending**, the highest values are shown first. The user can change this value.
@@ -174,7 +174,7 @@ If you have the required roles, add the filter to the filter library. You can al
 **Related topics**  
 
 
-[Applying filters to Process Mining maps](../concept/applying-filters-to-process-optimization-maps.md)
+[Applying filters to Process Mining maps](applying-filters-to-process-optimization-maps.md)
 
 [Edit a Platform Analytics filter on a dashboard](edit-filters-configurable-workspaces.md)
 

@@ -32,7 +32,7 @@ The ability to review apps is not currently available to federal customers.
 
 4.  On the guest review form, fill in the fields.
 
-    For a description of the field values, see [Guest review form fields](../reference/guest-review-form-fields.md).
+    For a description of the field values, see [Guest review form fields](guest-review-form-fields.md).
 
 5.  Select **Submit**.
 
@@ -41,5 +41,5 @@ The ability to review apps is not currently available to federal customers.
 
 The name, company, comment, and rating that you entered into the Guest review form are visible in the review posted to the app listing details.
 
-**Parent Topic:**[Reviewing apps](../concept/reviewing-apps.md)
+**Parent Topic:**[Reviewing apps](reviewing-apps.md)
 

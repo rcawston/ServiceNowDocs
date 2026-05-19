@@ -72,9 +72,9 @@ Enables the debug log to display responses from the third-party system. Turn on 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Parent Topic:**[Integrating with the Sterling Talent Solutions service](integrate-with-sterling-service.md)
 
-**Previous topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Previous topic:**[Integrating with the Sterling Talent Solutions service](integrate-with-sterling-service.md)
 
 **Next topic:**[Verify integration for the Sterling service](verify-base-integration-for-sterling.md)
 

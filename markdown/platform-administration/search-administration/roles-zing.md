@@ -15,7 +15,7 @@ breadcrumb: [Installed with Zing, Zing text indexing and search engine, Search a
 
 Zing is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Installed with Zing](installed-with-zing.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reference, HR Service Delivery integration with Oracle Cloud HCM, I
 
 Transform maps specify data relationships between a source table and a target table.
 
-HR Profile Transform Map, Job Transform Map, Department Transform Map, Location Transform Map, Position Transform Map are the transform maps used in HR Service Delivery integration with Oracle Cloud HCM. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](../task/transform-maps-HR.md).
+HR Profile Transform Map, Job Transform Map, Department Transform Map, Location Transform Map, Position Transform Map are the transform maps used in HR Service Delivery integration with Oracle Cloud HCM. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](transform-maps-HR.md).
 
 **Note:** Ensure that you index coalesce fields for better transformation performance.
 

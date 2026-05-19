@@ -40,5 +40,5 @@ Role required: admin
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Document references](../concept/doc-mgt-references.md)
+**Parent Topic:**[Document references](doc-mgt-references.md)
 

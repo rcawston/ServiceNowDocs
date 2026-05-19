@@ -41,7 +41,7 @@ Shift-based scheduling provides a simplified approach to scheduling manufacturin
 
 -   **[Scheduling calendar](calendar-view-scheduling.md)**  
 The calendar view provides a visual interface for scheduling manufacturing tasks. It helps operators and line leaders plan, view, and manage task schedules more easily by showing occurrences, overlaps, and exceptions in a familiar calendar format.
--   **[Create a standard schedule plan](../task/create-events-based-on-schedules.md)**  
+-   **[Create a standard schedule plan](create-events-based-on-schedules.md)**  
 Create a plan for the scheduled creation of standard tasks.
 
 **Parent Topic:**[Using Industrial Standards](using-industrial-standards.md)

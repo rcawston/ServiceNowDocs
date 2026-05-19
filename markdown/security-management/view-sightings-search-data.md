@@ -119,5 +119,5 @@ Query to identify the instance. 172.10.0.171 is substitutable and gets substitut
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create sightings search configuration records](../../security-incident-response/task/sightings-search-configurations.md)
+**Parent Topic:**[Create sightings search configuration records](sightings-search-configurations.md)
 

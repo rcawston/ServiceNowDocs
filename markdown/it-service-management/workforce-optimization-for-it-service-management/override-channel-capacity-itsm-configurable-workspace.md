@@ -80,5 +80,5 @@ Do this
 
 A message appears indicating the capacity update is valid for the defined duration. The capacity resets to the previous value after the specified time.
 
-**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](../concept/configurable-channels-workforce-optimization-itsm.md)
+**Parent Topic:**[Routing work items using Channels in Workforce Optimization for ITSM](configurable-channels-workforce-optimization-itsm.md)
 

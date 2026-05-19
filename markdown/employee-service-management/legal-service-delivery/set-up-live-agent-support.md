@@ -63,5 +63,5 @@ Role required: admin
         For more information on the fields, see [Define Assignment Eligibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-specify-assignment-eligibility.md).
 
 
-**Parent Topic:**[Live agent support for legal services](../concept/legal-va-live-agent.md)
+**Parent Topic:**[Live agent support for legal services](legal-va-live-agent.md)
 

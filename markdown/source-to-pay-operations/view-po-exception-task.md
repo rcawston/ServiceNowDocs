@@ -34,5 +34,5 @@ The purchase order exception task is displayed. Add comments or attachments as n
 
 **Note:** For tasks of the Upload Documents action type, the **Mark Complete** button is not available until a file is attached.
 
-**Parent Topic:**[Source-to-Pay Workspace](../concept/purch-order-mgmt-ws.md)
+**Parent Topic:**[Source-to-Pay Workspace](purch-order-mgmt-ws.md)
 

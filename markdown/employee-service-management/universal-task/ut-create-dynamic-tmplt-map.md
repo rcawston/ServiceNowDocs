@@ -81,5 +81,5 @@ The **Value** field appears. You can map your Universal task to multiple fields 
 
 A mapping was created for a specific Universal task field. You can repeat this procedure to map more fields.
 
-**Parent Topic:**[Universal Task templates](../concept/ut-task-template-landing.md)
+**Parent Topic:**[Universal Task templates](ut-task-template-landing.md)
 

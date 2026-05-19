@@ -25,12 +25,12 @@ Submit feedback or take a survey about your experience by using actionable cards
 
 -   **[Manage approvals from a Microsoft Outlook email](../task/oam-concur.md)**  
 Approve or reject Concur expense reports from a Microsoft Outlook email message.
--   **[Submit feedback from a Microsoft Outlook email message](../task/submit-feedback-outlook.md)**  
+-   **[Submit feedback from a Microsoft Outlook email message](submit-feedback-outlook.md)**  
 Submit feedback about a service request or your experience using the feedback card in a Microsoft Outlook email message.
--   **[Submit a survey from an email message](../task/submit-survey-outlook.md)**  
+-   **[Submit a survey from an email message](submit-survey-outlook.md)**  
 Submit a survey about your experience using the feedback card in a Microsoft Outlook email message.
--   **[Update Outlook Actionable Messages authentication to Microsoft Entra ID](../task/update-outlook-actionable-msgs-auth-to-ms-entra-id.md)**  
+-   **[Update Outlook Actionable Messages authentication to Microsoft Entra ID](update-outlook-actionable-msgs-auth-to-ms-entra-id.md)**  
 Microsoft will retire External Access Token \(EAT\) authentication for Outlook Actionable Messages on March 31, 2026. Microsoft Entra ID token authentication is required for Outlook Actionable Messages.
 
-**Parent Topic:**[Unified Employee Experience](../../employee-center/concept/ec-and-ecpro-landing-page.md)
+**Parent Topic:**[Unified Employee Experience](ec-and-ecpro-landing-page.md)
 

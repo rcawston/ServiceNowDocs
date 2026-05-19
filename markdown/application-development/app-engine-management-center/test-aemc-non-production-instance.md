@@ -25,11 +25,11 @@ To test AEMC and pipelines before you proceed to a production environment, pick 
 
 ## Procedure
 
-1.  Begin the Pipelines and Deployments Guided setup tasks as detailed in [Pipelines and Deployments configuration tasks](../../pipelines-and-deployments/reference/p-and-d-config-tasks.md).
+1.  Begin the Pipelines and Deployments Guided setup tasks as detailed in [Pipelines and Deployments configuration tasks](p-and-d-config-tasks.md).
 
 2.  When you begin the tasks to configure your pipeline environments, select one of your non-production instances and designate it as a production instance in the pipeline environment record.
 
-    For more information on the usual process, see [Configure your pipeline environments](../../pipelines-and-deployments/task/config-pipeline-environments.md).
+    For more information on the usual process, see [Configure your pipeline environments](config-pipeline-environments.md).
 
 3.  Test AEMC and your pipeline functionality.
 

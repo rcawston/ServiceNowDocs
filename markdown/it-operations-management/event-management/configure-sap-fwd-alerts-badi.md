@@ -72,5 +72,5 @@ Third-party alerts get forwarded globally. You can configure the alert reaction 
 
 View alerts generated in SAP Solution Manager to see any pressing issues, as described in [View alerts in the SAP Solution Manager inbox](sap-view-alerts.md).
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](sap-solman-configurations.md)
 

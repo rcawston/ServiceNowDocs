@@ -17,7 +17,7 @@ Send email directly from any record, such as an incident, change request, or pro
 
 <table id="table_ymq_cfr_bzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about sending an email directly from any record](../reference/exploring-email-client.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about sending an email directly from any record](exploring-email-client.md)
 
 </td><td>
 
@@ -25,11 +25,11 @@ Send email directly from any record, such as an incident, change request, or pro
 
 </td></tr><tr><td>
 
-[Components Installed![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with email client](../reference/installed-with-email-client.md)
+[Components Installed![](../../../reuse/icons/brand-icons/bus-learn.svg)View components installed with email client](installed-with-email-client.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)References for email client](../reference/reference-email-client.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)References for email client](reference-email-client.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

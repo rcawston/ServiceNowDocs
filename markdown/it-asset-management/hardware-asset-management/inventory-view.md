@@ -28,7 +28,7 @@ Use the following tabs to view the inventory functions and take appropriate acti
 -   **Donation orders**: View the list of asset donation orders.
 -   **Repair orders**: View the list of repair orders submitted for repair of assets with your stockroom. You can also create repair orders.
 
-To create an asset audit for your inventory, select **New asset audit**. For more details, see [Create an audit record in the Hardware Asset Management application](../task/audit-your-inventory.md).
+To create an asset audit for your inventory, select **New asset audit**. For more details, see [Create an audit record in the Hardware Asset Management application](audit-your-inventory.md).
 
 **Note:** You need the asset or inventory\_admin role to access the Inventory view.
 

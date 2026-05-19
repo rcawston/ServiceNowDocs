@@ -15,7 +15,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 Establish a connection between Agile Development 2.0 and Azure DevOps using a connection alias and an Azure DevOps instance.
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](setting-up-agile-azure-integration.md)
 
 ## Create an Azure DevOps connection alias
 
@@ -115,7 +115,7 @@ If the **State** field on the Azure DevOps Instance record shows:
 
 ### What to do next
 
-[Discover and import Azure DevOps projects](../task/discover-import-azure-projects.md)
+[Discover and import Azure DevOps projects](discover-import-azure-projects.md)
 
 .
 

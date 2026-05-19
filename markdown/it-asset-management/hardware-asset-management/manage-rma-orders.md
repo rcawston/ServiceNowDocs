@@ -17,10 +17,10 @@ Following a request for a hardware asset return or replacement, a Return Merchan
 
 Completing the following tasks in the RMA order workflow results in the completion and success of an RMA response order:
 
-1.  [Create an RMA response order](../task/create-rma-response-order.md)
-2.  [Create an RMA response order line](../task/create-rma-response-order-line.md)
-3.  [Assess the RMA asset](../task/assess-rma.md)
-4.  [Schedule a visit to the customer site](../task/schedule-rma-daas.md) or [Ship the asset to the DaaS provider](../task/ship-rma-asset.md)
+1.  [Create an RMA response order](create-rma-response-order.md)
+2.  [Create an RMA response order line](create-rma-response-order-line.md)
+3.  [Assess the RMA asset](assess-rma.md)
+4.  [Schedule a visit to the customer site](schedule-rma-daas.md) or [Ship the asset to the DaaS provider](ship-rma-asset.md)
 
     **Note:** Follow the next steps according to the values you select when scheduling a visit to the customer site or shipping the asset to the DaaS provider for assessing the RMA asset.
 

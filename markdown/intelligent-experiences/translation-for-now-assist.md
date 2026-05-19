@@ -127,7 +127,7 @@ Dynamic Translation for Now Assist uses the Microsoft Azure OEM translation serv
 -   Arabic
 -   Danish
 
-For more information, see [Microsoft Azure OEM for Dynamic Translation in Now Assist](../../now-assist-admin/concept/dynamic-translation-na-ms-azure-oem.md).
+For more information, see [Microsoft Azure OEM for Dynamic Translation in Now Assist](dynamic-translation-na-ms-azure-oem.md).
 
 ## Choosing a translation service
 
@@ -139,7 +139,7 @@ For more information on tracking Now Assist usage, see [Monitoring Now Assist us
 
 ## Enabling translation for Now Assist
 
-For more information on turning on multilingual services for Now Assist applications, see [Enable translation for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md).
+For more information on turning on multilingual services for Now Assist applications, see [Enable translation for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md).
 
-**Parent Topic:**[Configure multilingual service for Now Assist applications](../../now-assist-admin/task/enable-dynamic-translation-for-now-assist-applications.md)
+**Parent Topic:**[Configure multilingual service for Now Assist applications](enable-dynamic-translation-for-now-assist-applications.md)
 

@@ -57,16 +57,16 @@ Purchase order
 
 </td><td>
 
--   [Create hardware assets prior to delivery](../../procurement/task/t_CreateAssetReserveForRequester.md): When the hardware asset records are automatically created.
--   [Advanced shipment notification](../task/advanced-shipment-notification.md): When the assets are imported for every unique tracking number specified in the import file.
+-   [Create hardware assets prior to delivery](../procurement/t_CreateAssetReserveForRequester.md): When the hardware asset records are automatically created.
+-   [Advanced shipment notification](advanced-shipment-notification.md): When the assets are imported for every unique tracking number specified in the import file.
 
 **Note:**
 
 If the shipping carrier specified for a row in the import file isn't available in the Shipping carrier \[sn\_itam\_shipping\_carrier\] table, then that row isn’t imported. Also, no shipment record is created. You must do one of the following and reimport the file:
 
-    -   The shipping carrier must be included in the Shipping Carriers list. For more details, see [Create a shipping carrier record](../task/create-shipping-carrier.md).
+    -   The shipping carrier must be included in the Shipping Carriers list. For more details, see [Create a shipping carrier record](create-shipping-carrier.md).
     -   The value of the sn\_hamp.enable\_shipping\_carrier\_validation\_asn system property must be set to **false**.
--   [Receive an asset](../../procurement/task/t_ReceiveAnAsset.md): When the assets are received.
+-   [Receive an asset](../procurement/t_ReceiveAnAsset.md): When the assets are received.
 
 **Note:** The shipment record is created in the Delivered stage.
 
@@ -138,5 +138,5 @@ The Request shipment task is closed.
 The User asset receive task is closed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

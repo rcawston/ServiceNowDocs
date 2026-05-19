@@ -26,20 +26,20 @@ Role required: assessment\_admin or admin
     ![Scorecard export image](../images/QuizScorecardExportImage.png)
 
 
-**Parent Topic:**[Survey responses and results](../../survey-administration/concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View results for all surveys](../../survey-administration/task/t_ViewResultsForAllSurveys.md)
+[View results for all surveys](t_ViewResultsForAllSurveys.md)
 
-[View the results for a survey](../../survey-administration/task/t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](../../survey-administration/task/t_ViewAScorecard.md)
+[View a survey scorecard](t_ViewAScorecard.md)
 
-[Request translations for surveys](../../survey-administration/task/request-translations-for-surveys.md)
+[Request translations for surveys](request-translations-for-surveys.md)
 
-[Edit translations for surveys](../../survey-administration/task/edit-translations-for-surveys.md)
+[Edit translations for surveys](edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../../survey-administration/concept/survey-result-database-view.md)
+[Survey responses in a database view](survey-result-database-view.md)
 

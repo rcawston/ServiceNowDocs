@@ -51,7 +51,7 @@ Name
 
 </td><td>
 
-A name for the document. Note that the name for the document is combined with other naming components \(as defined by the [name format](../reference/r_DefiningNameFormats.md)\) to create the names for each document revision.
+A name for the document. Note that the name for the document is combined with other naming components \(as defined by the [name format](r_DefiningNameFormats.md)\) to create the names for each document revision.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Type
 
 </td><td>
 
-The document purpose. This is a choice list derived from the [type parameters](../reference/r_DefiningDocumentParameters.md).
+The document purpose. This is a choice list derived from the [type parameters](r_DefiningDocumentParameters.md).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,7 @@ Classification
 
 </td><td>
 
-The document classification, based on security, audience, and confidentiality. This is a choice list derived from the [classification parameters](../reference/r_DefiningClassifications.md).**Note:** This does not drive any functionality.
+The document classification, based on security, audience, and confidentiality. This is a choice list derived from the [classification parameters](r_DefiningClassifications.md).**Note:** This does not drive any functionality.
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Audience
 
 </td><td>
 
-The document readers, such as external or internal. This is a choice list derived from the [audience parameters](../reference/r_DefiningAudiences.md).**Note:** This does not drive any functionality.
+The document readers, such as external or internal. This is a choice list derived from the [audience parameters](r_DefiningAudiences.md).**Note:** This does not drive any functionality.
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Name format
 
 </td><td>
 
-The format for the name of each individual revision of the document. For more information, see [name format](../reference/r_DefiningNameFormats.md).
+The format for the name of each individual revision of the document. For more information, see [name format](r_DefiningNameFormats.md).
 
 </td></tr><tr><td>
 
@@ -226,5 +226,5 @@ A choice list describing how group members can interact with the document. Optio
 -   **[Specify an approver](t_SpecifyAnApprover.md)**  
 You can specify approvers for a document record after you save it.
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](c_CreateADocument.md)
 

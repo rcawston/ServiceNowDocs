@@ -230,5 +230,5 @@ Photo of the user.
     5.  Verify that all selected roles appear on the **Roles** related tab.
 
 
-**Parent Topic:**[Creating a connection for the Anglepoint integration](../concept/creating-connection-anglepoint-elevate-platform.md)
+**Parent Topic:**[Creating a connection for the Anglepoint integration](creating-connection-anglepoint-elevate-platform.md)
 

@@ -60,7 +60,7 @@ After reviewing the case filing response, Visa issues a decision letter that sup
 12. Select **Close task**.
 
 
-**Parent Topic:**[Collaboration dispute workflow](../concept/collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](collaboration-dispute-workflow.md)
 
-**Parent Topic:**[Allocation dispute workflow](../concept/allocation-dispute-work-flow.md)
+**Parent Topic:**[Allocation dispute workflow](allocation-dispute-work-flow.md)
 

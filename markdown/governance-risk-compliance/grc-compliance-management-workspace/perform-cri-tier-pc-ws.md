@@ -28,8 +28,8 @@ The content is based on NIST CSF v2.0 functions such as identify, protect, detec
 ServiceNow base system provides this CRI Profile content to customers and they are:
 
 -   Authority documents for CRI Profile.
--   FFIEC CAT is part of CRI Accelerator. For more information, see [Cyber Risk Institute accelerator](../../grc-cri-accelerator/concept/cyber-risk-inst-accelerator.md).
--   NIST CSF content is part of CSF Accelerator. For more information, see [NIST CSF process overview](../../grc-nist-csf/concept/nist-csf-process.md).
+-   FFIEC CAT is part of CRI Accelerator. For more information, see [Cyber Risk Institute accelerator](../grc-common-functions/cyber-risk-inst-accelerator.md).
+-   NIST CSF content is part of CSF Accelerator. For more information, see [NIST CSF process overview](../grc-common-functions/nist-csf-process.md).
 
 The CRI assessment is done in two steps:
 
@@ -72,8 +72,8 @@ The CRI assessment is done in two steps:
 
     For more information, see
 
-    -   The Entity form in [Create an entity](../../grc-common-workspace/task/create-new-entity-ws.md).
-    -   The Related lists in the [Entities section](../../grc-common-workspace/concept/entities-in-risk-ws.md).
+    -   The Entity form in [Create an entity](../grc-common-functions/create-new-entity-ws.md).
+    -   The Related lists in the [Entities section](../grc-common-functions/entities-in-risk-ws.md).
 11. Select the ![More actions icon.](../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) icon and click the **Initiate CRI tiering questionnaire** option.
 
 12. Enter a message in the **Message** field and select the **Initiate tiering questionnaire** button in the CRI tiering questionnaire pop-up.
@@ -84,7 +84,7 @@ The CRI assessment is done in two steps:
 
     You can also respond to the assessment from the **Tier assessments** list of the My pending tasks related list in the Tasks page and from the Employee Portal. Review the tiering assessment instructions and respond to the questions. Based on your response to each question, the tier level of the entity is determined.
 
-    To respond to an attestation, see [Respond to attestations from Tasks page of Compliance Workspace](smart-assessment-task-page-ws.md) and [Responding to assessments](../../assessment-engine/concept/sae-respond-to-asmnt.md).
+    To respond to an attestation, see [Respond to attestations from Tasks page of Compliance Workspace](smart-assessment-task-page-ws.md) and [Responding to assessments](../smart-assessment-engine/sae-respond-to-asmnt.md).
 
 14. After you submit your assessment, open the entity record to view the tier value in the **Tier** field of the **Cybersecurity Risk Profile \(CRI\)** section.
 

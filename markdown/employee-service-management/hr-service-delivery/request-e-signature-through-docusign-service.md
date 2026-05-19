@@ -17,7 +17,7 @@ Request an electronic signature through the DocuSign service. When the case stat
 
 ## Before you begin
 
-An HR integrations administrator must have set up the integration between HR Service Delivery and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the DocuSign system before requests can be made. See [Integrating with the DocuSign service](docusign-integration-for-hr.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 

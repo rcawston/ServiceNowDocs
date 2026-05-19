@@ -19,7 +19,7 @@ Role required: You need a role that gives access to the list. To save, share, ex
 
 ## About this task
 
-If you're on a new instance or an instance that has fully migrated to Platform Analytics, follow this procedure. Otherwise, you create a Core UI pie or bar report, instead. In this case, see [Run a report from a list](../../reporting/task/t_RunAReport.md#).
+If you're on a new instance or an instance that has fully migrated to Platform Analytics, follow this procedure. Otherwise, you create a Core UI pie or bar report, instead. In this case, see [Run a report from a list](reporting/t_RunAReport.md#).
 
 ## Procedure
 
@@ -34,5 +34,5 @@ If you're on a new instance or an instance that has fully migrated to Platform A
     The data visualization is generated and opened in the Visualization Designer.
 
 
-**Parent Topic:**[Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](creating-data-visualizations.md)
 

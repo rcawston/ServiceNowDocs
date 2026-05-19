@@ -32,7 +32,7 @@ The safety inspections and audits feature provides the following capabilities:
 
     -   Fill out smart assessment questionnaires via mobile or Health and Safety Workspace. When online, you can partially save a smart assessment to finish it later, or to reassign it to another agent to complete the remaining assessment.
     -   Conduct inspection and audit surveys through Employee Center or on mobile.
-    **Note:** You can complete smart assessments and surveys offline using the Mobile Agent app. Any smart assessments or surveys completed offline automatically synchronize once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](../../hs-health-safety-mobile/task/complete-safety-inspection-survey-offline-mode.md).
+    **Note:** You can complete smart assessments and surveys offline using the Mobile Agent app. Any smart assessments or surveys completed offline automatically synchronize once an internet connection is established. For more information, see [Complete a safety inspection or audit survey in the offline mode](../health-and-safety/complete-safety-inspection-survey-offline-mode.md).
 
 -   **Create actions and findings from smart assessments and surveys**
 
@@ -43,23 +43,23 @@ The safety inspections and audits feature provides the following capabilities:
     Add documents enabling standards or regulatory documents to be used as a reference for audit findings.
 
 
--   **[Set up a safety inspection schedule](../task/hs-schedule-recurring-safety-inspection.md)**  
+-   **[Set up a safety inspection schedule](hs-schedule-recurring-safety-inspection.md)**  
 Set up an inspection schedule to create a safety inspection at a future date, or to schedule recurring safety inspections, such as daily or weekly, or monthly at once.
--   **[Create and manage a safety inspection](../task/hs-create-manage-safety-inspection.md)**  
+-   **[Create and manage a safety inspection](hs-create-manage-safety-inspection.md)**  
 Create a safety inspection to manage your workplace inspection of a particular activity, process, or an area. Review the questionnaire responses and add findings, root cause analyses \(RCA\), and actions for the inspection.
--   **[Set up a safety audit schedule](../task/hs-setup-safety-audit-schedule.md)**  
+-   **[Set up a safety audit schedule](hs-setup-safety-audit-schedule.md)**  
 Create an audit schedule and define the top-level audit details and the recurrence, for example, monthly or bi-monthly.
--   **[Create and manage a safety audit](../task/hs-create-manage-safety-audit-workspace.md)**  
+-   **[Create and manage a safety audit](hs-create-manage-safety-audit-workspace.md)**  
 Create a safety audit for a process or regulation with formalized assessment criteria, and record the information collected at each stage—before, during, and after the audit.
--   **[Complete a safety inspection or audit survey through Employee Center](../task/hs-complete-safety-insp-survey.md)**  
+-   **[Complete a safety inspection or audit survey through Employee Center](hs-complete-safety-insp-survey.md)**  
 Complete a safety inspection or audit survey assigned to you through the Employee Center.
--   **[Add a finding and root cause analysis for a safety inspection](../task/hs-add-finding-rca-safety-inspection.md)**  
+-   **[Add a finding and root cause analysis for a safety inspection](hs-add-finding-rca-safety-inspection.md)**  
 Record a finding based on the survey results for a safety inspection and perform a root cause analysis \(RCA\) for it.
--   **[Add an action for a safety inspection or audit](../task/hs-add-action-safety-inspection.md)**  
+-   **[Add an action for a safety inspection or audit](hs-add-action-safety-inspection.md)**  
 Add an action for each finding to address any issues or implement measures necessary to improve workplace safety. You can add multiple actions for an inspection or audit finding.
--   **[Add an action from survey response in safety inspection through Employee center](../task/add-action-from-survey-response-in-safety-inspection.md)**  
+-   **[Add an action from survey response in safety inspection through Employee center](add-action-from-survey-response-in-safety-inspection.md)**  
 Learn to add actions to the survey responses on a safety inspection or audit survey to access safety issues discovered during a safety walk.
--   **[Assign safety inspection to agents](../task/hs-assign-safety-inspection-to-agents.md)**  
+-   **[Assign safety inspection to agents](hs-assign-safety-inspection-to-agents.md)**  
 Multiple safety agents can be assigned to the same inspection record to enable a collaborative effort. While only one agent can be assigned at a time to a survey related to an inspection record, it allows clear ownership and maintains overall team coordination. This collaboration can be achieved from both Employee center and Health and Safety Workspace.
 
 **Parent Topic:**[Using Health and Safety Risk Management](hs-using-hs-risk-mgmt.md)

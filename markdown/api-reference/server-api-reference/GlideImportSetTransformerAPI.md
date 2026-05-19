@@ -29,22 +29,22 @@ var transformer = new GlideImportSetTransformer();
 transformer.transformAllMaps(importSetGr); 
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 **Related topics**  
 
 
-[GlideImportLog](../../GlideImportLog/concept/GlideImportLogAPI.md#)
+[GlideImportLog](GlideImportLogAPI.md#)
 
-[GlideImportSetRun](../../GlideImportSetRun/concept/GlideImportSetRunAPI.md#)
+[GlideImportSetRun](GlideImportSetRunAPI.md#)
 
-[GlideImportSetTable](../../GlideImportSetTable/concept/GlideImportSetTableAPI.md#)
+[GlideImportSetTable](GlideImportSetTableAPI.md#)
 
-[GlideImportSetTransformMap](../../GlideImportSetTransformMap/concept/GlideImportSetTransformMapAPI.md#)
+[GlideImportSetTransformMap](GlideImportSetTransformMapAPI.md#)
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](c_GlideRecordScopedAPI.md#)
 
-[GlideTransformLog](../../GlideTransformLog/concept/GlideTransformLogAPI.md#)
+[GlideTransformLog](GlideTransformLogAPI.md#)
 
 ## GlideImportSetTransformer - GlideImportSetTransformer\(\)
 

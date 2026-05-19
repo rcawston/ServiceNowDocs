@@ -30,7 +30,7 @@ The extension classes help you understand how Operational Technology Management 
 
 ## Related applications
 
--   **[Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/operational-technology-manager.md)**
+-   **[Operational Technology Manager](../operational-technology-manager/operational-technology-manager.md)**
 
     The Operational Technology Manager application enables you to aggregate OT device data from multiple sources, so that you can build the foundational data relationships used in the Industrial solution.
 

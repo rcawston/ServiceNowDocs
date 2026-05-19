@@ -26,7 +26,7 @@ With this you can configure the following components in the workspace configurat
 -   Control the display of activity stream bar in the Overview pages
 -   Configure the journal fields
 
-**Parent Topic:**[Using Change Management](../../change-management/concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](using-change-management.md)
 
 ## Show the activity stream bar
 

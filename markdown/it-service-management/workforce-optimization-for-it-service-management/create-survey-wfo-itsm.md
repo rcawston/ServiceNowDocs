@@ -36,7 +36,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
     |**A form**|Select **New**.|
     |**Survey Designer**|Select **Survey Designer**.|
 
-    **Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](../../cf-coaching/task/cf-create-survey-coaching-opportunity.md).
+    **Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](../coaching/cf-create-survey-coaching-opportunity.md).
 
 6.  Configure the survey based on your needs.
 
@@ -45,5 +45,5 @@ Role required: sn\_wfo\_cfg\_ws.manager
     **Note:** To share the survey with other managers, you must add managers of those teams as the owners of the survey.
 
 
-**Parent Topic:**[Surveys in Workforce Optimization for ITSM](../concept/surveys-wfo-itsm.md)
+**Parent Topic:**[Surveys in Workforce Optimization for ITSM](surveys-wfo-itsm.md)
 

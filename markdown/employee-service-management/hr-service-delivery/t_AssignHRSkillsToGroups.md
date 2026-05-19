@@ -38,5 +38,5 @@ Role required: sn\_hr\_core.admin
     ![Group skill assignment messages](../image/MessagesForGroupSkillAssignment.png "Messages displayed for group skill assignment")
 
 
-**Parent Topic:**[HR skills management](../concept/c_HRSkillsManagement.md)
+**Parent Topic:**[HR skills management](c_HRSkillsManagement.md)
 

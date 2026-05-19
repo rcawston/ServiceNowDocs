@@ -27,5 +27,5 @@ See which data center is available and if there is an outage or a specific trend
 
 Go directly to Instance Observer, view summaries of the availability, and details of the last 90 days service issues.
 
-**Parent Topic:**[Availability](../concept/io-availability.md)
+**Parent Topic:**[Availability](io-availability.md)
 

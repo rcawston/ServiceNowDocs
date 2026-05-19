@@ -27,7 +27,7 @@ When you add a template checklist to a record, you can add, edit, or remove chec
 
 1.  Navigate to the record that contains a checklist you created.
 
-    To find out how to access the record, see [Create a workplace task checklist](../../workplace-service-delivery/task/create-workplace-task-checklist-wsd.md).
+    To find out how to access the record, see [Create a workplace task checklist](../workplace-core/create-workplace-task-checklist-wsd.md).
 
 2.  In the **Checklist** section, select the down arrow \(![checklist icon](../../human-resources/reference/images/checklist-icon.png)\) beside the **Checklist** formatter.
 

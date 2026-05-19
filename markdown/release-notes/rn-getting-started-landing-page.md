@@ -69,7 +69,7 @@ Start preparing for your upgrade with our upgrade planning checklist and series 
 
 </td></tr><tr><td>
 
-[ServiceNow upgrades](../upgrades/reference/upgrade.md)
+[ServiceNow upgrades](upgrade.md)
 
 </td><td>
 

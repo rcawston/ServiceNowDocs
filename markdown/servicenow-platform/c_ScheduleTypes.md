@@ -20,5 +20,5 @@ On-demand assessments require less setup. Scheduled assessments define users, or
 **Related topics**  
 
 
-[Assessments](../reference/r_Assessments.md)
+[Assessments](r_Assessments.md)
 

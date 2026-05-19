@@ -46,7 +46,7 @@ By default, a base system **Default Risk Calculator** is provided. If you want t
 
 You can adjust the values to use in the Default Risk Rule and how much weight to give each of these values. Weights are used to adjust how much each element counts when setting the base Risk Score.
 
-Starting with Configuration Compliance version 13.0, you can customize the criteria for the default risk rule. For more information, see [Define fields and weights for the risk rule](../task/define-fields-weights-risk-rule.md).
+Starting with Configuration Compliance version 13.0, you can customize the criteria for the default risk rule. For more information, see [Define fields and weights for the risk rule](define-fields-weights-risk-rule.md).
 
 ## Assigning a weightage percentage
 

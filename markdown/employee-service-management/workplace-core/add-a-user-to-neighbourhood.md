@@ -74,7 +74,7 @@ To add a user to the neighborhood, the user must have a workplace profile. If th
 
 The user is added to the neighborhood. The Workplace Profile Location Assignment of the user is updated. The Workplace Profile Location Assignment related list in the Workplace Profile form of the user and the Neighborhood form are updated. Neighborhood assignments are applicable if **Neighborhood** is selected as the group by or view by option in a scenario or building overview. Location assignments are applicable for all other options.
 
-For more information about the Workplace Profile Location Assignment, see [Workplace Profile Location Assignment form](../../workplace-service-delivery/reference/wsd-location-assignment-form.md).
+For more information about the Workplace Profile Location Assignment, see [Workplace Profile Location Assignment form](wsd-location-assignment-form.md).
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](neighborhoods.md)
 

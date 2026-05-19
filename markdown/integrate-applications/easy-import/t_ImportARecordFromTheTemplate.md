@@ -43,5 +43,5 @@ Role required: admin.
     If the template passes validation and the imported preview matches your expectations, click **Complete Import** to import records into the current table. If the template fails validation, review the errors. Click **Ignore Errors and Complete Import** to continue the import by skipping any bad data cells.
 
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](c_EasyImport.md)
 

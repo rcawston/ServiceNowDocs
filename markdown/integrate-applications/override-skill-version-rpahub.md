@@ -16,7 +16,7 @@ Override a skill package version in RPA Hub to use a specific version of a skill
 
 ## Before you begin
 
-Verify that the life-cycle stage status of the bot process isn't set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](../reference/lifecycle-stages-botprocess.md).
+Verify that the life-cycle stage status of the bot process isn't set to **Published**. For more information, see [Life-cycle stage statuses \(LLCS\) of a bot process in RPA Hub](lifecycle-stages-botprocess.md).
 
 You can see the skill package versions in the **Skill Overrides** tab of the bot process when the attended or unattended packages have the skill package associated with them. For more information, see [Create a package to assign to a bot process](create-package.md#).
 
@@ -47,5 +47,5 @@ In the skill package version, you can select the bot processes that you want the
 6.  In the **Overridden version** field, select the version to override.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](post-req-bot-process-rpa.md)
 

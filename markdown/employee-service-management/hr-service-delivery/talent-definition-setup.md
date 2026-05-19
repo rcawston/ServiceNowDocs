@@ -27,7 +27,7 @@ Role required: sn\_ta\_hiring\_core.admin/ sn\_ta\_tp.talent\_profile\_admin
 
 3.  On the Talent profile definition form, fill in the fields.
 
-    For a description of the field values, see [Talent profile definition form](../reference/talent-profile-def-form.md).
+    For a description of the field values, see [Talent profile definition form](talent-profile-def-form.md).
 
 4.  Select **Submit**.
 
@@ -42,5 +42,5 @@ Opt in to the Talent Profile.
 
 **Note:** You can see the default talent types when you change the **Status** of the default Restricted caller access \(RCA\)s from **Requested** to **Allowed** available in the application **Source Scope** **Talent Profile**.
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

@@ -36,11 +36,11 @@ Safety exposure management provides the following capabilities:
 -   Perform exposure assessments that can create multiple exposure records \(using a condition builder\) for people affected across different locations.
 -   Assign follow-up actions so that the exposures are controlled, and workers are protected.
 
--   **[Define an exposure type](../task/hs-define-exposure-type.md)**  
+-   **[Define an exposure type](hs-define-exposure-type.md)**  
 Identify and define a potential workplace exposure type present in a location in your organization. Maintain a list of all exposures types across your organization.
--   **[Create an exposure assessment for an exposure type](../task/hs-create-exposure-assessment.md)**  
+-   **[Create an exposure assessment for an exposure type](hs-create-exposure-assessment.md)**  
 For an exposure type, create an exposure assessment for a site location. You can also generate exposure assessments for multiple locations in your organization at once for an exposure type.
--   **[Perform an exposure assessment for a location](../task/hs-perform-exposure-assessment.md)**  
+-   **[Perform an exposure assessment for a location](hs-perform-exposure-assessment.md)**  
 Perform an exposure assessment for an exposure type for each site location in your organization.
 
 **Parent Topic:**[Using Health and Safety Risk Management](hs-using-hs-risk-mgmt.md)

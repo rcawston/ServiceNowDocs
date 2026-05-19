@@ -23,7 +23,7 @@ Role required: Supplier
 
 1.  Navigate to the header on the home page &gt; **My Requests**.
 
-    Lists all the invoice inquiry cases assigned to supplier. For more information on invoice inquiry cases, see [Invoice inquiry cases](../concept/work-with-inquiry-cases.md).
+    Lists all the invoice inquiry cases assigned to supplier. For more information on invoice inquiry cases, see [Invoice inquiry cases](work-with-inquiry-cases.md).
 
 2.  You can apply filter on **View** option which will display the open and closed requests.
 
@@ -51,5 +51,5 @@ Role required: Supplier
     The Accounts Payable agent interacts with the supplier and updates the inquiry case using the **Activity** option.
 
 
-**Parent Topic:**[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+**Parent Topic:**[Using Supplier Collaboration Portal in APO](using-supplier-collaboration-portal.md)
 

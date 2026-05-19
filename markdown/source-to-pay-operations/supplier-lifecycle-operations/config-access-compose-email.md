@@ -34,12 +34,12 @@ Role required: admin
 
 The role required to access the compose email feature is configured.
 
-**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
 **Related topics**  
 
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
 
 [Communicate using emails from the Source-to-Pay Workspace](send-emails-slm-ws.md)
 

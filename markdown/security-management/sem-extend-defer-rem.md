@@ -81,5 +81,5 @@ Enter any other relevant information.
     -   The Request Extension button is unavailable for remediation tasks that are created as part of an exception rule.
     -   If a deferred remediation task is extended again, the extend deferral count increases in the backend.
 
-**Parent Topic:**[Exception Management Overview](../concept/sem-exception-management-overview.md)
+**Parent Topic:**[Exception Management Overview](sem-exception-management-overview.md)
 

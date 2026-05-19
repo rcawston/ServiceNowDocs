@@ -49,7 +49,7 @@ if(pa.getCurrentBreakdownSysID() == 'baec0752bf130100b96dac808c0739ed' && pa.get
 res;
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](PAFormulaUtils.md)
 
 **Related topics**  
 
@@ -74,5 +74,5 @@ res;
 
 [getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](PAFormulaUtils.md)
 

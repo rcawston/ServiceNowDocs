@@ -54,7 +54,7 @@ Role required: asset
 
 The Time Worked form is saved and the time card is added to the Time Worked tab of the asset repair task.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](record-repair-time-ham-ws.md)
 
 **Related topics**  
 

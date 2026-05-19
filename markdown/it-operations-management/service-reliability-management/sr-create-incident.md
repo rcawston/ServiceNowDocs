@@ -175,7 +175,7 @@ Choose a state for the incident. Choices are:-   New \(default\)
 -   On Hold
 -   Resolved
 -   Canceled
-See [SRM incident states](../concept/sr-incident-states.md) for more information.
+See [SRM incident states](sr-incident-states.md) for more information.
 
 </td></tr><tr><td>
 
@@ -237,8 +237,8 @@ Enter any relevant resolution information.
 
 10. Select **Save**.
 
-    The incident appears with comments, work notes, and incident activity captured in the **Activity** stream. For more information on incident fields, see [SRM incidents](../reference/sr-incidents-workspace.md).
+    The incident appears with comments, work notes, and incident activity captured in the **Activity** stream. For more information on incident fields, see [SRM incidents](sr-incidents-workspace.md).
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](sr-work-incidents.md)
 

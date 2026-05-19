@@ -60,7 +60,7 @@ The Security Incident Response plugin \(com.snc.security\_incident\) is required
 
 </td></tr><tr><td>
 
-[Install and configure](../task/cs-ng-siem-integration.md)
+[Install and configure](cs-ng-siem-integration.md)
 
 </td><td>
 

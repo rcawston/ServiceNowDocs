@@ -48,5 +48,5 @@ The recall option is available only if the **Allow recall** option is selected o
 -   Creates negative expense lines to zero out the corresponding expense lines created when the time card was approved.
 -   Returns the associated time sheet to its submitter for modifications.
 
-**Parent Topic:**[Time cards](../concept/c_TimeCards.md)
+**Parent Topic:**[Time cards](c_TimeCards.md)
 

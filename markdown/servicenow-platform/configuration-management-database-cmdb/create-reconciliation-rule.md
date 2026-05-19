@@ -19,12 +19,12 @@ If both, static and dynamic reconciliation rules exist for the same CI attribute
 
 **Note:** You can't create a reconciliation rule for system fields or for Identification and Reconciliation Engine \(IRE\) specific fields such as the Discovery source \(discovery\_source\) field. Also, reconciliation rules can't be dot-walked using reference fields.
 
-**Parent Topic:**[Reconciliation rules](../reference/r_ReconciliationRulesPrinciples.md)
+**Parent Topic:**[Reconciliation rules](r_ReconciliationRulesPrinciples.md)
 
 **Related topics**  
 
 
-[Create a data refresh rule](../task/create-datasource-staleness-rule.md)
+[Create a data refresh rule](create-datasource-staleness-rule.md)
 
 ## Create a static reconciliation rule
 
@@ -36,7 +36,7 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 ### About this task
 
-Static reconciliation rules are used in conjunction with [data refresh rules](../task/create-datasource-staleness-rule.md) to determine reconciliation steps for a CI. These rules determine if, when, and by which discovery source a CI can be updated. If multiple discovery sources are authorized to update the same class attributes, assign a priority to each of these discovery sources to prevent them from overwriting each other's updates.
+Static reconciliation rules are used in conjunction with [data refresh rules](create-datasource-staleness-rule.md) to determine reconciliation steps for a CI. These rules determine if, when, and by which discovery source a CI can be updated. If multiple discovery sources are authorized to update the same class attributes, assign a priority to each of these discovery sources to prevent them from overwriting each other's updates.
 
 After an authorized discovery source updates an attribute, subsequent updates are accepted only from the same discovery source or from a discovery source with a higher priority. Updates from a discovery source with a lower priority are rejected, unless these two conditions are met:
 
@@ -141,7 +141,7 @@ Conditions that CIs must meet for the rule to be applicable.
  For example, to apply this rule only to CIs that are associated with the Finance department, select this condition: **\[Department\] \[is\] \[Finance\]**.
 
 </td></tr></tbody>
-</table>    **Note:** The [glide.identification\_engine.enable\_reconciliation\_filter\_before\_update](../reference/properties-id-reconciliation.md) system property determines when filter conditions are applied. By default, those filter conditions are applied after attribute values have changed during payload processing. Set this property to **true** so that Identification and Reconciliation Engine \(IRE\) applies the filter conditions before attribute values change.
+</table>    **Note:** The [glide.identification\_engine.enable\_reconciliation\_filter\_before\_update](properties-id-reconciliation.md) system property determines when filter conditions are applied. By default, those filter conditions are applied after attribute values have changed during payload processing. Set this property to **true** so that Identification and Reconciliation Engine \(IRE\) applies the filter conditions before attribute values change.
 
 
 ### What to do next
@@ -152,7 +152,7 @@ Conditions that CIs must meet for the rule to be applicable.
 -   Select **Preview Rule** to see per attribute, the precedence order between any discovery sources that are authorized to update that attribute and any dynamic reconciliation rules.
 -   If [CMDB 360](multisource-cmdb.md) is enabled, you can:
     -   Select **Preview Data** to see all attributes for a specific CI. Also, for each attribute, the current CMDB value and discovery sources reported values for the attribute.
-    -   Select **Recompute** to [recompute CI attribute values](../task/recompute-attribute-values.md) after changing reconciliation rules.
+    -   Select **Recompute** to [recompute CI attribute values](recompute-attribute-values.md) after changing reconciliation rules.
 -   Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Reconciliation Definitions** to see a list view of all definitions of reconciliation rules.
 
 ## Create a dynamic reconciliation rule
@@ -224,6 +224,6 @@ Conditions that CIs must meet for the rule to be applicable.
     -   **Discovery sources**: To show only reconciliation rules for a specific discovery source.
 -   Select **Preview Rule** to see per attribute, the precedence order between any discovery sources that are authorized to update that attribute and any dynamic reconciliation rules.
 -   Select **Preview Data** to see all attributes for a specific CI. Also, for each attribute, the current CMDB value and discovery sources reported values for the attribute.
--   [Recompute CI attribute values](../task/recompute-attribute-values.md).
+-   [Recompute CI attribute values](recompute-attribute-values.md).
 -   Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Reconciliation Definitions** to see a list view of all definitions of reconciliation rules.
 

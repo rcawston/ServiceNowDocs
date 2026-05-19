@@ -19,15 +19,15 @@ The Unified Map feature displays a graphical hierarchical map of the CMDB — CI
 
 <table id="table_ak5_rj3_dgc" class="nav-card presentation"><tbody><tr><td>
 
-Explore[![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore map tools and controls.](../concept/cmdb-workspace-unified-map.md)
+Explore[![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore map tools and controls.](cmdb-workspace-unified-map.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up uniform map experiences for users.](../concept/administer-unified-map.md)
+[Administer![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up uniform map experiences for users.](administer-unified-map.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)View and manage the displayed data.](../concept/using-unified-map.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)View and manage the displayed data.](using-unified-map.md)
 
 </td></tr></tbody>
 </table>

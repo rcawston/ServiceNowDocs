@@ -24,7 +24,7 @@ Role required: To view your assigned regulatory alerts, you need the sn\_grc\_re
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available," "None," "No records to display," and so on.
 
-To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](../regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 ## About this task
 
@@ -52,7 +52,7 @@ You can view the related activity for each recommendation by selecting the summa
 
     ![Details of the recommended policy.](../../grc-rcm/image/reco-policy-details.png)
 
-    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](recommendation-contexts.md).
 
     If recommendations are available, you can scroll through the generated list of policies recommendation cards and review the information about each policy, such as its name and compliance status.
 
@@ -169,7 +169,7 @@ Related goal or requirement that can be associated with the policy.For each cont
 
 
 </td></tr></tbody>
-</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), and [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md).
+</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), and [Create a control](../policy-and-compliance-management/t_CreateAControl.md).
 
 5.  To associate control objectives or risks with your recommendation, navigate to the corresponding tab and select the check box for each record that you want to include as part of the impacted areas.
 

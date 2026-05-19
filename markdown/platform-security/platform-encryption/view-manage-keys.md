@@ -56,5 +56,5 @@ Role required: sn\_kmf.cryptographic\_manager
     -   **Suspend Key**: Select to deactivate the current key.
     -   **Resume Key**: Select to mark a suspended key as the active key. This option is only available after the active key has been suspended.
 
-**Parent Topic:**[Key management actions](../reference/key-management-actions.md)
+**Parent Topic:**[Key management actions](key-management-actions.md)
 

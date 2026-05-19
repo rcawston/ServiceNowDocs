@@ -143,7 +143,7 @@ Safety compliance manager
 
 Administrator for Health and Safety reporting-related tasks who can:-   Manage list of establishments
 -   Review and determine which injuries and illnesses are recordable
--   Access and manage report generation such as OSHA 300 log, 300A summary, and 301 incident reports. For more information, see [Health and Safety injury and illness reports](../../ohs-incident-management/concept/injury-illness-reports.md).
+-   Access and manage report generation such as OSHA 300 log, 300A summary, and 301 incident reports. For more information, see [Health and Safety injury and illness reports](../health-and-safety/injury-illness-reports.md).
 
 </td><td>
 
@@ -809,7 +809,7 @@ Health and Safety document \(Deprecated\)
 
 </td><td>
 
-Stores Health and Safety related documents. This table has been deprecated.**Note:** All Health and Safety related documents are now stored in the Health and Safety document \[sn\_ohs\_im\_document\_v2\] table. For information on migrating your existing safety documents from the deprecated table into the new Health and Safety document \[sn\_ohs\_im\_document\_v2\] table, see [Migrate existing safety documents to the Document library](../task/hs-migrate-sync-existing-safety-document-docs-library.md).
+Stores Health and Safety related documents. This table has been deprecated.**Note:** All Health and Safety related documents are now stored in the Health and Safety document \[sn\_ohs\_im\_document\_v2\] table. For information on migrating your existing safety documents from the deprecated table into the new Health and Safety document \[sn\_ohs\_im\_document\_v2\] table, see [Migrate existing safety documents to the Document library](hs-migrate-sync-existing-safety-document-docs-library.md).
 
 </td></tr><tr><td>
 
@@ -849,7 +849,7 @@ Asset
 
 </td><td>
 
-Maps Health and Safety task \[sn\_ohs\_im\_task\] to Enterprise Asset​ to track assets involved in incidents​ and observations.**Note:** Installs only when Expanded Model and Asset Classes \[sn\_ent\] application is installed. For more information, see [Additional features in Health and Safety](../../ohs-incident-management/task/install-hs-incident-mgmt.md#table_ix1_bff_gxb)
+Maps Health and Safety task \[sn\_ohs\_im\_task\] to Enterprise Asset​ to track assets involved in incidents​ and observations.**Note:** Installs only when Expanded Model and Asset Classes \[sn\_ent\] application is installed. For more information, see [Additional features in Health and Safety](../health-and-safety-incident-management/install-hs-incident-mgmt.md#table_ix1_bff_gxb)
 
 </td></tr><tr><td>
 
@@ -1002,22 +1002,22 @@ Health and Safety visitor
 Stores records of all visitors that have visited your organization or site.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](hs-core-reference.md)
 
 **Related topics**  
 
 
-[Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md)
+[Health and Safety action form](hs-action-form.md)
 
-[Health and safety action schedule form](../../ohs-incident-management/reference/hs-health-safety-action-schedule-form.md)
+[Health and safety action schedule form](hs-health-safety-action-schedule-form.md)
 
-[Health and Safety profile form](../../ohs-incident-management/reference/hs-health-safety-profile-form.md)
+[Health and Safety profile form](hs-health-safety-profile-form.md)
 
-[Health and Safety document version form](../../ohs-incident-management/reference/hs-document-form.md)
+[Health and Safety document version form](hs-document-form.md)
 
-[Health and Safety report field mapping form](../../ohs-incident-management/reference/hs-report-field-mapping-form.md)
+[Health and Safety report field mapping form](hs-report-field-mapping-form.md)
 
-[Health and Safety meeting form](../../ohs-incident-management/reference/hs-safety-meeting-form.md)
+[Health and Safety meeting form](hs-safety-meeting-form.md)
 
-[Health and Safety meeting attendee form](../../ohs-incident-management/reference/hs-safety-meeting-attendee-form.md)
+[Health and Safety meeting attendee form](hs-safety-meeting-attendee-form.md)
 

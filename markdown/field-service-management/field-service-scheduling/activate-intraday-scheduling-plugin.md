@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [Intra-day schedule automation flows and subflows](../reference/intraday-scheduling-flows.md).
+For more information, see [Intra-day schedule automation flows and subflows](../intraday-scheduling-flows.md).
 
 ## Procedure
 

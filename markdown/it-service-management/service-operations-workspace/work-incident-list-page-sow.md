@@ -160,7 +160,7 @@ Select the **More actions** \(![](../../digital-product-release/image/dpr-icon-m
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](incident-sow.md)
 
 **Related topics**  
 
@@ -169,15 +169,15 @@ Select the **More actions** \(![](../../digital-product-release/image/dpr-icon-m
 
 [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](view-inc-record-info-contextual-sidepanel.md)
 
 [Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](remedial-actions-playbook.md)
 
 [Close resolved incident](close-resolved-incident-sow.md)
 
 [Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](sow-im-reference.md)
 

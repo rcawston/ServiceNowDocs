@@ -36,15 +36,15 @@ By default, synonyms don't use the same weight as regular search terms. Synonyms
 
 Zing doesn't expand the `%` and `*` wildcard characters when looking for synonyms that match your search term. These characters are treated as literal characters when finding matching synonyms. As an example, if you search for `issu*`, Zing doesn't find synonyms for `issue`, but it does find synonyms for `issu*`.
 
--   **[Enable search synonyms](../task/enable-text-index-synonyms.md)**  
+-   **[Enable search synonyms](enable-text-index-synonyms.md)**  
 Enabling text index synonyms allows Zing to expand text searches with additional search keywords.
--   **[Create synonym dictionaries](../task/create-synonym-dictionaries.md)**  
+-   **[Create synonym dictionaries](create-synonym-dictionaries.md)**  
 You can create synonym dictionaries to expand Zing text searches with additional search keywords.
--   **[Select synonym dictionaries for a table](../task/select-synonym-dictionaries.md)**  
+-   **[Select synonym dictionaries for a table](select-synonym-dictionaries.md)**  
 Search administrators can specify one or more synonym dictionaries available to a particular table.
--   **[Disable synonyms for a table](../task/disable-synonyms-for-a-table.md)**  
+-   **[Disable synonyms for a table](disable-synonyms-for-a-table.md)**  
 By default, Zing uses all active synonym dictionaries when a user performs a text search. Search administrators can disable synonym dictionary usage on a per-table basis.
--   **[Debug synonym searches](../task/debug-synonym-searches.md)**  
+-   **[Debug synonym searches](debug-synonym-searches.md)**  
 You can view debug messages to determine if synonym searches are working as expected.
 
 **Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
@@ -52,7 +52,7 @@ You can view debug messages to determine if synonym searches are working as expe
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](features-zing.md)
 
 [Available search options](c_IntroductionToSearching.md)
 
@@ -74,5 +74,5 @@ You can view debug messages to determine if synonym searches are working as expe
 
 [Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](installed-with-zing.md)
 

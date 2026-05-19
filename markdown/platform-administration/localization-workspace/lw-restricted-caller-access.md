@@ -71,16 +71,16 @@ For further information see **Related Content** on this page.
 
 ## What to do next
 
-Continue with setup of Localization Workspace. See [Configuring Localization Workspace](../concept/configuring-localization-workspace.md).
+Continue with setup of Localization Workspace. See [Configuring Localization Workspace](configuring-localization-workspace.md).
 
-**Parent Topic:**[Configuring Localization Workspace](../concept/configuring-localization-workspace.md)
+**Parent Topic:**[Configuring Localization Workspace](configuring-localization-workspace.md)
 
 **Related topics**  
 
 
 [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md)
 
-[Artifact configurations](../../localization-framework/concept/framework-configuration.md)
+[Artifact configurations](../localization-framework/framework-configuration.md)
 
 [Restricted caller access privilege settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/restricted-caller-access-privilege.md)
 

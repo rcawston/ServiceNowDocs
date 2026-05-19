@@ -42,5 +42,5 @@ If you are the team administrator, you can manage membership requests.
 5.  You can invite another user to the team by entering their name in the **Add user** field and clicking the Invite member \(![Add member button](../image/AddMemberButton.png)\) button.
 
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](c_UseTeamsInLiveFeed.md)
 

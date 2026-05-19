@@ -42,5 +42,5 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
 Define a communication plan.
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](working-with-tcm.md)
 

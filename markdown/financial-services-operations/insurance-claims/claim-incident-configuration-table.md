@@ -57,7 +57,7 @@ Adjuster task service definition
 
 </td><td>
 
-Adjuster task service definition \(that is, a service definition that creates an adjuster task in a claim\). For more information, see [Create a service definition for Insurance claims](../task/create-a-service-definition-for-insurance-claims.md).
+Adjuster task service definition \(that is, a service definition that creates an adjuster task in a claim\). For more information, see [Create a service definition for Insurance claims](create-a-service-definition-for-insurance-claims.md).
 
 </td></tr><tr><td>
 

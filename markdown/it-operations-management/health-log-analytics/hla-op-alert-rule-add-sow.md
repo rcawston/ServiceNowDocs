@@ -18,7 +18,7 @@ Define a custom Log Analytics alert rule for log data that is not generating ale
 
 ## Before you begin
 
-For background information, see [About Log Analytics alert rules](../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
+For background information, see [About Log Analytics alert rules](hla-custom-alert-rules.md).
 
 Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 

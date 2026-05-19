@@ -37,7 +37,7 @@ Adding rate card details to a contract isn't a required procedure. You can close
 
 4.  On the Contract Rate Card form, fill in the financial details.
 
-    For a description of the field values, see [Contract Rate Card form](../reference/ContractRateCardForm.md).
+    For a description of the field values, see [Contract Rate Card form](ContractRateCardForm.md).
 
 5.  Select **Submit**.
 

@@ -17,11 +17,11 @@ You can perform threat intelligence enrichment on one or more observables to det
 
 Before you can perform enrichment, you must activate the Threat Intelligence plugin. You must also install the plugin for one or more of the enrichment implementations:
 
--   [CrowdStrike Falcon Intelligence integration](../../secops-integration-threat/secops-integration-crowdstrike-falcon-intell/reference/crowdstrike-intell-landing-page.md)
--   [OPSWAT Metadefender](../../secops-integration-threat/secops-integration-opswat-metadefender/concept/c_Metadefenderintegration.md#)
--   [Security Operations Have I been pwned?](../../secops-integration-sir/secops-integration-haveibeenpwned/task/activate-haveibeenpwned.md)
--   [VirusTotal](../../secops-integration-threat/secops-integration-virustotal/task/activate-configure-virustotal.md)
--   [WhoIs?](../../secops-integration-threat/secops-integration-whois/task/activate-whois.md)
+-   [CrowdStrike Falcon Intelligence integration](crowdstrike-intell-landing-page.md)
+-   [OPSWAT Metadefender](c_Metadefenderintegration.md#)
+-   [Security Operations Have I been pwned?](security-incident-response/activate-haveibeenpwned.md)
+-   [VirusTotal](activate-configure-virustotal.md)
+-   [WhoIs?](activate-whois.md)
 
 Role required: sn\_ti.admin
 
@@ -37,7 +37,7 @@ Role required: sn\_ti.admin
 
 3.  Select the threat lookup implementations you want to use, or select **All** to perform lookups using all of the active implementations, then click **Submit**.
 
-    A message indicates that the threat lookups have begun. The [Security Operations Integration - Threat Lookup Flow](../../security-operations-integrations/task/sec-ops-integ-threat-lookup.md) runs and also executes the implementation workflows for the threat lookup implementations you selected. The lookups are performed and the results are generated.
+    A message indicates that the threat lookups have begun. The [Security Operations Integration - Threat Lookup Flow](sec-ops-integ-threat-lookup.md) runs and also executes the implementation workflows for the threat lookup implementations you selected. The lookups are performed and the results are generated.
 
 4.  When the lookups are completed, you can click the **Threat Lookup Results** tab to view the results.
 
@@ -50,7 +50,7 @@ Role required: sn\_ti.admin
     ![Threat Lookup Results details](../image/threat-lookup-results-details.png)
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](c_Observables.md)
 
 **Related topics**  
 

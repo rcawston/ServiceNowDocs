@@ -147,5 +147,5 @@ Generate a JSON response in the following format:
 
 ```
 
-**Parent Topic:**[Configure skills with custom prompts for knowledge article templates](../task/Now-assist-configure-custom-prompts-for-templates.md)
+**Parent Topic:**[Configure skills with custom prompts for knowledge article templates](Now-assist-configure-custom-prompts-for-templates.md)
 

@@ -25,7 +25,7 @@ To use global search, enter your search query in the Unified Navigation search f
 
 The search results page displays a list of previews for records that match your search query. You can open any search result record in a new browser tab by selecting its preview in the list. Your search remains open in your original browser tab, so you can return to it and refine it.
 
-**Note:** AI Search administrators can configure search results to open in the same browser tab as the search. To make this change, edit the EVAM configuration bundle from the EVAM definition for the **\[AIS\] Next Experience Search Configuration** search application, setting the **forceNewTab** property to false in the relevant Search Result card EVAM view configurations. For more details on editing EVAM display settings for search results, see [Configure EVAM display settings for search results in AI Search applications](../task/configure-search-result-card-opts.md) and [List of Search Result EVAM card properties](../reference/search-result-evam-card-opts.md).
+**Note:** AI Search administrators can configure search results to open in the same browser tab as the search. To make this change, edit the EVAM configuration bundle from the EVAM definition for the **\[AIS\] Next Experience Search Configuration** search application, setting the **forceNewTab** property to false in the relevant Search Result card EVAM view configurations. For more details on editing EVAM display settings for search results, see [Configure EVAM display settings for search results in AI Search applications](configure-search-result-card-opts.md) and [List of Search Result EVAM card properties](search-result-evam-card-opts.md).
 
 ![Global search results page showing search results for a service desk search query.](../image/unified-nav-ai-search-results.png)
 
@@ -39,7 +39,7 @@ You can narrow your search to display only results from a particular search sour
 
 ![Detail of global search results page with Incident source facet bucket option selected, showing only incident search results.](../image/unified-nav-ai-search-source-facet-buckets.png)
 
-AI Search administrators can configure display settings for source facet buckets. For details, see [Configure source facet buckets in an AI Search application configuration](../task/config-nav-tabs-ais.md).
+AI Search administrators can configure display settings for source facet buckets. For details, see [Configure source facet buckets in an AI Search application configuration](config-nav-tabs-ais.md).
 
 ## Narrow your search by field value on the search results page
 
@@ -51,11 +51,11 @@ For example, suppose you select the **Incident** source facet bucket to view onl
 
 To remove an applied facet filter, select **Clear** by the facet field name, or **Clear all** to remove all applied filters at once. You can hide the Filters list by selecting **Hide filters**.
 
-AI Search administrators can define facets in search application configurations. For details, see [Create a facet in an AI Search application configuration](../task/create-facet-ais.md).
+AI Search administrators can define facets in search application configurations. For details, see [Create a facet in an AI Search application configuration](create-facet-ais.md).
 
-In the base system, facets don't appear in the Filters list until you've selected a source facet bucket. Administrators can override this behavior and show all available facets in the Filters list by creating a **glide.ui.ais.show\_all\_facets** system property record and setting its value to **true**. For more details on this system property, see [AI Search for Next Experience properties](../reference/ai-search-next-experience-properties.md).
+In the base system, facets don't appear in the Filters list until you've selected a source facet bucket. Administrators can override this behavior and show all available facets in the Filters list by creating a **glide.ui.ais.show\_all\_facets** system property record and setting its value to **true**. For more details on this system property, see [AI Search for Next Experience properties](ai-search-next-experience-properties.md).
 
-The Filters list defaults to displaying a count of matching search results for each facet bucket. Search administrators can configure this behavior in search application configurations. To learn more about result counts for facets, see [Show search result counts for facets on the results page for a search application](../task/display-result-counts-ais.md).
+The Filters list defaults to displaying a count of matching search results for each facet bucket. Search administrators can configure this behavior in search application configurations. To learn more about result counts for facets, see [Show search result counts for facets on the results page for a search application](display-result-counts-ais.md).
 
 ## Sort your search results
 
@@ -97,7 +97,7 @@ Exact matching returns results from tables with a prefix defined in the Number \
 
 If more than one record has a **Number** field value that exactly matches your search, AI Search displays the first exact match. An informational message reports the total number of exact matches and provides links to the other exact matches.
 
-Search administrators can override the default exact match behavior by configuring custom search matchers. For details on this procedure, see [Create a custom search matcher for global search](../task/create-search-matcher-ais.md).
+Search administrators can override the default exact match behavior by configuring custom search matchers. For details on this procedure, see [Create a custom search matcher for global search](create-search-matcher-ais.md).
 
 ## View results for your search in an available workspace application
 
@@ -113,7 +113,7 @@ Exact matches open in the selected workspace application. For example, if you se
 
 Search result previews display a default set of AI Search index fields. If you have the ais\_admin role, you can customize the set of index fields a search result preview displays by modifying its EVAM view configuration. For information on EVAM view configurations, see [Entity View Action Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/exploring-entity-view-action-mapper.md).
 
-When customizing a search result preview's EVAM view configuration, you can reference the AI Search index fields that exist on the previewed search result. To add a new AI Search index field to search results from an indexed source, define a **map\_to** field setting. This field setting populates the index field on each affected search result with the value of a field you specify from the search result's source record or document. For an overview of mapping source fields to AI Search index fields, see [Field settings for AI Search](field-settings-ais.md). To create a new **map\_to** field setting for one of your indexed sources, see [Create a field setting for an AI Search indexed source](../task/create-field-setting-ais.md).
+When customizing a search result preview's EVAM view configuration, you can reference the AI Search index fields that exist on the previewed search result. To add a new AI Search index field to search results from an indexed source, define a **map\_to** field setting. This field setting populates the index field on each affected search result with the value of a field you specify from the search result's source record or document. For an overview of mapping source fields to AI Search index fields, see [Field settings for AI Search](field-settings-ais.md). To create a new **map\_to** field setting for one of your indexed sources, see [Create a field setting for an AI Search indexed source](create-field-setting-ais.md).
 
 ## Now Assist in Virtual Agent enhanced chat entry point
 
@@ -123,7 +123,7 @@ If Now Assist in Virtual Agent enhanced chat is activated in the Now Assist pane
 
 To see this enhanced chat entry point behavior, your instance must satisfy all of the following conditions:
 
--   [Now Assist in AI Search](../reference/now-assist-ais.md) is installed.
+-   [Now Assist in AI Search](now-assist-ais.md) is installed.
 -   [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md) is installed.
 -   Enhanced chat is activated via the Now Assist panel. For details on activating enhanced chat, see [Activate Now Assist panel enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-enhanced-activate.md).
 

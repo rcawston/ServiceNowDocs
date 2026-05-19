@@ -15,11 +15,11 @@ The Timer connector sets a user-defined timer within a workflow and when the tim
 
 You must first use and then expose the methods in the Timer connector to use its methods.
 
--   To use the connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the connector, see [Use a connector in RPA Desktop Design Studio](use-connector.md).
+-   To expose the methods, see [Use connector method](use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](configure-components.md).
 
--   **[Timer connector methods](../reference/timer-connector-methods.md)**  
+-   **[Timer connector methods](timer-connector-methods.md)**  
 Learn about the Timer connector methods and event.
 
 **Parent Topic:**[Connectors](connectors.md)

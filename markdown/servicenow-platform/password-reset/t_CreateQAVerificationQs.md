@@ -62,5 +62,5 @@ The base system provides a large set of default questions in all supported langu
     3.  Repeat the process for each language that users might request.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](customizing-password-reset.md)
 

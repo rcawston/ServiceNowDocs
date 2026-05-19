@@ -110,5 +110,5 @@ Enter name of the icon for which you want to associate the diagram action.
 **Related topics**  
 
 
-[Create a diagram action for a custom shape](../../task/eaw-task/eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](eaw-modeling-action-custom-shape.md)
 

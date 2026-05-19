@@ -140,7 +140,7 @@ To create a Microsoft Entra ID integration profile, request the Software Asset M
 
 ServiceNow Role required: sam\_integrator
 
-**Important:** You must select the **Microsoft Entra ID Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Microsoft Entra ID Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](request-saas-license-management.md).
 
 ### About this task
 
@@ -188,7 +188,7 @@ Action
 
     The remaining fields are automatically populated when you submit the form.
 
-    **Note:** The SSO integration is created using a directory integration. The directory integration pulls SSO applications, users, and group data that are associated with your SSO integrations. For more information, see [Viewing SSO subscription information](../reference/sso-subscriptions.md).
+    **Note:** The SSO integration is created using a directory integration. The directory integration pulls SSO applications, users, and group data that are associated with your SSO integrations. For more information, see [Viewing SSO subscription information](sso-subscriptions.md).
 
     If you already have a Microsoft Entra ID directory integration, the SSO integration uses your existing directory integration. Otherwise, a Microsoft Entra ID directory integration is automatically created.
 
@@ -296,12 +296,12 @@ OAuth Redirect URL
 
     -   The **Validate connection** button shows up on the form.
     -   The last activity for users of the connected applications isn't pulled anymore.
-    Scheduled jobs and directory jobs download a list of all your applications, users, and groups. For more information, see [Viewing SSO subscription information](../reference/sso-subscriptions.md). View the status of your jobs in the Scheduled Job Results and Directory Job Results related lists of the integration profile. Software models are automatically created for applications with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
+    Scheduled jobs and directory jobs download a list of all your applications, users, and groups. For more information, see [Viewing SSO subscription information](sso-subscriptions.md). View the status of your jobs in the Scheduled Job Results and Directory Job Results related lists of the integration profile. Software models are automatically created for applications with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
 
 
 ### Result
 
-After you publish the integration profile and connect applications to the profile, you can view events performed by individual users up to 60 days prior to the current date. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+After you publish the integration profile and connect applications to the profile, you can view events performed by individual users up to 60 days prior to the current date. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
 ## Connect SSO apps
 
@@ -337,13 +337,13 @@ SaaS License Management offers direct integrations with select applications. Dir
 
 3.  If the **Software model** field is empty, add a software model for the app.
 
-    An app must have a software model before you can connect it. Software models are automatically created for apps with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table. For all other apps, you can create a software model manually. For more information, see [Create software models in Software Asset Management classic](../task/record-terms-software-licenses.md).
+    An app must have a software model before you can connect it. Software models are automatically created for apps with an **External Catalog ID** that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table. For all other apps, you can create a software model manually. For more information, see [Create software models in Software Asset Management classic](../software-asset-management/record-terms-software-licenses.md).
 
 4.  Select the **Enable group based software model** check box for mapping an SSO group with a specific software model for the application.
 
     For example, if an application has multiple license models that are linked to specific groups, then you can map a group to a software model to optimize license usage.
 
-    **Important:** If you select this option, you must create a mapping for the SSO group before connecting the application. After the mapping is complete, the SSO subscriptions get automatically created or updated according to the mapped software model. For more information, see [Create an SSO group software model mapping](../task/create-ssogrp-swmodel-mapping.md).
+    **Important:** If you select this option, you must create a mapping for the SSO group before connecting the application. After the mapping is complete, the SSO subscriptions get automatically created or updated according to the mapped software model. For more information, see [Create an SSO group software model mapping](create-ssogrp-swmodel-mapping.md).
 
 5.  Select a date for the **Analyze last activity from** field.
 
@@ -367,7 +367,7 @@ After the SSO application connects, your ServiceNow instance automatically creat
 
 ### What to do next
 
-Review all automatically generated reclamation rules to meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](add-reclamation-rule-sub.md).
 
 After connecting the SSO application, view information about the SSO profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **SSO integration profiles**. You can select an integration profile to view the following related lists:
 
@@ -381,7 +381,7 @@ After connecting the SSO application, view information about the SSO profile in 
 
 After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
 
-Create software entitlements for the automatically generated software models to track used software against owned software. For more information on creating software entitlements in the Software Asset Management classic application, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md). For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md). For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+Create software entitlements for the automatically generated software models to track used software against owned software. For more information on creating software entitlements in the Software Asset Management classic application, see [Create entitlements in Software Asset Management classic](../software-asset-management/track-software-rights.md). For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../software-asset-management/create-entitlements-workspace.md). For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../software-asset-management/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance. For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md). For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance. For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../software-asset-management/t_RunReconciliation.md). For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../software-asset-management/run-recon-workspace.md).
 

@@ -20,7 +20,7 @@ Importing an application from source control results in a new application being 
 -   Verify that the non-production instance has network access to the Git repository.
 -   Verify that the repository contains a valid application.
 -   Ensure that users add the email address to their respective Users table \[sys\_user\] record that they use in their commits to the Git repository.
--   Learn more about application-customizations [Manage customizations to applications](../../applications/task/manage-customizations-store-apps.md).
+-   Learn more about application-customizations [Manage customizations to applications](../application-repository-self-hosted/manage-customizations-store-apps.md).
 -   Role required: admin
 
 ## About this task
@@ -116,5 +116,5 @@ ServiceNow Studio displays the application as a new choice in the Switch Applica
 -   Review the upgrade logs for any sanitization applied to application files during the import.
 -   Select the imported application to edit it.
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](source-control-in-servicenow-studio.md)
 

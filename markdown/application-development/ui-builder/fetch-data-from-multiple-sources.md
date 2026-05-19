@@ -29,7 +29,7 @@ Place the card base container component in a repeater and use multi-table data c
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch.
 
@@ -300,5 +300,5 @@ Place the card base container component in a repeater and use multi-table data c
 16. Select the **X** to close the preview overlay.
 
 
-**Parent Topic:**[Multi-table data configuration](../concept/multi-source-data-configuration.md)
+**Parent Topic:**[Multi-table data configuration](multi-source-data-configuration.md)
 

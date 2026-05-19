@@ -38,12 +38,12 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td><td>
 
-[Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
 </td><td>
 
 -   You must update your store apps to the latest release version.
--   You must provide ITOM Visibility with access permissions. For more information, see [Set up Google Cloud Platform service accounts](../concept/set-up-gcp-service-accounts.md)
+-   You must provide ITOM Visibility with access permissions. For more information, see [Set up Google Cloud Platform service accounts](../set-up-gcp-service-accounts.md)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Service Graph Connector for GCP
 
 The CI class, in most cases, is applicable to both solutions. If it's not applicable to one of the solutions, the solution is marked "N/A".
 
-If an entry is marked with one asterisk, the resource type is supported by Patterns only by utilizing the **Google Asset inventory** pattern's inclusion list. For more information, see [Google Cloud Platform \(GCP\) resource inventory discovery with Patterns](../../service-mapping/reference/gcp-resource-inventory-discovery.md).
+If an entry is marked with one asterisk, the resource type is supported by Patterns only by utilizing the **Google Asset inventory** pattern's inclusion list. For more information, see [Google Cloud Platform \(GCP\) resource inventory discovery with Patterns](../discovery-and-service-mapping-patterns/gcp-resource-inventory-discovery.md).
 
 If an entry is marked with two asterisks, the resource type is supported by Service Graph Connecters only by utilizing the \[sn\_cmdb\_int\_util\_service\_graph\_resource\_inclusion\_whitelist\] table.
 
@@ -206,9 +206,9 @@ If an entry is marked with two asterisks, the resource type is supported by Serv
 |storage.googleapis.com/Bucket|Yes|N/A|cmdb\_ci\_cmp\_resource|
 |storage.k8s.io/storageclass|Yes\*|Yes\*\*|cmdb\_ci\_cmp\_resource|
 
-\* These resource types are supported in Patterns only by utilizing the **Google Asset inventory** pattern's inclusion list. For more information, see [Google Cloud Platform \(GCP\) resource inventory discovery with Patterns](../../service-mapping/reference/gcp-resource-inventory-discovery.md).
+\* These resource types are supported in Patterns only by utilizing the **Google Asset inventory** pattern's inclusion list. For more information, see [Google Cloud Platform \(GCP\) resource inventory discovery with Patterns](../discovery-and-service-mapping-patterns/gcp-resource-inventory-discovery.md).
 
 \*\* These resource types are supported in Service Graph Connecters only by utilizing the \[sn\_cmdb\_int\_util\_service\_graph\_resource\_inclusion\_whitelist\] table.
 
-**Parent Topic:**[Cloud discovery solutions comparison](../concept/cloud-discovery-methods-comparison.md)
+**Parent Topic:**[Cloud discovery solutions comparison](cloud-discovery-methods-comparison.md)
 

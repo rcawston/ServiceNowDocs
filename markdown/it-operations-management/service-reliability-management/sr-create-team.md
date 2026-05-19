@@ -52,7 +52,7 @@ Steps
 1.  In the **New or existing** field, select **I am creating a new team**.
 2.  On the form, fill in the fields.
 
-For more information on the field descriptions, see [Create team form](../reference/sr-create-team-form.md).
+For more information on the field descriptions, see [Create team form](sr-create-team-form.md).
 
 3.  Select **Add team**.
 
@@ -89,5 +89,5 @@ Add new team members to your team as required to plan, manage, resolve issues, a
 -   **[Manage or add a service to your SRM team](sr-manage-team-services.md)**  
 Add a service to an incident to increase the amount of data for the incident.
 
-**Parent Topic:**[Working with SRM teams](../concept/sr-work-teams.md)
+**Parent Topic:**[Working with SRM teams](sr-work-teams.md)
 

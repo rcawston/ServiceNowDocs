@@ -17,13 +17,13 @@ License metrics are set in software entitlements and used for reconciliation in 
 
 Each metric group has a set of license metrics that are specific to the publisher.
 
-You can view the Metric Attributes related list in software models to set the attribute value. For more information, see [Software model fields](../reference/software-model-fields.md).
+You can view the Metric Attributes related list in software models to set the attribute value. For more information, see [Software model fields](software-model-fields.md).
 
-You can also add custom license metrics. For more information, see [Add a custom license metric](../task/add-custom-license-metric.md). You can use the Resource Value \[samp\_sw\_resource\_value\] table to enhance the custom license metric capability by doing a 1:1 calculation between the Unit consumption column in the Resource Value \[samp\_sw\_resource\_value\] table and the Licenses required column in the License Metric Results \[samp\_license\_metric\_result\] table.
+You can also add custom license metrics. For more information, see [Add a custom license metric](add-custom-license-metric.md). You can use the Resource Value \[samp\_sw\_resource\_value\] table to enhance the custom license metric capability by doing a 1:1 calculation between the Unit consumption column in the Resource Value \[samp\_sw\_resource\_value\] table and the Licenses required column in the License Metric Results \[samp\_license\_metric\_result\] table.
 
 Adobe, Citrix, IBM \(includes both IBM and Red Hat\), Microsoft, Oracle, SAP, and VMware publisher packs are available as add-ons. They provide the capability to manage software licensed under the publisher licensing models.
 
-Installing [SaaS License Management](sam-subscription-management.md) adds the Subscription and Consumption metric groups.
+Installing [SaaS License Management](../saas-license-management/sam-subscription-management.md) adds the Subscription and Consumption metric groups.
 
 You can view descriptions of your license metrics by selecting the reference ![](../image/reference-icon.png) icon next to the **License metric** field in your software entitlements.
 
@@ -164,7 +164,7 @@ Microsoft **Note:** Microsoft license metrics are visible only if the Microsoft 
 </td><td>
 
 -   Device CAL: Licenses the number of device client access licenses to server software.
--   Per Core: Licenses the cores on both the physical server and the virtual cores that support virtual machines and presents a cost-efficient model based on the number of rights used. For information on Per Core for Microsoft SQL Server Enterprise edition with Software Assurance, see [Create entitlements for Microsoft Software Assurance in Software Asset Management classic](../task/create-entitlement-microsoft-sa.md).
+-   Per Core: Licenses the cores on both the physical server and the virtual cores that support virtual machines and presents a cost-efficient model based on the number of rights used. For information on Per Core for Microsoft SQL Server Enterprise edition with Software Assurance, see [Create entitlements for Microsoft Software Assurance in Software Asset Management classic](create-entitlement-microsoft-sa.md).
 
 **Note:** Per Core \(Physical Core\) and Per Core \(Virtual OSE\) metrics is deprecated from the New York release. Any existing entitlements using Per Core \(Physical Core\) and Per Core \(Virtual OSE\) metrics are replaced with Per Core. You may see a change in your reconciliation results.
 
@@ -204,7 +204,7 @@ If you are reconciling Oracle server software, such as Oracle Database Server or
 **Note:** The number of licenses required is determined by the total number of employees and not the number of employees using Oracle Java SE Universal.
 
 
- **Note:** You can select the level of aggregation for the reconciliation calculation of VMware -based Oracle instances using the **com.snc.samp.oracle.reconlevel** property. See [Software Asset Management properties](../reference/sam-properties.md).
+ **Note:** You can select the level of aggregation for the reconciliation calculation of VMware -based Oracle instances using the **com.snc.samp.oracle.reconlevel** property. See [Software Asset Management properties](sam-properties.md).
 
 </td></tr><tr><td>
 

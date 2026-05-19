@@ -83,5 +83,5 @@ Sort dates from the oldest to most recent date. Sort user names alphabetically f
 6.  Close the History window.
 
 
-**Parent Topic:**[Use AES with a Git source control repository](../concept/aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](aes-source-control-use.md)
 

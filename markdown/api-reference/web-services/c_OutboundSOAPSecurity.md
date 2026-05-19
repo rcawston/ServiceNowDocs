@@ -17,9 +17,9 @@ You can authenticate outbound SOAP messages using several different security pro
 
 The security protocol you should use depends on the requirements of the web service provider. Mutual authentication is supported for outbound web services.
 
--   **[Enable basic authentication for outbound SOAP](../task/t_BasicAuthentication.md)**  
+-   **[Enable basic authentication for outbound SOAP](t_BasicAuthentication.md)**  
 If the endpoint requires a user name and password, you can provide credentials using basic authentication.
--   **[Enable WS-Security for outbound SOAP](../task/t_WebServiceSecurity.md)**  
+-   **[Enable WS-Security for outbound SOAP](t_WebServiceSecurity.md)**  
 You can sign outbound SOAP messages using username and password or a key store and trusted server certificate saved on the instance.
 
 **Parent Topic:**[Outbound SOAP web service](c_OutboundSOAPWebService.md)

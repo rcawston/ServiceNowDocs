@@ -59,5 +59,5 @@ Open the entry with the **task\_cmdb\_ci\_service.task** related list and clear 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Change Management](../concept/configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](configure-change-management.md)
 

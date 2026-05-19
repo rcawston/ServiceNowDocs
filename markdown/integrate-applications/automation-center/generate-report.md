@@ -33,12 +33,12 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
     -   Provide a report name.
     -   Select source details:
-        -   **Repository URL**: This option enables you to get data from UiPath Orchestration. For information on using this option, see [Generate report using repository URL](../task/repo-url.md).
-        -   **Uplaod ZIP \(with XAML files\)**: This option enables you to upload a local zip with .xaml files and automations. For information on using this option, see [Generate a report using a ZIP file](../task/zip-file.md).
+        -   **Repository URL**: This option enables you to get data from UiPath Orchestration. For information on using this option, see [Generate report using repository URL](repo-url.md).
+        -   **Uplaod ZIP \(with XAML files\)**: This option enables you to upload a local zip with .xaml files and automations. For information on using this option, see [Generate a report using a ZIP file](zip-file.md).
 
--   **[Generate report using repository URL](../task/repo-url.md)**  
+-   **[Generate report using repository URL](repo-url.md)**  
 Generate a migration report using the repository URL that has all the automation files saved.
--   **[Generate a report using a ZIP file](../task/zip-file.md)**  
+-   **[Generate a report using a ZIP file](zip-file.md)**  
 Generate a migration report using all the files that you have on your local system in a zip file.
 
 **Parent Topic:**[Migrating automations from UiPath to ServiceNow RPA Hub](migrating-automations-from-uipath.md)

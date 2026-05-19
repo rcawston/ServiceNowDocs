@@ -44,7 +44,7 @@ Cost calculations roll up when the costing add-on is active.
 -   **Estimated cost**: The sum of all cost estimates at the beginning of a project. Estimated costs of child tasks roll up to parent tasks and to the project.
 -   **Actual cost**: By default for the project, the sum of all costs of all the expense lines, and are typically associated with a time card and a labor rate. To track costs, you can derive rates using any of the following options:
 
-    -   Associate a [rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md) to the project.
+    -   Associate a [rate model](../rate-model/rate-model.md) to the project.
     -   Define rate cards for the task and labor expenses.
     -   Associate rate at the resource plan level.
     These rates automatically generate expense lines showing actual expenditures, which are associated with the projects. If rate cards are defined, the task expense lines are generated as each project task closes, and labor expense lines are generated when time cards are approved. Expense lines are visible in the **Expense Lines** related list, which requires the **Advanced view** on both Project and Project Task forms.
@@ -77,7 +77,7 @@ Project states can also roll down. If you change the state of a project to close
 **Related topics**  
 
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](t_CreateAProjectTask.md)
 
 [Schedule conflicts between project tasks](scheduling-conflicts.md)
 
@@ -97,11 +97,11 @@ Project states can also roll down. If you change the state of a project to close
 
 [Types of external dependencies](external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](c_ProjectAndPortfolioFunding.md)
 
 [Project scheduling in Project Management](project-scheduling.md)
 
 [Task constraints](task-constraints-project-management.md)
 
-[Create a parent-child relationship on the Project Task form](../task/t_CreateParentChildRelationship.md)
+[Create a parent-child relationship on the Project Task form](t_CreateParentChildRelationship.md)
 

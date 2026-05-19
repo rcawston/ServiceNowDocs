@@ -133,7 +133,7 @@ By adding properties in the `edgeencryption.properties` configuration file, you 
 
 1.  In your proxy server installation directory, open the `edgeencryption.properties` configuration file located in the `<installation directory>/conf/` folder.
 
-2.  Add one of the [Edge Encryption proxy server properties](../reference/edge-encryption-proxy-server-properties.md).
+2.  Add one of the [Edge Encryption proxy server properties](edge-encryption-proxy-server-properties.md).
 
 3.  Restart the proxy server.
 

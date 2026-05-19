@@ -64,12 +64,12 @@ Use this task to create a visual roadmap that helps you communicate product adop
     -   Duplicate: Select **Duplicate map** to make a copy of the roadmap.
     -   Retire: Select **Retire** to archive the roadmap.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](account-lifecycle-config-cust-success.md)
 
 **Related topics**  
 
 
-[View a product adoption roadmap](../concept/account-lifecycle-view-par-roadmap.md)
+[View a product adoption roadmap](account-lifecycle-view-par-roadmap.md)
 
-[Product adoption roadmap](../concept/account-lifecycle-par-roadmap.md)
+[Product adoption roadmap](account-lifecycle-par-roadmap.md)
 

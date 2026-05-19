@@ -19,7 +19,7 @@ Role required: sn\_crm\_touchpoint.admin
 
 ## About this task
 
-Several touchpoint types are available by default. To view the available options, see [Create new CRM touchpoint form](../reference/create-crm-touchpoint-form.md).
+Several touchpoint types are available by default. To view the available options, see [Create new CRM touchpoint form](create-crm-touchpoint-form.md).
 
 ## Procedure
 

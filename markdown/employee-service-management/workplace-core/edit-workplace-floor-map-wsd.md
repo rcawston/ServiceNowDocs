@@ -96,5 +96,5 @@ The following changes occur:
 
 A original floor record is updated with the floor plan attached to it. The Spaces related list is also updated. To view your changes, go to **Floor Plan Update Logs**.
 
-**Parent Topic:**[Providing your workplace data](../concept/providing-your-workplace-data-wsd.md)
+**Parent Topic:**[Providing your workplace data](providing-your-workplace-data-wsd.md)
 

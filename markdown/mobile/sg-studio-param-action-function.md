@@ -159,7 +159,7 @@ Provides a search bar so that users can search in a list. Select a reference fie
 
     -   **QR/Barcode**
 
-Provides the option to search by QRC or barcode. Learn more about this feature in [Mobile barcode scanning](../concept/sg-mobile-scanning.md).
+Provides the option to search by QRC or barcode. Learn more about this feature in [Mobile barcode scanning](sg-mobile-scanning.md).
 
 -   **Auto fill options**
     -   **GPS Location**
@@ -226,5 +226,5 @@ The field used from the source field table.
 
 ## What to do next
 
-Associate the function with a specific screen. For more information on how to associate the action, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+Associate the function with a specific screen. For more information on how to associate the action, see [Associate a function with a location in the app](sg-studio-button-instances.md).
 

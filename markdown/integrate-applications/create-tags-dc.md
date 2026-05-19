@@ -60,5 +60,5 @@ The tag is created and appears in the Tag Manager list. The tag is now available
 
 After creating tags, apply them to data assets in the Tags field of the Classification section when editing a data asset. For details, see [Update a data asset](update-data-asset.md).
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](manage-data-catalog.md)
 

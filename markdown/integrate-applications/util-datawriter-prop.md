@@ -20,5 +20,5 @@ Learn about the properties of the Data Writer components in RPA Desktop Design S
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Data Writer](../concept/datawriter-utility.md)
+**Parent Topic:**[Data Writer](datawriter-utility.md)
 

@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](record-repair-time-eam-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Troubleshoot asset task.
 
@@ -54,7 +54,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
     -   If the asset can be redeployed, select **Redeployable**.
 12. In the **Failure code** field, select the code that corresponds to the reason for the asset failure.
 
-    For more details on codes, see [Manage failure and resolution codes](../concept/manage-failure-res-codes-eam.md).
+    For more details on codes, see [Manage failure and resolution codes](manage-failure-res-codes-eam.md).
 
 13. Enter the issue identified with the asset during the repair process in the **Issue identified** field.
 
@@ -84,7 +84,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 [Complete the repair asset task in the Enterprise Asset Workspace](repair-eam-assets-ws.md).
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 

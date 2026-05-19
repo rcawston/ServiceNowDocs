@@ -19,7 +19,7 @@ Enable Workforce Optimization for Field Service and configure settings to use th
 
 The steps for configuring Workforce Optimization for Field Service are:
 
-1.  [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md)
+1.  [Activate Workforce Optimization for Field Service](activate-wfo-fsm.md)
 
     You can activate the Workforce Optimization for Field Service plugin \(com.snc.app\_fsm\_wfo\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 
@@ -39,5 +39,5 @@ The steps for configuring Workforce Optimization for Field Service are:
 **Related topics**  
 
 
-[Workforce Optimization](using-wfo-fsm.md)
+[Workforce Optimization](../field-service-manager-workforce/using-wfo-fsm.md)
 

@@ -110,5 +110,5 @@ Leave empty.
     A request is created. When the request is approved, the pipeline objects are associated to the app record, which enables real-time tracking. Historical data is also imported for the selected pipelines. The **Track** field is automatically enabled for imported pipelines.
 
 
-**Parent Topic:**[Argo CD integration with DevOps Change Velocity](../concept/argo-cd-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Argo CD integration with DevOps Change Velocity](argo-cd-integration-with-devops-change-velocity.md)
 

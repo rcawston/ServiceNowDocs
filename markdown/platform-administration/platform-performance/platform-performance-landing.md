@@ -19,23 +19,23 @@ Monitoring and optimizing ServiceNow AI Platform performance is an important par
 
 <table id="table_lcd_ghf_pzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the fundamentals of optimizing platform performance.](../../platform-performance/concept/exploring-platform-performance.md)
+[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the fundamentals of optimizing platform performance.](exploring-platform-performance.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure the ServiceNow AI Platform to optimize performance.](../../platform-performance/concept/configuring-platform-performance.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure the ServiceNow AI Platform to optimize performance.](configuring-platform-performance.md)
 
 </td></tr><tr><td>
 
-[Monitor![](../../../reuse/icons/brand-icons/bus-discover.svg)Monitor key metrics and transactions in the ServiceNow AI Platform to track performance trends and identify potential issues.](../../platform-performance/concept/monitoring-platform-performance.md)
+[Monitor![](../../../reuse/icons/brand-icons/bus-discover.svg)Monitor key metrics and transactions in the ServiceNow AI Platform to track performance trends and identify potential issues.](monitoring-platform-performance.md)
 
 </td><td>
 
-[Resolve issues![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Take necessary steps to address performance issues when they arise.](../../platform-performance/concept/resolving-plat-performance-issues.md)
+[Resolve issues![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Take necessary steps to address performance issues when they arise.](resolving-plat-performance-issues.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about form, methods, and properties related to platform performance.](../../platform-performance/concept/platform-performance-references.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about form, methods, and properties related to platform performance.](platform-performance-references.md)
 
 </td><td>
 

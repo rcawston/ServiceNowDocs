@@ -36,15 +36,15 @@ Table rotation preserves instance performance and averts risk associated with qu
 
 You can use table rotation for sequentially-written tables or for insert-only tables. You cannot use table rotation for sys\_import tables or tables that extend the Task \[task\] table.
 
--   **[Apply table rotation](../task/t_ApplyTableRotation.md)**  
+-   **[Apply table rotation](t_ApplyTableRotation.md)**  
 Preserve instance performance by applying table rotation.
 
-**Parent Topic:**[Applying database rotation techniques](../../database-rotation/concept/c_DatabaseRotation.md)
+**Parent Topic:**[Applying database rotation techniques](c_DatabaseRotation.md)
 
 **Related topics**  
 
 
-[Activate database rotation](../../database-rotation/task/t_ActivateDatabaseRotation.md)
+[Activate database rotation](t_ActivateDatabaseRotation.md)
 
-[Table extension](../../managing-data/concept/table-extension.md)
+[Table extension](table-extension.md)
 

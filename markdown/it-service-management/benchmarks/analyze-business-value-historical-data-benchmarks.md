@@ -58,5 +58,5 @@ If you want to analyze year-over-year performance, you must collect at least 24 
         The data is automatically sent for value management analysis. Connect with your account representative to receive the report and discuss the benefits for your organization's value management.
 
 
-**Parent Topic:**[Benchmark KPIs](../concept/c_BenchKPIConfig.md)
+**Parent Topic:**[Benchmark KPIs](c_BenchKPIConfig.md)
 

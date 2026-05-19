@@ -134,11 +134,11 @@ Track the sentiment of a business-to-business account using filters and sorting 
 
 ## Conversational subflows and actions in Now Assist panel
 
-Use natural language to trigger subflows or actions, enhancing agent productivity and allowing them to complete tasks efficiently within the Now Assist panel. For more info, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+Use natural language to trigger subflows or actions, enhancing agent productivity and allowing them to complete tasks efficiently within the Now Assist panel. For more info, see [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](request-gen-ai-capabilities-csm-now-assist-panel.md).
 
 ## Now Assist in Portal case form
 
-Guide requesters through a self-service flow using Genius Results to find solutions and reduce the number of cases created. For more info, see [Using Now Assist in portal case form](using-ai-search-with-q-a-within-the-portal-form.md).
+Guide requesters through a self-service flow using Genius Results to find solutions and reduce the number of cases created. For more info, see [Using Now Assist in portal case form](../using-ai-search-with-q-a-within-the-portal-form.md).
 
 ## Suggested steps generation
 
@@ -148,7 +148,7 @@ Suggested steps generation may help resolve cases and boost agent productivity b
 
 ## Activity response generation
 
-Use the activity response generation skill to automatically generate recommendations for resolution notes, work notes, and comments. This feature helps agents add meaningful updates to case records, improving efficiency, and interaction. For more info, see [Generate activity stream responses](../task/generate-a-recommendation-to-respond-to-an-activity.md).
+Use the activity response generation skill to automatically generate recommendations for resolution notes, work notes, and comments. This feature helps agents add meaningful updates to case records, improving efficiency, and interaction. For more info, see [Generate activity stream responses](generate-a-recommendation-to-respond-to-an-activity.md).
 
 ## Trending topics dashboard
 

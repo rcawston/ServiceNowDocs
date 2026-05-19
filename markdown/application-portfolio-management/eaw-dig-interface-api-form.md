@@ -27,5 +27,5 @@ The relationship between a digital interface and an application service API help
 **Related topics**  
 
 
-[Connect a digital interface with the CMDB API in the EA Workspace](../../task/eaw-task/eaw-relate-dig-interface-api.md)
+[Connect a digital interface with the CMDB API in the EA Workspace](eaw-relate-dig-interface-api.md)
 

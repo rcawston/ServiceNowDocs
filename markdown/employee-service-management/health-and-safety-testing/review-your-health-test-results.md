@@ -33,5 +33,5 @@ Role required: sn\_imt\_core.privacy\_consent\_user
 
     -   If you are reviewing the record, review the record and click **Back** to return to the list of test results.
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](health-safety-testing.md)
 

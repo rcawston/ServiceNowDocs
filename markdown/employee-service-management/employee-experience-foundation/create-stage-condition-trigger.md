@@ -21,7 +21,7 @@ Role required: sn\_ca.campaign\_manager
 
 Complete the steps to [Create a campaign](ecpro-create-campaign.md)
 
-Create a stage with a to-do content item. For more information on this content type, see [To-do content](../concept/ec-to-do-content.md).
+Create a stage with a to-do content item. For more information on this content type, see [To-do content](ec-to-do-content.md).
 
 ## About this task
 

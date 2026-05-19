@@ -44,22 +44,22 @@ The following example procedure explains how to delete an observable record. You
 
 Refer to the section [Define an Observable](define-an-observable.md) to create a record.
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
 
 [Export intelligence data](tisc-export-observables.md)
 
 [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](automated-correlation-rules.md)
 

@@ -77,7 +77,7 @@ After the script completes, you may be prompted to resolve collisions detected b
 
 ![Mobile migration collision prompt](../image/migration-collision-prompt.png)
 
-Click the **View Collisions** to resolve these collisions. For detail on this process, see [Resolve common issues in mobile migration script results](../reference/ny-migration.md).
+Click the **View Collisions** to resolve these collisions. For detail on this process, see [Resolve common issues in mobile migration script results](ny-migration.md).
 
 ## Changes made by the mobile migration script
 
@@ -158,9 +158,9 @@ Click **Migrate** to start the migration script for the current scope. The migra
 
 For more information on the migration process, see the Mobile Migration Guide for New York on the ServiceNow community site. [https://community.servicenow.com/community?id=community\_article&amp;sys\_id=f5121a33dba7f788fff8a345ca961957](https://community.servicenow.com/community?id=community_article&sys_id=f5121a33dba7f788fff8a345ca961957)
 
--   **[Run the mobile migration script](../task/sg-mobile-migration-script.md)**  
+-   **[Run the mobile migration script](sg-mobile-migration-script.md)**  
 Run the mobile migration script to convert Madrid mobile applications you have created or modified to use the new mobile hierarchy.
--   **[Resolve common issues in mobile migration script results](../reference/ny-migration.md)**  
+-   **[Resolve common issues in mobile migration script results](ny-migration.md)**  
 Find solutions to common issues after running the mobile migration script.
 
 **Parent Topic:**[Mobile plugins and upgrades](plugins-upgrades.md)

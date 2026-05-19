@@ -67,5 +67,5 @@ The **External ID** field in the document verification task is populated with th
 
 ## What to do next
 
-A document agent can [Work on a document verification task](../concept/doc-processor-work-on-doc-verification-task.md).
+A document agent can [Work on a document verification task](doc-processor-work-on-doc-verification-task.md).
 

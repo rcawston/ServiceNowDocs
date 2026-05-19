@@ -61,5 +61,5 @@ Role required: sn\_wsd\_kiosk.viewer
 6.  View the next steps, then select **Done**.
 
 
-**Parent Topic:**[Using Workplace Services Kiosk](../concept/use-workplace-services-kiosk.md)
+**Parent Topic:**[Using Workplace Services Kiosk](use-workplace-services-kiosk.md)
 

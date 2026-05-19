@@ -27,5 +27,5 @@ On the Auto Flush form, you specify a retention policy for a set of records on a
 
 **Note:** Table cleanup policies are platform-specific policies. See [Table cleaner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-cleaner.md) for more information.
 
-**Parent Topic:**[Table cleanup](../concept/table-cleanup.md)
+**Parent Topic:**[Table cleanup](table-cleanup.md)
 

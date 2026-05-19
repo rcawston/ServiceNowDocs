@@ -25,23 +25,23 @@ Widget types include:
 
 -   **Reports**
 
-    Report visualizations are snapshots of your data that show the state of your information in real time. For more information, see [Reporting](../../reporting/reference/reporting-landing-page.md).
+    Report visualizations are snapshots of your data that show the state of your information in real time. For more information, see [Reporting](../reporting/reporting-landing-page.md).
 
 -   **Performance Analytics**
 
-    Performance Analytics widgets visualize information based on indicator data collected over time. For more information, see [Performance Analytics widgets](../../performance-analytics/concept/c_Widgets.md).
+    Performance Analytics widgets visualize information based on indicator data collected over time. For more information, see [Performance Analytics widgets](c_Widgets.md).
 
 -   **Interactive Filters**
 
-    Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports. For more information, see [Interactive Filters](c_HomepagePublishers.md).
+    Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports. For more information, see [Interactive Filters](../interactive-filters/c_HomepagePublishers.md).
 
 -   **Content Blocks**
 
     Content blocks are pieces of information that you can reuse across your instance. For more information, see [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md).
 
 
--   **[Create a widget that displays a ServiceNow UI page](../task/create_widget_displays_webpage.md)**  
+-   **[Create a widget that displays a ServiceNow UI page](create_widget_displays_webpage.md)**  
 You can create a ServiceNow UI page that displays a web page. You can then add that UI page to a widget that can be added to dashboards.
 
-**Parent Topic:**[Responsive dashboards in the Core UI](../reference/dashboards-landing-page.md)
+**Parent Topic:**[Responsive dashboards in the Core UI](dashboards-landing-page.md)
 

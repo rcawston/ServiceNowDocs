@@ -35,14 +35,14 @@ The Now Assist agent supports creating the following module types:
 |Dashboard|Displays dashboard components.|
 |Folder|Organizes modules hierarchically.|
 
-For more information about the module types, see [Application Navigator category](../../auto-test-framework/reference/test-steps-app-navigator-category.md#).
+For more information about the module types, see [Application Navigator category](../automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 **Parent Topic:**[Exploring UI generation](exploring-ui-generation.md)
 
 **Related topics**  
 
 
-[Generate modules using Now Assist](../task/generate-ai-modules.md)
+[Generate modules using Now Assist](generate-ai-modules.md)
 
 [Use case: Generate modules using Now Assist](use-case-module-generation.md)
 

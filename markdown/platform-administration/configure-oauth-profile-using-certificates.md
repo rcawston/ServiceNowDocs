@@ -81,7 +81,7 @@ Generate a SHA-1 thumbprint using the JWT provider's sys\_id and JKS certificate
 -   **[Create an OAuth API script](oauth-api-script.md)**  
 Create and duplicate an OAuth API script for application registry.
 
-**Parent Topic:**[Reading email using Microsoft Graph](../concept/read-email-using-ms-graph.md)
+**Parent Topic:**[Reading email using Microsoft Graph](read-email-using-ms-graph.md)
 
 **Related topics**  
 

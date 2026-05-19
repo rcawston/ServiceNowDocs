@@ -153,7 +153,7 @@ Flag that indicates whether to stop the Paginator object's publisher when the la
 Default: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## Paginator - first\(\) throws
 

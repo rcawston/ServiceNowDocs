@@ -15,7 +15,7 @@ breadcrumb: [Other Objects, TISC Library Repository, Threat Intelligence Securit
 
 Data sources represent the various subjects/topics of information that can be collected by sensors/logs. Data sources also include data components, which identify specific properties/values of a data source.
 
--   **[Define Data Sources](../task/define-data-sources.md)**  
+-   **[Define Data Sources](define-data-sources.md)**  
 Define a data source to represent the various subjects or topics of information.
 
 **Parent Topic:**[Other Objects](tisc-other-objects.md)

@@ -54,5 +54,5 @@ Role required: sn\_hr\_core.admin
 6.  After changing a user's status, select **Save**.
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](bulk-case.md)
 

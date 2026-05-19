@@ -37,9 +37,9 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 5.  On the form, fill in the fields.
 
-    For a description of the field names, see [Non-monetary Benefit Plan form](../reference/non-monetary-benefit-plan-form.md).
+    For a description of the field names, see [Non-monetary Benefit Plan form](non-monetary-benefit-plan-form.md).
 
-    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](../../project-management/reference/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
+    **Note:** When you move the demand dates, the associated benefit plans also change accordingly based on whether the benefit plan is tied to the demand start date, or end date. The [project property](../project-management/r_InstalledWithProjectManagement.md#project_application_properties) **Change Resource Plan, Cost Plan and Benefit Plan Start Date with Demand or Project Start Date Change** controls the behavior for demand date changes.
 
 6.  Select **Submit**.
 

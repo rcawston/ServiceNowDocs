@@ -34,9 +34,9 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
     When an emergency maintenance request is submitted, a workplace case is created. For more information about the emergency maintenance request, see [Submit an emergency maintenance request](submit-emergency-maint-request.md).
 
-    The change event request workplace case is automatically assigned to the Workplace Event Planner assignment group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When it is assigned to a Workplace Event Planner, AI agentic workflow Manage temporary space closures is triggered. AI agents block a location for maintenance and move any impacted reservations from the blocked location to an available new location. For more information, see [Manage temporary space closures agentic workflow](../../now-assist-wsd/concept/maintenance-meeting-room-agent-ai.md).
+    The change event request workplace case is automatically assigned to the Workplace Event Planner assignment group. It is then assigned manually to a user in the Workplace Event Planners assignment group. When it is assigned to a Workplace Event Planner, AI agentic workflow Manage temporary space closures is triggered. AI agents block a location for maintenance and move any impacted reservations from the blocked location to an available new location. For more information, see [Manage temporary space closures agentic workflow](../now-assist-for-wsd/maintenance-meeting-room-agent-ai.md).
 
-    Event planners can review the notifications sent by AI agents in the Now Assist panel. AI agents notifies Workplace Event Planners about actions taken through case resolution and case summarization notes in the conversational interface. For more information, see [Review notifications in the Now Assist panel](../../now-assist-wsd/task/agentic-workflow-notifications-nowassist.md).
+    Event planners can review the notifications sent by AI agents in the Now Assist panel. AI agents notifies Workplace Event Planners about actions taken through case resolution and case summarization notes in the conversational interface. For more information, see [Review notifications in the Now Assist panel](../now-assist-for-wsd/agentic-workflow-notifications-nowassist.md).
 
     The team of AI agents also update the case work notes.
 
@@ -67,7 +67,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 5.  An email notification is triggered and sent to workplace reservation administrators and event planners for the updated reservation location.
 
 
-**Parent Topic:**[Managing Workplace cases](../concept/manage-workplace-cases.md)
+**Parent Topic:**[Managing Workplace cases](manage-workplace-cases.md)
 
 **Related topics**  
 
@@ -78,5 +78,5 @@ Role required: sn\_wsd\_rsv.reservation\_planner, sn\_wsd\_case.case\_writer
 
 [Print workplace cases](print-workplace-cases.md)
 
-[Managing print cases](../concept/manage-case-print.md#)
+[Managing print cases](manage-case-print.md#)
 

@@ -17,7 +17,7 @@ Migrate resource plans and cost plans of your projects or demands to resource as
 
 ## Before you begin
 
--   Learn more about [Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md).
+-   Learn more about [Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md).
 -   Ensure the project or demand have resource plans and cost plans.
 -   Role required: resource\_user
 
@@ -46,5 +46,5 @@ Resource plans are migrated to resource assignments, cost plans are migrated to 
 
 Create resource assignments to manage resource efforts.
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](rsrc-plans-rsrc-asgmnts.md)
 

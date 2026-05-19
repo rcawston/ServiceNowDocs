@@ -29,7 +29,7 @@ Role required: AP specialist, tax specialist
 
 3.  Select **Invoices &gt;****All invoices.**
 
-    You can create an invoice manually. For more information on invoices, see [Work with invoices](../concept/work-with-invoices.md). Invoices can be entered manually or extracted using DocIntel. For more information on invoice extraction, see [Configure data extraction modes](set-up-extraction-modes-di.md).
+    You can create an invoice manually. For more information on invoices, see [Work with invoices](work-with-invoices.md). Invoices can be entered manually or extracted using DocIntel. For more information on invoice extraction, see [Configure data extraction modes](set-up-extraction-modes-di.md).
 
 4.  Select **View Invoice processing case**.
 
@@ -144,7 +144,7 @@ Tax amount on the invoice line is greater than the tax \(considering the varianc
 </td></tr></tbody>
 </table>6.  Select **Review exceptions**.
 
-    The list of exceptions raised for the invoice is listed. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md) and [Using Playbook in Accounts Payable Operations](how-to-use-playbook.md).
+    The list of exceptions raised for the invoice is listed. For more information on exceptions, see [Invoice exceptions](work-with-invoice-exceptions.md) and [Using Playbook in Accounts Payable Operations](how-to-use-playbook.md).
 
     The invoice tax validation is successful.
 

@@ -30,14 +30,14 @@ Role required: sn\_rpa\_fdn.rpa\_business\_user, sn\_rpa\_fdn.rpa\_support\_user
 4.  Open a maintenance request to view the details.
 
 
-**Parent Topic:**[Monitoring automations](../concept/monitoring-automations-rpa.md)
+**Parent Topic:**[Monitoring automations](monitoring-automations-rpa.md)
 
 **Related topics**  
 
 
 [Manage scheduled maintenance days in RPA Hub](manage-sm-request-rpa.md)
 
-[Scheduled maintenance days in RPA Hub](../concept/sm-days-rpa.md)
+[Scheduled maintenance days in RPA Hub](sm-days-rpa.md)
 
 ## Maintenance request form in RPA Hub
 
@@ -92,7 +92,7 @@ State
 State of the maintenance request:-   **Pending** - An MR is created when you accept the associated SM event card.
 -   **In Progress** - When the planned start date begins, the MR is executed. The life cycle stage status of the configuration item \(robot or bot process\) moves to In Maintenance state.
 -   **Complete** - When the MR completes execution of the configuration item \(robot or bot process\). When the associated CR is closed, then the life cycle stage status of the Configuration Item \(CI\) moves to Published state.
--   **Canceled** - When an MR is canceled. For more information about canceling an MR, see [Scheduled maintenance days in RPA Hub](../concept/sm-days-rpa.md) and [Manage scheduled maintenance days in RPA Hub](manage-sm-request-rpa.md).
+-   **Canceled** - When an MR is canceled. For more information about canceling an MR, see [Scheduled maintenance days in RPA Hub](sm-days-rpa.md) and [Manage scheduled maintenance days in RPA Hub](manage-sm-request-rpa.md).
 -   **Failed** - When a CI \(robot or bot process\) fails due to any issue.
 
 When the system tries to update the CI to either in Published or In Maintenance, but unable to update. Then the MR fails.

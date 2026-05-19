@@ -17,7 +17,7 @@ Standalone client methods are methods that you can use within your client JavaSc
 
 You can directly access these methods within a client script without any constructor or other type of instantiation before use.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](api-client.md)
 
 ## Standalone - reflistOpen \(String target, String elementName, String refTableName, String dependent, String useQBE, String refQualElements, String additionalQual, String parentID, String forceReference, String ignoreTargetValue\)
 

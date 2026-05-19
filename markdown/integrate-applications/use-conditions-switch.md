@@ -27,7 +27,7 @@ The Switch component enables you to set multiple values that are matched with th
 
 The Switch component can work with other components or methods to execute an automation Workflow.
 
-You can configure the properties for the Switch component. For more information on these properties, see [Properties of the Conditions components](../reference/conditions-properties.md).
+You can configure the properties for the Switch component. For more information on these properties, see [Properties of the Conditions components](conditions-properties.md).
 
 ## Procedure
 
@@ -56,5 +56,5 @@ You can configure the properties for the Switch component. For more information 
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Conditions](../concept/conditions-components.md)
+**Parent Topic:**[Conditions](conditions-components.md)
 

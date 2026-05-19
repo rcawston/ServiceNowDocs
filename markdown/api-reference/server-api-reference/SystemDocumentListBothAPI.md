@@ -17,9 +17,9 @@ The SystemDocumentList API provides methods for setting the record fields in the
 
 This API requires the Document Management plugin \(com.snc.platform\_document\_management\) and is provided within the `sn_doc_services` namespace. For information, see [Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-services-landing-page.md).
 
-To create or manage a document list, use the [DocumentListService API](../../DocumentListService/concept/DocumentListServiceBothAPI.md#).
+To create or manage a document list, use the [DocumentListService API](DocumentListServiceBothAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## SystemDocumentList - SystemDocumentList\(String docListName\)
 
@@ -51,7 +51,7 @@ Sets the Description field of a new document list record.
 |----|-----------|
 |None| |
 
-The following example shows how to add a description to the document list. See also [DocumentListService API](../../DocumentListService/concept/DocumentListServiceBothAPI.md#).
+The following example shows how to add a description to the document list. See also [DocumentListService API](DocumentListServiceBothAPI.md#).
 
 ```
 var dL = new sn_doc_services.SystemDocumentList('My document list');
@@ -87,7 +87,7 @@ Sets the Name field of a document list record.
 |----|-----------|
 |None| |
 
-The following example shows how to rename an existing document list. See also [DocumentListService](../../DocumentListService/concept/DocumentListServiceBothAPI.md#).
+The following example shows how to rename an existing document list. See also [DocumentListService](DocumentListServiceBothAPI.md#).
 
 ```
 var docListID = 'b2c021a924683c10f877a6fed1c2b0b1';

@@ -33,7 +33,7 @@ When a PaCE policy is mapped to a deployable instance, and if the policy is not 
 
 3.  Navigate to **Compliance library** &gt; **Control objectives**.
 
-4.  Click open a control objective or [create a control objective](../../grc-workspace-compliance/task/create-ctrl-objective-ws.md).
+4.  Click open a control objective or [create a control objective](../grc-compliance-management-workspace/create-ctrl-objective-ws.md).
 
 5.  Click the Details related list.
 

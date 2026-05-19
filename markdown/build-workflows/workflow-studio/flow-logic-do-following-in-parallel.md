@@ -60,7 +60,7 @@ In this example, a flow triggers when a new change request is created. Using **D
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](append-to-flow-variables-flow-logic.md)
 
 [Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
 
@@ -72,13 +72,13 @@ In this example, a flow triggers when a new change request is created. Using **D
 
 [End Flow flow logic](flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](exit-loop-flow-logic.md)
 
 [For Each flow logic](flow-logic-for-each.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](go-back-to-flow-logic.md)
 
 [If flow logic](flow-logic-if.md)
 
@@ -86,7 +86,7 @@ In this example, a flow triggers when a new change request is created. Using **D
 
 [Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](skip-iteration-flow-logic.md)
 
 [Try flow logic](flow-logic-try.md)
 

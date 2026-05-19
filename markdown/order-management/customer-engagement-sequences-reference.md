@@ -13,11 +13,11 @@ breadcrumb: [Lead and opportunity management, Reference, Sales Customer Relation
 
 Reference topics provide additional information about the Customer Engagement Sequences application.
 
--   **[Components installed with Customer Engagement Sequences](../reference/components-installed-customer-engagement-sequences.md)**  
+-   **[Components installed with Customer Engagement Sequences](components-installed-customer-engagement-sequences.md)**  
 Several types of components are installed with activation of the Customer Engagement Sequences plugin, including tables and user roles.
--   **[My sequence task list view](../reference/sequence-task-list-view.md)**  
+-   **[My sequence task list view](sequence-task-list-view.md)**  
 Description of the details displayed on the My sequence task list view.
--   **[Automation form fields](../reference/sequences-automation-form-fields.md)**  
+-   **[Automation form fields](sequences-automation-form-fields.md)**  
 The Automation form enables you to configure properties and pull data from referenced tables for an automated call attempt.
 
 **Parent Topic:**[Lead and opportunity management reference](reference-lead-opportunity-mgt.md)

@@ -46,7 +46,7 @@ View a summary of your instance-level entitlements in the **Instance entitlement
     -   Product subscription types include per-user, capacity, unrestricted user, unlimited, and display only.
     -   Per-user subscriptions are automatically allocated by role for administrators that haven't manually allocated per-user subscriptions before. If an administrator has manually allocated per-user subscriptions in the past, they can continue to make manual allocations.. Capacity, unrestricted user, and unlimited subscriptions are allocated on your instance automatically. Display-only subscriptions aren't measured on your instance.
     -   Product subscriptions provide entitlements for different applications and can include different add-ons.
-    For more information, see [Types of subscriptions in Subscription Management](../reference/types-subscription-v2.md).
+    For more information, see [Types of subscriptions in Subscription Management](types-subscription-v2.md).
 
 -   Determine whether your subscription allocations are in compliance by viewing the values in the **Status** column. Adjust allocations if subscriptions are over-allocated.
 
@@ -70,7 +70,7 @@ View a summary of your instance-level entitlements in the **Instance entitlement
 
         The subscription allocation status isn't calculated. Only applies to Creator Plus products.
 
-    You can customize the near capacity threshold for your instance in the **Settings** tab. For more information, see [Configure subscription allocation status in Subscription Management](../task/configure-subscription-allocation-status-v2.md).
+    You can customize the near capacity threshold for your instance in the **Settings** tab. For more information, see [Configure subscription allocation status in Subscription Management](configure-subscription-allocation-status-v2.md).
 
 -   View a summary of the Creator Plus subscriptions on the instance that you're currently accessing.
     -   View the total number of Creator Plus subscriptions that your company has purchased in the **Purchased** column.

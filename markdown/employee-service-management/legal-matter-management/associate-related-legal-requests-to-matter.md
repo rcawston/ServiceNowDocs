@@ -73,5 +73,5 @@ The state of the legal matter updates to Work in Progress.
 
 The selected legal requests are added to the matter and listed in the **Related Requests** tab.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](../employee-service-management/work-on-legal-matter-1.md)
 

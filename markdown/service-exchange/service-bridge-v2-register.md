@@ -64,9 +64,9 @@ If the state is **Validation Failed**, you must resolve all issues identified du
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](se-se-center.md)
 
-[Instance scan checks](../concept/service-bridge-v2-scan-checks.md)
+[Instance scan checks](service-bridge-v2-scan-checks.md)
 
 [Register a Service Exchange consumer](service-bridge-v2-onboarding.md)
 

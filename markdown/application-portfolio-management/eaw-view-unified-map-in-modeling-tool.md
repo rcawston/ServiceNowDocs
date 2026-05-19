@@ -43,7 +43,7 @@ Role required: sn\_apm.apm\_user and sn\_cmdb\_user
     -   **Architectural category**: The category to which the architectural artifact is associated with.
 9.  Select **OK**.
 
-    To learn more on how to use Enterprise Modeling and Visualization, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md).
+    To learn more on how to use Enterprise Modeling and Visualization, see [Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md).
 
 
 **Parent Topic:**[View a unified map for a business application](eaw-open-map-ba.md)

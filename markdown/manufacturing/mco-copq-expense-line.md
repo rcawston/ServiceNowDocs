@@ -25,7 +25,7 @@ Role required: Quality Issue Management Admin or product non-conformance submitt
 
 3.  On the CoPQ Expense Line form, fill in the fields.
 
-    For a description of the field values, see [CoPQ expense line form](../reference/mco-copq-expense-line-form.md).
+    For a description of the field values, see [CoPQ expense line form](mco-copq-expense-line-form.md).
 
 4.  Select **Save**.
 

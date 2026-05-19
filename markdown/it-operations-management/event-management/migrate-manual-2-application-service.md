@@ -62,5 +62,5 @@ If your ServiceNow instance uses domain separation, the conversion fails if CIs 
 -   The CIs from the manual service are added to the converted application services.
 -   After the conversion process is complete, the application services form opens.
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 

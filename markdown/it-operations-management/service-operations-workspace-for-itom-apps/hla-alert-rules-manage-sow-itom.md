@@ -15,22 +15,22 @@ breadcrumb: [Log Analytics in SOW for ITOM, Using SOW for ITOM, Service Operatio
 
 Alert rules enable you to set thresholds and conditions that determine when Health Log Analytics \(HLA\) triggers an alert.
 
-HLA generates alerts automatically for most log patterns. However, automatic detection doesn't work equally well for all logs. Use custom alert rules when your logs have too little data to generate alerts. For more information, see [About Log Analytics alert rules](../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
+HLA generates alerts automatically for most log patterns. However, automatic detection doesn't work equally well for all logs. Use custom alert rules when your logs have too little data to generate alerts. For more information, see [About Log Analytics alert rules](../health-log-analytics/hla-custom-alert-rules.md).
 
 You can define, change, or delete alert rules for a specified metric:
 
--   [Define a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-alert-rule-add-sow.md)
+-   [Define a Log Analytics alert rule in Health Log Analytics](../health-log-analytics/hla-op-alert-rule-add-sow.md)
 
     Define a Log Analytics alert rule for log data that is not generating alerts automatically.
 
--   [Change a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-modify-sow.md)
+-   [Change a Log Analytics alert rule in Health Log Analytics](../health-log-analytics/hla-op-defined-alert-modify-sow.md)
 
     Edit a Log Analytics alert rule that you have defined.
 
--   [Delete a Log Analytics alert rule in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-defined-alert-delete-sow.md)
+-   [Delete a Log Analytics alert rule in Health Log Analytics](../health-log-analytics/hla-op-defined-alert-delete-sow.md)
 
     Delete a Log Analytics alert rule that you have defined if it’s no longer needed.
 
 
-**Parent Topic:**[Log Analytics in Service Operations Workspace for ITOM](../../health-log-analytics-operator/concept/hla-op-binder-sow.md)
+**Parent Topic:**[Log Analytics in Service Operations Workspace for ITOM](hla-op-binder-sow.md)
 

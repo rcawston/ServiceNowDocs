@@ -29,7 +29,7 @@ The ServiceNow® Operational Technology Change Management application enables yo
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/oper-tech-change-management-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](oper-tech-change-management-reference.md)
 
 </td></tr></tbody>
 </table>

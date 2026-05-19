@@ -40,7 +40,7 @@ To save a condition that you created in the condition builder, select **Save fil
 |------|-----------|
 |Channel|Conversations that used the specified channel.|
 |Conversation Time|Conversations within the specified date and time.|
-|Duration|Conversations within the specified time duration. You can edit the definition of duration to be a session duration, rather than an active messaging duration. For more information, see [Create custom override definitions](../task/set-up-custom-definitions-pae.md).|
+|Duration|Conversations within the specified time duration. You can edit the definition of duration to be a session duration, rather than an active messaging duration. For more information, see [Create custom override definitions](set-up-custom-definitions-pae.md).|
 |End State|Conversations with the specified state that is based on how conversations ended. The values for the end states are stored in the Interactions \[interactions\] table. For more information, see [Virtual Agent interaction records](va-interactions.md).|
 |Events|Specific events that are triggered in a conversation.|
 |Feedback Result|Conversations for the specified feedback type.|

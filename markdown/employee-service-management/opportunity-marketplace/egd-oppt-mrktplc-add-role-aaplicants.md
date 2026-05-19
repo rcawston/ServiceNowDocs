@@ -43,5 +43,5 @@ Role required: Opportunity Marketplace \[sn\_opp\_market.admin\]
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](egd-oppt-mrktplc-inst-config.md)
 

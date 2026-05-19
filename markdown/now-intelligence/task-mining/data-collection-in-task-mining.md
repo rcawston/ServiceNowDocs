@@ -44,9 +44,9 @@ The Task Mining agent collects various types of data. Review this list for perso
 -   Application name, window titles, and web app URLs provide context and dashboard data by identifying the applications and web pages that workstation users interact with. Although these activities are essential for providing insights, the PII contained in window titles and URLs isn’t needed for analysis. Manage this data carefully to avoid the unintentional exposure of sensitive information such as session tokens, user names, or email addresses.
 -   The Task Mining agent tracks user interactions with specific UI elements such as input fields, drop-down lists, and buttons. UI object attributes can contain PII, especially when they’re related to other data subjects such as customer names or personal details entered into forms.
 
-In addition to the data collected by the Task Mining agent, Task Mining uses audit trail data that is collected from the Sys Audit \[sys\_audit\] table. This audit trail is used to identify and track activities that were performed during task execution, such as incident processing. This data provides a fuller view of the task, enabling a deeper view of the sequence and nature of activities. For more information, see [Data collected by Task Mining](../reference/data-management.md).
+In addition to the data collected by the Task Mining agent, Task Mining uses audit trail data that is collected from the Sys Audit \[sys\_audit\] table. This audit trail is used to identify and track activities that were performed during task execution, such as incident processing. This data provides a fuller view of the task, enabling a deeper view of the sequence and nature of activities. For more information, see [Data collected by Task Mining](data-management.md).
 
-For a complete list of tables installed with Task Mining, see [Components installed with Task Mining](../reference/installed-with-task-mining.md).
+For a complete list of tables installed with Task Mining, see [Components installed with Task Mining](installed-with-task-mining.md).
 
 ## Data collection methods
 
@@ -74,5 +74,5 @@ These data privacy measures safeguard the data collected, reduce the risk of exp
 **Related topics**  
 
 
-[Data collected by Task Mining](../reference/data-management.md)
+[Data collected by Task Mining](data-management.md)
 

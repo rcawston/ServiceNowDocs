@@ -26,7 +26,7 @@ Follow these steps to copy a process extension \(subflow\) and edit the copy to 
 
 Before completing the procedure, it may be helpful to review the following pages:
 
--   [Available Zero Copy Connector for ERP content packs](../concept/erp-canvas-available-content-packs.md)
+-   [Available Zero Copy Connector for ERP content packs](erp-canvas-available-content-packs.md)
 -   [Explore a Zero Copy Connector for ERP content pack](erp-canvas-explore-a-content-pack.md)
 
 ## Procedure
@@ -57,8 +57,8 @@ Before completing the procedure, it may be helpful to review the following pages
 
     ![Subflow displayed in flow view with use erp data link highlighted.](../image/erpc-process-extension-use3.png)
 
-    For more information, see [Use ERP Data action details for flows](../reference/erp-canvas-flow-reference-2.md).
+    For more information, see [Use ERP Data action details for flows](erp-canvas-flow-reference-2.md).
 
 
-**Parent Topic:**[Zero Copy Connector for ERP content packs](../concept/erp-canvas-content-packs.md)
+**Parent Topic:**[Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md)
 

@@ -54,5 +54,5 @@ Backing out an update set adds delete updates to your current set. If you commit
     The update set and all associated update records are deleted. If needed, you can still navigate to the retrieved update set, preview it, and commit it again.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](using-system-update-sets.md)
 

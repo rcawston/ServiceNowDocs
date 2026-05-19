@@ -65,11 +65,11 @@ This event is dispatched when a property validation or internal error occurs.
 </table>**Related topics**  
 
 
-[Configure the Case list component instance](../task/configure-case-list-component-on-instance.md)
+[Configure the Case list component instance](customer-self-service-and-omnichannel-engagement/configure-case-list-component-on-instance.md)
 
-[Embed the Case list component instance on the third-party website](../task/embed-case-list-component-on-third-party-website.md)
+[Embed the Case list component instance on the third-party website](customer-self-service-and-omnichannel-engagement/embed-case-list-component-on-third-party-website.md)
 
 [Component properties for the Case list](component-properties-for-the-case-list.md)
 
-[Sample code for the Case list component](we-case-list-sample-code.md)
+[Sample code for the Case list component](customer-self-service-and-omnichannel-engagement/we-case-list-sample-code.md)
 

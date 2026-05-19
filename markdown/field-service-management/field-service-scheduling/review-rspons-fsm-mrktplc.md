@@ -19,7 +19,7 @@ Review contractor responses then assign the task to a contractor on Field Servic
 
 Role required: sn\_mktplace\_core.mktplace\_requestor
 
-Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](activate-contractor-marketplace.md).
+Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
 The task must be pushed to marketplace first. For more information, see [Push a request to Field Service Marketplace](push-task-fsm-mktplc.md#).
 

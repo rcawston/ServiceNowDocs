@@ -25,7 +25,7 @@ To add a dashboard to a page in UI Builder, create the page from the Dashboards 
 
 1.  If there is an existing dashboard that you want to show in your experience, add your experience or configurable workspace to the **Dashboard visibility** field in the details of that dashboard.
 
-    Dashboard details are available through the inline editor, even for technical dashboards. For more information, see [Configure Platform Analytics dashboard details](../../dashboards/task/config-db-in-ac.md).
+    Dashboard details are available through the inline editor, even for technical dashboards. For more information, see [Configure Platform Analytics dashboard details](config-db-in-ac.md).
 
     **Note:** Ignore this step if there is no existing dashboard that you want to show.
 
@@ -58,32 +58,32 @@ To add a dashboard to a page in UI Builder, create the page from the Dashboards 
 
     In other words, turn on for full control over what the dashboard renders, regardless of URL parameters. The Copy URL and Copy URL with filter options are not available on such embedded dashboards.
 
-8.  Set the other configuration options as they are described in [Dashboard component properties](../../../build/component-uib-setup/reference/dashboard-component-properties-setup.md).
+8.  Set the other configuration options as they are described in [Dashboard component properties](dashboard-component-properties-setup.md).
 
 
 ## What to do next
 
 You can open the dashboard in runtime and edit it in the inline editor. Any viewer with edit rights can do the same. If the viewer has the rights to save a dashboard to the library, they have the option of saving the dashboard locally or altering the original dashboard in the library in Platform Analytics.
 
--   **[Dashboard component properties](../../../build/component-uib-setup/reference/dashboard-component-properties-setup.md)**  
+-   **[Dashboard component properties](dashboard-component-properties-setup.md)**  
 Disable and enable dashboard component runtime user abilities with these properties.
--   **[Dashboard component events](../../../build/component-uib-setup/reference/dashboard-component-events-setup.md)**  
+-   **[Dashboard component events](dashboard-component-events-setup.md)**  
 Select event handlers to configure the actions \(events\) provided with the dashboard component.
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](create-analytics-ws-aes.md)
 
 [Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
 
 [Configure custom redirection from a dashboard component](config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](configure-dashboard-data-broker.md)
 

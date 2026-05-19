@@ -154,7 +154,7 @@ More information about the authority document.
 
 Create a citation from the **Authority document** related list.
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](r_PoliciesAndProcedures.md)
 
 **Related topics**  
 

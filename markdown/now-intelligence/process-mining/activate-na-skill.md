@@ -34,5 +34,5 @@ Role required: admin
     The skill is activated for your instance.
 
 
-**Parent Topic:**[Working with work notes using Now Assist](../concept/worknotes.md)
+**Parent Topic:**[Working with work notes using Now Assist](worknotes.md)
 

@@ -42,5 +42,5 @@ Role required: admin
 7.  Select **Remove** to remove the element from the CAD file.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](editing-tools-cad-editor.md)
 

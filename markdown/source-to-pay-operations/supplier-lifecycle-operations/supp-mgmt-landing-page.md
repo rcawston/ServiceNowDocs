@@ -43,7 +43,7 @@ Supplier Lifecycle Operations overview
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/supp-mgmt-reference.md)
+[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](supp-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -52,7 +52,7 @@ Here are some additional ServiceNow resources that can help you:
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-docs.svg) Release Notes**
 
-    Learn more about what's new and changed. See the [Supplier Lifecycle Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/supplier-lifecycle-operations-rn.md).
+    Learn more about what's new and changed. See the [Supplier Lifecycle Operations release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/supplier-lifecycle-operations-rn.md).
 
 -   **![](../../../reuse/icons/dcx-icons/dcx-icon-learning.svg) ServiceNow University**
 

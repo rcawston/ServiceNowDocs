@@ -54,7 +54,7 @@ Success goal
 
 </td><td>
 
-Success goal associated to the maturity item. For more information about creating a success goal, see [Create a success goal for Hardware Asset Management](../task/create-suc-goal.md).
+Success goal associated to the maturity item. For more information about creating a success goal, see [Create a success goal for Hardware Asset Management](create-suc-goal.md).
 
 </td></tr><tr><td>
 
@@ -128,5 +128,5 @@ Work notes
 Notes about the maturity item, which are visible to all users within your organization.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
 

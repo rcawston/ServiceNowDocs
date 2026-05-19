@@ -33,7 +33,7 @@ Discovery collects and creates CIs in the CMDB for the following information:
 -   Disks \(both SAN disks and DAS drives\).
 -   Fibre Channel \(FC\) HBAs and ports.
 -   Linux Volume Manager \(LVM\) volumes. LVM volume data resides in the Storage Pool \[cmdb\_ci\_storage\_pool\] table.
--   [Veritas Volume Manager](../reference/r_DataCollDiscoVVMLinux.md) disks, subdisks, disk groups, plexes, and volumes.
+-   [Veritas Volume Manager](r_DataCollDiscoVVMLinux.md) disks, subdisks, disk groups, plexes, and volumes.
 
 **Note:** For details about the discovery of direct attached or multipath block storage provisioned on a Linux host, see [KB0622583](https://support.servicenow.com/kb_view.do?sysparm_article=KB0622583).
 
@@ -88,18 +88,18 @@ Discovery creates the following relationships for storage CIs:
 
 -   **[Configure discovery of hosts with attached storage](configure-discovery-of-hosts-with-attached-storage.md)**  
 Discovery can find information about UNIX, Linux, and Windows hosts with attached storage.
--   **[Discovery data collected for storage via a host](../reference/r_DataCollDiscoStorageViaHost.md)**  
+-   **[Discovery data collected for storage via a host](r_DataCollDiscoStorageViaHost.md)**  
 Discovery gathers information about storage units that connect to Linux, Solaris, and Windows hosts via a local I/O port or Host Bus Adapter \(HBA\).
--   **[Storage Discovery via SMI-S and CIM](../reference/r_DataCollDiscoStorageviaSMISCIM.md)**  
+-   **[Storage Discovery via SMI-S and CIM](r_DataCollDiscoStorageviaSMISCIM.md)**  
 Discovery can explore storage devices that contain a Storage Management Initiative Specification \(SMI-S\) provider that is a specialized Common Information Model \(CIM\) server.
--   **[Data collected for Veritas Volume Manager on Linux](../reference/r_DataCollDiscoVVMLinux.md)**  
+-   **[Data collected for Veritas Volume Manager on Linux](r_DataCollDiscoVVMLinux.md)**  
 Discovery collects disk and volume information for Veritas Volume Manager \(VxVM\) on Linux hosts and maps file systems mounted on Veritas volumes to the upstream storage provider.
 -   **[NetApp Server and Cluster discovery](netapp-discovery.md)**  
 Discovery and Service Mapping find NetApp servers and clusters using patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
--   **[Manage large storage payloads in Linux and Solaris](../task/manage-lg-payloads-linux-solaris.md)**  
+-   **[Manage large storage payloads in Linux and Solaris](manage-lg-payloads-linux-solaris.md)**  
 Large payloads for Linux and Solaris direct attached storage can cause out of memory errors if not configured to serialize the processing of the payload.
--   **[Storage discovery examples](../reference/storage-discovery-examples.md)**  
+-   **[Storage discovery examples](storage-discovery-examples.md)**  
 Discovery creates configuration items \(CI\) and CI relationships for physical and logical storage components attached directly to application and database servers or by fibre channel switched fabric in a multi-path configuration.
 
-**Parent Topic:**[Data collected by ITOM Visibility](../reference/data-collected-by-itom-visibility.md)
+**Parent Topic:**[Data collected by ITOM Visibility](data-collected-by-itom-visibility.md)
 

@@ -18,7 +18,7 @@ Learn how AI Agent Topology Mapping discovers AI infrastructure components acros
 
 ## AI Agent Topology Mapping overview
 
-AI Agent Topology Mapping extends the pattern-based discovery framework to identify and track AI-specific components in your environment. The application uses patterns to discover AI components from cloud platforms, populating the CMDB with configuration items \(CIs\). This approach provides centralized visibility into your AI infrastructure alongside traditional IT assets. For more information about how patterns work, see [Discovery patterns used by ITOM Visibility](../../service-mapping/concept/c_MappingPatternsCustomization.md).
+AI Agent Topology Mapping extends the pattern-based discovery framework to identify and track AI-specific components in your environment. The application uses patterns to discover AI components from cloud platforms, populating the CMDB with configuration items \(CIs\). This approach provides centralized visibility into your AI infrastructure alongside traditional IT assets. For more information about how patterns work, see [Discovery patterns used by ITOM Visibility](../discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md).
 
 AI Agent Topology Mapping discovers the following AI components:
 
@@ -78,7 +78,7 @@ The pde\_viewer role can view the following tables only:
 -   Pattern Shared Library Mapping \[pd\_pattern\_to\_shared\_library\_mapping\]
 -   Temporary Variable Mappings \[pd\_temp\_variable\_value\_mapping\]
 
-For more information, see [Discovery commands for probes and patterns](../../discovery/concept/discovery-command-probe-pattern.md).
+For more information, see [Discovery commands for probes and patterns](../discovery/discovery-command-probe-pattern.md).
 
 </td></tr><tr><td>
 
@@ -126,5 +126,5 @@ The following workflow describes how a discovery administrator uses AI Agent Top
 To learn more about configuring and using AI Agent Topology Mapping, see:
 
 -   [Configuring AI Agent Topology Mapping](configuring-ai-agent-topology-mapping.md)
--   [AI Agent Topology Mapping reference](../reference/ai-agent-topology-mapping-reference.md)
+-   [AI Agent Topology Mapping reference](ai-agent-topology-mapping-reference.md)
 

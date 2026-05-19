@@ -22,23 +22,23 @@ Select a tile to get started with one of Conversational Interfaces products.
 
 </td><td>
 
-[Virtual Agent![](../../../reuse/icons/brand-icons/bus-chat.svg)Empower your employees and customers to serve themselves using a friendly messaging interface, featuring pre-built conversations powered by artificial intelligence.](../../virtual-agent/concept/virtual-agent-landing-page.md)
+[Virtual Agent![](../../../reuse/icons/brand-icons/bus-chat.svg)Empower your employees and customers to serve themselves using a friendly messaging interface, featuring pre-built conversations powered by artificial intelligence.](virtual-agent/virtual-agent-landing-page.md)
 
 </td><td>
 
-[Now Assist in Virtual Agent![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use large language models \(LLMs\) to create a natural-language conversational experience that can improve the success of your self-service workflows.](../../now-assist-in-va/concept/now-assist-in-va-landing.md)
+[Now Assist in Virtual Agent![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use large language models \(LLMs\) to create a natural-language conversational experience that can improve the success of your self-service workflows.](now-assist-in-virtual-agent/now-assist-in-va-landing.md)
 
 </td></tr><tr><td>
 
-[Agent Chat![](../../../reuse/icons/brand-icons/bus-customer-service-agent.svg)Streamline the agent and requester chat experience and enable managers to monitor and assist agents.](ci-use-agent-chat.md)
+[Agent Chat![](../../../reuse/icons/brand-icons/bus-customer-service-agent.svg)Streamline the agent and requester chat experience and enable managers to monitor and assist agents.](agent-chat/ci-use-agent-chat.md)
 
 </td><td>
 
-[Sidebar![](../../../reuse/icons/brand-icons/bus-community.svg)Enable agents to collaborate with others on Workspace records.](sidebar-landing.md)
+[Sidebar![](../../../reuse/icons/brand-icons/bus-community.svg)Enable agents to collaborate with others on Workspace records.](sidebar/sidebar-landing.md)
 
 </td><td>
 
-[Conversational Interfaces Diagnostic Tool![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Identify, troubleshoot, and find solutions for issues with Conversational Interfaces.](ci-diagnostics-tool-landing.md)
+[Conversational Interfaces Diagnostic Tool![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Identify, troubleshoot, and find solutions for issues with Conversational Interfaces.](conversational-interfaces-diagnostics-tool/ci-diagnostics-tool-landing.md)
 
 </td></tr><tr><td>
 

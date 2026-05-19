@@ -48,5 +48,5 @@ The available additional filters are:
 
 In addition to the default filters on the pages of the  Usage Insights application, you can add filters based on user properties. See [Add user properties as filters to Usage Insights](uxa-add-filters-uxa-pages.md) for details.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

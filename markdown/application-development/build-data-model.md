@@ -13,7 +13,7 @@ breadcrumb: [Define and build the data model, Build your application, Exploring 
 
 Create tables and fields on the tables to support the application’s data model.
 
-**Note:** Consider creating applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+**Note:** Consider creating applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](application-development/use-ai-capabilities-in-custom-apps.md).
 
 ServiceNow automatically adds five fields to each new table. The new fields contain auto-populated information about the table.
 

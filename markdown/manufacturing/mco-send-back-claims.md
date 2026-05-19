@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Repair**.
 
-    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](../concept/mco-create-repair-claim.md).
+    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](mco-create-repair-claim.md).
 
 2.  Select **Review &amp; approve** from **Activities**.
 
@@ -34,5 +34,5 @@ Role required: admin
 5.  Enter **Comment** and **Confirm**.
 
 
-**Parent Topic:**[Reviewing and approving repair claims](../concept/mco-approve-repair-claims.md)
+**Parent Topic:**[Reviewing and approving repair claims](mco-approve-repair-claims.md)
 

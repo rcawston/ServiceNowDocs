@@ -50,5 +50,5 @@ Roles required:
     For more information, see [Create bot messages](create-bot-messages.md#).
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](va-integ-slack.md)
 

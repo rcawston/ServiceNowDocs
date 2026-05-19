@@ -44,5 +44,5 @@ Role required: none
     **Note:** If the record has journal fields for comments or work notes, your message is automatically added to the appropriate field on the record. If the record has a standard text field for comments on the activity formatter, each live post overwrites the field value. Comments added through Live Feed start with \#LiveFeed on the activity formatter.
 
 
-**Parent Topic:**[Working with record feeds](../concept/c_WorkingWithRecordFeeds.md)
+**Parent Topic:**[Working with record feeds](c_WorkingWithRecordFeeds.md)
 

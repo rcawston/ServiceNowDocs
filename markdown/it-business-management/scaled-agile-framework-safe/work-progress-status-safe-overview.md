@@ -17,7 +17,7 @@ The Work Progress Status for SAFe application provides you with indicators such 
 
 **Important:**
 
-Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](../../spw-eap/concept/eap-landing.md) provides the latest experience for this functionality.
+Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](../enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
 
 For more information on the deprecation process and its impact, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
@@ -28,20 +28,20 @@ As a product owner or a team lead, these indicators help you understand if your 
 -   **[Reviewing progress status for SAFe features and epics](review-safe-epic-feature-progress-status.md)**  
 Understand if your work would be completed by the planned end dates by reviewing progress status of your SAFe features and epics.
 
-**Parent Topic:**[Scaled Agile Framework \(SAFe\)](../../agile-SAFe/concept/SAFeoverview.md)
+**Parent Topic:**[Scaled Agile Framework \(SAFe\)](SAFeoverview.md)
 
 **Related topics**  
 
 
-[Domain separation and Scaled Agile Framework \(SAFe\)](../../agile-SAFe/concept/domain-separation-scaled-agile-framework.md)
+[Domain separation and Scaled Agile Framework \(SAFe\)](domain-separation-scaled-agile-framework.md)
 
-[Business stakeholder role for Essential SAFe and Portfolio SAFe](../../agile-SAFe/reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
+[Business stakeholder role for Essential SAFe and Portfolio SAFe](business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
 
-[Essential SAFe](../../agile-SAFe/concept/essential-overview.md)
+[Essential SAFe](essential-overview.md)
 
-[Portfolio SAFe](../../agile-SAFe/concept/portfolio-overview.md)
+[Portfolio SAFe](portfolio-overview.md)
 
-[SAFe — Unified Backlog](../../safe-unified-backlog/concept/safeunified-backlog.md)
+[SAFe — Unified Backlog](safeunified-backlog.md)
 
-[Performance Analytics Content Pack for Essential SAFe](../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
+[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
 

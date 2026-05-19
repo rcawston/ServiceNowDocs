@@ -29,15 +29,15 @@ Authentication enables users to authenticate with their accounts within ServiceN
 
 For personal authentication, see [Personal authentication](personal-authentication-documents.md).
 
--   **[Configure system properties to access files and folders from external content providers](../task/configure-system-properties-external-provider.md)**  
+-   **[Configure system properties to access files and folders from external content providers](configure-system-properties-external-provider.md)**  
 Configure system properties to enable access to files and folders from external content providers like Microsoft OneDrive V3.1 and Google Drive V3.1 when using the **sn-document-explorer-connected** component in Document Management with Personal authentication.
--   **[Attach a document from an external provider](../task/attach-external-provider.md)**  
+-   **[Attach a document from an external provider](attach-external-provider.md)**  
 Attach documents from an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive to Document Management.
--   **[Upload to a cloud](../task/upload-external-provider.md)**  
+-   **[Upload to a cloud](upload-external-provider.md)**  
 Upload documents from Document Management to an external cloud like Microsoft OneDrive, Microsoft SharePoint, or Google Drive.
--   **[Download versions from cloud](../task/sync-versions.md)**  
+-   **[Download versions from cloud](sync-versions.md)**  
 Download document versions from an external cloud to Document Management.
--   **[Upload versions to an external cloud](../task/upload-versions-external-cloud.md)**  
+-   **[Upload versions to an external cloud](upload-versions-external-cloud.md)**  
 Upload document versions Document Management to an external cloud.
 
 **Parent Topic:**[Using Document Management](using-document-management.md)

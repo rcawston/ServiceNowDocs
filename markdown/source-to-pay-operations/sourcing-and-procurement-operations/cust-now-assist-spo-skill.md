@@ -40,7 +40,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](input-triggers-now-assist-spo.md).
 
     1.  Enter a name and description for the skill.
 
@@ -199,5 +199,5 @@ Requester SR closed
 **Related topics**  
 
 
-[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md)
+[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](input-triggers-now-assist-spo.md)
 

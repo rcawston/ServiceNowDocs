@@ -38,5 +38,5 @@ To pin specific MID Servers on a desired version, set the **mid.pinned.version**
 
 **Note:** The value set in this parameter is not affected by an upgrade.
 
-**Parent Topic:**[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+**Parent Topic:**[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
 

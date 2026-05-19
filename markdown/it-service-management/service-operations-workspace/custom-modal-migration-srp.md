@@ -48,5 +48,5 @@ Standard Record Page \(SRP\) provides options to modify the different modals use
     For more information about creating a page and variant, see [Learn UI Builder by example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learning-uib-by-example.md)
 
 
-**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](../concept/srp-service-operations-workspace.md)
+**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](srp-service-operations-workspace.md)
 

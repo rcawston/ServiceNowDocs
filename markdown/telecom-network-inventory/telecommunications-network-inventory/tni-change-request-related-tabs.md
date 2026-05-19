@@ -110,10 +110,10 @@ Outages
 List of CI unavailability or outages. If there is an actual down time for any of the CI items, the outage information is listed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md)
+[Create a change request from Network Inventory Workspace](create_a_change_request_in_tni.md)
 

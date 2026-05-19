@@ -17,7 +17,7 @@ Upload glossaries to the Language Asset Management area of Localization Workspac
 
 ## Before you begin
 
--   Confirm that the Languages \[sys\_language\] table in your instance contains an ID for every language that you plan to include in your glossary. Language IDs should be compliant with BCP 47. For more information and links see [Language Asset Management](../concept/lw-language-asset-management.md).
+-   Confirm that the Languages \[sys\_language\] table in your instance contains an ID for every language that you plan to include in your glossary. Language IDs should be compliant with BCP 47. For more information and links see [Language Asset Management](lw-language-asset-management.md).
 -   You must be able to work with and save files in the Excel Workbook \(.xlsx\) file format. This file format supports the UTF-8 encoding that is needed for special characters and non-alphabetic writing systems.
 -   Role required: sn\_lw.user
 
@@ -167,5 +167,5 @@ You can add you own columns for self-localized languages. If you create a column
 
 To add or edit source terms, or make any modifications after the initial upload, see [Edit a glossary in Language Asset Management](lw-lam-edit-glossary.md).
 
-**Parent Topic:**[Language Asset Management](../concept/lw-language-asset-management.md)
+**Parent Topic:**[Language Asset Management](lw-language-asset-management.md)
 

@@ -25,7 +25,7 @@ Knowledge logs capture information from all the available sources where users ca
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](knowledge-service-portal-pages.md).
 
 ## Procedure
 
@@ -63,14 +63,14 @@ View records showing who has viewed which knowledge articles, who has attached a
 
 </td></tr></tbody>
 </table>
--   **[Search Log fields and description](../reference/km-search-logs.md)**  
+-   **[Search Log fields and description](km-search-logs.md)**  
 The knowledge search log stores the history of all knowledge searches performed by the users.
--   **[View Log fields and description](../reference/km-view-logs.md)**  
+-   **[View Log fields and description](km-view-logs.md)**  
 The knowledge View log stores the history of knowledge articles views and their usage.
 -   **[View the source of a knowledge article search](find-knowledge-search-source.md)**  
 Analyze knowledge searches by finding the source used for searching a knowledge article.
 -   **[Modify the data retention policy for View logs](auto-flush-kb-use.md)**  
 Remove unwanted and older data from the Knowledge Use \[kb\_use\] table through the data retention policy.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
 

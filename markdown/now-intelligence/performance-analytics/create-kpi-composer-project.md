@@ -36,9 +36,9 @@ As you work on the project, keep track collaboratively in the Project Journal.
 
 ![Project Journal sidebar open](../image/kpi-composer-project-journal.png)
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](kpi-composer-projects.md)
 
-**Previous topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Previous topic:**[KPI Composer projects](kpi-composer-projects.md)
 
 **Next topic:**[Define properties for a project](define-properties-project.md)
 

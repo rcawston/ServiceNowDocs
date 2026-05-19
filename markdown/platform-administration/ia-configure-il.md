@@ -41,7 +41,7 @@ Role required: admin
 
 3.  Select **Get Started** on the modules.
 
-    You are redirected to the first configuration of the selected module. See [Platform module configuration in Now Assist for Setup](../reference/ia-config-platform-il.md) for more information on Platform configuration steps.
+    You are redirected to the first configuration of the selected module. See [Platform module configuration in Now Assist for Setup](ia-config-platform-il.md) for more information on Platform configuration steps.
 
 4.  Expand the left panel configurations to view the pre-configured configurations.
 
@@ -107,5 +107,5 @@ Role required: admin
 
 After the configuration completes, you can promote the changes to test or production instances by re-running the auto-installation, committing retrieved update sets, and validating ATF tests.
 
-**Parent Topic:**[Configure in Now Assist for Setup](../concept/ia-config-landing.md)
+**Parent Topic:**[Configure in Now Assist for Setup](ia-config-landing.md)
 

@@ -35,17 +35,17 @@ Role required: sn\_sec\_cmn.admin
 
 3.  Select **Configure**.
 
-    **Note:** If you are configuring the Qualys Vulnerability Integration, see [Installation of Vulnerability Response and supported applications](../../vulnerability-response/concept/cj-vr-setup.md).
+    **Note:** If you are configuring the Qualys Vulnerability Integration, see [Installation of Vulnerability Response and supported applications](vulnerability-response/cj-vr-setup.md).
 
 4.  Enter the **API Key**.
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Security Operations Integration Configurations](../concept/third-party-integrations.md)
+**Parent Topic:**[Security Operations Integration Configurations](third-party-integrations.md)
 
 **Related topics**  
 
 
-[Create an integration](../../security-operations-integrations/task/create-integrations.md)
+[Create an integration](create-integrations.md)
 

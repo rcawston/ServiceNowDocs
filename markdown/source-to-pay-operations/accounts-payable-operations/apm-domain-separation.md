@@ -27,9 +27,9 @@ For more information on support levels, see [Application support for domain sepa
 **Related topics**  
 
 
-[Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md)
+[Install Accounts Payable Invoice Processing](install-acc-pay-mgmt.md)
 
-[Install Invoice Case Management](../task/install-invoice-case-mgmt.md)
+[Install Invoice Case Management](install-invoice-case-mgmt.md)
 
 [Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)
 

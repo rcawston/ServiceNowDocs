@@ -39,5 +39,5 @@ Turn on the flow summarization skill to generate a summary of what a flow or sub
     ![Flow summarization skill listed as active skill](../../now-assist-skills/image/na-creator-flow-skills-active.png)
 
 
-**Parent Topic:**[Flow summarization](../reference/flow-summarization-landing.md)
+**Parent Topic:**[Flow summarization](flow-summarization-landing.md)
 

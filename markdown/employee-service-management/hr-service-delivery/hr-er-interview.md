@@ -99,7 +99,7 @@ Scheduling method
 
 The method you are using to schedule the interview. If your company only uses the manual method of scheduling, **Manual entry** appears and cannot be edited.
 
- If your company uses the integration with Microsoft Outlook Calendar to schedule, **Calendar** appears. For more information, see [Using Interview Management](../concept/using-interview-management.md).
+ If your company uses the integration with Microsoft Outlook Calendar to schedule, **Calendar** appears. For more information, see [Using Interview Management](using-interview-management.md).
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Notes from the interview or you can enter the answers to the questions from the 
 </td></tr></tbody>
 </table>6.  Select the **Questions** button at the top, right corner to view, and select questions from an interview template.
 
-    Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](../concept/hr-er-interview-1.md#).
+    Interview templates ensure consistency and efficiency when conducting interviews. For more information, see [Create an interview question template](hr-er-interview-1.md#).
 
 7.  If an interview template appears, select it and you can select **Copy to clipboard** or **Insert to notes**.
 
@@ -170,6 +170,6 @@ Notes from the interview or you can enter the answers to the questions from the 
 
 8.  Select **Save** or **Submit**.
 
-    If you select **Save**, the Evidence related list appears. For more information, see [Evidence Management for Employee Relations](../concept/hr-er-evidence-mgmt.md#).
+    If you select **Save**, the Evidence related list appears. For more information, see [Evidence Management for Employee Relations](hr-er-evidence-mgmt.md#).
 
 

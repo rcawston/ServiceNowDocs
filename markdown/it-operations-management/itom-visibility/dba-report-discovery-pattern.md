@@ -112,7 +112,7 @@ Discovery credentials should have read access to: -   Run `â€œlsnrctl servicesâ€
 </td></tr></tbody>
 </table>-   **Verify that a Discovery schedule is configured**
 
-    For more information, see [create a discovery schedule](running-discoveries.md)
+    For more information, see [create a discovery schedule](../discovery/running-discoveries.md)
 
 
 ## Data collected by the extension section of the Apache Cassandra pattern

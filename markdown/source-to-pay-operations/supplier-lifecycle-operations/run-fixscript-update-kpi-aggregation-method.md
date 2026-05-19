@@ -42,7 +42,7 @@ For new KPI templates and KPIs, there’s no impact even if the script is not ru
 4.  Select **Run Fix Script**.
 
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
@@ -59,5 +59,5 @@ For new KPI templates and KPIs, there’s no impact even if the script is not ru
 
 [Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](process-skipped-records-upgrade.md)
 

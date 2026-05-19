@@ -15,5 +15,5 @@ Group Life Servicing contains preconfigured dashboards with actionable data visu
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [Group Life Servicing dashboard](../../../use/dashboards/application-content-packs/group-life-servicing-dashboard.md) is available for Group Life Servicing.
+The [Group Life Servicing dashboard](group-life-servicing-dashboard.md) is available for Group Life Servicing.
 

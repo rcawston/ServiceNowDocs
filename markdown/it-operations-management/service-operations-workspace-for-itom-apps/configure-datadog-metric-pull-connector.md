@@ -71,7 +71,7 @@ Ensure you have the application key configured in the Datadog. For more informat
     -   in the **Application key** field, enter the application key that is associated with the user account.
 8.  If you want to customize configurations to meet specific requirements, select **Advanced settings** and fill in the form.
 
-    For more information on fields, see [Datadog advanced settings fields](../reference/datadog-advanced-settings-fields.md).
+    For more information on fields, see [Datadog advanced settings fields](datadog-advanced-settings-fields.md).
 
 9.  Test the connector before activating it by selecting **Test and Save**.
 

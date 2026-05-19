@@ -43,7 +43,7 @@ These predefined agentic workflows can also be used as templates for your own cu
 
 9.  Toggle the display for the Now Assist panel and/or UI action so that it’s turned on.
 
-    You have enabled the agentic workflow in the Now Assist panel. If the option isn't available, you must enable the panel first. For more information, see [Turn on the Now Assist panel](../../now-assist-admin/task/activate-now-assist-panel.md).
+    You have enabled the agentic workflow in the Now Assist panel. If the option isn't available, you must enable the panel first. For more information, see [Turn on the Now Assist panel](activate-now-assist-panel.md).
 
 10. Select **Save and test**.
 

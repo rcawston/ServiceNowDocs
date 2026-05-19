@@ -15,9 +15,9 @@ breadcrumb: [Configuring contextual search, Contextual search, Search administra
 
 Define filter configurations to map fields from the form to provide a more targeted search result set.
 
--   **[Create a filter configuration using mapping](../task/create-filter-config-using-mapping.md)**  
+-   **[Create a filter configuration using mapping](create-filter-config-using-mapping.md)**  
 Create filter conditions using mapping that you can associate with a table configuration. The search result displays result that meets the filter conditions.
--   **[Create a filter configuration using scripts](../task/create-filter-config-using-scripting.md)**  
+-   **[Create a filter configuration using scripts](create-filter-config-using-scripting.md)**  
 Create filter conditions using script that you can associate with a table configuration. The search result displays results that meet the filter conditions.
 
 **Parent Topic:**[Configuring contextual search](configuring-contextual-search.md)

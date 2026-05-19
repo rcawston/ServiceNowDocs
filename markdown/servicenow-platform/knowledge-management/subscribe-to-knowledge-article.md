@@ -26,9 +26,9 @@ Users can subscribe to a knowledge article from either the Knowledge Management 
 **Note:**
 
 -   Users who are already subscribed to a knowledge base are also subscribed to the articles within that knowledge base.
--   To subscribe to articles from the base service portal \(`https://<instance name>` `/sp?`\), you must navigate to the [Knowledge Management Service Portal](../concept/knowledge-service-portal-pages.md) pages \(for example, `https://<instance name>` `/sp?id=kb_home)` from the base service portal.
+-   To subscribe to articles from the base service portal \(`https://<instance name>` `/sp?`\), you must navigate to the [Knowledge Management Service Portal](knowledge-service-portal-pages.md) pages \(for example, `https://<instance name>` `/sp?id=kb_home)` from the base service portal.
 -   To manage the knowledge subscription for knowledge base and knowledge article, see [Manage knowledge subscriptions](manage-knowledge-subscriptions.md).
--   Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+-   Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](knowledge-service-portal-pages.md).
 
 
 ## Procedure
@@ -40,5 +40,5 @@ Users can subscribe to a knowledge article from either the Knowledge Management 
     The system shows an information message about the article subscription and the button toggles to **Subscribed**. If the email notification contains an article link, the link points to the Knowledge Management Service Portal. The email notification for a subscribed article includes the knowledge article ID, short description, and link to the article.
 
 
-**Parent Topic:**[Use knowledge subscriptions](../concept/use-knowledge-subscriptions.md)
+**Parent Topic:**[Use knowledge subscriptions](use-knowledge-subscriptions.md)
 

@@ -34,7 +34,7 @@ As a result:
 -   The system doesn't apply user and system timezones during evaluation.
 -   `between` conditions compare the literal dateTime values exactly as provided.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## DecisionTableAPI - DecisionTableAPI\(\)
 

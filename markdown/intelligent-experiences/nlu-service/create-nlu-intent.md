@@ -24,7 +24,7 @@ Create an intent for your Natural Language Understanding \(NLU\) model. Intents 
 
 ## About this task
 
-This procedure shows you how to create an intent. To reuse intents from other models, see [Reusing intents from prebuilt NLU models](../concept/reusing-predefined-nlu-intents.md).
+This procedure shows you how to create an intent. To reuse intents from other models, see [Reusing intents from prebuilt NLU models](reusing-predefined-nlu-intents.md).
 
 Here's an example of how intents can interact with the vocabulary in their training utterances.
 
@@ -85,7 +85,7 @@ In the following example procedure, you're creating an intent and adding utteran
 
 Train your model to save your updates. For issues with intents, see [Resolve intent issues](resolve-intent-issues.md).
 
-To improve your utterances, add entities to provide context. See [NLU entities](../concept/entities.md).
+To improve your utterances, add entities to provide context. See [NLU entities](entities.md).
 
-The available [Intent Discovery](../concept/intent-discovery.md) feature can help identify intents that would be possible to add, based on your historical data.
+The available [Intent Discovery](intent-discovery.md) feature can help identify intents that would be possible to add, based on your historical data.
 

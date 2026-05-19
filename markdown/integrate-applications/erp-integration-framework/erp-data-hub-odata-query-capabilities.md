@@ -16,7 +16,7 @@ breadcrumb: [Connect to SAP with OData and HTTP, Configure, Zero Copy Connector 
 
 Details about the OData v2 query capabilities supported in Zero Copy Connector for ERP \(Enterprise Resource Planning\).
 
-For information about OData connections in Zero Copy Connector for ERP, see [Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md) and [Create an OData connection in Zero Copy Connector for ERP](../task/create-an-odata-connection.md).
+For information about OData connections in Zero Copy Connector for ERP, see [Connect Zero Copy Connector for ERP to SAP using OData and HTTP](erp-canvas-use-odata-and-http-connection.md) and [Create an OData connection in Zero Copy Connector for ERP](create-an-odata-connection.md).
 
 <table id="table_obv_yvk_fdc"><thead><tr><th>
 
@@ -47,5 +47,5 @@ Available in the **Use ERP Data** flow.
 Specify the order, ascending or descending, in which data should be returned from an output variable.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md)
+</table>**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](erp-canvas-use-odata-and-http-connection.md)
 

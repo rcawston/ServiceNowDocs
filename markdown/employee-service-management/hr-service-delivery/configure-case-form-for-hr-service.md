@@ -97,7 +97,7 @@ Once the configuration is complete, HR agents that are working on a 401\(k\) cas
 
 ### Requesting an e-signature for an HR document template
 
-You are configuring an HR service to request electronic signatures for HR document templates using [HR e-signature](../concept/hr-e-signature.md). Unlike managed documents or knowledge articles, the HR document template that the signatory will sign is selected on the HR case form. Therefore, you need to add the **PDF Template** field to the HR case form for your HR service. This way, HR agents can select the HR document template that they want the employee to sign when creating that case type.
+You are configuring an HR service to request electronic signatures for HR document templates using [HR e-signature](hr-e-signature.md). Unlike managed documents or knowledge articles, the HR document template that the signatory will sign is selected on the HR case form. Therefore, you need to add the **PDF Template** field to the HR case form for your HR service. This way, HR agents can select the HR document template that they want the employee to sign when creating that case type.
 
 First, on the HR service form, under the **HR Service Additional Information** related list, add the **PDF Template** field.
 

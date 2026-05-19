@@ -109,5 +109,5 @@ Select the dates for which you want to import the data. By default, the last 30 
     A request is created. When the request is approved, the plan objects are associated to the app record, which enables real-time tracking. Historical data is also imported for the selected plans. The **Track** field is automatically enabled for imported plans.
 
 
-**Parent Topic:**[Rally integration with DevOps Change Velocity](../concept/rally-devops-integration.md)
+**Parent Topic:**[Rally integration with DevOps Change Velocity](rally-devops-integration.md)
 

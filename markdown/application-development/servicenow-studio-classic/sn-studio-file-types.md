@@ -314,5 +314,5 @@ sp\_widget
 Describe objects that contain content and can be added to or embedded in portal pages. You can use the base system widgets provided with the Service Portal, clone and modify widgets, or develop custom widgets to fit your own needs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow Studio reference](../concept/servicenow-studio-reference.md)
+</table>**Parent Topic:**[ServiceNow Studio reference](servicenow-studio-reference.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_slm.contact
     -   In the portal header, select **My Company**, and then select **Request Change** on the Company Profile page.
 4.  On the Update profile details form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Update profile details form](../reference/update-supp-profile-form.md).
+    For more information about the form fields and descriptions, see [Update profile details form](update-supp-profile-form.md).
 
 5.  Select **Submit**.
 
@@ -46,7 +46,7 @@ The application creates a case and assigns it to the supplier manager for review
 
 After the Supplier Manager approves the case, the company profile details are updated in the supplier record.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 
 **Related topics**  
 
@@ -71,5 +71,5 @@ After the Supplier Manager approves the case, the company profile details are up
 
 [Request something else using the supplier catalog](submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](supp-catalog-req.md)
 

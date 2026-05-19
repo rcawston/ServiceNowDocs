@@ -27,7 +27,7 @@ The following example shows a list of the resource categories and filters that e
 
 The cloud resources are categorised as above. You can access one of the categories to manage them.
 
--   **[Manage My Resources and resource filters](../task/managing-my-resources.md)**  
+-   **[Manage My Resources and resource filters](managing-my-resources.md)**  
 Access the resources that you own, resources that are owned by a group, or anyone's resources by using the resource filter. You can then find the information that you need by using sorting functions, conditions, categories, and keywords.
 
 **Parent Topic:**[Cloud Services Catalog](csc-home.md)

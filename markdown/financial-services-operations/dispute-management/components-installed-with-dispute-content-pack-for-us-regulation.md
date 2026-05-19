@@ -105,5 +105,5 @@ Reg Z resolution limit
 Card Disputes Service Case\[sn\_bom\_credit\_card\_disputes\_service\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Dispute Content Pack for US Regulations reference](../concept/dispute-content-pack-for-us-regulation-reference.md)
+</table>**Parent Topic:**[Dispute Content Pack for US Regulations reference](dispute-content-pack-for-us-regulation-reference.md)
 

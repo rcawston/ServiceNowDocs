@@ -19,7 +19,7 @@ The User Device License Consumption \[samp\_user\_device\_license\_consumption\]
 
 To learn more about Microsoft usage access logging for CAL, see [Microsoft User Access Logging](https://learn.microsoft.com/en-us/windows-server/administration/user-access-logging/manage-user-access-logging).
 
-For more information on Microsoft specific license metrics, see [Supported Microsoft 365 license types](../concept/supported-microsoft-365-license-types.md).
+For more information on Microsoft specific license metrics, see [Supported Microsoft 365 license types](supported-microsoft-365-license-types.md).
 
 The User Device License Consumption table is a child table of the Configuration Item \[cmdb\_ci\] table.
 

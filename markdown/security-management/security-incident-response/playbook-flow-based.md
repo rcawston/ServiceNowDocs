@@ -19,7 +19,7 @@ Security Incident Response provides the following playbooks with the base system
 
 In addition to the listed playbooks, there are also subflows in Security Operations Spoke that can be called from the flows playbook. Ransomware is one of that subflows.
 
-Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](../task/getting-started-phishing-playbook.md).
+Activate these flows before you use them. For more information, see [Activate a Security Incident Response flow](getting-started-phishing-playbook.md).
 
 -   **[Playbook for Automated Phishing](flow-designer-and-phishing-response.md)**  
 The Automated Phishing playbook helps you resolve certain types of security threats in a step-by-step manner. With the flow designer templates, you can automate the steps in the phishing response playbook and resolve incidents quickly and efficiently.

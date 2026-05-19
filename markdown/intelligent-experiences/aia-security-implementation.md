@@ -40,8 +40,8 @@ If you do not have an AI user but want to use the **AI user** identity, you need
 **Note:**
 
 -   An AI user can be configured as part of user identity and user identities are configured at the agentic workflow and AI agent levels.
-    -   For more information about user identity in an AI agent, refer to [Create an AI agent](../task/configure-next-best-action-agent.md).
-    -   For more information about user identity in an agentic workflow, refer to [Create an agentic workflow](../task/configure-use-case-ai-agents.md).
+    -   For more information about user identity in an AI agent, refer to [Create an AI agent](configure-next-best-action-agent.md).
+    -   For more information about user identity in an agentic workflow, refer to [Create an agentic workflow](configure-use-case-ai-agents.md).
 -   The ACLs are checked with the actual conversational user, a user who has invoked the agentic workflow or the AI agent. Once the ACL check is complete, the user identities can be applied.
 
 ## Configure ACLs in AI Agent Studio
@@ -59,8 +59,8 @@ There are three possible options for ACLs created in AI Agent Studio:
 
 Each AI agent and agentic workflow must have its own unique ACL.
 
--   To configure an ACL in the AI Agent Studio for an AI agent, see the [Create an AI agent](../task/configure-next-best-action-agent.md) guided setup.
--   To configure an ACL for an agentic workflow, see the [Create an agentic workflow](../task/configure-use-case-ai-agents.md) guided setup.
+-   To configure an ACL in the AI Agent Studio for an AI agent, see the [Create an AI agent](configure-next-best-action-agent.md) guided setup.
+-   To configure an ACL for an agentic workflow, see the [Create an agentic workflow](configure-use-case-ai-agents.md) guided setup.
 
 **Note:** If there are conflicting security requirements between agentic workflows, AI agents, and AI agent tools, or if the invoking user meets the criteria for some ACLs but not others, your agentic AI fails to execute. When configuring these security settings, consider all aspects of the agentic system- including the agentic workflow, AI agents, and tools.
 
@@ -68,5 +68,5 @@ Each AI agent and agentic workflow must have its own unique ACL.
 
 You can minimize potential negative impact of an AI agent not executing as expected by configuring AI agents' tools to run in supervised mode. This will ensure human oversight for the tool's actions. You can use the Supervised mode to enhance security for agents with the capability to perform sensitive or critical actions.
 
-You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](../task/add-catalog-ai-agent.md).
+You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](add-catalog-ai-agent.md).
 

@@ -63,5 +63,5 @@ This action copies the quote line items to a new location.In the **Service locat
 7.  Select **Copy**.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

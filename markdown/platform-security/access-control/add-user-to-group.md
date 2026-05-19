@@ -70,6 +70,6 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     -   To exit the simulation without applying the simulated changes, select **Skip and Exit**.
     The user is successfully added to the group.
 
-    If you clicked **Add and complete**, the simulated group is successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](../concept/access-analyzer.md).
+    If you clicked **Add and complete**, the simulated group is successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](access-analyzer.md).
 
 

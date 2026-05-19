@@ -59,5 +59,5 @@ The risk and compliance posture sections only appears if you integrate with Inte
 
 In the Contextual side panel, you can view the main goal, the associated sub-goals, and their statuses.
 
-**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](../concept/esg-analytics-reporting.md)
+**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](esg-analytics-reporting.md)
 

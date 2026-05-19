@@ -50,5 +50,5 @@ Opening the Spotlight record, you see that the following criteria weights contri
 |Incidents older than 90 days|25|
 |TOTAL SCORE:|1,200|
 
-**Parent Topic:**[Ranking records with Spotlight](../concept/spotlight.md)
+**Parent Topic:**[Ranking records with Spotlight](spotlight.md)
 

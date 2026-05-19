@@ -134,5 +134,5 @@ Option to show the view from the available options:-   None
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Employee Center browse experience widgets](../concept/custom-widget-landing-ec.md)
+**Parent Topic:**[Employee Center browse experience widgets](custom-widget-landing-ec.md)
 

@@ -46,7 +46,7 @@ Role required: password\_reset\_admin or admin
     -   If your organization uses single sign-on, how will users reset their password if they are unable to log on?
     -   What options are available to users working off-site?
 
-**Parent Topic:**[Configuring Password Reset](../concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](password-reset-admin-guide.md)
 
 **Related topics**  
 

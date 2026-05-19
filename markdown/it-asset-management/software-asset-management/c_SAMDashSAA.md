@@ -378,5 +378,5 @@ Removal Candidates Breakdown
 Active removal candidates in various breakdowns \(State, Publisher, Product, Justification, and Last Updated\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
+</table>**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](software-asset-mgmt-content-pack.md)
 

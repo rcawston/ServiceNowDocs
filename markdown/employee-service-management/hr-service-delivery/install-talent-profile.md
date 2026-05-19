@@ -30,7 +30,7 @@ The following items are installed with Talent profile:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Talent Profile](../reference/installed-with-talent-profile.md).
+For more information, see [Components installed with Talent Profile](installed-with-talent-profile.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Components installed with Talent Profile](../referenc
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Talent profile](../concept/config-tp.md)
+**Parent Topic:**[Configuring Talent profile](config-tp.md)
 

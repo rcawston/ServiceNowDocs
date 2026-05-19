@@ -169,7 +169,7 @@ Option that indicates if the condition attribute is active. Select this check bo
     The form closes and you’re automatically redirected to the new condition attribute record.
 
 
-**Parent Topic:**[Asset conditions in Enterprise Asset Management](../concept/asset-conditions-eam.md)
+**Parent Topic:**[Asset conditions in Enterprise Asset Management](asset-conditions-eam.md)
 
 **Related topics**  
 

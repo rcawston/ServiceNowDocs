@@ -107,10 +107,10 @@ Common utilities for translation features.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Dynamic Translation](../concept/configuring-dynamic-translation.md)
+**Parent Topic:**[Configuring Dynamic Translation](configuring-dynamic-translation.md)
 
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](../list-of-plugins.md#)
 

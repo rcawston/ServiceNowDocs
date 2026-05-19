@@ -158,5 +158,5 @@ For details on creating and configuring an Atlassian Confluence Cloud external c
 
 **Note:** By default, the Atlassian Confluence Cloud external content connector only retrieves content access permissions for Confluence Cloud users who are managed by your organization. Other Confluence Cloud users can allow the connector to retrieve their content access permissions by setting their own email visibility to **Anyone** as explained in the [https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/](https://support.atlassian.com/confluence-cloud/docs/configure-user-email-visibility/) Atlassian support resource.
 
-**Parent Topic:**[Atlassian Confluence Cloud external content connector](../concept/atlassian-confluence-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Confluence Cloud external content connector](atlassian-confluence-cloud-external-content-connector.md)
 

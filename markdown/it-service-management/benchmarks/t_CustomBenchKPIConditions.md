@@ -1099,5 +1099,5 @@ Average Virtual Agent satisfaction score.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Benchmark KPIs](../concept/c_BenchKPIConfig.md)
+**Parent Topic:**[Benchmark KPIs](c_BenchKPIConfig.md)
 

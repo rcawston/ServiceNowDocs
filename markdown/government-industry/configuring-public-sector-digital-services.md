@@ -64,6 +64,6 @@ In addition to installing the public sector application and playbooks, you can c
 
     After you upgrade your instance to a new release, certain menus and menu items in the CSM Configurable Workspace might not be labeled appropriately for public sector use. You can relabel the following items for public sector use by changing them in the UX list categories for Customer and Service Organizations.
 
-    For details, see [Relabel CSM Configurable Workspace items after upgrade](../task/psds-relabel-after-upgrading.md).
+    For details, see [Relabel CSM Configurable Workspace items after upgrade](psds-relabel-after-upgrading.md).
 
 

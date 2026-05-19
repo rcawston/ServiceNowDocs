@@ -42,13 +42,13 @@ The following visualizations can show scores in real time:
 **Related topics**  
 
 
-[Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#)
+[Create an automated indicator](t_CreateAnAutomatedIndicator.md#)
 
 [Analytics Hub for a specific indicator](view-scorecard.md)
 
-[Create a real-time score visualization for a score widget](../task/create-real-time-score-widget.md)
+[Create a real-time score visualization for a score widget](create-real-time-score-widget.md)
 
-[Single score report](../../reporting/concept/c_SingleScoreCharts.md#)
+[Single score report](../reporting/c_SingleScoreCharts.md#)
 
 [Monitor a workflow with a workbench process widget](c_MonitorWorkflowWorkbenchWidget.md#)
 

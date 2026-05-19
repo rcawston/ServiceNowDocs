@@ -128,5 +128,5 @@ Updates the case to Closed Completed.
 
 The procurement case is updated with valid GL account details and the playbook is closed.
 
-**Parent Topic:**[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+**Parent Topic:**[Reviewing and updating general ledger details in playbook](general-ledger-details-in-playbook.md)
 

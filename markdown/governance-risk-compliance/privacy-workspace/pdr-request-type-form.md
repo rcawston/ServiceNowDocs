@@ -30,5 +30,5 @@ The following table lists the descriptions of the field values.
 |Inbound Email Configuration|
 |Group email|Email address that automatically generates a request upon receiving an email.|
 
-**Parent Topic:**[Configuring Personal Data Rights request type](../task/configure-pdr-request-type.md)
+**Parent Topic:**[Configuring Personal Data Rights request type](configure-pdr-request-type.md)
 

@@ -19,7 +19,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK information from the MISP integration. The MISP integration for Security Operations introduces two base system MITRE-ATT&amp;CK technique extraction rules for MISP - MISP galaxies and MISP tags. For more information on auto-extraction rules in MITRE-ATT&amp;CK, see [auto-extract technique rules for importing MITRE-ATT&amp;CK information](../../threat-intelligence/concept/auto-extract-technique-rules.md#).
+Use the base system auto-extraction rules to import the MITRE-ATT&amp;CK information from the MISP integration. The MISP integration for Security Operations introduces two base system MITRE-ATT&amp;CK technique extraction rules for MISP - MISP galaxies and MISP tags. For more information on auto-extraction rules in MITRE-ATT&amp;CK, see [auto-extract technique rules for importing MITRE-ATT&amp;CK information](auto-extract-technique-rules.md#).
 
 If you have enabled [automatic rollup of MITRE-ATT&amp;CK information using MISP enrichment results](review-the-misp-integration-settings.md#table_smd_tdf_kqb) to a security incident, the information is automatically rolled up. If you have not enabled automatic rollup, you can do this task manually.
 
@@ -46,5 +46,5 @@ If you have enabled [automatic rollup of MITRE-ATT&amp;CK information using MISP
 
 You can view the MITRE-ATT&amp;CK Card to confirm that the MISP Enrichment Results have been rolled up to the security incident.
 
-**Parent Topic:**[Using MISP to investigate and analyze threats](../concept/using-misp-to-detect-and-analyze-threats.md)
+**Parent Topic:**[Using MISP to investigate and analyze threats](using-misp-to-detect-and-analyze-threats.md)
 

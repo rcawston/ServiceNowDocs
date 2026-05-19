@@ -38,5 +38,5 @@ Role required: sn\_apm.apm\_user
 
 A file with the selected format is downloaded and saved in your local system.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 

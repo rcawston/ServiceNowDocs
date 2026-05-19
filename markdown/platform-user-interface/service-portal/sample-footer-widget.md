@@ -15,7 +15,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Sample Footer widget is an example of a footer you can use in your portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Unlike other widgets in Service Portal, you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](../task/configure-header-menu.md#).
+Unlike other widgets in Service Portal, you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](configure-header-menu.md#).
 
 ## Instance options
 
@@ -26,9 +26,9 @@ The Sample footer widget does not include instance options.
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
 
 [Configure widget instances](c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](t_CloneAndEditAWidget.md)
 

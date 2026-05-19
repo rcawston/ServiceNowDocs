@@ -50,5 +50,5 @@ The following applications or plugins are installed with Service Graph Connector
 4.  Select **Install**.
 
 
-**Parent Topic:**[Service Graph Connector Support Tools](../concept/cmdb-sgc-support-tools.md)
+**Parent Topic:**[Service Graph Connector Support Tools](cmdb-sgc-support-tools.md)
 

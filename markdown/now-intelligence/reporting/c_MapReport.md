@@ -17,7 +17,7 @@ Map reports display data on a map. You can display data as a geographical heatma
 
 Zoom in on a map to get a more detailed view. In heatmap mode, click any region on the map that contains data to drill down into its map.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../../performance-analytics/concept/explore-data-vis-library.md).
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](../explore-data-vis-library.md).
 
 Save the map report to drill down into it. You cannot drill down into unsaved reports.
 
@@ -44,7 +44,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -72,7 +72,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](../task/create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d210690e330">
 
@@ -129,9 +129,9 @@ Mathematical calculation to perform on the data. The default is **Count**, which
 
  Select **Minimum** or **Maximum** to show the maximum or minimum value for each segment of the report.
 
- For more information on aggregation options, see [Aggregation in reporting](../reference/aggregation-reporting.md).
+ For more information on aggregation options, see [Aggregation in reporting](aggregation-reporting.md).
 
- If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](../task/t_AccessFieldExtendedTable.md#).
+ If you choose **Average**,**Sum**, **Count Distinct**, **Minimum**, or **Maximum**, you may be able to aggregate on fields from extended tables. See [How to report on extended tables](t_AccessFieldExtendedTable.md#).
 
  For information about aggregating on FX currency values, see [FX Currency values in reporting](fx-currency-values-reporting.md#).
 
@@ -353,7 +353,7 @@ Show legend
 
 </td><td>
 
-Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](../reference/reporting-properties.md).
+Enable this option to show a chart legend. This check box appears when a **Group by** field is selected on the report form.Legends are truncated by default. To adjust truncation lengths, configure the properties **glide.chart.label.legend.truncate\_to** and **glide.chart.label.legend.truncate\_to.large**. For more information, see [Reporting properties](reporting-properties.md).
 
 </td></tr><tr><td>
 

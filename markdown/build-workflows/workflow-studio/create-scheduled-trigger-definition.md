@@ -131,7 +131,7 @@ Runs only once at the specified date and time.
 
 Your scheduled trigger is created.
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](process-automation-designer-triggers.md)
 
 **Related topics**  
 
@@ -140,5 +140,5 @@ Your scheduled trigger is created.
 
 [Add and configure a trigger in a playbook](add-configure-trigger.md)
 
-[Triggers](../concept/process-automation-designer-triggers.md)
+[Triggers](process-automation-designer-triggers.md)
 

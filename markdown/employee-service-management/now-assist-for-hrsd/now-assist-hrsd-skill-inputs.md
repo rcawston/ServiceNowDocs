@@ -222,5 +222,5 @@ Input fields
 -   Work notes
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](../task/configure-now-assist-hr.md)
+</table>**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
 

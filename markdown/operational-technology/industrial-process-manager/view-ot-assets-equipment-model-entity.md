@@ -24,11 +24,11 @@ Role required: To add OT devices, the logged in user has to have a combination o
 -   cmdb\_ot\_viewer, cmdb\_ot\_editor or cmdb\_ot\_admin role
 -   cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_admin role
 
-**Note:** To learn more about assigning user roles, see [Assign Industrial Process Manager user roles](../task/assign-manufacturing-process-manager-roles.md).
+**Note:** To learn more about assigning user roles, see [Assign Industrial Process Manager user roles](assign-manufacturing-process-manager-roles.md).
 
 ## About this task
 
-Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](../task/create-user-criteria-for-equipment-model-entity-site-users.md).
+Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](create-user-criteria-for-equipment-model-entity-site-users.md).
 
 ## Procedure
 
@@ -86,5 +86,5 @@ Proceed to the next step and review the OT devices form.
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Review and update the equipment model details](../task/equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
 

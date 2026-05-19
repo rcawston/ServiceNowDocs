@@ -33,7 +33,7 @@ The **Communicate** tab contains the following options to create and manage comm
 
 -   **Compose**
 
-    Compose a communication message, such as an email, DEX Desktop Assistant, SMS, Microsoft Teams, or Slack message. For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../../digital-end-user-experience/concept/use-dex-desktop-exp.md).
+    Compose a communication message, such as an email, DEX Desktop Assistant, SMS, Microsoft Teams, or Slack message. For more information on DEX Desktop Assistant, see [Use DEX Desktop Assistant](../digital-end-user-experience-dex/use-dex-desktop-exp.md).
 
     **Note:**
 
@@ -62,7 +62,7 @@ The **Communicate** tab contains the following options to create and manage comm
 
     From the ICT record, you can do the following actions:
 
-    -   Initiate a call or chat from the collaborate tab on the side panel using the **Collaborate** \(![Collaborate icon](../image/mim-collaborate-icon.png)\) icon on the contextual side panel. For more information, see [Collaborate with stakeholders during a major incident](../task/collaborate-stakeholders-mim-sow.md).
+    -   Initiate a call or chat from the collaborate tab on the side panel using the **Collaborate** \(![Collaborate icon](../image/mim-collaborate-icon.png)\) icon on the contextual side panel. For more information, see [Collaborate with stakeholders during a major incident](collaborate-stakeholders-mim-sow.md).
     -   Add collaboration channels from the Communication Channel related list of the **Related records** tab.
     -   Add communication channels such as DEX Desktop Assistant from the Communication Channel related list of the **Related records** tab.
 -   **Close**
@@ -80,13 +80,13 @@ The **Communicate** tab contains the following options to create and manage comm
     Increase the **Due in** time for a communication task. Select the **More actions** \(![More action icon](../image/mim-more-action-icon.png)\) icon on the communication task and then select **Snooze**.
 
 
--   **[Compose communications for incidents and major incidents](../task/compose-communication-mim-sow.md)**  
+-   **[Compose communications for incidents and major incidents](compose-communication-mim-sow.md)**  
 Compose communication messages for incidents and major incidents using communication channels such as email and SMS.
--   **[Manage recipients in a communication task](../task/manage-recipients-mim-sow.md)**  
+-   **[Manage recipients in a communication task](manage-recipients-mim-sow.md)**  
 Manage the recipients list for a communication task to create flexible and effective communication with the required stakeholders.
--   **[Create an adhoc communication task](../task/create-adhoc-comm-task-mim-sow.md)**  
+-   **[Create an adhoc communication task](create-adhoc-comm-task-mim-sow.md)**  
 Create an adhoc communication task as required during the various phases of an incident in Major Incident Management.
--   **[Manage an announcement for communicating about major incidents](../task/create-announcements-major-inc.md)**  
+-   **[Manage an announcement for communicating about major incidents](create-announcements-major-inc.md)**  
 Create and manage an announcement to broadcast messages for Service Portal users to keep them informed about the ongoing major incident. Major incident managers can create and deploy announcements from Service Operations Workspace \(SOW\).
 
 **Parent Topic:**[Managing a major incident record](managing-major-incident-sow.md)

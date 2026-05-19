@@ -48,5 +48,5 @@ When updating to the latest software version, you can replace your custom change
     The customized object will be replaced on the next upgrade.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](configure-system-update-sets.md)
 

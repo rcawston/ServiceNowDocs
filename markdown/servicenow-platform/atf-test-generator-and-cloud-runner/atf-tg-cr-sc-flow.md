@@ -44,5 +44,5 @@ Apart from Service Catalog, the following are the trigger types supported by ATF
 **Related topics**  
 
 
-[Generating the tests](../task/atf-tg-cr-generate-tests.md)
+[Generating the tests](atf-tg-cr-generate-tests.md)
 

@@ -24,20 +24,20 @@ The Global styles panel contains five tabs:
 -   Typography: Update the fonts applied globally to your experience. The fonts are used in headlines, titles, subtitles, body text, and captions.
 -   Shape: Update the corner shapes of on-screen components.
 
--   **[Edit your theme colors](../task/edit-theme-colors.md)**  
+-   **[Edit your theme colors](edit-theme-colors.md)**  
 Edit and update your theme's core colors to create visual consistency and align with your brand.
--   **[Edit corner shapes](../task/edit-corner-shapes.md)**  
+-   **[Edit corner shapes](edit-corner-shapes.md)**  
 Edit and change the corner shapes applied globally to components such as buttons, modals, and drop-down menus throughout your Theme Builder theme.
--   **[Edit your default font](../task/edit-font.md)**  
+-   **[Edit your default font](edit-font.md)**  
 Edit your default font family and choose from the predefined options in Theme Builder or your own custom fonts.
--   **[Assign fonts by component category](../task/assign-fonts-by-category.md)**  
+-   **[Assign fonts by component category](assign-fonts-by-category.md)**  
 Assign fonts to specific component categories to create a clearer visual hierarchy and ensure consistent typography across related UI elements.
--   **[Edit font size](../task/edit-font-size.md)**  
+-   **[Edit font size](edit-font-size.md)**  
 Adjust font sizes at the theme or component category level to refine default or custom fonts and keep your brand consistent across all experiences.
--   **[Upload a custom font to your theme](../task/upload-custom-font.md)**  
+-   **[Upload a custom font to your theme](upload-custom-font.md)**  
 Upload and preview up to 10 custom font families and an unlimited number of associated font faces in your Theme Builder theme.
--   **[Upload a new logo to your Theme Builder theme](../task/tb-upload-logo.md)**  
+-   **[Upload a new logo to your Theme Builder theme](tb-upload-logo.md)**  
 If you previously applied a custom or default ServiceNow logo to your theme during theme creation, you can upload a new one in Theme Builder.
 
-**Parent Topic:**[Manage or edit a theme with Theme Builder](../task/tb-edit-theme.md)
+**Parent Topic:**[Manage or edit a theme with Theme Builder](tb-edit-theme.md)
 

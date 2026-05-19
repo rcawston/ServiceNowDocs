@@ -16,9 +16,9 @@ breadcrumb: [Now Assist for ITOM, IT Operations Management]
 
 Reference topics provide additional information for configuring and using the Now Assist for ITOM application.
 
--   **[Applications installed with Now Assist for ITOM](../reference/app-now-assist-itom.md)**  
+-   **[Applications installed with Now Assist for ITOM](app-now-assist-itom.md)**  
 Table that lists applications installed with the Now Assist for IT Operations Management \(ITOM\) application. When you update your application, any newly required application dependencies are installed.
--   **[Questions for the analyze alert impact agentic workflow](../reference/questions-now-assist-workflows.md)**  
+-   **[Questions for the analyze alert impact agentic workflow](questions-now-assist-workflows.md)**  
 Questions to ask about alerts in the Now Assist for IT Operations Management \(ITOM\) analyze alert impact agentic workflow.
 
 **Parent Topic:**[Now Assist for ITOM](now-assist-itom.md)

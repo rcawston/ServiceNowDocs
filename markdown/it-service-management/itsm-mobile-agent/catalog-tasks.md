@@ -19,7 +19,7 @@ A catalog task is a task that is associated with the service catalog item. Catal
 
 Tap on the card to access all the catalog tasks assigned to you.
 
-1.  You can [filter](../task/filter-records-agent-mobile.md) the list according to your set criteria.
+1.  You can [filter](filter-records-agent-mobile.md) the list according to your set criteria.
 2.  Swipe left to add comments or close the task.
 3.  On the **Catalog tasks** screen, tap on any task to view the details or activity of the catalog task. You can only add comments from this screen.
 

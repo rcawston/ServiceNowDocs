@@ -15,7 +15,7 @@ breadcrumb: [Visual Task Boards reference, Visual Task Boards, Configure UIs and
 
 Several types of components are installed with Visual Task Boards.
 
-**Parent Topic:**[Visual Task Boards reference](../concept/vis-task-boards-ref.md)
+**Parent Topic:**[Visual Task Boards reference](vis-task-boards-ref.md)
 
 ## Tables installed with Visual Task Boards
 

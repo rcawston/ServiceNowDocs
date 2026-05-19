@@ -101,7 +101,7 @@ The SAP publisher pack supports licensing for named users, engine measurement, t
     -   Core Use: This FUE includes all rights from the Self-Service use type and is designed for users who need restricted access to the SAP S/4HANA Cloud application. Core users can view data, run reports, and run basic business processes. This use type is ideal for users who require access to specific information or perform routine tasks without needing comprehensive functionality.
     -   Advanced Use: This FUE includes all rights from the Core use type and grants users full access to the SAP S/4HANA Cloud application. This type of access enables users to create and edit data, run reports, and use all available business processes. It’s assigned to users who need extensive functionality that is crucial for managing key business operations.
     -   Development Use: This FUE grants authorized users the license to access the development tools provided with the SAP S/4HANA Cloud ABAP Environment.
-    The details of the predefined cloud use types are stored in the SAP Cloud Use Types \[samp\_sap\_cloud\_use\_type\] table that's installed with the SAP S/4HANA spoke plugin. For more information, see [License calculation for SAP cloud use types](../reference/license-calculation-sap-cloud.md).
+    The details of the predefined cloud use types are stored in the SAP Cloud Use Types \[samp\_sap\_cloud\_use\_type\] table that's installed with the SAP S/4HANA spoke plugin. For more information, see [License calculation for SAP cloud use types](license-calculation-sap-cloud.md).
 
     |Cloud user type|Weighing factor|
     |---------------|---------------|
@@ -121,7 +121,7 @@ The SAP publisher pack supports licensing for named users, engine measurement, t
 
 ## SAP connection with the ServiceNow AI Platform
 
-To start connecting your SAP systems and your ServiceNow instance, [deploy the ABAP program for SAP](../task/import-abap-program-sap.md). Then, follow the steps to [establish an SAP connection](../task/add-sap-connection.md).
+To start connecting your SAP systems and your ServiceNow instance, [deploy the ABAP program for SAP](import-abap-program-sap.md). Then, follow the steps to [establish an SAP connection](add-sap-connection.md).
 
 The Software Asset Management publisher pack for SAP uses a centralized design. When you import transport files into an SAP client that is considered a central system, the client uses the custom program-selected Remote Function Call \(RFC\) connection list to connect all other clients through RFC from the central system. It then fetches data to store in central system custom tables. To import the transport files, use either the SAP Solution Manager or another SAP client that has RFC connections activated to fetch data into a central system.
 
@@ -135,7 +135,7 @@ When SAP data enters the ServiceNow AI Platform, it’s initially stored in stag
 
 ## View SAP license usage and compliance
 
-View your SAP license costs, usage, and compliance using the [Software Publisher Analytics dashboard](../reference/dashboard-sap.md) \(Software Asset Management classic application\) or [publisher overview](../reference/publisher-overview-sap.md) \(Software Asset Workspace\). The dashboard and overview also show how you can optimize license consumption by reassigning user roles in your SAP system. You can view the license optimization details in the Software asset analytics view. For more details, see [Publisher optimizations for SAP](../reference/pub-opt-sap.md).
+View your SAP license costs, usage, and compliance using the [Software Publisher Analytics dashboard](dashboard-sap.md) \(Software Asset Management classic application\) or [publisher overview](publisher-overview-sap.md) \(Software Asset Workspace\). The dashboard and overview also show how you can optimize license consumption by reassigning user roles in your SAP system. You can view the license optimization details in the Software asset analytics view. For more details, see [Publisher optimizations for SAP](pub-opt-sap.md).
 
 Reconciliation runs weekly or on demand to determine your license compliance position for all of your SAP products. Reconciliation compares your purchased rights recorded in software entitlements with actual usage data pulled from your SAP systems. You can view reconciliation results for SAP in the License usage view of the Software Asset Workspace. The License usage view shows unlicensed users and engines, digital access licenses available and required, and remediation options to make your license position compliant, potential savings, and more. For more information on the License usage view, see [License usage view](sam-workspace-workbench.md).
 
@@ -143,25 +143,25 @@ To view Software license compliance position reports for SAP, navigate to **Lice
 
 -   **[Tables installed with the SAP publisher pack](component-installed-sap-plugin.md)**  
 Tables are installed with the Software Asset Management Professional for SAP plugin. The tables store data pulled from the SAP systems.
--   **[Deploy the ABAP program for SAP](../task/import-abap-program-sap.md)**  
+-   **[Deploy the ABAP program for SAP](import-abap-program-sap.md)**  
 To begin establishing a connection between your SAP system and your ServiceNow instance, deploy the Advanced Business Application Programming \(ABAP\) program. Deploying the ABAP program allows data to be shared between SAP and your ServiceNow instance.
--   **[Establish an SAP connection using basic authentication](../task/add-sap-connection.md)**  
+-   **[Establish an SAP connection using basic authentication](add-sap-connection.md)**  
 After you have deployed the Advanced Business Application Programming \(ABAP\) program in your SAP system, create a connection profile to establish a connection between your SAP system and your ServiceNow instance using basic authentication.
--   **[Establish an SAP connection using OAuth 2.0](../task/add-sap-connection-oauth.md)**  
+-   **[Establish an SAP connection using OAuth 2.0](add-sap-connection-oauth.md)**  
 Create a connection profile to establish a connection between your SAP system and your ServiceNow instance using OAuth 2.0 authentication.
--   **[Create entitlements for SAP](../task/create-entitlement-sap.md)**  
+-   **[Create entitlements for SAP](create-entitlement-sap.md)**  
 Create software entitlements to record your license information for SAP products. You can create entitlements individually or import them from a spreadsheet.
--   **[Create software models for SAP](../task/add-software-model-sap.md)**  
+-   **[Create software models for SAP](add-software-model-sap.md)**  
 Create software models to record SAP product information.
--   **[Create a custom SAP named user type](../task/create-named-user.md)**  
+-   **[Create a custom SAP named user type](create-named-user.md)**  
 Create a custom SAP named user type so that you can track and manage your SAP licenses based on the named user type that is specific to your SAP system.
--   **[Map a role to a named user type](../task/create-named-user-type-role-mapping.md)**  
+-   **[Map a role to a named user type](create-named-user-type-role-mapping.md)**  
 You can optimize your SAP licenses by mapping roles to a named user type. During reconciliation, discovered user roles and their assigned named user types are compared against these roles to identify user that can be given a lower named user type.
--   **[Create custom SAP price lists](../task/create-sap-pricelist.md)**  
+-   **[Create custom SAP price lists](create-sap-pricelist.md)**  
 Create custom SAP price lists so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
--   **[Import custom SAP named user types](../task/import-custom-sap-named-user-type.md)**  
+-   **[Import custom SAP named user types](import-custom-sap-named-user-type.md)**  
 Import custom SAP named user types into your ServiceNow® instance so that you can track and manage SAP licenses based on the named user types that are specific to your SAP system.
--   **[Import custom SAP price lists](../task/import-custom-sap-price-list.md)**  
+-   **[Import custom SAP price lists](import-custom-sap-price-list.md)**  
 Import custom SAP price lists into your ServiceNow® instance so that you can track and manage SAP licenses based on the contracts that are specific to your SAP system.
 -   **[SAP USMM-based optimization](usmm-optimization.md)**  
 Optimize licensing through SAP User License Measurement \(USMM\) rules that map roles to the Named User Type for an SAP client.
@@ -169,9 +169,9 @@ Optimize licensing through SAP User License Measurement \(USMM\) rules that map 
 Determine license optimizations for your SAP named user types based on your SAP user transaction activity.
 -   **[Self-declaring SAP engine license usage](self-declaring-sap-engine-usage.md)**  
 You can self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process. Use this information to gain more comprehensive visibility into your SAP license compliance position so that you can optimize your licensing costs.
--   **[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)**  
+-   **[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](dashboard-sap.md)**  
 View your license compliance position for SAP on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
--   **[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)**  
+-   **[Publisher overview for SAP in the Software Asset Workspace](publisher-overview-sap.md)**  
 View license usage information related to SAP in the publisher overview for SAP in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](sam-publisher-packs.md)

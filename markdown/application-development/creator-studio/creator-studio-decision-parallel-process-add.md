@@ -56,5 +56,5 @@ Activities on a process's parallel branches run at the same time as other specif
     3.  Select the **Save and close** button.
 
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](creator-studio-working-with-automations.md)
 

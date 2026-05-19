@@ -44,22 +44,22 @@ Demonstrates configuring service catalogs, knowledge bases, and My Requests in t
 
 Your users can view and request items from all added catalogs.
 
-**Parent Topic:**[Request experience in Now Mobile](../../../product/service-catalog-management/concept/now-mobile-catalog.md)
+**Parent Topic:**[Request experience in Now Mobile](now-mobile-catalog.md)
 
 **Related topics**  
 
 
-[Browse catalog items using the catalog hierarchy](../../../product/service-catalog-management/task/now-mob-browse-cat-item-catalog.md)
+[Browse catalog items using the catalog hierarchy](now-mob-browse-cat-item-catalog.md)
 
 [Submit and track a request](order-item.md)
 
 [Create a quick action in your mobile applications](sc-quick-action.md)
 
-[Enable notifications in Now Mobile](../../../product/service-catalog-management/task/enable-notification-mobile.md)
+[Enable notifications in Now Mobile](enable-notification-mobile.md)
 
-[Enable the cart in Now Mobile](../../../product/service-catalog-management/task/enable-cart-mobile.md)
+[Enable the cart in Now Mobile](enable-cart-mobile.md)
 
-[Edit the label of Submit button for a record producer](../../../product/service-catalog-management/task/edit-recprdcr-submit-label.md)
+[Edit the label of Submit button for a record producer](edit-recprdcr-submit-label.md)
 
-[Configure Now Mobile properties](../../../product/service-catalog-management/task/config-now-mob-properties.md)
+[Configure Now Mobile properties](config-now-mob-properties.md)
 

@@ -78,5 +78,5 @@ Portfolio governance establishes the process for application intake and requests
 
 Once the relevant teams and stakeholders have determined an app governance model for your organization, you can use the App Engine Management Center to seamlessly implement your governance model at scale. The App Engine Management Center provides everything that you need to ensure that app development complies with your organization’s governance model. From managing intake requests for new applications, to testing and deploying custom applications across your enterprise environment, the App Engine Management Center enables scalable, efficient, and compliant custom app development within your organization.
 
-To learn more about the App Engine Management Center and start implementing your organization's governance model, see [App Engine Management Center](../../app-engine-management-center/concept/app-engine-management-center.md).
+To learn more about the App Engine Management Center and start implementing your organization's governance model, see [App Engine Management Center](app-engine-management-center/app-engine-management-center.md).
 

@@ -29,7 +29,7 @@ Walk through the guided setup processes to configure Public Sector Digital Servi
 
 ### Before you begin
 
-[Install the Public Sector Digital Services Core application](../task/install-public-sector-digital-services-core.md).
+[Install the Public Sector Digital Services Core application](install-public-sector-digital-services-core.md).
 
 Role required: admin
 
@@ -177,5 +177,5 @@ Account teams are made up of employees who fulfill specific jobs or roles for a 
 </table>
 ### What to do next
 
-After you have completed the foundation setup tasks, you can [set up your agent workspace](psds-config-organize-agent-workspaces.md) with other Public Sector applications, such as [Playbooks](psds-install-playbooks-solutions.md) or the [Performance Analytics Content Pack](../../../use/dashboards/application-content-packs/psds-install.md).
+After you have completed the foundation setup tasks, you can [set up your agent workspace](psds-config-organize-agent-workspaces.md) with other Public Sector applications, such as [Playbooks](psds-install-playbooks-solutions.md) or the [Performance Analytics Content Pack](psds-install.md).
 

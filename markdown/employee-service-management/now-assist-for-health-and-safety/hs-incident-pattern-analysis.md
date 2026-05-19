@@ -28,7 +28,7 @@ Safety managers can view the pattern dashboard and immediately plan and act on e
 
 -   **[Analyze safety incident patterns](hs-analyse-safety-incident-patterns.md)**  
 The **Incident patterns** tab of the Health and Safety dashboard provides safety managers with an automated, real-time overview of the recurring patterns across their safety incident data.
--   **[Work on an incident pattern record](../task/hs-work-on-incident-pattern-record.md)**  
+-   **[Work on an incident pattern record](hs-work-on-incident-pattern-record.md)**  
 Understand the fields and related lists of the incident pattern record.
 
 **Parent Topic:**[Use generative AI skills](hs-now-assist-use-generative-ai.md)

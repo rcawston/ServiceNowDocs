@@ -46,5 +46,5 @@ Duplicating an exploration grants the following possibilities:
 5.  Press **Duplicate**.
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](use-now-assist-explorer.md)
 

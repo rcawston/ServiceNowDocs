@@ -19,7 +19,7 @@ Language grouping makes it easier to manage your multilingual Natural Language U
 
 Language grouping organizes your NLU models into primary and secondary models, and indicates the primary language and primary model for the group.
 
-If you have added a new language to a model, a language group is created automatically, so you may already have existing language groups. For more information on adding and translating a new language model, see [Translate a multilingual model](../task/translate-multilingual-model.md).
+If you have added a new language to a model, a language group is created automatically, so you may already have existing language groups. For more information on adding and translating a new language model, see [Translate a multilingual model](translate-multilingual-model.md).
 
 To view current language groups and inspect possible new language groups, navigate to:
 

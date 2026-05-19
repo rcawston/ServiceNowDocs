@@ -20,7 +20,7 @@ With Now Assist for Vault, you can generate custom data patterns, check role acc
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the generative AI skills in Now Assist for Vault](../task/configuring-now-assist-vault.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the generative AI skills in Now Assist for Vault](configuring-now-assist-vault.md)
 
 </td><td>
 

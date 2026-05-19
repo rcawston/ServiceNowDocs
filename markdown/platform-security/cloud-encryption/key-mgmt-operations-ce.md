@@ -29,7 +29,7 @@ See [Rotate a ServiceNow managed key](key-mgmt-operations-ce.md#) or [Rotate a c
 
 **Note:** The key rotation process may take up to 20 minutes to complete.
 
-**Parent Topic:**[Cloud Encryption with Key Management](../concept/dare-overview.md)
+**Parent Topic:**[Cloud Encryption with Key Management](dare-overview.md)
 
 ## Rotate a ServiceNow managed key
 
@@ -63,7 +63,7 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 5.  Return to the Key Management Operations screen to refresh the Cloud Encryption Key Metadata table.
 
-    Entries are listed for the current active key and the key that is being generated to rotate in place of the current active key. See [Key Management Framework key life-cycle states](../../key-management-framework/reference/key-life-cycle-states.md) for the different available states.
+    Entries are listed for the current active key and the key that is being generated to rotate in place of the current active key. See [Key Management Framework key life-cycle states](../platform-encryption/key-life-cycle-states.md) for the different available states.
 
     The active key is listed with a key version of 0 and the generated key has a version of 1.
 

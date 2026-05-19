@@ -28,5 +28,5 @@ In this sample Link View of a CMDB-based alert group, the dashed line with the n
 
 [Viewing links between alerts in alert groups in Express List](el-link-view.md)
 
-[View links between alerts in a group in Express List](../task/view-relationships-between-alerts-in-groups.md)
+[View links between alerts in a group in Express List](view-relationships-between-alerts-in-groups.md)
 

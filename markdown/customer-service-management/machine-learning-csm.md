@@ -74,7 +74,7 @@ Predict values for a case, such as the category, priority, and assignment group,
 
 </td></tr><tr><td>
 
-[Auto-responder notifications](../task/config-auto-responder.md)
+[Auto-responder notifications](config-auto-responder.md)
 
 </td><td>
 

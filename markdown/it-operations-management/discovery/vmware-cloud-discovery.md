@@ -79,7 +79,7 @@ Order \(sequence\) in which Discovery tries this credential as it attempts to lo
 </table>**Related topics**  
 
 
-[Configure the VMware Events service to auto-update the CMDB](../../it-operations-management/task/vmware-events-service-cloud-mgt.md)
+[Configure the VMware Events service to auto-update the CMDB](vmware-events-service-cloud-mgt.md)
 
-[Create a VMware Discovery schedule in Discovery Admin Workspace](../task/create-vmware-schedule-DAW.md)
+[Create a VMware Discovery schedule in Discovery Admin Workspace](create-vmware-schedule-DAW.md)
 

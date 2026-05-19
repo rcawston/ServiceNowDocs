@@ -37,5 +37,5 @@ You can use either of the following methods to edit a test that depends on the c
 **Related topics**  
 
 
-[Generate a test using Test generation](../task/tg-implement.md)
+[Generate a test using Test generation](tg-implement.md)
 

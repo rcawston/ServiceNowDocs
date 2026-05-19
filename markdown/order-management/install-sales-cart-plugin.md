@@ -28,7 +28,7 @@ The following items are installed with the Sales Cart plugin \(sn\_sales\_cart\)
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Sales Cart](../reference/components-installed-with-sales-cart-plugin.md).
+For more information, see [Components installed with Sales Cart](components-installed-with-sales-cart-plugin.md).
 
 ## Procedure
 

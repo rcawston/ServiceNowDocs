@@ -182,7 +182,7 @@ Assuming that your organization has multiple configuration items \(CIs\), of whi
 **Related topics**  
 
 
-[Configuration Compliance calculator groups](../concept/vuln-config-compl-calc-groups.md)
+[Configuration Compliance calculator groups](vuln-config-compl-calc-groups.md)
 
 ## Risk score calculation example for Configuration Compliance
 
@@ -499,7 +499,7 @@ Where, the weights are as follows:
 -   Average risk score: 5
 -   Factor: 15
 
-The default weight of the Average risk score is 0. For more information on how to set the weights, see [Edit risk rollup calculators for Configuration Compliance](../task/v11create-rollup-calc.md).
+The default weight of the Average risk score is 0. For more information on how to set the weights, see [Edit risk rollup calculators for Configuration Compliance](v11create-rollup-calc.md).
 
 The factor in the previous equation is determined by the number of test results as shown in the following table.
 

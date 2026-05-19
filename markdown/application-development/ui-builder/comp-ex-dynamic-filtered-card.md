@@ -102,7 +102,7 @@ Stylized text
 
 3.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
 
 4.  Create a page from scratch.
 
@@ -184,7 +184,7 @@ Enter `25`.
 
 7.  Add and configure a repeater on your page with data binding.
 
-    Data binding is the process of associating data exposed by a data resource with a component. In this example, we bind the results of our **Incident lookup** data resource to the **Data array** property of the repeater component. For more information, see [Connect data components](../concept/connect-data-components.md).
+    Data binding is the process of associating data exposed by a data resource with a component. In this example, we bind the results of our **Incident lookup** data resource to the **Data array** property of the repeater component. For more information, see [Connect data components](connect-data-components.md).
 
     1.  In the content tree, under **Column 1**, select **+ Add content**.
 
@@ -318,7 +318,7 @@ Enter `25`.
 
 14. Create a client state parameter to track user selections.
 
-    The client state parameter can be modified by components when they trigger events. For more information, see [Client state parameters](../concept/client-state-parameters.md).
+    The client state parameter can be modified by components when they trigger events. For more information, see [Client state parameters](client-state-parameters.md).
 
     1.  In the **Data and scripts** drawer, next to **Client state parameters**, select the **+** icon.
 
@@ -643,5 +643,5 @@ sysId
     ![Preview of UI Builder page showing the card display filtered for a specific user.](../image/comp-ex-dfc-result.png)
 
 
-**Parent Topic:**[Learn components by example](../concept/learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](learning-components-by-example.md)
 

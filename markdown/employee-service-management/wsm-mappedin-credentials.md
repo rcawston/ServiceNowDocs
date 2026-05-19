@@ -38,5 +38,5 @@ Role required: sn\_wsd\_mappedin.admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[Setting up Workplace Space Mapping](../concept/set-up-workplace-service-mapping.md)
+**Parent Topic:**[Setting up Workplace Space Mapping](set-up-workplace-service-mapping.md)
 

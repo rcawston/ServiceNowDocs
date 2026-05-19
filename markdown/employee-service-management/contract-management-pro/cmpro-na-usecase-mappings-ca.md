@@ -114,7 +114,7 @@ Conditions under which the use case is applicable.For more information on using 
 
 The use case is mapped to specific tables and conditions. Now Assist applies the use case for contract analysis when the conditions are met.
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 

@@ -37,7 +37,7 @@ Role required: sn\_dex.admin
 
 5.  On the form, edit the required fields.
 
-    For more information on each field, see [Edit web or installed application form](../reference/admin-edit-app-form.md).
+    For more information on each field, see [Edit web or installed application form](admin-edit-app-form.md).
 
 6.  Select **Save**.
 
@@ -46,5 +46,5 @@ Role required: sn\_dex.admin
 
 Application details are updated.
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

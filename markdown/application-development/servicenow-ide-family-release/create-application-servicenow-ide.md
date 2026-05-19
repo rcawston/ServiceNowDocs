@@ -19,7 +19,7 @@ Create an application to develop in source code with the ServiceNow IDE.
 
 Create a workspace for your applications. For more information, see [Create a workspace in the ServiceNow IDE](create-workspace-servicenow-ide.md).
 
-**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../../build-agent/concept/build-agent.md).
+**Note:** You can use Build Agent to help you create and edit applications in the ServiceNow IDE. For more information, see [Build Agent](../build-agent.md).
 
 Role required: admin
 
@@ -45,7 +45,7 @@ Role required: admin
 
 8.  For scoped applications, enter a scope name and press Enter.
 
-    The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../../applications/concept/c_NamespaceIdentifier.md).
+    The scope name must be unique on the instance, begin with x\_&lt;prefix&gt;, and be 18 characters or fewer. For more information, see [Namespace identifier](../c_NamespaceIdentifier.md).
 
 9.  Enter a package name for the application and press Enter.
 
@@ -58,7 +58,7 @@ Role required: admin
 
 ## Result
 
-An application with the default application structure is added to the instance and open in your workspace. For information about the application structure, see the [Application structure](../../custom-application/concept/building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
+An application with the default application structure is added to the instance and open in your workspace. For information about the application structure, see the [Application structure](../building-applications-source-code.md#application-structure) section of the Building applications in source code topic.
 
 ![An application open in the File Explorer view.](../image/servicenow-ide-create-app.png)
 

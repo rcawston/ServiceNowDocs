@@ -37,7 +37,7 @@ Shipment records created in asset management have corresponding readN/Aonly reco
 |In Transit|Out for Delivery|
 |Delivered|Delivered|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](itam-spo-data-model.md)
 
 **Related topics**  
 

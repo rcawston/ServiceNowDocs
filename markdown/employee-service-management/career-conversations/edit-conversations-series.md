@@ -78,5 +78,5 @@ Your conversations
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](egd-activities-use.md)
 

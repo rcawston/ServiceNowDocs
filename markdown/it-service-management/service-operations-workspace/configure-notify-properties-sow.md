@@ -117,5 +117,5 @@ Maximum SMS message length
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Notify in Service Operations Workspace](../concept/configure-notify-sow.md)
+**Parent Topic:**[Configuring Notify in Service Operations Workspace](configure-notify-sow.md)
 

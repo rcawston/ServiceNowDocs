@@ -34,5 +34,5 @@ Role required: sn\_ot\_incident\_write
     A summary appears that explains why the selected document is relevant to your OT incident.
 
 
-**Parent Topic:**[Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](../concept/using-ai-enhanced-ra-otsm.md)
+**Parent Topic:**[Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](using-ai-enhanced-ra-otsm.md)
 

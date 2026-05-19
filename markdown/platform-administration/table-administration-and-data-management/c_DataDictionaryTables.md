@@ -59,5 +59,5 @@ The following image shows the language file filtered to display only labels on t
 
 ![A list showing field labels on the Incident table.](../image/Fieldlabels2.png "Field Labels")
 
-**Parent Topic:**[Exploring ServiceNow AI Platform tables](../../table-administration/concept/exploring-table-administration.md)
+**Parent Topic:**[Exploring ServiceNow AI Platform tables](exploring-table-administration.md)
 

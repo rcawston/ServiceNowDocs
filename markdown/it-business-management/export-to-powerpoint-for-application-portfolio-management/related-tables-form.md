@@ -37,7 +37,7 @@ Parent relation column
 
 </td><td>
 
-The column that defines the relationship between the parent and child tables. This field determines how the child table data is joined to the parent record.For more information on how to manage Related Tables, see [Manage Related Tables and Scripted Elements forms](../task/manage-components-export-ppt.md).
+The column that defines the relationship between the parent and child tables. This field determines how the child table data is joined to the parent record.For more information on how to manage Related Tables, see [Manage Related Tables and Scripted Elements forms](manage-components-export-ppt.md).
 
 </td></tr><tr><td>
 

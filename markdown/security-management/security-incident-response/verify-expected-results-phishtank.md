@@ -58,7 +58,7 @@ Role required: sn\_si.analyst
 
 If you do not see results under the **Threat Lookup Results** tab, verify that the observable is a type that is supported for lookup by the integration.
 
-**Parent Topic:**[PhishTank integration](../concept/phishtank-lookups.md)
+**Parent Topic:**[PhishTank integration](phishtank-lookups.md)
 
 **Previous topic:**[Install and configure PhishTank](install-and-configure-phishtank.md)
 

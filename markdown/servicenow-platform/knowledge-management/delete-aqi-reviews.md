@@ -31,5 +31,5 @@ Roles required:
 3.  Click **Delete**.
 
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](use-article-quality-index.md)
 

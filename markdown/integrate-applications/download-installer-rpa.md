@@ -52,11 +52,11 @@ Do this task to download the following RPA applications:
 
 ## What to do next
 
-Install RPA Desktop Design Studio. For more information, see [Install RPA Desktop Design Studio](../../rpa-studio/task/install-rpa-studio.md).
+Install RPA Desktop Design Studio. For more information, see [Install RPA Desktop Design Studio](install-rpa-studio.md).
 
-To run an unattended bot process, install Unattended Robot and install Unattended Robot Login Agent. For more information, see [Install Unattended Robot](../../rpa-runtime/task/install-rpa-runtime.md) and [Install Unattended Robot Login Agent](../../rpa-runtime/task/install-rpa-runtime-login-agent.md).
+To run an unattended bot process, install Unattended Robot and install Unattended Robot Login Agent. For more information, see [Install Unattended Robot](install-rpa-runtime.md) and [Install Unattended Robot Login Agent](install-rpa-runtime-login-agent.md).
 
-To run an attended bot process, install Attended Robot. For more information, see [Install Attended Robot](../../rda-runtime/task/install-rda-runtime.md).
+To run an attended bot process, install Attended Robot. For more information, see [Install Attended Robot](install-rda-runtime.md).
 
 Add the ServiceNow RPA Chrome extension to your Chrome browser to launch the Robotic Process Automation \(RPA\) applications in this browser and to establish a browser interaction. For more information, see [Add the ServiceNow RPA Chrome extension](add-google-chrome-extension-rpa.md).
 

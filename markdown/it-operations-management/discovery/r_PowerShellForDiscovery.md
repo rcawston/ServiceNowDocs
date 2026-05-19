@@ -81,14 +81,14 @@ Windows PowerShell has four different execution policies. Customers can set the 
 
 **Note:** If you have any policy other than Unrestricted, the script needs to be signed.
 
--   **[Set up MID Servers to use PowerShell](../task/t_SetUpAMIDServerToUsePowerShell.md)**  
+-   **[Set up MID Servers to use PowerShell](t_SetUpAMIDServerToUsePowerShell.md)**  
 Configure MID Servers in your organization to use PowerShell for horizontal and top-down discovery of Windows servers.
--   **[PowerShell remoting for Discovery](../concept/powershell-remoting.md)**  
+-   **[PowerShell remoting for Discovery](powershell-remoting.md)**  
 Probe developers can use the PowerShell remote execution framework to automatically handle remote execution of scripts on target devices. The unified framework removes inconsistencies in remote execution, increases efficiency, and improves stability.
 -   **[PowerShell commands run by Discovery](powershell-cmdlets-run-by-discovery.md)**  
 These are the PowerShell cmdlets and their parameters that Discovery runs to control and automate the administration of Windows servers and applications. Included are the probe parameters and MID Server scripts that contain the commands.
 -   **[MID Server parameters for PowerShell](mid-server-parameter-powershell.md)**  
 Parameters control the behavior of a particular MID Server and have lower precedence than MID Server properties.
 
-**Parent Topic:**[Advanced Discovery configuration](../concept/c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
 

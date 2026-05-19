@@ -65,7 +65,7 @@ var bsManager = new SNC.BusinessServiceManager();
 var res = bsManager.migrateManualToApplicationService("451047c6c0a8016400de0ae6df9b9d76");
 ```
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](application-service-event-management.md)
 
 **Related topics**  
 

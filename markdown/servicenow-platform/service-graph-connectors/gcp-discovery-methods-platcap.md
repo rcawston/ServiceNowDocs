@@ -51,11 +51,11 @@ Service Graph Connector for GCP
 
 </td><td>
 
-[Service Graph Connector for GCP](../../configuration-management/concept/sgc-cmdb-integration-gcp.md)
+[Service Graph Connector for GCP](sgc-cmdb-integration-gcp.md)
 
 </td><td>
 
-[Configure Service Graph Connector for GCP using the guided setup](../../configuration-management/task/sgc-config-gcp-integration.md)
+[Configure Service Graph Connector for GCP using the guided setup](sgc-config-gcp-integration.md)
 
 </td></tr></tbody>
 </table>**Note:**
@@ -210,5 +210,5 @@ If an entry is marked with two asterisks, the resource type is supported by Serv
 
 \*\* These resource types are supported in Service Graph Connecters only by utilizing the \[sn\_cmdb\_int\_util\_service\_graph\_resource\_inclusion\_whitelist\] table.
 
-**Parent Topic:**[Service Graph Connector for GCP reference](../../configuration-management/concept/sgc-cmdb-gcp-reference.md)
+**Parent Topic:**[Service Graph Connector for GCP reference](sgc-cmdb-gcp-reference.md)
 

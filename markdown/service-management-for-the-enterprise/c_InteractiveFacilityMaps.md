@@ -23,24 +23,24 @@ The interactive facility maps offer the following benefits:
 -   You can see affected spaces with zone creation by particular actions, like construction or maintenance of equipment that services those zones.
 -   Define spaces with capacity metrics \(gross space, usable space, assignable space, occupiable space\) for reporting and financials.
 
--   **[Map filters](../reference/r_MapFilters.md)**  
+-   **[Map filters](r_MapFilters.md)**  
 Users can filter the map to determine how various spaces are colored.
 -   **[Enhanced labels](c_EnhancedLabels.md)**  
 Enhanced labels allow the end user to show any information on any mappable space \(fm\_space\), as the space label. Users choose to display the occupant name, the department name, or other custom field as the default label.
--   **[Map settings](../reference/r_MapSettings.md)**  
+-   **[Map settings](r_MapSettings.md)**  
 Map settings allow the facilities staff or users to choose the appearance of their floor plan.
--   **[Find a space or user on a mobile interface](../task/t_FindSpaceUserMobile.md)**  
+-   **[Find a space or user on a mobile interface](t_FindSpaceUserMobile.md)**  
 Quickly find a conference room, office, cubicle, or another employee in your organization on a mobile interface.
--   **[Find a space or user](../task/t_FindASpaceOrUser.md)**  
+-   **[Find a space or user](t_FindASpaceOrUser.md)**  
 All users in your organization, regardless of their role, can search for other users and spaces. The results are ordered by current level or floor, current campus, and other campuses.
--   **[Find an asset or CI](../task/t_FindAssetorCI.md)**  
+-   **[Find an asset or CI](t_FindAssetorCI.md)**  
 All users in your organization, regardless of their role, can search for assets and CIs. The results are ordered by current level or floor, current campus, and other campuses.
--   **[Show any task on a map](../task/t_ShowAnyTaskOnMap.md)**  
+-   **[Show any task on a map](t_ShowAnyTaskOnMap.md)**  
 Custom tables that are extended from task can be created, shown, and managed on the interactive map. The location field on the task, must be a mappable space \(fm\_space\). There are some location fields on task that may have a reference qualifier that does not allow fm\_space be used.
 -   **[Facilities Floor Plan](c_FacilitiesFloorPlan.md)**  
 Users use the floor plan find other users, spaces, and assets. Users can also create facilities requests from any space on the floor plan.
 -   **[Facilities Workbench](c_FacilitiesWorkbench.md)**  
 Members of the facilities staff use the workbench to interact dynamically with the floor plan. Users have access to the floor plan \(but not the workbench\), from which they can find other users and spaces.
 
-**Parent Topic:**[Facilities Service Management overview](../../facilities-service-management/concept/c_FacilitiesServiceManagement.md)
+**Parent Topic:**[Facilities Service Management overview](c_FacilitiesServiceManagement.md)
 

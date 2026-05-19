@@ -15,7 +15,7 @@ breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance
 
 For a formula indicator, a time series aggregation can apply either to each indicator in the formula individually or to the formula result.
 
-Decide how time series aggregation apply with the **Apply time series to result** option. You can select or disable this option in the **Other** properties tab of a formula indicator record. This option applies to any time series aggregation you apply to the indicator in Core UI [Performance Analytics widgets](c_Widgets.md) and Analytics Hub, or in [Data visualizations in Platform Analytics](analytics-center-data-visualizations.md). This option also applies to the default time series if one is set on the indicator.
+Decide how time series aggregation apply with the **Apply time series to result** option. You can select or disable this option in the **Other** properties tab of a formula indicator record. This option applies to any time series aggregation you apply to the indicator in Core UI [Performance Analytics widgets](c_Widgets.md) and Analytics Hub, or in [Data visualizations in Platform Analytics](../analytics-center-data-visualizations.md). This option also applies to the default time series if one is set on the indicator.
 
 **Note:**
 
@@ -47,15 +47,15 @@ You plot both formula indicators in a time series widget to see the difference i
 **Related topics**  
 
 
-[Create a formula indicator](../task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](t_CreateAFormulaIndicator.md)
 
-[Get analytics methods in formulas](../task/get-indicator-analytics.md)
+[Get analytics methods in formulas](get-indicator-analytics.md)
 
 [Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
 
 [Breakdown matrices in formula indicators](bkdown-matrix-formula-indicators.md)
 
-[Detect indicators with no scores in a formula](../task/detect-indicators-no-scores-formula.md)
+[Detect indicators with no scores in a formula](detect-indicators-no-scores-formula.md)
 
 [Indexing multiple indicators in a formula](index-indicators.md)
 

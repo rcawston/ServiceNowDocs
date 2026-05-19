@@ -42,12 +42,12 @@ For existing or upgrade users, in Zurich, your current workflows continue to be 
 
 With the migration from legacy workflow to subflows, each workflow has a corresponding subflow with similar name and functional capabilities.
 
-To activate the subflows, you must navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Trigger Rules** and select the subflow for a trigger rule to activate and use the subflow. For more information, see [Create an escalation trigger rule](../task/create-trigger-rule-oncall.md).
+To activate the subflows, you must navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Trigger Rules** and select the subflow for a trigger rule to activate and use the subflow. For more information, see [Create an escalation trigger rule](create-trigger-rule-oncall.md).
 
 For using subflows in Service Operations Workspace \(SOW\), SOW version must be 8.0 or later.
 
 -   **[Subflows installed with On-Call Scheduling](subflows-installed-on-call-scheduling.md)**  
 Subflows are installed with On-Call Scheduling to support building on-call escalation notification configurable flows.
 
-**Parent Topic:**[Reference for on-call scheduling](../../user-administration/concept/reference-for-on-call-scheduling.md)
+**Parent Topic:**[Reference for on-call scheduling](reference-for-on-call-scheduling.md)
 

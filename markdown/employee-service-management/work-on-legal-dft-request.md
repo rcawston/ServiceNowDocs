@@ -51,9 +51,9 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
         -   To promote them to a new legal matter, select them and click **Create Matter**. You can choose to create the matter using a digital forensic matter template to populate the matter with predefined phases and tasks.
         -   To promote them to an existing legal matter, select them and click **Add to an Existing Matter**. In the Add to Existing Matter dialog box, select a matter from the list, and click **OK**.
-        For more information, see [Promote a legal request to a legal matter](../../legal-request-management/task/promote-legal-request-to-matter.md).
+        For more information, see [Promote a legal request to a legal matter](legal-request-management/promote-legal-request-to-matter.md).
 
-        **Note:** You can promote the legal request to a legal matter only if you have installed Legal Matter Management and [set the record producer type](../../legal-request-management/task/associate-categories-practice-area.md) in the associated intake form as **Request and Matter**.
+        **Note:** You can promote the legal request to a legal matter only if you have installed Legal Matter Management and [set the record producer type](legal-request-management/associate-categories-practice-area.md) in the associated intake form as **Request and Matter**.
 
         The legal matter to which the custodial and non-custodial data records are promoted appears in the **Legal Matters** tab.
 
@@ -68,5 +68,5 @@ Role required: sn\_lg\_ops.legal\_fulfiller
         All custodial and non-custodial data records, as well as any pending approval records associated with them, are also cancelled.
 
 
-**Parent Topic:**[Managing digital forensics requests](../concept/managing-legal-dft-request.md)
+**Parent Topic:**[Managing digital forensics requests](managing-legal-dft-request.md)
 

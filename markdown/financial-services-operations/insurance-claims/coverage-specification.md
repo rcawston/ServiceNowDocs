@@ -38,5 +38,5 @@ An administrator defines these options in the product model, ensuring that the i
 **Related topics**  
 
 
-[Create a coverage specification](../task/creating-a-coverage-specification.md)
+[Create a coverage specification](creating-a-coverage-specification.md)
 

@@ -51,7 +51,7 @@ Use the sensor name and stack trace you identified in [Find the cause of a senso
 
 Rerun Discovery to verify the sensor no longer generates the error. If the error persists after applying the fix, contact ServiceNow Support and provide the full stack trace, the sensor name, and a description of the changes you made.
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 

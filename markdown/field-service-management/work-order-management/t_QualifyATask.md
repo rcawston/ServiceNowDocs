@@ -21,7 +21,7 @@ Role required: wm\_qualifier
 
 ## About this task
 
-If Field Service Management is configured for automatic qualification, you do not need to complete this process. Work orders are automatically qualified and tasks are automatically created for them. For details on manual and automatic qualification, see [Qualify a work order](../concept/c_QualifyWorkOrders.md).
+If Field Service Management is configured for automatic qualification, you do not need to complete this process. Work orders are automatically qualified and tasks are automatically created for them. For details on manual and automatic qualification, see [Qualify a work order](c_QualifyWorkOrders.md).
 
 On the Work Order form, you can qualify tasks from the Work Order Tasks related list. You can qualify a single task or multiple tasks at the same time. While you qualify a single task, you can also qualify any sibling tasks, which are different tasks that are related to the same order.
 

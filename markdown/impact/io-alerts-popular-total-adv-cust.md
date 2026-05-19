@@ -43,5 +43,5 @@ Out of the 45 or more alerts that are available, the most popular ones are liste
 4.  Hover over ![most used alert by customers icon.](../image/io-popular-alert-icon.png), which indicates that it’s a popular alert, and select to customize your alert and notification preferences.
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](io-alerts-intro.md)
 

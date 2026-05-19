@@ -34,7 +34,7 @@ For more information on support levels, see [Application support for domain sepa
 
 [Developer resources](developer-resources.md)
 
-[MetricBase roles](../reference/metricbase-roles.md#)
+[MetricBase roles](metricbase-roles.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

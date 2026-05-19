@@ -19,7 +19,7 @@ The ServiceNow® Employee Relations integration with Navex Ethicspoint applicati
 
 First, activate the Employee Relations integration with NAVEX EthicsPoint \(sn\_hr\_navex\_ep\) application from ServiceNow Store. Activating the Employee Relations integration with NAVEX Ethics application automatically activates, Enterprise Service Management Integrations Framework, Employee Relations, and Navex EthicsPoint spoke.
 
-Next, set up [Set up Employee Relations integration with Navex Ethicspoint](../task/set-up-navex.md).
+Next, set up [Set up Employee Relations integration with Navex Ethicspoint](set-up-navex.md).
 
 ## Request apps on the Store
 

@@ -72,7 +72,7 @@ You can also create relationships between the service definition and other relat
 
 12. Enable the **Use service catalog item** check box.
 
-    When this check box is enabled, the service definition can use catalog items and their associated record producers to create cases in CSM Configurable Workspace. The Catalog Service Relationships related list stores the catalog items that are associated with the service definition. For more information, see [service definition use service catalog items](../concept/csm-service-definition-catalog-items.md).
+    When this check box is enabled, the service definition can use catalog items and their associated record producers to create cases in CSM Configurable Workspace. The Catalog Service Relationships related list stores the catalog items that are associated with the service definition. For more information, see [service definition use service catalog items](csm-service-definition-catalog-items.md).
 
 13. In the **Description** field, add a description of the service definition.
 

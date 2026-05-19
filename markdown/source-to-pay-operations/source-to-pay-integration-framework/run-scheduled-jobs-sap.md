@@ -36,5 +36,5 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
     Entity inbound tables are populated with primary data.
 
 
-**Parent Topic:**[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+**Parent Topic:**[Scheduled jobs to look up primary data in SAP](scheduled-jobs-to-primary-data-sap.md)
 

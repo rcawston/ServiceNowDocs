@@ -22,11 +22,11 @@ Use Build Agent, an autonomous AI agent, for creating and updating ServiceNow® 
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Build Agent to use its features.](../tasks/install-build-agent.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Build Agent to use its features.](install-build-agent.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Build Agent to autonomously create and update ServiceNow applications.](../tasks/use-build-agent.md)
+[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Build Agent to autonomously create and update ServiceNow applications.](use-build-agent.md)
 
 </td></tr></tbody>
 </table>**Important:**

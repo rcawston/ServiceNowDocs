@@ -199,5 +199,5 @@ You can customize header label, data source, metric, group by field, and viewAll
 6.  Select **Update**.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](landing-page-configurations-sow-itsm.md)
 

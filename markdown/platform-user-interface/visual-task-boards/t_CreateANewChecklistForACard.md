@@ -52,5 +52,5 @@ Role required: none
     4.  Click **Update**.
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](c_VisualTaskBoardChecklists.md)
 

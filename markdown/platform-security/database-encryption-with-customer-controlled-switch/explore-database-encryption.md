@@ -15,7 +15,7 @@ breadcrumb: [Database Encryption, Encryption]
 
 ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
 
-**Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)
+**Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](../cloud-encryption/dare-overview.md)
 
 Database Encryption enables all data to be protected with symmetric AES-256 encryption, whether the database is online or offline. From the ServiceNow AI Platform perspective, all data flows in decrypted.
 

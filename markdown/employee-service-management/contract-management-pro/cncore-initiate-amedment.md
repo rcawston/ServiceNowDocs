@@ -54,7 +54,7 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 
 7.  In the **Signature type** drop-down list, select the signature type for the contract document.
 
-    For more information on the signature flow, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md)
+    For more information on the signature flow, see [Signature workflow for a contract request](cncore-signature-workflow.md)
 
 8.  In the **Amendment description** field, enter the details of the changes required to the existing contract document and any other details.
 

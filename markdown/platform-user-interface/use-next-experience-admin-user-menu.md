@@ -60,5 +60,5 @@ Dynamic links to configuration pages to access configurations relevant to lists 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring the Next Experience UI](../../../administer/navigation-and-ui/concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
 

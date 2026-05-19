@@ -53,7 +53,7 @@ The Now Assist for Employee Experience enables your employees to check the follo
 
 Use the Request, Requested item, and Case summarization skill for approvals to create useful summaries so that the approver users can understand the context quickly.
 
-For more information, see [Activate Now Assist for Employee Experience skills](../task/activate-now-assist-skills-uex.md).
+For more information, see [Activate Now Assist for Employee Experience skills](activate-now-assist-skills-uex.md).
 
 ## Expanded Now Assist search
 

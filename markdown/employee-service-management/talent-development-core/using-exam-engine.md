@@ -15,14 +15,14 @@ breadcrumb: [Career Assessment, Growth Experiences, HR Service Delivery, Employe
 
 Use Career Assessment to create exams.
 
--   **[Create exam catalogs](../task/create-exam-catalog.md)**  
+-   **[Create exam catalogs](create-exam-catalog.md)**  
 Create exam catalogs to be able to segregate exams based on category.
--   **[Create an exam](../task/create-exam.md)**  
+-   **[Create an exam](create-exam.md)**  
 Create an exam on Career Assessment.
 -   **[Add exams to a learning path from Career Assessment](create-quiz-path.md)**  
 Create internal learning content to add exams as content items within a learning path from Career Assessment.
--   **[View an exam instance](../task/view-exam-instance.md)**  
+-   **[View an exam instance](view-exam-instance.md)**  
 View an exam instance to verify number of attempts, scores and completion status of an exam assigned to a user.
 
-**Parent Topic:**[HR Service Delivery](hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](../hr-service-delivery/hr-service-delivery.md)
 

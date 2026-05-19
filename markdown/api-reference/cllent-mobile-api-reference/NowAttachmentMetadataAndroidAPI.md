@@ -288,7 +288,7 @@ String
 Entity that updated the attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+</table>**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowAttachmentMetadata - NowAttachmentMetadata\(sysId: String, fileName: String, mimeType: String, \_isCompressed: String, \_sizeInBytes: String, \_compressedSizeInBytes: String, \_chunkSizeInBytes: String, \_modificationCount: String, created: Date, createdBy: String, updated: Date, updatedBy: String, download: String?, hash: String, state: NowAttachmentMetadata.State, averageImageColor: String, \_imageWidth: String, \_imageHeight: String, sourceTableName: String, sourceSysId: String, tags: String\)
 

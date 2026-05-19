@@ -39,9 +39,9 @@ Products within Finance and Supply Chain workflows support different supply chai
 
 |Product|Description|
 |-------|-----------|
-|[Sourcing and Procurement Operations](../../sourcing-procurement-operations/concept/psm-overview.md)|Streamlines sourcing and procurement workflows, improves spend visibility, and reduces cycle times.|
-|[Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/supp-mgmt-landing-page.md)|Manages supplier onboarding, offboarding, and lifecycle activities with centralized supplier information, collaboration, and governance.|
-|[Accounts Payable Operations](../../accounts-payable-operations/concept/acc-pay-mgmt-landing-page.md)|Automates invoice processing, matching, and approvals to reduce manual effort, errors, and payment delays.|
+|[Sourcing and Procurement Operations](sourcing-and-procurement-operations/psm-overview.md)|Streamlines sourcing and procurement workflows, improves spend visibility, and reduces cycle times.|
+|[Supplier Lifecycle Operations](supplier-lifecycle-operations/supp-mgmt-landing-page.md)|Manages supplier onboarding, offboarding, and lifecycle activities with centralized supplier information, collaboration, and governance.|
+|[Accounts Payable Operations](accounts-payable-operations/acc-pay-mgmt-landing-page.md)|Automates invoice processing, matching, and approvals to reduce manual effort, errors, and payment delays.|
 
 ## Using Finance and Supply Chain workflows for supply chain outcomes
 

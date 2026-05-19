@@ -37,7 +37,7 @@ Use the home page in Workspace for procedure requests to quickly scan and access
 
 </td></tr><tr><td>
 
-[View a procedure request case in Workspace](../task/pre-visit-view-cases.md).
+[View a procedure request case in Workspace](pre-visit-view-cases.md).
 
 </td><td>
 

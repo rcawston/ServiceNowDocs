@@ -109,13 +109,13 @@ In this phase, you will verify that the alert is resolved, and then close the al
 </td></tr></tbody>
 </table>## Start here
 
-Start out by learning how to [Analyze and acknowledge an alert](../task/operator-phase-acknowledge-analyze.md).
+Start out by learning how to [Analyze and acknowledge an alert](operator-phase-acknowledge-analyze.md).
 
--   **[Operator phase 1: Analyze and acknowledge an alert](../task/operator-phase-acknowledge-analyze.md)**  
+-   **[Operator phase 1: Analyze and acknowledge an alert](operator-phase-acknowledge-analyze.md)**  
 As an Event Management operator, the first thing you should do is access alerts and then find the ones you want to focus on. You can open the Alert form to analyze the details, and then acknowledge it to let other operators know that the issue causing the alert should be addressed in some way.
--   **[Operator phase 2: Triage an alert](../task/operator-phase-triage-incident.md)**  
+-   **[Operator phase 2: Triage an alert](operator-phase-triage-incident.md)**  
 After you analyze and acknowledge an alert, you must triage it. The triage phase involves verifying alert correlation and taking an action to help resolve the issue that caused the alert. This topic covers the most common triage task: creating an incident from an alert.
--   **[Operator phase 3: Close an alert](../task/operator-close-alert.md)**  
+-   **[Operator phase 3: Close an alert](operator-close-alert.md)**  
 After you take action on an alert, you can verify several items on the alert and then close it.
 
 **Parent Topic:**[Event Management Operator Tutorial](operator-guide-em.md)

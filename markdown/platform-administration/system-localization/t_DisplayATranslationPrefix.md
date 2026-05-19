@@ -66,5 +66,5 @@ When you are done debugging, disable the translation prefixes.
 **Related topics**  
 
 
-[System Localization properties](../reference/set-localization-props.md)
+[System Localization properties](set-localization-props.md)
 

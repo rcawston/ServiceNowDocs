@@ -15,7 +15,7 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 Complete the prerequisites before you execute the AWS scripts.
 
-**Important:** Ensure that you have downloaded the scripts available within the Service Graph Connector for AWS. See [Download the AWS scripts](../task/sgc-cmdb-aws-scripts-dwld.md).
+**Important:** Ensure that you have downloaded the scripts available within the Service Graph Connector for AWS. See [Download the AWS scripts](sgc-cmdb-aws-scripts-dwld.md).
 
 Decide the following details to be used later during the execution of the AWS scripts:
 

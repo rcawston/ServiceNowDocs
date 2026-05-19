@@ -158,7 +158,7 @@ Date the change task is planned to be completed.If the task type is **Implementa
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
 
 **Related topics**  
 
@@ -167,7 +167,7 @@ Date the change task is planned to be completed.If the task type is **Implementa
 
 [Work on a change request in Service Operations Workspace](work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](standard-change-catalog-sow.md)
 
 [Work on a change task in Service Operations Workspace](work-on-change-task-sow.md)
 

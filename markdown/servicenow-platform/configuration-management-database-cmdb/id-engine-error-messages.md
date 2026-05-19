@@ -15,7 +15,7 @@ breadcrumb: [Reference, CMDB Identification and Reconciliation \(IRE\), Configur
 
 The Identification and Reconciliation Engine \(IRE\) generates the following errors and messages. Depending on settings, these messages appear in the Identification Logging pane and in the system logs.
 
-For information about lookup-based CI identification and qualifier chains, see [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md).
+For information about lookup-based CI identification and qualifier chains, see [Create a CI identification rule](t_CreateCIIdentificationRule.md).
 
 **Note:** IRE performs an initial verification of a payload before processing identification rules. If IRE detects any duplicate CIs based on any class identifiers, the payload is rejected and processing stops.
 
@@ -69,7 +69,7 @@ Missing minimum set of values for criterion attributes for an identification rul
 
 -   **Resolution:**
 
-In the payload, add minimum set of values for criterion attributes for CI Identifier for table \[xyz\]. Open the [CI Class Manager](../task/t_CreateCIIdentificationRule.md), click **Hierarchy** and select the \[xyz\] class. Check the identification rule and the identifier entries for table \[xyz\].
+In the payload, add minimum set of values for criterion attributes for CI Identifier for table \[xyz\]. Open the [CI Class Manager](t_CreateCIIdentificationRule.md), click **Hierarchy** and select the \[xyz\] class. Check the identification rule and the identifier entries for table \[xyz\].
 
 
 </td></tr></tbody>
@@ -808,7 +808,7 @@ Insert into \[xyz\] is blocked for data source \[abc\] by IRE data source rule
 
 -   **Description:**
 
-An [IRE data source rule](../task/create-ire-data-source-rule.md) is configured to prevent data source \[abc\] from inserting CIs of the \[xyz\] class.
+An [IRE data source rule](create-ire-data-source-rule.md) is configured to prevent data source \[abc\] from inserting CIs of the \[xyz\] class.
 
 -   **Resolution:**
 

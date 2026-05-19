@@ -62,5 +62,5 @@ Role required: admin, Azure admin
     All the permissions are now admin consented.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](../../secops-integration-major-security-incident-management/concept/integrate-msim-sharepoint.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](integrate-msim-sharepoint.md)
 

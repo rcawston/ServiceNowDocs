@@ -20,7 +20,7 @@ Use AWA for the following benefits:
 -   Suppliers can initiate chat sessions using virtual agent assist by logging in to the Supplier Collaboration Portal to interact with Accounts Payable agents.
 -   Accounts Payable agents are notified of incoming requests on new work items. By default, no more than five requests are assigned to an agent at a time. Accounts Payable agents accept requests from the Source-to-Pay workspace inbox to interact with suppliers. Accounts Payable agents can also reject requests or transfer requests to other queues or agents if needed.
 -   Accounts Payable agents use various features such as response templates, knowledge-based articles, agent assist, and so on, to resolve invoice-related queries or cases.
--   Accounts Payable agents can create an invoice inquiry case if the supplier query needs more investigation. For more information on creating a case, see [Create New Invoice case form](../reference/create-new-ap-case-form.md).
+-   Accounts Payable agents can create an invoice inquiry case if the supplier query needs more investigation. For more information on creating a case, see [Create New Invoice case form](create-new-ap-case-form.md).
 -   Accounts Payable agents receive invoice email from suppliers. Invoice inquiry cases are created through the **Create Inquiry Case on Invoice email** flows if email subject contains keywords such as invoice inquiry, inquiry.
 
 **Parent Topic:**[Use Accounts Payable Operations](use-acc-pay-mgmt.md)
@@ -28,7 +28,7 @@ Use AWA for the following benefits:
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](../task/create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
 
 [Invoice case categories and subcategories](working-with-cases.md)
 
@@ -38,9 +38,9 @@ Use AWA for the following benefits:
 
 [Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](../task/configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
 
-[Working with Advanced Work Assignment](../task/working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
 
 [Interaction management in Accounts Payable Operations](interaction-record.md)
 

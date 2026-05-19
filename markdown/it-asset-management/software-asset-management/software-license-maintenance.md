@@ -35,7 +35,7 @@ Microsoft provides several benefits such as access to the latest software versio
 ServiceNow Software Asset Management Professional leverages these benefits while licensing Microsoft products in the following ways:
 
 -   New version rights: With access to the latest version of a Microsoft product, SA users can upgrade their product licenses at zero additional cost. Also, there’s no need for tracking or reassigning covered licenses based only on the software version. Software Asset Management Professional adds version support using the following mechanisms:
-    -   Automatic application of new version: If a software entitlement with active SA is associated with a newer version software model, Software Asset Management Professional automatically upgrades the entitlement and associates it with the latest version software model. Also, these changes are saved on the Upgrade History related list. For more information on software models and versions, see [Software model fields](../reference/software-model-fields.md).
+    -   Automatic application of new version: If a software entitlement with active SA is associated with a newer version software model, Software Asset Management Professional automatically upgrades the entitlement and associates it with the latest version software model. Also, these changes are saved on the Upgrade History related list. For more information on software models and versions, see [Software model fields](software-model-fields.md).
     -   Management of software entitlement: Microsoft supplies publisher part number \(PPN\) with SA coverage without any version assigned for the product. Thus, there's a risk of incorrect assignment of SA benefits to all versions of Microsoft products. ServiceNow Software Asset Management Professional determines the latest software version released by Microsoft on or before the expiry date of the SA coverage, selects the software model with the correct version, and associates the entitlement to the same. Also, these changes are saved on the Upgrade History Entitlement section.
 -   License mobility benefits: License Mobility provides the flexibility to manage licensing on premise \(in high-density virtualized environments\), or on cloud environments \(AWS or Azure\) using Azure Hybrid Benefits \(AHB\). For more information on license mobility, see Microsoft [documentation](https://download.microsoft.com/download/7/9/b/79bd917e-760b-48b6-a266-796b3e47c47a/License-Mobility-through-Software-Assurance-Customer-Licensing-Guide.pdf).
 
@@ -62,9 +62,9 @@ If you create a software entitlement at the time of receiving a purchase order a
 
 You can't use SA entitlements to license your software. SA entitlements aren’t counted during reconciliation. Only perpetual license entitlements are considered.
 
-SA entitlements need a base entitlement, or a perpetual entitlement, to determine license compliance. Thus, when you import entitlements from a Microsoft License Statement \(MLS\), without a base entitlement, you see an error. For importing entitlements from an MLS, see [Importing entitlements from an MLS](../task/import-mls-entitlements-workspace.md).
+SA entitlements need a base entitlement, or a perpetual entitlement, to determine license compliance. Thus, when you import entitlements from a Microsoft License Statement \(MLS\), without a base entitlement, you see an error. For importing entitlements from an MLS, see [Importing entitlements from an MLS](import-mls-entitlements-workspace.md).
 
-**Note:** For creating entitlements for Microsoft SA in the Software Asset Workspace, see [Create Microsoft Software Assurance entitlements in workspace](../task/create-sa-entitlements-workspace.md). For creating entitlements in for Microsoft SA in Software Asset Management classic or for adding SA coverage to an existing entitlement, see [Create entitlements for Microsoft Software Assurance in Software Asset Management classic](../task/create-entitlement-microsoft-sa.md).
+**Note:** For creating entitlements for Microsoft SA in the Software Asset Workspace, see [Create Microsoft Software Assurance entitlements in workspace](create-sa-entitlements-workspace.md). For creating entitlements in for Microsoft SA in Software Asset Management classic or for adding SA coverage to an existing entitlement, see [Create entitlements for Microsoft Software Assurance in Software Asset Management classic](create-entitlement-microsoft-sa.md).
 
 ## Maintenance for publishers other than Microsoft
 
@@ -79,7 +79,7 @@ If you create a software entitlement while you’re receiving a purchase order a
 -   Perpetual + Maintenance: If all previous entitlements have the license type specified as Perpetual + Maintenance.
 -   Perpetual: If the previous entitlements have a combination of license types that are set to Perpetual + Maintenance and Perpetual.
 
-**Note:** For creating maintenance entitlements in the Software Asset Workspace, see [Create maintenance entitlements in workspace](../task/create-maint-entitlements-workspace.md). For creating maintenance entitlements in Software Asset Management classic, see [Create maintenance entitlements in Software Asset Management classic](../task/Record-software-rights-non-microsoft.md).
+**Note:** For creating maintenance entitlements in the Software Asset Workspace, see [Create maintenance entitlements in workspace](create-maint-entitlements-workspace.md). For creating maintenance entitlements in Software Asset Management classic, see [Create maintenance entitlements in Software Asset Management classic](Record-software-rights-non-microsoft.md).
 
 -   **[Microsoft Per Core licensing rules](microsoft-sw-license-metrics.md)**  
 The Per Core licensing model is used by many Microsoft server products, such as SQL Server and BizTalk Server. It's useful when counting users or devices connecting to the software is difficult, often for internet-facing software.
@@ -91,5 +91,5 @@ The Per Core \(with CAL\) metric licensing model is followed by various Microsof
 **Related topics**  
 
 
-[Impact of different license types on software reconciliation](../reference/license-types-impact-reconciliation.md)
+[Impact of different license types on software reconciliation](license-types-impact-reconciliation.md)
 

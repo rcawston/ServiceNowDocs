@@ -195,8 +195,8 @@ Actual duration
 </table>5.  Click **Submit**.
 
 
--   **[Task windows](../reference/r_TaskWindows.md)**  
+-   **[Task windows](r_TaskWindows.md)**  
 A task window is the time period, bordered by start and end times, in which a task is performed.
 
-**Parent Topic:**[Facilities request tasks](../concept/c_FacRequestTasks.md)
+**Parent Topic:**[Facilities request tasks](c_FacRequestTasks.md)
 

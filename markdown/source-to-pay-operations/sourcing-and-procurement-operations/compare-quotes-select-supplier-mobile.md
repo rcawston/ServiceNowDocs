@@ -43,5 +43,5 @@ Role required: sn\_shop.shopper
 6.  Tap the Next icon.
 
 
-**Parent Topic:**[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+**Parent Topic:**[Shopper to-dos on your mobile](shopper-todos-mobile.md)
 

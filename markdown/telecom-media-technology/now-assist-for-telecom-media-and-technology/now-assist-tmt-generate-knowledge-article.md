@@ -88,7 +88,7 @@ In  CSM Configurable Workspace and classic environment, you can generate the k
     The Now Assist success message disappears which means that it’s no longer a Now LLM Service generated article.
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-spm-using.md)
 
 **Related topics**  
 

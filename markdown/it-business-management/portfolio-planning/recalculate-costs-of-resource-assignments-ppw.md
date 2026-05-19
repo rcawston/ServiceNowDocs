@@ -81,7 +81,7 @@ End date of the time period for which the costs are recalculated.By default, the
 
 [Use Playbooks](use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](demand-default-playbook-stages-activities-ppw.md)
 
-[Create resource assignment form](../reference/create-resource-assignment-form-ppw.md)
+[Create resource assignment form](create-resource-assignment-form-ppw.md)
 

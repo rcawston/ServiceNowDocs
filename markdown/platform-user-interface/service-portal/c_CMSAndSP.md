@@ -56,7 +56,7 @@ Content site
 
 </td><td>
 
-[Portal](../task/create-a-portal.md)
+[Portal](create-a-portal.md)
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Service Portal comes with base system widgets to address common use cases and to
 However, because Service Portal is supported in a mobile environment, you may need to modify any customized forms and scripts. This approach ensures that the items display well on a mobile device and present a better user experience. Before transitioning to Service Portal, you may need to:
 
 -   Refactor client scripts used in your CMS/Service Catalog to use supported mobile APIs and global objects. For a list of supported APIs, see [Service Portal and client scripts](unsupported_client_scripts.md).
--   Build widgets to replace UI Macros and other unsupported scripts. If using a UI Macro in a catalog item form and referencing values on the form, you can use the following workaround instead: [Replace a Service Catalog form script with a widget](../task/ui-macro-widget.md).
+-   Build widgets to replace UI Macros and other unsupported scripts. If using a UI Macro in a catalog item form and referencing values on the form, you can use the following workaround instead: [Replace a Service Catalog form script with a widget](ui-macro-widget.md).
 -   Simplify any complex forms used in your Service Catalog to fit the Service Portal two-column form layout.
 -   Consider which release supports the required functionality. You may want to upgrade your instance before transitioning to ensure that you have the required base system features.
 

@@ -38,5 +38,5 @@ Role required: admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
 

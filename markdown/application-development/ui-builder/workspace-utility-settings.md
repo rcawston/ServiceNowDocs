@@ -35,7 +35,7 @@ Before you can edit the experience settings, you must be in the correct applicat
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    For more information, see [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md).
+    For more information, see [Configure how users interact with your applications in UI Builder](work-experiences.md).
 
 3.  Open or create a page in your workspace experience.
 
@@ -56,5 +56,5 @@ Before you can edit the experience settings, you must be in the correct applicat
     **Note:** If you have the Record component on a page, you can have a record open in the workspace experience when a notification is selected. Follow the instructions in [Record UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/record/uib-setup) on the ServiceNow developer site and define a featureRoutes page property.
 
 
-**Parent Topic:**[Configure UI Builder workspace experiences](../concept/ui-builder-workspace-settings.md)
+**Parent Topic:**[Configure UI Builder workspace experiences](ui-builder-workspace-settings.md)
 

@@ -135,5 +135,5 @@ Displays the stream of activities on the exception.
 5.  Click **Delete** to delete the record.
 
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](../../grc-common/concept/common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
 

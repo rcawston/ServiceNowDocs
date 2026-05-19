@@ -45,7 +45,7 @@ You can view all the reservations made through the application an update accordi
 6.  If you want to update the reservation information, modify the information and then click **Update**.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](manage-reservation-requests.md)
 
 **Related topics**  
 

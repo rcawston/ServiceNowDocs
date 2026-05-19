@@ -40,5 +40,5 @@ Associate an incident with a Universal request.
     **Note:** The state of Universal Request record is updated based on the configuration provided on the State Mapping \[universal\_request\_state\_mapping\] table.
 
 
-**Parent Topic:**[Universal Request integration - Incident Management](../concept/inci-mgmt-integ-with-univ-req.md)
+**Parent Topic:**[Universal Request integration - Incident Management](inci-mgmt-integ-with-univ-req.md)
 

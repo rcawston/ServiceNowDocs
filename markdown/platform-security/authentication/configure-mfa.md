@@ -22,6 +22,6 @@ After identifying the needs, with ServiceNow's MFA, you can select the right met
 Here's some of the important topics related to configuring MFA:
 
 -   [Multi-factor Authentication verification methods](mfa-methods.md)
--   [Multi-factor Authentication system properties](../reference/mfa-properties.md)
+-   [Multi-factor Authentication system properties](mfa-properties.md)
 -   [Multi-factor Authentication criteria](multi-factor-authentication-criteria.md)
 

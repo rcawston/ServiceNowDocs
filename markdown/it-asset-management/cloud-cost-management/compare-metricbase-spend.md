@@ -86,5 +86,5 @@ If there are any errors, the **Work notes** field of this request item is update
 
 Select the **Requested Items** tab and then select the Requested Items number to navigate to the CSV file. In the Attachments section, you can find the CSV file. Download this file to analyze any mismatch in the cost values from both of the sources. You can also filter the data according to your requirements.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
 

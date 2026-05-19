@@ -42,5 +42,5 @@ The user is granted the `ui_builder_admin` role and can access UI generation fea
 
 To grant this role to additional users, repeat this procedure for each user.
 
-**Parent Topic:**[Configuring UI generation](../concept/configuring-ui-generation.md)
+**Parent Topic:**[Configuring UI generation](configuring-ui-generation.md)
 

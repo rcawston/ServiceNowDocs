@@ -159,7 +159,7 @@ Custom Integration. This value is automatically populated.
 
 ## What to do next
 
-[Create a data stream action to get users](create-data-stream-action-slc.md) and view SaaS related analytics on [SaaS overview dashboard](../reference/saas-dashboard-workspace.md).
+[Create a data stream action to get users](create-data-stream-action-slc.md) and view SaaS related analytics on [SaaS overview dashboard](../software-asset-management/saas-dashboard-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](t_RunReconciliation.md) \(Software Asset Management classic application\) or the [License usage view](run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](../software-asset-management/t_RunReconciliation.md) \(Software Asset Management classic application\) or the [License usage view](../software-asset-management/run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 

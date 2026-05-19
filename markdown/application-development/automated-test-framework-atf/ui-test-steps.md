@@ -29,7 +29,7 @@ Test customized user interfaces such as UI pages and UI macros by retrieving the
 Configure client test runner browsers to run automated tests and avoid performance degradations.
 -   **[Working with client test runners](atf-test-runners.md)**  
 If an automated test includes steps that involve a form or any other user-interface \(UI\) element, it runs those steps in a browser tab or window called a test runner or client test runner.
--   **[Pick a browser](../task/atf-pick-a-browser.md)**  
+-   **[Pick a browser](atf-pick-a-browser.md)**  
 If the test or test suite you are running contains steps that work with a form \(any step involving a UI\), or any other UI test step element \(such as Automated Service Catalog test steps\), work with the Pick a Browser dialog.
 
 **Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)

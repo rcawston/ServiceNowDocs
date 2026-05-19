@@ -48,10 +48,10 @@ Package is inactive. After you retire a package, you can't change the stage.
  When you retire a package, the package versions that are associated with this package are also retired.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+</table>**Parent Topic:**[Package and package version in RPA Hub](package-version-rpa-hub.md)
 
 **Related topics**  
 
 
-[Create a package to assign to a bot process](../task/create-package.md#)
+[Create a package to assign to a bot process](create-package.md#)
 

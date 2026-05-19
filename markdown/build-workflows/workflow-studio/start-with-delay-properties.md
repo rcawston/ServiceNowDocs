@@ -95,32 +95,32 @@ Reference.Schedule \[cmn\_schedule\]
 Schedule used to calculate an end date that occurs during your hours of operation. For example, the calculated end date for a 10-hour duration that occurs during a 8-5 weekdays schedule will always be one or more business days in the future. If you leave this field blank, the calculated end date does not follow a schedule. For information on creating schedules, see [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+</table>**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../task/add-configure-stage.md)
+[Add and configure a stage in a playbook](add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](activity-definitions.md)
 
-[Add and configure an activity in a playbook](../task/add-configure-activity.md)
+[Add and configure an activity in a playbook](add-configure-activity.md)
 
-[Use AI agent as an activity](../task/ai-agent-as-activity.md)
+[Use AI agent as an activity](ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](automation-assets.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](optional-activities.md#)
 
-[Decision activities](../task/create-a-decision-activity.md)
+[Decision activities](create-a-decision-activity.md)
 
-[Decision stages](../task/create-decision-stage.md)
+[Decision stages](create-decision-stage.md)
 
 [Questionnaire activity](questionnaire-activity.md)
 
-[Parallel branches](../task/create-parallel-activity.md)
+[Parallel branches](create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](playbook-activity-state-mapping.md)
 

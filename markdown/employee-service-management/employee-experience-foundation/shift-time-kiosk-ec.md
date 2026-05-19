@@ -42,17 +42,17 @@ The calendar legends include:
 
     You can select each event type on the calendar to see the details of that event.
 
-    **Note:** Customize the color of the calendar legends by modifying the **Employee Center Pro Kiosk Theme**. For more information, see [Customize Employee Center portal theme](../task/customize-theme.md).
+    **Note:** Customize the color of the calendar legends by modifying the **Employee Center Pro Kiosk Theme**. For more information, see [Customize Employee Center portal theme](customize-theme.md).
 
 
 ![My schedule tab displays different shift types, holidays, and time off data.](../images/kiosk-calendar-update.png "Schedule tab")
 
-The display title of the **Schedule** tab is customizable. For more information, see [Customize the schedule widget](../task/widget-mapping-kiosk.md).
+The display title of the **Schedule** tab is customizable. For more information, see [Customize the schedule widget](widget-mapping-kiosk.md).
 
--   **[Customize data display in Kiosks](../task/create-implementation-kiosk.md)**  
+-   **[Customize data display in Kiosks](create-implementation-kiosk.md)**  
 Create implementations to customize the display of data in the **Schedule** and **Time off** tabs based on your location or any other criterion according to your organizational requirement.
--   **[Customize the schedule widget](../task/widget-mapping-kiosk.md)**  
+-   **[Customize the schedule widget](widget-mapping-kiosk.md)**  
 Customize the schedule widget on the Employee Profile to display it to your preference.
 
-**Parent Topic:**[Configure Employee Center Pro Kiosk](../task/deskless-kiosk-config.md)
+**Parent Topic:**[Configure Employee Center Pro Kiosk](deskless-kiosk-config.md)
 

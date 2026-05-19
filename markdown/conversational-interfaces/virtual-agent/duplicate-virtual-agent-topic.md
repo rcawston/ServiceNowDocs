@@ -69,14 +69,14 @@ See [Create a reusable topic block](create-topic-blocks.md) for a description of
 </td></tr></tbody>
 </table>4.  As you update your design, use the **Test** option to run your design in a chat test window, then fine-tune your design flow accordingly.
 
-    For details on test features of LLM topics, see [Testing LLM topics](../reference/test-llm-topics.md).
+    For details on test features of LLM topics, see [Testing LLM topics](test-llm-topics.md).
 
-    For details on test features regarding NLU topics, see [Testing NLU/Keyword topics](../reference/va-designer-testing.md).
+    For details on test features regarding NLU topics, see [Testing NLU/Keyword topics](va-designer-testing.md).
 
 
 ## What to do next
 
 If you’ve completed the topic or topic block, [publish](publish-virtual-agent-topic.md) it to deploy it to your Virtual Agent clients.
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](conversation-designer-virtual-agent.md)
 

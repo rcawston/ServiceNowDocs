@@ -59,17 +59,17 @@ Security Tasks can be automatically generated. Automatic Security Task generatio
 
 ## Edit and assign Security Tasks
 
-Edit Security Tasks to assign them to users, define due dates, and provide additional details to the users who will complete these tasks. For details, see [Edit Security Tasks](../task/create-edit-security-tasks.md).
+Edit Security Tasks to assign them to users, define due dates, and provide additional details to the users who will complete these tasks. For details, see [Edit Security Tasks](create-edit-security-tasks.md).
 
 ## Export tasks
 
-You can export Security Tasks into the format of your choice. For details, see [Export Security Tasks](../task/export-security-tasks.md).
+You can export Security Tasks into the format of your choice. For details, see [Export Security Tasks](export-security-tasks.md).
 
 -   **[Automatic Security Task generation](auto-sec-task.md)**  
 Learn about how and when your instance generates Security Tasks.
--   **[Edit Security Tasks](../task/create-edit-security-tasks.md)**  
+-   **[Edit Security Tasks](create-edit-security-tasks.md)**  
 Learn how to create, edit, delete, or export Security Tasks in Security Center
--   **[Export Security Tasks](../task/export-security-tasks.md)**  
+-   **[Export Security Tasks](export-security-tasks.md)**  
 Learn how to export Security Tasks into files you can download and use in other software.
 
 **Parent Topic:**[Security Center](sec-center-v2.md)

@@ -65,5 +65,5 @@ The Signatory status in the request updates to Cancelled.
 -   The document status in the request updates from Pending Signature to Contract Declined.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Signature process for a legal request](../concept/lsd-signature-workflow.md)
+</table>**Parent Topic:**[Signature process for a legal request](lsd-signature-workflow.md)
 

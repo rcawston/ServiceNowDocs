@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## About this task
 
-The primary purpose of the sharing templates is to prefill the sharing record details such as sharing record name, description, outbound intelligence profile or groups. For more information, see [Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md).
+The primary purpose of the sharing templates is to prefill the sharing record details such as sharing record name, description, outbound intelligence profile or groups. For more information, see [Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md).
 
 These templates specify which entities and attributes are included and the system settings for sharing.
 
@@ -250,7 +250,7 @@ Indicates the Outbound Intelligence Exclusion Rules. By default the value in thi
 
     Once the template sharing controls are published, they become available for use within intelligence outbound sharing templates.
 
-    **Important:** These templates are also applicable during sharing data from GUI setup and can be accessed from the Threat Intelligence Library. For more information, see [Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md).
+    **Important:** These templates are also applicable during sharing data from GUI setup and can be accessed from the Threat Intelligence Library. For more information, see [Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md).
 
 14. Select **Edit** button to make any necessary changes to the template.
 
@@ -284,7 +284,7 @@ Indicates the Outbound Intelligence Exclusion Rules. By default the value in thi
     **Note:** On the **Outbound Intel Sharing Templates** page list view, you can also perform various actions such as **Duplicate**, **Enable**, or **Disable** by selecting one or more templates.
 
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 
@@ -301,9 +301,9 @@ Indicates the Outbound Intelligence Exclusion Rules. By default the value in thi
 
 [Working on the Redaction Library](tisc-redaction-library.md)
 
-[Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md)
+[Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md)
 
-[Automated Sharing of Outbound Intelligence Records](../concept/tisc-automated-outbound-intel-share.md)
+[Automated Sharing of Outbound Intelligence Records](tisc-automated-outbound-intel-share.md)
 
 [Automated Sharing of TAXII Collections](tisc-automated-share-taxii.md)
 

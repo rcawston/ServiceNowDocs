@@ -40,5 +40,5 @@ Creating a custom scoring framework.
 
 [Create your scoring framework attributes](create-scoring-framework-attributes.md)
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](custom-scoring-frameworks-in-strategic-planning.md)
 

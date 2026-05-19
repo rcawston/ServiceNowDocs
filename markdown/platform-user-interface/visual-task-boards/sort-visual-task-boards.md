@@ -58,5 +58,5 @@ Only the owner of the board can create the sorting criteria, and add, edit, or d
         You can edit your sorting criteria for both Freeform and Data Driven boards by selecting the **Edit Filter and Sort** button.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](configuring-vis-task-boards.md)
 

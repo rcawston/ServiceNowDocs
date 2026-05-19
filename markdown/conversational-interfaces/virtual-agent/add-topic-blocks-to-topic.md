@@ -17,7 +17,7 @@ Add a reusable topic block to a calling \(parent\) topic or topic block to run a
 
 ## Before you begin
 
-Review the topic blocks available on the home page in Virtual Agent. You can [create a new topic block](create-topic-blocks.md). You can also use a pre-built topic block, duplicate it, and customize it. Pre-built topic blocks are installed automatically with the Glide Virtual Agent plugin, as well as the [Virtual Agent conversation plugins](../reference/prebuilt-topics-ITSM.md#table_rmj_1s5_mhb) for Customer Service Management, HR Service Delivery, and ITSM.
+Review the topic blocks available on the home page in Virtual Agent. You can [create a new topic block](create-topic-blocks.md). You can also use a pre-built topic block, duplicate it, and customize it. Pre-built topic blocks are installed automatically with the Glide Virtual Agent plugin, as well as the [Virtual Agent conversation plugins](prebuilt-topics-ITSM.md#table_rmj_1s5_mhb) for Customer Service Management, HR Service Delivery, and ITSM.
 
 Verify that the topic block you want to use is published and active.
 

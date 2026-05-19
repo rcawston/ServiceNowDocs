@@ -20,7 +20,7 @@ To access the GRC Portal, navigate to **Risk** &gt; **Risk Portal**. To use this
 -   **My pending tasks**: View the tasks that are pending and are assigned to you. For example, if you have a risk assessment assigned to you, you can launch it from the GRC Portal.
 -   **My group's tasks**: View the tasks assigned to your group.
 -   **My items**: View the requests you have raised. For example, issues, policy exceptions, remediation tasks and so on.
--   **Report**: Report a risk event. To see how you can report a risk event from the GRC Portal see, [Report a risk event from the Risk Portal](../task/report-risk-event-risk-portal.md)
+-   **Report**: Report a risk event. To see how you can report a risk event from the GRC Portal see, [Report a risk event from the Risk Portal](report-risk-event-risk-portal.md)
 
 ![GRC Portal.](../image/risk-portal.jpg "GRC Portal")
 

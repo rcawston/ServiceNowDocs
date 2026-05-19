@@ -37,7 +37,7 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
 4.  Click the **Check Point Anti-bot** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create an email parser, see [Create email parsers in Security Operations](../../../security-operations-common/task/parsing-emails.md).
+    At a minimum, fill in the `Email is from` field. To create an email parser, see [Create email parsers in Security Operations](../parsing-emails.md).
 
 5.  Check the **Active** box.
 

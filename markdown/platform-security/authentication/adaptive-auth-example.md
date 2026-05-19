@@ -15,7 +15,7 @@ breadcrumb: [Configure properties, Adaptive authentication, Authentication, Acce
 
 Use these example steps to configure adaptive authentication on an instance.
 
-To use this tutorial, you must have an instance with Adaptive Authentication activated. For details on this process, see [Activate adaptive authentication](../task/adaptive-authentication-plugin.md).
+To use this tutorial, you must have an instance with Adaptive Authentication activated. For details on this process, see [Activate adaptive authentication](adaptive-authentication-plugin.md).
 
 The example guides you through creating a new policy and applying it to an instance. In this tutorial you will:
 

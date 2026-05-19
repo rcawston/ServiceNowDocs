@@ -37,7 +37,7 @@ Incident Management quick start tests require activating the Incident Management
 |INCIDENT MGMT: Parent and child Incident state sync up after reopening an Incident|Test to verify that the state of a child Incident synchronizes with the parent Incident when the parent Incident is reopened.|Madrid|
 |INCIDENT MGMT: Verify creation of knowledge article from an Incident|Test to verify the creation of a knowledge article from an Incident using the **Create Knowledge** UI action on the Incident form. The UI action is visible when you activate the KCS Integration for Incident Management plugin \(com.snc.incident.knowledge\).|Orlando|
 
-**Parent Topic:**[Configuring Incident Management](../../../product/incident-management/concept/incident-configuration.md)
+**Parent Topic:**[Configuring Incident Management](incident-configuration.md)
 
 **Related topics**  
 

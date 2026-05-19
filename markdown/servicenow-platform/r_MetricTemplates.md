@@ -27,12 +27,12 @@ Metric templates are available for metrics that have **Template** as the Data ty
 |Quality|Very Poor, Poor, Average, Good, Very Good|
 |Complexity|Very Complex, Complex, Moderate, Simple, Very Simple|
 
-**Parent Topic:**[Create a metric template](../task/t_CreateAMetricTemplate.md)
+**Parent Topic:**[Create a metric template](t_CreateAMetricTemplate.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](c_AssessmentMetrics.md)
 
-[Create an assessment metric definition](../task/t_CreateAMetricDefinition.md)
+[Create an assessment metric definition](t_CreateAMetricDefinition.md)
 

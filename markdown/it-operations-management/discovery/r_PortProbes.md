@@ -148,7 +148,7 @@ Script to run.
 </td></tr></tbody>
 </table>-   **[Shazzam probe, port probes, and protocols](r_DiscoveryPortsAndProtocols.md)**  
 Port scanning is the first step in the discovery process. The Shazzam probe performs port scanning, regardless of whether you use patterns for horizontal discovery. The following table lists the known ports and protocols used by Discovery.
--   **[Configure Shazzam probe](../task/t_ConfigureTheShazzamProbe.md#)**  
+-   **[Configure Shazzam probe](t_ConfigureTheShazzamProbe.md#)**  
 When you run Discovery, the Shazzam probe finds your active network devices by scanning specified ports on specified IP address ranges. If the list of IP ranges being scanned is large, you can configure the Shazzam payload for JSON encoding to reduce its size.
 
 **Parent Topic:**[List of Discovery probes](r_ListOfDiscoveryProbes.md)

@@ -18,7 +18,7 @@ In addition to mapping application services in bulk, you can map individual, sin
 ## Before you begin
 
 -   [Verify that Service Mapping is set up properly](check-service-mapping-readiness-for-mapping.md).
--   If the service instance relies on PaaS supported by Microsoft Azure or Amazon Web Services, [discover datacenters](../../discovery/concept/discovery-manager.md#) and then create [horizontal discovery schedules](../../discovery/concept/discovery-manager.md#) on the cloud service account.
+-   If the service instance relies on PaaS supported by Microsoft Azure or Amazon Web Services, [discover datacenters](../discovery/discovery-manager.md#) and then create [horizontal discovery schedules](../discovery/discovery-manager.md#) on the cloud service account.
 
 Role required: service\_mapping\_admin
 
@@ -93,9 +93,9 @@ Select an owner who is responsible for this service instance in the organization
 
         **Important:** Do not use central IT components like Microsoft MQ or Microsoft Active Directory as entry points. Using such entry points creates large services, which cause performance issues during mapping and monitoring.
 
-    3.  If the required entry point type does not appear in the list, you may need to create it as described in [Create entry point types for Service Mapping](t_CreateEntryPoint.md).
+    3.  If the required entry point type does not appear in the list, you may need to create it as described in [Create entry point types for Service Mapping](../discovery-and-service-mapping-patterns/t_CreateEntryPoint.md).
 
-    4.  Configure attributes for the entry point as described in [Entry point attributes](../reference/r_EntryPointsforBizSvcDef.md).
+    4.  Configure attributes for the entry point as described in [Entry point attributes](r_EntryPointsforBizSvcDef.md).
 
         Entry point attributes depend on the type you select.
 
@@ -172,18 +172,18 @@ If discovery based on Predictive Intelligence is enabled, newly mapped applicati
 Create rules for automatically adding traffic-based connections and the CIs they lead to in discovered service instances. Add CIs to specific application services using connection rules.
 -   **[Enable traffic-based discovery for an application service](enable-traffic-based-discovery-business-service.md)**  
 Make Service Mapping use traffic-based connections to discover CIs making up an application service.
--   **[Mapping application services containing Citrix XenApp and Presentation Server](../concept/mapping-services-citrix.md#)**  
+-   **[Mapping application services containing Citrix XenApp and Presentation Server](mapping-services-citrix.md#)**  
 Service Mapping can discover application services containing Citrix XenApp, Presentation Server, and Citrix Usage Collector.
--   **[Mapping application services containing Microsoft Exchange Server](../concept/mapping-service-exchange.md#)**  
+-   **[Mapping application services containing Microsoft Exchange Server](mapping-service-exchange.md#)**  
 Service Mapping can discover service instances containing a Microsoft Exchange Server and the Exchange Server components.
--   **[Tibco BusinessWorks and EMS discovery](../concept/mapping-services-tibco.md#)**  
+-   **[Tibco BusinessWorks and EMS discovery](mapping-services-tibco.md#)**  
 Discovery can find Tibco ActiveMatrix BusinessWorks and Enterprise Message Service \(EMS\). Service Mapping can discover application services containing Tibco BusinessWorks, Enterprise Message Service \(EMS\), and their components.
--   **[Mapping application services containing Oracle GlassFish Servers](../concept/mapping-services-glassfish.md#)**  
+-   **[Mapping application services containing Oracle GlassFish Servers](mapping-services-glassfish.md#)**  
 Service Mapping can discover application services containing Oracle GlassFish Servers.
--   **[Mapping application services containing Oracle Tuxedo platform](../concept/mapping-services-tuxedo.md#)**  
+-   **[Mapping application services containing Oracle Tuxedo platform](mapping-services-tuxedo.md#)**  
 Service Mapping can discover application services containing Oracle Tuxedo platform and its components.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
@@ -202,7 +202,7 @@ Service Mapping can discover application services containing Oracle Tuxedo platf
 
 [Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](c_SvcPlanningAndAnalysisUsingMaps.md)
 

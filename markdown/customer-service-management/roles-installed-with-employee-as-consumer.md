@@ -59,9 +59,9 @@ Supports consumers and runs parallel to the Consumer \(sn\_customerservice.consu
 </table>**Related topics**  
 
 
-[Configuring a user as a Unified Consumer](../concept/configuring-employee-as-a-consumer.md)
+[Configuring a user as a Unified Consumer](configuring-employee-as-a-consumer.md)
 
 [Supported and unsupported roles and features](features-supp-and-unsupp-by-unified-consumer.md)
 
-[Setting up a user as a Unified Consumer](../concept/setting-up-a-user.md)
+[Setting up a user as a Unified Consumer](setting-up-a-user.md)
 

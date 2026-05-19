@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The WorkflowTimeline script include provides methods to generate a view that shows a workflow context on the timeline.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## WorkflowTimeline-getItems\(\)
 

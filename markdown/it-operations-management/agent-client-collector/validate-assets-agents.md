@@ -44,5 +44,5 @@ Only plugins that are able to be executed are validated. For example, if you’r
     The plugins automatically re-sync the next time a command runs which requires the plugin.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
 

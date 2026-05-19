@@ -92,7 +92,7 @@ User who will respond to the initial IRQ
 
 </td><td>
 
-Person with the IRQ assessor role who should respond to the IRQ. For more information, see [Respond to an internal assessment](../task/tprm-irq-respond-to.md).**Note:** While reviewing this request for due diligence, the TPR manager or owner can specify a different user.
+Person with the IRQ assessor role who should respond to the IRQ. For more information, see [Respond to an internal assessment](tprm-irq-respond-to.md).**Note:** While reviewing this request for due diligence, the TPR manager or owner can specify a different user.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -132,7 +132,7 @@ First name, Last name, Title, Email, and Phone
 
 Standard contact information for the person at the third-party organization who acts as the primary third-party contact.
 
- For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+ For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -148,7 +148,7 @@ Standard contact information for the person at the engagement organization who a
 
  If the target of your engagement request is the parent third-party organization, select **Same as third-party primary contact**.
 
- For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+ For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](tprm-roles.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Due diligence request process management](tprm-ws-dd-mgt-pg-details-tab.md)
@@ -156,7 +156,7 @@ Standard contact information for the person at the engagement organization who a
 **Related topics**  
 
 
-[Requesting third-party risk due diligence](../../grc-vendor-risk/concept/tprm-requesting-tpr-due-diligence.md)
+[Requesting third-party risk due diligence](tprm-requesting-tpr-due-diligence.md)
 
-[Request due diligence for a third-party engagement](../task/tprm-ws-request-dd-for-engagement.md)
+[Request due diligence for a third-party engagement](tprm-ws-request-dd-for-engagement.md)
 

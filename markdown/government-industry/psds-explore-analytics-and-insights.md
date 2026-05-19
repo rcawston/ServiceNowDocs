@@ -21,5 +21,5 @@ The following example shows a Performance Analytics dashboard with citizen servi
 
 ![Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.](../image/constituent-service-overview-dboard-new.png "Public Sector Digital Services Constituent Services dashboard")
 
-To learn more about the Performance Analytics solutions, see [Analytics and Reporting Solutions for Public Sector Digital Services](../../../use/application-content-packs/concept/psds-content-pack.md).
+To learn more about the Performance Analytics solutions, see [Analytics and Reporting Solutions for Public Sector Digital Services](psds-content-pack.md).
 

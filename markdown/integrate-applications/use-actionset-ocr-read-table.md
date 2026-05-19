@@ -23,13 +23,13 @@ Role required: none
 
 The ActionSet OCR \(optical character recognition\) Read Table action can capture a table even when it appears in an image instead of in a text-based format.
 
-You can configure the properties for the OCR Read Table action. For more information about these properties, see [ActionSet OCR Read Table properties](../reference/actionset-actions-properties.md#ActionSet-OCR-ReadTable).
+You can configure the properties for the OCR Read Table action. For more information about these properties, see [ActionSet OCR Read Table properties](actionset-actions-properties.md#ActionSet-OCR-ReadTable).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see how to use the [Anchor](../concept/anchor.md).
+    To know about the anchor, see how to use the [Anchor](anchor.md).
 
 2.  Navigate to **OCR** &gt; **Read Table**.
 
@@ -53,7 +53,7 @@ You can configure the properties for the OCR Read Table action. For more informa
 
     For example, you can choose to consider the first row of the table as a table header.
 
-    For more information about these properties, see [ActionSet OCR Read Table properties](../reference/actionset-actions-properties.md#ActionSet-OCR-ReadTable).
+    For more information about these properties, see [ActionSet OCR Read Table properties](actionset-actions-properties.md#ActionSet-OCR-ReadTable).
 
 7.  Close the ACTIONSET SETTINGS window.
 

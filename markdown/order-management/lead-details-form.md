@@ -262,5 +262,5 @@ Consumer record associated with the lead.
 |Notes|General notes related to the lead.|
 |Work Notes|Internal notes related to the lead, visible only to agents and administrators.|
 
-**Parent Topic:**[Lead Management reference](../concept/lead-management-reference.md)
+**Parent Topic:**[Lead Management reference](lead-management-reference.md)
 

@@ -103,7 +103,7 @@ Display CAPTCHA
 
 The check box is available only when **Public access** is selected.
 
-Select the check box to display a CAPTCHA on the user identification page. The Password Reset application uses Google reCAPTCHA as the default CAPTCHA service. See [Configure Google reCAPTCHA for the password reset process](../task/t_ConfigureGoogleRecaptcha.md).
+Select the check box to display a CAPTCHA on the user identification page. The Password Reset application uses Google reCAPTCHA as the default CAPTCHA service. See [Configure Google reCAPTCHA for the password reset process](t_ConfigureGoogleRecaptcha.md).
 
  **Note:** The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA.
 
@@ -119,7 +119,7 @@ Identification type
 
 Method that the user employs to claim identity for the public Password Reset or Password Change process. Any selection overrides the default identification that is associated with the process. The base system includes the Email and Username Identification identification types. You can create a custom identification type \(some knowledge of JavaScript is recommended\).
 
- See [Personal data identification types and confirmation type verifications](../concept/c_PersonalDataAndPDConfirmVerifs.md).
+ See [Personal data identification types and confirmation type verifications](c_PersonalDataAndPDConfirmVerifs.md).
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ Select the check box to auto-generate a new password for the user. When this che
 This check box is available only when:-   The **Password reset** check box is selected.
 -   The **Email/SMS Password Reset URL** check box is cleared.
 
- **Note:** If you use the credential store on your local ServiceNow instance or an Active Directory credential store: Clear the check box to enable the **Enforce history policy** option for a credential store. See [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
+ **Note:** If you use the credential store on your local ServiceNow instance or an Active Directory credential store: Clear the check box to enable the **Enforce history policy** option for a credential store. See [Configure the connection to a credential store for the Password Reset processes](t_CreateACredentialStore.md).
 
 </td></tr><tr><td>
 
@@ -247,7 +247,7 @@ Verifications
 
 </td><td>
 
-One or more verifications that the Password Reset process uses. See [Password Reset verifications](../concept/c_PWRVerifications.md).The Verifications related list is available only after the record has been saved.
+One or more verifications that the Password Reset process uses. See [Password Reset verifications](c_PWRVerifications.md).The Verifications related list is available only after the record has been saved.
 
 </td></tr><tr><td>
 
@@ -263,11 +263,11 @@ ServiceNow user groups to associate with the Password Reset process.The Groups r
 |Entry UI macro|UI macro that displays a customized message to users when they access the initial Password Reset screen.|
 |Success UI macro|UI macro that displays a customized message to users on the final Password Reset screen when their password is successfully reset.|
 |Failure UI macro|UI macro that displays a customized message to users on the final Password Reset screen when their password reset fails.|
-|Post reset script|Script include that performs actions after the Password Reset process completes whether the outcome is success or failure. For more information on customizing post processor scripts, see the **Post reset** script category as described in [Password Reset extension script categories](../concept/pw-reset-extension-script.md).|
-|Header UI macro or Footer UI macro|Macros that add a header or footer to customize the appearance of the pages that end users work in while resetting a password \(the Identify, Verify, and Reset pages. See [Add a custom header or footer to the user pages for Password Reset](../task/customize-user-reset-pages.md).|
+|Post reset script|Script include that performs actions after the Password Reset process completes whether the outcome is success or failure. For more information on customizing post processor scripts, see the **Post reset** script category as described in [Password Reset extension script categories](pw-reset-extension-script.md).|
+|Header UI macro or Footer UI macro|Macros that add a header or footer to customize the appearance of the pages that end users work in while resetting a password \(the Identify, Verify, and Reset pages. See [Add a custom header or footer to the user pages for Password Reset](customize-user-reset-pages.md).|
 
 **Related topics**  
 
 
-[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)
+[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)
 

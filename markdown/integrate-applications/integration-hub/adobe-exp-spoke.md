@@ -66,5 +66,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 **Note:** Two connection and credential alias records are needed for the Adobe Experience Platform spoke; one for data inlet management and batch ingestion, and other for data collection. Each alias should be associated with the respective Adobe Experience Platform API.
 
-For information about setting up the spoke, see [Set up Adobe Experience Platform spoke](../task/setup-aep-spoke.md#).
+For information about setting up the spoke, see [Set up Adobe Experience Platform spoke](setup-aep-spoke.md#).
 

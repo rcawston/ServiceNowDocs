@@ -97,5 +97,5 @@ Testing a playbook bypasses the normal playbook trigger to run it with the sampl
 
 Publish your playbook to a production instance and activate it.
 
-**Parent Topic:**[Creating and managing Playbooks](../concept/creating-managing-playbooks.md)
+**Parent Topic:**[Creating and managing Playbooks](creating-managing-playbooks.md)
 

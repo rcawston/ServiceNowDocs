@@ -17,7 +17,7 @@ Request a workplace reservation for the days during which you want to return to 
 
 ## Before you begin
 
-To request a workplace reservation using your mobile device, you must have installed the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To request a workplace reservation using your mobile device, you must have installed the [Now® Mobile](../now-mobile-employee-experience/mobile-employee-experience.md) app.
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -157,5 +157,5 @@ You can check the status of your reservation request or choose to cancel your re
     -   To cancel the reservation request, select **Cancel request**.
     -   To cancel a single reservation within the reservation request, select **Reservation details**. Select the reservation you want to cancel and select **Cancel reservation**.
 
-**Parent Topic:**[Making workplace reservations](../concept/making-workspace-reservations.md)
+**Parent Topic:**[Making workplace reservations](making-workspace-reservations.md)
 

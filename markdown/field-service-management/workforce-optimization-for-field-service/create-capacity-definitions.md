@@ -136,7 +136,7 @@ Reservation name
 
 </td><td>
 
-Name of the capacity reservation rule that applies to the capacity definition. The available capacity is reserved for various work order tasks as per the reservation rule.This field appears only when the Set capacity by buckets option is cleared. For more information, see [Capacity reservation rules](../concept/capacity-reservations.md#).
+Name of the capacity reservation rule that applies to the capacity definition. The available capacity is reserved for various work order tasks as per the reservation rule.This field appears only when the Set capacity by buckets option is cleared. For more information, see [Capacity reservation rules](capacity-reservations.md#).
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.

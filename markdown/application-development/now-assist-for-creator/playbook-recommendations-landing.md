@@ -23,11 +23,11 @@ Get AI-generated placeholder activities based on an activity's name and descript
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable the Playbook recommendations skill](../task/turn-on-playbook-recommendations.md)
+[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable the Playbook recommendations skill](turn-on-playbook-recommendations.md)
 
 </td><td>
 
-[Generate![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate Playbook recommendations](../task/generate-playbook-recommendations.md)
+[Generate![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Generate Playbook recommendations](generate-playbook-recommendations.md)
 
 </td></tr></tbody>
 </table>## AI limitations
@@ -46,10 +46,10 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 
 -   **[Exploring Playbook recommendations](playbook-recommendations.md#)**  
 Get AI-generated recommendations for placeholder activities. The system generates recommendations based on an activity’s name and description.
--   **[Turn on Playbook recommendations](../task/turn-on-playbook-recommendations.md)**  
+-   **[Turn on Playbook recommendations](turn-on-playbook-recommendations.md)**  
 Turn on the playbook recommendations skill to get recommendations for the activity definition to use in your placeholder activities with AI Search.
--   **[Generate playbook recommendations](../task/generate-playbook-recommendations.md)**  
+-   **[Generate playbook recommendations](generate-playbook-recommendations.md)**  
 Select the activity definition for a placeholder activity from a list of AI-generated recommendations. The system generates recommendations based on an activity’s name and description.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
 

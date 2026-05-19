@@ -80,5 +80,5 @@ For inclusion, for specific CRUD operation such as __Create__, the system evalua
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](../concept/understanding-user-criteria-event-types-wfo-itsm.md)
+**Parent Topic:**[Understanding user criteria for event types in Workforce Optimization for ITSM](understanding-user-criteria-event-types-wfo-itsm.md)
 

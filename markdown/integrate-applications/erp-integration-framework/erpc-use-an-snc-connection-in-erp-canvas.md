@@ -28,7 +28,7 @@ SNC is used to:
 
 SNC operates within the SAP NetWeaver Application Server \(AS\) environment. It uses the GSS-API \(Generic Security Services Application Program Interface\) to integrate with external security libraries and products. Commonly used security libraries include Kerberos-based solutions and SAP's own Secure Login Library \(SLL\).
 
--   **[Configure an SNC connection in Zero Copy Connector for ERP](../task/erpc-configure-an-snc-connection-in-erp-canvas.md)**  
+-   **[Configure an SNC connection in Zero Copy Connector for ERP](erpc-configure-an-snc-connection-in-erp-canvas.md)**  
 Learn how to set up an SNC connection, including preparing the environment, configuring the SAP system, and testing the configuration.
 
 **Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)

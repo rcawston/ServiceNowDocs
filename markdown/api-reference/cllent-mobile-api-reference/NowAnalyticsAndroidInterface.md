@@ -17,9 +17,9 @@ The NowAnalyticsSDK interface provides functions that enable you to configure an
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 
 ## NowAnalyticsSDK - addEvent\(eventName: String\)
 

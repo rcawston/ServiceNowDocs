@@ -48,5 +48,5 @@ Topics must be activated and published before your employees can use them. By de
 6.  To test an active, published conversation topic, select the topic to test in Virtual Agent Designer and select **Test**.
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](../concept/setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)
 

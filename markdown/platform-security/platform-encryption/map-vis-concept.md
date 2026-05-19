@@ -99,11 +99,11 @@ Use the **Users with access** section to see a list of all users that have acces
 **Related topics**  
 
 
-[Key Management Framework key life-cycle states](../reference/key-life-cycle-states.md)
+[Key Management Framework key life-cycle states](key-life-cycle-states.md)
 
-[Roles installed with Key Management Framework](../reference/kmf-roles.md#)
+[Roles installed with Key Management Framework](kmf-roles.md#)
 
 [Module access policy debugger](map-debugger.md)
 
-[Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md)
+[Encryption and Key Management subscription bundle](encryption-sku.md)
 

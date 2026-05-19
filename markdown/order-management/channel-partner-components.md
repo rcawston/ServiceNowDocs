@@ -37,7 +37,7 @@ Details
 
 </td><td>
 
-Details associated with the channel partner.To learn more information about the details, see [Create Channel Partner record](../task/create-channel-partner-record.md).
+Details associated with the channel partner.To learn more information about the details, see [Create Channel Partner record](create-channel-partner-record.md).
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Register Partner Staff
 
 </td><td>
 
-Register staff to an enterprise. To learn more about registering partner staff, see [Register Partner Staff on workspace](../task/register-partner-staff-on-workspace.md).
+Register staff to an enterprise. To learn more about registering partner staff, see [Register Partner Staff on workspace](register-partner-staff-on-workspace.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)

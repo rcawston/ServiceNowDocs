@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For detailed information about roles that are installed with Workflow Data Fabric Home, see [Workflow Data Fabric Home roles](../reference/installed-with-workflow-data-fabric.md).
+For detailed information about roles that are installed with Workflow Data Fabric Home, see [Workflow Data Fabric Home roles](installed-with-workflow-data-fabric.md).
 
 ## Procedure
 

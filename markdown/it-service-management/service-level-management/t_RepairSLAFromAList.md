@@ -38,10 +38,10 @@ You can also repair SLA records from the relevant Task form, or from the SLA for
     **Note:** Closing the progress dialog box does not stop the repair process. You can go to **Active repairs** or **My repairs** and click **Show progress** to view the progress dialog again.
 
 
-**Parent Topic:**[Repair Service Level Agreement \(SLA\)](../concept/c_RepairSLAs.md)
+**Parent Topic:**[Repair Service Level Agreement \(SLA\)](c_RepairSLAs.md)
 
 **Related topics**  
 
 
-[Repair Service Level Agreement \(SLA\)](../concept/c_RepairSLAs.md)
+[Repair Service Level Agreement \(SLA\)](c_RepairSLAs.md)
 

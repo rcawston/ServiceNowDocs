@@ -55,5 +55,5 @@ The landing page of the add-in appears as the right panel.
 
 [Create a Microsoft PowerPoint template](create-ppt-template.md).
 
-**Parent Topic:**[Configuring Export to PowerPoint](../concept/configure-export-to-ppt.md)
+**Parent Topic:**[Configuring Export to PowerPoint](configure-export-to-ppt.md)
 

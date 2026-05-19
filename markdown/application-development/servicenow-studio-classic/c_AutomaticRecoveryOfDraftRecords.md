@@ -17,7 +17,7 @@ Studio can maintain a version of any open existing record with unsaved changes. 
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](servicenow-studio-landing.md).
 
 Automatic recovery only applies to:
 
@@ -51,9 +51,9 @@ Administrators can configure automatic recovery properties to:
 
 Users can enable or disable automatic recovery as a user preference.
 
--   **[Legacy - Auto recovery properties](../reference/r_AutoRecoveryProperties.md)**  
+-   **[Legacy - Auto recovery properties](r_AutoRecoveryProperties.md)**  
 Administrators can configure how Studio handles the recovery of draft records by navigating to **Auto Recovery** &gt; **Properties**.
--   **[Legacy - Auto recovery dictionary attribute](../reference/r_AutoRecoveryDictionaryAttributes.md)**  
+-   **[Legacy - Auto recovery dictionary attribute](r_AutoRecoveryDictionaryAttributes.md)**  
 Administrators can configure how the Studio handles the recovery of draft records with a dictionary attribute.
 
 **Parent Topic:**[Legacy - ServiceNow Studio](c_ServiceNowStudio.md)

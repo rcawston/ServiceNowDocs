@@ -28,9 +28,9 @@ If any of the following activities aren’t related to a new third party going t
 -   An Inherent risk questionnaire \(IRQ\) that is sent by the system has a status of **Awaiting response**. For more information, see [Assessing your third-party risk](tprm-assessing-tpr.md).
 -   A tiering assessment with a questionnaire that is sent by the system has a status of **Awaiting response**.
 -   A third-party risk assessment with a questionnaire that is sent by the system has a status of **Submitted to third party**. For more information, see [Life cycle states of a external assessment](tprm-external-assessment-lifecycle.md).
--   The creation of a task or issue for a third-party risk assessment. For more information, see [Create a task for a third party or engagement](../task/tprm-ws-task-create.md) and [Create an issue for a third party or engagement](../task/tprm-ws-issue-create.md).
+-   The creation of a task or issue for a third-party risk assessment. For more information, see [Create a task for a third party or engagement](tprm-ws-task-create.md) and [Create an issue for a third party or engagement](tprm-ws-issue-create.md).
 
-If a third-party risk assessment or due diligence request is automatically created by an event-driven management rule and later recalled, it isn’t counted as a managed activity. An assessment that is related to an event-driven management rule can be recalled up until the time that it’s submitted to the third party. For more information, see [Event-driven management — automate assessment processes](../../grc-workspace-vrm/task/tprm-event-drvn-mgt-rule-create.md).
+If a third-party risk assessment or due diligence request is automatically created by an event-driven management rule and later recalled, it isn’t counted as a managed activity. An assessment that is related to an event-driven management rule can be recalled up until the time that it’s submitted to the third party. For more information, see [Event-driven management — automate assessment processes](tprm-event-drvn-mgt-rule-create.md).
 
 **Note:** If an assessment isn’t related to an event-driven management rule, you can't recall it and it’s counted as a managed activity. If an assessment is canceled, it’s still considered as a managed activity.
 
@@ -111,5 +111,5 @@ State of the activity:-   **Tracked**: The activity is logged.
 -   **Recalled**: The activity was recalled by a user after it occurred.
 
 </td></tr></tbody>
-</table>**Note:** The calculated risk scores that are updated by assessments are managed activities. However, they aren’t logged in the Usage analytics activities \[sn\_vdr\_risk\_asmt\_ua\_activity\] table. The score updates from the risk intelligence score providers aren’t managed activities. For more information on the risk intelligence scores, see [Viewing risk intelligence scores](../../grc-workspace-vrm/reference/tprm-ws-tab-risk-intel-scores.md).
+</table>**Note:** The calculated risk scores that are updated by assessments are managed activities. However, they aren’t logged in the Usage analytics activities \[sn\_vdr\_risk\_asmt\_ua\_activity\] table. The score updates from the risk intelligence score providers aren’t managed activities. For more information on the risk intelligence scores, see [Viewing risk intelligence scores](tprm-ws-tab-risk-intel-scores.md).
 

@@ -40,5 +40,5 @@ NIST CSF role required: sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf
 4.  Click **Update**.
 
 
-**Parent Topic:**[Identify the framework core](../concept/identify-framework-core.md)
+**Parent Topic:**[Identify the framework core](identify-framework-core.md)
 

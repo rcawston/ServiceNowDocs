@@ -30,14 +30,14 @@ The **Security Incident Response - Create Lookup Request for IoC Changes** workf
 The Flow Designer actions include:
 
 -   Audit Log Enrichment
--   [Create IoC Lookup Request activity](../reference/r_CreateMalwareScanRequest.md)
+-   [Create IoC Lookup Request activity](r_CreateMalwareScanRequest.md)
 
 ![Security Incident Response - Create Lookup Request for IoC Changes workflow diagram](../image/ScanRequest4IoChangesWorkflow.png "IoC Changes workflow")
 
--   **[Create IoC Lookup Request activity](../reference/r_CreateMalwareScanRequest.md)**  
+-   **[Create IoC Lookup Request activity](r_CreateMalwareScanRequest.md)**  
 The **Create IoC Lookup Request** activity can be used with any workflow to create a malware lookup request for added or modified IoC fields.
 
-**Parent Topic:**[Security Incident Response Orchestration workflows and activities](../concept/sec-inc-resp-orchestration-workflows.md)
+**Parent Topic:**[Security Incident Response Orchestration workflows and activities](sec-inc-resp-orchestration-workflows.md)
 
 **Related topics**  
 
@@ -46,7 +46,7 @@ The **Create IoC Lookup Request** activity can be used with any workflow to crea
 
 [Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
 
-[Run procdump flow](../concept/invoke_procdump.md)
+[Run procdump flow](invoke_procdump.md)
 
 [Security Incident - Evaluate response task outcome workflow](si-evaluate-response-task-outcome-workflow.md)
 

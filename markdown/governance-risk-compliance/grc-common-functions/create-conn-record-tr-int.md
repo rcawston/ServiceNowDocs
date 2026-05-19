@@ -72,5 +72,5 @@ Thomson Reuters deposits the regulatory feed files at the SFTP location that is 
 
 When a new connection is established, a file connection information record is created in the instance. After the file connection information record is created, you can no longer create more file connection information records by selecting **New** in the Connections related list.
 
-**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](../concept/grc-trri-integration.md)
+**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](grc-trri-integration.md)
 

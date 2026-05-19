@@ -40,5 +40,5 @@ If there are assigned users, the system automatically generates a survey instanc
 
 If you want employees to receive a link to a survey, such as the HR Request Satisfaction Survey, create a notification. To get the URL of the published survey so it can be included in the notification, click the **View Survey URL** related link. You can copy the URL and paste it as a hyperlink in the notification.
 
-**Parent Topic:**[HR surveys](../concept/c_HRSurveysIst.md)
+**Parent Topic:**[HR surveys](c_HRSurveysIst.md)
 

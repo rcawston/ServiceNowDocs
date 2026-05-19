@@ -34,16 +34,16 @@ The Normalization Data Services plugin adds a unique index or hash on the \[core
 
 -   **[Implementing normalization data services using guided setup](implementing-normalization-data-services-using-guided-setup.md)**  
 You can implement Normalization Data Services using a guided setup.
--   **[Normalized company names table](../reference/r_NormalizedCompanyNames.md)**  
+-   **[Normalized company names table](r_NormalizedCompanyNames.md)**  
 The Normalization Data Services plugin stores the normalized company names in the Normalized Company Names table.
--   **[Normalized Mappings table](../reference/r_NormalizedMappings.md)**  
+-   **[Normalized Mappings table](r_NormalizedMappings.md)**  
 The Normalized Mappings table lists all the discovered names and the normalized name to which each maps.
--   **[Normalization properties](../reference/r_NormalizedProperties.md)**  
+-   **[Normalization properties](r_NormalizedProperties.md)**  
 On the normalization properties form, you can see and change the configurable properties for the Normalization Data Services plugin.
 -   **[Changing normalized company names](c_NormalChangingNames.md#)**  
 You can change a normalized company name several different ways. In all cases, that change affects all normalized fields referring to that company.
 -   **[Enabling duplicate company names in extension tables](enhanced-nds-for-duplicate-records.md#)**  
 You can create records with duplicate company names in extension tables, such as Customer Account \[customer\_account\] table, without causing normalization conflicts in Normalization Data Services.
 
-**Parent Topic:**[Creating users, companies, and departments](../../roles/concept/using-user-administration.md)
+**Parent Topic:**[Creating users, companies, and departments](using-user-administration.md)
 

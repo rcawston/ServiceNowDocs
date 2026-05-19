@@ -26,5 +26,5 @@ Create a sub-capability and add it to the capability hierarchy map.
 **Related topics**  
 
 
-[Create a sub-capability](../../task/eaw-task/eaw-create-sub-capability.md)
+[Create a sub-capability](eaw-create-sub-capability.md)
 

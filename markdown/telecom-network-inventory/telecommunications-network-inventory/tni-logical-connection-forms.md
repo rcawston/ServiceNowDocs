@@ -15,7 +15,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 The Logical Connection form enables you to define a logical connection by describing its configuration and connection details.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](telecommunications-network-inventory-reference.md)
 
 ## Logical Connection form
 
@@ -51,7 +51,7 @@ Site A
 
 </td><td>
 
-Originating network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Originating network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md).
 
 </td></tr><tr><td>
 
@@ -59,13 +59,13 @@ Site Z
 
 </td><td>
 
-Destination network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md).
+Destination network site for this connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network site. To learn more, see [153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](define-tni-sites.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Define the logical connection details](../task/define-tni-logical-connections.md)
+[Define the logical connection details](define-tni-logical-connections.md)
 
 ## Logical Connection form - Configuration
 
@@ -85,7 +85,7 @@ Port A
 
 </td><td>
 
-Network interface that is used in the Port A connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](../task/define-tni-interfaces.md).
+Network interface that is used in the Port A connection. Select the search icon \( ![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](define-tni-interfaces.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Port Z
 
 </td><td>
 
-Network interface that is used in the Port Z connection. Select the search icon \(![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](../task/define-tni-interfaces.md).
+Network interface that is used in the Port Z connection. Select the search icon \(![Search icon.](../image/search.png)\) and select a network interface. To learn more, see [Define the network interface details](define-tni-interfaces.md).
 
 </td></tr><tr><td>
 
@@ -200,5 +200,5 @@ Distance is expressed in meters.
 **Related topics**  
 
 
-[Define the logical connection details](../task/define-tni-logical-connections.md)
+[Define the logical connection details](define-tni-logical-connections.md)
 

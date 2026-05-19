@@ -17,7 +17,7 @@ The TimelineSpan API provides methods to define a set of properties that describ
 
 Since it is extremely important for all of a time line item's collection of spans to be unique, the creation of a new instance should be performed using the createTimelineItem\(\) method of an existing time line Item instance.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## TimelineSpan - addPredecessor\(Object Array objArray\)
 

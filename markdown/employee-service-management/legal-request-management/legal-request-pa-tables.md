@@ -17,7 +17,7 @@ Tables specific to practice areas are installed with the Legal Request Managemen
 
 These practice area tables extend the Legal Request \[sn\_lg\_ops\_request\] table.
 
-If you add columns in a practice area table, you can configure the table to add those columns in the Lists section of Legal Counsel Center. You can also use these tables in other configuration as needed. For more information, see [Configure a practice area table](../task/configure-pa-tables-for-reporting.md).
+If you add columns in a practice area table, you can configure the table to add those columns in the Lists section of Legal Counsel Center. You can also use these tables in other configuration as needed. For more information, see [Configure a practice area table](configure-pa-tables-for-reporting.md).
 
 -   Compliance \[sn\_lg\_ops\_compliance\]
 -   Corporate Support \[sn\_lg\_ops\_corporate\_support\]

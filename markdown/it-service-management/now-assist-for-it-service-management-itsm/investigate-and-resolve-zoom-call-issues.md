@@ -19,8 +19,8 @@ Investigate Zoom call performance with Now Assist to identify root cause of issu
 
 Role required: sn\_dex.user
 
--   Ensure DEX for Zoom is configured. For more information, see [Configuring DEX for Zoom](../Zoom-calls-monitoring/configuring-DEX-for-Zoom.md).
--   Ensure that advanced monitoring is enabled to capture Zoom call telemetry. For more information, see [Enable application monitoring](enable-app-monitor.md).
+-   Ensure DEX for Zoom is configured. For more information, see [Configuring DEX for Zoom](../digital-end-user-experience-dex/configuring-DEX-for-Zoom.md).
+-   Ensure that advanced monitoring is enabled to capture Zoom call telemetry. For more information, see [Enable application monitoring](../digital-end-user-experience-dex/enable-app-monitor.md).
 -   Enable Now Assist for DEX to access AI-generated Zoom call diagnostics.
 
 **Note:** The Now Assist AI capability for investigating Zoom call quality issues requires a minimum platform version of Zurich patch 7.
@@ -70,7 +70,7 @@ The Now Assist for Zoom Call Issues analyzes Zoom telemetry, including audio, vi
 
     Remedial actions, self-help instructions, and related knowledge articles are displayed to help resolve Zoom call issues.
 
-10. To view the detailed metrics for the Zoom calls made by users assigned to this device or logged in within the past 15 days, see [Monitor Zoom call quality using DEX](../Zoom-calls-monitoring/monitor-zoom-call-quality-using-dex.md).
+10. To view the detailed metrics for the Zoom calls made by users assigned to this device or logged in within the past 15 days, see [Monitor Zoom call quality using DEX](../digital-end-user-experience-dex/monitor-zoom-call-quality-using-dex.md).
 
 
 ## Result

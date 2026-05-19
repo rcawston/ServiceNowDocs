@@ -53,8 +53,8 @@ When migrating the search configuration from ITSM Agent Workspace to SOW, the **
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](../reference/search-config-migration-itsm-aw-sow.md#section_s4z_14j_dcc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](search-config-migration-itsm-aw-sow.md#section_s4z_14j_dcc) section.
 
 
-**Parent Topic:**[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/search-config-migration-itsm-aw-sow.md)
+**Parent Topic:**[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](search-config-migration-itsm-aw-sow.md)
 

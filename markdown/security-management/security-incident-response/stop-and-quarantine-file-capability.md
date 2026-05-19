@@ -50,7 +50,7 @@ You can run the Stop and Quarantine File action on the particular observables of
 9.  View the automation activities of the execution, and validate them.
 
 
-**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](../concept/additional-configurations-in-defender.md)
+**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](additional-configurations-in-defender.md)
 
 **Related topics**  
 

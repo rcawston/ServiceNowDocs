@@ -25,13 +25,13 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 ## About this task
 
-Configure the autonomous workflow alert management rule to operate the manage alerts autonomously agentic workflow manually or automatically. For more information about alert management rules, see [Alert management rules for resolving alerts](../../event-management/concept/alert-management-rule.md).
+Configure the autonomous workflow alert management rule to operate the manage alerts autonomously agentic workflow manually or automatically. For more information about alert management rules, see [Alert management rules for resolving alerts](../event-management/alert-management-rule.md).
 
 When the workflow operates automatically, alerts are addressed as theyâ€™re created and AI insight information is displayed in Express List.
 
 When the workflow operates manually, users must manually generate AI insights. For more information, see [Review AI generated alert information and insights in Express List](use-ai-insights-express-list.md).
 
-For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](../concept/itom-autonomous-operator-workflow.md).
+For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](itom-autonomous-operator-workflow.md).
 
 **Note:**
 
@@ -68,5 +68,5 @@ If you change the alert management rule for the manage alert autonomously workï¬
 
 To learn more about generating AI insights with the manage alerts autonomously agentic workflow, see [Review AI generated alert information and insights in Express List](use-ai-insights-express-list.md).
 
-**Parent Topic:**[Configuring agents for Now Assist for ITOM](../concept/itom-ai-agent-configuration.md)
+**Parent Topic:**[Configuring agents for Now Assist for ITOM](itom-ai-agent-configuration.md)
 

@@ -136,5 +136,5 @@ Length of time when the course has to be completed. For example, for a video, it
     5.  In the **Due date** field, Select the calendar icon and select the date and time when you want to trainee to complete the learning task.
     6.  Select **Save**.
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](workforce-learning-configurable-wfo-itsm.md)
 

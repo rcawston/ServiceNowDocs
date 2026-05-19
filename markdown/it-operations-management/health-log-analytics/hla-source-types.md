@@ -132,5 +132,5 @@ Boolean value. If selected, Health Log Analytics looks for a case-sensitive matc
 7.  Select **Update**.
 
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](hla-data-input-setup-extra.md)
 

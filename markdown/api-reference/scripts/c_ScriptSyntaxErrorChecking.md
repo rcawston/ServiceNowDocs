@@ -25,5 +25,5 @@ The syntax editor displays messages about errors or warnings in your scripts in 
 
 You can configure whether to show indicators next to a line of code that contains an issue for errors, warnings, both, or none with the **glide.ui.syntax\_editor.show\_warnings\_errors** system property.
 
-**Parent Topic:**[Using the JavaScript syntax editor](../../general-scripting/reference/r_EdtJvaScptWSyntxEdtr.md)
+**Parent Topic:**[Using the JavaScript syntax editor](r_EdtJvaScptWSyntxEdtr.md)
 

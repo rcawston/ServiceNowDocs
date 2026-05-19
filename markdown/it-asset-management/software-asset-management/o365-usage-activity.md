@@ -28,17 +28,17 @@ The following table lists the sources for collecting the software usage activity
 |Jamf for macOS devices|Desktop|Microsoft Office 365 apps for Enterprise|
 |Manual upload of the usage reports on the ServiceNow instance from the Microsoft Office 365 admin center|Desktop, Web, Mobile|Microsoft 365 Copilot, Visio Online, and Project Online|
 
-**Note:** You can download the usage for Microsoft 365 Copilot, Visio Online, and Project Online from the Microsoft Office 365 admin center. For details, see [Upload the Microsoft 365 Copilot, Visio Online, and Project Online usage reports to your ServiceNow instance](../task/upload-usage-reports-copilot-visio-project.md).
+**Note:** You can download the usage for Microsoft 365 Copilot, Visio Online, and Project Online from the Microsoft Office 365 admin center. For details, see [Upload the Microsoft 365 Copilot, Visio Online, and Project Online usage reports to your ServiceNow instance](upload-usage-reports-copilot-visio-project.md).
 
 After completing the [Microsoft 365 integration](integrate-with-microsoft.md), you can view the usage activity information using any of the following tables:
 
--   [Software Usages \[samp\_sw\_usage\]](../task/view-sw-usage-workspace.md)
+-   [Software Usages \[samp\_sw\_usage\]](view-sw-usage-workspace.md)
 
-    View the usage data for individual software products within the subscription in the Software Usages table. This table stores total usage and last activity retrieved from Microsoft APIs and other discovery solutions such as SCCM, Jamf, and ACC-V. For more details on software usage fields and their descriptions, see [View or create software usage](../task/view-sw-usage-workspace.md).
+    View the usage data for individual software products within the subscription in the Software Usages table. This table stores total usage and last activity retrieved from Microsoft APIs and other discovery solutions such as SCCM, Jamf, and ACC-V. For more details on software usage fields and their descriptions, see [View or create software usage](view-sw-usage-workspace.md).
 
--   [Microsoft 365 Apps Usage Reports \[samp\_m365\_apps\_usage\_report\]](../reference/m365-apps-usage-report.md)
+-   [Microsoft 365 Apps Usage Reports \[samp\_m365\_apps\_usage\_report\]](m365-apps-usage-report.md)
 
-    View the last activity date for the Microsoft 365 products in the Microsoft 365 Apps Usage Reports table for each user. This table stores usage data for Microsoft 365 products in True or False retrieved from Microsoft APIs only. The last activity date helps you determine reclamation candidates more accurately for Microsoft 365 products, including Microsoft Outlook, Microsoft Word, Excel Microsoft PowerPoint, and OneNote. For more details on Microsoft 365 apps usage fields and their descriptions, see [Microsoft 365 Apps Usage Reports](../reference/m365-apps-usage-report.md).
+    View the last activity date for the Microsoft 365 products in the Microsoft 365 Apps Usage Reports table for each user. This table stores usage data for Microsoft 365 products in True or False retrieved from Microsoft APIs only. The last activity date helps you determine reclamation candidates more accurately for Microsoft 365 products, including Microsoft Outlook, Microsoft Word, Excel Microsoft PowerPoint, and OneNote. For more details on Microsoft 365 apps usage fields and their descriptions, see [Microsoft 365 Apps Usage Reports](m365-apps-usage-report.md).
 
 
 These usage tables include the date when the software was last used and the type of the activities performed on the Desktop, Web, Mobile, or cumulative across platforms. The last activity data helps you select an optimized plan for individual products within your Microsoft 365 subscriptions. For related usage, the  **SAM - Collect Microsoft 365 Usage ** scheduled job collects the usage data daily.
@@ -47,7 +47,7 @@ Based on the software usage activity, Software Asset Management generates optimi
 
 ## License optimization for Microsoft subscriptions
 
-Software usage activity helps you with license optimization by discovering reclamation candidates from both the individual Microsoft products and the Microsoft 365 suite subscriptions. For more information, see [Publisher optimizations for Microsoft](../reference/pub-opt-microsoft.md). The  **SAM - Collect Microsoft 365 Usage ** scheduled job collects the usage data daily and the  **SAM - Create New Reclamation Candidates for Office 365 Integration**  generates the removal candidates weekly for low usage, downgrade, consolidated, and overlapping subscriptions. You can determine the reclamation candidates using both APIs and discovery solutions.
+Software usage activity helps you with license optimization by discovering reclamation candidates from both the individual Microsoft products and the Microsoft 365 suite subscriptions. For more information, see [Publisher optimizations for Microsoft](pub-opt-microsoft.md). The  **SAM - Collect Microsoft 365 Usage ** scheduled job collects the usage data daily and the  **SAM - Create New Reclamation Candidates for Office 365 Integration**  generates the removal candidates weekly for low usage, downgrade, consolidated, and overlapping subscriptions. You can determine the reclamation candidates using both APIs and discovery solutions.
 
 -   **Overlapping subscriptions**
 
@@ -117,12 +117,12 @@ Microsoft Exchange Online \(mailbox\) and Microsoft OneDrive size
 
 </td><td>
 
-Microsoft 365 E3 to Microsoft 365 F3If a user's mailbox size and OneDrive size is less than two gigabytes \(GB\), a downgrade recommendation is generated. The usage is retrieved from the Software storage usage \[saas\_sw\_storage\_usage\] table. For more information, see [Software storage usage fields](../reference/software-storage-usage.md).
+Microsoft 365 E3 to Microsoft 365 F3If a user's mailbox size and OneDrive size is less than two gigabytes \(GB\), a downgrade recommendation is generated. The usage is retrieved from the Software storage usage \[saas\_sw\_storage\_usage\] table. For more information, see [Software storage usage fields](software-storage-usage.md).
 
 </td></tr></tbody>
-</table>    Additionally, you can view the Microsoft 365 and Office 365 downgrade candidates, including details about the source edition and the target edition in the [Subscription downgrade configuration \[saas\_downgrade\_configuration\]](../reference/saas-downgrade-configuration.md) table.
+</table>    Additionally, you can view the Microsoft 365 and Office 365 downgrade candidates, including details about the source edition and the target edition in the [Subscription downgrade configuration \[saas\_downgrade\_configuration\]](saas-downgrade-configuration.md) table.
 
-    You can view the conditions for downgrading the Microsoft 365 and Office 365 subscriptions in the [Subscription downgrade configuration condition \[saas\_downgrade\_config\_condition\]](../reference/saas-downgrade-config-conditions.md) table.
+    You can view the conditions for downgrading the Microsoft 365 and Office 365 subscriptions in the [Subscription downgrade configuration condition \[saas\_downgrade\_config\_condition\]](saas-downgrade-config-conditions.md) table.
 
     **Note:** You can also determine usage for Microsoft Access and Publisher from additional discovery solutions, such as Microsoft SCCM or ACC-V for E3 to E1 optimization. Here, the frequency of downgrade candidate generation from E3 to E1 would be monthly instead of weekly.
 
@@ -138,9 +138,9 @@ Additionally, the subscription assignment date that is automatically populated f
 
 [Integrating with Microsoft 365](integrate-with-microsoft.md)
 
-[Publisher optimizations for Microsoft](../reference/pub-opt-microsoft.md)
+[Publisher optimizations for Microsoft](pub-opt-microsoft.md)
 
-[Reclamation rules for Microsoft 365 integration](../reference/m365-reclamation-rules.md)
+[Reclamation rules for Microsoft 365 integration](m365-reclamation-rules.md)
 
-[Scheduled jobs for Microsoft 365](../reference/m365-scheduled-jobs.md)
+[Scheduled jobs for Microsoft 365](m365-scheduled-jobs.md)
 

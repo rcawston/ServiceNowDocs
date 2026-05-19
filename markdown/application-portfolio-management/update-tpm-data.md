@@ -46,7 +46,7 @@ On selecting a TPM lifecycle record identifier, more information on the TPM life
 
 An on-demand job starts to update the TPM data.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
 **Related topics**  
 

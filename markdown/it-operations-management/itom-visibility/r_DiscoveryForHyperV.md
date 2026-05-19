@@ -158,7 +158,7 @@ The parent Windows Servers table reflects the physical cores, while the Hyper-V 
 </td></tr></tbody>
 </table>## Credentials
 
-Configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) with Domain administrator rights. You should also [Enable PowerShell](r_PowerShellForDiscovery.md) for the MID Server used to discover Hyper-V servers and instances.
+Configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) with Domain administrator rights. You should also [Enable PowerShell](../discovery/r_PowerShellForDiscovery.md) for the MID Server used to discover Hyper-V servers and instances.
 
 ## Classifier, probes, and pattern
 
@@ -198,7 +198,7 @@ Hyper-V Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -501,7 +501,7 @@ Contains data about various objects associated with a Hyper-V server, such as pa
 |Windows Servers \[cmdb\_ci\_win\_server\]|Instantiates::Instantiated by|Hyper-V Virtual Machine Instance \[cmdb\_ci\_hyper\_v\_instance\]|
 |Windows Servers \[cmdb\_ci\_win\_server\]|Virtualized by::Virtualizes|Hyper-V Server \[cmdb\_ci\_hyper\_v\_server\]|
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](c_Computers.md)
 
 ## Clone Hyper-V virtual machines
 

@@ -23,5 +23,5 @@ The following provides an example of a standard catalog item to request a parkin
 
 ![Sample standard catalog item](../image/standard-cat-item-example.png)
 
-**Parent Topic:**[Add a standard catalog item](../task/add-standard-catalog-item.md)
+**Parent Topic:**[Add a standard catalog item](add-standard-catalog-item.md)
 

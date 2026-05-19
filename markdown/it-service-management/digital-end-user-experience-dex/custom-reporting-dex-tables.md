@@ -404,5 +404,5 @@ DEX
 Device metrics provide details on memory usage, virtual memory, and device stability, including antivirus status, firewall status, system uptime, and power plan configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital End-User Experience reference](../concept/dex-reference.md)
+</table>**Parent Topic:**[Digital End-User Experience reference](dex-reference.md)
 

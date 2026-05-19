@@ -23,7 +23,7 @@ Role required: system\_scheduler\_admin
 
 If the task remains inactive, the monitor repeats at regular intervals. User updates to the task record restart the monitor. If reset conditions you defined for it have not been met, the monitor does not restart when you update the task record. Inactivity monitors only apply to records on tables that extend the `Task` table, or the `Task` table itself.
 
-When an inactivity monitor triggers, it generates an event in the form `<tablename>.inactivity` \(for example, `incident.inactivity`\). Define an [Email and SMS notifications](../../notification/concept/c_EmailNotifications.md) or script action to drive further action for the inactivity monitor.
+When an inactivity monitor triggers, it generates an event in the form `<tablename>.inactivity` \(for example, `incident.inactivity`\). Define an [Email and SMS notifications](../c_EmailNotifications.md) or script action to drive further action for the inactivity monitor.
 
 A record's activity is only based on user updates. System updates do not count as activity.
 
@@ -54,13 +54,13 @@ If multiple inactivity monitors do match a task record, one of the inactivity mo
     **Note:** If you change conditions on an inactivity monitor, the monitor stops tracking previously tracked records. It does not track records that you created before the inactivity monitor, even if the record meets all other conditions.
 
 
--   **[Escalation intervals and pause conditions](../concept/c_EscalationIntervsAndPauseConds.md)**  
+-   **[Escalation intervals and pause conditions](c_EscalationIntervsAndPauseConds.md)**  
 Escalation Intervals and Pause Conditions are not relevant to an inactivity monitor.
 
-**Parent Topic:**[Event scheduling](../concept/c_ScheduleEvents.md)
+**Parent Topic:**[Event scheduling](c_ScheduleEvents.md)
 
 **Related topics**  
 
 
-[Event registry](../../platform-events/reference/r_EventRegistry.md)
+[Event registry](r_EventRegistry.md)
 

@@ -33,5 +33,5 @@ The following data is collected on the Exchange Client Access Server `[cmdb_ci_e
 |Installation directory|install\_directory|
 |Type|type|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](c_Software.md)
 

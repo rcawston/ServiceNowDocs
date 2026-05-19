@@ -39,11 +39,11 @@ The methods in the connectors interact at different levels in the applications.
 
 To access the various methods, you must first configure the connectors.
 
--   [Configure the Chromium connector](../task/configure-chrome-connector.md)
--   [Configure the Internet Explorer connector](../task/configure-internet-explorer-connector.md)
--   [Configure the Java connector](../task/configure-java-connector.md)
+-   [Configure the Chromium connector](configure-chrome-connector.md)
+-   [Configure the Internet Explorer connector](configure-internet-explorer-connector.md)
+-   [Configure the Java connector](configure-java-connector.md)
 -   [Configure the Terminal connector](configure-terminal-connector.md)
--   [Configure Windows connector](../task/configure-windows-connector.md)
+-   [Configure Windows connector](configure-windows-connector.md)
 
 ## Expose the methods at different levels
 
@@ -51,5 +51,5 @@ After configuration, you can expose the methods at different levels. The methods
 
 ![Methods at all levels.](../image/methods-all-levels.png)
 
-**Parent Topic:**[Use a connector in RPA Desktop Design Studio](../task/use-connector.md)
+**Parent Topic:**[Use a connector in RPA Desktop Design Studio](use-connector.md)
 

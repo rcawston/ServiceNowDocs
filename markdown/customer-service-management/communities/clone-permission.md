@@ -30,5 +30,5 @@ Role required: sn\_communities.forum\_admin
     A new permission with the same access types as the source permission is created. The permission record name starts with **Clone of**.
 
 
-**Parent Topic:**[Forum and user permissions management](../concept/communities-permissions.md)
+**Parent Topic:**[Forum and user permissions management](communities-permissions.md)
 

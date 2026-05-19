@@ -79,16 +79,16 @@ The three device OS groups with lowest experience scores and the changes in scor
     For more information, see [Track experience scores of an individual device group](dexscr-track-device-group-experience.md).
 
 
-**Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](../concept/dexscr-using-dex-score.md)
+**Parent Topic:**[Tracking digital experience using Digital Experience Score​ dashboard](dexscr-using-dex-score.md)
 
 **Related topics**  
 
 
 [Track experience scores of an individual device group](dexscr-track-device-group-experience.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](dexscr-dex-score-defs.md)
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](dexscr-dex-score-normalization.md)
 

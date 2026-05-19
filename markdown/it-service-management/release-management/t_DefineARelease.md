@@ -69,7 +69,7 @@ State
 
 </td><td>
 
-State of the release such as Draft, Work in progress, testing, or others.If you want to customize the options in this list, reach out to your admin. Custom states can be added according to the default state categories of the release table. [Learn more about the default states of the release table.](../reference/default-state-categories-for-release-and-release-task-tables.md)
+State of the release such as Draft, Work in progress, testing, or others.If you want to customize the options in this list, reach out to your admin. Custom states can be added according to the default state categories of the release table. [Learn more about the default states of the release table.](default-state-categories-for-release-and-release-task-tables.md)
 
 </td></tr><tr><td>
 
@@ -136,5 +136,5 @@ Duration of the release in days. When you submit the form, this field auto-popul
 -   [Define a release phase in Release Management](t_DefineAReleasePhase.md).
 -   [Define scope of a release in Release Management](t_ScopeARelease.md).
 
-**Parent Topic:**[Using Release Management v2](../concept/c_Release.md)
+**Parent Topic:**[Using Release Management v2](c_Release.md)
 

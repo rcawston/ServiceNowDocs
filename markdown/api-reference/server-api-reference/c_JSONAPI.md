@@ -48,7 +48,7 @@ var obj = JSON.parse(str);
 
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## JSON - JSON\(\)
 

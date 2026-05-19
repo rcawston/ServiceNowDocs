@@ -22,7 +22,7 @@ Role required: sn\_itom\_license.reader
 
 ## About this task
 
-ServiceNow incurs charges for the usage of ServiceNow OT Foundation, ServiceNow OT Visibility and ServiceNow OT Vulnerability and Response. To gain a deeper understanding of the products and features included in OTM subscriptions, see [Subscriptions for OTM](../concept/otm-license-module.md).
+ServiceNow incurs charges for the usage of ServiceNow OT Foundation, ServiceNow OT Visibility and ServiceNow OT Vulnerability and Response. To gain a deeper understanding of the products and features included in OTM subscriptions, see [Subscriptions for OTM](otm-license-module.md).
 
 The procedure for gathering and consolidating data for licensing purposes involves the following series of actions:
 

@@ -33,5 +33,5 @@ Error Codes are related to a transformation. Not all errors produce error codes.
 -   **800** Invalid target record or field.
 -   **900** Transform script error.
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

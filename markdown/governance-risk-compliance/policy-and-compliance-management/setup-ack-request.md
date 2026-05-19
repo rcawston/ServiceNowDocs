@@ -155,5 +155,5 @@ This tab shows details and requirements from the policy, as well as the **Refere
 -   **[Create an audience](create-audience.md)**  
 When you set up a policy acknowledgement request, you must identify an audience responsible for providing the acknowledgement.
 
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](ack-policy.md)
 

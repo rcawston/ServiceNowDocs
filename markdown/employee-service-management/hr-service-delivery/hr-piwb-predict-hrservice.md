@@ -132,5 +132,5 @@ Role required: sn\_piwb\_hr\_content.admin
     **Note:** For details regarding trained use case integration implementation, refer to Predictive Intelligence Workbench integration and customization.
 
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](hr-piwb-implementation-guidance.md)
 

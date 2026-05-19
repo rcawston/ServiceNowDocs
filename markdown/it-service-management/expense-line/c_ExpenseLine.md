@@ -25,25 +25,25 @@ Expense lines integrate closely with asset management, CMDB, cost management, an
 
 ![Expense line for a monthly lease](../image/ExpenseLines.png "Example expense line for an asset monthly lease")
 
--   **[Components installed with Expense Line](../../expense-line/reference/r_InstalledWithExpenseLine.md#)**  
+-   **[Components installed with Expense Line](r_InstalledWithExpenseLine.md#)**  
 Several types of components are installed with the Expense Line plugin.
--   **[View an expense](../task/t_ExpenseLinesExample.md)**  
+-   **[View an expense](t_ExpenseLinesExample.md)**  
 Expense lines can be used in various ways, for example, how to view expenses that are associated with a given contract.
--   **[Expense lines and expense allocations](../../expense-line/concept/c_ExpenseLinesAndAllocations.md)**  
+-   **[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)**  
 The Expense lines application tracks costs and record expenses incurred. Expense allocations let you associate expenses with items such as users, groups, or departments.
--   **[Domain separation and Expense Line](../../expense-line/concept/domain-separation-expense-line.md)**  
+-   **[Domain separation and Expense Line](domain-separation-expense-line.md)**  
 Domain separation is unsupported in Expense Line processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](../r_ITServiceManagement.md)
 
 **Related topics**  
 
 
-[Asset Management](../../asset-management/concept/c_AssetManagement.md)
+[Asset Management](../asset-management/c_AssetManagement.md)
 
 [Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md)
 
 [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-[Contract Management](../../contract-management/concept/c_ContractManagement.md)
+[Contract Management](../contract-management/c_ContractManagement.md)
 

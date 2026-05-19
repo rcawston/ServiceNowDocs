@@ -40,7 +40,7 @@ You can perform the following actions in Table Builder:
     **Note:** This feature is only available if your licensing entitles you to "exclusive low code capability" and you have Table Builder for App Engine installed. Contact your Solutions consultant for more information.
 
 
-See [Data in Table Builder](../../../administer/form-builder/concept/table-builder.md) for more information on editing tables in Table Builder.
+See [Data in Table Builder](../form-builder-glide-family-release/table-builder.md) for more information on editing tables in Table Builder.
 
 **Note:** To delete a table from your application, select the Additional actions icon \(![Additional actions.](../image/edit-data-ellipsis-icon.png)\) for an existing table in your application, and then select **Delete** and follow the instructions.
 

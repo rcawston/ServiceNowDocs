@@ -17,7 +17,7 @@ The Email Search and Delete capability has one flow that executes the email sear
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus. Additionally, if none of the **Email Search and Delete** capability implementations are active, the **Email Search** related link on a security incident is not displayed.
 
--   **[Security Operations Integration - Email Search and Delete flow](../task/secops-integ-email-search-delete.md)**  
+-   **[Security Operations Integration - Email Search and Delete flow](secops-integ-email-search-delete.md)**  
 The Security Operations Integration - Email Search and Delete flow returns the number of threat emails from an email server search and, optionally, return details for each email found. After the email search is completed, you can delete the emails.
 
 **Parent Topic:**[Integration capabilities](integration-capabilities.md)
@@ -43,5 +43,5 @@ The Security Operations Integration - Email Search and Delete flow returns the n
 
 [Security Operations Integration - Threat Lookup capability](sec-ops-threat-lookups-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](change-wf-execution-order.md)
 

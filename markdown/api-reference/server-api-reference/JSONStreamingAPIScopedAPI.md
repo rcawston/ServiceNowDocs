@@ -19,7 +19,7 @@ Use these methods in the Workflow Studio script step with the `sn_ih` namespace 
 
 You can only use this API within the Workflow Studio environment.
 
-To use this class, you must call the build\(\) method in the JSONStreamingBuilder class to return a JSONStreamingAPI object. See [JSONStreamingBuilder - Scoped](../../JSONStreamingBuilder/concept/JSONStreamingBuilderScopedAPI.md#).
+To use this class, you must call the build\(\) method in the JSONStreamingBuilder class to return a JSONStreamingAPI object. See [JSONStreamingBuilder - Scoped](JSONStreamingBuilderScopedAPI.md#).
 
 ## API call order
 
@@ -170,7 +170,7 @@ Output:
 }
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## JSONStreamingAPI - close\(\)
 
@@ -533,7 +533,7 @@ finally {
 
 Returns the sys\_id of the attachment record in the Streaming Attachments \[streaming\_attachment\] table that contains the JSON payload.
 
-You must call the withAttachment\(\) method in the JSONStreamingBuilder class to save the JSON payload as an attachment before calling this method. See [JSONStreamingBuilder - Scoped](../../JSONStreamingBuilder/concept/JSONStreamingBuilderScopedAPI.md#).
+You must call the withAttachment\(\) method in the JSONStreamingBuilder class to save the JSON payload as an attachment before calling this method. See [JSONStreamingBuilder - Scoped](JSONStreamingBuilderScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -599,7 +599,7 @@ finally {
 
 Returns the JSON object as a string.
 
-To return the JSON object as a string, do not call the withAttachment\(\) method in the JSONStreamingBuilder class. See [JSONStreamingBuilder - Scoped](../../JSONStreamingBuilder/concept/JSONStreamingBuilderScopedAPI.md#).
+To return the JSON object as a string, do not call the withAttachment\(\) method in the JSONStreamingBuilder class. See [JSONStreamingBuilder - Scoped](JSONStreamingBuilderScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

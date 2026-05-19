@@ -31,7 +31,7 @@ With KPI groups, you can analyze the performance of each solution in several way
     -   Last collected scores for all values in each KPI breakdown grid.
     -   Last 30 days of scores for trends and time series visualizations. You can set different time rangers per KPI.
     -   The date the score was collected \(shows on each KPI indicator card\).
-    **Note:** Starting with the June 2024 release of DPM, the latest score system property is set to true for new and zBoot customers. If not applicable, then the DPM admin can enable the latest score system property by navigating to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **KPI groups properties**. For more admin information, see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md).
+    **Note:** Starting with the June 2024 release of DPM, the latest score system property is set to true for new and zBoot customers. If not applicable, then the DPM admin can enable the latest score system property by navigating to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **KPI groups properties**. For more admin information, see [Configure the Digital Portfolio Management experience](dpm-configure-experience.md).
 
     When you access KPI drill down information in DPM, the system adds a timestamp at the end of the URL in the browser address field. The timestamp is in milliseconds and is based off epoch time.
 
@@ -50,7 +50,7 @@ Two KPI groups enable flexible reporting on solutions in enterprise portfolios.
 
     The business application KPI group type \[**Business application performance**\] enables you to track the number of incidents, problems, and changes for a business application. You can see these performance metrics in the **Run** tab of a business application on the DPM Workspace.
 
-    **Important:** You must map the business application performance KPI group to your business applications to show the data on the **Run** tab. For more information, see [Create KPI groups and mappings in Digital Portfolio Management](../task/dpm-create-kpi-groups.md).
+    **Important:** You must map the business application performance KPI group to your business applications to show the data on the **Run** tab. For more information, see [Create KPI groups and mappings in Digital Portfolio Management](dpm-create-kpi-groups.md).
 
 
 **Note:** The business application performance KPI group replaces the metrics used prior to the Utah release. Since you can create and edit KPI groups and map them to business applications, it provides more flexibility to configure your reporting. You don't need to edit the page in UIB to change the metrics.
@@ -69,13 +69,13 @@ KPI groups aren’t inherited for service instances, but you can do the followin
 **Related topics**  
 
 
-[Update KPIs in Digital Portfolio Management](../task/dpm-kpi-descriptions.md)
+[Update KPIs in Digital Portfolio Management](dpm-kpi-descriptions.md)
 
 [Navigate portfolio types in Digital Portfolio Management](dpm-navigating-enterprise-portfolios.md)
 
-[KPI groups installed with Digital Portfolio Management](../reference/dpm-kpi-groups-oob.md)
+[KPI groups installed with Digital Portfolio Management](dpm-kpi-groups-oob.md)
 
-[Create KPI groups and mappings in Digital Portfolio Management](../task/dpm-create-kpi-groups.md)
+[Create KPI groups and mappings in Digital Portfolio Management](dpm-create-kpi-groups.md)
 
-[Configure KPIs in Digital Portfolio Management with service availability example](../task/dpm-configure-kpi-availability.md)
+[Configure KPIs in Digital Portfolio Management with service availability example](dpm-configure-kpi-availability.md)
 

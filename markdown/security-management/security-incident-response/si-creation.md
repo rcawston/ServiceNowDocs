@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Manually created from the Security Incident list](../task/t_ManuallyCreateSecurityIncident.md)
+[Manually created from the Security Incident list](t_ManuallyCreateSecurityIncident.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ On the Security Incident list, select **New** to create a new security incident.
 
 </td></tr><tr><td>
 
-[Manually created from the Security Incident Catalog](../task/manual-si-creation-catalog.md)
+[Manually created from the Security Incident Catalog](manual-si-creation-catalog.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ On the Incident form in incident management, select **Create Security Incident**
 
 </td></tr><tr><td>
 
-[Manually converted from a security request](../task/t_CreateSecurityIncidentRequest.md)
+[Manually converted from a security request](t_CreateSecurityIncidentRequest.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ On the Security Request form, select **Convert to Security Incident** to create 
 
 </td></tr><tr><td>
 
-[Manually created from an Event Management alert](../task/manually-create-si-from-em-alert.md)
+[Manually created from an Event Management alert](manually-create-si-from-em-alert.md)
 
 </td><td>
 

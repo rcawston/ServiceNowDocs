@@ -84,5 +84,5 @@ Your connector admin needs these items to configure a Fluid Topics external cont
 
 For details on creating and configuring a Fluid Topics external content connector, see [Create a Fluid Topics external content connector](create-ext-cont-connector-fluid-topics.md).
 
-**Parent Topic:**[Fluid Topics external content connector](../concept/fluid-topics-external-content-connector.md)
+**Parent Topic:**[Fluid Topics external content connector](fluid-topics-external-content-connector.md)
 

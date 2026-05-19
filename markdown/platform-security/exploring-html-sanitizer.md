@@ -35,7 +35,7 @@ For example:
 <a href="https://community.servicenow.com/community">ServiceNow Community</a>
 ```
 
-**Note:** To learn more about the **glide.html.sanitize\_all\_fields** property that controls use of the HTML sanitizer, see [Enable HTML Sanitizer \[Updated in Security Center 1.3\]](../../security-center/reference/sc-html-sanitizer.md) in Instance Security Hardening Settings.
+**Note:** To learn more about the **glide.html.sanitize\_all\_fields** property that controls use of the HTML sanitizer, see [Enable HTML Sanitizer \[Updated in Security Center 1.3\]](instance-security-hardening-settings/sc-html-sanitizer.md) in Instance Security Hardening Settings.
 
 ## Configure urlAttributes and the protocols
 

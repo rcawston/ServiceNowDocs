@@ -41,7 +41,7 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[View management](../concept/view-management-overview.md)
+**Parent Topic:**[View management](view-management-overview.md)
 
 ## Restrict view by role
 

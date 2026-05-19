@@ -74,7 +74,7 @@ If you haven't added authentication credentials and an alias on your system yet,
 npx @servicenow/sdk auth --add <instance>
 ```
 
- For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md).
+ For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](authenticate-instance-now-sdk.md).
 
 </td></tr><tr><td id="d238989e248">
 
@@ -96,7 +96,7 @@ npx @servicenow/sdk init
 
 Install the ServiceNow Fluent Language server to get language processing and validation for ServiceNow Fluent in Visual Studio Code. For more information, see [Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md).
 
-**Parent Topic:**[Configuring the ServiceNow SDK](../concept/configuring-servicenow-sdk.md)
+**Parent Topic:**[Configuring the ServiceNow SDK](configuring-servicenow-sdk.md)
 
 **Related topics**  
 

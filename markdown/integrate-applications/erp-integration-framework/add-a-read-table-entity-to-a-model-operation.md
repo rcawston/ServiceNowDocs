@@ -69,5 +69,5 @@ You must have already added the read operation before you can add an entity to i
         Deleting an entity removes all of its related field mappings and table joins.
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](add-an-entity-to-model.md)
 

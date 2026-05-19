@@ -27,5 +27,5 @@ Tap on the sections to process the incidents.
 **Related topics**  
 
 
-[Overdue changes](../task/overdue-change-mobile.md)
+[Overdue changes](overdue-change-mobile.md)
 

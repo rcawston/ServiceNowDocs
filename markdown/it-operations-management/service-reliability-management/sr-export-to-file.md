@@ -56,5 +56,5 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
     For **Download**: The pop-up begins exporting and the file appears in your Download directory. Depending on the size of the file, it might take some time. You can open it in any application that supports the file format.
 
 
-**Parent Topic:**[SRM interface](../concept/sr-navigate-interface.md)
+**Parent Topic:**[SRM interface](sr-navigate-interface.md)
 

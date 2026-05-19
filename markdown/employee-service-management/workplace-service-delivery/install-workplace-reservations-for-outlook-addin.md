@@ -61,7 +61,7 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ Thresholds use color-coded indicators to signify different levels of perform
 
 **Important:**
 
-Threshold fields and metric status are not evaluated for ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](../reference/ad-hoc-metric-data-task-limitations.md).
+Threshold fields and metric status are not evaluated for ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](ad-hoc-metric-data-task-limitations.md).
 
 ## Types of thresholds
 
@@ -29,7 +29,7 @@ The two types of threshold for a metric are static and dynamic:
 **Related topics**  
 
 
-[Create a threshold for a metric](../task/create-a-threshold-for-a-metric.md)
+[Create a threshold for a metric](create-a-threshold-for-a-metric.md)
 
-[Copy a threshold](../task/copy-thresholds.md)
+[Copy a threshold](copy-thresholds.md)
 

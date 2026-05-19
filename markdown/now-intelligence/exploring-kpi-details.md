@@ -27,8 +27,8 @@ KPI Details lets you answer questions such as:
 
 Learn how to use KPI Details to accomplish the following tasks:
 
--   [Review the overall health of an indicator](../reference/chart-options.md).
--   [Explore trends for any indicator](../reference/kpi-details-components.md).
+-   [Review the overall health of an indicator](chart-options.md).
+-   [Explore trends for any indicator](kpi-details-components.md).
 -   [Review individual records corresponding to any date](show-compare-edit-records.md#).
 -   Manage [Indicator targets and thresholds in KPI Details](kpi-details-targets.md) for your indicators.
 

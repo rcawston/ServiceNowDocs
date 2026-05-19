@@ -36,11 +36,11 @@ Role required: sn\_fin\_ops.specialist
 
 ## Result
 
-The details of finance cases are displayed on the **Details** tab of the Finance Operations Workspace. For more information, see [Finance Operations Workspace Case Details page](../concept/case-details-fin-ops-ws.md).
+The details of finance cases are displayed on the **Details** tab of the Finance Operations Workspace. For more information, see [Finance Operations Workspace Case Details page](case-details-fin-ops-ws.md).
 
 ![View a finance case](../image/fin-ops-view-case.png)
 
 If you have access to the Source-to-Pay Workspace, you can see invoice, procurement, and supplier cases in the list. If you open any of these cases, the details of the case are displayed in the Source-to-Pay Workspace.
 
-**Parent Topic:**[Finance Operations Workspace list page](../concept/fin-ops-ws-list-page.md)
+**Parent Topic:**[Finance Operations Workspace list page](fin-ops-ws-list-page.md)
 

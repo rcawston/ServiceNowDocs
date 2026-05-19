@@ -100,11 +100,11 @@ Selected version of the knowledge block. This field appears when the article ver
 </table>**Related topics**  
 
 
-[View a knowledge block in Agent Workspace](../task/view-block-agent.md)
+[View a knowledge block in Agent Workspace](view-block-agent.md)
 
-[Create a knowledge block in Agent Workspace](../task/create-knowledge-block-workspace.md)
+[Create a knowledge block in Agent Workspace](create-knowledge-block-workspace.md)
 
-[Edit a knowledge block in Agent Workspace](../task/edit-knowledge-block-workspace.md)
+[Edit a knowledge block in Agent Workspace](edit-knowledge-block-workspace.md)
 
-[Publish a knowledge block in Agent Workspace](../task/publish-block-agent.md)
+[Publish a knowledge block in Agent Workspace](publish-block-agent.md)
 

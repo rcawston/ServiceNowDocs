@@ -27,13 +27,13 @@ Service Operations Workspace contains incidents, cases, and tasks that an agent 
 -   If you are on a version prior to 4.0, you can change the Incident record page using **Record SNC** in the UI Builder.
 -   ServiceNow doesn’t recommend customizing the Incident record page using methods such as **Record SNC** or **SRP Record**. So, no support is provided for record page customizations.
 
--   **[Adding Declarative Actions on the Standard Record Page](../task/customize-srp-sow.md)**  
+-   **[Adding Declarative Actions on the Standard Record Page](customize-srp-sow.md)**  
 Adding declarative actions on the Incident page and the tabs inside the incident record page using the Standard Record Page \(SRP\) in the Service Operations Workspace.
--   **[Custom Modal Migration in Standard Record Page](../task/custom-modal-migration-srp.md)**  
+-   **[Custom Modal Migration in Standard Record Page](custom-modal-migration-srp.md)**  
 Modify the modal containers inside a record page in the Service Operations Workspace.
--   **[Modify the Record Page in the Service Operations Workspace using the Standard Record Page](../task/configure-record-page-order-sow.md)**  
+-   **[Modify the Record Page in the Service Operations Workspace using the Standard Record Page](configure-record-page-order-sow.md)**  
 Configure the order number and screen conditions of a record page using the Standard Record Page \(SRP\) in the Service Operations Workspace.
--   **[Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](../task/configure-agent-assist-tab-sow-srp.md)**  
+-   **[Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](configure-agent-assist-tab-sow-srp.md)**  
 Enable or disable the Agent Assist tab in the contextual side panel for the required record type using the Standard Record Page \(SRP\) in Service Operations Workspace.
 
 **Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](configuring-record-pages-sow-itsm.md)

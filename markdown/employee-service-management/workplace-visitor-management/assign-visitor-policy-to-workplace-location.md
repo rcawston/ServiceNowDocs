@@ -50,7 +50,7 @@ You can also assign visitor policy by selecting the workplace location in **Buil
 
     3.  On the Location Policy form, fill in the fields.
 
-        For a description of the field values, see [Location Policy form](../reference/location-policy-form.md).
+        For a description of the field values, see [Location Policy form](location-policy-form.md).
 
 
 ## Result

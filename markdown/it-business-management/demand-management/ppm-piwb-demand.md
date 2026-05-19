@@ -37,35 +37,35 @@ Role required: piwb\_manager
 
     Configure or train the **Similarity** solution for finding similar demands.
 
-    -   To configure the Similar Demands solution definition \(ml\_sn\_global\_global\_similar\_demands\), click **Configure**. For more information, see [Train the similarity solution for Demand Management to find similar demands](../../planning-and-policy/task/train-similarity-solution-dm.md).
+    -   To configure the Similar Demands solution definition \(ml\_sn\_global\_global\_similar\_demands\), click **Configure**. For more information, see [Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md).
     -   To train the Similar Demands solution definition \(ml\_sn\_global\_global\_similar\_demands\), click **Train**.
 
-**Parent Topic:**[Use Demand Management](../../planning-and-policy/reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../../planning-and-policy/concept/c_AssessingDemands.md)
+[Assess demands](c_AssessingDemands.md)
 
-[Create a demand](../../planning-and-policy/task/t_CreatingDemands.md)
+[Create a demand](t_CreatingDemands.md)
 
-[View demands](../../planning-and-policy/task/t_ViewDemands.md)
+[View demands](t_ViewDemands.md)
 
-[Add details to demands](../../planning-and-policy/concept/c_EnhancingDemands.md)
+[Add details to demands](c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../../planning-and-policy/concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](ridac-entries-for-demand.md)
 
-[Reset a demand to Draft state](../../planning-and-policy/task/reset-demand-to-draft-state.md)
+[Reset a demand to Draft state](reset-demand-to-draft-state.md)
 
-[Delete demands](../../planning-and-policy/task/t_DeletingDemands.md)
+[Delete demands](t_DeletingDemands.md)
 
-[Move and resize a demand](../../planning-and-policy/task/t_MoveAndResizeADemand.md)
+[Move and resize a demand](t_MoveAndResizeADemand.md)
 
-[Train the similarity solution for Demand Management to find similar demands](../../planning-and-policy/task/train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
 
-[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](../../planning-and-policy/task/identify-similar-demands.md)
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)](identify-similar-demands.md)
 
-[Summarize demands with demand summarization skill](../../planning-and-policy/task/demand-summary-demand-classic.md)
+[Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
 
-[Associate AI systems with demands](../../planning-and-policy/task/associate-ai-systems-with-demands.md)
+[Associate AI systems with demands](associate-ai-systems-with-demands.md)
 

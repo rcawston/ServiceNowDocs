@@ -38,7 +38,7 @@ Request REQ0000001: 4 items
     The **Requested Items** related list displays the items that were ordered. You can view the requested item, or view associated **Purchase Orders**, **Transfer Orders**, and **Assignments** on other related lists. A catalog task is automatically generated for each requested item to identify the source of the item, whether it must be purchased or transferred from a stockroom.
 
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](c_UseProcurement.md)
 
 **Related topics**  
 

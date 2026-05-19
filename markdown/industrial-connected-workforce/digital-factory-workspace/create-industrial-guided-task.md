@@ -31,7 +31,7 @@ Role required: sn\_icw\_igt.user or sn\_icw\_igt.expert
 
 4.  On the Guided Task form, fill in the fields.
 
-    For a description of the field values, see [Industrial Guided Task form](../reference/industrial-guided-task-form.md).
+    For a description of the field values, see [Industrial Guided Task form](industrial-guided-task-form.md).
 
 5.  Select **Save**.
 
@@ -44,5 +44,5 @@ The new industrial guided task is displayed in the following lists:
 -   List of industrial guided tasks
 -   The **Open tasks** tab for an Industrial Guided Task standard
 
-**Parent Topic:**[Using Industrial Guided Tasks](../concept/using-industrial-guided-tasks.md)
+**Parent Topic:**[Using Industrial Guided Tasks](using-industrial-guided-tasks.md)
 

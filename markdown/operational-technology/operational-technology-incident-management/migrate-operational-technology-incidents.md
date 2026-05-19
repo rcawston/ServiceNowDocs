@@ -37,5 +37,5 @@ Migrate Operational Technology incidents from the old incident table to the new 
 
 The Operational Technology incidents are migrated to the new incident table, and the Operational Technology Incident Management application no longer uses the old table.
 
-**Parent Topic:**[Configuring Operational Technology Incident Management](../concept/configuring-operational-technology-incident-mgt.md)
+**Parent Topic:**[Configuring Operational Technology Incident Management](configuring-operational-technology-incident-mgt.md)
 

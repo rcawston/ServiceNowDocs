@@ -25,7 +25,7 @@ Define colors for work order states
 
 By default, each work order task state is represented with a specific color. You can change colors for existing work order task states or define a color for a new state. The assigned work order state colors appear in the task card and calendar of Dispatcher Workspace.
 
-You can display events in their selected default color on Dispatcher Workspace calendar by configuring the **sn\_fsm\_disp\_wrkspc.agent\_shift\_schdlng\_event\_color** property. Different events can be created in the Workforce Optimization for Field Service application, such as agent's break, time-off, and more. For more information about property, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+You can display events in their selected default color on Dispatcher Workspace calendar by configuring the **sn\_fsm\_disp\_wrkspc.agent\_shift\_schdlng\_event\_color** property. Different events can be created in the Workforce Optimization for Field Service application, such as agent's break, time-off, and more. For more information about property, see [Workforce Optimization for Field Service components](components-wfo-fsm.md).
 
 ## Procedure
 

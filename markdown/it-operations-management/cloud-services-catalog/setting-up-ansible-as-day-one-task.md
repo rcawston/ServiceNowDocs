@@ -31,12 +31,12 @@ Role required: admin
 
 2.  Create Ansible tower credentials to be used in Ansible Discovery.
 
-    For more information, see [Configure Ansible Tower user name and password](../../cloud-management-v2/task/configure-ansible-creds.md).
+    For more information, see [Configure Ansible Tower user name and password](../cloud-configuration-governance/configure-ansible-creds.md).
 
 3.  Allow the extra variables and job templates to be overridden.
 
     The default Ansible job template must be overridden for the pipeline to work with a Cloud Services Catalog Ansible automation catalog item.
 
 
-**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](../concept/integrating-ansible-with-cloud-services-catalog.md)
+**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](integrating-ansible-with-cloud-services-catalog.md)
 

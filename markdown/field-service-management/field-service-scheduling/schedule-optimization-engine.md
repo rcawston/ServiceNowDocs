@@ -39,14 +39,14 @@ The following figure illustrates the high-level workflow of Schedule Optimizatio
 
 The steps to set up Schedule Optimization are:
 
-1.  Activate the Schedule Optimization plugin. For more information, see [Activate Schedule Optimization](../task/schedule-optimization-engine-plugin.md).
-2.  [Set the properties](../reference/schedule-optimization-properties.md) to control optimization behavior and performance in your instance.
-3.  Optionally, you can set up [Territory-Based Optimization](../task/territory-based-optimization.md), [Schedule Optimization with Workforce Optimization for Field Service](../task/schedule-optimization-with-workforce-optimization-for-field-service.md), and [Schedule Optimization for Planned Crews](../task/schedule-optimization-for-planned-crews.md) depending on your specific needs.
-4.  Create policies that define optimization goals through objectives and constraints. Objectives prioritize how tasks are assigned, such as minimizing travel time or maximizing task assignments. Constraints set rules that must be met before assigning tasks, such as required skills or availability. For more information, see [Create a policy for Schedule Optimization](../task/create-policies-schedule-optimization.md).
-5.  Configure scheduling attributes to define reusable optimization settings, including the default policy, travel estimate provider, and applicable qualifiers. For more information, see [Create a scheduling attribute for Schedule Optimization](../task/configure-scheduling-attributes.md).
-6.  Create scopes that define the scheduling attribute configuration and qualifiers for an optimization run. Scopes are required for batches to run. For more information, see [Create a scope for Schedule Optimization](../task/create-an-optimization-job-soe.md)
-7.  Create batches that define when optimization runs, including start date, run frequency, and start and end times. For more information, see [Create a batch for Schedule Optimization](../task/create-an-optimization-batch.md#).
-8.  Optionally, create intraday configurations to trigger optimization in response to schedule disruptions or enable on-demand optimization for dispatchers. For more information, see [Intraday optimization](../task/optimize-your-schedules-intraday.md).
+1.  Activate the Schedule Optimization plugin. For more information, see [Activate Schedule Optimization](schedule-optimization-engine-plugin.md).
+2.  [Set the properties](../schedule-optimization-properties.md) to control optimization behavior and performance in your instance.
+3.  Optionally, you can set up [Territory-Based Optimization](territory-based-optimization.md), [Schedule Optimization with Workforce Optimization for Field Service](schedule-optimization-with-workforce-optimization-for-field-service.md), and [Schedule Optimization for Planned Crews](schedule-optimization-for-planned-crews.md) depending on your specific needs.
+4.  Create policies that define optimization goals through objectives and constraints. Objectives prioritize how tasks are assigned, such as minimizing travel time or maximizing task assignments. Constraints set rules that must be met before assigning tasks, such as required skills or availability. For more information, see [Create a policy for Schedule Optimization](create-policies-schedule-optimization.md).
+5.  Configure scheduling attributes to define reusable optimization settings, including the default policy, travel estimate provider, and applicable qualifiers. For more information, see [Create a scheduling attribute for Schedule Optimization](configure-scheduling-attributes.md).
+6.  Create scopes that define the scheduling attribute configuration and qualifiers for an optimization run. Scopes are required for batches to run. For more information, see [Create a scope for Schedule Optimization](create-an-optimization-job-soe.md)
+7.  Create batches that define when optimization runs, including start date, run frequency, and start and end times. For more information, see [Create a batch for Schedule Optimization](create-an-optimization-batch.md#).
+8.  Optionally, create intraday configurations to trigger optimization in response to schedule disruptions or enable on-demand optimization for dispatchers. For more information, see [Intraday optimization](optimize-your-schedules-intraday.md).
 9.  Optionally, for large workloads or growing organizations, configure split qualifiers to distribute optimization across multiple parallel jobs and improve processing time. For more information, see [Running Schedule Optimization jobs for large workloads](splitting-territories-or-technicians.md).
 
 Schedule Optimization supports a high volume of tasks across all three optimization methods by default. If your scheduling needs require expanded capacity, you can contact support or submit a change control request to adjust the configuration.
@@ -54,7 +54,7 @@ Schedule Optimization supports a high volume of tasks across all three optimizat
 **Related topics**  
 
 
-[Schedule Optimization](schedule-optimization.md)
+[Schedule Optimization](../schedule-optimization.md)
 
-[Schedule Optimization components](../reference/schedule-optimization-components.md)
+[Schedule Optimization components](../schedule-optimization-components.md)
 

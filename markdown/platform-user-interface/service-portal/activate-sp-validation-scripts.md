@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Service Portal requires that the **UI Type** field be set to **All** or **Mobile / Service Portal**. Client Scripts marked as **Desktop** rely on legacy APIs that are not supported in Service Portal. Before flagging a script as Mobile / Service Portal or All, make sure you are only using supported client-side APIs. See [Supported client script types and APIs](../reference/client-script-reference.md).
+Service Portal requires that the **UI Type** field be set to **All** or **Mobile / Service Portal**. Client Scripts marked as **Desktop** rely on legacy APIs that are not supported in Service Portal. Before flagging a script as Mobile / Service Portal or All, make sure you are only using supported client-side APIs. See [Supported client script types and APIs](client-script-reference.md).
 
 **Note:** To change the UI Type from **Mobile / Service Portal** to **All**, delete the Desktop version from your instance to avoid activating conflicting scripts. Before deleting the Desktop version, make a backup in case you need to revert any changes.
 

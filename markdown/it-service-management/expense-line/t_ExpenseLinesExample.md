@@ -34,14 +34,14 @@ Role required: asset or contract\_manager
 4.  Select an expense line to view its details.
 
 
-**Parent Topic:**[Expense Line](../concept/c_ExpenseLine.md)
+**Parent Topic:**[Expense Line](c_ExpenseLine.md)
 
 **Related topics**  
 
 
-[Components installed with Expense Line](../../expense-line/reference/r_InstalledWithExpenseLine.md#)
+[Components installed with Expense Line](r_InstalledWithExpenseLine.md#)
 
-[Expense lines and expense allocations](../../expense-line/concept/c_ExpenseLinesAndAllocations.md)
+[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
-[Domain separation and Expense Line](../../expense-line/concept/domain-separation-expense-line.md)
+[Domain separation and Expense Line](domain-separation-expense-line.md)
 

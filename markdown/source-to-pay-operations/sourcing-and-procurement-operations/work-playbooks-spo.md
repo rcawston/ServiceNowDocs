@@ -15,15 +15,15 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 
 Playbooks provide a streamlined and consistent way of accomplishing various tasks, such as editing a purchase order, editing a purchase requisition, approving or rejecting cancellation requests, and so on.
 
--   **[Process a purchase order edit in playbook](../task/process-purchase-order.md)**  
+-   **[Process a purchase order edit in playbook](process-purchase-order.md)**  
 You can edit and revise the quantity of the product or delivery location of the purchase orders based on your requirements.
--   **[Process a purchase requisition edit request in playbook](../task/playbook-edit-request-flow.md)**  
+-   **[Process a purchase requisition edit request in playbook](playbook-edit-request-flow.md)**  
 Use the procurement playbook to approve or reject the revision requests for the quantity of the product or delivery location.
--   **[Process a return request in playbook](../task/playbook-return-request.md)**  
+-   **[Process a return request in playbook](playbook-return-request.md)**  
 Use the procurement playbook to approve or reject return requests.
--   **[Process a replacement request in playbook](../task/playbook-replacement-request.md)**  
+-   **[Process a replacement request in playbook](playbook-replacement-request.md)**  
 Use the procurement playbook to approve or reject replacement requests.
--   **[Process an edit receipt request in playbook](../task/playbook-process-edit-receipt.md)**  
+-   **[Process an edit receipt request in playbook](playbook-process-edit-receipt.md)**  
 You can revise previously approved receipts to correct any discrepancies, ensuring the delivery receipt accurately reflects the quantities received for a specific purchase order.
 -   **[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)**  
 Reduce manual effort by providing your procurement specialist with a playbook for attaching the contract from and sending it as an email to the employee who requested for it.
@@ -43,7 +43,7 @@ As procurement specialists, track activity on the Third-Party Risk Management \(
 **Related topics**  
 
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](use-shoppinghub-portal.md)
 
 [Using Shopping Hub Mobile](using-sh-mobile.md)
 

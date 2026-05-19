@@ -15,7 +15,7 @@ breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people a
 
 The Proactive Triggers feature uses rules and actions to trigger context-specific Virtual Agent conversations with end users on the web client.
 
-An admin enables the [Proactive Triggers](../task/enable-proactive-triggers.md) feature.
+An admin enables the [Proactive Triggers](enable-proactive-triggers.md) feature.
 
 An admin then creates rules and defines actions that are triggered by those rules. Admins can create multiple rules and actions. They also specify the end user that the rules and actions apply to.
 

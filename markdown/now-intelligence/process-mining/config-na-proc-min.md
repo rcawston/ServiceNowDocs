@@ -19,8 +19,8 @@ Configure Now Assist for Process Mining to use the feature.
 
 Configure how you can use the Now Assist for Process Mining in the first skill.
 
--   [Activate work notes analysis skill](../task/activate-na-skill.md)
--   [Configuring work notes analysis in Process Mining](../task/configure-worknotes.md)
+-   [Activate work notes analysis skill](activate-na-skill.md)
+-   [Configuring work notes analysis in Process Mining](configure-worknotes.md)
 
 ## Now Assist for Process Mining plugin
 

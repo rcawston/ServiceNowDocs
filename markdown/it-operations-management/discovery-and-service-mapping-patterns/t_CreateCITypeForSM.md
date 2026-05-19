@@ -212,8 +212,8 @@ Add conditions to construct a filter to narrow the set of records that will be s
 
 8.  Configure the CI classification for your CI type:
 
-    -   For CI types representing applications, perform configuration as described in [Create a Discovery process classification](../../discovery/task/t_CreateAProcessClassification.md).
-    -   For CI types representing SNMP devices, perform configuration as described in [Create a Discovery CI classification](../../discovery/task/create-discovery-ci-classification.md).
+    -   For CI types representing applications, perform configuration as described in [Create a Discovery process classification](../discovery/t_CreateAProcessClassification.md).
+    -   For CI types representing SNMP devices, perform configuration as described in [Create a Discovery CI classification](../discovery/create-discovery-ci-classification.md).
     **Note:** There is no need to create CI classifications for hosts because these classifications are included in the base system.
 
 9.  For CI types that represent inclusions, define the hierarchy for the new CI type.
@@ -227,9 +227,9 @@ Add conditions to construct a filter to narrow the set of records that will be s
     See [Create or modify map icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIcons.md).
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Password2 encryption for patterns](../concept/password2-encryption-patterns.md)
+**Previous topic:**[Password2 encryption for patterns](password2-encryption-patterns.md)
 
 **Next topic:**[Create entry point types for Service Mapping](t_CreateEntryPoint.md)
 

@@ -36,9 +36,9 @@ Role required: admin
 
     -   File encoding: Option to change or update your file encoding standard. Update the file encoding format only if there's an issue with the file encoding standard.
 
-**Parent Topic:**[Autocad import tool](../concept/autocad-ovw-v2.md)
+**Parent Topic:**[Autocad import tool](autocad-ovw-v2.md)
 
 **Previous topic:**[Import CAD configuration](import-cad-config.md)
 
-**Next topic:**[Bulk hierarchy upload](../concept/bulk-upload-hierarchy.md)
+**Next topic:**[Bulk hierarchy upload](bulk-upload-hierarchy.md)
 

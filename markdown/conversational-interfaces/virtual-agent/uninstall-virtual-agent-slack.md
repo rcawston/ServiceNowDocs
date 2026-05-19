@@ -50,5 +50,5 @@ Roles required:
     ServiceNow Virtual Agent integration with Slack is removed from your ServiceNow instance.
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](va-integ-slack.md)
 

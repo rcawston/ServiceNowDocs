@@ -44,5 +44,5 @@ Role required: admin or sp\_admin
     ![Widget editor IDE](../image/basic-widget.png)
 
 
-**Parent Topic:**[Developing custom widgets](../concept/widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
 

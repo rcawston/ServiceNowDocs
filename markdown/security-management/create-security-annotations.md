@@ -34,7 +34,7 @@ Role required: admin
     **Note:** You can add the same annotation to multiple CIs by selecting CIs on the list, choose **Add security annotation**, enter an annotation in any text format, and select **Submit**.
 
 
-**Parent Topic:**[Security annotations](../concept/security-annotations.md)
+**Parent Topic:**[Security annotations](security-annotations.md)
 
 **Related topics**  
 

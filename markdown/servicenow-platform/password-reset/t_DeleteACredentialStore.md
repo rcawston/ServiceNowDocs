@@ -26,5 +26,5 @@ Role required: password\_reset\_admin or password\_reset\_credential\_manager
 2.  In the Actions choice list, select **Delete**.
 
 
-**Parent Topic:**[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+**Parent Topic:**[Credential stores for Password Reset](c_CredentialStores.md)
 

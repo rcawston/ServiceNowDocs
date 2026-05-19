@@ -241,5 +241,5 @@ Webhook Registry\[sn\_int\_common\_webhook\_registry\]
 Stores details of the registry callback path for webhooks registered in Azure DevOps to receive event updates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](../concept/agile-azure-integration-overview.md)
+</table>**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](agile-azure-integration-overview.md)
 

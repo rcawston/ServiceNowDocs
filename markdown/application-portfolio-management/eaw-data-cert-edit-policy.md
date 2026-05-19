@@ -38,7 +38,7 @@ You can edit the draft or inactive certification policies.
 6.  Select **Save &amp; Exit** to save the policy as draft or select **Publish Policy** to publish the draft policy.
 
 
-**Parent Topic:**[Working with data certification](../../concept/eaw-concept/eaw-work-with-data-cert.md)
+**Parent Topic:**[Working with data certification](eaw-work-with-data-cert.md)
 
 **Related topics**  
 

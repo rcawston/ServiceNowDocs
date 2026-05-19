@@ -493,5 +493,5 @@ An example of Employee Document Import Map.
 
 When a connection to your source repository is confirmed and import maps are set up correctly, you can click **Start staging job** from Related Links.
 
-**Parent Topic:**[Employee document management bulk imports](../concept/edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](edm-bulk-uploads.md)
 

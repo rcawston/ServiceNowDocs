@@ -41,7 +41,7 @@ Step 2
 
 </td><td>
 
-[Create an app](../task/app-tutorial-create-an-app.md)
+[Create an app](app-tutorial-create-an-app.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Step 6
 
 </td><td>
 
-[Test your application](../task/app-tutorial-test-app.md)
+[Test your application](app-tutorial-test-app.md)
 
 </td></tr></tbody>
 </table>## Overview of logic and automation
@@ -112,7 +112,7 @@ Phase 1
 
 </td><td>
 
-[Build a decision table](../task/app-tutorial-create-decision-table.md)
+[Build a decision table](app-tutorial-create-decision-table.md)
 
 </td></tr><tr><td>
 
@@ -120,10 +120,10 @@ Phase 2
 
 </td><td>
 
-[Create a flow](../task/app-tutorial-create-a-flow.md#)
+[Create a flow](app-tutorial-create-a-flow.md#)
 
 </td></tr></tbody>
 </table>## Next steps
 
-Start adding logic and automation to the employee travel request application: [Build a decision table](../task/app-tutorial-create-decision-table.md).
+Start adding logic and automation to the employee travel request application: [Build a decision table](app-tutorial-create-decision-table.md).
 

@@ -52,5 +52,5 @@ Time to complete this task: 5 minutes.
 
 View the records that are displayed after your search for more details.
 
-**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](mobile-policy_compliance-ovrvw.md)
 

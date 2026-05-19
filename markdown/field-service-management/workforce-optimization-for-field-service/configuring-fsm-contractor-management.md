@@ -21,23 +21,23 @@ You can use guided setup to step through the initial configuration of Contractor
 
 The steps for configuring Contractor Management are:
 
-1.  [Activate Field Service Contractor Management](../task/activate-contractor-management-plugin.md)
-2.  [Onboard a contractor company](../task/onboard-contractor-company.md)
-3.  [Onboard an external manager](../task/onboard-external-manager.md)
-4.  [Create a work group for external field agents](../task/create-work-group.md)
-5.  [Add external assignment groups to the dispatch group](../task/add-external-assignment-group-to-disp-group.md)
-6.  [Onboard an external agent](../task/onboard-agent.md)
-7.  [Offboard an external agent](../task/offboard-agent.md)
+1.  [Activate Field Service Contractor Management](activate-contractor-management-plugin.md)
+2.  [Onboard a contractor company](onboard-contractor-company.md)
+3.  [Onboard an external manager](onboard-external-manager.md)
+4.  [Create a work group for external field agents](create-work-group.md)
+5.  [Add external assignment groups to the dispatch group](add-external-assignment-group-to-disp-group.md)
+6.  [Onboard an external agent](onboard-agent.md)
+7.  [Offboard an external agent](offboard-agent.md)
 8.  [Adding additional managers](adding-additional-managers.md#)
 
 **Related topics**  
 
 
-[Contractor Portal](field-service-contractor-portal.md)
+[Contractor Portal](../work-order-management/field-service-contractor-portal.md)
 
-[Work order tasks on the Field Service Contractor Portal](work-order-tasks.md)
+[Work order tasks on the Field Service Contractor Portal](../work-order-management/work-order-tasks.md)
 
-[Recording the usage of assets on the Contractor Portal](record-asset-usage-on-cp.md)
+[Recording the usage of assets on the Contractor Portal](../work-order-management/record-asset-usage-on-cp.md)
 
-[Requesting and receiving required parts](requesting-and-receiving-parts.md)
+[Requesting and receiving required parts](../work-order-management/requesting-and-receiving-parts.md)
 

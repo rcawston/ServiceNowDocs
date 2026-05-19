@@ -19,7 +19,7 @@ Create new tables directly from a Microsoft Excel spreadsheet import.
 
 -   Import a spreadsheet into App Engine Studio. See [Import a spreadsheet](spreadsheet-importing-spreadsheet.md).
 
-Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, sn\_app\_eng\_studio.user or delegated developer permissions. For more information, see [Delegate developers using AES](aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -136,7 +136,7 @@ Make extensible
 
 </td><td>
 
-Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](../concept/add-data.md#section_ebj_sdb_d5b).
+Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](add-data.md#section_ebj_sdb_d5b).
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
 7.  Control who has access to create, read, write, and delete content from this table by adding new roles and/or defining the desired Create, Read, Write, Delete permissions for existing roles.
 
-    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](../concept/add-security.md) for more information on how security permissions work.
+    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](add-security.md) for more information on how security permissions work.
 
     **Note:** At least one role must have read access for you to be able to preview the table.
 
@@ -193,7 +193,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
 ## What to do next
 
-For more information on editing your data tables in Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+For more information on editing your data tables in Table Builder, see [Table Builder](../form-builder-glide-family-release/tb-landing-page.md).
 
 **Parent Topic:**[Use a spreadsheet to add data](upload-multi-sheets.md)
 

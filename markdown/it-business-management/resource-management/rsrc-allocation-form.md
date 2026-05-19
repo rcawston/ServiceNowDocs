@@ -86,7 +86,7 @@ Planned cost of the resource.
  `Planned Cost = Planned hours * hourly rate`The hourly rate is derived from one of the following sources:
 
 -   **Resource rate** from the resource plan, if the **Rate override** option is selected.
--   [Rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md), if it is populated on the project or demand to which the resource plan is associated.
+-   [Rate model](../rate-model/rate-model.md), if it is populated on the project or demand to which the resource plan is associated.
 -   Labor rate card, if rate model is not available.
 -   System property **com.snc.time\_card.default\_rate** if all the other conditions fail.
 
@@ -132,5 +132,5 @@ Confirmed/Allocated cost in project currency
 Confirmed/Allocated cost of a project task in project currency when the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin is activated and Project Currency view is enabled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](rsrc-mgmt-reference.md)
 

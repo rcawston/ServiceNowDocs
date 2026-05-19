@@ -92,5 +92,5 @@ If you found that the recommended actions was helpful, select the helpful icon. 
     Once you have dismissed all the actions, a message appears mentioning that all recommendations have been dismissed.
 
 
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](using-now-assist-sam.md)
 

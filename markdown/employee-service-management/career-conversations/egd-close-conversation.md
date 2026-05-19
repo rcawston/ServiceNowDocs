@@ -17,7 +17,7 @@ As a manager, you can mark a conversation as completed to easily reference it fo
 
 ## Before you begin
 
-You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](../talent-development-core/egd-employee-profile-licensing.md).
 
 Role required: manager \[sn\_egd\_act.manager\]
 
@@ -65,5 +65,5 @@ Conversations landing page
 </table>3.  In the **Closing thoughts** window, enter last thoughts to share with the employee and select **Complete conversation**.
 
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](egd-activities-use.md)
 

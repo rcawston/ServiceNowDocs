@@ -20,7 +20,7 @@ Customize how license expiration dates for Fortinet devices are stored on CIs by
 
 Role required: tsom\_visibility\_admin
 
-Service Graph Connector for Fortinet is installed. For instructions, see [Configure a Fortinet SD-WAN Service Graph Connector](../concept/configure-fortinet-service-graph-connector.md).
+Service Graph Connector for Fortinet is installed. For instructions, see [Configure a Fortinet SD-WAN Service Graph Connector](configure-fortinet-service-graph-connector.md).
 
 ## About this task
 

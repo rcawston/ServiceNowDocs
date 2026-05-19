@@ -17,8 +17,8 @@ Use the Identity Provider attributes that are received from the Security Asserti
 
 To fetch all the attributes from an IdP through the SAML response, you should perform a test connection with the IdP. After a successful test connection, the attributes are added in a new tab in the Identity Provider configuration page.
 
--   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](session-access.md).
--   IdP attribute filter criteria can be used in [Post-authentication context](post-auth-context.md), [Zero Trust Access \(ZTA\)](session-access.md) session relegation, and [Multi-factor Authentication context](mfa-auth-context.md).
+-   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](../session-access.md).
+-   IdP attribute filter criteria can be used in [Post-authentication context](post-auth-context.md), [Zero Trust Access \(ZTA\)](../session-access.md) session relegation, and [Multi-factor Authentication context](mfa-auth-context.md).
 
 ![Identity Provider](../images/identity-provider-attributes.png)
 

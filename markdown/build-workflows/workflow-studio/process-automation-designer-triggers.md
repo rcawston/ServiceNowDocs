@@ -17,11 +17,11 @@ Triggers specify when to start running your playbook.
 
 In Playbooks, triggers indicate when your playbook should start running. Each trigger has a type and conditions that, when met, start running your activated playbook.
 
-You choose one or more triggers when you create a playbook in Workflow Studio. To add a trigger, start by choosing the trigger type. Then, set conditions and other options to refine your trigger so that it fires in a way that makes sense for your business process. Repeat if you want your playbook to run based on multiple triggers. For more information, see [Create a process definition](../task/create-process-definition.md).
+You choose one or more triggers when you create a playbook in Workflow Studio. To add a trigger, start by choosing the trigger type. Then, set conditions and other options to refine your trigger so that it fires in a way that makes sense for your business process. Repeat if you want your playbook to run based on multiple triggers. For more information, see [Create a process definition](create-process-definition.md).
 
 **Note:** You can also configure and activate a playbook without any trigger, if you're planning to only trigger the playbook via API.
 
-If you don't see a trigger that fits your use case, you can also create your own trigger definition instead. For more information, see [Create a trigger definition](../task/create-trigger-definition.md).
+If you don't see a trigger that fits your use case, you can also create your own trigger definition instead. For more information, see [Create a trigger definition](create-trigger-definition.md).
 
 ## Trigger types
 
@@ -100,11 +100,11 @@ Refer to these design considerations when working with triggers:
     Record triggers ignore records that were added or updated by applying an update set or importing an XML file. These operations apply to the entire application or table instead of an individual record.
 
 
--   **[Create a trigger definition](../task/create-trigger-definition.md)**  
+-   **[Create a trigger definition](create-trigger-definition.md)**  
 Define the type of trigger that determines when to start running your playbook.
--   **[Add and configure a trigger in a playbook](../task/add-configure-trigger.md)**  
+-   **[Add and configure a trigger in a playbook](add-configure-trigger.md)**  
 Begin building your playbook by adding and configuring the trigger.
--   **[Create a scheduled trigger for Playbook](../task/create-scheduled-trigger-definition.md)**  
+-   **[Create a scheduled trigger for Playbook](create-scheduled-trigger-definition.md)**  
 Create a scheduled trigger that starts your playbook at the required time and interval. You can schedule a trigger in any time zone, with or without an end date for the schedule.
 
 **Parent Topic:**[Understanding the playbook components](playbook-building-blocks.md)

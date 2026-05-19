@@ -62,5 +62,5 @@ You can also map multiple states in Azure DevOps to a single state in Agile Deve
     -   true, validation of your map configuration is successful.
     -   false, validation of your map configuration failed. Ensure that you enter the correct values for all fields and validate again.
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](customizing-map-config-agile-azure.md)
 

@@ -72,5 +72,5 @@ To add a list to a workspace configuration, you must be given permission to work
 
 Your new list will appear in the Request App Workspace after your admin deploys it!
 
-**Parent Topic:**[Configuring workspace lists and records for form submissions](../concept/creator-studio-form-submissions-workspace-about.md)
+**Parent Topic:**[Configuring workspace lists and records for form submissions](creator-studio-form-submissions-workspace-about.md)
 

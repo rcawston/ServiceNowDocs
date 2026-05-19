@@ -42,7 +42,7 @@ You can’t delete any events added to your calendar by a resource manager.
 
 When you delete a calender event, the resource aggregate daily, weekly, and monthly tables are updated accordingly. The resource aggregate daily table isn’t enabled by default. To generate daily aggregates and store them in this table, create the **com.snc.resource\_management.generate\_daily\_aggregates** property and set the value to true.
 
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](c_MyCalendar.md)
 
 **Related topics**  
 

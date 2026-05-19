@@ -40,7 +40,7 @@ Role required: admin
 
         **Note:** As an admin user, you can hide the Cloud Runner option on the Pick a browser dialog box by setting the atf\_cloud\_runner.radio\_visible to false. The property is set to true by default.
 
-    **Note:** If you run a test suite using the cloud runner, all the tests within the suite run in parallel. See [Parallel testing using Cloud Runner](../concept/atf-tg-cr-parallel-test.md) for more information. The order in which the tests in a suite run is random. The parallel suites ignore the execution order and ignore abort on failure.
+    **Note:** If you run a test suite using the cloud runner, all the tests within the suite run in parallel. See [Parallel testing using Cloud Runner](atf-tg-cr-parallel-test.md) for more information. The order in which the tests in a suite run is random. The parallel suites ignore the execution order and ignore abort on failure.
 
 4.  Select **Run Test Suite** on the dialog box after selecting the browser.
 
@@ -51,10 +51,10 @@ Role required: admin
 5.  Select **Go to Result** if you want to review the tests execution results.
 
 
--   **[Parallel testing using Cloud Runner](../concept/atf-tg-cr-parallel-test.md)**  
+-   **[Parallel testing using Cloud Runner](atf-tg-cr-parallel-test.md)**  
 Parallel testing using the Cloud Runner involves execution of tests within a suite in parallel.
 
-**Parent Topic:**[Using ATF Test Generator and Cloud Runner](../concept/atf-tg-cr-use.md)
+**Parent Topic:**[Using ATF Test Generator and Cloud Runner](atf-tg-cr-use.md)
 
 **Related topics**  
 

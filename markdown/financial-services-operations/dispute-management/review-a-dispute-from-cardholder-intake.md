@@ -105,5 +105,5 @@ Review the dispute amount and add any comments or descriptions for the dispute t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing dispute service requests](../concept/managing-card-disputes.md)
+**Parent Topic:**[Managing dispute service requests](managing-card-disputes.md)
 

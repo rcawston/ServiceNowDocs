@@ -55,7 +55,7 @@ Name
 
 Name of the area. Ensure that you enter a unique name. For example, use the location name `<location-name>-16` rather than just `16`.
 
-**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../../wsd-indoor-mapping/task/synchronize-ind-mapping-wsd.md).
+**Note:** Do not use duplicate names as it may affect the reservation process. If you change the name of a building after updating it, a message is displayed to show that the **Name** will be overwritten in the next synchronization process. For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](../indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ Unit
 
 </td><td>
 
-Measuring unit of the size. Depending on the selected unit, the **Total size** and **Usable size** field name changes. For example, if you select **Square feet** as the unit, then the fields are displayed as **Total square feet** and **Usable square feet**. For more information, see [Compute CAD file properties to extract space or room surface area](../../wsd-indoor-mapping/task/compute-cad-properties.md).
+Measuring unit of the size. Depending on the selected unit, the **Total size** and **Usable size** field name changes. For example, if you select **Square feet** as the unit, then the fields are displayed as **Total square feet** and **Usable square feet**. For more information, see [Compute CAD file properties to extract space or room surface area](../indoor-mapping/compute-cad-properties.md).
 
 </td></tr><tr id="gross-size"><td>
 
@@ -256,7 +256,7 @@ Size Square Feet/Meters
 
 </td><td>
 
-Surface area computed in square feet or square meters.Ability to compute surface area automatically in square meters or square feet from the CAD polylines if polylines are defined as closed shapes or if a unit is set. For more information, see [Compute CAD file properties to extract space or room surface area](../../wsd-indoor-mapping/task/compute-cad-properties.md).
+Surface area computed in square feet or square meters.Ability to compute surface area automatically in square meters or square feet from the CAD polylines if polylines are defined as closed shapes or if a unit is set. For more information, see [Compute CAD file properties to extract space or room surface area](../indoor-mapping/compute-cad-properties.md).
 
 </td></tr></tbody>
 </table>6.  Select **Block location** to define a time period to block these locations for reservation.
@@ -276,16 +276,16 @@ The area is added to the floor.
 
 You can add an allocation if there is none. For more information on how to add an allocation, see [Allocate a cost center, department, or workplace entity](add-cost-center-department-floor.md). In the procedure, select the Areas module instead of the Floors module.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
 [Add a campus](add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](../employee-service-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](../employee-service-management/add-a-floor-1.md)
 
 [Add a room using Workplace Space Management](add-a-room.md)
 
@@ -309,5 +309,5 @@ You can add an allocation if there is none. For more information on how to add a
 
 [Create a view-by configuration](create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](reviewing-allocation-changes.md)
 

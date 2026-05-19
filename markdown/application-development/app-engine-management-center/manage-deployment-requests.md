@@ -21,7 +21,7 @@ Role required: sn\_app\_eng\_notify.app\_engine\_admin
 
 ## About this task
 
-To view deployment requests in AEMC, pipelines must be configured correctly. For details, see [Configure Pipelines and Deployments](../../pipelines-and-deployments/task/config-p-and-d.md).
+To view deployment requests in AEMC, pipelines must be configured correctly. For details, see [Configure Pipelines and Deployments](config-p-and-d.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ To view deployment requests in AEMC, pipelines must be configured correctly. For
     **Note:** Unless you are assigned a Change Management role, most of the information on the **Change Request** tab is read-only. You can monitor the change request and see as it changes states. However, if you have Change Management permissions, you may be able to update certain fields on the change request such as the planned start and end date or the state.
 
 
-**Parent Topic:**[Managing requests using AEMC](../concept/manage-aemc-requests.md)
+**Parent Topic:**[Managing requests using AEMC](manage-aemc-requests.md)
 

@@ -42,12 +42,12 @@ Role required: admin or survey\_admin
     **Note:** The survey URL displayed after a connect chat is not a clickable link in the Virtual Agent chat widget. Copy and paste the URL to access the survey.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](email-notification-for-surveys.md)
 
 [Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
 
@@ -59,11 +59,11 @@ Role required: admin or survey\_admin
 
 [Enable localization for a survey](enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](c_SurveyURLs.md)
 
 [Create a survey module](t_CreatingASurveyModule.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](c_SurveyInportAndExport.md)
 
-[Monitor incoming Connect Support conversations](../../../use/collaboration/task/t_MonitorIncomingConnectSupport.md)
+[Monitor incoming Connect Support conversations](connect/t_MonitorIncomingConnectSupport.md)
 

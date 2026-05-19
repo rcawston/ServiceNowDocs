@@ -52,5 +52,5 @@ Role required: You need one of the following roles to use the utility icon
     **Note:** On the dashboard, in addition to individual application or portal pages, you can also gain insights by analyzing the entire application as a whole.
 
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](using-uxa.md)
 

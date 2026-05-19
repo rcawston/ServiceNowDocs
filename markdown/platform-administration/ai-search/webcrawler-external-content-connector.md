@@ -16,7 +16,7 @@ breadcrumb: [Configure, External Content Connectors, ServiceNow Store applicatio
 
 The Webcrawler external content connector retrieves pages and subdomains from a public website and makes their content and metadata searchable in AI Search applications. This connector can crawl content from predefined public web sources or your own custom web sources.
 
-**Note:** This external content connector is not included in the External Content Connectors Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](../task/install-ext-cont-connectors.md).
+**Note:** This external content connector is not included in the External Content Connectors Application Suite application. To use this connector, you must install it separately. For details on installation, see [Install External Content Connectors](install-ext-cont-connectors.md).
 
 Connector administrators can run or schedule content crawls to retrieve updated content from pages and subdomains found on the selected website. Scheduled content crawls can run on a daily, weekly, or monthly basis. Content crawls feed their data to AI Search for indexing.
 
@@ -28,11 +28,11 @@ Each Webcrawler connector can retrieve up to 50,000 items \(URLs\) from its sour
 
 By default, you can configure up to three Webcrawler connectors for custom web sources. If you need to retrieve items from more than three custom web sources, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the Webcrawler connector.
 
--   **[Predefined web sources for the Webcrawler external content connector](../reference/predefined-websources-webcrawler-ext-cont-connector.md)**  
+-   **[Predefined web sources for the Webcrawler external content connector](predefined-websources-webcrawler-ext-cont-connector.md)**  
 List of predefined public web sources that search administrators can retrieve searchable content from using the Webcrawler external content connector.
--   **[Create a Webcrawler external content connector](../task/create-ext-cont-connector-webcrawler.md)**  
+-   **[Create a Webcrawler external content connector](create-ext-cont-connector-webcrawler.md)**  
 Create an external content connector to retrieve searchable content from pages and subdomains in a public web source system. Select from a list of predefined web sources or specify your own web source.
--   **[Configure crawl settings for a Webcrawler external content connector](../task/configure-crawl-settings-webcrawler-external-content-connector.md)**  
+-   **[Configure crawl settings for a Webcrawler external content connector](configure-crawl-settings-webcrawler-external-content-connector.md)**  
 Specify the pages and subdomains you want your Webcrawler external content connector to retrieve from your specified web source.
 
 **Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
@@ -40,5 +40,5 @@ Specify the pages and subdomains you want your Webcrawler external content conne
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md)
 

@@ -41,5 +41,5 @@ You can add custom software products for any publicly available software product
     -   If you accept the suggestion, all references to the custom software product are updated with references to the corresponding software product in the Software Asset Management Content Library.
     -   If you reject the suggestion, all references to the custom software product remain the same.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

@@ -146,5 +146,5 @@ To generate an accurate Rightsizing recommendation, the system analyzes usage da
 -   **[Define a metric threshold](define-metric-threshold.md)**  
 To enable accurate memory usage data for use in generating Rightsizing recommendations, you first define memory metrics in your account. You then define a custom memory metric in Cloud Cost Management.
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](resize-res-ci.md)
 

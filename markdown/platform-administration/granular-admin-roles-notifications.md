@@ -210,5 +210,5 @@ Provides access to authorize an email account and do test connection. To view lo
 com.glide.mailbox
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference](../concept/reference-email-admin.md)
+</table>**Parent Topic:**[Reference](reference-email-admin.md)
 

@@ -165,5 +165,5 @@ To see affiliation type relationships, navigate to **All** &gt; **Configuration*
 
 The parent-child relationship between configuration items is considered.
 
-**Parent Topic:**[Manage and monitor alerts](../concept/c_EMAlert.md)
+**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
 

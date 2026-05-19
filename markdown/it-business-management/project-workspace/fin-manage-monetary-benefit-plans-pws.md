@@ -66,5 +66,5 @@ Edit a planned monetary benefit plan to revise the benefits, dates, offset, and 
 -   **[Capture actual monetary benefits](fin-manage-actual-monetary-benefit-pws.md)**  
 Capture the actual benefit from the planned benefits to measure revenue and calculate the profits.
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](using-financials-prj-wrkspc.md)
 

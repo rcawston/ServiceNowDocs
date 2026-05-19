@@ -20,5 +20,5 @@ The Natural Language Query \(NLQ\) properties control how and where NLQ operates
 -   **[Natural Language Query roles](natural-language-query-roles.md#)**  
 Natural Language Query \(NLQ\) is installed with these roles.
 
-**Parent Topic:**[Enable AI experiences](../../general/reference/ai-products.md)
+**Parent Topic:**[Enable AI experiences](../ai-products.md)
 

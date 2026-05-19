@@ -25,7 +25,7 @@ Role required: admin
 
 3.  On the CoPQ Planned Line Charge form, fill in the fields.
 
-    For a description of the field values, see [CoPQ planned line charge form](../reference/mco-copq-planned-line-charge-form.md).
+    For a description of the field values, see [CoPQ planned line charge form](mco-copq-planned-line-charge-form.md).
 
 4.  Select **Save**.
 

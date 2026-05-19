@@ -19,7 +19,7 @@ Use the options on the Operational Technology \(OT\) menu to edit or view detail
 
 Import your Operational Technology device data in any of the following ways:
 
--   Run IT Discovery for OT Networks. For more information, see [IT Discovery for Operational Technology \(OT\) Networks](../concept/discovery-for-operational-technology.md).
+-   Run IT Discovery for OT Networks. For more information, see [IT Discovery for Operational Technology \(OT\) Networks](../discovery-for-operational-technology.md).
 -   Use an Operational Technology Certified Service Graph Connector from the ServiceNow Store.
 
 Role required: cmdb\_ot\_viewer, cmdb\_ot\_editor, cmdb\_ot\_admin, or admin
@@ -85,8 +85,8 @@ If you have an assigned cmdb\_ot\_viewer role, you can only view OT devices. If 
         **Note:** Bulk editing OT details is a background job that can take time to complete. If the background job is busy, you can't bulk edit other OT device records.
 
 
--   **[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)**  
+-   **[OT device related items and related lists](ot-assets-related-links-and-lists.md)**  
 The All OT Devices, All OT Devices by IP Address, and All OT Devices by CI menu options contain several related items and lists.
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](using-operational-technology-manager.md)
 

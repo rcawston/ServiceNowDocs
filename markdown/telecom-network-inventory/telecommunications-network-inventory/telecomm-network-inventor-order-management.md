@@ -56,7 +56,7 @@ To create a change request, an admin must perform the following tasks for an ord
 
     The states are New, Implement, Review, and Closed for the earlier change models. By default, all new change model states are set as New.
 
-3.  Create a decision entry in the decision table provided by the Telecommunications Network Inventory application. See [Order Management for Telecommunications integration](../task/decision_table_for_tni_omt_integration.md) to learn how to create an entry.
+3.  Create a decision entry in the decision table provided by the Telecommunications Network Inventory application. See [Order Management for Telecommunications integration](decision_table_for_tni_omt_integration.md) to learn how to create an entry.
 
 
 ![TNI-OMT Integration for creating a change task. For the text description, refer to the workflow steps that follow.](../image/omt-tni-integration-flow.png)

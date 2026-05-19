@@ -44,11 +44,11 @@ The new workspace offers the following views for the users.
 
 -   **360° relationship view**
 
-    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and entity types. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and entity types. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](../grc-360-degree-relationship-visualization/grc-360-deg-rel-vis.md).
 
 -   **Breadcrumb navigation**
 
-    The breadcrumb style navigation provides a browser path to navigate a hierarchy of linked pages with related content. The breadcrumb style navigation provides a digital trail from the user's starting point to the current content, with the ability to navigate to each link.​ For more information, refer to [Breadcrumb navigation](../../grc-common/concept/breadcrumb-navigation.md)
+    The breadcrumb style navigation provides a browser path to navigate a hierarchy of linked pages with related content. The breadcrumb style navigation provides a digital trail from the user's starting point to the current content, with the ability to navigate to each link.​ For more information, refer to [Breadcrumb navigation](../grc-common-functions/breadcrumb-navigation.md)
 
 -   **Consolidated issues page**
 

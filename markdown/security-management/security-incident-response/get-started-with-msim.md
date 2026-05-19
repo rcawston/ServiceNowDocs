@@ -57,9 +57,9 @@ Before you install Microsoft SharePoint Spoke and Microsoft Teams Graph Spoke, m
 **Related topics**  
 
 
-[Major Security Incident Management](../concept/major-security-incident-management.md)
+[Major Security Incident Management](major-security-incident-management.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](msim-checklist.md)
 
 [Major Security Incident Management roles](msi-roles.md)
 

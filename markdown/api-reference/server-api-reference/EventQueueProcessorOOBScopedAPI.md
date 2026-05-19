@@ -19,7 +19,7 @@ If you want to change the default functionality of this script include, you need
 
 This script include runs in the `sn_api_notif_mgmt` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## EventQueueProcessorOOB - transformEventObject\(Object eventSnapshot, Object eventJson, String queueType\)
 

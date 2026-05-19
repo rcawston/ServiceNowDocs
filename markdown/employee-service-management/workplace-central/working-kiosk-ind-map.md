@@ -15,11 +15,11 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 Create indoor maps and configure map elements for Workplace Services Kiosk.
 
-1.  [Configure map features for kiosk](../task/config-map-features.md)  
+1.  [Configure map features for kiosk](config-map-features.md)  
 Configure map features such as actions and data visualization for the kiosk.
-2.  [Configure the kiosk position and map settings](../task/config-kiosk-map.md)  
+2.  [Configure the kiosk position and map settings](config-kiosk-map.md)  
 Configure the kiosk position and camera position on the map.
-3.  [Configure a module for kiosk indoor mapping](../task/config-kiosk-ind-map-module.md)  
+3.  [Configure a module for kiosk indoor mapping](config-kiosk-ind-map-module.md)  
 Create a module for the kiosk to decide the flow for the kiosk.
 
 **Parent Topic:**[Use Workplace Central](use-workplace-central.md)

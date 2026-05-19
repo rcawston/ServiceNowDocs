@@ -43,5 +43,5 @@ Understand how the different states of the Release \[rm\_release\] and Release T
 |work\_in\_progress\_states|2|
 |skipped\_states|4, 7|
 
-**Parent Topic:**[Release Management concepts](../concept/c_ReleaseManagementConcepts.md)
+**Parent Topic:**[Release Management concepts](c_ReleaseManagementConcepts.md)
 

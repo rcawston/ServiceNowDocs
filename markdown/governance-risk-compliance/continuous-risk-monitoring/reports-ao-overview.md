@@ -17,7 +17,7 @@ Users with the Authorization Official \[sn\_irm\_cont\_auth.authorization\_offic
 
 **Important:** Starting with version 18.1.2 of CAM users on Vancouver or Washington DC can view the AO Overview dashboard in the Next Experience UI Framework.
 
-For more information on navigation steps and dashboard appearance, see [Analytics and Reporting Solutions for CAM](../../../use/dashboards/application-content-packs/cam-pa-next-exp-dashboards.md).
+For more information on navigation steps and dashboard appearance, see [Analytics and Reporting Solutions for CAM](cam-pa-next-exp-dashboards.md).
 
 ## Accessing the dashboard
 
@@ -38,7 +38,7 @@ The Authorization Packages tab on the AO Overview dashboard provides central vis
 |Report|Description|
 |------|-----------|
 |Packages Pending Approval|The number of authorization packages for which approval has been requested, but that haven’t yet received approval.|
-|Packages with Overridden Impact|The number of authorization packages with an impact that have been overridden. For more information, see [RMF step 1 - Categorize the authorization package](../task/categorize.md).|
+|Packages with Overridden Impact|The number of authorization packages with an impact that have been overridden. For more information, see [RMF step 1 - Categorize the authorization package](categorize.md).|
 |Packages by Step|The number of authorization packages categorized by steps \(for example, Monitor, Access, Select, and so forth\).|
 |Packages by Impact|The number of authorization packages categorized by impact levels.|
 |Pending Approvals|A list of all packages pending approval.|

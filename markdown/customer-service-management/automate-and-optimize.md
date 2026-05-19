@@ -31,7 +31,7 @@ The ServiceNow Virtual Agent platform offers user assistance through an intellig
 
 </td></tr><tr><td>
 
-[Using Proactive Customer Service Operations](../task/use-pcso.md)
+[Using Proactive Customer Service Operations](use-pcso.md)
 
 </td><td>
 
@@ -51,8 +51,8 @@ Guided Decisions
 
 </td><td>
 
--   [Use Guided Decisions in playbooks to resolve cases](../task/use-guided-decisions.md)- As an agent, work your way through a decision tree in a playbook to help troubleshoot a case and get recommendations on the next possible steps in solving the case.
--   [Use Guided Decisions in recommended actions to resolve cases](../task/use-guided-decisions-ra.md)- As an agent, work your way through a recommended action of type decision tree to help troubleshoot a case and get recommendations on the next possible steps in solving the case.
+-   [Use Guided Decisions in playbooks to resolve cases](use-guided-decisions.md)- As an agent, work your way through a decision tree in a playbook to help troubleshoot a case and get recommendations on the next possible steps in solving the case.
+-   [Use Guided Decisions in recommended actions to resolve cases](use-guided-decisions-ra.md)- As an agent, work your way through a recommended action of type decision tree to help troubleshoot a case and get recommendations on the next possible steps in solving the case.
 
 </td></tr><tr><td>
 

@@ -28,5 +28,5 @@ The NowServiceError sealed class that returns NowSDK errors.
 |ServiceSettingsInvalid|Unable to process the service settings.|
 |ServiceSettingsRetrievalFailed|Unable to retrieve the NowSDK service settings from the ServiceNow instance.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](MobileSDKAndroidAPI.md)
 

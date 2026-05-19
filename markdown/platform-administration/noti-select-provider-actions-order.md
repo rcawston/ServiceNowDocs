@@ -107,5 +107,5 @@ Option to link actions from event parm2. Actions must be sys\_ids from the **sys
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](create-provider-notification-using.md)
 

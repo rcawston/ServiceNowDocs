@@ -145,6 +145,6 @@ A buyer or a business goal owner gains strategic and operational advantages usin
 To learn more about configuring and using LEAP, see:
 
 -   [Configuring LEAP](configuring-aiops-leap.md)
--   [Using LEAP](../task/using-aiops-leap.md)
--   [LEAP reference](../reference/references-aiops-leap.md)
+-   [Using LEAP](using-aiops-leap.md)
+-   [LEAP reference](references-aiops-leap.md)
 

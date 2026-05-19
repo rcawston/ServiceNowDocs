@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Amazon S3 integration configuration forms for Health Log Analytics.
 
-For the Amazon S3 integration setup procedure, see [Set up an Amazon S3 integration for Health Log Analytics](../task/il-connector-hla-aws-s3.md).
+For the Amazon S3 integration setup procedure, see [Set up an Amazon S3 integration for Health Log Analytics](il-connector-hla-aws-s3.md).
 
 <table id="table_ub4_l2h_shc"><thead><tr><th>
 

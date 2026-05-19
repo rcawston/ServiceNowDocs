@@ -55,5 +55,5 @@ Discontinues listening to the events from the OnEntryWritten event.
 
 Provides as outputs the event type, descriptive message, and the source of the event.
 
-**Parent Topic:**[Eventlog](../concept/eventlog.md)
+**Parent Topic:**[Eventlog](eventlog.md)
 

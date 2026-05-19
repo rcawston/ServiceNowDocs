@@ -19,9 +19,9 @@ Review all of your assigned In-store operations cases and tasks within Retail Mo
 Use the filter within Retail Mobile to limit displayed cases or tasks based on specified keywords.
 -   **[Work on an In-store operations case](rahi-retail-work-in-store-operations-case-mobile.md)**  
 Work on an In-store operations case using Retail Mobile.
--   **[Work on an In-store operations task in Retail Mobile](../task/rahi-retail-in-store-task-mobile.md)**  
+-   **[Work on an In-store operations task in Retail Mobile](rahi-retail-in-store-task-mobile.md)**  
 Complete individual work items tied to a store case using Retail Mobile.
--   **[Search for assigned cases and tasks using AI Search in Retail Mobile](../task/rahi-retail-mobile-search-ai.md)**  
+-   **[Search for assigned cases and tasks using AI Search in Retail Mobile](rahi-retail-mobile-search-ai.md)**  
 Use the Search function in Retail Mobile to find cases or tasks based on relevant keywords or descriptions.
 
 **Parent Topic:**[Manage store plans](rahi-retail-manage-store-plans.md)

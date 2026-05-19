@@ -65,5 +65,5 @@ Role required:
 14. In Action 18, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](../concept/playbook-okta-user-login-failures-ips.md)
+**Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](playbook-okta-user-login-failures-ips.md)
 

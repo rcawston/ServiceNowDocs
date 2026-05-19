@@ -43,24 +43,24 @@ Refine your search results to narrow down the content displayed.
 -   **[Sort your search results](sort.md)**  
 Sort your community search results to narrow down the content displayed.
 
-**Parent Topic:**[Using communities](../concept/using-communities.md)
+**Parent Topic:**[Using communities](using-communities.md)
 
 **Related topics**  
 
 
-[Community homepage features for logged in users](../concept/c_communities-service-portal.md)
+[Community homepage features for logged in users](c_communities-service-portal.md)
 
-[Navigating the activity feed](../concept/navigating-activity-feed.md)
+[Navigating the activity feed](navigating-activity-feed.md)
 
-[Navigating the forum homepage](../concept/forum-homepage.md)
+[Navigating the forum homepage](forum-homepage.md)
 
-[Community homepage features for non-logged in users](../concept/community-homepage-non-logged.md)
+[Community homepage features for non-logged in users](community-homepage-non-logged.md)
 
 [Self-register to a community](register-community.md)
 
 [Use a community profile](community-profile.md)
 
-[Community subscriptions](../concept/c_communities-subscriptions.md)
+[Community subscriptions](c_communities-subscriptions.md)
 
 [Request membership to a forum](request-membership-forum.md)
 
@@ -76,5 +76,5 @@ Sort your community search results to narrow down the content displayed.
 
 [View a list of questions and create a case](case-mgmt-integration-view-list.md)
 
-[Gamification](../concept/communities-gamification.md)
+[Gamification](communities-gamification.md)
 

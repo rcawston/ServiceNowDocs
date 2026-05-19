@@ -23,7 +23,7 @@ Role required: sn\_si.write
 
 ## Procedure
 
-1.  [Create a security incident](../concept/si-manual-creation.md) and include at least one resource.
+1.  [Create a security incident](si-manual-creation.md) and include at least one resource.
 
     You can also open an existing incident that has configuration items.
 

@@ -26,7 +26,7 @@ Product enhancements can also be generated automatically from the main epics imp
 -   The integration with the external planning tool is done.
 -   The validates version option of the release is set to true.
 -   A project from the Planning tool is linked with the product or service. For more information, see [View and manage data from external tools](dpr-manage-product-ext-tool.md).
--   The system property **sn\_dpr\_workspace.auto\_create\_product\_enhancement\_for\_primary\_epic** is set to **true**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+-   The system property **sn\_dpr\_workspace.auto\_create\_product\_enhancement\_for\_primary\_epic** is set to **true**. For more information, see [Digital Product Release properties](digital-product-release-properties.md).
 
 ## Procedure
 

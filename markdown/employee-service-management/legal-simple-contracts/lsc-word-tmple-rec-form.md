@@ -53,7 +53,7 @@ Document
 
 </td><td>
 
-The document from which you want to import template field mapping. The selected document should be a Microsoft Word \(.docx\) document and should have valid content controllers. For more information, see [Add content controls in a Microsoft Word document](../task/lsc-cont-contr-word-tmplt.md).
+The document from which you want to import template field mapping. The selected document should be a Microsoft Word \(.docx\) document and should have valid content controllers. For more information, see [Add content controls in a Microsoft Word document](lsc-cont-contr-word-tmplt.md).
 
 </td></tr><tr><td>
 

@@ -75,7 +75,7 @@ My Resources
 Observes and interacts with the discovered resources.
 
 </td></tr></tbody>
-</table>-   **[Requesting Cloud Services](../task/request-the-cloud-services-user-portal.md)**  
+</table>-   **[Requesting Cloud Services](request-the-cloud-services-user-portal.md)**  
 Submit a request for one of the available service catalog item in cloud services. You can find the catalogs under **Browse Cloud Services**.
 
 **Parent Topic:**[Cloud Services Catalog](csc-home.md)

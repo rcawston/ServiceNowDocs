@@ -54,5 +54,5 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
 [Configure Veracode scans on your pipeline](configure-veracode-scans-on-your-pipeline.md)
 
-**Parent Topic:**[Veracode integration with DevOps Change Velocity](../concept/veracode-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Veracode integration with DevOps Change Velocity](veracode-integration-with-devops-change-velocity.md)
 

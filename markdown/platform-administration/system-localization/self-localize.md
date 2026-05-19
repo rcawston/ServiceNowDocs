@@ -27,7 +27,7 @@ All interface items are stored as translatable strings in the translation tables
 
 There is a very large number of translatable strings on the platform. Exporting all of them and translating them manually is probably not a realistic possibility. Consider exporting filtered subsets of the strings from each table and then translating them. To download a file of translatable strings, see [KB0860203](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0860203).
 
-You can use the Localization Framework application to translate to an unsupported language or to translate large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](../../localization-framework/concept/localization-framework-landing.md).
+You can use the Localization Framework application to translate to an unsupported language or to translate large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](../localization-framework/localization-framework-landing.md).
 
 ## Procedure
 
@@ -43,5 +43,5 @@ You can use the Localization Framework application to translate to an unsupporte
 **Related topics**  
 
 
-[Translation tables](../reference/r_TranslationTables.md)
+[Translation tables](r_TranslationTables.md)
 

@@ -34,5 +34,5 @@ The **Generate Workplace Insights - Weekly** scheduled job runs and creates insi
 3.  Select **Weekly Workplace Insights**.
 
 
-**Parent Topic:**[Insight cards on the Workplace Central dashboard](../concept/insight-cards-on-the-workplace-central-dashboard.md)
+**Parent Topic:**[Insight cards on the Workplace Central dashboard](insight-cards-on-the-workplace-central-dashboard.md)
 

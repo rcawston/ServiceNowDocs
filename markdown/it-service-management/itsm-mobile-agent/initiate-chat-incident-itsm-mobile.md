@@ -45,5 +45,5 @@ Role required: itil, itil\_admin, or admin
     **Note:** The Slack and the Microsoft Teams contacts display only if the caller has a valid Slack and Microsoft Teams accounts.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](collaboration-incident-itsm-mobile.md)
 

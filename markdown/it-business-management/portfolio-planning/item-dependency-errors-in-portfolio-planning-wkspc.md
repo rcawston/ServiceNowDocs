@@ -25,12 +25,12 @@ To resolve such errors, review the scope of the planning items and update the st
 
 ![planning item dependency conflicts.](../../alignment-planner-workspace/images/dependency-conflict.png)
 
-**Parent Topic:**[Portfolio Planning reference](../concept/portfolio-planning-reference.md)
+**Parent Topic:**[Portfolio Planning reference](portfolio-planning-reference.md)
 
 **Related topics**  
 
 
-[Add dependencies for roadmap items](../task/add-dependencies-roadmap-items-portfolio-planning.md)
+[Add dependencies for roadmap items](add-dependencies-roadmap-items-portfolio-planning.md)
 
-[Update roadmap item dependencies](../task/update-roadmap-item-dependencies-portfolio-planning.md)
+[Update roadmap item dependencies](update-roadmap-item-dependencies-portfolio-planning.md)
 

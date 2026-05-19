@@ -49,5 +49,5 @@ Role required: sam\_admin
     For details on Dependency Views, see [Dependency Views map menus and controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/r_NGBSMMenus.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](using-sam-workspace.md)
 

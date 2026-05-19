@@ -21,7 +21,7 @@ Role required: admin.
 
 ## About this task
 
-Dictionary overrides are only available for tables that support [table extension](../../table-administration/concept/table-extension-and-classes.md).
+Dictionary overrides are only available for tables that support [table extension](table-extension-and-classes.md).
 
 Dictionary overrides are inherited by extended tables, so it may be necessary to define additional overrides to change the value of fields on extended tables. For example, if you define the default value of cmdb\_ci.install\_status to be 3, and create an override for the same field on cmdb\_ci\_hardware to be 5, all tables extended from the Hardware table will also default to 5. So if you want the default cmdb\_ci\_computer.install\_status to be 3, you will need another override.
 
@@ -79,7 +79,7 @@ Override reference qualifier
 
 </td><td>
 
-Select the check box to display the **Reference qualifier** field, which overrides the [Reference qualifiers](../../../script/server-scripting/concept/c_ReferenceQualifiers.md) for the field on the extended table.
+Select the check box to display the **Reference qualifier** field, which overrides the [Reference qualifiers](../c_ReferenceQualifiers.md) for the field on the extended table.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Override attributes
 
 </td><td>
 
-Select the check box to display the **Attributes** field, which overrides the [dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md) for the field on the extended table.
+Select the check box to display the **Attributes** field, which overrides the [dictionary attributes](c_DictionaryAttributes.md) for the field on the extended table.
 
  **Note:** Any attributes defined on the base table are ignored. If there are attributes on the base table that should still apply to the extended table, make sure to include them in this field.
 
@@ -147,5 +147,5 @@ Select the check box to use this field as the display value on the extended tabl
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Dictionary overrides](../concept/c_DictionaryOverrides.md)
+**Parent Topic:**[Dictionary overrides](c_DictionaryOverrides.md)
 

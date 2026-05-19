@@ -26,5 +26,5 @@ These requirements apply to all outbound communication initiated through Notify,
 
 Invalid numbers prevent Notify workflows from running and cause an error to be logged. Set the **glide.notify.debug** property to true to create detailed error logs.
 
-**Parent Topic:**[Using Notify with SMS](../concept/c_NotifySMS.md)
+**Parent Topic:**[Using Notify with SMS](c_NotifySMS.md)
 

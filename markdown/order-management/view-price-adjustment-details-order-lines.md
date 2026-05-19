@@ -17,7 +17,7 @@ Order agents can view the price adjustments that were applied to the base price 
 
 The unit base price, unit list price, and unit adjustment details are listed on the Pricing section of the Order Line Item Details page.
 
-The Price Adjustments tab on the Order Line Item page displays the manual price adjustments that were applied to an order line item. For information about the fields on the list view, see [Price adjustment fields](../reference/field-descriptions-customer-order-line-items.md#).
+The Price Adjustments tab on the Order Line Item page displays the manual price adjustments that were applied to an order line item. For information about the fields on the list view, see [Price adjustment fields](field-descriptions-customer-order-line-items.md#).
 
 ## Price adjustment example
 
@@ -34,5 +34,5 @@ To understand price adjustment and the terms used, let's consider a scenario whe
 **Related topics**  
 
 
-[Configurable pricing plans](../concept/configuring-pricing-plan.md)
+[Configurable pricing plans](configuring-pricing-plan.md)
 

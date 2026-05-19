@@ -61,7 +61,7 @@ Role required: admin
 
         ![Workplace template configuration form showing workplace service for a plan record.](../images/workplace-template-configuration-new.png)
 
-        For more information, see [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md) and [Workplace maintenance cases](create-maint-cases.md).
+        For more information, see [Workplace planned maintenance scheduled job](sch-job-planned-nightly.md) and [Workplace maintenance cases](create-maint-cases.md).
 
 4.  Select **Save**.
 
@@ -80,7 +80,7 @@ Role required: admin
     For more information, see [Workplace maintenance cases](create-maint-cases.md).
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](manage-maintenance-plans.md)
 
 **Previous topic:**[Create workplace services](create-workplace-services.md)
 

@@ -183,5 +183,5 @@ Number of agents per page. \(To get better performance, do not use more than 50 
 </table>**Related topics**  
 
 
-[Configure assignment workbench](../task/configure-assignment-workbench.md)
+[Configure assignment workbench](configure-assignment-workbench.md)
 

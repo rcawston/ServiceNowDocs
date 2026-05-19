@@ -13,9 +13,9 @@ breadcrumb: [Working with information portfolio, Working with Portfolio list vie
 
 An information object captures the logical data for a business application. It also describes the type of data that is interchanged between the application and the database.
 
--   **[View all information objects](../../task/eaw-task/eaw-view-all-information-objects.md)**  
+-   **[View all information objects](eaw-view-all-information-objects.md)**  
 You can view the list of all information objects in the Enterprise Architecture Workspace.
--   **[Add or edit an information object](../../task/eaw-task/eaw-create-new-information-object.md)**  
+-   **[Add or edit an information object](eaw-create-new-information-object.md)**  
 Create an information object to capture the logical data for a business application.
 
 **Parent Topic:**[Working with information portfolio](eaw-work-with-info-portfoliodita.md)

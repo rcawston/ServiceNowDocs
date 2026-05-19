@@ -77,7 +77,7 @@ Timing condition that triggers the execution of the plan. -   **Duration:** work
 
 With the Duration or Meter trigger selected, the **Next run time** and **Next run value** fields are populated in the Planned Work Records related list on the Work Plan form.
 
-For more information on triggers and examples, see [Learn about triggers for work schedules](../reference/schedule-trigger-types.md)
+For more information on triggers and examples, see [Learn about triggers for work schedules](../schedule-trigger-types.md)
 
 </td></tr><tr><td>
 

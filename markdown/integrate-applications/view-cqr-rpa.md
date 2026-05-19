@@ -28,12 +28,12 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_business\_u
 4.  Open a rule to view the details.
 
 
-**Parent Topic:**[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+**Parent Topic:**[Code quality check in RPA Hub](code-quality-check-rpa.md)
 
 **Related topics**  
 
 
-[Code quality rules list in RPA Hub](../reference/cqr-list-rpa.md)
+[Code quality rules list in RPA Hub](cqr-list-rpa.md)
 
 [Code quality rule form in RPA Hub](edit-cqr-rpa.md#)
 

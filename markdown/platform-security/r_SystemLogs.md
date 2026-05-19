@@ -58,7 +58,7 @@ Message
 
 </td><td>
 
-System-generated message regarding the nature of the occurrence.**Note:** Long messages and stack traces are collapsed by default and can be expanded. To disable, see [Disable stack trace formatting in system logs](../task/diable-system-log-display.md).
+System-generated message regarding the nature of the occurrence.**Note:** Long messages and stack traces are collapsed by default and can be expanded. To disable, see [Disable stack trace formatting in system logs](diable-system-log-display.md).
 
 </td></tr><tr><td>
 

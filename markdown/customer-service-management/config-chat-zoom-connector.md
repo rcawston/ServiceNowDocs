@@ -45,7 +45,7 @@ This task provides general steps to set up the Chat Zoom Connector application f
 **Related topics**  
 
 
-[Chat Zoom Connector](../concept/chat-zoom-connector.md)
+[Chat Zoom Connector](chat-zoom-connector.md)
 
-[Using Chat Zoom Connector](../concept/using-chat-zoom-connector.md)
+[Using Chat Zoom Connector](using-chat-zoom-connector.md)
 

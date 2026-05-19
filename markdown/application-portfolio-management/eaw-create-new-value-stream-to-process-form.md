@@ -25,7 +25,7 @@ Add a value stream to a process to create an efficient workflow.
 **Related topics**  
 
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](eaw-value-streams.md)
 
-[Add value stream stages to a value stream](../../task/eaw-task/eaw-add-vs-stages-to-a-vs.md)
+[Add value stream stages to a value stream](eaw-add-vs-stages-to-a-vs.md)
 

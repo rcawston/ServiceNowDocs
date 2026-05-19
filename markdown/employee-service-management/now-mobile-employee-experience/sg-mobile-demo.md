@@ -54,7 +54,7 @@ The Now Mobile demo displays a launcher screen divided into UI sections. Tap an 
 
 -   **Frequently Used Items**
 
-    The display includes an example of shortcuts to items employee users are likely to access frequently, such as scheduling a visit to the tech lounge. These can be configured by the organization to keep them readily available for employees. For more information about the tech lounge example, see [Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md). For more information on office entry codes, see [Verify your health status and compliance](../../../product/employee-health-screening/task/agree-compliance-return.md).
+    The display includes an example of shortcuts to items employee users are likely to access frequently, such as scheduling a visit to the tech lounge. These can be configured by the organization to keep them readily available for employees. For more information about the tech lounge example, see [Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md). For more information on office entry codes, see [Verify your health status and compliance](../safe-workplace/agree-compliance-return.md).
 
 -   **My Items**
 
@@ -86,11 +86,11 @@ The Now Mobile demo displays a launcher screen divided into UI sections. Tap an 
 
 -   **Health**
 
-    Employees have everything they need for workplace health and safety. Users can verify health, make reservations, or report vaccinations. For more information, see [Safe Workplace for mobile](../../../product/business-continuity/concept/mobile-emergency-response.md).
+    Employees have everything they need for workplace health and safety. Users can verify health, make reservations, or report vaccinations. For more information, see [Safe Workplace for mobile](../safe-workplace-for-mobile/mobile-emergency-response.md).
 
 -   **Virtual Agent Chat**
 
-    Use the chat button to connect to a virtual agent. Virtual agent is an automated conversational interface you can use to address common issues, such as password resets, or email account setup. The Now Mobile uses a quick action to access chat. For more information on Virtual Agent, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md). The chat button on the demo launch page is a quick action. For details on how to add a virtual agent to your mobile apps, see [Enable Live Agent in the Now Mobile app](../../mobile-employee/task/va-in-me.md).
+    Use the chat button to connect to a virtual agent. Virtual agent is an automated conversational interface you can use to address common issues, such as password resets, or email account setup. The Now Mobile uses a quick action to access chat. For more information on Virtual Agent, see [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md). The chat button on the demo launch page is a quick action. For details on how to add a virtual agent to your mobile apps, see [Enable Live Agent in the Now Mobile app](va-in-me.md).
 
 
 ## Chief Information Officer \(CIO\)
@@ -159,7 +159,7 @@ The Now Mobile demo displays a launcher screen divided into UI sections. Tap an 
 
 -   **Get Ready**
 
-    A list of common tasks from across the organization that new employees may complete as part of their onboarding experience. These tasks are lifecycle activities, which are part of the Enterprise Onboarding and Transitions application. For more information on lifecycle activities, see [Configure a lifecycle event activity](../../../product/human-resources/task/configure-hr-lifecycle-event-activity.md#).
+    A list of common tasks from across the organization that new employees may complete as part of their onboarding experience. These tasks are lifecycle activities, which are part of the Enterprise Onboarding and Transitions application. For more information on lifecycle activities, see [Configure a lifecycle event activity](../lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 
 -   **New Hire Contacts**
 
@@ -179,5 +179,5 @@ Use the following links to learn more about on how to use and configure the Now 
 -   Now Mobile app
 -   [Configuring the Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-platform-landing.md)
 
-**Parent Topic:**[Now Mobile app](../../mobile-employee/concept/mobile-employee-experience.md)
+**Parent Topic:**[Now Mobile app](mobile-employee-experience.md)
 

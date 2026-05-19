@@ -53,7 +53,7 @@ Click the more actions icon \(![More actions icon](../image/KnowledgeServicePort
 
 </td><td>
 
-Click the star icons displayed on the article to indicate its effectiveness on a scale from 1 through 5.Administrators can configure the **glide.knowman.feedback.enable\_actionable\_feedback\_for\_rating** property to ensure that feedback tasks are automatically created and assigned when a lower rating is posted. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+Click the star icons displayed on the article to indicate its effectiveness on a scale from 1 through 5.Administrators can configure the **glide.knowman.feedback.enable\_actionable\_feedback\_for\_rating** property to ensure that feedback tasks are automatically created and assigned when a lower rating is posted. For more information, see [Knowledge Management properties](r_KnowledgeProperties.md#).
 
 </td></tr><tr><td id="d556911e155">
 

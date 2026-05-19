@@ -32,5 +32,5 @@ Role required: admin
 
 Create a connection to the credential store as described in [Configure the connection to an AD credential store](config-ad-credential-store.md).
 
-**Parent Topic:**[Credential Store for Password Reset for Microsoft Entra ID](../concept/credentials-store-micro-ad.md)
+**Parent Topic:**[Credential Store for Password Reset for Microsoft Entra ID](credentials-store-micro-ad.md)
 

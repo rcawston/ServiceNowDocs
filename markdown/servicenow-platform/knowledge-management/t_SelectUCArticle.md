@@ -23,11 +23,11 @@ Role required: knowledge\_manager, knowledge\_admin
 
 ## About this task
 
-Try to use only user criteria, which were introduced in Knowledge Management v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. For more information, see [Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md).
+Try to use only user criteria, which were introduced in Knowledge Management v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. For more information, see [Managing access to knowledge bases and knowledge articles](user-access-knowledge.md).
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](knowledge-service-portal-pages.md).
 
 As a knowledge base owner or a manager if the **glide.knowman.apply\_article\_read\_criteria** property is enabled and you don't satisfy the article level user criteria, then the article will not be visible in portal search. To be able to view the article in the portal search, you must configure article level user criteria accordingly.
 
@@ -67,7 +67,7 @@ In the **Cannot Read** field, search for and add user criteria. For example, to 
 
 -   If users have contribute access to the knowledge base, they also have read access to the knowledge article regardless of the **Cannot Read** setting.
 
-Activate the property \(glide.knowman.apply\_article\_read\_criteria\) to override contribute access to a knowledge article based on **Can Read** and **Cannot Read** user criteria at the article level. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+Activate the property \(glide.knowman.apply\_article\_read\_criteria\) to override contribute access to a knowledge article based on **Can Read** and **Cannot Read** user criteria at the article level. For more information, see [Knowledge Management properties](r_KnowledgeProperties.md#).
 
 -   Users who meet both **Can Read** and **Cannot Read** user criteria are denied read access to the knowledge article. The **Cannot Read** setting overrides the **Can Read** setting for the knowledge article.
 
@@ -80,11 +80,11 @@ Activate the property \(glide.knowman.apply\_article\_read\_criteria\) to overri
 
 ## What to do next
 
-After you add user criteria, you can use the user criteria diagnostics feature to verify the access users have to a knowledge base or a knowledge article. For more information, see [User criteria diagnostics for Knowledge Management](../concept/diagnose-knowledge-user-criteria.md).
+After you add user criteria, you can use the user criteria diagnostics feature to verify the access users have to a knowledge base or a knowledge article. For more information, see [User criteria diagnostics for Knowledge Management](diagnose-knowledge-user-criteria.md).
 
 **Important:** After making user criteria additions or changes, you may need to log out and log back in to clear the prior configuration.
 
-**Parent Topic:**[Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md)
+**Parent Topic:**[Managing access to knowledge bases and knowledge articles](user-access-knowledge.md)
 
 **Related topics**  
 

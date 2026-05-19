@@ -28,7 +28,7 @@ Applications that are available at no additional cost must be procured from the 
 -   If the application has the "App Terms Not Accepted" state indicator in the Application Manager, it has custom terms and conditions that must be accepted from the ServiceNow Store.
 -   If a new application version has the "App Terms Not Accepted" indicator in the Application Manager, that version has custom terms and conditions that must be accepted from the ServiceNow Store before the application can be updated.
 
-For more information about application state indicators, see [Application state indicators in Application Manager](../../application-manager/reference/app-mgr-state-indicators.md).
+For more information about application state indicators, see [Application state indicators in Application Manager](application-manager/app-mgr-state-indicators.md).
 
 ## Procedure
 
@@ -53,13 +53,13 @@ For more information about application state indicators, see [Application state 
 
 ## Result
 
-The application is available for installation from the Application Manager within 24 hours of license confirmation. For more information about using the Application Manager, see [Application Manager](../../application-manager/concept/application-manager.md).
+The application is available for installation from the Application Manager within 24 hours of license confirmation. For more information about using the Application Manager, see [Application Manager](application-manager/application-manager.md).
 
 Confirmation emails for the application and any dependencies that were procured are sent to the email address associated with your ServiceNow Store account.
 
 If the application isn't available to install from the Application Manager within the expected amount of time, try the following actions.
 
--   Verify that all necessary dependencies have been procured. For more information, see [Evaluating version requirements and dependencies](../concept/versions-dependencies.md).
--   Review application state indicators from application's details in the Application Manager. For more information about what each indicator means, see [Application state indicators in Application Manager](../../application-manager/reference/app-mgr-state-indicators.md).
+-   Verify that all necessary dependencies have been procured. For more information, see [Evaluating version requirements and dependencies](versions-dependencies.md).
+-   Review application state indicators from application's details in the Application Manager. For more information about what each indicator means, see [Application state indicators in Application Manager](application-manager/app-mgr-state-indicators.md).
 -   If the previous options don't work, contact Now Support for assistance.
 

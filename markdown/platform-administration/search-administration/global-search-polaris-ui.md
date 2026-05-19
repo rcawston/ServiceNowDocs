@@ -30,15 +30,15 @@ The elements included on the search results page differ by UI, as described in t
 
 [Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
 
-[Set global text search properties](../task/set-global-text-search-properties.md)
+[Set global text search properties](set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md)
 
-[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)
+[Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](r_GlobalTextSearchSuggestions.md)
 
 ## Search results page in Next Experience UI
 
@@ -94,7 +94,7 @@ Total number of records matching your search.
 
 </td><td>
 
-Name of a search source table and the number of previewed and total matching records in that table. Users with the admin or ui\_builder\_admin roles can hide the per-table counts of matching records. For details on making this change, see [Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md).
+Name of a search source table and the number of previewed and total matching records in that table. Users with the admin or ui\_builder\_admin roles can hide the per-table counts of matching records. For details on making this change, see [Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md).
 
 </td></tr><tr><td>
 
@@ -104,9 +104,9 @@ Name of a search source table and the number of previewed and total matching rec
 
 Partial list of matching records for the specified table, with maximum count controlled by the preview limit. By default, the system displays up to 10 matching records per table, sorted from highest to lowest document score. The system displays a separate list for each table in the search source. By default, the system displays fields from the table's text\_search list view for each search result. If this view doesn't exist for the table, it instead displays fields from the default list view. For more details on the text\_search list view and the format of individual result listings, see [Text search views control format of global search results for tables](text-search-view-formats-results.md).
 
- Users with the admin role can override the preview results limit for a search application by modifying the application's record in the Workspace Global Search Configuration \[sys\_aw\_global\_search\_config\] table. For more details on this procedure, see [Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md).
+ Users with the admin role can override the preview results limit for a search application by modifying the application's record in the Workspace Global Search Configuration \[sys\_aw\_global\_search\_config\] table. For more details on this procedure, see [Set the preview limit for global or workspace search in Next Experience UI](set-app-preview-limit-polaris-ui.md).
 
- Administrators can also modify the search results table list view by modifying the value of the **glide.ui.text\_search.view** system property. For details on changing this value, see [Set global text search properties](../task/set-global-text-search-properties.md).
+ Administrators can also modify the search results table list view by modifying the value of the **glide.ui.text\_search.view** system property. For details on changing this value, see [Set global text search properties](set-global-text-search-properties.md).
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Link to all matching records from the searched table. Select the link to launch 
 
 </td><td>
 
-List of search source tables, showing the number of matching search results per table. Select the search source table name to display the associated preview list results. Search source tables with no matching results don't appear in this list. Users with the admin or ui\_builder\_admin roles can hide the per-table counts of matching records. For details on making this change, see [Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md).
+List of search source tables, showing the number of matching search results per table. Select the search source table name to display the associated preview list results. Search source tables with no matching results don't appear in this list. Users with the admin or ui\_builder\_admin roles can hide the per-table counts of matching records. For details on making this change, see [Hide per-table search result counts in Next Experience UI](hide-result-counts-polaris-ui.md).
 
 </td></tr></tbody>
 </table>## View and open search results using workspace applications in Next Experience Unified Navigation
@@ -147,7 +147,7 @@ Role required: none
 
 In addition to global search, you may have access to workspace search applications, such as CSM/FSM Configurable Workspace. If you have access to multiple search applications, the search field's drop-down search context menu displays all available search applications, with the current application preselected. To view and open search results in another application, select it from the search context menu.
 
-Users with the administrator role can add workspace applications to the search context menu. For details on this procedure, see [Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md).
+Users with the administrator role can add workspace applications to the search context menu. For details on this procedure, see [Add a workspace application to the Unified Navigation search context menu](add-app-search-context-polaris-ui.md).
 
 ### Procedure
 
@@ -220,7 +220,7 @@ Name of the search group that includes the table with matching records.
 
 Partial list of matching records for the specified table, with maximum count controlled by the preview limit. By default, the system displays up to 10 matching records per table, sorted from highest to lowest document score. The system displays a separate list for each table in the search group. By default, the system uses the table's text\_search list view if available. Otherwise, it displays fields with the default list view.
 
- Users with the admin role can modify the default preview results limit and search results table list view by changing the values of the **glide.ui.text\_search.rowcount** and **glide.ui.text\_search.view** system properties. For more details on these properties, see [Set global text search properties](../task/set-global-text-search-properties.md).
+ Users with the admin role can modify the default preview results limit and search results table list view by changing the values of the **glide.ui.text\_search.rowcount** and **glide.ui.text\_search.view** system properties. For more details on these properties, see [Set global text search properties](set-global-text-search-properties.md).
 
 </td></tr><tr><td>
 
@@ -228,7 +228,7 @@ Partial list of matching records for the specified table, with maximum count con
 
 </td><td>
 
-Name of the search group table and the number of matching records in the table. Click the link to launch a filtered list view based on the query. Users with the admin role can hide matching record counts by setting the **sn\_global\_searchui.hide\_results\_count** property to **true** in the [System Property](../../reference-pages/reference/r_AvailableSystemProperties.md#) table.
+Name of the search group table and the number of matching records in the table. Click the link to launch a filtered list view based on the query. Users with the admin role can hide matching record counts by setting the **sn\_global\_searchui.hide\_results\_count** property to **true** in the [System Property](../r_AvailableSystemProperties.md#) table.
 
 </td></tr><tr><td>
 

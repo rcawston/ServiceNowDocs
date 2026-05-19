@@ -17,7 +17,7 @@ Configure prioritized event optimization to enable schedule adjustments in respo
 
 ## Before you begin
 
-To set the system properties for the prioritized event mode, see [Schedule Optimization properties](../reference/schedule-optimization-properties.md).
+To set the system properties for the prioritized event mode, see [Schedule Optimization properties](../schedule-optimization-properties.md).
 
 Role required: wm\_admin
 

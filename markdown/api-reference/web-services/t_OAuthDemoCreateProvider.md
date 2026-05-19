@@ -62,7 +62,7 @@ Role required: oauth\_admin
 16. Click **Update**.
 
 
-**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)
+**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](c_OAuth2ProfileTutorialGoogle.md)
 
 **Previous topic:**[OAuth 2.0 tutorial - configure the Google service as an OAuth provider](t_OAuthDemoConfigureGoogle.md)
 

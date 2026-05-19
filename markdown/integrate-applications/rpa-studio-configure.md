@@ -17,25 +17,25 @@ The ServiceNow® RPA Desktop Design Studio is a Windows native application that 
 
 ## Important information
 
-Refer to the [List of components compatible with latest version](../reference/list-components-upgrade.md) topic, for a list of components that are executed in their latest versions in the RPA Desktop Design Studio and robots, irrespective of the version they were used during the automation design.
+Refer to the [List of components compatible with latest version](list-components-upgrade.md) topic, for a list of components that are executed in their latest versions in the RPA Desktop Design Studio and robots, irrespective of the version they were used during the automation design.
 
 ## Configuration overview
 
 Perform the following tasks to download the installation package and configure the RPA Desktop Design Studio after installation.
 
-1.  [Install RPA Desktop Design Studio](../task/install-rpa-studio.md)
+1.  [Install RPA Desktop Design Studio](install-rpa-studio.md)
 
     You can install the RPA Desktop Design Studio application in your Windows machine if you have the admin role.
 
-2.  [Set up RPA Desktop Design Studio](../task/set-up-rpa-studio.md)
+2.  [Set up RPA Desktop Design Studio](set-up-rpa-studio.md)
 
     Set up RPA Desktop Design Studio to add your ServiceNow® RPA Hub instance details in Connection Manager and to start using the application.
 
-3.  [Connect to an RPA Hub instance from RPA Desktop Design Studio](../task/connect-studio-instance-rpa.md)
+3.  [Connect to an RPA Hub instance from RPA Desktop Design Studio](connect-studio-instance-rpa.md)
 
     Establish a connection between the RPA Desktop Design Studio and ServiceNow® RPA Hub instance to connect to an RPA Hub instance in three ways using Connection Manager.
 
-4.  For the upgrade scenario, if your instance is installed with a hot fix and later upgraded to a newer release, verify to install the required hotfix for the respective plugins on the new plugin bundle. The system overrides it by default. Failing to do so, the hotfix will not be applied and you might encounter the same issue again. For more information, see [Post requisites after installing a hot fix](../task/post-req-hot-fix-rpa.md).
+4.  For the upgrade scenario, if your instance is installed with a hot fix and later upgraded to a newer release, verify to install the required hotfix for the respective plugins on the new plugin bundle. The system overrides it by default. Failing to do so, the hotfix will not be applied and you might encounter the same issue again. For more information, see [Post requisites after installing a hot fix](post-req-hot-fix-rpa.md).
 
 ## Using Guided Setup to implement RPA Desktop Design Studio
 

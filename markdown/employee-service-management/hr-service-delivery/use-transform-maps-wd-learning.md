@@ -34,9 +34,9 @@ For details on the transform maps, navigate to **System Import Sets** &gt; **Adm
 **Related topics**  
 
 
-[View user activity for Workday Learning](../task/sync-user-actitvity-wdl-intg.md)
+[View user activity for Workday Learning](sync-user-actitvity-wdl-intg.md)
 
-[View track approval for Workday Learning](../task/track-approval-adl-intg.md)
+[View track approval for Workday Learning](track-approval-adl-intg.md)
 
 [Import set tables in HR Service Delivery Integration with Workday Learning](import-set-tables.md)
 

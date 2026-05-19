@@ -16,5 +16,5 @@ You can do the following configuration tasks to customize your Service Bridge fo
 **Related topics**  
 
 
-[Activate remote catalog item entitlements for Service Exchange Consumers](../concept/psds-servicebridge-config-activate-entitlements.md)
+[Activate remote catalog item entitlements for Service Exchange Consumers](psds-servicebridge-config-activate-entitlements.md)
 

@@ -37,5 +37,5 @@ KB articles can be generated for engagements in the **Awaiting approval**, **Fol
 4.  Click **Generate report**.
 
 
-**Parent Topic:**[Manage engagements](../concept/c_Engagements.md)
+**Parent Topic:**[Manage engagements](c_Engagements.md)
 

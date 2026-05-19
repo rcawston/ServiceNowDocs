@@ -25,7 +25,7 @@ Role required: admin
 
 2.  In the **Search** field, enter `evt_mgmt.alert_auto_assignment_field` and select the property record.
 
-    For more information on the property, see [Team-based integration properties](../reference/team-based-integrations-properties.md).
+    For more information on the property, see [Team-based integration properties](team-based-integrations-properties.md).
 
 3.  In the **Value** field, enter the assignment group precedence.
 
@@ -34,10 +34,10 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Alert assignment groups for teams](../concept/alert-assignment-group.md)
+**Parent Topic:**[Alert assignment groups for teams](alert-assignment-group.md)
 
 **Related topics**  
 
 
-[Team-based integration properties](../reference/team-based-integrations-properties.md)
+[Team-based integration properties](team-based-integrations-properties.md)
 

@@ -21,5 +21,5 @@ If the severity condition is classified as **HIGH** or **VERY HIGH** from Veraco
 
 If you are an upgrading customer and you want to customize the conditions with any additional security data or change the existing conditions, you must update the script in the **Fetch Risk Sonar Security and Incident data** action in the change flow. Ensure that you are referring to the **Application Vulnerability Scan Summary Details \(sn\_vul\_app\_vul\_scan\_summary\_details\)** table in the script when you customize. For more information, see [Security scan results](security-tool-framework.md).
 
-**Parent Topic:**[Veracode integration with DevOps Change Velocity](../concept/veracode-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Veracode integration with DevOps Change Velocity](veracode-integration-with-devops-change-velocity.md)
 

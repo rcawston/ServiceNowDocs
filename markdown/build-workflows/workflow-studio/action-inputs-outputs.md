@@ -19,7 +19,7 @@ Actions and subflows use variables to store input and output data. The variable 
 
 The Workflow Studio UI displays action inputs as data pills in the Input Variables section of the Data pane. Action outputs are listed as data pills in the Output Variables section of the Data pane.
 
-Workflow Studio does not display step input variables in the data pane. The output variables produced by each step are available in the data pane as part of the step that created them. For more information on using input and output variables to create a custom action, see [Building actions](../concept/actions.md).
+Workflow Studio does not display step input variables in the data pane. The output variables produced by each step are available in the data pane as part of the step that created them. For more information on using input and output variables to create a custom action, see [Building actions](actions.md).
 
 ![Screen shot of the Workflow Studio data panel. The Input Variables section contains a record data pill labelled Incident. The Output Variables section contains a record data pill labelled Problem.](../images/action-input-outputs-data-pane.png "Sample Workflow Studio data panel")
 
@@ -29,11 +29,11 @@ Each data pill consists of a label and a data type description. For example, the
 
 The Workflow Studio UI displays the flow trigger as a data pill in the data pane, and displays subflow inputs as data pills in the Subflow Inputs section of the Data pane. Subflow outputs are listed as data pills in the Subflow Outputs section of the Data pane.
 
-Workflow Studio does not display action input variables in the data pane. The output variables produced by each action are available in the data pane as part of the action that created them. For more information on using input and output variables to create a flow, see [Building flows](../concept/flows.md).
+Workflow Studio does not display action input variables in the data pane. The output variables produced by each action are available in the data pane as part of the action that created them. For more information on using input and output variables to create a flow, see [Building flows](flows.md).
 
 ## Supported variable data types
 
-Workflow Studio supports variable data types to store ServiceNow AI Platform record data and complex data. Variables that store record data must have a data type matching the ServiceNow AI Platform [field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md) of the source data. Variables for [complex data](../concept/complex-data.md) must match the type of complex data stored, either an array or an object.
+Workflow Studio supports variable data types to store ServiceNow AI Platform record data and complex data. Variables that store record data must have a data type matching the ServiceNow AI Platform [field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md) of the source data. Variables for [complex data](complex-data.md) must match the type of complex data stored, either an array or an object.
 
 **Note:** This reference documentation doesn't list all possible ServiceNow AI Platform data types available to actions and flows. Instead, the reference information focuses on the data types used by ServiceNow provided actions and flows. For a list and descriptions of available ServiceNow AI Platform data types, see [field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
 

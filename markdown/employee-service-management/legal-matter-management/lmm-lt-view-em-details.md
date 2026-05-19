@@ -70,5 +70,5 @@ Action
 4.  Select link in the Legal Tracker matter link field to open and view the matter in Legal Tracker.
 
 
-**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

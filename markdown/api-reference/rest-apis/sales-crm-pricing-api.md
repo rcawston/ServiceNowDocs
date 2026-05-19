@@ -64,10 +64,10 @@ The caller sends a Pricing REST API request that can include:
 
 Requests must include \(`"use_external_code": true`\) in the settings object to enable external code resolution.
 
--   **[Sales CRM Pricing - DELETE - /api/sn\_csm\_pricing/v1/pricingengine/pricing\_context/\{pricing\_context\_id\}](../reference/sales_crm_pricing-DELETE-pricing-context-id.md)**  
+-   **[Sales CRM Pricing - DELETE - /api/sn\_csm\_pricing/v1/pricingengine/pricing\_context/\{pricing\_context\_id\}](sales_crm_pricing-DELETE-pricing-context-id.md)**  
 Terminate a session with a given ID that was established during a configurator session.
--   **[Sales CRM Pricing - POST /api/sn\_csm\_pricing/\{api\_version\}/pricingengine/computePrice](../reference/sales_crm_pricing-POST-compute-price.md)**  
+-   **[Sales CRM Pricing - POST /api/sn\_csm\_pricing/\{api\_version\}/pricingengine/computePrice](sales_crm_pricing-POST-compute-price.md)**  
 Enables callers to compute the price of products specified in the request payload. The pricing settings included in the payload determine and control the execution flow of the Pricing Engine, such as whether to apply validations, adjustments, or rollups.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](api-rest.md)
 

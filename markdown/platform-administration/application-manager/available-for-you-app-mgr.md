@@ -15,9 +15,9 @@ breadcrumb: [Explore, Application Manager, Administering applications, Get start
 
 The **Available for you** tab displays all applications, products, and plugins.
 
-The applications and products in **Available for you** include the ones available for purchase from the ServiceNow Store and the ones that are already licensed. For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+The applications and products in **Available for you** include the ones available for purchase from the ServiceNow Store and the ones that are already licensed. For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../getting-apps-trials.md).
 
-The plugins in this section include those that are licensed and ready to install and those that need to be requested. For more information about requesting plugins, see [Request a plugin](../../plugins/task/t_RequestAPlugin.md).
+The plugins in this section include those that are licensed and ready to install and those that need to be requested. For more information about requesting plugins, see [Request a plugin](../t_RequestAPlugin.md).
 
 ![Application Manager home.](../image/app-manager-home.png)
 

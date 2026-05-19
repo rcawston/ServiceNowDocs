@@ -61,7 +61,7 @@ Generate and edit knowledge articles in the Knowledge Center from a task using A
 **Related topics**  
 
 
-[Configure skill for Now Assist context menu](../../knowledge-management/task/Now-Assist-configuring-context-menu-skill.md)
+[Configure skill for Now Assist context menu](now-assist-in-knowledge-management/Now-Assist-configuring-context-menu-skill.md)
 
 [Generate and edit articles using Now Assist in the Knowledge Center article editor](../../knowledge-management/task/kc-article-editor.md)
 

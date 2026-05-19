@@ -38,5 +38,5 @@ You can add cards from multiple task tables, such as Incident or Problem, to the
     The task appears in the first lane by default.
 
 
-**Parent Topic:**[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+**Parent Topic:**[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
 

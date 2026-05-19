@@ -48,5 +48,5 @@ Role required: none
     **Important:** If the language of your Microsoft Windows machine is non-english, then an unhandled exception error message is displayed when you click the Target Objects Preview pane. Click **Ok** on the error message box to proceed configuring the connector.
 
 
-**Parent Topic:**[Windows connector](../concept/windows-connector.md)
+**Parent Topic:**[Windows connector](windows-connector.md)
 

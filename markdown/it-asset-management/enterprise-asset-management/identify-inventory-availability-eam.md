@@ -105,5 +105,5 @@ Average time in days it has taken from ordering to receiving replacement assets 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](../concept/manage-stockroom-inventory-reports.md)
+**Parent Topic:**[Manage stockrooms with inventory reports in the Enterprise Asset Workspace](manage-stockroom-inventory-reports.md)
 

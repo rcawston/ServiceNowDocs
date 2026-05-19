@@ -23,7 +23,7 @@ Before you can begin using Virtual Agent for your software requests, complete th
 
 -   Activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance.
 
-    See [Request Software Asset Management](../task/t_RequSoftwareAssetMgmt.md) for more information on how to activate this plugin.
+    See [Request Software Asset Management](t_RequSoftwareAssetMgmt.md) for more information on how to activate this plugin.
 
 -   Activate the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin on your ServiceNow instance.
 

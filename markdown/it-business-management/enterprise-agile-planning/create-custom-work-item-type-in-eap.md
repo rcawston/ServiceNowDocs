@@ -29,7 +29,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Work item type form](../reference/work-item-type-form-for-eap.md).
+    For field information, see [Work item type form](work-item-type-form-for-eap.md).
 
 4.  Deselect the **Create module** check box.
 

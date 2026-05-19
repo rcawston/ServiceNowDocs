@@ -37,11 +37,11 @@ Role required: sn\_lc.catalog\_manager
 **Related topics**  
 
 
-[Create exam catalogs](../task/create-exam-catalog.md)
+[Create exam catalogs](create-exam-catalog.md)
 
-[Create an exam](../task/create-exam.md)
+[Create an exam](create-exam.md)
 
-[View an exam instance](../task/view-exam-instance.md)
+[View an exam instance](view-exam-instance.md)
 
 [Learning internal content form](learning-internal-content-form-ca.md)
 

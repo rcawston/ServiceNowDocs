@@ -37,7 +37,7 @@ Enable Auto-refresh
 
 </td><td>
 
-Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created in Dispatcher Workspace. Enabling the feature here gives dispatchers the option to enable or disable this setting on Dispatcher Workspace.**Note:** Ensure the system property **Enable Shift Scheduling for FSM to Determine Availability** is enabled. For more information, see [Activate Workforce Optimization for Field Service](activate-wfo-fsm.md).
+Automatically refreshes the agent's calendar when an event such as a meeting, training, time-off request, personal, or an ad hoc work event is created in Dispatcher Workspace. Enabling the feature here gives dispatchers the option to enable or disable this setting on Dispatcher Workspace.**Note:** Ensure the system property **Enable Shift Scheduling for FSM to Determine Availability** is enabled. For more information, see [Activate Workforce Optimization for Field Service](workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 </td></tr><tr><td>
 

@@ -23,7 +23,7 @@ The user with these roles must also be a manager of the assignment group that is
 
 ## About this task
 
-You can define the start and end dates for which you want to visualize the forecast data. The start date for a forecast configuration is based on the number of historical days you want to consider for data visualization. This is set using the **sn\_agent\_forecast.number\_of\_historical\_days\_in\_timeseries\_chart** [property](../reference/configurable-wfo-itsm-demand-forecast-reference.md).
+You can define the start and end dates for which you want to visualize the forecast data. The start date for a forecast configuration is based on the number of historical days you want to consider for data visualization. This is set using the **sn\_agent\_forecast.number\_of\_historical\_days\_in\_timeseries\_chart** [property](configurable-wfo-itsm-demand-forecast-reference.md).
 
 The default start date is set to 90 days ago starting from the day before the current day. The end date is calculated based on the period length and the periods to forecast represented in days. For example, if the period length is 7 days and the periods to forecast is 5, then the end date is 35 days including the current day.
 
@@ -78,5 +78,5 @@ The default start date is set to 90 days ago starting from the day before the cu
 
 [Create a manual adjustment for a forecast](create-manual-adjustment-configurable-wfo-itsm.md)
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](../concept/setting-up-demand-forecast-configurable-wfo-itsm.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](setting-up-demand-forecast-configurable-wfo-itsm.md)
 

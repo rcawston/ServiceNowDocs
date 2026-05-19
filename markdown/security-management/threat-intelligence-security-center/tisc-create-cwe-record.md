@@ -77,5 +77,5 @@ Select a **Type**: **Primary** or **Secondary**.**Note:** The type indicates whe
 6.  To link related CWEs, scroll to the **Related Records** &gt; **CWEs** related list and click **Link**.
 
 
-**Parent Topic:**[Vulnerability Artifacts](../concept/vulnerability.md)
+**Parent Topic:**[Vulnerability Artifacts](vulnerability.md)
 

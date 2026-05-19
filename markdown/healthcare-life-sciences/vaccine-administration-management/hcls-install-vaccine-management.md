@@ -89,5 +89,5 @@ Role required: admin
         You can encrypt additional data fields based on your requirements and configurations. For information about additional encryption capabilities including edge encryption, database encryption, and full disk encryption, see the [Data encryption white paper](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/wp-data-encryption-with-servicenow.pdf).
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
 

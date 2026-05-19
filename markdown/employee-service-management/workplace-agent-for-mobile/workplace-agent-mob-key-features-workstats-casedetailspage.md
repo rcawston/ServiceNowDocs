@@ -266,5 +266,5 @@ For more actions, select the action menu ![Menui con](../images/wsdagentmob-acti
     The option enables you to view all the attachments of the task at a single place.
 
 
-**Parent Topic:**[Workplace Agent for mobile - references](../concept/workplace-agent-mobile-references.md)
+**Parent Topic:**[Workplace Agent for mobile - references](workplace-agent-mobile-references.md)
 

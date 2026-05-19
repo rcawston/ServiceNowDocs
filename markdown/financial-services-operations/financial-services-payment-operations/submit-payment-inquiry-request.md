@@ -103,5 +103,5 @@ Steps
 -   Click **View Details** to open the payment inquiry case and view its details. You can also add additional information in the **Comments** field that can help the inquiry agent in resolving the case.
 -   An inquiry agent can start [investigating the payment inquiry case](investigate-payment-inquiry-case.md).
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](managing-payment-inquiries.md)
 

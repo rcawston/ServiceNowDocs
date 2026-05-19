@@ -35,7 +35,7 @@ There are many reasons why you might want to receive the output of a flow. For e
 
 3.  Configure the component properties by using the Properties pane.
 
-    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](../reference/properties-flow-designer-components.md).
+    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](properties-flow-designer-components.md).
 
 4.  Connect the data and control ports of the GetOutputs component to the corresponding ports of the other components as described in the following table.
 
@@ -105,5 +105,5 @@ No. Connecting this port is optional.
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Flow Designer components](../concept/flow-designer-components.md)
+**Parent Topic:**[Flow Designer components](flow-designer-components.md)
 

@@ -15,6 +15,6 @@ Establish internal and external locations so that users and consumers at a busin
 
 |Task|Description|
 |----|-----------|
-|[Create an internal business location](../task/create-internal-business-location.md)|Create an internal business location.|
-|[Create an external business location](../task/create-external-business-location.md)|Create an external business location.|
+|[Create an internal business location](create-internal-business-location.md)|Create an internal business location.|
+|[Create an external business location](create-external-business-location.md)|Create an external business location.|
 

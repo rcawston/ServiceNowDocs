@@ -17,10 +17,10 @@ A GlideScriptableInputStream object cannot be instantiated directly, but is used
 
 The public APIs that can consume this input stream include:
 
--   [GlideDigest](../../GlideDigestScoped/concept/c_GlideDigestScopedAPI.md#)
--   [GlideExcelParser](../../GlideExcelParserScoped/concept/GlideExcelParserScopedAPI.md#)
--   [GlideTextReader](../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#)
--   [XMLDocument2](../../XMLDocument2ScopedAPI/concept/c_XMLDocument2ScopedAPI.md#)
+-   [GlideDigest](c_GlideDigestScopedAPI.md#)
+-   [GlideExcelParser](GlideExcelParserScopedAPI.md#)
+-   [GlideTextReader](c_GlideTextReaderScopedAPI.md#)
+-   [XMLDocument2](c_XMLDocument2ScopedAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 

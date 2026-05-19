@@ -57,11 +57,11 @@ Drag additional entity classes from the list on the left and drop them on the to
 
 After modeling out entities, define the risks in your organization:
 
--   [Generate a risk from a risk framework](../../grc-risk/task/t_GenerateRiskFromStatement.md)
--   [Generate a risk from a risk statement](../../grc-risk/task/t_GenRiskFromRiskFrameProfile.md)
--   [Associate a risk framework or risk statement with an entity type to generate risks](../../grc-risk/task/t_GenerateRiskFromFramework.md)
+-   [Generate a risk from a risk framework](t_GenerateRiskFromStatement.md)
+-   [Generate a risk from a risk statement](t_GenRiskFromRiskFrameProfile.md)
+-   [Associate a risk framework or risk statement with an entity type to generate risks](t_GenerateRiskFromFramework.md)
 
-After generating risks, [Relate risks to each other](../../grc-risk/task/relate-risks-to-each-other.md).
+After generating risks, [Relate risks to each other](relate-risks-to-each-other.md).
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](grc-workbench.md)
 

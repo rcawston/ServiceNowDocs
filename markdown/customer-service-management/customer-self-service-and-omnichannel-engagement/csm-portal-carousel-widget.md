@@ -19,14 +19,14 @@ The following image shows a sample carousel widget on a portal home page.
 
 ![Portal Banner Carousel widget displaying items in scrolling list format.](../image/csm-config-carousel-widget.gif "Portal Banner Carousel widget")
 
-For more information, see [Add and configure the Portal Banner Carousel widget](../task/config-portal-banner-carousel-widget.md)
+For more information, see [Add and configure the Portal Banner Carousel widget](config-portal-banner-carousel-widget.md)
 
 **Related topics**  
 
 
 [Portal Banner widget](portal-banner-widget.md)
 
-[Add and configure the Portal Banner Carousel widget](../task/config-portal-banner-carousel-widget.md)
+[Add and configure the Portal Banner Carousel widget](config-portal-banner-carousel-widget.md)
 
 [Set up Configurable Portal widgets](csm-configurable-portal-widget.md)
 

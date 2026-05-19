@@ -15,7 +15,7 @@ Learn about the base system functionality included in with ServiceNow® mobile a
 
 ## Base system functionality for Mobile Agent
 
-Take advantage of the Mobile Agent app by activating the base system applications available from ServiceNow. For a list of plugins available for Mobile Agent, see [Mobile plugins for Mobile Agent](../reference/sg-mobile-plugins-agent.md).
+Take advantage of the Mobile Agent app by activating the base system applications available from ServiceNow. For a list of plugins available for Mobile Agent, see [Mobile plugins for Mobile Agent](sg-mobile-plugins-agent.md).
 
 To use the Mobile Agent app, you must install additional plugins, which provide capability such as customer service, asset receiving, or IT service management.
 
@@ -73,5 +73,5 @@ If you're an iOS user, you can use Siri to open some pages in the app. These Sir
     -   Open your requests.
 
 </td></tr></tbody>
-</table>Add functionality to the Now Mobile app by installing plugins. For a list of the available plugins, see [Mobile plugins for Now Mobile](../reference/sg-mobile-plugins-now.md).
+</table>Add functionality to the Now Mobile app by installing plugins. For a list of the available plugins, see [Mobile plugins for Now Mobile](sg-mobile-plugins-now.md).
 

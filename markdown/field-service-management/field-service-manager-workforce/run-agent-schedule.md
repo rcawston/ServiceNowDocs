@@ -39,7 +39,7 @@ By default the Populate Agents Daily Schedule Table runs once a day at midnight 
 **Related topics**  
 
 
-[Change the number of days that dispatchers can hide off shift agents](change-hide-off-shift.md)
+[Change the number of days that dispatchers can hide off shift agents](../change-hide-off-shift.md)
 
-[Show or hide off shift agents from the calendar in Dispatcher Workspace](hide-off-shift-agents.md)
+[Show or hide off shift agents from the calendar in Dispatcher Workspace](../field-service-scheduling/hide-off-shift-agents.md)
 

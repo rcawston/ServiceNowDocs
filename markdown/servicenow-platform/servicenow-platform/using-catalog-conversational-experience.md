@@ -217,7 +217,7 @@ By default, all catalog items are conversational. To make the catalog item non-c
 
 [Catalog Conversational Coverage](using-catalog-conversational-experience.md#)
 
-[Topic blocks to request catalog items through conversational experience](request-topic-blocks-va-llm.md)
+[Topic blocks to request catalog items through conversational experience](../service-catalog/request-topic-blocks-va-llm.md)
 
 ## View the conversational catalog overview dashboard using the ServiceNow AI Platform
 
@@ -268,5 +268,5 @@ Role required: catalog\_admin
 **Related topics**  
 
 
-[Edit a catalog item in Catalog Builder](../task/edit-cat-item-cat-builder.md)
+[Edit a catalog item in Catalog Builder](../service-catalog/edit-cat-item-cat-builder.md)
 

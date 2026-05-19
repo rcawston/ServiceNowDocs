@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Select **Export data**.
 
-    A check is performed automatically before exporting. For details about the process, see [ERP Semantic Mining snapshot prerequisite check](../reference/erpcm-snapshot-prerequisite-check.md).
+    A check is performed automatically before exporting. For details about the process, see [ERP Semantic Mining snapshot prerequisite check](erpcm-snapshot-prerequisite-check.md).
 
     If another export is in progress, an export unavailable message is displayed. Select **OK** and view the **Snapshots** tab to monitor the progress.
 
@@ -74,5 +74,5 @@ Role required: admin
         View the **All tasks** tab to check the status.
 
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](configuring-ecm.md)
 

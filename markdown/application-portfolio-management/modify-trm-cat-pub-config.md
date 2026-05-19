@@ -51,7 +51,7 @@ The publishing configuration is updated based on your changes.
 
 You must republish to apply changes to the published knowledge base output. Use the Run logs to monitor the publishing job and confirm completion.
 
-**Parent Topic:**[Working with the publishing center](../../concept/eaw-concept/working-with-publishing-center.md)
+**Parent Topic:**[Working with the publishing center](working-with-publishing-center.md)
 
 **Related topics**  
 
@@ -62,5 +62,5 @@ You must republish to apply changes to the published knowledge base output. Use 
 
 [Access the published TRM catalog knowledge base](access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](understand-publishing-output.md)
 

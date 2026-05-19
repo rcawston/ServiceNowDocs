@@ -21,7 +21,7 @@ Two methods are available in Assistant Designer: large language model \(LLM\) or
 
 For example, if you enable NLU/Keyword in Virtual Agent settings, the topic **Properties** tab includes fields for identifying the NLU model and intent for the topic.
 
-For more information, see [Creating a Virtual Agent topic](../task/create-virtual-agent-topic.md).
+For more information, see [Creating a Virtual Agent topic](create-virtual-agent-topic.md).
 
 ## Topic Properties tab with LLM topic discovery
 
@@ -89,7 +89,7 @@ Topic description used for discovery
 
 </td><td>
 
-Description used by the LLM to accurately match the user's question or request to the right topic. Thorough descriptions improve topic discovery. For more information, see [LLM topic discovery in Virtual Agent](../concept/va-llm.md).
+Description used by the LLM to accurately match the user's question or request to the right topic. Thorough descriptions improve topic discovery. For more information, see [LLM topic discovery in Virtual Agent](va-llm.md).
 
 </td></tr><tr><td>
 
@@ -144,5 +144,5 @@ Confirm modified values with users
 Toggle to allow Virtual Agent to send confirmation messages to users when a value change is detected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+</table>**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
 

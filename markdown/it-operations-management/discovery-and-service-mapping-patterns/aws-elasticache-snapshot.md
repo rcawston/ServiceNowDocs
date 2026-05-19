@@ -20,19 +20,19 @@ Discovery and Service Mapping Patterns finds AWS services on your cloud environm
 
 -   **Verify the AWS discovery prerequisites**
 
-    For more information, see the prerequisites section in [AWS discovery using patterns](../discovery/reference/data-discovered-aws-patterns.md).
+    For more information, see the prerequisites section in [AWS discovery using patterns](data-discovered-aws-patterns.md).
 
 -   **Remove resources from the Resource Inclusion List table**
 
-    Verify that the relevant resource isn't listed in the Resource Inclusion List \[sa\_cloud\_inventory\_resource\_whitelist\] table to avoid duplicate discovery. For more information on removing resources from the Resource Inclusion List, see [AWS Resource Inventory discovery with Patterns](../service-mapping/reference/aws-resource-inventory.md).
+    Verify that the relevant resource isn't listed in the Resource Inclusion List \[sa\_cloud\_inventory\_resource\_whitelist\] table to avoid duplicate discovery. For more information on removing resources from the Resource Inclusion List, see [AWS Resource Inventory discovery with Patterns](aws-resource-inventory.md).
 
 -   **Enable the relevant pattern**
 
-    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](../service-mapping/task/activate-disabled-pattern.md).
+    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](activate-disabled-pattern.md).
 
 -   **Configure the Discovery schedule to support GovCloud**
 
-    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [Create AWS service accounts](../it-operations-management/task/create-aws-service-accounts.md).
+    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [Create AWS service accounts](../create-aws-service-accounts.md).
 
 
 Discovery and Service Mapping Patterns application populates data in both CMDB and non-CMDB tables.
@@ -83,5 +83,5 @@ The pattern collects tags and populates them in the Key Value \[cmdb\_key\_value
 |Key \[key\]|Tag name.|
 |Value \[value\]|Tag value.|
 
-**Parent Topic:**[AWS discovery using patterns](../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](data-discovered-aws-patterns.md)
 

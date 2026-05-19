@@ -28,15 +28,15 @@ The connected model, which is defined on the remote table **Details** tab, contr
 
 ## Limitations of remote tables
 
-To promote data integrity, you can't create new remote tables in Zero Copy Connector for ERP, but you can clone existing models and extend standard ERP remote tables to customize them. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](../task/erp-canvas-clone-data-model.md).
+To promote data integrity, you can't create new remote tables in Zero Copy Connector for ERP, but you can clone existing models and extend standard ERP remote tables to customize them. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](erp-canvas-clone-data-model.md).
 
 ERP remote tables have a limit of 1,000 records. If you need a larger amount of data, use an ERP extraction table.
 
--   **[View and edit ERP remote table details with Zero Copy Connector for ERP](../task/erpi-find-tables.md)**  
+-   **[View and edit ERP remote table details with Zero Copy Connector for ERP](erpi-find-tables.md)**  
 View and edit details for ERP \(Enterprise Resource Planning\) remote tables in Zero Copy Connector for ERP, such as their attachment settings and short descriptions.
--   **[Customize fields for an ERP remote table in Zero Copy Connector for ERP](../task/erp-canvas-build-remote-table.md)**  
+-   **[Customize fields for an ERP remote table in Zero Copy Connector for ERP](erp-canvas-build-remote-table.md)**  
 Add or remove columns in remote tables in Zero Copy Connector for ERP \(Enterprise Resource Planning\) to create your ERP model. For example, remove fields with sensitive information, such as birthdays.
--   **[Query a remote table using Zero Copy Connector for ERP](../task/erp-canvas-query-remote-table.md)**  
+-   **[Query a remote table using Zero Copy Connector for ERP](erp-canvas-query-remote-table.md)**  
 Query ERP \(Enterprise Resource Planning\) remote tables from a system of record directly from the **All** menu using Zero Copy Connector for ERP.
 
 **Parent Topic:**[Retrieving data](erp-retrieving-data.md)

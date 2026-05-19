@@ -57,12 +57,12 @@ Role required: report\_admin or admin.
 6.  Click **Update** to save the map.
 
 
-**Parent Topic:**[Map report administration](../concept/c_AdministeringMapReports.md)
+**Parent Topic:**[Map report administration](c_AdministeringMapReports.md)
 
 **Related topics**  
 
 
-[Map report objects](../concept/c_MapReportObjects.md)
+[Map report objects](c_MapReportObjects.md)
 
 [Automatically generate a map source hierarchy](t_AutoGenerateMapSourceHierarchy.md)
 

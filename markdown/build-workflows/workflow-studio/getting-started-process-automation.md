@@ -26,7 +26,7 @@ ServiceNow process automation applications help you digitize, visualize, and man
 
 The ServiceNow process automation applications that you can use to digitize your business processes into automated workflows on the ServiceNow AI Platform include:
 
--   **[Flows](../../flow-designer/concept/flows.md)**
+-   **[Flows](flows.md)**
 
     Flows enables process owners to automate approvals, tasks, notifications, and record operations without having to code.
 
@@ -53,8 +53,8 @@ Many different user roles are involved in creating effective digitized, automate
 To find out more about how you can use Workflow Studio and Playbooks to digitize your business processes, try checking out these resources:
 
 -   [Flow Designer fundamentals course](https://nowlearning.service-now.com/lxp?id=overview&sys_id=af2b04171b6f80905c28997fbd4bcb05&type=course)
--   [Exploring flows](../../workflow-studio/concept/exploring-flows.md)
+-   [Exploring flows](exploring-flows.md)
 -   [Building your first playbook](getting-started-processes.md)
 
-**Parent Topic:**[Exploring Workflow Studio](../../workflow-studio/concept/exploring-workflow-studio.md)
+**Parent Topic:**[Exploring Workflow Studio](exploring-workflow-studio.md)
 

@@ -266,5 +266,5 @@ Vulnerabilities
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat actors](../concept/threat-actors.md)
+</table>**Parent Topic:**[Threat actors](threat-actors.md)
 

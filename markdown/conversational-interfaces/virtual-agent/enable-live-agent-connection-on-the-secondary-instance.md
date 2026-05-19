@@ -47,7 +47,7 @@ Role required: admin or virtual\_agent\_admin
 
 **Parent Topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](using-sn-secondary-bot-with-sn-primary.md)
 
-**Previous topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](../task/create-va-topic-sn-primary-secondary-config.md)
+**Previous topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](create-va-topic-sn-primary-secondary-config.md)
 
-**Next topic:**[Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](../task/debug-bot-sn-sn-configuration.md)
+**Next topic:**[Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](debug-bot-sn-sn-configuration.md)
 

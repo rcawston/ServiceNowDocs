@@ -55,5 +55,5 @@ You can also clone and modify the default topics or create your own topics to us
     **Note:** If you have already published the **Track Universal Request Status \(Template\)** topic for Universal Request, you can skip this step.
 
 
-**Parent Topic:**[Configure Universal Request integration with Microsoft Teams](../concept/ur-ms-teams-config-ur.md)
+**Parent Topic:**[Configure Universal Request integration with Microsoft Teams](ur-ms-teams-config-ur.md)
 

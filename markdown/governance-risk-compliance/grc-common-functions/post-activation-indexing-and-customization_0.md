@@ -36,7 +36,7 @@ The sn\_grc\_context\_definition table holds definitions for all GRC terms, incl
 **Related topics**  
 
 
-[Activate the Report a GRC issue AI agent](../concept/activate-the-issue-submission-ai-agent.md)
+[Activate the Report a GRC issue AI agent](activate-the-issue-submission-ai-agent.md)
 
 [Report a GRC issue](report-a-grc-issue.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowSDK framework contains methods that enable the instantiation of various feature services.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowSDK - configure\(with configuration: NowSDKConfiguration\) throws
 
@@ -25,7 +25,7 @@ Configures NowSDK for use. You must call this function before calling any of the
 
 |Name|Type|Description|
 |----|----|-----------|
-|with configuration|[NowSDKConfiguration](../../NowSDKConfiguration/concept/NowSDKConfigurationiOSAPI.md#)|NowSDKConfiguration that contains the information necessary to initialize the service.|
+|with configuration|[NowSDKConfiguration](NowSDKConfigurationiOSAPI.md#)|NowSDKConfiguration that contains the information necessary to initialize the service.|
 
 |Type|Description|
 |----|-----------|
@@ -88,7 +88,7 @@ Convenience function that feature services can use to construct n NowServiceConf
 
 |Type|Description|
 |----|-----------|
-|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|If the specified URL passes basic validity checks, and the service configuration can be properly constructed, returns the NowServiceConfiguration object; otherwise `nil`.|
+|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|If the specified URL passes basic validity checks, and the service configuration can be properly constructed, returns the NowServiceConfiguration object; otherwise `nil`.|
 
 The following code example shows how to call this function.
 

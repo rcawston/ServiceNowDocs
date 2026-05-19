@@ -117,5 +117,5 @@ The following event category configurations are available by default:
 -   **[Configure an event load order in Workforce Optimization for ITSM](add-event-load-property-configurable-workspace.md)**  
 Add a system property to display your preferred event categories first on the calendar.
 
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](setup-scheduling-configurable-workforce-optimization-itsm.md)
 

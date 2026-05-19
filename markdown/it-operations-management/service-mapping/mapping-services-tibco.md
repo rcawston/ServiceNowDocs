@@ -37,7 +37,7 @@ The following data is collected in the ActiveMatrix Business Works `[cmdb_ci_app
 
 By default, Discovery uses the **Enterprise Message Service** pattern to discover Tibco Enterprise Message Service.
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -59,7 +59,7 @@ For a list of privileged commands that you need for Discovery and Service Mappin
 
 Service Mapping can discover application services that contain Tibco ActiveMatrix BusinessWorks \(including BusinessWorks Process\), Tibco Enterprise Message Service \(EMS\), Tibco Enterprise Message Service \(EMS\) Queue.
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
 
 ## Map application services containing Tibco BusinessWorks and EMS
 
@@ -145,7 +145,7 @@ Service Mapping failed to run the `TibcoFilesParser.ksh` command.
 
 </td><td>
 
-Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](../reference/r_NonSudoCommands.md).
+Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](r_NonSudoCommands.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Service Mapping failed to run the `tibemsadmin` command.
 
 </td><td>
 
-Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](../reference/r_NonSudoCommands.md).
+Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](r_NonSudoCommands.md).
 
 </td></tr></tbody>
 </table>

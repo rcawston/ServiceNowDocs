@@ -55,12 +55,12 @@ For projects created from an incident, problem, or change, updating the project 
 
 ## What to do next
 
--   [Cancel the resource plans](../../resource-management/task/cancel-resource-plan-from-project-or-demand.md) associated with the project in any of the following conditions:
+-   [Cancel the resource plans](../resource-management/cancel-resource-plan-from-project-or-demand.md) associated with the project in any of the following conditions:
     -   There is a corresponding resource plan in the Confirmed, Planning, or Requested state.
     -   There is a resource plan in the Allocated state with the start date later than the project end date.
--   [Complete the resource plans](../../resource-management/task/complete-resource-plan-from-project-or-demand.md) associated with the project in the following conditions:
+-   [Complete the resource plans](../resource-management/complete-resource-plan-from-project-or-demand.md) associated with the project in the following conditions:
     -   There is a corresponding resource plan in the Allocated state.
     -   The start date of the resource plan is on or before the actual end date of the project or task.
 
-**Parent Topic:**[Using Project Management](../concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](using-project-management.md)
 

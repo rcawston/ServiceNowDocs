@@ -24,7 +24,7 @@ The following table lists the mandatory fields for the Purchase Entity Stage inb
 |Legal entity|String|Detailed information about individual suppliers, including banking details, payment methods, and credit terms.|
 |Name|String|Name of the purchase entity.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](spo-inbound-staging-tables.md)
 
 **Related topics**  
 

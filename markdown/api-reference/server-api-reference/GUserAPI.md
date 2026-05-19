@@ -17,7 +17,7 @@ The GlideUser API provides methods to access information about the current user 
 
 Using the GlideUser API avoids the need to use the slower GlideRecord queries to obtain user information.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## GlideUser - getCompanyID\(\)
 
@@ -38,7 +38,7 @@ gs.info(currentUser.getCompanyID());
 
 ### Scoped equivalent
 
-To use the getCompanyID\(\) method in a scoped application, use the corresponding scoped method: [getCompanyID\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getCompanyID\(\) method in a scoped application, use the corresponding scoped method: [getCompanyID\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getDisplayName\(\)
 
@@ -59,7 +59,7 @@ gs.info(currentUser.getDisplayName());
 
 ### Scoped equivalent
 
-To use the getDisplayName\(\) method in a scoped application, use the corresponding scoped method: [getDisplayName\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getDisplayName\(\) method in a scoped application, use the corresponding scoped method: [getDisplayName\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getDomainDisplayValue\(\)
 
@@ -125,7 +125,7 @@ gs.info(currentUser.getEmail());
 
 ### Scoped equivalent
 
-To use the getEmail\(\) method in a scoped application, use the corresponding scoped method: [getEmail\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getEmail\(\) method in a scoped application, use the corresponding scoped method: [getEmail\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getFirstName\(\)
 
@@ -166,7 +166,7 @@ gs.info('Data type: ' + typeof userName);
 
 ### Scoped equivalent
 
-To use the getFirstName\(\) method in a scoped application, use the corresponding scoped method: [getFirstName\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getFirstName\(\) method in a scoped application, use the corresponding scoped method: [getFirstName\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getID
 
@@ -187,7 +187,7 @@ gs.info(currentUser.getID());
 
 ### Scoped equivalent
 
-To use the getID\(\) method in a scoped application, use the corresponding scoped method: [getID\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getID\(\) method in a scoped application, use the corresponding scoped method: [getID\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getLastName\(\)
 
@@ -228,7 +228,7 @@ gs.info('Data type: ' + typeof userName);
 
 ### Scoped equivalent
 
-To use the getLastName\(\) method in a scoped application, use the corresponding scoped method: [getLastName\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getLastName\(\) method in a scoped application, use the corresponding scoped method: [getLastName\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getMyGroups\(\)
 
@@ -278,7 +278,7 @@ gs.info(currentUser.getName());
 
 ### Scoped equivalent
 
-To use the getName\(\) method in a scoped application, use the corresponding scoped method: [getName\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getName\(\) method in a scoped application, use the corresponding scoped method: [getName\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getRoles\(\)
 
@@ -307,7 +307,7 @@ admin,hr_fulfiller,itsa_fulfiller,security_admin
 
 ### Scoped equivalent
 
-To use the getRoles\(\) method in a scoped application, use the corresponding scoped method: [getRoles\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getRoles\(\) method in a scoped application, use the corresponding scoped method: [getRoles\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - getTimeZoneLabel\(\)
 
@@ -455,7 +455,7 @@ gs.info('Data type: ' + typeof userRoles);
 
 ### Scoped equivalent
 
-To use the getUserRoles\(\) method in a scoped application, use the corresponding scoped method: [getUserRoles\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the getUserRoles\(\) method in a scoped application, use the corresponding scoped method: [getUserRoles\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - hasRole\(String role\)
 
@@ -478,7 +478,7 @@ gs.info(currentUser.hasRole('admin'));
 
 ### Scoped equivalent
 
-To use the hasRole\(\) method in a scoped application, use the corresponding scoped method: [hasRole\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the hasRole\(\) method in a scoped application, use the corresponding scoped method: [hasRole\(\)](c_GlideUserScopedAPI.md#).
 
 ## GlideUser - isExplicitMemberOf\(String group\)
 
@@ -574,5 +574,5 @@ false
 
 ### Scoped equivalent
 
-To use the isMemberOf\(\) method in a scoped application, use the corresponding scoped method: [isMemberOf\(\)](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#).
+To use the isMemberOf\(\) method in a scoped application, use the corresponding scoped method: [isMemberOf\(\)](c_GlideUserScopedAPI.md#).
 

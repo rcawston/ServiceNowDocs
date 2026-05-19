@@ -82,7 +82,7 @@ Mobile Application Management \(MAM\)
 
 </td><td>
 
-Whether you want to use a MAM vendor with your apps. For more information, see [Mobile application management \(MAM\) integration](../concept/sg-mam.md).
+Whether you want to use a MAM vendor with your apps. For more information, see [Mobile application management \(MAM\) integration](sg-mam.md).
 
  To enable a MAM vendor, select the **Use Mobile Application Management** toggle.
 
@@ -138,7 +138,7 @@ This table shows all ServiceNow instances used for your organization. Select the
 
 -   This functionality can only be edited when you submit a new branded app request or when you update a branded app.
 -   If you’re updating an iOS branded app, you must download the Apple App Site Association \(AASA\) JSON file after you submit this request and install the file on all instances in the URL list.
-To learn more about deep links and universal links, see [Mobile URLs](../concept/mobile-urls.md).
+To learn more about deep links and universal links, see [Mobile URLs](mobile-urls.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -155,7 +155,7 @@ Turn on this toggle to build an instance URL into your branded app so end-users 
  **Note:**
 
 -   This instance URL can only be added when you submit a new branded app request or when you update a branded app.
--   Don’t select this option if you’re using AppConfig to preconfigure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+-   Don’t select this option if you’re using AppConfig to preconfigure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [AppConfig for Mobile Apps](appconfig.md).
 
 
 </td></tr><tr><td>
@@ -231,5 +231,5 @@ After you have requested an updated Android app for public distribution, perform
 -   **[Test and publish an updated iOS app for public distribution](testpub-updat-ios-app-pub.md)**  
 After you have requested an updated iOS branded mobile app for public distribution, perform these steps to test and publish it.
 
-**Parent Topic:**[Request, test, and publish a branded mobile app](../concept/request-test-pub-branded-mob-app.md)
+**Parent Topic:**[Request, test, and publish a branded mobile app](request-test-pub-branded-mob-app.md)
 

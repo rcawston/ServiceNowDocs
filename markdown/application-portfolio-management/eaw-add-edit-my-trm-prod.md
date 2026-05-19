@@ -35,12 +35,12 @@ Role required: sn\_apm.apm\_analyst
     -   To update a product details, select a TRM product, then select **Edit**.
 6.  On the TRM Product form, fill in the fields.
 
-    For field information, see [Create new TRM product form](../../reference/eaw-reference/eaw-new-trm-prod-form.md).
+    For field information, see [Create new TRM product form](eaw-new-trm-prod-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](eaw-work-with-your-entities.md)
 
 **Related topics**  
 

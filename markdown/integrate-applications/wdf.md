@@ -25,7 +25,7 @@ Unify data from different systems into one consistent, governed layer. Package t
 
 </td><td>
 
-[Ask Now Assist![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Now Assist for Workflow Data Fabric \(WDF\)](../task/ask-now-assist-for-recommendation.md)
+[Ask Now Assist![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn how to use Now Assist for Workflow Data Fabric \(WDF\)](ask-now-assist-for-recommendation.md)
 
 </td></tr><tr><td>
 
@@ -33,7 +33,7 @@ Unify data from different systems into one consistent, governed layer. Package t
 
 </td><td>
 
-[Build data assets![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn about data products and data interfaces](../../../administer/data-products/concept/data-products.md)
+[Build data assets![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn about data products and data interfaces](data-products.md)
 
 </td><td>
 

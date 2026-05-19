@@ -107,5 +107,5 @@ Updates and information related to the channel partner.
 **Related topics**  
 
 
-[Configure Channel Partner table](../task/configure-channel-partner-table.md)
+[Configure Channel Partner table](configure-channel-partner-table.md)
 

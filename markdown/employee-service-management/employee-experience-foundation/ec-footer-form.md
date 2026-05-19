@@ -24,7 +24,7 @@ Use the Footer form to create a new footer that you want to appear in the Employ
 |Copyright|The copyright information to appear in the footer.|
 |Active|Option to activate this footer for use.|
 
-**Parent Topic:**[Footer configuration](../concept/emp-center-footer-config.md)
+**Parent Topic:**[Footer configuration](emp-center-footer-config.md)
 
 **Parent Topic:**[Employee Center reference](emp-center-reference.md)
 
@@ -41,7 +41,7 @@ Use the Footer form to create a new footer that you want to appear in the Employ
 
 [Default Employee Profile Header Configuration record](default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](employee-center-widgets-list.md)
 
 [Employee Profile form](employee-profile-fieldconfig.md)
 

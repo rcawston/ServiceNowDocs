@@ -33,7 +33,7 @@ Role required: it\_project\_manager
 
 6.  In the Cost Plan Breakdown form, view and update the enabled fields.
 
-    For more information, see [Cost plan breakdown form](../reference/cost-plan-breakdown-form.md).
+    For more information, see [Cost plan breakdown form](cost-plan-breakdown-form.md).
 
 
 **Parent Topic:**[Create a project cost plan](t_CreateAProjectCostPlan.md)
@@ -41,7 +41,7 @@ Role required: it\_project\_manager
 **Related topics**  
 
 
-[Cost plan breakdown](../concept/cost-plan-breakdown.md#)
+[Cost plan breakdown](cost-plan-breakdown.md#)
 
-[System-generated cost plans](../concept/cost-plan-breakdown.md#)
+[System-generated cost plans](cost-plan-breakdown.md#)
 

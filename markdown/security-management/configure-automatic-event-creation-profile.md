@@ -15,7 +15,7 @@ Configure the ServiceNow AI Platform to automatically create events in MISP.
 
 ## Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) that are required for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](misp-user-roles-and-permissions.md) that are required for using the MISP bi-directional features.
 -   Role required: sn\_si.admin, sn\_ti.admin
 
 ## Procedure
@@ -78,12 +78,12 @@ Option that indicates if the profile is active or inactive. The option is cleare
 </table>4.  Click **Continue**.
 
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](../reference/get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
 
 [Install and configure the MISP integration for Security Operations](install-and-configure-misp.md)
 
@@ -91,15 +91,15 @@ Option that indicates if the profile is active or inactive. The option is cleare
 
 [Configure MISP sighting searches](configure-sightings-search.md)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](misp-event-data.md)
 
-[Associated MISP events](../reference/associated-misp-events.md)
+[Associated MISP events](associated-misp-events.md)
 
-[MISP user information](../reference/misp-user-information.md)
+[MISP user information](misp-user-information.md)
 
-[Domain separation and MISP](../reference/domain-separation-and-misp.md)
+[Domain separation and MISP](domain-separation-and-misp.md)
 
-[Troubleshooting MISP integration](../reference/troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](troubleshooting-misp-integration.md)
 
 ## Configure event trigger conditions
 

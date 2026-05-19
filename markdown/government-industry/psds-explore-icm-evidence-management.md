@@ -35,7 +35,7 @@ Investigators can access Evidence Management directly from the Investigative Cas
 -   Property \(items discovered or stolen\)
 -   Organizations \(gangs, schools, employers\)
 
-For information on how to link evidence to entities, see [Associate and link evidence to entities](../task/psds-using-icm-associate-evidence-entities.md).
+For information on how to link evidence to entities, see [Associate and link evidence to entities](psds-using-icm-associate-evidence-entities.md).
 
 ## Evidence Tabs
 
@@ -100,5 +100,5 @@ In the Investigative Case Management application, a Chain of Custody record answ
 
 The following example shows the view for an investigator who wants to view the log for a piece of evidence.![Evidence Management CoC Log](../image/icmcocview.png)
 
-For information on how to create a chain of custody log in Evidence Management, see [Create a chain of custody log for an evidence record in an investigative case](../task/psds-using-icm-create-chain-of-custody-log.md).
+For information on how to create a chain of custody log in Evidence Management, see [Create a chain of custody log for an evidence record in an investigative case](psds-using-icm-create-chain-of-custody-log.md).
 

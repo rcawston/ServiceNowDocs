@@ -25,7 +25,7 @@ MISP, which stands for Malware Information Sharing Platform, lets you exchange a
 
 This integration includes the things that you can do with the MISP key features:
 
--   [Connect to private and public MISP instances](../task/install-and-configure-misp.md#table_kyc_qbg_pa1).
+-   [Connect to private and public MISP instances](install-and-configure-misp.md#table_kyc_qbg_pa1).
 -   [Support manual and automatic sighting search of observables](sightings-searches-in-misp.md#).
 -   [Run sighting search from case management](sightings-searches-in-misp.md#).
 -   [Report or update sightings to an attribute](sightings-searches-in-misp.md#):
@@ -37,8 +37,8 @@ This integration includes the things that you can do with the MISP key features:
 -   [Event creation in MISP from SIR](events-in-misp.md#): Supports manual and the automatic creation of events in MISP from SIR.
 -   Update a MISP event from SIR which includes adding or updating [tags](events-in-misp.md#), [galaxies](events-in-misp.md#), or [attributes](events-in-misp.md#).
 -   [Add security incident associated observables as attributes to a MISP event](events-in-misp.md#).
--   [Auto-extract MITRE-ATT&amp;CK™ information from MISP attributes](../task/rollup-mitre-information-using-misp-enrichment-results.md) and associate the information to SIR security incidents.
--   [Automatically add SIR MITRE-ATT&amp;CK™ information as galaxies to a MISP event](../task/review-the-misp-integration-settings.md#ul_pf2_41x_nqb).
+-   [Auto-extract MITRE-ATT&amp;CK™ information from MISP attributes](rollup-mitre-information-using-misp-enrichment-results.md) and associate the information to SIR security incidents.
+-   [Automatically add SIR MITRE-ATT&amp;CK™ information as galaxies to a MISP event](review-the-misp-integration-settings.md#ul_pf2_41x_nqb).
 
 ## Key concepts
 
@@ -86,5 +86,5 @@ You can set up MISP integration in the ServiceNow AI Platform to perform a sight
 -   **[Using MISP to investigate and analyze threats](using-misp-to-detect-and-analyze-threats.md)**  
 You can use the MISP data across the ServiceNow AI Platform Threat Intelligence module and the ServiceNow AI Platform SIR module to investigate and analyze threats to your organization.
 
-**Parent Topic:**[Threat Intelligence integrations](../../threat-intelligence/concept/threat-intelligence-integrations.md)
+**Parent Topic:**[Threat Intelligence integrations](threat-intelligence-integrations.md)
 

@@ -35,5 +35,5 @@ To make a data visualization on a dashboard reusable, or to be able to edit it i
 -   **[Open a visualization in the Visualization Designer from a dashboard](open-dv-on-db-in-vd.md)**  
 From the dashboard editor, open a data visualization in the Visualization Designer. You have a different set of options.
 
-**Parent Topic:**[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](common-dv-tasks.md)
 

@@ -36,5 +36,5 @@ Screen fetch types typically do not need to be changed. Be sure to test fetch ty
 4.  Click **Update**.
 
 
-**Parent Topic:**[Mobile fetch types](../reference/applet-fetch-types.md)
+**Parent Topic:**[Mobile fetch types](applet-fetch-types.md)
 

@@ -19,7 +19,7 @@ Generate a target record for a profile to track NIST RMF attributes.
 
 Role required: admin.
 
-**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../../grc-cam/reference/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](../continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Policy and Compliance Management
 
@@ -45,5 +45,5 @@ NIST RMF role required: sn\_irm\_nist\_rmf.risk\_executive or sn\_irm\_nist\_rmf
     3.  Confirm that the target appears in the list.
 
 
-**Parent Topic:**[Categorize targets](../concept/rmf-categorize.md)
+**Parent Topic:**[Categorize targets](rmf-categorize.md)
 

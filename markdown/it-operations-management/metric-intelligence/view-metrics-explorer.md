@@ -25,7 +25,7 @@ The Insights Explorer provides a canvas to which you can drag various metrics fo
 
 Insights Explorer displays metric boundaries according to the most recently configured model. Therefore, legacy anomalies from a previous build may still appear as anomalies, even though according to the current boundaries, the alert does not qualify as an anomaly.
 
-You can also access the Insights Explorer from the business service map. For details, see [View metrics from a business service map](t_EMViewDashboard.md).
+You can also access the Insights Explorer from the business service map. For details, see [View metrics from a business service map](../event-management/t_EMViewDashboard.md).
 
 ![Dashboard for Metric Intelligence metrics, where you can display charts for selected CI metrics.](../image/InsightsExplorerLondon.png "Insights Explorer")
 
@@ -85,7 +85,7 @@ Modifications in the Insights Explorer remain during the session, and once the I
 
     For each metric, a sparkline displays metric values for the CI for the last hour. Point to the sparkline to display the metric value at each point of time.
 
-    If [resource binding](../concept/resource-binding.md) is enabled, then the list of series being monitored for a CI also contains series that belong to a resource and metric. The naming convention for such series is '&lt;resource name&gt;/&lt;metric name&gt;'. For a series that is only bound to a CI, the naming convention is '&lt;metric name&gt;'.
+    If [resource binding](resource-binding.md) is enabled, then the list of series being monitored for a CI also contains series that belong to a resource and metric. The naming convention for such series is '&lt;resource name&gt;/&lt;metric name&gt;'. For a series that is only bound to a CI, the naming convention is '&lt;metric name&gt;'.
 
 3.  Drag a metric to the **Drop Metric To Create Chart** area on the canvas and point to the chart to display the exact metric value at each point of time.
 

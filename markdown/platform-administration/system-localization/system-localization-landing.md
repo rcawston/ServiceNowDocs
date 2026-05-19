@@ -31,11 +31,11 @@ Localization allows administrators to accommodate users from a variety of differ
 
 </td><td>
 
-[Translate to a new language![](../../../reuse/icons/brand-icons/bus-global.svg)Translate an instance to a language without a language plugin.](../task/self-localize.md)
+[Translate to a new language![](../../../reuse/icons/brand-icons/bus-global.svg)Translate an instance to a language without a language plugin.](self-localize.md)
 
 </td></tr><tr><td colspan="2">
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, tables, and more.](../reference/system-localization-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, tables, and more.](system-localization-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -49,8 +49,8 @@ Localization allows administrators to accommodate users from a variety of differ
 
 -   **[Translating custom content](translating-applications.md)**  
 Translate content you create or modify to a supported language or add an unsupported language.
--   **[System Localization reference](../reference/system-localization-reference.md)**  
+-   **[System Localization reference](system-localization-reference.md)**  
 Reference topics provide additional information about configuration properties, tables, and more.
 
-**Parent Topic:**[ServiceNow AI Platform translation and localization](../../managing-data/concept/translation-and-localization.md)
+**Parent Topic:**[ServiceNow AI Platform translation and localization](translation-and-localization.md)
 

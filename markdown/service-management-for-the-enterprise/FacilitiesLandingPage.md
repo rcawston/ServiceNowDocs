@@ -21,33 +21,33 @@ Facilities Service Management is being prepared for future deprecation. It will 
 
 **Explore**
 
- -   [Facilities Service Management overview](../concept/c_FacilitiesServiceManagement.md)
--   [Domain separation and Facilities Service Management](../concept/domain-separation-facilities-service-mgt.md)
+ -   [Facilities Service Management overview](c_FacilitiesServiceManagement.md)
+-   [Domain separation and Facilities Service Management](domain-separation-facilities-service-mgt.md)
 
 </td><td>
 
 **Set up**
 
- -   [Activate Facilities Visualization Workbench](../../facilities-interactive-facility-maps/task/t_ActivateFacVisWorkbench.md)
+ -   [Activate Facilities Visualization Workbench](t_ActivateFacVisWorkbench.md)
 
 </td><td>
 
 **Administer**
 
- -   [Facilities service management process](../concept/c_FacilitiesSMProcess.md)
--   [Configure Facilities Service Management](../task/t_ConfigureFacilities.md)
--   [Configure Enterprise Move](../../facilities-move-management/task/t_ConfigureEnterpriseMove.md)
+ -   [Facilities service management process](c_FacilitiesSMProcess.md)
+-   [Configure Facilities Service Management](t_ConfigureFacilities.md)
+-   [Configure Enterprise Move](t_ConfigureEnterpriseMove.md)
 -   [Properties installed with Facilities Service Management](r_PropInstallWFacServMgmnt.md)
--   [Properties installed with Facilities Move Management](../../facilities-move-management/reference/r_PropsInstallWFacMoveMgmt.md)
+-   [Properties installed with Facilities Move Management](r_PropsInstallWFacMoveMgmt.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Facilities requests](../concept/c_FacilitiesRequests.md)
--   [Facilities request tasks](../../planning-and-policy/concept/c_FacRequestTasks.md)
+ -   [Facilities requests](c_FacilitiesRequests.md)
+-   [Facilities request tasks](c_FacRequestTasks.md)
 -   [Space management](r_SpaceManagement.md)
--   [Facilities move management](../../facilities-move-management/concept/c_FacMoveMgmt.md)
+-   [Facilities move management](c_FacMoveMgmt.md)
 
 </td><td>
 

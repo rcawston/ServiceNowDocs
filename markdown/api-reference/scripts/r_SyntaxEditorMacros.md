@@ -15,7 +15,7 @@ breadcrumb: [Using the JavaScript syntax editor, JavaScript syntax editor, Scrip
 
 Script macros provide shortcuts for typing commonly used code. To insert macro text into a script field, enter the macro keyword followed by the Tab.
 
-Syntax editor macros are defined in the Editor Macros \[syntax\_editor\_macro\] table. To create or modify a script macro, see [Create a script macro for the syntax editor](../task/t_ManageScriptMacros.md).
+Syntax editor macros are defined in the Editor Macros \[syntax\_editor\_macro\] table. To create or modify a script macro, see [Create a script macro for the syntax editor](t_ManageScriptMacros.md).
 
 -   **vargr**
     -   Inserts a standard GlideRecord query for a single value.

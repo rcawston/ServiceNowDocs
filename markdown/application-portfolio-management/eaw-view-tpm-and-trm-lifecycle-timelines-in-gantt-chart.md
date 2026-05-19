@@ -50,14 +50,14 @@ Role required: sn\_apm.apm\_analyst
     ![Show list displaying the TRM option.](../../image/eaw-image/TRM-selected-gantt-chart.png)
 
 
-**Parent Topic:**[Working with Gantt chart views in EA Workspace](../../concept/eaw-concept/eaw-work-with-gantt-chart-views.md)
+**Parent Topic:**[Working with Gantt chart views in EA Workspace](eaw-work-with-gantt-chart-views.md)
 
 **Related topics**  
 
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
 
-[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+[Working with Technology Portfolio Management \(TPM\) in EA Workspace](eaw-work-with-tpm.md)
 
-[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+[Working with application rationalization](eaw-work-with-app-rat.md)
 

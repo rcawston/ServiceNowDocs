@@ -60,5 +60,5 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 Once you receive the decision from the outside counsel about whether the patent is being filed, finalize the request application process. For more information, see [Facilitate the patent review process](facilitate-patent-review-process.md).
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](use-legal-invention-disclosure.md)
 

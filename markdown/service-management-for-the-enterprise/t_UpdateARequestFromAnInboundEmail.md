@@ -26,5 +26,5 @@ Requests can be automatically updated from the information in inbound email repl
 3.  You can use the email action as is or modify it to meet the needs of your organization.
 
 
-**Parent Topic:**[Request creation using inbound email actions](../reference/r_ReqCreateUseInboundEmailAct.md)
+**Parent Topic:**[Request creation using inbound email actions](r_ReqCreateUseInboundEmailAct.md)
 

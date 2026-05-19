@@ -41,12 +41,12 @@ One digital interface can be connected to one or more APIs. One API can be conne
 
 8.  On the Digital Interface to API form, fill in the fields.
 
-    For field descriptions, see [Digital interface to API form](../../reference/eaw-reference/eaw-dig-interface-api-form.md). Information for the fields Environment, Lifecycle Stage, and Lifecycle Stage Status are derived from the API. ![Connect digital interface to API](../../image/eaw-image/eaw-dig-interface-to-api.png)
+    For field descriptions, see [Digital interface to API form](eaw-dig-interface-api-form.md). Information for the fields Environment, Lifecycle Stage, and Lifecycle Stage Status are derived from the API. ![Connect digital interface to API](../../image/eaw-image/eaw-dig-interface-to-api.png)
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 

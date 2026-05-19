@@ -15,12 +15,12 @@ In the assessment process, users complete assessment questionnaires on topics of
 
 No special role is required to complete an assessment. You are eligible to complete assessments that are assigned to you. For example, you might be expected to evaluate vendors your organization works with, based on traits related to customer service. The system stores your responses so decision makers can compare the performance of the items you evaluate. You and your manager may receive email notifications as reminders of important assessment information.
 
-**Parent Topic:**[Take an assessment](../task/t_TakeAnAssessment.md)
+**Parent Topic:**[Take an assessment](t_TakeAnAssessment.md)
 
 **Related topics**  
 
 
-[Assessment notifications](../reference/r_AssessmentNotifications.md)
+[Assessment notifications](r_AssessmentNotifications.md)
 
-[Take an assessment](../task/t_TakeAnAssessment.md)
+[Take an assessment](t_TakeAnAssessment.md)
 

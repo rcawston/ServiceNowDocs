@@ -60,7 +60,7 @@ Role required: Sourcing manager
 
 ## What to do next
 
-Decide if you want to negotiate with suppliers right away, or skip this step and start qualifying the sourcing request instead. You can perform these actions from the Sourcing approach section of the sourcing intake playbook. For details, see [Select a sourcing approach in playbook](select-sourcing-approach.md). For more information about the qualification process, see [Supplier qualification](../reference/supplier-qualification.md).
+Decide if you want to negotiate with suppliers right away, or skip this step and start qualifying the sourcing request instead. You can perform these actions from the Sourcing approach section of the sourcing intake playbook. For details, see [Select a sourcing approach in playbook](select-sourcing-approach.md). For more information about the qualification process, see [Supplier qualification](supplier-qualification.md).
 
-**Parent Topic:**[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+**Parent Topic:**[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
 

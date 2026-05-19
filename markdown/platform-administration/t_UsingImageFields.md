@@ -49,5 +49,5 @@ You can add a new image field.
 **Related topics**  
 
 
-[Configuring the form layout](../../form-administration/concept/configure-form-layout.md#)
+[Configuring the form layout](configure-form-layout.md#)
 

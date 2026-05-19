@@ -72,7 +72,7 @@ Monitor and review purchase order exceptions from a centralized interface
 
 </td><td>
 
-[POM landing page](purch-order-mgmt-tab-s2pws.md)
+[POM landing page](source-to-pay-workspace/purch-order-mgmt-tab-s2pws.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Create and assign purchase order exception tasks to other buyers and collaborato
 
 </td><td>
 
-[Create and assign a purchase order exception task](../task/assign-a-poe-task-to-a-collaborator.md)
+[Create and assign a purchase order exception task](assign-a-poe-task-to-a-collaborator.md)
 
 </td><td>
 
@@ -108,8 +108,8 @@ Review and complete assigned purchase order exception tasks
 
 </td><td>
 
--   [Work on a purchase order exception task](../task/work-on-a-purchase-order-exception.md)
--   [View a purchase order exception task](../task/view-po-exception-task.md)
+-   [Work on a purchase order exception task](work-on-a-purchase-order-exception.md)
+-   [View a purchase order exception task](view-po-exception-task.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ To learn more about configuring and using Purchase Order Management, see:
 
 -   [Configure Purchase Order Management](configure-purch-order-mgmt.md)
 -   [Use Purchase Order Management](use-purch-order-mgmt.md)
--   [Purchase Order Management reference](../reference/purchase-order-mgmt-reference.md)
+-   [Purchase Order Management reference](purchase-order-mgmt-reference.md)
 
 -   **[Source-to-Pay Workspace](purch-order-mgmt-ws.md)**  
 The Purchase Order Management page in the Source-to-Pay Workspace enables you to manage and work on tasks related to purchase order exceptions.

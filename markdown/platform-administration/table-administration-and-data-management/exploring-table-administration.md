@@ -40,28 +40,28 @@ This infographic depicts how an administrator can extend both core tables and cu
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Define models and entity relationships across multiple tables.|[Data dictionary tables](../../managing-data/concept/c_DataDictionaryTables.md)|Admin|
+|Define models and entity relationships across multiple tables.|[Data dictionary tables](c_DataDictionaryTables.md)|Admin|
 |Access visual references for tables and their contents.|[Viewing table references and extensions](c_SchemaMapForTables.md)|Admin|
-|Store records for your instance.|[Create a table](../task/t_CreateATable.md)|Admin|
+|Store records for your instance.|[Create a table](t_CreateATable.md)|Admin|
 |Remove unneeded tables from your instance.|[Deleting custom tables](c_DeleteATable.md)|Admin|
-|Quickly find data stored in a table.|[Create a table index](../task/t_CreateCustomIndex.md)|Admin|
-|Connect a list to another list of multiple entries instead of a single field.|[Create a many-to-many table relationship](../task/t_CreateAManyToManyRelationship.md)|Admin|
-|Organize and store task-related data.|[Working with the Task table](../../task-table/concept/c_TaskTable.md)|Admin|
-|Connect tables for reporting purposes.|[Working with database views for reporting](../../../use/reporting/concept/c_DatabaseViews.md)|Admin|
+|Quickly find data stored in a table.|[Create a table index](t_CreateCustomIndex.md)|Admin|
+|Connect a list to another list of multiple entries instead of a single field.|[Create a many-to-many table relationship](t_CreateAManyToManyRelationship.md)|Admin|
+|Organize and store task-related data.|[Working with the Task table](c_TaskTable.md)|Admin|
+|Connect tables for reporting purposes.|[Working with database views for reporting](c_DatabaseViews.md)|Admin|
 
 ## What to explore next
 
 To learn more about using table administration features, see:
 
 -   [Managing tables and indexes](using-table-administration.md)
--   [Working with the Task table](../../task-table/concept/c_TaskTable.md)
--   [Working with database views for reporting](../../../use/reporting/concept/c_DatabaseViews.md)
+-   [Working with the Task table](c_TaskTable.md)
+-   [Working with database views for reporting](c_DatabaseViews.md)
 
 -   **[Custom tables](custom-tables.md)**  
 Custom tables enable you to expand the functionality of the ServiceNow AI Platform and create custom applications.
--   **[Data dictionary tables](../../managing-data/concept/c_DataDictionaryTables.md)**  
+-   **[Data dictionary tables](c_DataDictionaryTables.md)**  
 Access details related to tables, columns, and field labels in your instance.
--   **[System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md)**  
+-   **[System dictionary](c_SystemDictionary.md)**  
 View a list of all tables in columns in your instance from the system dictionary.
 -   **[Table relationships](table-relationships.md)**  
 You can create relationships between tables by extending tables, referencing records in another table, creating many-to-many relationships, and joining tables in a database view.
@@ -70,5 +70,5 @@ Enable one or more child tables to share fields and records with a parent table.
 -   **[Storage aliases](storage-aliases.md)**  
 Learn about the role storage aliases play in data manipulation and field creation in the ServiceNow AI Platform.
 
-**Parent Topic:**[ServiceNow AI Platform tables and data](../../general/concept/tables-fields-and-forms.md)
+**Parent Topic:**[ServiceNow AI Platform tables and data](tables-fields-and-forms.md)
 

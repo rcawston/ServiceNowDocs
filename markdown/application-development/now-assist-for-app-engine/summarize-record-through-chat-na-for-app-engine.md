@@ -64,5 +64,5 @@ If you want to reuse the summary, select the copy to clipboard icon \(![Copy to 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for App Engine](../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md)
+**Parent Topic:**[Using Now Assist for App Engine](use-now-assist-for-app-engine-enterprise.md)
 

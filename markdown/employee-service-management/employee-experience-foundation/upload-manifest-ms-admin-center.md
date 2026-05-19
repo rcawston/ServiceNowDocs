@@ -44,5 +44,5 @@ Role required: Microsoft Admin
     For more information about deploying add-ins, see [Deploy an Office Add-in using the admin center](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide#deploy-an-office-add-in-using-the-admin-center) in the Microsoft documentation.
 
 
-**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](../concept/configuring-sn-addin-for-ms365.md)
+**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](configuring-sn-addin-for-ms365.md)
 

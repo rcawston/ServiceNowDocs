@@ -33,7 +33,7 @@ When the supplier's legal name is included in the email in the given format, the
 
 When the supplier's name is not the exact legal name, a case is still created with the **Supplier** field set as empty. An auto-email is sent to the supplier contact requesting for the valid supplier's legal name. Once the supplier contact shares the supplier's legal name, it has to be added manually by the assigned person. The case is then assigned and the Supplier field is updated to mandatory.
 
-**Parent Topic:**[Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md)
+**Parent Topic:**[Configure properties for Supplier Case Management](config-prop-supp-mgmt.md)
 
 **Related topics**  
 

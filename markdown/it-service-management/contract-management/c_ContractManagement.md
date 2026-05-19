@@ -29,9 +29,9 @@ Contract Management is active by default. If the Cost Management plugin is activ
 
 If you are using the Software Asset Management plugin, use the Software Licenses option.
 
--   **[Use the Asset Contract Overview module](../task/t_UseTheContractMgmtOverviewModule.md)**  
+-   **[Use the Asset Contract Overview module](t_UseTheContractMgmtOverviewModule.md)**  
 You can view information about your contract status in the Contract Management Overview module.
--   **[Components installed with Contract Management](../reference/r_ComponentsInstalledWContractMgmt.md)**  
+-   **[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)**  
 Several types of components are installed with Contract Management.
 -   **[Contract approval flow](contract-approval-workflow.md)**  
 Use the Contract Approval flow to get approval from the approver defined in the contract. You can edit the existing flow or create a flow in the graphical Workflow Studio to meet your organization's contract approval process.
@@ -42,12 +42,12 @@ Condition check definitions enable you to define logical conditions that indicat
 -   **[Domain separation and Contract Management](domain-separation-contract-mgmt.md)**  
 Domain separation is unsupported in Contract Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Asset Management](../../asset-management/concept/c_AssetManagement.md)
+**Parent Topic:**[Asset Management](../asset-management/c_AssetManagement.md)
 
 **Related topics**  
 
 
-[Create a new expense line](../task/t_CreatingANewExpenseLine.md)
+[Create a new expense line](t_CreatingANewExpenseLine.md)
 
 [Terms and conditions](c_TermsAndConditions.md)
 

@@ -38,5 +38,5 @@ Role required: none
 5.  After the mine completes successfully, select **View in Workspace** to view the refreshed project data.
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](use-process-mining.md)
 

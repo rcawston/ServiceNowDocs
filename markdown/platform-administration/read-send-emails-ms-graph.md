@@ -28,12 +28,12 @@ To receive and email, go to the **Email Account** form, select, **Microsoft Grap
 
 To send and email, go to the **Email Account** form, select, **Microsoft Graph \(Send\)** in the **Type** field.
 
--   **[Activate Email - Support for Email Processing by Microsoft Graph API](../task/ms-graph-plugin.md)**  
+-   **[Activate Email - Support for Email Processing by Microsoft Graph API](ms-graph-plugin.md)**  
 You can activate the Email - Support for Email Processing by Microsoft Graph API plugin \(com.glide.email.graph\) for Notifications if you have the admin role.
 -   **[Reading email using Microsoft Graph](read-email-using-ms-graph.md)**  
 Use Microsoft Graph API to retrieve emails from Microsoft Exchange Online and save them to sys\_email table.
 -   **[Sending email using Microsoft Graph](send-email-using-ms-graph.md)**  
 Use Microsoft Graph endpoints to deliver emails through Microsoft Exchange Online using the SMTP Sender.
 
-**Parent Topic:**[Advanced email setup](../../reference-pages/concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](c_AlternateEmailConfigurations.md)
 

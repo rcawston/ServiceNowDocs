@@ -43,5 +43,5 @@ Role required: sn\_imt\_tracing.wifi\_manager
 7.  Verify that the data records were imported into the Wi-Fi Access Register table by navigating to **Contact Tracing** &gt; **Wi-Fi Access Management** &gt; **Wi-Fi Access Register**.
 
 
-**Parent Topic:**[Retrieving Wi-Fi access log data](../concept/wifi-access-management.md)
+**Parent Topic:**[Retrieving Wi-Fi access log data](wifi-access-management.md)
 

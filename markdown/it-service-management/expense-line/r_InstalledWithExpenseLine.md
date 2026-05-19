@@ -15,16 +15,16 @@ breadcrumb: [Expense Line, IT Service Management]
 
 Several types of components are installed with the Expense Line plugin.
 
-**Parent Topic:**[Expense Line](../../asset-and-configuration/concept/c_ExpenseLine.md)
+**Parent Topic:**[Expense Line](c_ExpenseLine.md)
 
 **Related topics**  
 
 
-[View an expense](../../asset-and-configuration/task/t_ExpenseLinesExample.md)
+[View an expense](t_ExpenseLinesExample.md)
 
-[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
 
-[Domain separation and Expense Line](../concept/domain-separation-expense-line.md)
+[Domain separation and Expense Line](domain-separation-expense-line.md)
 
 ## Tables installed with Expense Line
 

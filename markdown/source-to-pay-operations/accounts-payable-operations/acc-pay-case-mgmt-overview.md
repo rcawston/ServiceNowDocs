@@ -15,7 +15,7 @@ breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
 
 With Invoice Case Management, agents can manage and work on their assigned invoice cases, request more information from suppliers or employees, and create and assign tasks to users using the Accounts Payable workspace.
 
-Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the Accounts Payable Operations \(com.sn\_ap\_apm\) application. However, you can also install Invoice Case Management independently. For more information, see [Install Invoice Case Management](../task/install-invoice-case-mgmt.md).
+Invoice Case Management \(com.sn\_ap\_cm\) is a dependent application and is automatically installed along with the Accounts Payable Operations \(com.sn\_ap\_apm\) application. However, you can also install Invoice Case Management independently. For more information, see [Install Invoice Case Management](install-invoice-case-mgmt.md).
 
 The agent \[sn\_ap\_cm.agent\] and Invoice Case Management administrator \[sn\_ap\_cm.admin\] roles can access the Invoice Case Management application.
 

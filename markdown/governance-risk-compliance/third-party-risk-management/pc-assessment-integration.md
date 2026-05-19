@@ -19,11 +19,11 @@ If you have the Policy and Compliance Management application installed, TPR mana
 
 -   You can associate third parties and engagements to specific control objectives. This association creates controls for the third party or engagement, establishing a direct connection between them and the compliance management process.
 
-    For more information, see [Manually add a control to a third party or engagement](../task/tprm-add-controls-tp.md).
+    For more information, see [Manually add a control to a third party or engagement](tprm-add-controls-tp.md).
 
 -   You can individually link the question to multiple control objectives for each question in a questionnaire template. This enables for a granular and detailed assessment of compliance.
 
-    For more information, see [Manually add a control objective to a question](../task/tprm-add-controls-q.md).
+    For more information, see [Manually add a control objective to a question](tprm-add-controls-q.md).
 
 -   When third parties and engagements respond to questionnaires, the system automatically updates the compliance status of the linked controls. If they provide an incorrect answer, the associated controls are marked as non-compliant. Conversely, correct answers keep the controls compliant.
 
@@ -37,23 +37,23 @@ In the context of Third-party Risk Management, each question in a questionnaire 
 
 This feature helps ensure that the compliance status of controls is dynamically updated based on the third party or engagements responses, providing a real-time and accurate assessment of their compliance. Both Policy and Compliance Management users and Third-party risk assessors \[sn\_vdr\_risk\_asmt.vendor\_assessor\] can monitor the status of a control.
 
-For more information on implementing Policy and Compliance Management, see [Implementing Policy and Compliance Management](../../grc-policy-compliance-implementation/concept/policy-compliance-impl-overview.md).
+For more information on implementing Policy and Compliance Management, see [Implementing Policy and Compliance Management](../policy-and-compliance-management/policy-compliance-impl-overview.md).
 
--   **[Manually add a control to a third party or engagement](../task/tprm-add-controls-tp.md)**  
+-   **[Manually add a control to a third party or engagement](tprm-add-controls-tp.md)**  
 If you’re using both Policy and Compliance Management and Third-party Risk Management, you can associate controls with third parties and engagements. Controls can be marked as compliant or non-compliant.
--   **[Manually add a control objective to a question](../task/tprm-add-controls-q.md)**  
+-   **[Manually add a control objective to a question](tprm-add-controls-q.md)**  
 If you’re using both Policy and Compliance Management and Third-party Risk Management, you can associate control objectives and controls with questions. Controls can be marked as compliant or non-compliant based on the response to the question.
 
-**Parent Topic:**[Integrating TPRM with other applications](../../grc-vendor-risk/concept/integrating-with-tprm.md)
+**Parent Topic:**[Integrating TPRM with other applications](integrating-with-tprm.md)
 
 **Related topics**  
 
 
-[Manually add a control to a third party or engagement](../task/tprm-add-controls-tp.md)
+[Manually add a control to a third party or engagement](tprm-add-controls-tp.md)
 
-[Manually add a control objective to a question](../task/tprm-add-controls-q.md)
+[Manually add a control objective to a question](tprm-add-controls-q.md)
 
-[Assessing your third-party risk](../../grc-vendor-risk/concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](tprm-assessing-tpr.md)
 
-[Implementing Policy and Compliance Management](../../grc-policy-compliance-implementation/concept/policy-compliance-impl-overview.md)
+[Implementing Policy and Compliance Management](../policy-and-compliance-management/policy-compliance-impl-overview.md)
 

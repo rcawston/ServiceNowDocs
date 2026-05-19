@@ -143,12 +143,12 @@ You can set parameters that control how optimization runs.
 -   **[Schedule Optimization integration user access requirements](schedule-optimization-integration-user-access-requirements.md)**  
 Describes the access requirements for the shared integration user account used by Schedule Optimization.
 
-**Parent Topic:**[Field Service Management reference](../../planning-and-policy/reference/fsm-reference.md)
+**Parent Topic:**[Field Service Management reference](fsm-reference.md)
 
 **Related topics**  
 
 
-[Configuring Schedule Optimization](../concept/schedule-optimization-engine.md)
+[Configuring Schedule Optimization](field-service-scheduling/schedule-optimization-engine.md)
 
-[Activate Schedule Optimization](../task/schedule-optimization-engine-plugin.md)
+[Activate Schedule Optimization](field-service-scheduling/schedule-optimization-engine-plugin.md)
 

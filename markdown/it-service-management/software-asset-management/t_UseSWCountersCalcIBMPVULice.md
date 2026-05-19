@@ -56,5 +56,5 @@ Processor definitions are searched as licenses are counted. If a processor defin
     ![SAM software counter PVU results](../image/SAMSoftwareCounterPVUResults2.png)
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
 

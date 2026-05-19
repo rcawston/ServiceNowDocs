@@ -19,5 +19,5 @@ By using a MID Server, the request can reach an endpoint that is behind a firewa
 
 To configure an HTTP method to use a MID Server, select a MID Server in the **Use MID Server** field on the HTTP Method form. The instance must have an active MID Server to use this functionality.
 
-**Parent Topic:**[Create a REST message](../task/t_ConfiguringARESTMessage.md)
+**Parent Topic:**[Create a REST message](t_ConfiguringARESTMessage.md)
 

@@ -44,11 +44,11 @@ Role required: pa\_data\_collector or admin
 
 ## What to do next
 
-Click on a job in the list to see a detailed log of the job. For information about the contents of individual job logs, see [Log details for classic data collector](../reference/original-data-collection-process.md) .
+Click on a job in the list to see a detailed log of the job. For information about the contents of individual job logs, see [Log details for classic data collector](original-data-collection-process.md) .
 
 **Note:** If the logs return the following error, `java.lang.IllegalStateException: Sparse storage format has one field, sys_id`, see [KB0550063](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0550063).
 
-**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+**Parent Topic:**[Data collection process and logging](data-collection-process-logging.md)
 
 **Related topics**  
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the GetValueByRegex component. For more information about these properties, see [Properties of the String Utilities components](../reference/util-stringutil-prop.md).
+You can configure the properties for the GetValueByRegex component. For more information about these properties, see [Properties of the String Utilities components](util-stringutil-prop.md).
 
 ## Procedure
 
@@ -43,5 +43,5 @@ You can configure the properties for the GetValueByRegex component. For more inf
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[String utilities](../concept/string-utilities.md)
+**Parent Topic:**[String utilities](string-utilities.md)
 

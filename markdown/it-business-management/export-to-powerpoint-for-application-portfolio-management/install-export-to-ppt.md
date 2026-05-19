@@ -52,7 +52,7 @@ The following components are installed with installation of the Export to PowerP
 -   Roles
 -   Tables
 
-See [Components installed with Export to PowerPoint for Strategic Portfolio Management](../reference/installed-with-export-ppt.md) for more information.
+See [Components installed with Export to PowerPoint for Strategic Portfolio Management](installed-with-export-ppt.md) for more information.
 
-**Parent Topic:**[Configuring Export to PowerPoint](../concept/configure-export-to-ppt.md)
+**Parent Topic:**[Configuring Export to PowerPoint](configure-export-to-ppt.md)
 

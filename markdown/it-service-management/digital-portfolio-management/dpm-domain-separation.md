@@ -33,5 +33,5 @@ The Domain Support - Domain Extensions Installer plugin \(com.glide.domain.msp\_
 
 The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\) must be activated to enable the features for Digital Portfolio Management.
 
-**Parent Topic:**[Digital Portfolio Management reference](../reference/dpm-reference-cfw.md)
+**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
 

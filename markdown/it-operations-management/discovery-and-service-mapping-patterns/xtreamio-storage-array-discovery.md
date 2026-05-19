@@ -632,10 +632,10 @@ Connects to::Connected by
 cmdb\_ci\_fc\_disk
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+</table>**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
 
 **Related topics**  
 
 
-[Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md)
+[Detailed information on products discovered by ITOM Visibility](../itom-visibility/r_SupportedApplications.md)
 

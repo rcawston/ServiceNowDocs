@@ -25,5 +25,5 @@ View the subflow-agent mapping for HR Service Delivery Integration with SuccessF
 |Employee details updater AI agent|Human Capital Management|Update Personal Details|SuccessFactors HR - Update Personal Details|
 |Worker Management|Get Worker|SuccessFactors HR - Look up Worker Profile|
 
-**Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](../concept/hr-service-delivery-integration-with-success-factors-reference.md)
+**Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](hr-service-delivery-integration-with-success-factors-reference.md)
 

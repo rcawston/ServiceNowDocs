@@ -132,7 +132,7 @@ getSSOPrefillLink generates a link that uses the identity provider \(IdP\) that 
 
 </td><td>
 
-getUniversalLink generates a link into either a list, form, or browser. A screen is generated based on the content of this URL. See [Universal linking for mobile](../concept/universal-links-mobile.md).
+getUniversalLink generates a link into either a list, form, or browser. A screen is generated based on the content of this URL. See [Universal linking for mobile](universal-links-mobile.md).
 
 </td><td>
 
@@ -140,5 +140,5 @@ getUniversalLink generates a link into either a list, form, or browser. A screen
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Deep linking for mobile](../concept/deep-link-mobile.md)
+**Parent Topic:**[Deep linking for mobile](deep-link-mobile.md)
 

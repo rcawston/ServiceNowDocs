@@ -34,5 +34,5 @@ Role required: sn\_eam.enterprise\_admin
     **Note:** If the integration profile fails to connect three or more consecutive times, you can view and take action on the corresponding connection issues by using the Carrier integration failures important action in the Inventory view of the Enterprise Asset Workspace.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](manage-shipments-eam.md)
 

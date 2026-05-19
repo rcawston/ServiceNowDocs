@@ -148,7 +148,7 @@ Similarity
 
 </td><td>
 
-Recommends similar knowledge articles by comparing fields in the Knowledge View database view \[sn\_customerservice\_knowledge\_view\] with the **Short description** of the customer service case. **Note:** This solution definition is used in the Auto-Responder feature. For more information, see [Train the similarity solution for finding Auto-Responder notification content](../task/train-sol-defn-auto-responder.md).
+Recommends similar knowledge articles by comparing fields in the Knowledge View database view \[sn\_customerservice\_knowledge\_view\] with the **Short description** of the customer service case. **Note:** This solution definition is used in the Auto-Responder feature. For more information, see [Train the similarity solution for finding Auto-Responder notification content](train-sol-defn-auto-responder.md).
 
 </td></tr></tbody>
 </table>## Business rules for classification solutions

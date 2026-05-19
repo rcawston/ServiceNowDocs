@@ -109,7 +109,7 @@ Start Invoice Processing for Orphan Invoices
 
 </td><td>
 
-Picks up all the invoice records in Draft state that do not have an invoice case associated to them and starts their processing.You must activate the flow to use it. For information on how to activate the flow, see [Activate the Start Invoice Processing for Orphan Invoices flow](../task/activate-start-invoice-processing-flow.md).
+Picks up all the invoice records in Draft state that do not have an invoice case associated to them and starts their processing.You must activate the flow to use it. For information on how to activate the flow, see [Activate the Start Invoice Processing for Orphan Invoices flow](activate-start-invoice-processing-flow.md).
 
 </td></tr></tbody>
 </table>|Job|Description|

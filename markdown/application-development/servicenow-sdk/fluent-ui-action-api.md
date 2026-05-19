@@ -24,7 +24,7 @@ For general information about UI actions, see [Create a UI action](https://raw.g
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](../servicenow-fluent.md)
 
 ## UiAction object
 

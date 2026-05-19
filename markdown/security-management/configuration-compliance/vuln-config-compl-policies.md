@@ -115,7 +115,7 @@ The scheduled job Tenable.io Compliance Results Integration imports configuratio
 
 One of the techniques used by third-party vulnerability scanners to create test groups of software and hardware configuration items for analysis is to organize them by technology. Technologies are an imported library of OSes, network devices, databases, and apps that are associated with policies. Tests have multiple implementations for different technologies. Remediation is technology-specific, as well.
 
-You can [view the applicable technologies](../task/view-vlun-config-compl-technologies.md) for a test, to better understand what kinds of software or hardware assets the control can be applied to. Examples of technologies that can be applied to controls include CentOS 7.x, Windows 8.1, Windows 2016 Server, and so on. The list of technologies is read-only and match the technologies defined in the Qualys Cloud Platform application.
+You can [view the applicable technologies](view-vlun-config-compl-technologies.md) for a test, to better understand what kinds of software or hardware assets the control can be applied to. Examples of technologies that can be applied to controls include CentOS 7.x, Windows 8.1, Windows 2016 Server, and so on. The list of technologies is read-only and match the technologies defined in the Qualys Cloud Platform application.
 
 Technologies are imported for database-related configuration assessments only. The **db\_type** \(if not empty\) in the import is used to create a technology. View technologies populated on the Technologies section on configuration test records, test result records, policy records and at **Configuration Compliance** &gt; **Supporting Data** &gt; **Technologies**.
 

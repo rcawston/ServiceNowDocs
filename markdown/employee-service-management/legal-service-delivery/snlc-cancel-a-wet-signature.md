@@ -68,5 +68,5 @@ Actions
 
 The contract status updates to Signature cancelled, and a notification email is sent to all signatories.
 
-**Parent Topic:**[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a request](snlc-lsd-signature-workflow.md)
 

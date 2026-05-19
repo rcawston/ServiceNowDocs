@@ -27,12 +27,12 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Initiate chargeback and fill merchant response](../task/initiate-chargeback-and-fill-merchant-response.md)
+[Initiate chargeback and fill merchant response](initiate-chargeback-and-fill-merchant-response.md)
 
 </td><td>
 
 1.  The chargeback process gets initiated and the merchant response is submitted Visa for review.
-2.  After the batch queue is triggered, the transaction moves to **Work in progress**. For more information on how to configure the batch queue, see [Configure the Visa Queue Scheduler Flow](../../fso-visa-spoke/task/activate-visa-queue-scheduler-flow.md).
+2.  After the batch queue is triggered, the transaction moves to **Work in progress**. For more information on how to configure the batch queue, see [Configure the Visa Queue Scheduler Flow](../activate-visa-queue-scheduler-flow.md).
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Associated transactions and the dispute response, determine if pre-arbitration i
 
 </td></tr><tr><td>
 
-[Review a dispute response and initiate pre-arbitration](../task/review-dispute-response-and-create-pre-arbitration.md)
+[Review a dispute response and initiate pre-arbitration](review-dispute-response-and-create-pre-arbitration.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Associated transactions and the dispute response, determine if pre-arbitration i
 
 </td></tr><tr><td>
 
-[Review the pre-arbitration response and create a case filing](../task/review-pre-arbitration-response-and-create-case-filing.md)
+[Review the pre-arbitration response and create a case filing](review-pre-arbitration-response-and-create-case-filing.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Associated transactions and the dispute response, determine if pre-arbitration i
 
 </td></tr><tr><td>
 
-[Review a case filing response and appeal the decision](../task/review-case-filing-response-and-appeal.md)
+[Review a case filing response and appeal the decision](review-case-filing-response-and-appeal.md)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Associated transactions and the dispute response, determine if pre-arbitration i
 
 </td></tr><tr><td>
 
-[Review the case filing appeal](../task/review-case-filing-appeal.md)
+[Review the case filing appeal](review-case-filing-appeal.md)
 
 </td><td>
 
@@ -81,7 +81,7 @@ Appeal decision review and mark the response as resolved or unresolved, determin
 
 </td></tr><tr><td>
 
-[Convert provisional credit to final credit](../task/convert-provisional-credit-to-final-credit_visa.md)
+[Convert provisional credit to final credit](convert-provisional-credit-to-final-credit_visa.md)
 
 </td><td>
 
@@ -89,28 +89,28 @@ Conversion of provisional credit into final credit once the case is resolved, an
 
 </td></tr><tr><td>
 
-[Reverse provisional credit](../task/reverse-provisional-credit_0.md)
+[Reverse provisional credit](reverse-provisional-credit_0.md)
 
 </td><td>
 
 Reversal of provisional credit only for Immediate Provisional Credit, provided **Reverse** is selected in the previous task. After this, close the task.
 
 </td></tr></tbody>
-</table>-   **[Initiate chargeback and fill merchant response](../task/initiate-chargeback-and-fill-merchant-response.md)**  
+</table>-   **[Initiate chargeback and fill merchant response](initiate-chargeback-and-fill-merchant-response.md)**  
 This is a part of the collaboration dispute workflow for the **Chargeback** stage. Initiate a chargeback request for the card network issuer to credit the customer with the card network and await a response from the merchant.
 -   **[Associate dispute transaction](associate-dispute-transaction.md)**  
 List associated transactions identified by Visa after the chargeback creation. Review these transactions and associate them with the disputed transaction to help deflect and resolve the dispute in the next activity.
--   **[Review a dispute response and initiate pre-arbitration](../task/review-dispute-response-and-create-pre-arbitration.md)**  
+-   **[Review a dispute response and initiate pre-arbitration](review-dispute-response-and-create-pre-arbitration.md)**  
 Review a merchant’s response for the dispute and initiate pre-arbitration, if necessary for the collaboration dispute workflow for the Chargeback stage.
--   **[Review the pre-arbitration response and create a case filing](../task/review-pre-arbitration-response-and-create-case-filing.md)**  
+-   **[Review the pre-arbitration response and create a case filing](review-pre-arbitration-response-and-create-case-filing.md)**  
 Review the merchant’s response to the pre-arbitration and create a case filing.
--   **[Review a case filing response and appeal the decision](../task/review-case-filing-response-and-appeal.md)**  
+-   **[Review a case filing response and appeal the decision](review-case-filing-response-and-appeal.md)**  
 An appeal can be created by the issuer or acquirer if either party isn’t satisfied with the arbitration ruling from Visa. Review the case filing response and receive the decision letter from Visa.
--   **[Review the case filing appeal](../task/review-case-filing-appeal.md)**  
+-   **[Review the case filing appeal](review-case-filing-appeal.md)**  
 Review the appeal and get an acknowledgment from Visa for the appeal.
--   **[Convert provisional credit to final credit](../task/convert-provisional-credit-to-final-credit_visa.md)**  
+-   **[Convert provisional credit to final credit](convert-provisional-credit-to-final-credit_visa.md)**  
 Convert the provisional credit that was issued previously to a customer to a final credit issuance.
--   **[Reverse provisional credit](../task/reverse-provisional-credit_0.md)**  
+-   **[Reverse provisional credit](reverse-provisional-credit_0.md)**  
 Reverse the temporary credit issued by the bank to the card holder.
 
 **Parent Topic:**[Chargeback stage](chargeback-stage.md)

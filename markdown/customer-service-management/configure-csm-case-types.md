@@ -119,7 +119,7 @@ You can also block any inherited case UI actions that you do not want. To block 
 
 </td><td>
 
-This procedure adds the **Create Case** UI action to records in the configured table. Selecting this UI action displays the [case type selector](../concept/csm-case-type-select-modals.md).
+This procedure adds the **Create Case** UI action to records in the configured table. Selecting this UI action displays the [case type selector](csm-case-type-select-modals.md).
 
  **Note:** For CSM Configurable Workspace, the **Create Case** UI action for case type selection is disabled out of box.
 
@@ -145,7 +145,7 @@ The Case Type table extends the Application File table \(sys\_metadata\). This t
 -   Email templates
 -   Quick messages
 -   Reports
-For more information, see [Manage customer service case types](../concept/manage-csm-case-types.md).
+For more information, see [Manage customer service case types](manage-csm-case-types.md).
 
 **Note:** These related lists only display information for the new case type. They do not include information for the base case.
 

@@ -25,5 +25,5 @@ Various email templates are available depending on the purpose of the communicat
 |Update Communication|Inform employees or responders about any updates throughout the emergency situation.|
 |End Emergency|Notify that the emergency has ended.|
 
-**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+**Parent Topic:**[Critical Event Management reference](critical-event-management-reference.md)
 

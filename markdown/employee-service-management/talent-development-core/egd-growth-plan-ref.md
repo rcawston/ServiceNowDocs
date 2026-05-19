@@ -110,5 +110,5 @@ The current standing of the growth plan.-   **Canceled** state means that the gr
 -   **Draft** state means that the employee is still editing, adding activities to the growth plan but hasn't started it.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+</table>**Parent Topic:**[Talent Development Core application reference](egd-reference.md)
 

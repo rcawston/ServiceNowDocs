@@ -17,7 +17,7 @@ Configure the Asset Audit Response application so that you can track and manage 
 
 ## Configuration overview
 
--   **[Install Asset Audit Response](../task/install-asset-audit-response.md)**  
+-   **[Install Asset Audit Response](install-asset-audit-response.md)**  
 You can install the Asset Audit Response application \(com.sn\_audit\_response\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 **Parent Topic:**[Asset Audit Response](asset-audit-response.md)

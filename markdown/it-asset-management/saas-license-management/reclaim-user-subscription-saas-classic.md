@@ -31,7 +31,7 @@ Role required: sam\_user
 
 2.  To reclaim a user subscription that was not automatically identified by a software reclamation rule, create a software removal candidate.
 
-    See [Add a software removal candidate in Software Asset Management classic](t_AddAReclCandidate.md) for detailed instructions on how to create a software removal candidate in the Software Asset Management classic application.
+    See [Add a software removal candidate in Software Asset Management classic](../software-asset-management/t_AddAReclCandidate.md) for detailed instructions on how to create a software removal candidate in the Software Asset Management classic application.
 
 3.  Reclaim user subscriptions.
 
@@ -54,5 +54,5 @@ Reclaim unused monday.com subscriptions to reduce your total software costs.
 -   **[Reclaim Roadmunk user subscriptions in Software Asset Management classic](reclaim-roadmunk-subscription.md)**  
 Reclaim unused Roadmunk subscriptions to reduce your total software costs.
 
-**Parent Topic:**[Reclaiming user subscriptions](../concept/reclaiming-user-subscriptions-saas.md)
+**Parent Topic:**[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
 

@@ -146,7 +146,7 @@ The values represent CIs from all active test results \(any state other than **C
 
     Starting with v23.0 of Vulnerability Response:
 
-    -   You can enable or disable the import of test results for a Qualys test group in the Vulnerability Manager Workspace. For more information, see [Enable or disable the import of test results for a Qualys test group](enable-disable-imports-qualys.md).
+    -   You can enable or disable the import of test results for a Qualys test group in the Vulnerability Manager Workspace. For more information, see [Enable or disable the import of test results for a Qualys test group](../vulnerability-manager-workspace/enable-disable-imports-qualys.md).
     -   The **Mark deprecated** button is renamed to **Disable import**.
     -   The **Is deprecated** column is renamed to **Is import disabled**.
 

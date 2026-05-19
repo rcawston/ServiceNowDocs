@@ -65,9 +65,9 @@ Tracks the active controls, control tests, and plan of action and milestones \(P
 
 ## Tasks section
 
-Displays your and your group's pending tasks. Select **View all tasks** to open the Tasks landing page as described in [Monitor and manage CAM tasks](../task/tasks-page-cam-ws.md).
+Displays your and your group's pending tasks. Select **View all tasks** to open the Tasks landing page as described in [Monitor and manage CAM tasks](tasks-page-cam-ws.md).
 
-CAM roles that are required for particular tasks are listed in [CAM user roles](../../grc-cam/reference/cam-roles-list.md).
+CAM roles that are required for particular tasks are listed in [CAM user roles](../continuous-risk-monitoring/cam-roles-list.md).
 
 ## Required roles
 

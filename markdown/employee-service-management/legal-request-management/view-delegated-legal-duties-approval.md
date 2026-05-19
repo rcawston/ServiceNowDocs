@@ -34,5 +34,5 @@ Role required: legal\_fulfiller
 4.  Open a record from the list to view and work on it.
 
 
-**Parent Topic:**[Delegation of legal duties and approvals](../concept/legal-services-delegation.md)
+**Parent Topic:**[Delegation of legal duties and approvals](legal-services-delegation.md)
 

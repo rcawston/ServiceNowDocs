@@ -60,5 +60,5 @@ Active
 Yes/No
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Proactive Engagement](../configuring-proactive-engagement.md)
+</table>**Parent Topic:**[Configuring Proactive Engagement](configuring-proactive-engagement.md)
 

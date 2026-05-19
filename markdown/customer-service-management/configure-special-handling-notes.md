@@ -45,5 +45,5 @@ Configure the desired entity tables to use special handling notes and then confi
 **Related topics**  
 
 
-[Special handling notes](../concept/c_OnScreenAlerts.md)
+[Special handling notes](c_OnScreenAlerts.md)
 

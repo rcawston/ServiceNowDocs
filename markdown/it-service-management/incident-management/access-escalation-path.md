@@ -23,7 +23,7 @@ Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 ## Procedure
 
-1.  Navigate to [Major incident workbench](../concept/major-incident-workbench.md).
+1.  Navigate to [Major incident workbench](major-incident-workbench.md).
 
 2.  Click the **Communications** tab.
 
@@ -42,5 +42,5 @@ Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 You can access the on-call escalation information.
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](major-incident-workbench.md)
 

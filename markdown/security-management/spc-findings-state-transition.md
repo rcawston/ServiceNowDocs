@@ -19,7 +19,7 @@ With some exceptions, states generally transition between your findings \(test r
 
 The following tables illustrate how states transition on your findings if you edit and publish a new version \(edit\), deactivate, or delete your policies.
 
-For more information about state changes in Configuration Compliance, see [Test result and remediation task state transitions in the Configuration Compliance application](../../vulnerability-config-compliance/concept/cc-state-transition.md).
+For more information about state changes in Configuration Compliance, see [Test result and remediation task state transitions in the Configuration Compliance application](configuration-compliance/cc-state-transition.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 

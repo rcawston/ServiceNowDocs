@@ -17,7 +17,7 @@ The AI interaction wrap-up feature uses AI to generate wrap-up content for inter
 
 Agents can review and modify the AI-generated wrap-up content before submitting it. If there's insufficient context to determine a wrap-up code, the system uses the default wrap-up code.
 
-**Note:** The AI interaction wrap-up feature uses the Wrap Up Completion skill to generate the wrap-up content. For more information, see [Enable Now Assist to generate wrap up code and notes summary](../task/enable-ai-wrap-up-code-and-notes-summary-generation.md).
+**Note:** The AI interaction wrap-up feature uses the Wrap Up Completion skill to generate the wrap-up content. For more information, see [Enable Now Assist to generate wrap up code and notes summary](enable-ai-wrap-up-code-and-notes-summary-generation.md).
 
 The AI interaction wrap-up feature is available for the following interaction record pages in CSM Configurable Workspace:
 
@@ -71,7 +71,7 @@ If an agent edits the **Notes** field, the **Insert AI notes** button replaces t
 
 ## Configuring AI interaction wrap-up
 
-1.  Enable the Wrap Up Completion skill. For more information, see [Enable Now Assist to generate wrap up code and notes summary](../task/enable-ai-wrap-up-code-and-notes-summary-generation.md).
+1.  Enable the Wrap Up Completion skill. For more information, see [Enable Now Assist to generate wrap up code and notes summary](enable-ai-wrap-up-code-and-notes-summary-generation.md).
 2.  Enable the AI interaction fields in the AI form section on the desired interaction wrap-up configuration record:
 
     -   **Enable AI code**

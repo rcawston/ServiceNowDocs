@@ -78,5 +78,5 @@ See [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md) f
 9.  To view the generated PDF, select the PDF in the attachments window.![](../image/quote-attachment-window-pdf.png)
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

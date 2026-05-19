@@ -41,5 +41,5 @@ The asset hierarchy shows consumable assets associated with a parent asset.
 
     -   The asset for which the hierarchy is shown is highlighted in the asset hierarchy tree.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](create-manage-enterprise-assets.md)
 

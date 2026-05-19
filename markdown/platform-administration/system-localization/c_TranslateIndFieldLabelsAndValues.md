@@ -25,9 +25,9 @@ Three types of fields support translated strings for fields and related list nam
 
     Stores field labels, related list names, and certain field values. The value of the translated\_field replaces the label, list name, or field value when the user selects the matching language. Translated\_field values have a one-to-many relationship with their associated keys. As a result, multiple records can reference one translated\_field value. For more information, see the following topics:
 
-    -   [Translate a field label](../task/t_TranslateAFieldLabel.md)
-    -   [Translate a related list name](../task/t_TranslateARelatedListName.md)
-    -   [Translate a field value for the Classic Environment](../task/t_TranslateAFieldValue.md)
+    -   [Translate a field label](t_TranslateAFieldLabel.md)
+    -   [Translate a related list name](t_TranslateARelatedListName.md)
+    -   [Translate a field value for the Classic Environment](t_TranslateAFieldValue.md)
 -   **Translated\_text**
 
     Stores long text values in plain text. The value of the translated\_text replaces the plain text when the user selects the matching language. Translated\_text values have a one-to-one relationship with their associated keys. As a result, only one record can reference a translated\_text value. For more information, see [Translating text fields](c_UseTranslatedText.md#).
@@ -41,5 +41,5 @@ The translated values are stored as separate records and display the proper valu
 
 ## Messages
 
-Informational messages, confirmation messages, error messages, and other types of system messages across the platform can be translated. Messages that support translation come from HTML in a UI page in a customer-created application or Service Portal widget messages when these texts are wrapped correctly. When a client script contains a getMessage call or a server script contains a `gs.getMessage` call, the system checks the Messages \[sys\_ui\_message\] table for a translation. Fore more information, see [Translate a client script message](../task/t_TranslateAClientScriptMessage.md).
+Informational messages, confirmation messages, error messages, and other types of system messages across the platform can be translated. Messages that support translation come from HTML in a UI page in a customer-created application or Service Portal widget messages when these texts are wrapped correctly. When a client script contains a getMessage call or a server script contains a `gs.getMessage` call, the system checks the Messages \[sys\_ui\_message\] table for a translation. Fore more information, see [Translate a client script message](t_TranslateAClientScriptMessage.md).
 

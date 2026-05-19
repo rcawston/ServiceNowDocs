@@ -85,7 +85,7 @@ The Assess state adds **Control Assessments** and **Risk Summary** related lists
 
 7.  In the Default view, select an audit task and perform the Design Test and Operation Test to judge the control's effectiveness.
 
-    For details on this process, see [Manage engagements](../../grc-audit/concept/c_Engagements.md).
+    For details on this process, see [Manage engagements](../audit-management/c_Engagements.md).
 
     **Note:** Any issues that arise during the Assess phase appear in the **POA&amp;M** tab. Additionally, any open Change Requests or Vulnerable Items targeting the system elements in the package appear under those tabs.
 

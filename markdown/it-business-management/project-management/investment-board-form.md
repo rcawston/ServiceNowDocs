@@ -86,5 +86,5 @@ This option is available only when **Type** is **Portfolio** or **Program**.
 </table>**Related topics**  
 
 
-[Create an investment board](../task/create-an-investment-report.md)
+[Create an investment board](../ppm-collaboration/create-an-investment-report.md)
 

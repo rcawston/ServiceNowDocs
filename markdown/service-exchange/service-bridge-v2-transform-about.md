@@ -30,5 +30,5 @@ You can use the following transform types in the Transform Framework for your re
     **Note:** A matching company or account specific transform overrides the Global transform option.
 
 
-To learn how to create a transform, see [Create a transform in Service Exchange](../task/service-bridge-v2-create-transform.md).
+To learn how to create a transform, see [Create a transform in Service Exchange](service-bridge-v2-create-transform.md).
 

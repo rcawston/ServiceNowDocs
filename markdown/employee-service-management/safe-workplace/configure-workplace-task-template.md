@@ -48,7 +48,7 @@ Templates simplify the process of creating tasks in Workplace Core by populating
 
 6.  Add a checklist to the template.
 
-    For steps on how to add a checklist, see [Create a workplace task checklist](../../workplace-service-delivery/task/create-workplace-task-checklist-wsd.md).
+    For steps on how to add a checklist, see [Create a workplace task checklist](../workplace-core/create-workplace-task-checklist-wsd.md).
 
 7.  Select **Update**.
 

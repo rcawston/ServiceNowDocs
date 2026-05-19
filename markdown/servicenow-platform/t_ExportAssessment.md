@@ -42,12 +42,12 @@ The XML file contains a metric type `[asmt_metric_type]` and the following recor
 3.  Save the XML file.
 
 
-**Parent Topic:**[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+**Parent Topic:**[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
 
 [Import an assessment](t_ImportAssessment.md)
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](c_MetricTypesAndAssessableRecords.md)
 

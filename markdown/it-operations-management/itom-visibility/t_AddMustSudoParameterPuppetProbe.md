@@ -44,5 +44,5 @@ You add the must\_sudo parameter for each Puppet probe.
 8.  Click **Submit**.
 
 
-**Parent Topic:**[Puppet automation software discovery](../concept/c_PuppetAutomationSoftwareDiscovery.md)
+**Parent Topic:**[Puppet automation software discovery](c_PuppetAutomationSoftwareDiscovery.md)
 

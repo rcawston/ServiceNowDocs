@@ -17,7 +17,7 @@ You can create an event rule to establish criteria and thresholds for performanc
 
 To create an event rule, perform the following steps.
 
-1.  [Select event rule filters](../task/event-rule-select-filters.md).
-2.  [Define alert criteria](../task/define-alert-criteria-event.md).
-3.  [Define alert rule name and status](../task/define-alert-name-state.md).
+1.  [Select event rule filters](event-rule-select-filters.md).
+2.  [Define alert criteria](define-alert-criteria-event.md).
+3.  [Define alert rule name and status](define-alert-name-state.md).
 

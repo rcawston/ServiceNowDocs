@@ -48,5 +48,5 @@ You can also access manual configuration from the Bitbucket tool record in DevOp
 6.  Select **Save**.
 
 
-**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](../concept/bitbucket-integration-dev-ops.md)
+**Parent Topic:**[Bitbucket integration with DevOps Change Velocity](bitbucket-integration-dev-ops.md)
 

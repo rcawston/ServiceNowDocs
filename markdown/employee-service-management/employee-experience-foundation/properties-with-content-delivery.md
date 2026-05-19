@@ -37,7 +37,7 @@ Allow Ownership for Audiences \(sn\_cd.activate\_audience\_delegation\_controls\
 
 </td><td>
 
-Indicates you want to be able to enable audience ownership within Content Publishing.For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+Indicates you want to be able to enable audience ownership within Content Publishing.For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Allow Ownership for Content Items \(sn\_cd.activate\_content\_authoring\_control
 
 </td><td>
 
-Indicates you want to be able to enable content item ownership within Content Publishing.For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+Indicates you want to be able to enable content item ownership within Content Publishing.For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Indicates you want to enable topic ownership within Content Publishing.Ownership
 
 **Note:** Other users that have access to the content can view the content scheduled to the restricted topic, but cannot remove the topic from the schedule.
 
- For more information, see [Content Ownership](../concept/ecpro-content-restriction.md).
+ For more information, see [Content Ownership](ecpro-content-restriction.md).
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Indicates you want to exclude groups or non-applicable content managers \(specif
 </td></tr></tbody>
 </table>|Properties|Description|
 |----------|-----------|
-|sn-cd.activate\_content\_snapshots|Select the checkbox to enable Content Versioning for the Content Library. See [Content versioning](../concept/ec-content-versioning.md)|
+|sn-cd.activate\_content\_snapshots|Select the checkbox to enable Content Versioning for the Content Library. See [Content versioning](ec-content-versioning.md)|
 
 <table id="table_uxj_qz3_jdb"><thead><tr><th>
 
@@ -173,7 +173,7 @@ Allows you to change your system setting language in the Content Library.When yo
 
  Selecting the **Switch language** button allows you to view the fields on the form to appear in the language you select. You can select the button after reviewing to switch back to your original language.
 
- For more information, see [Portal content](../concept/ec-streamline-content.md).
+ For more information, see [Portal content](ec-streamline-content.md).
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ sn\_cd.enable\_localization\_framework\_integration
 
 </td><td>
 
-Enables integration with Localization Framework. For more information, see [Configure Localization Framework for Content Publishing](../concept/ec-int-localization-framework.md).
+Enables integration with Localization Framework. For more information, see [Configure Localization Framework for Content Publishing](ec-int-localization-framework.md).
 
 </td></tr></tbody>
 </table><table id="table_vlv_zz3_wtb"><thead><tr><th>
@@ -216,7 +216,7 @@ The URL suffix of the service portal or Employee Center \(EC\) your company uses
 
 |Properties|Description|
 |----------|-----------|
-|The number of seconds to wait before timing out a video content provider subflow \(sn\_cd.provider\_timeout\)|Sets the period of time that the Employee Center attempts to connect to the video content provider. See [Video hosting integrations framework](../concept/content-providers.md)|
+|The number of seconds to wait before timing out a video content provider subflow \(sn\_cd.provider\_timeout\)|Sets the period of time that the Employee Center attempts to connect to the video content provider. See [Video hosting integrations framework](content-providers.md)|
 
 |Properties|Description|
 |----------|-----------|
@@ -232,9 +232,9 @@ The URL suffix of the service portal or Employee Center \(EC\) your company uses
 
 [Block content form](block-content-form.md)
 
-[Campaign overview and Campaign analytics dashboards](../concept/ecpro-content-automation-content-pack.md)
+[Campaign overview and Campaign analytics dashboards](ecpro-content-automation-content-pack.md)
 
-[Components installed with Employee Center Pro](components-installed-with-employee-center-pro-1.md)
+[Components installed with Employee Center Pro](../employee-service-management/components-installed-with-employee-center-pro-1.md)
 
 [Components installed with Content engagement](installed-content-engagement.md)
 
@@ -244,13 +244,13 @@ The URL suffix of the service portal or Employee Center \(EC\) your company uses
 
 [Components installed with Content Governance](ec-installed-content-governance.md)
 
-[Components installed with Content Analytics](ecpro-installed-content-analytics-1.md)
+[Components installed with Content Analytics](../employee-service-management/ecpro-installed-content-analytics-1.md)
 
-[Content Analytics dashboards](../concept/content-analytics-dashboards.md)
+[Content Analytics dashboards](content-analytics-dashboards.md)
 
-[Content engagement dashboard](../concept/ec-pro-content-engagement-dashboard.md)
+[Content engagement dashboard](ec-pro-content-engagement-dashboard.md)
 
-[Content Library Overview dashboard](../concept/content-library-overview-dashboard.md)
+[Content Library Overview dashboard](content-library-overview-dashboard.md)
 
 [Employee Center Pro widgets](employee-center-pro-widgets-list.md)
 

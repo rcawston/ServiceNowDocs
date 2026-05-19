@@ -69,5 +69,5 @@ Destination field that contains the object that is linked to the issue in the **
 -   **Source object**: It’s the original object that is linked to an issue manually.
 -   **Destination object**: It’s the object that is automatically linked to the issue due to the issue relationship configuration.
 
-**Parent Topic:**[Configure an issue relationship](../task/enable-or-disable-issue-relationship-configuration.md)
+**Parent Topic:**[Configure an issue relationship](enable-or-disable-issue-relationship-configuration.md)
 

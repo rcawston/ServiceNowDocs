@@ -17,7 +17,7 @@ You can use the classic environment to perform all Regulatory Change Management 
 
 As an RCM manager with the sn\_grc\_reg\_change.manager role, you can capture any problems or exceptions that are observed during the workflow by assigning regulatory alerts or creating an action task or issue that is related to the regulatory change tasks and source document tasks. You can also monitor the regulatory change tasks and action tasks.
 
-You can also use a [setup checklist](../../grc-rcm-implementation/task/rcm-impl-checklist.md) that can help you to get your base system ready for operation.
+You can also use a [setup checklist](rcm-impl-checklist.md) that can help you to get your base system ready for operation.
 
 Starting with version 18.1.2, all the new features and enhancements are available only in the Workspace view.
 

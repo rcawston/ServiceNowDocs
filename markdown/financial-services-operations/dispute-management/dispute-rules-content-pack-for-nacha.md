@@ -28,15 +28,15 @@ The Dispute Rules Content Pack for Nacha application can help you do the followi
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install this content pack.](../task/dispute-rules-content-pack-nacha-install.md)
+[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install this content pack.](dispute-rules-content-pack-nacha-install.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)See how agents and financial institutions can use Dispute Rules Content Pack for Nacha to access Nacha operating guidelines.](../task/dispute-rules-content-pack-nacha-use.md)
+[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)See how agents and financial institutions can use Dispute Rules Content Pack for Nacha to access Nacha operating guidelines.](dispute-rules-content-pack-nacha-use.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components of this application.](../reference/dispute-rules-content-pack-nacha-reference.md)
+[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components of this application.](dispute-rules-content-pack-nacha-reference.md)
 
 </td></tr></tbody>
 </table>

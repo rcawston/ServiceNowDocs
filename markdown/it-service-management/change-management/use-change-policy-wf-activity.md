@@ -40,5 +40,5 @@ Role required: admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](using-change-approval-policies-cf.md)
 

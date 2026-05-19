@@ -82,7 +82,7 @@ Each run summary provides:
 
 [Configuring Schedule Optimization](schedule-optimization-engine.md)
 
-[Optimizing technician schedules at set intervals throughout the day](../task/optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](optimize-your-schedules-intraday.md)
 
 [Run optimization for your groups or territories from Dispatcher Workspace](optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
 

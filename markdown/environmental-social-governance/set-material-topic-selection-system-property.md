@@ -36,7 +36,7 @@ The **Sync Topics** button becomes available and the material topics heatmap dis
 
 ## What to do next
 
-[Create a Socialsuite connection](../concept/create-a-socialsuite-connection.md)
+[Create a Socialsuite connection](create-a-socialsuite-connection.md)
 
-**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](../concept/integrate-operational-sustainability-with-SocialSuite.md)
+**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](integrate-operational-sustainability-with-SocialSuite.md)
 

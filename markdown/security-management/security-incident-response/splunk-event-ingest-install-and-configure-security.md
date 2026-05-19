@@ -27,7 +27,7 @@ Configure Splunk ES- Event Ingestion integration
 
 ## Procedure
 
-1.  If you have not installed the Splunk Enterprise Security Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the Splunk Enterprise Security Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 

@@ -45,7 +45,7 @@ The Financial Services Payment Operations application is aimed at the following 
 
 ## Payment dashboard
 
-Using actionable data visualizations in a preconfigured dashboard, you can improve your business processes and quantify the value of self-service. For more information, see [Payment Operations dashboard](../../../use/dashboards/application-content-packs/payment-operations-dashboard.md).
+Using actionable data visualizations in a preconfigured dashboard, you can improve your business processes and quantify the value of self-service. For more information, see [Payment Operations dashboard](../payment-operations-dashboard.md).
 
 **Parent Topic:**[Financial Services Payment Operations](payment-ops-landing-page.md)
 

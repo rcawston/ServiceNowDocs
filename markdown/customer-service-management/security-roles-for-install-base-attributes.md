@@ -192,5 +192,5 @@ sn\_install\_base.install\_base\_manager
 |----------|---------------|-----------|--------------|-------------|
 |sn\_customerservice.customer|Customer Service Management \[com.sn\_customerservice\]|This role provides access to research and manage install base items and their associated characteristics. Users with this role can view install base items, including all related characteristics and assets associated with their accounts. This role is intended for external users only.|sn\_esm\_user,snc\_external|None|
 
-For more information on the customer roles, see [Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md).
+For more information on the customer roles, see [Roles installed with Customer Service Management](r_RolesInstalledWithCustomerService.md).
 

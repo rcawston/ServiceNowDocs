@@ -61,7 +61,7 @@ keywords
 
 Human readable keywords that improve search engine optimization \(SEO\) and click-through rates for public pages. Human readable URLs also help users understand what to expect on a page for public and non-public pages. For example, `https://<instance>/kb/en/faq/what-is-a-cookie?id=kb_article_view&sysparm_article=KB0000007`.
 
- For more information, see [Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md).
+ For more information, see [Add human readable keywords to page URLs](add-human-readable-keywords-page-urls.md).
 
 </td></tr><tr><td>
 
@@ -107,5 +107,5 @@ Widgets and widget instance options reference Service Portal pages using the pag
 **Related topics**  
 
 
-[Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md)
+[Add human readable keywords to page URLs](add-human-readable-keywords-page-urls.md)
 

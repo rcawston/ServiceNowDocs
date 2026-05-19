@@ -21,5 +21,5 @@ The renewal playbook consists of the following stages:
 -   Track Opportunity
 -   Review &amp; Close
 
-For instructions on how to create the renewal playbook, see [Create a renewal playbook](../task/account-lifecycle-create-renewal-playbook.md).
+For instructions on how to create the renewal playbook, see [Create a renewal playbook](account-lifecycle-create-renewal-playbook.md).
 

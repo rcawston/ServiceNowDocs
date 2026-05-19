@@ -97,7 +97,7 @@ To learn more about to create a protection path, see [Create a protection path](
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](using-network-diagram.md)
 
 **Related topics**  
 
@@ -106,5 +106,5 @@ To learn more about to create a protection path, see [Create a protection path](
 
 [Create a protection path](create-a-protection-path.md)
 
-[Visualize circuits](../concept/unified-map-view-of-connection-elements.md)
+[Visualize circuits](unified-map-view-of-connection-elements.md)
 

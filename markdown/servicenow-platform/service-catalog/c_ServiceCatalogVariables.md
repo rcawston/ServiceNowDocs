@@ -21,13 +21,13 @@ Service Catalog provides several types of variables, which are also referred to 
 
 You can define service catalog variables with the catalog\_admin role.
 
--   **[Types of service catalog variables](../reference/r_VariableTypes.md)**  
+-   **[Types of service catalog variables](r_VariableTypes.md)**  
 Variables allow you to specify questions for a catalog item. Several types of service catalog variables are provided. Some variable types accept variable attributes.
--   **[Create a service catalog variable](../task/t_CreateAVariableForACatalogItem.md)**  
+-   **[Create a service catalog variable](t_CreateAVariableForACatalogItem.md)**  
 Create service catalogs variables to gather information from users ordering a catalog item, for example, to ask users which options they want for the item.
 -   **[Service catalog data lookup](c_ServiceCatalogDataLookup.md)**  
 The Data Lookup and Record Matching Support for Service Catalog plugin offers similar features to the general Data Lookup and Record Matching Support plugin.
--   **[Audit service catalog variables](../task/t_AuditableServiceCatalogVariables.md)**  
+-   **[Audit service catalog variables](t_AuditableServiceCatalogVariables.md)**  
 Audit the variables so that the audit history records all changes to the named variables.
 -   **[Service Catalog variable editors](service-catalog-variable-editor.md)**  
 Variable editor displays variable values in fulfiller forms. A requester, while requesting the item, specifies these variable values in the catalog item questions.

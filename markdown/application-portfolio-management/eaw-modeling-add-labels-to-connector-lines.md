@@ -38,10 +38,10 @@ Role required: sn\_apm.apm\_user
 
 The connector line label is added to the diagram.![Label added to connector line.](../../image/eaw-image/modeling/text-added-connector-line.png)
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md)
+[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
 

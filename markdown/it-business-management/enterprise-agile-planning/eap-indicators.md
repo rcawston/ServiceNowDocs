@@ -21,7 +21,7 @@ Indicators included in the EAP dashboard.
 |EAP: Sum of story points of all stories in the current iteration|Sum of story points of all stories in the current iteration is measured daily as unit.|Washington DC|
 |EAP: Sum of story points of active stories in the current iteration|Sum of story points of active stories in the current iteration is measured daily as unit.|Washington DC|
 
-For information about the metrics you can view on the EAP dashboard through these indicators, see [EAP reports and dashboards](../concept/using-eap-dashboard.md).
+For information about the metrics you can view on the EAP dashboard through these indicators, see [EAP reports and dashboards](using-eap-dashboard.md).
 
 **Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
 

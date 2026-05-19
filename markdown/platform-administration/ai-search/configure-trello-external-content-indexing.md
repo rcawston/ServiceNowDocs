@@ -104,5 +104,5 @@ Your connector admin needs these items to configure a Trello external content co
 
 For details on creating and configuring a Trello external content connector, see [Create a Trello external content connector](create-ext-cont-connector-trello.md).
 
-**Parent Topic:**[Trello external content connector](../concept/trello-external-content-connector.md)
+**Parent Topic:**[Trello external content connector](trello-external-content-connector.md)
 

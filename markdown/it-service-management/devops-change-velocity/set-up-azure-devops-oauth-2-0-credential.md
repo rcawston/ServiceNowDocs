@@ -17,11 +17,11 @@ Create Azure DevOps OAuth 2.0 credential and use them to connect your Azure DevO
 
 If you want to use Basic Authentication credentials instead of OAuth 2.0, skip this section and proceed to onboarding Azure DevOps using one of the following options:
 
--   [Onboard Azure DevOps to DevOps Change Velocity — Workspace](../concept/devops-wkspc-azuredevops-tool-conn.md#)
+-   [Onboard Azure DevOps to DevOps Change Velocity — Workspace](devops-wkspc-azuredevops-tool-conn.md#)
 -   [Onboard Azure DevOps to DevOps Change Velocity — Service Catalog](onboard-azure-devops-service-catalog.md)
 -   [Onboard Azure DevOps to DevOps Change Velocity — Classic](create-azure-tool-dev-ops.md)
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
 
 ## Create a tenant in Microsoft Entra
 

@@ -32,5 +32,5 @@ Role required: sales\_agent
 5.  Use the PDF viewer controls to manage the PDF.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
 

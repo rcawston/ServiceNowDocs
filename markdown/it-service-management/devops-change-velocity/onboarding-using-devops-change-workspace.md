@@ -29,7 +29,7 @@ Role required: sn\_devops.admin.
 
 2.  Using the connect playbook activity, connect to your DevOps tools.
 
-    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md).
+    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md).
 
 3.  Select **Create an application** to create an application and associate objects to it.
 
@@ -68,7 +68,7 @@ Role required: sn\_devops.tool\_owner.
 
 2.  Using the connect playbook activity, connect to your DevOps tools.
 
-    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md).
+    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md).
 
 3.  If an application hasn't been created, ask your DevOps admin or app owner to create an application and associate objects to it.
 

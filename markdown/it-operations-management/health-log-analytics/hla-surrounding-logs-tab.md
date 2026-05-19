@@ -87,5 +87,5 @@ Log message
 The raw log message without the header.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health Log Analytics reference](../../health-log-analytics-admin/concept/hla-reference.md)
+</table>**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
 

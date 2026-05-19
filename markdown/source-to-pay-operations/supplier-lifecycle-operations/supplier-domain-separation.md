@@ -22,28 +22,28 @@ Domain separation is unsupported for Supplier Lifecycle Operations. Domain separ
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Supplier Lifecycle Operations reference](../reference/supp-mgmt-reference.md)
+**Parent Topic:**[Supplier Lifecycle Operations reference](supp-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Create New Supplier Case form](../reference/new-supplier-case.md)
+[Create New Supplier Case form](new-supplier-case.md)
 
-[Create new task form](../reference/create-new-supplier-task-form.md)
+[Create new task form](create-new-supplier-task-form.md)
 
-[Add New Location form](../reference/supplier-location-form.md)
+[Add New Location form](supplier-location-form.md)
 
-[Update banking details form](../reference/update-supp-banking-form.md)
+[Update banking details form](update-supp-banking-form.md)
 
-[Update profile details form](../reference/update-supp-profile-form.md)
+[Update profile details form](update-supp-profile-form.md)
 
-[Onboard a Supplier form](../reference/onboard-supp-form.md)
+[Onboard a Supplier form](onboard-supp-form.md)
 
-[Create New Documents form](../reference/create-new-doc-form.md)
+[Create New Documents form](create-new-doc-form.md)
 
 [Primary data tables for Supplier Lifecycle Operations](../reference/slo-primary-data-tables.md)
 
-[Supplier Lifecycle Operations data model](../reference/slo-data-model.md)
+[Supplier Lifecycle Operations data model](slo-data-model.md)
 
 [Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
 

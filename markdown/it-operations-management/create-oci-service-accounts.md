@@ -84,7 +84,7 @@ Type of the datacenter where the account is hosted, which should be OCI Datacent
 
 ## What to do next
 
-Schedule an OCI cloud discovery. For more information, see [Create an OCI Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-oci-schedule-DAW.md).
+Schedule an OCI cloud discovery. For more information, see [Create an OCI Discovery schedule in Discovery Admin Workspace](discovery/create-oci-schedule-DAW.md).
 
-**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](../concept/set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
+**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
 

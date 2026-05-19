@@ -21,7 +21,7 @@ The main node configuration comprises several key properties:
 -   An order field that auto-increments by 10 \(You can update the order field manually.\)
 -   A direction property defining relationships between configuration items and entities
 
-You can update these property settings from the UI directly. For more information on setting up the Main node configurations in your instance, see [Configure the Main node configurations](../task/set-up-main-node.md).
+You can update these property settings from the UI directly. For more information on setting up the Main node configurations in your instance, see [Configure the Main node configurations](set-up-main-node.md).
 
 ## Nexus map configuration related list in the Main node configuration
 

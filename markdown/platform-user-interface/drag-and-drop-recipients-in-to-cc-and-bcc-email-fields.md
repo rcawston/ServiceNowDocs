@@ -41,6 +41,6 @@ Role required: email\_composer
 
 6.  To select multiple recipients, use keyboard and mouse device shortcuts.
 
-    For reference, see [Keyboard and mouse device shortcuts for adding recipients to email fields](../reference/keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md).
+    For reference, see [Keyboard and mouse device shortcuts for adding recipients to email fields](keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md).
 
 

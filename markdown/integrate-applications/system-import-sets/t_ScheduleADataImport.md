@@ -163,7 +163,7 @@ Concurrent Import
 
 Option to run a concurrent import. A concurrent import splits the data into multiple import sets and runs the import sets concurrently to reduce processing time for large data sets.**Note:** A concurrent import does not transform data in a predictable order. If order matters, do not run a concurrent import.
 
- For more information, see [Concurrent imports](../concept/concurrent-imports.md).
+ For more information, see [Concurrent imports](concurrent-imports.md).
 
 </td></tr><tr><td>
 
@@ -252,8 +252,8 @@ Script to run after the import happens. Visible only if you select **Execute pos
 8.  To display details about the executions, select the executions contexts record that you want to display.
 
 
--   **[Scheduled data import scripting options](../reference/r_DataImportScriptingOptions.md)**  
+-   **[Scheduled data import scripting options](r_DataImportScriptingOptions.md)**  
 Multiple JavaScript objects are available in the Scheduled Data Import **Pre script** and **Post script** fields.
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
 

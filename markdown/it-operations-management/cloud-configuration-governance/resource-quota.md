@@ -41,5 +41,5 @@ The Quota Details pop-up window indicates your consumed quota compared to your a
 
 The quota limit for a resource type appears as either a sum or count. For example, the Storage Volume Size is shown as a sum in GB and the VM Count is shown as a number.
 
-You can also view quota limits when launching stacks. For more information, see [Launch a stack](../task/cloudmgt-launch-stack.md).
+You can also view quota limits when launching stacks. For more information, see [Launch a stack](cloudmgt-launch-stack.md).
 

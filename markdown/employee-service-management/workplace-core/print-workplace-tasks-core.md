@@ -36,5 +36,5 @@ Role required: sn\_wsd\_core.task\_reader
     **Note:** The Print task button is visible to the sn\_wsd\_case.case\_reader role only.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
 

@@ -17,9 +17,9 @@ Creates a PdfPage object representing a PDF page and its attributes; such as siz
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](DocumentBothAPI.md#) to generate a PDF.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](api-server.md)
 
 ## PdfPage - PdfPage\(String pageSize, String orientation\)
 

@@ -87,7 +87,7 @@ Order in which you want the article to appear in the Related Articles section on
 
 ## Result
 
-The mapped articles are available in the Related Articles section on the Knowledge Management article view page in the Knowledge Management Service Portal. See [Knowledge Management Service Portal article view page features](../concept/knowledge-service-portal-view.md).
+The mapped articles are available in the Related Articles section on the Knowledge Management article view page in the Knowledge Management Service Portal. See [Knowledge Management Service Portal article view page features](knowledge-service-portal-view.md).
 
 **Note:** Because system administrators can configure the number of knowledge articles shown in the Related Articles section, not all mapped related articles might appear in the Related Articles section. For more information, see [Configure knowledge related articles widget instance options](configure-related-articles-widget.md).
 

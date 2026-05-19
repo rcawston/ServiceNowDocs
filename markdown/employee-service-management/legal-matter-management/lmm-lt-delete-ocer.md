@@ -115,5 +115,5 @@ Yes
 -   The matter created in Legal Tracker is not deleted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+</table>**Parent Topic:**[Engage with outside counsel](lmm-eng-outcounsel.md)
 

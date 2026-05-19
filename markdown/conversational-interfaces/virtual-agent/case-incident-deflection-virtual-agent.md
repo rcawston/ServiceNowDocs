@@ -17,7 +17,7 @@ Virtual Agent provides several self-service options for your user that can help 
 
 Deflection occurs when a user asks a question or makes a request that doesn't result in a ticket or human assistance. There are many ways that your customers can self-serve, including using AI Search and reading Knowledge articles. Virtual Agent provides a number of ways for your users to serve themselves.
 
--   **[Now Assist in Virtual Agent enhanced chat](../../now-assist-in-va/concept/nava-enhanced-chat.md)**
+-   **[Now Assist in Virtual Agent enhanced chat](../now-assist-in-virtual-agent/nava-enhanced-chat.md)**
 
     Now Assist in Virtual Agent enhances the user experience by combining AI Search with generative AI chat skills. These skills can speed up issue resolution and reduce deflection to a live agent.
 
@@ -25,7 +25,7 @@ Deflection occurs when a user asks a question or makes a request that doesn't re
 
     When a user creates an issue, the Issue Auto Resolution application uses machine learning and NLU to identify the criticality of the issue, the intent, and an appropriate Virtual Agent topic for an automatic resolution. If a Virtual Agent topic isn’t found, Issue Auto Resolution does an AI Search to return the most appropriate Knowledge articles, FAQs, or catalog content. The deflection content is then delivered to the user through the configured response channel, such as email, short messaging service \(SMS\), or the Virtual Agent chat widget.
 
--   **[Conversational Catalog Request](../../now-assist-in-va/task/configure-gen-ai-catalog-item.md)**
+-   **[Conversational Catalog Request](../now-assist-in-virtual-agent/configure-gen-ai-catalog-item.md)**
 
     This Now Assist in Virtual Agent skill is available in the Now Assist Admin console. For full catalog functionality in the chat window, enable the generative AI experience for catalog item request submissions.
 
@@ -37,7 +37,7 @@ Deflection occurs when a user asks a question or makes a request that doesn't re
 
     Create conversational subflows and actions in Workflow Studio and use them in Virtual Agent conversations.
 
--   **[Integrating Now Assist in Virtual Agent with Microsoft Teams](../../now-assist-in-va/concept/integrating-now-assist-va-msteams.md)**
+-   **[Integrating Now Assist in Virtual Agent with Microsoft Teams](../now-assist-in-virtual-agent/integrating-now-assist-va-msteams.md)**
 
     Configure Now Assist in Virtual Agent to use Microsoft Teams as the delivery channel.
 

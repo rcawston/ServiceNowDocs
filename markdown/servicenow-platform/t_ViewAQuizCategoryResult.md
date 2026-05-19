@@ -39,5 +39,5 @@ Role required: none
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](c_QuizDesigner.md)
 

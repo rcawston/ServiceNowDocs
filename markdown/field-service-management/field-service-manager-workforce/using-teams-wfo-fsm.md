@@ -41,7 +41,7 @@ Role required: sn\_wfo\_fsm.manager
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [Workforce Optimization for Field Service components](../components-wfo-fsm.md).
 
 4.  Analyze team performance.
 

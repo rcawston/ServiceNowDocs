@@ -49,5 +49,5 @@ Custom locales appear in the Languages \[sys\_language\] table, along with their
 
 ![The Languages table with custom locales configured. Highlighted entries for Belgium, Luxembourg, and Switzerland have standard French as a fallback, while Canadian French has no Fallback.](../images/fallback-lang-new-locales.png)
 
-**Parent Topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](multi-language-options-va.md)
 

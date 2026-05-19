@@ -90,5 +90,5 @@ Copies to review
 Total number of copied records to review whose base records have been upgraded
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process the skipped records list](../task/um-process-skipped-records.md)
+</table>**Parent Topic:**[Process the skipped records list](um-process-skipped-records.md)
 

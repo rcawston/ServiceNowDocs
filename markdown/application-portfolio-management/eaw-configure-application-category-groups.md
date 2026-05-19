@@ -20,7 +20,7 @@ Application category groups help organize your application categories into broad
 **Related topics**  
 
 
-[View all application category groups](../../task/eaw-task/eaw-view-all-application-category-groups.md)
+[View all application category groups](eaw-view-all-application-category-groups.md)
 
-[Add or edit an application category group](../../task/eaw-task/eaw-create-app-cat-grp.md)
+[Add or edit an application category group](eaw-create-app-cat-grp.md)
 

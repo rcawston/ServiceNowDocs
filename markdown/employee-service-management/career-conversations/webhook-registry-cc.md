@@ -41,5 +41,5 @@ Role required: admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](../concept/outlook-integration-cc.md)
+**Parent Topic:**[Set up Microsoft Outlook integration in Career Conversations](outlook-integration-cc.md)
 

@@ -39,7 +39,7 @@ The map printing options provide configurations for the page format, font, icons
 |Remove text anti-collision|Option to enable overlapping of location labels. You can enable this option and adjust the font size to avoid collision.|
 |Remove icon anti-collision|Option to enable overlapping of location icons. You can enable this option and adjust the icon size to avoid collision.|
 
-**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Parent Topic:**[Indoor Mapping references](indoor-mapping-references.md)
 
 **Previous topic:**[Snapshot Impacted tables](snapshot-ind-mapping-tables.md)
 

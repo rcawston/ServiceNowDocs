@@ -52,5 +52,5 @@ Task type records associated will appear in the Related Tasks related list for t
 
 ![Associated tasks are available under Related Tasks.](../image/associated-interaction.png)
 
-**Parent Topic:**[Using Interaction Management](../concept/using-interaction-management.md)
+**Parent Topic:**[Using Interaction Management](using-interaction-management.md)
 

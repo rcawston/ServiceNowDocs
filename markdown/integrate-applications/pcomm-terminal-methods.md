@@ -414,7 +414,7 @@ Element-level methods perform automation tasks on the emulator screen elements t
 
 ## GetAsTable
 
-Returns the text that you captured as a data table object. Use this method when you capture the data from a screen as a table. However, you can also use the method for the data that you capture as a field. To learn how to capture the data as a table, see [Configure the IBM Personal Communications emulator](../task/pcomm-emulator.md).
+Returns the text that you captured as a data table object. Use this method when you capture the data from a screen as a table. However, you can also use the method for the data that you capture as a field. To learn how to capture the data as a table, see [Configure the IBM Personal Communications emulator](pcomm-emulator.md).
 
 ![GetAsTable method.](../image/GetAsTable-element-method.png)
 

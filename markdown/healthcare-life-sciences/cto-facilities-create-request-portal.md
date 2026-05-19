@@ -27,7 +27,7 @@ Select the catalog item that aligns with your request type. Within the support r
 
 For example, a nurse who notices an issue with the temperature level in a room would navigate to **Create a request &gt; Request Facilities service &gt; Temperature and Humidity Control** and in the support request, set **Category** to **Room climate issues**.
 
-For detailed information on the Facilities service catalog, see [Service Catalog installed with Care Team Operations for Facilities](../reference/cto-facilities-service-catalog.md).
+For detailed information on the Facilities service catalog, see [Service Catalog installed with Care Team Operations for Facilities](cto-facilities-service-catalog.md).
 
 ## Procedure
 
@@ -67,7 +67,7 @@ Category
 
 </td><td>
 
-The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Facilities](../reference/cto-facilities-service-catalog.md).
+The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Facilities](cto-facilities-service-catalog.md).
 
 </td></tr><tr><td>
 

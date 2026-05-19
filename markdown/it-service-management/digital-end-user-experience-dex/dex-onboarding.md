@@ -42,7 +42,7 @@ Role required: sn\_dex.admin
     1.  Select **+ New application**.
     2.  On the form, fill in the fields and select **Save**.
 
-        For more information on each field, see [New web or installed application form](../reference/admin-new-app-form.md).
+        For more information on each field, see [New web or installed application form](admin-new-app-form.md).
 
 5.  To monitor an application from the pre-existing list, turn on application monitoring.
 
@@ -51,7 +51,7 @@ Role required: sn\_dex.admin
 
 ## What to do next
 
-You can explore the product and learn about the various pages and their offerings by [accessing Application &amp; Device Health](../concept/accessing-pages.md).
+You can explore the product and learn about the various pages and their offerings by [accessing Application &amp; Device Health](accessing-pages.md).
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](dex-application-monitoring.md)
 

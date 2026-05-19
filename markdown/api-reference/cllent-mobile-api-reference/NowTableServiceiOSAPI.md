@@ -17,9 +17,9 @@ The NowTableService class provides functions that enable you to perform create, 
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
+|configuration|[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](MobileSDKiOSAPI.md)
 
 ## NowTableService - create&lt;Model: SysIdentifiableModel&gt;\(\_ model: Model, in tableName: String, coder: Coder, writeOptions: FieldWriteOptions, configuration: FetchConfiguration\) async throws
 
@@ -101,7 +101,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -113,7 +113,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -320,7 +320,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -332,7 +332,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -549,7 +549,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -561,7 +561,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -665,7 +665,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -677,7 +677,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -835,7 +835,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -847,7 +847,7 @@ configuration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#)
+[FieldReadConfiguration](FieldReadConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -1008,7 +1008,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -1020,7 +1020,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -1837,7 +1837,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -1976,7 +1976,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2186,7 +2186,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2402,7 +2402,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2549,7 +2549,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2776,7 +2776,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2928,7 +2928,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3091,7 +3091,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3252,7 +3252,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3398,7 +3398,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3552,7 +3552,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3703,7 +3703,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3882,7 +3882,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -3894,7 +3894,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4080,7 +4080,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4092,7 +4092,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4284,7 +4284,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4296,7 +4296,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4480,7 +4480,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4492,7 +4492,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4662,7 +4662,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4674,7 +4674,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4843,7 +4843,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4855,7 +4855,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](FetchConfigiOSStructure.md#)
 
 </td><td>
 

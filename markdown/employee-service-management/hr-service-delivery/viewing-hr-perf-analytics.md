@@ -91,5 +91,5 @@ The **Performance Analytics** dashboard provides the following reports.
 
 For more information about performance analytics and how to develop and modify widgets for your organization, see [Performance Analytics concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PerformanceAnalytics.md) .
 
-**Parent Topic:**[Performance Analytics for HR Service Delivery](../concept/scoped-hr-performance-analytics.md)
+**Parent Topic:**[Performance Analytics for HR Service Delivery](scoped-hr-performance-analytics.md)
 

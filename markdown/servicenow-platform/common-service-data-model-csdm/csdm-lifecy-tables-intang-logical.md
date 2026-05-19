@@ -96,5 +96,5 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
 |Virtual Private Network|cmdb\_ci\_vpn|
 |Websphere Cell|cmdb\_ci\_websphere\_cell|
 
-**Parent Topic:**[Life cycle of intangible/logical entities](../concept/csdm-lifecycle-logical.md)
+**Parent Topic:**[Life cycle of intangible/logical entities](csdm-lifecycle-logical.md)
 

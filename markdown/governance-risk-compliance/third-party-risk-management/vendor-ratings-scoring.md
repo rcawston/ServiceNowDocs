@@ -31,23 +31,23 @@ The score calculation mechanism for each external assessment uses the ServiceNow
 
 -   Questions \(metrics\)
 
-    For more information on how to define a question, see [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
+    For more information on how to define a question, see [Define a question](tprm-questions-create.md).
 
 -   Metric scale definition
 
-    For more information on how to define the metric scale definition, see [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
+    For more information on how to define the metric scale definition, see [Define a question](tprm-questions-create.md).
 
 -   Categories
 
-    For more information on how to define a category, see [Set up and maintain a question bank](../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md).
+    For more information on how to define a category, see [Set up and maintain a question bank](tprm-question-bank-create.md).
 
 -   Weights
 
-    For more information on how to define a weight, see [Define component criteria](../task/tprm-component-criteria-define.md).
+    For more information on how to define a weight, see [Define component criteria](tprm-component-criteria-define.md).
 
 -   Risk rating scale
 
-    For more information on how to define a risk rating scale, see [Set up risk rating scales for scoring](../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md).
+    For more information on how to define a risk rating scale, see [Set up risk rating scales for scoring](tprm-risk-rating-scales-config.md).
 
 -   Business service rating scale
 
@@ -92,7 +92,7 @@ Selecting the scored option \(**Scored** check box\) is optional. When the **Sco
 
 The system still calculates `questionPercentContribution` for scored questions based on the question weight within its category. The normalized value is then calculated using the standard normalization equation \(`questionNormalizedValue = 100 * questionRating * questionPercentContribution`\). As a result, a scored question contributes `0` when answered incorrectly, and contributes its weighted share of the maximum score \(100\) based on `questionPercentContribution` when answered correctly.
 
-The **Maximum normalization** input field applies only when the **Scored** check box is not selected, because it is used with the High/Low rating calculation. When the **Scored** check box is selected, the maximum normalization input does not affect scoring. For more information on questions and normalized scores, see [Set up and maintain a question bank](../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md), [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md) and [Normalize the scores for metrics](../../grc-vendor-risk-implementation/concept/set-max-norm-input.md).
+The **Maximum normalization** input field applies only when the **Scored** check box is not selected, because it is used with the High/Low rating calculation. When the **Scored** check box is selected, the maximum normalization input does not affect scoring. For more information on questions and normalized scores, see [Set up and maintain a question bank](tprm-question-bank-create.md), [Define a question](tprm-questions-create.md) and [Normalize the scores for metrics](set-max-norm-input.md).
 
 ## questionRating calculation
 

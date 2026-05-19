@@ -55,5 +55,5 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
     **Note:** For Mastercard disputes, if an error message is displayed in the **Activity** work notes, the **Close** button displays again so you can retry.
 
 
-**Parent Topic:**[Managing dispute service requests](../concept/managing-card-disputes.md)
+**Parent Topic:**[Managing dispute service requests](managing-card-disputes.md)
 

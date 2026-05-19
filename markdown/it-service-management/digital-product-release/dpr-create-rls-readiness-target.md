@@ -40,7 +40,7 @@ Role required: sn\_dpr\_model.release\_calendar\_admin orsn\_dpr\_model.release\
     -   To modify an existing release readiness target, open the release readiness target from the calendar or list.
 5.  In the dialog box, fill in the fields.
 
-    For more information on release readiness target field descriptions, see [Release readiness target form](../reference/create-release-readiness-target-form.md).
+    For more information on release readiness target field descriptions, see [Release readiness target form](create-release-readiness-target-form.md).
 
 6.  Select **Next**.
 

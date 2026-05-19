@@ -32,7 +32,7 @@ Download the ServiceNow® mobile application on an iOS platform from the Apple A
 3.  Tap **My Approvals** to start managing your requests.
 
 
-**Parent Topic:**[Fulfiller experience in Mobile Agent](../concept/itsm-mobile-request-approval.md)
+**Parent Topic:**[Fulfiller experience in Mobile Agent](itsm-mobile-request-approval.md)
 
 **Related topics**  
 

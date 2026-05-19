@@ -66,7 +66,7 @@ The EAM Populate Licensing Data scheduled job runs every Sunday to generate subs
 
 4.  View the following subscription consumption information for the application.
 
-    **Note:** Subscription consumption information is generated and grouped by resource category. For more information on resource categories, see [Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) licensing](../concept/eam-dcnam-licensing.md).
+    **Note:** Subscription consumption information is generated and grouped by resource category. For more information on resource categories, see [Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) licensing](eam-dcnam-licensing.md).
 
     |Field|Description|
     |-----|-----------|
@@ -78,5 +78,5 @@ The EAM Populate Licensing Data scheduled job runs every Sunday to generate subs
     |Total Subscription Units Consumed|Total number of subscriptions that you have consumed for the given resource category and subcategory. The ITAM licensing module calculates this value by applying the Subscription Unit Ratio to the Resource Total Count.|
 
 
-**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](../concept/eam-dcnam.md)
+**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](eam-dcnam.md)
 

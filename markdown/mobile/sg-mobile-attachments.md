@@ -19,7 +19,7 @@ You can enable attachments on a mobile record screen. Navigate to your record sc
 
 ![Attachment check box on the screen configuration form in Mobile App Builder.](../image/mobile-attach-checkbox.png "Attachment check box on the screen configuration form")
 
-For details on the record screen configuration, see [Configure a record screen for use with a list screen](../task/sg-configure-form-applet.md).
+For details on the record screen configuration, see [Configure a record screen for use with a list screen](sg-configure-form-applet.md).
 
 ## View the attachment list on your record screens
 

@@ -32,5 +32,5 @@ CSV files must include a header row followed by data rows.
 -   **[Example of bulk monitors using CSV file](bulk-monitors-using-csv-file_0.md)**  
 This is an example of using a CSV file wrapped in a JSON object to create bulk monitors using terminal.
 
-**Parent Topic:**[ITOM AIOps](../../it-operations-management/reference/itom-health-landing-page.md)
+**Parent Topic:**[ITOM AIOps](itom-health-landing-page.md)
 

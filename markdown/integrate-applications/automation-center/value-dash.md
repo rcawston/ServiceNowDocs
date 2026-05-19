@@ -32,7 +32,7 @@ You can access the Value dashboard in either of two ways:
 
 The Goals chart displays the summary of automation goals categorized by their state along with the estimated cost saved per year.
 
-For information about automation goals, see [Create an automation goal](../task/create-automation-goal.md).
+For information about automation goals, see [Create an automation goal](create-automation-goal.md).
 
 By default, the Goals chart provides details of all automation goals with associated active automation requests for the day you’re viewing the data.
 

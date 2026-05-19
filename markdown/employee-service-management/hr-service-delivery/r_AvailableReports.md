@@ -33,10 +33,10 @@ Predefined HR reports are available in the **HR Case Management** &gt; **Reports
 |SLA Breached|Count of HR cases with a breached SLA|Number|
 |Unassigned HR Cases|List of HR cases not assigned to any user.|Number, Type, Category, State, Short description, Opened by, Assignment group, Assigned to|
 
-**Parent Topic:**[Run Reports](../task/t_RunningHRReports.md)
+**Parent Topic:**[Run Reports](t_RunningHRReports.md)
 
 **Related topics**  
 
 
-[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+[HR Administration](c_AdministerHRServiceManagement.md)
 

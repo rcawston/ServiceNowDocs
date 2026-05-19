@@ -21,7 +21,7 @@ Add members or equipment to your crew to organize your crew and resources.
 
 ### Before you begin
 
-To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../asset-management-for-field-service/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 
@@ -50,7 +50,7 @@ Add members or equipment to task crew meet the resource needs of a work order ta
 
 ### Before you begin
 
-To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../asset-management-for-field-service/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 
@@ -85,7 +85,7 @@ View the resource requirements of a task and add the appropriate assignees to en
 
 ### Before you begin
 
-To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To add equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.fsm\_resource\_scheduling\). For more information, see [Activate Resource Scheduling](../asset-management-for-field-service/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 

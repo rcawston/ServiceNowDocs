@@ -23,20 +23,20 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure ![Plan and configure your implementation.](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/set-up-hr-integ.md)
+[Configure ![Plan and configure your implementation.](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](set-up-hr-integ.md)
 
 </td><td>
 
-[Use ![Use Enterprise Service Management Integrations Framework for third party integrations.](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Enterprise Service Management Integrations Framework for third party integrations.](../task/use-integrations-framework.md)
+[Use ![Use Enterprise Service Management Integrations Framework for third party integrations.](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Enterprise Service Management Integrations Framework for third party integrations.](use-integrations-framework.md)
 
 </td><td>
 
-[Reference ![Get details about components like fields, tables, and properties.](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../task/ent-service-mgmt-int-framework-reference.md)
+[Reference ![Get details about components like fields, tables, and properties.](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](ent-service-mgmt-int-framework-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
 
--   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/hr-service-delivery-landing.md).
+-   Learn more about what's new and changed, see the [HR Service Delivery release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying  features at [Employee Service Management](https://mynow.servicenow.com/now/best-practices/collections/employee-service-management-best-practices).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
